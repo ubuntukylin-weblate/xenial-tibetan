@@ -1,0 +1,155 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "  %s has no binary override entry either\n"
+msgstr "  %s ནང་དུ་གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་ཡིག་ཆའི་ཚན overrideམེད།\n"
+
+msgid "  %s has no override entry\n"
+msgstr "  %s ནང་དུ་ཚནoverrideམེད།\n"
+
+msgid "  %s has no source override entry\n"
+msgstr "  %s ནང་ཁུངས་ཚབ་ཨང་གི་ཚན་ override མེད།\n"
+
+msgid "  %s maintainer is %s not %s\n"
+msgstr "  %sསྲུང་མཁན་%sནི་%sམིན།\n"
+
+msgid " DeLink %s [%s]\n"
+msgstr " DeLink %s [%s]\n"
+
+msgid " DeLink limit of %sB hit.\n"
+msgstr " DeLinkཡི་གོང་ཚད་%sBལ་སླེབས།\n"
+
+msgid "*** Failed to link %s to %s"
+msgstr "*** %sལ་%sའབྲེལ་མི་ཐུབ།"
+
+msgid "Archive had no package field"
+msgstr "ཡིག་ཚགས་ཡིག་ཆ་རུ་ཡིག་དུམ package མེད།"
+
+msgid "Archive has no control record"
+msgstr "ཡིག་ཚགས་ཡིག་ཆ་རུ་ཚོད་འཛིན་ཡིག་དུམ་མེད།"
+
+msgid "Cannot get debconf version. Is debconf installed?"
+msgstr "debconfཡི་པར་གཞི་ཐོབ་མི་ཐུབ། ཁྱེད་ཀྱིས་debconfསྒྲིག་འཇུག་བྱ་བ་ཡིན་ནམ།"
+
+msgid "Compress child"
+msgstr "བུ་འཕེལ་རིམ་གནོན་པ།"
+
+msgid "Compressed output %s needs a compression set"
+msgstr "བཙིར་ནས་འདོན་པའི་ཡིག་ཆ་ %sལ་བཙིར་གནོན་ཡིག་ཆའི་ཚོགས་སྤྱི་ཞིག་དགོས།"
+
+msgid "DB is old, attempting to upgrade %s"
+msgstr "གཞི་གྲངས་མཛོད་དུས་བརྒལ། ད་རིམ་སྤེལ་པ་ཚོད་ལྟ་བྱེད་ %s"
+
+msgid "DB was corrupted, file renamed to %s.old"
+msgstr ""
+"གཞི་གྲངས་མཛོད་སྐྱོན་བྱུང་བ། "
+"གཞི་གྲངས་མཛོད་འདིའི་ཡིག་ཆའི་ཡིག་ཆའི་མིང་%s.oldལ་སྒྱུར།"
+
+msgid "E: "
+msgstr "ནོར་འཁྲུལ།："
+
+msgid "E: Errors apply to file "
+msgstr "ནོར་འཁྲུལ། ཡིག་ཆ་སྒྲིག་གཅོད་བྱེད་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "Error processing contents %s"
+msgstr "དཀར་ཆག་ %s སྒྲིག་གཅོད་སྐབས་སུ་ནོར་བྱུང་།"
+
+msgid "Error processing directory %s"
+msgstr "དཀར་ཆག་ %s སྒྲིག་གཅོད་སྐབས་སུ་ནོར་བྱུང་།"
+
+msgid "Error writing header to contents file"
+msgstr "མགོ་དཀར་ཆག་ཡིག་ཆ་རུ་འབྲི་དུས་ནོར་བྱུང་།"
+
+msgid "Failed to create IPC pipe to subprocess"
+msgstr "བུ་འཕེལ་རིམ་མདོང་ལམ་ IPCབཟོ་མི་ཐུབ།"
+
+msgid "Failed to fork"
+msgstr "fork བྱེད་ཐབས་བྲལ།"
+
+msgid "Failed to open %s"
+msgstr "%s ཁ་ཕྱེ་ཐབས་མེད།"
+
+msgid "Failed to read .dsc"
+msgstr ".dscཡིག་ཆ་ཀློག་པ་ཕམ་པ།"
+
+msgid "Failed to read the override file %s"
+msgstr " overrideཡི་ཡིག་ཆ་ %sཀློག་མི་ཐུབ།"
+
+msgid "Failed to read while computing MD5"
+msgstr " MD5ཡི་དག་བཤེར་རྩིས་སྐབས་གཞི་གྲངས་ཀློག་མི་ཐུབ།"
+
+msgid "Failed to readlink %s"
+msgstr "རྟགས་སྦྲེལ་ %sཀློག་མི་ཐུབ།"
+
+msgid "Failed to rename %s to %s"
+msgstr "%sམིང་བསྐྱར་དུ་བཏགས་ནས་%sཞེས་འབོད་ཐབས་མེད།"
+
+msgid "Failed to resolve %s"
+msgstr "%sལ་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།"
+
+msgid "Failed to stat %s"
+msgstr "%s ཡི་རྣམ་པ་ཐོབ་མི་ཐུབ།"
+
+msgid "IO to subprocess/file failed"
+msgstr "བུ་འཕེལ་རིམ་ཡང་ན་ཡིག་ཆ་ལ་ཀློག་འབྲི་བྱ་མི་ཐུབ།"
+
+msgid "Internal error, failed to create %s"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།  %sགསར་བཟོ་བྱ་མི་ཐུབ།"
+
+msgid "Malformed override %s line %llu (%s)"
+msgstr "override ཡིག་ཆ་ %sཡི་ཕྲེང་ %llu། (%s)ཡི་རྣམ་གཞག་ནོར་བ།"
+
+msgid "No selections matched"
+msgstr "བདམས་པ་གང་ཡང་སྙོམ་འགྲིག་མེད།"
+
+msgid "Package extension list is too long"
+msgstr "མཉེན་ཆས་ཐུམ་གྱི་བསྐྱེད་པའི་རེའུ་མིག་རིང་དྲགས།"
+
+msgid "Some files are missing in the package file group `%s'"
+msgstr "མཉེན་ཆས་ཐུམ་ཡིག་ཆ་ཚོ“%s”རུ་ཡིག་ཆ་འགའ་མི་འདང་།"
+
+msgid "Source extension list is too long"
+msgstr "ཁུངས་རྒྱ་སྐྱེད་རེའུ་མིག་རིང་དྲགས།"
+
+msgid "Tree walking failed"
+msgstr "དཀར་ཆག་སྡོང་འགྲེམས་རྒྱུད་མི་ཐུབ།"
+
+msgid "Unable to get a cursor"
+msgstr "མཚོན་རྟགས་ཐོབ་མི་ཐུབ།"
+
+msgid "Unable to open %s"
+msgstr "%s ཁ་ཕྱེ་ཐབས་མེད།"
+
+msgid "Unable to open DB file %s: %s"
+msgstr "གཞི་གྲངས་མཛོད་ཡིག་ཆ་ %s：%sཁ་འབྱེད་མི་ཐུབ།"
+
+msgid "Unable to write to %s"
+msgstr "%s་འབྲི་ཐབས་མེད།"
+
+msgid "Unknown compression algorithm '%s'"
+msgstr "མི་ཤེས་བཙིར་གནོན་རྩི་ཐབས“%s”"
+
+msgid "Unknown package record!"
+msgstr "མི་ཤེས་པའི་མཉེན་ཆས་ཐུམ་གྱི་ཐོ་འགོད།"
+
+msgid "W: Unable to read directory %s\n"
+msgstr ""
+"ཐ་ཚིག དཀར་ཆག་ %s\n"
+"ཀློག་མི་ཐུབ།"
+
+msgid "W: Unable to stat %s\n"
+msgstr "ཐ་ཚིག  %s ཡི་རྣམ་པ་ཐོབ་མི་ཐུབ།\n"
+
+msgid "realloc - Failed to allocate memory"
+msgstr "realloc - ནང་གསོག་བགོད་པ་ཕམ་པ།"

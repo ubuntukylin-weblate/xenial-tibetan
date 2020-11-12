@@ -1,0 +1,525 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "  Subdevice #%i: %s\n"
+msgstr "  བུ་སྒྲིག་ཆས་ #%i: %s\n"
+
+msgid "  Subdevices: %i/%i\n"
+msgstr "  བུ་སྒྲིག་ཆས།： %i/%i\n"
+
+msgid "  client mode: aseqnet [-options] server_host\n"
+msgstr "  དུད་སྣེའི་རྣམ་པ།：aseqnet [-options] server_host\n"
+
+msgid "  server mode: aseqnet [-options]\n"
+msgstr "  ཞབས་ཞུ་ཆས་ཀྱི་རྣམ་པ།：aseqnet [-options]\n"
+
+msgid " * Connection/disconnection between two ports\n"
+msgstr " *སྣེ་གཉིས་བར་གྱི་སྦྲེལ་བ/སྦྲེལ་མེད།\n"
+
+msgid " * List connected ports (no subscription action)\n"
+msgstr "བསྟན་པའི་སྦྲེལ་སྣེ།（མངགས་ཉོ་བྱས་མེད།）\n"
+
+msgid " * Remove all exported connections\n"
+msgstr " * ཐོན་པའི་སྦྲེལ་མཐུད་ཡོངས་འདོར་བ།\n"
+
+msgid ""
+" can't play WAVE-files with sample %d bits in %d bytes wide (%d channels)"
+msgstr ""
+" "
+"པི་ཐེ%dཡི་མ་དཔེ་པི་ཐེ%dཡི་ཞེང་ཚད（འཕྲིན་ལམ%d）ཡི་རླབས་དབྱིབས་ཡིག་ཆ་གཏོང་མི་ཐུབ།"
+
+msgid " can't play WAVE-files with sample %d bits wide"
+msgstr " མ་དཔེ་ཡིག་ཆ་%dཞེང་ཚད་མ་དཔེའི་ཡིག་ཆའི་རླབས་དབྱིབས་ཡིག་ཆ་གཏོང་མི་ཐུབ།"
+
+msgid "%s is not a mono stream (%d channels)\n"
+msgstr "%sནི་སྒྲ་ལམ་རྐྱང་བའི་རྒྱུན（འཕྲིན་ལམ%d）ཞིག་མིན།"
+
+msgid "%s!!! (at least %.3f ms long)\n"
+msgstr "%s（མ་མཐར་རིང་ཚད་%.3f ms）\n"
+
+msgid "Aborted by signal %s...\n"
+msgstr "བརྡ་རྟགས་ཀྱིས %s...འདོན་པ།\n"
+
+msgid "Access type not available"
+msgstr "རིགས་གྲས་སྤྱོད་མི་རུང་།"
+
+msgid "Access type not available for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་རིགས་གྲས་སྤྱོད་མི་རུང་།%s\n"
+
+msgid "Broken configuration for playback: no configurations available: %s\n"
+msgstr ""
+"གཏོར་བརླག་ཐེབས་པའི་བསྐྱར་གཏོང་བཀོད་སྒྲིག "
+"སྤྱོད་རུང་གི་བཀོད་སྒྲིག་ཡིག་ཆ་མེད།%s\n"
+
+msgid "Broken configuration for this PCM: no configurations available"
+msgstr "གཏོར་བཤིག་ཐེབས་པའི་PCMསྡེབ་སྒྲིག སྤྱོད་རུང་གི་བཀོད་སྒྲིག་ཡིག་ཆ་མེད།"
+
+msgid "Buffer size range from %lu to %lu\n"
+msgstr "ལྷོད་གཏོང་ཆེ་ཆུང་གི་ཁྱབ་ཁོངས་ནི་%luནས་%luབར་ཡིན།\n"
+
+msgid "Can't recovery from suspend, prepare failed: %s\n"
+msgstr "མལ་གསོ་ལས་སླར་གསོ་བྱ་མི་ཐུབ། ཉམས་གསོ་ཕམ་པ།%s\n"
+
+msgid "Can't recovery from underrun, prepare failed: %s\n"
+msgstr "རྒྱབ་སྟེགས་ནས་སླར་གསོ་བྱ་མི་ཐུབ། ཉམས་གསོ་ཕམ་པ།%s\n"
+
+msgid "Can't use period equal to buffer size (%lu == %lu)"
+msgstr "ལྷོད་གཏོང་ཁུལ་གྱི་ཆེ་ཆུང་（%lu==%lu）དང་འདྲ་བའི་དུས་དུམ་བཀོལ་མི་ཐུབ།"
+
+msgid "Cannot open WAV file %s\n"
+msgstr "ཡིག་ཆWAVཁ་ཕྱེ་མི་ཐུབ།་ %s\n"
+
+msgid "Center"
+msgstr "དཀྱིལ་སྒྲིག"
+
+msgid "Channels %i"
+msgstr "འཕྲིན་ལམ་ %i"
+
+msgid "Channels count (%i) not available for playbacks: %s\n"
+msgstr "འཕྲིན་ལམ་གྱི་གྲངས་བགྲང་（%i）གཏོང་མི་ཐུབ།%s\n"
+
+msgid "Channels count non available"
+msgstr "འཕྲིན་ལམ་གྱི་གྲངས་བགྲང་སྤྱོད་མི་ཐུབ།"
+
+msgid "Connected From"
+msgstr "འབྲེལ་མཐུད་ས"
+
+msgid "Connecting To"
+msgstr "འབྲེལ་བཞིན་པ་"
+
+msgid "Connection failed (%s)\n"
+msgstr "འབྲེལ་མཐུད་ཕམ་པ（%s）\n"
+
+msgid "Connection is already subscribed\n"
+msgstr "འབྲེལ་མཐུད་སྔོན་བཀོད་བྱས་ཟིན།\n"
+
+msgid "Copyright (C) 1999-2000 Takashi Iwai\n"
+msgstr "Copyright(C) 1999-2000 Takashi Iwai\n"
+
+msgid "Disconnection failed (%s)\n"
+msgstr "འབྲེལ་མཐུད་གཅོད་མ་ཐུབ།(%s)\n"
+
+msgid "Done.\n"
+msgstr "ལེགས་འགྲུབ།\n"
+
+msgid "Failed. Restarting stream. "
+msgstr "ཕམ་པ། རྒྱུན་འགོ་ཡང་བསྐྱར་གཏོང་ "
+
+msgid "Front Left"
+msgstr "གཡོན་མདུན་ཕྱོགས་"
+
+msgid "Front Right"
+msgstr "གཡས་མདུན་ཕྱོགས"
+
+msgid "Invalid WAV file %s\n"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་ཆ་WAV %s\n"
+
+msgid "Invalid number of periods %d\n"
+msgstr "ནུས་མེད་ཀྱི་དུས་མཚམས་གྲངས་ཀ %d\n"
+
+msgid "Invalid parameter for -s option.\n"
+msgstr "-sའདེམས་ཚན་ཀྱི་ནུས་མེད་ཞུགས་གྲངས་\n"
+
+msgid "Invalid test type %s\n"
+msgstr "ནུས་མེད་ཀྱི་ཚོད་ལྟའི་རིགས་གྲས་ %s\n"
+
+msgid "Max peak (%li samples): 0x%08x "
+msgstr "རྩེ་གྲངས་ཆེ་ཤོག（མ་དཔེ་%li）：0x%08x "
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "No enough memory\n"
+msgstr "ནང་གསོག་མི་འདང་བ། \n"
+
+msgid "No subscription is found\n"
+msgstr "སྔོན་བཀོད་མི་ཐུབ།\n"
+
+msgid "Not a WAV file: %s\n"
+msgstr "WAV ཡིག་ཆ་མིན %s\n"
+
+msgid "Period size range from %lu to %lu\n"
+msgstr "དུས་དུམ་ཆེ་ཆུང་%luནས་%luབར་ཡིན།\n"
+
+msgid "Periods = %u\n"
+msgstr "དུས་དུམ=%u\n"
+
+msgid "Playback device is %s\n"
+msgstr "བསྐྱར་གཏོང་སྒྲིག་ཆས་ནི་%sཡིན།\n"
+
+msgid "Playback open error: %d,%s\n"
+msgstr "བསྐྱར་གཏོང་ཁ་ཕྱེ་ནོར་བ %d,%s\n"
+
+msgid "Playing"
+msgstr "གཏོང་བཞིན་པ།"
+
+msgid "Playing Creative Labs Channel file '%s'...\n"
+msgstr "Creative Labs Channel ཡིག་ཆ་གཏོང་བཞིན་པ '%s'...\n"
+
+msgid "Rate %d Hz, "
+msgstr "ཟློས་ཕྱོད་%dHz， "
+
+msgid "Rate %iHz not available for playback: %s\n"
+msgstr "ཟློས་ཕྱོད་ %iHzགཏོང་མི་ཐུབ།%s\n"
+
+msgid "Rate doesn't match (requested %iHz, get %iHz, err %d)\n"
+msgstr "ཟློས་ཕྱོད་དོ་མི་མཉམ།（དགོས་རྒྱུ %iHzདང་། འབྱོར་བ %iHz ནོར་འཁྲུལ %d）\n"
+
+msgid "Rate set to %iHz (requested %iHz)\n"
+msgstr "ཟློས་ཕྱོད་%iHzལ་བཀོད།（རེ་བ་ནི་%iHzཡིན།）\n"
+
+msgid "Rear Left"
+msgstr "གཡོན་རྒྱབ་ཕྱོགས།"
+
+msgid "Rear Right"
+msgstr "གཡས་རྒྱབ་ཕྱོགས།"
+
+msgid "Recognized sample formats are:"
+msgstr "འོས་པའི་དཔེ་ལེན་རྣམ་པ་"
+
+msgid "Recording"
+msgstr "སྒྲ་ཕབ་བཞིན་པ།"
+
+msgid "Requested buffer time %u us\n"
+msgstr "རེ་བའི་ལྷོད་གཏོང་དུས་ཚོད་ %u us\n"
+
+msgid "Requested period time %u us\n"
+msgstr "རེ་བའི་དུས་དུམ%u us\n"
+
+msgid "Sample format non available"
+msgstr "མ་དཔེའི་རྣམ་པ་སྤྱོད་མི་ཆོག"
+
+msgid "Sample format not available for playback: %s\n"
+msgstr "མ་དཔེའི་རྣམ་པ་བསྐྱར་དུ་གཏོང་མི་ཐུབ་པ།%s\n"
+
+msgid "Sample rate doesn't match (%d) for %s\n"
+msgstr "མ་དཔེའི་ཟློས་ཕྱོད་མི་མཐུན（%d）ས%s\n"
+
+msgid "Setting of hwparams failed: %s\n"
+msgstr "hwཞུགས་གྲངས་བཀོད་མི་ཐུབ།%s\n"
+
+msgid "Setting of swparams failed: %s\n"
+msgstr "swཞུགས་གྲངས་བཀོད་མི་ཐུབ%s\n"
+
+msgid "Side Left"
+msgstr "གཡོན་ཕྱོགས།"
+
+msgid "Side Right"
+msgstr "གཡས་ཕྱོགས།"
+
+msgid "Sine wave rate is %.4fHz\n"
+msgstr "རླབས་དབྱིབས་Sineཡི་ཟློས་ཕྱོད་ནི་%.4fHzཡིན།\n"
+
+msgid "Sparc Audio doesn't support %s format..."
+msgstr ""
+"Sparc Audioཡིས་རྣམ་པ་%sརྒྱབ་སྐྱོར་མི་བྱེད།...Sparc "
+"Audioཡིས་%sརྣམ་པ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Status:\n"
+msgstr ""
+"རྣམ་པ་\n"
+"རྣམ་པ།"
+
+msgid "Stream parameters are %iHz, %s, %i channels\n"
+msgstr "རྒྱུན་གྱི་ཞུགས་གྲངས་ནི་འཕྲིན་ལམ་%iHz，%s，%i \n"
+
+msgid "Suspended. Trying resume. "
+msgstr "མཚམས་བཞག སླར་གསོ་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།"
+
+msgid ""
+"Suspicious buffer position (%li total): avail = %li, delay = %li, buffer = "
+"%li\n"
+msgstr ""
+"དོགས་པའི་ལྷོད་གཏོང་གནས་ས（ཁྱོན་བསྡོམས "
+"%li）བྱེད་ནུས=%li，ཕྱིར་འགྱངས=%li，ལྷོད་གཏོང་=%li\n"
+
+msgid "Time per period = %lf\n"
+msgstr "དུས་དུམ་རེའི་དུས་ཚོད་=%lf\n"
+
+msgid "Transfer failed: %s\n"
+msgstr "འཕོ་འགྱུར་ཕམ་པ%s\n"
+
+msgid "Try `%s --help' for more information.\n"
+msgstr "བཀའ་བརྡ་“%s --help”ཡིས་ཆ་འཕྲིན་དེ་ལས་མང་ཐོབ་པར་ཚོད་ལྟ།\n"
+
+msgid "Unable to determine current swparams for playback: %s\n"
+msgstr "མིག་སྔའི་བསྐྱར་གཏོང་གི་swཞུགས་གྲངས་ཐག་མི་ཆོད%s\n"
+
+msgid "Unable to install hw params:"
+msgstr "ཞུགས་གྲངས་hwསྒྲིག་སྦྱོར་མི་ཐུབ།"
+
+msgid "Unable to set avail min for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་གི་ནུས་མེད་སྐར་གྲངས་བཀོད་མི་ཐུབ་%s\n"
+
+msgid "Unable to set buffer size %lu for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་གི་ལྷོད་གཏོང་ཆེ་ཆུང་བཀོད་མི་ཐུབ་ %lu：%s\n"
+
+msgid "Unable to set buffer time %u us for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་གི་ལྷོད་གཏོང་དུས་ཚོད་བཀོད་མི་ཐུབ %u us:%s\n"
+
+msgid "Unable to set hw params for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་གིhwཞུགས་གྲངས་བཀོད་མི་ཐུབ།%s\n"
+
+msgid "Unable to set nperiods %u for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་གི་nདུས་དུམ་བཀོད་མི་ཐུབ%u: %s\n"
+
+msgid "Unable to set period time %u us for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་དུས་དུམ་བཀོད་མི་ཐུབ%u us：%s\n"
+
+msgid "Unable to set start threshold mode for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་གི་འགོ་འཛིན་རྣམ་པ་བཀོད་མི་ཐུབ།%s\n"
+
+msgid "Unable to set sw params for playback: %s\n"
+msgstr "བསྐྱར་གཏོང་གི་swཞུགས་གྲངས་བཀོད་མི་ཐུབ%s\n"
+
+msgid "Undefined channel %d\n"
+msgstr "གཏན་འཁེལ་གྱི་འཕྲིན་ལམ་ %d\n"
+
+msgid "Unknown option '%c'\n"
+msgstr "མི་ཤེས་པའི་ཞུགས་གྲངས་ '%c'\n"
+
+msgid "Unsupported WAV format %d for %s\n"
+msgstr "རྣམ་པWAVཡི་ %dལ་རྒྱབ་སྐྱོར་མི་བྱེད%s\n"
+
+msgid "Unsupported bit size %d.\n"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་པི་ཐེ་ཆེ་ཆུང་%d\n"
+
+msgid "Unsupported sample format bits %d for %s\n"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་མ་དཔེ་རྣམ་པའི་པི་ཐེ%dལ་%sཡིན།\n"
+
+msgid "Usage:\n"
+msgstr "སྤྱོད་སྟངས།：\n"
+
+msgid "Using 16 octaves of pink noise\n"
+msgstr "ཕང་ཁེའི་འཛེར་སྒྲ་མདངས་8ཅན་16སྤྱོད་བཞིན་པ།\n"
+
+msgid "Using max buffer size %lu\n"
+msgstr "ལྷོད་གཏོང་ཆེ་ཆུང་ཆེས་ཤོས་ %luསྤྱོད་པ།\n"
+
+msgid "Warning: format is changed to MU_LAW\n"
+msgstr "ཐ་ཚིག རྣམ་གཞག་ MU_LAWལ་སྒྱུར།\n"
+
+msgid "Warning: format is changed to S16_BE\n"
+msgstr "ཐ་ཚིག རྣམ་གཞག་ S16_Beལ་སྒྱུར།\n"
+
+msgid "Warning: format is changed to U8\n"
+msgstr "ཐ་ཚིག རྣམ་གཞག་U8ལ་སྒྱུར།\n"
+
+msgid "Warning: rate is not accurate (requested = %iHz, got = %iHz)\n"
+msgstr "ཐ་ཚིག  ཟློས་ཕྱོད་ཞིབ་ཚད་མི་འདང་།（རེ་བ=%iHz，འབྱོར་བ=%iHz）\n"
+
+msgid "Wave doesn't support %s format..."
+msgstr "རླབས་ཀྱིས%sརྣམ་གཞག་རྒྱབ་སྐྱོར་མི་བྱེད..."
+
+msgid "Write error: %d,%s\n"
+msgstr "འབྲི་ནོར་%d,%s\n"
+
+msgid "You need to specify %d files"
+msgstr "ཁྱོད་ཀྱིས་ཡིག་ཆ་གྲངས་%dགཏན་འཁེལ་བྱ་དགོས་"
+
+msgid "accepted[%d]\n"
+msgstr "ཁས་བླངས་[%d]\n"
+
+msgid "aconnect - ALSA sequencer connection manager\n"
+msgstr "aconnect - ALSA སྒྲ་རིམ་ཆས་དོ་དམ་ཆས་སུ་འབྲེལ་པ\n"
+
+msgid "aseqnet - network client/server on ALSA sequencer\n"
+msgstr "aseqnet - ALSAཡི་སྒྲ་རིམ་ཆས་དྲ་བའི་མཁོ་མཁན/ཞབས་ཞུ་ཆས་\n"
+
+msgid "audio open error: %s"
+msgstr "རོལ་དབྱངས་ཁ་ཕྱེ་ནོར་འཁྲུལ %s"
+
+msgid "bad speed value %i"
+msgstr "ནོར་འཁྲུལ་གྱི་མྱུར་ཚད། %i"
+
+msgid "buffer to small, could not use\n"
+msgstr "ལྷོད་གཏོང་ཆུང་དྲགས། སྤྱོད་མི་རུང་།\n"
+
+msgid "can't allocate buffer for silence"
+msgstr "སྒྲ་མེད་ལ་ལྷོད་གཏོང་བགོད་མི་ཐུབ"
+
+msgid "can't get address %s\n"
+msgstr "ཤག་གནས་ཐོབ་ཐབས་མེད %s\n"
+
+msgid "can't get client id\n"
+msgstr "དུད་སྣེ་ཐོབ་མི་ཐུབ་id\n"
+
+msgid "can't malloc\n"
+msgstr "ནང་གསོག་བགོད་མི་ཐུབ\n"
+
+msgid "can't open sequencer\n"
+msgstr "སྒྲ་རིམ་ཆས་ཁ་ཕྱེ་མི་ཐུབ་པ།\n"
+
+msgid "can't play WAVE-file format 0x%04x which is not PCM or FLOAT encoded"
+msgstr ""
+"སྒྲིག་ཨང་PCMཡང་ན་FLOATམིན་པའི་རྣམ་གཞག0x%04xཅན་གྱི་རླབས་དབྱིབས་ཡིག་ཆ་གཏོང་མི་ཐུབ།"
+
+msgid "can't play WAVE-files with %d tracks"
+msgstr "སྒྲ་ལམ%dཡི་རླབས་དབྱིབས་ཡིག་ཆ་གཏོང་མི་ཐུབ་"
+
+msgid "can't play loops; %s isn't seekable\n"
+msgstr "རེས་འཁོར་གྱིས་གཏོང་མི་ཐུབ། %sལེན་མི་ཐུབ།\n"
+
+msgid "can't play packed .voc files"
+msgstr "ཐུམ་རྒྱག་པའི.vocཡིག་ཆ་གཏོང་མི་ཐུབ།"
+
+msgid "can't set client info\n"
+msgstr "དུད་སྣེའི་ཆ་འཕྲིན་བཀོད་མི་ཐུབ།\n"
+
+msgid "capture stream format change? attempting recover...\n"
+msgstr "འཛིན་རྒྱུན་གྱི་རྣམ་གཞག་འགྱུར་རམ། སླར་གསོ་ལ་ཚོད་ལྟ་བྱེད།...\n"
+
+msgid "closing files..\n"
+msgstr ""
+"ཡིག་ཆ་ཁ་རྒྱག་པ།...\n"
+"ཡིག་ཆ་ཁ་བརྒྱབ།"
+
+msgid "command should be named either arecord or aplay"
+msgstr "སྒྲ་ཕབ་པའམ་གཏོང་བ། བཀའ་བརྡ་ལ་མིང་འདོགས་དགོས།"
+
+msgid "disconnected\n"
+msgstr "འབྲེལ་མཐུད་བྱས་མེད།\n"
+
+msgid "info error: %s"
+msgstr "བརྡ་འཕྲིན་ནོར་བ།%s"
+
+msgid "invalid destination address %s\n"
+msgstr "ནུས་མེད་ཀྱི་དམིགས་ཡུལ་ས་གནས %s\n"
+
+msgid "invalid sender address %s\n"
+msgstr "ནུས་མེད་ཀྱི་གཏོང་མཁན་ས་གནས %s\n"
+
+msgid "invalid source address %s\n"
+msgstr "ནུས་མེད་ཀྱི་ཁུངས་ས་གནས %s\n"
+
+msgid "kernel"
+msgstr "ནང་སྙིང་།"
+
+msgid "malloc error"
+msgstr "བགོད་པ་ནོར་འཁྲུལ།"
+
+msgid "no soundcards found..."
+msgstr "སྒྲ་ནུས་ཁཱ་མི་རྙེད།…"
+
+msgid "nonblock setting error: %s"
+msgstr "དོག་ནོར་འཁྲུལ་བཀོད་མེད། %s"
+
+msgid "not enough memory"
+msgstr "དྲན་གཟུགས་མི་འདང་།"
+
+msgid "ok.. connected\n"
+msgstr "ok.. འབྲེལ་མཐུད་བྱས་པ།\n"
+
+msgid "options:\n"
+msgstr "འདེམས་ཚན།：\n"
+
+msgid "overrun"
+msgstr "མདུན་སྟེགས་འཁོར་སྐྱོད།"
+
+msgid "raw data"
+msgstr "གདོད་མའི་རྒྱུ་ཆ།"
+
+msgid "read error"
+msgstr "ཀློག་ལནེ་ནོར་འཁྲུལ"
+
+msgid "read error (called from line %i)"
+msgstr "ཀློག་ལནེ་ནོར་འཁྲུལ（འཕྲེད %i）"
+
+msgid "read error: %s"
+msgstr "ཀློག་ལནེ་ནོར་འཁྲུལ%s"
+
+msgid "read/write error, state = %s"
+msgstr "ཀློག་/འབྲི་ནོར་འཁྲུལ། རྣམ་པ་=%s"
+
+msgid "readv error: %s"
+msgstr "readv ནོར་འཁྲུལ། %s"
+
+msgid "sequencer opened: %d:%d\n"
+msgstr "སྒྲ་རིམ་ཆས་ཁ་ཕྱེ་བ།：%d:%d\n"
+
+msgid "service '%s' is not found in /etc/services\n"
+msgstr "ཞབས་ཞུ '%s'ནི /etc/servicesརུ་རྙེད་པ།\n"
+
+msgid "status error: %s"
+msgstr "རྣམ་པ་ནོར་འཁྲུལ།%s"
+
+msgid "suspend: prepare error: %s"
+msgstr "མཚམས་བཞག གྲ་སྒྲིག་ནོར་འཁྲུལ།%s"
+
+msgid "too many connections!\n"
+msgstr "འབྲེལ་མཐུད་མང་དྲགས།\n"
+
+msgid "unable to install sw params:"
+msgstr "swཞུགས་གྲངས་སྒྲིག་འཇུག་བྱ་མི་ཐུབ།"
+
+msgid "underrun"
+msgstr "རྒྱབ་སྟེགས་འཁོར་སྐྱོད།"
+
+msgid "unknown blocktype %d. terminate."
+msgstr "རྡོག་རིགས་གྲས་ %dམི་ཤེས། མཇུག་སྒྲིལ།"
+
+msgid "unknown length of 'fmt ' chunk (read %u, should be %u at least)"
+msgstr "རྡོག'fmt'ཡི་རིང་ཚད་མི་ཤེས།（ %uཀློག མ་མཐའ་ཡང་%uདགོས།）"
+
+msgid ""
+"unknown length of extensible 'fmt ' chunk (read %u, should be %u at least)"
+msgstr "སྐྱེད་རུང་རྡོག'fmt'ཡི་རིང་ཚད་མི་ཤེས།（%uཀློག མ་མཐའ་ཡང་%u）"
+
+msgid "unrecognized file format %s"
+msgstr "ཡིག་ཚགས་རྣམ་གཞག་དང་ལེན་མི་བྱེད། %s"
+
+msgid "usage:\n"
+msgstr "སྤྱོད་སྟངས།：\n"
+
+msgid "user"
+msgstr "སྤྱོད་མཁན།"
+
+msgid "value %i for channels is invalid"
+msgstr "འཕྲིན་ལམ་གྱི་ཚད་%i ནི་ནུས་མེད་ཡིན།"
+
+msgid "voc_pcm_flush - silence error"
+msgstr "voc_pcm_flush - སྒྲ་མེད་ནོར་འཁྲུལ།"
+
+msgid "voc_pcm_flush error"
+msgstr "voc_pcm_flush ནོར་འཁྲུལ།"
+
+msgid "was set buffer_size = %lu\n"
+msgstr "ལྷོད་གཏོང་གི་ཆེ་ཆུང་=%luལ་བཀོད།\n"
+
+msgid "was set period_size = %lu\n"
+msgstr "དུས་དུམ་གྱི་ཆེ་ཆུང་=%luལ་བཀོད།\n"
+
+msgid "write error"
+msgstr " འབྲི་འཇུག་ནོར་འཁྲུལ།"
+
+msgid "write error: %s"
+msgstr "འབྲི་བ་ནོར་འཁྲུལ།：%s"
+
+msgid "writev error: %s"
+msgstr "writev ནོར་འཁྲུལ།： %s"
+
+msgid "wrong extended format '%s'"
+msgstr "ནོར་འཁྲུལ་གྱི་སྐྱེད་རྣམ '%s'"
+
+msgid "wrong format tag in extensible 'fmt ' chunk"
+msgstr "རྡོག'fmt'ནང་དུ་ནོར་འཁྲུལ་གྱི་རྣམ་གཞག་གདོང་འཛར།"
+
+msgid "xrun(DRAINING): prepare error: %s"
+msgstr "xrun(DRAINING):གྲ་སྒྲིག་ནོར་འཁྲུལ།：%s"
+
+msgid "xrun: prepare error: %s"
+msgstr "xrun:གྲ་སྒྲིག་ནོར་འཁྲུལ།：%s"
+
+msgid "xrun_recovery failed: %d,%s\n"
+msgstr "xrun_recoveryཕམ་པ།：%d,%s\n"

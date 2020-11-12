@@ -1,0 +1,182 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "  stack[%d] =>   stack: %d   ind_level: %d\n"
+msgstr "  stack[%d] =>   stack: %d   ind_level: %d\n"
+
+msgid "%s: missing argument to parameter %s\n"
+msgstr "%s: %sའདེམ་བྱང་ལ་ཞུགས་གྲངས་ཆད་པ།\n"
+
+msgid "%s: option ``%s'' requires a numeric parameter\n"
+msgstr "%s:  \"%s'' འདེམ་བྱང་ལ་གྲངས་ཐང་ཞུགས་གྲངས་ཞིག་དགོས།\n"
+
+msgid "%s: unknown option \"%s\"\n"
+msgstr "%s: མི་ཤེས་པའི་འདེམ་བྱང་ \"%s\"\n"
+
+msgid "(Lines with comments)/(Lines with code): %6.3f\n"
+msgstr "（མཆན་འགྲེལ）/(ཙབ་ཨང་ཕྲེང་།)：%6.3f\n"
+
+msgid "CANNOT FIND '@' FILE!"
+msgstr "‘@’ཡིག་ཆ་མ་རྙེད་པ།"
+
+msgid "Can't close output file %s"
+msgstr "ཕྱིར་འདོན་ཡིག་ཆ་སྒོ་རྒྱག་ཐབས་བྲལ།%s"
+
+msgid "Can't open backup file %s"
+msgstr "གྲབས་ཉར་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ།%s"
+
+msgid "Can't open input file %s"
+msgstr "ཡིག་ཆ་ནང་འཇུག་གི་ཁ་ཕྱེ་ཐབས་བྲལ། %"
+
+msgid "Can't preserve modification time on backup file %s"
+msgstr ""
+"གྲབས་ཉར་ཡིག་ཆ་%sཡི་སྔར་ཡོད་ཀྱི་མཇུག་མཐའི་བཟོ་བཅོས་དུས་ཚོད་རྒྱུན་སྲུང་བྱེད་ཐབས་བྲལ།"
+
+msgid "Can't preserve modification time on output file %s"
+msgstr ""
+"ཕྱིར་གཏོང་ཡིག་ཆ་%sཡི་སྔར་ཡོད་ཀྱི་མཇུག་མཐའི་བཟོ་བཅོས་དུས་ཚོད་རྒྱུན་སྲུང་བྱེད་ཐབས་བྲལ།"
+
+msgid "Can't stat input file %s"
+msgstr "ནང་འཇུག་ཡིག་ཆ་%sསྡོམ་རྩིས་རྒྱག་ཐབས་བྲལ།"
+
+msgid "Can't write to backup file %s"
+msgstr "གྲབས་ཉར་ཡིག་ཆ་%sའབྲི་ཐབས་བྲལ།"
+
+msgid "EOF encountered in comment"
+msgstr "མཆན་འགྲེལ་ཁྲོད་EOFཐོན་པ།"
+
+msgid "Error"
+msgstr " ནོར་འཁྲུལ།"
+
+msgid "Error reading input file %s"
+msgstr "ནང་འཇུག་ཡིག་ཆ་ཀློག་ལེན་%s སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "File %s is too big to read"
+msgstr "ཡིག་ཆ་%sཆེ་དྲགས་པས་ཀློག་ཐབས་མི་འདུག"
+
+msgid ""
+"File named by environment variable %s does not exist or is not readable"
+msgstr ""
+"ཁོར་ཡུག་འགྱུར་ཚད་ཀྱི་%sཡིས་ཕྱོགས་བསྟན་ཡིག་ཆ་མི་གནས་པའམ་ཡང་ན་ཀློག་ཐབས་བྲལ་པ།"
+
+msgid "GNU indent %s\n"
+msgstr "GNU indent %s\n"
+
+msgid "Internal buffering error"
+msgstr "ནང་ཁུལ་གྱི་ལྷོད་གཏོང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+
+msgid "Line broken"
+msgstr "ཕྲེང་གཅོད་པ།"
+
+msgid "Line broken 2"
+msgstr "ཆད་གཅོད་པ། 2"
+
+msgid "ParseStack [%d]:\n"
+msgstr ""
+"\"ParseStack [%d]:\n"
+"\""
+
+msgid "Profile contains an unterminated comment"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་ནང་མཇུག་སྒྲིལ་མེད་པའི་མཆན་འགྲེལ།"
+
+msgid "Profile contains unpalatable characters"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་ཁྲོད་དུ་ངོ་མཚར་ཆེ་བའི་ཡིག་རྟགས་འདུས།"
+
+msgid "Read profile %s\n"
+msgstr ""
+"སྡེབ་སྒྲིག་ཡིག་ཆ་%s\n"
+"ཀློག་ལེན།"
+
+msgid "Stmt nesting error."
+msgstr "སྐོང་འཛུད་རྗོད་ཚིག་ནོར་འཁྲུལ།"
+
+msgid "System problem reading file %s"
+msgstr "ཡིག་ཆའི་%sཀློག་ལེན་སྐབས་རྒྱུད་ཁོངས་ལ་གནད་དོན་ཐོན་པ།"
+
+msgid "There were %d non-blank output lines and %d comments\n"
+msgstr "%d ཡི་སྟོང་འགྲོ་མིན་པ་དང་ཕྲེང་%d ཡི་མཆན་འགྲེལ།\n"
+
+msgid "Unexpected end of file"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་ཆ་མཇུག་མ།"
+
+msgid "Unknown code to parser"
+msgstr "ངེས་མེད་ཀྱི་ཚབ་ཨང་ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Unmatched 'else'"
+msgstr "ཟླ་མ་སྒྲིག་པའི་‘else’"
+
+msgid "Unterminated character constant"
+msgstr "མཇུག་རྫོགས་མེད་པའི་ཡིག་རྟགས་རྒྱུན་ཚད།"
+
+msgid "Unterminated string constant"
+msgstr "མཇུག་བསྒྲིལ་མེད་པའི་ཡིག་རྟགས་ཕྲེང་གི་རྒྱུན་ཚད།"
+
+msgid "Warning"
+msgstr " ཐ་ཚིག"
+
+msgid "command line"
+msgstr "བཀའ་བརྡའི་ཕྲེང་།"
+
+msgid "indent:  Strange version-control value\n"
+msgstr "indent：ཡ་མཚན་གྱི་པར་གཞི་ཚོད་འཛིན་ཐང་།\n"
+
+msgid "indent:  Using numbered-existing\n"
+msgstr "indent：ད་ཡོད་ཀྱི་པར་ཨང་སྤྱོད་པ།"
+
+msgid "indent: %s:%d: %s:"
+msgstr "\"indent: %s:%d: %s:\""
+
+msgid "indent: Can't make backup filename of %s\n"
+msgstr "indent：གྲབས་ཉར་ཡིག་ཆའི་མིང་འགྲུབ་ཐབས་བྲལ་པ%s\n"
+
+msgid "indent: Fatal Error: "
+msgstr "indent：ནོར་འཁྲུལ་ཚབ་ཆེན།"
+
+msgid "indent: System Error: "
+msgstr "indent：རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
+
+msgid "indent: Virtual memory exhausted.\n"
+msgstr "indent：རྟོག་བཟོའི་ནང་གསོག་ཟད་པ། \n"
+
+msgid "indent: can't create %s\n"
+msgstr ""
+"indent：%s\n"
+"གསར་འཛུགས་བྱ་ཐབས་བྲལ་བ།"
+
+msgid "indent: can't have filenames when specifying standard input\n"
+msgstr ""
+"indent：ཚད་ལྡན་ནང་འཇུག་བེད་སྤྱོད་སྐབས་ཡིག་ཆའི་མིང་དམིགས་འཛུགས་བྱེད་ཐབས་བྲལ།\n"
+
+msgid "indent: only one input file when output file is specified\n"
+msgstr ""
+"indent：ཕྱིར་འདོན་ཡིག་ཆ་དམིགས་འཛུགས་བྱས་ཟིན་དུས་ནང་འཇུག་ཡིག་ཆ་གཅིག་ལས་དང་ལེན་མི་བྱེད།"
+
+msgid "indent: only one input file when stdout is used\n"
+msgstr "indent：stdout སྤྱོད་སྐབས་ནང་འཇུག་ཡིག་ཆ་གཅིག་ལས་དང་ལེན་མི་བྱེད།"
+
+msgid "indent: only one output file (2nd was %s)\n"
+msgstr ""
+"indent：ཕྱིར་གཏོང་ཡིག་ཆ་གཅིག་མ་གཏོགས་མེད།（གཉིས་པ་ནི་%sཡིན།)\n"
+"\""
+
+msgid "old style assignment ambiguity in \"=%c\".  Assuming \"= %c\"\n"
+msgstr ""
+"ཐང་སྤྲོད་རྙིང་པ་“=%c”ལ་དོན་མང་པས་“= %c”\n"
+"ཡིན་པར་ཆ་བཞག"
+
+msgid "option: %s\n"
+msgstr "འདེམ་བྱང་།：%s\n"
+
+msgid "set_option: internal error: p_type %d\n"
+msgstr "set_option：ནང་ཁུལ་གྱི་ནོར་འཁྲུལ།：p_type %d\n"

@@ -1,0 +1,725 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%u Input"
+msgid_plural "%u Inputs"
+msgstr[0] "%u ནང་འཇུག"
+msgstr[1] "%u ནང་འཇུག"
+
+msgid "%u Output"
+msgid_plural "%u Outputs"
+msgstr[0] "%u ཕྱིར་གཏོང་།"
+msgstr[1] "%u ཕྱིར་གཏོང་།"
+
+msgid "Accessibility"
+msgstr "རམ་འདེགས་བྱེད་ནུས།"
+
+msgid "Accessibility Keyboard"
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་མཐེབ་གཞོང་།"
+
+msgid "Accessibility keyboard plugin"
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་མཐེབ་གཞོང་བསྒར་ལྷུ།"
+
+msgid "Activate"
+msgstr " སྐུལ་སློང་།"
+
+msgid "Antialiasing"
+msgstr "མུ་འགྲམ་འཇམ་སྙོམས།"
+
+msgid "Background"
+msgstr "རྒྱབ་ལྗོངས།"
+
+msgid "Background plugin"
+msgstr "རྒྱབ་ལྗོངས་བསྒར་ལྷུ།"
+
+msgid "Binding to eject an optical disc."
+msgstr "འོད་སྡེར་ཕྱིར་གཏོང་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to enable or disable the touchpad."
+msgstr "སྤྱོད་པའམ་ཡང་ན་རེག་པང་སྤྱོད་མི་ཆོག་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the calculator."
+msgstr "རྩིས་ཆས་འདོན་སྤྱོད་བྱེད་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the email client."
+msgstr "གློག་རྡུལ་སྦྲག་རྫས་མཁོ་མཁན་གྱི་དུད་སྣེ་འདོན་སྤྱོད་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the help browser."
+msgstr "རོགས་རམ་བཤར་ཆས་འདོན་སྤྱོད་བྱེད་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the media player."
+msgstr "སྨྱན་གཟུགས་གཏོང་ཆས་འདོན་སྤྱོད་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the search tool."
+msgstr "འཚོལ་ཞིབ་ལག་ཆ་འདོན་སྤྱོད་བྱེད་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to lock the screen."
+msgstr "བརྙན་ཡོལ་ལ་ཟྭ་རྒྱག་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to log out."
+msgstr "ཐོ་ཁོངས་ནས་བསུབ་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to lower the system volume."
+msgstr "རྒྱུད་ཁོངས་གི་སྐད་ཆུང་དུ་གཏོང་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to mute the system volume."
+msgstr "རྒྱུད་ཁོངས་སྒྲ་མེད་བཟོ་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to open the Home folder."
+msgstr "ཡིག་ཁུག་གཙོ་བོའི་ཁ་ཕྱེ་བྱེད་མཐེབ་་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to pause playback."
+msgstr "གཏོང་མཚམས་འཇོག་པའི་མཐེབ་་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to raise the system volume."
+msgstr "རྒྱུད་ཁོངས་གི་སྐད་ཇེ་མཐོར་འགྲོ་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to skip to next track."
+msgstr "སྒྲ་ལམ་རྗེས་མར་མཆོངས་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to skip to previous track."
+msgstr "སྒྲ་ལམ་གོང་མར་མཆོངས་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to start playback (or toggle play/pause)."
+msgstr ""
+"བསྐྱར་གཏོང་འགོ་རྩོམ་པའམ་བརྗེ་བ་དང་། གཏོང་བའམ་སྐབས་འཇོག་གི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to stop playback."
+msgstr "བསྐྱར་གཏོང་འཇོག་མཚམས་འཇོག་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to take a screenshot of a window."
+msgstr "སྒེའུ་ཁུང་བཅད་ནས་པར་བཅད་ལེན་བྱེད་པའི་མྱུར་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to take a screenshot of an area."
+msgstr "ཁུལ་ཁོངས་གཅིག་གི་པར་བཅད་ལེན་བྱེད་པའི་མྱུར་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to take a screenshot."
+msgstr "པར་བཅད་ལེན་བྱེད་པའི་མྱུར་མཐེབ་་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to toggle the magnifier."
+msgstr "ཆེར་སྐྱེད་ཤེལ་བརྗེ་རེས་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to toggle the on-screen keyboard."
+msgstr "བརྙན་ཡོལ་ཀྱི་མཐེབ་གཞོང་བརྗེ་རེས་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to toggle the screen reader."
+msgstr "བརྙན་ཡོལ་ཀྱི་ཀློག་འདོན་ཆས་བརྗེ་བྱེད་ཀྱི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Cannot determine user's home directory"
+msgstr "སྤྱོད་མཁན་གྱི་དཀར་ཆག་གཙོ་བོ་གཏན་འཁེལ་ཐབས་བྲལ།"
+
+msgid "Change system time"
+msgstr "རྒྱུད་ཁོངས་དུས་ཚོད་བསྒྱུར་བཅོས།"
+
+msgid "Change system time zone"
+msgstr "རྒྱུད་ཁོངས་དུས་ཁུལ་བསྒྱུར་བཅོས།"
+
+msgid "Clipboard"
+msgstr "དྲས་སྦྱར་ངོས་པང།"
+
+msgid "Clipboard plugin"
+msgstr "དྲས་སྦྱར་ངོས་པང་བསྒར་ལྷུ།"
+
+msgid "Command used to turn the magnifier on or off."
+msgstr "ཆེ་ཤེལ་ཁ་ཕྱེ་བའམ་ཡང་ན་སྒོ་རྒྱག་པར་སྤྱོད་པའི་བཀའ་བརྡ།"
+
+msgid "Command used to turn the on-screen keyboard on or off."
+msgstr "བརྙན་ཡོལ་མཐེབ་གཞོང་ཁ་ཕྱེ་བའམ་ཡང་ན་སྒོ་རྒྱག་པར་སྤྱོད་པའི་བཀའ་བརྡ།"
+
+msgid "Command used to turn the screen reader on or off."
+msgstr "བརྙན་ཡོལ་ཀློག་ཆས་ཁ་ཕྱེ་བའམ་ཡང་ན་སྒོ་རྒྱག་པར་སྤྱོད་པའི་བཀའ་བརྡ།"
+
+msgid "Configure display settings"
+msgstr "སྡེབ་སྒྲིག་ལས་སྒྲིག་འགོད་འཆར་བ།"
+
+msgid "Configure hardware clock"
+msgstr "སྲ་ཆས་ཆུ་ཚོད་སྡེབ་སྒྲིག"
+
+msgid "Could not apply the stored configuration for monitors"
+msgstr "ཐོག་མའི་ཉར་ཚགས་ཀྱི་འཆར་ཆས་སྡེབ་སྒྲིག་བཀོལ་ཐབས་བྲལ།"
+
+msgid "Could not enable mouse accessibility features"
+msgstr "ཙིག་རྟགས་ཀྱི་མྱུར་མཐེབ་བྱེད་ནུས་སྤྱོད་མི་རུང་།"
+
+msgid ""
+"Could not get default terminal. Verify that your default terminal command is"
+" set and points to a valid application."
+msgstr ""
+"སོར་བཞག་མཐའ་སྣེ་ཐོབ་ཐབས་བྲལ། "
+"སོར་བཞག་མཐའ་སྣེ་སྒྲིག་འགོད་བྱས་ཡོད་མེད་ལ་ཞིབ་བཤེར་བྱེད་དགོས་པ་མ་ཟད། "
+"ནུས་ལྡན་གྱི་ཉེར་སྤྱོད་བྱ་རིམ་ལ་དམིགས་དགོས།"
+
+msgid "Could not refresh the screen information: %s"
+msgstr "བརྙན་ཡོལ་གྱི་ཆ་འཕྲིན་%s གསར་འདོན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not restore the display's configuration"
+msgstr "འཆར་ཆས་སྡེབ་སྒྲིག་སླར་གསོ་བྱེད་ཐབས་བྲལ་བ།"
+
+msgid "Could not restore the display's configuration from a backup"
+msgstr "གྲབས་ཉར་ཁྲོད་ནས་བརྙན་ཡོལ་སྡེབ་སྒྲིག་སླར་གསོ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not save monitor configuration"
+msgstr "འཆར་ཆས་ཀྱི་སྡེབ་སྒྲིག་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not switch the monitor configuration"
+msgstr "འཆར་ཆས་ཀྱི་སྡེབ་སྒྲིག་ལ་འགྱུར་ལྡོག་གཏོང་ཐབས་བྲལ།"
+
+msgid "DPI"
+msgstr "DPI"
+
+msgid "Deactivate"
+msgstr "འགོག་སྤྱོད།"
+
+msgid "Desktop"
+msgstr " ཅོག་ངོས།"
+
+msgid "Disable touchpad while typing"
+msgstr "ནང་འཇུག་སྐབས་རེག་པང་སྤྱད་མི་ཆོག"
+
+msgid "Disabled"
+msgstr "འགོག་སྤྱོད།"
+
+msgid "Do not touch monitor configuration"
+msgstr "འཆར་ཆས་སྡེབ་སྒྲིག་ལ་བཟོ་བཅོས་རྒྱག་མི་དགོས།"
+
+msgid "Do you want to activate Slow Keys?"
+msgstr "ཁྱོད་ཀྱིས་འགོར་མཐེབ་སྐུལ་སློང་བྱེད་འདོད་དམ།"
+
+msgid "Do you want to activate Sticky Keys?"
+msgstr "ཁྱོད་ཀྱིས་འབྱར་མཐེབ་སྐུལ་སློང་བྱེད་འདོད་དམ།"
+
+msgid "Do you want to deactivate Slow Keys?"
+msgstr "ཁྱོད་ཀྱིས་འགོར་མཐེབ་སྤྱོད་འགོག་བྱེད་འདོད་དམ།"
+
+msgid "Do you want to deactivate Sticky Keys?"
+msgstr "ཁྱོད་ཀྱིས་འགོར་མཐེབ་སྤྱོད་འགོག་བྱེད་འདོད་དམ།"
+
+msgid "Do_n't activate"
+msgstr "སྐུལ་སློང་མི་བྱེད།（N）"
+
+msgid "Do_n't deactivate"
+msgstr "སྤྱོད་འགོག་མི་བྱེད།（N）"
+
+msgid "Does the display look OK?"
+msgstr "མངོན་འཆར་རྒྱུན་ལྡན་རེད་དམ།"
+
+msgid "Don't activate"
+msgstr "སྐུལ་སློང་མི་བྱེད།"
+
+msgid "Don't deactivate"
+msgstr "སྤྱོད་འགོག་མི་བྱེད།"
+
+msgid "Don't show any warnings again"
+msgstr "ཉེན་བརྡ་ཅི་ཡང་མི་འཆར་བ།"
+
+msgid "Don't show any warnings again for this file system"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་འདིར་ཐ་ཚིག་ཅི་ཡང་མི་འཆར།"
+
+msgid "Eject"
+msgstr "སྒོར་བུད།"
+
+msgid "Empty Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།"
+
+msgid "Empty all of the items from the trash?"
+msgstr "ཕྱིར་བསྡུའི་ས་ཚིགས་ཀྱི་རྣམ་གྲངས་ཚང་མ་གཙང་སེལ་བྱེད་དམ།"
+
+msgid "Emptying the trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།"
+
+msgid "Enable debugging code"
+msgstr "ཚབ་ཨང་ཚོད་སྒྲིག་ཁ་འབྱེད།"
+
+msgid "Enable horizontal scrolling"
+msgstr "ཆ་སྙོམས་འགྲུལ་འདེད་སྤྱོད་འགོ་རྩོམ།"
+
+msgid "Enable mouse clicks with touchpad"
+msgstr "རེག་པང་བཀོལ་ནས་ཙིག་རྟགས་རྡེབ་གནོན་པ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable touchpad"
+msgstr "རེག་པང་སྤྱོད་འགོ་རྩོམ།"
+
+msgid "Enhance _contrast in colors"
+msgstr "ཁ་དོག་གི་བསྡུར་ཚད་ཇེ་དྲག་ཏུ་གཏོང་བ།(_C)"
+
+msgid "Examine…"
+msgstr "དབྱེ་ཞིབ།..."
+
+msgid "Exit after a time (for debugging)"
+msgstr "དུས་ཚོད་ངེས་ཅན་ཞིག་གི་རྗེས་སུ་ཕྱིར་འབུད་པ།(ཚོད་སྒྲིག་ལ་སྤྱོད་པ)"
+
+msgid "File for default configuration for RandR"
+msgstr "RandRསོར་བཞག་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "Free percentage notify threshold"
+msgstr "འཕྲད་ཐོན་བརྡ་ཐོའི་དམའ་ཤོས་ཀྱི་སྤྱོད་རུང་བརྒྱ་ཆའི་གྲངས།"
+
+msgid "Free space no notify threshold"
+msgstr "འཕྲད་ན་བརྡ་ཐོ་མི་ཐོན་པའི་ཆེས་དམའ་བའི་སྤྱོད་རུང་བར་སྟོང།"
+
+msgid "From: "
+msgstr "ནས་ཡོང་བ།："
+
+msgid "Hinting"
+msgstr "ཕྲན་སྒྲིག"
+
+msgid "Home folder"
+msgstr "ཡིག་ཁུག་གཙོ་བོ།"
+
+msgid "Ignore"
+msgstr "སྣང་མེད་དུ་བཞག"
+
+msgid "Key binding (%s) is incomplete"
+msgstr "མཐེབ་སྦྲེལ་(%s)ཆ་མི་ཚང་བ།"
+
+msgid "Key binding (%s) is invalid"
+msgstr "མཐེབ་སྦྲེལ་(%s)ནུས་མེད།"
+
+msgid "Keybindings"
+msgstr "མཐེབ་གནས་སྡོམ་པ།"
+
+msgid "Keybindings plugin"
+msgstr "བསྒར་ལྷུ།"
+
+msgid "Keyboard"
+msgstr "མཐེབ་གཞོང་།"
+
+msgid "Keyboard _Preferences"
+msgstr "མཐེབ་གཞོང་གི་སྔོན་འདེམས་ཚན་པ།"
+
+msgid "Keyboard plugin"
+msgstr "མཐེབ་གཞོང་བསྒར་ལྷུ།"
+
+msgid "Launch calculator"
+msgstr "རྩིས་ཆས་འགོ་སློང་།"
+
+msgid "Launch email client"
+msgstr "གློག་རྡུལ་སྦྲག་རྫས་ཀྱི་དུད་སྣེ་འགོ་སློང་།"
+
+msgid "Launch help browser"
+msgstr "རོགས་རམ་བཤར་ཆས་འགོ་སློང་།"
+
+msgid "Launch media player"
+msgstr "སྨྱན་གཟུགས་གཏོང་ཆས་འགོ་སློང་།"
+
+msgid "Left"
+msgstr "གཡོན།"
+
+msgid "Lock screen"
+msgstr "བརྙན་ཡོལ་ལ་ཟྭ་བརྒྱབ་པ།"
+
+msgid "Log out"
+msgstr "ཐོ་ཁོངས་ནས་བསུབ་པ།"
+
+msgid "Low Disk Space"
+msgstr "སྡུད་སྡེར་བར་སྟོང་མི་འདང་བ།"
+
+msgid "MATE Settings Daemon"
+msgstr "MATEཡིས་ལྟ་སྲུང་བྱ་རིམ་སྡེབ་སྒྲིག་འགོད།"
+
+msgid "Make _text larger and easier to read"
+msgstr "དེབ་ཆེ་རུ་བཏང་ནས་དཔེ་ཀློག་ལ་སྟབས་བདེ་བཟོ་བ།(_T)"
+
+msgid "Manage X Settings"
+msgstr "དོ་དམ་Xསྒྲིག་འགོད།"
+
+msgid "Manage the X resource database"
+msgstr "དོ་དམ་Xཐོན་ཁུངས་གཞི་གྲངས་མཛོད་།"
+
+msgid "Media keys"
+msgstr "སྨྱན་གཟུགས་མཐེབ།"
+
+msgid "Media keys plugin"
+msgstr "སྨྱན་གཟུགས་མཐེབ་ཀྱི་བསྒར་ལྷུ།"
+
+msgid "Module"
+msgstr "དཔེ་དུམ།"
+
+msgid "Module Path"
+msgstr "དཔེ་དུམ་འགྲོ་ལམ།"
+
+msgid "Mount paths to ignore"
+msgstr "སྣང་མེད་དུ་བསྐྱུར་བྱའི་འགེལ་ལམ།"
+
+msgid "Mouse"
+msgstr "ཙིག་རྟགས།"
+
+msgid "Mouse Preferences"
+msgstr "ཙིག་རྟགས་ཀྱི་སྔོན་འདེམས་ཚན་པ།"
+
+msgid ""
+"Mouse accessibility requires Mousetweaks to be installed on your system."
+msgstr ""
+"ཙིག་རྟགས་ཀྱི་གཞོགས་འདེགས་ནུས་པ་ལ་ཁྱེད་རང་གི་རྒྱུད་ཁོངས་ནང་Mozetweaksསྒྲིག་འཇུག་བྱེད་དགོས།"
+
+msgid "Mouse plugin"
+msgstr "ཙིག་རྟགས་བསྒར་ལྷུ།"
+
+msgid "Mpris"
+msgstr "\"Mpris\""
+
+msgid "Mpris plugin"
+msgstr "Mpris བསྒར་ལྷུ།"
+
+msgid "NSS security system could not be initialized"
+msgstr "NSSབདེ་འཇགས་རྒྱུད་ཁོངས་འགོ་སྒྲིག་བྱ་ཐབས་བྲལ།"
+
+msgid "Next track"
+msgstr "གཞས་རྗེས་མ།"
+
+msgid "Normal"
+msgstr "དཀྱུས་མ།"
+
+msgid "On-screen keyboard"
+msgstr "བརྙན་ཡོལ་མཐེབ་གཞོང་།"
+
+msgid "Open mate terminal."
+msgstr "མཐའ་སྣེ་ཁ་ཕྱེ་བ།"
+
+msgid "Pause playback"
+msgstr "གཏོང་བ་སྐབས་སྡོད།"
+
+msgid "Play (or play/pause)"
+msgstr "གཏོང་བ།(གཏོང་བ/སྐབས་འཇོག)"
+
+msgid "Preparing to empty trash…"
+msgstr "ཕྱིར་བསྡུའི་ས་ཚིགས་གཙང་སེལ་གྱི་གྲ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
+
+msgid "Press and _hold keys to accept them (Slow Keys)"
+msgstr "ཁྱོད་ཀྱིས་མཐེབ་གནོན་མནན་ནས་དལ་མཐེབ（_H)དང་ལེན་བྱེད་དགོས།"
+
+msgid "Previous track"
+msgstr "གཞས་གོང་མ།"
+
+msgid "Priority to use for this plugin in mate-settings-daemon startup queue"
+msgstr "བསྒར་ལྷུmate-settings-daemonཁྲོད་ཀྱི་འགོ་སློང་སྔོན་ཐོབ་རིམ་གྲས།"
+
+msgid "Privileges are required to change the system time zone."
+msgstr "རྒྱུད་ཁོངས་དུས་ཁུལ་བཟོ་བཅོས་ལ་མཁོ་བའི་དབང་ཚད།"
+
+msgid "Privileges are required to change the system time."
+msgstr "རྒྱུད་ཁོངས་དུས་ཚོད་བཟོ་བཅོས་ལ་མཁོ་བའི་དབང་ཚད།"
+
+msgid "Privileges are required to configure the hardware clock."
+msgstr "སྲ་ཆས་ཆུ་ཚོད་སྡེབ་སྒྲིག་ལ་མཁོ་བའི་དབང་ཚད།"
+
+msgid "RGBA order"
+msgstr "RGBAགོ་རིམ།"
+
+msgid "Removing item %lu of %lu"
+msgstr "ད་ལྟ་ %lu རྣམ་གྲངས་བསུབ་བཞིན་ཡོད་པ་དང་།ཁྱོན་བསྡོམས་%lu"
+
+msgid "Removing: %s"
+msgstr "ད་ལྟ་བསུབ་བཞིན་པ།：%s\""
+
+msgid "Replace the current daemon"
+msgstr "མིག་སྔའི་ལྟ་སྲུང་བྱ་རིམ་གྱི་ཚབ་བྱེད་དགོས།"
+
+msgid "Right"
+msgstr "གཡས།"
+
+msgid "Rotation not supported"
+msgstr "འཁྱིལ་འཁོར་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "Screen magnifier"
+msgstr "བརྙན་ཡོལ་ཆེ་ཤེལ།"
+
+msgid "Screen reader"
+msgstr "བརྙན་ཡོལ་ཀློག་ཆས།"
+
+msgid "Search"
+msgstr "བཤེར་འཚོལ།"
+
+msgid "Select the touchpad scroll method"
+msgstr "པང་རེག་འགྲིལ་ཐབས་འདེམས།"
+
+msgid ""
+"Select the touchpad scroll method. Supported values are: 0: disabled, 1: "
+"edge scrolling, and 2: two-finger scrolling"
+msgstr ""
+"རེག་པང་འགྲིལ་རྣམ་པ་འདེམ་པ། "
+"རྒྱབ་སྐྱོར་གྱི་གྲངས་ཐང་ནི།0-བཀག་འགོག1-མཐའ་མཚམས་འགྲིལ་འགུལ།2-ཟུང་ལྡན་འཁོར་འགུལ།"
+
+msgid ""
+"Set this to TRUE if you have problems with accidentally hitting the touchpad"
+" while typing."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་ཡི་གེ་བརྟག་ཚེ་མཚམས་རེར་ངོས་པང་ལ་རེག་པས་རྙོག་དྲ་བཟོ་ན་དེ་（TRUE）"
+" དངོས་མ་རུ་སྒྲིག་འགོད་བྱས་ཆོག"
+
+msgid ""
+"Set this to TRUE to be able to send mouse clicks by tapping on the touchpad."
+msgstr ""
+"ཚན་པ་འདི་TRUEརུ་སྒྲིག་ན་རེག་པང་རྡེབ་གནོན་བརྒྱུད་ཙིག་རྟགས་རྡེབ་གནོན་དོན་རྐྱེན་སྐྱེལ་ཐུབ།"
+" "
+
+msgid "Set this to TRUE to enable all touchpads."
+msgstr "（TRUE）དངོས་མ་རུ་སྒྲིག་འགོད་བྱས་ན་རེག་པང་ཆ་ཚང་སྤྱོད་འགོ་རྩོམ།"
+
+msgid "Set up screen size and rotation settings"
+msgstr "བརྙན་ཡོལ་ཆེ་ཆུང་དང་འཁྱིལ་འཁོར་སྒྲིག་འགོད།"
+
+msgid "Show Displays in Notification Area"
+msgstr "བརྡ་ཐོའི་ཁུལ་དུ་འཆར་བ།"
+
+msgid "Show _Current Layout"
+msgstr "མིག་སྔའི་བཀོད་པ（_C）འཆར་བ།"
+
+msgid "Shutdown"
+msgstr "ཁ་རྒྱག"
+
+msgid "Slot ID"
+msgstr "ཤུར་གྱི་ ID"
+
+msgid "Slot Series"
+msgstr "འཇུག་ཤུར་རིམ་སྟར།"
+
+msgid "Slow Keys Alert"
+msgstr "དལ་མཐེབ་དྲན་སྐུལ།"
+
+msgid "Smartcard removal action"
+msgstr "རིག་ནུས་ཁཱ་སྤོ་སེལ་བྱེད་སྟངས།"
+
+msgid "Sound"
+msgstr "སྒྲ།"
+
+msgid "Specify a list of mount paths to ignore when they run low on space."
+msgstr ""
+"དམིགས་འཛུགས་ཀྱི་མཁྲེགས་སྡེར་བར་སྟོང་དུ་འཁོར་སྐྱོད་བྱེད་སྐབས་སྣང་མེད་དུ་བཞག་པའི་བཀར་འགེལ་འགྲོ་ལམ་རྩིས་ཁྲ་བཟོ་དམིགས་འཛུགས།"
+
+msgid ""
+"Specify a time in minutes. Subsequent warnings for a volume will not appear "
+"more often than this period."
+msgstr ""
+"སྐར་མ་རེ་རྩིས་གཞི་རེར་བྱས་ནས་དུས་ཚོད་ག་གེ་མོ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས། "
+"འཁོར་ཡུན་འདིའི་ནང་དུ་ཐེངས་མང་པོར་པོད་ག་གེ་མོ་ཞིག་གི་རྗེས་མཐུད་ཀྱི་ཉེན་བརྡ་མངོན་མི་སྲིད།"
+
+msgid ""
+"Specify an amount in GB. If the amount of free space is more than this, no "
+"warning will be shown."
+msgstr ""
+"GBསྡེ་ཚན་བྱས་ཏེ་གྲངས་ཚད་ག་གེ་མོ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས། "
+"གལ་ཏེ་བཀོལ་ཆོག་པའི་བར་སྟོང་དེ་ལས་བརྒལ་ན།ཐ་ཚིག་མི་སྒྲོག"
+
+msgid ""
+"Specify the percentage that the free disk space should reduce by before "
+"issuing a subsequent warning."
+msgstr ""
+"རྒྱུན་མཐུད་ཀྱི་ཉེན་བརྡ་ཞིག་ཁྱབ་བསྒྲགས་མ་བྱས་སྔོན་དུ།ཉུང་འཕྲི་བྱེད་དགོས་པའི་མཁྲེགས་སྡེར་བར་སྟོང་གི་བརྒྱ་ཆའི་བསྡུར་གྲངས་དམིགས་འཛུགས་བྱོས།"
+
+msgid "Sticky Keys Alert"
+msgstr "འབྱར་མཐེབ་དྲན་སྐུལ།"
+
+msgid "Stop playback"
+msgstr "གཏོང་མཚམས་འཇོག་པ།"
+
+msgid "Subsequent free percentage notify threshold"
+msgstr ""
+"འཕྲད་ཐོན་བརྡ་ཐོའི་ཆེས་དམའ་བའི་རྗེས་མཐུད་སྤྱོད་རུང་བར་སྟོང་བརྒྱ་ཆའི་ཚད།"
+
+msgid "System Sounds"
+msgstr "རྒྱུད་ཁོངས་སྐད་སྒྲ།"
+
+msgid "Take a screenshot of an area"
+msgstr "ཁུལ་ཁོངས་གཅིག་གི་པར་བཅད་ལེན་བྱོས།"
+
+msgid "Terminal"
+msgstr "མཐའ་སྣེ།"
+
+msgid "The display will be reset to its previous configuration in %d second"
+msgid_plural ""
+"The display will be reset to its previous configuration in %d seconds"
+msgstr[0] "མངོན་འཆར་སྐར་ཆ་%d ནང་ཚུན་དུ་དེ་སྔོན་སྡེབ་སྒྲིག་སླར་གསོ་བྱེད་སྲིད།"
+msgstr[1] "མངོན་འཆར་སྐར་ཆ་%d ནང་ཚུན་དུ་དེ་སྔོན་སྡེབ་སྒྲིག་སླར་གསོ་བྱེད་སྲིད།"
+
+msgid "The name of the keyboard shortcut to toggle the magnifier"
+msgstr "ཆེ་ཤེལ་བརྗེ་རེས་ཀྱི་མཐེབ་གཞོང་མྱུར་མཐེབ་ཀྱི་མིང་དུ་སྤྱོད་པ།"
+
+msgid "The name of the keyboard shortcut to toggle the on-screen keyboard"
+msgstr "བརྙན་ཡོལ་མཐེབ་གཞོང་གི་མྱུར་མཐེབ་མིང་བརྗེ་བ།"
+
+msgid "The name of the keyboard shortcut to toggle the screen reader"
+msgstr "བརྙན་ཡོལ་ཀློག་འདོན་ཆས་ཀྱི་མྱུར་མཐེབ་མིང་བརྗེ་བ།"
+
+msgid ""
+"The resolution used for converting font sizes to pixel sizes, in dots per "
+"inch."
+msgstr ""
+"ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་དེ་བརྙན་རྒྱུའི་གྲངས་ཐང་དུ་བསྒྱུར་སྐབས་བཀོལ་བའི་དབྱེ་འབྱེད་ཚད་ནི།དབྱིན་ཚུན་རེའི་ཚེག་གྲངས་དེ་སྡེ་ཚན་སྡེ་ཚན་ཡིན།"
+
+msgid "The selected configuration for displays could not be applied"
+msgstr "ཉེར་སྤྱོད་དུ་བདམས་པའི་སྡེབ་སྒྲིག་འཆར་ཐབས་བྲལ།"
+
+msgid "The slot the card is in"
+msgstr "འཇུག་ཤུར་ནང་དུ་འགག་པ།"
+
+msgid "The volume \"%s\" has only %s disk space remaining."
+msgstr "པོད།  \"%s\" སྲ་སྡེར་བར་སྟོང་ %s ལས་ལྷག་མེད།"
+
+msgid "There was an error displaying help: %s"
+msgstr "རོགས་རམ་བྱེད་སྐབས་བྱུང་བའི་ནོར་འཁྲུལ་འཆར་བ།：%s"
+
+msgid "Toggle magnifier"
+msgstr "ཆེ་ཤེལ་བརྗེ་བ།"
+
+msgid "Toggle on-screen keyboard"
+msgstr "བརྙན་ཡོལ་སྟེང་གི་མཐེབ་གཞོང་བརྗེ་བ།"
+
+msgid "Toggle screen reader"
+msgstr "བརྙན་ཡོལ་ཀློག་འདོན་ཆས་བརྗེ་བ།"
+
+msgid "Toggle touchpad"
+msgstr "རེག་པང་གི་གློག་སྒོ།"
+
+msgid "Trying to switch the monitor configuration anyway."
+msgstr "འཆར་ཆས་ཀྱི་སྡེབ་སྒྲིག་བསྒྱུར་བར་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།"
+
+msgid "Turn on external monitor after system boot"
+msgstr "རྒྱུད་ཁོངས་སྒོ་ཕྱེ་རྗེས་ཕྱི་ཕྱོགས་འཆར་ཆས་ཀྱི་སྒོ་ཕྱེ།"
+
+msgid ""
+"Turn on external monitor after system boot if user plugs in external monitor"
+" on system boot."
+msgstr ""
+"རྒྱུད་ཁོངས་གི་སྒོ་འབྱེད་པའི་སྐབས་སུ།གལ་ཏེ་བཀོལ་མཁན་གྱིས་ཕྱིའི་འཆར་ཆས་བཅུག་ཡོད་ན་དེའི་ཁ་ཕྱེས་ངེས།"
+
+msgid "Turn on laptop monitor after system boot"
+msgstr "རྒྱུད་ཁོངས་སྒོ་ཕྱེ་རྗེས་དེབ་ཟིན་རྩིས་འཁོར་གྱི་འཆར་ཆས་ཁ་ཕྱེ་སྲིད།"
+
+msgid ""
+"Turn on laptop monitor after system boot if user plugs in external monitor "
+"on system boot."
+msgstr ""
+"རྒྱུད་ཁོངས་གི་སྒོ་འབྱེད་པའི་སྐབས་སུ།གལ་ཏེ་སྤྱོད་མཁན་གྱིས་ཕྱིའི་འཆར་ཆས་བཙུགས་ན་དེབ་ཟིན་འཆར་ཆས་ཀྱི་ཁ་ཕྱེས་སྲིད།"
+
+msgid "Typing Break"
+msgstr "ཡིག་གཏགས་བར་ཆད།"
+
+msgid "Typing break plugin"
+msgstr "ཡིག་གཏགས་བར་ཆད་བསྒར་ལྷུ།"
+
+msgid "Upside Down"
+msgstr "གོང་འོག་མགོ་མཇུག་ལོག་པ།"
+
+msgid "Use on-screen _keyboard"
+msgstr "བརྙན་ཡོལ་མཐེབ་གཞོང་སྤྱོད་པ།(_K)"
+
+msgid "Use screen _magnifier"
+msgstr "བརྙན་ཡོལ་སྐྱེད་ཤེལ་སྤྱོད་པ།（_M）"
+
+msgid "Use screen _reader"
+msgstr "བརྙན་ཡོལ་ཀློག་འདོན་ཆས་སྤྱོད་པ།（_R)"
+
+msgid "Volume down"
+msgstr "སྐད་ཆུང་དུ་གཏོང་བ།"
+
+msgid "Volume mute"
+msgstr "སྒྲ་མེད།"
+
+msgid "Volume step"
+msgstr "སྒྲ་ཚད་གོམ་བགྲོད།"
+
+msgid "Volume step as percentage of volume."
+msgstr "སྒྲ་ཚད་བརྒྱ་ཆའི་བསྡུར་གྱི་གོམ་བགྲོད་སྒྲ་ཚད།"
+
+msgid "Volume up"
+msgstr "སྒྲ་ཚད་མཐོན་པོར་གཏོང་།"
+
+msgid ""
+"Whether a notification icon with display-related things should be shown in "
+"the panel."
+msgstr ""
+"ངོས་པང་དུ་རྡ་ཐོའི་རིས་རྟགས་ཤིག་ཤར་ནས་དེའི་ནང་དུ་འབྲེལ་ཡོད་ཆ་འཕྲིན་འདུས་དགོས་སམ།"
+
+msgid "Whether the on-screen keyboard is turned on."
+msgstr "བརྙན་ཡོལ་མཐེབ་གཞོང་སྤྱོད་འགོ་རྩོམ་མིན། "
+
+msgid "Whether the screen magnifier is turned on."
+msgstr "བརྙན་ཡོལ་སྐྱེད་ཤེལ་སྤྱོད་འགོ་རྩོམ་མིན། "
+
+msgid "Whether the screen reader is turned on."
+msgstr "བརྙན་ཡོལ་ཀྱི་ཀློག་འདོན་ཆས་སྤྱོད་འགོ་རྩོམ་མིན། "
+
+msgid "Whether this plugin would be activated by mate-settings-daemon or not"
+msgstr "བསྒར་ལྷུ་འདི་mate-settings-daemon ཡིས་འགོ་སློང་ངམ།"
+
+msgid "X Resource Database"
+msgstr "Xཐོན་ཁུངས་གཞི་གྲངས་མཛོད།"
+
+msgid "X Settings"
+msgstr "Xསྒྲིག་འགོད།"
+
+msgid "XRandR"
+msgstr "XRandR"
+
+msgid ""
+"You can free up disk space by removing unused programs or files, or by "
+"moving files to an external disk."
+msgstr ""
+"ཁྱེད་རང་གི་ཕན་མེད་ཀྱི་བྱ་རིམ་དང་ཡིག་ཆ་སུབ་པའམ་ཡང་ན་སྒུལ་བདེའི་ཡིག་ཆ་ཕྱིའི་སྡུད་སྡེར་དུ་བཞག་ནས་སྡུད་སྡེར་གྱི་བར་སྟོང་ཆེ་རུ་གཏོང་ཆོག"
+
+msgid "_Activate"
+msgstr "སྐུལ་སློང་(A)"
+
+msgid "_Configure Display Settings…"
+msgstr "སྡེབ་སྒྲིག་ལས་འཆར་བའི་སྒྲིག་འགོད།（C）"
+
+msgid "_Deactivate"
+msgstr "སྤྱོད་མི་ཆོག་པ།(_D)"
+
+msgid "_Empty Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།(_E)"
+
+msgid "_Ignore duplicate keypresses (Bounce Keys)"
+msgstr "མྱུར་ཟློས་མཐེབ་གནོན་སྣང་མེད་བྱེད་པ།(འབེབས་མཐེབ།)(_I)"
+
+msgid "_Keep This Configuration"
+msgstr "མིག་སྔའི་སྡེབ་སྒྲིག་རྒྱུན་འཁྱོངས་བྱེད་པ།(_K)"
+
+msgid "_Layouts"
+msgstr "བཀོད་པ།(_L)"
+
+msgid "_Press keyboard shortcuts one key at a time (Sticky Keys)"
+msgstr "ཐེངས་རེར་རེ་རེ་བྱས་ནས་མཐེབ་གཞོང་མྱུར་མཐེབ་ནོན།（སྡུད་འབྱར་མཐེབ།）(_P)"
+
+msgid "_Restore Previous Configuration"
+msgstr "དེ་སྔོན་གྱི་སྡེབ་སྒྲིག་སླར་གསོ།(_R)"
+
+msgid "could not watch for incoming card events - %s"
+msgstr "ལྟ་སྡོམ་བྱང་བུར་དོན་རྐྱེན--%s བར་འཇུག་བྱས་མི་ཆོག"
+
+msgid "encountered unexpected error while waiting for smartcard events"
+msgstr ""
+"རིག་ནུས་གཱ་ཡི་དོན་རྐྱེན་སྒུག་སྐབས་བསམ་ཡུལ་ལས་འདས་པའི་ནོར་འཁྲུལ་ལ་འཕྲད་པ།"
+
+msgid "name"
+msgstr " མིང་།"
+
+msgid "no suitable smartcard driver could be found"
+msgstr "འོས་འཚམ་གྱི་རིག་ལྡན་བྱང་བུའི་སྐུལ་བྱེད་རྙེད་ཐབས་བྲལ།"
+
+msgid "path to smartcard PKCS #11 driver"
+msgstr "རིག་ནུས་ཁཱ་PKCS L3611སྐུལ་བྱེད་བྱ་རིམ་གྱི་འགྲོ་ལམ།"
+
+msgid "per-slot card identifier"
+msgstr "འཇུག་ཤུར་རེ་རེའི་ཁཱ་ཡི་ངོ་རྟགས།"
+
+msgid "received error or hang up from event source"
+msgstr "དོན་རྐྱེན་འབྱུང་ཁུངས་ནས་ནོར་འཁྲུལ་ལམ་ཡང་ན་བཅད་པ།"
+
+msgid "smartcard driver"
+msgstr "རིག་ནུས་བྱང་བུའི་སྐུལ་བྱེད་བྱ་རིམ།"
+
+msgid "smartcard driver '%s' could not be loaded"
+msgstr "རིག་ནུས་བྱང་བུའི་སྐུལ་བྱེད་%s ནང་འཇུག་མི་ཆོག་པ།"

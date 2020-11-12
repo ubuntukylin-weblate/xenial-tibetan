@@ -1,0 +1,156 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: zh_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "\n"
+msgstr "\n"
+
+msgid "                Record the cpu type\n"
+msgstr "                记录 CPU 类型\n"
+
+msgid "  --help                  show this message and exit\n"
+msgstr "  --help                  打印此帮助并退出\n"
+
+msgid "  --target-help           show target specific options\n"
+msgstr "  --target-help           显示目标机器特定的命令行选项\n"
+
+msgid ""
+"  -I DIR                  add DIR to search list for .include directives\n"
+msgstr "  -I 目录                 将目录添加至类路径\n"
+
+msgid ""
+"  -Q                      ignored\n"
+"  -V                      print assembler version number\n"
+msgstr ""
+"  -Q                      此项忽略\n"
+"  -V                      打印汇编器版本号\n"
+
+msgid "  -march=ms1-16-002         allow ms1-16-002 instructions (default)\n"
+msgstr "  -march=ms1-64-002         允许 ms1-64-002 指令 (默认)\n"
+
+msgid "  -march=ms1-16-003         allow ms1-16-003 instructions\n"
+msgstr "  -march=ms1-64-001         允许 ms1-64-003 指令\n"
+
+msgid "  -march=ms1-64-001         allow ms1-64-001 instructions\n"
+msgstr "  -march=ms1-64-001         允许 ms1-64-001 指令\n"
+
+msgid "%s: data size %ld\n"
+msgstr "%s: 数据大小 %ld\n"
+
+msgid "<unknown>"
+msgstr "<未知>"
+
+msgid "Bad register name"
+msgstr "错误的寄存器名"
+
+msgid "Copyright 2014 Free Software Foundation, Inc.\n"
+msgstr "Copyright 2014 自由软件基金会。\n"
+
+msgid "Error:"
+msgstr "错误："
+
+msgid "Error: "
+msgstr "错误："
+
+msgid "Fatal error: "
+msgstr "致命错误："
+
+msgid "GNU assembler %s\n"
+msgstr "GNU 汇编器 %s\n"
+
+msgid "Internal error!\n"
+msgstr "内部错误！\n"
+
+msgid "Please report this bug.\n"
+msgstr "请报告该 BUG。\n"
+
+msgid "Report bugs to %s\n"
+msgstr "将错误报告到 %s\n"
+
+msgid "Warning:"
+msgstr "警告："
+
+msgid "Warning: "
+msgstr "警告："
+
+msgid "bad string constant"
+msgstr "错误的字符串常量"
+
+msgid "division by zero"
+msgstr "被零除"
+
+msgid "expected expression"
+msgstr "需要表达式"
+
+msgid "immediate out of range"
+msgstr "立即数越界"
+
+msgid "immediate value"
+msgstr "立即数"
+
+msgid "immediate value is out of range"
+msgstr "立即数越界"
+
+msgid "immediate value out of range"
+msgstr "立即数越界"
+
+msgid "invalid address"
+msgstr "无效地址"
+
+msgid "invalid addressing mode"
+msgstr "无效寻址模式"
+
+msgid "invalid mode"
+msgstr "无效的权限模式"
+
+msgid "invalid number"
+msgstr "无效编号"
+
+msgid "invalid register name"
+msgstr "无效寄存器名"
+
+msgid "invalid shift operator"
+msgstr "无效的移位操作符"
+
+msgid "missing ']'"
+msgstr "缺少 ']'"
+
+msgid "missing .func"
+msgstr "缺少 .func"
+
+msgid "missing `)'"
+msgstr "缺少‘)’"
+
+msgid "missing `]'"
+msgstr "缺少 `]'"
+
+msgid "missing operand"
+msgstr "缺少操作数"
+
+msgid "offset not a multiple of 4"
+msgstr "偏移量不是 4 的倍数"
+
+msgid "shift operator expected"
+msgstr "预期的移位操作符"
+
+msgid "syntax error"
+msgstr "语法错误"
+
+msgid "too many arguments"
+msgstr "实参太多"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown constraint `%c'"
+msgstr "未知的约束‘%c’"

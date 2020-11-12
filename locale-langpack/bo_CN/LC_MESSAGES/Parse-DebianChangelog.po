@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Copyright (C) 2005 by Frank Lichtenheld\n"
+msgstr "པར་དབང་། (C) 2005  Frank Lichtenheld\n"
+
+msgid "FATAL: %s"
+msgstr "སྲོག་ལ་ཐུག་པ།：%s"
+
+msgid "WARN: %s(l%s): %s\n"
+msgstr "ཐ་ཚིག：%s(l%s): %s\n"
+
+msgid "bad key-value after `;': `%s'"
+msgstr "`;' དེའི་རྗེས་ཀྱི་མཐེབ་ཐང་ནུས་མེད་ཡིན།: `%s'"
+
+msgid "can't close file %s: %s"
+msgstr "ཡིག་ཆ་ཁ་རྒྱག་ཐབས་མེད། %s：%s"
+
+msgid "can't load IO::String: %s"
+msgstr "འགེལ་མི་ཐུབ། IO::String: %s"
+
+msgid "can't lock file %s: %s"
+msgstr "ཡིག་ཆ་སྒྲོག་ཐབས་མེད། %s: %s"
+
+msgid "can't open file %s: %s"
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་མེད། %s：%s"
+
+msgid "changelog format %s not supported"
+msgstr "གསར་སྒྱུར་ཉིན་ཐོ་རྣམ་གཞག་ལ་རྒྱབ་སྐྱོར་མི་བྱེད། %s"
+
+msgid "couldn't parse date %s"
+msgstr "ཚེས་གྲངས་དབྱེ་ཞིབ་བྱ་ཐབས་མེད། %s"
+
+msgid "fatal error occured while parsing %s"
+msgstr " %s དབྱེ་ཞིབ་བྱེད་སྐབས་སྲོག་ལ་ཐུག་པའི་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "ignored option -L"
+msgstr "སྣང་མེད་དུ་བཞག་པའི་འདེམས་ཚན། -L"
+
+msgid "more than one file specified (%s and %s)"
+msgstr "གཅིག་ལས་བརྒལ་བའི་ཡིག་ཆ་དམིགས་འཛུགས་བྱས། (%s དང་ %s)"
+
+msgid "no changelog file specified"
+msgstr "གསར་སྒྱུར་ཉིན་ཐོ་ཡིག་ཆ་དམིགས་འཛུགས་བྱས་མེད།"
+
+msgid "too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "unrecognised line"
+msgstr "ངོས་མ་བཟུང་པའི་ཕྲེང་།"
+
+msgid "you can only specify one of 'from' and 'since'"
+msgstr "ཁྱེད་ཀྱིས་ 'from' དང་ 'since' ལས་གཅིག་མ་གཏོགས་དམིགས་བྱས་མི་ཆོག"
+
+msgid "you can only specify one of 'to' and 'until'"
+msgstr "ཁྱེད་ཀྱིས་  'to' དང་ 'until' ལས་གཅིག་མ་གཏོགས་དམིགས་བྱས་མི་ཆོག"

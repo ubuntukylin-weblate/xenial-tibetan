@@ -1,0 +1,795 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "    "
+msgstr "nan"
+
+msgid "%d new package is going to be installed."
+msgid_plural "%d new packages are going to be installed."
+msgstr[0] "མཉེན་ཁུག་གསར་པ་ %d སྒྲིག་འཇུག་བྱེད་པ།"
+msgstr[1] "མཉེན་ཁུག་གསར་པ་ %d སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "%d package is going to be removed."
+msgid_plural "%d packages are going to be removed."
+msgstr[0] "མཉེན་ཁུག %d བསུབ་པ།"
+msgstr[1] "མཉེན་ཁུག %d བསུབ་པ།"
+
+msgid "%d package is going to be upgraded."
+msgid_plural "%d packages are going to be upgraded."
+msgstr[0] "མཉེན་ཁུག་ %d རིམ་པ་སྤར་བ།"
+msgstr[1] "མཉེན་ཁུག་ %d རིམ་པ་སྤར་བ།"
+
+msgid "%li day"
+msgid_plural "%li days"
+msgstr[0] "ཉིན་%li"
+msgstr[1] "ཉིན་%li"
+
+msgid "%li hour"
+msgid_plural "%li hours"
+msgstr[0] "དུས་ཚོད་ %li"
+msgstr[1] "དུས་ཚོད་ %li"
+
+msgid "%li minute"
+msgid_plural "%li minutes"
+msgstr[0] "སྐར་མ་ %li"
+msgstr[1] "སྐར་མ་ %li"
+
+msgid "%li second"
+msgid_plural "%li seconds"
+msgstr[0] "སྐར་ཆ་ %li"
+msgstr[1] "སྐར་ཆ་ %li"
+
+msgid "&Cancel"
+msgstr "དོར་བ།(&C)"
+
+msgid "&Close"
+msgstr "ཁ་རྒྱག་པ།(&C)"
+
+msgid "&Start Upgrade"
+msgstr "རིམ་སྤར་མགོ་བརྩམས།"
+
+msgid "&Upgrade"
+msgstr "རིམ་སྤར།"
+
+msgid "*DEPRECATED* this option will be ignored"
+msgstr "*དོར་ཟིན།* ཞེས་པའི་འདེམས་ཚན་འདི་སྣང་མེད་དུ་འཇོག་ངེས།"
+
+msgid "<<< Hide Difference"
+msgstr "<<< ཁྱད་པར་སྦས་བ།"
+
+msgid "<<< Hide Terminal"
+msgstr "<<< མཐའ་སྣེ་སྦས་བ།"
+
+msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+msgstr ""
+"<b><big>རྒྱུད་ཁོངས་ཡང་བསྐྱར་འགོ་སློང་བྱས་ནས་རིམ་སྤར་ལེགས་འགྲུབ་བྱེད་པ།</big></b>"
+
+msgid "<b><big>Start the upgrade?</big></b>"
+msgstr "<b><big>རིམ་སྤར་བྱེད་མགོ་རྩོམ་མམ།</big></b>"
+
+msgid "<b><big>Upgrading Ubuntu to version 16.04</big></b>"
+msgstr "<b><big>ཡིས་ Ubuntu དེ་16.04 རུ་རིམ་སྤར་བྱེད་པ།</big></b>"
+
+msgid ""
+"<b>A new version of Ubuntu is available. Would you like to upgrade?</b>"
+msgstr ""
+"<b>པར་གཞི་གསར་པ་ཡོད་པའི་ Ubuntu སྤྱོད་ཆོག་པས་ཁྱེད་ཀྱིས་རིམ་སྤོར་བྱེད་དམ། "
+"</b>"
+
+msgid "<b>Downgrade (%s)</b>"
+msgstr "<b>རིམ་ཕབ། (%s)</b>"
+
+msgid "A fatal error occurred"
+msgstr "སྲོག་ལ་ཐུག་པའི་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid ""
+"A problem occurred during the clean-up. Please see the below message for "
+"more information. "
+msgstr ""
+"གཙང་སེལ་བྱེད་སྐབས་གནད་དོན་ཐོན་པས་ཆ་འཕྲིན་མང་པོ་ཞིག་གཤམ་གྱི་བརྡ་འཕྲིན་ལ་ལྟ་རོགས།"
+
+msgid ""
+"A problem occurred during the update. This is usually some sort of network "
+"problem, please check your network connection and retry."
+msgstr ""
+"རིམ་སྤོར་གོ་རིམ་ཁྲོད་ནོར་འཁྲུལ་བྱུང་ཞིང་འདི་ནི་རྒྱུན་པར་དྲ་རྒྱའི་གནད་དོན་ཡིན་པས་ཁྱེད་ཀྱི་དྲ་རྒྱ་འབྲེལ་མཐུད་ཞིབ་བཤེར་བྱས་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་རོགས།"
+
+msgid "Aborting"
+msgstr "མཇུག་བསྒྲིལ་བཞིན་པ།"
+
+msgid "About %s remaining"
+msgstr "ཕལ་ཆེར་ད་དུང་ %s དགོས།"
+
+msgid "Add debug output"
+msgstr "ཚོད་སྒྲིག་ཕྱིར་འདོན་ཁ་སྣོན།"
+
+msgid "An upgrade from '%s' to '%s' is not supported with this tool."
+msgstr "ལག་ཆ་འདིས་ '%s' ནས ‘%s' ཡི་རིམ་སྤོར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Applying changes"
+msgstr "བཟོ་བཅོས་ཉེར་སྤྱོད་བྱེད་བཞིན་པ།"
+
+msgid "Ask Me Later"
+msgstr "ཅུང་ཙམ་འགོར་རྗེས་འདྲི་རྩད་བྱེད་པ།"
+
+msgid ""
+"Authenticating the upgrade failed. There may be a problem with the network "
+"or with the server. "
+msgstr ""
+"རིམ་སྤར་ཆ་འཕྲིན་ར་སྤྲོད་ཕམ་སོང་། དྲ་རྒྱའམ་ཞབས་ཞུ་ཆས་ཀྱི་གནད་དོན་ཡིན་སྲིད།"
+
+msgid "Authentication failed"
+msgstr "ར་སྤྲོད་ཕམ་པ།"
+
+msgid "Broken packages"
+msgstr "ཆག་སྐྱོན་ཤོར་བའི་མཉེན་ཁུག"
+
+msgid "Calculating the changes"
+msgstr "འགྱུར་ལྡོག་རྩི་བཞིན་པ།"
+
+msgid "Can not run the upgrade"
+msgstr "རིམ་སྤར་འཁོར་སྐྱོད་བྱེད་མི་ཆོག"
+
+msgid "Can not upgrade"
+msgstr "རིམ་སྤར་བྱེད་ཐབས་མེད།"
+
+msgid "Can not write to '%s'"
+msgstr " '%s' འབྲི་ཐབས་མེད།"
+
+msgid "Can't guess meta-package"
+msgstr "གཞིའི་མཉེན་ཁུག་དཔག་ཐབས་མེད།"
+
+msgid "Can't install '%s'"
+msgstr " '%s' སྒྲིག་འཇུག་བྱེད་ཐབས་མེད།"
+
+msgid "Cancel Upgrade?"
+msgstr "རིམ་སྤར་འདོར་རམ།"
+
+msgid "Check if upgrading to the latest devel release is possible"
+msgstr "པར་གཞི་གསར་ཤོས་ལ་རིམ་སྤོར་བྱེད་ཐུབ་མིན་ར་སྤྲོད།"
+
+msgid ""
+"Check only if a new distribution release is available and report the result "
+"via the exit code"
+msgstr ""
+"འགྲེམས་སྤེལ་པར་གཞི་གསར་པ་ཁྱབ་བསྒྲགས་བྱེད་རྒྱུ་ཡོད་དུས་ཁོ་ནར་ཞིབ་བཤེར་བྱེད་པ་མ་ཟད་ཕྱིར་འབུད་ཨང་(exit"
+" code) རྒྱུད་ནས་འབྲས་བུ་སྙན་ཞུ་བྱེད་པ།"
+
+msgid "Checking for a new Ubuntu release"
+msgstr "Ubuntu པར་གཞི་གསར་པ་ཞིབ་བཤེར་བྱེད་བཞིན་པ།"
+
+msgid "Checking package manager"
+msgstr "མཉེན་ཁུག་དོ་དམ་ཆས་ཞིབ་བཤེར་བྱེད་བཞིན་པ།"
+
+msgid "Cleaning up"
+msgstr "གཙང་བཤེར་བྱེད་པ།"
+
+msgid "Continue [Yn] "
+msgstr "མུ་མཐུད། [Yn]"
+
+msgid "Continue [yN] "
+msgstr "མུ་མཐུད།  [yN]"
+
+msgid "Continue running under SSH?"
+msgstr "མུ་མཐུད་ནས་ SSH ནས་ལག་སྟར་བྱེད་དམ།"
+
+msgid "Could not calculate sources.list entry"
+msgstr "sources.list དོན་ཚན་རྩི་ཐབས་མེད།"
+
+msgid "Could not calculate the upgrade"
+msgstr "རིམ་སྤོར་རྩིས་རྒྱག་བྱ་ཐབས་བྲལ།"
+
+msgid "Could not download the release notes"
+msgstr "འགྲེམས་སྤེལ་གསལ་བཤད་ཕབ་ལེན་བྱེད་ཐབས་མེད།"
+
+msgid "Could not download the upgrades"
+msgstr "རིམ་སྤོར་ཁུག་མ་ཕབ་ལེན་བྱེད་ཐབས་མེད།"
+
+msgid "Could not find the release notes"
+msgstr "འགྲེམས་སྤེལ་མཆན་འགོད་རྙེད་ཐབས་མེད།"
+
+msgid "Could not install '%s'"
+msgstr "“%s” སྒྲིག་འཇུག་བྱེད་ཐབས་མེད།"
+
+msgid "Could not install the upgrades"
+msgstr "རིམ་སྤར་སྒྲིག་འཇུག་བྱེད་ཐབས་མེད།"
+
+msgid "Could not run the upgrade tool"
+msgstr "རིམ་སྤར་ལག་ཆ་འཁོར་སྐྱོད་བྱེད་མི་ཐུབ།"
+
+msgid "Custom servers"
+msgstr "མཚན་ཉིད་རང་འཇོག་ཞབས་ཞུ་ཆས།"
+
+msgid "Demoted:\n"
+msgstr "རིམ་ཕབ།：\n"
+
+msgid "Details"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
+
+msgid "Details [d]"
+msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།[d]"
+
+msgid "Directory that contains the data files"
+msgstr "གཞི་གྲངས་ཡིག་ཆ་འདུས་པའི་ཡིག་ཁུག"
+
+msgid "Disable GNU screen support"
+msgstr "GNU screen ཡི་རྒྱབ་སྐྱོར་ཁ་རྒྱག་པ།"
+
+msgid "Distribution Upgrade"
+msgstr "འགྲེམས་སྤེལ་གྱི་པར་གཞི་རིམ་སྤོར།"
+
+msgid "Do you want to start the upgrade?"
+msgstr "ཁྱེད་ཀྱིས་རིམ་སྤོར་མགོ་རྩོམ་མམ།"
+
+msgid "Don't Upgrade"
+msgstr "རིམ་པ་མི་སྤར།"
+
+msgid "Downloading additional package files..."
+msgstr "ཚད་བརྒལ་གྱི་མཉེན་ཆས་ཐུམ་བུའི་ཡིག་ཆ་ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Downloading file %(current)li of %(total)li"
+msgstr "ཡིག་ཆ %(current)li/%(total)li ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+msgstr ""
+"ཡིག་ཆ %(current)li/%(total)li ཕབ་ལེན་བྱེད་བཞིན་པ། མྱུར་ཚད་ནི %(speed)s/s "
+"ཡིན།"
+
+msgid "Downloading the release upgrade tool"
+msgstr "ཁྱབ་བསྒྲགས་རིམ་སྤར་ལག་ཆ་ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Error"
+msgstr " ནོར་འཁྲུལ།"
+
+msgid "Error authenticating some packages"
+msgstr "མཉེན་ཁུག་ཁ་ཤས་ར་སྤྲོད་ནོར་བ།"
+
+msgid "Error during commit"
+msgstr "གཏན་འཁེལ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error during update"
+msgstr "རིམ་སྤོར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid ""
+"Extracting the upgrade failed. There may be a problem with the network or "
+"with the server. "
+msgstr "རིམ་སྤོར་ཆ་འཕྲིན་ལེན་པ་ཕམ་པ། དྲ་རྒྱའམ་ཞབས་ཞུ་ཆས་ཀྱི་གནད་དོན་ཡིན་སྲིད།"
+
+msgid "Failed to add the CD"
+msgstr "CD ཁ་སྣོན་ཕམ་པ།"
+
+msgid "Failed to add the cdrom"
+msgstr "འོད་སྐུལ་ཁ་སྣོན་ཕམ་པ།"
+
+msgid "Failed to extract"
+msgstr "བླངས་པ་ཕམ་པ།"
+
+msgid "Failed to fetch"
+msgstr "ཕབ་ལེན་ཕམ་པ།"
+
+msgid "Fetching"
+msgstr "ཐོབ་པ།"
+
+msgid "Fetching file %li of %li"
+msgstr "ཡིག་ཆ %li ཕབ་ལེན། (བསྡོམས་པས་ཡིག་ཆ %li )"
+
+msgid "Fetching file %li of %li at %sB/s"
+msgstr "ཡིག་ཆ %li/%li ཕབ་ལེན། མྱུར་ཚད་ %s/s"
+
+msgid "Fetching is complete"
+msgstr "ཕབ་ལེན་ལེགས་འགྲུབ།"
+
+msgid "Fetching the upgrade failed. There may be a network problem. "
+msgstr "རིམ་སྤར་ཆ་འཕྲིན་ཐོབ་པ་ཕམ་པ། དྲ་རྒྱ་ལ་གནད་དོན་ཡོད་སྲིད།"
+
+msgid "File %s of %s"
+msgstr "ཡིག་ཆ %s/%s"
+
+msgid "File %s of %s at %sB/s"
+msgstr "ཡིག་ཆ %s/%s མྱུར་ཚད།： %sB/s"
+
+msgid "Generate default sources?"
+msgstr "སོར་བཞག་གི་ཁུངས་གྲུབ་པ།"
+
+msgid "Getting new packages"
+msgstr "མཉེན་ཁུག་གསར་པ་ཐོབ་པ།"
+
+msgid "Getting new software channels"
+msgstr "མཉེན་ཆས་ཁུངས་གསར་པ་ཐོབ་པ།"
+
+msgid "Getting upgrade prerequisites failed"
+msgstr "རིམ་སྤར་སྟ་གོན་ཕམ་པ།"
+
+msgid "Include latest updates from the Internet?"
+msgstr "དྲ་རྒྱ་སྟེང་གི་གསར་བསྒྱུར་ཆེས་གསར་པ་འདུ་འམ།"
+
+msgid "Information"
+msgstr " ཆ་འཕྲིན།"
+
+msgid "Install %s"
+msgstr "%s སྒྲིག་འཇུག"
+
+msgid "Install (%s)"
+msgstr "(%s) སྒྲིག་འཇུག"
+
+msgid "Install: %s\n"
+msgstr "སྒྲིག་འཇུག：%s\n"
+
+msgid ""
+"Installing the upgrade can take several hours. Once the download has "
+"finished, the process cannot be canceled."
+msgstr ""
+"རིམ་སྤར་སྒྲིག་འཇུག་བྱེད་པར་ཕལ་ཆེར་དུས་ཚོད་ཁ་ཤས་སྤྱོད་དགོས་ལ་གལ་ཏེ་ཕབ་ལེན་ལེགས་འགྲུབ་བྱུང་རྗེས་འཕེལ་རིམ་འདི་དོར་མི་ཆོག"
+
+msgid "Installing the upgrades"
+msgstr "རིམ་སྤར་སྒྲིག་འཇུག་བྱེད་བཞིན་པ།"
+
+msgid "Invalid package information"
+msgstr "ནུས་མེད་ཀྱི་མཉེན་ཁུག་ཆ་འཕྲིན།"
+
+msgid "It was not possible to create the sandbox environment."
+msgstr "བྱེ་སྒམ་ཁོར་ཡུག་གསར་འཛུགས་བྱེད་མི་ཐུབ།"
+
+msgid "Main server"
+msgstr "ཞབས་ཞུ་ཆས་གཙོ་བོ།"
+
+msgid "Media Change"
+msgstr "སྨྱན་བྱེད་ཀྱི་འགྱུར་ལྡོག"
+
+msgid "New release '%s' available."
+msgstr "སྤྱད་ཆོག་པའི“%s”ཡོད།"
+
+msgid "No ARMv6 CPU"
+msgstr "ARMv6 CPU མེད།"
+
+msgid "No i686 CPU"
+msgstr "i686 CPU མ་ཡིན་པ།"
+
+msgid "No init available"
+msgstr "སྤྱད་ཆོག་པའི init མེད།"
+
+msgid "No longer needed (%s)"
+msgstr "(%s) མི་དགོས།"
+
+msgid "No longer supported %s"
+msgstr "%s རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "No longer supported by Canonical (%s)"
+msgstr "Canonical ཡིས་། (%s) ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "No longer supported: %s\n"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད།：%s\n"
+
+msgid "No new release found"
+msgstr "པར་གཞི་གསར་པ་རྙེད་མེད།"
+
+msgid "No valid mirror found"
+msgstr "སྤྱོད་རུང་གི་སྣང་བརྙན་རྙེད་མེད།"
+
+msgid "Not enough free disk space"
+msgstr "སྡུད་སྡེར་བར་སྟོང་མི་འདང་བ།"
+
+msgid "Not for humans during development stage of release %s"
+msgstr ""
+"%s "
+"པར་གཞི་ད་དུང་གསར་སྤེལ་དུས་རིམ་དུ་གནས་པས་སྤྱོད་མཁན་དཀྱུས་མས་སྤྱོད་པར་མི་འཚམ།"
+
+msgid "PAE not enabled"
+msgstr "PAE བྱེད་ནུས་སྤྱོད་འགོ་བརྩམས་མེད།"
+
+msgid "Package in inconsistent state"
+msgid_plural "Packages in inconsistent state"
+msgstr[0] "མཉེན་ཆས་ཁུག་ལ་འགལ་རྐྱེན་ཡོད།"
+msgstr[1] "མཉེན་ཆས་ཁུག་ལ་འགལ་རྐྱེན་ཡོད།"
+
+msgid "Perform a partial upgrade"
+msgstr "རིམ་སྤར་ཆ་ཤས་ལག་བསྟར།"
+
+msgid "Perform a partial upgrade only (no sources.list rewriting)"
+msgstr "རིམ་སྤར་ཆ་ཤས་ཁོ་ན་ལག་བསྟར།( sources.list བསྐྱར་འབྲི་མི་བྱེད།)"
+
+msgid "Perform a release upgrade"
+msgstr "པར་གཞི་རིམ་སྤར་ལག་བསྟར།"
+
+msgid "Please check your internet connection."
+msgstr "ཁྱེད་ཀྱི་སྦྲེལ་རེས་དྲ་རྒྱ་འབྲེལ་མཐུད་ཞིབ་བཤེར་བྱེད་རོགས།"
+
+msgid "Please insert '%s' into the drive '%s'"
+msgstr "ཁྱེད་ཀྱིས '%s' དེ་སྒུལ་ཆས '%s' ཡི་ནང་འཇུག་རོགས།"
+
+msgid ""
+"Preparing the system for the upgrade failed so a bug reporting process is "
+"being started."
+msgstr ""
+"གསར་བསྒྱུར་སྐབས་རྒྱུད་ཁོངས་སྟ་གོན་ཕམ་པ། "
+"ནོར་འཁྲུལ་སྙན་ཞུ་འཕེལ་རིམ་འགོ་སློང་ཟིན།"
+
+msgid "Preparing the upgrade failed"
+msgstr "རིམ་སྤར་སྟ་གོན་ཕམ་པ།"
+
+msgid "Preparing to upgrade"
+msgstr "རིམ་སྤར་སྟ་གོན་བྱེད་བཞིན་པ།"
+
+msgid "Progress: [%3i%%]"
+msgstr "མྱུར་ཚད།：[%3i%%]"
+
+msgid "Reading cache"
+msgstr "སྐབས་གསོག་ཀློག་བཞིན་པ།"
+
+msgid "Reboot required"
+msgstr "བསྐྱར་སློང་བྱེད་དགོས།"
+
+msgid "Release Notes"
+msgstr "འགྲེམས་སྤེལ་མཆན་འགྲེལ།"
+
+msgid "Release upgrade not possible right now"
+msgstr "པར་གཞི་རིམ་སྤོར་མིག་སྔར་སྤྱོད་མི་ཆོག"
+
+msgid "Remove %s"
+msgstr "%s འབུད་པ།"
+
+msgid "Remove (%s)"
+msgstr "(%s) འབེབས་པ།"
+
+msgid "Remove (was auto installed) %s"
+msgstr "%s འབུད་པ། (རང་འགུལ་དུ་སྒྲིག་འཇུག་བྱས་པའི)"
+
+msgid "Remove obsolete packages?"
+msgstr "མཉེན་ཆས་ཁུག་མ་རྙིང་བ་བསུབ་བམ།"
+
+msgid "Remove package in bad state"
+msgid_plural "Remove packages in bad state"
+msgstr[0] "རྣམ་པ་རྒྱུན་འགལ་གྱི་མཉེན་ཁུག་འབེབས་པ།"
+msgstr[1] "རྣམ་པ་རྒྱུན་འགལ་གྱི་མཉེན་ཁུག་འབེབས་པ།"
+
+msgid "Remove: %s\n"
+msgstr "འབུད་པ།：%s\n"
+
+msgid "Removing the packages can take several hours. "
+msgstr "ཁུག་མ་བསུབ་པར་ཕལ་ཆེར་དུས་ཚོད་ཁ་ཤས་སྤྱོད་དགོས།"
+
+msgid "Repository information invalid"
+msgstr "མཛོད་ཁང་ཆ་འཕྲིན་ནུས་མེད།"
+
+msgid "Required depends is not installed"
+msgstr "དགོས་ངེས་ཀྱི་བརྟེན་བྱའི་འབྲེལ་བ་སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "Restart required"
+msgstr "བསྐྱར་སློང་བྱེད་དགོས།"
+
+msgid "Restarting the computer"
+msgstr "རྒྱུད་ཁོངས་ཡང་བསྐྱར་འགོ་སློང་བྱེད་བཞིན་པ།"
+
+msgid "Restoring original system state"
+msgstr "གདོད་མའི་རྒྱུད་ཁོངས་རྣམ་པ་སླར་གསོ་བྱེད་བཞིན་པ།"
+
+msgid "Run 'do-release-upgrade' to upgrade to it."
+msgstr ""
+"“do-release-upgrade” འཁོར་སྐྱོད་བྱས་ནས་པར་གཞི་གསར་པ་རུ་རིམ་སྤར་བྱེད་པ།"
+
+msgid "Run the specified frontend"
+msgstr "དམིགས་བཙུགས་པའི་མདུན་སྣེ་འཁོར་སྐྱོད།"
+
+msgid "Running partial upgrade"
+msgstr "ཆ་ཤས་རིམ་སྤར་འཁོར་སྐྱོད།"
+
+msgid "Sandbox mode"
+msgstr "བྱེ་སྒམ་རྣམ་པ།"
+
+msgid "Sandbox setup failed"
+msgstr "བྱེ་སྒམ་སྒྲིག་འཇུག་ཕམ་པ།"
+
+msgid "Sandbox upgrade using aufs"
+msgstr "aufs སྤྱད་ནས་བྱེ་སྒམ་རིམ་སྤར་བྱེད་པ།"
+
+msgid "Searching for obsolete software"
+msgstr "བེད་མེད་ཀྱི་མཉེན་ཆས་བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
+
+msgid "Server for %s"
+msgstr "%s ཡི་ཞབས་ཞུ་ཆས།"
+
+msgid "Set datadir"
+msgstr "གཞི་གྲངས་དཀར་ཆག་སྒྲིག་འགོད།"
+
+msgid "Setting new software channels"
+msgstr "མཉེན་ཆས་ཁུངས་གསར་པ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Show Difference >>>"
+msgstr "ཁྱད་པར་མངོན་པ། >>>"
+
+msgid "Show Terminal >>>"
+msgstr "མཐའ་སྣེ་མངོན་པ། >>>"
+
+msgid "Show progress of individual files"
+msgstr "ཡིག་ཆའི་མྱུར་ཚད་རྐྱང་མ་མངོན་པ།"
+
+msgid "Show version and exit"
+msgstr "པར་གཞི་འཆར་བ་དང་སྦྲགས་ཕྱིར་འབུད།"
+
+msgid "Sorry, adding the cdrom was not successful."
+msgstr "དགོངས་དག་ཞུ། རྒྱལ་ཁའི་ངང་འོད་སྐུལ་བསྣན་མེད།"
+
+msgid "Starting additional sshd"
+msgstr "ཚད་ལས་བརྒལ་བའི ssh ལྟ་སྲུང་འཕེལ་རིམ་སྤྱོད་འགོ་རྩོམ་བཞིན་པ།"
+
+msgid "System upgrade is complete."
+msgstr "རྒྱུད་ཁོངས་རིམ་སྤར་ལེགས་འགྲུབ།"
+
+msgid "Terminal"
+msgstr "མཐའ་སྣེ།"
+
+msgid "Test upgrade with a sandbox aufs overlay"
+msgstr "བྱེ་སྒམ་ལྡན་པའི་aufsབར་གཅོད་རིམ་པའི་ཚད་ལེན་རིམ་སྤོར་བྱེད་པ།"
+
+msgid "The 'diff' command was not found"
+msgstr "diff བཀའ་བརྡ་རྙེད་མ་བྱུང་།"
+
+msgid "The error message is '%s'."
+msgstr "ནོར་འཁྲུལ་ཆ་འཕྲིན་ནི་ “%s” རེད།"
+
+msgid "The essential package '%s' is marked for removal."
+msgstr "དགོས་ངེས་ཀྱི་མཉེན་ཁུག་ “%s” འབུད་པ་རུ་རྟགས་བཀོད་འདུག"
+
+msgid "The options --devel-release and --proposed are"
+msgstr " --devel-release དང་ --proposed འདེམས་ཚན།"
+
+msgid ""
+"The package '%s' is marked for removal but it is in the removal blacklist."
+msgstr ""
+"དགོས་ངེས་ཀྱི་མཉེན་ཁུག་ “%s” "
+"འབུད་པ་རུ་རྟགས་བཀོད་འདུག་མོད་འོན་ཀྱང་དེ་འབུད་པའི་མིང་ཐོ་ནག་པོ་རུ་གནས་ཟིན།"
+
+msgid "The partial upgrade was completed."
+msgstr "ཆ་ཤས་རིམ་སྤར་ལེགས་འགྲུབ།"
+
+msgid ""
+"The release upgrade can not be performed currently, please try again later. "
+"The server reported: '%s'"
+msgstr ""
+"འགྲེམས་སྤེལ་པར་གཞི་མིག་སྔར་གསར་སྒྱུར་བྱེད་ཐབས་མེད་པས་ཡང་བསྐྱར་ཚོད་ལྟ་ཐེངས་གཅིག་བྱེད་རོགས།"
+"  ཞབས་ཞུ་ཆས་སྙན་ཞུ།：'%s'"
+
+msgid "The required dependency '%s' is not installed. "
+msgstr "དགོས་པའི་བརྟེན་བྱའི་འབྲེལ་བ་ “%s” སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "The server may be overloaded"
+msgstr "ཞབས་ཞུ་ཆས་ཕལ་ཆེར་ཐེག་བརྒལ་བྱས་ཟིན།"
+
+msgid "The server may be overloaded. "
+msgstr "ཞབས་ཞུ་ཆས་ཕལ་ཆེར་ཐེག་བརྒལ་བྱས་ཟིན།"
+
+msgid "The software on this computer is up to date."
+msgstr "རྩིས་འཁོར་འདིའི་ཁྲོད་ཀྱི་མཉེན་ཆས་ནི་ཆེས་གསར་བའི་མཉེན་ཆས་ཡིན།"
+
+msgid ""
+"The upgrade has aborted. Please check your Internet connection or "
+"installation media and try again. "
+msgstr ""
+"གསར་བསྒྱུར་དོར་ཟིན། "
+"ཁྱེད་ཀྱི་ཨེན་ཐེ་དྲ་རྒྱ་འབྲེལ་མཐུད་དམ་སྨྱན་གཟུགས་སྒྲིག་འཇུག་ཞིབ་བཤེར་བྱས་རྗེས་ཡང་བསྐྱར་ཐེངས་གཅིག་ཚོད་ལྟ་བྱེད་རོགས།"
+
+msgid ""
+"The upgrade has completed but there were errors during the upgrade process."
+msgstr "རིམ་སྤར་ལེགས་འགྲུབ་བྱུང་ཟིན་མོད་འོན་ཀྱང་དེའི་རིང་དུ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid ""
+"The upgrade is finished and a reboot is required. Do you want to do this "
+"now?"
+msgstr ""
+"རིམ་སྤར་ལེགས་འགྲུབ་བྱུང་ཟིན་པ་མ་ཟད་བསྐྱར་སློང་བྱེད་དགོས་པས་ཁྱེད་ཀྱིས་ད་ལྟ་བསྐྱར་སློང་བྱེད་དམ།"
+
+msgid ""
+"The upgrade will cancel now and the original system state will be restored. "
+"You can resume the upgrade at a later time."
+msgstr ""
+"རིམ་སྤར་འདོར་སྲིད་པ་དང་རྒྱུད་ཁོངས་གདོད་མའི་རྣམ་པ་རུ་སླར་གསོ་བྱེད་པས་ཁྱེད་ཀྱིས་དེའི་རྗེས་སུ་མུ་མཐུད་ནས་རིམ་སྤར་བྱས་ཆོག"
+
+msgid ""
+"The upgrade will continue but the '%s' package may not be in a working "
+"state. Please consider submitting a bug report about it."
+msgstr ""
+"རིམ་སྤར་མུ་མཐུད་ནས་བྱེད་མོད་འོན་ཀྱང་“%s” "
+"ལ་ལས་ཀ་མེད་སྲིད་པས་དེ་དང་འབྲེལ་བའི་ནོར་འཁྲུལ་སྙན་ཞུ་གོང་སྤྲོད་བྱེད་པར་བསམ་བློ་གཏོང་རོགས།"
+
+msgid ""
+"There are no upgrades available for your system. The upgrade will now be "
+"canceled."
+msgstr "ཁྱེད་ཀྱི་རྒྱུད་ཁོངས་ལ་སྤྱོད་ཆོག་པའི་རིམ་སྤར་མེད་པས་རིམ་སྤར་དོར་ཟིན།"
+
+msgid "Third party sources disabled"
+msgstr "ཕྱོགས་གསུམ་པའི་ཁུངས་འགོག་སྤྱོད་བྱས་པ།"
+
+msgid "This download will take about %s with your connection. "
+msgstr ""
+"ཁྱེད་ཀྱི་འབྲེལ་མཐུད་མྱུར་ཚད་ལ་གཞིག་ན་ཐེངས་འདིའི་ཕབ་ལེན་ལ་ཕལ་ཆེར་དུས་ཚོད་ %s "
+"དགོས་སྲིད།"
+
+msgid "This is most likely a transient problem, please try again later."
+msgstr ""
+"རྒྱུད་གཏོང་གནད་དོན་ཞིག་བྱུང་ཡོད་ཤས་ཆེ་པས་ཅུང་སྒུག་ནས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་རོགས།"
+
+msgid "To continue please press [ENTER]"
+msgstr "མཐེབ [ENTER] མནན་ནས་མུ་མཐུད།"
+
+msgid "To perform a partial upgrade, you need to authenticate."
+msgstr "རིམ་སྤར་ཁ་ཤས་མ་བྱས་གོང་ཁྱེད་ཀྱིས་བཀོལ་སྤྱོད་འདིར་དབང་སྤྲོད་དགོས།"
+
+msgid "To prevent data loss close all open applications and documents."
+msgstr ""
+"གཞི་གྲངས་བོར་བརླག་མི་ཡོང་བའི་ཆེད་དུ་ཁ་ཕྱེ་པའི་ཉེར་སྤྱོད་བྱ་རིམ་དང་ཡིག་ཚགས་ཚང་མ་ཁ་རྒྱག་རོགས།"
+
+msgid "To upgrade Ubuntu, you need to authenticate."
+msgstr ""
+"པར་གཞི་ Ubuntu རིམ་སྤར་མ་བྱས་གོང་ཁྱེད་ཀྱིས་བཀོལ་སྤྱོད་འདིར་དབང་སྤྲོད་དགོས།"
+
+msgid ""
+"Try upgrading to the latest release using the upgrader from $distro-proposed"
+msgstr ""
+"$distro-proposed "
+"རྒྱུད་ནས་པར་གཞི་གསར་པ་རུ་གསར་བསྒྱུར་བྱེད་པར་ཚོད་ལྟ་བྱེད་རོགས།"
+
+msgid "Trying to install blacklisted version '%s'"
+msgstr "མིང་ཐོ་ནག་པོའི་པར་གཞི་ “%s”སྒྲིག་འཇུག་བྱེད་ཚོད་བྱེད་པ།"
+
+msgid "Ubuntu %(version)s Upgrade Available"
+msgstr "Ubuntu %(version)s རིམ་སྤར་སྤྱོད་རུང་།"
+
+msgid "Unable to get exclusive lock"
+msgstr "གཞན་ཕུད་སྒྲོག་ཐོབ་ཐབས་མེད།"
+
+msgid ""
+"Unable to locate any package files, perhaps this is not a Ubuntu Disc or the"
+" wrong architecture?"
+msgstr ""
+"མཉེན་ཆས་ཁུག་ཡིག་ཆ་གང་ཡང་གནས་གཏན་བྱེད་ཐབས་མེད་དེ་ཕལ་ཆེར་ Ubuntu "
+"འོད་སྡེར་མིན་པའམ་ཡང་ན་དེའི་སྒྲོམ་གཞི་ནོར་འཁྲུལ་མིན་ནམ།"
+
+msgid "Updating repository information"
+msgstr "མཉེན་ཆས་མཛོད་ཁང་ཆ་འཕྲིན་གསར་བསྒྱུར་བྱེད་བཞིན་པ།"
+
+msgid "Upgrade"
+msgstr "རིམ་སྤར།"
+
+msgid "Upgrade canceled"
+msgstr "རིམ་སྤར་དོར་ཟིན།"
+
+msgid "Upgrade complete"
+msgstr "རིམ་སྤར་ལེགས་འགྲུབ།"
+
+msgid "Upgrade to the development release"
+msgstr "གསར་སྤེལ་པར་གཞི་རུ་རིམ་སྤར་བྱེད་པ།"
+
+msgid "Upgrade tool"
+msgstr "རིམ་སྤར་ལག་ཆ།"
+
+msgid "Upgrade tool signature"
+msgstr "རིམ་སྤར་ལག་ཆ་མིང་འགོད་པ།"
+
+msgid "Upgrade: %s\n"
+msgstr "རིམ་སྤར།：%s\n"
+
+msgid "Upgrading"
+msgstr "རིམ་སྤར་བྱེད་བཞིན་པ།"
+
+msgid ""
+"Upgrading may reduce desktop effects, and performance in games and other "
+"graphically intensive programs."
+msgstr ""
+"རིམ་སྤར་རྒྱུད་རིམ་གྱིས་ཅོག་ངོས་ཁྱད་ནུས་དམའ་རུ་གཏོང་སྲིད་དེ་རོལ་རྩེད་གཤིས་ནུས་དང་མངོན་འཆར་རེ་བ་མཐོ་བའི་བྱ་རིམ།"
+
+msgid "Upgrading over remote connection not supported"
+msgstr "རྒྱང་རིང་འབྲེལ་མཐུད་རྒྱུད་ནས་རིམ་སྤར་བྱེད་པར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid ""
+"Upgrading the repository information resulted in a invalid file so a bug "
+"reporting process is being started."
+msgstr ""
+"མཉེན་ཆས་ཁུངས་གསར་བསྒྱུར་བྱེད་སྐབས་ནུས་མེད་ཡིག་ཆ་རུ་ཕྱིར་ལོག་པས་ནོར་འཁྲུལ་སྙན་ཞུ་འཕེལ་རིམ་འགོ་སློང་ཟིན།"
+
+msgid "Use the given path to search for a cdrom with upgradable packages"
+msgstr "སྤྲད་པའི་འགྲོ་ལམ་གྱིས་རིམ་སྤར་ཁུག་ཡོད་པའི་ CD-ROM འཚོལ་ཞིབ་བྱེད་པ།"
+
+msgid "Verification failed"
+msgstr "ར་སྤྲོད་ཕམ་པ།"
+
+msgid ""
+"Verifying the upgrade failed.  There may be a problem with the network or "
+"with the server. "
+msgstr ""
+"རིམ་སྤར་བྱ་རིམ་ར་སྤྲོད་ཕམ་པ། ཕལ་ཆེར་དྲ་རྒྱའམ་ཞབས་ཞུ་ཆས་ཀྱི་གནད་དོན་ཡིན་སྲིད།"
+
+msgid "Yes, Upgrade Now"
+msgstr "རེད། ད་ལྟ་རིམ་སྤོར་བྱེད།"
+
+msgid ""
+"You can upgrade at a later time by opening Software Updater and click on "
+"\"Upgrade\"."
+msgstr ""
+"ཁྱེད་ཀྱིས་ཅུང་སྒུག་ནས་རིམ་སྤར་བྱས་ཆོག་སྟེ་མཉེན་ཆས་གསར་བསྒྱུར་ཆས་ཁ་ཕྱེ་པ་དང་“རིམ་སྤོར་”བརྡེབ་པས་ཆོག"
+
+msgid "You have declined the upgrade to Ubuntu %s"
+msgstr "ཁྱེད་ཀྱིས་ Ubuntu རུ་རིམ་སྤོར་བྱེད་པ་ཁས་བླངས་མེད། %s"
+
+msgid "You have declined to upgrade to the new Ubuntu"
+msgstr "ཁྱེད་ཀྱིས་པར་གཞི་གསར་པའི་ Ubuntu རུ་རིམ་སྤོར་བྱེད་པ་ཁས་བླངས་མེད།"
+
+msgid ""
+"You will lose any changes you have made to this configuration file if you "
+"choose to replace it with a newer version."
+msgstr ""
+"གལ་ཏེ་པར་གཞི་གསར་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ་རུ་བརྗེ་བ་གདམ་ན་ཁྱེད་ཀྱིས་བཟོ་བཅོས་བྱས་ཟིན་པ་ཚང་མ་བོར་སྲིད།"
+
+msgid "Your Ubuntu release is not supported anymore."
+msgstr "ཁྱེད་ཀྱི་ Ubuntu པར་གཞིའི་རྒྱབ་སྐྱོར་མཁོ་འདོན་མི་བྱེད།"
+
+msgid "Your graphics hardware may not be fully supported in Ubuntu 12.04 LTS."
+msgstr ""
+"Ubuntu 12.04 LTS "
+"ཡིས་ཕལ་ཆེར་ཁྱོན་ཡོངས་ནས་ཁྱེད་ཀྱི་འཆར་ཁཱ་ལ་རྒྱབ་སྐྱོར་བྱེད་ཐབས་མེད།"
+
+msgid "Your graphics hardware may not be fully supported in Ubuntu 14.04."
+msgstr ""
+"ཁྱེད་ཀྱི་རིས་དབྱིབས་སྲ་ཆས་ཕལ་ཆེར་ Ubuntu 14.04 "
+"སྟེང་ཁྱོན་ཡོངས་ནས་རྒྱབ་སྐྱོར་བྱེད་ཐབས་མེད།"
+
+msgid ""
+"Your python install is corrupted. Please fix the '/usr/bin/python' symlink."
+msgstr ""
+"ཁྱེད་ཀྱི་ python སྒྲིག་འཇུག་ནོར་འཁྲུལ་བྱུང་པས་ “/usr/bin/python” "
+"ཨང་རྟགས་སྦྲེལ་མཐུད་སླར་གསོ་བྱེད་རོགས།"
+
+msgid "_Cancel Upgrade"
+msgstr "རིམ་སྤར་དོར་བ། (_C)"
+
+msgid "_Continue"
+msgstr "མུ་མཐུད།(_C)"
+
+msgid "_Keep"
+msgstr "རྣམ་པ་སྔོན་མ་ལྟར་འཇོག་པ།(_K)"
+
+msgid "_Remove"
+msgstr "སྤོ་བ།（R)"
+
+msgid "_Replace"
+msgstr " ཚབ་བརྗེ།(_R)"
+
+msgid "_Report Bug"
+msgstr "སྙན་ཞུ། Bug(_R)"
+
+msgid "_Restart Now"
+msgstr "ད་ལྟ་བསྐྱར་སློང་།(_R)"
+
+msgid "_Resume Upgrade"
+msgstr "རིམ་སྤར་སླར་གསོ།(_R)"
+
+msgid "_Start Upgrade"
+msgstr "རིམ་སྤར་མགོ་རྩོམ།(_R)"
+
+msgid "_Upgrade"
+msgstr "རིམ་སྤར།(_U)"
+
+msgid "authenticate '%(file)s' against '%(signature)s' "
+msgstr "%(signature)s' སྤྱད་ནས་ '%(file)s' ལ་ར་སྤྲོད་ བྱེད་པ།"
+
+msgid "disabled on upgrade to %s"
+msgstr "%s རུ་རིམ་སྤར་བྱེད་པ་གཏན་འགོག་བྱས།"
+
+msgid "extracting '%s'"
+msgstr " '%s' ལེན་བཞིན་པ།"
+
+msgid "mutually exclusive. Please use only one of them."
+msgstr "འཆམ་མཐུན་མེད་པས་དེའི་ནང་གི་འདེམས་ཚན་གཅིག་ཁོ་ན་སྤཡོད་རོགས།"
+
+msgid "y"
+msgstr "ཡིན།"

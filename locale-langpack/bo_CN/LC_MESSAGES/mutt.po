@@ -1,0 +1,3144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "               expires: "
+msgstr "དུས་ཚོད་འདི་ནས་དུས་ལས་ཡོལ་བ།"
+
+msgid "     to %s"
+msgstr "%sལ་སྐུར་བ།"
+
+msgid "   from %s"
+msgstr "%sནས་འོང་བ།"
+
+msgid "  -d <level>\tlog debugging output to ~/.muttdebug0"
+msgstr "\"  -d <རིམ་པ་>\tཡིས་ཚོད་སྒྲིག་ཕྱིར་འདོན་ ~/.muttdebug0\"རུ་ཐོ་འགོད་བྱེད།"
+
+msgid " ('?' for list): "
+msgstr "\"། ('?'མནན་ན།རེའུ་མིག་འཆར་བ)： \""
+
+msgid " (PGP/MIME)"
+msgstr "\"། (PGP/MIME)\""
+
+msgid " (current time: %c)"
+msgstr "\"། (མིག་སྔའི་དུས་ཚོད།：%c)\""
+
+msgid " Press '%s' to toggle write"
+msgstr "\"  '%s'མནན་ནས་འབྲི་འཇུག་རྗེས།"
+
+msgid " aka ......: "
+msgstr "\" དེ་ཡང་ ...: \""
+
+msgid " in this limited view"
+msgstr "འདིར་མིག་བཤེར་ཚོད་འཛིན་བྱེད་བཞིན་པ།"
+
+msgid " sign as: "
+msgstr "མིང་རྟགས་བཀོད་པའི་ཐོབ་ཐང་ནི།"
+
+msgid " tagged"
+msgstr "རྟགས་བརྒྱབ་ཟིན་པ།"
+
+msgid "\"crypt_use_gpgme\" set but not built with GPGME support."
+msgstr ""
+"\"crypt_use_gpgme\"སྒྲིག་འགོད་བྱས་ཡོད་མོད།GPGMEཡི་རྒྱབ་སྐྱོར་སྒྲིག་སྒྱུར་བྱས་མེད་པ།"
+
+msgid "%c: invalid pattern modifier"
+msgstr "%c：ནུས་མེད་ཀྱི་རྣམ་པའི་རྒྱན་རྟགས།"
+
+msgid "%c: not supported in this mode"
+msgstr "%c：རྣམ་པ་འདིས་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "%d kept, %d deleted."
+msgstr "%dཉར་ཚགས་དང་%d བསུབ་པ།"
+
+msgid "%d kept, %d moved, %d deleted."
+msgstr "%d སོར་ཉར་དང་། %dསྤོ་སྒུལ།%d བསུབ་པ།"
+
+msgid "%d messages have been lost. Try reopening the mailbox."
+msgstr "འཕྲིན་ཡིག་%d བོར་ཟིན། བསྐྱར་དུ་ཡིག་སྒམ་ཁ་ཕྱེ་བར་ཚོད་ལྟ་ཞིག་བྱེད་རོགས།"
+
+msgid "%d: invalid message number.\n"
+msgstr "%d：ནུས་མེད་ཀྱི་འཕྲིན་ཡིག་ཨང་གྲངས། \n"
+
+msgid "%s \"%s\"."
+msgstr "\"%s \"%s\".\""
+
+msgid "%s <%s>."
+msgstr "\"%s <%s>.\""
+
+msgid "%s Do you really want to use the key?"
+msgstr "%s ཁྱེད་རང་གིས་དངོས་གནས་གསང་ལྡེ་འདི་བེད་སྤྱོད་ཀྱི་ཡིན་ནམ།"
+
+msgid "%s [#%d] modified. Update encoding?"
+msgstr "\"%s [#%d] ལ་བཟོ་བཅོས་བྱས་ཟིན། ཨང་སྒྲིག་གསར་སྒྱུར་བྱེད་དམ།"
+
+msgid "%s [#%d] no longer exists!"
+msgstr " \"%s [#%d]མེད་པ།"
+
+msgid "%s [%d of %d messages read]"
+msgstr "%s[འཕྲིན་ཡིག་ %d བཀླགས། ཁྱོན་བསྡོམས་འཕྲིན་ཡིག་%d ཡོད།]"
+
+msgid "%s authentication failed, trying next method"
+msgstr "\"%sར་སྤྲོད་ཕམ་པ།ཐབས་ཤེས་རྗེས་མ་དེ་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།"
+
+msgid "%s does not exist. Create it?"
+msgstr "%sམི་འདུག དེ་གསར་འཛུགས་བྱེད་དམ།"
+
+msgid "%s has insecure permissions!"
+msgstr "%sལ་བདེ་འཇགས་མིན་པའི་འཚམས་འདྲིའི་ཆོག་མཆན་འདུག"
+
+msgid "%s is an invalid IMAP path"
+msgstr "%sནི་ནུས་མེད་ཀྱི་IAPའགྲོ་ལམ་རེད།"
+
+msgid "%s is an invalid POP path"
+msgstr "%sནི་ནུས་མེད་ཀྱི་POPའགྲོ་ལམ་རེད།"
+
+msgid "%s is not a mailbox!"
+msgstr "%sཡིག་སྒམ་མ་རེད།"
+
+msgid "%s is not a mailbox."
+msgstr "%sཡིག་སྒམ་མ་རེད།"
+
+msgid "%s is set"
+msgstr "%sགཏན་འབེབས་བྱས་ཟིན།"
+
+msgid "%s is unset"
+msgstr "%sཇུས་འབེབས་བྱས་མེད།"
+
+msgid "%s isn't a regular file."
+msgstr "%s ནི་རྒྱུན་ལྡན་གྱི་ཡིག་ཆ་མ་རེད།"
+
+msgid "%s no longer exists!"
+msgstr "%sད་ལྟ་མེད་པར་གྱུར་ཟིན།"
+
+msgid "%s...  Exiting.\n"
+msgstr "%s.ཕྱིར་འཐེན་བྱེད་བཞིན་ཡོད། \n"
+
+msgid "%s: Unknown type."
+msgstr "\"%s：ངེས་མེད་ཀྱི་རིགས་གྲས།"
+
+msgid "%s: color not supported by term"
+msgstr "\"%s：མཐའ་སྣེ་ཡིས་ཤར་བའི་ཁ་དོག་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "%s: command valid only for index, body, header objects"
+msgstr ""
+"\"%s：བཀའ་ཡིས་དཀར་ཆག་དང་།གཞུང་དངོས།རྟགས་འགོའི་བྱ་ཡུལ་སོགས་ཁོ་ནར་ནུས་པ་ཡོད།"
+
+msgid "%s: invalid mailbox type"
+msgstr "\"%s：ནུས་མེད་ཡིག་སྒམ་གྱི་རིགས་གྲས།"
+
+msgid "%s: invalid value"
+msgstr "\"%s：ནུས་མེད་ཀྱི་ཐང་།"
+
+msgid "%s: invalid value (%s)"
+msgstr "\"%s： ནུས་མེད་ཀྱི་ཐང་།（%s ）"
+
+msgid "%s: no such attribute"
+msgstr "\"%s：གཏོགས་གཤིས་འདི་མེད་པ།"
+
+msgid "%s: no such color"
+msgstr "\"%s：མདོག་དེ་འདྲ་མེད།"
+
+msgid "%s: no such function"
+msgstr "\"%s： འདི་ལྟ་བུའི་རྟེན་འབྱུང་གྲངས་མེད།"
+
+msgid "%s: no such function in map"
+msgstr "\"%s： རྟེན་འཕྲོའི་རེའུ་མིག་ཁྲོད་དུ་འདི་ལྟ་བུའི་རྟེན་འབྱུང་གྲངས་མེད།"
+
+msgid "%s: no such menu"
+msgstr "\"%s：འདེམ་ཚན་འདི་མེད།"
+
+msgid "%s: no such object"
+msgstr "\"%s：བྱ་ཡུལ་འདི་མེད།"
+
+msgid "%s: too few arguments"
+msgstr "\"%s：ཞུགས་གྲངས་ཉུང་དྲགས་པ།"
+
+msgid "%s: unable to attach file"
+msgstr "\"%s：ཡིག་ཆ་ཟུར་སྣོན་བྱ་ཐབས་བྲལ།"
+
+msgid "%s: unable to attach file.\n"
+msgstr "\"%s：ཡིག་ཆ་ཟུར་སྣོན་བྱ་ཐབས་བྲལ། \n"
+
+msgid "%s: unknown command"
+msgstr "\"%s：ངེས་མེད་ཀྱི་བཀའ།"
+
+msgid "%s: unknown editor command (~? for help)\n"
+msgstr "\"%s：མི་གསལ་བའི་རྩོམ་སྒྲིག་ཆས་ཀྱི་བཀའ། (~? རོགས་སྐྱོར་ཞུ་འམ།)\n"
+
+msgid "%s: unknown sorting method"
+msgstr "\"%s：ངེས་མེད་ཀྱི་རིམ་སྒྲིག་བྱེད་སྟངས།"
+
+msgid "%s: unknown type"
+msgstr "\"%s：ངེས་མེད་ཀྱི་རིགས་གྲས།"
+
+msgid "%s: unknown variable"
+msgstr "\"%s：ངེས་མེད་ཀྱི་འགྱུར་ཚད།"
+
+msgid "(End message with a . on a line by itself)\n"
+msgstr "（ཐིག་ཕྲེང་གཅིག་གི་ནང་དུ་རྟགས་ཤིག་བཀོད་ནས་འཕྲིན་ཡིག་མཇུག་སྒྲིལ་དགོས།）\n"
+
+msgid "(continue)\n"
+msgstr "（རྒྱུན་མཐུད།）\n"
+
+msgid "(i)nline"
+msgstr "བཙུད་འཇུག(i)"
+
+msgid "(need 'view-attachments' bound to key!)"
+msgstr "[་]view-attachments’མཐེབ་ལ་བཀྱིག་སྦྲེལ་བྱ་དགོས། ）"
+
+msgid "(no mailbox)"
+msgstr "(ཡིག་སྒམ་མེད)"
+
+msgid "(r)eject, accept (o)nce"
+msgstr "ཁས་མ་བླངས་པ(r) དང་ལེན་ཐེངས་གཅིག་བྱེད་པ།(o)"
+
+msgid "(r)eject, accept (o)nce, (a)ccept always"
+msgstr "ཁས་མ་བླངས་པ(r) དང་ལེན་ཐེངས་གཅིག་བྱས་པ།(o) ནམ་ཞར་དང་ལེན།(a)"
+
+msgid "(size %s bytes) "
+msgstr "(ཆེ་ཆུང་ %s ཡིག་ཚིགས།)"
+
+msgid "(use '%s' to view this part)"
+msgstr "\"( '%s' སྤྱད་ནས་འདི་གྲས་འཆར་བྲ་བྱེད་པ།)\""
+
+msgid "*** Begin Notation (signature by: %s) ***\n"
+msgstr ""
+"\"*** མཆན་འགྲེལ་འགོ་ཚུགས་པ། ( %sཡིས་མིང་རྟགས་འགོད་པ།) ***\n"
+"\""
+
+msgid "*** End Notation ***\n"
+msgstr ""
+"\"*** མཆན་འགྲེལ་མཇུག་སྒྲིལ་བ། ***\n"
+"\""
+
+msgid "*BAD* signature from:"
+msgstr "\"*ནོར་འཁྲུལ་*མིང་རྟགས་ཀྱི་འབྱུང་ཁུངས།：\""
+
+msgid ", "
+msgstr "，"
+
+msgid "-- Attachments"
+msgstr "--ཟུར་བཀོད།"
+
+msgid "---Command: %-30.30s Attachment: %s"
+msgstr "\"---བཀའ་བརྡ།：%-30.30s ཞིབ་བརྗོད།：%s\""
+
+msgid "-group: no group name"
+msgstr "\"-group: ཚོ་ཆུང་གི་མིང་མེད་པ།\""
+
+msgid "1: DES, 2: Triple-DES "
+msgstr "\"1: DES, 2: སུམ་སྡེབ་DES \""
+
+msgid "468"
+msgstr "\"468\""
+
+msgid "895"
+msgstr "\"895\""
+
+msgid "<UNKNOWN>"
+msgstr "〈ངེས་མེད〉"
+
+msgid "<default>"
+msgstr "〈སོར་བཞག་ཐང་〉"
+
+msgid "A policy requirement was not met\n"
+msgstr "ཐབས་ཇུས་ཀྱི་རེ་འདུན་སྐོང་ཐུབ་མེད།\n"
+
+msgid "A system error occurred"
+msgstr "རྒྱུད་ཁོངས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "APOP authentication failed."
+msgstr "POPཚོད་ལྟས་ར་སྤྲོད་ཕམ་པ།"
+
+msgid "Abort"
+msgstr "དོར་བ།"
+
+msgid "Abort unmodified message?"
+msgstr "བཟོ་བཅོས་མ་བྱས་པའི་འཕྲིན་ཡིག་མཚམས་འཇོག་གམ།"
+
+msgid "Aborted unmodified message."
+msgstr "བཟོ་བཅོས་བརྒྱབ་མེད་པའི་འཕྲིན་ཡིག་མཚམས་འཇོག་བྱས་ཟིན་པ།"
+
+msgid "Accept the chain constructed"
+msgstr "གསར་འཛུགས་བྱས་པའི་སྦྲེལ་མཐུད་དང་ལེན་བྱེད་པ།"
+
+msgid "Address: "
+msgstr "ཤག་གནས།"
+
+msgid "Alias added."
+msgstr "མིང་གཞན་ཁ་སྣོན་བྱས་ཟིན།"
+
+msgid "Alias as: "
+msgstr "བཏགས་པའི་མིང་གཞན་ལ།："
+
+msgid "Aliases"
+msgstr "མིང་གཞན།"
+
+msgid "All available protocols for TLS/SSL connection disabled"
+msgstr ""
+"TLS/SSLའབྲེལ་མཐུད་ལ་བཀོལ་བའི་སྤྱོད་རུང་གྲོས་མཐུན་ཚང་མ་སྤྱོད་འགོག་བྱས་པ།"
+
+msgid "All matching keys are expired, revoked, or disabled."
+msgstr ""
+"ཟླ་སྒྲིག་གི་གཉིད་སྨན་ཡོད་ཚད་དུས་ལས་ཡོལ་བ་འམ། "
+"ཕྱིར་བསྡུས་པ་དང་ཡང་ན་སྤྱོད་མི་ཆོག"
+
+msgid "All matching keys are marked expired/revoked."
+msgstr "ཚད་མཐུན་གྱི་གསང་ལྡེ་ཚང་མ་དུས་ལས་ཡོལ་བའམ་ཡང་ན་ཐོ་ཁོངས་ནས་བསུབ་ཟིན་པ།"
+
+msgid "Anonymous authentication failed."
+msgstr "རང་མིང་མི་འགོད་པའི་ར་སྤྲོད་ཕམ་པ།"
+
+msgid "Append"
+msgstr "ཟུར་བཀོད།"
+
+msgid "Append a remailer to the chain"
+msgstr "བརྒྱུད་སྤྲོད་མཁན་སྦྲེལ་ལམ་དུ་ཟུར་སྣོན།"
+
+msgid "Append messages to %s?"
+msgstr "འཕྲིན་ཡིག་%sམཇུག་ཏུ་ཟུར་སྣོན།"
+
+msgid "Argument must be a message number."
+msgstr "ཞུགས་གྲངས་ངེས་པར་དུ་འཕྲིན་ཡིག་གི་ཨང་གྲངས་ཡིན་དགོས།"
+
+msgid "Attach file"
+msgstr "ཡིག་ཆ་ཟུར་སྣོན།"
+
+msgid "Attaching selected files..."
+msgstr "གདམས་ཟིན་པའི་ཡིག་ཆ་ཟུར་སྣོན་བྱེད་བཞིན་པ།"
+
+msgid "Attachment filtered."
+msgstr "ཟུར་བཀོད་ཡིག་ཆ་འཚག་ཟིན།"
+
+msgid "Attachment saved."
+msgstr "ཟུར་བཀོད་ཉར་ཚགས་བྱས་ཟིན།"
+
+msgid "Attachments"
+msgstr "ཟུར་བཀོད་ཡིག་ཆ།"
+
+msgid "Authenticating (%s)..."
+msgstr "ར་སྤྲོད་བྱེད་བཞིན་པ།(%s)..."
+
+msgid "Authenticating (APOP)..."
+msgstr "ར་སྤྲོད་བྱེད་བཞིན་པ།(APOP)..."
+
+msgid "Authenticating (CRAM-MD5)..."
+msgstr "ར་སྤྲོད་བྱེད་བཞིན་པ།(CRAM-MD5)..."
+
+msgid "Authenticating (GSSAPI)..."
+msgstr "ར་སྤྲོད་བྱེད་བཞིན་པ། (GSSAPI)..."
+
+msgid "Authenticating (SASL)..."
+msgstr "ར་སྤྲོད་བྱེད་བཞིན་པ།(SASL)..."
+
+msgid "Authenticating (anonymous)..."
+msgstr "ར་སྤྲོད་བྱེད་བཞིན་པ།(དངོས་མིང་མི་འགོད་པ)..."
+
+msgid "Available CRL is too old\n"
+msgstr "སྤྱོད་རུང་དཔང་ཡིག་ཕྱིར་བསྡུ་རེའུ་མིག(CRL)ཧ་ཅང་རྙིང་དྲགས།\n"
+
+msgid "Bad IDN \"%s\"."
+msgstr "ནོར་འཁྲུལ་གྱི་IDN \"%s\""
+
+msgid "Bad IDN %s while preparing resent-from."
+msgstr "Resent-folmལ་གྲ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བའི་IDN%s"
+
+msgid "Bad IDN in \"%s\": '%s'"
+msgstr "\"\"%s\"ཁྲོད་ནོར་འཁྲུལ་ཡོད་པའི་ IDN: '%s'\""
+
+msgid "Bad IDN in %s: '%s'\n"
+msgstr "\"\"%s\"ཁྲོད་ནོར་འཁྲུལ་ཡོད་པའི་ IDN: '%s'\""
+
+msgid "Bad IDN: '%s'"
+msgstr "ནོར་འཁྲུལ་གྱི་IDN: '%s"
+
+msgid "Bad history file format (line %d)"
+msgstr "ནོར་འཁྲུལ་གྱི་ལོ་རྒྱུས་ཡིག་ཆ་འི་རྣམ་གཞག།(ཕྲེང་ %d པ)"
+
+msgid "Bad mailbox name"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་སྒམ་མིང་།"
+
+msgid "Bad regexp: %s"
+msgstr "ནོར་འཁྲུལ་གྱི་ཚད་མཐུན་མཚོན་ཚུལ།：%s"
+
+msgid "Bottom of message is shown."
+msgstr "འཕྲིན་ཡིག་གི་ཆེས་མཇུག་མཐའ།"
+
+msgid "Bounce message to %s"
+msgstr "འཕྲིན་ཡིག་%sལ་ཕྱིར་སློག"
+
+msgid "Bounce messages to %s"
+msgstr "འཕྲིན་ཡིག་%sལ་ཕྱིར་སློག"
+
+msgid "Bounce tagged messages to: "
+msgstr "མཚོན་རྟགས་བཀོད་ཟིན་པའི་འཕྲིན་ཡིག་ཕྱིར་སློག"
+
+msgid "CRAM-MD5 authentication failed."
+msgstr "CRAM-MD5ཡི་ར་སྤྲོད་ཕམ་པ།"
+
+msgid "CREATE failed: %s"
+msgstr "CREATE（གསར་འཛུགས་）ཕམ་པ།：%s"
+
+msgid "Can't append to folder: %s"
+msgstr "ཡིག་ཁུག་མཇུག་ཏུ་ཁ་སྣོན་བྱེད་ཐབས་བྲལ།：%s"
+
+msgid "Can't attach a directory!"
+msgstr "དཀར་ཆག་ཟུར་སྣོན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Can't create %s."
+msgstr "%sགསར་འཛུགས་བྱ་ཐབས་བྲལ།"
+
+msgid "Can't create %s: %s."
+msgstr "%sགསར་འཛུགས་བྱ་ཐབས་བྲལ།: %s.\""
+
+msgid "Can't create file %s"
+msgstr "ཡིག་ཆ་%sའཛུགས་ཐབས་བྲལ།"
+
+msgid "Can't create filter"
+msgstr "འཚག་ཆས་འཛུགས་ཐབས་བྲལ།"
+
+msgid "Can't create filter process"
+msgstr "འཚག་པའི་འཕེལ་རིམ་འཛུགས་ཐབས་བྲལ།"
+
+msgid "Can't create temporary file"
+msgstr "སྐབས་བསོག་ཡིག་ཚགས་འཛུགས་ཐབས་བྲལ།"
+
+msgid "Can't decode all tagged attachments.  MIME-encapsulate the others?"
+msgstr ""
+"རྟགས་བཀོད་ཟིན་པའི་ཟུར་བཀོད་ཡིག་ཆ་ཚང་མ་གསང་འགྲོལ་བྱེད་ཐབས་བྲལ། "
+"MIMEབརྒྱུད་དེ་གཞན་དག་ཐུམ་སྒྲིལ་བྱེད་དམ།"
+
+msgid "Can't decode all tagged attachments.  MIME-forward the others?"
+msgstr ""
+"རྟགས་བཀོད་ཟིན་པའི་ཟུར་བཀོད་ཡིག་ཆ་ཚང་མ་གསང་འགྲོལ་བྱེད་ཐབས་བྲལ། "
+"MIMEབརྒྱུད་དེ་གཞན་དག་བརྒྱུད་སྐུར་བྱེད་དམ།"
+
+msgid "Can't decrypt encrypted message!"
+msgstr "གསང་སྡོམ་འཕྲིན་ཡིག་གསང་འགྲོལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Can't delete attachment from POP server."
+msgstr "POPཞབས་ཞུ་ཆས་ཀྱི་སྟེང་ནས་ཟུར་བཀོད་ཡིག་ཆ་བསུབ་ཐབས་བྲལ།"
+
+msgid "Can't dotlock %s.\n"
+msgstr ""
+"\" dotlock %sབྱ་ཐབས་བྲལ།\n"
+"\""
+
+msgid "Can't find any tagged messages."
+msgstr "རྟགས་བརྒྱབ་ཟིན་པའི་འཕྲིན་ཡིག་གང་ཡང་རྙེད་ཐབས་བྲལ།"
+
+msgid "Can't get mixmaster's type2.list!"
+msgstr "mixmasterཡི་type2.listཐོབ་ཐབས་བྲལ།"
+
+msgid "Can't invoke PGP"
+msgstr "PGPའདོན་སྤྱོད་བྱེད་མི་ཆོག"
+
+msgid "Can't match nametemplate, continue?"
+msgstr "མིང་གི་མ་དཔེ་ཟླ་སྒྲིག་བྱེད་ཐབས་བྲལ།མུ་མཐུད་ཡིན་ནམ།"
+
+msgid "Can't open /dev/null"
+msgstr "/dev/nullཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Can't open OpenSSL subprocess!"
+msgstr "OpenSSLབུའི་འཕེལ་རིམ་ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Can't open PGP subprocess!"
+msgstr "PGPཡི་བུའི་འཕེལ་རིམ་ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Can't open message file: %s"
+msgstr "འཕྲིན་ཡིག་ཡིག་ཆའི་ཁ་ཕྱེ་ཐབས་བྲལ།：%s"
+
+msgid "Can't open temporary file %s."
+msgstr "གནས་སྐབས་ཀྱི་ཡིག་ཆ་%s ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Can't save message to POP mailbox."
+msgstr "གསར་འཛུགས་དེ་POPཡིག་སྒམ་དུ་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Can't sign: No key specified. Use Sign As."
+msgstr ""
+"མིང་རྟགས་འགོད་ཐབས་བྲལ།གསང་ལྡེ་དམིགས་འཛུགས་བྱས་མེད། "
+"དམིགས་འཛུགས་གྱི་ཐོབ་ཐང་བཀོལ་ནས་མིང་རྟགས་འགོད་རོགས།"
+
+msgid "Can't stat %s: %s"
+msgstr "sat%s  བྱེད་ཐབས་བྲལ།：%s"
+
+msgid "Can't verify due to a missing key or certificate\n"
+msgstr "གསང་ལྡེ་ཆད་པ་འམ་ཡང་ན་དཔང་ཡིག་མེད་པའི་དབང་གིས་ར་སྤྲོད་བྱེད་ཐབས་བྲལ།\n"
+
+msgid "Can't view a directory"
+msgstr "དཀར་ཆག་འཆར་ཐབས་བྲལ།"
+
+msgid "Can't write header to temporary file!"
+msgstr "དམིགས་བྱའི་ཡིག་ཆ་དེ་གནས་སྐབས་ཀྱི་ཡིག་ཆའི་ནང་འབྲི་ཐབས་བྲལ་བ།"
+
+msgid "Can't write message"
+msgstr "འཕྲིན་ཡིག་ཏུ་འབྲི་ཐབས་བྲལ་པ།"
+
+msgid "Can't write message to temporary file!"
+msgstr "གསར་འཛུགས་དེ་གནས་སྐབས་ཀྱི་ཡིག་ཆའི་ནང་འབྲི་ཐབས་བྲལ།"
+
+msgid "Cannot %s: Operation not permitted by ACL"
+msgstr ""
+"%s.བྱེད་ཐབས་བྲལ། "
+"བཀོལ་སྤྱོད་དེར་བཅར་འདྲི་ཚོད་འཛིན་གྱི་རེའུ་མིག་(ACL)གིས་ཆོག་མཆན་ཐོབ་མེད།"
+
+msgid "Cannot create display filter"
+msgstr "འཚག་ཆས་འཆར་བ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot create filter"
+msgstr "འཚག་ཆས་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot delete root folder"
+msgstr "རྩ་བའི་ཡིག་ཁུག་བསུབ་ཐབས་བྲལ།"
+
+msgid "Cannot toggle write on a readonly mailbox!"
+msgstr "ཀློག་ཙམ་ཡིག་སྒམ་དུ་འབྲི་རུང་བརྗེ་ཐབས་བྲལ།"
+
+msgid "Caught %s...  Exiting.\n"
+msgstr "%s .འཛིན་ཐུབ་པ།ཕྱིར་འབུད་བྱེད་བཞིན་པ། \n"
+
+msgid "Caught signal %d...  Exiting.\n"
+msgstr "བརྡ་རྟགས་%d... ཟིན་པ། ཕྱིར་འཐེན་བྱེད་བཞིན་ཡོད། \n"
+
+msgid "Certificate host check failed: %s"
+msgstr "དཔང་ཡིག་གཙོ་འཁོར་ཞིབ་བཤེར་ཕམ་པ།：%s"
+
+msgid "Certificate is not X.509"
+msgstr "དཔང་ཡིག་ནི་X.509མ་རེད།"
+
+msgid "Certificate saved"
+msgstr "དཔང་ཡིག་ཉར་ཚར།"
+
+msgid "Certificate verification error (%s)"
+msgstr "དཔང་ཡིག་ཞིབ་བཤེར་ནོར་འཁྲུལ།(%s)"
+
+msgid "Changes to folder will be written on folder exit."
+msgstr "ཡིག་ཁུག་ནས་ཕྱིར་འཐེན་རྗེས་བསྒྱུར་བཅོས་དེ་ཡིག་ཁུག་ནང་འབྲི་བ།"
+
+msgid "Changes to folder will not be written."
+msgstr "བསྒྱུར་བཅོས་ཡིག་ཁུག་ནང་དུ་འབྲི་མི་སྲིད།"
+
+msgid "Char = %s, Octal = %o, Decimal = %d"
+msgstr "\"ཡིག་རྟགས = %s, བརྒྱད་གོང་འགྲིལ་ལུགས = %o, བཅུ་གོང་འགྲིལ་ལུགས = %d\""
+
+msgid "Character set changed to %s; %s."
+msgstr "ཡིག་རྟགས་ཚོགས་སྤྱི་%s ལ་བསྒྱུར་བ། %s"
+
+msgid "Chdir"
+msgstr "དཀར་ཆག་བསྒྱུར་བ།"
+
+msgid "Chdir to: "
+msgstr "དཀར་ཆག་སྒྱུར་ནས་།："
+
+msgid "Check key  "
+msgstr "ལྡེ་མིག་ལ་ཞིབ་བཤེར་བྱེད་པ།"
+
+msgid "Checking for new messages..."
+msgstr "སྦྲགས་ཡིག་གསར་བར་ཞིབ་བཤེར་བྱེད་བཞིན་ཡོད།"
+
+msgid "Choose algorithm family: 1: DES, 2: RC2, 3: AES, or (c)lear? "
+msgstr "\"རྩི་ཐབས་རིགས་གྲས་འདེམ་པ：1: DES, 2: RC2, 3: AES, ཡང་ན་(c)གཙང་སེལ་？ \""
+
+msgid "Clear flag"
+msgstr "གཙང་སེལ་མཚོན་རྟགས།"
+
+msgid "Closing connection to %s..."
+msgstr "%sཡི་སྦྲེལ་མཐུད་སྒོ་རྒྱག་བཞིན་ཡོད།"
+
+msgid "Closing connection to POP server..."
+msgstr "POPཞབས་ཞུའི་འཕྲུལ་ཆས་ཀྱི་འབྲེལ་མཐུད་སྒོ་རྒྱག་བཞིན་ཡོད།"
+
+msgid "Collecting data..."
+msgstr "གཞི་གྲངས་འཚོལ་སྡུད་བྱེད་བཞིན་ཡོད།"
+
+msgid "Command TOP is not supported by server."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱིསTOPབཀའ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Command UIDL is not supported by server."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱིས་UIDLབཀའ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Command USER is not supported by server."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱིས་USERབཀའ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Command: "
+msgstr "བཀའ་བརྡ།："
+
+msgid "Compiling search pattern..."
+msgstr "བཤེར་འཚོལ་རྣམ་པ་རྩོམ་སྒྱུར་བྱེད་བཞིན་པ།"
+
+msgid "Connecting to %s..."
+msgstr "%s ལ་འབྲེལ་བཞིན་པ།"
+
+msgid "Connecting with \"%s\"..."
+msgstr "\"\"%s\"སྦྲེལ་མཐུད་ཐོབ་བཞིན་པ་...\""
+
+msgid "Connection lost. Reconnect to POP server?"
+msgstr "འབྲེལ་མཐུད་བོར་བ། POPཞབས་ཞུའི་འཕྲུལ་ཆས་ལ་ཡང་བསྐྱར་སྦྲེལ་ལམ།"
+
+msgid "Connection to %s closed"
+msgstr "%sཡི་སྦྲེལ་མཐུད་སྒོ་བརྒྱབ་ཟིན་པ།"
+
+msgid "Content-Type changed to %s."
+msgstr "ནང་དོན་རིགས་གྲས（Content-Type）དེ་%s ལ་བསྒྱུར་བ།"
+
+msgid "Content-Type is of the form base/sub"
+msgstr "ནང་དོན་གྱི་རྣམ་པའི（Content-Type）ཡི་རྣམ་གཞག་ནི་base/subཡིན།"
+
+msgid "Continue?"
+msgstr "མུ་མཐུད་ཡིན་ནམ།"
+
+msgid "Convert to %s upon sending?"
+msgstr "གཏོང་སྐབས་%sལ་བསྒྱུར་བ།"
+
+msgid "Copy%s to mailbox"
+msgstr "%sཡིག་སྒམ་དུ་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "Copying %d messages to %s..."
+msgstr "འཕྲིན་ཡིག་%dདེ་ %sརུ་འདྲ་ཕབ་བྱེད་བཞིན་པ ..."
+
+msgid "Copying message %d to %s..."
+msgstr "འཕྲིན་ཡིག་%dདེ་ %sརུ་འདྲ་ཕབ་བྱེད་བཞིན་པ ..."
+
+msgid "Copying to %s..."
+msgstr "%sརུ་འདྲ་ཕབ་བྱེད་བཞིན་པ ..."
+
+msgid "Could not connect to %s (%s)."
+msgstr "%s ལ་སྦྲེལ་མཐུད་བྱེད་ཐབས་བྲལ།(%s)"
+
+msgid "Could not copy message"
+msgstr "འཕྲིན་ཡིག་འདྲ་ཕབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not create temporary file %s"
+msgstr "གནས་སྐབས་ཡིག་ཆ་%sགསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not create temporary file!"
+msgstr "གནས་སྐབས་ཀྱི་ཡིག་ཆ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not decrypt PGP message"
+msgstr "PGPཡི་འཕྲིན་ཡིག་གསང་འགྲོལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not find sorting function! [report this bug]"
+msgstr ""
+"རིམ་སྒྲིག་རྟེན་འབྱུང་གྲངས་འཚོལ་ཐབས་བྲལ། [གནད་དོན་འདི་སྙན་སེང་ཞུ་རོགས།]"
+
+msgid "Could not flush message to disk"
+msgstr "འཕྲིན་ཡིག་དེ་མཁྲེགས་སྡེར་ནང་དུ་འདྲེན་ཐབས་བྲལ།"
+
+msgid "Could not include all requested messages!"
+msgstr "རེ་ཞུའི་འཕྲིན་ཡིག་ཚང་མ་ཚུད་ཐབས་བྲལ།"
+
+msgid "Could not negotiate TLS connection"
+msgstr "TLSའབྲེལ་མཐུད་གྲོས་མོལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not open %s"
+msgstr "%s ཁ་ཕྱེ་ཐབས་མེད།"
+
+msgid "Could not reopen mailbox!"
+msgstr "ཡིག་སྒམ་བསྐྱར་དུ་སྒོ་འབྱེད་ཐབས་བྲལ།"
+
+msgid "Could not send the message."
+msgstr "འཕྲིན་ཡིག་འདི་སྐུར་ཐབས་བྲལ།"
+
+msgid "Could not synchronize mailbox %s!"
+msgstr "%s ཡིག་སྒམ་དང་གོམ་མཉམ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Couldn't lock %s\n"
+msgstr "%sདམིགས་འཛིན་བྱ་ཐབས་བྲལ། \n"
+
+msgid "Create %s?"
+msgstr "%sགསར་འཛུགས་བྱེད་དམ།"
+
+msgid "Create is only supported for IMAP mailboxes"
+msgstr "IAPཡིག་སྒམ་ཁོ་ནས་ད་གཟོད་གསར་གཏོད་ལ་རྒྱབ་སྐྱོར་བྱེད་ཐུབ།"
+
+msgid "Create mailbox: "
+msgstr "ཡིག་སྒམ་གསར་འཛུགས་བྱེད་པ།："
+
+msgid "DEBUG was not defined during compilation.  Ignored.\n"
+msgstr "སྒྲིག་སྒྱུར་སྐབས་DEBUGལ་མཚན་ཉིད་བཞག་མེད། སྣང་མེད། \n"
+
+msgid "Debugging at level %d.\n"
+msgstr "རིམ་པ་%d བཀོལ་ནས་ཚོད་སྒྲིག་བྱེད་བཞིན་ཡོད། \n"
+
+msgid "Decode-copy%s to mailbox"
+msgstr "%sཡིག་སྒམ་དུ་གསང་འགྲོལ་འདྲ་བཤུས་བྱེད་པ།"
+
+msgid "Decode-save%s to mailbox"
+msgstr "%sཡིག་སྒམ་དུ་གསང་འགྲོལ་གསོག་ཉར་བྱེད་པ།"
+
+msgid "Decrypt-copy%s to mailbox"
+msgstr "%sཡིག་སྒམ་དུ་གསང་འགྲོལ་འདྲ་བཤུས་བྱེད་པ།"
+
+msgid "Decrypt-save%s to mailbox"
+msgstr "%sཡིག་སྒམ་དུ་གསང་འགྲོལ་གསོག་ཉར་བྱེད་པ།"
+
+msgid "Decrypting message..."
+msgstr "འཕྲིན་ཡིག་གསང་འགྲོལ་བྱེད་བཞིན་པ།"
+
+msgid "Decryption failed"
+msgstr "གསང་འགྲོལ་ཕམ་པ།"
+
+msgid "Decryption failed."
+msgstr "གསང་འགྲོལ་ཕམ་པ།"
+
+msgid "Del"
+msgstr "བསུབ་པ།"
+
+msgid "Delete"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
+
+msgid "Delete a remailer from the chain"
+msgstr "བརྒྱུད་སྐུར་མཁན་སྦྲེལ་ལམ་བསུབ་པ།"
+
+msgid "Delete is only supported for IMAP mailboxes"
+msgstr "IMAP ཡིག་སྒམ་ཁོ་ནས་མ་གཏོགས་བསུབ་རྒྱུར་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་མེད།"
+
+msgid "Delete messages from server?"
+msgstr "ཞབས་ཞུ་ཆས་སྟེང་གི་འཕྲིན་ཡིག་བསུབ་བམ།"
+
+msgid "Delete messages matching: "
+msgstr "རྣམ་པ་འདི་དང་མཐུན་པའི་འཕྲིན་ཡིག་སུབས།："
+
+msgid "Deletion of attachments from encrypted messages is unsupported."
+msgstr "གསང་སྡོམ་འཕྲིན་ཡིག་ནང་གི་ཟུར་བཀོད་ཡིག་ཆ་བསུབ་པར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Descrip"
+msgstr " ཞིབ་བརྗོད།"
+
+msgid "Directory [%s], File mask: %s"
+msgstr "དཀར་ཆག[%s] ཡིག་ཆའི་གབ་ཨང་།: %s"
+
+msgid "ERROR: please report this bug"
+msgstr "ནོར་འཁྲུལ།གནད་དོན་འདི་ཡར་ཞུ་བྱེད་རོགས།"
+
+msgid "Edit forwarded message?"
+msgstr "བརྒྱུད་སྐུར་བྱས་པའི་འཕྲིན་ཡིག་རྩོམ་སྒྲིག་བྱེད་དམ།"
+
+msgid "Empty expression"
+msgstr "སྟོང་པའི་མཚོན་ཚུལ།"
+
+msgid "Encrypt"
+msgstr "གསང་སྡོམ།"
+
+msgid "Encrypt with: "
+msgstr "གསང་སྡོམ་ལ་སྤྱོད་བྱ།："
+
+msgid "Encrypted connection unavailable"
+msgstr "གསང་སྡོམ་འབྲེལ་མཐུད་བེད་སྤྱོད་མེད་པ།"
+
+msgid "Enter PGP passphrase:"
+msgstr "PGPཤར་བགྲོད་གསང་ཨང་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Enter S/MIME passphrase:"
+msgstr "S/MIEསྤྱོད་ཆོག་པའི་གསང་ཨང་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Enter keyID for %s: "
+msgstr "ཁྱེད་རང་གིས་ %s ཡི་keyIDནང་འཇུག་བྱེད་རོགས།："
+
+msgid "Enter keyID: "
+msgstr "གསང་ལྡེ་IDནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Enter keys (^G to abort): "
+msgstr "མཐེབ་གནོན་ནོན།（Gམནན་ན་མཚམས་འཇོག）"
+
+msgid "Error allocating SASL connection"
+msgstr "SASLའབྲེལ་མཐུད་བཁོ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error bouncing message!"
+msgstr "འཕྲིན་ཡིག་ཕྱིར་སློག་ནོར་འཁྲུལ།"
+
+msgid "Error bouncing messages!"
+msgstr "འཕྲིན་ཡིག་ཕྱིར་སློག་ནོར་འཁྲུལ།"
+
+msgid "Error connecting to server: %s"
+msgstr "ཞབས་ཞུ་ཆས་དང་སྦྲེལ་དུས་ནོར་འཁྲུལ་བྱུང་བ།：%s"
+
+msgid "Error extracting key data!\n"
+msgstr "གསང་ལྡེ་གི་གྲངས་ཀ་ནོར་འདུག \n"
+
+msgid "Error finding issuer key: %s\n"
+msgstr "བརྒྱུད་སྤྲོད་མཁན་གྱི་གསང་ལྡེ་འཚོལ་བའི་ནོར་འཁྲུལ།：%s\n"
+
+msgid "Error in %s, line %d: %s"
+msgstr "%sནོར་འཁྲུལ་བྱུང་བ།ཕྲེང་ཨང་ %d།：%s"
+
+msgid "Error in command line: %s\n"
+msgstr "བཀའ་བརྡའི་ཕྲེང་ལ་ནོར་འཁྲུལ་ཡོད་པ།：%s\n"
+
+msgid "Error in expression: %s"
+msgstr "མཚོན་ཚུལ་ལ་ནོར་འཁྲུལ་ཡོད་པ།：%s"
+
+msgid "Error initialising gnutls certificate data"
+msgstr "gnutlsདཔང་ཡིག་གྱི་གཞི་གྲངས་འགོ་སྒྲིག་བྱེད་ཐབས་བྲལ།"
+
+msgid "Error initializing terminal."
+msgstr "མཐའ་སྣེ་འགོ་སྒྲིག་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error opening mailbox"
+msgstr "ཡིག་སྒམ་ཁ་ཕྱེས་དུས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error parsing address!"
+msgstr "ཤག་གནས་དབྱེ་ཞིབ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error processing certificate data"
+msgstr "དཔང་ཡིག་གྱི་གཞི་གྲངས་སྒྲིག་གཅོད་ལ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error reading alias file"
+msgstr "མིང་གཞན་ཅན་གྱི་ཡིག་ཆ་ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error running \"%s\"!"
+msgstr "\" \"%s\" ལག་བསྟར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error saving flags"
+msgstr "མཚོན་རྟགས་ཉར་ཚགས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error saving flags. Close anyway?"
+msgstr "མཚོན་རྟགས་ཉར་ཚགས་ལ་ནོར་འཁྲུལ་བྱུང་བ། མུ་མཐུད་སྒོ་རྒྱག་གམ།"
+
+msgid "Error scanning directory."
+msgstr "དཀར་ཆག་བཤར་འབེབས་ལ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error seeking in alias file"
+msgstr "མིང་གཞན་གྱི་ཡིག་ཆའི་ནང་ནས་འཚོལ་ཐབས་བྲལ།"
+
+msgid "Error sending message, child exited %d.\n"
+msgstr "འཕྲིན་ཡིག་སྐུར་བར་ནོར་འཁྲུལ་བྱུང་བ།བུ་འཕེལ་རིམ་%dལས་ཕྱིར་བུད་ཚར། \n"
+
+msgid "Error sending message."
+msgstr "འཕྲིན་ཡིག་བསྐུར་བར་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error setting SASL external security strength"
+msgstr "SASLཕྱིའི་བདེ་འཇགས་དྲག་ཚད་སྒྲིག་འགོད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error setting SASL external user name"
+msgstr "SASLཕྱིའི་བཀོལ་མཁན་གྱི་མིང་སྒྲིག་འགོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error setting SASL security properties"
+msgstr "SASLབདེ་འཇགས་གཏོགས་གཤིས་སྒྲིག་འགོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error talking to %s (%s)"
+msgstr "%sདང་ཁ་པར་གཏོང་བའི་ནོར་འཁྲུལ།(%s)"
+
+msgid "Error trying to view file"
+msgstr "ཡིག་ཆ་འཆར་བར་ཚོད་ལྟ་ལ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error while writing mailbox!"
+msgstr "ཡིག་སྒམ་ནང་དུ་འབྲི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error. Preserving temporary file: %s"
+msgstr "ནོར་འཁྲུལ། གནས་སྐབས་ཀྱི་ཡིག་ཆ་སོར་ཉར།：%s"
+
+msgid "Error: %s can't be used as the final remailer of a chain."
+msgstr "ནོར་འཁྲུལ།:%s ཕྲེང་བྱས་མི་ཆོག་པའི་མཇུག་མཐའི་བརྒྱུད་སྐུར་མཁན།"
+
+msgid "Error: '%s' is a bad IDN."
+msgstr "ནོར་འཁྲུལ།:%s ནི་ནོར་འཁྲུལ་གྱི་IDNཡིན།"
+
+msgid "Error: certification chain to long - stopping here\n"
+msgstr "ནོར་འཁྲུལ།:དཔང་ཡིག་ཕྲེང་རིང་དྲགས།འདི་ནས་མཚམས་ཞོག\n"
+
+msgid "Error: copy data failed\n"
+msgstr "ནོར་འཁྲུལ།:གཞི་གྲངས་འདྲ་ཕབ་ཕམ་པ།\n"
+
+msgid "Error: decryption/verification failed: %s\n"
+msgstr "ནོར་འཁྲུལ།:གསང་འགྲོལ་དང་ར་སྤྲོད་ཕམ་པ།：%s\n"
+
+msgid "Error: multipart/signed has no protocol."
+msgstr "ནོར་འཁྲུལ།:multpart/signedལ་གྲོས་མཐུན་མེད་པ།"
+
+msgid "Error: no TLS socket open"
+msgstr "ནོར་འཁྲུལ།:TLSའབྲེལ་འཛུགས་ཡི་གེ་ཡི་ཁ་ཕྱེ་མེད་པ།"
+
+msgid "Error: score: invalid number"
+msgstr "ནོར་འཁྲུལ།:སྐར་གྲངས།：ནུས་མེད་ཀྱི་ཨང་ཀི།"
+
+msgid "Error: unable to create OpenSSL subprocess!"
+msgstr "ནོར་འཁྲུལ།:OpenSLཡི་བུའི་འཕེལ་རིམ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Error: value '%s' is invalid for -d.\n"
+msgstr "ནོར་འཁྲུལ།:འགྱུར་ཚད་%s’ནི་-dལ་མཚོན་ན་ནུས་པ་མེད། \n"
+
+msgid "Error: verification failed: %s\n"
+msgstr "ནོར་འཁྲུལ།:ར་སྤྲོད་ཕམ་པ།：%s\n"
+
+msgid "Evaluating cache..."
+msgstr "ལྷོད་གསོག་ལ་དཔྱད་དཔོག་བྱེད་བཞིན་ཡོད།"
+
+msgid "Executing command on matching messages..."
+msgstr "དེ་དང་མཐུན་པའི་འཕྲིན་ཡིག་ལ་བཀའ་ལག་བསྟར་བྱེད་བཞིན་ཡོད།"
+
+msgid "Exit"
+msgstr " ཕྱིར་འབུད།"
+
+msgid "Exit  "
+msgstr "ཕྱིར་འཐེན།"
+
+msgid "Exit Mutt without saving?"
+msgstr "ཉར་ཚགས་མ་བྱས་ནས་Muttནས་ཕྱིར་འཐེན་གྱི་ཡིན་ནམ།"
+
+msgid "Exit Mutt?"
+msgstr "Muttནས་ཕྱིར་འཐེན་ནམ།"
+
+msgid "Expired   "
+msgstr "དུས་ལས་ཡོལ་བ།"
+
+msgid "Expunge failed"
+msgstr "བསུབ་པ་ལག་བསྟར་བྱས་ནས་ཕམ་པ།"
+
+msgid "Expunging messages from server..."
+msgstr "ཞབས་ཞུ་ཆས་སྟེང་དུ་འཕྲིན་ཡིག་བསུབ་པ་ལག་བསྟར་བྱེད་བཞིན་ཡོད།"
+
+msgid "Failed to figure out sender"
+msgstr "སྐུར་མཁན་གྱི་ཕམ་ཁ་ཚོལ།"
+
+msgid "Failed to find enough entropy on your system"
+msgstr "ཁྱེད་རང་གི་རྒྱུད་ཁོངས་ཐོག་ཁྲོབ་འདང་ངེས་ཤིག་འཚོལ་ཞིབ་བྱེད་སྐབས་ཕམ་པ།"
+
+msgid "Failed to parse mailto: link\n"
+msgstr "miltoསྦྲེལ་མཐུད་ཞིབ་འགྲེལ་ཕམ་པ།"
+
+msgid "Failed to verify sender"
+msgstr "བརྒྱུད་སྤྲོད་བྱེད་མཁན་ར་སྤྲོད་ཕམ་པ།"
+
+msgid "Failure to open file to parse headers."
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ་ནས་རྟགས་མགོ་ལ་དབྱེ་ཞིབ་བྱེད་པ་ཕམ་པ།"
+
+msgid "Failure to open file to strip headers."
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ་སྐབས་དམིགས་བྱའི་རྟགས་མགོ་མེད་པར་བཟོས་བཟོ་བ་ཕམ་པ།"
+
+msgid "Failure to rename file."
+msgstr "ཡིག་ཆའི་མིང་བསྒྱུར་ཕམ་པ།"
+
+msgid "Fatal error!  Could not reopen mailbox!"
+msgstr "ནོར་འཁྲུལ་ཚབས་ཆེན། ཡིག་སྒམ་ཡང་བསྐྱར་ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Fetching PGP key..."
+msgstr "PGPགསང་ལྡེ་ལེན་བཞིན་ཡོད།"
+
+msgid "Fetching list of messages..."
+msgstr "འཕྲིན་ཡིག་གི་རེའུ་མིག་ལེན་བཞིན་ཡོད།"
+
+msgid "Fetching message headers..."
+msgstr "འཕྲིན་ཡིག་གི་རྟགས་མགོ་ལེན་བཞིན་ཡོད།"
+
+msgid "File Mask: "
+msgstr "ཡིག་ཆའི་གབ་ཨང་།："
+
+msgid "File exists, (o)verwrite, (a)ppend, or (c)ancel?"
+msgstr "ཡིག་ཆ་ཡོད་པ་དང་།འགེབ་པ།(o) ཟུར་སྣོན་(a)།ཡང་ན་འདོར་བ།（c) ？"
+
+msgid "File is a directory, save under it?"
+msgstr "ཡིག་ཆ་ནི་དཀར་ཆག་ཅིག་རེད།དེའི་འོག་ལ་ཉར་ཚགས་བྱེད་ཀྱི་ཡིན་ནམ།"
+
+msgid "File is a directory, save under it? [(y)es, (n)o, (a)ll]"
+msgstr ""
+"ཡིག་ཆ་ནི་དཀར་ཆག་ཅིག་རེད།དེའི་འོག་ལ་ཉར་ཚགས་བྱེད་ཀྱི་ཡིན་ནམ།[ཡིན།(y), མིན།(n),"
+" ཡོངས་རྫོགས།(a)]\""
+
+msgid "File under directory: "
+msgstr "དཀར་ཆག་འོག་གི་ཡིག་ཆ།："
+
+msgid "Filling entropy pool: %s...\n"
+msgstr "ཁྲོབ་རྫིང་ཁ་སྐོང་བཞིན་ཡོད་པ།：%s...\n"
+
+msgid "Filter through: "
+msgstr "འཚག་བྱས་པ་བརྒྱུད།："
+
+msgid "Fingerprint: "
+msgstr "མཛུབ་རིས།："
+
+msgid "Fingerprint: %s"
+msgstr "མཛུབ་རིས།: %s"
+
+msgid "First, please tag a message to be linked here"
+msgstr "ཐོག་མར།འཕྲིན་ཡིག་ཅིག་ལ་རྟགས་བཀོད་ནས་འདིར་སྦྲེལ།"
+
+msgid "Follow-up to %s%s?"
+msgstr "རྗེས་མཐུད་འཕྲིན་ཡིག་%s%sལ་སྐུར་རམ།"
+
+msgid "Forward MIME encapsulated?"
+msgstr "MREཡིས་བཏུམ་ནས་བརྒྱུད་སྐུར་བྱེད་དམ།"
+
+msgid "Forward as attachment?"
+msgstr "ཟུར་བཀོད་ཡིག་ཆ་བྱས་ནས་བརྒྱུད་སྐུར་བྱེད་དམ།"
+
+msgid "Forward as attachments?"
+msgstr "ཟུར་བཀོད་ཡིག་ཆ་བྱས་ནས་བརྒྱུད་སྐུར་བྱེད་དམ།"
+
+msgid "Function not permitted in attach-message mode."
+msgstr ""
+"བྱེད་ནུས་ནི་ཟུར་འགེལ་འཕྲིན་ཡིག་（attach-"
+"message）རྣམ་པའི་འོག་ཏུ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "GSSAPI authentication failed."
+msgstr "GSSSDIར་སྤྲོད་ཕམ་པ།"
+
+msgid "Getting folder list..."
+msgstr "ཡིག་ཁུག་གི་གསལ་ཐོ་ལེན་བཞིན་ཡོད།"
+
+msgid "Good signature from:"
+msgstr "མིང་རྟགས་ཡང་དག་གི་འབྱུང་ཁུངས།："
+
+msgid "Group"
+msgstr "ཁྱུ་ཚོ།"
+
+msgid "Header search without header name: %s"
+msgstr "དམིགས་བྱའི་རྟགས་མགོ་མེད་པའི་མིང་གི་དམིགས་བྱའི་རྟགས་མགོ་འཚོལ་བ།：%s"
+
+msgid "Help"
+msgstr " རོགས་རམ།"
+
+msgid "Help for %s"
+msgstr "%s ཡི་རོགས་རམ།"
+
+msgid "Help is currently being shown."
+msgstr "ད་ལྟ་རོགས་རམ་མངོན་བཞིན་ཡོད།"
+
+msgid "I don't know how to print that!"
+msgstr "ངས་དེ་ཅི་ལྟར་དཔར་དགོས་པ་མི་ཤེས།"
+
+msgid "I dont know how to print %s attachments!"
+msgstr "ངས་གང་འདྲ་བྱས་ནས་ཟུར་བཀོད་ཡིག་ཆ་%sདཔར་དགོས་མིན་ཤེས་མ་སོང་།"
+
+msgid "I/O error"
+msgstr "I/O ནོར་འཁྲུལ།"
+
+msgid "ID has undefined validity."
+msgstr "Idཡི་ཡང་དག་རང་བཞིན་ལ་མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "ID is expired/disabled/revoked."
+msgstr "IDདུས་ལས་ཡོལ་འདུག/ནུས་མེད་/ དོར་ཟིན་པ།"
+
+msgid "ID is not valid."
+msgstr "IDནུས་མེད།"
+
+msgid "ID is only marginally valid."
+msgstr "IDཨུ་ཚུགས་ཀྱིས་ནུས་ལྡན་ཙམ།"
+
+msgid "Illegal S/MIME header"
+msgstr "ཁྲིམས་འགལ་གྱི་S/MIME རྟགས་མགོ།"
+
+msgid "Illegal crypto header"
+msgstr "ཁྲིམས་འགལ་གྱི་གསང་སྡོམ་(crypto)རྟགས་མགོ།"
+
+msgid "Improperly formatted entry for type %s in \"%s\" line %d"
+msgstr ""
+"\" \"%2$s\" ཡི་ཕྲེང་ཨང་%3$d རུ་རིགས་གྲས་ %1$s "
+"ཡིས་ནོར་འཁྲུལ་གྱི་རྣམ་གཞག་ལ་ཟིན་བཀོད་ཡོད་པ་རྟོགས།\""
+
+msgid "Include message in reply?"
+msgstr "ཡིག་ལན་ནང་དུ་འཕྲིན་ཡིག་ངོ་མ་འདུས་བར་བྱེད་དམ།"
+
+msgid "Including quoted message..."
+msgstr "འདུས་པའི་འཕྲིན་ཡིག་འདྲེན་སྤྱོད་བྱེད་བཞིན་ཡོད།"
+
+msgid "Insert"
+msgstr "བར་འཇུག"
+
+msgid "Insert a remailer into the chain"
+msgstr "བརྒྱུད་སྐུར་མཁན་ཕྲེང་ལ་ནང་འཛུད་བྱེད་པ།"
+
+msgid "Integer overflow -- can't allocate memory!"
+msgstr "ཧྲིལ་གྲངས་ཕྱིར་ལུད་པ། ནང་གསོག་ཏུ་བགོ་ཐབས་བྲལ།"
+
+msgid "Integer overflow -- can't allocate memory."
+msgstr "ཧྲིལ་གྲངས་ཕྱིར་ལུད་པ། ནང་གསོག་ཏུ་བགོ་ཐབས་བྲལ།"
+
+msgid "Internal error. Inform <roessler@does-not-exist.org>."
+msgstr "ནང་ཁུལ་གྱི་ནོར་འཁྲུལ། 〈rsesslerindes-not-exist.org〉ལ་བརྡ་ཐོ་ཐོངས།"
+
+msgid "Invalid   "
+msgstr "ནུས་མེད།"
+
+msgid "Invalid POP URL: %s\n"
+msgstr "ནུས་མེད་ཀྱི་POPཤག་གནས།（URL）：%s\n"
+
+msgid "Invalid SMTP URL: %s"
+msgstr "ནུས་མེད་ཀྱི་POPསྦྲེལ་མཐུད།（URL）：%s\n"
+
+msgid "Invalid day of month: %s"
+msgstr "ནུས་མེད་ཉིན་མོ།：%s"
+
+msgid "Invalid encoding."
+msgstr "ནུས་མེད་ཀྱི་ཨང་གྲངས།"
+
+msgid "Invalid index number."
+msgstr "ནུས་མེད་ཀྱི་དཀར་ཆག་ཨང་གྲངས།"
+
+msgid "Invalid message number."
+msgstr "ནུས་མེད་ཀྱི་འཕྲིན་ཡིག་གི་ཨང་རྟགས།"
+
+msgid "Invalid month: %s"
+msgstr "ནུས་མེད་ཀྱི་ཟླ་བ།：%s"
+
+msgid "Invalid relative date: %s"
+msgstr "ནུས་མེད་ཀྱི་བལྟོས་བཅས་ཚེས་གྲངས།：%s"
+
+msgid "Invalid server response"
+msgstr "ནུས་མེད་ཀྱི་ཞབས་ཞུ་ཆས་ཀྱི་ཨ་ལན།"
+
+msgid "Invoking PGP..."
+msgstr "PGPའདོན་སྤྱོད་བྱེད་བཞིན་ཡོད།"
+
+msgid "Invoking S/MIME..."
+msgstr "S/MIMEའདོན་སྤྱོད་བྱེད་བཞིན་ཡོད།"
+
+msgid "Invoking autoview command: %s"
+msgstr "རང་འགུལ་མངོན་སྟོན་བཀའ་བརྡ་ལག་བསྟར།"
+
+msgid "Issued By .: "
+msgstr "བརྒྱུད་སྤྲོད་མཁན།"
+
+msgid "Jump to message: "
+msgstr "འཕྲིན་ཡིག་ཏུ་མཆོངས་པ།"
+
+msgid "Jump to: "
+msgstr "ལ་མཆོངས་པ།："
+
+msgid "Jumping is not implemented for dialogs."
+msgstr "གླེང་མོལ་གྱི་རྣམ་པའི་ཁྲོད་དུ་འཕུར་མཆོང་མངོན་འགྱུར་ཐུབ་མེད།"
+
+msgid "Key ID: 0x%s"
+msgstr "ལྡེ་མིག་ID：0x%s\""
+
+msgid "Key Type ..: %s, %lu bit %s\n"
+msgstr "གསང་ལྡེའི་རིགས་གྲས།: %s, %lu གནས་ %s\n"
+
+msgid "Key Usage .: "
+msgstr "གསང་ལྡེ་སྤྱོད་སྟངས།"
+
+msgid "Key is not bound."
+msgstr "མཐེབ་དེ་ལ་ད་དུང་བཀྱིག་སྦྲེལ་ནུས་པ་མེད།"
+
+msgid "Key is not bound.  Press '%s' for help."
+msgstr ""
+"མཐེབ་དེ་ལ་ད་དུང་བཀྱིག་སྦྲེལ་ནུས་པ་མེད། %s’མནན་ན་རོགས་རམ་གྱི་ཆ་འཕྲིན་ཐོབ།"
+
+msgid "LOGIN disabled on this server."
+msgstr "LOGINཞབས་ཞུ་ཆས་འདི་རུ་སྤྱོད་མི་ཆོག"
+
+msgid "Limit to messages matching: "
+msgstr "རྣམ་པ་དེ་དང་མཐུན་པའི་འཕྲིན་ཡིག་ལ་ཚོད་འཛིན།"
+
+msgid "Limit: %s"
+msgstr "ཚད་འཛིན།: %s"
+
+msgid "Lock count exceeded, remove lock for %s?"
+msgstr "གྲངས་བགྲང་གི་ཚད་བཀག་ལས་བརྒལ་བས།%s ཡི་ཟྭ་དེ་མེད་པར་བཟོ་འམ།"
+
+msgid "Login failed."
+msgstr "ཐོ་འཇུག་ཕམ་པ།"
+
+msgid "Looking for keys matching \"%s\"..."
+msgstr "\"%s\" ལ་ཟླ་འགྲིག་པའི་གསང་ལྡེ་འཚོལ་བཞིན་པ།"
+
+msgid "Looking up %s..."
+msgstr "%sའཚོལ་བཞིན་པ།"
+
+msgid "MD5 Fingerprint: %s"
+msgstr "MD5མཛུབ་རིས།：%s"
+
+msgid "MIME type not defined.  Cannot view attachment."
+msgstr "ME Eརིགས་གྲས་ལ་མཚན་ཉིད་མ་བཞག ཟུར་བཀོད་ཡིག་ཆ་ཤར་ཐབས་བྲལ།"
+
+msgid "Macro loop detected."
+msgstr "རགས་པའི་ཁྲོད་དུ་འཁོར་འཁྱིལ་ཡོད་་པ་བཤེར་འཇལ་ཤེས་རྟོགས་བྱུང་།"
+
+msgid "Mail"
+msgstr "གློག་ཡིག"
+
+msgid "Mail not sent."
+msgstr "འཕྲིན་ཡིག་སྐུར་མེད།"
+
+msgid "Mail sent."
+msgstr "འཕྲིན་ཡིག་བསྐུར་ཚར།"
+
+msgid "Mailbox checkpointed."
+msgstr "ཡིག་སྒམ་ཞིབ་བཤེར་བྱས་ཟིན།"
+
+msgid "Mailbox closed"
+msgstr "ཡིག་སྒམ་སྒོ་བརྒྱབ་ཟིན།"
+
+msgid "Mailbox created."
+msgstr "ཡིག་སྒམ་གསར་དུ་བཙུགས་ཟིན།"
+
+msgid "Mailbox deleted."
+msgstr "ཡིག་སྒམ་བསུབ་ཟིན།"
+
+msgid "Mailbox is corrupt!"
+msgstr "ཡིག་སྒམ་ལ་སྐྱོན་ཤོར་བ།"
+
+msgid "Mailbox is empty."
+msgstr "ཡིག་སྒམ་ནི་སྟོང་བ་རེད།"
+
+msgid "Mailbox is marked unwritable. %s"
+msgstr "ཡིག་སྒམ་ལ་འབྲི་མི་རུང་བའི་རྟགས་བཀོད་ཡོད། %s"
+
+msgid "Mailbox is read-only."
+msgstr "ཡིག་སྒམ་ནི་ཀློག་ཙམ་རེད།"
+
+msgid "Mailbox is unchanged."
+msgstr "ཡིག་སྒམ་ལ་འགྱུར་བ་མེད།"
+
+msgid "Mailbox must have a name."
+msgstr "ཡིག་སྒམ་ལ་ངེས་པར་དུ་མིང་ཡོད་དགོས།"
+
+msgid "Mailbox not deleted."
+msgstr "ཡིག་སྒམ་ད་དུང་བསུབ་མེད།"
+
+msgid "Mailbox renamed."
+msgstr "ཡིག་སྒམ་གྱི་མིང་བསྒྱུར་ཟིན།"
+
+msgid "Mailbox was corrupted!"
+msgstr "ཡིག་སྒམ་ལ་སྐྱོན་ཤོར་ཟིན།"
+
+msgid "Mailbox was externally modified."
+msgstr "ཡིག་སྒམ་ལ་ཕྱི་ཕྱོགས་ཀྱི་བཟོ་བཅོས་བརྒྱབ་ཟིན་པ།"
+
+msgid "Mailbox was externally modified.  Flags may be wrong."
+msgstr ""
+"ཡིག་སྒམ་ལ་ཕྱི་ཕྱོགས་ཀྱི་བཟོ་བཅོས་བརྒྱབ་ཟིན་པ། "
+"རྟགས་བཀོད་པར་ནོར་འཁྲུལ་ཡོད་སྲིད།"
+
+msgid "Mailboxes [%d]"
+msgstr "ཡིག་སྒམ།[%d]"
+
+msgid "Mailcap Edit entry requires %%s"
+msgstr "Mailcapརྩོམ་སྒྲིག་བྱ་རར་ %%sདགོས།"
+
+msgid "Mailcap compose entry requires %%s"
+msgstr "Mailcapརྩོམ་སྒྲིག་ལས་གཞིར%%sདགོས།"
+
+msgid "Make Alias"
+msgstr "མིང་གཞན་བཟོ་བ།"
+
+msgid "Marking %d messages deleted..."
+msgstr "རྟགས་བརྒྱབ་ཟིན་པའི་འཕྲིན་ཡིག་ %d བསུབ་ཟིན།"
+
+msgid "Marking messages deleted..."
+msgstr "བསུབ་པའི་སྦྲག་རྫས་ལ་རྟགས་རྒྱག་བཞིན་པ།"
+
+msgid "Message bounced."
+msgstr "འཕྲིན་ཡིག་ཕྱིར་སློག་ཟིན།"
+
+msgid "Message can't be sent inline.  Revert to using PGP/MIME?"
+msgstr "འཕྲིན་ཡིག་ནང་འཛུད་བྱས་ནས་བསྐུར་ཐབས་བྲལ། ཕྱིར་ལོག་ནས་PGP/MIEསྤྱོད་དམ།"
+
+msgid "Message contains:\n"
+msgstr "འཕྲིན་ཡིག་གི་ནང་དུ་འདུས།：\n"
+
+msgid "Message could not be printed"
+msgstr "འཕྲིན་ཡིག་གཏག་པར་བྱེད་ཐབས་བྲལ་པ།"
+
+msgid "Message file is empty!"
+msgstr "འཕྲིན་ཡིག་གི་ཡིག་ཆ་སྟོང་པ་རེད།"
+
+msgid "Message not bounced."
+msgstr "འཕྲིན་ཡིག་ཕྱིར་མ་སློག"
+
+msgid "Message not modified!"
+msgstr "འཕྲིན་ཡིག་ལ་བཟོ་བཅོས་མ་བརྒྱབ་པ།"
+
+msgid "Message postponed."
+msgstr "འཕྲིན་ཡིག་སྐུར་རྒྱུ་ནར་འགྱངས་བྱས།"
+
+msgid "Message printed"
+msgstr "འཕྲིན་ཡིག་དཔར་ཟིན་པ།"
+
+msgid "Message written."
+msgstr "འཕྲིན་ཡིག་བྲིས་ཚར།"
+
+msgid "Messages bounced."
+msgstr "འཕྲིན་ཡིག་ཕྱིར་སློག་ཟིན།"
+
+msgid "Messages could not be printed"
+msgstr "འཕྲིན་ཡིག་གཏག་པར་བྱེད་ཐབས་བྲལ་པ།"
+
+msgid "Messages not bounced."
+msgstr "འཕྲིན་ཡིག་ཕྱིར་མ་སློག"
+
+msgid "Messages printed"
+msgstr "འཕྲིན་ཡིག་དཔར་ཟིན་པ།"
+
+msgid "Missing arguments."
+msgstr "ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Mixmaster chains are limited to %d elements."
+msgstr "Mixmasterཕྲེང་ལ་གཞི་རྒྱུ་%d ཡིས་ཚད་བཀག་ཡོད།"
+
+msgid "Mixmaster doesn't accept Cc or Bcc headers."
+msgstr ""
+"Mixmasterབརྒྱུད་སྐུར་བྱེད་པ་དང་ལེན་མི་བྱེད།（Cc）ཡང་ན་གསང་བའི་ཡིག་ཆ་བརྒྱུད་སྤྲོད(Bcc）རྟགས་མགོ"
+
+msgid "Move read messages to %s?"
+msgstr "ཀློག་ཟིན་པའི་འཕྲིན་ཡིག་%sརུ་སྤོ་སྒུལ་བྱེད་དམ།"
+
+msgid "Moving read messages to %s..."
+msgstr "ཀློག་ཟིན་པའི་འཕྲིན་ཡིག་%s ལ་སྤོར་བཞིན་ཡོད།"
+
+msgid "Name ......: "
+msgstr "མིང་།"
+
+msgid "New Query"
+msgstr "འདྲི་རྩད་གསར་པ།"
+
+msgid "New file name: "
+msgstr "ཡིག་ཆའི་མིང་གསར་པ།"
+
+msgid "New file: "
+msgstr "ཡིག་ཆ་གསར་པ།"
+
+msgid "New mail in "
+msgstr "འཕྲིན་ཡིག་གསར་བ་ཡོད།"
+
+msgid "New mail in this mailbox."
+msgstr "ཡིག་སྒམ་འདིའི་ནང་དུ་སྦྲགས་རྫས་གསར་བ་ཡོད།"
+
+msgid "Next"
+msgstr "གཞས་ཕྱི་མ།"
+
+msgid "NextPg"
+msgstr " ཤོག་ངོས་རྗེས་མ།"
+
+msgid "No (valid) certificate found for %s."
+msgstr "སྤྱོད་རུང་གི་%s（ནུས་ལྡན་）ཡི་དཔང་ཡིག་མ་རྙེད།"
+
+msgid "No Message-ID: header available to link thread"
+msgstr "Message-Idམེད། རྟགས་མགོ་སྦྲེལ་མཐུད་ཁུངས་སྣེ་ལ་སྤྱོད་ཆོག"
+
+msgid "No authenticators available"
+msgstr "ནུས་ལྡན་གྱི་ར་སྤྲོད་མེད་པ།"
+
+msgid "No boundary parameter found! [report this error]"
+msgstr "དབྱེ་མཚམས་ཀྱི་འགྱུར་ཚད་རྙེད་མ་བྱུང་། [ནོར་འཁྲུལ་འདི་སྙན་སེང་ཞུ་རོགས།]"
+
+msgid "No entries."
+msgstr "བྱ་ར་མེད།"
+
+msgid "No files match the file mask"
+msgstr "ཡིག་ཆའི་བཀབ་ཨང་དང་འཚམ་པའི་ཡིག་ཆ་མེད་པ།"
+
+msgid "No from address given"
+msgstr "ཡིག་སྐུར་ཤག་གནས་མ་བྱིན།"
+
+msgid "No incoming mailboxes defined."
+msgstr "འཕྲིན་བསྡུའི་ཡིག་སྒམ་མཚན་ཉིད་མ་བཞག་པ།"
+
+msgid "No limit pattern is in effect."
+msgstr "མིག་སྔར་ཚོད་འཛིན་རྣམ་པའི་ནུས་པ་ཐོན་མེད།"
+
+msgid "No lines in message.\n"
+msgstr "འཕྲིན་ཡིག་ཁྲོད་དུ་ཐིག་ཕྲེང་གཅིག་ཀྱང་མི་འདུག \n"
+
+msgid "No mailbox is open."
+msgstr "ཁ་ཕྱེ་ཟིན་པའི་ཡིག་སྒམ་མེད་པ།"
+
+msgid "No mailbox with new mail."
+msgstr "ཡིག་སྒམ་ནང་དུ་འཕྲིན་ཡིག་གསར་པ་མི་འདུག"
+
+msgid "No mailbox.\n"
+msgstr "ཡིག་སྒམ་མེད། \n"
+
+msgid "No mailboxes have new mail"
+msgstr "འཕྲིན་ཡིག་གསར་པ་ཡོད་པའི་ཡིག་སྒམ་མེད་པ།"
+
+msgid "No mailcap compose entry for %s, creating empty file."
+msgstr "%sཡི་Milcapའབྲི་བྱའི་བྱ་ར་མེད་པས་ཡིག་ཆ་སྟོང་བ་བཟོ་བཞིན་ཡོད།"
+
+msgid "No mailcap edit entry for %s"
+msgstr "%sཡི་milcapརྩོམ་སྒྲིག་བྱ་ར་མེད་པ།"
+
+msgid "No mailcap path specified"
+msgstr "mailcap འགྲོ་ལམ་དམིགས་འཛུགས་བྱས་མེད།"
+
+msgid "No mailing lists found!"
+msgstr "སྦྲགས་སྲིད་ཀྱི་རེའུ་མིག་རྙེད་མ་བྱུང་།"
+
+msgid "No matching mailcap entry found.  Viewing as text."
+msgstr "ཟླ་འགྲིག་པའི་milcapབྱ་ར་རྙེད་མ་བྱུང་། ཡིག་དེབ་གྱི་རྣམ་པས་འཆར་བ།"
+
+msgid "No messages in that folder."
+msgstr "ཡིག་ཁུག་ནང་དུ་འཕྲིན་ཡིག་མི་འདུག"
+
+msgid "No messages matched criteria."
+msgstr "ཚད་གཞི་དང་མཐུན་པའི་འཕྲིན་ཡིག་མེད་པ།"
+
+msgid "No more quoted text."
+msgstr "དེ་ལས་བའི་ཡིག་དེབ་འདྲེན་སྤྱོད་བྱ་རྒྱུ་མེད།"
+
+msgid "No more threads."
+msgstr "དེ་ལས་མང་བའི་ཁུངས་སྣེ་མང་པོ་མེད་པ།"
+
+msgid "No more unquoted text after quoted text."
+msgstr ""
+"ཡིག་དེབ་འདྲེན་སྤྱོད་བྱས་རྗེས་འདྲེན་སྤྱོད་མ་བྱུང་བའི་ཡིག་དེབ་གཞན་མེད་པ།"
+
+msgid "No new mail in POP mailbox."
+msgstr "POPཡིག་སྒམ་ནང་འཕྲིན་ཡིག་གསར་པ་མི་འདུག"
+
+msgid "No new messages"
+msgstr "གློག་ཡིག་གསར་བ་མེད།"
+
+msgid "No output from OpenSSL..."
+msgstr "OpenSSLཕྱིར་གཏོང་བྱས་མེད།"
+
+msgid "No postponed messages."
+msgstr "སྐུར་རྒྱུ་ཕྱིར་འགྱངས་བྱས་པའི་འཕྲིན་ཡིག་མེད།"
+
+msgid "No printing command has been defined."
+msgstr "གཏག་པར་བཀའ་བརྡར་མཚན་ཉིད་མ་བཞག་པ།"
+
+msgid "No recipients are specified!"
+msgstr "བསྡུ་ལེན་བྱེད་མཁན་དམིགས་འཛུགས་བྱས་མེད།"
+
+msgid "No recipients specified.\n"
+msgstr "བསྡུ་ལེན་བྱེད་མཁན་དམིགས་འཛུགས་བྱས་མེད། \n"
+
+msgid "No recipients were specified."
+msgstr "དམིགས་འཛུགས་བྱས་ཟིན་པའི་བསྡུ་ལེན་མཁན་མེད།"
+
+msgid "No subject specified."
+msgstr "ཁ་བྱང་དམིགས་འཛུགས་བྱས་མེད།"
+
+msgid "No subject, abort sending?"
+msgstr "འཕྲིན་ཡིག་གི་ཁ་བྱང་མེད།སྐུར་མཚམས་འཇོག་དགོས་སམ།"
+
+msgid "No subject, abort?"
+msgstr "ཁ་བྱང་མེད།མཚམས་འཇོག་གམ།"
+
+msgid "No subject, aborting."
+msgstr "ཁ་བྱང་མི་འདུག  མཚམས་འཇོག་བཞིན་ཡོད།"
+
+msgid "No such folder"
+msgstr "ཡིག་ཁུག་འདི་འདྲ་མེད་པ།"
+
+msgid "No tagged entries."
+msgstr "རྟགས་བརྒྱབ་ཟིན་པའི་བྱ་ར་མེད།"
+
+msgid "No tagged messages are visible!"
+msgstr "མཐོང་ཐུབ་པའི་རྟགས་བཀོད་འཕྲིན་ཡིག་མེད།"
+
+msgid "No tagged messages."
+msgstr "རྟགས་བཀོད་ཟིན་པའི་འཕྲིན་ཡིག་མེད་པ།"
+
+msgid "No thread linked"
+msgstr "སྦྲེལ་བྱེད་ཁུངས་སྣེ་མེད་པ།"
+
+msgid "No undeleted messages."
+msgstr "བསུབ་པར་ངོ་རྒོལ་བྱེད་པའི་འཕྲིན་ཡིག་མེད་པ།"
+
+msgid "No unread messages"
+msgstr "ཀློག་ལེན་བྱས་མེད་པའི་འཕྲིན་ཡིག་མེད་པ།"
+
+msgid "No visible messages."
+msgstr "མཐོང་རུང་འཕྲིན་ཡིག་མེད་པ།"
+
+msgid "Not available in this menu."
+msgstr "འདེམས་བྱང་འདིའི་ནང་བེད་སྤྱོད་མི་ཆོག"
+
+msgid "Not enough subexpressions for spam template"
+msgstr ""
+"གད་སྙིགས་ཀྱི་སྦྲག་རྫས་དཔེ་པང་ལ་སྤྱད་བྱའི་བུའི་མཚོན་ཚུལ་འདང་ངེས་ཤིག་མེད་པ།"
+
+msgid "Not found."
+msgstr "བཙལ་ནས་མ་རྙེད།"
+
+msgid "OK"
+msgstr " གཏན་འཁེལ།"
+
+msgid "One or more parts of this message could not be displayed"
+msgstr "འཕྲིན་ཡིག་འདིའི་ནང་གི་ཁག་གཅིག་གམ་མང་པོ་ཞིག་འཆར་ཐབས་བྲལ།"
+
+msgid "Only deletion of multipart attachments is supported."
+msgstr "ཟུར་བཀོད་དུམ་བུ་མང་པོ་བསུབ་པ་ཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད་པ།"
+
+msgid "Open mailbox"
+msgstr "ཡིག་སྒམ་ཁ་ཕྱེ་བ།"
+
+msgid "Open mailbox in read-only mode"
+msgstr "ཀློག་ཙམ་གྱི་རྣམ་པའི་ཐོག་ནས་ཡིག་སྒམ་ཁ་ཕྱེ་བ།"
+
+msgid "Open mailbox to attach message from"
+msgstr "ཡིག་སྒམ་ཁ་ཕྱེ་ནས་དེའི་ཁྲོད་ཀྱི་འཕྲིན་ཡིག་ཟུར་སྣོན་བྱེད་དགོས།"
+
+msgid "Out of memory!"
+msgstr "ནང་གསོག་ཡོད་ཚད་བཀོལ་ཚར་བ།"
+
+msgid "Output of the delivery process"
+msgstr "Dlevery polessཡི་ཕྱིར་འདོན།"
+
+msgid "PGP Key %s."
+msgstr "PGPལྡེ་མིག%s"
+
+msgid "PGP already selected. Clear & continue ? "
+msgstr "PGPབདམས་པ་ཡིན། གཙང་སེལ་དང་སྦྲགས་མུ་མཐུད་དུ་བྱེད་དམ།"
+
+msgid "PGP and S/MIME keys matching"
+msgstr "PGPདང་S/MEགསང་ལྡེ་ཟླ་སྒྲིག"
+
+msgid "PGP keys matching"
+msgstr "PGPགསང་ལྡེ་ཟླ་སྒྲིག"
+
+msgid "PGP keys matching \"%s\"."
+msgstr "\" \"%s\" ཡི་PGP གསང་ལྡེ་དང་འཚམ་པ།\""
+
+msgid "PGP keys matching <%s>."
+msgstr "\"<%s>ཡི་ PGP གསང་ལྡེ་དང་འཚམ་པ།\""
+
+msgid "PGP message successfully decrypted."
+msgstr "PGPའཕྲིན་ཡིག་གིས་གསང་འགྲོལ་ལེགས་གྲུབ་བྱུང་བ།"
+
+msgid "PGP passphrase forgotten."
+msgstr "PGPཡི་ཤར་བགྲོད་གསང་གྲངས་བརྗེད་པ།"
+
+msgid "PGP signature could NOT be verified."
+msgstr "PGPཡིས་མིང་རྟགས་བཀོད་པ་ར་སྤྲོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "PGP signature successfully verified."
+msgstr "PGPམིང་རྟགས་ར་སྤྲོད་ལེགས་འགྲུབ་བྱུང་།"
+
+msgid "PGP/M(i)ME"
+msgstr "\"PGP/M(i)ME\""
+
+msgid "PKA verified signer's address is: "
+msgstr ""
+"སྤྱི་སྤྱོད་ལྡེ་མིག་གི་ར་སྤྲོད(PKA)ཀྱིས་གཏན་འཁེལ་བྱས་པའི་གཏོང་མཁན་གྱི་ཤག་གནས།"
+
+msgid "POP host is not defined."
+msgstr "POPགཙོ་འཁོར་མཚན་ཉིད་མ་བཞག་པ།"
+
+msgid "POP timestamp is invalid!"
+msgstr "POPདུས་ཚོད་ཐམ་ནུས་མེད།"
+
+msgid "Parent message is not available."
+msgstr "ཕ་ཡི་འཕྲིན་ཡིག་བཀོལ་མི་ཐུབ་པ།"
+
+msgid "Parent message is not visible in this limited view."
+msgstr "ཕ་ཡི་འཕྲིན་ཡིག་ཚོད་འཛིན་དཔེ་རིས་འདིའི་ཁྲོད་མཐོང་ཐབས་བྲལ།"
+
+msgid "Passphrase(s) forgotten."
+msgstr "ཤར་བགྲོད་ཀྱི་གསང་གྲངས་བརྗེད་པ།"
+
+msgid "Personal name: "
+msgstr "སྒེར་གྱི་རུས་མིང་།"
+
+msgid "Pipe"
+msgstr "སྦུག་ལམ།"
+
+msgid "Pipe to command: "
+msgstr "སྦུག་ལམ་སྤྱད་ནས་བཀའ་བརྡ་རུ་ཕྱིར་འདོན་པ།"
+
+msgid "Pipe to: "
+msgstr "སྦུག་ལམ་བརྒྱུད་དེ་བརྒྱུད་སྤྲོད།"
+
+msgid "Please enter the key ID: "
+msgstr "གསང་ལྡེ་IDནང་འཇུག་བྱེད་རོགས།"
+
+msgid ""
+"Please set the hostname variable to a proper value when using mixmaster!"
+msgstr ""
+"mixmasterབཀོལ་སྐབས་hostnameཡི་འགྱུར་ཚད་ལ་འོས་འཚམ་གྱི་གྲངས་ཐང་སྒྲིག་འགོད་བྱེད་རོགས།"
+
+msgid "Postpone this message?"
+msgstr "འཕྲིན་ཡིག་འདི་འགོར་འགྱངས་བྱེད་དམ།"
+
+msgid "Postponed Messages"
+msgstr "འཕྲིན་ཡིག་བསྐུར་རྒྱུ་ནར་འགྱངས་བྱས་ཟིན་པ།"
+
+msgid "Preconnect command failed."
+msgstr "སྔོན་མཐུད་བཀའ་ཕམ་པ།"
+
+msgid "Preparing forwarded message..."
+msgstr "འཕྲིན་ཡིག་བརྒྱུད་སྐུར་བྱེད་པའི་གྲ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
+
+msgid "Press any key to continue..."
+msgstr "ཐེམ་གང་རུང་བསྣན་ནས་མུ་མཐུད་དུ…"
+
+msgid "PrevPg"
+msgstr " ཤོག་ངོས་གོང་མ།"
+
+msgid "Print"
+msgstr "པར་འདེབས།"
+
+msgid "Print attachment?"
+msgstr "ཟུར་བཀོད་དཔར་རམ།"
+
+msgid "Print message?"
+msgstr "འཕྲིན་ཡིག་དཔར་རམ།"
+
+msgid "Print tagged attachment(s)?"
+msgstr "རྟགས་རྒྱབ་པའི་ཟུར་བཀོད་ཡིག་ཆ་དཔར་རམ།"
+
+msgid "Print tagged messages?"
+msgstr "རྟགས་རྒྱབ་པའི་འཕྲིན་ཡིན་དཔར་རམ།"
+
+msgid "Problem signature from:"
+msgstr "གནད་དོན་ཡོད་པའི་མིང་རྟགས་གི་འབྱུང་ཁུངས།"
+
+msgid "Purge %d deleted message?"
+msgstr "བསུབ་ཟིན་པའི་འཕྲིན་ཡིག་%dགཙང་སེལ་བྱེད་དམ།"
+
+msgid "Purge %d deleted messages?"
+msgstr "བསུབ་ཟིན་པའི་འཕྲིན་ཡིག་%dགཙང་སེལ་བྱེད་དམ།"
+
+msgid "Query"
+msgstr "འདྲི་རྩད།"
+
+msgid "Query '%s'"
+msgstr "%sའདྲི་རྩད།"
+
+msgid "Query command not defined."
+msgstr "འདྲི་རྩད་བཀའ་བརྡར་མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "Query: "
+msgstr "འདྲི་རྩད།"
+
+msgid "Quit"
+msgstr " ཕྱིར་འབུད།"
+
+msgid "Quit Mutt?"
+msgstr "Muttདང་ཁ་བྲལ་ལམ།"
+
+msgid "Reading new messages (%d bytes)..."
+msgstr "འཕྲིན་ཡིག་གསར་བ（ཡིག་ཚིགས%d ）ཀློག་བཞིན་པ།"
+
+msgid "Really delete mailbox \"%s\"?"
+msgstr "\"%s\"ཡིག་སྒམ་ངོ་མ་བསུབ་བམ།"
+
+msgid "Recall postponed message?"
+msgstr "སྐུར་རྒྱུ་ཕྱིར་འགྱངས་བྱས་པའི་འཕྲིན་ཡིག་དེ་འབོད་དམ།"
+
+msgid "Recoding only affects text attachments."
+msgstr "ཡང་བསྐྱར་ཨང་སྒྲིག་བྱས་ན་ཡིག་ཆའི་ཟུར་བཀོད་ཁོ་ནར་ནུས་པ་ཡོད།"
+
+msgid "Rename failed: %s"
+msgstr "མིང་སྒྱུར་ཕམ་པ།：%s"
+
+msgid "Rename is only supported for IMAP mailboxes"
+msgstr "IAPཡིག་སྒམ་ཁོ་ནས་ད་གཟོད་མིང་བསྒྱུར་ལ་རྒྱབ་སྐྱོར་བྱེད་ཐུབ།"
+
+msgid "Rename mailbox %s to: "
+msgstr "ཡིག་སྒམ %s ཡི་མིང་སྒྱུར་བ།："
+
+msgid "Rename to: "
+msgstr "མིང་བསྒྱུར་བ།："
+
+msgid "Reopening mailbox..."
+msgstr "ཡིག་སྒམ་བསྐྱར་དུ་ཁ་འབྱེད་བཞིན་ཡོད།"
+
+msgid "Reply"
+msgstr "ལན་ལོག"
+
+msgid "Reply to %s%s?"
+msgstr " %s%sལ་ཡིག་ལན་སྐུར་རམ།"
+
+msgid "Reverse search for: "
+msgstr "བཤེར་འཚོལ་ལ་ཕྱིར་ལོག"
+
+msgid "Reverse sort by (d)ate, (a)lpha, si(z)e or do(n)'t sort? "
+msgstr ""
+"དུས་ཚོད（d)དང་།གསལ་བྱེད་རེའུ་མིག(a)ཆེ་ཆུང་།（z)ལ་གཞིགས་ནས་ལྡོག་པའི་རིམ་སྒྲིག་གམ་ཡང་ན་རིམ་སྒྲིག་མི་བྱེད་པ།（n)"
+
+msgid "Revoked   "
+msgstr "རྩིས་མེད་དུ་བཏང་ཟིན་པ།"
+
+msgid "S/MIME already selected. Clear & continue ? "
+msgstr "S/MIMEབདམས་པ་ཟིན། གཙང་སེལ་དང་སྦྲགས་མུ་མཐུད་དུ་བྱེད་དམ།"
+
+msgid "S/MIME certificate owner does not match sender."
+msgstr "S/MIME དཔང་ཡིག་བདག་པོ་དང་སྐུར་མཁན་ཟླ་མི་འགྲིག་པ།"
+
+msgid "S/MIME certificates matching \"%s\"."
+msgstr "S/MIME ཡི་དཔང་ཡིག་\"%s\"དང་ཟླ་འགྲིག་པ།"
+
+msgid "S/MIME keys matching"
+msgstr "S/MIMEགསང་ལྡེ་ཟླ་སྒྲིག"
+
+msgid "S/MIME messages with no hints on content are unsupported."
+msgstr "ནང་དོན་གསལ་འདེབས་མེད་པའི་S/MIME ཆ་འཕྲིན་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "S/MIME signature could NOT be verified."
+msgstr "S/MIMEམིང་རྟགས་བཀོད་པ་ར་སྤྲོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "S/MIME signature successfully verified."
+msgstr "S/MIMEཡི་མིང་རྟགས་ར་སྤྲོད་ལེགས་འགྲུབ་བྱུང་བ།"
+
+msgid "SASL authentication failed"
+msgstr "SASLར་སྤྲོད་ཕམ་པ།"
+
+msgid "SASL authentication failed."
+msgstr "SASLར་སྤྲོད་ཕམ་པ།"
+
+msgid "SHA1 Fingerprint: %s"
+msgstr "SHA1 མཛུབ་རིས།：%s"
+
+msgid "SMTP authentication requires SASL"
+msgstr "SMTPར་སྤྲོད་བྱེད་པར་SASLདགོས།"
+
+msgid "SMTP server does not support authentication"
+msgstr "SMTPཞབས་ཞུ་ཆས་ཀྱིས་ར་སྤྲོད་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "SMTP session failed: %s"
+msgstr "SMTPགླེང་མོལ་ཕམ་པ།：%s"
+
+msgid "SMTP session failed: read error"
+msgstr "SMTPགླེང་མོལ་ཕམ་པ། ཀློག་ནོར་ཤོར་བ།"
+
+msgid "SMTP session failed: unable to open %s"
+msgstr "SMTPགླེང་མོལ་ཕམ་པ། %sཁ་ཕྱེ་ཐབས་བྲལ་པ།"
+
+msgid "SMTP session failed: write error"
+msgstr "SMTPགླེང་མོལ་ཕམ་པ།  བྲིས་པ་ནོར་འཁྲུལ།"
+
+msgid "SSL Certificate check (certificate %d of %d in chain)"
+msgstr ""
+"SSSLདཔང་ཡིག་ཞིབ་བཤེར་བྱེད་པ།(ཞིབ་བཤེར་ཕྲེང་དུ་དཔང་ཡིག་ %d འདུག ཁྱོན་བསྡོམས་ "
+"%d ཡོད།)"
+
+msgid "SSL disabled due the lack of entropy"
+msgstr "SSLལ་ཁྲོབ་འདང་ངེས་ཤིག་མེད་པས་སྤྱོད་མི་ཆོག"
+
+msgid "SSL failed: %s"
+msgstr "SSLཕམ་པ།：%s"
+
+msgid "SSL is unavailable."
+msgstr "SSLབཀོལ་མི་རུང་བ།"
+
+msgid "SSL/TLS connection using %s (%s/%s/%s)"
+msgstr "%sཡི་SSL/TLS འབྲེལ་མཐུད་སྤྱོད།（%s /s/%s ）"
+
+msgid "Save"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
+
+msgid "Save a copy of this message?"
+msgstr "འཕྲིན་ཡིག་འདིའི་འདྲ་བཤུས་ཉར་ཚགས་བྱེད་དམ།"
+
+msgid "Save attachments in Fcc?"
+msgstr "ཟུར་བཀོད་དེ་Fccལ་ཉར་ཚགས་བྱ་འམ།"
+
+msgid "Save to file: "
+msgstr "ཡིག་ཆའི་ནང་དུ་ཉར་ཚགས་ཀྱིས།"
+
+msgid "Save%s to mailbox"
+msgstr "%sཡིག་སྒམ་དུ་ཉར་ཚགས་ཀྱིས།"
+
+msgid "Saving changed messages... [%d/%d]"
+msgstr "བསྒྱུར་ཟིན་པའི་འཕྲིན་ཡིག་གསོག་ཉར་བྱེད་བཞིན་པའི་སྒང་ཡིན།[%d/%d]"
+
+msgid "Saving..."
+msgstr "སྣོན་བཞིན་པ།..."
+
+msgid "Scanning %s..."
+msgstr "%sབཤར་འབེབས་བྱེད་བཞིན་པ།"
+
+msgid "Search"
+msgstr "བཤེར་འཚོལ།"
+
+msgid "Search hit bottom without finding match"
+msgstr "མཇུག་བར་དུ་འཚོལ་ཞིབ་བྱས་ཀྱང་ཟླ་སྒྲིག་བྱེད་མ་ཐུབ།"
+
+msgid "Search hit top without finding match"
+msgstr "མགོ་བར་དུ་འཚོལ་ཞིབ་བྱས་ཀྱང་ཟླ་སྒྲིག་བྱེད་མ་ཐུབ།"
+
+msgid "Search interrupted."
+msgstr "འཚོལ་ཞིབ་བྱེད་མཚམས་བཅད་པ།"
+
+msgid "Search is not implemented for this menu."
+msgstr "འདེམས་བྱང་འདིའི་བཤེར་འཚོལ་མངོན་འགྱུར་བྱུང་མེད།"
+
+msgid "Search wrapped to bottom."
+msgstr "མཇུག་ནས་ཡང་བསྐྱར་འཚོལ་མགོ་རྩོམ་པ།"
+
+msgid "Search wrapped to top."
+msgstr "མགོ་ནས་ཡང་བསྐྱར་འཚོལ་མགོ་རྩོམ་པ།"
+
+msgid "Secure connection with TLS?"
+msgstr "TLSབདེ་འཇགས་འབྲེལ་མཐུད་སྤྱོད་དམ།"
+
+msgid "Select"
+msgstr "འདེམ་པ།"
+
+msgid "Select a remailer chain."
+msgstr "བརྒྱུད་སྐུར་མཁན་གྱི་ཕྲེང་གཅིག་འདེམ་དགོས།"
+
+msgid "Select the next element of the chain"
+msgstr "ཕྲེང་སྟར་ཁྲོད་ཀྱི་གཞི་རྒྱུ་རྗེས་མ་འདེམས།"
+
+msgid "Select the previous element of the chain"
+msgstr "ཕྲེང་སྟར་ཁྲོད་ཀྱི་གཞི་རྒྱུ་སྔོན་མ་འདེམས།"
+
+msgid "Selecting %s..."
+msgstr "%sའདེམ་བཞིན་པ།"
+
+msgid "Send"
+msgstr "སྐུར་བ།"
+
+msgid "Sending in background."
+msgstr "རྒྱབ་སྟེགས་ནས་སྐུར་བཞིན་ཡོད།"
+
+msgid "Sending message..."
+msgstr "གློག་ཡིག་སྐུར་བ།..."
+
+msgid "Serial-No .: 0x%s\n"
+msgstr "རིམ་སྟར་ཨང་རྟགས།.: 0x%s\n"
+
+msgid "Server certificate has expired"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་དཔང་ཡིག་དུས་ལས་ཡོལ་བ།"
+
+msgid "Server certificate is not yet valid"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་དཔང་ཡིག་ད་དུང་གོ་ཆོད་མེད།"
+
+msgid "Server closed connection!"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱིས་འབྲེལ་མཐུད་སྒོ་བརྒྱབ་པ།"
+
+msgid "Set flag"
+msgstr "མཚོན་རྟགས་སྒྲིག་པ།"
+
+msgid "Shell command: "
+msgstr "Shllབཀའ་བརྡ།："
+
+msgid "Sign"
+msgstr "མིང་རྟགས་འགོད་པ།"
+
+msgid "Sign as: "
+msgstr "ཐོབ་ཐང་བདམས་ནས་མིང་རྟགས་འགོད་དགོས།"
+
+msgid "Sign, Encrypt"
+msgstr "མིང་རྟགས་འགོད་པ།གསང་སྡོམ།"
+
+msgid "Sort by (d)ate, (a)lpha, si(z)e or do(n)'t sort? "
+msgstr ""
+"དུས་ཚོད（d)དང་།གསལ་བྱེད་རེའུ་མིག(a)ཆེ་ཆུང་།（z)རིམ་སྒྲིག་གམ་ཡང་ན་རིམ་སྒྲིག་མི་བྱེད་པ།（n)"
+
+msgid "Sorting mailbox..."
+msgstr "ཡིག་སྒམ་རིམ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
+
+msgid "Subkey ....: 0x%s"
+msgstr "བུའི་ལྡེ་མིག...: 0x%s"
+
+msgid "Subscribed [%s], File mask: %s"
+msgstr "སྔོན་མངགས་བྱས་ཟིན་པའི[%s]ཡིག་ཆའི་བཀབ་ཨང་།: %s"
+
+msgid "Subscribed to %s"
+msgstr "མངག་ཉོ་བྱས་ཟིན་པ།%s..."
+
+msgid "Subscribing to %s..."
+msgstr "ད་ལྟ་མངག་ཉོ་བྱེད་བཞིན་ཡོད།%s..."
+
+msgid "Tag messages matching: "
+msgstr "རྣམ་པ་འདི་དང་མཐུན་པའི་འཕྲིན་ཡིག་ལ་མཚོན་རྟགས་འགོད་པ།："
+
+msgid "Tag the messages you want to attach!"
+msgstr "ཁྱེད་རང་གིས་སྣོན་འགོད་བྱེད་དགོས་པའི་འཕྲིན་ཡིག་ལ་རྟགས་རྒྱག་རོགས།"
+
+msgid "Tagging is not supported."
+msgstr "རྟགས་འགོད་པར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "That message is not visible."
+msgstr "འཕྲིན་ཡིག་འདི་ཤར་ཐབས་མི་འདུག"
+
+msgid "The CRL is not available\n"
+msgstr "དཔང་ཡིག་རྩིས་མེད་དུ་བཏང་བའི་གསལ་ཐོ་(CRL)སྤྱོད་མི་རུང་བ།\n"
+
+msgid "The current attachment will be converted."
+msgstr "མིག་སྔའི་ཟུར་བཀོད་ཡིག་ཆ་བསྒྱུར་བ།"
+
+msgid "The current attachment won't be converted."
+msgstr "མིག་སྔའི་ཟུར་བཀོད་ཡིག་ཆ་འགྱུར་མི་སྲིད།"
+
+msgid "The message index is incorrect. Try reopening the mailbox."
+msgstr ""
+"འཕྲིན་ཡིག་གི་དཀར་ཆག་མི་འགྲིག "
+"བསྐྱར་དུ་ཡིག་ཟམ་སྒམ་ཁ་ཕྱེ་བར་ཚོད་ལྟ་ཞིག་བྱེད་རོགས།"
+
+msgid "The remailer chain is already empty."
+msgstr "བརྒྱུད་སྐུར་མཁན་གྱི་ཕྲེང་ནི་སྟོང་ཟིན།"
+
+msgid "There are no attachments."
+msgstr "ཟུར་བཀོད་ཡིག་ཆ་མེད།"
+
+msgid "There are no messages."
+msgstr "འཕྲིན་ཡིག་མི་འདུག"
+
+msgid "There are no subparts to show!"
+msgstr "བུའི་ཁག་གི་འཆར་བྱ་མི་འདུག"
+
+msgid "This IMAP server is ancient. Mutt does not work with it."
+msgstr ""
+"Muttཞབས་ཞུ་ཆས་འདི་དུས་ཡོལ་བྱས་ཟིན། Mutt ཡིས་འདི་དང་ལས་ཀ་བྱེད་ཐུབ་ཀྱི་མི་འདུག"
+
+msgid "This certificate belongs to:"
+msgstr "དཔང་ཡིག་འདིའི་གཏོགས་ཡུལ།："
+
+msgid "This certificate is valid"
+msgstr "དཔང་ཡིག་འདི་རྩིས་འགྲོ་ཡོད།"
+
+msgid "This certificate was issued by:"
+msgstr "དཔང་ཡིག་འདིའི་ཁྱབ་བསྒྲགས་ཁུངས།："
+
+msgid "This key can't be used: expired/disabled/revoked."
+msgstr "ལྡེ་མིག་འདི་བཀོལ་མི་ཆོག：དུས་ལས་ཡོལ་བའམ་ཡང་ན་ནུས་པ་མེད་པ།"
+
+msgid "Thread broken"
+msgstr "ཁུངས་སྣེ་ལ་ནོར་འཁྲུལ་འདུག"
+
+msgid "Thread contains unread messages."
+msgstr "ཁུངས་སྣེ་ནང་དུ་ཀློག་མེད་པའི་འཕྲིན་ཡིག་ཡོད།"
+
+msgid "Threading is not enabled."
+msgstr "ཁུངས་སྣེའི་བྱེད་ནུས་ད་དུང་སྤེལ་འགོ་ཚུགས་མེད།"
+
+msgid "Threads linked"
+msgstr "ཁུངས་སྣེ་འབྲེལ་མཐུད་བྱས་ཟིན།"
+
+msgid "Timeout exceeded while attempting fcntl lock!"
+msgstr "fcntlལ་ཟྭ་རྒྱག་པར་ཚོད་ལྟ་བྱེད་སྐབས་དུས་བརྒལ་སོང་།"
+
+msgid "Timeout exceeded while attempting flock lock!"
+msgstr " flock ལ་ཟྭ་རྒྱག་པར་ཚོད་ལྟ་བྱེད་སྐབས་དུས་བརྒལ་སོང་།"
+
+msgid "To view all messages, limit to \"all\"."
+msgstr ""
+"འཕྲིན་ཡིག་ཚང་མར་ལྟ་ཞིབ་བྱ་དགོས་ན།ཚོད་འཛིན་དེ་“all”དུ་སྒྲིག་འགོད་བྱ་རོགས།"
+
+msgid "Toggle display of subparts"
+msgstr "བུའི་ཆ་ཤས་ཀྱི་འཆར་བ་བརྗེ་བ།"
+
+msgid "Top of message is shown."
+msgstr "འཕྲིན་ཡིག་གི་ཆེས་རྩེ་ཆ་མངོན་ཟིན།"
+
+msgid "Trusted   "
+msgstr "ཡིད་ཆེས།"
+
+msgid "Trying to extract PGP keys...\n"
+msgstr "PGPཡི་གསང་ལྡེ་ལེན་པར་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།...\n"
+
+msgid "Trying to extract S/MIME certificates...\n"
+msgstr " S/MIME ཡི་དཔང་ཡིག་ལེན་པར་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།...\n"
+
+msgid "Tunnel error talking to %s: %s"
+msgstr "%sདང་ཁ་པར་རྒྱག་སྐབས་ཕུག་ལམ་ནོར་བ།：%s"
+
+msgid "Tunnel to %s returned error %d (%s)"
+msgstr ""
+"ཕུག་ལམ་རྒྱུད་ནས་%s དང་སྦྲེལ་མཐུད་བྱེད་སྐབས་ནོར་འཁྲུལ %d། (%s) ཕྱིར་ལོག་པ།"
+
+msgid "Unable to attach %s!"
+msgstr "ཟུར་སྣོན་བྱེད་ཐབས་མེད། %s！"
+
+msgid "Unable to fetch headers from this IMAP server version."
+msgstr "པར་གཞི་འདིའིIMAPཞབས་ཞུ་ཆས་ཀྱི་རྟགས་འགོ་ཕྱིར་ལེན་ཐབས་མེད།"
+
+msgid "Unable to get certificate from peer"
+msgstr "ཚིགས་ཚེག་ནས་ལག་ཁྱེར་རག་ཐབས་མེད།"
+
+msgid "Unable to leave messages on server."
+msgstr "འཕྲིན་ཡིག་ཞབས་ཞུའི་འཕྲུལ་ཆས་སྟེང་དུ་འཇོག་ཐབས་མེད།"
+
+msgid "Unable to lock mailbox!"
+msgstr "ཡིག་སྒམ་ཟྭ་རྒྱག་ཐབས་མེད།"
+
+msgid "Unable to open temporary file!"
+msgstr "གནས་སྐབས་ཀྱི་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་མེད།"
+
+msgid "Undel"
+msgstr "ལྡོག་བསུབ།"
+
+msgid "Undelete messages matching: "
+msgstr "ལྡོག་བསུབ་རྣམ་པ་འདི་དང་མཐུན་པའི་འཕྲིན་ཡིག་དང་མཚམས་པ་ཡིན།："
+
+msgid "Unknown"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
+
+msgid "Unknown Content-Type %s"
+msgstr "ནང་དོན་མི་གསལ་བའི་རིགས་རྣམ། (Content-Type)%s"
+
+msgid "Unknown SASL profile"
+msgstr "ངེས་མེད་པའི་SASLསྡེབ་སྒྲིག"
+
+msgid "Unsubscribed from %s"
+msgstr "མངག་ཉོ་དོར་ཟིན། %s..."
+
+msgid "Unsubscribing from %s..."
+msgstr "མངག་ཉོ་དོར་བཞིན་པ།  %s..."
+
+msgid "Untag messages matching: "
+msgstr "ལྡོག་རྟགས་རྣམ་པ་འདི་དང་མཐུན་པའི་འཕྲིན་ཡིག་དང་མཚམས་པ་ཡིན།："
+
+msgid "Uploading message..."
+msgstr "འཕྲིན་ཡིག་སྐུར་བཞིན་པ།..."
+
+msgid "Usage: set variable=yes|no"
+msgstr "སྤྱོད་སྟངས།：set variable=yes|no"
+
+msgid "Use 'toggle-write' to re-enable write!"
+msgstr "“togle-write”སྤྱད་ནས་ཡང་བསྐྱར་འབྲི་འགོ་བརྩམས་རོགས།"
+
+msgid "Use keyID = \"%s\" for %s?"
+msgstr " keyID = \"%s\" སྤྱོད་པ་འདི  %s ལ་སྤྱོད་རྒྱུ་ཡིན་ནམ།"
+
+msgid "Username at %s: "
+msgstr " %s ཡི་སྤྱོད་མཁན་མིང་།："
+
+msgid "Valid From : %s\n"
+msgstr "འདི་ནས་བཟུང་ནུས་ཡོད།: %s\n"
+
+msgid "Valid To ..: %s\n"
+msgstr ""
+"ནུས་ཡོད། .: %s\n"
+"\""
+
+msgid "Verified  "
+msgstr "ར་སྤྲོད་བྱས་ཟིན་པ།"
+
+msgid "Verify PGP signature?"
+msgstr "PGPཡི་མིང་རྟགས་ར་སྤྲོད་བྱེད་དམ།"
+
+msgid "Verifying message indexes..."
+msgstr "འཕྲིན་ཡིག་གི་གསལ་བང་ར་སྤྲོད་བྱེད་བཞིན་པ།..."
+
+msgid "View Attachm."
+msgstr "ཟུར་བཀོད་མངོན་པ།"
+
+msgid "WARNING!  You are about to overwrite %s, continue?"
+msgstr "ཐ་ཚིག  ཁྱེད་ཀྱིས %s འགེབས་བཞིན་ཡོད་པས།མུ་མཐུད་དུ་བྱེད་དགོས་སམ།"
+
+msgid ""
+"WARNING: It is NOT certain that the key belongs to the person named as shown"
+" above\n"
+msgstr "ཐ་ཚིག：གསང་ལྡེ་གོང་ནས་མིང་བཏོན་པའི་མི་ཡིན་མིན་གཏན་ཁེལ་བྱ་ཐབས་མེད།\n"
+
+msgid "WARNING: PKA entry does not match signer's address: "
+msgstr "ཐ་ཚིག：སྤྱི་ལྡེ་ར་སྤྲོད་ཚན། (PKA)དང་སྐྱེལ་མཁན་ས་གནས་ཟླ་སྒྲིག་མིན།："
+
+msgid "WARNING: Server certificate has been revoked"
+msgstr "ཐ་ཚིག་ཞབས་ཞུ་ཆས་དཔང་ཡིག་ཕྱིར་བསྡུས་ཟིན།"
+
+msgid "WARNING: Server certificate has expired"
+msgstr "ཐ་ཚིག：ཞབས་ཞུ་ཆས་དཔང་ཡིག་དུས་ཡོལ་ཟིན།"
+
+msgid "WARNING: Server certificate is not yet valid"
+msgstr "ཐ་ཚིག：ཞབས་ཞུ་ཆས་དཔང་ཡིག་ནུ་ལྡན་མིན།"
+
+msgid "WARNING: Signer of server certificate is not a CA"
+msgstr ""
+"ཐ་ཚིག：ཞབས་ཞུ་ཆས་དཔང་ཡིག་མིང་རྟགས་འགོད་མཁན་དཔང་ཡིག་སྤྲོད་མཁན་ལས་ཁུངས་མིན།(CA)"
+
+msgid "WARNING: The key does NOT BELONG to the person named as shown above\n"
+msgstr "ཐ་ཚིག：གསང་ལྡེ་གོང་ནས་མིང་བཏོན་པའི་མི་རུ་མི་གཏོགས།\n"
+
+msgid ""
+"WARNING: We have NO indication whether the key belongs to the person named "
+"as shown above\n"
+msgstr ""
+"ཐ་ཚིག：གསང་ལྡེ་གོང་ནས་མིང་བཏོན་པའི་མི་རུ་གཏོགས་མིན་ང་ཚོས་བདེན་དཔང་འཇོག་མི་ཐུབ།\n"
+
+msgid "Waiting for fcntl lock... %d"
+msgstr " fcntl ཡི་ཟྭ་རྒྱག་པ་ལ་སྒུག་བཞིན་པ།... %d"
+
+msgid "Waiting for flock attempt... %d"
+msgstr "ཚོད་ལྟ་བྱ་རྒྱུ་སྒུག་བཞིན་ flock... %d"
+
+msgid "Warning: '%s' is a bad IDN."
+msgstr "ཐ་ཚིག：'%s'ནི་ནོར་བའི IDNཡིན།"
+
+msgid "Warning: At least one certification key has expired\n"
+msgstr "ཐ་ཚིག：མ་མཐར་ཡང་དཔང་ཡིག་གསང་ལྡེ་གཅིག་དུས་ཡོལ་ཟིན།n"
+
+msgid "Warning: Bad IDN '%s' in alias '%s'.\n"
+msgstr ""
+"ཐ་ཚིག：ནོར་བའི IDN '%s'དེ་མིང་གཞན'%s'རུ་ཡོད།\n"
+"\""
+
+msgid "Warning: Couldn't save certificate"
+msgstr "ཐ་ཚིག：དཔང་ཡིག་ཉར་ཚགས་བྱ་ཐབས་མེད།"
+
+msgid "Warning: One of the keys has been revoked\n"
+msgstr "ཐ་ཚིག：དེ་ནང་གི་གསང་ལྡེ་གཅིག་ཕྱིར་བསྡུས་ཟིན།\n"
+
+msgid "Warning: Part of this message has not been signed."
+msgstr "ཐ་ཚིག：འཕྲིན་ཡིག་དེའི་ནང་དོན་ཁག་གཅིག་ལ་མིང་རྟགས་བཀོད་མེད།"
+
+msgid "Warning: Server certificate was signed using an insecure algorithm"
+msgstr ""
+"ཐ་ཚིག：ཞབས་ཞུ་ཆས་དཔང་ཡིག་ནི་བདེ་འཇགས་མིན་པའི་རྩི་ཐབས་སྤྱད་ནས་མིང་རྟགས་བཀོད་འདུག"
+
+msgid "Warning: The key used to create the signature expired at: "
+msgstr "ཐ་ཚིག：མིང་རྟགས་འགོད་རྒྱུར་སྤྱོད་པའི་གསང་ལྡེ་ཉིན་དེར་དུས་ཡོལ་ཟིན།："
+
+msgid "Warning: The signature expired at: "
+msgstr "ཐ་ཚིག：མིང་རྟགས་འགོད་པའི་དུས་ཚོད་ཉིན་དེར་དུས་ཡོལ་ཟིན།："
+
+msgid "Warning: This alias name may not work.  Fix it?"
+msgstr "ཐ་ཚིག：མིང་གཞན་འདིས་ལས་ཀ་བྱེད་མེད་པས། བཟོ་བཅོས་བྱེད་དམ།"
+
+msgid "Warning: message contains no From: header"
+msgstr "ཐ་ཚིག：འཕྲིན་ཡིག་ཏུ From: རྟགས་མགོ་འདུས་མེད།"
+
+msgid "What we have here is a failure to make an attachment"
+msgstr "མིག་སྔར་གྱི་གནས་ཚུལ་ནི་ང་ཚོས་ཞར་བྱུང་ཁ་སྣོན་བྱེད་ཐབས་མེད།"
+
+msgid "Write failed!  Saved partial mailbox to %s"
+msgstr "འབྲི་འཇུག་བྱེད་མ་ཐུབ། ཡིག་སྒམ་ཆ་ཤས་ཤིག%sབསགས་ཟིན།"
+
+msgid "Write fault!"
+msgstr "འབྲི་འཇུག་ནོར་སོང་།"
+
+msgid "Write message to mailbox"
+msgstr "འཕྲིན་ཡིག་ཡིག་སྒམ་དུ་འབྲི་འཇུག་བྱེད་པ།"
+
+msgid "Writing %s..."
+msgstr " འབྲི་འཇུག་བྱེད་བཞིན་པ། %s..."
+
+msgid "Writing message to %s ..."
+msgstr "ཕྲིན་ཡིག %s ...ལ་འབྲི་འཇུག་བྱེད་པ།"
+
+msgid "You already have an alias defined with that name!"
+msgstr "ཁྱེད་ཀྱིས་མིང་འདིར་མིང་གཞན་མཚན་ཉིད་བཞག་ཡོད།"
+
+msgid "You already have the first chain element selected."
+msgstr "ཁྱེད་རང་གིས་མུ་ཕྲེང་གཞི་རྒྱུ་དང་པོ་དེ་བདམས་ཟིན།"
+
+msgid "You already have the last chain element selected."
+msgstr "ཁྱེད་རང་གིས་མུ་ཕྲེང་གཞི་རྒྱུ་ཆེས་རྗེས་མ་དེ་བདམས་ཟིན།"
+
+msgid "You are on the first entry."
+msgstr "ཁྱེད་རང་ད་ལྟ་རྣམ་གྲངས་དང་པོར་ཡོད།"
+
+msgid "You are on the first message."
+msgstr "ཁྱེད་རང་ད་ལྟ་ཡི་གེ་དང་པོ་དེར་ཡོད།"
+
+msgid "You are on the first page."
+msgstr "ཁྱེད་རང་ད་ལྟ་ཤོག་ངོས་དང་པོར་ཡོད།"
+
+msgid "You are on the first thread."
+msgstr "ཁྱེད་རང་ཁུངས་སྣེ་དང་པོ་སྟེང་དུ་ཡོད།"
+
+msgid "You are on the last entry."
+msgstr "ཁྱེད་རང་ད་ལྟ་མཐའ་མའི་རྣམ་གྲངས་སུ་ཡོད།"
+
+msgid "You are on the last message."
+msgstr "ཁྱེད་རང་ད་ལྟ་མཐའ་མའི་འཕྲིན་ཡིག་ཏུ་ཡོད།"
+
+msgid "You are on the last page."
+msgstr "ཁྱེད་རང་ད་ལྟ་ཆེས་མཇུག་མཐའི་ཤོག་ངོས་ན་ཡོད།"
+
+msgid "You cannot scroll down farther."
+msgstr "ཁྱེད་རང་གིས་མུ་མཐུད་ནས་མར་འགྲིལ་བྱེད་ཐབས་མེད།"
+
+msgid "You cannot scroll up farther."
+msgstr "ཁྱེད་རང་གིས་མུ་མཐུད་ནས་ཡར་འགྲིལ་བྱེད་ཐབས་མེད།"
+
+msgid "You have no aliases!"
+msgstr "ཁྱེད་ལ་མིང་གཞན་ཆ་འཕྲིན་མེད།"
+
+msgid "You may not delete the only attachment."
+msgstr "ཁྱེད་ཀྱིས་ཞར་བྱུང་གཅིག་ཁོ་ན་དེ་སུབ་མི་ཆོག"
+
+msgid "You may only bounce message/rfc822 parts."
+msgstr "ཁྱེད་རང་message/rfc822 ཡི་ཆ་ལ་ཕྱིར་སློག་དགོས།"
+
+msgid "[%s = %s] Accept?"
+msgstr "[%s = %s] དང་ལེན་བྱེད་དམ།"
+
+msgid "[-- %s output follows%s --]\n"
+msgstr "[-- %s ཕྱིར་འདྲེན་གཤམ་ལྟར%s --]\n"
+
+msgid "[-- %s/%s is unsupported "
+msgstr "[-- %s/%s རྒྱབ་སྐྱོར་བྱས་མེད།"
+
+msgid "[-- Attachment #%d"
+msgstr "[-- ཞར་བྱུང་ #%d"
+
+msgid "[-- Autoview stderr of %s --]\n"
+msgstr ""
+"[-- རང་འགུལ་གྱིས་འཆར་བའི %s "
+"ཚད་གཞིའི་ནོར་འཁྲུལ(stderr)ཡི་ནང་དོན་དུ་ཕྱིར་འདྲེན་བྱེད་པ། --]\n"
+
+msgid "[-- Autoview using %s --]\n"
+msgstr "[--  %s སྤྱད་ནས་རང་འགུལ་གྱིས་འཆར་བ --]\n"
+
+msgid "[-- BEGIN PGP PUBLIC KEY BLOCK --]\n"
+msgstr ""
+"[-- PGP སྤྱིའི་ལྡེ་མིག་ཁུལ་གྱི་ཁུལ་དུམ་འགོ་རྩོམ་པ། --]\n"
+"\""
+
+msgid "[-- Begin signature information --]\n"
+msgstr "[-- ང་རྟགས་བཀོད་པའི་ཆ་འཕྲིན་མགོ་བརྩམས་པ --]\n"
+
+msgid "[-- Can't run %s. --]\n"
+msgstr "[-- འཁོར་སྐྱོད་བྱེད་ཐབས་མེད་པ %s --]\n"
+
+msgid "[-- END PGP MESSAGE --]\n"
+msgstr "[-- PGP བརྡ་འཕྲིན་མཇུག་རྫོགས། --]\n"
+
+msgid "[-- END PGP PUBLIC KEY BLOCK --]\n"
+msgstr "[-- PGP སྤྱིའི་ལྡེ་མིག་ཁུལ་གྱི་ཁུལ་དུམ་མཇུག་རྫོགས་པ། --]\n"
+
+msgid "[-- END PGP SIGNED MESSAGE --]\n"
+msgstr "[-- PGP མིང་རྟགས་བཀོད་པའི་འཕྲིན་ཡིག་མཇུག་རྫོགས་པ། --]\n"
+
+msgid "[-- End of PGP/MIME encrypted data --]\n"
+msgstr "[-- PGP/MIME གསང་སྡོམ་གཞི་གྲངས་མཇུག་སྒྲིལ།--]\n"
+
+msgid "[-- End of PGP/MIME signed and encrypted data --]\n"
+msgstr ""
+"[-- PGP/MIME མིང་རྟགས་བཀོད་པ་མ་ཟད་གསང་སྡོམ་བྱས་པའི་གཞི་གྲངས་མཇུག་སྒྲིལ། "
+"--]\n"
+
+msgid "[-- End of S/MIME encrypted data --]\n"
+msgstr "[-- S/MIME སྡོམ་བྱས་པའི་གཞི་གྲངས་མཇུག་སྒྲིལ། --]\n"
+
+msgid "[-- End of S/MIME signed data --]\n"
+msgstr "[-- S/MIME མིང་རྟགས་བཀོད་པའི་གཞི་གྲངས་མཇུག་སྒྲིལ། --]\n"
+
+msgid "[-- Error:  Could not display any parts of Multipart/Alternative! --]\n"
+msgstr "[-- ནོར་འཁྲུལ།： Multipart/Alternative ཡི་ཆ་གང་ཡང་འཆར་ཐབས་མེད། --]\n"
+
+msgid "[-- Error: could not create temporary file! --]\n"
+msgstr "[-- ནོར་འཁྲུལ།：གནས་སྐབས་ཡིག་གསར་འཛུགས་བྱེད་ཐབས་མེད། --]\n"
+
+msgid "[-- Error: message/external-body has no access-type parameter --]\n"
+msgstr ""
+"[-- ནོར་འཁྲུལ།：message/external-body "
+"ལ་འཚམས་འདྲི་བྱེད་པའི་རིགས་རྣམ་གྱི་ཞུགས་གྲངས་མེད། --]\n"
+
+msgid "[-- Error: unable to create OpenSSL subprocess! --]\n"
+msgstr "[-- ནོར་འཁྲུལ། OpenSSLཡི་བུ་འཕེལ་རིམ་གསར་འཛུགས་བྱེད་ཐབས་མེད། --]\n"
+
+msgid "[-- Error: unable to create PGP subprocess! --]\n"
+msgstr "[-- ནོར་འཁྲུལ། PGP ཡི་བུ་འཕེལ་རིམ་གསར་འཛུགས་བྱེད་ཐབས་མེད། --]\n"
+
+msgid "[-- The following data is S/MIME encrypted --]\n"
+msgstr "[-- གཤམ་གྱི་གཞི་གྲངས S/MIME ཡིས་གསང་སྡོམ་བྱས་ཟིན། --]\n"
+
+msgid "[-- The following data is S/MIME signed --]\n"
+msgstr "[-- གཤམ་གྱི་གཞི་གྲངས  S/MIME ཡིས་མིང་རྟགས་བཀོད་ཟིན། --]\n"
+
+msgid "[-- This %s/%s attachment "
+msgstr "[-- %s/%s  ཞར་བྱུང་འདི"
+
+msgid "[-- This %s/%s attachment is not included, --]\n"
+msgstr "[-- %s/%s ཞར་བྱུང་འདི་འདུས་མེད། --]\n"
+
+msgid "[-- This is an attachment "
+msgstr "[-- འདི་ཞར་བྱུང་ཞིག་ཡིན།"
+
+msgid "[-- Type: %s/%s, Encoding: %s, Size: %s --]\n"
+msgstr "[-- རྣམ་པ།:  %s/%s, ཨང་སྒྲིག: %s, ཆེ་ཆུང་།: %s --]\n"
+
+msgid "[-- and the indicated access-type %s is unsupported --]\n"
+msgstr ""
+"[-- དེས་གསལ་བཤད་བྱས་པའི་བཅར་འདྲིའི་རིགས་རྣམ %s ལ་རྒྱབ་སྐྱོབ་མི་བྱེད། --]\n"
+
+msgid "[-- name: %s --]\n"
+msgstr "[-- མིང་།：%s --]\n"
+
+msgid "[-- on %s --]\n"
+msgstr "[-- ཡོད། %s --]\n"
+
+msgid "[Can't display this user ID (invalid DN)]"
+msgstr "[སྤྱོད་མཁན ID འཆར་ཐབས་མེད། (ནུས་མེད། DN)]"
+
+msgid "[Can't display this user ID (invalid encoding)]"
+msgstr "[སྤྱོད་མཁན ID འཆར་ཐབས་མེད། (། (ནུས་མེད་ཨང་སྒྲིག)]"
+
+msgid "[Can't display this user ID (unknown encoding)]"
+msgstr "[སྤྱོད་མཁན ID འཆར་ཐབས་མེད། ((ངེས་མེད་ཨང་སྒྲིག)]"
+
+msgid "[Disabled]"
+msgstr "[འགོག་སྤྱོད་བྱས་ཟིན།]"
+
+msgid "[Expired]"
+msgstr "[དུས་ཡོལ་ཟིན།]"
+
+msgid "[Invalid]"
+msgstr "[ནུས་མེད།]"
+
+msgid "[Revoked]"
+msgstr "[ཕྱིར་བསྡུས་ཟིན།]"
+
+msgid "[invalid date]"
+msgstr "[ནུས་མེད་ཚེས་གྲངས།]"
+
+msgid "[unable to calculate]"
+msgstr "[རྩིས་ཐབས་མེད།]"
+
+msgid "aka: "
+msgstr "དེ་ཡང་།："
+
+msgid "alias: no address"
+msgstr "མིང་གཞན།：སྦྲག་གནས་མེད་པ།"
+
+msgid "ambiguous specification of secret key `%s'\n"
+msgstr "གསང་ལྡེ`%s'ཡི་གསལ་བཤད་ལ་གོ་དོན་མི་འདྲ་བ་ཡོད།\n"
+
+msgid "append new query results to current results"
+msgstr "འདྲི་རྩད་གསར་བའི་འབྲས་བུ་མིག་སྔའི་འབྲས་བུ་རུ་ཟུར་སྣོན་བྱེད་པ།"
+
+msgid "apply next function ONLY to tagged messages"
+msgstr "རྟགས་རྒྱབ་ཟིན་པའི་ཆ་འཕྲིན་ལ་བྱེད་ནུས་ཤིག་སྤྱོད་པ།"
+
+msgid "apply next function to tagged messages"
+msgstr "རྟགས་རྒྱབ་ཟིན་པའི་ཆ་འཕྲིན་ལ་བྱེད་ནུས་ཤིག་སྤྱོད་པ།"
+
+msgid "attach a PGP public key"
+msgstr "PGP སྤྱི་ལྡེ་ཟུར་སྣོན་བྱེད་པ།"
+
+msgid "attach file(s) to this message"
+msgstr "ཡིག་ཆ་དེ་འཕྲིན་ཡིག་འདིར་ཟུར་སྣོན་བྱས་ནས་ཞར་བྱུང་བྱེད་པ།"
+
+msgid "attach message(s) to this message"
+msgstr "འཕྲིན་ཡིག་དེ་འཕྲིན་ཡིག་འདིར་ཟུར་སྣོན་བྱས་ནས་ཞར་བྱུང་བྱེད་པ།"
+
+msgid "attachments: invalid disposition"
+msgstr "ཞར་བྱུང་།：ནུས་མེད་ཀྱི་ཐག་གཅོད་བྱ་སྟངས།"
+
+msgid "attachments: no disposition"
+msgstr "ཞར་བྱུང་།：ཐག་གཅོད་བྱ་སྟངས་མེད་པ།"
+
+msgid "bind: too many arguments"
+msgstr "bind：ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "break the thread in two"
+msgstr "ཁུངས་སྣེ་གཉིས་སུ་བགོ་བ།"
+
+msgid "cannot get certificate common name"
+msgstr "དཔང་ཡིག་གི་ཀུན་སྤྱོད་མིང་ཐོབ་ཐབས་མེད།"
+
+msgid "cannot get certificate subject"
+msgstr "དཔང་ཡིག་གི་ཁ་བྱང་ཐོབ་ཐབས་མེད།"
+
+msgid "capitalize the word"
+msgstr "ཐ་སྙད་ཀྱི་ཐོག་མའི་གསལ་བྱེད་དེ་ཡིག་ཆེན་ལ་བསྒྱུར་བ།"
+
+msgid "certification"
+msgstr "དཔང་ཡིག"
+
+msgid "change directories"
+msgstr "དཀར་ཆག་བསྒྱུར་བ།"
+
+msgid "check for classic PGP"
+msgstr "ཚད་ལྡན PGPཞིབ་བཤེར།"
+
+msgid "check mailboxes for new mail"
+msgstr "ཡིག་སྒམ་ནང་འཕྲིན་ཡིག་གསར་པ་ཡོད་མེད་ཞིབ་བཤེར་བྱེད་པ།"
+
+msgid "clear a status flag from a message"
+msgstr "འཕྲིན་ཡིག་ཅིག་སྟེང་གི་རྣམ་པའི་རྟགས་མཚན་གཙང་སེལ་བྱེད་པ།"
+
+msgid "clear and redraw the screen"
+msgstr "བརྙན་ཡོལ་གཙང་སེལ་དང་བསྐྱར་བཟོ་བྱེད་པ།"
+
+msgid "collapse/uncollapse all threads"
+msgstr "ལྟེབ་བརྩེགས།/འགྲེམ་པ།  ཁུངས་སྣེ་ཚང་མ།"
+
+msgid "collapse/uncollapse current thread"
+msgstr "ལྟེབ་བརྩེགས།/འགྲེམ་པ། མིག་སྔའི་ཁུངས་སྣེ།"
+
+msgid "color: too few arguments"
+msgstr "ཚོས་གཞི།：ཞུགས་གྲངས་ཉུང་དྲགས།"
+
+msgid "complete address with query"
+msgstr "ས་གནས་ཁ་གསབ་འདྲི་རྩད་བྱེད་པ།"
+
+msgid "complete filename or alias"
+msgstr "ཡིག་ཆའི་མིང་ཁ་གསབ་དང་ཡང་ན་མིང་གཞན།"
+
+msgid "compose a new mail message"
+msgstr "འཕྲིན་ཡིག་ཆ་འཕྲིན་གསར་པ་འབྲི་བ།"
+
+msgid "compose new attachment using mailcap entry"
+msgstr "Mailcapས་བཅད་སྤྱད་ནས་ཟུར་ཞར་བྱུང་གསར་པ་འབྲི་བ།"
+
+msgid "convert the word to lower case"
+msgstr "ཐ་སྙད་ཡིག་ཆུང་དུ་བསྒྱུར་བ།"
+
+msgid "convert the word to upper case"
+msgstr "ཐ་སྙད་ཡིག་ཆེན་དུ་བསྒྱུར་བ།"
+
+msgid "converting"
+msgstr "ད་ལྟ་བརྗེ་བཞིན་པ།"
+
+msgid "copy a message to a file/mailbox"
+msgstr "འཕྲིན་ཡིག་ཅིག་ཡིག་ཆ/ཡིག་སྒམ་དུ་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "could not create temporary folder: %s"
+msgstr "གནས་སྐབས་ཀྱི་ཡིག་ཁུག་འཛུགས་ཐབས་མེད།：%s"
+
+msgid "could not truncate temporary mail folder: %s"
+msgstr "གནས་སྐབས་ཀྱི་སྦྲག་ཁུག་གཏུབ་ཐབས་མེད།:%s"
+
+msgid "could not write temporary mail folder: %s"
+msgstr "གནས་སྐབས་ཀྱི་སྦྲག་ཁུག་འཛུགས་ཐབས་མེད།:%s"
+
+msgid "create a new mailbox (IMAP only)"
+msgstr "ཡིག་སྒམ་གསར་བ་འཛུགས་པ། ( IMAPཁོ་ན་སྤྱོད་པར་འཚམས།)"
+
+msgid "create an alias from a message sender"
+msgstr "འཕྲིན་ཡིག་གི་སྐུར་མཁན་ནས་མིང་གཞན་གསར་འཛུག་བྱེད་པ།"
+
+msgid "created: "
+msgstr "བཙུགས་ཟིན།："
+
+msgid "cycle among incoming mailboxes"
+msgstr "འཕྲིན་ཡིག་འབྱོར་བའི་ཡིག་སྒམ་དུ་རྒྱུན་འཁོར་སྐྱོད་གདམ་གསེས་བྱེད་པ།"
+
+msgid "dazn"
+msgstr "dazn"
+
+msgid "default colors not supported"
+msgstr "སོར་བཞག་གི་ཁ་དོག་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "delete all chars on the line"
+msgstr "བསྟར་པ་འདིའི་ཡིག་རྟགས་ཡོད་ཚད་བསུབ་པ།"
+
+msgid "delete all messages in subthread"
+msgstr "བུ་ཁུངས་སྣེ་ནང་གི་འཕྲིན་ཡིག་ཡོད་ཚད་བསུབ་པ།"
+
+msgid "delete all messages in thread"
+msgstr "ཁུངས་སྣེ་ནང་གི་འཕྲིན་ཡིག་ཡོད་ཚད་བསུབ་པ།"
+
+msgid "delete chars from cursor to end of line"
+msgstr "འོད་རྟགས་གནས་ས་ནས་བསྟར་མཇུག་བར་གྱི་ཡིག་རྟགས་བསུབ་པ།"
+
+msgid "delete chars from the cursor to the end of the word"
+msgstr "འོད་རྟགས་གནས་ས་ནས་ཐ་སྙད་མཇུག་མ་བར་གྱི་ཡིག་རྟགས་བསུབ་པ།"
+
+msgid "delete message"
+msgstr "འཕྲིན་ཡིག་བསུབ་པ།"
+
+msgid "delete message(s)"
+msgstr "འཕྲིན་ཡིག་བསུབ་པ།"
+
+msgid "delete messages matching a pattern"
+msgstr "རྣམ་པ་ག་གེ་མོ་ཞིག་དང་མཐུན་པའི་འཕྲིན་ཡིག་བསུབ་པ།"
+
+msgid "delete the char in front of the cursor"
+msgstr "འོད་རྟགས་གནས་སའི་སྔོན་གྱི་གསལ་བྱེད་བསུབ་པ།"
+
+msgid "delete the char under the cursor"
+msgstr "འོད་རྟགས་འོག་གི་གསལ་བྱེད་བསུབ་པ།"
+
+msgid "delete the current entry"
+msgstr "མིག་སྔའི་དོན་ཚན་བསུབ་པ།"
+
+msgid "delete the current mailbox (IMAP only)"
+msgstr "མིག་སྔའི་ཡིག་སྒམ་བསུབ་པ། ( IMAPཁོ་ན་སྤྱོད་པར་འཚམས།)"
+
+msgid "delete the word in front of the cursor"
+msgstr "འོད་རྟགས་གནས་སའི་སྔོན་གྱི་ཚིག་བསུབ་པ།"
+
+msgid "display a message"
+msgstr "འཕྲིན་ཡིག་མངོན་པ།"
+
+msgid "display full address of sender"
+msgstr "འཕྲིན་སྐུར་མཁན་གྱི་ཤག་གནས་ཆ་ཚང་མངོན་པ།"
+
+msgid "display message and toggle header weeding"
+msgstr "འཕྲིན་ཡིག་མངོན་པ་མ་ཟད་རྟགས་མགོ་བརྗེ་བའི་དཔྱད་ཡིག་གི་ནང་དོན་ཡང་འཆར་བ།"
+
+msgid "display the currently selected file's name"
+msgstr "མིག་སྔར་བདམས་པའི་ཡིག་ཆའི་མིང་མངོན་པ།"
+
+msgid "display the keycode for a key press"
+msgstr "མཐེབ་གནོན་གྱི་མཐེབ་ཨང་འཆར་བ།"
+
+msgid "edit attachment content type"
+msgstr "ཞར་བྱུང་ནང་དོན་གྱི་རིགས་རྣམ་རྩོམ་སྒྲིག"
+
+msgid "edit attachment description"
+msgstr "ཞར་བྱུང་གསལ་བཤད་རྩོམ་སྒྲིག"
+
+msgid "edit attachment transfer-encoding"
+msgstr "ཞར་བྱུང་གི་བརྒྱུད་གཏོང་ཨང་སྒྲིག་རྩོམ་སྒྲིག"
+
+msgid "edit attachment using mailcap entry"
+msgstr "Mmilcapས་བཅད་སྤྱད་ནས་ཞར་བྱུང་རྩོམ་སྒྲིག་བྱེད་པ།"
+
+msgid "edit message"
+msgstr "འཕྲིན་ཡིག་རྩོམ་སྒྲིག"
+
+msgid "edit the BCC list"
+msgstr "གསང་ཡིག་བཤུས་འབུལ(BCC)རེའུ་མིག་རྩོམ་སྒྲིག"
+
+msgid "edit the CC list"
+msgstr "བཤུས་འབུལ(CC)རེའུ་མིག་རྩོམ་སྒྲིག"
+
+msgid "edit the Reply-To field"
+msgstr "Reply-To སྡེ་གནས་རྩོམ་སྒྲིག"
+
+msgid "edit the TO list"
+msgstr "TO རེའུ་མིག་རྩོམ་སྒྲིག"
+
+msgid "edit the file to be attached"
+msgstr "ཞར་བྱུང་ཡིག་ཆ་རྩོམ་སྒྲིག"
+
+msgid "edit the from field"
+msgstr "འཕྲིག་སྐུར་མཁན་གྱི་ཁུལ་རྩོམ་སྒྲིག"
+
+msgid "edit the message"
+msgstr "འཕྲིན་ཡིག་རྩོམ་སྒྲིག"
+
+msgid "edit the message with headers"
+msgstr "རྟགས་མགོ་ཡོད་པའི་འཕྲིན་ཡིག་རྩོམ་སྒྲིག"
+
+msgid "edit the raw message"
+msgstr "གདོད་མའི་འཕྲིན་ཡིག་རྩོམ་སྒྲིག"
+
+msgid "edit the subject of this message"
+msgstr "འཕྲིན་ཡིག་འདིའི་ཁ་བྱང་རྩོམ་སྒྲིག"
+
+msgid "empty pattern"
+msgstr "སྟོང་རྣམ།"
+
+msgid "encryption"
+msgstr "གསང་སྡོམ།"
+
+msgid "end of conditional execution (noop)"
+msgstr "ཆ་རྐྱེན་འཁོར་སྐྱོད་མཇུག་རྫོགས། (བཀོལ་སྤྱོད་མེད།)"
+
+msgid "enter a file mask"
+msgstr "ཡིག་ཆའི་གབ་ཨང་ནང་འཇུག"
+
+msgid "enter a file to save a copy of this message in"
+msgstr "འཕྲིན་ཡིག་འདིའི་བུ་དཔེ་ཉར་ཚགས་བྱེད་པར་སྤྱོད་པའི་མིང་ནང་འཇུག་བྱ་རོགས།"
+
+msgid "enter a muttrc command"
+msgstr " muttrc བཀའ་བརྡ་ཞིག་ནང་འཇུག་བྱ་རོགས།"
+
+msgid "error adding recipient `%s': %s\n"
+msgstr "ལེན་མཁན`%s'ཁ་སྣོན་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "error allocating data object: %s\n"
+msgstr "གཞི་གྲངས་ཡུལ་བགོ་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "error creating gpgme context: %s\n"
+msgstr " gpgme གོང་འོག་ཡིག་ཆ་གསར་འཛུགས་བྱས་པ་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "error creating gpgme data object: %s\n"
+msgstr " gpgme གཞི་གྲངས་ཡུལ་གསར་འཛུགས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "error enabling CMS protocol: %s\n"
+msgstr " CMS གྲོས་ཆིངས་ཁ་ཕྱེ་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "error encrypting data: %s\n"
+msgstr ""
+"གཞི་གྲངས་གསང་སྡོམ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+"\""
+
+msgid "error in expression"
+msgstr "མཚོན་ཚུལ་ལ་ནོར་འཁྲུལ་ཡོད།"
+
+msgid "error in pattern at: %s"
+msgstr "རྣམ་པ་ལནོར་འཁྲུལ་ཡོད།%s"
+
+msgid "error reading data object: %s\n"
+msgstr ""
+"གཞི་གྲངས་ཡུལ་ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+"\""
+
+msgid "error rewinding data object: %s\n"
+msgstr ""
+"གཞི་གྲངས་ཡུལ་གྲིལ་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+"\""
+
+msgid "error setting PKA signature notation: %s\n"
+msgstr ""
+"སྤྱི་ལྡེ་ར་སྤྲོད། (PKA)མིང་རྟགས་མཆན་འགྲེལ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "error setting secret key `%s': %s\n"
+msgstr "གསང་ལྡེ`%s'སྒྲིག་འགོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "error signing data: %s\n"
+msgstr "གཞི་གྲངས་ལ་མིང་རྟགས་འགོད་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "error: unknown op %d (report this error)."
+msgstr ""
+"ནོར་འཁྲུལ།：ངེས་མེད་བཀོལ་སྤྱོད། (op) %d། (ནོར་འཁྲུལ་འདི་ཡར་ཞུ་བྱ་རོགས།)"
+
+msgid "exec: no arguments"
+msgstr "exec：ཞུགས་གྲངས་མེད།"
+
+msgid "execute a macro"
+msgstr "རགས་ལག་བསྟར།"
+
+msgid "exit this menu"
+msgstr "འདེམས་བྱང་འདི་ནས་ཕྱིར་འབུད་པ།"
+
+msgid "extract supported public keys"
+msgstr "རྒྱབ་སྐྱོར་ཡོད་པའི་སྤྱི་ལྡེ་བླངས་པ།"
+
+msgid "filter attachment through a shell command"
+msgstr "shell བཀའ་བརྡ་བརྟོལ་ནས་ཞར་བྱུང་འཚག་རྒྱག་པ།"
+
+msgid "flag message"
+msgstr "རྟགས་བཀོད་འཕྲིན་ཡིག"
+
+msgid "force retrieval of mail from IMAP server"
+msgstr "བཙན་ཤུགས་ཀྱིས IMAP ཞབས་ཞུ་ཆས་ནས་སྦྲག་ཡིག་ཕྱིར་ལེན་པ།"
+
+msgid "force viewing of attachment using mailcap"
+msgstr "བཙན་དབང་གིས mailcap སྤྱད་ནས་ཞར་བྱུང་ལྟ་ཞིབ་བྱེད་པ།"
+
+msgid "format error"
+msgstr "རྣམ་གཞག་ནོར་འཁྲུལ།"
+
+msgid "forward a message with comments"
+msgstr "འཕྲིན་ཡིག་བརྒྱུད་སྐུར་དང་མཆན་འགྲེལ།"
+
+msgid "get a temporary copy of an attachment"
+msgstr "ཞར་བྱུང་ཐོབ་པའི་གནས་སྐབས་བུ་དཔེ།"
+
+msgid "gpgme_new failed: %s"
+msgstr "gpgme_new ཕམ་པ：%s"
+
+msgid "gpgme_op_keylist_next failed: %s"
+msgstr "gpgme_op_keylist_next ཕམ་པ།：%s"
+
+msgid "gpgme_op_keylist_start failed: %s"
+msgstr "gpgme_op_keylist_start ཕམ་པ།：%s"
+
+msgid "has been deleted --]\n"
+msgstr "བསུབ་ཟིན་པ་རེད།--]\n"
+
+msgid "imap_sync_mailbox: EXPUNGE failed"
+msgstr "imap_sync_mailbox: EXPUNGE(སུབ་པ་ལག་བསྟར།)ཕམ་པ།"
+
+msgid "invalid header field"
+msgstr "ནུས་མེད་ཀྱི་རྟགས་མགོ་ཁུལ།"
+
+msgid "invoke a command in a subshell"
+msgstr " subshell ནང་ནས་བཀའ་བརྡ་འདོན་སྤྱོད་བྱེད་པ།"
+
+msgid "jump to an index number"
+msgstr "གསལ་བང་ཨང་རྟགས་སུ་མཆོང་བ།"
+
+msgid "jump to parent message in thread"
+msgstr "ཁུངས་སྣེ་འདིའི་ནང་གི་མའི་འཕྲིན་ཡིག་ཏུ་མཆོང་བ།"
+
+msgid "jump to previous subthread"
+msgstr "བུའི་ཁུངས་སྣེ་གོང་མ་རུ་མཆོང་བ།"
+
+msgid "jump to previous thread"
+msgstr "ཁུངས་སྣེ་གོང་མ་རུ་མཆོང་བ།"
+
+msgid "jump to the beginning of the line"
+msgstr "ཕྲེང་ཐོག་མ་རུ་འཆོང་བ།"
+
+msgid "jump to the bottom of the message"
+msgstr "འཕྲིན་ཡིག་གི་ཞབས་སྣེ་རུ་འཆོང་བ།"
+
+msgid "jump to the end of the line"
+msgstr "མཇུག་ཕྲེང་དུ་འཆོང་བ།"
+
+msgid "jump to the next new message"
+msgstr "འཕྲིན་ཡིག་གསར་པ་རྗེས་མ་རུ་འཆོང་བ།"
+
+msgid "jump to the next new or unread message"
+msgstr "གསར་པའམ་བཀླག་མེད་པའི་འཕྲིན་ཡིག་རྗེས་མ་རུ་མཆོང་བ།"
+
+msgid "jump to the next subthread"
+msgstr "བུ་ཁུངས་སྣེ་རྗེས་མ་རུ་མཆོང་བ།"
+
+msgid "jump to the next thread"
+msgstr "ཁུངས་སྣེ་རྗེས་མ་རུ་མཆོང་བ།"
+
+msgid "jump to the next unread message"
+msgstr "བཀླག་མེད་པའི་འཕྲིན་ཡིག་རྗེས་མ་རུ་མཆོང་བ།"
+
+msgid "jump to the previous new message"
+msgstr "འཕྲིན་ཡིག་གསར་པ་གོང་མ་རུ་མཆོང་བ།"
+
+msgid "jump to the previous new or unread message"
+msgstr "གསར་པའམ་བཀླག་མེད་པའི་འཕྲིན་ཡིག་གོང་མ་རུ་མཆོང་བ།"
+
+msgid "jump to the previous unread message"
+msgstr "བཀླག་མེད་པའི་འཕྲིན་ཡིག་གོང་མ་རུ་མཆོང་བ།"
+
+msgid "jump to the top of the message"
+msgstr "འཕྲིན་ཡིག་གི་རྩེ་སྣེ་རུ་མཆོང་བ།"
+
+msgid "keys matching"
+msgstr "གསང་ལྡེ་ཟླ་སྒྲིག"
+
+msgid "link tagged message to the current one"
+msgstr "རྟགས་བཤོད་ཟིན་པའི་འཕྲིན་ཡིག་དེ་མིག་སྔའི་འཕྲིན་ཡིག་ལ་མཐུད་པ།"
+
+msgid "link threads"
+msgstr "ཁུངས་སྣེ་སྦྲེལ་མཐུད།"
+
+msgid "list mailboxes with new mail"
+msgstr "སྦྲགས་ཡིག་གསར་བ་ཡོད་པའི་ཡིག་སྒམ་བཀོད་པ།"
+
+msgid "macro: empty key sequence"
+msgstr "macro：མཐེབ་ཐང་ཨང་རིམ་སྟོང་པ།"
+
+msgid "macro: too many arguments"
+msgstr "macroཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "mail a PGP public key"
+msgstr " PGP སྤྱི་ལྡེ་སྦྲག་བསྐུར།"
+
+msgid "mailcap entry for type %s not found"
+msgstr "རིགས་རྣམ་ %s ཡི་ mailcap ཟིན་ཐོ་རྙེད་མེད།"
+
+msgid "maildir_commit_message(): unable to set time on file"
+msgstr "maildir_commit_message(): ཡིག་ཆ་ལ་དུས་ཚོད་སྒྲིག་བཀོད་བྱེད་ཐབས་མེད།"
+
+msgid "make decoded (text/plain) copy"
+msgstr "ཨང་གྲོལ་ཟིན་པའི་(text/plain)བུ་དཔེ་བཟོ་བ།"
+
+msgid "make decoded copy (text/plain) and delete"
+msgstr "ཨང་གྲོལ་ཟིན་པའི་བུ་དཔེ་(text/plain)བཟོ་བ་མ་ཟད་དེ་བསུབ་པ།"
+
+msgid "make decrypted copy"
+msgstr "གསང་འགྲོལ་གྱི་བུ་དཔེ་བཟོ་བ།"
+
+msgid "make decrypted copy and delete"
+msgstr "གསང་འགྲོལ་གྱི་བུ་དཔེ་བཟོ་བ་མ་ཟད་དེ་བསུབ་པ།"
+
+msgid "mark message(s) as read"
+msgstr "འཕྲིན་ཡིག་བཀླག་ཟིན་པར་རྟགས་བཀོད་པ།"
+
+msgid "mark the current subthread as read"
+msgstr "མིག་སྔའི་བུ་ཁུངས་སྣེ་བཀླག་ཟིན་པར་རྟགས་བཀོད་པ།"
+
+msgid "mark the current thread as read"
+msgstr "མིག་སྔའི་ཁུངས་སྣེ་བཀླག་ཟིན་པར་རྟགས་བཀོད་པ།"
+
+msgid "mismatched brackets: %s"
+msgstr "ཟླ་སྒྲིག་མིན་པའི་གུག་རྟགས།：%s"
+
+msgid "mismatched parenthesis: %s"
+msgstr "ཟླ་སྒྲིག་མིན་པའི་སྒོར་དབྱིབས་གུག་རྟགས།：%s\""
+
+msgid "missing filename.\n"
+msgstr "ཡིག་ཆའི་མིང་ཆད་པ།\n"
+
+msgid "missing parameter"
+msgstr "ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "mono: too few arguments"
+msgstr "རྐྱང་མདོག：ཞུགས་གྲངས་ཉུང་དྲགས།"
+
+msgid "move entry to bottom of screen"
+msgstr "ས་བཅད་བརྙན་ཡོལ་གྱི་ཞབས་སྣེ་རུ་སྒུལ་སྤོ་བྱེད་པ།"
+
+msgid "move entry to middle of screen"
+msgstr "ས་བཅད་བརྙན་ཡོལ་གྱི་དཀྱིལ་དུ་་སྒུལ་སྤོ་བྱེད་པ།"
+
+msgid "move entry to top of screen"
+msgstr "ས་བཅད་བརྙན་ཡོལ་གྱི་རྩེ་སྣེ་རུ་སྒུལ་སྤོ་བྱེད་པ།"
+
+msgid "move the cursor one character to the left"
+msgstr "འོད་རྟགས་གཡོན་ཕྱོགས་སུ་ཡིག་རྟགས་གཅིག་སྤོ་བ།"
+
+msgid "move the cursor one character to the right"
+msgstr "འོད་རྟགས་གཡས་ཕྱོགས་སུ་ཡིག་རྟགས་གཅིག་སྤོ་བ།"
+
+msgid "move the cursor to the beginning of the word"
+msgstr "འོད་རྟགས་ཐ་སྙད་ཀྱི་མགོ་ལ་སྤོ་བ།"
+
+msgid "move the cursor to the end of the word"
+msgstr "འོད་རྟགས་ཐ་སྙད་ཀྱི་མཇུག་ཏུ་སྤོ་བ།"
+
+msgid "move to the bottom of the page"
+msgstr "དྲ་ངོས་ཀྱི་ཞབས་སྣེར་སྤོས།"
+
+msgid "move to the first entry"
+msgstr "ས་བཅད་དང་པོ་རུ་སྤོས།"
+
+msgid "move to the first message"
+msgstr "འཕྲིན་ཡིག་དང་པོ་རུ་སྤོས།"
+
+msgid "move to the last entry"
+msgstr "ཚན་པ་ཆེས་རྗེས་མ་རུ་སྤོས།"
+
+msgid "move to the last message"
+msgstr "འཕྲིན་ཡིག་ཆེས་རྗེས་མ་རུ་སྤོས།"
+
+msgid "move to the middle of the page"
+msgstr "ཤོག་ངོས་འདིའི་དཀྱིལ་དུ་སྤོས།"
+
+msgid "move to the next entry"
+msgstr "ས་བཅད་རྗེས་མ་རུ་སྤོས།"
+
+msgid "move to the next page"
+msgstr "ཤོག་ངོས་རྗེས་མ་རུ་སྤོས།"
+
+msgid "move to the next undeleted message"
+msgstr "སུབ་མེད་པའི་འཕྲིན་ཡིག་རྗེས་མ་རུ་སྤོས།"
+
+msgid "move to the previous entry"
+msgstr "ས་བཅད་གོང་མ་རུ་སྤོས།"
+
+msgid "move to the previous page"
+msgstr "ཤོག་ངོས་གོང་མ་རུ་སྤོས།"
+
+msgid "move to the previous undeleted message"
+msgstr "སུབ་མེད་པའི་འཕྲིན་ཡིག་གོང་མ་རུ་སྤོས།"
+
+msgid "move to the top of the page"
+msgstr "ཤོག་ངོས་དང་པོར་སྤོས།"
+
+msgid "multipart message has no boundary parameter!"
+msgstr "འཕྲིན་ཡིག་མང་པོ་ཞིག་ལ་མཐའ་མཚམས་ཀྱི་ཞུགས་གྲངས་མེད།"
+
+msgid "mutt_restore_default(%s): error in regexp: %s\n"
+msgstr "mutt_restore_defualt(%s)：ཚད་མཐུན་མཚོན་ཚུལ་ལ་ནོར་འཁྲུལ་ཡོད།%s\n"
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "no certfile"
+msgstr "དཔང་ཡིག་ཡིག་ཆ་མེད།"
+
+msgid "no mbox"
+msgstr "ཡིག་སྒམ་མེད།"
+
+msgid "nospam: no matching pattern"
+msgstr "གད་སྙིགས་སྦྲག་ཡིག་བསུབ་པ།：ཟླ་སྒྲིག་པའི་དཔེ་པང་མེད།"
+
+msgid "not converting"
+msgstr "བརྗེ་སྤོར་མི་བྱེད།"
+
+msgid "null key sequence"
+msgstr "སྟོང་བའི་མཐེབ་ཐང་རིམ་སྟར།"
+
+msgid "null operation"
+msgstr "བཀོལ་སྤྱོད་སྟོང་པ།"
+
+msgid "number overflow"
+msgstr "གྲངས་ཀ་ཕྱིར་འཕྱུར།"
+
+msgid "open a different folder"
+msgstr "ཡིག་ཁུག་གཞན་ཞིག་གི་ཁ་ཕྱེ་བ།"
+
+msgid "open a different folder in read only mode"
+msgstr "ཀློག་ཙམ་གྱི་རྣམ་པའི་ཐོག་ནས་ཡིག་ཁུག་གཞན་ཞིག་གི་ཁ་ཕྱེ་བ།"
+
+msgid "open next mailbox with new mail"
+msgstr "སྦྲག་ཡིག་གསར་བ་ཡོད་པའི་ཡིག་སྒམ་རྗེས་མའི་ཁ་ཕྱེ་བ།"
+
+msgid "out of arguments"
+msgstr "ཞུགས་གྲངས་མི་འདང་བ།"
+
+msgid "pipe message/attachment to a shell command"
+msgstr ""
+"བརྡ་འཕྲིན/ཞར་བྱུང་སྦུག་ལམ་རྒྱུད་ནས shell བཀའ་བརྡ་ལ་བརྒྱུད་སྤྲོད་བྱེད་པ།"
+
+msgid "prefix is illegal with reset"
+msgstr "བསྐྱར་འདོགས་ཡོད་པའི་སྔོན་འཇུག་ཁྲིམས་འགལ་ཡིན།"
+
+msgid "print the current entry"
+msgstr "མིག་སྔའི་ས་བཅད་པར་འདེབས་པ།"
+
+msgid "push: too many arguments"
+msgstr "push：ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "query external program for addresses"
+msgstr "ཕྱིའི་ལས་རིམ་ལ་གནས་ཡུལ་འཚོལ་བ།"
+
+msgid "quote the next typed key"
+msgstr "ཕྱིས་སུ་ནང་འཇུག་བྱ་བའི་མཐེབ་ལ་འདྲེན་རྟགས་སྣོན་པ།"
+
+msgid "recall a postponed message"
+msgstr "ཡང་བསྐྱར་དུས་འགྱིངས་ནས་བསྐུར་བའི་འཕྲིན་ཡིག་ཅིག་འབོད་པ།"
+
+msgid "remail a message to another user"
+msgstr "འཕྲིན་ཡིག་སྤྱོད་མཁན་གཞན་ཞིག་ལ་བརྒྱུད་སྐུར་བྱེད་པ།"
+
+msgid "rename the current mailbox (IMAP only)"
+msgstr "མིག་སྔའི་ཡིག་སྒམ་གྱི་མིང་བསྒྱུར་བ། ། ( IMAPཁོ་ནར་སྤྱོད་པ།)\""
+
+msgid "rename/move an attached file"
+msgstr "ཞར་བྱུང་ཡིག་ཆ་མིང་བསྒྱུར/སྒུལ་སྤོ།"
+
+msgid "reply to a message"
+msgstr "འཕྲིན་ཡིག་ཅིག་ཕྱིར་ཁེབས་པ།"
+
+msgid "reply to all recipients"
+msgstr "ལེན་མཁན་ཕྱིར་ཁེབས་པ།"
+
+msgid "reply to specified mailing list"
+msgstr "དམིགས་འཛུགས་བྱས་པའི་སྦྲག་ཡིག་རེའུ་མིག་ལ་ཕྱིར་ཁེབས་པ།"
+
+msgid "retrieve mail from POP server"
+msgstr " POP ཞབས་ཞུ་ཆས་ནས་འཕྲིན་ཡིག་ཕྱིར་བླངས།"
+
+msgid "run ispell on the message"
+msgstr "འཕྲིན་ཡིག་འདི་ལ ispellའཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "save changes to mailbox"
+msgstr "བཟོ་བཅོས་ཡིག་སྒམ་དུ་ཉར་ཚགས་བྱོས།"
+
+msgid "save changes to mailbox and quit"
+msgstr "བཟོ་བཅོས་ཡིག་སྒམ་དུ་ཉར་ཚགས་བྱེད་པ་མ་ཟད་ཁ་བྲལ་བ།"
+
+msgid "save message/attachment to a mailbox/file"
+msgstr "འཕྲིན་ཡིག/ཞར་བྱུང་ཡིག་སྒམ/ཡིག་ཆ་རུ་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "save this message to send later"
+msgstr "ཅུང་ཙམ་ནས་བསྐུར་བར་སྟབས་བདེ་ཡོང་ཆེད་འཕྲིན་ཡིག་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "score: too few arguments"
+msgstr "གྲངས་ཆ།：ཞུགས་གྲངས་ཉུང་དྲགས།"
+
+msgid "score: too many arguments"
+msgstr "གྲངས་ཆ།：ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "scroll down 1/2 page"
+msgstr "མར་ལ་ཤོག་ངོས་ཕྱེད་ཀ་གྲིལ་བ།"
+
+msgid "scroll down one line"
+msgstr "མར་ལ་ཕྲེང་གཅིག་གྲིལ་བ།"
+
+msgid "scroll down through the history list"
+msgstr "མར་ལ་ལོ་རྒྱུས་རེའུ་མིག་གྲིལ་བ།"
+
+msgid "scroll up 1/2 page"
+msgstr "ཡར་ལ་ཤོག་ངོས་ཕྱེད་ཀ་གྲིལ་བ།"
+
+msgid "scroll up one line"
+msgstr "ཡར་ལ་ཕྲེང་གཅིག་གྲིལ་བ།"
+
+msgid "scroll up through the history list"
+msgstr "ཡར་ལ་ལོ་རྒྱུས་རེའུ་མིག་གྲིལ་བ།"
+
+msgid "search backwards for a regular expression"
+msgstr "ཚད་མཐུན་མཚོན་པའི་ཚུལ་གྱིས་རྒྱབ་ཕྱོགས་སུ་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "search for a regular expression"
+msgstr "ཚད་མཐུན་མཚོན་པའི་ཚུལ་གྱིས་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "search for next match"
+msgstr "ཟླ་སྒྲིག་རྗེས་མ་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "search for next match in opposite direction"
+msgstr "ཟླ་སྒྲིག་རྗེས་མ་ལྡོག་ཕྱོགས་སུ་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "secret key `%s' not found: %s\n"
+msgstr ""
+"གསང་ལྡེ་རྙེད་མེད།`%s'：%s\n"
+"\""
+
+msgid "select a new file in this directory"
+msgstr "དཀར་ཆག་འདིའི་ནང་གི་ཡིག་ཆ་གསར་པ་ཞིག་འདེམས་རོགས།"
+
+msgid "select the current entry"
+msgstr "མིག་སྔའི་དོན་ཚན་འདེམ་པ།"
+
+msgid "send the message"
+msgstr "འཕྲིན་ཡིག་སྐུར་བ།"
+
+msgid "send the message through a mixmaster remailer chain"
+msgstr "mixmasterབརྒྱུད་སྐུར་བྱེད་མཁན་བརྒྱུད་ནས་འཕྲིན་ཡིག་བསྐུར་བ།"
+
+msgid "set a status flag on a message"
+msgstr "འཕྲིན་ཡིག་ག་གེ་མོ་ཞིག་གི་རྣམ་པའི་བཀོད་རྟགས་ཇུས་འབེབས་བྱེད་པ།"
+
+msgid "show MIME attachments"
+msgstr " MIME ཞར་བྱུང་འཆར་བ།"
+
+msgid "show PGP options"
+msgstr "PGPའདེམས་ཚན་མངོན་པ།"
+
+msgid "show S/MIME options"
+msgstr " S/MIME འདེམས་ཚན་མངོན་པ།"
+
+msgid "show currently active limit pattern"
+msgstr "མིག་སྔའི་སྐུལ་སློང་བྱས་པའི་ཚོད་འཛིན་རྣམ་པ་མངོན་པ།"
+
+msgid "show only messages matching a pattern"
+msgstr "རྣམ་པ་ག་གེ་མོ་ཞིག་དང་ཟླ་སྒྲིག་པའི་འཕྲིན་ཡིག་མངོན་པ།"
+
+msgid "show the Mutt version number and date"
+msgstr "Mutt ཡི་པར་གཞི་དང་ཚེས་གྲངས་མངོན་པ།"
+
+msgid "signing"
+msgstr "མིང་རྟགས་འགོད་བཞིན་པ།"
+
+msgid "skip beyond quoted text"
+msgstr "བཀོལ་སྤྱོད་ལས་མཆོང་བ།"
+
+msgid "sort messages"
+msgstr "འཕྲིན་ཡིག་རིམ་སྒྲིག"
+
+msgid "sort messages in reverse order"
+msgstr "འཕྲིན་ཡིག་ལྡོག་ཕྱོགས་རིམ་སྒྲིག"
+
+msgid "source: error at %s"
+msgstr "source：%s ལ་ནོར་འཁྲུལ་ཡོད།"
+
+msgid "source: errors in %s"
+msgstr "source：%s ནང་དུ་་ནོར་འཁྲུལ་ཡོད།"
+
+msgid "source: reading aborted due too many errors in %s"
+msgstr "source:  %s ཁྲོད་དུ་ནོར་འཁྲུལ་མང་དྲགས་པས་མཚམས་འཇོག་པ།"
+
+msgid "source: too many arguments"
+msgstr "source：ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "spam: no matching pattern"
+msgstr "གད་སྙིགས་སྦྲག་ཡིག：ཟླ་སྒྲིག་པའི་རྣམ་པ་མེད།"
+
+msgid "subscribe to current mailbox (IMAP only)"
+msgstr "མིག་སྔའི་ཡིག་སྒམ་མངག་ཉོ། (IMAPཁོ་ནར་སྤྱོད་པ།)"
+
+msgid "sync: mbox modified, but no modified messages! (report this bug)"
+msgstr ""
+"དུས་མཉམ།：ཡིག་སྒམ་ལ་བཟོ་བཅོས་བརྒྱབ་ཟིན་མོད།འོན་ཀྱང་བཟོ་བཅོས་བརྒྱབ་མ་མྱོང་བའི་འཕྲིན་ཡིག་མེད།"
+" (ནོར་འཁྲུལ་འདི་ཡར་ཞུ་བྱ་རོགས།)"
+
+msgid "tag messages matching a pattern"
+msgstr "རྣམ་ག་གེ་མོ་དང་འཚམས་པའི་འཕྲིན་ཡིག་ལ་རྟགས་བཀོད་པ།"
+
+msgid "tag the current entry"
+msgstr "མིག་སྔའི་ཚན་པ་ལ་རྟགས་བཀོད་པ།"
+
+msgid "tag the current subthread"
+msgstr "མིག་སྔའི་བུ་ཁུངས་སྣེ་ལ་རྟགས་བཀོད་པ།"
+
+msgid "tag the current thread"
+msgstr "མིག་སྔའི་ཁུངས་སྣེ་ལ་རྟགས་བཀོད་པ།"
+
+msgid "this screen"
+msgstr "བརྙན་ཡོལ་འདི།"
+
+msgid "toggle a message's 'important' flag"
+msgstr "འཕྲིན་ཡིག་གི་བཀོད་རྟགས་གལ་ཆེན་བརྗེ་བ།"
+
+msgid "toggle a message's 'new' flag"
+msgstr "འཕྲིན་ཡིག་གི་སྦྲག་ཡིག་གསར་པའི་བཀོད་རྟགས་བརྗེ་བ།"
+
+msgid "toggle display of quoted text"
+msgstr "བཀོལ་སྤྱོད་ཡིག་རྐྱང་གི་འཆར་བ་བརྗེ་བ།"
+
+msgid "toggle disposition between inline/attachment"
+msgstr "འཛུད་འཇུག/ཞར་བྱུང་བར་ནས་བརྗེ་བ།"
+
+msgid "toggle new"
+msgstr "འཕྲིན་ཡིག་གསར་བའི་བཀོད་རྟགས་བརྗེ་བ།"
+
+msgid "toggle recoding of this attachment"
+msgstr "ཞར་བྱུང་འདི་ལ་ཡང་བསྐྱར་ཨང་སྒྲིག་བྱེད་མིན་བརྗེ་བ།"
+
+msgid "toggle search pattern coloring"
+msgstr "འཚོལ་ཞིབ་རྣམ་པའི་ཁ་དོག་བརྗེ་བ།"
+
+msgid "toggle view all/subscribed mailboxes (IMAP only)"
+msgstr "ཚང་མ/མངག་ཉོ་བྱས་ཟིན་པའི་ཡིག་སྒམ་བརྗེ་རེས་ལྟ་ཞིབ། (IMAPཁོ་ནར་སྤྱོད་པ།)"
+
+msgid "toggle whether the mailbox will be rewritten"
+msgstr "ཡིག་སྒམ་ཡང་བསྐྱར་འབྲི་དགོས་མིན་བརྗེ་བ།"
+
+msgid "toggle whether to browse mailboxes or all files"
+msgstr "ཡིག་སྒམ་དང་ཡང་ན་ཡིག་ཆ་ཚང་མར་ལྟ་ཀློག་བྱེད་མིན་བརྗེ་བ།"
+
+msgid "toggle whether to delete file after sending it"
+msgstr "བསྐུར་ཟིན་རྗེས་སུབ་མིན་བརྗེ་བ།"
+
+msgid "too few arguments"
+msgstr "ཞུགས་གྲངས་ཉུང་དྲགས།"
+
+msgid "too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "transpose character under cursor with previous"
+msgstr "འོད་རྟགས་གནས་སའི་ཡིག་རྟགས་དང་དེའི་མདུན་གྱི་ཡིག་རྟགས་མགོ་མཇུག་སློག་པ།"
+
+msgid "unable to determine home directory"
+msgstr "homeདཀར་ཆག་གཏན་འཁེལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "unable to determine username"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་གཏན་འཁེལ་བྱེད་ཐབས་མེད།"
+
+msgid "unattachments: invalid disposition"
+msgstr "ཞར་བྱུང་དོར་བ།：ནུས་མེད་ཀྱི་ཐག་གཅོད་བྱ་ཐབས།"
+
+msgid "unattachments: no disposition"
+msgstr "ཞར་བྱུང་དོར་བ།：ཐག་གཅོད་བྱ་ཐབས་མེད།"
+
+msgid "undelete all messages in subthread"
+msgstr "བུ་ཁུངས་སྣེ་ནང་གི་འཕྲིན་ཡིག་ཚང་མ་ལྡོག་སུབ་བྱེད་པ།"
+
+msgid "undelete all messages in thread"
+msgstr "ཁུངས་སྣེ་ནང་གི་འཕྲིན་ཡིག་ཚང་མ་ལྡོག་སུབ་བྱེད་པ།"
+
+msgid "undelete message"
+msgstr "འཕྲིན་ཡིག་ལྡོག་སུབ་བྱེད་པ།"
+
+msgid "undelete message(s)"
+msgstr "འཕྲིན་ཡིག་ལྡོག་སུབ་བྱེད་པ།"
+
+msgid "undelete messages matching a pattern"
+msgstr "རྣམ་པ་ག་གེ་མོ་ཞིག་དང་འཚམས་པའི་འཕྲིན་ཡིག་ལྡོག་སུབ་བྱེད་པ།"
+
+msgid "undelete the current entry"
+msgstr "མིག་སྔའི་དོན་ཚན་ལྡོག་སུབ་བྱེད་པ།"
+
+msgid "unhook: Can't delete a %s from within a %s."
+msgstr "unhook: %2$s ནང་ནས %1$s  སུབ་ཐབས་མེད།"
+
+msgid "unhook: Can't do unhook * from within a hook."
+msgstr "unhook: ལྕགས་ཀྱུ་གཅིག་གི་ནང་དུ unhook * བཀོལ་སྤྱོད་བྱ་ཐབས་མེད།"
+
+msgid "unhook: unknown hook type: %s"
+msgstr "unhook：ངེས་མེད་ལྕགས་ཀྱུའི་རིགས་རྣམ：%s"
+
+msgid "unknown error"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ།"
+
+msgid "unsubscribe from current mailbox (IMAP only)"
+msgstr "མིག་སྔའི་ཡིག་སྒམ་མངག་ཉོ་བྱེད་པ་དོར་བ།(IMAPཁོ་ནར་སྤྱོད་པ།)"
+
+msgid "untag messages matching a pattern"
+msgstr "རྣམ་པ་ག་གེ་མོ་ཞིག་དང་འཚམས་པའི་འཕྲིན་ཡིག་ལྡོག་རྟགས་རྒྱག་པ།"
+
+msgid "update an attachment's encoding info"
+msgstr "ཞར་བྱུང་གི་ཨང་སྒྲིག་ཆ་འཕྲིན་གསར་སྒྱུར་བྱེད་པ།"
+
+msgid "use the current message as a template for a new one"
+msgstr "མིག་སྔའི་འཕྲིན་ཡིག་དེ་འཕྲིན་ཡིག་གསར་པའི་དཔེ་པང་བྱེད་པ།"
+
+msgid "value is illegal with reset"
+msgstr "བསྐྱར་འཇོག་ཡོད་པའི་གྲངས་ཐང་ནི་ཁྲིམས་འགལ་ཡིན།"
+
+msgid "verify a PGP public key"
+msgstr "PGPསྤྱི་ལྡེ་ར་སྤྲོད་བྱེད་པ།"
+
+msgid "view attachment as text"
+msgstr "ཡིག་རྐྱང་གི་ངོས་ནས་ཞར་བྱུང་ལྟ་ཞིབ་བྱེད་པ།"
+
+msgid "view attachment using mailcap entry if necessary"
+msgstr "གལ་ཏེ་དགོས་བ་ཡོད་ན mailcap དོན་ཚན་སྤྱད་ནས་ཞར་བྱུང་ལྟ་ཀློག་བྱོས།"
+
+msgid "view file"
+msgstr "ཡིག་ཆ་ལྟ་ཞིབ།"
+
+msgid "view the key's user id"
+msgstr "གསང་ལྡེའི་སྤྱོད་མཁན id ལྟ་ཞིབ།"
+
+msgid "wipe passphrase(s) from memory"
+msgstr "ནང་གསོག་ནས་ཤར་བགྲོད་གསང་ལྡེ་གཙང་སེལ་བྱེད་པ།"
+
+msgid "write the message to a folder"
+msgstr "འཕྲིན་ཡིག་ཡིག་ཁུག་ཏུ་བྲིས།"
+
+msgid "yes"
+msgstr "ཡིན།"
+
+msgid "{internal}"
+msgstr "{ནང་ཆ་ཡི}"

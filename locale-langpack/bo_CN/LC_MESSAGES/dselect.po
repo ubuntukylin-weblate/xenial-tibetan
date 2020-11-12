@@ -1,0 +1,657 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " "
+msgstr "nan"
+
+msgid "  -- %d%%, press "
+msgstr "  -- %d%%，གནོན་རོགས། "
+
+msgid " (alphabetically)"
+msgstr "(གསལ་བྱེད་རེའུ་མིག་གི་རིམ་པ་ལྟར།)"
+
+msgid " (avail., priority)"
+msgstr "(སྤྱོད་རུང་དང་སྔོན་རིམ་ཡིན་མིན་ལྟར།)"
+
+msgid " (avail., section)"
+msgstr "(སྤྱོད་རུང་དང་ཁོངས་གཏོགས་རིགས་ཆེ་ཡིན་མིན་ལྟར།)"
+
+msgid " (by availability)"
+msgstr "(སྤྱོད་རུང་ཡིན་མིན་ལྟར།)"
+
+msgid " (by priority)"
+msgstr "(སྔོན་ཐོབ་རིམ་པ་ལྟར།)"
+
+msgid " (by section)"
+msgstr "(གཏོགས་པའི་རིགས་ཆེ་ལྟར།)"
+
+msgid " (by status)"
+msgstr "(རྣམ་པ་ལྟར།)"
+
+msgid " (status, priority)"
+msgstr "(རྣམ་པ་དང་སྔོན་ཐོབ་རིམ་པ་ལྟར།)"
+
+msgid " (status, section)"
+msgstr "(རྣམ་པ་དང་ཁོངས་གཏོགས་རིགས་ཆེ་ལྟར།)"
+
+msgid " does not appear to be available\n"
+msgstr " བལྟས་ན་སྤྱོད་མི་རུང་།\n"
+
+msgid " mark:+/=/- terse:v help:?"
+msgstr " མཚོན་རྟགས།：+/=/- རགས་བསྡུས:v རོགས་རམ།:?"
+
+msgid " mark:+/=/- verbose:v help:?"
+msgstr " མཚོན་རྟགས།：+/=/- ཞིབ་ཚགས:v རོགས་རམ།:?"
+
+msgid " or "
+msgstr " ཡང་ན།"
+
+msgid " terse:v help:?"
+msgstr " རགས་བསྡུས།:v རོགས་རམ།:?"
+
+msgid " verbose:v help:?"
+msgstr " ཞིབ་ཕྲ།:v རོགས་རམ།:?"
+
+msgid "%-*s %s%s%s;  %s (was: %s).  %s"
+msgstr "%-*s %s%s%s;  %s (སྔར་ན：%sཡིན།).  %s"
+
+msgid "%s %s packages"
+msgstr "%s %s མཉེན་ཆས་ཐུམ།"
+
+msgid "%s %s packages in section %s"
+msgstr " %3$s རིགས་ཆེ་རུ་ %1$s %2$s མཉེན་ཆས་ཐུམ།"
+
+msgid "%s %s packages without a section"
+msgstr "རིགས་ཆེ་ %s %s མཉེན་ཆས་ཐུམ་བསྟན་མེད།"
+
+msgid "%s for more"
+msgstr "%s མུ་མཐུད་དུ་མར་ཀློག"
+
+msgid "%s packages in section %s"
+msgstr "%2$s རིགས་ཆེ་ནང་དུ་ %1$s མཉེན་ཆས་ཐུམ།"
+
+msgid "%s packages without a section"
+msgstr "རིགས་ཆེ་ %s མཉེན་ཆས་ཐུམ་བསྟན་མེད།"
+
+msgid "%s to go back"
+msgstr "%s སྔར་གྱི་གནས་སར་མཆོང་ཆོག"
+
+msgid "<standard error>"
+msgstr "<ཚད་ལྡན་ནོར་འཁྲུལ།>"
+
+msgid "<standard output>"
+msgstr "<ཚད་ལྡན་ཕྱིར་འདོན།>"
+
+msgid "?"
+msgstr "?"
+
+msgid "Abbrev."
+msgstr "བསྡུས་འབྲི།"
+
+msgid "Abort - quit without making changes"
+msgstr "བཀོལ་སྤྱོད་མཚམས་བཞག - བཟོ་བཅོས་གང་ཡང་མ་བྱས་ནས་ཕྱིར་འདོན།"
+
+msgid "Access method '%s'."
+msgstr "སྒྲིག་འཇུག་བྱེད་ཐབས།“%s”"
+
+msgid "All"
+msgstr "ཚང་མ།"
+
+msgid "All packages"
+msgstr "མཉེན་ཆས་ཐུམ་ཚང་མ།"
+
+msgid "Avail.ver"
+msgstr "སྤྱོད་རུང་པར་གཞི།"
+
+msgid "Available"
+msgstr "ཁོམ་པ།"
+
+msgid "Available control file information"
+msgstr "སྤྱོད་རུང་གི་ཚོད་འཛིན་ཡིག་ཆའི་ཆ་འཕྲིན།"
+
+msgid "Broken"
+msgstr "སྐྱོན་ཡོད།"
+
+msgid "Brokenly installed packages"
+msgstr "སྐྱོན་ཡོད་པའི་སྒྲིག་འཇུག་མཉེན་ཆས་ཐུམ།"
+
+msgid "Choose the access method to use."
+msgstr "སྤྱད་པའི་སྒྲིག་འཇུག་ཡོང་འབྱུང་འདེམ་པ།"
+
+msgid "Configure any packages that are unconfigured."
+msgstr "སྡེབ་སྒྲིག་མ་བྱེད་པའི་མཉེན་ཆས་ཐུམ་ཚང་མ་ལ་སྡེབ་སྒྲིག་བྱེད།"
+
+msgid "Cycle through information displays"
+msgstr "འབྲེལ་ཡོད་ཆ་འཕྲིན་འཆར་ངོས་སུ་འཁྱམ་པ།"
+
+msgid "Debian '%s' package handling frontend version %s.\n"
+msgstr "Debian “%s” མཉེན་ཆས་ཐུམ་མདུན་སྣེ %s པར་གཞི་བཀོལ་སྤྱོད།\n"
+
+msgid "Description"
+msgstr " ཞིབ་བརྗོད།"
+
+msgid "Display, part 1: package listing and status chars"
+msgstr "མངོན་པའི་ཆ་ཤས།1：མཉེན་ཆས་ཐུམ་རེའུ་མིག་དང་རྣམ་པ་མདོར་བསྡུས།"
+
+msgid "Display, part 2: list highlight; information display"
+msgstr "མངོན་པའི་ཆ་ཤས། 2：རེའུ་མིག་དཀར་ཆའི་ཆ་ཤས། འབྲེལ་ཡོད་ཆ་འཕྲིན་གྱི་མངོན་པ།"
+
+msgid "Error"
+msgstr " ནོར་འཁྲུལ།"
+
+msgid "Error: "
+msgstr "ནོར་འཁྲུལ།："
+
+msgid "Explanation"
+msgstr " འགྲེལ་བཤད།"
+
+msgid "Extra"
+msgstr "ལྷག་མ།"
+
+msgid "Go to end of list"
+msgstr "ཞབས་སྣེའི་རེའུ་མིག་ཏུ་མཆོང་།"
+
+msgid "Go to top of list"
+msgstr "ཀླད་སྣེའི་རེའུ་མིག་ཏུ་མཆོང་།"
+
+msgid "Help information is available under the following topics:"
+msgstr "ཁྱེད་ལ་གཤམ་གྱི་བརྗོད་བྱ་གཙོ་བོའི་རོགས་རམ་ཆ་འཕྲིན་ཐོབ་ཐུབ།："
+
+msgid "Help: "
+msgstr "རོགས་རམ།： "
+
+msgid "Imp"
+msgstr "འདྲེན་འཇུག"
+
+msgid "Important"
+msgstr "གལ་ཆེན།"
+
+msgid "Inst.ver"
+msgstr "སྒྲིག་འཇུག་པར་གཞི།"
+
+msgid "Install and upgrade wanted packages."
+msgstr "བསྟན་པའི་མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་ཅིང་རིམ་སྤེལ།"
+
+msgid "Installed"
+msgstr "སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Installed control file information"
+msgstr "སྒྲིག་འཇུག་གི་ཚོད་འཛིན་ཡིག་ཆའི་ཆ་འཕྲིན།"
+
+msgid "Installed packages"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Interrelationships"
+msgstr "མཉེན་ཆས་ཐུམ་གྱི་ཕན་ཚུན་འབྲེལ་བ།"
+
+msgid "Introduction to conflict/dependency resolution sub-list"
+msgstr ""
+"འགལ་བ་/རྟེན་འབྲེལ་གྱི་གནད་དོན་ཐག་གཅོད་ཀྱི་བུའི་རེའུ་མིག་གི་ངོ་སྤྲོད་མདོར་བསྡུས།"
+
+msgid "Introduction to method selection display"
+msgstr "སྒྲིག་འཇུག་ལག་ཐབས་ཀྱིས་འཆར་ངོས་ཀྱི་ངོ་སྤྲོད་མདོར་བསྡུས་འདེམ་པ།"
+
+msgid "Introduction to package selections"
+msgstr "མཉེན་ཆས་ཐུམ་རང་འདེམས་འཆར་ངོས་ངོ་སྤྲོད་མདོར་བསྡུས།"
+
+msgid "Introduction to read-only package list browser"
+msgstr "ཀློག་ཙམ་མཉེན་ཆས་ཐུམ་རེའུ་མིག་རགས་ལྟ་འཆར་ངོས་ངོ་སྤྲོད་མདོར་བསྡུས།"
+
+msgid "Keybindings"
+msgstr "མཐེབ་གནས་སྡོམ་པ།"
+
+msgid "Keystrokes"
+msgstr "མཐེབ་གནོན་བཀོལ་སྤྱོད།"
+
+msgid "Keystrokes for method selection"
+msgstr "སྒྲིག་འཇུག་ལག་ཐབས་ཀྱི་མཐེབ་གནོན་བཀོལ་སྤྱོད་འདེམ་པ།"
+
+msgid "Make highlight less specific"
+msgstr "མཐོ་དཀར་མངོན་པ་ལ་དམིགས་ས་མེད་པ་བྱེད།"
+
+msgid "Make highlight more specific"
+msgstr "མཐོ་དཀར་མངོན་པ་ལ་དམིགས་ས་ཡོད་པ་བྱེད།"
+
+msgid "Mark package(s) for deinstall and purge"
+msgstr "མཉེན་ཆས་ཐུམ་“བཤིག་འདོར་ཞིང་གཙང་སེལ་”ལྟར་མཚོན།"
+
+msgid "Mark package(s) for deinstallation"
+msgstr "མཉེན་ཆས་ཐུམ་“འདོར་རྒྱུ”ལྟར་མཚོན།"
+
+msgid "Mark package(s) for installation"
+msgstr "མཉེན་ཆས་ཐུམ་“སྒྲིག་འཇུག་བྱ་རྒྱུ”ལྟར་མཚོན།"
+
+msgid "Marked for"
+msgstr "ད་ལྟ་མཚོན་ནས།"
+
+msgid "Move down"
+msgstr "མར་སྤོ་བ།"
+
+msgid "Move up"
+msgstr "ཡར་སྤོ་བ།"
+
+msgid "Newly available packages"
+msgstr "སྤྱོད་རུང་མཉེན་ཆས་ཐུམ་གསར་བ།"
+
+msgid "No description available."
+msgstr "སྤྱོད་རུང་གི་གསལ་བཤད་མེད།"
+
+msgid "No explanation available."
+msgstr "དེ་དང་འབྲེལ་བའི་གསལ་བཤད་མ་རྙེད།"
+
+msgid "Obsolete/local"
+msgstr "དོར་བ།/རང་ས།"
+
+msgid "Old mark"
+msgstr "སྔར་ཡོད་ཀྱི་མཚོན་རྟགས།"
+
+msgid "Opt"
+msgstr "འདེམས་རུང་།"
+
+msgid "Optional"
+msgstr "འདེམས་རུང་།"
+
+msgid "Package"
+msgstr "མཉེན་ཆས་ཐུམ།"
+
+msgid "Press <enter> to continue.\n"
+msgstr " <ཕྱིར་ལོག>གནོན་རོགས།  མུ་མཐུད་དུ།\n"
+
+msgid "Priority"
+msgstr "སྔོན་ཐོབ་རིམ་པ།"
+
+msgid "Purged"
+msgstr "གཙང་སེལ་བྱས་པ།"
+
+msgid "Purged packages and those never installed"
+msgstr "གཙང་སེལ་བྱས་པའི་མཉེན་ཆས་ཐུམ་དང་སྒྲིག་འཇུག་བྱས་མ་མྱོང་བའི་མཉེན་ཆས་ཐུམ།"
+
+msgid "Quit dselect."
+msgstr " dselect བྱ་རིམ་ཕྱིར་འདོན།"
+
+msgid "Quit without changing selected access method"
+msgstr "བྱ་རིམ་ཕྱིར་འདོན་ཞིང་། བདམས་པའི་སྒྲིག་འཇུག་ལག་ཐབས་མ་བཅོས།"
+
+msgid "Quit, confirming without check"
+msgstr "ཕྱིར་འདོན། བཀོལ་སྤྱོད་ཅིང་ཞིབ་བཤེར་མི་བྱེད་པ་གཏན་འཁེལ།"
+
+msgid "Quit, confirming, and checking dependencies"
+msgstr "ཕྱིར་འདོན། བཀོལ་སྤྱོད་ཅིང་གནད་དོན་བསྐྱར་བཤེར་ལ་མི་བརྟེན་པ་གཏན་འཁེལ།"
+
+msgid "Quit, rejecting conflict/dependency suggestions"
+msgstr "ཕྱིར་འདོན། འབྲེལ་ཡོད་འགལ་བ་དང་རྟེན་འབྲེལ་གནད་དོན་གྱི་གྲོས་ཟློག་པ།"
+
+msgid "REINSTALL"
+msgstr "ཡང་བསྐྱར་སྒྲིག་འཇུག"
+
+msgid "Redraw display"
+msgstr "བརྙན་ཡོལ་བསྐྱར་འབྲི།"
+
+msgid "Remove unwanted software."
+msgstr "མི་དགོས་པའི་མཉེན་ཆས་ཐུམ་འདོར་བ།"
+
+msgid "Removed"
+msgstr "འདོར་ཟིན།"
+
+msgid "Removed and no longer available packages"
+msgstr "འདོར་ཞིང་ད་ནས་མི་སྤྱོད་པའི་མཉེན་ཆས་ཐུམ།"
+
+msgid "Removed packages (configuration still present)"
+msgstr ""
+"འདོར་བའི་མཉེན་ཆས་ཐུམ། (དེའི་སྡེབ་སྒྲིག་ཡིག་ཆ་ད་དུང་རྒྱུད་ཁོངས་སུ་གནས་པ།)"
+
+msgid "Request help (cycle through help screens)"
+msgstr "རོགས་རམ་རེ་ཞུ།(རོགས་རམ་འཆར་ངོས་སུ་འཁྱམ་པ།)"
+
+msgid "Request which packages you want on your system."
+msgstr "རྒྱུད་ཁོངས་སུ་སྒྲིག་འཇུག་གི་མཉེན་ཆས་ཐུམ་ལ་བླང་དོར་བྱེད།"
+
+msgid "Required"
+msgstr "དགོས་མཁོ།"
+
+msgid "Revert to directly requested state for all packages"
+msgstr "མཉེན་ཆས་ཐུམ་ཚང་མའི་རྣམ་པ་རེ་འདུན་ཚད་ལ་སླར་གསོ།"
+
+msgid "Revert to old state for all packages"
+msgstr "མཉེན་ཆས་ཐུམ་ཚང་མའི་རྣམ་པ་མ་བཅོས་གོང་ལ་སླར་གསོ།"
+
+msgid "Revert to suggested state for all packages"
+msgstr "མཉེན་ཆས་ཐུམ་ཚང་མའི་རྣམ་པ་གྲོས་འགོའི་ཚད་ལ་སླར་གསོ།"
+
+msgid "Scroll backwards through help/information"
+msgstr "རོགས་རམ་ཡང་ན་འབྲེལ་ཡོད་ཆ་འཕྲིན་དུ་མདུན་འདེད།"
+
+msgid "Scroll backwards through help/information by 1 line"
+msgstr "རོགས་རམ་ཡང་ན་འབྲེལ་ཡོད་ཆ་འཕྲིན་དུ་རྒྱབ་ལ་ཕྲེང་གཅིག་འདེད།"
+
+msgid "Scroll backwards through list"
+msgstr "རེའུ་མིག་ཏུ་མདུན་འདེད།"
+
+msgid "Scroll backwards through list by 1 line"
+msgstr "རེའུ་མིག་ཏུ་རྒྱབ་ལ་ཕྲེང་གཅིག་འདེད།"
+
+msgid "Scroll onwards through help/information"
+msgstr "རོགས་རམ་ཡིག་ཚགས་ཡང་ན་འབྲེལ་ཡོད་ཆ་འཕྲིན་དུ་མདུན་འདེད།"
+
+msgid "Scroll onwards through help/information by 1 line"
+msgstr "རོགས་རམ་ཡིག་ཚགས་ཡང་ན་འབྲེལ་ཡོད་ཆ་འཕྲིན་དུ་མདུན་ལ་ཕྲེང་གཅིག་འདེད།"
+
+msgid "Scroll onwards through list"
+msgstr "རེའུ་མིག་ཏུ་མདུན་འདེད།"
+
+msgid "Scroll onwards through list by 1 line"
+msgstr "རེའུ་མིག་ཏུ་མདུན་ལ་ཕྲེང་གཅིག་འདེད།"
+
+msgid "Search for ? "
+msgstr "གང་འཚོལ་འདོད་དམ། "
+
+msgid "Search for a package whose name contains a string"
+msgstr ""
+"འཚོལ་བཤེར་མཉེན་ཆས་ཐུམ་མིང་དུ་དམིགས་བསལ་ཡིག་རྟགས་ཕྲེང་གི་མཉེན་ཆས་ཐུམ་འདུས།"
+
+msgid "Section"
+msgstr "ཆ་ཤས།"
+
+msgid "Select currently-highlighted access method"
+msgstr "མིག་སྔ་མཐོ་དཀར་མངོན་པའི་སྒྲིག་འཇུག་ལག་ཐབས་འདེམ་པ།"
+
+msgid "Standard"
+msgstr "ཚད་གཞི།"
+
+msgid "Std"
+msgstr "ཚད་གཞི།"
+
+msgid "Swap sort order priority/section"
+msgstr "རིམ་སྒྲིག་གི་གཞི་ལེགས་སྒྲིག - སྔོན་ཐོབ་རིམ་པ/གཏོགས་པའི་རིགས་ཆེ"
+
+msgid "Terminal does not appear to support cursor addressing.\n"
+msgstr "མཐའ་སྣེས་སྐོར་རྟགས་ཀྱི་གནས་ངེས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།\n"
+
+msgid "Terminal does not appear to support highlighting.\n"
+msgstr "མཐའ་སྣེས་མཐོ་དཀར་མངོན་པ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།\n"
+
+msgid "Type dselect --help for help."
+msgstr " dselect --help ནང་བཅུག་ན་རོགས་རམ་ཆ་འཕྲིན་ཀློག་ཐུབ།"
+
+msgid "Unclassified"
+msgstr "རིགས་བཀལ་མེད།"
+
+msgid "Update list of available packages, if possible."
+msgstr "གལ་ཏེ་སྲིད་ན། སྤྱོད་རུང་གི་མཉེན་ཆས་ཐུམ་རེའུ་མིག་གསར་སྒྱུར་བྱེད།"
+
+msgid "Xtr"
+msgstr "ལྷག་མ།"
+
+msgid "[A]ccess"
+msgstr "འབྱུང་ཁུངས།[A]"
+
+msgid "[C]onfig"
+msgstr "སྡེབ་སྒྲིག[C]"
+
+msgid "[I]nstall"
+msgstr "སྒྲིག་འཇུག[I]"
+
+msgid "[Q]uit"
+msgstr "ཕྱིར་འདོན།[Q]"
+
+msgid "[R]emove"
+msgstr "འདོར་བ།[R]"
+
+msgid "[S]elect"
+msgstr "འདེམ་པ།[S]"
+
+msgid "[U]pdate"
+msgstr "གསར་བརྗེ[U]"
+
+msgid "[not bound]"
+msgstr "[སྡོམ་མེད།]"
+
+msgid "[unk: %d]"
+msgstr "[ངེས་མེད།：%d]"
+
+msgid "a"
+msgstr "\"a\""
+
+msgid "bUG"
+msgstr "སྐྱོན།"
+
+msgid "c"
+msgstr "c"
+
+msgid "colour"
+msgstr "ཁ་དོག"
+
+msgid "colour attribute"
+msgstr "ཁ་དོག་གི་གཏོགས་གཤིས།"
+
+msgid "couldn't open debug file '%.255s'\n"
+msgstr "ཚོད་སྒྲིག་ཆ་འཕྲིན་ཡིག་ཆ་“%.255s”ཁ་འབྱེད་མི་ཐུབ།\n"
+
+msgid "depends on"
+msgstr "རགས་ལས་པ།"
+
+msgid "doupdate failed"
+msgstr "doupdate ཕམ་པ།"
+
+msgid "doupdate in SIGWINCH handler failed"
+msgstr " SIGWINCH ཡི་སྒྲིག་གཅོད་རྟེན་འབྱུང་གྲངས་སུ་doupdate ཕམ་པ།"
+
+msgid "dselect - inspection of package states"
+msgstr "dselect - མཉེན་ཆས་ཐུམ་གྱི་རྣམ་པ་ལྟ་བཤེར།"
+
+msgid "dselect - list of access methods"
+msgstr "dselect - སྒྲིག་འཇུག་ལག་ཐབས་ཀྱི་རེའུ་མིག"
+
+msgid "dselect - main package listing"
+msgstr "dselect - མཉེན་ཆས་ཐུམ་གྱི་རེའུ་མིག་གཙོ་བོ།"
+
+msgid "dselect - recursive package listing"
+msgstr "dselect - རིམ་ལོག་གིས་མཉེན་ཆས་ཐུམ་འགྲེམས་པ།"
+
+msgid "enhances"
+msgstr "ལ་ཕན་པ།"
+
+msgid "error during read of method options file '%.250s'"
+msgstr ""
+"སྒྲིག་འཇུག་ལག་ཐབས་ཀྱི་འདེམས་ཚན་ཡིག་ཆ་“%.250s”ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "error during read of option description file '%.250s'"
+msgstr "འདེམས་ཚན་གསལ་བཤད་ཡིག་ཆ་“%.250s” ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "error in regular expression"
+msgstr "ཚད་མཐུན་མཚོན་ཚུལ་ལ་ནོར་འཁྲུལ་ཡོད།"
+
+msgid "error reading acknowledgement of program failure message"
+msgstr "བྱ་རིམ་གྱི་ནོར་འཁྲུལ་གསལ་སྟོན་ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "error reading keyboard in help"
+msgstr "རོགས་རམ་འཆར་ངོས་སུ་མཐེབ་གཞོང་ནང་འཇུག་ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "error reading options file '%.250s'"
+msgstr ""
+"སྒྲིག་འཇུག་ལག་ཐབས་ཀྱི་འདེམས་ཚན་ཡིག་ཆ་“%.250s”ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "failed to allocate colour pair"
+msgstr "ཁ་དོག་ཆ་བགོད་པ་ཕམ་པ།"
+
+msgid "failed to block SIGWINCH"
+msgstr " SIGWINCH བརྡ་རྟགས་འགོག་མི་ཐུབ།"
+
+msgid "failed to create baselist pad"
+msgstr "རྨང་རེའུ་མིག་གི་སྒེའུ་ཁུང་ཆུང་བ་བཟོ་མི་ཐུབ།"
+
+msgid "failed to create heading pad"
+msgstr "ཁ་བྱང་སྒེའུ་ཁུང་ཆུང་བ་བཟོ་མི་ཐུབ།"
+
+msgid "failed to create info pad"
+msgstr "འབྲེལ་ཡོད་ཆ་འཕྲིན་སྒེའུ་ཁུང་ཆུང་བ་བཟོ་མི་ཐུབ།"
+
+msgid "failed to create query window"
+msgstr "འཚོལ་བཤེར་སྒེའུ་ཁུང་གསར་བཟོ་ཕམ་པ།"
+
+msgid "failed to create thisstate pad"
+msgstr "thisstate སྒེའུ་ཁུང་ཆུང་བ་བཟོ་མི་ཐུབ།"
+
+msgid "failed to create title window"
+msgstr "ཁ་བྱང་སྒེའུ་ཁུང་གསར་བཟོ་ཕམ་པ།"
+
+msgid "failed to create whatinfo window"
+msgstr "whatinfo སྒེའུ་ཁུང་གསར་བཟོ་ཕམ་པ།"
+
+msgid "failed to get old SIGWINCH sigact"
+msgstr "སྔོན་གྱི་ SIGWINCH sigact ཐོབ་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "failed to get old signal mask"
+msgstr "སྔོན་གྱི་ signal mask ཐོབ་སྐབས་ཕམ་པ།"
+
+msgid "failed to getch in main menu"
+msgstr "འདེམས་བྱང་གཙོའི་འཆར་ངོས་སུ་ getch ཕམ་པ།"
+
+msgid "failed to read option description file '%.250s'"
+msgstr "འདེམས་ཚན་གསལ་བཤད་ཡིག་ཆ་“%.250s”ཀློག་པ་ཕམ་པ།"
+
+msgid "failed to restore old SIGWINCH sigact"
+msgstr "སྔོན་གྱི་ SIGWINCH sigact སླར་གསོ་ཕམ་པ།"
+
+msgid "failed to restore old signal mask"
+msgstr "སྔོན་གྱི་ signal mask སླར་གསོ་ཕམ་པ།"
+
+msgid "failed to set new SIGWINCH sigact"
+msgstr " SIGWINCH sigact གསར་བ་སྒྲིག་འགོད་ཕམ་པ།"
+
+msgid "failed to unblock SIGWINCH"
+msgstr " SIGWINCH འགོག་པའི་བརྡ་རྟགས་ལེན་མི་ཐུབ།"
+
+msgid "getch failed"
+msgstr "getch ཕམ་པ།"
+
+msgid "half installed"
+msgstr "ཆ་ཤས་སྒྲིག་འཇུག"
+
+msgid "hold"
+msgstr "རྒྱུན་འཁྱོངས།"
+
+msgid "index string too long"
+msgstr "གསལ་བྱང་ཡིག་ཕྲེང་རིང་དྲགས།"
+
+msgid "install"
+msgstr "སྒྲིག་འཇུག"
+
+msgid "installation script"
+msgstr "མཉེན་ཆས་ཐུམ་གྱིས་ཞབས་དེབ་སྒྲིག་འཇུག"
+
+msgid "installed"
+msgstr "སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "invalid search option given"
+msgstr "ནུས་མེད་ཀྱི་འཚོལ་བཤེར་འདེམས་ཚན་བསྟན་པ།"
+
+msgid "ioctl(TIOCGWINSZ) failed"
+msgstr "ioctl(TIOCGWINSZ) ཕམ་པ།"
+
+msgid "menu"
+msgstr " འདེམས་བྱང་།"
+
+msgid "method '%.250s' has name that is too long (%d > %d characters)"
+msgstr "སྒྲིག་འཇུག་ལག་ཐབས་“%.250s”ཡི་མིང་རིང་དྲགས།(%d > %d ཡི་ཡིག་རྟགས།)"
+
+msgid "new package"
+msgstr "མཉེན་ཆས་ཐུམ་གསར་འབྱོར།"
+
+msgid "newline before option name start"
+msgstr "འདེམས་ཚན་མིང་མགོ་རྩོམ་སྔོན་དུ་ཕྲེང་བརྗེ་རྟགས་རྙེད་པ།"
+
+msgid "newline before summary"
+msgstr "སྤྱི་བཤད་སྔོན་དུ་ཕྲེང་བརྗེ་རྟགས་རྙེད་པ།"
+
+msgid "non-alphanum in option name"
+msgstr "འདེམས་ཚན་མིང་དུ་གསལ་བྱེད་མིན་པ་ཞིང་ཨང་ཀི་མིན་པའི་ཡིག་རྟགས་རྙེད་པ།"
+
+msgid "non-digit where digit wanted"
+msgstr "ཨང་ཀི་ཡོད་དགོས་པའི་གནས་སུ་ཨང་ཀི་མ་རྙེད།"
+
+msgid "nonalpha where option name start wanted"
+msgstr "འདེམས་ཚན་མིང་མགོ་རྩོམ་པའི་གནས་སུ་གསལ་བྱེད་མིན་པ།"
+
+msgid "not installed"
+msgstr "སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "pre-depends on"
+msgstr "སྔོན་རྟེན་སར།"
+
+msgid "provides"
+msgstr "མཁོ་འདོན།"
+
+msgid "purge"
+msgstr "གཙང་སེལ།"
+
+msgid "query/setup script"
+msgstr "ཞབས་དེབ་འཚོལ་བ།/སྒྲིག་འགོད།"
+
+msgid "recommends"
+msgstr "འོས་སྦྱོར།"
+
+msgid "remove"
+msgstr "བསུབ་པ།"
+
+msgid "removed (configs remain)"
+msgstr "འདོར་བ།(ལྷག་ལྷེབ་སྡེབ་སྒྲིག་ཡིག་ཆ།)"
+
+msgid "replaces"
+msgstr "ཚབ་བྱེད་པ།"
+
+msgid "screen part"
+msgstr "མངོན་པའི་ཆ་ཤས།"
+
+msgid "suggests"
+msgstr "བསམ་འཆར།"
+
+msgid "syntax error in method options file '%.250s' -- %s"
+msgstr ""
+"སྒྲིག་འཇུག་ལག་ཐབས་ཀྱི་འདེམས་ཚན་ཡིག་ཆ་“%.250s” ནང་དུ་བརྡ་སྤྲོད་ནོར་འཁྲུལ་ -- "
+"%s ཡོད།"
+
+msgid "terminal lacks necessary features, giving up"
+msgstr "མཐའ་སྣེ་ལ་དགོས་ངེས་ཀྱི་ཁྱད་ཆོས་ཆད་པས། བཀོལ་སྤྱོད་མཚམས་འཇོག་པ།"
+
+msgid "unable to access method script '%.250s'"
+msgstr "ལག་ཐབས་ཞབས་དེབ་“%.250s”ལ་ལྟ་སྤྱོད་མི་ཐུབ།"
+
+msgid "unable to open current option file '%.250s'"
+msgstr "མིག་སྔའི་འདེམས་ཚན་ཡིག་ཆ་“%.250s”ཁ་འབྱེད་མི་ཐུབ།"
+
+msgid "unable to open option description file '%.250s'"
+msgstr "འདེམས་ཚན་གསལ་བཤད་ཡིག་ཆ་“%.250s”ཁ་འབྱེད་མི་ཐུབ།"
+
+msgid "unable to read '%.250s' directory for reading methods"
+msgstr ""
+"“%.250s”དཀར་ཆག་བཀླགས་ནས་སྒྲིག་འཇུག་ལག་ཐབས་ཀྱི་འབྲེལ་ཡོད་ཆ་འཕྲིན་ཐོབ་མི་ཐུབ།"
+
+msgid "unable to read method options file '%.250s'"
+msgstr "ལག་ཐབས་ཞབས་དེབ་“%.250s”ཀློག་མི་ཐུབ།"
+
+msgid "unable to stat option description file '%.250s'"
+msgstr "འདེམས་ཚན་གསལ་བཤད་ཡིག་ཆ་“%.250s” stat མི་ཐུབ།"
+
+msgid "unable to write new option to '%.250s'"
+msgstr "འདེམས་ཚན་ཡིག་ཆ་“%.250s”གསར་པ་འབྲི་མི་ཐུབ།"
+
+msgid "unknown action string '%.50s'"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་བཀོལ་སྤྱོད་ཡིག་ཕྲེང་“%.50s”"
+
+msgid "unpacked (not set up)"
+msgstr "བཙིར་གནོན་འགྲོལ་བ།(སྒྲིག་འགོད་བྱས་མེད།)"
+
+msgid "update available list script"
+msgstr "སྤྱོད་རུང་མཉེན་ཆས་ཐུམ་རེའུ་མིག་གི་ཞབས་དེབ་གསར་སྒྱུར།"

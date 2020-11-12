@@ -1,0 +1,244 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Access denied"
+msgstr "ལྟ་སྤྱོད་དང་ལེན་མ་བྱས།"
+
+msgid "Address"
+msgstr " ཤག་གནས།"
+
+msgid "Address:"
+msgstr "ཤག་གནས།："
+
+msgid "Avahi client failure: %s"
+msgstr "Avahi དུད་སྣེ་ཕམ་པ་%s"
+
+msgid "Avahi domain browser failure: %s"
+msgstr "Avahi ཁོངས་བཤར་ཆས་ཕམ་པ་%s"
+
+msgid "Avahi resolver failure: %s"
+msgstr "Avahi དབྱེ་ཞིབ་ཆས་ཕམ་པ་%s"
+
+msgid "Bad state"
+msgstr "ནོར་འཁྲུལ་རྣམ་པ།"
+
+msgid "Browse Service Types"
+msgstr "ཞབས་ཞུ་རིགས་གྲས་བཤར་བ།"
+
+msgid "Browse service type list is empty!"
+msgstr "ཞབས་ཞུ་རིགས་གྲས་རེའུ་མིག་བཤར་ནས་སྟོང་པ་ཡིན།"
+
+msgid "Browsing..."
+msgstr "བཤར་བཞིན་པ།..."
+
+msgid "Canceled.\n"
+msgstr "ལེན་པ།\n"
+
+msgid "Change domain"
+msgstr "ཁོངས་བཅོས་པ།"
+
+msgid "Choose SSH server"
+msgstr " SSH ཞབས་ཞུ་ཆས་འདེམ་པ།"
+
+msgid "Connecting to '%s' ...\n"
+msgstr "འབྲེལ་མཐུད་བྱེད་པ།“%s”...\n"
+
+msgid "DNS failure: FORMERR"
+msgstr "DNS ཕམ་པ།：FORMERR"
+
+msgid "Daemon connection failed"
+msgstr "Daemon འབྲེལ་མཐུད་ཕམ་པ་"
+
+msgid "Desktop"
+msgstr " ཅོག་ངོས།"
+
+msgid "Domain"
+msgstr "ཁོངས།"
+
+msgid "Domain Name:"
+msgstr "ཁོངས་མིང་།："
+
+msgid "Failed to add address: %s\n"
+msgstr "ཤག་གནས་སྣོན་པ་ཕམ་པ།：%s\n"
+
+msgid "Failed to add service: %s\n"
+msgstr "ཞབས་ཞུ་སྣོན་པ་ཕམ་པ།：%s\n"
+
+msgid "Failed to connect to Avahi server: %s"
+msgstr "Avahi ཞབས་ཞུ་ཆས་འབྲེལ་བ་ཕམ་པ།：%s"
+
+msgid "Failed to create address resolver: %s\n"
+msgstr "ཤག་གནས་དབྱེ་ཞིབ་ཆས་གསར་བཟོ་ཕམ་པ།：%s\n"
+
+msgid "Failed to create browser for %s: %s"
+msgstr "%sལ་བཤར་ཆས་གསར་བཟོ་ཕམ་པ།：%s"
+
+msgid "Failed to create client object: %s\n"
+msgstr "དུད་སྣེ་བྱ་ཡུལ་གསར་བཟོ་ཕམ་པ།：%s\n"
+
+msgid "Failed to create domain browser: %s"
+msgstr "ཁོངས་བཤར་ཆས་གསར་བཟོ་ཕམ་པ།：%s"
+
+msgid "Failed to create entry group: %s\n"
+msgstr "དོན་ཚན་ཚོ་གསར་བཟོ་ཕམ་པ།：%s\n"
+
+msgid "Failed to create host name resolver: %s\n"
+msgstr "གཙོ་འཁོར་མིང་དབྱེ་ཞིབ་ཆས་གསར་བཟོ་ཕམ་པ།：%s\n"
+
+msgid "Failed to parse port number: %s\n"
+msgstr "མཐུད་ཁའི་ཨང་དབྱེ་ཞིབ་ཕམ་པ།：%s\n"
+
+msgid "Failed to query host name: %s\n"
+msgstr "གཙོ་འཁོར་མིང་འཚོལ་བ་ཕམ་པ།：%s\n"
+
+msgid "Failed to query version string: %s\n"
+msgstr "པར་གཞི་ཡིག་རྟགས་ཕྲེང་འཚོལ་བ་ཕམ་པ།：%s\n"
+
+msgid "Failed to read Avahi domain: %s"
+msgstr "Avahiཁོངས་ཀློག་པ་ཕམ་པ།：%s"
+
+msgid "Failed to register: %s\n"
+msgstr "ཐོ་འགོད་ཕམ་པ།：%s\n"
+
+msgid "Host Name"
+msgstr "གཙོ་འཁོར་མིང་།"
+
+msgid "Host name conflict\n"
+msgstr "གཙོ་འཁོར་མིང་འགལ་བ།\n"
+
+msgid "Host name successfully changed to %s\n"
+msgstr "གཙོ་འཁོར་མིང་བཅོས་པ་ལེགས་འགྲུབ། %s\n"
+
+msgid "Initializing..."
+msgstr "ཐོག་མར་ཅན་དུ་འགྱུར་བ།"
+
+msgid "Interface:"
+msgstr "མཐུད་ཁ："
+
+msgid "Invalid address"
+msgstr "ནུས་མེད་གནས་ཡུལ།"
+
+msgid "Is empty"
+msgstr "སྟོང་པ་ཡིན།"
+
+msgid "Local name collision"
+msgstr "རང་གནས་མིང་འགལ་བ།"
+
+msgid "Location"
+msgstr "ས་གནས།"
+
+msgid "Memory exhausted"
+msgstr "ནང་གསོག་བཀོལ་ཚར།"
+
+msgid "Name"
+msgstr " མིང་།"
+
+msgid "No command specified.\n"
+msgstr "དམིགས་འཛུགས་བཀའ་བརྡ་མེད། \n"
+
+msgid "Not found"
+msgstr "རྙེད་མ་བྱུང་།"
+
+msgid "Not permitted"
+msgstr "མི་ཆོག་པ།"
+
+msgid "Not supported"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "OK"
+msgstr " གཏན་འཁེལ།"
+
+msgid "OS Error"
+msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
+
+msgid "Operation failed"
+msgstr "བཀོལ་སྤྱོད་ཕམ་པ།"
+
+msgid "Port"
+msgstr " སྣེ་ཁ།"
+
+msgid "Server version: %s; Host name: %s\n"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་པར་གཞི།：%s；གཙོ་འཁོར་མིང་།：%s\n"
+
+msgid "Service Name"
+msgstr "ཞབས་ཞུའི་མིང་།"
+
+msgid "Service Type"
+msgstr "ཞབས་ཞུའི་རིགས་གྲས།"
+
+msgid "TXT Data:"
+msgstr "TXT གཞི་གྲངས།："
+
+msgid "Terminal"
+msgstr "མཐའ་སྣེ།"
+
+msgid "The IP port number of the resolved service"
+msgstr "ཞབས་ཞུའི་IPམཐུད་ཁའི་ཨང་དབྱེ་ཞིབ་བྱས་པ།"
+
+msgid "The address of the resolved service"
+msgstr "ཞབས་ཞུའི་ཤག་གནས་དབྱེ་ཞིབ་བྱས་པ།"
+
+msgid "The host name of the resolved service"
+msgstr "ཞབས་ཞུའི་གཙོ་འཁོར་མིང་དབྱེ་ཞིབ་བྱས་པ།"
+
+msgid "The object passed in was not valid"
+msgstr "བརྒྱུད་པའི་བྱ་ཡུལ་ནུས་མེད།"
+
+msgid "The service name of the selected service"
+msgstr "བདམས་པའི་ཞབས་ཞུའི་ཞབས་ཞུ་མིང་།"
+
+msgid "The service type of the selected service"
+msgstr "བདམས་པའི་ཞབས་ཞུའི་ཞབས་ཞུ་རིགས་གྲས།"
+
+msgid "Timeout reached"
+msgstr "དུས་བརྒལ།"
+
+msgid "Too many arguments\n"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།\n"
+
+msgid "Too many clients"
+msgstr "དུད་སྣེ་མང་དྲགས།"
+
+msgid "Too many entries"
+msgstr "ས་བཅད་མང་དྲགས།"
+
+msgid "Too many objects"
+msgstr "བྱ་ཡུལ་མང་དྲགས།"
+
+msgid "Type"
+msgstr " རིགས་རྣམ།"
+
+msgid "Version mismatch"
+msgstr "པར་གཞི་དོ་མི་མཉམ།"
+
+msgid "Waiting for daemon ...\n"
+msgstr "daemon ...སྒུག་པ།\n"
+
+msgid "avahi_service_type_browser_new() failed: %s\n"
+msgstr "avahi_service_type_browser_new() ཕམ་པ།：%s\n"
+
+msgid "empty"
+msgstr "སྟོང་པ།"
+
+msgid "execlp() failed: %s\n"
+msgstr "execlp() ཕམ་པ།：%s\n"
+
+msgid "n/a"
+msgstr "མི་འཚམ།"
+
+msgid "service_browser failed: %s\n"
+msgstr "service_browser ཕམ་པ།：%s\n"
+
+msgid "service_type_browser failed: %s\n"
+msgstr "service_type_browser ཕམ་པ།：%s\n"

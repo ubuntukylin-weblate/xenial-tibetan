@@ -1,0 +1,2937 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " _pixels"
+msgstr "བརྙན་རྒྱུ། (_P)"
+
+msgid "%-I:%M %p"
+msgstr "%-I:%M %p"
+
+msgid "%-I:%M:%S %p"
+msgstr "%-I:%M:%S %p"
+
+msgid "%.1f seconds"
+msgstr "%.1f སྐར་ཆ།"
+
+msgid "%B"
+msgstr "%m"
+
+msgid "%Y"
+msgstr "%Y"
+
+msgid "%a %b %d"
+msgstr "ཟླ་%mཚེས་%d ཉིན། %A"
+
+msgid "%a %b %d, %Y"
+msgstr "%Y ལོའི་ཟླ་%mཚེས་%d ཉིན།%A"
+
+msgid "%d Event"
+msgid_plural "%d Events"
+msgstr[0] "དོན་རྐྱེན་གྲངས། %d"
+msgstr[1] "དོན་རྐྱེན་གྲངས། %d"
+
+msgid "%d Photo"
+msgid_plural "%d Photos"
+msgstr[0] "འདྲ་པར་གྲངས། %d"
+msgstr[1] "འདྲ་པར་གྲངས། %d"
+
+msgid "%d Photo/Video"
+msgid_plural "%d Photos/Videos"
+msgstr[0] "འདྲ་པར / བརྙན་ཟློས་གྲངས། %d"
+msgstr[1] "འདྲ་པར / བརྙན་ཟློས་གྲངས། %d"
+
+msgid "%d Video"
+msgid_plural "%d Videos"
+msgstr[0] "བརྙན་ཟློས་གྲངས། %d"
+msgstr[1] "བརྙན་ཟློས་གྲངས། %d"
+
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ཆུ་ཚོད།"
+msgstr[1] "%d ཆུ་ཚོད།"
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "སྐར་མ། %d"
+msgstr[1] "སྐར་མ། %d"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d, %Y"
+msgstr "%Yལོའི་ཟླ་%mཚེས་%d ཉིན།"
+
+msgid "%m/%d/%Y, %H:%M:%S"
+msgstr "%Y/%m/%d %H:%M:%S"
+
+msgid "%m/%d/%Y, %I:%M:%S %p"
+msgstr "%Y/%m/%d %p%I:%M:%S"
+
+msgid "%s (%d%%)"
+msgstr "%s(%d%%)"
+
+msgid "%s Database"
+msgstr "གཞི་གྲངས་མཛོད། %s"
+
+msgid "%s does not exist."
+msgstr "%s མི་འདུག"
+
+msgid ""
+"%s does not support the file format of\n"
+"%s."
+msgstr "%s ཡིས་རིགས་གྲས %s ཡི་ཡིག་ཆར་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "%s is not a file."
+msgstr "%s ཡིག་ཆ་ཞིག་མིན།"
+
+msgid "%s or Better"
+msgstr "%s འམ་ཡང་ན་དེ་ལས་མཐོ་བ།"
+
+msgid "'%s' isn't a valid response to an OAuth authentication request"
+msgstr "“%s” ནི OAuth ཡི་ར་སྤྲོད་རེ་ཞུའི་ནུས་ལྡན་དང་ལེན་མིན།"
+
+msgid "(Help)"
+msgstr "( རོགས་རམ། )"
+
+msgid "(None)"
+msgstr "(མེད།)"
+
+msgid "(and %d more)\n"
+msgstr "( དང་གཞན་གྱི་གྲངས %d )\n"
+
+msgid "-"
+msgstr " -"
+
+msgid "1 day"
+msgstr "ཉིན།1"
+
+msgid "1 duplicate photo was not imported:\n"
+msgid_plural "%d duplicate photos were not imported:\n"
+msgstr[0] "བསྐྱར་ཟློས་ཀྱི་འདྲ་པར་གྲངས %d འདྲེན་འཇུག་བྱས་མེད་པ།:\n"
+msgstr[1] "བསྐྱར་ཟློས་ཀྱི་འདྲ་པར་གྲངས %d འདྲེན་འཇུག་བྱས་མེད་པ།:\n"
+
+msgid "1 duplicate photo/video was not imported:\n"
+msgid_plural "%d duplicate photos/videos were not imported:\n"
+msgstr[0] "བསྐྱར་ཟློས་ཀྱི་འདྲ་པར། / བརྙན་ཟློས་གྲངས %d འདྲེན་འཇུག་བྱས་མེད་པ།:\n"
+msgstr[1] "བསྐྱར་ཟློས་ཀྱི་འདྲ་པར། / བརྙན་ཟློས་གྲངས %d འདྲེན་འཇུག་བྱས་མེད་པ།:\n"
+
+msgid "1 duplicate video was not imported:\n"
+msgid_plural "%d duplicate videos were not imported:\n"
+msgstr[0] "བསྐྱར་ཟློས་ཀྱི་བརྙན་ཟློས་གྲངས %d འདྲེན་འཇུག་བྱས་མེད་པ།:\n"
+msgstr[1] "བསྐྱར་ཟློས་ཀྱི་བརྙན་ཟློས་གྲངས %d འདྲེན་འཇུག་བྱས་མེད་པ།:\n"
+
+msgid "1 file failed to import because it was corrupt:\n"
+msgid_plural "%d files failed to import because it was corrupt:\n"
+msgstr[0] "ཡིག་ཆ \"%d སྐྱོན་ཤོར་བ་བའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] "ཡིག་ཆ \"%d སྐྱོན་ཤོར་བ་བའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid ""
+"1 file failed to import because the photo library folder was not writable:\n"
+msgid_plural ""
+"%d files failed to import because the photo library folder was not "
+"writable:\n"
+msgstr[0] ""
+"ཡིག་ཆ %d འདྲེན་འཇུག་ཕམ་པ། "
+"རྒྱུ་རྐྱེན་ནི་འདྲ་པར་མཛོད་ཀྱི་ཡིག་ཁུག་འབྲི་རུང་མིན་པས་ཡིན།:\n"
+msgstr[1] ""
+"ཡིག་ཆ %d འདྲེན་འཇུག་ཕམ་པ། "
+"རྒྱུ་རྐྱེན་ནི་འདྲ་པར་མཛོད་ཀྱི་ཡིག་ཁུག་འབྲི་རུང་མིན་པས་ཡིན།:\n"
+
+msgid "1 file failed to import due to a camera error:\n"
+msgid_plural "%d files failed to import due to a camera error:\n"
+msgstr[0] "པར་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་ཡིག་ཆ %d འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] "པར་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་ཡིག་ཆ %d འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 file failed to import due to a file or hardware error:\n"
+msgid_plural "%d files failed to import due to a file or hardware error:\n"
+msgstr[0] ""
+"ཡིག་ཆ་འམ་ཡང་ན་སྲ་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་ཡིག་ཆ %d འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"ཡིག་ཆ་འམ་ཡང་ན་སྲ་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་ཡིག་ཆ %d འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 file skipped due to user cancel:\n"
+msgid_plural "%d file skipped due to user cancel:\n"
+msgstr[0] "སྤྱོད་མཁན་གྱིས་དོར་བའི་རྐྱེན་པས་ཡིག་ཆ %d མཆོང་བ།:\n"
+msgstr[1] "སྤྱོད་མཁན་གྱིས་དོར་བའི་རྐྱེན་པས་ཡིག་ཆ %d མཆོང་བ།:\n"
+
+msgid "1 non-image file skipped.\n"
+msgid_plural "%d non-image files skipped.\n"
+msgstr[0] "འདྲ་པར་མིན་པའི་ཡིག་ཆའི་གྲངས %d མཆོང་བ། \n"
+msgstr[1] "འདྲ་པར་མིན་པའི་ཡིག་ཆའི་གྲངས %d མཆོང་བ། \n"
+
+msgid "1 photo failed to import because it was corrupt:\n"
+msgid_plural "%d photos failed to import because they were corrupt:\n"
+msgstr[0] "འདྲ་པར་གྲངས %d ཡིག་ཆ་སྐྱོན་ཤོར་བ་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] "འདྲ་པར་གྲངས %d ཡིག་ཆ་སྐྱོན་ཤོར་བ་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid ""
+"1 photo failed to import because the photo library folder was not "
+"writable:\n"
+msgid_plural ""
+"%d photos failed to import because the photo library folder was not "
+"writable:\n"
+msgstr[0] ""
+"འདྲ་པར་གྲངས %d  "
+"སྨྱན་གཟུགས་མཛོད་ནང་འབྲི་མི་ཐུབ་པའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"འདྲ་པར་གྲངས %d  "
+"སྨྱན་གཟུགས་མཛོད་ནང་འབྲི་མི་ཐུབ་པའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 photo failed to import due to a camera error:\n"
+msgid_plural "%d photos failed to import due to a camera error:\n"
+msgstr[0] "འདྲ་པར་གྲངས %d པར་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] "འདྲ་པར་གྲངས %d པར་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 photo failed to import due to a file or hardware error:\n"
+msgid_plural "%d photos failed to import due to a file or hardware error:\n"
+msgstr[0] ""
+"འདྲ་པར་གྲངས %d "
+"ཡིག་ཆ་འམ་ཡང་ན་སྲ་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"འདྲ་པར་གྲངས %d "
+"ཡིག་ཆ་འམ་ཡང་ན་སྲ་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 photo skipped due to user cancel:\n"
+msgid_plural "%d photos skipped due to user cancel:\n"
+msgstr[0] "སྤྱོད་མཁན་དོར་བའི་རྐྱེན་གྱིས་འདྲ་པར་གྲངས %d མཆོང་བ།:\n"
+msgstr[1] "སྤྱོད་མཁན་དོར་བའི་རྐྱེན་གྱིས་འདྲ་པར་གྲངས %d མཆོང་བ།:\n"
+
+msgid "1 photo successfully imported.\n"
+msgid_plural "%d photos successfully imported.\n"
+msgstr[0] "འདྲ་པར་གྲངས %d འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ།"
+msgstr[1] "འདྲ་པར་གྲངས %d འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ།"
+
+msgid "1 photo/video failed to import because it was corrupt:\n"
+msgid_plural "%d photos/videos failed to import because they were corrupt:\n"
+msgstr[0] ""
+"འདྲ་པར / བརྙན་ཟློས་གྲངས %d "
+"ཡིག་ཆ་སྐྱོན་ཤོར་བའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"འདྲ་པར / བརྙན་ཟློས་གྲངས %d "
+"ཡིག་ཆ་སྐྱོན་ཤོར་བའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid ""
+"1 photo/video failed to import because the photo library folder was not "
+"writable:\n"
+msgid_plural ""
+"%d photos/videos failed to import because the photo library folder was not "
+"writable:\n"
+msgstr[0] ""
+"འདྲ་པར / བརྙན་ཟློས་གྲངས %d "
+"སྨྱན་གཟུགས་མཛོད་ལ་འབྲི་མི་ཐུབ་པའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"འདྲ་པར / བརྙན་ཟློས་གྲངས %d "
+"སྨྱན་གཟུགས་མཛོད་ལ་འབྲི་མི་ཐུབ་པའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 photo/video failed to import due to a camera error:\n"
+msgid_plural "%d photos/videos failed to import due to a camera error:\n"
+msgstr[0] ""
+"འདྲ་པར / བརྙན་ཟློས་གྲངས %d པར་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"འདྲ་པར / བརྙན་ཟློས་གྲངས %d པར་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 photo/video failed to import due to a file or hardware error:\n"
+msgid_plural ""
+"%d photos/videos failed to import due to a file or hardware error:\n"
+msgstr[0] ""
+"འདྲ་པར / བརྙན་ཟློས་གྲངས %d "
+"ཡིག་ཆ་འམ་ཡང་ན་སྲ་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"འདྲ་པར / བརྙན་ཟློས་གྲངས %d "
+"ཡིག་ཆ་འམ་ཡང་ན་སྲ་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 photo/video skipped due to user cancel:\n"
+msgid_plural "%d photos/videos skipped due to user cancel:\n"
+msgstr[0] ""
+"སྤྱོད་མཁན་གྱིས་དོར་བའི་རྐྱེན་པས་འདྲ་པར / བརྙན་ཟློས་གྲངས %d མཆོང་བ།:\n"
+msgstr[1] ""
+"སྤྱོད་མཁན་གྱིས་དོར་བའི་རྐྱེན་པས་འདྲ་པར / བརྙན་ཟློས་གྲངས %d མཆོང་བ།:\n"
+
+msgid "1 photo/video successfully imported.\n"
+msgid_plural "%d photos/videos successfully imported.\n"
+msgstr[0] "འདྲ་པར / བརྙན་ཟློས་གྲངས %d འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ། \n"
+msgstr[1] "འདྲ་པར / བརྙན་ཟློས་གྲངས %d འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ། \n"
+
+msgid "1 unsupported photo skipped:\n"
+msgid_plural "%d unsupported photos skipped:\n"
+msgstr[0] "རྒྱབ་སྐྱོར་མེད་པའི་འདྲ་པར་གྲངས %d མཆོང་བ།:\n"
+msgstr[1] "རྒྱབ་སྐྱོར་མེད་པའི་འདྲ་པར་གྲངས %d མཆོང་བ།:\n"
+
+msgid "1 video failed to import because it was corrupt:\n"
+msgid_plural "%d videos failed to import because they were corrupt:\n"
+msgstr[0] "བརྙན་ཟློས་གྲངས %d ཡིག་ཆ་སྐྱོན་ཤོར་བའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] "བརྙན་ཟློས་གྲངས %d ཡིག་ཆ་སྐྱོན་ཤོར་བའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid ""
+"1 video failed to import because the photo library folder was not "
+"writable:\n"
+msgid_plural ""
+"%d videos failed to import because the photo library folder was not "
+"writable:\n"
+msgstr[0] ""
+"བརྙན་ཟློས་གྲངས %d "
+"སྨྱན་གཟུགས་མཛོད་ལ་འབྲི་ཐབས་བྲལ་བའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"བརྙན་ཟློས་གྲངས %d "
+"སྨྱན་གཟུགས་མཛོད་ལ་འབྲི་ཐབས་བྲལ་བའི་རྐྱེན་གྱིས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 video failed to import due to a camera error:\n"
+msgid_plural "%d videos failed to import due to a camera error:\n"
+msgstr[0] "བརྙན་ཟློས་གྲངས %d པར་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] "བརྙན་ཟློས་གྲངས %d པར་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 video failed to import due to a file or hardware error:\n"
+msgid_plural "%d videos failed to import due to a file or hardware error:\n"
+msgstr[0] ""
+"བརྙན་ཟློས་གྲངས %d "
+"ཡིག་ཆའམ་ཡང་ན་སྲ་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+msgstr[1] ""
+"བརྙན་ཟློས་གྲངས %d "
+"ཡིག་ཆའམ་ཡང་ན་སྲ་ཆས་ནོར་འཁྲུལ་གྱི་རྐྱེན་པས་འདྲེན་འཇུག་ཕམ་པ།:\n"
+
+msgid "1 video skipped due to user cancel:\n"
+msgid_plural "%d videos skipped due to user cancel:\n"
+msgstr[0] "སྤྱོད་མཁན་གྱིས་དོར་བའི་རྐྱེན་པས་བརྙན་ཟློས་གྲངས %d མཆོང་བ།:\n"
+msgstr[1] "སྤྱོད་མཁན་གྱིས་དོར་བའི་རྐྱེན་པས་བརྙན་ཟློས་གྲངས %d མཆོང་བ།:\n"
+
+msgid "1 video successfully imported.\n"
+msgid_plural "%d videos successfully imported.\n"
+msgstr[0] "བརྙན་ཟློས་གྲངས %d འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ། \n"
+msgstr[1] "བརྙན་ཟློས་གྲངས %d འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ། \n"
+
+msgid "1024 x 768 pixels"
+msgstr "བརྙན་རྒྱུ། 1024 x 768"
+
+msgid "11 x 14 in."
+msgstr "དབྱིན་ཚུན། 11 x 14"
+
+msgid "1280 x 853 pixels"
+msgstr "བརྙན་རྒྱུ། 1280 x 853"
+
+msgid "13 x 18 cm"
+msgstr "ལི་སྨི།13 x 18"
+
+msgid "16 images per page"
+msgstr "ཤོག་ངོས་རེར་གྲངས། 16"
+
+msgid "16 x 20 in."
+msgstr "དབྱིན་ཚུན། 16 x 20"
+
+msgid "18 x 24 cm"
+msgstr "ལི་སྨི། 18 x 24"
+
+msgid "2 images per page"
+msgstr "ཤོག་ངོས་རེར་གྲངས། 2"
+
+msgid "20 x 30 cm"
+msgstr "ལི་སྨི། 20 x 30"
+
+msgid "2048 x 1536 pixels"
+msgstr "བརྙན་རྒྱུ། 2048 x 1536"
+
+msgid "24 Hr"
+msgstr "ཆུ་ཚོད། 24"
+
+msgid "24 x 40 cm"
+msgstr "ལི་སྨི། 24 x 40"
+
+msgid "30 x 40 cm"
+msgstr "ལི་སྨི། 30 x 40"
+
+msgid "32 images per page"
+msgstr "ཤོག་ངོས་རེར་གྲངས། 32"
+
+msgid "4 images per page"
+msgstr "ཤོག་ངོས་རེར་གྲངས། 4"
+
+msgid "4 x 6 in."
+msgstr "དབྱིན་ཚུན། 4 x 6"
+
+msgid "4096 x 3072 pixels"
+msgstr "བརྙན་རྒྱུ། 4096 x 3072"
+
+msgid "5 x 7 in."
+msgstr "དབྱིན་ཚུན། 5 x 7"
+
+msgid "500 x 375 pixels"
+msgstr "བརྙན་རྒྱུ། 500 x 375"
+
+msgid "6 images per page"
+msgstr "ཤོག་ངོས་རེར་གྲངས། 6"
+
+msgid "8 images per page"
+msgstr "ཤོག་ངོས་རེར་གྲངས། 8"
+
+msgid "8 x 10 in."
+msgstr "དབྱིན་ཚུན། 8 x 10"
+
+msgid "<b>Pixel Resolution</b>"
+msgstr "<b> བརྙན་རྒྱུའི་འབྱེད་ཕྱོད། </b>"
+
+msgid "<b>Printed Image Size</b>"
+msgstr "<b> པར་འདེབས་ཆེ་ཆུང་། </b>"
+
+msgid "<b>Titles</b>"
+msgstr "<b>ཁ་བྱང་།</b>"
+
+msgid "A _new album named:"
+msgstr "པར་དེབ་གསར་པ་ཞིག (_N)："
+
+msgid ""
+"A file required for publishing is unavailable. Publishing to Facebook can't "
+"continue."
+msgstr ""
+"ཁྱབ་བསྒྲགས་ཤིག་ལ་དགོས་པའི་ཡིག་ཆ་མི་འདུག་པས Facebook "
+"ལ་མུ་མཐུད་ཁྱབ་བསྒྲགས་བྱེད་ཐབས་བྲལ།"
+
+msgid ""
+"A file required for publishing is unavailable. Publishing to Flickr can't "
+"continue."
+msgstr ""
+"ཁྱབ་བསྒྲགས་ཤིག་ལ་དགོས་པའི་ཡིག་ཆ་མི་འདུག་པས Flickr "
+"ལ་མུ་མཐུད་ཁྱབ་བསྒྲགས་བྱེད་ཐབས་བྲལ།"
+
+msgid ""
+"A file required for publishing is unavailable. Publishing to Picasa can't "
+"continue."
+msgstr ""
+"ཁྱབ་བསྒྲགས་ཤིག་ལ་དགོས་པའི་ཡིག་ཆ་མི་འདུག་པས Picasa "
+"ལ་མུ་མཐུད་ཁྱབ་བསྒྲགས་བྱེད་ཐབས་བྲལ།"
+
+msgid ""
+"A file required for publishing is unavailable. Publishing to Youtube can't "
+"continue."
+msgstr ""
+"ཁྱབ་བསྒྲགས་ཤིག་ལ་དགོས་པའི་ཡིག་ཆ་མི་འདུག་པས YouTube "
+"ལ་མུ་མཐུད་ཁྱབ་བསྒྲགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "A temporary file needed for publishing is unavailable"
+msgstr "ཁྱབ་བསྒྲགས་ལ་དགོས་པའི་གནས་སྐབས་ཀྱི་ཡིག་ཆ་མི་འདུག"
+
+msgid "A3 (297 x 420 mm)"
+msgstr "A3། ( ཧའོ་སྨི 297 x 420 )"
+
+msgid "A4 (210 x 297 mm)"
+msgstr "A4། ( ཧའོ་སྨི 210 x 297 )"
+
+msgid "AM"
+msgstr "སྔ་དྲོ།"
+
+msgid "Access _type:"
+msgstr "ལྟ་སྤྱོད་ཀྱི་རིགས་གྲས། (_T)："
+
+msgid "Add Tag \"%s\""
+msgstr "གདོང་འཛར %s ཁ་སྣོན།"
+
+msgid "Add Tags"
+msgstr "གདོང་འཛར་ཁ་སྣོན།"
+
+msgid "Add Tags \"%s\" and \"%s\""
+msgstr "གདོང་འཛར %s དང %s ཁ་སྣོན།"
+
+msgid "Add _Tags..."
+msgstr "གདོང་འཛར་ཁ་སྣོན། (_T)"
+
+msgid "Add more accounts..."
+msgstr "རྩིས་ཐོ་མང་བ་ཁ་སྣོན།"
+
+msgid "Adjust"
+msgstr "ལེགས་སྒྲིག"
+
+msgid "Adjust Date and Time"
+msgstr "ཚེས་གྲངས་དང་དུས་ཚོད་བཟོ་བཅོས།"
+
+msgid "Adjust the photo's color and tone"
+msgstr "འདྲ་པར་གྱི་ཚོན་མདོག་དང་ཚོས་གཞི་ལེགས་སྒྲིག"
+
+msgid "Adjust the size of the thumbnails"
+msgstr "བསྡུས་རིས་ཀྱི་ཆེ་ཆུང་བསྒྱུར་བ།"
+
+msgid "Adjusting Date and Time"
+msgstr "ཚེས་གྲངས་དང་དུས་ཚོད་ལེགས་སྒྲིག་བྱེད་བཞིན་པ།"
+
+msgid "Admins"
+msgstr "དོ་དམ་པ།"
+
+msgid "Admins, Family"
+msgstr "དོ་དམ་པ་དང་ཁྱིམ་མི།"
+
+msgid "Admins, Family, Friends"
+msgstr "དོ་དམ་པ་དང་། ཁྱིམ་མི། གྲོགས་པོ་བཅས།"
+
+msgid "Admins, Family, Friends, Contacts"
+msgstr "དོ་དམ་པ་དང་། ཁྱིམ་མི། གྲོགས་པོ། འབྲེལ་གཏུག་མི་སྣ་བཅས།"
+
+msgid "Album comment:"
+msgstr "པར་དེབ་ཟུར་མཆན།:"
+
+msgid "All + _Rejected"
+msgstr "ཚང་མ་སྤུས་ཞན་ཡིན། (_R)"
+
+msgid "All Events"
+msgstr "དོན་རྐྱེན་ཚང་མ།"
+
+msgid "All photo source files are missing."
+msgstr "འདྲ་པར་གྱི་ཁུངས་ཡིག་ཆ་ཚང་མ་བོར་བ།"
+
+msgid "An _existing album:"
+msgstr "གནས་ཡོད་པའི་པར་དེབ་ཅིག (_E)："
+
+msgid "An _existing category:"
+msgstr "གནས་ཡོད་པའི་རིགས་དགར་ཞིག (_)："
+
+msgid "An error message occurred when publishing to Piwigo. Please try again."
+msgstr ""
+"Piwigo ལ་ཁྱབ་བསྒྲགས་བྱེད་སྐབས་ནོར་འཁྲུལ་ཐོན་པ། ཡང་བསྐྱར་ཚོད་ལེན་གནང་དང་།"
+
+msgid "Angle:"
+msgstr "ཟུར་ཚད།:"
+
+msgid "Any text"
+msgstr "ཡི་གེ་གང་རུང་།"
+
+msgid "Apply copied color adjustments to the selected photos"
+msgstr ""
+"འདྲ་ཕབ་བྱས་པའི་ཁ་དོག་ལེགས་སྒྲིག་དེ་བདམས་པའི་འདྲ་པར་ལ་བཀོལ་སྤྱོད་བྱེད་པ།"
+
+msgid "Applying Color Transformations"
+msgstr "ཁ་དོག་གི་བརྗེ་བསྒྱུར་བཀོལ་སྤྱོད།"
+
+msgid "Artist:"
+msgstr "སྒྱུ་རྩལ་པ།："
+
+msgid "Attempted to import %d file."
+msgid_plural "Attempted to import %d files."
+msgstr[0] "ཡིག་ཆའི་གྲངས་ %d འདྲེན་འཇུག་ཚོད་ལྟ་བྱེད་པ།"
+msgstr[1] "ཡིག་ཆའི་གྲངས་ %d འདྲེན་འཇུག་ཚོད་ལྟ་བྱེད་པ།"
+
+msgid "Authorization _Number:"
+msgstr "ར་སྤྲོད་ཨང་། (_N)："
+
+msgid "Auto-importing photos..."
+msgstr "འདྲ་པར་རང་འགུལ་ངང་འདྲེན་འཇུག"
+
+msgid "Automatically improve the photo's appearance"
+msgstr "འདྲ་པར་གྱི་སྣང་ཚུལ་རང་འགུལ་ངང་དྲག་འཕེལ་བྱེད་པ།"
+
+msgid "BMP"
+msgstr "BMP"
+
+msgid "Back"
+msgstr "ཕྱི་བཤོལ།"
+
+msgid "Blinds"
+msgstr "སུལ་མང་སྒེའུ་ཁུང་།"
+
+msgid "Blogs:"
+msgstr "པོད་ཁུག།："
+
+msgid "By Exposure _Date"
+msgstr "འོད་འདོན་ཚེས་གྲངས་ལྟར། (_D)"
+
+msgid "By _Filename"
+msgstr "ཡིག་ཆ་མིང་ལྟར། (_F)"
+
+msgid "By _Rating"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་ལྟར། (_R)"
+
+msgid "By _Title"
+msgstr "ཁ་བྱང་ལྟར།(_T)"
+
+msgid "Camera error"
+msgstr "པར་ཆས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Camera make:"
+msgstr "པར་ཆས་བཟོ་བདག།："
+
+msgid "Camera model:"
+msgstr "པར་ཆས་བཟོ་རྟགས།:"
+
+msgid "Cameras"
+msgstr "པར་ཆས།"
+
+msgid "Cancel"
+msgstr " དོར་བ།"
+
+msgid ""
+"Cannot open the selected F-Spot database file: the file does not exist or is"
+" not an F-Spot database"
+msgstr ""
+"བདམས་པའི་གཞི་གྲངས་མཛོད F-Spot ཡི་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ།： "
+"ཡིག་ཆ་མེད་པའམ་ཡང་ན་གཞི་གྲངས་མཛོད F-Spot མིན་པ།"
+
+msgid ""
+"Cannot read the selected F-Spot database file: error while reading photos "
+"table"
+msgstr ""
+"བདམས་པའི་གཞི་གྲངས་མཛོད F-Spot "
+"ཡི་ཡིག་ཆ་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།：འདྲ་པར་ཀློག་ལེན་ནོར་བ།"
+
+msgid ""
+"Cannot read the selected F-Spot database file: error while reading tags "
+"table"
+msgstr ""
+"བདམས་པའི་གཞི་གྲངས་མཛོད F-Spot "
+"ཡི་ཡིག་ཆ་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།：གདོང་འཛར་རེའུ་མིག་གི་ཀློག་ལེན་ནོར་བ།"
+
+msgid "Change slideshow settings"
+msgstr "སྒྲོན་བརྙན་སྟོན་འགྲེམས་ཀྱི་སྒྲིག་འགོད་བསྒྱུར་བ།"
+
+msgid "Change the rating of your photo"
+msgstr "ཁྱེད་ཀྱི་འདྲ་པར་གྱི་སྐར་གྲངས་དཔྱད་བསྡུར་བསྒྱུར་བ།"
+
+msgid "Choose <span weight=\"bold\">File %s Import From Folder</span>"
+msgstr ""
+"ཡིག་ཆ <span weight=\"bold\"> བདམས་ནས %s ཡིག་ཁུག་ནས་འདྲེན་འཇུག་བྱེད་པ </span>"
+
+msgid "Circle"
+msgstr "སྒོར་ཐིག"
+
+msgid "Circles"
+msgstr "སྒོར་ཐིག"
+
+msgid "Close _without Saving"
+msgstr "ཁ་རྒྱག་ཅིང་མི་ཉར།(_W)"
+
+msgid "Close the red-eye tool"
+msgstr "མིག་དམར་པོའི་ལག་ཆ་ཁ་རྒྱག་པ།"
+
+msgid "Co_py Photos"
+msgstr "འདྲ་པར་འདྲ་ཕབ། (_P)"
+
+msgid "Combine events into a single event"
+msgstr "དོན་རྐྱེན་མང་པོ་གཅིག་ཏུ་མཉམ་སྒྲིལ་བཏང་བ།"
+
+msgid "Comment"
+msgstr "དཔྱད་གཏམ།"
+
+msgid "Comment:"
+msgstr "མཆན་འགྲེལ།:"
+
+msgid "Con_tinue"
+msgstr "མུ་མཐུད། (_T)"
+
+msgid "Connect a camera to your computer and import"
+msgstr "པར་ཆས་གློག་ཀླད་སྟེང་སྦྲེལ་མཐུད་དང་འབྲེལ་འདྲེན་འཇུག་བྱེད་པ།"
+
+msgid "Continue the slideshow"
+msgstr "མུ་མཐུད་སྒྲོན་བརྙན་སྟོན་འགྲེམས་བྱེད་པ།"
+
+msgid "Contrast Expansion"
+msgstr "སྡུར་ཚད་རྒྱ་སྐྱེད་བྱེད་པ།"
+
+msgid "Copy Color Adjustments"
+msgstr "ཁ་དོག་ལེགས་སྒྲིག་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "Copy the color adjustments applied to the photo"
+msgstr "འདྲ་ཕབ་དེ་འདྲ་པར་གྱི་ཁ་དོག་ལེགས་སྒྲིག་ལ་བཀོལ་སྤྱོད་བྱེད་པ།"
+
+msgid "Copyright 2009-2014 Yorba Foundation"
+msgstr "པར་དབང་ཚང་མ 2009-2014 Yorba Foundation"
+
+msgid "Copyright 2010 Maxim Kartashev, Copyright 2011-2014 Yorba Foundation"
+msgstr ""
+"པར་དབང་ཚང་མ 2010 Maxim Kartashev, པར་དབང་ཚང་མ 2011-2014 Yorba Foundation"
+
+msgid "Copyright 2010+ Evgeniy Polyakov <zbr@ioremap.net>"
+msgstr "པར་དབང་ཚང་མ 2010+ Evgeniy Polyakov <zbr@ioremap.net>"
+
+msgid "Copyright 2012 BJA Electronics"
+msgstr "པར་དབང་ཚང་མ 2012 BJA Electronics"
+
+msgid "Copyright:"
+msgstr "པར་དབང་།:"
+
+msgid "Core Data Import Services"
+msgstr "སྲོག་ཤིང་གི་གཞི་གྲངས་འདྲེན་འཇུག་ཞབས་ཞུ།"
+
+msgid "Core Publishing Services"
+msgstr "ཡར་བསྐུར་གཙོ་བོའི་ཞབས་ཞུ།"
+
+msgid "Core Slideshow Transitions"
+msgstr "སྒྲོན་བརྙན་གཙོ་བོའི་བརྗེ་བསྒྱུར།"
+
+msgid "Corrupt image file"
+msgstr "སྐྱོན་ཤོར་བའི་པར་རིས།"
+
+msgid "Could not load UI: %s"
+msgstr "རིས་དབྱིབས་མཚམས་ངོས་ཁུར་སྣོན་བྱེད་ཐབས་བྲལ།:%s"
+
+msgid "Create Tag"
+msgstr "གདོང་འཛར་གསར་བཟོ།"
+
+msgid "Create a _new album named:"
+msgstr "པར་དེབ་གསར་པ་ཞིག་བཟོས་པའི་མིང་ལ། (_N)："
+
+msgid "Creating New Event"
+msgstr "དོན་རྐྱེན་གསར་པ་བཟོ་བཞིན་པ།"
+
+msgid "Creating album %s..."
+msgstr "པར་དེབ་བཟོ་བཞིན་པ། %s"
+
+msgid "Creating album..."
+msgstr "པར་དེབ་གསར་བཟོ།"
+
+msgid "Crop"
+msgstr "དྲས་གཏུབ།"
+
+msgid "Crop the photo's size"
+msgstr "འདྲ་པར་དྲས་གཏུབ་ཀྱི་ཆེ་ཆུང་།"
+
+msgid "Crumble"
+msgstr "ཧྲུག་ལྷེབ།"
+
+msgid "Current"
+msgstr "མིག་སྔར།"
+
+msgid "Current Development:"
+msgstr "མིག་སྔའི་གསར་སྤེལ།:"
+
+msgid "Custom"
+msgstr "མཚན་ཉིད་རང་འཇོག"
+
+msgid "DIRECTORY"
+msgstr " དཀར་ཆག"
+
+msgid "D_escending"
+msgstr "རིམ་འབེབས། (_D)"
+
+msgid "Data Imports"
+msgstr "གཞི་གྲངས་འདྲེན་འཇུག"
+
+msgid "Database error"
+msgstr "གཞི་གྲངས་མཛོད་ནོར་འཁྲུལ།"
+
+msgid "Database file:"
+msgstr "གཞི་གྲངས་མཛོད་ཀྱི་ཡིག་ཆ།:"
+
+msgid "Date"
+msgstr "དུས་ཚོད།"
+
+msgid "De_fault:"
+msgstr "སོར་བཞག (_F)："
+
+msgid "Decrease Rating"
+msgstr "སྐར་དཔྱད་དམའ་རུ་བཏང་བ།"
+
+msgid "Decrease the magnification of the photo"
+msgstr "ཆུང་བསྡུས་རི་མོ།"
+
+msgid "Decrease the magnification of the thumbnails"
+msgstr "ཆུང་བསྡུས་རི་མོ།"
+
+msgid "Decreasing ratings"
+msgstr "སྐར་དཔྱད་དམའ་རུ་བཏང་བ།"
+
+msgid "Delete"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
+
+msgid "Delete Search"
+msgstr "འཚོལ་བཤེར་བབསུབ་པ།"
+
+msgid "Delete Search \"%s\""
+msgstr "འཚོལ་བཤེར་%sབབསུབ་པ།"
+
+msgid "Delete Tag"
+msgstr "གདོང་འཛར་བབསུབ་པ།"
+
+msgid "Delete Tag \"%s\""
+msgstr "གདོང་འཛར་%sབབསུབ་པ།"
+
+msgid "Delete all photos in the trash"
+msgstr "ཕྱིར་བསྡུའི་ས་ཚིགས་ཁྲོད་ཀྱི་འདྲ་པར་ཆ་ཚང་བསུབ་དགོས།"
+
+msgid "Delete these files from camera?"
+msgid_plural "Delete these %d files from camera?"
+msgstr[0] "པར་ཆས་ནས་ཡིག་ཆ་%d བསུབ་བམ།"
+msgstr[1] "པར་ཆས་ནས་ཡིག་ཆ་%d བསུབ་བམ།"
+
+msgid "Delete this photo from camera?"
+msgid_plural "Delete these %d photos from camera?"
+msgstr[0] "པར་ཆས་ནས་འདྲ་པར་%d བབསུབ་པ།"
+msgstr[1] "པར་ཆས་ནས་འདྲ་པར་%d བབསུབ་པ།"
+
+msgid "Delete this photo/video from camera?"
+msgid_plural "Delete these %d photos/videos from camera?"
+msgstr[0] "པར་ཆས་ནས་འདྲ་པར་/བརྙན་ཟློས་%d བསུབ་བམ།"
+msgstr[1] "པར་ཆས་ནས་འདྲ་པར་/བརྙན་ཟློས་%d བསུབ་བམ།"
+
+msgid "Delete this video from camera?"
+msgid_plural "Delete these %d videos from camera?"
+msgstr[0] "པར་ཆས་ནས་བརྙན་ཐུང་འདི་%d བསུབ་བམ།"
+msgstr[1] "པར་ཆས་ནས་བརྙན་ཐུང་འདི་%d བསུབ་བམ།"
+
+msgid "Deleting Photos"
+msgstr "འདྲ་པར་བབསུབ་པ།"
+
+msgid "Deleting..."
+msgstr "བབསུབ་པ།"
+
+msgid "Developer:"
+msgstr "གསར་སྤེལ་བ།"
+
+msgid "Disable _comments"
+msgstr "དཔྱད་གཏམ་སྤྱོད་འགོག(_C)"
+
+msgid "Disk failure"
+msgstr "སྡུད་སྡེར་ནོར་འཁྲུལ།"
+
+msgid "Disk full"
+msgstr "སྡུད་སྡེར་ཁེངས་ཚར།"
+
+msgid "Display"
+msgstr "འཆར་ཆས།"
+
+msgid "Display %s"
+msgstr " %sའཆར་བ།"
+
+msgid "Display %s or Better"
+msgstr " %sའཆར་བའམ་ཡང་ན་དེ་བས་མཐོ།"
+
+msgid "Display basic information for the selection"
+msgstr "འདེམས་ཐོན་བྱུང་བའི་གཞི་རྩའི་ཆ་འཕྲིན་འཆར་བ།"
+
+msgid "Display each photo's rating"
+msgstr "འདྲ་པར་རེ་རེའི་སྐར་གྲངས་དཔྱད་བསྡུར་འཆར་བ།"
+
+msgid "Display each photo's tags"
+msgstr "འདྲ་པར་རེ་རེའི་གདོང་འཛར་འཆར་བ།"
+
+msgid "Display extended information for the selection"
+msgstr "བདམས་ཚན་གྱི་རྒྱ་སྐྱེད་ཆ་འཕྲིན་འཆར་བ།"
+
+msgid "Display the comment of each event"
+msgstr "དོན་རྐྱེན་རེ་རེའི་གསལ་འགྲེལ་འཆར་བ།"
+
+msgid "Display the comment of each photo"
+msgstr "དོན་རྐྱེན་རེ་རེའི་གསལ་འགྲེལ་འཆར་བ།"
+
+msgid "Display the search bar"
+msgstr "བཤེར་འཚོལ་སྡེ་འཆར་བ།"
+
+msgid "Display the sidebar"
+msgstr "ཟུར་མངོན་སྡེ་འཆར་བ།"
+
+msgid "Display the title of each photo"
+msgstr "འདྲ་པར་རེ་རེའི་གདོང་འཛར་འཆར་བ།"
+
+msgid "Do not monitor library directory at runtime for changes"
+msgstr "བྱ་རིམ་འཁོར་སྐྱོད་བྱེད་སྐབས་ཡིག་ཁུག་འགྱུར་ལྡོག་ལ་སོ་ལྟ་མ་བྱེད།"
+
+msgid "Don't display startup progress meter"
+msgstr "ལས་འགོ་འཛུགས་པའི་འཕེལ་རིམ་མི་འཆར་བ།"
+
+msgid "Drag and drop photos onto the Shotwell window"
+msgstr "འདྲ་པར་འདྲུད་གཏོང་བྱས་ནས་པར་རིས་དོ་དམ་ཆས་ཀྱི་སྒེའུ་ཁུང་ནང་ཞོག"
+
+msgid "Duplicate Photos/Videos Not Imported:"
+msgstr "གཤམ་གྱི་བསྐྱར་ཟློས་ཀྱི་འདྲ་པར/བརྙན་ཟློས་འདྲེན་འཇུག་བྱས་མེད།"
+
+msgid "Duplicating photos"
+msgstr "འདྲ་པར་འདྲ་བཤུས་བཟོ་བཞིན་ཡོད།"
+
+msgid "E_xtended Information"
+msgstr "ཆ་འཕྲིན་རྒྱ་སྐྱེད།(_X)"
+
+msgid "E_xternal photo editor:"
+msgstr "ཕྱིའི་འདྲ་པར་རྩོམ་སྒྲིག་ཆས།(_X)："
+
+msgid "Edit Comment"
+msgstr "གསལ་འགྲེལ་བཟོ་བཅོས།"
+
+msgid "Edit Event Comment"
+msgstr "དོན་རྐྱེན་གྱི་གསལ་འགྲེལ་བཟོ་བཅོས།"
+
+msgid "Edit Event _Comment..."
+msgstr "དོན་རྐྱེན་གྱི་གསལ་འགྲེལ་བཟོ་བཅོས།(_C)"
+
+msgid "Edit Photo/Video Comment"
+msgstr "འདྲ་པར།/བརྙན་ཟློས་གསལ་འགྲེལ་བཟོ་བཅོས།"
+
+msgid "Edit Title"
+msgstr "ཁ་བྱང་རྩོམ་སྒྲིག"
+
+msgid "Edit _Comment..."
+msgstr "གསལ་འགྲེལ་རྩོམ་སྒྲིག(_C)..."
+
+msgid "Edit _Title..."
+msgstr "རྩོམ་སྒྲིག་གི་ཁ་བྱང་།(_T)..."
+
+msgid "Empty T_rash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།(_R)"
+
+msgid "Empty Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།"
+
+msgid "Emptying Trash..."
+msgstr "སྙིགས་སྒམ་གཙང་སེལ་བྱེད་བཞིན་པ།"
+
+msgid "Enhance"
+msgstr "ཤུགས་ཆེ་རུ་གཏོང་བ།"
+
+msgid "Enhancing"
+msgstr "ཤུགས་ཇེ་ཆེར་གཏོང་བཞིན་ཡོད།"
+
+msgid ""
+"Enter the URL of your Piwigo photo library as well as the username and "
+"password associated with your Piwigo account for that library."
+msgstr ""
+"ཁྱེད་རང་གི་Piwigoའདྲ་པར་མཛོད་ཀྱི་URLདང་དེ་བཞིནPiwigoའདྲ་པར་མཛོད་ཀྱི་འབྲེལ་ཡོད་བཀོལ་མཁན་གྱི་མིང་དང་གསང་གྲངས་ནང་འཇུག་བྱེད་དགོས།"
+
+msgid ""
+"Enter the confirmation number which appears after you log into Flickr in "
+"your Web browser."
+msgstr ""
+"ཁྱེད་ཀྱིས་དྲ་ངོས་བཤར་ཆས་བཀོལ་ནས་Flickrཐོ་འཇུག་བྱས་རྗེས་ཐོན་པའི་གཏན་འཁེལ་ཨང་རྟགས་ནང་འཇུག་བྱོས།"
+
+msgid "Enter the username and password associated with your Tumblr account."
+msgstr ""
+"ཁྱེད་རང་གི་Tumblrརྩིས་ཐོའི་ཨང་གྲངས་དང་འབྲེལ་ཡོད་སྤྱོད་མཁན་གྱི་མིང་དང་གསང་གྲངས་ནང་འཇུག་བྱོས།"
+
+msgid "Error loading UI file %s: %s"
+msgstr "UIཡིག་ཆ་%s འགེལ་འཇུག་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།：%s"
+
+msgid "Error while saving to %s: %s"
+msgstr "%s ཉར་ཚགས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།：%s"
+
+msgid "Even_ts"
+msgstr "བྱ་འགུལ།(_T)"
+
+msgid "Event %s"
+msgstr "བྱ་འགུལ་%s"
+
+msgid "Event name"
+msgstr "དོན་རྐྱེན་གྱི་མིང་།"
+
+msgid "Events"
+msgstr "དོན་རྐྱེན།"
+
+msgid "Everyone"
+msgstr "བདག་པོ།"
+
+msgid "Example:"
+msgstr "དཔེར་ན།"
+
+msgid "Export"
+msgstr "ཕྱིར་འདོན།"
+
+msgid "Export Photo"
+msgstr "འདྲ་པར་ཕྱིར་འདོན།"
+
+msgid "Export Photo/Video"
+msgstr "འདྲ་པར།/བརྙན་ཟློས་ཕྱིར་འདོན།"
+
+msgid "Export Photos"
+msgstr "འདྲ་པར་ཕྱིར་འདོན།"
+
+msgid "Export Photos/Videos"
+msgstr "འདྲ་པར།/བརྙན་ཟློས་ཕྱིར་འདོན།"
+
+msgid "Export Video"
+msgstr "བརྙན་ཟློས་ཕྱིར་འདོན།"
+
+msgid "Export Videos"
+msgstr "བརྙན་ཟློས་ཕྱིར་འདོན།"
+
+msgid "Export metadata"
+msgstr "གཞི་གྲངས་ཕྱིར་འདྲོན།"
+
+msgid "Exporting"
+msgstr "ཕྱིར་འདོན་བྱེད་བཞིན་པ།"
+
+msgid "Exposure"
+msgstr "འོད་ཕོག"
+
+msgid "Exposure bias:"
+msgstr "འོད་ཕོག་ཡོ་ཁྱད།"
+
+msgid "Exposure date:"
+msgstr "འོད་ཕོག་ཚེས་གྲངས།"
+
+msgid "Exposure time:"
+msgstr "འོད་ཕོག་དུས་ཚོད།"
+
+msgid "Exposure:"
+msgstr "འོད་ཕོག："
+
+msgid "Extended Information"
+msgstr "ཆ་འཕྲིན་རྒྱ་སྐྱེད།"
+
+msgid "External Editors"
+msgstr "ཕྱིའི་རྩོམ་སྒྲིག་ཆས།"
+
+msgid "External _RAW editor:"
+msgstr "ཕྱི་ཕྱོགས་RAWརྩོམ་སྒྲིག་ཆས།(_R)"
+
+msgid "F-Spot library: %s"
+msgstr "F-Spotསྨྱན་གཟུགས་མཛོད།：%s"
+
+msgid "Fade"
+msgstr "ཉུང་གཏོང་།"
+
+msgid "Family only"
+msgstr "ཁྱིམ་མི་ཁོ་ནར་ཚོད་འཛིན་བྱེད་པ།"
+
+msgid "Fetching account information..."
+msgstr "རྩིས་ཨང་གི་ཆ་འཕྲིན་ཐོབ་ལེན།"
+
+msgid "Fetching photo information"
+msgstr "འདྲ་པར་ཆ་འཕྲིན་ཐོབ་ལེན།"
+
+msgid "Fetching preview for %s"
+msgstr "ཐོབ་ཟིན་པའི་%s སྔོན་ལྟ།"
+
+msgid "File %s already exists.  Replace?"
+msgstr "ཡིག་ཆ་%sབསྡད་འགུག བརྗེ་དགོས་སམ།"
+
+msgid "File already exists in database"
+msgstr "ཡིག་ཆ་གཞི་གྲངས་མཛོད་དུ་ཡོད་པ།"
+
+msgid "File error"
+msgstr "ཡིག་ཆའི་ནོར་འཁྲུལ།"
+
+msgid "File name"
+msgstr " ཡིག་ཆའི་མིང་།"
+
+msgid "File size:"
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་།"
+
+msgid "File write error"
+msgstr "ཡིག་ཆ་འབྲི་འཇུག་ནོར་འཁྲུལ།"
+
+msgid ""
+"Files Not Imported Because They Weren't Recognized as Photos or Videos:"
+msgstr ""
+"གཤམ་གྱི་ཡིག་ཆ་དག་འདྲ་པར་དང་བརྙན་ཟློས་སུ་ངོས་འཛིན་མི་བྱེད་པའི་དབང་གིས་འདྲེན་འཇུག་མ་བྱས།"
+
+msgid "Fill the entire page"
+msgstr "ཤོག་ངོས་ཧྲིལ་པོ་ཁ་སྐོང་།"
+
+msgid "Filter Photos"
+msgstr "འདྲ་པར་འཚག་པ།"
+
+msgid "Find"
+msgstr "འཚོལ་ཞིབ།"
+
+msgid "Find an image by typing text that appears in its name or tags"
+msgstr "མིང་ངམ་གདོང་འཛར་གཞིར་བཟུང་ནས་པར་རིས་འཚོལ་དགོས།"
+
+msgid "Find photos and videos by search criteria"
+msgstr "སྒྲིག་སྲོལ་ལྟར་འདྲ་པར་དང་བརྙན་ཟློས་འཚོལ་དགོས།"
+
+msgid "Fit to _Page"
+msgstr "དྲ་ངོས་དང་མཐུན།(_P)"
+
+msgid "Flag"
+msgstr "མཆན་འགྲེལ།"
+
+msgid "Flag selected photos"
+msgstr "བདམས་པའི་འདྲ་པར་ལ་མཆན་འགོད།"
+
+msgid "Flag state"
+msgstr "མཆན་འགོད་རྣམ་པ།"
+
+msgid "Flagged"
+msgstr "མཆན་བཀོད་ཟིན།"
+
+msgid "Flagging selected photos"
+msgstr "བདམས་པའི་འདྲ་པར་ལ་མཆན་འགོད་བཞིན་ཡོད།"
+
+msgid "Flash:"
+msgstr "འཁྱུག་འོད་གློག"
+
+msgid "Flip Hori_zontally"
+msgstr "ཆུ་སྙོམས་སུ་སློག་པ།(_Z)"
+
+msgid "Flip Horizontally"
+msgstr "ཆུ་སྙོམས་སློག་པ།"
+
+msgid "Flip Verti_cally"
+msgstr "དྲང་སློག(_C)"
+
+msgid "Flip Vertically"
+msgstr "དྲང་པོ་སློག་པ།"
+
+msgid "Flipping Horizontally"
+msgstr "ཆུ་སྙོམས་སུ་སློག་བཞིན་པ།"
+
+msgid "Flipping Vertically"
+msgstr "དྲང་འཕྱང་དུ་སློག་བཞིན་པ།"
+
+msgid "Focal length:"
+msgstr "མདོ་ཐག"
+
+msgid "Folders"
+msgstr " དཀར་ཆག"
+
+msgid "Friends & family only"
+msgstr "གྲོགས་པོ་དང་ནང་མི་ཁོ་ན་ཡོད།"
+
+msgid "Friends only"
+msgstr "གྲོགས་པོ་ཁོ་ན་ཡིན་པ།"
+
+msgid "From:"
+msgstr "གཏོང་མཁན།"
+
+msgid "Fulls_creen"
+msgstr "བརྙན་ཡོལ་ཡོངས་རྫོགས།(_C)"
+
+msgid "GPS latitude:"
+msgstr "GPS འཕྲེད་ཚད།："
+
+msgid "GPS longitude:"
+msgstr "GPS འཕྲེད་ཚད།："
+
+msgid "Generate desktop background slideshow"
+msgstr "ཅོག་ངོས་རྒྱབ་ལྗོངས་སྒྲོན་བརྙན་གྲུབཔར་བྱེད་པ།"
+
+msgid "Go to the next photo"
+msgstr "འདྲ་པར་རྗེས་མར་མཆོངས།"
+
+msgid "Go to the previous photo"
+msgstr "འདྲ་པར་གོང་མར་མཆོངས།"
+
+msgid "Google+ (2048 x 1536 pixels)"
+msgstr "Gooogle+（2048 x 1536བརྙན་རྒྱུ）"
+
+msgid "HD Video (16 : 9)"
+msgstr "དྭངས་གསལ་བརྙན་ཟློས།(16： 9)"
+
+msgid "Height"
+msgstr "མཐོ་ཚད།"
+
+msgid "Hide photos already imported"
+msgstr "འདྲེན་འཇུག་བྱས་ཟིན་པའི་འདྲ་པར་སྦས་ཡོད།"
+
+msgid "High (%d%%)"
+msgstr "མཐོ་ཚད།(%d%%)"
+
+msgid "Highlights"
+msgstr "མདངས་ཆེན།"
+
+msgid "Highlights:"
+msgstr "འོད་མཐོ།："
+
+msgid "How long each photo is shown on the desktop background"
+msgstr "འདྲ་པར་རེ་རེ་སྒྲོག་ཙེའི་ངོས་ཀྱི་རྒྱབ་ལྗོངས་ཐོག་ཐོན་པའི་དུས་ཡུན།"
+
+msgid "Image Settings"
+msgstr "བརྙན་རིས་སྒྲིག་འགོད།"
+
+msgid "Import Complete"
+msgstr "འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ།"
+
+msgid "Import From Application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ནས་འདྲེན་འཇུག"
+
+msgid "Import From Folder"
+msgstr "ཡིག་ཁུག་ནས་འདྲེན་འཇུག"
+
+msgid "Import From _Application..."
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ནས་འདྲེན་འཇུག(_A)..."
+
+msgid "Import Results Report"
+msgstr "འདྲེན་འཇུག་བྱས་འབྲས་སྙན་ཞུ།"
+
+msgid "Import _All"
+msgstr "ཡོངས་རྫོགས་འདྲེན་འཇུག(_A)"
+
+msgid "Import _Selected"
+msgstr "བདམས་པའི་རྣམ་གྲངས་འདྲེན་འཇུག"
+
+msgid "Import all the photos into your library"
+msgstr "འདྲ་པར་ཡོད་ཚད་ཁྱེད་རང་གི་སྨྱན་གཟུགས་མཛོད་དུ་འདྲེན་འཇུག་བྱོས།"
+
+msgid "Import media _from:"
+msgstr "གཤམ་གསལ་གྱི་གནས་ནས་སྨྱན་གཟུགས་འདྲེན་འཇུག་བྱོས།"
+
+msgid "Import photos from disk to library"
+msgstr "སྡུད་སྡེར་ནས་སྨྱན་གཟུགས་མཛོད་དུ་པར་འདྲེན་འཇུག་བྱོས།"
+
+msgid "Import photos from your %s library"
+msgstr "ཁྱེད་རང་གི་ %s པར་མཛོད་ནས་འདྲ་པར་འདྲེན་འཇུག་བྱོས།"
+
+msgid "Import the selected photos into your library"
+msgstr "བདམ་སཟིན་པའི་འདྲ་པརཁྱེད་ཀྱི་སྨྱན་གཟུགས་མཛོད་དུ་འདྲེན་འཇུག་བྱོས།"
+
+msgid "Import to Library"
+msgstr "སྨྱན་གཟུགས་མཛོད་དུ་འདྲེན་འཇུག།"
+
+msgid "Imported %s"
+msgstr "%sའདྲེན་འཇུག་བྱས་ཟིན།"
+
+msgid "Imported failed (%d)"
+msgstr "(%d)འདྲེན་འཇུག་ཕམ་པ།"
+
+msgid "Importing"
+msgstr "འདྲེན་འཇུག་བྱེད་བཞིན་པ།"
+
+msgid "Importing from %s can't continue because an error occurred:"
+msgstr "ནོར་འཁྲུལ་བྱུང་ན།མུ་མཐུད་དུ་ %s：འདྲེན་འཇུག་བྱེད་མི་ཐུབ།"
+
+msgid "Importing..."
+msgstr "འདྲེན་འཇུག"
+
+msgid "Increase Rating"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་མཐོ་རུ་གཏོང་དགོས།"
+
+msgid "Increase the magnification of the photo"
+msgstr "ཆེར་སྐྱེད་བསྡུས་རིས།"
+
+msgid "Increase the magnification of the thumbnails"
+msgstr "ཆེར་སྐྱེད་བསྡུས་རིས།"
+
+msgid "Increasing ratings"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་མཐོ་རུ་གཏོང་དགོས།"
+
+msgid "Invalid URL"
+msgstr "ནུས་མེད་URL"
+
+msgid "Invalid User Name or Password"
+msgstr "ནུས་མེད་མིང་ངམ་གསང་རྟགས།"
+
+msgid "Invalid pattern"
+msgstr "ནུས་མེད་རྣམ་པ།"
+
+msgid "Items:"
+msgstr "རྣམ་གྲངས།："
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "Just me"
+msgstr "ང་ལས་མེད།"
+
+msgid "L_ist album in public gallery"
+msgstr "ཡོངས་བསྒྲགས་པར་མཛོད་ནང་གི་པར་དེབ་འཆར་བ།"
+
+msgid "Large (2048 pixels)"
+msgstr "ཆེ་གྲས།（བརྙན་རྒྱུ།2048）"
+
+msgid "Last Import"
+msgstr "ཉེ་དུས་འདྲེན་འཇུག"
+
+msgid "Leave _Fullscreen"
+msgstr "བརྙན་ཡོལ་ཡོངས་རྫོགས་ལས་ཕྱིར་འབུད།(_F)"
+
+msgid "Leave fullscreen"
+msgstr "བརྙན་ཡོལ་ཡོངས་ནས་ཕྱིར་འབུད།"
+
+msgid "Letter (8.5 x 11 in.)"
+msgstr "འཕྲིན་ཡིག（དབྱིན་ཚུན།8.5 x 11）"
+
+msgid "Limit the number of photos displayed based on a filter"
+msgstr "འཚག་པའི་ཆ་རྐྱེན་འོག་མངོན་པའི་འདྲ་པར་གྱི་གྲངས་ཀ"
+
+msgid "Loading Shotwell"
+msgstr "པར་རིས་དོ་དམ་ཆས་ནང་དུ་འགོད་བཞིན་ཡོད།"
+
+msgid "Location:"
+msgstr "གནས་ས།:"
+
+msgid "Login"
+msgstr "ཐོ་འགོད།"
+
+msgid "Logout"
+msgstr "ད་ལྟ་རྩིས་ཐེམ་ནས་བསུབ་པ།"
+
+msgid "Lose changes to %s?"
+msgstr " %s བཟོ་བཅོས་རྒྱག་རྒྱུ་བློས་གཏོང་བྱེད་དམ།"
+
+msgid "Low (%d%%)"
+msgstr "དམའ་བ།(%d%%)"
+
+msgid "Make Key Photo for Event"
+msgstr "དོན་རྐྱེན་འགག་རྩའི་འདྲ་པར་གསར་འཛུགས།"
+
+msgid "Make _Key Photo for Event"
+msgstr "དོན་རྐྱེན་ལ་འགག་རྩའི་འདྲ་པར་གསར་འཛུགས་བྱོས།"
+
+msgid "Make a duplicate of the photo"
+msgstr "འདྲ་པར་འདྲ་བཤུས་གསར་འཛུགས།"
+
+msgid "Manually select an F-Spot database file to import:"
+msgstr "ལག་འགུལ་གྱིས་F-Spotགཞི་གྲངས་མཛོད་ཀྱི་ཡིག་ཆ་ཞིག་འདྲེན་འཇུག་བྱོས།"
+
+msgid "Maximum (%d%%)"
+msgstr "ཆེས་ཆེ་བའི（%d%%）"
+
+msgid "Media type"
+msgstr "བར་རྫས་རིགས་རྣམ།"
+
+msgid "Medium (%d%%)"
+msgstr "འབྲིང་།（%d%%）"
+
+msgid "Medium (1024 x 768 pixels)"
+msgstr "འབྲིང་གྲས།（བརྙན་རྒྱུ།1024 x 768）"
+
+msgid "Merge"
+msgstr "ཟླ་སྒྲིལ་གཏོང་བ།"
+
+msgid "Merging"
+msgstr "ཟླ་སྒྲིལ་གཏོང་བ།"
+
+msgid "Metadata"
+msgstr "རྒྱུའི་གཞི་གྲངས།"
+
+msgid "Metric Wallet (9 x 13 cm)"
+msgstr "ཀོ་སྟོད་ལ་སྤྱོད་པ།（ལི་སྨི་9 x 13 ）"
+
+msgid "Modif_y Tags..."
+msgstr "གདོང་འཛར་བཟོ་བཅོས་བྱེད་པ།(_Y)..."
+
+msgid "Move Photos"
+msgstr "འདྲ་པར་སྤོ་སྒུལ།"
+
+msgid "Move Photos to Trash"
+msgstr "འདྲ་པར་སྙིགས་སྒམ་དུ་སྤོ་སྒུལ།"
+
+msgid "Move Tag \"%s\""
+msgstr "གདོང་འཛར་%sསྤོ་སྒུལ།"
+
+msgid "Move photos to an event"
+msgstr "འདྲ་པར་དོན་རྐྱེན་ཞིག་ལ་སྤོས།"
+
+msgid "Move the photos to the Shotwell trash"
+msgstr "འདྲ་པར་དེ་པར་རིས་དོ་དམ་ཆས་སྙིགས་སྒམ་དུ་སྤོས།"
+
+msgid "Move the selected photos back into the library"
+msgstr "བདམས་པའི་འདྲ་པར་སྨྱན་གཟུགས་མཛོད་དུ་སྤོས།"
+
+msgid "Moving Photos to New Event"
+msgstr "འདྲ་པར་དོན་རྐྱེན་གསར་པར་སྤོ་བཞིན་ཡོད།"
+
+msgid "Moving Photos to Trash"
+msgstr "འདྲ་པར་སྙིགས་སྒམ་དུ་སྤོ་བཞིན་ཡོད།"
+
+msgid "Name:"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
+
+msgid "Ne_w Saved Search..."
+msgstr "གསར་སྐྲུན་ཉར་ཚགས་འཚོལ་བཤེར།(_W)..."
+
+msgid "New Event"
+msgstr "གསར་འཛུགས་བྱེད་སྒོ།"
+
+msgid "New _Tag..."
+msgstr "གསར་དུ་བསྐྲུན་པའི་གདོང་འཛར།(_T)..."
+
+msgid "Next"
+msgstr "གཞས་ཕྱི་མ།"
+
+msgid "Next Photo"
+msgstr "འདྲ་པར་རྗེས་མ།"
+
+msgid "Next photo"
+msgstr "འདྲ་པར་རྗེས་མ།"
+
+msgid "No Event"
+msgstr "དོན་རྐྱེན་མེད།"
+
+msgid "No events"
+msgstr "དོན་རྐྱེན་མེད།"
+
+msgid "No events found"
+msgstr "དོན་རྐྱེན་མ་རྙེད།"
+
+msgid "No photos or videos imported.\n"
+msgstr "འདྲ་པར་དང་བརྙན་ཟློས་འདྲེན་འཇུག་བྱས་མེད། \n"
+
+msgid "No photos/videos"
+msgstr "འདྲ་པར།/བརྙན་ཟློས་མེད།"
+
+msgid "No photos/videos found"
+msgstr "འདྲ་པར་དང་བརྙན་ཟློས་རྙེད་མ་བྱུང་།"
+
+msgid "None"
+msgstr " མེད།"
+
+msgid "Not a file"
+msgstr "ཡིག་ཆ་ཞིག་མ་རེད།"
+
+msgid "Not an image file"
+msgstr "འདྲ་པར་ཡིག་ཆ་མ་རེད།"
+
+msgid "Notecard (3 x 5 in.)"
+msgstr "ལན་འཕྲིན་བྱང་བུ།"
+
+msgid "OK"
+msgstr " གཏན་འཁེལ།"
+
+msgid "Of these, %d file was successfully imported."
+msgid_plural "Of these, %d files were successfully imported."
+msgstr[0] "དེའི་ནང་ཡིག་ཆ་%d འདྲེན་འཇུག་ལེགས་གྲུབ་བྱས་ཟིན།"
+msgstr[1] "དེའི་ནང་ཡིག་ཆ་%d འདྲེན་འཇུག་ལེགས་གྲུབ་བྱས་ཟིན།"
+
+msgid "One original photo could not be adjusted."
+msgid_plural "The following original photos could not be adjusted."
+msgstr[0] "གཤམ་གསལ་གྱི་གདོད་མའི་འདྲ་པར་བཟོ་བཅོས་བྱེད་ཐབས་བྲལ།"
+msgstr[1] "གཤམ་གསལ་གྱི་གདོད་མའི་འདྲ་པར་བཟོ་བཅོས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Only _Remove"
+msgstr "ཁོ་ན་འབུད་པ།(_R)"
+
+msgid "Only display photos that have not been imported"
+msgstr "འདྲེན་འཇུག་བྱས་མེད་པའི་འདྲ་པར་ལས་མི་འཆར་བ།"
+
+msgid "Only show photos with a rating of %s"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་%s ཡི་འདྲ་པར་ཁོ་ན་འཆར་བ།"
+
+msgid "Only show photos with a rating of %s or better"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་%s དང་ཡང་ན་དེ་ལས་མཐོ་བའི་འདྲ་པར་ལས་མི་འཆར་བ།"
+
+msgid "Open With E_xternal Editor"
+msgstr "ཕྱི་ཕྱོགས་ཀྱི་རྩོམ་སྒྲིག་ཆས་བཀོལ་ནས་ཁ་འབྱེད་པ།(_X)"
+
+msgid "Open With RA_W Editor"
+msgstr "RA-Wརྩོམ་སྒྲིག་ཆས་བཀོལ་ནས་ཁ་ཕྱེ་བ།"
+
+msgid "Open the selected photo's directory in the file manager"
+msgstr "ཡིག་ཆའི་དོ་དམ་ཆས་ཁྲོད་བདམས་པའི་འདྲ་པར་དཀར་ཆག་ཁ་ཕྱེ་དགོས།"
+
+msgid "Open the selected videos in the system video player"
+msgstr "རྒྱུད་ཁོངས་བརྙན་ཟློས་གཏོང་ཆས་ནང་ནས་བདམས་པའི་བརྙན་ཟློས་ཁ་ཕྱེ་བ།"
+
+msgid "Original Size"
+msgstr "གདོད་མའི་ཆེ་ཆུང་།"
+
+msgid "Original photo could not be adjusted."
+msgstr "གདོད་མའི་འདྲ་པར་ལ་བཟོ་བཅོས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Original size"
+msgstr "གདོད་མའི་ཆེ་ཆུང་།"
+
+msgid "Original: "
+msgstr "གོདད་མ།"
+
+msgid "PM"
+msgstr "ཕྱི་དྲོ།"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Paste Color Adjustments"
+msgstr "སྦྱར་མའི་ཁ་དོག་ལེགས་སྒྲིག"
+
+msgid "Path to Shotwell's private data"
+msgstr "པར་རིས་དོ་དམ་ཆས་བྱ་རིམ་གཞི་གྲངས་དཀར་ཆག"
+
+msgid "Pause"
+msgstr " སྐབས་འཇོག"
+
+msgid "Pause the slideshow"
+msgstr "སྒྲོན་བརྙན་སྟོན་པ་གནས་སྐབས་མཚམས་འཇོག"
+
+msgid "Photo Manager"
+msgstr "འདྲ་པར་དོ་དམ་ཆས།"
+
+msgid "Photo Viewer"
+msgstr "འདྲ་པར་ལྟ་ཆས།"
+
+msgid "Photo _size preset:"
+msgstr "འདྲ་པར་ཆེ་ཆུང་སྔོན་འགོད།(_S)："
+
+msgid "Photo _size:"
+msgstr "འདྲ་པར་ཆེ་ཆུང་།(_S)："
+
+msgid "Photo source file missing: %s"
+msgstr "འདྲ་པར་གྱི་ཁུངས་ཡིག་བོར་བ།：%s"
+
+msgid "Photo state"
+msgstr "འདྲ་པར་གྱི་རྣམ་པ།"
+
+msgid "Photos"
+msgstr "འདྲ་པར།"
+
+msgid "Photos _visible to:"
+msgstr "འདྲ་པར་མཐོང་ཐུབ་པ།(_V)："
+
+msgid "Photos and videos _visible to:"
+msgstr "འདྲ་པར་དང་བརྙན་ཟློས་མཐོང་ཐུབ་པ།(_V)："
+
+msgid "Photos cannot be exported to this directory."
+msgstr "འདྲ་པར་ཡིག་ཆ་འདིའི་ནང་དུ་ཕྱིར་འདྲེན་བྱས་མི་ཆོག"
+
+msgid "Photos cannot be imported from this directory."
+msgstr "ཡིག་ཁུག་འདི་ནས་འདྲ་པར་འདྲེན་འཇུག་བྱ་ཐབས་མེད།"
+
+msgid "Photos will appear in:"
+msgstr "འདྲ་པར་གཤམ་གསལ་དུ་འབྱུང་སྲིད་པ།："
+
+msgid "Photos will be _visible by:"
+msgstr "འདྲ་པར་མཐོང་ཐུབ་པ།(_V)："
+
+msgid "Photos/Videos Not Imported Because Files Are Corrupt:"
+msgstr "གཤམ་གསལ་འདྲ་པར/བརྙན་ཟློས་ལ་སྐྱོན་ཤོར་ཡོད་པས་འདྲེན་འཇུག་མ་བྱས།"
+
+msgid ""
+"Photos/Videos Not Imported Because Shotwell Couldn't Copy Them into its "
+"Library:"
+msgstr ""
+"གཤམ་གྱི་འདྲ་པར/བརྙན་ཟློས་དག་པར་རིས་དོ་དམ་ཆས་མཁོ་ཕབ་བྱེད་མི་ཐུབ་པས་འདྲེན་འཇུག་བྱས་མེད།"
+
+msgid ""
+"Photos/Videos Not Imported Because They Weren't in a Format Shotwell "
+"Understands:"
+msgstr ""
+"གཤམ་གྱི་འདྲ་པར/བརྙན་ཟློས་དག་པར་རིས་དོ་དམ་ཆས་ཀྱིས་ངོས་འཛིན་བྱེད་པའི་རྣམ་གཞག་མ་ཡིན་པས་འདྲེན་འཇུག་བྱས་མེད།"
+
+msgid "Photos/Videos Not Imported Due to Camera Errors:"
+msgstr "འདྲ་པར་/བརྙན་ཟློས་དག་པར་ཆས་ནོར་བས་འདྲེན་འཇུག་མ་བྱས།"
+
+msgid "Photos/Videos Not Imported for Other Reasons:"
+msgstr "རྒྱུ་རྐྱེན་གཞན་པའི་དབང་གིས་འདྲེན་འཇུག་མ་བྱས་པའི་འདྲ་པར/བརྙན་ཟློས།"
+
+msgid "Pictures"
+msgstr " པར་རིས།"
+
+msgid "Pin Toolbar"
+msgstr "གཏན་འཇགས་ལག་ཆའི་སྡེ།"
+
+msgid "Pin the toolbar open"
+msgstr "ལག་ཆའི་སྡེ་ཁ་ཕྱེ་བར་གཏན་འཁེལ་བྱས།"
+
+msgid "Pivot the crop rectangle between portrait and landscape orientations"
+msgstr ""
+"བརྙན་པར་དང་མཛེས་ལྗོངས་ཀྱི་ཁ་ཕྱོགས་སུ་འཁྱིལ་འཁོར་བྱེད་པའི་གྲུ་བཞི་ནོར་དྲས་གཏུབ།"
+
+msgid "Play"
+msgstr " བསྒྲགས་གཏོང་།"
+
+msgid "Play a slideshow"
+msgstr "སྒྲོན་བརྙན་གཏོང་འགོ་ཚུགས་པ།"
+
+msgid "Please close any other application using the camera."
+msgstr "པར་ཆས་འདི་བེད་སྤྱོད་པའི་གོ་རིམ་གཞན་དག་སྒོ་རྒྱག་རོགས།"
+
+msgid "Please unmount the camera."
+msgstr "པར་ཆས་བཤིག་རོགས།"
+
+msgid "Plugins"
+msgstr "བསྒར་ལྷུ།"
+
+msgid "Postcard (10 x 15 cm)"
+msgstr "འཕྲིན་ཤོག（10 x 15）"
+
+msgid "Preparing for upload"
+msgstr "བརྒྱུད་སྤྲོད་བྱེད་རྩིས་ཡོད།"
+
+msgid "Preparing to auto-import photos..."
+msgstr "རང་འགུལ་ངང་པར་འདྲེན་འཇུག་བྱ་རྩིས་ཡོད།"
+
+msgid "Preparing to import"
+msgstr "འདྲེན་འཇུག་གྱི་གྲ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
+
+msgid "Preparing to import..."
+msgstr "འདྲེན་འཇུག་གྲ་སྒྲིག"
+
+msgid "Previous Photo"
+msgstr "འདྲ་པར་སྔོན་མ།"
+
+msgid "Previous photo"
+msgstr "འདྲ་པར་གོང་མ།"
+
+msgid "Print image _title"
+msgstr "བརྙན་རིས་ཁ་བྱང་པར་འདེབས།"
+
+msgid "Print the photo to a printer connected to your computer"
+msgstr "རྩིས་འཁོར་འདི་དང་སྦྲེལ་མཐུད་བྱས་པའི་པར་འཁོར་གྱིས་འདྲ་པར་པར་བཏབ་པ།"
+
+msgid "Printing..."
+msgstr "པར་རྒྱག་བཞིན་པ།"
+
+msgid "Private"
+msgstr "མི་སྒེར།"
+
+msgid "Pu_blish..."
+msgstr "ཁྱབ་བསྒྲགས།"
+
+msgid "Public"
+msgstr "ཡོངས་བསྒྲགས།"
+
+msgid "Public listed"
+msgstr "ཡོངས་བསྒྲགས་སུ་འགོད་པ།"
+
+msgid "Public unlisted"
+msgstr "ཡོངས་བསྒྲགས་སུ་མ་བཀོད་པ།"
+
+msgid "Publish"
+msgstr "ཁྱབ་བསྒྲགས།"
+
+msgid "Publish Photos"
+msgstr "འདྲ་པར་ཁྱབ་བསྒྲགས།"
+
+msgid "Publish Photos and Videos"
+msgstr "འདྲ་པར་དང་བརྙན་ཟློས་ཁྱབ་བསྒྲགས།"
+
+msgid "Publish Videos"
+msgstr "བརྙན་ཟློས་ཁྱབ་བསྒྲགས།"
+
+msgid "Publish photos _to:"
+msgstr "འདྲ་པར་འགྲེམས་སྤེལ།(_T)："
+
+msgid "Publish photos and videos _to"
+msgstr "འདྲ་པར་དང་བརྙན་ཟློས་རུ་འགྲེམས་སྤེལ།(_T)"
+
+msgid "Publish to an e_xisting album:"
+msgstr "སྔར་ཡོད་པར་དེབ་རུ་ཁྱབ་བསྒྲགས་བྱས་ཟིན།(_X)"
+
+msgid "Publish to various websites"
+msgstr "བདམས་པའི་འདྲ་པར་དྲ་ཚིགས་སྣ་ཚོགས་ཐོག་འགྲེམས་སྤེལ་བྱེད་པ།"
+
+msgid "Publish videos _to"
+msgstr "བརྙན་ཟློས་རུ་ཁྱབ་བསྒྲགས།(_T)"
+
+msgid "Publish your pictures to Facebook"
+msgstr "ཁྱེད་རང་གི་པར་དེ་Facebookནང་ཁྱབ་བསྒྲགས་བྱས།"
+
+msgid "Publish your pictures to Flickr"
+msgstr "ཁྱེད་རང་གི་པར་Flickrརུ་ཁྱབ་བསྒྲགས་བྱས་པ།"
+
+msgid "Publish your pictures to Picasa"
+msgstr "ཁྱེད་རང་གི་པར་Picasaལ་སྐུར་རོགས།"
+
+msgid "Publishing to %s can't continue because an error occurred:"
+msgstr ""
+"མུ་མཐུད་དུ་%s ལ་ཁྱབ་བསྒྲགས་བྱེད་ཐབས་བྲལ། "
+"རྒྱུ་མཚན་ནི་ནོར་འཁྲུལ་ཞིག་བྱུང་བས་རེད།"
+
+msgid "RAW"
+msgstr "RAW"
+
+msgid "RAW Developer"
+msgstr "RAWགསར་སྤེལ་བ།"
+
+msgid "RAW Photos"
+msgstr "RAWའདྲ་པར།"
+
+msgid "RAW photos"
+msgstr "RAWའདྲ་པར།"
+
+msgid "R_emove From Library"
+msgstr "སྨྱན་གཟུགས་མཛོད་ནས་སྤོར་དགོས།(_E)"
+
+msgid "R_ename imported files to lowercase"
+msgstr "འདྲེན་འཇུག་ཡིག་ཆས་ལ་ཆུང་བྲིས་ཀྱིས་མིང་བསྐྱར་འདོགས།(_E)"
+
+msgid "Random"
+msgstr "སྐབས་བསྟུན།"
+
+msgid "Rate %s"
+msgstr "%sསྐར་གྲངས་དཔྱད་བསྡུར།"
+
+msgid "Rate Rejected"
+msgstr "ཚོང་ཟོག་སྤུས་ཞན་ལ་བདམས་པ།"
+
+msgid "Rate Unrated"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་མ་བྱས་པ།"
+
+msgid "Rating"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་བྱེད་པ།"
+
+msgid "Re_name Event..."
+msgstr "བསྐྱར་དུ་མིང་བཏགས་པའི་དོན་རྐྱེན།(_N)..."
+
+msgid "Re_name Tag \"%s\"..."
+msgstr "མིང་བསྐྱར་དུ་བཏགས་པའི་གདོང་འཛར། %s (_N)..."
+
+msgid "Re_name..."
+msgstr "མིང་བསྐྱར་འདོགས།(_N)..."
+
+msgid "Re_vert External Edit"
+msgstr "བཟོ་བཅོས་ལྷག་མ་སླར་གསོ།(_V)"
+
+msgid "Re_vert External Edits"
+msgstr "བཟོ་བཅོས་ལྷག་མ་སླར་གསོ།(_V)"
+
+msgid "Re_vert to Original"
+msgstr "གདོད་མར་སླར་གསོ།(_V)"
+
+msgid "Recommended (1600 x 1200 pixels)"
+msgstr "མཚམས་སྦྱོར།(བརྙན་རྒྱུ།1600 x 1200 )"
+
+msgid "Red-eye"
+msgstr "སྤྱན་དམར།"
+
+msgid "Redo"
+msgstr "བསྐྱར་བཟོ།"
+
+msgid "Reduce or eliminate any red-eye effects in the photo"
+msgstr "འདྲ་པར་སྟེང་གི་སྤྱན་དམར་གྱི་ནུས་པ་ཇེ་དམའ་རུ་གཏོང་བའམ་མེད་པར་བཟོ་བ།"
+
+msgid "Rejected Only"
+msgstr "ཐོན་རྫས་སྤུས་ཞན།(_R)"
+
+msgid "Rejected _Only"
+msgstr "ཐོན་རྫས་སྤུས་ཞན།(_R)"
+
+msgid "Remove From Library"
+msgstr "སྨྱན་གཟུགས་མཛོད་ནས་འབུད་པ།"
+
+msgid "Remove Photo From Library"
+msgstr "འདྲ་པར་མཛོད་ནས་འདྲ་པར་འབུད་པ།"
+
+msgid "Remove Photos From Library"
+msgstr "འདྲ་པར་མཛོད་ནས་འདྲ་པར་འབུད་པ།"
+
+msgid "Remove Tag \"%s\" From Photo"
+msgstr "འདྲ་པར་ནས་གདོང་འཛར་%sའབུད་པ།"
+
+msgid "Remove Tag \"%s\" From Photos"
+msgstr "འདྲ་པར་ནས་གདོང་འཛར་%sའབུད་པ།"
+
+msgid "Remove and _Trash File"
+msgstr "མཛོད་ནས་ཡིག་ཆ་འབུད་པའམ་བབསུབ་པ།(_T)"
+
+msgid "Remove any ratings"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་གང་ཡང་འབུད་པ།"
+
+msgid "Remove any red-eye effects in the selected region"
+msgstr "བདམས་པའི་ས་ཁོངས་ནང་གི་སྤྱན་དམར་གྱི་འབྲས་བུ་ཚང་མ་འབུད་པ།"
+
+msgid "Remove the selected photos from the library"
+msgstr "སྨྱན་གཟུགས་མཛོད་ནས་བདམས་པའི་འདྲ་པར་འབུད་པ།"
+
+msgid "Remove the selected photos from the trash"
+msgstr "སྙིགས་སྒམ་ནས་བདམས་པའི་འདྲ་པར་འབུད་པ།"
+
+msgid "Removing Event"
+msgstr "དོན་རྐྱེན་འབུད་བཞིན་ཡོད།"
+
+msgid "Removing Photo From Library"
+msgstr "སྨྱན་གཟུགས་མཛོད་ནས་འདྲ་པར་འབུད་བཞིན་ཡོད།"
+
+msgid "Removing Photos From Library"
+msgstr "འདྲ་པར་མཛོད་ནས་འདྲ་པར་འབུད་པ།"
+
+msgid "Removing duplicated photos"
+msgstr "འདྲ་པར་གྱི་འདྲ་བཤུས་འབུད་བཞིན་ཡོད།"
+
+msgid "Removing photos/videos from camera"
+msgstr "པར་ཆས་ནས་པར་/བརྙན་ཟློས་འབུད་བཞིན་ཡོད།"
+
+msgid "Rename Event"
+msgstr "དོན་རྐྱེན་ལ་མིང་བསྐྱར་དུ་འདོགས་པ།"
+
+msgid "Rename Search \"%s\" to \"%s\""
+msgstr "འཚོལ་བཤེར་%sལ་མིང་%sབསྐྱར་དུ་འདོགས་པ།"
+
+msgid "Rename Tag \"%s\" to \"%s\""
+msgstr "གདོང་འཛར་%sལ་མིང་%sབསྐྱར་དུ་འདོགས་པ།"
+
+msgid "Replace _All"
+msgstr "ཚང་མ་བརྗེ་བ།(_A)"
+
+msgid "Reset Colors"
+msgstr "ཁ་དོག་བསྐྱར་སྒྲིག"
+
+msgid "Reset all color adjustments to original"
+msgstr "ཁ་དོག་ཡོད་ཚད་ཡང་བསྐྱར་གདོད་མའི་གྲངས་ཐང་དུ་བསྐྱར་སྒྲིག"
+
+msgid "Restore Photos from Trash"
+msgstr "སྙིགས་སྒམ་ནས་པར་སོར་ལོག་བྱེད་པ།"
+
+msgid "Restore the photos back to the Shotwell library"
+msgstr "འདྲ་པར་འདི་དག་པར་རིས་དོ་དམ་ཆས་སྨྱན་གཟུགས་མཛོད་དུ་སླར་གསོ་བྱེད་པ།"
+
+msgid "Restoring Photos From Trash"
+msgstr "ཕྱིར་བསྡུའི་ས་ཚིགས་ནས་འདྲ་པར་སོར་ལོག་བྱེད་བཞིན་ཡོད།"
+
+msgid "Restoring previous RAW developer"
+msgstr "སྔོན་ཆད་ཀྱི་RAWགསར་སྤེལ་མཁན་སླར་གསོ།"
+
+msgid "Restoring previous rating"
+msgstr "སྔར་གྱི་སྐར་གྲངས་དཔྱད་བསྡུར་སླར་གསོ་བྱེད་པ།"
+
+msgid "Return to current photo dimensions"
+msgstr "མིག་སྔའི་འདྲ་པར་ཆེ་ཆུང་དུ་ལོག་པ།"
+
+msgid "Revert External Edit?"
+msgstr "བཟོ་བཅོས་ལྷག་མ་སླར་གསོ་བྱེད་དམ།"
+
+msgid "Revert External Edits?"
+msgstr "བཟོ་བཅོས་ལྷག་མ་སླར་གསོ་བྱེད་དམ།"
+
+msgid "Revert to Original"
+msgstr "གདོད་མརསླར་གསོ།"
+
+msgid "Revert to the master photo"
+msgstr "འདྲ་པར་གཙོ་བོར་སླར་གསོ།"
+
+msgid "Reverting"
+msgstr "སོར་ལོག་བྱེད་བཞིན་པ།"
+
+msgid "Rotate"
+msgstr "འཁོར་སྐྱོད།"
+
+msgid "Rotate _Left"
+msgstr "གཡོན་དུ་འཁོར་བ།(_L)"
+
+msgid "Rotate _Right"
+msgstr "གཡས་སུ་འཁོར་བ།(_R)"
+
+msgid "Rotate the photos left"
+msgstr "འདྲ་པར་གཡོན་ལ་འཁྱིལ་འཁོར།"
+
+msgid "Rotate the photos right (press Ctrl to rotate left)"
+msgstr "འདྲ་པར་གཡས་ལ་འཁྱིལ་འཁོར།( Ctrl མནན་ན་གཡོན་དུ་འཁྱིལ་འཁོར་བྱེད།)"
+
+msgid "Rotating"
+msgstr "འཁོར་སྐྱོད།"
+
+msgid "Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+"“%s --help” "
+"འཁོར་སྐྱོད་བྱས་ན་སྤྱོད་རུང་བཀའ་བརྡ་ཕྲེང་འདེམས་ཚན་གྱི་ཁ་ཚང་རེའུ་མིག་ལ་ལྟ་ཐུབ།\n"
+
+msgid "SD Video (4 : 3)"
+msgstr "ཚད་ལྡན་བརྙན་ཟློས།（4:3）"
+
+msgid "S_idebar"
+msgstr "གཞོགས་སྡེ།(_S)"
+
+msgid "S_lideshow"
+msgstr "སྒྲོན་བརྙན་ར་ཤེལ། (_L)"
+
+msgid "Saturation"
+msgstr "ཚད་ལོངས་ཚད།"
+
+msgid "Saturation:"
+msgstr "ཚད་ལོངས་ཚད།："
+
+msgid "Save As"
+msgstr "གཞན་དུ་བཅོལ་བ།"
+
+msgid "Save Details..."
+msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "Save _As..."
+msgstr "གཞན་དུ་བཅོལ་བ།(_A)..."
+
+msgid "Save photo"
+msgstr "འདྲ་པར་ཉར་ཚགས།"
+
+msgid "Save photo with a different name"
+msgstr "མིང་གཞན་པའི་ཐོག་ནས་འདྲ་པར་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "Saved Search"
+msgstr "འཚོལ་བཤེར་ཉར་ཚགས།"
+
+msgid "Saved Searches"
+msgstr "འཚོལ་བཤེར་ཉར་ཚགས་བྱས་ཟིན་པ།"
+
+msgid "Screen"
+msgstr "བརྙན་ཡོལ།"
+
+msgid "Search"
+msgstr "བཤེར་འཚོལ།"
+
+msgid "Select _All"
+msgstr "ཚང་མ་འདེམ་པ།(_A)"
+
+msgid "Select all items"
+msgstr "རྣམ་གྲངས་ཚང་མ་འདེམ་པ།"
+
+msgid "Send T_o..."
+msgstr "བསྐུར་བ།(_O)…"
+
+msgid "Send To"
+msgstr "སྐུར་ཡུལ།"
+
+msgid "Set Developer"
+msgstr "གསར་སྤེལ་མི་སྣ་སྒྲིག་འགོད།"
+
+msgid "Set Rating"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་སྒྲིག་འགོད།"
+
+msgid "Set _all photos/videos to this time"
+msgstr "འདྲ་པར་/བརྙན་ཟློས་ཡོད་ཚད་དུས་ཚོད་འདིར་སྒྲིག་འགོད།(_A)"
+
+msgid "Set as Desktop Slideshow"
+msgstr "ཅོག་ངོས་སྒྲོན་བརྙན་དུ་སྒྲིག་འགོད།"
+
+msgid "Set as _Desktop Background"
+msgstr "ཅོག་ངོས་རྒྱབ་ལྗོངས་ལ་བཀོད།(_D)"
+
+msgid "Set as _Desktop Slideshow..."
+msgstr "ཅོག་ངོས་རྒྱབ་ལྗོངས་སུ་སྒྲིག་འགོད།(_D)..."
+
+msgid "Set rating to %s"
+msgstr "%sལ་སྐར་གྲངས་དཔྱད་བསྡུར་སྒྲིག་འགོད།"
+
+msgid "Set rating to rejected"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་བྱས་ནས་ཚོང་ཟོག་སྤུས་ཞན་སྒྲིག་འགོད།"
+
+msgid "Set selected image to be the new desktop background"
+msgstr "བདམས་པའི་འདྲ་པར་ཅོག་ངོས་ཀྱི་རྒྱབ་ལྗོངས་གསར་བར་སྒྲིག་འགོད།"
+
+msgid "Set the crop for this photo"
+msgstr "འདྲ་པར་འདི་ལ་དྲས་གཏུབ་ཀྱིས།"
+
+msgid "Setting Photos to Previous Event"
+msgstr "འདྲ་པར་སྔོན་གྱི་དོན་རྐྱེན་དུ་སྒྲིག་འགོད་བྱེད་བཞིན་པ།"
+
+msgid "Setting RAW developer"
+msgstr "RAWགསར་སྤེལ་མཁན་སྒྲིག་འགོད།"
+
+msgid "Setting as rejected"
+msgstr "ཚོང་ཟོག་སྤུས་ཞན་དུ་སྒྲིག་འགོད།"
+
+msgid "Setting as unrated"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་སྒྲིག་འགོད་མ་བྱས་པ།"
+
+msgid "Setting rating to %s"
+msgstr "%sལ་སྐར་གྲངས་དཔྱད་བསྡུར་སྒྲིག་འགོད།"
+
+msgid "Settings"
+msgstr " སྒྲིག་འགོད།"
+
+msgid "Shadows"
+msgstr "གྲིབ་ནག"
+
+msgid "Shadows:"
+msgstr "ལྐོག་སྒྲིག："
+
+msgid "Shotwell"
+msgstr "པར་རིས་དོ་དམ་ཆས།"
+
+msgid "Shotwell Connect"
+msgstr "པར་རིས་དོ་དམ་ཆས་འབྲེལ་མཐུད།"
+
+msgid "Shotwell Extra Publishing Services"
+msgstr "པར་རིས་དོ་དམ་ཆས་ཟུར་སྣོན་ཁྱབ་བསྒྲགས་ཞབས་ཞུ།"
+
+msgid "Shotwell Preferences"
+msgstr "པར་རིས་དོ་དམ་ཆས་-སྔོན་འདེམས་ཚན་པ།"
+
+msgid ""
+"Shotwell can copy the photos into your library folder or it can import them "
+"without copying."
+msgstr ""
+"པར་རིས་དོ་དམ་ཆས་ཀྱིས་པར་འདྲ་བཟོ་བྱས་ནས་ཁྱེད་རང་གི་སྨྱན་གཟུགས་མཛོད་དུ་བཅུག་ཆོག་པའམ་ཡང་ན་འདྲེན་འཇུག་བྱས་ཆོག་ཀྱང་འདྲ་བཟོ་མི་བྱེད།"
+
+msgid ""
+"Shotwell cannot contact your Piwigo photo library. Please verify the URL you"
+" entered"
+msgstr ""
+"པར་རིས་དོ་དམ་ཆས་ཁྱེད་རང་གི་Piwigoའདྲ་པར་མཛོད་དང་སྦྲེལ་ཐུབ་ཀྱི་མི་འདུག "
+"ཁྱེད་རང་གིས་ནང་འཇུག་བྱས་པའི་URLལ་ཞིབ་བཤེར་བྱེད་རོགས།"
+
+msgid ""
+"Shotwell couldn't create a file for editing this photo because you do not "
+"have permission to write to %s."
+msgstr ""
+"པར་རིས་དོ་དམ་ཆས་ཀྱིས་འདྲ་པར་འདི་རྩོམ་སྒྲིག་བྱེད་པར་དགོས་ངེས་ཀྱི་ཡིག་ཆ་བཟོ་མི་ཐུབ།རྒྱུ་མཚན་ནི་ཁྱེད་ཀྱིས་%s"
+" ཡི་དབང་ཆ་འབྲི་འཇུག་བྱས་མེད་པས་སོ།"
+
+msgid ""
+"Shotwell needs to unmount the camera from the filesystem in order to access "
+"it.  Continue?"
+msgstr ""
+"པར་རིས་དོ་དམ་ཆས་ཀྱིས་ཡིག་ཆའི་རྒྱུད་ཁོངས་ནས་པར་ཆས་ཕབ་སྟེ་དེ་ལ་ལྟ་སྤྱོད་བྱེད་དགོས།"
+" མུ་མཐུད་ཡིན་ནམ།"
+
+msgid "Show all photos"
+msgstr "འདྲ་པར་ཡོད་ཚད་འཆར་བ།"
+
+msgid "Show all photos, including rejected"
+msgstr "སྤུས་ཞན་ཚུད་པའི་འདྲ་པར་ཡོད་ཚད་འཆར་བ།"
+
+msgid "Show each photo for"
+msgstr "འདྲ་པར་རེ་རེ་བཞིན་འཆར་བ།"
+
+msgid "Show in File Mana_ger"
+msgstr "ཡིག་ཆའི་དོ་དམ་ཆས་ལས་འཆར་བ།(_G)"
+
+msgid "Show only rejected photos"
+msgstr "འདྲ་པར་ཕལ་པ་ལས་མི་འཆར་བ།"
+
+msgid "Show t_itle"
+msgstr "ཁ་བྱང་འཆར་བ།(_I)"
+
+msgid "Show the application's version"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་པར་གཞི་མངོན་པ།"
+
+msgid "Size:"
+msgstr "ཆེ་ཆུང་།："
+
+msgid "Slide"
+msgstr "སྒྲོན་བརྙན་འགྲེམས་སྟོན།"
+
+msgid "Slideshow"
+msgstr "སྒྲོན་བརྙན་གཏོང་བ།"
+
+msgid "Slideshow Transitions"
+msgstr "སྒྲོན་བརྙན་བར་བརྒལ།"
+
+msgid "Small (640 x 480 pixels)"
+msgstr "ཆུང་གྲས།（640 x 480བརྙན་རྒྱུ།）"
+
+msgid "Software:"
+msgstr "མཉེན་ཆས།："
+
+msgid "Sort _Events"
+msgstr "དོན་རྐྱེན་སྟར་སྒྲིག(_E)"
+
+msgid "Sort _Photos"
+msgstr "འདྲ་པར་རིམ་སྒྲིག(_P)"
+
+msgid "Sort photos by exposure date"
+msgstr "རྗེན་བཏོན་དུས་ཚོད་ལྟར་རིམ་སྒྲིག"
+
+msgid "Sort photos by rating"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་ལྟར་རིམ་སྒྲིག"
+
+msgid "Sort photos by title"
+msgstr "ཁ་བྱང་ལྟར་རིམ་སྒྲིག"
+
+msgid "Sort photos in a descending order"
+msgstr "འདྲ་པར་རིམ་ཆག་ཏུ་སྟར་སྒྲིག"
+
+msgid "Sort photos in an ascending order"
+msgstr "འདྲ་པར་རིམ་འཕེལ་དུ་སྟར་སྒྲིག"
+
+msgid "Square"
+msgstr "གྲུ་བཞི་ཁ་གང་མ།"
+
+msgid "Squares"
+msgstr "གྲུ་བཞི་མ།"
+
+msgid "Standard (720 pixels)"
+msgstr "ཚད་གཞི།（བརྙན་རྒྱུ།720）"
+
+msgid "Starting import, please wait..."
+msgstr "ད་ལྟ་འདྲེན་འཇུག་བྱེད་བཞིན་ཡོད།ཏོག་ཙམ་སྒུག་རོགས།"
+
+msgid "Stop importing photos"
+msgstr "འདྲ་པར་འདྲེན་འཇུག་བྱེད་མཚམས་འཇོག་པ།"
+
+msgid "Straighten"
+msgstr "དག་བཅོས།"
+
+msgid "Straighten the photo"
+msgstr "འདྲ་པར་དག་བཅོས།"
+
+msgid "Stripes"
+msgstr "ཁྲ་རིས།"
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid ""
+"Switching developers will undo all changes you have made to this photo in "
+"Shotwell"
+msgid_plural ""
+"Switching developers will undo all changes you have made to these photos in "
+"Shotwell"
+msgstr[0] ""
+"གསར་སྤེལ་བྱེད་མཁན་བརྗེས་ན་ཁྱེད་རང་གིས་པར་འདིར་བཟོ་བཅོས་བྱས་པ་ཚང་མ་ཕྱིར་འཐེན་བྱ་རྒྱུ་ཡིན།"
+msgstr[1] ""
+"གསར་སྤེལ་བྱེད་མཁན་བརྗེས་ན་ཁྱེད་རང་གིས་པར་འདིར་བཟོ་བཅོས་བྱས་པ་ཚང་མ་ཕྱིར་འཐེན་བྱ་རྒྱུ་ཡིན།"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "T_ools"
+msgstr "ལག་ཆ།(_O)"
+
+msgid "Tabloid (11 x 17 in.)"
+msgstr "བརྡ་ཁྱབ་ཆུང་གྲས།"
+
+msgid "Tag"
+msgstr "གདོང་འཛར།"
+
+msgid "Tag Photo as \"%s\""
+msgstr "འདྲ་པར་ལ་གདོང་འཛར་%sཁ་སྣོན་བྱེད་པ།"
+
+msgid "Tag Photos as \"%s\""
+msgstr "འདྲ་པར་ལ་གདོང་འཛར་%sཁ་སྣོན་བྱེད་པ།"
+
+msgid "Tag the selected photo as \"%s\""
+msgstr "འདེམས་ཐོན་བྱུང་བའི་འདྲ་པར་ལ་གདོང་འཛར་%sཁ་སྣོན་བྱེད་པ།"
+
+msgid "Tag the selected photos as \"%s\""
+msgstr "འདེམས་ཐོན་བྱུང་བའི་འདྲ་པར་ལ་གདོང་འཛར་%sཁ་སྣོན་བྱེད་པ།"
+
+msgid "Tags"
+msgstr "གདོང་འཛར།"
+
+msgid "Tags (separated by commas):"
+msgstr "གདོང་འཛར།(ཐོམ་ཚེག་གིས་བར་གཅོད་པ།)："
+
+msgid "Temperature"
+msgstr "དྲོད་ཚད།"
+
+msgid "Temperature:"
+msgstr "དྲོད་ཚད།"
+
+msgid "The photo or video cannot be deleted."
+msgid_plural "%d photos/videos cannot be deleted."
+msgstr[0] "%dའདྲ་པར་/བརྙན་ཟློས་བསུབ་ཐབས་བྲལ།"
+msgstr[1] "%dའདྲ་པར་/བརྙན་ཟློས་བསུབ་ཐབས་བྲལ།"
+
+msgid ""
+"The photo or video cannot be moved to your desktop trash.  Delete this file?"
+msgid_plural ""
+"%d photos/videos cannot be moved to your desktop trash.  Delete these files?"
+msgstr[0] ""
+"%d འདྲ་པར་/བརྙན་ཟློས་ཁྱེད་རང་གི་ཅོག་ངོས་སྙིགས་སྒམ་དུ་སྤོ་ཐུབ་ཀྱི་མི་འདུག "
+"ཡིག་ཆ་འདི་དག་བསུབ་བམ།"
+msgstr[1] ""
+"%d འདྲ་པར་/བརྙན་ཟློས་ཁྱེད་རང་གི་ཅོག་ངོས་སྙིགས་སྒམ་དུ་སྤོ་ཐུབ་ཀྱི་མི་འདུག "
+"ཡིག་ཆ་འདི་དག་བསུབ་བམ།"
+
+msgid "The selected photo was successfully published."
+msgstr "བདམས་པའི་འདྲ་པར་ཁྱབ་བསྒྲགས་ལེགས་གྲུབ་བྱས་ཟིན།"
+
+msgid "The selected photos were successfully published."
+msgstr "བདམས་པའི་འདྲ་པར་ཁྱབ་བསྒྲགས་ལེགས་གྲུབ་བྱས་ཟིན།"
+
+msgid "The selected photos/videos were successfully published."
+msgstr "བདམས་པའི་འདྲ་པར་/བརྙན་ཟློས་ཁྱབ་བསྒྲགས་ལེགས་གྲུབ་བྱས་ཟིན།"
+
+msgid "The selected video was successfully published."
+msgstr "བདམས་པའི་བརྙན་ཟློས་ཁྱབ་བསྒྲགས་ལེགས་གྲུབ་བྱས་ཟིན།"
+
+msgid "The selected videos were successfully published."
+msgstr "བདམས་པའི་བརྙན་ཟློས་ཁྱབ་བསྒྲགས་ལེགས་གྲུབ་བྱས་ཟིན།"
+
+msgid "This will destroy all changes made to the external file.  Continue?"
+msgid_plural ""
+"This will destroy all changes made to %d external files.  Continue?"
+msgstr[0] ""
+"འདིས་ཕྱི་རོལ་གྱི་ཡིག་ཆ།%d ལ་བྱས་པའི་བཟོ་བཅོས་ཡོངས་རྫོགས་བརླག་སྲིད། "
+"མུ་མཐུད་ཡིན་ནམ།"
+msgstr[1] ""
+"འདིས་ཕྱི་རོལ་གྱི་ཡིག་ཆ།%d ལ་བྱས་པའི་བཟོ་བཅོས་ཡོངས་རྫོགས་བརླག་སྲིད། "
+"མུ་མཐུད་ཡིན་ནམ།"
+
+msgid "This will remove the photo from the library.  Continue?"
+msgid_plural "This will remove %d photos from the library.  Continue?"
+msgstr[0] ""
+"འདིས་སྨྱན་གཟུགས་མཛོད་ཀྱི་ནང་ནས་%d ཡི་འདྲ་པར་འབུད་རྒྱུ་རེད། མུ་མཐུད་ཡིན་ནམ།"
+msgstr[1] ""
+"འདིས་སྨྱན་གཟུགས་མཛོད་ཀྱི་ནང་ནས་%d ཡི་འདྲ་པར་འབུད་རྒྱུ་རེད། མུ་མཐུད་ཡིན་ནམ།"
+
+msgid "This will remove the saved search \"%s\".  Continue?"
+msgstr "འདིས་ཉར་ཚགས་བྱས་ཟིན་པའི་འཚོལ་བཤེར་ %sའབུད་སྲིད། མུ་མཐུད་ཡིན་ནམ།"
+
+msgid "This will remove the tag \"%s\" from one photo.  Continue?"
+msgid_plural "This will remove the tag \"%s\" from %d photos.  Continue?"
+msgstr[0] "འདིས་གདོང་འཛར་\"%s\" འདྲ་པར་ %d ཁྲོད་ནས་འབུད་སྲིད། མུ་མཐུད་ཡིན་ནམ་།"
+msgstr[1] "འདིས་གདོང་འཛར་\"%s\" འདྲ་པར་ %d ཁྲོད་ནས་འབུད་སྲིད། མུ་མཐུད་ཡིན་ནམ་།"
+
+msgid "Time Adjustment Error"
+msgstr "དུས་ཚོད་ལེགས་སྒྲིག་ནོར་འཁྲུལ།"
+
+msgid "Time adjustments could not be undone on the following photo file."
+msgid_plural ""
+"Time adjustments could not be undone on the following photo files."
+msgstr[0] "དུས་ཚོད་བཟོ་བཅོས་དེ་གཤམ་གསལ་གྱི་འདྲ་པར་ཐོག་ནས་མེད་པ་བཟོ་ཐབས་བྲལ་བ།"
+msgstr[1] "དུས་ཚོད་བཟོ་བཅོས་དེ་གཤམ་གསལ་གྱི་འདྲ་པར་ཐོག་ནས་མེད་པ་བཟོ་ཐབས་བྲལ་བ།"
+
+msgid "Time:"
+msgstr "དུས་ཚོད།:"
+
+msgid "Title"
+msgstr " ཁ་བྱང་།"
+
+msgid "Title:"
+msgstr "ཁ་བྱང་།:"
+
+msgid "To get started, import photos in any of these ways:"
+msgstr ""
+"བཀོལ་སྤྱོད་བྱེད་འགོ་འཛུགས་དགོས་ན།གཤམ་གྱི་ཐབས་ཤེས་གང་རུང་གི་སྒོ་ནས་འདྲ་པར་འདྲེན་འཇུག་བྱེད་རོགས།"
+
+msgid "To try importing from another service, select one from the above menu."
+msgstr ""
+"ཞབས་ཞུ་གཞན་པ་འདྲེན་འཇུག་བྱེད་པར་ཚོད་ལྟ་བྱེད་དགོས་ན།གོང་གི་འདེམས་བྱང་ནང་ནས་གཅིག་གདམས་དགོས།"
+
+msgid "To try publishing to another service, select one from the above menu."
+msgstr ""
+"ཞབས་ཞུ་གཞན་པ་ཞིག་ཏུ་ཁྱབ་བསྒྲགས་བྱེད་འདོད་ན། "
+"གོང་གི་འདེམས་བྱང་ནང་ནས་གཅིག་གདམས་དགོས།"
+
+msgid "To:"
+msgstr "འབྱོར་མཁན།"
+
+msgid "Today"
+msgstr "དེ་རིང་།"
+
+msgid "Transition d_elay:"
+msgstr "བར་བརྒལ་དུས་འགྱངས།(_E)："
+
+msgid "Trash"
+msgstr "སྙིགས་སྒམ།"
+
+msgid "Trash is empty"
+msgstr "སྙིགས་སྒམ་སྟོང་པ་རེད།"
+
+msgid ""
+"TumblrPublisher: start( ): can't start; this publisher is not restartable."
+msgstr ""
+"TumblrPublisher：start( )：འགོ་རྩོམ་མི་ཐུབ་པ་དང་། "
+"ཁྱབ་བསྒྲགས་ལག་ཆ་དེ་བསྐྱར་དུ་སྤེལ་མི་ཆོག"
+
+msgid "Type"
+msgstr " རིགས་རྣམ།"
+
+msgid "Un_flag"
+msgstr "མཆན་འགྲེལ་འདོར་བ།(_F)"
+
+msgid "Unable to create cache directory %s: %s"
+msgstr "འགྱངས་གསོག་དཀར་ཆག་%sགསར་འཛུགས་བྱེད་ཐབས་བྲལ།：%s"
+
+msgid "Unable to create data directory %s: %s"
+msgstr "གཞི་གྲངས་ཡིག་ཁུག་%sགསར་འཛུགས་བྱེད་ཐབས་བྲལ།：%s"
+
+msgid "Unable to create data subdirectory %s: %s"
+msgstr "བུའི་གཞི་གྲངས་ཡིག་ཁུག་%sགསར་འཛུགས་བྱེད་ཐབས་བྲལ།：%s"
+
+msgid "Unable to create temporary directory %s: %s"
+msgstr "གནས་སྐབས་ཡིག་ཁུག་%sགསར་འཛུགས་བྱེད་ཐབས་བྲལ།：%s"
+
+msgid "Unable to decode file"
+msgstr "ཡིག་ཆ་ཨང་འགྲོལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Unable to delete %d photo/video from the camera due to errors."
+msgid_plural ""
+"Unable to delete %d photos/videos from the camera due to errors."
+msgstr[0] ""
+"ནོར་འཁྲུལ་གྱི་དབང་གིས་པར་ཆས་ཀྱི་ནང་ནས་འདྲ་པར་/བརྙན་ཟློས་%d བསུབ་ཐབས་བྲལ།"
+msgstr[1] ""
+"ནོར་འཁྲུལ་གྱི་དབང་གིས་པར་ཆས་ཀྱི་ནང་ནས་འདྲ་པར་/བརྙན་ཟློས་%d བསུབ་ཐབས་བྲལ།"
+
+msgid "Unable to display FAQ: %s"
+msgstr "རྒྱུན་མཐོང་གི་གནད་དོན་%sའཆར་ཐབས་བྲལ།"
+
+msgid "Unable to display help: %s"
+msgstr "རོགས་རམ་ %sའཆར་ཐབས་བྲལ།"
+
+msgid "Unable to duplicate one photo due to a file error"
+msgid_plural "Unable to duplicate %d photos due to file errors"
+msgstr[0] ""
+"ཡིག་ཆའི་ནོར་འཁྲུལ་གྱི་དབང་གིས་འདྲ་པར་གྱི་འདྲ་བཤུས་%dགསར་བཟོ་བྱེད་ཐབས་བྲལ།"
+msgstr[1] ""
+"ཡིག་ཆའི་ནོར་འཁྲུལ་གྱི་དབང་གིས་འདྲ་པར་གྱི་འདྲ་བཤུས་%dགསར་བཟོ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Unable to export %s: %s"
+msgstr "%sཕྱིར་འདོན་ཐབས་བྲལ།：%s"
+
+msgid "Unable to export background to %s: %s"
+msgstr "ཕྱིར་གཏོང་མི་ཐུབ་པའི་རྒྱབ་ལྗོངས་ནས་%sརུ་ཕྱིར་གཏོང་མི་ཐུབ་པ།：%s"
+
+msgid "Unable to generate a temporary file for %s: %s"
+msgstr "%s གནས་སྐབས་ཡིག་གྲུབ་ཐབས་བྲལ་བ།：%s"
+
+msgid "Unable to launch Nautilus Send-To: %s"
+msgstr "Nautilusཡིག་ཆ་དོ་དམ་ཆས་ཀྱིས་སྐུར་མི་ཐུབ་པར།བརྒྱ་ཆའི་%s"
+
+msgid "Unable to launch editor: %s"
+msgstr "རྩོམ་སྒྲིག་ཆས་བཀོལ་མི་ཐུབ་སྟེ།བརྒྱ་ཆའི་%s"
+
+msgid "Unable to lock camera: %s"
+msgstr "པར་ཆས་ཀྱིས་གཏན་འཁེལ་བྱེད་ཐབས་བྲལ།%s"
+
+msgid "Unable to monitor %s: Not a directory (%s)"
+msgstr "ལྟ་ཞིབ་བྱེད་ཐབས་བྲལ། %s：དཀར་ཆག་ཅིག་མ་རེད།(%s)"
+
+msgid "Unable to navigate to bug database: %s"
+msgstr "Bugགཞི་གྲངས་མཛོད་དུ་བསྒྱུར་མི་ཐུབ་པ།：%s"
+
+msgid "Unable to open in file manager: %s"
+msgstr "ཡིག་ཆའི་དོ་དམ་ཆས་ཀྱི་ནང་དུ་ཁ་ཕྱེ་མི་ཐུབ་པ།：%s"
+
+msgid "Unable to open/create photo database %s: error code %d"
+msgstr "འདྲ་པར་གཞི་གྲངས་མཛོད་%sཀྱི་ཁ་ཕྱེ་མི་ཐུབ།ནོར་འཁྲུལ་ཚབ་%d"
+
+msgid "Unable to prepare desktop slideshow: %s"
+msgstr "ཅོག་ངོས་ཀྱི་སྒྲོན་བརྙན་གྲ་སྒྲིག་བྱེད་ཐབས་བྲལ།"
+
+msgid "Unable to process monitoring updates: %s"
+msgstr "ལྟ་སྐུལ་ཚོད་འཛིན་དང་གསར་སྒྱུར་བྱེད་ཐབས་བྲལ་བ།"
+
+msgid "Unable to publish"
+msgstr "ཁྱབ་བསྒྲགས་བྱེད་ཐབས་མེད།"
+
+msgid "Unable to rename search to \"%s\" because the search already exists."
+msgstr ""
+"མིང་ཡང་བསྐྱར་བཏགས་ནས་བརྒྱ་ཆ་sའཚོལ་མི་ཐུབ་ལ།མིང་གཅིག་པའི་འཚོལ་བཤེར་ཡང་གནས་ཡོད།"
+
+msgid "Unable to rename tag to \"%s\" because the tag already exists."
+msgstr ""
+"མིང་བསྐྱར་འདོགས་མི་ཐུབ་པའི་གདོང་འཛར་ནི་བརྒྱ་ཆའི་sཡིན།མིང་གཅིག་པའི་གདོང་འཛར་ཡོད།"
+
+msgid ""
+"Unable to unmount camera.  Try unmounting the camera from the file manager."
+msgstr "པར་ཆས་བཤིག་མི་ཆོག ཡིག་ཆ་དོ་དམ་འཕྲུལ་ཆས་ནང་ནས་པར་ཆས་ཕབ་རོགས།"
+
+msgid "Unconstrained"
+msgstr "ཚད་བཀག་མེད་པ།"
+
+msgid "Undated"
+msgstr "གབ་སྦས་འདོར་བ།"
+
+msgid "Undo"
+msgstr "འདོར་བ།"
+
+msgid "Undoing Color Transformations"
+msgstr "ཁ་དོག་བརྗེ་བསྒྱུར་འདོར་བ།"
+
+msgid "Undoing Date and Time Adjustment"
+msgstr "ཚེས་གྲངས་དང་དུས་ཚོད་ལེགས་སྒྲིག་འདོར་བཞིན་པ།"
+
+msgid "Undoing Enhance"
+msgstr "ཤུགས་སྣོན་འདོར་བཞིན་པ།"
+
+msgid "Undoing Flip Horizontally"
+msgstr "ཆུ་སྙོམས་སུ་སློག་པ་འདོར་བཞིན་པ།"
+
+msgid "Undoing Flip Vertically"
+msgstr "དྲང་སློག་འདོར་བཞིན་པ།"
+
+msgid "Undoing Revert"
+msgstr "སོར་ལོག་འདོར་བཞིན་པ།"
+
+msgid "Undoing Rotate"
+msgstr "འཁྱིལ་འཁོར་འདོར་བཞིན་པ།"
+
+msgid "Unflag"
+msgstr "མཆན་འགོད་འདོར་བ།"
+
+msgid "Unflag selected photos"
+msgstr "བདམས་ཟིན་པའི་འདྲ་པར་གྱི་མཆན་འགོད་འདོར་བ།"
+
+msgid "Unflagging selected photos"
+msgstr "བདམས་ཟིན་པའི་འདྲ་པར་གྱི་མཆན་འགོད་འདོར་བཞིན་པ།"
+
+msgid "Unknown error attempting to verify Shotwell's database: %s"
+msgstr ""
+"པར་རིས་དོ་དམ་ཆས་གཞི་གྲངས་མཛོད་ར་སྤྲོད་བྱེད་སྐབས་ངེས་མེད་ཀྱི་ནོར་འཁྲུལ་བྱུང་བ།：%s"
+
+msgid "Unmerging"
+msgstr "ཟླ་སྒྲིལ་འདོར་བཞིན་པ།"
+
+msgid "Unmodified"
+msgstr "བཟོ་བཅོས་མེད།"
+
+msgid "Unmounting..."
+msgstr "ལེན་པ།"
+
+msgid "Unrated"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་མ་བྱས་པ།"
+
+msgid "Unsupported file format"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་ཡིག་ཆའི་རྣམ་གཞག"
+
+msgid "Updating library..."
+msgstr "སྨྱན་གཟུགས་མཛོདགསར་སྒྱུར།"
+
+msgid "Upload _size:"
+msgstr "བརྒྱུད་སྤྲོད་བྱས་པའི་ཆེ་ཆུང་།(_S)："
+
+msgid "Uploading %d of %d"
+msgstr "%d/%dསྐུར་བཞིན་པ།"
+
+msgid "Use a _standard size:"
+msgstr "ཚད་ལྡན་ཆེ་ཆུང་བཀོལ་བ།(_S)："
+
+msgid "Use a c_ustom size:"
+msgstr "རང་བཟོས་ཆེ་ཆུང་སྤྱོད་པ།(_U)："
+
+msgid "User _name"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་།(_)"
+
+msgid "User aborted import"
+msgstr "སྤྱོད་མཁན་གྱིས་འདྲེན་འཇུག་བྱེད་མཚམས་འཇོག་པ།"
+
+msgid "Username and/or password invalid. Please try again"
+msgstr "གོ་མི་ཆོད་པའི་མིང་ངམ་གསང་རྟགས། ཡང་བསྐྱར་ཚོད་ལྟ་ཞིག་བྱེད་རོགས།"
+
+msgid "Video privacy _setting:"
+msgstr "བརྙན་ཟློས་གྱི་གསང་བ་སྒྲིག་འགོད།(_S)："
+
+msgid "Videos"
+msgstr " བརྙན་ཟློས།"
+
+msgid "Videos _visible to:"
+msgstr "བརྙན་ཟློས་མཐོང་རུང་བ།(_V)"
+
+msgid "Videos and new photo albums _visible to:"
+msgstr "བརྙན་ཟློས་དང་འདྲ་པར་གསར་བའི་པར་དེབ་མཐོང་རུང་བ།(_V)"
+
+msgid "Videos will appear in '%s'"
+msgstr "བརྙན་ཟློས“%s”རུ་ཐོན་རྒྱུ་ཡིན་པ།"
+
+msgid "Videos will appear in:"
+msgstr "བརྙན་ཟློས་ཐོན་ཡུལ།"
+
+msgid "View Eve_nt for Photo"
+msgstr "འདྲ་པར་གཏོགས་ཡུལ་བྱ་འགུལ་ལ་ལྟ་བ།(_N)"
+
+msgid "Visit the Yandex.Fotki web site"
+msgstr "Yandex.Fotkiདྲ་ཚུགས་ལ་ལྟ་སྤྱོད།"
+
+msgid "Visit the Yorba web site"
+msgstr " Yorba དྲ་ཚུགས་ལ་ལྟ་སྤྱོད།"
+
+msgid "Wallet (2 x 3 in.)"
+msgstr "ཀོ་ཕད་（དབྱིན་ཚུན་2 x 3 ）ལ་སྤྱོད་པ།"
+
+msgid "Welcome to Shotwell!"
+msgstr "པར་རིས་དོ་དམ་ཆས་བེད་སྤྱོད་པར་དགའ་བསུ་ཞུ།"
+
+msgid "Welcome!"
+msgstr "དགའ་བསུ་ཞུ།"
+
+msgid "Where would you like to publish the selected photos?"
+msgstr "བདམས་པའི་འདྲ་པར་གང་ནས་ཁྱབ་བསྒྲགས་བྱེད་འདོད་དམ།"
+
+msgid "Width"
+msgstr " ཞེང་ཚད།"
+
+msgid "Width or height"
+msgstr "ཞེང་ཚད་དམ་མཐོ་ཚད།"
+
+msgid "Write tags, titles, and other _metadata to photo files"
+msgstr "གདོང་འཛར་དང་།ཁ་བྱང་།དེ་མིན་གྱི་གཞི་གྲངས་བཅས་འདྲ་པར་ཡིག་ཆ་རུ་འབྲི་བ།"
+
+msgid "Writing metadata to files..."
+msgstr "སྒོར་གཞི་གྲངས་ཡིག་ཆ་རུ་འབྲི་བ།"
+
+msgid "Year%sMonth"
+msgstr "ལོའི་ཟླ%s"
+
+msgid "Year%sMonth%sDay"
+msgstr "ལོའི་ཟླ་%sཚེས་%sཉིན།"
+
+msgid "Year%sMonth-Day"
+msgstr "ལོའི་ཟླ%s-ཚེས།"
+
+msgid "Year-Month-Day"
+msgstr "ལོ་-ཟླ་-ཚེས།"
+
+msgid "Yesterday"
+msgstr "ཁ་སང་།"
+
+msgid "You are logged into Picasa Web Albums as %s."
+msgstr "ཁྱོད་ཀྱིས་%s བྱས་ནས་Picasaདྲ་རྒྱའི་པར་དེབ་ཏུ་ཐོ་འཇུག་བྱས་ཟིན།"
+
+msgid "You are logged into YouTube as %s."
+msgstr "ཁྱེད་རང་གི་ %s བྱས་ཏེ་YouTubeལ་ཐོ་འགོད་བྱས་ཟིན།"
+
+msgid "You are not currently logged into Yandex.Fotki."
+msgstr "ཁྱེད་རང་གི་མིག་སྔའི་བར་Yandex.Fotkiལ་ཐོ་འགོད་མ་བྱས་པ།"
+
+msgid "You can also import photos in any of these ways:"
+msgstr "ཁྱེད་ཀྱིས་གཤམ་གྱི་ཐབས་ཤེས་གང་རུང་སྤྱད་ནས་འདྲ་པར་འདྲེན་འཇུག་བྱས་ཆོག"
+
+msgid "Your Flickr Pro account entitles you to unlimited uploads."
+msgstr ""
+"ཁྱེད་རང་གི་Flickr "
+"Proརྩིས་ཐོས་ཁྱེད་རང་ལ་ཚད་བཀག་མེད་པའི་བརྒྱུད་བསྐུར་བྱེད་དུ་འཇུག"
+
+msgid "Zoom _100%"
+msgstr "སྐྱེད་སྐྱུང་།_100%"
+
+msgid "Zoom _In"
+msgstr "ཆེར་སྐྱེད།(_I)"
+
+msgid "Zoom _Out"
+msgstr "ཆུང་བསྡུ།(_O)"
+
+msgid "Zoom the photo to 100% magnification"
+msgstr "འདྲ་པར་100%བར་སྐྱེད་སྐྱུང་བྱེད་པ།"
+
+msgid "Zoom the photo to fit on the screen"
+msgstr "འདྲ་པར་སྐྱེད་སྐྱུང་བྱས་ནས་འཆར་ངོས་ལ་འཚམ་པར་བྱེད་པ།"
+
+msgid "[FILE]"
+msgstr "[ཡིག་ཆ།]"
+
+msgid "_About"
+msgstr "འབྲེལ་ཡོད།(_A)"
+
+msgid "_Add Tags..."
+msgstr "མཆན་འགྲེལ་ཁ་སྣོན།(A)…"
+
+msgid "_Adjust"
+msgstr "ལེགས་སྒྲིག(_A)"
+
+msgid "_Adjust Date and Time..."
+msgstr "ཟླ་ཚེས་དང་དུས་ཚོད་བཟོ་བཅོས་བྱེད་པ།(_A)..."
+
+msgid "_Albums (or write new):"
+msgstr "ཡོད་པའམ་ཡང་ན་པར་སྒམ་གསར་བ།(_A)："
+
+msgid "_All Photos"
+msgstr "འདྲ་པར་ཡོད་ཚད།(_A)"
+
+msgid "_Apply"
+msgstr "ཉེར་སྤྱོད།(_A)"
+
+msgid "_Ascending"
+msgstr "རིམ་འཕར། (_A)..."
+
+msgid "_Autosize:"
+msgstr "རང་འགུལ།(_A)："
+
+msgid "_Background:"
+msgstr "རྒྱབ་ལྗོངས།(_B)："
+
+msgid "_Basic Information"
+msgstr "གཞི་རྩའི་ཆ་འཕྲིན།(_B)"
+
+msgid "_Cancel"
+msgstr " དོར་བ།"
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག (C)"
+
+msgid "_Comments"
+msgstr "མཆན་འགྲེལ། (_C)"
+
+msgid "_Contents"
+msgstr "དཀར་ཆག (_C)"
+
+msgid "_Copy Color Adjustments"
+msgstr "ཁ་དོག་འདྲ་ཕབ་ལེགས་སྒྲིག(_C)"
+
+msgid "_Crop"
+msgstr "དྲས་གཏུབ།(_C)"
+
+msgid "_Decrease"
+msgstr "ཇེ་དམའ་རུ་གཏོང་བ།(_D)"
+
+msgid "_Delay:"
+msgstr "དུས་འགྱངས།(D)："
+
+msgid "_Delete"
+msgstr "བསུབ་པ།"
+
+msgid "_Delete Tag \"%s\""
+msgstr "གདོང་འཛར་%sབསུབ་པ།(_D)"
+
+msgid "_Developer"
+msgstr "གསར་སྤེལ་མི་སྣ།(_D)"
+
+msgid "_Directory structure:"
+msgstr "དཀར་ཆག་གྲུབ་ཚུལ།(_D)："
+
+msgid "_Do no upload tags"
+msgstr "གདོང་འཛར་མི་སྐུར་བ།(_D)"
+
+msgid "_Don't show this message again"
+msgstr "གནས་ཚུལ་འདི་མི་མངོན་པ།(_D)"
+
+msgid "_Duplicate"
+msgstr "འདྲ་ཕབ།(_D)"
+
+msgid "_Edit"
+msgstr "རྩོམ་སྒྲིག (_E)"
+
+msgid "_Email address"
+msgstr "གློག་རྡུལ་སྦྲག་ཡིག་ཤག་གནས།(_E)"
+
+msgid "_Enhance"
+msgstr "ཇེ་དྲག་ཏུ་གཏོང་བ།(_E)"
+
+msgid "_Export..."
+msgstr "ཕྱིར་གཏོང་།(_E)..."
+
+msgid "_File"
+msgstr "ཡིག་ཆ། (_F)"
+
+msgid "_Filter Photos"
+msgstr "འདྲ་པར་འཚག་པ།(_F)"
+
+msgid "_Find..."
+msgstr "བཤེར་འཚོལ།(_F)..."
+
+msgid "_Flag"
+msgstr "མཆན་འགོད།(_F)"
+
+msgid "_Forbid downloading original photo"
+msgstr "ཐོག་མའི་འདྲ་པར་ཕབ་ལེན་བྱེད་མི་ཆོག(_F)"
+
+msgid "_Format:"
+msgstr "རྣམ་པ།(_F)："
+
+msgid "_Frequently Asked Questions"
+msgstr "རྒྱུན་མཐོང་གི་གནད་དོན།(_F)"
+
+msgid "_Help"
+msgstr " རོགས་རམ།(_H)"
+
+msgid "_If a title is set and comment unset, use title as comment"
+msgstr "གལ་ཏེ་ཁ་བྱང་ཡོད་ཀྱང་ཟུར་མཆན་མེད་ན་ཁ་བྱང་ཟུར་མཆན་གྱིས།(_I)\""
+
+msgid "_Import"
+msgstr "ནང་འདྲེན།(I)"
+
+msgid "_Import From Folder..."
+msgstr "ཡིག་ཁུག་ནས་འདྲེན་འཇུག(_I)..."
+
+msgid "_Import in Place"
+msgstr "སྔར་གྱི་གནས་ཡུལ་སོར་བཞག་འདྲེན་འཇུག(_I)"
+
+msgid "_Import photos from your %s folder"
+msgstr "ཁྱེད་རང་གི་ཡིག་ཁུག་%s ནས་འདྲ་པར་འདྲེན་འཇུག་བྱོས།(_I)"
+
+msgid "_Import photos to:"
+msgstr "འདྲ་པར་འདྲེན་འཇུག་བྱས་ཏེ།(_I)："
+
+msgid "_Increase"
+msgstr "མཐོ་འདེགས།(_I)"
+
+msgid "_Keep"
+msgstr "རྣམ་པ་སྔོན་མ་ལྟར་འཇོག་པ།(_K)"
+
+msgid "_Login"
+msgstr "ཐོ་འགོད།(_L)"
+
+msgid "_Logout"
+msgstr "ཐོ་ཁོངས་ནས་བསུབ་པ།(_L)"
+
+msgid "_Match"
+msgstr "ཟླ་སྒྲིག(_M)"
+
+msgid "_Match photo aspect ratio"
+msgstr "འདྲ་པར་གྱི་བསྡུར་ཚད་ཟླ་སྒྲིག(_M)"
+
+msgid "_Merge Events"
+msgstr "དོན་རྐྱེན་ཟླ་སྒྲིག(_M)"
+
+msgid "_Modify original file"
+msgstr "གདོད་མའི་ཡིག་ཆ་བཟོ་བཅོས།(_M)"
+
+msgid "_Modify original files"
+msgstr "གདོད་མའི་ཡིག་ཆ་བཟོ་བཅོས།(_M)"
+
+msgid "_Modify original photo file"
+msgstr "གདོད་མའི་འདྲ་པར་ཡིག་ཆ་བཟོ་བཅོས།(_M)"
+
+msgid "_Modify original photo files"
+msgstr "གདོད་མའི་འདྲ་པར་ཡིག་ཆ་བཟོ་བཅོས།(_M)"
+
+msgid "_Move to Trash"
+msgstr "སྙིགས་སྒམ་དུ་སྤོ།(_M)"
+
+msgid "_Name of search:"
+msgstr "མིང་བཤེར་འཚོལ།(_N)："
+
+msgid "_New"
+msgstr "གསར་འཛུགས།(_N)"
+
+msgid "_New Event"
+msgstr "བྱེད་སྒོ་གསར་འཛུགས།(_N)"
+
+msgid "_Next Photo"
+msgstr "འདྲ་པར་རྗེས་མ།(_N)"
+
+msgid "_OK"
+msgstr "གཏན་འཁེལ།"
+
+msgid "_Output photo at:"
+msgstr "འདྲ་པར་ཕྱིར་སྐྱེལ།(_O)："
+
+msgid "_Password"
+msgstr "གསང་ཨང་། (_P)"
+
+msgid "_Paste Color Adjustments"
+msgstr "སྦྱར་མའི་ཁ་དོག་ལེགས་སྒྲིག(_P)"
+
+msgid "_Pattern:"
+msgstr "རྣམ་པ།(_P)："
+
+msgid "_Photo"
+msgstr "འདྲ་པར།(_P)"
+
+msgid "_Photos"
+msgstr "པར་རིས། (_P)"
+
+msgid "_Play Video"
+msgstr "བརྙན་ཟློས་སྟོན་པ།(_P)"
+
+msgid "_Preferences"
+msgstr "སྒྲིག་འགོད།(_P)"
+
+msgid "_Previous Photo"
+msgstr "འདྲ་པར་གོང་མ།(_P)"
+
+msgid "_Print..."
+msgstr "པར་འདེབས།(_P)..."
+
+msgid "_Publish"
+msgstr "ཁྱབ་བསྒྲགས།(_P)"
+
+msgid "_Quality:"
+msgstr "སྤུས་ཚད།(_Q)："
+
+msgid "_Quit"
+msgstr "ཕྱིར་འབུད། (_Q)"
+
+msgid "_Ratings"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར།(_R)"
+
+msgid "_Red-eye"
+msgstr "མིག་དམར།(_R)"
+
+msgid "_Redo"
+msgstr "བསྐྱར་བཟོ།(_R)"
+
+msgid "_Rejected"
+msgstr "སྤུས་ཞན།(_R)"
+
+msgid "_Remember Password"
+msgstr " གསང་ཨང་བློར་ངེས།(_R)"
+
+msgid "_Remove"
+msgstr "སྤོ་བ།（R)"
+
+msgid "_Remove From Library"
+msgstr "སྨྱན་གཟུགས་མཛོད་ནས་འབུད་པ།(_R)"
+
+msgid ""
+"_Remove location, camera, and other identifying information before uploading"
+msgstr ""
+"ཡར་མ་བསྐུར་གོང་ནས་པར་གྱི་ས་ཁམས་གནས་ཡུལ་དང་།པར་ཆས་ཀྱི་བཟོ་དབྱིབས་སོགས་དབྱེ་འབྱེད་ཐུབ་པའི་ཆ་འཕྲིན་གཞན་དག་འདོར་བ།(_R)"
+
+msgid "_Rename..."
+msgstr "མིང་བསྐྱར་འདོགས།(_R)..."
+
+msgid "_Replace"
+msgstr " ཚབ་བརྗེ།(_R)"
+
+msgid "_Report a Problem..."
+msgstr "གནད་དོན་སྙན་ཞུ།(_R)…"
+
+msgid "_Reset"
+msgstr "བསྐྱར་བཀོད། (_R)"
+
+msgid "_Restore"
+msgstr "སླར་གསོ།(_R)"
+
+msgid "_Save"
+msgstr "ཉར་བ། (S)"
+
+msgid "_Save a Copy"
+msgstr "འདྲ་བཤུས་ཉར་ཚགས།(_S)"
+
+msgid "_Scaling constraint:"
+msgstr "སྐྱེད་སྐྱུང་ཚོད་འཛིན།(_S)："
+
+msgid "_Search Bar"
+msgstr "བཤེར་འཚོལ་སྡེ།(_S)"
+
+msgid "_Set Rating"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་སྒྲིག་འགོད།(_S)"
+
+msgid "_Shift photos/videos by the same amount"
+msgstr "ཆེ་ཆུང་གཅིག་འདྲ་ལྟར་འདྲ་པར་ལེགས་སྒྲིག་/བརྙན་ཟློས་ལེགས་སྒྲིག(_S)"
+
+msgid "_Skip"
+msgstr "མཆོང་བ།(_S)"
+
+msgid "_Stop Import"
+msgstr "འདྲེན་འཇུག་བྱེད་མཚམས་འཇོག་པ།(_S)"
+
+msgid "_Straighten"
+msgstr "དག་བཅོས།(_S)"
+
+msgid "_Switch Developer"
+msgstr "གསར་སྤེལ་མཁན་བརྗེ་བ།(_S)"
+
+msgid "_Titles"
+msgstr "ཁ་བྱང་།(_T)"
+
+msgid "_Transition effect:"
+msgstr "བར་བརྒལ་ཕན་འབྲས།(_T)："
+
+msgid "_Trash File"
+msgid_plural "_Trash Files"
+msgstr[0] "གད་སྙིགས་བླུགས་སྒམ(_T)དུ་སྤོ་པ།"
+msgstr[1] "གད་སྙིགས་བླུགས་སྒམ(_T)དུ་སྤོ་པ།"
+
+msgid "_URL of your Piwigo photo library"
+msgstr "ཁྱེད་རང་གི་Piwigoའདྲ་པར་མཛོད་ _URL(_)"
+
+msgid "_Undo"
+msgstr "འདོར་བ།(_U)"
+
+msgid "_Unmount"
+msgstr "ལེན་པ།(_U)"
+
+msgid "_Unrated"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར་བྱས་མེད་པ།(_U)"
+
+msgid "_View"
+msgstr "ལྟ་ཞིབ། (_V)"
+
+msgid "_Watch library directory for new files"
+msgstr "སྨྱན་གཟུགས་མཛོད་ཀྱི་ཡིག་ཁུག་ནང་གི་ཡིག་ཆ་གསར་པར་སོ་ལྟ།(_W)"
+
+msgid "a raw photo"
+msgstr "RAWཡི་འདྲ་པར་ཞིག"
+
+msgid "a video"
+msgstr "བརྙན་ཟློས་ཤིག"
+
+msgid "all"
+msgstr "ཚང་མ།"
+
+msgid "and"
+msgstr "དང་།"
+
+msgid "and higher"
+msgstr "སྔར་ལས་མཐོ་བ།"
+
+msgid "and lower"
+msgstr "དེ་ལས་དམའ་བ།"
+
+msgid "any"
+msgstr "གང་རུང་།"
+
+msgid "any photo"
+msgstr "འདྲ་པར་གང་རུང་།"
+
+msgid "black"
+msgstr "ནག་པོ།"
+
+msgid "cm"
+msgstr "ལི་སྨི།"
+
+msgid "contains"
+msgstr "ཚུད་པ།"
+
+msgid ""
+"couldn't copy %s\n"
+"\tto %s"
+msgstr "%s⏎ »དེ་ %s\"རུ་མཁོ་ཕབ་བྱེད་ཐབས་བྲལ་བ།"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "ཉིན།"
+msgstr[1] "ཉིན།"
+
+msgid "does not contain"
+msgstr "ཚུད་མེད།"
+
+msgid "duplicates existing media item"
+msgstr "ད་ཡོད་སྨྱན་གཟུགས་ཡིག་ཆའི་འདྲ་བཤུས་གསར་འཛུགས།"
+
+msgid "ends with"
+msgstr "མཇུག་སྒྲིལ་ས།"
+
+msgid "error message:"
+msgstr "ནོར་འཁྲུལ་གྱི་ཆ་འཕྲིན།"
+
+msgid "external modifications"
+msgstr "ཕྱིའི་བཟོ་བཅོས།"
+
+msgid "flagged"
+msgstr "མཆན་བཀོད་ཟིན།"
+
+msgid "has"
+msgstr "ཡོད།"
+
+msgid "has no"
+msgstr "མེད།"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "དུས་ཚོད།"
+msgstr[1] "དུས་ཚོད།"
+
+msgid "in."
+msgstr "དབྱིན་ཚུན།"
+
+msgid "internal modifications"
+msgstr "ནང་ཁུལ་གྱི་བཟོ་བཅོས།"
+
+msgid "is"
+msgstr "ཡིན།"
+
+msgid "is after"
+msgstr "འཕྱི་བ།"
+
+msgid "is before"
+msgstr "སྔ་བ།"
+
+msgid "is between"
+msgstr "ལ་གཏོགས་པ།"
+
+msgid "is exactly"
+msgstr "ངེས་པར་དུ་ཡོད་དགོས།"
+
+msgid "is not"
+msgstr "མ་རེད།"
+
+msgid "is not set"
+msgstr "སྒྲིག་མེད་པ།"
+
+msgid "is set"
+msgstr "སྒྲིག་འགོད་ཟིན་པ།"
+
+msgid "label"
+msgstr "གདོང་འཛར།"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "སྐར་མ།"
+msgstr[1] "སྐར་མ།"
+
+msgid "modifications"
+msgstr "བཟོ་བཅོས།"
+
+msgid "modified"
+msgstr "བཟོ་བཅོས།"
+
+msgid "none"
+msgstr " མེད།"
+
+msgid "not flagged"
+msgstr "མཆན་མ་བཀོད་པ།"
+
+msgid "of the following:"
+msgstr "གཤམ་གསལ་འདི་དག"
+
+msgid "only"
+msgstr "ཁོ་ན།"
+
+msgid "period of time"
+msgstr "དུས་ཚོད་ཁག"
+
+msgid "pixels per inch"
+msgstr "དབྱིན་ཚུན་རེའི་བརྙན་རྒྱུའི་གྲངས།"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "སྐར་ཆ།"
+msgstr[1] "སྐར་ཆ།"
+
+msgid "seconds"
+msgstr "སྐར་ཆ།"
+
+msgid "starts with"
+msgstr "ནས་འགོ་ཚུགས།"
+
+msgid "untitled"
+msgstr "མིང་བཏགས་མེད་པ།"
+
+msgid "white"
+msgstr "དཀར་པོ།"
+
+msgid "within category:"
+msgstr "གཤམ་གྱི་རིགས་འབྱེད་པའི་ཁྲོད།"

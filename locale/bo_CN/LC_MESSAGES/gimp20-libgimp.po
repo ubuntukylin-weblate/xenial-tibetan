@@ -1,0 +1,1308 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d page selected"
+msgid_plural "All %d pages selected"
+msgstr[0] "ཤོག་ལྷེ %d བདམས་ཟིན་པ།"
+msgstr[1] "ཤོག་ལྷེ %d བདམས་ཟིན་པ།"
+
+msgid "%d procedure"
+msgid_plural "%d procedures"
+msgstr[0] "བརྒྱུད་རིམ %d"
+msgstr[1] "བརྒྱུད་རིམ %d"
+
+msgid "%d procedure matches your query"
+msgid_plural "%d procedures match your query"
+msgstr[0] "བརྒྱུད་རིམ %d དང་ཁྱེད་ཀྱི་འདྲི་རྩད་ཟླ་སྒྲིག་ཡིན་པ།"
+msgstr[1] "བརྒྱུད་རིམ %d དང་ཁྱེད་ཀྱི་འདྲི་རྩད་ཟླ་སྒྲིག་ཡིན་པ།"
+
+msgid "%s plug-in  can only handle RGB or indexed images"
+msgstr "བསྒར་ལྷུ %s ཡིས RGB འམ་ཡང་ན་གསལ་བྱང་བརྙན་རིས་ཁོ་ན་ཐག་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid "%s plug-in can only handle RGB images"
+msgstr "བསྒར་ལྷུ %s ཡིས་བརྙན་རིས RGB ཁོ་ན་ཐག་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid "%s plug-in can only handle RGB or grayscale images"
+msgstr "བསྒར་ལྷུ %s ཡིས RGB འམ་ཡང་ན་སྐྱ་ཚད་བརྙན་རིས་ཁོ་ན་ཐག་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid "%s plug-in can only handle bitmap (two color) indexed images"
+msgstr ""
+"བསྒར་ལྷུ %s ཡིས་གནས་རིས། ( མདོག་གཉིས ) "
+"གསལ་བྱང་གི་བརྙན་རིས་ཁོ་ན་ཐག་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid "%s plug-in can only handle grayscale images"
+msgstr "བསྒར་ལྷུ %s ཡིས་སྐྱ་ཚད་བརྙན་རིས་ཁོ་ན་ཐག་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid "%s plug-in can only handle grayscale or indexed images"
+msgstr ""
+"བསྒར་ལྷུ %s ཡིས་སྐྱ་ཚད་དམ་ཡང་ན་གསལ་བྱང་བརྙན་རིས་ཁོ་ན་ཐག་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid "%s plug-in can only handle indexed images"
+msgstr "བསྒར་ལྷུ %s ཡིས་གསལ་བྱང་བརྙན་རིས་ཁོ་ན་ཐག་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid "%s plug-in can only handle layers as animation frames"
+msgstr ""
+"བསྒར་ལྷུ %s ཡིས་འགུལ་རིས་ཀྱི་ལྷེབ་མའི་ཚུལ་གྱི་རིས་རིམ་ཐག་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid "%s plug-in can't handle layer masks"
+msgstr "བསྒར་ལྷུ %s ཡིས་རིས་རིམ་སོག་ལེབ་ཐག་གཅོད་བྱེད་ཐབས་མེད།"
+
+msgid "%s plug-in can't handle layer offsets, size or opacity"
+msgstr ""
+"བསྒར་ལྷུ %s "
+"ཡིས་རིས་རིམ་གནས་སྤོ་འམ་ཆེ་ཆུང་ཡང་ན་མི་གསལ་ཚད་ཐག་གཅོད་བྱེད་མི་ཐུབ།"
+
+msgid "%s plug-in can't handle layers"
+msgstr "བསྒར་ལྷུ %s ཡིས་རིས་རིམ་ཐག་གཅོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "%s plug-in can't handle transparency"
+msgstr "བསྒར་ལྷུ %s ཡིས་གསལ་ཚད་ཐག་གཅོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "%s plug-in needs an alpha channel"
+msgstr "བསྒར་ལྷུ %s ལ alpha རྒྱུ་ལམ་ཞིག་དགོས།"
+
+msgid "(Empty)"
+msgstr "(སྟོང་པ།)"
+
+msgid "(invalid UTF-8 string)"
+msgstr "( ནུས་མེད་ཀྱི་ཡིག་རྟགས་ཕྲེང་བ UTF-8 )"
+
+msgid "Add Alpha Channel"
+msgstr "རྒྱུ་ལམ Alpha སྣོན་པ། "
+
+msgid "Additional Information"
+msgstr "ཟུར་སྣོན་ཆ་འཕྲིན།"
+
+msgid "All files (*.*)"
+msgstr "ཡིག་ཆ་ཚང་མ། (*.*)"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Anchor"
+msgstr "གཏན་འཇགས།"
+
+msgid "Apply Layer Masks"
+msgstr "རིས་རིམ་སོག་ལེབ་བཀོལ་སྤྱོད།"
+
+msgid "Author:"
+msgstr "རྩོམ་པ་པོ།："
+
+msgid "Blac_k"
+msgstr "ནག་པོ། (_K)"
+
+msgid "Black"
+msgstr "ནག་པོ།"
+
+msgid "Black _pullout:"
+msgstr "ནག་ཚད། (_P)："
+
+msgid "Blue"
+msgstr "སྔོན་པོ།"
+
+msgid "Brush Selection"
+msgstr "རིས་པིར་འདེམ་པ།"
+
+msgid "Button %d"
+msgstr "མཐེབ་གནོན %d"
+
+msgid "Button %d Press"
+msgstr "མཐེབ་གནོན %d མནན་པ།"
+
+msgid "Button %d Release"
+msgstr "མཐེབ་གནོན %d གློད་གྲོལ།"
+
+msgid "Button 0"
+msgstr "མཐེབ་གནོན 0"
+
+msgid "Button 1"
+msgstr "མཐེབ་གནོན 1"
+
+msgid "Button 2"
+msgstr "མཐེབ་གནོན 2"
+
+msgid "Button 3"
+msgstr "མཐེབ་གནོན 3"
+
+msgid "Button 4"
+msgstr "མཐེབ་གནོན 4"
+
+msgid "Button 5"
+msgstr "མཐེབ་གནོན 5"
+
+msgid "Button 6"
+msgstr "མཐེབ་གནོན 6"
+
+msgid "Button 7"
+msgstr "མཐེབ་གནོན 7"
+
+msgid "Button 8"
+msgstr "མཐེབ་གནོན 8"
+
+msgid "Button 9"
+msgstr "མཐེབ་གནོན 9"
+
+msgid "Button Back"
+msgstr "ཕྱི་བཤོལ་མཐེབ་གནོན།"
+
+msgid "Button Extra"
+msgstr "འཕར་མའི་མཐེབ།"
+
+msgid "Button Forward"
+msgstr "མདུན་སྐྱོད་མཐེབ་གནོན།"
+
+msgid "Button Gear Down"
+msgstr "འགྲོས་སྣོན་གདང་གི་མཐེབ་གནོན།"
+
+msgid "Button Gear Up"
+msgstr "འགྲོས་འཕྲི་གདང་གི་མཐེབ་གནོན།"
+
+msgid "Button Left"
+msgstr "གཡོན་མཐེབ།"
+
+msgid "Button Middle"
+msgstr "དཀྱིལ་མཐེབ།"
+
+msgid "Button Mouse"
+msgstr "ཙིག་མདའི་མཐེབ་གནོན།"
+
+msgid "Button Right"
+msgstr "གཡས་མཐེབ།"
+
+msgid "Button Side"
+msgstr "གཞོགས་མཐེབ།"
+
+msgid "Button Task"
+msgstr "ལས་འགན་མཐེབ་གནོན།"
+
+msgid "Button Wheel"
+msgstr "སྒྲོམ་སྐྱོད་སྡེར་གྱི་མཐེབ་གནོན།"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "CMYK color selector"
+msgstr "CMYK ཁ་དོག་གདམ་ཆས།"
+
+msgid "CMYK color selector (using color profile)"
+msgstr "CMYK ཁ་དོག་གདམ་ཆས། ( ཁ་དོག་སྡེབ་སྒྲིག་ཡིག་ཆ་བེད་སྤྱོད་པ )"
+
+msgid "C_enter"
+msgstr "དཀྱིལ་སྒྲིག (_E)"
+
+msgid "Cannot expand ${%s}"
+msgstr "རྒྱ་སྐྱེད་བྱེད་མི་ཐུབ་པ ${%s}"
+
+msgid "Channel:"
+msgstr "རྒྱུ་ལམ།："
+
+msgid "Check Size"
+msgstr "དྲ་མིག་ཆེ་ཆུང་།"
+
+msgid "Check Style"
+msgstr "དྲ་མིག་བཟོ་ཉམས།"
+
+msgid "Choose an ICC Color Profile"
+msgstr "ICC ཁ་དོག་སྡེབ་སྒྲིག་ཡིག་ཆ་བདམས་པ།"
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr ""
+"གྲང་སྦུག་གནོན་རྗེས་ཁྱེད་ཀྱི་བརྙན་ཡོལ་སྟེང་གི་གནས་ས་གང་རུང་གི་ཁ་དོག་གནོན་ན་ཁ་དོག་དེ་བདམས་པ་ཡིན།"
+
+msgid "Color Deficient Vision"
+msgstr "ཚོན་མདོག་མཐོང་ཚོར་ཆད་པ།"
+
+msgid "Color Management"
+msgstr "ཚོན་མདོག་དོ་དམ།"
+
+msgid "Color Proof"
+msgstr "ཁ་དོག་ཞུ་དག"
+
+msgid "Color _deficiency type:"
+msgstr "ཚོན་མདོག་ཆད་པའི་རིགས་གྲས། (_D)："
+
+msgid "Color deficit simulation filter (Brettel-Vienot-Mollon algorithm)"
+msgstr "ཚོན་མདོག་ཆད་པའི་ལད་ཟློས་འཚག་ཤེལ། ( རྩི་ཐབས Brettel-Vienot-Mollon )"
+
+msgid "Color management display filter using ICC color profiles"
+msgstr "ICC ཁ་དོག་སྡེབ་སྒྲིག་ཡིག་ཆ་ཡི་ཁ་དོག་ཞུ་དག་འཚག་ཤེལ་བེད་སྤྱོད་པ།"
+
+msgid "Color proof filter using ICC color profile"
+msgstr "ICC ཁ་དོག་སྡེབ་སྒྲིག་ཡིག་ཆ་ཡི་ཁ་དོག་ཞུ་དག་འཚག་ཤེལ་བེད་སྤྱོད་པ།"
+
+msgid "Confirm"
+msgstr "གཏན་འཁེལ།"
+
+msgid "Confirm Save"
+msgstr "ཉར་ཚགས་གཏན་འཁེལ།"
+
+msgid "Contrast"
+msgstr "བསྡུར་ཚད།"
+
+msgid "Contrast c_ycles:"
+msgstr "དཔྱད་བསྡུར་རྒྱུན་འཁོར། (_Y)："
+
+msgid "Controller %03d"
+msgstr "ཚོད་འཛིན་ཆས %03d"
+
+msgid "Convert to Grayscale"
+msgstr "སྐྱ་ཚད་ལ་བརྗེ་བ།"
+
+msgid "Convert to RGB"
+msgstr "RGB ལ་བརྗེ་བ།"
+
+msgid "Copyright:"
+msgstr "པར་དབང་།:"
+
+msgid "Could not create '%s': %s"
+msgstr "“%s”：%s བཟོ་མི་ཐུབ་པ།"
+
+msgid "Could not create temporary file for '%s': %s"
+msgstr "“%s” ལ་གནས་སྐབས་ཡིག་ཆ།：%s བཟོ་ཐབས་བྲལ།"
+
+msgid "Could not create thumbnail for %s: %s"
+msgstr "“%s” ལ་བསྡུས་རིས།：%s བཟོ་ཐབས་བྲལ།"
+
+msgid "Could not open '%s' for writing: %s"
+msgstr "འབྲི་བ་ལ “%s”：%s ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Cr_op"
+msgstr "དྲས་གཏུབ། (_O)"
+
+msgid "Current:"
+msgstr "མིག་སྔ།:"
+
+msgid "Cyan"
+msgstr "སྔོན་པོ།"
+
+msgid "Deuteranopia (insensitivity to green)"
+msgstr "ལྗང་མདོག་ལོང་བ། ( ལྗང་མདོག་ལ་ཚོར་སྐྱེན་མེད་པ )"
+
+msgid "Device not available"
+msgstr "སྒྲིག་ཆས་སྤྱོད་རུང་མིན་པ།"
+
+msgid "Device not available: %s"
+msgstr "སྒྲིག་ཆས་སྤྱོད་རུང་མིན་པ།：%s"
+
+msgid "Device:"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "Dial Turn Left"
+msgstr "ཆུ་ཚོད་སྡེར་མ་གཡོན་ཕྱོགས་སུ་འཁོར།"
+
+msgid "Dial Turn Right"
+msgstr "ཆུ་ཚོད་སྡེར་མ་གཡས་ཕྱོགས་སུ་འཁོར།"
+
+msgid "DirectInput Events"
+msgstr "དོན་རྐྱེན DirectInput"
+
+msgid "DirectX DirectInput"
+msgstr "DirectX DirectInput"
+
+msgid "DirectX DirectInput event controller"
+msgstr "དོན་རྐྱེན་ཚོད་འཛིན་ཆས DirectX DirectInput"
+
+msgid "End of file"
+msgstr "ཡིག་ཆ་རྫོགས་ས།"
+
+msgid "Enter 'alsa' to use the ALSA sequencer."
+msgstr "“alsa” ནང་འཇུག་ནས་སྒྲ་རིམ་ཆས ALSA བཀོལ་ཆོག"
+
+msgid "Error while parsing '%s' in line %d: %s"
+msgstr "“%s” ཡི་ཕྲེང་ཨང %d ལ་ཞིབ་འགྲེལ་སྐབས་ནོར་འཁྲུལ།：%s ཐོན་པ།"
+
+msgid "Error writing to '%s': %s"
+msgstr "“%s” འབྲི་བའི་སྐབས་ནོར་འཁྲུལ།：%s ཐོན་པ།"
+
+msgid "Export File"
+msgstr "ཡིག་ཆ་ཕྱིར་འདྲེན།"
+
+msgid "Failed to create thumbnail folder '%s'."
+msgstr "བསྡུས་རིས་ཀྱི་ཡིག་ཁུག “%s” བཟོ་ཐབས་བྲལ།"
+
+msgid "Flatten Image"
+msgstr "བརྙན་རིས་སྙོམས་པ།"
+
+msgid "Folder"
+msgstr "ཡིག་ཁུག"
+
+msgid "Font Selection"
+msgstr "ཡིག་གཟུགས་འདེམ་པ།"
+
+msgid "GIMP"
+msgstr "GIMP"
+
+msgid "GIMP MIDI Input Controller"
+msgstr "\"GIMP MIDI ནང་འཇུག་ཚོད་འཛིན་ཆས།"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Gamma color display filter"
+msgstr "\"Gamma ཁ་དོག་མངོན་པའི་འཚག་ཤེལ།"
+
+msgid "Gigabytes"
+msgstr "GB"
+
+msgid "Gradient Selection"
+msgstr "རིམ་འགྱུར་འདེམ་པ།"
+
+msgid "Green"
+msgstr "ལྗང་མདོག"
+
+msgid "HSV color wheel"
+msgstr "མདོག་འཁོར HSV"
+
+msgid "HTML _notation:"
+msgstr "HTML རྣམ་གཞག (_N)："
+
+msgid ""
+"Hexadecimal color notation as used in HTML and CSS.  This entry also accepts"
+" CSS color names."
+msgstr ""
+"HTML དང CSS ཡི་ནང་བེད་སྤྱད་པའི་བཅུ་དྲུག་གོང་འགྲིལ་ལུགས་ཀྱི་ཁ་དོག་རྣམ་གཞག "
+"འདིར་ཡང CSS ཚོན་མདོག་གི་མིང་བེད་སྤྱད་ཆོག་གི་རེད། "
+
+msgid "High Contrast color display filter"
+msgstr "བསྡུར་ཚད་མཐོ་པའི་ཁ་དོག་མངོན་པའི་འཚག་ཤེལ།"
+
+msgid "Horiz. Wheel Turn Back"
+msgstr "ཆུ་སྙོམས་འཁོར་ལོ་རྒྱབ་ཏུ་འཁོར།"
+
+msgid "Horiz. Wheel Turn Forward"
+msgstr "ཆུ་སྙོམས་འཁོར་ལོ་མདུན་དུ་འཁོར།"
+
+msgid "Hue"
+msgstr "ཚོས་གཞི།"
+
+msgid "ICC color profile (*.icc, *.icm)"
+msgstr "ICC ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆ། ( *.icc, *.icm )"
+
+msgid "Image profile:"
+msgstr "བརྙན་རིས་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "Kilobytes"
+msgstr "KB"
+
+msgid "L_etter Spacing"
+msgstr "གསལ་བྱེད་བར་ཐག (_E)"
+
+msgid "L_ine Spacing"
+msgstr "ཕྲེང་གི་བར་ཐག (_I)"
+
+msgid "Linked"
+msgstr "སྦྲེལ་མཐུད་ཟིན་པ།"
+
+msgid "Linux Input"
+msgstr "Linux ནང་འཇུག"
+
+msgid "Linux Input Events"
+msgstr "Linux ནང་འཇུག་དོན་རྐྱེན།"
+
+msgid "Linux input event controller"
+msgstr "Linux ནང་འཇུག་དོན་རྐྱེན་ཚོད་འཛིན་ཆས།"
+
+msgid "Load failed"
+msgstr "ཁུར་སྣོན་ཕམ་པ།"
+
+msgid "Loaded"
+msgstr "ཁུར་སྣོན་ཟིན་པ།"
+
+msgid "MIDI"
+msgstr "MIDI"
+
+msgid "MIDI Events"
+msgstr "MIDI དོན་རྐྱེན།"
+
+msgid "MIDI event controller"
+msgstr "MIDI དོན་རྐྱེན་ཚོད་འཛིན་ཆས།"
+
+msgid "Megabytes"
+msgstr "MB"
+
+msgid "Merge Visible Layers"
+msgstr "མཐོང་རུང་རིས་རིམ་མཉམ་སྒྲིལ།"
+
+msgid "Mode of operation for color management."
+msgstr "ཁ་དོག་དོ་དམ་གྱི་བཀོལ་སྤྱོད་རྣམ་པ།"
+
+msgid "Mode of operation:"
+msgstr "བཀོལ་སྤྱོད་རྣམ་པ།："
+
+msgid "Module '%s' load error: %s"
+msgstr "དཔེ་དུམ “%s” ཁུར་སྣོན་ནོར་འཁྲུལ།：%s"
+
+msgid "Module error"
+msgstr "དཔེ་དུམ་བུ་ནོར་འཁྲུལ།"
+
+msgid "Monitor profile:"
+msgstr "འཆར་ཆས་སྡེབ་སྒྲིག་ཡིག་ཆ།："
+
+msgid "More..."
+msgstr "དེ་བས་མང་བ།"
+
+msgid "No device configured"
+msgstr "སྒྲིག་ཆས་ལ་སྡེབ་སྒྲིག་བྱས་མེད་པ།"
+
+msgid "No matches"
+msgstr "ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "No matches for your query"
+msgstr "ཁྱེད་ཀྱི་འདྲི་རྩད་ལ་ཟླ་སྒྲིག་ཚན་པ་མེད་པ།"
+
+msgid "None"
+msgstr " མེད།"
+
+msgid "Not loaded"
+msgstr "ཁུར་སྣོན་བྱས་མེད་པ།"
+
+msgid "Note %02x off"
+msgstr "སྒྲ་རྟགས %02x ཁ་རྒྱག་པ།"
+
+msgid "Note %02x on"
+msgstr "སྒྲ་རྟགས %02x ཁ་ཕྱེད་བ།"
+
+msgid "Nothing selected"
+msgstr "བདམས་མེད་པ།"
+
+msgid "Old:"
+msgstr "རྙིང་པ།"
+
+msgid "One page selected"
+msgstr "ཤོག་ལྷེ་ཞིག་བདམས་པ།"
+
+msgid "Open _pages as"
+msgstr "ལྡེབ་ངོས་ཁ་ཕྱེ་བ། (_P)"
+
+msgid "Open a file selector to browse your files"
+msgstr "ཡིག་ཆ་གདམ་ཆས་ཤིག་ཁ་ཕྱེ་ནས་ཁྱེད་ཀྱི་ཡིག་ཆར་མིག་བཤར་བྱེད།"
+
+msgid "Open a file selector to browse your folders"
+msgstr "ཡིག་ཆ་གདམ་ཆས་ཤིག་ཁ་ཕྱེ་ནས་ཁྱེད་ཀྱི་ཡིག་ཁུག་ལ་མིག་བཤར་བྱེད།"
+
+msgid "POV %d Return"
+msgstr "POV %d ཕྱིར་ལོག"
+
+msgid "POV %d X View"
+msgstr "POV %d X མཐོང་རིས།"
+
+msgid "POV %d Y View"
+msgstr "POV %d Y མཐོང་རིས།"
+
+msgid "Page %d"
+msgstr "ཤོག་ཨང་། %d"
+
+msgid "Palette Selection"
+msgstr "ཚོན་གཞོང་འདེམ་པ།"
+
+msgid "Parameters"
+msgstr "ཞུགས་གྲངས།"
+
+msgid "Paste Into"
+msgstr "སྤྱར་ནས་འཛུལ་བ།"
+
+msgid "Paste as New"
+msgstr "བརྙན་རིས་གསར་པར་སྦྱར་བ།"
+
+msgid "Pattern Selection"
+msgstr "དཔེ་རིས་འདེམ་པ།"
+
+msgid "Press F1 for more help"
+msgstr "F1མནན་ནས་མང་བའི་རོགས་རམ་ཐོབ་པ།"
+
+msgid "Pressure"
+msgstr "གནོན་ཤུགས།"
+
+msgid "Print simulation profile:"
+msgstr "ལད་ཟློས་སྡེབ་སྒྲིག་ཡིག་ཆ་པར་འདེབས་པ།"
+
+msgid "Profile: %s"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ།：%s"
+
+msgid "Profile: (none)"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ།：( མེད )"
+
+msgid "Protanopia (insensitivity to red)"
+msgstr "དམར་ལོང་། ( དམར་པོར་ཚོར་སྐྱེན་མེད་པ )"
+
+msgid "Reading from %s"
+msgstr "%s ནས་ཀློག་ལེན་བྱེད་པ།"
+
+msgid "Red"
+msgstr "དམར་པོ།"
+
+msgid "Return Values"
+msgstr "ཕྱིར་ལོག་གྲངས་བྲིན།"
+
+msgid "Sans"
+msgstr "Sans"
+
+msgid "Saturation"
+msgstr "ཚད་ལོངས་ཚད།"
+
+msgid "Save as Animation"
+msgstr "འགུལ་རིས་ཀྱིས་གསོག་འཇོག་བྱེད་པ།"
+
+msgid "Scales"
+msgstr "སྐྱེད་སྐྱུང་།"
+
+msgid "Search term invalid or incomplete"
+msgstr "བཤེར་འཚོལ་ཆ་རྐྱེན་ནུས་པ་མེད་པའམ་ཡང་ན་ཆ་ཚང་མིན་པ།"
+
+msgid "Searching"
+msgstr "བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
+
+msgid "Searching by author"
+msgstr "རྩོམ་པ་པོར་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Searching by copyright"
+msgstr "པར་དབང་ལ་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Searching by date"
+msgstr "ཚེས་གྲངས་ལ་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Searching by description"
+msgstr "ཞིབ་བརྗོད་ལ་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Searching by help"
+msgstr "རོགས་རམ་ལ་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Searching by name"
+msgstr "མིང་ལྟར་བཤེར་འཚོལ།"
+
+msgid "Searching by type"
+msgstr "རིགས་གྲས་ལ་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Seed random number generator with a generated random number"
+msgstr ""
+"གྲུབ་པའི་སྐབས་བསྟུན་གྲངས་དེ་སྐབས་བསྟུན་གྲངས་སྐྱེད་སྒྲུབ་ཆས་ཀྱི་ས་བོན་ལ་རྩིས་བ།"
+
+msgid "Select File"
+msgstr " ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select Folder"
+msgstr "ཡིག་ཁུག་འདེམ་པ།"
+
+msgid "Select _All"
+msgstr "ཚང་མ་འདེམ་པ།(_A)"
+
+msgid "Select _range:"
+msgstr "ཁྱབ་ཁོངས་འདེམ་པ། (_R)："
+
+msgid "Select color profile from disk..."
+msgstr "སྡུད་སྡེར་ནས་ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆ་འདེམ་པ།"
+
+msgid ""
+"Sets how colors are converted from RGB working space to the print simulation"
+" device."
+msgstr ""
+"ཚོན་མདོག་དེ RGB "
+"ལས་ཀའི་བར་སྟོང་ནས་པར་འདེབས་འདྲ་བཟོའི་སྒྲིག་ཆས་ལ་བརྗེ་བའི་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Sets how colors are mapped for your display."
+msgstr "ཚོན་མདོག་དེ་ཁྱེད་ཀྱི་འཆར་ཆས་ལ་རྟེན་འཕྲོ་བྱ་ཚུལ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Slider %d Decrease"
+msgstr "འདེད་རྡོ %d ཉུང་དུ་ཕྱིན་པ།"
+
+msgid "Slider %d Increase"
+msgstr "འདེད་རྡོ %d འཕར་བ།"
+
+msgid "The CMYK color profile used to convert between RGB and CMYK."
+msgstr "CMYK ཁ་དོག་སྡེབ་སྒྲིག་ཡིག་ཆ་དེ RGB དང CMYK བར་བརྗེ་བར་སྤྱོད་པ།"
+
+msgid ""
+"The MIDI channel to read events from. Set to -1 for reading from all MIDI "
+"channels."
+msgstr ""
+"ཀློག་ལེན་བྱ་རྒྱུའི་དོན་རྐྱེན་གྱི MIDI རྒྱུ་ལམ་དེ -1 ལ་སྒྲིག་འགོད་བྱས་ཚེ MIDI"
+" རྒྱུ་ལམ་ཚང་མ་ནས་ཀློག་ལེན་བྱེད་ཐུབ་པ་ཡིན།"
+
+msgid "The color profile of your (primary) monitor."
+msgstr "ཁྱེད་ཀྱི། ( གཙོ་བོ ) འཆར་ཆས་ཀྱི་ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "The color profile used for simulating a printed version (softproof)."
+msgstr ""
+"ལད་ཟློས་པར་འདེམ་པར་གཞི་ཡིག་ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆ། ( "
+"མཉེན་མོའི་རྣམ་པ་སྟོན་པ )"
+
+msgid "The color to use for marking colors which are out of gamut."
+msgstr "མདོག་ཁོངས་ལས་བརྒལ་བ་ལ་བཀོལ་བའི་མཚོན་མདོག་གི་ཁ་དོག"
+
+msgid "The default RGB working space color profile."
+msgstr "སོར་བཞག RGB ལས་ཀའི་བར་སྟོང་གི་ཁ་དོག་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "The device to read DirectInput events from."
+msgstr "དོན་རྐྱེན DirectInput ཡི་སྒྲིག་ཆས་ཀློག་ལེན་བྱེད་པ།"
+
+msgid "The export conversion won't modify your original image."
+msgstr "བརྗེ་སྤོར་ཕྱིར་འདྲེན་གྱིས་ཁྱེད་ཀྱི་སྔར་གྱི་བརྙན་རིས་བསྒྱུར་མི་ཐུབ།"
+
+msgid "The name of the device to read Linux Input events from."
+msgstr "Linux ནང་འཇུག་དོན་རྐྱེན་གྱི་སྒྲིག་ཆས་མིང་ཀློག་ལེན་བྱེད་པ།"
+
+msgid "The name of the device to read MIDI events from."
+msgstr "དོན་རྐྱེན MIDI ཡི་སྒྲིག་ཆས་མིང་ཀློག་ལེན་བྱེད་དགོས།"
+
+msgid "The percentage of black to pull out of the colored inks."
+msgstr "ཚོན་ལྡན་སྣག་ཚའི་ནང་ནག་པོས་ཟིན་པའི་བརྒྱ་ཆའི་གྲངས། "
+
+msgid ""
+"This filter takes its configuration from the Color Management section in the"
+" Preferences dialog."
+msgstr ""
+"སྔོན་འདེམས་ཚན་པའི་གླེང་སྒྲོམ་ནང་གི་ཚོན་མདོག་དོམ་དམ་ཆ་ཤས་ནས་འཚག་ཤེལ་འདིའི་སྡེབ་སྒྲིག་ཐོབ་པ།"
+
+msgid "This text input field is limited to %d character."
+msgid_plural "This text input field is limited to %d characters."
+msgstr[0] "ནང་འཇུག་ཁུལ་ཁོངས་འདི་ཡིག་རྟགས %d ལ་ཚད་བཀག་བྱེད་པ།"
+msgstr[1] "ནང་འཇུག་ཁུལ་ཁོངས་འདི་ཡིག་རྟགས %d ལ་ཚད་བཀག་བྱེད་པ།"
+
+msgid "Thumbnail contains no Thumb::URI tag"
+msgstr "བསྡུས་རིས་ལ་གདོང་འཛར Thumb::URI ཚུད་མེད་པ།"
+
+msgid "Tritanopia (insensitivity to blue)"
+msgstr "སྔོ་ལོང་། ( སྔོན་པོར་ཚོར་སྐྱེན་མེད་པ། )"
+
+msgid "Unit"
+msgstr "སྡེ་ཚན།"
+
+msgid "Unit Selection"
+msgstr "འཇལ་བྱེད་འདེམ་པ།"
+
+msgid ""
+"Use this value for random number generator seed - this allows you to repeat "
+"a given \"random\" operation"
+msgstr ""
+"གྲངས་བྲིན་འདི་བེད་སྤྱད་དེ་སྐབས་བསྟུན་གྲངས་ལ་རྩིས་ནས་ས་བོན་སྐྱེད་སྒྲུབ་བྱེད་པ།"
+" - འདིས་ཁྱེད་ལ་དམིགས་འཛུགས་བྱས་པའི “ སྐབས་བསྟུན "
+"”བཀོལ་སྤྱོད་ཞིག་བསྐྱར་ཟློས་བྱས་ཆོག"
+
+msgid "Value"
+msgstr "ཐང་།"
+
+msgid "Visible"
+msgstr "མཐོང་ཐུབ་པ།"
+
+msgid "Watercolor"
+msgstr "ཆུ་ཚོན།"
+
+msgid "Watercolor style color selector"
+msgstr "ཆུ་ཚོན་བཟོ་ཉམས་ཀྱི་ཁ་དོག་གདམ་ཆས།"
+
+msgid "Wheel"
+msgstr "འཁོར་ལོ།"
+
+msgid "Wheel Turn Left"
+msgstr "འཁོར་ཕྱོགས་དེ་གཡོན་ཕྱོགས་སུ་འཁོར།"
+
+msgid "Wheel Turn Right"
+msgstr "འཁོར་ཕྱོགས་གཡས་ཕྱོགས་སུ་འཁོར།"
+
+msgid ""
+"When enabled, the print simulation will mark colors which can not be "
+"represented in the target color space."
+msgstr ""
+"གལ་སྲིད་སྤྱད་ཚེ། "
+"པར་འདེམས་ལད་ཟློས་ཀྱིས་དམིགས་འབེན་ཚོན་མདོག་བར་སྟོང་གི་མཚོན་མི་ཐུབ་པའི་ཁ་དོག་ལ་རྟགས་བཀོད་པ།"
+
+msgid "Writable"
+msgstr "འབྲི་རུང་།"
+
+msgid "X Axis Tilt Away"
+msgstr "X མདའ་ཕྱེ་བ།"
+
+msgid "X Axis Tilt Back"
+msgstr "X མདའ་རྒྱབ་ཏུ་གཡོ།"
+
+msgid "X Axis Tilt Forward"
+msgstr "X མདའ་མདུན་དུ་གཡོ།"
+
+msgid "X Axis Tilt Near"
+msgstr "X མདའ་ཇེ་ཉེར་གཏོང་བ།"
+
+msgid "X Move Left"
+msgstr "X གཡོན་སྤོ།"
+
+msgid "X Move Right"
+msgstr "X གཡས་སྤོ།"
+
+msgid "Y Axis Tilt Left"
+msgstr "Y མདའ་གཡོན་ལ་གཡོ་བ།"
+
+msgid "Y Axis Tilt Right"
+msgstr "Y མདའ་གཡས་ལ་གཡོ་བ།"
+
+msgid "Y Move Away"
+msgstr "Y སྤོ་བ།"
+
+msgid "Y Move Back"
+msgstr "Y རྗེས་སྤོ།"
+
+msgid "Y Move Forward"
+msgstr "Y མདུན་སྤོ།"
+
+msgid "Y Move Near"
+msgstr "Y ཇེ་ཉེར་སྤོ་བ།"
+
+msgid "Yellow"
+msgstr "སེར་པོ།"
+
+msgid ""
+"Your image should be exported before it can be saved as %s for the following"
+" reasons:"
+msgstr ""
+"ཁྱེད་ཀྱི་བརྙན་རིས %s ལ་ཉར་ཚགས་མ་བྱས་གོང་སྔོན་ལ་ཕྱིར་འདྲེན་，བྱ་དགོས། "
+"རྒྱུ་རྐྱེན་ནི།："
+
+msgid "Z Axis Turn Left"
+msgstr "Z མདའ་གཡོན་ཕྱོགས་སུ་འཁོར།"
+
+msgid "Z Axis Turn Right"
+msgstr "Z མདའ་གཡས་ཕྱོགས་སུ་འཁོར།"
+
+msgid "Z Move Down"
+msgstr "Z གསམ་སྤོ།"
+
+msgid "Z Move Up"
+msgstr "Z གོང་སྤོ།"
+
+msgid "_Background Color"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག (_B)"
+
+msgid "_Black Point Compensation"
+msgstr "ནག་ཚེག་ཁ་གསབ། (_B)"
+
+msgid "_Browse..."
+msgstr "མིག་བཤེར།(_B)..."
+
+msgid "_C"
+msgstr "_C"
+
+msgid "_Duplicate"
+msgstr "འདྲ་ཕབ།(_D)"
+
+msgid "_Edit"
+msgstr "རྩོམ་སྒྲིག (_E)"
+
+msgid "_Export"
+msgstr "ཕྱིར་འདྲེན།(E)"
+
+msgid "_Foreground Color"
+msgstr "མདུན་ལྗོངས་ཁ་དོག (_F)"
+
+msgid "_Gamma:"
+msgstr " _Gamma："
+
+msgid "_Ignore"
+msgstr "སྣང་མེད་དུ་གཏོང་།(_I)"
+
+msgid "_Intent:"
+msgstr "དམིགས་འབེན། (_I)："
+
+msgid "_K"
+msgstr "_K"
+
+msgid "_M"
+msgstr "_M"
+
+msgid "_New Seed"
+msgstr "ས་བོན་གསར་པ། (_N)"
+
+msgid "_Preview"
+msgstr "སྔོན་ལྟ།(_P)"
+
+msgid "_Profile:"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ།(_P)："
+
+msgid "_Randomize"
+msgstr "སྐབས་བསྟུན། (_R)"
+
+msgid "_Reset"
+msgstr "བསྐྱར་བཀོད། (_R)"
+
+msgid "_Resize"
+msgstr "ཆེ་ཆུང་བསྒྱུར་བ།(_R)"
+
+msgid "_Rotate"
+msgstr "འཁྱིལ་འཁོར། (_R)"
+
+msgid "_Scale"
+msgstr "སྐྱེད་སྐྱུང་།(_S)"
+
+msgid "_Search:"
+msgstr "འཚོལ་བཤེར།(_S)："
+
+msgid "_Shear"
+msgstr "གཅོད་འགྱུར། (_S)"
+
+msgid "_Stroke"
+msgstr "བྲིས། (_S)"
+
+msgid "_Transform"
+msgstr "བརྗེ་བསྒྱུར། (_T)"
+
+msgid "_White"
+msgstr "དཀར་པོ། (_W)"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "C_hannel"
+msgstr "རྒྱུ་ལམ། (_H)"
+
+msgid "Layer's _alpha channel"
+msgstr "རིས་རིམ་གྱི་རྒྱུ་ལམ _Alpha"
+
+msgid "_Black (full transparency)"
+msgstr "ནག་པོ། ( ཚང་མ་ནང་གསལ་)། (_B)"
+
+msgid "_Grayscale copy of layer"
+msgstr "རིས་རིམ་གྱི་སྐྱ་ཚད་བུ་དཔེ། (_G)"
+
+msgid "_Selection"
+msgstr "འདེམས་ཁུལ། (_S)"
+
+msgid "_Transfer layer's alpha channel"
+msgstr "རིས་རིམ་གྱི་རྒྱུ་ལམ Alpha སྤོ་སྒྱུར་བྱེད་པ། (_T)"
+
+msgid "_White (full opacity)"
+msgstr "དཀར་པོ། ( ཚང་མ་ནང་གསལ་མིན་པ )། (_W)"
+
+msgid "Landscape"
+msgstr "འཕྲེད་ཕྱོགས།"
+
+msgid "Portrait"
+msgstr "གཞུང་ཕྱོགས།"
+
+msgid "Square"
+msgstr "གྲུ་བཞི་ཁ་གང་མ།"
+
+msgid "Custom gradient"
+msgstr "རང་བཟོས་རིམ་འགྱུར།"
+
+msgid "FG to BG (HSV)"
+msgstr "མདུན་ལྗོངས་ནས་རྒྱབ་ལྗོངས། (HSV)"
+
+msgid "FG to BG (RGB)"
+msgstr "མདུན་ལྗོངས་ནས་རྒྱབ་ལྗོངས་བར། ( RGB )"
+
+msgid "FG to transparent"
+msgstr "མདུན་ལྗོངས་ནས་ནང་གསལ་བར།"
+
+msgid "BG color fill"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་ཁ་སྐོང་།"
+
+msgid "FG color fill"
+msgstr "མདུན་ལྗོངས་ཁ་དོག་ཁ་སྐོང་།"
+
+msgid "Pattern fill"
+msgstr "དཔེ་རིས་ཁ་སྐོང་།"
+
+msgid "by author"
+msgstr "རྩོམ་པ་པོར་གཞིགས་ནས།"
+
+msgid "by copyright"
+msgstr "པར་དབང་ལ་གཞིགས་ནས།"
+
+msgid "by date"
+msgstr "ཚེས་གྲངས་ལ་གཞིགས་ནས།"
+
+msgid "by description"
+msgstr "ཞིབ་བརྗོད་ལ་གཞིགས་ནས།"
+
+msgid "by help"
+msgstr "རོགས་རམ་ལ་གཞིགས་ནས།"
+
+msgid "by name"
+msgstr "མིང་ལ་གཞིགས་ནས།"
+
+msgid "by type"
+msgstr "རིགས་གྲས་ལ་གཞིགས་ནས།"
+
+msgid "calling error"
+msgstr "ནོར་འཁྲུལ་འདོན་སྤྱོད།"
+
+msgid "cancelled"
+msgstr "དོར་ཟིན་པ།"
+
+msgid "Add to the current selection"
+msgstr "མིག་སྔའི་འདེམས་ཁུལ་དུ་མཉམ་སྒྲིལ་བྱེད་པ།"
+
+msgid "Intersect with the current selection"
+msgstr "མིག་སྔའི་འདེམས་ཁུལ་དང་སྣོལ་དགོས།"
+
+msgid "Replace the current selection"
+msgstr "མིག་སྔའི་འདེམས་ཁུལ་ཚབ་བརྗེ་བ།"
+
+msgid "Subtract from the current selection"
+msgstr "མིག་སྔའི་འདེམས་ཁུལ་ནས་འཐེན་དགོས།"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Blue"
+msgstr "སྔོན་པོ།"
+
+msgid "Gray"
+msgstr "སྐྱ་ཚད།"
+
+msgid "Green"
+msgstr "ལྗང་མདོག"
+
+msgid "Indexed"
+msgstr " གསལ་བྱང་།"
+
+msgid "Red"
+msgstr "དམར་པོ།"
+
+msgid "Large"
+msgstr "ཆེ།"
+
+msgid "Medium"
+msgstr "འབྲིང་རིམ།"
+
+msgid "Small"
+msgstr "ཡིག་གཟུགས་ཆུང་བ།"
+
+msgid "Black only"
+msgstr "ནག་པོ་ཁོ་ན་རེད།"
+
+msgid "Dark checks"
+msgstr "ནོག་པོའི་དྲ་མིག"
+
+msgid "Gray only"
+msgstr "སྐྱ་མདོག་ཁོ་ན།"
+
+msgid "Light checks"
+msgstr "མདོག་སྐྱ་བོའི་དྲ་མིག"
+
+msgid "Mid-tone checks"
+msgstr "ཚོས་གཞི་འབྲིང་བའི་དྲ་མིག"
+
+msgid "White only"
+msgstr "དཀར་པོ་ཁོ་ན།"
+
+msgid "Image"
+msgstr "བརྙན་རིས།"
+
+msgid "Color managed display"
+msgstr "ཁ་དོག་དོ་དམ་གྱི་མངོན་པ།"
+
+msgid "No color management"
+msgstr "ཚོན་མདོག་དོ་དམ་མེད་པ།"
+
+msgid "Print simulation"
+msgstr "པར་འདབས་ལད་ཟློས།"
+
+msgid "Absolute colorimetric"
+msgstr "བལྟོས་མེད་མདོག་ཚད།"
+
+msgid "Perceptual"
+msgstr "ཚོར་དབང་།"
+
+msgid "Relative colorimetric"
+msgstr "ལྟོས་བཅས་མདོག་ཚད།"
+
+msgid "Saturation"
+msgstr "ཚད་ལོངས་ཚད།"
+
+msgid "_A"
+msgstr "_A"
+
+msgid "_B"
+msgstr "_B"
+
+msgid "_G"
+msgstr "_G"
+
+msgid "_H"
+msgstr "_H"
+
+msgid "_R"
+msgstr "_R"
+
+msgid "_S"
+msgstr "_S"
+
+msgid "_V"
+msgstr "_V"
+
+msgid "Average"
+msgstr "ཆ་སྙོམས།"
+
+msgid "Lightness"
+msgstr "གསལ་ཚད།"
+
+msgid "Luminosity"
+msgstr "འོད་འཕྲོ་ཚད།"
+
+msgid "Burn"
+msgstr "གཏིང་ཟབ།"
+
+msgid "Dodge"
+msgstr "ཉུང་འཕྲི།"
+
+msgid "execution error"
+msgstr "ནོར་འཁྲུལ་ལག་སྟར་བྱེད་པ།"
+
+msgid "expected 'yes' or 'no' for boolean token %s, got '%s'"
+msgstr ""
+"པོ་ལེན་ཐང %s དེ “yes” ཡང་ན “no” ཡིན་པར་རེ་སྒུག་བྱས་ཡོད་མོད། འོན་ཀྱང “%s” "
+"ཐོབ་ཡོད།"
+
+msgid "fatal parse error"
+msgstr "དབྱེ་ཞིབ་ནོར་འཁྲུལ་ཆེན་པོ།"
+
+msgid "Bi-linear"
+msgstr "ཆ་འགྲིག་ཐིག་གཤིས།"
+
+msgid "Conical (asym)"
+msgstr "སྒོར་སྙུང་། ( ཆ་འགྲིག་མིན་པ། )"
+
+msgid "Conical (sym)"
+msgstr "སྒོར་སྙུང་། ( ཆ་འགྲིག )"
+
+msgid "Linear"
+msgstr "ཐིག་གཤིས།"
+
+msgid "Radial"
+msgstr "ཚངས་ཕྱོགས།"
+
+msgid "Shaped (angular)"
+msgstr "དབྱིབས། ( རྩེ་ཟུར། )"
+
+msgid "Shaped (dimpled)"
+msgstr "དབྱིབས། (ཆུ་རིས། )"
+
+msgid "Shaped (spherical)"
+msgstr "དབྱིབས། ( རིལ་དབྱིབས། )"
+
+msgid "Spiral (ccw)"
+msgstr "དུང་འཁྱིལ། ( གཡོན་འཁོར། )"
+
+msgid "Spiral (cw)"
+msgstr "དུང་འཁྱིལ། ( གཡས་འཁོར། )"
+
+msgid "Square"
+msgstr "གྲུ་བཞི་ཁ་གང་མ།"
+
+msgid "Dashed"
+msgstr "ཚེག་ཐིག"
+
+msgid "Double dashed"
+msgstr "ཚེག་ཐིག་ཟུང་མ།"
+
+msgid "Intersections (crosshairs)"
+msgstr "སྣོལ་ཚོགས། ( སྣོལ་ཐིག )"
+
+msgid "Intersections (dots)"
+msgstr "སྣོལ་ཚོགས། ( ཚེག )"
+
+msgid "Solid"
+msgstr "ཚོན་རྡོག"
+
+msgid "Image file"
+msgstr "བརྙན་རིས་ཡིག་ཆ།"
+
+msgid "Inline pixbuf"
+msgstr "འཛུད་འཇུག pixbuf"
+
+msgid "Stock ID"
+msgstr "གསོག་འཇོག ID"
+
+msgid "Grayscale"
+msgstr "སྐྱ་ཚད།"
+
+msgid "Indexed color"
+msgstr "གསལ་བྱང་ཁ་དོག"
+
+msgid "RGB color"
+msgstr "RGBམདོག"
+
+msgid "Grayscale"
+msgstr "སྐྱ་ཚད།"
+
+msgid "Grayscale-alpha"
+msgstr "སྐྱ་ཚད -alpha"
+
+msgid "Indexed"
+msgstr " གསལ་བྱང་།"
+
+msgid "Indexed-alpha"
+msgstr "གསལ་བྱང་ཁ་དོག -alpha"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "RGB-alpha"
+msgstr "RGB-alpha"
+
+msgid "Disabled"
+msgstr "འགོག་སྤྱོད།"
+
+msgid "Screen"
+msgstr "བརྙན་ཡོལ།"
+
+msgid "Window"
+msgstr " སྒེའུ་ཁུང་།"
+
+msgid "Cubic"
+msgstr "རང་སུམ་སྒྱུར།"
+
+msgid "Linear"
+msgstr "ཐིག་གཤིས།"
+
+msgid "None"
+msgstr " མེད།"
+
+msgid "Sinc (Lanczos3)"
+msgstr "དྲང་རྒྱུད། (Lanczos3)"
+
+msgid "invalid UTF-8 string"
+msgstr "ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ།"
+
+msgid "invalid value '%ld' for token %s"
+msgstr "%2$s ཡི་གྲངས་བྲིན “%1$ld” དེ་ནུས་མེད་ཡིན།"
+
+msgid "invalid value '%s' for token %s"
+msgstr "%2$s ཡི་གྲངས་བྲིན “%1$s” དེ་ནུས་མེད་ཡིན།"
+
+msgid "Images"
+msgstr "བརྙན་རིས།"
+
+msgid "Layers"
+msgstr "རིམ་པ།"
+
+msgid "Constant"
+msgstr "རྒྱུན་གྲངས།"
+
+msgid "Incremental"
+msgstr "འཕར་ཚད།"
+
+msgid "GIMP Extension"
+msgstr "GIMP རྒྱ་སྐྱེད།"
+
+msgid "GIMP Plug-In"
+msgstr "བསྒར་ལྷུ GIMP"
+
+msgid "Internal GIMP procedure"
+msgstr "GIMP ནང་གི་བརྒྱུད་རིམ།"
+
+msgid "Temporary Procedure"
+msgstr "གནས་སྐབས་བརྒྱུད་རིམ།"
+
+msgid "percent"
+msgstr " བརྒྱ་ཆའི་བསྡུར།"
+
+msgid "None"
+msgstr " མེད།"
+
+msgid "None"
+msgstr " མེད།"
+
+msgid "Sawtooth wave"
+msgstr "སོག་ལེའི་རླབས།"
+
+msgid "Triangular wave"
+msgstr "ཟུར་གསུམ་རླབས།"
+
+msgid "Run interactively"
+msgstr "སྤེལ་རེས་ཚུལ་གྱི་འཁོར་སྐྱོད།"
+
+msgid "Run non-interactively"
+msgstr "སྤེལ་རེས་ཚུལ་མིན་པའི་འཁོར་སྐྱོད།"
+
+msgid "Run with last used values"
+msgstr "སྔོན་མའི་གྲངས་བྲིན་བེད་སྤྱད་ནས་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "Pixels"
+msgstr "བརྙན་རྒྱུ།"
+
+msgid "Points"
+msgstr "ཚེག"
+
+msgid "success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "From left to right"
+msgstr "གཡོན་ནས་གཡས་བར།"
+
+msgid "From right to left"
+msgstr "གཡས་ནས་གཡོན་བར།"
+
+msgid "Full"
+msgstr "ཆ་ཚང་།"
+
+msgid "Medium"
+msgstr "འབྲིང་རིམ།"
+
+msgid "None"
+msgstr " མེད།"
+
+msgid "Slight"
+msgstr "ཕྲན་བུ།"
+
+msgid "Centered"
+msgstr "དཀྱིལ་སྒྲིག"
+
+msgid "Filled"
+msgstr "ཁ་སྐོང་།"
+
+msgid "Left justified"
+msgstr "གཡོན་སྙོམ།"
+
+msgid "Right justified"
+msgstr "གཡས་སྙོམ།"
+
+msgid "Highlights"
+msgstr "མདངས་ཆེན།"
+
+msgid "Midtones"
+msgstr "གཏིང་ཟབ་ཚད་འབྲིང་བ།"
+
+msgid "Shadows"
+msgstr "གྲིབ་ནག"
+
+msgid "Corrective (Backward)"
+msgstr "ཁ་གསབ། ( རྗེས་ལ )"
+
+msgid "Normal (Forward)"
+msgstr "རྒྱུན་ལྡན། ( མདུན་ལ )"
+
+msgid "Adjust"
+msgstr "ལེགས་སྒྲིག"
+
+msgid "Clip"
+msgstr "དྲས་གཏུབ།"
+
+msgid "Crop to result"
+msgstr "མཇུག་འབྲས་ལ་དྲས་གཏུབ།"
+
+msgid "Crop with aspect"
+msgstr "བསྡུར་ཚད་ལྟར་དྲས་གཏུབ།"
+
+msgid "value for token %s is not a valid UTF-8 string"
+msgstr "%s ཡི་གྲངས་བྲིན་དེ་ནུས་ལྡན་གྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་མིན།"
+
+msgid "while parsing token '%s': %s"
+msgstr "“%s” ལ་ཞིབ་འགྲེལ་སྐབས།：%s"
+
+msgid "Zoom in"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
+
+msgid "Zoom out"
+msgstr "ཆུང་བསྡུ།"

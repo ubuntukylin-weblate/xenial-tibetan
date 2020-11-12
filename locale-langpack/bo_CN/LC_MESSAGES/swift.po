@@ -1,0 +1,597 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+"%(checked)d suffixes checked - %(hashed).2f%% hashed, %(synced).2f%% synced"
+msgstr ""
+"%(checked)dརྗེས་འཇུག་ཞིབ་བཤེར་བྱས་ཟིན། %(hashed).2f%% hashed, %(synced).2f%%"
+" synced"
+
+msgid "%(complete)s %(title)s [%(fail)s failures], %(rate).01f/s"
+msgstr "%(complete)s %(title)s [%(fail)s failures], %(rate).01f/s"
+
+msgid "%(ip)s/%(device)s responded as unmounted"
+msgstr "%(ip)s/%(device)s ཡི་ཕྱིར་ལན་ནི་བཀལ་མ་ཡིན།"
+
+msgid "%(success)s successes, %(failure)s failures"
+msgstr "%(success)sལེགས་འགྲུབ། %(failure)s ཕམ་པ།"
+
+msgid "%(type)s returning 503 for %(statuses)s"
+msgstr "%(type)s དེ་ 503 དུ་ཕྱིར་ལོག %(statuses)s"
+
+msgid "%s is not mounted"
+msgstr "%s བཀལ་མེད།"
+
+msgid ", %s containers deleted"
+msgstr "བསུབ་སྣོད།  %s"
+
+msgid ", %s containers possibly remaining"
+msgstr "ཕལ་ཆེར་ལྷག་སྣོད།  %s"
+
+msgid ", %s containers remaining"
+msgstr "ལྷག་སྣོད། %s"
+
+msgid ", %s objects deleted"
+msgstr "བྱ་ཡུལ ་%sབསུབ་པ།"
+
+msgid ", %s objects possibly remaining"
+msgstr "ཕལ་ཆེར་ལྷག་པའི་བྱ་ཡུལ།  %s"
+
+msgid ", %s objects remaining"
+msgstr "ལྷག་པའི་བྱ་ཡུལ། %s"
+
+msgid ", elapsed: %.02fs"
+msgstr "དུས་ཡུན།:%.02fs"
+
+msgid ", return codes: "
+msgstr "ཕྱིར་ལོག་ཚབ་ཨང་།："
+
+msgid "Account"
+msgstr "རྩིས་ཐོ།"
+
+msgid "Account DELETE"
+msgstr "རྩིས་ཐོ DELETE བཀོལ་སྤྱོད།"
+
+msgid "Account POST"
+msgstr "རྩིས་ཐོ POST བཀོལ་སྤྱོད།"
+
+msgid "Account PUT"
+msgstr "རྩིས་ཐོ PUT བཀོལ་སྤྱོད།"
+
+msgid ""
+"Attempted to replicate %(count)d dbs in %(time).5f seconds (%(rate).5f/s)"
+msgstr "%(time).5f seconds། (%(rate).5f/s) འདྲ་ཕབ་ཚོད་ལྟ %(count)d dbs\""
+
+msgid "Audit passed for %s"
+msgstr "%s རྩིས་བཤེར་ལ་གྲོས་འཆམ་བྱུང་བ།"
+
+msgid "Bad compressed data for %s"
+msgstr "%s འོས་འཚམ་མིནཔའི་སྡུད་སྒྲིལ་གཞི་གྲངས།"
+
+msgid "Bad line data: %s"
+msgstr "ནོར་འཁྲུལ་ཕྲེང་གི་གཞི་གྲངས།：%s"
+
+msgid "Bad rsync return code: %(args)s -> %(ret)d"
+msgstr "འོས་འཚམ་མིན་པའི rsyncཕྱིར་ལོག་ཚབ་ཨང་།：%(args)s -> %(ret)d"
+
+msgid "Begin container audit \"once\" mode"
+msgstr "\"once\" རྣམ་པ་སྣོད་ཆས་རྩིས་བཤེར་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "Begin container update single threaded sweep"
+msgstr "སྐུད་རྐྱང་གཙང་སེལ་སྣོད་ཆས་གསར་སྒྱུར་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "Begin container update sweep"
+msgstr "སྣོད་ཆས་གསར་སྒྱུར་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "Begin devices pass: %s"
+msgstr "སྒྲིག་ཆས་བཤེར་འབེབས་བྱེད་འགོ་ཚུགས་པ།：%s"
+
+msgid "Begin object audit \"%s\" mode"
+msgstr "བྱ་ཡུལ\"%s\" རྣམ་པ་རྩིས་བཤེར་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "Begin object update single threaded sweep"
+msgstr "སྐུད་རྐྱང་གཙང་སེལ་བྱ་ཡུལ་གསར་སྒྱུར་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "Begin object update sweep"
+msgstr "བྱ་ཡུལ་གསར་སྒྱུར་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "Beginning log processing"
+msgstr "ཉིན་ཐོ་ཐག་གཅོད་བྱེད་འགོ་བརྩམས།"
+
+msgid "Beginning pass on account %s"
+msgstr "རྩིས་ཐོ  %sགྲོས་འཆམ་བྱུང་འགོ་ཚུགས་པ།"
+
+msgid "Beginning replication run"
+msgstr "འདྲ་ཕབ་འཁོར་སྐྱོད་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "Broker error trying to rollback locked connection"
+msgstr ""
+"ཞབས་ཞུ་ཆས་ནོར་འཁྲུལ་བྱུང་པ་མ་ཟད་སྒྲོག་ཟིན་པའི་སྦྲེལ་མཐུད་ལ་ཕྱིར་ལོག་རྩིས་བྱས།"
+
+msgid "CRITICAL: "
+msgstr "འགག་རྩ།:"
+
+msgid "CannotSendRequest.  Skipping..."
+msgstr "CannotSendRequest རྒྱུན་ལྡན་མིན། མཆོང་།..."
+
+msgid "Client disconnected on read"
+msgstr "མཁོ་མཁན་ཀློག་སྐབས་ཆད་པ།"
+
+msgid "Client disconnected without sending enough data"
+msgstr "མཁོ་མཁན་བཅད་པ་སྟེ་སྐྱེལ་གཏོང་འདང་མེད།"
+
+msgid "Connection refused"
+msgstr "འབྲེལ་མཐུད་ཁས་མ་བླངས།"
+
+msgid "Connection timeout"
+msgstr "འབྲེལ་མཐུད་དུས་བརྒལ།"
+
+msgid "Container"
+msgstr "སྣོད་ཆས།"
+
+msgid "Container DELETE"
+msgstr "སྣོད་ཆས DELETE བཀོལ་སྤྱོད།"
+
+msgid "Container POST"
+msgstr "སྣོད་ཆས POST བཀོལ་སྤྱོད།"
+
+msgid "Container PUT"
+msgstr "སྣོད་ཆས PUT བཀོལ་སྤྱོད།"
+
+msgid "Container audit \"once\" mode completed: %.02fs"
+msgstr "\"once\"རྣམ་པ་སྣོད་ཆས་རྩིས་བཤེར་ལེགས་འགྲུབ་བྱུང་།：%.02fs"
+
+msgid "Container update sweep completed: %.02fs"
+msgstr "སྣོད་ཆས་གསར་བསྒྱུར་བཤེར་འབེབས་ལེགས་འགྲུབ་བྱུང་།：%.02fs"
+
+msgid "Could not load object segment %(path)s: %(status)s"
+msgstr "\"བྱ་ཡུལ segment %(path)s: %(status)s ཁུར་སྣོན་བྱེད་ཐབས་མེད།"
+
+msgid "Daemon started."
+msgstr "ལྟ་སྲུང་བརྒྱུད་རིམ་འགོ་སློང་ཟིན།"
+
+msgid "Device %s is not mounted, skipping."
+msgstr "སྒྲིག་ཆས་%sབཀལ་མེད་པས་མཆོང་བ་ཡིན།"
+
+msgid "Devices pass completed: %.02fs"
+msgstr "སྒྲིག་ཆས་ལེགས་འགྲུབ།： %.02fs"
+
+msgid "ERROR %(status)d %(body)s From %(type)s Server"
+msgstr "ནོར་འཁྲུལ %(status)d %(body)s དེ  %(type)s ཞབས་ཞུ་ཆས་ནས་ཡོང་པ་ཡིན།"
+
+msgid "ERROR %(status)d %(body)s From Object Server"
+msgstr "ནོར་འཁྲུལ %(status)d  དེ་བྱ་ཡུལ་ཞབས་ཞུ་ཆས་ཀྱི %(body)s ནས་ཡོང་པ་ཡིན།"
+
+msgid "ERROR %(status)d %(body)s From Object Server re: %(path)s"
+msgstr ""
+"ནོར་འཁྲུལ %(status)d %(body)s དེ་བྱ་ཡུལ་ཞབས་ཞུ་ཆས re: %(path)s ནས་ཡོང་པ་ཡིན།"
+
+msgid "ERROR Bad response %(status)s from %(host)s"
+msgstr "ཕམ་ཁ་དང་ལེན་ནོར་འཁྲུལ%(status)s  དེ་%(host)s ནས་ཡོང་པ་ཡིན།"
+
+msgid "ERROR Client read timeout (%ss)"
+msgstr "ནོར་འཁྲུལ།： མཁོ་མཁན་ཀློག་པ་དུས་བརྒལ། (%ss)"
+
+msgid "ERROR Could not get account info %s"
+msgstr "ནོར་འཁྲུལ།： རྩིས་ཐོ་ཆ་འཕྲིན %s ཐོབ་ཐབས་མེད།"
+
+msgid "ERROR Could not get container info %s"
+msgstr "ནོར་འཁྲུལ།： སྣོད་ཆས %sཆ་འཕྲིན་ཐོབ་ཐབས་མེད།"
+
+msgid "ERROR Exception causing client disconnect"
+msgstr ""
+"ནོར་འཁྲུལ།： རྒྱུན་ལྡན་མིན་པའི་དབང་གིས་མཁོ་མཁན་སྣེ་ཡིས་འབྲེལ་མཐུད་བཅད་པ་ཡིན།"
+
+msgid "ERROR Failed to get my own IPs?"
+msgstr "ནོར་འཁྲུལ།： ང་ཚོའི Ips ཐོབ་ཐབས་མེད་དམ།"
+
+msgid "ERROR Object %(obj)s failed audit and will be quarantined: %(err)s"
+msgstr "ནོར་འཁྲུལ།： བྱ་ཡུལ %(obj)s རྩིས་བཤེར་ཕམ་པས་ཟུར་དུ་འགོག་སྲིད།：%(err)s"
+
+msgid "ERROR Pickle problem, quarantining %s"
+msgstr "ནོར་འཁྲུལ།： Pickleགནས་ཚུལ་ཟུར་འགོག %s"
+
+msgid "ERROR Remote drive not mounted %s"
+msgstr "ནོར་འཁྲུལ།： རྒྱང་རིང་སྐུལ་སློང་ཆས་འགེལ་ཐབས་མེད། %s"
+
+msgid "ERROR Trying to audit %s"
+msgstr "ནོར་འཁྲུལ།： རྩིས་བཤེར་འགོ་རྩོམ %s ཚོད་ལྟ།"
+
+msgid "ERROR Unable to connect to remote server: %s"
+msgstr "ནོར་འཁྲུལ།： རྒྱང་རིང་ཞབས་ཞུ་ཆས་སུ་འབྲེལ་མཐུད་བྱེད་ཐབས་མེད།：%s"
+
+msgid "ERROR Unhandled exception in ReST request"
+msgstr "ནོར་འཁྲུལ།： ReST རེ་ཞུ་ལ་ཐག་གཅོད་མ་བྱས་པའི་རྒྱུན་ལྡན་མིན་པ་ཡོད།"
+
+msgid "ERROR Unhandled exception in request"
+msgstr "ནོར་འཁྲུལ།： ཐག་གཅོད་མ་བྱས་པའི་རྒྱུན་ལྡན་མིན་པས་རེ་ཞུ་ཞུས་པ།"
+
+msgid "ERROR __call__ error with %(method)s %(path)s "
+msgstr "%(method)s %(path)s ནོར་འཁྲུལ་བྱུང་བ། __call__ error"
+
+msgid ""
+"ERROR account update failed with %(ip)s:%(port)s/%(device)s (will retry "
+"later)"
+msgstr ""
+"ནོར་འཁྲུལ།： རྩིས་ཐོ་གསར་བསྒྱུར་ཕམ་སོང་། %(ip)s:%(port)s/%(device)s། "
+"(ཅུང་ཙམ་འགོར་རྗེས་ཚོད་ལྟ་བྱོས།)"
+
+msgid ""
+"ERROR account update failed with %(ip)s:%(port)s/%(device)s (will retry "
+"later): "
+msgstr ""
+"ནོར་འཁྲུལ།： རྩིས་ཐོ་གསར་བསྒྱུར་ཕམ་སོང་།%(ip)s:%(port)s/%(device)s། "
+"(ཅུང་ཙམ་འགོར་རྗེས་ཚོད་ལྟ་བྱོས།):"
+
+msgid "ERROR attempting to create account %(url)s: %(status)s %(reason)s"
+msgstr ""
+"རྩིས་ཐོ %(url)s གསར་འཛུགས་ཚོད་ལྟར་ནོར་འཁྲུལ་བྱུང་།：%(status)s %(reason)s"
+
+msgid ""
+"ERROR container update failed with %(ip)s:%(port)s/%(dev)s (saving for async"
+" update later)"
+msgstr ""
+"ནོར་འཁྲུལ།：སྣོད་ཆས་གསར་བསྒྱུར་ཕམ་སོང་།  "
+"%(ip)s:%(port)s/%(dev)s(ཉར་ཚགས་བྱེད་བཞིན་ཡོད་པས་དོག་ཙམ་ནས་ཆབ་ཅིག་གསར་བསྒྱུར་བྱེད།)"
+
+msgid "ERROR reading HTTP response from %s"
+msgstr "HTTP ཀློག་འདོན་ནོར་འཁྲུལ། དང་ལེན་ཡོང་ཁུངས %s"
+
+msgid "ERROR reading db %s"
+msgstr "ནོར་འཁྲུལ།： db %s ཀློག་འདོན།"
+
+msgid "ERROR rsync failed with %(code)s: %(args)s"
+msgstr "ནོར་འཁྲུལ།： rsyncཕམ་པ   %(code)s: %(args)s"
+
+msgid "ERROR syncing %(file)s with node %(node)s"
+msgstr "ནོར་འཁྲུལ།：  %(file)s དང་ཚིགས་ཚེག%(node)s གོམ་མཉམ།"
+
+msgid "ERROR trying to replicate"
+msgstr "འདྲ་ཕབ་ཚོད་ལྟ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "ERROR with %(type)s server %(ip)s:%(port)s/%(device)s re: %(info)s"
+msgstr ""
+"%(type)sཞབས་ཞུ་ཆས་ལ་ནོར་འཁྲུལ་བྱུང་། %(ip)s:%(port)s/%(device)s re: %(info)s"
+
+msgid "ERROR with loading suppressions from %s: "
+msgstr "ཕབ་འཇུག་སྡུད་སྒྲིལ་ལག་བསྟར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།%s"
+
+msgid "ERROR with remote server %(ip)s:%(port)s/%(device)s"
+msgstr "རྒྱང་རིང་ཞབས་ཞུ་ཆས་ལ་ནོར་འཁྲུལ་བྱུང་། %(ip)s:%(port)s/%(device)s"
+
+msgid ""
+"ERROR: Exception while trying to communicate with "
+"%(scheme)s://%(host)s:%(port)s/%(path)s"
+msgstr ""
+"ནོར་འཁྲུལ།： %(scheme)s://%(host)s:%(port)s/%(path)s "
+"དང་སྤེལ་རེས་བྱེད་རྩིས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "ERROR: Upload of log %s failed!"
+msgstr "ནོར་འཁྲུལ།： ཉིན་ཐོ %s ཡར་འགེལ་ཕམ་པ།"
+
+msgid "ERROR: While processing manifest /%(acc)s/%(cont)s/%(obj)s"
+msgstr "ནོར་འཁྲུལ།： སྒྲིག་གཅོད manifest /%(acc)s/%(cont)s/%(obj)s"
+
+msgid "Error %(action)s to memcached: %(server)s"
+msgstr ""
+"%(action)sནོར་འཁྲུལ།  གཤིས་ནུས་མཐོ་བའི་ནང་གསོག་བྱ་ཡུལ་སྐབས་གསོག： %(server)s"
+
+msgid "Error hashing suffix"
+msgstr "Hashingརྗེས་འཇུག་ལག་བསྟར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error limiting server %s"
+msgstr "ཞབས་ཞུ་ཆས་ལ་ནོར་འཁྲུལ་བྱུང་། %s"
+
+msgid "Error syncing handoff partition"
+msgstr "མཉམ་དུ་བགོ་ཁུལ་བརྗེ་བ་ལག་བསྟར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error syncing partition"
+msgstr "མཉམ་དུ་བགོ་ཁུལ་ལག་བསྟར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error syncing with node: %s"
+msgstr "གོམ་མཉམ་ལག་བསྟར་བྱེད་སྐབས་ཚིགས་ཚེག%sནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error: %s"
+msgstr "ནོར་འཁྲུལ།： %s"
+
+msgid "Error: missing config file argument"
+msgstr "ནོར་འཁྲུལ།： སྡེབ་སྒྲིག་ཡིག་ཆ་ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Error: unable to locate %s"
+msgstr "ནོར་འཁྲུལ།：  %s བཤེར་འཚོལ་བྱེད་ཐབས་མེད།"
+
+msgid "Exception in top-level replication loop"
+msgstr "top-levelའདྲ་ཕབ་མུ་ཁྱུད་རྒྱུན་ལྡན་མིན་པའི་ངང་ཚུལ་ཐོན་པ།"
+
+msgid "Exception with %(ip)s:%(port)s/%(device)s"
+msgstr "%(ip)s:%(port)s/%(device)s རྒྱུན་ལྡན་མིན་པའི་ངང་ཚུལ་ཐོན་པ།"
+
+msgid "Exception with account %s"
+msgstr "རྩིས་ཐོ %s རྒྱུན་ལྡན་མིན་པའི་ངང་ཚུལ་ཐོན་པ།"
+
+msgid "Exception with containers for account %s"
+msgstr "རྩིས་ཐོ %s ནང་དོན་ཆས་རྒྱུན་ལྡན་མིན་པའི་ངང་ཚུལ་ཐོན་པ།"
+
+msgid ""
+"Exception with objects for container %(container)s for account %(account)s"
+msgstr ""
+"རྩིས་ཐོ %(account)sསྣོད་ཆས %(container)s "
+"ཡི་བྱ་ཡུལ་ལ་རྒྱུན་ལྡན་མིན་པའི་ངང་ཚུལ་ཐོན་པ།"
+
+msgid "Expect: 100-continue on %s"
+msgstr "ཤེས་ཟིན་པ།：100-continue on %s"
+
+msgid "Following CNAME chain for  %(given_domain)s to %(found_domain)s"
+msgstr "CNAMEཕྲེང་བ %(given_domain)sནས %(found_domain)s རྗེས་འདེད་པ།"
+
+msgid "Gathering account stats"
+msgstr "རྩིས་ཐོའི་རྣམ་པ་སྡུད་པ།"
+
+msgid "Gathering account stats complete (%0.2f minutes)"
+msgstr "རྩིས་ཐོའི་རྣམ་པ་སྡུད་པ་ལེགས་འགྲུབ། (སྐར་མ %0.2f)"
+
+msgid ""
+"HTTP PERF: %(time).5f seconds to %(method)s %(host)s:%(port)s %(path)s)"
+msgstr "HTTP PERF: སྐར་ཆ་%(time).5f   %(method)s %(host)s:%(port)s %(path)s)"
+
+msgid "Host unreachable"
+msgstr "གཙོ་འཁོར་ལ་འབྲེལ་མཐུད་བྱེད་ཐབས་མེད།"
+
+msgid ""
+"I found a bunch of bad lines in %(name)s (%(bad)d bad, %(total)d total)"
+msgstr ""
+"%(name)s ཁྲོད་དུ་ནོར་འཁྲུལ་ཕྲེང་ s( %(bad)d མང་པོ་རྙེད་དེ་བསྡོམས་པས "
+"%(total)d)"
+
+msgid "Incomplete pass on account %s"
+msgstr "རྩིས་ཐོ %s གྲོས་འཆམ་ལེགས་འགྲུབ་བྱུང་མེད།"
+
+msgid "Invalid path: %(error)s from data: %(log)s"
+msgstr "ནུས་མེད་ཀྱི་འགྲོ་ལམ：གཞི་གྲངས་ནས་ཡོང་པའི་ནོར་འཁྲུལ %(error)s：%(log)s"
+
+msgid "Invalid pending entry %(file)s: %(entry)s"
+msgstr "སྤྱོད་མི་རུང་བའི་སྒུག་པའི་ནང་འཇུག་%(file)s: %(entry)s"
+
+msgid "Invalid response %(resp)s from %(ip)s"
+msgstr "ནུས་མེད་ཀྱི་ཕྱིར་ལན %(resp)sདེ %(ip)s ནས་ཡོང་པ་ཡིན།"
+
+msgid "Killing long-running rsync: %s"
+msgstr "long-running གོམ་མཉམ་མཚམས་འཇོག: %s"
+
+msgid "Loading account ring from %s"
+msgstr "%s ནས་རྩིས་ཐོའི་གདུབ་ཁུར་སྣོན་བྱེད་པ།"
+
+msgid "Loading container ring from %s"
+msgstr "%sནས་སྣོད་ཆས་གདུབ་ཁུར་སྣོན་བྱེད་པ།"
+
+msgid "Loading object ring from %s"
+msgstr "%s ནས་བྱ་ཡུལ་གདུབ་ཁུར་སྣོན་བྱེད་པ།"
+
+msgid "Lockup detected.. killing live coros."
+msgstr "lockupབཤེར་འཇལ་བྱེད་པ། ལག་བསྟར་བྱེད་བཞིན་པའི coros མཚམས་འཇོག"
+
+msgid "Log %s is 0 length, skipping"
+msgstr "ཉིན་ཐོ %s ཡི་རིང་ཚད་ནི 0 ཡིན་པས་མཚོང་འགྲོ།"
+
+msgid "Log processing done (%0.2f minutes)"
+msgstr "ཉོན་ཐོ་སྒྲིག་གཅོད་བྱས་ཚར། (སྐར་མ %0.2f)"
+
+msgid "Mapped %(given_domain)s to %(found_domain)s"
+msgstr "%(given_domain)sནས %(found_domain)s སྡུད་པ།"
+
+msgid "No super_admin_key set in conf file! Exiting."
+msgstr "confཡིག་ཆའི་ནང་སྒྲིག་འགོདsuper_admin_key ！མེད་པས་ཕྱིར་འབུད།"
+
+msgid "Node error limited %(ip)s:%(port)s (%(device)s)"
+msgstr "ཚིགས་ཚེག་ནོར་འཁྲུལ་མཐར་ཐུག %(ip)s:%(port)s(%(device)s)"
+
+msgid "Nothing replicated for %s seconds."
+msgstr "སྐར་ཆ་%s འདྲ་ཕབ་མེད།"
+
+msgid "Object"
+msgstr "བྱ་ཡུལ།"
+
+msgid "Object DELETE"
+msgstr "བྱ་ཡུལDELTEབཀོལ་སྤྱོད།"
+
+msgid "Object POST"
+msgstr "བྱ་ཡུལPOST"
+
+msgid "Object PUT"
+msgstr "དགའ་རོགས་བརྒྱུད་སྤྲོད།"
+
+msgid ""
+"Object PUT exceptions during send, %(conns)s/%(nodes)s required connections"
+msgstr ""
+"བྱ་ཡུལ PUTསྐྱེལ་གཏོང་བྱེད་སྐབས་རྒྱུན་ལྡན་མིན་པའི་ངང་ཚུལ་ཐོན། "
+"%(conns)s/%(nodes)sའབྲེལ་མཐུད་རེ་ཞུ།"
+
+msgid "Object PUT returning 503, %(conns)s/%(nodes)s required connections"
+msgstr "བྱ་ཡུལ་ PUTདེ་503 ལ་ཕྱིར་ལོག་པ། %(conns)s/%(nodes)s འབྲེལ་མཐུད་རེ་ཞུ།"
+
+msgid "Object manifest GET could not continue listing: %s %s"
+msgstr "བྱ་ཡུལ manifest GETཡིས་མུ་མཐུད་དུ་རེའུ་མིག་བཀོད་ཐབས་མེད།：%s %s"
+
+msgid "Object replication complete. (%.02f minutes)"
+msgstr "བྱ་ཡུལ་འདྲ་ཕབ་ལེགས་འགྲུབ།(%.02f minutes)"
+
+msgid "Object servers returned %s mismatched etags"
+msgstr "བྱ་ཡུལ་ཞབས་ཞུ་ཆས %s ལ་ཕྱིར་ལོག་པ་ཟླ་སྒྲིག་མིནetags"
+
+msgid "Object update sweep completed: %.02fs"
+msgstr "བྱ་ཡུལ་གསར་བསྒྱུར་བཤེར་འབེབས་ལེགས་འགྲུབ།：%.02fs"
+
+msgid "Partition times: max %(max).4fs, min %(min).4fs, med %(med).4fs"
+msgstr "ཁུལ་བགོ་དུས་ཚོད།: max %(max).4fs, min %(min).4fs, med %(med).4fs"
+
+msgid "Path %s does not exist, skipping."
+msgstr "འགྲོ་ལམ %s མེད་པས་མཆོང་པ་ཡིན།"
+
+msgid "Processing %(obj)s with plugin \"%(plugin)s\""
+msgstr "བསྒར་ལྷུ \"%(plugin)s\" སྤྱད་ནས  %(obj)s སྒྲིག་གཅོད་བྱེད་པ།"
+
+msgid "Processing log: %s"
+msgstr "ཉིན་ཐོ་སྒྲིག་གཅོད།：%s"
+
+msgid "Quarantining DB %s"
+msgstr "DB%s ཁ་བཀར་བ།"
+
+msgid ""
+"Ratelimit sleep log: %(sleep)s for %(account)s/%(container)s/%(object)s"
+msgstr ""
+"བཞུར་ཚད་ཚོད་འཛིན་ངལ་གསོའི་ཉིན་ཐོ།：%(sleep)s for "
+"%(account)s/%(container)s/%(object)s"
+
+msgid "Removed %(remove)d dbs"
+msgstr "%(remove)d dbs བསུབ་པ།"
+
+msgid "Removing partition: %s"
+msgstr "བགོ་ཁུལ་འདོར་བ།：%s"
+
+msgid "Replicating db %s"
+msgstr "གཞི་གྲངས་མཛོད་འདྲ་ཕབ་བྱེད་བཞིན་པ། %s"
+
+msgid "Replication run OVER"
+msgstr "འདྲ་ཕབ་འཁོར་སྐྱོད་མཇུག་སྒྲིལ།"
+
+msgid "Replication sleeping for %s seconds."
+msgstr "འདྲ་ཕབ་སྐར་ཆ་%s གཉིད་པ།"
+
+msgid "Returning 497 because of blacklisting"
+msgstr "མིང་ཐོ་ནག་པོའི་ནང་བཅུག་པའི་དབང་གིས་497ཕྱིར་ལོག་བྱས་པ།"
+
+msgid "Returning 498 because of ops rate limiting (Max Sleep) %s"
+msgstr "ops ཟློས་ཕྱོད་ཚད་བཟུང་པས། (གསོ་ཉལ་གྲངས་ཆེ་ཤོས།）%s 498 ཕྱིར་ལོག་བྱས་པ།"
+
+msgid "Returning 503 because not all container nodes confirmed DELETE"
+msgstr "ཚིགས་ཚེག་ཡོད་ཚད་ཀྱིསDELETEགཏན་འཁེལ་བྱེད་པ་མིན་པས་503 ཕྱིར་ལོག་བྱས་པ།"
+
+msgid "Ring change detected. Aborting current replication pass."
+msgstr ""
+"Ringའགྱུར་ལྡོག་བཤེར་འཇལ་བྱས་པ། ད་ཡོད་ཀྱི་འདྲ་ཕབ་གྲོས་མཐུན་ཕྱིར་འབུད་པ།"
+
+msgid "Running object replicator in script mode."
+msgstr "གསང་སྡོམ་རྣམ་པའི་འོག་བྱ་ཡུལ་འདྲ་ཕབ་ལག་བྲཏར་བྱེད་པ།"
+
+msgid "STDOUT: Connection reset by peer"
+msgstr "STDOUT：འབྲེལ་མཐུད peer ཡིས་ཡང་བསྐྱར་སྒྲིག་འགོད་བྱས།"
+
+msgid ""
+"Since %(time)s: Account audits: %(passed)s passed audit, %(failed)s failed "
+"audit"
+msgstr ""
+"དུས་ཚོད %(time)s：རྩིས་ཐོ་ཞིབ་བཤེར།：%(passed)s ཞིབ་བཤེར་གྲོས་འཆམ་བྱུང་པ།  "
+"%(failed)s ཞིབ་བཤེར་ཕམ་པ།"
+
+msgid ""
+"Since %(time)s: Container audits: %(pass)s passed audit, %(fail)s failed "
+"audit"
+msgstr ""
+"%(time)s ནས་མགོ་བཟུང་བ།：སྣོད་ཆས་རྩིས་བཤེར།：%(pass)s "
+"རྩིས་བཤེར་གྲོས་འཆམ་བྱུང་བ། %(fail)s ཕམ་པ།"
+
+msgid "Skipping %(device)s as it is not mounted"
+msgstr "བཀལ་མི་ཐུབ་པའི་རྐྱེན་གྱིས %(device)s ལས་མཆོང་པ།"
+
+msgid "Skipping %s as it is not mounted"
+msgstr "བཀལ་བ་ཕམ་པས %s ལས་མཆོང་བ།"
+
+msgid "Skipping log: %(file)s (< %(cutoff)d seconds old)"
+msgstr "ཉིན་ཐོ་ལས་མཆོང་བ།：%(file)s(< %(cutoff)d སྐར་ཆ།)"
+
+msgid "Starting object replication pass."
+msgstr "བྱ་ཡུལ་འདྲ་ཕབ་བརྒྱུད་འགོ་བརྩམས་པ།"
+
+msgid "Successful rsync of %(src)s at %(dst)s (%(time).03f)"
+msgstr "ལེགས་འགྲུབ་བྱུང་པའི rsync %(src)s at %(dst)s (%(time).03f)"
+
+msgid "Syncing chunks with %s"
+msgstr "%s དང་གོམ་མཉམ་གཞི་གྲངས་དུམ་བུ།"
+
+msgid "Timeout %(action)s to memcached: %(server)s"
+msgstr ""
+"%(action)s དུས་བརྒལ།  གཤིས་ནུས་མཐོ་བའི་ནང་གསོག་བྱ་ཡུལ་སྐབས་གསོག： %(server)s"
+
+msgid "Trying to %(method)s %(path)s"
+msgstr "%(method)s %(path)s ལག་བསྟར་བྱེད་རྩིས་བྱེད་པ།"
+
+msgid "Trying to DELETE %s"
+msgstr "DELETE ཡིས་ %s བཀོལ་སྤྱོད་བྱེད་རྩིས་བྱེད་པ།"
+
+msgid "Trying to POST %s"
+msgstr "%s ལ་ POST བཀོལ་སྤྱོད་བྱེད་རྩིས་བྱེད་པ།"
+
+msgid "Trying to PUT to %s"
+msgstr "%s ལ་PUTབཀོལ་སྤྱོད་བྱེད་རྩིས་བྱེད་པ།"
+
+msgid "Trying to get account info for %s"
+msgstr "%s ལ་རྩིས་ཐོ་ཆ་འཕྲིན་ཐོབ་རྩིས་བྱེད་པ།"
+
+msgid "Trying to get container info for %s"
+msgstr "%s ལ་སྣོད་ཆས་ཆ་འཕྲིན་ཐོབ་རྩིས་བྱེད་པ།"
+
+msgid "Trying to get final status of PUT to %s"
+msgstr "ཆེས་རྗེས་མའི PUTརྣམ་པ %s ཐོབ་རྩིས་བྱེད་པ།"
+
+msgid "Trying to read during GET of %s"
+msgstr "%s ཡི GETབཀོལ་སྤྱོད་ཁྲོད་ནས་ཀློག་རྩིས་བྱེད་པ།"
+
+msgid "Trying to write to %s"
+msgstr "%s འབྲི་བ་ལག་བསྟར་ཚོད་ལྟ་བྱེད་པ།"
+
+msgid "UNCAUGHT EXCEPTION"
+msgstr "འཛིན་བཟུང་མ་བྱས་པའི་རྒྱུན་འགལ།"
+
+msgid "Unable to find %s config section in %s"
+msgstr "%s ཁྲོད་དུ %s སྒྲིག་འགོད་ཆ་དེ་རྙེད་ཐབས་མེད།"
+
+msgid "Unable to locate %s in libc.  Leaving as a no-op."
+msgstr "%s འདྲི་རྩད་བྱེད་ཐབས་མེད།  no-op སོར་འཇོག་བྱེད་པ།"
+
+msgid "Unable to read config file %s"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ %s ཀློག་ཐབས་མེད།"
+
+msgid "Unexpected log: %s"
+msgstr "སྔོན་དཔག་བྱེད་མ་ཐུབ་པའི་ཉིན་ཐོ།：%s"
+
+msgid "Update failed for %(obj)s %(path)s"
+msgstr "%(obj)s %(path)s ཡི་གསར་བསྒྱུར་ཕམ་པ།"
+
+msgid "Update report failed for %(container)s %(dbfile)s"
+msgstr "%(container)s %(dbfile)s ཡི་གསར་བསྒྱུར་སྙན་ཞུ་ཕམ་པ།"
+
+msgid "Update report sent for %(container)s %(dbfile)s"
+msgstr "ཡི་གསར་བསྒྱུར་སྙན་ཞུ %(container)s %(dbfile)s ལ་ཞུས་པ།"
+
+msgid "Update sent for %(obj)s %(path)s"
+msgstr "%(obj)s %(path)s ལ་གསར་བསྒྱུར་སྐྱེལ་གཏོང་བྱེད་པ།"
+
+msgid "Uploaded log %(file)s to %(target)s"
+msgstr "%(file)s  དེ %(target)s ཡར་འགེལ་བྱས་པ།"
+
+msgid "Uploading logs"
+msgstr "ཉིན་ཐོ་ཡར་འགེལ་བྱེད་བཞིན་པ།"
+
+msgid "Uploading logs complete (%0.2f minutes)"
+msgstr "ཉིན་ཐོ་ཡར་འགེལ་ལེགས་འགྲུབ་བྱུང་བ། (སྐར་མ %0.2f)"
+
+msgid "Warning: Cannot ratelimit without a memcached client"
+msgstr ""
+"ཐ་ཚིག：སྐབས་གསོག་མཁོ་མཁན་སྣེ་ཆད་པ་སྟེ་བཞུར་ཚད་ཚོད་འཛིན་བྱེད་མི་ཐུབ་པས་སོ།"
+
+msgid "found %d processed files"
+msgstr "སྒྲིག་གཅོད་བྱས་པའི་ཡིག་ཆ  %d རྙེད་པ།"
+
+msgid "loaded %d files to process"
+msgstr "སྒྲིག་གཅོད་ཡིག་ཆ %d ཁུར་སྣོན་བྱེད་པ།"

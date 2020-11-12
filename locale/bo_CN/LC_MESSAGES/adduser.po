@@ -1,0 +1,434 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+"%s failed with return code 15, shadow not enabled, password aging cannot be "
+"set. Continuing.\n"
+msgstr ""
+"%sསྐྱོན་བྱུང་།，ཚབ་ཨང་15ལོག གྲིབ་མ(shadow)བཀོལ་མེད། "
+"གསང་ཨང་གི་ནུས་དུས་སྒྲིག་ཐབས་མེད། མུ་མཐུད་དུ\n"
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "Adding group `%s' (GID %d) ...\n"
+msgstr ""
+"ཚོ་སྣོན་བཞིནཔ་\\%s\"། (GID %d)...\n"
+"\""
+
+msgid "Adding new group `%s' (%d) ...\n"
+msgstr ""
+"ཚོ་གསར་སྣོན་བཞིན་པ\\%s\"། (%d)...\n"
+"\""
+
+msgid "Adding new group `%s' (GID %d) ...\n"
+msgstr ""
+"ཚོ་གསར་སྣོན་བཞིན་པ\\%s\"། (GID %d)...\n"
+"\""
+
+msgid "Adding new user `%s' (%d) with group `%s' ...\n"
+msgstr ""
+"སྤྱོད་མཁན་གསར་བ\\%s\"། (%d)ཚོ་\"%s\"...རུ་སྣོན་བཞིན་པ།\n"
+"\""
+
+msgid "Adding new user `%s' (UID %d) with group `%s' ...\n"
+msgstr ""
+"སྤྱོད་མཁན་གསར་བ\\%s\"། (UID %d)ཚོ་\"%s\"...རུ་སྣོན་བཞིན་པ།\n"
+"\""
+
+msgid "Adding new user `%s' to extra groups ...\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ཟུར་སྣོན་ཚོ...རུ་སྣོན་བཞིན་པ\n"
+"\""
+
+msgid "Adding system user `%s' (UID %d) ...\n"
+msgstr ""
+"རྒྱུད་ཁོངས་སྤྱོད་མཁན་\\%s\"། (UID %d)...སྣོན་བཞིན་པ།\n"
+"\""
+
+msgid "Adding user `%s' ...\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"...སྣོན་བཞིན་པ།\n"
+"\""
+
+msgid "Adding user `%s' to group `%s' ...\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ཚོ་\"%s\"རུ་སྣོན་བཞིན་པ།...\n"
+"\""
+
+msgid "Allowing use of questionable username.\n"
+msgstr "དོགས་པ་ཅན་སྤྱོད་མཁན་གྱི་མིང་བཀོལ་ཆོག\n"
+
+msgid "Backing up files to be removed to %s ...\n"
+msgstr "བསུབ་རྒྱུ་ཡིག་ཆ་ %s...རུ་གྲབས་ཉར་བྱེད་བཞིན་པ།\n"
+
+msgid "Cannot handle special file %s\n"
+msgstr "དམིགས་བསལ་བའི་ཡིག་ཆ་ %sསྒྲིག་གཅོད་བྱ་མི་ཐུབ།\n"
+
+msgid "Caught a SIG%s.\n"
+msgstr ""
+"SIG%s.\n"
+"འཛིན་པ།"
+
+msgid "Copying files from `%s' ...\n"
+msgstr ""
+"\\%s\"ནས་ཡིག་ཆ་...བསྐྱར་མར་བྱེད་བཞིན་ཡོད།\n"
+"\""
+
+msgid "Could not find program named `%s' in $PATH.\n"
+msgstr ""
+" $PATH རུ་མིང་\\%s\"ཡིན་པའི་བྱ་རིམ་རྙེད་ཐབས་བྲལ།\n"
+"\""
+
+msgid "Couldn't create home directory `%s': %s.\n"
+msgstr ""
+"དཀར་ཆག་གཙོ་བོ\\%s\"：%sབཟོ་ཐབས་བྲལ།\n"
+"\""
+
+msgid "Couldn't parse `%s', line %d.\n"
+msgstr ""
+"འགྲེལ་ཐབས་བྲལ%s\"འཕྲེད་ཨང་ %d\n"
+"\""
+
+msgid "Creating home directory `%s' ...\n"
+msgstr ""
+"དཀར་ཆག་གཙོ་བོ\\%s\"...བཟོ་བ།\n"
+"\""
+
+msgid "Done.\n"
+msgstr "ལེགས་འགྲུབ།\n"
+
+msgid "Enter a group name to remove: "
+msgstr "ཁྱེད་ཀྱིས་བསུབ་དགོས་ཚོ་མིང་ནང་འཇུག་རོགས།"
+
+msgid "Enter a user name to remove: "
+msgstr "ཁྱེད་ཀྱིས་བསུབ་དགོས་པའི་སྤྱོད་མིང་ནང་འཇུག་རོགས།"
+
+msgid "If you really want this, call deluser with parameter --force\n"
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་དངོས་གནས་འདི་ལྟར་བསྒྲུབ་དགོས་ན། བཀའ་བརྡdeluser "
+"དང་།ཞུགས་གྲངས་--forceསྤྱོད་རོགས།\n"
+
+msgid "Internal error"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
+
+msgid "Is the information correct? [Y/n] "
+msgstr "ཆ་འཕྲིན་འདི་དག་ཡང་དག་པ་ཡིན་ནམ། [Y/n]"
+
+msgid "Looking for files to backup/remove ...\n"
+msgstr "ཡིག་ཆ་གྲབས་ཉར་དང་བསུབ་དགོས་པའི་ཡིག་ཆ་འཚོལ་བཞིན་ཡོད།...\n"
+
+msgid "No GID is available in the range %d-%d (FIRST_GID - LAST_GID).\n"
+msgstr " %d-%d། (FIRST_GID - LAST_GID)ཁོངས་སུ་སྤྱོད་རུང་བའི་GIDམེད།\n"
+
+msgid "No GID is available in the range %d-%d (FIRST_SYS_GID - LAST_SYS_GID).\n"
+msgstr "d-%d། (FIRST_SYS_GID - LAST_SYS_GID)ཁོངས་སུ་སྤྱོད་རུང་བའི་GIDམེད།\n"
+
+msgid "No UID is available in the range %d-%d (FIRST_SYS_UID - LAST_SYS_UID).\n"
+msgstr "%d-%d། (FIRST_SYS_UID - LAST_SYS_UID)ཁོངས་སུ་སྤྱོད་རུང་བའི་UIDམེད།\n"
+
+msgid "No UID is available in the range %d-%d (FIRST_UID - LAST_UID).\n"
+msgstr "ཁོངས་ %d-%d། (FIRST_UID - LAST_UID)སུ་སྤྱོད་རུང་བའི་UIDམེད།\n"
+
+msgid ""
+"No UID/GID pair is available in the range %d-%d (FIRST_SYS_UID - "
+"LAST_SYS_UID).\n"
+msgstr ""
+"ཁོངས་ %d-%d། (FIRST_SYS_UID - LAST_SYS_UID)རུ་སྤྱོད་རུང་བའི་UID/GIDམེད།\n"
+
+msgid ""
+"No UID/GID pair is available in the range %d-%d (FIRST_UID - LAST_UID).\n"
+msgstr "ཁོངས%d-%d། (FIRST_UID - LAST_UID) རུ་སྤྱོད་རུང་བའི་UID/GIDམེད།\n"
+
+msgid "No options allowed after names.\n"
+msgstr "མིང་རྗེས་སུ་འདེམས་ཚན་ཡོད་མི་ཆོག\n"
+
+msgid "Not backing up/removing `%s', it is a mount point.\n"
+msgstr "'%s'གྲབས་ཉར་དང་སུབ་པ་མིན། དེ་ནི་བཀལ་ཚེག་ཅིག་ཡིན།\n"
+
+msgid "Not backing up/removing `%s', it matches %s.\n"
+msgstr ""
+"\\%s\"གྲབས་ཉར་དང་སུབ་པ་མིན། དེ་ནི%s དོ་མཉམ་བྱ།\n"
+"\""
+
+msgid "Not creating home directory `%s'.\n"
+msgstr ""
+"དཀར་ཆག་གཙོ་བོ་བཟོ་མི་ཐུབ།\\%s\"\n"
+"\""
+
+msgid "Only one or two names allowed.\n"
+msgstr "མིང་གཅིག་གམ་གཉིས་མ་གཏོགས་ཡོད་མི་ཆོག\n"
+
+msgid "Only root may add a user or group to the system.\n"
+msgstr "rootམ་གཏོགས་སྤྱོད་མཁན་ནམ་ཚོ་རྒྱུད་ཁོངས་སུ་སྣོན་མི་ཐུབ།\n"
+
+msgid "Only root may remove a user or group from the system.\n"
+msgstr " rootམ་གཏོགས་རྒྱུད་ཁོངས་སུ་སྤྱོད་མཁན་ནམ་ཚོ་འདོར་མི་ཐུབ།\n"
+
+msgid "Permission denied\n"
+msgstr "དབང་ཚད་མི་འདང་\n"
+
+msgid "Removes users and groups from the system.\n"
+msgstr "རྒྱུད་ཁོངས་སུ་སྤྱོད་མཁན་དང་ཚོ་འདོར་བ\n"
+
+msgid "Removing crontab ...\n"
+msgstr " crontab...སུབ་བཞིན་པ།\n"
+
+msgid "Removing directory `%s' ...\n"
+msgstr "དཀར་ཆག'%s'སུབ་པ།\n"
+
+msgid "Removing files ...\n"
+msgstr "ཡིག་ཆ་སུབ་པ།...\n"
+
+msgid "Removing group `%s' ...\n"
+msgstr "ཚོ་'%s'...སུབ་པ།\n"
+
+msgid "Removing user `%s' ...\n"
+msgstr "སྤྱོད་མཁན་'%s'...སུབ་པ།\n"
+
+msgid "Removing user `%s' from group `%s' ...\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ནི་ཚོ་\"%s\"ནང་དུ་བསུབ་པ།...\n"
+"\""
+
+msgid "Selecting GID from range %d to %d ...\n"
+msgstr "%d ནས་ %d རུ་ GID...འདེམ་པ།\n"
+
+msgid "Selecting UID from range %d to %d ...\n"
+msgstr " %dནས %dརུ་UID...འདེམ་པ།\n"
+
+msgid "Setting quota for user `%s' to values of user `%s' ...\n"
+msgstr ""
+"སྡུད་སྡེར་བགོད་བ་སྒྲིག་པ། སྤྱོད་མཁན་\\%s\"ཡི་བགོད་པ\"%s\"དང་འདྲ། ...\n"
+"\""
+
+msgid "Setting up encryption ...\n"
+msgstr "གསང་ཨང་སྒྲིག་འགོད ...\n"
+
+msgid "Specify only one name in this mode.\n"
+msgstr "རྣམ་པ་འདི་རུ་མིང་གཅིག་མ་གཏོགས་གཏན་འཁེལ་བྱ་ཐུབ།\n"
+
+msgid "Stopped: %s\n"
+msgstr "མཚམས་འཇོག：%s\n"
+
+msgid "Stopping now without having performed any action\n"
+msgstr "ད་ལྟ་མཚམས་འཇོག བཀོལ་སྤྱོད་ཅི་ཡང་ལག་བསྟར་བྱེད་མེད།\n"
+
+msgid "The --group, --ingroup, and --gid options are mutually exclusive.\n"
+msgstr "འདེམས་ཚན--group，--ingroup，དང --gidམཉམ་དུ་སྤྱོད་མི་ཐུབ། \n"
+
+msgid "The GID %d does not exist.\n"
+msgstr "GID %d མི་འདུག \n"
+
+msgid "The GID %d is already in use.\n"
+msgstr "GID %d བཀོལ་ཟིན། \n"
+
+msgid "The GID `%s' is already in use.\n"
+msgstr ""
+"GID \\ %s\"བཅད་ཟིན།\n"
+"\""
+
+msgid "The UID %d is already in use.\n"
+msgstr "UID %d བཀོལ་ཟིན།\n"
+
+msgid "The group `%s' already exists and is not a system group. Exiting.\n"
+msgstr "ཚོ%s ཡོད་པ་དང་། རྒྱུད་ཁོངས་ཀྱི་ཚོ་མ་རེད། ཕྱིར་འཐེན།\n"
+
+msgid "The group `%s' already exists as a system group. Exiting.\n"
+msgstr ""
+"ཚོ\\%s\"རྒྱུད་ཁོངས་ཀྱི་ཚོ་རེད། ཕྱིར་འཐེན།\n"
+"\""
+
+msgid "The group `%s' already exists, but has a different GID. Exiting.\n"
+msgstr ""
+"ཚོ\\%s\"ཡོད་ཀྱང་།  GIDདང་མི་འདྲ། ཕྱིར་འཐེན།\n"
+"\""
+
+msgid "The group `%s' already exists.\n"
+msgstr ""
+"\\%s\"ཚོ་ཡོད་པ། \n"
+"\""
+
+msgid "The group `%s' does not exist.\n"
+msgstr ""
+"\\%s\"ཚོ་གནས་པ།\n"
+"\""
+
+msgid "The group `%s' is not a system group. Exiting.\n"
+msgstr ""
+"ཚོ\\%s\"ནི་རྒྱུད་ཁོངས་ཀྱི་མ་རེད། ཕྱིར་འཐེན།\n"
+"\""
+
+msgid "The group `%s' is not empty!\n"
+msgstr ""
+"\\%s\"ཚོ་མི་སྟོང་བ།\n"
+"\""
+
+msgid "The group `%s' was not created.\n"
+msgstr ""
+"ཚོ\\%s\"བཟོས་མེད།\n"
+"\""
+
+msgid "The home dir must be an absolute path.\n"
+msgstr "དཀར་ཆག་གཙོ་བོ་ངེས་པར་དུ་བལྟོས་མེད་འགྲོ་ལམ་ཡིན་དགོས།\n"
+
+msgid "The home directory `%s' already exists.  Not copying from `%s'.\n"
+msgstr ""
+"དཀར་ཆག་གཙོ་བོ་\\%s\"ཡོད་པ། \"%s\"ནས་ཡིག་ཆ་བསྐྱར་བཟོ་བྱེད་མེད།\n"
+"\""
+
+msgid "The system user `%s' already exists. Exiting.\n"
+msgstr ""
+"རྒྱུད་ཁོངས་སྤྱོད་མཁན་\\%s\"ཡོད་པ། ཕྱིར་འཐེན།\n"
+"\""
+
+msgid "The user `%s' already exists with a different UID. Exiting.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ཡོད་ཀྱང་ UIDདང་མི་འདྲ། ཕྱིར་ཐོན། \n"
+"\""
+
+msgid "The user `%s' already exists, and is not a system user.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ཡོད་ཀྱང་། རྒྱུད་ཁོངས་ཀྱི་སྤྱོད་མཁན་མིན།\n"
+"\""
+
+msgid "The user `%s' already exists.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ཡོད་པ།\n"
+"\""
+
+msgid "The user `%s' already exists. Exiting.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ཡོད་པ། ཕྱིར་འཐེན།\n"
+"\""
+
+msgid "The user `%s' does not exist, but --system was given. Exiting.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"མེད་ཀྱང་འདེམས་ཚན--system བཀོལ་བས། ཕྱིར་འཐེན།\n"
+"\""
+
+msgid "The user `%s' does not exist.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"མེད་པ།\n"
+"\""
+
+msgid "The user `%s' is already a member of `%s'.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ནི་ཚོ་\"%s\"ཡི་ཁུངས་སུ་གཏོགས།\n"
+"\""
+
+msgid "The user `%s' is not a member of group `%s'.\n"
+msgstr ""
+"\\%s\"ནི་ཚོ\"%s\"ཡི་ཁོངས་མི་མིན།\n"
+"\""
+
+msgid "The user `%s' is not a system user. Exiting.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"ནི་རྒྱུད་ཁོངས་ཀྱི་སྤྱོད་མཁན་མིན། ཕྱིར་འཐེན།\n"
+"\""
+
+msgid "The user `%s' was not created.\n"
+msgstr ""
+"སྤྱོད་མཁན་\\%s\"བཟོ་ཐུབ་མ་སོང་།\n"
+"\""
+
+msgid "Try again? [y/N] "
+msgstr "ཡང་བསྐྱར་ཚོད་ལྟ་བྱའམ།[y/N] "
+
+msgid "Unknown variable `%s' at `%s', line %d.\n"
+msgstr ""
+"མི་ཤེས་པའི་འགྱུར་ཚད་\\%s\"ནི་\"%s\"རུ་ཐོན་པ། འཕྲེད་ཨང་ %d\n"
+"\""
+
+msgid ""
+"Usually this is never required as it may render the whole system unusable\n"
+msgstr ""
+"འདི་སྤྱིར་བཏང་དུ་མི་དགོས། དེས་རྒྱུད་ཁོངས་ཡོངས་བཀོལ་མི་ཐུབ་པ་བཟོས་སྲིད།\n"
+
+msgid "WARNING: You are just about to delete the root account (uid 0)\n"
+msgstr "ཐ་ཚིག ཁྱེད་ཀྱིས་rootཡི་རྩིས་ཐེབ་བསུབ་གྲབས་འདུག(uidནི0ཡིན།)\n"
+
+msgid "Warning: The home dir %s you specified already exists.\n"
+msgstr "ཐ་ཚིག ཁྱེད་ཀྱིས་གཏན་འཁེལ་བའི་དཀར་ཆག་གཙོ་བོ་ %s ཡོད་པ།\n"
+
+msgid "Warning: The home dir %s you specified can't be accessed: %s\n"
+msgstr "ཐ་ཚིག ཁྱེད་ཀྱིས་གཏན་འཁེལ་བའི་དཀར་ཆག་གཙོ་བོ་ %s ལྟ་སྤྱོད་བྱ་མི་ཐུབ།%s\n"
+
+msgid ""
+"Warning: The home directory `%s' does not belong to the user you are "
+"currently creating.\n"
+msgstr "ཐ་ཚིག དཀར་ཆག་གཙོ་བོ་ %s ནི་ཁྱེད་ཀྱིས་བཟོས་སྤྱོད་མཁན་དུ་མི་གཏོགས།\n"
+
+msgid "Warning: group `%s' has no more members.\n"
+msgstr ""
+"ཐ་ཚིག  ཚོ\\%s\"ལ་ཁོངས་མི་མེད།\n"
+"\""
+
+msgid "You may not remove the user from their primary group.\n"
+msgstr "ཁྱེད་ཀྱིས་སྤྱོད་མཁན་ནི་ཚོ་གཙོ་བོ་ནང་ནས་སུབ་མི་རུང་།\n"
+
+msgid "`%s' does not exist. Using defaults.\n"
+msgstr ""
+"\\%s\"མེད་པ། སོར་བཞག་ཚད་བཀོལ།\n"
+"\""
+
+msgid "`%s' exited from signal %d. Exiting.\n"
+msgstr ""
+"\\%s\"ནི་བརྡ་རྟགས %d ལས་ཐོན་པ། ཕྱིར་འདོན།\n"
+"\""
+
+msgid "`%s' returned error code %d. Exiting.\n"
+msgstr ""
+"\\%s\"ལ་ནོར་ཨང་ %dཐོན་པ། ཕྱིར་འདོན། \n"
+"\""
+
+msgid "`%s' still has `%s' as their primary group!\n"
+msgstr ""
+"\\%s\"ད་དུང་\"%s\"ནི་ཁོ་ཚོའི་འདེམས་བྱ་དང་བོ་བྱས་ཡོད།\n"
+"\""
+
+msgid "fork for `find' failed: %s\n"
+msgstr ""
+"བུ་འཕེལ་རིམ་\\find\"བཟོས་ཕམ།%s\n"
+"\""
+
+msgid "fork for `mount' to parse mount points failed: %s\n"
+msgstr ""
+"བུ་འཕེལ་རིམ\\mount\"བཟོ་བའི་དབྱེ་ཞིབ་བཀལ་ཚེག་ཕམ་པ།%s\n"
+"\""
+
+msgid "getgrnam `%s' failed. This shouldn't happen.\n"
+msgstr ""
+"getgrnam \\%s\"ཕམ་པ། འདི་འབྱུང་མི་འོས།\n"
+"\""
+
+msgid "invalid argument to option\n"
+msgstr "ནུས་མེད་ཀྱི་ཞུགས་གྲངས་\n"
+
+msgid "invalid combination of options\n"
+msgstr "འདེམས་ཚན་སྡེབ་སྒྲིག་ནུས་མེད་\n"
+
+msgid "passwd file busy, try again\n"
+msgstr "passwd ཡིག་ཆ་བྲེལ་བས། ཡང་ཚོད་ལྟ་བྱེད།\n"
+
+msgid "pipe of command `mount' could not be closed: %s\n"
+msgstr ""
+"བཀའ་བརྡ་\\mount\"ཡི་དུང་ལམ་ཁ་རྒྱག་མི་ཐུབ།%s\n"
+"\""
+
+msgid "unexpected failure, nothing done\n"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། བཀོལ་སྤྱོད་ལེན།\n"
+
+msgid "unexpected failure, passwd file missing\n"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། ，passwd ཡིག་ཆ་བོར།\n"

@@ -1,0 +1,931 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+"\"%s\" found in configuration database is not a valid value for keybinding "
+"\"%s\"\n"
+msgstr ""
+"གཞི་གྲངས་མཛོད་སྡེབ་སྒྲིག་ཁྲོད་རྙེད་པའི%sནི་མཐེབ་གནོན་ཚན་སྡེབ་%sཡི་གོ་ཆོད་ཐང་མ་རེད།"
+
+msgid ""
+"\"%s\" found in configuration database is not a valid value for mouse button"
+" modifier\n"
+msgstr ""
+"གཞི་གྲངས་མཛོད་སྡེབ་སྒྲིག་ཁྲོད་རྙེད་པའི%sནི་ཙིག་རྟགས་མཐེབ་ཀྱི་རྒྱན་མཐེབ་ཀྱི་གོ་ཆོད་ཐང་མ་རེད།"
+
+msgid "\"%s\" is not a valid value for focus attribute"
+msgstr "%sནི་focusངོ་བོའི་ནུས་ལྡན་གྱི་ཐང་མིན།"
+
+msgid "\"%s\" is not a valid value for resize attribute"
+msgstr "%sནི་resizeངོ་བོའི་ནུས་ལྡན་གྱི་གྲངས་ཐང་མིན།"
+
+msgid "\"%s\" is not a valid value for state attribute"
+msgstr "s%ནི་Sateངོ་བོའི་ནུས་ལྡན་གྱི་གྲངས་ཐང་མིན།"
+
+msgid ""
+"\"version\" attribute cannot be used in metacity-theme-1.xml or metacity-"
+"theme-2.xml"
+msgstr ""
+"versionགཏོགས་གཤིས་དེ་metacity-theme-1.xmlདང་metacity-"
+"theme-2.xmlལ་སྤྱོད་མི་རུང་།"
+
+msgid "%d coordinate expressions parsed in %g seconds (%g seconds average)\n"
+msgstr ""
+"སྐར་ཆ་%2$g ཡི་ནང་གནས་ཚད་མཚོན་ཚུལ་%1$d སྒྲིག་གཅོད་བྱས།（ཆ་སྙོམས་སྐར་ཆ་%3$g ）\n"
+"\""
+
+msgid "%g milliseconds to draw one window frame"
+msgstr "ཧའོ་སྐར་ཆ་g%སྤྱད་ནས་སྒེའུ་ཁུང་གི་སྒྲོམ་གཞི་ཞིག་འབྲི་བ།"
+
+msgid "%s (as %s)"
+msgstr "\"%s། ( %sལ)\""
+
+msgid "%s (as another user)"
+msgstr "%s（སྤྱོད་མཁན་གཞན་པ་བྱས་ནས།）"
+
+msgid "%s (as superuser)"
+msgstr "%s（རིམ་བརྒལ་སྤྱོད་མཁན་བྱས་ནས།）"
+
+msgid "%s (on %s)"
+msgstr "\"%s། ( %sལ)\""
+
+msgid "<%s> geometry \"%s\" has not been defined"
+msgstr "\"<%s> དབྱིབས་རྩིས་བཀོད་པ“%s”ད་དུང་མཚན་ཉིད་བཞག་མེད།\""
+
+msgid "<%s> must specify either a geometry or a parent that has a geometry"
+msgstr ""
+"<%s>ངེས་པར་དུ་དབྱིབས་རྩིས་ཀྱི་བཀོད་པ་ཞིག་གམ་དབྱིབས་རྩིས་ཀྱི་བཀོད་པ་ཡོད་པའི་ཕ་རིམ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས།"
+
+msgid "<%s> name \"%s\" used a second time"
+msgstr "ཡང་བསྐྱར་<%s> མིང་གི་%sབེད་སྤྱོད་བྱས་པ།"
+
+msgid "<%s> parent \"%s\" has not been defined"
+msgstr "<%s> ཕ་རིམ་པའི%sལ་ད་དུང་མཚན་ཉིད་བཞག་མེད།"
+
+msgid "<%s> specified twice for this theme"
+msgstr "དེར་བརྟེན་བརྗོད་དོན་གཙོ་བོས་<%s>ཐེངས་གཉིས་ལ་དམིགས་འཛུགས་བྱས།"
+
+msgid "<metacity_session> attribute seen but we already have the session ID"
+msgstr ""
+"<metacity_session> "
+"ཡི་གཏོགས་གཤིས་མཐོང་ཡོད་མོད།འོན་ཀྱང་ང་ཚོར་གླེང་མོལ་འདིའི་IDཡོད།"
+
+msgid "<tt>%s</tt> is not responding."
+msgstr "<tt>%s<tt> ད་དུང་དང་ལེན་མ་བྱས་པ།"
+
+msgid "A style called \"%s\" has not been defined"
+msgstr "“%s”ཉམས་འགྱུར་ལ་ད་དུང་མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "Activate the window menu"
+msgstr "སྒེའུ་ཁུང་འདེམས་བྱང་གྲུང་སློང་།"
+
+msgid "Alpha must be between 0.0 (invisible) and 1.0 (fully opaque), was %g\n"
+msgstr ""
+"Alhaཐང་ནི་ངེས་པར་དུ་0.0（མཐོང་ཐབས་བྲལ་པ）ནས་1.0（ཕྱི་གསལ་ནང་གསལ་གཏན་ནས་མིན་པ）བར་དང་།ད་ལྟ་ནི་%gཡིན།\n"
+
+msgid "Alpha value \"%s\" in blended color is not between 0.0 and 1.0"
+msgstr "མདོག་འདྲེས་མའིAlPaཐང་གི“%s”ནི་0.0ནས་1.0བར་མེད།"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Always On Visible Workspace"
+msgstr "ནམ་ཞར་མཐོང་ཐུབ་པའི་ལས་ཁུལ་དུ་ཡོད་པ།"
+
+msgid "Always on _Top"
+msgstr "རྒྱུན་དུ་རྩེ་ལ་འཇོག་པ།(_T)"
+
+msgid "Angle must be between 0.0 and 360.0, was %g\n"
+msgstr "ཟུར་ཚད་ཐང་ངེས་པར་དུ་0.0ནས་360.0བར་ཡིན་དགོས་པ་དང་།ད་ལྟ་ནི་ %gཡིན།\n"
+
+msgid "Application set a bogus _NET_WM_PID %lu\n"
+msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་ _NET_WM_PID %lu\n"
+"རྫུན་མ་ཞིག་སྒྲིག་འགོད་བྱས།"
+
+msgid "Aspect ratio \"%s\" is unknown"
+msgstr "ཞེང་ཚད་བསྡུར་“%s”ངེས་མེད།"
+
+msgid "Attached Modal Dialog"
+msgstr "ཟུར་སྣོན་བྱས་པའི་དཔེ་རྣམ་གླེང་སྒྲོམ།"
+
+msgid "Bad version specification '%s'"
+msgstr "པར་གཞི་%sརྣམ་གཞག་ནོར་འཁྲུལ།"
+
+msgid "Bar"
+msgstr "ལྕུག་མ།"
+
+msgid "Bell event"
+msgstr "དྲིལ་དབྱངས་དོན་རྐྱེན།"
+
+msgid ""
+"Blend format is \"blend/bg_color/fg_color/alpha\", \"%s\" does not fit the "
+"format"
+msgstr ""
+"མཉམ་བསྲེས་རྣམ་གཞག་ནིblend/bgoncolor/fg-color/alphདང་%s "
+"རྣམ་གཞག་འདི་དང་མི་མཐུན།"
+
+msgid "Boolean values must be \"true\" or \"false\" not \"%s\""
+msgstr "པུར་ཐང་ནི་ངེས་པར་དུ་ངོ་མ་དང་ཡང་ན་རྫུན་མ་ཡིན་དགོས།%sཡིན་མི་རུང་།"
+
+msgid "Border"
+msgstr "མཐའ་མཚམས།"
+
+msgid "Border \"%s\" is unknown"
+msgstr "མཐའ་སྒྲོམ་“%s”ངེས་མེད།"
+
+msgid "Border-only window"
+msgstr "མཐའ་སྒྲོམ་ལས་མེད་པའི་སྒེའུ་ཁུང་།"
+
+msgid "Bug in window manager: "
+msgstr "སྒེའུ་ཁུང་དོ་དམ་ཆས་ཁྲོད་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Button Layouts"
+msgstr "མཐེབ་གནོན་བཀོད་པ།"
+
+msgid "Button aspect ratio %g is not reasonable"
+msgstr "མཐེབ་གནོན་ཞེང་ཚད་བསྡུར་%g ལུགས་མཐུན་མིན་པ།"
+
+msgid "Button function \"%s\" does not exist in this version (%d, need %d)"
+msgstr ""
+"མཐེབ་གནོན་རྟེན་འབྱུང་གྲངས་“%s”དེ་པར་གཞི་འདིའི་（%dདང་།དགོས་པ་ནི་%d）ཁྲོད་མེད་པ།"
+
+msgid "Button layout test %d"
+msgstr "མཐེབ་གནོན་བཀོད་པ་ཚོད་ལེན།%d"
+
+msgid ""
+"Cannot specify both \"button_width\"/\"button_height\" and \"aspect_ratio\" "
+"for buttons"
+msgstr ""
+"དུས་མཉམ་དུ་དམིགས་འཛུགས་བྱེད་ཐབས་བྲལ་པའི་མཐེབ་ནི་buomonnwidt "
+"hདང་།buomonononheigh tapectratioབཅས་རེད།"
+
+msgid "Close Window"
+msgstr " སྒེའུ་ཁུང་ཁ་རྒྱག་པ།"
+
+msgid "Close window"
+msgstr " སྒེའུ་ཁུང་ཁ་རྒྱག་པ།"
+
+msgid "Compositing Manager"
+msgstr "འདུས་གྲུབ་དོ་དམ་ཆས།"
+
+msgid "Constant \"%s\" has already been defined"
+msgstr "རྒྱུན་གྲངས“%s”ལ་མཚན་ཉིད་བཞག་ཟིན།"
+
+msgid ""
+"Coordinate expression contained unknown operator at the start of this text: "
+"\"%s\""
+msgstr ""
+"གནས་ཚད་མཚོན་ཚུལ་ལ་ཡིག་དེབ་འདི་འགོ་ཚུགས་སར་ངེས་མེད་ཀྱི་རྩིས་རྒྱག་མཚོན་རྟགས་འདུས་པ།：“%s”"
+
+msgid "Coordinate expression contains character '%s' which is not allowed"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་ནང་དུ་མི་ཆོག་པའི་ཡིག་རྟགས“%s”ཚུད་ཡོད།"
+
+msgid ""
+"Coordinate expression contains floating point number '%s' which could not be"
+" parsed"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་ནང་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ་པའི་འཕྱོ་ཚེག་གྲངས་%sཚུད་ཡོད།"
+
+msgid "Coordinate expression contains integer '%s' which could not be parsed"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་ནང་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ་པའི་ཧྲིལ་གྲངས་%sཚུད་ཡོད།"
+
+msgid "Coordinate expression doesn't seem to have any operators or operands"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་ལ་རྩིས་རྒྱག་རྟགས་སམ་བཀོལ་སྤྱོད་གྲངས་གང་ཡང་མེད་པ་འདྲ།"
+
+msgid "Coordinate expression ended with an operator instead of an operand"
+msgstr ""
+"གནས་ཚད་མཚོན་ཚུལ་ནི་རྩིས་རྒྱག་རྟགས་ཀྱིས་མཇུག་སྡུད་པ་ལས་བཀོལ་སྤྱོད་གྲངས་ཀྱིས་མཇུག་སྡུད་པ་མ་ཡིན།"
+
+msgid "Coordinate expression had a close parenthesis with no open parenthesis"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་ལ་ཟུམ་པའི་གུག་རྟགས་ཤིག་ཡོད་པ་ལས་ཕྱེ་པའི་གུག་རྟགས་མེད།"
+
+msgid ""
+"Coordinate expression had an open parenthesis with no close parenthesis"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་ལ་ཕྱེ་བའི་གུག་རྟགས་ཤིག་ཡོད་པ་ལས་ཟུམ་པའི་གུག་རྟགས་མེད།"
+
+msgid "Coordinate expression had an operand where an operator was expected"
+msgstr ""
+"གནས་ཚད་མཚོན་ཚུལ་གྱི་བཀོལ་སྤྱོད་གྲངས་ག་གེ་མོ་ཞིག་ནི་རྩིས་རྒྱག་རྟགས་ཡིན་དགོས།"
+
+msgid "Coordinate expression had unknown variable or constant \"%s\""
+msgstr "གནས་ཚད་མཚོན་ཚུལ་ལ་ངེས་མེད་ཀྱི་འགྱུར་ཚད་དམ་ཡང་ན་རྒྱུན་གྲངས་%sཡོད།"
+
+msgid "Coordinate expression has an operator \"%s\" where an operand was expected"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་གྱི་རྩིས་རྒྱག་རྟགས་%sནི་བཀོལ་སྤྱོད་གྲངས་ཤིག་ཡིན་དགོས།"
+
+msgid ""
+"Coordinate expression has operator \"%c\" following operator \"%c\" with no "
+"operand in between"
+msgstr ""
+"གནས་ཚད་མཚོན་ཚུལ་གྱི་རྩིས་རྒྱག་རྟགས“%c”ཡི་རྗེས་སུ་རྩིས་རྒྱག་རྟགས་“%c”འབྲངས་ཡོད་ཅིང་།བར་དུ་བཀོལ་སྤྱོད་གྲངས་ཀ་མེད།"
+
+msgid "Coordinate expression parser overflowed its buffer."
+msgstr "གནས་ཚད་མཚོན་ཚུལ་དེའི་ལྷོད་གཏོང་ཁུལ་ནས་ཕྱིར་ལུད་པ།"
+
+msgid "Coordinate expression results in division by zero"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་གྱིས་ཐིག་ལེ་ཡིས་བགོད་བྱེད་བྱས་པ།"
+
+msgid ""
+"Coordinate expression tries to use mod operator on a floating-point number"
+msgstr ""
+"གནས་ཚད་མཚོན་ཚུལ་གྱིས་འཕྱོ་ཚེག་གྲངས་modརྩིས་རྒྱག་རྟགས་སྤྱོད་རྩིས་བྱེད་པ།"
+
+msgid "Coordinate expression was empty or not understood"
+msgstr "གནས་ཚད་མཚོན་ཚུལ་སྟོང་པའམ་གོ་བ་ལེན་ཐབས་བྲལ་བ།"
+
+msgid "Could not acquire window manager selection on screen %d display \"%s\"\n"
+msgstr ""
+"“%2$s”སྟེང་གི་བརྙན་ཤེལ་ཡོལ་མངོན་འཆར་གྱི་%1$d "
+"ཡི་སྒེའུ་ཁུང་དོ་དམ་ཆས་བདམས་ཚན་ཐོབ་ཐབས་བྲལ་བ།\n"
+
+msgid "Could not create directory '%s': %s\n"
+msgstr "དཀར་ཆག“%s”གསར་འཛུགས་བྱེད་ཐབས་བྲལ་བ།：%s\n"
+
+msgid ""
+"Could not find a theme! Be sure %s exists and contains the usual themes.\n"
+msgstr ""
+"བརྗོད་སྙིང་རྙེད་ཐབས་བྲལ། "
+"ཁྱེད་རང་གིས་%sགནས་པ་མ་ཟད་རྒྱུན་གཏན་གྱི་བརྗོད་སྙིང་ཡོད་པར་དམིགས་འཛུགས་གནང་རོགས།"
+" \n"
+
+msgid "Could not open session file '%s' for writing: %s\n"
+msgstr "གླེང་མོལ་ཡིག་ཆ“%s”ཡི་ཁ་ཕྱེ་་ནས་འབྲི་འཇུག་བྱེད་ཐབས་བྲལ།བརྒྱ་ཆའིs）"
+
+msgid "Could not parse \"%s\" as a floating point number"
+msgstr "%sདེ་གཡེང་ཚེག་གྲངས་ལ་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not parse \"%s\" as an integer"
+msgstr "%sཧྲིལ་གྲངས་སུ་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not parse alpha value \"%s\" in blended color"
+msgstr "མདོག་འདྲེས་མའི་ཁྲོད་ཀྱི་Alhaཐང“%sལ་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not parse color \"%s\""
+msgstr "ཚོས་གཞི“%s”ལ་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not parse font description \"%s\" from GSettings key %s\n"
+msgstr ""
+"ཡིག་གཟུགས་ཞིབ་བརྗོད་%s\\དེ་GSettings %sཁྲོད་\n"
+"ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not parse shade factor \"%s\" in shaded color"
+msgstr "གྲིབ་ནག་གཟུགས་ཁྲོད་ཀྱི་གྲིབ་ནག་རྐྱེན་ཆ་%sལ་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not release screen %d on display \"%s\"\n"
+msgstr ""
+"“%2$s”སྟེང་ཤར་བའི་ %1$d\n"
+"བརྙན་ཡོལ་ལ་ནུས་པ་འདོན་ཐབས་བྲལ།"
+
+msgid "Ctrl"
+msgstr "Coml"
+
+msgid "Current theme"
+msgstr "མིག་སྔའི་བརྗོད་གཞི།"
+
+msgid "Determines whether Metacity is a compositing manager."
+msgstr "Metacityནི་མཉམ་འདུས་དོ་དམ་ཆས་ཡིན་མིན་ཐག་ཆོད།"
+
+msgid "Dialog Box"
+msgstr "གླེང་སྒྲོམ།"
+
+msgid "Did not understand arrow \"%s\" for <%s> element"
+msgstr "མདའ་རྟགས་%s（གཞི་རྒྱུ་<%s> ལ་སྤྱོད་པ）ལ་གོ་བ་མི་ལོན་པ།"
+
+msgid "Did not understand color component \"%s\" in color specification"
+msgstr "ཁ་དོག་ཚད་ལྡན་ཁྲོད་ཀྱི་ཁ་དོག་ཚོ་ཡི་གྲུབ་ཆ་%sལ་གོ་བ་མི་ལོན་པ།"
+
+msgid "Did not understand fill type \"%s\" for <%s> element"
+msgstr "ཁ་གསབ་རིགས་གྲས་ཀྱི་%s། (གཞི་རྒྱུ་<%s> ལ་སྤྱོད་པ）ལ་གོ་བ་མི་ལོན་པ།"
+
+msgid "Did not understand shadow \"%s\" for <%s> element"
+msgstr "གྲིབ་ནག་གཟུགས་%s（གཞི་རྒྱུ་<%s> ལ་སྤྱོད་པ）ལ་གོ་བ་མི་ལོན་པ།"
+
+msgid "Did not understand state \"%s\" for <%s> element"
+msgstr "རྣམ་པའི“%s”（གཞི་རྒྱུ་<%s> ལ་སྤྱོད་པ）ལ་གོ་བ་མི་ལོན་པ།"
+
+msgid "Did not understand state \"%s\" in color specification"
+msgstr "ཁ་དོག་ཚད་ལྡན་ཁྲོད་ཀྱི་རྣམ་པ་%sལ་གོ་བ་མི་ལོན་པ།"
+
+msgid "Did not understand trailing characters \"%s\" in string \"%s\""
+msgstr "མཇུག་ཡིག་རྟགས“%1$s”(ཡིག་རྟགས་ཕྲེང་གི་“%2$s”ཁྲོད་ཡོད)ལ་གོ་བ་མི་ལོན་པ།"
+
+msgid "Did not understand value \"%s\" for type of gradient"
+msgstr "སྐས་རིམ་ཅན་གྱི་རིགས་གྲས་ཀྱི་ཐང་“%s”ལ་གོ་བ་མི་ལོན་པ།"
+
+msgid "Disable connection to session manager"
+msgstr "གཏམ་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་འགོག་སྤྱོད།"
+
+msgid "Distance \"%s\" is unknown"
+msgstr "བར་ཐག་“%s”ཤེས་མེད།"
+
+msgid ""
+"Don't make fullscreen windows that are maximized and have no decorations"
+msgstr ""
+"ཆེར་སྐྱེད་ཟིན་པའི་སྒེའུ་ཁུང་ཡོལ་ངོས་ཧྲིལ་ཁེབས་མ་བཟོ་ལ། "
+"མཛེས་ཆས་ཅི་ཡང་མི་སྤྲོས།"
+
+msgid "Element <%s> is not allowed inside a <constant> element"
+msgstr "（consant）གཞི་རྒྱུའི་ནང་དུ་གཞི་རྒྱུ་（%s）ཡོད་མི་ཆོག"
+
+msgid ""
+"Element <%s> is not allowed inside a distance/border/aspect_ratio element"
+msgstr ""
+"distance/border/aspeeeeeect-romoགཞི་རྒྱུའི་ཁྲོད་དུ་གཞི་རྒྱུ་<%s>ཡོད་མི་ཆོག"
+
+msgid "Element <%s> is not allowed inside a draw operation element"
+msgstr "draw operationགཞི་རྒྱུའི་ཁྲོད་དུ་གཞི་རྒྱུ་<%s>ཡོད་མི་ཆོག"
+
+msgid ""
+"Element <%s> is not allowed inside a name/author/date/description element"
+msgstr ""
+"name/author/date/descriptionགཞི་རྒྱུའི་ཁྲོད་དུ་གཞི་རྒྱུ་<%s>ཡོད་མི་ཆོག"
+
+msgid "Enable edge tiling when dropping windows on screen edges"
+msgstr ""
+"སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་མཐའ་རུ་འཐེན་ནས་འཇོག་སྐབས་སྙོམས་འདིང་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Error %d was expected but %d given"
+msgstr "ནོར་འཁྲུལ%dབསྒུག་མོད།འོན་ཀྱང་%dབྱིན།"
+
+msgid "Error closing session file '%s': %s\n"
+msgstr "གླེང་མོལ་ཡིག་ཆ“%s”ཡི་ཁ་བརྒྱབ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།：%s\n"
+
+msgid "Error not expected but one was returned: %s"
+msgstr "ནོར་འཁྲུལ་ལ་རེ་སྒུག་མ་བྱས་ཀྱང་ནོར་འཁྲུལ།：%s\"དུ་ཕྱིར་ལོག་པ།"
+
+msgid "Error was expected but none given"
+msgstr "ནོར་འཁྲུལ་ལ་རེ་སྒུག་བྱས་ཀྱང་ནོར་འཁྲུལ་མ་བྱིན།"
+
+msgid "Error writing session file '%s': %s\n"
+msgstr "གླེང་མོལ་ཡིག་ཆ“%s”འབྲི་འཇུག་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།：%s\n"
+
+msgid "Failed to fdopen() log file %s: %s\n"
+msgstr "ཉིན་ཐོའི་ཡིག་ཆ%s ལ་ fdopen() བཀོལ་སྤྱོད་བྱ་ཐབས་བྲལ།：%s\n"
+
+msgid "Failed to find a valid file for theme %s\n"
+msgstr "བརྗོད་སྙིང%s ཡི་ནུས་ལྡན་ཡིག་ཆ་རྙེད་མ་བྱུང་།\n"
+
+msgid "Failed to get hostname: %s\n"
+msgstr "གཙོ་འཁོར་གྱི་མིང་ཐོབ་ཐབས་བྲལ་བ།：%s\n"
+
+msgid "Failed to load theme \"%s\": %s\n"
+msgstr "བརྗོད་གཞི“%s”ནང་འཇུག་བྱ་ཐབས་བྲལ་པ།：%s\n"
+
+msgid "Failed to open X Window System display '%s'\n"
+msgstr ""
+"\" X Window System ཡི་“%s”\n"
+"\"མངོན་འཆར་ཁ་ཕྱེ་ཐབས་བྲལ་བ།"
+
+msgid "Failed to open debug log: %s\n"
+msgstr "ཚོད་སྒྲིག་ཉིན་ཐོའི་ཁ་ཕྱེ་ཐབས་བྲལ་པ།：%s\n"
+
+msgid "Failed to parse saved session file: %s\n"
+msgstr "ཉར་ཚགས་བྱས་པའི་གླེང་མོལ་ཡིག་ཆ་ལ་དབྱ་ཞིབ་བྱ་ཐབས་བྲལ།：%s\n"
+
+msgid "Failed to restart: %s\n"
+msgstr "བསྐྱར་དུ་ལས་འགོ་འཛུགས་ཐབས་བྲལ་པ།：%s\n"
+
+msgid "Failed to scan themes directory: %s\n"
+msgstr "གཙོ་དོན་དཀར་ཆག་བཤར་འབེབས་ཕམ་པ།：%s\n"
+
+msgid "Fake menu item %d\n"
+msgstr "འདེམས་བྱང་རྫུན་མའི་ཚན།%d\n"
+
+msgid "Frame geometry does not specify size of buttons"
+msgstr "སྒྲོམ་གཞིའི་དབྱིབས་རྩིས་བཀོད་པ་ལ་མཐེབ་ཆེ་ཆུང་དམིགས་འཛུགས་བྱས་མེད་པ།"
+
+msgid "Frame style already has a button for function %s state %s"
+msgstr ""
+"སྒྲོམ་གཞིའི་རྣམ་པ་ལ་རྟེན་འབྱུང་གྲངས་%sཞིག་ཡོད་པ་དང་། རྣམ་པ་ནི་%s "
+"ཡི་མཐེབ་གནོན་ཡིན།"
+
+msgid "Frame style already has a piece at position %s"
+msgstr "གནས་%sརུ་སྒྲོམ་གཞིའི་རྣམ་པ་དུམ་བུ་ཞིག་ཡོད།"
+
+msgid "Gradients should have at least two colors"
+msgstr "རིམ་འགྱུར་ལ་ཉུང་མཐར་ཡང་ཁ་དོག་རིགས་གཉིས་དགོས།"
+
+msgid "Hide all normal windows"
+msgstr "རྒྱུན་གཏན་གྱི་སྒེའུ་ཁུང་ཚང་མ་གབ་པ།"
+
+msgid "Hyper"
+msgstr "Hyper"
+
+msgid ""
+"If set to true, Metacity will show window content thumbnails in the Alt-Tab "
+"window instead of only icons."
+msgstr ""
+"གལ་ཏེ་(true)，Alt-Tab ངོ་མ་རུ་སྒྲིག་སྐབས། "
+"Metacityལས་འཆར་བ་ནི་སྒེའུ་ཁུང་སྐྱེད་སྐྱུང་རི་མོ་ཙམ་ལས་རིས་རྟགས་མིན།"
+
+msgid "If true, trade off usability for less resource usage"
+msgstr ""
+"གལ་ཏེ་tueཡིན་ན།སྤྱོད་རུང་རང་བཞིན་རིན་དོད་བྱས་ནས་ཐོན་ཁུངས་བཟུང་སྤྱོད་བྱེད་ཚད་ཇེ་དམའ་རུ་བཏང་ཆོག"
+
+msgid "Including draw_ops \"%s\" here would create a circular reference"
+msgstr ""
+"འདིར་draw_ops“%s” ཡིས་གསར་འཛུགས་བྱས་པའི་འཁོར་སྐྱོད་འདྲེན་སྟངས་ཤིག་ཚུད་ཡོད།"
+
+msgid "Initialize session from savefile"
+msgstr "ཉར་ཚགས་ཡིག་ཆའི་ཁྲོད་ནས་གླེང་མོལ་འགོ་སྒྲིག་བྱོས།"
+
+msgid "Integer %ld is too large, current max is %d"
+msgstr "ཧྲིལ་གྲངས %ld ཆེ་དྲགས་འདུག མིག་སྔར་ཆེས་ཆེ་བའི་ཚད་ནི %dཡིན།"
+
+msgid "Integer %ld must be positive"
+msgstr "ཧྲིལ་གྲངས %ld ངེས་པར་ཕོ་གྲངས་ཡིན་དགོས།"
+
+msgid "Invalid WM_TRANSIENT_FOR window 0x%lx specified for %s.\n"
+msgstr ""
+"%2$s ལ་ནུས་མེད་ཀྱི་ WM_TRANSIENT_FOR སྒཻའུ་ཁུང་0x%1$lxདམིགས་འཛུགས་བྱས་པ།\n"
+"\""
+
+msgid "Keep Window On Top"
+msgstr "སྒེའུ་ཁུང་རྒྱུན་དུ་རྩེ་མོར་ཡོད་པ།"
+
+msgid "Large Title Font"
+msgstr "ཁ་བྱང་ཆེན་མོའི་ཡིག་གཟུགས།"
+
+msgid "Loaded theme \"%s\" in %g seconds\n"
+msgstr "སྐར་ཆ་%2$gཡི་ནང་དུ་བརྗོད་སྙིང“%1$s”སྒྲིག་འཇུག་བྱོས།\n"
+
+msgid "Ma_ximize"
+msgstr "ཆེས་ཆེ་བ།(_X)"
+
+msgid "Make X calls synchronous"
+msgstr "Xའདོན་སྤྱོད་གོམ་མཉམ།"
+
+msgid "Maximize Window"
+msgstr "སྒེའུ་ཁུང་ཆེས་ཆེར་སྐྱེད།"
+
+msgid "Maximize window"
+msgstr "སྒེའུ་ཁུང་ཆེས་ཆེར་སྐྱེད།"
+
+msgid "Maximize window horizontally"
+msgstr "སྒེའུ་ཁུང་ཆུ་སྙོམས་ཆེས་ཆེར་བསྐྱེད།"
+
+msgid "Maximize window vertically"
+msgstr "སྒེའུ་ཁུང་དྲང་དཕྱང་ཆེས་ཆེར་བསྐྱེད།"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metacity"
+msgstr "Metacity"
+
+msgid "Metacity was compiled without support for verbose mode\n"
+msgstr ""
+"Metacityསྒྲིག་སྒྱུར་གྱི་སྐབས་སུ་ཞིབ་ཕྲའི་མ་དཔེ་ཀྱི་རྒྱབ་སྐྱོར་བཅུག་མེད་པ།"
+
+msgid "Mi_nimize"
+msgstr "ཆེས་ཆུང་སྒྱུར།"
+
+msgid "Minimize Window"
+msgstr "སྒེའུ་ཁུང་ཆུང་སྒྱུར།"
+
+msgid "Minimize window"
+msgstr "སྒེའུ་ཁུང་ཆུང་སྒྱུར།"
+
+msgid "Missing %s extension required for compositing\n"
+msgstr "འདྲེས་གྲུབ་ལ་མཁོ་བའི་རྒྱ་བསྐྱེད་པ%s བོར་བརླག་སོང་བ།\n"
+
+msgid "Mod2"
+msgstr "Mod2"
+
+msgid "Mod3"
+msgstr "Mod3"
+
+msgid "Mod4"
+msgstr "Mod4"
+
+msgid "Mod5"
+msgstr "Mod5"
+
+msgid "Modal Dialog Box"
+msgstr "དཔེ་རྣམ་གླེང་སྒྲོམ།"
+
+msgid "Move Titlebar On_screen"
+msgstr "འདེམས་བྱང་སྡེ་བརྙན་ཡོལ་སྟེང་ཏུ་སྤོར་བ།(_S)"
+
+msgid "Move to Another _Workspace"
+msgstr "ལས་ཁུལ་གཞན་ཞིག་ཏུ་སྤོར་བ།(_W)"
+
+msgid "Move to workspace above"
+msgstr "རིམ་པ་གོང་མའི་ལས་ཁུལ་ཏུ་སྤོར་བ།"
+
+msgid "Move to workspace below"
+msgstr "རིམ་པ་འོག་མའི་ལས་ཁུལ་ཏུ་སྤོར་བ།"
+
+msgid "Move to workspace left"
+msgstr "གཡོན་གྱི་ལས་ཁུལ་ཏུ་སྤོར་བ།"
+
+msgid "Move to workspace right"
+msgstr "གཡས་ཀྱི་ལས་ཁུལ་ཏུ་སྤོར་བ།"
+
+msgid "Move window"
+msgstr "སྒེའུ་ཁུང་སྤོར་བ།"
+
+msgid "Move window one workspace down"
+msgstr "སྒེའུ་ཁུང་དེ་འཆར་ཆས་གཅིག་གིས་ཡར་སྤོས།"
+
+msgid "Move window one workspace to the left"
+msgstr "སྒེའུ་ཁུང་གཡོན་དུ་ལས་དོན་ཁུལ་ཞིག་ཏུ་བསྒྱུར་དགོས།"
+
+msgid "Move window one workspace to the right"
+msgstr "སྒེའུ་ཁུང་གཡས་ལ་ལས་དོན་ཁུལ་གཅིག་སྤོ་རྒྱུ་ཡིན་པ།"
+
+msgid "Move window one workspace up"
+msgstr "སྒེའུ་ཁུང་ཐོག་ལས་དོན་ཁུལ་ཞིག་ཏུ་བསྒྱུར་བ།"
+
+msgid "Move window to workspace 1"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་1རུ་སྤོས།"
+
+msgid "Move window to workspace 2"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་2རུ་སྤོས།"
+
+msgid "Move window to workspace 3"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་3རུ་སྤོས།"
+
+msgid "Move window to workspace 4"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་4རུ་སྤོས།"
+
+msgid "Navigation"
+msgstr "ཕྱོགས་སྟོན།"
+
+msgid "No \"extent_angle\" or \"to\" attribute on element <%s>"
+msgstr ""
+"གཞི་རྒྱུ་<%2$s> ཡི་སྟེང་དུ་“extent_angle”ཡང་ན་“to”ཡི་གཏོགས་གཤིས་མི་འདུག"
+
+msgid "No \"start_angle\" or \"from\" attribute on element <%s>"
+msgstr ""
+"གཞི་རྒྱུ་<%2$s> ཡི་སྟེང་དུ་“start_angle”ཡང་ན་“from”ཡི་གཏོགས་གཤིས་མི་འདུག"
+
+msgid "No <%s> set for theme \"%s\""
+msgstr "བརྗོད་དོན་གཙོ་བོ“%2$s”ལ་<%1$s>སྡེབ་སྒྲིག་བྱས་མེད།"
+
+msgid "No <draw_ops> called \"%s\" has been defined"
+msgstr "མིང་“%s”ཡི་ <draw_ops>ལ་མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "No <draw_ops> with the name \"%s\" has been defined"
+msgstr "མིང་“%s”ཡི་ <draw_ops>ལ་མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "No draw_ops provided for button"
+msgstr "མཐེབ་གནོན་ལ་draw_ops\"མཁོ་འདོན་བྱས་མེད་།"
+
+msgid "No draw_ops provided for frame piece"
+msgstr "སྒྲོམ་དུམ་ལ་draw_opsམཁོ་འདོན་བྱས་མེད།"
+
+msgid "Normal Application Window"
+msgstr "སྤྱིར་བཏང་གི་ཉེར་སྤྱོད་བྱ་རིམ་སྒེའུ་ཁུང་།"
+
+msgid "Normal Title Font"
+msgstr "ཁ་བྱང་དཀྱུས་མའི་ཡིག་གཟུགས།"
+
+msgid "OK"
+msgstr " གཏན་འཁེལ།"
+
+msgid "Opened log file %s\n"
+msgstr "ཁ་ཕྱེ་བའི་ཉིན་ཐོའི་ཡིག་ཆ།%s\n"
+
+msgid "Outermost element in theme must be <metacity_theme> not <%s>"
+msgstr ""
+"འདེམས་བྱང་ཡིག་ཆའི་ནང་གི་ཆེས་ཕྱི་རིམ་གྱི་གཞི་རྒྱུ་ནི་ <mateconf>ལས་<%s>མིན།"
+
+msgid "Print version"
+msgstr "པར་གཞི་མངོན་པ།"
+
+msgid "Property %s on window 0x%lx contained invalid UTF-8\n"
+msgstr ""
+"སྒེའུ་ཁུང་0x2%1.2%ཡི་ཐོག་གི་གཏོགས་གཤིས་%1$s "
+"ནང་དུ་ནུས་མེད་ཀྱི་UTFF-8ཚུད་ཡོད།\n"
+
+msgid ""
+"Property %s on window 0x%lx contained invalid UTF-8 for item %d in the "
+"list\n"
+msgstr ""
+"སྒེའུ་ཁུང་0x2%1.2%ཡི་ཐོག་གི་གཏོགས་གཤིས་%1$s ཡིས་རེའུ་མིག་ཁྲོད་ཀྱི་བྱ་ར་%3$d "
+"ཡི་ཆེད་དུ་ནུས་མེད་ཀྱི་UTFF-8ཚུད་ཡོད།\n"
+
+msgid "Put Window On Only One Workspace"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཁུལ་གཅིག་ཁོ་ནར་འཇོག་པ།"
+
+msgid "Raise window if covered, otherwise lower it"
+msgstr "སྒྲིབ་སྐབས་སྒེའུ་ཁུང་མཐོ་རུ་མ་བཏང་ན་དམའ་རུ་ཐོངས།"
+
+msgid "Remove Window From Top"
+msgstr "སྒེའུ་ཁུང་རྒྱུན་དུ་རྩེ་མོར་ཡོད་པ་འདོར་བ།"
+
+msgid "Replace the running window manager with Metacity"
+msgstr "འཁོར་སྐྱོད་ཁྲོད་ཀྱི་སྒེའུ་ཁུང་དོ་དམ་ཆས་Metacityལ་བརྗེ་བ།"
+
+msgid "Restore Window"
+msgstr "སྒེའུ་ཁུང་སླར་གསོ།"
+
+msgid "Restore window"
+msgstr "སྒེའུ་ཁུང་སླར་གསོ།"
+
+msgid "Roll Up Window"
+msgstr "སྒེའུ་ཁུང་ཡར་འདྲིལ་བ།"
+
+msgid "Roll _Up"
+msgstr "འདྲིལ་བ།(_U)"
+
+msgid "Screen %d on display \"%s\" already has a window manager\n"
+msgstr ""
+" \"%2$s\" མངོན་འཆར་སྟེང་གི་%1$d "
+"བརྙན་ཡོལ་ལསྒེའུ་ཁུང་དོ་དམ་འཕྲུལ་ཆས་ཞིག་ཡོད་པ།\n"
+
+msgid "Screen %d on display '%s' is invalid\n"
+msgstr ""
+"“%2$s”མངོན་འཆར་སྟེང་གི་བརྙན་ཡོལ་%1$d ནུས་མེད།\n"
+"\""
+
+msgid "Shade factor \"%s\" in shaded color is negative"
+msgstr "གྲིབ་ནག་གཟུགས་ཁྲོད་ཀྱི་གྲིབ་ནག་རྐྱེན་ཆ་%sནི་མོ་གྲངས་ཡིན།"
+
+msgid "Shade format is \"shade/base_color/factor\", \"%s\" does not fit the format"
+msgstr ""
+"གྲིབ་ནག་གཟུགས་ཀྱི་རྣམ་གཞག་ནི་shade/base-color/facto "
+"rདང་།%sནི་རྣམ་གཞག་འདི་དང་མི་མཐུན།"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Should not have \"resize\" attribute on <%s> element for maximized states"
+msgstr "རྣམ་པ་ནི་Maximizedཡི་<%s>གཞི་རྒྱུ་རུ་resizeགཏོགས་གཤིས་ཡོད་མི་འོས།"
+
+msgid ""
+"Should not have \"resize\" attribute on <%s> element for maximized/shaded "
+"states"
+msgstr ""
+"རྣམ་པ་ནི་maximized/shadedཡི་<%s> གཞི་རྒྱུ་རུ་“resize”གཏོགས་གཤིས་ཡོད་མི་འོས།"
+
+msgid "Show the applications menu"
+msgstr "ཉེར་སྤྱོད་འདེམས་བྱང་འཆར་བ།"
+
+msgid "Show the run command prompt"
+msgstr "འཁོར་སྐྱོད་བཀའ་བརྡའི་བརྡ་སྟོན་རྟགས་འཆར་བ།"
+
+msgid "Show window content thumbnail in Alt-Tab"
+msgstr "Alt-Tabསྐབས་སྒེའུ་ཁུང་ནང་དོན་བསྡུས་རིས་འཆར་བ།"
+
+msgid "Small Title Font"
+msgstr "ཁ་བྱང་ཆུང་བའི་ཡིག་གཟུགས།"
+
+msgid ""
+"Some other program is already using the key %s with modifiers %x as a "
+"binding\n"
+msgstr ""
+"བྱ་རིམ་གཞན་པ་ག་གེ་མོ་ཞིག་གིས་མཐེབ་གནོན་%s དང་རྒྱན་མཐེབ་%x "
+"ཡི་མཉམ་སྡེབ་བཀོལ་སྤྱོད་དེ་ཚན་སྡེབ་ཅིག་ཏུ་བརྩིས་ཡོད།\n"
+
+msgid "Specify session management ID"
+msgstr "གླེང་མོལ་དོ་དམ་IDདམིགས་འཛུགས།"
+
+msgid "Style has already been specified for state %s focus %s"
+msgstr ""
+"stateཡི་གཏོགས་གཤིས་%sདང་focusཡི་གཏོགས་གཤིས་%s "
+"ལ་ཉམས་འགྱུར་དམིགས་འཛུགས་བྱས་ཡོད།"
+
+msgid "Style has already been specified for state %s resize %s focus %s"
+msgstr ""
+"sresizeཡི་གཏོགས་གཤིས་%s དང་།focusཡི་གཏོགས་གཤིས་%s དང་focus ཡི་གཏོགས་གཤིས་ "
+"%sབཅས་ལ་ཉམས་འགྱུར་དམིགས་འཛུགས་བྱས་ཡོད།"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Switch applications"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་བརྗེ་བ།"
+
+msgid "Switch system controls"
+msgstr "རྒྱུད་ཁོངས་ཚོད་འཛིན་བརྗེ་བ།"
+
+msgid "Switch system controls directly"
+msgstr "ཐད་ཀར་རྒྱུད་ཁོངས་ཚོད་འཛིན་བརྗེ་བ།"
+
+msgid "Switch windows"
+msgstr "སྒེའུ་ཁུང་བརྗེ་བ།"
+
+msgid "Switch windows directly"
+msgstr "ཐད་ཀར་སྒེའུ་ཁུང་བརྗེ་བ།"
+
+msgid "Switch windows of an application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གཅིག་པའི་སྒེའུ་ཁུང་བརྗེ་བ།"
+
+msgid "System"
+msgstr "རྒྱུད་ཁོངས།"
+
+msgid ""
+"The theme determines the appearance of window borders, titlebar, and so "
+"forth."
+msgstr ""
+"བརྗོད་སྙིང་གིས་སྒེའུ་ཁུང་གི་མཐའ་སྒྲོམ་དང་།འདེམས་བྱང་སྡེ་སོགས་ཀྱི་ཕྱི་རྣམ་ཐག་གཅོད་པ།"
+
+msgid "Theme contained an expression that resulted in an error: %s\n"
+msgstr "བརྗོད་དོན་གཙོ་བོའི་ནང་གི་མཚོན་ཚུལ་ཞིག་ལ་བྱུང་བའི་ནོར་འཁྲུལ།：%s\n"
+
+msgid "Theme requires version %s but latest supported theme version is %d.%d"
+msgstr ""
+"བརྗོད་སྙིང་གི་བླང་བྱའི་པར་གཞི་ནི་%sཡིན་མོད།འོན་ཀྱང་རྒྱབ་སྐྱོར་བྱེད་པའི་བརྗོད་སྙིང་པར་གཞི་གསར་ཤོས་ནི%d.%dཡིན།"
+
+msgid "This is a sample message in a sample dialog"
+msgstr "འདི་ནི་དཔེ་མཚོན་གླེང་སྒྲོམ་ནང་གི་དཔེ་མཚོན་བརྡ་འཕྲིན་རེད།"
+
+msgid "Toggle fullscreen mode"
+msgstr "བརྙན་ཡོལ་ཡོངས་འཆར་རྣམ་པར་བརྗེ་བ།"
+
+msgid "Toggle maximization state"
+msgstr "ཆེ་ཤོས་རྣམ་པར་བརྗེ་བ།"
+
+msgid "Toggle shaded state"
+msgstr "གྲིབ་ནག་རྣམ་པ་བརྗེ་བ།"
+
+msgid "Toggle window on all workspaces or one"
+msgstr "ལས་དོན་ཁུལ་ཞིག་གམ་ཡོངས་ཀྱི་སྒེའུ་ཁུང་བརྗེ་བ།"
+
+msgid "Torn-off Menu"
+msgstr "དབྲལ་བའི་འདེམས་བྱང་།"
+
+msgid "Turn compositing off"
+msgstr "མཉམ་འདུས་ཕན་འབྲས་སྒོ་རྒྱག་པ།"
+
+msgid "Turn compositing on"
+msgstr "མཉམ་འདུས་ཕན་འབྲས་ཀྱི་སྒོ་འབྱེད་པ།"
+
+msgid "Unknown attribute %s on <%s> element"
+msgstr "\"<%2$s> གཞི་རྒྱུའི་སྟེང་གི་ངེས་མེད་ཀྱི་གཏོགས་གཤིས་ %1$s\""
+
+msgid "Unknown element %s"
+msgstr "ངེས་མེད་ཀྱི་གཞི་རྒྱུ།%s"
+
+msgid "Unknown function \"%s\" for button"
+msgstr "མཐེབ་གནོན་གྱི་རྟེན་འབྱུང་གྲངས་“%s”ངེས་མེད།"
+
+msgid "Unknown position \"%s\" for frame piece"
+msgstr "སྒྲོམ་གཞིའི་གནས་ཀྱི་“%s”མི་ཤེས་པ།"
+
+msgid "Unknown state \"%s\" for button"
+msgstr "མཐེབ་གནོན་གྱི་རྣམ་པའི“%s”མི་ཤེས་པ།"
+
+msgid "Unknown style_set \"%s\" on <%s> element"
+msgstr "ངེས་མེད་ཀྱི་style_set“%s”ནི་གཞི་རྒྱུ་<%s> ཡི་སྟེང་དུ་ཡོད་པ།"
+
+msgid "Unknown type \"%s\" on <%s> element"
+msgstr "ངེས་མེད་ཀྱི་རིགས་གྲས་“%s”ནི་གཞི་རྒྱུ་<%s> ཡི་སྟེང་དུ་ཡོད་པ།"
+
+msgid "Unknown window information request: %d"
+msgstr "མི་ཤེས་པའི་སྒེའུ་ཁུང་ཆ་འཕྲིན་རེ་ཞུ།：%d"
+
+msgid "Unroll Window"
+msgstr "སྒེའུ་ཁུང་ཕྱེ་བ།"
+
+msgid "Usage: %s\n"
+msgstr "སྤྱོད་སྟངས།：%s\n"
+
+msgid "Usage: metacity-theme-viewer [THEMENAME]\n"
+msgstr "སྤྱོད་སྟངས།metacity-theme-viewer[བརྗོད་སྙིངའི་མིང་།]\n"
+
+msgid "User-defined constants must begin with a capital letter; \"%s\" does not"
+msgstr ""
+"སྤྱོད་མཁན་གྱིས་མཚན་ཉིད་བཞག་པའི་རྒྱུན་གྲངས་ངེས་པར་དུ་ཆེ་བྲིས་གསལ་བྱེད་ལ་བརྟེན་དགོས།"
+" འོན་ཀྱང་%sདེ་ལྟ་མིན།"
+
+msgid "Utility Palette"
+msgstr "ལག་ཆའི་སྡེར་མ།"
+
+msgid "View split on left"
+msgstr "གཡོན་ཕྱེད་དུ་ལྟ་བ།"
+
+msgid "View split on right"
+msgstr "གཡས་ཕྱེད་དུ་ལྟ་བ།"
+
+msgid "Window App Menu"
+msgstr "སྒེའུ་ཁུང་བཀོལ་སྤྱོད་འདེམས་བྱང་།"
+
+msgid "Window Menu"
+msgstr "སྒེའུ་ཁུང་འདེམས་བྱང་།"
+
+msgid "Window Title Goes Here"
+msgstr "སྒེའུ་ཁུང་གི་ཁ་བྱང་འདི་ན་ཡོད།"
+
+msgid "Window manager error: "
+msgstr "སྒེའུ་ཁུང་དོ་དམ་ཆས་ནོར་འཁྲུལ།"
+
+msgid "Window manager warning: "
+msgstr "སྒེའུ་ཁུང་དོ་དམ་ཆས་ཀྱི་ཐ་ཚིག"
+
+msgid "Window manager: "
+msgstr "སྒེའུ་ཁུང་དོ་དམ་ཆས།"
+
+msgid "Window placement behavior"
+msgstr "སྒེའུ་ཁུང་འཇོག་བྱའི་བྱ་སྤྱོད།"
+
+msgid "Window type \"%s\" has already been assigned a style set"
+msgstr ""
+"སྒེའུ་ཁུང་གི་རིགས་གྲས་“%s”ལ་ཉམས་འགྱུར་སྒྲིག་འགོད་ཞིག་དམིགས་འཛུགས་བྱས་ཟིན།"
+
+msgid "Windows"
+msgstr " སྒེའུ་ཁུང་།"
+
+msgid ""
+"Workarounds for broken applications disabled. Some applications may not "
+"behave properly.\n"
+msgstr ""
+"སྐྱོན་ཆ་ཡོད་པའི་ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ལས་སྒྲུབ་ཁུལ་དུ་བེད་སྤྱོད་བྱས་མི་ཆོག "
+"ཉེར་སྤྱོད་བྱ་རིམ་ཁ་ཤས་རྒྱུན་ལྡན་ངང་འཁོར་སྐྱོད་བྱེད་ཐབས་བྲལ། \n"
+
+msgid "Workspace %d"
+msgstr "ལས་ཁུལ། %d"
+
+msgid "Workspace %d%n"
+msgstr "ལས་ཁུལ།%d%n"
+
+msgid "Workspace %s%d"
+msgstr "ལས་ཁུལ།%s%d"
+
+msgid "Workspace 1_0"
+msgstr "ལས་ཁུལ།1_0"
+
+msgid "X Display to use"
+msgstr "བེད་སྤྱོད་གཏོང་བྱའི་Xམངོན་འཆར།"
+
+msgid ""
+"You may choose to wait a short while for it to continue or force the "
+"application to quit entirely."
+msgstr ""
+"ཁྱེད་རང་གི་ཏོག་ཙམ་སྒུག་པ་འདེམས་ནས་མུ་མཐུད་དང་ཡང་ན་བཙན་ཤེད་ཀྱིས་ཉེར་སྤྱོད་བྱ་རིམ་ནས་ཕྱིར་འཐེན་བྱས་ཆོག"
+
+msgid "You must specify a background for an alpha value to be meaningful"
+msgstr ""
+"alpha "
+"ཐང་དོན་སྙིང་ཡོད་པ་བྱེད་ན།ཁྱེད་ཀྱིས་ངེས་པར་དུ་རྒྱབ་ལྗོངས་དམིགས་འཛུགས་བྱེད་དགོས།"
+
+msgid "_Always on Visible Workspace"
+msgstr "ནམ་ཞར་མཐོང་ཐུབ་པའི་ལས་ཁུལ་དུ་ཡོད་པ།(_A)"
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག (C)"
+
+msgid "_Force Quit"
+msgstr "བཙན་ཤེད་ཕྱིར་འཐེན།(_F)"
+
+msgid "_Move"
+msgstr "སྤོ་བ།(_M)"
+
+msgid "_Resize"
+msgstr "ཆེ་ཆུང་བསྒྱུར་བ།(_R)"
+
+msgid "_Unroll"
+msgstr "བཀྲམ་པ།(_U)"
+
+msgid "_Wait"
+msgstr "ངང་སྒུག(_W)"
+
+msgid "bottom"
+msgstr "ཞོལ།"
+
+msgid "frame geometry does not specify \"%s\" dimension"
+msgstr "སྒྲོམ་གཞིའི་དབྱིབས་རྩིས་བཀོད་པས“%s”ཆེ་ཆུང་དམིགས་འཛུགས་བྱས་མེད་པ།"
+
+msgid "frame geometry does not specify dimension \"%s\" for border \"%s\""
+msgstr ""
+"སྒྲོམ་གཞིའི་དབྱིབས་རྩིས་བཀོད་པས་“%s”ཆེ་ཆུང་དམིགས་འཛུགས་བྱས་མེད་པ།（ཆེ་ཆུང་འདི་ནི་མཐའ་སྒྲོམ་%s"
+" ཡིས་དམིགས་འཛུགས་བྱས་པ་རེད།）"
+
+msgid "left"
+msgstr "གཡོན།"
+
+msgid "nested <window> tag"
+msgstr "<Window>མཚོན་རྟགས་སྐོང་འཛུད།"
+
+msgid "position expression test returned FALSE but didn't set error"
+msgstr ""
+"གནས་ཡུལ་ཚད་ལེན་ཚོད་ལྟ་FALSEརུ་ཕྱིར་ལོག་མོད།འོན་ཀྱང་སྡེབ་སྒྲིག་ལ་ནོར་འཁྲུལ་ཤོར་མེད།"
+
+msgid "position expression test returned TRUE but set error"
+msgstr ""
+"གནས་ཡུལ་ཚད་ལེན་ཚོད་ལྟ་TRUEརུ་ཕྱིར་ལོག་མོད།འོན་ཀྱང་སྡེབ་སྒྲིག་ནོར་འཁྲུལ་རེད།"
+
+msgid "right"
+msgstr "ཡང་དག"
+
+msgid "top"
+msgstr "སྟེང་།"
+
+msgid "x value was %d, %d was expected"
+msgstr "x ཡི་ཐང་ %dརེད། འོན་ཀྱང་%dཡིན་དགོས།"
+
+msgid "y value was %d, %d was expected"
+msgstr "\"y  ཡི་ཐང་ནི་ %dརེད། འོན་ཀྱང་%dཡིན་འོས།"

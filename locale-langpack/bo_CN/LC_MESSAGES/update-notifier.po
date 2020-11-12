@@ -1,0 +1,212 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "  $packages"
+msgstr "  $packages"
+
+msgid "%i package can be updated."
+msgid_plural "%i packages can be updated."
+msgstr[0] "%i རིམ་སྤོར་རུང་བའི་མཉེན་ཆས་ཐུམ།"
+msgstr[1] "%i རིམ་སྤོར་རུང་བའི་མཉེན་ཆས་ཐུམ།"
+
+msgid "%i update is a security update."
+msgid_plural "%i updates are security updates."
+msgstr[0] "%i བདེ་འཇགས་གསར་བསྒྱུར།"
+msgstr[1] "%i བདེ་འཇགས་གསར་བསྒྱུར།"
+
+msgid "- inform about updates"
+msgstr "- གསར་བསྒྱུར་གསལ་འདེབས།"
+
+msgid "<span weight=\"bold\" size=\"larger\">Update information</span>"
+msgstr "<span weight=\\bold\\ size=\\larger\\>གསར་བསྒྱུར་ཆ་འཕྲིན།</span>"
+
+msgid "A package manager is working"
+msgstr "མཉེན་ཆས་ཐུམ་དོ་དམ་འཕྲུལ་ཆས་ཤིག་གིས་བྱ་བ་སྒྲུབ་བཞིན་ཡོད།"
+
+msgid "A problem occurred when checking for the updates."
+msgstr "ཞིབ་བཤེར་གསར་བསྒྱུར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "APTonCD volume detected"
+msgstr " APTonCD པོད་ཅིག་བཤེར་འཇལ་བྱུང་བ།"
+
+msgid "Addon volume detected"
+msgstr "ཁུར་སྣོན་པོད་བཤེར་འཇལ་བྱུང་བ།"
+
+msgid ""
+"An application has crashed on your system (now or in the past). Click on the"
+" notification icon to display details. "
+msgstr ""
+"ཁྱེད་ཀྱི་རྒྱུད་ཁོངས་སུ་ཉེར་སྤྱོད་བྱ་རིམ་ཞིག་ཐོར་ཞིག་ཏུ་གྱུར་འདུག(ད་ལྟའམ་དེ་སྔོན་གྱི་)བརྡ་ཐོའི་རིས་རྟགས་ལ་རྡེབ་གནོན་བྱས་ན་ཞིབ་ཕྲའི་གནས་ཚུལ་འཆར།"
+
+msgid "Check for available updates automatically"
+msgstr "སྤྱོད་རུང་གསར་བསྒྱུར་རང་འགུལ་བཤེར་འཇལ།"
+
+msgid "Check for updates"
+msgstr "གསར་བསྒྱུར་ཞིབ་བཤེར།"
+
+msgid "Click on the notification icon to show the available information.\n"
+msgstr "བརྡ་ཐོའི་རིས་རྟགས་ལ་རྡེབ་གནོན་བྱས་ན་སྤྱོད་རུང་ཆ་འཕྲིན་འཆར་བ། \n"
+
+msgid "Crash report detected"
+msgstr "ཐོར་ཞིག་སྙན་ཞུ་བཤེར་འཇལ་བྱུང་བ།"
+
+msgid "Data files for some packages could not be downloaded"
+msgstr "མཉེན་ཆས་ཐུམ་ཁ་ཤས་ཀྱི་གཞི་གྲངས་ཡིག་ཆ་ཕབ་ལེན་བྱ་ཐབས་བྲལ།"
+
+msgid "Do you want to report the problem now?"
+msgstr "ཁྱེད་ཀྱིས་མགྱོགས་མྱུར་གནད་དོན་འདི་སྙན་ཞུ་བྱེད་དམ།"
+
+msgid "Error: BrokenCount > 0"
+msgstr "ནོར་འཁྲུལ།：  གཏོར་སྐྱོན་ཐེབས་ཟིན་པའི་གྲངས > 0"
+
+msgid "Error: Marking the upgrade (%s)"
+msgstr "ནོར་འཁྲུལ།：  མཚོན་རྟགས་རིམ་སྤོར། (%s)"
+
+msgid "Error: Opening the cache (%s)"
+msgstr "ནོར་འཁྲུལ།：  སྐབས་གསོག་ཁ་འབྱེད་ཕམ་པ།(%s)"
+
+msgid "Failed to init the UI: %s\n"
+msgstr "སྤྱོད་མཁན་མཚམས་ངོས་འགོ་སྒྲིག་ཕམ་པ།： %s\n"
+
+msgid "Failed to request reboot, please shutdown manually"
+msgstr "བསྐྱར་སློང་རེ་ཞུ་ཕམ་པས་ལག་སྒུལ་གྱིས་ཁ་རྒྱག་རོགས།"
+
+msgid "Failure to download extra data files"
+msgstr "ཚད་བརྒལ་གཞི་གྲངས་ཡིག་ཆ་ཕབ་ལེན་ཕམ་པ།"
+
+msgid "Information available"
+msgstr "སྤྱོད་རུང་ཆ་འཕྲིན།"
+
+msgid "Install all updates"
+msgstr "གསར་བསྒྱུར་ཚང་མ་སྒྲིག་འཇུག"
+
+msgid "Internal error"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
+
+msgid "Network service discovery disabled"
+msgstr "དྲ་རྒྱའི་ཞབས་ཞུ་འཚོལ་ཞིབ་འགོག་སྤྱོད་བྱས་པ།"
+
+msgid "Reboot failed"
+msgstr "བསྐྱར་སློང་ཕམ་པ།"
+
+msgid "Report problem…"
+msgstr "གནད་དོན་སྙན་ཞུ།…"
+
+msgid "Restart Required"
+msgstr "ཡང་བསྐྱར་འགོ་སློང་དགོས།"
+
+msgid "Restart _Later"
+msgstr "ཅུང་ཙམ་ནས་བསྐྱར་སློང་།(_L)"
+
+msgid ""
+"Return the time in days when security updates are installed unattended (0 "
+"means disabled)"
+msgstr ""
+"ལས་གནས་སུ་མི་མེད་པའི་རྣམ་པའི་ཅོག་སྒྲིག་འཇུག་བྱས་པའི་བདེ་འཇགས་གསར་བསྒྱུར་གྱི་ཚེ་གྲངས་ལ་ཕྱིར་ལོག་པ།（0ཡིས་སྤྱོད་འགོ་བརྩམས་མེད་པ་མཚོན།）"
+
+msgid "Run upgrade"
+msgstr "རིམ་སྤོར་བྱ་རིམ་འཁོར་སྐྱོད།"
+
+msgid "Show human readable output on stdout"
+msgstr ""
+"ཚད་ལྡན་ཕྱིར་འདོན་སྟེང་(སྤྱིར་བཏང་“མཐའ་སྣེ་”ལ་གོ་དགོས།)ཀློག་རུང་ཕྱིར་འདོན་འཆར་བ།"
+
+msgid "Show notifications"
+msgstr " བརྡ་ཐོ་འཆར་བ།"
+
+msgid "Show the packages that are going to be installed/upgraded"
+msgstr "སྒྲིག་འཇུག/རིམ་སྤོར་བྱེད་བྱའི་མཉེན་ཆས་ཐུམ་འཆར་བ།"
+
+msgid "Show updates"
+msgstr "གསར་བསྒྱུར་འཆར་བ།"
+
+msgid "Software Packages Volume Detected"
+msgstr "མཉེན་ཆས་ཐུམ་གྱི་ཤོང་ཚད་བཤེར་འཇལ་བྱུང་བ།"
+
+msgid "Software updates available"
+msgstr "སྤྱོད་རུང་གི་མཉེན་ཆས་གསར་བསྒྱུར་བྱ་རྒྱུ་འདུག"
+
+msgid "Start Package Manager"
+msgstr "མཉེན་ཆས་ཐུམ་དོ་དམ་ཆས་འགོ་སློང་།"
+
+msgid "Start addon installer"
+msgstr "ཟུར་སྣོན་མཉེན་ཆས་སྒྲིག་འཇུག་བྱ་རིམ་འགོ་སློང་།"
+
+msgid "Start package manager"
+msgstr "འགོ་སློང་ཐུམ་དོ་དམ་ཆས།"
+
+msgid "System program problem detected"
+msgstr "རྒྱུད་ཁོངས་བྱ་རིམ་ལ་གནད་དོན་བྱུང་བ་བཤེར་འཇལ་བྱུང་།"
+
+msgid "System restart required"
+msgstr "རྒྱུད་ཁོངས་བསྐྱར་སློང་བྱ་དགོས།"
+
+msgid ""
+"The computer needs to restart to finish installing updates. Please save your"
+" work before continuing."
+msgstr ""
+"རྩིས་འཁོར་ཡང་བསྐྱར་འགོ་སློང་བྱས་ནས་གསར་བསྒྱུར་སྒྲིག་འཇུག་ལེགས་གྲུབ་བྱ་དགོས། "
+"མུ་མཐུད་དུ་བཀོལ་སྤྱོད་བྱེད་པའི་སྔོན་ལ་ཁྱེད་རང་གི་ལས་ཀ་ཉར་ཚགས་ཡག་པོ་བྱེད་རོགས།"
+
+msgid ""
+"The following packages requested additional data downloads after package "
+"installation, but the data could not be downloaded or could not be "
+"processed."
+msgstr ""
+"གཤམ་གསལ་མཉེན་ཆས་ཐུམ་གྱིས་སྒྲིག་འཇུག་བྱས་རྗེས་ཟུར་སྣོན་གཞི་གྲངས་ཕབ་ལེན་བྱ་དགོས་པའི་རེ་བ་བཏོན།"
+" འོན་ཀྱང་དེའི་གཞི་གྲངས་ཕབ་ལེན་བྱ་ཐབས་བྲལ་བའམ་སྒྲིག་གཅོད་བྱ་ཐབས་བྲལ།"
+
+msgid "There is %i update available"
+msgid_plural "There are %i updates available"
+msgstr[0] " %i སྤྱོད་རུང་གསར་བསྒྱུར་འདུག"
+msgstr[1] " %i སྤྱོད་རུང་གསར་བསྒྱུར་འདུག"
+
+msgid ""
+"There is %i update available. Click on the notification icon to show the "
+"available update."
+msgid_plural ""
+"There are %i updates available. Click on the notification icon to show the "
+"available updates."
+msgstr[0] ""
+"%i སྤྱོད་རུང་རིམ་སྤོར་འདུག "
+"བརྡ་ཐོའི་རིས་རྟགས་ལ་རྡེབ་གནོན་བྱས་ནས་སྤྱོད་རུང་གསར་བསྒྱུར་འཆར་དུ་ཆུག"
+msgstr[1] ""
+"%i སྤྱོད་རུང་རིམ་སྤོར་འདུག "
+"བརྡ་ཐོའི་རིས་རྟགས་ལ་རྡེབ་གནོན་བྱས་ནས་སྤྱོད་རུང་གསར་བསྒྱུར་འཆར་དུ་ཆུག"
+
+msgid ""
+"This usually means that your installed packages have unmet dependencies"
+msgstr ""
+"འདིས་རྒྱུན་པར་ཁྱེད་ཀྱིས་སྒྲིག་འཇུག་བྱས་པའི་མཉེན་ཆས་ཐུམ་ལ་ཡིད་མ་ཚིམས་པའི་བརྟེན་བྱའི་འབྲེལ་བ་ཡོད་པ་མཚོན།"
+
+msgid "Unknown Error: '%s' (%s)"
+msgstr "མ་ངེས་པའི་ནོར་འཁྲུལ།：“%s”(%s)"
+
+msgid "Update Notifier"
+msgstr "གསར་བསྒྱུར་སྣེ་སྟོན།"
+
+msgid "Upgrade volume detected"
+msgstr "རིམ་སྤོར་པོད་བཤེར་འཇལ་བྱུང་།"
+
+msgid "_Restart Now"
+msgstr "ད་ལྟ་བསྐྱར་སློང་།(_R)"
+
+msgid "_Run this action now"
+msgstr "འགུལ་སྟངས་འདི་ད་ལྟ་ལག་བསྟར་བྱེད་པ།(_R)"
+
+msgid "unknown error"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ།"
+
+msgid "update-notifier"
+msgstr "གསར་བསྒྱུར་བརྡ་ཐོ།"

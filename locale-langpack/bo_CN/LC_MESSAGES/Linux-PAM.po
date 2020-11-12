@@ -1,0 +1,260 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%s failed: caught signal %d%s"
+msgstr "འཛིན་བཟུང་བྱས་པའི་བརྡ་རྟགས་%d%s  %sཕམ་པ།："
+
+msgid "%s failed: exit code %d"
+msgstr "ཕྱིར་འཐེན་ཚབ་ཨང་ %d %sཕམ་པ།："
+
+msgid "%s failed: unknown status 0x%x"
+msgstr "ངེས་མེད་ཀྱི་རྣམ་པ་ 0x%x %sཕམ་པ།："
+
+msgid "%s: Can't reset all users to non-zero\n"
+msgstr "%s: སྤྱོད་མཁན་ཚང་མ་བསྐྱར་དུ་ཀླད་ཀོར་མིན་པར་སྡེབ་སྒྲིག་བྱེད་ཐབས་བྲལ།\n"
+
+msgid "%s: Unrecognised option %s\n"
+msgstr "%s: དབྱེ་འབྱེད་མ་ཐུབ་པའི་འདེམ་བྱང་། %s\n"
+
+msgid "...Sorry, your time is up!\n"
+msgstr "...དགོངས་པ་མ་ཚོམ།ཁྱེད་རང་གི་དུས་ཚོད་རྫོགས་ཚར་འདུག\n"
+
+msgid "...Time is running out...\n"
+msgstr "..དུས་ཚོད་རྫོགས་ལ་ཉེ།....\n"
+
+msgid "Access granted (last access was %ld seconds ago)."
+msgstr "ལྟ་སྤྱོད་བྱས་ཆོག (ཐེངས་སྔོན་མའི་ལྟ་སྤྱོད་ནི་སྐར་ཆ་ %ld ཡི་སྔོན）"
+
+msgid "Account temporary locked (%ld seconds left)"
+msgstr "རྩིས་ཐེམ་གནས་སྐབས་སྒྲོག་བཙུད།"
+
+msgid "Application needs to call libpam again"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་ཡང་བསྐྱར་libpamའདོན་སྤྱོད་བྱེད་དགོས་པ།"
+
+msgid "Authentication error"
+msgstr "ར་སྤྲོད་ནོར་འཁྲུལ།"
+
+msgid "BAD PASSWORD: %s"
+msgstr "ནུས་མེད་གསང་ཨང་།%s"
+
+msgid "Bad item passed to pam_*_item()"
+msgstr "བརྒྱུད་སྤྲོད་pam_*_item() ལ་སླེབས་པའི་རྣམ་གྲངས་ལ་ནུས་པ་མེད་པ།"
+
+msgid "Cannot make/remove an entry for the specified session"
+msgstr "དམིགས་འཛུགས་བྱས་པའི་གླེང་མོལ་ལ་/འདོར་བྱང་གསར་འཛུགས་བྱ་ཐབས་བྲལ།"
+
+msgid "Changing STRESS password for %s."
+msgstr "s%ཆེད་STRESSགསང་ཨང་བཟོ་བཅོས་བྱེད་པ།"
+
+msgid "Changing password for %s."
+msgstr "s%ཆེད་STRESSགསང་ཨང་བཟོ་བཅོས་བྱེད་པ།"
+
+msgid "Conversation error"
+msgstr "བརྗེ་སྤོར་ནོར་འཁྲུལ།"
+
+msgid "Conversation is waiting for event"
+msgstr "བརྗེ་སྤོར་གྱིས་དོན་རྐྱེན་ལ་སྒུག་བཞིན་ཡོད།"
+
+msgid "Critical error - immediate abort"
+msgstr "ནོར་འཁྲུལ་ཚབས་ཆེན། འཕྲལ་མར་མཚམས་འཇོག་དགོས།"
+
+msgid "Default Security Context %s\n"
+msgstr "སོར་བཞག་བདེ་འཇགས་རང་བཞིན་ཁོར་ཡུག%satn"
+
+msgid "Error in service module"
+msgstr "ཞབས་ཞུའི་དཔེ་དུམ་ལ་ནོར་འཁྲུལ་ཡོད་པ།"
+
+msgid "Failed preliminary check by password service"
+msgstr "གསང་ཨང་ཞབས་ཞུའི་ཐོག་མའི་ཞིབ་བཤེར་ཕམ་པ།"
+
+msgid "Failed to load module"
+msgstr "དཔེ་དུམ་སྒྲིག་འཇུག་ཕམ་པ།"
+
+msgid "Have exhausted maximum number of retries for service"
+msgstr "ཡང་བསྐྱར་ཚོད་ལྟའི་ཞབས་ཞུ་ཐེངས་གྲངས་མང་ཤོས་ལས་བརྒལ་བ།"
+
+msgid "Key Creation Context %s Assigned"
+msgstr "བགོས་ཟིན་པའི་གསང་ལྡེ་ལས་གྲུབ་པའི་ཁོར་ཡུག%s"
+
+msgid "Last failed login:%s%s%s"
+msgstr "ཆེས་མཇུག་མཐའི་ཕམ་ཁའི་ཐོ་འགོད།：%s%s%s\""
+
+msgid "Last login:%s%s%s"
+msgstr "ཐེངས་སྔོན་མའི་ཐོ་འགོད།：%s%s%s"
+
+msgid "Login           Failures Latest failure     From\n"
+msgstr ""
+"\"Login           Failures Latest failure     From\n"
+"\""
+
+msgid "Memory buffer error"
+msgstr "ནང་གསོག་ལྷོད་གཏོང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+
+msgid "Module is unknown"
+msgstr "དཔེ་དུམ་ངེས་མེད།"
+
+msgid "NIS password could not be changed."
+msgstr "NISགསང་ཨང་བརྗེ་ཐབས་བྲལ།"
+
+msgid "No default type for role %s\n"
+msgstr "འཁྲབ་བྱའི་མི་སྣ་མེད་པའི%s སོར་བཞག་རིགས་གྲས།\n"
+
+msgid "No mail."
+msgstr "ཡིག་ཟམ་མེད།"
+
+msgid "No module specific data is present"
+msgstr "དམིགས་བསལ་གྱི་དཔེ་དུམ་མེད་པའི་གཞི་གྲངས།"
+
+msgid "Password change aborted."
+msgstr "གསང་ཨང་བཟོ་བཅོས་ཕྱིར་འཐེན།"
+
+msgid "Password has been already used."
+msgstr "གསང་ཨང་བཀོལ་ཟིན།"
+
+msgid "Permission denied"
+msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
+
+msgid "Retype %s"
+msgstr " %sབསྐྱར་འཇུག་བྱོས།"
+
+msgid "Service error"
+msgstr "ཞབས་ཞུའི་ནོར་འཁྲུལ།"
+
+msgid "Sorry, passwords do not match."
+msgstr "དགོངས་པ་མ་ཚོམ།གསང་ཨང་འཚམ་པོ་མི་འདུག"
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Symbol not found"
+msgstr "མཚོན་རྟགས་རྙེད་ཀྱི་མི་འདུག"
+
+msgid "System error"
+msgstr "རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
+
+msgid "The return value should be ignored by PAM dispatch"
+msgstr "ཕྱིར་ལོག་གྲངས་ཐང་ནི་PAM dispatchཡིས་སྣང་མེད་དུ་བཞག་ན་འགྲིག"
+
+msgid "There was %d failed login attempt since the last successful login."
+msgid_plural ""
+"There were %d failed login attempts since the last successful login."
+msgstr[0] ""
+"ཐོ་འགོད་ལེགས་འགྲུབ་ཐེངས་གཅིག་གི་རྗེས་སུ་ཐེངས་%d "
+"ཡི་ཕམ་པའི་ཐོ་འགོད་ཚོད་ལྟ་བྱས་འདུག"
+msgstr[1] ""
+"ཐོ་འགོད་ལེགས་འགྲུབ་ཐེངས་གཅིག་གི་རྗེས་སུ་ཐེངས་%d "
+"ཡི་ཕམ་པའི་ཐོ་འགོད་ཚོད་ལྟ་བྱས་འདུག"
+
+msgid "There were %d failed login attempts since the last successful login."
+msgstr ""
+"ཐོ་འགོད་ལེགས་འགྲུབ་ཐེངས་གཅིག་གི་རྗེས་སུ་ཐེངས་%d "
+"ཡི་ཕམ་པའི་ཐོ་འགོད་ཚོད་ལྟ་བྱས་འདུག"
+
+msgid "Unable to create and initialize directory '%s'."
+msgstr "དཀར་ཆག་གི་%s’གསར་འཛུགས་དང་འགོ་སྒྲིག་བྱེད་ཐབས་བྲལ།"
+
+msgid "Unable to get valid context for %s"
+msgstr "%s ལ་ནུས་ལྡན་གྱི་ཁོར་ཡུག་ཐོབ་ཐབས་བྲལ།"
+
+msgid "Unknown PAM error"
+msgstr "ངེས་མེད་ཀྱི་PAMནོར་འཁྲུལ།"
+
+msgid "Unknown error"
+msgstr "གསང་ཨང་རྙོག་འཛིང་ཚད་བླང་བྱ་དང་མི་མཐུན་པ།"
+
+msgid "Unknown user"
+msgstr "ངེས་མེད་ཀྱི་སྤྱོད་མཁན།"
+
+msgid "User account has expired"
+msgstr "སྤྱོད་མཁན་གྱི་རྩིས་ཐེམ་ནུས་པ་ཤོར་ཟིན་པ།"
+
+msgid "User credentials expired"
+msgstr "སྤྱོད་མཁན་གྱི་ཐོབ་ཐང་དཔང་ཡིག་ནུས་ཤོར་བྱུང་བ།"
+
+msgid "Verification mis-typed; password unchanged"
+msgstr "དག་བཤེར་རིགས་ཀྱི་ནོར་འཁྲུལ། གསང་ཨང་མ་བསྒྱུར་བ།"
+
+msgid "Warning: your password will expire in %d day"
+msgid_plural "Warning: your password will expire in %d days"
+msgstr[0] "ཐ་ཚིག ཁྱེད་ཀྱི་གསང་ཨང་ཉིན་ %d ཡི་རྗེས་སུ་དུས་ལས་ཡོལ་འདུག"
+msgstr[1] "ཐ་ཚིག ཁྱེད་ཀྱི་གསང་ཨང་ཉིན་ %d ཡི་རྗེས་སུ་དུས་ལས་ཡོལ་འདུག"
+
+msgid "Warning: your password will expire in %d days"
+msgstr "ཐ་ཚིག ཁྱེད་ཀྱི་གསང་ཨང་ཉིན་ %d ཡི་རྗེས་སུ་དུས་ལས་ཡོལ་འདུག"
+
+msgid "Welcome to your new account!"
+msgstr "རྩིས་ཐེམ་གསར་པ་བེད་སྤྱོད་པར་དགའ་བསུ་ཞུ།"
+
+msgid "Would you like to enter a different role or level?"
+msgstr "ཁྱེད་རང་འཁྲབ་བྱའི་མི་སྣ་དང་རིམ་པ་མི་འདྲ་བར་ཞུགས་འདོད་ཡོད་དམ།"
+
+msgid "You have mail in folder %s."
+msgstr "ཁྱེད་རང་ལ་ཡིག་སྣོད་ཀྱི་%sནང་དུ་ཡིག་ཟམ་འདུག"
+
+msgid "You have mail."
+msgstr "ཁྱོད་ལ་ཡིག་ཟམ་འདུག"
+
+msgid "You have new mail in folder %s."
+msgstr "ཁྱེད་རང་ལ་ཡིག་སྣོད་ཀྱི་%sནང་ཡིག་ཟམ་གསར་པ་འདུག"
+
+msgid "You have new mail."
+msgstr "ཁྱོད་ལ་ཡིག་ཟམ་གསར་བ་འདུག"
+
+msgid "You have no mail in folder %s."
+msgstr "ཁྱོད་ལ་ཡིག་ཆའི་སྣོད་ཀྱི་%s ནང་དུ་ཡིག་ཟམ་མེད།"
+
+msgid "You have old mail in folder %s."
+msgstr "ཁྱེད་རང་ལ་ཡིག་སྣོད་ཀྱི་%sནང་ཡིག་ཟམ་རྙིང་པ་འདུག"
+
+msgid "You have old mail."
+msgstr "ཁྱོད་ལ་འཕྲིན་ཡིག་རྙིང་བ་འདུག"
+
+msgid "case changes only"
+msgstr "ཡིག་གཟུགས་ཆེ་ཆུང་ཙམ་ལ་བཟོ་བཅོས་བྱས་པ།"
+
+msgid "contains the user name in some form"
+msgstr "རྣམ་པ་ཁ་ཤས་ཀྱི་ཐོག་ནས་སྤྱོད་མཁན་གྱི་མིང་ཚུད་པ་བྱོས།"
+
+msgid "contains too many same characters consecutively"
+msgstr "རྒྱུན་མཐུད་གཅིག་མཚུངས་ཀྱི་ཡིག་རྟགས་མང་དྲགས་པ།"
+
+msgid "erroneous conversation (%d)\n"
+msgstr "ནོར་འཁྲུལ་གྱི་བརྗེ་སྤོར་འདུག(%d)\n"
+
+msgid "is a palindrome"
+msgstr "ཡིག་ལན་རེད།"
+
+msgid "is rotated"
+msgstr "གསང་ཨང་རྙིང་པའི་འཁོར་སྐྱོད་ཡིན།"
+
+msgid "is the same as the old one"
+msgstr "གསང་ཨང་གསར་པ་དང་གསང་ཨང་རྙིང་པ་གཅིག་པ་རེད།"
+
+msgid "is too similar to the old one"
+msgstr "གསང་ཨང་རྙིང་པ་དང་འདྲ་དྲགས་པ།"
+
+msgid "is too simple"
+msgstr "སྟབས་བདེ་དྲགས་པ།"
+
+msgid "level:"
+msgstr "རིམ་པ།"
+
+msgid "login:"
+msgstr "ཐོ་འགོད།:"
+
+msgid "memory allocation error"
+msgstr "ནང་གསོག་བགོ་བ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "role:"
+msgstr "འཁྲབ་བྱའི་མི་སྣ།"

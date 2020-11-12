@@ -1,0 +1,273 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%s: ASSERT: Invalid option: %d\n"
+msgstr "%s: གསལ་བསྒྲགས།：ནུས་མེད་འདེམས་ཚན།： %d\n"
+
+msgid "%s: Could not allocate memory for subdomainbase mount point\n"
+msgstr "%s: བུ་ཁོངས་རྨང་མཐིལ་ལ་ཚེག་ནང་གསོག་བགོ་བཤའ་ནང་འཇུག་བྱེད་ཐབས་མེད།\n"
+
+msgid "%s: Errors found during postprocess.  Aborting.\n"
+msgstr "%s：རྗེས་ཀྱི་སྒྲིག་གཅོད་ལ་ནོར་འཁྲུལ་བྱུང་། མཚམས་འཇོག་པ།\n"
+
+msgid "%s: Errors found during postprocessing.  Aborting.\n"
+msgstr "%s：རྗེས་ཀྱི་སྒྲིག་གཅོད་ལ་ནོར་འཁྲུལ་བྱུང་། མཚམས་འཇོག་པ།\n"
+
+msgid "%s: Errors found during regex postprocess.  Aborting.\n"
+msgstr "%s： Regex རྗེས་ཀྱི་སྒྲིག་གཅོད་ལ་ནོར་འཁྲུལ་བྱུང་། མཚམས་འཇོག་པ།\n"
+
+msgid "%s: Errors found in combining rules postprocessing. Aborting.\n"
+msgstr ""
+"%s: "
+"སྡེབ་སྒྲིག་སྒྲིག་སྲོལ་སྒྲིག་གཅོད་རྗེས་མ་རུ་ནོར་འཁྲུལ་རྙེད་པས་མཚམས་འཇོག་བཞིན་ཡོད།\n"
+
+msgid "%s: Errors found in file. Aborting.\n"
+msgstr "%s: ཡིག་ཆའི་ཁྲོད་ནོར་འཁྲུལ་རྙེད་པས་མཚམས་འཇོག་བཞིན་ཡོད། \n"
+
+msgid "%s: Illegal open {, nesting groupings not allowed\n"
+msgstr ""
+"%s: ཁྲིམས་མཐུན་མིན་པའི་གཡོན་ཕྱོགས་ཀྱི་གུག་རྟགས་ཆེ་བ། "
+"{，ཚོ་དགོད་སྐོང་འཛུད་བྱས་མི་ཆོག \n"
+
+msgid "%s: Internal buffer overflow detected, %d characters exceeded\n"
+msgstr "\"%s: ནང་ཁུལ་ལྷོད་གཏོང་ཁུལ་བཤེར་འཇལ་ལུད་དེ་ཡིག་རྟགས་ %d ལས་བརྒལ། \n"
+
+msgid "%s: Regex grouping error: Invalid close }, no matching open { detected\n"
+msgstr ""
+"%s: Regex ཚོ་དགོད་ནོར་འཁྲུལ།：ནུས་མེད་ཀྱི་གཡས་ཕྱོགས་གུག་རྟགས། "
+"}，ཟླ་སྒྲིག་པའི་གཡོན་ཕྱོགས་གུག་རྟགས { བཤེར་འཇལ་བྱེད་མ་ཐུབ། \n"
+
+msgid "%s: Regex grouping error: Invalid number of items between {}\n"
+msgstr "%s: Regex ཚོ་དགོད་ནོར་འཁྲུལ།：{} ནང་གི་ལས་གཞི་གྲངས་ནུས་མེད་ཡིན། \n"
+
+msgid ""
+"%s: Regex grouping error: Unclosed grouping or character class, expecting "
+"close }\n"
+msgstr ""
+"%s: Regex ཚོ་བགོད་ནོར་འཁྲུལ། ཚོ་དང་ཡིག་རྟགས་ཁ་རྒྱབ་མེད། གུག་རྟགས་གཡས་མ་དགོས།"
+" }\n"
+
+msgid "%s: Unable to add \"%s\".  "
+msgstr "%s: ཁ་སྣོན་བྱེད་ཐབས་མེད། \"%s\""
+
+msgid "%s: Unable to parse input line '%s'\n"
+msgstr "%s: ནང་འཇུག་འཕྲེང་'%s' ལ་བརྡ་སྤྲོད་དབྱེ་ཞིབ་བྱེད་ཐབས་མེད། \n"
+
+msgid "%s: Unable to remove \"%s\".  "
+msgstr "%s: འདོར་ཐབས་མེད། \"%s\""
+
+msgid "%s: Unable to replace \"%s\".  "
+msgstr "%s: བརྗེ་ཐབས་མེད། \"%s\""
+
+msgid "%s: Unable to write entire profile entry\n"
+msgstr "%s: སྡེབ་སྒྲིག་ཡིག་ཆའི་ཚན་ཆ་ཚང་འབྲི་ཐབས་མེད། \n"
+
+msgid "%s: Unable to write to stdout\n"
+msgstr "%s:  stdout འབྲི་ཐབས་མེད། \n"
+
+msgid "(network_mode) Found unexpected character: '%s'"
+msgstr "(network_mode) བློ་ཡུལ་ལས་འདས་པའི་ཡིག་རྟགས་མཐོང་།“%s”"
+
+msgid "Addition succeeded for \"%s\".\n"
+msgstr "ཁ་སྣོན\"%s\"ལེགས་འགྲུབ། \n"
+
+msgid "AppArmor parser error: %s\n"
+msgstr "AppArmor བརྡ་སྤྲོད་དབྱེ་ཞིབ་ནོར་འཁྲུལ།：%s\n"
+
+msgid "Assert: 'hat rule' returned NULL."
+msgstr "གསལ་བསྒྲགས།：'hat rule' དེ་ NULL ལ་ཕྱིར་ལོག་པ།"
+
+msgid "Assert: 'local_profile rule' returned NULL."
+msgstr "གསལ་བསྒྲགས། “local_profile rule”ཡིས NULLལོག"
+
+msgid "Assert: `change_profile' returned NULL."
+msgstr "གསལ་བསྒྲགས། “change_profile”ཡིས་ NULLལོག "
+
+msgid "Assert: `network_rule' return invalid protocol."
+msgstr "གསལ་བསྒྲགས། “network_rule”ཡིས་ནུས་མེད་ཆིངས་ཡིག་ལོག"
+
+msgid "Assert: `rule' returned NULL."
+msgstr "གསལ་བསྒྲགས།：`rule'དེ་ NULL ལ་ཕྱིར་ལོག་པ།"
+
+msgid "Bad write position\n"
+msgstr "འབྲི་ཡུལ་ནུས་མེད། \n"
+
+msgid "Conflict 'a' and 'w' perms are mutually exclusive."
+msgstr "འགལ་བའི་“a”དང་“w”ཡི་ཆོག་ཆིངས་དབང་ཚད་འགལ་ཟླ་བྱུང་།"
+
+msgid "Couldn't merge entries. Out of Memory\n"
+msgstr "མཉམ་སྒྲིལ་བྱེད་ཐབས་མེད་དེ་ནང་གསོག་མི་འདང་།\n"
+
+msgid "ERROR adding hat access rule for profile %s\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་ %sལ་ hat ལྟ་སྤྱོད་ཆོས་ཉིད་སྣོན་སྐབས་ནོར་བ\n"
+
+msgid "ERROR expanding variables for profile %s, failed to load\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་ %sཡི་འགྱུར་ཚད་སྐྱེད་སྐབས་ནོར་བ། འཇུག་མི་ཐུབ།\n"
+
+msgid "ERROR in profile %s, failed to load\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ %s ཁྲོད་ནོར་འཁྲུལ་ལྡན་པས་འཇུག་འགེལ་བྱེད་མ་ཐུབ། \n"
+
+msgid "ERROR merging rules for profile %s, failed to load\n"
+msgstr ""
+"སྡེབ་སྒྲིག་ཡིག་ཆ་ %sཡི་ཆོས་ཉིད་ཟླ་སྒྲིག་སྐབས་ནོར་འཁྲུལ་བྱུང་། འཇུག་མི་ཐུབ།\n"
+
+msgid "ERROR processing regexs for profile %s, failed to load\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་ %s ཡི regexསྒྲིག་གཅོད་སྐབས་སུ་ནོར་བ། འཇུག་མི་ཐུབ།\n"
+
+msgid "Error: Could not add directory %s to search path.\n"
+msgstr "ནོར་འཁྲུལ། དཀར་ཆག་ %sའཚོལ་བའི་འགྲོ་ལམ་དུ་སྣོན།\n"
+
+msgid "Error: Could not allocate memory.\n"
+msgstr "ནོར་འཁྲུལ། ནང་གསོག་བགོད་མི་ཐུབ།\n"
+
+msgid "Error: Could not read profile %s: %s.\n"
+msgstr "ནོར་འཁྲུལ། སྡེབ་སྒྲིག་ཡིག་ཆ་ %s: %sཀློག་མི་ཐུབ།\n"
+
+msgid "Error: Out of memory.\n"
+msgstr "ནོར་འཁྲུལ། ནང་གསོག་མི་འདང་\n"
+
+msgid "Error: basedir %s is not a directory, skipping.\n"
+msgstr "ནོར་འཁྲུལ། basedir %s ནི་དཀར་ཆག་མིན། མཆོང་བཞིན་པ།\n"
+
+msgid "Exec qualifier '%c%c' invalid, conflicting qualifier already specified"
+msgstr ""
+"ལག་བསྟར་ཚད་བཀག་རྟགས་“%c%c”ནུས་མེད། དེ་ནི་དམིགས་པའི་ཚད་བཀག་རྟགས་དང་འགལ་བ།"
+
+msgid "Exec qualifier '%c' invalid, conflicting qualifier already specified"
+msgstr "Exec ཚད་བཀག་རྟགས་“%c”ནུས་མེད། འགལ་བའི་ཚད་བཀག་རྟགས་ཤིག་དང་འགལ།"
+
+msgid "Exec qualifier 'i' invalid, conflicting qualifier already specified"
+msgstr ""
+"Exec ཚད་བཅད་རྟགས་'i'ནུས་མེད་ཡིན། "
+"དེ་དང་སགལ་ཟླ་ཡོད་པའི་ཚད་བཅད་རྟགས་དམིགས་འཛུགས་བྱས་ཟིན།"
+
+msgid "Failed to create alias %s -> %s\n"
+msgstr "མིང་གཞན་གསར་བཟོ་མི་ཐུབ་%s -> %s\n"
+
+msgid "Found unexpected character: '%s'"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་རྟགས་རྙེད་པ།： '%s'"
+
+msgid "Internal error generated invalid perm 0x%llx\n"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ་གྱིས་ནུས་མེད་ཀྱི་དབང་ཚད་ཐོན། 0x%llx\n"
+
+msgid "Internal: unexpected mode character '%c' in input"
+msgstr "ནང་ཁུལ། ནང་འཇུག་ཏུ་བློ་ཡུལ་ལས་འདས་པའི་ཡིག་རྟགས་འདུག“%c”"
+
+msgid "Invalid capability %s."
+msgstr "བྱེད་ནུས་ %s ནུས་མེད།"
+
+msgid ""
+"Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', 'c', or 'u'"
+msgstr ""
+"རྣམ་པ་ནུས་མེད། "
+"“x”ནི་ངེས་པར་དུ་ཚད་བཀག་རྟགས་“i”、“p”、“c”ཡང་ན“u”ལག་བསྟར་བྱས་རྗེས་སུ་གནས་དགོས།"
+
+msgid "Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', or 'u'"
+msgstr ""
+"བྱེད་སྟངས་ནུས་མེད། “x”ངེས་པར་དུ execཡི ཚད་བཀག་རྟགས་“i”、“p”ཡང་ན“u”ཡོད་དགོས།"
+
+msgid ""
+"Invalid mode, in deny rules 'x' must not be preceded by exec qualifier 'i', "
+"'p', or 'u'"
+msgstr ""
+"རྣམ་པ་ནུས་མེད། "
+"ཟློག་པ་ཆོས་ཉིད་ལས།“x”ནི་ཚད་བཀག་རྟགས་“i”、“p”ཡང་ན་“u”ལག་བསྟར་བྱས་རྗེས་སུ་གནས་མི་ཆོག"
+
+msgid "Invalid network entry."
+msgstr ""
+"ནུས་མེད་དྲ་བའི་ཚན།དྲ་རྒྱའི་ཚན་པར་ནུས་པ་མེད། "
+"༄༅།ཀྲུང་གོའི་གུང་ཁྲན་ཏང་གི་རྒྱལ་ཡོངས་འཐུས་མིའི་ཚོགས་ཆེན་ཐེངས་"
+
+msgid "Invalid profile flag: %s."
+msgstr ""
+"ནུས་མེད་ཀྱི་སྡེབ་སྒྲིག་ཡིག་ཆ་མཚོན་རྟགས།%sརྩིས་འགྲོ་མེད་པའི་སྒྲིག་སྦྱོར་ཡིག་ཆའི་མཚོན་རྟགས།%s"
+" ༄༅།ཀྲུང་གོའི་གུང་ཁྲན་ཏང་གི་རྒྱལ་ཡོངས་འཐུས་མིའི་ཚོགས་ཆེན་ཐེངས་"
+
+msgid "Memory Allocation Error: Unable to remove %s:%s."
+msgstr ""
+"ནང་གསོག་བགོད་པ་ནོར་འཁྲུལ།  "
+"%s:%sའདོར་མི་ཐུབ།ནང་གསོག་བགོ་བཤའ་ནོར་འཁྲུལ།%sསྟེ།%sའདོར་མི་ཐུབ། "
+"༄༅།ཀྲུང་གོའི་གུང་ཁྲན་ཏང་གི་རྒྱལ་ཡོངས་འཐུས་མིའི་ཚོགས་ཆེན་ཐེངས་"
+
+msgid "Memory Allocation Error: Unable to remove ^%s\n"
+msgstr ""
+"ནང་གསོག་བགོད་པ་ནོར་འཁྲུལ།  ^%sའདོར་མི་ཐུབ།\n"
+"ནང་གསོག་བགོ་འགྲེམས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Memory allocation error."
+msgstr "ནང་གསོག་བགོ་བཤའ་ནོར་འདུག"
+
+msgid "Out of memory\n"
+msgstr "ནང་གསོག་མི་འདང་བ། \n"
+
+msgid "PANIC bad increment buffer %p pos %p ext %p size %d res %p\n"
+msgstr ""
+"PANIC ནུས་མེད་ཀྱི་རིམ་འཕར་ལྷོད་གཏོང་ཁུལ།：%p pos %p ext %p size %d res %p\n"
+
+msgid "Permission denied\n"
+msgstr "དབང་ཚད་མི་འདང་\n"
+
+msgid "Profile already exists\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་གནས་ཟིན། \n"
+
+msgid "Profile does not match signature\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་དང་མིང་རྟགས་ཟླ་སྒྲིག་མིན།\n"
+
+msgid "Profile doesn't conform to protocol\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆས་གྲོས་ཆིངས་བརྩི་སྲུང་བྱས་མེད། \n"
+
+msgid "Profile doesn't exist\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་གནས་མེད། \n"
+
+msgid "Profile flag 'debug' is no longer valid."
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་མཚོན་རྟགས་“debug”ནུས་མེད་པ།"
+
+msgid "Profile version not supported by Apparmor module\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་པར་གཞི་དཔེ་དུམ Apparmorཡིས་རྒྱབ་སྐྱོར་མི་བྱེད།\n"
+
+msgid "Removal succeeded for \"%s\".\n"
+msgstr "\"%s\"རྒྱལ་ཁའི་ངང་དོར་བ། \n"
+
+msgid "Replacement succeeded for \"%s\".\n"
+msgstr "\"%s\"རྒྱལ་ཁའི་ངང་བརྗེ་བ། \n"
+
+msgid "Unable to open %s - %s\n"
+msgstr " %s － %s ཁ་ཕྱེ་ཐབས་མེད། \n"
+
+msgid "Unset boolean variable %s used in if-expression"
+msgstr "བཀོད་པའི་ifམཚུངས་ཚུལ་ནང་གི་པོ་ཨར་འགྱུར་ཚད་ %sལེན་པ།"
+
+msgid "link and exec perms conflict on a file rule using ->"
+msgstr ""
+"སྦྲེལ་མཐུད་དང་ལག་བསྟར་དབང་ཚད་འགལ་བ། "
+"དེ་ནི་ཡིག་ཆའི་སྒྲིག་སྲོལ་བཀོལ་བ་ཞིག་གིས་རྐྱེན། ->"
+
+msgid "link perms are not allowed on a named profile transition.\n"
+msgstr ""
+"མིང་འདོགས་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ་སྒྱུར་བར་སྦྲེལ་མཐུད་དབང་ཚད་སྤྲོད་མི་ཆོག\n"
+
+msgid "missing an end of line character? (entry: %s)"
+msgstr "ཕྲེང་མཐོག་སྒྲིལ་ཡིག་རྟགས་ཆད་ཡོད་དམ།（ཚན་པ།：%s）"
+
+msgid "subset can only be used with link rules."
+msgstr "བུ་ཚོགས་ཀྱིས་སྦྲེལ་མཐུད་སྒྲིག་སྲོལ་མ་གཏོགས་སྤྱོད་མི་ཆོག"
+
+msgid "unable to create work area\n"
+msgstr "ལས་བྱེད་ཁུལ་ཁོངས་གསར་འཛུགས་བྱེད་ཐབས་མེད། \n"
+
+msgid "unable to serialize profile %s\n"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་གོ་རིམ་ཅན་སྒྲིག་ཐབས་མེད།  %s\n"
+
+msgid "unsafe rule missing exec permissions"
+msgstr "བདེ་འཇགས་མིན་པའི་སྒྲིག་སྲོལ་ལ་ execཆོག་འཐུས་དབང་ཚད་མེད།"

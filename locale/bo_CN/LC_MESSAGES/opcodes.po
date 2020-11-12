@@ -1,0 +1,357 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "  addr16      Assume 16bit address size\n"
+msgstr "addr16      གྲངས་གནས 16 གི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
+
+msgid "  addr32      Assume 32bit address size\n"
+msgstr "addr32      གྲངས་གནས 32 ཀྱི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
+
+msgid "  addr64      Assume 64bit address size\n"
+msgstr "addr64     གྲངས་གནས 64 ཡི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
+
+msgid "  att         Display instruction in AT&T syntax\n"
+msgstr "att          AT&T བརྡ་སྤྲོད་སྤྱད་ནས་བཀའ་བརྡ་མངོན་པ། \n"
+
+msgid "  data16      Assume 16bit data size\n"
+msgstr "data16      གྲངས་གནས 16 གི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
+
+msgid "  data32      Assume 32bit data size\n"
+msgstr "data32      གྲངས་གནས 32 ཀྱི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
+
+msgid "  esa         Disassemble in ESA architecture mode\n"
+msgstr "esa         ESA སྒྲོམ་གཞི་རྣམ་པའི་འོག་ཕྱོགས་སྒྲིག་ལྡོག་པ། \n"
+
+msgid "  i8086       Disassemble in 16bit mode\n"
+msgstr "i8086      གྲངས་གནས 16 གི་རྣམ་པའི་འོག་ཕྱོགས་སྒྲིག་ལྡོག་པ། \n"
+
+msgid "  intel       Display instruction in Intel syntax\n"
+msgstr "intel        Intel བརྡ་སྤྲོད་སྤྱད་ནས་བཀའ་བརྡ་མངོན་པ། \n"
+
+msgid "  suffix      Always display instruction suffix in AT&T syntax\n"
+msgstr ""
+"suffix       AT&T བརྡ་སྤྲོད་ཁྲོད་དུས་རྟག་ཏུ་བཀའ་བརྡའི་རྗེས་འཇུག་མངོན་པ། \n"
+
+msgid "# <dis error: %08lx>"
+msgstr "# <ཕྱོགས་སྒྲིག་ལྡོག་པ་ནོར་འཁྲུལ།: %08lx>"
+
+msgid "$<undefined>"
+msgstr "$<མཚན་ཉིད་བཞག་མེད།>"
+
+msgid "%02x\t\t*unknown*"
+msgstr "%02x\t\t*ངེས་མེད།*"
+
+msgid "%dsp16() takes a symbolic address, not a number"
+msgstr "%dsp16() རྟགས་ཀྱི་ཤག་གནས་ཤིག་སྤྱོད་པ་ལས་གྲངས་ཀ་མིན།"
+
+msgid "%s: Error: "
+msgstr "%s：ནོར་འཁྲུལ།"
+
+msgid "'ROR' operator not allowed"
+msgstr " 'ROR' བཀོལ་སྤྱོད་རྟགས་མི་རུང་བ།"
+
+msgid "(DP) offset out of range."
+msgstr "(DP) ཡོ་སྤོར་ཚད་མཚམས་བརྒལ།"
+
+msgid "(unknown)"
+msgstr "( ངེས་མེད།)"
+
+msgid "*unknown*"
+msgstr "*ངེས་མེད།*"
+
+msgid "21-bit offset out of range"
+msgstr "རིང་ཚད་གནས 21 གི་ཡོ་སྤོར་ཚད་མཚམས་བརྒལ།"
+
+msgid "<function code %d>"
+msgstr "<རྟེན་འབྱུང་གྲངས་ཚབ་ཨང་ %d>"
+
+msgid "<illegal precision>"
+msgstr "<ཁྲིམས་འགལ་གྱི་ཞིབ་ཚད>"
+
+msgid "<internal disassembler error>"
+msgstr "<ཕྱོགས་སྒྲིག་ལྡོག་ཆས་ནང་ཁུལ་ནོར་འཁྲུལ།>"
+
+msgid "<internal error in opcode table: %s %s>\n"
+msgstr "<བཀོལ་སྤྱོད་རེའུ་མིག་ཁྲོད་ནང་ཁུལ་ནོར་འཁྲུལ་བྱུང་བ།%s %s>\n"
+
+msgid "<unknown register %d>"
+msgstr "<ངེས་མེད་ཀྱི་བཅོལ་ཆས། %d>"
+
+msgid "Address 0x%s is out of bounds.\n"
+msgstr "ཤག་གནས་ 0x%s མཚམས་བརྒལ།  \n"
+
+msgid "Bad immediate expression"
+msgstr "ནོར་འཁྲུལ་གྱི་འཕྲལ་གྲངས་མཚོན་ཚུལ།"
+
+msgid "Bad register in postincrement"
+msgstr "སྔོན་སྒྲིག་རང་འཕེལ་ཁྲོད་ནོར་འཁྲུལ་གྱི་བཅོལ་ཆས་སྤྱད་པ།"
+
+msgid "Bad register in preincrement"
+msgstr "རྗེས་སྒྲིག་རང་འཕེལ་ཁྲོད་ནོར་འཁྲུལ་གྱི་བཅོལ་ཆས་སྤྱད་པ།"
+
+msgid "Bad register name"
+msgstr "ཁྲོད་ནོར་འཁྲུལ་གྱི་བཅོལ་ཆས་མིང་།"
+
+msgid "Don't know how to specify # dependency %s\n"
+msgstr "ཇི་ལྟར # རྟེན་བཅོལ་དམིགས་འཛུགས་བྱེད་དགོས་པ་མི་ཤེས། %s\n"
+
+msgid "Hmmmm 0x%x"
+msgstr "ཡཱེ... 0x%x"
+
+msgid "Immediate is out of range -128 to 127"
+msgstr "འཕྲལ་གྲངས་མཚམས་བརྒལ།（_128 ནས 127)"
+
+msgid "Internal disassembler error"
+msgstr "ཕྱོགས་སྒྲིག་ལྡོག་ཆས་ནང་ཁུལ་ནོར་འཁྲུལ།"
+
+msgid "Internal error:  bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།：ནོར་འཁྲུལ་གྱི sparc-opcode.h：“%s”，%#.8lx，%#.8lx\n"
+
+msgid "Internal error: bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།：ནོར་འཁྲུལ་གྱི sparc-opcode.h：“%s”，%#.8lx，%#.8lx\n"
+
+msgid "Label conflicts with `Rx'"
+msgstr "ཨང་རྟགས་དང་‘Rx’འགལ་ཟླ་ཡིན།"
+
+msgid "Label conflicts with register name"
+msgstr "ཨང་རྟགས་དང་བཅོལ་ཆས་མིང་འགལ་ཟླ་ཡིན།"
+
+msgid "Missing '#' prefix"
+msgstr " '#' སྔོན་འཇུག་ཆད་པ།"
+
+msgid "Operand is not a symbol"
+msgstr "བཀོལ་སྤྱོད་གྲངས་ནི་མཚོན་རྟགས་ཤིག་མིན།"
+
+msgid "SR/SelID is out of range"
+msgstr "SR/SelID མཚམས་བརྒལ།"
+
+msgid "Syntax error: No trailing ')'"
+msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ།：མཇུག་མེད་པ།"
+
+msgid "Unknown error %d\n"
+msgstr "ངེས་མེད་ནོར་འཁྲུལ། %d\n"
+
+msgid "Unrecognised disassembler option: %s\n"
+msgstr "ངོས་འཛིན་ཐབས་མེད་པའི་ཕྱོགས་སྒྲིག་ལྡོག་ཆས་འདེམས་ཚན།：%s\n"
+
+msgid "Unrecognised register name set: %s\n"
+msgstr "ངོས་འཛིན་ཐབས་མེད་པའི་ཕྱོགས་སྒྲིག་ལྡོག་ཆས་མིང་ཚོགས།：%s\n"
+
+msgid "Unrecognized field %d while building insn.\n"
+msgstr "insn གསར་འཛུགས་བྱེད་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d དང་འཕྲད་པ། \n"
+
+msgid "Unrecognized field %d while decoding insn.\n"
+msgstr "insn ཨང་དགྲོལ་བྱེད་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d དང་འཕྲད་པ། \n"
+
+msgid "Unrecognized field %d while getting int operand.\n"
+msgstr ""
+"int བཀོལ་སྤྱོད་གྲངས་ཐོབ་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ %d དང་འཕྲད་པ། \n"
+
+msgid "Unrecognized field %d while getting vma operand.\n"
+msgstr ""
+"vma བཀོལ་སྤྱོད་གྲངས་ཐོབ་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d དང་འཕྲད་པ། \n"
+
+msgid "Unrecognized field %d while printing insn.\n"
+msgstr "insn པར་རྒྱག་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d དང་འཕྲད་པ། \n"
+
+msgid "Unrecognized field %d while setting int operand.\n"
+msgstr ""
+"int  བཀོལ་སྤྱོད་གྲངས་སྒྲིག་འགོད་བྱེད་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d "
+"དང་འཕྲད་པ། \n"
+
+msgid "Unrecognized field %d while setting vma operand.\n"
+msgstr ""
+"vma བཀོལ་སྤྱོད་གྲངས་སྒྲིག་འགོད་བྱེད་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d "
+"དང་འཕྲད་པ། \n"
+
+msgid "Value is not aligned enough"
+msgstr "གྲངས་ཐང་སྙོམ་ཚད་མི་འདང་།"
+
+msgid "W keyword invalid in FR operand slot."
+msgstr "W གནད་ཡིག་ནི་ཁྲིམས་འགལ་ཡིན་པ་དང་།  FR བཀོལ་སྤྱོད་གྲངས་ཤུར་གནས་སུ་ཡོད།"
+
+msgid "W register expected"
+msgstr "སྔོན་དཔག་གི་Wབཅོལ་ཆས།"
+
+msgid "address writeback expected"
+msgstr "སྔོན་དཔག་གི་ཤག་གནས་ཕྱིར་བྲིས།"
+
+msgid "bad instruction `%.50s'"
+msgstr "ནོར་འཁྲུལ་གྱི་བཀའ་བརྡ‘%.50s’"
+
+msgid "bad instruction `%.50s...'"
+msgstr "ནོར་འཁྲུལ་གྱི་བཀའ་བརྡ‘%.50s...’"
+
+msgid "branch operand unaligned"
+msgstr "ཡན་ལག་བཀོལ་སྤྱོད་གྲངས་དོ་མ་མཉམ།"
+
+msgid "branch to odd offset"
+msgstr "མཆོང་བའི་ཡོ་སྤོར་ཚད་ནི་ཡ་གྲངས་ཡིན།"
+
+msgid "branch value not in range and to odd offset"
+msgstr "མཆོང་བའི་མཚམས་བརྒལ་དང་མཆོང་བའི་ཡོ་སྤོར་ཚད་ནི་ཡ་གྲངས་ཡིན།"
+
+msgid "branch value out of range"
+msgstr "མཆོང་ནས་མཐའ་མཚམས་བརྒལ་བ།"
+
+msgid "displacement value is not aligned"
+msgstr "ཡོ་སྤོ་ཐང་སྙོམ་མེད།"
+
+msgid "displacement value is out of range"
+msgstr "ཡོ་སྤོ་ཐང་བརྒལ་བ།"
+
+msgid "don't know how to specify %% dependency %s\n"
+msgstr "ཇི་ལྟར %% རྟེན་བཅོལ་དམིགས་འཛུགས་བྱེད་པ་མི་ཤེས། %s\n"
+
+msgid "dsp:16 immediate is out of range"
+msgstr "dsp:16 འཕྲལ་གྲངས་མཚམས་བརྒལ།"
+
+msgid "extraneous register"
+msgstr "བཅོལ་ཆས་ལྷག་མ།"
+
+msgid "floating-point immediate expected"
+msgstr "སྔོན་དཔག་གི་འཕྱོ་ཚེག་རྒྱུན་ཚད་འཕྲལ་གྲངས།"
+
+msgid "illegal bitmask"
+msgstr "ཁྲིམས་འགལ་གྱི་གནས་གབ་ཨང་།"
+
+msgid "illegal use of parentheses"
+msgstr "གུག་རྟགས་སྤྱོད་སྟངས་ཁྲིམས་འགལ་ཡིན།"
+
+msgid "imm10 is out of range"
+msgstr "imm10 མཚམས་བརྒལ།"
+
+msgid "imm:6 immediate is out of range"
+msgstr "imm:6 འཕྲལ་གྲངས་མཚམས་བརྒལ།"
+
+msgid "immediate is out of range 0-7"
+msgstr "འཕྲལ་གྲངས་ཡོ་སྤོ། 0-7"
+
+msgid "immediate offset"
+msgstr "འཕྲལ་གྲངས་ཡོ་སྤོ།"
+
+msgid "immediate out of range"
+msgstr "འཕྲལ་གྲངས་མཚམས་བརྒལ།"
+
+msgid "immediate value"
+msgstr "འཕྲལ་གྲངས།"
+
+msgid "immediate value cannot be register"
+msgstr "འཕྲལ་གྲངས་བཅོལ་ཆས་ཡིན་མི་ཆོག"
+
+msgid "immediate value is out of range"
+msgstr "འཕྲལ་གྲངས་མཚམས་བརྒལ།"
+
+msgid "immediate value out of range"
+msgstr "འཕྲལ་གྲངས་མཚམས་བརྒལ།"
+
+msgid "invalid conditional option"
+msgstr "ནུས་མེད་ཀྱི་ཆ་རྐྱེན་འདེམས་ཚན།"
+
+msgid "invalid mask field"
+msgstr "ནུས་མེད་ཀྱི་གབ་ཨང་ཡིག་དུམ།"
+
+msgid "invalid register for stack adjustment"
+msgstr "དོས་ཁང་ལེགས་སྒྲིག་བྱེད་པར་བཀོལ་བའི་བཅོལ་ཆས་ནུས་མེད་ཡིན།"
+
+msgid "invalid register name"
+msgstr "ནུས་མེད་བཅོལ་ཆས་མིང་།"
+
+msgid "invalid register offset"
+msgstr "ནུས་མེད་ཀྱི་བཅོལ་ཆས་ཡོ་སྤོ་ཚད།"
+
+msgid "invalid shift amount"
+msgstr "ནུས་མེད་ཀྱི་གནས་སྤོའི་བཀོལ་སྤྱོད་གྲངས།"
+
+msgid "invalid shift operator"
+msgstr "ནུས་མེད་ཀྱི་གནས་སྤོའི་བཀོལ་སྤྱོད་རྟགས།"
+
+msgid "jump hint unaligned"
+msgstr "མཆོང་བའི་བརྡ་སྙོམ་མེད།"
+
+msgid "junk at end of line"
+msgstr "ཕྲེང་མཇུག་ཏུ་གད་སྙིགས་ཡིག་རྟགས་ཡོད།"
+
+msgid "missing mnemonic in syntax string"
+msgstr "བརྡ་སྤྲོད་ཡིག་རྟགས་ཕྲེང་དུ་བློར་འཛིན་རོགས་རྟགས་མེད།"
+
+msgid "missing register"
+msgstr "བཅོལ་ཆས་ཆད་ཤོར།"
+
+msgid "negative immediate value not allowed"
+msgstr "འཕྲལ་གྲངས་ལྡོག་མ་མི་རུང་།"
+
+msgid "negative or unaligned offset expected"
+msgstr "སྔོན་དཔག་གི་ལྡོག་པའམ་ཡང་ན་མ་སྙོམ་པའི་ཡོ་སྤོར་ཚད།"
+
+msgid "operand out of range (%ld not between %ld and %ld)"
+msgstr "བཀོལ་སྤྱོད་གྲངས་མཚམས་བརྒལ། (%ld དེ་  %ld དང་ %ld བར་ན་མེད།)"
+
+msgid "register element index"
+msgstr "བཅོལ་ཆས་གཞི་རྒྱུའི་ཞབས་རྟགས།"
+
+msgid "register number"
+msgstr "བཅོལ་ཆས་ཁ་གྲངས།"
+
+msgid "register number must be even"
+msgstr "བཅོལ་ཆས་གྲངས་ངེས་པར་དུ་ཆ་གྲངས་ཡིན་དགོས།"
+
+msgid "shift amount"
+msgstr "བཀོལ་སྤྱོད་གྲངས་གནས་སྤོ་བ།"
+
+msgid "shift amount expected to be 0 or 12"
+msgstr "གནས་སྤོའི་ཚད་ནི་ 0 དང་ཡང་ན་ 12 ཡིན།"
+
+msgid "shift amount should be a multiple of 16"
+msgstr "གནས་སྤོའི་ཚད་ནི་16གི་ལྡབ་གྲངས་ཡིན་དགོས།"
+
+msgid "shift operator expected"
+msgstr "སྔོན་དཔག་གི་གནས་སྤོ་བཀོལ་སྤྱོད་རྟགས།"
+
+msgid "stack pointer register expected"
+msgstr "སྔོན་དཔག་གི་དོས་ཁང་སྟོན་ཁབ་བཅོལ་ཆས།"
+
+msgid "syntax error (expected char `%c', found `%c')"
+msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ། (ཡིག་རྟགས‘%c’དགོས། ‘%c’ ཐོབ་པ།)"
+
+msgid "syntax error (expected char `%c', found end of instruction)"
+msgstr ""
+"བརྡ་སྤྲོད་ནོར་འཁྲུལ། (ཡིག་རྟགས‘%c’དགོས་མོད། བཀའ་བརྡའི་མཇུག་ཏུ་སླེབས་ཡོད།)"
+
+msgid "unable to change directory to \"%s\", errno = %s\n"
+msgstr "མིག་སྔའི་དཀར་ཆག་ “%s”ལ་བསྒྱུར་ཐབས་བྲལ་བ། errno = %s\n"
+
+msgid "undefined"
+msgstr "མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "unexpected address writeback"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཤག་གནས་ཕྱིར་འབྲི།"
+
+msgid "unknown"
+msgstr "ངེས་མེད།"
+
+msgid "unknown\t0x%02lx"
+msgstr "ངེས་མེད།\t0x%02lx"
+
+msgid "unknown constraint `%c'"
+msgstr "ངེས་མེད་ཀྱི་འཆིང་གཅུན།‘%c’"
+
+msgid "unrecognized form of instruction"
+msgstr "ངོས་འཛིན་ཐབས་མེད་པའི་བཀའ་བརྡའི་རྣམ་གཞག"
+
+msgid "unrecognized instruction"
+msgstr "ངོས་འཛིན་ཐབས་མེད་པའི་བཀའ་བརྡ།"
+
+msgid "vector5 is out of range"
+msgstr "vector5 མཚམས་བརྒལ།"

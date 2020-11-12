@@ -1,0 +1,939 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%s Block Device"
+msgstr "%s དུམ་བུ་སྒྲིག་ཆས།"
+
+msgid "%s Loop Device"
+msgstr "%s ཕྱིར་སྐོར་སྒྲིག་ཆས།"
+
+msgid "Apple Partition Map"
+msgstr "Appleཁུལ་བགོས་རྟེན་འཕྲོ།"
+
+msgid "Authentication is required to abort a SMART self-test on $(drive)"
+msgstr "$(drive) SMART རང་བཤེར་མཚམས་འཇོག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to activate swapspace on $(drive)"
+msgstr ""
+"$(drive) "
+"སྟེང་གི་བརྗེ་རེས་བགོ་ཁུལ་སྐུལ་སློང་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to add a device to a RAID array"
+msgstr "RAID གྲམ་པར་སྒྲིག་ཆས་སྣོན་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to add an entry to the /etc/crypttab file"
+msgstr "/etc/crypttab ཡིག་ཆའི་ནང་ཚན་པ་སྣོན་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to add an entry to the /etc/fstab file"
+msgstr "/etc/fstab ཡིག་ཆའི་ནང་ཚན་པ་སྣོན་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to cancel a job"
+msgstr "ལས་འགན་དོར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to cancel a job started by another user"
+msgstr ""
+"སྤྱོད་མཁན་གཞན་གྱིས་འགོ་སློང་བའི་ལས་འགན་དོར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to change the filesystem label on $(drive)"
+msgstr ""
+"$(drive) ཡི་ཡིག་ཆའི་རྒྱུད་ཁོངས་གདོང་འཛར་བསྒྱུར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to change the passphrase for an encrypted device"
+msgstr "གསང་སྡོམ་སྒྲིག་ཆས་ཀྱི་གསང་ལྡེ་སྒྱུར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to check power state for $(drive)"
+msgstr "$(drive) གློག་ཁུངས་རྣམ་པ་ཞིབ་བཤེར་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to check the power state"
+msgstr "གློག་ཁུང་རྣམ་པ་ཞིབ་བཤེར་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to configure settings for $(drive)"
+msgstr "$(drive) སྒྲིག་འགོད་སྡེབ་སྒྲིག་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to configure the write-intent bitmap on a RAID "
+"array"
+msgstr ""
+"RAID གྲམ་པའི་སྟེང་གི་  write-intent "
+"གནས་རིས་སྡེབ་སྒྲིག་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to create a RAID array"
+msgstr "RAID གྲམ་པ་གསར་འཛུགས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to create a partition on $(drive)"
+msgstr "$(drive) སྟེང་བགོ་ཁུལ་གསར་འཛུགས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to deactivate swapspace on $(drive)"
+msgstr ""
+"སྐུལ་སློང་ $(drive) "
+"སྟེང་གི་བགོ་ཁུལ་བརྗེ་རེས་དོར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to delete a loop device set up by another user"
+msgstr ""
+"སྤྱོད་མཁན་གཞན་གྱིས་གསར་འཛུགས་བྱས་པའི་ཕྱིར་སྐོར་སྒྲིག་ཆས་བསུབ་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to delete the loop device $(drive)"
+msgstr "ཕྱིར་སྐོར་སྒྲིག་ཆས $(drive) བསུབ་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to delete the partition $(drive)"
+msgstr "བགོ་ཁུལ་ $(drive)  བསུབ་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to disable SMART on $(drive)"
+msgstr "$(drive) སྟེང་ SMART འགོག་སྤྱོད་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to eject $(drive)"
+msgstr "$(drive) ཕྱིར་གཏོང་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to eject media"
+msgstr "སྨྱན་གཟུགས་ཕྱིར་གཏོང་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to eject media from a drive plugged into another "
+"seat"
+msgstr ""
+"ཤུར་གཞན་ཞིག་ཏུ་བཙུགས་པའི་སྐུལ་སློང་ཆས་ནས་སྨྱན་གཟུགས་གཏོང་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to enable SMART on $(drive)"
+msgstr "$(drive) སྟེང་ SMART སྤྱོད་འགོ་རྩོམ་པར་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to enable/disable SMART"
+msgstr "SMART སྤྱོད་འགོ་རྩོམ་པ/འགོག་སྤྱོད་པར་ར་སྤྲོདབྱེད་དགོས།"
+
+msgid "Authentication is required to format $(drive)"
+msgstr "$(drive) རྣམ་གཞག་ཅན་དུ་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to lock an encrypted device unlocked by another "
+"user"
+msgstr ""
+"སྤྱོད་མཁན་གཞན་གྱིས་སྒྲོག་གྲོལ་བའི་གསང་སྡོམ་སྒྲིག་ཆས་སྒྲོག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to lock the encrypted device $(drive) unlocked by"
+" another user"
+msgstr ""
+"སྤྱོད་མཁན་གཞན་གྱིས་སྒྲོག་གྲོལ་བའི་སྒྲིག་ཆས $(drive) "
+"སྒྲོག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to manage RAID arrays"
+msgstr "RAID གྲམ་པ་དོ་དམ་བྱེད་པར་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to manage swapspace"
+msgstr "བརྗེ་རེས་བར་སྟོང་དོ་དམ་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to modify a device"
+msgstr "དབང་ཆ་སྤྲད་ནས་སྒྲིག་ཆས་ལ་བཟོ་བཅོས་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to modify a device plugged into another seat"
+msgstr ""
+"ཤུར་གཞན་ཞིག་ཏུ་བཙུགས་པའི་སྒྲིག་ཆས་བཟོ་བཅོས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to modify a loop device set up by another user"
+msgstr ""
+"སྤྱོད་མཁན་གཞན་གྱིས་གསར་འཛུགས་བྱས་པའི་ཕྱིར་སྐོར་སྒྲིག་ཆས་བཟོ་བཅོས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to modify drive settings"
+msgstr "སྒྲིག་ཆས་སྒྲིག་འགོད་བཟོ་བཅོས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to modify system-wide configuration"
+msgstr ""
+"རྒྱུད་ཁོངས་ཁྱབས་ཁོངས་སྡེབ་སྒྲིག་བཟོ་བཅོས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to modify the /etc/crypttab file"
+msgstr "/etc/crypttab ཡིག་ཆ་བཟོ་བཅོས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to modify the /etc/fstab file"
+msgstr "/etc/fstab ཡིག་ཆ་བཟོ་བཅོས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to modify the loop device $(drive)"
+msgstr ""
+"ཕྱིར་སྐོར་སྒྲིག་ཆས $(drive) བཟོ་བཅོས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to modify the partition on device $(drive)"
+msgstr ""
+"སྒྲིག་ཆས $(drive) སྟེང་གི་བགོ་ཁུལ་བཟོ་བཅོས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to mount $(drive)"
+msgstr "$(drive) འདེགས་འགེལ་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to mount $(drive) referenced in the /etc/fstab "
+"file"
+msgstr ""
+"/etc/fstab ནང་སྤྱད་པའི་ $(drive) "
+"འདེགས་འགེལ་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to mount the filesystem"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་འདེགས་འགེལ་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to mount/unmount the filesystem"
+msgstr ""
+"ཡིག་ཆ་རྒྱུད་ཁོངས་འདེགས་འགེལ /བཤིག་དོར་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to open $(drive) for benchmarking"
+msgstr "$(drive) ཁ་ཕྱེ་ནས་གཤིས་ནུས་ཚད་ལེན་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to open $(drive) for reading"
+msgstr "$(drive) ཁ་ཕྱེ་ནས་ཀློག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to open $(drive) for writing"
+msgstr "$(drive) ཁ་ཕྱེ་ནས་འབྲི་འཇུག་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to open a device"
+msgstr "སྒྲིག་ཆས་ཁ་ཕྱེ་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to perform a secure erase of $(drive)"
+msgstr "བདེ་འཇགས་བསུབ་པ $(drive) ལག་བསྟར་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to power off $(drive)"
+msgstr "$(drive) ལ་གློག་གཅོད་པར་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to power off a drive"
+msgstr "སྐུལ་སློང་ཆས་ལ་གློག་གཅོད་པར་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to power off a drive plugged into another seat"
+msgstr ""
+"ཤུར་གཞན་ཞིག་ཏུ་བཙུགས་པའི་སྐུལ་སློང་ཆས་ལ་གློག་གཅོད་པར་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to put $(drive) in standby mode"
+msgstr "$(drive) དེ་སྒུག་པའི་རྣམ་པ་རུ་བསྒྱུར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to put a drive into standby mode"
+msgstr "སྐུལ་སློང་ཆས་སྒུག་པའི་རྣམ་པ་རུ་བསྒྱུར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to read system-level secrets"
+msgstr "རྒྱུད་ཁོངས་རིམ་པའི་གསང་པའི་ཆ་འཕྲིན་ཀློག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to remove a device from a RAID array"
+msgstr "RAID གྲམ་པའི་ནང་ནས་སྒྲིག་ཆས་སྤོར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to remove an entry from /etc/fstab file"
+msgstr "/etc/fstab ཡིག་ཆ་ནང་ནས་ཚན་པ་སྤོར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to remove an entry from the /etc/crypttab file"
+msgstr "/etc/crypttab ཡིག་ཆ་ནང་ནས་ཚན་པ་སྤོར་བར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to rescan $(drive)"
+msgstr "$(drive) ཡང་བསྐྱར་བཤར་འབེབས་བྱེད་པར་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to rescan a device"
+msgstr "སྒྲིག་ཆས་ཡང་བསྐྱར་བཤར་འབེབས་བྱེད་པར་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to retrieve secrets from system-wide "
+"configuration"
+msgstr ""
+"རྒྱུད་ཁོངས་ཁྱབ་ཁོངས་སྡེབ་སྒྲིག་ནང་ནས་གསང་བའི་ནང་དོན་ཐོབ་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to run a SMART self-test"
+msgstr "SMART རང་བཤེར་འཁོར་སྐྱོད་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to securely erase a hard disk"
+msgstr "བདེ་འཇགས་ཀྱིས་མཁྲེགས་སྡེར་བསུབ་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to set SMART data from a blob on $(drive)"
+msgstr ""
+"$(drive) སྟེང་གི་ blob ཡིས་ SMART "
+"གཞི་གྲངས་སྒྲིག་འགོད་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to set SMART data from blob"
+msgstr "blob ནས་ SMART གཞི་གྲངས་སྒྲིག་འགོད་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to set up a loop device"
+msgstr "ཕྱིར་སྐོར་སྒྲིག་ཆས་སྒྲིག་འཛུགས་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to start a RAID array"
+msgstr "RAID གྲམ་པ་འགོ་སློང་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to start a SMART self-test on $(drive)"
+msgstr "$(drive) SMART རང་བཤེར་འགོ་སློང་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to start/stop data scrubbing of a RAID array"
+msgstr ""
+"RAID "
+"གྲམ་པའི་གཞི་གྲངས་གཙང་སེལ་འགོ་སློང་/མཚམས་འཇོག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to stop a RAID array"
+msgstr "RAID གྲམ་པ་མཚམས་འཇོག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to unlock an encrypted device"
+msgstr "སྒྲིག་ཆས་སྒྲོག་གྲོལ་གསང་སྡོམ་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to unlock the encrypted device $(drive)"
+msgstr ""
+"སྒྲོག་གྲོལ་གསང་སྡོམ་བྱས་པའི་སྒྲིག་ཆས $(drive) ལ་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to unmount $(drive) referenced in the /etc/fstab "
+"file"
+msgstr ""
+"/etc/fstab ཡིག་ཆ་ནང་སྤྱད་པའི་ $(drive) "
+"བཤིག་དོར་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid ""
+"Authentication is required to unmount a filesystem mounted by another user"
+msgstr ""
+"སྤྱོད་མཁན་གཞན་གྱིས་འགེལ་འདེགས་བྱེད་པའི་ཡིག་ཆ་རྒྱུད་ཁོངས་བཤིག་དོར་བྱེད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to update SMART data"
+msgstr "SMART གཞི་གྲངས་གསར་བསྒྱུར་བྱེད་པ་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to update SMART data from $(drive)"
+msgstr "$(drive) ཡི་ SMART གཞི་གྲངས་སྤྱོད་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to wake up $(drive) from standby mode"
+msgstr "སྒུག་པའི་རྣམ་པ་ནས་ $(drive) གཉིད་དཀྲོག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Block Device"
+msgstr " དུམ་བུའི་སྒྲིག་ཆས།"
+
+msgid "Cancel job"
+msgstr "ལས་འགན་དོར་བ།"
+
+msgid "Cancel job started by another user"
+msgstr "སྤྱོད་མཁན་གཞན་གྱིས་འགོ་སློང་བའི་ལས་འགན་དོར་བ།"
+
+msgid "Change passphrase for an encrypted device"
+msgstr "གསང་སྡོམ་སྒྲིག་ཆས་ཀྱི་གསང་ལྡེ་བཟོ་བཅོས་བྱེད་པ།"
+
+msgid "Check power state"
+msgstr "གློག་ཁུང་རྣམ་པ་ཞིབ་བཤེར་བྱེད་པ།"
+
+msgid "Delete loop devices"
+msgstr "ཕྱིར་སྐོར་སྒྲིག་ཆས་བསུབ་པ།"
+
+msgid "Eject media"
+msgstr "སྨྱན་གཟུགས་ཕྱིར་གཏོང་།"
+
+msgid "Eject media from a drive attached to another seat"
+msgstr "ཤུར་གཞན་ཞིག་ཏུ་སྦྲེལ་བའི་སྐུལ་སློང་ཆས་ནང་གི་སྨྱན་གཟུགས་ཕྱིར་གཏོང་བ།"
+
+msgid "Eject media from a system drive"
+msgstr "རྒྱུད་ཁོངས་སྐུལ་སློང་ཆས་ནས་སྨྱན་གཟུགས་ཕྱིར་གཏོང་བར་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Enable/Disable SMART"
+msgstr "SMART སྤྱོད་འགོ་རྩོམ་པ/འགོག་སྤྱོད།"
+
+msgid "Formatting Device"
+msgstr "སྒྲིག་ཆས་རྣམ་པར་འཇོག་པ།"
+
+msgid "GUID Partition Table"
+msgstr "GUID བགོ་ཁུལ་རེའུ་མིག"
+
+msgid "Lock an encrypted device unlocked by another user"
+msgstr "སྤྱོད་མཁན་གཞན་གྱིས་སྒྲོག་གྲོལ་བའི་གསང་སྡོམ་སྒྲིག་ཆས་སྒྲོག་པ།"
+
+msgid "Loop Device"
+msgstr "ཕྱིར་སྐོར་སྒྲིག་ཆས།"
+
+msgid "Manage RAID arrays"
+msgstr "RAID གྲམ་སྟར་དོ་དམ།"
+
+msgid "Manage loop devices"
+msgstr "ཕྱིར་སྐོར་སྒྲིག་ཆས་དོ་དམ།"
+
+msgid "Manage swapspace"
+msgstr "བརྗེ་རེས་བར་སྟོང་དོ་དམ།"
+
+msgid "Master Boot Record"
+msgstr "སྣེ་ཁྲིད་ཟིན་ཐོ་གཙོ་བོ།"
+
+msgid "Modify a device"
+msgstr "སྒྲིག་ཆས་བཟོ་བཅོས།"
+
+msgid "Modify a system device"
+msgstr "རྒྱུད་ཁོངས་སྒྲིག་ཆས་བཟོ་བཅོས།"
+
+msgid "Modify drive settings"
+msgstr "སྐུལ་སློང་ཆས་སྒྲིག་འགོད་བཟོ་བཅོས།"
+
+msgid "Modify loop devices"
+msgstr "ཕྱིར་སྐོར་སྒྲིག་ཆས་བཟོ་བཅོས།"
+
+msgid "Modify system-wide configuration"
+msgstr "རྒྱུད་ཁོངས་ཁྱོན་ཡོངས་སྡེབ་སྒྲིག་བཟོ་བཅོས།"
+
+msgid "Mount a filesystem"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་འགེལ་འདེགས།"
+
+msgid "Mount a filesystem from a device plugged into another seat"
+msgstr "ཤུར་གནས་སྒྲིག་ཆས་གཞན་སྟེང་དུ་བཙུགས་པའི་ཡིག་ཆ་རྒྱུད་ཁོངས་འགེལ་འདེགས།"
+
+msgid "Mount a filesystem on a system device"
+msgstr "རྒྱུད་ཁོངས་སྒྲིག་ཆས་སྟེང་དུ་ཡིག་ཆ་རྒྱུད་ཁོངས་འགེལ་འདེགས་བྱེད་པ།"
+
+msgid ""
+"Mount/unmount filesystems defined in the fstab file with the x-udisks-auth "
+"option"
+msgstr ""
+"x-udisks-auth འདེམས་ཚན་སྤྱད་ནས་ fstab "
+"ནང་མཚན་ཉིད་བཞག་པའི་ཡིག་ཆ་རྒྱུད་ཁོངས་འགེལ་འདེགས་/ཕབ་འདོན་བྱེད་པ།"
+
+msgid "Open a device"
+msgstr "སྒྲིག་ཆས་ཁ་ཕྱེ་པ།"
+
+msgid "Open a system device"
+msgstr "རྒྱུད་ཁོངས་སྒྲིག་ཆས་ཁ་ཕྱེ་པ།"
+
+msgid "Power off a drive attached to another seat"
+msgstr "ཤུར་གཞན་ཞིག་ཏུ་སྦྲེལ་བའི་སྐུལ་སློང་ཆས་ལ་གློག་གཅོད་པ།"
+
+msgid "Power off a system drive"
+msgstr "རྒྱུད་ཁོངས་སྐུལ་སློང་ཆས་གློག་གཅོད་པ།"
+
+msgid "Power off drive"
+msgstr "སྐུལ་སློང་ཆས་གློག་གཅོད་པ།"
+
+msgid "Rescan a device"
+msgstr "སྒྲིག་ཆས་ཡང་བསྐྱར་བཤར་འབེབས་བྱེད་པ།"
+
+msgid "Run SMART self-test"
+msgstr "SMART རང་བཤེར་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "Securely erase a hard disk"
+msgstr "མཁྲེགས་སྡེར་བདེ་འཇགས་ངང་བསུབ་པ།"
+
+msgid "Send standby command"
+msgstr "སྒུག་སྡོད་བཀའ་བརྡ་སྐྱེལ་གཏོང་བྱེད་པ།"
+
+msgid "Send standby command to a system drive"
+msgstr "རྒྱུད་ཁོངས་སྐུལ་སློང་ཆས་ལ་སྒུག་སྡོད་བཀའ་བརྡ་སྐྱེལ་གཏོང་བྱེད་པ།"
+
+msgid "Send standby command to drive on other seat"
+msgstr ""
+"ཤུར་གནས་གཞན་པའི་སྟེང་གི་སྐུལ་སློང་ཆས་ལ་སྒུག་སྡོད་བཀའ་བརྡ་སྐྱེལ་གཏོང་བྱེད་པ།"
+
+msgid "Set SMART data from blob"
+msgstr "blob ནས་ SMART གཞི་གྲངས་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Unlock an encrypted device"
+msgstr "སྒྲིག་ཆས་སྒྲོག་གྲོལ་གསང་སྡོམ་བྱེད་པ།"
+
+msgid "Unlock an encrypted device plugged into another seat"
+msgstr "ཤུར་གནས་གཞན་དུ་བཙུགས་པའི་གསང་སྡོམ་སྒྲིག་ཆས་སྒྲོག་གྲོལ་བ།"
+
+msgid ""
+"Unlock an encrypted device specified in the crypttab file with the x-udisks-"
+"auth option"
+msgstr ""
+"x-udisks-auth འདེམས་ཚན་སྤཡད་ནས་ crypttab "
+"ཡིག་ཆའི་ནང་དམིགས་བཙུགས་པའི་གསང་སྡོམ་སྒྲིག་ཆས་སྒྲོག་གྲོལ་བ།"
+
+msgid "Unlock an encrypted system device"
+msgstr "གསང་སྡོམ་རྒྱུད་ཁོངས་སྒྲིག་ཆས་སྒྲོག་གྲོལ་བ།"
+
+msgid "Unmount a device mounted by another user"
+msgstr "སྤྱོད་མཁན་གཞན་གྱིས་འགེལ་འདེགས་བྱས་པའི་སྒྲིག་ཆས་བཤིག་འདོན་བྱེད་པ།"
+
+msgid "Update SMART data"
+msgstr "SMART གཞི་གྲངས་གསར་བསྒྱུར།"
+
+msgid "%s (%s bytes)"
+msgstr "%s(%s ཡིག་ཚིགས།)"
+
+msgid "%s (%s bytes)"
+msgstr "%s(%s ཡིག་ཚིགས།)"
+
+msgid "Blu-Ray"
+msgstr "འོད་སྔོན་འོད་སྡེར།"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "%s Hard Disk"
+msgstr "%s མཁྲེགས་སྡེར།"
+
+msgid "Hard Disk"
+msgstr "མཁྲེགས་སྡེར།"
+
+msgid "%s Disk"
+msgstr "%s སྡུད་སྡེར།"
+
+msgid "Disk"
+msgstr "རང་སའི་སྲ་སྡེར།"
+
+msgid "Bootable"
+msgstr "འགོ་སློང་རུང་།"
+
+msgid "%s Card Reader"
+msgstr "%s ཁཱ་ཀློག་ཆས།"
+
+msgid "%s Drive"
+msgstr "%s སྐུལ་སློང་ཆས།"
+
+msgid "%s Disk"
+msgstr "%s སྡུད་སྡེར།"
+
+msgid "%s Drive"
+msgstr "%s སྐུལ་སློང་ཆས།"
+
+msgid "%s %s Drive"
+msgstr "%s %s སྐུལ་སློང་ཆས།"
+
+msgid "%s Drive"
+msgstr "%s སྐུལ་སློང་ཆས།"
+
+msgid "%s Card"
+msgstr "%s ཁཱ།"
+
+msgid "Ext2 (version %s)"
+msgstr "Ext2(པར་གཞི %s)"
+
+msgid "Ext3 (version %s)"
+msgstr "Ext3(པར་གཞི %s)"
+
+msgid "Ext4 (version %s)"
+msgstr "Ext4(པར་གཞི %s)"
+
+msgid "FAT (12-bit version)"
+msgstr "FAT(པར་གཞི་གནས 12)"
+
+msgid "FAT (16-bit version)"
+msgstr "FAT(པར་གཞི་གནས 16)"
+
+msgid "FAT (32-bit version)"
+msgstr "FAT(པར་གཞི་གནས 32)"
+
+msgid "FAT (version %s)"
+msgstr "FAT(པར་གཞི  %s)"
+
+msgid "ISO 9660 (version %s)"
+msgstr "ISO 9660། (པར་གཞི  %s)"
+
+msgid "Journal for Ext"
+msgstr "Ext ཉིན་ཐོ།"
+
+msgid "Journal for Ext (version %s)"
+msgstr "Ext ཉིན་ཐོ། (པར་གཞི  %s)"
+
+msgid "LUKS Encryption"
+msgstr "LUKSགསང་སྡོམ།"
+
+msgid "LUKS Encryption (version %s)"
+msgstr "LUKSགསང་སྡོམ། (པར་གཞི  %s)"
+
+msgid "LVM2 PV"
+msgstr "LVM2 PV"
+
+msgid "LVM2 Physical Volume"
+msgstr "LVM2 དངོས་ལུགས་པོད་ཏི།"
+
+msgid "LVM2 Physical Volume (%s)"
+msgstr "LVM2 དངོས་ལུགས་པོད་ཏི། (%s)"
+
+msgid "Linux RAID Member"
+msgstr "Linux RAID ཁོངས་མི།"
+
+msgid "Linux RAID Member (version %s)"
+msgstr "Linux RAID ཁོངས་མི། (པར་གཞི %s)"
+
+msgid "NTFS (version %s)"
+msgstr "NTFS(པར་གཞི %s)"
+
+msgid "Swap (version %s)"
+msgstr "Swap(པར་གཞི %s)"
+
+msgid "UDF (version %s)"
+msgstr "UDF(པར་གཞི %s)"
+
+msgid "Unknown"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
+
+msgid "Unknown (%s %s)"
+msgstr "ངེས་མེད། (%s %s)"
+
+msgid "Unknown (%s)"
+msgstr "ངེས་མེད། (%s)"
+
+msgid "VMFS (version %s)"
+msgstr "VMFS(པར་གཞི %s)"
+
+msgid "VMFS Member (v%s)"
+msgstr "VMFS ཁོངས་མི། (v%s)"
+
+msgid "VMFS Volume Member"
+msgstr "VMFS པོད་ཏི་ཁོངས་མི།"
+
+msgid "VMFS Volume Member (version %s)"
+msgstr "VMFS པོད་ཏི་ཁོངས་མི། (པར་གཞི  %s)"
+
+msgid "XFS (version %s)"
+msgstr "XFS(པར་གཞི %s)"
+
+msgid "ZFS Device"
+msgstr "ZFS སྒྲིག་ཆས།"
+
+msgid "ZFS Device (ZPool version %s)"
+msgstr "ZFS སྒྲིག་ཆས། (ZPool པར་གཞི  %s)"
+
+msgid "exFAT (version %s)"
+msgstr "exFAT (པར་གཞི  %s)"
+
+msgid "Drive"
+msgstr "སྐུལ་སློང་ཆས།"
+
+msgid "Hidden"
+msgstr "གབ་པ།"
+
+msgid "Legacy BIOS Bootable"
+msgstr "རྣམ་རྙིང་ BIOS འགོ་སློང་རུང་།"
+
+msgid "No Automount"
+msgstr "རང་འགུལ་འགེལ་འདེགས་མི་བྱེད་པ།"
+
+msgid "Read-only"
+msgstr "ཀློག་ཙམ།"
+
+msgid "System"
+msgstr "རྒྱུད་ཁོངས།"
+
+msgid "ATA Secure Erase"
+msgstr "ATA བདེ་འཇགས་སུབ་པ།"
+
+msgid "Adding Device to Array"
+msgstr "སྒྲིག་ཆས་གྲམ་སྟར་དུ་ཁ་སྣོན་པ།"
+
+msgid "Cleaning Up"
+msgstr "གཙང་སེལ།"
+
+msgid "Creating Filesystem"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་གསར་འཛུགས"
+
+msgid "Creating Partition"
+msgstr "བགོ་ཁུལ་གསར་འཛུགས།"
+
+msgid "Creating RAID Array"
+msgstr "RAID གྲམ་སྟར་གསར་འཛུགས།"
+
+msgid "Deleting Partition"
+msgstr "བགོ་ཁུལ་བསུབ་པ།"
+
+msgid "Ejecting Medium"
+msgstr "སྨྱན་གཟུགས་ཕྱིར་གཏོང་།"
+
+msgid "Erasing Device"
+msgstr "སྒྲིག་ཆས་སུབ་པ།"
+
+msgid "Locking Device"
+msgstr "སྒྲིག་ཆས་དམིགས་བཙུགས།"
+
+msgid "Marking Device as Faulty"
+msgstr "སྒྲིག་ཆས་ནོར་འཁྲུལ་ཡོད་པར་མཚོན་རྟགས་བཀོད་པ།"
+
+msgid "Modifying Encrypted Device"
+msgstr "གསང་སྡོམ་སྒྲིག་ཆས་བཟོ་བཅོས།"
+
+msgid "Modifying Filesystem"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་བཟོ་བཅོས།"
+
+msgid "Modifying Partition"
+msgstr "བགོ་ཁུལ་བཟོ་བཅོས།"
+
+msgid "Mounting Filesystem"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་འགེལ་འདེགས།"
+
+msgid "Removing Device from Array"
+msgstr "གྲམ་སྟར་ཁྲོད་ནས་སྒྲིག་ཆས་སྤོ་བ།"
+
+msgid "SMART self-test"
+msgstr "SMART རང་བཤེར།"
+
+msgid "Setting Up Loop Device"
+msgstr "ཕྱིར་སྐོར་སྒྲིག་ཆས་སྒྲིག་འགོད།"
+
+msgid "Setting Write-Intent Bitmap"
+msgstr "Write-Intent གནས་རིས་སྒྲིག་འགོད།"
+
+msgid "Starting RAID Array"
+msgstr "RAID གྲམ་སྟར་འགོ་སློང་བ།"
+
+msgid "Starting Swap Device"
+msgstr "བརྗེ་རེས་སྒྲིག་ཆས་འགོ་སློང་བ།"
+
+msgid "Stopping RAID Array"
+msgstr "RAID གྲམ་སྟར་མཚམས་འཇོག"
+
+msgid "Stopping Swap Device"
+msgstr "བརྗེ་རེས་སྒྲིག་ཆས་མཚམས་འཇོག"
+
+msgid "Unlocking Device"
+msgstr "སྒྲིག་ཆས་སྒྲོག་གྲོལ།"
+
+msgid "Unmounting Filesystem"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་བཤིག་འདོན།"
+
+msgid "%s %s"
+msgstr "\"%s %s\""
+
+msgid "RAID Array"
+msgstr "RAIDགྲམ་སྟར།"
+
+msgid "Flash"
+msgstr "འོད་འཁྱུག་གློག་སྒྲོན།"
+
+msgid "Floppy"
+msgstr "མཉེན་སྡེར།"
+
+msgid "MemoryStick"
+msgstr "དྲན་ཤེས་དབྱུ་གུ།"
+
+msgid "SD High Capacity"
+msgstr "SDཤོང་ཚད་ཆེན་པོ།"
+
+msgid "SecureDigital"
+msgstr "SDཁཱ།"
+
+msgid "Blu-Ray"
+msgstr "འོད་སྔོན་འོད་སྡེར།"
+
+msgid "CD-R"
+msgstr "འབྲི་རུང་འོད་སྡེར།"
+
+msgid "CD-ROM"
+msgstr "ཀློག་ཙམ་འོད་སྡེར།"
+
+msgid "CD-RW"
+msgstr "བསྐྱར་འབྲི་རུང་བའི་འོད་སྡེར།"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R(འབྲི་རུང་།)"
+
+msgid "DVD+RW"
+msgstr "DVD+RW(བསྐྱར་འབྲི་བྱ་རུང་།)"
+
+msgid "DVD-R"
+msgstr "DVD-R(འབྲི་རུང་།)"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM(ཀློག་ཙམ།)"
+
+msgid "DVD-RW"
+msgstr "DVD-RW(བསྐྱར་འབྲི་བྱ་རུང་།)"
+
+msgid "Flash"
+msgstr "འོད་འཁྱུག་གློག་སྒྲོན།"
+
+msgid "Floppy"
+msgstr "མཉེན་སྡེར།"
+
+msgid "MemoryStick"
+msgstr "དྲན་ཤེས་དབྱུ་གུ།"
+
+msgid "Thumb"
+msgstr "Uསྡེར།"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s Disc"
+msgstr "%s འོད་སྡེར།"
+
+msgid "Audio %s"
+msgstr "སྒྲ་ཟློས་ %s"
+
+msgid "Blank %s"
+msgstr "སྟོང་པ་ %s"
+
+msgid "Mixed %s"
+msgstr "མཉམ་བསྲེས་ %s"
+
+msgid "Apple Boot"
+msgstr "Apple འགོ་སློང་ཁུལ།"
+
+msgid "Apple Core Storage"
+msgstr "Apple ནང་སྙིང་གསོག་ཇོག"
+
+msgid "Apple Label"
+msgstr "Apple ངོ་རྟགས་ཁུལ།"
+
+msgid "Apple Partition Map"
+msgstr "Appleཁུལ་བགོས་རྟེན་འཕྲོ།"
+
+msgid "Apple RAID (offline)"
+msgstr "Apple RAID(སྐུད་ལམ་དང་བྲལ་བ།)"
+
+msgid "Apple TV Recovery"
+msgstr "Apple TV སླར་གསོ་ཁུལ།"
+
+msgid "BIOS Boot"
+msgstr "BIOS འགོ་སློང་ཁུལ།"
+
+msgid "Basic Data"
+msgstr "རྨང་གཞིའི་གཞི་གྲངས།"
+
+msgid "ChromeOS Firmware"
+msgstr "ChromeOS མཁྲེགས་ལྷུ།"
+
+msgid "ChromeOS Kernel"
+msgstr "ChromeOS ནང་སྙིང་།"
+
+msgid "ChromeOS Reserved"
+msgstr "ChromeOS ཉར་ཚགས་ཁུལ།"
+
+msgid "ChromeOS Root Filesystem"
+msgstr "ChromeOS རྩ་བའི་ཡིག་ཆའི་རྒྱུད་ཁོངས།"
+
+msgid "Compaq diagnostics"
+msgstr "Compaq བརྟག་དཔྱད།"
+
+msgid "Driver"
+msgstr "སྐུལ་སློང་བྱ་རིམ།"
+
+msgid "EFI System"
+msgstr "EFI རྒྱུད་ཁོངས།"
+
+msgid "Empty"
+msgstr "སྟོང་པ།"
+
+msgid "Extended"
+msgstr "རྒྱ་སྐྱེད།"
+
+msgid "Extended Boot Partition"
+msgstr "རྒྱ་སྐྱེད་སྣེ་ཁྲིད་ཁུལ་བགོས།"
+
+msgid "FreeBSD Boot"
+msgstr "FreeBSD འགོ་སློང་ཁུལ།"
+
+msgid "FreeBSD Data"
+msgstr "FreeBSD གཞི་གྲངསཁུལ།"
+
+msgid "HP-UX Data"
+msgstr "HP-UX གཞི་གྲངསཁུལ།"
+
+msgid "HP-UX Service"
+msgstr "HP-UX ཞབས་ཞུ་ཁུལ།"
+
+msgid "Hibernation"
+msgstr "མལ་གསོ།"
+
+msgid "Hidden FAT12"
+msgstr "FAT12སྦེད་པ།"
+
+msgid "Hidden FAT16"
+msgstr "FAT16སྦེད་པ།"
+
+msgid "Hidden FAT16 <32M"
+msgstr "FAT16 <32Mསྦེད་པ།"
+
+msgid "Hidden HPFS/NTFS"
+msgstr "HPFS/NTFSསྦེད་པ།"
+
+msgid "Hidden W95 FAT16 (LBA)"
+msgstr "W95 FAT16(LBA)སྦེད་པ།"
+
+msgid "Hidden W95 FAT32"
+msgstr "W95 FAT32སྦེད་པ།"
+
+msgid "Hidden W95 FAT32 (LBA)"
+msgstr "W95 FAT32(LBA)སྦེད་པ།"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "Linux Extended"
+msgstr "Linux རྒྱ་སྐྱེད།"
+
+msgid "Linux Filesystem"
+msgstr "Linux ཡིག་ཆའི་རྒྱུད་ཁོངས།"
+
+msgid "Linux Home Partition"
+msgstr "Linux སྤྱོད་མཁན་དཀར་ཆག་ཁུལ་ལག"
+
+msgid "Linux LVM"
+msgstr "Linux LVM"
+
+msgid "Linux RAID"
+msgstr "Linux RAID"
+
+msgid "Linux RAID auto"
+msgstr "Linux RAID རང་འགུལ།"
+
+msgid "Linux Reserved"
+msgstr "Linux ཉར་ཚགས་ཁུལ།"
+
+msgid "Linux Root Partition (x86)"
+msgstr "Linux རྩ་བའི་ཁུལ་ལག (x86)"
+
+msgid "Linux Root Partition (x86_64)"
+msgstr "Linux རྩ་བའི་ཁུལ་ལག (x86_64)"
+
+msgid "Linux Server Data Partition"
+msgstr "Linux ཞབས་ཞུ་ཆས་ཀྱི་གཞི་གྲངས་ཁུལ་ལག"
+
+msgid "MBR Partition Scheme"
+msgstr "MBR ཁུལ་ལག་ཇུས་གཞི།"
+
+msgid "Microsoft LDM data"
+msgstr "Microsoft LDM གཞི་གྲངས།"
+
+msgid "Microsoft LDM metadata"
+msgstr "Microsoft LDM རྒྱུའི་གཞི་གྲངས།"
+
+msgid "Microsoft Reserved"
+msgstr "Microsoft ཉར་ཚགས་ཁུལ།"
+
+msgid "Microsoft Windows Recovery Environment"
+msgstr "Microsoft Windows ཁོར་ཡུག་སོར་ལོག"
+
+msgid "NetBSD Concatenated"
+msgstr "NetBSD འབྲེལ་ཁུལ།"
+
+msgid "NetBSD Encrypted"
+msgstr "NetBSD གསང་སྡོམ་ཁུལ།"
+
+msgid "ProDOS file system"
+msgstr "ProDOS ཡིག་ཆའི་རྒྱུད་ཁོངས།"
+
+msgid "Solaris Alternate Sector"
+msgstr "Solaris གཡབ་ཁུལ་བརྗེ་བ།"
+
+msgid "Solaris Boot"
+msgstr "Solaris འགོ་སློང་ཁུལ།"
+
+msgid "Solaris Reserved"
+msgstr "Solaris ཉར་ཚགས་ཁུལ།"
+
+msgid "Solaris boot"
+msgstr "Solaris འགོ་སློང་ཁུལ།"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Unknown"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
+
+msgid "Generic"
+msgstr "ཀུན་སྤྱོད།"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "Other"
+msgstr "གཞན་དག"
+
+msgid "Windows"
+msgstr " སྒེའུ་ཁུང་།"
+
+msgid "Unknown (%s)"
+msgstr "ངེས་མེད། (%s)"

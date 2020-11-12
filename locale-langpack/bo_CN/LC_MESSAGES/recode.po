@@ -1,0 +1,195 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " done\n"
+msgstr " ལེགས་འགྲུབ།\n"
+
+msgid " failed: %s in step `%s..%s'\n"
+msgstr " ཕམ་པ：%s གོ་རིམ་‘%s..%s’ནང་དུ་ཡོད།\n"
+
+msgid "%s failed: %s in step `%s..%s'"
+msgstr "%s ཕམ་པ：%s གོ་རིམ་‘%s..%s’ནང་དུ་ཡོད།"
+
+msgid "%s in step `%s..%s'"
+msgstr "%s གོ་རིམ་‘%s..%s’ནང་དུ་ཡོད།"
+
+msgid "%s to %s"
+msgstr "%s ནས་ %sལ།"
+
+msgid "%sfor sequence %s.%s"
+msgstr "%sནི་བརྗེ་སྒྱུར་རིགས་གྲས་ %s.%sཡིན།"
+
+msgid "*Unachievable*"
+msgstr "*སླེབས་མི་ཐུབ།*"
+
+msgid "*mere copy*"
+msgstr "*འདྲ་བཟོ་ཁོ་ན།*"
+
+msgid "Ambiguous output"
+msgstr "དོན་འགལ་ཡོད་པའི་ཕྱིར་འདོན།"
+
+msgid "Cannot complete table from set of known pairs"
+msgstr "ཤེས་པའི་རྟེན་འཕྲོ་ཚོགས་སུ་ཆ་ཚང་གི་བརྗེ་སྒྱུར་རེའུ་མིག་འགྲུབ་མི་ཐུབ།"
+
+msgid "Cannot invert given one-to-one table"
+msgstr "བྱིན་པའི་རེ་རེའི་ལྟོས་ཟླ་བརྗེ་སྒྱུར་རེའུ་མིག་གི་ལྡོག་བརྩི་མི་ཐུབ།"
+
+msgid "Cannot list `%s', no names available for this charset"
+msgstr "‘%s’འགྲེམས་མི་ཐུབ། ཡིག་རྟགས་ཚོགས་འདི་ལ་སྤྱོད་རུང་གི་ཡིག་རྟགས་མིང་མེད།"
+
+msgid "Charset %s already exists and is not %s"
+msgstr "ཡིག་རྟགས་ཚོགས %s ཡོད་ཀྱང་ %sམིན།"
+
+msgid "Charset `%s' is unknown or ambiguous"
+msgstr "ཡིག་རྟགས་ཚོགས‘%s’མི་ཤེས་པ་ཡང་ན་དོན་འགལ་ཡོད།"
+
+msgid "Child process wait status is 0x%0.2x"
+msgstr "བུའི་འཕེལ་རིམ་སྒུག་པའི་རྣམ་པ་ནི་ 0x%0.2xཡིན།"
+
+msgid "Codes %3d and %3d both recode to %3d"
+msgstr "ཚབ་ཨང་ %3d དང་ %3d ཡང་བསྐྱར་ཨང་སྒྲིག་ནི་%3dབྱ།"
+
+msgid "Dec  Oct Hex   UCS2  Mne  %s\n"
+msgstr "བཅུ། བརྒྱད། བཅུ་དྲུག UCS2  བློ་འཛིན་རོགས %s\n"
+
+msgid "Expecting `..' in request"
+msgstr "རེ་ཞུར་‘..’ཡོད་པ།"
+
+msgid "Following diagnostics for `%s' to `%s'"
+msgstr "‘%s’ལས‘%s’ཡི་བརྟག་དཔྱད་ཆ་འཕྲིན།"
+
+msgid "Format `%s' is ambiguous"
+msgstr "རྣམ་བཞག་‘%s’དོན་སྙིང་མི་གསལ་བ།"
+
+msgid "Format `%s' is unknown"
+msgstr "རྣམ་བཞག་‘%s’མི་ཤེས་པ།"
+
+msgid ""
+"Free `recode' converts files between various character sets and surfaces.\n"
+msgstr ""
+"རང་དབང་‘recode’ཡིས་ཡིག་ཆ་མི་འདྲ་བའི་ཡིག་རྟགས་ཚོགས་དང་ཕྱིའི་སྒྲིག་ཨང་བར་དུ་བརྗེ་སྒྱུར་བྱེད།\n"
+
+msgid "Identity recoding, not worth a table"
+msgstr "བརྟན་མཚུང་བརྗེ་སྒྱུར། བརྗེ་སྒྱུར་རེའུ་མིག་མི་དགོས།"
+
+msgid "Internal recoding bug"
+msgstr "ནང་ཁུལ་ཡང་བསྐྱར་སྒྲིག་ཨང་གི་སྐྱོན།"
+
+msgid ""
+"LN is some language, it may be `c', `perl' or `po'; `c' is the default.\n"
+msgstr ""
+"“སྐད་བརྡ”ནི་ཨང་སྒྲིག་ཅིག་གི་སྐད་བརྡ་ཡིན། དེ་ནི་‘c’ ‘perl’ཡང་ན་‘po’ཡིན་ཆོག "
+"‘c’ནི་སོར་བཞག་ཚད་ཡིན།\n"
+
+msgid "Language `%s' is ambiguous"
+msgstr "སྐད་བརྡ‘%s’དོན་སྙིང་མི་གསལ།"
+
+msgid "Language `%s' is unknown"
+msgstr "སྐད་བརྡ་‘%s’མི་ཤེས་པ།"
+
+msgid "Misuse of recoding library"
+msgstr "ཡང་བསྐྱར་སྒྲིག་ཨང་མཛོད་ཀྱི་སྤྱོད་པ་ཡང་དག་མིན།"
+
+msgid "No character recodes to %3d"
+msgstr "ཡིག་རྟགས་ཚོགས་ཨང་བསྐྱར་སྒྲིག་ནས་ %3dལ་མེད།"
+
+msgid "No error"
+msgstr "ནོར་འཁྲུལ་མེད།"
+
+msgid "No table to print"
+msgstr "པར་འདེབས་ཆོག་པའི་བརྗེ་སྒྱུར་རེའུ་མིག་མེད།"
+
+msgid "No way to recode from `%s' to `%s'"
+msgstr "‘%s’ལས་ཨང་བསྐྱར་སྒྲིག་‘%s’ལ་བརྒྱུད་ལམ་མེད།"
+
+msgid "Non canonical input"
+msgstr "ཚད་ལྡན་མིན་པའི་ནང་འཇུག"
+
+msgid "Pair no. %d: <%3d, %3d> conflicts with <%3d, %3d>"
+msgstr "ཨང %d ཡི་རྟེན་འཕྲོ：<%3d，%3d> དང་ <%3d，%3d> འགལ་བ།"
+
+msgid "Recoding %s..."
+msgstr "ཨང་བསྐྱར་སྒྲིག %s..."
+
+msgid "Recoding is too complex for a mere table"
+msgstr "ཨང་བསྐྱར་སྒྲིག་དཀའ་དྲགས། བརྗེ་སྒྱུར་རེའུ་མིག་གཅིག་གིས་མཚོན་མི་ཐུབ།"
+
+msgid "Request `%s' is erroneous"
+msgstr "རེ་ཞུ་‘%s’ལ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Request: %s\n"
+msgstr "རེ་ཞུ།：%s\n"
+
+msgid "Required argument is missing"
+msgstr "དགོས་པའི་ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Resurfacer set more than once for `%s'"
+msgstr "‘%s’ལ་གཅིག་ལས་མང་བའི་ཕྱིའི་སྒྲིག་ཨང་བསྣན་པ།"
+
+msgid "Sequence `%s' is ambiguous"
+msgstr "རིམ་སྟར་‘%s’དོན་སྙིང་མི་གསལ།"
+
+msgid "Sequence `%s' is unknown"
+msgstr "རིམ་སྟར་‘%s’མི་ཤེས་པ།"
+
+msgid "Shrunk to: %s\n"
+msgstr "སྐུང་།：%s\n"
+
+msgid "Sorry, no names available for `%s'"
+msgstr "དགོངས་པ་མ་ཚོམས། ‘%s’ལ་སྤྱོད་རུང་གི་ཡིག་རྟགས་མིང་མེད།"
+
+msgid "Step initialisation failed"
+msgstr "གོ་རིམ་ཐོག་མ་ཅན་སྒྱུར་བ་ཕམ་པ།"
+
+msgid "Step initialisation failed (unprocessed options)"
+msgstr "གོ་རིམ་ཐོག་མ་ཅན་སྒྱུར་བ་ཕམ་པ།(སྒྲིག་གཅོད་མ་བྱས་པའི་འདེམས་ཚན།)"
+
+msgid "Symbol `%s' is unknown"
+msgstr "རྟགས་‘%s’མི་ཤེས་པ།"
+
+msgid "Syntax is deprecated, please prefer `%s'"
+msgstr "བརྡ་སྤྲོད་དུས་བརྒལ་པས་་‘%s’སྤྱོད་རོགས།"
+
+msgid "System detected problem"
+msgstr "རྒྱུད་ཁོངས་གནད་དོན།"
+
+msgid "Try `%s %s' for more information.\n"
+msgstr "‘%s %s’ལས་བསྟར་ཚོད་ལྟར་བྱས་ནས་ཆ་འཕྲིན་ཇེ་མང་ཐོབ་པ་བྱ།\n"
+
+msgid "Unrecognised surface name `%s'"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་ཕྱིའི་སྒྲིག་ཨང་།‘%s’"
+
+msgid "Unsurfacer set more than once for `%s'"
+msgstr "‘%s’ལ་གཅིག་ལས་མང་བའི་ཕྱིའི་སྒྲིག་ཨང་འདོན།"
+
+msgid "Untranslatable input"
+msgstr "ཡིག་སྒྱུར་མི་ཐུབ་པའི་ནང་འཇུག"
+
+msgid "Virtual memory exhausted"
+msgstr "རྟོག་བཟོས་ནང་གསོག་ཟད་ཚར།"
+
+msgid "Virtual memory exhausted!"
+msgstr "རྟོག་བཟོས་ནང་གསོག་ཟད་ཚར།"
+
+msgid "Written by Franc,ois Pinard <pinard@iro.umontreal.ca>.\n"
+msgstr " Francois Pinard <pinard@iro.umontreal.ca> ཡིས་རྩོམ་སྒྲིག\n"
+
+msgid "byte"
+msgstr "ཡིག་ཚིགས།"
+
+msgid "reversible"
+msgstr "ལྡོག་རུང་བ།"
+
+msgid "variable"
+msgstr "གཟུགས་འགྱུར།"

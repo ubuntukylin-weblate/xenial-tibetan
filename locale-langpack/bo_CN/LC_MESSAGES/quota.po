@@ -1,0 +1,547 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%ddays"
+msgstr "ཉིན།%d"
+
+msgid "%s (gid %d): Permission denied\n"
+msgstr "%s(gid %d）：ལྟ་སྤྱོད་སློག་པ།\n"
+
+msgid "%s: deleted %s quota blocks\n"
+msgstr "%s：བགོད་ཁུལ་ %s བསུབས་པ།\n"
+
+msgid "%udays"
+msgstr "ཉིན།%u"
+
+msgid "%uhours"
+msgstr "དུས་ཚོད།%u"
+
+msgid "%uminutes"
+msgstr "སྐར་མ།%u"
+
+msgid "%useconds"
+msgstr " སྐར་ཆ།%u"
+
+msgid "0seconds"
+msgstr "སྐར་ཆ། 0"
+
+msgid "Adding dquot structure type %s for %d\n"
+msgstr "dquot གཞི་གྲངས་རིགས་གྲས་ %s ནི་ %dཡིན་པ་སྣོན་པ།\n"
+
+msgid "Administrator for a group %s not found. Cancelling mail.\n"
+msgstr "སྤྱོད་མཁན་ཚོ་ %s ཡི་དོ་དམ་པ་མི་རྙེད། སྦྲག་ཡིག་སྐུར་བ་མཚམས་འཇོག\n"
+
+msgid "As you wish... Canceling check of this file.\n"
+msgstr "ཁྱེད་ཀྱི་འདོད་པ་ལྟར། ཡིག་ཆ་འདིའི་ཞིབ་བཤེར་མཚམས་འཇོག་པ།\n"
+
+msgid "Bad number of arguments.\n"
+msgstr "ཞུགས་གྲངས་གྲངས་ཀ་ནོར་བ།\n"
+
+msgid "Batch mode and prototype user cannot be used together.\n"
+msgstr "སྡེབ་སྒྲིག་རྣམ་པ་དང་མ་དཔེ་སྤྱོད་མཁན་མཉམ་དུ་སྤྱོད་མི་ཐུབ།\n"
+
+msgid "Batch mode cannot be used for setting grace times.\n"
+msgstr ""
+"ཚད་བརྒལ་དུས་འགྱངས་སྒྲིག་འགོད་བྱེད་སྐབས་སུ་སྡེབ་སྒྲིག་རྣམ་པ་སྤྱོད་མི་ཐུབ།\n"
+
+msgid "Block %u in tree referenced twice"
+msgstr "ཡིག་ཆ་སྡོང་འགྲེམས་སུ་རྡོག %u བསྐྱར་འདྲེན་བྱས་པ།"
+
+msgid "Block %u is truncated.\n"
+msgstr "རྡོག་ %u བཅད་པ།\n"
+
+msgid "Block %u: "
+msgstr "རྡོག %u："
+
+msgid "Block grace time: %s; Inode grace time: %s\n"
+msgstr "རྡོག་དུས་ཚད་བརྒལ་བ།：%s；ཚིགས་ཚེག་དུས་ཚད་བརྒལ་བ།：%s\n"
+
+msgid "Block limit reached on"
+msgstr "རྡོག་གྲངས་ཚད་བརྒལ།"
+
+msgid "Bugs to %s\n"
+msgstr " Bugདེ་ %sལ་ལྡོག་སྐྱེལ་རོགས།\n"
+
+msgid "Bugs to: %s\n"
+msgstr "Bugདེ་%sལ་ལྡོག་སྐྱེལ་རོགས།:\n"
+
+msgid "Cannot access the specified xtab file %s: %s\n"
+msgstr "བསྟན་པའི་ xtab ཡིག་ཆ་ %s：%s ལྟ་སྤྱོད་མི་ཐུབ།\n"
+
+msgid "Cannot bind to given address: %s\n"
+msgstr "བྱིན་པའི་ས་གནས།：%s ལ་སྡོམ་མི་ཐུབ།\n"
+
+msgid "Cannot change permission of %s: %s\n"
+msgstr "%s ཡི་དབང་ཚད།：%sབཅོས་མི་ཐུབ།\n"
+
+msgid "Cannot create socket: %s\n"
+msgstr "སྐོང་འཛུད་ཡི་གེ།：%sབཟོ་མི་ཐུབ།\n"
+
+msgid "Cannot detect quota format for journalled quota on %s\n"
+msgstr ""
+"ཉིན་ཐོ་ཅན་གྱི་བགོས་པའི་ཡིག་ཆ་རྒྱུད་ཁོངས་ %s "
+"ཡི་བགོས་པའི་རྣམ་བཞག་ཞིབ་བཤེར་མི་ཐུབ།\n"
+
+msgid "Cannot find quota option on filesystem %s with quotas!\n"
+msgstr "སྤྱོད་པའི་བགོས་བྱ་ཡིག་ཆ་རྒྱུད་ཁོངས་ %s རུ་བགོས་པའི་འདེམས་ཚན་མི་རྙེད།\n"
+
+msgid "Cannot finish IO on new quotafile: %s\n"
+msgstr "བགོས་པའི་ཡིག་ཆ་གསར་པ IO：%sལེགས་འགྲུབ་མི་ཐུབ།\n"
+
+msgid "Cannot get exact used space... Results might be inaccurate.\n"
+msgstr ""
+"ཡང་དག་པའི་སྤྱད་པའི་བར་སྟོང་ཐོབ་མི་ཐུབ།…ཕྱིར་ལོག་པའི་མཐའ་འབྲས་ཞིབ་ཚགས་མི་འདང་།\n"
+
+msgid "Cannot get host name: %s\n"
+msgstr "འཁོར་གཙོའི་མིང་།：%sཐོབ་མི་ཐུབ།\n"
+
+msgid "Cannot get name of old quotafile on %s.\n"
+msgstr " %s ཡི་བགོ་སྐལ་ཡིག་ཆའི་མིང་ཐོབ་མི་ཐུབ།\n"
+
+msgid "Cannot get quotafile name for %s\n"
+msgstr " %s ཡི་བགོ་སྐལ་ཡིག་ཆའི་མིང་ཐོབ་མི་ཐུབ།\n"
+
+msgid ""
+"Cannot guess format from filename on %s. Please specify format on "
+"commandline.\n"
+msgstr ""
+" %s ཡི་ཡིག་ཆའི་མིང་ནས་དེའི་རྣམ་བཞག་ཚོད་དཔག་མི་ཐུབ། "
+"བཀའ་བརྡ་ཕྲེང་དུ་གཏན་འཁེལ་གྱི་རྣམ་བཞག་ཅིག་སྟོན་རོགས།\n"
+
+msgid "Cannot initialize IO on new quotafile: %s\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་གསར་པ IO：%sཐོག་མ་ཅན་དུ་སྒྱུར་མི་ཐུབ།\n"
+
+msgid "Cannot open file %s: %s\n"
+msgstr "ཡིག་ཆ་ %s：%sཁ་འབྱེད་མི་ཐུབ།\n"
+
+msgid "Cannot open new quota file %s: %s\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་གསར་པ་ %s：%sཁ་འབྱེད་མི་ཐུབ།\n"
+
+msgid "Cannot open quotafile %s: %s\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་ %s：%sཁ་འབྱེད་མི་ཐུབ།\n"
+
+msgid "Cannot parse input line %d.\n"
+msgstr "ནང་འཇུག་ཕྲེང་ %d དབྱེ་ཞིབ་མི་ཐུབ།\n"
+
+msgid "Cannot parse time at CC_BEFORE variable (line %d).\n"
+msgstr " CC_BEFORE འགྱུར་ཚད་ནང་གི་དུས་ཚོད་དབྱེ་ཞིབ་མི་ཐུབ།（ཕྲེང་ %d）\n"
+
+msgid "Cannot read block %u: %s\n"
+msgstr "རྡོག་ %u: %sཀློག་མི་ཐུབ།\n"
+
+msgid "Cannot remount filesystem %s read-write. cannot write new quota files.\n"
+msgstr ""
+"འབྲི་ཀློག་རུང་བའི་རྣམ་པས་ཡིག་ཆ་རྒྱུད་ཁོངས་ %s ཡང་བསྐྱར་འགེལ་མི་ཐུབ། "
+"བགོ་སྐལ་ཡིག་ཆ་འབྲི་མི་ཐུབ།\n"
+
+msgid ""
+"Cannot remount filesystem mounted on %s read-only. Counted values might not "
+"be right.\n"
+msgstr ""
+"ཀློག་ཙམ་རྣམ་པས་ %s ཡི་ཡིག་ཆ་རྒྱུད་ཁོངས་ཡང་བསྐྱར་འགེལ་མི་ཐུབ། "
+"གྲངས་བགྲང་ཆས་ཀྱི་ཚད་ཡང་དག་མིན་སྲིད།\n"
+
+msgid "Cannot rename new quotafile %s to name %s: %s\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་གསར་པ་ %s མིང་བསྐྱར་འདོགས་ནི་ %s：%sབྱ་མི་ཐུབ།\n"
+
+msgid "Cannot rename old quotafile %s to %s: %s\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་རྙིང་པ་ %s མིང་བསྐྱར་འདོགས་ནི་ %s：%sབྱ་མི་ཐུབ།\n"
+
+msgid "Cannot set both individual and global grace time.\n"
+msgstr ""
+"དུས་མཉམ་དུ་རང་སྒེར་དང་ཁྱོན་ཡོངས་ཀྱི་ཚད་བརྒལ་དུས་བཀག་སྒྲིག་འགོད་མི་ཐུབ།\n"
+
+msgid "Cannot set socket options: %s\n"
+msgstr "སྐོང་འཛུད་ཡི་གེའི་འདེམས་ཚན།：%sསྒྲིག་འགོད་མི་ཐུབ།\n"
+
+msgid "Cannot stat directory %s: %s\n"
+msgstr "དཀར་ཆག་རྣམ་པ་ %s：%sགཏན་མི་འཁེལ།\n"
+
+msgid "Cannot stat mountpoint %s: %s\n"
+msgstr "འགེལ་ཚེག་ %s：%sགཏན་མི་འཁེལ།\n"
+
+msgid "Checked %d directories and %d files\n"
+msgstr "དཀར་ཆག་ %d དང་ཡིག་ཆ་ %d ཞིབ་བཤེར་བྱས་པ།\n"
+
+msgid "Checking quotafile headers...\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་ཡིག་མགོ་ཞིབ་བཤེར་བྱེད་པ།…\n"
+
+msgid "Checking quotafile info...\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་ཆ་འཕྲིན་ཞིབ་བཤེར་བྱེད་པ་…\n"
+
+msgid "Corrupted blocks: "
+msgstr "བརླགས་པའི་རྡོག："
+
+msgid "Could not get values for %s.\n"
+msgstr "%s ཡི་ཐང་ཐོབ་མི་ཐུབ།\n"
+
+msgid "Creation of %s quota format is not supported.\n"
+msgstr "རྒྱུད་ཁོངས་ཡིས་ %s བགོ་སྐལ་རྣམ་བཞག་གསར་བཟོ་རྒྱབ་སྐྱོར་མི་བྱེད།\n"
+
+msgid "Data dumped.\n"
+msgstr "གཞི་གྲངས་གསེག་ལུད།\n"
+
+msgid "Denied access to host %s\n"
+msgstr "འཁོར་གཙོ་ %s ལྟ་སྤྱོད་ཟློག་པ།\n"
+
+msgid "Detected quota format %s\n"
+msgstr "ཞིབ་དཔྱད་པའི་བགོ་སྐལ་རྣམ་བཞག %s\n"
+
+msgid "Dumping gathered data for %ss.\n"
+msgstr "བསྡུ་ལེན་གྱི་ %ss གཞི་གྲངས་ཕྱིར་འདོན་པ།\n"
+
+msgid "Duplicated entries."
+msgstr "བསྐྱར་ཟློས་ཀྱི་དོན་ཚན།"
+
+msgid "EXT2_IOC_GETFLAGS failed: %s\n"
+msgstr "EXT2_IOC_GETFLAGS ཕམ་པ།：%s\n"
+
+msgid "Enabling %s quota on root filesystem (reboot to take effect)\n"
+msgstr ""
+"རྩ་བའི་ཡིག་ཆ་རྒྱུད་ཁོངས་ཀྱིས་ %s "
+"བགོ་སྐལ་མགོ་སློང་པ།（ཁྱེད་ཀྱིས་རྒྱུད་ཁོངས་བསྐྱར་འདྲེན་ནས་དེ་ནུས་ཐོན་བྱ་དགོས།）\n"
+
+msgid "Error checking device name: %s\n"
+msgstr "སྒྲིག་ཆས་མིང་ཞིབ་བཤེར་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "Error in config file (line %d), ignoring\n"
+msgstr "ཡིག་ཆ་སྡེབ་སྒྲིག（ཕྲེང་ %d）ནོར་འཁྲུལ་བྱུང་། སྣང་མེད་བཏང་པ།\n"
+
+msgid "Error while getting old quota statistics from kernel: %s\n"
+msgstr ""
+"ནང་སྙིང་དུ་བགོ་སྐལ་རྙིང་པའི་བསྡོམས་རྩིས་ཆ་འཕྲིན་ཐོབ་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "Error while getting quota statistics from kernel: %s\n"
+msgstr ""
+"ནང་སྙིང་དུ་བགོ་སྐལ་རྙིང་པའི་བསྡོམས་རྩིས་ཆ་འཕྲིན་ཐོབ་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "Error while opening old quota file %s: %s\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་རྙིང་པ་ %s ཁ་འབྱེད་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "Error while releasing file on %s\n"
+msgstr " %s ཡི་ཡིག་ཆ་ལྷོད་སྐབས་ནོར་འཁྲུལ་བྱུང་།\n"
+
+msgid "Error while searching for old quota file %s: %s\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་རྙིང་པ་ %s ཞིབ་བཤེར་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "Error while syncing quotas on %s: %s\n"
+msgstr "%s ཡི་བགོ་སྐལ་གོམ་མཉམ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s\n"
+
+msgid "Error with %s.\n"
+msgstr " %s སྒྲིག་གཅོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།\n"
+
+msgid "Failed to delete quota: %s\n"
+msgstr "བགོ་སྐལ་འདོར་བ་ཕམ་པ།：%s\n"
+
+msgid "Failed to parse grace times file.\n"
+msgstr "ཚད་བརྒལ་དུས་བཀག་སྒྲིག་འགོད་ཡིག་ཆ་དབྱེ་ཞིབ་ཕམ་པ།\n"
+
+msgid "File info done.\n"
+msgstr "ཡིག་ཆའི་ཆ་འཕྲིན་ཐོབ་པ་ལེགས་འགྲུབ།\n"
+
+msgid "File limit reached on"
+msgstr "ཡིག་ཆའི་ཚིགས་ཚེག་ཚད་བཅད་ལ་སླེབས།"
+
+msgid "Filesystem"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
+
+msgid "Filesystem remounted RW.\n"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་འབྲི་ཀློག་རུང་བའི་རྣམ་པས་བསྐྱར་འགེལ་པ།\n"
+
+msgid "Filesystem remounted read-only\n"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་ཀློག་ཙམ་རྣམ་པས་བསྐྱར་འགེལ་པ།\n"
+
+msgid "Found an invalid UUID: %s\n"
+msgstr "ཡང་དག་མིན་པའི་སྤྱོད་མཁན་ UID：%sཞིག་རྙེད་པ།\n"
+
+msgid "Found i_num %ld, blocks %ld\n"
+msgstr "ཚིགས་ཚེག་གྲངས་ཀ་ %ld རྙེད་པ། རྡོག་གི་གྲངས་ཀ %ld\n"
+
+msgid "Going to check %s quota file of %s\n"
+msgstr "%s，%s ཡི་བགོ་སྐལ་ཡིག་ཆ་ལ་ཞིབ་བཤེར་བྱ་རྒྱུ་ཡིན།\n"
+
+msgid "Group"
+msgstr "ཁྱུ་ཚོ།"
+
+msgid "Group and user quotas cannot be used together.\n"
+msgstr "སྤྱོད་མཁན་ཚོའི་བགོ་སྐལ་དང་སྤྱོད་མཁན་བགོ་སྐལ་མཉམ་དུ་སྤྱོད་མི་ཆོག\n"
+
+msgid "Headers checked.\n"
+msgstr "ཚགས་མགོ་ཞིབ་བཤེར་པ།\n"
+
+msgid "Headers of file %s checked. Going to load data...\n"
+msgstr ""
+"ཡིག་ཆ་ %s ཡི་ཚགས་མགོ་ཞིབ་བཤེར་ལེགས་འགྲུབ་བྱུང་། "
+"གཞི་གྲངས་ཕབ་འཇུག་གྲ་གྲབས་བྱེད་པ་…\n"
+
+msgid "High uid detected.\n"
+msgstr "བརྟག་དཔྱད་ནས་ High uid ཐོབ།\n"
+
+msgid "Illegal free block reference to block %u"
+msgstr "སྟོང་པའི་རྡོག་གིས་ལུགས་མིན་འདྲེན་ནས་རྡོག %u"
+
+msgid "Illegal port number: %s\n"
+msgstr "ལུགས་འགལ་གྱི་མཐུད་ཁའི་ཨང་།：%s\n"
+
+msgid "In block grace period on"
+msgstr "རྡོག་གྲངས་ཀ་ཚད་བརྒལ་དུས་བཀག་ཟིན་པ།"
+
+msgid "In file grace period on"
+msgstr "ཡིག་ཆའི་ཚིགས་ཚེག་ཚད་བརྒལ་དུས་བཀག་ཟིན་པ།"
+
+msgid "Inserting already present quota entry (block %u).\n"
+msgstr "ད་གསོག་གི་བགོ་སྐལ་དོན་ཚན་ནང་འཇུག་པ།（རྡོག་ %u）\n"
+
+msgid "Invalid argument \"%s\"\n"
+msgstr "ཡང་དག་མིན་པའི་ཞུགས་གྲངས།“%s”\n"
+
+msgid "Kernel quota version: old\n"
+msgstr "ནང་སྙིང་དུ་བགོ་སྐལ་པར་གཞི་བཟོ：རྙིང་།\n"
+
+msgid "Leaving %s\n"
+msgstr " %sལ་བྲལ་པ།\n"
+
+msgid "Line %d too long. Truncating.\n"
+msgstr "ཕྲེང་ %d རིང་དྲགས། གཅོད་བཞིན་པ།\n"
+
+msgid "Maybe create new quota files with quotacheck(8)?\n"
+msgstr ""
+"ཕལ་ཆེར་ཁྱེད་ཀྱིས་ quotacheck(8) སྤྱད་ནས་བགོ་སྐལ་ཡིག་ཆ་གསར་པ་བཟོ་དགོས་སམ།\n"
+
+msgid "Mountpoint not specified.\n"
+msgstr "འདེགས་ཚེག་གཏན་འཁེལ་བྱས་མེད།\n"
+
+msgid "Name must be quotaon or quotaoff not %s\n"
+msgstr "མིང་ངེས་པར་དུ་ quotaon ཡང་ན་ quotaoff ཡིན་དགོས།  %sཡིན་མུ་རུང་།\n"
+
+msgid "Name of quota file too long. Contact %s.\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆའི་མིང་རིང་དྲགས།  %sལ་འབྲེལ་གཏུག་གནང་རོགས།\n"
+
+msgid "No correct mountpoint specified.\n"
+msgstr "ཡང་དག་པའི་འགེལ་ཚེག་སྟོན་མེད།\n"
+
+msgid "No filesystems with quota detected.\n"
+msgstr "བགོ་སྐལ་སྤྱོད་རུང་གི་ཡིག་ཆ་རྒྱུད་ཁོངས་བརྟག་དཔྱད་མི་ཐུབ།\n"
+
+msgid "Not all specified mountpoints are using quota.\n"
+msgstr "བསྟན་པའི་འགེལ་ཚེག་ཚང་མས་བགོ་སྐལ་སྤྱོད་པ་མིན།\n"
+
+msgid "Not enough memory.\n"
+msgstr "ནང་གསོག་མི་འདང་།\n"
+
+msgid "Not found any corrupted blocks. Congratulations.\n"
+msgstr "བཀྲ་ཤིས་བདེ་ལེགས། བརླགས་པའི་རྡོག་གང་ཡང་མ་རྙེད།\n"
+
+msgid "OFF"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "ON"
+msgstr "ཁ་ཕྱེ་བ།"
+
+msgid "Old file found removed during check!\n"
+msgstr "ཞིབ་བཤེར་དུ་བསུབ་པའི་ཡིག་ཆ་རྙིང་པ་རྙེད་པ།\n"
+
+msgid "Old file not found.\n"
+msgstr "ཡིག་ཆ་རྙིང་པ་མི་རྙེད།\n"
+
+msgid "Only RPC quota format is allowed on NFS filesystem.\n"
+msgstr "NFS ཡིག་ཆ་རྒྱུད་ཁོངས་སུ་RPC བགོ་སྐལ་རྣམ་བཞག་ཁོ་ན་སྤྱོད་པ།\n"
+
+msgid "Only XFS quota format is allowed on XFS filesystem.\n"
+msgstr "XFS ཡིག་ཆ་རྒྱུད་ཁོངས་ XFS བགོ་སྐལ་རྣམ་བཞག་ཁོ་ན་སྤྱོད་པ།\n"
+
+msgid "Over block quota on"
+msgstr "རྡོག་གྲངས་ཀའི་བཅད་ཚད་བརྒལ་བ།"
+
+msgid "Over file quota on"
+msgstr "ཡིག་ཆའི་ཚིགས་ཚེག་བཅད་ཚད་བརྒལ་བ།"
+
+msgid "Parse error at line %d. Trailing characters after administrators name.\n"
+msgstr ""
+"ཕྲེང་ %d དབྱེ་ཞིབ་ནོར་འཁྲུལ་བྱུང་། "
+"དོ་དམ་པའི་མིང་རྗེས་སུ་ཡིག་རྟགས་ལྷག་མ་ཡོད།\n"
+
+msgid "Possible error in config file (line %d), ignoring\n"
+msgstr "ཡིག་ཆ་（ཕྲེང་%d）སྡེབ་སྒྲིག་ནོར་སྲིད། སྣང་མེད་བཏང་པ།\n"
+
+msgid "Quota file not found or has wrong format.\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་མི་རྙེད་ཡང་ན་རྣམ་བཞག་ནོར་འཁྲུལ་བྱུང་བ།\n"
+
+msgid "Quota format not supported in kernel.\n"
+msgstr "ནང་སྙིང་བགོ་སྐལ་རྣམ་བཞག་འདི་རྒྱབ་སྐྱོར་མི་བྱེད།\n"
+
+msgid "Quota utilities version %s.\n"
+msgstr "བགོ་སྐལ་ལག་ཆའི་ཚོགས་པར་གཞི་ %s\n"
+
+msgid "Quota write failed (id %u): %s\n"
+msgstr "བགོ་སྐལ་འབྲི་བ་ཕམ་པ།（id %u）：%s\n"
+
+msgid "RPC quota format not compiled.\n"
+msgstr "རྩོམ་སྒྲིག་མེད་པའི་RPC བགོ་སྐལ་རྣམ་བཞག་གི་རྒྱབ་སྐྱོར།\n"
+
+msgid "Reference to illegal block %u"
+msgstr "ལུགས་འགལ་གྱི་རྡོག་ %uའདྲེན་སྤྱོད།"
+
+msgid "Renaming new files to proper names.\n"
+msgstr "ཡིག་ཆ་གསར་པ་འཚམ་པའི་མིང་ལ་མིང་བསྐྱར་འདོགས་བྱེད་པ།\n"
+
+msgid "Renaming new quotafile\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་གསར་པར་མིང་བསྐྱར་འདོགས་བྱེད་པ།\n"
+
+msgid "Renaming old quotafile to %s~\n"
+msgstr "བགོ་སྐལ་ཡིག་ཆ་རྙིང་པ་མིང་བསྐྱར་འདོགས། %s~\n"
+
+msgid "Required format %s not supported by kernel.\n"
+msgstr "ནང་སྙིང་གིས་བགོ་སྐལ་རྣམ་བཞག་ %sརྒྱབ་སྐྱོར་མི་བྱེད།\n"
+
+msgid "Scanning %s [%s] "
+msgstr "%s [%s]ལ་བཤར་འབེབས་པ།"
+
+msgid "Scanning stored directories from directory stack\n"
+msgstr "དཀར་ཆག་དོས་ཁང་ལས་ད་གསོག་པའི་དཀར་ཆག་ལ་བཤར་འབེབས་པ།\n"
+
+msgid "Skipping %s [%s]\n"
+msgstr " %s [%s]མཆོང་པ།\n"
+
+msgid "Something weird happened while scanning. Error %d\n"
+msgstr "བཤར་འབེབས་སྐབས་སུ་མ་བསམ་པའི་ནོར་འཁྲུལ་བྱུང་། ནོར་འཁྲུལ་བྱུང་ཨང་ %d\n"
+
+msgid "Specified both -n and -t but only one of them can be used.\n"
+msgstr ""
+"-n དང་ -t ཞུགས་གྲངས་དུས་མཚུངས་སུ་སྟོན་པ་ཞིང་། "
+"དུས་གཅིག་ཏུ་ཁྱེད་ཀྱིས་གཅིག་མ་གཏོགས་འདེམས་མི་ཆོག\n"
+
+msgid "Specified path %s is not directory nor device.\n"
+msgstr "བསྟན་པའི་འགྲོ་ལམ་ %s དཀར་ཆག་མིན་ལ་སྒྲིག་ཆས་ཀྱང་མིན།\n"
+
+msgid "The running kernel does not support XFS\n"
+msgstr "འཁོར་སྐྱོད་ཀྱི་ནང་སྙིང་གིས་ XFSརྒྱབ་སྐྱོར་མི་བྱེད།\n"
+
+msgid "Too many parameters to editor.\n"
+msgstr "རྩོམ་སྒྲིག་ཆས་ལ་སྐྱེལ་བའི་ཞུགས་གྲངས་མང་དྲགས།\n"
+
+msgid "Trying to write info to readonly quotafile on %s\n"
+msgstr "ཆ་འཕྲིན་ %s ཡི་ཀློག་ཙམ་བགོ་སྐལ་ཡིག་ཆར་འབྲི་ཚོད་བྱེད་པ།\n"
+
+msgid "Trying to write info to readonly quotafile on %s.\n"
+msgstr "ཆ་འཕྲིན་ %s ཡི་ཀློག་ཙམ་བགོ་སྐལ་ཡིག་ཆར་འབྲི་ཚོད་བྱེད་པ།\n"
+
+msgid "Trying to write quota to readonly quotafile on %s\n"
+msgstr "ཆ་འཕྲིན་ %s ཡི་ཀློག་ཙམ་བགོ་སྐལ་ཡིག་ཆར་འབྲི་ཚོད་བྱེད་པ།\n"
+
+msgid "Unexpected XFS quota state sought on %s\n"
+msgstr " %sའཚོལ་སྐབས་མ་བསམ་པའི་ XFS བགོ་སྐལ་རྣམ་པ་རྙེད།\n"
+
+msgid "Unknown action should be performed.\n"
+msgstr "མི་ཤེས་པའི་བཀོལ་སྤྱོད་ལག་བསྟར་བྱ་རྩིས་ཡོད།\n"
+
+msgid "Unknown option '%c'.\n"
+msgstr "མི་ཤེས་པའི་འདེམས་ཚན། “%c”\n"
+
+msgid "Unterminated last line, ignoring\n"
+msgstr "རྒྱུན་ལྡན་གྱི་མཇུག་སྒྲིག་མིན་པའི་མཇུག་ཕྲེང་། སྣང་མེད་བཏང་པ།\n"
+
+msgid "User"
+msgstr "སྤྱོད་མཁན་གྱིID"
+
+msgid "WARNING - %s: cannot change current block allocation\n"
+msgstr "ཐ་ཚིག─%s：མིག་སྔའི་རྡོག་བགོ་བའི་གནས་ཚུལ་སྒྱུར་མི་ཐུབ།\n"
+
+msgid "WARNING - %s: cannot change current inode allocation\n"
+msgstr "ཐ་ཚིག─%s：མིག་སྔའི་ཚིགས་ཚེག་བགོ་བའི་གནས་ཚུལ་སྒྱུར་མི་ཐུབ།\n"
+
+msgid "WARNING - Quota file %s has corrupted headers\n"
+msgstr "ཐ་ཚིག─བགོ་སྐལ་ཡིག་ཆ་ %s ཡི་ཚགས་མགོ་བརླགས་པ།\n"
+
+msgid "WARNING - Quota file info was corrupted.\n"
+msgstr "ཐ་ཚིག─བགོ་སྐལ་ཡིག་ཆ་ཆ་འཕྲིན་བརླགས་པ།\n"
+
+msgid "WARNING - Some data might be changed due to corruption.\n"
+msgstr "ཐ་ཚིག─ཆ་ཤས་གཞི་གྲངས་བརླག་སྲིད།\n"
+
+msgid "Warning: Cannot set EXT2 flags on %s: %s\n"
+msgstr "ཐ་ཚིག： %s ཡི་ EXT2 flags：%sབཀོད་མི་ཐུབ།\n"
+
+msgid "Warning: Mailer exitted abnormally.\n"
+msgstr "ཐ་ཚིག：གློག་ཡིག་སྐུར་བྱེད་བྱ་རིམ་རྒྱུན་འགལ་ཕྱིར་འདོན།\n"
+
+msgid "Warning: No quota format detected in the kernel.\n"
+msgstr "ཐ་ཚིག：ནང་སྙིང་དུ་རྒྱབ་སྐྱོར་གྱི་བགོ་སྐལ་རྣམ་བཞག་ཞིབ་དཔྱད་མི་ཐུབ།\n"
+
+msgid "XFS Quota Manager dquot statistics\n"
+msgstr "XFS བགོ་སྐལ་དོ་དམ་ཆས་ dquot བསྡོམས་རྩིས།\n"
+
+msgid "XFS quota allowed only on XFS filesystem.\n"
+msgstr "XFS བགོ་སྐལ XFS ཡིག་ཆ་རྒྱུད་ཁོངས་སུ་ཁོ་ན་སྤྱོད་པ།\n"
+
+msgid "XFS_IOC_FSBULKSTAT ioctl failed: %s\n"
+msgstr "XFS_IOC_FSBULKSTAT I/O བཀོལ་སྤྱོད་ཕམ་པ།：%s\n"
+
+msgid "blocks"
+msgstr "དུམ་བུ།"
+
+msgid "cannot create udp service.\n"
+msgstr "udp ཞབས་ཞུ་བཟོ་མི་ཐུབ།\n"
+
+msgid "cannot open %s: %s\n"
+msgstr " %s：%sཁ་འབྱེད་མི་ཐུབ།\n"
+
+msgid "done\n"
+msgstr "ལེགས་འགྲུབ།\n"
+
+msgid "error (%d) while opening %s\n"
+msgstr "ནོར་འཁྲུལ་། (%d) བྱུང་ས་ %sཁ་འབྱེད་སྐབས་ཡིན།\n"
+
+msgid "error (%d) while opening inode scan\n"
+msgstr "ནོར་འཁྲུལ་། (%d) བྱུང་ས་ཚིགས་ཚེག་བཤར་འབེབས་ཁ་འབྱེད་སྐབས་ཡིན།\n"
+
+msgid "error (%d) while starting inode scan\n"
+msgstr "ནོར་འཁྲུལ་། (%d) བྱུང་ས་ཚིགས་ཚེག་བཤར་འབེབས་མགོ་རྩོམ་སྐབས་ཡིན།\n"
+
+msgid "files"
+msgstr "ཡིག་ཆ།"
+
+msgid "find_free_dqentry(): Data block full but it shouldn't.\n"
+msgstr "find_free_dqentry()：གཞི་གྲངས་རྡོག་མ་བསམ་པའི་སྐོང་བ།\n"
+
+msgid "fsname mismatch\n"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་མིང་བོར་བ།\n"
+
+msgid "grace"
+msgstr "དུས་བཀག"
+
+msgid "host %s attempted to call setquota from port >= 1024\n"
+msgstr "འཁོར་གཙོ་ %s འདི >=1024 ཡི་མཐུད་ཁར་ setquotaའདྲེན་སྤྱོད།\n"
+
+msgid "host %s attempted to call setquota when disabled\n"
+msgstr ""
+"འཁོར་གཙོ་ %s བྱེད་ནུས་བཀག་པའི་གནས་ཚུལ་དུ་ setquotaའདྲེན་སྤྱོད་ཚོད་ལྟ་བྱེད།\n"
+
+msgid "none"
+msgstr " མེད།"
+
+msgid "off"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "on"
+msgstr "ཡོད།"
+
+msgid "quota"
+msgstr "བགོ་སྐལ།"
+
+msgid "svc_run returned\n"
+msgstr " svc_runཕྱིར་ལོག་པ།\n"
+
+msgid "unable to free arguments\n"
+msgstr "ཞུགས་གྲངས་ལྷོད་མི་ཐུབ།\n"

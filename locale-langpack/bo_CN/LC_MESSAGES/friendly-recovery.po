@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "   Resume normal boot"
+msgstr "རྒྱུན་ལྡན་གྱི་འགོ་སློང་སླར་གསོ།"
+
+msgid "(Use arrows/PageUp/PageDown keys to scroll and TAB key to select)"
+msgstr ""
+"ཁ་ཕྱོགས་མཐེབ /PageUp/PageDown བེད་སྤྱད་ནས་བརྙན་ཡོལ་འགྲིལ་བ་དང་། མཐེབ TAB "
+"བེད་སྤྱད་ནས་འདེམ་པ།"
+
+msgid "=== Detailed disk usage ==="
+msgstr " === སྡུད་སྡེར་བེད་སྤྱོད་ཀྱི་ཞིབ་ཕྲའི་གནས་ཚུལ། ==="
+
+msgid "=== Detailed memory usage ==="
+msgstr " === ནང་གསོག་བེད་སྤྱོད་ཀྱི་ཞིབ་ཕྲའི་གནས་ཚུལ། ==="
+
+msgid "=== Detailed network configuration ==="
+msgstr " === ཞིབ་ཕྲའི་དྲ་རྒྱའི་སྡེབ་སྒྲིག ==="
+
+msgid "=== General information ==="
+msgstr " === སྤྱིར་བཏང་གི་ཆ་འཕྲིན། ==="
+
+msgid "=== LVM state ==="
+msgstr " === རྣམ་པ LVM ==="
+
+msgid "=== Software RAID state ==="
+msgstr " === མཉེན་པའི་རྣམ་པ RAID ==="
+
+msgid "=== System database (APT) ==="
+msgstr " === རྒྱུད་ཁོངས་གཞི་གྲངས་མཛོད། (APT) ==="
+
+msgid "CPU information:"
+msgstr "CPU ཡི་ཆ་འཕྲིན།"
+
+msgid "Check all file systems"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་ཡོངས་ལ་ཞིབ་བཤེར་བྱེད།"
+
+msgid "Database is consistent:"
+msgstr "གཞི་གྲངས་མཛོད་ཀྱི་གཅིག་མཐུན།"
+
+msgid "Drop to root shell prompt"
+msgstr "སྤྱོད་མཁན root ཡི་བརྡ་རྟགས shell ལ་རིམ་ཕབ་པ།"
+
+msgid "Enable networking"
+msgstr "དྲ་སྦྲེལ་སྤྱོད་འགོ་ཚུགས་པ།"
+
+msgid "Finished, please press ENTER"
+msgstr "ལེགས་འགྲུབ་བྱུང་། འབེབས་མཐེབ་སྣོན་རོགས།"
+
+msgid "IP and DNS configured"
+msgstr "IP དང DNS སྡེབ་སྒྲིག་བྱས་ཟིན།"
+
+msgid "IP configured"
+msgstr "IP སྡེབ་སྒྲིག་བྱས་ཟིན།"
+
+msgid "Network connectivity:"
+msgstr "དྲ་རྒྱའི་འབྲེལ་མཐུད།"
+
+msgid "No LVM detected (vgscan)"
+msgstr "LVM། (vgscan) བཤེར་འཇལ་ཐུབ་མེད།"
+
+msgid "No software RAID detected (mdstat)"
+msgstr "མཉེན་པའི  RAID། (mdstat) བཤེར་འཇལ་ཐུབ་མེད།"
+
+msgid "Physical Volumes:"
+msgstr "དངོས་ཁམས་ཀྱི་པོད།"
+
+msgid "Read-only mode"
+msgstr "ཀློག་ཙམ་གྱི་རྣམ་པ།"
+
+msgid "Read/Write mode"
+msgstr "ཀློག / འབྲི་སྟངས་ཀྱི་རྣམཔ།"
+
+msgid "Recovery Menu (filesystem state: read-only)"
+msgstr "འདེམས་བྱང་སླར་གསོ(ཡིག་ཆའི་རྒྱུད་ཁོངས་ཀྱི་རྣམ་པ། ཀློག་ཙམ)"
+
+msgid "Recovery Menu (filesystem state: read/write)"
+msgstr "འདེམས་བྱང་སླར་གསོ། (ཡིག་ཆའི་རྒྱུད་ཁོངས་ཀྱི་རྣམ་པ། ཀློག་པ / འབྲི་བ)"
+
+msgid "Repair broken packages"
+msgstr "སྐྱོན་ཤོར་བའི་ཐུམ་ཡིག་ཆ་ཉམས་གསོ་བྱེད་པ།"
+
+msgid "Revert to old snapshot and reboot"
+msgstr "མྱུར་པར་རྙིང་པར་སླར་གསོ་བྱུང་རྗེས། ཡང་བསྐྱར་འགོ་སློང་དགོས།"
+
+msgid "Run in failsafe graphic mode"
+msgstr "བདེ་འཇགས་རིས་དབྱིབས་ཀྱི་རྣམ་པའི་འོག་ཏུ་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "Snapshot"
+msgstr "མྱུར་པར།"
+
+msgid "System mode:"
+msgstr "རྒྱུད་ཁོངས་རྣམ་པ།"
+
+msgid "System summary"
+msgstr "རྒྱུད་ཁོངས་གནད་བསྡུས།"
+
+msgid "Try to make free space"
+msgstr "བར་སྟོང་ཕྱིར་གཏོང་གི་ཚོད་ལྟ་བྱེད་པ།"
+
+msgid ""
+"Trying to find packages you don't need (apt-get autoremove), please review "
+"carefully."
+msgstr ""
+"ཁྱེད་ལ་མི་དགོས་པའི་མཉེན་ཆས་ཐུམ། (apt-get autoremove) "
+"འཚོལ་བཞིན་ཡོད་པས་ཞིབ་ཕྲ་གཟིགས་རོགས། "
+
+msgid "Unknown (must be run as root)"
+msgstr "ངེས་མེད(ངེས་པར་དུ root ཡིས་འཁོར་བསྐྱོད་བྱེད་དགོས)"
+
+msgid "Update grub bootloader"
+msgstr "སྣེ་ཁྲིད་བྱ་རིམ grub གསར་སྒྱུར་བྱེད་པ། "
+
+msgid "Volume Groups:"
+msgstr "པོད་ཚོ།"
+
+msgid "no (BAD)"
+msgstr "སྐྱོན་ཤོར་བ།"
+
+msgid "none"
+msgstr " མེད།"
+
+msgid "not ok (BAD)"
+msgstr "སྐྱོན་ཤོར་བ།"
+
+msgid "ok (good)"
+msgstr "སྐྱོན་མེད་འཐུས་ཚང་།"
+
+msgid "unknown (must be run as root)"
+msgstr "ངེས་མེད(ངེས་པར་དུ root ཡིས་འཁོར་བསྐྱོད་བྱེད་དགོས)"
+
+msgid "unknown (read-only filesystem)"
+msgstr "ངེས་མེད(ཀློག་ཙམ་གྱི་ཡིག་ཆའི་རྒྱུད་ཁོངས)"
+
+msgid "yes (good)"
+msgstr "སྐྱོན་མེད་འཐུས་ཚང་།"

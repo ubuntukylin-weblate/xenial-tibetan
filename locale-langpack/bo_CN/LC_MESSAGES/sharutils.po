@@ -1,0 +1,260 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%s is probably not a shell archive"
+msgstr "%s ནི་ཕལ་ཆེར་ཡིག་ཚགས shell མིན།"
+
+msgid "%s looks like raw C code, not a shell archive"
+msgstr "%s ལ་བལྟས་ན་གདོད་མའི C ཚབ་ཨང་དང་འདྲ། ཡིག་ཚགས shell མིན།"
+
+msgid "%s: Illegal file name: %s"
+msgstr "%s: ལུགས་འགལ་ཡིག་ཆའི་མིང་།: %s"
+
+msgid "%s: No `end' line"
+msgstr "%s: ‘end’ ཡི་ཕྲེང་ཚུད་མེད་པ།"
+
+msgid "%s: Not a regular file"
+msgstr "%s: དཀྱུས་མའི་ཡིག་ཆ་ཞིག་མིན།"
+
+msgid "%s: Short file"
+msgstr "%s: ཡིག་ཆ་ཆེ་དྲགས་པ།"
+
+msgid "%s: Write error"
+msgstr "%s: འབྲི་བའི་ནོར་འཁྲུལ།"
+
+msgid "%s: illegal option -- %c\n"
+msgstr "%s: ལུགས་འགལ་འདེམས་ཚན། -- %c\n"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr "%s： འདེམས་ཚན “%s” ནི་གསལ་པོ་མེད་པ། \n"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
+
+msgid "(binary)"
+msgstr "( གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་ཡིག་ཆ། )"
+
+msgid "(bzipped)"
+msgstr "(bzip སྡུད་སྒྲིལ་ཟིན་པའི་ཡིག་ཆ། )"
+
+msgid "(compressed)"
+msgstr "(compress སྡུད་སྒྲིལ་ཟིན་པའི་ཡིག་ཆ། )"
+
+msgid "(empty)"
+msgstr "(སྤྱིར་བཏང་དུ་སྟོང་བ་བྱས་ནས་ཉར་ཐུབ།)"
+
+msgid "(gzipped)"
+msgstr "(gzip སྡུད་སྒྲིལ་ཟིན་པའི་ཡིག་ཆ། )"
+
+msgid "(text)"
+msgstr "( ཡིག་རྐྱང་ཡིག་ཆ། )"
+
+msgid "Cannot access %s"
+msgstr "%s ལྟ་སྤྱོད་མི་ཐུབ་པ།"
+
+msgid "Cannot get current directory name"
+msgstr "མིག་སྔའི་དཀར་ཆག་མིང་ཐོབ་ཐབས་བྲལ།"
+
+msgid "Cannot open file %s"
+msgstr "ཡིག་ཆ %s ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Created %d files\n"
+msgstr "ཡིག་ཆའི་གྲངས %d གསར་བཟོ་བྱས་པ། \n"
+
+msgid "End of %s part %d"
+msgstr "ཡིག་ཚགས %s ཡི་མཇུག་སྒྲིལ་དུམ་བུ་ནི %d ཡིན།"
+
+msgid "End of part %d, continue with part %d"
+msgstr "དུམ་ཨང %d ལ་མཇུག་སྒྲིལ་བ་དང་དུམ་བུ %d ལ་མུ་མཐུད་པ།"
+
+msgid "File %s is complete"
+msgstr "ཡིག་ཆ %s ཐག་གཅོད་ཚར།"
+
+msgid "File %s is continued in part %d"
+msgstr "ཡིག་ཆ %s དེ་དུམ་ཨང %d ལ་མུ་མཐུད་པ།"
+
+msgid "Found no shell commands in %s"
+msgstr "%s ཡི་ནང་ནས་བཀའ་བརྡ shell རྙེད་མེད་པ།"
+
+msgid "MD5 check failed"
+msgstr "MD5 དག་བཤེར་ཕམ་པ།"
+
+msgid "No input files"
+msgstr "ནང་འཇུག་ཡིག་ཆ་མེད་པ།"
+
+msgid "Note: not verifying md5sums.  Consider installing GNU coreutils."
+msgstr ""
+"ཡིད་གཟབ་དགོས་པ།： md5sums ར་སྤྲོད་བྱས་མེད་པ། ལག་ཆའི་ཁུག་མ GNU coreutils "
+"སྒྲིག་འཇུག་བྱ་རྒྱུའི་བསམ་གཞིགས་གནང་རོགས།"
+
+msgid "PLEASE avoid -X shars on Usenet or public networks"
+msgstr ""
+"Usenet འམ་ཡང་ན་སྤྱི་པའི་དྲ་རྒྱའི་སྟེང -X shars "
+"བེད་སྤྱོད་པ་གཡོལ་ཐབས་གནང་རོགས།"
+
+msgid "Please unpack part ${shar_sequence} next!"
+msgstr "རྗེས་མར་ཆ་ཤས་བསྡུལ་འགྲོལ་གནང་དགོས ${shar_sequence}!"
+
+msgid "Please unpack part 1 first!"
+msgstr "སྔོན་ལ་དུམ་ཨང 1 བསྡུལ་འགྲོལ་གནང་དགོས།"
+
+msgid "SKIPPING %s"
+msgstr "%s ལས་མཆོང་བ།"
+
+msgid "Saving %s (%s)"
+msgstr "ཉར་ཚགས་ %s(%s)"
+
+msgid "Starting file %s\n"
+msgstr "ཡིག་ཆ་ %s ནས་འགོ་རྩོམ། \n"
+
+msgid "Too many directories for mkdir generation"
+msgstr "mkdir ཡིས་དཀར་ཆག་མང་པོ་སྐྱེད་འགྲུབ་མི་ཐུབ་པ།"
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "You have unpacked the last part"
+msgstr "ཁྱེད་ཀྱིས་མཐའ་མའི་ཆ་ཤས་བཀྲོལ་ཟིན་པ།"
+
+msgid "all"
+msgstr "ཚང་མ།"
+
+msgid "archive"
+msgstr "ཡིག་ཚགས།"
+
+msgid "chmod of %s"
+msgstr "ནོར་འཁྲུལ་ chmod(%s)"
+
+msgid "continuing file %s"
+msgstr "ཡིག་ཆ་ %s མུ་མཐུད་སླར་གསོ་བྱེད་པ།"
+
+msgid "empty"
+msgstr "སྟོང་པ།"
+
+msgid "exit immediately"
+msgstr "ལམ་སེང་ཕྱིར་འཐེན།"
+
+msgid "explain choices"
+msgstr "བདམས་པའི་ནང་དོན་ལ་འགྲེལ་བཤད་བྱེད་པ།"
+
+msgid "extraction aborted"
+msgstr "བསྡུལ་འགྲོལ་རྒྱུན་ལྡན་མིན་པའི་ཕྱིར་འཐེན་བྱས་པ།"
+
+msgid "failed to create %s lock directory"
+msgstr "དཀར་ཆག་གི་སྒོ་ལྕགས་ %s བཟོ་ཐབས་བྲལ།"
+
+msgid "help"
+msgstr " རོགས་རམ།"
+
+msgid "lock directory %s exists"
+msgstr "དཀར་ཆག་གི་སྒོ་ལྕགས་ %s གནས་ཡོད་པ།"
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "none"
+msgstr " མེད།"
+
+msgid "overwrite %s"
+msgstr "%s འགེབས་པ།"
+
+msgid "overwrite all files"
+msgstr "ཡིག་ཆ་ཚང་མ་འགེབས་པ།"
+
+msgid "overwrite no files"
+msgstr "ཡིག་ཆ་གང་ཡང་མི་འགེབས་པ།"
+
+msgid "overwrite this file"
+msgstr "ཡིག་ཆ་འདི་འགེབས་པ།"
+
+msgid "printf formatting error:  %s\n"
+msgstr "printf ཡི་རྣམ་གཞག་ནོར་འཁྲུལ།: %s\n"
+
+msgid "restoration warning:  size of %s is not %s"
+msgstr "སླར་གསོའི་ཉེན་བརྡ།： %s ཡི་ཆེ་ཆུང་ནི %s མིན།"
+
+msgid "restore of %s failed"
+msgstr " %s སླར་གསོ་ཕམ་པ།"
+
+msgid "skip this file"
+msgstr "ཡིག་ཆ་འདི་སྣང་མེད་བྱེད་པ།"
+
+msgid "standard input"
+msgstr "ཚད་ལྡན་ནང་འཇུག"
+
+msgid "text"
+msgstr " ཡིག་དེབ།"
+
+msgid "uudecoding file %s"
+msgstr "uudecode བེད་སྤྱད་ནས་ཡིག་ཆ %s ཐག་གཅོད་བྱེད་བཞིན་པ།"
+
+msgid "x - SKIPPING %s (file already exists)"
+msgstr "x - %s ལ་མཆོང་བ། ( ཡིག་ཆ་གནས་ཟིན་པ། )"
+
+msgid "x - STILL SKIPPING %s"
+msgstr "x - %s ལ་སྔར་བཞིན་མཆོང་བ།"
+
+msgid "x - created directory %s."
+msgstr "x - དཀར་ཆག %s གསར་བཟོ།"
+
+msgid "x - created lock directory %s."
+msgstr "x - དཀར་ཆག་སྒོ་ལྕགས %s བཟོས་ཟིན་པ།"
+
+msgid "x - extracting %s %s"
+msgstr "x - སླར་གསོ། %s %s"
+
+msgid "x - failed to create directory %s."
+msgstr "x - དཀར་ཆག %s བཟོ་ཐབས་བྲལ།"
+
+msgid "x - failed to create lock directory %s."
+msgstr "x - དཀར་ཆག་སྒོ་ལྕགས %s བཟོ་ཐབས་བྲལ།"
+
+msgid "x - failed to remove lock directory %s."
+msgstr "x - དཀར་ཆག་སྒོ་ལྕགས %s སུབ་ཐབས་བྲལ།"
+
+msgid "x - overwriting %s"
+msgstr "x- %s འགེབས་བཞིན་པ།"
+
+msgid "x - removed lock directory %s."
+msgstr "x - དཀར་ཆག་སྒོ་ལྕགས %s སུབ་ཟིན་པ།"
+
+msgid "yes"
+msgstr "ཡིན།"

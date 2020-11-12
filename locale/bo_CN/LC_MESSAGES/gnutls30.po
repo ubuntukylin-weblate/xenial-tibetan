@@ -1,0 +1,982 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "\t\t\tASCII: "
+msgstr "\t\t\tASCII："
+
+msgid "\t\t\tAuthentication.\n"
+msgstr "\t\t\tར་སྤྲོད། \n"
+
+msgid "\t\t\tCertificate signing.\n"
+msgstr ""
+"\t\t\tར་སྤྲོད་མིང་འགོད། \n"
+"\""
+
+msgid "\t\t\tCommunications encipherment.\n"
+msgstr "\t\t\tའཕྲིན་བརྡ་གསང་སྡོམ། \n"
+
+msgid "\t\t\tDigital signatures.\n"
+msgstr ""
+"\t\t\tཨང་ཀིས་མིང་འགོད། \n"
+"\""
+
+msgid "\t\t\tHexdump: "
+msgstr "\t\t\tབཅུ་དྲུག་གོང་འགྲིལ་ལུགས་ཀྱི་སྤོར་གསོག"
+
+msgid "\t\t\tNot After: %s\n"
+msgstr "\t\t\tལས་མི་འཕྱི་བ།  %s\n"
+
+msgid "\t\t\tNot Before: %s\n"
+msgstr "\t\t\tལས་མི་སྔ་བ།   %s\n"
+
+msgid "\t\t\tPath Length Constraint: %d\n"
+msgstr "\t\t\tའགྲོ་ལམ་རིང་ཚད་རྒྱུན་གྲངས། %d\n"
+
+msgid "\t\t\tPolicy Language: %s"
+msgstr "\t\t\tཐབས་ཇུས་སྐད་བརྡ། %s"
+
+msgid "\t\t\tStorage data encipherment.\n"
+msgstr "\t\t\tགསོག་འཇོག་གཞི་གྲངས་གསང་སྡོམ། \n"
+
+msgid "\t\tAuthority Key Identifier (%s):\n"
+msgstr "\t\tདབང་སྐུར་གསང་ལྡེ་ངོས་འཛིན་ཆས（%s）：\n"
+
+msgid "\t\tCRL Number (%s): "
+msgstr "\t\tCRL ཨང་རྟགས།（%s）"
+
+msgid "\t\tChallenge password: %s\n"
+msgstr "\t\tའདྲི་རྩད་གསང་ཨང་། %s\n"
+
+msgid "\t\tCreation: %s\n"
+msgstr "\t\tགསར་དུ་བསྐྲུན། %s\n"
+
+msgid "\t\tCurve:\t%s\n"
+msgstr "\t\tའཁྱོག་ཐིག \t%s\n"
+
+msgid "\t\tExpiration: %s\n"
+msgstr "\t\tདུས་ཡོལ་བ། %s\n"
+
+msgid "\t\tExpiration: Never\n"
+msgstr "\t\tདུས་ཡོལ་བ།དུས་ཡོལ་གཏན་བྲལ།\n"
+
+msgid "\t\tExponent (bits %d):\n"
+msgstr "\t\tསྟོན་གྲངས།（གནས། %d）：\n"
+
+msgid "\t\tExponent (bits %d): "
+msgstr "\t\tསྟོན་གྲངས།（གནས། %d）"
+
+msgid "\t\tExponent:\n"
+msgstr "\t\tགསལ་བཤད། \n"
+
+msgid "\t\tG:\n"
+msgstr "\t\tG：\n"
+
+msgid "\t\tG: "
+msgstr "\t\tG："
+
+msgid "\t\tIssued: %s\n"
+msgstr "\t\tའགྲེམ་སྤེལ།%s\n"
+
+msgid "\t\tKey Usage:\n"
+msgstr "\t\tགསང་ལྡེ་སྤྱོད་སྟངས།\n"
+
+msgid "\t\tModulus (bits %d):\n"
+msgstr "\t\tདཔེ་དུམ།(གནས། %d)：\n"
+
+msgid "\t\tModulus (bits %d): "
+msgstr "\t\tསྨོ་གྲངས།（གནས། %d）"
+
+msgid "\t\tNext Update: %s\n"
+msgstr "\t\tརྗེས་མར་གསར་བསྒྱུར།%s\n"
+
+msgid "\t\tNext at: %s\n"
+msgstr "\t\tཐེངས་རྗེས་མའི་གནས%s\n"
+
+msgid "\t\tNot After: %s\n"
+msgstr "\t\tམི་འཕྱི་བ། %s\n"
+
+msgid "\t\tNot Before: %s\n"
+msgstr "\t\tམི་སྔ་བ། %s\n"
+
+msgid "\t\tP:\n"
+msgstr "\t\tP：\n"
+
+msgid "\t\tP: "
+msgstr "\t\tP："
+
+msgid "\t\tPublic key (bits %d):\n"
+msgstr "\t\tསྤྱི་ལྡེ།（གནས %d）：\n"
+
+msgid "\t\tPublic key (bits %d): "
+msgstr "\t\tསྤྱི་ལྡེ།（གནས %d）："
+
+msgid "\t\tQ:\n"
+msgstr "\t\tQ：\n"
+
+msgid "\t\tQ: "
+msgstr "\t\tQ："
+
+msgid "\t\tRevocation time: %s\n"
+msgstr "\t\tཕྱིར་བསྡུའི་དུས་ཚོད།：%s\n"
+
+msgid "\t\tRevoked at: %s\n"
+msgstr "\t\tཕྱིར་འཐེན།：%s\n"
+
+msgid "\t\tSerial Number (hex): "
+msgstr "\t\tརིམ་སྟར་ཨང་རྟགས།（hex）："
+
+msgid "\t\tThis Update: %s\n"
+msgstr "\t\tཐེངས་འདིའི་གསར་སྒྱུར། ：%s\n"
+
+msgid "\t\tUnknown attribute %s:\n"
+msgstr "\t\tངེས་མེད་ཀྱི་གཏོགས་གཤིས། %s：\n"
+
+msgid "\t\tUnknown extension %s (%s):\n"
+msgstr "\t\tངེས་མེད་ཀྱི་རྒྱ་སྐྱེད། %s（%s）：\n"
+
+msgid "\t\tX:\n"
+msgstr "\t\tX：\n"
+
+msgid "\t\tX: "
+msgstr "\t\tX："
+
+msgid "\t\tY:\n"
+msgstr "\t\tY：\n"
+
+msgid "\t\tY: "
+msgstr "\t\tY："
+
+msgid "\t%sPublic Key Algorithm: %s\n"
+msgstr "\t%sསྤྱི་ལྡེའི་རྩི་ཐབས།%s\n"
+
+msgid "\tAlgorithm Security Level: %s (%d bits)\n"
+msgstr "\tརྩི་ཐབས་ཀྱི་བདེ་འཇགས་རིགས་གྲས།%s（%dགནས། ）\n"
+
+msgid "\tAttributes:\n"
+msgstr "\tགཏོགས་གཤིས།：\n"
+
+msgid "\tExtensions:\n"
+msgstr "\tརྒྱ་སྐྱེད། \n"
+
+msgid "\tFingerprint (hex): "
+msgstr "\tམཛུབ་རིས།（hex）： "
+
+msgid "\tFingerprint's random art:\n"
+msgstr "\tམཛུབ་རིས་ལ་ཁ་གཏད་པའི་སྐབས་བསྟུན་བརྙན་རིས།：\n"
+
+msgid "\tID (hex): "
+msgstr "\tID（hex）："
+
+msgid "\tIssuer: %s\n"
+msgstr "\tའགྲེམ་སྤེལ་མཁན། ：%s\n"
+
+msgid "\tKey Security Level: %s\n"
+msgstr "\tགསང་ལྡེའི་བདེ་འཇགས་རིགས་གྲས། ：%s\n"
+
+msgid "\tName[%d]: %s\n"
+msgstr "\tམིང་།[%d]：%s\n"
+
+msgid "\tNo revoked certificates.\n"
+msgstr "\tཕྱིར་འཐེན་མ་བྱས་པའི་དཔང་ཡིག\n"
+
+msgid "\tProduced At: %s\n"
+msgstr "\t\tལ་ཐོན་སྐྱེད་བྱས། ：%s\n"
+
+msgid "\tPublic Key Algorithm: %s\n"
+msgstr "\tསྤྱི་ལྡེའི་རྩི་ཐབས། ：%s\n"
+
+msgid "\tResponder ID: %.*s\n"
+msgstr "\tདང་ལེན་མཁན། ID：%.*s\n"
+
+msgid "\tRevoked Name[%d]: %s\n"
+msgstr "\tཕྱིར་བསྡུའི་མིང་།[%d]：%s\n"
+
+msgid "\tRevoked certificates (%d):\n"
+msgstr "\tཕྱིར་འཐེན་བྱས་པའི་དཔང་ཡིག（%d）：\n"
+
+msgid "\tRevoked: False\n"
+msgstr "\tཕྱིར་འཐེན་འདུག་གམ།： འཐེན་མི་འདུག\n"
+
+msgid "\tRevoked: True\n"
+msgstr "\tཕྱིར་འཐེན་འདུག་གམ། ：འཐེན་འདུག\n"
+
+msgid "\tSerial Number (hex): "
+msgstr "\tརིམ་སྟར་ཨང་གྲངས།（16གོང་འགྲིལ་ལུགས།）："
+
+msgid "\tSignature Algorithm: %s\n"
+msgstr "\tམིང་འགོད་རྩི་ཐབས།：%s\n"
+
+msgid "\tSignature:\n"
+msgstr "\tམིང་འགོད།：\n"
+
+msgid "\tSubject: %s\n"
+msgstr "\tབརྗོད་སྙིང་།：%s\n"
+
+msgid "\tTime stamps:\n"
+msgstr "\tདུས་ཐམ།：\n"
+
+msgid "\tUpdate dates:\n"
+msgstr "\tགསར་སྒྱུར་དུས་ཚོད།：\n"
+
+msgid "\tValidity:\n"
+msgstr "\tནུས་ལྡན་རང་བཞིན།：\n"
+
+msgid "\tVersion: %d\n"
+msgstr "\tཔར་གཞི།：%d\n"
+
+msgid "\tVersion: 1 (default)\n"
+msgstr "\tཔར་གཞི།1（སོར་བཞག）\n"
+
+msgid "%s\t\t\tASCII: "
+msgstr "%s\t\t\tASCII："
+
+msgid "%s\t\t\tAny purpose.\n"
+msgstr "%s\t\t\tདམིགས་ཡུལ་གང་རུང་།\n"
+
+msgid "%s\t\t\tCertificate Authority (CA): FALSE\n"
+msgstr "%s\t\t\tདཔང་ཡིག་སྤྲོད་མཁན་སྒྲིག་གཞི（CA）：FALSE\n"
+
+msgid "%s\t\t\tCertificate Authority (CA): TRUE\n"
+msgstr "%s\t\t\\དཔང་ཡིག་སྤྲོད་མཁན་སྒྲིག་གཞི（CA）：TRUE\n"
+
+msgid "%s\t\t\tCode signing.\n"
+msgstr "%s\t\t\tཚབ་ཨང་མིང་འགོད། \n"
+
+msgid "%s\t\t\tEmail protection.\n"
+msgstr "%s\t\t\tEmail སྲུང་སྐྱོབ།\n"
+
+msgid "%s\t\t\tHexdump: "
+msgstr "%s\t\t\tབཅུ་དྲུག་གོང་འགྲིལ་ལུགས་སྤོར་གསོག"
+
+msgid "%s\t\t\tIpsec IKE.\n"
+msgstr "%s\t\t\tIpsec ནང་ཁུལ་གསང་ལྡེ་བརྗེ་བ།（IKE）\n"
+
+msgid "%s\t\t\tOCSP signing.\n"
+msgstr "%s\t\t\tOCSP མིང་འགོད།\n"
+
+msgid "%s\t\t\tPath Length Constraint: %d\n"
+msgstr "%s\t\t\t འགྲོ་ལམ་རིང་ཚད་ཚོད་འཛིན།%d\n"
+
+msgid "%s\t\t\tTLS WWW Client.\n"
+msgstr "%s\t\t\tTLS WWWམཁོ་མཁན་ཕྱོགས། \n"
+
+msgid "%s\t\t\tTLS WWW Server.\n"
+msgstr "%s\t\t\tTLS WWW ཞབས་ཞུ་ཆས།\n"
+
+msgid "%s\t\t\tTime stamping.\n"
+msgstr "%s\t\t\tདུས་ཐམ། \n"
+
+msgid "%s\t\t\totherName DER: "
+msgstr "%s\t\t\totherName ཁྱད་འབྱེད་སྒྲིག་ཨང་སྒྲིག་སྲོལ།（DER）"
+
+msgid "%s\t\t\totherName OID: %.*s\n"
+msgstr "%s\t\t\totherName བྱ་ཡུལ་ངོ་རྟགས།（OID）：%.*s\n"
+
+msgid "%s\t\tAuthority Information Access (%s):\n"
+msgstr "%s\t\tརྩོམ་པ་པོའི་ཆ་འཕྲིན་འཇུག་སྒོ།（%s）：\n"
+
+msgid "%s\t\tAuthority Key Identifier (%s):\n"
+msgstr "%s\t\tརྩོམ་པ་པོའི་གསང་ལྡེ་ངོ་རྟགས།（%s）：\n"
+
+msgid "%s\t\tBasic Constraints (%s):\n"
+msgstr "%s\t\tགཞི་རྩའི་ཚོད་འཛིན།（%s）：\n"
+
+msgid "%s\t\tCRL Distribution points (%s):\n"
+msgstr "%s\t\tCRL བགོ་འགྲེམ་གནས།（%s）：\n"
+
+msgid "%s\t\tIssuer Alternative Name (%s):\n"
+msgstr "%s\t\tའགྲེམ་སྤེལ་མཁན་གྱི་གྲབས་གཤོམ་མིང་།（%s）：\n"
+
+msgid "%s\t\tKey Purpose (%s):\n"
+msgstr "%s\t\tགསང་ལྡེའི་དམིགས་ཡུལ།（%s）：\n"
+
+msgid "%s\t\tKey Usage (%s):\n"
+msgstr "%s\t\tགསང་ལྡེའི་སྤྱོད་སྟངས།（%s）：\n"
+
+msgid "%s\t\tPrivate Key Usage Period (%s):\n"
+msgstr "%s\t\tགསང་ལྡེའི་སྤྱོད་ཡུན།（%s）：\n"
+
+msgid "%s\t\tProxy Certificate Information (%s):\n"
+msgstr "%s\t\tལས་ཚབ་དཔང་ཡིག་ཆ་འཕྲིན།(%s)：\n"
+
+msgid "%s\t\tSubject Alternative Name (%s):\n"
+msgstr "%s\t\tགཙོ་སྙིང་གྲབས་གཤོམ་མིང་།（%s）：\n"
+
+msgid "%s\t\tSubject Key Identifier (%s):\n"
+msgstr "%s\t\tགཙོ་སྙིང་གསང་ལྡེའི་ངོ་རྟགས།（%s）：\n"
+
+msgid "%s\t\tUnknown extension %s (%s):\n"
+msgstr "%s\t\tངེས་མེད་ཀྱི་རྒྱ་སྐྱེད། %s（%s）：\n"
+
+msgid "%s\tExtensions:\n"
+msgstr "%s\tརྒྱ་སྐྱེད། \n"
+
+msgid "%sCRL signing.\n"
+msgstr "%sCRL མིང་འགོད། \n"
+
+msgid "%sCertificate signing.\n"
+msgstr "%sདཔང་ཡིག་མིང་འགོད། \n"
+
+msgid "%sData encipherment.\n"
+msgstr "%sགཞི་གྲངས་གསང་སྡོམ། \n"
+
+msgid "%sDigital signature.\n"
+msgstr "%sཨང་ཀིས་མིང་འགོད། \n"
+
+msgid "%sKey agreement.\n"
+msgstr "%sགསང་ལྡེའི་གྲོས་ཆིངས།\n"
+
+msgid "%sKey decipher only.\n"
+msgstr "%sགསང་ལྡེ་ཁོ་ནས་གསང་འགྲོལ། \n"
+
+msgid "%sKey encipher only.\n"
+msgstr "%sགསང་ལྡེ་ཁོ་ནས་གསང་སྡོམ། \n"
+
+msgid "%sKey encipherment.\n"
+msgstr "%sགསང་ལྡེས་གསང་སྡོམ། \n"
+
+msgid "%sNon repudiation.\n"
+msgstr "%sཁས་མི་ལེན་ཐབས་བྲལ། \n"
+
+msgid "(unknown error code)"
+msgstr "（མི་ཤེས་པའི་ནོར་འཁྲུལ་ཚབ་ཨང་།）"
+
+msgid "A TLS fatal alert has been received."
+msgstr "TLSཡི་རབ་གནོད་ནོར་འཁྲུལ་ཉེན་བརྡ་ཞིག་འབྱོར་བ། "
+
+msgid "A TLS packet with unexpected length was received."
+msgstr "རིང་ཚད་སྔོན་དཔག་མ་བྱས་པའི་TLSཡི་གཞི་གྲངས་ཐུམ་ཞིག་འབྱོར། "
+
+msgid "A TLS warning alert has been received."
+msgstr "TLSཡི་ཐ་ཚིག་ཆ་འཕྲིན་ཞིག་འབྱོར། "
+
+msgid "A heartbeat ping message was received."
+msgstr "ཧ་ཅང་ཆེ་བའི་ping（རེ་ཞུ་）བརྡ་འཕྲིན་འབྱོར། "
+
+msgid "A heartbeat pong message was received."
+msgstr "ཧ་ཅང་ཆེ་བའི་Pong（དང་ལེན་）བརྡ་འཕྲིན་འབྱོར། "
+
+msgid "ASN1 parser: Element was not found."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：གཞི་རྒྱུ་མི་རྙེད།"
+
+msgid "ASN1 parser: Error in DER parsing."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：DERཞིབ་འགྲེལ་སྐབས་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "ASN1 parser: Error in TAG."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：གདོང་འཛར་དུ་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "ASN1 parser: Error in type 'ANY'."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：ANYརིགས་གྲས་ཁྲོད་དུ་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "ASN1 parser: Generic parsing error."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：རྒྱུན་སྲོལ་ཞིབ་འགྲེལ་ཁྲོད་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "ASN1 parser: Identifier was not found"
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：མཚོན་རྟགས་མི་རྙེད། "
+
+msgid "ASN1 parser: Overflow in DER parsing."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：DERཞིབ་འགྲེལ་ཁྲོད་དུ་ཕྱིར་ལུད་པའི་གནས་ཚུལ་བྱུང་། "
+
+msgid "ASN1 parser: Syntax error."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：བརྡ་སྤྲོད་ཐད་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "ASN1 parser: Value is not valid."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།ནུས་པ་མེད་པའི་གྲངས་ཐང་། "
+
+msgid "ASN1 parser: Value was not found."
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：གྲངས་ཐང་རྙེད་མ་བྱུང་། "
+
+msgid "ASN1 parser: error in implicit tag"
+msgstr "ASllཞིབ་འགྲེལ་ཆས།：གབ་པའི་གདོང་འཛར་ནང་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Access was denied"
+msgstr "ལྟ་སྤྱོད་དང་ལེན་མ་བྱས།"
+
+msgid "An algorithm that is not enabled was negotiated."
+msgstr "གྲོས་མོལ་གྱི་རྩི་ཐབས་སྤྱོད་འགོ་ཚུགས་མེད།"
+
+msgid "An error was encountered at the TLS Finished packet calculation."
+msgstr "TLSགཞི་གྲངས་ཐུམ་རྩིས་རྒྱག་པའི་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "An illegal TLS extension was received."
+msgstr "ཁྲིམས་འགལ་གྱི་TLSརྒྱ་སྐྱེད་ཐུམ་ཞིག་འབྱོར། "
+
+msgid "An illegal parameter has been received."
+msgstr "ཁྲིམས་དང་མི་མཐུན་པའི་ཞུགས་གྲངས་ཤིག་འབྱོར། "
+
+msgid "An illegal parameter was found."
+msgstr "ཁྲིམས་དང་མི་མཐུན་པའི་ཞུགས་གྲངས་ཤིག་རྙེད། "
+
+msgid "An unexpected TLS handshake packet was received."
+msgstr "སྔོན་དཔག་བྱས་མེད་པའི་TLSལག་འཇུ་ཡི་གཞི་གྲངས་ཐུམ་འབྱོར། "
+
+msgid "An unexpected TLS packet was received."
+msgstr "སྔོན་དཔག་བྱས་མེད་པའི་TLSགཞི་གྲངས་ཐུམ་ཞིག་འབྱོར། "
+
+msgid "An unimplemented or disabled feature has been requested."
+msgstr ""
+"རེ་ཞུའི་ཁྱད་ཆོས་ད་དུང་མངོན་འགྱུར་བྱུང་མེད་པའམ་ཡང་ན་བེད་སྤྱོད་བཀག་ཟིན་པ། "
+
+msgid "An unknown public key algorithm was encountered."
+msgstr "ངེས་མེད་ཀྱི་སྤྱི་ལྡེའི་རྩི་ཐབས་ལ་འཕྲད། "
+
+msgid "An unsupported extension was sent"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་རྒྱ་སྐྱེད་ཞིག་བསྐུར།"
+
+msgid "Bad record MAC"
+msgstr "MACཟིན་ཐོར་ནོར་འཁྲུལ་འདུག"
+
+msgid "Base64 decoding error."
+msgstr "Base64ཨང་འགྲོལ་ནོར་འཁྲུལ་བྱུང་བ། "
+
+msgid "Base64 encoding error."
+msgstr "Base64ཨང་སྒྲིག་ནོར་འཁྲུལ་བྱུང་བ། "
+
+msgid "Base64 unexpected header error."
+msgstr "Base64ཡི་མགོ་ལ་སྔོན་དཔག་བྱས་མེད་པའི་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "CA is unknown"
+msgstr "ངེས་མེད་ཀྱི་CA"
+
+msgid "Cannot initialize a session with the TPM."
+msgstr "TPMསྤྱད་ནས་བགྲོ་གླེང་འགོ་སྒྲིག་བྱེད་ཐབས་བྲལ། "
+
+msgid "Certificate is bad"
+msgstr "དཔང་ཡིག་ལ་ནོར་འཁྲུལ་འདུག"
+
+msgid "Certificate is expired"
+msgstr "དཔང་ཡིག་དུས་ལས་ཡོལ་བ།"
+
+msgid "Certificate is not supported"
+msgstr "དཔང་ཡིག་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "Certificate was revoked"
+msgstr "དཔང་ཡིག་རྩིས་མེད་དུ་བཏང་ཟིན་པ།"
+
+msgid "Channel binding data not available"
+msgstr "རྒྱུ་ལམ་བསྡམ་པའི་གཞི་གྲངས་སྤྱོད་མི་རུང་བ།"
+
+msgid "Close notify"
+msgstr "བརྡ་ཐོའི་སྒོ་རྒྱག་པ།"
+
+msgid "Compression of the TLS record packet has failed."
+msgstr "TLSཟིན་བྲིས་གཞི་གྲངས་ཐུམ་བཙིར་མནོན་ཕམ་པ། "
+
+msgid "Could not authenticate peer."
+msgstr "ཕྱོགས་ཅིག་ཤོས་ལ་ར་སྤྲོད་བྱེད་ཐབས་བྲལ། "
+
+msgid "Could not export a large integer."
+msgstr "གྲངས་ཧྲིལ་ཕྱིར་གཏོང་ཐབས་བྲལ། "
+
+msgid "Could not find OpenPGP subkey."
+msgstr "OpenPGPཡི་བུ་གསང་ལྡེ་རྙེད་ཐབས་བྲལ། "
+
+msgid "Could not get OpenPGP key."
+msgstr "OpenPGPགསང་ལྡེ་ཐོབ་ཐབས་བྲལ། "
+
+msgid "Could not negotiate a supported cipher suite."
+msgstr "གྲོས་མོལ་གྱིས་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྲལ་བའི་གསང་ཨང་རྩི་ཐབས། "
+
+msgid "Could not negotiate a supported compression method."
+msgstr "གྲོས་མོལ་རྒྱབ་སྐྱོར་བྱེད་ཐབས་བྲལ་པའི་བཙིར་གནོན་བྱེད་ཐབས། "
+
+msgid "Could not retrieve the specified certificate"
+msgstr "དམིགས་འཛུགས་བྱས་པའི་དཔང་ཡིག་ཐོབ་ཐབས་བྲལ་བ།"
+
+msgid "Decode error"
+msgstr "ཨང་འགྲོལ་ནོར་འཁྲུལ།"
+
+msgid "Decompression failed"
+msgstr "བསྡུས་འགྲོལ་ཕམ་པ།"
+
+msgid "Decompression of the TLS record packet has failed."
+msgstr "TLSཟིན་བྲིས་གཞི་གྲངས་ཐུམ་བསྡུས་འགྲོལ་་ཕམ་པ། "
+
+msgid "Decrypt error"
+msgstr "གསང་འགྲོལ་ནོར་བ།"
+
+msgid "Decryption failed"
+msgstr "གསང་འགྲོལ་ཕམ་པ།"
+
+msgid "Decryption has failed."
+msgstr "གསང་འགྲོལ་ཕམ་པ།"
+
+msgid "Encryption has failed."
+msgstr "གསང་སྡོམ་ཕམ་པ། "
+
+msgid "Error in Database backend."
+msgstr "གཞི་གྲངས་མཛོད་ཀྱི་མཇུག་སྣེར་ནོར་འཁྲུལ་བྱུང་། "
+
+msgid "Error in parsing."
+msgstr "ཞིབ་འགྲེལ་ནོར་འཁྲུལ། "
+
+msgid "Error in password file."
+msgstr "གསང་ཨང་ཡིག་ཆའི་ནོར་འཁྲུལ།"
+
+msgid "Error in protocol version"
+msgstr "གྲོས་མཐུན་པར་གཞི་ནོར་བ།"
+
+msgid "Error in provided PIN."
+msgstr "སྤྲད་པའི་PINཁྲོད་ནོར་འཁྲུལ་ཡོད་པ། "
+
+msgid "Error in provided SRK password for TPM."
+msgstr "TPMལ་བཀོལ་བའི་SRKགསང་ཨང་ལ་ནོར་འཁྲུལ་འདུག"
+
+msgid "Error in provided password for key to be loaded in TPM."
+msgstr "TPMནང་འཇུག་ལ་སྤྱད་པའི་གསང་ལྡེའི་གསང་ཨང་ལ་ནོར་འཁྲུལ་འདུག"
+
+msgid "Error in the certificate."
+msgstr "དཔང་ཡིག་ནོར་བ། "
+
+msgid "Error in the pull function."
+msgstr "pullརྟེན་འབྱུང་གྲངས་ཁྲོད་ནོར་འཁྲུལ་བྱུང་བ། "
+
+msgid "Error in the push function."
+msgstr "puhརྟེན་འབྱུང་གྲངས་ཀྱི་ནང་དུ་ནོར་འཁྲུལ་བྱུང་བ། "
+
+msgid "Error in the system's randomness device."
+msgstr "རྒྱུད་ཁོངས་སྐབས་བསྟུན་ཅན་གྱི་སྒྲིག་ཆས་ནོར་འཁྲུལ། "
+
+msgid "Error interfacing with /dev/crypto"
+msgstr "དང་ /dev/crypto བརྗེ་བ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error loading the keyring."
+msgstr "གསང་ལྡེ་ནང་འཇུག་སྐབས་ནོར་འཁྲུལ་བྱུང་བ། "
+
+msgid "Error opening /dev/crypto"
+msgstr " /dev/crypto ཁ་ཕྱེ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error while reading file."
+msgstr "ཡིག་ཆ་ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་བ། "
+
+msgid "Export restriction"
+msgstr "ཕྱིར་འདོན་ཚད་འཛིན།"
+
+msgid "Failed to acquire random data."
+msgstr "སྐབས་བསྟུན་གཞི་གྲངས་ཐོབ་ལེན་ཕམ་པ།"
+
+msgid "Function was interrupted."
+msgstr "རྟེན་འབྱུང་གྲངས་བར་མཚམས་བཅད། "
+
+msgid "GnuTLS internal error."
+msgstr "GnuTLSནང་ཁུལ་གྱི་ནོར་འཁྲུལ། "
+
+msgid "Handshake failed"
+msgstr "ལག་འཇུ་ཕམ་པ།"
+
+msgid "Hashing has failed."
+msgstr "ཐོར་སྒྲིག་རྩིས་རྒྱག་ཕམ་པ། "
+
+msgid "Illegal parameter"
+msgstr "ཁྲིམས་འགལ་ཞུགས་གྲངས།"
+
+msgid "Insufficient credentials for that request."
+msgstr "རེ་ཞུ་འདིའི་ཡིད་རྟོན་དཔང་ཡིག་མི་འདང་བ། "
+
+msgid "Insufficient security"
+msgstr "བདེ་འཇགས་དེ་ཙམ་མིན་པ།"
+
+msgid "Internal error"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
+
+msgid "Internal error in memory allocation."
+msgstr "ནང་གསོག་བགོ་འགྲེམས་བྱེད་སྐབས་ནང་ཁུལ་གྱི་ནོར་འཁྲུལ་ཤོར་བ། "
+
+msgid "Key usage violation in certificate has been detected."
+msgstr "དཔང་ཡིག་ནང་སྒྲིག་འགལ་གྱི་གསང་ལྡེ་སྤྱོད་སྟངས་བཤེར་འཇལ་བྱུང་།"
+
+msgid "No certificate (SSL 3.0)"
+msgstr "དཔང་ཡིག་མེད་པའི་（SSL 3.0）"
+
+msgid "No certificate was found."
+msgstr "དཔང་ཡིག་མི་རྙེད། "
+
+msgid "No common application protocol could be negotiated."
+msgstr ""
+"གྲོས་མོལ་ལ་སྤྱོད་ཆོག་པའི་སྤྱི་སྤྱོད་ཉེར་སྤྱོད་བྱ་རིམ་གྱི་གྲོས་ཆིངས་མེད་པ། "
+
+msgid "No or insufficient priorities were set."
+msgstr ""
+"སྔོན་ཐོབ་རིམ་པ་སྡེབ་སྒྲིག་བྱས་མེད་པའམ་ཡང་ན་སྔོན་ཐོབ་རིམ་པའི་མཐོ་ཚད་མི་འདང་བ།"
+" "
+
+msgid "No renegotiation is allowed"
+msgstr "གྲོས་མོལ་ཐེངས་གཉིས་པ་བྱས་མི་ཆོག"
+
+msgid "No supported ECC curves were found"
+msgstr "རྒྱབ་སྐྱོར་བྱེད་པའི་ECCའཁྱོག་ཐིག་རྙེད་མ་བྱུང་།"
+
+msgid "No supported application protocol could be negotiated"
+msgstr "གྲོས་མོལ་ལ་སྤྱོད་ཆོག་པའི་ཉེར་སྤྱོད་བྱ་རིམ་གྱི་གྲོས་ཆིངས་མེད་པ།"
+
+msgid "No supported cipher suites have been found."
+msgstr "རྒྱབ་སྐྱོར་བྱེད་པའི་གསང་ཨང་ཀྱི་གྲུབ་ལུགས་མི་རྙེད་པ། "
+
+msgid "No supported compression algorithms have been found."
+msgstr "རྒྱབ་སྐྱོར་བྱེད་པའི་བཙིར་མནོན་རྩི་ཐབས་མི་རྙེད་པ། "
+
+msgid "No temporary DH parameters were found."
+msgstr "གནས་སྐབས་ཀྱི་DHཞུགས་གྲངས་མ་རྙེད། "
+
+msgid "No temporary RSA parameters were found."
+msgstr "RSAགནས་སྐབས་ཞུགས་གྲངས་མ་རྙེད། "
+
+msgid "OCSP Request Information:\n"
+msgstr "OCSPརེ་ཞུའི་ཆ་འཕྲིན།\n"
+
+msgid "OCSP Response Information:\n"
+msgstr "OCSPདང་ལེན་ཆ་འཕྲིན།\n"
+
+msgid "OpenPGP Certificate Information:\n"
+msgstr "OpenPGPདཔང་ཡིག་གི་ཆ་འཕྲིན།\n"
+
+msgid "Other Information:\n"
+msgstr "ཆ་འཕྲིན་གཞན་དག\n"
+
+msgid "PKCS #10 Certificate Request Information:\n"
+msgstr "PKCS #10 དཔང་ཡིག་རེ་ཞུའི་ཆ་འཕྲིན།\n"
+
+msgid "PKCS #11 PIN expired"
+msgstr "PKCS #11 PINདུས་ལས་ཡོལ་བ།"
+
+msgid "PKCS #11 PIN locked"
+msgstr "PKCS #11 PINདམིགས་འཛིན་བྱས་པ།"
+
+msgid "PKCS #11 error in attribute"
+msgstr "PKCS #11 1གཏོགས་གཤིས་ནོར་འཁྲུལ།"
+
+msgid "PKCS #11 error in data"
+msgstr "PKCS #11 གཞི་གྲངས་ནོར་འཁྲུལ།"
+
+msgid "PKCS #11 error in device"
+msgstr "PKCS #11 སྒྲིག་ཆས་ནོར་འཁྲུལ།"
+
+msgid "PKCS #11 error in key"
+msgstr "PKCS #11 གསང་ལྡེ་ནོར་འཁྲུལ།"
+
+msgid "PKCS #11 error in session"
+msgstr "PKCS #11 གླེང་མོལ་ནོར་འཁྲུལ།"
+
+msgid "PKCS #11 error in signature"
+msgstr "PKCS #11 མིང་འགོད་ནོར་འཁྲུལ།"
+
+msgid "PKCS #11 error in slot"
+msgstr "PKCS #11 མཐུད་ཤུར་ནོར་འཁྲུལ།"
+
+msgid "PKCS #11 error in token"
+msgstr "PKCS #11 བརྡ་རྟགས་ནོར་འཁྲུལ།"
+
+msgid "PKCS #11 error."
+msgstr "PKCS #11 ཡི་ནོར་འཁྲུལ། "
+
+msgid "PKCS #11 initialization error."
+msgstr "PKCS #11 འགོ་སྒྲིག་ནོར་འཁྲུལ། "
+
+msgid "PKCS #11 unsupported feature"
+msgstr "PKCS #11 གཏོགས་གཤིས་ཀྱིས་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "PKCS #11 user error"
+msgstr "PKCS #11 སྤྱོད་མཁན་གྱི་ནོར་འཁྲུལ།"
+
+msgid "Parsing error in password file."
+msgstr "གསང་ཨང་ཡིག་ཆའི་ཞིབ་འགྲེལ་ནོར་འཁྲུལ། "
+
+msgid "Peer has terminated the connection"
+msgstr "ཕ་རོལ་པོས་འབྲེལ་མཐུད་བྱེད་མཚམས་བཞག"
+
+msgid "Public Key ID: "
+msgstr "སྤྱི་ལྡེ་ID："
+
+msgid "Public Key Information:\n"
+msgstr "སྤྱི་ལྡེ་ཆ་འཕྲིན།：\n"
+
+msgid "Public Key Usage:\n"
+msgstr "སྤྱི་ལྡེ་སྤྱོད་སྟངས།：\n"
+
+msgid "Public key decryption has failed."
+msgstr "སྤྱི་ལྡེ་གསང་འགྲོལ་ཕམ་པ། "
+
+msgid "Public key encryption has failed."
+msgstr "སྤྱི་ལྡེ་གསང་སྡོམ་ཕམ་པ། "
+
+msgid "Public key signature verification has failed."
+msgstr "སྤྱི་ལྡེ་མིང་འགོད་ར་སྤྲོད་ཕམ་པ། "
+
+msgid "Public key signing has failed."
+msgstr "སྤྱི་ལྡེ་མིང་འགོད་ཕམ་པ། "
+
+msgid "Record overflow"
+msgstr "ཟིན་ཐོ་ཕྱིར་ལུད།"
+
+msgid "Rehandshake was requested by the peer."
+msgstr "ཕ་རོལ་པོས་རེ་བ་ལྟར་སླར་ཡང་ལག་འཇུ་བྱེད། "
+
+msgid "Resource temporarily unavailable, try again."
+msgstr "ཐོན་ཁུངས་གནས་སྐབས་བེད་སྤྱོད་བྱེད་མི་ཆོགཡང་བསྐྱར་ཚོད་ལྟ་ཞིག་བྱོས། "
+
+msgid "Safe renegotiation failed."
+msgstr "ཐེངས་གཉིས་པའི་བདེ་འཇགས་གྲོས་མོལ་ཕམ་པ། "
+
+msgid "Some constraint limits were reached."
+msgstr "ཚོད་འཛིན་ཁ་ཤས་ཀྱི་འཆིང་གཅུན་ཚད་ལ་སླེབས་ཡོད། "
+
+msgid "Subject "
+msgstr "བརྗོད་སྙིང་།"
+
+msgid "Success."
+msgstr "ལེགས་གྲུབ།"
+
+msgid "TLS Application data were received, while expecting handshake data."
+msgstr ""
+"TLSལག་འཇུའི་གཞི་གྲངས་བསྡུ་ལེན་ལ་སྒུགས་སྐབསའབྱོར་པའི་ཉེར་སྤྱོད་གཞི་གྲངས། "
+
+msgid "TPM error."
+msgstr "TPMནོར་འཁྲུལ། "
+
+msgid "TPM is not initialized."
+msgstr "TPMའགོ་སྒྲིག་བྱས་མེད། "
+
+msgid "TPM key was not found in persistent storage."
+msgstr "གཏན་ཏུ་གསོག་འཇོག་ཁྲོད་དུ་TPMགསང་ལྡེ་མ་རྙེད། "
+
+msgid ""
+"The Diffie-Hellman prime sent by the server is not acceptable (not long "
+"enough)."
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཀྱིས་བསྐུར་བའི་Diffie-Hellenརྒྱུའི་གྲངས་སྡུད་ལེན་བྱེད་ཐབས་བྲལ་པ། "
+"(རིང་ཚད་ཀྱིས་མི་འདང་བ།）"
+
+msgid "The Message Authentication Code verification failed."
+msgstr "ཆ་འཕྲིན་ར་སྤྲོད་ཀྱི་ཚབ་ཨང་ངོས་འཛིན་ཕམ་པ།"
+
+msgid "The OCSP response is invalid"
+msgstr "OCSPདང་ལེན་ནུས་མེད།"
+
+msgid "The OID is not supported."
+msgstr "OIDལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "The OpenPGP User ID is revoked."
+msgstr "OpenPGPསྤྱོད་མཁནIDརྩིས་མེད་བཏང་ཟིན། "
+
+msgid "The OpenPGP fingerprint is not supported."
+msgstr "OpenPGPམཛུབ་རིས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ། "
+
+msgid "The OpenPGP key has not a preferred key set."
+msgstr "OpenPGPལ་དམིགས་འཛུགས་སྔོན་འདེམས་གསང་ལྡེ་སྤྲད་མེད་པ། "
+
+msgid "The PKCS structure's bag type is unknown."
+msgstr "མི་ཤེས་པའི་PKCSཐུམ་མའི་རིགས་གྲས།"
+
+msgid "The PKCS structure's content type is unknown."
+msgstr "མི་ཤེས་པའི་PKCSནང་དོན་རིགས་ཀྱི་སྒྲིག་གཞི། "
+
+msgid "The SRP username supplied is illegal."
+msgstr "མཁོ་འདོན་བྱས་པའི་SRPསྤྱོད་མཁན་གྱི་མིང་ནི་ཁྲིམས་འགལ་རེད། "
+
+msgid "The SRP username supplied is unknown."
+msgstr "མཁོ་འདོན་བྱས་པའི་SRPསྤྱོད་མཁན་གྱི་མིང་མི་ཤེས་པ། "
+
+msgid "The SRP/PSK username is missing or not known"
+msgstr "SRP/PSKསྤྱོད་མཁན་གྱི་མིང་བོར་བའམ་མི་ཤེས་པ།"
+
+msgid "The TLS connection was non-properly terminated."
+msgstr "TLSསྦྲེལ་མཐུད་རྒྱུན་ལྡན་མིན་པའི་སྒོ་ནས་མཚམས་བཞག་སོང་། "
+
+msgid "The certificate and the given key do not match."
+msgstr "དཔང་ཡིག་དང་གསང་ལྡེ་ཟླ་མི་འགྲིག་པ། "
+
+msgid "The certificate has unsupported attributes."
+msgstr "དཔང་ཡིག་ནང་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་གཏོགས་གཤིས་འདུག "
+
+msgid "The certificate type is not supported."
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་དཔང་ཡིག་གི་རིགས་གྲས། "
+
+msgid "The cipher type is unsupported."
+msgstr "གསང་ཨང་རིགས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད། "
+
+msgid "The cookie was bad."
+msgstr "cookie ནོར་འཁྲུལ་འདུག"
+
+msgid "The crypto library version is too old."
+msgstr "གསང་ཨང་མཛོད་ཀྱི་པར་གཞི་རྙིང་དྲག་པ། "
+
+msgid "The curve is unsupported"
+msgstr "འཁྱོག་ཐིག་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "The given DSA key is incompatible with the selected TLS protocol."
+msgstr ""
+"དམིགས་འཛུགས་བྱས་པའི་DSAགསང་ལྡེ་དང་བདམས་པའི་TLSགྲོས་ཆིངས་གཉིས་འཆམ་མཐུན་མི་ཡོང་བ།"
+" "
+
+msgid "The given memory buffer is too short to hold parameters."
+msgstr ""
+"སྒྲིག་གཅོད་བྱའི་ཞུགས་གྲངས་སྔོན་ཉར་ལ་བཞག་པའི་་ནང་གསོག་བར་ཆོད་ཁུལ་ཐུང་དྲག་པ། "
+
+msgid "The given password contains invalid characters."
+msgstr "སྤྲད་པའི་གསང་ཨང་ཁྲོད་ནུས་མེད་ཡིག་རྟགས་འདུས་འདུག "
+
+msgid "The handshake data size is too large."
+msgstr "ལག་འཇུ་བྱེད་པའི་གཞི་གྲངས་ཀྱི་ཆེ་ཆུང་ཧ་ཅང་ཆེ། "
+
+msgid "The hash algorithm is unknown."
+msgstr "མི་ཤེས་པའི་ཐོར་སྒྲིག་རྩི་ཐབས། "
+
+msgid "The initialization of crypto backend has failed."
+msgstr "གསང་སྡོམ་རྒྱབ་སྣེའི་འགོ་སྒྲིག་ཕམ་པ། "
+
+msgid "The operation timed out"
+msgstr "བཀོལ་སྤྱོད་དུས་བརྒལ།"
+
+msgid "The operation was cancelled due to user error"
+msgstr "སྤྱོད་མཁན་གྱི་ནོར་འཁྲུལ་དབང་གིས་བཀོལ་སྤྱོད་མེད་པར་བཟོས།"
+
+msgid ""
+"The provided X.509 certificate list is not sorted (in subject to issuer "
+"order)"
+msgstr ""
+"མཁོ་འདོན་བྱས་པའི་X.509དཔང་ཡིག་རེའུ་མིག་ལ་བྱ་རིམ་སྒྲིག་མེད་པ།（བརྗོད་སྙིང་ནས་འགྲེམས་སྤེལ་མཁན་གྱི་བྱ་རིམ་ལྟར་སྒྲིག་འོས།）"
+
+msgid "The request is invalid."
+msgstr "རེ་བ་ཞུས་ཀྱང་ཕན་མི་ཐོགས། "
+
+msgid "The requested PKCS #11 object is not available"
+msgstr "རེ་ཞུའི་PKCS #11 སྤྱོད་ཐབས་བྲལ་པ།"
+
+msgid "The requested data were not available."
+msgstr "རེ་ཞུའི་གཞི་གྲངས་སྤྱོད་ཐབས་བྲལ། "
+
+msgid "The requested session has expired."
+msgstr "རེ་ཞུའི་གླེང་མོལ་དུས་ལས་ཡོལ་འདུག "
+
+msgid "The scanning of a large integer has failed."
+msgstr "ཧྲིལ་གྲངས་ཆེན་པོའི་བཤར་འབེབས་ཕམ་པ། "
+
+msgid "The server name sent was not recognized"
+msgstr "བསྐུར་བའི་ཞབས་ཞུ་ཆས་ཀྱི་མིང་ངོས་འཛིན་མ་ཐུབ།"
+
+msgid "The signature algorithm is not supported."
+msgstr "མིང་འགོད་རྩི་ཐབས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད། "
+
+msgid "The specified algorithm or protocol is unknown."
+msgstr "དམིགས་འཛུགས་བྱས་པའི་རྩི་སྟངས་སམ་གྲོས་ཆིངས་ངེས་མེད། "
+
+msgid "The specified session has been invalidated for some reason."
+msgstr "དམིགས་འཛུགས་བྱས་པའི་གླེང་མོལ་རྐྱེན་དབང་གིས་གོ་ཆོད་མེད་པར་གྱུར། "
+
+msgid "The tasn1 library version is too old."
+msgstr "tasn1མཛོད་ཀྱི་པར་གཞི་རྙིང་པ་དྲགས་པ། "
+
+msgid "The transmitted packet is too large (EMSGSIZE)."
+msgstr "སྐྱེལ་བྱེད་ཀྱི་ཐུམ་ཆེ་དྲགས་པ། (EMSGSIZE）"
+
+msgid ""
+"The upper limit of record packet sequence numbers has been reached. Wow!"
+msgstr "འོ། ཟིན་བྲིས་གཞི་གྲངས་ཐུམ་རིམ་སྟར་སྟེང་གི་ཚད་བཀག་ཐང་ལ་སླེབས་པ། "
+
+msgid "There is already a crypto algorithm with lower priority."
+msgstr "རིམ་པ་དམའ་བའི་གསང་སྡོམ་རྩི་ཐབས་ཤིག་ཡོད་འདུག "
+
+msgid "There is no certificate status (OCSP)."
+msgstr "དཔང་ཡིག་མེད་པའི་གནས་བབ། (OCSP）"
+
+msgid "Thread locking error"
+msgstr "དམིགས་འཛིན་ཐིག་རྒྱུན་ལ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Too many empty record packets have been received."
+msgstr "ཟིན་ཐུམ་སྟོང་པ་མང་དག་ཅིག་འབྱོར་བ། "
+
+msgid "Too many handshake packets have been received."
+msgstr "ལག་འཇུའི་ཐུམ་མང་དག་ཅིག་འབྱོར་བ། "
+
+msgid "Unexpected message"
+msgstr "བློ་ཡུལ་ལས་འདས་པའི་བརྡ་འཕྲིན།"
+
+msgid "Unknown Subject Alternative name in X.509 certificate."
+msgstr "X.509དཔང་ཡིག་ནང་ངེས་མེད་ཀྱི་གཙོ་གཟུགས་ཚབ་མིང་འདུས་ཡོད། "
+
+msgid "Unknown certificate"
+msgstr "ངེས་མེད་ཀྱི་དཔང་ཡིག།"
+
+msgid "Unsafe renegotiation denied."
+msgstr "ཐེངས་གཉིས་པའི་བདེ་འཇགས་གྲོས་མོལ་དང་ལེན་མ་བྱས་པ། "
+
+msgid "Unsupported critical extension in X.509 certificate."
+msgstr ""
+"X.509དཔང་ཡིག་ཁྲོད་དུ་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་གནད་འགག་རང་བཞིན་གྱི་རྒྱ་བསྐྱེད་པ་འདུས་པ།"
+" "
+
+msgid "Unsupported extension in X.509 certificate."
+msgstr "X.509དཔང་ཡིག་ཁྲོད་དུ་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་རྒྱ་བསྐྱེད་འདུས་པ། "
+
+msgid "User canceled"
+msgstr "སྤྱོད་མཁན་མེད་པར་བཟོས་ཟིན་པ།"
+
+msgid "Verifying TLS/IA phase checksum failed"
+msgstr "TLS/IAམཚན་གནས་དང་ཕམ་ཁ་དག་བཤེར།"
+
+msgid "Wrong padding in PKCS1 packet."
+msgstr "PKC51གཞི་གྲངས་ཐུམ་ཁ་སྐོང་ནོར་འཁྲུལ།"
+
+msgid "X.509 Certificate Information:\n"
+msgstr "X.509དཔང་ཡིག་ཆ་འཕྲིན།\n"
+
+msgid "X.509 Certificate Revocation List Information:\n"
+msgstr "X.509དཔང་ཡིག་མེད་པར་བཟོས་པའི་རེའུ་མིག་གི་ཆ་འཕྲིན།\n"
+
+msgid "created: %s, "
+msgstr "གསར་འཛུགས་བྱས་ཚར།：%s"
+
+msgid "critical"
+msgstr "གནད་འགག"
+
+msgid "error: get_key_usage: %s\n"
+msgstr "ནོར་འཁྲུལ།：get_key_usage：%s\n"
+
+msgid "expires: %s, "
+msgstr "དུས་ལས་ཡོལ་བ།：%s"
+
+msgid "fingerprint: "
+msgstr "མཛུབ་རིས།："
+
+msgid "key algorithm %s (%d bits)"
+msgstr "གསང་ལྡེ་རྩི་ཐབས། %s（%d གནས།）"
+
+msgid "name[%d]: %s, "
+msgstr "མིང་།[%d]：%s"
+
+msgid "never expires, "
+msgstr "ནམ་ཡང་དུས་ལས་ཡོལ་མི་སྲིད།"
+
+msgid "not critical"
+msgstr "གནད་འགག་མིན་པ།"
+
+msgid "revoked name[%d]: %s, "
+msgstr "ཕྱིར་བསྡུས་མིང་།[%d]：%s"
+
+msgid "signed using %s (broken!), "
+msgstr "མིང་འགོད %s བཀོལ་བ།（ཆག་སྐྱོན་ཤོར་ཟིན།）"
+
+msgid "signed using %s, "
+msgstr "མིང་འགོད %s བཀོལ་བ།"
+
+msgid "unknown"
+msgstr "ངེས་མེད།"
+
+msgid "unknown key algorithm (%d)"
+msgstr "མི་ཤེས་པའི་གསང་ལྡེ་རྩི་ཐབས།（%d）"
+
+msgid "warning: signed using a broken signature algorithm that can be forged.\n"
+msgstr ""
+"ཐ་ཚིག་བསྒྲགས།རྫུན་བཟོ་བྱས་ཆོག་པའི་མིང་རྟགས་འགོད་པའི་རྩི་ཐབས་སྤྱད་ནས་མིང་རྟགས་བཀོད་པ།"
+" \n"

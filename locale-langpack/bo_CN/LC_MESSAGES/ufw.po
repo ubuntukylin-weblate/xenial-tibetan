@@ -1,0 +1,539 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " (skipped reloading firewall)"
+msgstr "(ཡང་བསྐྱར་ཁུར་སྣོན་པའི་མེ་འགོག་གྱང་ལས་མཆོངས་པ)"
+
+msgid " Attempted rules successfully unapplied."
+msgstr "ཚོད་ལྟའི་སྒྲིག་སྲོལ་གྱི་བཀོལ་སྤྱོད་ཕྱིར་འཐེན་ལེགས་གྲུབ་བྱུང་བ།"
+
+msgid " Some rules could not be unapplied."
+msgstr "སྒྲིག་སྲོལ་ཁ་ཤས་ཕྱིར་འཐེན་བྱེད་མི་ཆོག"
+
+msgid "%s is group writable!"
+msgstr "%s ཚོ་ཚང་མ་འབརི་རུང་།"
+
+msgid "%s is world writable!"
+msgstr "%s ཁྱོན་ཡོངས་འབྲི་རུང་།"
+
+msgid "'%(f)s' file '%(name)s' does not exist"
+msgstr "“%(f)s”་ཡིག་ཆ “%(name)s”་མེད་པ།"
+
+msgid "'%s' already exists. Aborting"
+msgstr "“%s” ཡོད་པ།མཚམས་འཇོག་བཞིན་པ།"
+
+msgid "'%s' is not writable"
+msgstr "“%s” འབྲི་མི་རུང་བ།"
+
+msgid "'route delete NUM' unsupported. Use 'delete NUM' instead."
+msgstr ""
+"“ལམ་འཚོལ NUMབསུབ་པ་”ལ་རྒྱབ་སྐྱོར་མ་ཐོབ།  “NUMབསུབ་པ་” ཡིས་ཚབ་བྱེད་རོགས།"
+
+msgid "(be sure to update your rules accordingly)"
+msgstr ""
+"（སྐབས་བསྟུན་གྱིས་ཁྱེད་རང་གི་མེ་འགོག་གྱང་སྒྲིག་སྲོལ་གསར་བསྒྱུར་བྱེད་རོགས།）"
+
+msgid ": Need at least python 2.6)\n"
+msgstr ": མ་མཐར་ཡང་ python 2.6དགོས།)\n"
+
+msgid "Aborted"
+msgstr "མཚམས་བཞག་ཟིན།"
+
+msgid "Action"
+msgstr "འགུལ་སྟངས།"
+
+msgid "Added user rules (see 'ufw status' for running firewall):"
+msgstr ""
+"ཁ་སྣོན་བྱས་ཟིན་པའི་སྤྱོད་མཁན་གྱི་སྒྲིག་སྲོལ།（འཁོར་སྐྱོད་བྱེད་བཞིན་པའི་མེ་འགོག་གྱང་གི་“ufWགནས་ཚུལ”ལ་ལྟ་བ）།"
+
+msgid "Adding IPv6 rule failed: IPv6 not enabled"
+msgstr "IPv6 སྒྲིག་སྲོལ་ཁ་སྣོན་ཕམ་པ། IPv6 སྤྱོད་འགོ་ཚུགས་མེད་པ།"
+
+msgid "Available applications:"
+msgstr "སྤྱོད་རུང་ཉེར་སྤྱོད་བྱ་རིམ།："
+
+msgid "Backing up '%(old)s' to '%(new)s'\n"
+msgstr "གྲབས་ཉར་ “%(old)s” ནས་ “%(new)s”བར།\n"
+
+msgid "Bad destination address"
+msgstr "ནོར་འཁྲུལ་གྱི་དམིགས་འབེན་ཤག་གནས།"
+
+msgid "Bad interface name"
+msgstr "ནོར་འཁྲུལ་གྱི་མཐུད་ཁའི་མིང་།"
+
+msgid "Bad interface name: can't use interface aliases"
+msgstr "ནོར་འཁྲུལ་གྱི་མཐུད་ཁའི་མིང་།：མཐུད་ཁའི་མིང་གཞན་སྤྱོད་ཐབས་བྲལ་བ།"
+
+msgid "Bad interface name: reserved character: '!'"
+msgstr "ནོར་འཁྲུལ་གྱི་མཐུད་ཁའི་མིང་།：ཡིག་རྟགས་སོར་ཉར།：“！”"
+
+msgid "Bad interface type"
+msgstr "ནོར་འཁྲུལ་གྱི་མཐུད་ཁའི་རིགས་རྣམ།"
+
+msgid "Bad port"
+msgstr "ནོར་འཁྲུལ་གྱི་སྣེ་ཁ།"
+
+msgid "Bad port '%s'"
+msgstr "ནོར་འཁྲུལ་གྱི་སྣེ་ཁ་།“%s”"
+
+msgid "Bad source address"
+msgstr "ནོར་འཁྲུལ་གྱི་ཁུངས་ཤག་གནས།"
+
+msgid "Cannot insert rule at position '%d'"
+msgstr " “%d” ལ་སྒྲིག་སྲོལ་བར་འཇུག་བྱེད་ཐབས་བྲལ་བ།"
+
+msgid "Cannot insert rule at position '%s'"
+msgstr " “%s” ལ་སྒྲིག་སྲོལ་བར་འཇུག་བྱེད་ཐབས་བྲལ་བ།"
+
+msgid "Cannot specify 'all' with '--add-new'"
+msgstr " “all” དམིགས་འཛུགས་བྱས་ནས་ “--add-new”སྤྱོད་མི་རུང་བ།"
+
+msgid "Cannot specify insert and delete"
+msgstr "བར་འཇུག་དང་བསུབ་པ་དམིགས་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Checking ip6tables\n"
+msgstr " ip6tablesཞིབ་བཤེར།\n"
+
+msgid "Checking iptables\n"
+msgstr " iptablesཞིབ་བཤེར།\n"
+
+msgid "Checking raw ip6tables\n"
+msgstr "གདོད་མའི་ ip6tablesཞིབ་བཤེར།\n"
+
+msgid "Checking raw iptables\n"
+msgstr "གདོད་མའི་iptablesཞིབ་བཤེར།\n"
+
+msgid "Checks disabled"
+msgstr "ཞིབ་བཤེར་སྤྱོད་འགོག་བྱས་པ།"
+
+msgid "Command '%s' already exists"
+msgstr "བཀའ་བརྡ་ “%s” ཡོད་པ།"
+
+msgid ""
+"Command may disrupt existing ssh connections. Proceed with operation "
+"(%(yes)s|%(no)s)? "
+msgstr ""
+"བཀའ་བརྡ་འདིས་མིག་སྔའི་ ssh འབྲེལ་མཐུད་མཚམས་འཇོག་སྲིད།མུ་མཐུད་ཡིན་ནམ། "
+"(%(yes)s|%(no)s)？"
+
+msgid "Could not back out rule '%s'"
+msgstr "སྒྲིག་སྲོལ་“%s”གྲབས་ཉར་བྱེད་ཐབས་བྲལ་བ།"
+
+msgid "Could not delete non-existent rule"
+msgstr "མེད་པའི་སྒྲིག་སྲོལ་བསུབ་ཐབས་བྲལ།"
+
+msgid "Could not find '%s'. Aborting"
+msgstr " “%s”་མ་རྙེད།མཚམས་འཇོག་བཞིན་པ།"
+
+msgid "Could not find a profile matching '%s'"
+msgstr " “%s”་དང་ཟླ་འགྲིག་པའི་སྡེབ་སྒྲིག་རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Could not find executable for '%s'"
+msgstr " “%s” ་ཡི་ལག་བསྟར་རུང་བའི་ཡིག་ཆ་རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Could not find profile '%s'"
+msgstr "སྡེབ་སྒྲིགཡིག་ཆ '%s'རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Could not find protocol"
+msgstr "གྲོས་ཆིངས་རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Could not find rule '%d'"
+msgstr "སྒྲིག་སྲོལ “%d”རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Could not find rule '%s'"
+msgstr "སྒྲིག་སྲོལ “%s”རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Could not get listening status"
+msgstr "ཕག་ཉན་རྣམ་པ་ཐོབ་ཐབས་བྲལ་བ།"
+
+msgid "Could not get statistics for '%s'"
+msgstr "“%s”ཡི་གཞི་གྲངས་ཐོབ་ཐབས་བྲལ་བ།"
+
+msgid "Could not load logging rules"
+msgstr "ཉིན་ཐོའི་སྒྲིག་སྲོལ་ཁུར་སྣོན་བྱ་ཐབས་བྲལ།"
+
+msgid "Could not normalize destination address"
+msgstr "དམིགས་འབེན་ཤག་གནས་ཚད་ལྡན་ཅན་བཟོ་མི་རུང།"
+
+msgid "Could not normalize source address"
+msgstr "ཁུངས་ཀྱི་ཤག་གནས་ཚད་ལྡན་ཅན་བཟོ་མི་རུང།"
+
+msgid "Could not perform '%s'"
+msgstr " “%s”བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not set LOGLEVEL"
+msgstr " LOGLEVELསྒྲིག་འགོད་བྱ་ཐབས་བྲལ།"
+
+msgid "Could not update running firewall"
+msgstr "འཁོར་སྐྱོད་བྱེད་བཞིན་པའི་མེ་འགོག་གྱང་གསར་བསྒྱུར་བྱེད་ཐབས་བྲལ།"
+
+msgid "Couldn't determine iptables version"
+msgstr " iptables པར་གཞི་གཏན་འཁེལ་བྱ་ཐབས་བྲལ།"
+
+msgid "Couldn't find '%s'"
+msgstr "“%s”རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Couldn't find parent pid for '%s'"
+msgstr " “%s” ཡི་ཕའི་ pidརྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Couldn't find pid (is /proc mounted?)"
+msgstr "pid རྙེད་ཐབས་བྲལ་བ། (/proc ཁུར་སྣོན་བྱས་ཟིན་ནམ།)"
+
+msgid "Couldn't open '%s' for reading"
+msgstr " “%s” ཡི་ཁ་ཕྱེས་ནས་ཀློག་འདོན་བཀོལ་སྤྱོད་བྱ་ཐབས་བྲལ།"
+
+msgid "Couldn't stat '%s'"
+msgstr " “%s” ཡི་སྟེང་དུ་ stat བཀའ་བརྡ་འཁོར་སྐྱོད་བྱ་ཐབས་བྲལ།"
+
+msgid "Couldn't update application rules"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམསྒྲིག་སྲོལ་གསར་བསྒྱུར་བྱ་ཐབས་བྲལ།"
+
+msgid "Couldn't update rules file"
+msgstr "མེ་འགོག་གྱང་སྒྲིག་སྲོལ་ཡིག་ཆ་གསར་བསྒྱུར་བྱ་ཐབས་བྲལ།"
+
+msgid "Couldn't update rules file for logging"
+msgstr "ཉིན་ཐོའི་ཟིན་ཐོ་ལ་སྒྲིག་སྲོལཡིག་ཆ་གསར་བསྒྱུར་བྱ་ཐབས་བྲལ།"
+
+msgid "Default %(direction)s policy changed to '%(policy)s'\n"
+msgstr "སོར་བཞག་གི་ %(direction)s ཐབས་ཇུས་ “%(policy)s”ལ་བསྒྱུར།\n"
+
+msgid "Default application policy changed to '%s'"
+msgstr "སོར་བཞག་ཉེར་སྤྱོད་བྱ་རིམ་ཐབས་ཇུས “%s”ལ་བསྒྱུར་ཟིན།"
+
+msgid "Default: %(in)s (incoming), %(out)s (outgoing), %(routed)s (routed)"
+msgstr "སོར་བཞག：%(in)s (incoming), %(out)s(outgoing), %(routed)s (routed)"
+
+msgid "Duplicate profile '%s', using last found"
+msgstr ""
+"བསྐྱར་ཟློས་ཀྱི་སྡེབ་སྒྲིག “%s” ཐེངས་སྔོན་མར་རྙེད་པའི་སྡེབ་སྒྲིག་སྤྱོད་པ།"
+
+msgid "ERROR: this script should not be SGID"
+msgstr "ནོར་འཁྲུལ།：  འཁྲབ་གཞུང་འདི་ SGIDཡིན་མི་རུང་།"
+
+msgid "ERROR: this script should not be SUID"
+msgstr "ནོར་འཁྲུལ།：  འཁྲབ་གཞུང་འདི་ SUIDཡིན་མི་རུང་།"
+
+msgid "Firewall is active and enabled on system startup"
+msgstr ""
+"རྒྱུད་ཁོངསའགོ་སློང་སྐབས་མེ་འགོག་གྱང་སྤྱོད་འགོ་རྩོམ་པ་དང་སྐུལ་སློང་བྱེད་པ།"
+
+msgid "Firewall not enabled (skipping reload)"
+msgstr "མེ་འགོག་གྱང་སྤྱོད་འགོ་ཚུགས་མེད་པ།(མཆོངས་ནས་བསྐྱར་འགེལ་བྱོས།)"
+
+msgid "Firewall reloaded"
+msgstr "མེ་འགོག་གྱང་བསྐྱར་འགེལ་བྱས་ཟིན་པ།"
+
+msgid "Firewall stopped and disabled on system startup"
+msgstr "མེ་འགོག་གྱང་རྒྱུད་ཁོངས་འགོ་སློང་སྐབས་རང་འགུལ་འགོག་སྤྱོད།"
+
+msgid "Found exact match"
+msgstr "ཡོངས་སུ་ཟླ་སྒྲིག་པའི་རྣམ་གྲངས་མ་རྙེད་པ།"
+
+msgid "Found exact match, excepting comment"
+msgstr "མཆན་འགྲེལ་ཕུད་ཡོངས་སུ་ཟླ་སྒྲིག་པའི་རྣམ་གྲངས་མ་རྙེད་པ།"
+
+msgid "Found multiple matches for '%s'. Please use exact profile name"
+msgstr "“%s” ཟླ་སྒྲིག་མང་པོ་རྙེད།དེ་ལས་གཙིགས་པའི་སྡེབ་སྒྲིག་མིང་སྤྱོད་རོགས།"
+
+msgid "IPv6 support not enabled"
+msgstr "IPv6 རྒྱབ་སྐྱོར་སྤྱོད་འགོ་ཚུགས་མེད་པ།"
+
+msgid "Improper rule syntax"
+msgstr "སྒྲིག་སྲོལ་གྱི་བརྡ་སྤྲོད་ཡང་དག་མིན་པ།"
+
+msgid "Improper rule syntax ('%s' specified with app rule)"
+msgstr ""
+"ཡང་དག་མིན་པའི་སྒྲིག་སྲོལ་གྱི་བརྡ་སྤྲོད། ( “%s” "
+"ནི་བྱ་རིམསྒྲིག་སྲོལ་གྱིས་དམིགས་འཛུགས་བྱེདད་པ།)"
+
+msgid "Insert position '%s' is not a valid position"
+msgstr "བར་འཛུད་གནས་ “%s” ནི་ནུས་ལྡན་གྱི་གནས་ཤིག་མ་རེད།"
+
+msgid "Invalid '%s' clause"
+msgstr "ནུས་མེད་ཀྱི “%s” ཚིག་ལག"
+
+msgid "Invalid 'from' clause"
+msgstr "ནུས་མེད་ཀྱི “from” ཚིག་ལག"
+
+msgid "Invalid 'port' clause"
+msgstr "ནུས་མེད་ཀྱི “port” ཚིག་ལག"
+
+msgid "Invalid 'proto' clause"
+msgstr "ནུས་མེད་ཀྱི “proto” ཚིག་ལག"
+
+msgid "Invalid 'to' clause"
+msgstr "ནུས་མེད་ཀྱི “to” ཚིག་ལག"
+
+msgid "Invalid IP version '%s'"
+msgstr "ནོར་འཁྲུལ་གྱི་ IP གྲོས་ཆིངས་པར་གཞི་ “%s”"
+
+msgid "Invalid IPv6 address with protocol '%s'"
+msgstr " “%s” གྲོས་ཆིངས་ཀྱི་ནུས་མེད IPv6 ཤག་གནས་སྤྱོད་པ།"
+
+msgid "Invalid interface clause"
+msgstr "ནུས་མེད་མཐུད་ཁའི་དོན་ཚན།"
+
+msgid "Invalid interface clause for route rule"
+msgstr "ལམ་འཚོལ་སྒྲིག་སྲོལ་ལ་དམིགས་པའི་ནུས་མེད་མཐུད་ཁའི་དོན་ཚན།"
+
+msgid "Invalid log level '%s'"
+msgstr "ནུས་མེད་ཀྱི་ཉིན་ཐོའི་རིམ་པ་“%s”"
+
+msgid "Invalid log type '%s'"
+msgstr "ནུས་མེད་ཀྱི་ཉིན་ཐོའི་རྣམ་་གཞག་“%s”"
+
+msgid "Invalid option"
+msgstr "ནུས་མེད་འདེམས་ཚན།"
+
+msgid "Invalid policy '%(policy)s' for '%(chain)s'"
+msgstr " “%(chain)s” ལ་དམིགས་པའི་ཐབས་ཇུས “%(policy)s” ནུས་མེད།"
+
+msgid "Invalid port with protocol '%s'"
+msgstr " “%s” གྲོས་ཆིངས་ཀྱི་ནུས་མེད་སྣེ་ཁ་སྤྱོད་པ།"
+
+msgid "Invalid ports in profile '%s'"
+msgstr "“%s” ཁྲོད་འདུས་པའི་ནུས་མེད་ཀྱི་སྣེ་ཁ་སྡེབ་སྒྲིག"
+
+msgid "Invalid position '"
+msgstr "ནུས་མེད་གནས། '"
+
+msgid "Invalid position '%d'"
+msgstr "ནུས་མེད་ཀྱི་གནས།“%d”"
+
+msgid "Invalid profile"
+msgstr "ལུགས་འགལ་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "Invalid profile name"
+msgstr "ལུགས་འགལ་གྱི་སྡེབ་སྒྲིགཡིག་ཆའི་མིང་།"
+
+msgid "Invalid token '%s'"
+msgstr "ནུས་མེད་ཀྱི་མཚོན་རྟགས་ “%s”"
+
+msgid "Logging disabled"
+msgstr "ཉིན་ཐོ་འགོག་སྤྱོད་བྱས་པ།"
+
+msgid "Logging enabled"
+msgstr "ཉིན་ཐོ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Logging: "
+msgstr "ཉིན་ཐོ།："
+
+msgid "Missing policy for '%s'"
+msgstr " “%s” ལ་དམིགས་པའི་ཐབས་ཇུས་མེད་པ།"
+
+msgid "Mixed IP versions for 'from' and 'to'"
+msgstr "“from” དང་ “to” ཡི་ IP པར་གཞི་མི་འདྲ་བ།"
+
+msgid "Must specify 'tcp' or 'udp' with multiple ports"
+msgstr ""
+"མཉམ་འདུས་ཀྱི་སྣེ་ཁའི་ཁྲོད་ “tcp” ཡང་ན་ “udp”ངེས་པར་དུ་དམིགས་འཛུགས་བྱེད་དགོས།"
+
+msgid "Need 'from' or 'to' with '%s'"
+msgstr " “from” ཡང་ན་“to” ཡིས་ “%s”སྤྱོད་དགོས།"
+
+msgid "Need 'to' or 'from' clause"
+msgstr " “to”' ཡང་ན་ “from” ཡི་ཚིག་ལག་དགོས།"
+
+msgid "New profiles:"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་གསར་འཛུགས།:"
+
+msgid "No rules found for application profile"
+msgstr "བྱ་རིམ་སྡེབ་སྒྲིག་གི་སྒྲིག་སྲོལ་མ་རྙེད་པ།"
+
+msgid "Option 'comment' missing required argument"
+msgstr "“མཆན་འགྲེལ་” འདེམས་ཚན་གྱིས་མཁོ་བའི་ཞུགས་གྲངས་བརླག་པ།"
+
+msgid "Option 'log' not allowed here"
+msgstr "འདིར་ “log” འདེམས་ཚན་སྤྱད་མི་ཆོག"
+
+msgid "Option 'log-all' not allowed here"
+msgstr "འདིར་ “log-all” འདེམས་ཚན་སྤྱད་མི་ཆོག"
+
+msgid "Port ranges must be numeric"
+msgstr "སྣེ་ཁའི་ཁྱབ་ཁོངས་ངེས་པར་དུ་ཨང་གྲངས་ཡིན་དགོས།"
+
+msgid "Port:"
+msgstr "མཐུད་ཁ།"
+
+msgid "Ports:"
+msgstr "སྣེ་ཁ།："
+
+msgid "Profile '%(fn)s' has empty required field '%(f)s'"
+msgstr "སྡེབ་སྒྲིག “%(fn)s” ཡི་ཡིག་དུམ་ “%(f)s” ངེས་པར་སྟོང་པ་ཡིན་དགོས།"
+
+msgid "Profile '%(fn)s' missing required field '%(f)s'"
+msgstr "སྡེབ་སྒྲིག “%(fn)s” ལ་ངེས་པར་མཁོ་བའི་ཡིག་དུམ་ “%(f)s”ཆད།"
+
+msgid "Profile: %s\n"
+msgstr "སྡེབ་སྒྲིག: %s\n"
+
+msgid "Profiles directory does not exist"
+msgstr "སྡེབ་སྒྲིག་དཀར་ཆག་མེད་པ།"
+
+msgid "Protocol mismatch (from/to)"
+msgstr "from དང་ to ཡི་གྲོས་ཆིངས་ཟླ་སྒྲིག་མིན་པ།"
+
+msgid "Protocol mismatch with specified protocol %s"
+msgstr "གྲོས་ཆིངས་དང་དམིགས་འཛུགས་བྱས་པའི་གྲོས་ཆིངས་ %s ཟླ་སྒྲིག་མིན་པ།"
+
+msgid ""
+"Resetting all rules to installed defaults. Proceed with operation "
+"(%(yes)s|%(no)s)? "
+msgstr ""
+"སྒྲིག་སྲོལ་ཡོངས་སྒྲིག་འཇུག་སྐབས་ཀྱི་སོར་བཞག་ཐང་དུ་བསྐྱར་སྒྲིག་བྱེད་པ།མུ་མཐུད་ཡིན་ནམ།"
+" (%(yes)s|%(no)s)？"
+
+msgid "Rule added"
+msgstr "སྒྲིག་སྲོལ་བསྣན་ཟིན།"
+
+msgid "Rule changed after normalization"
+msgstr "ཚད་ལྡན་ཅན་བཟོས་རྗེས་སྒྲིག་སྲོལ་བཟོ་བཅོས་བྱས་པ།"
+
+msgid "Rule deleted"
+msgstr "སྒྲིག་སྲོལ་བསུབ་ཟིན།"
+
+msgid "Rule inserted"
+msgstr "སྒྲིག་སྲོལ་བར་འཇུག་བྱས་ཟིན།"
+
+msgid "Rule updated"
+msgstr "སྒྲིག་སྲོལ་གསར་བསྒྱུར་བྱས་ཟིན།"
+
+msgid "Rules updated"
+msgstr "མེ་འགོག་གྱང་སྒྲིག་སྲོལ་གསར་བསྒྱུར་བྱས་ཟིན།"
+
+msgid "Rules updated (v6)"
+msgstr "སྒྲིག་སྲོལ་གསར་བསྒྱུར་བྱས་ཟིན།(v6)"
+
+msgid "Rules updated for profile '%s'"
+msgstr "སྡེབ་སྒྲིག “%s” ཡི་སྒྲིག་སྲོལ་རིམ་སྤོར་བྱས་ཟིན།"
+
+msgid "Skipped reloading firewall"
+msgstr "མེ་འགོག་གྱང་ཡང་བསྐྱར་ཁུར་སྣོན་ལས་མཆོངས།"
+
+msgid "Skipping '%(value)s': value too long for '%(field)s'"
+msgstr " “%(value)s”ལས་མཆོངས།：  “%(field)s”ཡི་ངོས་ནས་བཤད་ན་ཐང་རིང་དྲགས་པ།"
+
+msgid "Skipping '%s': also in /etc/services"
+msgstr " “%s”ལས་མཆོངས： /etc/servicesཡི་ཁྲོད་དུའང་མེད་པ།"
+
+msgid "Skipping '%s': couldn't process"
+msgstr " “%s”ལས་མཆོངས：ལག་བསྟར་མི་རུང་བ།"
+
+msgid "Skipping '%s': couldn't stat"
+msgstr " “%s”ལས་མཆོངས།： stat བཀོལ་སྤྱོད་བྱེད་མི་རུང་བ།"
+
+msgid "Skipping '%s': field too long"
+msgstr " “%s”ལས་མཆོངས：ཁུལ་རིང་དྲགས་པ།"
+
+msgid "Skipping '%s': invalid name"
+msgstr " “%s”ལས་མཆོངས：ལུགས་འགལ་གྱི་མིང་།"
+
+msgid "Skipping '%s': name too long"
+msgstr " “%s”ལས་མཆོངས：མིང་རིང་དྲགས་པ།"
+
+msgid "Skipping '%s': too big"
+msgstr " “%s”ལས་མཆོངས：ཆེ་དྲགས་པ།"
+
+msgid "Skipping '%s': too many files read already"
+msgstr " “%s”ལས་མཆོངས：ཡིག་ཆའི་ཁ་ཕྱེ་བ་མང་དྲགས་པ།"
+
+msgid "Skipping IPv6 application rule. Need at least iptables 1.4"
+msgstr "IPv6 ཉེར་སྤྱོད་སྒྲིག་སྲོལ་སྣང་མེད། iptables 1.4 ལས་མཐོ་བ་དགོས།"
+
+msgid "Skipping adding existing rule"
+msgstr "ཡོད་པའི་སྒྲིག་སྲོལ་ཁ་སྣོན་ལས་མཆོངས་པ།"
+
+msgid "Skipping inserting existing rule"
+msgstr "ཡོད་པའི་སྒྲིག་སྲོལ་བར་འཇུག་ལས་མཆོངས་པ།"
+
+msgid "Skipping malformed tuple (bad length): %s"
+msgstr "ནོར་འཁྲུལ་གྱི་རྒྱུ་ཚོ་སྣང་མེད།(རིང་ཚད་ནོར་འཁྲུལ)： %s"
+
+msgid "Skipping malformed tuple (iface): %s"
+msgstr "ནོར་འཁྲུལ་གྱི་རྒྱུ་ཚོ་སྣང་མེད།(iface)：%s"
+
+msgid "Skipping malformed tuple: %s"
+msgstr "ནོར་འཁྲུལ་གྱི་རྒྱུ་ཚོ་སྣང་མེད།： %s"
+
+msgid "Skipping unsupported IPv4 '%s' rule"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ IPv4 “%s” སྒྲིག་སྲོལ་སྣང་མེད།"
+
+msgid "Skipping unsupported IPv6 '%s' rule"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ IPv6 “%s” སྒྲིག་སྲོལ་སྣང་མེད།"
+
+msgid "Status: active%s"
+msgstr "རྣམ་པ།： སྐུལ་སློང་%s"
+
+msgid "Status: inactive"
+msgstr "རྣམ་པ།：འགུལ་སྐྱོད་མི་བྱེད།"
+
+msgid "Title: %s\n"
+msgstr "ཁ་བྱང་།：%s\n"
+
+msgid "To"
+msgstr "ཡིག་ལེན་མཁན།"
+
+msgid "Unknown policy '%s'"
+msgstr "ངེས་མེད་པའི་ཐབས་ཇུས་ “%s”"
+
+msgid "Unsupported action '%s'"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་འགུལ་སྟངས།'%s'"
+
+msgid "Unsupported default policy"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་སོར་བཞག་ཐབས་ཇུས།"
+
+msgid "Unsupported direction '%s'"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་ཁ་ཕྱོགས། “%s”"
+
+msgid "Unsupported policy '%s'"
+msgstr "ཐབས་ཇུས “%s” ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "Unsupported policy for direction '%s'"
+msgstr "“%s” ཁ་ཕྱོགས་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་ཐབས་ཇུས།"
+
+msgid "Unsupported protocol '%s'"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་གྲོས་ཆིངས་ “%s”"
+
+msgid "WARN: '%s' is world readable"
+msgstr "ཐ་ཚིག：“%s” སྤྱོད་མཁན་གང་རུང་གིས་ཀློག་ཆོག་པ།"
+
+msgid "WARN: '%s' is world writable"
+msgstr "ཐ་ཚིག：“%s” སྤྱོད་མཁན་གང་རུང་གིས་བཟོ་བཅོས་བྱས་ཆོག་པ།"
+
+msgid "Wrong number of arguments"
+msgstr "ཞུགས་གྲངས་གྲངས་ཀ་ནོར་འཁྲུལ།"
+
+msgid "You need to be root to run this script"
+msgstr " root སྤྱོད་མཁན་ཁོ་ནས་འཁྲབ་གཞུང་འདི་འཁོར་སྐྱོད་བྱེད་ཆོག"
+
+msgid "problem running"
+msgstr "འཁོར་སྐྱོད་སྐབས་གནད་དོན་བྱུང་བ།"
+
+msgid "problem running sysctl"
+msgstr "sysctl འཁོར་སྐྱོད་སྐབས་གནད་དོན་བྱུང་བ།"
+
+msgid "running ufw-init"
+msgstr " ufw-initའཁོར་སྐྱོད།"
+
+msgid "uid is %(uid)s but '%(path)s' is owned by %(st_uid)s"
+msgstr "uid ནི་ %(uid)sཡིན། འོན་ཀྱང་ “%(path)s” ནི་ %(st_uid)sརུ་གཏོགས།"
+
+msgid "unknown"
+msgstr "ངེས་མེད།"
+
+msgid "y"
+msgstr "ཡིན།"
+
+msgid "yes"
+msgstr "ཡིན།"

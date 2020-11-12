@@ -1,0 +1,856 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "         "
+msgstr "\"         \""
+
+msgid "(for example: hda or sdc)"
+msgstr "(དཔེར་ན།：hda འམ་ཡང་ན sdc)"
+
+msgid "(for example: hda1 or sdc3)"
+msgstr "(དཔེར་ན།：hda1 གམ་ཡང་ན sdc3)"
+
+msgid "*"
+msgstr "*"
+
+msgid "."
+msgstr "གཅིག"
+
+msgid "/comps.xml file."
+msgstr "/comps.xml ཡིག་ཆ།"
+
+msgid "0"
+msgstr "0"
+
+msgid "1"
+msgstr "1"
+
+msgid "5"
+msgstr "5"
+
+msgid ""
+"A network device with the name %s already exists.  Please choose another "
+"device name"
+msgstr ""
+"མིང་ལ %s ཡིན་པའི་དྲ་རྒྱ་སྒྲིག་ཆས་གནས་ཟིན་པས་སྒྲིག་ཆས་མིང་གཞན་ཞིག་འདེམས་རོགས།"
+
+msgid "About Kickstart Configurator"
+msgstr "Kickstart སྡེབ་སྒྲིག་བྱ་རིམ་སྐོར།"
+
+msgid "Additional Size Options"
+msgstr "འདེམས་ཚན་ཆེ་ཆུང་གཞན།"
+
+msgid "Administration Tools"
+msgstr "དོ་དམ་ལག་ཆ།"
+
+msgid "Applications"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid "Authentication"
+msgstr "གསལ་འབྱེད་ར་སྤྲོད།"
+
+msgid "Authentication Configuration"
+msgstr "ར་སྤྲོད་སྡེབ་སྒྲིག"
+
+msgid "Authentication options are not applicable on upgrades."
+msgstr "ར་སྤྲོད་འདེམས་ཚན་དེ་རིམ་སྤོར་ལ་མི་འཚམ།"
+
+msgid "Authoring and Publishing"
+msgstr "རྩོམ་འབྲི་དང་དཔེ་སྐྲུན།"
+
+msgid "Auto"
+msgstr "རང་འགུལ།"
+
+msgid "Basic Configuration"
+msgstr "རྨང་གཞིའི་སྡེབ་སྒྲིག"
+
+msgid "Basic Configuration (required)"
+msgstr "རྨང་གཞིའི་སྡེབ་སྒྲིག (ངེས་པར།)"
+
+msgid "Boot Loader Options"
+msgstr "འདྲེན་འཇུག་བྱ་རིམ་འདེམས་ཚན་སྣེ་ཁྲིད།"
+
+msgid "Boot Loader Options (required)"
+msgstr "འདྲེན་འཇུག་བྱ་རིམ་འདེམས་ཚན་སྣེ་ཁྲིད།(ངེས་པར།)"
+
+msgid "Bootloader options are not applicable to the %s platform"
+msgstr "འགོ་སློང་འདྲེན་འཇུག་ཆས་འདེམས་ཚན  %s སྟེགས་བུ་སྤྱོད་མི་འོས།"
+
+msgid "CD-ROM"
+msgstr "ཀློག་ཙམ་འོད་སྡེར།"
+
+msgid "Choose one of the following options:"
+msgstr "གཤམ་གསལ་འདེམས་ཚན་གཅིག་འདེམ་པ།："
+
+msgid "Choose the Installation Method:"
+msgstr "སྒྲིག་འཇུག་བྱ་ཐབས་འདེམ་པ།："
+
+msgid "Clear Master Boot Record"
+msgstr "སྣེ་ཁྲིད་གཙོ་བོའི་ཟིན་ཐོ་གཙང་སེལ་བྱེད་པ།"
+
+msgid "Color Depth"
+msgstr "ཚོན་མདོག་ཟབ་ཚད།"
+
+msgid "Configure the X Window System"
+msgstr "སྡེབ་སྒྲིག X སྒེའུ་ཁུང་རྒྱུད་ཁོངས།"
+
+msgid "Confirm Password:"
+msgstr "གཏན་འཁེལ་བཀའ་བརྡ།："
+
+msgid "Could not open display because no X server is running."
+msgstr "X ཞབས་ཞུ་ཆས་འཁོར་སྐྱོད་མི་བྱེད་པས་མངོན་པ་ཁ་ཕྱེ་ཐབས་མེད།"
+
+msgid "Could not read video driver database"
+msgstr "བརྙན་ལམ་སྐུལ་སློང་བྱ་རིམ་གཞི་གྲངས་མཛོད་ཀློག་ཐབས་མེད།"
+
+msgid "Could not start because there is no /usr/share/comps/"
+msgstr "/usr/share/comps/ མེད་པས་འགོ་སློང་མི་ཐུབ།"
+
+msgid "Create a RAID device [default = /dev/md0]"
+msgstr "RAID སྒྲིག་ཆས [default = /dev/md0] གསར་འཛུགས་བྱེད་པ།"
+
+msgid "Create a software RAID partition"
+msgstr "མཉེན་ཆས RAID བགོ་ཁུལ་བཟོ་སྐྲུན་བྱེད་པ།"
+
+msgid "DNS Name Server"
+msgstr "DNS མིང་ཞབས་ཞུ་ཆས།"
+
+msgid "Default Desktop:"
+msgstr "སོར་བཞག་ཅོག་ངོས།："
+
+msgid "Default Language:"
+msgstr "སོར་བཞག་སྐད་བརྡ།："
+
+msgid "Desktops"
+msgstr " ཅོག་ངོས།"
+
+msgid "Development"
+msgstr "གསར་སྤེལ།"
+
+msgid "Development Tools"
+msgstr "གསར་སྤེལ་ལག་ཆ།"
+
+msgid "Device"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "Disable firewall"
+msgstr "མེ་འགོག་གྱང་འགོག་སྤྱོད་བྱེད་པ།"
+
+msgid "Disabled"
+msgstr "འགོག་སྤྱོད།"
+
+msgid "Display Configuration"
+msgstr "སྡེབ་སྒྲིག་མངོན་པ།"
+
+msgid "Display configuration is not applicable on upgrades."
+msgstr "སྡེབ་སྒྲིག་མངོན་པ་རིམ་སྤར་དུ་སྤྱོད་མི་འོས།"
+
+msgid "Do not clear Master Boot Record"
+msgstr "སྣེ་ཁྲིད་གཙོ་བོའི་ཟིན་ཐོ་གཙང་སེལ་མ་བྱེད།"
+
+msgid "Do not initialize the disk label"
+msgstr "སྡུད་སྡེར་གདོང་འཛར་འགོ་སྒྲིག་མ་བྱེད།"
+
+msgid "Do not install a boot loader"
+msgstr "སྣེ་ཁྲིད་སྒྲིག་འཇུག་བྱ་རིམ་སྒྲིག་འཇུག་མ་བྱེད།"
+
+msgid "Drive :"
+msgstr "སྐུལ་སློང་ཆས།："
+
+msgid "Editors"
+msgstr "རྩོམ་སྒྲིག་ཆས།"
+
+msgid "Emulate 3 Buttons"
+msgstr "ལད་ཟློས་མཐེབ་གསུམ།"
+
+msgid "Enable Hesiod Support"
+msgstr "Hesiod རྒྱབ་སྐྱོར་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable Kerberos 5 Authentication"
+msgstr "Kerberos 5 ར་སྤྲོད་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable LDAP"
+msgstr "LDAP སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable NIS"
+msgstr "NIS སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable SMB Authentication"
+msgstr "SMB ར་སྤྲོད་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable firewall"
+msgstr "མེ་འགོག་གྱང་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable nscd"
+msgstr "nscd སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enabled"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
+
+msgid "Enabled in reconfiguration mode"
+msgstr "ཡང་བསྐྱར་སྡེབ་སྒྲིག་རྣམ་པའི་ཁྲོད་ནས་སྤྱོད་འགོ་བརྩམས་པ།"
+
+msgid "Encrypt GRUB password"
+msgstr "GRUB བཀའ་བརྡ་ལ་གསང་སྡོམ་བྱེད་པ།"
+
+msgid "Encrypt root password"
+msgstr "རྩ་བའི་བཀའ་བརྡ་ལ་གསང་སྡོམ་བྱེད་པ།"
+
+msgid "Engineering and Scientific"
+msgstr "ལས་གཞི་དང་ཚན་རིག"
+
+msgid "Error"
+msgstr " ནོར་འཁྲུལ།"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "FTP Directory:"
+msgstr "FTP དཀར་ཆག："
+
+msgid "FTP Password"
+msgstr "FTP བཀའ་བརྡ།"
+
+msgid "FTP Server"
+msgstr "FTP ཞབས་ཞུ་ཆས།"
+
+msgid "FTP Server:"
+msgstr "FTP ཞབས་ཞུ་ཆས།："
+
+msgid "FTP Username"
+msgstr "FTP སྤྱོད་མཁན་མིང་།"
+
+msgid "File System Type:"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་རིགས་རྣམ།："
+
+msgid "Fill all unused space on disk"
+msgstr "སྡུད་སྡེར་སྟེང་སྤྱད་མེད་པའི་སྟོང་ཆ་ཚང་མ་སྤྱོད་པ།"
+
+msgid "Firewall Configuration"
+msgstr "མེ་འགོག་གྱང་སྡེབ་སྒྲིག"
+
+msgid "Firewall configuration is not applicable on upgrades."
+msgstr "མེ་འགོག་གྱང་སྡེབ་སྒྲིག་དེ་རིམ་སྤོར་ལ་སྤྱོད་མི་འོས།"
+
+msgid "Fixed size"
+msgstr "གཏན་འཇགས་ཆེ་ཆུང་།"
+
+msgid "Force to be a primary partition (asprimary)"
+msgstr "བགོ་ཁུལ་གཙོ་བོ། (asprimary)ལ་བཙན་གྱིས་བྱེད་པ།"
+
+msgid "Format"
+msgstr "རྣམ་གཞག"
+
+msgid "Format RAID device"
+msgstr "རྣམ་གཞག་ཅན་གྱི RAID སྒྲིག་ཆས།"
+
+msgid "Format partition"
+msgstr "རྣམ་གཞག་ཅན་གྱི་བགོ་ཁུལ།"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "GNOME Desktop Environment"
+msgstr "GNOME ཅོག་ངོས་ཁོར་ཡུག"
+
+msgid "GNOME Software Development"
+msgstr "GNOME མཉེན་ཆས་གསར་སྤེལ།"
+
+msgid "GRUB Options:"
+msgstr "GRUB འདེམས་ཚན།："
+
+msgid "Games and Entertainment"
+msgstr "རོལ་རྩེད་དང་སྤྲོ་སྐྱིད།"
+
+msgid "Gateway:"
+msgstr "དྲ་སྟེམ།："
+
+msgid "General"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
+
+msgid "Graphical Internet"
+msgstr "རི་མོ་ཅན་གྱི་Internet"
+
+msgid "Graphics"
+msgstr "རི་མོ།"
+
+msgid "Grow to maximum of (MB):"
+msgstr "སྟོང་ཆ་སྤྱོད་པའི་ཚད་ཆེ་ཤོས་ནི། (MB)："
+
+msgid "Grub passwords do not match.  Please try again."
+msgstr "GRUB བཀའ་བརྡ་ཟླ་སྒྲིག་མིན་པས་ཡང་བསྐྱར་ནང་འཇུག་བྱ་རོགས།"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "HTTP Directory:"
+msgstr "HTTP དཀར་ཆག："
+
+msgid "HTTP Server:"
+msgstr "HTTP ཞབས་ཞུ་ཆས།："
+
+msgid "Hard Drive"
+msgstr "མཁྲེགས་སྡེར་སྐུལ་སློང་ཆས།"
+
+msgid "Hard Drive Directory:"
+msgstr "མཁྲེགས་སྡེར་སྐུལ་སློང་ཆས་དཀར་ཆག："
+
+msgid "Hard Drive Partition:"
+msgstr "མཁྲེགས་སྡེར་སྐུལ་སློང་ཆས་བགོ་ཁུལ།："
+
+msgid "Hard Drives"
+msgstr "མཁྲེགས་སྡེར་སྐུལ་སློང་ཆས།"
+
+msgid "Help is not available."
+msgstr "རོགས་རམ་མེད།"
+
+msgid "Hesiod Authentication"
+msgstr "Hesiod ར་སྤྲོད།"
+
+msgid "Horizontal Sync:"
+msgstr "ཆུ་ཚད་ཟློས་ཕྱོད།："
+
+msgid "Hz"
+msgstr "ཧོ་ཙི།"
+
+msgid "IP Address:"
+msgstr "IP ཤག་གནས།"
+
+msgid "Initialize the disk label"
+msgstr "སྡུད་སྡེར་གདོང་འཛར་འགོ་སྒྲིག་བྱེད་པ།"
+
+msgid "Install boot loader on Master Boot Record (MBR)"
+msgstr ""
+"སྣེ་ཁྲིད་གཙོ་བོའི་ཟིན་ཐོ(MBR)སྟེང་དུ་སྣེ་ཁྲིད་སྒྲིག་འཇུག་བྱ་རིམ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Install boot loader on first sector of the boot partition"
+msgstr ""
+"སྣེ་ཁྲིད་བགོ་ཁུལ་གྱི་གཡབ་ཁུལ་དང་པོའི་སྟེང་འདྲེན་འཇིག་བྱ་རིམ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Install new boot loader"
+msgstr "འདྲེན་འཇུག་བྱ་རིམ་གསར་པ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Installation Method"
+msgstr "སྒྲིག་འཇུག་བྱ་ཐབས།"
+
+msgid "Installation Method (required)"
+msgstr "སྒྲིག་འཇུག་བྱ་ཐབས། (ངེས་པར)"
+
+msgid "Intel Itanium"
+msgstr "Intel Itanium（ཨན་ཐེང་།）"
+
+msgid "KDE (K Desktop Environment)"
+msgstr "KDE(K ཅོག་ངོས་ཁོར་ཡུག)"
+
+msgid "KDE Software Development"
+msgstr "KDEམཉེན་ཆས་གསར་སྤེལ།"
+
+msgid "Kerberos 5 Authentication"
+msgstr "Kerberos 5 ར་སྤྲོད།"
+
+msgid "Kerberos Domain Controller (KDC):"
+msgstr "Kerberos ཁུལ་ཚོད་འཛིན་ཆས། (KDC)："
+
+msgid "Kerberos Master Server:"
+msgstr "Kerberos ཞབས་ཞུ་ཆས་གཙོ་བོ།："
+
+msgid "Kerberos Realm:"
+msgstr "Kerberos ཁྱབ་ཁོངས།："
+
+msgid "Kernel Development"
+msgstr "ནང་ཉིང་གསར་སྤེལ།"
+
+msgid "Kernel parameters:"
+msgstr "ནང་སྙིང་ཞུགས་གྲངས།："
+
+msgid "Keyboard:"
+msgstr "མཐེབ་གཞོང་།："
+
+msgid "Kickstart Configurator"
+msgstr "Kickstart སྡེབ་སྒྲིག་བྱ་རིམ།"
+
+msgid "LDAP Authentication"
+msgstr "LDAP ར་སྤྲོད།"
+
+msgid "LDAP Base Name: "
+msgstr "LDAP གཞི་འཛིན་མིང་།："
+
+msgid "LDAP Server: "
+msgstr "LDAP ཞབས་ཞུ་ཆས།："
+
+msgid "Language Support:"
+msgstr "སྐད་བརྡ་རྒྱབ་སྐྱོར།："
+
+msgid "Mail Server"
+msgstr "སྦྲག་ཡིག་ཞབས་ཞུ་ཆས།"
+
+msgid "Make RAID Device"
+msgstr "RAID སྒྲིག་ཆས་གསར་འཛུགས།"
+
+msgid "Make partition on specific drive (ondisk)"
+msgstr "དམིགས་བཙུགས་པའི་སྐུལ་སློང་ཆས་སྟེང་དུ་ཁུལ་བགོ་བ།(ondisk)"
+
+msgid "Monitor"
+msgstr "འཆར་ཆས།"
+
+msgid "Mount Point:"
+msgstr "འགེལ་ཚེག："
+
+msgid "Mouse:"
+msgstr "ཙིག་རྟགས།："
+
+msgid "NFS Directory:"
+msgstr "NFS དཀར་ཆག："
+
+msgid "NFS Server:"
+msgstr "NFS ཞབས་ཞུ་ཆས།："
+
+msgid "NIS Authentication"
+msgstr "NIS ར་སྤྲོད།"
+
+msgid "NIS Domain:"
+msgstr "NIS ཁུལ།："
+
+msgid "NIS Server:"
+msgstr "NIS ཞབས་ཞུ་ཆས།："
+
+msgid "Name Server:"
+msgstr "མིང་ཞབས་ཞུ་ཆས།："
+
+msgid "Name Switch Cache"
+msgstr "མིང་བརྗེ་བསྒྱུར་སྐབས་གསོག་ཁུལ།"
+
+msgid "Name Switch Cache Daemon (nscd) Authentication"
+msgstr "མིང་བརྗེ་བསྒྱུར་སྐབས་གསོག་ཁུལ་སྲུང་རིམ(nscd)ར་སྤྲོད།"
+
+msgid "Netmask: "
+msgstr "བུ་དྲ་གབ་ཨང་།："
+
+msgid "Network Configuration"
+msgstr "དྲ་རྒྱ་སྡེབ་སྒྲིག"
+
+msgid "Network Device Information"
+msgstr "དྲ་རྒྱ་སྒྲིག་ཆས་ཆ་འཕྲིན།"
+
+msgid "Network Device:"
+msgstr "དྲ་རྒྱ་སྒྲིག་ཆས།："
+
+msgid "Network Servers (AS and ES only)"
+msgstr "དྲ་རྒྱ་ཞབས་ཞུ་ཆས།（དབང་ཚད Asདང་ES）"
+
+msgid "Network Type"
+msgstr "དྲ་རྒྱ་རིགས་རྣམ།"
+
+msgid "News Server"
+msgstr "གསར་འགྱུར་ཞབས་ཞུ་ཆས།"
+
+msgid "No"
+msgstr "མིན།"
+
+msgid "Number of spares:"
+msgstr "གྲ་སྒྲིག་ལྷུ་ལག་གི་གྲངས་འབོར།："
+
+msgid "Office/Productivity"
+msgstr "གཞུང་ལས་/ཐོན་སྐྱེད་ནུས་ཤུགས།"
+
+msgid "On first boot, Setup Agent is: "
+msgstr "སྣེ་ཁྲིད་ཐེངས་དང་པོའི་སྐབས་སྒྲིག་འགོད་ལས་ཚབ་ནི："
+
+msgid "Other ports: (1029:tcp)"
+msgstr "སྣེ་ཁ་གཞན：(1029:tcp)"
+
+msgid "PPC PReP Boot"
+msgstr "PPC PReP འགོ་སློང་།"
+
+msgid "Package Selection"
+msgstr "མཉེན་ཆས་ཁུག་མ་འདེམ་པ།"
+
+msgid "Package selection is not applicable on upgrades."
+msgstr "མཉེན་ཆས་ཁུག་མ་འདེམ་པ་རིམ་སྤོར་ལ་མི་འཚམ།"
+
+msgid "Partition :"
+msgstr "བགོ་ཁུལ།："
+
+msgid "Partition Information"
+msgstr "བགོ་ཁུལ་ཆ་འཕྲིན།"
+
+msgid "Partition Information (required)"
+msgstr "བགོ་ཁུལ་ཆ་འཕྲིན་དགོས།(ངེས་པར)"
+
+msgid "Partition Options"
+msgstr "བགོ་ཁུལ་འདེམས་ཚན།"
+
+msgid "Partition options are not applicable on upgrades."
+msgstr "བགོ་ཁུལ་འདེམས་ཚན་རིམ་སྤར་ལ་སྤྱོད་མི་འོས།"
+
+msgid "Password:"
+msgstr "གསང་ཨང་།"
+
+msgid "Perform installation in interactive mode"
+msgstr "མཉམ་འགུལ་རྣམ་པའི་ཁྲོད་སྒྲིག་འཇུག་ལག་བསྟར་བྱེད་པ།"
+
+msgid "Perform installation in text mode (graphical is default)"
+msgstr ""
+"ཡིག་རྐྱང་རྣམ་པའི་ཁྲོད་སྒྲིག་འཇུག་ལག་བསྟར་བྱེད་པ། "
+"(རིས་དབྱིབས་ཅན་གྱི་རྣམ་པ་རུ་སོར་བཞག་བྱེད་པ།)"
+
+msgid "Perform new installation"
+msgstr "སྒྲིག་འཇུག་གསར་པ་་ལག་བསྟར།"
+
+msgid "Please enter a hard drive directory."
+msgstr "མཁྲེགས་སྡེར་སྐུལ་སློང་ཆས་དཀར་ཆག་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter a hard drive partition."
+msgstr "མཁྲེགས་སྡེར་སྐུལ་སློང་ཆས་བགོ་ཁུལ་ཞིག་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter an FTP directory."
+msgstr "FTP དཀར་ཆག་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter an FTP password."
+msgstr "FTP བཀའ་བརྡ་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter an FTP server."
+msgstr "FTP ཞབས་ཞུ་ཆས་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter an FTP user name."
+msgstr "FTP སྤྱོད་མཁན་མིང་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter an HTTP server directory."
+msgstr "HTTP ཞབས་ཞུ་ཆས་དཀར་ཆག་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter an HTTP server."
+msgstr "HTTP ཞབས་ཞུ་ཆས་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter an NFS directory."
+msgstr "NFS དཀར་ཆག་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter an NFS server."
+msgstr "NFS ཞབས་ཞུ་ཆས་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please fill in the network information"
+msgstr "དྲ་རྒྱའི་ཆ་འཕྲིན་ཁ་སྐོང་རོགས།"
+
+msgid "Please make sure the comps package is installed."
+msgstr "comps ཁུག་མ་སྒྲིག་འཇུག་བྱས་ཟིན་པ་གཏན་འཁེལ་བྱེད་རོགས།"
+
+msgid "Please select a partition from the list."
+msgstr "རེའུ་མིག་ནང་ནས་བགོ་ཁུལ་གདམ་རོགས།"
+
+msgid "Please select a root password."
+msgstr "རྩ་བའི་བཀའ་བརྡ་འདེམས་རོགས།"
+
+msgid "Post-Installation Script"
+msgstr "འཁྲབ་གཞུང་རྗེས་མ་སྒྲིག་འཇུག"
+
+msgid "Pre-Installation Script"
+msgstr "འཁྲབ་གཞུང་སྔོན་འཇུག"
+
+msgid "Preserve existing partitions"
+msgstr "ད་བསགས་བགོ་ཁུལ་སོར་འཇོག"
+
+msgid "Preview Options"
+msgstr "འདེམས་ཚན་སྔོན་ལྟ།"
+
+msgid "Printing Support"
+msgstr "གཏག་པར་རྒྱབ་སྐྱོར།"
+
+msgid "Probe for monitor"
+msgstr "འཚོལ་ཞིབ་འཆར་ཆས།"
+
+msgid "Probe for video card"
+msgstr "འཚོལ་ཞིབ་བརྙན་ལམ་བྱང་བུ།"
+
+msgid "RAID Device:"
+msgstr "RAID སྒྲིག་ཆས།："
+
+msgid "RAID Level:"
+msgstr "RAID རིམ་པ།："
+
+msgid "RAID Options"
+msgstr "RAID འདེམས་ཚན།"
+
+msgid "Raid Devices"
+msgstr "RAID སྒྲིག་ཆས།"
+
+msgid "Raid Members"
+msgstr "RAID ཁོངས་མི།"
+
+msgid "Reboot system after installation"
+msgstr "སྒྲིག་འཇུག་བྱས་རྗེས་རྒྱུད་ཁོངས་ཡང་བསྐར་སྣེ་ཁྲིད་བྱེད་པ།"
+
+msgid "Remove all existing partitions"
+msgstr "ད་བསགས་བགོ་ཁུལ་ཚང་མ་བསུབ་པ།"
+
+msgid "Remove existing Linux partitions"
+msgstr "ད་བསགས Linux བགོ་ཁུལ་བསུབ་པ།"
+
+msgid "Resolution"
+msgstr "འབྱེད་ཕྱོད།"
+
+msgid "Root Password:"
+msgstr "རྩ་བའི་བཀའ་བརྡ།："
+
+msgid "Root passwords do not match."
+msgstr "རྩ་བའི་བཀའ་བརྡ་ཟླ་སྒྲིག་མིན།"
+
+msgid "Run outside of the chroot environment"
+msgstr "chroot ཁོར་ཡུག་གི་གཞན་དུ་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "SMB"
+msgstr "SMB"
+
+msgid "SMB Authentication"
+msgstr "SMB ར་སྤྲོད།"
+
+msgid "SMB Servers:"
+msgstr "SMB ཞབས་ཞུ་ཆས།："
+
+msgid "SMB Workgroup:"
+msgstr "SMB ལས་བྱེད་ཚོ："
+
+msgid "SQL Database Server"
+msgstr "SQLགཞི་གྲངས་མཛོད་ཞབས་ཞུ་ཆས།"
+
+msgid "Save File"
+msgstr "ཡིག་ཆ་ཉར་ཚགས།"
+
+msgid "Security level:"
+msgstr "བདེ་འཇགས་རིམ་པ།："
+
+msgid "Select packages to install."
+msgstr "སྒྲིག་འཇུག་བྱེད་དགོས་པའི་མཉེན་ཆས་ཁུག་མ་འདེམ་པ།"
+
+msgid "Server Configuration Tools (AS and ES only)"
+msgstr "ཞབས་ཞུ་ཆས་སྡེབ་སྒྲིག་ལག་ཆ།（Asདང་ES ཁོ་ནར་ཚད་འགོག་པ།）"
+
+msgid "Servers"
+msgstr "ཞབས་ཞུ་ཆས།"
+
+msgid "Size (MB)"
+msgstr "ཆེ་ཆུང་། (MB)"
+
+msgid "Size (MB):"
+msgstr "ཆེ་ཆུང་། (MB)："
+
+msgid "Sound and Video"
+msgstr "སྒྲ་ཟློས་དང་བརྙན་ལམ།"
+
+msgid "Specify a device on which to create the partition."
+msgstr ""
+"དེའི་ནང་དུ་བགོ་ཁུལ་གསར་འཛུགས་བྱེད་དགོས་པའི་སྒྲིག་ཆས་དམིགས་འཛུགས་བྱེད་པ།"
+
+msgid "Specify a mount point for the partition."
+msgstr "བགོ་ཁུལ་ལ་འགེལ་གནས་དམིགས་འཛུགས་བྱེད་པ།"
+
+msgid "Specify an FTP username and password"
+msgstr "FTP སྤྱོད་མཁན་མིང་དང་བཀའ་བརྡ་དམིགས་འཛུགས་བྱེད་པ།"
+
+msgid "Start the X Window System on boot"
+msgstr "སྣེ་ཁྲིད་བྱེད་སྐབས X སྒེའུ་ཁུང་རྒྱུད་ཁོངས་འགོ་སློང་བ།"
+
+msgid "Static IP"
+msgstr "IP འགུལ་མེད་རྣམ་པ།"
+
+msgid "Subsection"
+msgstr "བུ་དུམ།"
+
+msgid "System"
+msgstr "རྒྱུད་ཁོངས།"
+
+msgid "System Tools"
+msgstr "རྒྱུད་ཁོངས་ལག་ཆ།"
+
+msgid "Target Architecture:"
+msgstr "དམིགས་ཡུལ་མ་ལག："
+
+msgid "Text-based Internet"
+msgstr "ཡིག་རྐྱང་གཞིར་བྱས་པའིInternet"
+
+msgid "The file \"%s\" cannot be accessed."
+msgstr "ཡིག་ཆ“%s” གསོག་ལེན་བྱེད་ཐབས་མེད།"
+
+msgid ""
+"The mount point \"%s\" is already in use.  Please select another mount "
+"point."
+msgstr "འགེལ་གནས “%s” སྤྱོད་ཟིན་པས་འགེལ་གནས་གཞན་ཞིག་འདེམས་རོགས།"
+
+msgid ""
+"The partition you specified does not end in a number.  Partitions must have "
+"a partition number such as \"hda1\" or \"sda3\"."
+msgstr ""
+"ཁྱེད་ཀྱིས་དམིགས་བཙུགས་པའི་བགོ་ཁུལ་གྲངས་ཀས་མཇུག་མེད་དེ་བགོ་ཁུལ་ལ་ངེས་པར་དུ་བགོ་ཁུལ་ཨང་གྲངས་ཞིག་དགོས།"
+" དཔེར་ན “hda1”གམ་ཡང་ན“sda3”"
+
+msgid "Time Zone:"
+msgstr "དུས་ཁུལ།:"
+
+msgid ""
+"To create a new RAID partition, you must specify either a hard drive device "
+"name or an existing partition."
+msgstr ""
+"RAID བགོ་ཁུལ་གསར་པ་གསར་འཛུགས་བྱེད་དགོས་ཏེ། "
+"ཁྱེད་ཀྱིས་མཁྲེགས་སྡེར་སྐུལ་སློང་ཆས་སྒྲིག་ཆས་མིང་ངམ་ཡང་ན་ད་བསགས་བགོ་ཁུལ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས།"
+
+msgid "Trusted devices:"
+msgstr "ཡིད་ཆེས་པའི་སྒྲིག་ཆས།："
+
+msgid "Trusted services:"
+msgstr "ཡིད་ཆེས་པའི་ཞབས་ཞུ།："
+
+msgid "Try running 'system-config-kickstart --help' for a list of options."
+msgstr "“system-config-kickstart --help” སྤྱད་ནས་འདེམས་ཚན་རེའུ་མིག་ཐོབ་པ།"
+
+msgid "Type"
+msgstr " རིགས་རྣམ།"
+
+msgid "Type your %post script below:"
+msgstr "གཤམ་དུ་ཁྱེད་ཀྱི %post འཁྲབ་གཞུང་མཐེབ་འཇུག་བྱེད་རོགས།："
+
+msgid "Type your %pre script below:"
+msgstr "གཤམ་དུ་ཁྱེད་ཀྱི  %pre འཁྲབ་གཞུང་མཐེབ་འཇུག་བྱེད་རོགས།："
+
+msgid "Upgrade an existing installation"
+msgstr "ད་ཡོད་སྒྲིག་འཇུག་རིམ་སྤར།"
+
+msgid "Upgrade existing boot loader"
+msgstr "ད་བསགས་སྣེ་ཁྲིད་འགེལ་འཇུག་བྱ་རིམ་རིམ་སྤར།"
+
+msgid "Use GRUB password"
+msgstr "GRUB བཀའ་བརྡ་སྤྱོད་པ།"
+
+msgid "Use MD5"
+msgstr "MD5 སྤྱོད་པ།"
+
+msgid "Use Shadow Passwords"
+msgstr "བརྙན་འགོག་བཀའ་བརྡ་སྤྱོད་པ།"
+
+msgid "Use UTC clock"
+msgstr "UTC ཆུ་ཚོད་སྤྱོད་པ།"
+
+msgid "Use an interpreter:"
+msgstr "འགྲེལ་བཤད་ཆས་སྤྱོད་པ།："
+
+msgid "Use broadcast to find NIS server"
+msgstr "རྒྱང་བསྒྲགས་སྤྱད་ནས NIS ཞབས་ཞུ་ཆས་འཚོལ་བ།"
+
+msgid "Use custom monitor sync rates"
+msgstr "གཏན་སྲོལ་འཆར་ཆས་ཀྱི་གོམ་མཉམ་ཟློས་ཕྱོད་བཀོལ་བ།"
+
+msgid "Use existing partition (onpart)"
+msgstr "ད་བསགས་བགོ་ཁུལ། (onpart) སྤྱོད་པ།"
+
+msgid "Use recommended swap size"
+msgstr "འོས་སྦྱོར་མི་བྱེད་པའི་བརྗེ་རེས་ཁུལ་གྱི་ཆེ་ཆུང་སྤྱོད་པ།"
+
+msgid "Vertical Sync:"
+msgstr "དྲང་འཕྱང་ཟློས་ཕྱོད།："
+
+msgid "Video Card"
+msgstr "བརྙན་ཟློས་ཁཱ།"
+
+msgid "Video Card RAM: "
+msgstr "བརྙན་ཟློས་ཁཱ་ནང་གསོག："
+
+msgid "Web Server"
+msgstr "Webཞབས་ཞུ་ཆས།"
+
+msgid "Windows File Server"
+msgstr "Windowsཡིག་ཆ་ཞབས་ཞུ་ཆས།"
+
+msgid "X Software Development"
+msgstr "X མཉེན་ཆས་གསར་སྤེལ།"
+
+msgid "X Window System"
+msgstr "X སྒེའུ་ཁུང་རྒྱུད་ཁོངས།"
+
+msgid "Yes"
+msgstr "ཡིན།"
+
+msgid "You currently have %d software RAID partition(s) free to use."
+msgstr ""
+"མིག་སྔར་ཁྱེད་ལ་ད་དུང་སྤྱོད་རུང་བའི་ཁོམ་ལོང་ཅན་གྱི་མཉེན་ཆས  RAID བགོ་ཁུལ  %d "
+"ཡོད།"
+
+msgid ""
+"You have choosen the following configuration. Click Save File to save the "
+"kickstart file. "
+msgstr ""
+"ཁྱེད་ཀྱིས་གཤམ་གསལ་སྡེབ་སྒྲིག་འདེམས་ཟིན་པས་ཉར་ཚགས་ཡིག་ཆ་ལ་ཆིག་རྡེབ་བྱས་ནས "
+"kickstart ཡིག་ཆ་ཉར་ཚགས་བྱེད་རོགས།"
+
+msgid "You must select at least 2 partitions in order to use RAID %s"
+msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་མ་མཐའ་ཡང་བགོ་ཁུལ་གཉིས་བདམས་ནས་RAID%སྤྱོད་དགོས།"
+
+msgid "You must select at least 3 partitions in order to use RAID %s"
+msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་མ་མཐའ་ཡང་བགོ་ཁུལ 3 ་བདམས་ནས RAID %s སྤྱོད་དགོས།"
+
+msgid "_About"
+msgstr "འབྲེལ་ཡོད།(_A)"
+
+msgid "_Add"
+msgstr "སྣོན་པ། (A)"
+
+msgid "_Add Network Device"
+msgstr "དྲ་རྒྱ་སྒྲིག་ཆས་ཁ་སྣོན།(_A)"
+
+msgid "_Contents"
+msgstr "དཀར་ཆག (_C)"
+
+msgid "_Delete"
+msgstr "བསུབ་པ།"
+
+msgid "_Delete Network Device"
+msgstr "དྲ་རྒྱ་སྒྲིག་ཆས་བསུབ་པ།(_D)"
+
+msgid "_Edit"
+msgstr "རྩོམ་སྒྲིག (_E)"
+
+msgid "_Edit Network Device"
+msgstr "དྲ་རྒྱ་སྒྲིག་ཆས་རྩོམ་སྒྲིག(_E)"
+
+msgid "_File"
+msgstr "ཡིག་ཆ། (_F)"
+
+msgid "_Help"
+msgstr " རོགས་རམ།(_H)"
+
+msgid "_Install Everything"
+msgstr "ཚང་མ་སྒྲིག་འཇུག(_I)"
+
+msgid "_Open File"
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ་བ།(_O)"
+
+msgid "_Preview"
+msgstr "སྔོན་ལྟ།(_P)"
+
+msgid "_Quit"
+msgstr "ཕྱིར་འབུད། (_Q)"
+
+msgid "_Save File"
+msgstr "ཡིག་ཆ་ཉར་ཚགས།(_S)"
+
+msgid "_Save to File"
+msgstr "ཡིག་ཆ་ལ་ཉར་ཚགས།(_S)"
+
+msgid "kHz"
+msgstr "ཆན་ཧོ་ཙི།"
+
+msgid "label128"
+msgstr "128 གདོང་འཛར།"
+
+msgid "software RAID"
+msgstr "མཉེན་ཆས་RAID"
+
+msgid "x86, AMD64, or Intel EM64T"
+msgstr "x86, AMD64 དང་ཡང་ན Intel EM64T"

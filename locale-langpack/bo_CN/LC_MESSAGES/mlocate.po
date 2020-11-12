@@ -1,0 +1,174 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "\t%'ju byte in file names\n"
+msgid_plural "\t%'ju bytes in file names\n"
+msgstr[0] "\t%'ju ཡིག་ཆའི་མིང་གི་ནང་གི་ཡིག་ཚིགས་གྲངས།\n"
+msgstr[1] "\t%'ju ཡིག་ཆའི་མིང་གི་ནང་གི་ཡིག་ཚིགས་གྲངས།\n"
+
+msgid "\t%'ju byte used to store database\n"
+msgid_plural "\t%'ju bytes used to store database\n"
+msgstr[0] "\t%'ju ཡིག་ཚིགས་གཞི་གྲངས་མཛོད་གསོག་ཉར་དུ་སྤྱོད་པ།"
+msgstr[1] "\t%'ju ཡིག་ཚིགས་གཞི་གྲངས་མཛོད་གསོག་ཉར་དུ་སྤྱོད་པ།"
+
+msgid "\t%'ju directory\n"
+msgid_plural "\t%'ju directories\n"
+msgstr[0] ""
+"\"\t%'ju ཡིག་ཁུག\n"
+"\""
+msgstr[1] ""
+"\"\t%'ju ཡིག་ཁུག\n"
+"\""
+
+msgid "\t%'ju file\n"
+msgid_plural "\t%'ju files\n"
+msgstr[0] ""
+"\"\t%'ju ཡིག་ཆ\n"
+"\""
+msgstr[1] ""
+"\"\t%'ju ཡིག་ཆ\n"
+"\""
+
+msgid "--%s specified twice"
+msgstr " \"--%s ཐེངས་གཉིས་དམིགས་འཛུགས།"
+
+msgid "--%s would override earlier command-line argument"
+msgstr "\"--%s ཡིས་སྔར་གྱི་བཀའ་བརྡའི་ཕྲེང་གི་ཞུགས་གྲངས་འགེབ་པར་བྱེད།"
+
+msgid "Database %s:\n"
+msgstr "གཞི་གྲངས་མཛོད།%s:\n"
+
+msgid "I/O error reading `%s'"
+msgstr "I/Oཀློག་ལེན་ནོར་འཁྲུལ།`%s'"
+
+msgid "I/O error seeking in `%s'"
+msgstr "`%s' ནང་བཤེར་འཚོལ་བྱེད་སྐབས་I/Oཡི་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "I/O error while writing to `%s'"
+msgstr "1%s’འབྲི་སྐབས་I/Oནོར་འཁྲུལ་ཤོར་བ།"
+
+msgid "I/O error while writing to standard output"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན་སྐབས་I/Oནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "`%s' does not seem to be a mlocate database"
+msgstr "\"`%s' ནི་mloocateཡི་གཞི་གྲངས་མཛོད་ཅིག་མ་རེད།"
+
+msgid "`%s' has unknown version %u"
+msgstr "\"`%s' རུ་ངེས་མེད་ཀྱི་པར་གཞི་%uཡོད་པ།"
+
+msgid "`%s' has unknown visibility flag %u"
+msgstr "\"`%s' ནང་དུ་ངེས་མེད་ཀྱི་མཐོང་རུང་རང་བཞིན་གྱི་མཚོན་རྟགས་%uཡོད་པ།"
+
+msgid "`%s' is locked (probably by an earlier updatedb)"
+msgstr ""
+"\"`%s' "
+"དམིགས་འཛིན་བྱས།(དེ་སྔོན་གྱི་གཞི་གྲངས་མཛོད་གསར་བསྒྱུར་བྱས་པས་ཡིན་ཤེས་ཆེ།)"
+
+msgid "`=' expected after variable name"
+msgstr "འགྱུར་ཚད་མིང་གི་རྗེས་སུ་ `='གཅིག་དགོས།"
+
+msgid "can not change directory to `%s'"
+msgstr "དཀར་ཆག་ལ་འགྱུར་ལྡོག་གཏོང་ཐབས་བྲལ་བ།`%s'"
+
+msgid "can not change group of file `%s' to `%s'"
+msgstr "ཡིག་ཆ་དེ་གནས་སའི་ཚོ་ཆུང་ `%s'  དེ་`%s'རུ་བསྒྱུར་ཐབས་བྲལ།"
+
+msgid "can not change permissions of file `%s'"
+msgstr "ཡིག་ཆ `%s' ཡི་དབང་ཚད་ལ་འགྱུར་ལྡོག་གཏོང་ཐབས་བྲལ།"
+
+msgid "can not drop privileges"
+msgstr "ཁྱད་དབང་གློད་ཐབས་བྲལ།"
+
+msgid "can not find group `%s'"
+msgstr " `%s'་ཚོ་ཆུང་རྙེད་ཐབས་བྲལ།"
+
+msgid "can not get current working directory"
+msgstr "མིག་སྔའི་ལས་ཀའི་དཀར་ཆག་ཐོབ་ཐབས་བྲལ།"
+
+msgid "can not lock `%s'"
+msgstr "`%s'དམིགས་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "can not open `%s'"
+msgstr "`%s'ཁ་འབྱེད་ཐབས་བྲལ།"
+
+msgid "can not open a temporary file for `%s'"
+msgstr "`%s' ལ་གནས་སྐབས་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "can not read two databases from standard input"
+msgstr "ཚད་ལྡན་ནས་གྲངས་གཞིའི་མཛོད་གཉིས་ཀློག་འབྲི་བྱེད་ཐབས་བྲལ།"
+
+msgid "can not stat () `%s'"
+msgstr "stat() `%s'ལག་བསྟར་བྱེད་ཐབས་བྲལ།"
+
+msgid "configuration is too large"
+msgstr "སྡེབ་སྒྲིག་ཆེ་དྲགས་པ།"
+
+msgid "error replacing `%s'"
+msgstr "བརྗེ་རེས་ནོར་འཁྲུལ།`%s'"
+
+msgid "file name length %zu in `%s' is too large"
+msgstr "ཡིག་ཆའི་མིང་གི་རིང་ཚད་%zu དེ་`%s' ཡི་ཁྲོད་ཆེ་དྲགས་པ།"
+
+msgid "file name length %zu is too large"
+msgstr "ཡིག་དེབ་མིང་ %zu རིང་དྲགས་པ།"
+
+msgid "file system error: zero-length file name in directory %s"
+msgstr ""
+"ཡིག་ཆའི་རྒྱུད་ཁོངས་ནོར་འཁྲུལ།དཀར་ཆག་%s "
+"ཡི་འོག་ཏུ་ཡིག་ཆའི་མིང་གི་རིང་ཚད་གོར་ཐིག་ཡིན།"
+
+msgid "invalid empty directory name in `%s'"
+msgstr "\"`%s' ཁྲོད་དུ་ནུས་མེད་ཀྱི་དཀར་ཆག་སྟོོང་པའི་མིང་ཡོད།"
+
+msgid "invalid regexp `%s': %s"
+msgstr "ནུས་མེད་ཀྱི་regexp `%s': %s"
+
+msgid "invalid value `%s' of --%s"
+msgstr "%s ཕན་འབྲས་མེད་པའི་ཐང་།`%s'"
+
+msgid "invalid value `%s' of PRUNE_BIND_MOUNTS"
+msgstr "PRUNEn-BINDnMOUNTSརྗེས་ཕན་འབྲས་མེད་པའི་ཐང་`%s'ཡོད།"
+
+msgid "missing closing `\"'"
+msgstr "ཟླ་སྒྲིག་པའི་'\"ཆད་པ།"
+
+msgid "no pattern to search for specified"
+msgstr "འཚོལ་བཤེར་བྱེད་སྟངས་གང་ཡང་དམིགས་འཛུགས་བྱས་མེད།"
+
+msgid "non-option arguments are not allowed with --%s"
+msgstr "འདེམས་བྱ་མིན་པའི་ཞུགས་གྲངས་སྤྱད་མི་ཆོག --%s མཉམ་དུ་སྤྱོད་མི་ཆོག"
+
+msgid "unexpected EOF reading `%s'"
+msgstr "`%s' ཀློག་ལེན་སྐབས་བསམ་ཡུལ་ལས་འདས་པའི་EOFཐོན་པ།"
+
+msgid "unexpected data after variable value"
+msgstr "འགྱུར་ཚད་ཐང་གི་རྗེས་སུ་བསམ་ཡུལ་ལས་འདས་པའི་གཞི་གྲངས་ཡོད།"
+
+msgid "unexpected operand on command line"
+msgstr "བཀའ་བརྡའི་ཕྲེང་ནང་དུ་བློ་ཡུལ་ལས་འདས་པའི་བཀོལ་སྤྱོད་བྱ་ཡུལ་འདུས།"
+
+msgid "unknown variable `%s'"
+msgstr "མི་ཤེས་པའི་འགྱུར་ཚད།`%s'"
+
+msgid "value in quotes expected after `='"
+msgstr "\"`=' རྗེས་སུ་འདྲེན་རྟགས་ནང་གི་གྲངས་ཐང་དགོས།"
+
+msgid "variable `%s' was already defined"
+msgstr "འགྱུར་ཚད་`%s' ལ་མཚན་ཉིད་བཞག་ཟིན།"
+
+msgid "variable name expected"
+msgstr "འགྱུར་ཚད་ཀྱི་མིང་ཞིག་དགོས།"
+
+msgid "warning: Line number overflow"
+msgstr "ཐ་ཚིག ཕྲེང་གྲངས་ལུད་པ།"

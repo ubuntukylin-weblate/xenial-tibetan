@@ -1,0 +1,604 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%prog <report number>"
+msgstr "%prog <སྙན་ཞུའི་ཨང་>"
+
+msgid "%prog [options] [symptom|pid|package|program path|.apport/.crash file]"
+msgstr ""
+"%prog [འདེམས་ཚན་] [ནད་རྟགས|PID|མཉེན་ཆས་དུམ|བྱ་རིམ་དཀར་ཆག|.apport/.crash "
+"file]"
+
+msgid "&Cancel"
+msgstr "དོར་བ།(&C)"
+
+msgid "&Confirm"
+msgstr "གཏན་འཁེལ།(&C)"
+
+msgid "&Done"
+msgstr "ལེགས་འགྲུབ།(&D)"
+
+msgid "&Examine locally"
+msgstr "རང་གནས་ཞིབ་བཤེར།(&E)"
+
+msgid "&Keep report file for sending later or copying to somewhere else"
+msgstr ""
+"སྙན་ཞུའི་ཡིག་ཆ་ཉར་ནས་ཅུང་ཙམ་དུ་གནས་གཞན་དུ་སྐུར་བའམ་འདྲ་བཟོ་བྱེད་པ།(&K)"
+
+msgid "&Send report (%s)"
+msgstr "སྐུར་བ་སྙན་ཞུ་(&S)(%s)"
+
+msgid "&View report"
+msgstr "སྙན་ཞུ་ལྟ་བ།(&V)"
+
+msgid "(%i bytes)"
+msgstr "(ཡིག་ཚིགས་%i )"
+
+msgid "(binary data)"
+msgstr "(གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་གཞི་གྲངས་)"
+
+msgid "<big><b>Collecting problem information</b></big>"
+msgstr "<big><b>གདན་དོན་ཆ་འཕྲིན་བསྡུ་པ།</b></big>"
+
+msgid "<big><b>Sorry, an internal error happened.</b></big>"
+msgstr "<big><b>ནང་ཁུལ་གྱི་ནོར་འཁྲུལ་བྱུང་བ།</b></big>"
+
+msgid "<big><b>Uploading problem information</b></big>"
+msgstr "<big><b>གནད་དོན་གྱི་ཆ་འཕྲིན་ཡར་སྐྱེལ་པ།</b></big>"
+
+msgid "Add an extra tag to the report. Can be specified multiple times."
+msgstr "སྙན་ཞུ་རུ་མཚོན་རྟགས་གཞན་སྣོན་པ། ཐེངས་མང་གཏན་འཁེལ་བྱ་ཆོག"
+
+msgid ""
+"After closing this message please click on an application window to report a"
+" problem about it."
+msgstr ""
+"བརྡ་འཕྲིན་འདི་ཁ་བརྒྱབ་རྗེས། "
+"གནད་དོན་ཞུ་དགོས་པའི་བྱ་རིམ་སྒེའུ་ཁུང་ལ་ཆིག་རྡེབ་བྱོས།"
+
+msgid ""
+"An Ubuntu package has a file conflict with a package that is not a genuine "
+"Ubuntu package."
+msgstr ""
+"མཉེན་ཆས་ཐུམ Ubuntuདང་དངོས་མིན་གྱི་མཉེན་ཆས་ཐུམ Ubuntu "
+"བར་དུ་ཡིག་ཆ་འགལ་བ་བྱུང་།"
+
+msgid "An error occurred while attempting to process this problem report:"
+msgstr "གནད་དོན་སྙན་ཞུ་འབུལ་སྐབས་སུ་སྐྱོན་འབྱུང་བ།"
+
+msgid "Apport"
+msgstr "Apport"
+
+msgid "Apport crash file"
+msgstr "Apport ཐོར་ཞིག་གི་ཡིག་ཆ་"
+
+msgid ""
+"Authentication is required to collect system information for this problem "
+"report"
+msgstr "གནད་དོན་སྙན་ཞུ་བསྡུ་སྐབས་རྒྱུད་ཁོངས་ཆ་འཕྲིན་ལ་དབང་སྤྲོད་དགོས།"
+
+msgid "Cache directory for packages downloaded in the sandbox"
+msgstr "བྱེ་སྒམ་གྱི་མཉེན་ཆས་ཁུག་མའི་ལྷོད་གསོག་དཀར་ཆག་ཏུ་ཕབ།"
+
+msgid "Cancel"
+msgstr " དོར་བ།"
+
+msgid "Cancel and &ignore future crashes of this program version"
+msgstr ""
+"པར་གཞི་འདིའི་རྗེས་སུ་བྱུང་བའི་ཐོར་ཞིག་མཚམས་འཇོག་པ་དང་སྣང་མེད་དུ་གཏོང་།(&I)"
+
+msgid ""
+"Cannot connect to crash database, please check your Internet connection."
+msgstr ""
+"ཐོར་ཞིག་གཞི་གྲངས་མཛོད་དུ་འབྲེལ་མི་ཐུབ། ཁྱེད་ཀྱི་ "
+"Internetཡི་འབྲེལ་མཐུད་ལ་ཞིབ་བཤེར་བྱོས།"
+
+msgid "Cannot create report"
+msgstr "སྙན་ཞུ་བཟོ་མི་ཐུབ།"
+
+msgid "Choices:"
+msgstr "འདེམ་པ།:"
+
+msgid "Click a window as a target for filing a problem report."
+msgstr "སྒེའུ་ཁུང་ཅིག་ལ་ཆིག་རྡེབ་བྱས་ནས་གནད་དོན་སྙན་ཞུའི་དམིགས་ཡུལ་བྱ།"
+
+msgid "Collect system information"
+msgstr "རྒྱུད་ཁོངས་ཆ་འཕྲིན་བསྡུ་པ།"
+
+msgid "Collecting Problem Information"
+msgstr "གནད་དོན་ཆ་འཕྲིན་བསྡུ་བཞིན་པ།"
+
+msgid "Collecting problem information"
+msgstr "གནད་དོན་ཆ་འཕྲིན་བསྡུ་བཞིན་པ།"
+
+msgid "Continue"
+msgstr "མུ་མཐུད།"
+
+msgid "Could not determine the package or source package name."
+msgstr "ཐུམ་མམ་ཁུངས་ཨང་ཐུམ་གྱི་མིང་ཞིབ་བཤེར་བྱ་མི་ཐུབ།"
+
+msgid "Crash report"
+msgstr "ཐོར་ཞིག་ཏུ་སོང་བའི་སྙན་ཞུ།"
+
+msgid ""
+"Create and use third-party repositories from origins specified in reports"
+msgstr ""
+"སྙན་ཞུ་ལས་བསྟན་པའི་ཁུངས་ཀྱིས་ཕྱོགས་གསུམ་པའི་མཉེན་ཆས་མཛོད་གསར་བཟོ་དང་བེད་སྤྱོད་བྱ།"
+
+msgid "Destination directory exists and is not empty."
+msgstr "དམིགས་ཚད་དཀར་ཆག་ཡོད་ཅིང་སྟོང་མིན།"
+
+msgid ""
+"Directory for unpacked packages. Future runs will assume that any already "
+"downloaded package is also extracted to this sandbox."
+msgstr ""
+"ཐུམ་གྱི་དཀར་ཆག་བཙིར་འགྲོལ་བྱེད་པ། "
+"རྗེས་ཀྱི་འཁོར་སྐྱོད་ནི་ཕབ་པའི་ཐུབ་ཚང་མ་བྱེ་སྒམ་འདིར་ལེན་པ་དབང་དུ་བཏང་།"
+
+msgid ""
+"Display retraced stack traces and ask for confirmation before sending them "
+"to the crash database."
+msgstr ""
+"ལོག་པའི་དོས་ཀྱི་ཆ་འཕྲིན་ཤར། "
+"དེ་ནི་ཐོར་ཞིག་གཞི་གྲངས་མཛོད་དུ་སྐུར་ཡོད་མེད་འདྲི་བ་དང་གཏན་འཁེལ་བྱོས།"
+
+msgid "Do not put the new traces into the report, but write them to stdout."
+msgstr "རྗེས་ཤུལ་གསར་བ་སྙན་ཞུ་རུ་འབྲི་མི་ཐུབ་ཀྱང་། ཚད་ལྡན་ཕྱིར་འདོན་དུ་ཕྲིས།"
+
+msgid "Error"
+msgstr " ནོར་འཁྲུལ།"
+
+msgid "Error: %s"
+msgstr "ནོར་འཁྲུལ།： %s"
+
+msgid "Error: %s is not an executable. Stopping."
+msgstr "ནོར་འཁྲུལ། %s ནི་ལག་བསྟར་རུང་བའི་ཡིག་ཆ་མིན། མཚམས་འཇོག"
+
+msgid ""
+"File a bug report about a symptom. (Implied if symptom name is given as only"
+" argument.)"
+msgstr "ནད་རྟགས་ཤིག་ལ་དམིགས་ནས་bugཞུ་པ།"
+
+msgid "File does not exist."
+msgstr " ཡིག་ཆ་མེད་པ།"
+
+msgid "Force Closed"
+msgstr "བཙན་པོས་ཁ་རྒྱག"
+
+msgid "Hide Details"
+msgstr "ཞིབ་ཕྲིའ་ཆ་འཕྲིན་བོས།"
+
+msgid "If you notice further problems, try restarting the computer."
+msgstr "གལ་ཏེ་ཁྱེད་ཀྱིས་གནད་དོན་ཇེ་མང་མཐོང་ན། རྩིས་འཁོར་ཡང་བསྐྱར་མགོ་སློངས།"
+
+msgid "Ignore future problems of this program version"
+msgstr "རྗེས་སུ་བྱ་རིམ་པར་གཞི་འདི་གནད་དོན་སྣང་མེད་གཏོང་།"
+
+msgid "Ignore future problems of this type"
+msgstr "རྗེས་སུ་ནོར་འཁྲུལ་རིགས་འདི་སྣང་མེད་གཏོང་།"
+
+msgid ""
+"Information is being collected that may help the developers fix the problem "
+"you report."
+msgstr ""
+"ཆ་འཕྲིན་བསྡུ་པ། "
+"ཆ་འཕྲིན་འདི་དག་གིས་གསར་སྤེལ་མི་སྣ་ལ་ཁྱེད་ཀྱི་སྙན་ཞུའི་གནད་དོན་བཟོ་བཅོས་ལ་རོགས་བྱེད།"
+
+msgid ""
+"Install an extra package into the sandbox (can be specified multiple times)"
+msgstr ""
+"མཉེན་ཆས་ཐུམ་གཞན་དག་བྱེ་སྒམ་དུ་སྒྲིག་འཇུག་བྱ།(ཐེངས་མང་གཏན་འཁེལ་བྱ་ཐུབ།)"
+
+msgid "Invalid PID"
+msgstr "ནུས་མེད་ཀྱི་ PID"
+
+msgid "Invalid problem report"
+msgstr "ནུས་མེད་ཀྱི་གནད་དོན་སྙན་ཞུ་"
+
+msgid "Launch a browser now"
+msgstr "བཤར་ཆས་ཤིག་མགོ་སློངས།"
+
+msgid "Leave Closed"
+msgstr "ཁ་རྒྱག་གི་རྣམ་པ་གཏན་སྲུང་བྱེད།"
+
+msgid "Memory exhaustion"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "Network problem"
+msgstr "དྲ་བའི་གནད་དོན།"
+
+msgid "No additional information collected."
+msgstr "ཆ་འཕྲིན་ཇེ་མང་བསྡུ་མི་ཐུབ།"
+
+msgid "No package specified"
+msgstr "གཏན་འཁེལ་གྱི་མཉེན་ཆས་ཐུམ་མེད།"
+
+msgid "No pending crash reports. Try --help for more information."
+msgstr ""
+"ཐོར་ཞིག་གི་སྙན་ཞུ་མེད།  --helpཚོད་ལྟ་བྱས་ནས་ཆ་འཕྲིན་ཇེ་མང་འཐོབ་ཏུ་འཇུག"
+
+msgid "OK"
+msgstr " གཏན་འཁེལ།"
+
+msgid "OK to send these as attachments? [y/n]"
+msgstr "ཞོར་ཆས་ལྟར་འདི་དག་སྐུར་བ་ཡིན་མིན་གཏན་འཁེལ་བྱེད།[y/n]"
+
+msgid "Override report's CoreFile"
+msgstr "སྙན་ཞུའི་ཡིག་ཆ་གཙོ་བོ་ཁེབས་པ།"
+
+msgid "Override report's ExecutablePath"
+msgstr "སྙན་ཞུའི་།ལག་བསྟར་འགྲོ་ལམ་ཁེབས་པ"
+
+msgid "Override report's ProcMaps"
+msgstr "སྙན་ཞུའི་འཕེལ་རིམ་རེའུ་མིག་ཁེབས་པ།"
+
+msgid "Package %s does not exist"
+msgstr "མཉེན་ཆས་ཐུམ %s མེད་པ།"
+
+msgid "Package: %s"
+msgstr "མཉེན་ཆས་ཐུམ་%s"
+
+msgid "Password:"
+msgstr "གསང་ཨང་།"
+
+msgid "Path to file (Enter to cancel):"
+msgstr "ཡིག་ཆའི་འགྲོ་ལམ་(འབེབས་མཐེས་ལེན་པ།)："
+
+msgid "Path to the duplicate sqlite database (default: no duplicate checking)"
+msgstr ""
+"SQLite གཞི་གྲངས་མཛོད་འགྲོ་ལམ་བསྐྱར་ཟློས།(སོར་བཞག བསྐྱར་དུ་ཞིབ་བཤེར་མི་བྱེད།)"
+
+msgid "Permission denied"
+msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
+
+msgid "Please choose (%s):"
+msgstr "འདེམ་རོགས།(%s)："
+
+msgid "Please enter your account information for the %s bug tracking system"
+msgstr "ནོར་འཚོལ་རྒྱུད་ཁོངས་ %sལ་ཁྱེད་ཀྱིས་རྩིས་ཐེམ་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid ""
+"Please enter your password to access problem reports of system programs"
+msgstr ""
+"ཁྱེད་ཀྱིས་གསང་ཨང་ནང་འཇུག་སྟེ་རྒྱུད་ཁོངས་བྱ་རིམ་གྱི་གནད་དོན་སྙན་ཞུ་ལ་ལྟ་རོགས།"
+
+msgid "Prepend timestamps to log messages, for batch operation"
+msgstr "སྡེབ་བཀོལ་བྱ་ཆེད་དུ། དུས་བཀག་བཀོད་ནས་བརྡ་འཕྲིན་གྱི་ཟིན་ཐོར་འགོད་པ།"
+
+msgid "Press any key to continue..."
+msgstr "ཐེམ་གང་རུང་བསྣན་ནས་མུ་མཐུད་དུ…"
+
+msgid "Print the Apport version number."
+msgstr "Apportཔར་ཨང་ཕྱིར་འདོན་པ།"
+
+msgid "Problem already known"
+msgstr "གནད་དོན་འདི་ནི་ཤེས་པའི་གནད་དོན་རེད།"
+
+msgid "Problem in %s"
+msgstr "%s ཡི་གནད་དོན།"
+
+msgid "Problem report file:"
+msgstr "གནད་དོན་སྙན་ཞུའི་ཡིག་ཆ།："
+
+msgid "Rebuild report's Package information"
+msgstr "སྙན་ཞུའི་ཐུམ་གྱི་ཆ་འཕྲིན་གསར་བཟོ།"
+
+msgid "Relaunch"
+msgstr "བྱ་རིམ་བསྐྱར་སློང་།"
+
+msgid "Remove the core dump from the report after stack trace regeneration"
+msgstr "དོས་ཕྱིར་འཁོར་བཟོས་རྗེས་ནང་ཉིང་སྤོ་གསོག་སྙན་ཞུ་ལས་འདོར་བ།"
+
+msgid "Report a malfunction to the developers"
+msgstr "གསར་སྤེལ་མཁན་ལ་སྙན་ཞུ་ཞིག་འབུལ།"
+
+msgid "Report a problem..."
+msgstr "གནད་དོན་གྱི་སྙན་ཞུ་ཞིག་འབུལ།…"
+
+msgid "Report download/install progress when installing packages into sandbox"
+msgstr ""
+"མཉེན་ཆས་ཐུམ་བྱེ་སྒམ་དུ་ནང་འཇུག་བྱེད་སྐབས། ཕབ་པ་དང་སྒྲིག་འཇུག་གི་སྙན་ཞུ་འབུལ།"
+
+msgid "Run gdb session"
+msgstr "གླེང་མོལ gdbའཁོར་སྐྱོད་བྱེད།"
+
+msgid "Run gdb session without downloading debug symbols"
+msgstr "ཚོད་སྒྲིག་ཨང་མི་འབེབས་ནས་གླེང་མོལ་ gdbའཁོར་སྐྱོད་བྱེད།"
+
+msgid "See man page for details."
+msgstr "ཞིབ་ཕྲའི་གནས་ཚུལ་ལག་དེབ་ manལ་ལྟོས།"
+
+msgid "Selected: %s. Multiple choices:"
+msgstr "བདམས་ཟིན %s  གདམ་ག་མང་པོ།"
+
+msgid "Send"
+msgstr "སྐུར་བ།"
+
+msgid "Send an error report to help fix this problem"
+msgstr "ནོར་འཁྲུལ་སྙན་ཞུ་སྐུར་རོགས།  དེས་གནད་དོན་འདི་ཞིག་གསོ་ལ་རོགས།"
+
+msgid "Send problem report to the developers?"
+msgstr "གསར་སྤེལ་མཁན་ལ་གནད་དོན་སྙན་ཞུ་སྐུར་རམ།"
+
+msgid "Show Details"
+msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན་མངོན་པ།"
+
+msgid "Sorry, %s has closed unexpectedly."
+msgstr "དགོངས་པ་མ་ཚོམ། %sཁ་བརྒྱབ་པ།"
+
+msgid "Sorry, %s has experienced an internal error."
+msgstr "དགོངས་པ་མ་ཚོམ།  %s ལ་ནང་ཁུལ་གྱི་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Sorry, a problem occurred while installing software."
+msgstr "དགོངས་པ་མ་ཚོམ། མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད་སྐབས་གནད་དོན་ཐོན།"
+
+msgid "Sorry, the application %s has stopped unexpectedly."
+msgstr "དགོངས་པ་མ་ཚོམ།  ཉེར་སྤྱོད་བྱ་རིམ་ %sམཚམས་བཞག་པ།"
+
+msgid "Sorry, the program \"%s\" closed unexpectedly"
+msgstr "དགོངས་པ་མ་ཚོམ། %s བྱ་རིམ་རྒྱུན་འགལ་གྱིས་ཕྱིར་ཐོན་པ།"
+
+msgid "Specify package name."
+msgstr "ཐུམ་གྱི་མིང་གཏན་འཁེལ་བྱེད།"
+
+msgid ""
+"Start an interactive gdb session with the report's core dump (-o ignored; "
+"does not rewrite report)"
+msgstr ""
+"སྣོལ་རེས་ཅན་གྱི་ gdb འཕེལ་རིམ་འགོ་བརྩམས་ཏེ་ཕུལ་བའི་ཐོར་ཞིག་ཆ་འཕྲིན་ཞིག་འཇུག "
+"(-o སྙན་ཞུ་གསར་པ་མ་འབྱུང་།)"
+
+msgid "Start in bug updating mode. Can take an optional --package."
+msgstr ""
+"ནོར་འཁྲུལ་གསར་སྒྱུར་རྣམ་པ་འགོ་རྩོམ། འདེམས་ཚན་བཀོལ་ཆོག "
+"--packageཡིས་མཉེན་ཆས་ཐུམ་གཏན་འཁེལ་བྱེད།"
+
+msgid "Symptom script %s did not determine an affected package"
+msgstr "ནད་རྟགས་གཞི་གྲངས %s ཡིས་རྐྱེན་ཐེབས་གྱི་ཐུམ་བགོད་མེད།"
+
+msgid "System problem reports"
+msgstr "རྒྱུད་ཁོངས་གནད་དོན་སྙན་ཞུ་"
+
+msgid "The application %s has closed unexpectedly."
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ %s ཁ་བརྒྱབ།"
+
+msgid "The application %s has experienced an internal error."
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ %s ནང་ཁུལ་གྱི་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "The application %s has stopped responding."
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ %s དང་ལེན་མཚམས་བཞག"
+
+msgid ""
+"The collected information can be sent to the developers to improve the "
+"application. This might take a few minutes."
+msgstr ""
+"བསྡུས་པའི་ཆ་འཕྲིན་གསར་སྤེལ་མཁན་ལ་བསྐུར་ནས་བྱ་རིམ་ལེགས་བཅོས་བྱ་ཐུབ། "
+"འདི་ལ་སྐར་མ་འགའ་དགོས་སྲིད།"
+
+msgid ""
+"The collected information is being sent to the bug tracking system. This "
+"might take a few minutes."
+msgstr ""
+"བསྡུས་པའི་ཆ་འཕྲིན་སྐྱོན་འདེད་རྒྱུད་ཁོངས་སུ་སྐུར་བཞིན་ཡོད། "
+"འདི་ལ་སྐར་མ་འགའ་དགོས་སྲིད།"
+
+msgid ""
+"The problem happened with the program %s which changed since the crash "
+"occurred."
+msgstr "ཐོར་ཞིག་བྱུང་ནས་བཅོས་པའི་བྱ་རིམ་ %sལ་གནད་དོན་ཐོན།"
+
+msgid "The program \"%s\" has stopped responding."
+msgstr "བྱ་རིམ་ %sདང་ལེན་མཚམས་བཞག"
+
+msgid "The provided pid is a hanging application."
+msgstr "འཕེལ་རིམ་ཨང་འདིའི་བྱ་རིམ་འགེལ་བ་ཡིན།"
+
+msgid "The report belongs to a package that is not installed."
+msgstr "སྙན་ཞུ་འདི་ནི་སྒྲིག་འཇུག་མ་བྱས་པའི་མཉེན་ཆས་ཐུམ་ཞིག་ལ་གཏོགས།"
+
+msgid ""
+"The resume processing hung very near the end and will have appeared to have "
+"completed normally."
+msgstr ""
+"སླར་གསོའི་བརྒྱུད་རིམ་འདི་མཇུག་འགྲིལ་ལ་ཉེ་བས། རྒྱུན་གཏན་གྱིས་མཇུག་འགྲིལ་རྒྱུ།"
+
+msgid "The specified process ID does not belong to a program."
+msgstr "གཏན་འཁེལ་གྱི་འཕེལ་རིམ་ IDབྱ་རིམ་གཅིག་ཏུ་མི་གཏོགས།"
+
+msgid ""
+"The specified process does not belong to you. Please run this program as the"
+" process owner or as root."
+msgstr ""
+"གཏན་འཁེལ་གྱི་འཕེལ་རིམ་དེ་འཕེལ་རིམ་ཡོད་མཁན་ཡང་ན་rootམ་གཏོགས་འཁོར་སྐྱོད་བྱ་མི་ཐུབ།"
+
+msgid "The symptom \"%s\" is not known."
+msgstr "ནད་རྟགས་%s མི་ཤེས།"
+
+msgid "There is not enough disk space available to process this report."
+msgstr "སྙན་ཞུ་སྒྲིག་གཅོད་བྱེད་པའི་སྡུད་སྡེར་བར་སྟོང་འདང་བ་མེད།"
+
+msgid "This is a directory."
+msgstr "འདི་ནི་དཀར་ཆག་ཅིག་རེད།"
+
+msgid ""
+"This is not an official %s package. Please remove any third party package "
+"and try again."
+msgstr ""
+"འདི་ནི་གཞུང་ཕྱོགས་ཀྱི་%s མཉེན་ཆས་ཐུམ་མིན། "
+"ཕྱོགས་གསུམ་པའི་མཉེན་ཆས་ཐུམ་བསུས་ནས་ཡང་ཚོད་ལྟ་བྱེད།"
+
+msgid ""
+"This occurred during a previous hibernation, and prevented the system from "
+"resuming properly."
+msgstr "གོང་གི་གཉིད་ཉལ་སྐབས། རྒྱུད་ཁོངས་ཀྱི་གུང་ཟས་རྒྱུན་ལྡན་ཆགས།"
+
+msgid ""
+"This occurred during a previous suspend, and prevented the system from "
+"resuming properly."
+msgstr "གོང་གི་འགེལ་འཇོག་སྐབས་སུ། རྒྱུད་ཁོངས་གུང་ཟས་རྒྱུན་ལྡན་ཆགས།"
+
+msgid "This package does not seem to be installed correctly"
+msgstr "མཉེན་ཆས་ཐུམ་འདི་ཡང་དག་གི་སྒྲིག་འཇུག་བྱས་མེད་པ་འདྲ།"
+
+msgid ""
+"This problem report applies to a program which is not installed any more."
+msgstr "གནད་དོན་སྙན་ཞུ་འདི་སྒྲིག་འཇུག་ཡང་བྱེད་མི་དགོས་པའི་བྱ་རིམ་ལ་འཚམ།"
+
+msgid "This problem report is damaged and cannot be processed."
+msgstr "གནད་དོན་སྙན་ཞུ་འདི་ཆག་སྐྱོན་བྱུང་། སྒྲིག་གཅོད་བྱ་མི་ཐུབ།"
+
+msgid ""
+"This problem was already reported in the bug report displayed in the web "
+"browser. Please check if you can add any further information that might be "
+"helpful for the developers."
+msgstr ""
+"གནད་དོན་འདི་ཐད། སྔོན་དུ་དྲ་ངོས་སུ་ཤར་བའི་སྙན་ཞུ་ལྟར་ཡོད། "
+"ཁྱེད་ཀྱིས་ཁ་གསབ་དགོས་སམ།"
+
+msgid "This problem was already reported to developers. Thank you!"
+msgstr "གནད་དོན་འདི་གསར་སྤེལ་མཁན་ལ་སྙན་ཞུ་ཕུལ་ཚར། ཐུགས་རྗེ་ཆས།"
+
+msgid ""
+"This will launch apport-retrace in a terminal window to examine the crash."
+msgstr ""
+"འདི་ནུ་མཐའ་སྣེ་སྒེའུ་ཁུང་དུ་ apport-retraceམགོ་སློང་བ་ཡིན། "
+"ཐོར་ཞིག་འདི་ཞིབ་བཤེར་བྱ།"
+
+msgid "To continue, you must visit the following URL:"
+msgstr ""
+"མུ་མཐུད་འགྲོ་དགོས་ན། ཁྱེད་ཀྱིས་ངེས་པར་དུ་གཤམ་གྱི་དྲ་གནས་ལ་ལྟ་སྤྱོད་བྱ་དགོས།"
+
+msgid "Unable to start web browser"
+msgstr "བཤར་ཆས་ཁ་འབྱེད་མི་ཐུབ།"
+
+msgid "Unable to start web browser to open %s."
+msgstr "བཤར་ཆས་བཀོལ་ནས་དྲ་ངོས་ཁ་འབྱེད་མི་ཐུབ།%s"
+
+msgid "Unknown symptom"
+msgstr "མི་ཤེས་པའི་ནད་རྟགས།"
+
+msgid "Update %s with fully symbolic stack trace"
+msgstr "རྟགས་ཡོངས་ཀྱི་དོས་ཀྱིས་གསར་སྒྱུར་རྗེས་འདེད་བྱ། %s"
+
+msgid "Updating problem report"
+msgstr "གསར་སྒྱུར་གནད་དོན་གྱི་སྙན་ཞུ་"
+
+msgid "Uploading Problem Information"
+msgstr "གནད་དོན་ཆ་འཕྲིན་ཡར་སྐུར།"
+
+msgid "Uploading problem information"
+msgstr "གནད་དོན་ཆ་འཕྲིན་ཡར་སྐུར།"
+
+msgid "Usage: %s <report> <target directory>"
+msgstr "སྤྱོད་སྟངས།：%s <སྙན་ཞུ་> <དམིགས་པའི་དཀར་ཆག་>"
+
+msgid "Username:"
+msgstr "སྤྱོད་མཁན་མིང་།:"
+
+msgid "What kind of problem do you want to report?"
+msgstr "ཁྱེད་ཀྱིས་གནད་དོན་རིགས་གང་སྙན་ཞུ་འབུལ་རྩིས་ཡོད།？"
+
+msgid "What would you like to do? Your options are:"
+msgstr "ཁྱེད་རང་ག་རེ་བྱེད་འདོད་ཡོད། ཁྱེད་ཀྱི་གདམ་པ་ནི།"
+
+msgid ""
+"Write modified report to given file instead of changing the original report"
+msgstr ""
+"བཟོ་བཅོས་པའི་སྙན་ཞུ་དེ་དམིགས་འཛུགས་ཀྱི་ཡིག་ཆའི་ནང་བཀོད་པ་ལས་ཐོག་མའི་སྙན་ཞུར་འགྱུར་བ་མིན།"
+
+msgid "You are not allowed to access this problem report."
+msgstr "ཁྱེད་ལ་གནད་དོན་འདི་ལྟ་སྤྱོད་ཀྱི་དབང་ཆ་མེད། "
+
+msgid ""
+"You can launch a browser now, or copy this URL into a browser on another "
+"computer."
+msgstr ""
+"ཁྱེད་ཀྱིས་བཤར་ཆས་ཤིག་ཁ་འབྱེད་བཞིན་ཡོད། "
+"ཡང་ན་དྲ་གནས་འདི་གློག་ཀླད་གཞན་ཞིག་གི་བཤར་ཆས་སུ་འདྲ་ཕམ་བྱེད།"
+
+msgid "You cannot use -C without -S. Stopping."
+msgstr ""
+"ཁྱེད་ཀྱིས་-S འདེམས་ཚན་གཏན་འཁེལ་མ་བྱས་བར་ -C འདེམས་ཚན་བཀོལ་མི་ཐུབ། མཚམས་འཇོག"
+
+msgid "You have already encountered this package installation failure."
+msgstr "ཁྱེད་མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་ཕམ་པ་དང་ཐུག"
+
+msgid ""
+"You need to specify a package or a PID. See --help for more information."
+msgstr ""
+"ཁྱོད་ཀྱིས་མཉེན་ཆས་ཐུམ་ཡང་ནPIDཞིག་གཏན་འཁེལ་བྱ་དགོས།  --help "
+"འདེམས་ཚན་གྱིས་ཆ་འཕྲིན་ཇེ་མང་ཐོབ་ཏུ་འཇུག"
+
+msgid ""
+"Your computer does not have enough free memory to automatically analyze the "
+"problem and send a report to the developers."
+msgstr ""
+"ཁྱེད་ཀྱི་རྩིས་འཁོར་གྱི་བར་སྟོང་མི་འདང་།བྱ་རིམ་གྱིས་བརྟག་དཔྱད་རང་བྱེད་དང་གསར་སྤེལ་མཁན་ལ་གནད་དོན་སྙན་ཞུ་ཕུལ་མི་ཐུབ།"
+" "
+
+msgid "Your system does not have enough memory to process this crash report."
+msgstr ""
+"ཁྱེད་ཀྱིས་རྒྱུད་ཁོངས་ལ་ཐོར་ཞིག་འདི་སྒྲིག་གཅོད་ཀྱི་སྙན་ཞུའི་འདང་ངེས་ཀྱིས་ནང་གསོག་མེད།"
+
+msgid "Your system might become unstable now and might need to be restarted."
+msgstr ""
+"ཁྱེད་རང་གི་རྒྱུད་ཁོངས་ད་བརྟན་པོ་མེད་པར་འགྱུར་ཡོད། "
+"བསྐྱར་དུ་འགོ་སློང་དགོས་སྲིད། "
+
+msgid "_Examine locally"
+msgstr "རང་གནས་ཞིབ་བཤེར།(_E)"
+
+msgid ""
+"do  not  create  or reuse a sandbox directory for additional debug symbols "
+"but rely only on installed debug symbols."
+msgstr ""
+"གསར་དུ་མི་བཟོའམ་བསྐྱར་བཀོལ་ཚོད་སྒྲིག་ཨང་རྟགས་ཀྱི་བྱེ་སྒམ་དཀར་ཆག "
+"སྒྲིག་འཇུག་ཚོད་སྒྲིག་ཁོ་ན་ལ་བརྟེན།"
+
+msgid "none"
+msgstr " མེད།"
+
+msgid "report download/install progress when installing packages into sandbox"
+msgstr ""
+"སྒྲིག་འཇུག་ཐུམ་བྱེ་སྒམ་དུ་འཇུག་སྐབས་ཕབ་ལེན་/སྒྲིག་འཇུག་གི་མྱུར་ཚད་སྙན་ཞུ་འབུལ།"
+
+msgid ""
+"reuse a previously created cache dir (CDIR) or, if it does not exist, create"
+" it"
+msgstr ""
+"བསྐྱར་དུ་སྔོན་བཟོའི་ལྷོད་གསོག་དཀར་ཆག་(CDIR)བཀོལ་བ། ཡང་ན་དེ་མེད་ན། "
+"དེ་གསར་བཟོ་བྱེད།"
+
+msgid ""
+"reuse a previously created sandbox dir (SDIR) or, if it does not exist, "
+"create it"
+msgstr ""
+"བསྐྱར་དུ་སྔོན་བཟོའི་ལྷོད་གསོག་དཀར་ཆག་(SDIR) བཀོལ་བ། ཡང་ན་དེ་མེད་ན། "
+"དེ་གསར་བཟོ་བྱེད།"
+
+msgid "specify the log file name produced by valgrind"
+msgstr " valgrindཡིས་སྐྱེད་གྲུབ་བྱས་པའི་ཉིན་ཐོའི་ཡིག་ཆ་མིང་གཏན་འཁེལ་བྱེད"
+
+msgid ""
+"the executable that is run under valgrind's memcheck tool  for memory leak "
+"detection"
+msgstr ""
+"ལག་བསྟར་རུང་བའི་ཡིག་ཆ་འདིས་ལག་ཆ་ Valgrind "
+"MemCheckཡི་ནང་གསོག་ལུད་པ་ཞིབ་བཤེར་བྱེད།"
+
+msgid "unknown program"
+msgstr "མི་ཤེས་པའི་བྱ་རིམ།"
+
+msgid "xprop failed to determine process ID of the window"
+msgstr "xprop ཡིས་སྒེའུ་ཁུང་གི་འཕེལ་རིམ་ Idགཏན་མི་འཁེལ།"

@@ -1,0 +1,755 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%u bit"
+msgid_plural "%u bits"
+msgstr[0] "གནས %u"
+msgstr[1] "གནས %u"
+
+msgid "- View certificate and key files"
+msgstr "དཔང་ཡིག་དང་གསང་ལྡེའི་ཡིག་ཆར་ལྟ་བ།"
+
+msgid "A file already exists with this name."
+msgstr "མིང་གཅིག་པའི་ཡིག་ཆ་གནས་འདུག།"
+
+msgid "Algorithm"
+msgstr "རྩི་ཐབས།"
+
+msgid "Allowed Purposes"
+msgstr "ཆོག་པའི་སྤྱོད་སྒོ།"
+
+msgid "Another prompt is already in progress"
+msgstr "སྣེ་སྟོན་གཞན་ཞིག་བྱེད་བཞིན་པའི་སྒང་ཡིན།"
+
+msgid "Attribute"
+msgstr "ས་བཅད"
+
+msgid "Authenticate"
+msgstr "ར་སྤྲོད།"
+
+msgid "Automatically chosen"
+msgstr "རང་འགུལ་བསལ་འདེམས།"
+
+msgid "Automatically unlock this keyring whenever I'm logged in"
+msgstr ""
+"ང་རང་ཐོ་འགོད་བྱེད་པའི་སྐབས་གསང་ལྡེའི་གདུབ་དེ་རང་འགུལ་ངང་སྒྲོག་འགྲོལ་བྱེད་པ་ཡིན།"
+
+msgid "Basic Constraints"
+msgstr "གཞི་རྩའི་བཅུན་པ།"
+
+msgid "Cancel"
+msgstr " དོར་བ།"
+
+msgid "Cannot display a file of this type."
+msgstr "རིགས་གྲས་འདི་ཡི་ཡིག་ཆ་མངོན་ཐབས་བྲལ།"
+
+msgid "Cannot import because there are no compatible importers"
+msgstr ""
+"འདྲེན་འཇུག་བྱེད་ཐབས་བྲལ། "
+"རྒྱུ་རྐྱེན་ནི་འཆམ་མཐུན་གྱི་འདྲེན་འཇུག་བྱེད་མཁན་མེད་པ།"
+
+msgid "Capabilities"
+msgstr "དབང་ཚད།"
+
+msgid "Casual certification of key"
+msgstr "གསང་ལྡེ་ཡི་གནས་སྐབས་ར་སྤྲོད།"
+
+msgid "Certificate"
+msgstr "དཔང་ཡིག"
+
+msgid "Certificate Authority"
+msgstr "དཔང་ཡིག་དབང་སྐུར།"
+
+msgid "Certificate Fingerprints"
+msgstr "དཔང་ཡིག་མཛུབ་རིས།"
+
+msgid "Certificate Request"
+msgstr "དཔང་ཡིག་རེ་ཞུ།"
+
+msgid "Certificate Viewer"
+msgstr "དཔང་ཡིག་ལྟ་ཆས།"
+
+msgid "Certificate files"
+msgstr "དཔང་ཡིག་ཡིག་ཆ།"
+
+msgid "Certificate request"
+msgstr "དཔང་ཡིག་རེ་ཞུ།"
+
+msgid "Certificate signature"
+msgstr "\"དཔང་ཡིག་མིང་འགོད་\""
+
+msgid "Certification revocation signature"
+msgstr "དཔང་ཡིག་མིང་འགོད་རྩིས་མེད་དུ་བཏང་།"
+
+msgid "Certify"
+msgstr "དཔང་ཡིག"
+
+msgid "Challenge"
+msgstr "འགྲན་སློང་།"
+
+msgid "Class"
+msgstr "རིགས་ཁག"
+
+msgid "Client Authentication"
+msgstr "དུད་སྣེ་ར་སྤྲོད།"
+
+msgid "Code Signing"
+msgstr "ཚབ་ཨང་མིང་འགོད་པ།"
+
+msgid "Comment"
+msgstr "དཔྱད་གཏམ།"
+
+msgid "Common Name"
+msgstr "རྒྱུན་སྤྱོད་མིང་།"
+
+msgid "Confirm:"
+msgstr "གཏན་འཁེལ།:"
+
+msgid "Continue"
+msgstr "མུ་མཐུད།"
+
+msgid "Could not display '%s'"
+msgstr " “%s” མངོན་ཐབས་བྲལ།"
+
+msgid "Could not display file"
+msgstr "ཡིག་ཆ་མངོན་ཐབས་བྲལ།"
+
+msgid "Could not parse invalid or corrupted data."
+msgstr "ལུགས་འགལ་ལམ་ཡང་ན་སྐྱོན་ཤོར་བའི་གཞི་གྲངས་ལ་ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Couldn't build public key"
+msgstr "ཁྲོམ་བསྒྲགས་གསང་ལྡེ་བཟོ་ཐབས་བྲལ།"
+
+msgid "Couldn't export the certificate."
+msgstr "དཔང་ཡིག་ཕྱིར་འདྲེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Couldn't find a place to store the pinned certificate"
+msgstr "མི་སྒེར་གྱི་ཐོབ་ཐང་དཔང་རྟགས་ཉར་ཚགས་བྱེད་པའི་གནས་ས་རྙེད་མ་བྱུང་།"
+
+msgid "Couldn't initialize PKCS#11 module: %s"
+msgstr "PKCS#11 འགོ་སྒྲིག་ཐབས་མེད།   དཔེ་དུམ %s"
+
+msgid "Couldn't initialize registered PKCS#11 modules: %s"
+msgstr "ཐོ་འགོད་པའི PKCS#11 འགོ་སྒྲིག་ཐབས་མེད། དཔེ་དུམ %s"
+
+msgid "Country"
+msgstr "གྲོང་གསེབ་ཀྱི་རོལ་མོ།"
+
+msgid "Country of Citizenship"
+msgstr "རྒྱལ་ཁོངས།"
+
+msgid "Country of Residence"
+msgstr "གཏན་སྡོད་རྒྱལ་ཁབ།"
+
+msgid "Created"
+msgstr "གསར་བཟོ་ས་"
+
+msgid "Critical"
+msgstr "གནད་འགག"
+
+msgid "DN Qualifier"
+msgstr "DN ཚད་བཀག་མཁན།"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Data encipherment"
+msgstr "གཞི་གྲངས་གསང་སྡོམ།"
+
+msgid "Date of Birth"
+msgstr "འཁྲུངས་སྐར།"
+
+msgid "Digital signature"
+msgstr "གྲངས་ཀའི་མིང་འགོད།"
+
+msgid "Directory Name"
+msgstr "དཀར་ཆག་གི་མིང་།"
+
+msgid "Distrusted"
+msgstr "ཡིད་ཆེས་མི་བྱེད་པ།"
+
+msgid "Do you want to replace it with a new file?"
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཆ་གསར་པས་དེ་བརྗེ་འདོད་དམ། "
+
+msgid "Domain Component"
+msgstr "ཁུལ་ཁོངས་སྒྲིག་ལྷུ།"
+
+msgid "EDI Party Name"
+msgstr "EDI ཕྱོགས་ཀྱི་མིང་།"
+
+msgid "Elliptic Curve"
+msgstr "འཇོང་དབྱིབས་འཁྱོག་ཐིག"
+
+msgid "Email"
+msgstr "གློག་རྡུལ་ཡིག་ཟམ།"
+
+msgid "Email Address"
+msgstr "གློག་རྡུལ་ཡིག་ཟམ།"
+
+msgid "Email Protection"
+msgstr "ཡིག་ཟམ་འགོག་སྲུང་།"
+
+msgid "Encrypt"
+msgstr "གསང་སྡོམ།"
+
+msgid "Error loading PKCS#11 module: %s"
+msgstr "དཔེ་དུམ PKCS#11 ཁུར་སྣོན་སྐབས་ཕམ་པ %s"
+
+msgid "Expired"
+msgstr "དུས་ཚོད་ཡོལ་བ།"
+
+msgid "Expires"
+msgstr "དུས་ཚོད་ཡོལ་བ།"
+
+msgid "Expiry"
+msgstr "དུས་ཚོད་ཡོལ་བ།"
+
+msgid "Export certificate"
+msgstr "དཔང་ཡིག་ཕྱིར་འདྲེན།"
+
+msgid "Exportable"
+msgstr "ཕྱིར་འདྲེན་ཆོག་པ།"
+
+msgid "Extended Key Usage"
+msgstr "གསང་ལྡེའི་སྤྱོད་ཡུན་རིང་དུ་གཏོང་དགོས།"
+
+msgid "Extension"
+msgstr "རྒྱ་སྐྱེད།"
+
+msgid "Fingerprint"
+msgstr "མཛུབ་རིས།"
+
+msgid "Fingerprints"
+msgstr "མཛུབ་རིས།"
+
+msgid "Fully trusted"
+msgstr "རྦད་དེ་ཡིད་ཆེས།"
+
+msgid "GCR Certificate and Key Viewer"
+msgstr "GCR ཡི་དཔང་ཡིག་དང་གསང་ལྡེ་ལྟ་ཆས།"
+
+msgid "Gender"
+msgstr "ཕོ་མོ།"
+
+msgid "Generation Qualifier"
+msgstr "བཀོལ་སྤྱོད་ཚད་བཀག་མཁན།"
+
+msgid "Generic certification of key"
+msgstr "གསང་ལྡེ་ཡི་ཀུན་སྤྱོད་ར་སྤྲོད།"
+
+msgid "Given Name"
+msgstr "མིང་།"
+
+msgid "GnuPG Keyring"
+msgstr "GnuPG ཡི་གསང་ལྡེའི་གདུབ། "
+
+msgid "GnuPG Keyring: %s"
+msgstr "GnuPG ཡི་གསང་ལྡེའི་གདུབ %s"
+
+msgid "Gnupg process exited with code: %d"
+msgstr "འཕེལ་རིམ Gnupg ཕྱིར་འཐེན་པ། ཕྱིར་འཐེན་ཚབ་ཨང %d ཡིན།"
+
+msgid "Gnupg process was terminated with signal: %d"
+msgstr "འཕེལ་རིམ Gnupg དེ་བརྡ་རྟགས %d ཡིས་མཚམས་འཇོག་བྱས་པ།"
+
+msgid "IP Address"
+msgstr "IP གནས་ཡུལ།"
+
+msgid "Identifier"
+msgstr "ངོས་འཛིན་མཚོན་རྟགས།"
+
+msgid "Identity"
+msgstr "ཐོབ་ཐང་།"
+
+msgid "Import"
+msgstr "འདྲེན་འཇུག"
+
+msgid "Import failed"
+msgstr "འདྲེན་འཇུག་ཕམ་པ།"
+
+msgid "Import is in progress…"
+msgstr "འདྲེན་འཇུག་བྱེད་བཞིན་པ།"
+
+msgid "Import settings"
+msgstr "འདྲེན་འཇུག་སྒྲིག་འགོད།"
+
+msgid "Imported"
+msgstr "འདྲེན་འཇུག་བྱས་ཟིན།"
+
+msgid "Imported to: %s"
+msgstr "%s ལ་འདྲེན་འཇུག་བྱེད་པ།"
+
+msgid "In order to import, please enter the password."
+msgstr "འདྲེན་འཇུག་བྱེད་འདོད་ན་གསང་ཨང་ནང་འཇུག་བྱོས།"
+
+msgid "Initializing…"
+msgstr "འགོ་སྒྲིག"
+
+msgid "Initials"
+msgstr "ཐོག་མའི་གསལ་བྱེད།"
+
+msgid "Invalid"
+msgstr "ནུས་མེད།"
+
+msgid "Issued Certificate"
+msgstr "སྤྲད་པའི་དཔང་ཡིག"
+
+msgid "Issuer Name"
+msgstr "སྤྲོད་མཁན་གྱི་མིང་།"
+
+msgid "Key"
+msgstr "གནད་འགག"
+
+msgid "Key Algorithm"
+msgstr "གསང་ལྡེ་ཡི་རྩི་ཐབས།"
+
+msgid "Key ID"
+msgstr "གསང་ལྡེ་ID"
+
+msgid "Key Identifier"
+msgstr "གསང་ལྡེ་ངོ་རྟགས།"
+
+msgid "Key Parameters"
+msgstr "གསང་ལྡེའི་ཞུགས་གྲངས།"
+
+msgid "Key SHA1 Fingerprint"
+msgstr "གསང་ལྡེའི་མཛུབ་རིས SHA1"
+
+msgid "Key Size"
+msgstr "གསང་ལྡེའི་ཆེ་ཆུང་།"
+
+msgid "Key Usage"
+msgstr "གསང་ལྡེ་བེད་སྤྱོད་པ།"
+
+msgid "Key agreement"
+msgstr "གསང་ལྡེའི་གྲོས་ཆིངས།"
+
+msgid "Key encipherment"
+msgstr "གསང་ལྡེར་གསང་སྡོམ།"
+
+msgid "Key revocation signature"
+msgstr "གསང་ལྡེས་མིང་འགོད་རྩིས་མེད་དུ་བཏང་བ།"
+
+msgid "Label:"
+msgstr "གདོང་འཛར།:"
+
+msgid "Local only"
+msgstr "རང་ས་ཁོ་ན།"
+
+msgid "Locality"
+msgstr "ས་གནས།"
+
+msgid "Lock this keyring after"
+msgstr "རྗེས་སུ་གསང་ལྡེའི་གདུབ་འདི་སྒྲོག་པ།"
+
+msgid "Lock this keyring if idle for"
+msgstr "གསང་ལྡེའི་གདུབ་འདི་ཁོམ་ལོང་དུ་སྒྲོག་པ།"
+
+msgid "Lock this keyring when I log out"
+msgstr "ང་ཐོ་ཁོངས་ནས་སུབ་སྐབས་གསང་ལྡེའི་གདུབ་འདི་སྒྲོག་པ།"
+
+msgid "MD2 with RSA"
+msgstr "རྩི་ཐབས MD2 སྤྱོད་པའི་གསང་ལྡེ་ཟུང་ RSA"
+
+msgid "MD5 with RSA"
+msgstr "རྩི་ཐབས MD5 སྤྱོད་པའི་གསང་ལྡེ་ཟུང་ RSA"
+
+msgid "Marginally trusted"
+msgstr "དམའ་མཐའི་ཚད་ཀྱི་ཡིད་ཆེས།"
+
+msgid "Max Path Length"
+msgstr "བརྒྱུད་ལམ་་ཆེ་ཤོས་ཀྱི་རིང་ཚད།"
+
+msgid "Name"
+msgstr " མིང་།"
+
+msgid "No"
+msgstr "མིན།"
+
+msgid "No data to import"
+msgstr "འདྲེན་འཇུག་ཆོག་པའི་གཞི་གྲངས་མེད་པ།"
+
+msgid "Not Valid After"
+msgstr "དེ་ཡི་རྗེས་སུ་ནུས་མེད་ཡིན།"
+
+msgid "Not Valid Before"
+msgstr "དེ་ཡི་སྔོན་དུ་ནུས་མེད་ཡིན།"
+
+msgid "Organization"
+msgstr "རྩ་འཛུགས།"
+
+msgid "Other Name"
+msgstr "མིང་གཞན།"
+
+msgid "Owner trust"
+msgstr "བདག་པོར་ཡིད་ཆེས།"
+
+msgid "PEM files"
+msgstr "ཡིག་ཆ PEM"
+
+msgid "PGP Key"
+msgstr "གསང་ལྡེ། PGP"
+
+msgid "Password"
+msgstr "གསང་ཨང་།"
+
+msgid "Password cannot be blank"
+msgstr "གསང་ཨང་སྟོང་པ་བྱེད་མི་ཉན།"
+
+msgid "Password:"
+msgstr "གསང་ཨང་།"
+
+msgid "Passwords do not match."
+msgstr "གསང་ཨང་ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "Persona certification of key"
+msgstr "གསང་ལྡེ་འཁྲབ་མཁན་གྱི་ར་སྤྲོད།"
+
+msgid "Place of Birth"
+msgstr "སྐྱེ་ས།"
+
+msgid "Positive certification of key"
+msgstr "གསང་ལྡེའི་རྟོན་རུང་ར་སྤྲོད།"
+
+msgid "Primary key binding signature"
+msgstr "གཙོ་བོའི་གསང་ལྡེར་མིང་འགོད་བསྡམས་པ།"
+
+msgid "Private DSA Key"
+msgstr "སྒེར་ལྡེ DSA "
+
+msgid "Private Elliptic Curve Key"
+msgstr "སྒེར་དབང་གི་འཇོང་དབྱིབས་འཁྱོག་ཐིག་གསང་ལྡེ།"
+
+msgid "Private Key"
+msgstr "སྒེར་ལྡེ།"
+
+msgid "Private RSA Key"
+msgstr "སྒེར་ལྡེ RSA "
+
+msgid "Pseudonym"
+msgstr "སྨྱུག་མིང་།"
+
+msgid "Public DSA Key"
+msgstr " སྤྱི་ལྡེ DSA"
+
+msgid "Public Elliptic Curve Key"
+msgstr "སྤྱི་ལ་དབང་བའི་འཇོང་དབྱིབས་འཁྱོག་ཐིག་གསང་ལྡེ།"
+
+msgid "Public Key"
+msgstr "སྤྱི་ལྡེ།"
+
+msgid "Public Key Info"
+msgstr "ཁྲོམ་བསྒྲགས་གསང་ལྡེའི་ཆ་འཕྲིན།"
+
+msgid "Public Subkey"
+msgstr "བུ་གསང་ལྡེ་ཁྲོམ་བསྒྲགས་བྱས་པ།"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Reason"
+msgstr "རྒྱུ་རྐྱེན།"
+
+msgid "Registered ID"
+msgstr "ཐོ་བཀོད་པའི ID"
+
+msgid "Revocation Key"
+msgstr "གསང་ལྡེ་རྩིས་མེད་དུ་བཏང་བ།"
+
+msgid "Revocation list signature"
+msgstr "རེའུ་མིག་མིང་འགོད་རྩིས་མེད་དུ་བཏང་བ།"
+
+msgid "Revoked"
+msgstr "རྩིས་མེད་དུ་བཏང་བ།"
+
+msgid "SHA1 with DSA"
+msgstr "རྩི་ཐབས SHA1 སྤྱོད་པའི་གསང་ལྡེ་ཟུང་ DSA"
+
+msgid "SHA1 with ECDSA"
+msgstr "ECDSA ཡི SHA1 ཡོད་པ།"
+
+msgid "SHA1 with RSA"
+msgstr "རྩི་ཐབས SHA1 སྤྱོད་པའི་གསང་ལྡེ་ཟུང་ RSA"
+
+msgid "SHA224 with ECDSA"
+msgstr "ECDSA ཡི SHA224 ཡོད་པ།"
+
+msgid "SHA256 with ECDSA"
+msgstr "ECDSA ཡི SHA256 ཡོད་པ།"
+
+msgid "SHA384 with ECDSA"
+msgstr "ECDSA ཡི SHA384 ཡོད་པ།"
+
+msgid "SHA512 with ECDSA"
+msgstr "ECDSA ཡི SHA512 ཡོད་པ།"
+
+msgid "Secret Key"
+msgstr "སྒེར་དབང་གསང་ལྡེ།"
+
+msgid "Secret Subkey"
+msgstr "སྒེར་དབང་བུ་གསང་ལྡེ།"
+
+msgid "Serial Number"
+msgstr "རིམ་སྟར་ཨང་རྟགས།"
+
+msgid "Server Authentication"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་ར་སྤྲོད།"
+
+msgid "Show the application's version"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་པར་གཞི་མངོན་པ།"
+
+msgid "Sign"
+msgstr "མིང་རྟགས་འགོད་པ།"
+
+msgid "Signature"
+msgstr "མིང་རྟགས་འགོད་པ།"
+
+msgid "Signature Algorithm"
+msgstr "མིང་འགོད་རྩི་ཐབས།"
+
+msgid "Signature Parameters"
+msgstr "མིང་འགོད་ཞུགས་གྲངས།"
+
+msgid "Signature directly on key"
+msgstr "ཐད་ཀར་གསང་ལྡེའི་སྟེང་མིང་འགོད་པ།"
+
+msgid "Signature of a binary document"
+msgstr "གཉིས་གོང་འགྲིལ་ལུགས་ཡིག་ཚགས་ཀྱི་མིང་འགོད།"
+
+msgid "Signature of a canonical text document"
+msgstr "ཚད་ལྡན་ཡིག་རྐྱང་ཡིག་ཚགས་ཀྱི་མིང་འགོད་པ།"
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Standalone signature"
+msgstr "རང་ཚུགས་མིང་འགོད།"
+
+msgid "State"
+msgstr " རྣམ་པ།"
+
+msgid "Street"
+msgstr "ཁྲོམ་ལམ།"
+
+msgid "Strength"
+msgstr "དྲག་ཚད།"
+
+msgid "Subject Alternative Names"
+msgstr "གྲུབ་ཆ་གཙོ་བོའི་གྲབས་གཤོམ་མིང་།"
+
+msgid "Subject Key Identifier"
+msgstr "གྲུབ་ཆ་གཙོ་བོའི་གསང་ལྡེའི་ངོ་རྟགས།"
+
+msgid "Subject Name"
+msgstr "གྲུབ་ཆ་གཙོ་བོའི་མིང་།"
+
+msgid "Subkey binding signature"
+msgstr "བུ་གསང་ལྡེ་ཡིས་མིང་འགོད་བསྡམས་པ།"
+
+msgid "Subkey revocation signature"
+msgstr "བུ་གསང་ལྡེ་ཡིས་མིང་འགོད་རྩིས་མེད་དུ་བཏང་བ།"
+
+msgid "Surname"
+msgstr "རུས་མིང་།"
+
+msgid "Telephone Number"
+msgstr "ཁ་པར་ཨང་གྲངས།"
+
+msgid "The URI does not have the 'pkcs11' scheme."
+msgstr "URI ལ་གྲུབ་ཚུལ “pkcs11” མེད་པ།"
+
+msgid "The URI has a bad version number."
+msgstr "URI ཡི་པར་གཞིའི་ཨང་ནོར་འཁྲུལ།"
+
+msgid "The URI has bad syntax."
+msgstr "URI བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
+
+msgid "The URI has invalid encoding."
+msgstr "URI ཡི་སྒྲིག་ཨང་ནུས་མེད་ཡིན།"
+
+msgid ""
+"The contents are locked. In order to view the contents, enter the correct "
+"password."
+msgstr ""
+"ནང་དོན་སྒྲོག་ཟིན་པ། "
+"ནང་དོན་ལ་ལྟ་འདོད་ན་ཁྱེད་ཀྱིས་ཡང་དག་པའི་གསང་ཨང་ནང་འཇུག་བྱེད་དགོས།"
+
+msgid ""
+"The contents of '%s' are locked. In order to view the contents, enter the "
+"correct password."
+msgstr ""
+"“%s” ཡི་ནང་དོན་སྒྲོག་ཟིན་པ། "
+"དེ་ཡི་ནང་དོན་ལ་ལྟ་འདོད་ན་ཁྱེད་ཀྱིས་ཡང་དག་པའི་གསང་ཨང་ནང་འཇུག་བྱེད་དགོས།"
+
+msgid "The data is locked"
+msgstr "གཞི་གྲངས་སྒྲོག་ཟིན་པ།"
+
+msgid "The information in this key has not yet been verified"
+msgstr "གསང་ལྡེ་འདི་ཡི་ནང་གི་ཆ་འཕྲིན་ལ་ཞིབ་དཔྱད་བྱས་མེད།"
+
+msgid "The key cannot be used to sign the request"
+msgstr "གསང་ལྡེ་འདི་མིང་འགོད་རེ་ཞུར་སྤྱོད་ཐབས་མེད།"
+
+msgid "The operation was cancelled"
+msgstr "བཀོལ་སྤྱོད་དོར་ཟིན།"
+
+msgid "The password was incorrect"
+msgstr "གསང་ཨང་ནོར་འཁྲུལ།"
+
+msgid "The stream was closed"
+msgstr "གཏམ་གླེང་ཀ་རྒྱབ་ཟིན།"
+
+msgid "The user cancelled the operation"
+msgstr "སྤྱོད་མཁན་གྱིས་བཀོལ་སྤྱོད་དོར་ཟིན།"
+
+msgid "Third-party confirmation signature"
+msgstr "ཕྱོགས་གསུམ་པས་མིང་འགོད་གཏན་འཁེལ་བྱེད་པ།"
+
+msgid "This key has been disabled"
+msgstr "གསང་ལྡེ་འདི་སྤྱོད་འགོག་ཟིན།"
+
+msgid "This key has been revoked"
+msgstr "གསང་ལྡེ་འདི་རྩིས་མེད་དུ་བཏང་ཟིན།"
+
+msgid "This key has expired"
+msgstr "གསང་ལྡེ་འདི་དུས་ཚོད་ཡོལ་ཟིན།"
+
+msgid "This key is distrusted"
+msgstr "གསང་ལྡེ་འདིར་ཡིད་རྟོན་མེད་པ།"
+
+msgid "This key is fully trusted"
+msgstr "གསང་ལྡེ་འདིར་རྦད་དེ་ཡིད་ཆེས་བྱེད་པ།"
+
+msgid "This key is invalid"
+msgstr "གསང་ལྡེ་འདི་ནུས་མེད་ཡིན།"
+
+msgid "This key is marginally trusted"
+msgstr "གསང་ལྡེ་འདི་ནི་ཆེས་དམའ་མཐའི་ཡིད་ཆེས་ཡིན།"
+
+msgid "This key is ultimately trusted"
+msgstr "གསང་ལྡེ་འདི་ནི་ཚད་གཞི་མཐོ་ཤོས་ཀྱི་ཡིད་ཆེས་ཤིག་རེད།"
+
+msgid "Time Stamping"
+msgstr " དུས་ཚོད་ཐམ།"
+
+msgid "Timestamp signature"
+msgstr "དུས་ཐམ་མིང་འགོད།"
+
+msgid "Title"
+msgstr " ཁ་བྱང་།"
+
+msgid "Token:"
+msgstr "བཀའ་རྟགས།"
+
+msgid "Type"
+msgstr " རིགས་རྣམ།"
+
+msgid "URI"
+msgstr " URI"
+
+msgid "Ultimately trusted"
+msgstr "ཚད་མཐོ་ཤོས་ཀྱི་ཡིད་ཆེས།"
+
+msgid "Undefined trust"
+msgstr "མཚན་ཉིད་མ་བཞག་པའི་ཡིད་ཆེས།"
+
+msgid "Unknown"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
+
+msgid "Unlimited"
+msgstr "ཚད་མེད་པ།"
+
+msgid "Unlock"
+msgstr "སྒྲོག་འགྲོལ།"
+
+msgid "Unlock: %s"
+msgstr "སྒྲོག་འགྲོལ %s"
+
+msgid "Unrecognized or unavailable attributes for key"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའམ་ཡང་ན་སྤྱོད་རུང་མིན་པའི་གསང་ལྡེའི་གཏོགས་གཤིས།"
+
+msgid "Unrecognized or unsupported data."
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའམ་ཡང་ན་རྒྱབ་སྐྱོར་མེད་པའི་གཞི་གྲངས།"
+
+msgid "Unsupported key type for certificate request"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་དཔང་ཡིག་རེ་ཞུའི་གསང་ལྡེ་རིགས་གྲས།"
+
+msgid "Usages"
+msgstr "བེད་སྤྱོད།"
+
+msgid "User Attribute"
+msgstr "སྤྱོད་མཁན་གྱི་གཏོགས་གཤིས།"
+
+msgid "User ID"
+msgstr "སྤྱོད་མཁན་གྱིID"
+
+msgid "Value"
+msgstr "ཐང་།"
+
+msgid "Verified by"
+msgstr "ར་སྤྲོད་སྒྲིག་གཞི།"
+
+msgid "X400 Address"
+msgstr "གནས་ཡུལ X400"
+
+msgid "XMPP Addr"
+msgstr "གནས་ཡུལ XMPP"
+
+msgid "Yes"
+msgstr "ཡིན།"
+
+msgid "[file...]"
+msgstr "[ཡིག་ཆ།...]"
+
+msgid "_Cancel"
+msgstr " དོར་བ།"
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག (C)"
+
+msgid "_Details"
+msgstr "ཞིབ་ཕྲ།(_D)"
+
+msgid "_OK"
+msgstr "གཏན་འཁེལ།"
+
+msgid "_Replace"
+msgstr " ཚབ་བརྗེ།(_R)"
+
+msgid "_Save"
+msgstr "ཉར་བ། (S)"
+
+msgid "Disabled"
+msgstr "འགོག་སྤྱོད།"
+
+msgid "Expires"
+msgstr "དུས་ཚོད་ཡོལ་བ།"
+
+msgid "Issued By"
+msgstr "སྤྲོད་མཁན།"
+
+msgid "Key ID"
+msgstr "གསང་ལྡེ་ID"
+
+msgid "Name"
+msgstr " མིང་།"
+
+msgid "minutes"
+msgstr "སྐར་མ།"
+
+msgid "Disabled"
+msgstr "འགོག་སྤྱོད།"

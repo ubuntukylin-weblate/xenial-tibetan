@@ -1,0 +1,233 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%s (child): failed to exec /bin/sh: %s\n"
+msgstr "%s（བུ་དུམ།）：ལག་བསྟར་/bin/shཕམ་པ།：%s\n"
+
+msgid "%s: %s: cannot stat: %s\n"
+msgstr "%s：%s：stat：%sམི་ཐུབ།\n"
+
+msgid "%s: command (%s) failed (exit status %d)\n"
+msgstr "%s：བཀའ་བརྡ་（%s）ཕམ་པ།（ཕྱིར་འདོན་རྣམ་པ་%d）\n"
+
+msgid "%s: command (%s) was killed by signal %d\n"
+msgstr "%s：བཀའ་བརྡ་（%s）བརྡ་རྟགས་%d ཡིས་བསད་པ།\n"
+
+msgid "%s: popen failed for %s: %s\n"
+msgstr "%s：popen རྒྱུ་མཚན་ %sཕམ་པ།：%s\n"
+
+msgid "%s: using `%s' as pager\n"
+msgstr "%s：'%s' སྤྱད་ནས་ཤོག་ངོས་བཀོད་འདོན་བྱ་རིམ་བྱེད།\n"
+
+msgid "-I requires at least one instance of -s"
+msgstr "-I མ་མཐའ་ཡང་གནས་ཚུལ -s གཅིག་དགོས།"
+
+msgid "A pattern is mandatory"
+msgstr "ངེས་པར་དུ་དཔེ་དབྱིབས་ཤིག་ཡོད་དགོས།"
+
+msgid "Adding \"Description\" to selected output fields because of -d"
+msgstr "\\ཞིབ་བརྗོད\"བདམས་པའི་ཕྱིར་འདོན་ཡིག་དུམ་དུ་སྣོན། རྒྱུ་མཚན་ནི -d\""
+
+msgid "Append the specified column."
+msgstr "གཏན་འཁེལ་གྱི་སྟར་སྣོན་པ།"
+
+msgid "Attempt mmapping input files"
+msgstr "རྟེན་འཕྲོ་ཡིག་ཆ་ཕྱིར་འདོན་ཚོད་ལྟ།"
+
+msgid "DELIM"
+msgstr "DELIM"
+
+msgid "Debug option parsing."
+msgstr "འདེམས་ཚན་བརྡ་སྤྲོད་དབྱེ་ཞིབ་ཚོད་སྒྲིག"
+
+msgid "Do an exact match."
+msgstr "ཞིབ་ཕྲའི་དོ་མཉམ་ཐེངས་ཤིག་བྱེད།"
+
+msgid "Do not print a table heading"
+msgstr "རེའུ་མིག་མགོ་ཞིག་པར་འདེབས་བྱས་མ་ཐུབ།"
+
+msgid "FIELD"
+msgstr "FIELD"
+
+msgid "FIELD,FIELD,..."
+msgstr "ཡིག་དུམ། ཡིག་དུམ།..."
+
+msgid "Ignore case when looking for a match."
+msgstr "འཚོལ་བཤེར་ཟླ་སྒྲིག་བྱེད་སྐབས་འབྲི་ཆེ་ཆུང་ལ་སྣང་མེད་གཏོང་།"
+
+msgid "Ignore parse errors"
+msgstr "བརྡ་སྤྲོད་དབྱེ་ཞིབ་ནོར་འཁྲུལ་སྣང་མེད་གཏོང་།"
+
+msgid "LEVEL"
+msgstr "རིམ་པ།"
+
+msgid "Match only whole package names (this implies -e)"
+msgstr ""
+"མཉེན་ཆས་ཐུམ་མིང་ཧྲིལ་བོ་ཁོ་མ་ཟླ་སྒྲིལ་བྱེད།(འདུས་པའི་འདེམས་ཚན་ -e གབ་ཚུད།)"
+
+msgid "PATTERN"
+msgstr "དཔེ་དབྱིབས།"
+
+msgid "Parse error in field."
+msgstr "ཡི་དུམ་དབྱེ་ཞིབ་ནོར་འཁྲུལ།"
+
+msgid "Print out the copyright license."
+msgstr "པར་འདེབས་པར་དབང་ཆོག་མཆན།"
+
+msgid "Print unpairable records from the indicated file (either 1 or 2)"
+msgstr ""
+"མངོན་པའི་ཡིག་ཆ་རུ་ཆ་སྒྲིག་མི་ཐུབ་པའི་ཐོ་འགོད་པར་འདེབས་བྱེད། (1 ཡང་ན། 2)"
+
+msgid "Regard the pattern as an extended POSIX regular expression."
+msgstr "དཔེ་དབྱིངས་རྒྱ་སྐྱེད་ཀྱི་POSIX རྒྱུན་ལྡན་མཚོན་ཚུལ་བྱ།"
+
+msgid "Restrict pattern matching to the FIELDs given."
+msgstr "རྣམ་པ་བྱིན་པའི་ཡིག་དུམ་གྱི་ཟླ་སྒྲིག་འགོག་པ།"
+
+msgid "Set debugging level to LEVEL."
+msgstr "debugརིམ་པ་LEVELལ་སྒྲིག་འགོད།"
+
+msgid "Show only paragraphs that do not match."
+msgstr "ཆ་མི་མཉམ་པའི་དུམ་ཚན་ཁོ་ན་མངོན་པ།"
+
+msgid "Show only the body of these fields from the matching paragraphs."
+msgstr "དོ་མཉམ་དུམ་ཚན་ནང་གི་ཡིག་དུམ་འདི་དག་གི་དངོས་ཀྱི་ཆ་ཤས་ཁོ་ན་མངོན་པ།"
+
+msgid "Show only the count of matching paragraphs."
+msgstr "དོ་མཉམ་དུམ་ཚན་གྱི་གྲངས་ཀ་ཁོ་ན་མངོན་པ།"
+
+msgid ""
+"Show only the first line of the \"Description\" field from the matching "
+"paragraphs."
+msgstr "དོ་མཉམ་དུམ་ཚན་ནང་གི་“ཞིབ་བརྗོད”ཀྱི་ཕྲེང་དང་པོ་ཁོ་ན་མངོན་པ།"
+
+msgid "Show those fields that have NOT been selected with -s"
+msgstr "ཞུགས་གྲངས་-s སྤྱོད་ནས་མ་བདམས་པའི་ཡིག་ཆ་མངོན་པ།"
+
+msgid "Specify a delimiter."
+msgstr "མཚམས་དབྱེ་རྟགས་ཤིག་གཏན་འཁེལ་བྱེད།"
+
+msgid "Specify sort keys."
+msgstr "གཏན་འཁེལ་བའི་རིགས་དགར་མཐེབ།"
+
+msgid "Specify the common join field"
+msgstr "སྤྱི་སྤྱོད་ཀྱི་འབྲེལ་ཁོངས་སྟོན་པ།"
+
+msgid "Specify the format of the output file"
+msgstr "ཕྱིར་འདོན་ཡིག་ཆའི་རྣམ་གཞག་སྟོན་པ།"
+
+msgid "Specify the join field to use for the first file"
+msgstr "ཡིག་ཆ་དང་པོ་ལ་སྤྱོད་མཁན་གྱི་འབྲེལ་མཐུད་ཁོངས་སྟོན་པ།"
+
+msgid "Specify the join field to use for the second file"
+msgstr "ཡིག་ཆ་གཉིས་པ་ལ་སྤྱོད་མཁན་གྱི་འབྲེལ་མཐུད་ཁོངས་སྟོན་པ།"
+
+msgid "Specify the pattern to search for"
+msgstr "དཔེ་དབྱིབས་བསྟན་ནས་འཚོལ་བཤེར་བྱེད།"
+
+msgid "Suppress field names when showing specified fields."
+msgstr "བསྟན་པའི་ཡིག་དུམ་མངོན་སྐབས་སུ། ཡིག་དུམ་གྱི་མིང་བཙིར་གནོན་བྱེད།"
+
+msgid "Test for version number equality."
+msgstr "པར་གཞིའི་ཨང་ཀི་འདྲ་མཚུངས་ཡིན་མིན་ཚོད་ལྟ་བྱེད།"
+
+msgid "This is a shorthand for -FPackage."
+msgstr "འདི་ནི་བསྡུས་བྲིས་ཀྱི་Fpackage ཡིན།"
+
+msgid "This is a shorthand for -FSource:Package."
+msgstr "འདི་ནི་བསྡུས་བྲིས་ཀྱི་FSource:Packageཡིན།"
+
+msgid "Version number comparison: <=."
+msgstr "པར་གཞི་ཨང་བསྡུར་བ།：<="
+
+msgid "Version number comparison: >=."
+msgstr "པར་གཞི་ཨང་བསྡུར་བ།：>="
+
+msgid "bad multibyte character"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་ཚིགས་མང་པོའི་ཡིག་རྟགས།"
+
+msgid "cannot join a stream with itself"
+msgstr "རྒྱུན་ཞིག་རང་ཉིད་ལ་སྣོན་མི་ཐུབ།"
+
+msgid "cannot suppress field names when showing whole paragraphs"
+msgstr "དུམ་ཚན་ཧྲིལ་བོ་མངོན་སྐབས་སུ་ཡིག་དུམ་མིང་བཙིར་གནོན་བྱ་མི་ཐུབ།"
+
+msgid "expected a colon"
+msgstr "ལྷག་བཅས་ཀྱི་རྟགས་ཡིན་དགོས།"
+
+msgid "expected either '1.' or '2.' at the start of the field specification"
+msgstr " '1.' ཡང་ན་ '2.' ཁོངས་ཀྱིས་བསྟན་པའི་མགོར་རེ་འདུན་ཡོད།"
+
+msgid "grep-dctrl -- grep Debian control files"
+msgstr "grep-dctrl -- grep Debian ཚོད་འཛིན་ཡིག་ཆ།"
+
+msgid "internal error"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
+
+msgid "invalid column length"
+msgstr "ནུས་མེད་སྟར་གྱི་རིང་ཚད།"
+
+msgid "invalid key flag"
+msgstr "ནུས་མེད་ཀྱི་གསང་ལྡེའི་མཚོན་རྟགས།"
+
+msgid "is a block device, skipping"
+msgstr "རྡོག་གི་སྒྲིག་ཆས་ཤིག་ཡིན། མཆོང་པ།"
+
+msgid "is a directory, skipping"
+msgstr "དཀར་ཆག་ཅིག་ཡིན། མཆོང་པ།"
+
+msgid "is a socket, skipping"
+msgstr "མཐུད་ཁ་ཞིག་ཡིན། མཆོང་པ།"
+
+msgid "join-dctrl -- join two Debian control files"
+msgstr "join-dctrl --  Debian ཚོད་འཛིན་ཡིག་ཆ་གཉིས་སྣོན།"
+
+msgid "malformed argument to '-a'"
+msgstr "'-a' མི་འགྲིག་པའི་སྒྲུབ་གཞི།"
+
+msgid "missing ')' in command line"
+msgstr "བཀའ་བརྡ་ཕྲེང་དུ་“)“ཆད་པ།"
+
+msgid "missing '.' in output field specification"
+msgstr " '.'བོར་བ། ཕྱིར་འདོན་ཁོངས་སུ་སྟོན་པ།"
+
+msgid "need exactly two input files"
+msgstr "གཏན་འཁེལ་བའི་ནང་འཇུག་ཡིག་ཆ་གཉིས་དགོས།"
+
+msgid "no such log level '%s'"
+msgstr "“%s”ཉིན་ཐོ་རིམ་པ་འདི་མེད།"
+
+msgid "sort-dctrl -- sort Debian control files"
+msgstr "sort-dctrl -- sort Debian ཚོད་འཛིན་ཡིག་ཆ།"
+
+msgid "tbl-dctrl -- tabularize Debian control files"
+msgstr "tbl-dctrl -- tabularize Debian ཚོད་འཛིན་ཡིག་ཆ།"
+
+msgid "the join field of the first file has already been specified"
+msgstr "ཡིག་ཆ་དང་པོའི་འབྲེལ་མཐུད་ཁོངས་བསྟན་པ།"
+
+msgid "the join field of the second file has already been specified"
+msgstr "ཡིག་ཆ་གཉིས་པའི་འབྲེལ་མཐུད་ཁོངས་བསྟན་པ།"
+
+msgid "too many file names"
+msgstr "ཡིག་ཆའི་མིང་མང་དྲགས།"
+
+msgid "too many output fields"
+msgstr "ཕྱིར་འདོན་ཡིག་དུམ་མང་དྲགས།"
+
+msgid "unknown file type, skipping"
+msgstr "མི་ཤེས་པའི་ཡིག་ཆ་རིགས་གྲས། མཆོང་པ།"
+
+msgid "warning: expected a colon"
+msgstr "ཐ་ཚིག ལྷག་བཅས་ཀྱི་རྟགས་ཤིག་ཡིན་དགོས།"

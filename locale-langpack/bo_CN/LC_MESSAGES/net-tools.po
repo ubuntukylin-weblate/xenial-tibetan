@@ -1,0 +1,503 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "             compressed:%lu\n"
+msgstr "སྡུད་སྒྲིལ།:%lu\n"
+
+msgid "          %s addr:%s "
+msgstr "%s ས་གནས།:%s"
+
+msgid "  Checksum output packets.\n"
+msgstr "ཞིབ་བཤེར་བྱས་ནས་བཏོན་པའི་གཞི་གྲངས་ཐུམ།\n"
+
+msgid "  List of possible address families (which support routing):\n"
+msgstr "རྒྱབ་སྐྱོར་ཡོད་པའི་གྲོས་ཆིངས་ཚང་མ་སྒྲིག་པ།：\n"
+
+msgid "  List of possible address families:\n"
+msgstr "སྲིད་པའི་ཤག་གནས་ཚོའི་རེའུ་མིག：\n"
+
+msgid "  List of possible hardware types (which support ARP):\n"
+msgstr "སྲིད་པའི་སྲ་ཆས་རིགས་རྣམ་རེའུ་མིག་ཡོད་ཚད།:\n"
+
+msgid "  List of possible hardware types:\n"
+msgstr ""
+"སྲིད་པའི་སྲ་ཆས་རིགས་རྣམ་རེའུ་མིག:\n"
+"\""
+
+msgid " Bcast:%s "
+msgstr "རྒྱང་བསྒྲགས།:%s"
+
+msgid " MTU:%d  Metric:%d"
+msgstr "MTU:%d  མཆོང་ཚེག་གྲངས།:%d"
+
+msgid " Mask:%s\n"
+msgstr "གབ་ཨང་།:%s\n"
+
+msgid " P-t-P:%s "
+msgstr "ཚེག་ནས་ཚེག:%s"
+
+msgid " Path\n"
+msgstr "འགྲོ་ལམ།\n"
+
+msgid " User"
+msgstr "སྤྱོད་མཁན།"
+
+msgid "%-9.9s Link encap:%s  "
+msgstr "%-9.9s སྦྲེལ་ལམ་བཏུམ་པ:%s"
+
+msgid "%s (%s) -- no entry\n"
+msgstr "%s། (%s) -- ཟིན་ཐོ་མེད་པ།\n"
+
+msgid "%s (%s) at "
+msgstr "%s། (%s) གནས་པ།"
+
+msgid "%s: %s/ip  remote %s  local %s "
+msgstr "%s: %s/ip  རྒྱང་སྣེ། %s  རང་ས། %s \""
+
+msgid "%s: ERROR while getting interface flags: %s\n"
+msgstr "%s: མཐུད་ཁ་མཚོན་རྟགས་ཐོབ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།: %s\n"
+
+msgid "%s: ERROR while testing interface flags: %s\n"
+msgstr ""
+"\"%s: མཐུད་ཁུང་གི་མཚོན་རྟགས་ཚོད་ལྟ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།: %s\n"
+"\""
+
+msgid "%s: You can't change the DNS domain name with this command\n"
+msgstr "%s: ཁྱེད་ཀྱིས་བཀའ་བརྡ་འདི་སྤྱད་ནས་ DNS ཁུལ་ཁོངས་ཀྱི་མིང་བརྗེ་མི་ཆོག\n"
+
+msgid "%s: address family not supported!\n"
+msgstr "%s: ཤག་གནས་ཚོ་རྒྱབ་སྐྱོར་མེད།\n"
+
+msgid "%s: bad hardware address\n"
+msgstr "%s: ནོར་བའི་སྲ་ཆས་ཤག་གནས།\n"
+
+msgid "%s: can't open `%s'\n"
+msgstr "%s: ཁ་ཕྱེ་མི་ཐུབ་པ། `%s'\n"
+
+msgid "%s: error fetching interface information: %s\n"
+msgstr "%s: མཐུད་ཁའི་ཆ་འཕྲིན་ཐོབ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ། %s\n"
+
+msgid "%s: hardware type not supported!\n"
+msgstr "%s: སྲ་ཆས་རིགས་རྣམ་རྒྱབ་སྐྱོར་མེད།\n"
+
+msgid "%s: invalid %s address.\n"
+msgstr "%s: མི་འགྲིག་པའི %s ཤག་གནས། \n"
+
+msgid "%s: name too long\n"
+msgstr "%s: མིང་རིང་དྲགས།\n"
+
+msgid "%s: you must be root to change the domain name\n"
+msgstr ""
+"%s: ཁྱེད་རང་ངེས་པར་དུ root ལ་གྱུར་ན་ད་གཟོད་ཁོངས་མིང་\n"
+"བརྗེ་ཆོག"
+
+msgid "%s: you must be root to change the node name\n"
+msgstr ""
+"%s: ཁྱེད་རང་ངེས་པར་དུ root ལ་གྱུར་ན་ད་གཟོད་ཚིགས་ཚེག་མིང་\n"
+"བརྗེ་ཆོག"
+
+msgid "%u dropped because of missing route"
+msgstr "%u དོར་བ་ཡིན་རྒྱུ་མཚན་ནི་ལམ་འཚོལ་མེད་པས་སོ།"
+
+msgid "%u forwarded"
+msgstr "%u བརྒྱུད་སྐུར་བྱས་ཟིན།"
+
+msgid "%u outgoing packets dropped"
+msgstr "%u སྐུར་བའི་བརྡ་དོར་བྱུང་།"
+
+msgid "%u requests sent out"
+msgstr "%uརེ་ཞུ་སྐུར་ཟིན།"
+
+msgid "%u total packets received"
+msgstr "བསྡོམས་པས་གཞི་གྲངས་ཐུམ %uའབྱོར་བྱུུང་།"
+
+msgid "%u with invalid addresses"
+msgstr "%u ཡི་ཤག་གནས་ནུས་མེད་ཡིན།"
+
+msgid "%u with invalid headers"
+msgstr "%u ཡི་མགོ་ནུས་མེད་ཡིན།"
+
+msgid "%u with unknown protocol"
+msgstr "%uཡི་གྲོས་ཆིངས་ངེས་མེད་ཡིནཞ"
+
+msgid "(No info could be read for \"-p\": geteuid()=%d but you should be root.)\n"
+msgstr ""
+"( \"-p\":geteuid()=%dལ་མཚོན་ན root སྤྱོད་མཁན་མིན་ན་ཆ་འཕྲིན་ཀློག་ཐབས་མེད།)\n"
+"\""
+
+msgid "(auto)"
+msgstr "(རང་འགུལ།)"
+
+msgid "(incomplete)"
+msgstr "\"(incomplete)\""
+
+msgid "(only servers)"
+msgstr "(ཞབས་ཞུ་ཆས་ཁོ་ན།)"
+
+msgid "(servers and established)"
+msgstr "(ཞབས་ཞུ་ཆས་དང་འབྲེལ་མཐུད་བཙུགས་ཟིན་པའི)"
+
+msgid "(w/o servers)"
+msgstr "(w/o ཞབས་ཞུ་ཆས།)"
+
+msgid "16/4 Mbps Token Ring"
+msgstr "16/4 Mbps བཀའ་རྟགས་གདུབ།"
+
+msgid "16/4 Mbps Token Ring (New)"
+msgstr "16/4 Mbps བཀའ་རྟགས་གདུབ། (གསར་པ།)"
+
+msgid "<from_interface>"
+msgstr "<མཐུད་ཁ་ནས་འོང་བ་།>"
+
+msgid "Active Internet connections "
+msgstr "Internetའབྲེལ་མཐུད་སྐུལ་སློང་།"
+
+msgid "Active NET/ROM sockets\n"
+msgstr "འགུལ་སྤྱོད་ཡོད་པའི NET/ROM མཐུད་ཡིག\n"
+
+msgid "Active UNIX domain sockets "
+msgstr "འཁྲུག་ཆ་དོད་པའི་UNIXཁོངས་མཐུད་ཡིག"
+
+msgid "Active X.25 sockets\n"
+msgstr "འགུལ་སྤྱོད་ཡོད་པའི  X.25 མཐུད་ཡིག\n"
+
+msgid "Address deletion not supported on this system.\n"
+msgstr "རྒྱུད་ཁོངས་འདིས་ས་གནས་ཞིབ་བཤེར་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།\n"
+
+msgid "Bad address.\n"
+msgstr "ཤག་གནས་ནོར་འཁྲུལ་ཅན། \n"
+
+msgid "Base address:0x%x "
+msgstr "གཞི་རྩའི་ཤག་གནས།:0x%x"
+
+msgid "Broadcast tunnel requires a source address.\n"
+msgstr "རྒྱང་བསྒྲགས་ལ་ཁུངས་ཀྱི་ས་གནས་ཞིག་དགོས།\n"
+
+msgid "CONNECTED"
+msgstr "འབྲེལ་མཐུད་བྱས་ཟིན།"
+
+msgid "CONNECTING"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
+
+msgid "DGRAM"
+msgstr "གཞི་གྲངས་ཚགས་པར།"
+
+msgid "DISC SENT"
+msgstr "DISC SENT"
+
+msgid "DISCONNECTING"
+msgstr "འབྲེལ་མཐུད་གཅོད་བཞིན་པ།"
+
+msgid "DMA chan:%x "
+msgstr "DMAབགྲོད་ལམ།:%x"
+
+msgid "Default TTL is %u"
+msgstr "སོར་བཞག་གི TTLགྲངས་ཐང་ནི %u"
+
+msgid "Don't know how to set addresses for family %d.\n"
+msgstr "གྲོས་ཆིངས %dལ་ཅི་ལྟར་ཤག་གནས་སྒྲིག་བཀོད་བྱེད་དགོས་པ་མི་ཤེས།\n"
+
+msgid "ESTAB"
+msgstr "འབྲེལ་མཐུད་བཙུགས་ཟིན་པའི།"
+
+msgid "Entries: %d\tSkipped: %d\tFound: %d\n"
+msgstr ""
+"ཟིན་ཐོ།: %d\tམཆོང་ནས: %d\tརྙེད་པ: %d\n"
+"\""
+
+msgid "Ethernet"
+msgstr "ཨེ་ཐེར་དྲ་རྒྱ།"
+
+msgid "Failed to get type of [%s]\n"
+msgstr "[%s]ཡི་རིགས་རྣམ་ཐོབ་པ་ཕམ་སོང་།\n"
+
+msgid "HWaddr %s  "
+msgstr "སྲ་ཆས་ཤག་གནས། %s"
+
+msgid "ICMP input histogram:"
+msgstr "ICMPལོ་རྒྱུས་བསྡུ་ལེན།"
+
+msgid "ICMP output histogram:"
+msgstr "ICMPལོ་རྒྱུས་སྐུར་བ།"
+
+msgid "INET (IPv4) not configured in this system.\n"
+msgstr "རྒྱུད་ཁོངས་འདི་སྒྲིག་བཀོད་བྱས་མེད། INET། (IPv4)。\n"
+
+msgid "INET6 (IPv6) not configured in this system.\n"
+msgstr "རྒྱུད་ཁོངས་འདི་སྒྲིག་བཀོད་བྱས་མེད།  INET6། (IPv6)。\n"
+
+msgid "Interface %s not initialized\n"
+msgstr "མཐུད་ཁ %s འགོ་སྒྲིག་མེད།\n"
+
+msgid "Interrupt:%d "
+msgstr "ཆད་པ།:%d"
+
+msgid "Kernel IP routing cache\n"
+msgstr "ནང་སྙིང་ IP ལམ་འཚོལ་སྐབས་གསོག\n"
+
+msgid "Kernel IP routing table\n"
+msgstr "ནང་སྙིང་ IP ལམ་འཚོལ་རེའུ་མིག\n"
+
+msgid "Kernel IPv6 routing table\n"
+msgstr "ནང་སྙིང་ IPv6  ལམ་འཚོལ་རེའུ་མིག\n"
+
+msgid "Local Loopback"
+msgstr "རང་སའི་མཐའ་སྐོར།"
+
+msgid "Media:%s"
+msgstr "སྨྱན་བྱེད།:%s"
+
+msgid "No ARP entry for %s\n"
+msgstr ""
+" %s ཡི ARP ཟིན་ཐོ་མེད།\n"
+"\""
+
+msgid "No support for ECONET on this system.\n"
+msgstr "རྒྱུད་ཁོངས་འདིའི་སྟེང་དུECONET \\རྒྱབ་སྐྱོར་མེད། n"
+
+msgid "No support for INET on this system.\n"
+msgstr ""
+"རྒྱུད་ཁོངས་འདིས་INET ལ་རྒྱབ་སྐྱོར་མི་བྱེད། \n"
+"\""
+
+msgid "No support for INET6 on this system.\n"
+msgstr ""
+"རྒྱུད་ཁོངས་འདིས་ INET6 ལ་རྒྱབ་སྐྱོར་མི་བྱེད། \n"
+"\""
+
+msgid "Point-to-Point Protocol"
+msgstr "ཚེག་ནས་ཚེག་གཏོད་གྲོས་ཆིངས།"
+
+msgid "Problem reading data from %s\n"
+msgstr "%sནས་གཞི་གྲངས་ཀློག་འདོན་བྱེད་སྐབས་གནད་དོན་ཐོན་པ།\n"
+
+msgid "RAW"
+msgstr "RAW"
+
+msgid "RECOVERY"
+msgstr "སླར་གསོ།"
+
+msgid "RX bytes:%llu (%lu.%lu %s)  TX bytes:%llu (%lu.%lu %s)\n"
+msgstr ""
+"ཡིག་ཚིགས་སྡུད་ལེན།:%llu། (%lu.%lu %s)  ཡིག་ཚིགས་སྐྱེལ་གཏོང་།:%llu། (%lu.%lu %s)\n"
+"\""
+
+msgid "RX packets:%llu errors:%lu dropped:%lu overruns:%lu frame:%lu\n"
+msgstr ""
+"གཞི་གྲངས་ཐུམ་སྡུད་ལེན།:%llu ནོར་འཁྲུལ།:%lu དོར་བ།:%lu ཐེག་བརྒལ།:%lu "
+"ལྷེབ་གྲངས།:%lu\n"
+
+msgid "Resolving `%s' ...\n"
+msgstr "དབྱེ་ཞིབ་བྱེད་བཞིན་པ། `%s' ...\n"
+
+msgid "Result: h_addr_list=`%s'\n"
+msgstr "མཇུག་འབྲས།: h_addr_list=`%s'\n"
+
+msgid "Result: h_aliases=`%s'\n"
+msgstr "མཇུག་འབྲས།: h_aliases=`%s'\n"
+
+msgid "Result: h_name=`%s'\n"
+msgstr "མཇུག་འབྲས།: h_name=`%s'\n"
+
+msgid "STREAM"
+msgstr "རྒྱུན།"
+
+msgid "Setting domainname to `%s'\n"
+msgstr ""
+"ཁོངས་མིང་ `%s'\n"
+" སྒྲིག་འགོད་བྱེད་བཞིན་པ།"
+
+msgid "Setting nodename to `%s'\n"
+msgstr ""
+"ཚིགས་ཚེག་མིང་ `%s'\n"
+" སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "TX packets:%llu errors:%lu dropped:%lu overruns:%lu carrier:%lu\n"
+msgstr ""
+"གཞི་གྲངས་ཐུམ་སྐྱེལ་གཏོང་།:%llu ནོར་འཁྲུལ།%lu དོར་བ།:%lu ཐེག་བརྒལ།:%lu "
+"ཐེག་རླབས།:%lu\n"
+
+msgid "This kernel does not support RARP.\n"
+msgstr ""
+"ནང་སྙིང་གིས་ RARPརྒྱབ་སྐྱོར་མི་བྱེད།\n"
+"\""
+
+msgid "UNKNOWN"
+msgstr "ངེས་མེད།"
+
+msgid "UNSPEC"
+msgstr "དམིགས་འཛུགས་བྱས་མེད་པ།"
+
+msgid "Unknown media type.\n"
+msgstr "ངེས་མེད་སྨྱན་གཟུགས་རིགས་རྣམ། \n"
+
+msgid ""
+"User       Dest       Source     Device  State        Vr/Vs    Send-Q  "
+"Recv-Q\n"
+msgstr ""
+"སྤྱོད་མཁན།  དམིགས་བྱ།  ཁུངས།   སྒྲིག་ཆས།  རྣམ་པ།  Vr/Vs རུ་བསྟར་སྐྱེལ་གཏོང་།"
+" རུ་བསྟར་སྡུད་ལེན།\n"
+
+msgid "WARNING: at least one error occured. (%d)\n"
+msgstr "ཐ་ཚིག：མ་མཐར་ཡང་ནོར་འཁྲུལ་གཅིག་བྱུང་བ།.(%d)\n"
+
+msgid "Warning: Interface %s still in ALLMULTI mode.\n"
+msgstr "ཐ་ཚིག：མཐུད་ཁ %s སྔར་བཞིན་གོ་ཉིས་ཆོད་ཀྱི（ALLMULTI）རྣམ་པར་གནས་ཡོད། \n"
+
+msgid "Warning: Interface %s still in BROADCAST mode.\n"
+msgstr "ཐ་ཚིག：མཐུད་ཁ %s སྔར་བཞིན་རྒྱང་བསྒྲགས་ཀྱི་（BROADCAST）རྣམ་པར་གནས་ཡོད། \n"
+
+msgid "Warning: Interface %s still in DYNAMIC mode.\n"
+msgstr "ཐ་ཚིག： མཐུད་ཁ %s སྔར་བཞིན་འགུལ་རྣམ་གྱི་（DYNAMIC）རྣམ་པར་གནས་ཡོད། \n"
+
+msgid "Warning: Interface %s still in MULTICAST mode.\n"
+msgstr "ཐ་ཚིག： མཐུད་ཁ %s སྔར་བཞིན་མང་གཏོང་གི་（MULTICAST）རྣམ་པར་གནས་ཡོད། \n"
+
+msgid "Warning: Interface %s still in POINTOPOINT mode.\n"
+msgstr ""
+"ཐ་ཚིག：མཐུད་ཁ %s སྔར་བཞིན་ཚེག་ནས་ཚེག་གི་（POINTOPOINT）རྣམ་པར་གནས་ཡོད། \n"
+"\""
+
+msgid ""
+"Warning: Interface %s still in promisc mode... maybe other application is "
+"running?\n"
+msgstr ""
+"ཐ་ཚིག：མཐུད་ཁ %s སྔར་བཞིན་ཉོག་བསྲེས་ཀྱི་རྣམ་པ་ཡོད།... "
+"བྱ་རིམ་གཞན་འཁོར་བྱེད་བཞིན་ཡོད་དམ།\n"
+
+msgid "[UNKNOWN]"
+msgstr "[ངེས་མེད།]"
+
+msgid "arp: %s: hardware type without ARP support.\n"
+msgstr "arp: %s: སྲ་ཆས་རིགས་རྣམ་ལ ARP རྒྱབ་སྐྱོར་མེད།\n"
+
+msgid "arp: %s: kernel only supports 'inet'.\n"
+msgstr "arp: %s: ནང་སྙིང་ཁོ་ན་རྒྱབ་སྐྱོར 'inet' \n"
+
+msgid "arp: %s: unknown address family.\n"
+msgstr "arp: %s: ངེས་མེད་ཤག་གནས་ཚོ། \n"
+
+msgid "arp: %s: unknown hardware type.\n"
+msgstr "arp: %s: ངེས་མེད་སྲ་ཆས་རིགས་རྣམ། \n"
+
+msgid "arp: -N not yet supported.\n"
+msgstr "arp: -N རྒྱབ་སྐྱོར་བྱས་མེད།\n"
+
+msgid "arp: cannot open etherfile %s !\n"
+msgstr "arp： etherfile %s ཁ་ཕྱེ་མི་ཐུབ། \n"
+
+msgid "arp: cannot set entry on line %u of etherfile %s !\n"
+msgstr "arp: cannot set entry on line %u of etherfile %s !\n"
+
+msgid "arp: cant get HW-Address for `%s': %s.\n"
+msgstr "\"arp：‘%s’ཡི་སྲ་ཆས་ཤག་གནས་ཐོབ་མི་ཐུབ།：%s\n"
+
+msgid "arp: device `%s' has HW address %s `%s'.\n"
+msgstr "arp：སྒྲིག་ཆས ‘%s’ལ་སྲ་ཆས་ཤག་གནས་ཡོད། %s‘%s’。\n"
+
+msgid "arp: format error on line %u of etherfile %s !\n"
+msgstr "arp：etherfile %2$sཡི་ %1$u འཕྲེང་རྣམ་གཞག་ནོར་བ། \n"
+
+msgid "arp: in %d entries no match found.\n"
+msgstr "arp:  %d ཟིན་ཐོ་ནང་ནས་ཟླ་སྒྲིག་ཚན་རྙེད་མེད།\n"
+
+msgid "arp: invalid hardware address\n"
+msgstr "arp：ཡང་དག་མ་ཡིན་པའི་སྲ་ཆས་ཤག་གནས། \n"
+
+msgid "arp: need hardware address\n"
+msgstr "arp：སྲ་ཆས་ཤག་གནས་དགོས། \n"
+
+msgid "arp: protocol type mismatch.\n"
+msgstr "arp：གྲོས་ཆིངས་རིགས་རྣམ་ཟླ་སྒྲིག་མིན.\n"
+
+msgid "compressed:%lu "
+msgstr "སྡུད་སྒྲིལ།:%lu"
+
+msgid "destination unreachable: %u"
+msgstr "དམིགས་བྱའི་ཤག་གནས་ལ་སླེབས་མི་ཐུབ།：%u"
+
+msgid "disabled"
+msgstr "འགོག་སྤྱོད་བྱས་ཟིན།"
+
+msgid "domain name (which is part of the FQDN) in the /etc/hosts file.\n"
+msgstr "/etc/hosts ཡིག་ཆའི་ནང་གི་ཁོངས་མིང་། (FQDNཁོངས་མིང་དངོས་ཀྱི་ཆ་ཤས་ཤིག) \n"
+
+msgid "enabled"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
+
+msgid "hw address type `%s' has no handler to set address. failed.\n"
+msgstr ""
+"སྲ་ཆས་ཤག་གནས་རིགས་རྣམ `%s' ལ་ཤག་གནས་སྒྲིག་བཀོད་བཀོལ་སྤྱོདམེད། ཕམ་སོང་།\n"
+
+msgid "ifconfig: Cannot set address for this protocol family.\n"
+msgstr "ifconfig： གྲོས་ཆིངས་རིགས་འདི་ལ་ཤག་གནས་སྒྲིག་བཀོད་བྱ་ཐབས་མེད།\n"
+
+msgid "ifconfig: option `%s' not recognised.\n"
+msgstr "ifconfig: འདེམས་ཚན `%s' ངོས་འཛིན་བྱེད་ཐབས་མེད།\n"
+
+msgid "keepalive (%2.2f/%ld/%d)"
+msgstr "འབྲེལ་མཐུད་རྒྱུན་འཁྱོངས། (%2.2f/%ld/%d)"
+
+msgid "netmask %s "
+msgstr "དྲ་རྒྱའི་གབ་ཨང་། %s"
+
+msgid "netstat: unsupported address family %d !\n"
+msgstr "\"netstat: རྒྱབ་སྐྱོར་མེད་པའི་ཤག་གནས་རྱིམ་རྒྱུད། %d!\n"
+
+msgid "no RARP entry for %s.\n"
+msgstr "RARP ཟིན་ཐོ་མེད་པ། %s。\n"
+
+msgid "off (0.00/%ld/%d)"
+msgstr "ཁ་རྒྱབ། (0.00/%ld/%d)"
+
+msgid "on %s\n"
+msgstr ""
+" %s\n"
+" ལ"
+
+msgid "on (%2.2f/%ld/%d)"
+msgstr "ཁ་ཕྱེ། (%2.2f/%ld/%d)"
+
+msgid "on%d (%2.2f/%ld/%d)"
+msgstr "%d། (%2.2f/%ld/%d) ལ"
+
+msgid "problem reading data from %s\n"
+msgstr "%s གཞི་གྲངས་ཀློག་འདོན་ནོར་སོང་།\n"
+
+msgid "rarp: %s: unknown hardware type.\n"
+msgstr "rarp: %s: ངེས་མེད་སྲ་ཆས་ཁྱད་རྟགས། \n"
+
+msgid "rarp: %s: unknown host\n"
+msgstr "rarp: %s:ངེས་མེད་གཙོ་འཁོར\n"
+
+msgid "rarp: cannot open file %s:%s.\n"
+msgstr "rarp: ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་མེད། %s:%s.\n"
+
+msgid "rarp: cannot set entry from %s:%u\n"
+msgstr "rarp: ཟིན་ཐོ་སྒྲིག་བཀོད་བྱེད་ཐབས་མེད། %s:%u\n"
+
+msgid "rarp: format error at %s:%u\n"
+msgstr "rarp: རྣམ་གཞག་ནོར་འཁྲུལ། %s:%u\n"
+
+msgid "timewait (%2.2f/%ld/%d)"
+msgstr "སྒུག་པ། (%2.2f/%ld/%d)"
+
+msgid "txqueuelen:%d "
+msgstr "བསྟར་པའི་རིང་ཚད་སྐྱེལ་གཏོང་།:%d"
+
+msgid "unkn-%d (%2.2f/%ld/%d)"
+msgstr "ངེས་མེད-%d། (%2.2f/%ld/%d)"
+
+msgid "unknown"
+msgstr "ངེས་མེད།"

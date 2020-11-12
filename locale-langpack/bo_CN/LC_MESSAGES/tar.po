@@ -1,0 +1,286 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " [OPTION...]"
+msgstr " [འདེམས་ཚན་...]"
+
+msgid "%s home page: <%s>\n"
+msgstr " %s ཡི་གཙོ་ངོས།：<%s>\n"
+
+msgid "%s: Cannot %s"
+msgstr "%s: རྟེན་འབྱུང་གྲངས་%s ཕམ་པ།"
+
+msgid "%s: Cannot change mode to %s"
+msgstr "%s: རྣམ་པ་ %sལ་སྒྱུར་མི་ཐུབ།"
+
+msgid "%s: Cannot change ownership to uid %lu, gid %lu"
+msgstr "%s: བདག་དབང་སྤྱོད་མཁན་ID %luལ་བཅོས་མི་ཐུབ།  ཚོ་ID %lu"
+
+msgid "%s: Cannot create symlink to %s"
+msgstr "%s: སྦྲེལ་མཐུད་ %s ལ་གསར་བཟོ་བྱ་མི་ཐུབ།"
+
+msgid "%s: Cannot hard link to %s"
+msgstr "%s:  སྲ་སྦྲེལ་ %sལ་བྱ་མི་ཐུབ།"
+
+msgid "%s: Cannot seek to %s"
+msgstr "%s: གནས་ %sལ་ངེས་མི་ཐུབ།"
+
+msgid "%s: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%s: གནས %s རུ་ཡིག་ཚིགས་ཀློག་ནོར་འབྱུང་། (%lu ཡིག་ཚིགས་ཀློག་པ།)"
+msgstr[1] "%s: གནས %s རུ་ཡིག་ཚིགས་ཀློག་ནོར་འབྱུང་། (%lu ཡིག་ཚིགས་ཀློག་པ།)"
+
+msgid "%s: Warning: Cannot %s"
+msgstr "%s: ཐ་ཚིག  རྟེན་འབྱུང་གྲངས་ %s ཕམ་པ།"
+
+msgid "%s: Warning: Cannot seek to %s"
+msgstr "%s: ཐ་ཚིག  གནས་ %sལ་ངེས་མི་ཐུབ།"
+
+msgid "%s: Warning: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Warning: Read error at byte %s, while reading %lu bytes"
+msgstr[0] ""
+"%s: ཐ་ཚིག   %s ཡིག་ཚིགས་སུ་ཀློག་པ་ནོར་འཁྲུལ་བྱུང་།( %lu ཡིག་ཚིགས་ཀློག་པ།)"
+msgstr[1] ""
+"%s: ཐ་ཚིག   %s ཡིག་ཚིགས་སུ་ཀློག་པ་ནོར་འཁྲུལ་བྱུང་།( %lu ཡིག་ཚིགས་ཀློག་པ།)"
+
+msgid "%s: Wrote only %lu of %lu byte"
+msgid_plural "%s: Wrote only %lu of %lu bytes"
+msgstr[0] "%s: %lu ཡིག་ཚིགས་ཁོ་ན་འབྲི་བ། སྤྱིར་ཡིག་ཚིགས་ %lu "
+msgstr[1] "%s: %lu ཡིག་ཚིགས་ཁོ་ན་འབྲི་བ། སྤྱིར་ཡིག་ཚིགས་ %lu "
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid "-T reads null-terminated names"
+msgstr "-T ཡིས་ NULL མིང་གི་མཇུག་རྫོགས་པ་ཀློག་པ།"
+
+msgid "ARCHIVE"
+msgstr "ཡིག་ཚགས་ཡིག་ཆ།"
+
+msgid "ARGP_HELP_FMT: %s value is less than or equal to %s"
+msgstr "ARGP_HELP_FMT: %s ཡི་ཚད་%s ལས་ཆུང་ཡང་ན་མཚུངས་བ་ཡིན། "
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "Cannot execute remote shell"
+msgstr "རྒྱང་རིང་ shell ལག་བསྟར་བྱེད་མི་ཐུབ།"
+
+msgid "Cannot rename %s to %s"
+msgstr "%sམིང་བསྐྱར་དུ་བཏགས་ནས་%sཞེས་འབོད་ཐབས་མེད།"
+
+msgid "Command exited successfully\n"
+msgstr "བཀའ་བརྡ་ཕྱིར་འདོན་ལེགས་འགྲུབ།\n"
+
+msgid "Command stopped on signal %d\n"
+msgstr "བཀའ་བརྡ་ནི་བརྡ་རྟགས་ %d ཡིས་མཚམས་འཇོག་པ།\n"
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "EXPRESSION"
+msgstr "མཚོན་ཚུལ།"
+
+msgid "Error parsing number near `%s'"
+msgstr "“%s”ཉེ་བའི་དབྱེ་ཞིབ་ཨང་ཀི་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "FILE"
+msgstr "ཡིག་ཆ།"
+
+msgid "FORMAT"
+msgstr "རྣམ་གཞག"
+
+msgid "File creation options:"
+msgstr "ཡིག་ཆ་གསར་བཟོ་འདེམས་ཚན།:"
+
+msgid "File statistics options:"
+msgstr "ཡིག་ཆ་བསྡོམས་པའི་འདེམས་ཚན།:"
+
+msgid "Garbage command"
+msgstr "གད་སྙིགས་བཀའ་བརྡ།"
+
+msgid "Invalid size: %s"
+msgstr "ནུས་མེད་ཀྱི་ཚད: %s"
+
+msgid "KEYWORD"
+msgstr "གནད་ཡིག"
+
+msgid "Main operation mode:"
+msgstr "བཀོལ་སྤྱོད་གཙོ་བའི་རྣམ་པ།"
+
+msgid "NAME"
+msgstr " མིང་།"
+
+msgid "NUMBER"
+msgstr "ཤོག་ཨང།"
+
+msgid "Negative size: %s"
+msgstr "མོ་ཚད།: %s"
+
+msgid "Number out of allowed range: %s"
+msgstr "གྲངས་ཚད་རུང་བའི་ཁྱབ་ཁོངས་བརྒལ་བ།: %s"
+
+msgid "OFFSET"
+msgstr "OFFSET"
+
+msgid "OPTION"
+msgstr "འདེམས་ཚན།"
+
+msgid "Operation not supported"
+msgstr "བཀོལ་སྤྱོད་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "PATTERN"
+msgstr "དཔེ་དབྱིབས།"
+
+msgid "Read file names from FILE"
+msgstr "FILE ལས་ཡིག་ཆའི་མིང་ཀློག་པ།"
+
+msgid "Removing leading `%s' from hard link targets"
+msgstr "སྲ་སྦྲེལ་དམིགས་ཚད་དུ་སྔོན་འཇུག་“%s” འདོར་བ།"
+
+msgid "Removing leading `%s' from member names"
+msgstr "ཁོངས་མིར་སྔོན་འཇུག་“%s” འདོར་བ།"
+
+msgid "SECS"
+msgstr "སྐར་ཆའི་གྲངས།"
+
+msgid "SIGNAL"
+msgstr "བརྡ་རྟགས།"
+
+msgid "SIZE"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "STRING"
+msgstr "ཡིག་རྟགས་ཕྲེང་།"
+
+msgid "Set date for next --touch option"
+msgstr "ངོས་རྗེས་མ --touch འདེམས་ཚན་ལ་དུས་ཚེས་བཀོད་པ།"
+
+msgid "Substituting `.' for empty hard link target"
+msgstr "སྲ་སྟོང་སྦྲེལ་མཐུད་དམིགས་ཚད་“.”བརྗེ་བ།"
+
+msgid "Substituting `.' for empty member name"
+msgstr "ཁོངས་མིའི་མིང་སྟོང་“.”བརྗེ་བ།"
+
+msgid "Synchronous execution options:"
+msgstr "འགྲོས་མཉམ་ལག་བསྟར་འདེམས་ཚན།:"
+
+msgid "TEXT"
+msgstr "ཡི་གེ"
+
+msgid ""
+"Truncate FILE to the size specified by previous --length option (or 0, if it"
+" is not given)"
+msgstr ""
+"FILE ནས་སྔོན་གྱི་ --length "
+"འདེམས་ཚན་གྱི་བསྟན་པའི་ཆེ་ཆུང་གཅོད་པ།(གལ་ཏེ་སྟོན་མེད་ན། ，སོར་བཞག་ 0)"
+
+msgid "Unknown field `%s'"
+msgstr "མི་ཤེས་པའི་ཡིག་ཆ་གབ་ཨང་གནས་“%s”"
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Usage:"
+msgstr "སྤྱོད་སྟངས།："
+
+msgid "Valid arguments are:"
+msgstr "ནུས་ལྡན་གྱི་ཞུགས་གྲངས་ནི།："
+
+msgid "Write to file NAME, instead of standard output"
+msgstr "ཡིག་ཆ་ NAMEའབྲི་བ། ཚད་ལྡན་ཕྱིར་འདོན་མིན་པ།"
+
+msgid "cannot open `%s'"
+msgstr "“%s” ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "cannot seek"
+msgstr "གནས་ངེས་མི་ཐུབ།"
+
+msgid "cannot set time on `%s'"
+msgstr "“%s” ཡི་དུས་ཚོད་བཀོད་མི་ཐུབ།"
+
+msgid "child process"
+msgstr "བུ་འཕེལ་རིམ།"
+
+msgid "exec/tcp: Service not available"
+msgstr "exec/tcp：ཞབས་ཞུ་སྤྱོད་མི་རུང་།"
+
+msgid "file name contains null character"
+msgstr "ཡིག་ཆའི་མིང་དུ་ཡིག་རྟགས་སྟོང་པ་འདུས།"
+
+msgid "give this help list"
+msgstr "རོགས་རམ་རེའུ་མིག་འདི་མངོན་པ།"
+
+msgid "hang for SECS seconds (default 3600)"
+msgstr "SECS སྐར་ཆ་འགེལ་འཇོག (ཆད་ལྷག 3600)"
+
+msgid "ignore case"
+msgstr "འབྲི་ཆེ་ཆུང་སྣང་མེད་དུ་གཏོང་།"
+
+msgid "incorrect mask (near `%s')"
+msgstr "གབ་ཨང་མི་འགྲིག་པ།(“%s”ཉེ་བ།)"
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s ཡི་ཞུགས་གྲངས་ %1$s ནུས་མེད།"
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "print program version"
+msgstr "པར་འདེབས་བྱ་རིམ་པར་གཞི།"
+
+msgid "read"
+msgstr "ཀློག་པ།"
+
+msgid "stdin"
+msgstr "ཚད་ལྡན་ནང་འཇུག"
+
+msgid "stdout"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན།"
+
+msgid "too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "write"
+msgstr "འབྲི་བ།"
+
+msgid "write error"
+msgstr " འབྲི་འཇུག་ནོར་འཁྲུལ།"

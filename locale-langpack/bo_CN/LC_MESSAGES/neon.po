@@ -1,0 +1,282 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%s: %s (code %d)"
+msgstr "%s： %s། (ཚབ་ཨང་ %d)"
+
+msgid "%s: connection timed out"
+msgstr "%s: འབྲེལ་མཐུད་དུས་བརྒལ།"
+
+msgid "%s: connection was closed by proxy server"
+msgstr "%s: འབྲེལ་མཐུད་ལས་ཚབ་ཞབས་ཞུ་ཆས་ཀྱིས་ཁ་རྒྱབ།"
+
+msgid "%s: connection was closed by server"
+msgstr "\"%s: འབྲེལ་མཐུད་ཞབས་ཞུ་ཆས་ཀྱིས་ཁ་རྒྱབ།"
+
+msgid "Certificate verification error: %s"
+msgstr "དཔང་ཡིག་དག་བཤེར་ཕམ་པ།：%s"
+
+msgid "Chunk delimiter was invalid"
+msgstr "ཁྲིམས་འགལ་གྱི་གཅོད་རྟགས།"
+
+msgid "Client certificate verification failed"
+msgstr "མཁོ་མཁན་ལག་ཁྱེར་དག་བཤེར་ཕམ་པ།"
+
+msgid "Connection closed"
+msgstr "འབྲེལ་མཐུད་ཁ་རྒྱག"
+
+msgid "Connection timed out"
+msgstr "འབྲེལ་མཐུད་དུས་བརྒལ།"
+
+msgid "Could not authenticate to proxy server: %s"
+msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས་སུ་བདེན་དཔང་བྱེད་མི་ཐུབ།: %s"
+
+msgid "Could not authenticate to server: %s"
+msgstr "ཞབས་ཞུ་ཆས་སུ་བདེན་དཔང་བྱེད་མི་ཐུབ།: %s"
+
+msgid "Could not connect to proxy server"
+msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས་སུ་འབྲེལ་མཐུད་བྱེད་མི་ཐུབ།"
+
+msgid "Could not connect to server"
+msgstr "ཞབས་ཞུ་ཆས་ལ་འབྲེལ་མི་ཐུབ།"
+
+msgid "Could not create SSL connection through proxy server: %s"
+msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས “%s”བརྒྱུད་ནས་ SSL འབྲེལ་མཐུད་གསར་འཛུགས་བྱེད་མི་ཐུབ།"
+
+msgid "Could not create SSL structure"
+msgstr "SSLགྲུབ་ཚུལ་གསར་འཛུགས་བྱེད་མི་ཐུབ།"
+
+msgid "Could not create socket"
+msgstr "socketགསར་བཟོ་མི་ཐུབ།"
+
+msgid "Could not determine file size: %s"
+msgstr "གཏན་འཁེལ་མི་ཐུབ་པའི་ཡིག་ཆའི་ཆེ་ཆུང་།：%s"
+
+msgid "Could not inflate data"
+msgstr "གཞི་གྲམས་བསྡུས་གྲུལ་ཕམ་པ།"
+
+msgid "Could not initialize zlib"
+msgstr "zlib འགོ་སྒྲིག་ཐམ་པ།"
+
+msgid "Could not parse chunk size"
+msgstr "དུམ་བའི་ཆེ་ཆུང་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།"
+
+msgid "Could not parse redirect destination URL"
+msgstr "ཕྱོགས་བསྐྱར་ངེས URL ལ་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།"
+
+msgid "Could not parse response status line"
+msgstr "དང་ལེན་རྣམ་འཕྲེང་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།"
+
+msgid "Could not parse response: %s"
+msgstr "དང་ལེན་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།：%s"
+
+msgid "Could not read chunk delimiter"
+msgstr "དུམ་བགོས་རྟགས་ཀློག་མི་ཐུབ།"
+
+msgid "Could not read chunk size"
+msgstr "དུམ་བའི་ཆེ་ཆུང་ཀློག་མི་ཐུབ།"
+
+msgid "Could not read interim response headers"
+msgstr "སྐབས་འཕྲལ་དང་ལེན་ཤློག་མི་ཐུབ།"
+
+msgid "Could not read response body"
+msgstr "དང་ལེན་བྱེད་པོ་ཀློག་མི་ཐུབ།"
+
+msgid "Could not read status line"
+msgstr "རྣམ་འཕྲེང་ཀློག་མི་ཐུབ།"
+
+msgid "Could not seek to offset %s of request body file: %s"
+msgstr "ཡིག་ཆ་གཙོ་བོ་རེ་ཞུ་བྱེད་ཀྱིན་ཡོད་པས་ཡོ་བ་རུ་གནས་ངེས་མི་ཆོག %s： %s"
+
+msgid "Could not send request"
+msgstr "རེ་ཞུ་སྐུར་མི་ཆོག"
+
+msgid "Could not send request body"
+msgstr "རེ་ཞུའི་བྱེད་པོ་སྐུར་མི་ཆོག"
+
+msgid "Could not write to file: %s"
+msgstr "ཡིག་ཆའི་ནང་བྲིས་མི་ཆོག：%s"
+
+msgid "Digest mutual authentication failure: client nonce mismatch"
+msgstr "གནད་བསྡུས་ཕན་ཚུན་བདེན་དཔང་ར་སྤྲོད་ཕམ་པ།：སྤྱོད་མཁན་ད་ལྟ་ཟླ་སྒྲིག་མིན།"
+
+msgid "Digest mutual authentication failure: could not parse nonce count"
+msgstr ""
+"གནད་བསྡུས་ཕན་ཚུན་བདེན་དཔང་ར་སྤྲོད་ཕམ་པ།：ད་ལྟའི་བགྲང་བྱ་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།"
+
+msgid "Digest mutual authentication failure: missing parameters"
+msgstr "གནད་བསྡུས་ཕན་ཚུན་བདེན་དཔང་ར་སྤྲོད་ཕམ་པ།：ཞུགས་གྲངས་ལུས་པ།"
+
+msgid "Digest mutual authentication failure: nonce count mismatch (%u not %u)"
+msgstr ""
+"གནད་བསྡུས་ཕན་ཚུན་བདེན་དཔང་ར་སྤྲོད་ཕམ་པ།：ད་ལྟ་རྩིས་རྒྱག་ཟླ་སྒྲིག་མིན། ( "
+"%uཡིན་པ་ལས  %uམིན།)"
+
+msgid "Digest mutual authentication failure: request-digest mismatch"
+msgstr "གནད་བསྡུས་ཕན་ཚུན་བདེན་དཔང་ར་སྤྲོད་ཕམ་པ།：གདན་བསྡུས་རེ་ཞུ་ཟླ་སྒྲིག་མིན།"
+
+msgid "Error reading response headers"
+msgstr "ཀློག་འདོན་དང་ལེན་མགོ་ནོར་བ།"
+
+msgid "GSSAPI authentication error: "
+msgstr "GSSAPI བདེན་དཔང་ནོར་འཁྲུལ།"
+
+msgid "GSSAPI failure (code %u)"
+msgstr "GSSAPI ཕམ་པ། (ཚབ་ཨང་ %u)"
+
+msgid "Invalid Byte Order Mark"
+msgstr "ཁྲིམས་འགལ་ཡིག་ཚིགས་གོ་རིམ་ལྟར་རྟགས་བཀོད་པ།(BOM)"
+
+msgid "Invalid Content-Length in response"
+msgstr "ཁྲིམས་འགལ་གྱི Content-Length དང་ལེན་ཁུལ།"
+
+msgid "LOCK response missing Lock-Token header"
+msgstr "LOCK ཡི་དང་ལེན་གྱིས་ Lock-Token འཕྲེང་ལུས་པ།"
+
+msgid "Negotiate response verification failed: invalid response header token"
+msgstr "དག་བཤེར་གྲོས་མོལ་དང་ལེན་ཕམ་པ།：ཁྲིམས་འགལ་དང་ལེན་བཀའ་རྟགས།"
+
+msgid "Negotiate response verification failure: %s"
+msgstr "གྲོས་བསྡུར་དང་ལེན་དག་བཤེར་ཕམ་པ།: %s"
+
+msgid "No activelock for <%s> returned in LOCK refresh response"
+msgstr " %s ཡི་སྒྲོག་དང་ལེན་གསར་འདོན་ལ་རང་འགུལ་ཟྭ་ཕྱིར་སློག་མེད།"
+
+msgid "Range is not satisfiable"
+msgstr "ཡིད་ཚིམ་མི་ཐུབ་པའི་ཁྱབ་ཁོངས།"
+
+msgid "Resource does not support ranged GET requests"
+msgstr "ཐོན་ཁུངས་ཀྱིས་ཁྱབ་ཁོངས་ཀློག་འདོན་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Response did not include requested range"
+msgstr "རེ་ཞུ་དང་ལེན་གྱི་ཁྱབ་ཁོངས་ནང་ཚུད་མེད།"
+
+msgid "Response exceeded maximum number of header fields"
+msgstr "དང་ལེན་མགོ་ཡི་ཁུལ་ཁོངས་ཀྱི་གྲངས་འབོར་དེ་གྲངས་འབོར་ཆེ་ཤོས་ལས་བརྒལ།"
+
+msgid "Response exceeds maximum property count"
+msgstr "དང་ལེན་གཏོགས་གཤིས་ཀྱི་ཚད་བགྲང་བྱ་ཆེ་ཤོས་ལས་བརྒལ་བ།"
+
+msgid "Response header too long"
+msgstr "དང་ལེན་མགོ་རིང་དྲགས་འདུག"
+
+msgid "Response missing activelock for %s"
+msgstr " %s ཡི་སྒྲོག་དང་ལེན་གྱིས་ཟྭ་ལུས་འདུག"
+
+msgid "SSL alert received: %s"
+msgstr "SSL ཉེན་བརྡ་འབྱོར་བ： %s"
+
+msgid "SSL disabled due to lack of entropy"
+msgstr "ཁྲོབ་ཆད་པས་SSLའགོག་སྤྱོད་བྱས་ཟིན།"
+
+msgid "SSL error code %d/%d/%lu"
+msgstr "SSL ཚབ་ཨང་ནོར་འཁྲུལ %d/%d/%lu"
+
+msgid "SSL error: %s"
+msgstr "SSL ནོར་འཁྲུལ།%s"
+
+msgid "SSL server did not present certificate"
+msgstr "SSL ཞབས་ཞུ་ཆས་ཀྱིས་དཔང་ཡིག་མངོན་མི་ཐུབ།"
+
+msgid "SSL socket read failed"
+msgstr "SSLཡིག་མཐུད་ཆ་ཚང་ཀློག་འདོན་ཕམ་པ།"
+
+msgid "Secure connection truncated"
+msgstr "བདེ་འཇགས་འབྲེལ་མཐུད་གཅོད་པ།"
+
+msgid "Server certificate verification failed: "
+msgstr "ཞབས་ཞུ་ཆས་དཔང་ཡིག་དག་བཤེར་ཕམ་པ།"
+
+msgid "Server certificate was missing commonName attribute in subject name"
+msgstr ""
+"ཞབས་ཞུ་ཆས་དཔང་ཡིག་གིས་བརྗོད་གཙོ་བོའི་མིང་གི་ནང་དུ་གཏོགས་གཤིས  commonName "
+"ལུས་པ།"
+
+msgid "Server did not send certificate chain"
+msgstr "ཞབས་ཞུ་ཆསཀྱིས་དཔང་ཡིག་འབྲེལ་ཐག་སྐུར་མི་ཐུབ།"
+
+msgid "Socket descriptor number exceeds FD_SETSIZE"
+msgstr "སྦྲེལ་མཐུད་ཡིག་གྲངས་FD-SETSIZEལས་བརྒལ་བ།"
+
+msgid "Socket family not supported"
+msgstr "བསྒར་གདན་ཁྱིམ་རྒྱུད་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Unknown error"
+msgstr "གསང་ཨང་རྙོག་འཛིང་ཚད་བླང་བྱ་དང་མི་མཐུན་པ།"
+
+msgid "Unknown transfer-coding in response"
+msgstr "དང་ལེན་ཁྲོད་ཀྱི་བརྒྱུད་གཏོང་ཚབ་ཨང་ངེས་མེད།"
+
+msgid "XML parse error at line %d: %s"
+msgstr "%d འཕྲེང་ནས XML དབྱེ་ཞིབ་ནོར་བ།: %s"
+
+msgid "XML parse error at line %d: invalid element name"
+msgstr "%d འཕྲེང་ནས XML དབྱེ་ཞིབ་ནོར་བ།: ཁྲིམས་འགལ་གཞི་རྒྱུའི་མིང་།"
+
+msgid "[invalid date]"
+msgstr "[ནུས་མེད་ཚེས་གྲངས།]"
+
+msgid "[unprintable:#%lu]"
+msgstr "[གཏག་པར་མ་ཡིན་པའི་ཡིག་རྟགས།:#%lu]"
+
+msgid "[unprintable]"
+msgstr "[གཏག་པར་མ་ཡིན་པའི་ཡིག་རྟགས]"
+
+msgid "certificate has expired"
+msgstr "དཔང་ཡིག་དུས་ལས་ཡོལ་ཟིན་པ།"
+
+msgid "certificate is not yet valid"
+msgstr "དཔང་ཡིག་ད་དུང་གོ་ཆོད་མེད།"
+
+msgid "could not parse challenge"
+msgstr "འགྲན་སློང་ལ་དབྱེ་ཞིབ་བྱེད་མི་རུང་།"
+
+msgid "could not parse domain in Digest challenge"
+msgstr "གནད་བསྡུས་འགྲན་སློང་ཁྲོད་ཀྱི་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ་པའི་ཁོངས་ཁུལ།"
+
+msgid "ignored %s challenge"
+msgstr "སྣང་མེད་དུ་བཞག་པའི་ %s འགྲན་སློང་།"
+
+msgid "ignoring empty Negotiate continuation"
+msgstr "རྗེས་མཐུད་ཀྱི་གྲོས་བསྡུར་སྟོང་པ་སྣང་མེད་དུ་གཏོང་བ།"
+
+msgid "incompatible algorithm in Digest challenge"
+msgstr "གནད་བསྡུས་འགྲན་སློང་ཁྲོད་ཀྱི་རྩི་ཐབས་འཆམ་མཐུན་མིན།"
+
+msgid "initial Digest challenge was stale"
+msgstr "འགོ་སྒྲིག་གནད་བསྡུས་འགྲན་སློང་རྙིང་པ།"
+
+msgid "invalid Negotiate token"
+msgstr "ཁྲིམས་འགལ་གྱི་གྲོས་མོལ་བཀའ་རྟགས།"
+
+msgid "issuer is not trusted"
+msgstr "དཔང་ཡིག་སྤྲོད་མཁན་ལ་ཡིད་ཆེས་མེད།"
+
+msgid "missing parameter in Digest challenge"
+msgstr "གནད་བསྡུས་འགྲན་སློང་་ཁྲོད་ཀྱི་ཞུགས་གྲངས་བོར་བ།"
+
+msgid "missing realm in Basic challenge"
+msgstr "གཞི་རྩའི་འགྲན་སློང་ཁྲོད་ཁྱབ་ཁོངས་བོར་བ།"
+
+msgid "offset invalid"
+msgstr "ཁྲིམས་འགལ་མཐའ་ཕྱོགས།"
+
+msgid "rejected %s challenge"
+msgstr "ཕྱིར་ཟློག་པའི %s འགྲན་སློང་།"
+
+msgid "stale Digest challenge with new algorithm or realm"
+msgstr "གནད་བསྡུས་འགྲན་སློང་རྙིང་པ་རྩི་ཐབས་གསར་པའམ་ཁུལ་ཁོངས་གསར་པ་ར་སྤྱོད་པ།"
+
+msgid "unknown algorithm in Digest challenge"
+msgstr "གནད་བསྡུས་འགྲན་སློང་ནང་གི་རྩི་ཐབས་ངོས་འཛིན་མི་ཐུབ་པ།"

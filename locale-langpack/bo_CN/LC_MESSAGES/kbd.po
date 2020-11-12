@@ -1,0 +1,782 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "    FAILED"
+msgstr "ཕམ་པ།"
+
+msgid "# not alt_is_meta: on keymap %d key %d is bound to"
+msgstr ""
+"#  alt_is_meta:མ་ཡིན། %d མཐེབ་དེ་སྦྲེལ་བའི་མཐེབ་རྟེན་འཕྲོ་ %d "
+"ཡི་སྟེང་དུ་ཡོད།"
+
+msgid "%-15s for %s\n"
+msgstr ""
+"%-15s ནི་%s\n"
+"ཡིན།"
+
+msgid "%s from %s\n"
+msgstr ""
+"%sནི་%s\n"
+"ལས་བྱུང་།"
+
+msgid "%s: %s: Warning: line too long\n"
+msgstr "%s: %s:ཐ་ཚིག ཕྲེང་རིང་དྲགས་པ།\n"
+
+msgid "%s: 0: illegal VT number\n"
+msgstr "%s: 0: ཁྲིམས་འགལ་གྱི་VTཨང་རྟགས།\n"
+
+msgid "%s: Bad Unicode range corresponding to font position range 0x%x-0x%x\n"
+msgstr ""
+"%s: ནོར་འཁྲུལ་གྱི་Unicode ཁྱབ་ཁོངས་དེ་ཡིག་གཟུགས་གནས་ཡུལ་གྱི་ཁྱབ་ཁོངས་0x%x-0x%x\n"
+"ལྟོས་ཟླར་གྲུབ་ཡོད།"
+
+msgid "%s: Bad call of readpsffont\n"
+msgstr "%s: readpsffontཡི་ནོར་འཁྲུལ་བཀོལ་སྤྱོད།"
+
+msgid "%s: Bad end of range (0x%lx)\n"
+msgstr "%s:ནོར་འཁྲུལ་གྱི་ཁྱབ་ཁོངས་མཇུག་སྒྲིལ་ཐང་།(0x%lx)\n"
+
+msgid "%s: Bad end of range (0x%x)\n"
+msgstr "%s:ནོར་འཁྲུལ་གྱི་ཁྱབ་ཁོངས་མཇུག་སྒྲིལ་ཐང་།(0x%lx)\n"
+
+msgid "%s: Bad input line: %s\n"
+msgstr "%s:ནོར་འཁྲུལ་གྱི་ནང་འཇུག་ཕྲེང་།: %s\n"
+
+msgid "%s: Bad magic number on %s\n"
+msgstr "%s:ནོར་འཕྲུལ་ཅན་གྱི་འཕྲུལ་གྲངས། %s\n"
+
+msgid ""
+"%s: Corresponding to a range of font positions, there should be a Unicode "
+"range\n"
+msgstr ""
+"%s:ཡིག་གཟུགས་གཅིག་གི་ཁྱབ་ཁོངས་ལ་ལྟོས་ཟླར་གྲུབ་ན།Unicoaཡི་ཁྱབ་ཁོངས་ཤིག་ཡོད་དགོས།\n"
+
+msgid "%s: Error reading input font"
+msgstr "%s:ཀློག་འདོན་ནང་འཇུག་ཡིག་གཟུགས་ནོར་བ།"
+
+msgid "%s: Glyph number (0x%lx) past end of font\n"
+msgstr "%s:མཚོན་རྟགས་ཨང་གྲངས། (0x%lx) ཡིག་གཟུགས་ཀྱི་མཇུག་ལས་བརྒལ།\n"
+
+msgid "%s: Glyph number (0x%x) larger than font length\n"
+msgstr "%s:མཚོན་རྟགས་ཨང་གྲངས། (0x%lx) ཡིག་གཟུགས་ཀྱི་རིང་ཚད་ལས་བརྒལ་བ།\n"
+
+msgid "%s: Input file: bad input length (%d)\n"
+msgstr "%s:ཡིག་ཆ་ནང་འཇུག ནོར་འཁྲུལ་གྱི་ནང་འཇུག་རིང་ཚད།(%d)\n"
+
+msgid "%s: Input file: trailing garbage\n"
+msgstr "%s:ཡིག་ཆ་ནང་འཇུག མཇུག་གི་ཕན་མེད་ཆ་འཕྲིན།\n"
+
+msgid "%s: Unsupported psf file mode (%d)\n"
+msgstr "%s:ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་psFཡིག་ཆའི་རྣམ་པ།（0.4）n）"
+
+msgid "%s: Unsupported psf version (%d)\n"
+msgstr "%s:རྒྱབ་སྐྱོར་མི་བྱེད་པའི་psFདཔར་གཞི།(%d)\n"
+
+msgid "%s: VT 1 is the console and cannot be deallocated\n"
+msgstr "%s:VT 1ནི་ཚོད་འཛིན་སྟེགས་བུ་ཡིན་པ་མ་ཟད།ད་དུང་ཕྱིར་བསྡུ་བྱེད་ཐབས་བྲལ།\n"
+
+msgid "%s: Warning: line too long\n"
+msgstr "%s:ཐ་ཚིག ཕྲེང་རིང་དྲགས་པ།\n"
+
+msgid "%s: addfunc called with bad func %d\n"
+msgstr ""
+"%s:addfuncའདོན་སྤྱོད་སྐབས་ནོར་འཁྲུལ་གྱི་རྟེན་འབྱུང་གྲངས་%d\n"
+"བཀོལ་སྤྱོད་བྱས་པ།"
+
+msgid "%s: addfunc: func_buf overflow\n"
+msgstr "%s:addfunc: func_buf ལུད་པ\n"
+
+msgid "%s: background will look funny\n"
+msgstr "%s:རྒྱབ་ལྗོངས་ནི་ཕར་བལྟས་ན་ཧ་ཅང་སྤྲོ་སྣང་ལྡན་པ།\n"
+
+msgid "%s: bad utf8\n"
+msgstr "%s:ནོར་འཕྲུལ་གྱི་utf8\n"
+
+msgid "%s: bug in do_loadtable\n"
+msgstr "%s:do_loadtable ཁྲོད་ཀྱི་བྱ་རིམ་ནོར་འཁྲུལ།\n"
+
+msgid "%s: cannot deallocate or clear keymap\n"
+msgstr "%s:ཕྱིར་བསྡུ་ཐབས་བྲལ་པའམ་གཙང་སེལ་བྱེད་ཐབས་བྲལ་པའི་མཐེབ་ཀྱི་རྟེན་འཕྲོ།\n"
+
+msgid "%s: cannot find any keymaps?\n"
+msgstr "%s:མཐེབ་རྟེན་འཕྲོ་ཅི་ཡང་རྙེད་ཐབས་བྲལ། \n"
+
+msgid "%s: could not deallocate console %d\n"
+msgstr "%s:ཚོད་འཛིན་སྟེགས་བུ་ཕྱིར་སྡུད་ཐབས་བྲལ་བ།%d\n"
+
+msgid "%s: could not deallocate keymap %d\n"
+msgstr "%s:མཐེབ་རྟེན་འཕྲོ་ཕྱིར་བསྡུ་ཐབས་བྲལ་བ།%d\n"
+
+msgid "%s: deallocating all unused consoles failed\n"
+msgstr "%s:བེད་སྤྱོད་མ་བྱས་པའི་ཚོད་འཛིན་སྟེགས་བུ་ཚང་མ་ཕྱིར་སྡུད་ཕམ་པ།\n"
+
+msgid "%s: error setting keyboard mode\n"
+msgstr "%s:མཐེབ་གཞོང་རྣམ་པ་སྒྲིག་འགོད་ནོར་བ།\n"
+
+msgid "%s: font position 32 is nonblank\n"
+msgstr "%s:ཡིག་གཟུགས་གནས་ས32སྟོང་པ་མིན་པ།\n"
+
+msgid "%s: input font does not have an index\n"
+msgstr "%s:ཡིག་གཟུགས་ནང་འཇུག་ལ་གསལ་བྱང་མེད་པ།\n"
+
+msgid "%s: out of memory\n"
+msgstr "%s:ནང་གསོག་མི་འདང་བ།\n"
+
+msgid "%s: out of memory?\n"
+msgstr "%s:ནང་གསོག་མི་འདང་བ་ཡིན་ནམ། \n"
+
+msgid "%s: plain map not allocated? very strange ...\n"
+msgstr "%s:སྤྱིར་བཏང་གི་རྟེན་འཕྲོ་བགོ་བཤའ་བྱས་མེད་དམ། ཡ་མཚན་ཆེ་བ།...\n"
+
+msgid "%s: psf file with unknown magic\n"
+msgstr "%s:psFཡིག་ཆ་ཡིས་ངེས་མེད་ཀྱི་འཕྲུལ་གྲངས་བཀོལ་བ།\n"
+
+msgid "%s: short ucs2 unicode table\n"
+msgstr "%s:ucs2 unicode རེའུ་མིག་ཐུང་བ།\n"
+
+msgid "%s: short unicode table\n"
+msgstr "%s:unicode རེའུ་མིག་ཐུང་བ།\n"
+
+msgid "%s: short utf8 unicode table\n"
+msgstr "%s:utf8 unicode རེའུ་མིག་ཐུང་བ།\n"
+
+msgid "%s: trailing junk (%s) ignored\n"
+msgstr "%s:མཇུག་གི་ཕན་མེད་ཆ་འཕྲིན། (%s) སྣང་མེད་དུ་བཞག་པ།\n"
+
+msgid "%s: unknown option\n"
+msgstr "%s:མི་ཤེས་པའི་འདེམ་བྱང་།\n"
+
+msgid "%s: unknown utf8 error\n"
+msgstr "%s:ངེས་མེད་ཀྱི་utf8ནོར་འཁྲུལ།\n"
+
+msgid "%s: wiped it\n"
+msgstr "%s:བསུབ་ཟིན།\n"
+
+msgid "%s: zero input character size?\n"
+msgstr "%s:ནང་འཇུག་ཡིག་རྟགས་ཀྱི་ཆེ་ཆུང་ནི་0ཡིན་ནམ། \n"
+
+msgid "%s: zero input font length?\n"
+msgstr "%s:ཡིག་གཟུགས་ནང་འཇུག་གྱི་རིང་ཚད་ནི་0ཡིན་ནམ། \n"
+
+msgid "'%s' is not a function key symbol"
+msgstr "%s:བྱེད་ལས་མཐེབ་ཀྱི་མཚོན་རྟགས་ཤིག་མ་རེད།"
+
+msgid "(No change in compose definitions.)\n"
+msgstr "(ཚན་སྡེབ་མཚན་ཉིད་ལ་འགྱུར་ལྡོག་བྱུང་མེད། ）\n"
+
+msgid "0 is an error; for 1-88 (0x01-0x58) scancode equals keycode\n"
+msgstr ""
+" བཤར་འབེབས་ཨང་ 1-88། (0x01-0x58) "
+"དང་མཚུངས་པའི་མཐེབ་ཨང་ལ་མཚོན་ནས་བཤད་ན།0ནི་ནོར་འཁྲུལ་ཞིག་རེད།"
+
+msgid "?UNKNOWN?"
+msgstr "?ངེས་མེད་ཀྱི་?"
+
+msgid "Appended Unicode map\n"
+msgstr "Unicode རྟེན་འཕྲོ་ཟུར་སྣོན་བྱས་ཟིན།\n"
+
+msgid "Bad character height %d\n"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་རྟགས་མཐོ་ཚད།%d\n"
+
+msgid "Bad character width %d\n"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་རྟགས་ཞེང་ཚད།%d\n"
+
+msgid "Bad input file size\n"
+msgstr "ནོར་འཁྲུལ་གྱི་ནང་འཇུག་ཡིག་ཆའི་ཆེ་ཆུང་།\n"
+
+msgid "Bad input line: %s\n"
+msgstr "ནོར་འཁྲུལ་གྱི་ནང་འཇུག་ཕྲེང་།: %s\n"
+
+msgid "Cannot find %s\n"
+msgstr ""
+"%s\n"
+"རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Cannot find %s font\n"
+msgstr ""
+"%s ཡི་གཟུགས་\n"
+"རྙེད་ཐབས་བྲལ་བ།"
+
+msgid "Cannot find default font\n"
+msgstr ""
+"སོར་བཞག་ཡིག་གཟུགས་\n"
+"རྙེད་ཐབས་བྲལ།"
+
+msgid "Cannot open /dev/port"
+msgstr "/dev/portཁ་ཕྱེ་ཐབས་བྲལ་བ།"
+
+msgid "Cannot open font file %s\n"
+msgstr ""
+"ཡིག་གཟུགས་ཀྱི་ཡིག་ཆ་%s\n"
+"ཁ་ཕྱེ་ཐབས་བྲལ་པ།"
+
+msgid "Cannot read console map\n"
+msgstr "ཚོད་འཛིན་སྟེགས་བུའི་རྟེན་འཕྲོ་ཀློག་འདོན་བྱེད་ཐབས་བྲལ་བ།\n"
+
+msgid "Cannot stat map file"
+msgstr "རྟེན་འཕྲོ་ཡིག་ཆ་stat བྱེད་ཐབས་བྲལ་བ།"
+
+msgid "Cannot write font file"
+msgstr "ཡིག་གཟུགས་ཡིག་ཆ་འབྲི་ཐབས་བྲལ་བ།"
+
+msgid "Cannot write font file header"
+msgstr "ཡིག་གཟུགས་ཡིག་ཆའི་མགོ་ཁུལ་འབྲི་ཐབས་བྲལ་བ།"
+
+msgid "Character count: %d\n"
+msgstr "ཡིག་རྟགས་ཀྱི་བསྡོམས་གྲངས།: %d\n"
+
+msgid "Couldn't get a file descriptor referring to the console\n"
+msgstr "དམིགས་འཛིན་སྟེགས་བུའི་ཡིག་ཆའི་ཞིབ་བརྗོད་རྟགས་ཐོབ་ཐབས་བྲལ་བ།\n"
+
+msgid "Couldn't open %s\n"
+msgstr ""
+" %s\n"
+"ཁ་ཕྱེ་ཐབས་བྲལ་བ།"
+
+msgid "Current default flags:  "
+msgstr "མིག་སྔའི་སོར་བཞག་མཚོན་རྟགས།"
+
+msgid "Current flags:          "
+msgstr "མིག་སྔའི་མཚོན་རྟགས།"
+
+msgid "Current leds:           "
+msgstr "མིག་སྔའི་LED"
+
+msgid "Error opening /dev/kbd.\n"
+msgstr "/dev/kbd ཁ་འབྱེད་ནོར་འཁྲུལ་བྱུང་བ། \n"
+
+msgid "Error parsing symbolic map from `%s', line %d\n"
+msgstr ""
+"ཡིག་ཆ་ '%s' ནས་ཞིབ་འགྲེལ་མཚོན་རྟགས་རྟེན་འཕྲོ་ནོར་འཁྲུལ་ཤོར་བ། ཕྲེང་ %d\n"
+
+msgid "Error reading %s\n"
+msgstr "%sཀློག་འདོན་ནོར་འཁྲུལ།\n"
+
+msgid "Error reading current flags setting. Maybe you are not on the console?\n"
+msgstr ""
+"མིག་སྔའི་མཚོན་རྟགས་སྒྲིག་འགོད་ནོར་བ། "
+"གཅིག་བྱས་ན་ཁྱེད་རང་ཚོད་འཛིན་སྟེགས་བུའི་སྟེང་མི་འདུག \n"
+
+msgid "Error reading current led setting from /dev/kbd.\n"
+msgstr "/dev/kbd ནས་མིག་སྔའི་LEDསྒྲིག་འགོད་ཀློག་འདོན་ནོར་བ། \n"
+
+msgid "Error reading current led setting. Maybe stdin is not a VT?\n"
+msgstr ""
+"མིག་སྔའི་LEDསྒྲིག་འགོད་ཀློག་འདོན་ནོར་བ། "
+"གཅིག་བྱས་ན་ཚད་ལྡན་ནང་འཇུག་ནི་VTཞིག་མིན་ནམ། \n"
+
+msgid "Error reading current setting. Maybe stdin is not a VT?\n"
+msgstr ""
+"མིག་སྔའི་སྒྲིག་འགོད་ཀློག་འདོན་ནོར་བ། "
+"གཅིག་བྱས་ན་ཚད་ལྡན་ནང་འཇུག་ནི་VTཞིག་མིན་ནམ། \n"
+
+msgid "Error reading map from file `%s'\n"
+msgstr "ཡིག་ཆ་ལས་%s’ཀློག་ལེན་རྟེན་འཕྲོ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error resetting ledmode\n"
+msgstr "LEDརྣམ་པ་སོར་སློག་ནོར་བ།\n"
+
+msgid "Error writing map to file\n"
+msgstr "རྟེན་འཕྲོ་ཡིག་ཆའི་ནང་དུ་འབྲི་འཇུག་ནོར་བ།\n"
+
+msgid "Error writing screendump\n"
+msgstr "ཡོལ་ངོས་སྤོ་གསོག་འབྲི་འཇུག་ནོར་བ།\n"
+
+msgid "Font height    : %d\n"
+msgstr "ཡིག་གཟུགས་ཀྱི་མཐོ་ཚད།: %d\n"
+
+msgid "Font width     : %d\n"
+msgstr "ཡིག་གཟུགས་ཀྱི་ཞེང་ཚད།: %d\n"
+
+msgid "Found nothing to save\n"
+msgstr "ཉར་ཚགས་བྱེད་དགོས་པའི་དངོས་པོ་རྙེད་མ་བྱུང་།\n"
+
+msgid "Hmm - a font from restorefont? Using the first half.\n"
+msgstr ""
+"འུན། -  restorefont ནས་བྱུང་པའི་ཡིག་གཟུགས་ཤིག་ཡིན་ནམ། "
+"དེའི་ཕྱེད་སྔོན་མ་བཀོལ་བ། \n"
+
+msgid "Invalid number of lines\n"
+msgstr "ཁྲིམས་དང་མི་མཐུན་པའི་ཕྲེང་གྲངས།\n"
+
+msgid "KDGKBENT error at index %d in table %d\n"
+msgstr "རེའུ་མིག་ %2$dཡི་གསལ་བྱང་གི་ %1$dསར་ KDGKBENT ཡི་ནོར་འཁྲུལ་བྱུང་བ།\n"
+
+msgid "KDGKBENT error at index 0 in table %d\n"
+msgstr "རེའུ་མིག་%d ཡི་གསལ་བྱང་0ཡི་སར་KDGKBENTནོར་འཁྲུལ་བྱུང་བ།\n"
+
+msgid "KIOCGLED unavailable?\n"
+msgstr "KIOCGLEDབེད་སྤྱོད་མི་ཆོག་གམ། \n"
+
+msgid "KIOCSLED unavailable?\n"
+msgstr "KIOCSLEDབེད་སྤྱོད་མི་ཆོག་གམ། \n"
+
+msgid "Keymap %d: Permission denied\n"
+msgstr "མཐེབ་རྟེན་འཕྲོ་%d: དབང་ཚད་མི་འདང་བ།\n"
+
+msgid "Loaded %d compose %s.\n"
+msgstr "ཚན་སྡེབ་%d ཁུར་སྣོན་བྱས་ཟིན།%s.\n"
+
+msgid "Loading %d-char %dx%d (%d) font\n"
+msgstr ""
+"\"ཡིག་ཚིགས་ %d-ཡི་ཡིག་གཟུགས་%dx%d། (%d) ལ་ཁུར་སྣོན་བྱེད་བཞིན་པ། \n"
+"\""
+
+msgid "Loading %d-char %dx%d (%d) font from file %s\n"
+msgstr ""
+"\"ཡིག་ཆ་%5$s ཡི་ཁྲོད་ཡིག་ཚིགས་ %1$d-ཡི་ཡིག་གཟུགས་%2$dx%3$d། (%4$d)ལ་ཁུར་སྣོན་བྱེད་བཞིན་པ། \n"
+"\""
+
+msgid "Loading %d-char %dx%d font\n"
+msgstr ""
+"\"ཡིག་ཚིགས་ %d-ཡི་ཡིག་གཟུགས་%dx%d ལ་ཁུར་སྣོན་བྱེད་བཞིན་པ། \n"
+"\""
+
+msgid "Loading %d-char %dx%d font from file %s\n"
+msgstr ""
+"\"ཡིག་ཆ་%5$s ཡི་ཁྲོད་ཡིག་ཚིགས་ %1$d-ཡི་ཡིག་གཟུགས་%2$dx%3$d། (%4$d)ལ་ཁུར་སྣོན་བྱེད་བཞིན་པ། \n"
+"\""
+
+msgid "Loading %s\n"
+msgstr ""
+"\"%s\n"
+"ལ་ཁུར་སྣོན་བྱེད་བཞིན་པ།"
+
+msgid "Loading Unicode mapping table...\n"
+msgstr "Unicoaརྟེན་འཕྲོ་ཁུར་སྣོན་བྱེད་བཞིན་པ།"
+
+msgid "Loading binary direct-to-font screen map from file %s\n"
+msgstr ""
+"ཡིག་ཆ%sཡི་ཁྲོད་ནས་གཉིས་གོང་འགྲིལ་ལུགས་dirrect-to-"
+"fontབརྙན་ཡོལ་རྟེན་འཕྲོ་ཁུར་སྣོན་བྱེད་བཞིན་ཡོད།\n"
+
+msgid "Loading binary unicode screen map from file %s\n"
+msgstr ""
+"ཡིག་ཆ%sཡི་ཁྲོད་ནས་གཉིས་གོང་འགྲིལ་ལུགས་unicode "
+"བརྙན་ཡོལ་རྟེན་འཕྲོ་ཁུར་སྣོན་བྱེད་བཞིན་ཡོད།\n"
+
+msgid "Loading symbolic screen map from file %s\n"
+msgstr ""
+"ཡིག་ཆ%sཡི་ཁྲོད་ནས་མཚོན་རྟགས་བརྙན་ཡོལ་རྟེན་འཕྲོ་ཁུར་སྣོན་བྱེད་བཞིན་ཡོད།\n"
+
+msgid "Loading unicode map from file %s\n"
+msgstr "ཡིག་ཆ%sཡི་ཁྲོད་ནས་unicode རྟེན་འཕྲོ་ཁུར་སྣོན་བྱེད་བཞིན་ཡོད།\n"
+
+msgid "Meta key gives Esc prefix\n"
+msgstr "Metaམཐེབ་ཀྱིས་Escསྔོན་འཇུག་སྤྲད་པ།\n"
+
+msgid "Meta key sets high order bit\n"
+msgstr "Metaམཐེབ་ལ་ནུས་མཐོའི་གནས་ཞིག་སྡེབ་སྒྲིག་བྱས་ཡོད།\n"
+
+msgid "New default flags:    "
+msgstr "སོར་བཞག་མཚོན་རྟགས་གསར་པ།"
+
+msgid "New flags:            "
+msgstr "མཚོན་རྟགས་གསར་པ།"
+
+msgid "New leds:             "
+msgstr "LEDགསར་པ།"
+
+msgid "No final newline in combine file\n"
+msgstr "ཟླ་བསྒྲིལ་ཡིག་ཆའི་མཇུག་ཏུ་ཕྲེང་གསར་པ་མེད་པ།"
+
+msgid "Old #scanlines: %d  New #scanlines: %d  Character height: %d\n"
+msgstr ""
+"བཤར་འབེབས་རྙིང་པའི་ཕྲེང་གྲངས་ནི་%dདང་། བཤར་འབེབས་གསར་པའི་ཕྲེང་གྲངས་ནི་： %d "
+"ཡིག་རྟགས་ཀྱི་མཐོ་ཚད་ནི་: %d\n"
+
+msgid "Old default flags:    "
+msgstr "སོར་བཞག་མཚོན་རྟགས་རྙིང་པ།"
+
+msgid "Old flags:            "
+msgstr "མཚོན་རྟགས་རྙིང་པ།"
+
+msgid "Old leds:             "
+msgstr "LEDརྙིང་པ།"
+
+msgid "Old mode: %dx%d  New mode: %dx%d\n"
+msgstr "རྣམཔ་རྙིང་པ་ནི།： %dx%dདང་། རྣམ་པ་གསར་པ་ནི།： %dx%d\n"
+
+msgid "Plain scancodes xx (hex) versus keycodes (dec)\n"
+msgstr ""
+"སྤྱིར་བཏང་བཤར་འབེབས་ཨང་xx（བཅུ་དྲུག་གོང་འགྲིལ་ལུགས）ལྟོས་ཟླའི་མཐེབ་རྟགས།（བཅུ་གོང་འགྲིལ་ལུགས་）\n"
+
+msgid "Read %d-char %dx%d font from file %s\n"
+msgstr ""
+"\"ཡིག་ཆ་%4$s ཡི་ཁྲོད་ཡིག་ཚིགས་%1$d-ཡི་ཡིག་གཟུགས་%2$dx%3$d ཀློག་ལེན་བྱེད་བཞིན་པ། \n"
+"\""
+
+msgid "Reading font file %s\n"
+msgstr ""
+"ཡིག་གཟུགས་ཡིག་ཆ་%s\n"
+"ཀློག་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Saved %d-char %dx%d font file on %s\n"
+msgstr ""
+"\"ཡིག་ཚིགས་%d-ཡི་ %dx%d ཡིག་གཟུགས་ཡིག་ཆ་%sརུ་གསོག་ཉར་བྱས་ཟིན།\n"
+"\""
+
+msgid "Saved screen map in `%s'\n"
+msgstr "བརྙན་ཡོལ་རྟེན་འཕྲོ་'%sརུ་བསོག་ཟིན།\n"
+
+msgid "Saved unicode map on `%s'\n"
+msgstr "UnicoIIརྟེན་འཕྲོ་ཡིག་ཆ་ཡིག་ཆའི。ཐངnལ་ཉར་ཚགས་བྱས་ཡོད།"
+
+msgid "Strange ... screen is both %dx%d and %dx%d ??\n"
+msgstr "ཁྱད་མཚར།...བརྙན་ཡོལ་ནི་%dx%dརེད་ལ་%dx%d ？？ཡང་རེད་དམ། \n"
+
+msgid "Strange mode for Meta key?\n"
+msgstr "Metaམཐེབ་ཀྱི་ཁྱད་མཚར་རྣམ་པ་རེད་དམ། \n"
+
+msgid "The keyboard is in Unicode (UTF-8) mode\n"
+msgstr "མཐེབ་གཞོང་ནི་Unicode། (UTF-8）རྣམ་པར་གནས་ཡོད།\n"
+
+msgid "The keyboard is in mediumraw (keycode) mode\n"
+msgstr "མཐེབ་གཞོང་ནི་ཕྱེད་གདོད་མའི་(མཐེབ་རྟགས་)རྣམ་པར་གནས་ཡོད།\n"
+
+msgid "The keyboard is in raw (scancode) mode\n"
+msgstr "མཐེབ་གཞོང་ནི་གདོད་མའི་（བཤར་འབེབས་ཨང་）གནས་ཡོད།\n"
+
+msgid "The keyboard is in some unknown mode\n"
+msgstr "མཐེབ་གཞོང་ནི་ངེས་མེད་ཀྱི་རྣམ་པ་ཞིག་ཏུ་གནས་ཡོད།\n"
+
+msgid "The keyboard is in the default (ASCII) mode\n"
+msgstr "མཐེབ་གཞོང་ནི་སོར་བཞག་（ASCI）རྣམ་པར་གནས་ཡོད།\n"
+
+msgid "Too many files to combine\n"
+msgstr "ཡིག་ཆ་མང་པོ་ཞིག་ཟླ་སྒྲིལ་གཏོང་དགོས།\n"
+
+msgid "Typematic Rate set to %.1f cps (delay = %d ms)\n"
+msgstr ""
+"ཡིག་རྒྱུའི་ནང་འཇུག་མྱུར་ཚད་ %.1f cps（ཕྱིར་འགྱངས་=%d "
+"ms）ལ་སྒྲིག་འགོད་བྱས་ཡོད།\n"
+
+msgid "Usage: kbdrate [-V] [-s] [-r rate] [-d delay]\n"
+msgstr "སྤྱོད་སྟངས།: kbdrate [-V] [-s] [-r མྱུར་ཚད] [-d ཕྱིར་འགྱངས་]\n"
+
+msgid "When loading several fonts, all must be psf fonts - %s isn't\n"
+msgstr ""
+"ཡིག་གཟུགས་མང་པོ་ཞིག་ཁུར་སྣོན་བྱེད་སྐབས་།དེ་དག་ཚང་མ་ངེས་པར་དུ་psfཡིག་གཟུགས་ཡིན་དགོས་པ་ལས་--%sམིན།\n"
+
+msgid "When loading several fonts, all must have the same height\n"
+msgstr ""
+"ཡིག་གཟུགས་མང་པོ་ཞིག་ཁུར་སྣོན་བྱེད་སྐབས་།དེ་དག་ཚང་མ་ངེས་པར་དུ་གཅིག་མཚུངས་ཀྱི་མཐོ་ཚད་ཞིག་དགོས།\n"
+
+msgid "When loading several fonts, all must have the same width\n"
+msgstr ""
+"ཡིག་གཟུགས་མང་པོ་ཞིག་ཁུར་སྣོན་བྱེད་སྐབས་།དེ་དག་ཚང་མ་ངེས་པར་དུ་གཅིག་མཚུངས་ཀྱི་ཞེང་ཚད་ཞིག་དགོས།\n"
+
+msgid "You asked for font size %d, but only 8, 14, 16 are possible here.\n"
+msgstr ""
+"ཁྱེད་རང་ལ་ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་ %dདགོས་བསམ་གྱི་འདུག་མོད། "
+"འོན་ཀྱང་འདིར་8，14，16ལས་འདེམས་མི་རུང་། \n"
+
+msgid "adding map %d violates explicit keymaps line"
+msgstr "རྟེན་འཕྲོད་ %d ཁུར་སྣོན་དེ་འཆར་མཐེབ་རྟེན་འཕྲོའི་ཕྲེང་དང་འགལ་ཡོད།"
+
+msgid "addkey called with bad index %d"
+msgstr "addkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་གསལ་བྱང་བཀོལ་འདུག%d"
+
+msgid "addkey called with bad keycode %d"
+msgstr "addkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་མཐེབ་ཨང་བཀོལ་འདུག%d"
+
+msgid "addkey called with bad table %d"
+msgstr "addkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་རེའུ་མིག་བཀོལ་འདུག%d"
+
+msgid "addmap called with bad index %d"
+msgstr "addkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་གསལ་བྱང་བཀོལ་འདུག%d"
+
+msgid "appendunicode: illegal unicode %u\n"
+msgstr "appendunicode: ཁྲིམས་དང་མི་མཐུན་པའི་ unicode %u\n"
+
+msgid "assuming iso-8859-1 %s\n"
+msgstr ""
+"\"iso-8859-1 %sབཀོལ་སྤྱོད། \n"
+"\""
+
+msgid "assuming iso-8859-15 %s\n"
+msgstr ""
+"\" iso-8859-15 %sབཀོལ་སྤྱོད། \n"
+"\""
+
+msgid "assuming iso-8859-2 %s\n"
+msgstr ""
+"\" iso-8859-2 %sབཀོལ་སྤྱོད། \n"
+"\""
+
+msgid "assuming iso-8859-3 %s\n"
+msgstr ""
+"\" iso-8859-3 %sབཀོལ་སྤྱོད། \n"
+"\""
+
+msgid "assuming iso-8859-4 %s\n"
+msgstr ""
+"\" iso-8859-4 %sབཀོལ་སྤྱོད། \n"
+"\""
+
+msgid "bug: getfont called with count<256\n"
+msgstr "བྱ་རིམ་ནོར་འཁྲུལ། getfont སྐབས་ count<256འདྲེན་སྤྱོད།\n"
+
+msgid "bug: getfont using GIO_FONT needs buf.\n"
+msgstr "བྱ་རིམ་ནོར་འཁྲུལ།  GIO_FONT སྤྱོད་སྐབས་ getfont ལ་ buf.དགོས།\n"
+
+msgid "cannot change translation table\n"
+msgstr "ཡིག་སྒྱུར་རེའུ་མིག་བཟོ་བཅོས་བྱེད་ཐབས་བྲལ་བ།\n"
+
+msgid "cannot open file %s\n"
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ་པ།%s\n"
+
+msgid "cannot open include file %s"
+msgstr "%sའདུས་པའི་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "caught signal %d, cleaning up...\n"
+msgstr "བརྡ་རྟགས་%dཟིན་པ་དང་།གཙང་བཤེར་བྱེད་བཞིན་ཡོད།...\n"
+
+msgid "code outside bounds"
+msgstr "མཐའ་མཚམས་ཕྱིའི་མཐེབ་ཨང་།"
+
+msgid "compose table overflow\n"
+msgstr "ཚན་སྡེབ་རེའུ་མིག་ཕྱིར་ལུད་པ།\n"
+
+msgid "couldn't read %s\n"
+msgstr ""
+"\" %sཀློག་ལེན་བྱེད་ཐབས་བྲལ།\n"
+"\""
+
+msgid "couldn't read %s, and cannot ioctl dump\n"
+msgstr "%sཀློག་ཐབས་བྲལ་པ་མ་ཟད།iooctlསྤོ་གསོག་བྱེད་ཐབས་བྲལ།\n"
+
+msgid "deallocate keymap %d\n"
+msgstr "མཐེབ་རྟེན་འཕྲོ་ %dཕྱིར་བསྡུ།\n"
+
+msgid "definition"
+msgstr "མཚན་ཉིད།"
+
+msgid "definitions"
+msgstr "མཚན་ཉིད།"
+
+msgid "dumpkeys version %s"
+msgstr "dumpkeysཔར་གཞི།%s"
+
+msgid "entries"
+msgstr "བྱ་ར།"
+
+msgid "entry"
+msgstr "ནང་འཇུག"
+
+msgid "error executing  %s\n"
+msgstr " %sལག་བསྟར་ར་འཁྲུལ།\n"
+
+msgid "error reading scancode"
+msgstr "བཤར་འབེབས་ཨང་ཀློག་འདོན་ནོར་འཁྲུལ།"
+
+msgid "even number of arguments expected"
+msgstr "ཆ་གྲངས་ཀྱི་ཞུགས་གྲངས་ཤིག་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "failed to bind key %d to value %d\n"
+msgstr "མཐེབ་%d་ཐང་%d ལ་བཀྱིག་སྦྲེལ་ཕམ་པ།\n"
+
+msgid "failed to bind string '%s' to function %s\n"
+msgstr "ཡིག་རྟགས་ཕྲེང་'%s' རྟེན་འབྱུང་གྲངས་%d ལ་བཀྱིག་སྦྲེལ་ཕམ་པ།\n"
+
+msgid "failed to clear string %s\n"
+msgstr "ཡིག་རྟགས་ཕྲེང་%s གཙང་སེལ་ཕམ་པ།\n"
+
+msgid "failed to get keycode for scancode 0x%x\n"
+msgstr "བཤར་འབེབས་ཨང་0x%x ཡི་མཐེབ་ཨང་ཐོབ་ལེན་ཕམ་པ།\n"
+
+msgid "failed to restore original translation table\n"
+msgstr "གདོད་མའི་ཡིག་སྒྱུར་རེའུ་མིག་སླར་གསོ་ཕམ་པ།\n"
+
+msgid "failed to restore original unimap\n"
+msgstr "གདོད་མའི་unimapསླར་གསོ་ཕམ་པ།\n"
+
+msgid "failed to set scancode %x to keycode %d\n"
+msgstr "བཤར་འབེབས་ཨང་%x མཐེབ་ཨང་%dརུ་སགྲིག་འགོད་ཕམ་པ།\n"
+
+msgid "for 1-%d (0x01-0x%02x) scancode equals keycode\n"
+msgstr "1-%d། (0x01-0x%02x)ཡི་བཤར་འབེབས་ཨང་ནི་མཐེབ་ཨང་དང་མཚུངས།\n"
+
+msgid "impossible error in do_constant"
+msgstr "do_constant ཡི་ཁྲོད་དུ་འབྱུང་མི་སྲིད་པའི་ནོར་འཁྲུལ་བྱུང་བ་རེད།"
+
+msgid "impossible: not meta?\n"
+msgstr "དཔེ་མི་སྲིད།metaམཐེབ་མ་རེད་དམ། \n"
+
+msgid "includes are nested too deeply"
+msgstr "འདུས་པའི་ཡིག་ཆའི་སྐོང་ཛུད་ཟབ་དྲགས་པ།"
+
+msgid "kb mode was %s\n"
+msgstr "མཐེབ་གཞོང་རྣམ་པ་རྙིང་པ་ནི་%sརེད།\n"
+
+msgid "kbd_mode: error reading keyboard mode\n"
+msgstr "bd-mod-mode:མཐེབ་གཞོང་རྣམ་པ་ཀློག་ལེན་ནོར་འཁྲུལ་བྱུང་བ།\n"
+
+msgid "key"
+msgstr "མཐེབ་གནོན།"
+
+msgid "key bindings not changed\n"
+msgstr "མཐེབ་སྦྲེལ་ལ་འགྱུར་ལྡོག་བཏང་མེད་པ།\n"
+
+msgid "keycode %3d %s\n"
+msgstr ""
+"\"མཐེབ་ཨང་ %3d %s\n"
+"\""
+
+msgid "keycode %d, table %d = %d%s\n"
+msgstr ""
+"\"མཐེབ་ཨང་ %d, རེའུ་མིག་ %d = %d%s\n"
+"\""
+
+msgid "keycode range supported by kernel:           1 - %d\n"
+msgstr "ནང་ཉིང་རྒྱབ་སྐྱོར་གྱི་མཐེབ་ཨང་ཁྱབ་ཁོངས།:           1 - %d\n"
+
+msgid "keys"
+msgstr "མཐེབ།"
+
+msgid "killkey called with bad index %d"
+msgstr "killkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་གསལ་བྱང་%dབཀོལ་བ།"
+
+msgid "killkey called with bad table %d"
+msgstr "killkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་རེའུ་མིག་%dབཀོལ་བ།"
+
+msgid "loadkeys: don't know how to compose for %s\n"
+msgstr "loadkeys:ཇི་ལྟར་བྱས་ནས་%sལ་སྡེབ་སྒྲིག་བྱ་དགོས་མིན་མི་ཤེས།\n"
+
+msgid "mapscrn: cannot open map file _%s_\n"
+msgstr "mapscrn: རྟེན་འཕྲོ་ཡིག་ཆ་_%s_ཁ་ཕྱེ་ཐབས་བྲལ་པ།\n"
+
+msgid "max nr of compose definitions: %d\n"
+msgstr "སྡེབ་སྒྲིག་མཚན་ཉིད་ཀྱི་ཆེས་ཆེ་བའི་གྲངས།: %d\n"
+
+msgid "max number of actions bindable to a key:         %d\n"
+msgstr ""
+"མཐེབ་གནོན་གཅིག་གི་སྟེང་དུ་སྦྲེལ་རུང་བའི་འགུལ་སྟངས་ཀྱི་ཆེས་ཆེ་བའི་གྲངས་ཀ："
+"         %d\n"
+
+msgid "new state:    "
+msgstr "རྣམ་པ་གསར་པ།"
+
+msgid "nr of compose definitions in actual use: %d\n"
+msgstr "དངོས་སུ་བེད་སྤྱོད་པའི་སྡེབ་སྒྲིག་མཚན་ཉིད་ཀྱི་གྲངས་ཀ: %d\n"
+
+msgid "number of function keys supported by kernel: %d\n"
+msgstr "ནང་སྙིང་གིས་རྒྱབ་སྐྱོར་བྱེད་པའི་བྱེད་ལས་མཐེབ་ཀྱི་གྲངས།: %d\n"
+
+msgid "number of keymaps in actual use:                 %d\n"
+msgstr "དངོས་སུ་བེད་སྤྱོད་པའི་མཐེབ་རྟེན་འཕྲོའི་གྲངས་ཀ:                 %d\n"
+
+msgid "of which %d dynamically allocated\n"
+msgstr "ཁྲོད་ཀྱི་%d ནི་འགུལ་རྣམ་ལ་གཞིགས་ནས་བགོས།\n"
+
+msgid "off"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "old state:    "
+msgstr "རྣམ་པརྙིང་པ།"
+
+msgid "press"
+msgstr "མར་གནོན།"
+
+msgid "press any key (program terminates 10s after last keypress)...\n"
+msgstr ""
+"མཐེབ་གང་རུང་ཞིག་ནོན།(མཐེབ་གནོན་ཐེངས་སྔོན་མའི་སྐར་ཆ་10ཡི་རྗེས་སུ་བྱ་རིམ་མཇུག་སྒྲིལ།)...\n"
+
+msgid "ranges of action codes supported by kernel:\n"
+msgstr "ནང་ཉིང་གིས་རྒྱབ་སྐྱོར་བྱེད་པའི་བྱ་སྤྱོད་ཀྱི་ཁྱབ་ཁོངས།:\n"
+
+msgid "release"
+msgstr "གྲོལ་གཏོང་།"
+
+msgid "resizecons: cannot find videomode file %s\n"
+msgstr ""
+"\"resizecons:  videomode ཡིག་ཆ་ %sརྙེད་ཐབས་བྲལ།\n"
+"\""
+
+msgid "resizecons: cannot get I/O permissions.\n"
+msgstr ""
+"\"resizecons:  I/O དབང་ཚད་ཐོབ་ཐབས་བྲལ།\n"
+"\""
+
+msgid ""
+"resizecons: don't forget to change TERM (maybe to con%dx%d or linux-%dx%d)\n"
+msgstr ""
+"Resizecons TERMབཟོ་བཅོས་རྒྱག་རྒྱུ་བརྗེད་མི་རུང་།( con%dx%d ཡང་ན་ "
+"linux-%dx%dརུ་བཅོས་ཡོད་སྲིད།)\n"
+
+msgid "resizecons: the command `%s' failed\n"
+msgstr ""
+"\"resizecons: བཀའ་བརྡ་ '%s' ཕམ་པ།\n"
+"\""
+
+msgid ""
+"setfont: cannot both restore from character ROM and from file. Font "
+"unchanged.\n"
+msgstr ""
+"setfont: ཡིག་རྟགསROMནས་སླར་གསོ་བྱས་ཏེ་སླར་ཡང་ཡིག་ཆ་ནས་སླར་གསོ་བྱེད་ཐབས་བྲལ། "
+"ཡིག་གཟུགས་མི་འགྱུར། \n"
+
+msgid "setfont: too many input files\n"
+msgstr ""
+"setfont:ནང་འཇུག་ཡིག་ཆ་ཧ་ཅང་མང་པོ།\n"
+"\""
+
+msgid "string"
+msgstr "ཡིག་རྟགས་ཕྲེང་།"
+
+msgid "strings"
+msgstr "ཡིག་རྟགས་ཕྲེང་གྲངས།"
+
+msgid "switching to %s\n"
+msgstr ""
+"%s\n"
+"ལ་བརྗེ་བ།"
+
+msgid "syntax error in map file\n"
+msgstr "རྟེན་འཕྲོ་ཡིག་ཆའི་ཁྲོད་བརྡ་སྤྲོད་ཀྱི་ནོར་འཁྲུལ་ཡོད་པ།\n"
+
+msgid "too many (%d) entries on one line"
+msgstr "ཕྲེང་གཅིག་གི་སྟེང་དུ་གནས་པའི་བྱ་ར་། ( %d 个) ཧ་ཅང་མང་པོ།"
+
+msgid "too many compose definitions\n"
+msgstr "ཚན་སྡེབ་མཚན་ཉིད་མང་དྲགས་པ།\n"
+
+msgid "too many key definitions on one line"
+msgstr "ཐིག་ཕྲེང་གཅིག་གི་སྟེང་དུ་མཐེབ་ཀྱི་མཚན་ཉིད་མང་པོ་འདུག"
+
+msgid "unknown charset %s - ignoring charset request\n"
+msgstr "ངེས་མེད་ཀྱི་ཡིག་རྟགས་ཚོགས་%s - ཡིག་རྟགས་ཚོགས་ཀྱི་རེ་ཞུ་སྣང་མེད་བྱས།\n"
+
+msgid "unknown keysym '%s'\n"
+msgstr "ངེས་མེད་ཀྱི་keysym%s.n"
+
+msgid "usage: %s\n"
+msgstr "སྤྱོད་སྟངས།: %s\n"
+
+msgid "usage: %s [-v] [-o map.orig] map-file\n"
+msgstr "སྤྱོད་སྟངས།%s[-v][-oགདོད་མའི་རྟེན་འཕྲོ།]རྟེན་འཕྲོའི་ཡིག་ཆ།\n"
+
+msgid "usage: chvt N\n"
+msgstr "སྤྱོད་སྟངས།: chvt N\n"
+
+msgid "usage: getkeycodes\n"
+msgstr ""
+"སྤྱོད་སྟངས།: getkeycodes\n"
+"\""
+
+msgid "usage: kbd_mode [-a|-u|-k|-s] [-C device]\n"
+msgstr "སྤྱོད་སྟངས།: kbd_mode [-a|-u|-k|-s] [-C སྒྲིག་ཆས]\n"
+
+msgid "usage: screendump [n]\n"
+msgstr "སྤྱོད་སྟངས།: screendump [n]\n"

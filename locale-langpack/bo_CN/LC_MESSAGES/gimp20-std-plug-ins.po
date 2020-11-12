@@ -1,0 +1,8520 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " (Height Mismatch!) "
+msgstr "( མཐོ་ཚད་ཟླ་སྒྲིག་མེད་པ )"
+
+msgid " (Width Mismatch!) "
+msgstr "( ཞེང་ཚད་ཟླ་སྒྲིག་མེད་པ )"
+
+msgid " Columns on each layer"
+msgstr "གཞུང་སྟར་རེ་རེའི་རིས་རིམ།"
+
+msgid " Rows of "
+msgstr "ཕྲེད་སྟར།"
+
+msgid "# of Spikes:"
+msgstr "འོད་ཟེར་གྲངས་ཚད།:"
+
+msgid "%d fps"
+msgstr "%d fps"
+
+msgid "%d plug-in"
+msgid_plural "%d plug-ins"
+msgstr[0] "བསྒར་ལྷུ་%d"
+msgstr[1] "བསྒར་ལྷུ་%d"
+
+msgid "%d plug-in matches your query"
+msgid_plural "%d plug-ins match your query"
+msgstr[0] "བསྡོམས་བསྒར་ལྷུ %d དང་ཁྱེད་ཀྱི་འདྲི་རྩད་ཟླ་སྒྲིག་བྱས་པ།"
+msgstr[1] "བསྡོམས་བསྒར་ལྷུ %d དང་ཁྱེད་ཀྱི་འདྲི་རྩད་ཟླ་སྒྲིག་བྱས་པ།"
+
+msgid "%d × %d"
+msgstr "%d x %d"
+
+msgid "%s-%d-of-%d-pages"
+msgstr "%s- ཤོག་གྲངས %d བསྡམས་ཤོག་གྲངས་ %d"
+
+msgid "%s-%s"
+msgstr "%s-%s"
+
+msgid "%s-pages"
+msgstr "ཤོག་གྲངས་ %s"
+
+msgid "'%s' does not appear to be an ICC color profile"
+msgstr "“%s” ICC ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་མིན་པ་འདྲ།"
+
+msgid "'%s' is corrupt. Line %d Option section incorrect"
+msgstr "“%s” སྐྱོན་ཤོར་ཟིན། ཕྲེང་ཨང་ %d ཡི་འདེམས་ཚན་ཆ་ཤས་ལ་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "'%s' is not a DICOM file."
+msgstr "“%s” ནི་ཡིག་ཆ DICOM མིན་པ།"
+
+msgid "'%s' is not a FractalExplorer file"
+msgstr "“%s” ནི་དབྱིབས་འབྱེད་འཚོལ་ཞིབ་ཆས་ཀྱི་ཡིག་ཆ་ཞིག་མིན།"
+
+msgid "'%s' is not a PCX file"
+msgstr "“%s” ནི་ཡིག་ཆ PCX མིན།"
+
+msgid "'%s' is not a regular file"
+msgstr "“%s” ནི་སྤྱིར་བཏང་གི་ཡིག་ཆ་མིན་པ།"
+
+msgid "'%s' is not a valid BMP file"
+msgstr "“%s” ནི་ནུས་ལྡན་གྱི་ཡིག་ཆ BMP མིན་པ།"
+
+msgid "'%s' is not a valid GFlare file."
+msgstr "“%s” ནི་ནུས་ལྡན་གྱི་རིམ་འགྱུར་འོད་འཁྱུག་གི་ཡིག་ཆ་མིན་པ།"
+
+msgid "'%s' is not a valid X cursor."
+msgstr "“%s” ནི་ནུས་ལྡན་གྱི་འོད་རྟགས X མིན་པ།"
+
+msgid "(None)"
+msgstr "(མེད།)"
+
+msgid "(timeout is %d second)"
+msgid_plural "(timeout is %d seconds)"
+msgstr[0] "( དུས་བརྒལ་སྐར་ཆ %d )"
+msgstr[1] "( དུས་བརྒལ་སྐར་ཆ %d )"
+
+msgid "1 bpp, 1-bit alpha, 2-slot palette"
+msgstr "1 bpp，གནས 1 alpha，ཚོན་གཞོང་ཚན་པ 2 "
+
+msgid "16 bits"
+msgstr "16གནས།"
+
+msgid "24 bits"
+msgstr "གནས་ 24"
+
+msgid "24 bpp, 1-bit alpha, no palette"
+msgstr "24 bppགནས 1 alpha，ཚོན་གཞོང་མེད་པ།"
+
+msgid "32 bits"
+msgstr "32གནས།"
+
+msgid "32 bpp, 8-bit alpha, no palette"
+msgstr "32 bppགནས 8 alpha，ཚོན་གཞོང་མེད་པ།"
+
+msgid "4 bpp, 1-bit alpha, 16-slot palette"
+msgstr "4 bpp，གནས་ 1 alpha，ཚོན་གཞོང་ཚན་པ་ 16"
+
+msgid "8 bpp, 1-bit alpha, 256-slot palette"
+msgstr "8 bppགནས 1 alphaཚོན་གཞོང་ཚན་པ་ 256"
+
+msgid "<Untitled>"
+msgstr "<མིང་བཏགས་མེད།>"
+
+msgid "A network error occurred: %s"
+msgstr "དྲ་རྒྱའི་ནོར་འཁྲུལ་བྱུང་བ།:%s"
+
+msgid "A read error occurred."
+msgstr "ཀློག་ལེན་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "A sharing violation occurred."
+msgstr "མཉམ་སྤྱོད་གདོང་གཏུག་བྱུང་བ།"
+
+msgid ""
+"A unit definition will only be saved before GIMP exits if this column is "
+"checked."
+msgstr ""
+"གཞུང་སྟར་འདི་བདམས་པ་ཁོ་ནས་ GIMP "
+"ཕྱིར་འཐེན་སྐབས་ད་གཟོད་འཇལ་བྱེད་འདི་ཉར་ཚགས་བྱེད་པ་ཡིན།"
+
+msgid "ALT Text"
+msgstr "ཚབ་བྱེད་ཡི་གེ། (ALT)"
+
+msgid "ALT te_xt: (optional)"
+msgstr "ཡི་གེ ALT (_X)：( འདེམས་རུང་བ )"
+
+msgid "ASCII art"
+msgstr "ASCII སྒྱུ་རྩལ།"
+
+msgid "A_daptive supersampling"
+msgstr "རང་འཚམ་རིམ་བརྒལ་གྱི་དཔེ་སྒྲུག (_D)"
+
+msgid "A_dd"
+msgstr "ཁ་སྣོན།"
+
+msgid "A_dd border"
+msgstr "མཐའ་སྒྲོམ་སྣོན་པ། (_D)"
+
+msgid "A_ll"
+msgstr "ཚང་མ། (_L)"
+
+msgid "A_ll tiles"
+msgstr "རྡོག་ཆུང་ཚང་མ། (_L)"
+
+msgid "A_lpha-weighting"
+msgstr "Alpha དབང་སྣོན། (_L)"
+
+msgid "A_lpha:"
+msgstr "A_lpha："
+
+msgid "A_mbient:"
+msgstr "ཁོར་ཡུག (_M)："
+
+msgid "A_mount:"
+msgstr "གྲངས་ཚད། (_M)："
+
+msgid "A_mplitude:"
+msgstr "ཁོད་རྒྱ། (_M)："
+
+msgid "A_ngle:"
+msgstr "ཟུར་ཚད། (_N)："
+
+msgid "A_nimate"
+msgstr "འགུལ་རིས། (_N)"
+
+msgid "A_ppend"
+msgstr "ཁ་སྣོན། (_P)"
+
+msgid "A_uto update preview"
+msgstr "རང་འགུལ་གསར་སྒྱུར་གྱི་སྔོན་ལྟ། (_U)"
+
+msgid "A_verage under brush"
+msgstr "རིས་པིར་གཤམ་གྱི་ཆ་སྙོམས་གྲངས་བྲིན། (_V)"
+
+msgid "Abbreviation"
+msgstr "བསྡུས་འབྲི།"
+
+msgid "According to the EXIF data, this image is rotated."
+msgstr "གཞི་གྲངས EXIF ལྟར་ན་བརྙན་རིས་འདི་འཁྱིལ་འཁོར་ཟིན་པ།"
+
+msgid "Action"
+msgstr "འགུལ་སྟངས།"
+
+msgid "Ad_vanced"
+msgstr "མཐོ་རིམ། (_V)"
+
+msgid "Adaptive"
+msgstr "འཚམ་པ།"
+
+msgid "Adaptive s_upersample"
+msgstr "རང་འཚམ་རིམ་བརྒལ་དཔེ་སྒྲུག (_U)"
+
+msgid "Add Additional Guides"
+msgstr "འཕར་མའི་ཟུར་ལྟའི་ཐིག་སྣོན་པ།"
+
+msgid "Add FractalExplorer Path"
+msgstr "དབྱིབས་འབྱེད་འཚོལ་ཞིབ་ཆས་ཀྱི་བརྒྱུད་ལམ་སྣོན་པ།"
+
+msgid "Add a New Unit"
+msgstr "འཇལ་བྱེད་གསར་པ་སྣོན་པ།"
+
+msgid "Add a canvas texture to the image"
+msgstr "བརྙན་རིས་ལ་རིས་གཞིའི་ཁྲ་རིས་སྣོན་པ།"
+
+msgid "Add a jigsaw-puzzle pattern to the image"
+msgstr "བརྙན་རིས་ལ་རིས་བསྒྲིག་རྩེད་ཆས་ཀྱི་དཔེ་རིས་སྣོན་པ།"
+
+msgid "Add a lens flare effect"
+msgstr "ཤེལ་མགོའི་འོད་འཁྱིམས་འབྲས་བུ་སྣོན་པ།"
+
+msgid "Add a starburst to the image"
+msgstr "བརྙན་རིས་ལ་སྐར་གཏུམ་འབྲས་བུ་སྣོན་པ།"
+
+msgid "Add new smvector"
+msgstr "ཆེ་ཆུང་ཕྱོགས་ཚད་གསར་པ་སྣོན་པ།"
+
+msgid "Add new vector"
+msgstr "ཕྱོགས་ཚད་གསར་པ་སྣོན་པ།"
+
+msgid "Adding blinds"
+msgstr "སུལ་མང་སྒེའུ་ཁུང་སྣོན་པ།"
+
+msgid "Adding checkerboard"
+msgstr "འགྱིག་གཞོང་སྣོན་པ།"
+
+msgid "Adding noise"
+msgstr "འཛེར་སྒྲ་སྣོན་པ།"
+
+msgid "Addition"
+msgstr "སྣོན་པ།"
+
+msgid "Adds a shadow effect to each brush stroke"
+msgstr "སྨྱུག་རིས་རེ་རེ་ལ་གྲིབ་ནག་འབྲས་བུ་སྣོན་པ།"
+
+msgid "Adds random noise to the color"
+msgstr "ཁ་དོག་ལ་སྐབས་བསྟུན་གྱི་འཛེར་སྒྲ་སྣོན་པ།"
+
+msgid "Adjust how much the hue should be changed randomly"
+msgstr "ཚོས་གཞིའི་སྐབས་བསྟུན་ཚད་ཀྱི་ཆེ་ཆུང་ལེགས་སྒྲིག་བྱེད་པ།"
+
+msgid "Adjust how much the saturation should be changed randomly"
+msgstr "ཚད་ལོངས་ཚད་ཀྱི་སྐབས་བསྟུན་ཚད་ཀྱི་ཆེ་ཆུང་ལེགས་སྒྲིག་བྱེད་པ།"
+
+msgid "Adjust page size and orientation for printing"
+msgstr "པར་འདེབས་ལྡེབ་ངོས་ཀྱི་ཆེ་ཆུང་དང་ཁ་ཕྱོགས་ལེགས་སྒྲིག་བྱེད་པ།"
+
+msgid "Adjust the flare intensity"
+msgstr "འོད་འཁྱུག་དྲག་ཚད་ལེགས་སྒྲིག"
+
+msgid "Adjust the luminosity threshold"
+msgstr "འོད་འཕྲོ་ཚད་ཀྱི་མཚམས་ཐང་ལེགས་སྒྲིག"
+
+msgid "Adjust the number of spikes"
+msgstr "སྙེ་མའི་གྲངས་ཚད་ལེགས་སྒྲིག"
+
+msgid "Adjust the opacity of the spikes"
+msgstr "སྙེ་མའི་མི་གསལ་ཚད་ལེགས་སྒྲིག"
+
+msgid "Adjust the preview's brightness"
+msgstr "སྔོན་ལྟའི་གསལ་ཚད་ལེགས་སྒྲིག"
+
+msgid "Adjust the spike angle (-1 causes a random angle to be chosen)"
+msgstr "སྙེ་མའི་ཟུར་ཚད་ལེགས་སྒྲིག ( -1 ཡིས་སྐབས་བསྟུན་བདམས་པའི་ཟུར་ཚད་ཚོན་པ )"
+
+msgid "Adjust the spike density"
+msgstr "སྙེ་མའི་སྟུག་ཚད་ལེགས་སྒྲིག"
+
+msgid "Adjust the spike length"
+msgstr "སྙེ་མའི་རིང་ཚད་ལེགས་སྒྲིག"
+
+msgid "Advanced Filter Pack Options"
+msgstr "མཐོ་རིམ་མཉམ་སྒྲིག་འཚག་ཤེལ་གྱི་འདེམས་ཚན།"
+
+msgid "Advanced Options"
+msgstr "མཐོ་རིམ་འདེམས་ཚན།"
+
+msgid "Affected Range"
+msgstr "ཤུགས་རྐྱེན་ཁྱབ་ཁོངས།"
+
+msgid ""
+"After the delay, drag your mouse to select the region for the screenshot."
+msgstr ""
+"ཕྱི་འགྱངས་བྱས་རྗེས། "
+"ཁྱེད་ཀྱི་ཙིག་མདའ་འདྲུད་ནས་བརྙན་ཡོལ་གྱི་བཅད་རིས་ཁྱབ་ཁོངས་འདེམ་པ།"
+
+msgid "After the delay, the screenshot is taken."
+msgstr "ཕྱི་འགྱངས་བྱས་རྗེས། བརྙན་ཡོལ་བཅད་རིས་ཐོབ་འཐུབ།"
+
+msgid "Al_ternate"
+msgstr "རེས་མོས། (_T)"
+
+msgid "Al_ternate tiles"
+msgstr "རེས་མོས་ཀྱི་རྡོག་ཆུང་། (_T)"
+
+msgid "Algorithm"
+msgstr "རྩི་ཐབས།"
+
+msgid "Alias Pix image"
+msgstr "མིང་གཞན་ལ་བརྙན་རིས་ Pix"
+
+msgid "Alien Map"
+msgstr "རྟེན་འཕྲོ་ཁྱད་མཚར།"
+
+msgid "Alien Map: Transforming"
+msgstr "རྟེན་འཕྲོ་ཁྱད་མཚར：བརྗེ་བསྒྱུར།"
+
+msgid "Align Visi_ble Layers..."
+msgstr "མཐོང་རུང་གི་རིས་རིམ་སྙོམ་པ། (_B)"
+
+msgid "Align Visible Layers"
+msgstr "མཐོང་རུང་རིས་རིམ་སྙོམ་པ།"
+
+msgid "Align all visible layers of the image"
+msgstr "བརྙན་རིས་ཀྱི་མཐོང་རུང་རིས་རིམ་ཚང་མ་སྙོམ་པ།"
+
+msgid "All JNG"
+msgstr "JNG ཚང་མ། "
+
+msgid "All PNG"
+msgstr "PNG ཚང་མ།"
+
+msgid "All Values are Fractions of the Strip Height"
+msgstr "གྲངས་བྲིན་ཚང་མ་ནི་སྤྱིན་ཤོག་མཐོ་ཚད་ཀྱི་སྐར་གྲངས་རེད།"
+
+msgid "All black"
+msgstr "ཡོངས་སུ་ནག་པོ།"
+
+msgid "All files (*.*)"
+msgstr "ཡིག་ཆ་ཚང་མ། (*.*)"
+
+msgid "All gray"
+msgstr "ཚང་མ་སྐྱ་མདོག"
+
+msgid "All white"
+msgstr "ཚང་མ་དཀར་པོ།"
+
+msgid "Allo_w tile splitting"
+msgstr "རྫ་ལེབ་བཅད་ཆོག་པ། (_W)"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Alpha Channels"
+msgstr "རྒྱུ་ལམ Alpha"
+
+msgid "Alpha channel will be ignored."
+msgstr "རྒྱུ་ལམ Alpha སྣང་མེད་དུ་བཏང་བ།"
+
+msgid "Alter colors by mixing RGB Channels"
+msgstr "མཉམ་བསྲེས RGB ཡི་རྒྱུ་ལམ་ཁ་དོག་བརྗེ་བསྒྱུར་བྱེད་པ།"
+
+msgid "Alter colors in various psychedelic ways"
+msgstr "རིགས་མང་པོའི་འཕྲུལ་བའི་ཚུལ་གྱི་ཁ་དོག་བརྗེ་བསྒྱུར་བྱེད་པ།"
+
+msgid "Alters edges to make the image seamlessly tileable"
+msgstr ""
+"བརྙན་རིས་ཀྱི་མུ་འགྲམ་བཟོ་བཅོས་བྱས་ནས་བརྙན་རིས་དེ་ཚགས་མེད་སྙོམས་འདིང་ཐུབ་པར་བྱེད་དགོས།"
+
+msgid "Ambient:"
+msgstr "ཁོར་ཡུག ："
+
+msgid "Amount of original color to show where no direct light falls"
+msgstr "ཐད་ཀར་འོད་ཐིག་འཕྲོས་མེད་པའི་སྐབས་ཀྱི་གདོད་མའི་ཁ་དོག་ཀྱིས་མངོན་པའི་ཚད།"
+
+msgid "Amount:"
+msgstr "ཚད།:"
+
+msgid "An error occurred while trying to print:"
+msgstr "པར་འདེབས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།:"
+
+msgid "Analyze the set of colors in the image"
+msgstr "བརྙན་རིས་ནང་གི་ཁ་དོག་ཚོགས་སྤྱི་དབྱེ་ཞིབ་བྱེད་པ།"
+
+msgid "Ang_le offset:"
+msgstr "ཟུར་ཚད་ཡོ་སྤོ། (_L)："
+
+msgid "Angle span:"
+msgstr "ཟུར་ཚད་བར་ཐག།："
+
+msgid "Angle:"
+msgstr "ཟུར་ཚད།:"
+
+msgid "Angular gradient:"
+msgstr "ཟུར་ཚད་རིམ་འགྱུར།:"
+
+msgid "Angular size gradient:"
+msgstr "ཟུར་ཚད་ཆེ་ཆུང་གི་རིམ་འགྱུར།:"
+
+msgid "Animated MNG Options"
+msgstr "འགུལ་རིས MNG ཡི་འདེམས་ཚན།"
+
+msgid "Animation Playback:"
+msgstr "འགུལ་རིས་སླར་གཏོང་།:"
+
+msgid "Antialias using the Scale3X edge-extrapolation algorithm"
+msgstr "མུ་འགྲམ་འཇམ་སྙོམས་ཀྱིས་ Scale3X མུ་འགྲམ་ཕྱི་འདེད་རྩི་ཐབས་སྤྱོད་པ།"
+
+msgid "Antialiasing"
+msgstr "མུ་འགྲམ་འཇམ་སྙོམས།"
+
+msgid "Antialiasing quality. Higher is better, but slower"
+msgstr ""
+"ལྡོག་པའི་སོག་ལེའི་ཁ་ཡི་སྤུས་ཚད། དེ་ཇི་ཙམ་ཆེ་ན་སྤུས་ཚད་དེ་ཙམ་གྱི་བཟང་། "
+"འོན་ཀྱང་ཡང་དེ་ཙམ་གྱིས་དལ་བ་ཡོད།"
+
+msgid "Antialiasing..."
+msgstr "མུ་འགྲམ་འཇམ་སྙོམས།…"
+
+msgid "Applies the paper as it is (without embossing it)"
+msgstr "སྔར་ལྟར་རིས་ཤོག་བཀོལ་སྤྱོད་བྱེད་པ། ( འབུར་བརྐོས་འབྲས་བུ་མིན་པ )"
+
+msgid "Apply Canvas"
+msgstr "རིས་གཞི་བཀོལ་སྤྱོད།"
+
+msgid "Apply _Lens..."
+msgstr "རྒྱུ་ཤེལ་བཀོལ་སྤྱོད། (_L)..."
+
+msgid "Apply a color profile on the image"
+msgstr "བརྙན་རིས་སྟེང་ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་བཀོལ་སྤྱོད་བྱེད་པ།"
+
+msgid "Apply a gaussian blur"
+msgstr "ཀོ་སིན་རབ་རིབ་བཀོལ་སྤྱོད།"
+
+msgid "Apply a generic 5x5 convolution matrix"
+msgstr "སྤྱིར་བཏང་གི 5x5 དྲིལ་བསགས་ལིང་ཚེ་བཀོལ་སྤྱོད་བྱེད་པ།"
+
+msgid "Apply active gradient to final image"
+msgstr "བྱ་བྱེད་རིམ་འགྱུར་དེ་ཆེས་མཐའ་མའི་བརྙན་རིས་ལ་བཀོལ་སྤྱོད་བྱེད་པ།"
+
+msgid "Apply currently selected fractal"
+msgstr "མིག་སྔར་བདམས་པའི་དབྱིབས་འབྱེད་བཀོལ་སྤྱོད་བྱེད་པ།"
+
+msgid "Apply various lighting effects to an image"
+msgstr "བྱ་བྱེད་འོད་འཕྲོའི་འབྲས་བུ་དེ་བརྙན་རིས་ལ་བཀོལ་སྤྱོད་བྱེད་པ།"
+
+msgid "Applying canvas"
+msgstr "རིས་གཞི་བཀོལ་སྤྱོད།"
+
+msgid "Applying convolution"
+msgstr "དྲིལ་བསགས་བཀོལ་སྤྱོད།"
+
+msgid "Applying filter pack"
+msgstr "མཉམ་སྒྲིག་འཚག་ཤེལ་བཀོལ་སྤྱོད།"
+
+msgid "Applying lens"
+msgstr "རྒྱུ་ཤེལ་བཀོལ་སྤྱོད།"
+
+msgid "Are you sure you want to delete \"%s\" from the list and from disk?"
+msgstr "ཁྱེད་ཀྱིས་རེའུ་མིག་དང་སྡུད་སྡེར་ནང་ནས “%s” སུབ་བམ།"
+
+msgid "Area"
+msgstr "ས་ཁོངས།"
+
+msgid "Area #%d Settings"
+msgstr "ཁུལ་ཁོངས #%d ཡི་སྒྲིག་འགོད།"
+
+msgid "Area List"
+msgstr "ཁུལ་ཁོངས་རེའུ་མིག"
+
+msgid "Area Settings"
+msgstr "ཁུལ་ཁོངས་སྒྲིག་འགོད།"
+
+msgid "Area:"
+msgstr "ཁུལ་ཁོངས།:"
+
+msgid "Arrow"
+msgstr "མདའ་རྩེ།"
+
+msgid "As specified above"
+msgstr "གོང་གི་སྒྲིག་པ་ལྟར།"
+
+msgid "Ascii"
+msgstr "ASCII"
+
+msgid "Aspect ratio:"
+msgstr "མཐོ་ཞེད་ཀྱི་བསྡུར་ཚད།"
+
+msgid "Assembling jigsaw"
+msgstr "སྒྲིག་རིས་སྒྲིག་སྦྱོར།"
+
+msgid "Assign"
+msgstr "མངག་གཏོང་།"
+
+msgid "Assign ICC Color Profile"
+msgstr "ICC ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་མངག་གཏོང་། "
+
+msgid "Assign default RGB Profile"
+msgstr "སོར་བཞག་ཚོན་མདོག་གི་སྡེབ་སྒྲིག་ཡིག་ཆ་བགོ་བཤའ་བྱེད་པ། (_A)…"
+
+msgid "Asymmetry:"
+msgstr "ཆ་འགྲིག་མིན་པའི་ཚད།:"
+
+msgid "At _bottom"
+msgstr "མཐིལ་ངོས་སུ། (_B)"
+
+msgid "At _top"
+msgstr "རྩེ་ངོས་སུ། (_T)"
+
+msgid "At least one image is needed to compose"
+msgstr "འདྲེས་གྲུབ་བྱེད་པར་ཉུང་མཐར་ཡང་བརྙན་རིས་ཤིག་དགོས།"
+
+msgid "At the end of the delay, click in a window to snap it."
+msgstr "ཕྱི་འགྱངས་མཇུག་སྒྲིལ་སྐབས་སྒེའུ་ཁུང་ཞིག་གི་ནང་གནོན་ནས་དེ་འཛིན་དགོས།"
+
+msgid "Aut_hor:"
+msgstr "རྩོམ་པ་པོ། (_H)："
+
+msgid "Auto-Stretching HSV"
+msgstr "HSV རང་འགུལ་འཐེན་རྐྱོང་། "
+
+msgid "Auto-stretching contrast"
+msgstr "རང་འགུལ་འཐེན་རྐྱོང་གི་སྡུར་ཚད།"
+
+msgid "AutoDesk FLIC animation"
+msgstr "AutoDesk FLIC འགུལ་རིས།"
+
+msgid "Autocrop Imag_e"
+msgstr "རང་འགུལ་དྲས་གཏུབ་ཀྱི་བརྙན་རིས། (_E)"
+
+msgid "Autocrop Lay_er"
+msgstr "རང་འགུལ་དྲས་གཏུབ་ཀྱི་རིས་རིམ། (_E)"
+
+msgid "Autocrop unused space from edges and middle"
+msgstr ""
+"མུ་འགྲམ་དང་དཀྱིལ་ནས་བེད་སྤྱད་མེད་པའི་བར་སྟོང་དེ་རང་འགུལ་དྲས་གཏུབ་བྱེད་པ།"
+
+msgid "Automatic"
+msgstr "རང་འགུལ།"
+
+msgid "Automatic pre_view"
+msgstr "སྔོན་ལྟ་རང་འགུལ་གསར་སྒྱུར། (_V)"
+
+msgid "Available images:"
+msgstr "སྤྱོད་རུང་གི་བརྙན་རིས།:"
+
+msgid "B, G, R, X (BMP style)"
+msgstr "B，G，R，X( བཟོ་ཉམས BMP )"
+
+msgid "B/W"
+msgstr "ནག་པོ / དཀར་པོ།"
+
+msgid "BMP"
+msgstr "BMP"
+
+msgid "B_lack pullout (%):"
+msgstr "ནག་པོའི་ཚད། (%)(_L)："
+
+msgid "B_lue threshold:"
+msgstr "སྔོན་པོའི་མཚམས་ཐང་། (_L)："
+
+msgid "Bac_kground color"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག (_K)"
+
+msgid "Back:"
+msgstr "རྗེས།："
+
+msgid "Background"
+msgstr "རྒྱབ་ལྗོངས།"
+
+msgid "Background (%d%s)"
+msgstr "རྒྱབ་ལྗོངས། (%d%s)"
+
+msgid "Background Color"
+msgstr "རྒྱབ་ལྗོངས་མདོག"
+
+msgid "Background Type"
+msgstr "རྒྱབ་ལྗོངས་རིགས་གྲས།"
+
+msgid "Background:"
+msgstr "རྒྱབ་ལྗོངས།："
+
+msgid "Bad colormap"
+msgstr "ནོར་འཁྲུལ་གྱི་ཁ་དོག་རེའུ་མིག"
+
+msgid "Barnsley 1"
+msgstr "Barnsley 1"
+
+msgid "Barnsley 2"
+msgstr "Barnsley 2"
+
+msgid "Barnsley 3"
+msgstr "Barnsley 3"
+
+msgid "Base _URL:"
+msgstr "རྨང་ཤག URL(_U)："
+
+msgid "Basic Options"
+msgstr "རྩ་བའི་འདེམས་ཚན།"
+
+msgid "Bend the image using two control curves"
+msgstr "ཚོད་འཛིན་འཁྱོག་ཐིག་གཉིས་བེད་སྤྱད་ནས་བརྙན་རིས་མཉམ་བསྲེས་བྱེད་པ།"
+
+msgid "Bent"
+msgstr "བཀུག་པ།"
+
+msgid "Bevel Edges"
+msgstr "གཏུབ་ཤུལ་གྱི་མུ་འགྲམ།"
+
+msgid "Bili_near"
+msgstr "ཐིག་གཤིས་ཟུང་ལྡན། (_N)"
+
+msgid "Bl_ack & white"
+msgstr "ནག་པོ་དང་དཀར་པོ། (_A)"
+
+msgid "Black"
+msgstr "ནག་པོ།"
+
+msgid "Blend Settings"
+msgstr "མཉམ་བསྲེས་སྒྲིག་འགོད།"
+
+msgid "Blinds"
+msgstr "སུལ་མང་སྒེའུ་ཁུང་།"
+
+msgid "Blue"
+msgstr "སྔོན་པོ།"
+
+msgid "Blue freq_uency:"
+msgstr "སྔོན་པོའི་ཟློས་ཕྱོད། (_U)："
+
+msgid "Blue pha_seshift:"
+msgstr "སྔོན་པོའི་མཚན་སྤོ། (_S)："
+
+msgid "Blue:"
+msgstr "སྔོན་པོ།:"
+
+msgid "Blur"
+msgstr "རབ་རིབ།"
+
+msgid "Blur Center"
+msgstr "རབ་རིབ་ལྟེ་གནས།"
+
+msgid "Blur Method"
+msgstr "རབ་རིབ་ཐབས་ཤེས།"
+
+msgid "Blur Parameters"
+msgstr "རབ་རིབ་ཞུགས་གྲངས།"
+
+msgid "Blur Radius"
+msgstr "རབ་རིབ་ཚངས་ཕྱེད།"
+
+msgid "Blur Type"
+msgstr "རབ་རིབ་རིགས་གྲས།"
+
+msgid "Blur _outward"
+msgstr "ཕྱི་ཕྱོགས་རབ་རིབ། (_O)"
+
+msgid "Blur neighboring pixels, but only in low-contrast areas"
+msgstr ""
+"རབ་རིབ་ཀྱི་ཉེ་མཚེས་བརྙན་རྒྱུ་ཡིན་མོད། "
+"འོན་ཀྱང་སྡུར་ཚད་དམའ་བའི་ཁུལ་ཁོངས་ཁོ་ནར་ཡོད།"
+
+msgid "Blurring"
+msgstr "རབ་རིབ།"
+
+msgid "Border"
+msgstr "མཐའ་མཚམས།"
+
+msgid "Border Average"
+msgstr "མཐའ་མཚམས་སྙོམས་ཐང་།"
+
+msgid "Border Size"
+msgstr "མཐའ་མཚམས་ཆེ་ཆུང་།"
+
+msgid "Borderaverage"
+msgstr "མཐའ་མཚམས་སྙོམས་ཐང་།"
+
+msgid "Bot_h"
+msgstr "ཚང་མར་ཡོད་པ། (_H)"
+
+msgid "Both"
+msgstr "ཕྱོགས་གཉིས།"
+
+msgid "Bottom border out of bounds (must be < %d): %d"
+msgstr "གཤམ་གྱི་མཐའ་སྒྲོམ་དེ་མཐའ་མཚམས་ལས་བརྒལ་བ། ( ངེས་པར་དུ < %d)：%d"
+
+msgid "Bottom edge"
+msgstr "མཐིལ་གྱི་མཐའ་མཚམས།"
+
+msgid "Bottom left"
+msgstr "གཡོན་འོག"
+
+msgid "Bottom-_right"
+msgstr "གཡས་འོག (_R)"
+
+msgid "Bottom:"
+msgstr "འོག："
+
+msgid "Box"
+msgstr "སྒམ་གྲུ་བཞི།"
+
+msgid "Brush"
+msgstr "རིས་པིར།"
+
+msgid "Brush Pipe"
+msgstr "རིས་པིར་སྦུག་ལམ།"
+
+msgid "Bubble"
+msgstr "ལྦུ་བ།"
+
+msgid "Bump"
+msgstr "ཀོང་འབུར།"
+
+msgid "Bump Map"
+msgstr "ཀོང་འབུར་སྦྱར་རིས།"
+
+msgid "Bump-mapping"
+msgstr "ཀོང་འབུར་སྦྱར་རིས།"
+
+msgid "Bumpm_ap image:"
+msgstr "ཀོང་འབུར་སྦྱར་རིས་ཀྱི་བརྙན་རིས། (_A)："
+
+msgid "Bumpmap"
+msgstr "ཀོང་འབུར་སྦྱར་རིས།"
+
+msgid "By DATAMIN/DATAMAX"
+msgstr "DATAMIN/DATAMAX ལྟར།"
+
+msgid "C source code"
+msgstr "C བྱ་རིམ་ཚབ་ཨང་།"
+
+msgid "C source code header"
+msgstr "C ཁུངས་ཚབ་ཨང་གི་མགོའི་ཡིག་ཆ།"
+
+msgid "C-Source"
+msgstr "C-ཁུངས་ཨང་།"
+
+msgid "CCITT Group _3 fax"
+msgstr "CCITT Group _3 བརྙན་སྐྱེལ།"
+
+msgid "CCITT Group _4 fax"
+msgstr "CCITT Group _4 བརྙན་སྐྱེལ།"
+
+msgid "CML Explorer: evoluting"
+msgstr "CML འཚོལ་ཞིབ་ཆས།:རིམ་བཞིན་འགྱུར་བ།"
+
+msgid "CML _Explorer..."
+msgstr "CML འཚོལ་ཞིབ་ཆས། (_E)"
+
+msgid "CMY"
+msgstr "CMY"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "C_amera"
+msgstr "མཐོང་ཟུར། (_A)"
+
+msgid "C_aption"
+msgstr "ཁ་བྱང་། (_A)"
+
+msgid "C_ell content:"
+msgstr "རེའུ་མིག་སྡེ་ཚན་གྱི་ནང་དོན། (_E)："
+
+msgid "C_ell size:"
+msgstr "སྡེ་ཚན་ཆེ་ཆུང་། (_E)："
+
+msgid "C_enter of brush"
+msgstr "རིས་པིར་གྱི་ལྟེ་གནས། (_E)"
+
+msgid "C_enter:"
+msgstr "འབྲིང་།(_E)："
+
+msgid "C_entering"
+msgstr "ལྟེ་གནས། (_E)"
+
+msgid "C_hoose here:"
+msgstr "འདིར་གདམ་དགོས། (_H)："
+
+msgid "C_ircle"
+msgstr "སྒོར་མོ། (_I)"
+
+msgid "C_ompose..."
+msgstr "འདྲེས་གྲུབ། (_O)…"
+
+msgid "C_opy location"
+msgstr "གནས་ས་འདྲ་ཕབ། (_O)"
+
+msgid "C_reate new image"
+msgstr "བརྙན་རིས་གསར་པ་བཟོ་བ། (_R)"
+
+msgid "C_rosses"
+msgstr "བསྣོལ་བ། (_R)"
+
+msgid "C_urved"
+msgstr "འཁྱོག་ཐིག (_U)"
+
+msgid "C_yan"
+msgstr "སྔོ་ནག (_Y)"
+
+msgid "C_ylinder"
+msgstr "ཀ་ཟླུམ་གཟུགས། (_Y)"
+
+msgid "Ca_rtoon..."
+msgstr "འགུལ་རིས། (_R)…"
+
+msgid "Calculating file size..."
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་རྩིས་བཞིན་པ།…"
+
+msgid "Calculation Settings"
+msgstr "རྩིས་རྒྱག་སྒྲིག་འགོད།"
+
+msgid "Can only operate on RGB drawables."
+msgstr "བརྙན་རིས RGB ཁོ་ནར་བཀོལ་སྤྱོད་བྱས་ཆོག་པ།"
+
+msgid "Can only save drawables!"
+msgstr "འབྲི་རུང་བྱ་ཡུལ་ཁོ་ནར་ཉར་ཚགས་ཆོག་པ།"
+
+msgid "Can operate on layers only (but was called on channel or mask)."
+msgstr ""
+"རིས་རིམ་ཁོ་ནར་བཀོལ་སྤྱོད་བྱས་ཆོག ( "
+"ཡིན་ཡང་རྒྱུ་ལམ་མམ་ཡང་ན་སོག་ལེབ་ནང་འདོན་སྤྱོད་བྱེ་པ་ཡིན )"
+
+msgid "Can't create a new image"
+msgstr "བརྙན་རིས་གསར་པ་བཟོ་ཐབས་བྲལ།"
+
+msgid "Can't operate on unknown image types"
+msgstr "ངེས་མེད་ཀྱི་བརྙན་རིས་རིགས་གྲས་ལ་བཀོལ་སྤྱོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "Can't read color entries"
+msgstr "ཁ་དོག་ཚན་པ་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot delete!! There must be at least one GFlare."
+msgstr "སུབ་ཐབས་བྲལ། ཉུང་མཐར་ཡང་རིམ་འགྱུར་འོད་འཁྱུག་ཅིག་དགོས།"
+
+msgid "Cannot operate on empty selections."
+msgstr "འདེམས་ཁུལ་སྟོང་པར་བཀོལ་སྤྱོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot operate on indexed color images."
+msgstr "གསལ་བྱང་ཁ་དོག་གི་བརྙན་རིས་ལ་བཀོལ་སྤྱོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot operate on layers with masks."
+msgstr "སོག་ལེབ་ཡོད་པའི་རིས་རིམ་ལ་བཀོལ་སྤྱོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot operate on unknown image types."
+msgstr "ངེས་མེད་ཀྱི་བརྙན་རིས་རིགས་གྲས་ལ་བཀོལ་སྤྱོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot read extension from '%s'"
+msgstr "“%s” ནས་རྒྱ་སྐྱེད་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot read footer from '%s'"
+msgstr "“%s” ནས་ཞབས་མཆན་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot read header from '%s'"
+msgstr "“%s” ནས་ཡིག་ཆའི་མགོ་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid ""
+"Cannot save RGB color images. Convert to indexed color or grayscale first."
+msgstr ""
+"ཁ་དོག RGB ཡི་བརྙན་རིས་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།  "
+"སྔོན་ལ་གསལ་བྱང་ཁ་དོག་གམ་ཡང་ན་སྐྱ་ཚད་ལ་བརྗེ་སྤོར་བྱེད་དགོས།"
+
+msgid "Cannot save images with alpha channel."
+msgstr "རྒྱུ་ལམ Alpha ཡོད་པའི་བརྙན་རིས་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot save images with alpha channels."
+msgstr "རྒྱུ་ལམ Alpha ཡོད་པའི་བརྙན་རིས་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot save indexed image with transparency in BMP file format."
+msgstr ""
+"ཡིག་ཆ་རྣམ་གཞག BMP ཡིས་ནང་གསལ་ཡོད་པའི་གསལ་བྱང་བརྙན་རིས་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Capture a window or desktop image"
+msgstr "སྒེའུ་ཁུང་ངམ་ཅོག་ངོས་ཀྱི་བརྙན་རིས་བཟུང་བ།"
+
+msgid "Capture an image from a TWAIN datasource"
+msgstr "གཞི་གྲངས་ཁུངས TWAIN ནས་བརྙན་རིས་བཟུང་བ།"
+
+msgid "Cartoon"
+msgstr "འགུལ་རིས།"
+
+msgid "Cell size:"
+msgstr "སྡེ་ཚན་ཆེ་ཆུང་།:"
+
+msgid "Cell-_padding:"
+msgstr "སྡེ་ཚན་ལྕིབས་སྟན། (_P)："
+
+msgid "Cell-_spacing:"
+msgstr "སྡེ་ཚན་བར་ཐག (_S)："
+
+msgid "Center"
+msgstr "དཀྱིལ་སྒྲིག"
+
+msgid "Center _x:"
+msgstr "ལྟེ་གནས།X(_X)："
+
+msgid "Center _y:"
+msgstr "ལྟེ་གནས།Y(_Y)："
+
+msgid "Center of Flare Effect"
+msgstr "འོད་འཁྱིམས་འབྲས་བུའི་ལྟེ་གནས་གནས་ས།"
+
+msgid "Center of Nova"
+msgstr "སྐར་གསར་གྱི་ལྟེ་གནས།"
+
+msgid "Centered"
+msgstr "དཀྱིལ་སྒྲིག"
+
+msgid "Ch. sensitivity:"
+msgstr "རྒྱུ་ལམ་ཚོར་སྐྱེན་ཚད།："
+
+msgid "Change Order of Arrows"
+msgstr "མདའ་རྩེའི་གོ་རིམ་སྒྱུར་བ།"
+
+msgid "Change the angle of the selected smvector"
+msgstr "བདམས་པའི་ཆེ་ཆུང་ཕྱོགས་ཚད་ཀྱི་ཟུར་ཚད་སྒྱུར་བ།"
+
+msgid "Change the angle of the selected vector"
+msgstr "བདམས་པའི་ཕྱོགས་ཚད་ཀྱི་ཟུར་ཚད་སྒྱུར་བ།"
+
+msgid "Change the exponent of the strength"
+msgstr "དྲག་ཚད་ཀྱི་སྟོན་གྲངས་སྒྱུར་བ།"
+
+msgid "Change the intensity of the blue channel"
+msgstr "རྒྱུ་ལམ་སྔོན་པོའི་གསལ་ཚད་སྒྱུར་བ།"
+
+msgid "Change the intensity of the green channel"
+msgstr "རྒྱུ་ལམ་ལྗང་ཁུའི་གསལ་ཚད་སྒྱུར་བ།"
+
+msgid "Change the intensity of the red channel"
+msgstr "རྒྱུ་ལམ་དམར་པོའི་གསལ་ཚད་སྒྱུར་བ།"
+
+msgid "Change the number of colors in the mapping"
+msgstr "རྟེན་འཕྲོའི་ནང་གི་ཁ་དོག་གྲངས་ཚད་སྒྱུར་བ།"
+
+msgid "Change the strength of the selected smvector"
+msgstr "བདམས་པའི་ཆེ་ཆུང་ཕྱོགས་ཚད་ཀྱི་དྲག་ཚད་སྒྱུར་བ།"
+
+msgid "Change the strength of the selected vector"
+msgstr "བདམས་པའི་ཕྱོགས་ཚད་ཀྱི་དྲག་ཚད་སྒྱུར་བ།"
+
+msgid "Change to this"
+msgstr "མདོག་འདིར་བསྒྱུར་བ།"
+
+msgid "Changes aspect of fractal"
+msgstr "དབྱིབས་འབྱེད་ཀྱི་མཐོ་ཞེང་སྡུར་ཚད་སྒྱུར་བ།"
+
+msgid "Changes the gamma (brightness) of the selected brush"
+msgstr "བདམས་པའི་རིས་པིར་གྱི Gamma སྒྱུར་བ། ( གསལ་ཚད )"
+
+msgid "Channel #%d:"
+msgstr "རྒྱུ་ལམ #%d："
+
+msgid "Channel Independent Parameters"
+msgstr "རྒྱུ་ལམ་གྱི་འབྲེལ་མེད་ཞུགས་གྲངས།"
+
+msgid "Channel Mi_xer..."
+msgstr "རྒྱུ་ལམ་གྱི་མཉམ་བསྲེས་ཆས། (_X)"
+
+msgid "Channel Mixer"
+msgstr "རྒྱུ་ལམ་གྱི་མཉམ་བསྲེས་ཆས།"
+
+msgid "Channel Representations"
+msgstr "རྒྱུ་ལམ་གྱི་འཐུས་མི།"
+
+msgid "Channels"
+msgstr "རྒྱུ་ལམ།"
+
+msgid "Check if you would like to have the table captioned."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱི་རེ་བར་རེའུ་མིག་ལ་ཁ་བྱང་ཡོད་དགོས་ན་འདེམས་ཚན་འདི་འདོམས་རོགས། "
+
+msgid "Checker"
+msgstr "འགྱིག་གཞོང་།"
+
+msgid "Checkerboard"
+msgstr "འགྱིག་གཞོང་།"
+
+msgid "Choose a high compression level for small file size"
+msgstr ""
+"སྡུད་སྒྲིལ་གྱི་རིམ་པ་མཐོར་འདེགས་བྱས་ན་ཡིག་ཆའི་ཆེ་ཆུང་ཆུང་དུ་གཏོ་ང་ཐུབ།"
+
+msgid "Circle"
+msgstr "སྒོར་ཐིག"
+
+msgid "Circle _depth in percent:"
+msgstr "སྒོར་དབྱིབས་ཟབ་ཚད། ( བརྒྱ་ཆའི་ཚད།)(_D)："
+
+msgid "Cleanup"
+msgstr "གཙང་སེལ།"
+
+msgid "Clear"
+msgstr "གཙང་སེལ།"
+
+msgid "Clear transparent"
+msgstr "ནང་གསལ་གཙང་སེལ།"
+
+msgid ""
+"Click and drag in the preview to define the distortions to apply to the "
+"image."
+msgstr ""
+"སྔོན་ལྟའི་ནང་གནོན་པ་དང་ཆབས་གཅིག་འདྲུད་ན་མཚན་ཉིད་དེ་བརྙན་རིས་ཀྱི་གཅུས་ཁུལ་དུ་བཀོལ་སྤྱོད་བྱེད་པ་ཡིན།"
+
+msgid "Close curve on completion"
+msgstr "མཇུག་སྒྲིལ་སྐབས་འཁྱོག་ཐིག་ཁ་རྒྱག་པ།"
+
+msgid "Closed"
+msgstr "ཁ་ཟུམ།"
+
+msgid "Co_lor"
+msgstr "ཁ་དོག (_L)"
+
+msgid "Co_lor averaging"
+msgstr "ཁ་དོག་གི་ཆ་སྙོམས་ལེན་པ། (_L)"
+
+msgid "Co_lor:"
+msgstr "ཁ་དོག(_L)："
+
+msgid "Co_lors"
+msgstr "ཁ་དོག (_L)"
+
+msgid "Co_mment:"
+msgstr "མཆན་འགྲེལ།(_M)："
+
+msgid "Co_mpensate for darkening"
+msgstr "གསལ་ཚད་ཁ་གསབ། (_M)"
+
+msgid "Co_mplexity:"
+msgstr "འཛིང་ཚད། (_M)："
+
+msgid "Co_mpress TD tags"
+msgstr "གདོང་འཛར TD སྡུད་སྒྲིལ། (_M)"
+
+msgid "Co_ntiguous Region"
+msgstr "མུ་མཐུད་ཀྱི་ཁུལ་ཁོངས། (_N)"
+
+msgid "Co_ntrast:"
+msgstr "བསྡུར་ཚད། (_N)："
+
+msgid "Co_rrelated noise"
+msgstr "འབྲེལ་ཡོད་འཛེར་སྒྲ། (_R)"
+
+msgid "Col_umn:"
+msgstr "གཞུང་སྟར། (_U)："
+
+msgid "Collect"
+msgstr "གཅིག་བསྡུས།"
+
+msgid "Color"
+msgstr "ཁ་དོག"
+
+msgid "Color Density"
+msgstr "ཁ་དོག་སྟུག་ཚད།"
+
+msgid "Color Enhance"
+msgstr "ཁ་དོག་དྲག་འཕེལ།"
+
+msgid "Color Exchange"
+msgstr "ཁ་དོག་བརྗེ་རེས།"
+
+msgid "Color Exchange: From Color"
+msgstr "ཁ་དོག་བརྗེ་བསྒྱུར།:ཁ་དོག་ནས།"
+
+msgid "Color Exchange: To Color"
+msgstr "ཁ་དོག་བརྗེ་བསྒྱུར།:ཁ་དོག་ལ།"
+
+msgid "Color Function"
+msgstr "ཁ་དོག་རྟེན་འབྱུང་གྲངས།"
+
+msgid "Color Mode"
+msgstr "ཚོད་ཁྲའི་རྣམ་པ།"
+
+msgid "Color Profile Information"
+msgstr "ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆའི་ཆ་འཕྲིན།"
+
+msgid "Color Selection Dialog"
+msgstr "ཁ་དོག་གི་གླེང་སྒྲོམ་འདེམས།"
+
+msgid "Color Transformation"
+msgstr "ཁ་དོག་བརྗེ་བསྒྱུར།"
+
+msgid "Color _model:"
+msgstr "ཚོན་མདོག་རྣམ་པ། (_M)："
+
+msgid "Color _noise:"
+msgstr "ཁ་དོག་འཛེར་སྒྲ། (_N)："
+
+msgid "Color _variation:"
+msgstr "ཁ་དོག་འགྱུར་ལྡོག (_V)："
+
+msgid "Color fill"
+msgstr "ཁ་དོག་ཁ་སྐོང་།"
+
+msgid "Color is computed from the average of all pixels under the brush"
+msgstr ""
+"ཁ་དོག་གིས་རིས་པིར་གཤམ་གྱི་བརྙན་རྒྱུ་ཚང་མའི་ཆ་སྙོམས་གྲངས་ཀྱི་རྩིས་རྒྱག་པ།"
+
+msgid "Color profile '%s' is not for RGB color space."
+msgstr "ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆ “%s” དེ་ཁ་དོག RGB ཡི་བར་སྟོང་ལ་མི་འཚམ་པ།"
+
+msgid "Color to Alpha"
+msgstr "ཁ་དོག་ནས Alpha བར།"
+
+msgid "Color to Alpha Color Picker"
+msgstr "ཁ་དོག་ནས་ཁ་དོག Alpha བར་ལེན་པ།"
+
+msgid "Color to _Alpha..."
+msgstr "ཁ་དོག་ནས Alpha བར། (_A)"
+
+msgid "Color:"
+msgstr "ཁ་དོག："
+
+msgid "Color_map:"
+msgstr "ཁ་དོག་རེའུ་མིག (_M)："
+
+msgid "Colorcube A_nalysis..."
+msgstr "མདོག་རྒྱུད་དབྱེ་ཞིབ། (_N)…"
+
+msgid "Colorcube Analysis"
+msgstr "མདོག་རྒྱུད་དབྱེ་ཞིབ།"
+
+msgid "Colorif_y..."
+msgstr "མདོག་གཅིག་ཅན། (_Y)…"
+
+msgid "Colorify"
+msgstr "མདོག་གཅིག་ཅན།"
+
+msgid "Colorify Custom Color"
+msgstr "མདོག་གཅིག་ཅན་གྱི་རང་བཟོས་ཁ་དོག"
+
+msgid "Colorifying"
+msgstr "མདོག་གཅིག་ཅན།"
+
+msgid "Coloring"
+msgstr "ཚོན་འབྱུག"
+
+msgid "Coloring transparency"
+msgstr "སྒྲོ་འདོགས་གསལ་ཚད།"
+
+msgid "Colorize image using a sample image as a guide"
+msgstr "མ་དཔེའི་བརྙན་རིས་ཀྱིས་ཟུར་ལྟ་བྱས་ནས་བརྙན་རིས་ལ་ཚོན་འབྱུག་པ།"
+
+msgid "Colors"
+msgstr "ཁ་དོག"
+
+msgid "Colors:"
+msgstr "ཁ་དོག："
+
+msgid "Combine"
+msgstr "མཉམ་སྒྲིག"
+
+msgid "Combine several images on a film strip"
+msgstr "བརྙན་རིས་མང་བ་གློག་བརྙན་གྱི་སྤྱིན་ཤོག་ཅིག་གི་སྟེང་མཉམ་སྒྲིག་བྱེད་པ།"
+
+msgid "Combine two images using depth maps (z-buffers)"
+msgstr ""
+"གཏིང་རིང་བེད་སྤྱད་ནས་སྦྱར་རིས། ( ལྷོད་གཏོང ) "
+"ཀྱིས་བརྙན་རིས་གཉིས་མཉམ་སྒྲིག་བྱེད་པ།"
+
+msgid "Comment"
+msgstr "དཔྱད་གཏམ།"
+
+msgid "Comment is limited to %d characters."
+msgstr "མཆན་འགྲེལ་དེ་ཡིག་རྟགས %d ཡི་ནང་ཚུད་དུ་ཚད་འཛིན་བྱེད་པ།"
+
+msgid "Comment:"
+msgstr "མཆན་འགྲེལ།:"
+
+msgid "Completely randomize a fraction of pixels"
+msgstr "བརྙན་རྒྱུའི་ཆ་ཤས་ཆུང་ངུ་རྩ་བ་ནས་སྐབས་བསྟུན་ཅན་དུ་སྒྱུར་བ།"
+
+msgid "Compose"
+msgstr "འབྲི་བ།"
+
+msgid "Compose Channels"
+msgstr "འདྲེས་གྲུབ་རྒྱུ་ལམ།"
+
+msgid "Composing"
+msgstr "འདྲེས་གྲུབ།"
+
+msgid "Composing images"
+msgstr "བརྙན་རིས་མཉམ་སྒྲིག"
+
+msgid "Composition:"
+msgstr "འདྲེས་གྲུབ།:"
+
+msgid "Compressed (PNG)"
+msgstr "སྡུད་སྒྲིལ། (PNG)"
+
+msgid "Compression"
+msgstr "སྡུད་སྒྲིལ་ཚུལ།"
+
+msgid "Compression type"
+msgstr "སྡུད་སྒྲིལ་རིགས་གྲས།"
+
+msgid "Connecting to server"
+msgstr "ཞབས་ཞུ་ཆས་ལ་སྦྲེལ།"
+
+msgid "Constrain aspect ratio"
+msgstr "མཐོ་ཞེང་སྡུར་ཚད་རྒྱུན་སྲུང་།"
+
+msgid "Constructing maze using Prim's Algorithm"
+msgstr "རྩི་ཐབས Prim བེད་སྤྱད་ནས་མགོ་འཁོར་བའི་ཕོ་བྲང་སྒྲུབ་པ།"
+
+msgid "Constructing tileable maze using Prim's Algorithm"
+msgstr ""
+"རྩི་ཐབས Prim བེད་སྤྱད་ནས་སྙོམས་འདིང་ཆོག་པའི་མགོ་འཁོར་བའི་ཕོ་བྲང་སྒྲུབ་པ།"
+
+msgid "Context"
+msgstr "ཁོར་ཡུག"
+
+msgid "Continuous grad. w/o gap"
+msgstr "བར་ཁོངས་མེད་པའི་མུ་མཐུད་སྐས་ཚད།"
+
+msgid "Continuous gradient"
+msgstr "མུ་མཐུད་སྐས་ཚད།"
+
+msgid "Continuous update"
+msgstr "རྒྱུན་མཐུད་གསར་སྒྱུར།"
+
+msgid "Contours"
+msgstr "མཐོ་མཚུངས་ཐིག"
+
+msgid "Controls"
+msgstr " ཚོད་འཛིན།"
+
+msgid "Controls how intense the highlights will be"
+msgstr "འོད་མཐོའི་གསལ་ཚད་ཚོད་འཛིན།"
+
+msgid "Convert a specified color to transparency"
+msgstr "དམིགས་འཛུགས་བྱས་པའི་ཁ་དོག་དེ་་ནང་གསལ་ལ་བརྗེ་སྤོར་བྱེད་པ།"
+
+msgid "Convert image to or from polar coordinates"
+msgstr "བརྙན་རིས་དེ་རང་སྣེའི་གནས་ཚད་ལ་བརྗེ་སྤོར་བྱེད་པ།"
+
+msgid "Convert the image into irregular tiles"
+msgstr "བརྙན་རིས་དེ་ཚུལ་མིན་རྡོག་ཆུང་ལ་བརྗེ་སྤོར་བྱེད་པ།"
+
+msgid "Convert the image into randomly rotated square blobs"
+msgstr ""
+"བརྙན་རིས་དེ་སྐབས་བསྟུན་འཁྱིལ་འཁོར་གྱི་གྲུ་བཞི་ཆུང་ཆུང་ལ་བརྗེ་སྤོར་བྱེད་པ།"
+
+msgid "Convert the image to the RGB working space (%s)?"
+msgstr "བརྙན་རིས་དེ RGB ལས་ཀའི་བར་སྟོང་ལ་བརྗེ་སྤོར་བྱེད་དམ། (%s)"
+
+msgid "Convert to"
+msgstr "ལ་བརྗེ་སྤོར།"
+
+msgid "Convert to ICC Color Profile"
+msgstr "ICC ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆར་བརྗེ་སྤོར་བྱེད་པ།"
+
+msgid "Convert to RGB working space?"
+msgstr "RGB ལས་ཀའི་བར་སྟོང་ལ་བརྗེ་སྤོར་བྱེད་དམ།"
+
+msgid "Convert to default RGB Profile"
+msgstr "སོར་བཞག་གི་ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆར་བརྗེ་སྤོར་བྱེད་པ།"
+
+msgid "Converting from '%s' to '%s'"
+msgstr "“%s” དེ “%s” ལ་བརྗེ་སྤོར་བྱེད་པ།"
+
+msgid "Convolution Matrix"
+msgstr "དྲིལ་བསགས་ལིང་ཚེ།"
+
+msgid "Convolution does not work on layers smaller than 3x3 pixels."
+msgstr ""
+"དྲིལ་བསགས་ལིང་ཚེ་དེ་བརྙན་རྒྱུ 3x3 ལས་ཆུང་བའི་རིས་རིམ་སྟེང་སྒྲུབ་མི་ཐུབ།"
+
+msgid "Copy"
+msgstr "འདྲ་ཕབ།"
+
+msgid "Copy Gradient Flare"
+msgstr "རིམ་འགྱུར་འོད་འཁྱུག་འདྲ་ཕབ།"
+
+msgid "Copy Parameters"
+msgstr "ཞུགས་གྲངས་འདྲ་ཕབ།"
+
+msgid "Copy Settings"
+msgstr "སྒྲིག་འགོད་འདྲ་ཕབ།"
+
+msgid "Copy an object"
+msgstr "བྱ་ཡུལ་ཞིག་འདྲ་ཕབ།"
+
+msgid "Copy the active curve to the other border"
+msgstr "བྱ་བྱེད་འཁྱོག་ཐིག་དེ་གཏད་མཐའ་རུ་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "Copy the location of this page to the clipboard"
+msgstr "ལྡེབ་ངོས་འདི་ཡི་གནས་ས་དྲས་སྦྱར་པང་དུ་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "Copy the texture of the selected paper as a background"
+msgstr "བདམས་པའི་རིས་ཤོག་རྒྱུ་ཆ་དེ་རྒྱབ་ལྗོངས་ལ་རྩིས་ནས་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "Copyright © 1999-2005 by Maurits Rijk"
+msgstr "པར་དབང་སྒེར་ལ་དབང་བ། (c) 1999-2005 Maurits Rijk"
+
+msgid "Corrects lens distortion"
+msgstr "ཤེལ་མགོའི་དབྱིབས་འགྱུར་དག་བཅོས།"
+
+msgid "Cosine"
+msgstr "ལྷག་རྒྱུད།"
+
+msgid "Could not create working folder '%s': %s"
+msgstr "ལས་ཀའི་དཀར་ཆག་བཟོ་ཐབས་བྲལ། “%s”：%s"
+
+msgid "Could not get layers for image %d"
+msgstr "བརྙན་རིས %d ནས་རིས་རིམ་ལེན་ཐབས་བྲལ།"
+
+msgid "Could not initialize libcurl"
+msgstr "འགོ་སྒྲིག་མི་ཐུབ་པ། libcurl"
+
+msgid "Could not interpret Postscript file '%s'"
+msgstr "ཡིག་ཆ Postscript ལ་ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ། “%s”"
+
+msgid "Could not load '%s': %s"
+msgstr "“%s” འགེལ་ཐབས་བྲལ།:%s"
+
+msgid "Could not load ICC profile from '%s'"
+msgstr "“%s” ནས་ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not open '%s' as SUN-raster-file"
+msgstr "SUN-raster-file ཡིས “%s” ཁ་ཕྱེ་མི་ཐུབ།"
+
+msgid "Could not open '%s' for reading"
+msgstr "“%s” ཁ་ཕྱེ་བ་དང་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not open '%s' for reading."
+msgstr "“%s” ཁ་ཕྱེ་བ་དང་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not open '%s' for reading: %s"
+msgstr "“%s” ཁ་ཕྱེ་བ་དང་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།:%s"
+
+msgid "Could not open '%s' for writing."
+msgstr "“%s” ཁ་ཕྱེ་བ་དང་འབྲི་ཐབས་བྲལ།"
+
+msgid "Could not open '%s' for writing: %s"
+msgstr "འབྲི་བ་ལ “%s”：%s ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Could not read XWD header from '%s'"
+msgstr "“%s” ནས་ཡིག་ཆའི་མགོ XWD ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not read color entries from '%s'"
+msgstr "“%s” ནས་ཁ་དོག་ཚན་པ་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not read header from '%s'"
+msgstr "“%s” ནས་ཡིག་ཆའི་མགོ་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not start sendmail (%s)"
+msgstr "sendmail། (%s) འགོ་སློང་ཐབས་བྲལ།"
+
+msgid "Could not write '%s': %s"
+msgstr "“%s” འབྲི་ཐབས་བྲལ།:%s"
+
+msgid "Couldn't decode '%s'."
+msgstr "“%s” ཨང་དགྲོལ་མི་ཐུབ།"
+
+msgid "Couldn't load one brush in the pipe, giving up."
+msgstr "སྦུག་ལམ་ནང་གི་རིས་པིར་ཞིག་ཁུར་སྣོན་བྱེད་ཐབས་བྲལ་བས་དོར་དགོས།"
+
+msgid "Couldn't losslessly save transparency, saving opacity instead."
+msgstr ""
+"གསལ་ཚད་དེ་སྐྱོན་མེད་སྒོ་ནས་ཉར་ཚགས་བྱེད་མི་ཐུབ་པས་ནང་གསལ་མིན་པས་ཉར་ཚགས་བྱེད་དགོས།"
+
+msgid "Couldn't read file:"
+msgstr "ཡིག་ཆ་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།:"
+
+msgid "Couldn't save file:"
+msgstr "ཡིག་ཆ་ཉར་ཐབས་བྲལ།:"
+
+msgid "Couldn't save resource file:"
+msgstr "ཐོན་ཁུངས་ཀྱི་ཡིག་ཆ་ཉར་ཐབས་བྲལ།："
+
+msgid "Couldn't simply reduce colors further. Saving as opaque."
+msgstr ""
+"སྔར་ལས་ལྷག་པའི་སྒོ་ནས་ཁ་དོག་ཉུང་དུ་གཏོང་མི་ཐུབ་པས་ནང་གསལ་མིན་པར་གཞན་ཉར་བྱས་ཡོད།"
+
+msgid "Coupled-Map-Lattice Explorer"
+msgstr "ཟུང་སྦྱོར་འཕྲོ་བརྙན་གྱི་དྲ་མིག (Coupled-Map-Lattice) ཡི་འཚོལ་ཞིབ་ཆས།"
+
+msgid "Cre_ate new image"
+msgstr "བརྙན་རིས་གསར་པ་བཟོ་བ། (_A)"
+
+msgid "Create"
+msgstr "གསར་བཟོ།"
+
+msgid "Create Guides"
+msgstr "ཟུར་ལྟའི་ཐིག་བཟོ་བ།"
+
+msgid "Create Guides..."
+msgstr "ཟུར་ལྟའི་ཐིག་བཟོ་བ།"
+
+msgid "Create _histogram"
+msgstr "རི་མོ་གྲུ་བཞི་བཟོ་བ། (_H)"
+
+msgid "Create _new layer"
+msgstr "རིས་རིམ་གསར་པ་བཟོ་བ། (_N)"
+
+msgid "Create a checkerboard pattern"
+msgstr "མིག་མངས་དྲ་མིག་གི་དཔེ་རིས་བཟོ་བ།"
+
+msgid "Create a clickable imagemap"
+msgstr "གནོན་ཆོག་པའི་བརྙན་རིས་འཕྲོ་བརྙན་བཟོ་བ།"
+
+msgid "Create a color-map using a gradient from the gradient editor"
+msgstr "རིམ་འགྱུར་རྩོམ་སྒྲིག་ཆས་ནང་གི་རིམ་འགྱུར་སྤྱད་ནས་ཁ་དོག་རེའུ་མིག་བཟོ་བ།"
+
+msgid ""
+"Create a color-map with the options you specified above (color "
+"density/function). The result is visible in the preview image"
+msgstr ""
+"གོང་དུ་དམིགས་འཛུགས་བྱས་པའི་འདེམས་ཚན་ལྟར། ( ཁ་དོག་སྟུག་ཚད / རྟེན་འབྱུང་གྲངས )"
+" ཁ་དོག་རེའུ་མི་བཟོ་བ། མཇུག་འབྲས་དེ་སྔོན་ལྟའི་བརྙན་རིས་ནང་མཐོང་ཐུབ།"
+
+msgid "Create a new image when applying filter"
+msgstr "འཚག་ཤེལ་བཀོལ་སྤྱོད་སྐབས་བརྙན་རིས་གསར་པ་བཟོ་བ།"
+
+msgid "Create a new unit from scratch"
+msgstr "འཇལ་བྱེད་གསར་པ་ཅིག་ཡང་བསྐྱར་བཟོ་བ།"
+
+msgid "Create a new unit using the currently selected unit as template"
+msgstr ""
+"མིག་སྔར་བདམས་པའི་འཇལ་བྱེད་ཀྱིས་དཔེ་པང་བྱས་ཏེ་འཇལ་བྱེད་གསར་པ་ཅིག་བཟོ་བ།"
+
+msgid "Create a random cloud-like texture"
+msgstr "སྐབས་བསྟུན་སྤྲིན་རིམ་ལྟ་བུའི་ཁྲ་རིས་བཟོ་བ།"
+
+msgid "Create a random plasma texture"
+msgstr "སྐབས་བསྟུན་གྱི་ཚོན་མདངས་རྣམ་པར་བཀྲ་བའི་རྒྱུ་ཆ་བཟོ་བ།"
+
+msgid "Create abstract Coupled-Map Lattice patterns"
+msgstr ""
+"བརྙན་འདེབས་ཀྱི་ཟུང་སྦྱོར་འཕྲོ་བརྙན་དྲ་མིག (Coupled-Map-Lattice) "
+"དཔེ་རིས་བཟོ་བ།"
+
+msgid "Create an Iterated Function System (IFS) fractal"
+msgstr ""
+"རིམ་འཇུག་རྟེན་འབྱུང་གྲངས་ཀྱི་རྒྱུད་ཁོངས། (IFS) དབྱིབས་འབྱེད་ཅིག་བཟོ་བ།"
+
+msgid "Create an array of copies of the image"
+msgstr "བརྙན་རིས་ཀྱི་བུ་དཔེ་མང་པོ་བཟོ་བ།"
+
+msgid "Create an embossing effect using a bump map"
+msgstr "འབུར་ཀོང་སྦྱར་རིས་བེད་སྤྱད་ནས་འབུར་བརྐོས་འབྲས་བུ་བཟོ་བ།"
+
+msgid "Create an image from an area of the screen"
+msgstr "བརྙན་ཡོལ་ཁུལ་ཁོངས་ཤིག་ནས་བརྙན་རིས་བཟོ་བ།"
+
+msgid "Create an image of a textured sphere"
+msgstr "ཁྲ་རིས་ཡོད་པའི་ཟླུམ་གཟུགས་བརྙན་རིས་ཤིག་བཟོ་བ།"
+
+msgid "Create an image using multiple gray images as color channels"
+msgstr ""
+"ཟློས་མང་སྐྱ་ཚད་ཀྱི་བརྙན་རིས་སྤྱོད་པ་དེ་ཁ་དོག་རྒྱུ་ལམ་ལ་རྩིས་ནས་བརྙན་རིས་བཟོ་བ།"
+
+msgid "Create arc"
+msgstr "གཞུ་གསར་བཟོ།"
+
+msgid "Create bezier curve"
+msgstr "པེ་སེལ་འཁྱོག་ཐིག་བཟོ་བ།"
+
+msgid "Create bezier curve. Shift + Button ends object creation."
+msgstr ""
+"པེ་སེལ་འཁྱོག་ཐིག་བཟོ་བ། Shift + མཐེབ་གནོན་གྱིས་བྱ་ཡུལ་གསར་བཟོ་མཇུག་སྒྲིལ་བ།"
+
+msgid "Create circle"
+msgstr "སྒོར་མོ་བཟོ་བ།"
+
+msgid "Create cosmic recursive fractal flames"
+msgstr "སྒྲིག་རིམ་ཡོད་པའི་རིམ་ལོག་དབྱིབས་འབྱེད་ཀྱི་མེ་ལྕེ་བཟོ་བ།"
+
+msgid "Create ellipse"
+msgstr "འཇོང་དབྱིབས་བ།"
+
+msgid "Create from webpage"
+msgstr "དྲ་ངོས་ནས་བཟོ་བ།"
+
+msgid "Create geometric shapes"
+msgstr "དབྱིབས་རྩིས་ཀྱི་རིས་དབྱིབས་བཟོ་བ།"
+
+msgid "Create line"
+msgstr "ཐིག་དུམ་བཟོ་བ།"
+
+msgid "Create new image"
+msgstr "བརྙན་རིས་གསར་པ་བཟོ་བ།"
+
+msgid "Create or alter units used in GIMP"
+msgstr "GIMP ཡི་ནང་བེད་སྤྱོད་པའི་འཇལ་བྱེད་གསར་བཟོ་འམ་ཡང་ན་བཟོ་བཅོས་བྱེད་པ།"
+
+msgid "Create rectangle"
+msgstr "གྲུ་བཞི་ནར་མོ་བཟོ་བ།"
+
+msgid "Create reg polygon"
+msgstr "མཐའ་མཉམ་མཐའ་མང་དབྱིབས་བཟོ་བ།"
+
+msgid "Create spiral"
+msgstr "དུང་འཁྱིལ་ཐིག་བཟོ་བ།"
+
+msgid "Create star"
+msgstr "སྐར་དབྱིབས་བཟོ་བ།"
+
+msgid "Creating diffraction pattern"
+msgstr "སྐོར་འཕྲོའི་དཔེ་རིས་བཟོ་བ།"
+
+msgid "Cro_p"
+msgstr "དྲས་གཏུབ། (_P)"
+
+msgid "Cropping"
+msgstr "དྲས་གཏུབ།"
+
+msgid "Cu_rve:"
+msgstr "འཁྱོག་ཐིག (_R)："
+
+msgid "Cubism"
+msgstr "ལངས་གཟུགས་པ།"
+
+msgid "Cubistic transformation"
+msgstr "ལངས་གཟུགས་པའི་སྒྱུ་རྩལ་བརྗེ་བསྒྱུར།"
+
+msgid "Cumulative layers (combine)"
+msgstr "རིས་རིམ་ཁག་རིམ་གསོག ( མཉམ་སྒྲིག )"
+
+msgid "Curl Layer"
+msgstr "རིས་རིམ་གུག་འཁྱོག"
+
+msgid "Curl Location"
+msgstr "གུག་འཁྱོག་གནས་ས།"
+
+msgid "Curl Orientation"
+msgstr "གུག་འཁྱོག་ཁ་ཕྱོགས།"
+
+msgid "Curl up one of the image corners"
+msgstr "བརྙན་རིས་ཀྱི་ནང་གི་ཟུར་གཅིག་ལྟེབ་པ།"
+
+msgid "Current Color Profile"
+msgstr "བྱ་བྱེད་ཚོན་མདོག་གི་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "Current gradient"
+msgstr "མིག་སྔའི་རིམ་འགྱུར།"
+
+msgid "Current gradient (reversed)"
+msgstr "མིག་སྔའི་རིམ་འགྱུར། ( ལྡོག་ཕྱོགས )"
+
+msgid "Current:"
+msgstr "མིག་སྔ།:"
+
+msgid "Curve Bend"
+msgstr "འཁྱོག་ཐིག་བཀུག་པ།"
+
+msgid "Curve Type"
+msgstr "འཁྱོག་ཐིག་རིགས་གྲས།"
+
+msgid "Curve for Border"
+msgstr "འཁྱོག་ཐིག་ལྟོས་ཟླའི་མུ་འགྲམ།"
+
+msgid "Custom color:"
+msgstr "རང་བཟོས་ཁ་དོག："
+
+msgid "Custom gradient"
+msgstr "རང་བཟོས་རིམ་འགྱུར།"
+
+msgid "Cut"
+msgstr "དྲས་གཏུབ།"
+
+msgid "Cut image into paper tiles, and slide them"
+msgstr "བརྙན་རིས་དེ་སྙོམས་འདིང་གི་ཤོག་ལེབ་ལ་གཅོད་པ་མ་ཟད། དེ་རྣམས་འདྲེད་པ།"
+
+msgid "Cyan"
+msgstr "སྔོན་པོ།"
+
+msgid "Cyan:"
+msgstr "སྔོ་ནག："
+
+msgid "Cyan_K"
+msgstr "སྔོ་ནག _K"
+
+msgid "Cylinder"
+msgstr "ཀ་ཟླུམ་གཟུགས།"
+
+msgid "Cylinder length"
+msgstr "ཀ་ཟླུམ་གཟུགས་ཀྱི་རིང་ཚད།"
+
+msgid "Cylinder radius"
+msgstr "ཀ་ཟླུམ་གཟུགས་ཀྱི་ཚངས་ཕྱེད།"
+
+msgid "DDE transaction busy"
+msgstr "DDE ལས་དོན་བྲེལ་བ་ཚ་པོ།"
+
+msgid "DICOM image"
+msgstr "བརྙན་རིས DICOM"
+
+msgid "D_eform amount:"
+msgstr "དབྱིབས་འགྱུར་ཚད། (_E)："
+
+msgid "D_eselect All"
+msgstr "ཚང་མ་མི་འདེམ་པ། (_E)"
+
+msgid "D_ivisor:"
+msgstr "བགོད་གྲངས། (_I)："
+
+msgid "Darker"
+msgstr "ཟབ་ཙམ།"
+
+msgid "Darker:"
+msgstr "དེ་བས་མུན་པ།:"
+
+msgid "Data Compression"
+msgstr "གཞི་གྲངས་སྡུད་སྒྲིལ།"
+
+msgid "Data Formatting"
+msgstr "གཞི་གྲངས་རྣམ་གཞག"
+
+msgid ""
+"Data attached as 'icc-profile' does not appear to be an ICC color profile"
+msgstr ""
+"“icc-profile” ལ་འབྲེལ་བ་ཡོད་པའི་གཞི་གྲངས་ལ་རྩིས་ན་དེ་ཕལ་ཆེར ICC "
+"ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་མིན་པ་འདྲ།"
+
+msgid "Data formatting"
+msgstr "གཞི་གྲངས་རྣམ་གཞག"
+
+msgid "Decompose"
+msgstr "དབྱེ་ཕྲལ།"
+
+msgid "Decompose an image into separate colorspace components"
+msgstr ""
+"བརྙན་རིས་ཤིག་ཁག་སོ་སོའི་རང་ཚུགས་ཀྱི་ཁ་དོག་བར་སྟོང་གསེས་ཚད་ལ་དབྱེ་ཕྲལ་བྱེད་པ།"
+
+msgid "Decomposing"
+msgstr "དབྱེ་ཕྲལ།"
+
+msgid "Decrease the speed of the animation"
+msgstr "འགུལ་རིས་ཀྱི་མགྱོགས་ཚད་འབེབས་པ།"
+
+msgid "Default"
+msgstr "སོར་བཞག"
+
+msgid "Default Map Type"
+msgstr "སོར་བཞག་འཕྲོ་བརྙན་གྱི་རིགས་གྲས།"
+
+msgid "Default RGB working space"
+msgstr "སོར་བཞག་གི RGB ལས་ཀའི་བར་སྟོང་།"
+
+msgid "Default _URL:"
+msgstr "སོར་བཞག _URL："
+
+msgid "Default chunks type:"
+msgstr "སོར་བཞག་དུམ་བུའི་རིགས་གྲས།"
+
+msgid "Default frame delay:"
+msgstr "སོར་བཞག་ལྷེབ་མའི་དུས་བགྱང།："
+
+msgid "Default frame disposal:"
+msgstr "སོར་བཞག་ལྷེབ་མའི་ཐག་གཅོད།："
+
+msgid "Default framerate"
+msgstr "སོར་བཞག་ལྷེབ་མའི་ཕྱོད།"
+
+msgid "Define Circle/Oval area"
+msgstr "སྒོར་མོ / འཇོང་དབྱིབས་ཀྱི་ཁུལ་ཁོངས་མཚན་ཉིད་འཇོག་པ།"
+
+msgid "Define Polygon area"
+msgstr "མཐའ་མང་དབྱིབས་ཀྱི་ཁུལ་ཁོངས་མཚན་ཉིད་འཇོག་པ།"
+
+msgid "Define Rectangle area"
+msgstr "གྲུ་བཞི་ནར་མོའི་ཁུལ་ཁོངས་མཚན་ཉིད་འཇོག་པ།"
+
+msgid "Deform Mode"
+msgstr "དབྱིབས་འགྱུར་རྣམ་པ།"
+
+msgid "Degree of slope of each piece's edge"
+msgstr "རྡོག་ཆུང་རེ་རེའི་མུ་འགྲམ་གྱི་འཁྱོག་པའི་ཟུར་ཚད།"
+
+msgid "Degrees"
+msgstr "ཟུར་ཚད།"
+
+msgid "Deinterlace"
+msgstr "འཛིང་སྣོལ་འདོར་བ།"
+
+msgid "Delay inserted to prevent evil CPU-sucking animation."
+msgstr ""
+"དུས་བགྱང་བར་འཇུག་བྱས་ནས་ CPU "
+"ཡི་འགུལ་རིས་ཚབས་ཆེན་འགག་པའི་སྐྱེད་འགྲུབ་བཀག་འགོག་བྱེད་པ།"
+
+msgid "Delete"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
+
+msgid "Delete Area"
+msgstr "ཁུལ་ཁོངས་སུབ་པ།"
+
+msgid "Delete Fractal"
+msgstr "དབྱིབས་འབྱེད་སུབ་པ།"
+
+msgid "Delete Gradient Flare"
+msgstr "རིམ་འགྱུར་འོད་འཁྱུག་སུབ་པ།"
+
+msgid "Delete Point"
+msgstr "ཚེག་སུབ་པ།"
+
+msgid "Delete an object"
+msgstr "བྱ་ཡུལ་ཞིག་སུབ་པ།"
+
+msgid "Delete currently selected fractal"
+msgstr "མིག་སྔར་བདམས་པའི་དབྱིབས་འབྱེད་སུབ་པ།"
+
+msgid "Delete selected smvector"
+msgstr "བདམས་པའི་ཆེ་ཆུང་ཕྱོགས་ཚད་སུབ་པ།"
+
+msgid "Delete selected vector"
+msgstr "བདམས་པའི་ཕྱོགས་ཚད་སུབ་པ།"
+
+msgid "Deletes the selected Preset"
+msgstr "བདམས་པའི་སྔོན་སྒྲིག་སུབ་པ།"
+
+msgid "Delta function"
+msgstr "རྟེན་འབྱུང་གྲངས་Delta"
+
+msgid "Delta function stepped"
+msgstr "མཆོང་ཐེམ་རྟེན་འབྱུང་གྲངས་Delta"
+
+msgid "Depth Merge"
+msgstr "ཟབ་ཚད་མཉམ་སྒྲིལ།"
+
+msgid "Depth first"
+msgstr "ཟབ་ཚད་སྔོན་ཐོབ།"
+
+msgid "Depth map:"
+msgstr "ཟབ་ཚད་རི་མོ།:"
+
+msgid "Depth-merging"
+msgstr "ཟབ་ཚད་མཉམ་སྒྲིལ།"
+
+msgid "Derive a smooth color palette from the image"
+msgstr "བརྙན་རིས་ནང་ནས་འཇམ་སྙོམས་ཁ་དོག་གི་ཚོན་གཞོང་ཕྱིར་འདྲེན་པ།"
+
+msgid "Deriving smooth palette"
+msgstr "འཇམ་སྙོམས་ཚོན་གཞོང་སྐྱེད་འགྲུབ།"
+
+msgid "Des_peckle..."
+msgstr "ཁྲ་ཐིག་འདོར་བ། (_P)…"
+
+msgid "Des_tripe..."
+msgstr "ཤར་རིས་འདོར་བ། (_T)…"
+
+msgid "Desktop Link"
+msgstr "ཅོག་ངོས་སྦྲེལ་མཐུད།"
+
+msgid "Despeckle"
+msgstr "ཁྲ་ཐིག་འདོར་བ།"
+
+msgid "Destination channel:"
+msgstr "དམིགས་འབེན་རྒྱུ་ལམ།:"
+
+msgid "Destination profile is not for RGB color space."
+msgstr "དམིགས་འབེན་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་དེ RGB ཁ་དོག་བར་སྟོང་ལ་སྤྱོད་ཀྱི་མེད།"
+
+msgid "Destination:"
+msgstr "དམིགས་འབེན།:"
+
+msgid "Destripe"
+msgstr "ཤར་རིས་འདོར་བ།"
+
+msgid "Destriping"
+msgstr "ཤར་རིས་འདོར་བ།"
+
+msgid "Detach"
+msgstr "དབྱེ་ཕྲལ།"
+
+msgid "Detach the animation from the dialog window"
+msgstr "གླེང་མོལ་སྒེའུ་ཁུང་ནང་ནས་འགུལ་རིས་དབྱེ་ཕྲལ་བྱེད་པ།"
+
+msgid "Deviation threshold:"
+msgstr "ཡོ་ཁྱད་མཚམས་ཐང་།:"
+
+msgid "Diamond"
+msgstr "གཟེ་དབྱིབས།"
+
+msgid "Differential"
+msgstr "ཆ་ཕྲན།"
+
+msgid "Diffraction Patterns"
+msgstr "སྐོར་འཕྲོའི་དཔེ་རིས།"
+
+msgid "Diffuse:"
+msgstr "གྲམ་པའི་ལྡོག་འཕྲོ།:"
+
+msgid "Diffusion dist.:"
+msgstr "གྲམ་པའི་ལྡོག་འཕྲོའི་ཁྱབ་ཚུལ།:"
+
+msgid "Digital Imaging and Communications in Medicine image"
+msgstr "གསོ་རིག་གྲངས་ཀའི་བརྙན་གྲུབ་དང་འཕྲིན་གཏོང་བརྙན་རིས།"
+
+msgid "Digits"
+msgstr "གནས་གྲངས།"
+
+msgid "Dimension:"
+msgstr "རྩ་གྲངས།:"
+
+msgid "Dimensions"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Direction"
+msgstr "ཁ་ཕྱོགས།"
+
+msgid "Direction Vector"
+msgstr "ཁ་ཕྱོགས་ཕྱོགས་ཚད།"
+
+msgid "Directional"
+msgstr "ཁ་ཕྱོགས།"
+
+msgid "Directional light"
+msgstr "ཁ་ཕྱོགས་འོད་ཁུངས།"
+
+msgid "Directions"
+msgstr "ཁ་ཕྱོགས།"
+
+msgid "Directions:"
+msgstr "ཁ་ཕྱོགས་གྲངས།:"
+
+msgid "Disc"
+msgstr "སྒོར་སྡེར།"
+
+msgid "Displace"
+msgstr "གནས་སྤོ།"
+
+msgid "Displace pixels as indicated by displacement maps"
+msgstr "གོ་བརྗེའི་སྦྱར་རིས་ཀྱི་མཛུབ་སྟོན་ལྟར་བརྙན་རྒྱུ་གནས་སྤོ་བ།"
+
+msgid "Displace pixels in a ripple pattern"
+msgstr "རླབས་རིས་དཔེ་རིས་ལྟར་བརྙན་རྒྱུ་གནས་སྤོ་བ།"
+
+msgid "Displacement Mode"
+msgstr "གོ་བརྗེའི་རྣམ་པ།"
+
+msgid "Displacement map:"
+msgstr "གོ་བརྗེའི་སྦྱར་རིས།:"
+
+msgid "Displacing"
+msgstr "གནས་སྤོ།"
+
+msgid "Display as:"
+msgstr "ལ་མངོན་པ།:"
+
+msgid "Display information about plug-ins"
+msgstr "བསྒར་ལྷུའི་སྐོར་གྱི་ཆ་འཕྲིན་མངོན་པ།"
+
+msgid "Distance:"
+msgstr "བར་ཐག："
+
+msgid "Distort an image by whirling and pinching"
+msgstr "འཁྱིལ་འཁོར་དང་གཙིར་གནོན་གྱིས་བརྙན་རིས་འཁྱོག་བཤད་བྱེད་པ།"
+
+msgid "Distort colors by random amounts"
+msgstr "སྐབས་བསྟུན་གྲངས་ཚད་ཀྱིས་ཁ་དོག་འཁྱོག་བཤད་བྱེད་པ།"
+
+msgid "Distort the image with waves"
+msgstr "རླབས་དབྱིབས་ཀྱིས་བརྙན་རིས་འཁྱོག་བཤད་བྱེད་པ།"
+
+msgid "Dither size:"
+msgstr "འདར་འགུལ་ཆེ་ཆུང་།:"
+
+msgid "Division"
+msgstr "ཕྲལ་བ།"
+
+msgid "Do _preview"
+msgstr "སྔོན་ལྟ་བྱེད་པ། (_P)"
+
+msgid "Do you really want to discard your changes?"
+msgstr "ཁྱེད་ཀྱི་བཟོ་བཅོས་དངོས་གནས་དོར་རམ།"
+
+msgid "DoG Edge Detect"
+msgstr "ཀོ་སིན་ཁྱད་ཆའི་མུ་འགྲམ་གྱི་བཤེར་འཇལ།"
+
+msgid "Downloaded %s of image data"
+msgstr "%s ཡི་བརྙན་རིས་གཞི་གྲངས་ཕབ་ལེན་ཟིན་པ།"
+
+msgid "Downloading %s of image data"
+msgstr "%s ཡི་བརྙན་རིས་གཞི་གྲངས་ཕབ་ལེན་བཞིན་པ། "
+
+msgid "Downloading image (%s of %s)"
+msgstr "བརྙན་རིས་ཕབ་ལེན་བཞིན་པ། ( ཨང %s，བསྡོམས  %s )"
+
+msgid "Downloading unknown amount of image data"
+msgstr "སྤྱི་འབོར་ངེས་མེད་ཀྱི་བརྙན་རིས་གཞི་གྲངས་ཕབ་ལེན་བཞིན་པ།"
+
+msgid "Downloading webpage '%s'"
+msgstr "དྲ་ངོས “%s” ཕབ་ལེན་བཞིན་པ།"
+
+msgid "Draw a border of spikes around the image"
+msgstr "བརྙན་རིས་ཀྱི་མུ་འགྲམ་དུ་མེ་སྟག་རབ་དང་རིམ་པ་སྣོན་པ།"
+
+msgid "Draw a grid on the image"
+msgstr "བརྙན་རིས་ཀྱི་སྟེང་དྲ་མིག་འབྲི་བ།"
+
+msgid "Draw a labyrinth"
+msgstr "མགོ་འཁོར་བའི་ཕོ་བྲང་འབྲི་བ།"
+
+msgid "Drawables have different size"
+msgstr "བརྙན་རིས་ཀྱི་ཆེ་ཆུང་མི་འདྲ་བ།"
+
+msgid "Drawing Settings"
+msgstr "རི་མོ་འབྲི་བའི་སྒྲིག་འགོད།"
+
+msgid "Drawing flame"
+msgstr "མེ་ལྕེ་འབྲི་བ།"
+
+msgid "Drawing grid"
+msgstr "དྲ་མིག་འབྲི་བ།"
+
+msgid "Drawing maze"
+msgstr "མགོ་འཁོར་བའི་ཕོ་བྲང་འབྲི་བ།"
+
+msgid "Draws lines between the control points. Only during curve creation"
+msgstr ""
+"ཚོད་འཛིན་ཚེག་བར་དྲང་ཐིག་འབྲེལ་བ། དེ་འཁྱོག་ཐིག་བཟོ་བ་ཁོ་ནར་ནུས་པ་ཐོན་པ་ཡིན།"
+
+msgid "Drop shadow"
+msgstr "འཕྲོ་གྲིབ།"
+
+msgid "Dy_namic:"
+msgstr "འགུལ་རྣམ། (_N)："
+
+msgid "EOF encountered on reading"
+msgstr "ཀློག་འཇུག་སྐབས་ཡིག་ཆའི་མཇུག་སྒྲིལ་རྟགས་འཕྲད་པ།"
+
+msgid "E_levation:"
+msgstr "གྱེན་ཟུར། (_L)："
+
+msgid "E_nable bump mapping"
+msgstr "ཀོང་འབུར་སྦྱར་རིས་སྤྱོད་པ། (_N)"
+
+msgid "E_nable environment mapping"
+msgstr "ཁོར་ཡུག་རྟེན་འཕྲོ་སྤྱོད་པ། (_N)"
+
+msgid "E_rode"
+msgstr "རུལ་ཟད། (_R)"
+
+msgid "E_xtend"
+msgstr "རྒྱ་སྐྱེད།(_X)"
+
+msgid "Each piece has curved sides"
+msgstr "རྡོག་ཆུང་གི་མུ་འགྲམ་ནི་གུག་འདུག"
+
+msgid "Each piece has straight sides"
+msgstr "རྡོག་ཆུང་གི་མུ་འགྲམ་ནི་དྲང་མོ་རེད།"
+
+msgid "Edge Affected"
+msgstr "མུ་འགྲམ་འབྲས་བུ།"
+
+msgid "Edge Behavior"
+msgstr "མུ་འགྲམ་བྱ་སྤྱོད།"
+
+msgid "Edge Detection"
+msgstr "མུ་འགྲམ་བཤེར་འཇལ།"
+
+msgid "Edge darken:"
+msgstr "མུ་འགྲམ་གཏིང་ཟབ།:"
+
+msgid "Edge detection"
+msgstr "མུ་འགྲམ་བཤེར་འཇལ།"
+
+msgid "Edge detection with control of edge thickness"
+msgstr "མུ་འགྲམ་གྱི་སྦོམ་ཕྲའི་ཚོད་འཛིན་ཡོད་པའི་མུ་འགྲམ་བཤེར་འཇལ།"
+
+msgid "Edges"
+msgstr "མུ་འགྲམ།"
+
+msgid "Edit Area _Info..."
+msgstr "ཁུལ་ཁོངས་ཆ་འཕྲིན་གྱི་རྩོམ་སྒྲིག (_I)…"
+
+msgid "Edit Flame"
+msgstr "མེ་ལྕེ་རྩོམ་སྒྲིག"
+
+msgid "Edit Map Info"
+msgstr "འཕྲོ་བརྙན་ཆ་འཕྲིན་རྩོམ་སྒྲིག"
+
+msgid "Edit Map Info..."
+msgstr "འཕྲོ་བརྙན་ཆ་འཕྲིན་རྩོམ་སྒྲིག…"
+
+msgid "Edit Object"
+msgstr "བྱ་ཡུལ་རྩོམ་སྒྲིག"
+
+msgid "Edit selected area info"
+msgstr "བདམས་པའི་ཁུལ་ཁོངས་ཀྱི་ཆ་འཕྲིན་རྩོམ་སྒྲིག"
+
+msgid "Editing read-only object - you will not be able to save it"
+msgstr "ཀློག་ཙམ་གྱི་བྱ་ཡུལ་རྩོམ་སྒྲིག - ཁྱེད་ཀྱི་དེ་ལ་ཉར་ཚགས་བྱེད་མི་ཐུབ།"
+
+msgid "Effect Channel"
+msgstr "འབྲས་བུའི་རྒྱུ་ལམ།"
+
+msgid "Effect Operator"
+msgstr "འབྲས་བུའི་བཀོལ་སྤྱོད།"
+
+msgid "Emboss"
+msgstr "འབུར་བརྐོས།"
+
+msgid "En_grave..."
+msgstr "འབྲི་བ། (_G)…"
+
+msgid "En_vironment image:"
+msgstr "ཁོར་ཡུག་བརྙན་རིས། (_V)："
+
+msgid "Enable _antialiasing"
+msgstr "ལྡོག་པའི་སོག་ལེའི་ཁ་སྤྱོད་པ། (_A)"
+
+msgid "Enable preview to obtain the file size."
+msgstr "སྔོན་ལྟ་སྤྱད་ནས་ཡིག་ཆའི་ཆེ་ཆུང་ཐོབ་པ།"
+
+msgid "Enable/disable bump-mapping (image depth)"
+msgstr "སྤྱོད་པ / སྤྱོད་འགོག་ཀོང་འབུར་སྦྱར་རིས། ( བརྙན་རིས་ཟབ་ཚད། )"
+
+msgid "Enable/disable environment-mapping (reflection)"
+msgstr "སྤྱོད་པ / སྤྱོད་འགོག་ཁོར་ཡུག་རྟེན་འཕྲོ། ( ལྡོག་འཕྲོ། )"
+
+msgid "Enable/disable high quality preview"
+msgstr "སྤྱོད་པ / སྤྱོད་འགོག་སྤུས་ཚད་མཐོ་བའི་སྔོན་ལྟ།"
+
+msgid "Enable/disable jagged edges removal (antialiasing)"
+msgstr ""
+"སྤྱོད་པ / "
+"སྤྱོད་འགོག་ལྡོག་པའི་སོག་ལེའི་ཁ་དབྱིབས་ཀྱི་མུ་འགྲམ་འཇམ་སྙོམས་ཐག་གཅོད། ( "
+"ལྡོག་པའི་སོག་ལེའི་ཁ )"
+
+msgid "Enable/disable real time preview of changes"
+msgstr "སྤྱོད་པ / སྤྱོད་འགོག་དུས་ཐོག་སྔོན་ལྟ།"
+
+msgid "Encapsulated PostScript image"
+msgstr "བཏུམ་པའི་བརྙན་རིས PostScript། (EPS)(_E)"
+
+msgid "End of element <%s> not expected in this context"
+msgstr "གོང་འོག་ཡི་གེ་འདིའི་ནང་གཞི་རྒྱུ <%s> ཡི་རྫོགས་ས་རེ་སྒུག་མི་བྱེད་པ།"
+
+msgid "Engrave"
+msgstr "འབྲི་བ།"
+
+msgid "Engraving"
+msgstr "འབྲི་བ།"
+
+msgid "Enhance contrast using the Retinex method"
+msgstr "ཐབས་ཤེས Retinex སྤྱད་ནས་སྡུར་ཚད་དྲག་འཕེལ་བྱེད་པ།"
+
+msgid "Enter a name for the copied GFlare"
+msgstr "འདྲ་ཕབ་བྱས་པའི་རིམ་འགྱུར་འོད་འཁྱུག་ལ་མིང་ཞིག་འཇུག་པ།"
+
+msgid "Enter a name for the new GFlare"
+msgstr "རིམ་འགྱུར་འོད་འཁྱུག་གསར་པར་མིང་ཞིག་འཇུག་པ།"
+
+msgid "Enter copyright information."
+msgstr "པར་དབང་གི་ཆ་འཕྲིན་འཇུག་པ།"
+
+msgid "Enter license information."
+msgstr "ཆོག་མཆན་ལག་ཁྱེར་གྱི་ཆ་འཕྲིན་འཇུག་པ།"
+
+msgid "Enter location (URI):"
+msgstr "གནས་ས་འཇུག་པ། (URI)："
+
+msgid "Enter other comment if you want."
+msgstr "ཁྱེད་ཀྱི་མཆན་འགྲེལ་གཞན་འཇུག་ཆོག"
+
+msgid "Enter time span in milliseconds in which each frame is rendered."
+msgstr "ལྷེབ་མ་རེ་རེའི་སྒྲོ་འདོགས་དུས་ཚོད་བར་ཆོད་ཀྱི་ཧའོ་སྐར་ཆའི་གྲངས་འཇུག་པ།"
+
+msgid "Entire Layer"
+msgstr "རིས་རིམ་ཆ་ཚང་།"
+
+msgid "Env. sensitivity:"
+msgstr "ཁོར་ཡུག་ཚོར་སྐྱེན་ཚད།："
+
+msgid "Environment image to use"
+msgstr "སྤྱོད་བྱའི་ཁོར་ཡུག་བརྙན་རིས།"
+
+msgid "Error during open of FITS file"
+msgstr "ཡིག་ཆ FITS ཁ་ཕྱེ་བའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error during writing indexed/gray image"
+msgstr "གསལ་བྱང / སྐྱ་ཚད་བརྙན་རིས་འབྲི་བའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error during writing rgb image"
+msgstr "བརྙན་རིས RGB འབྲི་བའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error in GIMP brush file '%s'"
+msgstr "GIMP རིས་པིར་ཡིག་ཆ “%s” ནོར་འདུག"
+
+msgid "Error in GIMP brush pipe file."
+msgstr "GIMP རིས་པིར་སྦུག་ལམ་གྱི་ཡིག་ཆ་ནོར་འདུག"
+
+msgid "Error in getting layer IDs"
+msgstr "རིས་རིམ ID ལེན་པའི་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "Error loading PNG file: %s"
+msgstr "ཡིག་ཆ PNG ཀློག་འཇུག་ནོར་འཁྲུལ་ཐོན་པ།：%s"
+
+msgid "Error loading PSD file: %s"
+msgstr "ཡིག་ཆ PSD ཁ་ཕྱེ་བའི་ནོར་འཁྲུལ་ཐོན་པ།：%s"
+
+msgid "Error loading UI file '%s': %s"
+msgstr "སྤྱོད་མཁན་མཚམས་ངོས་ཀྱི་ཡིག་ཆ “%s” ཁ་ཕྱེ་བའི་ནོར་འཁྲུལ་ཐོན་པ།：%s"
+
+msgid "Error loading desktop file '%s': %s"
+msgstr "ཅོག་ངོས་ཡིག་ཆ “%s” \"ཁ་ཕྱེ་བའི་ནོར་འཁྲུལ་ཐོན་པ：%s"
+
+msgid "Error on line %d char %d: %s"
+msgstr "ཕྲེང་ཨང %d ཡི་ཡིག་རྟགས་ཨང %d མཚམས་སུ་ནོར་འཁྲུལ་ཐོན་པ།：%s"
+
+msgid "Error opening file '%s'"
+msgstr "ཡིག་ཆ “%s” ཁ་ཕྱེ་བའི་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "Error reading BMP file header from '%s'"
+msgstr "“%s” ནས་ཡིག་ཆའི་མགོ BMP ཀློག་པའི་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "Error reading file"
+msgstr "ཡིག་ཆ་ཀློག་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error reading file."
+msgstr "ཡིག་ཆ་ཀློག་པའི་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "Error scanning 'decompose-data' parasite: too few layers found"
+msgstr ""
+"“དབྱེ་ཕྲལ་གཞི་གྲངས”གཞན་རྟེན་སྐྱེ་དངོས་བཤར་འབེབས་པའི་ནོར་འཁྲུལ：རྙེད་པའི་རིས་རིམ་ཧ་ཅང་ཉུང་བ།"
+
+msgid "Error selecting the window"
+msgstr "སྒེའུ་ཁུང་འདེམ་པའི་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "Error trying to open temporary file '%s' for parasite loading: %s"
+msgstr ""
+"གནས་སྐབས་ཡིག་ཆ “%s” "
+"ཁ་ཕྱེ་ནས་གཞན་རྟེན་སྐྱེ་དངོས་ཁུར་སྣོན་སྐབས་ནོར་འཁྲུལ་ཐོན་པར་སྤྱོད་པ།:%s"
+
+msgid ""
+"Error trying to save figure as a parasite: can't attach parasite to "
+"drawable."
+msgstr ""
+"རིས་དབྱིབས་དེ་གཞན་རྟེན་སྐྱེ་དངོས་ལ་གཞན་ཉར་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།:གཞན་རྟེན་སྐྱེ་དངོས་དེ་བརྙན་རིས་ལ་སྣོན་ཐབས་བྲལ།"
+
+msgid "Error while reading '%s'. File corrupted?"
+msgstr "“%s” ཀློག་ལེན་གྱི་ནོར་འཁྲུལ་ཐོན་པ། ཡིག་ཆ་སྐྱོན་ཤོར་ཟིན་ནམ།"
+
+msgid "Error while reading '%s': %s"
+msgstr "“%s” ཀློག་ལེན་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།:%s"
+
+msgid "Error while saving '%s'. Could not save image."
+msgstr "“%s” ཉར་ཚགས་ཀྱི་ནོར་འཁྲུལ་ཐོན་པ། བརྙན་རིས་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Error writing output file."
+msgstr "ཕྱིར་འདོན་ཡིག་ཆ་འབྲི་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "Error: Can't convert GIMP base imagetype to PSD mode"
+msgstr ""
+"ནོར་འཁྲུལ་ཐོན་པ： རྨང་གཞིའི་བརྙན་རིས་རིགས་གྲས GIMP དེ་རྣམ་པ PSD "
+"ལ་བརྗེ་སྤོར་བྱེད་ཐབས་བྲལ།"
+
+msgid "Error: Could not read XJT property file '%s'."
+msgstr "ནོར་འཁྲུལ་ཐོན་པ།: XJT གཏོགས་གཤིས་ཡིག་ཆ “%s” ཀློག་ལེན་བྱེད་ཐབས་བྲལ། "
+
+msgid "Error: No XMP packet found"
+msgstr "ནོར་འཁྲུལ་ཐོན་པ།： ཐུམ XMP རྙེད་མེད་པ།"
+
+msgid "Error: XJT property file '%s' is empty."
+msgstr "ནོར་འཁྲུལ་ཐོན་པ།:XJT གཏོགས་གཤིས་ཡིག་ཆ “%s” ནི་སྟོང་པ་ཡིན།"
+
+msgid "Error: failed to load parameters"
+msgstr "ནོར་འཁྲུལ་ཐོན་པ།: ཞུགས་གྲངས་ཁུར་སྣོན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Error: it's not CML parameter file."
+msgstr "ནོར་འཁྲུལ་ཐོན་པ།: འདི་ནི་ཞུགས་གྲངས་ཡིག་ཆ CML མིན་པ།"
+
+msgid "Evenly distributed"
+msgstr "སྙོམས་པའི་ཁྱབ་ཚུལ།"
+
+msgid "Exp.:"
+msgstr "སྟོན་གྲངས།:"
+
+msgid "Expected element <%s>, found <%s> instead"
+msgstr "གཞི་རྒྱུ <%s> རེ་སྒུག་བྱས་ཀྱང <%s> རྙེད་པ།"
+
+msgid "Expected text or optional element <%s>, found <%s> instead"
+msgstr "ཡི་གེ་འམ་ཡང་ན་འདེམས་རུང་གཞི་རྒྱུ <%s> རེ་སྒུག་བྱས་ཀྱང <%s> རྙེད་པ།"
+
+msgid "Exponential"
+msgstr "སྟོན་གྲངས།"
+
+msgid "Export Preview"
+msgstr "ཕྱིར་འདྲེན་སྔོན་ལྟ།"
+
+msgid "Extra"
+msgstr "ལྷག་མ།"
+
+msgid "Extract Channels"
+msgstr "རྒྱུ་ལམ་ལེན་པ།"
+
+msgid "Eyefish"
+msgstr "མིག་ཉ།"
+
+msgid "FITS file keeps no displayable images"
+msgstr "ཡིག་ཆ FITS ལ་མངོན་རུང་གི་བརྙན་རིས་ཚུད་མེད་པ།"
+
+msgid "FITS save cannot handle images with alpha channels"
+msgstr ""
+"FITS ཉར་ཚགས་ཀྱིས་ Alpha ཡོད་པའི་རྒྱུ་ལམ་གྱི་བརྙན་རིས་ཐག་གཅོད་བྱེད་མི་ཐུབ་པ།"
+
+msgid "FP can only be run interactively."
+msgstr "FP དེ་སྤེལ་རེས་རྣམ་པ་ཁོ་ནས་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "FP can only be used on RGB images."
+msgstr "FP དེ་བརྙན་རིས RGB ཁོ་ནར་སྤྱོད་པ།"
+
+msgid "F_ile"
+msgstr "ཡིག་ཆ། (_I)"
+
+msgid "F_irst color:"
+msgstr "ཁ་དོག་ཨང་དང་པོ། (_I)："
+
+msgid "F_lare intensity:"
+msgstr "འོད་འཁྱུག་དྲག་ཚད། (_L)："
+
+msgid "Failed to open '%s': %s"
+msgstr "“%s” ཁ་ཕྱེ་ཐབས་བྲལ།：%s"
+
+msgid "Failed to open GFlare file '%s': %s"
+msgstr "རིམ་འགྱུར་འོད་འཁྱུག་གི་ཡིག་ཆ “%s” ཁ་ཕྱེ་ཐབས་བྲལ།：%s"
+
+msgid "Failed to save PPM file '%s': %s"
+msgstr "PPM ཡིག་ཆ “%s” ཉར་ཚགས་བྱེད་ཐབས་བྲལ།：%s"
+
+msgid "Failed to write GFlare file '%s': %s"
+msgstr "རིམ་འགྱུར་འོད་འཁྱུག་གི་ཡིག་ཆ “%s” འབྲི་ཐབས་བྲལ།:%s"
+
+msgid "Fan"
+msgstr "གཡབ་དབྱིབས།"
+
+msgid "Fast Integer"
+msgstr "མགྱོགས་མྱུར་ཧྲིལ་གྲངས།"
+
+msgid "Faster"
+msgstr "མགྱོགས་སུ་གཏོང་བ།"
+
+msgid "Feather"
+msgstr "སྒྲོ་འགྱུར།"
+
+msgid "File \"%s\" saved."
+msgstr "ཡིག་ཆ “%s” ཉར་ཚགས་ཟིན།"
+
+msgid "File '%s' doesn't seem to be an IFS Fractal file."
+msgstr "ཡིག་ཆ “%s” ཕལ་ཆེར IFS དབྱིབས་འབྱེད་ཡིག་ཆ་མིན་པ།"
+
+msgid "File '%s' is not a FractalExplorer file"
+msgstr "ཡིག་ཆ “%s” དབྱིབས་འབྱེད་འཚོལ་ཞིབ་ཆས་ཀྱི་ཡིག་ཆ་ཞིག་མིན་པ།"
+
+msgid "File '%s' is not a valid save file."
+msgstr "ཡིག་ཆ “%s” ནུས་ལྡན་གྱི་ཉར་ཚགས་ཡིག་ཆ་མིན།"
+
+msgid "File not in a supported format."
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ཡིག་ཆའི་རྣམ་གཞག"
+
+msgid "File size: %s"
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་།:%s"
+
+msgid "File size: unknown"
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་།:ངེས་མེད།"
+
+msgid "Filename:"
+msgstr " ཡིག་ཆའི་མིང་།"
+
+msgid "Fill"
+msgstr "ཁ་སྐོང་།"
+
+msgid "Fill (bottom to top)"
+msgstr "ཁ་སྐོང་། ( འོག་ནས་གོང་བར )"
+
+msgid "Fill (left to right)"
+msgstr "ཁ་སྐོང་། ( གཡོན་ནས་གཡས་བར )"
+
+msgid "Fill (right to left)"
+msgstr "ཁ་སྐོང་། ( གཡས་ནས་གཡོན་བར )"
+
+msgid "Fill (top to bottom)"
+msgstr "ཁ་སྐོང་། ( གོང་ནས་འོག་བར )"
+
+msgid "Fill with parameter k"
+msgstr "ཞུགས་གྲངས k ཡིས་ཁ་སྐོང་།"
+
+msgid "Filmstrip"
+msgstr "སྤྱིན་ཤོག"
+
+msgid "Filter"
+msgstr "གནད་ཡིག"
+
+msgid "Filter Pack Simulation"
+msgstr "མཉམ་སྒྲིག་འཚག་ཤེལ་གྱི་ལད་ཟློས།"
+
+msgid "Find _Again"
+msgstr "ཡང་བསྐྱར་འཚོལ་བ། (_A)"
+
+msgid "Find and fix pixels that may be unsafely bright"
+msgstr ""
+"བདེ་འཇགས་མིན་པའི་གསལ་ཚད་ཡོད་པའི་བརྙན་རྒྱུ་འཚོལ་བ་དང་ཆབས་གཅིག་ཉམས་གསོ་བྱེད་པ།"
+
+msgid "Find text in current page"
+msgstr "མིག་སྔའི་ཤོག་ལྷེའི་ཡི་གེ་འཚོལ་བ།"
+
+msgid "Find:"
+msgstr "འཚོལ་བ།:"
+
+msgid "Finding XY gradient"
+msgstr "སྐས་ཚད XY འཚོལ་བ། "
+
+msgid "Finding animation background"
+msgstr "འགུལ་རིས་ཀྱི་རྒྱབ་ལྗོངས་འཚོལ་བ།"
+
+msgid "Finding edges"
+msgstr "མུ་འགྲམ་འཚོལ་བ།"
+
+msgid "First Gfig"
+msgstr "དབྱིབས་རྩིས་རིས་དབྱིབས་ཨང་དང་པོ།"
+
+msgid "First color"
+msgstr "ཁ་དོག་ཨང་དང་པོ།"
+
+msgid "Fisheye"
+msgstr "ཉ་མིག"
+
+msgid "Fix Seed"
+msgstr "གཏན་འཇགས་ས་བོན།"
+
+msgid "Fix images where every other row is missing"
+msgstr "བརྙན་རིས་ཀྱི་ཕྲེང་བགོམ་བརླག་པ་ཉམས་གསོ།"
+
+msgid "Fixed-direction-vector map selection menu"
+msgstr "ཕྱོགས་ངེས་ཕྱོགས་ཚད་ཀྱི་རི་མོའི་འདེམས་བྱང་འདེམ་པ།"
+
+msgid "Flame"
+msgstr "མེ་ལྕེ།"
+
+msgid "Flame works only on RGB drawables."
+msgstr "མེ་ལྕེ་དེ་བརྙན་རིས RGB ཁོ་ནར་ནུས་པ་ལྡན་པ་ཡིན།"
+
+msgid "Flexible Image Transport System"
+msgstr "བརྙན་རིས་བརྒྱུད་གཏོང་སྐྱེན་པོའི་རྒྱུད་ཁོངས།"
+
+msgid "Floating-Point"
+msgstr "འཕྱོ་ཚེག་གྲངས།"
+
+msgid "Flow step %d"
+msgstr "གོམ་པ་ཨང %d ལྟར།"
+
+msgid "Flowing"
+msgstr "རྒྱུག་ཐིག"
+
+msgid "Fo_reground color"
+msgstr "མདུན་ལྗོངས་ཁ་དོག (_R)"
+
+msgid "Focus the brush strokes around the center of the image"
+msgstr "སྨྱུག་ཁམ་དེ་བརྙན་རིས་ལྟེ་གནས་ཀྱི་ཉེ་འགྲམ་དུ་འདུ་འཛོམ་བྱེད་པ།"
+
+msgid "Font size:"
+msgstr "ཡིག་གཟུགས་ཆེ་ཆུང་།"
+
+msgid "Foreground"
+msgstr "མདུན་ལྗོངས་ཁ་དོག"
+
+msgid "Foreground / background colors"
+msgstr "མདུན་ལྗོངས / རྒྱབ་ལྗོངས་ཁ་དོག"
+
+msgid "Foreground color"
+msgstr "མདུན་ལྗོངས་ཁ་དོག"
+
+msgid "Fractal Explorer"
+msgstr "དབྱིབས་འབྱེད་འཚོལ་ཞིབ་ཆས།"
+
+msgid "Fractal Parameters"
+msgstr "དབྱིབས་འབྱེད་ཞུགས་གྲངས།"
+
+msgid "Fractal Trace"
+msgstr "དབྱིབས་འབྱེད་གོང་འདེད།"
+
+msgid "Fractal Type"
+msgstr "དབྱིབས་འབྱེད་རིགས་གྲས།"
+
+msgid "FractalExplorer Gradient"
+msgstr "དབྱིབས་འབྱེད་འཚོལ་ཞིབ་ཆས་ཀྱི་རིམ་འགྱུར།"
+
+msgid "Fractional Pixels"
+msgstr "བརྙན་རྒྱུ་ཐོར་བུ།"
+
+msgid "Frame %d"
+msgstr "ལྷེབ་མ་ %d"
+
+msgid "Frame %d (%d%s)"
+msgstr "ལྷེབ་མ་ %d། (%d%s)"
+
+msgid "Frame %d of %d"
+msgstr "ལྷེབ་མ་ %d/%d"
+
+msgid "Frame (%i)"
+msgstr "ལྷེབ་མ། (%i)"
+
+msgid "Frequencies"
+msgstr "ཟློས་ཕྱོད།"
+
+msgid "From Color"
+msgstr "ཁ་དོག་ནས།"
+
+msgid "From _Webpage..."
+msgstr "དྲ་ངོས་ནས། (_W)…"
+
+msgid "From gradient"
+msgstr "རིམ་འགྱུར་ནས་ལེན་པ།"
+
+msgid "From paper"
+msgstr "རིས་ཤོག་ནས་ལེན་པ།"
+
+msgid "From reverse gradient"
+msgstr "ལྡོག་ཕྱོགས་ཀྱི་རིམ་འགྱུར་ནས་ལེན་པ།"
+
+msgid "Front:"
+msgstr "མདུན།:"
+
+msgid "Full"
+msgstr "ཆ་ཚང་།"
+
+msgid "Function"
+msgstr "བྱེད་ནུས།"
+
+msgid "Function type:"
+msgstr "རྟེན་འབྱུང་གྲངས་ཀྱི་རིགས་གྲས།："
+
+msgid "G-Qbist"
+msgstr "G-Qbist"
+
+msgid "G3 fax image"
+msgstr "G3 བརྙན་སྐྱེལ་གྱི་བརྙན་རིས།"
+
+msgid "GFLI 1.3"
+msgstr "GFLI 1.3"
+
+msgid "GFLI 1.3 - Load framestack"
+msgstr "GFLI 1.3 - ལྷེབ་མའི་དོས་ཁང་ཁུར་སྣོན།"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "GIF image"
+msgstr "བརྙན་རིས། GIF"
+
+msgid "GIMP Help Browser"
+msgstr "GIMP རོགས་རམ་མིག་བཤར་ཆས།"
+
+msgid "GIMP brush"
+msgstr "རིས་པིར། GIMP "
+
+msgid "GIMP brush (animated)"
+msgstr "རིས་པིར། GIMP། ( འགུལ་རིས )"
+
+msgid "GIMP brush file appears to be corrupted."
+msgstr "རིས་པིར་ཡིག་ཆ GIMP ལ་བལྟས་ན་སྐྱོན་ཤོར་འདུག"
+
+msgid "GIMP brushes are either GRAYSCALE or RGBA"
+msgstr "རིས་པིར GIMP དེ་སྐྱ་ཚད་དམ་ཡང་ན RGBA ཁོ་ན་ཡིན་དགོས།"
+
+msgid "GIMP compressed XJT image"
+msgstr "སྡུད་སྒྲིལ་ GIMP ཡི་བརྙན་རིས XJT"
+
+msgid "GIMP pattern"
+msgstr "དཔེ་རིས་ GIMP"
+
+msgid "G_low"
+msgstr "འོད་འབར། (_L)"
+
+msgid "G_reen threshold:"
+msgstr "ལྗང་ཁུའི་མཚམས་ཐང་། (_R)："
+
+msgid "Gamma:"
+msgstr "Gamma："
+
+msgid "Gaussian Blur"
+msgstr "ཀོ་སིན་རབ་རིབ།"
+
+msgid "General"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
+
+msgid "General Options"
+msgstr " རྒྱུན་སྲོལ་འདེམས་ཚན།"
+
+msgid "General Preferences"
+msgstr "ཀུན་སྤྱོད་ཀྱི་སྔོན་འདེམས་ཚན་པ།"
+
+msgid "Generate a huge variety of abstract patterns"
+msgstr "བརྙན་འདེབས་དཔེ་རིས་མི་འདྲ་བ་མང་པོ་འབྱུང་བ།"
+
+msgid "Generate complex sinusoidal textures"
+msgstr "མཉམ་འདུས་ཀྱི་དྲང་རྒྱུད་འཁྱོག་ཐིག་ཁྲ་རིས་འབྱུང་བ།"
+
+msgid "Generate diffraction patterns"
+msgstr "སྐོར་འཕྲོའི་དཔེ་རིས་འབྱུང་བ།"
+
+msgid "Get _Sample Colors"
+msgstr "མ་དཔེའི་ཁ་དོག་ཐོབ་པ། (_S)"
+
+msgid "Gfig"
+msgstr "དབྱིབས་རྩིས་ཀྱི་རིས་དབྱིབས། (GFig)"
+
+msgid "Gimpressionist Defaults"
+msgstr "GIMPressionist ཡི་སོར་བཞག་གྲངས་བྲིན།"
+
+msgid "Glass Tile"
+msgstr "ཤེལ་གྱི་རྫ་ལེབ།"
+
+msgid "Glow Paint Options"
+msgstr "འོད་འབར་རི་མོ་འབྲི་བའི་འདེམས་ཚན།"
+
+msgid "Go back one page"
+msgstr "ཤོག་ལྷེ་གཅིག་ཕྱི་བཤོལ།"
+
+msgid "Go forward one page"
+msgstr "ཤོག་ལྷེ་གཅིག་མདུན་སྐྱོད།"
+
+msgid "Go to the index page"
+msgstr "གསལ་བྱང་ལྡེབ་ངོས་ལ་སྤོ་བ།"
+
+msgid "Gr_ey"
+msgstr "སྐྱ་མདོག (_E)"
+
+msgid "Grab"
+msgstr "འཛིན་ལེན།"
+
+msgid "Grab a single window"
+msgstr "སྒེའུ་ཁུང་རྐྱང་པ་གཅོད་ལེན།"
+
+msgid "Grab the whole screen"
+msgstr "བརྙན་ཡོལ་ཆ་ཚང་གཅོད་ལེན།"
+
+msgid "Gradient"
+msgstr "རིམ་འགྱུར།"
+
+msgid "Gradient Flare"
+msgstr "རིམ་འགྱུར་འོད་འཁྱུག"
+
+msgid "Gradient Flare Editor"
+msgstr "རིམ་འགྱུར་འོད་འཁྱུག་གི་རྩོམ་སྒྲིག་ཆས།"
+
+msgid "Gradient Map"
+msgstr "རིམ་འགྱུར་རྟེན་འཕྲོ།"
+
+msgid "Gradient map selection menu"
+msgstr "རིམ་འགྱུར་སྦྱར་རིས་ཀྱིས་འདེམས་བྱང་འདེམ་པ།"
+
+msgid "Gradient scale:"
+msgstr "རིམ་འགྱུར་ཁྱབ་ཁོངས།:"
+
+msgid "Gradients"
+msgstr "རིམ་འགྱུར།"
+
+msgid "Graph of the Current Settings"
+msgstr "མིག་སྔར་སྒྲིག་འགོད་བྱས་པའི་བརྙན་རིས།"
+
+msgid "Graphic antialiasing"
+msgstr "བརྙན་རིས་འཇམ་སྙོམས།"
+
+msgid "Gray"
+msgstr "སྐྱ་ཚད།"
+
+msgid "Gray Mode"
+msgstr "སྐྱ་མདོག་རྣམ་པ།"
+
+msgid "Gray Options"
+msgstr "སྐྱ་ཚད་འདེམས་ཚན།"
+
+msgid "Gray Threshold"
+msgstr "སྐྱ་མདོག་མཚམས་ཐང་།"
+
+msgid "Green"
+msgstr "ལྗང་མདོག"
+
+msgid "Green fr_equency:"
+msgstr "ལྗང་ཁུའི་ཟློས་ཕྱོད། (_E)："
+
+msgid "Green ph_aseshift:"
+msgstr "ལྗང་ཁུའི་མཚན་སྤོ། (_A)："
+
+msgid "Green:"
+msgstr "ལྗང་ཁུ།:"
+
+msgid "Grey"
+msgstr "སྐྱ་མདོག"
+
+msgid "Grid"
+msgstr "དྲ་མིག"
+
+msgid "Grid Granularity"
+msgstr "དྲ་མིག་ཆེ་ཆུང་།"
+
+msgid "Grid Offset"
+msgstr "དྲ་མིག་གནས་སྤོ།"
+
+msgid "Grid Settings"
+msgstr "དྲ་མིག་སྒྲིག་འགོད།"
+
+msgid "Grid Settings..."
+msgstr "དྲ་མིག་སྒྲིག་འགོད།"
+
+msgid "Grid Visibility and Type"
+msgstr "དྲ་མིག་གི་མཐོང་རུང་རང་བཞིན་དང་རིགས་གྲས།"
+
+msgid "Grid color:"
+msgstr "དྲ་མིག་ཁ་དོག："
+
+msgid "Grid spacing:"
+msgstr "དྲ་མིག་བར་ཐག："
+
+msgid "Grid type:"
+msgstr "དྲ་མིག་རིགས་གྲས།："
+
+msgid "Grow lighter areas of the image"
+msgstr "བརྙན་རིས་ནང་གི་ཅུང་གསལ་བའི་ཁུལ་ཁོངས་རྒྱ་སྐྱེད་བྱེད་པ།"
+
+msgid "Guides"
+msgstr "ཟུར་ལྟའི་ཐིག"
+
+msgid "Guillotine"
+msgstr "དུམ་བགོད།"
+
+msgid "HSL"
+msgstr "HSL"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HSV Noise"
+msgstr "འཛེར་སྒྲ་HSV "
+
+msgid "HSV Noise..."
+msgstr "འཛེར་སྒྲ་HSV"
+
+msgid "HTML Page Options"
+msgstr "ལྡེབ་ངོས HTML ཡི་འདེམས་ཚན།"
+
+msgid "HTML table"
+msgstr "རེའུ་མིག HTML"
+
+msgid "H_ighlight:"
+msgstr "མཐོ་གསལ། (_I)："
+
+msgid "H_ighlights"
+msgstr "འོད་མཐོ། (_I)"
+
+msgid "H_ue"
+msgstr "ཚོས་གཞི། (_U)"
+
+msgid "H_ue:"
+msgstr "ཚོས་གཞི། (_U)："
+
+msgid "Halftone the image to give newspaper-like effect"
+msgstr ""
+"ཚོས་གཞི་ཕྱེད་ཀས་བརྙན་རིས་ཐག་གཅོད་བྱས་ཏེ་ཚགས་པར་འདྲ་བའི་འབྲས་བུ་འབྱུང་བ།"
+
+msgid "Handkerchief"
+msgstr "ཨ་ཅོར།"
+
+msgid "Heart"
+msgstr "སྙིང་དབྱིབས།"
+
+msgid "Height (pixels):"
+msgstr "མཐོ་ཚད། ( བརྙན་རྒྱུ )："
+
+msgid "Height:"
+msgstr "མཐོ་ཚད།"
+
+msgid "Help ID '%s' unknown"
+msgstr "ངེས་མེད་ཀྱི་རོགས་རམ་གྱི ID “%s”"
+
+msgid "Hexagons"
+msgstr "མཐའ་དྲུག་དབྱིབས།"
+
+msgid "Hey where has the object gone ?"
+msgstr "ཀྭ་ཡེ། བྱ་ཡུལ་དེ་རྣམས་གང་དུ་ཕྱིན་སོང་ངམ།"
+
+msgid "High"
+msgstr "མཐོ།"
+
+msgid "High _quality preview"
+msgstr "སྤུས་ཚད་མཐོ་བའི་སྔོན་ལྟ། (_Q)"
+
+msgid "High-resolution edge detection"
+msgstr "འབྱེད་ཕྱོད་མཐོ་བའི་མུ་འགྲམ་བཤེར་འཇལ།"
+
+msgid "Higher values increase the magnitude of the effect"
+msgstr "གྲངས་བྲིན་ཇི་ཙམ་ཆེ་ན་འབྲས་བུ་དེ་ཙམ་གྱི་མངོན་གསལ་དོད་པ།"
+
+msgid "Higher values makes the highlights more focused"
+msgstr "གྲངས་བྲིན་ཇི་ཙམ་ཆེ་ན་འོད་མཐོ་དེ་ཙམ་གྱི་གཅིག་བསྡུས་བྱེད་ཐུབ།"
+
+msgid "Higher values makes the object reflect more light (appear lighter)"
+msgstr ""
+"གྲངས་བྲིན་ཇི་ཙམ་ཆེ་ན་དངོས་གཟུགས་ལྡོག་འཕྲོའི་འོད་ཐིག་དེ་ཙམ་གྱི་མང་བ་ཡོད། ( "
+"ལྷག་པར་གསལ་བ།)"
+
+msgid "Higher values restrict the effect to fewer areas of the image"
+msgstr ""
+"གྲངས་བྲིན་ཇི་ཙམ་ཆེ་ན་འབྲས་བུའི་ཤུགས་རྐྱེན་ཐེབས་པའི་བརྙན་རིས་ཁུལ་ཁོངས་དེ་ཙམ་གྱི་ཆུང་བ་ཡོད།"
+
+msgid "Highlight:"
+msgstr "འོད་མཐོ།："
+
+msgid "Highlights:"
+msgstr "འོད་མཐོ།："
+
+msgid "Ho_ld the minimal channels"
+msgstr "རྒྱུ་ལམ་ཆུང་ཤོས་དེ་ཉར་བ། (_L)"
+
+msgid "Ho_le width:"
+msgstr "ཁུང་ཆུང་ཞེང་ཚད། (_L)："
+
+msgid "Ho_rizontal base:"
+msgstr "ཆུ་སྙོམས་ཁ་ཕྱོགས་ཀྱི་གཞི་ཚད། (_R)："
+
+msgid "Hol_e height:"
+msgstr "ཁུང་ཆུང་མཐོ་ཚད། (_E)："
+
+msgid "Hold intensity"
+msgstr "གསལ་ཚད་རྒྱུན་སྲུང་།"
+
+msgid "Hole sp_acing:"
+msgstr "ཁུང་ཆུང་བར་ཐག (_A)："
+
+msgid "Horizontal Color"
+msgstr "ཆུ་སྙོམས་ཁ་དོག"
+
+msgid "Horizontal gradient"
+msgstr "ཆུ་སྙོམས་རིམ་འགྱུར།"
+
+msgid "Horizontally"
+msgstr "ཆུ་སྙོམས།"
+
+msgid "Horseshoe"
+msgstr "རྟ་རྨིག"
+
+msgid "Hot"
+msgstr "སྐམ་ཚེག"
+
+msgid "Hot spot _X:"
+msgstr "སྐམ་ཚེག _X："
+
+msgid "Hot spot _Y:"
+msgstr "སྐམ་ཚེག _Y："
+
+msgid "How many units make up an inch."
+msgstr "དབྱིན་ཚུན་གཅིག་ནི་འཇལ་བྱེད་འདིའི་ལྡབ་ག་ཚོད་རེད།"
+
+msgid "How much to \"darken\" the drop shadow"
+msgstr "གྲིབ་ནག་གི་ཁ་དོག་གཏིང་ཟབ་དུ་ག་ཚོད་གཏོང་ངམ།"
+
+msgid "How much to \"darken\" the edges of each brush stroke"
+msgstr "སྨྱུ་གུ་རེ་རེའི་མུ་འགྲམ་མཚམས་དེ་གཏིང་ཟབ་དུ་ག་ཚོད་གཏོང་ངམ།"
+
+msgid "How much to blur the drop shadow"
+msgstr "གྲིབ་ནག་གི་རབ་རིབ་ཚད།"
+
+msgid "Hue"
+msgstr "ཚོས་གཞི།"
+
+msgid "Hue (HSL)"
+msgstr "ཚོས་གཞི། (HSL)"
+
+msgid "Hue Variations"
+msgstr "ཚོས་གཞིའི་འགྱུར་ལྡོག"
+
+msgid "Hue _frequency:"
+msgstr "ཚོས་གཞིའི་ཟློས་ཕྱོད། (_F)："
+
+msgid "Hue _phaseshift:"
+msgstr "ཚོས་གཞིའི་མཚན་སྤོ། (_P)："
+
+msgid "Hue rotation:"
+msgstr "ཚོས་གཞིའི་འཁྱིལ་འཁོར།："
+
+msgid "Hue:"
+msgstr "ཚོས་གཞི།："
+
+msgid "Huge"
+msgstr "རྒྱ་ཆེ།"
+
+msgid "Hyperbolic"
+msgstr "འཁྱོག་ཐིག་ཟུང་མ།"
+
+msgid "I don't care"
+msgstr "ངས་སེམས་ཁུར་མི་བྱེད།"
+
+msgid "ICC color profile (*.icc, *.icm)"
+msgstr "ICC ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆ། ( *.icc, *.icm )"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IFS Fractal"
+msgstr "IFS དབྱིབས་འབྱེད།"
+
+msgid "IFS Fractal Render Options"
+msgstr "IFS དབྱིབས་འབྱེད་སྒྲོ་འདོགས་ཀྱི་འདེམས་ཚན།"
+
+msgid "IFS Fractal: Black"
+msgstr "IFS དབྱིབས་འབྱེད།：ནག་པོ།"
+
+msgid "IFS Fractal: Blue"
+msgstr "IFS དབྱིབས་འབྱེད།：སྔོན་པོ།"
+
+msgid "IFS Fractal: Green"
+msgstr "IFS དབྱིབས་འབྱེད།：ལྗང་ཁུ།"
+
+msgid "IFS Fractal: Red"
+msgstr "IFS དབྱིབས་འབྱེད།：དམར་པོ།"
+
+msgid "IFS Fractal: Target"
+msgstr "IFS དབྱིབས་འབྱེད།：དམིགས་འབེན།"
+
+msgid "IWarp"
+msgstr "སྤེལ་རེས་ཚུལ་གྱི་འཁྱོག་པ།"
+
+msgid "I_ntensity"
+msgstr "དྲག་ཚད། (_N)"
+
+msgid "I_nteractive"
+msgstr "སྤེལ་རེས། (_N)"
+
+msgid "I_nvert bumpmap"
+msgstr "ལྡོག་ཕྱོགས་ཀོང་འབུར་གྱི་སྦྱར་རིས། (_N)"
+
+msgid "I_nverted image"
+msgstr "བརྙན་རིས་མཚན་ལྡོག (_N)"
+
+msgid "I_solate"
+msgstr "ཁེར་རྐྱང་། (_S)"
+
+msgid "Icon #%i"
+msgstr "རིས་རྟགས་ #%i"
+
+msgid "Icon Details"
+msgstr "རིས་རྟགས་ཀྱི་ཞིབ་ཆ།"
+
+msgid ""
+"If checked the mapping will begin at the right side, as opposed to beginning"
+" at the left."
+msgstr ""
+"གལ་སྲིད་གདམ་ཚེ། རྟེན་འཕྲོ་དེ་གཡས་ཕྱོགས་ནས་འགོ་རྩོམ་ལ། "
+"གཡོན་ཕྱོགས་ནས་འགོ་རྩོམ་པ་དང་ལྡོག་པ་ཡིན།"
+
+msgid "If enabled the preview will be redrawn automatically"
+msgstr "གལ་སྲིད་སྤྱད་ཚེ། སྔོན་ལྟ་དེ་རང་འགུལ་ངང་ཡང་བསྐྱར་འབྲི་བ་ཡིན།"
+
+msgid ""
+"If unchecked the mapping will put the bottom row in the middle and the top "
+"row on the outside.  If checked it will be the opposite."
+msgstr ""
+"གལ་སྲིད་གདམ་མེད་ཚེ། རྟེན་འཕྲོ་ཡིས་ཞབས་ཕྲེང་དེ་ལྟེ་གནས་སུ་འཇོག་པ་དང་། "
+"རྩེ་ཕྲེང་དེ་ཕྱི་རོལ་དུ་འཇོག་པ། གལ་སྲིད་གདམ་ཚེ་དེ་ལས་ལྡོག་པ་ཡིན།"
+
+msgid ""
+"If you enable this option higher color values will be swapped with lower "
+"ones and vice versa"
+msgstr ""
+"གལ་སྲིད་ཁྱེད་ཀྱིས་འདེམས་ཚན་འདི་སྤྱད་ཚེ། "
+"ཁ་དོག་གྲངས་བྲིན་མཐོ་བ་དང་དམའ་བ་གཉིས་ཕན་ཚུན་བརྗེ་རེས་བྱེད་པ།"
+
+msgid "Ignore Page _Margins"
+msgstr "ལྡེབ་ངོས་མཐའ་ཐག་སྣང་མེད། (_M)"
+
+msgid "Illusion"
+msgstr "འཕྲུལ་སྣང་།"
+
+msgid "Im_age"
+msgstr "བརྙན་རིས། (_A)"
+
+msgid "Image"
+msgstr "བརྙན་རིས།"
+
+msgid "Image Color Profile Information"
+msgstr "བརྙན་རིས་ཚོན་མདོག་གི་སྡེབ་སྒྲིག་ཡིག་ཆའི་ཆ་འཕྲིན།"
+
+msgid "Image Composing"
+msgstr "བརྙན་རིས་འདྲེས་གྲུབ།"
+
+msgid "Image Map Plug-In"
+msgstr "བརྙན་རིས་འཕྲོ་བརྙན་གྱི་བསྒར་ལྷུ།"
+
+msgid "Image Selection"
+msgstr "བརྙན་རིས་འདེམ་པ།"
+
+msgid "Image Settings"
+msgstr "བརྙན་རིས་སྒྲིག་འགོད།"
+
+msgid "Image Size"
+msgstr "བརྙན་རིས་ཆེ་ཆུང་།"
+
+msgid "Image Types"
+msgstr "བརྙན་རིས་རིགས་གྲས།"
+
+msgid "Image _Type:"
+msgstr "བརྙན་རིས་ཀྱི་རིགས་གྲས། (_T)："
+
+msgid "Image _height:"
+msgstr "བརྙན་རིས་ཀྱི་མཐོ་ཚད། (_H)："
+
+msgid "Image component %d of image '%s' does not have both a hstep and vstep."
+msgstr ""
+"བརྙན་རིས “%2$s” ཡི་བརྙན་རིས་གསེས་ཚད %1$d ལ་དུས་མཚུངས་སུ hstep དང vstep མེད།"
+
+msgid ""
+"Image component %d of image '%s' does not have the same size as the image. "
+"This is currently not supported."
+msgstr ""
+"བརྙན་རིས “%2$s” ཡི་བརྙན་རིས་གསེས་ཚད %1$d དང་བརྙན་རིས་ཀྱི་ཆེ་ཆུང་མི་འདྲ་བ། "
+"གནས་ཚུལ་འདིའི་རིགས་མིག་སྔར་རྒྱབ་སྐྱོད་མི་བྱེད།"
+
+msgid ""
+"Image component %d of image '%s' is signed. This is currently not supported."
+msgstr ""
+"བརྙན་རིས “%2$s” ཡི་བརྙན་རིས་གསེས་ཚད %1$d ནི་མཚོན་རྟགས་གྲངས་ཡིན།  "
+"གནས་ཚུལ་འདིའི་རིགས་མིག་སྔར་རྒྱབ་སྐྱོད་མི་བྱེད།"
+
+msgid "Image dimensions too large: width %d x height %d"
+msgstr "བརྙན་རིས་ཆེ་ཆུང་ཆེ་དྲགས་པ།:ཞེང་ཚད %d x མཐོ་ཚད %d"
+
+msgid "Image dimensions: %d × %d"
+msgstr "བརྙན་རིས་ཆེ་ཆུང་།:%d x %d"
+
+msgid "Image height is larger than GIMP can handle."
+msgstr "བརྙན་རིས་མཐོ་ཚད་དེ་ GIMP ཡིས་ཐག་གཅོད་བྱེད་ཐུབ་པའི་ཁྱབ་ཁོངས་ལས་བརྒལ་བ།"
+
+msgid "Image is not a gray image (bpp=%d)"
+msgstr "བརྙན་རིས་དེ་སྐྱ་ཚད་བརྙན་རིས་མིན་པ། (bpp=%d)"
+
+msgid "Image name:"
+msgstr "བརྙན་རིས་མིང་།:"
+
+msgid "Image size has changed."
+msgstr "བརྙན་རིས་ཆེ་ཆུང་སྒྱུར་བ།"
+
+msgid "Image spac_ing:"
+msgstr "བརྙན་རིས་ཀྱི་བར་ཐག (_I)："
+
+msgid "Image width is larger than GIMP can handle."
+msgstr "བརྙན་རིས་ཞེང་ཚད་དེ GIMP ཡིས་ཐག་གཅོད་བྱེད་ཐུབ་པའི་ཁྱབ་ཁོངས་ལས་བརྒལ་བ།"
+
+msgid "Images"
+msgstr "བརྙན་རིས།"
+
+msgid "Images for the Cap Faces"
+msgstr "གོང་འོག་ཕྱི་ངོས་ཀྱི་བརྙན་རིས།"
+
+msgid "Images have different size"
+msgstr "བརྙན་རིས་ཀྱི་ཆེ་ཆུང་མི་འདྲ་བ།"
+
+msgid "Import _paths"
+msgstr "འདྲེན་འཇུག་བརྒྱུད་ལམ། (_P)"
+
+msgid "Import from PDF"
+msgstr "PDF ནས་འདྲེན་འཇུག་བྱེད་པ།"
+
+msgid "Import from PostScript"
+msgstr "PostScript ནས་འདྲེན་འཇུག་བྱེད་པ།"
+
+msgid "Import from TIFF"
+msgstr "TIFF ནས་འདྲེན་འཇུག་བྱེད་པ།"
+
+msgid ""
+"Import path elements of the SVG so they can be used with the GIMP path tool"
+msgstr ""
+"SVG ཡི་བརྒྱུད་ལམ་གཞི་རྒྱུ་འདྲེན་འཇུག་བྱེད་པ། GIMP "
+"ཡི་བརྒྱུད་ལམ་ལག་ཆར་སྤྱད་ཆོག"
+
+msgid "Importing screenshot"
+msgstr "བརྙན་ཡོལ་གྱི་བཅད་རིས་འདྲེན་འཇུག"
+
+msgid "In_tegration steps:"
+msgstr "རིམ་འཇུག་ཐེངས་གྲངས། (_T)："
+
+msgid "In_verse"
+msgstr "ལྡོག་འཁོར། (_V)"
+
+msgid "Include _mouse pointer"
+msgstr "ཙིག་མདའི་སྟོན་མདའ་ཚུད་པ། (_M)"
+
+msgid "Include decorations"
+msgstr "རྒྱན་སྤྲོས་ཚུད་པ།"
+
+msgid "Include window _decoration"
+msgstr "སྒེའུ་ཁུང་རྒྱན་སྤྲོས་ཚུད་པ། (_D)"
+
+msgid "Incomplete input"
+msgstr "ནང་འཇུག་ཆ་མི་ཚང་བ།"
+
+msgid "Increase the speed of the animation"
+msgstr "འགུལ་རིས་ཀྱི་མགྱོགས་ཚད་མགྱོགས་སུ་གཏོང་བ།"
+
+msgid "Indexed"
+msgstr " གསལ་བྱང་།"
+
+msgid "Indexed Alpha"
+msgstr "གསལ་བྱང་ Alpha"
+
+msgid "Indexed Palette Type"
+msgstr "གསལ་བྱང་ཚོན་གཞོང་གི་རིགས་གྲས།"
+
+msgid "Initial value:"
+msgstr "ཐོག་མའི་གྲངས་བྲིན།:"
+
+msgid "Input levels:"
+msgstr "ནང་འཇུག་མདོག་ཐེམ།:"
+
+msgid "Insert Point"
+msgstr "བར་འཇུག་གནས།"
+
+msgid "Installation Date"
+msgstr "སྒྲིག་འཇུག་ཚེས་གྲངས།"
+
+msgid "Integer"
+msgstr "ཧྲིལ་གྲངས།"
+
+msgid "Intensity Levels"
+msgstr "གསལ་ཚད་རིམ་པ།"
+
+msgid "Intensity of original color when lit by a light source"
+msgstr "འོད་ཁུངས་འཕྲོ་བའི་སྐབས་ཀྱི་གདོད་མའི་ཁ་དོག་གི་གསལ་ཚད།"
+
+msgid "Interactively modify the image colors"
+msgstr "སྤེལ་རེས་ཚུལ་གྱིས་བརྙན་རིས་ཁ་དོག་བཟོ་བཅོས་བྱེད་པ།"
+
+msgid "Interlace"
+msgstr "འཛིང་སྣོལ།"
+
+msgid "Intersection"
+msgstr "ཚེག་ཐིག"
+
+msgid "Intersection Color"
+msgstr "ཚེག་ཐིག་ཁ་དོག"
+
+msgid "Invalid UTF-8 string in brush file '%s'."
+msgstr "རིས་པིར་ཡིག་ཆ “%s” ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་ཚུད་འདུག"
+
+msgid "Invalid UTF-8 string in pattern file '%s'."
+msgstr "དཔེ་རིས་ཡིག་ཆ “%s” ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་ཚུད་འདུག"
+
+msgid "Invalid X offset: %d"
+msgstr "ནུས་མེད་ཀྱི་ཡོ་སྤོ་ཚད། X：%d"
+
+msgid "Invalid X resolution."
+msgstr "ནུས་མེད་ཀྱི་འབྱེད་ཕྱོད། X"
+
+msgid "Invalid Y offset: %d"
+msgstr "ནུས་མེད་ཀྱི་ཡོ་སྤོ་ཚད། Y：%d"
+
+msgid "Invalid Y resolution."
+msgstr "ནུས་མེད་ཀྱི་འབྱེད་ཕྱོད། Y"
+
+msgid "Invalid file."
+msgstr "ནུས་མེད་ཡིག་ཆ།"
+
+msgid "Invalid header data in '%s': width=%lu, height=%lu, bytes=%lu"
+msgstr ""
+"“%s” ཡི་ནང་གི་ནུས་མེད་ཀྱི་གཞི་གྲངས་མགོ།：width=%lu, height=%lu, bytes=%lu"
+
+msgid "Invalid height: %hu"
+msgstr "ནུས་མེད་ཀྱི་མཐོ་ཚད།:%hu"
+
+msgid "Invalid number of channels: %hu"
+msgstr "ནུས་མེད་ཀྱི་རྒྱུ་ལམ་གྲངས།:%hu"
+
+msgid "Invalid remap array was passed to remap function"
+msgstr ""
+"ཡང་བསྐྱར་རྟེན་འཕྲོའི་རྟེན་འབྱུང་གྲངས་ཀྱི་ཡང་བསྐྱར་རྟེན་འཕྲོའི་གྲམ་སྟར་ནུས་མེད་ལ་བརྒྱུད་སྤྲོད་བྱེད་པ།"
+
+msgid "Invalid width: %hu"
+msgstr "ནུས་མེད་ཀྱི་ཞེང་ཚད།:%hu"
+
+msgid "Inversion"
+msgstr "ལྡོག་འཁོར།"
+
+msgid "Invert the brightness of each pixel"
+msgstr "བརྙན་རྒྱུ་རེ་རེའི་གསལ་ཚད་ཀྱི་ལྡོག་འཁོར།"
+
+msgid "Inverts the Papers texture"
+msgstr "རིས་ཤོག་གི་རྒྱུ་ཆ་ལྡོག་འཁོར།"
+
+msgid "Isometric"
+msgstr "མདའ་མཚུངས།"
+
+msgid "Iterations:"
+msgstr "རིམ་འཇུག་ཐེངས་གྲངས།:"
+
+msgid "JNG"
+msgstr "JNG"
+
+msgid "JNG + delta PNG"
+msgstr "JNG + Delta PNG"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "JPEG 2000 image"
+msgstr "JPEG 2000 ཡི་བརྙན་རིས།"
+
+msgid "JPEG compression quality:"
+msgstr "JPEG ཡི་སྡུད་སྒྲིལ་སྤུས་ཚད།:"
+
+msgid "JPEG image"
+msgstr "བརྙན་རིས JPEG"
+
+msgid "JPEG preview"
+msgstr "JPEG སྔོན་ལྟ།"
+
+msgid "JPEG quality parameter"
+msgstr "JPEG ཡི་སྤུས་ཚད་ཞུགས་གྲངས།"
+
+msgid "JPEG smoothing factor:"
+msgstr "JPEG ཡི་འཇམ་སྙོམས་རྐྱེན་ཆ།:"
+
+msgid "Jigsaw"
+msgstr "སྒྲིག་རིས།"
+
+msgid "Jigsaw Style"
+msgstr "སྒྲིག་རིས་བཟོ་ཉམས།"
+
+msgid "Julia"
+msgstr "Julia"
+
+msgid "KISS CEL"
+msgstr "KISS CEL"
+
+msgid "Keep _even fields"
+msgstr "ཆ་གྲངས་ཀྱི་ཁུལ་ཁོངས་ཉར་བ། (_E)"
+
+msgid "Keep image's values"
+msgstr "བརྙན་རིས་ཀྱི་གྲངས་བྲིན་རྒྱུན་སྲུང་།"
+
+msgid "Keep o_dd fields"
+msgstr "ཡ་གྲངས་ཀྱི་ཁུལ་ཁོངས་ཉར་བ། (_D)"
+
+msgid "Keep original"
+msgstr "གདོད་མ་རྒྱུན་སྲུང་།"
+
+msgid "Keep the first value"
+msgstr "གྲངས་བྲིན་ཨང་དང་པོ་རྒྱུན་སྲུང་།"
+
+msgid "LAB"
+msgstr "LAB"
+
+msgid "LZ77"
+msgstr "LZ77"
+
+msgid "L_eading"
+msgstr "མགོ། (_E)"
+
+msgid "L_eft border"
+msgstr "གཡོན་མཐའ་མཚམས། (_E)"
+
+msgid "L_ength:"
+msgstr "རིང་ཚད། (_E)："
+
+msgid "L_inear"
+msgstr "ཐིག་གཤིས། (_I)"
+
+msgid "Lambda"
+msgstr "Lambda"
+
+msgid "Laplace"
+msgstr "ལཱ་ཕུ་ལ་སི།"
+
+msgid "Larg_e 3x3"
+msgstr "ཆེ་བ 3x3(_E)"
+
+msgid "Large"
+msgstr "ཆེ།"
+
+msgid ""
+"Large icons and compression are not supported by all programs. Older "
+"applications may not open this file correctly."
+msgstr ""
+"བྱ་རིམ་ཚང་མས་རིས་རྟགས་ཆེ་བ་དང་སྡུད་སྒྲིལ་ལ་རྒྱབ་སྐྱོར་བྱེད་པ་མིན།ཉེར་སྤྱོད་བྱ་རིམ་རྙིང་པས་ཡང་དག་པའི་སྒོ་ནས་ཡིག་ཆ་འདི་ཁ་ཕྱེ་མི་ཐུབ།"
+
+msgid ""
+"Layer background type. Copy causes the previous layer to be copied before "
+"the draw is performed."
+msgstr ""
+"རིས་རིམ་གྱི་རྒྱབ་ལྗོངས་རིགས་གྲས། "
+"འདྲ་ཕབ་ཀྱིས་རི་མོ་འབྲི་བའི་སྔོན་ལ་རིས་རིམ་སྔོན་མ་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "Layers"
+msgstr "རིམ་པ།"
+
+msgid "Left"
+msgstr "གཡོན།"
+
+msgid "Left edge"
+msgstr "གཡོན་མཐའ་མཚམས།"
+
+msgid "Left:"
+msgstr "གཡོན།:"
+
+msgid "Lens Distortion"
+msgstr "ཤེལ་མགོ་དབྱིབས་འགྱུར།"
+
+msgid "Lens Distortion..."
+msgstr "ཤེལ་མགོ་དབྱིབས་འགྱུར།"
+
+msgid "Lens Effect"
+msgstr "རྒྱུ་ཤེལ་འབྲས་བུ།"
+
+msgid "Lens Flare"
+msgstr "\"ཤེལ་མགོ་འོད་འཁྱིམས།\""
+
+msgid "Lens _Flare..."
+msgstr "ཤེལ་མགོ་འོད་འཁྱིམས། (_F)"
+
+msgid "Lens distortion"
+msgstr "ཤེལ་མགོ་དབྱིབས་འགྱུར།"
+
+msgid "Less Sat:"
+msgstr "དེ་བས་སླ་བ།:"
+
+msgid ""
+"Let the direction from the center determine the direction of the stroke"
+msgstr ""
+"སྨྱུག་ཁམ་གྱི་ཁ་ཕྱོགས་དེ་བརྙན་རིས་ལྟེ་གནས་ལ་ཕྱོགས་པའི་ཁ་ཕྱོགས་ཀྱིས་ཐག་གཅོད་པ།"
+
+msgid "Let the direction from the center determine the size of the stroke"
+msgstr ""
+"སྨྱུག་ཁམ་གྱི་ཆེ་ཆུང་དེ་བརྙན་རིས་ལྟེ་གནས་ལ་ཕྱོགས་པའི་ཁ་ཕྱོགས་ཀྱིས་ཐག་གཅོད་པ།"
+
+msgid ""
+"Let the value (brightness) of the region determine the direction of the "
+"stroke"
+msgstr ""
+"སྨྱུག་ཁམ་གྱི་ཁ་ཕྱོགས་དེ་ཁུལ་ཁོངས་གྲངས་བྲིན་གྱིས། ( གསལ་ཚད ) ཐག་གཅོད་པ།"
+
+msgid ""
+"Let the value (brightness) of the region determine the size of the stroke"
+msgstr "སྨྱུག་ཁམ་གྱི་ཆེ་ཆུང་དེ་ཁུལ་ཁོངས་གྲངས་བྲིན། ( གསལ་ཚད ) གྱིས་ཐག་གཅོད་པ།"
+
+msgid "Light"
+msgstr "སྟོན་སྒྲོན།"
+
+msgid "Light 1"
+msgstr "འོད་ཐིག 1"
+
+msgid "Light 2"
+msgstr "འོད་ཐིག 2"
+
+msgid "Light 3"
+msgstr "འོད་ཐིག 3"
+
+msgid "Light 4"
+msgstr "འོད་ཐིག 4"
+
+msgid "Light 5"
+msgstr "འོད་ཐིག 5"
+
+msgid "Light 6"
+msgstr "འོད་ཐིག 6"
+
+msgid "Light Settings"
+msgstr "འོད་ཐིག་སྒྲིག་འགོད།"
+
+msgid "Light _direction:"
+msgstr "འོད་ཐིག་ཁ་ཕྱོགས། (_D)："
+
+msgid "Light intensity"
+msgstr "འོད་ཐིག་དྲག་ཚད།"
+
+msgid "Light source X direction in XYZ space"
+msgstr "འོད་ཁུངས་དེ་བར་སྟོང XYZ ཡི་ཁ་ཕྱོགས X ལ་གནས་པ།"
+
+msgid "Light source X position in XYZ space"
+msgstr "འོད་ཁུངས་དེ་བར་སྟོང XYZ ཡི་གནས་ཚད་གནས་ས X ལ་གནས་པ།"
+
+msgid "Light source Y direction in XYZ space"
+msgstr "འོད་ཁུངས་དེ་བར་སྟོང XYZ ཡི་ཁ་ཕྱོགས Y ལ་གནས་པ།"
+
+msgid "Light source Y position in XYZ space"
+msgstr "འོད་ཁུངས་བར་སྟོང XYZ ཡི་གནས་ཚད་གནས་ས Y ལ་གནས་པ།"
+
+msgid "Light source Z direction in XYZ space"
+msgstr "འོད་ཁུངས་དེ་བར་སྟོང XYZ ཡི་ཁ་ཕྱོགས Z ལ་གནས་པ།"
+
+msgid "Light source Z position in XYZ space"
+msgstr "འོད་ཁུངས་དེ་བར་སྟོང XYZ ཡི་གནས་ཚད་གནས་ས Z ལ་གནས་པ།"
+
+msgid "Lighter"
+msgstr "ཅུང་སྲབ།"
+
+msgid "Lighter:"
+msgstr "ལྷག་ཏུ་གསལ་བ།:"
+
+msgid "Lighting Effects"
+msgstr "འོད་འཕྲོའི་འབྲས་བུ།"
+
+msgid "Lighting preset:"
+msgstr "འོད་འཕྲོའི་སྔོན་སྒྲིག："
+
+msgid "Lightness"
+msgstr "གསལ་ཚད།"
+
+msgid "Lightsource color:"
+msgstr "འོད་ཁུངས་ཁ་དོག："
+
+msgid "Lightsource type:"
+msgstr "འོད་ཁུངས་རིགས་གྲས།："
+
+msgid "Line"
+msgstr "སྐུད་ལམ།"
+
+msgid "Linear"
+msgstr "ཐིག་གཤིས།"
+
+msgid "Link Type"
+msgstr "སྦྲེལ་མཐུད་རིགས་གྲས།"
+
+msgid "List View"
+msgstr "རེའུ་མིག་གི་མཐོང་རིས།"
+
+msgid "List available procedures in the PDB"
+msgstr "གཞུང་སྟར་དེ PDB ཡི་ནང་གི་སྤྱོད་རུང་བརྒྱུད་རིམ་ནང་ཐོན་པ།"
+
+msgid "Lizard"
+msgstr "རྩངས་པ།"
+
+msgid "Lo_ng-staggered"
+msgstr "དྲ་མིག་རིང་བ། (_N)"
+
+msgid "Lo_wer border"
+msgstr "མཐའ་མཚམས་འོག་མ། (_W)"
+
+msgid "Load CML Explorer Parameters"
+msgstr "CML འཚོལ་ཞིབ་ཆས་ཀྱི་ཞུགས་གྲངས་ཁུར་སྣོན།"
+
+msgid "Load Channel Mixer Settings"
+msgstr "རྒྱུ་ལམ་མཉམ་བསྲེས་ཆས་ཀྱི་སྒྲིག་འགོད་ཁུར་སྣོན།"
+
+msgid "Load Curve Points from File"
+msgstr "ཡིག་ཆ་ཡི་ནང་ནས་འཁྱོག་ཐིག་གི་ཚེག་ཁུར་སྣོན།"
+
+msgid "Load FITS File"
+msgstr "ཡིག་ཆ FITS ཁུར་སྣོན།"
+
+msgid "Load Flame"
+msgstr "མེ་ལྕེ་ཁུར་སྣོན།"
+
+msgid "Load Fractal Parameters"
+msgstr "དབྱིབས་འབྱེད་ཀྱི་ཞུགས་གྲངས་ཁུར་སྣོན།"
+
+msgid "Load Gfig Object Collection"
+msgstr "དབྱིབས་རྩིས་རིས་དབྱིབས་ཀྱི་བྱ་ཡུལ་ཚོགས་ཁུར་སྣོན།"
+
+msgid "Load Image Map"
+msgstr "བརྙན་རིས་འཕྲོ་བརྙན་འགེལ་བ།"
+
+msgid "Load Image from Raw Data"
+msgstr "གདོད་མའི་གཞི་གྲངས་ནས་བརྙན་རིས་འགེལ་བ།"
+
+msgid "Load KISS Palette"
+msgstr "ཚོན་གཞོང KISS ཁུར་སྣོན། "
+
+msgid "Load Lighting Preset"
+msgstr "འོད་འཕྲོའི་སྔོན་སྒྲིག་ཁུར་སྣོན།"
+
+msgid "Load QBE File"
+msgstr "ཡིག་ཆ QBE ཁུར་སྣོན།"
+
+msgid "Load a fractal from file"
+msgstr "ཡིག་ཆ་ནས་དབྱིབས་འབྱེད་ཁུར་སྣོན།"
+
+msgid "Load the curves from a file"
+msgstr "ཡིག་ཆ་ཡི་ནང་ནས་འཁྱོག་ཐིག་ཁུར་སྣོན།"
+
+msgid "Loading index from '%s'"
+msgstr "“%s” ནས་གསལ་བྱང་གི་ནོར་འཁྲུལ་ཀློག་ལེན་བྱེད་པ།"
+
+msgid "Lock _thresholds"
+msgstr "མཚམས་ཐང་སྒྲོག་པ། (_T)"
+
+msgid "Logarithmic"
+msgstr "གཏད་གྲངས།"
+
+msgid "Loop"
+msgstr "རྒྱུན་འཁོར།"
+
+msgid "Low"
+msgstr "དམའ།"
+
+msgid "Lower left"
+msgstr "གཡོན་འོག"
+
+msgid "Lower right"
+msgstr "གཡས་འོག"
+
+msgid "Lower selected object"
+msgstr "བདམས་པའི་བྱ་ཡུལ་འབེབས་པ།"
+
+msgid "Lower selected object to bottom"
+msgstr "བདམས་པའི་བྱ་ཡུལ་དེ་ཞབས་སྣེ་བར་འབེབས་པ།"
+
+msgid "Lower t_hreshold:"
+msgstr "དམའ་རིམ་མཚམས་ཐང་། (_H)："
+
+msgid "Luminance"
+msgstr "གསལ་ཚད།"
+
+msgid "Luminosity _threshold:"
+msgstr "འོད་འཕྲོ་ཚད་ཀྱི་མཚམས་ཐང་། (_T)："
+
+msgid "Luminosity freq_uency:"
+msgstr "འོད་འཕྲོ་ཚད་ཀྱི་ཟློས་ཕྱོད། (_U)："
+
+msgid "Luminosity pha_seshift:"
+msgstr "འོད་འཕྲོ་ཚད་ཀྱི་མཚན་སྤོ། (_S)："
+
+msgid "MNG"
+msgstr "MNG"
+
+msgid "MNG Options"
+msgstr "MNG འདེམས་ཚན།"
+
+msgid "MNG animation"
+msgstr "MNG འགུལ་རིས།"
+
+msgid "M_aximum value:"
+msgstr "གྲངས་བྲིན་ཆེ་ཤོས། (_A)："
+
+msgid "Ma_x depth:"
+msgstr "ཟབ་ཚད་ཟབ་ཤོས། (_X)："
+
+msgid "Ma_ximum height:"
+msgstr "མཐོ་ཚད་མཐོ་ཤོས། (_X)："
+
+msgid "Magen_ta"
+msgstr "དམར་པོ། (_T)"
+
+msgid "Magenta:"
+msgstr "དམར་པོ།:"
+
+msgid "Magenta_K"
+msgstr "དམར་པོ། _K"
+
+msgid "Magnitude map:"
+msgstr "ཚད་ཐང་སྦྱར་རིས།:"
+
+msgid "Main Options"
+msgstr "འདེམས་ཚན་གཙོ་བོ།"
+
+msgid "Make destination image transparent where bump height is zero"
+msgstr ""
+"དམིགས་འབེན་བརྙན་རིས་འབུར་བའི་མཐོ་ཚད་དེ་ཀླད་ཀོར་ཡིན་པའི་ས་ཆ་དེ་ནང་གསལ་ལ་འགྱུར་བ།"
+
+msgid "Make image sharper (less powerful than Unsharp Mask)"
+msgstr "བརྙན་རིས་དེ་སྔར་ལས་རྣོ་ངར་ཆེ་བ། ( ཟོལ་འོད་སོག་ལེབ་ལས་ཕན་ནུས་དམའ་བ )"
+
+msgid "Make image transparent outside object"
+msgstr "དངོས་གཟུགས་ཕུད་པའི་བརྙན་རིས་དེ་ནང་གསལ་བསྒྱུར་དགོས།"
+
+msgid "Make transparency all-or-nothing"
+msgstr "གསལ་ཚད་ཁེངས་པའམ་ཡང་ན་སྟོང་པ་ཡིན་པ།"
+
+msgid "Mandelbrot"
+msgstr "Mandelbrot"
+
+msgid "Mandelbrot Parameters"
+msgstr "ཞུགས་གྲངས Mandelbrot"
+
+msgid "Manually selecting the eyes may improve the results."
+msgstr "ལག་སྒུལ་གྱིས་མིག་བདམས་ན་འབྲས་བུ་ཆེ་རུ་གཏོང་ཐུབ།"
+
+msgid "Manually specify the stroke orientation"
+msgstr "སྨྱུག་ཁམ་ཁ་ཕྱོགས་ལག་ལས་དམིགས་འཛུགས་བྱེད་པ།"
+
+msgid "Manually specify the stroke size"
+msgstr "སྨྱུག་ཁམ་ཆེ་ཆུང་ལག་ལས་དམིགས་འཛུགས་བྱེད་པ།"
+
+msgid "Map File Format"
+msgstr "འཕྲོ་བརྙན་ཡིག་ཆའི་རྣམ་གཞག"
+
+msgid "Map Images to Box Faces"
+msgstr "བརྙན་རིས་དེ་སྒམ་གྲུ་བཞིའོ་ངོས་སུ་རྟེན་འཕྲོ་བྱེད་པ།"
+
+msgid "Map _Object..."
+msgstr "དངོས་གཟུགས་ལ་རྟེན་འཕྲོ། (_O)…"
+
+msgid "Map from _top"
+msgstr "རྩེ་སྣེ་ནས་འགོ་རྩོམ་སྟེ་རྟེན་འཕྲོ་བྱེད་པ། (_T)"
+
+msgid "Map the image to an object (plane, sphere, box or cylinder)"
+msgstr ""
+"བརྙན་རིས་དེ་དངོས་གཟུགས་ལ་རྟེན་འཕྲོ་བྱེད་པ། (སྙོམས་ངོས་དང་། ཟླུམ་གཟུགས། "
+"གྲུ་བཞི་ལྷམ་པའམ་ཡང་ན་ཀ་ཟླུམ་གཟུགས་བཅས )"
+
+msgid "Map to Object"
+msgstr "དངོས་གཟུགས་ལ་རྟེན་འཕྲོ།"
+
+msgid "Map to box"
+msgstr "སྒམ་གྲུ་བཞི་ལ་རྟེན་འཕྲོ།"
+
+msgid "Map to cylinder"
+msgstr "ཀ་ཟླུམ་གཟུགས་ལ་རྟེན་འཕྲོ།"
+
+msgid "Map to plane"
+msgstr "སྙོམས་ངོས་ལ་རྟེན་འཕྲོ།"
+
+msgid "Map to sphere"
+msgstr "ཟླུམ་གཟུགས་ལ་རྟེན་འཕྲོ།"
+
+msgid "Map to:"
+msgstr "ལ་རྟེན་འཕྲོ།:"
+
+msgid "Mask File"
+msgstr "གབ་ཨང་ཡིག་ཆ།"
+
+msgid "Mask value"
+msgstr "གབ་ཨང་གྲངས་བྲིན།"
+
+msgid "Material Properties"
+msgstr "རྒྱུ་ཆའི་གཏོགས་གཤིས།"
+
+msgid "Matrix"
+msgstr "ལིང་ཚེ།"
+
+msgid "Max (x+d, -)"
+msgstr "Max(x+d, -)"
+
+msgid "Max (x+d, -), (0.5 < x)"
+msgstr "Max (x+d, -),(0.5 < x)"
+
+msgid "Max (x+d, -), (x < 0.5)"
+msgstr "Max (x+d, -),(x < 0.5)"
+
+msgid "Max (x, -)"
+msgstr "Max (x, -)"
+
+msgid "Max (x-d, -)"
+msgstr "Max(x-d, -)"
+
+msgid "Max (x-d, -), (0.5 < x)"
+msgstr "Max(x-d, -),(0.5 < x)"
+
+msgid "Max (x-d, -), (x < 0.5)"
+msgstr "Max (x-d, -),(x < 0.5)"
+
+msgid "Max RGB"
+msgstr "RGB ཆེ་སྒྱུར།"
+
+msgid "Max undo:"
+msgstr "འདོར་བའི་ཐེངས་གྲངས་ཆེ་ཤོས།:"
+
+msgid "Max. memory:"
+msgstr "ནང་གསོག་ཆེ་ཤོས།:"
+
+msgid "Maxim_um RGB..."
+msgstr "RGB ཆེ་སྒྱུར། (_U)"
+
+msgid "Maximum RGB Value"
+msgstr "RGB ཡི་གྲངས་བྲིན་ཆེ་སྒྱུར། "
+
+msgid "Maximum height for bumps"
+msgstr "འབུར་བའི་མཐོ་ཚད་མཐོ་ཤོས།"
+
+msgid "Maximum size:"
+msgstr "ཆེ་ཆུང་ཆེ་ཤོས།:"
+
+msgid "Maze Size"
+msgstr "མགོ་འཁོར་བའི་ཕོ་བྲང་ཆེ་ཆུང་།"
+
+msgid "Median"
+msgstr "བར་ཐང་།"
+
+msgid "Menu"
+msgstr " འདེམས་བྱང་།"
+
+msgid "Menu Path"
+msgstr "འདེམས་བྱང་བརྒྱུད་ལམ།"
+
+msgid "Merge imported paths"
+msgstr "མཉམ་སྒྲིལ་འདྲེན་འཇུག་བྱས་པའི་བརྒྱུད་ལམ།"
+
+msgid "Merging"
+msgstr "ཟླ་སྒྲིལ་གཏོང་བ།"
+
+msgid "Microsoft WMF file"
+msgstr "Microsoft WMF ཡི་ཡིག་ཆ།"
+
+msgid "Microsoft Windows icon"
+msgstr "Microsoft Windows ཡི་རིས་རྟགས།"
+
+msgid "Middle-Click Inside Preview to Pick \"From Color\""
+msgstr "སྔོན་ལྟའི་ནང་དཀྱིལ་མཐེབ་ལ་གནོན་ནས “ཁ་དོག་ནས ” ལེན་པ།"
+
+msgid "Midtones:"
+msgstr "སྒྲ་གདངས་འབྲིང་བ།:"
+
+msgid "Min (x+d, -)"
+msgstr "Min(x+d, -)"
+
+msgid "Min (x+d, -), (0.5 < x)"
+msgstr "Min(x+d, -),(0.5 < x)"
+
+msgid "Min (x+d, -), (x < 0.5)"
+msgstr "Min(x+d, -), (x < 0.5)"
+
+msgid "Min (x, -)"
+msgstr "Min(x, -)"
+
+msgid "Min (x-d, -)"
+msgstr "Min (x-d, -)"
+
+msgid "Min (x-d, -), (0.5 < x)"
+msgstr "Min(x-d, -),(0.5 < x)"
+
+msgid "Min (x-d, -), (x < 0.5)"
+msgstr "Min(x-d, -),(x < 0.5)"
+
+msgid "Minimum size:"
+msgstr "ཆེ་ཆུང་ཆུང་ཤོས།:"
+
+msgid "Mirror the active curve to the other border"
+msgstr "བྱ་བྱེད་འཁྱོག་ཐིག་དེ་གཏད་མཐའ་རུ་ཤེལ་བརྙན་བྱེད་པ།"
+
+msgid "Misc arrange:"
+msgstr "ཐག་གཅོད་གཞན་དག།："
+
+msgid "Mo_dify green channel"
+msgstr "རྒྱུ་ལམ་ལྗང་ཁུ་བཟོ་བཅོས། (_D)"
+
+msgid "Mo_dify saturation channel"
+msgstr "ཚད་ལོངས་ཚད་ཀྱི་རྒྱུ་ལམ་བཟོ་བཅོས། (_D)"
+
+msgid "Mod. rate:"
+msgstr "བཅོས་ཕྱོད།:"
+
+msgid "Mod_ify blue channel"
+msgstr "རྒྱུ་ལམ་སྔོན་པོ་བཟོ་བཅོས། (_I)"
+
+msgid "Mod_ify luminosity channel"
+msgstr "འོད་འཕྲོ་ཚད་ཀྱི་རྒྱུ་ལམ་བཟོ་བཅོས། (_I)"
+
+msgid "Mode"
+msgstr " རྣམ་པ།"
+
+msgid "Mode _1"
+msgstr "རྣམ་པ _1"
+
+msgid "Mode _2"
+msgstr "རྣམ་པ _2"
+
+msgid "Modify Curves"
+msgstr "འཁྱོག་ཐིག་བཟོ་བཅོས།"
+
+msgid "Modify image to reduce size when saved as GIF animation"
+msgstr ""
+"འགུལ་རིས GIF "
+"ལ་ཉར་ཚགས་བྱེད་སྐབས་བརྙན་རིས་བཟོ་བཅོས་བྱས་ནས་བརྙན་རིས་ཀྱི་ཆེ་ཆུང་འབེབས་པ་ཡིན།"
+
+msgid "Mor_e opaque"
+msgstr "ནང་གསལ་མིན་པ་དེ་བས་མང་བ། (_E)"
+
+msgid "More Advanced Options"
+msgstr "མཐོ་རིམ་འདེམས་ཚན་དེ་བས་མང་བ།"
+
+msgid "More Sat:"
+msgstr "དེ་བས་གར་བ།:"
+
+msgid "More _white (larger value)"
+msgstr "དཀར་པོ་དེ་བས་མང་བ། ( གསལ་ཚད་ཆེ་བ )(_W)"
+
+msgid "More blac_k (smaller value)"
+msgstr "ནག་པོ་དེ་བས་མང་བ། ( གསལ་ཚད་ཆུང་བ )(_K)"
+
+msgid "More t_ransparent"
+msgstr "ནང་གསལ་དེ་བས་མང་བ། (_R)"
+
+msgid "Mosaic"
+msgstr "མཱ་སེ་ཁེ།"
+
+msgid "Motion Blur"
+msgstr "འགུལ་རྣམ་རབ་རིབ།"
+
+msgid "Motion blurring"
+msgstr "འགུལ་རྣམ་རབ་རིབ།"
+
+msgid "Mouse Pointer"
+msgstr "ཙིག་མདའི་སྟོན་མདའ།"
+
+msgid "Move"
+msgstr "སྤོ་བ།"
+
+msgid "Move Down"
+msgstr "མར་སྤོ་བ།"
+
+msgid "Move Sash"
+msgstr "མཐའ་མཚམས་སྤོ་བ།"
+
+msgid "Move Selected Objects"
+msgstr "བདམས་པའི་བྱ་ཡུལ་སྤོ་བ།"
+
+msgid "Move To Front"
+msgstr "ཆེས་སྔོན་མར་སྤོ་བ།"
+
+msgid "Move Up"
+msgstr "ཡར་སྤོ་བ།"
+
+msgid "Move a single point"
+msgstr "ཚེག་ཅིག་སྤོ་བ།"
+
+msgid "Move an object"
+msgstr "བྱ་ཡུལ་ཞིག་སྤོ་བ།"
+
+msgid "Move pixels around randomly"
+msgstr "སྐབས་བསྟུན་གྱིས་མཐའ་སྐོར་དུ་བརྙན་རྒྱུ་སྤོ་བ།"
+
+msgid "Movement"
+msgstr "སྤོ་བ།"
+
+msgid "Multiply gradient (0,1)"
+msgstr "སྐས་ཚད་བསྒྱུར་བ། (0,1)"
+
+msgid "Multiply rand. value (0,1)"
+msgstr "སྐབས་བསྟུན་གྲངས་བྲིན་བསྒྱུར་བ། (0,1)"
+
+msgid "Multiply rand. value (0,2)"
+msgstr "སྐབས་བསྟུན་གྲངས་བྲིན་བསྒྱུར་བ། (0,2)"
+
+msgid "Mutation dist.:"
+msgstr "ཁྱབ་ཚུལ་འགྱུར་ལྡོག།："
+
+msgid "Mutation rate:"
+msgstr "འགྱུར་བའི་ཕྱོད།:"
+
+msgid "My first fractal"
+msgstr "ང་ཡི་དབྱིབས་འབྱེད་ཨང་དང་པོ།"
+
+msgid "NL Filter"
+msgstr "ཐིག་གཤིས་མིན་པའི་རླབས་འཚག"
+
+msgid "N_ormalise"
+msgstr "ཚད་ལྡན་ཅན། (_O)"
+
+msgid "Name"
+msgstr " མིང་།"
+
+msgid "Neon"
+msgstr "འཇའ་ཚོན།"
+
+msgid "Neon Detection"
+msgstr "འཇའ་ཚོན་བཤེར་འཇལ།"
+
+msgid "Nested elements (<%s>) are not allowed in this context"
+msgstr "སྐོང་འཛུད་གཞི་རྒྱུ། (<%s>) གོང་འོག་ཡི་གེའི་ནང་དུ་བྱས་མི་ཆོག་པ།"
+
+msgid "New Gradient Flare"
+msgstr "རིམ་འགྱུར་གྱི་འོད་འཁྱུག་གསར་འཛུགས།"
+
+msgid "New Seed"
+msgstr "ས་བོན་གསར་པ།"
+
+msgid "Newsprin_t..."
+msgstr "ཚགས་པར། (_T)…"
+
+msgid "Newsprint"
+msgstr "ཚགས་པར།"
+
+msgid "No URL was specified"
+msgstr "URL དམིགས་འཛུགས་བྱས་མེད་པ།"
+
+msgid "No colors"
+msgstr "ཁ་དོག་མེད་པ།"
+
+msgid "No compression"
+msgstr "སྡུད་སྒྲིལ་མེད་པ།"
+
+msgid "No data captured"
+msgstr "གཞི་གྲངས་ཐོབ་མེད་པ།"
+
+msgid "No fill"
+msgstr "ཁ་སྐོང་མེད་པ།"
+
+msgid "No light"
+msgstr "འོད་ཁུངས་མེད་པ།"
+
+msgid "No matches"
+msgstr "ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "No matches for your query"
+msgstr "ཁྱེད་ཀྱི་འདྲི་རྩད་ལ་ཟླ་སྒྲིག་ཚན་པ་མེད་པ།"
+
+msgid "No selection to convert"
+msgstr "བརྗེ་སྤོར་ཆོག་པའི་འདེམས་ཁུལ་མེད་པ།"
+
+msgid "No sensible file extension, attempting to load with file magic."
+msgstr ""
+"ཤེས་ཚོར་རུང་བའི་ཡིག་ཆའི་རྒྱ་སྐྱེད་མིང་མེད། "
+"ཡིག་ཆའི་བདུད་གྲངས་ལྟར་ཁུར་སྣོན་བྱེད་པའི་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།"
+
+msgid "No sensible file extension, saving as compressed XCF."
+msgstr ""
+"ཤེས་ཚོར་རུང་བའི་ཡིག་ཆའི་རྒྱ་སྐྱེད་མིང་མེད། སྡུད་སྒྲིལ་གྱི XCF "
+"ལ་གཞན་ཉར་བྱེད་པ།"
+
+msgid "No. _down:"
+msgstr "གཞུང་ཕྱོགས་གྲངས་ཚད། (_D)："
+
+msgid "Noise"
+msgstr "འཛེར་སྒྲ་རོལ་དབྱངས།"
+
+msgid "Non-square pixels.  Image might look squashed."
+msgstr "བརྙན་རྒྱུ་དེ་གྲུ་བཞི་ཁ་གང་མ་མིན། བརྙན་རིས་ལྟས་ན་ཕལ་ཆེར་ལེབ་སོང་།"
+
+msgid "None"
+msgstr " མེད།"
+
+msgid "Nonlinear swiss army knife filter"
+msgstr "ཐིག་གཤིས་མིན་པའི་སུའེ་ཙེར་དམག་གྲིའི་འབྲས་བུ།"
+
+msgid "Normal"
+msgstr "དཀྱུས་མ།"
+
+msgid "Normal:"
+msgstr "སྤྱིར་བཏང་།："
+
+msgid "Normalizing"
+msgstr "ཚད་ལྡན་ཅན།"
+
+msgid "Nothing to crop."
+msgstr "དྲས་གཏུབ་ཆོག་པའི་ཅ་ལག་མེད་པ།"
+
+msgid "Number of Colors"
+msgstr "ཁ་དོག་གྲངས་ཚད།"
+
+msgid "Number of M_RU entries (1 - 16):"
+msgstr "ཉེ་དུས་ཁ་ཕྱེ་བའི་རྣམ་གྲངས། (1 - 16)(_R)："
+
+msgid "Number of Segments"
+msgstr "རྡོག་གྲངས།"
+
+msgid "Number of Tiles"
+msgstr "གྲུ་བཞིའི་གྲངས་ཚད།"
+
+msgid "Number of _frames:"
+msgstr "ལྷེབ་གྲངས། (_F)："
+
+msgid "Number of _undo levels (1 - 99):"
+msgstr "འདོར་ཆོག་པའི་ཐེངས་གྲངས། (1 - 99)(_U)："
+
+msgid "Number of cells:"
+msgstr "སྡེ་ཚན་གྲངས་ཚད།:"
+
+msgid "Number of colors:"
+msgstr "ཁ་དོག་གྲངས་ཚད།："
+
+msgid "Number of cycles covering full value range"
+msgstr "གསལ་ཚད་ཁྱབ་ཁོངས་ཡོངས་ཀྱི་འཁོར་ཡུན་གྲངས་འགེབས་པ།"
+
+msgid "Number of pieces going across"
+msgstr "འཕྲེད་ཕྱོགས་གྲུ་བཞིའི་གྲངས་ཚད།"
+
+msgid "Number of pieces going down"
+msgstr "གཞུང་ཕྱོགས་གྲུ་བཞིའི་གྲངས་ཚད།"
+
+msgid "Number of times to apply filter"
+msgstr "འཚག་ཤེལ་བཀོལ་སྤྱོད་ཀྱི་ཐེངས་གྲངས།"
+
+msgid "Number of unique colors: %d"
+msgstr "ཁ་དོག་གྲངས་ཚད།:%d"
+
+msgid "Numbering"
+msgstr "གྲངས་བགྲང་།"
+
+msgid "O_ffset:"
+msgstr "གནས་སྤོ། (_F)："
+
+msgid "O_nly foreground"
+msgstr "མདུན་ལྗོངས་ཁ་དོག་ཁོ་ནར། (_N)"
+
+msgid "O_pacity:"
+msgstr "མི་གསལ་ཚད། (_P)："
+
+msgid "O_ptions"
+msgstr "འདེམས་ཚན། (_P)"
+
+msgid "O_rientation"
+msgstr "ཁ་ཕྱོགས། (_R)"
+
+msgid "O_thers"
+msgstr "གཞན། (_T)"
+
+msgid "O_utput LPI:"
+msgstr "ཕྱིར་འདོན LPI(_U)："
+
+msgid "O_utput channel:"
+msgstr "རྒྱུ་ལམ་ཕྱིར་འདོན། (_U)："
+
+msgid "O_verlap:"
+msgstr "བསྐྱར་བརྩེགས། (_V)："
+
+msgid "O_verlay"
+msgstr "འགེབས་པ། (_V)"
+
+msgid "O_versample:"
+msgstr "དཔེ་སྒྲུག་འདས་པ། (_V)："
+
+msgid "Object Details"
+msgstr "བྱ་ཡུལ་ཞིབ་ཆ།"
+
+msgid "Object X position in XYZ space"
+msgstr "དངོས་གཟུགས་དེ་བར་སྟོང XYZ ཡི་གནས་ཚད་གནས་ས X ལ་གནས་པ།"
+
+msgid "Object Y position in XYZ space"
+msgstr "དངོས་གཟུགས་དེ་བར་སྟོང XYZ ཡི་གནས་ཚད་གནས་ས Y ལ་གནས་པ།"
+
+msgid "Object Z position in XYZ space"
+msgstr "དངོས་གཟུགས་དེ་བར་སྟོང XYZ ཡི་གནས་ཚད་གནས་ས Z ལ་གནས་པ།"
+
+msgid "Octagons & squares"
+msgstr "མཐའ་བརྒྱད་དབྱིབས་དང་གྲུ་བཞི།"
+
+msgid "Off_set:"
+msgstr "གནས་སྤོ། (_S)："
+
+msgid "Offset _angle:"
+msgstr "ཡོ་སྤོའི་ཟུར་ཚད། (_A)："
+
+msgid "Offset all vectors with a given angle"
+msgstr "ཕྱོགས་ཚད་ཚང་མ་དམིགས་འཛུགས་བྱས་པའི་ཟུར་ཚད་ཅིག་ལ་ཡོ་སྤོ་བྱེད་པ།"
+
+msgid "Offset:"
+msgstr "གནས་སྤོ།："
+
+msgid "Oil painting"
+msgstr "སྣུམ་ཚོན་རི་མོ།"
+
+msgid "Oili_fy..."
+msgstr "སྣུམ་ཚོན་རི་མོ། (_F)"
+
+msgid "Oilify"
+msgstr "སྣུམ་ཚོན་རི་མོ།"
+
+msgid "On edges:"
+msgstr "མུ་འགྲམ་དུ་གནས།："
+
+msgid "On film:"
+msgstr "སྤྱིན་ཤོག་ནང་འཇོག་པ།:"
+
+msgid "One frame per layer (replace)"
+msgstr "རིས་རིམ་རེ་རེར་ལྷེབ་མ་རེ། ( ཚབ་བརྗེ )"
+
+msgid "Only b_ackground"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་ཁ་ནར། (_A)"
+
+msgid "Only one unique color"
+msgstr "ཁ་དོག་གཅིག་ལས་མེད་པ།"
+
+msgid "Op_acity:"
+msgstr "མི་གསལ་ཚད། (_A)："
+
+msgid "Op_timal estimation"
+msgstr "ཚོད་དཔག་ལེགས་ཤོས། (_T)"
+
+msgid "Op_tions"
+msgstr "འདེམས་ཚན། (_T)"
+
+msgid "Opacity:"
+msgstr "མི་གསལ་ཚད།:"
+
+msgid "Open"
+msgstr "ཁ་ཕྱེ་བ།"
+
+msgid "Open File"
+msgstr " ཡིག་ཆའི་ཁ་འབྱེད་པ།"
+
+msgid "Open IFS Fractal file"
+msgstr "IFS དབྱིབས་འབྱེད་ཡིག་ཆ་ཁ་ཕྱེ་བ། "
+
+msgid "Open as"
+msgstr "ལ་ཁ་ཕྱེ་བ།"
+
+msgid "Open failed"
+msgstr "ཁ་ཕྱེ་བ་ཕམ་པ།"
+
+msgid "Opening '%s'"
+msgstr "“%s” ཁ་ཕྱེ་བཞིན་པ།"
+
+msgid "Opening '%s' (frame %d)"
+msgstr "“%s” ཁ་ཕྱེ་བ། ( ལྷེབ་མ་ཨང %d )"
+
+msgid "Opening URI"
+msgstr "URI ཁ་ཕྱེ་བ། "
+
+msgid "Opening thumbnail for '%s'"
+msgstr "“%s” ཡི་བསྡུས་རིས་ཁ་ཕྱེ་བ།"
+
+msgid "Opens up the Orientation Map Editor"
+msgstr "ཁ་ཕྱོགས་ཁྱབ་ཚུལ་གྱི་རྩོམ་སྒྲིག་ཆས་ཁ་ཕྱེ་བ།"
+
+msgid "Opens up the Size Map Editor"
+msgstr "ཆེ་ཆུང་ཁྱབ་ཚུལ་གྱི་རྩོམ་སྒྲིག་ཆས་ཁ་ཕྱེ་བ།"
+
+msgid "Optimize"
+msgstr "ལེགས་སྒྱུར།"
+
+msgid "Optimize (for _GIF)"
+msgstr "ལེགས་སྒྱུར། ( GIF ལ )(_G)"
+
+msgid "Optimizing animation"
+msgstr "འགུལ་རིས་ལེགས་སྒྱུར།"
+
+msgid "Options"
+msgstr "འདེམས་ཚན།"
+
+msgid "Or_ientation"
+msgstr "ཁ་ཕྱོགས། (_I)"
+
+msgid "Or_igin:"
+msgstr "གདོད་མ། (_I)"
+
+msgid "Orientation"
+msgstr "ཁ་ཕྱོགས།"
+
+msgid "Orientation Map Editor"
+msgstr "ཁ་ཕྱོགས་ཁྱབ་ཚུལ་གྱི་རྩོམ་སྒྲིག་ཆས།"
+
+msgid "Orientation:"
+msgstr "ཁ་ཕྱོགས།:"
+
+msgid "Original"
+msgstr "གདོད་མ།"
+
+msgid "Original intensity"
+msgstr "གདོད་མའི་གསལ་ཚད།"
+
+msgid "Original:"
+msgstr "གདོད་མ།:"
+
+msgid "Ot_her"
+msgstr "གཞན། (_H)"
+
+msgid "Other Options"
+msgstr "འདེམས་ཚན་གཞན།"
+
+msgid "Output"
+msgstr "ཕྱིར་འདོན།"
+
+msgid "Output levels:"
+msgstr "མདོག་ཐེམ་ཕྱིར་འདོན།："
+
+msgid "Outside Type"
+msgstr "ཕྱིའི་རིགས་གྲས།"
+
+msgid "Overlay"
+msgstr "འགེབས་པ།"
+
+msgid "P(ower factor):"
+msgstr "P( ཕོབ་རྐྱེན་ཆ )："
+
+msgid "PBM image"
+msgstr "བརྙན་རིས་ PBM "
+
+msgid "PDF document"
+msgstr "ཡིག་ཚགས་ PDF "
+
+msgid "PGM image"
+msgstr "བརྙན་རིས་PGM "
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "PNG + delta PNG"
+msgstr "PNG + Delta PNG"
+
+msgid "PNG compression level:"
+msgstr "PNG ཡི་སྡུད་སྒྲིལ་རིམ་པ།:"
+
+msgid "PNG image"
+msgstr "བརྙན་རིས་PNG "
+
+msgid "PNM"
+msgstr "PNM"
+
+msgid "PNM Image"
+msgstr "བརྙན་རིས་PNM "
+
+msgid "PNM image"
+msgstr "བརྙན་རིས་PNM "
+
+msgid "PPM image"
+msgstr "བརྙན་རིས་PPM "
+
+msgid "PS Diamond"
+msgstr "གཟེ་དབྱིབས་PS "
+
+msgid "PS Square (Euclidean Dot)"
+msgstr "གྲུ་བཞི PS། ( ཨུ་ཁི་ལི་ཏེན་ཚེག )"
+
+msgid "PSP"
+msgstr "PSP"
+
+msgid "P_aper"
+msgstr "རིས་ཤོག (_A)"
+
+msgid "P_olar Coordinates..."
+msgstr "ཆེས་གནས་ཚད། (_O)"
+
+msgid "P_review"
+msgstr "སྔོན་ལྟ། (_R)"
+
+msgid "Page %d"
+msgstr "ཤོག་ཨང་། %d"
+
+msgid "Page Curl"
+msgstr "ལྡེབ་ངོས་གུག་འཁྱོག"
+
+msgid "Page Set_up"
+msgstr "ལྡེབ་ངོས་སྒྲིག་འགོད། (_U)"
+
+msgid "Pagecurl Effect"
+msgstr "ལྡེབ་ངོས་གུག་འཁྱོག་གི་འབྲས་བུ།"
+
+msgid "Pages to load (e.g.: 1-4 or 1,3,5-7)"
+msgstr "ཤོག་ཨང་ཁུར་སྣོན། ( དཔེར་ན།：1-4 འམ་ཡང་ན 1,3,5-7 )"
+
+msgid "Pages:"
+msgstr "ཤོག་གྲངས།:"
+
+msgid "Paint Shop Pro image"
+msgstr "བརྙན་རིས Paint Shop Pro"
+
+msgid "Paint edges"
+msgstr "བྱུགས་བྲིས་མུ་འགྲམ།"
+
+msgid "Paint mode:"
+msgstr "རི་མོ་འབྲི་བའི་རྣམ་པ།:"
+
+msgid "Painting"
+msgstr "འབྲི་བ།"
+
+msgid "Pal_ette File:"
+msgstr "ཚོན་གཞོང་ཡིག་ཆ། (_E)："
+
+msgid "Palette"
+msgstr "ཚོན་གཞོང་།"
+
+msgid "Palette Map"
+msgstr "ཚོན་གཞོང་རྟེན་འཕྲོ།"
+
+msgid "Paper Tile"
+msgstr "ཤོག་ལེབ་སྙོམས་འདིང་།"
+
+msgid "Parameter k:"
+msgstr "ཞུགས་གྲངས་ k："
+
+msgid "Parameters"
+msgstr "ཞུགས་གྲངས།"
+
+msgid "Parameters were saved to '%s'"
+msgstr "ཞུགས་གྲངས་དེ “%s” ལ་ཉར་ཚགས་བྱས།"
+
+msgid "Paste"
+msgstr "སྦྱར་བ།"
+
+msgid "Pattern fill"
+msgstr "དཔེ་རིས་ཁ་སྐོང་།"
+
+msgid "Percent _black:"
+msgstr "ནག་པོའི་བརྒྱ་ཆའི་བསྡུར་ཚད། (_B)："
+
+msgid "Percent _white:"
+msgstr "དཀར་པོའི་བརྒྱ་ཆའི་བསྡུར་ཚད། (_W)："
+
+msgid "Percentage of pixels to be filtered"
+msgstr "འཚག་རྒྱག་བྱས་པའི་བརྙན་རྒྱུའི་བསྡུར་ཕྱོད།"
+
+msgid "Performs various artistic operations"
+msgstr "རིགས་མང་པོའི་སྒྱུ་རྩལ་ཅན་གྱི་བཀོལ་སྤྱོད་ལག་བསྟར་བྱེད་པ།"
+
+msgid "Perhaps you are missing GIO backends and need to install GVFS?"
+msgstr "ཕལ་ཆེར་ཁྱེད་ཀྱི GIO ཡི་མཇུག་སྣེ་བོར་བས GVFS སྒྲིག་འཇུག་བྱེད་དགོས་སམ།"
+
+msgid "Phase _shift:"
+msgstr "མཚན་སྤོ། (_S)："
+
+msgid "Phase angle, range 0-360"
+msgstr "མཚན་གནས་ཟུར། ཁྱབ་ཁོངས 0-360"
+
+msgid "Phong"
+msgstr "འོད་འཕྲོའི་དཔེ་དབྱིབས། (Phong)"
+
+msgid "Photocopy"
+msgstr "པར་ལེན་པ།"
+
+msgid "Photoshop image"
+msgstr "བརྙན་རིས་Photoshop "
+
+msgid "Pieces:"
+msgstr "རྡོག་གྲངས།:"
+
+msgid "Ping pong"
+msgstr "ཕིང་ཕང་སྤོ་ལོ།"
+
+msgid "Pixel _height:"
+msgstr "བརྙན་རྒྱུའི་མཐོ་ཚད། (_H)："
+
+msgid "Pixel _width:"
+msgstr "བརྙན་རྒྱུའི་ཞེང་ཚད། (_W)："
+
+msgid "Pixel value scaling"
+msgstr "བརྙན་རྒྱུའི་གྲངས་བྲིན་སྐྱེད་སྐྱུང་།"
+
+msgid "Pixelizing"
+msgstr "བརྙན་རྒྱུ་ཅན།"
+
+msgid "Pixels"
+msgstr "བརྙན་རྒྱུ།"
+
+msgid "Pl_acement"
+msgstr "འཇོག་པ། (_A)"
+
+msgid "Place strokes randomly around the image"
+msgstr "སྨྱུག་ཁམ་དེ་བརྙན་རིས་ནང་སྐབས་བསྟུན་དུ་འཇོག་པ།"
+
+msgid "Placement"
+msgstr "ས་གནས།"
+
+msgid "Planar (RRR,GGG,BBB)"
+msgstr "སྙོམས་ངོས། (RRR，GGG，BBB)"
+
+msgid "Planar RGB"
+msgstr "སྙོམས་ངོས RGB"
+
+msgid "Plane"
+msgstr "སྙོམས་ངོས།"
+
+msgid "Plasma"
+msgstr "ཚོན་མདངས་རྣམ་པར་བཀྲ་བ། (Plasma)"
+
+msgid "Playback speed"
+msgstr "སླར་གཏོང་མགྱོགས་ཚད།"
+
+msgid "Please fill in all text fields."
+msgstr "ཡི་གེའི་ཁུལ་ཁོངས་ཚང་མ་འབྲི་རོགས།"
+
+msgid "Plot a Graph of the Settings"
+msgstr "སྒྲིག་འགོད་འདི་ཡི་རིས་ཐིག་རི་མོ་འབྲི་བ།"
+
+msgid "Plug-In Browser"
+msgstr "བསྒར་ལྷུའི་མིག་བཤར་ཆས།"
+
+msgid "Plural"
+msgstr "ཚོ་གྲངས།"
+
+msgid "Po_larization:"
+msgstr "ཡོ་འདར། (_L)："
+
+msgid "Point"
+msgstr "ཚེག"
+
+msgid "Point light"
+msgstr "ཚེག་འོད་ཁུངས།"
+
+msgid "Polar"
+msgstr "སྣེ་ཟིན་ཐིག"
+
+msgid "Polar Coordinates"
+msgstr "སྣེ་ཟིན་གནས་ཚད།"
+
+msgid "Polar coordinates"
+msgstr "སྣེ་ཟིན་གནས་ཚད།"
+
+msgid "Polar grid radius interval:"
+msgstr "སྣེ་ཟིན་གནས་ཚད་ཀྱི་དྲ་མིག་ཟུར་ཚད་བར་ཆོད།："
+
+msgid "Polar grid sectors desired:"
+msgstr "མཁོ་བའི་སྣེ་ཟིན་གནས་ཚད་ཀྱི་དྲ་མིག་དུམ་བགོད་གྲངས།："
+
+msgid "Polygon"
+msgstr "མཐའ་མང་དབྱིབས།"
+
+msgid "Popcorn"
+msgstr "བ་དམ་མེ་ཏོག"
+
+msgid "Portable Document Format"
+msgstr "འཁྱེར་བདེའི་ཡིག་ཚགས་རྣམ་གཞག"
+
+msgid "Position"
+msgstr "ས་གནས།"
+
+msgid "Position X:"
+msgstr "གནས་X："
+
+msgid "Position Y:"
+msgstr "གནས་Y："
+
+msgid "Position Z:"
+msgstr "གནས་Z："
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "PostScript document"
+msgstr "ཡིག་ཚགས PostScript"
+
+msgid "PostScript save cannot handle images with alpha channels"
+msgstr ""
+"PostScript ཉར་ཚགས་བྱེད་པར Alpha རྒྱུ་ལམ་གྱི་བརྙན་རིས་ཡོད་པ་ཐག་གཅོད་མི་ཐུབ།"
+
+msgid "Pre_view"
+msgstr "སྔོན་ལྟ། (_V)"
+
+msgid "Preferences"
+msgstr "མཐོ་རིམ།"
+
+msgid "Premature end of file."
+msgstr "སྔ་དྲགས་པའི་ཡིག་ཆ་རྫོགས་ས།"
+
+msgid "Preserve _luminosity"
+msgstr "གསལ་ཚད་རྒྱུན་སྲུང་། (_L)"
+
+msgid "Preserve the original image as a background"
+msgstr "གདོད་མའི་བརྙན་རིས་ཉར་ནས་རྒྱབ་ལྗོངས་ལ་རྩིས་པ།"
+
+msgid "Preview"
+msgstr "སྔོན་ལྟ།"
+
+msgid "Preview Size"
+msgstr "སྔོན་ལྟའི་ཆེ་ཆུང་།"
+
+msgid "Preview _size:"
+msgstr "སྔོན་ལྟའི་ཆེ་ཆུང་། (_S)："
+
+msgid "Preview a GIMP layer-based animation"
+msgstr "GIMP རིས་རིམ་གྱི་འགུལ་རིས་ཤིག་ལ་གཞིར་བཟུང་བའི་སྔོན་ལྟ།"
+
+msgid "Prewitt compass"
+msgstr "ཕྱོགས་སྟོན་འཁོར་ལོ Prewitt"
+
+msgid "Prim's algorithm"
+msgstr "Prim ཡི་རྩི་ཐབས།"
+
+msgid "Print the image"
+msgstr "བརྙན་རིས་པར་འདེབས།"
+
+msgid "Printing"
+msgstr "པར་འདེབས།"
+
+msgid "Probability gradient:"
+msgstr "ཡོང་སྲིད་པའི་རང་བཞིན་གྱི་རིམ་འགྱུར།:"
+
+msgid "Procedure Browser"
+msgstr "བརྒྱུད་རིམ་མིག་བཤར་ཆས།"
+
+msgid "Procedure _Browser"
+msgstr "བརྒྱུད་རིམ་མིག་བཤར་ཆས། (_B)"
+
+msgid "Produce a lense flare effect using gradients"
+msgstr "རིམ་འགྱུར་སྤྱད་ནས་ཤེལ་མགོའི་འོད་འཁྱིམས་འབྲས་བུ་ཞིག་འབྱུང་བ།"
+
+msgid "Propagate"
+msgstr "སྐྱེ་འཕེལ།"
+
+msgid "Propagate certain colors to neighboring pixels"
+msgstr "ཆེད་དམིགས་ཁ་དོག་དེ་ཉེ་མཚེས་བརྙན་རྒྱུ་ལ་སྐྱེ་འཕེལ་བྱེད་པ།"
+
+msgid "Propagating _alpha channel"
+msgstr "རྒྱུ་ལམ Alpha སྐྱེ་འཕེལ་བྱེད་པ། (_A)"
+
+msgid "Propagating value channel"
+msgstr "གྲངས་བྲིན་རྒྱུ་ལམ་སྐྱེ་འཕེལ་བྱེད་པ།"
+
+msgid "Propert_ies"
+msgstr "གཏོགས་གཤིས། (_I)"
+
+msgid "Properties"
+msgstr "གཏོགས་གཤིས།"
+
+msgid "Qbist"
+msgstr "Qbist"
+
+msgid "Quality:"
+msgstr "སྒྲ་སྤུས།"
+
+msgid "R, G, B (normal)"
+msgstr "R，G，B། ( སྤྱིར་བཏང )"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "RGB Alpha"
+msgstr "RGB Alpha"
+
+msgid "RGB Noise"
+msgstr "འཛེར་སྒྲ། RGB "
+
+msgid "RGB Save Type"
+msgstr "ཉར་ཚགས་རིགས་གྲས RGB "
+
+msgid "RGB workspace (%s)"
+msgstr "ལས་ཀའི་བར་སྟོང RGB། (%s)"
+
+msgid "RGB565"
+msgstr "RGB565"
+
+msgid "RGBA"
+msgstr "RGBA"
+
+msgid "RGBA/GRAYA drawable is not selected."
+msgstr "བརྙན་རིས RGBA/GRAYA གདམ་མེད་པ།"
+
+msgid "RLE"
+msgstr "RLE"
+
+msgid "RLE compression"
+msgstr "སྡུད་སྒྲིལ RLE "
+
+msgid "R_adius 2:"
+msgstr "ཚངས་ཕྱེད 2(_A)："
+
+msgid "R_adius:"
+msgstr "ཚངས་ཕྱེད། (_A)："
+
+msgid "R_andom hue:"
+msgstr "སྐབས་བསྟུན་ཚོས་གཞི། (_A)："
+
+msgid "R_andom seed:"
+msgstr "སྐབས་བསྟུན་གྲངས་ས་བོན། (_A)："
+
+msgid "R_andomization (%):"
+msgstr "སྐབས་བསྟུན་ཚད། (_A)(%)："
+
+msgid "R_earrange Colormap..."
+msgstr "ཁ་དོག་རེའུ་མིག་ཡང་བསྐྱར་ལེགས་སྒྲིག (_E)"
+
+msgid "R_ecompose"
+msgstr "ཡང་བསྐྱར་མཉམ་སྒྲིག (_E)"
+
+msgid "R_ecursive"
+msgstr "རིམ་ལོག (_E)"
+
+msgid "R_ed"
+msgstr "དམར་པོ། (_E)"
+
+msgid "R_ed threshold:"
+msgstr "མཚམས་ཐང་དམར་པོ། (_E)："
+
+msgid "R_edraw preview"
+msgstr "སྔོན་ལྟ་བསྐྱར་བྲིས། (_E)"
+
+msgid "R_epeat:"
+msgstr "བསྐྱར་ཟློས། (_E)："
+
+msgid "R_everse"
+msgstr "ལྡོག་ཕྱོགས། (_E)"
+
+msgid "Radial"
+msgstr "ཚངས་ཕྱོགས།"
+
+msgid "Radial gradient:"
+msgstr "ཚངས་ཕྱོགས་རིམ་འགྱུར།："
+
+msgid "Radians"
+msgstr "གཞུ་ཚད།"
+
+msgid "Radians/Pi"
+msgstr "གཞུ་ཚད། /Pi"
+
+msgid "Radius"
+msgstr "ཚངས་ཕྱེད།"
+
+msgid "Radius:"
+msgstr "ཚངས་ཕྱེད།:"
+
+msgid "Raise selected object"
+msgstr "བདམས་པའི་བྱ་ཡུལ་འཕར་བ།"
+
+msgid "Raise selected object to top"
+msgstr "བདམས་པའི་བྱ་ཡུལ་དེ་རྩེ་སྣེར་འཕར་བ།"
+
+msgid "Rando_m saturation:"
+msgstr "སྐབས་བསྟུན་ཚད་ལོངས་ཚད། (_M)："
+
+msgid "Random"
+msgstr "སྐབས་བསྟུན།"
+
+msgid "Random Hurl"
+msgstr "སྐབས་བསྟུན་གཏོར་བ། (Hurl)"
+
+msgid "Random Pick"
+msgstr "སྐབས་བསྟུན་སྦྱོང་བ། (Pick)"
+
+msgid "Random Seed"
+msgstr "སྐབས་བསྟུན་གྲངས་ཀྱི་ས་བོན།"
+
+msgid "Random Slur"
+msgstr "སྐབས་བསྟུན་བག་ཡོད། (Slur)"
+
+msgid "Random _seed:"
+msgstr "སྐབས་བསྟུན་གྲངས་ཀྱི་ས་བོན། (_S)："
+
+msgid "Random seed:"
+msgstr "སྐབས་བསྟུན་གྲངས་ཀྱི་ས་བོན།:"
+
+msgid "Random shared"
+msgstr "སྐབས་བསྟུན་མཉམ་སྤྱོད།"
+
+msgid "Random, ch. independent"
+msgstr "སྐབས་བསྟུན། རྒྱུ་ལམ་ཁག་རང་ཚུགས།"
+
+msgid "Randomize hue/saturation/value independently"
+msgstr "སྐབས་བསྟུན་ཅན་གྱི་ཚོས་གཞི། / ཚད་ལོངས་ཚད། / གསལ་ཚད་བཅས།"
+
+msgid "Randomly"
+msgstr "སྐབས་བསྟུན།"
+
+msgid "Randomly interchange some pixels with neighbors"
+msgstr "ཉེ་མཚེས་བརྙན་རྒྱུ་ཁ་ཤས་སྐབས་བསྟུན་བརྗེ་རེས་བྱེད་པ།"
+
+msgid "Randomly slide some pixels downward (similar to melting)"
+msgstr "སྐབས་བསྟུན་གྱིས་བརྙན་རྒྱུ་ཁ་ཤས་མར་ཆག་པ། ( ཞུ་བ་དང་འདྲ་བ )"
+
+msgid "Randoms from seed"
+msgstr "ས་བོན་ལས་བྱུང་བའི་སྐབས་བསྟུན་གྲངས།"
+
+msgid "Randoms from seed (shared)"
+msgstr "ས་བོན་ལས་བྱུང་བའི་སྐབས་བསྟུན་གྲངས། ( མཉམ་སྤྱོད )"
+
+msgid "Range high:"
+msgstr "ཁྱབ་ཁོངས་མཐོ་བ།:"
+
+msgid "Range low:"
+msgstr "ཁྱབ་ཁོངས་དམའ་བཉ།："
+
+msgid "Ranks:"
+msgstr "རིམ་དབྱེ།:"
+
+msgid "Raw"
+msgstr "གདོད་མ།"
+
+msgid "Raw Image"
+msgstr "བརྙན་རིས Raw"
+
+msgid "Raw image data"
+msgstr "གདོད་མའི་བརྙན་རིས་གཞི་གྲངས།"
+
+msgid "Rays Paint Options"
+msgstr "འཕྲོ་ཐིག་གི་རི་མོ་འབྲི་བའི་འདེམས་ཚན།"
+
+msgid "Re_center"
+msgstr "དཀྱིལ་སྒྲིག (_C)"
+
+msgid "Re_d"
+msgstr "དམར་པོ། (_D)"
+
+msgid "Reads the selected Preset into memory"
+msgstr "བདམས་པའི་སྔོན་སྒྲིག་དེ་ནང་གསོག་ཏུ་ཀློག་འཇུག་བྱེད་པ།"
+
+msgid "Realtime preview"
+msgstr "དུས་ཐོག་སྔོན་ལྟ།"
+
+msgid "Rearrange Colormap"
+msgstr "ཁ་དོག་རེའུ་མིག་ཡང་བསྐྱར་ལེགས་སྒྲིག"
+
+msgid "Rearrange the colormap"
+msgstr "ཁ་དོག་རེའུ་མིག་ཡང་བསྐྱར་ལེགས་སྒྲིག"
+
+msgid "Rearranging the colormap"
+msgstr "ཁ་དོག་རེའུ་མིག་ཡང་བསྐྱར་ལེགས་སྒྲིག"
+
+msgid "Recolor the image using colors from the active gradient"
+msgstr ""
+"མིག་སྔའི་རིམ་འགྱུར་ནང་གི་ཁ་དོག་སྤྱད་ནས་བརྙན་རིས་ལ་ཡང་བསྐྱར་ཚོན་འབྱུག་པ།"
+
+msgid "Recolor the image using colors from the active palette"
+msgstr ""
+"མིག་སྔའི་ཚོན་གཞོང་ནང་གི་ཁ་དོག་སྤྱད་ནས་བརྙན་རིས་ལ་ཡང་བསྐྱར་ཚོན་འབྱུག་པ།"
+
+msgid "Recompose an image that was previously decomposed"
+msgstr "སྔོན་དུ་དབྱེ་ཕྲལ་བྱས་པའི་བརྙན་རིས་དེ་ཡང་བསྐྱར་མཉམ་སྒྲིག་བྱེད་པ།"
+
+msgid "Recompute Center"
+msgstr "ཡང་བསྐྱར་རྩིས་རྒྱག་ལྟེ་གནས།"
+
+msgid "Recompute preview image"
+msgstr "སྔོན་ལྟའི་བརྙན་རིས་ལ་ཡང་བསྐྱར་རྩིས་རྒྱག་པ།"
+
+msgid "Rectangle"
+msgstr "ཟུར་གྲུ་བཞི་དབྱིབས།"
+
+msgid "Red"
+msgstr "དམར་པོ།"
+
+msgid "Red Eye Removal"
+msgstr "མིག་དམར་པོ་འདོར་བ།"
+
+msgid "Red _frequency:"
+msgstr "དམར་པོའི་ཟློས་ཕྱོད། (_F)："
+
+msgid "Red _phaseshift:"
+msgstr "དམར་པོའི་མཚན་སྤོ། (_P)："
+
+msgid "Red:"
+msgstr "དམར་པོ།:"
+
+msgid "Redo"
+msgstr "བསྐྱར་བཟོ།"
+
+msgid "Redo last zoom change"
+msgstr "སྔོན་གྱི་སྐྱེད་སྐྱུང་འགྱུར་ལྡོག་བསྐྱར་བཟོ་བྱེད་པ།"
+
+msgid "Reduce _Luminance"
+msgstr "གསལ་ཚད་འབེབས་པ། (_L)"
+
+msgid "Reduce _Saturation"
+msgstr "ཚད་ལོངས་ཚད་འབེབས་པ། (_S)"
+
+msgid "Reduce file size where combining layers is possible"
+msgstr "མཉམ་སྒྲིལ་བྱེད་སྲིད་པའི་རིས་རིམ་གྱི་མཚམས་སུ་ཡིག་ཆའི་ཆེ་ཆུང་འབེབས་པ།"
+
+msgid "Reduce image to pure red, green, and blue"
+msgstr "བརྙན་རིས་དེ་ལྷད་མེད་ཀྱི་དམར་པོ་དང་། ལྗང་ཁུ། སྔོན་པོ་བཅས་སུ་འགྱུར་བ།"
+
+msgid "Reflectivity"
+msgstr "ལྡོག་འཕྲོ་ཕྱོད།"
+
+msgid "Refresh the Preview window"
+msgstr "སྔོན་ལྟའི་སྒེའུ་ཁུང་གསར་འདོན།"
+
+msgid "Region affected by plug-in is empty"
+msgstr "བསྒར་ལྷུ་ཡིས་ཤུགས་རྐྱེན་ཐེབས་པའི་ཁྱབ་ཁོངས་ནི་སྟོང་པ་ཡིན།"
+
+msgid "Region selected for filter is empty"
+msgstr "འཚག་ཤེལ་ལ་བདམས་པའི་ཁྱབ་ཁོངས་ནི་སྟོང་པ་ཡིན།"
+
+msgid "Region selected for filter is empty."
+msgstr "འཚག་ཤེལ་ལ་སྤྱོད་པའི་བདམས་པའི་ཁུལ་ཁོངས་ནི་སྟོང་པ་ཡིན།"
+
+msgid "Region selected for plug-in is empty"
+msgstr "བསྒར་ལྷུ་ལ་བདམས་པའི་ཁྱབ་ཁོངས་ནི་སྟོང་པ་ཡིན།"
+
+msgid "Regular Polygon Number of Sides"
+msgstr "མཐའ་མཉམ་མཐའ་མང་དབྱིབས་ཀྱི་མཐའ་ཡི་གྲངས་ཚད།"
+
+msgid "Relati_ve link"
+msgstr "ལྟོས་བཅས་ཀྱི་འབྲེལ་མཐུད། (_V)"
+
+msgid "Relative probability:"
+msgstr "ལྟོས་བཅས་ཀྱི་སྲིད་ཕྱོད།："
+
+msgid "Released under the GNU General Public License"
+msgstr "GNU ཡི་ཀུན་སྤྱོད་སྤྱི་སྤྱོད་ཀྱི་ཆོག་མཆན་ལག་ཁྱེར་འོག་ཁྱབ་བསྒྲགས་བྱས་པ།"
+
+msgid "Relief:"
+msgstr "འབུར་བརྐོས།:"
+
+msgid "Reload current page"
+msgstr "མིག་སྔའི་ལྡེབ་ངོས་ཡང་བསྐྱར་འགེལ་བ།"
+
+msgid "Remo_ve"
+msgstr "གཏོང་བའི་རེའུ་མིག་འདོར་བ། (_v)"
+
+msgid "Remove empty borders from the image"
+msgstr "བརྙན་རིས་ཀྱི་སྟོང་པའི་མུ་འགྲམ་འབུད་པ།"
+
+msgid "Remove empty borders from the layer"
+msgstr "རིས་རིམ་ནང་གི་སྟོང་པའི་མུ་འགྲམ་འབུད་པ།"
+
+msgid "Remove optimization to make editing easier"
+msgstr "ལེགས་སྒྱུར་འབུད་ནས་ལས་སླ་པོར་རྩོམ་སྒྲིག་བྱེད་ཐུབ་པ།"
+
+msgid "Remove speckle noise from the image"
+msgstr "བརྙན་རིས་ནང་གི་ཁྲ་ཐིག་འཛེར་ཚེག་འབུད་པ།"
+
+msgid "Remove the red eye effect caused by camera flashes"
+msgstr "པར་ཆས་འོད་འཁྱུག་གིས་རྐྱེན་པའི་མིག་དམར་པོའི་ནུས་སྣང་འབུད་པ།"
+
+msgid "Removing animation background"
+msgstr "འགུལ་རིས་རྒྱབ་ལྗོངས་འདོར་བ།"
+
+msgid "Removing color"
+msgstr "ཁ་དོག་སུབ་པ།"
+
+msgid "Removing red eye"
+msgstr "མིག་དམར་པོ་འདོར་བ།"
+
+msgid "Render Options"
+msgstr "སྒྲོ་འདོགས་ཀྱི་འདེམས་ཚན།"
+
+msgid "Render Scalable Vector Graphics"
+msgstr "སྐྱེད་སྐྱུང་རུང་བའི་ཕྱོགས་ཚད་རིས་དབྱིབས་སྒྲོ་འདོགས་པ།"
+
+msgid "Render Windows Metafile"
+msgstr "Windows ཡི་རིས་རྒྱུའི་ཡིག་ཆ་སྒྲོ་འདོགས་པ། "
+
+msgid "Render fractal art"
+msgstr "དབྱིབས་འབྱེད་སྒྱུ་རྩལ་སྒྲོ་འདོགས་པ།"
+
+msgid "Render lens flare"
+msgstr "ཤེལ་མགོའི་འོད་འཁྱིམས་སྒྲོ་འདོགས་པ།"
+
+msgid "Rendered SVG"
+msgstr "སྒྲོ་འདོགས་ཟིན་པའི SVG"
+
+msgid "Rendered WMF"
+msgstr "སྒྲོ་འདོགས་ཟིན་པའི WMF"
+
+msgid "Rendering"
+msgstr "སྒྲོ་འདོགས།"
+
+msgid "Rendering IFS (%d/%d)"
+msgstr "སྒྲོ་འདོགས IFS། (%d/%d)"
+
+msgid "Rendering SVG"
+msgstr "སྒྲོ་འདོགས་ SVG"
+
+msgid "Rendering blast"
+msgstr "སྟོབས་ལྡན་རླུང་ལ་སྒྲོ་འདོགས།"
+
+msgid "Rendering fractal"
+msgstr "སྒྲོ་འདོགས་དབྱིབས་འབྱེད།"
+
+msgid "Rendering sphere"
+msgstr "ཟླུམ་ངོས་འབྲི་བ།"
+
+msgid "Rendering supernova"
+msgstr "ཚད་བརྒལ་སྐར་གསར་སྒྲོ་འདོགས།"
+
+msgid "Rendering tiles"
+msgstr "རྫ་ལེབ་སྒྲོ་འདོགས།"
+
+msgid "Rendering wind"
+msgstr "རླུང་ལ་སྒྲོ་འདོགས།"
+
+msgid "Replace"
+msgstr "བརྗེ་བ།"
+
+msgid "Replace a range of colors with another"
+msgstr "ཁ་དོག་ཁྱབ་ཁོངས་ཤིག་གཞན་ཞིག་ལ་བརྗེ་བ།"
+
+msgid "Replace all colors with shades of a specified color"
+msgstr ""
+"དམིགས་འཛུགས་བྱས་པའི་ཁ་དོག་གི་གཏིང་ཟབ་ཚད་མི་འདྲ་བས་ཁ་དོག་ཚང་མ་ཚབ་བྱེད་པ།"
+
+msgid "Replace partial transparency with the current background color"
+msgstr "མིག་སྔའི་རྒྱབ་ལྗོངས་ཁ་དོག་གི་ཆ་ཤས་གསལ་ཚད་ལ་ཚབ་བརྗེ་བ།"
+
+msgid "Replacement for undefined pixels"
+msgstr "མཚན་ཉིད་བཞག་མེད་པའི་བརྙན་རྒྱུ་ལ་ཆ་བཞག་པའི་གོ་བརྗེ།"
+
+msgid "Required attribute rdf:about missing in <%s>"
+msgstr "<%s> ཡི་ནང་མཁོ་བའི་གཏོགས་གཤིས rdf:about བརླག་པ།"
+
+msgid "Reread the folder of Presets"
+msgstr "སྔོན་སྒྲིག་གི་ཡིག་ཁུག་ཡང་བསྐྱར་ཀློག་འཇུག་བྱེད་པ།"
+
+msgid "Rescan Gradients"
+msgstr "རིམ་འགྱུར་ཡང་བསྐྱར་བཤར་འབེབས་བྱེད་པ།"
+
+msgid "Rescan for Fractals"
+msgstr "དབྱིབས་འབྱེད་ཡང་བསྐྱར་འཚོལ་བ།"
+
+msgid "Reset Order"
+msgstr "གོ་རིམ་བསྐྱར་སྒྲིག"
+
+msgid "Reset parameters to default values"
+msgstr "ཞུགས་གྲངས་དེ་སོར་བཞག་གྲངས་བྲིན་ལ་བསྐྱར་སྒྲིག་བྱེད་པ།"
+
+msgid "Reset speed"
+msgstr "མགྱོགས་ཚད་བསྐྱར་སྒྲིག"
+
+msgid "Reset the active curve"
+msgstr "བྱ་བྱེད་འཁྱོག་ཐིག་བསྐྱར་སྒྲིག"
+
+msgid "Reset the speed of the animation"
+msgstr "འགུལ་རིས་ཀྱི་མགྱོགས་ཚད་བསྐྱར་སྒྲིག"
+
+msgid "Resize area's?"
+msgstr "ཁུལ་ཁོངས་ཆེ་ཆུང་བསྐྱར་སྒྲིག་བྱེད་དམ།"
+
+msgid "Resolution"
+msgstr "འབྱེད་ཕྱོད།"
+
+msgid "Resolution:"
+msgstr "འབྱེད་ཕྱོད།"
+
+msgid "Resulting Guide Bounds: %d,%d to %d,%d (%d areas)"
+msgstr ""
+"མཇུག་འབྲས་ཟུར་ལྟའི་ཐིག་གི་ཁྱབ་ཁོངས།：%d,%d ནས %d,%d། ( ཁུལ་ཁོངས་གྲངས་ %d )"
+
+msgid "Resulting Guide Bounds: 0,0 to 0,0 (0 areas)"
+msgstr "མཇུག་འབྲས་ཟུར་ལྟའི་ཐིག་གི་ཁྱབ་ཁོངས།：0,0 ནས 0,0། ( ཁུལ་ཁོངས་གྲངས 0 )"
+
+msgid "Retine_x..."
+msgstr "Retine_x..."
+
+msgid "Retinex"
+msgstr "Retinex"
+
+msgid "Retinex Image Enhancement"
+msgstr "བརྙན་རིས་དྲག་འཕེལ་ Retinex"
+
+msgid "Retinex: filtering"
+msgstr "Retinex：འཚག་རྒྱག"
+
+msgid "Reverse Order"
+msgstr "རིམ་ལྡོག"
+
+msgid "Revert to the original image"
+msgstr "གདོད་མ་བརྙན་རིས་ལ་སླར་གསོ།"
+
+msgid "Rewind the animation"
+msgstr "འགུལ་རིས་མགྱོགས་པོར་ཕྱིར་འཐེན།"
+
+msgid "Right"
+msgstr "གཡས།"
+
+msgid "Right border out of bounds (must be < %d): %d"
+msgstr "གཡས་ཀྱི་མཐའ་སྒྲོམ་མཐའ་མཚམས་ལས་བརྒལ་བ། ( ངེས་པར་དུ < %d)：%d"
+
+msgid "Right edge"
+msgstr "གཡས་མཚམས།"
+
+msgid "Right:"
+msgstr "གཡས།:"
+
+msgid "Rings"
+msgstr "སྒོར་གདུབ།"
+
+msgid "Ripple"
+msgstr "རླབས་རིས།"
+
+msgid "Rippling"
+msgstr "རླབས་རིས།"
+
+msgid "Ro_tation:"
+msgstr "འཁྱིལ་འཁོར། (_T)："
+
+msgid "Ro_w:"
+msgstr "ཕྲེད་སྟར། (_W)："
+
+msgid "Roberts"
+msgstr "Roberts"
+
+msgid "Rotat_e:"
+msgstr "འཁྱིལ་འཁོར། (_E)："
+
+msgid "Rotate"
+msgstr "འཁོར་སྐྱོད།"
+
+msgid "Rotate / Scale"
+msgstr "འཁྱིལ་འཁོར། / སྐྱེད་སྐྱུང་།"
+
+msgid "Rotate Colors"
+msgstr "ཁ་དོག་འཁྱིལ་འཁོར།"
+
+msgid "Rotate Image?"
+msgstr "བརྙན་རིས་འཁྱིལ་འཁོར་རམ།"
+
+msgid "Rotate X:"
+msgstr "འཁྱིལ་འཁོར། X："
+
+msgid "Rotate Y:"
+msgstr "འཁྱིལ་འཁོར། Y："
+
+msgid "Rotate Z:"
+msgstr "འཁྱིལ་འཁོར། Z："
+
+msgid "Rotated"
+msgstr "འཁྱིལ་འཁོར་རྗེས།"
+
+msgid "Rotating"
+msgstr "འཁོར་སྐྱོད།"
+
+msgid "Rotating the colors"
+msgstr "ཁ་དོག་འཁྱིལ་འཁོར།"
+
+msgid "Rotation"
+msgstr "འཁོར་སྐྱོད།"
+
+msgid "Rotation angle about X axis"
+msgstr "མདའ་X ནས་བསྐོར་བའི་འཁྱིལ་འཁོར་གྱི་ཟུར་ཚད།"
+
+msgid "Rotation angle about Y axis"
+msgstr "མདའ་Y ནས་བསྐོར་བའི་འཁྱིལ་འཁོར་གྱི་ཟུར་ཚད།"
+
+msgid "Rotation angle about Z axis"
+msgstr "མདའ Z ནས་བསྐོར་བའི་འཁྱིལ་འཁོར་གྱི་ཟུར་ཚད།"
+
+msgid "Rotation angle:"
+msgstr "འཁྱིལ་འཁོར་ཟུར་ཚད།："
+
+msgid "Rotation:"
+msgstr "འཁྱིལ་འཁོར།："
+
+msgid "Roughness"
+msgstr "རགས་ཙམ།"
+
+msgid "Round"
+msgstr "སྒོར་ཟུར།"
+
+msgid "RunLength Encoded"
+msgstr "ལམ་ཐག་གི་རིང་ཚད་སྒྲིག་ཨང་།"
+
+msgid "SGI"
+msgstr "SGI"
+
+msgid "SUN Rasterfile image"
+msgstr "བརྙན་རིས་SUN Rasterfile"
+
+msgid "SUNRAS"
+msgstr "SUNRAS"
+
+msgid "SUNRAS save cannot handle images with alpha channels"
+msgstr "SUNRAS ཉར་ཚགས་ཀྱིས་རྒྱུ་ལམ Alpha ཡོད་པའི་བརྙན་རིས་ཐག་གཅོད་མི་ཐུབ།"
+
+msgid "SVG image"
+msgstr "བརྙན་རིས་SVG"
+
+msgid "S_econd color:"
+msgstr "ཁ་དོག་ཨང་གཉིས་པ། (_E)："
+
+msgid "S_elect here:"
+msgstr "འདིར་འདེམ་པ། (_E)："
+
+msgid "S_elector"
+msgstr "གདམ་ཆས། (_E)"
+
+msgid "S_how Index"
+msgstr "གསལ་བྱང་མངོན་པ། (_H)"
+
+msgid "S_hrink"
+msgstr "འདུ་འདྲིལ། (_H)"
+
+msgid "S_ine"
+msgstr "དྲང་རྒྱུད། (_I)"
+
+msgid "S_moothing:"
+msgstr "འཇམ་སྙོམས། (_M)："
+
+msgid "S_nap"
+msgstr "འཛིན་པ། (_N)"
+
+msgid "S_trength exp.:"
+msgstr "དྲག་ཚད་སྟོན་གྲངས། (_T)："
+
+msgid "S_trength:"
+msgstr "དྲག་ཚད། (_T)："
+
+msgid "S_triped"
+msgstr "ཤར་རིས། (_T)"
+
+msgid "S_ubject:"
+msgstr "བརྗོད་གཞི།"
+
+msgid "S_wap"
+msgstr "བརྗེ་རེས། (_W)"
+
+msgid "S_wirl CCW"
+msgstr "ཆུ་འཁོར་གཡོན་འཁོར། (_W)"
+
+msgid "Sa_ve Defaults"
+msgstr "སོར་བཞག་གྲངས་བྲིན་ཉར་ཚགས། (_V)"
+
+msgid "Sa_ve alpha channel (RGBA/RGB)"
+msgstr "རྒྱུ་ལམ Alpha ཉར་ཚགས། (RGBA/RGB)(_V)"
+
+msgid "Same"
+msgstr "མཚུངས་པ།"
+
+msgid "Sample Colorize"
+msgstr "མ་དཔེ་ཚོན་འབྱུག"
+
+msgid "Sample _density:"
+msgstr "མདོག་དཔེའི་སྟུག་ཚད། (_D)："
+
+msgid "Sample analyze"
+msgstr "མ་དཔེ་དབྱེ་ཞིབ།"
+
+msgid "Sample:"
+msgstr "མ་དཔེ།："
+
+msgid "Samples the color from the pixel in the center of the brush"
+msgstr "ཁ་དོག་གིས་རིས་པིར་ལྟེ་གནས་གནས་སའི་བརྙན་རྒྱུ་ཡི་གྲངས་བྲིན་ལེན་པ།"
+
+msgid "Sat_uration"
+msgstr "ཚད་ལོངས་ཚད། (_U)"
+
+msgid "Satu_ration"
+msgstr "ཚད་ལོངས་ཚད། (_R)"
+
+msgid "Saturation"
+msgstr "ཚད་ལོངས་ཚད།"
+
+msgid "Saturation (HSL)"
+msgstr "ཚད་ལོངས་ཚད། (HSL)"
+
+msgid "Saturation Variations"
+msgstr "ཚད་ལོངས་ཚད་ཀྱི་འགྱུར་ལྡོག"
+
+msgid "Saturation fr_equency:"
+msgstr "ཚད་ལོངས་ཚད་ཀྱི་ཟློས་ཕྱོད། (_E)："
+
+msgid "Saturation ph_aseshift:"
+msgstr "ཚད་ལོངས་ཚད་ཀྱི་མཚན་སྤོ། (_A)："
+
+msgid "Saturation:"
+msgstr "ཚད་ལོངས་ཚད།："
+
+msgid "Save"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
+
+msgid "Save Brush"
+msgstr "རིས་པིར་ཉར་ཚགས།"
+
+msgid "Save CML Explorer Parameters"
+msgstr "འཚོལ་ཞིབ་ཆས CML ཡི་ཞུགས་གྲངས་ཉར་ཚགས།"
+
+msgid "Save Channel Mixer Settings"
+msgstr "རྒྱུ་ལམ་མཉམ་བསྲེས་ཆས་ཀྱི་སྒྲིག་འགོད་ཉར་ཚགས།"
+
+msgid "Save Current"
+msgstr "མིག་སྔའི་གྲངས་བྲིན་ཉར་ཚགས།"
+
+msgid "Save Current..."
+msgstr "མིག་སྔའི་གྲངས་བྲིན་ཉར་ཚགས།…"
+
+msgid "Save Curve Points to File"
+msgstr "འཁྱོག་ཐིག་གི་ཚེག་ཡིག་ཆའི་ནང་ཉར་ཚགས་བྱས།"
+
+msgid "Save File"
+msgstr "ཡིག་ཆ་ཉར་ཚགས།"
+
+msgid "Save Flame"
+msgstr "མེ་ལྕེ་ཉར་ཚགས།"
+
+msgid "Save Fractal Parameters"
+msgstr "དབྱིབས་འབྱེད་ཞུགས་གྲངས་ཉར་ཚགས།"
+
+msgid "Save Gfig Drawing"
+msgstr "དབྱིབས་རྩིས་རིས་དབྱིབས་ཉར་ཚགས།"
+
+msgid "Save Image Map"
+msgstr "བརྙན་རིས་འཕྲོ་བརྙན་ཉར་ཚགས།"
+
+msgid "Save Lighting Preset"
+msgstr "འོད་འཕྲོའི་སྔོན་སྒྲིག་ཉར་ཚགས།"
+
+msgid "Save _As..."
+msgstr "གཞན་དུ་བཅོལ་བ།(_A)..."
+
+msgid "Save _EXIF data"
+msgstr "གཞི་གྲངས _EXIF ཉར་ཚགས།"
+
+msgid "Save _XMP data"
+msgstr "གཞི་གྲངས _XMP ཉར་ཚགས། "
+
+msgid "Save _color values from transparent pixels"
+msgstr "ནང་གསལ་བརྙན་རྒྱུའི་ཁ་དོག་གི་གྲངས་བྲིན་ཉར་ཚགས། (_C)"
+
+msgid "Save _thumbnail"
+msgstr "བསྡུས་རིས་ཉར་ཚགས། (_T)"
+
+msgid "Save active fractal to file"
+msgstr "དབྱིབས་འབྱེད་དེ་ཡིག་ཆའི་ནང་ཉར་ཚགས།"
+
+msgid "Save as IFS Fractal file"
+msgstr "IFS དབྱིབས་འབྱེད་ཡིག་ཆར་གཞན་ཉར།"
+
+msgid "Save as QBE File"
+msgstr "QBE ཡིག་ཆར་ཉར་ཚགས།"
+
+msgid "Save as _RGB565 (16-bit)"
+msgstr " _RGB565། ( གནས 16 ) ལ་གཞན་ཉར།"
+
+msgid "Save background color"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་ཉར་ཚགས།"
+
+msgid "Save creation time"
+msgstr "གསར་བཟོའི་དུས་ཚོད་ཉར་ཚགས།"
+
+msgid "Save failed"
+msgstr "ཉར་ཚགས་ཕམ་པ།"
+
+msgid "Save gamma"
+msgstr "Gamma ཉར་ཚགས། "
+
+msgid "Save resolution"
+msgstr "འབྱེད་ཕྱོད་ཉར་ཚགས།"
+
+msgid "Save the current settings to the specified file"
+msgstr "མིག་སྔའི་སྒྲིག་པ་དེ་དམིགས་འཛུགས་ཡིག་ཆ་རུ་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "Save the curves to a file"
+msgstr "འཁྱོག་ཐིག་དེ་ཡིག་ཆར་ཉར་ཚགས།"
+
+msgid "Saved"
+msgstr "ཉར་ཚགས།"
+
+msgid "Saving '%s'"
+msgstr "“%s” ཉར་ཚགས་བྱེད་བཞིན་པ།"
+
+msgid "Saw_tooth"
+msgstr "སོག་ལེའི་ཁ། (_T)"
+
+msgid "Sc_ale 1:"
+msgstr "སྐྱེད་སྐྱུང་1(_A)："
+
+msgid "Sc_attering:"
+msgstr "ཐོར་འཕྲོ། (_A)："
+
+msgid "Sca_le 2:"
+msgstr "སྐྱེད་སྐྱུང་2(_L)："
+
+msgid "Scale X:"
+msgstr "སྐྱེད་སྐྱུང་X："
+
+msgid "Scale Y:"
+msgstr "སྐྱེད་སྐྱུང་Y："
+
+msgid "Scale Z:"
+msgstr "སྐྱེད་སྐྱུང་Z："
+
+msgid "Scale _division:"
+msgstr "ཚད་གཞིའི་དྲ་མིག (_D)："
+
+msgid "Scale hue by:"
+msgstr "ཚོས་གཞི་སྐྱེད་སྐྱུང་།:"
+
+msgid "Scale value by:"
+msgstr "གསལ་ཚད་སྐྱེད་སྐྱུང།："
+
+msgid "Scale:"
+msgstr "སྐྱེད་སྐྱུང་།："
+
+msgid "Screen"
+msgstr "བརྙན་ཡོལ།"
+
+msgid "Screenshot"
+msgstr " ཡོལ་གཏུབ།"
+
+msgid "Se_lection only"
+msgstr "འདེམས་ཁུལ་ཁོ་ན། (_L)"
+
+msgid "Searching by name"
+msgstr "མིང་ལྟར་བཤེར་འཚོལ།"
+
+msgid "Second Flares Paint Options"
+msgstr "ཐེངས་གཉིས་ཀྱི་འོད་འཁྱུག་རི་མོ་འབྲི་བའི་འདེམས་ཚན།"
+
+msgid "Second color"
+msgstr "ཁ་དོག་ཨང་གཉིས་པ།"
+
+msgid "Seconds delay"
+msgstr "སྐར་ཆ།"
+
+msgid "Seed of Random (only for \"From Seed\" Modes)"
+msgstr "སྐབས་བསྟུན་གྲངས་ས་བོན། ( “ས་བོན་ལས་བྱུང་བ”ཡི་རྣམ་པ་ཁོ་ནར་སྤྱོད་པ )"
+
+msgid "Seed:"
+msgstr "ས་བོན།:"
+
+msgid "Selec_tion in context"
+msgstr "འདེམས་ཁུལ་གྱི་མཐའ་འཁོར། (_T)"
+
+msgid "Select"
+msgstr "འདེམ་པ།"
+
+msgid "Select All"
+msgstr "ཡོད་ཚད་འདེམ་པ།"
+
+msgid "Select Color"
+msgstr "ཁ་དོག་འདེམ་པ།"
+
+msgid "Select Film Color"
+msgstr "སྤྱིན་ཤོག་ཁ་དོག་འདེམ་པ།"
+
+msgid "Select HTML file"
+msgstr "ཡིག་ཆ HTML འདེམ་པ།"
+
+msgid "Select Image File"
+msgstr "བརྙན་རིས་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select Next"
+msgstr "རྗེས་མ་འདེམ་པ།"
+
+msgid "Select Number Color"
+msgstr "གྲངས་ཀའི་ཁ་དོག་འདེམ་པ།"
+
+msgid "Select Palette File"
+msgstr "ཚོན་གཞོང་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select Pixels By"
+msgstr "བརྙན་རྒྱུའི་འདེམས་ཚུལ།"
+
+msgid "Select Previous"
+msgstr "གོང་མ་འདེམ་པ།"
+
+msgid "Select Region"
+msgstr "ཁུལ་ཁོངས་འདེམ་པ།"
+
+msgid "Select _All"
+msgstr "ཚང་མ་འདེམ་པ།(_A)"
+
+msgid "Select a _region to grab"
+msgstr "གཅོད་ལེན་བྱ་རྒྱུའི་ཁུལ་ཁོངས་འདེམ་པ། (_R)"
+
+msgid "Select an object"
+msgstr "བྱ་ཡུལ་ཞིག་འདེམ་པ།"
+
+msgid "Select destination profile"
+msgstr "དམིགས་འབེན་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select existing area"
+msgstr "གནས་པའི་ཁུལ་ཁོངས་འདེམ་པ།"
+
+msgid "Select folder and rescan collection"
+msgstr "ཡིག་ཁུག་འདེམ་པ་དང་ཆབ་གཅིག་གཅེས་བསྡུས་གསར་འདོན་བྱེད་པ།"
+
+msgid "Select lightsource color"
+msgstr "འོད་ཁུངས་ཀྱི་ཁ་དོག་འདེམ་པ།"
+
+msgid "Select next smvector"
+msgstr "རྗེས་མའི་ཆེ་ཆུང་ཕྱོགས་ཚད་ཅིག་འདེམ་པ།"
+
+msgid "Select next vector"
+msgstr "རྗེས་མའི་ཕྱོགས་ཚད་ཅིག་འདེམ་པ།"
+
+msgid "Select previous smvector"
+msgstr "གོང་མའི་ཆེ་ཆུང་ཕྱོགས་ཚད་ཅིག་འདེམ་པ།"
+
+msgid "Select previous vector"
+msgstr "གོང་མའི་ཕྱོགས་ཚད་ཅིག་འདེམ་པ།"
+
+msgid "Select:"
+msgstr "འདེམ་པ།:"
+
+msgid "Selected:"
+msgstr "གདམ་པ།:"
+
+msgid "Selection"
+msgstr "འདེམ་པ།"
+
+msgid "Selection to Path"
+msgstr "འདེམས་ཁུལ་ནས་བརྒྱུད་ལམ་བར།"
+
+msgid "Selection to Path Advanced Settings"
+msgstr "འདེམས་ཁུལ་ནས་བརྒྱུད་ལམ་བར་གྱི་མཐོ་རིམ་སྒྲིག་འགོད།"
+
+msgid "Selective Gaussian Blur"
+msgstr "འདེམ་གསེས་རང་བཞིན་གྱི་ཀོ་སིན་རབ་རིབ།"
+
+msgid "Selective Load Settings"
+msgstr "འདེམ་གསེས་རང་བཞིན་གྱི་ཁུར་སྣོན་སྒྲིག་འགོད།"
+
+msgid "Selects a random direction of each stroke"
+msgstr "རེ་རེ་ལ་སྐབས་བསྟུན་གྱི་ཁ་ཕྱོགས་ཤིག་འདེམས་དགོས།"
+
+msgid "Selects a random size for each stroke"
+msgstr "རེ་རེ་ལ་སྐབས་བསྟུན་གྱི་ཆེ་ཆུང་ཞིག་འདེམས་དགོས།"
+
+msgid "Selects if the resulting image should be seamlessly tileable"
+msgstr ""
+"གལ་སྲིད་བརྙན་རིས་ཀྱི་མཇུག་འབྲས་ཚགས་མེད་སྙོམས་འདིང་བྱེད་དགོས་ཚེ། "
+"འདེམས་ཚན་འདི་གདམ་དགོས།"
+
+msgid "Selects if to place strokes all the way out to the edges of the image"
+msgstr ""
+"གལ་སྲིད་འདེམས་ཚན་འདི་གདམ་ཚེ། "
+"བརྙན་རིས་མུ་འགྲམ་ལས་བརྒལ་ཡང་སྔར་བཞིན་བྱུགས་བྲིས་བྱེད་པ།"
+
+msgid "Semi-Flattening"
+msgstr "ཕྱེད་སྙོམས།"
+
+msgid "Send To Back"
+msgstr "མཇུག་ཏུ་འདེད་པ།"
+
+msgid "Send by E_mail..."
+msgstr "ཡིག་ཟམ་ལ་སྐྱེལ་བ། (_M)"
+
+msgid "Send by Email"
+msgstr "ཡིག་ཟམ་གྱིས་སྐྱེལ་བ།"
+
+msgid "Send the image by email"
+msgstr "email བེད་སྤྱད་ནས་བརྙན་རིས་སྐྱེལ་བ།"
+
+msgid "Separate to:"
+msgstr "ལ་ཕྲལ་བ།:"
+
+msgid "September 31, 1999"
+msgstr "1999 ལོའི་ཟླ་ 9 ཚེས་ 31 ཉིན།"
+
+msgid "Set a color profile on the image"
+msgstr "བརྙན་རིས་སྟེང་ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆ་ཤིག་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Set foreground to the average color of the image border"
+msgstr ""
+"མདུན་ལྗོངས་ཁ་དོག་དེ་བརྙན་རིས་མཐའ་སྒྲོམ་གྱི་ཆ་སྙོམས་ཁ་དོག་ལ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Set light source color"
+msgstr "འོད་ཁུངས་ཀྱི་ཁ་དོག་སྒྲིག་འགོད།"
+
+msgid "Settings for this Mapfile"
+msgstr "མིག་སྔའི་འཕྲོ་བརྙན་ཡིག་ཆའི་སྒྲིག་འགོད།"
+
+msgid "Several simple methods for detecting edges"
+msgstr "སྟབས་བདེའི་མུ་འགྲམ་བཤེར་འཇལ་གྱི་ཐབས་ཤེས་ཁ་ཤས།"
+
+msgid "Sha_dows"
+msgstr "ལྐོག་སྒྲིག (_D)"
+
+msgid "Shadow blur:"
+msgstr "གྲིབ་ནག་རབ་རིབ།:"
+
+msgid "Shadow darken:"
+msgstr "གྲིབ་ནག་གཏིང་ཟབ།:"
+
+msgid "Shadow depth:"
+msgstr "གྲིབ་ནག་ཟབ་ཚད།:"
+
+msgid "Shadows:"
+msgstr "ལྐོག་སྒྲིག："
+
+msgid "Shape gradient"
+msgstr "དབྱིབས་རིམ་འགྱུར།"
+
+msgid "Shape of Second Flares"
+msgstr "ཐེངས་གཉིས་ཀྱི་འོད་འཁྱུག་གི་དབྱིབས།"
+
+msgid "Sharp Edges"
+msgstr "རྣོ་ངར་གྱི་མུ་འགྲམ།"
+
+msgid "Sharpen"
+msgstr "རྣོ་འགྱུར།"
+
+msgid "Sharpening"
+msgstr "རྣོ་འགྱུར།"
+
+msgid "Shear:"
+msgstr "འཕྲད་འགྱུར།:"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Shift _amount:"
+msgstr "འདྲེད་སྤོའི་ཚད། (_A)："
+
+msgid "Shift _horizontally"
+msgstr "ཆུ་སྙོམས་འདྲེད་སྤོ། (_H)"
+
+msgid "Shift _vertically"
+msgstr "དྲང་འཕྱང་འདྲེད་སྤོ། (_V)"
+
+msgid "Shift each row of pixels by a random amount"
+msgstr "འཕྲེད་སྟར་རེ་རེའི་བརྙན་རྒྱུའི་སྐབས་བསྟུན་ཚད་ཡོ་སྤོ།"
+
+msgid "Shifting"
+msgstr "འདྲེད་སྤོ།"
+
+msgid "Sho_w preview in image window"
+msgstr "བརྙན་རིས་ཀྱི་སྒེའུ་ཁུང་ནང་སྔོན་ལྟ་མངོན་པ། (_W)"
+
+msgid "Should the effect be inversed?"
+msgstr "ལྡོག་འཁོར་གྱི་འབྲས་བུ་ཞིག་དགོས་སམ།"
+
+msgid "Should the luminosity be preserved?"
+msgstr "རྒྱུན་སྲུང་གི་གསལ་ཚད་དགོས་སམ།"
+
+msgid "Show"
+msgstr "མངོན་པ།"
+
+msgid "Show Line Frame"
+msgstr "དྲང་ཐིག་གི་རུས་སྒྲོམ་མངོན་པ།"
+
+msgid "Show _position"
+msgstr "གནས་ས་མངོན་པ། (_P)"
+
+msgid "Show all objects"
+msgstr "བྱ་ཡུལ་ཚང་མ་མངོན་པ།"
+
+msgid "Show area URL _tip"
+msgstr "ཁུལ་ཁོངས་ཀྱི URL སྣེ་སྟོན་མངོན་པ། (_T)"
+
+msgid "Show area _handles"
+msgstr "ཁུལ་ཁོངས་ཀྱི་ཚོད་འཛིན་དུམ་བུ་མངོན་པ། (_H)"
+
+msgid "Show color"
+msgstr "ཁ་དོག་མངོན་པ།"
+
+msgid "Show control points"
+msgstr "ཚོད་འཛིན་ཚེག་སྦེད་པ།"
+
+msgid "Show grid"
+msgstr "དྲ་མིག་མངོན་པ།"
+
+msgid "Show image"
+msgstr "བརྙན་རིས་མངོན་པ།"
+
+msgid "Show next object"
+msgstr "རྗེས་ཀྱི་བྱ་ཡུལ་མངོན་པ།"
+
+msgid "Show position"
+msgstr "གནས་ས་མངོན་པ།"
+
+msgid "Show previous object"
+msgstr "བྱ་ཡུལ་སྔོན་མ་མངོན་པ།"
+
+msgid "Show selection"
+msgstr "འདེམས་ཁུལ་མངོན་པ།"
+
+msgid "Shrink lighter areas of the image"
+msgstr "བརྙན་རིས་ནང་གི་ཅུང་གསལ་བའི་ཁུལ་ཁོངས་འདུ་འདྲིལ།"
+
+msgid "Si_ngular:"
+msgstr "ཡ་གྲངས། (_N)："
+
+msgid "Sides:"
+msgstr "མཐའ་གྲངས།:"
+
+msgid "Sierpinski"
+msgstr "Sierpinski"
+
+msgid "Silicon Graphics IRIS image"
+msgstr "བརྙན་རིས Silicon Graphics IRIS"
+
+msgid "Simple"
+msgstr "སྟབས་བདེ།"
+
+msgid "Simple blur, fast but not very strong"
+msgstr "སྟབས་བདེ་ལ་མགྱོགས་མྱུར་ཡང་ཤུགས་ཆེན་མིན་པའི་རབ་རིབ།"
+
+msgid "Simplest, most commonly used way of blurring"
+msgstr "ཆེས་སྟབས་བདེ་དང་རྒྱུན་སྤྱོད་ཀྱི་རབ་རིབ་ཐབས་ཤེས།"
+
+msgid "Simplify image into an array of solid-colored squares"
+msgstr "བརྙན་རིས་དེ་མདོག་གཅིག་པའི་གྲུ་བཞིའི་གྲམ་སྟར་ལ་སླ་བསྡུས་བྱེད་པ།"
+
+msgid "Simulate a cartoon by enhancing edges"
+msgstr "མུ་འགྲམ་ལད་ཟློས་འགུལ་རིས་ཀྱི་འབྲས་བུ་ཤུགས་སྣོན་པ།"
+
+msgid "Simulate an antique engraving"
+msgstr "རྣམ་པ་རྙིང་པའི་འབྲི་བ་ལ་ལད་ཟློས།"
+
+msgid "Simulate an elliptical lens over the image"
+msgstr "བརྙན་རིས་ཀྱི་སྟེང་འཇོང་དབྱིབས་རྒྱུ་ཤེལ་ལད་ཟློས།"
+
+msgid "Simulate an image created by embossing"
+msgstr "འབུར་བརྐོས་གསར་བཟོའི་བརྙན་རིས་ལད་ཟློས།"
+
+msgid "Simulate an image painted on window blinds"
+msgstr "སུལ་མང་སྒེའུ་ཁུང་སྟེང་འབྲི་བའི་བརྙན་རིས་ལ་ལད་ཟློས།"
+
+msgid "Simulate color distortion produced by a copy machine"
+msgstr "པར་སློག་འཕྲུལ་འཁོར་ལས་འབྱུང་བའི་ཚོན་མདོག་གི་རྣལ་ཉམས་ལ་ལད་ཟློས།"
+
+msgid "Simulate distortion caused by square glass tiles"
+msgstr "ཤེལ་གྱི་ཆག་དུམ་གྲུ་བཞི་ལས་བྱུང་བའི་འཁྱོག་བཤད་ལ་ལད་ཟློས།"
+
+msgid "Simulate distortion produced by a fuzzy or low-res monitor"
+msgstr ""
+"རབ་རིབ་བམ་ཡང་ན་འབྱེད་ཕྱོད་ཆུང་བའི་འཆར་ཆས་ལས་འབྱུང་བའི་རྣལ་ཉམས་ལ་ལད་ཟློས།"
+
+msgid "Simulate glow by making highlights intense and fuzzy"
+msgstr "འོད་མཐོ་དྲག་པོ་དང་རབ་རིབ་ཅན་གྱིས་འོད་འབར་ལད་ཟློས།"
+
+msgid "Simulate movement using directional blur"
+msgstr "ཕྱོགས་ངེས་རབ་རིབ་སྤྱད་ནས་འགུལ་སྐྱོད་ལད་ཟློས་བྱེད་པ།"
+
+msgid "Simulate the glowing boundary of a neon light"
+msgstr "འཇའ་སྒྲོན་གྱི་འོད་འཁྱིམས་ལད་ཟློས།"
+
+msgid "Sin_usoidal"
+msgstr "དྲང་རྒྱུད། (_U)"
+
+msgid "Sine"
+msgstr "དྲང་རྒྱུད།"
+
+msgid "Singular"
+msgstr "ཡ་གྲངས།"
+
+msgid "Sinus"
+msgstr "དྲང་རྒྱུད།"
+
+msgid "Sinus: rendering"
+msgstr "དྲང་རྒྱུད།:འབྲི་བ།"
+
+msgid "Sinusoidal"
+msgstr "དྲང་རྒྱུད།"
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Size (%):"
+msgstr "ཆེ་ཆུང་། (%)："
+
+msgid "Size Map Editor"
+msgstr "ཆེ་ཆུང་ཁྱབ་ཚུལ་གྱི་རྩོམ་སྒྲིག་ཆས།"
+
+msgid "Size depends on:"
+msgstr "ཆེ་ཆུང་གི་བརྟེན་བྱ།:"
+
+msgid "Size factor gradient:"
+msgstr "ཆེ་ཆུང་རྐྱེན་ཆའི་རིམ་འགྱུར།:"
+
+msgid "Size variants:"
+msgstr "ཆེ་ཆུང་འགྱུར་ཚད།:"
+
+msgid "Slice the image into subimages using guides"
+msgstr "ཟུར་ལྟའི་ཐིག་ནས་གཏུབ་པའི་བརྙན་རིས་དེ་ཁོད་མང་རྡུལ་གྱི་བརྙན་རིས་ཡིན།"
+
+msgid "Slower"
+msgstr "དལ་གཏོང་།"
+
+msgid "Small"
+msgstr "ཡིག་གཟུགས་ཆུང་བ།"
+
+msgid "Small Tiles"
+msgstr "རྡོག་ཆུང་སྙོམས་འདིང་།"
+
+msgid "Smear"
+msgstr "འབྱུག་པ།"
+
+msgid "Smear colors to simulate an oil painting"
+msgstr "ཁ་དོག་འབྱུག་ནས་སྣུམ་ཚོན་རི་མོར་ལད་ཟློས།"
+
+msgid "Smear image to give windblown effect"
+msgstr "བརྙན་རིས་ལ་ལྷགས་པ་རྒྱག་པའི་འབྲས་བུ་འབྱུག་པ།"
+
+msgid "Smoo_th Palette..."
+msgstr "ཚོན་གཞོང་འཇམ་སྙོམས། (_T)"
+
+msgid "Smoo_thing"
+msgstr "འཇམ་སྙོམས། (_T)"
+
+msgid "Smoot_h"
+msgstr "འཇམ་སྙོམས། (_H)"
+
+msgid "Smooth Palette"
+msgstr "ཚོན་གཞོང་འཇམ་སྙོམས།"
+
+msgid "Smooth samples"
+msgstr "མ་དཔེའི་ཁ་དོག་འཇམ་སྙོམས།"
+
+msgid "Smoothing Parameters"
+msgstr "ཞུགས་གྲངས་འཇམ་སྙོམས།"
+
+msgid "Smoothing X gradient"
+msgstr "X ཡི་སྐས་ཚད་འཇམ་སྙོམས།"
+
+msgid "Smoothing Y gradient"
+msgstr "Y ཡི་སྐས་ཚད་འཇམ་སྙོམས། "
+
+msgid "Smoothing:"
+msgstr "འཇམ་པ།："
+
+msgid "Smvectors"
+msgstr "ཆེ་ཆུང་ཕྱོགས་ཚད།"
+
+msgid "Snap to grid"
+msgstr "དྲ་མིག་ལ་འཇིབ་འབྱར།"
+
+msgid "Sobel"
+msgstr "Sobel"
+
+msgid "Sobel Edge Detection"
+msgstr "Sobel ཡི་མུ་འགྲམ་བཤེར་འཇལ།"
+
+msgid "Sobel _horizontally"
+msgstr "Sobel ཆུ་སྙོམས། (_H)"
+
+msgid "Sobel _vertically"
+msgstr "Sobel དྲང་འཕྱང་། (_V)"
+
+msgid "Sobel edge detecting"
+msgstr "Sobel ཡི་མུ་འགྲམ་བཤེར་འཇལ།"
+
+msgid "Softglow"
+msgstr "འཇམ་འོད།"
+
+msgid "Solid"
+msgstr "ཚོན་རྡོག"
+
+msgid "Solid Noise"
+msgstr "མདོག་གཅིག་པའི་འཛེར་སྒྲ།"
+
+msgid "Solid colored background"
+msgstr "ཁ་དོག་གཅིག་གི་རྒྱབ་ལྗོངས།"
+
+msgid "Some data has been changed!"
+msgstr "གཞི་གྲངས་ཁ་ཤས་སྒྱུར་ཟིན་པ།"
+
+msgid "Sorry, I can save only INDEXED and GRAY images."
+msgstr "དགོངས་པ་མ་ཚོམ། ངས་གསལ་བྱང་དང་སྐྱ་ཚད་བརྙན་རིས་ཁོ་ན་ལ་ཉར་ཚགས་མི་ཐུབ།"
+
+msgid "Sorry, channels and masks can not be rotated."
+msgstr "དགོངས་པ་མ་ཚོམ། རྒྱུ་ལམ་དང་སོག་ལེབ་འཁྱིལ་འཁོར་མི་ཐུབ།"
+
+msgid ""
+"Sorry, this plug-in cannot handle a cursor which contains over %i different "
+"nominal sizes."
+msgstr ""
+"དགོངས་པ་མ་ཚོམ། བསྒར་ལྷུ་འདི་ཡིས་ཚད་མ་མི་འདྲ་བའི་ཆེ་ཆུང་གི་འོད་རྟགས་གྲངས %i "
+"ཡན་ཚུད་པ་ཐག་གཅོད་མི་ཐུབ། "
+
+msgid "Sort on Hue"
+msgstr "ཚོས་གཞི་ལྟར་རིམ་སྒྲིག"
+
+msgid "Sort on Saturation"
+msgstr "ཚད་ལོངས་ཚད་ལྟར་རིམ་སྒྲིག"
+
+msgid "Sort on Value"
+msgstr "གྲངས་བྲིན་ལྟར་རིམ་སྒྲིག"
+
+msgid "Source 1:"
+msgstr "ཁུངས་1："
+
+msgid "Source 2:"
+msgstr "ཁུངས་2："
+
+msgid "Source channel in file:"
+msgstr "ཡིག་ཆའི་ནང་གི་ཁུངས་རྒྱུ་ལམ།："
+
+msgid "Source channel:"
+msgstr "ཁུངས་རྒྱུ་ལམ།:"
+
+msgid "Source..."
+msgstr "ཁུངས།…"
+
+msgid "Sp_ike points:"
+msgstr "སྙེ་མའི་གྲངས་ཚད། (_I)："
+
+msgid "Sp_read..."
+msgstr "འབམས་པ། (_R)…"
+
+msgid "Spa_tial oversample:"
+msgstr "བར་སྟོང་གི་དཔེ་སྒྲུག་འདས་པ། (_T)："
+
+msgid "Spacing (percent):"
+msgstr "བར་ཐག ( བརྒྱ་ཆའི་བསྡུར་ཚད )："
+
+msgid "Spacing:"
+msgstr "བར་ཐག："
+
+msgid "Sparkle"
+msgstr "མེ་སྟག"
+
+msgid "Sparkling"
+msgstr "མེ་སྟག"
+
+msgid "Spatial Transformation"
+msgstr "བར་སྟོང་བརྗེ་བསྒྱུར།"
+
+msgid "Spatial _filter radius:"
+msgstr "བར་སྟོང་འཚག་ཤེལ་གྱི་ཚངས་ཕྱེད། (_F)："
+
+msgid "Special effects that nobody understands"
+msgstr "གོ་བ་ལེན་མཁན་མེད་པའི་དམིགས་བསལ་འབྲས་བུ།"
+
+msgid "Specialized direction-dependent edge detection"
+msgstr "དམིགས་འཛུགས་ཁ་ཕྱོགས་ལ་བརྟེན་བྱའི་མུ་འགྲམ་བཤེར་འཇལ།"
+
+msgid "Specified layer %d not found"
+msgstr "དམིགས་འཛུགས་བྱས་པའི་རིམ་ཨང %d རྙེད་མེད་པ།"
+
+msgid "Specified window not found"
+msgstr "དམིགས་འཛུགས་བྱས་པའི་སྒེའུ་ཁུང་རྙེད་མེད་པ།"
+
+msgid "Specifies the amount of embossing to apply to the image (in percent)"
+msgstr ""
+"བརྙན་རིས་ཀྱི་འབུར་བརྐོས་འབྲས་བུའི་ཚད་ལ་དམིགས་འཛུགས་བཀོལ་སྤྱོད། ( "
+"བརྒྱ་ཆའི་བསྡུར་ཚད )"
+
+msgid "Specifies the aspect ratio of the brush"
+msgstr "དམིགས་འཛུགས་རིས་པིར་གྱི་མཐོ་ཞེང་སྡུར་ཚད།"
+
+msgid "Specifies the scale of the texture (in percent of original file)"
+msgstr ""
+"དམིགས་འཛུགས་རྒྱུ་ཆའི་སྐྱེད་སྐྱུང་སྡུར་ཚད། ( "
+"གདོད་མའི་ཡིག་ཆའི་བརྒྱ་ཆའི་བསྡུར་ཚད )"
+
+msgid "Specular:"
+msgstr "འོད་ལྡོག："
+
+msgid "Sphere"
+msgstr "ཟླུམ་གཟུགས།"
+
+msgid "Sphere Designer"
+msgstr "ཟླུམ་ངོས་ཇུས་འགོད་ཆས།"
+
+msgid "Sphere _Designer..."
+msgstr "ཟླུམ་ངོས་ཇུས་འགོད་ཆས། (_D)…"
+
+msgid "Spherical"
+msgstr "ཟླུམ་དབྱིབས།"
+
+msgid "Spi_ke angle (-1: random):"
+msgstr "སྙེ་མའི་ཟུར་ཚད། (-1：སྐབས་བསྟུན )(_K)："
+
+msgid "Spik_e density:"
+msgstr "སྙེ་མའི་སྟུག་ཚད། (_E)："
+
+msgid "Spike thickness:"
+msgstr "འོད་ཟེར་ཞེང་ཚད།："
+
+msgid "Spiral"
+msgstr "དུང་འཁྱིལ།"
+
+msgid "Spiral Number of Turns"
+msgstr "དུང་འཁྱིལ་ཐིག་གི་ཀྱོག་གནས་གྲངས་ཚད།"
+
+msgid "Spot radius:"
+msgstr "ཚེག་གི་ཚངས་ཕྱེད།："
+
+msgid "Spots"
+msgstr "ཁྲ་ཐིག"
+
+msgid "Spread"
+msgstr "བསྲིངས་པ།"
+
+msgid "Spread Amount"
+msgstr "འབམས་པའི་ཚད།"
+
+msgid "Spreading"
+msgstr "འབམས་པ།"
+
+msgid "Squares"
+msgstr "གྲུ་བཞི་མ།"
+
+msgid "St_rength exp.:"
+msgstr "དྲག་ཚད་སྟོན་གྲངས། (_R)："
+
+msgid "Standard"
+msgstr "ཚད་གཞི།"
+
+msgid "Standard (R,G,B)"
+msgstr "ཚད་ལྡན། (R,G,B)"
+
+msgid "Star Number of Points"
+msgstr "སྐར་དབྱིབས་ཀྱི་ཚེག་གི་གྲངས་ཚད།"
+
+msgid "Start _index:"
+msgstr "ཐོག་མའི་སྒྲིག་ཨང་། (_I)："
+
+msgid "Start angle:"
+msgstr "ཐོག་མའི་ཟུར་ཚད།:"
+
+msgid "Start offset:"
+msgstr "ཐོག་མའི་གནས་སྤོ།:"
+
+msgid "Start playback"
+msgstr "གཏོང་མགོ་རྩོམ།"
+
+msgid "Step size:"
+msgstr "གོམ་རྐྱང་ཆེ་ཆུང་།:"
+
+msgid "Step to next frame"
+msgstr "རྗེས་མའི་ལྷེབ་མར་མཆོང་པ།"
+
+msgid "Stop loading this page"
+msgstr "ལྡེབ་ངོས་འདི་ཡི་ཀློག་འཇུག་མཚམས་འཇོག་པ།"
+
+msgid "Stop playback"
+msgstr "གཏོང་མཚམས་འཇོག་པ།"
+
+msgid "Stop when pixel differences are smaller than this value"
+msgstr "བརྙན་རྒྱུའི་ཁྱད་པར་གྲངས་བྲིན་འདི་ལས་ཆུང་བའི་སྐབས་མཚམས་འཇོག་པ།"
+
+msgid "Stretch"
+msgstr "རྐྱོང་བ།"
+
+msgid "Stretch _HSV"
+msgstr "འཐེན་རྐྱོང HSV(_H)"
+
+msgid "Stretch brightness values to cover the full range"
+msgstr "གསལ་ཚད་གྲངས་བྲིན་འཐེན་རྐྱོང་ནས་ཁྱབ་ཁོངས་ཚང་མ་འགེབས་པ།"
+
+msgid "Stretch color saturation to cover maximum possible range"
+msgstr ""
+"ཁ་དོག་རྒྱགས་འཛོམས་ཚད་འཐེན་རྐྱོང་ནས་སླེབས་ཐུབ་པའི་ཁྱབ་ཁོངས་ཆེ་ཤོས་འགེབས་པ།"
+
+msgid "Stretch contrast to cover the maximum possible range"
+msgstr "སྡུར་ཚད་འཐེན་རྐྱོང་ནས་རུང་བའི་ཁྱབ་ཁོངས་ཆེ་ཤོས་འགེབས་པ།"
+
+msgid "Stretch image contrast to cover the maximum possible range"
+msgstr ""
+"བརྙན་རིས་ཀྱི་སྡུར་ཚད་འཐེན་རྐྱོང་ནས་སླེབས་ཐུབ་པའི་ཁྱབ་ཁོངས་ཆེས་ཆེ་ཚད་འགེབས་པ།"
+
+msgid "Stroke _density:"
+msgstr "སྨྱུག་ཁམ་སྟུག་ཚད། (_D)："
+
+msgid "Strong"
+msgstr "དྲག་པོ།"
+
+msgid "Style"
+msgstr "ཉམས་འགྱུར།"
+
+msgid "Su_bsampling:"
+msgstr "བུ་དཔེ་སྒྲུག (_B)："
+
+msgid "Subdivide:"
+msgstr "ཞིབ་དཔྱོད།:"
+
+msgid "Substeps:"
+msgstr "བུ་གོམ་གྲངས།:"
+
+msgid "Super_nova..."
+msgstr "ཚད་ལས་བརྒལ་བའི་སྐར་གསར། (_N)"
+
+msgid "Superimpose many altered copies of the image"
+msgstr "བཟོ་བཅོས་ཐེངས་མང་བརྒྱབ་པའི་བརྙན་རིས་བུ་དཔེ་བསྐྱར་བརྩེགས།"
+
+msgid "Supernova"
+msgstr "ཚད་ལས་བརྒལ་བའི་སྐར་གསར།"
+
+msgid "Supernova Color Picker"
+msgstr "ཚད་ལས་བརྒལ་བའི་སྐར་གསར་གྱི་ཁ་དོག་ལེན་ཆས།"
+
+msgid "Sw_irl CW"
+msgstr "ཆུ་འཁོར་གཡས་འཁོར། (_I)"
+
+msgid "Swap one color with another"
+msgstr "ཁ་དོག་ཅིག་དང་ཁ་དོག་གཞན་ཞིག་བརྗེ་རེས་བྱེད་པ།"
+
+msgid "Swap the two curves"
+msgstr "འཁྱོག་ཐིག་གཉིས་བརྗེ་རེས།"
+
+msgid "Swap two colors in the colormap"
+msgstr "ཁ་དོག་རེའུ་མིག་ནང་གི་ཁ་དོག་གཉིས་བརྗེ་རེས་བྱེད་པ།"
+
+msgid "Swirl"
+msgstr "འཁོར་སྐྱོད།"
+
+msgid "Switch to \"From seed\" With the Last Seed"
+msgstr "སྔོན་མའི་ས་བོན་ལྟར “ས་བོན་ལས་བྱུང་བ” ལ་བརྗེ་བ།"
+
+msgid "Switch to C/Clockwise"
+msgstr "གཡོན་འཁོར་ལ་བརྗེ་བ།"
+
+msgid "Switch to Clockwise"
+msgstr "གཡས་འཁོར་ལ་བརྗེ་བ།"
+
+msgid "Symbol"
+msgstr "མཚོན་རྟགས།"
+
+msgid "TGA"
+msgstr "TGA"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "TIFF '%s' does not contain any directories"
+msgstr "TIFF “%s” ལ་དཀར་ཆག་གང་ཡང་ཚུད་མེད།"
+
+msgid "TIFF Channel"
+msgstr "རྒྱུ་ལམ TIFF"
+
+msgid "TIFF image"
+msgstr "བརྙན་རིས TIFF"
+
+msgid "T_ilable"
+msgstr "སྙོམས་འདིང་ཆོག་པ། (_I)"
+
+msgid "T_ile saturation:"
+msgstr "གྲུ་བཞིའི་ཚད་ལོངས་ཚད། (_I)："
+
+msgid "T_ransparent background"
+msgstr "རྒྱབ་ལྗོངས་ནང་གསལ། (_R)"
+
+msgid "T_urbulence:"
+msgstr "ཁྱབ་འགྱེད་ཚད། (_U)："
+
+msgid "T_urbulent"
+msgstr "ཁྱབ་འགྱེད། (_U)"
+
+msgid "Table Creation Options"
+msgstr "རེའུ་མིག་གསར་བཟོའི་འདེམས་ཚན།"
+
+msgid "Table Options"
+msgstr "རེའུ་མིག་འདེམས་ཚན།"
+
+msgid "Take a screenshot of a single _window"
+msgstr "སྒེའུ་ཁུང་རྐྱང་པར་བཅད་རིས་བྱེད་པ། (_W)"
+
+msgid "Take a screenshot of the entire _screen"
+msgstr "བརྙན་ཡོལ་ཆ་ཚང་ལ་བཅད་རིས་བྱེད་པ། (_S)"
+
+msgid "TarGA image"
+msgstr "བརྙན་རིས་ TarGA"
+
+msgid "Target"
+msgstr " དམིགས་འབེན།"
+
+msgid "Tel_net"
+msgstr "Tel_net"
+
+msgid "Text"
+msgstr " ཡིག་དེབ།"
+
+msgid "Text antialiasing"
+msgstr "ཡི་གེའི་ལྡོག་པའི་སོག་ལེའི་ཁ།"
+
+msgid "Texture"
+msgstr "རྒྱུ་ཆ།"
+
+msgid "Texture:"
+msgstr "རྒྱུ་ཆ།:"
+
+msgid ""
+"The .exe file is invalid (non-Microsoft Win32 .exe or error in .exe image)."
+msgstr ""
+"ཡིག་ཆ .exe འདི་ནུས་མེད་ཡིན། ( Microsoft Win32 .exe འམ་ཡང་ན .exe "
+"མིན་པའི་འཕྲོ་བརྙན་ལ་ནོར་འཁྲུལ་ཡོད་པ )"
+
+msgid "The DDE transaction failed."
+msgstr "DDE ལས་དོན་ཕམ་པ།"
+
+msgid "The DDE transaction timed out."
+msgstr "DDE ལས་དོན་དུས་བརྒལ་བ།"
+
+msgid ""
+"The GIF format only supports comments in 7bit ASCII encoding. No comment is "
+"saved."
+msgstr ""
+"རྣམ་གཞག GIF ཡིས་གནས 7 གྱི ASCII སྒྲིག་ཨང་མཆན་འགྲེལ་ཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད་པ། "
+"མཆན་འགྲེལ་ཉར་ཚགས་བྱས་མེད་པ།"
+
+msgid "The GIMP user manual is not available."
+msgstr "GIMP ཡི་སྤྱོད་མཁན་ལག་དེབ་སྤྱོད་རུང་མིན་པ།"
+
+msgid ""
+"The PNG file specifies an offset that caused the layer to be positioned "
+"outside the image."
+msgstr ""
+"PNG "
+"ཡི་ཡིག་ཆའི་ནང་དམིགས་འཛུགས་བྱས་པའི་གནས་སྤོ་ཡིས་རིས་རིམ་དེ་བརྙན་རིས་ཀྱི་ཕྱི་རོལ་དུ་གནས་ངེས་པ།"
+
+msgid "The amount of highlighting on the edges of each piece"
+msgstr "རྡོག་ཆུང་མུ་འགྲམ་རེ་རེའི་མཐོ་གསལ་ཚད།"
+
+msgid "The angle span of the first brush to create"
+msgstr "རིས་པིར་ཨང་དང་པོའི་བར་ཐག་གསར་བཟོ།"
+
+msgid "The bitmap ends unexpectedly."
+msgstr "གནས་རིས་ངེས་མེད་མཇུག་སྒྲིལ།"
+
+msgid "The brush-size that matches the original image the closest is selected"
+msgstr "གདོད་མའི་བརྙན་རིས་ལ་རིས་པིར་ཆེ་ཆུང་འཚམ་ཤོས་འདེམ་པ།"
+
+msgid "The colors are white and black."
+msgstr "ཁ་དོག་ནི་ནག་པོ་དང་དཀར་པོ་ཡིན།"
+
+msgid "The current element (<%s>) cannot contain text"
+msgstr "མིག་སྔའི་གཞི་རྒྱུ། (<%s>) ཡི་གེ་ཚུད་མེད་པ།"
+
+msgid "The default comment is limited to %d characters."
+msgstr "སོར་བཞག་གི་མཆན་འགྲེལ་དེ་ཡིག་ཚིགས་གྲངས %d ཡི་ནང་ཚུད་དུ་ཚད་འཛིན་པ།"
+
+msgid ""
+"The depth of the drop shadow, i.e. how far apart from the object it should "
+"be"
+msgstr "འཕྲོ་གྲིབ་ཀྱི་ཟབ་ཚད། དཔེར་ན། དེ་དངོས་གཟུགས་དང་བར་ཐག་རིང་ལོས་དགོས་པ།"
+
+msgid "The direction that matches the original image the closest is selected"
+msgstr "གདོད་མའི་བརྙན་རིས་དང་འཚམ་ཤོས་ཀྱི་ཁ་ཕྱོགས།"
+
+msgid ""
+"The distance from the center of the image determines the direction of the "
+"stroke"
+msgstr "སྨྱུག་ཁམ་གྱི་ཁ་ཕྱོགས་དེ་བརྙན་རིས་ལྟེ་གནས་བར་གྱི་བར་ཐག་གིས་ཐག་གཅོད་པ།"
+
+msgid ""
+"The distance from the center of the image determines the size of the stroke"
+msgstr "སྨྱུག་ཁམ་གྱི་ཆེ་ཆུང་དེ་བརྙན་རིས་ལྟེ་གནས་བར་གྱི་བར་ཐག་གིས་ཐག་གཅོད་པ།"
+
+msgid "The file is corrupt!"
+msgstr "ཡིག་ཆ་སྐྱོན་ཤོར་བ།"
+
+msgid "The file name association is incomplete or invalid."
+msgstr "འབྲེལ་ཡོད་ཀྱི་ཡིག་ཆའི་མིང་ཆ་མི་ཚང་བའམ་ཡང་ན་ནུས་པ་མེད་པ།"
+
+msgid "The first row of the image"
+msgstr "བརྙན་རིས་ཀྱི་འཕྲེད་སྟར་ཨང་དང་པོ།"
+
+msgid "The height for each table cell.  Can be a number or a percent."
+msgstr ""
+"རེའུ་མིག་སྡེ་ཚན་རེ་རེའི་མཐོ་ཚད། དེ་ནི་གྲངས་ཀའམ་ཡང་ན་བརྒྱ་ཆའི་གྲངས་ཤིག་ཡིན།"
+
+msgid "The help pages for '%s' are not available."
+msgstr "“%s” ཡི་རོགས་རམ་ལྡེབ་ངོས་སྤྱོད་མི་རུང་།"
+
+msgid ""
+"The higher the number of iterations, the more details will be calculated"
+msgstr "རིམ་འཇུག་ཐེངས་གྲངས་ཇི་ཙམ་མཐོ་ན་རྩིས་རྒྱག་གི་ཞིབ་ཆ་དེ་ཙམ་གྱིས་མང་བ།"
+
+msgid "The hue of the region determines the direction of the stroke"
+msgstr "སྨྱུག་ཁམ་གྱི་ཁ་ཕྱོགས་དེ་ཁུལ་ཁོངས་ཀྱི་ཚོས་གཞིས་ཐག་གཅོད་པ།"
+
+msgid "The hue of the region determines the size of the stroke"
+msgstr "སྨྱུག་ཁམ་གྱི་ཆེ་ཆུང་དེ་ཁུལ་ཁོངས་ཀྱི་ཚོས་གཞིས་ཐག་གཅོད་པ།"
+
+msgid "The image '%s' has an embedded color profile:"
+msgstr "བརྙན་རིས “%s” ལ་ནང་སྒྲིག་གི་ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆ་ཚུད་ཡོད།"
+
+msgid "The image '%s' is in RGB, but is missing some of the components."
+msgstr "བརྙན་རིས “%s” ཡི་རྣམ་གཞག་ནི RGB ཡིན་ཡང་གསེས་ཚད་ཤས་ཆད་འདུག"
+
+msgid "The image '%s' is in an unknown color space."
+msgstr "བརྙན་རིས “%s” ཡི་ཁོངས་གཏོགས་ཀྱི་ཚོན་མདོག་བར་སྟོང་ངེས་མེད།"
+
+msgid ""
+"The image '%s' is in grayscale but does not contain any gray component."
+msgstr ""
+"བརྙན་རིས “%s” "
+"ནི་སྐྱ་ཚད་རི་མོའི་ཁོངས་གཏོགས་ཡིན་ཡང་སྐྱ་ཚད་ཀྱི་གསེས་ཚད་གང་ཡང་ཚུད་མེད།"
+
+msgid ""
+"The image '%s' is in the CIELAB color space, but there is no code in place "
+"to convert it to RGB."
+msgstr ""
+"བརྙན་རིས “%s” ནི CIELAB "
+"ཚོན་མདོག་བར་སྟོང་གི་ཁོངས་གཏོགས་ཡིན་ཡང་འོས་འཚམ་གྱི་ཚབ་ཨང་དེ RGB "
+"ལ་བརྗེ་སྤོར་བྱས་མེད།"
+
+msgid ""
+"The image '%s' is in the CIEXYZ color space, but there is no code in place "
+"to convert it to RGB."
+msgstr ""
+"བརྙན་རིས “%s” ནི CIEXYZ "
+"ཚོན་མདོག་བར་སྟོང་གི་ཁོངས་གཏོགས་ཡིན་ཡང་འོས་འཚམ་གྱི་ཚབ་ཨང་དེ RGB "
+"ལ་བརྗེ་སྤོར་བྱས་མེད།"
+
+msgid ""
+"The image '%s' is in the YCbCr color space, but there is no code in place to"
+" convert it to RGB."
+msgstr ""
+"བརྙན་རིས “%s” ནི YCbCr "
+"ཚོན་མདོག་བར་སྟོང་གི་ཁོངས་གཏོགས་ཡིན་ཡང་འཚམ་པའི་ཚབ་ཨང་དེ RGB "
+"ལ་བརྗེ་སྤོར་བྱས་མེད་པ།"
+
+msgid ""
+"The image you are trying to save as a GIF contains layers which extend "
+"beyond the actual borders of the image."
+msgstr ""
+"ཁྱེད་ཀྱིས་གཞན་ཉར་བྱེད་པའི་བརྙན་རིས GIF "
+"ལ་བརྙན་རིས་དོན་དངོས་ཀྱི་མཐའ་མཚམས་ལས་བརྒལ་བའི་རིས་རིམ་ཚུད་ཡོད་པ།"
+
+msgid "The largest brush to create"
+msgstr "བཟོ་བྱའི་ཆེས་ཆེ་བའི་རིས་པིར།"
+
+msgid "The layer has its alpha channel locked."
+msgstr "རིས་རིམ་གྱིས་རང་གི་རྒྱུ་ལམ Alpha སྒྲོག་པ།"
+
+msgid "The most widely useful method for sharpening an image"
+msgstr "ཆེས་རྒྱ་ཆེ་བའི་བཀོལ་སྤྱོད་ཀྱི་བརྙན་རིས་རྣོ་འགྱུར་གྱི་ཐབས་ཤེས།"
+
+msgid "The name '%s' is used already!"
+msgstr "མིང “%s” གཞན་གྱིས་སྤྱད་ཟིན་པ།"
+
+msgid "The name `%s' is used already!"
+msgstr "མིང “%s” གཞན་གྱིས་སྤྱད་ཟིན་པ།"
+
+msgid "The number of directions (i.e. brushes) to use"
+msgstr "ཁ་ཕྱོགས། ( དཔེར་ན། རིས་པིར ) སྤྱོད་པའི་གྲངས་ཚད།"
+
+msgid "The number of pixels in the table border."
+msgstr "རེའུ་མིག་མཐའ་སྒྲོམ་གྱི་བརྙན་རྒྱུའི་ཁ་གྲངས།"
+
+msgid "The number of sizes of brushes to use"
+msgstr "སྤྱོད་པའི་རིས་པིར་ཆེ་ཆུང་གི་གྲངས་ཚད།"
+
+msgid ""
+"The offset can be adjusted by dragging the preview using the middle mouse "
+"button."
+msgstr "ཙིག་མདའི་དཀྱིལ་མཐེབ་ཀྱིས་སྔོན་ལྟ་འདྲུད་ནས་གནས་སྤོ་ལེགས་སྒྲིག་བྱེད་པ།"
+
+msgid "The operating system denied access to the specified file."
+msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ཀྱིས་དམིགས་འཛུགས་ཡིག་ཆའི་ལྟ་སྤྱོད་ཟློག་པ།"
+
+msgid "The operating system is out of memory or resources."
+msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ཀྱི་ནང་གསོག་གམ་ཡང་ན་ཐོན་ཁུངས་བཀོལ་ཚར།"
+
+msgid ""
+"The part of copyright information that exceeded 65535 characters was "
+"removed."
+msgstr "པར་དབང་ཆ་འཕྲིན་ནང་ནས་ཡིག་རྟགས 65536 ལས་བརྒལ་བའི་ཆ་ཤས་འབུད་པ།"
+
+msgid ""
+"The part of license information that exceeded 65535 characters was removed."
+msgstr "ཆོག་མཆན་ལག་ཁྱེར་ཆ་འཕྲིན་ནང་ནས་ཡིག་རྟགས 65536 ལས་བརྒལ་བའི་ཆ་ཤས་འབུད་པ།"
+
+msgid "The relative density of the brush strokes"
+msgstr "སྨྱུག་ཁམ་གྱི་ལྟོས་བཅས་སྟུག་ཚད།"
+
+msgid "The selection does not intersect the active layer or mask."
+msgstr "འདེམས་ཁུལ་དེ་བྱ་བྱེད་རིས་རིམ་མམ་ཡང་ན་སོག་ལེབ་དང་སྣོལ་མེད་པ།"
+
+msgid "The smallest brush to create"
+msgstr "བཟོ་བྱའི་རིས་པིར་ཆུང་ཤོས།"
+
+msgid "The specified DLL was not found."
+msgstr "དམིགས་འཛུགས་བྱས་པའི་འགུལ་རྣམ་སྦྲེལ་མཐུད་མཛོད་རྙེད་མེད་པ།"
+
+msgid "The specified file was not found."
+msgstr "དམིགས་འཛུགས་བྱས་པའི་ཡིག་ཆ་རྙེད་མེད་པ།"
+
+msgid "The specified path was not found."
+msgstr "དམིགས་འཛུགས་བྱས་པའི་བརྒྱུད་ལམ་རྙེད་མེད་པ།"
+
+msgid "The starting angle of the first brush to create"
+msgstr "བཟོས་པའི་རིས་པིར་ཨང་དང་པོའི་ཐོག་མའི་ཟུར་ཚད།"
+
+msgid "The strokes are evenly distributed across the image"
+msgstr "སྨྱུག་ཁམ་དེ་བརྙན་རིས་ནང་དུ་ཁྱབ་ཚུལ་སྙོམས་པ།"
+
+msgid "The strokes follow a \"flowing\" pattern"
+msgstr "སྨྱུག་ཁམ་གྱིས་རྒྱུག་ཐིག་རྣམ་པར་བརྩི་སྲུང་བྱེད་པ།"
+
+msgid "The text for the table caption."
+msgstr "རེའུ་མིག་ཁ་བྱང་གི་ཡི་གེ"
+
+msgid "The text to go into each cell."
+msgstr "ཡི་གེ་དེ་རེའུ་མིག་སྡེ་ཚན་རེ་རེའི་ནང་དུ་ཐོན་པ།"
+
+msgid "The type of this SUN-rasterfile is not supported"
+msgstr "རིགས་གྲས་འདི་ཡི SUN-rasterfile ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "The unit's abbreviation (e.g. \"cm\" for centimeters)."
+msgstr ""
+"འཇལ་བྱེད་འདི་ཡི་བསྡུས་མིང་། ( དཔེར་ན། ལི་སྨི་ཡི་བསྡུས་མིང་ནི “cm” "
+"ཡིན་པ་ལྟ་བུ )"
+
+msgid "The unit's plural form."
+msgstr "འཇལ་བྱེད་འདི་ཡི་ཚོ་གྲངས་ཀྱི་ཚུལ།"
+
+msgid "The unit's singular form."
+msgstr "འཇལ་བྱེད་འདི་ཡི་ཡ་གྲངས་ཀྱི་ཚུལ།"
+
+msgid "The width for each table cell.  Can be a number or a percent."
+msgstr ""
+"རེའུ་མིག་སྡེ་ཚན་རེ་རེའི་ཞེང་ཚད། གྲངས་ཀའམ་ཡང་ན་བརྒྱ་ཆའི་གྲངས་ཤིག་ཡིན་ཆོག"
+
+msgid "There are not enough layers to align."
+msgstr "སྙོམ་ཆོག་པའི་འདང་ངེས་ཀྱི་རིས་རིམ་མེད་པ།"
+
+msgid "There is no application associated with the given file name extension."
+msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་དེ་མཁོ་སྤྲོད་བྱས་པའི་ཡིག་ཆའི་རྒྱ་སྐྱེད་མིང་ལ་འབྲེལ་བ་མེད་པ།"
+
+msgid "There was not enough memory to complete the operation."
+msgstr "བཀོལ་སྤྱོད་འདི་ལེགས་གྲུབ་ཡོང་བར་འདང་ངེས་ཀྱི་ནང་གསོག་མེད་པ།"
+
+msgid "This image depth is not supported"
+msgstr "བརྙན་རིས་ཟབ་ཚད་འདི་ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "This is not a GIF file"
+msgstr "ཡིག་ཆ GIF མིན་པ།"
+
+msgid ""
+"This string will be used to identify a unit in GIMP's configuration files."
+msgstr ""
+"ཡིག་རྟགས་ཕྲེང་བ་འདི་ཡིས GIMP "
+"ཡི་སྡེབ་སྒྲིག་ཡིག་ཆ་ནང་དུ་འཇལ་བྱེད་ཞིག་ངོས་འཛིན་བྱེད་པ་ཁོ་ནར་སྤྱོད་པ་ཡིན།"
+
+msgid "This tool has no options"
+msgstr "ལག་ཆ་འདི་ལ་འདེམས་ཚན་མེད་པ།"
+
+msgid "Thresho_ld:"
+msgstr "མཚམས་ཐང་། (_L)："
+
+msgid "Threshold Alpha"
+msgstr "Alpha མཚམས་ཐང་།"
+
+msgid "Threshold for the red eye color to remove."
+msgstr "འདོར་བྱའི་མིག་དམར་པོའི་མཚམས་ཐང་གི་ཁ་དོག"
+
+msgid "Threshold:"
+msgstr "མཚམས་ཐང་།:"
+
+msgid "Til_e spacing:"
+msgstr "རྫ་ལེབ་བར་ཐག (_E)："
+
+msgid "Tile"
+msgstr "སྙོམས་འདིང་།"
+
+msgid "Tile _height:"
+msgstr "རྫ་ལེབ་མཐོ་ཚད། (_H)："
+
+msgid "Tile _neatness:"
+msgstr "རྫ་ལེབ་གཙང་ཚད། (_N)："
+
+msgid "Tile _size:"
+msgstr "རྫ་ལེབ་ཆེ་ཆུང་། (_S)："
+
+msgid "Tile _width:"
+msgstr "རྫ་ལེབ་ཞེང་ཚད། (_W)："
+
+msgid "Tile image into smaller versions of the original"
+msgstr ""
+"བརྙན་རིས་དེ་གདོད་མའི་བརྙན་རིས་ཀྱི་ཅུང་ཆུང་བའི་པར་གཞིར་སྙོམས་འདིང་བྱེད་པ།"
+
+msgid "Tile source image"
+msgstr "ཁུངས་བརྙན་རིས་སྙོམས་འདིང་།"
+
+msgid "Tile source image: useful for infinite planes"
+msgstr "ཁུངས་བརྙན་རིས་སྙོམས་འདིང་།:ཚད་མེད་ཆེ་བའི་སྙོམས་ངོས་ལ་ཚན་ཐོག་ཡོད།"
+
+msgid "Tile to New Size"
+msgstr "ཆེ་ཆུང་གསར་པར་སྙོམས་འདིང་།"
+
+msgid "Tileable"
+msgstr "སྙོམས་འདིང་ཆོག་པ།"
+
+msgid "Tiler"
+msgstr "སྙོམས་འདིང་།"
+
+msgid "Tiling"
+msgstr "སྙོམས་འདིང་།"
+
+msgid "Tiny"
+msgstr "ཆུང་རྩག"
+
+msgid "To Color"
+msgstr "ཁ་དོག་ལ།"
+
+msgid "To _bottom"
+msgstr "གཤམ་དུ། (_B)"
+
+msgid "To _polar"
+msgstr "སྣེ་ཟིན་ངོས་ལ། (_P)"
+
+msgid "To _right"
+msgstr "གཡས་ལ། (_R)"
+
+msgid "To _top"
+msgstr "སྟེང་ལ། (_T)"
+
+msgid "To l_eft"
+msgstr "གཡོན་ལ། (_E)"
+
+msgid "Toggle the visibility of the sidebar"
+msgstr "བསད་སྤར་གྱི་གཞོགས་མཐའི་ཚང་མངོན་པ།"
+
+msgid "Too many channels in file: %d"
+msgstr "ཡིག་ཆའི་ནང་གི་རྒྱུ་ལམ་གྲངས་མང་དྲགས་པ།:%d"
+
+msgid "Too many channels in layer: %d"
+msgstr "རིས་རིམ་ནང་གི་རྒྱུ་ལམ་གྲངས་མང་དྲགས་པ།:%d"
+
+msgid "Tool Options"
+msgstr "ལག་ཆའི་འདེམས་ཚན།"
+
+msgid "Top edge"
+msgstr "ཀླད་ཀྱི་མཐའ་མཚམས།"
+
+msgid "Top left"
+msgstr "གཡོན་སྟེང་།"
+
+msgid "Top-_left"
+msgstr "གཡོན་སྟེང་། (_L)"
+
+msgid "Top:"
+msgstr "སྟེང་།:"
+
+msgid "Tr_ailing"
+msgstr "མཇུག་ཆ། (_A)"
+
+msgid "Tr_ansparency:"
+msgstr "གསལ་ཚད། (_A)"
+
+msgid "Transferring data from scanner/camera"
+msgstr "བཤར་འབེབས་ཆས / པར་ཆས་ནས་གཞི་གྲངས་སྐྱེལ་བ།"
+
+msgid "Transform image with the Mandelbrot Fractal"
+msgstr "དབྱིབས་འབྱེད Mandelbrot ཡིས་བརྙན་རིས་བརྗེ་བསྒྱུར་བྱེད་པ།"
+
+msgid "Transformation %s"
+msgstr "བརྗེ་བསྒྱུར་ %s"
+
+msgid "Transformations"
+msgstr "བརྗེ་བསྒྱུར།"
+
+msgid "Transparent"
+msgstr "དྭངས་གསལ།"
+
+msgid "Transparent background"
+msgstr "རྒྱབ་ལྗོངས་ནང་གསལ།"
+
+msgid "Treat as this"
+msgstr "ཁ་དོག་འདི་ལྟར་ལྟ་བ།"
+
+msgid "Tree View"
+msgstr "སྡོང་དབྱིབས་མཐོང་རིས།"
+
+msgid "Triangles"
+msgstr "ཟུར་གསུམ་དབྱིབས།"
+
+msgid "Tried to display an invalid layer."
+msgstr "ནུས་མེད་ཀྱི་རིས་རིམ་ཞིག་མངོན་རྩིས་བྱས་པ།"
+
+msgid "Try Bounding Box"
+msgstr "མཐའ་མཚམས་སྐུམ་ཕྲི་བྱེད་རྩིས་བྱས་པ།"
+
+msgid "Turbulence:"
+msgstr "ཁྱབ་འགྱེད་ཚད།:"
+
+msgid "Turn bright spots into starry sparkles"
+msgstr "བཀྲག་ཚེག་དེ་སྐར་ཚོགས་བཀྲ་བར་བསྒྱུར་བ།"
+
+msgid "Twist or smear image in many different ways"
+msgstr "རིགས་མི་འདྲ་བ་མང་པོའི་ཚུལ་གྱིས་འཁྱོག་བཤད་དམ་ཡང་ན་བརྙན་རིས་འབྱུག་པ།"
+
+msgid "Type"
+msgstr " རིགས་རྣམ།"
+
+msgid "Type of colormap not supported"
+msgstr "ཁ་དོག་རེའུ་མིག་གི་རིགས་གྲས་ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "Type of light source to apply"
+msgstr "བཀོལ་སྤྱོད་བྱེད་པའི་འོད་ཁུངས་ཀྱི་རིགས་གྲས།"
+
+msgid "Type of object to map to"
+msgstr "དངོས་གཟུགས་ལ་རྟེན་འཕྲོ་བྱ་རྒྱུའི་རིགས་གྲས།"
+
+msgid "Type:"
+msgstr "རིགས་གྲས།:"
+
+msgid "URI"
+msgstr " URI"
+
+msgid "URL"
+msgstr " URL"
+
+msgid "URL: %s"
+msgstr "URL：%s"
+
+msgid "U_nits"
+msgstr "འཇལ་བྱེད། (_N)"
+
+msgid "Unable to recompose, source layer not found"
+msgstr "ཁུངས་རིས་རིམ་མེད་པས་རིས་རིམ་ཡང་བསྐྱར་སྒྲིག་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid ""
+"Unable to save '%s'.  The GIF file format does not support images that are "
+"more than %d pixels wide or tall."
+msgstr ""
+"“%s” ཉར་ཚགས་བྱེད་ཐབས་བྲལ། GIF ཡི་ཡིག་ཆའི་རྣམ་གཞག་གིས་ཞེང་ཚད་དམ་ཡང་ན་མཐོ་ཚད "
+"%d ལ་ཆེ་བའི་བརྙན་རྒྱུའི་བརྙན་རིས་ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid ""
+"Unable to save '%s'.  The PSD file format does not support images that are "
+"more than 30,000 pixels wide or tall."
+msgstr ""
+"“%s” ཉར་ཚགས་བྱེད་ཐབས་བྲལ། PSD ཡི་ཡིག་ཆའི་རྣམ་གཞག་གིས་ཞེང་ཚད་དམ་ཡང་ན་མཐོ་ཚད "
+"30000 ལས་ཆེ་བའི་བརྙན་རྒྱུའི་བརྙན་རིས་ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "Undo"
+msgstr "འདོར་བ།"
+
+msgid "Undo last zoom change"
+msgstr "དེ་སྔོན་གྱི་སྐྱེད་སྐྱུང་འགྱུར་ལྡོག་འདོར་བ།"
+
+msgid "Unexpected end of file"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་ཆ་མཇུག་མ།"
+
+msgid "Uniform"
+msgstr "སྙོམས་པ།"
+
+msgid "Unit"
+msgstr "སྡེ་ཚན།"
+
+msgid "Unit Editor"
+msgstr "འཇལ་བྱེད་རྩོམ་སྒྲིག་ཆས།"
+
+msgid "Units"
+msgstr "སྡེ་ཚན།"
+
+msgid "Unknown Microsoft Windows error."
+msgstr "ངེས་མེད་ཀྱི་ནོར་འཁྲུལ Microsoft Windows"
+
+msgid "Unknown color model in PNG file '%s'."
+msgstr "PNG ཡིག་ཆ “%s” ངེས་མེད་ཀྱི་ཚོན་མདོག་རྣམ་པ་ཡོད་པ།"
+
+msgid "Unknown element <%s>"
+msgstr "ངེས་མེད་ཀྱི་གཞི་རྒྱུ <%s>"
+
+msgid "Unknown reason"
+msgstr "ངེས་མེད་རྒྱུ་རྐྱེན།"
+
+msgid "Unnamed"
+msgstr "མིང་བཏགས་མེད་པ།"
+
+msgid "Unoptimizing animation"
+msgstr "ལེགས་སྒྱུར་ལྡོག་པའི་འགུལ་རིས།"
+
+msgid "Unrecognized or invalid BMP compression format."
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའམ་ཡང་ན་ནུས་པ་མེད་པའི BMP ཡི་སྡུད་སྒྲིལ་རྣམ་གཞག"
+
+msgid "Unselect"
+msgstr "བདམས་པ་དོར་བ།"
+
+msgid "Unselect All"
+msgstr "བདམས་པ་ཚང་མ་དོར་བ།"
+
+msgid "Unsharp Mask"
+msgstr "ཟོལ་འོད་སོག་ལེབ།"
+
+msgid "Unsupported bit depth (%d)!"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་གནས་ཀྱི་ཟབ་ཚད། (%d)"
+
+msgid "Unsupported bit depth: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་གནས་ཀྱི་ཟབ་ཚད།：%d"
+
+msgid "Unsupported brush format"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་རིས་པིར་གྱི་རྣམ་གཞག"
+
+msgid "Unsupported color mode: %s"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ཚོན་མདོག་རྣམ་པ།：%s"
+
+msgid "Unsupported compression mode: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་སྡུད་སྒྲིལ་རྣམ་པ།：%d"
+
+msgid "Unsupported file format version: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ཡིག་ཆའི་རྣམ་གཞག་པར་གཞི།:%d"
+
+msgid "Unsupported maximum value."
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་གྲངས་བྲིན་ཆེ་ཤོས།"
+
+msgid "Unsupported or invalid bitdepth."
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་གནས་ཀྱི་ཟབ་ཚད།"
+
+msgid "Unsupported or invalid channel size"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་རྒྱུ་ལམ་ཆེ་ཆུང་།"
+
+msgid "Unsupported or invalid image height: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་བརྙན་རིས་ཀྱི་མཐོ་ཚད།:%d"
+
+msgid "Unsupported or invalid image size: %dx%d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་བརྙན་རིས་ཀྱི་ཆེ་ཆུང་།:%dx%d"
+
+msgid "Unsupported or invalid image width: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་བརྙན་རིས་ཀྱི་ཞེང་ཚད།:%d"
+
+msgid "Unsupported or invalid layer height: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་རིས་རིམ་ཀྱི་མཐོ་ཚད།:%d"
+
+msgid "Unsupported or invalid layer mask height: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་རིས་རིམ་སོག་ལེབ་ཀྱི་མཐོ་ཚད།:%d"
+
+msgid "Unsupported or invalid layer mask size: %dx%d"
+msgstr ""
+"རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་རིས་རིམ་སོག་ལེབ་ཀྱི་ཆེ་ཆུང་།:%dx%d"
+
+msgid "Unsupported or invalid layer mask width: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་རིས་རིམ་སོག་ལེབ་ཀྱི་ཞེང་ཚད།:%d"
+
+msgid "Unsupported or invalid layer size: %dx%d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་རིས་རིམ་གྱི་ཆེ་ཆུང་།:%dx%d"
+
+msgid "Unsupported or invalid layer width: %d"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའམ་ཡང་ན་ནུས་པ་མེད་པའི་རིས་རིམ་གྱི་ཞེང་ཚད།:%d"
+
+msgid "Untitled"
+msgstr "མིང་བཏགས་མེད་པ།"
+
+msgid "Unusual PCX flavour, giving up"
+msgstr "རྒྱུན་འགལ་གྱི PCX ཡི་རིགས་གྲས། དོར་བ།"
+
+msgid "Uploaded %s of image data"
+msgstr "ཡར་བསྐུར་ཟིན་པའི %s ཡི་བརྙན་རིས་གཞི་གྲངས།"
+
+msgid "Uploading image (%s of %s)"
+msgstr "བརྙན་རིས་ཡར་བསྐུར་བཞིན་པ། ( ཨང %s，བསྡོམས %s )"
+
+msgid "Upper left"
+msgstr "གཡོན་སྟེང་།"
+
+msgid "Upper left _x:"
+msgstr "གཡོན་སྟེང་ཟུར་ X(_X)："
+
+msgid "Upper left _y:"
+msgstr "གཡོན་སྟེང་ཟུར་ Y(_Y)："
+
+msgid "Upper right"
+msgstr "གཡས་སྟེང་།"
+
+msgid "Us_e macros instead of struct"
+msgstr "རགས་པའི་མཚན་ཉིད་སྤྱོད་པ་ལས་གྲུབ་ཚུལ་མིན་པ། (_E)"
+
+msgid "Use GIMP Guides..."
+msgstr "GIMP ཡི་ཟུར་ལྟའི་ཐིག་སྤྱོད་པ།…"
+
+msgid "Use Gimp Guides"
+msgstr "GIMP ཡི་ཟུར་ལྟའི་ཐིག་སྤྱོད་པ།"
+
+msgid "Use _1 byte Run-Length-Encoding"
+msgstr "ཡིག་ཚིགས་རྐྱང་པའི་བགྲོད་ལམ་གྱི་རིང་ཚད་སྒྲིག་ཨང་སྤྱོད་པ། (_1)"
+
+msgid "Use _restart markers"
+msgstr "བཀོད་རྟགས་ཡང་བསྐྱར་འགོ་རྩོམ་སྤྱོད་པ། (_R)"
+
+msgid "Use a transparent background; Only the strokes painted will be visible"
+msgstr "རྒྱབ་ལྗོངས་ནང་གསལ་སྤྱོད་པ། རི་མོ་འབྲི་ཟིན་པའི་སྨྱུག་ཁམ་ཁོ་ན་མངོན་པ།"
+
+msgid "Use average value"
+msgstr "ཆ་སྙོམས་གྲངས་བྲིན་སྤྱོད་པ།"
+
+msgid "Use cosine-function for this color component"
+msgstr "ཁ་དོག་གསེས་ཚད་འདི་ལ་ལྷག་རྒྱུད་རྟེན་འབྱུང་གྲངས་སྤྱོད་པ།"
+
+msgid "Use cyclic range"
+msgstr "རྒྱུན་འཁོར་ཁྱབ་ཁོངས་སྤྱོད་པ།"
+
+msgid "Use e_xponent map:"
+msgstr "སྟོན་གྲངས་སྦྱར་རིས་སྤྱོད་པ།:"
+
+msgid ""
+"Use linear mapping instead of any trigonometrical function for this color "
+"channel"
+msgstr ""
+"ཁ་དོག་རྒྱུ་ལམ་འདི་ལ་ཐིག་གཤིས་རྟེན་འཕྲོ་སྤྱོད་པ་ལས་ཟུར་གསུམ་རྟེན་འབྱུང་གྲངས་བེད་མི་སྤྱོད།"
+
+msgid "Use log log smoothing to eliminate \"banding\" in the result"
+msgstr "log log འཇམ་སྙོམས་བེད་སྤྱད་ནས་མཇུག་འབྲས་ནང་གི་སྣག་ཐགས་སེལ་བ།"
+
+msgid "Use loglog smoothing"
+msgstr "loglog འཇམ་སྙོམས་སྤྱོད་པ།"
+
+msgid "Use m_ask-size map:"
+msgstr "ཚོས་རྡོག་ཆེ་ཆུང་གི་སྦྱར་རིས་སྤྱོད་པ།:"
+
+msgid "Use magnitude map"
+msgstr "ཚད་ཐང་སྦྱར་རིས་སྤྱོད་པ།"
+
+msgid "Use mouse control to warp image areas"
+msgstr "ཙིག་མདའ་བེད་སྤྱད་ནས་བརྙན་རིས་ཁུལ་ཁོངས་ཚོད་འཛིན་གྱིས་བརྫེས་པ།"
+
+msgid "Use reverse value"
+msgstr "ལྡོག་ཕྱོགས་གྲངས་བྲིན་སྤྱོད་པ།"
+
+msgid "Use sine-function for this color component"
+msgstr "ཁ་དོག་གསེས་ཚད་འདི་ལ་དྲང་རྒྱུད་རྟེན་འབྱུང་གྲངས་སྤྱོད་པ།"
+
+msgid "Use subcolors"
+msgstr "བུ་ཁ་དོག་སྤྱོད་པ།"
+
+msgid "Use the background color"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་སྤྱོད་པ།"
+
+msgid "Use the color of the image"
+msgstr "བརྙན་རིས་གྱི་ཁ་དོག་སྤྱོད་པ།"
+
+msgid "Use the foreground color"
+msgstr "མདུན་ལྗོངས་ཁ་དོག་སྤྱོད་པ།"
+
+msgid "V_alue"
+msgstr "གསལ་ཚད། (_A)"
+
+msgid "Value"
+msgstr "ཐང་།"
+
+msgid "Value Invert"
+msgstr "གསལ་ཚད་ལྡོག་འཁོར།"
+
+msgid "Value Propagate"
+msgstr "ཁ་དོག་སྐྱེ་འཕེལ།"
+
+msgid "Value Variations"
+msgstr "གསལ་ཚད་འགྱུར་ལྡོག"
+
+msgid "Van Gogh (LIC)"
+msgstr "མཐོ་ཚད། (LIC)"
+
+msgid "Vector _angle:"
+msgstr "ཕྱོགས་ཚད་ཟུར་ཚད། (_A)："
+
+msgid "Vector _length:"
+msgstr "ཕྱོགས་ཚད་རིང་ཚད། (_L)："
+
+msgid "Vector mag:"
+msgstr "ཕྱོགས་ཚད་ཁོད་རྒྱ།:"
+
+msgid "Vectors"
+msgstr "ཕྱོགས་ཚད།"
+
+msgid "Ver_tical base:"
+msgstr "དྲང་འཕྱང་ཁ་ཕྱོགས་ཀྱི་གཞི་ཚད། (_T)："
+
+msgid "Vertical Color"
+msgstr "དྲང་འཕྱང་ཁ་དོག"
+
+msgid "Vertical gradient"
+msgstr "དྲང་འཕྱང་རིམ་འགྱུར།"
+
+msgid "Vertically"
+msgstr "དྲང་འཕང་།"
+
+msgid "Very dark"
+msgstr "གཏིང་ཟབ།"
+
+msgid "Vi_deo..."
+msgstr "བརྙན་ཟློས། (_D)…"
+
+msgid "Video"
+msgstr " བརྙན་ཟློས།"
+
+msgid "Video Pattern"
+msgstr "བརྙན་ཟློས་རྣམ་པ།"
+
+msgid "View Source"
+msgstr "ཁུངས་ཀྱི་ཡིག་ཆར་ལྟ་བ།"
+
+msgid "View and edit metadata (EXIF, IPTC, XMP)"
+msgstr "རྒྱུའི་གཞི་གྲངས་ལ་ལྟ་བ་དང་རྩོམ་སྒྲིག་བྱེད་པ། (EXIF, IPTC, XMP)"
+
+msgid "Visit the GIMP documentation website"
+msgstr "GIMP ཡིག་ཚགས་ཀྱི་དྲ་ཚུགས་ལ་མིག་བཤར།"
+
+msgid "Vorte_x"
+msgstr "ཆུ་འཁོར། (_X)"
+
+msgid "Vortex_2"
+msgstr "ཆུ་འཁོར 2། (_2)"
+
+msgid "Vortex_3"
+msgstr "ཆུ་འཁོར 3། (_3)"
+
+msgid "WAI_S"
+msgstr "WAI_S"
+
+msgid "W_hirl and Pinch..."
+msgstr "འཁྱིལ་འཁོར་དང་གཙིར་གནོན། (_H)…"
+
+msgid "W_ith source image"
+msgstr "དང་ཁུངས་བརྙན་རིས། (_I)"
+
+msgid "W_rite extra mask file"
+msgstr "ཟུར་སྣོན་གྱི་གབ་ཨང་ཡིག་ཆ་འབྲི་བ། (_R)"
+
+msgid "Warning"
+msgstr " ཐ་ཚིག"
+
+msgid "Warning: '%s' is a parameter file for a newer version of CML Explorer."
+msgstr ""
+"ཉེན་བརྡ།：“%s” ནི་ཅུང་གསར་བའི་པར་གཞིའི CML "
+"འཚོལ་ཞིབ་ཆས་ཀྱི་ཞུགས་གྲངས་ཀྱི་ཡིག་ཆ་ཞིག་རེད།"
+
+msgid "Warning: '%s' is an old format file."
+msgstr "ཉེན་བརྡ།:“%s” ནི་རྣམ་གཞག་རྙིང་པའི་ཡིག་ཆ་ཞིག་རེད།"
+
+msgid "Warning: the source and the destination are the same channel."
+msgstr "ཉེན་བརྡ།:ཁུངས་དང་དམིགས་འབེན་ནི་རྒྱུ་ལམ་གཅིག་རེད།"
+
+msgid "Warning: unsupported layermode %d saved to XJT"
+msgstr "ཉེན་བརྡ།:རྒྱབ་སྐྱོར་མེད་པའི་རིས་རིམ་རྣམ་པ %d དེ XJT ལ་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "Warning: unsupported pathtype %d saved to XJT"
+msgstr ""
+"ཉེན་བརྡ།:རྒྱབ་སྐྱོར་མེད་པའི་བརྒྱུད་ལམ་རིགས་གྲས %d དེ XJT ལ་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "Warning: unsupported unittype %d saved to XJT"
+msgstr ""
+"ཉེན་བརྡ།:རྒྱབ་སྐྱོར་མེད་པའི་འཇལ་བྱེད་རིགས་གྲས %d དེ XJT ལ་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "Warp"
+msgstr "འཁྱོག་པ།"
+
+msgid "Warping"
+msgstr "འཁྱོག་པ།"
+
+msgid "Warping Frame %d"
+msgstr "ལྷེབ་མ་ཨང %d འཁྱོག་པ།"
+
+msgid "Wave Type"
+msgstr "རླབས་ཀྱི་རིགས་གྲས།"
+
+msgid "Waves"
+msgstr "རླབས།"
+
+msgid "Waving"
+msgstr "རླབས།"
+
+msgid "Weak"
+msgstr "ཞན་པ།"
+
+msgid "Webpage"
+msgstr "དྲ་ངོས།"
+
+msgid ""
+"When toggled, the resulting image will be scaled to fit into the given size "
+"without changing the aspect ratio."
+msgstr ""
+"འདེམ་པའི་སྐབས། "
+"བརྙན་རིས་དེ་མཁོ་སྤྲོད་བྱས་པའི་ཆེ་ཆུང་ལ་སྐྱེད་སྐྱུང་བྱེད་པ་མ་ཟད་དེ་སྔོན་གྱི་མཐོ་ཞེང་སྡུར་ཚད་དེ་སྒྱུར་བ་མེད།"
+
+msgid "Whirl and Pinch"
+msgstr "འཁྱིལ་འཁོར་དང་གཙིར་གནོན།"
+
+msgid "Whirling and pinching"
+msgstr "འཁྱིལ་འཁོར་དང་གཙིར་གནོན།"
+
+msgid "White"
+msgstr "དཀར་པོ།"
+
+msgid "Wi_nd..."
+msgstr "རླུང་། (_N)…"
+
+msgid "Width (pixels):"
+msgstr "ཞེང་ཚད། ( བརྙན་རྒྱུ )："
+
+msgid "Width:"
+msgstr "ཞེང་ཚད།"
+
+msgid "Wind"
+msgstr "རླུང་།"
+
+msgid "Windows"
+msgstr " སྒེའུ་ཁུང་།"
+
+msgid "Windows BMP image"
+msgstr "Windows ཡི་བརྙན་རིས BMP"
+
+msgid "Windows Icon"
+msgstr "Windows ཡི་རིས་རྟགས།"
+
+msgid "With gradient power (0,1)"
+msgstr "གསེག་ཕྱོད་ཕོབ་ཐང་སྤྱོད་པ། (0,1)"
+
+msgid "With p and random (0,1)"
+msgstr "p དང་སྐབས་བསྟུན་སྤྱོད་པ། (0,1)"
+
+msgid "With random power (0,1)"
+msgstr "སྐབས་བསྟུན་ཕོབ་ཐང་སྤྱོད་པ། (0,1)"
+
+msgid "With random power (0,10)"
+msgstr "སྐབས་བསྟུན་ཕོབ་ཐང་སྤྱོད་པ། (0,10)"
+
+msgid "Work on cop_y"
+msgstr "བུ་དཔེ་ཡི་ནང་བཀོལ་སྤྱོད། (_Y)"
+
+msgid "Would you like GIMP to rotate it into the standard orientation?"
+msgstr "ཁྱེད་ཀྱིས GIMP ཡི་འཁྱིལ་འཁོར་དེ་ཚད་ལྡན་ཁ་ཕྱོགས་བྱེད་དམ།"
+
+msgid "Wrap"
+msgstr "གདུབ་འཁྱིལ།"
+
+msgid "Write error occurred"
+msgstr "འབྲི་བའི་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "Writing to file '%s' failed: %s"
+msgstr "ཡིག་ཆ “%s” ལ་འབྲི་བ་ཕམ་པ།：%s"
+
+msgid "X BitMap image"
+msgstr "བརྙན་རིས X BitMap"
+
+msgid "X PixMap image"
+msgstr "བརྙན་རིས X PixMap"
+
+msgid "X scale (size)"
+msgstr "X སྐྱེད་སྐྱུང་། ( ཆེ་ཆུང )"
+
+msgid "X window dump"
+msgstr "X Window སྤོ་གསོག"
+
+msgid "X11 Mouse Cursor"
+msgstr "X11 ཙིག་མདའི་འོད་རྟགས།"
+
+msgid "X:"
+msgstr "X།："
+
+msgid "XBM"
+msgstr "XBM"
+
+msgid "XBM Options"
+msgstr "XBM འདེམས་ཚན།"
+
+msgid "XJT"
+msgstr "XJT"
+
+msgid "XJT file contains unknown layermode %d"
+msgstr "XJT ཡིག་ཆར་ངེས་མེད་ཀྱི་རིས་རིམ་རྣམ་པ %d ཚུད་འདུག"
+
+msgid "XJT file contains unknown pathtype %d"
+msgstr "XJT ཡིག་ཆར་ངེས་མེད་ཀྱི་བརྒྱུད་ལམ་རིགས་གྲས %d ཚུད་འདུག"
+
+msgid "XJT file contains unknown unittype %d"
+msgstr "XJT ཡིག་ཆར་ངེས་མེད་ཀྱི་འཇལ་བྱེད་རིགས་གྲས %d ཚུད་འདུག"
+
+msgid "XMC Options"
+msgstr "XMC འདེམས་ཚན།"
+
+msgid "XMP cannot contain XML comments or processing instructions"
+msgstr "XMP ལ XML ཡི་མཆན་འགྲེལ་ལམ་ཡང་ན་ཐག་གཅོད་བཀའ་བརྡ་ཚུད་མི་ཆོག"
+
+msgid "XMP packets must end with <?xpacket end=...?>"
+msgstr "ཐུམ་བུ XMP དེ་ངེས་པར་དུ <?xpacket end=...?> ཡིས་མཇུག་སྒྲིལ་དགོས།"
+
+msgid "XMP packets must start with <?xpacket begin=...?>"
+msgstr "ཐུམ་བུ XMP དེ་ངེས་པར་དུ <?xpacket begin=...?> ཡིས་འགོ་རྩོམ་དགོས།"
+
+msgid "XPM"
+msgstr "XPM"
+
+msgid "XPM file invalid"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་ཆ XPM"
+
+msgid "XY position:"
+msgstr "XY ཡི་གནས།:"
+
+msgid "X_1:"
+msgstr "X_1："
+
+msgid "X_2:"
+msgstr "X_2："
+
+msgid "Y scale (size)"
+msgstr "Y སྐྱེད་སྐྱུང་། ( ཆེ་ཆུང་།)"
+
+msgid "Y:"
+msgstr "Y："
+
+msgid "Y_1:"
+msgstr "Y_1："
+
+msgid "Y_2:"
+msgstr "Y_2："
+
+msgid "Yellow"
+msgstr "སེར་པོ།"
+
+msgid "Yellow:"
+msgstr "སེར་པོ།："
+
+msgid "Yellow_K"
+msgstr "སེར་པོ། _K"
+
+msgid "You can not rotate the whole image if there's a floating selection."
+msgstr ""
+"གལ་སྲིད་འཕྱོ་འགུལ་འདེམས་ཁུལ་ཡོད་ཚེ། "
+"ཁྱེད་ཀྱིས་བརྙན་རིས་ཧྲིལ་པོ་འཁྱིལ་འཁོར་མི་ཐུབ།"
+
+msgid "You can not rotate the whole image if there's a selection."
+msgstr ""
+"གལ་སྲིད་འདེམས་ཁུལ་ཡོད་ཚེ། ཁྱེད་ཀྱིས་བརྙན་རིས་ཧྲིལ་པོ་འཁྱིལ་འཁོར་མི་ཐུབ།"
+
+msgid ""
+"You can only export as animation when the image has more than one layer. The"
+" image you are trying to export only has one layer."
+msgstr ""
+"བརྙན་རིས་ལ་རིས་རིམ་མང་པོ་ཡོད་དུས་གཞི་ནས་འགུལ་རིས་ལ་ཕྱིར་འདྲེན་བྱེད་པ་ཡིན། "
+"ཁྱེད་ཀྱིས་ཕྱིར་འདྲེན་བྱས་པའི་བརྙན་རིས་ལ་རིས་རིམ་གཅིག་ལས་མེད་པ།"
+
+msgid ""
+"You can only run 'Recompose' if the active image was originally produced by "
+"'Decompose'."
+msgstr ""
+"གལ་སྲིད་མིག་སྔའི་བརྙན་རིས་དེ “དབྱེ་ཕྲལ” ཡིས་སྐྱེད་འགྲུབ་བྱས་ཡོད་ཚེ། "
+"ཁྱེད་ཀྱིས “ཡང་བསྐྱར་མཉམ་སྒྲིག” ཁོ་ན་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "Z scale (size)"
+msgstr "Y སྐྱེད་སྐྱུང་། ( ཆེ་ཆུང་།)"
+
+msgid "Z:"
+msgstr "Z："
+
+msgid "ZSoft PCX image"
+msgstr "བརྙན་རིས ZSoft PCX"
+
+msgid "Zealous cropping"
+msgstr "ཧུར་བརྩོན་གྱིས་དྲས་གཏུབ་བྱེད་པ།"
+
+msgid "Zoom"
+msgstr "སྐྱེད་སྐྱུང་།"
+
+msgid "Zoom in"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
+
+msgid "Zoom out"
+msgstr "ཆུང་བསྡུ།"
+
+msgid "Zoom scale:"
+msgstr "སྐྱེད་སྐྱུང་བསྡུར་ཚད།:"
+
+msgid "_3x3"
+msgstr "3x3(_3)"
+
+msgid "_Abbreviation:"
+msgstr "བསྡུས་མིང་། (_A)："
+
+msgid "_Adaptive"
+msgstr "འཚམ་པ། (_A)"
+
+msgid "_Additive"
+msgstr "ཁ་སྣོན།(_A)"
+
+msgid "_Advanced"
+msgstr "མཐོ་རིམ།(_A)"
+
+msgid "_Advanced Options"
+msgstr "མཐོ་རིམ་འདེམས་ཚན། (_A)"
+
+msgid "_Algorithm:"
+msgstr "རྩི་ཐབས། (_A)："
+
+msgid "_Alien Map..."
+msgstr "ཁྱད་མཚར་རྟེན་འཕྲོ། (_A)"
+
+msgid "_Alpha"
+msgstr "Alpha(_A)"
+
+msgid "_Alpha threshold:"
+msgstr "Alpha མཚམས་ཐང་། (_A)："
+
+msgid "_Alpha trimmed mean"
+msgstr " _Alpha ཆ་སྙོམས་བཟོ་བཅོས།"
+
+msgid "_Alpha:"
+msgstr " _Alpha："
+
+msgid "_Amount:"
+msgstr "ཚད། (_A)："
+
+msgid "_Amplitude:"
+msgstr "ཁོད་རྒྱ། (_A)："
+
+msgid "_Angle:"
+msgstr "ཟུར་ཚད། (_A)："
+
+msgid "_Animate"
+msgstr "འགུལ་རིས། (_A)"
+
+msgid "_Antialias"
+msgstr "མུ་འགྲམ་འཇམ་སྙོམས། (_A)"
+
+msgid "_Antialiasing"
+msgstr "ལྡོག་པའི་སོག་ལེའི་ཁ། (_A)"
+
+msgid "_Apply Canvas..."
+msgstr "རིས་གཞི་བཀོལ་སྤྱོད། (_A)"
+
+msgid "_Assign"
+msgstr "མངག་གཏོང་། (_A)"
+
+msgid "_Assign Color Profile..."
+msgstr "ཚོན་མདོག་གི་སྡེབ་སྒྲིག་ཡིག་ཆ་བགོ་བཤའ་བྱེད་པ། (_A)"
+
+msgid "_Auto-Crop all frames."
+msgstr "ལྷེབ་མ་ཚང་མ་རང་འགུལ་ངང་གཅོད་གཏུབ་བྱེད་པ། (_A)"
+
+msgid "_Automatically convert"
+msgstr "རང་འགུལ་བརྗེ་སྤོར། (_A)"
+
+msgid "_Azimuth:"
+msgstr "སྣེ་ཟིན་ཟུར། (_A)："
+
+msgid "_Background"
+msgstr "རྒྱབ་ལྗོངས།(_B)"
+
+msgid "_Background color"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག (_B)"
+
+msgid "_Base URL:"
+msgstr "རྨང་ཤག URL(_B)："
+
+msgid "_Bevel width:"
+msgstr "གཏུབ་ཤུལ་ཞེང་ཚད། (_B)："
+
+msgid "_Bilinear"
+msgstr "ཉིས་ཐིག་ཅན། (_B)"
+
+msgid "_Black"
+msgstr "ནག་པོ། (_B)"
+
+msgid "_Black Point Compensation"
+msgstr "ནག་ཚེག་ཁ་གསབ། (_B)"
+
+msgid "_Black level:"
+msgstr "ནག་པོའི་ཆུ་སྙོམས། (_B)："
+
+msgid "_Black:"
+msgstr "ནག་པོ། (_B)："
+
+msgid "_Blacken"
+msgstr "ནག་པོ་ཆགས། (_B)"
+
+msgid "_Blank"
+msgstr "སུབ་པ།(_B)"
+
+msgid "_Blast"
+msgstr "སྟོབས་ལྡན་རླུང་། (_B)"
+
+msgid "_Blend"
+msgstr "མཉམ་བསྲེས། (_B)"
+
+msgid "_Blinds..."
+msgstr "སུལ་མང་སྒེའུ་ཁུང་། (_B)…"
+
+msgid "_Blue"
+msgstr "སྔོན་པོ།(_B)"
+
+msgid "_Blue:"
+msgstr "སྔོན་པོ། (_B)："
+
+msgid "_Blueness cb470:"
+msgstr "སྔོན་པོའི་ཧེ་བག cb470(_B)："
+
+msgid "_Blueness cb470f:"
+msgstr "སྔོན་པོའི་ཧེ་བག cb470f(_B)："
+
+msgid "_Blueness cb709:"
+msgstr "སྔོན་པོའི་ཧེ་བག cb709(_B)："
+
+msgid "_Blueness cb709f:"
+msgstr "སྔོན་པོའི་ཧེ་བག cb709f(_B)："
+
+msgid "_Blur"
+msgstr "རབ་རིབ། (_B)"
+
+msgid "_Blur radius:"
+msgstr "རབ་རིབ་ཚངས་ཕྱེད། (_B)："
+
+msgid "_Border Average..."
+msgstr "མཐའ་མཚམས་སྙོམས་ཐང་། (_B)…"
+
+msgid "_Border:"
+msgstr "མཐའ་སྒྲོམ། (_B)："
+
+msgid "_Bottom-left"
+msgstr "གཡོན་འོག (_B)"
+
+msgid "_Bottom:"
+msgstr "འོག (_B)："
+
+msgid "_Box"
+msgstr "སྒམ་གྲུ་བཞི། (_B)"
+
+msgid "_Bright:"
+msgstr "གསལ་ཚད། (_B)："
+
+msgid "_Brighten:"
+msgstr "གསལ་གཏོང་། (_B)："
+
+msgid "_Brightness"
+msgstr "གསལ་ཚད། (_B)"
+
+msgid "_Brightness:"
+msgstr "གསལ་ཚད། (_B)："
+
+msgid "_Brush"
+msgstr "རིས་པིར། (_B)"
+
+msgid "_Bucket size:"
+msgstr "རྩི་ཟོམ་ཆེ་ཆུང་། (_B)："
+
+msgid "_Bump Map"
+msgstr "ཀོང་འབུར་སྦྱར་རིས། (_B)"
+
+msgid "_Bump Map..."
+msgstr "ཀོང་འབུར་སྦྱར་རིས། (_B)"
+
+msgid "_Bump map:"
+msgstr "ཀོང་འབུར་སྦྱར་རིས། (_B)："
+
+msgid "_Bumpmap"
+msgstr "ཀོང་འབུར་སྦྱར་རིས། (_B)"
+
+msgid "_Cartesian"
+msgstr "ཏི་ཁར་གནས་ཚད། (_C)"
+
+msgid "_Checkerboard..."
+msgstr "འགྱིག་གཞོང་། (_C)…"
+
+msgid "_Clear"
+msgstr "གཙང་སེལ།(_C)"
+
+msgid "_Color Enhance"
+msgstr "ཁ་དོག་དྲག་འཕེལ། (_C)…"
+
+msgid "_Color Exchange..."
+msgstr "ཁ་དོག་བརྗེ་རེས། (_C)…"
+
+msgid "_Contents"
+msgstr "དཀར་ཆག (_C)"
+
+msgid "_Convert"
+msgstr "བརྗེ་སྤོར། (_C)"
+
+msgid "_Convert to Color Profile..."
+msgstr "ཚོན་མདོག་སྡེབ་སྒྲིག་གི་ཡིག་ཆར་བརྗེ་སྤོར་བྱེད་པ། (_C)…"
+
+msgid "_Convolution Matrix..."
+msgstr "དྲིལ་བསགས་ལིང་ཚེ། (_C)…"
+
+msgid "_Copy"
+msgstr "འདྲ་པར།(_C)"
+
+msgid "_Copyright:"
+msgstr "པར་དབང་། (_C)："
+
+msgid "_Create"
+msgstr "གསར་བཟོ། (_C)"
+
+msgid "_Cubism..."
+msgstr "ལངས་གཟུགས་པ། (_C)…"
+
+msgid "_Curve Bend..."
+msgstr "འཁྱོག་ཐིག་འཁྱོག་བཤད། (_C)…"
+
+msgid "_Cyan:"
+msgstr "སྔོ་ནག (_C)："
+
+msgid "_DCT method:"
+msgstr " _DCT ཐབས་ཤེས།:"
+
+msgid "_Decompose to layers"
+msgstr "རིས་རིམ་ལ་དབྱེ་ཕྲལ། (_D)"
+
+msgid "_Decompose..."
+msgstr "དབྱེ་ཕྲལ། (_D)…"
+
+msgid "_Deflate"
+msgstr "རྡིབ་པ། (_D)"
+
+msgid "_Deform radius:"
+msgstr "དབྱིབས་འགྱུར་ཚངས་ཕྱེད། (_D)："
+
+msgid "_Deinterlace..."
+msgstr "འཛིང་སྣོལ་འདོར་བ། (_D)…"
+
+msgid "_Delay:"
+msgstr "དུས་འགྱངས།(D)："
+
+msgid "_Depth Merge..."
+msgstr "ཟབ་ཚད་མཉམ་སྒྲིལ། (_D)…"
+
+msgid "_Depth:"
+msgstr "ཟབ་ཚད། (_D)："
+
+msgid "_Derivative"
+msgstr "རྗེས་གྲུབ། (_D)"
+
+msgid "_Description:"
+msgstr "ཞིབ་བརྗོད། (_D)："
+
+msgid "_Detail:"
+msgstr "ཞིབ་ཆ། (_D)："
+
+msgid "_Difference of Gaussians..."
+msgstr "ཀོ་སིན་གྱི་ཁྱད་ཆ། (_D)…"
+
+msgid "_Diffraction Patterns..."
+msgstr "སྐོར་འཕྲོའི་དཔེ་རིས། (_D)…"
+
+msgid "_Digits:"
+msgstr "གནས་གྲངས། (_D)："
+
+msgid "_Dilate"
+msgstr "སྦོས་པ། (_D)"
+
+msgid "_Displace..."
+msgstr "གནས་སྤོ། (_D)…"
+
+msgid "_Displacement:"
+msgstr "འཁྱིལ་འཁོར་ཟུར་ཚད། (_D)："
+
+msgid "_Distorted"
+msgstr "འཁྱོག་བཤད། (_D)"
+
+msgid "_Divisions:"
+msgstr "ཁ་བྲལ། (_D)："
+
+msgid "_Don't ask me again"
+msgstr "ད་ད་དུང་ང་ལ་མ་དྲིས་རོགས།"
+
+msgid "_Dots"
+msgstr "ཚེག (_D)"
+
+msgid "_Draw Crop Marks"
+msgstr "དྲས་གཏུབ་ཀྱི་བཀོད་རྟགས་འབྲི་བ། (_D)"
+
+msgid "_Edge enhancement"
+msgstr "མུ་འགྲམ་དྲག་འཕེལ། (_E)"
+
+msgid "_Edge..."
+msgstr "མུ་འགྲམ། (_E)…"
+
+msgid "_Edge:"
+msgstr "མུ་འགྲམ། (_E)："
+
+msgid "_Edit"
+msgstr "རྩོམ་སྒྲིག (_E)"
+
+msgid "_Effect image:"
+msgstr "འབྲས་བུའི་བརྙན་རིས། (_E)："
+
+msgid "_Elevation:"
+msgstr "གྱེན་ཟུར། (_E)："
+
+msgid "_Emboss"
+msgstr "འབུར་བརྐོས། (_E)"
+
+msgid "_Emboss..."
+msgstr "འབུར་བརྐོས། (_E)..."
+
+msgid "_Encapsulated PostScript"
+msgstr "བཏུམ་པའི PostScript(_E)"
+
+msgid "_Entire image"
+msgstr "བརྙན་རིས་ཧྲིལ་པོ། (_E)"
+
+msgid "_Environment Map"
+msgstr "ཁོར་ཡུག་རྟེན་འཕྲོ། (_E)"
+
+msgid "_Explicit tile"
+msgstr "དམིགས་འཛུགས་ཀྱི་རྡོག་ཆུང་། (_E)"
+
+msgid "_Exponent:"
+msgstr "སྟོན་གྲངས། (_E)："
+
+msgid "_FG/BG lighting"
+msgstr "མདུན་ལྗོངས / རྒྱབ་ལྗོངས་འོད་འཕྲོ། (_F)"
+
+msgid "_Factor:"
+msgstr "རྐྱེན་ཆ། (_F)："
+
+msgid "_Factory Defaults"
+msgstr "བཟོ་གྲྭའི་སོར་བཞག་གྲངས་བྲིན། (_F)"
+
+msgid "_File"
+msgstr "ཡིག་ཆ། (_F)"
+
+msgid "_Filename:"
+msgstr "ཡིག་ཆའི་མིང་། (_F)："
+
+msgid "_Filmstrip..."
+msgstr "སྤྱིན་ཤོག (_F)…"
+
+msgid "_Filter Pack..."
+msgstr "འཚག་ཤེལ་མཉམ་སྒྲིག (_F)…"
+
+msgid "_Filter length:"
+msgstr "འཚག་ཤེལ་རིང་ཚད། (_F)："
+
+msgid "_Find Backdrop"
+msgstr "རྒྱབ་ལྗོངས་འཚོལ་བ། (_F)"
+
+msgid "_Fit height to images"
+msgstr "བརྙན་རིས་ཀྱི་མཐོ་ཚད་གཞིར་འཛིན་པ། (_F)"
+
+msgid "_Flame..."
+msgstr "མེ་ལྕེ། (_F)…"
+
+msgid "_Font:"
+msgstr "ཡིག་གཟུགས། (_F)："
+
+msgid "_Force"
+msgstr "བཙན་སྐུལ། (_F)"
+
+msgid "_Force tiling?"
+msgstr "སྙོམས་འདིང་བཙན་སྐུལ་བྱེད་དམ། (_F)"
+
+msgid "_Foreground & background"
+msgstr "མདུན་ལྗོངས་དང་རྒྱབ་ལྗོངས། (_F)"
+
+msgid "_Foreground as registration color"
+msgstr "མདུན་ལྗོངས་ཁ་དོག་དེ་ཐོ་འགོད་ཁ་དོག་ལ་རྩིས་པ། (_F)"
+
+msgid "_Foreground color"
+msgstr "མདུན་ལྗོངས་ཁ་དོག (_F)"
+
+msgid "_Foreground to peaks"
+msgstr "མདུན་ལྗོངས་ཁ་དོག་ནས་རྩེ་ཐང་བར། (_F)"
+
+msgid "_Format:"
+msgstr "རྣམ་པ།(_F)："
+
+msgid "_Fractal Explorer..."
+msgstr "དབྱིབས་འབྱེད་འཚོལ་ཞིབ་ཆས། (_F)…"
+
+msgid "_Fractal Trace..."
+msgstr "དབྱིབས་འབྱེད་གོང་འདེད། (_F)…"
+
+msgid "_Fractals"
+msgstr "དབྱིབས་འབྱེད། (_F)"
+
+msgid "_Free"
+msgstr "རང་མོས། (_F)"
+
+msgid "_Ftp Site"
+msgstr "Ftp ས་ཚུགས། (_F)"
+
+msgid "_GIMPressionist..."
+msgstr "བག་ཆགས་པའི་སྒྱུ་རྩལ་པ། (_GIMPressionist)…"
+
+msgid "_Gamma:"
+msgstr " _Gamma："
+
+msgid "_Gaussian Blur..."
+msgstr "ཀོ་སིན་གྱི་རབ་རིབ། (_G)…"
+
+msgid "_General"
+msgstr "རྒྱུན་སྲོལ། (_G)"
+
+msgid "_Generate full HTML document"
+msgstr "ཆ་ཚང་བའི HTML ཡིག་ཚགས་སྐྱེད་འགྲུབ་བྱེད་པ། (_G)"
+
+msgid "_Gfig..."
+msgstr "དབྱིབས་རྩིས་རིས་དབྱིབས། (_Gfig)…"
+
+msgid "_Glass Tile..."
+msgstr "ཤེལ་གྱི་རྫ་ལེབ། (_G)…"
+
+msgid "_Glow radius:"
+msgstr "འཇམ་འོད་ཚངས་ཕྱེད། (_G)："
+
+msgid "_Glowing:"
+msgstr "འོད་འབར། (_G)："
+
+msgid "_Gopher"
+msgstr " _Gopher"
+
+msgid "_Gradient"
+msgstr "རིམ་འགྱུར། (_G)"
+
+msgid "_Gradient Flare..."
+msgstr "རིམ་འགྱུར་འོད་འཁྱུག (_G)…"
+
+msgid "_Gradient Map"
+msgstr "རིམ་འགྱུར་རྟེན་འཕྲོ། (_G)"
+
+msgid "_Gray:"
+msgstr "སྐྱ་མདོག (_G)："
+
+msgid "_Green"
+msgstr "ལྗང་ཁུ། (_G)"
+
+msgid "_Green:"
+msgstr "ལྗང་ཁུ། (_G)："
+
+msgid "_Grey"
+msgstr "སྐྱ་མདོག (_G)"
+
+msgid "_Grid"
+msgstr "དྲ་མིག (_G)"
+
+msgid "_Grid size:"
+msgstr "དྲ་མིག་ཆེ་ཆུང་། (_G)："
+
+msgid "_Grid..."
+msgstr "དྲ་མིག (_G)…"
+
+msgid "_Grow"
+msgstr "སྦོས་པ། (_G)"
+
+msgid "_Guillotine"
+msgstr "དུམ་བགོད། (_G)"
+
+msgid "_HSL color model"
+msgstr "HSL ཡི་ཚོན་མདོག་རྣམ་པ། (_H)"
+
+msgid "_Height"
+msgstr "མཐོ་ཚད། (_H)"
+
+msgid "_Height (pixels):"
+msgstr "མཐོ་ཚད། ( བརྙན་རྒྱུ )(_H)："
+
+msgid "_Height:"
+msgstr "མཐོ་ཚད།(_H)："
+
+msgid "_Help"
+msgstr " རོགས་རམ།(_H)"
+
+msgid "_Hex"
+msgstr "གཟེ་དབྱིབས། (_H)"
+
+msgid "_Hidden"
+msgstr "གབ་པ།(_H)"
+
+msgid "_Hold the maximal channels"
+msgstr "རྒྱུ་ལམ་ཆེ་ཤོས་ཉར་བ། (_H)"
+
+msgid "_Holdness:"
+msgstr "རྒྱུན་སྲུང་ཚད།(_H)："
+
+msgid "_Hole offset:"
+msgstr "ཁུང་ཆུང་གནས་སྤོ། (_H)："
+
+msgid "_Horizontal"
+msgstr "ཆུ་སྙོམས། (_H)"
+
+msgid "_Horizontal style:"
+msgstr "ཆུ་སྙོམས་ཁ་ཕྱོགས་ཀྱི་བཟོ་ཉམས། (_H)："
+
+msgid "_Horizontal:"
+msgstr "ཆུ་སྙོམས།(_H)："
+
+msgid "_Horz. spacing:"
+msgstr "ཆུ་སྙོམས་བར་ཐག (_H)："
+
+msgid "_Hot..."
+msgstr "སྐམ་ཚེག (_H)…"
+
+msgid "_Hue"
+msgstr "ཚོས་གཞི། (_H)"
+
+msgid "_Hue rotation:"
+msgstr "ཚོས་གཞི་འཁྱིལ་འཁོར། (_H)："
+
+msgid "_Hue:"
+msgstr "ཚོན་མདངས། (_H)："
+
+msgid "_Hurl..."
+msgstr "གཏོར་བ།(_H)…"
+
+msgid "_ID:"
+msgstr " _ID："
+
+msgid "_IFS Fractal..."
+msgstr " _IFS དབྱིབས་འབྱེད།…"
+
+msgid "_IIR"
+msgstr "IIR(_I)"
+
+msgid "_IWarp..."
+msgstr "སྤེལ་རེས་ཚུལ་གྱི་འཁྱོག་པ། (_IWrap)"
+
+msgid "_Ideal"
+msgstr "འདོད་མཐུན། (_I)"
+
+msgid "_Identifier prefix:"
+msgstr "ངོ་རྟགས་ཀྱི་སྔོན་འཇུག (_I)："
+
+msgid "_Ignore"
+msgstr "སྣང་མེད་དུ་གཏོང་།(_I)"
+
+msgid "_Ignore the bottom layer even if visible"
+msgstr "མཐོང་རུང་ཡིན་ཡང་མཐིལ་ངོས་རིས་རིམ་སྣང་མེད་བྱེད་པ། (_I)"
+
+msgid "_Illusion..."
+msgstr "འཕྲུལ་སྣང་།(_I)…"
+
+msgid "_Image Map..."
+msgstr "བརྙན་རིས་འཕྲོ་བརྙན།(_I)…"
+
+msgid "_Import"
+msgstr "ནང་འདྲེན།(I)"
+
+msgid "_Inch"
+msgstr "དབྱིན་ཚུན། (_I)"
+
+msgid "_Independent RGB"
+msgstr "RGB འབྲེལ་མེད། (_I)"
+
+msgid "_Input SPI:"
+msgstr "SPI ནང་འཇུག (_I)："
+
+msgid "_Insert"
+msgstr "བར་འཇུག(_I)"
+
+msgid "_Intensity:"
+msgstr "དྲག་ཚད། (_I)："
+
+msgid "_Invert"
+msgstr "ལྡོག་འཁོར། (_I)"
+
+msgid "_JPEG"
+msgstr " _JPEG"
+
+msgid "_JavaScript"
+msgstr " _JavaScript"
+
+msgid "_Jigsaw..."
+msgstr "སྒྲིག་རིས། (_J)…"
+
+msgid "_Keep"
+msgstr "རྣམ་པ་སྔོན་མ་ལྟར་འཇོག་པ།(_K)"
+
+msgid "_Keep Orientation"
+msgstr "ཁ་ཕྱོགས་རྒྱུན་སྲུང་། (_K)"
+
+msgid "_Keep aspect ratio"
+msgstr "མཐོ་ཞེང་སྡུར་ཚད་རྒྱུན་སྲུང་། (_K)"
+
+msgid "_Keep original surroundings"
+msgstr "མཐའ་འཁོར་གྱི་གདོད་མའི་ཁོར་ཡུག་རྒྱུན་སྲུང་། (_K)"
+
+msgid "_Keep sign of result (one direction only)"
+msgstr "མཇུག་འབྲས་ཀྱི་རྟགས་རྒྱུན་སྲུང་། ( ཕྱོགས་གཅིག་ཁོ་ན )(_K)"
+
+msgid "_Kill"
+msgstr "སུབ་པ། (_K)"
+
+msgid "_LZW"
+msgstr " _LZW"
+
+msgid "_Laplace"
+msgstr "ལཱ་ཕུ་ལ་སི། (_L)"
+
+msgid "_Large staggered"
+msgstr "དྲ་མིག་ཆེ་བ། (_L)"
+
+msgid "_Left"
+msgstr "གཡོན། (_L)"
+
+msgid "_Left start at:"
+msgstr "གཡོན་སྣེ་འགོ་རྩོམ་ས། (_L)："
+
+msgid "_Left:"
+msgstr "གཡོན། (_L)："
+
+msgid "_Lens refraction index:"
+msgstr "རྒྱུ་ཤེལ་གྱི་དཀྱོག་འཕྲོའི་ཕྱོད། (_L)："
+
+msgid "_Level:"
+msgstr "རིམ་པ། (_L)："
+
+msgid "_License:"
+msgstr "ཆོག་མཆན་ལག་ཁྱེར། (_L)："
+
+msgid "_Light"
+msgstr "འོད་ཐིག (_L)"
+
+msgid "_Lighting Effects..."
+msgstr "འོད་འཕྲོའི་འབྲས་བུ། (_L)…"
+
+msgid "_Lightness:"
+msgstr "གསལ་ཚད། (_L)："
+
+msgid "_Limit line width"
+msgstr "ཐིག་ཞེང་ཚད་འཛིན། (_L)"
+
+msgid "_Lines"
+msgstr "ཚེག་ཐིག (_L)"
+
+msgid "_Link"
+msgstr "སྦྲེལ་མཐུད། (_L)"
+
+msgid "_Load Defaults"
+msgstr "སོར་བཞག་གྲངས་བྲིན་ཁུར་སྣོན། (_L)"
+
+msgid "_Lock channels"
+msgstr "རྒྱུ་ལམ་སྒྲོག་པ། (_L)"
+
+msgid "_Lower"
+msgstr "སྨད། (_L)"
+
+msgid "_Luma y470:"
+msgstr "གསལ་ཚད་ y470(_L)："
+
+msgid "_Luma y470f:"
+msgstr "གསལ་ཚད་ y470f(_L)："
+
+msgid "_Luma y709:"
+msgstr "གསལ་ཚད་ y709(_L)："
+
+msgid "_Luma y709f:"
+msgstr "གསལ་ཚད་ y709f(_L)："
+
+msgid "_Magenta:"
+msgstr "དམར་པོ། (_M)："
+
+msgid "_Main:"
+msgstr "གཙོ་བོ། (_M)："
+
+msgid "_Make Seamless"
+msgstr "ཚགས་མེད་ཐག་གཅོད། (_M)"
+
+msgid "_Make surroundings transparent"
+msgstr "ཁོར་ཡུག་དེ་ནང་གསལ་ལ་སྒྱུར་བ། (_M)"
+
+msgid "_Map backwards"
+msgstr "ལྡོག་ཕྱོགས་རྟེན་འཕྲོ། (_M)"
+
+msgid "_Map type:"
+msgstr "སྦྱར་རིས་རིགས་གྲས། (_M)："
+
+msgid "_Mapping"
+msgstr "རྟེན་འཕྲོ། (_M)"
+
+msgid "_Mask file extension:"
+msgstr "གབ་ཨང་ཡིག་ཆའི་རྒྱ་སྐྱེད་མིང་། (_M)："
+
+msgid "_Mask radius:"
+msgstr "རབ་རིབ་ཚངས་ཕྱེད། (_M)："
+
+msgid "_Mask size:"
+msgstr "ཚོས་རྡོག་ཆེ་ཆུང་། (_M)："
+
+msgid "_Material"
+msgstr "རྒྱུ་ཆ། (_M)"
+
+msgid "_Max (%):"
+msgstr "ཆེ་ཤོས། (%)(_M)："
+
+msgid "_Max depth:"
+msgstr "ཟབ་ཚད་ཆེ་ཤོས། (_M)："
+
+msgid "_Max. delta:"
+msgstr "ཡོ་ཁྱད་ཆེ་ཤོས། (_M)："
+
+msgid "_Maze..."
+msgstr "མགོ་འཁོར་བའི་ཕོ་བྲང་། (_M)"
+
+msgid "_Metallic"
+msgstr "ལྕགས་རིགས་འོད་མདངས། (_M)"
+
+msgid "_Middle value to peaks"
+msgstr "བར་ཐང་ནས་རྩེ་ཐང་བར། (_M)"
+
+msgid "_Midtones"
+msgstr "བར་དཀྱིལ་སྒྲིག་པ། (_M)"
+
+msgid "_Millimeter"
+msgstr "ཧའོ་སྨི། (_M)"
+
+msgid "_Minimum value:"
+msgstr "གྲངས་བྲིན་ཆུང་ཤོས། (_M)："
+
+msgid "_Mirror"
+msgstr "ཤེལ་བརྙན། (_M)"
+
+msgid "_Misc Ops."
+msgstr "སྣ་མང་། (_M)"
+
+msgid "_Modify hue channel"
+msgstr "ཚོས་གཞིའི་རྒྱུ་ལམ་བཟོ་བཅོས། (_M)"
+
+msgid "_Modify red channel"
+msgstr "རྒྱུ་ལམ་དམར་པོ་བཟོ་བཅོས། (_M)"
+
+msgid "_Monochrome"
+msgstr "མདོག་གཅིག (_M)"
+
+msgid "_Mosaic..."
+msgstr "མཱ་སེ་ཁེ། (_M)…"
+
+msgid "_Motion Blur..."
+msgstr "འགུལ་རྣམ་རབ་རིབ། (_M)…"
+
+msgid "_Move"
+msgstr "སྤོ་བ།(_M)"
+
+msgid "_NL Filter..."
+msgstr "ཐིག་གཤིས་མིན་པའི་རླབས་འཚག (_N)…"
+
+msgid "_Natural color"
+msgstr "རང་བྱུང་ཁ་དོག (_N)"
+
+msgid "_Neon..."
+msgstr "འཇའ་ཚོན། (_N)…"
+
+msgid "_No. across:"
+msgstr "འཕྲེད་ཕྱོགས་གྲངས་ཚད། (_N)："
+
+msgid "_Noise magnitude:"
+msgstr "འཛེར་སྒྲའི་ཚད་རིམ། (_N)："
+
+msgid "_None"
+msgstr "མེད།(_N)"
+
+msgid "_Normal"
+msgstr "སྤྱིར་བཏང་། (_N)"
+
+msgid "_Normalize"
+msgstr "ཚད་ལྡན་ཅན། (_N)"
+
+msgid "_Number height:"
+msgstr "གྲངས་ཀའི་མཐོ་ཚད། (_N)："
+
+msgid "_Number of segments:"
+msgstr "རྡོག་གྲངས། (_N)："
+
+msgid "_Opacity:"
+msgstr "མི་གསལ་ཚད། (_O)："
+
+msgid "_Open..."
+msgstr "ཁ་འབྱེད།(_O)..."
+
+msgid "_Optimize"
+msgstr "ལེགས་སྒྱུར། (_O)"
+
+msgid "_Optimize (Difference)"
+msgstr "ལེགས་སྒྱུར། ( ཁྱད་ཐང )(_O)"
+
+msgid "_Other:"
+msgstr "གཞན། (_O)："
+
+msgid "_Pack Bits"
+msgstr "སྡུད་སྒྲིལ་གནས། (_P)"
+
+msgid "_Pagecurl..."
+msgstr "ལྡེབ་ངོས་གུག་འཁྱོག (_P)…"
+
+msgid "_Palette Map"
+msgstr "ཚོན་གཞོང་རྟེན་འཕྲོ། (_P)"
+
+msgid "_Palette Type:"
+msgstr "ཚོན་གཞོང་རིགས་གྲས། (_P)："
+
+msgid "_Paper Tile..."
+msgstr "ཤོག་ལེབ་སྙོམས་འདིང་། (_P)…"
+
+msgid "_Parameters"
+msgstr "ཞུགས་གྲངས། (_P)"
+
+msgid "_Percent black:"
+msgstr "ནག་པོའི་བརྒྱ་ཆའི་བསྡུར་ཚད། (_P)："
+
+msgid "_Period:"
+msgstr "འཁོར་ཡུན། (_P)："
+
+msgid "_Phase:"
+msgstr "མཚན་གནས། (_P)："
+
+msgid "_Photocopy..."
+msgstr "པར་ལེན་པ། (_P)…"
+
+msgid "_Pick..."
+msgstr "སྒྲུག་པ། (_P)…"
+
+msgid "_Pinch"
+msgstr "གཙིར་གནོན། (_P)"
+
+msgid "_Pinch amount:"
+msgstr "གཙིར་གནོན་ཚད། (_P)："
+
+msgid "_Ping pong"
+msgstr "ཕིང་ཕང་སྤོ་ལོ། (_P)"
+
+msgid "_Pitted surfaces"
+msgstr "རིལ་དབྱིབས་ཕྱི་ངོས། (_P)"
+
+msgid "_Pixelize..."
+msgstr "བརྙན་རྒྱུ་ཅན། (_P)…"
+
+msgid "_Plasma..."
+msgstr "ཚོན་མདངས་རྣམ་པར་བཀྲ་བ། (Plasma)(_P)…"
+
+msgid "_Playback..."
+msgstr "སླར་གཏོང་། (_P)…"
+
+msgid "_Plug-In Browser"
+msgstr "བསྒར་ལྷུའི་མིག་བཤར་ཆས། (_P)"
+
+msgid "_Plural:"
+msgstr "ཚོ་གྲངས། (_P)："
+
+msgid "_Polar"
+msgstr "སྣེ་ཟིན་གནས་ཚད། (_P)"
+
+msgid "_Polished:"
+msgstr "འོད་འདོན། (_P)："
+
+msgid "_Polygon"
+msgstr "མཐའ་མང་དབྱིབས། (_P)"
+
+msgid "_PostScript level 2"
+msgstr "PostScript level 2(_P)"
+
+msgid "_Prefixed name:"
+msgstr "སྔོན་འཇུག་གི་མིང་། (_P)："
+
+msgid "_Preserve luminosity"
+msgstr "གསལ་ཚད་རྒྱུན་སྲུང་། (_P)"
+
+msgid "_Presets"
+msgstr "སྔོན་སྒྲིག (_P)"
+
+msgid "_Preview"
+msgstr "སྔོན་ལྟ།(_P)"
+
+msgid "_Preview Once"
+msgstr "སྔོན་ལྟ་ཐེངས་གཅིག (_P)"
+
+msgid "_Preview!"
+msgstr "སྔོན་ལྟ། (_P)"
+
+msgid "_Print..."
+msgstr "པར་འདེབས།(_P)..."
+
+msgid "_Progressive"
+msgstr "རིམ་བགྲོད། (_P)"
+
+msgid "_Prompt for area info"
+msgstr "སྣེ་སྟོན་ཁུལ་ཁོངས་ཀྱི་ཆ་འཕྲིན། (_P)"
+
+msgid "_Propagating rate:"
+msgstr "སྐྱེ་འཕེལ་ཚད། (_P)："
+
+msgid "_Qbist..."
+msgstr " _Qbist…"
+
+msgid "_Quality:"
+msgstr "སྤུས་ཚད།(_Q)："
+
+msgid "_RGB"
+msgstr " _RGB"
+
+msgid "_RGB Noise..."
+msgstr " _RGB འཛེར་སྒྲ།…"
+
+msgid "_RGB color model"
+msgstr "RGB ཚོན་མདོག་རྣམ་པ། (_R)"
+
+msgid "_RLE"
+msgstr "RLE(_R)"
+
+msgid "_RLE compression"
+msgstr "RLE སྡུད་སྒྲིལ། (_R)"
+
+msgid "_Radius 1:"
+msgstr "ཚངས་ཕྱེད་ 1(_R)："
+
+msgid "_Radius:"
+msgstr "ཚངས་ཕྱེད། (_R)："
+
+msgid "_Random hue:"
+msgstr "སྐབས་བསྟུན་ཚོས་གཞི། (_R)："
+
+msgid "_Random seed:"
+msgstr "སྐབས་བསྟུན་གྲངས་ཀྱི་ས་བོན། (_R)："
+
+msgid "_Randomize"
+msgstr "སྐབས་བསྟུན། (_R)"
+
+msgid "_Rays"
+msgstr "འཕྲོ་ཐིག (_R)"
+
+msgid "_Rectangle"
+msgstr "གྲུ་བཞི་ནར་མོ། (_R)"
+
+msgid "_Red Eye Removal..."
+msgstr "མིག་དམར་པོ་འདོར་བ། (_R)…"
+
+msgid "_Red:"
+msgstr "དམར་པོ། (_R)："
+
+msgid "_Redness cr470:"
+msgstr "དམར་པོ་ཧེ་བག cr470(_R)："
+
+msgid "_Redness cr470f:"
+msgstr "དམར་པོའི་ཧེ་བག cr470f(_R)："
+
+msgid "_Redness cr709:"
+msgstr "དམར་པོའི་ཧེ་བག cr709(_R)："
+
+msgid "_Redness cr709f:"
+msgstr "དམར་པོའི་ཧེ་བག cr709f(_R)："
+
+msgid "_Redo %s"
+msgstr "བསྐྱར་བཟོ %s(_R)"
+
+msgid "_Reflective"
+msgstr "ལྡོག་འཕྲོ་ཕྱོད། (_R)"
+
+msgid "_Reload"
+msgstr "བསྐྱར་འགེལ།(_R)"
+
+msgid "_Remove"
+msgstr "སྤོ་བ།（R)"
+
+msgid "_Remove Backdrop"
+msgstr "རྒྱབ་ལྗོངས་འདོར་བ། (_R)"
+
+msgid "_Rendering"
+msgstr "སྒྲོ་འདོགས། (_R)"
+
+msgid "_Rendering Intent:"
+msgstr "བསམ་དོན་སྒྲོ་འདོགས། (_R)："
+
+msgid "_Replace the delay of all frames even if it is specified."
+msgstr "ལྷེབ་མའི་ཕྱི་འགྱངས་དམིགས་འཛུགས་བྱས་ཡོད་ཀྱང་ཚང་མ་བརྗེ་བ། (_R)"
+
+msgid "_Replace the size of all frames even if it is specified."
+msgstr "ལྷེབ་མའི་ཆེ་ཆུང་དམིགས་འཛུགས་བྱས་ཡོད་ཀྱང་ཚང་མ་བརྗེ་བ། (_R)"
+
+msgid "_Require default URL"
+msgstr "རེ་བར་སོར་བཞག URL(_R)"
+
+msgid "_Resolution:"
+msgstr "འབྱེད་ཕྱོད། (_R)："
+
+msgid "_Retain tilability"
+msgstr "སྙོམས་འདིང་ཆོག་པ་རྒྱུན་སྲུང་། (_R)"
+
+msgid "_Right"
+msgstr "གཡས། (_R)"
+
+msgid "_Right border"
+msgstr "གཡས་མཐའ་མཚམས། (_R)"
+
+msgid "_Right:"
+msgstr "གཡས། (_R)："
+
+msgid "_Ripple..."
+msgstr "རླབས་རིས། (_R)…"
+
+msgid "_Rotate Colors..."
+msgstr "འཁྱིལ་འཁོར་ཁ་དོག (_R)…"
+
+msgid "_Rotated"
+msgstr "འཁྱིལ་འཁོར། (_R)"
+
+msgid "_Run-Length Encoded"
+msgstr "བགྲོད་ལམ་རིང་ཚད་ཀྱི་སྒྲིག་ཨང་། (_R)"
+
+msgid "_Sample Colorize..."
+msgstr "མ་དཔེ་ཚོན་འབྱུག (_S)…"
+
+msgid "_Saturation"
+msgstr "ཚད་ལོངས་ཚད། (_S)"
+
+msgid "_Saturation:"
+msgstr "ཚད་ལོངས་ཚད། (_S)："
+
+msgid "_Save comment to file"
+msgstr "མཆན་འགྲེལ་དེ་ཡིག་ཆར་ཉར་ཚགས་བྱེད་པ། (_S)"
+
+msgid "_Save..."
+msgstr "ཉར་ཚགས། (_S)…"
+
+msgid "_Scale:"
+msgstr "ཚད་གཞི། (_S)："
+
+msgid "_Scanner/Camera..."
+msgstr "བཤར་འབེབས་ཆས / པར་ཆས། (_S)…"
+
+msgid "_Screen Shot..."
+msgstr "བརྙན་ཡོལ་བཅད་རིས། (_S)…"
+
+msgid "_Screenshot..."
+msgstr "བརྙན་ཡོལ་བཅད་རིས། (_S)…"
+
+msgid "_Search depth:"
+msgstr "བཤེར་འཚོལ་ཟབ་ཚད། (_S)："
+
+msgid "_Second Flares"
+msgstr "ཐེངས་གཉིས་ཀྱི་འོད་འཁྱུག (_S)"
+
+msgid "_Selective Gaussian Blur..."
+msgstr "འདེམ་གསེས་རང་བཞིན་གྱི་ཀོ་སིན་རབ་རིབ། (_S)…"
+
+msgid "_Semi-Flatten"
+msgstr "ཕྱེད་སྙོམས། (_S)"
+
+msgid "_Send"
+msgstr "སྐྱེལ་བ།(_S)"
+
+msgid "_Set surroundings to background color"
+msgstr "ཁོར་ཡུག་དེ་རྒྱབ་ལྗོངས་ཁ་དོག་ལ་སྒྲིག་འགོད་བྱེད་པ། (_S)"
+
+msgid "_Set surroundings to index 0"
+msgstr "ཁོར་ཡུག་དེ་གསལ་བྱང་ལ་སྒྲིག་འགོད་བྱེད་པ 0(_S)"
+
+msgid "_Settings"
+msgstr "སྒྲིག་འགོད། (S)"
+
+msgid "_Shade under curl"
+msgstr "གུག་འཁྱོག་མཚམས་སུ་གྲིབ་ནག་ཡོད་པ། (_S)"
+
+msgid "_Sharpen..."
+msgstr "རྣོ་འགྱུར། (_S)…"
+
+msgid "_Sharpness:"
+msgstr "སྐྱེན་ཚད། (_S)："
+
+msgid "_Shift..."
+msgstr "འདྲེད་སྤོ། (_S)…"
+
+msgid "_Shiny:"
+msgstr "འོད་མཐོ་གསལ་ཚད། (_S)："
+
+msgid "_Sinus..."
+msgstr "དྲང་རྒྱུད། (_S)…"
+
+msgid "_Size"
+msgstr "ཆེ་ཆུང་། (_S)"
+
+msgid "_Size:"
+msgstr "ཆེ་ཆུང་།(_S)："
+
+msgid "_Slur..."
+msgstr "འཁྲུས། (_S)…"
+
+msgid "_Small Tiles..."
+msgstr "རྡོག་ཆུང་སྙོམས་འདིང་། (_S)…"
+
+msgid "_Smear"
+msgstr "འབྱུག་པ། (_S)"
+
+msgid "_Snap-to grid enabled"
+msgstr "དྲ་མིག་ལ་འཇིབ་འབྱར་སྤྱོད་ཟིན་པ། (_S)"
+
+msgid "_Sobel..."
+msgstr " _Sobel…"
+
+msgid "_Softglow..."
+msgstr "འཇམ་འོད། (_S)…"
+
+msgid "_Solid Noise..."
+msgstr "མདོག་གཅིག་པའི་འཛེར་སྒྲ། (_S)…"
+
+msgid "_Sparkle..."
+msgstr "མེ་སྟག (_S)…"
+
+msgid "_Speed:"
+msgstr "མྱུར་ཚད།（S）"
+
+msgid "_Spike length:"
+msgstr "སྙེ་མའི་རིང་ཚད། (_S)："
+
+msgid "_Spokes:"
+msgstr "རྩིབས་མ། (_S)："
+
+msgid "_Spot function:"
+msgstr "ཚེག་གི་དབྱིབས། (_S)："
+
+msgid "_Square"
+msgstr "གྲུ་བཞི། (_S)"
+
+msgid "_Staggered"
+msgstr "དྲ་མིག (_S)"
+
+msgid "_Step"
+msgstr "གོམ་རྐྱང་། (_S)"
+
+msgid "_Stop"
+msgstr "མཚམས་འཇོག (_S)"
+
+msgid "_Strength:"
+msgstr "ཤུགས་ཚད། (_S)："
+
+msgid "_Stretch Contrast"
+msgstr "འཐེན་རྐྱོང་སྡུར་ཚད། (_S)"
+
+msgid "_Stroke"
+msgstr "བྲིས། (_S)"
+
+msgid "_Swap Colors"
+msgstr "ཁ་དོག་བརྗེ་རེས། (_S)"
+
+msgid "_Symbol:"
+msgstr "རྟགས། (_S)："
+
+msgid "_Target frame name/ID: (optional - used for FRAMES only)"
+msgstr ""
+"དམིགས་འབེན་ལྡེབ་སྒྲོམ་མིང /ID(_T)：( འདེམས་རུང - ལྡེབ་སྒྲོམ་ཁོ་ནར་སྤྱོད་པ )"
+
+msgid "_Thickness:"
+msgstr "ཞེང་ཚད། (_T)："
+
+msgid "_Threshold"
+msgstr "མཚམས་ཐང་། (_T)"
+
+msgid "_Threshold Alpha..."
+msgstr "Alpha མཚམས་ཐང་། (_T)…"
+
+msgid "_Threshold:"
+msgstr "མཚམས་ཐང་། (_T)："
+
+msgid "_Tile bumpmap"
+msgstr "ཀོང་འབུར་སྦྱར་རིས་སྙོམས་འདིང་། (_T)"
+
+msgid "_Tile size:"
+msgstr "གྲུ་བཞིའི་ཆེ་ཆུང་། (_T)："
+
+msgid "_Tile..."
+msgstr "སྙོམས་འདིང་། (_T)…"
+
+msgid "_Tiling primitives:"
+msgstr "རིས་རྒྱུ་སྙོམས་འདིང་། (_T)："
+
+msgid "_Title:"
+msgstr "ཁ་བྱང་།(_T)：\""
+
+msgid "_Tools"
+msgstr " ལག་ཆ།(_T)"
+
+msgid "_Top start at:"
+msgstr "རྩེ་སྣེ་འགོ་རྩོམ་ས། (_T)："
+
+msgid "_Top-right"
+msgstr "གཡས་སྟེང་། (_T)"
+
+msgid "_Top:"
+msgstr "སྟེང་། (_T)："
+
+msgid "_Transparent"
+msgstr "ནང་གསལ། (_T)"
+
+msgid "_URL to activate when this area is clicked: (required)"
+msgstr "ཁུལ་ཁོངས་འདི་གནོན་སྐབས་སྐུལ་སློང་བྱས་པ URL(_U)：( དགོས་པ )"
+
+msgid "_Undo"
+msgstr "འདོར་བ།(_U)"
+
+msgid "_Undo %s"
+msgstr "འདོར་བ་ %s(_U)"
+
+msgid "_Unoptimize"
+msgstr "ལྡོག་ལེགས་སྒྱུར། (_U)"
+
+msgid "_Unsharp Mask..."
+msgstr "ཟོལ་འོད་སོག་ལེབ། (_U)…"
+
+msgid "_Update"
+msgstr "གསར་སྒྱུར། (_U)"
+
+msgid "_Upper"
+msgstr "གོང་ཁུལ། (_U)"
+
+msgid "_Upper border"
+msgstr "གོང་མཐའ་མཚམས། (_U)"
+
+msgid "_Upper threshold:"
+msgstr "མཐོ་སྣེའི་མཚམས་ཐང་། (_U)："
+
+msgid "_Use GLib types (guint8*)"
+msgstr "GLib ཡི་རིགས་གྲས་སྤྱོད་པ། (guint8*)(_U)"
+
+msgid "_Use background color"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་སྤྱོད་པ། (_U)"
+
+msgid "_Use cellspan"
+msgstr "cellspan སྤྱོད་པ། (_U)"
+
+msgid "_Use double-sized grab handles"
+msgstr "ལྡབ་གཉིས་ཆེ་ཆུང་གི་ཡུ་བ་སྤྱོད་པ། (_U)"
+
+msgid "_Use intensity algorithm"
+msgstr "དྲག་ཚད་རྩི་ཐབས་སྤྱོད་པ། (_U)"
+
+msgid "_Use quality settings from original image"
+msgstr "གདོད་བརྙན་རིས་ཀྱི་རྒྱུ་སྤུས་སྒྲིག་པ་སྤྱོད་པ། (_U)\""
+
+msgid "_Use the (invisible) bottom layer as the base"
+msgstr "( མཐོང་རུང་མིན་པ )མཐིལ་ངོས་རིས་རིམ་དེ་གཞི་ཚད་ལ་རྩིས་ནས་སྤྱོད་པ། (_U)"
+
+msgid "_Use this value only for a frame which delay is not specified."
+msgstr ""
+"གྲངས་བྲིན་འདི་དམིགས་འཛུགས་བྱས་མེད་པའི་ཕྱི་འགྱངས་ཀྱི་ལྷེབ་མ་ཁོ་ནར་སྤྱོད་པ། "
+"(_U)"
+
+msgid "_Use this value only for a frame which size is not specified."
+msgstr ""
+"གྲངས་བྲིན་འདི་དམིགས་འཛུགས་བྱས་མེད་པའི་ཆེ་ཆུང་གི་ལྷེབ་མ་ཁོ་ནར་སྤྱོད་པ་ཡིན། "
+"(_U)"
+
+msgid "_Value"
+msgstr "གསལ་ཚད། (_V)"
+
+msgid "_Value Invert"
+msgstr "གསལ་ཚད་ལྡོག་འཁོར། (_V)"
+
+msgid "_Value Propagate..."
+msgstr "ཁ་དོག་སྐྱེ་འཕེལ། (_V)…"
+
+msgid "_Value:"
+msgstr "གསལ་ཚད། (_V)："
+
+msgid "_Van Gogh (LIC)..."
+msgstr "ཧྥན་ཀའོ། (LIC)(_V)…"
+
+msgid "_Variation:"
+msgstr "འགྱུར་ལྡོག (_V)："
+
+msgid "_Vert. spacing:"
+msgstr "དྲང་འཕྱང་བར་ཐག (_V)："
+
+msgid "_Vertical"
+msgstr "དྲང་འཕྱང་། (_V)"
+
+msgid "_Vertical style:"
+msgstr "དྲང་འཕྱང་ཁ་ཕྱོགས་ཀྱི་བཟོ་ཉམས། (_V)："
+
+msgid "_Vertical:"
+msgstr "དྲང་འཕྱང་། (_V)："
+
+msgid "_View"
+msgstr "ལྟ་ཞིབ། (_V)"
+
+msgid "_Warp..."
+msgstr "འཁྱོག་པ། (_W)…"
+
+msgid "_Waterlevel:"
+msgstr "ཆུ་སྙོམས། (_W)："
+
+msgid "_Wavelength:"
+msgstr "རླབས་ཐག (_W)："
+
+msgid "_Waves..."
+msgstr "རླབས། (_W)…"
+
+msgid "_Web Site"
+msgstr "Web ས་ཚུགས། (_W)"
+
+msgid "_Whirl"
+msgstr "འཁྱིལ་འཁོར། (_W)"
+
+msgid "_Whirl angle:"
+msgstr "འཁྱིལ་འཁོར་ཟུར་ཚད། (_W)："
+
+msgid "_White"
+msgstr "དཀར་པོ། (_W)"
+
+msgid "_White level:"
+msgstr "དཀར་པོ་ཆུ་སྙོམས། (_W)："
+
+msgid "_Wide-striped"
+msgstr "ཤར་རིས་ཡངས་པོ། (_W)"
+
+msgid "_Width"
+msgstr "ཞེང་ཚད། (_W)"
+
+msgid "_Width (pixels):"
+msgstr "ཞེང་ཚད། ( བརྙན་རྒྱུ )(_W)："
+
+msgid "_Width:"
+msgstr "ཞེང་ཚད་(_W)："
+
+msgid "_Wind"
+msgstr "རླུང་། (_W)"
+
+msgid "_With white noise"
+msgstr "དང་དཀར་པོ་འཛེར་སྒྲ། (_W)"
+
+msgid "_Wrap"
+msgstr "གདུབ་འཁྱིལ། (_W)"
+
+msgid "_Write hot spot values"
+msgstr "སྐམ་ཚེག་གི་གནས་ཚད་འབྲི་བ། (_W)"
+
+msgid "_X displacement"
+msgstr "X གནས་སྤོ། (_X)"
+
+msgid "_X displacement:"
+msgstr "X གནས་སྤོ། (_X)："
+
+msgid "_X offset:"
+msgstr "X གནས་སྤོ། (_X)："
+
+msgid "_X ratio:"
+msgstr "X བསྡུར་ཕྱོད། (_X)："
+
+msgid "_X resolution:"
+msgstr " _X འབྱེད་ཕྱོད།："
+
+msgid "_X scale:"
+msgstr "X སྐྱེད་སྐྱུང་། (_X)："
+
+msgid "_X shift:"
+msgstr " _X ཡོ་སྤོ།:"
+
+msgid "_X size:"
+msgstr " _X ཆེ་ཆུང་།:"
+
+msgid "_X10 format bitmap"
+msgstr "X10 ཡི་རྣམ་གཞག་གནས་རིས། (_X)"
+
+msgid "_X:"
+msgstr " _X："
+
+msgid "_Y displacement"
+msgstr "Y གནས་སྤོ། (_Y)"
+
+msgid "_Y displacement:"
+msgstr "Y གནས་སྤོ། (_Y)："
+
+msgid "_Y offset:"
+msgstr "Y གནས་སྤོ། (_Y)："
+
+msgid "_Y ratio:"
+msgstr "Y བསྡུར་ཕྱོད། (_Y)："
+
+msgid "_Y resolution:"
+msgstr " _Y འབྱེད་ཕྱོད།："
+
+msgid "_Y scale:"
+msgstr "Y སྐྱེད་སྐྱུང་། (_Y)："
+
+msgid "_Y shift:"
+msgstr " _Y ཡོ་སྤོ།:"
+
+msgid "_Y size:"
+msgstr " _Y ཆེ་ཆུང་།:"
+
+msgid "_Y:"
+msgstr " _Y："
+
+msgid "_Yellow"
+msgstr "སེར་པོ། (_Y)"
+
+msgid "_Yellow:"
+msgstr "སེར་པོ། (_Y)："
+
+msgid "_Z:"
+msgstr " _Z："
+
+msgid "_Zealous Crop"
+msgstr "ཧུར་བརྩོན་གྱིས་དྲས་གཏུབ། (_Z)"
+
+msgid "_Zoom"
+msgstr "སྐྱེད་སྐྱུང་། (_Z)"
+
+msgid "_Zoom To"
+msgstr "ལ་སྐྱེད་སྐྱུང་། (_Z)"
+
+msgid "_Zoom:"
+msgstr "སྐྱེད་སྐྱུང་། (_Z)："
+
+msgid "`Default' is created."
+msgstr "“སོར་བཞག” བཟོས་ཟིན་པ།"
+
+msgid "after"
+msgstr "དེའི་རྗེས།"
+
+msgid "alpha"
+msgstr "Alpha"
+
+msgid "autostretch_hsv: cmap was NULL!  Quitting...\n"
+msgstr "autostretch_hsv：cmap ནི་སྟོང་པ་ཡིན། ཕྱིར་འཐེན། \n"
+
+msgid "black"
+msgstr "ནག་པོ།"
+
+msgid "blue"
+msgstr "སྔོན་པོ།"
+
+msgid "blueness-cb470"
+msgstr "སྔོན་པོའི་ཧེ་བག -cb470"
+
+msgid "blueness-cb470f"
+msgstr "སྔོན་པོའི་ཧེ་བག -cb470f"
+
+msgid "blueness-cb709"
+msgstr "སྔོན་པོའི་ཧེ་བག -cb709"
+
+msgid "blueness-cb709f"
+msgstr "སྔོན་པོའི་ཧེ་བག -cb709f"
+
+msgid "_Linear"
+msgstr "ཐིག་གཤིས། (_L)"
+
+msgid "_Radial"
+msgstr "ཕྱོགས་སྒྱུར། (_R)"
+
+msgid "_Zoom"
+msgstr "སྐྱེད་སྐྱུང་། (_Z)"
+
+msgid "bzip archive"
+msgstr "bzip ཡིག་ཚགས།"
+
+msgid "c_astretch: cmap was NULL!  Quitting...\n"
+msgstr "c_astretch：cmap ནི་སྟོང་པ་ཡིན། ཕྱིར་འཐེན། \n"
+
+msgid "Snap to grid"
+msgstr "དྲ་མིག་ལ་འཇིབ་འབྱར།"
+
+msgid "From:"
+msgstr "གཏོང་མཁན།"
+
+msgid "To:"
+msgstr "འབྱོར་མཁན།"
+
+msgid "From:"
+msgstr "གཏོང་མཁན།"
+
+msgid "To:"
+msgstr "འབྱོར་མཁན།"
+
+msgid "From:"
+msgstr "གཏོང་མཁན།"
+
+msgid "cyan"
+msgstr "སྔོན་པོ།"
+
+msgid "cyan-k"
+msgstr "སྔོ་ནག -k"
+
+msgid "e-_mail"
+msgstr "གློག་རྡུལ་ཡིག་ཟམ། (_M)"
+
+msgid "_From:"
+msgstr "ཡིག་གཏོང་མཁན།:"
+
+msgid "_To:"
+msgstr "ལ། (_T)："
+
+msgid "From:"
+msgstr "གཏོང་མཁན།"
+
+msgid "To:"
+msgstr "འབྱོར་མཁན།"
+
+msgid "green"
+msgstr "ལྗང་མདོག"
+
+msgid "gzip archive"
+msgstr "gzip ཡིག་ཚགས།"
+
+msgid "hue"
+msgstr "ཚོས་གཞི།"
+
+msgid "hue_l"
+msgstr "ཚོས་གཞི། _l"
+
+msgid "invalid formatted GFlare file: %s\n"
+msgstr "ནུས་མེད་ཀྱི་རིམ་འགྱུར་གྱི་འོད་འཁྱུག་ཡིག་ཆའི་རྣམ་གཞག།：%s\n"
+
+msgid "k(1-x^p)"
+msgstr "k(1-x^p)"
+
+msgid "k(1-x^p) stepped"
+msgstr "k(1-x^p) མཆོང་ཐེམ།"
+
+msgid "kx^p"
+msgstr "kx^p"
+
+msgid "kx^p stepped"
+msgstr "kx^p མཆོང་ཐེམ།"
+
+msgid "k{x(1-x)}^p"
+msgstr "k{x(1-x)}^p"
+
+msgid "k{x(1-x)}^p stepped"
+msgstr "k{x(1-x)}^p མཆོང་ཐེམ།"
+
+msgid "lightness"
+msgstr "གསལ་ཚད།"
+
+msgid "luma-y470"
+msgstr "གསལ་ཚད་ -y470"
+
+msgid "luma-y470f"
+msgstr "གསལ་ཚད་ -y470f"
+
+msgid "luma-y709"
+msgstr "གསལ་ཚད་ -y709"
+
+msgid "luma-y709f"
+msgstr "གསལ་ཚད་ -y709f"
+
+msgid "magenta"
+msgstr "ཟིང་དམར།"
+
+msgid "magenta-k"
+msgstr "དམར་པོ། -k"
+
+msgid "milliseconds"
+msgstr "ཧའོ་སྐར་ཆ།"
+
+msgid "not found %s in gflares_list"
+msgstr "gflares_list ཡི་ནང %s རྙེད་མེད་པ།"
+
+msgid "pixels"
+msgstr "བརྙན་རྒྱུ།"
+
+msgid "pixels from _top"
+msgstr "རྩེ་སྣེའི་བརྙན་རྒྱུ། (_T)"
+
+msgid "pixels from l_eft"
+msgstr "གཡོན་སྣེའི་བརྙན་རྒྱུ། (_E)"
+
+msgid "pixels/%a"
+msgstr "བརྙན་རྒྱུ /%a"
+
+msgid "red"
+msgstr "དམར་པོ།"
+
+msgid "redness-cr470"
+msgstr "དམར་པོའི་ཧེ་བག -cr470"
+
+msgid "redness-cr470f"
+msgstr "དམར་པོའི་ཧེ་བག -cr470f"
+
+msgid "redness-cr709"
+msgstr "དམར་པོའི་ཧེ་བག -cr709"
+
+msgid "redness-cr709f"
+msgstr "དམར་པོའི་ཧེ་བག -cr709f"
+
+msgid "saturation"
+msgstr "ཚད་ལོངས་ཚད།"
+
+msgid "saturation_l"
+msgstr "ཚད་ལོངས་ཚད། _l"
+
+msgid "_Next"
+msgstr "གཞས་ངོས་རྗེས་མ།(_N)"
+
+msgid "seconds"
+msgstr "སྐར་ཆ།"
+
+msgid "sin^p, stepped"
+msgstr "sin^p，མཆོང་ཐེམ།"
+
+msgid "sin^p-based function"
+msgstr "sin^p ཡི་རྟེན་འབྱུང་གྲངས་གཞིར་བཟུང་བ། "
+
+msgid "some sort of error with the file extension or lack thereof"
+msgstr "ཡིག་ཆའི་རྒྱ་སྐྱེད་མིང་ཆད་པའམ་ཡང་ན་ནོར་འཁྲུལ་ཞིག་ཡོད་པ།"
+
+msgid "there is no image chunk in \"%s\"."
+msgstr "“%s” ཡི་ནང་བརྙན་རིས་དུམ་བུ་མེད་པ།"
+
+msgid "to alpha"
+msgstr "Alpha ལ།"
+
+msgid "value"
+msgstr "གསལ་ཚད།"
+
+msgid "wget exited abnormally on URI '%s'"
+msgstr "wget དེ URI “%s” ཡི་སྟེང་རྒྱུན་འགལ་ཕྱིར་འཐེན་བྱས་པ།"
+
+msgid "x (pixels)"
+msgstr "X( བརྙན་རྒྱུ )"
+
+msgid "y (pixels)"
+msgstr "Y( བརྙན་རྒྱུ )"
+
+msgid "yellow"
+msgstr "སེར་པོ།"
+
+msgid "yellow-k"
+msgstr "སེར་པོ། -k"

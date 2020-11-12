@@ -1,0 +1,906 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%sB more disk space will be used."
+msgstr "%sB ཡི་སྡུད་སྡེར་བར་སྟོང་མང་གཅོད་བྱེད།"
+
+msgid "%sB of disk space will be freed."
+msgstr " %sB སྡུད་སྡེར་བར་སྟོང་ལྷོད།"
+
+msgid "%sB will be downloaded in total."
+msgstr "བསྡོམས་ན%sBཕབ་འཇུག་བྱེད།"
+
+msgid "Add a new repository and install packages from it"
+msgstr ""
+" མཉེན་ཆས་ཁུངས་གསར་པ་ཞིག་བསྣན་པ་དང་དེ་ལས་མཉེན་ཆས་ཐུམ་ཞིག་སྒྲིག་འཇུག་བྱེད།"
+
+msgid ""
+"Add a new repository of purchased software and install packages from it"
+msgstr ""
+"རིན་སྤྲོད་མཉེན་ཆས་ཁུངས་ཤིག་བསྣན་པ་དང་དེ་ལས་མཉེན་ཆས་ཐུམ་ཞིག་སྒྲིག་འཇུག་བྱེད།"
+
+msgid "Add new repository from the given deb-line"
+msgstr "བྱིན་པའི་ཕྲེང་ deb རུ་མཉེན་ཆས་ཁུངས་ཤིག་སྣོན།"
+
+msgid "Add the vendor keyid (also needs --keyserver)"
+msgstr "བཟོ་མཁན་གྱི་གསང་ཨང་ལྡེ་མིག་སྣོན། (དུས་མཚུངས་སུ --keyserverདགོས།)"
+
+msgid "Add the vendor to the trusted ones"
+msgstr "བཟོ་མཁན་འདི་ལ་ཡིད་ཆེས།"
+
+msgid "Added key from file"
+msgstr "ཡིག་ཆ་ལས་གསང་ལྡེ་བསྣན།"
+
+msgid "Added software source"
+msgstr "མཉེན་ཆས་ཁུངས་བསྣན།"
+
+msgid "Adding key from file"
+msgstr "ཡིག་ཆ་ལས་གསང་ལྡེ་སྣོན་པ།"
+
+msgid "Adding license key"
+msgstr "ཆོག་མཆན་གསང་ལྡེ་སྣོན་པ།"
+
+msgid "Adding software source"
+msgstr " མཉེན་ཆས་ཁུངས་སྣོན་པ།"
+
+msgid "Adding software source failed"
+msgstr "མཉེན་ཆས་ཁུངས་སྣོན་པ་ཕམ་པ།"
+
+msgid "Additional changes are required"
+msgstr "བཟོ་བཅོས་གཞན་དག་བྱ་དགོས།"
+
+msgid "Additional software has to be downgraded"
+msgstr "མཉེན་ཆས་གཞན་དག་རིམ་འབེབས་དགོས།"
+
+msgid "Additional software has to be installed"
+msgstr "མཉེན་ཆས་གཞན་དག་སྒྲིག་འཇུག་བྱ་དགོས།"
+
+msgid "Additional software has to be purged"
+msgstr "མཉེན་ཆས་གཞན་དག་གཙང་སེལ་བྱ་དགོས།"
+
+msgid "Additional software has to be re-installed"
+msgstr "མཉེན་ཆས་གཞན་དག་ཡང་བསྐྱར་སྒྲིག་འཇུག་བྱ་དགོས།"
+
+msgid "Additional software has to be removed"
+msgstr "མཉེན་ཆས་གཞན་དག་འདོར་དགོས།"
+
+msgid "Additional software has to be upgraded"
+msgstr "མཉེན་ཆས་གཞན་དག་རིམ་སྤེར་དགོས།"
+
+msgid "After this operation, %sB of additional disk space will be freed."
+msgstr "ལག་བསྟར་འདི་བྱས་རྗེས། སྡུད་སྡེར་བར་སྟོང་%sB ལྷོད་པ།"
+
+msgid "After this operation, %sB of additional disk space will be used."
+msgstr "ལག་བསྟར་འདི་བྱས་རྗེས། སྡུད་སྡེར་བར་སྟོང་ %sB སྤྱོད་པ་ཡིན།"
+
+msgid "All available upgrades have already been installed."
+msgstr "སྤྱོད་རུང་གསར་སྒྱུར་ཚང་མ་སྒྲིག་འཇུག་བྱས་ཚར།"
+
+msgid "Allow packages from unauthenticated sources"
+msgstr "ཡོང་ཁུངས་དཔང་མི་ཐུབ་པའི་མཉེན་ཆས་ཐུམ་ཆོག་པ་ཡིན།"
+
+msgid "An unhandlable error occured"
+msgstr "སྒྲིག་གཅོད་བྱ་མི་ཐུབ་པའི་ནོར་འཁྲུལ་ཞིག་བྱུང་།"
+
+msgid "Applied changes"
+msgstr "ཉེར་སྤྱོད་ཀྱི་བཅོས་བསྒྱུར།"
+
+msgid "Applying changes"
+msgstr "བཟོ་བཅོས་ཉེར་སྤྱོད་བྱེད་བཞིན་པ།"
+
+msgid "Applying software changes failed"
+msgstr "ཉེར་སྤྱོད་སྒྱུར་པ་ཕམ་པ།"
+
+msgid "Authentication failed"
+msgstr "ར་སྤྲོད་ཕམ་པ།"
+
+msgid "Available packages from %s"
+msgstr " %sལས་མཉེན་ཆས་ཐུབ་ཐོབ་པ།"
+
+msgid "Available sources from %s"
+msgstr " %sནས་ཁུངས་ཨང་ཐོབ་པ།"
+
+msgid "Available translations from %s"
+msgstr " %sལས་ཡིག་སྒྱུར་ཐོབ་པ།"
+
+msgid "CD/DVD '%s' is required"
+msgstr "འོད་སྡེར་“%s”དགོས།"
+
+msgid "C_ontinue"
+msgstr "མུ་མཐུད།(_O)"
+
+msgid "Cancel the task of another user"
+msgstr "སྤྱོད་མཁན་གཞན་ཞིག་གི་ལས་འགན་ལེན་པ།"
+
+msgid "Canceled"
+msgstr " དོར་བ།"
+
+msgid "Cancelling"
+msgstr "དོར་བཞིན་པ།"
+
+msgid "Change software configuration"
+msgstr "མཉེན་ཆས་སྒྲིག་འགོད་བཅོས་པ།"
+
+msgid "Change software repository"
+msgstr "མཉེན་ཆས་ཁུངས་བཅོས་པ།"
+
+msgid ""
+"Check the spelling of the package name, and that the appropriate repository "
+"is enabled."
+msgstr ""
+"ཐུམ་མིང་འབྲི་ཚུལ་ཡང་ཡིན་མིན་དང་། འབྲེལ་བའི་མཛོད་སྤྱོད་ཡོད་མིན་ཞིབ་བཤེར་བྱེད།"
+
+msgid "Check your Internet connection."
+msgstr "ཁྱེད་ཀྱི་དྲ་བའི་འབྲེལ་མཐུད་ལ་ཞིབ་བཤེར་བྱོས།"
+
+msgid "Cleaning up"
+msgstr "གཙང་བཤེར་བྱེད་པ།"
+
+msgid "Completely removed %s"
+msgstr "%sབསུབས་པ།"
+
+msgid "Completely removing %s"
+msgstr "%sཡོངས་སུ་བསུབ་བཞིན་པ།"
+
+msgid "Configuring %s"
+msgstr " %sསྡེབ་སྒྲིག་བྱེད།"
+
+msgid "Deprecated: Please use --safe-upgrade"
+msgstr "འོས་སྦྱོར་མིན་པ།  --safe-upgradeསྤྱོད།"
+
+msgid "Description of %s"
+msgstr "%s ཡི་ཞིབ་བརྗོད།"
+
+msgid "Description signature of %s"
+msgstr "%sཡི་ཞིབ་བརྗོད་མཚན་ཐོ།"
+
+msgid "Details"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
+
+msgid "Do not attach to the apt terminal"
+msgstr " མཐའ་སྣེ་apt རུ་ཟུར་སྣོན་བྱེད།"
+
+msgid "Do not load any plugins"
+msgstr "བསྒར་ལྷུ་གང་རུང་ཡང་སྣོན་མི་དགོས།"
+
+msgid "Do not make any changes to the system (Only of use to developers)"
+msgstr "རྒྱུད་ཁོངས་ལ་བཟོ་བཅོས་གཅིག་ཀྱང་མ་བྱེད། (འདོན་མཁན་ཁོ་ནས་བཀོལ།)"
+
+msgid "Do not shutdown the daemon because of inactivity"
+msgstr "མི་འགུལ་སྐབས་སུ་རྒྱབ་སྟེགས་བྱ་རིམ་ཁ་མི་རྒྱག"
+
+msgid "Do you want to continue [Y/n]?"
+msgstr "ཁྱེད་ཀྱིས་མུ་མཐུད་བྱེད་དགོས་སམ། [Y/n]"
+
+msgid "Done"
+msgstr "ལེགས་གྲུབ།"
+
+msgid "Downgrade"
+msgstr "རིམ་འབེབས།"
+
+msgid "Downgrade the given packages"
+msgstr "མིག་སྔའི་མཉེན་ཆས་དུམ་རིམ་འབེབས།"
+
+msgid "Downloaded"
+msgstr "ཕབ་ལེན་བྱས་ཟིན།"
+
+msgid "Downloaded %sB"
+msgstr " %sBཕབ་ཟིན།"
+
+msgid "Downloaded %sB of %sB"
+msgstr " %sBཕབ་ཟིན། སྤྱིར་དུ %sB"
+
+msgid "Downloaded %sB of %sB at %sB/s"
+msgstr " %sB / %sBཕབ་ཟིན། མྱུར་ཚད་%sB/s"
+
+msgid "Downloading"
+msgstr "ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Downloading %(files)s"
+msgid_plural "Downloading %(files)s"
+msgstr[0] "འབེབས་པ %(files)s"
+msgstr[1] "འབེབས་པ %(files)s"
+
+msgid "Downloading from %s"
+msgid_plural "Downloading from %s"
+msgstr[0] " %sལས་འབེབས་པ།"
+msgstr[1] " %sལས་འབེབས་པ།"
+
+msgid "ERROR"
+msgstr " ནོར་འཁྲུལ།"
+
+msgid "ERROR:"
+msgstr "ནོར་འཁྲུལ།："
+
+msgid "Enabled component of the distribution"
+msgstr "འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་བཀོལ་བ།"
+
+msgid "Enabling component of the distribution"
+msgstr "འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་བཀོལ་བཞིན་བ།"
+
+msgid "Enabling component of the distribution failed"
+msgstr "འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་བཀོལ་བ་ཕམ་པ།"
+
+msgid "Failed"
+msgstr " ཕམ་པ།"
+
+msgid "Failed to download package files"
+msgstr "མཉེན་ཆས་ཐུབ་ཡིག་ཆ་ཕབ་པ་ཕམ་པ།"
+
+msgid "Failed to download repository information"
+msgstr "མཉེན་ཆས་མཛོད་ཆ་འཕྲིན་ཕབ་པ་ཕམ་པ།"
+
+msgid "Failed to download the license key"
+msgstr "ཆོག་འཐུས་གསང་ལྡེ་ཕབ་མི་ཐུབ།"
+
+msgid "Failed to install the license key"
+msgstr "ཆོག་འཐུས་གསང་ལྡེ་སྒྲིག་འཇུག་བྱ་མི་ཐུབ།"
+
+msgid "Failed to load the package list"
+msgstr "མཉེན་ཆས་ཐུམ་རེའུ་མིག་འཇུག་པ་ཕམ་པ།"
+
+msgid "Failed to lock the package manager"
+msgstr "མཉེན་ཆས་ཐུམ་དོ་དམ་སྒྲོག་པ་ཕམ་པ།"
+
+msgid "Failed to remove essential system package"
+msgstr "རྒྱུད་ཁོངས་དགོས་ངེས་མཉེན་ཆས་ཐུམ་སྤོ་བ་ཕམ་པ།"
+
+msgid "Failed to write key file to: %s"
+msgstr "གསང་ལྡེ་ཡིག་ཆ་%sརུ་འབྲི་མི་ཐུབ།"
+
+msgid "Fetching"
+msgstr "ཐོབ་པ།"
+
+msgid "File"
+msgstr "ཡིག་ཆ།"
+
+msgid "Finished"
+msgstr "ལེགས་གྲུབ།"
+
+msgid "Idle"
+msgstr "ཁོམ་པ།"
+
+msgid ""
+"If you don't know why the file is there already, it is usually safe to "
+"replace it."
+msgstr ""
+"གལ་ཏེ་ཁྱོད་ཀྱིས་ཡིག་ཆ་འདི་ཅིའི་ཕྱིར་གནས་པ་མ་ཤེས་ན།དེ་ནི་རྒྱུན་པར་བདེ་འཇགས་ཡིན།"
+" "
+
+msgid "Install"
+msgstr "སྒྲིག་འཇུག"
+
+msgid "Install or remove packages"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་ཡང་ན་བཤིག་འདོན།"
+
+msgid "Install package file"
+msgstr "མཉེན་ཆས་ཐུམ་བུའི་ཡིག་ཆ་སྒྲིག་འཇུག་བྱེད་དམ།"
+
+msgid "Install software from a high-trust whitelisted repository."
+msgstr "ཡིད་ཤིན་ཏུ་ཆེས་པའི་མིང་དཀར་མཉེན་ཆས་མཛོད་ལས་མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད།"
+
+msgid "Install the given packages"
+msgstr "མཁོ་སྤྲད་པའི་མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱེད།"
+
+msgid "Installation of software failed"
+msgstr "མཉེན་ཆས་སྒྲིག་འཇུག་ཕམ་པ།"
+
+msgid "Installation of the package file failed"
+msgstr "ཐུམ་ཡིག་ཆ་སྒྲིག་འཇུག་ཕམ་པ།"
+
+msgid "Installed %s"
+msgstr "%s སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Installed file"
+msgstr "སྒྲིག་འཇུག་ཡིག་ཆ།"
+
+msgid "Installed packages"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Installing %s"
+msgstr "སྒྲིག་འཇུག་བྱེད་བཞིན་པ %s"
+
+msgid "Installing file"
+msgstr "ཡིག་ཆ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Installing packages"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱེད་བཞིན་པ།"
+
+msgid "Invalid key id: %s"
+msgstr "ནུས་མེད་ཀྱི་གསང་ལྡེ་ ID：%s"
+
+msgid "Invalid protocol of the server: %s"
+msgstr "ནུས་མེད་ཀྱི་ཞབས་ཞུ་ཆས་ཆོག་ཆིངས་%s"
+
+msgid "Key file %s couldn't be installed: %s"
+msgstr "གསང་ལྡེ་ཡིག་ཆ་ %s：%sསྒྲིག་འཇུག་བྱེད་མི་ཐུབ།"
+
+msgid "Key was not installed"
+msgstr "གསང་ལྡེ་སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "Key was not removed"
+msgstr "གསང་ལྡེ་འདོར་མེད།"
+
+msgid "Key with fingerprint %s couldn't be removed: %s"
+msgstr "མཛུབ་རིས་ %s ཡི་གསང་ལྡེ་ཡིག་ཆ་%sའདོར་མི་ཐུབ།"
+
+msgid "List keys of trusted vendors"
+msgstr "ཡིད་ཆེས་ཀྱི་འབྱུང་ཁུངས་འགོད་པ།"
+
+msgid "List trusted vendor keys"
+msgstr "ཡིད་ཆེས་ཀྱི་བཟོ་མཁན་གྱི་གསང་ལྡེ་འགོད་པ།་"
+
+msgid "Listen on the DBus session bus (Only required for testing"
+msgstr "ཁ་བརྡའི་མ་སྐུདDBusརུ་ཕག་ཉན།（ཚོད་ལྟར་བཀོལ།）"
+
+msgid "Loading software list"
+msgstr "མཉེན་ཆས་ཀྱི་རེའུ་མིག་འཇུག་པ།"
+
+msgid "Need to get %sB of archives."
+msgstr "ཡིག་ཆ %sBཐོབ་དགོས།"
+
+msgid "Network isn't available"
+msgstr "དྲ་བ་སྤྱོད་མི་རུང་།"
+
+msgid "Not supported feature"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་བྱེད་ནུས།"
+
+msgid "Noting disappearance of %s"
+msgstr "%s ཡལ་བ་ཐོ་འགོད་པ།"
+
+msgid "Package %s cannot be removed"
+msgstr "མཉེན་ཆས་ཐུམ %sབཤིག་མི་ཐུབ།"
+
+msgid "Package %s cannot be removed."
+msgstr "མཉེན་ཆས་ཐུམ %sབཤིག་མི་ཐུབ།"
+
+msgid "Package %s is already installed"
+msgstr "མཉེན་ཆས་ཐུམ%sསྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Package %s isn't available"
+msgstr "མཉེན་ཆས་ཐུམ་ %s སྤྱོད་མི་རུང་།\""
+
+msgid "Package %s isn't installed"
+msgstr "མཉེན་ཆས་ཐུམ་ %sསྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "Package dependencies cannot be resolved"
+msgstr "མཉེན་ཆས་ཐུམ་བརྟེན་ཐབས་མེད།"
+
+msgid "Package does not exist"
+msgstr "མཉེན་ཆས་ཐུམ་མི་འདུག"
+
+msgid "Package file could not be opened"
+msgstr "མཉེན་ཆས་ཐུམ་ཡིག་ཆ་ཁ་འབྱེད་མི་ཐུབ།"
+
+msgid "Package is already installed"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Package is already up to date"
+msgstr "མཉེན་ཆས་ཐུམ་གསར་སྒྱུར་བྱས་ཟིན།"
+
+msgid "Package isn't installed"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "Package operation failed"
+msgstr "མཉེན་ཆས་ཐུམ་བཀོལ་སྤྱོད་ཕམ་པ།"
+
+msgid "Perform operations in the given chroot"
+msgstr "གཏན་འཁེལ་བའི་ chrootརུ་བཀོལ་སྤྱོད་ལག་བསྟར་བྱེད།"
+
+msgid ""
+"Please copy the file to your local computer and check the file permissions."
+msgstr ""
+"ཡིག་ཆ་འདི་ཁྱེད་ཀྱི་གློག་ཀླད་དུ་འདྲ་བཟོ་བྱས་ནས་ཡིག་ཆའི་དབང་ཚད་ལ་ཞིབ་བཤེར་བྱེད་རོགས།"
+
+msgid ""
+"Please insert the above CD/DVD into the drive '%s' to install software "
+"packages from it."
+msgstr ""
+"གོང་གི་འོད་སྡེར་དེ་འོད་སྒུལ་“%s”བཅུག་ནས་འོད་སྡེར་ནང་གི་མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱེད་རོགས།"
+
+msgid "Please take a look at the list of changes below."
+msgstr "གཤམ་གྱི་བཟོ་བཅོས་རེའུ་མིག་ལ་གཟིགས་རོགས།"
+
+msgid "Preparing complete removal of %s"
+msgstr "ཡོངས་སུ་%sའདོར་བ་ ལ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Preparing configuration of %s"
+msgstr "%sསྡེབ་སྒྲིག་ལ་གྲ་སྒྲིག་བྱེད། "
+
+msgid "Preparing installation of %s"
+msgstr "%sསྒྲིག་འཇུག་ལ་གྲ་སྒྲིག་བྱེད།  "
+
+msgid "Preparing removal of %s"
+msgstr " %sའདོར་བ་ལ་གྲ་སྒྲིག་བྱེད། "
+
+msgid "Previous installation hasn't been completed"
+msgstr "ཐེངས་སྔོན་མའི་སྒྲིག་འཇུག་ལེགས་འགྲུབ་མ་འབྱུང་།"
+
+msgid "Processing %s"
+msgstr "%sཐག་གཅོད་བྱེད་པ།"
+
+msgid "Purge"
+msgstr "གཙང་སེལ།"
+
+msgid "Querying software sources"
+msgstr "མཉེན་ཆས་ཁུངས་འཚོལ་བ།"
+
+msgid "Queuing"
+msgstr "རུ་སྟར།"
+
+msgid "Quit and replace an already running daemon"
+msgstr "ད་ལྟ་འཁོར་བའི་རྒྱབ་སྟེགས་བྱ་རིམ་ཕྱིར་འཐེན་ནས་ཚབ་བརྗེ་བྱེད་པ།"
+
+msgid ""
+"Reconfigure installed packages. Optionally the minimum priority of questions"
+" can be specified"
+msgstr ""
+"སྒྲིག་འཇུག་བྱས་པའི་མཉེན་ཆས་ཐུམ་བསྐྱར་སྒྲིག་བྱེད། "
+"ཆེས་དམའ་བའི་སྔོན་རིམ་གཏན་འཁེལ་བྱ་ཆོག"
+
+msgid "Reconfigured installed packages"
+msgstr "སྒྲིག་འཇུག་བྱས་པའི་མཉེན་ཆས་ཐུམ་བསྐྱར་སྒྲིག་བྱེད།"
+
+msgid "Reconfiguring installed packages"
+msgstr "སྒྲིག་འཇུག་བྱེད་པའི་མཉེན་ཆས་ཐུམ་བསྐྱར་སྒྲིག་བྱེད་པ།"
+
+msgid "Refresh the cache"
+msgstr "སྐབས་གསོག་གསར་འདོན།"
+
+msgid "Refreshing the software list failed"
+msgstr "མཉེན་ཆས་རེའུ་མིག་གསར་སྒྱུར་ཕམ་པ།"
+
+msgid "Reinstall"
+msgstr "ཡང་བསྐྱར་སྒྲིག་འཇུག"
+
+msgid "Reinstall the given packages"
+msgstr "བྱིན་པའི་མཉེན་ཆས་ཐུམ་བསྐྱར་སྒྲིག"
+
+msgid "Remove"
+msgstr "བསུབ་པ།"
+
+msgid "Remove downloaded package files"
+msgstr "ཕབ་པའི་མཉེན་ཆས་ཐུམ་འདོར་བ།"
+
+msgid "Remove the given packages"
+msgstr "བྱིན་པའི་ཐུམ་འདོར་བ།"
+
+msgid "Remove the given packages including configuration files"
+msgstr "བྱིན་པའི་ཐུམ་དང་སྡེབ་སྒྲིག་ཡིག་ཆ་འདོར་བ།"
+
+msgid "Remove the trusted key of the given fingerprint"
+msgstr "བྱིན་པའི་མཛུབ་རིས་དང་འབྲེལ་བའི་ཡིད་རྟོན་གསང་ལྡེ་འདོར་བ།"
+
+msgid "Removed %s"
+msgstr "%s དོར་ཟིན།"
+
+msgid "Removed downloaded package files"
+msgstr "ཕབ་པའི་མཉེན་ཆས་ཐུམ་ཡིག་ཆ་འདོར་བ།"
+
+msgid "Removed packages"
+msgstr "དོར་ཟིན་པའི་མཉེན་ཆས་ཐུམ།"
+
+msgid "Removed trusted key"
+msgstr "ཡིན་རྟོན་གྱི་གསང་ལྡེ་འདོར་བ།"
+
+msgid "Removing %s"
+msgstr " %sབཤིག་པ།"
+
+msgid "Removing downloaded package files"
+msgstr "ཕབ་པའི་མཉེན་ཆས་ཐུམ་ཡིག་ཆ་འདོར་བ།"
+
+msgid "Removing downloaded package files failed"
+msgstr "ཕབ་པའི་མཉེན་ཆས་ཐུམ་ཡིག་ཆ་འདོར་མི་ཐུབ།"
+
+msgid "Removing packages"
+msgstr "མཉེན་ཆས་ཐུམ་སུབ་བཞིན་པ།"
+
+msgid "Removing software failed"
+msgstr "མཉེན་ཆས་འདོར་བ་ཕམ་པ།"
+
+msgid "Removing the vendor from the list of trusted ones failed"
+msgstr "ཕམ་པ་བྱུང་ན་ཡིད་རྟོན་རེའུ་མིག་ལས་མཁོ་འདོན་མཁན་འདོར་བ།"
+
+msgid "Removing trusted key"
+msgstr "ཡིད་རྟོན་གསང་ལྡེ་འདོར་བ།"
+
+msgid "Repaired broken dependencies"
+msgstr "ཆག་སྐྱོན་བྱུང་བའི་བརྟེན་འབྲེལ་ཉམས་གསོ་བྱས།"
+
+msgid "Repaired incomplete installation"
+msgstr "སྒྲིག་འཇུག་ཆ་མི་ཚང་བ་ཉམས་གསོ་བྱས།"
+
+msgid "Repairing broken dependencies failed"
+msgstr "ཆག་སྐྱོན་བྱུང་བའི་བརྟེན་འབྲེལ་ཉམས་གསོ་ཕམ་པ་"
+
+msgid "Repairing incomplete installation"
+msgstr "སྒྲིག་འཇུག་ཆ་མི་ཚང་བ་ཉམས་གསོ་བྱེད་པ།"
+
+msgid "Repairing incomplete installation failed"
+msgstr "སྒྲིག་འཇུག་ཆ་མི་ཚང་བ་ཉམས་གསོ་ཕམ་པ།"
+
+msgid "Repairing installed software"
+msgstr "སྒྲིག་འཇུག་བྱས་པའི་མཉེན་ཆས་ཉམས་གསོ་པ།"
+
+msgid ""
+"Replace your changes in '%s' with a later version of the configuration file?"
+msgstr ""
+"སྡེབ་སྒྲིག་ཡིག་ཆའི་གསར་བསྒྱུར་པར་གཞིས་ཁྱེད་ཀྱི“%s”ནང་གི་བཅོས་པ་བཀག་དགོས་སམ།"
+
+msgid "Requires installation of untrusted packages"
+msgstr "ཡིད་རྟོན་མིན་པའི་མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱ་དགོས་སམ།"
+
+msgid "Resolving dependencies"
+msgstr "བརྟེན་འབྲེལ་ཐག་གཅོད་པ།"
+
+msgid "Running post-installation trigger %s"
+msgstr "འཁོར་སྐྱོད་སྒྲིག་འཇུག་བྱས་རྗེས་ཀྱི་འཕྲད་འབྱུང་ཆས %s"
+
+msgid "Running task"
+msgstr "ལས་འགན་འཁོར་སྐྱོད་པ།"
+
+msgid "Search done"
+msgstr "འཚོལ་བཤེར་ཟིན་པ།"
+
+msgid "Search failed"
+msgstr "འཚོལ་བཤེར་ཕམ་པ།"
+
+msgid "Searching"
+msgstr "བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
+
+msgid "Set a proxy for software downloads"
+msgstr "མཉེན་ཆས་ཕབ་པ་ལ་ལས་ཚབ་ཞབས་ཞུ་ཆས་བཀོད་སྒྲིག་བྱེད།"
+
+msgid ""
+"Show additional information about the packages. Currently only the version "
+"number"
+msgstr "མཉེན་ཆས་ཐུམ་འདིའི་ཟུར་སྣོན་ཆ་འཕྲིན་མངོན་པ། ད་པར་ཨང་ཁོ་ན་མངོན།"
+
+msgid "Show internal processing information"
+msgstr "ནང་ཁུལ་གྱི་སྒྲིག་གཅོད་ཆ་འཕྲིན་མངོན་པ།"
+
+msgid "Skip upgrade"
+msgstr "རིམ་སྤེལ་མཆོངས་པ།"
+
+msgid ""
+"Specify an alternative sources.list.d file to which repositories should be "
+"added."
+msgstr ""
+"ཟུར་སྣོན་གྱི་ sources.list.d ཡིག་ཆ་ཞིག་གཏན་འཁེལ་བྱས་ནས་མཉེན་ཆས་ཁུངས་སྣོན།"
+
+msgid "Store profile stats in the specified file"
+msgstr "གཏན་འཁེལ་གྱི་ཡིག་ཆ་རུ་སྡེབ་སྒྲིག་རྣམ་པ་གསོག"
+
+msgid "Structure of %s"
+msgstr "%s ཡི་གྲུབ་ཚུལ།"
+
+msgid "Successful"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Task cannot be monitored or controlled"
+msgstr "ལས་འགན་ལ་ལྟ་ཞིབ་དང་ཚོད་འཛིན་བྱ་མི་ཐུབ།"
+
+msgid ""
+"The connection to the daemon was lost. Most likely the background daemon "
+"crashed."
+msgstr ""
+"རྒྱབ་སྟེགས་བྱ་རིམ་གྱི་འབྲེལ་མཐུད་བོར་བ། རྒྱབ་སྟེགས་བྱ་རིམ་ཐོར་ཞིག་བྱུང་སྲིད།"
+
+msgid "The directory where to install the key to doesn't exist yet: %s"
+msgstr "གསང་ལྡེ་འདི་སྒྲིག་འཇུག་བྱ་ཡུལ་དཀར་ཆག་མེད།%s"
+
+msgid "The following NEW package will be installed (%(count)s):"
+msgid_plural "The following NEW packages will be installed (%(count)s):"
+msgstr[0] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་གསར་བ་སྒྲིག་འཇུག་བྱེད་པ། (%(count)s )："
+msgstr[1] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་གསར་བ་སྒྲིག་འཇུག་བྱེད་པ། (%(count)s )："
+
+msgid "The following package has been kept back (%(count)s):"
+msgid_plural "The following packages have been kept back (%(count)s):"
+msgstr[0] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་གསར་སྒྱུར་མི་བྱེད། (%(count)s )："
+msgstr[1] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་གསར་སྒྱུར་མི་བྱེད། (%(count)s )："
+
+msgid "The following package will be DOWNGRADED (%(count)s):"
+msgid_plural "The following packages will be DOWNGRADED (%(count)s):"
+msgstr[0] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་ རིམ་འབེབས་པ།(%(count)s )："
+msgstr[1] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་ རིམ་འབེབས་པ།(%(count)s )："
+
+msgid "The following package will be REMOVED (%(count)s):"
+msgid_plural "The following packages will be REMOVED (%(count)s):"
+msgstr[0] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་བཤིག་འདོན་བྱེད་པ། (%(count)s )："
+msgstr[1] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་བཤིག་འདོན་བྱེད་པ། (%(count)s )："
+
+msgid "The following package will be reinstalled (%(count)s):"
+msgid_plural "The following packages will be reinstalled (%(count)s):"
+msgstr[0] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་བསྐྱར་སྒྲིག་བྱ་བ། (%(count)s )："
+msgstr[1] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་བསྐྱར་སྒྲིག་བྱ་བ། (%(count)s )："
+
+msgid "The following package will be upgraded (%(count)s):"
+msgid_plural "The following packages will be upgraded (%(count)s):"
+msgstr[0] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་རིམ་སྤེལ་བྱ་བ།(%(count)s )："
+msgstr[1] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་རིམ་སྤེལ་བྱ་བ།(%(count)s )："
+
+msgid "The following packages have unmet dependencies:"
+msgstr "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་མི་ཚིམ་པའི་བརྟེན་འབྲེལ།："
+
+msgid "The former version %s of %s is already installed"
+msgstr "已经སྒྲིག་འཇུག་更早的 %s པར་གཞི་的 %s"
+
+msgid "The installation or removal of a software package failed."
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་ཡང་བ་འདོར་བ་ཕམ་པ།"
+
+msgid "The keyserver URL is invalid: %s"
+msgstr "གསང་ལྡེ་ཞབས་ཞུ་ཆས་ URL ནུས་མེད།%s"
+
+msgid "The later version %s of %s is already installed"
+msgstr "གསར་སྒྱུར་གྱི་ %sཔར་གཞིའི་ %sསྒྲིག་འཇུག་བྱས་པ།"
+
+msgid "The license key already exists: %s"
+msgstr "ཆོག་མཆན་གསང་ལྡེ་ཡོད་པ།%s"
+
+msgid "The license key is empty"
+msgstr "ཆོག་མཆན་གསང་ལྡེ་ནི་སྟོང་།"
+
+msgid "The license key is not allowed to contain executable code."
+msgstr "ཆོག་མཆན་གསང་ལྡེ་རུ་ལག་བསྟར་རུང་བའི་ཚབ་ཨང་གཏོགས་མི་ཉན།"
+
+msgid "The license key path %s is invalid"
+msgstr "ཆོག་མཆན་གསང་ལྡེ་འགྲོ་ལམ་ %s ནུས་མེད།"
+
+msgid ""
+"The license key which allows you to use this piece of software could not be "
+"downloaded. Please check your network connection."
+msgstr ""
+"ཁྱེད་ཀྱི་མཉེན་ཆས་འདི་བཀོལ་བའི་ཆོག་མཆན་གསང་ལྡེ་ཕབ་མི་ཐུབ། "
+"ཁྱེད་ཀྱི་དྲ་བའི་འབྲེལ་མཐུད་ལ་ཞིབ་བཤེར་བྱེད།"
+
+msgid ""
+"The location of the license key is unsecure since it contains symbolic "
+"links. The path %s maps to %s"
+msgstr ""
+"ཆོག་མཆན་གསང་ལྡེའི་གནས་བདེ་འཇགས་མིན། "
+"དེ་ནི་དེའི་ནང་དུ་རྟགས་སྦྲེལ་མཏོགས་པའི་རྐྱེན་ཡིན། འགྲོ་ལམ་ %s དེ %sལ་རྟེན།"
+
+msgid "The minimum debconf priority of question to be displayed"
+msgstr "གནད་དོན་གྱི་རིམ་དམའ་ཤོས debconfམངོན་པ།"
+
+msgid "The package %s isn't available in the %s release."
+msgstr "མཉེན་ཆས་ཐུམ་ %s ནི་འགྲེམས་སྤེལ་པར་གཞི %s རུ་སྤྱོད་མི་རུང་།"
+
+msgid "The package is of bad quality"
+msgstr "མཉེན་ཆས་ཐུམ་འདི་སྤུས་ཚད་མི་ལེགས།"
+
+msgid "The package system is broken"
+msgstr "མཉེན་ཆས་ཐུམ་རྒྱུད་ཁོངས་ཆག་སྐྱོན་ཤོར།"
+
+msgid "The requested feature is not supported."
+msgstr "རེ་ཞུའི་བྱེད་ནུས་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "The selected file may not be a GPG key file or it might be corrupt."
+msgstr "བདམས་པའི་ཡིག་ཆ་ནི་GPGགསང་ལྡེ་ཡིག་ཆ་མིན་པའམ་སྐྱོན་ཤོར་བ།"
+
+msgid ""
+"The selected key couldn't be removed. Check that you provided a valid "
+"fingerprint."
+msgstr ""
+"བདམས་པའི་གསང་ལྡེ་འདོར་མི་ཐུབ། "
+"ཁྱེད་ཀྱིས་མཁོ་འདོན་པའི་མཛུབ་རིས་ནུས་ཡོད་མེད་ཞིབ་བཤེར་བྱེད།"
+
+msgid "The system is already up to date"
+msgstr "རྒྱུད་ཁོངས་འདི་གསར་ཤོས་རེད།"
+
+msgid "The version %s of %s is already installed"
+msgstr " %sཡི་པར་གཞི་%sསྒྲིག་འཇུག་བྱས།"
+
+msgid "The version %s of %s is not installed"
+msgstr "%s པར་གཞི་ %sསྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "The version %s of %s isn't available"
+msgstr "%s པར་གཞིའི་ %s སྤྱོད་མི་རུང་།"
+
+msgid "The version %s of %s isn't available."
+msgstr "པར་གཞི་%s ཡི་ %s སྤྱོད་མི་རུང་།"
+
+msgid "The version %s of %s isn't installed"
+msgstr "%s པར་གཞིའི་ %s སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "There isn't any need for a removal."
+msgstr "བཤིག་འདོར་བྱེད་མི་དགོས།"
+
+msgid "There isn't any need for an installation"
+msgstr "སྒྲིག་འཇུག་བྱེད་མི་དགོས།"
+
+msgid "There isn't any need for an update."
+msgstr "གསར་སྒྱུར་བྱེད་མི་དགོས། "
+
+msgid "This requires installing packages from unauthenticated sources."
+msgstr ""
+"བཀོལ་སྤྱོད་འདི་ནི་བདེན་དཔང་བྱས་མེད་པའི་ཁུངས་མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱ་དགོས།"
+
+msgid "To cancel someone else's software changes, you need to authenticate."
+msgstr ""
+"མི་གཞན་དག་གིས་མཉེན་ཆས་གསར་སྒྱུར་ལེན་དགོས་ན། "
+"ཁྱེད་ཀྱི་ཐོབ་ཐང་ངོས་འཛིན་བྱ་དགོས།"
+
+msgid "To change software repository settings, you need to authenticate."
+msgstr ""
+"མཉེན་ཆས་ཁུངས་ཀྱི་བཀོད་སྒྲིག་བཅོས་དགོས་ན། ཁྱེད་ཀྱི་ཐོབ་ཐང་ངོས་འཛིན་བྱ་དགོས།"
+
+msgid "To change software settings, you need to authenticate."
+msgstr "དབང་སྤྲོད་ནས་མཉེན་ཆས་བཀོད་སྒྲིག་བྱ་དགོས།"
+
+msgid "To clean downloaded package files, you need to authenticate."
+msgstr "ཕབ་པའི་མཉེན་ཆས་ཐུམ་ཡིག་ཆ་སུབ་པ་ལ་དབང་སྤྲོད།"
+
+msgid "To install or remove software, you need to authenticate."
+msgstr ""
+"མཉེན་ཆས་སྒྲིག་འཇུག་ཡང་ན་བཤིག་འདོར་བྱ་དགོས་ན།ཁྱེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid "To install purchased software, you need to authenticate."
+msgstr ""
+"རིན་དགོས་པའི་མཉེན་ཆས་སྒྲིག་འཇུག་བྱ་དགོས་ན། ཁྱེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid "To install software from a new source, you need to authenticate."
+msgstr ""
+"མཉེན་ཆས་ཁུངས་གསར་བ་ལས་མཉེན་ཆས་སྒྲིག་འཇུག་བྱ་དགོས་ན། "
+"ཁྱེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid "To install software, you need to authenticate."
+msgstr "ཁྱེད་ཀྱིས་བདེན་དཔང་བྱས་རྗེས་ད་གཟོད་མཉེན་ཆས་སྒྲིག་འཇུག་བྱ་ཐུབ། "
+
+msgid "To install this package, you need to authenticate."
+msgstr "མཉེན་ཆས་ཐུམ་འདི་སྒྲིག་འཇུག་བྱ་དགོས་ན། ཁྱེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid "To install updated software, you need to authenticate."
+msgstr "གསར་སྒྱུར་མཉེན་ཆས་སྒྲིག་འཇུག་བྱ་དགོས་ན། ཁྱེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid "To update the software catalog, you need to authenticate."
+msgstr "མཉེན་ཆས་དཀར་ཆག་གསར་སྒྱུར་བྱ་དགོས་ན། ཁྱེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid ""
+"To use a proxy server for downloading software, you need to authenticate."
+msgstr ""
+"ཚབ་བྱེད་ཞབས་ཞུ་ཆས་ཀྱིས་མཉེན་ཆས་འབེབ་དགོས་ན། ཁྱེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid "To view the list of trusted keys, you need to authenticate."
+msgstr "ཡིད་རྟོན་གྱི་འབྱུང་ཁུངས་འགོད་དགོས་ན། ཁྱེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid "Translations (%s) from %s"
+msgstr "%s ཡིག་སྒྱུར། མཛོད་ %s ལས་ཡོང་།"
+
+msgid "Translations for %s from %s"
+msgstr "%s ཡི་ཡིག་སྒྱུར་།  %sལས་ཡོང་།"
+
+msgid "Try to finish a previous incompleted installation"
+msgstr "ཐེངས་སྔོན་གྱི་སྒྲིག་འཇུག་ཆ་མི་ཚང་བ་ལེགས་གྲུབ་ཡོང་བ་ཚོད་ལྟ་བྱེད།"
+
+msgid ""
+"Try to resolve broken dependencies. Potentially dangerous operation since it"
+" could try to remove many packages."
+msgstr ""
+"བརྟེན་འབྲེལ་ཉམས་གསོ་ཚོད་ལྟ། འདི་ལ་ཉེན་ཁ་ཡོད། "
+"དེས་མཉེན་ཆས་ཐུམ་མང་པོ་བཤིག་འདོར་ལ་ཚོད་ལྟ་བྱ།"
+
+msgid "Unpacking %s"
+msgstr " %sབཙིར་འགྲེལ་བྱེད་པ།"
+
+msgid "Update package information"
+msgstr "མཉེན་ཆས་ཐུམ་ཆ་འཕྲིན་གསར་སྒྱུར་བྱེད་པ།"
+
+msgid "Updated cache"
+msgstr "ལྷོད་གསོག་གསར་སྒྱུར་བྱེད་པ།"
+
+msgid "Updated packages"
+msgstr "གསར་བསྒྱུར་བའི་མཉེན་ཆས་ཐུམ།"
+
+msgid "Updates will be skipped"
+msgstr "གསར་སྒྱུར་མཆོང་པ།"
+
+msgid "Updating cache"
+msgstr "ལྷོད་གསོག་གསར་སྒྱུར་བྱེད་པ།"
+
+msgid "Updating packages"
+msgstr "མཉེན་ཆས་ཐུམ་རིམ་སྤེལ་བ།"
+
+msgid "Updating software failed"
+msgstr "མཉེན་ཆས་གསར་སྒྱུར་ཕམ་པ།"
+
+msgid "Upgrade"
+msgstr "རིམ་སྤར།"
+
+msgid "Upgrade packages"
+msgstr "མཉེན་ཆས་ཐུམ་རིམ་སྤེལ།"
+
+msgid "Upgrade the system in a safe way"
+msgstr "བདེ་འཇགས་ཀྱི་བྱེད་སྟངས་ཀྱིས་རྒྱུད་ཁོངས་རིམ་སྤེལ།"
+
+msgid "Upgrade the system, possibly installing and removing packages"
+msgstr "རྒྱུད་ཁོངས་སྤེལ་ན། མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་གམ་བཤིག་འདོར་བྱ་སྲིད།"
+
+msgid "Upgraded system"
+msgstr "རྒྱུད་ཁོངས་རིམ་སྤེལ་བ།"
+
+msgid "Upgrading %s"
+msgstr "རིམ་སྤེལ་བ %s"
+
+msgid "Upgrading system"
+msgstr "རྒྱུད་ཁོངས་རིམ་སྤེལ།"
+
+msgid "Upgrading the system failed"
+msgstr "རྒྱུད་ཁོངས་རིམ་སྤེལ་ཕམ་པ།"
+
+msgid "Use the given keyserver for looking up keys"
+msgstr "གཏན་འཁེལ་གྱི་གསང་ལྡེ་ཞབས་ཞུ་ཆས་ཀྱིས་གསང་ལྡེ་འཚོལ་བ།"
+
+msgid "Waiting"
+msgstr "སྒུག་བཞིན་པ།"
+
+msgid "Waiting for %s to exit"
+msgstr " %sའདོན་པ་སྒུག出"
+
+msgid "Waiting for authentication"
+msgstr "ར་སྤྲོད་སྒུག"
+
+msgid "Waiting for configuration file prompt"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་འབོད་པ་སྒུག"
+
+msgid "Waiting for other software managers to quit"
+msgstr "མཉེན་ཆས་དོ་དམ་བྱ་རིམ་གཞན་དག་འདོན་པ་སྒུག"
+
+msgid "Waiting for required medium"
+msgstr "དགོས་པའི་སྨྱན་གཟུགས་སྒུག"
+
+msgid "Waiting for service to start"
+msgstr "ཞབས་ཞུ་འགོ་རྩོམ་པ་སྒུག"
+
+msgid "You are not allowed to perform this action."
+msgstr "ཁྱེད་ཀྱིས་བཀོལ་སྤྱོད་འདི་ལག་བསྟར་བྱ་མི་ཆོག"
+
+msgid "You need to specify a version to downgrade %s to"
+msgstr "ཁྱེད་ཀྱིས་པར་གཞི་ཨང་ཅིག་དམིགས་འཛུགས་བྱས་ཏེ་རིམ་འབེབས %s"
+
+msgid ""
+"You requested to remove a package which is an essential part of your system."
+msgstr ""
+"ཁྱེད་ཀྱིས་མཉེན་ཆས་ཐུམ་ཞིག་འདོར་བའི་རེ་ཞུ་འདོན། "
+"དེ་ནི་རྒྱུད་ཁོངས་སུ་མེད་དུ་མི་རུང་བའི་སྒྲིག་ཆ་ཡིན།"
+
+msgid "_Changes"
+msgstr "སྒྱུར་བ།(_C)"
+
+msgid "_Details"
+msgstr "ཞིབ་ཕྲ།(_D)"
+
+msgid "_Keep"
+msgstr "རྣམ་པ་སྔོན་མ་ལྟར་འཇོག་པ།(_K)"
+
+msgid "_Replace"
+msgstr " ཚབ་བརྗེ།(_R)"
+
+msgid "but %s is installed"
+msgstr "འོན་ཀྱང་%s སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "but %s is to be installed"
+msgstr "འོན་ཀྱང་%sསྒྲིག་སྦྱོར་བྱ་བ།"
+
+msgid "but it is a virtual package"
+msgstr "འོན་ཀྱང་དེ་ནི་རྟོག་བཟོའི་མཉེན་ཆས་ཐུམ་ཡིན།"
+
+msgid "but it is not going to be installed"
+msgstr "འོན་ཀྱང་%sསྒྲིག་སྦྱོར་བྱེད་ཐབས་མེད།"
+
+msgid "but it is not installed"
+msgstr "འོན་ཀྱང་%s སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "local repository"
+msgstr "རང་གནས་མཉེན་ཆས་མཛོད།"

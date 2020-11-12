@@ -1,0 +1,224 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " TOTAL                 :"
+msgstr " ཁྱོན་བསྡོམས།                །："
+
+msgid " at %s"
+msgstr "  %sརུ་གནས།"
+
+msgid " on left:"
+msgstr " གཡོན།："
+
+msgid " on right:"
+msgstr " གཡས།："
+
+msgid " type %d is %s\n"
+msgstr " རིགས་གྲས་ %d ནི %sཡིན།\n"
+
+msgid "%%expect-rr applies only to GLR parsers"
+msgstr "%%expect-rr ནི་GLRཞིབ་འགྲེལ་ཆས་ཁོ་ན་ལ་སྤྱོད་པ།"
+
+msgid "%s affects only GLR parsers"
+msgstr "%s  GLRཞིབ་འགྲེལ་ཆས་ཁོ་ན་ལ་ཤུགས་རྐྱེན་ཐེབས།"
+
+msgid "%s must be followed by positive number"
+msgstr "%s རྗེས་སུ་ཕ་གྲངས་ཁོ་ན་ཐོན།"
+
+msgid "%s subprocess"
+msgstr "%s བུ་འཕེལ་རིམ།"
+
+msgid "%s subprocess failed"
+msgstr "%sབུ་འཕེལ་རིམ་ཕམ་པ།"
+
+msgid "%s subprocess got fatal signal %d"
+msgstr "%s བུ་འཕེལ་རིམ་གྱིས་བརྡ་རྟགས་ངན་དྲགས %dའབྱོར་བ།"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
+
+msgid "Accumulated runs = %u\n"
+msgstr "བསྡོམས་ནས་འཁོར་སྐྱོད= %u\n"
+
+msgid "Copyright (C) %d Free Software Foundation, Inc.\n"
+msgstr "པར་དབང་ཡོད་པ། (C) %d Free Software Foundation, Inc.\n"
+
+msgid "Grammar"
+msgstr "བརྡ་སྤྲོད་རིག་པ།"
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr "འདེམས་ཚན་རིང་བོའི་བཙན་ཤེད་ཞུགས་གྲངས་ནི་འདེམས་ཚན་ཐུང་བ་ལ་བཙན་ཤེད་ཡིན།\n"
+
+msgid "POSIX Yacc forbids dashes in symbol names: %s"
+msgstr "POSIX Yacc མཚོན་རྟགས་མིང་དུ་དཀྱོག་རྟགས།：%sའགོག་པ།"
+
+msgid "Rules useless in grammar"
+msgstr "བརྡ་སྤྲོད་ནང་གི་སྒྲིག་སྲོལ་ནུས་མེད།"
+
+msgid "Rules useless in parser due to conflicts"
+msgstr "འགལ་བས་དབྱེ་ཞིབ་ཆས་ནང་གི་སྒྲིག་སྲོལ་ནུས་པ་ཐོན་མི་ཐུབ།"
+
+msgid "State %d "
+msgstr "རྣམ་པ། %d "
+
+msgid "The same is true for optional arguments.\n"
+msgstr "འདེམས་རུང་ཚན་པ་ལ་འདི་ལྟར་ཡིན།\n"
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Usage: %s [OPTION]... FILE\n"
+msgstr "སྤྱོད་སྟངས། %s [འདེམས་ཚན་]... ཡིག་ཆ།\n"
+
+msgid "Valid arguments are:"
+msgstr "ནུས་ལྡན་གྱི་ཞུགས་གྲངས་ནི།："
+
+msgid "Written by Robert Corbett and Richard Stallman.\n"
+msgstr " Robert Corbettདང་Richard Stallmanའབྲིས་པ།\n"
+
+msgid "_open_osfhandle failed"
+msgstr "_open_osfhandle ཕམ་པ།"
+
+msgid "accept"
+msgstr "དང་ལེན།"
+
+msgid "an identifier expected"
+msgstr "མཚོན་རྟགས་ཤིག་ཡོད་དགོས།"
+
+msgid "bison (GNU Bison) %s"
+msgstr "bison། (GNU Bison) %s"
+
+msgid "cannot close file"
+msgstr "ཡིག་ཆ་ཁ་རྒྱག་མི་ཐུབ།"
+
+msgid "cannot create pipe"
+msgstr "སྦུག་ལམ་གསར་འཛུགས་བྱེད་མི་ཐུབ།"
+
+msgid "cannot restore fd %d: dup2 failed"
+msgstr "ཡིག་ཆའི་ཞིབ་བརྗོད་རྟགས%d：dup2བསྐྱར་གསོ་ཕམ་པ།"
+
+msgid "column number overflow"
+msgstr "སྟར་ཨང་ལུད་པ།"
+
+msgid "conflicting outputs to file %s"
+msgstr "ཡིག་ཆ་%sརུ་ཕྱིར་འདོན་འགལ་རྐྱེན།"
+
+msgid "density histogram\n"
+msgstr "སྟུག་ཚད་དྲང་མཚོན་རི་མོ།\n"
+
+msgid "fatal error"
+msgstr "སྲོག་འཕྲད་ནོར་འཁྲུལ།"
+
+msgid "go to state %d\n"
+msgstr "རྣམ་པ་ %dལ་སྤོ།\n"
+
+msgid "integer out of range: %s"
+msgstr "ཧྲིལ་གྲངས་ཁྱབ་ཁོངས།：%sལས་བརྒལ་བ།"
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s ཡི་ཞུགས་གྲངས་ %1$s ནུས་མེད།"
+
+msgid "invalid identifier: %s"
+msgstr "ནུས་མེད་མཚོན་རྟགས།：%s"
+
+msgid "invalid null character"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་རྟགས་སྟོང་བ།"
+
+msgid "invalid reference: %s"
+msgstr "ནུས་མེད་འདྲེན་སྤྱོད།：%s"
+
+msgid "line number overflow"
+msgstr "འཕྲེད་ཨང་ལུད་པ།"
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "missing identifier in parameter declaration"
+msgstr "ཞུགས་གྲངས་གསལ་བསྒྲགས་སུ་ངོས་འཛིན་མཚོན་རྟགས་ཆད།"
+
+msgid "multiple %s declarations"
+msgstr "ཐེངས་མང་ %s མཚན་ཉིད་བཞག"
+
+msgid "multiple language declarations are invalid"
+msgstr "སྐད་བརྡ་མང་པོའི་གསལ་བསྒྲགས་ནི་ནུས་མེད་རེད།"
+
+msgid "no rules in the input grammar"
+msgstr "ནང་བཅུག་བརྡ་སྤྲོད་དུ་སྒྲིག་སྲོལ་མེད།"
+
+msgid "possibly meant: %c"
+msgstr "བསྟན་བྱ་%cཡིན་སྲིད།"
+
+msgid "previous declaration"
+msgstr "སྔོན་ཐེངས་ཀྱི་གསལ་བསྒྲགས།"
+
+msgid "previous definition"
+msgstr "སྔོན་ཐེངས་མཚན་ཉིད།"
+
+msgid "refusing to overwrite the input file %s"
+msgstr "ཁེབས་པའི་ནང་འཇུག་ཡིག་ཆ་ %sཟློག་པ།"
+
+msgid "rule is too long"
+msgstr "སྒྲིག་སྲོལ་རིང་དྲགས།"
+
+msgid "rule useless in grammar"
+msgstr "བརྡ་སྤྲོད་ནང་གི་སྒྲིག་སྲོལ་ནུས་མེད།"
+
+msgid "rule useless in parser due to conflicts"
+msgstr "འགལ་བས་དབྱེ་ཞིབ་ཆས་ནང་གི་སྒྲིག་སྲོལ་ནུས་པ་ཐོན་མི་ཐུབ།"
+
+msgid "symbol %s redeclared"
+msgstr "མཚོན་རྟགས་ %s བསྐྱར་ཟློས་གསལ་བསྒྲགས།"
+
+msgid "symbol %s redefined"
+msgstr "མཚོན་རྟགས་ %sབསྐྱར་ཟློས་མཚན་ཉིད་འཇོག་པ།"
+
+msgid "the start symbol %s is undefined"
+msgstr "འགོ་རྩོམ་མཚོན་རྟགས་ %s མཚན་ཉིད་བཞག་མེད།"
+
+msgid "too many symbols in input grammar (limit is %d)"
+msgstr "ནང་བཅུག་བརྡ་སྤྲོད་ཀྱི་མཚོན་རྟགས་མང་དྲགས།( %dལྟར་ཚད་བཀག)"
+
+msgid "unset value: $$"
+msgstr "བཀོལ་མེད་ཀྱི་ཚད།：$$"
+
+msgid "unused value: $%d"
+msgstr "བཀོལ་མེད་ཀྱི་ཚད།：$%d"
+
+msgid "warning"
+msgstr " ཐ་ཚིག"

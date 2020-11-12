@@ -1,0 +1,310 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " [OPTION...]"
+msgstr " [འདེམས་ཚན་...]"
+
+msgid "%s: Can't open %s: %s\n"
+msgstr " %s：%sཡི་ཁ་འབྱེད་ཐབས་བྲལ།：%s\n"
+
+msgid "%s: Can't read %s: %s\n"
+msgstr "%s: ཀློག་ལེན་མི་ཐུབ། %s: %s\n"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr "%s： འདེམས་ཚན “%s” ནི་གཏན་ཁེལ་མེད་ཕལ་ཆེར།："
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
+
+msgid "(unknown)"
+msgstr "( ངེས་མེད།)"
+
+msgid "?"
+msgstr "?"
+
+msgid "Aborted"
+msgstr "མཚམས་བཞག་ཟིན།"
+
+msgid "Alarm clock"
+msgstr "ཅོང་བརྡ།"
+
+msgid "Argument list too long"
+msgstr "ཞུགས་གྲངས་རེའུ་མིག་རིང་དྲགས་པ།"
+
+msgid "Authentication error"
+msgstr "ར་སྤྲོད་ནོར་འཁྲུལ།"
+
+msgid "Bad file descriptor"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་ཆའི་བརྗོད་རྟགས།"
+
+msgid "CHAR"
+msgstr "ཡིག་རྟགས།"
+
+msgid "Can't find %s"
+msgstr " %sམི་རྙེད།"
+
+msgid "Can't link %s to %s"
+msgstr " %s འདི་ %s ལ་འབྲེལ་མི་ཐུབ།"
+
+msgid "Cannot allocate memory"
+msgstr "ནང་གསོག་བགོ་བཤའ་རྒྱག་ཐབས་མེད།"
+
+msgid "Cannot assign requested address"
+msgstr "རེ་ཞུའི་གནས་ཡུལ་བགོས་ཐབས་བྲལ།"
+
+msgid "Connection refused"
+msgstr "འབྲེལ་མཐུད་ཁས་མ་བླངས།"
+
+msgid "Connection reset by peer"
+msgstr "འབྲེལ་མཐུད་དེ་ཕ་རོལ་པོས་སོར་ལོག་བྱས་པ།"
+
+msgid "Connection timed out"
+msgstr "འབྲེལ་མཐུད་དུས་བརྒལ།"
+
+msgid "Couldn't execute %s"
+msgstr "%s འཁོར་སྐྱོད་བྱེད་ཐབས་མེད།"
+
+msgid "Directory not empty"
+msgstr "དཀར་ཆག་སྟོང་པ་མིན་པ།"
+
+msgid "FILE"
+msgstr "ཡིག་ཆ།"
+
+msgid "FORMAT"
+msgstr "རྣམ་གཞག"
+
+msgid "File exists"
+msgstr "ཡིག་ཆ་གནས་པ།"
+
+msgid "File too large"
+msgstr "ཡིག་ཆ་ཆེ་དྲགས་པ།"
+
+msgid "Floating point exception"
+msgstr "འཕྱོ་ཚེག་གྲངས་རྒྱུན་འགལ།"
+
+msgid "Host is down"
+msgstr "གཙོ་འཁོར་ཁ་རྒྱག་ཟིན་པ།"
+
+msgid "I/O error"
+msgstr "I/O ནོར་འཁྲུལ།"
+
+msgid "Interrupt"
+msgstr "བར་བཅད།"
+
+msgid "Invalid character class name"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་རྟགས་རིགས་གྲས་མིང་།"
+
+msgid "Invalid preceding regular expression"
+msgstr "ནུས་མེད་ཀྱི་མདུན་བཀོད་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Invalid regular expression"
+msgstr "ནུས་མེད་ཀྱི་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Is a directory"
+msgstr "དཀར་ཆག་ཅིག་ཡིན།"
+
+msgid "Memory allocation failure"
+msgstr "ནང་གསོག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Memory exhausted"
+msgstr "ནང་གསོག་བཀོལ་ཚར།"
+
+msgid "Message too long"
+msgstr "བརྡ་འཕྲིན་རིང་དྲགས་པ།"
+
+msgid "NAME"
+msgstr " མིང་།"
+
+msgid "NUMBER"
+msgstr "ཤོག་ཨང།"
+
+msgid "No match"
+msgstr "ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "No route to host"
+msgstr "གཙོ་འཁོར་ལ་མཐུད་མི་ཐུབ་པ།"
+
+msgid "No space left on device"
+msgstr "སྒྲིག་ཆས་ནང་བར་སྟོང་ལྷག་མེད་པ།"
+
+msgid "Not a directory"
+msgstr "དཀར་ཆག་ཅིག་མིན་པ།"
+
+msgid "Not found"
+msgstr "རྙེད་མ་བྱུང་།"
+
+msgid "Not supported"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Operation already in progress"
+msgstr "བཀོལ་སྤྱོད་བྱེད་བཞིན་ཡོད།"
+
+msgid "Operation canceled"
+msgstr "བཀོལ་སྤྱོད་དོར་ཟིན།"
+
+msgid "Operation not permitted"
+msgstr "མི་ཆོག་པའི་བཀོལ་སྤྱོད།"
+
+msgid "Operation not supported"
+msgstr "བཀོལ་སྤྱོད་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Operation would block"
+msgstr "བཀོལ་སྤྱོད་བཀག་པ།"
+
+msgid "PATH"
+msgstr "འགྲོ་ལམ།"
+
+msgid "Permission denied"
+msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
+
+msgid "Protocol error"
+msgstr "གྲོས་ཆིངས་ནོར་འཁྲུལ།"
+
+msgid "Quit"
+msgstr " ཕྱིར་འབུད།"
+
+msgid "Read-only file system"
+msgstr "ཀློག་ཙམ་གྱི་ཡིག་ཆའི་རྒྱུད་ཁོངས།"
+
+msgid "Resource temporarily unavailable"
+msgstr "ཐོན་ཁུངས་གནས་སྐབས་སྤྱོད་རུང་མིན་པ།"
+
+msgid "SECS"
+msgstr "སྐར་ཆའི་གྲངས།"
+
+msgid "STRING"
+msgstr "ཡིག་རྟགས་ཕྲེང་།"
+
+msgid "Stopped"
+msgstr "མཚམས་བཞག་ཟིན།"
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "System error"
+msgstr "རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
+
+msgid "TABLE"
+msgstr "རེའུ་མིག"
+
+msgid "Too many links"
+msgstr "སྦྲེལ་མཐུད་མང་པོ།"
+
+msgid "Too many open files"
+msgstr "ཁ་ཕྱེ་བའི་ཡིག་ཆ་ཧ་ཅང་མང་དྲགས་པ།"
+
+msgid "Too many processes"
+msgstr "འཕེལ་རིམ་མང་དྲགས།"
+
+msgid "UNKNOWN"
+msgstr "ངེས་མེད།"
+
+msgid "Unknown error"
+msgstr "གསང་ཨང་རྙོག་འཛིང་ཚད་བླང་བྱ་དང་མི་མཐུན་པ།"
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Usage:"
+msgstr "སྤྱོད་སྟངས།："
+
+msgid "VALUE"
+msgstr "ཐང་།"
+
+msgid "[FILE...]"
+msgstr "[ཡིག་ཆ།...]"
+
+msgid "[FILE]"
+msgstr "[ཡིག་ཆ།]"
+
+msgid "cannot fork"
+msgstr "fork བྱེད་ཐབས་བྲལ།"
+
+msgid "cannot open `%s'"
+msgstr "“%s” ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "internal error"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
+
+msgid "invalid mode"
+msgstr "ནུས་མེད་ཀྱི་དབང་ཚད་རྣམ་པ།"
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "not regular file"
+msgstr "སྤྱིར་བཏང་གི་ཡིག་ཆ་མིན་པ།"
+
+msgid "options:\n"
+msgstr "འདེམས་ཚན།：\n"
+
+msgid "out of memory"
+msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
+
+msgid "out of memory\n"
+msgstr "ནང་གསོག་མི་འདང་བ། \n"
+
+msgid "problems while reading `%s'"
+msgstr "“%s” ཀློག་ལེན་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "standard input"
+msgstr "ཚད་ལྡན་ནང་འཇུག"
+
+msgid "syntax error"
+msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
+
+msgid "too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "undefined"
+msgstr "མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "unknown"
+msgstr "ངེས་མེད།"
+
+msgid "unterminated string"
+msgstr "མཇུག་སྒྲིལ་མེད་པའི་ཡིག་རྟགས་ཕྲེང་བ།"
+
+msgid "verification failed"
+msgstr "ར་སྤྲོད་ཕམ་པ།"
+
+msgid "yes"
+msgstr "ཡིན།"

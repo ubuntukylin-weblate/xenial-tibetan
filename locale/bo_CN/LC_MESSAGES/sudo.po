@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kylin OS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Burgess Chang <open@brsvh.org>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%s is group writable"
+msgstr "%s ཚོ་འབྲི་བྱས་ཆོག"
+
+msgid "%s is not a regular file"
+msgstr "%s རྒྱུན་ལྡན་ཡིག་ཆ་མིན།"
+
+msgid "%s is owned by uid %u, should be %u"
+msgstr "%s དེ་སྤྱོད་མཁན ID %u རུ་གཏོགས་ཏེ་  %u ཡིན།"
+
+msgid "%s is world writable"
+msgstr "%s མི་སུས་ཀྱང་བྲིས་ཆོག"
+
+msgid "%s must be owned by uid %d"
+msgstr "%s ངེས་པར་དུ་སྤྱོད་མཁན་ ID %d གཏོགས་དགོས།"
+
+msgid "%s unchanged"
+msgstr "%s བཟོ་བཅོས་བྱས་མེད།"
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "display version information and exit"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་མངོན་པ་དང་ཆབས་གཅིག་ཕྱིར་འཐེན་བྱེད་པ།"
+
+msgid "internal error, %s overflow"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ་བྱུང་སྟེ %s་ལུད་པ།"
+
+msgid "unable to allocate memory"
+msgstr "ནང་གསོག་བགོ་བཤའ་རྒྱག་ཐབས་མེད།"
+
+msgid "unable to create pipe"
+msgstr "སྦུག་ལམ་གསར་འཛུགས་བྱེད་མི་ཐུབ།"
+
+msgid "unable to create sockets"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "unable to execute %s"
+msgstr "%sལག་བསྟར་བྱ་ཐབས་བྲལ།"
+
+msgid "unable to fork"
+msgstr "fork ལག་བསྟར་བྱེད་ཐབས་མེད།"
+
+msgid "unable to load %s: %s"
+msgstr "%s ཁུར་སྣོན་བྱེད་ཐབས་མེད།：%s"
+
+msgid "unable to open audit system"
+msgstr "ཞིབ་བཤེར་རྒྱུད་ཁོངས་ཁ་ཕྱེ་ཐབས་མེད།"
+
+msgid "unable to read the clock"
+msgstr "དུས་ཚོད་ཀློག་ཐབས་མེད།"
+
+msgid "unable to run %s"
+msgstr "%s འཁོར་སྐྱོད་བྱེད་ཐབས་མེད།"
+
+msgid "unable to send audit message"
+msgstr "ཞིབ་བཤེར་བརྡ་འཕྲིན་སྐྱེལ་གཏོང་བྱེད་ཐབས་མེད།"
+
+msgid "unable to stat %s"
+msgstr "stat %s བྱེད་ཐབས་མེད།"
+
+msgid "unable to write to %s"
+msgstr "%s་འབྲི་ཐབས་མེད།"
