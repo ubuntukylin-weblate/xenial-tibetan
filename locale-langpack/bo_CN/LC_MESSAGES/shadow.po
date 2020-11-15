@@ -649,7 +649,7 @@ msgid "%s: Cannot lstat %s: %s\n"
 msgstr ""
 
 msgid "%s: Cannot open %s: %s\n"
-msgstr ""
+msgstr " %s：%sཡི་ཁ་འབྱེད་ཐབས་བྲལ།：%s\n"
 
 msgid "%s: Cannot possibly work without effective root\n"
 msgstr ""
@@ -1049,7 +1049,7 @@ msgid "%s: options %s and %s conflict\n"
 msgstr ""
 
 msgid "%s: out of memory\n"
-msgstr ""
+msgstr "%s:ནང་གསོག་མི་འདང་བ།\n"
 
 msgid "%s: pam_start: error %d\n"
 msgstr ""
@@ -1181,7 +1181,7 @@ msgid "**Never logged in**"
 msgstr ""
 
 msgid ": "
-msgstr ""
+msgstr "："
 
 msgid "Access to su to that account DENIED.\n"
 msgstr ""
@@ -1229,7 +1229,7 @@ msgid "Cannot establish SELinux management connection\n"
 msgstr ""
 
 msgid "Cannot execute %s"
-msgstr "%s ལག་བསྟར་བྱེད་ཐབས་མེད།"
+msgstr "%sལག་བསྟར་བྱ་ཐབས་བྲལ།"
 
 msgid "Cannot execute %s\n"
 msgstr ""
@@ -1783,7 +1783,7 @@ msgid ""
 msgstr ""
 
 msgid "login: "
-msgstr "སྤྱོད་མཁན་མིང་།："
+msgstr " སྤྱོད་མཁན་མིང་།："
 
 msgid "login: PAM Failure, aborting: %s\n"
 msgstr ""
@@ -1792,7 +1792,7 @@ msgid "login: abort requested by PAM\n"
 msgstr ""
 
 msgid "never"
-msgstr "བརྟན་ནས།"
+msgstr "གཏན་མིན།"
 
 msgid "no change"
 msgstr ""

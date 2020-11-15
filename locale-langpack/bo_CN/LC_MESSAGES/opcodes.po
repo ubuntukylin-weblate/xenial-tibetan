@@ -128,34 +128,35 @@ msgid ""
 msgstr ""
 
 msgid "  addr16      Assume 16bit address size\n"
-msgstr ""
+msgstr "addr16      གྲངས་གནས 16 གི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
 
 msgid "  addr32      Assume 32bit address size\n"
-msgstr ""
+msgstr "addr32      གྲངས་གནས 32 ཀྱི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
 
 msgid "  addr64      Assume 64bit address size\n"
-msgstr ""
+msgstr "addr64     གྲངས་གནས 64 ཡི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
 
 msgid "  att         Display instruction in AT&T syntax\n"
-msgstr ""
+msgstr "att          AT&T བརྡ་སྤྲོད་སྤྱད་ནས་བཀའ་བརྡ་མངོན་པ། \n"
 
 msgid "  data16      Assume 16bit data size\n"
-msgstr ""
+msgstr "data16      གྲངས་གནས 16 གི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
 
 msgid "  data32      Assume 32bit data size\n"
-msgstr ""
+msgstr "data32      གྲངས་གནས 32 ཀྱི་ཤག་གནས་ཆེ་ཆུང་དབང་དུ་བཏང་བ། \n"
 
 msgid "  esa         Disassemble in ESA architecture mode\n"
-msgstr ""
+msgstr "esa         ESA སྒྲོམ་གཞི་རྣམ་པའི་འོག་ཕྱོགས་སྒྲིག་ལྡོག་པ། \n"
 
 msgid "  i8086       Disassemble in 16bit mode\n"
-msgstr ""
+msgstr "i8086      གྲངས་གནས 16 གི་རྣམ་པའི་འོག་ཕྱོགས་སྒྲིག་ལྡོག་པ། \n"
 
 msgid "  intel       Display instruction in Intel syntax\n"
-msgstr ""
+msgstr "intel        Intel བརྡ་སྤྲོད་སྤྱད་ནས་བཀའ་བརྡ་མངོན་པ། \n"
 
 msgid "  suffix      Always display instruction suffix in AT&T syntax\n"
 msgstr ""
+"suffix       AT&T བརྡ་སྤྲོད་ཁྲོད་དུས་རྟག་ཏུ་བཀའ་བརྡའི་རྗེས་འཇུག་མངོན་པ། \n"
 
 msgid "# <dis error: %08lx>"
 msgstr "# <ཕྱོགས་སྒྲིག་ལྡོག་པ་ནོར་འཁྲུལ།: %08lx>"
@@ -164,7 +165,7 @@ msgid "$<undefined>"
 msgstr "$<མཚན་ཉིད་བཞག་མེད།>"
 
 msgid "%02x\t\t*unknown*"
-msgstr ""
+msgstr "%02x\t\t*ངེས་མེད།*"
 
 msgid "%dsp16() takes a symbolic address, not a number"
 msgstr "%dsp16() རྟགས་ཀྱི་ཤག་གནས་ཤིག་སྤྱོད་པ་ལས་གྲངས་ཀ་མིན།"
@@ -173,7 +174,7 @@ msgid "%dsp8() takes a symbolic address, not a number"
 msgstr ""
 
 msgid "%s: Error: "
-msgstr "%s：ནོར་འཁྲུལ།："
+msgstr "%s：ནོར་འཁྲུལ།"
 
 msgid "%s: Warning: "
 msgstr "%sཐ་ཚིག"
@@ -188,7 +189,7 @@ msgid "(SP) offset out of range."
 msgstr ""
 
 msgid "(unknown)"
-msgstr "(ངེས་མེད)"
+msgstr "( ངེས་མེད།)"
 
 msgid "*unknown*"
 msgstr "*ངེས་མེད།*"
@@ -206,13 +207,13 @@ msgid "<internal disassembler error>"
 msgstr "<ཕྱོགས་སྒྲིག་ལྡོག་ཆས་ནང་ཁུལ་ནོར་འཁྲུལ།>"
 
 msgid "<internal error in opcode table: %s %s>\n"
-msgstr ""
+msgstr "<བཀོལ་སྤྱོད་རེའུ་མིག་ཁྲོད་ནང་ཁུལ་ནོར་འཁྲུལ་བྱུང་བ།%s %s>\n"
 
 msgid "<unknown register %d>"
 msgstr "<ངེས་མེད་ཀྱི་བཅོལ་ཆས། %d>"
 
 msgid "Address 0x%s is out of bounds.\n"
-msgstr ""
+msgstr "ཤག་གནས་ 0x%s མཚམས་བརྒལ།  \n"
 
 msgid "Bad immediate expression"
 msgstr "ནོར་འཁྲུལ་གྱི་འཕྲལ་གྲངས་མཚོན་ཚུལ།"
@@ -224,10 +225,10 @@ msgid "Bad register in preincrement"
 msgstr "རྗེས་སྒྲིག་རང་འཕེལ་ཁྲོད་ནོར་འཁྲུལ་གྱི་བཅོལ་ཆས་སྤྱད་པ།"
 
 msgid "Bad register name"
-msgstr "ནོར་འཁྲུལ་གྱི་བཅོལ་ཆས་མིང་།"
+msgstr "ཁྲོད་ནོར་འཁྲུལ་གྱི་བཅོལ་ཆས་མིང་།"
 
 msgid "Don't know how to specify # dependency %s\n"
-msgstr ""
+msgstr "ཇི་ལྟར # རྟེན་བཅོལ་དམིགས་འཛུགས་བྱེད་དགོས་པ་མི་ཤེས། %s\n"
 
 msgid "Hmmmm 0x%x"
 msgstr "ཡཱེ... 0x%x"
@@ -254,10 +255,10 @@ msgid "Internal disassembler error"
 msgstr "ཕྱོགས་སྒྲིག་ལྡོག་ཆས་ནང་ཁུལ་ནོར་འཁྲུལ།"
 
 msgid "Internal error:  bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
-msgstr ""
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།：ནོར་འཁྲུལ་གྱི sparc-opcode.h：“%s”，%#.8lx，%#.8lx\n"
 
 msgid "Internal error: bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
-msgstr ""
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།：ནོར་འཁྲུལ་གྱི sparc-opcode.h：“%s”，%#.8lx，%#.8lx\n"
 
 msgid "Label conflicts with `Rx'"
 msgstr "ཨང་རྟགས་དང་‘Rx’འགལ་ཟླ་ཡིན།"
@@ -305,34 +306,40 @@ msgid "Syntax error: No trailing ')'"
 msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ།：མཇུག་མེད་པ།"
 
 msgid "Unknown error %d\n"
-msgstr ""
+msgstr "ངེས་མེད་ནོར་འཁྲུལ། %d\n"
 
 msgid "Unrecognised disassembler option: %s\n"
-msgstr ""
+msgstr "ངོས་འཛིན་ཐབས་མེད་པའི་ཕྱོགས་སྒྲིག་ལྡོག་ཆས་འདེམས་ཚན།：%s\n"
 
 msgid "Unrecognised register name set: %s\n"
-msgstr ""
+msgstr "ངོས་འཛིན་ཐབས་མེད་པའི་ཕྱོགས་སྒྲིག་ལྡོག་ཆས་མིང་ཚོགས།：%s\n"
 
 msgid "Unrecognized field %d while building insn.\n"
-msgstr ""
+msgstr "insn གསར་འཛུགས་བྱེད་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d དང་འཕྲད་པ། \n"
 
 msgid "Unrecognized field %d while decoding insn.\n"
-msgstr ""
+msgstr "insn ཨང་དགྲོལ་བྱེད་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d དང་འཕྲད་པ། \n"
 
 msgid "Unrecognized field %d while getting int operand.\n"
 msgstr ""
+"int བཀོལ་སྤྱོད་གྲངས་ཐོབ་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ %d དང་འཕྲད་པ། \n"
 
 msgid "Unrecognized field %d while getting vma operand.\n"
 msgstr ""
+"vma བཀོལ་སྤྱོད་གྲངས་ཐོབ་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d དང་འཕྲད་པ། \n"
 
 msgid "Unrecognized field %d while printing insn.\n"
-msgstr ""
+msgstr "insn པར་རྒྱག་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d དང་འཕྲད་པ། \n"
 
 msgid "Unrecognized field %d while setting int operand.\n"
 msgstr ""
+"int  བཀོལ་སྤྱོད་གྲངས་སྒྲིག་འགོད་བྱེད་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d "
+"དང་འཕྲད་པ། \n"
 
 msgid "Unrecognized field %d while setting vma operand.\n"
 msgstr ""
+"vma བཀོལ་སྤྱོད་གྲངས་སྒྲིག་འགོད་བྱེད་སྐབས་ངོས་འཛིན་ཐབས་མེད་པའི་ཡིག་དུམ་ %d "
+"དང་འཕྲད་པ། \n"
 
 msgid "Value is not aligned enough"
 msgstr "གྲངས་ཐང་སྙོམ་ཚད་མི་འདང་།"
@@ -383,7 +390,7 @@ msgid "displacement value is out of range"
 msgstr "ཡོ་སྤོ་ཐང་བརྒལ་བ།"
 
 msgid "don't know how to specify %% dependency %s\n"
-msgstr ""
+msgstr "ཇི་ལྟར %% རྟེན་བཅོལ་དམིགས་འཛུགས་བྱེད་པ་མི་ཤེས། %s\n"
 
 msgid "dsp:16 immediate is out of range"
 msgstr "dsp:16 འཕྲལ་གྲངས་མཚམས་བརྒལ།"
@@ -431,7 +438,7 @@ msgid "immediate offset"
 msgstr "འཕྲལ་གྲངས་ཡོ་སྤོ།"
 
 msgid "immediate out of range"
-msgstr "འཕྲལ་གྲངས་བར་མཚམས་ལས་བརྒལ་བ།"
+msgstr "འཕྲལ་གྲངས་མཚམས་བརྒལ།"
 
 msgid "immediate value"
 msgstr "འཕྲལ་གྲངས།"
@@ -443,7 +450,7 @@ msgid "immediate value is out of range"
 msgstr "འཕྲལ་གྲངས་མཚམས་བརྒལ།"
 
 msgid "immediate value out of range"
-msgstr "འཕྲལ་གྲངས་བར་མཚམས་ལས་བརྒལ་བ།"
+msgstr "འཕྲལ་གྲངས་མཚམས་བརྒལ།"
 
 msgid "invalid conditional option"
 msgstr "ནུས་མེད་ཀྱི་ཆ་རྐྱེན་འདེམས་ཚན།"
@@ -455,7 +462,7 @@ msgid "invalid register for stack adjustment"
 msgstr "དོས་ཁང་ལེགས་སྒྲིག་བྱེད་པར་བཀོལ་བའི་བཅོལ་ཆས་ནུས་མེད་ཡིན།"
 
 msgid "invalid register name"
-msgstr "ནུས་མེད་ཀྱི་བཅོལ་ཆས་མིང་།"
+msgstr "ནུས་མེད་བཅོལ་ཆས་མིང་།"
 
 msgid "invalid register number `%d'"
 msgstr "ནུས་མེད་ཀྱི་བཅོལ་ཆས་རྟགས། `%d'"
@@ -537,7 +544,7 @@ msgstr ""
 "བརྡ་སྤྲོད་ནོར་འཁྲུལ། (ཡིག་རྟགས‘%c’དགོས་མོད། བཀའ་བརྡའི་མཇུག་ཏུ་སླེབས་ཡོད།)"
 
 msgid "unable to change directory to \"%s\", errno = %s\n"
-msgstr ""
+msgstr "མིག་སྔའི་དཀར་ཆག་ “%s”ལ་བསྒྱུར་ཐབས་བྲལ་བ། errno = %s\n"
 
 msgid "undefined"
 msgstr "མཚན་ཉིད་བཞག་མེད་པ།"
@@ -546,16 +553,16 @@ msgid "unexpected address writeback"
 msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཤག་གནས་ཕྱིར་འབྲི།"
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"
 
 msgid "unknown\t0x%02lx"
-msgstr ""
+msgstr "ངེས་མེད།\t0x%02lx"
 
 msgid "unknown\t0x%04lx"
 msgstr ""
 
 msgid "unknown constraint `%c'"
-msgstr "ངེས་མེད་ཀྱི་འཆིང་གཅུན ‘%c’"
+msgstr "ངེས་མེད་ཀྱི་འཆིང་གཅུན།‘%c’"
 
 msgid "unrecognized form of instruction"
 msgstr "ངོས་འཛིན་ཐབས་མེད་པའི་བཀའ་བརྡའི་རྣམ་གཞག"

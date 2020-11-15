@@ -50,16 +50,16 @@ msgid "Application"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ།"
 
 msgid "Back"
-msgstr "ཕྱིར་འཐེན།"
+msgstr "ཕྱི་བཤོལ།"
 
 msgid "Bookmarks"
-msgstr "དཔེ་རྟགས།"
+msgstr " དཔེ་འཛར།"
 
 msgid "C_opy Code Block"
 msgstr " ཚབ་ཨང་དུམ་འདྲ་ཕབ།(_O)"
 
 msgid "Cannot Read"
-msgstr "ཀློག་མི་ཐུབ་པ།"
+msgstr " ཀློག་མི་རུང་བ།"
 
 msgid "Could not load a document"
 msgstr " ཡིག་ཚགས་ཁུར་སྣོན་བྱ་ཐབས་བྲལ།"
@@ -101,10 +101,10 @@ msgid "GtkSettings"
 msgstr ""
 
 msgid "Help"
-msgstr "རོགས་རམ།"
+msgstr " རོགས་རམ།"
 
 msgid "Indexed"
-msgstr "གསལ་བྱང་།"
+msgstr " གསལ་བྱང་།"
 
 msgid "Install <string/>"
 msgstr "  <string/>སྒྲིག་འཇུག"
@@ -119,19 +119,19 @@ msgid "Loading State"
 msgstr " འགེལ་འཇུག་རྣམ་པ།"
 
 msgid "Menu"
-msgstr "འདེམས་བྱང་།"
+msgstr " འདེམས་བྱང་།"
 
 msgid "New Window"
-msgstr "སྒེའུ་ཁུང་གསར་འཛུགས།"
+msgstr " སྒེའུ་ཁུང་གསར་འཛུགས།"
 
 msgid "Next Page"
-msgstr "ཤོག་ངོས་རྗེས་མ།"
+msgstr " ཤོག་ངོས་རྗེས་མ།"
 
 msgid "No bookmarks"
 msgstr " དཔེ་འཛར་མེད།"
 
 msgid "No href attribute found on yelp:document\n"
-msgstr ""
+msgstr "  yelp:document ཡི་ཁྲོད་དུ་ href གཏོགས་གཤིས་མ་རྙེད།\n"
 
 msgid "No matching help pages found in “%s”."
 msgstr "  %s ཁྲོད་ནས་རོགས་རམ་ལྡེབ་ངོས་མ་རྙེད།"
@@ -143,10 +143,10 @@ msgid "Not enough memory"
 msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
 
 msgid "Open Link in New _Window"
-msgstr "སྒེའུ་ཁུང་གསར་བའི་ནང་དུ་སྦྲེལ་མཐུད་ཁ་ཕྱེ་བ།(_I)"
+msgstr " སྒེའུ་ཁུང་གསར་པར་སྦྲེལ་མཐུད་ཁ་ཕྱེ་རོགས།(_W)"
 
 msgid "Out of memory"
-msgstr "ནང་གསོག་མི་འདང་བ།"
+msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
 
 msgid "Page Description"
 msgstr " ལྡེབ་ངོས་ཞིབ་བརྗོད།"
@@ -164,7 +164,7 @@ msgid "Page Title"
 msgstr " ལྡེབ་ངོས་ཁ་བྱང་།"
 
 msgid "Previous Page"
-msgstr "ཤོག་ངོས་གོང་མ།"
+msgstr " ཤོག་ངོས་གོང་མ།"
 
 msgid "Print…"
 msgstr "པར་འདེབས།"
@@ -188,7 +188,7 @@ msgid "Save Code _Block As…"
 msgstr " ཚབ་ཨང་དུམ་གཞན་ཉར།(_B)..."
 
 msgid "Save Image"
-msgstr "པར་རིས་ཉར་བ།"
+msgstr " བརྙན་རིས་ཉར་ཚགས།"
 
 msgid "Search (Ctrl+S)"
 msgstr " བཤེར་འཚོལ།(Ctrl+S)"
@@ -236,7 +236,7 @@ msgid "The directory ‘%s’ does not exist."
 msgstr " དཀར་ཆག“%s”མེད་པ།"
 
 msgid "The file does not exist."
-msgstr "ཡིག་ཆ་གནས་མེད།"
+msgstr " ཡིག་ཆ་མེད་པ།"
 
 msgid ""
 "The file ‘%s’ could not be parsed because it is not a well-formed XML "
@@ -289,10 +289,10 @@ msgid "Turn on editor mode"
 msgstr " རྩོམ་སྒྲིག་ཆས་རྣམ་པའི་ཁ་འབྱེད་པ།"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unknown Error"
-msgstr "ངེས་མེད་ཀྱི་ནོར་འཁྲུལ།"
+msgstr " ངེས་མེད་ནོར་འཁྲུལ།"
 
 msgid "Unknown Error."
 msgstr " ངེས་མེད་ནོར་འཁྲུལ།"
@@ -323,10 +323,10 @@ msgid "_Install Packages"
 msgstr " སྒྲིག་འཇུགམཉེན་ཆས་ཐུམ།(_I)"
 
 msgid "_Open Link"
-msgstr "སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
+msgstr " སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
 
 msgid "_Save Image As…"
-msgstr "པར་རིས་ལྟར་གཞན་ཉར།(_S)..."
+msgstr " བརྙན་རིས་གཞན་གསོག(_S)..."
 
 msgid "_Save Video As…"
 msgstr " བརྙན་ཟློས་གཞན་གསོག(_S)..."

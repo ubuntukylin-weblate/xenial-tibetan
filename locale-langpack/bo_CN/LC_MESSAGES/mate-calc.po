@@ -18,8 +18,8 @@ msgstr "ཕབ་རྩིས་བྱས་ན།"
 
 msgid "%d place"
 msgid_plural "%d places"
-msgstr[0] "\"%d གནས།"
-msgstr[1] "\"%d གནས།"
+msgstr[0] "གནས་%d"
+msgstr[1] "གནས་%d"
 
 msgid "%s%%s"
 msgstr "%s%s"
@@ -28,7 +28,7 @@ msgid "0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F"
 msgstr "\"0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F\""
 
 msgid "16-bit"
-msgstr "16 གནས།"
+msgstr "16གནས།"
 
 msgid "32-bit"
 msgstr "32གནས།"
@@ -37,10 +37,10 @@ msgid "64-bit"
 msgstr "64གནས།"
 
 msgid "8-bit"
-msgstr "8 གནས།"
+msgstr "8གནས།"
 
 msgid "="
-msgstr "NaN"
+msgstr "nan"
 
 msgid "Absolute Value"
 msgstr "བལྟོས་མེད་ཐང་།"
@@ -49,7 +49,7 @@ msgid "Absolute value [|]"
 msgstr "བལྟོས་མེད་ཐང་།[|]"
 
 msgid "Accuracy value"
-msgstr "གཙིགས་ཚད།"
+msgstr "ཞིབ་གཙིགས་ཚད།"
 
 msgid "Acres"
 msgstr "དབྱིན་མུའུ།"
@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 
 msgid "Area"
-msgstr "ཁུལ་ཁོངས།"
+msgstr "ས་ཁོངས།"
 
 msgid "Argument --solve requires an equation to solve"
 msgstr ""
@@ -96,7 +96,7 @@ msgid "Bahraini Dinar"
 msgstr "པ་རེན་གྱི་ཏི་ནར།"
 
 msgid "Binary"
-msgstr "གཉིས་གོང་འགྲིལ་ལུགས་"
+msgstr "གཉིས་གོང་འགྲིལ་ལུགས།"
 
 msgid "Boolean AND"
 msgstr "གཏན་ཚིགས་དང་།"
@@ -292,7 +292,7 @@ msgid "Danish Krone"
 msgstr "ཏེན་མག་གི་ཁེ་ལེན།"
 
 msgid "Days"
-msgstr "དུས་ཚེས།"
+msgstr "ཚེས་གྲངས།"
 
 msgid "Ddb"
 msgstr "Ddb"
@@ -319,7 +319,7 @@ msgid "Double-Declining Depreciation"
 msgstr "ལྡབ་གཉིས་ཀྱི་ལྷག་གྲངས་ཉུང་གཏོང་རྙིང་གཅོག"
 
 msgid "Duration"
-msgstr "རྒྱུན་མཐུད་དུས་ཚོད།"
+msgstr "དུས་ཡུན།"
 
 msgid "End Group [)]"
 msgstr "མཇུག་སྒྲིལ་བའི་ཚོ་ཆུང་།[)]"
@@ -478,7 +478,7 @@ msgid "Indonesian Rupiah"
 msgstr "ཧིན་རྡུ་ཉི་ཞི་ཡའི་ལུའུ་པིས།"
 
 msgid "Insert Character"
-msgstr "བར་འཇུག་ཡིག་རྟགས།"
+msgstr "བར་འཛུད་ཡིག་རྟགས།"
 
 msgid "Insert Character Code"
 msgstr "བར་འཛུད་ཡིག་རྟགས་ཨང་སྒྲིག"
@@ -564,7 +564,7 @@ msgid "Logarithm of zero is undefined"
 msgstr "ཀླད་ཀོར་གྱི་གཏད་གྲངས་ལ་མཚན་ཉིད་མེད།"
 
 msgid "MATE Calculator"
-msgstr "རྩིས་ཆས།"
+msgstr "MATEརྩིས་ཆས།"
 
 msgid "Malaysian Ringgit"
 msgstr "མ་ལེ་ཞི་ཡའི་ལིན་ཅི་ཐེ།"
@@ -669,7 +669,7 @@ msgid "Number format"
 msgstr "ཨང་ཀིའི་རྣམ་གཞག"
 
 msgid "Numeric Base"
-msgstr "གནས་སྤོའི་ལམ་ལུགས།"
+msgstr "གོང་འགྲིལ་ལུགས།"
 
 msgid "Octal"
 msgstr "བརྒྱད་གོང་འགྲིལ་ལུགས།"
@@ -738,7 +738,7 @@ msgid "Pounds"
 msgstr "པང་།"
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Present Value"
 msgstr "ད་ལྟའི་གནས་ཐང་།"
@@ -777,7 +777,7 @@ msgid "Root must be non-zero"
 msgstr "གཞི་སྒྱུར་གྲངས་ནི་ངེས་པར་དུ་ཀླད་ཀོར་མིན་པའི་གྲངས་ཡིན་དགོས།"
 
 msgid "Round"
-msgstr "ཟླུམ་དབྱིབས།"
+msgstr "སྒོར་ཟུར།"
 
 msgid "Russian Rouble"
 msgstr "ཨུ་རུ་སུའི་ལུའུ་པུའུ།"
@@ -1012,7 +1012,7 @@ msgid "Volume"
 msgstr "སྒྲ་ཚད།"
 
 msgid "Weight"
-msgstr "སྦོམ་ཕྲ།"
+msgstr "ལྗིད་ཚད།"
 
 msgid "Word _size:"
 msgstr "ཡི་གེའི་རིང་ཚད།(_S)："
@@ -1032,7 +1032,7 @@ msgstr[0] "གནས།_%d"
 msgstr[1] "གནས།_%d"
 
 msgid "_Advanced"
-msgstr "མཐོ་རིམ། (_A)"
+msgstr "མཐོ་རིམ།(_A)"
 
 msgid "_Angle units:"
 msgstr "ཟུར་ཚད་སྡེ་ཚན།(_A)："
@@ -1044,10 +1044,10 @@ msgid "_Calculator"
 msgstr "རྩིས་འཁོར།(_C)"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Contents"
-msgstr "དཀར་ཆག(_C)"
+msgstr "དཀར་ཆག (_C)"
 
 msgid "_Cost:"
 msgstr "མ་གནས།(_C)："
@@ -1059,10 +1059,10 @@ msgid "_Future Value:"
 msgstr "མ་འོངས་ཐང་།(_F)："
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Insert"
-msgstr "བར་འཇུག (_I)"
+msgstr "བར་འཇུག(_I)"
 
 msgid "_Life:"
 msgstr "ལོ་ཚད།(_L)："
@@ -1071,7 +1071,7 @@ msgid "_Margin:"
 msgstr "སྐྱེད་ཕྱོད།(_M)："
 
 msgid "_Mode"
-msgstr "རྣམ་པ། (_M)"
+msgstr "རྣམ་པ།(M)"
 
 msgid "_Number of Periods:"
 msgstr "ཡུན་ཚད།(_N)："

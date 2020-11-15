@@ -17,7 +17,7 @@ msgid " - Total size unknown"
 msgstr "--སྤྱི་འབོར་ངེས་མེད།"
 
 msgid "%ds"
-msgstr "སྐར་ཆ།%d "
+msgstr "%d སྐར་ཆ།"
 
 msgid "%ds remaining."
 msgstr "སྐར་ཆ་ %d ལྷག"
@@ -61,7 +61,7 @@ msgid "-l | -r | [-s] grubdev osdisk."
 msgstr "\"-l | -r | [-s] grubསྒྲིག་ཆས། རྒྱུད་ཁོངས་སྡུད་སྡེར།\""
 
 msgid "ADDR"
-msgstr "ས་གནས།"
+msgstr " ཤག་གནས།"
 
 msgid "ADDR VALUE [MASK]"
 msgstr "ཤག་གནས། ཐང་། [གབ་ཨང་།]"
@@ -152,7 +152,7 @@ msgid "Clear the screen."
 msgstr "ཡོལ་བཤེར། "
 
 msgid "Commands:"
-msgstr "བཀའ་བརྡ།"
+msgstr " བཀའ་བརྡ།："
 
 msgid "Compare FILE with local file LOCAL."
 msgstr "དམིགས་འཛུགས་བྱས་པའི་ཡིག་ཆ་དང་རང་སའི་ཡིག་ཆ་བསྡུར་བ། "
@@ -317,7 +317,7 @@ msgid "Enter username: "
 msgstr "ནང་འཇུག་སྤྱོད་མཁན་གྱི་མིང་།"
 
 msgid "Error in parsing command line arguments\n"
-msgstr ""
+msgstr "བཀའ་ཕྲེང་གི་ཞུགས་གྲངས་ཞིབ་འགྲེལ་ལ་ནོར་འཁྲུལ་བྱུང་བ།\n"
 
 msgid "Evaluate an expression."
 msgstr "མཚོན་ཚུལ་འདི་ལག་བསྟར་གྱིས།"
@@ -356,7 +356,7 @@ msgid "FROM[K|M|G] TO[K|M|G]"
 msgstr "[KMG]ནས་[KMG]བར།"
 
 msgid "Failed to boot both default and fallback entries.\n"
-msgstr ""
+msgstr "སོར་བཞག་འགོ་རྩོམ་དང་འགྲིལ་རུང་འགོ་རྩོམ་ལ་སྣེ་ཁྲིད་པ་ཚང་མ་ཕམ་འདོད།\n"
 
 msgid "Filesystem cannot be accessed"
 msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་བཅར་འདྲི་བྱེད་ཐབས་བྲལ།"
@@ -423,13 +423,13 @@ msgid "Insert a module."
 msgstr "དཔེ་དུམ་ཞིག་ནང་འཛུད་ཀྱིས།"
 
 msgid "Invalid command %s.\n"
-msgstr ""
+msgstr "%sའབྲས་མེད་བཀའ་བརྡ།\n"
 
 msgid "Invalid device `%s'.\n"
-msgstr ""
+msgstr "%sའབྲས་མེད་སྒྲིག་ཆས།\n"
 
 msgid "Invalid disk count.\n"
-msgstr ""
+msgstr "སྡུད་སྡེར་གྱི་གྲངས་བགྲངས་བར་འབྲས་བུ་མེད། \n"
 
 msgid "Invoke user configuration routing."
 msgstr "སྤྱོད་མཁན་གྱི་སྡེབ་སྒྲིག་འགྲོ་ལམ་སྤྱོད་པ། "
@@ -621,22 +621,22 @@ msgid "NUMBER_OF_SECONDS"
 msgstr "སྐར་ཆའི་གྲངས།"
 
 msgid "No command is specified.\n"
-msgstr ""
+msgstr "དམིགས་འཛུགས་བཀའ་བརྡ་མེད། \n"
 
 msgid "No device is specified.\n"
-msgstr ""
+msgstr "དམིགས་འཛུགས་སྒྲིག་ཆས་མེད། \n"
 
 msgid "Not enough parameters to command.\n"
-msgstr ""
+msgstr "བཀའ་བརྡའི་ཞུགས་གྲངས་མི་འདང་བ། \n"
 
 msgid "Options:"
-msgstr "འདེམ་བྱང་།："
+msgstr "འདེམས་ཚན།："
 
 msgid "PARTITION COMMANDS"
 msgstr "ཁུལ་བགོས། བཀའ་བརྡ།"
 
 msgid "PORT"
-msgstr "མཐུད་ཁ།"
+msgstr " སྣེ་ཁ།"
 
 msgid "PORT VALUE [MASK]"
 msgstr "མཐུད་ཁ། ཐང་།[གབ་ཨང་།]"
@@ -827,7 +827,7 @@ msgid ""
 msgstr ""
 
 msgid "Set terminfo type of TERM  to TYPE.\n"
-msgstr ""
+msgstr "དམིགས་འཛུགས་བྱས་པའི་མཐའ་སྣེའི་terminfoདམིགས་འཛུགས་རིགས་ལ་སྒྲིག་པ། \n"
 
 msgid "Set the serial port address."
 msgstr "ཕྲེང་བགྲོད་མཐུད་ཁའི་ཤག་གནས་སྒྲིག་འགོད། "
@@ -948,13 +948,13 @@ msgid "USER PBKDF2_PASSWORD"
 msgstr "སྤྱོད་མཁན་PBKDF2-PASSWORD"
 
 msgid "UTF-8"
-msgstr ""
+msgstr "UTF-8"
 
 msgid "Uncompress file before checksumming."
 msgstr "ཞིབ་བཤེར་དག་བཤེར་དང་གོང་གི་བཙིར་གནོན་ཡིག་ཆ། "
 
 msgid "Unknown command `%s'.\n"
-msgstr ""
+msgstr "%sམི་ཤེས་པའི་བཀའ་བརྡ། \n"
 
 msgid "Unload EFI emulator."
 msgstr "EFIལད་ཟློས་ཆས་ལེན་པ།"
@@ -987,16 +987,16 @@ msgid "Wait for keypress after every line of output."
 msgstr "ཕྱིར་གཏོང་ཐེངས་རེའི་རྗེས་ནས་མཚམས་འཇོག་དགོས། "
 
 msgid "Warning: invalid background color `%s'\n"
-msgstr ""
+msgstr "ཐ་ཚིག ：ནུས་མེད་རྒྱབ་ལྗོངས་ཁ་དོག `%s'\n"
 
 msgid "Warning: invalid foreground color `%s'\n"
-msgstr ""
+msgstr "ཐ་ཚིག： ནུས་མེད་མདུན་ལྗོངས་ཁ་དོག `%s'\n"
 
 msgid "Warning: syntax error (missing slash) in `%s'\n"
-msgstr ""
+msgstr "ཐ་ཚིག s%ཡི་ཁྲོད་བརྡ་སྤྲོད་ཀྱི་ནོར་འཁྲུལ་ཡོད་པ།(གསེག་ཐིག་ཆད།)\n"
 
 msgid "You need to specify at least one command.\n"
-msgstr ""
+msgstr "ཁྱོད་ཀྱིས་མ་མཐའ་ཡང་བཀའ་བརྡ་གཅིག་དམིགས་འཛུགས་བྱེད་དགོས། \n"
 
 msgid "Your embedding area is unusually small.  core.img won't fit in it."
 msgstr ""
@@ -1109,7 +1109,7 @@ msgstr ""
 "འཛུད་འཇུག་བྱེད་ཐབས་བྲལ།འོན་ཀྱང་སྡེར་བརྒལ་སྒྲིག་འཇུག་བྱེད་སྐབས་ངེས་པར་དུ་བྱེད་དགོས་པ་ཞིག་རེད།"
 
 msgid "error: %s.\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།%s \n"
 
 msgid "hex FILE"
 msgstr "hexཡིག་ཆ།"

@@ -26,8 +26,8 @@ msgstr[1] "%u ནང་འཇུག"
 
 msgid "%u Output"
 msgid_plural "%u Outputs"
-msgstr[0] "\"%u ཕྱིར་འདོན།"
-msgstr[1] "\"%u ཕྱིར་འདོན།"
+msgstr[0] "%u ཕྱིར་གཏོང་།"
+msgstr[1] "%u ཕྱིར་གཏོང་།"
 
 msgid "Applications"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ།"
@@ -36,19 +36,19 @@ msgid "Bark"
 msgstr ""
 
 msgid "Built-in"
-msgstr "ནང་འཇོག"
+msgstr "ནང་ཁུལ་དུ་འཇོག་པ།"
 
 msgid "C_hoose a device for sound input:"
-msgstr "སྒྲ་ནང་འཇུག་སྒྲིག་ཆས་འདེམས།(_H)："
+msgstr "སྒྲ་འཇུག་སྒྲིག་ཆས་འདེམ་པ།(_H):"
 
 msgid "C_hoose a device for sound output:"
-msgstr "སྒྲ་ཕྱིར་སྐྱེལ་སྒྲིག་ཆས་འདེམས།(_H)："
+msgstr "སྒྲ་ཕྱིར་སྐྱེལ་སྒྲིག་ཆས་འདེམ་པ།(_H):"
 
 msgid "C_hoose a device to configure:"
 msgstr "སྡེབ་སྒྲིག་བྱེད་དགོས་པའི་སྒྲིག་ཆས་འདེམ་པ།(_H):"
 
 msgid "C_hoose an alert sound:"
-msgstr "ཉེན་བརྡའི་སྒྲ་འདེམས།(_H)："
+msgstr "ཉེན་བརྡ་གཏོང་བའི་སྒྲ་འདེམ་པ།(_H):"
 
 msgid "Change sound volume and sound events"
 msgstr ""
@@ -57,28 +57,28 @@ msgid "Co_nnector:"
 msgstr ""
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "Default"
 msgstr "སོར་བཞག"
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Drip"
 msgstr "ཆར་ཐིགས།"
 
 msgid "Enable _window and button sounds"
-msgstr "སྒེའུ་ཁུང་དང་མཐེབ་གནོན་སྐད་སྒྲ་སྤྱོད་འགོ་རྩོམ་པ།"
+msgstr "སྒེའུ་ཁུང་དང་མཐེབ་གནོན་སྐད་སྒྲ་སྤྱོད་འགོ་རྩོམ་པ།(_W)"
 
 msgid "Enable debug"
-msgstr "ཚོད་སྒྲིག་སྤྱོད་འགོ་རྩོམ་པ།"
+msgstr "སྤྱོད་འགོ་རྩོམ་པ་ཚོད་སྒྲིག"
 
 msgid "Failed to start Sound Preferences: %s"
 msgstr "སྒྲ་ཚད་སྔོན་འདེམས་འགོ་སློང་ཕམ་པ།：%s"
 
 msgid "From theme"
-msgstr "བརྗོད་གཞི་ནས་ལེན་པ།"
+msgstr "བརྗོད་སྙིང་ནས་འོང་བ།"
 
 msgid "Glass"
 msgstr "ཤེལ་སྒོ།"
@@ -108,13 +108,13 @@ msgid "Muted"
 msgstr "སྒྲ་མེད།"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "No application is currently playing or recording audio."
 msgstr "མིག་སྔར་ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་སྒྲ་ཟློས་གཏོང་བའམ་ཕབ་སྐྲུན་བཞིན་མེད་པ།"
 
 msgid "No sounds"
-msgstr "སྒྲ་མེད།"
+msgstr "སྒྲ་མེད་པ།"
 
 msgid "Output"
 msgstr "ཕྱིར་འདོན།"
@@ -129,7 +129,7 @@ msgid "Sonar"
 msgstr "སྒྲ་ན།"
 
 msgid "Sound"
-msgstr "སྒྲ་ནུས།"
+msgstr "སྒྲ།"
 
 msgid "Sound Effects"
 msgstr "སྒྲའི་ཕན་འབྲས།"
@@ -138,7 +138,7 @@ msgid "Sound Output Volume"
 msgstr "ཕྱིར་སྐྱེལ་སྒྲ་ཚད།（_O）"
 
 msgid "Sound Preferences"
-msgstr "སྒྲའི་སྔོན་འདེམ་ཚན་པ།"
+msgstr "སྒྲའི་སྔོན་འདེམས་ཚན་པ།"
 
 msgid "Sound _theme:"
 msgstr "སྒྲའི་བརྗོད་གཞི།"
@@ -159,7 +159,7 @@ msgid "Stereo"
 msgstr ""
 
 msgid "Stop"
-msgstr "停止མཚམས་འཇོག"
+msgstr "མཚམས་འཇོག་པ།"
 
 msgid "Surround 4.0"
 msgstr "གདུབ་འཁྱིལ་སྒྲ།4.0"
@@ -183,13 +183,13 @@ msgid "Test Speakers"
 msgstr "ཉན་དུང་ཚོད་ལེན།"
 
 msgid "Testing event sound"
-msgstr "དོན་རྐྱེན་གྱི་སྒྲ་ཚོད་ལེན།"
+msgstr "དོན་རྐྱེན་གྱི་སྒྲའི་ཚོད་ལེན།"
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "Version of this application"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འདི་ཡི་པར་གཞི།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འདིའི་པར་གཞི།"
 
 msgid "Volume Control"
 msgstr "སྒྲ་ཚད་ཚོད་འཛིན།"
@@ -216,7 +216,7 @@ msgid "_Output volume: "
 msgstr "སྐད་ཚད་ཕྱིར་འདོན།(_O)："
 
 msgid "_Profile:"
-msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ། (_P)："
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ།(_P)："
 
 msgid "_Sound Preferences"
 msgstr "སྒྲའི་སྔོན་འདེམས་ཚན་པ།(_S)"
@@ -225,22 +225,22 @@ msgid "_Subwoofer:"
 msgstr "སྒྲ་གདངས་དམའ་བའི་མེ་སྒྱོགས།(_S)："
 
 msgid "Front"
-msgstr "སྔོན་བཀོད་སྒྲ་ལམ།"
+msgstr "སྔོན་སྒྲིག་སྒྲ་ལམ།"
 
 msgid "Left"
-msgstr "དུས་འཁོར་ལྡོག་ཕྱོགས།"
+msgstr "གཡོན།"
 
 msgid "Maximum"
-msgstr "ཆེས་ཆེ་ཤོས།"
+msgstr "ཆེ་ཤོས་ཐང་།"
 
 msgid "Minimum"
-msgstr "ཆུང་ཤོས།"
+msgstr "ཆེས་ཤོས་ཐང་།"
 
 msgid "Rear"
-msgstr "གཞུག་འཇོག་སྒྲ་ལམ།"
+msgstr "གཞུག་སྒྲིག་སྒྲ་ལམ།"
 
 msgid "Right"
-msgstr "གཡས་ཕྱོགས།"
+msgstr "གཡས།"
 
 msgid "100%"
 msgstr "\"100%\""

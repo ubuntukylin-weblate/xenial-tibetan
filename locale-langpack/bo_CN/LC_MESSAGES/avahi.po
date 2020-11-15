@@ -93,16 +93,16 @@ msgid "A NULL terminated list of service types to browse for"
 msgstr "NULLམཇུག་སྒྲིལ་བའི་ཞབས་ཞུ་རིགས་གྲས་རེའུ་མིག་མིག་བཤེར་ལ་བཀོལ།"
 
 msgid "Access denied"
-msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
+msgstr "ལྟ་སྤྱོད་དང་ལེན་མ་བྱས།"
 
 msgid "Address"
-msgstr "ཤག་གནས།ས་གནས།"
+msgstr " ཤག་གནས།"
 
 msgid "Address family"
 msgstr "ཤག་གནས་ཀྱི་རིགས།"
 
 msgid "Address:"
-msgstr "གནས་ཡུལ།:"
+msgstr "ཤག་གནས།："
 
 msgid "An unexpected D-Bus error occurred"
 msgstr "སྔོན་དཔག་མ་ཐུབ་པའི་D-Busནོར་འཁྲུལ་ཞིག་བྱུང་།"
@@ -165,7 +165,7 @@ msgid "C_onnect"
 msgstr "འབྲེལ་མཐུད།(_O)"
 
 msgid "Canceled.\n"
-msgstr ""
+msgstr "ལེན་པ།\n"
 
 msgid "Change domain"
 msgstr "ཁོངས་བཅོས་པ།"
@@ -183,7 +183,7 @@ msgid "Client failure, exiting: %s\n"
 msgstr ""
 
 msgid "Connecting to '%s' ...\n"
-msgstr ""
+msgstr "འབྲེལ་མཐུད་བྱེད་པ།“%s”...\n"
 
 msgid "DNS failure: FORMERR"
 msgstr "DNS ཕམ་པ།：FORMERR"
@@ -222,7 +222,7 @@ msgid "Daemon not running"
 msgstr "Daemonའཁོར་སྐྱོད་བྱས་མེད།"
 
 msgid "Desktop"
-msgstr "ཅོག་ངོས།"
+msgstr " ཅོག་ངོས།"
 
 msgid "Disconnected, reconnecting ...\n"
 msgstr ""
@@ -231,7 +231,7 @@ msgid "Domain"
 msgstr "ཁོངས།"
 
 msgid "Domain Name:"
-msgstr "ཁོངས་མིང་།"
+msgstr "ཁོངས་མིང་།："
 
 msgid "E Ifce Prot %-*s %-20s Domain\n"
 msgstr ""
@@ -243,10 +243,10 @@ msgid "Established under name '%s'\n"
 msgstr ""
 
 msgid "Failed to add address: %s\n"
-msgstr ""
+msgstr "ཤག་གནས་སྣོན་པ་ཕམ་པ།：%s\n"
 
 msgid "Failed to add service: %s\n"
-msgstr ""
+msgstr "ཞབས་ཞུ་སྣོན་པ་ཕམ་པ།：%s\n"
 
 msgid "Failed to add subtype '%s': %s\n"
 msgstr ""
@@ -255,22 +255,22 @@ msgid "Failed to connect to Avahi server: %s"
 msgstr "Avahi ཞབས་ཞུ་ཆས་འབྲེལ་བ་ཕམ་པ།：%s"
 
 msgid "Failed to create address resolver: %s\n"
-msgstr ""
+msgstr "ཤག་གནས་དབྱེ་ཞིབ་ཆས་གསར་བཟོ་ཕམ་པ།：%s\n"
 
 msgid "Failed to create browser for %s: %s"
 msgstr "%sལ་བཤར་ཆས་གསར་བཟོ་ཕམ་པ།：%s"
 
 msgid "Failed to create client object: %s\n"
-msgstr ""
+msgstr "དུད་སྣེ་བྱ་ཡུལ་གསར་བཟོ་ཕམ་པ།：%s\n"
 
 msgid "Failed to create domain browser: %s"
 msgstr "ཁོངས་བཤར་ཆས་གསར་བཟོ་ཕམ་པ།：%s"
 
 msgid "Failed to create entry group: %s\n"
-msgstr ""
+msgstr "དོན་ཚན་ཚོ་གསར་བཟོ་ཕམ་པ།：%s\n"
 
 msgid "Failed to create host name resolver: %s\n"
-msgstr ""
+msgstr "གཙོ་འཁོར་མིང་དབྱེ་ཞིབ་ཆས་གསར་བཟོ་ཕམ་པ།：%s\n"
 
 msgid "Failed to create resolver for %s of type %s in domain %s: %s"
 msgstr "རིགས་གྲས་ %sལ་ %sདབྱེ་ཞིབ་ཆས་ཁོངས་ %sགསར་བཟོ་ ཕམ་པ།：%s"
@@ -282,19 +282,19 @@ msgid "Failed to parse address '%s'\n"
 msgstr ""
 
 msgid "Failed to parse port number: %s\n"
-msgstr ""
+msgstr "མཐུད་ཁའི་ཨང་དབྱེ་ཞིབ་ཕམ་པ།：%s\n"
 
 msgid "Failed to query host name: %s\n"
-msgstr ""
+msgstr "གཙོ་འཁོར་མིང་འཚོལ་བ་ཕམ་པ།：%s\n"
 
 msgid "Failed to query version string: %s\n"
-msgstr ""
+msgstr "པར་གཞི་ཡིག་རྟགས་ཕྲེང་འཚོལ་བ་ཕམ་པ།：%s\n"
 
 msgid "Failed to read Avahi domain: %s"
 msgstr "Avahiཁོངས་ཀློག་པ་ཕམ་པ།：%s"
 
 msgid "Failed to register: %s\n"
-msgstr ""
+msgstr "ཐོ་འགོད་ཕམ་པ།：%s\n"
 
 msgid "Failed to resolve address '%s': %s\n"
 msgstr ""
@@ -306,19 +306,19 @@ msgid "Failed to resolve service '%s' of type '%s' in domain '%s': %s\n"
 msgstr ""
 
 msgid "Host Name"
-msgstr "གཙོ་འཁོར་གྱི་མིང་།"
+msgstr "གཙོ་འཁོར་མིང་།"
 
 msgid "Host name conflict\n"
-msgstr ""
+msgstr "གཙོ་འཁོར་མིང་འགལ་བ།\n"
 
 msgid "Host name successfully changed to %s\n"
-msgstr ""
+msgstr "གཙོ་འཁོར་མིང་བཅོས་པ་ལེགས་འགྲུབ། %s\n"
 
 msgid "Initializing..."
 msgstr "ཐོག་མར་ཅན་དུ་འགྱུར་བ།"
 
 msgid "Interface:"
-msgstr "མཐུད་ཁ།"
+msgstr "མཐུད་ཁ："
 
 msgid "Invalid DNS TTL"
 msgstr "ནུས་མེད་ཀྱི DNS TTL"
@@ -339,7 +339,7 @@ msgid "Invalid RDATA"
 msgstr "ནུས་མེད་ཀྱི་་་་  RDATA"
 
 msgid "Invalid address"
-msgstr "ནུས་མེད་ཀྱི་ཤག་གནས།"
+msgstr "ནུས་མེད་གནས་ཡུལ།"
 
 msgid "Invalid argument"
 msgstr "ནུས་མེད་ཀྱི་ཞུགས་གྲངས།"
@@ -396,19 +396,19 @@ msgid "Local name collision"
 msgstr "རང་གནས་མིང་འགལ་བ།"
 
 msgid "Location"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Memory exhausted"
 msgstr "ནང་གསོག་བཀོལ་ཚར།"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name collision, picking new name '%s'.\n"
 msgstr ""
 
 msgid "No command specified.\n"
-msgstr ""
+msgstr "དམིགས་འཛུགས་བཀའ་བརྡ་མེད། \n"
 
 msgid "No suitable network protocol available"
 msgstr "འཚམ་པའི་དྲ་བའི་གྲོས་མཐུན་སྤྱོད་རུང་མེད།"
@@ -420,10 +420,10 @@ msgid "Not permitted"
 msgstr "མི་ཆོག་པ།"
 
 msgid "Not supported"
-msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "OK"
-msgstr "གཏན་འཁེལ"
+msgstr " གཏན་འཁེལ།"
 
 msgid "OS Error"
 msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
@@ -432,7 +432,7 @@ msgid "Operation failed"
 msgstr "བཀོལ་སྤྱོད་ཕམ་པ།"
 
 msgid "Port"
-msgstr "མཐུད་ཁ།"
+msgstr " སྣེ་ཁ།"
 
 msgid "Resolve Service"
 msgstr "ཞབས་ཞུ་དབྱེ་ཞིབ།："
@@ -451,7 +451,7 @@ msgid "Resource record key is pattern"
 msgstr "ཐོན་ཁུངས་ཟིན་ཐོའི་གསང་ལྡེ་ནི་དངསོ་དཔེ་ཡིན།"
 
 msgid "Server version: %s; Host name: %s\n"
-msgstr ""
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་པར་གཞི།：%s；གཙོ་འཁོར་མིང་།：%s\n"
 
 msgid "Service Name"
 msgstr "ཞབས་ཞུའི་མིང་།"
@@ -514,7 +514,7 @@ msgid "Too few arguments\n"
 msgstr ""
 
 msgid "Too many arguments\n"
-msgstr ""
+msgstr "ཞུགས་གྲངས་མང་དྲགས།\n"
 
 msgid "Too many clients"
 msgstr "དུད་སྣེ་མང་དྲགས།"
@@ -526,13 +526,13 @@ msgid "Too many objects"
 msgstr "བྱ་ཡུལ་མང་དྲགས།"
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "Version mismatch"
 msgstr "པར་གཞི་དོ་མི་མཉམ།"
 
 msgid "Waiting for daemon ...\n"
-msgstr ""
+msgstr "daemon ...སྒུག་པ།\n"
 
 msgid "_Cancel"
 msgstr "ལེན་པ། (_C)"
@@ -550,19 +550,19 @@ msgid "avahi_service_browser_new() failed: %s\n"
 msgstr ""
 
 msgid "avahi_service_type_browser_new() failed: %s\n"
-msgstr ""
+msgstr "avahi_service_type_browser_new() ཕམ་པ།：%s\n"
 
 msgid "empty"
-msgstr "སྟོང་པ་ཡིན།"
+msgstr "སྟོང་པ།"
 
 msgid "execlp() failed: %s\n"
-msgstr ""
+msgstr "execlp() ཕམ་པ།：%s\n"
 
 msgid "n/a"
-msgstr "སྤྱོད་རུང་མིན་པ།"
+msgstr "མི་འཚམ།"
 
 msgid "service_browser failed: %s\n"
-msgstr ""
+msgstr "service_browser ཕམ་པ།：%s\n"
 
 msgid "service_type_browser failed: %s\n"
-msgstr ""
+msgstr "service_type_browser ཕམ་པ།：%s\n"

@@ -123,16 +123,18 @@ msgid ""
 "\"To edit a shortcut key, click on the corresponding row and type a new key \"\n"
 "\"combination, or press backspace to clear.\""
 msgstr ""
+"མགྱོགས་མཐེབ་རྩོམ་སྒྲིག་བྱེད་དགོས་ན། "
+"ལྟོས་བཅོས་ཀྱི་ཕྲེང་ལ་ཆིག་རྡེབ་བྱས་ཏེ་མཐེབ་གནོན་ཚན་སྡེབ་གསར་པ་ནང་འཇུག་གམ་ཕྱིར་འཐེན་མཐེབ་མནན་ནས་གཙང་སེལ་གྱིས།"
 
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] "དུས་ཚོད%d"
-msgstr[1] "དུས་ཚོད%d"
+msgstr[0] "%d ཆུ་ཚོད།"
+msgstr[1] "%d ཆུ་ཚོད།"
 
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] "སྐར་མ%d"
-msgstr[1] "སྐར་མ%d"
+msgstr[0] "སྐར་མ། %d"
+msgstr[1] "སྐར་མ། %d"
 
 msgid "%d second"
 msgid_plural "%d seconds"
@@ -161,10 +163,10 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "%s %s remaining (%.1f%%)"
-msgstr "ལྷག་མ་%s %s (%.1f%%)"
+msgstr "ལྷག་མ་%s %s། (%.1f%%)"
 
 msgid "%s %s until charged (%.1f%%)"
-msgstr "ཁེངས་པར་ད་དུང་བར་ཐག་%s %s(%.1f%%)ཡོད།"
+msgstr "གློག་གསོག་ནས་ཁེངས་བར་ %s %s། (%.1f%%)"
 
 msgid ""
 "%s %s until charged (%.1f%%)\n"
@@ -172,31 +174,31 @@ msgid ""
 msgstr ""
 
 msgid "%s charging (%.1f%%)"
-msgstr "%s གློག་བསོག་བཞིན་པ།(%.1f%%)"
+msgstr "%s གློག་གསོག་བཞིན་པ་། (%.1f%%)"
 
 msgid "%s discharging (%.1f%%)"
-msgstr "%s གློག་གཏོང་བཞིན་པ། (%.1f%%)"
+msgstr "%s གློག་ཕྱིར་གཏོང་བཞིན་པ་། (%.1f%%)"
 
 msgid "%s is fully charged"
-msgstr "%sཁེངས་ཚར།"
+msgstr "%sཁེངས་ཟིན།"
 
 msgid "%s must be a directory\n"
-msgstr ""
+msgstr "%s ངེས་པར་དུ་དཀར་ཆག་ཡིན་དགོས།\n"
 
 msgid "%s must be a regular file\n"
-msgstr ""
+msgstr "%sངེས་པར་དུ་རྒྱུན་ལྡན་གྱི་ཡིག་ཆ་ཡིན་དགོས།\n"
 
 msgid "%s must be owned by you\n"
-msgstr ""
+msgstr "%sངེས་པར་དུ་ཁྱེད་རང་ལ་དབང་དགོས།\n"
 
 msgid "%s must not have any directory components\n"
-msgstr ""
+msgstr "%sདཀར་ཆག་གི་ཁག་གང་ཡང་ཡོད་མི་འོས།\n"
 
 msgid "%s waiting to charge (%.1f%%)"
-msgstr "%s ཡིས་གློག་གསོག་པར་སྒུག་བཞིན་ཡོད།(%.1f%%)"
+msgstr "%s གློག་གསོག་ངང་སྒུག་(%.1f%%)"
 
 msgid "%s waiting to discharge (%.1f%%)"
-msgstr "%s ཡིས་གློག་གསོག་པར་སྒུག་བཞིན་ཡོད།(%.1f%%)"
+msgstr "%s གློག་གསོག་ངང་སྒུག་(%.1f%%)"
 
 msgid "%u Input"
 msgid_plural "%u Inputs"
@@ -205,8 +207,8 @@ msgstr[1] "%u ནང་འཇུག"
 
 msgid "%u Output"
 msgid_plural "%u Outputs"
-msgstr[0] "\"%u ཕྱིར་འདོན།"
-msgstr[1] "\"%u ཕྱིར་འདོན།"
+msgstr[0] "%u ཕྱིར་གཏོང་།"
+msgstr[1] "%u ཕྱིར་གཏོང་།"
 
 msgid "-Kylin Control Center"
 msgstr "--ཆི་ལིན་ཚོད་འཛིན་ངོས་པང་།"
@@ -271,8 +273,8 @@ msgstr "གློག་ཁུངས་གློག་འདོན།"
 
 msgid "AC adapter"
 msgid_plural "AC adapters"
-msgstr[0] "སྤེལ་རེས་གློག་ཁུངས་འཚམ་སྒྲིག་ཆས།"
-msgstr[1] "སྤེལ་རེས་གློག་ཁུངས་འཚམ་སྒྲིག་ཆས།"
+msgstr[0] "གློག་ཁུངས་སྤེལ་རྒྱུག་འཚམ་སྒྲིག་ཆས།"
+msgstr[1] "གློག་ཁུངས་སྤེལ་རྒྱུག་འཚམ་སྒྲིག་ཆས།"
 
 msgid "AM"
 msgstr "སྔ་དྲོ།"
@@ -296,10 +298,10 @@ msgid "Access to the version information failed"
 msgstr "པར་གཞིའི་ཆ་འཕྲིན་ཐོབ་ལེན་ཕམ་པ།"
 
 msgid "Actions"
-msgstr "འགུལ་སྟངས།"
+msgstr "བཀོལ་སྤྱོད།"
 
 msgid "Add"
-msgstr "གསར་བཟོ།"
+msgstr "རྩིག་ཤོག་ཁ་སྣོན།"
 
 msgid "Add Shortcuts"
 msgstr "མྱུར་མཐེབ་ཁ་སྣོན།"
@@ -311,7 +313,7 @@ msgid "Add programs"
 msgstr "ཁ་འབྱེད་འགོ་སློང་བྱ་རིམ་ཁ་སྣོན།"
 
 msgid "Additional startup _programs:"
-msgstr "འགོ་སློང་བྱ་རིམ་འཕར་མ། (_P)："
+msgstr "ཚད་བརྒལ་གྱི་འགོ་སློང་བྱ་རིམ།"
 
 msgid ""
 "Administrator can make any changes \n"
@@ -323,6 +325,7 @@ msgid ""
 "Administrator can make any changes needed on the system, including　\n"
 "installing and upgrading software."
 msgstr ""
+"དོ་དམ་པས་རྒྱུད་ཁོངས་སྟེང་ནས་སྒྲིག་འཇུག་དང་རིམ་སྤོར་མཉེན་ཆས་འདུས་པའི་དགོས་མཁོ་གང་རུང་གི་བཟོ་བཅོས་བྱས་ཆོག"
 
 msgid "Administrators"
 msgstr "དོ་དམ་པ།"
@@ -342,10 +345,10 @@ msgid "Applications"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ།"
 
 msgid "Apply"
-msgstr "ཉེར་སྤྱོད།"
+msgstr " གཏན་འཁེལ།"
 
 msgid "Ask"
-msgstr "དྲི་བ།"
+msgstr "འདྲི་རྩད།"
 
 msgid "Authentication failure!"
 msgstr "ར་སྤྲོད་ཕམ་པ།"
@@ -389,7 +392,7 @@ msgid "Browse more pictures..."
 msgstr "རི་མོ་དེ་བས་མང་བར་མིག་བཤར།"
 
 msgid "Built-in"
-msgstr "ནང་འཇོག"
+msgstr "ནང་ཁུལ་དུ་འཇོག་པ།"
 
 msgid "By _country"
 msgstr "རྒྱལ་ཁབ/ས་ཁུལ་ལ་གཞིགས་ནས།(_C)"
@@ -416,7 +419,7 @@ msgid ""
 msgstr ""
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Cannot Get Exec Path from Desktop"
 msgstr "Execཐོ་ལེན་ཕམ་པ།"
@@ -429,11 +432,11 @@ msgstr "ཤོང་ཚད།："
 
 msgid "Cell phone"
 msgid_plural "Cell phones"
-msgstr[0] "ཁ་པར།"
-msgstr[1] "ཁ་པར།"
+msgstr[0] "ལག་ཐོག་ཁ་པར།"
+msgstr[1] "ལག་ཐོག་ཁ་པར།"
 
 msgid "Center"
-msgstr "བར"
+msgstr "དཀྱིལ་སྒྲིག"
 
 msgid "Center_"
 msgstr "དཀྱིལ་སྒྲིག"
@@ -448,10 +451,10 @@ msgid "Change Name"
 msgstr "སྤྱོད་མཁན་གྱི་མིང་བསྒྱུར་བ།"
 
 msgid "Change PWD"
-msgstr ""
+msgstr "གསང་ཨང་བསྒྱུར་བ།"
 
 msgid "Change Password"
-msgstr "གསང་ཨང་བཟོ་བཅོས།"
+msgstr "གསང་ཨང་བསྒྱུར་བ།"
 
 msgid "Change Type"
 msgstr "སྤྱོད་མཁན་གྱི་རིགས་གྲས་བསྒྱུར་བ།"
@@ -466,13 +469,13 @@ msgid "Changge Face"
 msgstr "མགོ་པར་བསྒྱུར་བ།"
 
 msgid "Charge rate:"
-msgstr "གློག་གསོག་ཚད།"
+msgstr "གློག་གསོག་ཕྱོད།"
 
 msgid "Charge time:"
 msgstr "གློག་གསོག་དུས་ཚོད།"
 
 msgid "Charged"
-msgstr "ཁེངས་པ།"
+msgstr "གང་བ།"
 
 msgid "Charging"
 msgstr "གློག་གསོག་བཞིན་པ།"
@@ -493,10 +496,10 @@ msgid "Co_nnector:"
 msgstr ""
 
 msgid "Command"
-msgstr "བཀའ་བརྡ།"
+msgstr "བཀའ་ལག་བསྟར།"
 
 msgid "Command:"
-msgstr "བཀའ་བརྡ།："
+msgstr "བཀའ་ལག་བསྟར།"
 
 msgid "Compatible Brief"
 msgstr ""
@@ -505,8 +508,8 @@ msgstr ""
 
 msgid "Computer"
 msgid_plural "Computers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "རྩིས་འཁོར།"
+msgstr[1] "རྩིས་འཁོར།"
 
 msgid "Computer status"
 msgstr "རྩིས་འཁོར་གྱི་རྣམ་པ་བཟོ་བཅོས་བྱེད་པ།"
@@ -518,19 +521,19 @@ msgid "Contains illegal characters"
 msgstr ""
 
 msgid "Control Center"
-msgstr ""
+msgstr "སྒྲིག་འགོད།"
 
 msgid "Could not get information for %s: %s\n"
-msgstr ""
+msgstr "%sཡི་ཆ་འཕྲིན་ཐོབ་ཐབས་བྲལ།: %s\n"
 
 msgid "Could not get session bus while applying display configuration"
 msgstr "མངོན་འཆར་སྡེབ་སྒྲིག་ཉེར་སྤྱོད་སྐབས་གླེང་མོལ་མ་སྐུད་ཐོབ་ཐབས་བྲལ་བ།"
 
 msgid "Could not open %s/%s: %s\n"
-msgstr ""
+msgstr "%s/%sཁ་ཕྱེ་ཐབས་བྲལ་པ།: %s\n"
 
 msgid "Could not open %s: %s\n"
-msgstr ""
+msgstr "%s ཁ་ཕྱེ་ཐབས་མེད།: %s\n"
 
 msgid "Could not rename %s to %s: %s\n"
 msgstr ""
@@ -551,13 +554,13 @@ msgid "Current Account"
 msgstr "མིག་སྔའི་སྤྱོད་མཁན།"
 
 msgid "Current charge:"
-msgstr "མིག་སྔའི་གློག་གསོག"
+msgstr "མིག་སྔར་གློག་གསོག་བཞིན་པ།："
 
 msgid "Current password requirements:"
-msgstr ""
+msgstr "མིག་སྔའི་གསང་ཨང་ཀྱི་རྙོག་འཛིང་ཆེ་བའི་བླང་བྱ།"
 
 msgid "Cursor Blinking"
-msgstr "འོད་རྟགས་འོད་འཚེར་བ།"
+msgstr "འོད་རྟགས་འོད་འཚེར།"
 
 msgid "Cursor _blinks in text fields"
 msgstr "ཡིག་དེབ་ཁོངས་ཀྱི་འོད་རྟགས་འོད་འཚེར་བ།（B）"
@@ -566,7 +569,7 @@ msgid "Cursor blinks speed"
 msgstr "འོད་རྟགས་འོད་འཚེར་མྱུར་ཚད།"
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "Custom Shortcut"
 msgstr "མྱུར་མཐེབ་མཚན་ཉིད་རང་འཇོག"
@@ -588,16 +591,16 @@ msgid ""
 msgstr ""
 
 msgid "Default APP"
-msgstr ""
+msgstr "སོར་བཞག་ཉེར་སྤྱོད།"
 
 msgid "Default Application"
 msgstr "སོར་བཞག་ཉེར་སྤྱོད་བྱ་རིམ།"
 
 msgid "Delete"
-msgstr "འདོར་བ།"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
 
 msgid "Delete File"
-msgstr "ཡིག་ཆ་སུབ་པ།"
+msgstr "ཡིག་ཆ་བསུབ་པ།"
 
 msgid "Delete User"
 msgstr "སྤྱོད་མཁན་བསུབ་པ།"
@@ -606,7 +609,7 @@ msgid "Deleted!"
 msgstr "ལེགས་གྲུབ་བྱུང་བ།"
 
 msgid "Design charge:"
-msgstr "ཇུས་འགོད་གློག་སྣོན།"
+msgstr "གློག་སྣོན་ཇུས་འགོད།"
 
 msgid "Desktop file(*.desktop)"
 msgstr "ཅོག་ངོས་ཡིག་ཆ།(*.desktop)"
@@ -627,16 +630,16 @@ msgid "Disable _touchpad while typing"
 msgstr "ཡི་གེ་གཏག་སྐབས་རེག་པང་སྤྱོད་མི་ཆོག（T）"
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Discharge time:"
 msgstr "གློག་གཏོང་བའི་དུས་ཚོད།"
 
 msgid "Discharging"
-msgstr "གློག་གཏོང་ཕོ།"
+msgstr "གློག་གཏོང་བཞིན་པ།"
 
 msgid "Display"
-msgstr "མངོན་པ།"
+msgstr "འཆར་ཆས།"
 
 msgid "Dmesg Log"
 msgstr "Dmesgཉིན་ཐོ།"
@@ -652,13 +655,13 @@ msgstr ""
 "གཡས་ཀྱི་གློག་ཞུའི་ཤེལ་ཏོག་ལ་ཉིས་རྡེབ་བྱས་ནས་ཁྱེད་ཀྱི་སྒྲིག་འགོད་ཚོད་ལྟ་ལ་སྟབས་བདེ་བཟོས།"
 
 msgid "Empty"
-msgstr "སྟོང་བ།"
+msgstr "སྟོང་པ།"
 
 msgid "Enable _mouse clicks with touchpad"
 msgstr "རེག་པང་གི་ཙིག་རྟགས་རྡེབ་གནོན་སྤྱོད་འགོ་རྩོམ་པ།(M)"
 
 msgid "Enable _window and button sounds"
-msgstr "སྒེའུ་ཁུང་དང་མཐེབ་གནོན་སྐད་སྒྲ་སྤྱོད་འགོ་རྩོམ་པ།"
+msgstr "སྒེའུ་ཁུང་དང་མཐེབ་གནོན་སྐད་སྒྲ་སྤྱོད་འགོ་རྩོམ་པ།(_W)"
 
 msgid "Enable auto energy saving use bat"
 msgstr ""
@@ -667,10 +670,10 @@ msgid "Enable h_orizontal scrolling"
 msgstr "ཆུ་སྙོམས་འདེད་འགྲིལ་སྤྱོད་འགོ་རྩོམ་པ།（O）"
 
 msgid "Enabled touchpad"
-msgstr "རེག་པང་་སྤྱོད་འགོ་རྩོམ་པ།"
+msgstr "རེག་པང་སྤྱོད་འགོ་རྩོམ།"
 
 msgid "Excellent"
-msgstr "ཧ་ཅང་བཟང་།"
+msgstr "ཧ་ཅང་བཟང་བ།"
 
 msgid "Expire Date:"
 msgstr "དུས་ཡོལ་སྒྲིག་འགོད།"
@@ -695,7 +698,7 @@ msgstr ""
 "infoཡི་འབྲེལ་ཡོད་ཞབས་ཞུ་འཁོར་སྐྱོད་བྱེད་བཞིན་ཡོད་མེད་ལ་ཞིབ་བཤེར་བྱེད་དགོས།"
 
 msgid "Fair"
-msgstr "འབྲིང་།"
+msgstr "འགྲིག་ཙམ།"
 
 msgid "Fast"
 msgstr "མགྱོགས་པོ།"
@@ -704,7 +707,7 @@ msgid "File Description:"
 msgstr "ཞིབ་བརྗོད།"
 
 msgid "File Type:"
-msgstr "ཡིག་ཆའི་རིགས་གྲས།："
+msgstr "ཡིག་ཆའི་རིགས་གྲས།"
 
 msgid "Font"
 msgstr "ཡིག་གཟུགས།"
@@ -719,13 +722,13 @@ msgid "Font mono choice:"
 msgstr ""
 
 msgid "Font size :"
-msgstr "ཡིག་གཟུགས་ཆེ་ཆུང་།:"
+msgstr "ཡིག་གཟུགས་ཆེ་ཆུང་།"
 
 msgid "From theme"
-msgstr "བརྗོད་གཞི་ནས་ལེན་པ།"
+msgstr "བརྗོད་སྙིང་ནས་འོང་བ།"
 
 msgid "Front"
-msgstr "སྔོན་བཀོད་སྒྲ་ལམ།"
+msgstr "སྔོན་སྒྲིག་སྒྲ་ལམ།"
 
 msgid "Full"
 msgstr "ཆ་ཚང་།"
@@ -737,10 +740,10 @@ msgid "Function description"
 msgstr "བྱེད་ནུས་གསལ་བཤད།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Good"
-msgstr "བཟང་།"
+msgstr "ཅུང་བཟང་།"
 
 msgid "Gra_yscale"
 msgstr "སྐྱ་ཚད།(Y）"
@@ -767,10 +770,10 @@ msgid "High Performance Brief"
 msgstr ""
 
 msgid "Home"
-msgstr "དཀར་ཆག་གཙོ་བོ།"
+msgstr "ཚོད་འཛིན་ངོས་པང་ཀྱི་གཙོ་ངོས།"
 
 msgid "Hotkey"
-msgstr "མྱུར་མཐེབ།"
+msgstr "ཚ་མཐེབ།"
 
 msgid "I known, Continue"
 msgstr "ངས་ཤེས་སོང་།མུ་མཐུད་བཟོ་བཅོས་བྱེད།"
@@ -785,7 +788,7 @@ msgid "Ignored Hosts"
 msgstr "སྣང་མེད་དུ་བཞག་པའི་གཙོ་འཁོར།"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Important Log"
 msgstr "གལ་ཆེའི་ཉིན་ཐོ།"
@@ -810,8 +813,8 @@ msgstr "མཐེབ་ཅིག་མནན་ནས་སྡོད་སྐབ
 
 msgid "Keyboard"
 msgid_plural "Keyboards"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "མཐེབ་གཞོང་།"
+msgstr[1] "མཐེབ་གཞོང་།"
 
 msgid "Keyboard Tip"
 msgstr "མཐེབ་གནོན་གསལ་བརྡ།"
@@ -826,8 +829,8 @@ msgstr ""
 
 msgid "Laptop battery"
 msgid_plural "Laptop batteries"
-msgstr[0] "དེབ་ཟིན་གློག་རྫས།"
-msgstr[1] "དེབ་ཟིན་གློག་རྫས།"
+msgstr[0] "དེབ་ཟིན་གློག་སྨན།"
+msgstr[1] "དེབ་ཟིན་གློག་སྨན།"
 
 msgid "Last full charge:"
 msgstr "ཐེངས་སྔོན་མའི་གློག་གསོག"
@@ -839,7 +842,7 @@ msgid "Lead acid"
 msgstr "ཞ་སྐྱུར།"
 
 msgid "Left"
-msgstr "དུས་འཁོར་ལྡོག་ཕྱོགས།"
+msgstr "གཡོན།"
 
 msgid "List of keyboard layouts selected for usage"
 msgstr "འདེམས་སྤྱོད་བྱས་པའི་མཐེབ་གཞོང་བཀོད་པའི་རེའུ་མིག"
@@ -875,7 +878,7 @@ msgid "Low"
 msgstr "དམའ།"
 
 msgid "Maximum"
-msgstr "ཆེས་ཆེ་ཤོས།"
+msgstr "ཆེ་ཤོས་ཐང་།"
 
 msgid "Media player"
 msgid_plural "Media players"
@@ -883,22 +886,22 @@ msgstr[0] "སྨྱན་གཟུགས་གཏོང་ཆས།"
 msgstr[1] "སྨྱན་གཟུགས་གཏོང་ཆས།"
 
 msgid "Memory:"
-msgstr "ནང་གསོག："
+msgstr "ནང་གསོག"
 
 msgid "Message Log"
 msgstr "Messageཉིན་ཐོ།"
 
 msgid "Minimum"
-msgstr "ཆུང་ཤོས།"
+msgstr "ཆེས་ཤོས་ཐང་།"
 
 msgid "Mirror Screens"
 msgstr "ཤེལ་བརྙན།"
 
 msgid "Missing"
-msgstr ""
+msgstr "མི་འདང་བ།"
 
 msgid "Model:"
-msgstr ""
+msgstr "བཟོ་དབྱིབས།："
 
 msgid "Modify username failed!"
 msgstr "སྤྱོད་མཁན་མིང་བཟོ་བཅོས་ཕམ་པ།"
@@ -919,8 +922,8 @@ msgstr "འཆར་བ།"
 
 msgid "Mouse"
 msgid_plural "Mice"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ཙིག་རྟགས།"
+msgstr[1] "ཙིག་རྟགས།"
 
 msgid "Mouse Keys"
 msgstr "ཙིག་མཐེབ།"
@@ -929,7 +932,7 @@ msgid "Mouse wheel speed"
 msgstr "ཙིག་རྟགས་ཀྱི་འཁོར་ལོའི་འགྲོས་ཚད།"
 
 msgid "Mouse_"
-msgstr ""
+msgstr "ཙིག་རྟགས།"
 
 msgid "Multimedia"
 msgstr "སྨྱན་མང་གཟུགས།"
@@ -941,26 +944,26 @@ msgid "N_one"
 msgstr "མེད།（O）"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name:"
-msgstr "མིང་།"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid ""
 "Network \n"
 "Agent"
-msgstr ""
+msgstr "དྲ་རྒྱའི་ལས་ཚབ།"
 
 msgid ""
 "Network \n"
 "Connections"
-msgstr ""
+msgstr "དྲ་རྒྱ་འབྲེལ་མཐུད།"
 
 msgid "Network Agent"
-msgstr ""
+msgstr "དྲ་རྒྱའི་ལས་ཚབ།"
 
 msgid "Network Agent_"
-msgstr ""
+msgstr "དྲ་རྒྱའི་ལས་ཚབ།"
 
 msgid "Network Connections"
 msgstr "དྲ་རྒྱ་འབྲེལ་མཐུད།"
@@ -969,7 +972,7 @@ msgid "Network Proxy Details"
 msgstr "དྲ་རྒྱའི་ལས་ཚབ་གནས་ཚུལ་ཞིབ་ཕྲ།"
 
 msgid "Never"
-msgstr "གཏན་ནས་མི་བྱེད།"
+msgstr "གཏན་མིན།"
 
 msgid "New password length is too short!"
 msgstr "གསང་ཨང་གསར་པ་རིང་ཚད་ཐུང་དྲགས་པ།"
@@ -978,10 +981,10 @@ msgid "New windows u_se active window's layout"
 msgstr "སྒེའུ་ཁུང་གསར་བའི་བྱ་འགུལ་གྱི་སྒེའུ་ཁུང་གི་བཀོད་པ།（S）"
 
 msgid "Nickel Cadmium"
-msgstr "ནའེ་ཀོ"
+msgstr "ཉའེ་ཆིང་།"
 
 msgid "Nickel metal hydride"
-msgstr "ནའེ་ཆིང་།"
+msgstr "ཉའེ་ཆིང་།"
 
 msgid "No Desktop Background"
 msgstr "ཅོག་ངོས་ཀྱི་རྒྱབ་ལྗོངས་མེད།"
@@ -996,13 +999,13 @@ msgid "No operations(Extended Screen)"
 msgstr ""
 
 msgid "No sounds"
-msgstr "སྒྲ་མེད།"
+msgstr "སྒྲ་མེད་པ།"
 
 msgid "Normal"
-msgstr "སྤྱིར་བཏང་།"
+msgstr "དཀྱུས་མ།"
 
 msgid "Ok"
-msgstr "གཏན་འཁེལ།"
+msgstr " གཏན་འཁེལ།"
 
 msgid "Open Monitor"
 msgstr "འཆར་ཆས་ཁ་ཕྱེ་བ།"
@@ -1035,13 +1038,13 @@ msgid "Peak detect"
 msgstr "གྲངས་ཚད་མཐོ་ཤོས་ཀྱི་ཞིབ་དཔྱད།"
 
 msgid "Percentage charge:"
-msgstr "གློག་སྣོན་བརྒྱ་ཆའི་བསྡུར་ཚད།"
+msgstr "གློག་གསོག་བརྒྱ་ཆའི་བསྡུར་ཚད།"
 
 msgid "Personalization"
 msgstr "རང་གཤིས་ཅན།"
 
 msgid "Personalization_"
-msgstr ""
+msgstr "རང་གཤིས་ཅན།"
 
 msgid "Pictures folder"
 msgstr ""
@@ -1050,6 +1053,8 @@ msgid ""
 "Please add the language you will use to the list. And the first one in the list is the most\n"
 "commonly used language."
 msgstr ""
+"སྤྱད་བྱའི་སྐད་བརྡའི་རེའུ་མིག་འདིའི་ནང་དུ་ཁ་སྣོན་བྱེད་པ་དང་། "
+"རེའུ་མིག་ནང་དུ་གནས་པའི་སྐད་ཆ་ཨང་དང་པོ་ནི་ཁྱོད་ཀྱི་རྒྱུན་སྤྱོད་ཀྱི་སྐད་བརྡ་ཡིན།"
 
 msgid "Please choose another password."
 msgstr "གསང་ཨང་གཞན་འདེམས་རོགས།"
@@ -1069,7 +1074,7 @@ msgid "Please enter the current password"
 msgstr "མིག་སྔའི་གསང་ཨང་ནང་འཇུག་བྱེད་རོགས།"
 
 msgid "Please enter the new password"
-msgstr ""
+msgstr "གསང་ཨང་གསར་པ་ནང་འཇུག་བྱེད་རོགས།"
 
 msgid "Please enter the new username"
 msgstr "སྤྱོད་མཁན་གྱི་མིང་གསར་པ་ནང་འཇུག་བྱེད་རོགས།"
@@ -1081,7 +1086,7 @@ msgid "Please enter the password "
 msgstr "གསང་ཨང་ནང་འཇུག་བྱེད་རོགས།"
 
 msgid "Please enter the username"
-msgstr "སྤྱོད་མཁན་གྱི་མིང་ནང་འཇུག་བྱེད་རོགས།"
+msgstr "སྤྱོད་མཁན་མིང་ནང་འཇུག་བྱེད་རོགས།"
 
 msgid "Please make a system diagnosis first and then export the information."
 msgstr ""
@@ -1126,7 +1131,7 @@ msgid "Power Manager_"
 msgstr ""
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Preview:"
 msgstr "སྔོན་ལྟ།"
@@ -1138,7 +1143,7 @@ msgid "Printer_"
 msgstr "པར་འཁོར།"
 
 msgid "Product:"
-msgstr "ཐོན་རྫས།"
+msgstr "ཐོན་རྫས།："
 
 msgid "Program Location:"
 msgstr "གནས་ཡུལ།"
@@ -1165,13 +1170,13 @@ msgid "Random"
 msgstr "སྐབས་བསྟུན།"
 
 msgid "Rear"
-msgstr "གཞུག་འཇོག་སྒྲ་ལམ།"
+msgstr "གཞུག་སྒྲིག་སྒྲ་ལམ།"
 
 msgid "Reduce consumption when idle"
 msgstr ""
 
 msgid "Refresh:"
-msgstr ""
+msgstr "གསར་འདོན་ཕྱོད།"
 
 msgid ""
 "Regard the computer as _idle after:\n"
@@ -1179,7 +1184,7 @@ msgid ""
 msgstr ""
 
 msgid "Rename"
-msgstr "མིང་བསྐྱར་འདོགས།"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་བསྒྱུར་བ།"
 
 msgid "Repeat Keys"
 msgstr "མཐེབ་གནོན་བསྐྱར་ཟློས།"
@@ -1188,19 +1193,19 @@ msgid "Repeat keys speed"
 msgstr "མཐེབ་གནོན་བསྐྱར་ཟློས་མྱུར་ཚད།"
 
 msgid "Reset"
-msgstr "བསྐྱར་འཇོག"
+msgstr "བསྐྱར་སྒྲིག"
 
 msgid "Reset to De_faults"
 msgstr "སོར་བཞག་སྡེབ་སྒྲིག་སླར་གསོ།(_F)"
 
 msgid "Resolution:"
-msgstr "འབྱེད་ཕྱོད།："
+msgstr "འབྱེད་ཕྱོད།"
 
 msgid "Restore Defaults"
-msgstr ""
+msgstr "སོར་བཞག་སྒྲིག་འགོད་སླར་གསོ།"
 
 msgid "Right"
-msgstr "གཡས་ཕྱོགས།"
+msgstr "གཡས།"
 
 msgid "S_ensitivity:"
 msgstr "ཚོར་སྐྱེན་ཚད།（E）："
@@ -1215,22 +1220,23 @@ msgid "Same image in all monitors"
 msgstr "འཆར་ཆས་ཡོད་ཚད་ལས་བརྙན་ཡོལ་གཙོ་བོའི་བརྙན་རིས་མངོན་པ།"
 
 msgid "Save"
-msgstr "ཉར་བ།"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
 
 msgid "Scale"
-msgstr "སྐྱེད་སྐྱུང་།"
+msgstr "བསྡུར་ཚད་ཆེར་སྐྱེད།"
 
 msgid "Scaling Mode:"
 msgstr ""
 
 msgid "Scan"
-msgstr "མིག་བཤར།"
+msgstr "མིག་བཤེར།"
 
 msgid "Screen darkens use battery:"
 msgstr ""
+"བཀོལ་སྤྱོད་མེད་པའི་སྐབས་སུ་དུས་ཚོད་འདིའི་རྗེས་སུ་བརྙན་ཡོལ་གྱི་གསལ་ཚད་ཇེ་ཆུང་དུ་གཏོང་བ།"
 
 msgid "Screensaver"
-msgstr "བརྙན་ཡོལ་སྲུང་སྐྱོབ་བྱ་རིམ།"
+msgstr "བརྙན་ཡོལ་སྲུང་སྐྱོབ།"
 
 msgid "Screensaver Preview"
 msgstr "བརྙན་སྲུང་སྔོན་ལྟ།"
@@ -1257,7 +1263,7 @@ msgstr ""
 "དེ་འཐེན་ནས་གྲལ་བསྒྲིགས་པ།"
 
 msgid "Select command"
-msgstr "Shellབཀའ་བརྡ།"
+msgstr "བཀའ་བརྡ་འདེམ་པ།"
 
 msgid "Select the color with theme you love"
 msgstr "བརྗོད་སྙིང་ཁ་དོག་འདེམ་པ།"
@@ -1266,13 +1272,13 @@ msgid "Select the keyboard layout"
 msgstr "མཐེབ་གཞོང་གི་བཀོད་པ་འདེམ་པ།"
 
 msgid "Select the theme you love"
-msgstr "བརྗོད་གཞི་འདེམ་པ།"
+msgstr "བརྗོད་སྙིང་འདེམ་པ།"
 
 msgid "Selection Program"
 msgstr "མྱུར་འབྱེད་བྱ་རིམ་འདེམ་པ།"
 
 msgid "Serial number:"
-msgstr "རིམ་སྟར་ཨང་རྟགས།"
+msgstr "རིམ་སྟར་ཨང་རྟགས།："
 
 msgid "Set User Options"
 msgstr "སྤྱོད་མཁན་གྱི་འདེམས་ཚན་སྒྲིག་འགོད།"
@@ -1299,10 +1305,10 @@ msgid "Show keyboard tip"
 msgstr "མཐེབ་མནན་སྣེ་སྟོན།（ཆེ་བྲིས་ཆུང་བྲིས།/མཐེབ་གཞུང་ཆུང་བ།）འཆར་བ།"
 
 msgid "Shutdown"
-msgstr "སྒོ་རྒྱག་པ།"
+msgstr "ཁ་རྒྱག"
 
 msgid "Sleep"
-msgstr ""
+msgstr "མལ་གསོ།"
 
 msgid "Slow"
 msgstr "དལ།"
@@ -1311,7 +1317,7 @@ msgid "Smoothing"
 msgstr "འཇམ་སྙོམས།"
 
 msgid "Sound"
-msgstr "སྒྲ་ནུས།"
+msgstr "སྒྲ།"
 
 msgid "Sound Effects"
 msgstr "སྒྲའི་ཕན་འབྲས།"
@@ -1320,7 +1326,7 @@ msgid "Sound Output Volume"
 msgstr "ཕྱིར་སྐྱེལ་སྒྲ་ཚད།（_O）"
 
 msgid "Sound Preferences"
-msgstr "སྒྲའི་སྔོན་འདེམ་ཚན་པ།"
+msgstr "སྒྲའི་སྔོན་འདེམས་ཚན་པ།"
 
 msgid "Sound _theme:"
 msgstr "སྒྲའི་བརྗོད་གཞི།"
@@ -1356,19 +1362,19 @@ msgid "Start Diagnose"
 msgstr "བརྟག་དཔྱད་བྱེད་འགོ་བརྩམས།"
 
 msgid "Startup Programs"
-msgstr "བྱ་རིམ་འགོ་རྩོམ།"
+msgstr "བྱ་རིམ་མགོ་སློང་།"
 
 msgid "Status:"
-msgstr "རྣམ་པ།"
+msgstr "རྣམ་པ།："
 
 msgid "Stop"
-msgstr "停止མཚམས་འཇོག"
+msgstr "མཚམས་འཇོག་པ།"
 
 msgid "Stretch"
-msgstr "འཐེན་རྐྱོང་།"
+msgstr "རྐྱོང་བ།"
 
 msgid "Style:"
-msgstr "བཟོ་ལྟ།"
+msgstr "པར་རིས་འཇོག་སྟངས།"
 
 msgid "Sub_pixel (LCDs)"
 msgstr "བརྙན་རྒྱུ་ཕལ་བ།(_P)། (LCDs)"
@@ -1409,8 +1415,8 @@ msgstr ""
 
 msgid "Tablet"
 msgid_plural "Tablets"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "རེག་པང།"
+msgstr[1] "རེག་པང།"
 
 msgid "Technology:"
 msgstr "ལག་རྩལ།："
@@ -1422,7 +1428,7 @@ msgid "Test Speakers"
 msgstr "ཉན་དུང་ཚོད་ལེན།"
 
 msgid "Testing event sound"
-msgstr "དོན་རྐྱེན་གྱི་སྒྲ་ཚོད་ལེན།"
+msgstr "དོན་རྐྱེན་གྱི་སྒྲའི་ཚོད་ལེན།"
 
 msgid ""
 "The display maybe abnormal or unable to displayed due to the compatibility problem between display device and graphics card after the resolution or refresh rate is modified.\n"
@@ -1474,10 +1480,10 @@ msgid "The source filename must be absolute"
 msgstr "ཁུངས་ཀྱི་ཡིག་ཆའི་མིང་དེ་ངེས་པར་དུ་བལྟོས་མེད་འགྲོ་ལམ་ཡིན་དགོས།"
 
 msgid "The startup command cannot be empty"
-msgstr "བཀའ་བརྡ་སྟོང་པ་མི་ཆོག་པ་འགོ་སློང་།"
+msgstr "ལས་འགོ་ཚུགས་པའི་བཀའ་སྟོང་བར་བཞག་ན་མི་འགྲིག"
 
 msgid "The startup command is not valid"
-msgstr "བཀའ་བརྡ་ནུས་མེད་འགོ་སློང་།"
+msgstr "གོ་མི་ཆོད་པའི་འགོ་རྩོམ་བཀའ་བརྡ།"
 
 msgid "The sysinfo.tar.gz has been exported to the desktop."
 msgstr "ཆ་འཕྲིནsysinfo.tar.gzཅོག་ངོས་སུ་ཕྱིར་འདྲེན་བྱས་ཟིན།"
@@ -1499,17 +1505,19 @@ msgstr ""
 
 msgid "The user name can only be composed of letters, numbers and underline!"
 msgstr ""
+"སྤྱོད་མཁན་གྱི་མིང་ནི་ཡི་གེ་དང་ཨང་གྲངས།དེ་མིན་འོག་ཐིག་བཅས་ཁོ་ནས་གྲུབ་དགོས།"
 
 msgid ""
 "The user name corresponds to the group already exists,please use a different"
 " user name"
 msgstr ""
+"སྤྱོད་མཁན་གྱི་མིང་དང་དོ་ཟླའི་ཚོ་ཆུང་འདུག་པས་སྤྱོད་མཁན་གཞན་པའི་མིང་ལ་བརྗེ་རོགས།"
 
 msgid "The user name has been used, please replace with another one!"
 msgstr "སྤྱོད་མཁན་གྱི་མིང་དེ་བཀོལ་ཟིན་པས་བརྗེ་རོགས།"
 
 msgid "The user name is already in use, please use a different one."
-msgstr ""
+msgstr "སྤྱོད་མཁན་གྱི་མིང་དེ་བཀོལ་ཟིན་པས་སྤྱོད་མཁན་མིང་གཞན་ལ་བརྗེ་རོགས།"
 
 msgid "Theme"
 msgstr "བརྗོད་གཞི།"
@@ -1530,7 +1538,7 @@ msgid "Time Dates"
 msgstr "དུས་ཚོད་དང་ཚེས་གྲངས།"
 
 msgid "Time Dates_"
-msgstr ""
+msgstr "དུས་ཚོད་དང་ཚེས་གྲངས།"
 
 msgid "Time and Dates"
 msgstr "དུས་ཚོད་དང་ཚེས་གྲངས།"
@@ -1545,16 +1553,16 @@ msgid "To test the repetition rate of the input character:"
 msgstr "ཡིག་རྟགས་ནང་འཇུག་བྱས་ནས་བསྐྱར་ཟློས་འགྲོས་ཚད་ཚོད་ལྟ་བྱེད་པ།："
 
 msgid "Touchpad"
-msgstr "རེག་པང་།"
+msgstr "རེག་པང།"
 
 msgid "Two-_finger scrolling"
 msgstr "མཛུབ་ཟུང་འཁོར་འགུལ།（F）"
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "Tzone:"
-msgstr "དུས་ཁུལ།"
+msgstr "དུས་ཁུལ།:"
 
 msgid "UPS"
 msgid_plural "UPSs"
@@ -1568,10 +1576,10 @@ msgid "Unamplified"
 msgstr "ཆེར་སྐྱེད་མིན་པ།"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unknown error"
-msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+msgstr "གསང་ཨང་རྙོག་འཛིང་ཚད་བླང་བྱ་དང་མི་མཐུན་པ།"
 
 msgid "Unknown technology"
 msgstr "ངེས་མེད་ཀྱི་ལག་རྩལ།"
@@ -1605,13 +1613,14 @@ msgid "User Account"
 msgstr "སྤྱོད་མཁན་གྱི་རྩིས་ཐོ།"
 
 msgid "User Account_"
-msgstr ""
+msgstr "སྤྱོད་མཁན་གྱི་རྩིས་ཐོ།"
 
 msgid "User Option"
 msgstr "སྤྱོད་མཁན་གྱི་གདམ་བྱང་།"
 
 msgid "User has not been removed completely, please use a different one."
 msgstr ""
+"སྤྱོད་མཁན་གྱི་མིང་འདིར་ལྷག་ལུས་བྱུང་བའི་སྡེབ་སྒྲིག་ཡོད་པས་སྤྱོད་མཁན་གཞན་པའི་མིང་ལ་བརྗེ་རོགས།"
 
 msgid "User name can not contain capital letters!"
 msgstr "སྤྱོད་མཁན་གྱི་མིང་ནང་དུ་ཆེ་བྲིས་གསལ་བྱེད་འདུས་མི་རུང་།"
@@ -1623,16 +1632,16 @@ msgid "Username length need to less than 32!"
 msgstr "སྤྱོད་མཁན་གྱི་མིང་གི་རིང་ཚད་དེ་གནས་32ལས་ཆུང་དགོས།"
 
 msgid "Username:"
-msgstr "སྤྱོད་མཁན་གྱི་མིང་"
+msgstr "སྤྱོད་མཁན་མིང་།:"
 
 msgid "Vendor:"
-msgstr "བཟོ་གྲྭ"
+msgstr "བཟོ་གྲྭ："
 
 msgid "Waiting to charge"
-msgstr "གློག་གསོག་བྱ།"
+msgstr "གློག་གསོག་པར་སྒུགས་པ།"
 
 msgid "Waiting to discharge"
-msgstr "གློག་འདོན་བྱ།"
+msgstr "གློག་གཏོང་བར་སྒུགས་པ།"
 
 msgid "When laptop lid is cl_osed:"
 msgstr "ཟིན་དེབ་རྩིས་འཕྲུལ་གྱི་ཁ་ལེབ་རྒྱག་སྐབས།（O）"
@@ -1657,13 +1666,13 @@ msgid "_Balance(_B):"
 msgstr "དོ་མཉམ།(_B):"
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Country:"
 msgstr "རྒྱལ་ཁབ/ས་ཁུལ(_C):"
 
 msgid "_Delay:"
-msgstr "ཕྱི་འགྱངས། (_D)："
+msgstr "དུས་འགྱངས།(D)："
 
 msgid "_Details"
 msgstr "ཞིབ་ཕྲ།(_D)"
@@ -1696,13 +1705,13 @@ msgid "_Lock screen when screensaver is active"
 msgstr "རྩིས་འཁོར་ཁོམ་པའི་དུས་སུ་རང་འགུལ་གྱིས་བརྙན་ཡོལ་དམིགས་འཛུགས་བྱེད་པ།（L）"
 
 msgid "_Medium"
-msgstr "འབྲིང་། (_M)"
+msgstr "འབྲིང་རིམ།(_M)"
 
 msgid "_None"
 msgstr "མེད།(_N)"
 
 msgid "_OK"
-msgstr "འགྲིག་པ།(_O)"
+msgstr "གཏན་འཁེལ།"
 
 msgid "_Profile(_P):"
 msgstr "ཡིག་ཆ་སྡེབ་སྒྲིག(_P):"
@@ -1726,7 +1735,7 @@ msgid "_Slight"
 msgstr "ཕྲན་སྒྲིག"
 
 msgid "_Speed:"
-msgstr "མགྱོགས་ཚད། (_S)："
+msgstr "མྱུར་ཚད།（S）"
 
 msgid "_Subwoofer(_S):"
 msgstr "སྒྲ་དམན་སྒྱོགས།(_S):"
@@ -1754,16 +1763,16 @@ msgid "check the system detection information on this computer "
 msgstr "རྒྱུད་ཁོངས་འདིའི་ཞིབ་བཤེར་ཆ་འཕྲིན་ལ་ལྟ་ཞིབ་བྱེད་པ།"
 
 msgid "configure dict check"
-msgstr ""
+msgstr "གསང་ཨང་ཚིག་མཛོད་ཞིབ་བཤེར།"
 
 msgid "date:"
-msgstr "ཚེས་གྲངས།"
+msgstr "ཚེས་གྲངས།:"
 
 msgid "default"
 msgstr "སོར་བཞག"
 
 msgid "delete"
-msgstr "འདོར་བ།"
+msgstr "རྩིག་ཤོག་བསུབ་པ།"
 
 msgid "diagnosing"
 msgstr "བརྟག་དཔྱད་བྱེད་བཞིན་པ།"
@@ -1772,7 +1781,7 @@ msgid "diagnosis information"
 msgstr "བརྟག་དཔྱད་ཆ་འཕྲིན།"
 
 msgid "disabled"
-msgstr "སྤྱོད་འགོག་ཟིན།"
+msgstr "འགོག་སྤྱོད་བྱས་ཟིན།"
 
 msgid "dmesg log"
 msgstr "dmesgཉིན་ཐོ།"
@@ -1781,7 +1790,7 @@ msgid "dots per inch"
 msgstr "དབྱིན་ཚུན་རེའི་ཚེག་གྲངས།"
 
 msgid "enabled"
-msgstr "བཀོལ་བ།"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "enter the password twice inconsistencies!"
 msgstr "ཐེངས་གཉིས་ཀྱི་གསང་ཨང་ནང་འཇུག་མི་མཐུན་པ།"
@@ -1792,15 +1801,15 @@ msgid ""
 msgstr ""
 
 msgid "format:"
-msgstr "རྣམ་གཞག "
+msgstr "རྣམ་གཞག"
 
 msgid "graphics card :"
 msgstr "འཆར་བྱང་།"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] "ཆུ་ཚོད།"
-msgstr[1] "ཆུ་ཚོད།"
+msgstr[0] "དུས་ཚོད།"
+msgstr[1] "དུས་ཚོད།"
 
 msgid ""
 "if you want to delete the %s user, belonging to the user's desktop, "
@@ -1808,7 +1817,7 @@ msgid ""
 msgstr ""
 
 msgid "is the same as the old one"
-msgstr "གསང་ཨང་རྙིང་པ་དང་མཚུངས་པ།"
+msgstr "གསང་ཨང་གསར་པ་དང་གསང་ཨང་རྙིང་པ་གཅིག་པ་རེད།"
 
 msgid "kernel information"
 msgstr "ནང་སྙིང་གི་ཆ་འཕྲིན།"
@@ -1847,7 +1856,7 @@ msgid "medium(M)--125%"
 msgstr "འབྲིང་།(M)--125%"
 
 msgid "memory allocation error"
-msgstr "ནང་གསོག་བགོད་པ་ནོར་འཁྲུལ་བྱུང་།"
+msgstr "ནང་གསོག་བགོ་བ་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "message log"
 msgstr "messageཉིན་ཐོ།"
@@ -1897,7 +1906,7 @@ msgid "modification time:"
 msgstr "བཟོ་བཅོས་དུས་ཚོད།"
 
 msgid "name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "network card "
 msgstr "དྲ་བྱང་།"
@@ -1935,7 +1944,7 @@ msgid "preview"
 msgstr "སྔོན་ལྟ།"
 
 msgid "program name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "property"
 msgstr "གཏོགས་གཤིས།"
@@ -1971,7 +1980,7 @@ msgid "sound card:"
 msgstr "སྒྲ་བྱང་།"
 
 msgid "status"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "take effact in opteration logout"
 msgstr "རྩིས་ཐེམ་ནས་སུབ་རྗེས་ནུས་པ་ཐོན།"
@@ -1981,7 +1990,7 @@ msgstr ""
 "སྤྱོད་མཁན་དེ་ཐོ་འགོད་བྱས་ཟིན་པས་སྤྱོད་མཁན་དེ་རྩིས་ཐེམ་ནས་དོར་རྗེས་བཟོ་བཅོས་བྱེད་རོགས།"
 
 msgid "time:"
-msgstr "དུས་ཚོད།："
+msgstr "དུས་ཚོད།"
 
 msgid "version information:"
 msgstr "པར་གཞིའི་ཆ་འཕྲིན།"
@@ -1997,3 +2006,176 @@ msgstr "/ལོའི་ཟླ་/ཚེས་/"
 
 msgid "y/m/d w"
 msgstr "/ལོའི་ཟླ་/ཚེས་/ གཟའ་འཁོར།"
+
+msgid "Display a slideshow from your Pictures folder"
+msgstr ""
+
+msgid "Location to get images from"
+msgstr ""
+
+msgid "PATH"
+msgstr ""
+
+msgid "Color to use for images background"
+msgstr ""
+
+msgid "\"#rrggbb\""
+msgstr ""
+
+msgid "Do not randomize pictures from location"
+msgstr ""
+
+msgid "Do not try to stretch images on screen"
+msgstr ""
+
+msgid "_RGB"
+msgstr ""
+
+msgid "_BGR"
+msgstr ""
+
+msgid "_VRGB"
+msgstr ""
+
+msgid "VB_GR"
+msgstr ""
+
+msgid "%d Hz"
+msgstr ""
+
+msgid "%d x %d"
+msgstr ""
+
+msgid "Could not detect displays"
+msgstr ""
+
+msgid "不能获取屏幕信息"
+msgstr ""
+
+msgid "label"
+msgstr ""
+
+msgid "Copying files"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "To:"
+msgstr "དུས་ཁུལ།:"
+
+msgid "Copying themes"
+msgstr ""
+
+msgid "Invalid screensaver theme"
+msgstr ""
+
+msgid "%s does not appear to be a valid screensaver theme."
+msgstr ""
+
+msgid "Copying file: %u of %u"
+msgstr ""
+
+msgid "%i %s %i %s"
+msgstr ""
+
+msgid "PDA"
+msgid_plural "PDAs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s %s %s"
+msgstr ""
+
+msgid "%s %s"
+msgstr ""
+
+msgid "%s"
+msgstr ""
+
+msgid "Could not load the main interface"
+msgstr "འཆར་ཆས་ཀྱི་སྡེབ་སྒྲིག་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Please make sure that the screensaver is properly installed"
+msgstr ""
+"རྩིས་འཁོར་དེའི་ནང་མ་མཐར་ཡང་སྤྱོད་མཁན་ཞིག་ནི་དོ་དམ་པའི་སྤྱོད་མཁན་ཡིན་པར་ཁག་ཐེག་བྱེད་རོགས།"
+
+msgid "\n"
+msgstr ""
+
+msgid "window1"
+msgstr ""
+
+msgid "kylincc"
+msgstr ""
+
+msgid " Run kylin update manager "
+msgstr ""
+
+msgid " Run language support "
+msgstr ""
+
+msgid "一"
+msgstr "ཟླ་བ།"
+
+msgid "二"
+msgstr "མིག་དམར།"
+
+msgid "三"
+msgstr "ལྷག་པ།"
+
+msgid "四"
+msgstr "ཕུར་བུ།"
+
+msgid "五"
+msgstr "པ་སངས།"
+
+msgid "六"
+msgstr "སྤེན་པ།"
+
+msgid "日"
+msgstr "ཉི་མ།"
+
+msgid "With the network time synchronization"
+msgstr "དྲ་རྒྱའི་དུས་ཚོད་དང་གོམ་མཚུངས།"
+
+msgid "-"
+msgstr ""
+
+msgid "+"
+msgstr ""
+
+msgid ":"
+msgstr ":"
+
+msgid "CPU："
+msgstr ""
+
+msgid "C_hoose a device for sound input:"
+msgstr "སྒྲ་འཇུག་སྒྲིག་ཆས་འདེམ་པ།(_H):"
+
+msgid "C_hoose a device for sound output:"
+msgstr "སྒྲ་ཕྱིར་སྐྱེལ་སྒྲིག་ཆས་འདེམ་པ།(_H):"
+
+msgid "C_hoose an alert sound:"
+msgstr "ཉེན་བརྡ་གཏོང་བའི་སྒྲ་འདེམ་པ།(_H):"
+
+msgid "MonitorMainpage"
+msgstr "མངོན་པ།"
+
+msgid "Notify"
+msgstr "བརྡ་ཐོ།"
+
+msgid ""
+"Power \n"
+"Management"
+msgstr "གློག་ཁུངས་དོ་དམ།"
+
+msgid "Power Manage"
+msgstr "གློག་ཁུངས་དོ་དམ།"
+
+msgid "Power Management"
+msgstr "གློག་ཁུངས་དོ་དམ།"
+
+msgid "sus_pend button is pressed:"
+msgstr "འགེལ་འཇོག་གཅུས་སྒོ་དེ་གནོན་དུས།（P）"

@@ -99,10 +99,10 @@ msgid ""
 msgstr ""
 
 msgid " "
-msgstr " "
+msgstr "nan"
 
 msgid "    "
-msgstr "NaN"
+msgstr "nan"
 
 msgid " %s: %s %s but %s is to be installed"
 msgstr ""
@@ -161,7 +161,7 @@ msgid ""
 msgstr ""
 
 msgid "%s (%s)"
-msgstr "%s(%s)"
+msgstr "%s (%s)"
 
 msgid "%s Changelog"
 msgstr ""
@@ -440,7 +440,7 @@ msgid "A package failed to install.  Trying to recover:"
 msgstr ""
 
 msgid "AND"
-msgstr "དང་"
+msgstr "དང་།"
 
 msgid "APT line:"
 msgstr "APECཕྲེང་།"
@@ -460,7 +460,7 @@ msgid "About Synaptic"
 msgstr ""
 
 msgid "Add"
-msgstr "གསར་བཟོ།"
+msgstr "རྩིག་ཤོག་ཁ་སྣོན།"
 
 msgid "Add downloaded packages"
 msgstr ""
@@ -471,7 +471,7 @@ msgid ""
 msgstr ""
 
 msgid "All"
-msgstr ""
+msgstr "ཚང་མ།"
 
 msgid "Alphabetic"
 msgstr ""
@@ -498,7 +498,7 @@ msgid "Another synaptic is running"
 msgstr ""
 
 msgid "Apply"
-msgstr "ཉེར་སྤྱོད།"
+msgstr " གཏན་འཁེལ།"
 
 msgid "Apply all marked changes"
 msgstr ""
@@ -519,7 +519,7 @@ msgid "Ask to quit after the changes have been applied successfully"
 msgstr ""
 
 msgid "Authentication"
-msgstr "ཐོབ་ཐང་ཞིབ་བཤེར།"
+msgstr "གསལ་འབྱེད་ར་སྤྲོད།"
 
 msgid "Authentication is required to run the Synaptic Package Manager"
 msgstr ""
@@ -567,13 +567,13 @@ msgid "Broken:"
 msgstr ""
 
 msgid "Can't read %s"
-msgstr ""
+msgstr "%s ཀློག་ཐབས་མེད།"
 
 msgid "Can't write %s"
-msgstr ""
+msgstr "%s་འབྲི་ཐབས་མེད།"
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Cannot find filename or size tag"
 msgstr ""
@@ -608,7 +608,7 @@ msgid "Close this dialog after the changes have been successfully applied"
 msgstr ""
 
 msgid "Color"
-msgstr "ཁ་མདོག"
+msgstr "ཁ་དོག"
 
 msgid "Color packages by their status"
 msgstr ""
@@ -640,7 +640,7 @@ msgid "Complete changelog of the latest version:"
 msgstr ""
 
 msgid "Completely"
-msgstr ""
+msgstr "ཡོངས་རྫོགས།"
 
 msgid "Component"
 msgstr ""
@@ -658,7 +658,7 @@ msgid "Converted From RPM by Alien"
 msgstr ""
 
 msgid "Copy"
-msgstr "འདྲ་བཟོ།"
+msgstr "འདྲ་ཕབ།"
 
 msgid "Copying package lists..."
 msgstr ""
@@ -689,7 +689,7 @@ msgid "Currently in broken policy state"
 msgstr ""
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "Databases"
 msgstr "གཞི་གྲངས་ཀྱི་མཛོད།"
@@ -698,7 +698,7 @@ msgid "Debtag support is enabled."
 msgstr ""
 
 msgid "Debug"
-msgstr "ཚོད་སྒྲིག"
+msgstr " ཚོད་སྒྲིག"
 
 msgid "Default Upgrade"
 msgstr ""
@@ -728,7 +728,7 @@ msgid "Depends"
 msgstr "རགས་ལས་པ།"
 
 msgid "Description"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཞིབ་བརྗོད།"
 
 msgid "Description %s"
 msgstr ""
@@ -737,7 +737,7 @@ msgid "Description and Name"
 msgstr ""
 
 msgid "Details"
-msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
 
 msgid "Development"
 msgstr "གསར་སྤེལ།"
@@ -773,22 +773,22 @@ msgid "Do you want to quit Synaptic?"
 msgstr ""
 
 msgid "Documentation"
-msgstr "ཡིག་ཚགས།"
+msgstr " ཡིག་ཚགས།"
 
 msgid "Documented by"
 msgstr ""
 
 msgid "Done"
-msgstr "ལེགས་འགྲུབ།"
+msgstr "ལེགས་གྲུབ།"
 
 msgid "Done!"
-msgstr "ལེགས་སྒྲུབ་བྱུང་བ། "
+msgstr "ལེགས་གྲུབ།"
 
 msgid "Double click on the package name."
 msgstr ""
 
 msgid "Download"
-msgstr "ཕབ་ལེན།"
+msgstr " ཕབ་ལེན།"
 
 msgid "Download Size"
 msgstr ""
@@ -839,7 +839,7 @@ msgid "Electronics"
 msgstr ""
 
 msgid "Email"
-msgstr "གློག་ཡིག"
+msgstr "གློག་རྡུལ་ཡིག་ཟམ།"
 
 msgid "Embedded Devices"
 msgstr ""
@@ -848,7 +848,7 @@ msgid "Empty disc name."
 msgstr ""
 
 msgid "Enabled"
-msgstr "སྤྱད་པ།"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "Enhances"
 msgstr "ཤུགས་ཆེ་རུ་གཏོང་བ།"
@@ -887,7 +887,7 @@ msgid "FTP proxy: "
 msgstr ""
 
 msgid "Failed"
-msgstr "ཕམ་པ།"
+msgstr " ཕམ་པ།"
 
 msgid ""
 "Failed to fetch %s\n"
@@ -932,7 +932,7 @@ msgid "Filters"
 msgstr "ཡིག་ཆ།"
 
 msgid "Find"
-msgstr "འཚོལ་བ།"
+msgstr "འཚོལ་ཞིབ།"
 
 msgid "FingerPrint"
 msgstr "མཛུབ་རིས།"
@@ -962,7 +962,7 @@ msgid "Games and Amusement"
 msgstr "རྩེད་འཇོ་དང་རོལ་རྩེད།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid ""
 "Generate a shell script so that you can download the selected packages on a "
@@ -982,7 +982,7 @@ msgid "Gnustep Desktop Environment"
 msgstr ""
 
 msgid "Graphics"
-msgstr "རིས་དབྱིབས།"
+msgstr "རི་མོ།"
 
 msgid "HTTP authentication"
 msgstr ""
@@ -1021,7 +1021,7 @@ msgid "Identifying disc..."
 msgstr ""
 
 msgid "Ignore"
-msgstr "སྣང་མེད།"
+msgstr "སྣང་མེད་དུ་བཞག"
 
 msgid "Ignoring invalid record(s) in sources.list file!"
 msgstr ""
@@ -1096,7 +1096,7 @@ msgid "Internal Error, non-zero counts"
 msgstr ""
 
 msgid "Internal error"
-msgstr "ནང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
 
 msgid "Internal error opening cache (%d). Please report."
 msgstr ""
@@ -1126,7 +1126,7 @@ msgid "Kernel and modules"
 msgstr ""
 
 msgid "Label:"
-msgstr "གདོང་འཛར།"
+msgstr "གདོང་འཛར།:"
 
 msgid "Latest Version"
 msgstr ""
@@ -1160,7 +1160,7 @@ msgid "Localization"
 msgstr ""
 
 msgid "Look in:"
-msgstr "འཚོལ་བཤེར།："
+msgstr " བཤེར་འཚོལ།："
 
 msgid "Maintainer"
 msgstr ""
@@ -1302,19 +1302,19 @@ msgid "Multimedia"
 msgstr "སྨྱན་མང་གཟུགས།"
 
 msgid "N/A"
-msgstr "མི་འཚམ།"
+msgstr "nan"
 
 msgid "NOT AUTHENTICATED"
 msgstr ""
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Network"
-msgstr "དྲ་བ།"
+msgstr "དྲ་རྒྱ།"
 
 msgid "Networking"
-msgstr "དྲ་བ།"
+msgstr "དྲ་རྒྱ།"
 
 msgid "Never show this message again"
 msgstr ""
@@ -1353,7 +1353,7 @@ msgid "Not installable"
 msgstr ""
 
 msgid "Not installed"
-msgstr "སྒྲིག་འཇུག་མེད།"
+msgstr "སྒྲིག་འཇུག་བྱས་མེད།"
 
 msgid "Not installed (locked)"
 msgstr ""
@@ -1386,13 +1386,13 @@ msgid "OCaml Programming Language"
 msgstr ""
 
 msgid "OK"
-msgstr "གཏན་འཁེལ"
+msgstr " གཏན་འཁེལ།"
 
 msgid "OR"
 msgstr "ཡང་ན་"
 
 msgid "Obsoletes"
-msgstr "བེད་མེད་དུ་གཏོང་བ།"
+msgstr "དུས་ཚོད་ཡོལ་བ།"
 
 msgid "Only experts should use this."
 msgstr ""
@@ -1404,7 +1404,7 @@ msgid "Operator"
 msgstr ""
 
 msgid "Origin"
-msgstr "མ་ཚེག"
+msgstr "འབྱུང་ཁུངས།"
 
 msgid ""
 "Original author:\n"
@@ -1428,7 +1428,7 @@ msgid "PHP Programming Language"
 msgstr ""
 
 msgid "Package"
-msgstr "མཉེན་ཆས་ཐུམ་བུ།"
+msgstr "མཉེན་ཆས་ཐུམ།"
 
 msgid "Package Manager"
 msgstr ""
@@ -1525,7 +1525,7 @@ msgid "Prefer versions from: "
 msgstr ""
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Preparing..."
 msgstr "སྟ་གོན་བྱེད་བཞིན་པ།..."
@@ -1604,7 +1604,7 @@ msgid "Removal of packages:"
 msgstr ""
 
 msgid "Remove"
-msgstr "སྤོ་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "Remove Including Orphaned Dependencies"
 msgstr ""
@@ -1648,7 +1648,7 @@ msgid "Ruby Programming Language"
 msgstr ""
 
 msgid "S"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "S_earch Results"
 msgstr ""
@@ -1678,7 +1678,7 @@ msgid "Science"
 msgstr "ཚན་རིག"
 
 msgid "Search"
-msgstr "འཚོལ་བ།"
+msgstr "བཤེར་འཚོལ།"
 
 msgid "Search Filter"
 msgstr ""
@@ -1690,10 +1690,10 @@ msgid "Search for packages"
 msgstr ""
 
 msgid "Search:"
-msgstr "འཚོལ་བཤེར།："
+msgstr " བཤེར་འཚོལ།："
 
 msgid "Searching"
-msgstr "འཚོལ་བཤེར་པ།"
+msgstr "བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
 
 msgid "Section"
 msgstr "ཆ་ཤས།"
@@ -1708,10 +1708,10 @@ msgid "Sections"
 msgstr ""
 
 msgid "Select All"
-msgstr "ཚང་མ་འདེམས།"
+msgstr "ཡོད་ཚད་འདེམ་པ།"
 
 msgid "Select directory"
-msgstr ""
+msgstr "དཀར་ཆག་འདེམ་པ།"
 
 msgid "Select the package and choose the action from the 'Package' menu."
 msgstr ""
@@ -1762,7 +1762,7 @@ msgid "Stat failed for %s"
 msgstr ""
 
 msgid "Status"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Successfully fixed dependency problems"
 msgstr ""
@@ -1771,10 +1771,10 @@ msgid "Successfully marked available upgrades"
 msgstr ""
 
 msgid "Suggestions"
-msgstr "གྲོས་འདོན།"
+msgstr "བསམ་འཆར།"
 
 msgid "Suggests"
-msgstr "གྲོས་འདོན།"
+msgstr "བསམ་འཆར།"
 
 msgid "Summary"
 msgstr "གནད་བསྡུས།"
@@ -1942,10 +1942,10 @@ msgid "Trying to recover from package failure"
 msgstr ""
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "URI"
-msgstr "URI"
+msgstr " URI"
 
 msgid "URI:"
 msgstr ""
@@ -1996,7 +1996,7 @@ msgid "Unchanged"
 msgstr ""
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unknown source type"
 msgstr ""
@@ -2026,7 +2026,7 @@ msgid "Use custom terminal font"
 msgstr ""
 
 msgid "Username"
-msgstr "སྤྱོད་མཁན་གྱི་མིང་།"
+msgstr "སྤྱོད་མཁན་མིང་།"
 
 msgid "Utilities"
 msgstr "ལག་ཆ།"
@@ -2038,7 +2038,7 @@ msgid "Variable:"
 msgstr ""
 
 msgid "Vendor"
-msgstr "བཟོ་ཚོང་།"
+msgstr "བཟོ་ཚོང་བ།"
 
 msgid "Vendor block %s is invalid"
 msgstr ""
@@ -2064,7 +2064,7 @@ msgid "Version:"
 msgstr "པར་གཞི།："
 
 msgid "Versions"
-msgstr "པར་གཞི།"
+msgstr " པར་གཞི།"
 
 msgid "Video software"
 msgstr ""
@@ -2084,7 +2084,7 @@ msgid "Waiting for disc..."
 msgstr ""
 
 msgid "Warning"
-msgstr "ཐ་ཚིག "
+msgstr " ཐ་ཚིག"
 
 msgid "Web servers"
 msgstr ""
@@ -2145,7 +2145,7 @@ msgid "Zope/Plone Environment"
 msgstr ""
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Add CD-ROM..."
 msgstr ""
@@ -2157,13 +2157,13 @@ msgid "_Browse Documentation"
 msgstr ""
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Configure..."
 msgstr ""
 
 msgid "_Contents"
-msgstr "དཀར་ཆག(_C)"
+msgstr "དཀར་ཆག (_C)"
 
 msgid "_Custom Filters"
 msgstr ""
@@ -2190,10 +2190,10 @@ msgid "_Download package files only"
 msgstr ""
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_File"
-msgstr "ཡིག་ཆ།(_F)"
+msgstr "ཡིག་ཆ། (_F)"
 
 msgid "_Filters"
 msgstr "འཚག་ཆས།(_F)"
@@ -2208,10 +2208,10 @@ msgid "_Force Version..."
 msgstr ""
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Hide"
-msgstr "སྦེད་པ།(_H)"
+msgstr "གབ་པ།(_H)"
 
 msgid "_Hide Details"
 msgstr ""
@@ -2226,7 +2226,7 @@ msgid "_Invert All"
 msgstr ""
 
 msgid "_Keep"
-msgstr "སྔར་རྣམ་སྲུང་བ།(_K)"
+msgstr "རྣམ་པ་སྔོན་མ་ལྟར་འཇོག་པ།(_K)"
 
 msgid "_Keep history"
 msgstr ""
@@ -2250,28 +2250,28 @@ msgid "_Package"
 msgstr ""
 
 msgid "_Properties"
-msgstr "གཏོགས་གཤིས།(_P)"
+msgstr "གཏོགས་གཤིས། (_P)"
 
 msgid "_Quick Introduction"
 msgstr ""
 
 msgid "_Quit"
-msgstr "ཕྱིར་ཐོན།(_Q)"
+msgstr "ཕྱིར་འབུད། (_Q)"
 
 msgid "_Read Markings..."
 msgstr ""
 
 msgid "_Redo"
-msgstr "བསྐྱར་ལས།(_R)"
+msgstr "བསྐྱར་བཟོ།(_R)"
 
 msgid "_Reload"
-msgstr " བསྐྱར་འགེལ།(_R)"
+msgstr "བསྐྱར་འགེལ།(_R)"
 
 msgid "_Reload Package Information"
 msgstr ""
 
 msgid "_Replace"
-msgstr "ཚབ་བརྗེ།(_R)"
+msgstr " ཚབ་བརྗེ།(_R)"
 
 msgid "_Repositories"
 msgstr ""
@@ -2280,7 +2280,7 @@ msgid "_Save Markings"
 msgstr ""
 
 msgid "_Search"
-msgstr "འཚོལ་བཤེར།(_S)"
+msgstr "བཤེར་འཚོལ།(_S)"
 
 msgid "_Search..."
 msgstr ""
@@ -2310,10 +2310,10 @@ msgid "_Text Only"
 msgstr ""
 
 msgid "_Toolbar"
-msgstr "ལག་ཆ་སྡེ།(_T)"
+msgstr "ལག་ཆའི་སྡེ། (_T)"
 
 msgid "_Undo"
-msgstr "ཕྱིར་འཐེན།(_U)"
+msgstr "འདོར་བ།(_U)"
 
 msgid "_Verify package signatures"
 msgstr ""

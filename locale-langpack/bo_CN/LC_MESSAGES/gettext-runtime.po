@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "  -V, --version               output version information and exit\n"
-msgstr ""
+msgstr " -V, --version པར་གཞི་ཕྱིར་འདོན་བྱས་ནས་ཕྱིར་འཐེན་པ། \n"
 
 msgid ""
 "  -d, --domain=TEXTDOMAIN   retrieve translated message from TEXTDOMAIN\n"
@@ -39,48 +39,48 @@ msgid ""
 msgstr ""
 
 msgid "  -h, --help                  display this help and exit\n"
-msgstr ""
+msgstr " -h, --help རོགས་རམ་མངོན་ནས་ཕྱིར་འཐེན་པ། \n"
 
 msgid ""
 "  -v, --variables             output the variables occurring in SHELL-"
 "FORMAT\n"
-msgstr ""
+msgstr " -v, --variables རྣམ་གཞག SHELL ཡི་ཕྱིར་འདོན་ནང་ཐོན་པའི་འགྱུར་ཚད། \n"
 
 msgid "%s: invalid option -- '%c'\n"
-msgstr ""
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
 
 msgid "%s: option '%c%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '%s' is ambiguous\n"
-msgstr ""
+msgstr "%s： འདེམས་ཚན “%s” ནི་གསལ་པོ་མེད་པ། \n"
 
 msgid "%s: option '%s' is ambiguous; possibilities:"
 msgstr "%s： འདེམས་ཚན “%s” ནི་གཏན་ཁེལ་མེད་ཕལ་ཆེར།："
 
 msgid "%s: option '--%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '--%s' requires an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
 
 msgid "%s: option '-W %s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
 
 msgid "%s: option '-W %s' is ambiguous\n"
 msgstr ""
 
 msgid "%s: option '-W %s' requires an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
 
 msgid "%s: option requires an argument -- '%c'\n"
-msgstr ""
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
 
 msgid "%s: unrecognized option '%c%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
 
 msgid "%s: unrecognized option '--%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
 
 msgid "Bruno Haible"
 msgstr "Bruno Haible"
@@ -96,9 +96,11 @@ msgid ""
 "Display native language translation of a textual message whose grammatical\n"
 "form depends on a number.\n"
 msgstr ""
+"མ་ཡིག་ཆ་འཕྲིན་ག་གེ་མོག་ཞིག་གི་རང་སའི་སྐད་ཡིག་ཡིག་སྒྱུར་མངོན་པ། "
+"ཡིག་སྒྱུར་གྱི་བརྡ་སྤྲོད་དང་གྲངས་ཀ་འབྲེལ་བ་ཡོད། \n"
 
 msgid "Display native language translation of a textual message.\n"
-msgstr ""
+msgstr "མ་ཡིག་ཆ་འཕྲིན་ག་གེ་མོག་ཞིག་གི་རང་སའི་སྐད་ཡིག་ཡིག་སྒྱུར་མངོན་པ། \n"
 
 msgid ""
 "If the TEXTDOMAIN parameter is not given, the domain is determined from the\n"
@@ -118,19 +120,19 @@ msgid ""
 msgstr ""
 
 msgid "Informative output:\n"
-msgstr ""
+msgstr "ཆ་འཕྲིན་རང་བཞིན་གྱི་ཕྱིར་འདོན།：\n"
 
 msgid "Operation mode:\n"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་རྣམ་པ།：\n"
 
 msgid "Report bugs to <bug-gnu-gettext@gnu.org>.\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ་དེ <bug-gnu-gettext@gnu.org> ལ་སྙན་ཞུ་བྱེད་པ། \n"
 
 msgid "Substitutes the values of environment variables.\n"
-msgstr ""
+msgstr "ཁོར་ཡུག་འགྱུར་ཚད་གྱི་བྲིན་བརྗེ་བ། \n"
 
 msgid "Try '%s --help' for more information.\n"
-msgstr ""
+msgstr "“%s --help” ལ་ཚོད་ལྟ་བྱས་ནས་མང་བའི་ཆ་འཕྲིན་ཐོབ་པ། \n"
 
 msgid "Ulrich Drepper"
 msgstr "Ulrich Drepper"
@@ -139,10 +141,12 @@ msgid "Unknown system error"
 msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
 
 msgid "Usage: %s [OPTION] [SHELL-FORMAT]\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས།：%s [ འདེམས་ཚན ] [རྣམ་གཞག SHELL ]\n"
 
 msgid "Usage: %s [OPTION] [TEXTDOMAIN] MSGID MSGID-PLURAL COUNT\n"
 msgstr ""
+"སྤྱོད་སྟངས།：%s [ འདེམས་ཚན ] [ ཡིག་རྐྱང་ཁུལ་ཁོངས ] MSGID ཚོ་གྲངས -MSGID "
+"གྲངས་ཀ \n"
 
 msgid ""
 "Usage: %s [OPTION] [[TEXTDOMAIN] MSGID]\n"
@@ -158,7 +162,7 @@ msgid "Written by %s.\n"
 msgstr ""
 
 msgid "error while reading \"%s\""
-msgstr ""
+msgstr "“%s” ཀློག་ལེན་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།"
 
 msgid "memory exhausted"
 msgstr "ནང་གསོག་ཟད་པ།"
@@ -173,4 +177,4 @@ msgid "too many arguments"
 msgstr "ཞུགས་གྲངས་མང་དྲགས།"
 
 msgid "write error"
-msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+msgstr " འབྲི་འཇུག་ནོར་འཁྲུལ།"

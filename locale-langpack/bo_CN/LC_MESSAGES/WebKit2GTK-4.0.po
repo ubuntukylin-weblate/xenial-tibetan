@@ -54,7 +54,7 @@ msgid "Check _Grammar With Spelling"
 msgstr "སྦྱོར་འབྲི་ཞིབ་བཤེར་སྐབས་བརྡ་སྤྲོད་ཞིབ་བཤེར་བྱེད་པ།(_G)"
 
 msgid "Choose File"
-msgstr "ཡིག་ཆ་འདེམ་པ།"
+msgstr " ཡིག་ཆ་འདེམ་པ།"
 
 msgid "Comma separated list of languages to use for spell checking"
 msgstr ""
@@ -137,7 +137,7 @@ msgid "Enable JavaScript profiling"
 msgstr "JavaScript གནད་བསྡུས་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Enable Plugins"
-msgstr "བསྒར་ལྷུ་སྤྱོད་འགོ་རྩོམ་པ།"
+msgstr "མགོ་བསླངས་པའི་བསྒར་ལྷུ།"
 
 msgid "Enable Private Browsing"
 msgstr "གསང་བ་མིག་བཤར་སྤྱོད་འགོ་རྩོམ་པ།"
@@ -149,7 +149,7 @@ msgid "Enable Site Specific Quirks"
 msgstr "ཆེད་དམིགས་ས་ཚིགས་སྒྲིག་འགོད་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Enable Spell Checking"
-msgstr "སྦྱོར་འབྲི་ཞིབ་བཤེར་འགོ་རྩོམ།"
+msgstr "སྦྱོར་འབྲི་ཞིབ་བཤེར་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Enable Timeline profiling"
 msgstr "ཆུ་ཚོད་འཁོར་མདའ་དབྱེ་ཞིབ་སྤྱོད་འགོ་རྩོམ་པ།"
@@ -192,7 +192,7 @@ msgstr ""
 "དམིགས་བསལ་ས་ཚིགས་ལ་དམིགས་པའི་འཆམ་མཐུན་རང་བཞིན་གྱི་གནས་སྐབས་ཐག་གཅོད་བྱ་ཐབས་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Encoding"
-msgstr "ཨང་སྒྲིག"
+msgstr "སྒྲིག་ཨང་།"
 
 msgid "Enforce 96 DPI"
 msgstr "བཙན་ཤེད་ཀྱིས་ 96 DPI"
@@ -216,7 +216,7 @@ msgid "Ignore _Grammar"
 msgstr "བརྡ་སྤྲོད་སྣང་མེད།(_G)"
 
 msgid "Input _Methods"
-msgstr "ནང་འཇུག་བྱེད་སྟངས།(_M)"
+msgstr "ནང་འཇུག་ཐབས། (_M)"
 
 msgid "Inspect _Element"
 msgstr "ཞིབ་བཤེར་གཞི་རྒྱུ།(_E)"
@@ -249,7 +249,7 @@ msgid "Load images automatically."
 msgstr "རང་འགུལ་ངང་བརྙན་རིས་སུ་འགེལ་བ།"
 
 msgid "Loading..."
-msgstr "ཕབ་འཇུག་བྱེད་པ..."
+msgstr "འགེལ་བཞིན་པ།"
 
 msgid "Minimum Font Size"
 msgstr "ཆེས་ཆུང་བའི་ཡིག་གཟུགས་ཨང་རྟགས།"
@@ -264,7 +264,7 @@ msgid "Monospace Font Family"
 msgstr "ཞེང་མཚུངས་ཡིག་གཟུགས།"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Network Request"
 msgstr "དྲ་རྒྱའི་རེ་ཞུ།"
@@ -279,7 +279,7 @@ msgid "No recent searches"
 msgstr "ཉེ་དུས་ཀྱི་འཚོལ་བཤེར་མེད།"
 
 msgid "Open Link in New _Window"
-msgstr "སྒེའུ་ཁུང་གསར་བའི་ནང་དུ་སྦྲེལ་མཐུད་ཁ་ཕྱེ་བ།(_I)"
+msgstr " སྒེའུ་ཁུང་གསར་པར་སྦྲེལ་མཐུད་ཁ་ཕྱེ་རོགས།(_W)"
 
 msgid "Open _Frame in New Window"
 msgstr "སྒེའུ་ཁུང་གསར་བའི་ནང་དུ་སྒྲོམ་གཞི་ཁ་ཕྱེ་བ།(_F)"
@@ -312,7 +312,7 @@ msgid "Profile the executed JavaScript."
 msgstr "ལག་བསྟར་བྱས་ཟིན་པའི་ JavaScript ཡི་གནད་བསྡུས་ཟིན་ཐོར་འགོད་པ།"
 
 msgid "Progress"
-msgstr "འཕེལ་ཚད།"
+msgstr " འཕེལ་རིམ།"
 
 msgid "RLE Right-to-left e_mbedding"
 msgstr "RLE གཡས་ནས་གཡོན་དུ་འཛུད་འཇུག(_M)"
@@ -330,7 +330,7 @@ msgid "Recent searches"
 msgstr "ཉེ་ཆར་འཚོལ་བཤེར།"
 
 msgid "Reset"
-msgstr "བསྐྱར་འཇོག"
+msgstr "བསྐྱར་སྒྲིག"
 
 msgid "Resizable Text Areas"
 msgstr "ཆེ་ཆུང་འགྱུར་རུང་ཡིག་དེབ་ཁོངས།"
@@ -354,16 +354,16 @@ msgid "Server message:"
 msgstr " ཞབས་ཞུ་ཆས་ཀྱི་བརྡ་འཕྲིན།："
 
 msgid "Settings"
-msgstr "སྒྲིག་འགོད།"
+msgstr " སྒྲིག་འགོད།"
 
 msgid "Spelling and _Grammar"
 msgstr " སྦྱོར་འབྲི་དང་བརྡ་སྤྲོད།(_G)"
 
 msgid "Status"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Submit"
-msgstr "གོང་སྤྲོད།"
+msgstr " སྤྲོད་པ།"
 
 msgid "Suggested Filename"
 msgstr " གྲོས་གཞིའི་ཡིག་ཆའི་མིང་།"
@@ -506,19 +506,19 @@ msgid "This is a searchable index. Enter search keywords: "
 msgstr "འདི་ནི་འཚོལ་ཐུབ་པའི་དཀར་ཆག་ཅིག་རེད། འགག་རྩའི་ཡི་གེ་འཚོལ་རོགས།"
 
 msgid "Title"
-msgstr "ཁ་བྱང་།"
+msgstr " ཁ་བྱང་།"
 
 msgid "Total Size"
 msgstr "སྤྱིའི་ཆེ་ཆུང་།"
 
 msgid "Transparent"
-msgstr "ཕྱི་གསལ་ནང་གསལ།"
+msgstr "དྭངས་གསལ།"
 
 msgid "URI"
-msgstr "URI"
+msgstr " URI"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "User Agent"
 msgstr ""
@@ -530,7 +530,7 @@ msgid "User cancelled the download"
 msgstr "སྤྱོད་མཁན་གྱིས་ཕབ་ལེན་མེད་པར་བཟོས་པ།"
 
 msgid "Username:"
-msgstr "སྤྱོད་མཁན་གྱི་མིང་"
+msgstr "སྤྱོད་མཁན་མིང་།:"
 
 msgid "Vertical Scrollbar Policy"
 msgstr " ཐད་འགྲིལ་འདེད་མའི་སྒྲིག་སྲོལ།"
@@ -614,7 +614,7 @@ msgid "_Download Linked File"
 msgstr " དམིགས་འབེན་ཡིག་ཆ་ཕབ་ལེན།(_D)"
 
 msgid "_Font"
-msgstr "ཡིག་གཟུགས། (_F)"
+msgstr " ཡིག་གཟུགས།(_F)"
 
 msgid "_Hide Spelling and Grammar"
 msgstr " སྦྱོར་འབྲི་དང་བརྡ་སྤྲོད་སྦ་བ།(_H)"
@@ -632,16 +632,16 @@ msgid "_Look Up in Dictionary"
 msgstr " ཚིག་མཛོད་འདྲི་རྩད།(_L)"
 
 msgid "_Open Link"
-msgstr "སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
+msgstr " སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
 
 msgid "_Outline"
 msgstr " གནད་བསྡུས།(_O)"
 
 msgid "_Reload"
-msgstr " བསྐྱར་འགེལ།(_R)"
+msgstr "བསྐྱར་འགེལ།(_R)"
 
 msgid "_Remember password"
-msgstr "གསང་ཨང་ཡིད་དུ་འཛིན།(_R)"
+msgstr " གསང་ཨང་བློར་ངེས།(_R)"
 
 msgid "_Search the Web"
 msgstr " སྦྲེལ་དྲ་བཤེར་འཚོལ(_S)"
@@ -650,7 +650,7 @@ msgid "_Show Spelling and Grammar"
 msgstr " སྦྱོར་འབྲི་དང་བརྡ་སྤྲོད་འཆར་བ།(_S)"
 
 msgid "activate"
-msgstr "སྐུལ་སློང་།"
+msgstr " སྐུལ་སློང་།"
 
 msgid "audio element controller"
 msgstr " སྒྲ་ཟློས་གཞི་རྒྱུ་ཚོད་འཛིན།"
@@ -662,7 +662,7 @@ msgid "back 30 seconds"
 msgstr " སྐར་ཆ་ 30 རྗེས་ཕྱི་བཤོལ།"
 
 msgid "begin playback"
-msgstr "སླར་གཏོང་འགོ་རྩོམ།"
+msgstr " བསྐྱར་གཏོང་འགོ་རྩོམ་པ།"
 
 msgid "check"
 msgstr " འདེམ་པ།"
@@ -680,10 +680,10 @@ msgid "elapsed time"
 msgstr "གཏོང་ཡུན།"
 
 msgid "fast forward"
-msgstr "མགྱོགས་མྱུར་མདུན་སྐྱོད།"
+msgstr "མྱུར་སྐྱོད།"
 
 msgid "fast reverse"
-msgstr "མགྱོགས་མྱུར་ཕྱིར་འཐེན།"
+msgstr " མྱུར་འཐེན།"
 
 msgid "hide closed captions"
 msgstr "རྒྱུན་ཟུམ་ཡིག་བརྙན་སྦེད་པ།"
@@ -704,7 +704,7 @@ msgid "movie time scrubber thumb"
 msgstr "གློག་བརྙན་གྱི་དུས་ཤད་བསྡུས་རིས།"
 
 msgid "mute"
-msgstr "འཇགས་སྒྲ།"
+msgstr "སྒྲ་མེད།"
 
 msgid "mute audio tracks"
 msgstr "སྒྲ་མེད་སྒྲ་ལམ།"
@@ -716,16 +716,16 @@ msgid "pattern mismatch"
 msgstr " བཟོ་ལྟ་ཟླ་སྒྲིག་མིན་པ།"
 
 msgid "pause"
-msgstr "སྐབས་སྡོད།"
+msgstr " སྐབས་འཇོག"
 
 msgid "pause playback"
-msgstr "གནས་སྐབས་མཚམས་འཇོག་པ།"
+msgstr " བསྐྱར་གཏོང་སྐབས་འཇོག"
 
 msgid "play"
-msgstr "གཏོང་བ།"
+msgstr " བསྒྲགས་གཏོང་།"
 
 msgid "press"
-msgstr " གནོན་པ།"
+msgstr "མར་གནོན།"
 
 msgid "range overflow"
 msgstr " ཁྱབ་ཁོངས་ཡར་ལུད།"
@@ -761,7 +761,7 @@ msgid "start displaying closed captions"
 msgstr "རྒྱུན་ཟུམ་ཚུལ་གྱི་ཡིག་བརྙན་འཆར་འགོ་རྩོམ་པ།"
 
 msgid "status"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "step mismatch"
 msgstr " གོམ་རིམ་ཟླ་སྒྲིག་མིན་པ།"
@@ -782,7 +782,7 @@ msgid "type mismatch"
 msgstr " རིགས་རྣམ་ཟླ་སྒྲིག་མིན་པ།"
 
 msgid "uncheck"
-msgstr "ལྡོག་འདེམས།"
+msgstr " ལྡོག་འདེམས།"
 
 msgid "unmute"
 msgstr "སྒྲ་མེད་འདོར་བ།"

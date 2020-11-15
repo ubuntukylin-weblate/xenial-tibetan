@@ -18,6 +18,8 @@ msgstr ""
 
 msgid "\"%s\" option given twice for the same window\n"
 msgstr ""
+"སྒེའུ་ཁུང་གཅིག་ལ་“%s”འདེམས་བྱང་\n"
+"ཐེངས་གཉིས་དམིགས་འཛུགས་བྱས་པ།"
 
 msgid "<b>Command</b>"
 msgstr "<b>བཀའ་བརྡ་</b>"
@@ -83,13 +85,13 @@ msgid "Append initial title"
 msgstr ""
 
 msgid "Arabic"
-msgstr "ཨ་རབ་ཀྱི་སྐད་ཆ།"
+msgstr "ཨ་རབ་ཀྱི་སྐད།"
 
 msgid "Argument to \"%s\" is not a valid command: %s"
 msgstr ""
 
 msgid "Armenian"
-msgstr "ཡ་མེ་ཉི་ཡའི་སྐད།"
+msgstr "ཨར་མེ་ཉི་ཡའི་སྐད།"
 
 msgid "Automatic"
 msgstr "རང་འགུལ།"
@@ -101,16 +103,16 @@ msgid "Background image _scrolls"
 msgstr "རྒྱབ་ལྗོངས་བརྙན་རིས་འགྲིལ་རུང་བ།(_S)"
 
 msgid "Baltic"
-msgstr "པའོ་ལའོ་ཡི་སྐད་ཆ།"
+msgstr "པའོ་ལའོ་ཡི་སྐད།"
 
 msgid "Black on light yellow"
 msgstr "སེར་སྐྱའི་རྒྱབ་ལྗོངས་ཡིག་ནག"
 
 msgid "Black on white"
-msgstr "གཞི་དཀར་ཡིག་ནག"
+msgstr "ལྡེབ་དཀར་ཡིག་ནག"
 
 msgid "Block"
-msgstr "གྲུ་བཞི།"
+msgstr "གྲུ་བཞི་མ།"
 
 msgid "Bol_d color:"
 msgstr "སྦོམ་གཟུགས་ཁ་དོག(_D)："
@@ -134,22 +136,22 @@ msgid "C_lose Window"
 msgstr "སྒེའུ་ཁུང་སྒོ་རྒྱག་པ།(_L)"
 
 msgid "C_reate"
-msgstr "གསར་བཟོ།(_R)"
+msgstr "གསར་བཟོ། (_R)"
 
 msgid "Celtic"
 msgstr "ཁའེ་ཨེར་ཐེའི་སྐད།"
 
 msgid "Central European"
-msgstr "ཡོ་རོབ་དཀྱིལ་མ།"
+msgstr "ཡོ་རོབ་བར་མ།"
 
 msgid "Change _Profile"
 msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་བཟོ་བཅོས།(_P)"
 
 msgid "Chinese Simplified"
-msgstr "རྒྱ་ཡིག་ཟོར་ཡང་གཟུགས།"
+msgstr "ཚུགས་གསར་རྒྱ་ཡིག"
 
 msgid "Chinese Traditional"
-msgstr "རྒྱ་ཡིག་རྙོག་དྲའི་གཟུགས།"
+msgstr "ཚུགས་རྙིང་རྒྱ་ཡིག"
 
 msgid "Choose A Terminal Font"
 msgstr "མཐའ་སྣེའི་ཡིག་གཟུགས་འདེམ་པ།"
@@ -170,10 +172,10 @@ msgid "Click button to choose profile"
 msgstr "མཐེབ་གནོན་འདིར་ཆིག་རྡེབ་བྱས་ནས་སྡེབ་སྒྲིག་ཡིག་ཆ་འདེམས།"
 
 msgid "Close Tab"
-msgstr "གདོང་འཛར་ཤོག་ངོས་ཀྱི་ཁ་རྒྱག་པ།"
+msgstr "གདོང་འཛར་ཤོག་ངོས་ཁ་རྒྱག་པ།"
 
 msgid "Close Window"
-msgstr "སྒེའུ་ཁུང་ཁ་རྒྱག"
+msgstr " སྒེའུ་ཁུང་ཁ་རྒྱག་པ།"
 
 msgid "Close tab"
 msgstr "གདོང་འཛར་ཁ་རྒྱག"
@@ -203,7 +205,7 @@ msgid "Control-H"
 msgstr "Conomol-H"
 
 msgid "Copy"
-msgstr "འདྲ་བཟོ།"
+msgstr "འདྲ་ཕབ།"
 
 msgid "Copy selected text into _clipboard"
 msgstr "འདེམས་ཐོན་བྱུང་བའི་ཡིག་ཆ་དག་དྲས་སྦྱར་པང་(C)ལ་འདྲ་ཕབ་བྱེད་དགོས།"
@@ -215,7 +217,7 @@ msgid "Could not save contents"
 msgstr "ནང་དོན་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
 
 msgid "Croatian"
-msgstr "ཁ་རེ་ཏེ་ཡའི་སྐད།"
+msgstr "ཁ་རེ་ཤེ་ཡའི་སྐད།"
 
 msgid "Current Locale"
 msgstr "མིག་སྔའི་ཁུལ་ཁོངས།"
@@ -227,7 +229,7 @@ msgid "Cursor blin_k:"
 msgstr "འོད་རྟགས་འོད་འཚེར་བ།(_K)："
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "Custom co_mmand:"
 msgstr "བཀའ་བརྡ་མཚན་ཉིད་རང་འཇོག(_M)："
@@ -236,7 +238,7 @@ msgid "Cyrillic"
 msgstr ""
 
 msgid "Cyrillic/Russian"
-msgstr "ཞི་ལི་ཨར་གྱི་སྐད་/ཨུ་རུ་སིའི་སྐད།"
+msgstr "ཞི་ལི་ཨར་གྱི་སྐད།/ཨུ་རུ་སིའི་སྐད།"
 
 msgid "Cyrillic/Ukrainian"
 msgstr "ཞི་ལི་ཨར་གྱི་སྐད།/ཡུག་རེན་གྱི་སྐད།"
@@ -257,10 +259,10 @@ msgid "Detach Tab"
 msgstr "གཡེང་སྤོའི་གདོང་འཛར་ཤོག་ངོས།"
 
 msgid "Disable connection to session manager"
-msgstr "གྲོས་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་བཀག"
+msgstr "གཏམ་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་འགོག་སྤྱོད།"
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid ""
 "Do not register with the activation nameserver, do not re-use an active "
@@ -269,7 +271,7 @@ msgstr ""
 "མིང་དང་ཞབས་ཞུའི་འཕྲུལ་ཆས་ཐོ་འགོད་ལ་སྐུལ་སློང་མི་དགོས།མཐའ་སྣེ་སྐུལ་སློང་ཟློས་སྤྱོད་མི་བྱེད།"
 
 msgid "E_ncodings shown in menu:"
-msgstr "འདེམས་བྱང་ནང་ཤར་བའི་སྒྲིག་ཨང་།（_N)།"
+msgstr "འདེམས་བྱང་དུ་མངོན་པའི་སྒྲིག་ཨང་། (_N)："
 
 msgid "Edit"
 msgstr "རྩོམ་སྒྲིག"
@@ -296,19 +298,19 @@ msgid "FILE"
 msgstr "ཡིག་ཆ།"
 
 msgid "Failed to parse arguments: %s\n"
-msgstr ""
+msgstr "ཞུགས་གྲངས་སྒྲིག་གཅོད་བྱ་ཐབས་བྲལ།：%s\n"
 
 msgid "File"
 msgstr "ཡིག་ཆ།"
 
 msgid "Find"
-msgstr "འཚོལ་བ།"
+msgstr "འཚོལ་ཞིབ།"
 
 msgid "Find Ne_xt"
-msgstr "ངོས་རྗེས་མ་འཚོལ།(_X)"
+msgstr "རྗེས་མ་འཚོལ་ཞིབ།(_X)"
 
 msgid "Find Pre_vious"
-msgstr "སྔར་མ་བོ་འཚོལ།(_V)"
+msgstr "གོང་མ་འཚོལ་ཞིབ།(_V)"
 
 msgid "Full Screen"
 msgstr "ཡོལ་ཡོངས།"
@@ -320,10 +322,10 @@ msgid "GEOMETRY"
 msgstr "དབྱིབས་རྩིས་གཏོགས་གཤིས།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Georgian"
-msgstr "ཀི་ལོ་ཇི་ཡའི་སྐད།"
+msgstr "འཇོར་ཇི་ཡའི་སྐད།"
 
 msgid "Go to _Line..."
 msgstr "དམིགས་འཛུགས་ཀྱི་ཕྲེང་ལ་མཆོངས་པ།"
@@ -332,7 +334,7 @@ msgid "Gray on black"
 msgstr "ལྡེབ་ནག་ཡིག་སྐྱ།"
 
 msgid "Greek"
-msgstr "ཞི་ལའི་སྐད་ཆ།"
+msgstr " ཀུ་རུ་སིའི་སྐད།"
 
 msgid "Green on black"
 msgstr "ལྡེབ་ནག་ཡིག་ལྗང་།"
@@ -341,16 +343,16 @@ msgid "Gujarati"
 msgstr "ཀུའུ་ཅི་ལ་ཐེ་ཐེ།"
 
 msgid "Gurmukhi"
-msgstr "ཕང་ཧྲུའུ་ཕུ་ཡི་སྐད།"
+msgstr "ཕང་ཀྲི་ཕུའུ་ཡི་སྐད།"
 
 msgid "Hebrew"
-msgstr "ཞི་པོ་ལའེ་སྐད་ཆ།"
+msgstr "ཞི་པོ་ལའེ་སྐད།"
 
 msgid "Hebrew Visual"
-msgstr "ལྟ་རུང་ཞི་པོ་ལའེ་ཡི་སྐད།"
+msgstr "བལྟ་རུང་ཞི་པོ་ལའེ་སྐད།"
 
 msgid "Help"
-msgstr "རོགས་རམ།"
+msgstr " རོགས་རམ།"
 
 msgid "Hide and Show menubar"
 msgstr "ཁ་བྱང་སྡེ་འཆར་བ་/སྦེད་པ།"
@@ -374,7 +376,7 @@ msgid "Image _file:"
 msgstr "བརྙན་རིས་ཡིག་ཆ།(_F)："
 
 msgid "Images"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Incompatible terminal config file version."
 msgstr "མཐའ་སྣེ་སྡེབ་སྒྲིག་ཡིག་ཆའི་པར་གཞི་མཆམ་མཐུན་མེད་པ།"
@@ -383,10 +385,10 @@ msgid "Initial _title:"
 msgstr "འགོ་རྩོམ་ཁ་བྱང་།(_T)："
 
 msgid "Invalid geometry string \"%s\"\n"
-msgstr ""
+msgstr "ནུས་མེད་ཀྱི་དབྱིབས་རྩིས་ངོ་བོའི་ཡིག་རྟགས་ཕྲེང་།%s”\n"
 
 msgid "Japanese"
-msgstr "ཉི་ཧོང་སྐད།"
+msgstr " ཉི་ཧོང་གི་སྐད།"
 
 msgid "Keep initial title"
 msgstr "ཐོག་མའི་ཁ་བྱང་རྒྱུན་འཁྱོངས།"
@@ -410,7 +412,7 @@ msgid "MATE Terminal"
 msgstr ""
 
 msgid "MATE Terminal Emulator"
-msgstr ""
+msgstr "མཐའ་སྣེའི་ལད་ཟློས་ཆས།"
 
 msgid ""
 "MATE Terminal is distributed in the hope that it will be useful, but WITHOUT"
@@ -427,7 +429,7 @@ msgid ""
 msgstr ""
 
 msgid "Match _entire word only"
-msgstr "ཐ་སྙད་ཧྲིལ་བོར་ཟླ་སྒྲིག(_E)"
+msgstr "ཐ་སྙད་ཆ་ཚང་ཟླ་སྒྲིག (_E)"
 
 msgid "Match as _regular expression"
 msgstr "ཚད་མཐུན་མཚོན་ཚུལ་སྤྱད་ནས་ཟླ་སྒྲིག（_R)"
@@ -457,13 +459,13 @@ msgid "New Tab"
 msgstr "གདོང་འཛར་ཤོག་ངོས་གསར་འཛུགས།"
 
 msgid "New Window"
-msgstr "སྒེའུ་ཁུང་གསར་འཛུགས།"
+msgstr " སྒེའུ་ཁུང་གསར་འཛུགས།"
 
 msgid "New _Profile…"
 msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་གསར་འཛུགས།(_P)..."
 
 msgid "No such profile \"%s\", using default profile\n"
-msgstr ""
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ“%s”མེད་པས་སོར་བཞག་སྡེབ་སྒྲིག་ཡིག་ཆ་སྤྱོད།"
 
 msgid "Nordic"
 msgstr "ཡོ་རོབ་བྱང་མ།"
@@ -484,7 +486,7 @@ msgid "Open Ta_b"
 msgstr ""
 
 msgid "Open _Terminal"
-msgstr "མཐའ་སྣེ་ཁ་འབྱེད།(_T)"
+msgstr "མཐའ་སྣེ་ཁ་ཕྱེ་བ།(_T)"
 
 msgid "Open a new tab in the last-opened window with the default profile"
 msgstr ""
@@ -529,7 +531,7 @@ msgid "Paste _Filenames"
 msgstr "ཡིག་ཆའི་མིང་སྦྱོར་བ།(_F)"
 
 msgid "Persian"
-msgstr "པོ་སིའི་སྐད།"
+msgstr " པར་སིག་སྐད།"
 
 msgid "Pr_ofile Preferences"
 msgstr "ཡིག་ཆ་སྡེབ་སྒྲིག་བྱེད་པའི་སྔོན་འདེམས་ཚན་པ།"
@@ -538,7 +540,7 @@ msgid "Prepend initial title"
 msgstr "ཐོག་མའི་ཁ་བྱང་གི་མཇུག་ཏུ་སྣོན།"
 
 msgid "Profile Editor"
-msgstr "ཡིག་ཆ་སྡེབ་སྒྲིག་ཆས།"
+msgstr " ཡིག་ཆའི་རྩོམ་སྒྲིག་ཆས་སྡེབ་སྒྲིག"
 
 msgid "Profile _name:"
 msgstr "སྡེབ་སྒྲིག་གི་མིང་། (_N)："
@@ -547,7 +549,7 @@ msgid "Profile list"
 msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་རེའུ་མིག"
 
 msgid "Profiles"
-msgstr ""
+msgstr " ཡིག་ཆ་སྡེབ་སྒྲིག"
 
 msgid "ROLE"
 msgstr "འཁྲབ་བྱའི་མི་སྣ།"
@@ -556,7 +558,7 @@ msgid "Replace initial title"
 msgstr "ཐོག་མའི་ཁ་བྱང་བརྗེ་བ།"
 
 msgid "Reset"
-msgstr "བསྐྱར་འཇོག"
+msgstr "བསྐྱར་སྒྲིག"
 
 msgid "Reset and C_lear"
 msgstr "སོར་ལོག་བརྙན་ཡོལ་གཙང་སེལ།（L）"
@@ -586,7 +588,7 @@ msgid "Save Contents"
 msgstr "ནང་དོན་ཉར་ཚགས།"
 
 msgid "Save as..."
-msgstr "གཞན་དུ་ཉར་བ།"
+msgstr "གཞན་ཉར།..."
 
 msgid "Save the terminal configuration to a file"
 msgstr "མཐའ་སྣེ་སྡེབ་སྒྲིག་ཡིག་ཆ་རུ་ཉར་ཚགས་བྱེད་པ།"
@@ -604,7 +606,7 @@ msgid "Scrolling"
 msgstr "འགྲིལ་བ།"
 
 msgid "Search _backwards"
-msgstr "ལྡོག་པའི་བཤེར་འཚོལ།(_B)"
+msgstr "ལྡོག་ཕྱོགས་བཤེར་འཚོལ། (_B)"
 
 msgid "Select Background Image"
 msgstr "རྒྱབ་ལྗོངས་བརྙན་རིས་འདེམ་པ།"
@@ -613,7 +615,7 @@ msgid "Select-by-_word characters:"
 msgstr "ཐ་སྙད་ཀྱི་ངོ་རྟགས་ཡིག་རྟགས་འདེམ་པ།(_W)："
 
 msgid "Session management options:"
-msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན།"
+msgstr "གླེང་མོལ་དོ་དམ་འདེམ་བྱང་།"
 
 msgid "Set Title"
 msgstr "ཁ་བྱང་སྒྲིག་འགོད།"
@@ -651,7 +653,7 @@ msgid "Show MATE Terminal options"
 msgstr "མཐའ་སྣེའི་འདེམ་བྱང་འཆར་བ།"
 
 msgid "Show _Menubar"
-msgstr "འདེམས་བྱང་ཚང་མངོན་པ། (_M)"
+msgstr "འདེམ་བྱང་སྡེ་འཆར་བ།(_M)"
 
 msgid "Show _menubar by default in new terminals"
 msgstr "མཐའ་སྣེ་གསར་བའི་ཁྲོད་དུ་འདེམ་བྱང་སྡེ་འཆར་བ་སོར་འཇོག"
@@ -663,7 +665,7 @@ msgid "Show per-window options"
 msgstr "སྒེའུ་ཁུང་རེ་རེའི་འདེམ་བྱང་འཆར་བ།"
 
 msgid "Show session management options"
-msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན་མངོན་པ།"
+msgstr "གླེང་མོལ་དོ་དམ་འདེམས་བྱང་འཆར་བ།"
 
 msgid "Show terminal options"
 msgstr "མཐའ་སྣེའི་འདེམ་བྱང་འཆར་བ།"
@@ -672,10 +674,10 @@ msgid "South European"
 msgstr "ཡོ་རོབ་ལྷོ་མ།"
 
 msgid "Specify file containing saved configuration"
-msgstr "ཉར་བའི་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་ཚུད་པ་གཏན་འཁེལ།"
+msgstr "ཉར་ཚགས་བྱས་ཟིན་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ་འདུས་པ་དམིགས་འཛུགས།"
 
 msgid "Specify session management ID"
-msgstr "གྲོས་གླེང་དོ་དམ Idགཏན་འཁེལ།"
+msgstr "གླེང་མོལ་དོ་དམ་IDདམིགས་འཛུགས།"
 
 msgid "Switch to Next Profile"
 msgstr "སྡེབ་སྒྲིག་རྗེས་མ་ལ་བརྗེ་བ།"
@@ -729,7 +731,7 @@ msgid "Switch to this tab"
 msgstr "གདོང་འཛར་ཤོག་ངོས་འདི་ལ་བརྗེ་བ།"
 
 msgid "TITLE"
-msgstr "ཁ་བྱང་།"
+msgstr " ཁ་བྱང་།"
 
 msgid "TTY Erase"
 msgstr "TY Erase"
@@ -799,7 +801,7 @@ msgid "Title and Command"
 msgstr "ཁ་བྱང་དང་བཀའ་བརྡ།"
 
 msgid "Turkish"
-msgstr "ཐུར་ཁེའི་སྐད་ཆ།"
+msgstr "ཐུར་ཁེའི་སྐད།"
 
 msgid "Turn off the menubar"
 msgstr "འདེམ་བྱང་སྡེའི་སྒོ་རྒྱག་པ།"
@@ -836,7 +838,7 @@ msgid "User Defined"
 msgstr "སྤྱོད་མཁན་གྱི་མཚན་ཉིད།"
 
 msgid "Vietnamese"
-msgstr "ཝེ་ཐེ་ནམ་གྱི་སྐད།"
+msgstr " ཡོ་ནན་སྐད།"
 
 msgid "View"
 msgstr "ཕྱི་ཚུལ།"
@@ -876,10 +878,10 @@ msgid "ZOOM"
 msgstr "སྐྱེད་སྐྱུང་།"
 
 msgid "Zoom In"
-msgstr "ཆེར་སྐྱེད།"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Zoom Out"
-msgstr "ཆུང་སྐྱུང་།"
+msgstr "ཆུང་བསྡུ།"
 
 msgid "Zoom factor \"%g\" is too large, using %g\n"
 msgstr ""
@@ -894,7 +896,7 @@ msgid "_%d. %s"
 msgstr "\"_%d. %s\""
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Action"
 msgstr "འགུལ་སྟངས།(_A)"
@@ -924,7 +926,7 @@ msgid "_Close Window"
 msgstr "སྒེའུ་ཁུང་སྒོ་རྒྱག་པ།(_C)"
 
 msgid "_Contents"
-msgstr "དཀར་ཆག(_C)"
+msgstr "དཀར་ཆག (_C)"
 
 msgid "_Copy Call Address"
 msgstr "བརྡ་གཏོང་ཤག་གནས་འདྲ་ཕབ།(_C)"
@@ -933,7 +935,7 @@ msgid "_Copy E-mail Address"
 msgstr "གློག་བརྡུལ་སྦྲག་ཡིག་ཤག་གནས་འདྲ་ཕབ།（_C）"
 
 msgid "_Copy Link Address"
-msgstr "སྦྲེལ་མཐུད་ཤག་གནས་འདྲ་བཟོ།(_C)"
+msgstr "སྦྲེལ་མཐུད་ཤག་གནས་འདྲ་ཕབ།(_C)"
 
 msgid "_Delete key generates:"
 msgstr "Deleteམཐེབ་མནན་ན་འབྱུང་བ་ནི།："
@@ -945,29 +947,29 @@ msgid "_Detach tab"
 msgstr "གདོང་འཛར་ཤོག་ངོས་ཁ་དབྲལ།(_D)"
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_Enable menu access keys (such as Alt+F to open the File menu)"
 msgstr ""
 "འདེམས་བྱང་ཡོད་ཚད་ཀྱི་ལྟ་སྤྱོད་མཐེབ་སྤྱོད་འགོ་རྩོམ་པ།（དཔེར་ན་Alt+Fབཀོལ་ནས་ཡིག་ཆའི་འདེམས་བྱང་ཁ་འབྱེད་པ།）(_E)"
 
 msgid "_Encoding"
-msgstr "ཨང་སྒྲིག(_E)"
+msgstr "སྒྲིག་ཨང་།(_E)"
 
 msgid "_File"
-msgstr "ཡིག་ཆ།(_F)"
+msgstr "ཡིག་ཆ། (_F)"
 
 msgid "_Find..."
-msgstr "འཚོལ་བ།(_F)"
+msgstr "བཤེར་འཚོལ།(_F)..."
 
 msgid "_Font:"
 msgstr "ཡིག་གཟུགས། (_F)："
 
 msgid "_Full Screen"
-msgstr "བརྙན་ཡོངས།(_F)"
+msgstr "བརྙན་ཡོལ་ཧྲིལ་པོ།(_F)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Incremental Search..."
 msgstr "འཕར་ཚད་འཚོལ་བཤེར།(_I)..."
@@ -988,10 +990,10 @@ msgid "_Next Tab"
 msgstr "གདོང་འཛར་ངོས་རྗེས་མ།(_N)"
 
 msgid "_Open Link"
-msgstr "སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
+msgstr " སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
 
 msgid "_Password:"
-msgstr "གསང་ཨང་།(_P)："
+msgstr "གསང་གྲངས།(_P)："
 
 msgid "_Previous Profile"
 msgstr "སྡེབ་སྒྲིག་གོང་མ།:(_P)"
@@ -1012,7 +1014,7 @@ msgid "_Relaunch"
 msgstr "བསྐྱར་སློང་།(_R)"
 
 msgid "_Reset"
-msgstr "བསྐྱར་སྒྲིག (_R)"
+msgstr "བསྐྱར་བཀོད། (_R)"
 
 msgid "_Reset Compatibility Options to Defaults"
 msgstr "འཆམ་མཐུན་རང་བཞིན་གྱི་འདེམ་བྱང་སོར་བཞག་ཐང་ལ་བསྐྱར་སྒྲིག"
@@ -1030,7 +1032,7 @@ msgid "_Scrollbar is:"
 msgstr "འདེད་མ།(_S)："
 
 msgid "_Search"
-msgstr "འཚོལ་བཤེར།(_S)"
+msgstr "བཤེར་འཚོལ།(_S)"
 
 msgid "_Search for:"
 msgstr "འཚོལ་བཤེར།(_S)："
@@ -1054,7 +1056,7 @@ msgid "_Text color:"
 msgstr "ཡིག་དེབ་ཁ་དོག(_T)："
 
 msgid "_Title:"
-msgstr "ཁ་བྱང་། (_T)："
+msgstr "ཁ་བྱང་།(_T)：\""
 
 msgid "_Transparent background"
 msgstr "ཕྱི་གསལ་ནང་གསལ་གྱི་རྒྱབ་ལྗོངས།(_T)"
@@ -1075,19 +1077,19 @@ msgid "_Use the system fixed width font"
 msgstr "རྒྱུད་ཁོངས་ཀྱི་ཞེང་མཚུངས་ཡིག་གཟུགས་སྤྱོད་པ།(_U)"
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "_Wrap around"
 msgstr ""
 
 msgid "columns"
-msgstr "གཞུང་།"
+msgstr " གཞུང་སྟར།"
 
 msgid "lines"
 msgstr "ཕྲེང་།"
 
 msgid "rows"
-msgstr "འཕྲེད།"
+msgstr "ཕྲེང་།"
 
 msgid "translator-credits"
 msgstr ""

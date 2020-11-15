@@ -14,22 +14,22 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "  %s has no binary override entry either\n"
-msgstr ""
+msgstr "  %s ནང་དུ་གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་ཡིག་ཆའི་ཚན overrideམེད།\n"
 
 msgid "  %s has no override entry\n"
-msgstr ""
+msgstr "  %s ནང་དུ་ཚནoverrideམེད།\n"
 
 msgid "  %s has no source override entry\n"
-msgstr ""
+msgstr "  %s ནང་ཁུངས་ཚབ་ཨང་གི་ཚན་ override མེད།\n"
 
 msgid "  %s maintainer is %s not %s\n"
-msgstr ""
+msgstr "  %sསྲུང་མཁན་%sནི་%sམིན།\n"
 
 msgid " DeLink %s [%s]\n"
-msgstr ""
+msgstr " DeLink %s [%s]\n"
 
 msgid " DeLink limit of %sB hit.\n"
-msgstr ""
+msgstr " DeLinkཡི་གོང་ཚད་%sBལ་སླེབས།\n"
 
 msgid "*** Failed to link %s to %s"
 msgstr "*** %sལ་%sའབྲེལ་མི་ཐུབ།"
@@ -63,7 +63,7 @@ msgstr ""
 "གཞི་གྲངས་མཛོད་འདིའི་ཡིག་ཆའི་ཡིག་ཆའི་མིང་%s.oldལ་སྒྱུར།"
 
 msgid "E: "
-msgstr "ནོར་འཁྲུལ།"
+msgstr "ནོར་འཁྲུལ།："
 
 msgid "E: Errors apply to file "
 msgstr "ནོར་འཁྲུལ། ཡིག་ཆ་སྒྲིག་གཅོད་བྱེད་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་། "
@@ -81,10 +81,10 @@ msgid "Failed to create IPC pipe to subprocess"
 msgstr "བུ་འཕེལ་རིམ་མདོང་ལམ་ IPCབཟོ་མི་ཐུབ།"
 
 msgid "Failed to fork"
-msgstr " forkབྱ་མི་ཐུབ།"
+msgstr "fork བྱེད་ཐབས་བྲལ།"
 
 msgid "Failed to open %s"
-msgstr "%sཁ་ཕྱེ་མི་ཐུབ་པ།"
+msgstr "%s ཁ་ཕྱེ་ཐབས་མེད།"
 
 msgid "Failed to read .dsc"
 msgstr ".dscཡིག་ཆ་ཀློག་པ་ཕམ་པ།"
@@ -102,7 +102,7 @@ msgid "Failed to rename %s to %s"
 msgstr "%sམིང་བསྐྱར་དུ་བཏགས་ནས་%sཞེས་འབོད་ཐབས་མེད།"
 
 msgid "Failed to resolve %s"
-msgstr "༄༅།།%sལ་དབྱེ་ཞིབ་བྱེད་ཐབས་མེད།"
+msgstr "%sལ་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།"
 
 msgid "Failed to stat %s"
 msgstr "%s ཡི་རྣམ་པ་ཐོབ་མི་ཐུབ།"
@@ -147,13 +147,13 @@ msgid "Unable to mkstemp %s"
 msgstr "གནས་སྐབས་ཀྱི་ཡིག་ཆ་(mkstemp) %sབཟོ་མི་ཐུབ།"
 
 msgid "Unable to open %s"
-msgstr " %sཁ་འབྱེད་མི་ཐུབ།"
+msgstr "%s ཁ་ཕྱེ་ཐབས་མེད།"
 
 msgid "Unable to open DB file %s: %s"
 msgstr "གཞི་གྲངས་མཛོད་ཡིག་ཆ་ %s：%sཁ་འབྱེད་མི་ཐུབ།"
 
 msgid "Unable to write to %s"
-msgstr "%sའབྲི་མི་ཐུབ།"
+msgstr "%s་འབྲི་ཐབས་མེད།"
 
 msgid "Unknown compression algorithm '%s'"
 msgstr "མི་ཤེས་བཙིར་གནོན་རྩི་ཐབས“%s”"
@@ -231,9 +231,11 @@ msgstr "ཉེན་བརྡ།"
 
 msgid "W: Unable to read directory %s\n"
 msgstr ""
+"ཐ་ཚིག དཀར་ཆག་ %s\n"
+"ཀློག་མི་ཐུབ།"
 
 msgid "W: Unable to stat %s\n"
-msgstr ""
+msgstr "ཐ་ཚིག  %s ཡི་རྣམ་པ་ཐོབ་མི་ཐུབ།\n"
 
 msgid "realloc - Failed to allocate memory"
 msgstr "realloc - ནང་གསོག་བགོད་པ་ཕམ་པ།"

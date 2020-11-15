@@ -31,7 +31,7 @@ msgid " (copy)"
 msgstr "(བསྐྱར་མ།)"
 
 msgid " (invalid Unicode)"
-msgstr "(ནུས་མེད་ཀྱི་ Unicode)"
+msgstr "\"། (ཕན་མེད་གྱི་ Unicode)\""
 
 msgid " - Browse and monitor logs"
 msgstr "བལྟས་པ་དང་ལྟ་ཞིབ་ཉིན་ཐོ།"
@@ -40,10 +40,10 @@ msgid " - Look up words in dictionaries"
 msgstr "ཚིག་མཛོད་ཁྲོད་ཐ་སྙད་ལ་ལྟ་བ།"
 
 msgid "\"%s\" in %s"
-msgstr ""
+msgstr "“%s”，%sཡིས་རྩི་བ།"
 
 msgid "\"%s\" is not a valid folder"
-msgstr ""
+msgstr "%sནི་ནུས་ལྡན་གྱི་ཡིག་ཁུག་མ་རེད།"
 
 msgid "%'d File Found"
 msgid_plural "%'d Files Found"
@@ -61,7 +61,7 @@ msgstr[0] "ཚན་པ་% 5d"
 msgstr[1] "ཚན་པ་% 5d"
 
 msgid "%A, %B %-d %Y at %-I:%M:%S %p"
-msgstr "%Yལོའི་ཟླ་%-mཚེས་%-dཉིན%A，%-H:%M:%S"
+msgstr "%Yལོའི་ཟླ %-mཚེས་%-dཉིན%A，%-H:%M:%S"
 
 msgid "%d lines (%s) - %s"
 msgstr "%d ཕྲེང་(%s) - %s"
@@ -91,7 +91,7 @@ msgid "(stopped)"
 msgstr "མཚམས་འཇོག་པ།"
 
 msgid "*"
-msgstr "\"*\""
+msgstr "*"
 
 msgid "- the MATE Search Tool"
 msgstr "ཡིག་ཆ་འཚོལ་བཤེར།"
@@ -169,7 +169,7 @@ msgid "Add a new dictionary source"
 msgstr "ཚིག་མཛོད་ཀྱི་ཁུངས་གསར་པ་ཁ་སྣོན།"
 
 msgid "Add new filter"
-msgstr "འཚག་ཆས་གསར་པ་སྣོན་པ།"
+msgstr "འཚག་ཆས་གསར་བསྣན།"
 
 msgid "Add search option"
 msgstr "བཤེར་འཚོལ་འདེམ་བྱང་ཁ་སྣོན།"
@@ -184,7 +184,7 @@ msgid "Application does not accept documents on command line"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས་མི་ལེན།"
 
 msgid "Apply _effect:"
-msgstr "བཀོལ་སྤྱོད་ཀྱི་དམིགས་བསལ་ནུས་པ། (_E)："
+msgstr "ཉེར་སྤྱོད་དམིགས་བསལ་ནུས་པ།(_E)："
 
 msgid "Are you sure you want to open %d document?"
 msgid_plural "Are you sure you want to open %d documents?"
@@ -200,7 +200,7 @@ msgid "Automatically start a search"
 msgstr "རང་འགུལ་བཤེར་འཚོལ་མགོ་བརྩམས།"
 
 msgid "Available"
-msgstr "སྤྱོད་རུང་།"
+msgstr "ཁོམ་པ།"
 
 msgid "Available St_rategies"
 msgstr "སྤྱོད་རུང་ཐབས་ཇུས།(_R)"
@@ -218,7 +218,7 @@ msgid "Available strategies"
 msgstr "སྤྱོད་རུང་ཐབས་ཇུས།"
 
 msgid "Background:"
-msgstr "རྒྱབ་ལྗོངས།:"
+msgstr "རྒྱབ་ལྗོངས།："
 
 msgid "Bad command '%s'"
 msgstr "ནོར་འཁྲུལ་གྱི་མིང་།%s"
@@ -233,13 +233,13 @@ msgid "Border"
 msgstr "མཐའ་མཚམས།"
 
 msgid "Border Effect"
-msgstr "མཐའ་སྒྲོམ་གྱི་འབྲས་བུ།"
+msgstr "མཐའ་སྒྲོམ་ཕན་འབྲས།"
 
 msgid "Browse"
-msgstr "མིག་བཤར།"
+msgstr "མིག་བཤེར།"
 
 msgid "C_opy to Clipboard"
-msgstr "དྲས་སྦྱར་པང་ལ་འདྲ་ཕབ། (_O)"
+msgstr "དྲས་སྦྱར་ངོས་པང་ཏུ་འདྲ་ཕབ་བྱེད་པ།(_O)"
 
 msgid "Calculating percentage bars..."
 msgstr "བརྒྱ་ཆའི་བསྡུར་ཚད་རྩི་བཞིན་པ།"
@@ -251,7 +251,7 @@ msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
 msgstr "ཡིག་ཚགས་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
 
 msgid "Can't read from \"%s\""
-msgstr ""
+msgstr "%sནས་ཀློག་མི་ཆོག"
 
 msgid "Cannot Connect to Server. You must enter a name for the server."
 msgstr ""
@@ -265,13 +265,13 @@ msgid "Cannot create pixbuf image!"
 msgstr "བརྙན་རྒྱུའི་བརྙན་རིས་གསར་བཟོ་བྱེད་ཐབས་བྲལ།"
 
 msgid "Cannot scan location \"%s\""
-msgstr ""
+msgstr "གནས་%sབཤར་འབེབས་བྱེད་ཐབས་བྲལ།"
 
 msgid "Changes to your home folder will not be monitored."
 msgstr "དཀར་ཆག་གཙོ་བོའི་བཟོ་བཅོས་ལ་ལྟ་ཞིབ་བྱེད་ཐབས་བྲལ།"
 
 msgid "Character set conversion failed for \"%s\""
-msgstr ""
+msgstr "%sཡི་ཡིག་རྟགས་ཚོགས་བསྒྱུར་ཕམ་པ།"
 
 msgid "Chart model"
 msgstr "དཔེ་རིས་དཔེ་དབྱིབས།"
@@ -280,13 +280,13 @@ msgid "Chart root node"
 msgstr "དཔེ་རིས་ཀྱི་རྩ་བའི་ཚིགས་ཚེག"
 
 msgid "Check folder sizes and available disk space"
-msgstr "ཡིག་ཁུག་གི་ཆེ་ཆུང་དང་སྤྱོད་རུང་སྡུད་སྡེར་བར་སྟོང་ལ་ཞིབ་བཤེར་བྱེད།"
+msgstr "ཡིག་ཁུག་ཆེ་ཆུང་དང་སྤྱོད་རུང་སྡུད་སྡེར་བར་སྟོང་ལ་ཞིབ་བཤེར་བྱེད་པ།"
 
 msgid "Check word definitions and spellings in an online dictionary"
 msgstr ""
 
 msgid "Cl_ear"
-msgstr "གཙང་སེལ། (_E)"
+msgstr "གཙང་སེལ།(_E)"
 
 msgid "Clear definition"
 msgstr "གཙང་སེལ་མཚན་ཉིད།"
@@ -313,7 +313,7 @@ msgid "Click to add the selected available search option."
 msgstr "འདེམ་ཟིན་པའི་བཀོལ་རུང་འཚོལ་བཤེར་ཚན་པར་ཆིག་རྡེབ་བྱས་ནས་ཁ་སྣོན་གྱིས།"
 
 msgid "Click to close \"Search for Files\"."
-msgstr ""
+msgstr "འཚོལ་བཤེར་ཡིག་ཆ་ཆིག་རྡེབ་བྱས་ནས་སྒོ་རྒྱོབས།"
 
 msgid "Click to display the help manual."
 msgstr "ཆིག་རྡེབ་བྱས་ན་རོགས་རམ་ལག་དེབ་འཆར།"
@@ -325,7 +325,7 @@ msgid "Click to perform a search."
 msgstr "མནན་ན་བཤེར་འཚོལ་ལག་བསྟར་བྱེད་ཐུབ།"
 
 msgid "Click to remove the \"%s\" search option."
-msgstr ""
+msgstr "ཆིག་རྡེབ་བྱས་ནས་%sཡི་བཤེར་འཚོལ་འདེམ་བྱང་བསུབ་ཆོག"
 
 msgid "Click to stop a search."
 msgstr "ཆིག་རྡེབ་བྱས་ན་འཚོལ་བཤེར་མཚམས་འཇོག"
@@ -342,10 +342,10 @@ msgstr "ཉིན་ཐོ་འདིའི་སྒོ་རྒྱག་པ།
 msgid ""
 "Conflicting options: --window and --area should not be used at the same "
 "time.\n"
-msgstr ""
+msgstr "གདོང་གཏུག་གི་འདེམས་ཚན།：--window དང --area མཉམ་དུ་སྤྱད་མི་ཆོག \n"
 
 msgid "Connect to Server"
-msgstr "ཞབས་ཞུ་ཆས་ལ་འབྲེལ་མཐུད།"
+msgstr "ཞབས་ཞུ་ཆས་ལ་སྦྲེལ།"
 
 msgid "Connection failed to the dictionary server at %s:%d"
 msgstr "ཞབས་ཞུའི་འཕྲུལ་ཆས་དང་སྦྲེལ་མཐུད%s:%dཕམ་པ།"
@@ -363,13 +363,13 @@ msgid "Context"
 msgstr "ཁོར་ཡུག"
 
 msgid "Copy the selection"
-msgstr "བདམས་པའི་ནང་དོན་འདྲ་བཟོ།"
+msgstr "བདམས་ཟིན་པའི་ནང་དོན་འདྲ་ཕབ།"
 
 msgid "Could not analyze disk usage."
 msgstr "སྡུད་སྡེར་གྱི་བཀོལ་ཚུལ་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།"
 
 msgid "Could not delete \"%s\"."
-msgstr ""
+msgstr "%sབསུབ་ཐབས་བྲལ།"
 
 msgid "Could not detect any mount point."
 msgstr "འགེལ་འཇོག་གནས་གང་ཡང་ཞིབ་བཤེར་བྱེད་ཐབས་བྲལ།"
@@ -378,37 +378,37 @@ msgid "Could not initialize monitoring"
 msgstr "འགོ་སྒྲིག་ལྟ་ཞིབ་བྱེད་ཐབས་བྲལ།"
 
 msgid "Could not move \"%s\" to the Trash"
-msgstr ""
+msgstr "%sསྙིགས་སྣོད་དུ་གནས་སྤོ་བྱེད་ཐབས་བྲལ།"
 
 msgid "Could not move \"%s\" to trash."
-msgstr ""
+msgstr "%sསྙིགས་སྣོད་དུ་གནས་སྤོ་བྱེད་ཐབས་བྲལ།"
 
 msgid "Could not move file to the Trash"
 msgstr "ཡིག་ཆ་སྙིགས་སྣོད་དུ་སྤོ་ཐབས་བྲལ་བ།"
 
 msgid "Could not open document \"%s\"."
-msgstr ""
+msgstr "ཡིག་ཚགས་%sཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "Could not open folder \"%s\""
-msgstr ""
+msgstr "ཡིག་ཁུག་%sཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "Could not open folder \"%s\"."
-msgstr ""
+msgstr "ཡིག་ཁུག་%sཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "Could not open help document."
 msgstr "རོགས་རམ་ཡིག་ཚགས་ཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "Could not open the following files:"
-msgstr "གཤམ་གྱི་ཡིག་ཆ་ཁ་ཕྱེ་མི་ཐུབ་པ།："
+msgstr "གཤམ་གསལ་གྱི་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ་བ།"
 
 msgid "Could not save \"%s\" document to \"%s\"."
-msgstr ""
+msgstr "ཡིག་ཚགས་%sདེ་%sལ་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
 
 msgid "Could not save document."
 msgstr "ཡིག་ཆ་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
 
 msgid "Custom Location"
-msgstr "གནས་ས་རང་གཏན།"
+msgstr "མཚན་ཉིད་རང་འཇོག་གནས།"
 
 msgid "DAYS"
 msgstr "ཉིན་གྲངས།"
@@ -448,10 +448,10 @@ msgid ""
 msgstr ""
 
 msgid "Deleting \"%s\" failed: %s."
-msgstr ""
+msgstr "%sབསུབ་ནས་ཕམ་པ།：%s。"
 
 msgid "Description"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཞིབ་བརྗོད།"
 
 msgid "Details: %s"
 msgstr "ཞིབ་ཆ།：%s"
@@ -502,7 +502,7 @@ msgid "Disable _Quick Search"
 msgstr "མྱུར་འཚོལ་སྤྱོད་མི་ཆོག(_Q)\""
 
 msgid "Disable connection to session manager"
-msgstr "གྲོས་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་བཀག"
+msgstr "གཏམ་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་འགོག་སྤྱོད།"
 
 msgid "Disk Usage Analyzer"
 msgstr "སྡུད་སྡེར་ཀྱིས་དབྱེ་ཞིབ་ཆས་བཀོལ་བ།"
@@ -511,7 +511,7 @@ msgid "Disk Usage Analyzer Preferences"
 msgstr "སྡུད་སྡེར་ཀྱིས་དབྱེ་ཞིབ་ཆས་བཀོལ་པའི་སྔོན་འདེམས་ཚན་པ།"
 
 msgid "Do you want to delete \"%s\" permanently?"
-msgstr ""
+msgstr "ཁྱེད་རང་གི་%sགཏན་ཏུ་བསུབ་འདོད་དམ།"
 
 msgid "Double-click on the database to use"
 msgstr "ཁྱེད་རང་ལ་དགོས་པའི་གཞི་གྲངས་མཛོད་ལ་ཉིས་རྡེབ་བྱོས།"
@@ -546,9 +546,11 @@ msgid ""
 "Effect to add to the outside of a border. Possible values are \"shadow\", "
 "\"none\", and \"border\"."
 msgstr ""
+"མཐའ་སྒྲོམ་སྟེང་བསྣན་པའི་དམིགས་བསལ་གྱི་ནུས་པ། "
+"འདེམ་རུང་བིའ་ཐང་ལ་showདངnoneདང་borderབཅས་འདུས་ཡོད།"
 
 msgid "Effect:"
-msgstr "འབྲས་བུ།:"
+msgstr "ཕན་འབྲས།"
 
 msgid "Effects"
 msgstr "ཕན་འབྲས།"
@@ -558,10 +560,10 @@ msgstr ""
 "ཡིག་ཆའི་མིང་ངམ་ཡང་ན་ཡིག་ཆ་ཁ་ཤས་ཀྱི་མིང་ནང་འཇུག་བྱས་ན་ཀུན་འཕྲོད་ཨང་རྟགས་བཀོལ་ཆོག"
 
 msgid "Enter a text value for the \"%s\" search option."
-msgstr ""
+msgstr "%sཡི་བཤེར་འཚོལ་འདེམས་བྱང་གྱི་ཡིག་དེབ་གྲངས་ཐང་ནང་འཇུག་བྱེད་དགོས།"
 
 msgid "Enter a value in %s for the \"%s\" search option."
-msgstr ""
+msgstr "%sཡིས་བརྩིས་པའི་%sཡི་བཤེར་འཚོལ་འདེམས་བྱང་ཐང་ནང་འཇུག་བྱེད་དགོས།"
 
 msgid "Entry changed called for a non entry option!"
 msgstr "བསྒྱུར་ཟིན་པའི་བྱ་ར་ཡིས་བྱ་ར་མིན་པའི་འདེམ་བྱང་འདོན་སྤྱོད།"
@@ -606,20 +608,20 @@ msgstr "རི་མོ་འཛིན་ཉར་སྐབས་ཀྱི་ན
 
 msgid "Error while uncompressing the GZipped log. The file might be corrupt."
 msgstr ""
-"ཉིན་ཐོ Gzipped བསྡུས་འགྲོལ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ། "
-"ཡིག་ཆ་འདི་ཕལ་ཆེར་སྐྱོན་ཤོར་འདུག"
+"GZippedཡི་ཉིན་ཐོ་བཙིར་གནོན་སྐབས་ནོར་འཁྲུལ་བྱུང་། "
+"ཡིག་ཆ་དེ་ལ་སྐྱོན་བྱུང་ཡོད་སྲིད།"
 
 msgid "Error while writing to '%s'"
 msgstr "%sའབྲི་སྐབས་ནོར་འཁྲུལ་ཤོར་བ།"
 
 msgid "Error: %s\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།：%s\n"
 
 msgid "Exclude other filesystems"
 msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་གཞན་ཕྱིར་འབུད་པ།"
 
 msgid "Excluded partitions URIs"
-msgstr "ཕུད་པའི་ཁུལ་དབྱེ།URI"
+msgstr "ཕྱིར་ཕུད་པའི་ཁུལ་དབྱེ།URI"
 
 msgid "FILE"
 msgstr "ཡིག་ཆ།"
@@ -628,16 +630,18 @@ msgid "FLAGS"
 msgstr "མཚོན་རྟགས།"
 
 msgid "FTP (with login)"
-msgstr "FTP (ཐོ་འགོད་དགོས།)"
+msgstr "FTP(ཐོ་འགོད་བྱེད་དགོས། )"
 
 msgid "F_ind:"
 msgstr "འཚོལ་བ།(_F)："
 
 msgid "Failed to parse command line arguments: %s\n"
 msgstr ""
+"བཀའ་བརྡའི་ཕྲེང་གི་ཞུགས་གྲངས་དབྱེ་ཞིབ་ཕམ་པ།：%s\n"
+"\""
 
 msgid "Failed to set process group id of child %d: %s.\n"
-msgstr ""
+msgstr "%d བུའི་ཚོགས་ཆུང་Idསྒྲིག་འགོད་ཕམ་པ།:%s。\n"
 
 msgid "File already exists"
 msgstr "ཡིག་ཆ་ཡོད་པ།"
@@ -646,37 +650,37 @@ msgid "File is empty"
 msgstr "ཡིག་ཆ་སྟོང་པ་རེད།"
 
 msgid "File is not a valid .desktop file"
-msgstr "ཡིག་ཆ་ནི .desktop ནུས་ལྡན་ཡིག་ཆ་མིན།"
+msgstr "ཡིག་ཆ་གོ་ཆོད་མིན་པ། desktopཡིག་ཆ།"
 
 msgid "Filename"
-msgstr "ཡིག་ཆའི་མིང་།"
+msgstr " ཡིག་ཆའི་མིང་།"
 
 msgid "Filesystem Type"
 msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་རིགས་གྲས།"
 
 msgid "Filter name is empty!"
-msgstr "འཚག་ཆས་མིང་སྟོང་པ་ཡིན་མི་ཆོག"
+msgstr "འཚག་ཆས་ཀྱི་མིང་སྟོང་རེད།"
 
 msgid "Filter name may not contain the ':' character"
-msgstr "འཚག་ཆས་མིང་ལ་ཡིག་རྟགས “:” ཚུད་མི་ཆོག"
+msgstr "འཚག་ཆས་ཀྱི་མིང་ལ་ཡིག་རྟགས“:”འདུས་མི་རུང་།"
 
 msgid "Filters"
 msgstr "ཡིག་ཆ།"
 
 msgid "Find Ne_xt"
-msgstr "ངོས་རྗེས་མ་འཚོལ།(_X)"
+msgstr "རྗེས་མ་འཚོལ་ཞིབ།(_X)"
 
 msgid "Find Next"
 msgstr "རྗེས་མ་འཚོལ་བ།"
 
 msgid "Find Pre_vious"
-msgstr "སྔར་མ་བོ་འཚོལ།(_V)"
+msgstr "གོང་མ་འཚོལ་ཞིབ།(_V)"
 
 msgid "Find Previous"
 msgstr "གོང་མ་འཚོལ་བ།"
 
 msgid "Find a word or phrase in the document"
-msgstr "ཡིག་ཚགས་སུ་ཐ་སྙད་ཡང་ན་ཚིག་དུམ་འཚོལ།"
+msgstr "ཡིག་ཚགས་ཁྲོད་ནས་ཐ་སྙད་དང་ཚིག་དུམ་འཚོལ་བ།"
 
 msgid "Find a word or phrase in the log"
 msgstr "ཉིན་ཐོའི་ནང་ཐ་སྙད་དང་ཚིག་དུམ་འཚོལ་བ།"
@@ -694,7 +698,7 @@ msgid "Follow symbolic links"
 msgstr "རྗེས་འདེད་མཚོན་རྟགས་སྦྲེལ་མཐུད།"
 
 msgid "Foreground:"
-msgstr "མདུན་ལྗོངས།:"
+msgstr "མདུན་ལྗོངས།："
 
 msgid "GDict Options"
 msgstr "ཚིག་མཛོད་འདེམས་བྱང་།"
@@ -706,7 +710,7 @@ msgid "GDict debugging flags to unset"
 msgstr "ཕྱིར་འཐེན་བྱའི་GDictཚོད་སྒྲིག་མཚོན་རྟགས།"
 
 msgid "GROUP"
-msgstr ""
+msgstr "ཚོ་ཆུང་།"
 
 msgid "G_rab the whole desktop"
 msgstr "ཅོག་ངོས་ཧྲིལ་པོ་འཛིན་པ།"
@@ -740,13 +744,13 @@ msgid "H_ostname:"
 msgstr "འཕྲུལ་འཁོར་གཙོ་བོའི་མིང་།(_O)："
 
 msgid "Height of the main window in pixels"
-msgstr "སྒེའུ་ཁུང་གཙོ་བོའི་མཐོ་ཚད། བརྙན་རྒྱུ་ཡིས་རྩིས་པ།"
+msgstr "སྒེའུ་ཁུང་གཙོ་བོའི་མཐོ་ཚད།བརྙན་རྒྱུས་རྩི་བ།"
 
 msgid "Hide"
-msgstr "སྦེད་པ།"
+msgstr "གབ་པ།"
 
 msgid "Highlight"
-msgstr "མཐོ་གསལ།"
+msgstr "མདངས་ཆེན།"
 
 msgid "Hostname"
 msgstr "གཙོ་འཁོར་མིང་།"
@@ -780,7 +784,7 @@ msgid "Include the pointer in the screenshot"
 msgstr "བཅད་རིས་ཀྱི་ནང་ཙིག་མདའི་སྟོན་མདའ་ཚུད་པ།"
 
 msgid "Include the window _border"
-msgstr "སྒེའུ་ཁུང་མཐའ་སྒྲོམ་ཚུད་པ། (_B)"
+msgstr "སྒེའུ་ཁུང་གི་མཐའ་སྒྲོམ་ཚུད་པ།(_B)"
 
 msgid "Include the window border with the screenshot"
 msgstr "བཅད་རིས་ཀྱི་ནང་སྒེའུ་ཁུང་མཐའ་སྒྲོམ་ཚུད་པ།"
@@ -807,16 +811,16 @@ msgid "KILOBYTES"
 msgstr "ཡིག་ཚིགས་སྟོང་ཕྲག་མ།"
 
 msgid "List View"
-msgstr "རེའུ་མིག་མཐོང་རིས།"
+msgstr "རེའུ་མིག་གི་མཐོང་རིས།"
 
 msgid "List of saved filters"
-msgstr "ཉར་ཚགས་ཟིན་པའི་འཚག་ཆས་ཀྱི་རེའུ་མིག"
+msgstr "ཉར་ཚགས་བྱས་ཟིན་པའི་འཚག་ཆས་རེའུ་མིག"
 
 msgid "List of saved regexp filters"
 msgstr "ཚད་མཐུན་མཚོན་ཚུལ་གྱི་འཚག་ཆས་ཉར་ཚགས་བྱེད་པའི་རེའུ་མིག"
 
 msgid "Loading..."
-msgstr "ཕབ་འཇུག་བྱེད་པ..."
+msgstr "འགེལ་བཞིན་པ།"
 
 msgid "Local Only"
 msgstr ""
@@ -832,10 +836,10 @@ msgid "Log Viewer"
 msgstr "ཉིན་ཐོ་ལྟ་ཆས།"
 
 msgid "Log file to open up on startup"
-msgstr "འགོ་སློང་སྐབས་ཁ་ཕྱེ་བའི་ཉིན་ཐོའི་ཡིག་ཆ།"
+msgstr "འགོ་སློང་སྐབས་སྒོ་འབྱེད་པའི་ཉིན་ཐོའི་ཡིག་ཆ།"
 
 msgid "Log files to open up on startup"
-msgstr "འགོ་སློང་སྐབས་ཁ་ཕྱེ་བའི་ཉིན་ཐོའི་ཡིག་ཆ།"
+msgstr "འགོ་སློང་སྐབས་སྒོ་འབྱེད་པའི་ཉིན་ཐོའི་ཡིག་ཆ།"
 
 msgid "Longdo Thai-English Dictionaries"
 msgstr "Longdoཐེ་སྐད་ནས་དབྱིན་སྐད་ཚིག་མཛོད་བར།"
@@ -847,7 +851,7 @@ msgid "Look in Folder"
 msgstr "ཡིག་ཁུག་འཚོལ་བ།"
 
 msgid "Look in folder"
-msgstr "ཡིག་ཁུག་འཚོལ་བཤེར།"
+msgstr "ཡིག་ཁུག་འཚོལ་བ།"
 
 msgid "Look up words in dictionaries"
 msgstr "ཚིག་མཛོད་ནང་ནས་ཐ་སྙད་ལྟ་ཀློག"
@@ -892,13 +896,13 @@ msgid "Move to parent folder"
 msgstr "ཕའི་ཡིག་ཁུག་ཏུ་སྤོར་བ།"
 
 msgid "Moving \"%s\" failed: %s."
-msgstr ""
+msgstr "“%s”སྤོ་སྒུལ་ཕམ་པ།：%s。"
 
 msgid "Na_me does not contain"
 msgstr "མིང་ནང་ཚུད་མེད་པ།（_M）"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name contains"
 msgstr "མིང་ཚུད་པ།"
@@ -943,13 +947,13 @@ msgid "No strategies found on dictionary server at '%s'"
 msgstr "ཚིག་མཛོད་ཞབས་ཞུ་ཆས་%sཐབས་ཇུས་མ་རྙེད་པ།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Normal text size"
 msgstr "ཡིག་དེབ་དཀྱུས་མའི་ཆེ་ཆུང་།"
 
 msgid "Not a launchable item"
-msgstr "བཀོལ་སྤྱོད་རུང་བའི་ཚན་པ་མིན།"
+msgstr "འདོན་སྤྱོད་རུང་བའི་ཚན་པ་མ་རེད།"
 
 msgid "Not found"
 msgstr "རྙེད་མ་བྱུང་།"
@@ -961,10 +965,10 @@ msgid "Open Containing _Folder"
 msgstr ""
 
 msgid "Open Log"
-msgstr "ཉིན་ཐོ་ཁ་ཕྱེ་བ།"
+msgstr "ཉིན་ཐོའི་ཁ་འབྱེད་པ།"
 
 msgid "Open Wit_h"
-msgstr "ཁ་འབྱེད་བྱེད་སྟངས།(_H)"
+msgstr "ཁ་ཕྱེ་སྟངས།(H)"
 
 msgid "Open a log from file"
 msgstr "ཡིག་ཆའི་ཐོག་ནས་ཉིན་ཐོའི་ཁ་འབྱེད་པ།"
@@ -991,7 +995,7 @@ msgid "PATH"
 msgstr "འགྲོ་ལམ།"
 
 msgid "PATTERN"
-msgstr "PATTERN"
+msgstr "དཔེ་དབྱིབས།"
 
 msgid "P_review..."
 msgstr "སྔོན་ལྟ།(_R)..."
@@ -1009,10 +1013,10 @@ msgid "Please wait until the current search ends."
 msgstr "ཅུང་ཙམ་སྒུག མིག་སྔའི་བཤེར་འཚོལ་མཇུག་སྒྲིལ་བར་སྒུག"
 
 msgid "Port"
-msgstr "མཐུད་ཁ།"
+msgstr " སྣེ་ཁ།"
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Preview this document"
 msgstr "ཡིག་ཚགས་འདིར་སྔོན་བལྟ་བྱོས།"
@@ -1033,7 +1037,7 @@ msgid "Print the text of the definition"
 msgstr "གཏག་པར་མཚན་ཉིད་ཀྱི་ཡིག་ཆ།"
 
 msgid "Print this document"
-msgstr "ཡིག་ཚགས་འདི་པར་འདེབས་བྱེད།"
+msgstr "ཡིག་ཚགས་འདི་པར་དུ་ཐོབ།"
 
 msgid "Public FTP"
 msgstr "ཡོངས་བསྒྲགས། FTP"
@@ -1054,7 +1058,7 @@ msgid "Refresh"
 msgstr "/གསར་སྒྱུར།"
 
 msgid "Regular expression is empty!"
-msgstr "ཚད་མཐུན་མཚོན་ཚུལ་ནི་སྟོང་པ་ཡིན།"
+msgstr "ཚད་མཐུན་གྱི་མཚོན་ཚུལ་སྟོང་པ་རེད།"
 
 msgid "Regular expression is invalid: %s"
 msgstr "ནུས་མེད་ཀྱི་ཚད་མཐུན་མཚོན་ཚུལ།：%s"
@@ -1069,16 +1073,16 @@ msgid "Reload the list of available strategies"
 msgstr "སྤྱོད་རུང་གི་ཐབས་ཇུས་བསྐྱར་འཇུག"
 
 msgid "Remove \"%s\""
-msgstr ""
+msgstr "“%s”\"བསུབ་པ།"
 
 msgid "Remove \"%s\"?"
-msgstr ""
+msgstr "%sབསུབ་བམ།"
 
 msgid "Remove the currently selected dictionary source"
 msgstr "མིག་སྔར་བདམས་ཟིན་པའི་ཚིག་མཛོད་ཀྱི་ཁུངས་སུབ།"
 
 msgid "Remove the window border from the screenshot"
-msgstr "བརྙན་ཡོལ་བཅད་རིས་ཀྱི་སྒེའུ་ཁུང་མཐའ་སྒྲོམ་འདོར་བ།"
+msgstr "བརྙན་ཤེལ་གྱི་པར་བཅད་ལེན་བྱེད་པའི་སྒེའུ་ཁུང་གི་མཐའ་སྒྲོམ་དོར།"
 
 msgid "Rescan your home folder?"
 msgstr "ཁྱེད་རང་གི་ཡིག་ཁུག་གཙོ་བོར་ཡང་བསྐྱར་བཤར་འབེབས་བྱེད་དམ།"
@@ -1111,7 +1115,7 @@ msgid "Save Snapshot"
 msgstr "པར་འཛིན་ཉར་ཚགས།"
 
 msgid "Save a Copy"
-msgstr "འདྲ་བཤུས་ཉར་ཚགས།"
+msgstr "བུ་དཔེ་ཉར་ཚགས།"
 
 msgid "Save definition"
 msgstr "མཚན་ཉིད་ཉར་ཚགས།"
@@ -1120,7 +1124,7 @@ msgid "Save images of your desktop or individual windows"
 msgstr ""
 
 msgid "Save in _folder:"
-msgstr "ཡིག་ཁུག་ཏུ་ཉར་ཚགས་བྱས་ཡོད། (_F)："
+msgstr "ཡིག་ཁུག་དུ་ཉར་ཚགས།(_F)：\""
 
 msgid "Save screenshot"
 msgstr "པར་འཛིན་ཉར་ཚགས།"
@@ -1135,13 +1139,13 @@ msgid "Saving file..."
 msgstr "ཡིག་ཆ་ཉར་ཚགས་བྱེད་བཞིན་པ།"
 
 msgid "Scan"
-msgstr "མིག་བཤར།"
+msgstr "མིག་བཤེར།"
 
 msgid "Scan F_older..."
 msgstr "ཡིག་ཁུག་བཤར་འབེབས།(_O)..."
 
 msgid "Scan Filesystem"
-msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་བཤར་འབེབས་།"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་བཤར་འབེབས།"
 
 msgid "Scan Folder"
 msgstr "ཡིག་ཁུག་བཤར་འབེབས།"
@@ -1207,10 +1211,10 @@ msgid "Search Result Columns Order"
 msgstr "བཤེར་འཚོལ་མཇུག་འབྲས་སྟར་རིམ།"
 
 msgid "Search for Files"
-msgstr "ཡིག་ཆ་འཚོལ་ཞིབ།"
+msgstr "འཚོལ་བཤེར་ཡིག་ཆ།"
 
 msgid "Search history"
-msgstr "འཚོལ་བ་ལོ་རྒྱུས།"
+msgstr "བཤེར་འཚོལ་ལོ་རྒྱུས།"
 
 msgid "Search paths used by this object"
 msgstr "བྱ་ཡུལ་འདིར་བཀོལ་བའི་བཤེར་འཚོལ་འགྲོ་ལམ།"
@@ -1225,7 +1229,7 @@ msgid "Secure WebDAV (HTTPS)"
 msgstr "བདེ་འཇགས WebDAV། (HTTPS)"
 
 msgid "See mate-dictionary --help for usage\n"
-msgstr ""
+msgstr "mate-dictonary，hlepཡི་སྤྱོད་སྟངས་ལ་གཟིགས་དང་།\n"
 
 msgid "Select Folder"
 msgstr "ཡིག་ཁུག་འདེམ་པ།"
@@ -1234,7 +1238,7 @@ msgid "Select _All"
 msgstr "ཚང་མ་འདེམ་པ།(_A)"
 
 msgid "Select _area to grab"
-msgstr "གཅོད་ལེན་གྱི་ཁུལ་ཁོངས་ཤིག་འདེམ་པ། (_A)"
+msgstr "བཅད་ལེན་ཁུལ་ཁོངས་ཤིག་འདེམས།(_A)"
 
 msgid "Select _devices to include in filesystem scan:"
 msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་གི་བཤར་འབེབས་ནང་དུ་འདུས་པའི་སྒྲིག་ཆས་འདེམས།(_D)："
@@ -1246,7 +1250,7 @@ msgid "Select a search option from the drop-down list."
 msgstr "མར་འཐེན་རེའུ་མིག་ནང་ནས་འཚོལ་བཤེར་གདམ་བྱ་འདེམས།"
 
 msgid "Select and set the \"%s\" search option"
-msgstr ""
+msgstr "%sཡི་བཤེར་འཚོལ་འདེམས་བྱང་འདེམ་པ་དང་སྒྲིག་འགོད་བྱེད་དགོས།"
 
 msgid "Select more _options"
 msgstr "གདམས་གསེས་དེ་བས་མང་བ་ཞིག་འདེམས།（_O）"
@@ -1255,7 +1259,7 @@ msgid "Select more options"
 msgstr "གདམས་གསེས་དེ་བས་མང་བ་ཞིག་འདེམས།"
 
 msgid "Select the \"%s\" search option"
-msgstr ""
+msgstr "%sཡི་བཤེར་འཚོལ་འདེམས་བྱང་འདེམས།"
 
 msgid "Select the entire log"
 msgstr "ཉིན་ཐོ་ཡོངས་རྫོགས་འདེམས།"
@@ -1268,7 +1272,7 @@ msgid "Service _type:"
 msgstr "ཞབས་ཞུའི་རིགས་གྲས།(_T)："
 
 msgid "Session management options:"
-msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན།"
+msgstr "གླེང་མོལ་དོ་དམ་འདེམ་བྱང་།"
 
 msgid "Set sort order to descending, the default is ascending"
 msgstr ""
@@ -1284,10 +1288,10 @@ msgid "Set the root node from the model"
 msgstr "དཔེ་དབྱིབས་ཀྱི་རྩ་ཚིགས་ཚེག་སྒྲིག་པ།"
 
 msgid "Set the text of \"Look in folder\" search option"
-msgstr ""
+msgstr "ཡིག་ཁུག་འཚོལ་བཤེར་འདེམ་བྱང་གི་ཡི་གེ་སྒྲིག་འགོད།"
 
 msgid "Set the text of \"Name contains\" search option"
-msgstr ""
+msgstr "མིང་ཚུད་པའིའཚོལ་བཤེར་གྱི་འདེམ་བྱང་ཡི་གེ་སྒྲིག་འགོད།"
 
 msgid "Show Additional Options"
 msgstr "འགོ་ལྷག་འདེམས་བྱང་འདེམ་པ།"
@@ -1317,25 +1321,25 @@ msgid "Show or hide the definition window"
 msgstr "མཚན་ཉིད་སྒེའུ་ཁུང་འཆར་བའམ་སྦ་བ།"
 
 msgid "Show session management options"
-msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན་མངོན་པ།"
+msgstr "གླེང་མོལ་དོ་དམ་འདེམས་བྱང་འཆར་བ།"
 
 msgid "Show the about dialog for the log viewer"
 msgstr "ཉིན་ཐོ་ལྟ་ཆས་ཀྱི་གླེང་སྒྲོམ་གྱི་སྐོར་འཆར་བ།"
 
 msgid "Show the application's version"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་པར་གཞི་མངོན་པ།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་པར་གཞི་མངོན་པ།"
 
 msgid "Show version"
-msgstr "པར་གཞི་མངོན་བ།"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་འཆར་བ།"
 
 msgid "Show version of the application"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་པར་གཞི་མངོན་པ།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་པར་གཞི་མངོན་པ།"
 
 msgid "Si_ze at most"
 msgstr "ཆེ་ཆུང་ཆེས་མང་ན།(_Z)"
 
 msgid "Side _Pane"
-msgstr "ཟུར་སྡེ(_P)"
+msgstr "ཟུར་མཐའི་སྡེ། (_P)"
 
 msgid "Similar _Words"
 msgstr "འདྲ་མཚུངས་ཐ་སྙད།(_W)"
@@ -1347,7 +1351,7 @@ msgid "Size"
 msgstr "ཆེ་ཆུང་།"
 
 msgid "Size of the font used to display the log"
-msgstr "ཉིན་ཐོ་མངོན་པར་སྤྱོད་པའི་ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་།"
+msgstr "ཉིན་ཐོའི་ཡིག་གཟུགས་ཆེ་ཆུང་འཆར་བྱེད་དུ་སྤྱོད་པ།"
 
 msgid "Smaller text size"
 msgstr "ཡིག་དེབ་ཆེ་ཆུང་ཅུང་ཆུང་བ།"
@@ -1358,7 +1362,7 @@ msgstr ""
 "ཆེ་ཆུང་།རིགས་གྲས་སམ་ཡང་ན་ཚེས་གྲངས།"
 
 msgid "Source"
-msgstr "ཁུངས།"
+msgstr "འབྱུང་ཁུངས།"
 
 msgid "Source Name"
 msgstr "ཁུངས་ཀྱི་མིང་།"
@@ -1375,9 +1379,7 @@ msgid ""
 msgstr ""
 
 msgid "Specifies the height of the log viewer main window in pixels."
-msgstr ""
-"དམིགས་འཛུགས་ཉིན་ཐོ་ལྟ་ཆས་ཀྱི་སྒེའུ་ཁུང་གཙོ་བོའི་མཐོ་ཚད། "
-"བརྙན་རྒྱུ་ཡིས་རྩིས་པ།"
+msgstr "ཉིན་ཐོ་ལྟ་ཆས་སྒེའུ་ཁུང་གི་མཐོ་ཚད་དམིགས་འཛུགས།བརྙན་རྒྱུས་བརྩི་བ།"
 
 msgid ""
 "Specifies the log file displayed at startup. The default is either "
@@ -1390,24 +1392,22 @@ msgid ""
 msgstr ""
 
 msgid "Specifies the width of the log viewer main window in pixels."
-msgstr ""
-"དམིགས་འཛུགས་ཉིན་ཐོ་ལྟ་ཆས་ཀྱི་སྒེའུ་ཁུང་གཙོ་བོའི་ཞེང་ཚད། "
-"བརྙན་རྒྱུ་ཡིས་རྩིས་པ།"
+msgstr "ཉིན་ཐོ་ལྟ་ཆས་སྒེའུ་ཁུང་གི་ཞེང་ཚད་དམིགས་འཚུགས།བརྙན་རྒྱུས་བརྩི་བ།"
 
 msgid "Specify file containing saved configuration"
-msgstr "ཉར་བའི་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་ཚུད་པ་གཏན་འཁེལ།"
+msgstr "ཉར་ཚགས་བྱས་ཟིན་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ་འདུས་པ་དམིགས་འཛུགས།"
 
 msgid "Specify session management ID"
-msgstr "གྲོས་གླེང་དོ་དམ Idགཏན་འཁེལ།"
+msgstr "གླེང་མོལ་དོ་དམ་IDདམིགས་འཛུགས།"
 
 msgid "St_atusbar"
-msgstr "རྣམ་པའི་སྡེ(_A)"
+msgstr "རྣམ་པའི་སྡེ།（_A）"
 
 msgid "Starting %s"
-msgstr " %sམགོ་སློང་པ།"
+msgstr " %sའགོ་སློང་བཞིན་པ།"
 
 msgid "Status"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Statusbar is Visible"
 msgstr "རྣམ་པའི་སྡེ་མཐོང་ཐུབ།"
@@ -1434,7 +1434,7 @@ msgid "System Log Viewer"
 msgstr "རྒྱུད་ཁོངས་ཉིན་ཐོར་ལྟ་ཆས།"
 
 msgid "Take Screenshot"
-msgstr "བཅད་རིས།"
+msgstr "པར་བཅད་ལེན་།"
 
 msgid "Take _Screenshot"
 msgstr "བཅད་རིས། (_S)"
@@ -1493,7 +1493,7 @@ msgid "The display name of this dictionary source"
 msgstr "ཚིག་མཛོད་འདིའི་ཁུངས་ཀྱི་འཆར་བྱའི་མིང་།"
 
 msgid "The document \"%s\" already exists.  Would you like to replace it?"
-msgstr ""
+msgstr "ཡིག་ཚགས“%s”མཆིས་པས་ཁྱོད་ཀྱིས་བརྗེ་འདོད་དམ།"
 
 msgid "The document does not exist."
 msgstr "ཡིག་ཚགས་མེད་པ།"
@@ -1502,10 +1502,11 @@ msgid "The document name you selected is a folder."
 msgstr "ཁྱེད་ཀྱིས་བདམས་པའི་ཡིག་ཚགས་ཀྱི་མིང་ནི་ཡིག་ཁུག་རེད།"
 
 msgid "The file \"%s\" already exists. Would you like to replace it?"
-msgstr ""
+msgstr "ཡིག་ཆ%sམཆིས་པས་ཁྱོད་ཀྱིས་བརྗེ་འདོད་དམ།"
 
 msgid "The file is not a regular file or is not a text file."
-msgstr "ཡིག་ཆ་དེ་རྒྱུན་སྲོལ་གྱི་ཡིག་ཆའམ་ཡང་ན་ཡིག་རྐྱང་ཡིག་ཆ་ཞིག་མིན་པ།"
+msgstr ""
+"ཡིག་ཆ་ནི་རྒྱུན་ལྡན་གྱི་ཡིག་ཆ་ཞིག་མིན་པའམ་ཡང་ན་ཡིག་དེབ་ཡིག་ཆ་ཞིག་མ་རེད།"
 
 msgid "The filename used by this dictionary source"
 msgstr "ཚིག་མཛོད་འདིས་སྤྱད་པའི་ཡིག་མཛོད་ཀྱི་མིང་།"
@@ -1583,16 +1584,17 @@ msgid "There is no installed viewer capable of displaying the folder."
 msgstr "ཡིག་ཁུག་འཆར་ཐུབ་པའི་ལྟ་ཞིབ་ཆས་སྒྲིག་འཇུག་བྱས་མེད་།"
 
 msgid "There was an error displaying help."
-msgstr "རོགས་རམ་མངོན་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+msgstr "རོགས་རམ་བྱེད་སྐབས་ཀྱི་ནོར་འཁྲུལ་འཆར་བ།"
 
 msgid "There was an error displaying help: %s"
-msgstr "རོགས་རམ་མངོན་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།:%s"
+msgstr "རོགས་རམ་བྱེད་སྐབས་བྱུང་བའི་ནོར་འཁྲུལ་འཆར་བ།：%s"
 
 msgid "There was an error while displaying help"
-msgstr "རོགས་རམ་བྱེད་སྐབས་ཀྱི་ནོར་འཁྲུལ་འཆར་བ།"
+msgstr "རོགས་རམ་འཆར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
 
 msgid "This key defines the default value of the \"Look in Folder\" widget."
 msgstr ""
+"འགག་རྩའི་ཨང་རྟགས་ཀྱི་མཚན་ཉིད་Widgetཡིག་ཁུག་འཚོལ་ཞིབ་ཀྱི་སོར་བཞག་གྲངས་ཐང་།"
 
 msgid "This key defines the items which were searched for in the past."
 msgstr "མཐེབ་འདིའི་ཐང་གིས་སྔོན་ཆད་བཤེར་འཚོལ་བྱེད་པའི་ནང་དོན་ལ་མཚན་ཉིད་འཇོག"
@@ -1634,71 +1636,85 @@ msgid ""
 "This key determines if the \"Contains the text\" search option is selected "
 "when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“ཡི་གེ་ཚུད་པའི་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Date modified less than\" search option is "
 "selected when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“བཟོ་བཅོས་དུས་ཚོད་སྔ་བའི་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Date modified more than\" search option is "
 "selected when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“བཟོ་བཅོས་དུས་ཚོད་འཕྱི་བའི་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Exclude other filesystems\" search option is "
 "selected when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“ཡིག་ཁུག་རྒྱུད་ཁོངས་གཞན་དག་སེལ་བའི་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"File is empty\" search option is selected when "
 "the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“ཡིག་ཆ་སྟོང་པ་ཡིན་པའི་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Follow symbolic links\" search option is "
 "selected when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“མཚོན་རྟགས་ཀྱི་རྗེས་འབྲང་ནས་སྦྲེལ་མཐུད་་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Name does not contain\" search option is "
 "selected when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“མིང་འདུས་མེད་པ་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Name matches regular expression\" search option"
 " is selected when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“མིང་ཟླ་སྒྲིག་ཚད་མཐུན་མཚོན་ཚུལ་་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Owned by group\" search option is selected when"
 " the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“ཚོ་ཆུང་ལ་དབང་བ་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Owned by user\" search option is selected when "
 "the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“སྤྱོད་མཁན་ལ་དབང་བ་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Owner is unrecognized\" search option is "
 "selected when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“བདག་པོ་ངོས་མི་ཟིན་པ་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Show hidden files and folders\" search option "
 "is selected when the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“སྦས་པའི་ཡིག་ཆ་དང་ཡིག་ཁུག་འཆར་བ་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Size at least\" search option is selected when "
 "the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“ཆེ་ཆུང་ཉུང་མཐའ་ཡང་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the \"Size at most\" search option is selected when "
 "the search tool is started."
 msgstr ""
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆ་སྤྱོད་འགོ་རྩོམ་སྐབས་“ཆེ་ཆུང་མང་མཐའ་ཡང་”འདེམ་བྱང་འདེམས་མིན་ཐག་གཅོད།"
 
 msgid ""
 "This key determines if the search tool disables the use of the find command "
@@ -1734,7 +1750,8 @@ msgid ""
 msgstr ""
 
 msgid "This version of System Log does not support GZipped logs."
-msgstr "རྒྱུད་ཁོངས་ཉིན་ཐོ་འདིའི་པར་གཞི་ཡིས Gzipped ཉིན་ཐོར་རྒྱབ་སྐྱོར་མེད་པ།"
+msgstr ""
+"རྒྱུད་ཁོངས་འདིའི་ཉིན་ཐོའི་པར་གཞི་ཡིས་GZippedཉིན་ཐོ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "This will open %d separate window."
 msgid_plural "This will open %d separate windows."
@@ -1771,9 +1788,10 @@ msgstr "བརྒྱུད་གཏོང་།"
 
 msgid "Trash is unavailable.  Could not move \"%s\" to the trash."
 msgstr ""
+"སྙིགས་སྣོད་བེད་སྤྱོད་བྱེད་མི་ཆོག %sསྙིགས་སྣོད་དུ་གནས་སྤོ་བྱེད་ཐབས་བྲལ།"
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "Type the word you want to look up"
 msgstr "ཁྱེད་རང་གི་ལྟ་འདོད་ཡོད་པའི་ཐ་སྙད་ནང་འཇུག་བྱེད་དགོས།"
@@ -1848,10 +1866,10 @@ msgid "Unknown error saving screenshot to disk"
 msgstr "པར་བཟུང་ནས་སྡུད་སྡེར་དུ་ཉར་ཚགས་བྱེད་པར་ངེས་མེད་ཀྱི་ནོར་འཁྲུལ་འབྱུང་བ།"
 
 msgid "Unrecognized desktop file Version '%s'"
-msgstr "ཅོག་ངོས་ཡིག་ཆ་པར་གཞི་“%s”ངོས་འཛིན་མི་ཐུབ།"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་ཅོག་ངོས་ཡིག་ཆ་པར་གཞི་“%s”"
 
 msgid "Unrecognized launch option: %d"
-msgstr "མགོ་སློང་འདེམས་ཚན་%dངོས་འཛིན་མི་ཐུབ།"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་མགོ་སློང་འདེམས་ཚན།：%d"
 
 msgid "Untitled Window"
 msgstr "ཁ་བྱང་མེད་པའི་སྒེའུ་ཁུང་།"
@@ -1860,10 +1878,10 @@ msgid "Untitled document"
 msgstr "ཁ་བྱང་མེད་པའི་ཡིག་ཚགས།"
 
 msgid "Usage"
-msgstr "སྤྱོད་སྟངས།"
+msgstr "སྤྱོད་ཚད།"
 
 msgid "VALUE"
-msgstr "ཚད།"
+msgstr "ཐང་།"
 
 msgid "Version: "
 msgstr ""
@@ -1875,7 +1893,7 @@ msgid "View as Treemap Chart"
 msgstr "བལྟས་པ་ནི་སྡོང་དབྱིབས་རི་མོ་རེད།"
 
 msgid "View or monitor system log files"
-msgstr "རྒྱུད་ཁོངས་ཉིན་ཐོའི་ཡིག་ཆར་ལྟ་བའམ་ཡང་ན་སོ་ལྟ་བྱེད་པ།"
+msgstr "རྒྱུད་ཁོངས་གི་ཉིན་ཐོའི་ཡིག་ཆ་ལྟ་བའམ་སོ་ལྟ་བྱེད་པ།"
 
 msgid "WebDAV (HTTP)"
 msgstr "WebDAV(HTTP)"
@@ -1900,7 +1918,7 @@ msgid "Which type of chart should be displayed."
 msgstr "རེའུ་མིག་རིགས་གང་ཞིག་མངོན་ཡོད། "
 
 msgid "Width of the main window in pixels"
-msgstr "སྒེའུ་ཁུང་གཙོ་བོའི་ཞེང་ཚད། བརྙན་རྒྱུ་ཡིས་རྩིས་པ།"
+msgstr "སྒེའུ་ཁུང་གཙོ་བོའི་ཞེང་ཚད། བརྙན་རྒྱུས་རྩིས་པ།"
 
 msgid "Windows share"
 msgstr "Windowsམཉམ་སྤྱོད།"
@@ -1919,13 +1937,13 @@ msgid "Words to match"
 msgstr "ཟླ་སྒྲིག་བྱའི་ཐ་སྙད།"
 
 msgid "Wrapped"
-msgstr "ཕྲེང་འབེབས།"
+msgstr "ཕྲེང་བརྗེ་བ།"
 
 msgid "You did not select a document name."
 msgstr "ཁྱོད་ཀྱིས་ཡིག་ཚགས་ཀྱི་མིང་འདེམ་མེད་པ།"
 
 msgid "You don't have enough permissions to read the file."
-msgstr "ཡིག་ཆ་འདི་ཀློག་པར་འདང་ངེས་ཀྱི་དབང་ཚད་མེད་པ།"
+msgstr "ཁྱོད་ལ་ཡིག་ཆ་འདི་བཀླགས་པའི་དབང་ཆ་མེད་པ།"
 
 msgid "You may not have write permissions to the document."
 msgstr "ཁྱོད་ལ་ཕལ་ཆེར་ཡིག་ཆ་འབྲི་བའི་དབང་ཆ་མེད་པ།"
@@ -1937,10 +1955,10 @@ msgid ""
 msgstr ""
 
 msgid "Zoom in"
-msgstr "ཆེར་སྐྱེད།"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Zoom out"
-msgstr "ཆུང་སྐྱུང་།"
+msgstr "ཆུང་བསྡུ།"
 
 msgid "[DIRECTORY]"
 msgstr "[དཀར་ཆག]"
@@ -1949,22 +1967,22 @@ msgid "[LOGFILE...]"
 msgstr "[ཉིན་ཐོའི་ཡིག་ཆ།]"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Analyzer"
 msgstr "དབྱེ་ཞིབ་ཆས།(_A)"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Collapse All"
 msgstr "ཚང་མར་ལྟེབ་འཇོག(_C)"
 
 msgid "_Contents"
-msgstr "དཀར་ཆག(_C)"
+msgstr "དཀར་ཆག (_C)"
 
 msgid "_Copy"
-msgstr "འདྲ་བཟོ།(_C)"
+msgstr "འདྲ་པར།(_C)"
 
 msgid "_Date modified less than"
 msgstr "བཟོ་བཅོས་དུས་ཚོད་(_D)ལས་ཉུང་བ།"
@@ -1976,19 +1994,19 @@ msgid "_Domain Name:"
 msgstr "ཁོངས་མིང་།(_D)："
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_Expand All"
 msgstr "ཚང་མ་འགྲེམ་པ།(_E)"
 
 msgid "_File"
-msgstr "ཡིག་ཆ།(_F)"
+msgstr "ཡིག་ཆ། (_F)"
 
 msgid "_Filters"
 msgstr "འཚག་ཆས།(_F)"
 
 msgid "_Find..."
-msgstr "འཚོལ་བ།(_F)"
+msgstr "བཤེར་འཚོལ།(_F)..."
 
 msgid "_Find:"
 msgstr "འཚོལ་བ།(_F)："
@@ -2000,10 +2018,10 @@ msgid "_Folder:"
 msgstr "ཡིག་ཁུག(_F)："
 
 msgid "_Go"
-msgstr "སྒྱུར།(_G)"
+msgstr "བསྒྱུར་བ།(_G)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Image type:"
 msgstr "བརྙན་རིས་རིགས་གྲས།(_I)："
@@ -2024,13 +2042,13 @@ msgid "_Monitor changes to your home folder"
 msgstr "ཡིག་ཁུག་གཙོ་བོར་བཟོ་བཅོས་ལ་སོ་ལྟ་བྱེད་པ།(_M)"
 
 msgid "_Name contains:"
-msgstr "མིང་ཁོངས་སུ་འདུ་བ།(_N)："
+msgstr "མིང་ཁོངས་སུ་ཚུད་པ།(_N)："
 
 msgid "_Name:"
 msgstr "མིང་།(_N)："
 
 msgid "_New"
-msgstr "གསར་བཟོ།(_N)"
+msgstr "གསར་འཛུགས།(_N)"
 
 msgid "_Next"
 msgstr "གཞས་ངོས་རྗེས་མ།(_N)"
@@ -2039,7 +2057,7 @@ msgid "_Next Definition"
 msgstr "མཚན་ཉིད་རྗེས་མ།(_N)"
 
 msgid "_Open"
-msgstr "ཁ་འབྱེད་། (_O)"
+msgstr "ཁ་འབྱེད།(O)"
 
 msgid "_Open Folder"
 msgstr "ཡིག་ཁུག་ཁ་འབྱེད།(_o)"
@@ -2051,7 +2069,7 @@ msgid "_Open..."
 msgstr "ཁ་འབྱེད།(_O)..."
 
 msgid "_Port:"
-msgstr "མཐུད་ཁ།(_P)："
+msgstr "སྣེ་ཁ། (_P)："
 
 msgid "_Preferences"
 msgstr "སྒྲིག་འགོད།(_P)"
@@ -2072,13 +2090,13 @@ msgid "_Print..."
 msgstr "པར་འདེབས།(_P)..."
 
 msgid "_Quit"
-msgstr "ཕྱིར་ཐོན།(_Q)"
+msgstr "ཕྱིར་འབུད། (_Q)"
 
 msgid "_Regular Expression:"
-msgstr "ཚད་མཐུན་མཚོན་ཚུལ། (_R)："
+msgstr "ཚད་མཐུན་མཚོན་ཚུལ།(_R)："
 
 msgid "_Replace"
-msgstr "ཚབ་བརྗེ།(_R)"
+msgstr " ཚབ་བརྗེ།(_R)"
 
 msgid "_Rescan"
 msgstr "ཡང་བསྐྱར་བཤར་འབེབས།(_R)"
@@ -2111,19 +2129,19 @@ msgid "_Sidebar"
 msgstr "གཞོགས་སྡེ།(_S)"
 
 msgid "_Statusbar"
-msgstr "རྣམ་པའི་སྡེ།(_S)"
+msgstr "རྣམ་སྡེ། (_S)"
 
 msgid "_Toolbar"
-msgstr "ལག་ཆ་སྡེ།(_T)"
+msgstr "ལག་ཆའི་སྡེ། (_T)"
 
 msgid "_Transport:"
 msgstr "བརྒྱུད་བསྐུར།(_T)："
 
 msgid "_User Name:"
-msgstr "སྤྱོད་མཁན་གྱི་མིང་།(_U)："
+msgstr "སྤྱོད་མཁན་མིང་། (_U)："
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "available:"
 msgstr "སྤྱོད་རུང་།："
@@ -2138,7 +2156,7 @@ msgid "db"
 msgstr "db"
 
 msgid "effect"
-msgstr "ཁྱད་ནུས།"
+msgstr "ཁྱད་ཕྱོད།"
 
 msgid "kilobytes"
 msgstr "སྟོང་ཡིག་ཚིགས་གྲངས།"
@@ -2162,7 +2180,7 @@ msgid "seconds"
 msgstr "སྐར་ཆ།"
 
 msgid "source"
-msgstr "ཁུངས།"
+msgstr "འབྱུང་ཁུངས།"
 
 msgid "st copy)"
 msgstr "འདྲ་དེབ།)"
@@ -2171,10 +2189,10 @@ msgid "strat"
 msgstr "\"strat\""
 
 msgid "th copy)"
-msgstr ""
+msgstr "འདྲ་དེབ།)"
 
 msgid "today at %-I:%M %p"
-msgstr "དེ་རིང་%H:%M"
+msgstr "\"དེ་རིང་ %H:%M\""
 
 msgid "translator-credits"
 msgstr ""
@@ -2186,4 +2204,4 @@ msgid "word"
 msgstr "ཐ་སྙད།"
 
 msgid "yesterday at %-I:%M %p"
-msgstr "ཁ་སང་%H:%M"
+msgstr "ཁ་སང་ %H:%M"

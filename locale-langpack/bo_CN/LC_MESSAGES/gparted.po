@@ -205,7 +205,7 @@ msgid "C_heck"
 msgstr ""
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Cancel Operation"
 msgstr "ལེན་པའི་བཀོལ་སྤྱོད།"
@@ -250,7 +250,7 @@ msgid "Continue Operation"
 msgstr ""
 
 msgid "Copy"
-msgstr "འདྲ་བཟོ།"
+msgstr "འདྲ་ཕབ།"
 
 msgid "Copy %1 to %2"
 msgstr ""
@@ -346,7 +346,7 @@ msgid ""
 msgstr ""
 
 msgid "Details"
-msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
 
 msgid "Device --> Create Partition Table."
 msgstr ""
@@ -373,7 +373,7 @@ msgid "Documentation is not available"
 msgstr ""
 
 msgid "ERROR"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "EXECUTING"
 msgstr "ལག་བསྟར་བྱེད་བཞིན་པ།"
@@ -387,7 +387,7 @@ msgid ""
 msgstr ""
 
 msgid "Error"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Error trying to open %1"
 msgstr ""
@@ -427,7 +427,7 @@ msgid ""
 msgstr ""
 
 msgid "File System"
-msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས།"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
 
 msgid "File System Support"
 msgstr ""
@@ -448,13 +448,13 @@ msgid "Fix"
 msgstr ""
 
 msgid "Flags"
-msgstr "རྟགས་མཚན།"
+msgstr "མཚོན་རྟགས།"
 
 msgid "Flags:"
 msgstr ""
 
 msgid "Force Cancel"
-msgstr ""
+msgstr " དོར་བ།"
 
 msgid "Force Cancel (%1)"
 msgstr ""
@@ -509,7 +509,7 @@ msgid "IMPORTANT"
 msgstr "གལ་ཆེན།"
 
 msgid "INFO"
-msgstr "ཆ་འཕྲིན།"
+msgstr " ཆ་འཕྲིན།"
 
 msgid ""
 "If you want more partitions you should first create an extended partition. "
@@ -522,7 +522,7 @@ msgid "If you want support, you need to provide the saved details!"
 msgstr ""
 
 msgid "Ignore"
-msgstr "སྣང་མེད།"
+msgstr "སྣང་མེད་དུ་བཞག"
 
 msgid "Ignoring device %1 with logical sector size of %2 bytes."
 msgstr ""
@@ -549,7 +549,7 @@ msgid "Label"
 msgstr "གདོང་འཛར།"
 
 msgid "Label:"
-msgstr "གདོང་འཛར།"
+msgstr "གདོང་འཛར།:"
 
 msgid "Last sector:"
 msgstr ""
@@ -609,7 +609,7 @@ msgid "Minimum size: %1 MiB"
 msgstr ""
 
 msgid "Model:"
-msgstr ""
+msgstr "བཟོ་དབྱིབས།："
 
 msgid ""
 "Most likely other partitions are also mounted on these mount points. You are"
@@ -650,7 +650,7 @@ msgid "Moving a partition might take a very long time to apply."
 msgstr ""
 
 msgid "N/A"
-msgstr "མི་འཚམ།"
+msgstr "nan"
 
 msgid "Name"
 msgstr "མིང་།"
@@ -683,10 +683,10 @@ msgid "No partition table found on device %1"
 msgstr ""
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Not Available"
-msgstr "སྤྱོད་མི་ཆོག"
+msgstr " སྤྱོད་མི་རུང་བ།"
 
 msgid "Not active"
 msgstr ""
@@ -709,7 +709,7 @@ msgid "Not mounted"
 msgstr ""
 
 msgid "Ok"
-msgstr "གཏན་འཁེལ།"
+msgstr " གཏན་འཁེལ།"
 
 msgid ""
 "On FAT and NTFS file systems, the Volume Serial Number is used as the UUID. "
@@ -722,7 +722,7 @@ msgid "One or more Physical Volumes belonging to the Volume Group is missing."
 msgstr ""
 
 msgid "Operation Canceled"
-msgstr "བཀོལ་སྤྱོད་དོར་ཟིན་པ།"
+msgstr "བཀོལ་སྤྱོད་དོར་ཟིན།"
 
 msgid "Operation cancelled"
 msgstr "བཀོལ་སྤྱོད་དོར་བ།"
@@ -799,7 +799,7 @@ msgid "Resize/Move the selected partition"
 msgstr ""
 
 msgid "Retry"
-msgstr "བསྐྱར་ཚོད།"
+msgstr "ཡང་བསྐྱར་ཚོད་ལེན།"
 
 msgid "Root privileges are required for running GParted"
 msgstr ""
@@ -877,7 +877,7 @@ msgid "Set partition name to \"%1\" on %2"
 msgstr ""
 
 msgid "Shrink"
-msgstr "སྐྱུང་བ།"
+msgstr "ཆུང་བསྡུ།"
 
 msgid "Shrink %1 from %2 to %3"
 msgstr ""
@@ -897,7 +897,7 @@ msgid "Some or all of the details might be missing or incorrect."
 msgstr ""
 
 msgid "Status:"
-msgstr "རྣམ་པ།"
+msgstr "རྣམ་པ།："
 
 msgid "The 'View' buttons create read-only views of each file system."
 msgstr ""
@@ -1068,7 +1068,7 @@ msgid "WARNING:  This will ERASE ALL DATA on the ENTIRE DISK %1"
 msgstr ""
 
 msgid "Warning:"
-msgstr "ཐ་ཚིག "
+msgstr " ཐ་ཚིག"
 
 msgid ""
 "Warning: The detected file system area overlaps with at least one existing "
@@ -1124,7 +1124,7 @@ msgid "_Clear All Operations"
 msgstr ""
 
 msgid "_Contents"
-msgstr "དཀར་ཆག(_C)"
+msgstr "དཀར་ཆག (_C)"
 
 msgid "_Create Partition Table"
 msgstr ""
@@ -1136,7 +1136,7 @@ msgid "_Devices"
 msgstr "སྒྲིག་ཆས།(_D)"
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_File System Support"
 msgstr ""
@@ -1148,10 +1148,10 @@ msgid "_GParted"
 msgstr ""
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Label File System"
-msgstr ""
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
 
 msgid "_Mount"
 msgstr "འགེལ་བ།(_M)"
@@ -1163,7 +1163,7 @@ msgid "_Name Partition"
 msgstr ""
 
 msgid "_New"
-msgstr "གསར་བཟོ།(_N)"
+msgstr "གསར་འཛུགས།(_N)"
 
 msgid "_Partition"
 msgstr ""
@@ -1187,10 +1187,10 @@ msgid "_Undo Last Operation"
 msgstr ""
 
 msgid "_Unmount"
-msgstr "བཤིག་འདོར།(_U)"
+msgstr "ལེན་པ།(_U)"
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "calculate new size and position of %1"
 msgstr ""
@@ -1244,7 +1244,7 @@ msgid "delete partition"
 msgstr "བགོ་ཁུལ་བསུབ་པ།"
 
 msgid "device"
-msgstr "སྒྲིག་ཆས།"
+msgstr "སྒྲིག་ཆས།(_D)"
 
 msgid "end: %1"
 msgstr ""
@@ -1419,7 +1419,7 @@ msgid "unformatted"
 msgstr ""
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"
 
 msgid "unrecognized"
 msgstr ""
@@ -1434,7 +1434,7 @@ msgid "update boot sector of %1 file system on %2"
 msgstr ""
 
 msgid "used"
-msgstr "སྤྱད་པ།"
+msgstr "སྤྱད་ཚར།"
 
 msgid "using internal algorithm"
 msgstr ""

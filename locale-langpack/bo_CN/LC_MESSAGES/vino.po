@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid " or "
-msgstr " ཡང་ན། "
+msgstr " ཡང་ན།"
 
 msgid "%s's remote desktop on %s"
 msgstr "%s ནི་ %s ཡི་རྒྱང་རིང་ཅོག་ངོས་སུ་ཡོད།"
@@ -91,10 +91,10 @@ msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
 msgstr "ཡིག་ཚགས་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
 
 msgid "Cancelled"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Changing Vino password.\n"
-msgstr ""
+msgstr " Vino གསང་ཨང་བཟོ་བཅོས་བྱེད་བཞིན་པ།\n"
 
 msgid "Checking the connectivity of this machine..."
 msgstr "རྩིས་འཁོར་འདིའི་དྲ་སྦྲེལ་རྣམ་པ་་ཞིབ་བཤེར་བྱེད་བཞིན་པ།..."
@@ -112,7 +112,7 @@ msgid "Desktop sharing is enabled"
 msgstr "ཅོག་ངོས་མཉམ་སྤྱོད་འགོ་བསླངས་ཟིན།"
 
 msgid "Disable connection to session manager"
-msgstr "གྲོས་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་བཀག"
+msgstr "གཏམ་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་འགོག་སྤྱོད།"
 
 msgid "Disconnect"
 msgstr "འབྲེལ་མཐུད་མཚམས་གཅོད་པ།"
@@ -140,6 +140,7 @@ msgstr[1] ""
 
 msgid "ERROR: You do not have enough permissions to change Vino password.\n"
 msgstr ""
+"ནོར་འཁྲུལ།： ཁྱེད་ལ་ Vino གསང་ཨང་བཅོས་བསྒྱུར་བྱེད་པའི་དབང་ཚད་འདང་ངེས་འདུག\n"
 
 msgid "Enable remote access to the desktop"
 msgstr "རྒྱང་རིང་ནས་ཅོག་ངོས་ལ་ལྟ་སྤྱོད་རུང་བ།"
@@ -148,25 +149,25 @@ msgid "Enter new Vino password: "
 msgstr "Vino གསང་ཨང་གསར་པ་ནང་འཇུག་བྱོས།："
 
 msgid "Error displaying help"
-msgstr "རོགས་རམ་བྱེད་སྐབས་ཀྱི་ནོར་འཁྲུལ་འཆར་བ།"
+msgstr "རོགས་རམ་འཆར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
 
 msgid "Error displaying preferences"
 msgstr "སྔོན་འདེམས་ཚན་པ་འཆར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
 
 msgid "Error initializing libnotify\n"
-msgstr ""
+msgstr " libnotify འགོ་སྒྲིག་ནོར་འཁྲུལ་བྱུང་བ།\n"
 
 msgid "Error while displaying notification bubble: %s\n"
-msgstr ""
+msgstr "ལྦུ་བའི་བརྡ་ཐོ་འཆར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།：%s\n"
 
 msgid "FILE"
 msgstr "ཡིག་ཆ།"
 
 msgid "Failed to open connection to bus: %s\n"
-msgstr ""
+msgstr "མ་སྐུད་དང་འབྲེལ་མཐུད་ཁ་འབྱེད་ཕམ་པ།：%s\n"
 
 msgid "File is not a valid .desktop file"
-msgstr "ཡིག་ཆ་ནི .desktop ནུས་ལྡན་ཡིག་ཆ་མིན།"
+msgstr "ཡིག་ཆ་གོ་ཆོད་མིན་པ། desktopཡིག་ཆ།"
 
 msgid "GNOME Desktop Sharing"
 msgstr "GNOME ཅོག་ངོས་མཉམ་སྤྱོད།"
@@ -274,7 +275,7 @@ msgid "Nobody can access your desktop."
 msgstr "ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ལྟ་སྤྱོད་བྱེད་ཐུབ་པའི་མི་མེད།"
 
 msgid "Not a launchable item"
-msgstr "བཀོལ་སྤྱོད་རུང་བའི་ཚན་པ་མིན།"
+msgstr "འདོན་སྤྱོད་རུང་བའི་ཚན་པ་མ་རེད།"
 
 msgid "Notify on connect"
 msgstr "འབྲེལ་མཐུད་སྐབས་སྣེ་སྟོན།"
@@ -297,7 +298,7 @@ msgstr ""
 "མི་གཞན་གྱིས་ཤག་གནས %sའདི་སྤྱད་ནས་ཁྱེད་ཀྱི་རྩིས་འཁོར་ལ་ལྟ་སྤྱོད་བྱ་རུང་བ།"
 
 msgid "Password required for \"vnc\" authentication"
-msgstr ""
+msgstr "“vnc” ར་སྤྲོད་སྐབས་མཁོ་བའི་གསང་ཨང་།"
 
 msgid "Prompt the user before completing a connection"
 msgstr "འབྲེལ་མཐུད་ལེགས་གྲུབ་སྔོན་སྤྱོད་མཁན་ལ་སྣེ་སྟོན་བྱེད་པ།"
@@ -339,7 +340,7 @@ msgid "Security"
 msgstr "བདེ་འཇགས།"
 
 msgid "Session management options:"
-msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན།"
+msgstr "གླེང་མོལ་དོ་དམ་འདེམ་བྱང་།"
 
 msgid "Share my desktop information"
 msgstr "བདག་གི་ཅོག་ངོས་ཆ་འཕྲིན་མཉམ་སྤྱོད།"
@@ -348,7 +349,7 @@ msgid "Share your desktop with other users"
 msgstr "ཁྱེད་ཀྱི་ཅོག་ངོས་མི་གཞན་དག་དང་མཉམ་སྤྱོད་བྱེད་པ།"
 
 msgid "Sharing"
-msgstr "མཉམ་སྤྱོད།"
+msgstr " མཉམ་སྤྱོད།"
 
 msgid "Show Notification Area Icon"
 msgstr "བརྡ་ཐོ་ཁུལ་གྱི་རིས་རྟགས་འཆར་བ།"
@@ -357,19 +358,19 @@ msgid "Show Vino version"
 msgstr " Vino པར་གཞི་འཆར་བ།"
 
 msgid "Show session management options"
-msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན་མངོན་པ།"
+msgstr "གླེང་མོལ་དོ་དམ་འདེམས་བྱང་འཆར་བ།"
 
 msgid "Some of these preferences are locked down"
 msgstr "སྔོན་འདེམས་ཚན་པ་ཁ་ཅིག་དམིགས་འཛིན་བྱས་ཟིན།"
 
 msgid "Sorry, passwords do not match.\n"
-msgstr ""
+msgstr "དགོངས་པ་མ་ཚོམ། གསང་ཨང་ཐེངས་གཉིས་གཅིག་པ་མ་རེད།\n"
 
 msgid "Specify file containing saved configuration"
-msgstr "ཉར་བའི་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་ཚུད་པ་གཏན་འཁེལ།"
+msgstr "ཉར་ཚགས་བྱས་ཟིན་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ་འདུས་པ་དམིགས་འཛུགས།"
 
 msgid "Specify session management ID"
-msgstr "གྲོས་གླེང་དོ་དམ Idགཏན་འཁེལ།"
+msgstr "གླེང་མོལ་དོ་དམ་IDདམིགས་འཛུགས།"
 
 msgid "Start in tube mode, for the ‘Share my Desktop’ feature"
 msgstr ""
@@ -377,7 +378,7 @@ msgstr ""
 "རྣམ་པའི་ཁྲོད་འགོ་སློང་དགོས།"
 
 msgid "Starting %s"
-msgstr " %sམགོ་སློང་པ།"
+msgstr " %sའགོ་སློང་བཞིན་པ།"
 
 msgid ""
 "The password which the remote user will be prompted for if the \"vnc\" authentication method is used. The password specified by the key is base64 encoded.\n"
@@ -411,7 +412,7 @@ msgid ""
 msgstr ""
 
 msgid "There was an error showing the URL \"%s\""
-msgstr ""
+msgstr "དྲ་གནས་“%s” འཆེ་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་བ།"
 
 msgid ""
 "This key controls the behavior of the status icon. There are three options: "
@@ -427,13 +428,13 @@ msgid ""
 msgstr ""
 
 msgid "Unrecognized desktop file Version '%s'"
-msgstr "ཅོག་ངོས་ཡིག་ཆ་པར་གཞི་“%s”ངོས་འཛིན་མི་ཐུབ།"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་ཅོག་ངོས་ཡིག་ཆ་པར་གཞི་“%s”"
 
 msgid "Unrecognized launch option: %d"
-msgstr "མགོ་སློང་འདེམས་ཚན་%dངོས་འཛིན་མི་ཐུབ།"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་མགོ་སློང་འདེམས་ཚན།：%d"
 
 msgid "VINO Version %s\n"
-msgstr ""
+msgstr "VINO པར་གཞི།%s\n"
 
 msgid "Waiting for '%s' to connect to the screen."
 msgstr "“%s”བརྙན་ཡོལ་ལ་མཐུད་པར་ངང་སྒུགས།"
@@ -461,6 +462,8 @@ msgid ""
 "Your XServer does not support the XTest extension - remote desktop access "
 "will be view-only\n"
 msgstr ""
+"ཁྱེད་ཀྱི་ XServer ཡིས་XTest རྒྱ་སྐྱེད་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པས་ - "
+"རྒྱང་རིང་ཅོག་ངོས་ལྟ་སྤྱོད་ཀྱིས་ལྟ་ཙམ་ལས་གཞན་ཡི་རུང་།\n"
 
 msgid "Your desktop is only reachable over the local network."
 msgstr ""
@@ -470,7 +473,7 @@ msgid "Your desktop will be shared"
 msgstr "ཁྱེད་ཀྱི་ཅོག་ངོས་མཉམ་སྤྱོད་བྱེད་པར་འགྱུར།"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Allow"
 msgstr "རུང་བ།(_A)"
@@ -479,7 +482,7 @@ msgid "_Allow other users to control your desktop"
 msgstr "སྤྱོད་མཁན་གཞན་པས་ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ཚོད་འཛིན་རུང་བ།(_A)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Never"
 msgstr "གཏན་ཏུ་མིན།(_N)"
@@ -506,10 +509,13 @@ msgid "vino-mdns:showusername"
 msgstr "0"
 
 msgid "vino-passwd: password unchanged.\n"
-msgstr ""
+msgstr "vino-passwd：གསང་ཨང་བསྒྱུར་མེད་པ།\n"
 
 msgid "vino-passwd: password updated successfully.\n"
-msgstr ""
+msgstr "vino-passwd：གསང་ཨང་གསར་བསྒྱུར་ལེགས་གྲུབ།\n"
 
 msgid "vnc;share;remote;"
 msgstr "vnc;share;remote;ཅོག་ངོས་མཉམ་སྤྱོད།;"
+
+msgid "Question"
+msgstr "གནད་དོན།"

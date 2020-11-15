@@ -97,7 +97,7 @@ msgid "Change Keyring Password"
 msgstr "གསང་ལྡེའི་གདུབ་ཀྱི་གསང་ཨང་བཟོ་བཅོས།"
 
 msgid "Change Password"
-msgstr "གསང་ཨང་བཟོ་བཅོས།"
+msgstr "གསང་ཨང་བསྒྱུར་བ།"
 
 msgid "Change password for secure storage"
 msgstr "བདེ་འཇགས་གསོག་འཇོག་གི་གསང་ཨང་བཟོ་བཅོས།"
@@ -112,7 +112,7 @@ msgid "Client Authentication"
 msgstr "དུད་སྣེ་ར་སྤྲོད།"
 
 msgid "Code Signing"
-msgstr "ཚབ་ཨང་མིང་རྟགས་འགོད་པ་"
+msgstr "ཚབ་ཨང་མིང་འགོད་པ།"
 
 msgid "Common Name"
 msgstr "རྒྱུན་སྤྱོད་མིང་།"
@@ -139,13 +139,13 @@ msgid "DSA"
 msgstr "DSA"
 
 msgid "Date of Birth"
-msgstr ""
+msgstr "འཁྲུངས་སྐར།"
 
 msgid "Domain Component"
-msgstr "ཁོངས་ཀྱི་སྒྲིག་ལྷུ།"
+msgstr "ཁུལ་ཁོངས་སྒྲིག་ལྷུ།"
 
 msgid "Email Address"
-msgstr "གློག་རྡུལ་གློག་ཡིག"
+msgstr "གློག་རྡུལ་ཡིག་ཟམ།"
 
 msgid "Email Protection"
 msgstr "ཡིག་ཟམ་འགོག་སྲུང་།"
@@ -205,16 +205,16 @@ msgid "Initials"
 msgstr "ཐོག་མའི་གསལ་བྱེད།"
 
 msgid "Locality"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Login"
 msgstr "ཐོ་འགོད།"
 
 msgid "MD2 with RSA"
-msgstr "རྩི་ཐབས MD2 བེད་སྤྱད་པའི་གསང་ལྡེ་ཟུང RSA"
+msgstr "རྩི་ཐབས MD2 སྤྱོད་པའི་གསང་ལྡེ་ཟུང་ RSA"
 
 msgid "MD5 with RSA"
-msgstr "རྩི་ཐབས MD5 བེད་སྤྱད་པའི་གསང་ལྡེ་ཟུང RSA"
+msgstr "རྩི་ཐབས MD5 སྤྱོད་པའི་གསང་ལྡེ་ཟུང་ RSA"
 
 msgid "New Keyring Password"
 msgstr "གསང་ལྡེའི་གདུབ་གསར་པའི་གསང་ཨང་།"
@@ -235,7 +235,7 @@ msgid "Original password for secure storage"
 msgstr "བདེ་འཇགས་གསོག་འཇོག་ལ་སྤྱོད་པའི་ཐོག་མའི་གསང་ཨང་།"
 
 msgid "Place of Birth"
-msgstr "སྐྱེས་ཡུལ།"
+msgstr "སྐྱེ་ས།"
 
 msgid "Pseudonym"
 msgstr "སྨྱུག་མིང་།"
@@ -244,10 +244,10 @@ msgid "RSA"
 msgstr "RSA"
 
 msgid "SHA1 with DSA"
-msgstr "རྩི་ཐབས SHA1 བེད་སྤྱད་པའི་གསང་ལྡེ་ཟུང DSA"
+msgstr "རྩི་ཐབས SHA1 སྤྱོད་པའི་གསང་ལྡེ་ཟུང་ DSA"
 
 msgid "SHA1 with RSA"
-msgstr "རྩི་ཐབས SHA1 བེད་སྤྱད་པའི་གསང་ལྡེ་ཟུང RSA"
+msgstr "རྩི་ཐབས SHA1 སྤྱོད་པའི་གསང་ལྡེ་ཟུང་ RSA"
 
 msgid "SSH Key Agent"
 msgstr "SSH གསང་ལྡེའི་ལས་ཚབ།"
@@ -259,16 +259,16 @@ msgid "Serial Number"
 msgstr "རིམ་སྟར་ཨང་རྟགས།"
 
 msgid "Server Authentication"
-msgstr "ཞབས་ཞུ་ཆས་ར་སྤྲོད།"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་ར་སྤྲོད།"
 
 msgid "State"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Store passwords unencrypted?"
 msgstr "གསང་སྡོམ་མེད་པར་གསང་ཨང་ཉར་ཚགས་བྱེད་དམ།"
 
 msgid "Street"
-msgstr "ཁྲོམ་གཞུང།"
+msgstr "ཁྲོམ་ལམ།"
 
 msgid "Surname"
 msgstr "རུས་མིང་།"
@@ -295,10 +295,10 @@ msgid "The unlock password was incorrect"
 msgstr "གསང་ཨང་སྒྲོག་འགྲོལ་གྱི་ནོར་འཁྲུལ།"
 
 msgid "Time Stamping"
-msgstr "དུས་ཐམ།"
+msgstr " དུས་ཚོད་ཐམ།"
 
 msgid "Title"
-msgstr "ཁ་བྱང་།"
+msgstr " ཁ་བྱང་།"
 
 msgid "To change the password for '%s', the original password is required"
 msgstr "“%s” ཡི་གསང་ཨང་བཟོ་བཅོས་བྱེད་པར་ཐོག་མའི་གསང་ཨང་མཁོ་སྤྲོད་བྱེད་དགོས།"
@@ -343,31 +343,37 @@ msgid "Unnamed Certificate"
 msgstr "མིང་བཏགས་མེད་པའི་དཔང་ཡིག"
 
 msgid "User ID"
-msgstr "སྤྱོད་མཁན་ངོ་རྟགས།"
+msgstr "སྤྱོད་མཁན་གྱིID"
 
 msgid "can't create `%s': %s\n"
-msgstr ""
+msgstr "བཟོ་ཐབས་བྲལ་ “%s”：%s\n"
 
 msgid "commands: "
-msgstr "བཀའ་བརྡ།:"
+msgstr " བཀའ་བརྡ།："
 
 msgid "error writing to `%s': %s\n"
-msgstr ""
+msgstr "“%s” འབྲི་བར་ནོར་འཁྲུལ་བྱུང་བ།：%s\n"
 
 msgid "failed to create temporary file `%s': %s\n"
-msgstr ""
+msgstr "གནས་སྐབས་ཡིག་ཆ་ “%s” བཟོ་སྐབས་ཕམ་པ།:%s\n"
 
 msgid "lock `%s' not made: %s\n"
-msgstr ""
+msgstr "སྒོ་ལྕགས་ “%s” བཟོ་ཐུབ་མེད་པ།:%s\n"
 
 msgid "removing stale lockfile (created by %d)\n"
-msgstr ""
+msgstr "ནུས་ཤོར་གྱི་སྒོ་ལྕགས་ཡིག་ཆ་འབུད་པ། ( %d ཡིས་བཟོས་པ )\n"
 
 msgid "usage: gnome-keyring command [options]\n"
-msgstr ""
+msgstr "སྤྱོད་ཐབས།：gnome-keying བཀའ་བརྡ [འདེམས་ཚན]\n"
 
 msgid "waiting for lock %s...\n"
-msgstr ""
+msgstr "སྒོ་ལྕགས %s ཐོབ་པར་སྒུག་པ། \n"
 
 msgid "waiting for lock (held by %d%s) %s...\n"
-msgstr ""
+msgstr "སྒོ་ལྕགས་ཐོབ་པར་སྒུག་པ། ( %d%s ཡིས་འཛིན་པ ) %s...\n"
+
+msgid "Automatically unlock this key, whenever I'm logged in"
+msgstr "ང་ཐོ་འགོད་སྐབས་གསང་ལྡེ་འདི་རང་འགུལ་ངང་སྒྲོག་འགྲོལ་བྱེད་པ།"
+
+msgid "Unknown"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"

@@ -67,7 +67,7 @@ msgstr ""
 "ཡིས་རྣམ་གྲངས་མང་པོའི་མཚམས་གཅོད།)"
 
 msgid "Back"
-msgstr "ཕྱིར་འཐེན།"
+msgstr "ཕྱི་བཤོལ།"
 
 msgid "Choices"
 msgstr "འདེམ་པ།"
@@ -118,10 +118,10 @@ msgid "Extracting templates from packages: %d%%"
 msgstr "མཉེན་ཆས་ཐུམ་ལས་མ་དཔེ།：%d%%འགྲོལ།"
 
 msgid "Help"
-msgstr "རོགས་རམ།"
+msgstr " རོགས་རམ།"
 
 msgid "Ignoring invalid priority \"%s\""
-msgstr ""
+msgstr "ནུས་མེད་ཀྱི་སྔོན་ཐོབ་རིམ་པ་སྣང་མེད་དུ་གཏོང་།“%s”"
 
 msgid ""
 "Input value, \"%s\" not found in C choices! This should never happen. "
@@ -129,7 +129,7 @@ msgid ""
 msgstr ""
 
 msgid "More"
-msgstr "དེ་ལས་མང་།"
+msgstr "དེ་ལས་མང་བ།"
 
 msgid "Next"
 msgstr "གཞས་ཕྱི་མ།"
@@ -150,7 +150,7 @@ msgid "Package configuration"
 msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འགོད།"
 
 msgid "Preconfiguring packages ...\n"
-msgstr ""
+msgstr "མཉེན་ཆས་ཐུམ་སྔོན་བཀོད ...\n"
 
 msgid "Problem setting up the database defined by stanza %s of %s."
 msgstr ""
@@ -163,7 +163,7 @@ msgstr ""
 "དེ་བས་གླེང་སྒྲོམ་འཆར་ངོས་སྤྱོད་མི་རུང་།"
 
 msgid "Template #%s in %s does not contain a 'Template:' line\n"
-msgstr ""
+msgstr "%2$s ནང་གི་ཨང་ %1$s ཡི་མ་དཔེ་ལ་ཕྲེང་“Template:”ཚུད་མེད།\n"
 
 msgid ""
 "Template #%s in %s has a duplicate field \"%s\" with new value \"%s\". "
@@ -174,7 +174,7 @@ msgid "Template database not specified in config file."
 msgstr "སྡེབ་སྒྲིག་ཡིག་ཆར་མ་དཔེ་གཞི་གྲངས་མཛོད་སྟོན་མེད།"
 
 msgid "Template parse error near `%s', in stanza #%s of %s\n"
-msgstr ""
+msgstr "%3$s ནང་གི་ཨང་ %2$s ཆ་ཤས་ཀྱི་“%1$s”ཉེ་བའི་མ་དཔེ་དབྱེ་ཞིབ་ནོར་འཁྲུལ\n"
 
 msgid "Term::ReadLine::GNU is incompatable with emacs shell buffers."
 msgstr "Term::ReadLine::GNU དང་ Emacs shell ཡི་ལྷོད་གསོག་མི་འཆམ།"
@@ -206,7 +206,7 @@ msgid "Unable to start a frontend: %s"
 msgstr "མདུན་སྣེའི་འཆར་ངོས་མགོ་སློང་མི་ཐུབ：%s"
 
 msgid "Unknown template field '%s', in stanza #%s of %s\n"
-msgstr ""
+msgstr "%3$s ནང་གི་ཨང་ %2$s ཡི་ཆ་ཤས་སུ་མི་ཤེས་པའི་མ་དཔེ་ཡིག་དུམ“%1$s”ཡོད།\n"
 
 msgid "Usage: debconf [options] command [args]"
 msgstr "སྤྱོད་སྟངས།：debconf [འདེམས་ཚན་] བཀའ་བརྡ་ [ཞུགས་གྲངས་]"
@@ -235,7 +235,7 @@ msgid ""
 msgstr ""
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "apt-extracttemplates failed: %s"
 msgstr "apt-extracttemplates ཕམ་པ།：%s"

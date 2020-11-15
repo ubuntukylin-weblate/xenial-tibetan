@@ -97,10 +97,10 @@ msgid "Could not get lock %s"
 msgstr ""
 
 msgid "Could not open file %s"
-msgstr "ཡིག་ཆ %s ཁ་ཕྱེ་མི་ཐུབ་པ།"
+msgstr "ཡིག་ཆ %s ཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "Could not open file '%s'"
-msgstr ""
+msgstr "ཡིག་ཆ %s ཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "Could not open file descriptor %d"
 msgstr ""
@@ -220,7 +220,7 @@ msgid "Installed %s"
 msgstr "%s སྒྲིག་འཇུག་བྱས་ཟིན།"
 
 msgid "Installing %s"
-msgstr "%sསྒྲིག་འཇུག་པ།"
+msgstr "སྒྲིག་འཇུག་བྱེད་བཞིན་པ %s"
 
 msgid "Invalid 'Date' entry in Release file %s"
 msgstr ""
@@ -302,7 +302,7 @@ msgid "Noting disappearance of %s"
 msgstr "%s ཡལ་བ་ཐོ་འགོད་པ།"
 
 msgid "Obsoletes"
-msgstr "བེད་མེད་དུ་གཏོང་བ།"
+msgstr "དུས་ཚོད་ཡོལ་བ།"
 
 msgid "Opening %s"
 msgstr " %sཁ་འབྱེད།"
@@ -444,7 +444,7 @@ msgid "Sub-process %s returned an error code (%u)"
 msgstr ""
 
 msgid "Suggests"
-msgstr "གྲོས་འདོན།"
+msgstr "བསམ་འཆར།"
 
 msgid "Syntax error %s:%u: Block starts with no name."
 msgstr ""
@@ -587,7 +587,7 @@ msgid "Unable to synchronize mmap"
 msgstr ""
 
 msgid "Unable to write to %s"
-msgstr "%sའབྲི་མི་ཐུབ།"
+msgstr "%s་འབྲི་ཐབས་མེད།"
 
 msgid "Unmounting CD-ROM...\n"
 msgstr ""
@@ -654,13 +654,13 @@ msgid ""
 msgstr ""
 
 msgid "extra"
-msgstr ""
+msgstr "ལྷག་མ།"
 
 msgid "important"
-msgstr ""
+msgstr "གལ་ཆེན།"
 
 msgid "optional"
-msgstr ""
+msgstr "འདེམས་རུང་།"
 
 msgid "read, still have %llu to read but none left"
 msgstr ""
@@ -672,7 +672,22 @@ msgid "required"
 msgstr ""
 
 msgid "standard"
-msgstr "ཚད་ལྡན།"
+msgstr "ཚད་གཞི།"
 
 msgid "write, still have %llu to write but couldn't"
 msgstr ""
+
+msgid "..."
+msgstr "\"...\""
+
+msgid "Failed to readlink %s"
+msgstr "རྟགས་སྦྲེལ་ %sཀློག་མི་ཐུབ།"
+
+msgid "Failed to stat %s"
+msgstr "%s ཡི་རྣམ་པ་ཐོབ་མི་ཐུབ།"
+
+msgid "Progress: [%3i%%]"
+msgstr "མྱུར་ཚད།：[%3i%%]"
+
+msgid "Unexpected end of file"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་ཆ་མཇུག་མ།"

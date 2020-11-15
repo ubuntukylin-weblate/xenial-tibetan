@@ -31,8 +31,8 @@ msgstr ""
 
 msgid "%d Minute"
 msgid_plural "%d Minutes"
-msgstr[0] "སྐར་མ%d"
-msgstr[1] "སྐར་མ%d"
+msgstr[0] "སྐར་མ། %d"
+msgstr[1] "སྐར་མ། %d"
 
 msgid "<b>%d Active Connection</b>"
 msgid_plural "<b>%d Active Connections</b>"
@@ -43,7 +43,7 @@ msgid "<b>Adding Device...</b>"
 msgstr "<b>སྒྲིག་ཆས་སྣོན་པ།...</b>"
 
 msgid "<b>Advanced</b>"
-msgstr "<b>མཐོ་རིམ་སྒྲིག་འགོད།</b>"
+msgstr "<b>མཐོ་རིམ།</b>"
 
 msgid ""
 "<b>An error has occured while loading a plugin. Please notify the developers"
@@ -140,7 +140,7 @@ msgid "<b>NAP Settings</b>"
 msgstr "<b>NAP སྒྲིག་བཀོད།</b>"
 
 msgid "<b>Network Settings</b>"
-msgstr "<b>དྲ་བ་བཀོད་པ།</b>"
+msgstr "<b>དྲ་བ་སྒྲིག་བཀོད།</b>"
 
 msgid "<b>No DHCP servers installed</b>"
 msgstr "<b>DHCP ཞབས་ཞུ་ཆས་སྒྲིག་འཇུག་བྱས་མེད།</b>"
@@ -208,13 +208,13 @@ msgid ""
 msgstr ""
 
 msgid "<span weight=\"bold\" size=\"large\">Sending files via Bluetooth</span>"
-msgstr ""
+msgstr "<span weight=\\bold\" size=\"large\">སོ་སྔོན་གྱིས་ཡིག་ཆ་སྐུར་བ།</span>\""
 
 msgid "APN:"
 msgstr "APN："
 
 msgid "Accept"
-msgstr "བསྡུ་ལེན།"
+msgstr "སྡུད་ལེན།"
 
 msgid "Accept files from trusted devices"
 msgstr "ཡིད་རྟོན་སྒྲིག་ཆས་སྐུར་བའི་ཡིག་ཆ་ལེན་པ།"
@@ -229,7 +229,7 @@ msgid "Adapter selection"
 msgstr "བདམས་པའི་འཚམ་སྒྲིག་ཆས།"
 
 msgid "Add"
-msgstr "གསར་བཟོ།"
+msgstr "རྩིག་ཤོག་ཁ་སྣོན།"
 
 msgid "Add this device to known devices list"
 msgstr "སྒྲིག་ཆས་འདི་ཤེས་པའི་སྒྲིག་ཆས་རེའུ་མིག་ཏུ་སྣོན།"
@@ -251,7 +251,7 @@ msgid "Adds standard menu items to the status icon menu"
 msgstr "རྣམ་པའི་རིས་རྟགས་འདེམས་བྱང་དུ་ཚད་ལྡན་འདེམས་བྱང་ཚན་སྣོན།"
 
 msgid "All Files(*.*)"
-msgstr "ཡིག་ཆ་ཚང་མ་(*.*)ཡིག་ཆ་ཚང་མ།"
+msgstr "ཡིག་ཆ་ཚང་མ། (*.*)"
 
 msgid "Allow devices to write/delete"
 msgstr "སྒྲིག་ཆས་ཀྱིས་འབྲི་བ／འདོར་བ་ཆོག་པ་བྱེད།"
@@ -268,7 +268,7 @@ msgid ""
 msgstr ""
 
 msgid "Already connected"
-msgstr "འབྲེལ་མཐུད་ཟིན་པ།"
+msgstr "འབྲེལ་མཐུད་བྱས་ཟིན།"
 
 msgid "Always"
 msgstr "ནམ་ཡང་།"
@@ -301,7 +301,7 @@ msgid "Authorization request for:"
 msgstr "དབང་བསྐུར་རེ་ཞུ།"
 
 msgid "Blueman"
-msgstr "སོ་སྔོན།"
+msgstr "སོ་སྔོན་པོ།"
 
 msgid "Blueman (dhclient)"
 msgstr "སོ་སྔོན།(dhclient)"
@@ -375,7 +375,7 @@ msgid ""
 msgstr ""
 
 msgid "Browse"
-msgstr "མིག་བཤར།"
+msgstr "མིག་བཤེར།"
 
 msgid "Browse the device using obex ftp"
 msgstr "obex ftpསྤྱད་ནས་སྒྲིག་ཆས་འདི་ལ་མིག་བཤར།"
@@ -390,7 +390,7 @@ msgid "Cancel Operation"
 msgstr "ལེན་པའི་བཀོལ་སྤྱོད།"
 
 msgid "Cancelling"
-msgstr "ལེན་བཞིན་པ།"
+msgstr "དོར་བཞིན་པ།"
 
 msgid "Changing Bluetooth system settings requires privileges"
 msgstr "སོ་སྔོན་རྒྱུད་ཁོངས་བཀོད་པ་བསྒྱུར་དགོས་ན། དབང་ཚད་དགོས།"
@@ -399,7 +399,7 @@ msgid "Close"
 msgstr "ཁ་རྒྱག་པ།"
 
 msgid "Command"
-msgstr "བཀའ་བརྡ།"
+msgstr "བཀའ་ལག་བསྟར།"
 
 msgid "Command to execute when answer button is pressed:"
 msgstr "དང་ལེན་མཐེབ་གནོན་གནོན་སྐབས་བཀའ་བརྡ་ལ་བསྟར་བྱེད།"
@@ -443,13 +443,13 @@ msgid "Connected:"
 msgstr "འབྲེལ་ཟིན།："
 
 msgid "Connecting"
-msgstr "འབྲེལ་པ།"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
 
 msgid "Connecting.."
-msgstr "འབྲེལ་མཐུད་བྱེད་པ།..."
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།..."
 
 msgid "Connecting..."
-msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ། ..."
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།..."
 
 msgid "Connection Failed: "
 msgstr "འབྲེལ་མཐུད་ཕམ་པ།： "
@@ -476,7 +476,7 @@ msgid "Deny"
 msgstr "ཟློག་པ།"
 
 msgid "Dependency issue"
-msgstr "གནད་དོན་ལ་རག་ལས།"
+msgstr "བརྟེན་བྱའི་གནད་དོན།"
 
 msgid "Device"
 msgstr "སྒྲིག་ཆས།"
@@ -515,7 +515,7 @@ msgid "Enable Routing (NAT)"
 msgstr "ལས་འཚོལ་ཆོག་པ།(NAT)"
 
 msgid "Enabled"
-msgstr "སྤྱད་པ།"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "Enter PIN code"
 msgstr " PINཨང་ནང་འཇུག"
@@ -536,7 +536,7 @@ msgid "Error occurred while sending file %s"
 msgstr "ཡིག་ཆ་ %s སྐུར་དུས་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "Failed"
-msgstr "ཕམ་པ།"
+msgstr " ཕམ་པ།"
 
 msgid "Failed to change profile to %s"
 msgstr "སྡེབ་སྒྲིག་མིང་%sལ་བསྒྱུར་མི་ཐུབ།"
@@ -545,7 +545,7 @@ msgid "Failed to connect"
 msgstr "འབྲེལ་མཐུད་ཕམ་པ།"
 
 msgid "Failed to launch \"%s\""
-msgstr ""
+msgstr " འགོ་སློང་།\\%s\\ཕམ་པ།"
 
 msgid "Failed to launch default file browser"
 msgstr "སོར་བཞག་གི་ཡིག་ཆའི་བཤར་ཆས་འགོ་རྩོམ་མི་ཐུབ།"
@@ -554,19 +554,19 @@ msgid "Failed to obtain an IP address on %s"
 msgstr "%sཐོག་ཏུ་IP ཤག་གནས་ཐོབ་པ་ཕམ་པ།"
 
 msgid "Failure"
-msgstr "ཕམ་པ།"
+msgstr " ཕམ་པ།"
 
 msgid "File %(0)s from %(1)s successfully received"
 msgstr "%(1)s ཡོང་བའི་ཡིག་ཆ་ %(0)s བདེ་བླག་ངང་བྱོར་བ།"
 
 msgid "File received"
-msgstr "ཡིག་ཆ་བྱོར་བ།"
+msgstr "ཡིག་ཆ་སྡུད་ལེན་ཟིན་པ།"
 
 msgid "Files received"
 msgstr "ཡིག་ཆ་སྡུད་ལེན་ཟིན་པ།"
 
 msgid "Finished"
-msgstr "ལེགས་འགྲུབ་པ།"
+msgstr "ལེགས་གྲུབ།"
 
 msgid "Forcefully disconnect the device"
 msgstr "བཙན་གཅོད།"
@@ -578,7 +578,7 @@ msgid "Group Network"
 msgstr "དྲ་བ་ཚོགས།"
 
 msgid "Hidden"
-msgstr "སྦེད་པ།"
+msgstr "གབ་པ།"
 
 msgid "High"
 msgstr "མཐོ།"
@@ -647,13 +647,13 @@ msgstr ""
 "སྙོམ་སྒྲིག་སྒྲིག་འགྲོལ་ཆས་ཀྱི་དོ་དམ་ཆས་འབྲེལ་མཐུད་འདི་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "More"
-msgstr "དེ་ལས་མང་།"
+msgstr "དེ་ལས་མང་བ།"
 
 msgid "Much"
 msgstr "མང་པོ།"
 
 msgid "Network"
-msgstr "དྲ་བ།"
+msgstr "དྲ་རྒྱ།"
 
 msgid "Network Access Point"
 msgstr "དྲ་བའི་འབྲེལ་ཚེག"
@@ -665,7 +665,7 @@ msgid "Network _Usage"
 msgstr "དྲ་བའི་སྤྱོད་ཚུལ།(_U)"
 
 msgid "NetworkManager"
-msgstr "དྲ་བ་དོ་དམ་ཆས།"
+msgstr "དྲ་རྒྱ་དོ་དམ་ཆས།"
 
 msgid "No adapters found"
 msgstr "འཚམ་སྒྲིག་ཆས་མ་རྙེད།"
@@ -678,13 +678,13 @@ msgstr ""
 "ཁྱེད་ཀྱིས་སྔོན་དུ་འབྲེལ་མཐུད་ཅིག་བཟོས་ནས་ཤོག་ངོས་འདི་ཞིབ་བཤེར་བྱེད།"
 
 msgid "Not Connected"
-msgstr "འབྲེལ་མེད།"
+msgstr "སྦྲེལ་མེད།"
 
 msgid "Not currently supported with this setup"
 msgstr "མིག་སྔའི་སྒྲིག་ཆས་སུ་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "Not specified"
-msgstr "གཏན་འཁེལ་བྱས་མེད།"
+msgstr "དམིགས་འཛུགས་བྱས་མེད་པ།"
 
 msgid "Number:"
 msgstr "སྒྲིག་ཨང་།："
@@ -708,7 +708,7 @@ msgid "Pair."
 msgstr "ཆ་སྒྲིག"
 
 msgid "Pairing"
-msgstr ""
+msgstr "ཆ་སྒྲིག"
 
 msgid "Pairing PIN code for"
 msgstr "PINཨང་ཆ་སྒྲིག"
@@ -821,13 +821,13 @@ msgid "Recent _Connections"
 msgstr "ཉེ་ཆར་འབྲེལ་མཐུད།：(_C)"
 
 msgid "Recommended"
-msgstr ""
+msgstr "འོས་སྦྱོར།"
 
 msgid "Reject"
 msgstr "ཟློག་པ།"
 
 msgid "Remove"
-msgstr "སྤོ་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "Remove this device from the known devices list"
 msgstr "སྒྲིག་ཆས་འདི་ཤེས་ཟིན་པའི་སྒྲིག་ཆས་རེའུ་མིག་ལས་བསུབ།"
@@ -845,7 +845,7 @@ msgid "Reset"
 msgstr "བསྐྱར་འཇོག"
 
 msgid "Retry"
-msgstr "བསྐྱར་ཚོད།"
+msgstr "ཡང་བསྐྱར་ཚོད་ལེན།"
 
 msgid "Run the setup assistant for this device"
 msgstr "སྒྲིག་ཆས་འདི་ལ་སྒྲིག་བཀོད་ལས་རོགས་འཁོར་སྐྱོད་བྱེད།"
@@ -857,7 +857,7 @@ msgid "Script to execute on connection"
 msgstr "འབྲེལ་མཐུད་བྱེད་སྐབས་ལག་བསྟར་གྱི་གཞི་དེབ།"
 
 msgid "Search"
-msgstr "འཚོལ་བ།"
+msgstr "བཤེར་འཚོལ།"
 
 msgid "Search for devices"
 msgstr "སྒྲིག་ཆས་འཚོལ་བ།"
@@ -866,7 +866,7 @@ msgid "Search for nearby devices"
 msgstr "ཉེ་བའི་སྒྲིག་ཆས་འཚོལ་བ།"
 
 msgid "Searching"
-msgstr "འཚོལ་བཤེར་པ།"
+msgstr "བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
 
 msgid "Select Device"
 msgstr "སྒྲིག་ཆས་འདེམ་པ།"
@@ -924,7 +924,7 @@ msgid "Set Bluetooth Adapter Properties"
 msgstr "སོ་སྔོན་འཚམ་སྒྲིག་ཆས་གཏོགས་གཤིས་སྒྲིག་འགོད།"
 
 msgid "Setup..."
-msgstr "སྒྲིག་འགོད།"
+msgstr "སྒྲིག་འགོད།..."
 
 msgid "Shared Folder:"
 msgstr "ཡིག་ཁུག་མཉམ་སྤྱོད།"
@@ -942,7 +942,7 @@ msgid "Shows network traffic usage"
 msgstr "དྲ་བའི་རྒྱུན་ཚད་སྤྱོད་ཕྱོད་མངོན་པ།"
 
 msgid "Skip"
-msgstr "མཆོང་བ།"
+msgstr "མཆོངས་བ།"
 
 msgid "Source adapter. Takes address or adapter's name eg. hci0"
 msgstr "ཁུངས་འཚམ་སྒྲིག་ཆས། ཤག་གནས་ཡང་ན་འཚམ་སྒྲིག་ཆས་ཀྱི་མིང་འབྲི། དཔེར་ན:hci0"
@@ -1016,7 +1016,7 @@ msgid "Transfer of file %(0)s failed"
 msgstr "ཡིག་ཆ་ %(0)sསྐྱེལ་བ་ཕམ་པ།"
 
 msgid "Trust"
-msgstr "ཡིད་རྟོན།"
+msgstr "ཡིད་ཆེས།"
 
 msgid ""
 "Trying to obtain an IP address on %s\n"
@@ -1030,13 +1030,13 @@ msgid "Turn on all adapters"
 msgstr "འཚམ་སྒྲིག་ཆས་ཚང་མ་མགོ་སློང་།"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unspecified"
-msgstr "གཏན་འཁེལ་བྱེད་མེད།"
+msgstr "དམིགས་འཛུགས་བྱས་མེད་པ།"
 
 msgid "Untrust"
-msgstr "ཡིད་རྟོན་མི་རུང་།"
+msgstr "ཡིད་ཆེས་མི་བྱེད་པ།"
 
 msgid "Use Random Passkey"
 msgstr "སྐབས་བསྟུན་གསང་ཨང་སྤྱོད་པ།"
@@ -1063,10 +1063,10 @@ msgid "_Browse Files on Device"
 msgstr "སྒྲིག་ཆས་སྟེང་གི་ཡིག་ཆ་བཤར་བ།(_B)"
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Device"
 msgstr "སྒྲིག་ཆས།(_D)"
@@ -1081,7 +1081,7 @@ msgid "_Exit"
 msgstr "ཕྱིར་འདོན།(_E)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Local Services"
 msgstr "རང་སའི་ཞབས་ཞུ།(_L)"
@@ -1090,7 +1090,7 @@ msgid "_Make Discoverable"
 msgstr "རྙེད་མི་ཐུབ།(_M)"
 
 msgid "_OK"
-msgstr "འགྲིག་པ།(_O)"
+msgstr "གཏན་འཁེལ།"
 
 msgid "_Pair"
 msgstr "ཆ་སྒྲིག:(_P)"
@@ -1108,10 +1108,10 @@ msgid "_Report a Problem"
 msgstr "སྙན་ཞུའི་གནད་དོན།(_R)"
 
 msgid "_Reset"
-msgstr "བསྐྱར་སྒྲིག (_R)"
+msgstr "བསྐྱར་བཀོད། (_R)"
 
 msgid "_Search"
-msgstr "འཚོལ་བཤེར།(_S)"
+msgstr "བཤེར་འཚོལ།(_S)"
 
 msgid "_Setup New Device"
 msgstr "སྒྲིག་ཆས་གསར་བ་སྒྲིག་འགོད།(_S)"
@@ -1120,7 +1120,7 @@ msgid "_Setup..."
 msgstr "སྒྲིག་འགོད།:(_S)..."
 
 msgid "_Stop"
-msgstr "མཚམས་འཇོག(_S)"
+msgstr "མཚམས་འཇོག (_S)"
 
 msgid "_Trust"
 msgstr "ཡིད་རྟོན།:(_T)"
@@ -1129,13 +1129,13 @@ msgid "_Untrust"
 msgstr "ཡིད་རྟོན་ལེན་པ།(_U)"
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "applet"
 msgstr ""
 
 msgid "cellular"
-msgstr "ལག་འཁྱེར་ཁ་པར།"
+msgstr "ལག་ཐོག་ཁ་པར།"
 
 msgid "cordless"
 msgstr "སྐུད་མེད་སྒྲིག་ཆས།"
@@ -1146,7 +1146,7 @@ msgstr[0] "ཉིན།"
 msgstr[1] "ཉིན།"
 
 msgid "desktop"
-msgstr "ཅོག་ངོས།"
+msgstr " ཅོག་ངོས།"
 
 msgid "handheld"
 msgstr "ལག་ཁྱེར་སྒྲིག་ཆས།"
@@ -1155,12 +1155,12 @@ msgid "handsfree"
 msgstr "གནོན་མི་དགོས་པའི་སྒྲིག་ཆས།"
 
 msgid "headset"
-msgstr "རྣ་ཉན།"
+msgstr "རྣ་མདའ།"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] "ཆུ་ཚོད།"
-msgstr[1] "ཆུ་ཚོད།"
+msgstr[0] "དུས་ཚོད།"
+msgstr[1] "དུས་ཚོད།"
 
 msgid "isdn"
 msgstr ""
@@ -1207,4 +1207,4 @@ msgid "uncategorized"
 msgstr "རིགས་དབྱེ་མེད་པ།"
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"

@@ -15,6 +15,8 @@ msgstr ""
 
 msgid "Cannot enumerate delivery systems from frontend device \"%s\"."
 msgstr ""
+"མཐའ་སྣེའི་སྒྲིག་ཆས་“%s”ཡི་ཁྲོད་ནས་སྐྱེལ་འདྲེན་རྒྱུད་ཁོངས་རེར་འགོད་བྱེད་ཐབས་བྲལ།"
+" "
 
 msgid "Could not configure sndio"
 msgstr "sndioསྡེབ་སྒྲིག་བྱེད་ཐབས་བྲལ།"
@@ -23,16 +25,16 @@ msgid "Could not establish connection to sndio"
 msgstr "snidoཡི་སྦྲེལ་མཐུད་ལ་སྦྲེལ་ཐབས་བྲལ། "
 
 msgid "Could not get settings from frontend device \"%s\"."
-msgstr ""
+msgstr "མདུན་སྣེའི་སྒྲིག་ཆས“%s”ནས་སྒྲིག་འགོད་ལེན་ཐབས་བྲལ། "
 
 msgid "Could not open file \"%s\" for reading."
-msgstr ""
+msgstr "ཀློག་སྟངས་རྣམ་པས་ཡིག་ཆ“%s”ཁ་ཕྱེ་ཐབས་བྲལ། "
 
 msgid "Could not open file \"%s\" for writing."
-msgstr ""
+msgstr "འབྲི་ཐབས་ཀྱིས་ཡིག་ཆའི“%s”ཁ་འབྱེད་ཐབས་བྲལ། "
 
 msgid "Could not open frontend device \"%s\"."
-msgstr ""
+msgstr "མདུན་སྣེའི་སྒྲིག་ཆས་ཀྱི་“%s”ཁ་འབྱེད་ཐབས་བྲལ། "
 
 msgid "Could not open sndfile stream for reading."
 msgstr "ཁ་ཕྱེ་ཐབས་བྲལ་ལ་sndfileརྒྱུའང་འདོན་ཐབས་བྲལ། "
@@ -70,7 +72,7 @@ msgid "DVB channel configuration file doesn't contain any channels"
 msgstr "DVBརྒྱུ་ལམ་སྡེབ་སྒྲིག་ཡིག་ཆའི་ནང་བགྲོད་ལམ་གང་ཡང་ཚུད་མེད།"
 
 msgid "Device \"%s\" does not exist."
-msgstr ""
+msgstr "སྒྲིག་ཆས་“%s”མི་འདུག "
 
 msgid "Digitalzoom element couldn't be created"
 msgstr "Digitalzoomསྒྲིག་ལྷུ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
@@ -95,12 +97,13 @@ msgstr "ཡིག་ཆ་གྲུབ་བྱེད་ཀྱི་སྔོན
 
 msgid "Given file name \"%s\" can't be converted to local file name encoding."
 msgstr ""
+"སྤྲད་པའི་ཡིག་ཆའི་མིང་གི་“%s”རང་སའི་ཡིག་ཆའི་མིང་གི་ཨང་སྒྲིག་ལ་སྒྱུར་ཐུབ་བྲལ། "
 
 msgid "Internal data flow error."
-msgstr "ནང་ཁུལ་གཞི་གྲངས་རྒྱུན་གྱི་ནོར་འཁྲུལ། "
+msgstr "ནང་ཁུལ་གྱི་གཞི་གྲངས་རྒྱུན་ནོར་བ།"
 
 msgid "Internal data stream error."
-msgstr "ནང་ཁུལ་གཞི་གྲངས་རྒྱུན་གྱི་ནོར་འཁྲུལ། "
+msgstr "ནང་ཁུལ་གྱི་གཞི་གྲངས་རྒྱུན་ནོར་བ།"
 
 msgid "Missing element '%s' - check your GStreamer installation."
 msgstr "“%s”ཡི་སྒྲིག་ལྷུ་ཆད།---GStreamerསྒྲིག་འཇུག་ལ་ཞིབ་བཤེར་གནང་རོགས། "

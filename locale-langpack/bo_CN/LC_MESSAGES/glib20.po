@@ -63,13 +63,13 @@ msgid "%.1f EiB"
 msgstr ""
 
 msgid "%.1f GB"
-msgstr "%.1f GB"
+msgstr "\"%.1f GB\""
 
 msgid "%.1f GiB"
 msgstr ""
 
 msgid "%.1f KB"
-msgstr "%.1f KB"
+msgstr "\"%.1f KB\""
 
 msgid "%.1f KiB"
 msgstr ""
@@ -113,8 +113,8 @@ msgstr ""
 
 msgid "%u byte"
 msgid_plural "%u bytes"
-msgstr[0] "%u ཡིག་ཚིགས།"
-msgstr[1] "%u ཡིག་ཚིགས།"
+msgstr[0] "ཡིག་ཚིགས།%u"
+msgstr[1] "ཡིག་ཚིགས།%u"
 
 msgid ""
 "'%s' is not a valid character following a '<' character; it may not begin an"
@@ -155,7 +155,7 @@ msgid "(Additionally, releasing the lock for '%s' also failed: %s) "
 msgstr ""
 
 msgid "(Type any character to close this window)\n"
-msgstr ""
+msgstr "(ཡིག་རྟགས་གང་རུང་མཐེབ་འཇུག་བྱས་ནས་སྒེའུ་ཁུང་འདི་ཁ་རྒྱག་པ། )\n"
 
 msgid ") without opening ("
 msgstr ""
@@ -454,7 +454,7 @@ msgid "Child process stopped by signal %ld"
 msgstr ""
 
 msgid "Commands:\n"
-msgstr ""
+msgstr "བཀའ་བརྡ།：\n"
 
 msgid ""
 "Commands:\n"
@@ -492,7 +492,7 @@ msgid "Connection Endpoint Options:"
 msgstr ""
 
 msgid "Connection in progress"
-msgstr "འབྲེལ་པ།"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
 
 msgid "Connection refused through SOCKSv5 proxy."
 msgstr ""
@@ -569,7 +569,7 @@ msgid "DEFINE group contains more than one branch"
 msgstr ""
 
 msgid "DIRECTORY"
-msgstr "དཀར་ཆག"
+msgstr " དཀར་ཆག"
 
 msgid "DTLS support is not available"
 msgstr ""
@@ -1001,7 +1001,7 @@ msgid "Error writing to handle: %s"
 msgstr ""
 
 msgid "Error: %s\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།：%s\n"
 
 msgid "Error: %s is not a valid bus name\n"
 msgstr ""
@@ -1357,7 +1357,7 @@ msgid "Invalid extended attribute name"
 msgstr ""
 
 msgid "Invalid filename"
-msgstr "ཡིག་ཆའི་མིང་ནུས་མེད།"
+msgstr "ཡིག་ཆའི་མིང་ནུས་མེད་ཡིན།"
 
 msgid "Invalid filename %s"
 msgstr ""
@@ -1750,7 +1750,7 @@ msgid "Options specifying the connection endpoint"
 msgstr ""
 
 msgid "Options:"
-msgstr "འདེམ་བྱང་།："
+msgstr "འདེམས་ཚན།："
 
 msgid "Output stream doesn't implement write"
 msgstr ""
@@ -1823,7 +1823,7 @@ msgid "Print version"
 msgstr "པར་གཞི་མངོན་པ།"
 
 msgid "Print version information and exit"
-msgstr "པར་གཞི་ཆ་འཕྲིན་པར་འདེབས་བྱས་ནས་ཕྱིར་འདོན།"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་པར་འདེབས་དང་འབྲེལ་ཕྱིར་འཐེན་བྱེད་པ།"
 
 msgid "Property '%s' is not readable"
 msgstr ""
@@ -2243,7 +2243,7 @@ msgid "Unknown protocol was specified"
 msgstr ""
 
 msgid "Unknown type"
-msgstr "མི་ཤེས་པའི་རིགས་གྲས།"
+msgstr "ངེས་མེད་ཀྱི་རིགས་གྲས།"
 
 msgid "Unmatched quotation mark in command line or other shell-quoted text"
 msgstr ""
@@ -2265,7 +2265,7 @@ msgid "Usage:"
 msgstr "སྤྱོད་སྟངས།："
 
 msgid "Usage:\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས།：\n"
 
 msgid ""
 "Usage:\n"
@@ -2381,7 +2381,7 @@ msgid "[COMMAND]"
 msgstr ""
 
 msgid "[OPTION...]"
-msgstr "[འདེམས་བྱང་།...]"
+msgstr "[འདེམས་ཚན།...]"
 
 msgid "[PATH]"
 msgstr "[PATH]"
@@ -2467,7 +2467,7 @@ msgid "Sat"
 msgstr ""
 
 msgid "Sun"
-msgstr "ཉིན།"
+msgstr " ཉིན།"
 
 msgid "Thu"
 msgstr ""
@@ -2618,7 +2618,7 @@ msgid "September"
 msgstr ""
 
 msgid "Friday"
-msgstr "པ་སངས།"
+msgstr "གཟའ་པ་སངས།"
 
 msgid "Monday"
 msgstr "གཟའ་ཟླ་བ།"
@@ -2772,7 +2772,7 @@ msgid "octal value is greater than \\377"
 msgstr ""
 
 msgid "out of memory"
-msgstr "ནང་གསོག་མི་འདང་།"
+msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
 
 msgid "overran compiling workspace"
 msgstr ""
@@ -2860,7 +2860,7 @@ msgid "unknown POSIX class name"
 msgstr ""
 
 msgid "unknown error"
-msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ།"
 
 msgid "unknown escape sequence"
 msgstr ""

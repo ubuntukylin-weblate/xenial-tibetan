@@ -223,7 +223,7 @@ msgid "Battery fully re-charged"
 msgstr "གློག་རྫས་ཁེངས་ཟིན།"
 
 msgid "Battery power low"
-msgstr "གློག་སྨན་གློག་ཚད་དམའ་བ།"
+msgstr "གློག་རྫས་ཀྱི་གློག་ཚད་དམའ་བ།"
 
 msgid "Battery status unknown"
 msgstr "གློག་རྫས་རྣམ་པ་ངེས་མེད།"
@@ -241,7 +241,7 @@ msgid "Beep when displaying a warning."
 msgstr "ཉེན་བརྡ་འཆར་སྐབས་དྲིལ་བརྡ་གཏོང་བ།"
 
 msgid "Behavior"
-msgstr "སྤྱོད་པ།"
+msgstr "བྱ་སྤྱོད།"
 
 msgid "Bollinger"
 msgstr "པའོ་ལིན་ཐིག"
@@ -277,7 +277,7 @@ msgid "Can not launch the eyes applet."
 msgstr " eyes བྱ་རིམ་ཆུང་ངུ་འདོན་སྤྱོད་བྱ་ཐབས་བྲལ་བ།"
 
 msgid "Cannot execute '%s'"
-msgstr "%sལག་བསྟར་བྱེད་ཐབས་བྲལ་བ།"
+msgstr "%sལག་བསྟར་བྱེད་ཐབས་བྲལ།"
 
 msgid "Cannot execute Caja"
 msgstr "Cajaལག་བསྟར་བྱེད་ཐབས་བྲལ་བ།"
@@ -379,7 +379,7 @@ msgid "Command/script to execute to get the output"
 msgstr "ཕྱིར་འདོན་གྱིས་ལག་ཏུ་བསྟར་བྱའི་བཀའ་བརྡ་དང་འཁྲབ་གཞུང་ཐོབ་ལེན།"
 
 msgid "Command:"
-msgstr "བཀའ་བརྡ།："
+msgstr "བཀའ་ལག་བསྟར།"
 
 msgid "Commission"
 msgstr "ཉོ་ཚོང་།"
@@ -418,11 +418,15 @@ msgid ""
 "Default color for new sticky notes. This should be in html hex "
 "specification, for example \"#30FF50\"."
 msgstr ""
+"རྩེར་སྒྲིག་ཡིག་ཐུང་གསར་པའི་སོར་བཞག་ཁ་དོག། "
+"བཅུ་དྲུག་གོང་འགྲིལ་ལུགས་HTMLཚད་ལྡན་གྱི་རྣམ་པ་ཡིན་འོས།དཔེར་ན།#30FF50ལྟ་བུ།"
 
 msgid ""
 "Default font color for new sticky notes. This should be in html hex "
 "specification, for example \"#000000\"."
 msgstr ""
+"རྩེར་སྒྲིག་ཡིག་ཐུང་གསར་པའི་སོར་བཞག་ཡིག་གཟུགས་ཁ་དོག། "
+"བཅུ་དྲུག་གོང་འགྲིལ་ལུགས་HTMLཚད་ལྡན་གྱི་རྣམ་པ་ཡིན་འོས།དཔེར་ན།“#000000”ལྟ་བུ།"
 
 msgid "Default font for new notes"
 msgstr "ཡིག་ཐུང་གསར་བའི་སོར་བཞག་ཡིག་གཟུགས།"
@@ -431,6 +435,8 @@ msgid ""
 "Default font for new sticky notes. This should be a Pango Font Name, for "
 "example \"Sans Italic 10\"."
 msgstr ""
+"རྩེར་སྒྲིག་ཡིག་ཐུང་གི་སོར་བཞག་ཡིག་གཟུགས། Pangoཡིག་གཟུགས་ཀྱི་མིང་ཡིན་འོས། "
+"དཔེར་ན་“Sans Italic 10”ལྟ་བུ།"
 
 msgid "Default height for new notes"
 msgstr "ཡིག་ཐུང་གསར་བའི་སོར་བཞག་མཐོ་ཚད།"
@@ -459,7 +465,7 @@ msgid "Delete this sticky note?"
 msgstr "རྩེར་སྒྲིག་ཡིག་ཐུང་འདི་བསུབ་པ།"
 
 msgid "Details"
-msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
 
 msgid "Dew point:"
 msgstr "ཟིལ་ཚེག"
@@ -477,7 +483,7 @@ msgid "Disk Mounter"
 msgstr "སྡུད་སྡེར་འགེལ་མཁན།"
 
 msgid "Display"
-msgstr "མངོན་པ།"
+msgstr "འཆར་ཆས།"
 
 msgid "Display Settings"
 msgstr "སྒྲིག་འགོད་འཆར་བ།"
@@ -524,7 +530,7 @@ msgid ""
 msgstr ""
 
 msgid "Error: %s"
-msgstr "ནོར་འཁྲུལ། %s"
+msgstr "ནོར་འཁྲུལ།： %s"
 
 msgid "Exponential moving average: "
 msgstr "སྟོན་གྲངས་ཀྱི་ཆ་སྙོམས་གྲངས་དམིགས་ཚད།"
@@ -565,10 +571,10 @@ msgid "Financial Chart - %s"
 msgstr "དངུལ་རྩའི་རིས་ཁྲ།--%s"
 
 msgid "Find _Next"
-msgstr "ཕྱི་མ་འཚོལ་བ།(_N)"
+msgstr "རྗེས་མ་ཚོལ།(_N)"
 
 msgid "Finished"
-msgstr "ལེགས་འགྲུབ་པ།"
+msgstr "ལེགས་གྲུབ།"
 
 msgid "Font C_olor:"
 msgstr "ཡིག་གཟུགས་ཀྱི་ཁ་དོག(_O)："
@@ -604,7 +610,7 @@ msgid "Gain %"
 msgstr "ཡོང་འབབ་ཀྱི་བརྒྱ་ཆའི་བསྡུར་ཚད།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Geyes Applet Factory"
 msgstr "Geyes བྱ་རིམ་ཆུང་ངུའི་བཟོ་གྲྭ།"
@@ -616,19 +622,19 @@ msgid "Go to Trash"
 msgstr "སྙིགས་སྣོད་སུ་བསྒྱུར།"
 
 msgid "Graphic"
-msgstr "རིས་དབྱིབས།"
+msgstr "རི་མོ།"
 
 msgid "Graphic and Text"
 msgstr "རིས་དབྱིབས་དང་ཡིག་ཆ།"
 
 msgid "H_eight:"
-msgstr "མཐོ་ཚད། (_E)："
+msgstr "མཐོ་ཚད།(_E)："
 
 msgid "Harddisk"
 msgstr "མཁྲེགས་སྡེར།"
 
 msgid "Help"
-msgstr "རོགས་རམ།"
+msgstr " རོགས་རམ།"
 
 msgid "Hi_de Notes"
 msgstr "སྦས་པའི་ཡིག་ཐུང་།(_D)"
@@ -687,7 +693,7 @@ msgid "Indicators: "
 msgstr "མཛུབ་སྟོན་ཆས།"
 
 msgid "Insert \"%s\""
-msgstr ""
+msgstr "%sབར་འཇུག"
 
 msgid "Insert characters"
 msgstr "བར་འཛུད་ཡིག་རྟགས།"
@@ -756,7 +762,7 @@ msgid "Load Average"
 msgstr "ཁུར་པོའི་སྙོམས་ཐང།"
 
 msgid "Location"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Location view"
 msgstr "གནས་གྱི་བརྙན་རིས།"
@@ -785,7 +791,7 @@ msgid "Mateweather Applet Factory"
 msgstr "Mateweatherབྱ་རིམ་ཆུང་ངུའི་བཟོ་གྲྭ"
 
 msgid "Maximum"
-msgstr "ཆེས་ཆེ་ཤོས།"
+msgstr "ཆེ་ཤོས་ཐང་།"
 
 msgid "Memory"
 msgstr "དྲན་ཤེས།"
@@ -827,7 +833,7 @@ msgid "Moving average: "
 msgstr "ཆ་སྙོམས་ཐིག་སྤོ་སྒུལ།"
 
 msgid "N/A"
-msgstr "མི་འཚམ།"
+msgstr "nan"
 
 msgid "N_ice"
 msgstr "སྔོན་ཐོབ་རིམ་པ།(_I)"
@@ -836,13 +842,13 @@ msgid "Name of timer"
 msgstr "དུས་ཆད་འཕྲུལ་ཆས་ཀྱི་མིང་།"
 
 msgid "Name:"
-msgstr "མིང་།"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid "Net Load"
 msgstr "དྲ་རྒྱའི་ཁུར་པོ།"
 
 msgid "Network"
-msgstr "དྲ་བ།"
+msgstr "དྲ་རྒྱ།"
 
 msgid "No Items in Trash"
 msgstr "སྙིགས་སྣོད་དུ་རྣམ་གྲངས་མེད་པ།"
@@ -896,7 +902,7 @@ msgid "Panel applet for playing audio CDs"
 msgstr "རོལ་དབྱངས་CDགཏོང་བའི་ངོས་པང་བྱ་རིམ་ཆུང་བ།"
 
 msgid "Percent"
-msgstr "བརྒྱ་ཆའི་ཚད།"
+msgstr " བརྒྱ་ཆའི་བསྡུར།"
 
 msgid "Pick a color for the sticky note"
 msgstr "ཟིན་བྲིས་སྦྱར་པང་ལ་ཁ་དོག་ག་གེ་མོ་ཞིག་འདེམ་དགོས།"
@@ -914,7 +920,7 @@ msgid "Positions balance: %s %s (%s)"
 msgstr "སྡོད་གནས་དོ་མཉམ།：%s %s། (%s)"
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Pressure:"
 msgstr "རླུང་གནོན།："
@@ -954,7 +960,7 @@ msgid "Removing item %s of %s"
 msgstr "ཚན་ཨང་%sབསུབ་བཞིན་ཡོད།ཁྱོད་སྡོམ་ཚན་པ་%s"
 
 msgid "Removing: %s"
-msgstr "ད་ལྟ་བསུབ་བཞིན་པ།：%s"
+msgstr "ད་ལྟ་བསུབ་བཞིན་པ།：%s\""
 
 msgid "Resize note"
 msgstr "ཡིག་ཐུང་ཆེ་ཆུང་ལེགས་སྒྲིག"
@@ -1130,7 +1136,7 @@ msgid "Swap Space"
 msgstr "བར་སྟོང་བརྗེ་བ།"
 
 msgid "Symbol"
-msgstr "རྟགས།"
+msgstr "མཚོན་རྟགས།"
 
 msgid "Sys_tem monitor update interval: "
 msgstr "རྒྱུད་ཁོངས་ལྟ་ཞིབ་ཆས་གསར་སྒྱུར་བར་ཆོད།(_T)："
@@ -1157,7 +1163,7 @@ msgid "Temperature:"
 msgstr "དྲོད་ཚད།"
 
 msgid "Text"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཡིག་དེབ།"
 
 msgid ""
 "The battery level below which the battery is displayed as red. Also the "
@@ -1187,13 +1193,13 @@ msgid "The system load average is %0.02f"
 msgstr "རྒྱུད་ཁོངས་གི་ཆ་སྙོམས་ཁུར་པོ་%0.02f"
 
 msgid "Themes"
-msgstr "བརྗོད་བྱ་གཙོ་བོ།བརྗོད་བྱ་གཙོ་བོ།"
+msgstr "བརྗོད་གཞི།"
 
 msgid "There was a fatal error while trying to load the theme."
 msgstr "བརྗོད་སྙིང་སྒྲིག་འཇུག་སྐབས་སུ་ནོར་འཁྲུལ་ཚབས་ཆེན་བྱུང་།"
 
 msgid "There was an error displaying help: %s"
-msgstr "རོགས་རམ་མངོན་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།:%s"
+msgstr "རོགས་རམ་བྱེད་སྐབས་བྱུང་བའི་ནོར་འཁྲུལ་འཆར་བ།：%s"
 
 msgid "There was an error executing '%s': %s"
 msgstr "%sལག་བསྟར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།：%s"
@@ -1267,7 +1273,7 @@ msgid "Un_mount %s"
 msgstr "%s(བཤིག་འདོན།(_M)"
 
 msgid "Unknown error"
-msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+msgstr "གསང་ཨང་རྙོག་འཛིང་ཚད་བླང་བྱ་དང་མི་མཐུན་པ།"
 
 msgid "Unknown time (%d%%) remaining"
 msgstr "ལྷག་མའི་དུས་ཚོད་མི་ཤེས་པ།(%d%%)"
@@ -1276,7 +1282,7 @@ msgid "Unknown time (%d%%) until charged"
 msgstr "གློག་གསོག་པའི་དུས་ཚོད་ལྷག་མ་མི་ཤེས་པ།(%d%%)"
 
 msgid "Update"
-msgstr "གསར་སྒྱུར།"
+msgstr "གསར་བསྒྱུར།"
 
 msgid "Update spin button"
 msgstr "འཁོར་སྐྱོད་མཐེབ་གནོན་གསར་སྒྱུར།"
@@ -1337,7 +1343,7 @@ msgstr ""
 "དུས་ཚོད་ལྷག་མ་ལ་གཞིགས་ནས་ཡིན་པ་ལས་ལྷག་མའི་བརྒྱ་ཆའི་ཚད་ལ་གཞིགས་ནས་ཐ་ཚིག་སྒྲོག་པ་མིན།"
 
 msgid "Weather Forecast"
-msgstr ""
+msgstr "གནམ་གཤིས་སྔོན་བརྡ།"
 
 msgid "Weather Preferences"
 msgstr "གནམ་གཤིས་སྔོན་འདེམས་ཚན་པ།"
@@ -1394,7 +1400,7 @@ msgid "Your battery is running low"
 msgstr "ཁྱེད་རང་གི་གློག་རྫས་ཀྱི་གློག་འདང་གི་མི་འདུག"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Appearance:"
 msgstr "ཕྱི་ཚུལ།(_A)"
@@ -1406,7 +1412,7 @@ msgid "_Average"
 msgstr "སྙོམས་ཐང་།(_A)"
 
 msgid "_Background"
-msgstr "རྒྱབ་ལྗོངས། (_B)"
+msgstr "རྒྱབ་ལྗོངས།(_B)"
 
 msgid "_Buffers"
 msgstr "ལྷོད་གཏོང་།(_B)"
@@ -1427,7 +1433,7 @@ msgid "_Details"
 msgstr "ཞིབ་ཕྲ།(_D)"
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_Eject %s"
 msgstr "%sའཕར་ཐོན།(_E)"
@@ -1454,7 +1460,7 @@ msgid "_Harddisk"
 msgstr "སྲ་ཆས།(_H)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_In"
 msgstr "ནང་དུ་ཞུགས་པ།(_I)"
@@ -1484,7 +1490,7 @@ msgid "_Mount %s"
 msgstr " %sའགེལ་འཇོག(_M)"
 
 msgid "_Network"
-msgstr "དྲ་བ།(_N)"
+msgstr "དྲ་རྒྱ།(_N)"
 
 msgid "_New Note"
 msgstr "ཡིག་ཐུང་གསར་འཛུགས།(_N)"
@@ -1502,7 +1508,7 @@ msgid "_Open Trash"
 msgstr "སྙིགས་སྣོད་ཀྱི་ཁ་འབྱེད་པ།(_O)"
 
 msgid "_Options"
-msgstr "འདེམས་ཚན། (_O)"
+msgstr "འདེམས་བྱང་།(_O)"
 
 msgid "_Out"
 msgstr "ཐོན་པ།(_O)"
@@ -1529,7 +1535,7 @@ msgid "_Processor"
 msgstr "སྒྲིག་གཅོད་ཆས།(_P)"
 
 msgid "_Properties"
-msgstr "གཏོགས་གཤིས།(_P)"
+msgstr "གཏོགས་གཤིས། (_P)"
 
 msgid "_Put notes on all workspaces"
 msgstr "ཡིག་ཐུང་དེ་ལས་དོན་ཁུལ་ཡོངས་ལ་འཇོག་དགོས།(_P)"
@@ -1550,16 +1556,16 @@ msgid "_Start timer"
 msgstr "འགོ་སློང་དུས་ཆད་ཆས།(_S)"
 
 msgid "_Temperature unit:"
-msgstr "དྲོད་ཚད་སྡེ་ཚན།(_T)："
+msgstr "དྲོད་ཚད་ཀྱི་སྡེ་ཚན།(_T)："
 
 msgid "_Ticker symbol: "
 msgstr "རྐང་དངུལ་འཛིན་ལོར་གྱི་ཉོ་ཚོང་གནས་ཚུལ་རང་འགུལ་སྡུད་ཆས་ཀྱི་རྟགས།(_T)："
 
 msgid "_Title:"
-msgstr "ཁ་བྱང་། (_T)："
+msgstr "ཁ་བྱང་།(_T)：\""
 
 msgid "_Update"
-msgstr "གསར་སྒྱུར།(_U)"
+msgstr "གསར་སྒྱུར། (_U)"
 
 msgid "_Used"
 msgstr "སྤྱད་ཚར།(_U)"
@@ -1568,7 +1574,7 @@ msgid "_User"
 msgstr "སྤྱོད་མཁན།(_U)"
 
 msgid "_Visibility unit:"
-msgstr "མཐོང་ཚད་སྡེ་ཚན།(_V)："
+msgstr "མཐོང་ཚད་ཀྱི་སྡེ་ཚན།(_V)："
 
 msgid "_Visit Weather.com"
 msgstr "Weather.com(V）མིག་བཤེར།(_V)"
@@ -1577,16 +1583,16 @@ msgid "_Warn when battery charge drops to:"
 msgstr "གློག་རྫས་ཀྱི་གློག་ཚད་མར་ཆག་ན་ཐ་ཚིག་སྒྲོག་པ།(_W)："
 
 msgid "_Width:"
-msgstr "ཞེང་ཚད།(_W)："
+msgstr "ཞེང་ཚད་(_W)："
 
 msgid "_Wind speed unit:"
-msgstr "རླུང་གི་མྱུར་ཚད་སྡེ་ཚན།(_W)："
+msgstr "རླུང་གི་མྱུར་ཚད་ཀྱི་སྡེ་ཚན།(_W)："
 
 msgid "_Write"
 msgstr "འབྲི་བ།(_W)"
 
 msgid "a"
-msgstr "a"
+msgstr "\"a\""
 
 msgid "atm"
 msgstr "རླུང་གནོན་ཆེན་པོ།"
@@ -1596,8 +1602,8 @@ msgstr "བརྒྱ་ཕ།"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] "ཆུ་ཚོད།"
-msgstr[1] "ཆུ་ཚོད།"
+msgstr[0] "དུས་ཚོད།"
+msgstr[1] "དུས་ཚོད།"
 
 msgid "inHg"
 msgstr ""

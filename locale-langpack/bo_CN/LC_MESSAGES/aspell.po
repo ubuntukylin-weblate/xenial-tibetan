@@ -55,7 +55,7 @@ msgid " does not take any parameters."
 msgstr "ཞུགས་གྲངས་གང་རུང་འཁྱེར་མི་དགོས།"
 
 msgid "\"%mode:1\" error"
-msgstr ""
+msgstr "“%mode:1”ནོར་འཁྲུལ།"
 
 msgid "# default: "
 msgstr "# སོར་བཞག "
@@ -73,7 +73,7 @@ msgid "Abort"
 msgstr "དོར་བ།"
 
 msgid "Add"
-msgstr "གསར་བཟོ།"
+msgstr "རྩིག་ཤོག་ཁ་སྣོན།"
 
 msgid "Are you sure you want to abort (y/n)? "
 msgstr "ཁྱེད་ཀྱི་མཚམས་འཇོག་པ་གཏན་འཁེལ་ལམ།(y/n)？ "
@@ -82,31 +82,33 @@ msgid "Aspell version does not match mode's requirement."
 msgstr "Aspell པར་གཞི་དང་རྣམ་པའི་རེ་འདུན་མི་ཚིམ།"
 
 msgid "Could not open the file \"%s\" for reading"
-msgstr ""
+msgstr "ཡིག་ཆ་“%s”ཡི་ཀློག་པ་ཁ་འབྱེད་མི་ཐུབ།"
 
 msgid "Could not open the file \"%s\" for writing. File not saved."
-msgstr ""
+msgstr "ཡིག་ཆ་“%s”ཁ་ཕྱེ་ནས་ཡིག་ཆ་འབྲི་མི་ཐུབ། ཡིག་ཆ་ཉར་མེད།"
 
 msgid "Error: "
-msgstr "ནོར་འཁྲུལ། "
+msgstr "ནོར་འཁྲུལ།："
 
 msgid "Error: %s\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།：%s\n"
 
 msgid "Error: You must specify at least %d parameters for \"%s\".\n"
 msgstr ""
+"ནོར་འཁྲུལ། "
+"ཁྱེད་ཀྱིས་ངེས་པར་དུ་“%2$s”ལ་མ་མཐའ་ཡང་ཞུགས་གྲངས་“%1$d”སྤྲོད་དགོས།\n"
 
 msgid "Exit"
-msgstr "ཕྱིར་འདོན།"
+msgstr " ཕྱིར་འབུད།"
 
 msgid "Ignore"
-msgstr "སྣང་མེད།"
+msgstr "སྣང་མེད་དུ་བཞག"
 
 msgid "Ignore all"
-msgstr "ཚང་མ་སྣང་མེད།"
+msgstr "ཚང་མ་སྣང་མེད་དུ་བཞག"
 
 msgid "Invalid Input"
-msgstr "ནང་བཅུག་ནུས་མེད།"
+msgstr "ནུས་མེད་ནང་འཇུག"
 
 msgid "Invalid Option: %s"
 msgstr "ནུས་མེད་འདེམས་ཚན %s"
@@ -124,58 +126,58 @@ msgid "Replace"
 msgstr "བརྗེ་བ།"
 
 msgid "Replace all"
-msgstr "ཚང་མ་བརྗེ་བ།"
+msgstr "ཚང་མ་ཚབ་བརྗེ།"
 
 msgid "Sorry that is an invalid choice!"
 msgstr "དགོངས་པ་མ་ཚོམ། བདམས་པ་འདི་ནུས་མེད།"
 
 msgid "Suggestion Time: %f\n"
-msgstr ""
+msgstr "བློ་འདོན་གྱི་དུས་ཚོད།%f\n"
 
 msgid "The condition \"%cond:1\" is invalid."
-msgstr ""
+msgstr "ཆ་རྐྱེན་“%cond:1”ནུས་མེད།"
 
 msgid "The conversion from \"%encod:1\" to \"%encod2:2\" is not supported."
-msgstr ""
+msgstr "“%encod:1”ལས་“%encod2:2”ལ་སྒྱུར་བར་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "The directory \"%dir:1\" can not be opened for reading."
-msgstr ""
+msgstr "ཡིག་ཆ་“%dir:1”ཁ་འབྱེད་ནས་ཀློག་མི་ཐུབ།"
 
 msgid "The encoding \"%encod:1\" is not known."
-msgstr ""
+msgstr "སྒྲིག་ཨང་“%encod:1”མི་ཤེས།"
 
 msgid "The encoding \"%encod:1\" is not supported."
-msgstr ""
+msgstr "སྒྲིག་ཨང་“%encod:1”རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "The file \"%file:1\" can not be opened"
-msgstr ""
+msgstr "ཡིག་ཆ་“%file:1”ཁ་འབྱེད་མི་ཐུབ།"
 
 msgid "The file \"%file:1\" can not be opened for reading."
-msgstr ""
+msgstr "ཡིག་ཆ་“%file:1”ཁ་ཕྱེ་ནས་ཀློག་མི་ཐུབ།"
 
 msgid "The file \"%file:1\" can not be opened for writing."
-msgstr ""
+msgstr "ཡིག་ཆ་“%file:1”ཁ་ཕྱེ་ནས་འབྲི་མི་ཐུབ།"
 
 msgid "The file \"%file:1\" is not in the proper format."
-msgstr ""
+msgstr "ཡིག་ཆ་“%file:1”ཡི་རྣམ་གཞག་མི་འགྲིག"
 
 msgid "The file name \"%file:1\" is invalid."
-msgstr ""
+msgstr "ཡིག་ཆ་“%file:1”ནུས་མེད།"
 
 msgid "The language \"%lang:1\" is not known."
-msgstr ""
+msgstr "སྐད་བརྡ་“%lang:1”མི་ཤེས།"
 
 msgid "The language \"%lang:1\" is not supported."
-msgstr ""
+msgstr "སྐད་བརྡ་“%lang:1”རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "The method \"%what:1\" is unimplemented in \"%where:2\"."
-msgstr ""
+msgstr "བྱེད་ཐབས་“%what:1”ནི་“%where:2”རུ་མངོན་འགྱུར་བྱས་མེད།"
 
 msgid "The string \"%str:1\" is invalid."
-msgstr ""
+msgstr "ཡིག་རྟགས་ཕྲེང་“%str:1”ནུས་མེད།"
 
 msgid "The word \"%word:1\" is invalid."
-msgstr ""
+msgstr "ཐ་སྙད“%word:1”ནུས་མེད།"
 
 msgid "Unhandled Error: "
 msgstr "སྒྲིག་གཅོད་བྱེད་མི་ཐུབ་པའི་ནོར་འཁྲུལ། "
@@ -184,19 +186,19 @@ msgid "Unknown Action: %s"
 msgstr "མི་ཤེས་བཀོལ་སྤྱོད་%s"
 
 msgid "Unknown mode: \"%mode:1\"."
-msgstr ""
+msgstr "མི་ཤེས་རྣམ་པ་“%mode:1”"
 
 msgid "Usage: aspell [options] <command>"
 msgstr "སྤྱོད་སྟངས། aspell [འདེམས་ཚན་] <བཀའ་བརྡ་>"
 
 msgid "WARNING: Unable to enter Nroff mode: %s\n"
-msgstr ""
+msgstr "ཐ་ཚིག  Nroff རྣམ་པ་འཇུག་མི་ཐུབ། %s\n"
 
 msgid "You must specify a file name."
 msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་ཡིག་ཆ་མིང་གཅིག་གཏན་འཁེལ་བྱ་དགོས།"
 
 msgid "You must specify a parameter for \"%s\"."
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་“%s”ལ་ཞུགས་གྲངས་གཅིག་གཏན་འཁེལ་བྱ་དགོས།"
 
 msgid "You must specify an action"
 msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་བཀོལ་སྤྱོད་ཅིག་གཏན་འཁེལ་བྱ་དགོས།"
@@ -226,16 +228,16 @@ msgid "check if words are valid"
 msgstr "ཐ་སྙད་ལ་ནུས་ཡོད་མེད་ཞིབ་བཤེར།"
 
 msgid "create a backup file by appending \".bak\""
-msgstr ""
+msgstr "ཞོར་འབྲེལ་“.bak”ཡོད་པའི་གྲབས་ཉར་ཡིག་ཆ་གསར་བཟོ།"
 
 msgid "create dictionary aliases"
 msgstr "དཀར་ཆག་མིང་གཞན་གསར་བཟོ།"
 
 msgid "dlopen returned \"%return:1\"."
-msgstr ""
+msgstr "dlopen ཡིས་“%return:1”ཕྱིར་ལོག"
 
 msgid "either \"true\" or \"false\""
-msgstr ""
+msgstr "“true”ཡང་ན་“false”"
 
 msgid "enable warnings"
 msgstr "ཐ་ཚིག་རུང་བ། "
@@ -265,13 +267,13 @@ msgid "ignore words <= n chars"
 msgstr " <= n ཡི་ཡིག་རྟགས་ཀྱི་ཚིག་སྣང་མེད་གཏོང་།"
 
 msgid "in the form \"<name> <value>\""
-msgstr ""
+msgstr "“<མིང་> <ཚད>”ཡི་རྣམ་པ་བྱེད།"
 
 msgid "integer"
 msgstr "ཧྲིལ་གྲངས།"
 
 msgid "language code"
-msgstr "སྐད་བརྡ་ཚབ་ཨང་།"
+msgstr "སྐད་བརྡའི་ཚབ་ཨང་།"
 
 msgid "list"
 msgstr "རེའུ་མིག"
@@ -295,7 +297,7 @@ msgid "mode for checking C++ comments and string literals"
 msgstr "C++མཆན་འགྲེལ་དང་ཡིག་རྟགས་ཕྲེང་རྣམ་པར་ཞིབ་བཤེར།"
 
 msgid "no longer used"
-msgstr "བེད་སྤྱོད་མི་བྱེད།"
+msgstr "བེད་སྤྱོད་མི་བྱེད་པ།"
 
 msgid "not a version number"
 msgstr "པར་གཞི་མ་རེད།"

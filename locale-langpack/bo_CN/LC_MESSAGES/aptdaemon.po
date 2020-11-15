@@ -104,13 +104,13 @@ msgid "Applied changes"
 msgstr "ཉེར་སྤྱོད་ཀྱི་བཅོས་བསྒྱུར།"
 
 msgid "Applying changes"
-msgstr "བཅོས་སྒྱུར་ཉེར་སྤྱོད་བྱེད་པ།"
+msgstr "བཟོ་བཅོས་ཉེར་སྤྱོད་བྱེད་བཞིན་པ།"
 
 msgid "Applying software changes failed"
 msgstr "ཉེར་སྤྱོད་སྒྱུར་པ་ཕམ་པ།"
 
 msgid "Authentication failed"
-msgstr "ར་སྤྲོད་ཕམ་པ། "
+msgstr "ར་སྤྲོད་ཕམ་པ།"
 
 msgid "Available packages from %s"
 msgstr " %sལས་མཉེན་ཆས་ཐུབ་ཐོབ་པ།"
@@ -131,10 +131,10 @@ msgid "Cancel the task of another user"
 msgstr "སྤྱོད་མཁན་གཞན་ཞིག་གི་ལས་འགན་ལེན་པ།"
 
 msgid "Canceled"
-msgstr "ལེན་པ།མེད་པར་བཟོ་བ།"
+msgstr " དོར་བ།"
 
 msgid "Cancelling"
-msgstr "ལེན་བཞིན་པ།"
+msgstr "དོར་བཞིན་པ།"
 
 msgid "Change software configuration"
 msgstr "མཉེན་ཆས་སྒྲིག་འགོད་བཅོས་པ།"
@@ -162,7 +162,7 @@ msgid "Check your Internet connection."
 msgstr "ཁྱེད་ཀྱི་དྲ་བའི་འབྲེལ་མཐུད་ལ་ཞིབ་བཤེར་བྱོས།"
 
 msgid "Cleaning up"
-msgstr "གཙང་བཤེར་བྱེད་བཞིན་པ།"
+msgstr "གཙང་བཤེར་བྱེད་པ།"
 
 msgid "Completely removed %s"
 msgstr "%sབསུབས་པ།"
@@ -183,7 +183,7 @@ msgid "Description signature of %s"
 msgstr "%sཡི་ཞིབ་བརྗོད་མཚན་ཐོ།"
 
 msgid "Details"
-msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
 
 msgid "Do not attach to the apt terminal"
 msgstr " མཐའ་སྣེ་apt རུ་ཟུར་སྣོན་བྱེད།"
@@ -201,7 +201,7 @@ msgid "Do you want to continue [Y/n]?"
 msgstr "ཁྱེད་ཀྱིས་མུ་མཐུད་བྱེད་དགོས་སམ། [Y/n]"
 
 msgid "Done"
-msgstr "ལེགས་འགྲུབ།"
+msgstr "ལེགས་གྲུབ།"
 
 msgid "Downgrade"
 msgstr "རིམ་འབེབས།"
@@ -210,7 +210,7 @@ msgid "Downgrade the given packages"
 msgstr "མིག་སྔའི་མཉེན་ཆས་དུམ་རིམ་འབེབས།"
 
 msgid "Downloaded"
-msgstr "ཕབ་པ།"
+msgstr "ཕབ་ལེན་བྱས་ཟིན།"
 
 msgid "Downloaded %(cur)sB of %(total)sB"
 msgstr "%(total)sBཕབ་ཟིན་སྤྱིར་%(cur)sBལས།"
@@ -241,10 +241,10 @@ msgstr[0] " %sལས་འབེབས་པ།"
 msgstr[1] " %sལས་འབེབས་པ།"
 
 msgid "ERROR"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "ERROR:"
-msgstr "ནོར་འཁྲུལ།"
+msgstr "ནོར་འཁྲུལ།："
 
 msgid "Enabled component of the distribution"
 msgstr "འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་བཀོལ་བ།"
@@ -256,7 +256,7 @@ msgid "Enabling component of the distribution failed"
 msgstr "འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་བཀོལ་བ་ཕམ་པ།"
 
 msgid "Failed"
-msgstr "ཕམ་པ།"
+msgstr " ཕམ་པ།"
 
 msgid ""
 "Failed to download and install the key %s from %s:\n"
@@ -294,7 +294,7 @@ msgid "File"
 msgstr "ཡིག་ཆ།"
 
 msgid "Finished"
-msgstr "ལེགས་འགྲུབ་པ།"
+msgstr "ལེགས་གྲུབ།"
 
 msgid "Idle"
 msgstr "ཁོམ་པ།"
@@ -313,7 +313,7 @@ msgid "Install or remove packages"
 msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་ཡང་ན་བཤིག་འདོན།"
 
 msgid "Install package file"
-msgstr "མཉེན་ཆས་ཐུམ་ཡིག་ཆ་སྒྲིག་འཇུག་བྱེད་པ།"
+msgstr "མཉེན་ཆས་ཐུམ་བུའི་ཡིག་ཆ་སྒྲིག་འཇུག་བྱེད་དམ།"
 
 msgid "Install software from a high-trust whitelisted repository."
 msgstr "ཡིད་ཤིན་ཏུ་ཆེས་པའི་མིང་དཀར་མཉེན་ཆས་མཛོད་ལས་མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད།"
@@ -337,13 +337,13 @@ msgid "Installed packages"
 msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱས་ཟིན།"
 
 msgid "Installing %s"
-msgstr "%sསྒྲིག་འཇུག་པ།"
+msgstr "སྒྲིག་འཇུག་བྱེད་བཞིན་པ %s"
 
 msgid "Installing file"
 msgstr "ཡིག་ཆ་སྒྲིག་འཇུག་བྱེད་པ།"
 
 msgid "Installing packages"
-msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱེད་པ།"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱེད་བཞིན་པ།"
 
 msgid "Invalid key id: %s"
 msgstr "ནུས་མེད་ཀྱི་གསང་ལྡེ་ ID：%s"
@@ -459,7 +459,7 @@ msgid "Processing %s"
 msgstr "%sཐག་གཅོད་བྱེད་པ།"
 
 msgid "Purge"
-msgstr "གཙང་བཤེར།"
+msgstr "གཙང་སེལ།"
 
 msgid "Querying software sources"
 msgstr "མཉེན་ཆས་ཁུངས་འཚོལ་བ།"
@@ -496,7 +496,7 @@ msgid "Reinstall the given packages"
 msgstr "བྱིན་པའི་མཉེན་ཆས་ཐུམ་བསྐྱར་སྒྲིག"
 
 msgid "Remove"
-msgstr "སྤོ་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "Remove downloaded package files"
 msgstr "ཕབ་པའི་མཉེན་ཆས་ཐུམ་འདོར་བ།"
@@ -532,7 +532,7 @@ msgid "Removing downloaded package files failed"
 msgstr "ཕབ་པའི་མཉེན་ཆས་ཐུམ་ཡིག་ཆ་འདོར་མི་ཐུབ།"
 
 msgid "Removing packages"
-msgstr "མཉེན་ཆས་ཐུམ་འདོར་བ།"
+msgstr "མཉེན་ཆས་ཐུམ་སུབ་བཞིན་པ།"
 
 msgid "Removing software failed"
 msgstr "མཉེན་ཆས་འདོར་བ་ཕམ་པ།"
@@ -570,7 +570,7 @@ msgid "Requires installation of untrusted packages"
 msgstr "ཡིད་རྟོན་མིན་པའི་མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱ་དགོས་སམ།"
 
 msgid "Resolving dependencies"
-msgstr "བརྟེན་བྱར་དབྱེ་ཞིབ་བྱེད་བཞིན་པ།"
+msgstr "བརྟེན་འབྲེལ་ཐག་གཅོད་པ།"
 
 msgid "Running post-installation trigger %s"
 msgstr "འཁོར་སྐྱོད་སྒྲིག་འཇུག་བྱས་རྗེས་ཀྱི་འཕྲད་འབྱུང་ཆས %s"
@@ -585,7 +585,7 @@ msgid "Search failed"
 msgstr "འཚོལ་བཤེར་ཕམ་པ།"
 
 msgid "Searching"
-msgstr "འཚོལ་བཤེར་པ།"
+msgstr "བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
 
 msgid "Set a proxy for software downloads"
 msgstr "མཉེན་ཆས་ཕབ་པ་ལ་ལས་ཚབ་ཞབས་ཞུ་ཆས་བཀོད་སྒྲིག་བྱེད།"
@@ -664,7 +664,7 @@ msgstr[0] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་རིམ
 msgstr[1] "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་རིམ་སྤེལ་བྱ་བ།(%(count)s )："
 
 msgid "The following packages have unmet dependencies:"
-msgstr ""
+msgstr "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་མི་ཚིམ་པའི་བརྟེན་འབྲེལ།："
 
 msgid "The former version %s of %s is already installed"
 msgstr "已经སྒྲིག་འཇུག་更早的 %s པར་གཞི་的 %s"
@@ -887,13 +887,13 @@ msgid "Updating cache"
 msgstr "ལྷོད་གསོག་གསར་སྒྱུར་བྱེད་པ།"
 
 msgid "Updating packages"
-msgstr "གསར་སྒྱུར་མཉེན་ཆས་ཁུག་མ།"
+msgstr "མཉེན་ཆས་ཐུམ་རིམ་སྤེལ་བ།"
 
 msgid "Updating software failed"
 msgstr "མཉེན་ཆས་གསར་སྒྱུར་ཕམ་པ།"
 
 msgid "Upgrade"
-msgstr "རིམ་སྤེལ།"
+msgstr "རིམ་སྤར།"
 
 msgid "Upgrade packages"
 msgstr "མཉེན་ཆས་ཐུམ་རིམ་སྤེལ།"
@@ -920,13 +920,13 @@ msgid "Use the given keyserver for looking up keys"
 msgstr "གཏན་འཁེལ་གྱི་གསང་ལྡེ་ཞབས་ཞུ་ཆས་ཀྱིས་གསང་ལྡེ་འཚོལ་བ།"
 
 msgid "Waiting"
-msgstr "སྒུག་པ།"
+msgstr "སྒུག་བཞིན་པ།"
 
 msgid "Waiting for %s to exit"
 msgstr " %sའདོན་པ་སྒུག出"
 
 msgid "Waiting for authentication"
-msgstr "ར་སྤྲོད་སྒུག་བཞིན་པ།"
+msgstr "ར་སྤྲོད་སྒུག"
 
 msgid "Waiting for configuration file prompt"
 msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་འབོད་པ་སྒུག"
@@ -973,25 +973,25 @@ msgid "_Details"
 msgstr "ཞིབ་ཕྲ།(_D)"
 
 msgid "_Keep"
-msgstr "སྔར་རྣམ་སྲུང་བ།(_K)"
+msgstr "རྣམ་པ་སྔོན་མ་ལྟར་འཇོག་པ།(_K)"
 
 msgid "_Replace"
-msgstr "ཚབ་བརྗེ།(_R)"
+msgstr " ཚབ་བརྗེ།(_R)"
 
 msgid "but %s is installed"
 msgstr "འོན་ཀྱང་%s སྒྲིག་འཇུག་བྱས་ཟིན།"
 
 msgid "but %s is to be installed"
-msgstr ""
+msgstr "འོན་ཀྱང་%sསྒྲིག་སྦྱོར་བྱ་བ།"
 
 msgid "but it is a virtual package"
 msgstr "འོན་ཀྱང་དེ་ནི་རྟོག་བཟོའི་མཉེན་ཆས་ཐུམ་ཡིན།"
 
 msgid "but it is not going to be installed"
-msgstr ""
+msgstr "འོན་ཀྱང་%sསྒྲིག་སྦྱོར་བྱེད་ཐབས་མེད།"
 
 msgid "but it is not installed"
-msgstr ""
+msgstr "འོན་ཀྱང་%s སྒྲིག་འཇུག་བྱས་མེད།"
 
 msgid "local repository"
 msgstr "རང་གནས་མཉེན་ཆས་མཛོད།"

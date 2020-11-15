@@ -1314,7 +1314,7 @@ msgid "%s has unusable, apparently negative size"
 msgstr ""
 
 msgid "%s home page: <%s>\n"
-msgstr ""
+msgstr " %s ཡི་གཙོ་ངོས།：<%s>\n"
 
 msgid "%s home page: <http://www.gnu.org/software/%s/>\n"
 msgstr ""
@@ -1479,7 +1479,7 @@ msgid "%s: invalid file type"
 msgstr ""
 
 msgid "%s: invalid option -- '%c'\n"
-msgstr ""
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
 
 msgid "%s: invalid pattern"
 msgstr ""
@@ -1521,28 +1521,28 @@ msgid "%s: number of bytes is too large"
 msgstr ""
 
 msgid "%s: option '%c%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '%s' is ambiguous\n"
 msgstr ""
 
 msgid "%s: option '--%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '--%s' requires an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
 
 msgid "%s: option '-W %s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
 
 msgid "%s: option '-W %s' is ambiguous\n"
 msgstr ""
 
 msgid "%s: option '-W %s' requires an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
 
 msgid "%s: option requires an argument -- '%c'\n"
-msgstr ""
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
 
 msgid "%s: overwrite %s? "
 msgstr ""
@@ -1593,10 +1593,10 @@ msgid "%s: unary operator expected"
 msgstr ""
 
 msgid "%s: unrecognized option '%c%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
 
 msgid "%s: unrecognized option '--%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
 
 msgid "%s: unwritable %s (mode %04lo, %s); try anyway? "
 msgstr ""
@@ -1684,7 +1684,7 @@ msgid "?????"
 msgstr ""
 
 msgid "Aborted"
-msgstr "མཚམས་བཞག་པ།"
+msgstr "མཚམས་བཞག་ཟིན།"
 
 msgid ""
 "Access: %x\n"
@@ -1700,7 +1700,7 @@ msgid "Address family for hostname not supported"
 msgstr ""
 
 msgid "Alarm clock"
-msgstr ""
+msgstr "ཅོང་བརྡ།"
 
 msgid "All requests done"
 msgstr ""
@@ -1715,7 +1715,7 @@ msgid "Avail"
 msgstr "སྤྱོད་རུང་།"
 
 msgid "Available"
-msgstr "སྤྱོད་རུང་།"
+msgstr "ཁོམ་པ།"
 
 msgid "Bad system call"
 msgstr ""
@@ -1742,7 +1742,7 @@ msgid ""
 msgstr ""
 
 msgid "COMMENT"
-msgstr "མཆན་འགྲེལ།"
+msgstr "ཟུར་མཆན།"
 
 msgid "CPU time limit exceeded"
 msgstr ""
@@ -1818,7 +1818,7 @@ msgid "EMT trap"
 msgstr ""
 
 msgid "EXIT"
-msgstr "ཕྱིར་འདོན།"
+msgstr " ཕྱིར་འབུད།"
 
 msgid ""
 "Echo the STRING(s) to standard output.\n"
@@ -1844,7 +1844,7 @@ msgid "F. Pinard"
 msgstr ""
 
 msgid "FAILED"
-msgstr "ཕམ་པ།"
+msgstr " ཕམ་པ།"
 
 msgid "FIXME: unknown"
 msgstr ""
@@ -1935,7 +1935,7 @@ msgid "Inodes"
 msgstr "\"Inode\""
 
 msgid "Interrupt"
-msgstr "བར་གཅོད།"
+msgstr "བར་བཅད།"
 
 msgid "Interrupted by a signal"
 msgstr ""
@@ -2028,10 +2028,10 @@ msgid "Mounted on"
 msgstr "འགེལ་གནས།"
 
 msgid "NAME"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name or service not known"
 msgstr ""
@@ -2049,7 +2049,7 @@ msgid "Non-recoverable failure in name resolution"
 msgstr ""
 
 msgid "OK"
-msgstr "གཏན་འཁེལ"
+msgstr " གཏན་འཁེལ།"
 
 msgid "Only one string may be given when deleting without squeezing repeats."
 msgstr ""
@@ -2208,7 +2208,7 @@ msgid "Q. Frank Xia"
 msgstr ""
 
 msgid "Quit"
-msgstr "ཕྱིར་འདོན་པ།"
+msgstr " ཕྱིར་འབུད།"
 
 msgid "Randy Smith"
 msgstr ""
@@ -2304,7 +2304,7 @@ msgid "Start COMMAND, and kill it if still running after DURATION.\n"
 msgstr ""
 
 msgid "Stopped"
-msgstr "མཚམས་བཞག"
+msgstr "མཚམས་བཞག་ཟིན།"
 
 msgid "Stopped (signal)"
 msgstr ""
@@ -2352,13 +2352,13 @@ msgid "Two strings must be given when translating."
 msgstr ""
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "Ulrich Drepper"
 msgstr "Ulrich Drepper"
 
 msgid "Unknown error"
-msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+msgstr "གསང་ཨང་རྙོག་འཛིང་ཚད་བླང་བྱ་དང་མི་མཐུན་པ།"
 
 msgid "Unknown signal %d"
 msgstr ""
@@ -2382,7 +2382,7 @@ msgid "Urgent I/O condition"
 msgstr ""
 
 msgid "Usage: %s\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས།：%s\n"
 
 msgid ""
 "Usage: %s COMMAND [ARG]...\n"
@@ -2491,10 +2491,10 @@ msgid "Usage: %s [OPTION] [COMMAND [ARG]...]\n"
 msgstr ""
 
 msgid "Usage: %s [OPTION] [FILE]...\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས %s [འདེམས་ཚན][ཡིག་ཆ] \n"
 
 msgid "Usage: %s [OPTION]...\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས།： %s [འདེམས་ཚན་]...\n"
 
 msgid ""
 "Usage: %s [OPTION]... CONTEXT FILE...\n"
@@ -2512,7 +2512,7 @@ msgid "Usage: %s [OPTION]... FILE...\n"
 msgstr ""
 
 msgid "Usage: %s [OPTION]... FILE1 FILE2\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས།：%s [འདེམས་ཚན།]... ཡིག་ཆ་1 ཡིག་ཆ་2\n"
 
 msgid ""
 "Usage: %s [OPTION]... GROUP FILE...\n"
@@ -3178,7 +3178,7 @@ msgid "delimiter list ends with an unescaped backslash: %s"
 msgstr ""
 
 msgid "directory"
-msgstr "དཀར་ཆག"
+msgstr " དཀར་ཆག"
 
 msgid "division by zero"
 msgstr ""
@@ -3319,7 +3319,7 @@ msgid "failed to redirect standard error"
 msgstr ""
 
 msgid "failed to remove %s"
-msgstr " %sའདོར་མི་ཐུབ།"
+msgstr "%s བསུབ་ཐབས་མེད།"
 
 msgid "failed to remove directory %s"
 msgstr ""
@@ -3932,7 +3932,7 @@ msgid "page width too narrow"
 msgstr ""
 
 msgid "port"
-msgstr "མཐུད་ཁ།"
+msgstr " སྣེ་ཁ།"
 
 msgid "preserving permissions for %s"
 msgstr " %sཡི་དབང་ཚད་ཉར་བཞིན་པ།"
@@ -4004,7 +4004,7 @@ msgid "skipping file %s, as it was replaced while being copied"
 msgstr ""
 
 msgid "socket"
-msgstr "འབྲེལ་འཛུགས་ཡི་གེ"
+msgstr " འབྲེལ་འཛུགས་ཡི་གེ"
 
 msgid "standard error"
 msgstr "ཚད་ལྡན་གྱི་ནོར་འཁྲུལ།"
@@ -4048,7 +4048,7 @@ msgid ""
 msgstr ""
 
 msgid "symbolic link"
-msgstr "མཚོན་རྟགས་སྦྲེལ་མཐུད།"
+msgstr " མཚོན་རྟགས་སྦྲེལ་མཐུད།"
 
 msgid "syntax error"
 msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
@@ -4317,7 +4317,7 @@ msgid "with --suffix, template %s must end in X"
 msgstr ""
 
 msgid "write error"
-msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+msgstr " འབྲི་འཇུག་ནོར་འཁྲུལ།"
 
 msgid "write error for %s"
 msgstr ""

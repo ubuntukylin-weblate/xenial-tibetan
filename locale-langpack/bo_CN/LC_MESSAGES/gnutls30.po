@@ -14,34 +14,38 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "\t\t\tASCII: "
-msgstr ""
+msgstr "\t\t\tASCII："
 
 msgid "\t\t\tAuthentication.\n"
-msgstr ""
+msgstr "\t\t\tར་སྤྲོད། \n"
 
 msgid "\t\t\tCertificate signing.\n"
 msgstr ""
+"\t\t\tར་སྤྲོད་མིང་འགོད། \n"
+"\""
 
 msgid "\t\t\tCommunications encipherment.\n"
-msgstr ""
+msgstr "\t\t\tའཕྲིན་བརྡ་གསང་སྡོམ། \n"
 
 msgid "\t\t\tDigital signatures.\n"
 msgstr ""
+"\t\t\tཨང་ཀིས་མིང་འགོད། \n"
+"\""
 
 msgid "\t\t\tHexdump: "
-msgstr ""
+msgstr "\t\t\tབཅུ་དྲུག་གོང་འགྲིལ་ལུགས་ཀྱི་སྤོར་གསོག"
 
 msgid "\t\t\tNot After: %s\n"
-msgstr ""
+msgstr "\t\t\tལས་མི་འཕྱི་བ།  %s\n"
 
 msgid "\t\t\tNot Before: %s\n"
-msgstr ""
+msgstr "\t\t\tལས་མི་སྔ་བ།   %s\n"
 
 msgid "\t\t\tPath Length Constraint: %d\n"
-msgstr ""
+msgstr "\t\t\tའགྲོ་ལམ་རིང་ཚད་རྒྱུན་གྲངས། %d\n"
 
 msgid "\t\t\tPolicy Language: %s"
-msgstr ""
+msgstr "\t\t\tཐབས་ཇུས་སྐད་བརྡ། %s"
 
 msgid ""
 "\t\t\tPolicy:\n"
@@ -49,199 +53,199 @@ msgid ""
 msgstr ""
 
 msgid "\t\t\tStorage data encipherment.\n"
-msgstr ""
+msgstr "\t\t\tགསོག་འཇོག་གཞི་གྲངས་གསང་སྡོམ། \n"
 
 msgid "\t\tAuthority Key Identifier (%s):\n"
-msgstr ""
+msgstr "\t\tདབང་སྐུར་གསང་ལྡེ་ངོས་འཛིན་ཆས（%s）：\n"
 
 msgid "\t\tCRL Number (%s): "
-msgstr ""
+msgstr "\t\tCRL ཨང་རྟགས།（%s）"
 
 msgid "\t\tChallenge password: %s\n"
-msgstr ""
+msgstr "\t\tའདྲི་རྩད་གསང་ཨང་། %s\n"
 
 msgid "\t\tCreation: %s\n"
-msgstr ""
+msgstr "\t\tགསར་དུ་བསྐྲུན། %s\n"
 
 msgid "\t\tCurve:\t%s\n"
-msgstr ""
+msgstr "\t\tའཁྱོག་ཐིག \t%s\n"
 
 msgid "\t\tExpiration: %s\n"
-msgstr ""
+msgstr "\t\tདུས་ཡོལ་བ། %s\n"
 
 msgid "\t\tExpiration: Never\n"
-msgstr ""
+msgstr "\t\tདུས་ཡོལ་བ།དུས་ཡོལ་གཏན་བྲལ།\n"
 
 msgid "\t\tExponent (bits %d):\n"
-msgstr ""
+msgstr "\t\tསྟོན་གྲངས།（གནས། %d）：\n"
 
 msgid "\t\tExponent (bits %d): "
-msgstr ""
+msgstr "\t\tསྟོན་གྲངས།（གནས། %d）"
 
 msgid "\t\tExponent:\n"
-msgstr ""
+msgstr "\t\tགསལ་བཤད། \n"
 
 msgid "\t\tG:\n"
-msgstr ""
+msgstr "\t\tG：\n"
 
 msgid "\t\tG: "
-msgstr ""
+msgstr "\t\tG："
 
 msgid "\t\tIssued: %s\n"
-msgstr ""
+msgstr "\t\tའགྲེམ་སྤེལ།%s\n"
 
 msgid "\t\tKey Usage:\n"
-msgstr ""
+msgstr "\t\tགསང་ལྡེ་སྤྱོད་སྟངས།\n"
 
 msgid "\t\tModulus (bits %d):\n"
-msgstr ""
+msgstr "\t\tདཔེ་དུམ།(གནས། %d)：\n"
 
 msgid "\t\tModulus (bits %d): "
-msgstr ""
+msgstr "\t\tསྨོ་གྲངས།（གནས། %d）"
 
 msgid "\t\tNext Update: %s\n"
-msgstr ""
+msgstr "\t\tརྗེས་མར་གསར་བསྒྱུར།%s\n"
 
 msgid "\t\tNext at: %s\n"
-msgstr ""
+msgstr "\t\tཐེངས་རྗེས་མའི་གནས%s\n"
 
 msgid "\t\tNot After: %s\n"
-msgstr ""
+msgstr "\t\tམི་འཕྱི་བ། %s\n"
 
 msgid "\t\tNot Before: %s\n"
-msgstr ""
+msgstr "\t\tམི་སྔ་བ། %s\n"
 
 msgid "\t\tP:\n"
-msgstr ""
+msgstr "\t\tP：\n"
 
 msgid "\t\tP: "
-msgstr ""
+msgstr "\t\tP："
 
 msgid "\t\tPublic key (bits %d):\n"
-msgstr ""
+msgstr "\t\tསྤྱི་ལྡེ།（གནས %d）：\n"
 
 msgid "\t\tPublic key (bits %d): "
-msgstr ""
+msgstr "\t\tསྤྱི་ལྡེ།（གནས %d）："
 
 msgid "\t\tQ:\n"
-msgstr ""
+msgstr "\t\tQ：\n"
 
 msgid "\t\tQ: "
-msgstr ""
+msgstr "\t\tQ："
 
 msgid "\t\tRevocation time: %s\n"
-msgstr ""
+msgstr "\t\tཕྱིར་བསྡུའི་དུས་ཚོད།：%s\n"
 
 msgid "\t\tRevoked at: %s\n"
-msgstr ""
+msgstr "\t\tཕྱིར་འཐེན།：%s\n"
 
 msgid "\t\tSerial Number (hex): "
-msgstr ""
+msgstr "\t\tརིམ་སྟར་ཨང་རྟགས།（hex）："
 
 msgid "\t\tThis Update: %s\n"
-msgstr ""
+msgstr "\t\tཐེངས་འདིའི་གསར་སྒྱུར། ：%s\n"
 
 msgid "\t\tUnknown attribute %s:\n"
-msgstr ""
+msgstr "\t\tངེས་མེད་ཀྱི་གཏོགས་གཤིས། %s：\n"
 
 msgid "\t\tUnknown extension %s (%s):\n"
-msgstr ""
+msgstr "\t\tངེས་མེད་ཀྱི་རྒྱ་སྐྱེད། %s（%s）：\n"
 
 msgid "\t\tX:\n"
-msgstr ""
+msgstr "\t\tX：\n"
 
 msgid "\t\tX: "
-msgstr ""
+msgstr "\t\tX："
 
 msgid "\t\tY:\n"
-msgstr ""
+msgstr "\t\tY：\n"
 
 msgid "\t\tY: "
-msgstr ""
+msgstr "\t\tY："
 
 msgid "\t%sPublic Key Algorithm: %s\n"
-msgstr ""
+msgstr "\t%sསྤྱི་ལྡེའི་རྩི་ཐབས།%s\n"
 
 msgid "\tAlgorithm Security Level: %s (%d bits)\n"
-msgstr ""
+msgstr "\tརྩི་ཐབས་ཀྱི་བདེ་འཇགས་རིགས་གྲས།%s（%dགནས། ）\n"
 
 msgid "\tAttributes:\n"
-msgstr ""
+msgstr "\tགཏོགས་གཤིས།：\n"
 
 msgid "\tExtensions:\n"
-msgstr ""
+msgstr "\tརྒྱ་སྐྱེད། \n"
 
 msgid "\tFingerprint (hex): "
-msgstr ""
+msgstr "\tམཛུབ་རིས།（hex）： "
 
 msgid "\tFingerprint's random art:\n"
-msgstr ""
+msgstr "\tམཛུབ་རིས་ལ་ཁ་གཏད་པའི་སྐབས་བསྟུན་བརྙན་རིས།：\n"
 
 msgid "\tID (hex): "
-msgstr ""
+msgstr "\tID（hex）："
 
 msgid "\tIssuer: %s\n"
-msgstr ""
+msgstr "\tའགྲེམ་སྤེལ་མཁན། ：%s\n"
 
 msgid "\tKey Security Level: %s\n"
-msgstr ""
+msgstr "\tགསང་ལྡེའི་བདེ་འཇགས་རིགས་གྲས། ：%s\n"
 
 msgid "\tName[%d]: %s\n"
-msgstr ""
+msgstr "\tམིང་།[%d]：%s\n"
 
 msgid "\tNo revoked certificates.\n"
-msgstr ""
+msgstr "\tཕྱིར་འཐེན་མ་བྱས་པའི་དཔང་ཡིག\n"
 
 msgid "\tProduced At: %s\n"
-msgstr ""
+msgstr "\t\tལ་ཐོན་སྐྱེད་བྱས། ：%s\n"
 
 msgid "\tPublic Key Algorithm: %s\n"
-msgstr ""
+msgstr "\tསྤྱི་ལྡེའི་རྩི་ཐབས། ：%s\n"
 
 msgid "\tPublic key's random art:\n"
 msgstr ""
 
 msgid "\tResponder ID: %.*s\n"
-msgstr ""
+msgstr "\tདང་ལེན་མཁན། ID：%.*s\n"
 
 msgid "\tRevoked Name[%d]: %s\n"
-msgstr ""
+msgstr "\tཕྱིར་བསྡུའི་མིང་།[%d]：%s\n"
 
 msgid "\tRevoked certificates (%d):\n"
-msgstr ""
+msgstr "\tཕྱིར་འཐེན་བྱས་པའི་དཔང་ཡིག（%d）：\n"
 
 msgid "\tRevoked: False\n"
-msgstr ""
+msgstr "\tཕྱིར་འཐེན་འདུག་གམ།： འཐེན་མི་འདུག\n"
 
 msgid "\tRevoked: True\n"
-msgstr ""
+msgstr "\tཕྱིར་འཐེན་འདུག་གམ། ：འཐེན་འདུག\n"
 
 msgid "\tSerial Number (hex): "
-msgstr ""
+msgstr "\tརིམ་སྟར་ཨང་གྲངས།（16གོང་འགྲིལ་ལུགས།）："
 
 msgid "\tSignature Algorithm: %s\n"
-msgstr ""
+msgstr "\tམིང་འགོད་རྩི་ཐབས།：%s\n"
 
 msgid "\tSignature:\n"
-msgstr ""
+msgstr "\tམིང་འགོད།：\n"
 
 msgid "\tSubject: %s\n"
-msgstr ""
+msgstr "\tབརྗོད་སྙིང་།：%s\n"
 
 msgid "\tTime stamps:\n"
-msgstr ""
+msgstr "\tདུས་ཐམ།：\n"
 
 msgid "\tUpdate dates:\n"
-msgstr ""
+msgstr "\tགསར་སྒྱུར་དུས་ཚོད།：\n"
 
 msgid "\tValidity:\n"
-msgstr ""
+msgstr "\tནུས་ལྡན་རང་བཞིན།：\n"
 
 msgid "\tVersion: %d\n"
-msgstr ""
+msgstr "\tཔར་གཞི།：%d\n"
 
 msgid "\tVersion: 1 (default)\n"
-msgstr ""
+msgstr "\tཔར་གཞི།1（སོར་བཞག）\n"
 
 msgid ""
 "\n"
@@ -259,115 +263,115 @@ msgid ""
 msgstr ""
 
 msgid "%s\t\t\tASCII: "
-msgstr ""
+msgstr "%s\t\t\tASCII："
 
 msgid "%s\t\t\tAny purpose.\n"
-msgstr ""
+msgstr "%s\t\t\tདམིགས་ཡུལ་གང་རུང་།\n"
 
 msgid "%s\t\t\tCertificate Authority (CA): FALSE\n"
-msgstr ""
+msgstr "%s\t\t\tདཔང་ཡིག་སྤྲོད་མཁན་སྒྲིག་གཞི（CA）：FALSE\n"
 
 msgid "%s\t\t\tCertificate Authority (CA): TRUE\n"
-msgstr ""
+msgstr "%s\t\t\\དཔང་ཡིག་སྤྲོད་མཁན་སྒྲིག་གཞི（CA）：TRUE\n"
 
 msgid "%s\t\t\tCode signing.\n"
-msgstr ""
+msgstr "%s\t\t\tཚབ་ཨང་མིང་འགོད། \n"
 
 msgid "%s\t\t\tEmail protection.\n"
-msgstr ""
+msgstr "%s\t\t\tEmail སྲུང་སྐྱོབ།\n"
 
 msgid "%s\t\t\tHexdump: "
-msgstr ""
+msgstr "%s\t\t\tབཅུ་དྲུག་གོང་འགྲིལ་ལུགས་སྤོར་གསོག"
 
 msgid "%s\t\t\tIpsec IKE.\n"
-msgstr ""
+msgstr "%s\t\t\tIpsec ནང་ཁུལ་གསང་ལྡེ་བརྗེ་བ།（IKE）\n"
 
 msgid "%s\t\t\tOCSP signing.\n"
-msgstr ""
+msgstr "%s\t\t\tOCSP མིང་འགོད།\n"
 
 msgid "%s\t\t\tPath Length Constraint: %d\n"
-msgstr ""
+msgstr "%s\t\t\t འགྲོ་ལམ་རིང་ཚད་ཚོད་འཛིན།%d\n"
 
 msgid "%s\t\t\tTLS WWW Client.\n"
-msgstr ""
+msgstr "%s\t\t\tTLS WWWམཁོ་མཁན་ཕྱོགས། \n"
 
 msgid "%s\t\t\tTLS WWW Server.\n"
-msgstr ""
+msgstr "%s\t\t\tTLS WWW ཞབས་ཞུ་ཆས།\n"
 
 msgid "%s\t\t\tTime stamping.\n"
-msgstr ""
+msgstr "%s\t\t\tདུས་ཐམ། \n"
 
 msgid "%s\t\t\totherName DER: "
-msgstr ""
+msgstr "%s\t\t\totherName ཁྱད་འབྱེད་སྒྲིག་ཨང་སྒྲིག་སྲོལ།（DER）"
 
 msgid "%s\t\t\totherName OID: %.*s\n"
-msgstr ""
+msgstr "%s\t\t\totherName བྱ་ཡུལ་ངོ་རྟགས།（OID）：%.*s\n"
 
 msgid "%s\t\tAuthority Information Access (%s):\n"
-msgstr ""
+msgstr "%s\t\tརྩོམ་པ་པོའི་ཆ་འཕྲིན་འཇུག་སྒོ།（%s）：\n"
 
 msgid "%s\t\tAuthority Key Identifier (%s):\n"
-msgstr ""
+msgstr "%s\t\tརྩོམ་པ་པོའི་གསང་ལྡེ་ངོ་རྟགས།（%s）：\n"
 
 msgid "%s\t\tBasic Constraints (%s):\n"
-msgstr ""
+msgstr "%s\t\tགཞི་རྩའི་ཚོད་འཛིན།（%s）：\n"
 
 msgid "%s\t\tCRL Distribution points (%s):\n"
-msgstr ""
+msgstr "%s\t\tCRL བགོ་འགྲེམ་གནས།（%s）：\n"
 
 msgid "%s\t\tIssuer Alternative Name (%s):\n"
-msgstr ""
+msgstr "%s\t\tའགྲེམ་སྤེལ་མཁན་གྱི་གྲབས་གཤོམ་མིང་།（%s）：\n"
 
 msgid "%s\t\tKey Purpose (%s):\n"
-msgstr ""
+msgstr "%s\t\tགསང་ལྡེའི་དམིགས་ཡུལ།（%s）：\n"
 
 msgid "%s\t\tKey Usage (%s):\n"
-msgstr ""
+msgstr "%s\t\tགསང་ལྡེའི་སྤྱོད་སྟངས།（%s）：\n"
 
 msgid "%s\t\tPrivate Key Usage Period (%s):\n"
-msgstr ""
+msgstr "%s\t\tགསང་ལྡེའི་སྤྱོད་ཡུན།（%s）：\n"
 
 msgid "%s\t\tProxy Certificate Information (%s):\n"
-msgstr ""
+msgstr "%s\t\tལས་ཚབ་དཔང་ཡིག་ཆ་འཕྲིན།(%s)：\n"
 
 msgid "%s\t\tSubject Alternative Name (%s):\n"
-msgstr ""
+msgstr "%s\t\tགཙོ་སྙིང་གྲབས་གཤོམ་མིང་།（%s）：\n"
 
 msgid "%s\t\tSubject Key Identifier (%s):\n"
-msgstr ""
+msgstr "%s\t\tགཙོ་སྙིང་གསང་ལྡེའི་ངོ་རྟགས།（%s）：\n"
 
 msgid "%s\t\tUnknown extension %s (%s):\n"
-msgstr ""
+msgstr "%s\t\tངེས་མེད་ཀྱི་རྒྱ་སྐྱེད། %s（%s）：\n"
 
 msgid "%s\tExtensions:\n"
-msgstr ""
+msgstr "%s\tརྒྱ་སྐྱེད། \n"
 
 msgid "%sCRL signing.\n"
-msgstr ""
+msgstr "%sCRL མིང་འགོད། \n"
 
 msgid "%sCertificate signing.\n"
-msgstr ""
+msgstr "%sདཔང་ཡིག་མིང་འགོད། \n"
 
 msgid "%sData encipherment.\n"
-msgstr ""
+msgstr "%sགཞི་གྲངས་གསང་སྡོམ། \n"
 
 msgid "%sDigital signature.\n"
-msgstr ""
+msgstr "%sཨང་ཀིས་མིང་འགོད། \n"
 
 msgid "%sKey agreement.\n"
-msgstr ""
+msgstr "%sགསང་ལྡེའི་གྲོས་ཆིངས།\n"
 
 msgid "%sKey decipher only.\n"
-msgstr ""
+msgstr "%sགསང་ལྡེ་ཁོ་ནས་གསང་འགྲོལ། \n"
 
 msgid "%sKey encipher only.\n"
-msgstr ""
+msgstr "%sགསང་ལྡེ་ཁོ་ནས་གསང་སྡོམ། \n"
 
 msgid "%sKey encipherment.\n"
-msgstr ""
+msgstr "%sགསང་ལྡེས་གསང་སྡོམ། \n"
 
 msgid "%sNon repudiation.\n"
-msgstr ""
+msgstr "%sཁས་མི་ལེན་ཐབས་བྲལ། \n"
 
 msgid "(unknown error code)"
 msgstr "（མི་ཤེས་པའི་ནོར་འཁྲུལ་ཚབ་ཨང་།）"
@@ -530,7 +534,7 @@ msgid "Decryption failed"
 msgstr "གསང་འགྲོལ་ཕམ་པ།"
 
 msgid "Decryption has failed."
-msgstr "གསང་འགྲོལ་ཕམ་པ། "
+msgstr "གསང་འགྲོལ་ཕམ་པ།"
 
 msgid "Encryption has failed."
 msgstr "གསང་སྡོམ་ཕམ་པ། "
@@ -608,7 +612,7 @@ msgid "Insufficient security"
 msgstr "བདེ་འཇགས་དེ་ཙམ་མིན་པ།"
 
 msgid "Internal error"
-msgstr "ནང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
 
 msgid "Internal error in memory allocation."
 msgstr "ནང་གསོག་བགོ་འགྲེམས་བྱེད་སྐབས་ནང་ཁུལ་གྱི་ནོར་འཁྲུལ་ཤོར་བ། "
@@ -653,19 +657,19 @@ msgid "No temporary RSA parameters were found."
 msgstr "RSAགནས་སྐབས་ཞུགས་གྲངས་མ་རྙེད། "
 
 msgid "OCSP Request Information:\n"
-msgstr ""
+msgstr "OCSPརེ་ཞུའི་ཆ་འཕྲིན།\n"
 
 msgid "OCSP Response Information:\n"
-msgstr ""
+msgstr "OCSPདང་ལེན་ཆ་འཕྲིན།\n"
 
 msgid "OpenPGP Certificate Information:\n"
-msgstr ""
+msgstr "OpenPGPདཔང་ཡིག་གི་ཆ་འཕྲིན།\n"
 
 msgid "Other Information:\n"
-msgstr ""
+msgstr "ཆ་འཕྲིན་གཞན་དག\n"
 
 msgid "PKCS #10 Certificate Request Information:\n"
-msgstr ""
+msgstr "PKCS #10 དཔང་ཡིག་རེ་ཞུའི་ཆ་འཕྲིན།\n"
 
 msgid "PKCS #11 PIN expired"
 msgstr "PKCS #11 PINདུས་ལས་ཡོལ་བ།"
@@ -719,10 +723,10 @@ msgid "Public Key ID: "
 msgstr "སྤྱི་ལྡེ་ID："
 
 msgid "Public Key Information:\n"
-msgstr ""
+msgstr "སྤྱི་ལྡེ་ཆ་འཕྲིན།：\n"
 
 msgid "Public Key Usage:\n"
-msgstr ""
+msgstr "སྤྱི་ལྡེ་སྤྱོད་སྟངས།：\n"
 
 msgid "Public key decryption has failed."
 msgstr "སྤྱི་ལྡེ་གསང་འགྲོལ་ཕམ་པ། "
@@ -755,7 +759,7 @@ msgid "Subject "
 msgstr "བརྗོད་སྙིང་།"
 
 msgid "Success."
-msgstr "ལེགས་གྲུབ། "
+msgstr "ལེགས་གྲུབ།"
 
 msgid "TLS Application data were received, while expecting handshake data."
 msgstr ""
@@ -926,7 +930,7 @@ msgid "Unknown Subject Alternative name in X.509 certificate."
 msgstr "X.509དཔང་ཡིག་ནང་ངེས་མེད་ཀྱི་གཙོ་གཟུགས་ཚབ་མིང་འདུས་ཡོད། "
 
 msgid "Unknown certificate"
-msgstr "ངེས་མེད་ཀྱི་དཔང་ཡིག"
+msgstr "ངེས་མེད་ཀྱི་དཔང་ཡིག།"
 
 msgid "Unsafe renegotiation denied."
 msgstr "ཐེངས་གཉིས་པའི་བདེ་འཇགས་གྲོས་མོལ་དང་ལེན་མ་བྱས་པ། "
@@ -949,25 +953,25 @@ msgid "Wrong padding in PKCS1 packet."
 msgstr "PKC51གཞི་གྲངས་ཐུམ་ཁ་སྐོང་ནོར་འཁྲུལ།"
 
 msgid "X.509 Certificate Information:\n"
-msgstr ""
+msgstr "X.509དཔང་ཡིག་ཆ་འཕྲིན།\n"
 
 msgid "X.509 Certificate Revocation List Information:\n"
-msgstr ""
+msgstr "X.509དཔང་ཡིག་མེད་པར་བཟོས་པའི་རེའུ་མིག་གི་ཆ་འཕྲིན།\n"
 
 msgid "created: %s, "
 msgstr "གསར་འཛུགས་བྱས་ཚར།：%s"
 
 msgid "critical"
-msgstr "འགག་རྩ།"
+msgstr "གནད་འགག"
 
 msgid "error: get_key_usage: %s\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།：get_key_usage：%s\n"
 
 msgid "expires: %s, "
 msgstr "དུས་ལས་ཡོལ་བ།：%s"
 
 msgid "fingerprint: "
-msgstr "མཛུབ་རིས།"
+msgstr "མཛུབ་རིས།："
 
 msgid "key algorithm %s (%d bits)"
 msgstr "གསང་ལྡེ་རྩི་ཐབས། %s（%d གནས།）"
@@ -991,10 +995,12 @@ msgid "signed using %s, "
 msgstr "མིང་འགོད %s བཀོལ་བ།"
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"
 
 msgid "unknown key algorithm (%d)"
 msgstr "མི་ཤེས་པའི་གསང་ལྡེ་རྩི་ཐབས།（%d）"
 
 msgid "warning: signed using a broken signature algorithm that can be forged.\n"
 msgstr ""
+"ཐ་ཚིག་བསྒྲགས།རྫུན་བཟོ་བྱས་ཆོག་པའི་མིང་རྟགས་འགོད་པའི་རྩི་ཐབས་སྤྱད་ནས་མིང་རྟགས་བཀོད་པ།"
+" \n"

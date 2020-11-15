@@ -200,13 +200,13 @@ msgid "&Burst tolerance:"
 msgstr "རྩེ་ཐང་ཆོག་པ། (&B)"
 
 msgid "&Cancel"
-msgstr "ལེན་པ།(&C)"
+msgstr "དོར་བ།(&C)"
 
 msgid "&Clear private data..."
 msgstr "མི་སྒེར་གྱི་ཆ་འཕྲིན་གཙང་སེལ་བྱེད་པ། (&C)"
 
 msgid "&Close"
-msgstr "ཁ་རྒྱག(&C)"
+msgstr "ཁ་རྒྱག་པ།(&C)"
 
 msgid "&Close FileZilla"
 msgstr "དུད་སྣེ FTP ཁ་རྒྱག་པ། (&C)"
@@ -248,7 +248,7 @@ msgid "&Delay between failed login attempts:"
 msgstr "ཡང་བསྐྱར་ཐོ་འགོད་ཀྱི་ནར་འགྱངས་དུས་ཚོད། (&D)"
 
 msgid "&Delete"
-msgstr "འདོར་བ།(&D)"
+msgstr "སུབ་པ། (&D)"
 
 msgid "&Delete symlink"
 msgstr "མཚོན་རྟགས་སྦྲེལ་མཐུད་སུབ་པ། (&D)"
@@ -1048,7 +1048,7 @@ msgid "Allow fallback to other transfer mode on failure"
 msgstr "ཕམ་རྗེས་བརྒྱུད་གཏོང་རྣམ་པ་གཞན་པར་ཕྱིར་ལོག་ཆོག"
 
 msgid "Already connected"
-msgstr "འབྲེལ་མཐུད་ཟིན་པ།"
+msgstr "འབྲེལ་མཐུད་བྱས་ཟིན།"
 
 msgid "Alternative name:"
 msgid_plural "Alternative names:"
@@ -1087,7 +1087,7 @@ msgstr ""
 "དམིགས་འབེན་གནས་ཡུལ་དུ་འདྲུད་འཐེན་རྣམ་གྲངས་དང་གཅིག་མཚུངས་ཀྱི་ཡིག་ཆ་ཡོད། "
 
 msgid "Anonymous"
-msgstr "གསང་མིང་།"
+msgstr "རང་མིང་མི་འགོད་པ།"
 
 msgid ""
 "Another remote operation is already in progress, cannot change directory "
@@ -1108,7 +1108,7 @@ msgid "App&ly to directories only"
 msgstr "དཀར་ཆག་ཁོ་ནར་སྤྱོད་པ། (&L)"
 
 msgid "Apply"
-msgstr "ཉེར་སྤྱོད།"
+msgstr " གཏན་འཁེལ།"
 
 msgid "Apply to &current queue only"
 msgstr "མིག་སྔའི་རུ་སྟར་ཁོར་ནར་བཀོལ་སྤྱོད་བྱེད་པ། (&C)"
@@ -1156,7 +1156,7 @@ msgid "Authentication failed."
 msgstr "དབང་སྤྲོད་ཕམ་པ།"
 
 msgid "Author:"
-msgstr "རྩོམ་པ་པོ།"
+msgstr "རྩོམ་པ་པོ།："
 
 msgid "Auto"
 msgstr "རང་འགུལ།"
@@ -1191,22 +1191,22 @@ msgid "Beware! Certificate has been revoked"
 msgstr "གཟབ་གཟབ་གྱིས། དཔང་ཡིག་ཕྱིར་འཐེན་བྱས་ཟིན།"
 
 msgid "Binary"
-msgstr "གཉིས་གོང་འགྲིལ་ལུགས་"
+msgstr "གཉིས་གོང་འགྲིལ་ལུགས།"
 
 msgid "Blackboard"
 msgstr "ནག་པང་།"
 
 msgid "Bookmark"
-msgstr "དཔེ་བྱང་།"
+msgstr " དཔེ་འཛར།"
 
 msgid "Bookmark:"
 msgstr ""
 
 msgid "Bookmarks"
-msgstr "དཔེ་རྟགས།"
+msgstr " དཔེ་འཛར།"
 
 msgid "Browse..."
-msgstr "རགས་ལྟ།"
+msgstr "རགས་ལྟ།..."
 
 msgid "Build date:"
 msgstr "སྒྲིག་སྒྱུར་དུས་ཚོད།"
@@ -1251,7 +1251,7 @@ msgid "Can't write data to file: %s"
 msgstr "གཞི་གྲངས་དེ་ཡིག་ཆ %s ཡི་ནང་འབྲི་ཐབས་བྲལ། "
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Cannot access '%s', no media inserted or drive not ready."
 msgstr ""
@@ -1299,7 +1299,7 @@ msgid "Cannot load Quickconnect bar from resource file"
 msgstr "ཐོན་ཁུངས་ཡིག་ཆ་ནས་མགྱོགས་མྱུར་འབྲེལ་མཐུད་ཚང་འདྲེན་འཇུག་བྱེད་ཐབས་བྲལ།"
 
 msgid "Cannot load key file"
-msgstr "གསང་ལྡེ་ཡི་ཡིག་ཆ་ཁུར་སྣོན་བྱེ་ཐབས་བྲལ།"
+msgstr "གསང་ལྡེའི་ཡིག་ཆ་ཁུར་སྣོན་མི་ཐུབ།"
 
 msgid "Cannot load toolbar from resource file"
 msgstr "ཐོན་ཁུངས་ཡིག་ཆ་ནས་ལག་ཆའི་ཚང་འདྲེན་འཇུག་བྱེད་ཐབས་བྲལ།"
@@ -1311,7 +1311,7 @@ msgid "Cannot rename entry"
 msgstr "ཟིན་ཐོར་མིང་བསྐྱར་འདོགས་མི་ཐུབ།"
 
 msgid "Cannot rename file"
-msgstr "ཡིག་ཆར་མིང་བསྐྱར་འདོགས་མི་ཐུབ་པ།"
+msgstr "ཡིག་ཆར་མིང་བསྐྱར་འདོགས་མི་ཐུབ།"
 
 msgid "Cannot resolve hostname to IPv4 address for use with SOCKS4 proxy."
 msgstr ""
@@ -1339,7 +1339,7 @@ msgid "Case insensitive (default)"
 msgstr "བྲིས་ཆེ་ཆུང་དབྱེ་བ་མེད་པ(སོར་བཞག)"
 
 msgid "Case sensitive"
-msgstr "འབྲི་ཆེ་ཆུང་དབྱེ་བ་འབྱེད།"
+msgstr "ཆེ་བྲིས་ཆུང་བྲིས་ཀྱི་དབྱེ་བ།"
 
 msgid "Case sensitive (default)"
 msgstr "བྲིས་ཆེ་ཆུང་དབྱེ་བ་ཡོད་པ(སོར་བཞག)"
@@ -1379,7 +1379,7 @@ msgid "Check for FileZilla &updates automatically:"
 msgstr "དུད་སྣེ FTP ཡི་གསར་སྒྱུར་ལ་རང་འགུལ་ཞིབ་བཤེར་བྱེད་པ། (&U)"
 
 msgid "Check for Updates"
-msgstr "གསར་སྒྱུར་ལ་ཞིབ་བཤེར་བྱེད་པ།"
+msgstr "གསར་བསྒྱུར་ཞིབ་བཤེར།"
 
 msgid "Check for updates failed"
 msgstr "ཞིབ་བཤེར་གསར་སྒྱུར་ཕམ་པ།"
@@ -1405,10 +1405,10 @@ msgid "Checking for updates..."
 msgstr "གསར་སྒྱུར་ལ་ཞིབ་བཤེར་བྱེད་བཞིན་ཡོད།"
 
 msgid "Checksum match on file %s\n"
-msgstr ""
+msgstr "ཡིག་ཆ %s ཡི་དག་བཤེར་གྲངས་ཐང་ཟླ་སྒྲིག་ཡིན་པ། \n"
 
 msgid "Checksum mismatch on file %s\n"
-msgstr ""
+msgstr "ཡིག་ཆ %s ཡི་དག་བཤེར་གྲངས་ཐང་ཟླ་སྒྲིག་མིན་པ། \n"
 
 msgid "Choose a key file"
 msgstr "གསང་ལྡེའི་ཡིག་ཆ་གདམ་དགོས།"
@@ -1435,7 +1435,7 @@ msgid "Clear &layout cache"
 msgstr "བཀོད་པའི་བར་གསོག་གཙང་སེལ།"
 
 msgid "Clear history"
-msgstr "ལོ་རྒྱུས་ཀྱི་ཟིན་ཐོ་གཙང་སེལ།"
+msgstr "ལོ་རྒྱུས་ཟིན་ཐོ་གཙང་སེལ།"
 
 msgid "Clear private data"
 msgstr "མི་སྒེར་གྱི་ཆ་འཕྲིན་གཙང་སེལ།"
@@ -1487,7 +1487,7 @@ msgid "Command not supported by this protocol"
 msgstr "བཀའ་བརྡས་གྲོས་ཆིངས་འདིར་རྒྱབ་སྐྱོར་མེད་པ།"
 
 msgid "Command:"
-msgstr "བཀའ་བརྡ།："
+msgstr "བཀའ་ལག་བསྟར།"
 
 msgid "Comment"
 msgstr "དཔྱད་གཏམ།"
@@ -1544,7 +1544,7 @@ msgid "Configuring FileZilla and your network"
 msgstr "དུད་སྣེ FTP དང་ཁྱེད་ཀྱི་དྲ་རྒྱར་སྡེབ་སྒྲིག་བྱེད་པ།"
 
 msgid "Confirm deletion"
-msgstr "འདོར་བ་གཏན་འཁེལ།"
+msgstr "སུབ་པ་གཏན་ཁེལ།"
 
 msgid "Confirmation needed"
 msgstr "གཏན་འཁེལ་བྱེད་དགོས།"
@@ -1567,7 +1567,7 @@ msgid "Connect to specified Site Manager site"
 msgstr "དམིགས་འཛུགས་བྱས་པའི“ས་ཚུགས་དོ་དམ་ཆས”ཀྱི་ས་ཚུགས་ལ་འབྲེལ་བ།"
 
 msgid "Connecting"
-msgstr "འབྲེལ་པ།"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
 
 msgid "Connecting to %s"
 msgstr ""
@@ -1589,9 +1589,10 @@ msgstr "འབྲེལ་མཐུད་ཚོད་ལྟ་ཕམ་པ།"
 
 msgid "Connection attempt failed with \"%s\", trying next address."
 msgstr ""
+"“%s” ལ་འབྲེལ་མཐུད་ཚོད་ལྟ་ཕམ་སོང་། གནས་ཡུལ་རྗེས་མ་ལ་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།"
 
 msgid "Connection attempt failed with \"%s\"."
-msgstr ""
+msgstr "“%s” ལ་འབྲེལ་མཐུད་ཚོད་ལྟ་ཕམ་སོང་།"
 
 msgid "Connection attempt interrupted by user"
 msgstr "འབྲེལ་མཐུད་ཚོད་ལྟ་དེ་སྤྱོད་མཁན་གྱིས་མཇུག་སྒྲིལ་སོང་།"
@@ -1600,7 +1601,7 @@ msgid "Connection attempt timed out"
 msgstr "འབྲེལ་མཐུད་ཚོད་ལྟ་དུས་བརྒལ།"
 
 msgid "Connection closed"
-msgstr "འབྲེལ་མཐུད་ཁ་རྒྱག་པ།"
+msgstr "འབྲེལ་མཐུད་ཁ་རྒྱག"
 
 msgid "Connection closed by server"
 msgstr "འབྲེལ་མཐུད་དེ་ཞབས་ཞུ་ཆས་ཀྱིས་ཁ་རྒྱག་པ།"
@@ -1621,7 +1622,7 @@ msgid "Connection not allowed by ruleset"
 msgstr "སྒྲིག་སྲོལ་གྱིས་འབྲེལ་མཐུད་བྱས་མི་ཆོག་པ་སྒྲིག་པ།"
 
 msgid "Connection refused"
-msgstr "འབྲེལ་མཐུད་ཁས་མ་བླངས་པ།"
+msgstr "འབྲེལ་མཐུད་ཁས་མ་བླངས།"
 
 msgid "Connection refused by server"
 msgstr "སྦྲེལ་མཐུད་ཞབས་ཞུ་ཆས་ཀྱིས་ཁས་མ་བླངས་པ།"
@@ -1692,7 +1693,7 @@ msgid "Could not copy data"
 msgstr "གཞི་གྲངས་འདྲ་ཕབ་བྱེད་ཐབས་བྲལ།"
 
 msgid "Could not create local file %s\n"
-msgstr ""
+msgstr "རང་སའི་ཡིག་ཆ %s བཟོ་ཐབས་བྲལ། \n"
 
 msgid "Could not create logging mutex: %s"
 msgstr "ཉིན་ཐོའི་སྒོ་ལྕགས ། (logging mutex): %s བཟོ་ཐབས་བྲལ།"
@@ -1810,12 +1811,13 @@ msgid ""
 "Could not write \"%s\", any changes to the Site Manager could not be saved: "
 "%s"
 msgstr ""
+"“%s” འབྲི་ཐབས་བྲལ། ས་ཚུགས་དོ་དམ་ཆས་ཀྱི་བཟོ་བཅོས་གང་ཡང་ཉར་ཚགས་བྱེད་ཐབས་མེད།"
 
 msgid "Could not write \"%s\", the bookmark could not be added: %s"
-msgstr ""
+msgstr "“%s” འབྲི་ཐབས་བྲལ། དཔེ་འཛར  %s སྣོན་ཐབས་མེད།"
 
 msgid "Could not write \"%s\", the global bookmarks could no be saved: %s"
-msgstr ""
+msgstr "“%s” འབྲི་ཐབས་བྲལ། ཁྱོན་ཡོངས་དཔེ་འཛར  %s སྣོན་ཐབས་མེད།"
 
 msgid ""
 "Could not write \"%s\", the queue could not be saved.\n"
@@ -1823,10 +1825,10 @@ msgid ""
 msgstr ""
 
 msgid "Could not write \"%s\", the selected sites could not be exported: %s"
-msgstr ""
+msgstr "“%s” འབྲི་ཐབས་བྲལ། བདམས་པའི་ས་ཚུགས་ཕྱིར་འདྲེན་བྱེད་ཐབས་མེད།"
 
 msgid "Could not write \"%s\":"
-msgstr ""
+msgstr "“%s” འབྲི་ཐབས་བྲལ།"
 
 msgid "Could not write key file: %s"
 msgstr "གསང་ལྡེའི་ཡིག་ཆ %s འབྲི་ཐབས་བྲལ།"
@@ -1866,7 +1868,7 @@ msgid "Create director&y and enter it"
 msgstr "དཀར་ཆག་བཟོ་བ་མ་ཟད་འདིའི་ནང་འཛུལ་བ། (&Y)"
 
 msgid "Create directory"
-msgstr "དཀར་ཆག་གསར་བཟོ།"
+msgstr "དཀར་ཆག་བཟོ་བ།"
 
 msgid "Create empty file"
 msgstr "ཡིག་ཆ་སྟོང་པ་བཟོ་བ།"
@@ -1913,7 +1915,7 @@ msgid "Custom filter set"
 msgstr "འཚག་ཆས་ཀྱི་ཚོགས་སྤྱི་རང་བཟོ།"
 
 msgid "Custom server"
-msgstr "ཞབས་ཞུ་ཆས་རང་བཟོ།"
+msgstr "མཚན་ཉིད་རང་འཇོག་ཞབས་ཞུ་ཆས།"
 
 msgid "D&ata type"
 msgstr "གཞི་གྲངས་ཀྱི་རིགས་གྲས། (&A)"
@@ -1968,7 +1970,7 @@ msgid "Date/time unknown"
 msgstr "ཚེས་གྲངས/དུས་ཚོད་མ་ཤེས།"
 
 msgid "Debug"
-msgstr "ཚོད་སྒྲིག"
+msgstr " ཚོད་སྒྲིག"
 
 msgid "Debugging settings"
 msgstr "ཚོད་སྒྲིག་སྒྲིག་འགོད།"
@@ -2035,19 +2037,19 @@ msgid "Delete selected files and directories"
 msgstr "བདམས་པའི་ཡིག་ཆ་དང་དཀར་ཆག་སུབ་པ།"
 
 msgid "Deleting \"%s\""
-msgstr ""
+msgstr "“%s” སུབ་བཞིན་ཡོད།"
 
 msgid "Deleting %u files from \"%s\""
-msgstr ""
+msgstr "“%2$s” ཡི་ནང་ནས་ཡིག་ཆ %1$u སུབ་བཞིན་ཡོད།"
 
 msgid "Deleting symbolic link"
 msgstr "མཚོན་རྟགས་ཀྱི་སྦྲེལ་མཐུད་སུབ་བཞིན་ཡོད།"
 
 msgid "Desktop"
-msgstr "ཅོག་ངོས།"
+msgstr " ཅོག་ངོས།"
 
 msgid "Details"
-msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
 
 msgid "Details for new key:"
 msgstr "གསང་ལྡེ་གསར་པའི་ཞིབ་ཕྲའི་དཔྱད་གཞི།"
@@ -2062,7 +2064,7 @@ msgid "Direction"
 msgstr "ཁ་ཕྱོགས།"
 
 msgid "Directory"
-msgstr "དཀར་ཆག"
+msgstr " དཀར་ཆག"
 
 msgid "Directory comparison"
 msgstr "དཀར་ཆག་བསྡུར་བ།"
@@ -2085,7 +2087,7 @@ msgid "Directory listing filters"
 msgstr "དཀར་ཆག་རེའུ་མིག་འཚག་ཆས།"
 
 msgid "Directory listing of \"%s\" successful"
-msgstr ""
+msgstr "“%s” ཡི་དཀར་ཆག་འགོད་པ་ལེགས་གྲུབ་བྱུང་།"
 
 msgid "Directory listing successful"
 msgstr "དཀར་ཆག་འགོད་པ་ལེགས་གྲུབ་བྱུང་།"
@@ -2159,7 +2161,7 @@ msgid "Do you want to reopen this file?"
 msgstr "ཁྱེད་ཀྱིས་ཡང་བསྐྱར་ཡིག་ཆ་འདི་དངོས་གནས་ཁ་ཕྱེ་མཁན་ཡིན་ནམ། "
 
 msgid "Documentation"
-msgstr "ཡིག་ཚགས།"
+msgstr " ཡིག་ཚགས།"
 
 msgid "Don't use external IP address on &local connections."
 msgstr "རང་སའི་འབྲེལ་མཐུད་ཀྱི་ཕྱི་ཕྱོགས IP གནས་ཡུལ་མི་སྤྱོད་པ། "
@@ -2171,7 +2173,7 @@ msgid "Double-click action"
 msgstr "ཉིས་རྡེབ་བཀོལ་སྤྱོད།"
 
 msgid "Download"
-msgstr "ཕབ་ལེན།"
+msgstr " ཕབ་ལེན།"
 
 msgid "Download &limit:"
 msgstr ""
@@ -2240,7 +2242,7 @@ msgid "Each filter needs at least one condition."
 msgstr "འཚག་ཆས་ཚང་མར་ཉུང་མཐར་ཡང་ཆ་རྐྱེན་གཅིག་དགོས། "
 
 msgid "Edit filters"
-msgstr "འཚག་ཆས་རྩོམ་སྒྲིག་བྱེད་པ།"
+msgstr "འཚག་ཆས་རྩོམ་སྒྲིག"
 
 msgid ""
 "Edit the file with the configured editor and upload changes to the server."
@@ -2291,10 +2293,10 @@ msgid "Enable invalid character &filtering"
 msgstr "ནུས་མེད་ཡིག་རྟགས་འཚག་པ་སྤྱོད་པ། (&F)"
 
 msgid "Encrypted"
-msgstr "གསང་བསྡམས།"
+msgstr "གསང་ཨང་བསྣན་ཟིན།"
 
 msgid "Encryption"
-msgstr "གསང་སྡོམ།(_E)"
+msgstr "གསང་སྡོམ། (_E)"
 
 msgid "Encryption details"
 msgstr "གསང་སྡོམ་ཞིབ་ཆ།"
@@ -2361,7 +2363,7 @@ msgid "Error exporting settings"
 msgstr "ཕྱིར་འདྲེན་སྒྲིག་འགོད་སྐབས་ནོར་འཁྲུལ་ཐོན།"
 
 msgid "Error importing"
-msgstr "འདྲེན་འཇུག་སྐབས་ནོར་འཁྲུལ་ཐོན།"
+msgstr " ནང་འདྲེན་ནོར་འཁྲུལ་བྱུང་བ།"
 
 msgid "Error loading queue"
 msgstr "རུ་སྟར་ཁུར་སྣོན་སྐབས་ནོར་འཁྲུལ་ཐོན།"
@@ -2493,13 +2495,13 @@ msgid "Failed to load private key: %s"
 msgstr "སྒེར་ལྡེ %s ཁུར་སྣོན་ཕམ་པ།"
 
 msgid "Failed to open \"%s\" for appending/writing"
-msgstr ""
+msgstr "“%s” ཁ་ཕྱེ་ནས་བསྐྱར་སྣོན/འབྲི་བ་ཕམ་པ།"
 
 msgid "Failed to open \"%s\" for reading"
-msgstr ""
+msgstr "“%s” ཁ་ཕྱེ་ནས་ཀློག་ལེན་ཕམ་པ།"
 
 msgid "Failed to open \"%s\" for writing"
-msgstr ""
+msgstr "“%s” ཁ་ཕྱེ་ནས་འབྲི་བ་ཕམ་པ།"
 
 msgid "Failed to parse returned path."
 msgstr "དབྱེ་ཞིབ་བྱས་ནས་ཕྱིར་ལོག་མི་ཐུབ་པའི་བརྒྱུད་ལམ། "
@@ -2670,7 +2672,7 @@ msgid "Filelist status &bars"
 msgstr "ཡིག་ཆའི་རེའུ་མིག་གི་རྣམ་པའི་ཚང་། (&B)"
 
 msgid "Filename"
-msgstr "ཡིག་ཆའི་མིང་།"
+msgstr " ཡིག་ཆའི་མིང་།"
 
 msgid "Filename &filters..."
 msgstr "ཡིག་ཆའི་མིང་ལ་འཚག་ཆས། (&F)"
@@ -2685,7 +2687,7 @@ msgid "Filename unchanged"
 msgstr "ཡིག་ཆའི་མིང་ལ་འགྱུར་བ་བྱུང་མེད།"
 
 msgid "Filename:"
-msgstr "ཡིག་ཆའི་མིང་།："
+msgstr " ཡིག་ཆའི་མིང་།"
 
 msgid "Filenames may not contain any of the following characters: / * ? < > |"
 msgstr "ཡིག་ཆའི་མིང་གི་ནང་དུ་ཡིག་རྟགས  / * ? < > | གང་ཡང་ཚུད་མི་ཆོག"
@@ -2702,7 +2704,7 @@ msgid "Filesize"
 msgstr "ཡིག་ཆའི་ཆེ་ཆུང་།"
 
 msgid "Filesize format"
-msgstr "ཡིག་ཆ་ཆེ་ཆུང་གི་རྣམ་གཞག"
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་གི་རྣམ་གཞག"
 
 msgid "Filetype"
 msgstr "ཡིག་ཆའི་རིགས་གྲས།"
@@ -2793,13 +2795,13 @@ msgstr ""
 " "
 
 msgid "Found new %s %s\n"
-msgstr ""
+msgstr "གསར་པ %s %s ཤེས་རྟོགས་བྱུང་བ།\n"
 
 msgid "Further documentation"
 msgstr "ཡིག་ཚགས་དེ་བས་མང་བ།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "General SOCKS server failure"
 msgstr "SOCKS ཞབས་ཞུ་ཆས་ཀྱི་རྒྱུན་སྲོལ་སྐྱོན།"
@@ -2849,7 +2851,7 @@ msgid "Hash:"
 msgstr "ཐོར་སྒྲིག་གྲངས་ཐང་།"
 
 msgid "Hidden"
-msgstr "སྦེད་པ།"
+msgstr "གབ་པ།"
 
 msgid "High"
 msgstr "མཐོ།"
@@ -2904,6 +2906,8 @@ msgstr ""
 
 msgid "If reporting bugs, please provide logs with \"Verbose\" logging level."
 msgstr ""
+"གལ་ཏེ་གནད་དོན་སྙན་ཞུ་བྱ་དགོས་ན། "
+"རིམ་པའི་ཉིན་ཐོའི་ཡིག་ཆ“ཞིབ་ཕྲ”མཁོ་འདོན་བྱ་རོགས། "
 
 msgid ""
 "If the automatic test at the end of this wizard succeeds, but you cannot "
@@ -3041,7 +3045,7 @@ msgid "Import data from older version"
 msgstr "པར་གཞི་རྙིང་པའི་ནང་ནས་གཞི་གྲངས་གཞི་གྲངས་འདྲེན་འཇུག་བྱེད་པ།"
 
 msgid "Import settings"
-msgstr "སྒྲིག་འགོད་འདྲེན་འཇུག"
+msgstr "འདྲེན་འཇུག་སྒྲིག་འགོད།"
 
 msgid "Import successful"
 msgstr "འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ།"
@@ -3080,7 +3084,7 @@ msgstr ""
 "རྩེར་སོན་དཔང་ཡིག་དེ་རང་གིས་ཆོག་མཆན་བཀོད་ནས་སྤྲད་པའི་དབང་སྤྲོད་ལག་ཁྱེར་མ་རེད་།།"
 
 msgid "Incorrect password"
-msgstr "གསང་ཨང་ནོར་བ།"
+msgstr "གསང་ཨང་ནོར་འཁྲུལ།"
 
 msgid ""
 "Information about the latest version of FileZilla could not be retrieved. "
@@ -3102,7 +3106,7 @@ msgid "Interactive"
 msgstr "སྣོལ་རེས་ཚུལ།"
 
 msgid "Interface"
-msgstr "འཆར་ངོས།"
+msgstr "མཚམས་ངོས།"
 
 msgid "Interrupted by signal"
 msgstr "བརྡ་རྟགས་ཚད་ཀྱིས་བར་བཅོད་བྱེད་པ།"
@@ -3136,7 +3140,7 @@ msgid "Invalid date"
 msgstr "ནུས་མེད་གཞི་གྲངས།"
 
 msgid "Invalid filename"
-msgstr "ཡིག་ཆའི་མིང་ནུས་མེད།"
+msgstr "ཡིག་ཆའི་མིང་ནུས་མེད་ཡིན།"
 
 msgid "Invalid host, after closing bracket only colon and port may follow."
 msgstr ""
@@ -3279,7 +3283,7 @@ msgid "Local file does not exist."
 msgstr "རང་སའི་ཡིག་ཆ་མི་འདུག "
 
 msgid "Local file is %s\n"
-msgstr ""
+msgstr "རང་སའི་ཡིག་ཆ %s ཡིན། \n"
 
 msgid "Local file is a directory instead of a regular file."
 msgstr "རང་སའི་ཡིག་ཆ་ནི་དཀར་ཆག་ཞིག་ཡིན་པ་ལས་སྤྱིར་བཏང་གི་ཡིག་ཆ་ཞིག་མ་རེད། "
@@ -3397,7 +3401,7 @@ msgid "Move &up"
 msgstr "གོང་སྣུར། (&U)"
 
 msgid "My Computer"
-msgstr "ངའི་གློག་ཀླད།"
+msgstr "རྩིས་འཁོར།"
 
 msgid "My Documents"
 msgstr "ངའི་ཡིག་ཚགས།"
@@ -3406,10 +3410,10 @@ msgid "My Sites"
 msgstr "ངའི་ས་ཚུགས།"
 
 msgid "N/a"
-msgstr "སྤྱད་དུ་མེད་པ།"
+msgstr " སྤྱོད་མི་རུང་བ།"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name already exists"
 msgstr "མིང་གནས་ཡོད་པ།"
@@ -3418,7 +3422,7 @@ msgid "Name of bookmark already exists."
 msgstr "མིང་འདིའི་དཔེ་འཛར་གནས་ཡོད་པ། "
 
 msgid "Name:"
-msgstr "མིང་།"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid "Natural sort"
 msgstr "རང་བྱུང་རིམ་སྒྲིག"
@@ -3445,7 +3449,7 @@ msgid "Network unreachable"
 msgstr "འབྲེལ་མཐུད་མི་ཐུབ་པའི་དྲ་རྒྱ།"
 
 msgid "Never"
-msgstr "གཏན་ནས་མི་བྱེད།"
+msgstr "གཏན་མིན།"
 
 msgid "New &Folder"
 msgstr "ཡིག་ཁུག་གསར་པ། (&F)"
@@ -3469,7 +3473,7 @@ msgid "New filter"
 msgstr "འཚག་ཆས་གསར་པ།"
 
 msgid "New folder"
-msgstr "ཡིག་ཁུག་གསར་བ།"
+msgstr "ཡིག་ཁུག་གསར་པ།"
 
 msgid "New site"
 msgstr "ས་ཚིགས་གསར་པ།"
@@ -3534,7 +3538,7 @@ msgid "No username given."
 msgstr "སྤྱོད་མཁན་གྱི་མིང་དམིགས་འཛུགས་བྱས་མེད། "
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "None selected yet"
 msgstr "རྣམ་གྲངས་གདམ་མེད།"
@@ -3543,7 +3547,7 @@ msgid "Nonrecoverable failure in name resolution"
 msgstr "མིང་དབྱེ་ཞིབ་ཁྲོད་སླར་གསོ་བྱེད་ཐབས་བྲལ་བའི་ནོར་འཁྲུལ་ཡོད།"
 
 msgid "Normal"
-msgstr "སྤྱིར་བཏང་།"
+msgstr "དཀྱུས་མ།"
 
 msgid "Not all items could be requeued for transfer."
 msgstr ""
@@ -3588,7 +3592,7 @@ msgid "O&pen file"
 msgstr "ཡིག་ཆ་ཁ་ཕྱེ། (&P)"
 
 msgid "OK"
-msgstr "གཏན་འཁེལ"
+msgstr " གཏན་འཁེལ།"
 
 msgid "OS version:"
 msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ཀྱི་པར་གཞི།"
@@ -3670,7 +3674,7 @@ msgid "Other:"
 msgstr "གཞན།"
 
 msgid "Out of memory"
-msgstr "ནང་གསོག་མི་འདང་བ།"
+msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
 
 msgid "Overview"
 msgstr "རགས་ལྟ།"
@@ -3697,7 +3701,7 @@ msgid "Overwrite if different si&ze or source newer"
 msgstr "གལ་ཏེ་ཆེ་ཆུང་མི་འདྲ་བའམ་ཡང་ན་ཁུངས་ཀྱི་ཡིག་ཆ་ཅུང་གསར་བ་ཡིན་ན་འགེབས་ཆོག"
 
 msgid "Own build type: %s\n"
-msgstr ""
+msgstr "རང་ཉིད་ཀྱིས་བཟོས་པའི་རིགས་གྲས།"
 
 msgid "Owner permissions"
 msgstr "བདག་པོའི་དབང་ཚད།"
@@ -3725,7 +3729,7 @@ msgid "Parameter not a valid URL"
 msgstr "ཞུགས་གྲངས་ནི་ནུས་ལྡན་གྱི URL མ་རེད།"
 
 msgid "Parsing %d bytes of version information.\n"
-msgstr ""
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་གྱི་ཡིག་ཚིགས %d དབྱེ་ཞིབ་བྱེད་པ། \n"
 
 msgid "Pass&word:"
 msgstr "གསང་ཨང་།"
@@ -3743,7 +3747,7 @@ msgid "Password required"
 msgstr "གསང་ཨང་དགོས།"
 
 msgid "Path"
-msgstr "འགྲོ་ལམ་འགྲོ་ལམ།"
+msgstr "འགྲོ་ལམ།"
 
 msgid "Path cannot be constructed for directory %s and subdir %s"
 msgstr "དཀར་ཆག %s དང་བུ་དཀར་ཆག %s ལ་བརྒྱུད་ལམ་བཟོ་བ།"
@@ -3761,7 +3765,7 @@ msgid "Permission"
 msgstr "དབང་ཚད།"
 
 msgid "Permission denied"
-msgstr ""
+msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
 
 msgid "Permissions"
 msgstr "དབང་ཚད།"
@@ -3815,7 +3819,7 @@ msgid "Please enter a new name for the copied filter."
 msgstr "ཁྱེད་ཀྱིས་འདྲ་ཕབ་བྱས་པའི་འཚག་ཆས་ལ་མིང་གསར་པ་ནང་འཇུག་བྱེད་དགོས།"
 
 msgid "Please enter a new name for the filter set \"%s\""
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་འཚག་ཆས “%s” ལ་མིང་གསར་པ་ནང་འཇུག་བྱེད་དགོས། "
 
 msgid "Please enter a new name for the filter."
 msgstr "ཁྱེད་ཀྱིས་འཚག་ཆས་འདིར་མིང་གསར་པ་ནང་འཇུག་བྱེད་དགོས།"
@@ -3957,10 +3961,10 @@ msgid "Please select the default transfer mode you would like to use."
 msgstr "ཁྱེད་ཀྱི་སྤྱོད་པའི་སོར་བཞག་བརྒྱུད་གཏོང་རྣམ་པ་འདོམས་རོགས། "
 
 msgid "Please select the new attributes for the directory \"%s\"."
-msgstr ""
+msgstr "ཡིག་ཁུག “%s” ལ་གཏོགས་གཤིས་གསར་པ་འདོམས་རོགས། "
 
 msgid "Please select the new attributes for the file \"%s\"."
-msgstr ""
+msgstr "ཡིག་ཆ “%s” ལ་གཏོགས་གཤིས་གསར་པ་འདོམས་རོགས། "
 
 msgid "Please select the new attributes for the selected directories."
 msgstr "བདམས་པའི་དཀར་ཆག་ལ་གཏོགས་གཤིས་གསར་པ་འདོམས་རོགས། "
@@ -4351,7 +4355,7 @@ msgstr ""
 "ASCII རྣམ་གཞག་ཡིག་ཆ་བརྒྱུད་གཏོང་བྱས་ན་གནད་དོན་འབྱུང་ཉེན་ཡོད། "
 
 msgid "Retrieving directory listing of \"%s\"..."
-msgstr ""
+msgstr "“%s” ཡི་དཀར་ཆག་རེའུ་མིག་ཀློག་པ།"
 
 msgid "Retrieving directory listing..."
 msgstr "དཀར་ཆག་རེའུ་མིག་ཀློག་པ།"
@@ -4429,7 +4433,7 @@ msgid "Select &page:"
 msgstr "ལྡེབ་ངོས་འདེམ་པ། (&P)"
 
 msgid "Select Theme"
-msgstr "བརྗོད་གཞི་འདེམ་པ།"
+msgstr "བརྗོད་སྙིང་འདེམ་པ།"
 
 msgid ""
 "Select default action to perform if target file of a transfer already "
@@ -4472,7 +4476,7 @@ msgid "Select file to import settings from"
 msgstr "སྒྲིག་འགོད་འདྲེན་འཇུག་ལ་མཁོ་བའི་ཡིག་ཆ་འདེམ་པ།"
 
 msgid "Select file to upload"
-msgstr "ཡར་བསྐུར་བྱ་རྒྱུའི་ཡིག་ཆ་འདེམ་པ།"
+msgstr "ཡར་སྐྱེལ་དགོས་པའི་ཡིག་ཆ་འདེམས་རོགས།"
 
 msgid "Select filename for converted key file"
 msgstr "བརྗེ་སྤོར་བྱ་རྒྱུའི་གསང་ལྡེ་ཡིག་ཆར་ཡིག་ཆའི་མིང་ནང་འཇུག་དགོས།"
@@ -4562,10 +4566,10 @@ msgid "Sending keep-alive command"
 msgstr "འབྲེལ་མཐུད་རྒྱུན་འཁྱོངས་ཀྱི་བཀའ་བརྡ་བཏང་བ།"
 
 msgid "Serial number:"
-msgstr "རིམ་སྟར་ཨང་རྟགས།"
+msgstr "རིམ་སྟར་ཨང་རྟགས།："
 
 msgid "Server &Type:"
-msgstr "ཞབས་ཞུ་ཆས་ཀྱི་རིགས་གྲས།"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་རིགས། (&T)"
 
 msgid "Server did not properly shut down TLS connection"
 msgstr "ཞབས་ཞུ་ཆས་ཀྱི་འབྲེལ་མཐུད TLS རྒྱུན་ལྡན་ལྟར་ཁ་རྒྱག་མེད་པ།"
@@ -4645,7 +4649,7 @@ msgid "Server/Local file"
 msgstr "ཞབས་ཞུ་ཆས/རང་སའི་ཡིག་ཆ།"
 
 msgid "Server:"
-msgstr "ཞབས་ཞུ་ཆས།"
+msgstr "ཞབས་ཞུ་ཆས།："
 
 msgid "Session details"
 msgstr "གླེང་མོལ་ཞིབ་ཆ།"
@@ -4660,7 +4664,7 @@ msgid "SetSocketBufferSize called without socket"
 msgstr "SetSoocketBufferSize ཡི་འབྲེལ་འཛུགས་ཡི་གེའི་འདོན་སྤྱོད་མེད་པ།"
 
 msgid "Settings"
-msgstr "སྒྲིག་འགོད།"
+msgstr " སྒྲིག་འགོད།"
 
 msgid "Settings directory:"
 msgstr "ཡིག་ཆའི་དཀར་ཆག་སྒྲིག་འགོད།"
@@ -4790,7 +4794,7 @@ msgid "Source file:"
 msgstr "ཁུངས་ཀྱི་ཡིག་ཆ་ནི།"
 
 msgid "Speed Limits"
-msgstr "མགྱོགས་ཚད་ཚོད་འཛིན།"
+msgstr "མྱུར་ཚད་ཚོད་འཛིན།"
 
 msgid "Speed limits"
 msgstr "མྱུར་ཚད་ཚོད་འཛིན།"
@@ -4817,7 +4821,7 @@ msgid "Start with opened Site Manager"
 msgstr "འགོ་སློང་བའི་སྐབས་ས་ཚུགས་དོ་དམ་ཆས་ཁ་འབྱེད་དགོས།"
 
 msgid "Started update check on %s\n"
-msgstr ""
+msgstr "%s ཡི་སྟེང་གསར་སྒྱུར་ཞིབ་བཤེར་འགོ་སློང་བ།"
 
 msgid "Starting download of %s"
 msgstr "%s ཕབ་ལེན་བྱེད་འགོ་རྩོམ་པ།"
@@ -4832,10 +4836,10 @@ msgid "State or province:"
 msgstr "ཁུལ་དང་ཞིང་ཆེན།"
 
 msgid "Status"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Status:"
-msgstr "རྣམ་པ།"
+msgstr "རྣམ་པ།："
 
 msgid "Stop and remove &all"
 msgstr "མཚམས་འཇོག་དགོས་པ་མ་ཟད་ཚང་མ་བསུབ་དགོས། (&A)"
@@ -4872,7 +4876,7 @@ msgid "Synchronized browsing has been disabled."
 msgstr "གོམ་མཉམ་མིག་བཤར་དེ་ཁ་རྒྱག་ཟིན་པ།"
 
 msgid "Syntax error"
-msgstr "བརྡ་སྤྲོད་ནོར་བ།"
+msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
 
 msgid "Syntax error in command line"
 msgstr "བཀའ་བརྡའི་ཕྲེང་གི་བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
@@ -4920,7 +4924,7 @@ msgid "Temporary failure in name resolution"
 msgstr ""
 
 msgid "Test results"
-msgstr "ཚོད་ལེན་མཇུག་འབྲས།"
+msgstr "ཚོད་ལྟའི་མཇུག་འབྲས།"
 
 msgid "Testing resume capabilities of server"
 msgstr "ཞབས་ཞུ་ཆས་མུ་མཐུད་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ་མིན་ལ་བཤེར་འཇལ་བྱེད་བཞིན་ཡོད།"
@@ -5195,7 +5199,7 @@ msgid "The valid backup file %s could not be restored"
 msgstr "སླར་གསོ་མི་ཐུབ་པའི་ནུས་ལྡན་གྱི་གྲབས་ཉར་ཡིག་ཆ  %s"
 
 msgid "Themes"
-msgstr "བརྗོད་བྱ་གཙོ་བོ།བརྗོད་བྱ་གཙོ་བོ།"
+msgstr "བརྗོད་གཞི།"
 
 msgid "This filter set cannot be removed."
 msgstr "འཚག་ཆས་ཀྱི་ཚོགས་སྤྱི་དེ་བསུབ་ཐབས་མེད། "
@@ -5240,7 +5244,7 @@ msgid "Timezone offset of server is %d seconds."
 msgstr "ཞབས་ཞུ་ཆས་ཀྱི་དུས་ཁྱད་ནི་སྐར་ཆ  %d ཡིན། "
 
 msgid "Title:"
-msgstr "ཁ་བྱང་།"
+msgstr "ཁ་བྱང་།:"
 
 msgid "To compare directories, both file lists have to be aligned."
 msgstr ""
@@ -5288,7 +5292,7 @@ msgid "Too long header line"
 msgstr "ཁ་བྱང་གི་ཕྲེང་ཧ་ཅང་རིང་།"
 
 msgid "Too many redirects"
-msgstr "ཕྱོགས་བསྐྱར་ངེས་མང་དྲག་པ།"
+msgstr "ཡང་བསྐྱར་ཕྱོགས་ངེས་མང་དྲགས་པ།"
 
 msgid "Trace:"
 msgstr "རྗེས་སྙེག"
@@ -5352,7 +5356,7 @@ msgid "Try again"
 msgstr "ཡང་བསྐྱར་ཚོད་ལེན།"
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "Type of FTP Proxy:"
 msgstr "ལས་ཚབ FTP ཡི་རིགས་གྲས།"
@@ -5382,7 +5386,7 @@ msgid "Unit:"
 msgstr "འཇལ་བྱེད།"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unknown FTP proxy type, cannot generate login sequence."
 msgstr ""
@@ -5392,7 +5396,7 @@ msgid "Unknown SOCKS protocol version: %d"
 msgstr "ངེས་མེད་ཀྱི SOCKS ཡི་གྲོས་ཆིངས་པར་གཞི %d"
 
 msgid "Unknown certificate"
-msgstr "ངེས་མེད་ཀྱི་དཔང་ཡིག"
+msgstr "ངེས་མེད་ཀྱི་དཔང་ཡིག།"
 
 msgid "Unknown host key"
 msgstr "མཚན་ཉིད་མ་བཞག་པའི་མྱུར་མཐེབ།"
@@ -5432,10 +5436,10 @@ msgid "Up&load and unedit"
 msgstr "ཡར་བསྐུར་དང་ཆབ་གཅིག་བཟོ་བཅོས་མི་བྱེད་པ།"
 
 msgid "Updates"
-msgstr "གསར་སྒྱུར།"
+msgstr "གསར་བསྒྱུར།"
 
 msgid "Upload"
-msgstr "ཡར་བསྐུར།"
+msgstr "ཡར་སྐྱེལ།"
 
 msgid "Upload failed"
 msgstr "ཡར་བསྐྱར་ཕམ་པ།"
@@ -5560,7 +5564,7 @@ msgid "W&rite"
 msgstr "འབྲི་བ། (&R)"
 
 msgid "Waiting"
-msgstr "སྒུག་པ།"
+msgstr "སྒུག་བཞིན་པ།"
 
 msgid "Waiting for browsing connection"
 msgstr "མིག་བཤར་འབྲེལ་མཐུད་སྒུག་པ།"
@@ -5592,7 +5596,7 @@ msgid "Welcome to FileZilla"
 msgstr "དུད་སྣེ FTP བེད་སྤྱོད་པར་དགའ་བསུ་ཞུ།"
 
 msgid "What's new"
-msgstr "གསར་སྒྱུར།"
+msgstr "གསར་བསྒྱུར།"
 
 msgid "What's new:"
 msgstr ""
@@ -5772,16 +5776,16 @@ msgid "Your computer will suspend unless you click Cancel."
 msgstr "གལ་ཏེ་ དོར་བ་མནན་ན་རྒྱུད་ཁོངས་ལམ་སེང་འགེལ་བ་ཡིན།"
 
 msgid "after"
-msgstr "རྗེས།"
+msgstr "དེའི་རྗེས།"
 
 msgid "before"
 msgstr "གོང་།"
 
 msgid "begins with"
-msgstr "འགོ་ཚུགས་ས།"
+msgstr "ནས་འགོ་ཚུགས།"
 
 msgid "bytes"
-msgstr "ཡིག་ཚིགས།"
+msgstr "ཡིག་ཚིགས་གྲངས།"
 
 msgid "contains"
 msgstr "ཚུད་པ།"
@@ -5822,7 +5826,7 @@ msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr "gnutlsuttificate-get-peers ཡི་དཔང་ཡིག་ཕྱིར་ལོག་བྱས་མེད་པ།"
 
 msgid "greater than"
-msgstr "ལས་ཆེ།"
+msgstr "ཆེ་བ།"
 
 msgid "group executable"
 msgstr "ཚོ་ལག་བསྟར་བྱེད་ཆོག་པ།"
@@ -5861,7 +5865,7 @@ msgid "owner writeable"
 msgstr "བདག་པོ་འབྲི་ཆོག་པ།"
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"
 
 msgid "world executable"
 msgstr "ཚང་མ་ལག་བསྟར་བྱེད་ཆོག"

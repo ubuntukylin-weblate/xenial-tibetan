@@ -51,7 +51,7 @@ msgid "%p"
 msgstr "%p"
 
 msgid "%s (%s)"
-msgstr "%s(%s)"
+msgstr "%s (%s)"
 
 msgid "%s (read only)"
 msgstr "%s( ཀློག་ཙམ། )"
@@ -158,7 +158,7 @@ msgid "(Preview may be out of date)"
 msgstr "( སྔོན་ལྟ་ཕལ་ཆེར་དུས་ཚོད་ཡོལ་བ། )"
 
 msgid "(Type any character to close this window)\n"
-msgstr ""
+msgstr "(ཡིག་རྟགས་གང་རུང་མཐེབ་འཇུག་བྱས་ནས་སྒེའུ་ཁུང་འདི་ཁ་རྒྱག་པ། )\n"
 
 msgid "(Unnamed Buffer)"
 msgstr "( ལྷོད་གཏོང་ཁུལ་ལ་མིང་བཏགས་མེད། )"
@@ -194,7 +194,7 @@ msgid "A file named '%s' already exists."
 msgstr "“%s” ཞེས་པའི་ཡིག་ཆ་ཞིག་གནས་ཟིན་པ།"
 
 msgid "About GIMP"
-msgstr "GIMP ཡི་སྐོར།"
+msgstr "GIMP ཡི་སྐོར། "
 
 msgid "Access the image menu"
 msgstr "བརྙན་རིས་བཀོལ་སྤྱོད་འདེམས་བྱང་།"
@@ -309,7 +309,7 @@ msgid "Airbrush Tool: Paint using a brush, with variable pressure"
 msgstr "གཏོར་མདའི་ལག་ཆ།：འགྱུར་རུང་གནོན་ཤུགས་ཀྱི་རིས་པིར་རིས་འགོད་བེད་སྤྱོད་པ།"
 
 msgid "Align"
-msgstr "སྙོམ་པ།"
+msgstr "སྙོམ་སྒྲིག"
 
 msgid "Align bottom of target"
 msgstr "དམིགས་འབེན་གྱི་ཞབས་མཐའ་སྙོམ་པ།"
@@ -333,7 +333,7 @@ msgid "Alignment Tool: Align or arrange layers and other objects"
 msgstr "སྙོམ་སྒྲིག་ལག་ཆ།：རིས་རིམ་མམ་བྱ་ཡུལ་གཞན་སྙོམ་པའམ་སྒྲིག་པ།"
 
 msgid "Alignment:"
-msgstr "སྙོམ་པ།："
+msgstr "སྙོམས་པ།："
 
 msgid "All Channels"
 msgstr "རྒྱུ་ལམ་ཚང་མ།"
@@ -348,7 +348,7 @@ msgid "All files"
 msgstr "ཡིག་ཆ་ཚང་མ།"
 
 msgid "All files (*.*)"
-msgstr "ཡིག་ཆ་ཚང་མ།"
+msgstr "ཡིག་ཆ་ཚང་མ། (*.*)"
 
 msgid "All images"
 msgstr "བརྙན་རིས་ཚང་མ།"
@@ -381,7 +381,7 @@ msgid "Angle"
 msgstr "ཟུར་ཚད།"
 
 msgid "Angle:"
-msgstr "ཟུར་ཚད།："
+msgstr "ཟུར་ཚད།:"
 
 msgid "Another GIMP instance is already running."
 msgstr "GIMP དངོས་དཔེ་གཞན་ཞིག་འཁོར་སྐྱོད་བྱེད་བཞིན་པ།"
@@ -433,10 +433,10 @@ msgstr ""
 "འབུད་པ་དང་ཆབས་གཅིག་སྡུད་སྡེར་ནས་དེ་སུབ་པ་གཏན་འཁེལ་ལམ།"
 
 msgid "Aspect Ratio"
-msgstr "མཐོ་ཞེང་བསྡུར་ཚད།"
+msgstr "མཐོ་ཞེང་སྡུར་ཚད།"
 
 msgid "Aspect ratio"
-msgstr "མཐོ་ཞེང་བསྡུར་ཚད།"
+msgstr "མཐོ་ཞེང་སྡུར་ཚད།"
 
 msgid "Assign an action to '%s'"
 msgstr "“%s” ལ་འགུལ་སྟངས་མངག་གཏོང་བྱེད་པ།"
@@ -445,7 +445,7 @@ msgid "Attribute \"%s\" is invalid on <%s> element in this context"
 msgstr ""
 
 msgid "Author:"
-msgstr "རྩོམ་པ་པོ།"
+msgstr "རྩོམ་པ་པོ།："
 
 msgid "Auto"
 msgstr "རང་འགུལ།"
@@ -537,7 +537,7 @@ msgid "Blue"
 msgstr "སྔོན་པོ།"
 
 msgid "Blue:"
-msgstr "སྔོན་པོ།"
+msgstr "སྔོན་པོ།:"
 
 msgid "Blur / Sharpen"
 msgstr "རབ་རིབ / རྣོ་འགྱུར།"
@@ -551,7 +551,7 @@ msgid "Bold"
 msgstr "སྦོ་གཟུགས།"
 
 msgid "Border Selection"
-msgstr "འདེམས་ཁུལ་གྱི་མཐའ་མཚམས་ལེན་པ།"
+msgstr "འདེམས་ཁུལ་མཐའ་མཚམས་ལེན་པ།"
 
 msgid "Border selection by"
 msgstr "མཐའ་མཚམས་ཚངས་ཕྱེད།"
@@ -710,7 +710,7 @@ msgid "Cancel Sample Point"
 msgstr "དཔེ་སྒྲུག་ཚེག་དོར་བ།"
 
 msgid "Cancelled"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Cannot add layer mask of different dimensions than specified layer."
 msgstr ""
@@ -718,7 +718,7 @@ msgstr ""
 
 msgid "Cannot anchor this layer because it is not a floating selection."
 msgstr ""
-"རིས་རིམ་འདི་གཏན་འཇགས་བྱེད་ཐབས་བྲལ། "
+"རིས་རིམ་འདི་གཏན་འཇགས་བྱེད་མི་ཐུབ། "
 "གང་ལགས་ཤེ་ན་དེ་ནི་འཕྱོ་འགུལ་གྱི་འདེམས་ཁུལ་ཞིག་མིན་པས་རེད།"
 
 msgid "Cannot convert image: palette is empty."
@@ -728,7 +728,7 @@ msgid ""
 "Cannot convert this layer to a normal layer because it is not a floating "
 "selection."
 msgstr ""
-"རིས་རིམ་འདི་གཏན་འཇགས་བྱེད་ཐབས་བྲལ། "
+"རིས་རིམ་འདི་གཏན་འཇགས་བྱེད་མི་ཐུབ། "
 "གང་ལགས་ཤེ་ན་དེ་ནི་འཕྱོ་འགུལ་གྱི་འདེམས་ཁུལ་ཞིག་མིན་པས་རེད།"
 
 msgid "Cannot convert to a palette with more than 256 colors."
@@ -828,7 +828,7 @@ msgid "Changing shortcut failed."
 msgstr "མྱུར་མཐེབ་བསྒྱུར་བ་ཕམ་པ།"
 
 msgid "Channel"
-msgstr "ཟློས་ལམ།"
+msgstr "རྒྱུ་ལམ།"
 
 msgid "Channel Attributes"
 msgstr "རྒྱུ་ལམ་གཏོགས་གཤིས།"
@@ -843,7 +843,7 @@ msgid "Channel cannot be raised higher."
 msgstr "རྒྱུ་ལམ་སླར་ཡང་མཐོ་རུ་གཏོང་མི་ཐུབ།"
 
 msgid "Channel:"
-msgstr "རྒྱུ་ལམ།"
+msgstr "རྒྱུ་ལམ།："
 
 msgid "Channels"
 msgstr "རྒྱུ་ལམ།"
@@ -1117,7 +1117,7 @@ msgid "Click: select    Drag: move"
 msgstr "གནོན་པ།：འདེམ་པ།    འདྲུད་པ།：སྤོ་བ།"
 
 msgid "Clipboard"
-msgstr "དྲས་སྦྱར་པང་།"
+msgstr "དྲས་སྦྱར་ངོས་པང།"
 
 msgid "Clipped to bottom layer"
 msgstr "དྲས་སྦྱར་པང་ནས་ཞབས་སྣེའི་་རིས་རིམ་བར།"
@@ -1207,7 +1207,7 @@ msgid "Color space:"
 msgstr "ཚོན་མདོག་བར་སྟོང་།："
 
 msgid "Color:"
-msgstr "ཁ་དོག"
+msgstr "ཁ་དོག："
 
 msgid "Colori_ze..."
 msgstr "མདོག་གཅིག་ཅན། (_Z)"
@@ -1351,7 +1351,7 @@ msgid "Convolve Type  (%s)"
 msgstr "དྲིལ་བསགས་རིགས་གྲས། (%s)"
 
 msgid "Copied pixels to the clipboard"
-msgstr "བརྙན་རྒྱུ་དེ་དྲས་སྦྱར་པང་ལ་འདྲ་ཕབ་བྱེད་པ།"
+msgstr "བརྙན་རྒྱུ་དེ་དྲས་སྦྱར་པང་ནང་འདྲ་ཕབ་བྱེད་པ།"
 
 msgid "Copy Named"
 msgstr "མིང་འདོགས་འདྲ་ཕབ།"
@@ -1368,13 +1368,13 @@ msgid ""
 msgstr ""
 
 msgid "Copyright:"
-msgstr "པར་དབང་།："
+msgstr "པར་དབང་།:"
 
 msgid "Could not delete '%s': %s"
 msgstr " “%s”སུབ་ཐབས་བྲལ།：%s"
 
 msgid "Could not open '%s' for reading: %s"
-msgstr "“%s” ཁ་ཕྱེ་ནས་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།：%s"
+msgstr "“%s” ཁ་ཕྱེ་བ་དང་ཀློག་ལེན་བྱེད་ཐབས་བྲལ།:%s"
 
 msgid "Could not open '%s' for writing: %s"
 msgstr "འབྲི་བ་ལ “%s”：%s ཁ་ཕྱེ་ཐབས་བྲལ།"
@@ -1496,7 +1496,7 @@ msgid "Cut pixels to the clipboard"
 msgstr "བརྙན་རྒྱུ་དེ་དྲས་སྦྱར་པང་ནང་འདྲ་ཕབ་བྱེད་པ།"
 
 msgid "Cyan"
-msgstr "སྔོ་ནག"
+msgstr "སྔོན་པོ།"
 
 msgid "Cyan:"
 msgstr "སྔོ་ནག："
@@ -1511,7 +1511,7 @@ msgid "Date:"
 msgstr ""
 
 msgid "Debug"
-msgstr "ཚོད་སྒྲིག"
+msgstr " ཚོད་སྒྲིག"
 
 msgid "Debug in case of a crash (never|query|always)"
 msgstr "རྩ་ཐོར་སྐབས་ཚོད་སྒྲིག་བྱེད་པ། (never|query|always)"
@@ -1538,10 +1538,10 @@ msgid "Default _interpolation:"
 msgstr "སོར་བཞག་འཇུག་ཐང་། (_I)："
 
 msgid "Default format"
-msgstr "དུས་ཚེས་ཀྱི་རྣམ་གཞག"
+msgstr "ཚེས་གྲངས་རྣམ་གཞག"
 
 msgid "Delete \"%s\"?"
-msgstr ""
+msgstr " “%s”སུབ་བམ།"
 
 msgid "Delete '%s'?"
 msgstr " “%s”སུབ་བམ།"
@@ -1574,7 +1574,7 @@ msgid "Delete the selected settings"
 msgstr "བདམས་པའི་སྒྲིག་ཆས་སུབ་པ།"
 
 msgid "Deleting \"%s\" failed: %s"
-msgstr ""
+msgstr "“%s” སུབ་པ་ཕམ་པ།：%s"
 
 msgid "Depth of smoothing"
 msgstr "འཇམ་སྙོམས་ཟབ་ཚད།"
@@ -1625,7 +1625,7 @@ msgid "Discard Text Information"
 msgstr "ཡི་གེའི་ཆ་འཕྲོན་དོར་བ།"
 
 msgid "Display"
-msgstr "མངོན་པ།"
+msgstr "འཆར་ཆས།"
 
 msgid "Display Navigation"
 msgstr "ཕྱོགས་ཁྲིད་མངོན་པ།"
@@ -1719,7 +1719,7 @@ msgid "Document History"
 msgstr "ཡིག་ཚགས་ལོ་རྒྱུས།"
 
 msgid "Documents"
-msgstr "ཡིག་ཚགས།"
+msgstr " ཡིག་ཚགས།"
 
 msgid "Dod_ge / Burn"
 msgstr "ཉུང་འཕྲི / གཏིང་ཟབ། (_G)"
@@ -1818,7 +1818,7 @@ msgid "Edit Palette Color"
 msgstr "ཚོན་གཞོང་ཁ་དོག་རྩོམ་སྒྲིག་བྱེད་པ།"
 
 msgid "Edit Path Attributes"
-msgstr "བརྒྱུད་ལམ་གཏོགས་གཤིས་རྩོམ་སྒྲིག་བྱེད་པ།"
+msgstr "བརྒྱུད་ལམ་གཏོགས་གཤིས་རྩོམ་སྒྲིག"
 
 msgid "Edit Quick Mask Attributes"
 msgstr "མགྱོགས་མྱུར་སོག་ལེབ་གཏོགས་གཤིས་རྩོམ་སྒྲིག་བྱེད་པ།"
@@ -1827,7 +1827,7 @@ msgid "Edit Quick Mask Color"
 msgstr "མགྱོགས་མྱུར་སོག་ལེབ་ཁ་དོག་རྩོམ་སྒྲིག་བྱེད་པ།"
 
 msgid "Edit Template"
-msgstr "དཔེ་པང་རྩོམ་སྒྲིག་བྱེད་པ།"
+msgstr "དཔེ་པང་རྩོམ་སྒྲིག"
 
 msgid "Edit colormap entry #%d"
 msgstr "ཁ་དོག་རེའུ་མིག་ཚན་པ #%d རྩོམ་སྒྲིག་བྱེད་པ།"
@@ -1880,7 +1880,7 @@ msgid "Enter a name for this template"
 msgstr "དཔེ་པང་འདི་ལ་མིང་ཞིག་འཇུག་དགོས།"
 
 msgid "Enter location (URI):"
-msgstr "གནས་ས་ནང་འཇུག (URI)："
+msgstr "གནས་ས་འཇུག་པ། (URI)："
 
 msgid "Environment"
 msgstr "ཁོར་ཡུག"
@@ -1931,7 +1931,7 @@ msgid ""
 msgstr ""
 
 msgid "Errors"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Event"
 msgstr "དོན་རྐྱེན།"
@@ -2028,7 +2028,7 @@ msgid "FG to BG (Hardedge)"
 msgstr "མདུན་ལྗོངས་ནས་རྒྱབ་ལྗོངས་བར། ( སྲ་མཐའ། )"
 
 msgid "FG to BG (RGB)"
-msgstr "མདུན་ལྗོངས་ནས་རྒྱབ་ལྗོངས། (RGB)"
+msgstr "མདུན་ལྗོངས་ནས་རྒྱབ་ལྗོངས་བར། ( RGB )"
 
 msgid "FG to Transparent"
 msgstr "མདུན་ལྗོངས་ནས་ནང་གསལ་བར།"
@@ -2073,7 +2073,7 @@ msgid "Failed to resize swap file: %s"
 msgstr "ཡིག་ཆའི་བརྗེ་རེས་ཆེ་ཆུང་ལེགས་སྒྲིག་སྐབས་ཕམ་པ།：%s"
 
 msgid "Failed to run plug-in \"%s\""
-msgstr ""
+msgstr "“%s” བསྒར་ལྷུ་སྤྱོད་པ་ཕམ་པ།"
 
 msgid ""
 "Failed to save data:\n"
@@ -2208,28 +2208,28 @@ msgid "Feather edges"
 msgstr "མུ་འགྲམ་སྒྲོ་འགྱུར།"
 
 msgid "Feather selection by"
-msgstr "ཚངས་ཕྱེད་སྒྲོ་འགྱུར།"
+msgstr "སྒྲོ་འགྱུར་ཚངས་ཕྱེད།"
 
 msgid "File"
 msgstr "ཡིག་ཆ།"
 
 msgid "File Exists"
-msgstr "ཡིག་ཆ་གནས་ཡོད་པ།"
+msgstr "ཡིག་ཆ་ཡོད་པ།"
 
 msgid "File Name:"
-msgstr "ཡིག་ཆའི་མིང་།："
+msgstr "ཡིག་ཆ་མིང་།:"
 
 msgid "File Open behaviour:"
 msgstr "ཡིག་ཆ་ཁ་ཕྱེད་བའི་བྱ་སྤྱོད།："
 
 msgid "File Size:"
-msgstr "ཡིག་ཆའི་ཆེ་ཆུང་།："
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་།"
 
 msgid "File Type"
 msgstr "ཡིག་ཆའི་རིགས་གྲས།"
 
 msgid "File Type:"
-msgstr "ཡིག་ཆའི་རིགས་གྲས།："
+msgstr "ཡིག་ཆའི་རིགས་གྲས།"
 
 msgid "File is truncated in line %d"
 msgstr "ཡིག་ཆ་དེ་ཕྲེང་ཨང %d ལ་གཏུབས་ཟིན་པ།"
@@ -2295,7 +2295,7 @@ msgid "Flip path stroke"
 msgstr "བརྒྱུད་ལམ་སྨྱུག་ཁམ་སློག་པ།"
 
 msgid "Flipping"
-msgstr "སློག་པ།"
+msgstr "ཕྱིར་སྐོར།"
 
 msgid "Floated Layer"
 msgstr "འཕྱོ་འགུལ་གྱི་རིས་རིམ།"
@@ -2315,7 +2315,7 @@ msgid "Folder"
 msgstr "ཡིག་ཁུག"
 
 msgid "Folders"
-msgstr "དཀར་ཆག"
+msgstr " དཀར་ཆག"
 
 msgid "Font"
 msgstr "ཡིག་གཟུགས།"
@@ -2463,7 +2463,7 @@ msgid "Gamma"
 msgstr "Gamma"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Global Buffer"
 msgstr "ཁྱོན་ཡོངས་ལྷོད་གཏོང་ཁུལ།"
@@ -2502,7 +2502,7 @@ msgid "Green"
 msgstr "ལྗང་མདོག"
 
 msgid "Green:"
-msgstr "ལྗང་ཁུ།："
+msgstr "ལྗང་ཁུ།:"
 
 msgid "Grid"
 msgstr "དྲ་མིག"
@@ -2529,7 +2529,7 @@ msgid "HTML notation:"
 msgstr "HTML རྣམ་གཞག："
 
 msgid "H_eight:"
-msgstr "མཐོ་ཚད། (_E)："
+msgstr "མཐོ་ཚད།(_E)："
 
 msgid "H_elp browser to use:"
 msgstr "སྤྱོད་བྱའི་རོགས་རམ་མིག་བཤར་ཆས། (_E)："
@@ -2562,7 +2562,7 @@ msgid "Height:"
 msgstr "མཐོ་ཚད།"
 
 msgid "Help"
-msgstr "རོགས་རམ།"
+msgstr " རོགས་རམ།"
 
 msgid "Help Browser"
 msgstr "རོགས་རམ་མིག་བཤར་ཆས།"
@@ -2590,7 +2590,7 @@ msgid "Hide docks and other windows, leaving only image windows."
 msgstr "སྡོད་པ་དང་གཞན་གྱི་སྒེའུ་ཁུང་གབ་པ། བརྙན་རིས་སྒེའུ་ཁུང་ཁོ་ན་ཉར་བ་ཡིན།"
 
 msgid "Highlight"
-msgstr "མཐོ་གསལ།"
+msgstr "མདངས་ཆེན།"
 
 msgid "Hint for _docks and toolbox:"
 msgstr ""
@@ -2614,7 +2614,7 @@ msgid "History"
 msgstr "ལོ་རྒྱུས།"
 
 msgid "Horizontal"
-msgstr "ཆུ་ངོས།"
+msgstr "ཆུ་སྙོམས།"
 
 msgid "Horizontal offset for distribution"
 msgstr "ཁྱབ་པའི་ཆུ་སྙོམས་གནས་སྤོ།"
@@ -2729,7 +2729,7 @@ msgid "Illegal variable name in environment file %s: %s"
 msgstr "ཁོར་ཡུག་ཡིག་ཆ %s ཡི་ནང་ལུགས་འགལ་འགྱུར་ཚད་མིང་ཚུད་འདུག：%s"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Image '%s' (%d) is already of type '%s'"
 msgstr "བརྙན་རིས “%s”(%d) ནི་རིགས “%s” ཡིན་པ།"
@@ -2741,7 +2741,7 @@ msgid "Image Editor"
 msgstr "བརྙན་རིས་རྩོམ་སྒྲིག་ཆས།"
 
 msgid "Image Properties"
-msgstr "པར་རིས་ཀྱི་གཏོགས་གཤིས།"
+msgstr "བརྙན་རིས་གཏོགས་གཤིས།"
 
 msgid "Image Size"
 msgstr "བརྙན་རིས་ཆེ་ཆུང་།"
@@ -2785,7 +2785,7 @@ msgid "Image saved to '%s'"
 msgstr "བརྙན་རིས་དེ “%s” ལ་ཉར་ཚགས་ཟིན་པ།"
 
 msgid "Images"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Import Brightness-Contrast settings"
 msgstr "གསལ་ཚད་འདྲེན་འཇུག - སྡུར་ཚད་སྒྲིག་འགོད།"
@@ -2842,7 +2842,7 @@ msgid "Index %d"
 msgstr "གསལ་བྱང་། %d"
 
 msgid "Index:"
-msgstr "གསལ་བྱང་།："
+msgstr " གསལ་བྱང་།："
 
 msgid "Indexed Color Conversion"
 msgstr "གསལ་བྱང་གི་ཁ་དོག་བརྗེ་སྤོར།"
@@ -2909,7 +2909,7 @@ msgid "Interactive refinement  (%s)"
 msgstr "སྤེལ་རེས་ཚུལ་གྱི་ཞུན་བརྡར། (%s)"
 
 msgid "Interface"
-msgstr "འཆར་ངོས།"
+msgstr "མཚམས་ངོས།"
 
 msgid "Internal Procedures"
 msgstr "ནང་ཁུལ་གྱི་བརྒྱུད་རིམ།"
@@ -2936,7 +2936,7 @@ msgid "Invalid UTF-8 string in XCF file"
 msgstr "ཡིག་ཆ XCF ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་ཚུད་འདུག"
 
 msgid "Invalid UTF-8 string in brush file '%s'."
-msgstr "རིས་པིར་ཡིག་ཆ “%s” ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་གནས་པ།"
+msgstr "རིས་པིར་ཡིག་ཆ “%s” ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་ཚུད་འདུག"
 
 msgid "Invalid UTF-8 string in gradient file '%s'."
 msgstr "རིམ་འགྱུར་ཡིག་ཆ “%s” ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་ཚུད་འདུག"
@@ -2945,7 +2945,7 @@ msgid "Invalid UTF-8 string in palette file '%s'"
 msgstr "ཚོན་གཞོང་ཡིག་ཆ “%s” ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་ཚུད་འདུག"
 
 msgid "Invalid UTF-8 string in pattern file '%s'."
-msgstr "དཔེ་རིས་ཡིག་ཆ “%s” ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་གནས་པ།"
+msgstr "དཔེ་རིས་ཡིག་ཆ “%s” ཡི་ནང་ནུས་མེད་ཀྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་ཚུད་འདུག"
 
 msgid "Invalid character sequence in URI"
 msgstr "URI ཡི་ནང་ནུས་མེད་ཀྱི་ཡིག་རྟགས་རིམ་སྟར་ཡོད་པ།"
@@ -3169,7 +3169,7 @@ msgid "Loading preview..."
 msgstr "སྔོན་ལྟ་ཁུར་སྣོན་བྱེད་བཞིན་པ།"
 
 msgid "Location:"
-msgstr "གནས་ས་"
+msgstr "གནས་ས།:"
 
 msgid "Lock alpha channel"
 msgstr "རྒྱུ་ལམ Alpha སྒྲོག་པ།"
@@ -3202,7 +3202,7 @@ msgid "Magenta"
 msgstr ""
 
 msgid "Magenta:"
-msgstr "དམར་པོ།："
+msgstr "དམར་པོ།:"
 
 msgid "Make _transparent"
 msgstr "ནང་གསལ། (_T)"
@@ -3232,7 +3232,7 @@ msgid "Mark out of gamut colors"
 msgstr "ཚོན་མདོག་ཚངས་མའི་ཁྱབ་ཁོངས་ལས་བརྒལ་བར་རྟགས་བཀོད་པ།"
 
 msgid "Max depth"
-msgstr "ཟབ་ཚད་ཆེ་ཤོས།"
+msgstr "གཏིང་ཟབ་ཤོས།"
 
 msgid "Maximum _filesize for thumbnailing:"
 msgstr "བསྡུས་རིས་ཡིག་ཆ་ཆེ་ཤོས་ཀྱི་ཆེ་ཆུང་། (_F)："
@@ -3384,10 +3384,10 @@ msgid "Na_vigation preview size:"
 msgstr "ཕྱོགས་ཁྲིད་སྔོན་ལྟའི་ཆེ་ཆུང་། (_V)："
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name:"
-msgstr "མིང་།"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid "Named buffer '%s' not found"
 msgstr "ལྷོད་གསོག་མཛོད “%s” རྙེད་མེད་པ།"
@@ -3427,6 +3427,7 @@ msgstr "འདྲེན་འཇུག་གསར་འཛུགས།"
 
 msgid "No batch interpreter specified, using the default '%s'.\n"
 msgstr ""
+"དམིགས་འཛུགས་ཀྱི་སྡེབ་གཅོད་འགྲེལ་ཆས་མེད་པས་སོར་བཞག་གི “%s” བེད་སྤྱོད་པ། \n"
 
 msgid "No brushes available for use with this tool."
 msgstr "ལག་ཆ་འདི་ཡིས་བེད་སྤྱོད་པའི་རིས་པིར་མེད་པ།"
@@ -3465,7 +3466,7 @@ msgid "No selection"
 msgstr "གདམ་མེད་པ།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Not a regular file"
 msgstr "སྤྱིར་བཏང་གི་ཡིག་ཆ་མིན་པ།"
@@ -3532,7 +3533,7 @@ msgid "Open Image as Layers"
 msgstr "རིས་རིམ་ལ་རྩིས་ནས་བརྙན་རིས་ཁ་ཕྱེ་བ།"
 
 msgid "Open Location"
-msgstr "གནས་ས་ཁ་འབྱེད།"
+msgstr "གནས་ས་ཁ་ཕྱེ་བ།"
 
 msgid "Open Text File (UTF-8)"
 msgstr "ཡིག་རྐྱང་ཡིག་ཆ། (UTF-8)"
@@ -3569,7 +3570,7 @@ msgid "Open the pattern selection dialog"
 msgstr "དཔེ་རིས་འདེམ་པའི་གླེང་སྒྲོམ་ཁ་ཕྱེ་བ།"
 
 msgid "Opening '%s'"
-msgstr "“%s” ཁ་ཕྱེ་བ།"
+msgstr "“%s” ཁ་ཕྱེ་བཞིན་པ།"
 
 msgid ""
 "Opening '%s' failed:\n"
@@ -3620,7 +3621,7 @@ msgid "Paint Dynamics"
 msgstr "འགུལ་རྣམ་རིས་འགོད།"
 
 msgid "Paint Dynamics Editor"
-msgstr "འགུལ་རྣམ་རིས་འགོད་རྩོམ་སྒྲིག་ཆས།"
+msgstr "འགུལ་རྣམ་རིས་འགོད་ཀྱི་རྩོམ་སྒྲིག་ཆས།"
 
 msgid "Paint Mode"
 msgstr "བྱུགས་བྲིས་རྣམ་པ།"
@@ -3691,7 +3692,7 @@ msgid "Pat_hs"
 msgstr "བརྒྱུད་ལམ། (_H)"
 
 msgid "Path"
-msgstr "འགྲོ་ལམ་འགྲོ་ལམ།"
+msgstr "འགྲོ་ལམ།"
 
 msgid "Path Attributes"
 msgstr "བརྒྱུད་ལམ་གཏོགས་གཤིས།"
@@ -3845,7 +3846,7 @@ msgid "Polygonal"
 msgstr "མཐའ་མང་དབྱིབས།"
 
 msgid "Position:"
-msgstr "གནས་ས།："
+msgstr "གནས་ས།:"
 
 msgid "Position: %0.4f"
 msgstr "གནས་ས།：%0.4f"
@@ -3873,10 +3874,10 @@ msgid "Pre_sets:"
 msgstr "སྔོན་སྒྲིག (_S):"
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Preserve _luminosity"
-msgstr "གསལ་ཚད་རྒྱུན་འཁྱོངས། (_L)"
+msgstr "གསལ་ཚད་རྒྱུན་སྲུང་། (_L)"
 
 msgid "Press %s to close all images."
 msgstr "%s ལ་གཞིགས་ནས་བརྙན་རིས་ཚང་མ་ཁ་རྒྱག་པ།"
@@ -3993,13 +3994,13 @@ msgid "Procedure '%s' returned no return values"
 msgstr "བརྒྱུད་རིམ “%s” ལ་ཕྱིར་ལོག་གྲངས་བྲིན་མེད་པ།"
 
 msgid "Progress"
-msgstr "འཕེལ་ཚད།"
+msgstr " འཕེལ་རིམ།"
 
 msgid "Properties"
 msgstr "གཏོགས་གཤིས།"
 
 msgid "Quality"
-msgstr "སྤུས་ཚད།"
+msgstr "སྒྲ་རྒྱུ།"
 
 msgid "Querying new Plug-ins"
 msgstr "བསྒར་ལྷུ་གསར་པ་འདྲི་རྩད་བྱེད་བཞིན་པ།"
@@ -4029,7 +4030,7 @@ msgid "RGBA (%0.3f, %0.3f, %0.3f, %0.3f)"
 msgstr "RGBA(%0.3f, %0.3f, %0.3f, %0.3f)"
 
 msgid "R_e-Show \"%s\""
-msgstr ""
+msgstr "“%s” ཡང་བསྐྱར་མངོན་པ། (_E)"
 
 msgid "R_eset Channel"
 msgstr "རྒྱུ་ལམ་བསྐྱར་སྒྲིག (_E)"
@@ -4083,7 +4084,7 @@ msgid "Re-distribute _Handles in Selection"
 msgstr "བདམས་པའི་ཁུལ་ཁོངས་ཀྱི་འདེགས་ཚེག་བསྐྱར་སྒྲིག་བྱེད་པ། (_H)"
 
 msgid "Re_peat \"%s\""
-msgstr ""
+msgstr "བསྐྱར་ཟློས “%s”(_P)"
 
 msgid "Re_vert Zoom"
 msgstr "སྐྱེད་སྐྱུང་སླར་གསོ། (_V)"
@@ -4124,7 +4125,7 @@ msgid "Really clear image's undo history?"
 msgstr "བརྙན་རིས་ཀྱི་འདོར་བའི་ལོ་རྒྱུས་དངོས་གནས་གཙང་སེལ་བྱེད་དམ།"
 
 msgid "Reassigning the shortcut will cause it to be removed from \"%s\"."
-msgstr ""
+msgstr "མྱུར་མཐེབ་ཡང་བསྐྱར་བགོ་བཤའ་བྱས་པ་ཡིས་དེ།“%s” ཡི་ནང་ནས་མེད་པར་བཟོས་པ།"
 
 msgid "Rectangle Select"
 msgstr "གྲུ་བཞི་ནར་མོ་འདེམ་པ།"
@@ -4139,7 +4140,7 @@ msgid "Red"
 msgstr "དམར་པོ།"
 
 msgid "Red:"
-msgstr "དམར་པོ།："
+msgstr "དམར་པོ།:"
 
 msgid "Redo steps:"
 msgstr "གོམ་གྲངས་བསྐྱར་ལས།："
@@ -4221,7 +4222,7 @@ msgstr ""
 "སོར་བཞག་བརྙན་རིས་ནང་སྒྲིག་འགོད་བྱས་པའི་སོར་བཞག་མཆན་འགྲེལ་དེ་མིག་སྔའི་བརྙན་རིས་མཆན་འགྲེལ་ལ་བརྗེ་བར་སྤྱོད་པ།"
 
 msgid "Replicate"
-msgstr "འདྲ་བཟོ།"
+msgstr "འདྲ་ཕབ།"
 
 msgid "Replicate Gradient Segment"
 msgstr "རིམ་འགྱུར་དུམ་བུ་འདྲ་ཕབ།"
@@ -4239,7 +4240,7 @@ msgid "Reset All Preferences"
 msgstr "སྔོན་འདེམས་ཚན་པ་ཚང་མ་བསྐྱར་སྒྲིག་བྱེད་པ།"
 
 msgid "Reset All Tool Options"
-msgstr "ལག་ཆའི་འདེམས་ཚན་ཚང་མ་བསྐྱར་སྒྲིག་བྱེད་པ།"
+msgstr "ལག་ཆ་འདེམས་ཚན་ཚང་མ་བསྐྱར་སྒྲིག་བྱེད་པ།"
 
 msgid "Reset all Filters"
 msgstr "འཚག་ཤེལ་ཚང་མ་བསྐྱར་སྒྲིག་བྱེད་པ།"
@@ -4284,7 +4285,7 @@ msgid "Resizing"
 msgstr "ཆེ་ཆུང་བསྒྱུར་བ།"
 
 msgid "Resolution:"
-msgstr "འབྱེད་ཕྱོད།："
+msgstr "འབྱེད་ཕྱོད།"
 
 msgid "Resource Consumption"
 msgstr "ཐོན་ཁུངས་ཟད་གྲོན།"
@@ -4334,7 +4335,7 @@ msgid "Right Endpoint Color"
 msgstr "གཡས་སྣེའི་ཁ་དོག"
 
 msgid "Rotate"
-msgstr "འཁྱིལ་འཁོར།"
+msgstr "འཁོར་སྐྱོད།"
 
 msgid "Rotate Path"
 msgstr "བརྒྱུད་ལམ་འཁྱིལ་འཁོར།"
@@ -4349,7 +4350,7 @@ msgid "Rotate path stroke"
 msgstr "བརྒྱུད་ལམ་སྨྱུག་ཁམ་འཁྱིལ་འཁོར།"
 
 msgid "Rotating"
-msgstr "འཁྱིལ་འཁོར།"
+msgstr "འཁོར་སྐྱོད།"
 
 msgid "Roughly outline the object to extract"
 msgstr "བྱ་ཡུལ་ལེན་བདེ་བའི་ཆེད་སྤྱི་ཁོག་རགས་ཙམ་ཞིག་བྲིས་པ།"
@@ -4385,7 +4386,7 @@ msgid "Sat.:"
 msgstr "ཚད་ལོངས་ཚད།："
 
 msgid "Save"
-msgstr "ཉར་བ།"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
 
 msgid "Save '%s' as POV-Ray"
 msgstr "“%s” དེ POV-Ray ལ་ཉར་ཚགས་བྱེད་པ།"
@@ -4394,7 +4395,7 @@ msgid "Save Error Log to File"
 msgstr "ནོར་འཁྲུལ་ཐོན་པའི་ཟིན་ཐོ་དེ་ཡིག་ཆའི་ནང་ཉར་ཚགས་བྱེད་པ།"
 
 msgid "Save Image"
-msgstr "པར་རིས་ཉར་བ།"
+msgstr " བརྙན་རིས་ཉར་ཚགས།"
 
 msgid "Save Input Device Settings _Now"
 msgstr "ནང་འཇུག་སྒྲིག་ཆས་ཀྱི་སྒྲིག་འགོད་ལམ་སེང་ཉར་ཚགས་བྱེད་པ། (_N)"
@@ -4434,7 +4435,7 @@ msgid "Saved Settings"
 msgstr "ཉར་ཚགས་ཟིན་པའི་འདེམས་ཚན།"
 
 msgid "Saving '%s'"
-msgstr "ཉར་ཚགས་“%s”"
+msgstr "“%s” ཉར་ཚགས་བྱེད་བཞིན་པ།"
 
 msgid ""
 "Saving '%s' failed:\n"
@@ -4455,7 +4456,7 @@ msgid "Scalable SVG image (*.svg)"
 msgstr "སྐྱེད་སྐྱུང་རུང་བའི་བརྙན་རིས SVG། (*.svg)"
 
 msgid "Scale"
-msgstr "སྐྱེད་སྐྱུང་།"
+msgstr "བསྡུར་ཚད་ཆེར་སྐྱེད།"
 
 msgid "Scale Image"
 msgstr "བརྙན་རིས་སྐྱེད་སྐྱུང་།"
@@ -4603,7 +4604,7 @@ msgid "Select Swap Folder"
 msgstr "བརྗེ་རེས་ཡིག་ཁུག་འདེམ་པ།"
 
 msgid "Select Theme"
-msgstr "བརྗོད་གཞི་འདེམ་པ།"
+msgstr "བརྗོད་སྙིང་འདེམ་པ།"
 
 msgid "Select Theme Folders"
 msgstr "བརྗོད་གཞི་ཡིག་ཁུག་འདེམ་པ།"
@@ -4624,7 +4625,7 @@ msgid "Select an operation from the list above"
 msgstr "གོང་གི་རེའུ་མིག་ནང་ནས་བཀོལ་སྤྱོད་ཚན་པ་གཅིག་འདེམ་པ།"
 
 msgid "Select by Color"
-msgstr "ཁ་དོག་ལ་གཞིགས་ནས་འདེམ་པ།"
+msgstr "ཁ་དོག་ལྟར་འདེམ་པ།"
 
 msgid "Select by Color Tool: Select regions with similar colors"
 msgstr ""
@@ -4639,7 +4640,7 @@ msgstr "ཚོད་འཛིན་ཆས་བདམས་པས་ཁྱེར
 msgid ""
 "Select the number of times\n"
 "to replicate the selected segment."
-msgstr ""
+msgstr "བདམས་པའི་དུམ་བུ་འདྲ་ཕབ་ཀྱི་ཁ་གྲངས་འདེམ་པ།"
 
 msgid ""
 "Select the number of times\n"
@@ -4649,12 +4650,12 @@ msgstr ""
 msgid ""
 "Select the number of uniform parts\n"
 "in which to split the segments in the selection."
-msgstr ""
+msgstr "བདམས་པའི་དུམ་བུ་ཚང་མའི་ཆ་མཚུངས་གཏུབ་གཅོད་ཀྱི་དཔར་གྲངས་འདེམ་པ།"
 
 msgid ""
 "Select the number of uniform parts\n"
 "in which to split the selected segment."
-msgstr ""
+msgstr "བདམས་པའི་དུམ་བུའི་ཆ་མཚུངས་གཏུབ་གཅོད་ཀྱི་དཔར་གྲངས་འདེམ་པ།"
 
 msgid "Select transparent areas"
 msgstr "ནང་གསལ་ཁུལ་ཁོངས་འདེམ་པ།"
@@ -4669,7 +4670,7 @@ msgid "Selection Editor"
 msgstr "འདེམས་ཁུལ་གྱི་རྩོམ་སྒྲིག་ཆས།"
 
 msgid "Selection Mask"
-msgstr "འདེམས་ཁུལ་གྱི་སོག་ལེབ།"
+msgstr "འདེམས་ཁུལ་སོག་ལེབ།"
 
 msgid "Selection criterion"
 msgstr "འདེམས་ཁུལ་གྱི་ཚད་ལྡན།"
@@ -4842,7 +4843,7 @@ msgid "Settings saved to '%s'"
 msgstr "\"སྒྲིག་འགོད་དེ “%s” ལ་ཉར་ཚགས་བྱས་ཟིན་པ།"
 
 msgid "Shape"
-msgstr "དབྱིབས།"
+msgstr "བཟོ་ལྟ།"
 
 msgid "Shape:"
 msgstr "དབྱིབས།："
@@ -4868,7 +4869,7 @@ msgid "Shortcut"
 msgstr "མྱུར་མཐེབ།"
 
 msgid "Shortcut \"%s\" is already taken by \"%s\" from the \"%s\" group."
-msgstr ""
+msgstr "མྱུར་མཐེབ “%1$s” དེ་ཁྱུ་ཚོ “%3$s” ཡི “%2$s” ཡིས་བཅད་བཟུང་བྱས་པ།"
 
 msgid "Shortcut: "
 msgstr "མྱུར་མཐེབ།："
@@ -4886,13 +4887,13 @@ msgid "Show _layer boundary"
 msgstr "རིས་རིམ་མཐའ་མཚམས་མངོན་པ། (_L)"
 
 msgid "Show _menubar"
-msgstr "འདེམས་བྱང་ཚང་མངོན་པ། (_M)"
+msgstr "འདེམ་བྱང་སྡེ་འཆར་བ།(_M)"
 
 msgid "Show _rulers"
 msgstr "ཚད་ཁྲེ་མངོན་པ། (_R)"
 
 msgid "Show _tooltips"
-msgstr "ལག་ཆའི་སྣེ་སྟོན་མངོན་པ། (_T)"
+msgstr "ལག་ཆ་གསལ་བརྡ་མངོན་པ། (_T)"
 
 msgid "Show a preview of the transformed image"
 msgstr "བརྗེ་བསྒྱུར་བརྙན་རིས་ཀྱི་སྔོན་ལྟ་མངོན་པ།"
@@ -5005,7 +5006,7 @@ msgid "Smooth stroke"
 msgstr "འཇམ་སྙོམས་ཐིག་རིས།"
 
 msgid "Smoothing:"
-msgstr "འཇམ་སྙོམས།:"
+msgstr "འཇམ་པ།："
 
 msgid "Smudge"
 msgstr "འབྱུག་པ།"
@@ -5014,7 +5015,7 @@ msgid "Smudge Tool: Smudge selectively using a brush"
 msgstr "འབྱུག་པའི་ལག་ཆ།：རིས་པིར་བེད་སྤྱད་ནས་གདམ་གསེས་རང་བཞིན་གྱིས་འབྱུག་པ།"
 
 msgid "Source"
-msgstr "ཁུངས།"
+msgstr "འབྱུང་ཁུངས།"
 
 msgid "Space Bar"
 msgstr "སྟོང་མཐེབ།"
@@ -5047,10 +5048,10 @@ msgid "Spikes"
 msgstr "སྙེ་མ།"
 
 msgid "Split"
-msgstr "ཕྲལ་གཅོད།"
+msgstr "ཕྲལ་བ།"
 
 msgid "Split Gradient Segment Uniformly"
-msgstr "ཆ་མཚུངས་གཏུབ་གཅོད་རིམ་འགྱུར་དུམ་བུ།"
+msgstr "ཆ་མཚུངས་གཏུབ་གཅོདརིམ་འགྱུར་དུམ་བུ།"
 
 msgid "Split Gradient Segments Uniformly"
 msgstr "ཆ་མཚུངས་གཏུབ་གཅོདརིམ་འགྱུར་དུམ་བུ།"
@@ -5089,10 +5090,10 @@ msgid "Strikethrough"
 msgstr "ཐིག་སུབ་པ།"
 
 msgid "Stroke Path"
-msgstr "བརྒྱུད་ལམ་འབྲི་བ།"
+msgstr "བརྒྱུད་ལམ་བྲིས་པ།"
 
 msgid "Stroke Selection"
-msgstr "འདེམས་ཁུལ་འབྲིག་བ།"
+msgstr "འདེམས་ཁུལ་བྲིས་པ།"
 
 msgid "Swap folder:"
 msgstr "ཡིག་ཁུག་བརྗེ་རེས།："
@@ -5110,19 +5111,19 @@ msgid "Te_xt"
 msgstr "ཡི་གེ (_X)"
 
 msgid "Templates"
-msgstr "མ་དཔེ།"
+msgstr " དཔེ་པང་།"
 
 msgid "Temporary folder:"
 msgstr "གནས་སྐབས་ཡིག་ཁུག："
 
 msgid "Text"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཡིག་དེབ།"
 
 msgid "Text Color"
 msgstr "ཡི་གེའི་ཁ་དོག"
 
 msgid "Text Editor"
-msgstr "ཡིག་རྐྱང་རྩོམ་སྒྲིག་ཆས།"
+msgstr "ཡིག་དེབ་རྩོམ་སྒྲིག་ཆས།"
 
 msgid "Text Layer"
 msgstr "ཡི་གེའི་རིས་རིམ།"
@@ -5306,7 +5307,7 @@ msgid "Theme Folders"
 msgstr "བརྗོད་གཞི་ཡིག་ཁུག"
 
 msgid "Themes"
-msgstr "བརྗོད་བྱ་གཙོ་བོ།བརྗོད་བྱ་གཙོ་བོ།"
+msgstr "བརྗོད་གཞི།"
 
 msgid ""
 "There can only be one active keyboard controller.\n"
@@ -5342,7 +5343,7 @@ msgid "There is no active layer to crop."
 msgstr "གཅོད་གཏུབ་ཆོག་པའི་བྱ་བྱེད་རིས་རིམ་མེད་པ།"
 
 msgid "There is no image data in the clipboard to paste."
-msgstr "དྲས་སྦྱར་པང་ནང་སྦྱར་རུང་བའི་བརྙན་རིས་ཀྱི་གཞི་གྲངས་མེད་པ།"
+msgstr "དྲས་སྦྱར་པང་ནང་སྦྱར་ཆོག་པའི་བརྙན་རིས་གཞི་གྲངས་མེད་པ།"
 
 msgid "There is no layer to transform."
 msgstr "བརྗེ་བསྒྱུར་ཆོག་པའི་རིས་རིམ་མེད་པ།"
@@ -5529,7 +5530,7 @@ msgstr ""
 "བབ་མཐུན་གྱི་བསྒར་ལྷུ་རྩ་ཐོར་དུ་ཕྱིན་ཡོད་པ་འདྲ།"
 
 msgid "Undefined"
-msgstr "མཚན་ཉིད་བཞག་མེད།"
+msgstr "མཚན་ཉིད་བཞག་མེད་པ།"
 
 msgid "Underline"
 msgstr "འོག་ཐིག"
@@ -5565,13 +5566,13 @@ msgid "Unnamed"
 msgstr "མིང་བཏགས་མེད་པ།"
 
 msgid "Untitled"
-msgstr "མིང་བཏགས་མེད།"
+msgstr "མིང་བཏགས་མེད་པ།"
 
 msgid "Updating tag cache"
 msgstr "གདོང་འཛར་གྱི་ལྷོད་གསོག་གསར་སྒྱུར་བྱེད་བཞིན་པ།"
 
 msgid "Use \"_Dot for dot\" by default"
-msgstr ""
+msgstr "“ཚེག་ནས་ཚེག” སོར་བཞག་བེད་སྤྱོད་པ། (_D)"
 
 msgid "Use GIMP in a single-window mode."
 msgstr "སྒེའུ་ཁུང་རྐྱང་པའི་རྣམ་པ་ཡི་ནང GIMP བེད་སྤྱོད་པ།"
@@ -5643,7 +5644,7 @@ msgid "Version:"
 msgstr "པར་གཞི།："
 
 msgid "Vertical"
-msgstr "གཞུང་དྲང་།"
+msgstr "དྲང་འཕྱངས།"
 
 msgid "Vertical offset for distribution"
 msgstr "ཁྱབ་ཚུལ་གྱི་གཞུང་ཕྱོགས་གནས་སྤོ།"
@@ -5725,6 +5726,8 @@ msgid ""
 "When enabled, the grid is visible by default. This can also be toggled with "
 "the \"View->Show Grid\" command."
 msgstr ""
+"གལ་སྲིད་སྤྱོད་དགོས་ན། དྲ་མིག་དེ་སོར་བཞག་ཐོག་མཐོང་རུང་ཡིན་པ་མ་ཟད། བཀའ་བརྡ "
+"“ལྟ་བ -> དྲ་མིག་མངོན་པ ” བརྒྱུད་བརྗེ་བ་ཡིན།"
 
 msgid ""
 "When enabled, the guides are visible by default. This can also be toggled "
@@ -5766,6 +5769,8 @@ msgid ""
 "When enabled, the rulers are visible by default. This can also be toggled "
 "with the \"View->Show Rulers\" command."
 msgstr ""
+"གལ་སྲིད་སྤྱད་ཚེ། ཚད་ཁྲེ་དེ་སོར་བཞག་ཐོག་མཐོང་རུང་ཡིན་པ་མ་ཟད། བཀའ་བརྡ “ལྟ་བ ->"
+" ཚད་ཁྲེ་མངོན་པ ” བརྒྱུད་བརྗེ་བ་ཡིན།"
 
 msgid ""
 "When enabled, the sample points are visible by default. This can also be "
@@ -5793,6 +5798,8 @@ msgid ""
 "When enabled, the selection is visible by default. This can also be toggled "
 "with the \"View->Show Selection\" command."
 msgstr ""
+"གལ་སྲིད་སྤྱད་ཚེ། འདེམས་ཁུལ་དེ་སོར་བཞག་མཐོང་རུང་ཡིན་པ་མ་ཟད། བཀའ་བརྡ “ལྟ་བ -> "
+"འདེམས་ཁུལ་མངོན་པ ”བརྒྱུད་བརྗེ་བ་ཡིན།"
 
 msgid ""
 "When enabled, the statusbar is visible by default. This can also be toggled "
@@ -5842,7 +5849,7 @@ msgid "White Balance operates only on RGB color layers."
 msgstr "RGB ཁ་དོག་གི་རིས་རིམ་ཁོ་ནར་དཀར་དོ་མཉམ་གྱི་བཀོལ་སྤྱོད་བྱས་ཆོག"
 
 msgid "Width"
-msgstr "ཞེང་ཚད།"
+msgstr " ཞེང་ཚད།"
 
 msgid "Width of selection"
 msgstr "འདེམས་ཁུལ་གྱི་ཞེང་ཚད།"
@@ -5851,7 +5858,7 @@ msgid "Width:"
 msgstr "ཞེང་ཚད།"
 
 msgid "Window Management"
-msgstr "སྒེའུ་ཁུང་དོ་དམ"
+msgstr "སྒེའུ་ཁུང་དོ་དམ།"
 
 msgid "Window Manager Hints"
 msgstr "སྒེའུ་ཁུང་དོ་དམ་ཆས་ཀྱི་སྣེ་སྟོན།"
@@ -5860,7 +5867,7 @@ msgid "Window Positions"
 msgstr "སྒེའུ་ཁུང་གི་གནས་ས།"
 
 msgid "Windows"
-msgstr "སྒེའུ་ཁུང་།"
+msgstr " སྒེའུ་ཁུང་།"
 
 msgid "X"
 msgstr "X"
@@ -5990,10 +5997,10 @@ msgid "Zoom All"
 msgstr "ཆ་ཚང་མངོན་པ།"
 
 msgid "Zoom In"
-msgstr "ཆེར་སྐྱེད།"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Zoom Out"
-msgstr "ཆུང་སྐྱུང་།"
+msgstr "ཆུང་བསྡུ།"
 
 msgid "Zoom Ratio"
 msgstr "སྐྱེད་སྐྱུང་བསྡུར་ཕྱོད།"
@@ -6008,7 +6015,7 @@ msgid "Zoom _In"
 msgstr "ཆེར་སྐྱེད།(_I)"
 
 msgid "Zoom _Out"
-msgstr "ཆུང་སྐྱུང་།(_O)"
+msgstr "ཆུང་བསྡུ།(_O)"
 
 msgid "Zoom all"
 msgstr "ཆ་ཚང་མངོན་པ།"
@@ -6020,10 +6027,10 @@ msgid "Zoom image when window size changes"
 msgstr "སྒེའུ་ཁུང་ཆེ་ཆུང་སྒྱུར་བའི་སྐབས་བརྙན་རིས་སྐྱེད་སྐྱུང་བྱེད་པ།"
 
 msgid "Zoom in"
-msgstr "ཆེར་སྐྱེད།"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Zoom out"
-msgstr "ཆུང་སྐྱུང་།"
+msgstr "ཆུང་བསྡུ།"
 
 msgid "Zoom ratio:"
 msgstr "སྐྱེད་སྐྱུང་བསྡུར་ཕྱོད །："
@@ -6050,7 +6057,7 @@ msgid "_Angle:"
 msgstr "ཟུར་ཚད། (_A)："
 
 msgid "_Antialiasing"
-msgstr "མུ་འགྲམ་འཇམ་སྙོམས། (_A)"
+msgstr "ལྡོག་པའི་སོག་ལེའི་ཁ། (_A)"
 
 msgid "_Auto"
 msgstr "རང་འགུལ། (_A)"
@@ -6098,7 +6105,7 @@ msgid "_Clone"
 msgstr "རྒྱུད་བཤུས། (_C)"
 
 msgid "_Crop"
-msgstr "དྲས་གཏུབ། (_C)"
+msgstr "དྲས་གཏུབ།(_C)"
 
 msgid "_Curves..."
 msgstr "འཁྱོག་ཐིག (_C)"
@@ -6119,7 +6126,7 @@ msgid "_Detect automatically (currently %d × %d ppi)"
 msgstr "རང་བཤེར། ( མིག་སྔར %d x %d ppi ཡིན )(_D)"
 
 msgid "_Discard Changes"
-msgstr "བཟོ་བཅོས་སྐྱུར་བ།(_D)"
+msgstr "བཟོ་བཅོས་དོར་བ། (_D)"
 
 msgid "_Discard invisible layers"
 msgstr "མཐོང་རུང་མིན་པའི་རིས་རིམ་འདོར་བ། (_D)"
@@ -6164,7 +6171,7 @@ msgid "_Fade %s..."
 msgstr "ཉུང་གཏོང་། (_F) %s"
 
 msgid "_Fade..."
-msgstr "ཉུང་གཏོང་། (_F)"
+msgstr "ཉུང་གཏོང་། (_F)..."
 
 msgid "_Feather border"
 msgstr "མཐའ་མཚམས་སྒྲོ་འགྱུར། (_F)"
@@ -6206,13 +6213,13 @@ msgid "_Heal"
 msgstr "སོར་ཆུད། (_H)"
 
 msgid "_Horizontal:"
-msgstr "ཆུ་སྙོམས། (_H)："
+msgstr "ཆུ་སྙོམས།(_H)："
 
 msgid "_Hue:"
-msgstr "ཚོས་གཞི། (_H)："
+msgstr "ཚོན་མདངས། (_H)："
 
 msgid "_Icon:"
-msgstr "རིས་རྟགས། (_I)："
+msgstr "པར་རྟགས།(_I)："
 
 msgid "_Import"
 msgstr "ནང་འདྲེན།(I)"
@@ -6251,7 +6258,7 @@ msgid "_Measure"
 msgstr "ཚད་འཇལ། (_M)"
 
 msgid "_Merge"
-msgstr "ཟླ་སྒྲིལ།(_M)"
+msgstr "མཉམ་སྒྲིལ། (_M)"
 
 msgid "_Merge imported paths"
 msgstr "མཉམ་སྒྲིལ་འདྲེན་འཇུག་གི་བརྒྱུད་ལམ། (_M)"
@@ -6269,7 +6276,7 @@ msgid "_Monitor profile:"
 msgstr "འཆར་ཆས་ཀྱི་སྡེབ་སྒྲིག་ཡིག་ཆ། (_M)："
 
 msgid "_Move"
-msgstr "སྤོ་བ། (_M)"
+msgstr "སྤོ་བ།(_M)"
 
 msgid "_Name:"
 msgstr "མིང་།(_N)："
@@ -6305,7 +6312,7 @@ msgid "_Posterize..."
 msgstr "ཚོས་གཞི་དབྱེ་ཕྲལ། (_P)..."
 
 msgid "_Preview"
-msgstr "སྔོན་ལྟ། (_P)"
+msgstr "སྔོན་ལྟ།(_P)"
 
 msgid "_Previous Tip"
 msgstr "སྣེ་སྟོན་སྔོན་མ། (_P)"
@@ -6329,7 +6336,7 @@ msgid "_Rectangle Select"
 msgstr "གྲུ་བཞི་ནར་མོ་འདེམ་པ། (_R)"
 
 msgid "_Redo"
-msgstr "བསྐྱར་ལས།(_R)"
+msgstr "བསྐྱར་བཟོ།(_R)"
 
 msgid "_Redo %s"
 msgstr "བསྐྱར་བཟོ %s(_R)"
@@ -6338,7 +6345,7 @@ msgid "_Remove unused colors from colormap"
 msgstr "ཁ་དོག་རེའུ་མིག་ནང་ནས་བེད་སྤྱད་མེད་པའི་ཁ་དོག་སུབ་པ། (_R)"
 
 msgid "_Replace"
-msgstr "ཚབ་བརྗེ།(_R)"
+msgstr " ཚབ་བརྗེ།(_R)"
 
 msgid "_Replicate Segment..."
 msgstr "དུམ་བུ་འདྲ་ཕབ། (_R)..."
@@ -6365,7 +6372,7 @@ msgstr ""
 "ཉར་ཚགས་བྱས་པའི་སྒེའུ་ཁུང་གནས་ས་དེ་སོར་བཞག་བྲིན་ལ་བསྐྱར་སྒྲིག་བྱེད་པ། (_R)"
 
 msgid "_Rotate"
-msgstr "སྐོར་བ།(_R)"
+msgstr "འཁྱིལ་འཁོར། (_R)"
 
 msgid "_Sample Merged"
 msgstr "གནས་དཔེ་མཉམ་སྒྲིལ། (_S)"
@@ -6386,14 +6393,14 @@ msgid "_Save window positions on exit"
 msgstr "ཕྱིར་འཐེན་སྐབས་སྒེའུ་ཁུང་གནས་ས་ཉར་ཚགས་བྱེད་པ། (_S)"
 
 msgid "_Scale"
-msgstr "སྐྱེད་སྐྱུང་། (_S)"
+msgstr "སྐྱེད་སྐྱུང་།(_S)"
 
 msgid "_Scale imported paths to fit image"
 msgstr ""
 "སྐྱེད་སྐྱུང་འདྲེན་འཇུག་བྱས་པའི་བརྒྱུད་ལམ་དང་བརྙན་རིས་ཟླ་སྒྲིག་བྱེད་པ། (_S)"
 
 msgid "_Search:"
-msgstr "བཤེར་འཚོལ། (_S)："
+msgstr "འཚོལ་བཤེར།(_S)："
 
 msgid "_Selected Pixels only"
 msgstr "བདམས་པའི་བརྙན་རྒྱུ་ཁོ་ན། (_S)"
@@ -6420,10 +6427,10 @@ msgid "_Try to use the system monitor profile"
 msgstr "རྒྱུད་ཁོངས་འཆར་ཆས་ཀྱི་སྡེབ་སྒྲིག་ཡིག་ཆ་བེད་སྤྱོད་རྩིས་བྱེད་པ། (_T)"
 
 msgid "_Undo"
-msgstr "ཕྱིར་འཐེན།(_U)"
+msgstr "འདོར་བ།(_U)"
 
 msgid "_Undo %s"
-msgstr "འདོར་བ། %s(_U)"
+msgstr "འདོར་བ་ %s(_U)"
 
 msgid "_Use dynamic keyboard shortcuts"
 msgstr "འགུལ་རྣམ་གྱི་མྱུར་མཐེབ་བེད་སྤྱོད་པ། (_U)"
@@ -6432,13 +6439,13 @@ msgid "_Use selected font"
 msgstr "བདམས་པའི་ཡིག་གཟུགས་བེད་སྤྱོད་པ། (_U)"
 
 msgid "_Vertical:"
-msgstr "དྲང་པོ། (_V)："
+msgstr "དྲང་འཕྱང་། (_V)："
 
 msgid "_While space bar is pressed:"
 msgstr "སྟོངམཐེབ་མནན་པའི་སྐབས། (_W)："
 
 msgid "_Width:"
-msgstr "ཞེང་ཚད།(_W)："
+msgstr "ཞེང་ཚད་(_W)："
 
 msgid "_Wrap around"
 msgstr ""
@@ -6459,7 +6466,7 @@ msgid "_Y:"
 msgstr " _Y："
 
 msgid "_Zoom"
-msgstr "སྐྱེད་སྐྱུང་།(_Z)"
+msgstr "སྐྱེད་སྐྱུང་། (_Z)"
 
 msgid "_Zoom (%s)"
 msgstr "སྐྱེད་སྐྱུང་། (_Z)(%s)"
@@ -6468,7 +6475,7 @@ msgid "Background"
 msgstr "རྒྱབ་ལྗོངས།"
 
 msgid "Foreground"
-msgstr "མདུན་ལྗོངས་ཀྱི་མདོག"
+msgstr "མདུན་ལྗོངས་ཁ་དོག"
 
 msgid "Active channel"
 msgstr "བྱ་བྱེད་རྒྱུ་ལམ།"
@@ -6483,7 +6490,7 @@ msgid "First item"
 msgstr "ཚན་པ་དང་པོ།"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Selection"
 msgstr "འདེམ་པ།"
@@ -6588,7 +6595,7 @@ msgid "Dark check color"
 msgstr "དྲ་མིག་ནོག་པོ་ཡི་ཁ་དོག"
 
 msgid "From theme"
-msgstr "བརྗོད་གཞི་ནས་ལེན་པ།"
+msgstr "བརྗོད་སྙིང་ནས་འོང་བ།"
 
 msgid "Light check color"
 msgstr "དྲ་མིག་མདོག་སྐྱ་བོ་ཡི་ཁ་དོག"
@@ -6597,7 +6604,7 @@ msgid "Butt"
 msgstr "གཏད་སྦྲེལ།"
 
 msgid "Round"
-msgstr "ཟླུམ་དབྱིབས།"
+msgstr "སྒོར་ཟུར།"
 
 msgid "Square"
 msgstr "གྲུ་བཞི་ཁ་གང་མ།"
@@ -6657,7 +6664,7 @@ msgid "Subtract this channel from the current selection"
 msgstr "མིག་སྔའི་འདེམས་ཁུལ་ནང་ནས་རྒྱུ་ལམ་འདི་འཐེན་དགོས།"
 
 msgid "_Add to Selection"
-msgstr "འདེམས་ཁུལ་ལ་སྣོན་པ། (_A)"
+msgstr "འདེམས་ཁུལ་དུ་སྣོན་པ། (_A)"
 
 msgid "_Delete Channel"
 msgstr "རྒྱུ་ལམ་སུབ་པ། (_D)"
@@ -6702,7 +6709,7 @@ msgid "Pick only"
 msgstr "ལེན་པ་ཁོ་ན།"
 
 msgid "Set background color"
-msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་སྒྲིག་འགོད།"
+msgstr "རྒྱབ་ལྗོངས་མདོག་སྒྲིག་འགོད།"
 
 msgid "Set foreground color"
 msgstr "མདུན་ལྗོངས་ཁ་དོག་སྒྲིག་འགོད།"
@@ -6750,7 +6757,7 @@ msgid "Fuzzy Select"
 msgstr "རབ་རིབ་འདེམ་པ།"
 
 msgid "Select by Color"
-msgstr "ཁ་དོག་ལ་གཞིགས་ནས་འདེམ་པ།"
+msgstr "ཁ་དོག་ལྟར་འདེམ་པ།"
 
 msgid "If possible, use GEGL for image processing"
 msgstr "གང་ཐུབ་ཅི་ཐུབ་ཀྱིས GEGL བེད་སྤྱད་ནས་བརྙན་རིས་ཐག་གཅོད་བྱེད་པ།"
@@ -6792,7 +6799,7 @@ msgid "_Default Colors"
 msgstr "སོར་བཞག་ཁ་དོག (_D)"
 
 msgid "_Font"
-msgstr "ཡིག་གཟུགས། (_F)"
+msgstr " ཡིག་གཟུགས།(_F)"
 
 msgid "_Gradient"
 msgstr "རིམ་འགྱུར། (_G)"
@@ -6816,7 +6823,7 @@ msgid "_Shape"
 msgstr "དབྱིབས། (_S)"
 
 msgid "_Tool"
-msgstr "ལག་ཆ།(_T)"
+msgstr " ལག་ཆ།(_T)"
 
 msgid "Floyd-Steinberg (normal)"
 msgstr "Floyd-Steinberg། ( སྤྱིར་བཏང )"
@@ -6825,7 +6832,7 @@ msgid "Floyd-Steinberg (reduced color bleeding)"
 msgstr "Floyd-Steinberg། ( ཁ་དོག་གི་གྱོང་གུན་ཉུང་དུ་གཏོང་བ )"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Positioned"
 msgstr "གནས་ངེས།"
@@ -6849,10 +6856,10 @@ msgid "Sharpen"
 msgstr "རྣོ་འགྱུར།"
 
 msgid "copy"
-msgstr "བུ་དཔེ།"
+msgstr "འདྲ་བཤུས།"
 
 msgid "Black & white"
-msgstr "དཀར་ནག"
+msgstr "ཚོན་མེད།"
 
 msgid "Fancy"
 msgstr "Fancy"
@@ -6861,7 +6868,7 @@ msgid "Pointer Information Menu"
 msgstr "སྟོན་མདའི་ཆ་འཕྲིན་གྱི་འདེམས་བྱང་།"
 
 msgid "Use the composite color of all visible layers"
-msgstr "མཐོང་རུང་བའི་རིས་རིམ་ཚང་མའི་མཉམ་བསྲེས་ཁ་དོག"
+msgstr "མཐོང་རུང་རིས་རིམ་ཚང་མའི་མཉམ་བསྲེས་ཁ་དོག་བེད་སྤྱོད་པ།"
 
 msgid "_Sample Merged"
 msgstr "གནས་དཔེ་མཉམ་སྒྲིལ། (_S)"
@@ -6882,7 +6889,7 @@ msgid "Smooth"
 msgstr "འཇམ་སྙོམས།"
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "Dash, dot"
 msgstr "ཚེག་འགོད།"
@@ -6894,7 +6901,7 @@ msgid "Dense dots"
 msgstr "སྟུག་འདུས་ཚེག"
 
 msgid "Line"
-msgstr "ཐིག"
+msgstr "སྐུད་ལམ།"
 
 msgid "Long dashes"
 msgstr "རིང་འགོད།"
@@ -6924,7 +6931,7 @@ msgid "About"
 msgstr "འབྲེལ་ཡོད།"
 
 msgid "About GIMP"
-msgstr "GIMP ཡི་སྐོར།"
+msgstr "GIMP ཡི་སྐོར། "
 
 msgid "B_uffers"
 msgstr "ལྷོད་གཏོང་ཁུལ། (_U)"
@@ -7035,7 +7042,7 @@ msgid "Open the pointer information dialog"
 msgstr "སྟོན་མདའི་ཆ་འཕྲིན་གྱི་གླེང་སྒྲོམ་ཁ་ཕྱེ་བ།"
 
 msgid "Open the preferences dialog"
-msgstr "སྔོན་འདེམས་ཚན་པའི་གླེང་སྒྲོམ་ཁ་ཕྱེ་བ།"
+msgstr "དང་ཐོག་འདེམས་ཚན་གླེང་སྒྲོམ་ཁ་འབྱེད།"
 
 msgid "Open the sample points dialog"
 msgstr "དཔེ་སྒྲུག་ཚེག་གི་གླེང་སྒྲོམ་ཁ་ཕྱེ་བ།"
@@ -7059,7 +7066,7 @@ msgid "Paint Dynamics"
 msgstr "འགུལ་རྣམ་རིས་འགོད།"
 
 msgid "Paint Dynamics Editor"
-msgstr "འགུལ་རྣམ་རིས་འགོད་རྩོམ་སྒྲིག་ཆས།"
+msgstr "འགུལ་རྣམ་རིས་འགོད་ཀྱི་རྩོམ་སྒྲིག་ཆས།"
 
 msgid "Pal_ettes"
 msgstr "ཚོན་གཞོང་། (_E)"
@@ -7083,7 +7090,7 @@ msgid "Undo _History"
 msgstr "ལོ་རྒྱུས་འདོར་བ། (_H)"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Brushes"
 msgstr "རིས་པིར། (_B)"
@@ -7095,19 +7102,19 @@ msgid "_Device Status"
 msgstr "སྒྲིག་ཆས་རྣམ་པ། (_D)"
 
 msgid "_Fonts"
-msgstr "ཡིག་གཟུགས། (_F)"
+msgstr " ཡིག་གཟུགས།(_F)"
 
 msgid "_Gradients"
 msgstr "རིམ་འགྱུར། (_G)"
 
 msgid "_Images"
-msgstr "པར་རིས།(_I)"
+msgstr "བརྙན་རིས། (_I)"
 
 msgid "_Input Devices"
 msgstr "ནང་འཇུག་སྒྲིག་ཆས། (_I)"
 
 msgid "_Keyboard Shortcuts"
-msgstr "མྱུར་མཐེབ། (_K)"
+msgstr "མྱུར་མཐེབ།(_K)"
 
 msgid "_Layers"
 msgstr "རིས་རིམ། (_L)"
@@ -7149,7 +7156,7 @@ msgid "Close Dock"
 msgstr "ཁ་རྒྱག་སྡོད་པ།"
 
 msgid "Connect to another display"
-msgstr "མངོན་པ་གཞན་ཞིག་ལ་འབྲེལ་བ།"
+msgstr "མངོན་པ་གཞན་ཞིག་ལ་འབྲེལ་མཐུད་བྱེད་པ།"
 
 msgid "M_ove to Screen"
 msgstr "བརྙན་ཡོལ་དུ་སྤོ་བ། (_O)"
@@ -7289,10 +7296,10 @@ msgid "Rotate 90 degrees to the right"
 msgstr "གཡས་འཁོར་འཁྱིལ་འཁོར་ཏུའུ།90"
 
 msgid "Rotate 90° _clockwise"
-msgstr "གཡས་འཁོར་འཁྱིལ་འཁོར་ཏུའུ།90 (_C)"
+msgstr "གཡས་འཁོར་འཁྱིལ་འཁོར་ཏུའུ 90། (_C)"
 
 msgid "Rotate 90° counter-clock_wise"
-msgstr "གཡོན་འཁོར་འཁྱིལ་འཁོར་ཏུའུ། 90 (_W)"
+msgstr "གཡོན་འཁོར་འཁྱིལ་འཁོར་ཏུའུ 90། (_W)"
 
 msgid "Rotate _180°"
 msgstr "འཁྱིལ་འཁོར་ཏུའུ།180 (_1)"
@@ -7307,7 +7314,7 @@ msgid "Toggle visibility"
 msgstr "མཐོང་རུང་རང་བཞིན་བརྗེ་བ།"
 
 msgid "Turn upside-down"
-msgstr "མགོ་མཇུག་ལོག་པ།"
+msgstr "མགོ་མཇུག་ཟློག་པ།"
 
 msgid "_Equalize"
 msgstr "ཚོས་གཞི་སྙོམ་བསྒྱུར། (_E)"
@@ -7319,7 +7326,7 @@ msgid "_Offset..."
 msgstr "གནས་སྤོ། (_O)..."
 
 msgid "_Visible"
-msgstr "མཐོང་རུང་བ། (_V)"
+msgstr "མཐོང་རུང་། (_V)"
 
 msgid "_White Balance"
 msgstr "དཀར་དོ་མཉམ། (_W)"
@@ -7373,10 +7380,10 @@ msgid "Angle"
 msgstr "ཟུར་ཚད།"
 
 msgid "Aspect ratio"
-msgstr "མཐོ་ཞེང་བསྡུར་ཚད།"
+msgstr "མཐོ་ཞེང་སྡུར་ཚད།"
 
 msgid "Color"
-msgstr "ཁ་མདོག"
+msgstr "ཁ་དོག"
 
 msgid "Flow"
 msgstr "རྒྱུག་ཚད།"
@@ -7403,7 +7410,7 @@ msgid "Spacing"
 msgstr "བར་ཐག"
 
 msgid "Cl_ear"
-msgstr "གཙང་སེལ། (_E)"
+msgstr "གཙང་སེལ།(_E)"
 
 msgid "Clear the selected pixels"
 msgstr "བདམས་པའི་བརྙན་རྒྱུ་གཙང་སེལ།"
@@ -7491,7 +7498,7 @@ msgid "Paste the content of the clipboard into the current selection"
 msgstr "དྲས་སྦྱར་པང་གི་ནང་དོན་དེ་མིག་སྔའི་འདེམས་ཁུལ་དུ་སྦྱར་བ།"
 
 msgid "Redo the last operation that was undone"
-msgstr "ཐེངས་སྔོན་མར་འདོར་བའི་བཀོལ་སྤྱོད་བསྐྱར་བཟོ་བྱེད་པ།"
+msgstr "ཐེངས་སྔོན་མར་དོར་བའི་བཀོལ་སྤྱོད་ཡང་བསྐྱར་བཟོ་བ།"
 
 msgid "Redo the last operation that was undone, skipping visibility changes"
 msgstr ""
@@ -7510,7 +7517,7 @@ msgid "Undo History Menu"
 msgstr "ལོ་རྒྱུས་འདེམས་བྱང་འདོར་བ།"
 
 msgid "Undo the last operation"
-msgstr "ཐེངས་སྔོན་མའི་བཀོལ་སྤྱོད་འདོར་བ།"
+msgstr "ཐེངས་སྔོན་གྱི་བཀོལ་སྤྱོད་ལེན་པ།"
 
 msgid "Undo the last operation, skipping visibility changes"
 msgstr ""
@@ -7523,16 +7530,16 @@ msgid "_Clear Undo History"
 msgstr "འདོར་བའི་ལོ་རྒྱུས་གཙང་སེལ། (_C)"
 
 msgid "_Copy"
-msgstr "འདྲ་བཟོ།(_C)"
+msgstr "འདྲ་པར།(_C)"
 
 msgid "_Copy Named..."
 msgstr "འདྲ་ཕབ་མིང་འདོགས། (_C)..."
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_Fade..."
-msgstr "ཉུང་གཏོང་། (_F)"
+msgstr "ཉུང་གཏོང་། (_F)..."
 
 msgid "_New Image"
 msgstr "བརྙན་རིས་གསར་འཛུགས། (_N)"
@@ -7544,10 +7551,10 @@ msgid "_Paste Named..."
 msgstr "སྦྱར་བ་མིང་འདོགས། (_P)..."
 
 msgid "_Redo"
-msgstr "བསྐྱར་ལས།(_R)"
+msgstr "བསྐྱར་བཟོ།(_R)"
 
 msgid "_Undo"
-msgstr "ཕྱིར་འཐེན།(_U)"
+msgstr "འདོར་བ།(_U)"
 
 msgid "enter tags"
 msgstr "ནང་འཇུག་གདོང་འཛར།"
@@ -7574,7 +7581,7 @@ msgid "Write the selected error messages to a file"
 msgstr "བདམས་པའི་ནོར་འཁྲུལ་གྱི་ཆ་འཕྲིན་དེ་ཡིག་ཆར་འབྲི་བ།"
 
 msgid "_Clear"
-msgstr "གཙང་སེལ། (_C)"
+msgstr "གཙང་སེལ།(_C)"
 
 msgid "_Save Error Log to File..."
 msgstr "ནོར་འཁྲུལ་ཐོན་པའི་ཟིན་ཐོ་དེ་ཡིག་ཆར་ཉར་ཚགས་བྱེད་པ། (_S)"
@@ -7619,7 +7626,7 @@ msgid "Op_en as Layers..."
 msgstr "རིས་རིམ་ལ་རྩིས་ནས་ཁ་ཕྱེ་བ། (_E)"
 
 msgid "Open _Location..."
-msgstr "གནས་ས་ཁ་འབྱེད།(_L)..."
+msgstr "གནས་ས་ཁ་ཕྱེ་བ། (_L)..."
 
 msgid "Open _Recent"
 msgstr "ཉེ་ཆར་ལྟ་སྤྱོད་པ་ལ་ཁ་འབྱེད།(_R)"
@@ -7646,7 +7653,7 @@ msgid "Reload the image file from disk"
 msgstr "སྡུད་སྡེར་ནས་ཡང་བསྐྱར་བརྙན་རིས་ཡིག་ཆ་འཇུག་པ།"
 
 msgid "Save _As..."
-msgstr "གཞན་ཉར་(_A)..."
+msgstr "གཞན་དུ་བཅོལ་བ།(_A)..."
 
 msgid "Save a Cop_y..."
 msgstr "བུ་དཔེ་ཉར་ཚགས། (_Y)..."
@@ -7672,13 +7679,13 @@ msgid "Save this image with a different name"
 msgstr "མིང་མི་འདྲ་བས་བརྙན་རིས་འདི་ཉར་ཚགས་བྱེད་པ།"
 
 msgid "_File"
-msgstr "ཡིག་ཆ།(_F)"
+msgstr "ཡིག་ཆ། (_F)"
 
 msgid "_Open..."
 msgstr "ཁ་འབྱེད།(_O)..."
 
 msgid "_Quit"
-msgstr "ཕྱིར་ཐོན།(_Q)"
+msgstr "ཕྱིར་འབུད། (_Q)"
 
 msgid "_Save"
 msgstr "ཉར་བ། (S)"
@@ -7690,13 +7697,13 @@ msgid "Solid color"
 msgstr "བརྟན་པའི་ཁ་དོག"
 
 msgid "Background color"
-msgstr "རྒྱབ་ལྗོངས་ཀྱི་མདོག"
+msgstr "རྒྱབ་ལྗོངས་མདོག"
 
 msgid "Foreground color"
 msgstr "མདུན་ལྗོངས་ཁ་དོག"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Pattern"
 msgstr ""
@@ -7753,10 +7760,10 @@ msgid "Sa_ve Right Color To"
 msgstr "ལ་གཡས་སྣེའི་ཁ་དོག་ཉར་ཚགས་བྱེད་པ། (_V)"
 
 msgid "_Background Color"
-msgstr "རྒྱབ་ལྗོངས་ཀྱི་མདོག (_B)"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག (_B)"
 
 msgid "_Foreground Color"
-msgstr "མདུན་ལྗོངས། (_F)"
+msgstr "མདུན་ལྗོངས་ཁ་དོག (_F)"
 
 msgid "_Left Endpoint"
 msgstr "གཡོན་སྣེ། (_L)"
@@ -7804,7 +7811,7 @@ msgid "Fo_reground Color (Transparent)"
 msgstr "མདུན་ལྗོངས་ཁ་དོག ( ནང་གསལ )(_R)"
 
 msgid "_Background Color"
-msgstr "རྒྱབ་ལྗོངས་ཀྱི་མདོག (_B)"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག (_B)"
 
 msgid "_Fixed"
 msgstr "གཏན་འཇགས། (_F)"
@@ -7819,7 +7826,7 @@ msgid "HSV (clockwise _hue)"
 msgstr "HSV། ( གཡས་འཁོར་ཚོས་གཞི )(_H)"
 
 msgid "_RGB"
-msgstr "RGB(_R)"
+msgstr " _RGB"
 
 msgid "Copy Gradient _Location"
 msgstr "རིམ་འགྱུར་གནས་ས་འདྲ་ཕབ། (_L)"
@@ -7906,13 +7913,13 @@ msgid "_Context Help"
 msgstr "ཁོར་ཡུག་རོགས་རམ། (_C)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "GIMP help browser"
 msgstr "GIMP རོགས་རམ་མིག་བཤར་ཆས།"
 
 msgid "Web browser"
-msgstr "དྲ་ངོས་བཤར་ཆས།"
+msgstr "དྲ་ངོས་བཤེར་ཆས།"
 
 msgid "Alpha"
 msgstr "Alpha"
@@ -7930,7 +7937,7 @@ msgid "Red"
 msgstr "དམར་པོ།"
 
 msgid "Value"
-msgstr ""
+msgstr "ཐང་།"
 
 msgid "Linear histogram"
 msgstr "ཐིག་གཤིས་རི་མོ་གྲུ་བཞི།"
@@ -7993,7 +8000,7 @@ msgid "I_nfo"
 msgstr "ཆ་འཕྲིན། (_N)"
 
 msgid "Image Menu"
-msgstr "བརྙན་རིས་འདེམས་བྱང་།"
+msgstr "\"བརྙན་རིས་འདེམས་བྱང་།\""
 
 msgid "Image Pr_operties"
 msgstr "བརྙན་རིས་གཏོགས་གཤིས། (_O)"
@@ -8002,10 +8009,10 @@ msgid "Merge Visible _Layers..."
 msgstr "མཐོང་རུང་རིས་རིམ་མཉམ་སྒྲིལ་བྱེད་པ། (_L)"
 
 msgid "Merge all layers into one and remove transparency"
-msgstr "རིས་རིམ་ཚང་མ་གཅིག་ལ་མཉམ་སྒྲིལ་བྱེད་པ་མ་ཟད་ནང་གསལ་འབུད་དགོས།"
+msgstr "རིས་རིམ་ཚང་མ་གཅིག་ལ་མཉམ་སྒྲིལ་བྱེད་པ་དང་ཆབས་གཅིག་ནང་གསལ་འབུད་པ།"
 
 msgid "Merge all visible layers into one layer"
-msgstr "མཐོང་རུང་བའི་རིས་རིམ་ཚང་མ་རིས་རིམ་གཅིག་ལ་མཉམ་སྒྲིལ་བྱེད་པ།"
+msgstr "མཐོང་རུང་རིས་རིམ་ཚང་མ་རིས་རིམ་གཅིལ་ལ་མཉམ་སྒྲིལ་བྱེད་པ།"
 
 msgid "Resize the image to enclose all layers"
 msgstr "བརྙན་རིས་ཀྱི་ཆེ་ཆུང་བསྐྱར་སྒྲིག་བྱས་ནས་རིས་རིམ་ཚང་མ་ཤོང་བ་བྱེད་དགོས།"
@@ -8014,10 +8021,10 @@ msgid "Resize the image to the extents of the selection"
 msgstr "བརྙན་རིས་ཀྱི་ཆེ་ཆུང་དེ་འདེམས་ཁུལ་གྱི་ཁྱབ་ཁོངས་སུ་སྒྱུར་བ།"
 
 msgid "Rotate 90° _clockwise"
-msgstr "གཡས་འཁོར་འཁྱིལ་འཁོར་ཏུའུ།90 (_C)"
+msgstr "གཡས་འཁོར་འཁྱིལ་འཁོར་ཏུའུ 90། (_C)"
 
 msgid "Rotate 90° counter-clock_wise"
-msgstr "གཡོན་འཁོར་འཁྱིལ་འཁོར་ཏུའུ། 90 (_W)"
+msgstr "གཡོན་འཁོར་འཁྱིལ་འཁོར་ཏུའུ 90། (_W)"
 
 msgid "Rotate _180°"
 msgstr "འཁྱིལ་འཁོར་ཏུའུ།180 (_1)"
@@ -8038,10 +8045,10 @@ msgid "_Colors"
 msgstr "ཁ་དོག (_C)"
 
 msgid "_Crop to Selection"
-msgstr "འདེམས་ཁུལ་དུ་དྲས་གཏུབ་བྱེད་པ། (_C)"
+msgstr "འདེམས་ཁུལ་དུ་དྲས་གཏུབ། (_C)"
 
 msgid "_Duplicate"
-msgstr "འདྲ་ཕབ། (_D)"
+msgstr "འདྲ་ཕབ།(_D)"
 
 msgid "_Flatten Image"
 msgstr "བརྙན་རིས་སྒྲིག་པ། (_F)"
@@ -8050,16 +8057,16 @@ msgid "_Guides"
 msgstr "ཟུར་ལྟའི་ཐིག (_G)"
 
 msgid "_Image"
-msgstr "པར་རིས།(_I)"
+msgstr "བརྙན་རིས། (_I)"
 
 msgid "_Map"
 msgstr "རྟེན་འཕྲོ། (_M)"
 
 msgid "_Mode"
-msgstr "རྣམ་པ། (_M)"
+msgstr "རྣམ་པ།(M)"
 
 msgid "_New..."
-msgstr "གསར་འཛུགས། (_N)"
+msgstr "གསར་འཛུགས།(_N) ..."
 
 msgid "_Print Size..."
 msgstr "པར་འདེབས་ཆེ་ཆུང་། (_P)"
@@ -8068,7 +8075,7 @@ msgid "_Scale Image..."
 msgstr "བརྙན་རིས་སྐྱེད་སྐྱུང་། (_S)"
 
 msgid "_Transform"
-msgstr "བརྗེ་འགྱུར། (_T)"
+msgstr "བརྗེ་བསྒྱུར། (_T)"
 
 msgid "Convert the image to grayscale"
 msgstr "བརྙན་རིས་དེ་སྐྱ་ཚད་ལ་བརྗེ་བ།"
@@ -8086,7 +8093,7 @@ msgid "_Indexed..."
 msgstr "གསལ་བྱང་། (_I)"
 
 msgid "_RGB"
-msgstr "RGB(_R)"
+msgstr " _RGB"
 
 msgid "Create a new display for this image"
 msgstr "བརྙན་རིས་འདི་ལ་མངོན་པ་གསར་པ་བཟོ་བ།"
@@ -8137,7 +8144,7 @@ msgid "Image-sized layers"
 msgstr "བརྙན་རིས་ཆེ་ཆུང་གི་རིས་རིམ།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Bevel"
 msgstr "གསེག་ངོས།"
@@ -8146,10 +8153,10 @@ msgid "Miter"
 msgstr "གསེག་མཐུད།"
 
 msgid "Round"
-msgstr "ཟླུམ་དབྱིབས།"
+msgstr "སྒོར་ཟུར།"
 
 msgid "Addition"
-msgstr "བརྩེགས་སྣོན།"
+msgstr "སྣོན་པ།"
 
 msgid "Anti erase"
 msgstr "སུབ་པ་ལྡོག་པ།"
@@ -8158,16 +8165,16 @@ msgid "Behind"
 msgstr "རྒྱབ།"
 
 msgid "Burn"
-msgstr "གཏིང་ཟབ་ཏུ་གཏོང་བ།"
+msgstr "གཏིང་ཟབ།"
 
 msgid "Color"
-msgstr "ཁ་མདོག"
+msgstr "ཁ་དོག"
 
 msgid "Color erase"
 msgstr "ཁ་དོག་སུབ་པ།"
 
 msgid "Darken only"
-msgstr "གཏིང་ཟབ་ཁོ་ན།"
+msgstr "མུན་འགྱུར་ཁོ་ན།"
 
 msgid "Difference"
 msgstr "ཁྱད་ཐང་།"
@@ -8182,7 +8189,7 @@ msgid "Dodge"
 msgstr "ཉུང་འཕྲི།"
 
 msgid "Erase"
-msgstr "འདོར་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "Grain extract"
 msgstr "ཁེ་འཕར་ལེན་པ།"
@@ -8194,7 +8201,7 @@ msgid "Hard light"
 msgstr "སྲ་འོད།"
 
 msgid "Hue"
-msgstr "ཚོན་མདོག"
+msgstr "ཚོས་གཞི།"
 
 msgid "Lighten only"
 msgstr "ཇེ་གསལ་དུ་གྱུར་པ་ཁོ་ན།"
@@ -8203,7 +8210,7 @@ msgid "Multiply"
 msgstr "སྒྱུར་བ།"
 
 msgid "Normal"
-msgstr "སྤྱིར་བཏང་།"
+msgstr "དཀྱུས་མ།"
 
 msgid "Overlay"
 msgstr "འགེབས་པ།"
@@ -8224,7 +8231,7 @@ msgid "Subtract"
 msgstr "འཐེན་པ།"
 
 msgid "Value"
-msgstr ""
+msgstr "ཐང་།"
 
 msgid "A_dd to Selection"
 msgstr "འདེམས་ཁུལ་དུ་སྣོན་པ། (_D)"
@@ -8347,10 +8354,10 @@ msgid "Merge _Visible Layers..."
 msgstr "མཐོང་རུང་རིས་རིམ་མཉམ་སྒྲིལ། (_V)..."
 
 msgid "Merge all layers into one and remove transparency"
-msgstr "རིས་རིམ་ཚང་མ་གཅིག་ལ་མཉམ་སྒྲིལ་བྱེད་པ་མ་ཟད་ནང་གསལ་འབུད་དགོས།"
+msgstr "རིས་རིམ་ཚང་མ་གཅིག་ལ་མཉམ་སྒྲིལ་བྱེད་པ་དང་ཆབས་གཅིག་ནང་གསལ་འབུད་པ།"
 
 msgid "Merge all visible layers into one layer"
-msgstr "མཐོང་རུང་བའི་རིས་རིམ་ཚང་མ་རིས་རིམ་གཅིག་ལ་མཉམ་སྒྲིལ་བྱེད་པ།"
+msgstr "མཐོང་རུང་རིས་རིམ་ཚང་མ་རིས་རིམ་གཅིལ་ལ་མཉམ་སྒྲིལ་བྱེད་པ།"
 
 msgid "Merge the layer group's layers into one normal layer"
 msgstr ""
@@ -8450,13 +8457,13 @@ msgid "Work on the layer mask"
 msgstr "རིས་རིམ་སོག་ལེབ་སྟེང་ལས་ཀ་བྱེད་པ།"
 
 msgid "_Add to Selection"
-msgstr "འདེམས་ཁུལ་ལ་སྣོན་པ། (_A)"
+msgstr "འདེམས་ཁུལ་དུ་སྣོན་པ། (_A)"
 
 msgid "_Anchor Layer"
 msgstr "རིས་རིམ་གཏན་འཇགས། (_A)"
 
 msgid "_Crop to Selection"
-msgstr "འདེམས་ཁུལ་དུ་དྲས་གཏུབ་བྱེད་པ། (_C)"
+msgstr "འདེམས་ཁུལ་དུ་དྲས་གཏུབ། (_C)"
 
 msgid "_Delete Layer"
 msgstr "རིས་རིམ་སུབ་པ། (_D)"
@@ -8501,7 +8508,7 @@ msgid "_Opacity"
 msgstr "མི་གསལ་ཚད། (_O)"
 
 msgid "_Properties"
-msgstr "གཏོགས་གཤིས།(_P)"
+msgstr "གཏོགས་གཤིས། (_P)"
 
 msgid "_Raise Layer"
 msgstr "རིས་རིམ་འཕར་བ། (_R)"
@@ -8516,22 +8523,22 @@ msgid "_Subtract from Selection"
 msgstr "འདེམས་ཁུལ་ནང་ནས་འཐེན་པ། (_S)"
 
 msgid "_Transform"
-msgstr "བརྗེ་འགྱུར། (_T)"
+msgstr "བརྗེ་བསྒྱུར། (_T)"
 
 msgid "Error"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Message"
 msgstr "བརྡ་འཕྲིན།"
 
 msgid "Warning"
-msgstr "ཐ་ཚིག "
+msgstr " ཐ་ཚིག"
 
 msgid "n/a"
-msgstr "སྤྱོད་རུང་མིན་པ།"
+msgstr "མི་འཚམ།"
 
 msgid "none"
-msgstr "མེད།"
+msgstr " མེད།"
 
 msgid "not a GIMP Curves file"
 msgstr "GIMP འཁྱོག་ཐིག་ཡིག་ཆ་མིན་པ།"
@@ -8540,13 +8547,13 @@ msgid "not a GIMP Levels file"
 msgstr "GIMP མདོག་ཐེམ་ཡིག་ཆ་མིན་པ།"
 
 msgid "Horizontal"
-msgstr "ཆུ་ངོས།"
+msgstr "ཆུ་སྙོམས།"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Vertical"
-msgstr "གཞུང་དྲང་།"
+msgstr "དྲང་འཕྱངས།"
 
 msgid "Create a new entry from the background color"
 msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་ནས་ཁ་དོག་ཚན་པ་གསར་འཛུགས་བྱེད་པ།"
@@ -8769,7 +8776,7 @@ msgid "_Web"
 msgstr "དྲ་ངོས། (_W)"
 
 msgid "percent"
-msgstr "བརྒྱ་ཆའི་བསྡུར་ཚད།"
+msgstr " བརྒྱ་ཆའི་བསྡུར།"
 
 msgid "ppi"
 msgstr "ppi"
@@ -8793,7 +8800,7 @@ msgid "_Large"
 msgstr "ཆེ། (_L)"
 
 msgid "_Medium"
-msgstr "འབྲིང་། (_M)"
+msgstr "འབྲིང་རིམ།(_M)"
 
 msgid "_Small"
 msgstr "ཆུང་། (_S)"
@@ -8823,13 +8830,13 @@ msgid "Fixed aspect ratio"
 msgstr "མཐོ་ཞེང་སྡུར་ཚད་གཏན་འཇགས།"
 
 msgid "Fixed size"
-msgstr "ཆེ་ཆུང་གཏན་འཇགས།"
+msgstr "གཏན་འཇགས་ཆེ་ཆུང་།"
 
 msgid "Free select"
 msgstr "རང་མོས་འདེམ་པ།"
 
 msgid "Aspect ratio"
-msgstr "མཐོ་ཞེང་བསྡུར་ཚད།"
+msgstr "མཐོ་ཞེང་སྡུར་ཚད།"
 
 msgid "Height"
 msgstr "མཐོ་ཚད།"
@@ -8838,7 +8845,7 @@ msgid "Size"
 msgstr "ཆེ་ཆུང་།"
 
 msgid "Width"
-msgstr "ཞེང་ཚད།"
+msgstr " ཞེང་ཚད།"
 
 msgid "round"
 msgstr "སྒོར་མོ།"
@@ -8847,7 +8854,7 @@ msgid "Sample Point Menu"
 msgstr "དཔེ་སྒྲུག་ཚེག་གི་འདེམས་བྱང་།"
 
 msgid "Use the composite color of all visible layers"
-msgstr "མཐོང་རུང་བའི་རིས་རིམ་ཚང་མའི་མཉམ་བསྲེས་ཁ་དོག"
+msgstr "མཐོང་རུང་རིས་རིམ་ཚང་མའི་མཉམ་བསྲེས་ཁ་དོག་བེད་སྤྱོད་པ།"
 
 msgid "_Sample Merged"
 msgstr "གནས་དཔེ་མཉམ་སྒྲིལ། (_S)"
@@ -8895,7 +8902,7 @@ msgid "Save to _Channel"
 msgstr "རྒྱུ་ལམ་དུ་ཉར་ཚགས་བྱེད་པ། (_C)"
 
 msgid "Select everything"
-msgstr "ཚང་མ་འདེམ་པ།"
+msgstr "ཡོད་ཚད་འདེམ་པ།"
 
 msgid "Selection Editor Menu"
 msgstr "འདེམས་ཁུལ་རྩོམ་སྒྲིག་ཆས་ཀྱི་འདེམས་བྱང་།"
@@ -8919,7 +8926,7 @@ msgid "_None"
 msgstr "མེད།(_N)"
 
 msgid "_Select"
-msgstr "འདེམ་པ།(_S)"
+msgstr "འདེམ་པ། (_S)"
 
 msgid "_Sharpen"
 msgstr "རྣོ་འགྱུར། (_S)"
@@ -8940,7 +8947,7 @@ msgid "Green"
 msgstr "ལྗང་མདོག"
 
 msgid "Hue"
-msgstr "ཚོན་མདོག"
+msgstr "ཚོས་གཞི།"
 
 msgid "Red"
 msgstr "དམར་པོ།"
@@ -8949,10 +8956,10 @@ msgid "Saturation"
 msgstr "ཚད་ལོངས་ཚད།"
 
 msgid "Value"
-msgstr ""
+msgstr "ཐང་།"
 
 msgid "percent"
-msgstr "བརྒྱ་ཆའི་བསྡུར་ཚད།"
+msgstr " བརྒྱ་ཆའི་བསྡུར།"
 
 msgid "Aligned"
 msgstr "སྙོམས་ཟིན་པ།"
@@ -8961,7 +8968,7 @@ msgid "Fixed"
 msgstr "གཏན་འཇགས།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Registered"
 msgstr "ཟིན་ཐོ་བཀོད་ཟིན་པ།"
@@ -8991,13 +8998,13 @@ msgid "Current status"
 msgstr "མིག་སྔའི་རྣམ་པ།"
 
 msgid "Description"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཞིབ་བརྗོད།"
 
 msgid "I_con & Text"
 msgstr "རིས་རྟགས་དང་ཡི་གེ (_C)"
 
 msgid "Icon"
-msgstr "རིས་རྟགས"
+msgstr "རིས་རྟགས།"
 
 msgid "Icon & desc"
 msgstr "རིས་རྟགས་དང་ཞིབ་བརྗོད།"
@@ -9015,16 +9022,16 @@ msgid "Status & text"
 msgstr "རྣམ་པ་དང་ཡི་གེ"
 
 msgid "Text"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཡིག་དེབ།"
 
 msgid "Undefined"
-msgstr "མཚན་ཉིད་བཞག་མེད།"
+msgstr "མཚན་ཉིད་བཞག་མེད་པ།"
 
 msgid "_Icon"
 msgstr "རིས་རྟགས། (_I)"
 
 msgid "_Text"
-msgstr "ཡི་གེ (_T)"
+msgstr "ཡི་གེ། (_T)"
 
 msgid "tags-locale:C"
 msgstr "tags-locale:zh_CN"
@@ -9087,7 +9094,7 @@ msgid "Load text from file"
 msgstr "ཡིག་ཆ་ནས་ཡིག་རྐྱང་ཁུར་སྣོན་བྱེད་པ།"
 
 msgid "Open"
-msgstr "ཁ་འབྱེད།"
+msgstr "ཁ་ཕྱེ་བ།"
 
 msgid "RTL"
 msgstr "གཡས་ནས་གཡོན་བར།"
@@ -9096,7 +9103,7 @@ msgid "Bend the text along the currently active path"
 msgstr "མིག་སྔའི་བྱ་བྱེད་བརྒྱུད་ལམ་དེད་ནས་ཡི་གེ་བཀུག་པ།"
 
 msgid "Cl_ear"
-msgstr "གཙང་སེལ། (_E)"
+msgstr "གཙང་སེལ།(_E)"
 
 msgid "Clear all text"
 msgstr "ཡིག་རྐྱང་ཚང་མ་གཙང་སེལ།"
@@ -9114,7 +9121,7 @@ msgid "From right to left"
 msgstr "གཡས་ནས་གཡོན་བར།"
 
 msgid "Input _Methods"
-msgstr "ནང་འཇུག་བྱེད་སྟངས།(_M)"
+msgstr "ནང་འཇུག་ཐབས། (_M)"
 
 msgid "Text Tool Menu"
 msgstr "ཡི་གེ་ལག་ཆའི་འདེམས་བྱང་།"
@@ -9123,10 +9130,10 @@ msgid "Text _along Path"
 msgstr "ཡི་གེ་སྙོམ་པའི་བརྒྱུད་ལམ། (_A)"
 
 msgid "_Copy"
-msgstr "འདྲ་བཟོ།(_C)"
+msgstr "འདྲ་པར།(_C)"
 
 msgid "_Delete"
-msgstr "འདོར་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "_Open text file..."
 msgstr "ཡིག་རྐྱང་ཡིག་ཆ་ཁ་ཕྱེ་བ། (_O)..."
@@ -9249,7 +9256,7 @@ msgid "_Selection Tools"
 msgstr "ལག་ཆ་འདེམ་པ། (_S)"
 
 msgid "_Tools"
-msgstr "ལག་ཆ།(_T)"
+msgstr " ལག་ཆ།(_T)"
 
 msgid "_Transform Tools"
 msgstr "ལག་ཆ་བརྗེ་བསྒྱུར། (_T)"
@@ -9258,7 +9265,7 @@ msgid "Layer"
 msgstr "རིས་རིམ།"
 
 msgid "Path"
-msgstr "འགྲོ་ལམ་འགྲོ་ལམ།"
+msgstr "འགྲོ་ལམ།"
 
 msgid "Selection"
 msgstr "འདེམ་པ།"
@@ -9276,7 +9283,7 @@ msgid "<<invalid>>"
 msgstr "<< ནུས་མེད། >>"
 
 msgid "Add Alpha Channel"
-msgstr "རྒྱུ་ལམ Alpha སྣོན་པ།"
+msgstr "རྒྱུ་ལམ Alpha སྣོན་པ། "
 
 msgid "Add Channel"
 msgstr "རྒྱུ་ལམ་སྣོན་པ།"
@@ -9345,7 +9352,7 @@ msgid "Border Channel"
 msgstr "རྒྱུ་ལམ་མཐའ་མཚམས་ལེན་པ།"
 
 msgid "Border Selection"
-msgstr "འདེམས་ཁུལ་གྱི་མཐའ་མཚམས་ལེན་པ།"
+msgstr "འདེམས་ཁུལ་མཐའ་མཚམས་ལེན་པ།"
 
 msgid "Brightness-Contrast"
 msgstr "གསལ་ཚད། - སྡུར་ཚད།"
@@ -9468,7 +9475,7 @@ msgid "Fill with White"
 msgstr "དཀར་པོས་ཁ་སྐོང་བ།"
 
 msgid "Flatten Image"
-msgstr "སྙོམས་པོའི་བརྙན་རིས།"
+msgstr "བརྙན་རིས་སྙོམས་པ།"
 
 msgid "Flip"
 msgstr ""
@@ -9504,7 +9511,7 @@ msgid "Float selection"
 msgstr "འཕྱོ་འགུལ་འདེམས་ཁུལ།"
 
 msgid "Floating Selection to Layer"
-msgstr "འཕྱོ་འགུལ་འདེམས་ཁུལ་ནས་རིས་རིམ་བར།"
+msgstr "འཕྱོ་འགུལ་འདེམས་ཁུལ་ནས་ས་རིམ་བར།"
 
 msgid "Floating selection to layer"
 msgstr "འཕྱོ་འགུལ་འདེམས་ཁུལ་ནས་ས་རིམ་བར།"
@@ -9528,10 +9535,10 @@ msgid "Image resolution change"
 msgstr "བརྙན་རིས་ཀྱི་འབྱེད་ཕྱོད་བཟོ་བཅོས།"
 
 msgid "Image size"
-msgstr "བརྙན་རིས་ཀྱི་ཆེ་ཆུང་།"
+msgstr "བརྙན་རིས་ཆེ་ཆུང་།"
 
 msgid "Image type"
-msgstr "བརྙན་རིས་ཀྱི་རིགས་གྲས།"
+msgstr "བརྙན་རིས་རིགས་གྲས།"
 
 msgid "Import paths"
 msgstr "བརྒྱུད་ལམ་འདྲེན་འཇུག"
@@ -9777,7 +9784,7 @@ msgid "Resume group layer resize"
 msgstr "ཁྱུ་ཚོའི་རིས་རིམ་གྱི་ཆེ་ཆུང་སྒྱུར་བ་སླར་གསོ།"
 
 msgid "Rotate"
-msgstr "འཁྱིལ་འཁོར།"
+msgstr "འཁོར་སྐྱོད།"
 
 msgid "Rotate Channel"
 msgstr "རྒྱུ་ལམ་འཁྱིལ་འཁོར།"
@@ -9807,7 +9814,7 @@ msgid "Sample Point"
 msgstr "དཔེ་སྒྲུག་ཚེག"
 
 msgid "Scale"
-msgstr "སྐྱེད་སྐྱུང་།"
+msgstr "བསྡུར་ཚད་ཆེར་སྐྱེད།"
 
 msgid "Scale Channel"
 msgstr "རྒྱུ་ལམ་སྐྱེད་སྐྱུང་།"
@@ -9834,13 +9841,13 @@ msgid "Scale to %d x %d"
 msgstr "%d x %d ལ་སྐྱེད་སྐྱུང་།"
 
 msgid "Select All"
-msgstr "ཚང་མ་འདེམས།"
+msgstr "ཡོད་ཚད་འདེམ་པ།"
 
 msgid "Select None"
 msgstr "བདམས་པ་ལེན་པ།"
 
 msgid "Select by Color"
-msgstr "ཁ་དོག་ལ་གཞིགས་ནས་འདེམ་པ།"
+msgstr "ཁ་དོག་ལྟར་འདེམ་པ།"
 
 msgid "Select foreground"
 msgstr "མདུན་ལྗོངས་འདེམ་པ།"
@@ -9894,16 +9901,16 @@ msgid "Stroke Channel"
 msgstr "རྒྱུ་ལམ་བྲིས་པ།"
 
 msgid "Stroke Path"
-msgstr "བརྒྱུད་ལམ་འབྲི་བ།"
+msgstr "བརྒྱུད་ལམ་བྲིས་པ།"
 
 msgid "Stroke Selection"
-msgstr "འདེམས་ཁུལ་འབྲིག་བ།"
+msgstr "འདེམས་ཁུལ་བྲིས་པ།"
 
 msgid "Suspend group layer resize"
 msgstr "ཁྱུ་ཚོའི་རིས་རིམ་གྱི་ཆེ་ཆུང་སྒྱུར་བ་སྐབས་འཇོག་བྱེད་པ།"
 
 msgid "Text"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཡིག་དེབ།"
 
 msgid "Text layer"
 msgstr "ཡི་གེའི་རིས་རིམ།"
@@ -9915,7 +9922,7 @@ msgid "Transfer Alpha to Mask"
 msgstr "Alpha དེ་སོག་ལེབ་ལ་སྤོ་བ། "
 
 msgid "Transform"
-msgstr "བརྗེ་བསྒྱུར། "
+msgstr "བརྗེ་བསྒྱུར།"
 
 msgid "Transform Channel"
 msgstr "རྒྱུ་ལམ་བརྗེ་བསྒྱུར།"
@@ -9972,7 +9979,7 @@ msgid "using %s version %s (compiled against version %s)"
 msgstr "%s པར་གཞི %s བེད་སྤྱོད་པ། ( %s རྨང་གཞི་བྱས་ནས་སྒྲིག་སྒྱུར་བྱེད་པ )"
 
 msgid "value for token %s is not a valid UTF-8 string"
-msgstr "%s ཡི་གྲངས་བྲིན་དེ་ནི་ནུས་ལྡན་གྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་མིན།"
+msgstr "%s ཡི་གྲངས་བྲིན་དེ་ནུས་ལྡན་གྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་མིན།"
 
 msgid "Design"
 msgstr "ཇུས་འགོད།"
@@ -10092,7 +10099,7 @@ msgid "To _Path"
 msgstr "བརྒྱུད་ལམ་བར། (_P)"
 
 msgid "_Add to Selection"
-msgstr "འདེམས་ཁུལ་ལ་སྣོན་པ། (_A)"
+msgstr "འདེམས་ཁུལ་དུ་སྣོན་པ། (_A)"
 
 msgid "_Delete Path"
 msgstr "བརྒྱུད་ལམ་སུབ་པ། (_D)"
@@ -10122,7 +10129,7 @@ msgid "_Subtract from Selection"
 msgstr "འདེམས་ཁུལ་ནང་ནས་འཐེན་པ། (_S)"
 
 msgid "_Visible"
-msgstr "མཐོང་རུང་བ། (_V)"
+msgstr "མཐོང་རུང་། (_V)"
 
 msgid "A pixel on the screen represents an image pixel"
 msgstr "བརྙན་ཡོལ་ཞིག་སྟེང་གི་བརྙན་རྒྱུས་བརྙན་རིས་བརྙན་རྒྱུ་ཞིག་མཚོན་པ།"
@@ -10142,7 +10149,7 @@ msgid "Configure filters applied to this view"
 msgstr "སྡེབ་སྒྲིག་དེ་མངོན་པའི་འཚག་ཤེལ་འདི་ལ་བཀོལ་སྤྱོད་བྱེད་པ།"
 
 msgid "Connect to another display"
-msgstr "མངོན་པ་གཞན་ཞིག་ལ་འབྲེལ་བ།"
+msgstr "མངོན་པ་གཞན་ཞིག་ལ་འབྲེལ་མཐུད་བྱེད་པ།"
 
 msgid "Create another view on this image"
 msgstr "བརྙན་རིས་འདི་ཡི་སྟེང་མངོན་པ་གཞན་ཞིག་བཟོ་བ།"
@@ -10208,7 +10215,7 @@ msgid "Show _Layer Boundary"
 msgstr "རིས་རིམ་མཐའ་མཚམས་མངོན་པ། (_L)"
 
 msgid "Show _Menubar"
-msgstr "འདེམས་བྱང་ཚང་མངོན་པ། (_M)"
+msgstr "འདེམ་བྱང་སྡེ་འཆར་བ།(_M)"
 
 msgid "Show _Selection"
 msgstr "འདེམས་ཁུལ་མངོན་པ། (_S)"
@@ -10283,10 +10290,10 @@ msgid "_Padding Color"
 msgstr "ལྕིབས་སྟན་ཁ་དོག (_P)"
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "_Zoom"
-msgstr "སྐྱེད་སྐྱུང་།(_Z)"
+msgstr "སྐྱེད་སྐྱུང་། (_Z)"
 
 msgid "As in _Preferences"
 msgstr "སྔོན་འདེམས་ཚན་པའི་ནང་ལྟར་སྒྲིག་པ། (_P)"
@@ -10326,10 +10333,10 @@ msgid "Gigantic"
 msgstr "ཆེས་ཆེ་བ།"
 
 msgid "Huge"
-msgstr "ཆེན་པོ།"
+msgstr "རྒྱ་ཆེ།"
 
 msgid "Large"
-msgstr "ཆེ་བ།"
+msgstr "ཆེ།"
 
 msgid "Medium"
 msgstr "འབྲིང་རིམ།"
@@ -10338,10 +10345,10 @@ msgid "Small"
 msgstr "ཡིག་གཟུགས་ཆུང་བ།"
 
 msgid "Tiny"
-msgstr "ཕྲན་བུ།"
+msgstr "ཆུང་རྩག"
 
 msgid "Very large"
-msgstr "ཧ་ཅང་ཆེ་བ།"
+msgstr "ཧ་ཅང་ཆེན་པོ།"
 
 msgid "Very small"
 msgstr "ཧ་ཅང་ཆུང་བ།"
@@ -10401,22 +10408,22 @@ msgid "Zoom 8:1"
 msgstr "སྐྱེད་སྐྱུང 8:1"
 
 msgid "Zoom In"
-msgstr "ཆེར་སྐྱེད།"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Zoom Out"
-msgstr "ཆུང་སྐྱུང་།"
+msgstr "ཆུང་བསྡུ།"
 
 msgid "Zoom _In"
 msgstr "ཆེར་སྐྱེད།(_I)"
 
 msgid "Zoom _Out"
-msgstr "ཆུང་སྐྱུང་།(_O)"
+msgstr "ཆུང་བསྡུ།(_O)"
 
 msgid "Zoom in"
-msgstr "ཆེར་སྐྱེད།"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Zoom out"
-msgstr "ཆུང་སྐྱུང་།"
+msgstr "ཆུང་བསྡུ།"
 
 msgid "_1:1  (100%)"
 msgstr " _1:1 (100%)"
@@ -10475,10 +10482,49 @@ msgid "_Recently Closed Docks"
 msgstr "ཉེ་དུས་ཁ་རྒྱག་པའི་སྡོད་པ། (_R)"
 
 msgid "_Windows"
-msgstr "སྒེའུ་ཁུང་། (_W)"
+msgstr "སྒེའུ་ཁུང་།(_W)"
 
 msgid "High"
 msgstr "མཐོ།"
 
 msgid "Low"
 msgstr "དམའ།"
+
+msgid "Aspect ratio:"
+msgstr "མཐོ་ཞེད་ཀྱི་བསྡུར་ཚད།"
+
+msgid "Close _without Saving"
+msgstr "ཁ་རྒྱག་ཅིང་མི་ཉར།(_W)"
+
+msgid "Instant update"
+msgstr "ལམ་སེང་གསར་སྒྱུར།"
+
+msgid "Opacity:"
+msgstr "མི་གསལ་ཚད།:"
+
+msgid "Overwrite %s"
+msgstr "%s འགེབས་པ།"
+
+msgid "Preview:"
+msgstr "སྔོན་ལྟ།"
+
+msgid "Radius:"
+msgstr "ཚངས་ཕྱེད།:"
+
+msgid "Saved Options"
+msgstr "ཉར་ཚགས་ཟིན་པའི་འདེམས་ཚན།"
+
+msgid "Saving Images"
+msgstr " བརྙན་རིས་ཉར་ཚགས།"
+
+msgid "Spacing:"
+msgstr "བར་ཐག："
+
+msgid "_Refresh Dynamicss"
+msgstr "འགུལ་རྣམ་གསར་འདོན། (_R)"
+
+msgid "Overwrite"
+msgstr "འགེབས་པ།"
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག (C)"

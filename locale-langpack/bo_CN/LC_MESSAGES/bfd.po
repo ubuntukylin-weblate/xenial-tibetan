@@ -14,10 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "\tExport Address Table \t\t"
-msgstr ""
+msgstr "\tཤག་གནས་རེའུ་མིག་ཕྱིར་འདྲེན་པ། \t\t"
 
 msgid "\tName Pointer Table \t\t"
-msgstr ""
+msgstr "\tམིང་ཀྱི་སྟོན་ཁབ་རེའུ་མིག \t\t"
 
 msgid "\tOrdinal Table \t\t\t"
 msgstr ""
@@ -494,6 +494,8 @@ msgid ""
 "%s: Error: multiple definition of `%s'; start of %s is set in a earlier "
 "linked file\n"
 msgstr ""
+"%s：ནོར་འཁྲུལ།：མཚན་ཉིད་བསྐྱར་འཇོག་བྱེད་“%s” "
+"%sཡི་འགོ་རྩོམ་ས་དེའི་སྔོན་གྱི་འབྲེལ་མཐུད་ཡིག་ཆར་བཀོད་པ།\n"
 
 msgid "%s: GAS error: unexpected PTB insn with R_SH_PT_16"
 msgstr "%s：GAS ནོར་འཁྲུལ། བློ་ཡུལ་ལས་འདས་པའི་R_SH_PT_16ཡི་ PTB བཀའ་བརྡ་ཡོད།"
@@ -628,7 +630,7 @@ msgid "<Unrecognised flag bits set>"
 msgstr "<ངོས་འཛིན་མི་ཐུབ་པའི་མཚོན་རྟགས་གནས་ཚོགས་སྤྱི།>"
 
 msgid "<unknown>"
-msgstr "<ངེས་མེད།>"
+msgstr "〈ངེས་མེད〉"
 
 msgid "Archive has no index; run ranlib to add one"
 msgstr "ཡིག་ཚགས་སུ་གསལ་བྱང་མེད།  ranlibའཁོར་སྐྱོད་བྱས་ནས་གཅིག་སྣོན།"
@@ -641,9 +643,13 @@ msgstr "BFD %s ཚིག་ཐག་ཕམ་པ། %s：%d"
 
 msgid "BFD %s internal error, aborting at %s line %d\n"
 msgstr ""
+"BFD %1$s ནང་ཁུལ་ནོར་འཁྲུལ། རྒྱུན་འགལ་གྱི་མཚམས་བཞག%3$dཡི་ཕྲེང་ %2$s\n"
+"རུ་གནས།"
 
 msgid "BFD %s internal error, aborting at %s line %d in %s\n"
 msgstr ""
+"BFD %1$s ནང་ཁུལ་ནོར་འཁྲུལ། རྒྱུན་འགལ་གྱི་མཚམས་བཞག་ %4$sཡི་%3$dཕྲེང་%2$s\n"
+"རུ་གནས།"
 
 msgid "Bad value"
 msgstr "ནོར་འཁྲུལ་གྱི་ཚད།"
@@ -688,7 +694,7 @@ msgid "Dwarf Error: mangled line number section."
 msgstr "ནོར་འཁྲུལ་ཆུང་ངུ། ཕྲེང་ཨང་དུམ་བུ་ནོར་འཁྲུལ་བྱུང་། "
 
 msgid "Entry offset        = 0x%.8lx (%ld)\n"
-msgstr ""
+msgstr "ས་བཅད་སྤོ་ཚད།      = 0x%.8lx། (%ld)\n"
 
 msgid "Error reading %s: %s"
 msgstr " %sཀློག་སྐབས་ནོར་འཁྲུལ།： %sབྱུང་།"
@@ -700,7 +706,7 @@ msgid "Export Directory [.edata (or where ever we found it)]"
 msgstr "དཀར་ཆག་ཕྱིར་འདྲེན། [.edata། (ཡང་ན་དེ་རྙེད་པའི་གནས་གཞན་དག་གང་རུང་དུ།)]"
 
 msgid "Export Flags \t\t\t%lx\n"
-msgstr ""
+msgstr "མཚོན་རྟགས་ \t\t\t%lxའདྲེན་པ།\n"
 
 msgid "Export RVA"
 msgstr " RVAའདྲེན་པ།"
@@ -721,7 +727,7 @@ msgid "File truncated"
 msgstr "ཡིག་ཆ་བཅད་པ།"
 
 msgid "Flag field          = 0x%.2x\n"
-msgstr ""
+msgstr "མཚོན་རྟགས་ཁོངས          = 0x%.2x\n"
 
 msgid "GP relative relocation used when GP not defined"
 msgstr " GPམཚན་ཉིད་མ་བཞག་པའི་གནས་ཚུལ་དུ་GPབལྟོས་བཅས་གནས་བསྐྱར་ངེས་བཀོལ་བ།"
@@ -753,7 +759,7 @@ msgid "Invalid operation"
 msgstr "ནུས་མེད་ཀྱི་བཀོལ་སྤྱོད།"
 
 msgid "Length              = 0x%.8lx (%ld)\n"
-msgstr ""
+msgstr "རིང་ཚད་ = 0x%.8lx། (%ld)\n"
 
 msgid "Load Configuration Directory"
 msgstr "སྡེབ་སྒྲིག་དཀར་ཆག་ནང་འཇུག་བྱེད།"
@@ -768,7 +774,7 @@ msgid "Memory exhausted"
 msgstr "ནང་གསོག་བཀོལ་ཚར།"
 
 msgid "Name \t\t\t\t"
-msgstr ""
+msgstr "མིང་ \t\t\t\t"
 
 msgid "No error"
 msgstr "ནོར་འཁྲུལ་མེད།"
@@ -786,10 +792,10 @@ msgid "Not enough memory to sort relocations"
 msgstr "འདང་ངེས་ཀྱི་ནང་གསོག་གིས་གནས་བསྐྱར་ངེས་རིམ་སྒྲིག་བྱ་བྱེད་མེད།"
 
 msgid "Output file requires shared library `%s'\n"
-msgstr ""
+msgstr "ཡིག་ཆ་ཕྱིར་འདོན་གྱི་མཉམ་སྤྱོད་མཛོད“%s”དགོས།\n"
 
 msgid "Output file requires shared library `%s.so.%s'\n"
-msgstr ""
+msgstr "ཡིག་ཆ་ཕྱིར་འདོན་མཉམ་སྤྱོད་མཛོད་“%s.so.%s”དགོས།\n"
 
 msgid "POSIX            "
 msgstr "POSIX            "
@@ -802,18 +808,20 @@ msgstr "PTB ཆ་མི་མཉམ། SHmedia ཤག་གནས། (གནས
 
 msgid "Partition name      = \"%s\"\n"
 msgstr ""
+"ཁུལ་མིང་དབྱེ་ = \\%s\"\n"
+"\""
 
 msgid "Partition[%d] end    = { 0x%.2x, 0x%.2x, 0x%.2x, 0x%.2x }\n"
-msgstr ""
+msgstr "ཁུལ་བགོད[%d] མཐའ་སྣེ   = { 0x%.2x, 0x%.2x, 0x%.2x, 0x%.2x }\n"
 
 msgid "Partition[%d] length = 0x%.8lx (%ld)\n"
-msgstr ""
+msgstr "ཁུལ་བགོད[%d] རིང་ཚད་ = 0x%.8lx། (%ld)\n"
 
 msgid "Partition[%d] sector = 0x%.8lx (%ld)\n"
-msgstr ""
+msgstr "ཁུལ་བགོད[%d] གཡབ་ཁུལ = 0x%.8lx། (%ld)\n"
 
 msgid "Please report this bug.\n"
-msgstr ""
+msgstr "BUG འདི་སྙན་ཞུ་བྱེད་རོགས། \n"
 
 msgid "R_BFIN_FUNCDESC references dynamic symbol with nonzero addend"
 msgstr ""
@@ -829,7 +837,7 @@ msgid "Reading archive file mod timestamp"
 msgstr "ཡིག་ཆ་བཟོ་བཅོས་དུས་བཀག་ཀློག་པ།"
 
 msgid "Register section has contents\n"
-msgstr ""
+msgstr "བཅོལ་ཆས་ཀྱི་ཚིགས་སུ་ནང་དོན་ཡོད།\n"
 
 msgid "Reserved"
 msgstr "སོར་བཞག"
@@ -859,13 +867,13 @@ msgid "System call error"
 msgstr "རྒྱུད་ཁོངས་འདྲེན་སྤྱོད་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "Table Addresses\n"
-msgstr ""
+msgstr "རེའུ་མིག་ཤག་གནས\n"
 
 msgid "Thread Storage Directory [.tls]"
 msgstr "སྐུད་རིམ་གསོག་པའི་དཀར་ཆག [.tls]"
 
 msgid "Time/Date stamp \t\t%lx\n"
-msgstr ""
+msgstr "ཚེས་གྲངས/དུས་བཀག \t\t%lx\n"
 
 msgid "Unexpected machine number"
 msgstr "ངེས་མེད་ཀྱི་འཕྲུལ་ཆས་ཨང་ཀི"
@@ -951,7 +959,7 @@ msgid "Warning: type of symbol `%s' changed from %d to %d in %B"
 msgstr "ཐ་ཚིག  མཚོན་རྟགས་རིགས་གྲས་ '%s' ནི%dལས་ %dལ་བསྒྱུར་དེ %Bརུ་གནས།"
 
 msgid "Warning: writing archive was slow: rewriting timestamp\n"
-msgstr ""
+msgstr "ཐ་ཚིག  ཡིག་ཚགས་འབྲི་མ་དལ་དྲགས། དུས་བཀག་ཡང་བསྐྱར་འབྲི\n"
 
 msgid "Writing updated armap timestamp"
 msgstr "armap དུས་བཀག་གསར་སྒྱུར་བྱེད།"
@@ -1049,7 +1057,7 @@ msgid "hidden symbol"
 msgstr "སྦེད་པའི་མཚོན་རྟགས།"
 
 msgid "ignoring reloc %s\n"
-msgstr ""
+msgstr "གནས་བསྐྱར་ངེས་ %sསྣང་མེད་དུ་གཏོང་བ།\n"
 
 msgid "internal error: dangerous error"
 msgstr "ནང་ཁུལ་ནོར་འཁྲུལ། ཉེན་ཁའི་ནོར་འཁྲུལ།"
@@ -1136,7 +1144,7 @@ msgstr ""
 "-COFFམིན་པའི་མཚོན་རྟགས་གཏན་མི་འཁེལ་བའི་འདྲེན་སྤྱོད་ཀྱི་གྲོས་ཆིངས་སྐོར།"
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"
 
 msgid "unknown error"
 msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "

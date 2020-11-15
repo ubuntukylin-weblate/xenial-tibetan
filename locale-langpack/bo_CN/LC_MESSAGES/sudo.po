@@ -32,7 +32,7 @@ msgid "%s changed labels"
 msgstr ""
 
 msgid "%s is group writable"
-msgstr ""
+msgstr "%s ཚོ་འབྲི་བྱས་ཆོག"
 
 msgid "%s is not a regular file"
 msgstr "%s རྒྱུན་ལྡན་ཡིག་ཆ་མིན།"
@@ -53,13 +53,13 @@ msgid "%s must be only be writable by owner"
 msgstr ""
 
 msgid "%s must be owned by uid %d"
-msgstr ""
+msgstr "%s ངེས་པར་དུ་སྤྱོད་མཁན་ ID %d གཏོགས་དགོས།"
 
 msgid "%s must be owned by uid %d and have the setuid bit set"
 msgstr ""
 
 msgid "%s unchanged"
-msgstr ""
+msgstr "%s བཟོ་བཅོས་བྱས་མེད།"
 
 msgid "%s%s: %s"
 msgstr ""
@@ -334,7 +334,7 @@ msgid "unable to change uid to root (%u)"
 msgstr ""
 
 msgid "unable to create pipe"
-msgstr ""
+msgstr "སྦུག་ལམ་གསར་འཛུགས་བྱེད་མི་ཐུབ།"
 
 msgid "unable to create sockets"
 msgstr "འབྲེལ་འཛུགས་ཡི་གེ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
@@ -382,7 +382,7 @@ msgid "unable to open %s, not relabeling tty"
 msgstr ""
 
 msgid "unable to open audit system"
-msgstr ""
+msgstr "ཞིབ་བཤེར་རྒྱུད་ཁོངས་ཁ་ཕྱེ་ཐབས་མེད།"
 
 msgid "unable to open socket"
 msgstr ""
@@ -409,13 +409,13 @@ msgid "unable to restore tty label"
 msgstr ""
 
 msgid "unable to run %s"
-msgstr "%s ལག་བསྟར་བྱེད་ཐབས་མེད།"
+msgstr "%s འཁོར་སྐྱོད་བྱེད་ཐབས་མེད།"
 
 msgid "unable to save stdin"
 msgstr ""
 
 msgid "unable to send audit message"
-msgstr ""
+msgstr "ཞིབ་བཤེར་བརྡ་འཕྲིན་སྐྱེལ་གཏོང་བྱེད་ཐབས་མེད།"
 
 msgid "unable to set controlling tty"
 msgstr ""
@@ -463,7 +463,7 @@ msgid "unable to switch to registry \"%s\" for %s"
 msgstr ""
 
 msgid "unable to write to %s"
-msgstr ""
+msgstr "%s་འབྲི་ཐབས་མེད།"
 
 msgid "unexpected child termination condition: %d"
 msgstr ""
@@ -521,3 +521,9 @@ msgstr ""
 
 msgid "you must specify a role for type %s"
 msgstr ""
+
+msgid "unable to allocate memory"
+msgstr "ནང་གསོག་བགོ་བཤའ་རྒྱག་ཐབས་མེད།"
+
+msgid "unable to read the clock"
+msgstr "དུས་ཚོད་ཀློག་ཐབས་མེད།"
