@@ -1,0 +1,3500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnupg 1.4.4\n"
+"Report-Msgid-Bugs-To: translations@gnupg.org\n"
+"POT-Creation-Date: 2016-01-26 13:55+0100\n"
+"PO-Revision-Date: 2016-04-08 16:21+0000\n"
+"Last-Translator: Meng Jie <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-translation@lists.linux.net.cn>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:22+0000\n"
+"X-Poedit-Basepath: d:\\msys\\source\\gnupg-1.4.3\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+msgid ""
+"\n"
+"Enter the user ID.  End with an empty line: "
+msgstr ""
+"\n"
+"输入用户标识。以空白行结束： "
+
+msgid ""
+"\n"
+"Pick an image to use for your photo ID.  The image must be a JPEG file.\n"
+"Remember that the image is stored within your public key.  If you use a\n"
+"very large picture, your key will become very large as well!\n"
+"Keeping the image close to 240x288 is a good size to use.\n"
+msgstr ""
+"\n"
+"请挑选一张图片作为您的照片标识 。这张图片一定要是JPEG文件。请记住这张图\n"
+"片会被存放在您的公钥里。如果您挑了非常大的图片的话，您的密钥也会变得非\n"
+"常大！请尽量把图片尺寸控制在240x288左右，这是个理想的尺寸。\n"
+
+msgid ""
+"\n"
+"Supported algorithms:\n"
+msgstr ""
+"\n"
+"支持的算法：\n"
+
+msgid ""
+"\n"
+"You need a user ID to identify your key; the software constructs the user ID\n"
+"from the Real Name, Comment and Email Address in this form:\n"
+"    \"Heinrich Heine (Der Dichter) <heinrichh@duesseldorf.de>\"\n"
+"\n"
+msgstr ""
+"\n"
+"您需要一个用户标识来辨识您的密钥；本软件会用真实姓名、注释和电子邮件地址组合\n"
+"成用户标识，如下所示：\n"
+"    “Heinrich Heine (Der Dichter) <heinrichh@duesseldorf.de>”\n"
+"\n"
+
+msgid "                aka"
+msgstr "                亦即"
+
+msgid "                aka \"%s\""
+msgstr "                亦即“%s”"
+
+msgid "               using %s key %s\n"
+msgstr "               使用 %s 密钥 %s\n"
+
+msgid "              imported: %lu"
+msgstr "              已导入：%lu"
+
+msgid "             unchanged: %lu\n"
+msgstr "             未改变：%lu\n"
+
+msgid "           new subkeys: %lu\n"
+msgstr "           新的子钥：%lu\n"
+
+msgid "          new user IDs: %lu\n"
+msgstr "          新用户标识：%lu\n"
+
+msgid "          not imported: %lu\n"
+msgstr "          未被导入：%lu\n"
+
+msgid "          w/o user IDs: %lu\n"
+msgstr "          遗失用户标识：%lu\n"
+
+msgid "         \"%s\": preference for cipher algorithm %s\n"
+msgstr "         “%s”：对称加密算法 %s 对应首选项\n"
+
+msgid "         \"%s\": preference for compression algorithm %s\n"
+msgstr "         “%s”：压缩算法 %s 对应首选项\n"
+
+msgid "         \"%s\": preference for digest algorithm %s\n"
+msgstr "         “%s”：散列算法 %s 对应首选项\n"
+
+msgid "         (subkey on main key ID %s)"
+msgstr "         (主钥 %s 的子钥)"
+
+msgid "         It is not certain that the signature belongs to the owner.\n"
+msgstr "         这份签名并不一定属于它所声称的持有者\n"
+
+msgid "         The signature is probably a FORGERY.\n"
+msgstr "         这个签名很有可能是伪造的。\n"
+
+msgid ""
+"         There is no indication that the signature belongs to the owner.\n"
+msgstr "         没有证据表明这个签名属于它所声称的持有者。\n"
+
+msgid "         This could mean that the signature is forged.\n"
+msgstr "         这表明这个签名有可能是伪造的。\n"
+
+msgid "        new signatures: %lu\n"
+msgstr "        新的签名：%lu\n"
+
+msgid "      \"%s\"\n"
+msgstr "      “%s”\n"
+
+msgid "      Card serial no. ="
+msgstr "      卡序列号 ="
+
+msgid "      Key fingerprint ="
+msgstr "      密钥指纹 ="
+
+msgid "      Subkey fingerprint:"
+msgstr "      子钥指纹："
+
+msgid "      secret keys read: %lu\n"
+msgstr "      读取的私钥：%lu\n"
+
+msgid "      skipped new keys: %lu\n"
+msgstr "      已跳过的新密钥：%lu\n"
+
+msgid "      user IDs cleaned: %lu\n"
+msgstr "      清除的用户标识：%lu\n"
+
+msgid "     Subkey fingerprint:"
+msgstr "     子钥指纹："
+
+msgid "    signatures cleaned: %lu\n"
+msgstr "    清除的签名：%lu\n"
+
+msgid "   (%c) Finished\n"
+msgstr "   (%c) 已完成\n"
+
+msgid "   (%c) Toggle the authenticate capability\n"
+msgstr "   (%c) 选择是否用于认证\n"
+
+msgid "   (%c) Toggle the encrypt capability\n"
+msgstr "   (%c) 选择是否用于加密\n"
+
+msgid "   (%c) Toggle the sign capability\n"
+msgstr "   (%c) 选择是否用于签名\n"
+
+msgid "   (%d) DSA (set your own capabilities)\n"
+msgstr "   (%d) DSA (自定义用途)\n"
+
+msgid "   (%d) DSA (sign only)\n"
+msgstr "   (%d) DSA (仅用于签名)\n"
+
+msgid "   (%d) Elgamal (encrypt only)\n"
+msgstr "   (%d) ElGamal (仅用于加密)\n"
+
+msgid "   (%d) RSA (encrypt only)\n"
+msgstr "   (%d) RSA (仅用于加密)\n"
+
+msgid "   (%d) RSA (set your own capabilities)\n"
+msgstr "   (%d) RSA (自定义用途)\n"
+
+msgid "   (%d) RSA (sign only)\n"
+msgstr "   (%d) RSA (仅用于签名)\n"
+
+msgid "   (0) I will not answer.%s\n"
+msgstr "   (0) 我不作答。 %s\n"
+
+msgid "   (1) I have not checked at all.%s\n"
+msgstr "   (1) 我根本没有检查过。 %s\n"
+
+msgid "   (1) Signature key\n"
+msgstr "   (1) 签名密钥\n"
+
+msgid "   (2) Encryption key\n"
+msgstr "   (2) 加密密钥\n"
+
+msgid "   (2) I have done casual checking.%s\n"
+msgstr "   (2) 我随意检查过。 %s\n"
+
+msgid "   (3) Authentication key\n"
+msgstr "   (3) 认证密钥\n"
+
+msgid "   (3) I have done very careful checking.%s\n"
+msgstr "   (3) 我非常小心地检查过。 %s\n"
+
+msgid "   new key revocations: %lu\n"
+msgstr "   新的密钥吊销：%lu\n"
+
+msgid "  %d = I do NOT trust\n"
+msgstr "  %d = 我不相信\n"
+
+msgid "  %d = I don't know or won't say\n"
+msgstr "  %d = 我不知道或我不作答\n"
+
+msgid "  %d = I trust fully\n"
+msgstr "  %d = 我完全相信\n"
+
+msgid "  %d = I trust marginally\n"
+msgstr "  %d = 我勉强相信\n"
+
+msgid "  %d = I trust ultimately\n"
+msgstr "  %d = 我绝对相信\n"
+
+msgid "  (     issuer valid from "
+msgstr "  （  颁发者有效时间开始与 "
+
+msgid "  (  signature created at "
+msgstr "  （ 签名创建于 "
+
+msgid "  (certificate created at "
+msgstr "  （证书创建于 "
+
+msgid "  (certificate valid from "
+msgstr "  （证书有效时间开始于 "
+
+msgid "  Unable to sign.\n"
+msgstr "  无法添加签名。\n"
+
+msgid "  aka \"%s\"\n"
+msgstr "  亦即“%s”\n"
+
+msgid "  m = back to the main menu\n"
+msgstr "  m = 回到主菜单\n"
+
+msgid "  q = quit\n"
+msgstr "  q = 退出\n"
+
+msgid "  s = skip this key\n"
+msgstr "  s = 跳过这把密钥\n"
+
+msgid "  secret keys imported: %lu\n"
+msgstr "  导入的私钥：%lu\n"
+
+msgid " (main key ID %s)"
+msgstr " (主钥匙号 %s)"
+
+msgid " (non-exportable)"
+msgstr " (不可导出)"
+
+msgid " (non-revocable)"
+msgstr " (不可吊销)"
+
+msgid " Primary key fingerprint:"
+msgstr " 主钥指纹："
+
+msgid " secret keys unchanged: %lu\n"
+msgstr " 未改变的私钥：%lu\n"
+
+msgid "\"%s\" not a key ID: skipping\n"
+msgstr "“%s”不是一个用户标识：跳过\n"
+
+msgid "\"%s\" was already locally signed by key %s\n"
+msgstr "“%s”已由密钥 %s 在本地签名\n"
+
+msgid "\"%s\" was already signed by key %s\n"
+msgstr "“%s”已由密钥 %s 签名\n"
+
+msgid ""
+"# List of assigned trustvalues, created %s\n"
+"# (Use \"gpg --import-ownertrust\" to restore them)\n"
+msgstr ""
+"# 已指定的信任度的清单，建立于 %s \n"
+"# (请用“gpg --import-ownertrust”导入这些信任度)\n"
+
+msgid "%lu keys processed so far\n"
+msgstr "目前已处理 %lu 把密钥\n"
+
+msgid "%s %s stopped\n"
+msgstr "%s %s停止\n"
+
+msgid "%s does not yet work with %s\n"
+msgstr "%s 尚不能和 %s 并用\n"
+
+msgid "%s encrypted data\n"
+msgstr "%s 加密过的数据\n"
+
+msgid "%s encrypted session key\n"
+msgstr "%s 加密过的会话密钥\n"
+
+msgid "%s encryption will be used\n"
+msgstr "%s 加密将被采用\n"
+
+msgid "%s is too old (need %s, have %s)\n"
+msgstr "%s太旧(需要%s，现有%s)\n"
+
+msgid "%s keys may be between %u and %u bits long.\n"
+msgstr "%s 密钥长度应在 %u 位与 %u 位之间。\n"
+
+msgid "%s keysizes must be in the range %u-%u\n"
+msgstr "%s 密钥尺寸必须在 %u 与 %u 间\n"
+
+msgid "%s makes no sense with %s!\n"
+msgstr "%s 与 %s 并用无意义！\n"
+
+msgid "%s not allowed with %s!\n"
+msgstr "%s 不可与 %s 并用\n"
+
+msgid "%s/%s encrypted for: \"%s\"\n"
+msgstr "%s/%s 已经加密给：“%s”\n"
+
+msgid "%s/%s signature from: \"%s\"\n"
+msgstr "%s/%s 签名来自：“%s”\n"
+
+msgid "%s: There is limited assurance this key belongs to the named user\n"
+msgstr "%s：只有有限的证据表明这把密钥属于它所声称的持有者\n"
+
+msgid "%s: There is no assurance this key belongs to the named user\n"
+msgstr "%s：没有证据表明这把密钥真的属于它所声称的持有者\n"
+
+msgid "%s: directory does not exist!\n"
+msgstr "%s：目录不存在！\n"
+
+msgid "%s: error reading free record: %s\n"
+msgstr "%s：读取自由记录时出错：%s\n"
+
+msgid "%s: error reading version record: %s\n"
+msgstr "%s：读取版本记录时出错： %s\n"
+
+msgid "%s: error updating version record: %s\n"
+msgstr "%s：更新版本记录时出错： %s\n"
+
+msgid "%s: error writing dir record: %s\n"
+msgstr "%s：写入目录记录时出错：%s\n"
+
+msgid "%s: error writing version record: %s\n"
+msgstr "%s：写入版本记录时出错：%s\n"
+
+msgid "%s: failed to append a record: %s\n"
+msgstr "%s：附加记录时失败：%s\n"
+
+msgid "%s: failed to create hashtable: %s\n"
+msgstr "%s：建立散列表失败：%s\n"
+
+msgid "%s: failed to create version record: %s"
+msgstr "%s：建立版本记录失败：%s"
+
+msgid "%s: failed to zero a record: %s\n"
+msgstr "%s：记录归零时失败：%s\n"
+
+msgid "%s: invalid file version %d\n"
+msgstr "%s：无效的文件版本%d\n"
+
+msgid "%s: invalid trustdb\n"
+msgstr "%s：无效的信任度数据库\n"
+
+msgid "%s: invalid trustdb created\n"
+msgstr "%s：建立了无效的信任度数据库\n"
+
+msgid "%s: keyring created\n"
+msgstr "%s：钥匙环已建立\n"
+
+msgid "%s: not a trustdb file\n"
+msgstr "%s：不是一个信任度数据库文件\n"
+
+msgid "%s: skipped: %s\n"
+msgstr "%s：已跳过：%s\n"
+
+msgid "%s: skipped: public key already present\n"
+msgstr "%s: 已跳过：公钥已存在\n"
+
+msgid "%s: skipped: public key is disabled\n"
+msgstr "%s：已跳过：公钥已被禁用\n"
+
+msgid "%s: trustdb created\n"
+msgstr "%s：建立了信任度数据库\n"
+
+msgid "%s: unknown suffix\n"
+msgstr "%s：未知的后缀名\n"
+
+msgid "%s: version record with recnum %lu\n"
+msgstr "%s：记录编号为%lu的版本记录\n"
+
+msgid "%s:%d: deprecated option \"%s\"\n"
+msgstr "%s:%d：不建议使用该选项“%s”\n"
+
+msgid "%s:%d: invalid auto-key-locate list\n"
+msgstr "%s：%d：无效的 auto-key-locate 清单\n"
+
+msgid "%s:%d: invalid export options\n"
+msgstr "%s：%d：无效的导出选项\n"
+
+msgid "%s:%d: invalid import options\n"
+msgstr "%s：%d：无效的导入选项\n"
+
+msgid "%s:%d: invalid keyserver options\n"
+msgstr "%s：%d：无效的公钥服务器选项\n"
+
+msgid "%s:%d: invalid list options\n"
+msgstr "%s：%d：无效的列表选项\n"
+
+msgid "%s:%d: invalid verify options\n"
+msgstr "%s：%d：无效的校验选项\n"
+
+msgid "%u-bit %s key, ID %s, created %s"
+msgstr "%u 位的 %s 密钥，钥匙号 %s，建立于 %s"
+
+msgid "(No description given)\n"
+msgstr "(不给定描述)\n"
+
+msgid "(Probably you want to select %d here)\n"
+msgstr "(也许您会想要在这里选择 %d)\n"
+
+msgid "(This is a sensitive revocation key)\n"
+msgstr "(这是一把敏感的吊销密钥)\n"
+
+msgid "(sensitive)"
+msgstr "(敏感的)"
+
+msgid "(this is the MD2 algorithm)\n"
+msgstr "（这是MD2算法）\n"
+
+msgid "(unless you specify the key by fingerprint)\n"
+msgstr "(除非您用指纹指定密钥)\n"
+
+msgid "--clearsign [filename]"
+msgstr "--clearsign [文件名]"
+
+msgid "--decrypt [filename]"
+msgstr "--decrypt [文件名]"
+
+msgid "--edit-key user-id [commands]"
+msgstr "--edit-key 用户标识 [指令]"
+
+msgid "--encrypt [filename]"
+msgstr "--encrypt [文件名]"
+
+msgid "--lsign-key user-id"
+msgstr "--lsign-key 用户标识"
+
+msgid "--output doesn't work for this command\n"
+msgstr "--output 在这个命令中不起作用\n"
+
+msgid "--sign --encrypt [filename]"
+msgstr "--sign --encrypt [文件名]"
+
+msgid "--sign --symmetric [filename]"
+msgstr "--sign --symmetric [文件名]"
+
+msgid "--sign [filename]"
+msgstr "--sign [文件名]"
+
+msgid "--sign-key user-id"
+msgstr "--sign-key 用户标识"
+
+msgid "--store [filename]"
+msgstr "--store [文件名]"
+
+msgid "--symmetric --encrypt [filename]"
+msgstr "--symmetric --encrypt [文件名]"
+
+msgid "--symmetric --sign --encrypt [filename]"
+msgstr "--symmetric --sign --encrypt [文件名]"
+
+msgid "--symmetric [filename]"
+msgstr "--symmetric [文件名]"
+
+msgid ""
+"@\n"
+"(See the man page for a complete listing of all commands and options)\n"
+msgstr ""
+"@\n"
+"(请参考在线说明以获得所有命令和选项的完整清单)\n"
+
+msgid ""
+"@\n"
+"Commands:\n"
+" "
+msgstr ""
+"@\n"
+"命令:\n"
+" "
+
+msgid ""
+"@\n"
+"Examples:\n"
+"\n"
+" -se -r Bob [file]          sign and encrypt for user Bob\n"
+" --clearsign [file]         make a clear text signature\n"
+" --detach-sign [file]       make a detached signature\n"
+" --list-keys [names]        show keys\n"
+" --fingerprint [names]      show fingerprints\n"
+msgstr ""
+"@\n"
+"范例：\n"
+"\n"
+" -se -r Bob [文件名]          为 Bob 这个收件人签名及加密\n"
+" --clearsign [文件名]         做出明文签名\n"
+" --detach-sign [文件名]       做出分离式签名\n"
+" --list-keys [某甲]           显示密钥\n"
+" --fingerprint [某甲]         显示指纹\n"
+
+msgid ""
+"@\n"
+"Options:\n"
+" "
+msgstr ""
+"@\n"
+"选项：\n"
+" "
+
+msgid ""
+"@Commands:\n"
+" "
+msgstr ""
+"@指令：\n"
+" "
+
+msgid ""
+"@Options:\n"
+" "
+msgstr ""
+"@选项：\n"
+" "
+
+msgid "ASCII armored output forced.\n"
+msgstr "已强行使用 ASCII 封装过的输出。\n"
+
+msgid "Admin PIN"
+msgstr "管理员密码"
+
+msgid "Admin commands are allowed\n"
+msgstr "允许使用管理员命令\n"
+
+msgid "Admin commands are not allowed\n"
+msgstr "不允许使用管理员命令\n"
+
+msgid "Admin-only command\n"
+msgstr "仅供管理员使用的命令\n"
+
+msgid ""
+"Are you sure that you want to sign this key with your\n"
+"key \"%s\" (%s)\n"
+msgstr ""
+"您真的确定要签名这把密钥，使用您的密钥\n"
+"“%s”(%s)\n"
+
+msgid "Are you sure you still want to add it? (y/N) "
+msgstr "您确定仍然想要增加吗？(y/N) "
+
+msgid "Are you sure you still want to revoke it? (y/N) "
+msgstr "您确定您仍然想要吊销它吗？(y/N) "
+
+msgid "Are you sure you still want to sign it? (y/N) "
+msgstr "您仍然想要为它签名吗？(y/N) "
+
+msgid ""
+"Are you sure you want to appoint this key as a designated revoker? (y/N) "
+msgstr "您确定要将这把密钥设为指定吊销者吗？(y/N)： "
+
+msgid "Are you sure you want to delete it? (y/N) "
+msgstr "您确定要删除它吗？(y/N) "
+
+msgid "Are you sure you want to replace it? (y/N) "
+msgstr "您确定要替换它吗？(y/N) "
+
+msgid "Are you sure you want to use it? (y/N) "
+msgstr "您确定要用它吗？(y/N) "
+
+msgid "Authenticate"
+msgstr "认证"
+
+msgid "BAD signature from \"%s\""
+msgstr "已损坏的签名，来自于“%s”"
+
+msgid "Bad PIN"
+msgstr "无效的密码"
+
+msgid "Bad Passphrase"
+msgstr "无效的密码"
+
+msgid "CA fingerprint: "
+msgstr "CA 指纹： "
+
+msgid "CRC error; %06lX - %06lX\n"
+msgstr "CRC 错误：%06lx - %06lx\n"
+
+msgid "Can't check signature: %s\n"
+msgstr "无法检查签名：%s\n"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cardholder's given name: "
+msgstr "卡持有人的名： "
+
+msgid "Cardholder's surname: "
+msgstr "卡持有人的姓： "
+
+msgid "Certificates leading to an ultimately trusted key:\n"
+msgstr "被绝对信任的密钥的证书：\n"
+
+msgid "Certify"
+msgstr "验证"
+
+msgid "Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? "
+msgstr "更改姓名(N)、注释(C)、电子邮件地址(E)或确定(O)/退出(Q)？ "
+
+msgid "Change (N)ame, (C)omment, (E)mail or (Q)uit? "
+msgstr "更改姓名(N)、注释(C)、电子邮件地址(E)或退出(Q)？ "
+
+msgid "Change passphrase"
+msgstr "更改口令"
+
+msgid "Changing expiration time for a subkey.\n"
+msgstr "将要变更子钥的使用期限。\n"
+
+msgid "Changing expiration time for the primary key.\n"
+msgstr "将要变更主钥的使用期限。\n"
+
+msgid "Cipher: "
+msgstr "对称加密： "
+
+msgid "Command expects a filename argument\n"
+msgstr "命令需要一个文件名作为参数\n"
+
+msgid "Comment: "
+msgstr "注释： "
+
+msgid "Component not found"
+msgstr "没有发现组件"
+
+msgid "Compression: "
+msgstr "压缩： "
+
+msgid "Correct"
+msgstr "正确"
+
+msgid "Create a designated revocation certificate for this key? (y/N) "
+msgstr "要为这把密钥建立一份指定吊销者证书吗？(y/N) "
+
+msgid "Create a revocation certificate for this key? (y/N) "
+msgstr "要为这把密钥建立一份吊销证书吗？(y/N) "
+
+msgid "Create a revocation certificate for this signature? (y/N) "
+msgstr "要为这份签名生成一份吊销证书吗？(y/N) "
+
+msgid "Critical preferred keyserver: "
+msgstr "关键首选公钥服务器： "
+
+msgid "Critical signature notation: "
+msgstr "关键签名注记： "
+
+msgid "Critical signature policy: "
+msgstr "关键签名策略： "
+
+msgid "Current allowed actions: "
+msgstr "目前允许的操作： "
+
+msgid "Current recipients:\n"
+msgstr "当前收件人：\n"
+
+msgid "DSA requires the hash length to be a multiple of 8 bits\n"
+msgstr "DSA 需要散列值长度为 8 位的倍数\n"
+
+msgid "DSA requires the use of a 160 bit hash algorithm\n"
+msgstr "DSA 要求使用 160 位的散列算法\n"
+
+msgid "Data encryption succeeded"
+msgstr "数据加密成功"
+
+msgid "Delete this good signature? (y/N/q)"
+msgstr "删除这个完好的签名吗？(y/N/q)"
+
+msgid "Delete this invalid signature? (y/N/q)"
+msgstr "删除这个无效的签名吗？(y/N/q)"
+
+msgid "Delete this key from the keyring? (y/N) "
+msgstr "要从钥匙环里删除这把密钥吗？(y/N) "
+
+msgid "Delete this unknown signature? (y/N/q)"
+msgstr "删除这个未知的签名吗？(y/N/q)"
+
+msgid "Detached signature.\n"
+msgstr "分离的签名。\n"
+
+msgid "Digest: "
+msgstr "散列： "
+
+msgid "Displaying %s photo ID of size %ld for key %s (uid %d)\n"
+msgstr "正在显示 %s 照片标识(大小为 %ld，属于密钥 %s，用户标识 %d)\n"
+
+msgid "Do you really want to delete the selected keys? (y/N) "
+msgstr "您真的想要删除选定的密钥吗？(y/N) "
+
+msgid "Do you really want to delete this key? (y/N) "
+msgstr "您真的要删除这把密钥吗？(y/N) "
+
+msgid "Do you really want to revoke the entire key? (y/N) "
+msgstr "您真的要吊销整把密钥吗？(y/N) "
+
+msgid "Do you really want to revoke the selected subkeys? (y/N) "
+msgstr "您真的要吊销选定的子钥吗？(y/N) "
+
+msgid "Do you really want to revoke this subkey? (y/N) "
+msgstr "您真的要吊销这把子钥吗？(y/N) "
+
+msgid "Do you really want to set this key to ultimate trust? (y/N) "
+msgstr "您真的要把这把密钥设成绝对信任？(y/N) "
+
+msgid ""
+"Do you want to issue a new signature to replace the expired one? (y/N) "
+msgstr "您想要发布一份新的签名来取代已过期的那一个吗？(y/N) "
+
+msgid "Do you want to promote it to a full exportable signature? (y/N) "
+msgstr "您是否想要把它升级成可以完全导出的签名？(y/N) "
+
+msgid "Do you want to promote it to an OpenPGP self-signature? (y/N) "
+msgstr "您是否想要将它升级成 OpenPGP 的自身签名？(y/N) "
+
+msgid "Do you want to sign it again anyway? (y/N) "
+msgstr "您仍然想要为它再次签名吗？(y/N) "
+
+msgid "Do you want your signature to expire at the same time? (Y/n) "
+msgstr "您想要让您的签名也同时过期吗？ (Y/n) "
+
+msgid "Email address: "
+msgstr "电子邮件地址： "
+
+msgid "Encrypt"
+msgstr "加密"
+
+msgid "Enter JPEG filename for photo ID: "
+msgstr "输入要当作相片标识的JPEG文件名： "
+
+msgid "Enter an optional description; end it with an empty line:\n"
+msgstr "请输入描述(可选)；以空白行结束：\n"
+
+msgid "Enter new filename"
+msgstr "请输入新的文件名"
+
+msgid "Enter new passphrase"
+msgstr "输入新密码"
+
+msgid "Enter number(s), N)ext, or Q)uit > "
+msgstr "输入数字以选择，输入 N 翻页，输入 Q 退出 > "
+
+msgid "Enter passphrase\n"
+msgstr "请输入密码\n"
+
+msgid "Enter passphrase: "
+msgstr "请输入密码： "
+
+msgid "Enter the notation: "
+msgstr "输入注记： "
+
+msgid "Enter the user ID of the designated revoker: "
+msgstr "输入指定吊销者的用户标识： "
+
+msgid "Enter your preferred keyserver URL: "
+msgstr "输入您首选的公钥服务器的 URL： "
+
+msgid "Error: Combined name too long (limit is %d characters).\n"
+msgstr "错误：合成的姓名太长(至多 %d 个字符)。\n"
+
+msgid "Error: Double spaces are not allowed.\n"
+msgstr "错误：不允许出现两个空格。\n"
+
+msgid "Error: Login data too long (limit is %d characters).\n"
+msgstr "错误：登录数据太长(至多 %d 个字符)。\n"
+
+msgid "Error: Only plain ASCII is currently allowed.\n"
+msgstr "错误：目前只允许使用 ASCII 字符。\n"
+
+msgid "Error: Private DO too long (limit is %d characters).\n"
+msgstr "错误：个人 DO 太长(至多 %d 个字符)。\n"
+
+msgid "Error: The \"<\" character may not be used.\n"
+msgstr "错误：不能使用字符“<”。\n"
+
+msgid "Error: URL too long (limit is %d characters).\n"
+msgstr "错误：URL 太长(至多 %d 个字符)\n"
+
+msgid "Error: invalid characters in preference string.\n"
+msgstr "错误：首选项字符串里有无效字符。\n"
+
+msgid "Error: invalid formatted fingerprint.\n"
+msgstr "错误：指纹格式无效。\n"
+
+msgid "Error: invalid length of preference string.\n"
+msgstr "错误：首选项字符串长度无效。\n"
+
+msgid "Error: invalid response.\n"
+msgstr "错误：无效的响应。\n"
+
+msgid "Expired signature from \"%s\""
+msgstr "过期的签名，来自于“%s”"
+
+msgid "Features: "
+msgstr "特点： "
+
+msgid "Go ahead and type your message ...\n"
+msgstr "请开始键入您的报文……\n"
+
+msgid "Good signature from \"%s\""
+msgstr "完好的签名，来自于“%s”"
+
+msgid "Hash: "
+msgstr "散列： "
+
+msgid "Hint: Select the user IDs to sign\n"
+msgstr "提示：选择要添加签名的用户标识\n"
+
+msgid ""
+"How carefully have you verified the key you are about to sign actually belongs\n"
+"to the person named above?  If you don't know what to answer, enter \"0\".\n"
+msgstr ""
+"您是否谨慎地检查过，确认正要签名的密钥的确属于以上它所声称的所有者呢？\n"
+"如果您不知道这个问题的答案，请输入“0”。\n"
+
+msgid ""
+"How much do you trust that this key actually belongs to the named user?\n"
+msgstr "您是否相信这把密钥属于它所声称的持有者？\n"
+
+msgid "I have checked this key casually.\n"
+msgstr "我随意检查过这把密钥。\n"
+
+msgid "I have checked this key very carefully.\n"
+msgstr "我非常小心地检查过这把密钥。\n"
+
+msgid "I have not checked this key at all.\n"
+msgstr "我根本没有检查过这把密钥。\n"
+
+msgid "I'll change it later"
+msgstr "我将在以后修改"
+
+msgid "IDEA cipher unavailable, optimistically attempting to use %s instead\n"
+msgstr "IDEA 算法不可用，试以 %s 代替\n"
+
+msgid "Invalid character in comment\n"
+msgstr "注释含有无效的字符\n"
+
+msgid "Invalid character in name\n"
+msgstr "姓名含有无效的字符\n"
+
+msgid "Invalid characters in PIN"
+msgstr "PIN 里的无效字符"
+
+msgid "Invalid command  (try \"help\")\n"
+msgstr "无效的指令(尝试“help”)\n"
+
+msgid "Invalid key %s made valid by --allow-non-selfsigned-uid\n"
+msgstr "--allow-non-selfsigned-uid 使无效密钥 %s 生效\n"
+
+msgid "Invalid selection.\n"
+msgstr "无效的选择。\n"
+
+msgid "Is this correct? (y/N) "
+msgstr "以上正确吗？(y/n) "
+
+msgid "Is this okay? (y/N) "
+msgstr "这样可以吗？ (y/N) "
+
+msgid "Is this photo correct (y/N/q)? "
+msgstr "这张照片正确吗？(y/N/q) "
+
+msgid ""
+"It is NOT certain that the key belongs to the person named\n"
+"in the user ID.  If you *really* know what you are doing,\n"
+"you may answer the next question with yes.\n"
+msgstr ""
+"这把密钥并不一定属于用户标识声称的那个人。如果您真的知道自\n"
+"己在做什么，您可以在下一个问题回答 yes。\n"
+
+msgid "Key %s is already revoked.\n"
+msgstr "密钥 %s 已被吊销。\n"
+
+msgid "Key available at: "
+msgstr "可用的密钥在： "
+
+msgid "Key does not expire at all\n"
+msgstr "密钥永远不会过期\n"
+
+msgid "Key expires at %s\n"
+msgstr "密钥于 %s 过期\n"
+
+msgid "Key generation canceled.\n"
+msgstr "密钥生成已取消。\n"
+
+msgid "Key generation failed: %s\n"
+msgstr "生成密钥失败：%s\n"
+
+msgid "Key has been compromised"
+msgstr "密钥已泄漏"
+
+msgid "Key has only stub or on-card key items - no passphrase to change.\n"
+msgstr "只有占位密钥，或者密钥存储在卡上——没有密码可以更改。\n"
+
+msgid "Key is no longer used"
+msgstr "密钥不再使用"
+
+msgid "Key is revoked."
+msgstr "密钥已被吊销。"
+
+msgid "Key is superseded"
+msgstr "密钥被替换"
+
+msgid "Key is valid for? (0) "
+msgstr "密钥的有效期限是？(0) "
+
+msgid "Key not changed so no update needed.\n"
+msgstr "密钥没有变动所以不需要更新。\n"
+
+msgid "Keyring"
+msgstr "钥匙环"
+
+msgid "Keyserver no-modify"
+msgstr "公钥服务器不可变造"
+
+msgid "Language preferences: "
+msgstr "首选语言： "
+
+msgid "Login data (account name): "
+msgstr "登录数据(帐号名)： "
+
+msgid "Make off-card backup of encryption key? (Y/n) "
+msgstr "是否为加密密钥创建卡外的备份？(Y/n) "
+
+msgid "Name may not start with a digit\n"
+msgstr "姓名不可以用数字开头\n"
+
+msgid "Name must be at least 5 characters long\n"
+msgstr "姓名至少要有五个字符长\n"
+
+msgid "Need the secret key to do this.\n"
+msgstr "要有私钥才能这么做。\n"
+
+msgid "NnCcEeOoQq"
+msgstr "NnCcEeOoQq"
+
+msgid "No"
+msgstr "不"
+
+msgid "No argument allowed"
+msgstr "不需要参数"
+
+msgid "No help available"
+msgstr "没有可用的帮助"
+
+msgid "No reason specified"
+msgstr "未指定原因"
+
+msgid "No subkey with index %d\n"
+msgstr "没有索引为 %d 的子钥\n"
+
+msgid "No such user ID.\n"
+msgstr "没有这个用户标识。\n"
+
+msgid "No trust value assigned to:\n"
+msgstr "下列项目没有指定信任度：\n"
+
+msgid "No user ID with hash %s\n"
+msgstr "没有散列值为 %s 的用户标识\n"
+
+msgid "No user ID with index %d\n"
+msgstr "没有索引为 %d 的用户标识\n"
+
+msgid "Not a valid email address\n"
+msgstr "电子邮件地址无效\n"
+
+msgid "Notations: "
+msgstr "注记： "
+
+msgid ""
+"Note that this key cannot be used for encryption.  You may want to use\n"
+"the command \"--edit-key\" to generate a subkey for this purpose.\n"
+msgstr ""
+"请注意这把密钥还不能用来加密，您必须先用“--edit-key”指令\n"
+"生成用于加密的子钥。\n"
+
+msgid "Note: This key has been disabled.\n"
+msgstr "注意：这把密钥已经被禁用了。\n"
+
+msgid "Note: This key has expired!\n"
+msgstr "注意：这把密钥已经过期了！\n"
+
+msgid "Nothing deleted.\n"
+msgstr "没有东西被删除。\n"
+
+msgid "Nothing to sign with key %s\n"
+msgstr "没有东西可以让密钥 %s 签名\n"
+
+msgid "OpenPGP card no. %s detected\n"
+msgstr "检测到 OpenPGP 卡号 %s\n"
+
+msgid "OpenPGP card not available: %s\n"
+msgstr "OpenPGP 卡不可用：%s\n"
+
+msgid "Options controlling the configuration"
+msgstr "用于控制配置的选项"
+
+msgid "Options controlling the diagnostic output"
+msgstr "用于控制诊断信息输出的选项"
+
+msgid "Options controlling the security"
+msgstr "用于控制安全的选项"
+
+msgid "Options useful for debugging"
+msgstr "用于调试的选项"
+
+msgid "Overwrite? (y/N) "
+msgstr "是否覆盖？(y/N) "
+
+msgid "Owner trust may not be set while using a user provided trust database\n"
+msgstr "使用用户提供的信任度数据库时信任度可能并未被设定\n"
+
+msgid "PIN callback returned error: %s\n"
+msgstr "PIN 回调返回错误：%s\n"
+
+msgid "PIN for CHV%d is too short; minimum length is %d\n"
+msgstr "CHV%d 的 PIN 太短；最小长度为 %d\n"
+
+msgid "PIN not correctly repeated; try again"
+msgstr "PIN 再次输入时与首次输入不符；请再试一次"
+
+msgid "PIN too long"
+msgstr "密码太长"
+
+msgid "PIN too short"
+msgstr "密码过短"
+
+msgid "PUK"
+msgstr "PUK"
+
+msgid "PUK not correctly repeated; try again"
+msgstr "PUK未正确重复；请重试"
+
+msgid "Passphrase too long"
+msgstr "密码太长"
+
+msgid "Passphrase:"
+msgstr "密码"
+
+msgid "Please correct the error first\n"
+msgstr "请先改正错误\n"
+
+msgid ""
+"Please decide how far you trust this user to correctly verify other users' keys\n"
+"(by looking at passports, checking fingerprints from different sources, etc.)\n"
+msgstr ""
+"您是否相信这位用户有能力验证其他用户密钥的有效性(查对身份证、通过不同的渠道检查\n"
+"指纹等)？\n"
+
+msgid "Please don't put the email address into the real name or the comment\n"
+msgstr "请不要把电子邮件地址放进您的真实姓名或注释里\n"
+
+msgid "Please enter a domain to restrict this signature, or enter for none.\n"
+msgstr "请输入这份签名的限制域，如果没有请按回车。\n"
+
+msgid "Please enter name of data file: "
+msgstr "请输入数据文件的名称： "
+
+msgid "Please enter the PIN%s%s%s to unlock the card"
+msgstr "请输入密码 %s%s%s 来解锁"
+
+msgid ""
+"Please enter the depth of this trust signature.\n"
+"A depth greater than 1 allows the key you are signing to make\n"
+"trust signatures on your behalf.\n"
+msgstr ""
+"请输入这份信任签名的深度。\n"
+"深度若大于 1 则您将签名的这把密钥将可以以您的名义做出信任签名。\n"
+
+msgid "Please enter the new passphrase"
+msgstr "请输入新密码"
+
+msgid ""
+"Please enter the passphrase or the PIN\n"
+"needed to complete this operation."
+msgstr ""
+"请输入密码\n"
+"以完成这个操作"
+
+msgid ""
+"Please enter the passphrase to protect the imported object within the GnuPG "
+"system."
+msgstr "请输入口令来保护导入到GnuPG系统里的对象。"
+
+msgid ""
+"Please enter your PIN, so that the secret key can be unlocked for this "
+"session"
+msgstr "请输入您的密码，这样密匙能为此次会话解锁"
+
+msgid ""
+"Please enter your passphrase, so that the secret key can be unlocked for "
+"this session"
+msgstr "请输入您的密码，这样密匙能为此次会话解锁"
+
+msgid "Please insert the card with serial number"
+msgstr "请将带有序列号的卡插入"
+
+msgid ""
+"Please note that the shown key validity is not necessarily correct\n"
+"unless you restart the program.\n"
+msgstr "请注意，在您重启程序之前，显示的密钥有效性未必正确，\n"
+
+msgid "Please re-enter this passphrase"
+msgstr "请再次输入新密码"
+
+msgid "Please remove the current card and insert the one with serial number"
+msgstr "请移除当前的卡片，然后插入带有序列号的卡"
+
+msgid "Please report bugs to <@EMAIL@>.\n"
+msgstr ""
+"请向 <@EMAIL@> 报告程序缺陷。\n"
+"请向 <zuxyhere@eastday.com> 反映简体中文翻译的问题。\n"
+
+msgid "Please select exactly one user ID.\n"
+msgstr "请精确地选择一个用户标识。\n"
+
+msgid "Please select the reason for the revocation:\n"
+msgstr "请选择吊销的原因：\n"
+
+msgid "Please select the type of key to generate:\n"
+msgstr "请选择您要使用的密钥种类：\n"
+
+msgid "Please select what kind of key you want:\n"
+msgstr "请选择您要使用的密钥种类：\n"
+
+msgid "Please select where to store the key:\n"
+msgstr "请选择在哪里存储密钥：\n"
+
+msgid ""
+"Please specify how long the key should be valid.\n"
+"         0 = key does not expire\n"
+"      <n>  = key expires in n days\n"
+"      <n>w = key expires in n weeks\n"
+"      <n>m = key expires in n months\n"
+"      <n>y = key expires in n years\n"
+msgstr ""
+"请设定这把密钥的有效期限。\n"
+"         0 = 密钥永不过期\n"
+"      <n>  = 密钥在 n 天后过期\n"
+"      <n>w = 密钥在 n 周后过期\n"
+"      <n>m = 密钥在 n 月后过期\n"
+"      <n>y = 密钥在 n 年后过期\n"
+
+msgid ""
+"Please specify how long the signature should be valid.\n"
+"         0 = signature does not expire\n"
+"      <n>  = signature expires in n days\n"
+"      <n>w = signature expires in n weeks\n"
+"      <n>m = signature expires in n months\n"
+"      <n>y = signature expires in n years\n"
+msgstr ""
+"请设定这份签名的有效期限。\n"
+"         0 = 签名永不过期\n"
+"      <n>  = 签名在 n 天后过期\n"
+"      <n>w = 签名在 n 周后过期\n"
+"      <n>m = 签名在 n 月后过期\n"
+"      <n>y = 签名在 n 年后过期\n"
+
+msgid "Possible actions for a %s key: "
+msgstr "%s 密钥可能的操作： "
+
+msgid "Preferred keyserver: "
+msgstr "首选公钥服务器： "
+
+msgid "Primary key fingerprint:"
+msgstr "主钥指纹："
+
+msgid "Private DO data: "
+msgstr "个人 DO 数据： "
+
+msgid "Proceed? (y/N) "
+msgstr "继续？(y/N) "
+
+msgid "Pubkey: "
+msgstr "公钥： "
+
+msgid "Public key is disabled.\n"
+msgstr "公钥被禁用。\n"
+
+msgid "Quality:"
+msgstr "品质："
+
+msgid "Quit without saving? (y/N) "
+msgstr "要不保存而离开吗？(y/N) "
+
+msgid "RSA modulus missing or not of size %d bits\n"
+msgstr "RSA 余数缺失或者不是 %d 位长\n"
+
+msgid "RSA prime %s missing or not of size %d bits\n"
+msgstr "RSA 质数 %s 缺失或者不是 %d 位长\n"
+
+msgid "RSA public exponent missing or larger than %d bits\n"
+msgstr "RSA 公钥指数缺失或长于 %d 位\n"
+
+msgid "Real name: "
+msgstr "真实姓名： "
+
+msgid "Really create the revocation certificates? (y/N) "
+msgstr "真的要生成吊销证书吗？(y/N) "
+
+msgid "Really create? (y/N) "
+msgstr "真的要建立吗？(y/N) "
+
+msgid "Really delete this self-signature? (y/N)"
+msgstr "真的要删除这个自身签名吗？(y/N)"
+
+msgid "Really move the primary key? (y/N) "
+msgstr "真的要删除主钥吗？(y/N) "
+
+msgid "Really remove all selected user IDs? (y/N) "
+msgstr "真的要删除所有选定的用户标识吗？(y/N) "
+
+msgid "Really remove this user ID? (y/N) "
+msgstr "真的要删除这个用户标识吗？(y/N) "
+
+msgid "Really revoke all selected user IDs? (y/N) "
+msgstr "真的要吊销所有选定的用户标识吗？(y/N) "
+
+msgid "Really revoke this user ID? (y/N) "
+msgstr "真的要吊销这个用户标识吗？(y/N) "
+
+msgid "Really sign all user IDs? (y/N) "
+msgstr "真的为所有的用户标识签名吗？(y/N) "
+
+msgid "Really sign? (y/N) "
+msgstr "真的要签名吗？(y/N) "
+
+msgid "Really update the preferences for the selected user IDs? (y/N) "
+msgstr "真的要更新所选用户标识的首选项吗？(y/N) "
+
+msgid "Really update the preferences? (y/N) "
+msgstr "真的要更新首选项吗？(y/N) "
+
+msgid "Reason for revocation: %s\n"
+msgstr "吊销原因：%s\n"
+
+msgid "Repeat this PIN"
+msgstr "再次输入此密码"
+
+msgid "Repeat this PUK"
+msgstr "重复此PUK"
+
+msgid "Repeat this Reset Code"
+msgstr "重复此重置码"
+
+msgid "Replace existing key? (y/N) "
+msgstr "替换已有的密钥？(y/N) "
+
+msgid "Replace existing keys? (y/N) "
+msgstr "替换已有的密钥？(y/N) "
+
+msgid "Requested keysize is %u bits\n"
+msgstr "您所要求的密钥尺寸是 %u 位\n"
+
+msgid "Reset Code"
+msgstr "重新设置密码"
+
+msgid "Reset Code not correctly repeated; try again"
+msgstr "重置码未正确重复；请重试"
+
+msgid "Revocation certificate created.\n"
+msgstr "已建立吊销证书。\n"
+
+msgid ""
+"Revocation certificate created.\n"
+"\n"
+"Please move it to a medium which you can hide away; if Mallory gets\n"
+"access to this certificate he can use it to make your key unusable.\n"
+"It is smart to print this certificate and store it away, just in case\n"
+"your media become unreadable.  But have some caution:  The print system of\n"
+"your machine might store the data and make it available to others!\n"
+msgstr ""
+"已建立吊销证书。\n"
+"\n"
+"请把这个文件转移到一个可隐藏起来的介质(如软盘)上；如果坏人能够取得这\n"
+"份证书的话，那么他就能让您的密钥无法继续使用。把这份凭证打印出来再藏\n"
+"到安全的地方也是很好的方法，以免您的保存媒体损毁而无法读取。但是千万\n"
+"小心：您的机器上的打印系统可能会在打印过程中把这些数据临时在某个其他\n"
+"人也能够看得到的地方！\n"
+
+msgid "SETERROR %s (try %d of %d)"
+msgstr "SETERROR %s (try %d of %d)"
+
+msgid "Save changes? (y/N) "
+msgstr "要保存变动吗？(y/N) "
+
+msgid "Secret key is available.\n"
+msgstr "私钥可用。\n"
+
+msgid "Secret parts of primary key are not available.\n"
+msgstr "主钥的私钥部分无法取用。\n"
+
+msgid "Secret parts of primary key are stored on-card.\n"
+msgstr "主钥的私钥部分存储在卡上。\n"
+
+msgid "Set preference list to:\n"
+msgstr "设为首选项列表为：\n"
+
+msgid "Sex ((M)ale, (F)emale or space): "
+msgstr "性别(男性输入 M，女性输入 F，不指定输入空格)： "
+
+msgid "Sign"
+msgstr "签名"
+
+msgid "Sign it? (y/N) "
+msgstr "为其添加签名吗？(y/N) "
+
+msgid "Signature %d"
+msgstr "签名%d"
+
+msgid "Signature does not expire at all\n"
+msgstr "签名永远不会过期\n"
+
+msgid "Signature expired %s\n"
+msgstr "这份签名已于 %s 过期。\n"
+
+msgid "Signature expires %s\n"
+msgstr "这份签名在 %s 过期。\n"
+
+msgid "Signature expires at %s\n"
+msgstr "签名于 %s 过期\n"
+
+msgid "Signature is valid for? (%s) "
+msgstr "签名的有效期限是多久？(%s) "
+
+msgid "Signature made %s\n"
+msgstr "签名建立于 %s\n"
+
+msgid "Signature made %s using %s key ID %s\n"
+msgstr "于 %s 创建的签名，使用 %s，钥匙号 %s\n"
+
+msgid "Signature notation: "
+msgstr "签名注记： "
+
+msgid "Signature policy: "
+msgstr "签名策略： "
+
+msgid "SsEeAaQq"
+msgstr "SsEeAaQq"
+
+msgid "Subkey %s is already revoked.\n"
+msgstr "子钥 %s 已被吊销。\n"
+
+msgid "Take this one anyway"
+msgstr "继续使用"
+
+msgid ""
+"The minimum trust level for this key is: %s\n"
+"\n"
+msgstr ""
+"这把密钥的最小信任等级为：%s\n"
+"\n"
+
+msgid ""
+"The self-signature on \"%s\"\n"
+"is a PGP 2.x-style signature.\n"
+msgstr ""
+"“%s”的自身签名是 PGP 2.x 样\n"
+"式的签名。\n"
+
+msgid "The signature will be marked as non-exportable.\n"
+msgstr "这份签名会被标记成不可导出。\n"
+
+msgid "The signature will be marked as non-revocable.\n"
+msgstr "这份签名会被标记成不可吊销。\n"
+
+msgid "There are no preferences on a PGP 2.x-style user ID.\n"
+msgstr "PGP 2.x 样式的用户标识没有首选项。\n"
+
+msgid "This JPEG is really large (%d bytes) !\n"
+msgstr "这个 JPEG 文件太大了(%d 字节)！\n"
+
+msgid "This command is not allowed while in %s mode.\n"
+msgstr "在 %s 模式中不允许使用这个指令。\n"
+
+msgid "This is a qualified signature\n"
+msgstr "这是一个有效的签名。\n"
+
+msgid "This is a secret key! - really delete? (y/N) "
+msgstr "这是一把私钥！――真的要删除吗？(y/N) "
+
+msgid "This key belongs to us\n"
+msgstr "这把密钥是属于我们的\n"
+
+msgid "This key has been disabled"
+msgstr "这把密钥已经被禁用"
+
+msgid "This key has expired!"
+msgstr "这把密钥已经过期！"
+
+msgid "This key is due to expire on %s.\n"
+msgstr "这把密钥将在 %s 过期。\n"
+
+msgid "This key may be revoked by %s key %s"
+msgstr "这把密钥可被 %s 密钥 %s 吊销"
+
+msgid "This key probably belongs to the named user\n"
+msgstr "这把密钥有可能属于它所声称的持有者\n"
+
+msgid "This signature expired on %s.\n"
+msgstr "这份签名已在 %s 过期。\n"
+
+msgid "This will be a self-signature.\n"
+msgstr "这将是一个自身签名。\n"
+
+msgid "To be revoked by:\n"
+msgstr "将被吊销，吊销者：\n"
+
+msgid "Total number processed: %lu\n"
+msgstr "合计被处理的数量：%lu\n"
+
+msgid "URL to retrieve public key: "
+msgstr "获取公钥的 URL： "
+
+msgid "Uncompressed"
+msgstr "不压缩"
+
+msgid "Unknown operation"
+msgstr "未知的操作"
+
+msgid "Usage: gpg-preset-passphrase [options] KEYGRIP (-h for help)\n"
+msgstr "用法： gpg [选项] [文件] (-h 帮助)\n"
+
+msgid "Usage: gpg-protect-tool [options] (-h for help)\n"
+msgstr "用法： gpg [选项] [文件] (-h 帮助)\n"
+
+msgid "Usage: gpgv [options] [files] (-h for help)"
+msgstr "用法：gpgv [选项] [文件] (用 -h 求助)"
+
+msgid "Usage: kbxutil [options] [files] (-h for help)"
+msgstr "用法：kbxutil [选项] [文件] (用 -h 求助)"
+
+msgid "Use this key anyway? (y/N) "
+msgstr "无论如何还是使用这把密钥吗？(y/N) "
+
+msgid "User ID \"%s\" is expired."
+msgstr "用户标识“%s”已过期。"
+
+msgid "User ID \"%s\" is not self-signed."
+msgstr "警告：用户标识“%s”不含自身签名。"
+
+msgid "User ID \"%s\" is revoked."
+msgstr "用户标识“%s”已被吊销。"
+
+msgid "User ID \"%s\" is signable.  "
+msgstr "可以为用户标识“%s”添加签名。  "
+
+msgid "User ID \"%s\": already clean\n"
+msgstr "用户标识“%s”：无用部分已清除\n"
+
+msgid "User ID is no longer valid"
+msgstr "用户标识不再有效"
+
+msgid "WARNING: \"%s\" is a deprecated command - do not use it\n"
+msgstr "警告：“%s”命令已不建议使用——不要使用它\n"
+
+msgid "WARNING: \"%s\" is a deprecated option\n"
+msgstr "警告：“%s”选项已不建议使用\n"
+
+msgid "WARNING: %s overrides %s\n"
+msgstr "警告：%s 会使得 %s 失效\n"
+
+msgid ""
+"WARNING: This is a PGP 2.x-style key.  Adding a designated revoker may cause\n"
+"         some versions of PGP to reject this key.\n"
+msgstr ""
+"警告：这是一把 PGP2 样式的密钥。\n"
+"      增加指定吊销者可能会导致某些版本的 PGP 无法识别这把密钥。\n"
+
+msgid ""
+"WARNING: This is a PGP2-style key.  Adding a photo ID may cause some versions\n"
+"         of PGP to reject this key.\n"
+msgstr ""
+"警告：这是一把 PGP2 样式的密钥。\n"
+"      增加照片标识可能会导致某些版本的 PGP 不能识别这把密钥。\n"
+
+msgid "WARNING: This key has been revoked by its designated revoker!\n"
+msgstr "警告：这把密钥已经被它的指定吊销者吊销了！\n"
+
+msgid "WARNING: This key has been revoked by its owner!\n"
+msgstr "警告：这把密钥已经被它的持有者吊销了！\n"
+
+msgid "WARNING: This key is not certified with a trusted signature!\n"
+msgstr "警告：这把密钥未经受信任的签名认证！\n"
+
+msgid ""
+"WARNING: This key is not certified with sufficiently trusted signatures!\n"
+msgstr "警告：这把密钥未经有足够信任度的签名所认证。\n"
+
+msgid "WARNING: This subkey has been revoked by its owner!\n"
+msgstr "警告：这把子钥已经被它的持有者吊销了！\n"
+
+msgid "WARNING: Using untrusted key!\n"
+msgstr "警告：正在使用不被信任的密钥！\n"
+
+msgid "WARNING: We do NOT trust this key!\n"
+msgstr "警告：我们不信任这把密钥！\n"
+
+msgid "WARNING: a user ID signature is dated %d seconds in the future\n"
+msgstr "警告：有一份用户标识签名的日期标记为 %d 秒后的未来\n"
+
+msgid "WARNING: appointing a key as a designated revoker cannot be undone!\n"
+msgstr "警告：将某把密钥指派为指定吊销者的操作无法撤销！\n"
+
+msgid "WARNING: cipher algorithm %s not found in recipient preferences\n"
+msgstr "注意：收件人的首选项中找不到加密算法 %s\n"
+
+msgid "WARNING: digest algorithm %s is deprecated\n"
+msgstr "警告：不建议使用散列算法 %s\n"
+
+msgid "WARNING: encrypted message has been manipulated!\n"
+msgstr "警告：加密过的报文已经变造！\n"
+
+msgid ""
+"WARNING: forcing compression algorithm %s (%d) violates recipient "
+"preferences\n"
+msgstr "警告：强行使用的 %s (%d)压缩算法不在收件者的首选项中\n"
+
+msgid ""
+"WARNING: forcing digest algorithm %s (%d) violates recipient preferences\n"
+msgstr "警告：强行使用的 %s (%d)散列算法不在收件者的首选项中\n"
+
+msgid ""
+"WARNING: forcing symmetric cipher %s (%d) violates recipient preferences\n"
+msgstr "警告：强行使用的 %s (%d)对称加密算法不在收件者的首选项中\n"
+
+msgid "WARNING: key %s may be revoked: fetching revocation key %s\n"
+msgstr "警告：密钥 %s 可能已被吊销：正在取回吊销密钥 %s\n"
+
+msgid "WARNING: key %s may be revoked: revocation key %s not present.\n"
+msgstr "警告：密钥 %s 可能已被吊销：吊销密钥 %s 不存在。\n"
+
+msgid ""
+"WARNING: message was encrypted with a weak key in the symmetric cipher.\n"
+msgstr "警告：报文被使用对称加密算法的弱密钥加密。\n"
+
+msgid "WARNING: message was not integrity protected\n"
+msgstr "警告：报文未受到完整的保护\n"
+
+msgid ""
+"WARNING: multiple signatures detected.  Only the first will be checked.\n"
+msgstr "警告：检测到多重签名。只检查第一个签名。\n"
+
+msgid ""
+"WARNING: no user ID has been marked as primary.  This command may\n"
+"              cause a different user ID to become the assumed primary.\n"
+msgstr "警告：没有首选用户标识。此指令可能假定一个不同的用户标识为首选用户标识。\n"
+
+msgid "WARNING: nothing exported\n"
+msgstr "警告：没有导出任何东西\n"
+
+msgid "WARNING: potentially insecure symmetrically encrypted session key\n"
+msgstr "警告：潜在不安全的对称加密会话密钥\n"
+
+msgid "WARNING: program may create a core file!\n"
+msgstr "警告：程序可能会创建核心内存转储！\n"
+
+msgid "WARNING: recipients (-r) given without using public key encryption\n"
+msgstr "警告：给定了收件人(-r)但并未使用公钥加密\n"
+
+msgid "WARNING: signature digest conflict in message\n"
+msgstr "警告：签名散列值与报文不一致\n"
+
+msgid "WARNING: signing subkey %s has an invalid cross-certification\n"
+msgstr "警告：签名的子钥 %s 交叉验证无效\n"
+
+msgid "WARNING: signing subkey %s is not cross-certified\n"
+msgstr "警告：签名的子钥 %s 未经交叉验证\n"
+
+msgid "WARNING: the signature will not be marked as non-exportable.\n"
+msgstr "警告：这份签名不会被标记为不可导出。\n"
+
+msgid "WARNING: the signature will not be marked as non-revocable.\n"
+msgstr "警告：这份签名不会被标记成不可吊销。\n"
+
+msgid "WARNING: this key might be revoked (revocation key not present)\n"
+msgstr "警告：此密钥可能已被吊销(吊销密钥不存在)\n"
+
+msgid "WARNING: unable to %%-expand notation (too large).  Using unexpanded.\n"
+msgstr "警告：注记 %% 无法扩展(太大了)。现在使用未扩展的。\n"
+
+msgid ""
+"WARNING: unable to %%-expand policy URL (too large).  Using unexpanded.\n"
+msgstr "警告：无法 %%-扩展策略 URL (太大了)。现在使用未扩展的。\n"
+
+msgid ""
+"WARNING: unable to %%-expand preferred keyserver URL (too large).  Using "
+"unexpanded.\n"
+msgstr "警告：无法 %%-扩展首选公钥服务器 URL (太大了)。现在使用未扩展的。\n"
+
+msgid "WARNING: unable to fetch URI %s: %s\n"
+msgstr "警告：无法获取 URI %s：%s\n"
+
+msgid "WARNING: unable to refresh key %s via %s: %s\n"
+msgstr "警告：无法更新密钥 %s，通过 %s：%s\n"
+
+msgid "WARNING: using experimental cipher algorithm %s\n"
+msgstr "警告：使用试验性质的对称加密算法 %s\n"
+
+msgid "WARNING: using experimental digest algorithm %s\n"
+msgstr "警告：使用试验性质的散列算法 %s\n"
+
+msgid "WARNING: using experimental public key algorithm %s\n"
+msgstr "警告: 使用试验性质的公钥算法 %s\n"
+
+msgid ""
+"We need to generate a lot of random bytes. It is a good idea to perform\n"
+"some other action (type on the keyboard, move the mouse, utilize the\n"
+"disks) during the prime generation; this gives the random number\n"
+"generator a better chance to gain enough entropy.\n"
+msgstr ""
+"我们需要生成大量的随机字节。这个时候您可以多做些琐事(像是敲打键盘、移动\n"
+"鼠标、读写硬盘之类的)，这会让随机数字发生器有更好的机会获得足够的熵数。\n"
+
+msgid "What keysize do you want? (%u) "
+msgstr "您想要用多大的密钥尺寸？(%u) "
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yes, protection is not needed"
+msgstr "是的，不需要保护"
+
+msgid "You are about to revoke these signatures:\n"
+msgstr "您正在吊销这些签名：\n"
+
+msgid "You can't change the expiration date of a v3 key\n"
+msgstr "您不能变更 v3 密钥的使用期限\n"
+
+msgid "You can't delete the last user ID!\n"
+msgstr "您不能删除最后一个用户标识！\n"
+
+msgid "You did not specify a user ID. (you may use \"-r\")\n"
+msgstr "您没有指定用户标识。(您可以在命令行中用“-r”指定)\n"
+
+msgid ""
+"You have not entered a passphrase - this is in general a bad idea!%0APlease "
+"confirm that you do not want to have any protection on your key."
+msgstr "您未输入密码 - 这基本上是个坏主意！%0A请确认您不需要对您的钥匙做任何保护。"
+
+msgid ""
+"You have not entered a passphrase!%0AAn empty passphrase is not allowed."
+msgstr "您还没有输入口令！%0AAn 不允许空口令。"
+
+msgid "You have signed these user IDs on key %s:\n"
+msgstr "您已经为这些密钥 %s 上的这些用户标识添加签名：\n"
+
+msgid "You may not add a designated revoker to a PGP 2.x-style key.\n"
+msgstr "您不可以为 PGP 2.x 样式的密钥添加指定吊销者。\n"
+
+msgid "You may not add a photo ID to a PGP2-style key.\n"
+msgstr "您不可以把照片标识增加到 PGP2 样式的密钥里。\n"
+
+msgid "You must select at least one key.\n"
+msgstr "您必须选择至少一把密钥。\n"
+
+msgid "You must select at least one user ID.\n"
+msgstr "您至少得选择一个用户标识。\n"
+
+msgid "You must select exactly one key.\n"
+msgstr "您必须指定一把密钥。\n"
+
+msgid ""
+"You need a passphrase to unlock the secret key for\n"
+"user: \"%s\"\n"
+msgstr "您需要输入密码，才能解开这个用户的私钥：“%s”\n"
+
+msgid ""
+"You selected this USER-ID:\n"
+"    \"%s\"\n"
+"\n"
+msgstr ""
+"您选定了这个用户标识：\n"
+"    “%s”\n"
+"\n"
+
+msgid ""
+"Your current signature on \"%s\"\n"
+"has expired.\n"
+msgstr "您目前为“%s”的签名已经过期了。\n"
+
+msgid ""
+"Your current signature on \"%s\"\n"
+"is a local signature.\n"
+msgstr "您目前为“%s”的签名是一份本地签名。\n"
+
+msgid "Your decision? "
+msgstr "您的决定是什么？ "
+
+msgid "Your selection? "
+msgstr "您的选择？ "
+
+msgid ""
+"Your system can't display dates beyond 2038.\n"
+"However, it will be correctly handled up to 2106.\n"
+msgstr ""
+"您的系统无法显示 2038 年以后的日期。\n"
+"不过，它可以正确处理 2106 年之前的年份。\n"
+
+msgid "[  full  ]"
+msgstr "[ 完全 ]"
+
+msgid "[  undef ]"
+msgstr "[未定义]"
+
+msgid "[ expired]"
+msgstr "[已过期]"
+
+msgid "[ revoked]"
+msgstr "[已吊销]"
+
+msgid "[ unknown]"
+msgstr "[ 未知 ]"
+
+msgid "[Error - No name]"
+msgstr "[错误 - 没有名字]"
+
+msgid "[Error - invalid DN]"
+msgstr "[错误 - 无效的DN]"
+
+msgid "[Error - invalid encoding]"
+msgstr "[错误 - 无效的编码]"
+
+msgid "[Error - out of core]"
+msgstr "[错误 - out of core]"
+
+msgid "[User ID not found]"
+msgstr "[找不到用户标识]"
+
+msgid "[filename]"
+msgstr "[文件名]"
+
+msgid "[marginal]"
+msgstr "[ 勉强 ]"
+
+msgid "[not set]"
+msgstr "[未设定]"
+
+msgid "[revocation]"
+msgstr "[吊销]"
+
+msgid "[self-signature]"
+msgstr "[自身签名]"
+
+msgid "[ultimate]"
+msgstr "[ 绝对 ]"
+
+msgid "[uncertain]"
+msgstr "[不确定]"
+
+msgid "a gpg-agent is already running - not starting a new one\n"
+msgstr "已有一个 gpg-agent 在运行——并未启动新的 gpg-agent\n"
+
+msgid "access to admin commands is not configured\n"
+msgstr "尚未配置管理员命令的权限\n"
+
+msgid "add a key to a smartcard"
+msgstr "在智能卡上添加一把密钥"
+
+msgid "add a photo ID"
+msgstr "增加一个照片标识"
+
+msgid "add a revocation key"
+msgstr "增加一把吊销密钥"
+
+msgid "add a subkey"
+msgstr "添加一个子钥"
+
+msgid "add a user ID"
+msgstr "增加一个用户标识"
+
+msgid "allow presetting passphrase"
+msgstr "允许预先设置密码"
+
+msgid "anonymous recipient; trying secret key %s ...\n"
+msgstr "匿名收件者；正在尝试使用私钥 %s ……\n"
+
+msgid "apply global default values"
+msgstr "应用全局缺省值"
+
+msgid "armor header: "
+msgstr "ASCII 封装头： "
+
+msgid "armor: %s\n"
+msgstr "ASCII 封装：%s\n"
+
+msgid "assume input is in PEM format"
+msgstr "假设输入是 PEM 格式"
+
+msgid "assume input is in base-64 format"
+msgstr "假设输入是 base-64 格式"
+
+msgid "assume input is in binary format"
+msgstr "假设输入是二进制格式"
+
+msgid "assume no on most questions"
+msgstr "对所有的问题回答否"
+
+msgid "assume yes on most questions"
+msgstr "对所有的问题回答是"
+
+msgid "assuming %s encrypted data\n"
+msgstr "假定 %s 为加密过的数据\n"
+
+msgid "assuming bad signature from key %s due to an unknown critical bit\n"
+msgstr "假定密钥 %s 的签名由于某个未知的关键位出错而损坏\n"
+
+msgid "automatically retrieve keys when verifying signatures"
+msgstr "验证签名时自动下载密钥"
+
+msgid "batch mode: never ask"
+msgstr "批处理模式：不需要询问"
+
+msgid "be somewhat more quiet"
+msgstr "尽量减少提示信息"
+
+msgid "binary"
+msgstr "二进制"
+
+msgid "build_packet failed: %s\n"
+msgstr "build_packet 失败：%s\n"
+
+msgid "cC"
+msgstr "cC"
+
+msgid "can't access %s - invalid OpenPGP card?\n"
+msgstr "不能存取 %s――无效的 OpenPGP 卡？\n"
+
+msgid "can't create socket: %s\n"
+msgstr "创建 socket 失败：%s\n"
+
+msgid "can't disable core dumps: %s\n"
+msgstr "无法禁用核心内存转储：%s\n"
+
+msgid "can't do this in batch mode\n"
+msgstr "在批处理模式中无法完成此操作\n"
+
+msgid "can't do this in batch mode without \"--yes\"\n"
+msgstr "在批处理模式中，没有“--yes”就无法这么做\n"
+
+msgid "can't handle public key algorithm %d\n"
+msgstr "无法操作公钥算法 %d\n"
+
+msgid "can't handle text lines longer than %d characters\n"
+msgstr "无法处理长于 %d 字符的文本行\n"
+
+msgid "can't handle this ambiguous signature data\n"
+msgstr "无法处理这些有歧义的签名\n"
+
+msgid "can't use a symmetric ESK packet due to the S2K mode\n"
+msgstr "在此 S2K 模式下无法使用对称的 ESK 包\n"
+
+msgid "cancelled\n"
+msgstr "已取消\n"
+
+msgid "cancelled by user\n"
+msgstr "用户取消\n"
+
+msgid "cancel|cancel"
+msgstr "cancel|cancel"
+
+msgid "cannot allocate args vector\n"
+msgstr "不能够分配 args 向量\n"
+
+msgid "cannot allocate infile string: %s\n"
+msgstr "不能够分配infile字符串： %s\n"
+
+msgid "cannot allocate outfile string: %s\n"
+msgstr "不能够分配outfile字符串： %s\n"
+
+msgid "cannot appoint a PGP 2.x style key as a designated revoker\n"
+msgstr "无法将 PGP 2.x 样式的密钥设为指定吊销者\n"
+
+msgid "cannot avoid weak key for symmetric cipher; tried %d times!\n"
+msgstr "对称加密无法避免生成弱密钥；已经尝试 %d 次！\n"
+
+msgid "card does not support digest algorithm %s\n"
+msgstr "卡不支持散列算法 %s\n"
+
+msgid "card is permanently locked!\n"
+msgstr "卡被永久锁定！\n"
+
+msgid "card-no: "
+msgstr "卡号： "
+
+msgid "certificate chain too long\n"
+msgstr "证书链太长\n"
+
+msgid "certificate has been revoked"
+msgstr "证书已被吊销"
+
+msgid "certificate has expired"
+msgstr "证书已经过期！"
+
+msgid "certificate is not usable for encryption\n"
+msgstr "证书不能用于加密\n"
+
+msgid "certificate is not usable for signing\n"
+msgstr "证书不能用于签名\n"
+
+msgid "certificate not yet valid"
+msgstr "证书尚未生效"
+
+msgid "certificate policy not allowed"
+msgstr "证书策略不允许"
+
+msgid "certificate with invalid validity"
+msgstr "证书不在有效期内"
+
+msgid "certificate with invalid validity: %s"
+msgstr "证书不在有效期内：%s"
+
+msgid "chain"
+msgstr "链"
+
+msgid "change URL to retrieve key"
+msgstr "更改获取密钥的 URL"
+
+msgid "change a CA fingerprint"
+msgstr "更改一个 CA 指纹"
+
+msgid "change a card's PIN"
+msgstr "更改卡的 PIN"
+
+msgid "change card holder's name"
+msgstr "更改卡持有人的姓名"
+
+msgid "change card holder's sex"
+msgstr "更改卡持有人的性别"
+
+msgid "change data on a card"
+msgstr "更改卡上的数据"
+
+msgid "change the expiration date for the key or selected subkeys"
+msgstr "变更密钥或所选子钥的使用期限"
+
+msgid "change the language preferences"
+msgstr "更改首选语言首选"
+
+msgid "change the login name"
+msgstr "更改登录名"
+
+msgid "change the ownertrust"
+msgstr "更改信任度"
+
+msgid "change the passphrase"
+msgstr "更改密码"
+
+msgid "check all programs"
+msgstr "检查所有的程序"
+
+msgid "check global configuration file"
+msgstr "检查全局配置文件"
+
+msgid "check signatures"
+msgstr "检查签名"
+
+msgid "check validity using OCSP"
+msgstr "检查OCSP的合法性"
+
+msgid "checking created signature failed: %s\n"
+msgstr "检查已建立的签名时发生错误： %s\n"
+
+msgid "checking the CRL failed: %s"
+msgstr "检查 CRL 失败：%s"
+
+msgid "checking the trustdb\n"
+msgstr "正在检查信任度数据库\n"
+
+msgid "child aborted with status %i\n"
+msgstr "子进程终止，错误码： %i\n"
+
+msgid "cipher algorithm %d%s is unknown or disabled\n"
+msgstr "对称加密算法 %d%s 未知或已停用\n"
+
+msgid "colon missing"
+msgstr "冒号缺失"
+
+msgid "compact unusable user IDs and remove all signatures from key"
+msgstr "压缩不可用的用户标识并删除所有签名"
+
+msgid "compact unusable user IDs and remove unusable signatures from key"
+msgstr "压缩不可用的用户标识并删除不可用的签名"
+
+msgid "completes-needed must be greater than 0\n"
+msgstr "需要的完全可信签名数一定要大于 0\n"
+
+msgid "conflicting commands\n"
+msgstr "冲突的指令\n"
+
+msgid "could not create pipe: %s\n"
+msgstr "创建管道失败：%s\n"
+
+msgid "could not create pty: %s\n"
+msgstr "创建 pty 失败： %s\n"
+
+msgid "could not fork: %s\n"
+msgstr "fork失败： %s\n"
+
+msgid "could not open %s for writing: %s\n"
+msgstr "写文件 %s 失败： %s\n"
+
+msgid "could not parse keyserver URL\n"
+msgstr "无法解析公钥服务器 URL\n"
+
+msgid "create ascii armored output"
+msgstr "输出经 ASCII 封装"
+
+msgid "create base-64 encoded output"
+msgstr "创建一个经过 base-64 编码的输出"
+
+msgid "created: %s"
+msgstr "创建于：%s"
+
+msgid "creation timestamp missing\n"
+msgstr "缺少创建时间戳\n"
+
+msgid "csh-style command output"
+msgstr "csh-方式的命令输出"
+
+msgid "data not saved; use option \"--output\" to save it\n"
+msgstr "数据未被保存；请用“--output”选项来保存它们\n"
+
+msgid "dearmoring failed: %s\n"
+msgstr "解开 ASCII 封装失败：%s\n"
+
+msgid "decrypt data (default)"
+msgstr "解密数据(默认)"
+
+msgid "decryption failed: %s\n"
+msgstr "解密失败：%s\n"
+
+msgid "decryption modus"
+msgstr "解密方式"
+
+msgid "decryption okay\n"
+msgstr "解密成功\n"
+
+msgid "delete selected subkeys"
+msgstr "删除选定的子钥"
+
+msgid "delete selected user IDs"
+msgstr "删除选定的用户标识"
+
+msgid "delete signatures from the selected user IDs"
+msgstr "删除所选用户标识上的签名"
+
+msgid "deleting keyblock failed: %s\n"
+msgstr "删除密钥区块时失败：%s\n"
+
+msgid ""
+"depth: %d  valid: %3d  signed: %3d  trust: %d-, %dq, %dn, %dm, %df, %du\n"
+msgstr "深度：%d 有效性：%3d 已签名：%3d 信任度：%d-，%dq，%dn，%dm，%df，%du\n"
+
+msgid "detected card with S/N: %s\n"
+msgstr "检测到卡的序列号：%s\n"
+
+msgid "disable key"
+msgstr "禁用密钥"
+
+msgid "disabled"
+msgstr "已禁用"
+
+msgid "display photo IDs during key listings"
+msgstr "列出密钥时显示用户标识"
+
+msgid "display photo IDs during signature verification"
+msgstr "验证签名时显示照片标识"
+
+msgid "do not allow the reuse of old passphrases"
+msgstr "不允许使用已经使用过的密码"
+
+msgid "do not detach from the console"
+msgstr "不要从控制台脱挂(detach)。"
+
+msgid "do not grab keyboard and mouse"
+msgstr "不要碰键盘和鼠标"
+
+msgid "do not make any changes"
+msgstr "不做任何改变"
+
+msgid "do not update the trustdb after import"
+msgstr "导入后不更新信任度数据库"
+
+msgid "do not use the PIN cache when signing"
+msgstr "签署时不使用PIN缓存"
+
+msgid "do not use the SCdaemon"
+msgstr "不使用SCdaemon"
+
+msgid "does not match - try again"
+msgstr "不匹配 - 重试"
+
+msgid "elevate the trust of signatures with valid PKA data"
+msgstr "提升带有有效 PKA 数据的签名的信任度"
+
+msgid "enable key"
+msgstr "启用密钥"
+
+msgid "enarmoring failed: %s\n"
+msgstr "进行 ASCII 封装失败：%s\n"
+
+msgid "encrypt data"
+msgstr "加密数据"
+
+msgid "encrypted with %lu passphrases\n"
+msgstr "以 %lu 个密码加密\n"
+
+msgid "encrypted with %s key, ID %s\n"
+msgstr "由 %s 密钥加密、钥匙号为 %s\n"
+
+msgid "encrypted with %u-bit %s key, ID %s, created %s\n"
+msgstr "由 %u 位的 %s 密钥加密，钥匙号为 %s、生成于 %s\n"
+
+msgid "encrypted with 1 passphrase\n"
+msgstr "以 1 个密码加密\n"
+
+msgid "encrypted with unknown algorithm %d\n"
+msgstr "以未知的算法 %d 加密\n"
+
+msgid "encryption modus"
+msgstr "加密方式"
+
+msgid "encryption only with symmetric cipher"
+msgstr "仅使用对称加密"
+
+msgid "error closing %s: %s\n"
+msgstr "关闭 ‘%s’ 时出错：%s\n"
+
+msgid "error creating a pipe: %s\n"
+msgstr "创建管道时发生错误：%s\n"
+
+msgid "error creating passphrase: %s\n"
+msgstr "生成密码的时候发生错误：%s\n"
+
+msgid "error creating temporary file: %s\n"
+msgstr "创建临时文件失败：%s\n"
+
+msgid "error forking process: %s\n"
+msgstr "创建进程失败：%s\n"
+
+msgid "error getting current key info: %s\n"
+msgstr "取得当前密钥信息时出错：%s\n"
+
+msgid "error getting exit code of process %d: %s\n"
+msgstr "获取进程 %d 的退出状态失败：%s\n"
+
+msgid "error getting new PIN: %s\n"
+msgstr "获取新 PIN 时出错：%s\n"
+
+msgid "error getting nonce for the socket\n"
+msgstr "为插口选择随机数字出错\n"
+
+msgid "error getting serial number of card: %s\n"
+msgstr "获取卡 %s 的序列号时出错\n"
+
+msgid "error in trailer line\n"
+msgstr "结尾行有问题\n"
+
+msgid "error reading application data\n"
+msgstr "读取应用程序数据时出错\n"
+
+msgid "error reading fingerprint DO\n"
+msgstr "读取指纹 D0 出错\n"
+
+msgid "error reading keyblock: %s\n"
+msgstr "读取密钥区块时发生错误：%s\n"
+
+msgid "error retrieving CHV status from card\n"
+msgstr "从卡中获取 CHV 状态时出错\n"
+
+msgid "error while asking for the passphrase: %s\n"
+msgstr "口令错误： %s\n"
+
+msgid "error writing key: %s\n"
+msgstr "保存密钥出错： %s\n"
+
+msgid "error writing to %s: %s\n"
+msgstr "写入‘%s’时出错： %s\n"
+
+msgid "error writing to temporary file: %s\n"
+msgstr "写入临时文件时失败：%s\n"
+
+msgid "execv failed: %s\n"
+msgstr "execv 失败：%s\n"
+
+msgid "existing key will be replaced\n"
+msgstr "现有的密钥将被替换\n"
+
+msgid "expired"
+msgstr "已过期"
+
+msgid "expired: %s"
+msgstr "已过期：%s"
+
+msgid "expires: %s"
+msgstr "有效至：%s"
+
+msgid "export attribute user IDs (generally photo IDs)"
+msgstr "导出属性用户标识(一般为照片标识)"
+
+msgid "export certificates"
+msgstr "导出证书"
+
+msgid "export keys"
+msgstr "导出密钥"
+
+msgid "export keys to a key server"
+msgstr "把密钥导出到某个公钥服务器上"
+
+msgid "export revocation keys marked as \"sensitive\""
+msgstr "导出被标记为“敏感”的吊销密钥"
+
+msgid "export signatures that are marked as local-only"
+msgstr "导出被标记为局部的密名"
+
+msgid "exporting secret keys not allowed\n"
+msgstr "不允许导出私钥\n"
+
+msgid ""
+"external program calls are disabled due to unsafe options file permissions\n"
+msgstr "由于配置文件权限不安全，外部程序调用被禁用\n"
+
+msgid "failed to acquire the pinentry lock: %s\n"
+msgstr "无法获得指纹：%s\n"
+
+msgid "failed to create stream from socket: %s\n"
+msgstr "在 socket 上创建流失败：%s\n"
+
+msgid "failed to initialize the TrustDB: %s\n"
+msgstr "初始化信任度数据库失败：%s\n"
+
+msgid "failed to rebuild keyring cache: %s\n"
+msgstr "重新建立钥匙环缓存失败： %s\n"
+
+msgid "failed to store the creation date: %s\n"
+msgstr "无法存储创建日期：%s\n"
+
+msgid "failed to store the fingerprint: %s\n"
+msgstr "无法存储指纹：%s\n"
+
+msgid "failed to store the key: %s\n"
+msgstr "无法存储密钥：%s\n"
+
+msgid "female"
+msgstr "女性"
+
+msgid "fetch the key specified in the card URL"
+msgstr "根据卡中指定的 URL 获取密钥"
+
+msgid "fingerprint=%s\n"
+msgstr "指纹=%s\n"
+
+msgid "flag the selected user ID as primary"
+msgstr "将所选的用户标识设为首选用户标识"
+
+msgid "forced"
+msgstr "必须"
+
+msgid "forcing symmetric cipher %s (%d) violates recipient preferences\n"
+msgstr "强行使用的 %s (%d)对称加密算法不在收件者的首选项中\n"
+
+msgid "fstat(%d) failed in %s: %s\n"
+msgstr "fstat(%d) 在 %s 中出错：%s\n"
+
+msgid "full"
+msgstr "完全"
+
+msgid "generate a new key pair"
+msgstr "生成一副新的密钥对"
+
+msgid "generate a revocation certificate"
+msgstr "生成一份吊销证书"
+
+msgid "generate new keys"
+msgstr "生成新的密钥"
+
+msgid "generating key failed\n"
+msgstr "生成密钥失败\n"
+
+msgid "generating new key\n"
+msgstr "生成新密钥\n"
+
+msgid "honor the PKA record set on a key when retrieving keys"
+msgstr "获取密钥时使用密钥上的 PKA 记录"
+
+msgid "honor the preferred keyserver URL set on the key"
+msgstr "使用密钥中指定的首选公钥服务器 URL"
+
+msgid "iImMqQsS"
+msgstr "iImMqQsS"
+
+msgid "iconv_open failed: %s\n"
+msgstr "调用 iconv_open 失败：%s\n"
+
+msgid "ignore requests to change the TTY"
+msgstr "忽略改变TTY的请求"
+
+msgid "ignore requests to change the X display"
+msgstr "忽略改变 X display 的请求"
+
+msgid "import certificates"
+msgstr "倒入证书"
+
+msgid "import keys from a key server"
+msgstr "从公钥服务器上导入密钥"
+
+msgid "import signatures that are marked as local-only"
+msgstr "导入被标记为局部的签名"
+
+msgid "import/merge keys"
+msgstr "导入/合并密钥"
+
+msgid "importing secret keys not allowed\n"
+msgstr "不允许导入私钥\n"
+
+msgid "include revoked keys in search results"
+msgstr "在搜索结果中包含已吊销的密钥"
+
+msgid "include subkeys when searching by key ID"
+msgstr "按钥匙号搜索时包含子钥"
+
+msgid "input file name (default stdin)"
+msgstr "i输入文件名 (缺省为 stdin)"
+
+msgid "input line %u too long or missing LF\n"
+msgstr "输入行 %u 太长或者行末的换行符 LF 遗失\n"
+
+msgid "input line longer than %d characters\n"
+msgstr "输入行长度超过 %d 字符\n"
+
+msgid "intermediate certificate has expired"
+msgstr "中级证书已经过期！"
+
+msgid "intermediate certificate not yet valid"
+msgstr "中级证书尚未生效"
+
+msgid "invalid"
+msgstr "无效"
+
+msgid "invalid S2K mode; must be 0, 1 or 3\n"
+msgstr "无效的 S2K 模式；必须是 0，1 或 3\n"
+
+msgid "invalid alias definition"
+msgstr "无效的别名定义"
+
+msgid "invalid armor header: "
+msgstr "无效的 ASCII 封装头： "
+
+msgid "invalid armor: line longer than %d characters\n"
+msgstr "无效的 ASCII 封装：一行超过 %d 字符\n"
+
+msgid "invalid auto-key-locate list\n"
+msgstr "无效的 auto-key-locate 清单\n"
+
+msgid "invalid clearsig header\n"
+msgstr "无效的明文签名头\n"
+
+msgid "invalid command"
+msgstr "无效的命令"
+
+msgid "invalid command \"%.50s\"\n"
+msgstr "无效的命令“%.50s”\n"
+
+msgid "invalid dash escaped line: "
+msgstr "以连字符开头的行格式错误： "
+
+msgid "invalid default preferences\n"
+msgstr "无效的默认首选项\n"
+
+msgid "invalid default-cert-level; must be 0, 1, 2, or 3\n"
+msgstr "无效的默认验证级别；一定要是 0，1，2 或 3\n"
+
+msgid "invalid export options\n"
+msgstr "无效的导出选项\n"
+
+msgid "invalid fingerprint"
+msgstr "指纹无效"
+
+msgid "invalid import options\n"
+msgstr "无效的导入选项\n"
+
+msgid "invalid keyserver options\n"
+msgstr "无效的公钥服务器选项\n"
+
+msgid "invalid keyserver protocol (us %d!=handler %d)\n"
+msgstr "无效的公钥服务器协议(us %d!=handler %d)\n"
+
+msgid "invalid list options\n"
+msgstr "无效的列表选项\n"
+
+msgid "invalid min-cert-level; must be 1, 2, or 3\n"
+msgstr "无效的最小验证级别；一定要是 1，2 或 3\n"
+
+msgid "invalid option"
+msgstr "无效的选项"
+
+msgid "invalid option \"%.50s\"\n"
+msgstr "无效的选项“%.50s”\n"
+
+msgid "invalid personal cipher preferences\n"
+msgstr "无效的个人对称加密算法首选项\n"
+
+msgid "invalid personal compress preferences\n"
+msgstr "无效的个人压缩算法首选项\n"
+
+msgid "invalid personal digest preferences\n"
+msgstr "无效的个人散列算法首选项\n"
+
+msgid "invalid radix64 character %02X skipped\n"
+msgstr "跳过无效的 64 进制字符 %02x\n"
+
+msgid "invalid structure of OpenPGP card (DO 0x93)\n"
+msgstr "无效的 OpenPGP 卡结构(D0 0x93)\n"
+
+msgid "invalid value\n"
+msgstr "无效的数值\n"
+
+msgid "invalid verify options\n"
+msgstr "无效的校验选项\n"
+
+msgid "invoke gpg-protect-tool"
+msgstr "调用 gpg-protect-tool"
+
+msgid "it is strongly suggested that you update your preferences and\n"
+msgstr "强烈建议您更新您的首选项并重新分发这把密钥，\n"
+
+msgid "key \"%s\" not found on keyserver\n"
+msgstr "在公钥服务器上找不到密钥“%s”\n"
+
+msgid "key \"%s\" not found: %s\n"
+msgstr "密钥‘%s’找不到：%s\n"
+
+msgid "key %s has no user IDs\n"
+msgstr "密钥 %s：没有有效的用户标识\n"
+
+msgid "key %s marked as ultimately trusted\n"
+msgstr "密钥 %s 被标记为绝对信任\n"
+
+msgid "key %s occurs more than once in the trustdb\n"
+msgstr "密钥 %s 在信任度数据库中重复出现\n"
+
+msgid "key %s: \"%s\" %d new signatures\n"
+msgstr "密钥 %s：“%s”%d 个新的签名\n"
+
+msgid "key %s: \"%s\" %d new subkeys\n"
+msgstr "密钥 %s：“%s”%d 个新的子钥\n"
+
+msgid "key %s: \"%s\" %d new user IDs\n"
+msgstr "密钥 %s：“%s”%d 个新的用户标识\n"
+
+msgid "key %s: \"%s\" %d signature cleaned\n"
+msgstr "密钥 %s：“%s”%d 个签名被清除\n"
+
+msgid "key %s: \"%s\" %d signatures cleaned\n"
+msgstr "密钥 %s：“%s”%d 个签名被清除\n"
+
+msgid "key %s: \"%s\" %d user ID cleaned\n"
+msgstr "密钥 %s：“%s”%d 个用户标识被清除\n"
+
+msgid "key %s: \"%s\" %d user IDs cleaned\n"
+msgstr "密钥 %s：“%s”%d 个用户标识被清除\n"
+
+msgid "key %s: \"%s\" 1 new signature\n"
+msgstr "密钥 %s：“%s”1 个新的签名\n"
+
+msgid "key %s: \"%s\" 1 new subkey\n"
+msgstr "密钥 %s：“%s”1 个新的子钥\n"
+
+msgid "key %s: \"%s\" 1 new user ID\n"
+msgstr "密钥 %s：“%s”一个新的用户标识\n"
+
+msgid "key %s: \"%s\" not changed\n"
+msgstr "密钥 %s：“%s”未改变\n"
+
+msgid "key %s: \"%s\" revocation certificate added\n"
+msgstr "密钥 %s：已新增吊销证书“%s”\n"
+
+msgid "key %s: \"%s\" revocation certificate imported\n"
+msgstr "密钥 %s：“%s”吊销证书已被导入\n"
+
+msgid "key %s: PGP 2.x style key - skipped\n"
+msgstr "密钥 %s：PGP 2.x 样式的密钥――已跳过\n"
+
+msgid "key %s: PKS subkey corruption repaired\n"
+msgstr "密钥 %s：PKS 子钥破损已修复\n"
+
+msgid "key %s: accepted as trusted key\n"
+msgstr "密钥 %s：受信任，已接受\n"
+
+msgid "key %s: accepted non self-signed user ID \"%s\"\n"
+msgstr "密钥 %s：已接受不含自身签名的用户标识“%s”\n"
+
+msgid "key %s: can't locate original keyblock: %s\n"
+msgstr "密钥 %s：无法定位原始的密钥区块：%s\n"
+
+msgid "key %s: can't read original keyblock: %s\n"
+msgstr "密钥 %s：无法读取原始的密钥区块： %s\n"
+
+msgid "key %s: direct key signature added\n"
+msgstr "密钥 %s：已新增直接密钥签名\n"
+
+msgid "key %s: doesn't match our copy\n"
+msgstr "密钥 %s：与我们的副本不吻合\n"
+
+msgid "key %s: duplicated user ID detected - merged\n"
+msgstr "密钥 %s：检测到重复的用户标识――已合并\n"
+
+msgid "key %s: invalid revocation certificate: %s - rejected\n"
+msgstr "密钥 %s：无效的吊销证书：%s――已拒绝\n"
+
+msgid "key %s: invalid revocation certificate: %s - skipped\n"
+msgstr "密钥 %s：无效的吊销证书：%s――已跳过\n"
+
+msgid "key %s: invalid self-signature on user ID \"%s\"\n"
+msgstr "密钥 %s：用户标识“%s”自身签名无效\n"
+
+msgid "key %s: invalid subkey binding\n"
+msgstr "密钥 %s：无效的子钥绑定\n"
+
+msgid "key %s: invalid subkey revocation\n"
+msgstr "密钥 %s：无效的子钥吊销\n"
+
+msgid "key %s: key material on-card - skipped\n"
+msgstr "密钥 %s：密钥在卡上——已跳过\n"
+
+msgid "key %s: new key - skipped\n"
+msgstr "密钥 %s：新密钥――已跳过\n"
+
+msgid "key %s: no public key - can't apply revocation certificate\n"
+msgstr "密钥 %s：没有公钥――无法应用吊销证书\n"
+
+msgid "key %s: no public key for trusted key - skipped\n"
+msgstr "密钥 %s：受信任的密钥没有公钥――已跳过\n"
+
+msgid "key %s: no subkey for key binding\n"
+msgstr "密钥 %s：没有可供绑定的子钥\n"
+
+msgid "key %s: no subkey for key revocation\n"
+msgstr "密钥 %s：没有用于密钥吊销的子钥\n"
+
+msgid "key %s: no subkey for subkey binding signature\n"
+msgstr "密钥 %s：没有子钥绑定签名所需的子钥\n"
+
+msgid "key %s: no subkey for subkey revocation signature\n"
+msgstr "密钥 %s：没有子钥吊销签名所需的子钥\n"
+
+msgid "key %s: no user ID\n"
+msgstr "密钥 %s：没有用户标识\n"
+
+msgid "key %s: no user ID for signature\n"
+msgstr "密钥 %s：签名没有用户标识\n"
+
+msgid "key %s: no valid user IDs\n"
+msgstr "密钥 %s：没有有效的用户标识\n"
+
+msgid "key %s: non exportable signature (class 0x%02X) - skipped\n"
+msgstr "密钥 %s：不可导出的签名(验证级别 0x%02X)――已跳过\n"
+
+msgid "key %s: public key \"%s\" imported\n"
+msgstr "密钥 %s：公钥“%s”已导入\n"
+
+msgid "key %s: public key not found: %s\n"
+msgstr "密钥 %s：找不到公钥：%s\n"
+
+msgid "key %s: removed multiple subkey binding\n"
+msgstr "密钥 %s：已删除多重子钥绑定\n"
+
+msgid "key %s: removed multiple subkey revocation\n"
+msgstr "密钥 %s：已删除多重子钥吊销\n"
+
+msgid "key %s: revocation certificate at wrong place - skipped\n"
+msgstr "密钥 %s：吊销证书位置错误――已跳过\n"
+
+msgid "key %s: secret key imported\n"
+msgstr "密钥 %s：私钥已导入\n"
+
+msgid "key %s: secret key with invalid cipher %d - skipped\n"
+msgstr "密钥 %s：私钥使用了无效的加密算法 %d――已跳过\n"
+
+msgid "key %s: skipped subkey\n"
+msgstr "密钥 %s：已跳过子钥\n"
+
+msgid "key %s: skipped user ID \"%s\"\n"
+msgstr "密钥 %s：已跳过用户标识“%s”\n"
+
+msgid "key %s: subkey signature in wrong place - skipped\n"
+msgstr "密钥 %s：子钥签名位置错误――已跳过\n"
+
+msgid "key %s: unexpected signature class (0x%02X) - skipped\n"
+msgstr "密钥 %s：与预期不符的签名验证级别(0x%02X)――已跳过\n"
+
+msgid "key %s: unsupported public key algorithm\n"
+msgstr "密钥 %s：不支持的公钥算法\n"
+
+msgid "key %s: unsupported public key algorithm on user ID \"%s\"\n"
+msgstr "密钥 %s：用户标识“%s”使用了不支持的公钥算法\n"
+
+msgid "key already exists\n"
+msgstr "密钥已存在\n"
+
+msgid "key export failed: %s\n"
+msgstr "导出密钥失败：%s\n"
+
+msgid "key has been created %lu second in future (time warp or clock problem)\n"
+msgstr "密钥是在 %lu 秒后的未来生成的(可能是因为时空扭曲或时钟的问题)\n"
+
+msgid ""
+"key has been created %lu seconds in future (time warp or clock problem)\n"
+msgstr "密钥是在 %lu 秒后的未来生成的(可能是因为时空扭曲或时钟的问题)\n"
+
+msgid "key is not flagged as insecure - can't use it with the faked RNG!\n"
+msgstr "密钥未被标示为不安全――不能与假的随机数发生器共同使用！\n"
+
+msgid "key not found on keyserver\n"
+msgstr "在公钥服务器上找不到密钥\n"
+
+msgid "key operation not possible: %s\n"
+msgstr "针对密钥的操作无法实现：%s\n"
+
+msgid "keyserver receive failed: %s\n"
+msgstr "从公钥服务器接收失败：%s\n"
+
+msgid "keyserver refresh failed: %s\n"
+msgstr "从公钥服务器更新失败：%s\n"
+
+msgid "keyserver search failed: %s\n"
+msgstr "搜寻公钥服务器失败：%s\n"
+
+msgid "keyserver send failed: %s\n"
+msgstr "上传至公钥服务器失败：%s\n"
+
+msgid "keysize invalid; using %u bits\n"
+msgstr "密钥尺寸无效：改用 %u 位\n"
+
+msgid "keysize rounded up to %u bits\n"
+msgstr "密钥尺寸舍入到 %u 位\n"
+
+msgid "keyword too long"
+msgstr "关键字太长"
+
+msgid "line %d: invalid algorithm\n"
+msgstr "行 %d：非法的算法\n"
+
+msgid "line %d: invalid key length %u (valid are %d to %d)\n"
+msgstr "行 %d：非法的密码长度 %u （合法的长度为 %d 到 %d）\n"
+
+msgid "line %d: no subject name given\n"
+msgstr "行 %d：没有主题名\n"
+
+msgid "line too long"
+msgstr "列太长"
+
+msgid "line too long - skipped\n"
+msgstr "行太长 - 跳过\n"
+
+msgid "list all available data"
+msgstr "列出所有可用数据"
+
+msgid "list all components"
+msgstr "列出所有的组件"
+
+msgid "list and check key signatures"
+msgstr "列出并检查密钥签名"
+
+msgid "list certificate chain"
+msgstr "列出证书链"
+
+msgid "list key and user IDs"
+msgstr "列出密钥和用户标识"
+
+msgid "list keys"
+msgstr "列出密钥"
+
+msgid "list keys and fingerprints"
+msgstr "列出密钥和指纹"
+
+msgid "list keys and signatures"
+msgstr "列出密钥和签名"
+
+msgid "list preferences (expert)"
+msgstr "列出首选项(专家模式)"
+
+msgid "list preferences (verbose)"
+msgstr "列出首选项(详细模式)"
+
+msgid "list secret keys"
+msgstr "列出私钥"
+
+msgid "listen() failed: %s\n"
+msgstr "listen() 失败：%s\n"
+
+msgid "make a detached signature"
+msgstr "生成一份分离的签名"
+
+msgid "make timestamp conflicts only a warning"
+msgstr "把时间戳矛盾仅视为警告"
+
+msgid "make_keysig_packet failed: %s\n"
+msgstr "make_keysig_packet 失败： %s\n"
+
+msgid "male"
+msgstr "男性"
+
+msgid "malformed CRC\n"
+msgstr "异常的 CRC\n"
+
+msgid "marginal"
+msgstr "勉强"
+
+msgid "marginals-needed must be greater than 1\n"
+msgstr "需要的勉强可信签名数一定要大于 1\n"
+
+msgid "max-cert-depth must be in the range from 1 to 255\n"
+msgstr "最大验证深度一定要介于 1 和 255 之间\n"
+
+msgid "menu to change or unblock the PIN"
+msgstr "更改或解锁 PIN 的菜单"
+
+msgid "missing argument"
+msgstr "缺少参数"
+
+msgid "move a backup key to a smartcard"
+msgstr "将备份密钥转移到卡上"
+
+msgid "move a key to a smartcard"
+msgstr "将一把密钥移动到智能卡上"
+
+msgid "moving a key signature to the correct place\n"
+msgstr "正在把密钥的签名移动到正确的位置去\n"
+
+msgid "nN"
+msgstr "nN"
+
+msgid "nested clear text signatures\n"
+msgstr "多层明文签名\n"
+
+msgid "never"
+msgstr "从不"
+
+msgid "never     "
+msgstr "永不过期     "
+
+msgid "next trustdb check due at %s\n"
+msgstr "下次信任度数据库检查将于 %s 进行\n"
+
+msgid "no"
+msgstr "no"
+
+msgid "no --keyfile option provided\n"
+msgstr "缺少 --keyfile 选项\n"
+
+msgid "no gpg-agent running in this session\n"
+msgstr "gpg-agent 在此次会话中无法使用\n"
+
+msgid "no issuer found in certificate"
+msgstr "没有发现证书的颁发者"
+
+msgid "no keyserver known (use option --keyserver)\n"
+msgstr "未给出公钥服务器(使用 --keyserver 选项)\n"
+
+msgid "no need for a trustdb check\n"
+msgstr "不需要检查信任度数据库\n"
+
+msgid "no remote program execution supported\n"
+msgstr "不支持远程调用\n"
+
+msgid "no revocation keys found for \"%s\"\n"
+msgstr "没有找到“%s”的吊销密钥\n"
+
+msgid "no secret key\n"
+msgstr "没有私钥\n"
+
+msgid "no signature found\n"
+msgstr "未找到签名\n"
+
+msgid "no signed data\n"
+msgstr "不含签名的数据\n"
+
+msgid "no suitable card key found: %s\n"
+msgstr "卡没有发现可用的密钥：%s\n"
+
+msgid "no ultimately trusted keys found\n"
+msgstr "没有找到任何绝对信任的密钥\n"
+
+msgid "no valid OpenPGP data found.\n"
+msgstr "找不到有效的 OpenPGP 数据。\n"
+
+msgid "no valid addressees\n"
+msgstr "没有有效的地址\n"
+
+msgid "no writable keyring found: %s\n"
+msgstr "找不到可写的钥匙环：%s\n"
+
+msgid "no writable public keyring found: %s\n"
+msgstr "找不到可写的公钥钥匙环：%s\n"
+
+msgid "none"
+msgstr "none"
+
+msgid "not a detached signature\n"
+msgstr "不是一份分离的签名\n"
+
+msgid "not an OpenPGP card"
+msgstr "不是一个 OpenPGP 卡"
+
+msgid "not forced"
+msgstr "可选"
+
+msgid "not human readable"
+msgstr "不可读"
+
+msgid "oO"
+msgstr "oO"
+
+msgid "okay, we are the anonymous recipient.\n"
+msgstr "很好，我们就是匿名收件者。\n"
+
+msgid "okay|okay"
+msgstr "okay|ok"
+
+msgid "old encoding of the DEK is not supported\n"
+msgstr "不支持旧式的 DEK 编码\n"
+
+msgid "old style (PGP 2.x) signature\n"
+msgstr "旧式(PGP 2.x)签名\n"
+
+msgid "only --decrypt and --encrypt are supported\n"
+msgstr "只支持 --decrypt 和 --encrypt\n"
+
+msgid "only accept updates to existing keys"
+msgstr "只接受对已有密钥的更新"
+
+msgid "original file name='%.*s'\n"
+msgstr "原始文件名 =‘%.*s’\n"
+
+msgid "ownertrust information cleared\n"
+msgstr "信任度信息已被清除\n"
+
+msgid "ownertrust value missing"
+msgstr "没有信任度"
+
+msgid "passphrase generated with unknown digest algorithm %d\n"
+msgstr "密码由未知的散列算法 %d 生成\n"
+
+msgid "pinentry.qualitybar.tooltip"
+msgstr "pinentry.qualitybar.tooltip"
+
+msgid "please do a --check-trustdb\n"
+msgstr "请执行一次 --check-trustdb\n"
+
+msgid "please see %s for more information\n"
+msgstr "请参见 %s 以得到更多信息。\n"
+
+msgid "please use \"%s%s\" instead\n"
+msgstr "请以“%s%s”代替\n"
+
+msgid "please wait while key is being generated ...\n"
+msgstr "请稍候，正在生成密钥……\n"
+
+msgid "premature eof (in CRC)\n"
+msgstr "文件先于预期结束(CRC 部分未结束)\n"
+
+msgid "premature eof (in trailer)\n"
+msgstr "文件先于预期结束(于结尾处)\n"
+
+msgid "premature eof (no CRC)\n"
+msgstr "文件先于预期结束(没有 CRC 部分)\n"
+
+msgid "print the card status"
+msgstr "打印卡状态"
+
+msgid "problem handling encrypted packet\n"
+msgstr "处理加密包有问题\n"
+
+msgid "program filename"
+msgstr "program filename"
+
+msgid "prompt before overwriting"
+msgstr "覆盖前先询问"
+
+msgid "pty read failed: %s\n"
+msgstr "读 pty 失败：%s\n"
+
+msgid "public and secret key created and signed.\n"
+msgstr "公钥和私钥已经生成并经签名。\n"
+
+msgid "public key %s not found: %s\n"
+msgstr "找不到公钥 %s：%s\n"
+
+msgid "public key decryption failed: %s\n"
+msgstr "公钥解密失败：%s\n"
+
+msgid "public key encrypted data: good DEK\n"
+msgstr "公钥加密过的数据：完好的数据加密密钥\n"
+
+msgid "public key is %s\n"
+msgstr "公钥是 %s\n"
+
+msgid "public key of ultimately trusted key %s not found\n"
+msgstr "绝对信任的密钥 %s 的公钥未被找到\n"
+
+msgid "qQ"
+msgstr "qQ"
+
+msgid "quiet"
+msgstr "安静"
+
+msgid "quit"
+msgstr "quit"
+
+msgid "quit this menu"
+msgstr "离开这个菜单"
+
+msgid ""
+"quoted printable character in armor - probably a buggy MTA has been used\n"
+msgstr "封装里出现括上的可打印字符――可能是有缺陷的信件传输程序造成的\n"
+
+msgid "re-distribute this key to avoid potential algorithm mismatch problems\n"
+msgstr "以避免可能的算法不匹配问题\n"
+
+msgid "read error"
+msgstr "读取错误"
+
+msgid "read failed: %s\n"
+msgstr "读失败：%s\n"
+
+msgid "reading public key failed: %s\n"
+msgstr "无法读出公钥：%s\n"
+
+msgid "reading stdin ...\n"
+msgstr "正在从标准输入读取 ...\n"
+
+msgid "reason for revocation: "
+msgstr "吊销原因： "
+
+msgid "receiving line failed: %s\n"
+msgstr "读取行失败：%s\n"
+
+msgid "register a smartcard"
+msgstr "注册一个智能卡"
+
+msgid "remove as much as possible from key after import"
+msgstr "导入后尽可能清除密钥中的可选部分"
+
+msgid "remove as much as possible from key during export"
+msgstr "导出时尽可能清除密钥中的可选部分"
+
+msgid "remove keys from the public keyring"
+msgstr "从公钥钥匙环里删除密钥"
+
+msgid "remove keys from the secret keyring"
+msgstr "从私钥钥匙环里删除密钥"
+
+msgid "remove unusable parts from key after import"
+msgstr "导入后清除密钥中无用的部分"
+
+msgid "remove unusable parts from key during export"
+msgstr "导出时清除密钥中的不可用部分"
+
+msgid "repair damage from the pks keyserver during import"
+msgstr "导入时修复 PKS 公钥服务器导致的损坏"
+
+msgid "requesting key %s from %s\n"
+msgstr "下载密钥 %s，从 %s\n"
+
+msgid "requesting key %s from %s server %s\n"
+msgstr "下载密钥‘%s’，从 %s 服务器 %s\n"
+
+msgid "response does not contain the RSA modulus\n"
+msgstr "响应未包含 RSA 余数\n"
+
+msgid "response does not contain the RSA public exponent\n"
+msgstr "响应未包含 RSA 公钥指数\n"
+
+msgid "response does not contain the public key data\n"
+msgstr "响应未包含公钥数据\n"
+
+msgid "revocation comment: "
+msgstr "吊销注释： "
+
+msgid "revoke key or selected subkeys"
+msgstr "吊销密钥或选定的子钥"
+
+msgid "revoke selected user IDs"
+msgstr "吊销选定的用户标识"
+
+msgid "revoke signatures on the selected user IDs"
+msgstr "吊销所选用户标识上的签名"
+
+msgid "revoked"
+msgstr "已吊销"
+
+msgid "revoked by your key %s on %s\n"
+msgstr "由您的密钥 %s 于 %s 吊销\n"
+
+msgid "revoked: %s"
+msgstr "已吊销：%s"
+
+msgid "root certificate has expired"
+msgstr "根证书已经过期！"
+
+msgid "root certificate is good\n"
+msgstr "有效的根证书\n"
+
+msgid "root certificate is not marked trusted"
+msgstr "根证书被标识为不可信任"
+
+msgid "root certificate not yet valid"
+msgstr "根证书无效"
+
+msgid "rounded up to %u bits\n"
+msgstr "舍入到 %u 位\n"
+
+msgid "run in daemon mode (background)"
+msgstr "以后台程序模式运行（在后台）"
+
+msgid "run in server mode"
+msgstr "以服务器的方式运行"
+
+msgid "run in server mode (foreground)"
+msgstr "以服务器模式运行（在前台）"
+
+msgid "save and quit"
+msgstr "保存并离开"
+
+msgid "search for keys on a key server"
+msgstr "在公钥服务器上搜寻密钥"
+
+msgid "secret key \"%s\" not found: %s\n"
+msgstr "找不到私钥“%s”：%s\n"
+
+msgid "secret key parts are not available\n"
+msgstr "私钥部分不可用\n"
+
+msgid "select failed: %s\n"
+msgstr "select 失败：%s\n"
+
+msgid "select subkey N"
+msgstr "选择子钥 N"
+
+msgid "select user ID N"
+msgstr "选择用户标识 N"
+
+msgid "selected certification digest algorithm is invalid\n"
+msgstr "所选的证书散列算法无效\n"
+
+msgid "selected cipher algorithm is invalid\n"
+msgstr "所选的对称加密算法无效\n"
+
+msgid "selected compression algorithm is invalid\n"
+msgstr "所选的压缩算法无效\n"
+
+msgid "selected digest algorithm is invalid\n"
+msgstr "所选的散列算法无效\n"
+
+msgid "sending key %s to %s\n"
+msgstr "将密钥‘%s’上传到 %s\n"
+
+msgid "sending line failed: %s\n"
+msgstr "发送行失败： %s\n"
+
+msgid "set a notation for the selected user IDs"
+msgstr "为所选用户标识的设定注记"
+
+msgid "set preference list for the selected user IDs"
+msgstr "设定所选用户标识的首选项"
+
+msgid "set the preferred keyserver URL for the selected user IDs"
+msgstr "设定所选用户标识的首选公钥服务器的 URL"
+
+msgid "sh-style command output"
+msgstr "sh-方式的命令输出"
+
+msgid "shell"
+msgstr "shell"
+
+msgid "show IETF standard notations during signature listings"
+msgstr "列出签名时显示 IETF 标准注记"
+
+msgid "show IETF standard notations during signature verification"
+msgstr "验证签名时显示 IETF 标准注记"
+
+msgid "show admin commands"
+msgstr "显示管理员命令"
+
+msgid "show all notations during signature listings"
+msgstr "列出签名时显示 IETF 标准注记"
+
+msgid "show all notations during signature verification"
+msgstr "验证签名时显示所有注记"
+
+msgid "show expiration dates during signature listings"
+msgstr "列出签名时显示过期日期"
+
+msgid "show key fingerprint"
+msgstr "显示密钥指纹"
+
+msgid "show policy URLs during signature listings"
+msgstr "列出签名时显示策略 URL"
+
+msgid "show policy URLs during signature verification"
+msgstr "验证签名时显示策略 URL"
+
+msgid "show preferred keyserver URLs during signature listings"
+msgstr "列出密钥时显示首选公钥服务器 URL"
+
+msgid "show preferred keyserver URLs during signature verification"
+msgstr "验证签名时显示首选公钥服务器 URL"
+
+msgid "show revoked and expired subkeys in key listings"
+msgstr "列出密钥时显示已吊销或已过期的子钥"
+
+msgid "show revoked and expired user IDs in key listings"
+msgstr "列出密钥时显示已吊销或已过期的用户标识"
+
+msgid "show revoked and expired user IDs in signature verification"
+msgstr "验证密钥时显示已吊销或已过期的子钥"
+
+msgid "show selected photo IDs"
+msgstr "显示选定的照片标识"
+
+msgid "show the keyring name in key listings"
+msgstr "列出密钥时显示钥匙环的名称"
+
+msgid "show this help"
+msgstr "显示这份在线说明"
+
+msgid "show user ID validity during key listings"
+msgstr "列出密钥时显示用户标识的有效性"
+
+msgid "show user ID validity during signature verification"
+msgstr "验证签名时显示用户标识的有效性"
+
+msgid "show user-supplied notations during signature listings"
+msgstr "列出签名时显示用户提供的注记"
+
+msgid "show user-supplied notations during signature verification"
+msgstr "验证签名时显示用户提供的注记"
+
+msgid "sign a key"
+msgstr "为某把密钥添加签名"
+
+msgid "sign a key locally"
+msgstr "为某把密钥添加本地签名"
+
+msgid "sign or edit a key"
+msgstr "编辑某把密钥或为其添加签名"
+
+msgid "sign selected user IDs [* see below for related commands]"
+msgstr "为所选用户标识添加签名[* 参见下面的相关命令]"
+
+msgid "sign selected user IDs locally"
+msgstr "为所选用户标识添加本地签名"
+
+msgid "sign selected user IDs with a non-revocable signature"
+msgstr "为所选用户标识添加不可吊销签名"
+
+msgid "sign selected user IDs with a trust signature"
+msgstr "为所选用户标识添加信任签名"
+
+msgid "signature verification suppressed\n"
+msgstr "签名验证已被抑制\n"
+
+msgid "signatures created so far: %lu\n"
+msgstr "目前已创建的签名：%lu\n"
+
+msgid "signed by your key %s on %s%s%s\n"
+msgstr "由您的密钥 %s 于 %s%s%s 签名\n"
+
+msgid "signing failed: %s\n"
+msgstr "签名时失败： %s\n"
+
+msgid "signing subkey %s is already cross-certified\n"
+msgstr "签名的子钥 %s 已经交叉验证\n"
+
+msgid "signing:"
+msgstr "正在签名："
+
+msgid "skipped \"%s\": %s\n"
+msgstr "“%s”已跳过：%s\n"
+
+msgid "skipped \"%s\": duplicated\n"
+msgstr "“%s”已跳过：重复\n"
+
+msgid "skipped: public key already set\n"
+msgstr "已跳过：公钥已被设定\n"
+
+msgid "skipped: public key already set as default recipient\n"
+msgstr "已跳过：公钥已被设为默认收件者\n"
+
+msgid "skipped: secret key already present\n"
+msgstr "已跳过：私钥已存在\n"
+
+msgid "skipping block of type %d\n"
+msgstr "跳过 %d 样式的区块\n"
+
+msgid "skipping v3 self-signature on user ID \"%s\"\n"
+msgstr "跳过用户标识“%s”的 v3 自身签名\n"
+
+msgid "ssh keys greater than %d bits are not supported\n"
+msgstr "不支持长度超过 %d 的SSH密钥\n"
+
+msgid "standalone revocation - use \"gpg --import\" to apply\n"
+msgstr "独立的吊销证书――请用“gpg --import”来应用\n"
+
+msgid "standalone signature of class 0x%02x\n"
+msgstr "等级 0x%02x 的独立签名\n"
+
+msgid "subkey %s does not sign and so does not need to be cross-certified\n"
+msgstr "子钥 %s 不签名，因此不需要交叉验证\n"
+
+msgid "subpacket of type %d has critical bit set\n"
+msgstr "%d 类别的子包设定了关键位\n"
+
+msgid "system error while calling external program: %s\n"
+msgstr "调用外部程序时发生系统错误：%s\n"
+
+msgid "textmode"
+msgstr "文本模式"
+
+msgid "the available CRL is too old"
+msgstr "可用的 CRL 太旧了"
+
+msgid "the given certification policy URL is invalid\n"
+msgstr "给定的的验证策略 URL 无效\n"
+
+msgid "the given preferred keyserver URL is invalid\n"
+msgstr "给定的首选公钥服务器 URL 无效\n"
+
+msgid "the given signature policy URL is invalid\n"
+msgstr "给定的签名策略 URL 无效\n"
+
+msgid ""
+"the signature could not be verified.\n"
+"Please remember that the signature file (.sig or .asc)\n"
+"should be the first file given on the command line.\n"
+msgstr ""
+"签名无法被验证。\n"
+"请记住签名文件(.sig或.asc)\n"
+"应该是在命令行中给定的第一个文件。\n"
+
+msgid "there is a secret key for public key \"%s\"!\n"
+msgstr "公钥“%s”有对应的私钥！\n"
+
+msgid ""
+"this is a PGP generated Elgamal key which is not secure for signatures!"
+msgstr "这是一把由 PGP 生成的 ElGamal 密钥，用于签名不安全！"
+
+msgid "this key has already been designated as a revoker\n"
+msgstr "这把密钥已被指定为一个吊销者\n"
+
+msgid "this may be caused by a missing self-signature\n"
+msgstr "这可能由于遗失自身签名所致\n"
+
+msgid "this message may not be usable by %s\n"
+msgstr "%s 也许不能使用这个报文\n"
+
+msgid "this platform requires temporary files when calling external programs\n"
+msgstr "在这个操作平台上调用外部程序时需要临时文件\n"
+
+msgid "toggle the signature force PIN flag"
+msgstr "设定 PIN 签名是否必须"
+
+msgid "too many cipher preferences\n"
+msgstr "太多对称加密算法首选项\n"
+
+msgid "too many compression preferences\n"
+msgstr "太多首选压缩算法\n"
+
+msgid "too many digest preferences\n"
+msgstr "太多散列算法首选项\n"
+
+msgid "trust record %lu is not of requested type %d\n"
+msgstr "信任记录 %lu 不属于所请求的类别 %d\n"
+
+msgid "trust record %lu, req type %d: read failed: %s\n"
+msgstr "信任记录 %lu，请求类别 %d：读取失败：%s\n"
+
+msgid "trust record %lu, type %d: write failed: %s\n"
+msgstr "信任记录 %lu，类别 %d：写入失败：%s\n"
+
+msgid "trust: %s"
+msgstr "信任度：%s"
+
+msgid "trustdb rec %lu: lseek failed: %s\n"
+msgstr "信任度数据库记录 %lu：lseek 失败：%s\n"
+
+msgid "trustdb rec %lu: write failed (n=%d): %s\n"
+msgstr "信任度数据库记录 %lu：write 失败 (n=%d): %s\n"
+
+msgid "trustdb transaction too large\n"
+msgstr "信任度数据库处理量过大\n"
+
+msgid "trustdb: lseek failed: %s\n"
+msgstr "信任度数据库：lseek 失败：%s\n"
+
+msgid "trustdb: read failed (n=%d): %s\n"
+msgstr "信任度数据库：read 失败(n=%d)：%s\n"
+
+msgid "trustdb: sync failed: %s\n"
+msgstr "信任度数据库：同步失败：%s\n"
+
+msgid "trustlevel adjusted to FULL due to valid PKA info\n"
+msgstr "PKA 信息有效，信任级别调整到“完全”\n"
+
+msgid "trustlevel adjusted to NEVER due to bad PKA info\n"
+msgstr "PKA 信息无效，信任级别调整到“从不”\n"
+
+msgid "ultimate"
+msgstr "绝对"
+
+msgid "unable to display photo ID!\n"
+msgstr "无法显示照片标识！\n"
+
+msgid "unable to execute external program\n"
+msgstr "无法执行外部程序\n"
+
+msgid "unable to read external program response: %s\n"
+msgstr "无法读取外部程序响应：%s\n"
+
+msgid "unable to set exec-path to %s\n"
+msgstr "无法把运行路径设成 %s\n"
+
+msgid "unable to update trustdb version record: write failed: %s\n"
+msgstr "无法更新信任度数据库版本记录：写入失败：%s\n"
+
+msgid "unable to use unknown trust model (%d) - assuming %s trust model\n"
+msgstr "无法使用未知的信任模型(%d)――假定使用 %s 信任模型\n"
+
+msgid "uncompressed|none"
+msgstr "未压缩|无"
+
+msgid "undefined"
+msgstr "未定义"
+
+msgid "unexpected armor: "
+msgstr "与预期不符的 ASCII 封装： "
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown default recipient \"%s\"\n"
+msgstr "未知的默认收件者“%s”\n"
+
+msgid "unnatural exit of external program\n"
+msgstr "外部程序异常退出\n"
+
+msgid "unspecified"
+msgstr "未定义"
+
+msgid "update all keys from a keyserver"
+msgstr "从公钥服务器更新所有的本地密钥"
+
+msgid "update failed: %s\n"
+msgstr "更新失败：%s\n"
+
+msgid "update the trust database"
+msgstr "更新信任度数据库"
+
+msgid "usage: %s"
+msgstr "可用于：%s"
+
+msgid "use a log file for the server"
+msgstr "为服务器启用日志文件"
+
+msgid "use as output file"
+msgstr "指定输出文件"
+
+msgid "use canonical text mode"
+msgstr "使用标准的文本模式"
+
+msgid "use option \"--delete-secret-keys\" to delete it first.\n"
+msgstr "请先使用“--delete-secret-keys”选项来删除它。\n"
+
+msgid "use strict OpenPGP behavior"
+msgstr "行为严格遵循 OpenPGP 定义"
+
+msgid "user ID \"%s\" is already revoked\n"
+msgstr "用户标识“%s”已经被吊销。\n"
+
+msgid "user ID: \"%s\"\n"
+msgstr "用户标识：“%s”\n"
+
+msgid "using %s trust model\n"
+msgstr "使用 %s 信任模型\n"
+
+msgid "using cipher %s\n"
+msgstr "使用对称加密算法 %s\n"
+
+msgid "using subkey %s instead of primary key %s\n"
+msgstr "使用子钥 %s 而非主钥 %s\n"
+
+msgid "validate signatures with PKA data"
+msgstr "使用 PKA 数据验证签名的有效性"
+
+msgid "validity: %s"
+msgstr "有效性：%s"
+
+msgid "verbose"
+msgstr "详细模式"
+
+msgid "verification of Admin PIN is currently prohibited through this command\n"
+msgstr "目前禁止通过此命令验证管理员 PIN\n"
+
+msgid "verify CHV%d failed: %s\n"
+msgstr "验证 CHV%d 失败：%s\n"
+
+msgid "verify a signature"
+msgstr "验证签名"
+
+msgid "verify the PIN and list all data"
+msgstr "验证 PIN 并列出所有数据"
+
+msgid "waiting for process %d to terminate failed: %s\n"
+msgstr "等待进程 %d 结束失败：%s\n"
+
+msgid "waitpid failed: %s\n"
+msgstr "waitpid 失败：%s\n"
+
+msgid "weak key created - retrying\n"
+msgstr "建立了弱密钥――正在重试\n"
+
+msgid "weird size for an encrypted session key (%d)\n"
+msgstr "加密过的会话密钥尺寸(%d)诡异\n"
+
+msgid "will not run with insecure memory due to %s\n"
+msgstr "不会在内存不安全的情况下运行，原因是 %s\n"
+
+msgid "writing direct signature\n"
+msgstr "正在写入直接签名\n"
+
+msgid "writing key binding signature\n"
+msgstr "正在写入密钥绑定签名\n"
+
+msgid "writing self signature\n"
+msgstr "正在写入自身签名\n"
+
+msgid "writing to stdout\n"
+msgstr "正在写入到标准输出\n"
+
+msgid "yY"
+msgstr "yY"
+
+msgid "yes"
+msgstr "yes"
+
+msgid "you can update your preferences with: gpg --edit-key %s updpref save\n"
+msgstr "您可以这样更新您的首选项：gpg --edit-key %s updpref save\n"
+
+msgid "you cannot appoint a key as its own designated revoker\n"
+msgstr "您不能将某把密钥设为它自己的指定吊销者\n"
+
+msgid "you cannot use --symmetric --encrypt while in %s mode\n"
+msgstr "您不能在 %s 模式下使用 --symmetric -encrypt\n"
+
+msgid "you cannot use --symmetric --encrypt with --s2k-mode 0\n"
+msgstr "使用 --symmetric --encrypt 时不能使用 --s2k-mode 0\n"
+
+msgid "you cannot use --symmetric --sign --encrypt while in %s mode\n"
+msgstr "您不能在 %s 模式下使用 --symmetric --sign -encrypt\n"
+
+msgid "you cannot use --symmetric --sign --encrypt with --s2k-mode 0\n"
+msgstr "使用 --symmetric --sign --encrypt 时不能使用 --s2k-mode 0\n"
+
+msgid "you found a bug ... (%s:%d)\n"
+msgstr "您找到一个程序缺陷了……(%s:%d)\n"
+
+msgid "you may not use %s while in %s mode\n"
+msgstr "您不该将 %s 用于 %s 模式中\n"
+
+msgid "|AN|New Admin PIN"
+msgstr "|AN|新的管理员 PIN"
+
+msgid "|COMPONENT|change options"
+msgstr "|COMPONENT|改变选项"
+
+msgid "|COMPONENT|list options"
+msgstr "|COMPONENT| 列出选项"
+
+msgid "|FD|write status info to this FD"
+msgstr "|FD|把状态信息写入文件描述符 FD"
+
+msgid "|FILE|read options from FILE"
+msgstr "|FILE|从文件FILE中读取选项"
+
+msgid "|NAME|encrypt to user ID NAME as well"
+msgstr "|NAME|同时加密用户的ID NAME"
+
+msgid "|N|New PIN"
+msgstr "新的 PIN"
+
+msgid "|N|expire the passphrase after N days"
+msgstr "|N|密码在N天后过期"
+
+msgid "|N|number of certificates to include"
+msgstr "|N|包含的证书个数"
+
+msgid "||Please enter the PIN%%0A[sigs done: %lu]"
+msgstr "||请输入 PIN%%0A[完成的签字：%lu]"

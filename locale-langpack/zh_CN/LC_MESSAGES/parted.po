@@ -1,0 +1,1335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: parted 1.6.6\n"
+"Report-Msgid-Bugs-To: bug-parted@gnu.org\n"
+"POT-Creation-Date: 2014-07-28 23:04-0400\n"
+"PO-Revision-Date: 2016-02-12 02:18+0000\n"
+"Last-Translator: Wang Li <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:53+0000\n"
+
+msgid ""
+"\n"
+"Error: FPE_FLTDIV (Float: divide by zero)"
+msgstr ""
+"\n"
+"Error: FPE_FLTDIV (浮点数: 除零)"
+
+msgid ""
+"\n"
+"Error: FPE_FLTINV (Float: invalid operation)"
+msgstr ""
+"\n"
+"Error: FPE_FLTINV (浮点数: 非法操作)"
+
+msgid ""
+"\n"
+"Error: FPE_FLTOVF (Float: overflow)"
+msgstr ""
+"\n"
+"Error: FPE_FLTOVF (浮点数: 溢出)"
+
+msgid ""
+"\n"
+"Error: FPE_FLTRES (Float: inexact result)"
+msgstr ""
+"\n"
+"Error: FPE_FLTRES (浮点数: 不精确结果)"
+
+msgid ""
+"\n"
+"Error: FPE_INTDIV (Integer: divide by zero)"
+msgstr ""
+"\n"
+"Error: FPE_INTDIV (整数:除零)"
+
+msgid ""
+"\n"
+"Error: FPE_INTOVF (Integer: overflow)"
+msgstr ""
+"\n"
+"Error: FPE_INTOVF (整数: 溢出)"
+
+msgid ""
+"\n"
+"Error: ILL_BADSTK (Internal Stack Error)"
+msgstr ""
+"\n"
+"Error: ILL_BADSTK (内部堆栈错误)"
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+"\n"
+"许可证：GPLv3+：GNU 通用公共许可证第3版或更新版本<http://gnu.org/licenses/gpl.html>。\n"
+"本软件是自由软件：您可以自由修改和重新发布它。\n"
+"在法律范围内没有其他保证。\n"
+"\n"
+
+msgid ""
+"\n"
+"Report bugs to <%s>.\n"
+msgstr ""
+"\n"
+"请向 <%s> 报告错误。\n"
+
+msgid ""
+"\n"
+"When no DEVICE is given, probe all partitions.\n"
+msgstr ""
+"\n"
+"未指定设备时探测所有分区\n"
+
+msgid "\"%s\" has invalid syntax for locations."
+msgstr "“%s”存在无效的地址结构"
+
+msgid "%0.f%%\t(time left %.2d:%.2d)"
+msgstr "%0.f%%\t(剩余时间 %.2d:%.2d)"
+
+msgid "%s  %s"
+msgstr "%s  %s"
+
+msgid "%s  %s  %s"
+msgstr "%s  %s  %s"
+
+msgid "%s : Bad checksum on block %llu of type %s."
+msgstr "%s :  块 %llu 校验和错误，类型 %s."
+
+msgid "%s : Didn't find rdb block, should never happen."
+msgstr "%s：rdb块，不会发生"
+
+msgid "%s : Failed to list bad blocks."
+msgstr "%s ：列出错误块失败"
+
+msgid "%s : Failed to list boot blocks."
+msgstr "%s : 列出引导块失败"
+
+msgid "%s : Failed to list file system blocks."
+msgstr "%s : 列出文件系统块失败"
+
+msgid "%s : Failed to list partition blocks."
+msgstr "%s : 列出分区块失败"
+
+msgid "%s : Loop detected at block %d."
+msgstr "%s：在块%d中检测到循环。"
+
+msgid "%s : The %s list seems bad at block %s."
+msgstr "%s：%s表显示块%s已经损坏。"
+
+msgid "%s disk labels do not support extended partitions."
+msgstr "%s 磁盘标签不支持扩展分区。"
+
+msgid "%s disk labels don't support logical or extended partitions."
+msgstr "%s 磁盘标签不支持逻辑或扩展分区。"
+
+msgid "%s during read on %s"
+msgstr "在读取 %2$s 期间 %1$s"
+
+msgid "%s during seek for read on %s"
+msgstr "在为读取 %2$s 而调用 seek 时 %1$s"
+
+msgid "%s during seek for write on %s"
+msgstr "在为写入 %2$s 调用 seek 时 %1$s"
+
+msgid "%s during write on %s"
+msgstr "在写入 %2$s 时 %1$s"
+
+msgid "%s has no extended partition (volume header partition)."
+msgstr "%s 没有扩展分区 (卷头分区)。"
+
+msgid "%s is %dk, but it has %d clusters (%dk)."
+msgstr "%s 为 %dk，但含有 %d 个簇 (%dk)。"
+
+msgid "%s is too small for a Mac disk label!"
+msgstr "%s 对 Mac 磁盘标签来说太小了！"
+
+msgid "%s trying to sync %s to disk"
+msgstr "%s 试图将 %s 同步到磁盘上"
+
+msgid "%s: unrecognised disk label"
+msgstr "%s：未确认磁盘标签"
+
+msgid "'"
+msgstr "'"
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid ""
+"A %s %s partition was found at %s -> %s.  Do you want to add it to the "
+"partition table?"
+msgstr "%s %s 分区发现于 %s -> %s.  要将她添加到分区表么?"
+
+msgid ""
+"A reference to an extent comes from a place it should not.  You should check"
+" the file system!"
+msgstr "一个扩展块的一个引用来自一个不正确的地方。你应该检查一下文件系统。"
+
+msgid "API version mismatch"
+msgstr "API版本不一致"
+
+msgid "ATARAID Controller"
+msgstr "ATARAID 控制器"
+
+msgid "An error occurred during extent relocation."
+msgstr "在扩展块重定位过程中发生错误。"
+
+msgid "An error occurred while looking for the mandatory bad blocks file."
+msgstr "在寻找托管的坏区文件时发生了一个错误。"
+
+msgid "An extent has not been relocated."
+msgstr "一个扩展块没有被重定位。"
+
+msgid "Attempt to write sectors %ld-%ld outside of partition on %s."
+msgstr "试图写入 %3$s 上分区之外的扇区 %1$ld-%2$ld"
+
+msgid "BIOS cylinder,head,sector geometry: %d,%d,%d.  Each cylinder is %s.\n"
+msgstr "BIOS 柱面、磁头、簇 的结构为：%d，%d，%d。每一个柱面是 %s。\n"
+
+msgid ""
+"Bad FAT: cluster %d is cross-linked for %s.  You should run dosfsck or "
+"scandisk."
+msgstr "错误的 FAT：簇 %d 同 %s 的链交叉了。您应该运行 dosfsck 或 scandisk。"
+
+msgid ""
+"Bad FAT: cluster %d outside file system in chain for %s.  You should run "
+"dosfsck or scandisk."
+msgstr "错误的 FAT：在%2$s 的链中，簇 %1$d 处于文件系统之外。您应该运行 dosfsck 或 scandisk。"
+
+msgid ""
+"Bad FAT: unterminated chain for %s.  You should run dosfsck or scandisk."
+msgstr "错误的 FAT：%s 的链未终止。您应该运行 dosfsck 或 scandisk。"
+
+msgid "Bad block list header checksum."
+msgstr "坏区表头校验和。"
+
+msgid "Bad blocks could not be read."
+msgstr "坏块不能被读取。"
+
+msgid "Bad blocks list could not be loaded."
+msgstr "坏块列表无法装载。"
+
+msgid "Bad directory entry for %s: first cluster is the end of file marker."
+msgstr "%s 的目录条目错误：第一个簇就是文件标志的结束。"
+
+msgid "Bad journal checksum."
+msgstr "日志校验错误。"
+
+msgid ""
+"Both the primary and backup GPT tables are corrupt.  Try making a fresh "
+"table, and using Parted's rescue feature to recover partitions."
+msgstr "主 GPT 和备份 GPT 都损坏了。试图创建新表并使用 Parted 的急救功能以修复分区表。"
+
+msgid "Bug"
+msgstr "Bug"
+
+msgid "COMMANDs:"
+msgstr "命令："
+
+msgid ""
+"Can't add a logical partition to %s, because there is no extended partition."
+msgstr "由于没有扩展分区，无法将逻辑分区添加到 %s。"
+
+msgid "Can't add another partition -- the partition map is too small!"
+msgstr "无法添加另一个分区 - 分区映射过小！"
+
+msgid "Can't add another partition."
+msgstr "无法添加其它分区。"
+
+msgid "Can't create any more partitions."
+msgstr "无法创建更多分区。"
+
+msgid ""
+"Can't have a logical partition outside of the extended partition on %s."
+msgstr "%s 上的逻辑分区不能处于扩展分区之外。"
+
+msgid "Can't have a partition outside the disk!"
+msgstr "无法让分区超出磁盘！"
+
+msgid "Can't have a primary partition inside an extended partition."
+msgstr "扩展分区中不能含有主分区。"
+
+msgid "Can't have logical partitions outside of the extended partition."
+msgstr "逻辑分区不能处于扩展分区之外。"
+
+msgid "Can't have more than one extended partition on %s."
+msgstr "%s 上不能含有多于一个扩展分区"
+
+msgid "Can't have overlapping partitions."
+msgstr "分区之间不能重叠。"
+
+msgid "Can't write to %s, because it is opened read-only."
+msgstr "由于 %s 是以只读方式打开的，因此无法写入。"
+
+msgid "Cancel"
+msgstr "放弃"
+
+msgid "Cannot get unit size for special unit 'COMPACT'."
+msgstr "不能得到'COMPACT'特殊单位的单位大小"
+
+msgid ""
+"Changing the name of a root or swap partition will prevent Linux from "
+"recognising it as such."
+msgstr "改变根分区或对换分区的名称将导致 Linux 无法识别它。"
+
+msgid "Checksum is wrong, indicating the partition table is corrupt."
+msgstr "校验和错误，标明分区表已损坏。"
+
+msgid ""
+"Cluster start delta = %d, which is not a multiple of the cluster size %d."
+msgstr "簇起始偏移 = %d，不是簇大小 %d 的整数倍。"
+
+msgid "Compaq Smart Array"
+msgstr "Compaq 智能阵列"
+
+msgid ""
+"Conflicting partition map entry sizes!  Entry 1 says it is %d, but entry %d "
+"says it is %d!"
+msgstr "分区映射条目大小冲突！条目 1 说它是 %d，但条目 %d 说它是 %d！"
+
+msgid "Corrupted Sun disk label detected."
+msgstr "检测到损坏了的 Sun 磁盘标签。"
+
+msgid "Could not cache the file system in memory."
+msgstr "无法在内存中缓存文件系统。"
+
+msgid "Could not detect file system."
+msgstr "无法检测文件系统。"
+
+msgid ""
+"Could not determine sector size for %s: %s.\n"
+"Using the default sector size (%lld)."
+msgstr ""
+"无法判断 %s: %s 处的扇区大小。\n"
+"使用缺省大小(%lld)。"
+
+msgid "Could not find sector %lli of HFS+ file with CNID %X."
+msgstr "Could not find sector %lli of HFS+ file with CNID %X."
+
+msgid "Could not get identity of device %s - %s"
+msgstr "无法获取设备 %s - %s 的标识"
+
+msgid "Could not stat device %s - %s."
+msgstr "无法对设备 %s - %s 做 stat 操作。"
+
+msgid "Could not update the extent cache for HFS file with CNID %X."
+msgstr "不能使用 CNID %X 为HFS 文件更新扩展块缓存。"
+
+msgid "Could not update the extent cache for HFS+ file with CNID %X."
+msgstr "不能使用 CNID %X 为 HFS+ 文件更新扩展块缓存。"
+
+msgid "DAC960 RAID controller"
+msgstr "DAC960 RAID 控制器"
+
+msgid "DEVICE is usually /dev/hda or /dev/sda\n"
+msgstr "DEVICE 通常为 /dev/hda 或 /dev/sda\n"
+
+msgid "Data relocation has failed."
+msgstr "数据重定位失败。"
+
+msgid "Data relocation left some data at the end of the volume."
+msgstr "数据重定位把一些数据留在了卷末。"
+
+msgid "Data relocation left some data in the end of the volume."
+msgstr "数据重定位在卷末留下了一些数据。"
+
+msgid ""
+"Device %s has multiple (%d) logical sectors per physical sector.\n"
+"GNU Parted supports this EXPERIMENTALLY for some special disk label/file system combinations, e.g. GPT and ext2/3.\n"
+"Please consult the web site for up-to-date information."
+msgstr ""
+"设备 %s 中的每个物理扇区包含了多个 (%d) 逻辑扇区。\n"
+"GNU Parted 对此仅支持一些特殊的磁盘标签/文件系统，例如 GPT 和 ext2/3，而且是<b>实验性的</b>。\n"
+"请查看官方站点以获得最新信息。"
+
+msgid "Disk %s: %s\n"
+msgstr "磁盘 %s: %s\n"
+
+msgid "Disk Image"
+msgstr "磁盘镜像"
+
+msgid "Disk is in use"
+msgstr "磁盘正在使用中"
+
+msgid "End?"
+msgstr "结束点？"
+
+msgid "Error"
+msgstr "错误"
+
+msgid ""
+"Error informing the kernel about modifications to partition %s -- %s.  This "
+"means Linux won't know about any changes you made to %s until you reboot -- "
+"so you shouldn't mount it or use it in any way before rebooting."
+msgstr ""
+"通知内核关于分区 %s - %s 的修改时出错。这意味着 Linux 在重新启动之前无法知道您针对 %s 所作的任何修改 - "
+"所以您也不能在重新启动之前加载或以任何方式使用它。"
+
+msgid "Error initialising SCSI device %s - %s"
+msgstr "初始化 SCSI 设备 %s - %s 出错"
+
+msgid "Error opening %s: %s"
+msgstr "打开 %s 出错：%s"
+
+msgid "Error while writing the compatibility part of the allocation file."
+msgstr "在写入分配文件的兼容部分时出错。"
+
+msgid "Error writing to the root directory."
+msgstr "写入根目录错误。"
+
+msgid "Expecting a disk label type."
+msgstr "需要磁盘标签类型。"
+
+msgid "Expecting a file system type."
+msgstr "需要文件系统类型。"
+
+msgid "Expecting a partition number."
+msgstr "需要分区编号。"
+
+msgid "Expecting a partition type."
+msgstr "需要分区类型。"
+
+msgid "Extended partitions cannot be hidden on msdos disk labels."
+msgstr "扩展分区不能在 MSDOS 磁盘标签下隐藏"
+
+msgid ""
+"FAT %d media %x doesn't match the boot sector's media %x.  You should "
+"probably run scandisk."
+msgstr "FAT %d 媒体 %x 和启动扇区所在的媒体 %x 不匹配。您可能应该运行 scandisk。"
+
+msgid "FAT boot sector says clusters are 0 sectors.  This is weird. "
+msgstr "FAT 启动扇区声称卒是零扇区。这很奇怪。 "
+
+msgid "FAT boot sector says logical sector size is 0.  This is weird. "
+msgstr "FAT 启动扇区声称逻辑扇区的大小为零。这很奇怪。 "
+
+msgid "FAT boot sector says there are no FAT tables.  This is weird. "
+msgstr "FAT 启动扇区声称没有 FAT 表。这很奇怪。 "
+
+msgid "FLAG is one of: "
+msgstr "“标志”是以下任意一项： "
+
+msgid "FS-TYPE is one of: "
+msgstr "“文件系统类型”是以下任意一项： "
+
+msgid "Failed to write partition block at %d."
+msgstr "写分区块 %d 失败"
+
+msgid "Fatal"
+msgstr "致命错误"
+
+msgid "File system"
+msgstr "文件系统"
+
+msgid ""
+"File system doesn't have expected sizes for Windows to like it.  Cluster "
+"size is %dk (%dk expected); number of clusters is %d (%d expected); size of "
+"FATs is %d sectors (%d expected)."
+msgstr ""
+"文件系统的大小不是 Windows 所希望的。簇大小为 %dk (期望 %dk)；簇数量为 %d (期望 %d)；FAT 的大小为 %d 扇区 (期望 "
+"%d)。"
+
+msgid "File system has an invalid cluster size for a FAT file system."
+msgstr "文件系统的簇大小对 FAT 文件系统来说无效。"
+
+msgid "File system has an invalid number of FATs."
+msgstr "文件系统的 FATS 数量无效。"
+
+msgid ""
+"File system has an invalid number of reserved sectors for a FAT file system."
+msgstr "文件系统的保留扇区数对 FAT 文件系统来说无效。"
+
+msgid "File system has an invalid sector size for a FAT file system."
+msgstr "文件系统的扇区大小对 FAT 文件系统来说无效。"
+
+msgid "File system has an invalid signature for a FAT file system."
+msgstr "文件系统含有无效的 FAT 文件系统签名。"
+
+msgid "File system is FAT12, which is unsupported."
+msgstr "文件系统为 FAT12，不支持。"
+
+msgid ""
+"File system is reporting the free space as %d clusters, not %d clusters."
+msgstr "文件系统报告空闲空间为 %d 簇，而不是 %d 簇。"
+
+msgid "File system type?"
+msgstr "文件系统类型？"
+
+msgid "Fix"
+msgstr "修正"
+
+msgid "Flags"
+msgstr "标志"
+
+msgid "Free Space"
+msgstr "剩余空间"
+
+msgid ""
+"GNU Parted cannot resize this partition to this size.  We're working on it!"
+msgstr "GNU Parted 无法将此分区转换到这一大小。我们正在实现它！"
+
+msgid ""
+"GNU Parted was miscompiled: the FAT boot sector should be 512 bytes.  FAT "
+"support will be disabled."
+msgstr "GNU parted 编译错误：FAT 启动扇区应为 512 字节。FAT 支持将被关闭。"
+
+msgid "Generic IDE"
+msgstr "通用 IDE"
+
+msgid "Generic SD/MMC Storage Card"
+msgstr "通用 SD/MMC 存储卡"
+
+msgid "I2O Controller"
+msgstr "I2O 控制器"
+
+msgid "IBM S390 DASD drive"
+msgstr "IBM S390 DASD 驱动"
+
+msgid ""
+"If you convert to FAT16, and MS Windows is installed on this partition, then"
+" you must re-install the MS Windows boot loader.  If you want to do this, "
+"you should consult the Parted manual (or your distribution's manual)."
+msgstr ""
+"如果您转换为 FAT16，并将 MS Windows 安装到这个分区，那么您必须重新安装 MS Windows 启动管理器。如果您打算这么做，您应该参阅"
+" Parted 的手册 (或您的发行版的手册)。"
+
+msgid ""
+"If you convert to FAT32, and MS Windows is installed on this partition, then"
+" you must re-install the MS Windows boot loader.  If you want to do this, "
+"you should consult the Parted manual (or your distribution's manual).  Also,"
+" converting to FAT32 will make the file system unreadable by MS DOS, MS "
+"Windows 95a, and MS Windows NT."
+msgstr ""
+"如果您转换为 FAT32，并且 MS Windows 安装在这个分区，那么您必须重新安装 MS Windows "
+"的启动管理器。如果您打算这样作，您应该参阅 Parted 的手册 (或者您的发行版的手册)。此外，将文件系统转换为 FAT32，文件系统就不能够被 MS"
+" DOS、MS Windows 95a 和 MS Windows NT 所访问了。"
+
+msgid ""
+"If you leave your file system as FAT16, then you will have no problems."
+msgstr "如果将您的文件系统类型保持 FAT16 不变，那么就不会有什么问题。"
+
+msgid ""
+"If you leave your file system as FAT32, then you will not introduce any new "
+"problems."
+msgstr "如果您保持文件系统类型为 FAT32 不变，那么您将不会遇到任何新问题。"
+
+msgid "Ignore"
+msgstr "忽略"
+
+msgid "Incorrect magic values in the journal header."
+msgstr "在日志头部发现了不可能的错误值（magic value)。"
+
+msgid ""
+"Inform the operating system about partition table changes.\n"
+"\n"
+"  -d, --dry-run    do not actually inform the operating system\n"
+"  -s, --summary    print a summary of contents\n"
+"  -h, --help       display this help and exit\n"
+"  -v, --version    output version information and exit\n"
+msgstr ""
+"将分区表变更通知给操作系统。\n"
+"  -d, --dry-run 不真正通知操作系统\n"
+"  -s, --summary 输出内容摘要\n"
+"  -h, --help 显示此帮助并退出\n"
+"  -v, --version 输出版本信息并退出\n"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Invalid back reference"
+msgstr "无效的向后引用"
+
+msgid "Invalid character class name"
+msgstr "无效的字符类名"
+
+msgid "Invalid collation character"
+msgstr "无效的校勘字符"
+
+msgid "Invalid content of \\{\\}"
+msgstr "\\{\\} 的内容无效"
+
+msgid "Invalid number."
+msgstr "无效的数字"
+
+msgid "Invalid partition table - recursive partition on %s."
+msgstr "无效的分区表 - %s 出现递归分区。"
+
+msgid "Invalid partition table on %s -- wrong signature %x."
+msgstr "%s 上的分区表无效 -- 错误的签名 %x"
+
+msgid "Invalid partition table on %s."
+msgstr "%s 的分区表无效"
+
+msgid "Invalid preceding regular expression"
+msgstr "无效的前置正则表达式"
+
+msgid "Invalid range end"
+msgstr "无效的范围结束符"
+
+msgid "Invalid regular expression"
+msgstr "无效的常规表达式"
+
+msgid "Invalid signature %x for Mac disk labels."
+msgstr "无效的 Mac 磁盘标签签名 %x。"
+
+msgid ""
+"Invalid size of a transaction block while replaying the journal (%i bytes)."
+msgstr "在重新遍历记录日志时发现了无效的事务块大小 (%i 字节)。"
+
+msgid ""
+"It seems there is an error in the HFS wrapper: the bad blocks file doesn't "
+"contain the embedded HFS+ volume."
+msgstr "看起来在 HFS 的封装内有一个错误：坏区文件没有包含嵌入的 HFS+ 卷。"
+
+msgid "Journal size mismatch between journal info block and journal header."
+msgstr "日志信息块和日志头部中的日志大小不匹配。"
+
+msgid ""
+"Journal stored outside of the volume are not supported.  Try to desactivate "
+"the journal and run Parted again."
+msgstr "不支持在卷以外存储日志。请停止日志记录后再运行 Parted。"
+
+msgid "LABEL-TYPE is one of: "
+msgstr "“标签类型”是以下任意一项： "
+
+msgid "Linux device-mapper (%s)"
+msgstr "Linux 设备映射器 (%s)"
+
+msgid "Memory allocation failed"
+msgstr "内存分配失败"
+
+msgid "Memory exhausted"
+msgstr "存储已用尽"
+
+msgid "NAME is any word you want\n"
+msgstr "NAME 是您需要的任何单词\n"
+
+msgid ""
+"NUMBER is the partition number used by Linux.  On MS-DOS disk labels, the "
+"primary partitions number from 1 to 4, logical partitions from 5 onwards.\n"
+msgstr "NUMBER 是 Linux 使用的分区编号。在 msdos 磁盘标签中，主分区编号为 1 - 4，逻辑分区从 5 开始。\n"
+
+msgid "New device?"
+msgstr "新设备？"
+
+msgid "New disk label type?"
+msgstr "新的磁盘标签类型？"
+
+msgid "New state?"
+msgstr "新状态？"
+
+msgid "No"
+msgstr "否"
+
+msgid "No Implementation"
+msgstr "未实现"
+
+msgid "No device found"
+msgstr "没有找到设备"
+
+msgid "No match"
+msgstr "未找到匹配"
+
+msgid "No previous regular expression"
+msgstr "没有上一个常规表达式"
+
+msgid "No valid HFS[+X] signature has been found while opening."
+msgstr "在打开时找不到可用的 HFS[+X] 签名。"
+
+msgid "No valid partition map found."
+msgstr "找不到有效的分区映射。"
+
+msgid "Number"
+msgstr "数字"
+
+msgid "OK"
+msgstr "确认"
+
+msgid "OPTIONs:"
+msgstr "选项："
+
+msgid "Only logical partitions can be a boot file."
+msgstr "只有逻辑分区可以是启动文件。"
+
+msgid "Only primary partitions can be root partitions."
+msgstr "只有主分区可以是根分区。"
+
+msgid "Only primary partitions can be swap partitions."
+msgstr "只有主分区可以是对换分区。"
+
+msgid "Out of memory."
+msgstr "内存耗尽。"
+
+msgid "PART-TYPE is one of: primary, logical, extended\n"
+msgstr "“分区类型”是主分区、逻辑分区、扩展分区之一\n"
+
+msgid "Parted can't resize partitions managed by Windows Dynamic Disk."
+msgstr "Parted 无法改变由 Windows 动态磁盘 (Windows Dynamic Disk) 管理的分区大小。"
+
+msgid ""
+"Parted can't use HFS file systems on disks with a sector size not equal to "
+"%d bytes."
+msgstr "Parted 无法在簇大小不等于 %d 比特的磁盘上使用HFS文件系统。"
+
+msgid "Partition %d has an invalid length of 0 bytes!"
+msgstr "分区 %d 含有无效的长度 0 字节！"
+
+msgid "Partition %d has an invalid signature %x."
+msgstr "分区 %d 含有无效的签名 %x。"
+
+msgid "Partition %d is %s, but the file system is %s."
+msgstr "分区 %d 为 %s，但文件系统为 %s。"
+
+msgid ""
+"Partition %d isn't aligned to cylinder boundaries.  This is still "
+"unsupported."
+msgstr "分区 %d 并未对齐到柱面边界。现在并不支持这样做。"
+
+msgid "Partition Table: %s\n"
+msgstr "分区表：%s\n"
+
+msgid "Partition doesn't exist."
+msgstr "分区不存在。"
+
+msgid "Partition map has no partition map entry!"
+msgstr "分区映射不含有分区映射条目！"
+
+msgid "Partition name?"
+msgstr "分区名称？"
+
+msgid "Partition number?"
+msgstr "分区编号？"
+
+msgid "Partition too big/small for a %s file system."
+msgstr "对于 %s 文件系统来说，分区过大或过小"
+
+msgid "Partition type?"
+msgstr "分区类型？"
+
+msgid "Partition(s) on %s are being used."
+msgstr "正在使用 %s 上的分区。"
+
+msgid "Premature end of regular expression"
+msgstr "常规表达式非正常终止"
+
+msgid "Regular expression too big"
+msgstr "常规表达式过大"
+
+msgid "Resizing the HFS+ volume has failed."
+msgstr "调整 HFS+ 卷的大小时失败了。"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid ""
+"START and END are disk locations, such as 4GB or 10%.  Negative values count"
+" from the end of the disk.  For example, -1s specifies exactly the last "
+"sector.\n"
+msgstr "“起始点”和“终止点”为磁盘位置，例如4GB或者10%。负值表示从磁盘末段开始计数。例如，-1s表示最后一个簇。\n"
+
+msgid "STATE is one of: on, off\n"
+msgstr "状态为：开、关\n"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Some header fields are not multiple of the sector size."
+msgstr "一些头域不是簇大小的整数倍。"
+
+msgid "Sorry, HFS cannot be resized that way yet."
+msgstr "抱歉，HFS 暂时不能用这种方式调整大小。"
+
+msgid "Sorry, HFS+ cannot be resized that way yet."
+msgstr "抱歉，HFS+ 目前不能用这种方式调整大小。"
+
+msgid "Start"
+msgstr "开始："
+
+msgid "Start?"
+msgstr "起始点？"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Sun disk label is full."
+msgstr "Sun 磁盘标签已满。"
+
+msgid "Syntax error in config file"
+msgstr "配置文件中有语法错误"
+
+msgid ""
+"The FATs don't match.  If you don't know what this means, then select "
+"cancel, run scandisk on the file system, and then come back."
+msgstr "FAT 不匹配。如果你不知道它的含义，请选择放弃，并对文件系统运行 scandisk，而后在回到这里来。"
+
+msgid ""
+"The Whole Disk partition is the only available one left.  Generally, it is "
+"not a good idea to overwrite this partition with a real one.  Solaris may "
+"not be able to boot without it, and SILO (the sparc boot loader) appreciates"
+" it as well."
+msgstr ""
+"覆盖整个磁盘的分区是目前仅有的唯一一个可用的分区。通常来说，用一个真实的分区覆盖写入这个分区不是一个明智的做法。Solaris "
+"的引导可能离不开它，SILO (sparc 引导装载程式) 也需要它。"
+
+msgid "The boot region doesn't start at the start of the partition."
+msgstr "启动区域并未从分区的起点开始"
+
+msgid "The data region doesn't start at the start of the partition."
+msgstr "数据区并未从分区的起点开始"
+
+msgid ""
+"The disk CHS geometry (%d,%d,%d) reported by the operating system does not "
+"match the geometry stored on the disk label (%d,%d,%d)."
+msgstr "磁盘 CHS 几何结构 (%d,%d,%d) 于保存在磁盘标签 (%d,%d,%d) 中的几何结构不匹配。"
+
+msgid "The disk has %d cylinders, which is greater than the maximum of 65536."
+msgstr "磁盘有 %d 个柱面，此值大于柱面最大值65536"
+
+msgid "The disk label describes a disk bigger than %s."
+msgstr "磁盘标签描述的磁盘大于 %s。"
+
+msgid ""
+"The driver descriptor says the physical block size is %d bytes, but Linux "
+"says it is %d bytes."
+msgstr "磁盘描述表明物理块大小为 %d 字节，但 Linux 认为它是 %d 字节。"
+
+msgid ""
+"The extents overflow file should not contain its own extents!  You should "
+"check the file system."
+msgstr "扩展块溢出文件不应该包含它自己的扩展块！你应该检查一下文件系统。"
+
+msgid ""
+"The file %s is marked as a system file.  This means moving it could cause "
+"some programs to stop working."
+msgstr "文件 %s 被标记为系统文件。这意味着移动它可能导致某些程序停止工作。"
+
+msgid ""
+"The file system can only be resized to this size by converting to FAT16."
+msgstr "文件系统的大小只能通过转换为 FAT16 改变到这一大小。"
+
+msgid ""
+"The file system can only be resized to this size by converting to FAT32."
+msgstr "文件系统的大小只能通过转换为 FAT32 改变到这一大小。"
+
+msgid "The file system contains errors."
+msgstr "文件系统存在错误。"
+
+msgid "The file system is bigger than its volume!"
+msgstr "文件系统比它的卷还大！"
+
+msgid ""
+"The file system's CHS geometry is (%d, %d, %d), which is invalid.  The "
+"partition table's CHS geometry is (%d, %d, %d).  If you select Ignore, the "
+"file system's CHS geometry will be left unchanged.  If you select Fix, the "
+"file system's CHS geometry will be set to match the partition table's CHS "
+"geometry."
+msgstr ""
+"这个文件系统的 CHS 结构是 (%d，%d，%d)，这是无效的。分区表的 CHS 结构是 (%d，%d，%d)。如果选择忽略，文件系统的 CHS "
+"结构将保持不变。如果选择修正，文件系统的 CHS 结构将会被设置为与分区表的 CHS 结构相匹配。"
+
+msgid ""
+"The information sector has the wrong signature (%x).  Select cancel for now,"
+" and send in a bug report.  If you're desperate, it's probably safe to "
+"ignore."
+msgstr "信息扇区的签名错误 (%x)。现在选择放弃，并发送 bug 报告。如果您不顾一切，选择忽略有可能是“安全”的。"
+
+msgid ""
+"The journal is not empty.  Parted must replay the transactions before "
+"opening the file system.  This will modify the file system."
+msgstr "日志非空。Parted 必须在开启文件系统之前重新执行事务。这个操作将会修改文件系统。"
+
+msgid "The location %s is outside of the device %s."
+msgstr "位置%s在设备%s之外。"
+
+msgid "The maximum head value is %d."
+msgstr "磁头的最大值是%d。"
+
+msgid "The maximum sector value is %d."
+msgstr "扇区的最大值是%d。"
+
+msgid ""
+"The partition table cannot be re-read.  This means you need to reboot before"
+" mounting any modified partitions.  You also need to reinstall your boot "
+"loader before you reboot (which may require mounting modified partitions).  "
+"It is impossible do both things!  So you'll need to boot off a rescue disk, "
+"and reinstall your boot loader from the rescue disk.  Read section 4 of the "
+"Parted User documentation for more information."
+msgstr ""
+"无法重新读入分区表，同样，您必须在加载任何修改了的分区之前重新启动。您还需要在您重新启动之前重新安装启动管理器 "
+"(它可能需要加载修改了的分区)。同时做这两件事是不可能的！所以您就需要从急救盘启动，并从急救盘重新安装您的启动管理器。更多详情请参阅 Parted "
+"用户文档的第四节。"
+
+msgid ""
+"The partition table on %s cannot be re-read (%s).  This means the Hurd knows"
+" nothing about any modifications you made.  You should reboot your computer "
+"before doing anything with %s."
+msgstr "无法重新读入%s (%s) 上的分区表。这意味着 Hurd 不知道任何您所作的修改。您应该在对 %s 做任何操作之前重新启动您的计算机。"
+
+msgid "The partition's boot region doesn't occupy the entire partition."
+msgstr "分区的启动区域并未占用整个分区。"
+
+msgid "The partition's data region doesn't occupy the entire partition."
+msgstr "分区的数据区域并未占用整个分区。"
+
+msgid ""
+"The primary GPT table is corrupt, but the backup appears OK, so that will be"
+" used."
+msgstr "主 GPT 表损坏，但备份似乎是正确的，所以使用备份。"
+
+msgid ""
+"The sector size stored in the journal is not 512 bytes.  Parted only "
+"supports 512 bytes length sectors."
+msgstr "存储在日志中的簇大小不是 512 字节。Parted 只支持长度为 512 字节的簇。"
+
+msgid ""
+"The volume header or the master directory block has changed while replaying "
+"the journal.  You should restart Parted."
+msgstr "在重新记录日志时卷头或者主目录块已经被修改了。你应该重新启动 Parted。"
+
+msgid "There are no possible configurations for this FAT type."
+msgstr "对于此 FAT 类型没有可能的配置。"
+
+msgid ""
+"There's not enough room in the root directory for all of the files.  Either "
+"cancel, or ignore to lose the files."
+msgstr "根目录下没有保存所有文件的足够空间。放弃或者忽略，如果忽略将损失文件。"
+
+msgid "This HFS volume has no catalog file.  This is very unusual!"
+msgstr "这个 HFS 卷没有目录文件。这是非常不寻常的！"
+
+msgid "This HFS volume has no extents overflow file.  This is quite unusual!"
+msgstr "这个 HFS 卷没有扩展块溢出文件。这是很不寻常的！"
+
+msgid "This HFS+ volume has no catalog file.  This is very unusual!"
+msgstr "这个 HFS+ 卷没有目录文件。这是很不正常的！"
+
+msgid "This HFS+ volume has no extents overflow file.  This is quite unusual!"
+msgstr "这个 HFS+ 卷没有扩展块溢出文件。这是很不正常的！"
+
+msgid ""
+"This file system has a logical sector size of %d.  GNU Parted is known not "
+"to work properly with sector sizes other than 512 bytes."
+msgstr "此文件系统的逻辑扇区大小为 %d。GNU Parted 不能在扇区大小不是 512 字节的情况下正确工作。"
+
+msgid ""
+"This is not a real %s check.  This is going to extract special low level "
+"files for debugging purposes."
+msgstr "这不是一次真正的 %s 检查。现在将要为调试目的而解开特别的低级别文件。"
+
+msgid ""
+"This libparted doesn't have write support for %s.  Perhaps it was compiled "
+"read-only."
+msgstr "这个 libparted 不支持对 %s 的写操作。可能它是按只读方式编译的。"
+
+msgid "Too many primary partitions"
+msgstr "过多的主分区"
+
+msgid "Too many primary partitions."
+msgstr "主分区太多。"
+
+msgid "Trailing backslash"
+msgstr "末尾的反斜线"
+
+msgid "Try `%s --help' for more information.\n"
+msgstr "尝试 “%s --help” 命令获取更多信息。\n"
+
+msgid ""
+"Trying to move an extent from block Ox%X to block Ox%X, but another one "
+"already exists at this position.  This should not happen!"
+msgstr "正在尝试把一个扩展块从 Ox%X 块移动到 Ox%X 块，但是另一个扩展块已经使用了这个位置。这是不应该发生的。"
+
+msgid "Trying to read HFS file with CNID %X behind EOF."
+msgstr "正在尝试使用 CNID %X 在 EOF 标记之后读取 HFS 文件。"
+
+msgid "Trying to read HFS+ file with CNID %X behind EOF."
+msgstr "正在尝试使用 CNID %X 在 EOF 标记之后读取 HFS+ 文件。"
+
+msgid ""
+"Trying to register an extent starting at block 0x%X, but another one already"
+" exists at this position.  You should check the file system!"
+msgstr "正在尝试注册一个从 0x%X 块开始的扩展块，但是另一个扩展块已经使用了这个位置。建议你检查一下文件系统。"
+
+msgid "Trying to write HFS file with CNID %X behind EOF."
+msgstr "正在尝试使用 CNID %X 在 EOF 标记之后写入 HFS 文件。"
+
+msgid "Trying to write HFS+ file with CNID %X behind EOF."
+msgstr "正在尝试使用 CNID %X 在 EOF 标记之后写入 HFS+ 文件。"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "UNIT is one of: "
+msgstr "单位 是下面之一： "
+
+msgid "Unable to allocate a bsd disklabel slot."
+msgstr "无法定位 bsd 磁盘标签槽"
+
+msgid "Unable to allocate a partition number."
+msgstr "无法分配分区编号。"
+
+msgid "Unable to determine the size of %s (%s)."
+msgstr "无法确定 %s (%s) 的大小"
+
+msgid "Unable to open %s read-write (%s).  %s has been opened read-only."
+msgstr "无法以读写方式打开 %s (%s)。%s 已按照只读方式打开。"
+
+msgid "Unable to open %s."
+msgstr "无法打开 %s。"
+
+msgid "Unable to probe store."
+msgstr "无法探测存储设备。"
+
+msgid "Unable to satisfy all constraints on the partition."
+msgstr "无法满足分区的所有限制。"
+
+msgid "Unit?"
+msgstr "单位？"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown file system type \"%s\"."
+msgstr "未知的文件系统类型“%s”。"
+
+msgid "Unknown partition flag, %d."
+msgstr "未知分区标志, %d."
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Unmatched ( or \\("
+msgstr "不匹配的 ( 或 \\("
+
+msgid "Unmatched ) or \\)"
+msgstr "不匹配的 ) 或 \\)"
+
+msgid "Unmatched [ or [^"
+msgstr "不匹配的 [ 或 [^"
+
+msgid "Unmatched \\{"
+msgstr "不匹配的 \\{"
+
+msgid "Unsupported disk format"
+msgstr "不支持的磁盘格式"
+
+msgid "Unsupported disk type"
+msgstr "不支持的磁盘类型"
+
+msgid "Updating the HFS wrapper has failed."
+msgstr "更新 HFS 封装时失败。"
+
+msgid "Usage: %s [OPTION] [DEVICE]...\n"
+msgstr "用法 %s [选项] [设备]...\n"
+
+msgid "User-Mode Linux UBD"
+msgstr "用户模式 Linux 分区"
+
+msgid "Using %s\n"
+msgstr "使用 %s\n"
+
+msgid "Version %d of HFS+ isn't supported."
+msgstr "不支持版本为 %d 的HFS+。"
+
+msgid "Version %d of HFSX isn't supported."
+msgstr "不支持版本为 %d 的HFSX。"
+
+msgid "Virtio Block Device"
+msgstr "Virtio 块设备"
+
+msgid "Volume label is corrupted"
+msgstr "卷标已被破坏"
+
+msgid "WARNING: You are not superuser.  Watch out for permissions.\n"
+msgstr "警告: 你不是超级用户。请注意权限问题。\n"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid ""
+"Weird block size on device descriptor: %d bytes is not divisible by 512."
+msgstr "设备描述中出现古怪的块大小：%d 字节不能被 512 整除。"
+
+msgid "Weird!  There are 2 partitions map entries!"
+msgstr "奇怪 - 两个分区映射条目！"
+
+msgid "Welcome to GNU Parted! Type 'help' to view a list of commands.\n"
+msgstr "欢迎使用 GNU Parted! 输入 'help'可获得命令列表.\n"
+
+msgid "Would you like to use FAT32?"
+msgstr "您是否愿意使用 FAT32？"
+
+msgid "Written by %s and %s.\n"
+msgstr "由 %s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s、\n"
+"%s、%s、和其他人编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s、\n"
+"%s、和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s\n"
+"和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由 %s、%s、%s 和\n"
+"%s 编写。\n"
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr "由 %s、%s 和 %s 编写。\n"
+
+msgid "Written by %s.\n"
+msgstr "由 %s 编写。\n"
+
+msgid "Xen Virtual Block Device"
+msgstr "Xen虚拟块设备"
+
+msgid "Yes"
+msgstr "是"
+
+msgid ""
+"You need %s of free disk space to shrink this partition to this size.  "
+"Currently, only %s is free."
+msgstr "您需要 %s 的空闲空间来将此分区收缩到这一大小 (您目前只有 %s 的空闲空间)"
+
+msgid ""
+"You should reinstall your boot loader before rebooting.  Read section 4 of "
+"the Parted User documentation for more information."
+msgstr "您应该在重新启动之前重新安装您的启动管理器。详情请阅读 Parted 用户文档的第四节。"
+
+msgid "^[nN]"
+msgstr "^[nN]"
+
+msgid "^[yY]"
+msgstr "^[yY]"
+
+msgid "`"
+msgstr "`"
+
+msgid "bios_grub"
+msgstr "bios_grub"
+
+msgid "boot"
+msgstr "启动"
+
+msgid "checking for bad blocks"
+msgstr "检查坏块"
+
+msgid "displays the version"
+msgstr "显示版本"
+
+msgid "displays this help message"
+msgstr "显示此求助信息"
+
+msgid "extended"
+msgstr "扩展分区"
+
+msgid "fat_table_alloc_cluster: no free clusters"
+msgstr "fat_table_alloc_cluster：没有空闲簇"
+
+msgid "fat_table_get: cluster %ld outside file system"
+msgstr "fat_table_get：簇 %ld 处于文件系统之外"
+
+msgid "fat_table_set: cluster %ld outside file system"
+msgstr "fat_table_set：簇 %ld 处于文件系统之外"
+
+msgid "free"
+msgstr "空闲空间"
+
+msgid "help"
+msgstr "help"
+
+msgid "hidden"
+msgstr "隐藏分区"
+
+msgid "hp-service"
+msgstr "hp服务"
+
+msgid "ioctl() error"
+msgstr "ioctl() 错误"
+
+msgid "lba"
+msgstr "lba"
+
+msgid "logical"
+msgstr "逻辑分区"
+
+msgid "lvm"
+msgstr "lvm"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid "metadata"
+msgstr "元数据"
+
+msgid "mklabel"
+msgstr "mklabel"
+
+msgid "mkpart"
+msgstr "mkpart"
+
+msgid "mkpart PART-TYPE [FS-TYPE] START END     make a partition"
+msgstr "mkpart 分区类型 [文件系统类型] 起始点 终止点      创建一个分区"
+
+msgid "msftres"
+msgstr "msftres"
+
+msgid "name"
+msgstr "name"
+
+msgid "name NUMBER NAME                         name partition NUMBER as NAME"
+msgstr "name NUMBER 名称               将编号为NUMBER 的分区命名为“名称”"
+
+msgid "never prompts for user intervention"
+msgstr "从不提示用户"
+
+msgid "off"
+msgstr "关"
+
+msgid "on"
+msgstr "开"
+
+msgid "open error"
+msgstr "打开错误"
+
+msgid "palo"
+msgstr "palo"
+
+msgid "ped_device_new()  Unsupported device type"
+msgstr "ped_device_new()  不支持的设备类型"
+
+msgid "prep"
+msgstr "预备"
+
+msgid "primary"
+msgstr "主分区"
+
+msgid "print"
+msgstr "print"
+
+msgid "quit"
+msgstr "quit"
+
+msgid "quit                                     exit program"
+msgstr "quit                          退出程序"
+
+msgid "raid"
+msgstr "raid"
+
+msgid "read error"
+msgstr "读取错误"
+
+msgid "rescue"
+msgstr "rescue"
+
+msgid ""
+"rescue START END                         rescue a lost partition near START "
+"and END"
+msgstr "rescue 起始点 终止点  挽救临近“起始点”、“终止点”的遗失的分区"
+
+msgid "resize"
+msgstr "resize"
+
+msgid "rm"
+msgstr "rm"
+
+msgid "rm NUMBER                                delete partition NUMBER"
+msgstr "rm MINOR                      删除编号为 MINOR 的分区"
+
+msgid "root"
+msgstr "根"
+
+msgid "searching for file systems"
+msgstr "正在搜索文件系统"
+
+msgid "seek error"
+msgstr "搜索错误"
+
+msgid "select"
+msgstr "select"
+
+msgid "select DEVICE                            choose the device to edit"
+msgstr "选择设备  选择要编辑的设备"
+
+msgid "set"
+msgstr "set"
+
+msgid "shrinking"
+msgstr "正在缩小"
+
+msgid "shrinking embedded HFS+ volume"
+msgstr "正在收缩嵌入的 HFS+ 卷"
+
+msgid "swap"
+msgstr "对换分区"
+
+msgid "toggle"
+msgstr "切换"
+
+msgid ""
+"toggle [NUMBER [FLAG]]                   toggle the state of FLAG on "
+"partition NUMBER"
+msgstr "toggle [NUMBER [FLAG]]                   切换分区 NUMBER 的 FLAG 标记"
+
+msgid "unit"
+msgstr "单位"
+
+msgid "version"
+msgstr "版本"
+
+msgid "write error"
+msgstr "写入错误"
+
+msgid "writing HFS+ Volume Header"
+msgstr "正在写入 HFS+ 卷头"

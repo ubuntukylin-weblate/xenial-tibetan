@@ -1,0 +1,1657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tar 1.26\n"
+"Report-Msgid-Bugs-To: bug-tar@gnu.org\n"
+"POT-Creation-Date: 2014-07-27 23:35+0300\n"
+"PO-Revision-Date: 2015-12-04 22:45+0000\n"
+"Last-Translator: Ji ZhengYu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:07+0000\n"
+
+msgid ""
+"\n"
+"*This* tar defaults to:\n"
+msgstr ""
+"\n"
+"此 tar 默认为:\n"
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"这是自由软件：您可以自由地更改并重新发布它。\n"
+"在法律所允许的范围内不含任何担保。\n"
+"\n"
+
+msgid ""
+"\n"
+"Report bugs to: %s\n"
+msgstr ""
+"\n"
+"将错误报告发送到: %s。翻译错误报告给 <i18n-zh@googlegroups.com>\n"
+
+msgid "  or: "
+msgstr "  或: "
+
+msgid " !             Spawn a subshell\n"
+msgstr " !             衍生出一个子 shell\n"
+
+msgid " ?             Print this list\n"
+msgstr " ?             打印此列表\n"
+
+msgid " [OPTION...]"
+msgstr " [选项...]"
+
+msgid " link to %s\n"
+msgstr " 连接到 %s\n"
+
+msgid ""
+" n name        Give a new file name for the next (and subsequent) volume(s)\n"
+" q             Abort tar\n"
+" y or newline  Continue operation\n"
+msgstr ""
+" n [name]\t给下一卷(及以后的卷)取一个新文件名\n"
+" q\t\t终止 tar\n"
+" y or newline\t继续操作\n"
+
+msgid " unknown file type %s\n"
+msgstr " 未知的文件类型 %s\n"
+
+msgid "%.*s: ARGP_HELP_FMT parameter must be positive"
+msgstr "%.*s: ARGP_HELP_FMT 参数值必须为正"
+
+msgid "%.*s: ARGP_HELP_FMT parameter requires a value"
+msgstr "%.*s: ARGP_HELP_FMT 参数需要一个值"
+
+msgid "%.*s: Unknown ARGP_HELP_FMT parameter"
+msgstr "%.*s: 未知的 ARGP_HELP_FMT 参数"
+
+msgid "%s command failed"
+msgstr "%s 命令失败"
+
+msgid "%s home page: <%s>\n"
+msgstr "%s 主页: <%s>\n"
+
+msgid "%s home page: <http://www.gnu.org/software/%s/>\n"
+msgstr "%s 主页: <http://www.gnu.org/software/%s/>\n"
+
+msgid "%s is not continued on this volume"
+msgstr "%s 在本卷中不连续"
+
+msgid ""
+"%s is possibly continued on this volume: header contains truncated name"
+msgstr "%s 在本卷可能连续: 头部包含截短的名字"
+
+msgid "%s is the wrong size (%s != %s + %s)"
+msgstr "%s 的大小错误 (%s != %s + %s)"
+
+msgid "%s: Cannot %s"
+msgstr "%s：无法 %s"
+
+msgid "%s: Cannot change mode to %s"
+msgstr "%s：无法将模式改为 %s"
+
+msgid "%s: Cannot change ownership to uid %lu, gid %lu"
+msgstr "%s：无法将所有权改为 uid %lu，gid %lu"
+
+msgid "%s: Cannot create symlink to %s"
+msgstr "%s：无法创建到 %s 的符号连接"
+
+msgid "%s: Cannot extract -- file is continued from another volume"
+msgstr "%s：无法展开 -- 文件一直延伸至另一卷中"
+
+msgid "%s: Cannot hard link to %s"
+msgstr "%s：无法硬连接到 %s"
+
+msgid "%s: Cannot remove"
+msgstr "%s：无法删除"
+
+msgid "%s: Cannot rename to %s"
+msgstr "%s：无法重命名为 %s"
+
+msgid "%s: Cannot seek to %s"
+msgstr "%s：无法定位到 %s"
+
+msgid "%s: Deleting %s\n"
+msgstr "%s：正在删除 %s\n"
+
+msgid "%s: Directory has been renamed"
+msgstr "%s：目录已被改名"
+
+msgid "%s: Directory has been renamed from %s"
+msgstr "%s：目录已改名，不再是 %s"
+
+msgid "%s: Directory is new"
+msgstr "%s：目录是新的"
+
+msgid "%s: Directory renamed before its status could be extracted"
+msgstr "%s：目录名在状态信息被获取之前改变了"
+
+msgid "%s: File removed before we read it"
+msgstr "%s：文件在我们读入之前被删除了"
+
+msgid "%s: File shrank by %s byte"
+msgid_plural "%s: File shrank by %s bytes"
+msgstr[0] "%s：文件缩小 %s 字节"
+
+msgid "%s: File shrank by %s byte; padding with zeros"
+msgid_plural "%s: File shrank by %s bytes; padding with zeros"
+msgstr[0] "%s：文件缩小 %s 字节；用零填充"
+
+msgid "%s: Invalid archive format"
+msgstr "%s：无效的归档格式"
+
+msgid "%s: Not found in archive"
+msgstr "%s：归档中找不到"
+
+msgid "%s: Not purging directory: unable to stat"
+msgstr "%s：未清除目录：无法 stat"
+
+msgid "%s: Omitting"
+msgstr "%s：忽略"
+
+msgid "%s: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%1$s：读入 %3$lu 字节时，在 %2$s 字节处发生读错误"
+
+msgid "%s: Required occurrence not found in archive"
+msgstr "%s：没有在归档中找到需要的"
+
+msgid "%s: Too many arguments\n"
+msgstr "%s：参数过多\n"
+
+msgid "%s: Unexpected inconsistency when making directory"
+msgstr "%s：创建目录时出现意外的不一致"
+
+msgid "%s: Unknown file type '%c', diffed as normal file"
+msgstr "%s：未知的文件类型“%c”，与普通文件不同"
+
+msgid "%s: Unknown file type '%c', extracted as normal file"
+msgstr "%s：未知的文件类型“%c”，作为普通文件进行展开"
+
+msgid "%s: Unknown file type; file ignored"
+msgstr "%s：未知的文件类型；忽略文件"
+
+msgid "%s: Volume label is too long (limit is %lu byte)"
+msgid_plural "%s: Volume label is too long (limit is %lu bytes)"
+msgstr[0] "%s：卷标过长 (限制为 %lu 字节)"
+
+msgid "%s: Warning: Cannot %s"
+msgstr "%s：警告：无法 %s"
+
+msgid "%s: Warning: Cannot seek to %s"
+msgstr "%s：警告：无法定位到 %s"
+
+msgid "%s: Warning: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Warning: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%1$s：警告：读入 %3$lu 字节时，在 %2$s 字节处发生读错误"
+
+msgid "%s: Was unable to backup this file"
+msgstr "%s：无法备份该文件"
+
+msgid "%s: Wrote only %lu of %lu byte"
+msgid_plural "%s: Wrote only %lu of %lu bytes"
+msgstr[0] "%1$s：只写入了 %3$lu 个中的 %2$lu 个字节"
+
+msgid "%s: contains a cache directory tag %s; %s"
+msgstr "%s: 包含一个缓存目录标识 %s；%s"
+
+msgid "%s: contains invalid volume number"
+msgstr "%s：包含无效的卷编号"
+
+msgid "%s: directory is on a different device: not purging"
+msgstr "%s: 目录在不同的设备上: 未清除"
+
+msgid "%s: door ignored"
+msgstr "%s: 忽略权限"
+
+msgid "%s: file changed as we read it"
+msgstr "%s: 在我们读入文件时文件发生了变化"
+
+msgid "%s: file is on a different filesystem; not dumped"
+msgstr "%s：文件在不同的文件系统上；未输出"
+
+msgid "%s: file is the archive; not dumped"
+msgstr "%s: 文件是归档文件；未输出"
+
+msgid "%s: file is unchanged; not dumped"
+msgstr "%s: 文件未改变；未输出"
+
+msgid "%s: file name is too long (cannot be split); not dumped"
+msgstr "%s：文件名太长(不能被分割)；未输出"
+
+msgid "%s: file name is too long (max %d); not dumped"
+msgstr "%s：文件名太长(最长 %d)；未输出"
+
+msgid "%s: file name read contains nul character"
+msgstr "%s: 读取的文件名含有空字符"
+
+msgid ""
+"%s: file name too long to be stored in a GNU multivolume header, truncated"
+msgstr "%s: 文件名太长而无法贮存在 GNU 多卷头，已被截短"
+
+msgid "%s: implausibly old time stamp %s"
+msgstr "%s：不可信的旧时间戳 %s"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s: 无效选项 -- \"%c\"\n"
+
+msgid "%s: link name is too long; not dumped"
+msgstr "%s：连接名太长；未输出"
+
+msgid "%s: not a valid timeout"
+msgstr "%s: 无效的超时设置"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s: 选项\"%c%s\"不需要参数\n"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s: 选项\"--%s\"不需要参数\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s: 选项\"%s\"需要带参数\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s: 选项\"-W %s\"不要参数\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s: 选项\"-W %s\"具有歧义\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s: 选项\"%s\"需要带参数\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s: 选项需要参数 -- \"%c\"\n"
+
+msgid "%s: socket ignored"
+msgstr "%s: 忽略套接字(socket)"
+
+msgid "%s: time stamp %s is %s s in the future"
+msgstr "%s：时间戳 %s 是未来的 %s 秒之后"
+
+msgid "%s: unknown checkpoint action"
+msgstr "%s: 未知的检查点操作"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s: 无法识别的选项\"%c%s\"\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s: 无法识别的选项\"--%s\"\n"
+
+msgid "'"
+msgstr "”"
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid "(PROGRAM ERROR) No version known!?"
+msgstr "(程序错误)未知版本！？"
+
+msgid "(PROGRAM ERROR) Option should have been recognized!?"
+msgstr "(程序错误)选项可否被识别！？"
+
+msgid "(pipe)"
+msgstr "(管道)"
+
+msgid "--Continued at byte %s--\n"
+msgstr "--从 %s 字节继续--\n"
+
+msgid "--Long Link--\n"
+msgstr "--长连接--\n"
+
+msgid "--Long Name--\n"
+msgstr "--长名--\n"
+
+msgid "--Volume Header--\n"
+msgstr "--卷头--\n"
+
+msgid "--atime-preserve='system' is not supported on this platform"
+msgstr "此平台不支持 --atime-preserve=‘system’"
+
+msgid "--checkpoint value is not an integer"
+msgstr "--checkpoint 值不是个整数"
+
+msgid "--level is meaningless without --listed-incremental"
+msgstr "没有 --listed-incremental 选项的话 --level 选项是无意义的"
+
+msgid "--occurrence is meaningless without a file list"
+msgstr "没有一个文件列表时 --occurrence 是没有意义的"
+
+msgid "--pax-option can be used only on POSIX archives"
+msgstr "--pax-option 只能用于 POSIX 归档中"
+
+msgid "--stat requires file names"
+msgstr "--stat 选项需要文件名"
+
+msgid "-T reads null-terminated names"
+msgstr "-T 读取以 NULL 终止的名字"
+
+msgid "-T reads null-terminated names, disable -C"
+msgstr "-T 读取以空终止的名字，-C 禁用"
+
+msgid "A lone zero block at %s"
+msgstr "在 %s 处一个单独的零块"
+
+msgid "ACTION"
+msgstr "ACTION"
+
+msgid "ARCHIVE"
+msgstr "ARCHIVE"
+
+msgid "ARGP_HELP_FMT: %s value is less than or equal to %s"
+msgstr "ARGP_HELP_FMT: %s 的值小于或者等于 %s"
+
+msgid "Append SIZE bytes to FILE. SIZE is given by previous --length option."
+msgstr "添加 SIZE 字节至 FILE。SIZE 由前面的 --length 选项指定。"
+
+msgid "Archive base-256 value is out of %s range"
+msgstr "归档的 base-256 值超出范围 %s"
+
+msgid "Archive contains %.*s where numeric %s value expected"
+msgstr "归档包含 %.*s 而需要数字值 %s"
+
+msgid "Archive contains file names with leading prefixes removed."
+msgstr "归档包含带有被移除前导字符的文件名。"
+
+msgid "Archive contains obsolescent base-64 headers"
+msgstr "归档包含过时的 base-64 头"
+
+msgid "Archive contains transformed file names."
+msgstr "归档中有文件被改名。"
+
+msgid "Archive format selection:"
+msgstr "选择归档格式:"
+
+msgid "Archive is compressed. Use %s option"
+msgstr "归档被压缩。使用 %s 选项"
+
+msgid "Archive label mismatch"
+msgstr "归档卷标不匹配"
+
+msgid "Archive not labeled to match %s"
+msgstr "归档未被标记为匹配 %s"
+
+msgid "Archive octal value %.*s is out of %s range"
+msgstr "归档八进制值 %.*s 超出 %s 的范围"
+
+msgid "Archive octal value %.*s is out of %s range; assuming two's complement"
+msgstr "归档的八进制值 %.*s 超出范围 %s；假定为其二进制补码"
+
+msgid "Archive signed base-64 string %s is out of %s range"
+msgstr "归档签署的 base-64 字符串 %s 超出范围 %s"
+
+msgid "Archive value %s is out of %s range %s..%s"
+msgstr "归档值 %s 超出 %s 的范围 %s..%s"
+
+msgid "At beginning of tape, quitting now"
+msgstr "处于磁带的起点，现在退出"
+
+msgid "Attempting extraction of symbolic links as hard links"
+msgstr "正试图将符号连接展开为硬连接"
+
+msgid "BLOCKS"
+msgstr "BLOCKS"
+
+msgid "BLOCKS x 512 bytes per record"
+msgstr "每个记录 BLOCKS x 512 字节"
+
+msgid "Bad incremental file format"
+msgstr "文件格式错误增量"
+
+msgid "Blanks in header where numeric %s value expected"
+msgstr "头中需要数值 %s 处为空白符"
+
+msgid "Byte count out of range"
+msgstr "字节数超出范围"
+
+msgid "CHANGES"
+msgstr "CHANGES"
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "CONTROL"
+msgstr "CONTROL"
+
+msgid "Cannot backspace archive file; it may be unreadable without -i"
+msgstr "无法倒回归档文件；如果没有 -i 可能无法读入它"
+
+msgid "Cannot concatenate compressed archives"
+msgstr "无法联结压缩归档文件"
+
+msgid "Cannot connect to %s: resolve failed"
+msgstr "无法连接至 %s: 解析失败"
+
+msgid "Cannot create temporary directory using template %s"
+msgstr "无法通过模板 %s 创建临时目录"
+
+msgid "Cannot execute remote shell"
+msgstr "无法执行远程 shell"
+
+msgid "Cannot rename %s to %s"
+msgstr "无法将 %s 重命名为 %s"
+
+msgid "Cannot update compressed archives"
+msgstr "无法更新压缩归档文件"
+
+msgid "Cannot use multi-volume compressed archives"
+msgstr "无法使用多卷压缩归档文件"
+
+msgid "Cannot verify compressed archives"
+msgstr "无法检验压缩归档文件"
+
+msgid "Cannot verify multi-volume archives"
+msgstr "无法检验多卷归档文件"
+
+msgid "Cannot verify stdin/stdout archive"
+msgstr "无法验证标准输入/标准输出归档文件"
+
+msgid "Command dumped core\n"
+msgstr "命令输出 core\n"
+
+msgid "Command exited successfully\n"
+msgstr "命令成功退出\n"
+
+msgid "Command failed with status %d\n"
+msgstr "命令出错，状态 %d\n"
+
+msgid "Command stopped on signal %d\n"
+msgstr "命令由信号 %d 停止了\n"
+
+msgid "Command terminated\n"
+msgstr "命令终止\n"
+
+msgid "Command terminated on signal %d\n"
+msgstr "命令由信号 %d 终止了\n"
+
+msgid "Compatibility options:"
+msgstr "兼容性选项:"
+
+msgid "Compression options:"
+msgstr "压缩选项:"
+
+msgid "Conflicting compression options"
+msgstr "压缩选项冲突"
+
+msgid "Contents differ"
+msgstr "内容不同"
+
+msgid "Could only read %lu of %lu byte"
+msgid_plural "Could only read %lu of %lu bytes"
+msgstr[0] "仅能读入 %2$lu 中的 %1$lu 个字节"
+
+msgid "Cowardly refusing to create an empty archive"
+msgstr "谨慎地拒绝创建空归档文件"
+
+msgid "Create file of the given SIZE"
+msgstr "创建指定 SIZE 的文件"
+
+msgid "Creating directory:"
+msgstr "正在创建目录："
+
+msgid "Current %s is newer or same age"
+msgstr "当前的“%s”更新或一样新"
+
+msgid "DATE"
+msgstr "DATE"
+
+msgid "DATE-OR-FILE"
+msgstr "DATE-OR-FILE"
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Date sample file not found"
+msgstr "找不到数据样板文件"
+
+msgid "Deleting non-header from archive"
+msgstr "从归档文件中删除非头信息"
+
+msgid "Device blocking:"
+msgstr "设备分块:"
+
+msgid "Device number differs"
+msgstr "设备号不同"
+
+msgid "Device selection and switching:"
+msgstr "设备选择和切换:"
+
+msgid "Display executed checkpoints and exit status of COMMAND"
+msgstr "显示执行的 checkpoints 以及 COMMAND 的退出状态"
+
+msgid "EOF where user reply was expected"
+msgstr "需得到用户应答时文件结束"
+
+msgid "EXPRESSION"
+msgstr "EXPRESSION"
+
+msgid "Error parsing number near `%s'"
+msgstr "“%s”附近解析数字错误"
+
+msgid ""
+"Execute ARGS. Useful with --checkpoint and one of --cut, --append, --touch, "
+"--unlink"
+msgstr "执行 ARGS。与 --checkpoint 或 --cut，--append，--touch 中的一个一起使用时有用"
+
+msgid "Execute COMMAND"
+msgstr "执行 COMMAND"
+
+msgid "Exiting with failure status due to previous errors"
+msgstr "由于前次错误，将以上次的错误状态退出"
+
+msgid "Extended header %s=%s is out of range %s..%s"
+msgstr "扩展头 %s=%s 超出范围 %s..%s"
+
+msgid "Extended header length %*s is out of range"
+msgstr "扩展头长度 %*s 超出范围"
+
+msgid "Extracting contiguous files as regular files"
+msgstr "展开紧邻的文件为普通文件"
+
+msgid "FILE"
+msgstr "FILE"
+
+msgid "FORMAT"
+msgstr "FORMAT"
+
+msgid "FORMAT is one of the following:"
+msgstr "FORMAT 是以下格式中的一种:"
+
+msgid "File creation options:"
+msgstr "文件创建选项:"
+
+msgid "File name matching options (affect both exclude and include patterns):"
+msgstr "文件名匹配选项(同时影响排除和包括模式串):"
+
+msgid "File name not specified. Try again.\n"
+msgstr "未指定文件名。重试。\n"
+
+msgid "File name transformations:"
+msgstr "文件名变换:"
+
+msgid "File statistics options:"
+msgstr "文件统计选项:"
+
+msgid "File type differs"
+msgstr "文件类型不同"
+
+msgid "Fill the file with the given PATTERN. PATTERN is 'default' or 'zeros'"
+msgstr "以指定的 PATTERN 填充文件。PATTERN 可以是‘default’或是‘zeros’"
+
+msgid "GNU features wanted on incompatible archive format"
+msgstr "在不兼容的归档格式上需要 GNU 特征"
+
+msgid "GNU format as per tar <= 1.12"
+msgstr "GNU 格式 as per tar <= 1.12"
+
+msgid "GNU tar 1.13.x format"
+msgstr "GNU tar 1.13.x 格式"
+
+msgid "Garbage command"
+msgstr "垃圾命令"
+
+msgid "Garbage in ARGP_HELP_FMT: %s"
+msgstr "ARGP_HELP_FMT 中的参数错误: %s"
+
+msgid "General help using GNU software: <http://www.gnu.org/gethelp/>\n"
+msgstr "GNU 软件的通用帮助: <http://www.gnu.org/gethelp/>\n"
+
+msgid "Generate sparse file. Rest of the command line gives the file map."
+msgstr "生成稀疏文件。命令行其余选项指定 map 文件。"
+
+msgid "Generated keyword/value pair is too long (keyword=%s, length=%s)"
+msgstr "生成的关键字/值对太长了(keyword=%s, length=%s)"
+
+msgid "Generating negative octal headers"
+msgstr "正在生成负八进制头"
+
+msgid "Gid differs"
+msgstr "Gid 不同"
+
+msgid "Handling of file attributes:"
+msgstr "操作文件属性:"
+
+msgid "Informative output:"
+msgstr "提示性输出:"
+
+msgid "Invalid byte count"
+msgstr "无效的字节数"
+
+msgid "Invalid device number"
+msgstr "无效的设备号"
+
+msgid "Invalid incremental level value"
+msgstr "无效的增量度"
+
+msgid "Invalid inode number"
+msgstr "无效的 inode 号"
+
+msgid "Invalid input. Type ? for help.\n"
+msgstr "无效输入。输入 ? 显示帮助。\n"
+
+msgid "Invalid mode given on option"
+msgstr "选项中给出无效的访问模式"
+
+msgid "Invalid modification time (nanoseconds)"
+msgstr "无效的修改时间(纳秒)"
+
+msgid "Invalid number"
+msgstr "无效的数字"
+
+msgid "Invalid number of elements"
+msgstr "无效的元素数"
+
+msgid "Invalid operation code"
+msgstr "无效操作模式"
+
+msgid "Invalid record size"
+msgstr "无效的记录大小"
+
+msgid "Invalid seek direction"
+msgstr "无效的查寻方向"
+
+msgid "Invalid seek offset"
+msgstr "无效的查寻偏移量"
+
+msgid "Invalid size: %s"
+msgstr "无效的值: %s"
+
+msgid "Invalid tape length"
+msgstr "无效的磁带长度"
+
+msgid "Invalid time stamp"
+msgstr "无效的时间戳"
+
+msgid "Invalid value for record_size"
+msgstr "record_size 的无效值"
+
+msgid "KEYWORD"
+msgstr "KEYWORD"
+
+msgid "Keyword %s cannot be overridden"
+msgstr "不能覆盖关键字 %s"
+
+msgid "Keyword %s is unknown or not yet implemented"
+msgstr "关键字 %s 未知或还未实现"
+
+msgid "Local file selection:"
+msgstr "本地文件选择:"
+
+msgid "MAJOR[.MINOR]"
+msgstr "MAJOR[.MINOR]"
+
+msgid "MEMBER-NAME"
+msgstr "MEMBER-NAME"
+
+msgid "METHOD"
+msgstr "METHOD"
+
+msgid "Main operation mode:"
+msgstr "主操作模式:"
+
+msgid "Malformed density argument: %s"
+msgstr "错误的压缩参数: %s"
+
+msgid "Malformed dumpdir: 'T' not preceeded by 'R'"
+msgstr "错误的 dumpdir: “R”后未紧接着用“T”"
+
+msgid "Malformed dumpdir: 'X' duplicated"
+msgstr "错误的 dumpdir: 重复的“X”"
+
+msgid "Malformed dumpdir: 'X' never used"
+msgstr "错误的 dumpdir: 从未用过“X”"
+
+msgid "Malformed dumpdir: empty name in 'R'"
+msgstr "错误的 dumpdir: “R”中有空名字"
+
+msgid "Malformed dumpdir: empty name in 'T'"
+msgstr "错误的 dumpdir: “T”中有空名字"
+
+msgid "Malformed dumpdir: expected '%c' but found %#3o"
+msgstr "错误的 dumpdir: 需要“%c”但实际为 %#3o"
+
+msgid "Malformed dumpdir: expected '%c' but found end of data"
+msgstr "错误的 dumpdir: 需要“%c”但实际为数据结尾"
+
+msgid "Malformed extended header: excess %s=%s"
+msgstr "异常的扩展头：超过 %s=%s"
+
+msgid "Malformed extended header: invalid %s: odd number of values"
+msgstr "异常的扩展头：非法的 %s：奇数值"
+
+msgid "Malformed extended header: invalid %s: unexpected delimiter %c"
+msgstr "异常的扩展头：非法的 %s：意外的分隔符 %c"
+
+msgid "Malformed extended header: invalid %s=%s"
+msgstr "错误的扩展头: %s=%s 无效"
+
+msgid "Malformed extended header: missing blank after length"
+msgstr "错误的扩展头: length 后缺少空白符"
+
+msgid "Malformed extended header: missing equal sign"
+msgstr "错误的扩展头: 缺少等于符号"
+
+msgid "Malformed extended header: missing length"
+msgstr "错误的扩展头: 缺少 length"
+
+msgid "Malformed extended header: missing newline"
+msgstr "错误的扩展头: 缺少空行"
+
+msgid ""
+"Mandatory or optional arguments to long options are also mandatory or "
+"optional for any corresponding short options."
+msgstr "长选项和相应短选项具有相同的强制参数或可选参数。"
+
+msgid "Manipulate a tape drive, accepting commands from a remote process"
+msgstr "接受远程程序的命令操作磁带机"
+
+msgid "Missing links to %s."
+msgstr "缺少到 %s 的连接。"
+
+msgid "Missing record terminator"
+msgstr "缺少记录终止符"
+
+msgid "Mod time differs"
+msgstr "修改时间不同"
+
+msgid "Mode differs"
+msgstr "访问模式不同"
+
+msgid "More than one threshold date"
+msgstr "多于一个时间阈值"
+
+msgid "NAME"
+msgstr "名称"
+
+msgid "NUMBER"
+msgstr "NUMBER"
+
+msgid "NUMBER of bytes per record, multiple of 512"
+msgstr "每个记录的字节数 NUMBER，乘以 512"
+
+msgid "Negative size: %s"
+msgstr "负值: %s"
+
+msgid "No archive name given"
+msgstr "未给出归档文件名"
+
+msgid "No new volume; exiting.\n"
+msgstr "没有新的卷；退出。\n"
+
+msgid "Not linked to %s"
+msgstr "没有连接到 %s"
+
+msgid "Number out of allowed range: %s"
+msgstr "数值超出所允许的范围: %s"
+
+msgid "OFFSET"
+msgstr "OFFSET"
+
+msgid "OPTION"
+msgstr "OPTION"
+
+msgid "Only one --to-command option allowed"
+msgstr "仅允许使用一个 --to-command 选项"
+
+msgid "Only one -C option is allowed with --listed-incremental"
+msgstr "仅一个 -C 选项允许与  --listed-incremental 合用"
+
+msgid "Operation modifiers:"
+msgstr "操作修饰符:"
+
+msgid "Operation not supported"
+msgstr "不支持的操作"
+
+msgid "Other options:"
+msgstr "其它选项:"
+
+msgid "Overwrite control:"
+msgstr "重写控制:"
+
+msgid "PATTERN"
+msgstr "PATTERN"
+
+msgid "POSIX 1003.1-1988 (ustar) format"
+msgstr "POSIX 1003.1-1988 (ustar) 格式"
+
+msgid "POSIX 1003.1-2001 (pax) format"
+msgstr "POSIX 1003.1-2001 (pax) 格式"
+
+msgid "PROG"
+msgstr "PROG"
+
+msgid "Packaged by %s\n"
+msgstr "由 %s 打包\n"
+
+msgid "Packaged by %s (%s)\n"
+msgstr "由 %s (%s) 打包\n"
+
+msgid "Pattern %s cannot be used"
+msgstr "不能使用模式 %s"
+
+msgid "Pattern matching characters used in file names"
+msgstr "文件名中所使用的字符匹配模式"
+
+msgid "Perform given action (see below) upon reaching checkpoint NUMBER"
+msgstr "只要达到 checkpoint NUMBER 指定的数值就执行指定的操作(见下)"
+
+msgid "Premature eof"
+msgstr "文件结尾出现过早"
+
+msgid "Prepare volume #%d for %s and hit return: "
+msgstr "为 %2$s 准备卷 #%1$d 并按回车： "
+
+msgid "Print contents of struct stat for each given file. Default FORMAT is: "
+msgstr "打印每个给定文件的 stat 结构定义的内容。默认 FORMAT 是: "
+
+msgid "Read checkpoint %u"
+msgstr "读取操作的检查点 %u"
+
+msgid "Read file names from FILE"
+msgstr "从 FILE 读取文件名"
+
+msgid "Record size = %lu block"
+msgid_plural "Record size = %lu blocks"
+msgstr[0] "记录大小 = %lu 块"
+
+msgid "Record size must be a multiple of %d."
+msgstr "记录大小必须是 %d 的倍数。"
+
+msgid "Removing leading `%s' from hard link targets"
+msgstr "从硬连接目标中删除开头的“%s”"
+
+msgid "Removing leading `%s' from member names"
+msgstr "从成员名中删除开头的“%s”"
+
+msgid "Renaming %s back to %s\n"
+msgstr "将 %s 的名字改回 %s\n"
+
+msgid "Renaming %s to %s\n"
+msgstr "将 %s 改名为 %s\n"
+
+msgid "Report %s bugs to: %s\n"
+msgstr "将 %s 错误报告发送到: %s\n"
+
+msgid "Report bugs to %s.\n"
+msgstr "将错误报告发送到 %s。\n"
+
+msgid "SECS"
+msgstr "秒"
+
+msgid "SIGNAL"
+msgstr "SIGNAL"
+
+msgid "SIZE"
+msgstr "SIZE"
+
+msgid "STRING"
+msgstr "STRING"
+
+msgid "STYLE"
+msgstr "STYLE"
+
+msgid "Seek direction out of range"
+msgstr "查寻方向超出范围"
+
+msgid "Seek offset out of range"
+msgstr "查寻操作的偏移量超出范围"
+
+msgid "Seek to the given offset before writing data"
+msgstr "在写入数据前定位至指定的偏移位"
+
+msgid "Select output stream:"
+msgstr "选择输出流:"
+
+msgid "Set date for next --touch option"
+msgstr "为下一个 --touch 选项设定日期"
+
+msgid "Size differs"
+msgstr "大小不同"
+
+msgid "Size of a block for sparse file"
+msgstr "稀疏文件的块大小"
+
+msgid "Skipping to next header"
+msgstr "跳转到下一个头"
+
+msgid "Substituting %s for unknown date format %s"
+msgstr "把未知的时间格式 %2$s 替换为 %1$s"
+
+msgid "Substituting `.' for empty hard link target"
+msgstr "为空的硬连接替换“.”"
+
+msgid "Substituting `.' for empty member name"
+msgstr "为空成员名替换“.”"
+
+msgid "Symlink differs"
+msgstr "符号连接不同"
+
+msgid ""
+"Synchronous execution actions. These are executed when checkpoint number "
+"given by --checkpoint option is reached."
+msgstr "同步执行操作。当达到由 --checkpoint 选项指定的 checkpoint 数值时会执行这些操作。"
+
+msgid "Synchronous execution options:"
+msgstr "同步执行选项:"
+
+msgid "TEXT"
+msgstr "TEXT"
+
+msgid ""
+"The --preserve option is deprecated, use --preserve-permissions --preserve-"
+"order instead"
+msgstr "--preserve 选项已经废弃了，请使用 --preserve-permissions --preserve-order 代替"
+
+msgid "This does not look like a tar archive"
+msgstr "它似乎不像是一个 tar 归档文件"
+
+msgid "This volume is out of sequence (%s - %s != %s)"
+msgstr "此卷次序有误（%s - %s != %s）"
+
+msgid "Time stamp is out of allowed range"
+msgstr "时间标记超出允许范围"
+
+msgid "Too many errors, quitting"
+msgstr "错误过多，退出"
+
+msgid "Total bytes read"
+msgstr "总计读取字节数"
+
+msgid "Total bytes written"
+msgstr "总计写入字节数"
+
+msgid ""
+"Truncate FILE to the size specified by previous --length option (or 0, if it"
+" is not given)"
+msgstr "截短 FILE 至由前面 --length 选项指定的大小(如果未指定的话，默认 0)"
+
+msgid "Uid differs"
+msgstr "Uid 不同"
+
+msgid "Unaligned block (%lu byte) in archive"
+msgid_plural "Unaligned block (%lu bytes) in archive"
+msgstr[0] "归档中未对齐的块 (%lu 字节)s"
+
+msgid "Unexpected EOF in archive"
+msgstr "归档文件中异常的 EOF"
+
+msgid "Unexpected EOF in snapshot file"
+msgstr "目录文件中异常的文件结尾(EOF)"
+
+msgid "Unexpected arguments"
+msgstr "参数异常"
+
+msgid "Unexpected long name header"
+msgstr "异常的长名字头部"
+
+msgid "Unknown date format"
+msgstr "未知的数据格式"
+
+msgid "Unknown field `%s'"
+msgstr "未知的文件掩码位“%s”"
+
+msgid "Unknown signal name: %s"
+msgstr "未知的信号名称: %s"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Unlink FILE"
+msgstr "删除 FILE"
+
+msgid "Update the access and modification times of FILE"
+msgstr "更新 FILE 的访问和修改时间"
+
+msgid "Usage:"
+msgstr "用法:"
+
+msgid ""
+"Use --wildcards to enable pattern matching, or --no-wildcards to suppress "
+"this warning"
+msgstr "使用 --wildcards 打开模式匹配，或是 --no-wildcards 来关闭之"
+
+msgid ""
+"Using -C option inside file list is not allowed with --listed-incremental"
+msgstr "在文件列表中 -C 选项与 --listed-incremental 选项不许合用"
+
+msgid "VERIFY FAILURE: %d invalid header detected"
+msgid_plural "VERIFY FAILURE: %d invalid headers detected"
+msgstr[0] "校验失败：检测到 %d 个无效的头"
+
+msgid "Valid arguments are:"
+msgstr "有效的参数为："
+
+msgid "Valid arguments for the --quoting-style option are:"
+msgstr "--quoting-style 选项的有效参数为:"
+
+msgid "Verification may fail to locate original files."
+msgstr "位于原始文件中的验证可能失败。"
+
+msgid "Verify "
+msgstr "校验 "
+
+msgid "Volume %s does not match %s"
+msgstr "卷标 %s 不匹配 %s"
+
+msgid "Volume length cannot be less than record size"
+msgstr "卷长度不可小于记录大小"
+
+msgid "Volume number overflow"
+msgstr "卷编号溢出"
+
+msgid "WARNING: Archive is incomplete"
+msgstr "警告：归档文件不完整"
+
+msgid "Write checkpoint %u"
+msgstr "写入检查点  %u"
+
+msgid "Write to file NAME, instead of standard output"
+msgstr "写入文件 NAME，而不是标准输出"
+
+msgid "Written by %s and %s.\n"
+msgstr "由 %s 和 %s 所写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+"由 %s，%s，%s，\n"
+"%s，%s，%s，%s，\n"
+"%s，%s，和其他人所写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由 %s，%s，%s，\n"
+"%s，%s，%s，%s，\n"
+"%s，和 %s 所写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由 %s，%s，%s，\n"
+"%s，%s，%s，%s，\n"
+"和 %s 所写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+"由 %s，%s，%s，\n"
+"%s，%s，%s，和 %s 所写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+"由 %s，%s，%s，\n"
+"%s，%s，和 %s 所写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由 %s，%s，%s，\n"
+"%s，和 %s 所写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由 %s，%s，%s，\n"
+"和 %s 所写。\n"
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr "由 %s，%s， 和 %s 所写。\n"
+
+msgid "Written by %s.\n"
+msgstr "由 %s 所写。\n"
+
+msgid "[ARGS...]"
+msgstr "[ARGS...]"
+
+msgid "[FILE]..."
+msgstr "[FILE]..."
+
+msgid "^[nN]"
+msgstr "^[nN]"
+
+msgid "^[yY]"
+msgstr "^[yY]"
+
+msgid "`"
+msgstr "“"
+
+msgid "add given FILE to the archive (useful if its name starts with a dash)"
+msgstr "添加指定的 FILE 至归档(如果名字以 - 开始会很有用的)"
+
+msgid "additionally quote characters from STRING"
+msgstr "来自 STRING 的额外的引用字符"
+
+msgid "always use numbers for user/group names"
+msgstr "总是以数字代表用户/组的名称"
+
+msgid "ambiguous argument %s for %s"
+msgstr "%2$s 的参数 %1$s 具有歧义"
+
+msgid "append files to the end of an archive"
+msgstr "追加文件至归档结尾"
+
+msgid "append tar files to an archive"
+msgstr "追加 tar 文件至归档"
+
+msgid ""
+"apply the user's umask when extracting permissions from the archive (default"
+" for ordinary users)"
+msgstr "从归档中解压权限时使用用户的掩码位(默认为普通用户服务)"
+
+msgid "archive file is local even if it has a colon"
+msgstr "即使归档文件存在副本还是把它认为是本地归档"
+
+msgid "archive is not seekable"
+msgstr "归档不可检索"
+
+msgid "archive is seekable"
+msgstr "归档可检索"
+
+msgid "ask for confirmation for every action"
+msgstr "每次操作都要求确认"
+
+msgid "attempt to verify the archive after writing it"
+msgstr "在写入以后尝试校验归档"
+
+msgid "avoid descending automatically in directories"
+msgstr "避免目录中的自动降级"
+
+msgid "backup before removal, choose version CONTROL"
+msgstr "在删除前备份，选择 CONTROL 版本"
+
+msgid ""
+"backup before removal, override usual suffix ('~' unless overridden by "
+"environment variable SIMPLE_BACKUP_SUFFIX)"
+msgstr "在删除前备份，除非被环境变量 SIMPLE_BACKUP_SUFFIX 覆盖，否则覆盖常用后缀(‘’)"
+
+msgid "block %s: "
+msgstr "块 %s： "
+
+msgid "block %s: ** Block of NULs **\n"
+msgstr "块 %s：** 空块 **\n"
+
+msgid "block %s: ** End of File **\n"
+msgstr "块 %s：** 文件结束 **\n"
+
+msgid "cancel the effect of --delay-directory-restore option"
+msgstr "取消 --delay-directory-restore 选项的效果"
+
+msgid "cannot generate sparse files on standard output, use --file option"
+msgstr "使用 --file 选项无法在标准输出上生成离散文件"
+
+msgid "cannot open %s"
+msgstr "无法打开 %s"
+
+msgid "cannot open `%s'"
+msgstr "无法打开“%s”"
+
+msgid "cannot seek"
+msgstr "无法定位"
+
+msgid "cannot set time on `%s'"
+msgstr "无法设定“%s”的时间"
+
+msgid "cannot unlink `%s'"
+msgstr "无法删除 \"%s\""
+
+msgid "case sensitive matching (default)"
+msgstr "匹配大小写(默认)"
+
+msgid "change tape after writing NUMBER x 1024 bytes"
+msgstr "写入 NUMBER × 1024 字节后更换磁带"
+
+msgid "change to directory DIR"
+msgstr "改变至目录 DIR"
+
+msgid "check device numbers when creating incremental archives (default)"
+msgstr "当创建增量归档时检查设备号(默认)"
+
+msgid "child process"
+msgstr "子进程"
+
+msgid "compare date and time when data changed only"
+msgstr "当只有数据改变时比较数据和时间"
+
+msgid "contents not dumped"
+msgstr "未输出内容"
+
+msgid "control pax keywords"
+msgstr "控制 pax 关键字"
+
+msgid "create a new archive"
+msgstr "创建一个新归档"
+
+msgid "create archive of the given format"
+msgstr "创建指定格式的归档"
+
+msgid ""
+"create archive with volume name TEXT; at list/extract time, use TEXT as a "
+"globbing pattern for volume name"
+msgstr "创建带有卷名 TEXT 的归档；在列出/解压时，使用 TEXT 作为卷名的模式串"
+
+msgid "create/list/extract multi-volume archive"
+msgstr "创建/列出/解压多卷归档文件"
+
+msgid "created file is not sparse"
+msgstr "所创建的文件非稀疏文件"
+
+msgid ""
+"delay setting modification times and permissions of extracted directories "
+"until the end of extraction"
+msgstr "直到解压结束才设置修改时间和所解目录的权限"
+
+msgid "delete from the archive (not on mag tapes!)"
+msgstr "从归档(非磁带！)中删除"
+
+msgid "directory not dumped"
+msgstr "未输出目录"
+
+msgid "disable quoting for characters from STRING"
+msgstr "禁用来自 STRING 的字符引用"
+
+msgid "disable the effect of the previous --null option"
+msgstr "禁用上一次的效果 --null 选项"
+
+msgid "disable use of some potentially harmful options"
+msgstr "禁用某些潜在的有危险的选项"
+
+msgid "display progress messages every NUMBERth record (default 10)"
+msgstr "每隔 NUMBER 个记录显示进度信息(默认为 10 个)"
+
+msgid "do not check device numbers when creating incremental archives"
+msgstr "当创建增量归档时不要检查设备号"
+
+msgid "do not exit with nonzero on unreadable files"
+msgstr "当遇上不可读文件时不要以非零值退出"
+
+msgid "do not use archive suffix to determine the compression program"
+msgstr "不使用归档后缀名来决定压缩程序"
+
+msgid "don't extract file modified time"
+msgstr "不要解压文件的修改时间"
+
+msgid "don't replace existing files that are newer than their archive copies"
+msgstr "不要替换比归档中副本更新的已存在的文件"
+
+msgid "dump level for created listed-incremental archive"
+msgstr "所创建的增量列表归档的输出级别"
+
+msgid "empty hierarchies prior to extracting directory"
+msgstr "解压目录之前先清除目录层次"
+
+msgid "exclude backup and lock files"
+msgstr "排除备份和锁文件"
+
+msgid ""
+"exclude contents of directories containing CACHEDIR.TAG, except for the tag "
+"file itself"
+msgstr "除标识文件本身外，排除包含 CACHEDIR.TAG 的目录中的内容"
+
+msgid ""
+"exclude contents of directories containing FILE, except for FILE itself"
+msgstr "除 FILE 自身外，排除包含 FILE 的目录中的内容"
+
+msgid "exclude directories containing CACHEDIR.TAG"
+msgstr "排除包含 CACHEDIR.TAG 的目录"
+
+msgid "exclude directories containing FILE"
+msgstr "排除包含 FILE 的目录"
+
+msgid "exclude everything under directories containing CACHEDIR.TAG"
+msgstr "排除包含 CACHEDIR.TAG 的目录中所有内容"
+
+msgid "exclude everything under directories containing FILE"
+msgstr "排除包含 FILE 的目录中的所有内容"
+
+msgid "exclude files, given as a PATTERN"
+msgstr "排除以 PATTERN 指定的文件"
+
+msgid "exclude patterns listed in FILE"
+msgstr "排除 FILE 中列出的模式串"
+
+msgid "exclude version control system directories"
+msgstr "排除版本控制系统目录"
+
+msgid "exec/tcp: Service not available"
+msgstr "exec/tcp：服务不可用"
+
+msgid "execute ACTION on each checkpoint"
+msgstr "在每个检查点上执行 ACTION"
+
+msgid "extract files as yourself (default for ordinary users)"
+msgstr "将文件解压为您所有(普通用户默认此项)"
+
+msgid "extract files from an archive"
+msgstr "从归档中解出文件"
+
+msgid "extract files to standard output"
+msgstr "解压文件至标准输出"
+
+msgid "extract information about file permissions (default for superuser)"
+msgstr "解压文件权限信息(默认只为超级用户服务)"
+
+msgid "failed to return to initial working directory"
+msgstr "无法回到起始的工作目录"
+
+msgid "file name contains null character"
+msgstr "文件名包含空字符"
+
+msgid "filter the archive through %s"
+msgstr "通过 %s 过滤归档"
+
+msgid "filter through PROG (must accept -d)"
+msgstr "通过 PROG 过滤(必须是能接受 -d 选项的程序)"
+
+msgid "find differences between archive and file system"
+msgstr "找出归档和文件系统的差异"
+
+msgid "follow hard links; archive and dump the files they refer to"
+msgstr "跟踪硬链接；将它们所指向的文件归档并输出"
+
+msgid "follow symlinks; archive and dump the files they point to"
+msgstr "跟踪符号链接；将它们所指向的文件归档并输出"
+
+msgid "force (symbolic) mode CHANGES for added files"
+msgstr "强制将所添加的文件(符号)更改为权限 CHANGES"
+
+msgid "force NAME as group for added files"
+msgstr "强制将 NAME 作为所添加的文件的组所有者"
+
+msgid "force NAME as owner for added files"
+msgstr "强制将 NAME 作为所添加的文件的所有者"
+
+msgid ""
+"genfile manipulates data files for GNU paxutils test suite.\n"
+"OPTIONS are:\n"
+msgstr ""
+"genfile 为 GNU paxutils 测试软件操作数据文件。\n"
+"选项为:\n"
+
+msgid "get names to extract or create from FILE"
+msgstr "从 FILE 中获取文件名来解压或创建文件"
+
+msgid "give a short usage message"
+msgstr "显示简短的用法说明"
+
+msgid "give this help list"
+msgstr "显示此帮助列表"
+
+msgid "handle new GNU-format incremental backup"
+msgstr "处理新式的 GNU 格式的增量备份"
+
+msgid "handle old GNU-format incremental backup"
+msgstr "处理老式的 GNU 格式的增量备份"
+
+msgid "handle sparse files efficiently"
+msgstr "高效处理离散文件"
+
+msgid "hang for SECS seconds (default 3600)"
+msgstr "挂起 SECS 秒(默认 3600)"
+
+msgid "ignore case"
+msgstr "忽略大小写"
+
+msgid "ignore exit codes of children"
+msgstr "忽略子进程的退出代码"
+
+msgid "ignore zeroed blocks in archive (means EOF)"
+msgstr "忽略归档中的零字节块(即文件结尾)"
+
+msgid "incorrect mask (near `%s')"
+msgstr "不正确的掩码(“%s”附近)"
+
+msgid "interprocess channel"
+msgstr "进程内通道"
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s 的参数 %1$s 无效"
+
+msgid "keyword[[:]=value][,keyword[[:]=value]]..."
+msgstr "关键字[[:]=值][,关键字[[:]=值]]..."
+
+msgid "list the contents of an archive"
+msgstr "列出归档内容"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid "old V7 tar format"
+msgstr "old V7 tar 格式"
+
+msgid "only append files newer than copy in archive"
+msgstr "仅追加比归档中副本更新的文件"
+
+msgid "only store files newer than DATE-OR-FILE"
+msgstr "只保存比 DATE-OR-FILE 更新的文件"
+
+msgid "overwrite existing files when extracting"
+msgstr "解压时重写存在的文件"
+
+msgid "overwrite metadata of existing directories when extracting (default)"
+msgstr "解压时重写已存在目录的元数据(默认)"
+
+msgid "patterns match file name start"
+msgstr "模式串匹配文件名头部"
+
+msgid "pipe extracted files to another program"
+msgstr "将解压的文件通过管道传送至另一个程序"
+
+msgid ""
+"preserve access times on dumped files, either by restoring the times after "
+"reading (METHOD='replace'; default) or by not setting the times in the first"
+" place (METHOD='system')"
+msgstr ""
+"在输出的文件上保留访问时间，要么通过在读取(默认 "
+"METHOD=‘replace’)后还原时间，要不就不要在第一次(METHOD=‘system’)设置时间"
+
+msgid "preserve metadata of existing directories"
+msgstr "保留已存在目录的元数据"
+
+msgid "print a message if not all links are dumped"
+msgstr "只要不是所有链接都被输出就打印信息"
+
+msgid "print file modification times in UTC"
+msgstr "以 UTC 格式打印文件修改时间"
+
+msgid "print file time to its full resolution"
+msgstr "按文件原本时间格式打印"
+
+msgid "print program version"
+msgstr "打印程序版本"
+
+msgid ""
+"print total bytes after processing the archive; with an argument - print "
+"total bytes when this SIGNAL is delivered; Allowed signals are: SIGHUP, "
+"SIGQUIT, SIGINT, SIGUSR1 and SIGUSR2; the names without SIG prefix are also "
+"accepted"
+msgstr ""
+"处理归档后打印出总字节数；当此 SIGNAL 被触发时带参数 - 打印总字节数；允许的信号为: "
+"SIGHUP，SIGQUIT，SIGINT，SIGUSR1 和 SIGUSR2；同时也接受不带 SIG 前缀的信号名称"
+
+msgid ""
+"process only the NUMBERth occurrence of each file in the archive; this "
+"option is valid only in conjunction with one of the subcommands --delete, "
+"--diff, --extract or --list and when a list of files is given either on the "
+"command line or via the -T option; NUMBER defaults to 1"
+msgstr ""
+"仅处理归档中每个文件的第 NUMBER 个事件；仅当与以下子命令 --delete, --diff, --extract 或是 --list "
+"中的一个联合使用时，此选项才有效。而且不管文件列表是以命令行形式给出或是通过 -T 选项指定的；NUMBER 值默认为 1"
+
+msgid "read"
+msgstr "读取"
+
+msgid "reblock as we read (for 4.2BSD pipes)"
+msgstr "读取时重新分块(只对 4.2BSD 管道有效)"
+
+msgid "recurse into directories (default)"
+msgstr "目录递归(默认)"
+
+msgid "remove each file prior to extracting over it"
+msgstr "在解压要重写的文件之前先删除它们"
+
+msgid "remove files after adding them to the archive"
+msgstr "在添加文件至归档后删除它们"
+
+msgid "requested file length %lu, actual %lu"
+msgstr "需要文件长度为 %lu，实际为 %lu"
+
+msgid "rmtlseek not stopped at a record boundary"
+msgstr "rmtlseek 未停在记录边界处"
+
+msgid "run script at end of each tape (implies -M)"
+msgstr "在每卷磁带最后运行脚本(隐含 -M)"
+
+msgid "same as --format=posix"
+msgstr "等同于 --format=posix"
+
+msgid "same as --format=v7"
+msgstr "等同于 --format=v7"
+
+msgid "same as both -p and -s"
+msgstr "与 -p 和 -s 一样"
+
+msgid "same as pax"
+msgstr "等同于 pax"
+
+msgid "send verbose output to FILE"
+msgstr "将详细输出发送至 FILE"
+
+msgid "set debug level"
+msgstr "设定调试级别"
+
+msgid "set debug output file name"
+msgstr "设定调试输出文件名"
+
+msgid "set mtime for added files from DATE-OR-FILE"
+msgstr "从 DATE-OR-FILE 中为添加的文件设置 mtime"
+
+msgid "set name quoting style; see below for valid STYLE values"
+msgstr "设置名称引用风格；有效的 STYLE 值请参阅以下说明"
+
+msgid "set the program name"
+msgstr "设置程序名"
+
+msgid "set version of the sparse format to use (implies --sparse)"
+msgstr "设置所用的离散格式版本(隐含 --sparse)"
+
+msgid "show block number within archive with each message"
+msgstr "每个信息都显示归档内的块数"
+
+msgid "show file or archive names after transformation"
+msgstr "显示变换后的文件名或归档名"
+
+msgid "show tar defaults"
+msgstr "显示 tar 默认选项"
+
+msgid "specify drive and density"
+msgstr "指定驱动器和压缩率"
+
+msgid "stat(%s) failed"
+msgstr "stat(%s) 错误"
+
+msgid "stay in local file system when creating archive"
+msgstr "创建归档时保存在本地文件系统中"
+
+msgid "stdin"
+msgstr "标准输入"
+
+msgid "stdout"
+msgstr "标准输出"
+
+msgid "strip NUMBER leading components from file names on extraction"
+msgstr "解压时从文件名中清除 NUMBER 个引导部分"
+
+msgid "test the archive volume label and exit"
+msgstr "测试归档卷标并退出"
+
+msgid "too many arguments"
+msgstr "参数过多"
+
+msgid "treat non-zero exit codes of children as error"
+msgstr "将子进程的非零退出代码认为发生错误"
+
+msgid ""
+"try extracting files with the same ownership as exists in the archive "
+"(default for superuser)"
+msgstr "尝试解压时保持所有者关系一致(超级用户默认此项)"
+
+msgid "unable to record current working directory"
+msgstr "无法记录当前工作目录"
+
+msgid "use archive file or device ARCHIVE"
+msgstr "使用归档文件或 ARCHIVE 设备"
+
+msgid "use archive suffix to determine the compression program"
+msgstr "使用归档后缀名来决定压缩程序"
+
+msgid "use given rmt COMMAND instead of rmt"
+msgstr "使用指定的 rmt COMMAND 代替 rmt"
+
+msgid "use remote COMMAND instead of rsh"
+msgstr "使用远程 COMMAND 代替 rsh"
+
+msgid "use sed replace EXPRESSION to transform file names"
+msgstr "使用 sed 代替 EXPRESSION 来进行文件名变换"
+
+msgid "use wildcards (default for exclusion)"
+msgstr "使用通配符(默认对 exclusion )"
+
+msgid "use/update the volume number in FILE"
+msgstr "使用/更新 FILE 中的卷数"
+
+msgid "value %s out of %s range %s..%s"
+msgstr "值 %s 超出了 %s 的范围 %s..%s"
+
+msgid "value %s out of %s range %s..%s; substituting %s"
+msgstr "值 %s 超出了 %s 的范围 %s..%s；正在替换 %s"
+
+msgid "verbatim string matching"
+msgstr "逐字匹配字符串"
+
+msgid "verbosely list files processed"
+msgstr "详细地列出处理的文件"
+
+msgid "warning control"
+msgstr "警告控制:"
+
+msgid ""
+"when creating, same as --old-archive; when extracting, same as --no-same-"
+"owner"
+msgstr "创建归档时，相当于 --old-archive；展开归档时，相当于 --no-same-owner"
+
+msgid ""
+"when listing or extracting, list each directory that does not match search "
+"criteria"
+msgstr "列表或解压时，列出每个不匹配查找标准的目录"
+
+msgid "write"
+msgstr "写入"
+
+msgid "write did not end on a block boundary"
+msgstr "写操作未在记录边界处终止"
+
+msgid "write error"
+msgstr "写错误"

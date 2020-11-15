@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libnss-db\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2000-09-10 16:37+0200\n"
+"PO-Revision-Date: 2007-06-14 07:45+0000\n"
+"Last-Translator: Feng Chao <chaofeng111@gmail.com>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:52+0000\n"
+
+msgid "Convert key to lower case"
+msgstr "转换按键到小写"
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"This is free software; see the source for copying conditions.  There is NO\n"
+"warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n"
+msgstr ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"\n"
+"这是个自由软件； see the source for copying conditions. There is NO\n"
+"warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n"
+
+msgid "Create simple DB database from textual input."
+msgstr "从输入文本中创建简单的 DB 数据库。"
+
+msgid "Do not print messages while building database"
+msgstr "在构建数据库时不显示信息"
+
+msgid ""
+"INPUT-FILE OUTPUT-FILE\n"
+"-o OUTPUT-FILE INPUT-FILE\n"
+"-u INPUT-FILE"
+msgstr ""
+"INPUT-FILE OUTPUT-FILE\n"
+"-o OUTPUT-FILE INPUT-FILE\n"
+"-u INPUT-FILE"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Print content of database file, one entry a line"
+msgstr "显示数据库文件内容，每行一条记录"
+
+msgid "Report bugs using the `glibcbug' script to <bugs@gnu.org>.\n"
+msgstr "使用 `glibcbug'  脚本将错误报告发送到 <bugs@gnu.org>。\n"
+
+msgid "Write output to file NAME"
+msgstr "输出到文件 NAME"
+
+msgid "Written by %s.\n"
+msgstr "作者：%s。\n"
+
+msgid "cannot open database file `%s': %s"
+msgstr "不能打开数据库文件 `%s'：%s"
+
+msgid "cannot open input file `%s'"
+msgstr "不能打开输入文件 `%s'"
+
+msgid "cannot open output file `%s': %s"
+msgstr "不能打开输出文件 `%s'：%s"
+
+msgid "duplicate key"
+msgstr "复制 key"
+
+msgid "problems while reading `%s'"
+msgstr "在读取 `%s' 时出现问题"
+
+msgid "while reading database: %s"
+msgstr "正在读数据库：%s"
+
+msgid "while writing database file: %s"
+msgstr "正在写数据库文件：%s"
+
+msgid "wrong number of arguments"
+msgstr "错误的参数个数"

@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgphoto2_port\n"
+"Report-Msgid-Bugs-To: gphoto-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2012-03-31 00:03+0200\n"
+"PO-Revision-Date: 2010-03-24 09:33+0000\n"
+"Last-Translator: Jianle Ma <Unknown>\n"
+"Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:48+0000\n"
+
+msgid "'%s' already loaded"
+msgstr "'%s' 已装入"
+
+msgid "Bad parameters"
+msgstr "错误的参数"
+
+msgid "Clear halt..."
+msgstr "清除中止..."
+
+msgid "Could not claim the USB device"
+msgstr "无法请求 USB 设备"
+
+msgid "Could not close '%s' (%m)."
+msgstr "无法关闭‘%s’(%m)。"
+
+msgid "Could not close USB port (%m)."
+msgstr "无法关闭 USB 端口 (%m)。"
+
+msgid ""
+"Could not find USB device (class 0x%x, subclass 0x%x, protocol 0x%x). Make "
+"sure this device is connected to the computer."
+msgstr "无法找到 USB 设备 (类 0x%x、子类 0x%x、协议 0x%x)。确信该设备已连接到计算机。"
+
+msgid ""
+"Could not find USB device (vendor 0x%x, product 0x%x). Make sure this device"
+" is connected to the computer."
+msgstr "无法找到 USB 设备 (供应商 0x%x、产品 0x%x)。确信该设备已连接到计算机。"
+
+msgid "Could not find some functions in '%s': '%s'."
+msgstr "在'%s': '%s'中无法找到函数。"
+
+msgid "Could not find the requested device on the USB port"
+msgstr "无法在 USB 端口找到请求的设备"
+
+msgid "Could not flush '%s' (%m)."
+msgstr "无法刷新‘%s’(%m)。"
+
+msgid "Could not get level of pin %i (%m)."
+msgstr "无法获取插脚 %i 的级别 (%m)。"
+
+msgid "Could not load '%s': '%s'."
+msgstr "无法装入'%s': '%s'。"
+
+msgid "Could not load port driver list: '%s'."
+msgstr "无法装入端口驱动表'%s'。"
+
+msgid "Could not lock device '%s'"
+msgstr "无法锁定设备‘%s’"
+
+msgid "Could not lock the device"
+msgstr "无法锁定设备"
+
+msgid "Could not open USB device (%m)."
+msgstr "无法打开 USB 设备 (%m)。"
+
+msgid "Could not release interface %d (%m)."
+msgstr "无法释放界面 %d (%m)。"
+
+msgid "Could not set config %d/%d (%m)"
+msgstr "无法设定配置 %d/%d (%m)"
+
+msgid "Could not set level of pin %i to %i (%m)."
+msgstr "无法将插脚 %i 的级别设置为 %i (%m)。"
+
+msgid "Could not set the baudrate to %d"
+msgstr "无法设置将波特率设置为 %d"
+
+msgid "Could not write to port (%m)"
+msgstr "无法写端口 (%m)"
+
+msgid "Device '%s' could not be locked (dev_lock returned %d)"
+msgstr "无法锁定设备‘%s’(dev_lock 返回 %d)"
+
+msgid "Device '%s' could not be unlocked (dev_unlock returned %d)"
+msgstr "无法解锁设备‘%s’(dev_unlock 返回 %d)"
+
+msgid "Device '%s' could not be unlocked as it is locked by pid %d."
+msgstr "由于设备‘%s’已被进程号为 %d 的进程锁定，所以无法锁定。"
+
+msgid "Device '%s' could not be unlocked."
+msgstr "无法解锁设备‘%s’。"
+
+msgid "Device '%s' is locked by pid %d"
+msgstr "设备‘%s’已经被进行号为 %d 的进程锁定"
+
+msgid "Error clearing a halt condition on the USB port"
+msgstr "清除 USB 端口的一个中止条件出错"
+
+msgid "Error initializing the port"
+msgstr "初始化端口出错"
+
+msgid "Error loading a library"
+msgstr "装入库出错"
+
+msgid "Error reading from the port"
+msgstr "读端口出错"
+
+msgid "Error setting the serial port speed"
+msgstr "设置串口速度出错"
+
+msgid "Error updating the port settings"
+msgstr "更新端口设置出错"
+
+msgid "Error writing to the port"
+msgstr "写端口出错"
+
+msgid "Failed to open '%s' (%m)."
+msgstr "打开‘%s’(%m)失败。"
+
+msgid "Generic Port"
+msgstr "通用端口"
+
+msgid "I/O problem"
+msgstr "I/O 问题"
+
+msgid "Loaded '%s' ('%s') from '%s'."
+msgstr "从 '%3$s' 加载了 '%1$s' （'%2$s'）"
+
+msgid "No error"
+msgstr "无错误"
+
+msgid "No error description available"
+msgstr "没有可用的错误描述"
+
+msgid "Out of memory"
+msgstr "内存耗尽"
+
+msgid "Parity error."
+msgstr "奇偶错误。"
+
+msgid "Serial Port %i"
+msgstr "串口 %i"
+
+msgid "Serial port not supported"
+msgstr "不支持串口"
+
+msgid "Starting regex search for '%s'..."
+msgstr "正在为 '%s' 开始正则表达式搜索..."
+
+msgid "The operation '%s' is not supported by this device"
+msgstr "该设备不支持操作‘%s’"
+
+msgid "The port has not yet been initialized"
+msgstr "端口尚未初始化"
+
+msgid "The supplied vendor or product id (0x%x,0x%x) is not valid."
+msgstr "给出的供应商或产品 id (0x%x、0x%x) 不合法。"
+
+msgid "Timeout reading from or writing to the port"
+msgstr "读取或写入端口超时"
+
+msgid "USB port not supported"
+msgstr "不支持 USB 接口"
+
+msgid "Unexpected parity response sequence 0xff 0x%02x."
+msgstr "意外的奇偶应答序列 0xff 0x%02x。"
+
+msgid "Unknown error"
+msgstr "未知的错误"
+
+msgid "Unknown pin %i."
+msgstr "未知插脚 %i。"
+
+msgid "Unknown port"
+msgstr "未知端口"
+
+msgid "Unspecified error"
+msgstr "未指明的错误"
+
+msgid "Unsupported operation"
+msgstr "不支持的操作"
+
+msgid "re_match failed (%i)"
+msgstr "再匹配失败 (%i)(_M)"

@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gold 2.24.90\n"
+"Report-Msgid-Bugs-To: bug-binutils@gnu.org\n"
+"POT-Creation-Date: 2014-02-10 09:42+1030\n"
+"PO-Revision-Date: 2015-11-10 10:03+0000\n"
+"Last-Translator: Mingye Wang <arthur2e5@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:53+0000\n"
+
+msgid ""
+"\n"
+"Allocating common symbols\n"
+msgstr ""
+"\n"
+"分配公共符号\n"
+
+msgid ""
+"\n"
+"Cross Reference Table\n"
+"\n"
+msgstr ""
+"\n"
+"交叉引用表\n"
+"\n"
+
+msgid ""
+"\n"
+"Discarded input sections\n"
+"\n"
+msgstr ""
+"\n"
+"舍弃的输入节\n"
+"\n"
+
+msgid "  Supported emulations:\n"
+msgstr "  支持的仿真：\n"
+
+msgid "%s failed: %s"
+msgstr "%s 失败：%s"
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "%s: supported targets:"
+msgstr "%s：支持的目标："
+
+msgid "%s: warning: "
+msgstr "%s：警告： "
+
+msgid "ADDRESS"
+msgstr "地址"
+
+msgid "Allow unresolved references in shared libraries"
+msgstr "允许共用函数库中有无法解析的参照"
+
+msgid "Auxiliary filter for shared object symbol table"
+msgstr "指定为某共享对象符号表的辅助过滤器"
+
+msgid "COUNT"
+msgstr "计数"
+
+msgid "Call SYMBOL at load-time"
+msgstr "在加载时间调用符号"
+
+msgid "Call SYMBOL at unload-time"
+msgstr "在卸载时间调用符号"
+
+msgid ""
+"Common symbol       size              file\n"
+"\n"
+msgstr ""
+"公共符号            大小              文件\n"
+"\n"
+
+msgid "Copyright 2014 Free Software Foundation, Inc.\n"
+msgstr "著作权 2014 自由软件基金会。\n"
+
+msgid "Create a position independent executable"
+msgstr "生成一个位置无关的可执行文件"
+
+msgid "Create an output file even if errors occur"
+msgstr "即使发生错误也要创建输出文件"
+
+msgid "Default search path for Solaris compatibility"
+msgstr "为了 Solaris 兼容性的缺省搜索路径"
+
+msgid "Define a symbol"
+msgstr "定义一个符号"
+
+msgid "Do not link against shared libraries"
+msgstr "不链接到共享库"
+
+msgid "Do not list removed unused sections"
+msgstr "不要列出已移除的未使用节"
+
+msgid "Do not page align data"
+msgstr "不将数据对齐至页边界"
+
+msgid "Do not page align data, do not make text readonly"
+msgstr "不将数据对齐至页边界，不将 text 节只读"
+
+msgid "Don't remove unused sections (default)"
+msgstr "不删除未使用的节(默认)"
+
+msgid "Don't warn about mismatched input files"
+msgstr "不为不匹配的输入文件发出警告"
+
+msgid "EMULATION"
+msgstr "仿真"
+
+msgid "Export all dynamic symbols"
+msgstr "导出所有动态符号"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "FILENAME"
+msgstr "文件名"
+
+msgid "Filter for shared object symbol table"
+msgstr "指定为某共享对象符号表的过滤器"
+
+msgid "Generate relocatable output"
+msgstr "生成可重新定位的输出"
+
+msgid "Ignored"
+msgstr "忽略"
+
+msgid "Ignored for GCC linker option compatibility"
+msgstr "为 GCC 链接器选项兼容性忽略"
+
+msgid "Ignored for SVR4 compatibility"
+msgstr "为 SVR4 兼容性所忽略"
+
+msgid "LIBNAME"
+msgstr "库名"
+
+msgid "List removed unused sections on stderr"
+msgstr "于标准勘误列出已移除的未使用节"
+
+msgid "Output cross reference table"
+msgstr "输出交叉引用表"
+
+msgid "PATH"
+msgstr "路径"
+
+msgid "PLUGIN"
+msgstr "插件程序"
+
+msgid "PROGRAM"
+msgstr "程序"
+
+msgid "Page align data, make text readonly"
+msgstr "将数据对齐至页边界，令 text 节只读"
+
+msgid "Print default output format"
+msgstr "印出缺省输出格式"
+
+msgid "Read linker script"
+msgstr "读取链接脚本"
+
+msgid "Report bugs to %s\n"
+msgstr "将错误报告到 %s\n"
+
+msgid "Report unresolved symbols as errors"
+msgstr "将不能解析的符号视作错误"
+
+msgid "Report unresolved symbols as warnings"
+msgstr "将不能解析的符号视作警告"
+
+msgid "SECTION=ADDRESS"
+msgstr "节=地址"
+
+msgid "SHLIB"
+msgstr "共享库"
+
+msgid "SIZE"
+msgstr "大小"
+
+msgid "SYMBOL"
+msgstr "符号"
+
+msgid "SYMBOL=EXPRESSION"
+msgstr "符号=表达式"
+
+msgid "Search for library LIBNAME"
+msgstr "搜索库“库名”"
+
+msgid "Set output file name"
+msgstr "设置输出文件名"
+
+msgid "Strip all symbols"
+msgstr "剔除所有符号信息"
+
+msgid "Symbol"
+msgstr "符号"
+
+msgid ""
+"This program is free software; you may redistribute it under the terms of\n"
+"the GNU General Public License version 3 or (at your option) a later version.\n"
+"This program has absolutely no warranty.\n"
+msgstr ""
+"这个程序是自由软件；您可以遵循GNU 通用公共授权版本 3 或\n"
+"(您自行选择的) 稍后版本以再次散布它。\n"
+"这个程序完全没有任何担保。\n"
+
+msgid "Treat warnings as errors"
+msgstr "将警告当作错误"
+
+msgid "Use wrapper functions for SYMBOL"
+msgstr "使用包装函数作为[符号]"
+
+msgid "Warn about duplicate common symbols"
+msgstr "为重复的公共符号给出警告"
+
+msgid "[=STYLE]"
+msgstr "[=风格]"
+
+msgid "cannot open %s: %s:"
+msgstr "无法打开%s：%s："
+
+msgid "no input files"
+msgstr "没有输入文件"
+
+msgid "reloc "
+msgstr "重定位 "

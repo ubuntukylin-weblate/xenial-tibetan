@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: doc-base\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-08-24 21:58+0200\n"
+"PO-Revision-Date: 2014-05-19 03:54+0000\n"
+"Last-Translator: Luo Lei <luolei@ubuntukylin.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:59+0000\n"
+
+msgid "(using `%s' as the root directory)"
+msgstr "(使用“%s”作为根目录)"
+
+msgid "Arguments missing for `%s'."
+msgstr "”%s“参数缺失。"
+
+msgid "Cannot open file `%s' for reading: %s."
+msgstr "无法读取文件“%s”：%s 。"
+
+msgid "Cannot read file `%s': %s."
+msgstr "无法读取文件”%s“：%s。"
+
+msgid "Cannot rename file `%s' to `%s': %s."
+msgstr "无法重命名文件”%s“为”%s“：%s。"
+
+msgid "Cannot save file `%s': %s."
+msgstr "无法保存文件”%s“：%s。"
+
+msgid "Contents of file `%s':"
+msgstr "文件“%s”的内容："
+
+msgid "Error in %s: %s."
+msgstr "%s 中的错误：%s。"
+
+msgid "File `%s' not yet parsed."
+msgstr "文件“%s”尚未解析。"
+
+msgid "Needs to be root for this operation."
+msgstr "执行此操作需要 root 权限。"
+
+msgid ""
+"Note: `install-docs --verbose --check file_name' may give more details about"
+" the above error."
+msgid_plural ""
+"Note: `install-docs --verbose --check file_name' may give more details about"
+" the above errors."
+msgstr[0] "注意： 使用“install-docs --verbose --check file_name”可能获得关于上述错误的更多详细信息。"
+
+msgid "Saving `%s' (%d)."
+msgstr "保存”%s\\“(%d) 。"
+
+msgid "Too many arguments for `%s'."
+msgstr "”%s“的参数过多。"
+
+msgid "Unknown flag (%s, %s)."
+msgstr "未知标识 (%s, %s)。"
+
+msgid "Warning in %s: %s."
+msgstr "%s 中的警告：%s。"
+
+msgid "`%s' requires exactly one argument."
+msgstr "”%s“恰好需要一个参数。"
+
+msgid "`%s', line %d"
+msgstr "“%s”，第 %d 行"
+
+msgid "control field `%s' already defined"
+msgstr "控制字段 “%s”已经定义"
+
+msgid "field `%s' cannot consist of multi lines"
+msgstr "字段“%s”不能包含多行"
+
+msgid "field `%s' in incorrect section (missing empty line before the field?)"
+msgstr "字段“%s”在不正确的位置 (字段前缺少空行？)"
+
+msgid "format `%s' already defined"
+msgstr "“%s”格式已经定义"
+
+msgid "format `%s' is not supported"
+msgstr "不支持“%s”格式"
+
+msgid "invalid value of `Document' field"
+msgstr "“Document”字段的值无效"
+
+msgid "line in field `%s' seems not to be UTF-8 encoded, recoding"
+msgstr "“%s”字段所在行似乎不是 UTF-8 编码, 重编码"
+
+msgid "syntax error - no field specified"
+msgstr "语法错误 - 没有指定字段"
+
+msgid "syntax error in control file: %s"
+msgstr "控制文件中的语法错误：%s"
+
+msgid "the first line does not contain valid `Document' field"
+msgstr "首行未包含有效的“Document”字段"
+
+msgid "unknown section: `%s'"
+msgstr "未知部分： “%s”"
+
+msgid "unrecognised control field `%s'"
+msgstr "无法识别的控制字段“%s”"
+
+msgid "unsupported doc-base file version: %s"
+msgstr "不支持的 doc-base 文件版本：%s"
+
+msgid "value of `%s' not specified"
+msgstr "未指定“%s”的值"

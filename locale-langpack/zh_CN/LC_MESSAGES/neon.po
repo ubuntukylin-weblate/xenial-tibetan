@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: neon 0.29.x\n"
+"Report-Msgid-Bugs-To: neon@lists.manyfish.co.uk\n"
+"POT-Creation-Date: 2014-09-22 16:25+0100\n"
+"PO-Revision-Date: 2010-12-31 15:12+0000\n"
+"Last-Translator: Dongsheng-song <Unknown>\n"
+"Language-Team: neon@webdav.org\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:18+0000\n"
+
+msgid "%s: %s (code %d)"
+msgstr "%s： %s (代码 %d)"
+
+msgid "%s: connection timed out"
+msgstr "%s: 连接超时"
+
+msgid "%s: connection was closed by proxy server"
+msgstr "%s: 连接被代理服务器关闭"
+
+msgid "%s: connection was closed by server"
+msgstr "%s: 连接被服务器关闭"
+
+msgid "Certificate verification error: %s"
+msgstr "证书校验失败：%s"
+
+msgid "Chunk delimiter was invalid"
+msgstr "非法的分割符"
+
+msgid "Client certificate verification failed"
+msgstr "客户证书校验失败"
+
+msgid "Connection closed"
+msgstr "连接关闭"
+
+msgid "Connection timed out"
+msgstr "连接超时"
+
+msgid "Could not authenticate to proxy server: %s"
+msgstr "不能认证到代理服务器: %s"
+
+msgid "Could not authenticate to server: %s"
+msgstr "不能认证到服务器: %s"
+
+msgid "Could not connect to proxy server"
+msgstr "不能连接到代理服务器"
+
+msgid "Could not connect to server"
+msgstr "不能连接到服务器"
+
+msgid "Could not create SSL connection through proxy server: %s"
+msgstr "不能通过代理服务器 “%s” 创建 SSL 连接"
+
+msgid "Could not create SSL structure"
+msgstr "不能创建 SSL 结构"
+
+msgid "Could not create socket"
+msgstr "不能创建套接字"
+
+msgid "Could not determine file size: %s"
+msgstr "不能确定的文件大小：%s"
+
+msgid "Could not inflate data"
+msgstr "解压数据失败"
+
+msgid "Could not initialize zlib"
+msgstr "初始化 zlib 失败"
+
+msgid "Could not parse chunk size"
+msgstr "不能解析块大小"
+
+msgid "Could not parse redirect destination URL"
+msgstr "不能解析重定向 URL"
+
+msgid "Could not parse response status line"
+msgstr "不能解析响应状态行"
+
+msgid "Could not parse response: %s"
+msgstr "不能解析响应：%s"
+
+msgid "Could not read chunk delimiter"
+msgstr "不能读块分割符"
+
+msgid "Could not read chunk size"
+msgstr "不能读块大小"
+
+msgid "Could not read interim response headers"
+msgstr "不能读临时响应头"
+
+msgid "Could not read response body"
+msgstr "不能读取响应主体"
+
+msgid "Could not read status line"
+msgstr "不能读状态行"
+
+msgid "Could not resolve hostname `%s': %s"
+msgstr "不能解析主机名称 “%s”: %s"
+
+msgid "Could not seek to offset %s of request body file: %s"
+msgstr "在请求主体文件不能定位到偏移 %s： %s"
+
+msgid "Could not send request"
+msgstr "不能发送请求"
+
+msgid "Could not send request body"
+msgstr "不能发送请求主体"
+
+msgid "Could not write to file: %s"
+msgstr "不能写入文件：%s"
+
+msgid "Digest mutual authentication failure: client nonce mismatch"
+msgstr "摘要互相认证失败：客户现时不匹配"
+
+msgid "Digest mutual authentication failure: could not parse nonce count"
+msgstr "摘要互相认证失败：不能解析现时计数"
+
+msgid "Digest mutual authentication failure: missing parameters"
+msgstr "摘要互相认证失败：参数遗漏"
+
+msgid "Digest mutual authentication failure: nonce count mismatch (%u not %u)"
+msgstr "摘要互相认证失败：现时计算不匹配 (应该是 %u，不是 %u)"
+
+msgid "Digest mutual authentication failure: request-digest mismatch"
+msgstr "摘要互相认证失败：请求摘要不匹配"
+
+msgid "Error reading response headers"
+msgstr "读取响应头出错"
+
+msgid "GSSAPI authentication error: "
+msgstr "GSSAPI 认证错误: "
+
+msgid "GSSAPI failure (code %u)"
+msgstr "GSSAPI 失败(代码 %u)"
+
+msgid "Host not found"
+msgstr "没有发现主机"
+
+msgid "Invalid Byte Order Mark"
+msgstr "非法字节顺序标记(BOM)"
+
+msgid "Invalid Content-Length in response"
+msgstr "非法的 Content-Length 响应域"
+
+msgid ""
+"Invalid HTTP status line in status element at line %d of response:\n"
+"Status line was: %s"
+msgstr ""
+"响应信息中 %d 行的状态元素中发现非法 HTTP 状态行：\n"
+"状态行是: %s"
+
+msgid "LOCK response missing Lock-Token header"
+msgstr "LOCK 的响应遗漏了 Lock-Token 行"
+
+msgid "Line too long"
+msgstr "行太长"
+
+msgid "Negotiate response verification failed: invalid response header token"
+msgstr "校验协商响应失败：非法响应头令牌"
+
+msgid "Negotiate response verification failure: %s"
+msgstr "磋商响应校验失败: %s"
+
+msgid "No activelock for <%s> returned in LOCK refresh response"
+msgstr "刷新锁定 %s 的响应没有返回主动锁"
+
+msgid "Range is not satisfiable"
+msgstr "不能满足的范围"
+
+msgid "Resource does not support ranged GET requests"
+msgstr "资源不支持范围读取"
+
+msgid "Response did not include requested range"
+msgstr "响应没有包含请求范围"
+
+msgid "Response exceeded maximum number of header fields"
+msgstr "响应头的域数量超出了最大数量"
+
+msgid "Response exceeds maximum property count"
+msgstr "响应超过了属性的最大计数"
+
+msgid "Response header too long"
+msgstr "响应头太长"
+
+msgid "Response missing activelock for %s"
+msgstr "锁定 %s 的响应遗漏了主动锁"
+
+msgid "SSL alert received: %s"
+msgstr "收到 SSL 警报： %s"
+
+msgid "SSL disabled due to lack of entropy"
+msgstr "由于缺少熵，SSL 已经禁用"
+
+msgid "SSL error code %d/%d/%lu"
+msgstr "SSL 错误代码 %d/%d/%lu"
+
+msgid "SSL error: %s"
+msgstr "SSL 错误：%s"
+
+msgid "SSL server did not present certificate"
+msgstr "SSL 服务器不能呈现证书"
+
+msgid "SSL socket read failed"
+msgstr "SSL 套接字读取失败"
+
+msgid "Secure connection truncated"
+msgstr "安全连接切断"
+
+msgid "Server certificate verification failed: "
+msgstr "服务器证书校验失败 "
+
+msgid "Server certificate was missing commonName attribute in subject name"
+msgstr "服务器证书在主题名称遗漏了属性 commonName"
+
+msgid "Server did not send certificate chain"
+msgstr "服务器不能发送证书链"
+
+msgid "Socket descriptor number exceeds FD_SETSIZE"
+msgstr "套接字数量超过 FD_SETSIZE"
+
+msgid "Socket family not supported"
+msgstr "插座家族不被支持"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Unknown transfer-coding in response"
+msgstr "响应中的传输代码未知"
+
+msgid "XML parse error at line %d: %s"
+msgstr "在 %d 行解析 XML 错误: %s"
+
+msgid "XML parse error at line %d: invalid element name"
+msgstr "在 %d 行解析 XML 错误：非法元素名称"
+
+msgid "[invalid date]"
+msgstr "[非法日期]"
+
+msgid "[unprintable:#%lu]"
+msgstr "[非打印字符:#%lu]"
+
+msgid "[unprintable]"
+msgstr "[非打印字符]"
+
+msgid "certificate has expired"
+msgstr "证书已经过时"
+
+msgid "certificate is not yet valid"
+msgstr "证书还未生效"
+
+msgid "certificate issued for a different hostname"
+msgstr "此证书是为不同的主机名称颁发"
+
+msgid "could not parse challenge"
+msgstr "不能解析挑战"
+
+msgid "could not parse domain in Digest challenge"
+msgstr "在摘要挑战中的不能解析域"
+
+msgid "ignored %s challenge"
+msgstr "被忽略的 %s 挑战"
+
+msgid "ignoring empty Negotiate continuation"
+msgstr "忽略后续的空磋商"
+
+msgid "incompatible algorithm in Digest challenge"
+msgstr "在摘要挑战中的算法不兼容"
+
+msgid "initial Digest challenge was stale"
+msgstr "陈旧的初始化摘要挑战"
+
+msgid "invalid Negotiate token"
+msgstr "非法磋商令牌"
+
+msgid "issuer is not trusted"
+msgstr "证书发行者不被信任"
+
+msgid "missing parameter in Digest challenge"
+msgstr "在摘要挑战中的参数丢失"
+
+msgid "missing realm in Basic challenge"
+msgstr "在基本挑战中丢失了领域"
+
+msgid "offset invalid"
+msgstr "非法偏移"
+
+msgid "rejected %s challenge"
+msgstr "被拒绝的 %s 挑战"
+
+msgid "stale Digest challenge with new algorithm or realm"
+msgstr "陈旧的摘要挑战用于新算法或新领域"
+
+msgid "unknown algorithm in Digest challenge"
+msgstr "在摘要挑战中的算法不可识别"

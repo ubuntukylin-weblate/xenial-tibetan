@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-23 14:43+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Cannot get hardware information to activate system\n"
+msgstr "无法获取硬件信息以进行激活\n"
+
+msgid "Cannot overwrite original serial number"
+msgstr "无法覆盖原有服务序列号"
+
+msgid "Cannot overwrite original serial number.\n"
+msgstr "无法覆盖原有服务序列号\n"
+
+msgid "Classification for this system dismatches"
+msgstr "版本类型不匹配"
+
+msgid "Classification for this system dismatches.\n"
+msgstr "版本类型不匹配\n"
+
+msgid "Counter of UKey cannot be decreased"
+msgstr "UKEY不能成功计数"
+
+msgid "Counter of UKey cannot be decreased.\n"
+msgstr "UKEY不能成功计数\n"
+
+msgid "Counter of UKey has been used up"
+msgstr "UKEY可激活数已经达到上限"
+
+msgid "Counter of UKey has been used up.\n"
+msgstr "UKEY可激活数已经达到上限\n"
+
+msgid "Expiration date of system activation: %s \n"
+msgstr "系统激活到期时间： %s \n"
+
+msgid "Expiration date of trial: %s\n"
+msgstr "试用到期时间： %s\n"
+
+msgid "Expiration date: %s\n"
+msgstr "到期时间为： %s\n"
+
+msgid "Fail to generate QR code string"
+msgstr "二维码字符串生成失败"
+
+msgid "Fail to generate QR code string.\n"
+msgstr "二维码字符串生成失败\n"
+
+msgid "Fail to save activation code"
+msgstr "激活码保存失败"
+
+msgid "Fail to save activation code.\n"
+msgstr "激活码保存失败\n"
+
+msgid "Failed to activate system via UKey"
+msgstr "UKEY激活系统失败"
+
+msgid "Failed to activate system via UKey.\n"
+msgstr "UKEY激活系统失败\n"
+
+msgid "Failed to deal with activation code"
+msgstr "激活码处理失败"
+
+msgid "Failed to deal with activation code.\n"
+msgstr "激活码处理失败\n"
+
+msgid "Failed to deal with expiration date in UKey"
+msgstr "UKEY激活到期时间处理失败"
+
+msgid "Failed to deal with expiration date in UKey.\n"
+msgstr "UKEY激活到期时间处理失败\n"
+
+msgid "Failed to deal with registration code"
+msgstr "注册码处理失败"
+
+msgid "Failed to deal with registration code.\n"
+msgstr "注册码处理失败\n"
+
+msgid "Failed to decrease counter of UKey"
+msgstr "未成功减少UKEY计数"
+
+msgid "Failed to decrease counter of UKey.\n"
+msgstr "未成功减少UKEY计数\n"
+
+msgid "Failed to encrypt UKey's information"
+msgstr "UKey信息加密失败"
+
+msgid "Failed to encrypt UKey's information.\n"
+msgstr "UKey信息加密失败\n"
+
+msgid "Failed to generate registration code"
+msgstr "注册码生成失败"
+
+msgid "Failed to generate registration code\n"
+msgstr "注册码生成失败\n"
+
+msgid "Failed to get counter number of UKey"
+msgstr "未成功获取UKEY计数次数"
+
+msgid "Failed to get counter number of UKey.\n"
+msgstr "未成功获取UKEY计数次数\n"
+
+msgid "Failed to get counter status of UKey"
+msgstr "未成功获取UKEY计数状态"
+
+msgid "Failed to get counter status of UKey.\n"
+msgstr "未成功获取UKEY计数状态\n"
+
+msgid "Failed to get data from UKey"
+msgstr "UKEY数据获取失败"
+
+msgid "Failed to get data from UKey.\n"
+msgstr "UKEY数据获取失败\n"
+
+msgid "Failed to get hardware ID of UKey"
+msgstr "UKEY硬件ID获取失败"
+
+msgid "Failed to get hardware ID of UKey.\n"
+msgstr "UKEY硬件ID获取失败\n"
+
+msgid "Failed to get hardware information"
+msgstr "无法获取硬件信息"
+
+msgid "Failed to get hardware information.\n"
+msgstr "无法获取硬件信息\n"
+
+msgid "Failed to get information of UKey"
+msgstr "获取UKey信息失败"
+
+msgid "Failed to get information of UKey.\n"
+msgstr "获取UKey信息失败\n"
+
+msgid "Failed to initialize UKey"
+msgstr "UKEY初始化失败"
+
+msgid "Failed to initialize UKey environment"
+msgstr "UKEY环境初始化异常"
+
+msgid "Failed to initialize UKey environment.\n"
+msgstr "UKEY环境初始化异常\n"
+
+msgid "Failed to initialize UKey.\n"
+msgstr "UKEY初始化失败\n"
+
+msgid "Failed to initialize gpgme"
+msgstr "gpgme初始化失败"
+
+msgid "Failed to initialize gpgme.\n"
+msgstr "gpgme初始化失败\n"
+
+msgid "Failed to verify LICENSE file"
+msgstr "LICENSE文件验证有问题"
+
+msgid "Failed to verify LICENSE file.\n"
+msgstr "LICENSE文件验证有问题\n"
+
+msgid "Failed to write data to UKey"
+msgstr "UKEY未能成功写数据"
+
+msgid "Failed to write data to UKey.\n"
+msgstr "UKEY未能成功写数据\n"
+
+msgid "ID of UKey that activates this system: %s\n"
+msgstr "激活该系统的UKEY编号： %s\n"
+
+msgid "In trial period.\n"
+msgstr "系统在试用期内。\n"
+
+msgid "Invalid activation code"
+msgstr "无效的激活码"
+
+msgid "Invalid activation code.\n"
+msgstr "无效的激活码\n"
+
+msgid "Invalid registration code"
+msgstr "无效的注册码"
+
+msgid "Invalid registration code.\n"
+msgstr "无效的注册码\n"
+
+msgid "Invalid serial number"
+msgstr "无效的服务序列号"
+
+msgid "Invalid serial number.\n"
+msgstr "无效的服务序列号\n"
+
+msgid "Invalid signature"
+msgstr "无效的签名"
+
+msgid "Invalid signature.\n"
+msgstr "无效的签名\n"
+
+msgid "Kylin provided file is modified"
+msgstr "文件被修改"
+
+msgid "Kylin provided file is modified.\n"
+msgstr "文件被修改\n"
+
+msgid "Kylin provided file is modified: %s"
+msgstr "文件被修改： %s"
+
+msgid "Kylin provided file is modified: %s.\n"
+msgstr "文件被修改： %s\n"
+
+msgid "Kylin provided package is modified"
+msgstr "软件包被修改"
+
+msgid "Kylin provided package is modified.\n"
+msgstr "软件包被修改\n"
+
+msgid "Kylin provided package is modified: %s"
+msgstr "软件包被修改： %s"
+
+msgid "Kylin provided package is modified: %s.\n"
+msgstr "软件包被修改： %s\n"
+
+msgid "License file doesn't contain platform information"
+msgstr "LICENSE文件无系统平台信息"
+
+msgid "License file doesn't contain platform information.\n"
+msgstr "LICENSE文件无系统平台信息\n"
+
+msgid "License serial number is invalid"
+msgstr "LICENSE文件服务序列号无效"
+
+msgid "License serial number is invalid.\n"
+msgstr "LICENSE文件服务序列号无效\n"
+
+msgid "No UKey is inserted"
+msgstr "没有插入UKEY"
+
+msgid "No UKey is inserted.\n"
+msgstr "没有插入UKEY\n"
+
+msgid "Other error"
+msgstr "其他错误"
+
+msgid "Other error\n"
+msgstr "其他错误\n"
+
+msgid "Platform doesn't match"
+msgstr "系统平台信息不匹配"
+
+msgid "Platform doesn't match.\n"
+msgstr "系统平台信息不匹配\n"
+
+msgid "Produce number doesn't match"
+msgstr "生产批次号不匹配"
+
+msgid "Produce number doesn't match.\n"
+msgstr "生产批次号不匹配\n"
+
+msgid "Product type doesn't match"
+msgstr "产品类型不匹配"
+
+msgid "Product type doesn't match.\n"
+msgstr "产品类型不匹配\n"
+
+msgid "System activation is expired.\n"
+msgstr "系统激活已到期\n"
+
+msgid "System activation will expire in %d days.\n"
+msgstr "系统激活将在%d天后到期\n"
+
+msgid ""
+"System has already been activated by another UKey, There is no need to "
+"activate it again"
+msgstr "系统已经由其他UKEY激活过，无须重复激活"
+
+msgid ""
+"System has already been activated by another UKey, There is no need to "
+"activate it again.\n"
+msgstr "系统已经由其他UKEY激活过，无须重复激活\n"
+
+msgid ""
+"System has already been activated, There is no need to activate it again"
+msgstr "系统已经激活，无须重复激活"
+
+msgid ""
+"System has already been activated, There is no need to activate it again.\n"
+msgstr "系统已经激活，无须重复激活\n"
+
+msgid "System has already got a longer activation period"
+msgstr "系统已含有有效期更长的激活码"
+
+msgid "System has already got a longer activation period.\n"
+msgstr "系统已含有有效期更长的激活码\n"
+
+msgid "System is activated.\n"
+msgstr "系统已激活\n"
+
+msgid "System is not activated.\n"
+msgstr "系统未被激活\n"
+
+msgid "The UKey dismatches with LICENSE file"
+msgstr "LICENSE的服务序列号与UKEY所含服务序列号不符"
+
+msgid "The UKey dismatches with LICENSE file.\n"
+msgstr "LICENSE的服务序列号与UKEY所含服务序列号不符\n"
+
+msgid "The serial number dismatches with LICENSE file"
+msgstr "服务序列号与LICENSE不匹配"
+
+msgid "The serial number dismatches with LICENSE file.\n"
+msgstr "服务序列号与LICENSE不匹配\n"
+
+msgid "There is no classification for this system in LICENSE file"
+msgstr "LICENSE文件无版本类型"
+
+msgid "There is no classification for this system in LICENSE file.\n"
+msgstr "LICENSE文件无版本类型\n"
+
+msgid "There is no serial number in LICENSE file"
+msgstr "LICENSE文件没有序列号"
+
+msgid "There is no serial number in LICENSE file.\n"
+msgstr "LICENSE文件没有序列号\n"
+
+msgid "There is no serial number in UKey"
+msgstr "UKEY未包含服务序列号"
+
+msgid "There is no serial number in UKey.\n"
+msgstr "UKEY未包含服务序列号\n"
+
+msgid "There is no valid kylin information file"
+msgstr "无有效的麒麟信息文件"
+
+msgid "There is no valid kylin information file.\n"
+msgstr "无有效的麒麟信息文件\n"
+
+msgid "There is no valid public key"
+msgstr "无有效的公钥"
+
+msgid "There is no valid public key.\n"
+msgstr "无有效的公钥\n"
+
+msgid "There is no valid serial number"
+msgstr "无有效的服务序列号"
+
+msgid "There is no valid serial number.\n"
+msgstr "无有效的服务序列号\n"
+
+msgid "There is something wrong with content of LICENSE file"
+msgstr "LICENSE文件内容格式错误"
+
+msgid "There is something wrong with content of LICENSE file.\n"
+msgstr "LICENSE文件内容格式错误\n"
+
+msgid "There is something wrong with system time"
+msgstr "系统时间有问题"
+
+msgid "There is something wrong with system time.\n"
+msgstr "系统时间有问题\n"
+
+msgid "This activation contains a expired date"
+msgstr "此激活码所含使用时间已到期"
+
+msgid "This activation contains a expired date.\n"
+msgstr "此激活码所含使用时间已到期\n"
+
+msgid ""
+"This activation's expiration date is earlier than expiration date for trial"
+msgstr "激活码所包含到期时间早于试用到期时间"
+
+msgid ""
+"This activation's expiration date is earlier than expiration date for "
+"trial.\n"
+msgstr "激活码所包含到期时间早于试用到期时间\n"
+
+msgid "This program is used to activate system\n"
+msgstr "此程序用来激活系统\n"
+
+msgid "This program uses a UKey to activate system\n"
+msgstr "此程序用UKEY激活系统\n"
+
+msgid "Trial period is expired.\n"
+msgstr "系统已过试用期。\n"
+
+msgid "UKey doesn't contain a valid expiration date"
+msgstr "UKEY未包含有效激活期限"
+
+msgid "UKey doesn't contain a valid expiration date.\n"
+msgstr "UKEY未包含有效激活期限\n"
+
+msgid "UKey fails to login"
+msgstr "UKEY登录失败"
+
+msgid "UKey fails to login.\n"
+msgstr "UKEY登录失败\n"
+
+msgid "UKey fails to logout"
+msgstr "UKEY未能成功登出"
+
+msgid "UKey fails to logout.\n"
+msgstr "UKEY未能成功登出\n"
+
+msgid "UKey's space is full, so it cannot activate another unactivated system"
+msgstr "UKEY空间已满，无法再激活新的机器"
+
+msgid ""
+"UKey's space is full, so it cannot activate another unactivated system.\n"
+msgstr "UKEY空间已满，无法再激活新的机器\n"
+
+msgid "Ukey license serial number is invalid"
+msgstr "Ukey服务序列号无效"
+
+msgid "Ukey license serial number is invalid.\n"
+msgstr "Ukey服务序列号无效\n"
+
+msgid "Usage: kylin_activation <activation code> [serial number]\n"
+msgstr "用法：  kylin_activate <激活码> [服务序列号]\n"
+
+msgid "Usage：  kylin_activate_ukey\n"
+msgstr "用法：  kylin_activate_ukey\n"
+
+msgid "Wait for a moment please...\n"
+msgstr "请稍候...\n"
+
+msgid "Wrong format for UKey data"
+msgstr "UKEY数据格式错误"
+
+msgid "Wrong format for UKey data.\n"
+msgstr "UKEY数据格式错误\n"

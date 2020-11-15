@@ -1,0 +1,938 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-19 01:20+0100\n"
+"PO-Revision-Date: 2015-02-21 18:26+0000\n"
+"Last-Translator: 白铭骢 <jeffbaichina@members.fsf.org>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/mate/MATE/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "% CPU"
+msgstr "% CPU"
+
+msgid "%.1f GB"
+msgstr "%.1f GB"
+
+msgid "%.1f KB"
+msgstr "%.1f KB"
+
+msgid "%.1f MB"
+msgstr "%.1f MB"
+
+msgid "%.1f TiB"
+msgstr "%.1f TiB"
+
+msgid "%.3g Gbit"
+msgstr "%.3g Gbit"
+
+msgid "%.3g Mbit"
+msgstr "%.3g Mbit"
+
+msgid "%.3g Tbit"
+msgstr "%.3g Tbit"
+
+msgid "%.3g kbit"
+msgstr "%.3g kbit"
+
+msgid "%a %l:%M %p"
+msgstr "%H:%M%A"
+
+msgid "%b %d %Y"
+msgstr "%Y年%-m月%-d日"
+
+msgid "%b %d %l:%M %p"
+msgstr "%-m月%-d日 %H:%M"
+
+msgid "%d-bit"
+msgstr "%d 位"
+
+msgid "%lld second"
+msgid_plural "%lld seconds"
+msgstr[0] "%lld 秒"
+
+msgid "%s (%.1f%%) of %s"
+msgstr "已用 %s (%.1f%%)，总量为 %s"
+
+msgid "%s/s"
+msgstr "%s/秒"
+
+msgid "%u bit"
+msgid_plural "%u bits"
+msgstr[0] "%u 比特"
+
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] "%u 字节"
+
+msgid "%u second"
+msgid_plural "%u seconds"
+msgstr[0] "%u 秒"
+
+msgid "%u:%02u.%02u"
+msgstr "%u:%02u.%02u"
+
+msgid "%u:%02u:%02u"
+msgstr "%u:%02u:%02u"
+
+msgid "%ud%02uh"
+msgstr "%u天%02u小时"
+
+msgid "%uw%ud"
+msgstr "%u周%u天"
+
+msgid "'%s' is not a valid Perl regular expression."
+msgstr "‘%s’ 不是有效的 Perl 正则表达式。"
+
+msgid "(%s Priority)"
+msgstr "（优先级%s）"
+
+msgid ""
+"0 for the System Info, 1 for the processes list, 2 for the resources and 3 "
+"for the disks list"
+msgstr "0 代表系统信息，1 代表进程列表，2 代表资源，3 代表磁盘列表"
+
+msgid ""
+"<p> MATE System Monitor allows to graphically view and manipulate the "
+"running processes on your system. It also provides an overview of available "
+"resources, such as CPU and memory. </p> <p> MATE System Monitor is a fork of"
+" GNOME System Monitor and part of the MATE Desktop Environment. If you would"
+" like to know more about MATE and System Monitor, please visit the project's"
+" home page. </p>"
+msgstr ""
+"<p> MATE 系统监视器可以让你以图形化的界面来操作正在运行的进程。它还提供了可用资源的概览, 比如 CPU 和 RAM 的空闲状况。 </p> "
+"<p> MATE 系统监视器是 GNOME 系统监视器的一个分支, 并且它还是 MATE 桌面环境的一部分。如果你想了解更多关于 MATE 和 "
+"系统监视器的知识, 请访问它们的项目页面。</p>"
+
+msgid "?"
+msgstr "?"
+
+msgid "A Process and resource monitor for MATE Desktop"
+msgstr "一个用于 MATE 桌面的进程与资源监视器"
+
+msgid "A simple process and system monitor."
+msgstr "简单的进程和系统监视器。"
+
+msgid "A_ll Processes"
+msgstr "全部进程(_L)"
+
+msgid "About this application"
+msgstr "关于此应用程序"
+
+msgid "Alert before ending or _killing processes"
+msgstr "结束或杀死进程前警告(_K)"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Available disk space:"
+msgstr "可用的磁盘空间："
+
+msgid "Behavior"
+msgstr "行为"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "CPU History"
+msgstr "CPU 历史"
+
+msgid "CPU Time"
+msgstr "CPU 时间"
+
+msgid "CPU%d"
+msgstr "CPU%d"
+
+msgid "C_lear"
+msgstr "清除 (_L)"
+
+msgid ""
+"Cannot change the priority of process with PID %d to %d.\n"
+"%s"
+msgstr ""
+"无法将 PID 为 %d 的进程优先级更改为 %d。\n"
+"%s"
+
+msgid ""
+"Cannot kill process with PID %d with signal %d.\n"
+"%s"
+msgstr ""
+"无法杀死 PID 为 %d 的进程，使用信号 %d。\n"
+"%s"
+
+msgid "Case insensitive matching"
+msgstr "区分大小写"
+
+msgid "Change Priority of Process »%s« (PID: %u)"
+msgstr "更改进程 »%s« (PID: %u) 的优先级"
+
+msgid "Change _Priority"
+msgstr "改变优先级(_P)"
+
+msgid "Change the order of priority of process"
+msgstr "更改一个进程的优先级"
+
+msgid "Click to set graph colors"
+msgstr "点击以设置图形颜色"
+
+msgid "Command Line"
+msgstr "命令行"
+
+msgid "Configure the application"
+msgstr "配置应用程序"
+
+msgid "Continue process if stopped"
+msgstr "如果进程已停止，则继续进程"
+
+msgid "Control Group"
+msgstr "控制组"
+
+msgid "Current Color"
+msgstr "当前颜色"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Default graph CPU color"
+msgstr "默认 CPU 图表颜色"
+
+msgid "Default graph cpu color"
+msgstr "图形中 CPU 的默认颜色"
+
+msgid "Default graph incoming network traffic color"
+msgstr "图形中网络流入流量的默认颜色"
+
+msgid "Default graph memory color"
+msgstr "默认内存图表颜色"
+
+msgid "Default graph outgoing network traffic color"
+msgstr "图形中网络流出流量的默认颜色"
+
+msgid "Default graph swap color"
+msgstr "图形中交换区的默认颜色"
+
+msgid ""
+"Determines which processes to show by default. 0 is All, 1 is user, and 2 is"
+" active"
+msgstr "确定默认情况下要显示哪些进程。0 代表全部，1 代表用户，2 代表活动"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Directory"
+msgstr "目录"
+
+msgid "Disk view columns order"
+msgstr "磁盘视图列顺序"
+
+msgid "Disk view sort colum"
+msgstr "磁盘视图列"
+
+msgid "Disk view sort order"
+msgstr "磁盘视图列顺序"
+
+msgid "Divide CPU usage by CPU count"
+msgstr "总 CPU 使用率除以 CPU 数"
+
+msgid "Enable _smooth refresh"
+msgstr "启用平滑刷新(_S)"
+
+msgid "Enable/Disable smooth refresh"
+msgstr "启用/禁用平滑刷新"
+
+msgid "End _Process"
+msgstr "结束进程(_P)"
+
+msgid "End the selected process »%s« (PID: %u)?"
+msgstr "要终止选中的进程 »%s« (PID: %u) 吗？"
+
+msgid ""
+"Ending a process may destroy data, break the session or introduce a security"
+" risk. Only unresponsive processes should be ended."
+msgstr "终止进程可能导致您的数据损坏，打断当前会话，甚至造成安全隐患。只应终止不响应的进程。"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "FD"
+msgstr "FD"
+
+msgid "File Systems"
+msgstr "文件系统"
+
+msgid "File system i_nformation shown in list:"
+msgstr "列表中显示的文件系统信息(_N)："
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Flags"
+msgstr "标志"
+
+msgid "Force process to finish immediately"
+msgstr "立即强行结束一个进程"
+
+msgid "Force process to finish normally"
+msgstr "强行中止一个进程"
+
+msgid "Fraction"
+msgstr "分数"
+
+msgid "Free"
+msgstr "空闲"
+
+msgid "Graphs"
+msgstr "图形"
+
+msgid "Hardware"
+msgstr "硬件"
+
+msgid "High"
+msgstr "高"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IPv4 network connection"
+msgstr "IPv4 网络连接"
+
+msgid "IPv6 network connection"
+msgstr "IPv6 网络连接"
+
+msgid "Icon"
+msgstr "图标"
+
+msgid ""
+"If TRUE, system-monitor operates in 'Solaris mode' where a task's CPU usage "
+"is divided by the total number of CPUs. Otherwise, it operates in 'Irix "
+"mode'."
+msgstr ""
+"如果为 TRUE，系统监视器将以 \"Solaris 模式\" 工作，任务的 CPU 使用量将被除以总的 CPU 数目。否则它将以 \"Irix "
+"模式\" 工作。"
+
+msgid "Information Fields"
+msgstr "信息域"
+
+msgid "Inode"
+msgstr "Inode"
+
+msgid "Kernel %s"
+msgstr "内核 %s"
+
+msgid "Kill the selected process »%s« (PID: %u)?"
+msgstr "要杀死选中的进程 »%s« (PID: %u) 吗？"
+
+msgid ""
+"Killing a process may destroy data, break the session or introduce a "
+"security risk. Only unresponsive processes should be killed."
+msgstr "杀死进程可能导致您的数据损坏，打断当前会话，甚至造成安全隐患。只应杀死不响应的进程。"
+
+msgid "Load averages for the last 1, 5, 15 minutes: %0.2f, %0.2f, %0.2f"
+msgstr "前一分钟、五分钟、十五分钟的平均负载：%0.2f，%0.2f，%0.2f"
+
+msgid "Low"
+msgstr "低"
+
+msgid "MATE %s"
+msgstr "MATE %s"
+
+msgid "MATE System Monitor"
+msgstr "MATE 系统监视器"
+
+msgid "M_y Processes"
+msgstr "我的进程(_Y)"
+
+msgid "Main window size and position in the form (width, height, xpos, ypos)"
+msgstr "主窗体大小和位置，格式为 (宽度, 高度, X 座标, Y 座标)"
+
+msgid "Memory"
+msgstr "内存"
+
+msgid "Memory Maps"
+msgstr "内存映射"
+
+msgid "Memory and Swap History"
+msgstr "内存和交换历史"
+
+msgid "Memory map sort column"
+msgstr "内存映射列"
+
+msgid "Memory map sort order"
+msgstr "内存映射列顺序"
+
+msgid "Memory:"
+msgstr "内存："
+
+msgid "N/A"
+msgstr "不可用"
+
+msgid "Network History"
+msgstr "网络历史"
+
+msgid "Nice"
+msgstr "Nice"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Note:"
+msgstr "备忘："
+
+msgid "Object"
+msgstr "对象"
+
+msgid "Open Files"
+msgstr "打开的文件"
+
+msgid "Open _Files"
+msgstr "打开的文件(_F)"
+
+msgid "Open files sort column"
+msgstr "开启文件列"
+
+msgid "Open files sort order"
+msgstr "开启文件列顺序"
+
+msgid "Open the manual"
+msgstr "打开手册"
+
+msgid "Open the memory maps associated with a process"
+msgstr "打开与进程关联的内存映像"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Percentage full for pie color pickers"
+msgstr "饼状图颜色拾取器"
+
+msgid "Pick a Color"
+msgstr "拾取颜色"
+
+msgid "Pick a Color for '%s'"
+msgstr "为 '%s' 拾取一个颜色"
+
+msgid "Priority"
+msgstr "优先级"
+
+msgid "Private clean"
+msgstr "未被修改的私有内存"
+
+msgid "Private dirty"
+msgstr "已被修改的私有内存"
+
+msgid "Process"
+msgstr "进程"
+
+msgid "Process Name"
+msgstr "进程名"
+
+msgid "Process Properties"
+msgstr "进程属性"
+
+msgid "Process i_nformation shown in list:"
+msgstr "此列表中显示的进程信息(_N)："
+
+msgid "Process view columns order"
+msgstr "进程视图列顺序"
+
+msgid "Process view sort column"
+msgstr "进程视图排序列的宽度"
+
+msgid "Process view sort order"
+msgstr "进程视图排序顺序"
+
+msgid "Processes"
+msgstr "进程"
+
+msgid "Processor:"
+msgstr "处理器："
+
+msgid "Properties of process \"%s\" (PID %u):"
+msgstr "进程 \"%s\" (PID %u) 的属性："
+
+msgid "Quit the program"
+msgstr "退出程序"
+
+msgid "Received invalid color data\n"
+msgstr "接收到非法颜色数据\n"
+
+msgid "Receiving"
+msgstr "正在接收"
+
+msgid "Refresh the process list"
+msgstr "刷新进程列表"
+
+msgid "Release %s %s"
+msgstr "版本 %s %s"
+
+msgid "Resident Memory"
+msgstr "驻留内存"
+
+msgid "Resources"
+msgstr "资源"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "S_earch results:"
+msgstr "搜索结果(_E)："
+
+msgid "Saves the currently viewed tab"
+msgstr "保存目前查看的标签"
+
+msgid "Search for Open Files"
+msgstr "搜索打开的文件"
+
+msgid "Search for _Open Files"
+msgstr "搜索打开的文件(_O)"
+
+msgid "Search for open files"
+msgstr "搜索打开的文件"
+
+msgid "Seat"
+msgstr "座位"
+
+msgid "Security Context"
+msgstr "安全环境"
+
+msgid "Sending"
+msgstr "正在发送"
+
+msgid "Session"
+msgstr "会话"
+
+msgid "Set process priority manually"
+msgstr "手动设置进程优先级"
+
+msgid "Set process priority to high"
+msgstr "设置进程优先级为高"
+
+msgid "Set process priority to low"
+msgstr "设置进程优先级为低"
+
+msgid "Set process priority to normal"
+msgstr "设置进程优先级为正常"
+
+msgid "Set process priority to very high"
+msgstr "设置进程优先级为非常高"
+
+msgid "Set process priority to very low"
+msgstr "设置进程优先级为非常低"
+
+msgid "Shared Memory"
+msgstr "共享内存"
+
+msgid "Shared clean"
+msgstr "未被修改的共享内存"
+
+msgid "Shared dirty"
+msgstr "已被修改的共享内存"
+
+msgid "Show _all file systems"
+msgstr "显示全部文件系统 (_A)"
+
+msgid "Show active processes"
+msgstr "显示活动的进程"
+
+msgid "Show all processes"
+msgstr "显示全部进程"
+
+msgid "Show network speed in bits"
+msgstr "以比特为单位显示网络速度"
+
+msgid "Show network traffic in bits"
+msgstr "使用字节显示网络通讯量"
+
+msgid "Show only user-owned processes"
+msgstr "仅显示用户所有的进程"
+
+msgid "Show parent/child relationship between processes"
+msgstr "显示进程间的父子关系"
+
+msgid "Show process 'CPU %' column on startup"
+msgstr "启动时显示进程“CPU 百分比”列"
+
+msgid "Show process 'CPU time' column on startup"
+msgstr "启动时显示进程“CPU 时间”列"
+
+msgid "Show process 'Control Group' column on startup"
+msgstr "启动时显示进程 \"控制组\" 列"
+
+msgid "Show process 'Owner' column on startup"
+msgstr "启动时显示进程 \"所有者\" 列"
+
+msgid "Show process 'PID' column on startup"
+msgstr "启动时显示进程“PID”列"
+
+msgid "Show process 'Priority' column on startup"
+msgstr "启动时显示进程 \"优先级\" 列"
+
+msgid "Show process 'SELinux security context' column on startup"
+msgstr "启动时显示进程“SELinux 安全环境”列"
+
+msgid "Show process 'Seat' column on startup"
+msgstr "启动时显示进程 \"座位\" 列"
+
+msgid "Show process 'Session' column on startup"
+msgstr "启动时显示进程 \"会话\" 列"
+
+msgid "Show process 'Unit' column on startup"
+msgstr "启动时显示进程 \"单元\" 列"
+
+msgid "Show process 'Waiting Channel' column on startup"
+msgstr "启动时显示进程“等候频道”列"
+
+msgid "Show process 'X server memory' column on startup"
+msgstr "启动时显示进程“X 服务器内存”列"
+
+msgid "Show process 'arguments' column on startup"
+msgstr "启动时显示进程“参数”列"
+
+msgid "Show process 'estimated memory usage' column on startup"
+msgstr "启动时显示进程“预计内存使用”列"
+
+msgid "Show process 'name' column on startup"
+msgstr "启动时显示进程“名称”列"
+
+msgid "Show process 'nice' column on startup"
+msgstr "启动时显示进程“nice 值”列"
+
+msgid "Show process 'owner' column on startup"
+msgstr "启动时显示进程“所有者”列"
+
+msgid "Show process 'resident memory' column on startup"
+msgstr "启动时显示进程“常驻内存”列"
+
+msgid "Show process 'shared memory' column on startup"
+msgstr "启动时显示进程“共享内存”列"
+
+msgid "Show process 'start time' column on startup"
+msgstr "启动时显示进程“开始时间”列"
+
+msgid "Show process 'status' column on startup"
+msgstr "启动时显示进程“状态”列"
+
+msgid "Show process 'virtual memory' column on startup"
+msgstr "启动时显示进程“虚拟内存”列"
+
+msgid "Show process 'writable memory' column on startup"
+msgstr "启动时显示进程“可写内存”列"
+
+msgid "Show process dependencies in tree form"
+msgstr "以树型显示进程依赖关系"
+
+msgid "Show the File Systems tab"
+msgstr "显示文件系统标签"
+
+msgid "Show the Processes tab"
+msgstr "显示进程标签"
+
+msgid "Show the Resources tab"
+msgstr "显示资源标签"
+
+msgid "Show the System tab"
+msgstr "显示系统标签"
+
+msgid "Show warning dialog when killing processes"
+msgstr "杀死进程时显示警告对话框"
+
+msgid "Sleeping"
+msgstr "睡眠中"
+
+msgid "Solaris mode"
+msgstr "Solaris 模式"
+
+msgid "Solaris mode for CPU percentage"
+msgstr "CPU 百分比使用 Solaris 模式"
+
+msgid "Started"
+msgstr "开始于"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Stop process"
+msgstr "停止进程"
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Swap"
+msgstr "交换"
+
+msgid "System"
+msgstr "系统"
+
+msgid "System Monitor"
+msgstr "系统监视器"
+
+msgid "System Monitor Preferences"
+msgstr "系统监视器首选项"
+
+msgid "System Status"
+msgstr "系统状态"
+
+msgid ""
+"The priority of a process is given by its nice value. A lower nice value "
+"corresponds to a higher priority."
+msgstr "进程的优先级由它的 nice 值决定。低的 nice 值对应于高优先级。"
+
+msgid "The selected color"
+msgstr "选中的颜色"
+
+msgid "The title of the color selection dialog"
+msgstr "颜色选择对话框标题"
+
+msgid "Time in milliseconds between updates of the devices list"
+msgstr "更新设备列表的时间间隔，以毫秒计"
+
+msgid "Time in milliseconds between updates of the graphs"
+msgstr "更新图形的时间间隔，以毫秒计"
+
+msgid "Time in milliseconds between updates of the process view"
+msgstr "更新进程视图的时间间隔，以毫秒计"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Today %l:%M %p"
+msgstr "今天 %H:%M"
+
+msgid "Total"
+msgstr "总数"
+
+msgid "Total Received"
+msgstr "总计已接收"
+
+msgid "Total Sent"
+msgstr "总计已发送"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type of color picker"
+msgstr "颜色拾取器类型"
+
+msgid "Uninterruptible"
+msgstr "不可中断"
+
+msgid "Unit"
+msgstr "单元"
+
+msgid "Used"
+msgstr "已用"
+
+msgid "User"
+msgstr "用户"
+
+msgid "VM End"
+msgstr "VM 终止于"
+
+msgid "VM Offset"
+msgstr "VM 偏移"
+
+msgid "VM Size"
+msgstr "VM 大小"
+
+msgid "VM Start"
+msgstr "VM 开始于"
+
+msgid "Very High"
+msgstr "非常高"
+
+msgid "Very Low"
+msgstr "非常低"
+
+msgid "View additional information about a process"
+msgstr "显示关于进程的额外信息"
+
+msgid "View current processes and monitor system state"
+msgstr "查看当前进程及监视系统状态"
+
+msgid "View the files opened by a process"
+msgstr "查看进程所打开的文件"
+
+msgid "Virtual Memory"
+msgstr "虚拟内存"
+
+msgid "Waiting Channel"
+msgstr "等候频道"
+
+msgid "Whether information about all file systems should be displayed"
+msgstr "是否显示关于全部文件系统的信息"
+
+msgid ""
+"Whether to display information about all file systems (including types like "
+"'autofs' and 'procfs'). Useful for getting a list of all currently mounted "
+"file systems."
+msgstr "是否显示关于全部文件系统的信息(包含 \"autofs\" 和 \"procfs\" 此类的文件系统)。您可以通过此功能获得全部目前已挂载的文件系统。"
+
+msgid "Width of process 'CPU %' column"
+msgstr "进程 CPU 百分比列的宽度"
+
+msgid "Width of process 'CPU time' column"
+msgstr "进程 CPU 时间列的宽度"
+
+msgid "Width of process 'Control Group' column"
+msgstr "进程 \"控制组\" 列的宽度"
+
+msgid "Width of process 'Owner' column"
+msgstr "进程 \"所有者\" 列的宽度"
+
+msgid "Width of process 'PID' column"
+msgstr "进程 PID 列的宽度"
+
+msgid "Width of process 'Priority' column"
+msgstr "进程 \"优先级\" 列的宽度"
+
+msgid "Width of process 'SELinux security context' column"
+msgstr "进程 SELinux 安全环境列的宽度"
+
+msgid "Width of process 'Seat' column"
+msgstr "进程 \"座位\" 列的宽度"
+
+msgid "Width of process 'Session' column"
+msgstr "进程 \"会话\" 列的宽度"
+
+msgid "Width of process 'Unit' column"
+msgstr "进程 \"单元\" 列的宽度"
+
+msgid "Width of process 'Waiting Channel' column"
+msgstr "等候频道列的宽度"
+
+msgid "Width of process 'X server memory' column"
+msgstr "进程 X 服务器内存列的宽度"
+
+msgid "Width of process 'arguments' column"
+msgstr "进程参数列的宽度"
+
+msgid "Width of process 'estimated memory usage' column"
+msgstr "预计内存占用列的宽度"
+
+msgid "Width of process 'name' column"
+msgstr "进程名列的宽度"
+
+msgid "Width of process 'nice' column"
+msgstr "进程 nice 值列的宽度"
+
+msgid "Width of process 'owner' column"
+msgstr "进程所有者列的宽度"
+
+msgid "Width of process 'resident memory' column"
+msgstr "进程常驻内存列的宽度"
+
+msgid "Width of process 'shared memory' column"
+msgstr "进程共享内存列的宽度"
+
+msgid "Width of process 'start time' column"
+msgstr "启动时进程启动时间列的宽度"
+
+msgid "Width of process 'status' column"
+msgstr "进程状态列的宽度"
+
+msgid "Width of process 'virtual memory' column"
+msgstr "进程虚拟内存列的宽度"
+
+msgid "Width of process 'writable memory' column"
+msgstr "进程可写内存列的宽度"
+
+msgid "Writable Memory"
+msgstr "可写内存"
+
+msgid "X Server Memory"
+msgstr "X 服务器内存"
+
+msgid "Yesterday %l:%M %p"
+msgstr "昨天 %H:%M"
+
+msgid "Zombie"
+msgstr "僵死"
+
+msgid "_Active Processes"
+msgstr "活动的进程(_A)"
+
+msgid "_Change Priority"
+msgstr "更改优先级 (_C)"
+
+msgid "_Contents"
+msgstr "目录(_C)"
+
+msgid "_Continue Process"
+msgstr "继续进程(_C)"
+
+msgid "_Dependencies"
+msgstr "依赖关系(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_End Process"
+msgstr "结束进程(_E)"
+
+msgid "_Files opened by process \"%s\" (PID %u):"
+msgstr "进程“%s”(PID %u)所打开的文件(_F)："
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Kill Process"
+msgstr "杀死进程(_K)"
+
+msgid "_Memory Maps"
+msgstr "内存映像(_M)"
+
+msgid "_Memory maps for process \"%s\" (PID %u):"
+msgstr "进程“%s”(PID %u)的内存映像(_M)："
+
+msgid "_Monitor"
+msgstr "监视器(_M)"
+
+msgid "_Name contains:"
+msgstr "名称包含(_N)："
+
+msgid "_Nice value:"
+msgstr "_Nice 值："
+
+msgid "_Properties"
+msgstr "属性 (_P)"
+
+msgid "_Refresh"
+msgstr "刷新(_R)"
+
+msgid "_Stop Process"
+msgstr "停止进程(_S)"
+
+msgid "_Update interval in seconds:"
+msgstr "更新间隔，以秒计(_U)："
+
+msgid "_View"
+msgstr "查看(_V)"
+
+msgid "file"
+msgstr "文件"
+
+msgid "local socket"
+msgstr "本地套接字"
+
+msgid "not available"
+msgstr "不可用"
+
+msgid "pipe"
+msgstr "管道"
+
+msgid "translator-credits"
+msgstr ""
+"MATE 简体中文翻译 <i18n-translation@lists.linux.net.cn>.\n"
+"He Qiangqiang <carton@263.net>, 2002.\n"
+"Funda Wang <fundawang@linux.net.cn>, 2003-2005.\n"
+"Zhang Miao <mymzhang@gmail.com>,2009."
+
+msgid "unknown type"
+msgstr "未知类型"

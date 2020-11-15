@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: apt-listchanges\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-17 14:04+0000\n"
+"PO-Revision-Date: 2016-02-18 04:47+0000\n"
+"Last-Translator: Xiyue Deng <manphiz@gmail.com>\n"
+"Language-Team: Debian Chinese GB <debian-chinese-gb@lists.debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.4\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:48+0000\n"
+
+msgid "%s: Version %s has already been seen"
+msgstr "%s：版本 %s 已经被看过了"
+
+msgid "%s: will be newly installed"
+msgstr "%s：将被全新安装"
+
+msgid ""
+"<big><b>Changelogs</b></big>\n"
+"\n"
+"The following changes are found in the packages you are about to install:"
+msgstr ""
+"<big><b>更新记录</b></big>\n"
+"\n"
+"在你将要安装的软件包中发现如下改变："
+
+msgid "Aborting"
+msgstr "正在终止"
+
+msgid "Changes for %s"
+msgstr "%s 的变更"
+
+msgid "Confirmation failed, don't save seen state"
+msgstr "确认失败，未保存所见状态"
+
+msgid "Continue Installation?"
+msgstr "继续安装？"
+
+msgid "Do you want to continue? [Y/n] "
+msgstr "您想继续吗？[Y/n]？ "
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Ignoring `%s' (seems to be a directory!)"
+msgstr "忽略“%s” (似乎是个目录！)"
+
+msgid "Informational notes"
+msgstr "信息备忘"
+
+msgid "List the changes"
+msgstr "列出更改"
+
+msgid "Mailing %s: %s"
+msgstr "正在邮寄给 %s: %s"
+
+msgid "News for %s"
+msgstr "%s 的新消息"
+
+msgid "Reading changelogs"
+msgstr "读取变更记录(changelogs)"
+
+msgid "Reading changelogs. Please wait."
+msgstr "读取变更记录(changelogs)。请稍候。"
+
+msgid "The %s frontend is deprecated, using pager"
+msgstr "%s 前端已被废除，改用分页器"
+
+msgid ""
+"The gtk frontend needs a working python-gtk2 and python-glade2.\n"
+"Those imports can not be found. Falling back to pager.\n"
+"The error is: %s\n"
+msgstr ""
+"Gtk 前端需要可工作的 python-gtk2 和 python-glade2。\n"
+"无法找到这些组件。回退到使用分页器。\n"
+"错误信息为：%s\n"
+
+msgid "The mail frontend needs a installed 'sendmail', using pager"
+msgstr "邮件前端需要一个已安装的“sendmail”，改用分页器"
+
+msgid "Unknown frontend: %s\n"
+msgstr "未知前端：%s\n"
+
+msgid "Unknown option %s for --which.  Allowed are: %s."
+msgstr "未知选项 %s 用于 --which。允许的有：%s。"
+
+msgid "Usage: apt-listchanges [options] {--apt | filename.deb ...}\n"
+msgstr "用法: apt-listchanges [选项] {--apt | filename.deb ...}\n"
+
+msgid ""
+"Wrong or missing VERSION from apt pipeline\n"
+"(is Dpkg::Tools::Options::/usr/bin/apt-listchanges::Version set to 2?)\n"
+msgstr ""
+"从 apt 传送来的信息缺少版本号(VERSION)或者存在错误的版本号\n"
+"(Dpkg::Tools::Options::/usr/bin/apt-listchanges::Version 设为 2 了吗？)\n"
+
+msgid "You can abort the installation if you select 'no'."
+msgstr "如果您选择“no”您可以中止安装。"
+
+msgid "apt-listchanges: Changelogs"
+msgstr "apt-listchanges: 变更日志"
+
+msgid "apt-listchanges: News"
+msgstr "apt-listchanges: 新内容"
+
+msgid "apt-listchanges: changelogs for %s"
+msgstr "apt-listchanges: %s 的变更日志"
+
+msgid "apt-listchanges: news for %s"
+msgstr "apt-listchanges: %s 的新内容"
+
+msgid "database %s failed to load.\n"
+msgstr "数据库 %s 加载失败。\n"
+
+msgid "didn't find any valid .deb archives"
+msgstr "没有找到任何有效的 .deb 档案"

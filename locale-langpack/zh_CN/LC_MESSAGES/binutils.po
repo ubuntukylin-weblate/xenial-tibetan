@@ -1,0 +1,3249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: binutils 2.24.90\n"
+"Report-Msgid-Bugs-To: bug-binutils@gnu.org\n"
+"POT-Creation-Date: 2014-02-10 09:42+1030\n"
+"PO-Revision-Date: 2015-12-09 21:46+0000\n"
+"Last-Translator: Mingye Wang <arthur2e5@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:51+0000\n"
+
+msgid "\tUnknown version.\n"
+msgstr "\t未知版本。\n"
+
+msgid "\t[Abbrev Number: %ld"
+msgstr "\t[缩写偏移量:      %ld"
+
+msgid "\tcodepage settings are ignored.\n"
+msgstr "\t代码页设置值被忽略。\n"
+
+msgid ""
+"\n"
+"\n"
+"Symbols from %s:\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"来自 %s 的符号：\n"
+"\n"
+
+msgid ""
+"\n"
+"\n"
+"Symbols from %s[%s]:\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"来自 %s[%s] 的符号：\n"
+"\n"
+
+msgid ""
+"\n"
+"\n"
+"Undefined symbols from %s:\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"来自 %s 的未定义符号：\n"
+"\n"
+
+msgid ""
+"\n"
+"\n"
+"Undefined symbols from %s[%s]:\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"来自 %s[%s] 的未定义的符号：\n"
+"\n"
+
+msgid ""
+"\n"
+"      [Requesting program interpreter: %s]"
+msgstr ""
+"\n"
+"      [正在请求程序解释器：%s]"
+
+msgid ""
+"\n"
+"    Address            Length\n"
+msgstr ""
+"\n"
+"    地址               长度\n"
+
+msgid ""
+"\n"
+"    Address    Length\n"
+msgstr ""
+"\n"
+"    地址    长度\n"
+
+msgid ""
+"\n"
+"    Offset\tName\n"
+msgstr ""
+"\n"
+"    偏移量\t名称\n"
+
+msgid ""
+"\n"
+"  Start of program headers:          "
+msgstr ""
+"\n"
+"  程序头起点：          "
+
+msgid ""
+"\n"
+" Opcodes:\n"
+msgstr ""
+"\n"
+" 操作码:\n"
+
+msgid ""
+"\n"
+" The Directory Table (offset 0x%lx):\n"
+msgstr ""
+"\n"
+" 目录表 (偏移 0x%lx):\n"
+
+msgid ""
+"\n"
+" The Directory Table is empty.\n"
+msgstr ""
+"\n"
+" 目录表为空。\n"
+
+msgid ""
+"\n"
+" The File Name Table (offset 0x%lx):\n"
+msgstr ""
+"\n"
+" 文件名表 (偏移 0x%lx):\n"
+
+msgid ""
+"\n"
+" The File Name Table is empty.\n"
+msgstr ""
+"\n"
+" 文件名表为空。\n"
+
+msgid ""
+"\n"
+" The following switches are optional:\n"
+msgstr ""
+"\n"
+" 以下选项是可选的：\n"
+
+msgid ""
+"\n"
+"%s:     file format %s\n"
+msgstr ""
+"\n"
+"%s：     文件格式 %s\n"
+
+msgid ""
+"\n"
+"Address table:\n"
+msgstr ""
+"\n"
+"地址表：\n"
+
+msgid ""
+"\n"
+"Archive index:\n"
+msgstr ""
+"\n"
+"归档索引：\n"
+
+msgid ""
+"\n"
+"CU table:\n"
+msgstr ""
+"\n"
+"CU 表：\n"
+
+msgid ""
+"\n"
+"Dynamic info segment at offset 0x%lx contains %d entries:\n"
+msgstr ""
+"\n"
+"位于偏移量 0x%lx 的动态信息节含有 %d 个条目：\n"
+
+msgid ""
+"\n"
+"Elf file type is %s\n"
+msgstr ""
+"\n"
+"Elf 文件类型为 %s\n"
+
+msgid ""
+"\n"
+"File: %s\n"
+msgstr ""
+"\n"
+"文件：%s\n"
+
+msgid ""
+"\n"
+"Hex dump of section '%s':\n"
+msgstr ""
+"\n"
+"“%s”节的十六进制输出：\n"
+
+msgid ""
+"\n"
+"Image relocs\n"
+msgstr ""
+"\n"
+"映像重定位\n"
+
+msgid ""
+"\n"
+"Program Headers:\n"
+msgstr ""
+"\n"
+"程序头：\n"
+
+msgid ""
+"\n"
+"Relocation section "
+msgstr ""
+"\n"
+"重定位节 "
+
+msgid ""
+"\n"
+"Section '%s' contains %d entries:\n"
+msgstr ""
+"\n"
+"“%s”节含有 %d 个条目：\n"
+
+msgid ""
+"\n"
+"Section '%s' has no data to dump.\n"
+msgstr ""
+"\n"
+"“%s”节没有可输出的数据。\n"
+
+msgid ""
+"\n"
+"Section '%s' has no debugging data.\n"
+msgstr ""
+"\n"
+"“%s” 节不含正在调试的数据。\n"
+
+msgid ""
+"\n"
+"Section Header:\n"
+msgstr ""
+"\n"
+"节头：\n"
+
+msgid ""
+"\n"
+"Section Headers:\n"
+msgstr ""
+"\n"
+"节头：\n"
+
+msgid ""
+"\n"
+"TU table:\n"
+msgstr ""
+"\n"
+"TU 表：\n"
+
+msgid ""
+"\n"
+"The %s section is empty.\n"
+msgstr ""
+"\n"
+"%s 段空。\n"
+
+msgid ""
+"\n"
+"There are %d program headers, starting at offset "
+msgstr ""
+"\n"
+"共有 %d 个程序头，开始于偏移量 "
+
+msgid ""
+"\n"
+"There are no dynamic relocations in this file.\n"
+msgstr ""
+"\n"
+"本文件中没有动态重定位。\n"
+
+msgid ""
+"\n"
+"There are no program headers in this file.\n"
+msgstr ""
+"\n"
+"本文件中没有程序头。\n"
+
+msgid ""
+"\n"
+"There are no relocations in this file.\n"
+msgstr ""
+"\n"
+"该文件中没有重定位信息。\n"
+
+msgid ""
+"\n"
+"There are no sections in this file.\n"
+msgstr ""
+"\n"
+"本文件中没有节。\n"
+
+msgid ""
+"\n"
+"Unwind section "
+msgstr ""
+"\n"
+"展开节 "
+
+msgid ""
+"\n"
+"Version symbols section '%s' contains %d entries:\n"
+msgstr ""
+"\n"
+"版本符号节“%s”含有 %d 个条目：\n"
+
+msgid ""
+"\n"
+"start address 0x"
+msgstr ""
+"\n"
+"起始地址 0x"
+
+msgid ""
+"        possible <machine>: arm[_interwork], i386, mcore[-elf]{-le|-be}, "
+"ppc, thumb\n"
+msgstr ""
+"        可能的 <machine>：arm[_interwork]、i386、mcore[-elf]{-le|-be}、ppc、thumb\n"
+
+msgid "       %s -M [<mri-script]\n"
+msgstr "       %s -M [<mri-脚本]\n"
+
+msgid "       Flags\n"
+msgstr "       旗标\n"
+
+msgid "       Size              EntSize          Flags  Link  Info  Align\n"
+msgstr "       大小              全体大小          旗标   链接   信息   对齐\n"
+
+msgid "       Size              EntSize          Info              Align\n"
+msgstr "       大小              全体大小          信息               对齐\n"
+
+msgid "       Type              Address          Offset            Link\n"
+msgstr "       类型              地址              偏移量             链接\n"
+
+msgid ""
+"      --add-stdcall-underscore Add underscores to stdcall symbols in "
+"interface library.\n"
+msgstr "      --add-stdcall-underscore 向接口中的 stdcall 符号添加下划线。\n"
+
+msgid "      --exclude-symbols <list> Don't export <list>\n"
+msgstr "      --exclude-symbols <list> 不要导出 <list>\n"
+
+msgid "      --export-all-symbols   Export all symbols to .def\n"
+msgstr "      --export-all-symbols   将所有符号导出到 .def\n"
+
+msgid "      --no-default-excludes  Clear default exclude symbols\n"
+msgstr "      --no-default-excludes  清空缺省排除的符号\n"
+
+msgid "      --no-export-all-symbols  Only export listed symbols\n"
+msgstr "      --no-export-all-symbols  只导出列举的符号\n"
+
+msgid "     --yydebug                 Turn on parser debugging\n"
+msgstr "     --yydebug                 打开解析器调试\n"
+
+msgid ""
+"    Offset             Info             Type               Symbol's Value  "
+"Symbol's Name\n"
+msgstr "    偏移量             信息             类型               符号值          符号名称\n"
+
+msgid ""
+"    Offset             Info             Type               Symbol's Value  "
+"Symbol's Name + Addend\n"
+msgstr ""
+"    偏移量             信息             类型               符号值          符号名称 + 加数\n"
+
+msgid "    Offset   Begin    End      Expression\n"
+msgstr "    偏移量   起始      结束      表达式\n"
+
+msgid "   --add-stdcall-alias    Add aliases without @<n>\n"
+msgstr "   --add-stdcall-alias    添加不带 @<n> 的别名\n"
+
+msgid "   --as <name>            Use <name> for assembler\n"
+msgstr "   --as <name>            将 <name> 用作汇编程序\n"
+
+msgid "   --base-file <basefile> Read linker generated base file\n"
+msgstr "   --base-file <base文件> 读取链接器所产生的 base 文件。\n"
+
+msgid "   --def <deffile>        Name input .def file\n"
+msgstr "   --def <deffile>        输入 .def 文件的文件名\n"
+
+msgid "   --dllname <name>       Name of input dll to put into output lib.\n"
+msgstr "   --dllname <名称>       要置入输出函数库的输入 dll 名称。\n"
+
+msgid "   --dlltool-name <dlltool> Defaults to \"dlltool\"\n"
+msgstr "   --dlltool-name <dlltool> 默认为“dlltool”\n"
+
+msgid "   --driver-flags <flags> Override default ld flags\n"
+msgstr "   --driver-flags <flags> 覆盖默认的 ld 标志\n"
+
+msgid "   --driver-name <driver> Defaults to \"gcc\"\n"
+msgstr "   --driver-name <driver> 默认为“gcc”\n"
+
+msgid "   --dry-run              Show what needs to be run\n"
+msgstr "   --dry-run              只显示需要运行那些动作\n"
+
+msgid "   --entry <entry>        Specify alternate DLL entry point\n"
+msgstr "   --entry <入口>         指定额外的 DLL 入口点\n"
+
+msgid "   --exclude-symbols <list> Exclude <list> from .def\n"
+msgstr "   --exclude-symbols <list> 从 .def 中排除 <list>\n"
+
+msgid "   --export-all-symbols     Export all symbols to .def\n"
+msgstr "   --export-all-symbols     将所有符号导出到 .def 中\n"
+
+msgid "   --image-base <base>    Specify image base address\n"
+msgstr "   --image-base <基址>    指定映像的基本地址\n"
+
+msgid "   --implib <outname>     Synonym for --output-lib\n"
+msgstr "   --implib <outname>     --output-lib 的同义语\n"
+
+msgid "   --machine <machine>\n"
+msgstr "   --machine <machine>\n"
+
+msgid "   --mno-cygwin           Create Mingw DLL\n"
+msgstr "   --mno-cygwin           创建 Mingw DLL\n"
+
+msgid "   --no-default-excludes    Zap default exclude symbols\n"
+msgstr "   --no-default-excludes    清空默认排除符号\n"
+
+msgid "   --no-export-all-symbols  Only export .drectve symbols\n"
+msgstr "   --no-export-all-symbols  只导出符号 .drectve\n"
+
+msgid "   --no-idata4           Don't generate idata$4 section\n"
+msgstr "   --no-idata4           不生成 idata$4 节\n"
+
+msgid "   --no-idata5           Don't generate idata$5 section\n"
+msgstr "   --no-idata5           不生成 idata$5 节\n"
+
+msgid "   --nodelete             Keep temp files.\n"
+msgstr "   --nodelete             保留临时文件。\n"
+
+msgid "   --output-def <deffile> Name output .def file\n"
+msgstr "   --output-def <deffile> 输出 .def 文件的文件名\n"
+
+msgid "   --output-exp <outname> Generate export file.\n"
+msgstr "   --output-exp <outname> 生成导出文件。\n"
+
+msgid "   --output-lib <outname> Generate input library.\n"
+msgstr "   --output-lib <outname> 生成输入库。\n"
+
+msgid "   --quiet, -q            Work quietly\n"
+msgstr "   --quiet, -q            安静地工作\n"
+
+msgid "   --target <machine>     i386-cygwin32 or i386-mingw32\n"
+msgstr "   --target <machine>     i386-cygwin32 或 i386-mingw32\n"
+
+msgid "   --verbose, -v          Verbose\n"
+msgstr "   --verbose, -v          输出较多信息\n"
+
+msgid "   --version              Print dllwrap version\n"
+msgstr "   --version              打印 dllwrap 的版本号\n"
+
+msgid "   -A --add-stdcall-alias    Add aliases without @<n>.\n"
+msgstr "   -A --add-stdcall-alias    添加不带 @<n> 的别名。\n"
+
+msgid ""
+"   -C --compat-implib        Create backward compatible import library.\n"
+msgstr "   -C --compat-implib        创建向后兼容的导入库。\n"
+
+msgid ""
+"   -D --dllname <name>       Name of input dll to put into interface lib.\n"
+msgstr "   -D --dllname <名称>       要置入接口函数库的输入 dll 名称。\n"
+
+msgid "   -F --linker-flags <flags> Pass <flags> to the linker.\n"
+msgstr "   -F --linker-flags <flags> 把 <flags> 传递给连接器。\n"
+
+msgid "   -L --linker <name>        Use <name> as the linker.\n"
+msgstr "   -L --linker <name>        将 <name> 用作连接器。\n"
+
+msgid ""
+"   -M --mcore-elf <outname>  Process mcore-elf object files into "
+"<outname>.\n"
+msgstr "   -M --mcore-elf <输出名称>  将 mcore-elf 对象文件处理成 <输出名称>。\n"
+
+msgid "   -S --as <name>            Use <name> for assembler.\n"
+msgstr "   -S --as <name>            将 <name> 用作汇编程序。\n"
+
+msgid "   -U                     Add underscores to .lib\n"
+msgstr "   -U                     为 .lib 添加下划线\n"
+
+msgid ""
+"   -U --add-underscore       Add underscores to all symbols in interface "
+"library.\n"
+msgstr "   -U --add-underscore       于接口中所有符号添加下划线。\n"
+
+msgid "   -V --version              Display the program version.\n"
+msgstr "   -V --version              显示程序版本号。\n"
+
+msgid "   -a --add-indirect         Add dll indirects to export file.\n"
+msgstr "   -a --add-indirect         间接向导出文件中添加 dll .\n"
+
+msgid "   -b --base-file <basefile> Read linker generated base file.\n"
+msgstr "   -b --base-file <base文件> 读取链接器所产生的 base 文件。\n"
+
+msgid "   -c --no-idata5            Don't generate idata$5 section.\n"
+msgstr "   -c --no-idata5            不生成 idata$5 节。\n"
+
+msgid "   -d --input-def <deffile>  Name of .def file to be read in.\n"
+msgstr "   -d --input-def <deffile>  需读取的 .def 文件名。\n"
+
+msgid "   -e --output-exp <outname> Generate an export file.\n"
+msgstr "   -e --output-exp <outname> 生成导出文件。\n"
+
+msgid "   -f --as-flags <flags>     Pass <flags> to the assembler.\n"
+msgstr "   -f --as-flags <flags>     把 <flags> 传递给汇编程序。\n"
+
+msgid "   -h --help                 Display this information.\n"
+msgstr "   -h --help                 显示本信息。\n"
+
+msgid "   -k                     Kill @<n> from exported names\n"
+msgstr "   -k                     删去导出名字中的 @<n>\n"
+
+msgid "   -k --kill-at              Kill @<n> from exported names.\n"
+msgstr "   -k --kill-at              删去导出名称中的 @<n>。\n"
+
+msgid "   -l --output-lib <outname> Generate an interface library.\n"
+msgstr "   -l --output-lib <outname> 生成界面库。\n"
+
+msgid ""
+"   -m --machine <machine>    Create as DLL for <machine>.  [default: %s]\n"
+msgstr "   -m --machine <machine>    为 <machine> 创建 DLL。[默认：%s]\n"
+
+msgid ""
+"   -n --no-delete            Keep temp files (repeat for extra "
+"preservation).\n"
+msgstr "   -n --no-delete            保留临时文件 (重复以保留更多)。\n"
+
+msgid "   -p --ext-prefix-alias <prefix> Add aliases with <prefix>.\n"
+msgstr "   -p --ext-prefix-alias <前缀>   添加附带 <前缀> 的别名。\n"
+
+msgid "   -v --verbose              Be verbose.\n"
+msgstr "   -v --verbose              输出更多信息。\n"
+
+msgid "   -x --no-idata4            Don't generate idata$4 section.\n"
+msgstr "   -x --no-idata4            不生成 idata$4 节。\n"
+
+msgid "   -y --output-delaylib <outname> Create a delay-import library.\n"
+msgstr "   -y --output-delaylib <outname> 生成延迟导入库。\n"
+
+msgid "   -z --output-def <deffile> Name of .def file to be created.\n"
+msgstr "   -z --output-def <deffile> 需创建的 .def 文件名。\n"
+
+msgid "   0 (*local*)    "
+msgstr "   0 (*本地*)    "
+
+msgid "   1 (*global*)   "
+msgstr "   1 (*全局*)   "
+
+msgid "   @<file>                   Read options from <file>.\n"
+msgstr "   @<file>                   从 <file> 读取选项。\n"
+
+msgid "   @<file>                Read options from <file>\n"
+msgstr "   @<file>                从 <file> 读取选项\n"
+
+msgid "   Abbrev Offset: 0x%s\n"
+msgstr "   缩写偏移量：    0x%s\n"
+
+msgid "   Length:        0x%s (%s)\n"
+msgstr "   长度：        0x%s (%s)\n"
+
+msgid "   Pointer Size:  %d\n"
+msgstr "   指针大小：    %d\n"
+
+msgid "   Signature:     0x%s\n"
+msgstr "   签名：         0x%s\n"
+
+msgid "   Type Offset:   0x%s\n"
+msgstr "   类型偏移量：  0x%s\n"
+
+msgid "   Version:       %d\n"
+msgstr "   版本：        %d\n"
+
+msgid "  %#06x:   Name index: %lx"
+msgstr "  %#06x：名称索引：%lx"
+
+msgid "  %#06x:   Name: %s"
+msgstr "  %#06x：名称：%s"
+
+msgid "  %#06x: Parent %d, name index: %ld\n"
+msgstr "  %#06x: 前一版 %d, 名称索引: %ld\n"
+
+msgid "  %#06x: Parent %d: %s\n"
+msgstr "  %#06x: 前一版 %d: %s\n"
+
+msgid "  %#06x: Version: %d"
+msgstr "  %#06x: 版本: %d"
+
+msgid "  (Unknown inline attribute value: %s)"
+msgstr "  (未知的内嵌属性值：%s)"
+
+msgid "  --plugin <name>              Load the specified plugin\n"
+msgstr "  --plugin <name>              加载指定的插件程序\n"
+
+msgid "  --plugin <p> - load the specified plugin\n"
+msgstr "  --plugin <p> - 加载指定的插件程序\n"
+
+msgid "  --target=BFDNAME - specify the target object format as BFDNAME\n"
+msgstr "  --target=BFDNAME - 指定目标对象格式为 BFDNAME\n"
+
+msgid ""
+"  -D                           Use zero for symbol map timestamp\n"
+"  -U                           Use actual symbol map timestamp (default)\n"
+msgstr ""
+"  -D                           将 0 用于符号表时间戳\n"
+"  -U                           使用实际符号表时间戳（默认）\n"
+
+msgid ""
+"  -D                           Use zero for symbol map timestamp (default)\n"
+"  -U                           Use an actual symbol map timestamp\n"
+msgstr ""
+"  -D                           将 0 用于符号表时间戳（默认）\n"
+"  -U                           使用实际符号表时间戳\n"
+
+msgid ""
+"  -H --help                    Print this help message\n"
+"  -v --verbose                 Verbose - tells you what it's doing\n"
+"  -V --version                 Print version information\n"
+msgstr ""
+"  -H --help                    打印这份帮助\n"
+"  -v --verbose                 详细模式 - 告诉您它在做什么\n"
+"  -V --version                 打印版本信息\n"
+
+msgid ""
+"  -b, --target=BFDNAME           Specify the target object format as BFDNAME\n"
+"  -m, --architecture=MACHINE     Specify the target architecture as MACHINE\n"
+"  -j, --section=NAME             Only display information for section NAME\n"
+"  -M, --disassembler-options=OPT Pass text OPT on to the disassembler\n"
+"  -EB --endian=big               Assume big endian format when disassembling\n"
+"  -EL --endian=little            Assume little endian format when disassembling\n"
+"      --file-start-context       Include context from start of file (with -S)\n"
+"  -I, --include=DIR              Add DIR to search list for source files\n"
+"  -l, --line-numbers             Include line numbers and filenames in output\n"
+"  -F, --file-offsets             Include file offsets when displaying information\n"
+"  -C, --demangle[=STYLE]         Decode mangled/processed symbol names\n"
+"                                  The STYLE, if specified, can be `auto', `gnu',\n"
+"                                  `lucid', `arm', `hp', `edg', `gnu-v3', `java'\n"
+"                                  or `gnat'\n"
+"  -w, --wide                     Format output for more than 80 columns\n"
+"  -z, --disassemble-zeroes       Do not skip blocks of zeroes when disassembling\n"
+"      --start-address=ADDR       Only process data whose address is >= ADDR\n"
+"      --stop-address=ADDR        Only process data whose address is <= ADDR\n"
+"      --prefix-addresses         Print complete address alongside disassembly\n"
+"      --[no-]show-raw-insn       Display hex alongside symbolic disassembly\n"
+"      --insn-width=WIDTH         Display WIDTH bytes on a single line for -d\n"
+"      --adjust-vma=OFFSET        Add OFFSET to all displayed section addresses\n"
+"      --special-syms             Include special symbols in symbol dumps\n"
+"      --prefix=PREFIX            Add PREFIX to absolute paths for -S\n"
+"      --prefix-strip=LEVEL       Strip initial directory names for -S\n"
+msgstr ""
+"  -b, --target=BFDNAME           将标的目标文件格式指定为 BFDNAME\n"
+"  -m, --architecture=MACHINE     将标的体系结构指定为 MACHINE\n"
+"  -j, --section=NAME             只显示 NAME 节的信息\n"
+"  -M, --disassembler-options=OPT 将文本传递到 OPT 反汇编程序\n"
+"  -EB --endian=big               反汇编时假定高位字节在前\n"
+"  -EL --endian=little            反汇编时假定低位字节在前\n"
+"      --file-start-context       从文件的起点引入上下文 (带有 -S)\n"
+"  -l, --line-numbers             在输出中给出行号和文件名\n"
+"  -C, --demangle[=STYLE]         对修饰过的 (mangled) 符号名进行解码\n"
+"                                  如果给出了 STYLE，STYLE 可能为“auto”、“gnu”、\n"
+"                                  “lucid”、“arm”、“hp”、“edg”或“gnu-new-abi”\n"
+"  -w, --wide                     以多于 80 列的宽度对输出进行格式化\n"
+"  -z, --disassemble-zeroes       反汇编时不要跳过为零的块\n"
+"      --start-address=ADDR       只有进程数据的地址 >= ADDR\n"
+"      --stop-address=ADDR        只有进程数据的地址 <= ADDR\n"
+"      --prefix-addresses         同反汇编代码并列显示完整的地址\n"
+"      --[no-]show-raw-insn       同符号反汇编并列显示十六进制值\n"
+"      --adjust-vma=OFFSET        为所有显示的节地址增加 OFFSET\n"
+
+msgid ""
+"  -r                           Ignored for compatibility with rc\n"
+"  @<file>                      Read options from <file>\n"
+"  -h --help                    Print this help message\n"
+"  -V --version                 Print version information\n"
+msgstr ""
+"  -r                           为与 rc 的兼容性忽略\n"
+"  @<file>                      读取选项从 <file>\n"
+"  -h --help                    打印这份说明消息\n"
+"  -V --version                 打印版本信息\n"
+
+msgid ""
+"  -t                           Update the archive's symbol map timestamp\n"
+"  -h --help                    Print this help message\n"
+"  -v --version                 Print version information\n"
+msgstr ""
+"  -t                           更新归档的符号映射时间戳记\n"
+"  -h --help                    打印本帮助消息\n"
+"  -v --version                 打印版本信息\n"
+
+msgid "  @<file>      - read options from <file>\n"
+msgstr "  @<file>       - 从 <file> 读取选项\n"
+
+msgid "  ABI Version:                       %d\n"
+msgstr "  ABI 版本:                          %d\n"
+
+msgid "  Addr: 0x"
+msgstr "  地址：0x"
+
+msgid "  Class:                             %s\n"
+msgstr "  类别:                              %s\n"
+
+msgid "  Cnt: %d\n"
+msgstr "  计数：%d\n"
+
+msgid "  Compilation Unit @ offset 0x%s:\n"
+msgstr "  编译单元 @ 偏移 0x%s:\n"
+
+msgid "  Copy\n"
+msgstr "  复制\n"
+
+msgid "  DWARF Version:               %d\n"
+msgstr "  DWARF 版本：                %d\n"
+
+msgid "  Data:                              %s\n"
+msgstr "  数据:                              %s\n"
+
+msgid "  Entry\tDir\tTime\tSize\tName\n"
+msgstr "  条目\t目录\t时间\t大小\t名称\n"
+
+msgid "  Entry point address:               "
+msgstr "  入口点地址：               "
+
+msgid "  Extended opcode %d: "
+msgstr "  扩充操作码 %d： "
+
+msgid "  File: %lx"
+msgstr "  文件：%lx"
+
+msgid "  File: %s"
+msgstr "  文件：%s"
+
+msgid "  Flags"
+msgstr "  标志"
+
+msgid "  Flags:                             0x%lx%s\n"
+msgstr "  标志：             0x%lx%s\n"
+
+msgid "  Flags: %s  Version: %d\n"
+msgstr "  标志：%s  版本：%d\n"
+
+msgid "  For compilation unit at offset 0x%s:\n"
+msgstr "  对编译单元，位于偏移 0x%s:\n"
+
+msgid "  Generic options:\n"
+msgstr "  通用选项：\n"
+
+msgid "  Initial value of 'is_stmt':  %d\n"
+msgstr "  “is_stmt”的初始值：       %d\n"
+
+msgid "  Length:                              %ld\n"
+msgstr "  长度：                              %ld\n"
+
+msgid "  Length:                      %ld\n"
+msgstr "  长度：                      %ld\n"
+
+msgid "  Length:                   %ld\n"
+msgstr "  长度：                    %ld\n"
+
+msgid "  Line Base:                   %d\n"
+msgstr "  行基数：                      %d\n"
+
+msgid "  Line Range:                  %d\n"
+msgstr "  行范围：                      %d\n"
+
+msgid "  Machine:                           %s\n"
+msgstr "  系统架构:                          %s\n"
+
+msgid "  Magic:   "
+msgstr "  Magic：   "
+
+msgid "  Maximum Ops per Instruction: %d\n"
+msgstr "  每个指令中最大操作码数：       %d\n"
+
+msgid "  Minimum Instruction Length:  %d\n"
+msgstr "  最小指令长度：              %d\n"
+
+msgid "  No emulation specific options\n"
+msgstr "  没有仿真特有的选项\n"
+
+msgid "  Number of section headers:         %ld"
+msgstr "  节头数量：         %ld"
+
+msgid "  OS/ABI:                            %s\n"
+msgstr "  OS/ABI:                            %s\n"
+
+msgid ""
+"  Offset          Info           Type           Sym. Value    Sym. Name\n"
+msgstr "  偏移量          信息           类型           符号值        符号名称\n"
+
+msgid ""
+"  Offset          Info           Type           Sym. Value    Sym. Name + "
+"Addend\n"
+msgstr "  偏移量          信息           类型           符号值        符号名称 + 加数\n"
+
+msgid "  Offset into .debug_info:  0x%lx\n"
+msgstr "  .debug_info 节中的偏移量:  0x%lx\n"
+
+msgid "  Offset into .debug_line:     0x%lx\n"
+msgstr "  .debug_info 节中的偏移量:     0x%lx\n"
+
+msgid "  Offset size:                 %d\n"
+msgstr "  偏移量长度：                   %d\n"
+
+msgid "  Offset table\n"
+msgstr "  偏移量表\n"
+
+msgid "  Offset:                      0x%lx\n"
+msgstr "  偏移：                       0x%lx\n"
+
+msgid "  Opcode %d has %d args\n"
+msgstr "  操作码 %d 具有 %d 个参数\n"
+
+msgid "  Opcode Base:                 %d\n"
+msgstr "  操作码基数：                  %d\n"
+
+msgid "  Options for %s:\n"
+msgstr "  %s 的选项：\n"
+
+msgid "  Options passed to DLLTOOL:\n"
+msgstr "  传递给 DLLTOOL 的选项：\n"
+
+msgid "  Pointer Size:             %d\n"
+msgstr "  指针大小:                 %d\n"
+
+msgid "  Prologue Length:             %d\n"
+msgstr "  导言长度：        %d\n"
+
+msgid "  Rest are passed unmodified to the language driver\n"
+msgstr "  其余的都不加任何修改第传递给语言驱动器\n"
+
+msgid "  Section header string table index: %ld"
+msgstr "  字符串表索引节头： %ld"
+
+msgid "  Segment Sections...\n"
+msgstr "  段节...\n"
+
+msgid "  Segment Size:             %d\n"
+msgstr "  节区大小:                 %d\n"
+
+msgid "  Set ISA to %lu\n"
+msgstr "  设置 ISA 为 %lu\n"
+
+msgid "  Set ISA to %s\n"
+msgstr "  将 ISA 设定为 %s\n"
+
+msgid "  Set basic block\n"
+msgstr "  设定基本块\n"
+
+msgid "  Set column to %s\n"
+msgstr "  将列设定为 %s\n"
+
+msgid "  Set epilogue_begin to true\n"
+msgstr "  将 epilogue_begin 设置为真\n"
+
+msgid "  Set is_stmt to %s\n"
+msgstr "  将 is_stmt 设定为 %s\n"
+
+msgid "  Set prologue_end to true\n"
+msgstr "  将 prologue_end 设置为真\n"
+
+msgid "  Size of area in .debug_info section: %ld\n"
+msgstr "  在 .debug_info 节中区域的大小：     %ld\n"
+
+msgid "  Size of program headers:           %ld (bytes)\n"
+msgstr "  程序头大小：       %ld (字节)\n"
+
+msgid "  Size of section headers:           %ld (bytes)\n"
+msgstr "  节头大小：         %ld (字节)\n"
+
+msgid "  Size of this header:               %ld (bytes)\n"
+msgstr "  本头的大小：       %ld (字节)\n"
+
+msgid "  Size table\n"
+msgstr "  尺寸表\n"
+
+msgid "  Tag        Type                         Name/Value\n"
+msgstr "  标记        类型                         名称/值\n"
+
+msgid "  Type:                              %s\n"
+msgstr "  类型:                              %s\n"
+
+msgid "  Unhandled magic\n"
+msgstr "  未经处理的魔数\n"
+
+msgid "  Unsupported version\n"
+msgstr "  不支持的版本\n"
+
+msgid "  Version:                             %d\n"
+msgstr "  版本：                              %d\n"
+
+msgid "  Version:                           %d %s\n"
+msgstr "  版本:                              %d %s\n"
+
+msgid "  Version:                           0x%lx\n"
+msgstr "  版本:                              0x%lx\n"
+
+msgid "  Version:                     %d\n"
+msgstr "  版本：                        %d\n"
+
+msgid "  Version:                  %d\n"
+msgstr "  版本：                    %d\n"
+
+msgid "  [-X32]       - ignores 64 bit objects\n"
+msgstr "  [-X32]       - 忽略 64 位对象\n"
+
+msgid "  [-X32_64]    - accepts 32 and 64 bit objects\n"
+msgstr "  [-X32_64]    - 接受 32 位和 64 位对象\n"
+
+msgid "  [-X64]       - ignores 32 bit objects\n"
+msgstr "  [-X64]       - 忽略 32 位对象\n"
+
+msgid "  [-g]         - 32 bit small archive\n"
+msgstr "  [-g]         - 32 位小归档文件\n"
+
+msgid "  [D]          - use zero for timestamps and uids/gids\n"
+msgstr "  [D]          - 将 0 用于时间戳和 uid/gid\n"
+
+msgid "  [D]          - use zero for timestamps and uids/gids (default)\n"
+msgstr "  [D]          - 将 0 用于时间戳和 uid/gid（默认）\n"
+
+msgid "  [N]          - use instance [count] of name\n"
+msgstr "  [N]          - 使用名称的实例 [数量]\n"
+
+msgid "  [Nr] Name\n"
+msgstr "  [号] 名称\n"
+
+msgid "  [Nr] Name              Type             Address           Offset\n"
+msgstr "  [号] 名称              类型             地址              偏移量\n"
+
+msgid "  [P]          - use full path names when matching\n"
+msgstr "  [P]          - 在匹配时使用完整的路径名\n"
+
+msgid "  [S]          - do not build a symbol table\n"
+msgstr "  [S]          - 不要创建符号表\n"
+
+msgid "  [T]          - make a thin archive\n"
+msgstr "  [T]          - 产生一个简单归档\n"
+
+msgid "  [U]          - use actual timestamps and uids/gids\n"
+msgstr "  [D]          - 使用实际时间戳和 uid/gid\n"
+
+msgid "  [U]          - use actual timestamps and uids/gids (default)\n"
+msgstr "  [D]          - 使用实际时间戳和 uid/gid（默认）\n"
+
+msgid "  [V]          - display the version number\n"
+msgstr "  [V]          - 显示版本号\n"
+
+msgid "  [a]          - put file(s) after [member-name]\n"
+msgstr "  [a]          - 将文件置于 [成员名] 之后\n"
+
+msgid "  [b]          - put file(s) before [member-name] (same as [i])\n"
+msgstr "  [b]          - 将文件置于 [成员名] 之前 (于 [i] 相同)\n"
+
+msgid "  [c]          - do not warn if the library had to be created\n"
+msgstr "  [c]          - 不在必须创建库的时候给出警告\n"
+
+msgid "  [f]          - truncate inserted file names\n"
+msgstr "  [f]          - 截去插入的文件名称\n"
+
+msgid "  [o]          - preserve original dates\n"
+msgstr "  [o]          - 保留原来的日期\n"
+
+msgid "  [s]          - create an archive index (cf. ranlib)\n"
+msgstr "  [s]          - 创建归档索引 (cf. ranlib)\n"
+
+msgid ""
+"  [u]          - only replace files that are newer than current archive "
+"contents\n"
+msgstr "  [u]          - 只替换比当前归档内容更新的文件\n"
+
+msgid "  [v]          - be verbose\n"
+msgstr "  [v]          - 输出较多信息\n"
+
+msgid "  d            - delete file(s) from the archive\n"
+msgstr "  d            - 从归档文件中删除文件\n"
+
+msgid "  m[ab]        - move file(s) in the archive\n"
+msgstr "  m[ab]        - 在归档文件中移动文件\n"
+
+msgid "  p            - print file(s) found in the archive\n"
+msgstr "  p            - 打印在归档文件中找到的文件\n"
+
+msgid "  q[f]         - quick append file(s) to the archive\n"
+msgstr "  q[f]         - 将文件快速追加到归档文件中\n"
+
+msgid ""
+"  r[ab][f][u]  - replace existing or insert new file(s) into the archive\n"
+msgstr "  r[ab][f][u]  - 替换归档文件中已有的文件或加入新文件\n"
+
+msgid "  s            - act as ranlib\n"
+msgstr "  s            - 作为 ranlib 工作\n"
+
+msgid "  t            - display contents of archive\n"
+msgstr "  t            - 显示归档文件的内容\n"
+
+msgid "  x[o]         - extract file(s) from the archive\n"
+msgstr "  x[o]         - 从归档文件中分解文件\n"
+
+msgid " %s byte block: "
+msgstr " %s 字节区块： "
+
+msgid " (indexed string: 0x%s): %s"
+msgstr " (索引字串，偏移量：0x%s)： %s"
+
+msgid " (indirect string, offset: 0x%s): %s"
+msgstr " (间接字串，偏移量：0x%s)： %s"
+
+msgid " (inlined by) "
+msgstr " (已内连入) "
+
+msgid " (location list)"
+msgstr " (位置列表)"
+
+msgid " (start == end)"
+msgstr " (开始 == 结束)"
+
+msgid " (start > end)"
+msgstr " (开始 > 结束)"
+
+msgid " <%d><%lx>: Abbrev Number: %lu"
+msgstr " <%d><%lx>：缩写编号：%lu"
+
+msgid " <%d><%lx>: Abbrev Number: 0\n"
+msgstr " <%d><%lx>：缩写编号：0\n"
+
+msgid " Addr: "
+msgstr " 地址： "
+
+msgid " Addr: 0x"
+msgstr " 地址：0x"
+
+msgid " At least one of the following switches must be given:\n"
+msgstr " 至少必须给出以下选项之一：\n"
+
+msgid " Convert addresses into line number/file name pairs.\n"
+msgstr " 将地址转换成文件名/行号对。\n"
+
+msgid " Convert an object file into a NetWare Loadable Module\n"
+msgstr " 将对象文件转换为  NetWare 可载入模块\n"
+
+msgid " Copies a binary file, possibly transforming it in the process\n"
+msgstr " 复制二进制文件，可能在此过程中进行变换\n"
+
+msgid " DW_MACINFO_define - lineno : %d macro : %s\n"
+msgstr " DW_MACINFO_define - 行号：%d 宏：%s\n"
+
+msgid " DW_MACINFO_end_file\n"
+msgstr " DW_MACINFO_end_file\n"
+
+msgid " DW_MACINFO_start_file - lineno: %d filenum: %d\n"
+msgstr " DW_MACINFO_start_file - 行号：%d 文件编号：%d\n"
+
+msgid " DW_MACINFO_undef - lineno : %d macro : %s\n"
+msgstr " DW_MACINFO_undef - 行号：%d 宏：%s\n"
+
+msgid " DW_MACINFO_vendor_ext - constant : %d string : %s\n"
+msgstr " DW_MACINFO_vendor_ext - 常量：%d 字符串：%s\n"
+
+msgid " DW_MACRO_GNU_define - lineno : %d macro : %s\n"
+msgstr " DW_MACINFO_define - 行号：%d 宏：%s\n"
+
+msgid " DW_MACRO_GNU_define_indirect - lineno : %d macro : %s\n"
+msgstr " DW_MACINFO_define - 行号：%d 宏：%s\n"
+
+msgid " DW_MACRO_GNU_define_indirect_alt - lineno : %d macro offset : 0x%lx\n"
+msgstr " DW_MACRO_GNU_define_indirect_alt - 行号：%d 宏偏移： 0x%lx\n"
+
+msgid " DW_MACRO_GNU_end_file\n"
+msgstr " DW_MACINFO_end_file\n"
+
+msgid " DW_MACRO_GNU_start_file - lineno: %d filenum: %d\n"
+msgstr " DW_MACINFO_start_file - 行号：%d 文件编号：%d\n"
+
+msgid " DW_MACRO_GNU_start_file - lineno: %d filenum: %d filename: %s%s%s\n"
+msgstr " DW_MACRO_GNU_start_file - 行号：%d 文件编号：%d 文件名：%s%s%s\n"
+
+msgid " DW_MACRO_GNU_undef - lineno : %d macro : %s\n"
+msgstr " DW_MACINFO_undef - 行号：%d 宏：%s\n"
+
+msgid " DW_MACRO_GNU_undef_indirect - lineno : %d macro : %s\n"
+msgstr " DW_MACINFO_define - 行号：%d 宏：%s\n"
+
+msgid " DW_MACRO_GNU_undef_indirect_alt - lineno : %d macro offset : 0x%lx\n"
+msgstr " DW_MACRO_GNU_undef_indirect_alt - 行号：%d 宏偏移：0x%lx\n"
+
+msgid " Display information about the contents of ELF format files\n"
+msgstr " 显示关于 ELF 格式文件内容的信息\n"
+
+msgid " Display information from object <file(s)>.\n"
+msgstr " 显示来自目标 <文件> 的信息。\n"
+
+msgid " Display printable strings in [file(s)] (stdin by default)\n"
+msgstr " 打印 [文件] (默认为标准输入) 中可打印的字符串\n"
+
+msgid " Displays the sizes of sections inside binary files\n"
+msgstr " 显示二进制文件中节的大小\n"
+
+msgid " Generate an index to speed access to archives\n"
+msgstr " 生成索引以加快对归档文件的访问\n"
+
+msgid ""
+" If no addresses are specified on the command line, they will be read from "
+"stdin\n"
+msgstr " 如果没有在命令行中给出地址，就从标准输入中读取它们\n"
+
+msgid " If no input file(s) are specified, a.out is assumed\n"
+msgstr " 没有给出输入文件，默认为 a.out\n"
+
+msgid " Line Number Statements:\n"
+msgstr " 行号语句：\n"
+
+msgid " List symbols in [file(s)] (a.out by default).\n"
+msgstr " 列举 [文件] 中的符号 (默认为 a.out)。\n"
+
+msgid " No Line Number Statements.\n"
+msgstr " 无行号语句。\n"
+
+msgid " None\n"
+msgstr " 无\n"
+
+msgid " Offset     Info    Type                Sym. Value  Symbol's Name\n"
+msgstr " 偏移量     信息    类型                  符号值      符号名称\n"
+
+msgid ""
+" Offset     Info    Type                Sym. Value  Symbol's Name + Addend\n"
+msgstr " 偏移量     信息    类型                  符号值       符号名称 + 加数\n"
+
+msgid " Offset     Info    Type            Sym.Value  Sym. Name\n"
+msgstr " 偏移量     信息    类型              符号值      符号名称\n"
+
+msgid " Offset     Info    Type            Sym.Value  Sym. Name + Addend\n"
+msgstr " 偏移量     信息    类型              符号值      符号名称 + 加数\n"
+
+msgid " Print a human readable interpretation of a COFF object file\n"
+msgstr " 打印人类可读的对 COFF 目标文件的解释\n"
+
+msgid " Removes symbols and sections from files\n"
+msgstr " 从文件中删除符号和节\n"
+
+msgid " The options are:\n"
+msgstr " 选项为：\n"
+
+msgid ""
+" The options are:\n"
+"  -h --help        Display this information\n"
+"  -v --version     Print the program's version number\n"
+msgstr ""
+" 选项为：\n"
+"  -h --help        显示本信息\n"
+"  -v --version     打印程序的版本号\n"
+
+msgid ""
+" The options are:\n"
+"  @<file>                      Read options from <file>\n"
+msgstr ""
+" 选项是：\n"
+" @<file>                      从 <file> 读取选项\n"
+
+msgid ""
+" The options are:\n"
+"  @<file>                Read options from <file>\n"
+"  -a --addresses         Show addresses\n"
+"  -b --target=<bfdname>  Set the binary file format\n"
+"  -e --exe=<executable>  Set the input file name (default is a.out)\n"
+"  -i --inlines           Unwind inlined functions\n"
+"  -j --section=<name>    Read section-relative offsets instead of addresses\n"
+"  -p --pretty-print      Make the output easier to read for humans\n"
+"  -s --basenames         Strip directory names\n"
+"  -f --functions         Show function names\n"
+"  -C --demangle[=style]  Demangle function names\n"
+"  -h --help              Display this information\n"
+"  -v --version           Display the program's version\n"
+"\n"
+msgstr ""
+" 选项是：\n"
+"  @<file>                     读取选项从 <file>\n"
+"  -a --addresses              显示地址\n"
+"  -b --target=<bfdname>       设置二进位文件格式\n"
+"  -e --exe=<executable><name> 设置输入文件名称（默认为 a.out）\n"
+"  -i --inlines                解开内联函数\n"
+"  -j --section=<name>         读取相对于段的偏移而非地址\n"
+"  -p --pretty-print           让输出对人类更可读\n"
+"  -s --basenames              去除目录名\n"
+"  -f --functions              显示函数名\n"
+"  -C --demangle[=style]       解码函数名\n"
+"  -h --help                   显示本帮助\n"
+"\n"
+
+msgid ""
+" The options are:\n"
+"  @<file>                Read options from <file>\n"
+"  -h --help              Display this information\n"
+"  -v --version           Display the program's version\n"
+"\n"
+msgstr ""
+" 选项为：\n"
+"  @<file>                从 <file> 读取选项\n"
+"  -h --help              显示本帮助信息\n"
+"  -v --version           显示程序的版本号\n"
+"\n"
+
+msgid " Update the ELF header of ELF files\n"
+msgstr " 更新 ELF 文件的 ELF 头\n"
+
+msgid " [without DW_AT_frame_base]"
+msgstr " [不含 DW_AT_frame_base]"
+
+msgid " at "
+msgstr " 于 "
+
+msgid " at offset 0x%lx contains %lu entries:\n"
+msgstr " 位于偏移量 0x%lx 含有 %lu 个条目：\n"
+
+msgid " bad symbol index: %08lx"
+msgstr " 不当的符号索引：%08lx"
+
+msgid " command specific modifiers:\n"
+msgstr " 特定命令修饰符：\n"
+
+msgid " commands:\n"
+msgstr " 命令：\n"
+
+msgid " cpusubtype: %08lx\n"
+msgstr " cpu 子类  : %08lx\n"
+
+msgid " cputype   : %08lx (%s)\n"
+msgstr " cpu 类型  : %08lx (%s)\n"
+
+msgid " emulation options: \n"
+msgstr " 仿真选项： \n"
+
+msgid " filetype  : %08lx (%s)\n"
+msgstr " 文件类型  : %08lx (%s)\n"
+
+msgid " flags     : %08lx ("
+msgstr " 旗标      : %08lx ("
+
+msgid " generic modifiers:\n"
+msgstr " 通用修饰符：\n"
+
+msgid " magic     : %08lx\n"
+msgstr " 幻数      : %08lx\n"
+
+msgid " ncmds     : %08lx (%lu)\n"
+msgstr " 命令数    : %08lx (%lu)\n"
+
+msgid " optional:\n"
+msgstr " 可选项：\n"
+
+msgid " program interpreter"
+msgstr " 程序解释器"
+
+msgid " reserved  : %08x\n"
+msgstr " 保留      : %08x\n"
+
+msgid " sizeofcmds: %08lx\n"
+msgstr " 命令大小  : %08lx\n"
+
+msgid "#lines %d "
+msgstr "#行号 %d "
+
+msgid "#sources %d"
+msgstr "#源 %d"
+
+msgid "%08x: <unknown>"
+msgstr "%08x: <未知>"
+
+msgid "%ld: unexpected .ef\n"
+msgstr "%ld：意外的 .ef\n"
+
+msgid "%lu\n"
+msgstr "%lu\n"
+
+msgid "%s exited with status %d"
+msgstr "%s 以状态 %d 退出"
+
+msgid "%s has no archive index\n"
+msgstr "%s 没有归档索引\n"
+
+msgid "%s is not a library"
+msgstr "%s 不是一个函数库"
+
+msgid "%s is not a valid archive"
+msgstr "%s 不是有效的归档文件"
+
+msgid "%s: %s: address out of bounds"
+msgstr "%s：%s：地址超出界限"
+
+msgid "%s: Can't open input archive %s\n"
+msgstr "%s：无法打开输入归档 %s\n"
+
+msgid "%s: Can't open output archive %s\n"
+msgstr "%s：无法打开输出归档 %s\n"
+
+msgid "%s: Error: "
+msgstr "%s：错误： "
+
+msgid "%s: Failed to read ELF header\n"
+msgstr "%s：读取 ELF 标头失败\n"
+
+msgid "%s: Failed to read file header\n"
+msgstr "%s：读取文件头失败\n"
+
+msgid "%s: Matching formats:"
+msgstr "%s：匹配格式："
+
+msgid "%s: Multiple redefinition of symbol \"%s\""
+msgstr "%s：多次重复定义符号“%s”"
+
+msgid "%s: Path components stripped from image name, '%s'."
+msgstr "%s：从映像名 '%s' 中截去路径成分。"
+
+msgid "%s: Symbol \"%s\" is target of more than one redefinition"
+msgstr "%s：符号“%s”是多次重复定义的标的"
+
+msgid "%s: Warning: "
+msgstr "%s：警告： "
+
+msgid "%s: bad archive file name\n"
+msgstr "%s：不当的归档文件名称\n"
+
+msgid "%s: bad number: %s"
+msgstr "%s：错误的编号：%s"
+
+msgid "%s: can't find module file %s\n"
+msgstr "%s：无法找到模块文件 %s\n"
+
+msgid "%s: can't open file %s\n"
+msgstr "%s：无法打开文件 %s\n"
+
+msgid "%s: cannot find section %s"
+msgstr "%s：无法找到节：%s"
+
+msgid "%s: cannot get addresses from archive"
+msgstr "%s：无法从归档中得到地址"
+
+msgid "%s: cannot set time: %s"
+msgstr "%s：无法设置时间：%s"
+
+msgid "%s: execution of %s failed: "
+msgstr "%s：执行 %s 失败： "
+
+msgid "%s: failed to read archive header\n"
+msgstr "%s：读取归档标头失败\n"
+
+msgid "%s: failed to read archive header following archive index\n"
+msgstr "%s: 读取归档索引后的标头失败\n"
+
+msgid "%s: failed to read archive index\n"
+msgstr "%s: 读取归档索引失败\n"
+
+msgid "%s: failed to read archive index symbol table\n"
+msgstr "%s: 读取归档索引符号表失败\n"
+
+msgid "%s: failed to seek to first archive header\n"
+msgstr "%s：搜索至下一个归档标头失败\n"
+
+msgid "%s: failed to seek to next archive header\n"
+msgstr "%s：搜索至下一个归档标头失败\n"
+
+msgid "%s: failed to skip archive symbol table\n"
+msgstr "%s：跳过归档符号表失败\n"
+
+msgid "%s: file %s is not an archive\n"
+msgstr "%s：文件 %s 不是归档文件\n"
+
+msgid "%s: fread failed"
+msgstr "%s：fread 失败"
+
+msgid "%s: invalid output format"
+msgstr "%s：无效的输出格式"
+
+msgid "%s: invalid radix"
+msgstr "%s：无效的基数"
+
+msgid "%s: no archive map to update"
+msgstr "%s：没有要更新的归档映射"
+
+msgid "%s: no open archive\n"
+msgstr "%s：未打开归档文件\n"
+
+msgid "%s: no open output archive\n"
+msgstr "%s：未打开输出归档文件\n"
+
+msgid "%s: no output archive specified yet\n"
+msgstr "%s：尚未指定输出归档文件\n"
+
+msgid "%s: no recognized debugging information"
+msgstr "%s：未识别的调试信息"
+
+msgid "%s: no resource section"
+msgstr "%s：没有资源节"
+
+msgid "%s: no symbols"
+msgstr "%s：无符号"
+
+msgid "%s: not a dynamic object"
+msgstr "%s：不是动态对象"
+
+msgid "%s: printing debugging information failed"
+msgstr "%s：打印调试信息失败"
+
+msgid "%s: read of %lu returned %lu"
+msgstr "%s：读取 %lu 返回 %lu"
+
+msgid "%s: read: %s"
+msgstr "%s：读取：%s"
+
+msgid "%s: supported architectures:"
+msgstr "%s：支持的体系结构："
+
+msgid "%s: supported formats:"
+msgstr "%s：支持的格式："
+
+msgid "%s: supported targets:"
+msgstr "%s：支持的目标："
+
+msgid "%s: the archive has an index but no symbols\n"
+msgstr "%s: 归档有索引但无符号\n"
+
+msgid "%s: the archive index is empty\n"
+msgstr "%s: 归档索引空\n"
+
+msgid ""
+"%s: the archive index is supposed to have %ld entries of %d bytes, but the "
+"size is only %ld\n"
+msgstr "%s: 归档索引应有 %ld 个 %d 字节大的记录，然而尺寸只有 %ld\n"
+
+msgid "%s: unexpected EOF"
+msgstr "%s：文件意外结束"
+
+msgid "%s: warning: "
+msgstr "%s：警告： "
+
+msgid "%s: warning: shared libraries can not have uninitialized data"
+msgstr "%s：警告：共享库不能含有未初始化的数据"
+
+msgid "%s: warning: unknown size for field `%s' in struct"
+msgstr "%s：警告：结构的“%s”域的大小未知"
+
+msgid "%s:%d: Ignoring rubbish found on this line"
+msgstr "%s:%d: 忽略本行所含无用数据"
+
+msgid "%s:%d: garbage found at end of line"
+msgstr "%s:%d: 行尾出现无用字符"
+
+msgid "'%s'"
+msgstr "“%s”"
+
+msgid "'%s': No such file"
+msgstr "%s：无此文件"
+
+msgid "(Unknown location op)"
+msgstr "(未知的定位操作码)"
+
+msgid "(Unknown: %s)"
+msgstr "<未知：%s>"
+
+msgid "(User defined location op)"
+msgstr "(用户定义的定位操作码)"
+
+msgid "(base address)\n"
+msgstr "(基址)\n"
+
+msgid "(declared as inline and inlined)"
+msgstr "(声明为内连并已内连)"
+
+msgid "(declared as inline but ignored)"
+msgstr "(声明为内连但被忽略)"
+
+msgid "(inlined)"
+msgstr "(已内连)"
+
+msgid "(not inlined)"
+msgstr "(未内连)"
+
+msgid "(undefined)"
+msgstr "(未定义的)"
+
+msgid "(unknown accessibility)"
+msgstr "(未知的可访问性)"
+
+msgid "(unknown case)"
+msgstr "(未知的案例)"
+
+msgid "(unknown convention)"
+msgstr "未知的节"
+
+msgid "(unknown type)"
+msgstr "(未知的类型)"
+
+msgid "(unknown virtuality)"
+msgstr "(未知的)"
+
+msgid "(unknown visibility)"
+msgstr "(未知的可见性)"
+
+msgid "(user defined type)"
+msgstr "(用户定义的类型)"
+
+msgid "(user defined)"
+msgstr "(用户定义的)"
+
+msgid ")\n"
+msgstr ")\n"
+
+msgid "*invalid*"
+msgstr "*无效*"
+
+msgid "*undefined*"
+msgstr "*未定义*"
+
+msgid ", unknown ABI"
+msgstr ", 未知 ABI"
+
+msgid ", unknown CPU"
+msgstr ", 未知 CPU"
+
+msgid ", unknown ISA"
+msgstr ", 未知 ISA"
+
+msgid ".debug_abbrev section not zero terminated\n"
+msgstr ".debug_abbrev 节不由零终止\n"
+
+msgid "16-byte\n"
+msgstr "16 字节\n"
+
+msgid "2 bytes\n"
+msgstr "2 字节\n"
+
+msgid "2's complement, big endian"
+msgstr "2 补码，大端序 (big endian)"
+
+msgid "2's complement, little endian"
+msgstr "2 补码，小端序 (little endian)"
+
+msgid "4 bytes\n"
+msgstr "4 字节\n"
+
+msgid ": duplicate value\n"
+msgstr "：重复的值\n"
+
+msgid ": expected to be a directory\n"
+msgstr "：应为目录\n"
+
+msgid ": expected to be a leaf\n"
+msgstr "：应该是分支\n"
+
+msgid ": unknown"
+msgstr ": 未知"
+
+msgid "<End of list>\n"
+msgstr "<列表末尾>\n"
+
+msgid "<OS specific>: %d"
+msgstr "<操作系统专用>：%d"
+
+msgid "<corrupt string table index: %3ld>"
+msgstr "<毁损的字串表索引：%3ld>"
+
+msgid "<corrupt>"
+msgstr "<已损坏>"
+
+msgid "<index offset is too big>"
+msgstr "<索引偏移量过大>"
+
+msgid "<indirect index offset is too big>"
+msgstr "<间接索引偏移量过大>"
+
+msgid "<no .debug_addr section>"
+msgstr "<没有 .debug_addr 节>"
+
+msgid "<no .debug_str section>"
+msgstr "<没有 .debug_str 节>"
+
+msgid "<no .debug_str.dwo section>"
+msgstr "<没有 .debug_str.dwo 节>"
+
+msgid "<no .debug_str_offsets section>"
+msgstr "<没有 .debug_str_offsets 节>"
+
+msgid "<no .debug_str_offsets.dwo section>"
+msgstr "<没有 .debug_str_offsets.dwo 节>"
+
+msgid "<offset is too big>"
+msgstr "<偏移量过大>"
+
+msgid "<processor specific>: %d"
+msgstr "<处理器专用>：%d"
+
+msgid "<string table index: %3ld>"
+msgstr "<字串表索引：%3ld>"
+
+msgid "<unknown: %lx>"
+msgstr "<未知: %lx>"
+
+msgid "<unknown: %x>"
+msgstr "<未知：%x>"
+
+msgid "<unknown>"
+msgstr "<未知>"
+
+msgid "<unknown>: %d"
+msgstr "<未知>：%d"
+
+msgid "<unknown>: %lx"
+msgstr "<未知>：%lx"
+
+msgid "<unknown>: %x"
+msgstr "<未知>：%x"
+
+msgid "Added exports to output file"
+msgstr "已加入导出至输出文件"
+
+msgid "Adding exports to output file"
+msgstr "正在加入导出至输出文件"
+
+msgid "Address"
+msgstr "住址"
+
+msgid "Any\n"
+msgstr "任何\n"
+
+msgid "Auxiliary library"
+msgstr "附加库"
+
+msgid "BCD float type not supported"
+msgstr "不支持的 BCD 浮点类型"
+
+msgid "BFD header file version %s\n"
+msgstr "BFD 头文件版本 %s\n"
+
+msgid "Bad stab: %s\n"
+msgstr "不当的 stab: %s\n"
+
+msgid "C++ base class not defined"
+msgstr "未定义 C++ 基类"
+
+msgid "C++ base class not found in container"
+msgstr "容器中找不到 C++ 基类"
+
+msgid "C++ data member not found in container"
+msgstr "容器中找不到 C++ 数据成员"
+
+msgid "C++ object has no fields"
+msgstr "C++ 对象没有域"
+
+msgid "C++ reference is not pointer"
+msgstr "C++ 引用不是指针"
+
+msgid "C++ reference not found"
+msgstr "找不到 C++ 引用"
+
+msgid "C++ static virtual method"
+msgstr "C++ 静态虚拟方法"
+
+msgid "CORE (Core file)"
+msgstr "CORE (Core 文件)"
+
+msgid "Can't create .lib file: %s: %s"
+msgstr "无法创建 .lib 文件：%s: %s"
+
+msgid "Can't have LIBRARY and NAME"
+msgstr "不能同时具有 LIBRARY 和 NAME"
+
+msgid "Can't open .lib file: %s: %s"
+msgstr "无法打开 .lib 文件：%s: %s"
+
+msgid "Can't open def file: %s"
+msgstr "无法打开 def 文件：%s"
+
+msgid "Can't open file %s\n"
+msgstr "无法打开文件 %s\n"
+
+msgid "Cannot produce mcore-elf dll from archive file: %s"
+msgstr "无法从归档文件中生成 mcore-elf 动态连接库：%s"
+
+msgid "Configuration file"
+msgstr "配置文件"
+
+msgid ""
+"Contents of %s section:\n"
+"\n"
+msgstr ""
+"%s 节的内容：\n"
+"\n"
+
+msgid ""
+"Contents of the %s section:\n"
+"\n"
+msgstr ""
+"%s 节的内容:\n"
+"\n"
+
+msgid "Convert a COFF object file into a SYSROFF object file\n"
+msgstr "将 COFF 目标文件转换为 SYSROFF 目标文件\n"
+
+msgid "Copyright 2014 Free Software Foundation, Inc.\n"
+msgstr "Copyright (版权所有) 2014 自由软件基金会。\n"
+
+msgid "Corrupt file name table entry\n"
+msgstr "损坏的文件表条目\n"
+
+msgid "Couldn't get demangled builtin type\n"
+msgstr "无法取得解码后的内置类型\n"
+
+msgid "Created lib file"
+msgstr "已创建的 lib 文件"
+
+msgid "Creating library file: %s"
+msgstr "正在创建库文件：%s"
+
+msgid "Creating stub file: %s"
+msgstr "正在创建占位文件：%s"
+
+msgid "Current open archive is %s\n"
+msgstr "当前打开的归档文件是 %s\n"
+
+msgid "DERIVED TYPE"
+msgstr "派生类型"
+
+msgid "DLLTOOL name    : %s\n"
+msgstr "DLLTOOL 名称    ：%s\n"
+
+msgid "DLLTOOL options : %s\n"
+msgstr "DLLTOOL 选项    ：%s\n"
+
+msgid "DRIVER name     : %s\n"
+msgstr "驱动器名称      ：%s\n"
+
+msgid "DRIVER options  : %s\n"
+msgstr "驱动器选项      ：%s\n"
+
+msgid "DW_FORM_data8 is unsupported when sizeof (dwarf_vma) != 8\n"
+msgstr "当 sizeof (dwarf_vma) != 8 时，不支持 DW_FORM_data8\n"
+
+msgid "DYN (Shared object file)"
+msgstr "DYN (共享目标文件)"
+
+msgid ""
+"Decoded dump of debug contents of section %s:\n"
+"\n"
+msgstr ""
+"解码后的 %s 节的调试内容转储：\n"
+"\n"
+
+msgid "Deleting temporary base file %s"
+msgstr "删除临时 base 文件 %s"
+
+msgid "Deleting temporary def file %s"
+msgstr "删除临时 def 文件 %s"
+
+msgid "Deleting temporary exp file %s"
+msgstr "删除临时 exp 文件 %s"
+
+msgid "Demangled name is not a function\n"
+msgstr "解码出的名称不是函数\n"
+
+msgid "Displaying the debug contents of section %s is not yet supported.\n"
+msgstr "尚不支持显示 %s 节的调试内容。\n"
+
+msgid "Don't know about relocations on this machine architecture\n"
+msgstr "不知道关于本机器体系结构中重定位的情况\n"
+
+msgid "Done reading %s"
+msgstr "读取 %s 完成"
+
+msgid "Dynamic symbols:\n"
+msgstr "动态符号：\n"
+
+msgid "ELF Header:\n"
+msgstr "ELF 头：\n"
+
+msgid "EXEC (Executable file)"
+msgstr "EXEC (可执行文件)"
+
+msgid "End"
+msgstr "结束点"
+
+msgid ""
+"End of Sequence\n"
+"\n"
+msgstr ""
+"序列结束\n"
+"\n"
+
+msgid "Entry point "
+msgstr "入口点 "
+
+msgid "Error, duplicate EXPORT with ordinals: %s"
+msgstr "错误，重复的 EXPORT 以及原始出处: %s"
+
+msgid "Excluding symbol: %s"
+msgstr "排除符号：%s"
+
+msgid "Execution of %s failed"
+msgstr "执行 %s 失败"
+
+msgid ""
+"FORMAT is one of rc, res, or coff, and is deduced from the file name\n"
+"extension if not specified.  A single file name is an input file.\n"
+"No input-file is stdin, default rc.  No output-file is stdout, default rc.\n"
+msgstr ""
+"FORMAT 是 rc、res 或 coff 之一，在未指定时根据文件的扩展名进行判断。\n"
+"单个文件名被认为是输入文件。没有输入文件时就使用标准输入，默认格式\n"
+"为 rc。没有输出文件时就使用标准输出，默认格式为 rc。\n"
+
+msgid "Failed to print demangled template\n"
+msgstr "打印解码后的模板失败\n"
+
+msgid "File contains multiple dynamic string tables\n"
+msgstr "文件含有多个动态字符串表\n"
+
+msgid "File contains multiple dynamic symbol tables\n"
+msgstr "文件含有多个动态符号表\n"
+
+msgid "File header:\n"
+msgstr "文件标头：\n"
+
+msgid "File name                            Line number    Starting address\n"
+msgstr "文件名                                行号           起始地址\n"
+
+msgid "Filter library"
+msgstr "过滤器库"
+
+msgid "Flags:"
+msgstr "标志："
+
+msgid "GOT A %x\n"
+msgstr "得到 %x\n"
+
+msgid "Generated exports file"
+msgstr "已生成的导出文件"
+
+msgid "Generating export file: %s"
+msgstr "正在生成导出文件：%s"
+
+msgid "Generic\n"
+msgstr "通用\n"
+
+msgid "Hard float\n"
+msgstr "硬浮点数\n"
+
+msgid "Hard float (MIPS32r2 64-bit FPU)\n"
+msgstr "硬浮点（MIPS32r2 64-bit FPU)\n"
+
+msgid "Hard float (double precision)\n"
+msgstr "硬浮点 (单精度)\n"
+
+msgid "Hard float (single precision)\n"
+msgstr "硬浮点 (双精度)\n"
+
+msgid "Hard or soft float\n"
+msgstr "硬或软浮点数\n"
+
+msgid "IEEE numeric overflow: 0x"
+msgstr "IEEE 数值溢出：0x"
+
+msgid "IEEE string length overflow: %u\n"
+msgstr "IEEE 字符串长度溢出：%u\n"
+
+msgid "IEEE unsupported complex type size %u\n"
+msgstr "IEEE 不支持的负载类型大小 %u\n"
+
+msgid "IEEE unsupported float type size %u\n"
+msgstr "IEEE 不支持的浮点类型大小 %u\n"
+
+msgid "IEEE unsupported integer type size %u\n"
+msgstr "IEEE 不支持的整数类型大小 %u\n"
+
+msgid "In archive %s:\n"
+msgstr "在归档文件 %s 中：\n"
+
+msgid "Internal error: DWARF version is not 2, 3 or 4.\n"
+msgstr "内部错误：DWARF 版本号码并非 2, 3 或 4。\n"
+
+msgid "Internal error: Unknown machine type: %d"
+msgstr "内部错误：未知的机器类型：%d"
+
+msgid "Invalid option '-%c'\n"
+msgstr "无效的选项“-%c”\n"
+
+msgid "Keeping temporary base file %s"
+msgstr "保留临时 base 文件 %s"
+
+msgid "Keeping temporary def file %s"
+msgstr "保留临时 def 文件 %s"
+
+msgid "Keeping temporary exp file %s"
+msgstr "保留临时 exp 文件 %s"
+
+msgid "LIBRARY: %s base: %x"
+msgstr "库：%s 基址：%x"
+
+msgid "List of blocks "
+msgstr "区块清单 "
+
+msgid "List of source files"
+msgstr "来源文件清单"
+
+msgid "List of symbols"
+msgstr "符号清单"
+
+msgid "MODULE***\n"
+msgstr "模块***\n"
+
+msgid "Mach-O header:\n"
+msgstr "Mach-O 标头:\n"
+
+msgid "Machine '%s' not supported"
+msgstr "不支持机器“%s”"
+
+msgid "Memory\n"
+msgstr "内存\n"
+
+msgid "Memory section %s+%x"
+msgstr "内存节 %s+%x"
+
+msgid "Multiple renames of section %s"
+msgstr "多次改名节 %s"
+
+msgid "Must provide at least one of -o or --dllname options"
+msgstr "必须提供至少一个 -o 或 --dllname 选项"
+
+msgid "NAME: %s base: %x"
+msgstr "名称：%s 基址：%x"
+
+msgid "NONE (None)"
+msgstr "NONE (无)"
+
+msgid "NT_ARCH (architecture)"
+msgstr "NT_ARCH (系统架构)"
+
+msgid "NT_FPREGS (floating point registers)"
+msgstr "NT_FPREGS (浮点数寄存器)"
+
+msgid "NT_FPREGSET (floating point registers)"
+msgstr "NT_FPREGSET (浮点寄存器)"
+
+msgid "NT_LWPSINFO (lwpsinfo_t structure)"
+msgstr "NT_LWPSINFO (lwpsinfo_t 结构)"
+
+msgid "NT_LWPSTATUS (lwpstatus_t structure)"
+msgstr "NT_LWPSTATUS (lwpstatus_t 结构)"
+
+msgid "NT_PRPSINFO (prpsinfo structure)"
+msgstr "NT_PRPSINFO (prpsinfo 结构)"
+
+msgid "NT_PRSTATUS (prstatus structure)"
+msgstr "NT_PRSTATUS (prstatus 结构)"
+
+msgid "NT_PRXFPREG (user_xfpregs structure)"
+msgstr "NT_PRXFPREG (user_xfpregs 结构)"
+
+msgid "NT_PSINFO (psinfo structure)"
+msgstr "NT_PSINFO (psinfo 结构)"
+
+msgid "NT_PSTATUS (pstatus structure)"
+msgstr "NT_PSTATUS (pstatus 结构)"
+
+msgid "NT_TASKSTRUCT (task structure)"
+msgstr "NT_TASKSTRUCT (任务结构)"
+
+msgid "NT_VERSION (version)"
+msgstr "NT_VERSION (版本)"
+
+msgid "NT_WIN32PSTATUS (win32_pstatus structure)"
+msgstr "NT_WIN32PSTATUS (win32_pstatus 结构)"
+
+msgid "N_LBRAC not within function\n"
+msgstr "N_LBRAC 不在函数中\n"
+
+msgid "Name"
+msgstr "名字"
+
+msgid "Name index: %ld\n"
+msgstr "名称索引：%ld\n"
+
+msgid "Name: %s\n"
+msgstr "名称：%s\n"
+
+msgid "NetBSD procinfo structure"
+msgstr "NetBSD procinfo 结构"
+
+msgid ""
+"No %s section present\n"
+"\n"
+msgstr ""
+"%s 节不存在\n"
+"\n"
+
+msgid "No entry %s in archive.\n"
+msgstr "归档文件中没有条目 %s。\n"
+
+msgid "No filename following the -fo option.\n"
+msgstr "在选项 -fo 之后没有文件名。\n"
+
+msgid "No location lists in .debug_info section!\n"
+msgstr ".debug_info 节中没有定位列表！\n"
+
+msgid "No mangling for \"%s\"\n"
+msgstr "\"%s\" 未被修饰\n"
+
+msgid "No member named `%s'\n"
+msgstr "没有名为“%s”的成员\n"
+
+msgid "No note segments present in the core file.\n"
+msgstr "core 文件中没有注释段。\n"
+
+msgid "None"
+msgstr "无"
+
+msgid "None\n"
+msgstr "无\n"
+
+msgid "Not an ELF file - it has the wrong magic bytes at the start\n"
+msgstr "不是 ELF 文件 - 它开头的 magic 字节错误\n"
+
+msgid "Not enough memory for a debug info array of %u entries"
+msgstr "内存不足以容纳 %u 个条目的调试信息数组"
+
+msgid "Not needed object: [%s]\n"
+msgstr "不需要的目标：[%s]\n"
+
+msgid "Not used\n"
+msgstr "未使用\n"
+
+msgid "Nothing to do.\n"
+msgstr "无事可做。\n"
+
+msgid "OS Specific: (%x)"
+msgstr "操作系统特有：(%x)"
+
+msgid "Offset 0x%lx is bigger than .debug_loc section size.\n"
+msgstr "偏移量 0x%lx 大于 .debug_loc 节大小。\n"
+
+msgid "Only -X 32_64 is supported"
+msgstr "只支持 -X 32_64"
+
+msgid "Only DWARF 2 and 3 aranges are currently supported.\n"
+msgstr "目前只支持第二与第三版 DWARF 的 arange。\n"
+
+msgid "Only DWARF 2 and 3 pubnames are currently supported\n"
+msgstr "目前只支持第二与第三版 DWARF 的 pubname\n"
+
+msgid "Only DWARF version 2, 3 and 4 line info is currently supported.\n"
+msgstr "目前只支持第二、三与第四版的 DWARF 行信息。\n"
+
+msgid "Opened temporary file: %s"
+msgstr "已打开的临时文件：%s"
+
+msgid "Operating System specific: %lx"
+msgstr "操作系统特有：%lx"
+
+msgid ""
+"Option -I is deprecated for setting the input format, please use -J "
+"instead.\n"
+msgstr "选项 -I 用做设置输入格式已过时，请转而使用 -J。\n"
+
+msgid "Out of memory\n"
+msgstr "内存不足\n"
+
+msgid "PT_GETFPREGS (fpreg structure)"
+msgstr "PT_GETFPREGS (fpreg 结构)"
+
+msgid "PT_GETREGS (reg structure)"
+msgstr "PT_GETREGS (reg 结构)"
+
+msgid "Pascal file name not supported"
+msgstr "不支持 Pascal 文件名"
+
+msgid "Path components stripped from dllname, '%s'."
+msgstr "已从 dll 名称 '%s' 中截去路径部分。"
+
+msgid "Print a human readable interpretation of a SYSROFF object file\n"
+msgstr "打印适于阅读的 SYSROFF 目标文件的解释\n"
+
+msgid "Processed def file"
+msgstr "已处理的 def 文件"
+
+msgid "Processed definitions"
+msgstr "已处理定义"
+
+msgid "Processing def file: %s"
+msgstr "处理 def 文件：%s"
+
+msgid "Processing definitions"
+msgstr "正在处理定义"
+
+msgid "Processor Specific: %lx"
+msgstr "处理器特有：%lx"
+
+msgid "Processor Specific: (%x)"
+msgstr "处理器特有：(%x)"
+
+msgid "REL (Relocatable file)"
+msgstr "REL (可重定位文件)"
+
+msgid ""
+"Raw dump of debug contents of section %s:\n"
+"\n"
+msgstr ""
+"%s 节的调试内容转储：\n"
+"\n"
+
+msgid "Refuse to unwind"
+msgstr "拒绝展开"
+
+msgid "Register %d"
+msgstr "寄存器 %d"
+
+msgid "Report bugs to %s\n"
+msgstr "将 bug 报告到 %s\n"
+
+msgid "Report bugs to %s.\n"
+msgstr "将 bug 报告到 %s。\n"
+
+msgid "SUM IS %x\n"
+msgstr "总和 %x\n"
+
+msgid "SYMBOL INFO"
+msgstr "符号信息"
+
+msgid "Scanning object file %s"
+msgstr "正在扫描目标文件 %s"
+
+msgid "Sections:\n"
+msgstr "节：\n"
+
+msgid "Seg Offset           Type                             SymVec DataType\n"
+msgstr "段  偏移              类型                             SymVec 数据类型\n"
+
+msgid "Segments and Sections:\n"
+msgstr "段和节:\n"
+
+msgid "Shared library: [%s]"
+msgstr "共享库：[%s]"
+
+msgid "Single-precision hard float\n"
+msgstr "单精度硬浮点数\n"
+
+msgid "Skipping unexpected relocation type %s\n"
+msgstr "跳过意外的重定位类型 %s\n"
+
+msgid "Soft float\n"
+msgstr "软浮点数\n"
+
+msgid "Source file %s"
+msgstr "来源文件：%s"
+
+msgid "Standalone App"
+msgstr "独立应用程序"
+
+msgid "Start"
+msgstr "起始点"
+
+msgid "Sucking in info from %s section in %s"
+msgstr "从 %2$s 中的 %1$s 节获取信息"
+
+msgid "Supported architectures:"
+msgstr "支持的体系结构："
+
+msgid "Supported targets:"
+msgstr "支持的目标："
+
+msgid "Syntax error in def file %s:%d"
+msgstr "def 文件中语法错误 %s：%d"
+
+msgid "TOC:\n"
+msgstr "目录：\n"
+
+msgid "The address table data in version 3 may be wrong.\n"
+msgstr "地址表数据在第三版中也许是错误的。\n"
+
+msgid "The line info appears to be corrupt - the section is too small\n"
+msgstr "行信息似乎已损坏 - 节过小\n"
+
+msgid "There are %d section headers, starting at offset 0x%lx:\n"
+msgstr "共有 %d 个节头，从偏移量 0x%lx 开始：\n"
+
+msgid "There is a hole [0x%lx - 0x%lx] in .debug_loc section.\n"
+msgstr "在 .debug_loc 节中有一处空洞 [0x%lx - 0x%lx]。\n"
+
+msgid "There is an overlap [0x%lx - 0x%lx] in .debug_loc section.\n"
+msgstr "在 .debug_loc 节中有一处重叠 [0x%lx - 0x%lx]。\n"
+
+msgid ""
+"This instance of readelf has been built without support for a\n"
+"64 bit data type and so it cannot read 64 bit ELF files.\n"
+msgstr ""
+"本 readelf 实例编译时未加入 64 位数据类型支持，\n"
+"因而无法读取 64 位 ELF 文件。\n"
+
+msgid ""
+"This program is free software; you may redistribute it under the terms of\n"
+"the GNU General Public License version 3 or (at your option) any later version.\n"
+"This program has absolutely no warranty.\n"
+msgstr ""
+"这个程序是自由软件；您可以遵循 GNU 通用公共授权版本 3 或\n"
+"(您自行选择的) 稍后版本再发布它。\n"
+"这个程序不含任何担保。\n"
+
+msgid "Too many N_RBRACs\n"
+msgstr "过多的 N_RBRAC\n"
+
+msgid "Tried file: %s"
+msgstr "已尝试文件：%s"
+
+msgid "True\n"
+msgstr "真\n"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type file number %d out of range\n"
+msgstr "类型文件编号 %d 超出范围\n"
+
+msgid "Type index number %d out of range\n"
+msgstr "类型索引编号 %d 超出范围\n"
+
+msgid "UNKNOWN (%u): length %d\n"
+msgstr "未知 (%u): 长度 %d\n"
+
+msgid "UNKNOWN: "
+msgstr "未知： "
+
+msgid "Unable to determine dll name for `%s' (not an import library?)"
+msgstr "无法确定 ‘%s’ 的 dll 名称（不是导入库？）"
+
+msgid "Unable to determine the length of the dynamic string table\n"
+msgstr "无法确定动态字符串表的长度\n"
+
+msgid "Unable to determine the number of symbols to load\n"
+msgstr "无法确定要读取的符号数量\n"
+
+msgid "Unable to find program interpreter name\n"
+msgstr "无法找到程序解释器名称\n"
+
+msgid ""
+"Unable to load/parse the .debug_info section, so cannot interpret the %s "
+"section.\n"
+msgstr "无法加载/解析 .debug_info 段，因此不能解释 %s 段。\n"
+
+msgid "Unable to locate %s section!\n"
+msgstr "无法找到 %s 节的位置！\n"
+
+msgid "Unable to open base-file: %s"
+msgstr "无法打开 base 文件：%s"
+
+msgid "Unable to open object file: %s: %s"
+msgstr "无法打开目标文件：%s: %s"
+
+msgid "Unable to open temporary assembler file: %s"
+msgstr "无法打开临时汇编文件：%s"
+
+msgid "Unable to read in dynamic data\n"
+msgstr "无法读取动态数据\n"
+
+msgid "Unable to seek to end of file\n"
+msgstr "无法定位到文件末尾\n"
+
+msgid "Undefined N_EXCL"
+msgstr "未定义 N_EXCL"
+
+msgid "Undefined symbol"
+msgstr "未定义符号"
+
+msgid "Unexpected demangled varargs\n"
+msgstr "意外的解码后可变参数\n"
+
+msgid "Unexpected type in v3 arglist demangling\n"
+msgstr "v3 参数表解码时遇到意外的类型\n"
+
+msgid "Unhandled data length: %d\n"
+msgstr "未处理的数据长度：%d\n"
+
+msgid "Unknown AT value: %lx"
+msgstr "未知的 AT 值：%lx"
+
+msgid "Unknown FORM value: %lx"
+msgstr "未知的 FORM 值：%lx"
+
+msgid "Unknown TAG value: %lx"
+msgstr "未知的 TAG 值：%lx"
+
+msgid "Unknown note type: (0x%08x)"
+msgstr "未知的注释类型：(0x%08x)"
+
+msgid "Unrecognized XCOFF type %d\n"
+msgstr "无法识别的 XCOFF 类型 %d\n"
+
+msgid "Unrecognized debug option '%s'\n"
+msgstr "无法识别的调试选项“%s”\n"
+
+msgid "Unrecognized debug section: %s\n"
+msgstr "无法识别的调试节：%s\n"
+
+msgid "Unrecognized demangle component %d\n"
+msgstr "无法识别的解码组件 %d\n"
+
+msgid "Unrecognized form: %lu\n"
+msgstr "无法识别的形式：%lu\n"
+
+msgid "Usage %s <option(s)> <object-file(s)>\n"
+msgstr "用法 %s <选项> <目标文件>\n"
+
+msgid "Usage: %s <option(s)> <file(s)>\n"
+msgstr "用法：%s <选项> <文件>\n"
+
+msgid "Usage: %s <option(s)> in-file(s)\n"
+msgstr "用法：%s <选项> 输入文件\n"
+
+msgid ""
+"Usage: %s [emulation options] [-]{dmpqrstx}[abcDfilMNoPsSTuvV] [--plugin "
+"<name>] [member-name] [count] archive-file file...\n"
+msgstr ""
+"用法：%s [仿真选项] [-]{dmpqrstx}[abcDfilMNoPsSTuvV] [--plugin <名称>] [成员名] [计数] 归档 "
+"文件…\n"
+
+msgid ""
+"Usage: %s [emulation options] [-]{dmpqrstx}[abcDfilMNoPsSTuvV] [member-name]"
+" [count] archive-file file...\n"
+msgstr "用法：%s [仿真选项] [-]{dmpqrstx}[abcDfilMNoPsSTuvV] [成员名] [计数] 归档 文件…\n"
+
+msgid "Usage: %s [option(s)] [addr(s)]\n"
+msgstr "用法：%s [选项] [地址]\n"
+
+msgid "Usage: %s [option(s)] [file(s)]\n"
+msgstr "用法：%s [选项] [文件]\n"
+
+msgid "Usage: %s [option(s)] [in-file [out-file]]\n"
+msgstr "用法：%s [选项] [输入文件 [输出文件]]\n"
+
+msgid "Usage: %s [option(s)] [input-file] [output-file]\n"
+msgstr "用法：%s [选项] [输入文件] [输出文件]\n"
+
+msgid "Usage: %s [option(s)] in-file\n"
+msgstr "用法：%s [选项] 输入文件\n"
+
+msgid "Usage: %s [option(s)] in-file [out-file]\n"
+msgstr "用法：%s [选项] 输入文件 [输出文件]\n"
+
+msgid "Usage: %s [options] archive\n"
+msgstr "用法：%s [选项] 归档文件\n"
+
+msgid "Usage: readelf <option(s)> elf-file(s)\n"
+msgstr "用法：readelf <选项> elf-文件\n"
+
+msgid "Using `%s'\n"
+msgstr "使用“%s”\n"
+
+msgid "Using file: %s"
+msgstr "正处理文件：%s"
+
+msgid "Using popen to read preprocessor output\n"
+msgstr "使用 popen 读取预处理器输出\n"
+
+msgid "Using temporary file `%s' to read preprocessor output\n"
+msgstr "使用临时文件“%s”以读取预处理器输出\n"
+
+msgid "VERSION %d.%d\n"
+msgstr "版本 %d.%d\n"
+
+msgid "Value for `N' must be positive."
+msgstr "“N”的值必须是正数。"
+
+msgid "Version %ld\n"
+msgstr "版本 %ld\n"
+
+msgid "Version 4 does not support case insensitive lookups.\n"
+msgstr "版本 4 不支持大小写不敏感的查找。\n"
+
+msgid "Version 5 does not include inlined functions.\n"
+msgstr "版本 5 不包含内联函数。\n"
+
+msgid "Version 6 does not include symbol attributes.\n"
+msgstr "版本 6 不包含符号属性。\n"
+
+msgid "Visible"
+msgstr "可见"
+
+msgid "WANTED %x!!\n"
+msgstr "想要 %x！！\n"
+
+msgid "Warning, ignoring duplicate EXPORT %s %d,%d"
+msgstr "警告，正在忽略重复的 EXPORT %s %d,%d"
+
+msgid "Warning: %s: %s\n"
+msgstr "警告：%s：%s\n"
+
+msgid "Warning: '%s' is not an ordinary file"
+msgstr "警告：'%s' 不是一般文件"
+
+msgid "Warning: changing type size from %d to %d\n"
+msgstr "警告：类型大小由 %d 改为 %d\n"
+
+msgid "Warning: could not locate '%s'.  reason: %s"
+msgstr "警告：无法找到 %s。原因：%s"
+
+msgid "Warning: truncating gap-fill from 0x%s to 0x%x"
+msgstr "警告：将间隙填充由 0x%s 截短到 0x%x"
+
+msgid "Where"
+msgstr "来自"
+
+msgid "[%3u] 0x%lx - 0x%lx\n"
+msgstr "[%3u] 0x%lx - 0x%lx\n"
+
+msgid "[%3u] 0x%lx 0x%lx "
+msgstr "[%3u] 0x%lx 0x%lx "
+
+msgid "`N' is only meaningful with the `x' and `d' options."
+msgstr "“N”只在使用“x”和“d”选项的时候才有意义。"
+
+msgid "`u' is not meaningful with the `D' option."
+msgstr "“u” 在使用 “D” 选项的时候没有意义。"
+
+msgid "`u' is only meaningful with the `r' option."
+msgstr "“u”只在使用“r”选项的时候才有意义。"
+
+msgid "`u' modifier ignored since `D' is the default (see `U')"
+msgstr "`u' 修饰符被忽略，因为 `D' 为默认（参见 `U'）"
+
+msgid "`x' cannot be used on thin archives."
+msgstr "`x' 不能被用于归档上。"
+
+msgid "accelerator"
+msgstr "加速键"
+
+msgid "architecture %s unknown"
+msgstr "未知的体系结构 %s"
+
+msgid "architecture: %s, "
+msgstr "体系结构：%s， "
+
+msgid "arguments"
+msgstr "参数"
+
+msgid "bad ATN65 record"
+msgstr "不当的 ATN65 记录"
+
+msgid "bad C++ field bit pos or size"
+msgstr "不当的 C++ 字段位位置或大小"
+
+msgid "bad dynamic symbol\n"
+msgstr "不当的动态符号\n"
+
+msgid "bad format for %s"
+msgstr "%s 格式错误"
+
+msgid "bad mangled name `%s'\n"
+msgstr "不当的修饰名称 \"%s\"\n"
+
+msgid "bad misc record"
+msgstr "不当的杂项记录"
+
+msgid "bad type for C++ method function"
+msgstr "不当的 C++ 方法函数类型"
+
+msgid "bfd_coff_get_auxent failed: %s"
+msgstr "bfd_coff_get_auxent 失败：%s"
+
+msgid "bfd_coff_get_syment failed: %s"
+msgstr "bfd_coff_get_syment 失败：%s"
+
+msgid "bfd_open failed open stub file: %s: %s"
+msgstr "无法打开输出文件：%s: %s"
+
+msgid "bfd_open failed reopen stub file: %s: %s"
+msgstr "无法打开输出文件：%s: %s"
+
+msgid "big endian"
+msgstr "大端序"
+
+msgid "blocks"
+msgstr "块"
+
+msgid "blocks left on stack at end"
+msgstr "结束时仍留在栈中的块"
+
+msgid "byte number must be non-negative"
+msgstr "字节编号必须是非负数"
+
+msgid "can not determine type of file `%s'; use the -J option"
+msgstr "不能确定文件 %s 的类型，请使用 -J 选项"
+
+msgid "can't execute `%s': %s"
+msgstr "无法执行“%s”：%s"
+
+msgid "can't get BFD_RELOC_RVA relocation type"
+msgstr "无法得到 BFD_RELOC_RVA 重定向类型"
+
+msgid "can't open %s `%s': %s"
+msgstr "无法打开 %s“%s”：%s"
+
+msgid "can't open `%s' for output: %s"
+msgstr "无法为输出打开“%s”：%s"
+
+msgid "can't open temporary file `%s': %s"
+msgstr "无法打开临时文件“%s”：%s"
+
+msgid "can't popen `%s': %s"
+msgstr "无法 popen “%s”：%s"
+
+msgid "can't redirect stdout: `%s': %s"
+msgstr "无法重定向标准输出：“%s”：%s"
+
+msgid "can't set BFD default target to `%s': %s"
+msgstr "无法将 BFD 默认标的设置为“%s”：%s"
+
+msgid "cannot delete %s: %s"
+msgstr "无法删除 %s：%s"
+
+msgid "cannot open '%s': %s"
+msgstr "无法打开 '%s'：%s"
+
+msgid "cannot open input file %s"
+msgstr "无法打开输入文件 %s"
+
+msgid "cannot open: %s: %s"
+msgstr "无法打开：%s：%s"
+
+msgid "code"
+msgstr "编码"
+
+msgid "conflict"
+msgstr "冲突"
+
+msgid "const/volatile indicator missing"
+msgstr "遗漏 const/volatile 指示符"
+
+msgid "corrupt attribute\n"
+msgstr "损坏的属性\n"
+
+msgid "corrupt tag\n"
+msgstr "损坏的标签\n"
+
+msgid "couldn't open symbol redefinition file %s (error: %s)"
+msgstr "无法打开符号重定义文件 %s (错误: %s)"
+
+msgid "creating %s"
+msgstr "正在创建 %s"
+
+msgid "cursor"
+msgstr "光标"
+
+msgid "cursor file `%s' does not contain cursor data"
+msgstr "光标文件“%s”不含有光标数据"
+
+msgid "custom section"
+msgstr "定制节"
+
+msgid "data entry"
+msgstr "数据条目"
+
+msgid "data size %ld"
+msgstr "数据大小 %ld"
+
+msgid "debug_add_to_current_namespace: no current file"
+msgstr "debug_add_to_current_namespace：没有当前文件"
+
+msgid "debug_end_block: attempt to close top level block"
+msgstr "debug_end_block：试图关闭顶层块"
+
+msgid "debug_end_block: no current block"
+msgstr "debug_end_block：没有当前块"
+
+msgid "debug_end_common_block: not implemented"
+msgstr "debug_end_common_block：未实现"
+
+msgid "debug_end_function: no current function"
+msgstr "debug_end_function：没有当前函数"
+
+msgid "debug_end_function: some blocks were not closed"
+msgstr "debug_end_function：某些块没有关闭"
+
+msgid "debug_find_named_type: no current compilation unit"
+msgstr "debug_find_named_type：没有当前编译单元"
+
+msgid "debug_get_real_type: circular debug information for %s\n"
+msgstr "debug_get_real_type：关于 %s 的循环调试信息\n"
+
+msgid "debug_make_undefined_type: unsupported kind"
+msgstr "debug_make_undefined_type：不支持的种类"
+
+msgid "debug_name_type: no current file"
+msgstr "debug_name_type：没有当前文件"
+
+msgid "debug_record_function: no debug_set_filename call"
+msgstr "debug_record_function：没有 debug_set_filename 调用"
+
+msgid "debug_record_label: not implemented"
+msgstr "debug_record_label：未实现"
+
+msgid "debug_record_line: no current unit"
+msgstr "debug_record_line：没有当前单元"
+
+msgid "debug_record_parameter: no current function"
+msgstr "debug_record_parameter：没有当前函数"
+
+msgid "debug_record_variable: no current file"
+msgstr "debug_record_variable：没有当前文件"
+
+msgid "debug_start_block: no current block"
+msgstr "debug_start_block：没有当前块"
+
+msgid "debug_start_common_block: not implemented"
+msgstr "debug_start_common_block：未实现"
+
+msgid "debug_start_source: no debug_set_filename call"
+msgstr "debug_start_source：没有 debug_set_filename 调用"
+
+msgid "debug_tag_type: extra tag attempted"
+msgstr "debug_tag_type：已尝试更多的标记"
+
+msgid "debug_tag_type: no current file"
+msgstr "debug_tag_type：没有当前文件"
+
+msgid "debug_write_type: illegal type encountered"
+msgstr "debug_write_type：遇到非法类型"
+
+msgid "define new File Table entry\n"
+msgstr "定义新文件表条目\n"
+
+msgid "dialog control"
+msgstr "对话框控制"
+
+msgid "dialog control data"
+msgstr "对话框控制数据"
+
+msgid "dialog control end"
+msgstr "对话框控制结束"
+
+msgid "dialog header"
+msgstr "对话框头"
+
+msgid "dialogex control"
+msgstr "对话框扩展控制"
+
+msgid "directory"
+msgstr "目录"
+
+msgid "directory entry name"
+msgstr "目录条目名"
+
+msgid "dwo_id"
+msgstr "dwo_id"
+
+msgid "dynamic string table"
+msgstr "动态字符串表"
+
+msgid "dynamic strings"
+msgstr "动态字符串"
+
+msgid "endianness unknown"
+msgstr "未知的端序"
+
+msgid "enum definition"
+msgstr "枚举定义"
+
+msgid "error: %s both copied and removed"
+msgstr "错误：%s 既要复制又要删除"
+
+msgid "expression stack mismatch"
+msgstr "表达式栈不匹配"
+
+msgid "expression stack overflow"
+msgstr "表达式栈溢出"
+
+msgid "expression stack underflow"
+msgstr "表达式栈下溢出"
+
+msgid "failed to open temporary head file: %s"
+msgstr "打开临时头文件失败：%s"
+
+msgid "failed to open temporary head file: %s: %s"
+msgstr "打开临时标头文件失败：%s: %s"
+
+msgid "failed to open temporary tail file: %s"
+msgstr "打开临时尾文件失败：%s"
+
+msgid "failed to open temporary tail file: %s: %s"
+msgstr "打开临时标尾文件失败：%s: %s"
+
+msgid "failed to read the number of entries from base file"
+msgstr "从基底文件读取条目数量时失败"
+
+msgid "filename required for COFF input"
+msgstr "COFF 输入需要文件名"
+
+msgid "filename required for COFF output"
+msgstr "COFF 输出需要文件名"
+
+msgid "flags 0x%08x:\n"
+msgstr "标志 0x%08x：\n"
+
+msgid "fontdir"
+msgstr "字体目录"
+
+msgid "fontdir device name"
+msgstr "字体目录设备名"
+
+msgid "fontdir header"
+msgstr "字体目录头"
+
+msgid "function"
+msgstr "函数"
+
+msgid "function returning"
+msgstr "函数返回"
+
+msgid "g"
+msgstr "g"
+
+msgid "global"
+msgstr "全局"
+
+msgid "group cursor"
+msgstr "组光标"
+
+msgid "group cursor header"
+msgstr "组光标头"
+
+msgid "group icon"
+msgstr "组图标"
+
+msgid "group icon header"
+msgstr "组图标头"
+
+msgid "help section"
+msgstr "求助节"
+
+msgid "icon file `%s' does not contain icon data"
+msgstr "图标文件“%s”不含有图标数据"
+
+msgid "illegal type index"
+msgstr "非法的类型索引"
+
+msgid "illegal variable index"
+msgstr "非法的变量索引"
+
+msgid "input and output files must be different"
+msgstr "输入输出文件必须不同"
+
+msgid "input file does not seems to be UFT16.\n"
+msgstr "输入文件似乎不为 UFT16。\n"
+
+msgid "input file named both on command line and with INPUT"
+msgstr "同时在命令行和 INPU 中命名输入文件"
+
+msgid "internal error -- this option not implemented"
+msgstr "内部错误 -- 该选项尚未实现"
+
+msgid "internal stat error on %s"
+msgstr "在 %s 内部状态错误"
+
+msgid "invalid argument to --format: %s"
+msgstr "--format 的无效参数：%s"
+
+msgid "invalid codepage specified.\n"
+msgstr "指定了无效的代码页。\n"
+
+msgid "invalid integer argument %s"
+msgstr "无效的整数参数 %s"
+
+msgid "invalid minimum string length %d"
+msgstr "无效的最小字符串长度 %d"
+
+msgid "invalid number"
+msgstr "无效编号"
+
+msgid "invalid option -f\n"
+msgstr "无效的选项“-f”\n"
+
+msgid "invalid string length"
+msgstr "无效的字符串长度"
+
+msgid "length %d ["
+msgstr "长度 %d ["
+
+msgid "little endian"
+msgstr "小端序"
+
+msgid "make .bss section"
+msgstr "生成 .bss 节"
+
+msgid "make .nlmsections section"
+msgstr "生成 .nlmsections 节"
+
+msgid "menu header"
+msgstr "菜单头"
+
+msgid "menuex header"
+msgstr "扩展菜单头"
+
+msgid "menuex offset"
+msgstr "扩展菜单偏移量"
+
+msgid "menuitem"
+msgstr "菜单项"
+
+msgid "menuitem header"
+msgstr "菜单项头"
+
+msgid "message section"
+msgstr "消息节"
+
+msgid "missing index type"
+msgstr "缺失索引类型"
+
+msgid "missing required ASN"
+msgstr "缺失必须的 ASN"
+
+msgid "missing required ATN65"
+msgstr "缺失必须的 ATN65"
+
+msgid "module section"
+msgstr "模块节"
+
+msgid "more than one dynamic segment\n"
+msgstr "多于一个动态段\n"
+
+msgid "named directory entry"
+msgstr "已命名的目录条目"
+
+msgid "named resource"
+msgstr "已命名的资源"
+
+msgid "named subdirectory"
+msgstr "已命名的子目录"
+
+msgid "no argument types in mangled string\n"
+msgstr "已修饰字串中没有参数类型\n"
+
+msgid "no entry %s in archive\n"
+msgstr "归档文件中没有条目 %s\n"
+
+msgid "no entry %s in archive %s!"
+msgstr "归档文件 %2$s 中没有条目 %1$s！"
+
+msgid ""
+"no export definition file provided.\n"
+"Creating one, but that may not be what you want"
+msgstr ""
+"未提供导出定义文件。\n"
+"创建一个，但可能不是您所要的"
+
+msgid "no info"
+msgstr "无信息"
+
+msgid "no input file"
+msgstr "没有输入文件"
+
+msgid "no input file specified"
+msgstr "未指定输入文件"
+
+msgid "no name for output file"
+msgstr "输出文件没有名称"
+
+msgid "no operation specified"
+msgstr "没有指定操作"
+
+msgid "no resources"
+msgstr "没有资源"
+
+msgid "no symbols\n"
+msgstr "无符号\n"
+
+msgid "none"
+msgstr "无"
+
+msgid "notes"
+msgstr "注释"
+
+msgid "null terminated unicode string"
+msgstr "以 null 终止的 unicode 字符串"
+
+msgid "numeric overflow"
+msgstr "数值溢出"
+
+msgid "offset: %s "
+msgstr "偏移量：%s "
+
+msgid "options"
+msgstr "选项"
+
+msgid "parse_coff_type: Bad type code 0x%x"
+msgstr "parse_coff_type：错误的类型码 0x%x"
+
+msgid "pointer to"
+msgstr "指针到"
+
+msgid "program headers"
+msgstr "程序头"
+
+msgid "pwait returns: %s"
+msgstr "pwait 返回：%s"
+
+msgid "reference parameter is not a pointer"
+msgstr "引用参数不是指针"
+
+msgid "resource ID"
+msgstr "资源 ID"
+
+msgid "resource data"
+msgstr "资源数据"
+
+msgid "resource data size"
+msgstr "资源数据大小"
+
+msgid "resource type unknown"
+msgstr "资源类型未知"
+
+msgid "rpc section"
+msgstr "rpc 节"
+
+msgid "run: %s %s"
+msgstr "运行：%s %s"
+
+msgid "s"
+msgstr "s"
+
+msgid "section data"
+msgstr "节输出"
+
+msgid "section definition at %x size %x\n"
+msgstr "节定义于 %x 大小 %x\n"
+
+msgid "section headers"
+msgstr "节头"
+
+msgid "set .bss vma"
+msgstr "设定 .bss vma"
+
+msgid "set .data size"
+msgstr "设定 .data 的大小"
+
+msgid "set .nlmsection contents"
+msgstr "设定 .nlmsection 的内容"
+
+msgid "set .nlmsections size"
+msgstr "设定 .nlmsections 大小"
+
+msgid "set Address to 0x%s\n"
+msgstr "设置地址为 0x%s\n"
+
+msgid "set section alignment"
+msgstr "设定节对齐"
+
+msgid "set section flags"
+msgstr "设定节标志"
+
+msgid "set section size"
+msgstr "设定节大小"
+
+msgid "set start address"
+msgstr "设定起始地址"
+
+msgid "shared section"
+msgstr "共享节"
+
+msgid "signature"
+msgstr "签名"
+
+msgid "size %d "
+msgstr "大小 %d "
+
+msgid "size: %s "
+msgstr "大小：%s "
+
+msgid "sorry - this program has been built without plugin support\n"
+msgstr "抱歉 - 此程序构建时未启用插件支持\n"
+
+msgid "stab_int_type: bad size %u"
+msgstr "stab_int_type：错误大小 %u"
+
+msgid "stack overflow"
+msgstr "栈上溢出"
+
+msgid "stack underflow"
+msgstr "栈下溢出"
+
+msgid "stat failed on bitmap file `%s': %s"
+msgstr "对位图文件“%s”进行 stat 操作失败：%s"
+
+msgid "static"
+msgstr "静态"
+
+msgid "string table"
+msgstr "字符串表"
+
+msgid "string_hash_lookup failed: %s"
+msgstr "string_hash_lookup 失败：%s"
+
+msgid "stringtable string"
+msgstr "字符串表字符串"
+
+msgid "stringtable string length"
+msgstr "字符串表字符串长度"
+
+msgid "structure definition"
+msgstr "结构体定义"
+
+msgid "stub section sizes"
+msgstr "占位节大小"
+
+msgid "subprocess got fatal signal %d"
+msgstr "子进程收到致命信号 %d"
+
+msgid "supported flags: %s"
+msgstr "支持的标志：%s"
+
+msgid "symbol information"
+msgstr "符号信息"
+
+msgid "symbols"
+msgstr "符号"
+
+msgid "two different operation options specified"
+msgstr "给出了两个不同的操作选项"
+
+msgid "type"
+msgstr "类型"
+
+msgid "unable to open output file %s"
+msgstr "无法打开输出文件 %s"
+
+msgid "undefined C++ object"
+msgstr "未定义的 C++ 对象"
+
+msgid "undefined C++ vtable"
+msgstr "未定义的 C++ vtable"
+
+msgid "undefined variable in ATN"
+msgstr "ATN 中未定义的变量"
+
+msgid "undefined variable in TY"
+msgstr "TY 中未定义的变量"
+
+msgid "unexpected DIALOGEX version %d"
+msgstr "意外的扩展对话框版本 %d"
+
+msgid "unexpected end of debugging information"
+msgstr "调试信息意外结束"
+
+msgid "unexpected fixed version info version %lu"
+msgstr "意外的固定版本信息版本 %lu"
+
+msgid "unexpected fixed version signature %lu"
+msgstr "意外的固定版本签名 %lu"
+
+msgid "unexpected group cursor type %d"
+msgstr "意外的组光标类型 %d"
+
+msgid "unexpected group icon type %d"
+msgstr "意外的组图标类型 %d"
+
+msgid "unexpected number"
+msgstr "意外的编号"
+
+msgid "unexpected record type"
+msgstr "意外的记录类型"
+
+msgid "unexpected string in C++ misc"
+msgstr "意外的 C++ 杂项字串"
+
+msgid "unexpected version string"
+msgstr "意外的版本字符串"
+
+msgid "unexpected version type %d"
+msgstr "意外的版本类型 %d"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown ATN type"
+msgstr "未知的 ATN 类型"
+
+msgid "unknown BB type"
+msgstr "未知的 BB 类型"
+
+msgid "unknown C++ encoded name"
+msgstr "未知的 C++ 编码名称"
+
+msgid "unknown C++ visibility"
+msgstr "未知的 C++ 可见性"
+
+msgid "unknown TY code"
+msgstr "未知的 TY 代码"
+
+msgid "unknown builtin type"
+msgstr "未知的内置类型"
+
+msgid "unknown demangling style `%s'"
+msgstr "未知的解码(demangle)风格“%s”"
+
+msgid "unknown format type `%s'"
+msgstr "未知的格式类型“%s”"
+
+msgid "unknown magic"
+msgstr "不明魔数"
+
+msgid "unknown section"
+msgstr "未知的节"
+
+msgid "unknown virtual character for baseclass"
+msgstr "未知的基类虚类字符"
+
+msgid "unknown visibility character for baseclass"
+msgstr "未知的基类可见性字符"
+
+msgid "unknown visibility character for field"
+msgstr "未知的字段可见性字符"
+
+msgid "unnamed $vb type"
+msgstr "未命名的 $vb 类型"
+
+msgid "unrecognized --endian type `%s'"
+msgstr "无法识别的 --endian 类型“%s”"
+
+msgid "unrecognized -E option"
+msgstr "无法识别的 -E 选项"
+
+msgid "unrecognized C++ abbreviation"
+msgstr "无法识别的 C++ 缩写"
+
+msgid "unrecognized C++ default type"
+msgstr "无法识别的 C++ 默认类型"
+
+msgid "unrecognized C++ misc record"
+msgstr "无法识别的 C++ 杂项纪录"
+
+msgid "unrecognized C++ object spec"
+msgstr "无法识别的 C++ 对象规范"
+
+msgid "unrecognized C++ reference type"
+msgstr "无法识别的 C++ 引用类型"
+
+msgid "unrecognized cross reference type"
+msgstr "无法识别的交叉引用类型"
+
+msgid "unrecognized section flag `%s'"
+msgstr "不能识别的节标志“%s”"
+
+msgid "unrecognized: %-7lx"
+msgstr "不能识别的：%-7lx"
+
+msgid "unsupported ATN11"
+msgstr "不支持 ATN11"
+
+msgid "unsupported ATN12"
+msgstr "不支持 ATN12"
+
+msgid "unsupported C++ object type"
+msgstr "不支持的 C++ 对象类型"
+
+msgid "unsupported IEEE expression operator"
+msgstr "不支持的 IEEE 表达式操作符"
+
+msgid "unsupported menu version %d"
+msgstr "不支持的菜单版本 %d"
+
+msgid "unsupported qualifier"
+msgstr "不支持的限定符"
+
+msgid "unused5"
+msgstr "未用 5"
+
+msgid "unused6"
+msgstr "未用 6"
+
+msgid "unused7"
+msgstr "未用 7"
+
+msgid "unwind data"
+msgstr "展开数据"
+
+msgid "unwind info"
+msgstr "展开信息"
+
+msgid "user defined: "
+msgstr "用户定义： "
+
+msgid "variable"
+msgstr "变量"
+
+msgid "version data"
+msgstr "版本数据"
+
+msgid "version def"
+msgstr "版本定义"
+
+msgid "version def aux"
+msgstr "版本定义附加数据"
+
+msgid "version definition section"
+msgstr "版本定义节"
+
+msgid "version length %d does not match resource length %lu"
+msgstr "版本长度 %d 不匹配资源长度 %lu"
+
+msgid "version need"
+msgstr "版本需要"
+
+msgid "version string table"
+msgstr "版本字符串表"
+
+msgid "version symbol data"
+msgstr "版本符号数据"
+
+msgid "wait: %s"
+msgstr "等待：%s"
+
+msgid "warning: CHECK procedure %s not defined"
+msgstr "警告：未定义子程序 %s"
+
+msgid "warning: EXIT procedure %s not defined"
+msgstr "警告：未定义子程序 %s"
+
+msgid "warning: No version number given"
+msgstr "警告：未给出版本号"
+
+msgid "warning: START procedure %s not defined"
+msgstr "警告：未定义 START 子程序 %s"
+
+msgid "warning: input and output formats are not compatible"
+msgstr "警告：输入和输出格式不兼容"
+
+msgid "warning: symbol %s imported but not in import list"
+msgstr "警告：导入的符号 %s 不在导入列表中"
+
+msgid "writing stub"
+msgstr "正在写入占位节"
+
+msgid "| <unknown>"
+msgstr "| <未知>"

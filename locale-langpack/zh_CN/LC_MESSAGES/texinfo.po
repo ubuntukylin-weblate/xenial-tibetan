@@ -1,0 +1,934 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: texinfo 4.13\n"
+"Report-Msgid-Bugs-To: bug-texinfo@gnu.org\n"
+"POT-Creation-Date: 2016-02-06 11:35+0000\n"
+"PO-Revision-Date: 2016-03-12 22:46+0000\n"
+"Last-Translator: Ji ZhengYu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:36+0000\n"
+
+msgid "\tTry `%s --help' for a complete list of options.\n"
+msgstr "\t试用“%s --help”以获得选项的完整列表。\n"
+
+msgid ""
+"   Source files groveled to make this file include:\n"
+"\n"
+msgstr ""
+"   整理源文件以使本文件包括：\n"
+"\n"
+
+msgid "  -b, --speech-friendly        be friendly to speech synthesizers."
+msgstr "  -b, --speech-friendly        友好地合成语音。"
+
+msgid ""
+" --silent            suppress warnings.\n"
+" --test              suppress updating of DIR-FILE.\n"
+" --version           display version information and exit."
+msgstr ""
+" --silent            不输出警告。\n"
+" --test              不更新 DIR-FILE。\n"
+" --version           显示版本信息并退出。"
+
+msgid " backward"
+msgstr " 向后搜索"
+
+msgid " case-sensitively"
+msgstr " 大小写敏感"
+
+msgid "\"%s\" is invalid"
+msgstr "“%s”为非法"
+
+msgid "\"%s\", line %u: "
+msgstr "“%s”，行 %u： "
+
+msgid "%c%s missing close brace"
+msgstr "%c%s 遗漏闭合花括号"
+
+msgid "%c%s requires a name"
+msgstr "%c%s 需要一个名字"
+
+msgid "%s can be invoked via %s."
+msgstr "%s 可以通过 %s 调用。"
+
+msgid "%s can only be invoked via %s."
+msgstr "%s 不能通过 %s 调用。"
+
+msgid "%s is undefined."
+msgstr "%s 未定义。"
+
+msgid "%s requires an argument: the formatter for %citem"
+msgstr "%s 需要一个参数: %citem 的格式化参数"
+
+msgid "%s%s%s [%s]: "
+msgstr "%s%s%s [%s]: "
+
+msgid "%s: --footnote-style arg must be `separate' or `end', not `%s'.\n"
+msgstr "%s：--footnote-style 的参数必须为“separate”或“end”，而不是“%s”。\n"
+
+msgid "%s: --paragraph-indent arg must be numeric/`none'/`asis', not `%s'.\n"
+msgstr "%s：--paragraph-indent 的参数必须为数值/“none”/“asis”，而不是“%s”。\n"
+
+msgid "%s: Specify the Info file only once.\n"
+msgstr "%s：Info 文件只应该指定一次。\n"
+
+msgid "%s: already have dir file: %s\n"
+msgstr "%s: 已经存在了 dir 文件: %s\n"
+
+msgid "%s: empty file"
+msgstr "%s：空文件"
+
+msgid "%s: missing file argument.\n"
+msgstr "%s：遗漏文件参数。\n"
+
+msgid "---------- Footnotes ----------"
+msgstr "---------- 脚注 ----------"
+
+msgid "-----Info: (), lines ----, "
+msgstr "-----Info：()，行 ----， "
+
+msgid "1...9       Pick the first...ninth item in this node's menu.\n"
+msgstr "1...9\t\t选取节点菜单中的第一至第九个项目。\n"
+
+msgid "@%s not meaningful inside `@%s' block"
+msgstr "在“@%2$s”块中“@%1$s”是没有意义的"
+
+msgid "@%s not meaningful outside `@titlepage' and `@quotation' environments"
+msgstr "在“@titlepage”和“@quotation”环境变量外 @%s 无意义"
+
+msgid "@image file `%s' unreadable: %s"
+msgstr "@image 文件“%s”不可读：%s"
+
+msgid "@image missing filename argument"
+msgstr "@image 遗漏文件名参数"
+
+msgid ""
+"@strong{Note...} produces a spurious cross-reference in Info; reword to "
+"avoid that"
+msgstr "@strong{Note...} 在 Info 中形成了一个假的交叉引用；可通过重写避免此事"
+
+msgid "Accept (or force completion of) this line"
+msgstr "接受(或强制完成)本行"
+
+msgid "Add or remove entries in INFO-FILE from the Info directory DIR-FILE."
+msgstr "从 Info 目录 DIR-FILE 的 INFO-FILE 文件中添加或移除条目。"
+
+msgid "Add this digit to the current numeric argument"
+msgstr "将本数字添加到当前数值参数中"
+
+msgid "Basic Info command keys\n"
+msgstr "基本 Info 命令按键\n"
+
+msgid "Building completions..."
+msgstr "正在创建补齐..."
+
+msgid "Cancel current operation"
+msgstr "取消当前操作"
+
+msgid "Cancel or quit operation"
+msgstr "取消或退出操作"
+
+msgid "Cannot delete a permanent window"
+msgstr "无法删除永久窗口"
+
+msgid "Cannot delete the last window."
+msgstr "无法删除最后的窗口。"
+
+msgid "Cannot find a window!"
+msgstr "无法找到一个窗口！"
+
+msgid ""
+"Commands available in Info windows:\n"
+"\n"
+msgstr ""
+"Info 窗口中可用的命令：\n"
+"\n"
+
+msgid ""
+"Commands available in the echo area:\n"
+"\n"
+msgstr ""
+"回显区中可用的命令：\n"
+"\n"
+
+msgid "Controls what happens when scrolling is requested at the end of a node"
+msgstr "控制在节点末尾时出现滚动请求将发生什么"
+
+msgid "Controls whether scroll-behavior affects cursor movement commands"
+msgstr "控制滚动行为是否影响光标移动命令"
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+
+msgid "Couldn't manipulate the file %s.\n"
+msgstr "无法操作文件 %s。\n"
+
+msgid "Delete all other windows"
+msgstr "删除所有其它窗口"
+
+msgid "Delete the character behind the cursor"
+msgstr "删除光标之后的字符"
+
+msgid "Delete the character under the cursor"
+msgstr "删除光标位置的字符"
+
+msgid "Delete the current window"
+msgstr "删除当前窗口"
+
+msgid "Describe command: "
+msgstr "说明命令： "
+
+msgid "Describe key: %s"
+msgstr "说明按键：%s"
+
+msgid "Describe variable: "
+msgstr "说明变量： "
+
+msgid "Display help message"
+msgstr "显示求助消息"
+
+msgid "Divide the available screen space among the visible windows"
+msgstr "在可见的窗口间分配可用的屏幕空间"
+
+msgid "END-INFO-DIR-ENTRY without matching START-INFO-DIR-ENTRY"
+msgstr "END-INFO-DIR-ENTRY 没有匹配的 START-INFO-DIR-ENTRY"
+
+msgid ""
+"Email bug reports to bug-texinfo@gnu.org,\n"
+"general questions and discussion to help-texinfo@gnu.org.\n"
+"Texinfo home page: http://www.gnu.org/software/texinfo/"
+msgstr ""
+"请将错误报告发送到 bug-texinfo@gnu.org，\n"
+"一般的问题和讨论请发送到 help-texinfo@gnu.org。\n"
+"Texinfo 主页：http://www.gnu.org/software/texinfo/"
+
+msgid "Error in regular expression `%s': %s"
+msgstr "正则表达式“%s”中存在错误: %s"
+
+msgid "Explain the use of a variable"
+msgstr "解释变量的用法"
+
+msgid "Extra regular expression specified, ignoring `%s'"
+msgstr "指定了额外的正则表达式，忽略 “%s”"
+
+msgid "Failing "
+msgstr "失败 "
+
+msgid "Find Invocation node of [%s]: "
+msgstr "寻找 [%s] 的调用节点： "
+
+msgid "Find file: "
+msgstr "寻找文件： "
+
+msgid "Find the node describing program invocation"
+msgstr "寻找说明程序调用的节点"
+
+msgid "Finding index entries..."
+msgstr "正在搜索索引条目..."
+
+msgid "Follow menus: "
+msgstr "跟随菜单： "
+
+msgid "Follow xref (%s): "
+msgstr "跟随交叉引用 (%s)： "
+
+msgid "Follow xref: "
+msgstr "跟随交叉引用： "
+
+msgid "Footnotes could not be displayed"
+msgstr "无法显示脚注"
+
+msgid "Get Manpage: "
+msgstr "获取 man 手册： "
+
+msgid "Goto node: "
+msgstr "转到节点： "
+
+msgid "Grovel all known info file's indices for a string and build a menu"
+msgstr "整理所有已知 info 文件含有被查询字符串的索引并建立一个菜单"
+
+msgid "Grow (or shrink) this window"
+msgstr "扩大(或缩小)本窗口"
+
+msgid "I-search backward: "
+msgstr "向后增量搜索： "
+
+msgid "I-search: "
+msgstr "增量搜索： "
+
+msgid "Index entry: "
+msgstr "索引条目： "
+
+msgid "Insert a TAB character"
+msgstr "插入一个 tab 字符"
+
+msgid "Insert completion"
+msgstr "插入补齐"
+
+msgid "Insert next character verbatim"
+msgstr "原样插入下一个字符"
+
+msgid "Kill ring is empty"
+msgstr "剪贴簿为空"
+
+msgid "Kill the word following the cursor"
+msgstr "剪切光标之后的单词"
+
+msgid "Kill the word preceding the cursor"
+msgstr "剪切光标之前的单词"
+
+msgid "Kill to the beginning of the line"
+msgstr "剪切至本行开头"
+
+msgid "Kill to the end of the line"
+msgstr "剪切至本行末尾"
+
+msgid "List possible completions"
+msgstr "列举可能的补齐"
+
+msgid "Look up a string in the index for this file"
+msgstr "在本文件的索引中搜索字符串"
+
+msgid "Make a window containing a menu of all of the currently visited nodes"
+msgstr "使一个窗口含有一个包括所有当前访问节点的菜单"
+
+msgid "Menu item (%s): "
+msgstr "菜单项 (%s)： "
+
+msgid "Menu item: "
+msgstr "菜单项： "
+
+msgid "Move backward a character"
+msgstr "向后移动一个字符"
+
+msgid "Move backward a word"
+msgstr "向后移动一个单词"
+
+msgid "Move backwards or up through node structure"
+msgstr "在节点结构中向后或向上层移动"
+
+msgid "Move down to the next line"
+msgstr "向下移动到下一行"
+
+msgid "Move forward a character"
+msgstr "向前移动一个字符"
+
+msgid "Move forward a word"
+msgstr "向前移动一个单词"
+
+msgid "Move forwards or down through node structure"
+msgstr "在节点结构中向前或向下层移动"
+
+msgid "Move the cursor to a specific line of the window"
+msgstr "将光标移动到窗口的指定行"
+
+msgid "Move to the end of the line"
+msgstr "移动到行的末尾"
+
+msgid "Move to the end of this line"
+msgstr "移动到本行的末尾"
+
+msgid "Move to the end of this node"
+msgstr "移动到本节点的末尾"
+
+msgid "Move to the next cross reference"
+msgstr "移动到下一个交叉引用"
+
+msgid "Move to the previous cross reference"
+msgstr "移动到上一个交叉引用"
+
+msgid "Move to the start of the line"
+msgstr "移动到行的开头"
+
+msgid "Move to the start of this line"
+msgstr "移动到本行的开头"
+
+msgid "Move to the start of this node"
+msgstr "移动到本节点的开头"
+
+msgid "Move to the start of this node's menu"
+msgstr "移动到本节点菜单的开头"
+
+msgid "Move up to the previous line"
+msgstr "向上移动到上一行"
+
+msgid "NUL character (\\000) not permitted"
+msgstr "不允许的空字符 (\\\\000)"
+
+msgid "NUL character (^%c) not permitted"
+msgstr "不允许的空字符 (^%c)"
+
+msgid "No completions"
+msgstr "没有补齐"
+
+msgid "No cross references in this node."
+msgstr "该节点中没有交叉引用。"
+
+msgid "No dir file specified; try --help for more information."
+msgstr "没有指定目录文件；试用 --help 以获得更多信息。"
+
+msgid "No footnotes in this node."
+msgstr "该节点中没有脚注。"
+
+msgid "No indices found."
+msgstr "未找到索引。"
+
+msgid "No input file specified; try --help for more information."
+msgstr "没有指定输出文件；试用 --help 以获得更多信息。"
+
+msgid "No menu in this node."
+msgstr "该节点中没有菜单。"
+
+msgid "No more nodes within this document."
+msgstr "本文档中没有更多的节点。"
+
+msgid "No previous index search string."
+msgstr "没有上一个索引搜索字符串。"
+
+msgid "No previous search string"
+msgstr "没有上次搜索字符串"
+
+msgid "Not complete"
+msgstr "未补齐"
+
+msgid "Not enough room for a help window, please delete a window."
+msgstr "没有足够的空间用于求助窗口，请删除一个窗口。"
+
+msgid "Only @%s 10 or 11 is supported, not `%s'"
+msgstr "仅支持 @%s 10 或 11，而不是“%s”"
+
+msgid "Only one window."
+msgstr "只有一个窗口。"
+
+msgid ""
+"Options for Info and plain text:\n"
+"      --disable-encoding      do not output accented and special characters\n"
+"                                in Info output based on @documentencoding.\n"
+"      --enable-encoding       override --disable-encoding (default).\n"
+"      --fill-column=NUM       break Info lines at NUM characters (default %d).\n"
+"      --footnote-style=STYLE  output footnotes in Info according to STYLE:\n"
+"                                `separate' to put them in their own node;\n"
+"                                `end' to put them at the end of the node, in\n"
+"                                which they are defined (this is the default).\n"
+"      --paragraph-indent=VAL  indent Info paragraphs by VAL spaces (default %d).\n"
+"                                If VAL is `none', do not indent; if VAL is\n"
+"                                `asis', preserve existing indentation.\n"
+"      --split-size=NUM        split Info files at size NUM (default %d).\n"
+msgstr ""
+"Info 和普通文本选项：\n"
+"      --disable-encoding      不要根据 @documentencoding 输出 Info 输出中的\n"
+"                                重音和特殊字符。\n"
+"      --enable-encoding       覆盖 --disable-encoding 设置(默认)。\n"
+"      --fill-column=NUM       在第 NUM 个字符处切分 Info 行 (默认为 %d)。\n"
+"      --footnote-style=STYLE  根据 STYLE 输出 Info 中的脚注：\n"
+"                                “separate”将脚注置于独立的节点；\n"
+"                                “end”将脚注置于定义它的节点的末尾(默认)。\n"
+"      --paragraph-indent=VAL  将 Info 段对齐到 VAL 个空格 (默认为 %d).\n"
+"                                如果 VAL 为“none”，则不对齐；如果 VAL 为\n"
+"                                “asis”，保留现有的对齐。\n"
+"      --split-size=NUM        在大小 NUM 的时候拆分 Info 文件 (默认为 %d)。\n"
+
+msgid "Pipe the contents of this node through INFO_PRINT_COMMAND"
+msgstr "通过管道将本节点的内容输出到 INFO_PRINT_COMMAND"
+
+msgid "Point doesn't appear within this window's node!"
+msgstr "光标没有出现在该窗口的节点之中！"
+
+msgid "Print documentation for KEY"
+msgstr "打印关于 KEY 的文档"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Quit using Info"
+msgstr "退出 Info"
+
+msgid "Read a command name in the echo area and execute it"
+msgstr "在回显区读入命令名并执行它"
+
+msgid "Read a footnote or cross reference and select its node"
+msgstr "读取脚注或交叉引用并选择它的节点"
+
+msgid "Read a list of menus starting from dir and follow them"
+msgstr "读取自 dir 开始的菜单的列表并跟随它们"
+
+msgid "Read a manpage reference and select it"
+msgstr "读取一个 man 手册的引用并选择它"
+
+msgid "Read a menu item and select its node"
+msgstr "读取菜单项并选择它的节点"
+
+msgid "Read a node name and select it"
+msgstr "读取节点名并选择它"
+
+msgid "Read a string and search backward for it"
+msgstr "读取一个字符串并向后搜索它"
+
+msgid "Read a string and search for it"
+msgstr "读取一个字符串并搜索它"
+
+msgid "Read a string and search for it case-sensitively"
+msgstr "读取一个字符串并以大小写敏感的方式搜索它"
+
+msgid "Read the name of a file and select it"
+msgstr "读取文件名并选择它"
+
+msgid "Read the name of an Info command and describe it"
+msgstr "读取 Info 命令名称并说明它"
+
+msgid "Redraw the display"
+msgstr "重画显示"
+
+msgid "Regexp I-search backward: "
+msgstr "向后增量搜索正则表达式: "
+
+msgid "Regexp I-search: "
+msgstr "增量搜索正则表达式: "
+
+msgid "Regexp search"
+msgstr "正则表达式查找"
+
+msgid "Repeat last search in the reverse direction"
+msgstr "以相反的方向重复最后的搜索"
+
+msgid "Repeat last search in the same direction"
+msgstr "以相同的方向重复最后的搜索"
+
+msgid "Resulting window would be too small."
+msgstr "结果窗口将会太小。"
+
+msgid "Run command bound to this key's lowercase variant"
+msgstr "运行到绑定到本按键的小写版本的命令"
+
+msgid "START-INFO-DIR-ENTRY without matching END-INFO-DIR-ENTRY"
+msgstr "START-INFO-DIR-ENTRY 没有匹配的 END-INFO-DIR-ENTRY"
+
+msgid "Same as scroll-behaviour"
+msgstr "等同于滚动行为"
+
+msgid "Scroll backward in this window"
+msgstr "在本窗口中向后滚动"
+
+msgid "Scroll backward in this window and set default window size"
+msgstr "在本窗口中向后滚动并设置为默认窗口大小"
+
+msgid "Scroll backward in this window staying within node"
+msgstr "在本窗口中向后滚动(不穿越节点)"
+
+msgid ""
+"Scroll backward in this window staying within node and set default window "
+"size"
+msgstr "在本窗口中向后滚动(不穿越节点)并设置为默认窗口大小"
+
+msgid "Scroll down by half screen size"
+msgstr "向下滚动半个屏幕"
+
+msgid "Scroll down by lines"
+msgstr "按行向下滚动"
+
+msgid "Scroll forward in this window"
+msgstr "在本窗口中向前滚动"
+
+msgid "Scroll forward in this window and set default window size"
+msgstr "在本窗口中向前滚动并设置为默认窗口大小"
+
+msgid "Scroll forward in this window staying within node"
+msgstr "在本窗口中向前滚动(不穿越节点)"
+
+msgid ""
+"Scroll forward in this window staying within node and set default window "
+"size"
+msgstr "在本窗口中向前滚动(不穿越节点)并设置默认窗口大小"
+
+msgid "Scroll the completions window"
+msgstr "滚动补齐窗口"
+
+msgid "Scroll the other window"
+msgstr "滚动其它窗口"
+
+msgid "Scroll the other window backward"
+msgstr "向后滚动其它窗口"
+
+msgid "Scroll up by half screen size"
+msgstr "向上滚动半个屏幕"
+
+msgid "Scroll up by lines"
+msgstr "按行向上滚动"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search continued from the beginning of the document."
+msgstr "从此文档的开头继续查找。"
+
+msgid "Search continued from the end of the document."
+msgstr "从文档底部继续查寻。"
+
+msgid "Search failed."
+msgstr "搜索失败。"
+
+msgid "Search interactively for a string as you type it"
+msgstr "在你输入的同时交互式地搜索字符串"
+
+msgid "Searching subfile %s ..."
+msgstr "正在搜索子文件 %s ..."
+
+msgid "Select a node which has been previously visited in a visible window"
+msgstr "选择一个已经在可见的窗口中访问的节点"
+
+msgid "Select reference or menu item appearing on this line"
+msgstr "选择出现在本行中的引用或菜单项"
+
+msgid "Select the Next node"
+msgstr "选择下一个节点"
+
+msgid "Select the Prev node"
+msgstr "选择上一个节点"
+
+msgid "Select the Up node"
+msgstr "选择上层节点"
+
+msgid "Select the first node in this file"
+msgstr "选择本文件的第一个节点"
+
+msgid "Select the last item in this node's menu"
+msgstr "选择本节点菜单中的最后一项"
+
+msgid "Select the last node in this file"
+msgstr "选择本文件的最后一个节点"
+
+msgid "Select the most recently selected node"
+msgstr "选择最近选择的节点"
+
+msgid "Select the next window"
+msgstr "选择下一个窗口"
+
+msgid "Select the previous window"
+msgstr "选择上一个窗口"
+
+msgid "Select this menu item"
+msgstr "选择本菜单项目"
+
+msgid "Select visited node: "
+msgstr "选择已访问的节点： "
+
+msgid "Set %s to value (%d): "
+msgstr "将 %s 设定为值 (%d)： "
+
+msgid "Set %s to value (%s): "
+msgstr "将 %s 设定为值 (%s)： "
+
+msgid "Set screen height to (%d): "
+msgstr "将屏幕高度设置为 (%d)： "
+
+msgid "Set the height of the displayed window"
+msgstr "设定显示窗口的高度"
+
+msgid "Set the value of an Info variable"
+msgstr "设定 Info 变量的值"
+
+msgid "Set variable: "
+msgstr "设定变量： "
+
+msgid "Show the footnotes associated with this node in another window"
+msgstr "在另一个窗口中显示于该节点相关的脚注"
+
+msgid "Show what to type to execute a given command"
+msgstr "显示执行给定命令所需的按键"
+
+msgid "Sole completion"
+msgstr "唯一的补齐"
+
+msgid "Split the current window"
+msgstr "拆分当前窗口"
+
+msgid "Start (or multiply by 4) the current numeric argument"
+msgstr "开启(或乘以 4)当前数值参数"
+
+msgid "The current search path is:\n"
+msgstr "当前搜索路径为：\n"
+
+msgid ""
+"The following commands can only be invoked via %s:\n"
+"\n"
+msgstr ""
+"以下命令只能通过 %s 调用：\n"
+"\n"
+
+msgid ""
+"The following commands cannot be invoked at all:\n"
+"\n"
+msgstr ""
+"以下命令根本无法调用：\n"
+"\n"
+
+msgid "The number lines to scroll when the cursor moves out of the window"
+msgstr "当光标移出窗口是所滚动的行数"
+
+msgid "The reference disappeared! (%s)."
+msgstr "引用消失了！(%s)。"
+
+msgid "This window has no additional nodes"
+msgstr "该窗口没有附加节点"
+
+msgid "Toggle the state of line wrapping in the current window"
+msgstr "在当前窗口中切换行卷绕状态"
+
+msgid "Toggle the usage of regular expressions in searches"
+msgstr "切换查寻时正则表达式的用法"
+
+msgid "Transpose characters at point"
+msgstr "变换光标处字符的次序"
+
+msgid "Try --help for more information.\n"
+msgstr "尝试 --更多的求助信息。\n"
+
+msgid "Try `%s --help' for more information.\n"
+msgstr "试用“%s --help”以获取更多信息。\n"
+
+msgid "Undefined command: %s"
+msgstr "未定义的命令: %s"
+
+msgid "Unknown command (%s)."
+msgstr "未知的命令 (%s)。"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Usage: %s [OPTION]... TEXINFO-FILE...\n"
+msgstr "用法：%s [选项]... TEXINFO-文件...\n"
+
+msgid "Usage: %s [OPTION]... [INFO-FILE [DIR-FILE]]\n"
+msgstr "用法: %s [OPTION]... [INFO-FILE [DIR-FILE]]\n"
+
+msgid ""
+"Usage: %s [OPTION]... [MENU-ITEM...]\n"
+"\n"
+"Read documentation in Info format.\n"
+msgstr ""
+"用法: %s [OPTION]... [MENU-ITEM...]\n"
+"\n"
+"以 Info 格式阅读文档。\n"
+
+msgid "Using literal strings for searches."
+msgstr "使用普通字符串来查寻"
+
+msgid "Using regular expressions for searches."
+msgstr "使用正则表达式来查寻"
+
+msgid "Visit as many menu items at once as possible"
+msgstr "立刻访问尽可能多的菜单项"
+
+msgid ""
+"What to do when a scrolling command is issued at the end of the last node"
+msgstr "控制在最后一个节点的末尾出现滚动请求时将发生什么"
+
+msgid "When \"On\", Info accepts and displays ISO Latin characters"
+msgstr "在“开”时，Info 接受并显示 ISO 拉丁字符"
+
+msgid "When \"On\", Info garbage collects files which had to be uncompressed"
+msgstr "在“开”时，Info 垃圾收集那些必须解压缩的文件"
+
+msgid "When \"On\", creating or deleting a window resizes other windows"
+msgstr "在“开”时，创建或删除窗口时改变其它窗口的大小"
+
+msgid "When \"On\", errors cause the bell to ring"
+msgstr "在“开”时，出错时将鸣笛"
+
+msgid "When \"On\", flash the screen instead of ringing the bell"
+msgstr "在“开”时，将刷新屏幕而不是鸣笛"
+
+msgid "When \"On\", footnotes appear and disappear automatically"
+msgstr "在“开”时，脚注将自动出现或消失"
+
+msgid "When \"On\", the portion of the matched search string is highlighted"
+msgstr "在“开”时，搜索字符串的匹配部分将被突出显示"
+
+msgid "Where is command: "
+msgstr "命令为: "
+
+msgid "Yank back a previous kill"
+msgstr "粘贴上次剪切"
+
+msgid "Yank back the contents of the last kill"
+msgstr "粘贴最后一次剪切的内容"
+
+msgid "You are already at the first page of this node."
+msgstr "您已经在该节点的第一页中了。"
+
+msgid "You are already at the last page of this node."
+msgstr "您已经在该节点的最后一个页面中了。"
+
+msgid "\\%-10[abort-key]  Cancel the current operation.\n"
+msgstr "\\%-10[abort-key]  取消当前操作。\n"
+
+msgid "\\%-10[beginning-of-node]  Go to the beginning of this node.\n"
+msgstr "\\%-10[beginning-of-node]  移动到本节点的开头。\n"
+
+msgid "\\%-10[end-of-node]  Go to the end of this node.\n"
+msgstr "\\%-10[end-of-node]  移动到本节点的末尾。\n"
+
+msgid "\\%-10[get-info-help-node]  Invoke the Info tutorial.\n"
+msgstr "\\%-10[get-info-help-node]  调用 Info 教程。\n"
+
+msgid "\\%-10[global-next-node]  Go to the next node in the document.\n"
+msgstr "\\%-10[global-next-node]  移动到本文档的下一个节点。\n"
+
+msgid "\\%-10[global-prev-node]  Go to the previous node in the document.\n"
+msgstr "\\%-10[global-prev-node]  移动到本文档的上一个节点。\n"
+
+msgid "\\%-10[goto-node]  Go to a node specified by name.\n"
+msgstr "\\%-10[goto-node]  移动到由名字指定的节点。\n"
+
+msgid "\\%-10[history-node]  Go back to the last node seen in this window.\n"
+msgstr "\\%-10[history-node]  移动到本窗口的最后阅读过的节点。\n"
+
+msgid ""
+"\\%-10[index-search]  Search for a specified string in the index, and\n"
+"              select the node referenced by the first entry found.\n"
+msgstr ""
+"\\%-10[index-search]  在索引条目中搜索指定的字符串，\n"
+"              并选择第一个找到的条目所引用的节点。\n"
+
+msgid "\\%-10[last-menu-item]  Pick the last item in this node's menu.\n"
+msgstr "\\%-10[last-menu-item]  选取节点菜单的最后一个项目。\n"
+
+msgid "\\%-10[menu-item]  Pick a menu item specified by name.\n"
+msgstr "\\%-10[menu-item]  选取由名称指定的菜单项目。\n"
+
+msgid "\\%-10[move-to-next-xref]  Skip to the next hypertext link.\n"
+msgstr "\\%-10[move-to-next-xref]  跳转到下一个超文本连接。\n"
+
+msgid "\\%-10[next-line]  Move down one line.\n"
+msgstr "\\%-10[next-line]  向下移动一行。\n"
+
+msgid "\\%-10[next-node]  Go to the next node on this level.\n"
+msgstr "\\%-10[next-node]  移动到同级的下一个节点。\n"
+
+msgid "\\%-10[prev-line]  Move up one line.\n"
+msgstr "\\%-10[prev-line]  向上移动一行。\n"
+
+msgid "\\%-10[prev-node]  Go to the previous node on this level.\n"
+msgstr "\\%-10[prev-node]  移动到同级的上一个节点。\n"
+
+msgid "\\%-10[quit-help]  Close this help window.\n"
+msgstr "\\%-10[quit-help]  关闭此帮助窗口。\n"
+
+msgid "\\%-10[quit]  Quit Info altogether.\n"
+msgstr "\\%-10[quit]  一并退出 Info。\n"
+
+msgid "\\%-10[scroll-backward]  Scroll backward one screenful.\n"
+msgstr "\\%-10[scroll-backward]  向后滚动一页。\n"
+
+msgid "\\%-10[scroll-forward]  Scroll forward one screenful.\n"
+msgstr "\\%-10[scroll-forward]  向前滚动一页。\n"
+
+msgid "\\%-10[search-next]  Search for next occurrence.\n"
+msgstr "\\%-10[search-next]  查找下一个出现点。\n"
+
+msgid "\\%-10[search-previous]  Search for previous occurrence.\n"
+msgstr "\\%-10[search-previous]  查找上一个出现点。\n"
+
+msgid "\\%-10[search]  Search forward for a specified string.\n"
+msgstr "\\%-10[search]  向前搜索指定的字符串。\n"
+
+msgid ""
+"\\%-10[select-reference-this-line]  Follow the hypertext link under the "
+"cursor.\n"
+msgstr "\\%-10[select-reference-this-line]  跟随光标下的超文本连接。\n"
+
+msgid "\\%-10[top-node]  Go to the top node of this document.\n"
+msgstr "\\%-10[top-node]  移到此文档的顶层节点。\n"
+
+msgid "\\%-10[up-node]  Go up one level.\n"
+msgstr "\\%-10[up-node]  上移一层。\n"
+
+msgid "\\%-10[xref-item]  Follow a cross reference specified by name.\n"
+msgstr "\\%-10[xref-item]  按照交叉参考指定名称。\n"
+
+msgid "`@end' expected `%s', but saw `%s'"
+msgstr "“@end”需要“%s”，但看到“%s”"
+
+msgid "action name too long"
+msgstr "动作名过长"
+
+msgid "excess command line argument `%s'"
+msgstr "多余的命令行参数“%s”"
+
+msgid "extra characters following action `%s'"
+msgstr "动作“%s”之后出现额外的字符"
+
+msgid "here is the previous definition of `%s'"
+msgstr "这里是“%s”前面的定义"
+
+msgid "ignoring @tab outside of multitable"
+msgstr "忽略多列表格外的 @tab"
+
+msgid "key sequence too long"
+msgstr "按键序列过长"
+
+msgid "macro `%s' previously defined"
+msgstr "宏“%s”已在前面定义"
+
+msgid "memory exhausted"
+msgstr "虚拟内存耗尽"
+
+msgid "missing `=' immediately after variable name"
+msgstr "变量名之后遗漏了“=”"
+
+msgid "missing action name"
+msgstr "遗漏动作名称"
+
+msgid "missing key sequence"
+msgstr "遗漏按键序列"
+
+msgid "missing variable name"
+msgstr "遗漏变量名"
+
+msgid "no entries found for `%s'; nothing deleted"
+msgstr "找不到关于“%s”的条目；未删除"
+
+msgid "no info dir entry in `%s'"
+msgstr "“%s”中没有 info 目录条目"
+
+msgid ""
+"perhaps your @top node should be wrapped in @ifnottex rather than @ifinfo?"
+msgstr "您的 @top 节点可能应该包含在 @ifnottex 而不是 @ifinfo 中？"
+
+msgid "readline: Out of virtual memory!\n"
+msgstr "readline：虚拟内存耗尽！\n"
+
+msgid "regexp error: %s"
+msgstr "正则表达式错误: %s"
+
+msgid "undefined flag: %s"
+msgstr "未定义的标识: %s"
+
+msgid "unknown action `%s'"
+msgstr "未知的动作“%s”"
+
+msgid "unrecognized encoding name `%s'"
+msgstr "不能识别的编码名称“%s”"
+
+msgid "unreferenced node `%s'"
+msgstr "未引用的节点“%s”"
+
+msgid "value too long"
+msgstr "值过长"
+
+msgid "variable name too long"
+msgstr "变量名过长"

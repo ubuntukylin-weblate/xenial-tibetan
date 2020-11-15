@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-share\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-28 09:57+0000\n"
+"PO-Revision-Date: 2015-12-28 21:06+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Simplified Chinese <i18n-zh@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:05+0000\n"
+
+msgid "  - execute permission by others\n"
+msgstr "  - 其他人的执行权限\n"
+
+msgid "  - read permission by others\n"
+msgstr "  - 其他人的读权限\n"
+
+msgid "  - write permission by others\n"
+msgstr "  - 其他人的写权限\n"
+
+msgid "%s %s %s failed for an unknown reason"
+msgstr "%s %s %s 未知原因导致的失败"
+
+msgid "%s %s %s returned with signal %d"
+msgstr "%s %s %s 因为信号 %d 退出"
+
+msgid "'net usershare' returned error %d"
+msgstr "“net usershare”返回错误 %d"
+
+msgid "'net usershare' returned error %d: %s"
+msgstr "“net usershare”返回错误 %d：%s"
+
+msgid "<big><b>Folder Sharing</b></big>"
+msgstr "<big><b>文件夹共享</b></big>"
+
+msgid "Add the permissions automatically"
+msgstr "自动添加权限"
+
+msgid "Another share has the same name"
+msgstr "共享名已被使用"
+
+msgid ""
+"Cannot change the path of an existing share; please remove the old share "
+"first and add a new one"
+msgstr "无法更改一个已存在的共享，请删除原来的共享并添加新的共享"
+
+msgid "Cannot remove the share for path %s: that path is not shared"
+msgstr "无法撤销目录%s的共享：这个目录没有被共享"
+
+msgid "Co_mment:"
+msgstr "注释(_M)："
+
+msgid "Could not change the permissions of folder \"%s\""
+msgstr "无法改变文件夹“%s”的权限"
+
+msgid "Create _Share"
+msgstr "创建共享(_S)"
+
+msgid "Error while getting share information: %s"
+msgstr "获取共享信息时错误：%s"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Folder Sharing"
+msgstr "文件夹共享"
+
+msgid "Install service"
+msgstr "安装服务"
+
+msgid "Local Network Share"
+msgstr "本地网络共享"
+
+msgid "Modify _Share"
+msgstr "修改共享(_S)"
+
+msgid ""
+"Nautilus needs to add some permissions to your folder \"%s\" in order to "
+"share it"
+msgstr "Nautilus 需要对您的文件夹“%s”的添加一些权限以便共享它"
+
+msgid "Restart session"
+msgstr "重启会话"
+
+msgid "Restart your session"
+msgstr "重启您的会话"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid "Samba's testparm failed for an unknown reason"
+msgstr "Samba 测试工具未知原因错误"
+
+msgid "Samba's testparm returned error %d"
+msgstr "Samba 测试工具返回错误 %d"
+
+msgid "Samba's testparm returned error %d: %s"
+msgstr "Samba 测试工具返回错误 %d： %s"
+
+msgid "Samba's testparm returned with signal %d"
+msgstr "Samba 测试工具返回信号 %d"
+
+msgid "Share _name:"
+msgstr "共享名(_N)："
+
+msgid "Share name is too long"
+msgstr "共享名太长"
+
+msgid "Share this Folder"
+msgstr "共享此目录"
+
+msgid "Share this _folder"
+msgstr "共享此目录(_F)"
+
+msgid "Sharing service installation failed"
+msgstr "共享服务安装失败"
+
+msgid ""
+"Sharing service installation has failed. Would you like to retry the "
+"installation?"
+msgstr "共享服务安装失败。 您想重新进行安装吗？"
+
+msgid "Sharing service is not installed"
+msgstr "共享服务没有安装"
+
+msgid ""
+"The folder \"%s\" needs the following extra permissions for sharing to work:\n"
+"%s%s%sDo you want Nautilus to add these permissions to the folder automatically?"
+msgstr ""
+"文件夹“%s”需要如下额外的权限才能进行共享：\n"
+"%s%s%s 您是否想让 Nautilus 自动为其添加这些权限以便完成共享？"
+
+msgid "The share name cannot be empty"
+msgstr "共享名不能为空"
+
+msgid "There was an error while getting the sharing information"
+msgstr "获取共享信息时出现错误"
+
+msgid ""
+"You need to install the Windows networks sharing service in order to share "
+"your folders."
+msgstr "您需要安装Windows网络共享服务来共享您的文件。"
+
+msgid "You need to restart your session in order to enable sharing."
+msgstr "您需要重启您的会话来启用共享。"
+
+msgid "_Allow others to create and delete files in this folder"
+msgstr "允许其他人来创建和删除这个文件夹里的文件(_A)"
+
+msgid "_Guest access (for people without a user account)"
+msgstr "允许匿名登录(对于没有帐号的用户)(_G)"
+
+msgid "the output of 'net usershare' is not in valid UTF-8 encoding"
+msgstr "‘net usershare’的输出不是有效的UTF-8编码"

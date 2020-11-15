@@ -1,0 +1,9194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-plug-ins HEAD\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gimp&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-12-21 19:15+0000\n"
+"PO-Revision-Date: 2015-12-22 07:14+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:25+0000\n"
+
+msgid " (Height Mismatch!) "
+msgstr " (高度不匹配！) "
+
+msgid " (Width Mismatch!) "
+msgstr " (宽度不匹配！) "
+
+msgid " Columns on each layer"
+msgstr " 列每图层"
+
+msgid " Rows of "
+msgstr " 行 "
+
+msgid ""
+"\"Fix seed\" button is an alias of me.\n"
+"The same seed produces the same image, if (1) the widths of images are same (this is the reason why image on drawable is different from preview), and (2) all mutation rates equal to zero."
+msgstr ""
+"“固定种子”按钮是我的别名。\n"
+"相同的种子产生相同的图像，只要 (1) 图像宽度相同(这就是可绘图像不同于预览图像的原因)， 并且 (2) 所有的变化率都等于零。"
+
+msgid "#"
+msgstr "#"
+
+msgid "# of Spikes:"
+msgstr "光芒数量："
+
+msgid "# of subranges:"
+msgstr "子范围的数量："
+
+msgid "%d fps"
+msgstr "%d fps"
+
+msgid "%d plug-in"
+msgid_plural "%d plug-ins"
+msgstr[0] "%d 个插件"
+
+msgid "%d plug-in matches your query"
+msgid_plural "%d plug-ins match your query"
+msgstr[0] "共有 %d 个插件和您的查询匹配"
+
+msgid "%d × %d"
+msgstr "%d x %d"
+
+msgid "%s-%d-of-%d-pages"
+msgstr "%s-第 %d 页-共 %d 页"
+
+msgid "%s-%s"
+msgstr "%s-%s"
+
+msgid "%s-pages"
+msgstr "%s 页"
+
+msgid "'%s' does not appear to be an ICC color profile"
+msgstr "“%s”似乎不是 ICC 色彩配置文件"
+
+msgid "'%s' is corrupt. Line %d Option section incorrect"
+msgstr "“%s”已损坏。第 %d 行选项部分错误"
+
+msgid "'%s' is not a DICOM file."
+msgstr "“%s”不是 DICOM 文件。"
+
+msgid "'%s' is not a FractalExplorer file"
+msgstr "“%s”不是一个分形探索器文件"
+
+msgid "'%s' is not a PCX file"
+msgstr "“%s”不是 PCX 文件"
+
+msgid "'%s' is not a regular file"
+msgstr "“%s”不是普通文件"
+
+msgid "'%s' is not a valid BMP file"
+msgstr "“%s”不是有效的 BMP 文件"
+
+msgid "'%s' is not a valid GFlare file."
+msgstr "“%s”不是有效的渐变闪光文件。"
+
+msgid "'%s' is not a valid X cursor."
+msgstr "“%s”不是有效的 X 光标。"
+
+msgid "'%s' is too high for an X cursor."
+msgstr "'%s' 对于一个 X 光标来说过高。"
+
+msgid "'%s' is too wide for an X cursor."
+msgstr "'%s' 对于一个 X 光标来说过宽。"
+
+msgid ""
+"'%s':\n"
+"Could not read header (ftell == %ld)"
+msgstr ""
+"“%s”：\n"
+"无法读取文件头(ftell == %ld)"
+
+msgid ""
+"'%s':\n"
+"Illegal number of colormap entries: %ld"
+msgstr ""
+"'%s':\n"
+"非法颜色表数条目： %ld"
+
+msgid ""
+"'%s':\n"
+"Image height is larger than GIMP can handle"
+msgstr ""
+"“%s”：\n"
+"图像高度大于 GIMP 所能处理的范围"
+
+msgid ""
+"'%s':\n"
+"Image width is larger than GIMP can handle"
+msgstr ""
+"“%s”：\n"
+"图像宽度大于 GIMP 所能处理的范围"
+
+msgid ""
+"'%s':\n"
+"No image data type specified"
+msgstr ""
+"“%s”:\n"
+"没有指定图像数据类型"
+
+msgid ""
+"'%s':\n"
+"No image height specified"
+msgstr ""
+"“%s”:\n"
+"没有指定图像高度"
+
+msgid ""
+"'%s':\n"
+"No image width specified"
+msgstr ""
+"“%s”:\n"
+"没有指定图像宽度"
+
+msgid ""
+"'%s':\n"
+"Number of colormap entries < number of colors"
+msgstr ""
+"'%s':\n"
+"颜色表数条目 < 色彩数"
+
+msgid "'%s': EOF or error while reading palette data"
+msgstr "'%s': 在读取调色板数据时出现 EOF 或者错误"
+
+msgid "'%s': EOF or error while reading palette header"
+msgstr "'%s': 在读取调色板数据头时出现 EOF 或者错误"
+
+msgid "'%s': illegal bpp value in palette: %hhu"
+msgstr "'%s': 调色板的非法 bpp 值 : %hhu"
+
+msgid "'%s': illegal number of colors: %u"
+msgstr "'%s': 非法色彩数 : %u"
+
+msgid "'%s': is not a KCF palette file"
+msgstr "'%s': 不是 KCF 调色板文件"
+
+msgid "(None)"
+msgstr "(无)"
+
+msgid "(timeout is %d second)"
+msgid_plural "(timeout is %d seconds)"
+msgstr[0] "(超时为 %d 秒)"
+
+msgid "1 bpp, 1-bit alpha, 2-slot palette"
+msgstr "1 bpp，1 位 alpha，2 个调色板项"
+
+msgid "16 bits"
+msgstr "16 位"
+
+msgid "24 bits"
+msgstr "24 位"
+
+msgid "24 bpp, 1-bit alpha, no palette"
+msgstr "24 bpp，1 位 alpha，无调色板"
+
+msgid "32 bits"
+msgstr "32 位"
+
+msgid "32 bpp, 8-bit alpha, no palette"
+msgstr "32 bpp，8 位 alpha，无调色板"
+
+msgid "4 bpp, 1-bit alpha, 16-slot palette"
+msgstr "4 bpp，1 位 alpha，16 个调色板项"
+
+msgid "4:2:0 (chroma quartered)"
+msgstr "4:2:0 ( 四等分色度 )"
+
+msgid "4:2:2 horizontal (chroma halved)"
+msgstr "4:2:2 水平 ( 二等分色度 )"
+
+msgid "4:2:2 vertical (chroma halved)"
+msgstr "4:2:2 垂直 ( 二等分色度 )"
+
+msgid "4:4:4 (best quality)"
+msgstr "4:4:4 ( 最佳品质 )"
+
+msgid "8 bpp, 1-bit alpha, 256-slot palette"
+msgstr "8 bpp，1 位 alpha，256 个调色板项"
+
+msgid "<Untitled>"
+msgstr "<未命名>"
+
+msgid "A bailout-value for adaptive selections"
+msgstr "为自适应选择的一个救援值"
+
+msgid "A network error occurred: %s"
+msgstr "发生了网络错误：%s"
+
+msgid "A read error occurred."
+msgstr "出现读取错误。"
+
+msgid "A sharing violation occurred."
+msgstr "发生共享冲突。"
+
+msgid ""
+"A unit definition will only be saved before GIMP exits if this column is "
+"checked."
+msgstr "只有此列被选中，GIMP 退出时才会保存这个单位。"
+
+msgid "ALT Text"
+msgstr "替代文字 (ALT)"
+
+msgid "ALT te_xt: (optional)"
+msgstr "ALT 文字(_X)：(可选)"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "ASCII art"
+msgstr "ASCII 艺术"
+
+msgid "A_daptive supersampling"
+msgstr "自适应超级采样(_D)"
+
+msgid "A_dd"
+msgstr "添加(_D)"
+
+msgid "A_dd border"
+msgstr "添加边框(_D)"
+
+msgid "A_dvanced"
+msgstr "高级(_D)"
+
+msgid "A_ll"
+msgstr "全部(_L)"
+
+msgid "A_ll tiles"
+msgstr "所有的小块(_L)"
+
+msgid "A_lpha-weighting"
+msgstr "Alpha 加权(_L)"
+
+msgid "A_lpha:"
+msgstr "A_lpha："
+
+msgid "A_mbient:"
+msgstr "环境(_M)："
+
+msgid "A_mount:"
+msgstr "数量(_M)："
+
+msgid "A_mplitude:"
+msgstr "幅度(_M)："
+
+msgid "A_ngle:"
+msgstr "角度(_N)："
+
+msgid "A_nimate"
+msgstr "动画(_N)"
+
+msgid "A_ppend"
+msgstr "追加(_P)"
+
+msgid "A_uto update preview"
+msgstr "自动更新预览(_U)"
+
+msgid "A_verage under brush"
+msgstr "画笔下方的平均值(_V)"
+
+msgid "Abbreviation"
+msgstr "缩写"
+
+msgid "According to the EXIF data, this image is rotated."
+msgstr "根据 EXIF 数据，此图像已旋转。"
+
+msgid "Action"
+msgstr "动作"
+
+msgid "Ad_vanced"
+msgstr "高级(_V)"
+
+msgid "Adaptive"
+msgstr "适应"
+
+msgid "Adaptive s_upersample"
+msgstr "自适应超级采样(_U)"
+
+msgid "Add Additional Guides"
+msgstr "添加额外的参考线"
+
+msgid "Add FractalExplorer Path"
+msgstr "添加分形探索器路径"
+
+msgid "Add a New Unit"
+msgstr "添加新单位"
+
+msgid "Add a canvas texture to the image"
+msgstr "给图像添加画布纹理"
+
+msgid "Add a jigsaw-puzzle pattern to the image"
+msgstr "给图像添加拼图玩具图案"
+
+msgid "Add a lens flare effect"
+msgstr "添加镜头光晕效果"
+
+msgid "Add a starburst to the image"
+msgstr "给图像添加星暴效果"
+
+msgid "Add new smvector"
+msgstr "添加新的尺寸向量"
+
+msgid "Add new vector"
+msgstr "添加新向量"
+
+msgid "Add this image"
+msgstr "添加这个图像"
+
+msgid "Adding blinds"
+msgstr "添加百叶窗"
+
+msgid "Adding checkerboard"
+msgstr "添加棋盘"
+
+msgid "Adding noise"
+msgstr "添加噪音"
+
+msgid "Addition"
+msgstr "叠加"
+
+msgid "Adds a shadow effect to each brush stroke"
+msgstr "给每一笔添加阴影效果"
+
+msgid "Adds random noise to the color"
+msgstr "给颜色添加随机的噪音"
+
+msgid "Adjust how much the hue should be changed randomly"
+msgstr "调整色调的随机度的大小"
+
+msgid "Adjust how much the saturation should be changed randomly"
+msgstr "调整饱和度的随机度的大小"
+
+msgid "Adjust page size and orientation for printing"
+msgstr "调整打印页面的大小和方向"
+
+msgid "Adjust the flare intensity"
+msgstr "调整闪光强度"
+
+msgid "Adjust the luminosity threshold"
+msgstr "调整发光度阈值"
+
+msgid "Adjust the number of spikes"
+msgstr "调整穗的数量"
+
+msgid "Adjust the opacity of the spikes"
+msgstr "调整穗的不透明度"
+
+msgid "Adjust the preview's brightness"
+msgstr "调整预览的亮度"
+
+msgid "Adjust the spike angle (-1 causes a random angle to be chosen)"
+msgstr "调整穗的角度(-1 表示随机选择角度)"
+
+msgid "Adjust the spike density"
+msgstr "调整穗的密度"
+
+msgid "Adjust the spike length"
+msgstr "调整穗的长度"
+
+msgid "Advanced"
+msgstr "高级选项"
+
+msgid "Advanced Filter Pack Options"
+msgstr "高级组合滤镜选项"
+
+msgid "Advanced Options"
+msgstr "高级选项"
+
+msgid "Affected Range"
+msgstr "影响范围"
+
+msgid ""
+"After the delay, drag your mouse to select the region for the screenshot."
+msgstr "在延迟之后，拖动您的鼠标以选择屏幕截图范围。"
+
+msgid "After the delay, the screenshot is taken."
+msgstr "在延迟之后，得到屏幕截图。"
+
+msgid ""
+"Aggressive RLE\n"
+"(not supported by SGI)"
+msgstr ""
+"Aggressive RLE\n"
+"(不被 SGI 支持)"
+
+msgid "Al_ternate"
+msgstr "交替(_T)"
+
+msgid "Al_ternate tiles"
+msgstr "交替的小块(_T)"
+
+msgid "Algorithm"
+msgstr "算法"
+
+msgid "Alias Pix image"
+msgstr "别名 Pix 图像"
+
+msgid "Alien Map"
+msgstr "奇异映射"
+
+msgid "Alien Map: Transforming"
+msgstr "奇异映射：变换"
+
+msgid "Align Visi_ble Layers..."
+msgstr "对齐可见图层(_B)..."
+
+msgid "Align Visible Layers"
+msgstr "对齐可见图层"
+
+msgid "Align all visible layers of the image"
+msgstr "对齐图像的所有可见图层"
+
+msgid "All JNG"
+msgstr "全部 JNG"
+
+msgid "All PNG"
+msgstr "全部 PNG"
+
+msgid "All Values are Fractions of the Strip Height"
+msgstr "所有的值都是胶卷高度的分数"
+
+msgid "All black"
+msgstr "全黑"
+
+msgid "All files (*.*)"
+msgstr "所有文件(*.*)"
+
+msgid "All gray"
+msgstr "全灰"
+
+msgid "All white"
+msgstr "全白"
+
+msgid "Allo_w tile splitting"
+msgstr "允许切割瓦片(_W)"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Alpha Channels"
+msgstr "Alpha 通道"
+
+msgid "Alpha channel will be ignored."
+msgstr "Alpha 通道将被忽略。"
+
+msgid "Alter colors by mixing RGB Channels"
+msgstr "混合 RGB 通道以变换颜色"
+
+msgid "Alter colors in various psychedelic ways"
+msgstr "以多种迷幻的方式变换颜色"
+
+msgid "Alters edges to make the image seamlessly tileable"
+msgstr "修改图像边缘以使图像能够无缝平铺"
+
+msgid "Ambient:"
+msgstr "环境："
+
+msgid "Amount of original color to show where no direct light falls"
+msgstr "当没有直接光线照射时原始颜色所显示的量"
+
+msgid "Amount:"
+msgstr "量："
+
+msgid ""
+"An error occured while creating the PDF file:\n"
+"%s\n"
+"Make sure you entered a valid filename and that the selected location isn't read only!"
+msgstr ""
+"创建 PDF 文件时出错 :\n"
+"%s务必确保您输入了一个有效的文件名且所选保存路径不是只读！"
+
+msgid "An error occurred while trying to print:"
+msgstr "试图打印时发生错误："
+
+msgid "Analyze the set of colors in the image"
+msgstr "分析图像中的颜色集合"
+
+msgid "Ang_le offset:"
+msgstr "角度偏移(_L)："
+
+msgid "Angle span:"
+msgstr "角度跨度："
+
+msgid "Angle:"
+msgstr "角度："
+
+msgid "Angular gradient:"
+msgstr "角度渐变："
+
+msgid "Angular size gradient:"
+msgstr "角度大小渐变："
+
+msgid "Animated GIF Options"
+msgstr "GIF 动画选项"
+
+msgid "Animated MNG Options"
+msgstr "动画 MNG 选项"
+
+msgid "Animation Playback:"
+msgstr "动画回放："
+
+msgid "Antialias using the Scale3X edge-extrapolation algorithm"
+msgstr "边缘平滑使用 Scale3X 边缘外推算法"
+
+msgid "Antialiasing"
+msgstr "边缘平滑"
+
+msgid "Antialiasing quality. Higher is better, but slower"
+msgstr "反锯齿的质量。越大质量越好，但是也越慢"
+
+msgid "Antialiasing..."
+msgstr "边缘平滑..."
+
+msgid "Applies the paper as it is (without embossing it)"
+msgstr "按原样应用画纸(而不是浮雕效果)"
+
+msgid "Apply Canvas"
+msgstr "应用画布"
+
+msgid "Apply PNG Offset"
+msgstr "应用 PNG 位移"
+
+msgid "Apply PNG offset to layer"
+msgstr "应用 PNG 位移分层"
+
+msgid "Apply _Lens..."
+msgstr "应用透镜(_L)..."
+
+msgid "Apply a color profile on the image"
+msgstr "在图像上应用色彩配置文件"
+
+msgid "Apply a gaussian blur"
+msgstr "应用高斯模糊"
+
+msgid "Apply a generic 5x5 convolution matrix"
+msgstr "应用普通的 5x5 卷积矩阵"
+
+msgid "Apply active gradient to final image"
+msgstr "将活动渐变应用到最终图像"
+
+msgid "Apply currently selected fractal"
+msgstr "应用当前选中的分形"
+
+msgid "Apply layer masks before saving"
+msgstr "保存前应用图层蒙版"
+
+msgid "Apply various lighting effects to an image"
+msgstr "将活动光照效果应用到图像"
+
+msgid "Applying canvas"
+msgstr "应用画布"
+
+msgid "Applying convolution"
+msgstr "应用卷积"
+
+msgid "Applying filter pack"
+msgstr "应用组合滤镜"
+
+msgid "Applying lens"
+msgstr "应用透镜"
+
+msgid "Are you sure you want to delete \"%s\" from the list and from disk?"
+msgstr "您确认要从列表和磁盘中删除“%s”吗？"
+
+msgid "Area"
+msgstr "区域"
+
+msgid "Area #%d Settings"
+msgstr "区域 #%d 设置"
+
+msgid "Area List"
+msgstr "区域列表"
+
+msgid "Area Settings"
+msgstr "区域设置"
+
+msgid "Area:"
+msgstr "区域："
+
+msgid "Arrow"
+msgstr "箭头"
+
+msgid "As _animation"
+msgstr "作为动画(_A)"
+
+msgid "As specified above"
+msgstr "如上设定"
+
+msgid "Aspect ratio:"
+msgstr "宽高比："
+
+msgid "Assembling jigsaw"
+msgstr "装配拼图"
+
+msgid "Assign"
+msgstr "指派"
+
+msgid "Assign ICC Color Profile"
+msgstr "指派 ICC 色彩配置文件"
+
+msgid "Assign default RGB Profile"
+msgstr "分配默认色彩配置文件(_A)..."
+
+msgid "Asymmetry:"
+msgstr "不对称度："
+
+msgid "At _bottom"
+msgstr "在底部(_B)"
+
+msgid "At _top"
+msgstr "在顶部(_T)"
+
+msgid "At least one image is needed to compose"
+msgstr "合成至少需要一幅图像"
+
+msgid "At the end of the delay, click in a window to snap it."
+msgstr "延迟结束时，在一个窗口中点击以捕捉它。"
+
+msgid "Aut_hor:"
+msgstr "作者(_H)："
+
+msgid "Auto-Stretching HSV"
+msgstr "自动拉伸 HSV"
+
+msgid "Auto-stretching contrast"
+msgstr "自动拉伸对比度"
+
+msgid "AutoDesk FLIC animation"
+msgstr "AutoDesk FLIC 动画"
+
+msgid "Autocrop Imag_e"
+msgstr "自动剪裁图像(_E)"
+
+msgid "Autocrop Lay_er"
+msgstr "自动剪裁图层(_E)"
+
+msgid "Autocrop unused space from edges and middle"
+msgstr "从边缘和中间自动剪裁未用空间"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Automatic pre_view"
+msgstr "自动更新预览(_V)"
+
+msgid "Available images:"
+msgstr "可用的图像："
+
+msgid "B, G, R, X (BMP style)"
+msgstr "B，G，R，X(BMP 风格)"
+
+msgid "B/W"
+msgstr "黑/白"
+
+msgid "B_lack pullout (%):"
+msgstr "黑色量(%)(_L)："
+
+msgid "B_lue threshold:"
+msgstr "蓝色阈值(_L)："
+
+msgid "Bac_kground color"
+msgstr "背景色(_K)"
+
+msgid "Back:"
+msgstr "后："
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background (%d%s)"
+msgstr "背景 (%d%s)"
+
+msgid "Background Color"
+msgstr "背景色"
+
+msgid "Background Type"
+msgstr "背景类型"
+
+msgid "Background:"
+msgstr "背景："
+
+msgid "Bad colormap"
+msgstr "错误的颜色表"
+
+msgid "Barnsley 1"
+msgstr "Barnsley 1"
+
+msgid "Barnsley 2"
+msgstr "Barnsley 2"
+
+msgid "Barnsley 3"
+msgstr "Barnsley 3"
+
+msgid "Base _URL:"
+msgstr "基址 URL(_U)："
+
+msgid "Basic Options"
+msgstr "基本选项"
+
+msgid "Bend the image using two control curves"
+msgstr "用两条控制曲线混合图像"
+
+msgid "Bent"
+msgstr "弯曲"
+
+msgid "Bevel Edges"
+msgstr "切痕边缘"
+
+msgid "Bili_near"
+msgstr "双线性(_N)"
+
+msgid "Bl_ack & white"
+msgstr "黑色和白色(_A)"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Blend Settings"
+msgstr "混和设置"
+
+msgid "Blinds"
+msgstr "百叶窗"
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "Blue freq_uency:"
+msgstr "蓝色频率(_U)："
+
+msgid "Blue pha_seshift:"
+msgstr "蓝色相移(_S)："
+
+msgid "Blue:"
+msgstr "蓝色："
+
+msgid "Blur"
+msgstr "模糊"
+
+msgid "Blur Center"
+msgstr "模糊中心"
+
+msgid "Blur Method"
+msgstr "模糊方法"
+
+msgid "Blur Parameters"
+msgstr "模糊参数"
+
+msgid "Blur Radius"
+msgstr "模糊半径"
+
+msgid "Blur Type"
+msgstr "模糊类型"
+
+msgid "Blur _outward"
+msgstr "向外模糊(_O)"
+
+msgid "Blur neighboring pixels, but only in low-contrast areas"
+msgstr "模糊相邻像素，但仅在低对比度区域"
+
+msgid "Blurring"
+msgstr "模糊"
+
+msgid "Border"
+msgstr "边界"
+
+msgid "Border Average"
+msgstr "边界均值"
+
+msgid "Border Size"
+msgstr "边界大小"
+
+msgid "Borderaverage"
+msgstr "边界均值"
+
+msgid "Bot_h"
+msgstr "皆有(_H)"
+
+msgid "Both"
+msgstr "皆有"
+
+msgid "Bottom border out of bounds (must be < %d): %d"
+msgstr "下边框超出边界(须 < %d)：%d"
+
+msgid "Bottom edge"
+msgstr "底边界"
+
+msgid "Bottom left"
+msgstr "左下"
+
+msgid "Bottom-_right"
+msgstr "右下(_R)"
+
+msgid "Bottom:"
+msgstr "下："
+
+msgid "Box"
+msgstr "方盒"
+
+msgid "Browse..."
+msgstr "浏览 ..."
+
+msgid "Brush"
+msgstr "画笔"
+
+msgid "Brush Pipe"
+msgstr "画笔管道"
+
+msgid "Bubble"
+msgstr "气泡"
+
+msgid "Bump"
+msgstr "凹凸"
+
+msgid "Bump Map"
+msgstr "凹凸贴图"
+
+msgid "Bump-mapping"
+msgstr "凹凸贴图"
+
+msgid "Bumpm_ap image:"
+msgstr "凹凸贴图图像(_A)："
+
+msgid "Bumpmap"
+msgstr "凹凸贴图"
+
+msgid "By DATAMIN/DATAMAX"
+msgstr "按 DATAMIN/DATAMAX"
+
+msgid "C source code"
+msgstr "C 程序代码"
+
+msgid "C source code header"
+msgstr "C 源代码头文件"
+
+msgid "C-Source"
+msgstr "C-源码"
+
+msgid "CCITT Group _3 fax"
+msgstr "CCITT Group _3 传真"
+
+msgid "CCITT Group _4 fax"
+msgstr "CCITT Group _4 传真"
+
+msgid "CML Explorer: evoluting"
+msgstr "CML 探索器：演化"
+
+msgid "CML _Explorer..."
+msgstr "CML 探索器(_E)..."
+
+msgid "CMY"
+msgstr "CMY"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "CX:"
+msgstr "CX："
+
+msgid "CY:"
+msgstr "CY："
+
+msgid "C_MYK"
+msgstr "C_MYK"
+
+msgid "C_amera"
+msgstr "视角(_A)"
+
+msgid "C_aption"
+msgstr "标题(_A)"
+
+msgid "C_ell content:"
+msgstr "表格单元内容(_E)："
+
+msgid "C_ell size:"
+msgstr "单元大小(_E)："
+
+msgid "C_enter of brush"
+msgstr "画笔的中心(_E)"
+
+msgid "C_enter:"
+msgstr "中心(_E)："
+
+msgid "C_entering"
+msgstr "中心(_E)"
+
+msgid "C_hoose here:"
+msgstr "在这里选择(_H)："
+
+msgid "C_ircle"
+msgstr "圆(_I)"
+
+msgid "C_ompose..."
+msgstr "合成(_O)..."
+
+msgid "C_opy location"
+msgstr "复制位置(_O)"
+
+msgid "C_reate new image"
+msgstr "创建新图像(_R)"
+
+msgid "C_rosses"
+msgstr "交叉(_R)"
+
+msgid "C_urved"
+msgstr "曲线(_U)"
+
+msgid "C_yan"
+msgstr "青色(_Y)"
+
+msgid "C_ylinder"
+msgstr "圆柱体(_Y)"
+
+msgid "Ca_rtoon..."
+msgstr "卡通(_R)..."
+
+msgid "Calculating file size..."
+msgstr "正在计算文件大小..."
+
+msgid "Calculation Settings"
+msgstr "计算设置"
+
+msgid "Camera 1"
+msgstr "相机 1"
+
+msgid "Camera 2"
+msgstr "相机 2"
+
+msgid "Can only operate on RGB drawables."
+msgstr "只能对 RGB 图像进行操作。"
+
+msgid "Can only save drawables!"
+msgstr "只能保存可绘对象！"
+
+msgid "Can operate on layers only (but was called on channel or mask)."
+msgstr "只能对图层进行操作(但在通道或蒙板中被调用)。"
+
+msgid "Can't create a new image"
+msgstr "无法创建新图像"
+
+msgid "Can't operate on unknown image types"
+msgstr "无法对未知的图像类型操作"
+
+msgid "Can't read color entries"
+msgstr "无法读取颜色项"
+
+msgid "Cannot create file"
+msgstr "无法创建文件"
+
+msgid "Cannot delete!! There must be at least one GFlare."
+msgstr "无法删除！至少要有一个渐变闪光。"
+
+msgid "Cannot operate on empty selections."
+msgstr "无法对空选区进行操作。"
+
+msgid "Cannot operate on indexed color images."
+msgstr "无法对索引颜色图像进行操作。"
+
+msgid "Cannot operate on layers with masks."
+msgstr "无法对带蒙板的图层进行操作。"
+
+msgid "Cannot operate on unknown image types."
+msgstr "无法对未知的图像类型操作。"
+
+msgid "Cannot read extension from '%s'"
+msgstr "无法从“%s”读取扩展"
+
+msgid "Cannot read footer from '%s'"
+msgstr "无法从“%s”读取脚注"
+
+msgid "Cannot read header from '%s'"
+msgstr "无法从“%s”读取文件头"
+
+msgid ""
+"Cannot save RGB color images. Convert to indexed color or grayscale first."
+msgstr "无法保存 RGB 颜色图像。请先转换成索引颜色或灰度。"
+
+msgid "Cannot save images with alpha channel."
+msgstr "无法保存带有 Alpha 通道的图像。"
+
+msgid "Cannot save images with alpha channels."
+msgstr "无法保存带有 Alpha 通道的图像。"
+
+msgid "Cannot save indexed image with transparency in BMP file format."
+msgstr "无法以 BMP 文件格式保存带有透明的索引图像。"
+
+msgid ""
+"Cannot save the cursor because the hot spot is not on frame '%s'.\n"
+"Try to change the hot spot position, layer geometry or save without auto-crop."
+msgstr ""
+"热点不在帧 '%s' 上导致无法保存。\n"
+"尝试改变热点位置、层几何或者保存时不自动裁剪。"
+
+msgid ""
+"Cannot set the hot spot!\n"
+"You must arrange layers so that all of them have an intersection."
+msgstr ""
+"无法设置热点！\n"
+"您需要调整图层位置以使它们全部都有一个交集。"
+
+msgid "Capture a window or desktop image"
+msgstr "捕获窗口或桌面图像"
+
+msgid "Capture an image from a TWAIN datasource"
+msgstr "从 TWAIN 数据源捕获图像"
+
+msgid "Cartoon"
+msgstr "卡通"
+
+msgid "Cell size:"
+msgstr "单元大小："
+
+msgid "Cell-_padding:"
+msgstr "单元衬垫(_P)："
+
+msgid "Cell-_spacing:"
+msgstr "单元间距(_S)："
+
+msgid "Center"
+msgstr "中心"
+
+msgid "Center _x:"
+msgstr "中心 X(_X)："
+
+msgid "Center _y:"
+msgstr "中心 Y(_Y)："
+
+msgid "Center of Flare Effect"
+msgstr "光晕效果的中心位置"
+
+msgid "Center of Nova"
+msgstr "新星的中心"
+
+msgid "Centered"
+msgstr "居中"
+
+msgid "Ch. sensitivity:"
+msgstr "通道灵敏度："
+
+msgid "Change Order of Arrows"
+msgstr "改变箭头的顺序"
+
+msgid "Change the angle of the selected smvector"
+msgstr "改变选中的尺寸向量的角度"
+
+msgid "Change the angle of the selected vector"
+msgstr "改变选中向量的角度"
+
+msgid "Change the exponent of the strength"
+msgstr "改变强度的指数"
+
+msgid "Change the intensity of the blue channel"
+msgstr "改变蓝色通道的亮度"
+
+msgid "Change the intensity of the green channel"
+msgstr "改变绿色通道的亮度"
+
+msgid "Change the intensity of the red channel"
+msgstr "改变红色通道的亮度"
+
+msgid "Change the number of colors in the mapping"
+msgstr "改变映射中的颜色数量"
+
+msgid "Change the strength of the selected smvector"
+msgstr "改变选中的尺寸向量的强度"
+
+msgid "Change the strength of the selected vector"
+msgstr "改变选中向量的强度"
+
+msgid "Change to this"
+msgstr "改为此色"
+
+msgid "Changes aspect of fractal"
+msgstr "改变分形的宽高比"
+
+msgid "Changes the gamma (brightness) of the selected brush"
+msgstr "改变所选画笔的 Gamma (明亮度)"
+
+msgid "Channel #%d:"
+msgstr "通道 #%d："
+
+msgid "Channel Independent Parameters"
+msgstr "通道无关参数"
+
+msgid "Channel Mi_xer..."
+msgstr "通道混合器(_X)..."
+
+msgid "Channel Mixer"
+msgstr "通道混合器"
+
+msgid "Channel Representations"
+msgstr "通道代表"
+
+msgid "Channels"
+msgstr "通道"
+
+msgid "Check if you would like to have the table captioned."
+msgstr "如果您希望让表格带有标题，请选中该项。"
+
+msgid "Checker"
+msgstr "棋盘"
+
+msgid "Checkerboard"
+msgstr "棋盘"
+
+msgid ""
+"Checking this tag will cause GTM to leave no whitespace between the TD tags "
+"and the cellcontent.  This is only necessary for pixel level positioning "
+"control."
+msgstr "如果选中该项，GTM 将不在 TD 标签之间和之内留有空白。这只在像素级的定位控制中才有必要。"
+
+msgid "Choose a high compression level for small file size"
+msgstr "提高压缩等级可以减小文件大小"
+
+msgid ""
+"Choose the nominal size of frames.\n"
+"If you don't have plans to make multi-sized cursor, or you have no idea, leave it \"32px\".\n"
+"Nominal size has no relation with the actual size (width or height).\n"
+"It is only used to determine which frame depends on which animation sequence, and which sequence is used based on the value of \"gtk-cursor-theme-size\"."
+msgstr ""
+"选择帧的标称尺寸。\n"
+"如果您不打算制作多尺寸光标，或者您不清楚，则留选“32px”。\n"
+"标称尺寸和实质尺寸不相关(宽度和高度)。\n"
+"它仅用于判断哪一帧依赖于哪个动画序列，以及按照“gtk-cursor-theme-size”的值使用哪个动画序列。"
+
+msgid "Circle"
+msgstr "圆"
+
+msgid "Circle _depth in percent:"
+msgstr "圆形深度(百分率)(_D)："
+
+msgid "Cleanup"
+msgstr "清理"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clear transparent"
+msgstr "清除透明"
+
+msgid ""
+"Click and drag in the preview to define the distortions to apply to the "
+"image."
+msgstr "在预览中点击并拖动以定义要应用到图像的扭区。"
+
+msgid "Close curve on completion"
+msgstr "结束时关闭曲线"
+
+msgid "Closed"
+msgstr "闭合"
+
+msgid "Co_lor"
+msgstr "颜色(_L)"
+
+msgid "Co_lor averaging"
+msgstr "颜色取平均(_L)"
+
+msgid "Co_lor:"
+msgstr "颜色(_L)："
+
+msgid "Co_lors"
+msgstr "颜色(_L)"
+
+msgid "Co_mment:"
+msgstr "注释(_M)："
+
+msgid "Co_mpatibility Options"
+msgstr "兼容性选项(_M)"
+
+msgid "Co_mpensate for darkening"
+msgstr "亮度补偿(_M)"
+
+msgid "Co_mplexity:"
+msgstr "复杂度(_M)："
+
+msgid "Co_mpress TD tags"
+msgstr "压缩 TD 标签(_M)"
+
+msgid "Co_mpression level:"
+msgstr "压缩等级(_M)："
+
+msgid "Co_ntiguous Region"
+msgstr "连续的区域(_N)"
+
+msgid "Co_ntrast:"
+msgstr "对比度(_N)："
+
+msgid "Co_rrelated noise"
+msgstr "相关噪音(_R)"
+
+msgid "Col_umn:"
+msgstr "列(_U)："
+
+msgid "Collect"
+msgstr "集中"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Color Density"
+msgstr "颜色密度"
+
+msgid "Color Enhance"
+msgstr "颜色增强"
+
+msgid "Color Exchange"
+msgstr "颜色交换"
+
+msgid "Color Exchange: From Color"
+msgstr "颜色变换：从颜色"
+
+msgid "Color Exchange: To Color"
+msgstr "颜色变换：到颜色"
+
+msgid "Color Function"
+msgstr "颜色函数"
+
+msgid "Color Mode"
+msgstr "色彩模式"
+
+msgid "Color Profile Information"
+msgstr "色彩配置文件信息"
+
+msgid "Color Selection Dialog"
+msgstr "颜色选择对话框"
+
+msgid "Color Transformation"
+msgstr "颜色变换"
+
+msgid "Color _model:"
+msgstr "色彩模式(_M)："
+
+msgid "Color _noise:"
+msgstr "颜色噪音(_N)："
+
+msgid "Color _variation:"
+msgstr "颜色变化(_V)："
+
+msgid "Color fill"
+msgstr "颜色填充"
+
+msgid "Color is computed from the average of all pixels under the brush"
+msgstr "颜色以画笔下方的所有像素的平均值来计算"
+
+msgid "Color profile '%s' is not for RGB color space."
+msgstr "色彩配置文件“%s”不适用于 RGB 颜色空间。"
+
+msgid "Color to Alpha"
+msgstr "颜色到 Alpha"
+
+msgid "Color to Alpha Color Picker"
+msgstr "颜色到 Alpha 颜色拾取"
+
+msgid "Color to _Alpha..."
+msgstr "颜色到 Alpha(_A)..."
+
+msgid "Color:"
+msgstr "颜色："
+
+msgid "Color_map:"
+msgstr "颜色表(_M)："
+
+msgid "Colorcube A_nalysis..."
+msgstr "色系分析(_N)..."
+
+msgid "Colorcube Analysis"
+msgstr "色系分析"
+
+msgid "Colorif_y..."
+msgstr "单色化(_Y)..."
+
+msgid "Colorify"
+msgstr "单色化"
+
+msgid "Colorify Custom Color"
+msgstr "单色化自定义颜色"
+
+msgid "Colorifying"
+msgstr "单色化"
+
+msgid "Coloring"
+msgstr "着色"
+
+msgid "Coloring transparency"
+msgstr "渲染透明度"
+
+msgid "Colorize image using a sample image as a guide"
+msgstr "以样本图像为参考着色图像"
+
+msgid "Colors"
+msgstr "颜色"
+
+msgid "Colors:"
+msgstr "颜色："
+
+msgid "Combine"
+msgstr "组合"
+
+msgid "Combine several images on a film strip"
+msgstr "组合多幅图像到一个电影胶卷上"
+
+msgid "Combine two images using depth maps (z-buffers)"
+msgstr "使用纵深贴图(Z 缓冲)组合两幅图像"
+
+msgid "Comment"
+msgstr "注释"
+
+msgid "Comment is limited to %d characters."
+msgstr "注释限制在 %d 个字符之内。"
+
+msgid "Comment:"
+msgstr "注释："
+
+msgid "Completely randomize a fraction of pixels"
+msgstr "彻底随机化一小部分像素"
+
+msgid "Compose"
+msgstr "合成"
+
+msgid "Compose Channels"
+msgstr "合成通道"
+
+msgid "Composing"
+msgstr "合成"
+
+msgid "Composing images"
+msgstr "组合图像"
+
+msgid "Composition:"
+msgstr "合成："
+
+msgid "Compressed (PNG)"
+msgstr "压缩(PNG)"
+
+msgid "Compression"
+msgstr "压缩方式"
+
+msgid "Compression type"
+msgstr "压缩类型"
+
+msgid "Connecting to server"
+msgstr "连接到服务器"
+
+msgid "Constrain aspect ratio"
+msgstr "保持宽高比"
+
+msgid "Constructing maze using Prim's Algorithm"
+msgstr "使用 Prim 的算法构造迷宫"
+
+msgid "Constructing tileable maze using Prim's Algorithm"
+msgstr "使用 Prim 的算法构造可平铺的迷宫"
+
+msgid "Context"
+msgstr "环境"
+
+msgid "Continuous grad. w/o gap"
+msgstr "无区间的连续梯度"
+
+msgid "Continuous gradient"
+msgstr "连续梯度"
+
+msgid "Continuous update"
+msgstr "持续更新"
+
+msgid "Contours"
+msgstr "等高线"
+
+msgid "Controls"
+msgstr "控制"
+
+msgid "Controls how intense the highlights will be"
+msgstr "控制高光的亮度"
+
+msgid "Convert a specified color to transparency"
+msgstr "将指定的颜色转换为透明"
+
+msgid "Convert bitmaps to vector graphics where possible"
+msgstr "在可能的情况下将位图转换为矢量图"
+
+msgid "Convert image to or from polar coordinates"
+msgstr "图像转换为或转换自极坐标"
+
+msgid "Convert the image into irregular tiles"
+msgstr "将图像转换为不规则小块"
+
+msgid "Convert the image into randomly rotated square blobs"
+msgstr "将图像转换到随机旋转的小方块"
+
+msgid "Convert the image to the RGB working space (%s)?"
+msgstr "将图像转换到 RGB 工作空间吗(%s)？"
+
+msgid "Convert to"
+msgstr "转换为"
+
+msgid "Convert to ICC Color Profile"
+msgstr "转换为 ICC 色彩配置文件"
+
+msgid "Convert to RGB working space?"
+msgstr "转换到 RGB 工作空间吗？"
+
+msgid "Convert to default RGB Profile"
+msgstr "转换为默认色彩配置文件"
+
+msgid "Converting from '%s' to '%s'"
+msgstr "将“%s”转换为“%s”"
+
+msgid "Convolution Matrix"
+msgstr "卷积矩阵"
+
+msgid "Convolution does not work on layers smaller than 3x3 pixels."
+msgstr "卷积矩阵无法在小于 3x3 个像素的图层上进行。"
+
+msgid "Convolve"
+msgstr "卷积"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy Gradient Flare"
+msgstr "复制渐变闪光"
+
+msgid "Copy Parameters"
+msgstr "复制参数"
+
+msgid "Copy Settings"
+msgstr "复制设置"
+
+msgid "Copy an object"
+msgstr "复制一个对象"
+
+msgid "Copy the active curve to the other border"
+msgstr "将活动曲线复制至对边"
+
+msgid "Copy the location of this page to the clipboard"
+msgstr "将此页面的位置复制到剪贴板"
+
+msgid "Copy the texture of the selected paper as a background"
+msgstr "复制选中的画纸材质作为背景"
+
+msgid "Copyright"
+msgstr "版权"
+
+msgid "Copyright © 1999-2005 by Maurits Rijk"
+msgstr "版权所有(c) 1999-2005 Maurits Rijk"
+
+msgid "Corrects lens distortion"
+msgstr "校正镜头形变"
+
+msgid "Cosine"
+msgstr "余弦"
+
+msgid "Could not close the file"
+msgstr "无法关闭文件"
+
+msgid "Could not create new image for '%s': %s"
+msgstr "无法为 '%s' 创建新图像 : %s"
+
+msgid "Could not create working folder '%s': %s"
+msgstr "无法创建工作目录“%s”：%s"
+
+msgid "Could not get layers for image %d"
+msgstr "无法从图像 %d 获取图层"
+
+msgid "Could not initialize libcurl"
+msgstr "无法初始化 libcurl"
+
+msgid "Could not interpret Postscript file '%s'"
+msgstr "无法解析 Postscript 文件“%s”"
+
+msgid "Could not load '%s': %s"
+msgstr "无法载入“%s”：%s"
+
+msgid "Could not load ICC profile from '%s'"
+msgstr "无法从“%s”读取色彩配置文件"
+
+msgid "Could not open '%s' as SUN-raster-file"
+msgstr "无法以 SUN-raster-file 打开“%s”"
+
+msgid "Could not open '%s' for reading"
+msgstr "无法打开“%s”并读取"
+
+msgid "Could not open '%s' for reading."
+msgstr "无法打开“%s”并读取。"
+
+msgid "Could not open '%s' for reading: %s"
+msgstr "无法打开“%s”并读取：%s"
+
+msgid "Could not open '%s' for writing."
+msgstr "无法打开“%s”并写入。"
+
+msgid "Could not open '%s' for writing: %s"
+msgstr "无法打开“%s”并写入：%s"
+
+msgid "Could not read XWD header from '%s'"
+msgstr "无法从“%s”读取 XWD 文件头"
+
+msgid "Could not read color entries from '%s'"
+msgstr "无法从“%s”读取颜色项"
+
+msgid "Could not read header from '%s'"
+msgstr "无法从“%s”读取文件头"
+
+msgid "Could not start sendmail (%s)"
+msgstr "无法启动 sendmail (%s)"
+
+msgid "Could not write '%s': %s"
+msgstr "无法写入“%s”：%s"
+
+msgid "Couldn't decode '%s'."
+msgstr "无法解码“%s”。"
+
+msgid "Couldn't load one brush in the pipe, giving up."
+msgstr "无法加载管道中的一个画笔，放弃。"
+
+msgid "Couldn't losslessly save transparency, saving opacity instead."
+msgstr "无法无损地保存透明度，以不透明保存。"
+
+msgid "Couldn't read file:"
+msgstr "无法读取文件："
+
+msgid "Couldn't save file:"
+msgstr "无法保存文件："
+
+msgid "Couldn't save resource file:"
+msgstr "无法保存资源文件："
+
+msgid "Couldn't simply reduce colors further. Saving as opaque."
+msgstr "无法进一步减少颜色。另存为不透明。"
+
+msgid "Coupled-Map-Lattice Explorer"
+msgstr "耦合映像格子(Coupled-Map-Lattice)探索器"
+
+msgid "Cre_ate new image"
+msgstr "创建新图像(_A)"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Create Guides"
+msgstr "创建参考线"
+
+msgid "Create Guides..."
+msgstr "创建参考线..."
+
+msgid "Create _histogram"
+msgstr "创建直方图(_H)"
+
+msgid "Create _new layer"
+msgstr "创建新的图层(_N)"
+
+msgid "Create a checkerboard pattern"
+msgstr "创建棋盘格子图案"
+
+msgid "Create a clickable imagemap"
+msgstr "创建可点击的图像映像"
+
+msgid "Create a color-map using a gradient from the gradient editor"
+msgstr "使用渐变编辑器中的渐变创建颜色表"
+
+msgid ""
+"Create a color-map with the options you specified above (color "
+"density/function). The result is visible in the preview image"
+msgstr "按上面指定的选项(颜色密度/函数)创建颜色表。结果可以在预览图像中看到"
+
+msgid "Create a new image when applying filter"
+msgstr "应用滤镜时创建新的图像"
+
+msgid "Create a new layer when applying filter"
+msgstr "应用滤镜时创建新图层"
+
+msgid "Create a new unit from scratch"
+msgstr "重新创建一个新的单位。"
+
+msgid "Create a new unit using the currently selected unit as template"
+msgstr "以当前选中的单位为模板创建一个新的单位"
+
+msgid "Create a random cloud-like texture"
+msgstr "创建随机云层一样的纹理"
+
+msgid "Create a random plasma texture"
+msgstr "创建随机的五彩缤纷材质"
+
+msgid "Create abstract Coupled-Map Lattice patterns"
+msgstr "创建抽像耦合映像格子(Coupled-Map-Lattice)图案"
+
+msgid "Create an Iterated Function System (IFS) fractal"
+msgstr "创建一个迭代函数系统(IFS)分形"
+
+msgid "Create an array of copies of the image"
+msgstr "创建图像的大量副本"
+
+msgid "Create an embossing effect using a bump map"
+msgstr "使用凸凹贴图创建浮雕效果"
+
+msgid "Create an image from an area of the screen"
+msgstr "从一个屏幕区域创建图像"
+
+msgid "Create an image of a textured sphere"
+msgstr "创建一幅带纹理的球体图像"
+
+msgid "Create an image of a webpage"
+msgstr "网页截图"
+
+msgid "Create an image using multiple gray images as color channels"
+msgstr "使用多重灰度图像作为颜色通道创建图像"
+
+msgid "Create arc"
+msgstr "创建弧"
+
+msgid "Create bezier curve"
+msgstr "创建贝塞尔曲线"
+
+msgid "Create bezier curve. Shift + Button ends object creation."
+msgstr "创建贝塞尔曲线。Shift + 按钮结束对象创建。"
+
+msgid "Create circle"
+msgstr "创建圆"
+
+msgid "Create cosmic recursive fractal flames"
+msgstr "创建有秩序的递归分形火焰"
+
+msgid "Create ellipse"
+msgstr "创建椭圆"
+
+msgid "Create from webpage"
+msgstr "从网页创建"
+
+msgid "Create geometric shapes"
+msgstr "创建几何图形"
+
+msgid "Create line"
+msgstr "创建线段"
+
+msgid "Create new image"
+msgstr "创建新图像"
+
+msgid "Create new layer"
+msgstr "创建新图层"
+
+msgid "Create or alter units used in GIMP"
+msgstr "创建或改动在 GIMP 中用到的单位"
+
+msgid "Create rectangle"
+msgstr "创建矩形"
+
+msgid "Create reg polygon"
+msgstr "创建正多边形"
+
+msgid "Create spiral"
+msgstr "创建螺旋线"
+
+msgid "Create star"
+msgstr "创建星形"
+
+msgid "Creating diffraction pattern"
+msgstr "创建衍射图案"
+
+msgid "Cro_p"
+msgstr "剪裁(_P)"
+
+msgid "Cropping"
+msgstr "剪裁"
+
+msgid "Cu_rve:"
+msgstr "曲线(_R)："
+
+msgid "Cubism"
+msgstr "立体派"
+
+msgid "Cubistic transformation"
+msgstr "立体派艺术变换"
+
+msgid "Cumulative layers (combine)"
+msgstr "累积各图层(组合)"
+
+msgid "Curl Layer"
+msgstr "卷曲图层"
+
+msgid "Curl Location"
+msgstr "卷曲位置"
+
+msgid "Curl Orientation"
+msgstr "卷曲方向"
+
+msgid "Curl up one of the image corners"
+msgstr "卷起图像的其中一角"
+
+msgid "Current Color Profile"
+msgstr "活动色彩配置文件"
+
+msgid "Current gradient"
+msgstr "当前渐变"
+
+msgid "Current gradient (reversed)"
+msgstr "当前渐变(反向)"
+
+msgid "Current:"
+msgstr "当前："
+
+msgid "Curve Bend"
+msgstr "曲线弯曲"
+
+msgid "Curve Type"
+msgstr "曲线类型"
+
+msgid "Curve for Border"
+msgstr "曲线对应的边缘"
+
+msgid "Custom color:"
+msgstr "自定义颜色："
+
+msgid "Custom gradient"
+msgstr "自定义渐变"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Cut image into paper tiles, and slide them"
+msgstr "将图像切割为平铺的纸片，并滑动它们"
+
+msgid "Cyan"
+msgstr "青色"
+
+msgid "Cyan:"
+msgstr "青色："
+
+msgid "Cyan_K"
+msgstr "青色_K"
+
+msgid "Cylinder"
+msgstr "圆柱体"
+
+msgid "Cylinder length"
+msgstr "圆柱体长度"
+
+msgid "Cylinder radius"
+msgstr "圆柱体半径"
+
+msgid "DDE transaction busy"
+msgstr "DDE 事务忙"
+
+msgid "DICOM image"
+msgstr "DICOM 图像"
+
+msgid "D_eform amount:"
+msgstr "变形量度(_E)："
+
+msgid "D_eselect All"
+msgstr "取消全部选择(_E)"
+
+msgid "D_ivisor:"
+msgstr "除数(_I)："
+
+msgid "Darker"
+msgstr "稍深"
+
+msgid "Darker:"
+msgstr "更暗："
+
+msgid "Data Compression"
+msgstr "数据压缩"
+
+msgid "Data Formatting"
+msgstr "数据格式"
+
+msgid ""
+"Data attached as 'icc-profile' does not appear to be an ICC color profile"
+msgstr "作为“icc-profile”关联的数据似乎不是 ICC 色彩配置文件"
+
+msgid "Data formatting"
+msgstr "数据格式"
+
+msgid "Decompose"
+msgstr "分解"
+
+msgid "Decompose an image into separate colorspace components"
+msgstr "将一幅图像分解到各自独立的颜色空间分量"
+
+msgid "Decomposing"
+msgstr "分解"
+
+msgid "Decrease the speed of the animation"
+msgstr "降低动画的速度"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default Map Type"
+msgstr "默认映像类型"
+
+msgid "Default RGB working space"
+msgstr "默认 RGB 工作空间"
+
+msgid "Default _URL:"
+msgstr "默认 _URL："
+
+msgid "Default chunks type:"
+msgstr "默认块类型："
+
+msgid "Default frame delay:"
+msgstr "默认帧延时："
+
+msgid "Default frame disposal:"
+msgstr "默认帧处理："
+
+msgid "Default framerate"
+msgstr "默认帧率"
+
+msgid "Define Circle/Oval area"
+msgstr "定义圆/椭圆区域"
+
+msgid "Define Polygon area"
+msgstr "定义多边形区域"
+
+msgid "Define Rectangle area"
+msgstr "定义矩形区域"
+
+msgid "Deform Mode"
+msgstr "变形模式"
+
+msgid "Degree of slope of each piece's edge"
+msgstr "每个小块边缘的倾斜角度"
+
+msgid "Degrees"
+msgstr "角度"
+
+msgid "Deinterlace"
+msgstr "去除交错"
+
+msgid "Delay"
+msgstr "延迟"
+
+msgid "Delay inserted to prevent evil CPU-sucking animation."
+msgstr "插入了延时以防止生成严重阻塞 CPU 的动画。"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete Area"
+msgstr "删除区域"
+
+msgid "Delete Fractal"
+msgstr "删除分形"
+
+msgid "Delete Gradient Flare"
+msgstr "删除渐变闪光"
+
+msgid "Delete Point"
+msgstr "删除点"
+
+msgid "Delete an object"
+msgstr "删除一个对象"
+
+msgid "Delete currently selected fractal"
+msgstr "删除当前选中的分形"
+
+msgid "Delete selected smvector"
+msgstr "删除选中的尺寸向量"
+
+msgid "Delete selected vector"
+msgstr "删除选中的向量"
+
+msgid "Deletes the selected Preset"
+msgstr "删除选中的预设"
+
+msgid "Delta function"
+msgstr "Delta 函数"
+
+msgid "Delta function stepped"
+msgstr "Delta 跃阶函数"
+
+msgid "Depth Merge"
+msgstr "深度合并"
+
+msgid "Depth first"
+msgstr "深度优先"
+
+msgid "Depth map:"
+msgstr "深度图："
+
+msgid "Depth-merging"
+msgstr "深度合并"
+
+msgid "Derive a smooth color palette from the image"
+msgstr "从图像中导出平滑颜色的色板"
+
+msgid "Deriving smooth palette"
+msgstr "生成平滑色板"
+
+msgid "Des_peckle..."
+msgstr "去除斑点(_P)..."
+
+msgid "Des_tripe..."
+msgstr "去除条纹(_T)..."
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Description _writer:"
+msgstr "描述 作者 (_W) ："
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Desktop Link"
+msgstr "桌面链接"
+
+msgid "Despeckle"
+msgstr "去除斑点"
+
+msgid "Destination channel:"
+msgstr "目标通道："
+
+msgid "Destination profile is not for RGB color space."
+msgstr "目标配置文件并非用于 RGB 颜色空间。"
+
+msgid "Destination:"
+msgstr "目标："
+
+msgid "Destripe"
+msgstr "去除条纹"
+
+msgid "Destriping"
+msgstr "去除条纹"
+
+msgid "Detach"
+msgstr "分离"
+
+msgid "Detach the animation from the dialog window"
+msgstr "从对话窗口中分离动画"
+
+msgid "Deviation threshold:"
+msgstr "偏差阈值："
+
+msgid "Diamond"
+msgstr "菱形"
+
+msgid "Differential"
+msgstr "微分"
+
+msgid "Diffraction Patterns"
+msgstr "衍射图案"
+
+msgid "Diffuse:"
+msgstr "漫反射："
+
+msgid "Diffusion dist.:"
+msgstr "漫反射分布："
+
+msgid "Digital Imaging and Communications in Medicine image"
+msgstr "医学数字成像和通信图像"
+
+msgid "Digits"
+msgstr "位数"
+
+msgid "Dimension:"
+msgstr "维数："
+
+msgid "Dimensions"
+msgstr "尺寸"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Direction Vector"
+msgstr "方向矢量"
+
+msgid "Directional"
+msgstr "方向"
+
+msgid "Directional light"
+msgstr "方向光源"
+
+msgid "Directions"
+msgstr "方向"
+
+msgid "Directions:"
+msgstr "方向数："
+
+msgid "Disc"
+msgstr "圆盘"
+
+msgid "Displace"
+msgstr "移位"
+
+msgid "Displace pixels as indicated by displacement maps"
+msgstr "按置换贴图的指示移位像素"
+
+msgid "Displace pixels in a ripple pattern"
+msgstr "按波纹图案位移像素"
+
+msgid "Displacement Mode"
+msgstr "置换模式"
+
+msgid "Displacement map:"
+msgstr "置换贴图："
+
+msgid "Displacing"
+msgstr "移位"
+
+msgid "Display as:"
+msgstr "显示为："
+
+msgid "Display information about plug-ins"
+msgstr "显示关于插件的信息"
+
+msgid "Distance:"
+msgstr "距离："
+
+msgid "Distort an image by whirling and pinching"
+msgstr "以旋转和挤压扭曲图像"
+
+msgid "Distort colors by random amounts"
+msgstr "以随机数量扭曲颜色"
+
+msgid "Distort the image with waves"
+msgstr "用波形扭曲图像"
+
+msgid "Dither size:"
+msgstr "抖动大小："
+
+msgid "Division"
+msgstr "分割"
+
+msgid "Do _preview"
+msgstr "进行预览(_P)"
+
+msgid "Do you really want to discard your changes?"
+msgstr "您真的要放弃您的修改吗？"
+
+msgid "DoG Edge Detect"
+msgstr "高斯差分边缘检测"
+
+msgid "Downloaded %s of image data"
+msgstr "已下载 %s 的图像数据"
+
+msgid "Downloading %s of image data"
+msgstr "正在下载 %s 的图像数据"
+
+msgid "Downloading image (%s of %s)"
+msgstr "正在下载图像(第 %s 幅，共 %s 幅)"
+
+msgid "Downloading unknown amount of image data"
+msgstr "正在下载未知总量的图像数据"
+
+msgid "Downloading webpage '%s'"
+msgstr "正在下载网页“%s”"
+
+msgid ""
+"Drag and drop colors to rearrange the colormap.  The numbers shown are the "
+"original indices.  Right-click for a menu with sort options."
+msgstr "拖放颜色以重新整理颜色表。显示的数字是原索引。右键点击以显示排序选项菜单。"
+
+msgid "Draw a border of spikes around the image"
+msgstr "在图像的边缘处添加一系列火花"
+
+msgid "Draw a grid on the image"
+msgstr "在图像上绘制网格"
+
+msgid "Draw a labyrinth"
+msgstr "绘制迷宫"
+
+msgid "Drawables have different size"
+msgstr "图像的大小不一致"
+
+msgid "Drawing Settings"
+msgstr "绘画设置"
+
+msgid "Drawing flame"
+msgstr "绘制火焰"
+
+msgid "Drawing grid"
+msgstr "绘制网格"
+
+msgid "Drawing maze"
+msgstr "绘制迷宫"
+
+msgid "Draws lines between the control points. Only during curve creation"
+msgstr "在控制点之间连接直线。只在创建曲线时起作用"
+
+msgid "Drop shadow"
+msgstr "投下阴影"
+
+msgid "Dy_namic:"
+msgstr "动态(_N)："
+
+msgid "EOF encountered on reading"
+msgstr "读入时遇到文件结束符"
+
+msgid "EOF or error while reading image data"
+msgstr "在读取图像数据时出现 EOF 或者错误"
+
+msgid "EOF or error while reading image header"
+msgstr "在读取图像数据头时出现 EOF 或者错误"
+
+msgid "E_levation:"
+msgstr "仰角(_L)："
+
+msgid "E_nable bump mapping"
+msgstr "启用凹凸贴图(_N)"
+
+msgid "E_nable environment mapping"
+msgstr "启用环境映射(_N)"
+
+msgid "E_rode"
+msgstr "腐蚀(_R)"
+
+msgid "E_xtend"
+msgstr "扩展(_X)"
+
+msgid "Each piece has curved sides"
+msgstr "小块的边缘是弯曲的"
+
+msgid "Each piece has straight sides"
+msgstr "小块的边缘是直的"
+
+msgid "Edge Affected"
+msgstr "边缘效果"
+
+msgid "Edge Behavior"
+msgstr "边缘行为"
+
+msgid "Edge Detection"
+msgstr "边缘检测"
+
+msgid "Edge darken:"
+msgstr "边缘加深："
+
+msgid "Edge detection"
+msgstr "边缘检测"
+
+msgid "Edge detection with control of edge thickness"
+msgstr "带边缘粗细控制的边缘检测"
+
+msgid "Edges"
+msgstr "边缘"
+
+msgid "Edit Area _Info..."
+msgstr "编辑区域信息(_I)..."
+
+msgid "Edit Flame"
+msgstr "编辑火焰"
+
+msgid "Edit Map Info"
+msgstr "编辑映像信息"
+
+msgid "Edit Map Info..."
+msgstr "编辑映像信息..."
+
+msgid "Edit Object"
+msgstr "编辑对象"
+
+msgid "Edit selected area info"
+msgstr "编辑选中区域的信息"
+
+msgid "Editing read-only object - you will not be able to save it"
+msgstr "编辑只读对象 - 您将不能对它进行保存"
+
+msgid "Effect Channel"
+msgstr "效果通道"
+
+msgid "Effect Operator"
+msgstr "效果操作"
+
+msgid "Emboss"
+msgstr "浮雕"
+
+msgid "Empty"
+msgstr "空"
+
+msgid "En_grave..."
+msgstr "刻画(_G)..."
+
+msgid "En_vironment image:"
+msgstr "环境图像(_V)："
+
+msgid "Enable _antialiasing"
+msgstr "启用反锯齿(_A)"
+
+msgid "Enable preview to obtain the file size."
+msgstr "启用预览以获得文件大小。"
+
+msgid "Enable/disable bump-mapping (image depth)"
+msgstr "启用/禁用凹凸贴图(图像深度)"
+
+msgid "Enable/disable environment-mapping (reflection)"
+msgstr "启用/禁用环境映射(反射)"
+
+msgid "Enable/disable high quality preview"
+msgstr "启用/禁用高质量预览"
+
+msgid "Enable/disable jagged edges removal (antialiasing)"
+msgstr "启用/禁用锯齿状边缘的平滑处理(反锯齿)"
+
+msgid "Enable/disable real time preview of changes"
+msgstr "启用/禁用实时预览"
+
+msgid "Encapsulated PostScript image"
+msgstr "封装的 PostScript 图像(EPS)(_E)"
+
+msgid "End of element <%s> not expected in this context"
+msgstr "在此上下文中不期待元素<%s>的结尾"
+
+msgid "Engrave"
+msgstr "刻画"
+
+msgid "Engraving"
+msgstr "刻画"
+
+msgid "Enhance contrast using the Retinex method"
+msgstr "使用 Retinex 方法增强对比度"
+
+msgid "Enter a name for the copied GFlare"
+msgstr "给已复制的渐变闪光输入一个名字"
+
+msgid "Enter a name for the new GFlare"
+msgstr "给新的渐变闪光输入一个名字"
+
+msgid "Enter copyright information."
+msgstr "输入版权信息。"
+
+msgid "Enter license information."
+msgstr "输入许可证信息。"
+
+msgid "Enter location (URI):"
+msgstr "输入位置(URI)："
+
+msgid "Enter other comment if you want."
+msgstr "您可以输入其他注释。"
+
+msgid "Enter the X coordinate of the hot spot. The origin is top left corner."
+msgstr "输入热点的 X 坐标。原点在左上角。"
+
+msgid "Enter the Y coordinate of the hot spot. The origin is top left corner."
+msgstr "输入热点的 Y 坐标。原点在左上角。"
+
+msgid "Enter time span in milliseconds in which each frame is rendered."
+msgstr "输入每一帧渲染时间间隔的毫秒数。"
+
+msgid "Entire Layer"
+msgstr "整个图层"
+
+msgid "Env. sensitivity:"
+msgstr "环境灵敏度："
+
+msgid "Environment image to use"
+msgstr "要使用的环境图像"
+
+msgid "Error creating PNG read struct while saving '%s'."
+msgstr "保存 %s 时创建 PNG 读取结构出错。"
+
+msgid "Error creating PNG write struct while saving '%s'."
+msgstr "保存 %s 时创建 PNG 写入结构出错。"
+
+msgid "Error during open of FITS file"
+msgstr "打开 FITS 文件时出错"
+
+msgid "Error during writing indexed/gray image"
+msgstr "写索引/灰度图像时出错"
+
+msgid "Error during writing rgb image"
+msgstr "写 RGB 图像时出错"
+
+msgid "Error getting number of pages from the given PDF file."
+msgstr "从给出的 PDF 文件中获取页数时出错。"
+
+msgid "Error in GIMP brush file '%s'"
+msgstr "GIMP 画笔文件“%s”有错"
+
+msgid "Error in GIMP brush pipe file."
+msgstr "GIMP 画笔管道文件有错。"
+
+msgid "Error in getting layer IDs"
+msgstr "获取图层 ID 时出错"
+
+msgid "Error loading PNG file: %s"
+msgstr "读入 PNG 文件出错：%s"
+
+msgid "Error loading PSD file: %s"
+msgstr "打开 PSD 文件出错：%s"
+
+msgid ""
+"Error loading UI file '%s':\n"
+"%s"
+msgstr ""
+"打开用户界面文件“%s”出错：\n"
+"%s"
+
+msgid "Error loading UI file '%s': %s"
+msgstr "打开用户界面文件“%s”出错：%s"
+
+msgid "Error loading desktop file '%s': %s"
+msgstr "打开桌面文件“%s”出错：%s"
+
+msgid "Error on line %d char %d: %s"
+msgstr "出错于第 %d 行第 %d 字符处：%s"
+
+msgid "Error opening file"
+msgstr "打开文件出错"
+
+msgid "Error opening file '%s'"
+msgstr "打开文件“%s”出错"
+
+msgid "Error reading BMP file header from '%s'"
+msgstr "从“%s”读 BMP 文件头出错"
+
+msgid "Error reading file"
+msgstr "读文件出错"
+
+msgid "Error reading file."
+msgstr "读文件出错。"
+
+msgid "Error scanning 'decompose-data' parasite: too few layers found"
+msgstr "扫描“分解数据”寄生物错误：找到的图层太少"
+
+msgid "Error selecting the window"
+msgstr "选择窗口出错"
+
+msgid "Error trying to open temporary file '%s' for parasite loading: %s"
+msgstr "试图打开临时文件“%s”用于加载寄生物时出错：%s"
+
+msgid ""
+"Error trying to save figure as a parasite: can't attach parasite to "
+"drawable."
+msgstr "试图将图形另存为寄生物时出错：无法添加寄生物到图像。"
+
+msgid "Error while reading '%s'. File corrupted?"
+msgstr "读取“%s”出错。文件已损坏？"
+
+msgid "Error while reading '%s': %s"
+msgstr "读取“%s”时出错：%s"
+
+msgid "Error while saving '%s'. Could not save image."
+msgstr "保存“%s”出错。无法保存图像。"
+
+msgid "Error writing output file."
+msgstr "写输出文件时出错。"
+
+msgid "Error! In order to save the file, at least one image should be added!"
+msgstr "错误！要保存文件，必须至少添加一个图像。"
+
+msgid "Error: Can't convert GIMP base imagetype to PSD mode"
+msgstr "出错：无法将 GIMP 基础图像类型转换为 PSD 模式"
+
+msgid "Error: Could not read XJT property file '%s'."
+msgstr "错误：无法读取 XJT 属性文件“%s”。"
+
+msgid "Error: No XMP packet found"
+msgstr "错误：未找到 XMP 包"
+
+msgid "Error: XJT property file '%s' is empty."
+msgstr "错误：XJT 属性文件“%s”为空。"
+
+msgid "Error: failed to load parameters"
+msgstr "错误：无法加载参数。"
+
+msgid "Error: it's not CML parameter file."
+msgstr "错误：这不是 CML 参数文件。"
+
+msgid "Evenly distributed"
+msgstr "均匀分布"
+
+msgid "Ex"
+msgstr "Ex"
+
+msgid "Exp.:"
+msgstr "指数："
+
+msgid "Expected element <%s>, found <%s> instead"
+msgstr "期待元素<%s>，却发现了<%s>"
+
+msgid "Expected text or optional element <%s>, found <%s> instead"
+msgstr "期待文字或可选元素<%s>，却发现了<%s>"
+
+msgid "Exponential"
+msgstr "指数"
+
+msgid "Export Preview"
+msgstr "导出预览"
+
+msgid "Export XMP to File"
+msgstr "从文件导出 XMP"
+
+msgid "Extra"
+msgstr "附加的"
+
+msgid "Extract Channels"
+msgstr "提取通道"
+
+msgid "Eyefish"
+msgstr "睛鱼"
+
+msgid "FITS file keeps no displayable images"
+msgstr "FITS 文件没有包含可显示图像"
+
+msgid "FITS save cannot handle images with alpha channels"
+msgstr "FITS 保存无法处理带 Alpha 通道的图像"
+
+msgid "FP can only be run interactively."
+msgstr "FP 只能以交互模式运行。"
+
+msgid "FP can only be used on RGB images."
+msgstr "FP 只能用于 RGB 图像。"
+
+msgid "F_ile"
+msgstr "文件(_I)"
+
+msgid "F_irst color:"
+msgstr "第一种颜色(_I)："
+
+msgid "F_lare intensity:"
+msgstr "闪光强度(_L)："
+
+msgid "Factor"
+msgstr "因子"
+
+msgid "Failed to open '%s': %s"
+msgstr "无法打开“%s”：%s"
+
+msgid "Failed to open GFlare file '%s': %s"
+msgstr "无法打开渐变闪光文件“%s”：%s"
+
+msgid "Failed to save PPM file '%s': %s"
+msgstr "无法保存 PPM 文件“%s”：%s"
+
+msgid "Failed to save to temporary file '%s'"
+msgstr "未能保存到临时文件 '%s'"
+
+msgid "Failed to write GFlare file '%s': %s"
+msgstr "无法写入渐变闪光文件“%s”：%s"
+
+msgid "Fan"
+msgstr "扇形"
+
+msgid "Fast Integer"
+msgstr "快速整数"
+
+msgid "Faster"
+msgstr "加快"
+
+msgid "Feather"
+msgstr "羽化"
+
+msgid "File \"%s\" saved."
+msgstr "文件“%s”已保存。"
+
+msgid "File '%s' doesn't seem to be an IFS Fractal file."
+msgstr "文件“%s”似乎不是 IFS 分形文件。"
+
+msgid ""
+"File '%s' is corrupt.\n"
+"Line %d Option section incorrect"
+msgstr ""
+"文件“%s”已损坏。\n"
+"第 %d 行选项部分错误"
+
+msgid "File '%s' is not a FractalExplorer file"
+msgstr "文件“%s”不是一个分形探索器文件"
+
+msgid "File '%s' is not a valid save file."
+msgstr "文件“%s”不是有效的保存文件。"
+
+msgid "File not in a supported format."
+msgstr "不支持的文件格式。"
+
+msgid "File size: %s"
+msgstr "文件大小：%s"
+
+msgid "File size: unknown"
+msgstr "文件大小：未知"
+
+msgid "Filename:"
+msgstr "文件名："
+
+msgid "Fill"
+msgstr "填充"
+
+msgid "Fill (bottom to top)"
+msgstr "填充(从下到上)"
+
+msgid "Fill (left to right)"
+msgstr "填充(从左到右)"
+
+msgid "Fill (right to left)"
+msgstr "填充(从右到左)"
+
+msgid "Fill (top to bottom)"
+msgstr "填充(从上到下)"
+
+msgid "Fill with parameter k"
+msgstr "以参数 k 填充"
+
+msgid "Filmstrip"
+msgstr "胶卷"
+
+msgid "Filter"
+msgstr "滤波器"
+
+msgid "Filter Pack Simulation"
+msgstr "组合滤镜模拟"
+
+msgid "Find _Again"
+msgstr "再次查找(_A)"
+
+msgid "Find and fix pixels that may be unsafely bright"
+msgstr "查找并修复可能具有不安全亮度的像素"
+
+msgid "Find text in current page"
+msgstr "查找当前页的文字"
+
+msgid "Find:"
+msgstr "查找："
+
+msgid "Finding XY gradient"
+msgstr "寻找 XY 梯度"
+
+msgid "Finding animation background"
+msgstr "寻找动画背景"
+
+msgid "Finding edges"
+msgstr "寻找边缘"
+
+msgid "First Gfig"
+msgstr "第一个几何图形"
+
+msgid "First color"
+msgstr "第一种颜色"
+
+msgid "Fisheye"
+msgstr "鱼眼"
+
+msgid "Fix Seed"
+msgstr "固定种子"
+
+msgid "Fix images where every other row is missing"
+msgstr "修复图像的隔行丢失"
+
+msgid "Fixed-direction-vector map selection menu"
+msgstr "定向矢量图选择菜单"
+
+msgid "Flame"
+msgstr "火焰"
+
+msgid "Flame works only on RGB drawables."
+msgstr "火焰只对 RGB 图像有效"
+
+msgid "Flexible Image Transport System"
+msgstr "灵活图像传输系统"
+
+msgid "Flip"
+msgstr "翻转"
+
+msgid "Floating-Point"
+msgstr "浮点数"
+
+msgid "Flow step %d"
+msgstr "按照第 %d 步"
+
+msgid "Flowing"
+msgstr "流线"
+
+msgid "Fo_reground color"
+msgstr "前景色(_R)"
+
+msgid "Focus the brush strokes around the center of the image"
+msgstr "笔划聚集在图像中心附近"
+
+msgid "Font size:"
+msgstr "字体大小："
+
+msgid "Foreground"
+msgstr "前景"
+
+msgid "Foreground / background colors"
+msgstr "前景/背景色"
+
+msgid "Foreground color"
+msgstr "前景色"
+
+msgid "Fractal Explorer"
+msgstr "分形探索器"
+
+msgid "Fractal Parameters"
+msgstr "分形参数"
+
+msgid "Fractal Trace"
+msgstr "分形追溯"
+
+msgid "Fractal Type"
+msgstr "分形类型"
+
+msgid "FractalExplorer Gradient"
+msgstr "分形探索器渐变"
+
+msgid "Fractional Pixels"
+msgstr "零碎的像素"
+
+msgid "Frame %d"
+msgstr "帧 %d"
+
+msgid "Frame %d (%d%s)"
+msgstr "帧 %d (%d%s)"
+
+msgid "Frame %d of %d"
+msgstr "帧 %d/%d"
+
+msgid "Frame %d of '%s' is too high for an X cursor."
+msgstr "'%2$s' 的第 %1$d 帧对于一个 X 光标来说过高。"
+
+msgid "Frame %d of '%s' is too wide for an X cursor."
+msgstr "'%2$s' 的第 %1$d 帧对于一个 X 光标来说过宽。"
+
+msgid "Frame '%s' is too high. Please reduce to no more than %dpx."
+msgstr "帧 '%s' 过高。请降至不超过 %dpx 。"
+
+msgid "Frame '%s' is too wide. Please reduce to no more than %dpx."
+msgstr "帧 '%s' 过宽。请降至不超过 %dpx 。"
+
+msgid "Frame (%i)"
+msgstr "帧 (%i)"
+
+msgid "Frequencies"
+msgstr "频率"
+
+msgid "From Color"
+msgstr "从颜色"
+
+msgid "From _Webpage..."
+msgstr "从网页(_W)..."
+
+msgid "From gradient"
+msgstr "取自渐变"
+
+msgid "From paper"
+msgstr "取自画纸"
+
+msgid "From reverse gradient"
+msgstr "取自反向的渐变"
+
+msgid "Front:"
+msgstr "前："
+
+msgid "Full"
+msgstr "完全"
+
+msgid "Function"
+msgstr "功能"
+
+msgid "Function type:"
+msgstr "函数类型："
+
+msgid "G-Qbist"
+msgstr "G-Qbist"
+
+msgid "G3 fax image"
+msgstr "G3 传真图像"
+
+msgid "GFLI 1.3"
+msgstr "GFLI 1.3"
+
+msgid "GFLI 1.3 - Load framestack"
+msgstr "GFLI 1.3 - 加载帧栈"
+
+msgid ""
+"GFlare '%s' is not saved. If you add a new entry in '%s', like:\n"
+"(gflare-path \"%s\")\n"
+"and make a folder '%s', then you can save your own GFlares into that folder."
+msgstr ""
+"渐变闪光“%s”还没保存。如果您在“%s”中添加一项，比如：\n"
+"(gflare-path \"%s\")\n"
+"并建立一个文件夹“%s”，您就可以将自己的渐变闪光保存在那个文件夹中。"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "GIF Options"
+msgstr "GIF 选项"
+
+msgid "GIF image"
+msgstr "GIF 图像"
+
+msgid ""
+"GIF: Undocumented GIF composite type %d is not handled.  Animation might not"
+" play or re-save perfectly."
+msgstr "GIF：无法处理无书面文件的 GIF 合成类型 %d。动画可能无法准确地播放或重储存。"
+
+msgid "GIMP Help Browser"
+msgstr "GIMP 帮助浏览器"
+
+msgid "GIMP brush"
+msgstr "GIMP 画笔"
+
+msgid "GIMP brush (animated)"
+msgstr "GIMP 画笔(动画)"
+
+msgid "GIMP brush file appears to be corrupted."
+msgstr "GIMP 画笔文件看来已损坏。"
+
+msgid "GIMP brushes are either GRAYSCALE or RGBA"
+msgstr "GIMP 画笔只能是灰度或 RGBA"
+
+msgid "GIMP compressed XJT image"
+msgstr "GIMP 压缩的 XJT 图像"
+
+msgid "GIMP pattern"
+msgstr "GIMP 图案"
+
+msgid "GIMPressionist"
+msgstr "GIMPressionist"
+
+msgid "G_low"
+msgstr "炽光(_L)"
+
+msgid "G_reen threshold:"
+msgstr "绿色阈值(_R)："
+
+msgid "Gamma:"
+msgstr "Gamma："
+
+msgid "Gaussian"
+msgstr "高斯"
+
+msgid "Gaussian Blur"
+msgstr "高斯模糊"
+
+msgid "General"
+msgstr "通用"
+
+msgid "General Options"
+msgstr "常规选项"
+
+msgid "General Preferences"
+msgstr "通用首选项"
+
+msgid "Generate a huge variety of abstract patterns"
+msgstr "产生大量不同的抽像图案"
+
+msgid "Generate complex sinusoidal textures"
+msgstr "产生复合的正弦曲线纹理"
+
+msgid "Generate diffraction patterns"
+msgstr "产生衍射图案"
+
+msgid "Get _Sample Colors"
+msgstr "获取样本颜色(_S)"
+
+msgid "Gfig"
+msgstr "几何图形(GFig)"
+
+msgid "Gimpressionist Defaults"
+msgstr "GIMPressionist 默认值"
+
+msgid "Glass Tile"
+msgstr "玻璃瓦片"
+
+msgid "Glow Paint Options"
+msgstr "炽光绘画选项"
+
+msgid "Go back one page"
+msgstr "后退一页"
+
+msgid "Go forward one page"
+msgstr "前进一页"
+
+msgid "Go to the index page"
+msgstr "转到索引页面"
+
+msgid "Gr_ey"
+msgstr "灰色(_E)"
+
+msgid "Grab"
+msgstr "截取"
+
+msgid "Grab a single window"
+msgstr "截取单个窗口"
+
+msgid "Grab the whole screen"
+msgstr "截取整个屏幕"
+
+msgid "Gradient"
+msgstr "梯度"
+
+msgid "Gradient Flare"
+msgstr "渐变闪光"
+
+msgid "Gradient Flare Editor"
+msgstr "渐变闪光编辑器"
+
+msgid "Gradient Map"
+msgstr "渐变映射"
+
+msgid "Gradient map selection menu"
+msgstr "渐变贴图选择菜单"
+
+msgid "Gradient scale:"
+msgstr "渐变范围："
+
+msgid "Gradients"
+msgstr "渐变"
+
+msgid "Graph of the Current Settings"
+msgstr "当前设置的图像"
+
+msgid "Graphic antialiasing"
+msgstr "图像平滑"
+
+msgid "Gray"
+msgstr "灰色"
+
+msgid "Gray Mode"
+msgstr "灰色模式"
+
+msgid "Gray Options"
+msgstr "灰度选项"
+
+msgid "Gray Threshold"
+msgstr "灰色阈值"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "Green fr_equency:"
+msgstr "绿色频率(_E)："
+
+msgid "Green ph_aseshift:"
+msgstr "绿色相移(_A)："
+
+msgid "Green:"
+msgstr "绿色："
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Grid"
+msgstr "网格"
+
+msgid "Grid Granularity"
+msgstr "网格大小"
+
+msgid "Grid Offset"
+msgstr "网格位移"
+
+msgid "Grid Settings"
+msgstr "网格设置"
+
+msgid "Grid Settings..."
+msgstr "网格设置..."
+
+msgid "Grid Visibility and Type"
+msgstr "网格可见性与类型"
+
+msgid "Grid color:"
+msgstr "网格颜色："
+
+msgid "Grid spacing:"
+msgstr "网格间距："
+
+msgid "Grid type:"
+msgstr "网格类型："
+
+msgid "Grow lighter areas of the image"
+msgstr "扩张图像中较亮的区域"
+
+msgid "Guides"
+msgstr "参考线"
+
+msgid ""
+"Guides are pre-defined rectangles covering the image. You define them by "
+"their width, height, and spacing from each other. This allows you to rapidly"
+" create the most common image map type - image collection of \"thumbnails\","
+" suitable for navigation bars."
+msgstr ""
+"参考线(Guides)是图像上一些预定义的矩形区域。您通过给出宽度、高度和之间的距离来定义它们。这使您得以快速创建最通常的图像映像类型――图像缩略图集，适用于导航条。"
+
+msgid "Guillotine"
+msgstr "分块"
+
+msgid "HSL"
+msgstr "HSL"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HSV Noise"
+msgstr "HSV 噪音"
+
+msgid "HSV Noise..."
+msgstr "HSV 噪音..."
+
+msgid "HTML Page Options"
+msgstr "HTML 页面选项"
+
+msgid "HTML table"
+msgstr "HTML 表格"
+
+msgid "H_ighlight:"
+msgstr "高亮(_I)："
+
+msgid "H_ighlights"
+msgstr "高光(_I)"
+
+msgid "H_ue"
+msgstr "色调(_U)"
+
+msgid "H_ue:"
+msgstr "色调(_U)："
+
+msgid "Halftone the image to give newspaper-like effect"
+msgstr "半色调处理图像以产生类似报纸的效果"
+
+msgid "Handkerchief"
+msgstr "手帕"
+
+msgid "Heart"
+msgstr "心形"
+
+msgid "Height (pixels):"
+msgstr "高度(像素)："
+
+msgid "Height:"
+msgstr "高度："
+
+msgid "Help ID '%s' unknown"
+msgstr "未知的帮助 ID “%s”"
+
+msgid "Hexagons"
+msgstr "六边形"
+
+msgid "Hey where has the object gone ?"
+msgstr "嘿，那些对象都到哪去了？"
+
+msgid "High"
+msgstr "高"
+
+msgid "High _quality preview"
+msgstr "高质量预览(_Q)"
+
+msgid "High-resolution edge detection"
+msgstr "高分辨率边缘检测"
+
+msgid "Higher values increase the magnitude of the effect"
+msgstr "值越大效果越显著"
+
+msgid "Higher values makes the highlights more focused"
+msgstr "数值越大高光越集中"
+
+msgid "Higher values makes the object reflect more light (appear lighter)"
+msgstr "数值越大物体反射的光线越多(显得更亮)"
+
+msgid "Higher values restrict the effect to fewer areas of the image"
+msgstr "值越大效果影响的图像区域越小"
+
+msgid "Highlight:"
+msgstr "高光："
+
+msgid "Highlights:"
+msgstr "高光："
+
+msgid "Ho_ld the minimal channels"
+msgstr "保留最小的通道(_L)"
+
+msgid "Ho_le width:"
+msgstr "小孔宽度(_L)："
+
+msgid "Ho_rizontal base:"
+msgstr "水平方向基准(_R)："
+
+msgid "Hol_e height:"
+msgstr "小孔高度(_E)："
+
+msgid "Hold intensity"
+msgstr "保持亮度"
+
+msgid "Hole sp_acing:"
+msgstr "小孔间距(_A)："
+
+msgid ""
+"Horizontal\n"
+"Lines"
+msgstr ""
+"水平\n"
+"线"
+
+msgid "Horizontal Color"
+msgstr "水平颜色"
+
+msgid "Horizontal gradient"
+msgstr "水平渐变"
+
+msgid "Horizontally"
+msgstr "水平"
+
+msgid "Horseshoe"
+msgstr "马蹄"
+
+msgid "Hot"
+msgstr "燥点"
+
+msgid "Hot spot _X:"
+msgstr "燥点 _X："
+
+msgid "Hot spot _Y:"
+msgstr "燥点 _Y："
+
+msgid "How many units make up an inch."
+msgstr "一英寸等于此单位的多少倍。"
+
+msgid "How much to \"darken\" the drop shadow"
+msgstr "阴影的颜色加深多少"
+
+msgid "How much to \"darken\" the edges of each brush stroke"
+msgstr "每一笔的边缘处加深多少"
+
+msgid "How much to blur the drop shadow"
+msgstr "阴影的模糊程度"
+
+msgid "Hue"
+msgstr "色调"
+
+msgid "Hue (HSL)"
+msgstr "色调 (HSL)"
+
+msgid "Hue Variations"
+msgstr "色调变化"
+
+msgid "Hue _frequency:"
+msgstr "色调频率(_F)："
+
+msgid "Hue _phaseshift:"
+msgstr "色调相移(_P)："
+
+msgid "Hue rotation:"
+msgstr "色调旋转："
+
+msgid "Hue:"
+msgstr "色调："
+
+msgid "Huge"
+msgstr "巨"
+
+msgid "Hyperbolic"
+msgstr "双曲线"
+
+msgid "I don't care"
+msgstr "我不关心"
+
+msgid "ICC color profile (*.icc, *.icm)"
+msgstr "ICC 色彩配置文件(*.icc, *.icm)"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IFS Fractal"
+msgstr "IFS 分形"
+
+msgid "IFS Fractal Render Options"
+msgstr "IFS 分形渲染选项"
+
+msgid "IFS Fractal: Black"
+msgstr "IFS 分形：黑"
+
+msgid "IFS Fractal: Blue"
+msgstr "IFS 分形：蓝"
+
+msgid "IFS Fractal: Green"
+msgstr "IFS 分形：绿"
+
+msgid "IFS Fractal: Red"
+msgstr "IFS 分形：红"
+
+msgid "IFS Fractal: Target"
+msgstr "IFS 分形：目标"
+
+msgid "IWarp"
+msgstr "交互式翘曲"
+
+msgid "I_ntensity"
+msgstr "强度(_N)"
+
+msgid "I_nteractive"
+msgstr "交互(_N)"
+
+msgid "I_nterlace"
+msgstr "交错(_N)"
+
+msgid "I_nvert bumpmap"
+msgstr "反向凹凸贴图(_N)"
+
+msgid "I_nverted image"
+msgstr "图像反相(_N)"
+
+msgid "I_solate"
+msgstr "孤立(_S)"
+
+msgid "Icon #%i"
+msgstr "图标 #%i"
+
+msgid "Icon Details"
+msgstr "图标细节"
+
+msgid ""
+"If checked GTM will output a full HTML document with <HTML>, <BODY>, etc. "
+"tags instead of just the table html."
+msgstr "如果选中该项，GTM 将会输出一个带有 <HTML>、<BODY> 等标签的完整的 HTML 文档，而不是仅仅只有一个表格。"
+
+msgid ""
+"If checked GTM will replace any rectangular sections of identically colored "
+"blocks with one large cell with ROWSPAN and COLSPAN values."
+msgstr "如果选中该项，GTM 会用 ROWSPAN 和 COLSPAN 把相同颜色的矩形块替换成一个大的单元格。"
+
+msgid ""
+"If checked the mapping will begin at the right side, as opposed to beginning"
+" at the left."
+msgstr "如果选中，映射将从右边开始，与从左边开始相反。"
+
+msgid "If enabled the preview will be redrawn automatically"
+msgstr "如果启用，预览将会自动重画"
+
+msgid ""
+"If the original image was loaded from a JPEG file using non-standard quality"
+" settings (quantization tables), enable this option to get almost the same "
+"quality and file size."
+msgstr "如果原图像是从一个使用非标准品质设置(量化表)的 JPEG 文件读入的，启用此选项以取得几乎一致的品质和文件大小。"
+
+msgid ""
+"If unchecked the image will be circularly mapped onto a rectangle.  If "
+"checked the image will be mapped onto a circle."
+msgstr "如果没有选中，图像将沿圆周映射到一个矩形上。如果选中，图像将被映射到一个圆上。"
+
+msgid ""
+"If unchecked the mapping will put the bottom row in the middle and the top "
+"row on the outside.  If checked it will be the opposite."
+msgstr "如果没有选中，映射将把底行放在中心，顶行放在外面。如果选中则相反。"
+
+msgid ""
+"If you enable this option higher color values will be swapped with lower "
+"ones and vice versa"
+msgstr "如果您启用这个选项，高的颜色值与低的颜色值将被互换"
+
+msgid "Ignore PNG offset"
+msgstr "忽略 PNG 位移"
+
+msgid "Ignore Page _Margins"
+msgstr "忽略页面边距(_M)"
+
+msgid "Illusion"
+msgstr "幻象"
+
+msgid "Im_age"
+msgstr "图像(_A)"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Image Color Profile Information"
+msgstr "图像色彩配置文件信息"
+
+msgid "Image Composing"
+msgstr "图像合成"
+
+msgid "Image Map Plug-In"
+msgstr "图像映像插件"
+
+msgid "Image Properties"
+msgstr "图像属性"
+
+msgid "Image Selection"
+msgstr "图像选择"
+
+msgid "Image Settings"
+msgstr "图像设置"
+
+msgid "Image Size"
+msgstr "图像大小"
+
+msgid "Image Types"
+msgstr "图像类型"
+
+msgid "Image _Type:"
+msgstr "图像类型(_T)："
+
+msgid "Image _height:"
+msgstr "图像高度(_H)："
+
+msgid "Image _title:"
+msgstr "图像标题 (_T) ："
+
+msgid "Image component %d of image '%s' does not have both a hstep and vstep."
+msgstr "图像“%2$s”的图像分量 %1$d 没有同时拥有 hstep 和 vstep。"
+
+msgid ""
+"Image component %d of image '%s' does not have the same size as the image. "
+"This is currently not supported."
+msgstr "图像“%2$s”的图像分量 %1$d 和图像的尺寸不一致。这种情况目前不被支持。"
+
+msgid ""
+"Image component %d of image '%s' is signed. This is currently not supported."
+msgstr "图像“%2$s”的图像分量 %1$d 是有符号数。这种情况目前不被支持。"
+
+msgid "Image dimensions too large: width %d x height %d"
+msgstr "图像尺寸过大：宽 %d x 高 %d"
+
+msgid "Image dimensions: %d × %d"
+msgstr "图像尺寸：%d x %d"
+
+msgid "Image height is larger than GIMP can handle."
+msgstr "图像高度超出 GIMP 能够处理的范围。"
+
+msgid "Image is not a gray image (bpp=%d)"
+msgstr "图像不是灰度图像 (bpp=%d)"
+
+msgid "Image name:"
+msgstr "图像名："
+
+msgid "Image size has changed."
+msgstr "图像大小已改变。"
+
+msgid "Image spac_ing:"
+msgstr "图像间距(_I)："
+
+msgid "Image width is larger than GIMP can handle."
+msgstr "图像宽度超出 GIMP 能够处理的范围。"
+
+msgid "Images"
+msgstr "图像"
+
+msgid "Images for the Cap Faces"
+msgstr "上下底表面的图像"
+
+msgid "Images have different size"
+msgstr "图像的大小不一致"
+
+msgid "Import XMP from File"
+msgstr "从文件导入 XMP"
+
+msgid "Import _paths"
+msgstr "导入路径(_P)"
+
+msgid "Import from PDF"
+msgstr "从 PDF 导入"
+
+msgid "Import from PostScript"
+msgstr "从 PostScript 导入"
+
+msgid "Import from TIFF"
+msgstr "从 TIFF 导入"
+
+msgid ""
+"Import path elements of the SVG so they can be used with the GIMP path tool"
+msgstr "导入 SVG 的路径元素，可用于 GIMP 路径工具"
+
+msgid "Importing screenshot"
+msgstr "导入屏幕截图"
+
+msgid "In_tegration steps:"
+msgstr "迭代次数(_T)："
+
+msgid "In_verse"
+msgstr "反转(_V)"
+
+msgid "Include _mouse pointer"
+msgstr "包括鼠标指针(_M)"
+
+msgid "Include decorations"
+msgstr "包含装饰"
+
+msgid "Include window _decoration"
+msgstr "包含窗口装饰(_D)"
+
+msgid "Incomplete input"
+msgstr "输入不完整"
+
+msgid "Increase the speed of the animation"
+msgstr "提高动画的速度"
+
+msgid "Indexed"
+msgstr "索引"
+
+msgid "Indexed Alpha"
+msgstr "索引 Alpha"
+
+msgid "Indexed Palette Type"
+msgstr "索引色板类型"
+
+msgid "Initial value:"
+msgstr "初始值："
+
+msgid "Input levels:"
+msgstr "输入色阶："
+
+msgid "Insert Point"
+msgstr "插入点"
+
+msgid "Installation Date"
+msgstr "安装日期"
+
+msgid "Integer"
+msgstr "整数"
+
+msgid "Intensity Levels"
+msgstr "亮度等级"
+
+msgid "Intensity of original color when lit by a light source"
+msgstr "当有光源照射时原始颜色的亮度"
+
+msgid "Interaction:"
+msgstr "交互："
+
+msgid "Interactively modify the image colors"
+msgstr "交互式修改图像颜色"
+
+msgid "Interlace"
+msgstr "交错"
+
+msgid "Intersection"
+msgstr "虚线"
+
+msgid "Intersection Color"
+msgstr "虚线颜色"
+
+msgid "Interval (MCU rows):"
+msgstr "间距 (MCU 行 ):"
+
+msgid "Invalid UTF-8 string in brush file '%s'."
+msgstr "画笔文件“%s”中存在无效的 UTF-8 字符串。"
+
+msgid "Invalid UTF-8 string in pattern file '%s'."
+msgstr "图案文件“%s”中存在无效的 UTF-8 字符串。"
+
+msgid "Invalid X offset: %d"
+msgstr "无效的 X 偏移量：%d"
+
+msgid "Invalid X resolution."
+msgstr "无效的 X 分辨率。"
+
+msgid "Invalid Y offset: %d"
+msgstr "无效的 Y 偏移量：%d"
+
+msgid "Invalid Y resolution."
+msgstr "无效的 Y 分辨率。"
+
+msgid "Invalid file."
+msgstr "无效文件。"
+
+msgid "Invalid header data in '%s': width=%lu, height=%lu, bytes=%lu"
+msgstr "“%s”中无效的头数据：width=%lu, height=%lu, bytes=%lu"
+
+msgid "Invalid height: %hu"
+msgstr "无效的高度：%hu"
+
+msgid "Invalid number of bytes per line in PCX header"
+msgstr "PCX 文件头中的无效的每行字节数"
+
+msgid "Invalid number of channels: %hu"
+msgstr "无效的通道数：%hu"
+
+msgid "Invalid remap array was passed to remap function"
+msgstr "传递给重映射函数的重映射阵列无效"
+
+msgid "Invalid width: %hu"
+msgstr "无效的宽度：%hu"
+
+msgid "Inversion"
+msgstr "反转"
+
+msgid "Invert the brightness of each pixel"
+msgstr "反转每个像素的亮度"
+
+msgid "Inverts the Papers texture"
+msgstr "反转画纸的材质"
+
+msgid "Isometric"
+msgstr "等轴"
+
+msgid "Iterations:"
+msgstr "迭代次数："
+
+msgid "JNG"
+msgstr "JNG"
+
+msgid "JNG + delta PNG"
+msgstr "JNG + Delta PNG"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "JPEG 2000 image"
+msgstr "JPEG 2000 图像"
+
+msgid "JPEG compression quality:"
+msgstr "JPEG 压缩质量："
+
+msgid "JPEG image"
+msgstr "JPEG 图像"
+
+msgid "JPEG preview"
+msgstr "JPEG 预览"
+
+msgid "JPEG quality parameter"
+msgstr "JPEG 质量参数"
+
+msgid "JPEG smoothing factor:"
+msgstr "JPEG 平滑因子："
+
+msgid "Jigsaw"
+msgstr "拼图"
+
+msgid "Jigsaw Style"
+msgstr "拼图风格"
+
+msgid "Julia"
+msgstr "Julia"
+
+msgid "KISS CEL"
+msgstr "KISS CEL"
+
+msgid "Keep _even fields"
+msgstr "保留偶数区域(_E)"
+
+msgid "Keep image's values"
+msgstr "保持图像的值"
+
+msgid "Keep o_dd fields"
+msgstr "保留奇数区域(_D)"
+
+msgid "Keep original"
+msgstr "保持原始"
+
+msgid "Keep the first value"
+msgstr "保持第一个值"
+
+msgid "Keeping the masks will not change the output"
+msgstr "保持蒙版不会改变输出"
+
+msgid "LAB"
+msgstr "LAB"
+
+msgid "LZ77"
+msgstr "LZ77"
+
+msgid "L_eading"
+msgstr "头部(_E)"
+
+msgid "L_eft border"
+msgstr "左边界(_E)"
+
+msgid "L_ength:"
+msgstr "长度(_E)："
+
+msgid "L_inear"
+msgstr "线性(_I)"
+
+msgid "Lambda"
+msgstr "Lambda"
+
+msgid "Laplace"
+msgstr "拉普拉斯"
+
+msgid "Larg_e 3x3"
+msgstr "大 3x3(_E)"
+
+msgid "Large"
+msgstr "大"
+
+msgid ""
+"Large icons and compression are not supported by all programs. Older "
+"applications may not open this file correctly."
+msgstr "并非所有程序都支持大图标和压缩。旧的应用程序可能无法正确打开此文件。"
+
+msgid ""
+"Layer background type. Copy causes the previous layer to be copied before "
+"the draw is performed."
+msgstr "图层背景类型。复制使得进行绘画之前先复制前一图层。"
+
+msgid "Layers"
+msgstr "图层"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Left edge"
+msgstr "左边界"
+
+msgid "Left:"
+msgstr "左："
+
+msgid "Lens Distortion"
+msgstr "镜头形变"
+
+msgid "Lens Distortion..."
+msgstr "镜头形变..."
+
+msgid "Lens Effect"
+msgstr "透镜效果"
+
+msgid "Lens Flare"
+msgstr "镜头光晕"
+
+msgid "Lens _Flare..."
+msgstr "镜头光晕(_F)..."
+
+msgid "Lens distortion"
+msgstr "镜头形变"
+
+msgid "Less Sat:"
+msgstr "更淡："
+
+msgid ""
+"Let the direction from the center determine the direction of the stroke"
+msgstr "笔划的方向由到图像中心的方向决定"
+
+msgid "Let the direction from the center determine the size of the stroke"
+msgstr "笔划的大小由到图像中心的方向决定"
+
+msgid ""
+"Let the value (brightness) of the region determine the direction of the "
+"stroke"
+msgstr "笔划的方向由区域的值(亮度)决定"
+
+msgid ""
+"Let the value (brightness) of the region determine the size of the stroke"
+msgstr "笔划的大小由区域的值(亮度)决定"
+
+msgid "Light"
+msgstr "光线"
+
+msgid "Light 1"
+msgstr "光线 1"
+
+msgid "Light 2"
+msgstr "光线 2"
+
+msgid "Light 3"
+msgstr "光线 3"
+
+msgid "Light 4"
+msgstr "光线 4"
+
+msgid "Light 5"
+msgstr "光线 5"
+
+msgid "Light 6"
+msgstr "光线 6"
+
+msgid "Light Settings"
+msgstr "光线设置"
+
+msgid "Light _direction:"
+msgstr "光线方向(_D)："
+
+msgid "Light intensity"
+msgstr "光线强度"
+
+msgid "Light source X direction in XYZ space"
+msgstr "光源在 XYZ 空间的 X 方向"
+
+msgid "Light source X position in XYZ space"
+msgstr "光源在 XYZ 空间的 X 坐标位置"
+
+msgid "Light source Y direction in XYZ space"
+msgstr "光源在 XYZ 空间的 Y 方向"
+
+msgid "Light source Y position in XYZ space"
+msgstr "光源在 XYZ 空间的 Y 坐标位置"
+
+msgid "Light source Z direction in XYZ space"
+msgstr "光源在 XYZ 空间的 Z 方向"
+
+msgid "Light source Z position in XYZ space"
+msgstr "光源在 XYZ 空间的 Z 坐标位置"
+
+msgid "Lighter"
+msgstr "稍浅"
+
+msgid "Lighter:"
+msgstr "更亮："
+
+msgid "Lighting Effects"
+msgstr "光照效果"
+
+msgid "Lighting preset:"
+msgstr "光照预设："
+
+msgid "Lightness"
+msgstr "亮度"
+
+msgid "Lightsource color:"
+msgstr "光源颜色："
+
+msgid "Lightsource type:"
+msgstr "光源类型："
+
+msgid "Line"
+msgstr "线状"
+
+msgid "Linear"
+msgstr "线性"
+
+msgid "Link Type"
+msgstr "链接类型"
+
+msgid "List View"
+msgstr "列表视图"
+
+msgid "List available procedures in the PDB"
+msgstr "列出在 PDB 中的可用过程"
+
+msgid "Lizard"
+msgstr "蜥蜴"
+
+msgid "Lo_ng-staggered"
+msgstr "长栅格(_N)"
+
+msgid "Lo_wer border"
+msgstr "下边界(_W)"
+
+msgid "Load CML Explorer Parameters"
+msgstr "加载 CML 探索器参数"
+
+msgid "Load Channel Mixer Settings"
+msgstr "加载通道混合器设置"
+
+msgid "Load Curve Points from File"
+msgstr "从文件中加载曲线的点"
+
+msgid "Load FITS File"
+msgstr "加载 FITS 文件"
+
+msgid "Load Flame"
+msgstr "加载火焰"
+
+msgid "Load Fractal Parameters"
+msgstr "加载分形参数"
+
+msgid "Load Gfig Object Collection"
+msgstr "加载几何图形对象集"
+
+msgid "Load Image Map"
+msgstr "载入图像映像"
+
+msgid "Load Image from Raw Data"
+msgstr "从原始数据载入图像"
+
+msgid "Load KISS Palette"
+msgstr "加载 KISS 色板"
+
+msgid "Load Lighting Preset"
+msgstr "加载光照预设"
+
+msgid "Load QBE File"
+msgstr "加载 QBE 文件"
+
+msgid "Load a fractal from file"
+msgstr "从文件加载分形"
+
+msgid "Load the curves from a file"
+msgstr "从文件中加载曲线"
+
+msgid "Loading index from '%s'"
+msgstr "从“%s”读取索引出错"
+
+msgid "Lock _thresholds"
+msgstr "锁定阈值(_T)"
+
+msgid "Logarithmic"
+msgstr "对数"
+
+msgid "Loop"
+msgstr "循环"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Lower left"
+msgstr "左下"
+
+msgid "Lower right"
+msgstr "右下"
+
+msgid "Lower selected object"
+msgstr "降低选中对象"
+
+msgid "Lower selected object to bottom"
+msgstr "将选中对象降至底端"
+
+msgid "Lower t_hreshold:"
+msgstr "低端阈值(_H)："
+
+msgid "Luminance"
+msgstr "亮度"
+
+msgid "Luminosity _threshold:"
+msgstr "发光度阈值(_T)："
+
+msgid "Luminosity freq_uency:"
+msgstr "发光度频率(_U)："
+
+msgid "Luminosity pha_seshift:"
+msgstr "发光度相移(_S)："
+
+msgid "MNG"
+msgstr "MNG"
+
+msgid "MNG Options"
+msgstr "MNG 选项"
+
+msgid "MNG animation"
+msgstr "MNG 动画"
+
+msgid "M_aximum value:"
+msgstr "最大值(_A)："
+
+msgid "Ma_x depth:"
+msgstr "最大深度(_X)："
+
+msgid "Ma_ximum height:"
+msgstr "最大高度(_X)："
+
+msgid "Magen_ta"
+msgstr "品红(_T)"
+
+msgid "Magenta"
+msgstr "品红"
+
+msgid "Magenta:"
+msgstr "品红："
+
+msgid "Magenta_K"
+msgstr "品红_K"
+
+msgid "Magnitude map:"
+msgstr "量值贴图："
+
+msgid "Main Options"
+msgstr "主选项"
+
+msgid "Make destination image transparent where bump height is zero"
+msgstr "使目标图像凸起高度为零的地方变为透明"
+
+msgid "Make image sharper (less powerful than Unsharp Mask)"
+msgstr "使图像更加锐利(比虚光蒙板效用较弱)"
+
+msgid "Make image transparent outside object"
+msgstr "使物体以外的图像变成透明"
+
+msgid "Make transparency all-or-nothing"
+msgstr "令透明度满或空"
+
+msgid "Man'o'war"
+msgstr "Man'o'war"
+
+msgid "Mandelbrot"
+msgstr "Mandelbrot"
+
+msgid "Mandelbrot Parameters"
+msgstr "Mandelbrot 参数"
+
+msgid "Manual"
+msgstr "手工"
+
+msgid "Manually selecting the eyes may improve the results."
+msgstr "手动选择眼睛会增进效果"
+
+msgid "Manually specify the stroke orientation"
+msgstr "手工指定笔划方向"
+
+msgid "Manually specify the stroke size"
+msgstr "手工指定笔划大小"
+
+msgid "Map File Format"
+msgstr "映像文件格式"
+
+msgid "Map Images to Box Faces"
+msgstr "将图像映射到方盒表面"
+
+msgid "Map _Object..."
+msgstr "映射到物体(_O)..."
+
+msgid "Map from _top"
+msgstr "从顶端开始映射(_T)"
+
+msgid "Map the image to an object (plane, sphere, box or cylinder)"
+msgstr "将图像映射到物体(平面，球体，立方体或圆柱体)"
+
+msgid "Map to Object"
+msgstr "映射到物体"
+
+msgid "Map to box"
+msgstr "映射到方盒"
+
+msgid "Map to cylinder"
+msgstr "映射到圆柱体"
+
+msgid "Map to plane"
+msgstr "映射到平面"
+
+msgid "Map to sphere"
+msgstr "映射到球体"
+
+msgid "Map to:"
+msgstr "映射到："
+
+msgid "Marble"
+msgstr "大理石"
+
+msgid "Mask File"
+msgstr "掩码文件"
+
+msgid "Mask value"
+msgstr "掩码值"
+
+msgid "Material Properties"
+msgstr "材料属性"
+
+msgid "Matrix"
+msgstr "矩阵"
+
+msgid "Max (x+d, -)"
+msgstr "Max (x+d, -)"
+
+msgid "Max (x+d, -), (0.5 < x)"
+msgstr "Max (x+d, -), (0.5 < x)"
+
+msgid "Max (x+d, -), (x < 0.5)"
+msgstr "Max (x+d, -), (x < 0.5)"
+
+msgid "Max (x, -)"
+msgstr "Max (x, -)"
+
+msgid "Max (x-d, -)"
+msgstr "Max (x-d, -)"
+
+msgid "Max (x-d, -), (0.5 < x)"
+msgstr "Max (x-d, -), (0.5 < x)"
+
+msgid "Max (x-d, -), (x < 0.5)"
+msgstr "Max (x-d, -), (x < 0.5)"
+
+msgid "Max RGB"
+msgstr "RGB 最大化"
+
+msgid "Max undo:"
+msgstr "最大撤消次数："
+
+msgid "Max. memory:"
+msgstr "最大内存："
+
+msgid "Maxim_um RGB..."
+msgstr "最大化 RGB (_U)..."
+
+msgid "Maximum RGB Value"
+msgstr "最大化 RGB 值"
+
+msgid "Maximum height for bumps"
+msgstr "凸起的最大高度"
+
+msgid "Maximum size:"
+msgstr "最大大小："
+
+msgid "Maze"
+msgstr "迷宫"
+
+msgid "Maze Size"
+msgstr "迷宫大小"
+
+msgid "Median"
+msgstr "中值"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Menu Path"
+msgstr "菜单路径"
+
+msgid "Merge imported paths"
+msgstr "合并导入的路径"
+
+msgid "Merging"
+msgstr "合并"
+
+msgid "Microsoft WMF file"
+msgstr "Microsoft WMF 文件"
+
+msgid "Microsoft Windows icon"
+msgstr "Microsoft Windows 图标"
+
+msgid "Middle-Click Inside Preview to Pick \"From Color\""
+msgstr "在预览中点击中键可拾取“从颜色”"
+
+msgid "Midtones:"
+msgstr "中音调："
+
+msgid "Min (x+d, -)"
+msgstr "Min (x+d, -)"
+
+msgid "Min (x+d, -), (0.5 < x)"
+msgstr "Min (x+d, -), (0.5 < x)"
+
+msgid "Min (x+d, -), (x < 0.5)"
+msgstr "Min (x+d, -), (x < 0.5)"
+
+msgid "Min (x, -)"
+msgstr "Min (x, -)"
+
+msgid "Min (x-d, -)"
+msgstr "Min (x-d, -)"
+
+msgid "Min (x-d, -), (0.5 < x)"
+msgstr "Min (x-d, -), (0.5 < x)"
+
+msgid "Min (x-d, -), (x < 0.5)"
+msgstr "Min (x-d, -), (x < 0.5)"
+
+msgid "Minimum size:"
+msgstr "最小大小："
+
+msgid "Mirror the active curve to the other border"
+msgstr "将活动曲线镜像至对边"
+
+msgid "Misc arrange:"
+msgstr "其他处理："
+
+msgid "Mo_dify green channel"
+msgstr "修改绿色通道(_D)"
+
+msgid "Mo_dify saturation channel"
+msgstr "修改饱和度通道(_D)"
+
+msgid "Mod. rate:"
+msgstr "修改率："
+
+msgid "Mod_ify blue channel"
+msgstr "修改蓝色通道(_I)"
+
+msgid "Mod_ify luminosity channel"
+msgstr "修改发光度通道(_I)"
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Mode _1"
+msgstr "模式 _1"
+
+msgid "Mode _2"
+msgstr "模式 _2"
+
+msgid "Modify Curves"
+msgstr "修改曲线"
+
+msgid "Modify image to reduce size when saved as GIF animation"
+msgstr "当保存为 GIF 动画时修改图像以降低图像大小"
+
+msgid "Mor_e opaque"
+msgstr "更多不透明(_E)"
+
+msgid "More Advanced Options"
+msgstr "更多高级选项"
+
+msgid "More Sat:"
+msgstr "更浓："
+
+msgid "More _white (larger value)"
+msgstr "更多白色(亮度大)(_W)"
+
+msgid "More blac_k (smaller value)"
+msgstr "更多黑色(亮度小)(_K)"
+
+msgid "More t_ransparent"
+msgstr "更多透明(_R)"
+
+msgid "Mosaic"
+msgstr "马赛克"
+
+msgid "Motion Blur"
+msgstr "动态模糊"
+
+msgid "Motion blurring"
+msgstr "动态模糊"
+
+msgid "Mouse Pointer"
+msgstr "鼠标指针"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move Area to Bottom"
+msgstr "向下移动画面"
+
+msgid "Move Area to Front"
+msgstr "向前移动画面"
+
+msgid "Move Down"
+msgstr "下移"
+
+msgid "Move Sash"
+msgstr "移动边界"
+
+msgid "Move Selected Objects"
+msgstr "移动选中对象"
+
+msgid "Move To Front"
+msgstr "提到最前"
+
+msgid "Move Up"
+msgstr "上移"
+
+msgid "Move a single point"
+msgstr "移动一个点"
+
+msgid "Move an object"
+msgstr "移动一个对象"
+
+msgid "Move pixels around randomly"
+msgstr "随机向周围移动像素"
+
+msgid "Movement"
+msgstr "移动"
+
+msgid "Multipage PDF export"
+msgstr "输出多页 PDF"
+
+msgid "Multiply gradient (0,1)"
+msgstr "乘以梯度(0,1)"
+
+msgid "Multiply rand. value (0,1)"
+msgstr "乘以随机值(0,1)"
+
+msgid "Multiply rand. value (0,2)"
+msgstr "乘以随机值(0,2)"
+
+msgid "Mutation dist.:"
+msgstr "变化分布："
+
+msgid "Mutation rate:"
+msgstr "变化率："
+
+msgid "My first fractal"
+msgstr "我的第一个分形"
+
+msgid "NL Filter"
+msgstr "非线性滤波"
+
+msgid "N_ormalise"
+msgstr "标准化(_O)"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Neon"
+msgstr "霓虹"
+
+msgid "Neon Detection"
+msgstr "霓虹检测"
+
+msgid "Nested elements (<%s>) are not allowed in this context"
+msgstr "嵌套元素(<%s>)在此上下文中不允许"
+
+msgid "New Gradient Flare"
+msgstr "新建渐变闪光"
+
+msgid "New Seed"
+msgstr "新的种子"
+
+msgid "Newsprin_t..."
+msgstr "报纸(_T)..."
+
+msgid "Newsprint"
+msgstr "报纸"
+
+msgid ""
+"No %s in gimprc:\n"
+"You need to add an entry like\n"
+"(%s \"%s\")\n"
+"to your %s file."
+msgstr ""
+"gimprc 中没有 %s ：\n"
+"您需要增加一项比如\n"
+"(%s \"%s\")\n"
+"到您的 %s 文件。"
+
+msgid "No URL was specified"
+msgstr "没有指定 URL"
+
+msgid "No colors"
+msgstr "无颜色"
+
+msgid "No compression"
+msgstr "无压缩"
+
+msgid "No data captured"
+msgstr "没有取得数据"
+
+msgid "No fill"
+msgstr "无填充"
+
+msgid "No light"
+msgstr "无光源"
+
+msgid "No matches"
+msgstr "无匹配"
+
+msgid "No matches for your query"
+msgstr "您的查询无匹配结果"
+
+msgid "No selection to convert"
+msgstr "没有可供转换的选区"
+
+msgid "No sensible file extension, attempting to load with file magic."
+msgstr "没有可感知的文件扩展名，正在尝试按文件魔数加载。"
+
+msgid "No sensible file extension, saving as compressed XCF."
+msgstr "没有可感知的文件扩展名，另存为压缩的 XCF。"
+
+msgid "No. _down:"
+msgstr "纵向数量(_D)："
+
+msgid "Noise"
+msgstr "噪音"
+
+msgid "Non-square pixels.  Image might look squashed."
+msgstr "像素非正方形。图像看起来可能扁了。"
+
+msgid "Nonlinear swiss army knife filter"
+msgstr "非线性瑞士军刀效果"
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "Normal:"
+msgstr "普通："
+
+msgid "Normalizing"
+msgstr "标准化"
+
+msgid "Not a valid Photoshop document file"
+msgstr "不是有效的 Photoshop 文档"
+
+msgid "Nothing to crop."
+msgstr "没有东西可以剪裁。"
+
+msgid "Number of Colors"
+msgstr "颜色数量"
+
+msgid "Number of M_RU entries (1 - 16):"
+msgstr "最近打开项目(1 - 16)(_R)："
+
+msgid "Number of Segments"
+msgstr "块数"
+
+msgid "Number of Tiles"
+msgstr "方块数量"
+
+msgid "Number of _frames:"
+msgstr "帧数(_F)："
+
+msgid "Number of _undo levels (1 - 99):"
+msgstr "允许撤消次数(1 - 99)(_U)："
+
+msgid "Number of cells:"
+msgstr "单元数量："
+
+msgid "Number of colors:"
+msgstr "颜色数量："
+
+msgid "Number of cycles covering full value range"
+msgstr "覆盖整个亮度范围的周期数"
+
+msgid "Number of pieces going across"
+msgstr "横向方块数量"
+
+msgid "Number of pieces going down"
+msgstr "纵向方块数量"
+
+msgid "Number of times to apply filter"
+msgstr "应用滤镜的次数"
+
+msgid "Number of unique colors: %d"
+msgstr "颜色数量：%d"
+
+msgid "Numbering"
+msgstr "计数"
+
+msgid "O_ffset:"
+msgstr "位移(_F)："
+
+msgid "O_nly foreground"
+msgstr "只对前景色(_N)"
+
+msgid "O_pacity:"
+msgstr "不透明度(_P)："
+
+msgid "O_ptions"
+msgstr "选项(_P)"
+
+msgid "O_rientation"
+msgstr "方向(_R)"
+
+msgid "O_thers"
+msgstr "其它(_T)"
+
+msgid "O_utput LPI:"
+msgstr "输出 LPI(_U)："
+
+msgid "O_utput channel:"
+msgstr "输出通道(_U)："
+
+msgid "O_verlap:"
+msgstr "重叠(_V)："
+
+msgid "O_verlay"
+msgstr "覆盖(_V)"
+
+msgid "O_versample:"
+msgstr "过采样(_V)："
+
+msgid "Object Details"
+msgstr "对象细节"
+
+msgid "Object X position in XYZ space"
+msgstr "物体在 XYZ 空间的 X 坐标位置"
+
+msgid "Object Y position in XYZ space"
+msgstr "物体在 XYZ 空间的 Y 坐标位置"
+
+msgid "Object Z position in XYZ space"
+msgstr "物体在 XYZ 空间的 Z 坐标位置"
+
+msgid "Octagons & squares"
+msgstr "八边形和方块"
+
+msgid "Off_set:"
+msgstr "位移(_S)："
+
+msgid "Offset _angle:"
+msgstr "偏移角度(_A)："
+
+msgid "Offset all vectors with a given angle"
+msgstr "所有的向量偏移一个指定的角度"
+
+msgid "Offset:"
+msgstr "位移："
+
+msgid "Oil painting"
+msgstr "油画"
+
+msgid "Oili_fy..."
+msgstr "油画(_F)..."
+
+msgid "Oilify"
+msgstr "油画"
+
+msgid "Omit hidden layers and layers with zero opacity"
+msgstr "忽略隐藏层和透明层"
+
+msgid "On edges:"
+msgstr "在边缘处："
+
+msgid "On film:"
+msgstr "放入胶卷中："
+
+msgid "One frame per layer (replace)"
+msgstr "每图层一帧(替换)"
+
+msgid "Only b_ackground"
+msgstr "只对背景色(_A)"
+
+msgid "Only one unique color"
+msgstr "只有一种颜色"
+
+msgid "Op_acity:"
+msgstr "不透明度(_A)："
+
+msgid "Op_timal estimation"
+msgstr "最优估计(_T)"
+
+msgid "Op_tions"
+msgstr "选项(_T)"
+
+msgid "Opacity:"
+msgstr "不透明度："
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open File"
+msgstr "打开文件"
+
+msgid "Open IFS Fractal file"
+msgstr "打开 IFS 分形文件"
+
+msgid "Open as"
+msgstr "打开为"
+
+msgid "Open failed"
+msgstr "打开失败"
+
+msgid "Opening '%s'"
+msgstr "打开“%s”"
+
+msgid "Opening '%s' (frame %d)"
+msgstr "打开“%s”(第%d帧)"
+
+msgid "Opening '%s' for reading resulted in %s response code: %ld"
+msgstr "打开 '%s' 读取导致 %s 响应代码： %ld"
+
+msgid "Opening URI"
+msgstr "打开 URI"
+
+msgid "Opening thumbnail for '%s'"
+msgstr "打开“%s”的缩略图"
+
+msgid "Opens up the Orientation Map Editor"
+msgstr "打开方向分布编辑器"
+
+msgid "Opens up the Size Map Editor"
+msgstr "打开尺寸分布编辑器"
+
+msgid "Optimize"
+msgstr "优化"
+
+msgid "Optimize (for _GIF)"
+msgstr "优化(对 GIF)(_G)"
+
+msgid "Optimizing animation"
+msgstr "优化动画"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Or_ientation"
+msgstr "方向(_I)"
+
+msgid "Or_igin:"
+msgstr "原始(_I)"
+
+msgid "Orientation"
+msgstr "方向"
+
+msgid "Orientation Map Editor"
+msgstr "方向分布编辑器"
+
+msgid "Orientation:"
+msgstr "方向："
+
+msgid "Origin"
+msgstr "原点"
+
+msgid "Original"
+msgstr "原始"
+
+msgid "Original intensity"
+msgstr "原始亮度"
+
+msgid "Original:"
+msgstr "原始："
+
+msgid "Ot_her"
+msgstr "其它(_H)"
+
+msgid "Other Options"
+msgstr "其它选项"
+
+msgid "Output"
+msgstr "输出"
+
+msgid "Output levels:"
+msgstr "输出色阶："
+
+msgid "Outside Type"
+msgstr "外部类型"
+
+msgid "Overlay"
+msgstr "覆盖"
+
+msgid "P(ower factor):"
+msgstr "P (幂因子)："
+
+msgid "PBM image"
+msgstr "PBM 图像"
+
+msgid "PDF document"
+msgstr "PDF 文档"
+
+msgid "PGM image"
+msgstr "PGM 图像"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "PNG + delta PNG"
+msgstr "PNG + Delta PNG"
+
+msgid "PNG compression level:"
+msgstr "PNG 压缩等级："
+
+msgid "PNG image"
+msgstr "PNG 图像"
+
+msgid "PNM"
+msgstr "PNM"
+
+msgid "PNM Image"
+msgstr "PNM 图像"
+
+msgid "PNM image"
+msgstr "PNM 图像"
+
+msgid "PPM image"
+msgstr "PPM 图像"
+
+msgid "PS Diamond"
+msgstr "PS 菱形"
+
+msgid "PS Square (Euclidean Dot)"
+msgstr "PS 方块(欧几里得点)"
+
+msgid "PSP"
+msgstr "PSP"
+
+msgid "P_aper"
+msgstr "画纸(_A)"
+
+msgid "P_olar Coordinates..."
+msgstr "极坐标(_O)..."
+
+msgid "P_review"
+msgstr "预览(_R)"
+
+msgid "Page %d"
+msgstr "第 %d 页"
+
+msgid "Page Curl"
+msgstr "页面卷曲"
+
+msgid "Page Set_up"
+msgstr "页面设置(_U)"
+
+msgid "Pagecurl Effect"
+msgstr "页面卷曲效果"
+
+msgid "Pages to load (e.g.: 1-4 or 1,3,5-7)"
+msgstr "加载页码(例如：1-4 或者 1,3,5-7)"
+
+msgid "Pages:"
+msgstr "页数："
+
+msgid "Paint Shop Pro image"
+msgstr "Paint Shop Pro 图像"
+
+msgid "Paint edges"
+msgstr "涂画边缘"
+
+msgid "Paint mode:"
+msgstr "绘画模式："
+
+msgid "Painting"
+msgstr "绘制"
+
+msgid "Pal_ette File:"
+msgstr "色板文件(_E)："
+
+msgid "Palette"
+msgstr "色板"
+
+msgid "Palette Map"
+msgstr "色板映射"
+
+msgid "Paper Tile"
+msgstr "纸片平铺"
+
+msgid "Parameter k:"
+msgstr "参数 k："
+
+msgid "Parameters"
+msgstr "参数"
+
+msgid "Parameters were saved to '%s'"
+msgstr "参数已保存至“%s”"
+
+msgid ""
+"Parse error in '%s':\n"
+"%s"
+msgstr ""
+"解析“%s”出错：\n"
+"%s"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Pattern"
+msgstr "图案"
+
+msgid "Pattern fill"
+msgstr "图案填充"
+
+msgid "Percent _black:"
+msgstr "黑色百分比(_B)："
+
+msgid "Percent _white:"
+msgstr "白色百分比(_W)："
+
+msgid "Percentage of pixels to be filtered"
+msgstr "将被过滤的像素的比率"
+
+msgid "Performs various artistic operations"
+msgstr "执行多种艺术化操作"
+
+msgid "Perhaps you are missing GIO backends and need to install GVFS?"
+msgstr "可能您丢失了 GIO 后端而需要安装 GVFS？"
+
+msgid "Phase _shift:"
+msgstr "相移(_S)："
+
+msgid "Phase angle, range 0-360"
+msgstr "相位角，范围 0-360"
+
+msgid "Phong"
+msgstr "光照模型 (Phong)"
+
+msgid "Photocopy"
+msgstr "影印"
+
+msgid "Photoshop image"
+msgstr "Photoshop 图像"
+
+msgid "Pieces:"
+msgstr "块数："
+
+msgid "Ping pong"
+msgstr "乒乓"
+
+msgid "Pixel _height:"
+msgstr "像素高度(_H)："
+
+msgid "Pixel _width:"
+msgstr "像素宽度(_W)："
+
+msgid "Pixel value scaling"
+msgstr "像素值缩放"
+
+msgid "Pixelize"
+msgstr "像素化"
+
+msgid "Pixelizing"
+msgstr "像素化"
+
+msgid "Pixels"
+msgstr "像素"
+
+msgid ""
+"Pixels in the foreground color will appear black in all output images.  This"
+" can be used for things like crop marks that have to show up on all "
+"channels."
+msgstr "像素为前景色的将在所有输出图像中呈现黑色。这可被用于一些情形比如裁切会在所有频道中露出的标记。"
+
+msgid "Pl_acement"
+msgstr "放置(_A)"
+
+msgid "Place strokes randomly around the image"
+msgstr "笔划在图像中随机放置"
+
+msgid "Placement"
+msgstr "放置"
+
+msgid "Planar (RRR,GGG,BBB)"
+msgstr "平面(RRR，GGG，BBB)"
+
+msgid "Planar RGB"
+msgstr "平面 RGB"
+
+msgid "Plane"
+msgstr "平面"
+
+msgid "Plasma"
+msgstr "五彩缤纷(Plasma)"
+
+msgid "Playback speed"
+msgstr "回放速度"
+
+msgid "Please fill in all text fields."
+msgstr "请填写所有的文字区域。"
+
+msgid ""
+"Please make sure gimp-help-en is installed, or the appropriate gimp-help "
+"package for your language."
+msgstr "请确认安装了 gimp-help-en 或您的语言对应的 gimp-help 软件包。"
+
+msgid "Plot a Graph of the Settings"
+msgstr "绘画此设置的图线"
+
+msgid "Plug-In Browser"
+msgstr "插件浏览器"
+
+msgid "Plural"
+msgstr "复数"
+
+msgid "Po_larization:"
+msgstr "偏振(_L)："
+
+msgid "Point"
+msgstr "点"
+
+msgid "Point light"
+msgstr "点光源"
+
+msgid "Polar"
+msgstr "极线"
+
+msgid "Polar Coordinates"
+msgstr "极坐标"
+
+msgid "Polar coordinates"
+msgstr "极坐标"
+
+msgid "Polar grid radius interval:"
+msgstr "极坐标网格角度间隔："
+
+msgid "Polar grid sectors desired:"
+msgstr "需要的极坐标网格分段数："
+
+msgid "Polygon"
+msgstr "多边形"
+
+msgid "Popcorn"
+msgstr "爆米花"
+
+msgid "Portable Document Format"
+msgstr "便携式文档格式"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Position X:"
+msgstr "位置 X："
+
+msgid "Position Y:"
+msgstr "位置 Y："
+
+msgid "Position Z:"
+msgstr "位置 Z："
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "PostScript document"
+msgstr "PostScript 文档"
+
+msgid "PostScript save cannot handle images with alpha channels"
+msgstr "PostScript 保存无法处理带有 Alpha 通道的图像"
+
+msgid "Power"
+msgstr "幂值"
+
+msgid "Pre_view"
+msgstr "预览(_V)"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Premature end of file."
+msgstr "过早的文件结尾。"
+
+msgid "Preserve _luminosity"
+msgstr "保持亮度(_L)"
+
+msgid "Preserve the original image as a background"
+msgstr "保留原始的图像作为背景"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Preview Size"
+msgstr "预览大小"
+
+msgid "Preview _size:"
+msgstr "预览大小(_S)："
+
+msgid "Preview a GIMP layer-based animation"
+msgstr "预览一个基于 GIMP 图层的动画"
+
+msgid "Prewitt compass"
+msgstr "Prewitt 罗盘"
+
+msgid "Prim's algorithm"
+msgstr "Prim 的算法"
+
+msgid "Print the image"
+msgstr "打印图像"
+
+msgid "Printing"
+msgstr "打印"
+
+msgid "Probability gradient:"
+msgstr "可能性渐变："
+
+msgid "Procedure Browser"
+msgstr "过程浏览器"
+
+msgid "Procedure _Browser"
+msgstr "过程浏览器(_B)"
+
+msgid "Produce a lense flare effect using gradients"
+msgstr "用渐变产生一个镜头光晕效果"
+
+msgid "Propagate"
+msgstr "繁殖"
+
+msgid "Propagate certain colors to neighboring pixels"
+msgstr "繁殖特定颜色到相邻像素"
+
+msgid "Propagating _alpha channel"
+msgstr "繁殖 Alpha 通道(_A)"
+
+msgid "Propagating value channel"
+msgstr "繁殖值通道"
+
+msgid "Propert_ies"
+msgstr "属性(_I)"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Property"
+msgstr "属性"
+
+msgid "Qbist"
+msgstr "Qbist"
+
+msgid "Quality:"
+msgstr "质量："
+
+msgid "R, G, B (normal)"
+msgstr "R，G，B(普通)"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "RGB Alpha"
+msgstr "RGB Alpha"
+
+msgid "RGB Noise"
+msgstr "RGB 噪音"
+
+msgid "RGB Save Type"
+msgstr "RGB 保存类型"
+
+msgid "RGB workspace (%s)"
+msgstr "RGB 工作空间(%s)"
+
+msgid "RGB565"
+msgstr "RGB565"
+
+msgid "RGBA"
+msgstr "RGBA"
+
+msgid "RGBA/GRAYA drawable is not selected."
+msgstr "没有选中 RGBA/GRAYA 图像。"
+
+msgid "RLE"
+msgstr "RLE"
+
+msgid "RLE compression"
+msgstr "RLE 压缩"
+
+msgid "R_adius 2:"
+msgstr "半径 2(_A)："
+
+msgid "R_adius:"
+msgstr "半径(_A)："
+
+msgid "R_andom hue:"
+msgstr "随机色调(_A)："
+
+msgid "R_andom seed:"
+msgstr "随机数种子(_A)："
+
+msgid "R_andomization (%):"
+msgstr "随机度(_A)(%)："
+
+msgid "R_earrange Colormap..."
+msgstr "重新整理颜色表(_E)..."
+
+msgid "R_ecompose"
+msgstr "重新组合(_E)"
+
+msgid "R_ecursive"
+msgstr "递归(_E)"
+
+msgid "R_ed"
+msgstr "红色(_E)"
+
+msgid "R_ed threshold:"
+msgstr "红色阈值(_E)："
+
+msgid "R_edraw preview"
+msgstr "重画预览(_E)"
+
+msgid "R_epeat:"
+msgstr "重复(_E)："
+
+msgid "R_everse"
+msgstr "反向(_E)"
+
+msgid "Radial"
+msgstr "转向"
+
+msgid "Radial gradient:"
+msgstr "径向渐变："
+
+msgid "Radians"
+msgstr "弧度"
+
+msgid "Radians/Pi"
+msgstr "弧度/Pi"
+
+msgid "Radius"
+msgstr "极距"
+
+msgid "Radius:"
+msgstr "半径："
+
+msgid "Raise selected object"
+msgstr "升高选中对象"
+
+msgid "Raise selected object to top"
+msgstr "将选中对象升至顶端"
+
+msgid "Rando_m saturation:"
+msgstr "随机饱和度(_M)："
+
+msgid "Random"
+msgstr "随机"
+
+msgid "Random Hurl"
+msgstr "随机撒 (Hurl)"
+
+msgid "Random Pick"
+msgstr "随机拣 (Pick)"
+
+msgid "Random Seed"
+msgstr "随机数种子"
+
+msgid "Random Slur"
+msgstr "随机糊 (Slur)"
+
+msgid "Random _seed:"
+msgstr "随机数种子(_S)："
+
+msgid "Random seed:"
+msgstr "随机数种子："
+
+msgid "Random shared"
+msgstr "共享随机"
+
+msgid "Random, ch. independent"
+msgstr "随机，各通道独立"
+
+msgid "Randomize hue/saturation/value independently"
+msgstr "分别随机化色调/饱和度/明度"
+
+msgid "Randomly"
+msgstr "随机"
+
+msgid "Randomly interchange some pixels with neighbors"
+msgstr "随机互换一些相邻像素"
+
+msgid "Randomly slide some pixels downward (similar to melting)"
+msgstr "随机令一些像素下滑(类似于融化)"
+
+msgid "Randoms from seed"
+msgstr "源自种子的随机数"
+
+msgid "Randoms from seed (shared)"
+msgstr "源自种子的随机数(共享)"
+
+msgid "Range high:"
+msgstr "高范围："
+
+msgid "Range low:"
+msgstr "低范围："
+
+msgid "Ranks:"
+msgstr "分级："
+
+msgid "Raw"
+msgstr "原始"
+
+msgid "Raw Image"
+msgstr "Raw 图像"
+
+msgid "Raw image data"
+msgstr "原始图像数据"
+
+msgid "Rays Paint Options"
+msgstr "射线绘画选项"
+
+msgid "Re_center"
+msgstr "居中(_C)"
+
+msgid "Re_d"
+msgstr "红色(_D)"
+
+msgid "Reads the selected Preset into memory"
+msgstr "读入选中的预设到内存"
+
+msgid "Realtime preview"
+msgstr "实时预览"
+
+msgid "Rearrange Colormap"
+msgstr "重新整理颜色表"
+
+msgid "Rearrange the colormap"
+msgstr "重新整理颜色表"
+
+msgid "Rearranging the colormap"
+msgstr "重新整理颜色表"
+
+msgid "Recolor the image using colors from the active gradient"
+msgstr "使用当前渐变中的颜色给图像重新着色"
+
+msgid "Recolor the image using colors from the active palette"
+msgstr "使用当前色板中的颜色给图像重新着色"
+
+msgid "Recompose an image that was previously decomposed"
+msgstr "重新组合之前被分解的图像"
+
+msgid "Recompute Center"
+msgstr "重新计算中心"
+
+msgid "Recompute preview image"
+msgstr "重新计算预览图像"
+
+msgid "Rectangle"
+msgstr "矩形"
+
+msgid "Red"
+msgstr "红色"
+
+msgid "Red Eye Removal"
+msgstr "去除红眼"
+
+msgid "Red _frequency:"
+msgstr "红色频率(_F)："
+
+msgid "Red _phaseshift:"
+msgstr "红色相移(_P)："
+
+msgid "Red:"
+msgstr "红色："
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Redo last zoom change"
+msgstr "重做上次缩放变化"
+
+msgid "Reduce _Luminance"
+msgstr "降低亮度(_L)"
+
+msgid "Reduce _Saturation"
+msgstr "降低饱和度(_S)"
+
+msgid "Reduce file size where combining layers is possible"
+msgstr "在可能合并图层处降低文件大小"
+
+msgid "Reduce image to pure red, green, and blue"
+msgstr "使图像变为纯粹的红、绿、蓝"
+
+msgid "Reflectivity"
+msgstr "反射率"
+
+msgid "Refresh the Preview window"
+msgstr "刷新预览窗口"
+
+msgid "Region affected by plug-in is empty"
+msgstr "插件所影响的范围为空"
+
+msgid "Region selected for filter is empty"
+msgstr "为滤镜选中的范围是空的"
+
+msgid "Region selected for filter is empty."
+msgstr "用于滤镜的选中区域是空的。"
+
+msgid "Region selected for plug-in is empty"
+msgstr "为插件选中的范围是空的"
+
+msgid "Regular Polygon Number of Sides"
+msgstr "正多边形的边的数量"
+
+msgid "Relati_ve link"
+msgstr "相对连接(_V)"
+
+msgid "Relative probability:"
+msgstr "相对概率："
+
+msgid "Released under the GNU General Public License"
+msgstr "在 GNU 通用公共许可证下发布"
+
+msgid "Relief:"
+msgstr "浮雕："
+
+msgid "Reload current page"
+msgstr "重新载入当前页"
+
+msgid "Remap colorized"
+msgstr "重新映射彩色"
+
+msgid "Remo_ve"
+msgstr "删除(_V)"
+
+msgid "Remove empty borders from the image"
+msgstr "移除图像的空的边缘"
+
+msgid "Remove empty borders from the layer"
+msgstr "移除图层中空的边缘"
+
+msgid "Remove optimization to make editing easier"
+msgstr "移除优化以便更容易地编辑"
+
+msgid "Remove speckle noise from the image"
+msgstr "移除图像中的斑纹噪点"
+
+msgid ""
+"Remove the empty borders of all frames.\n"
+"This reduces the file size and may fix the problem that some large cursors disorder the screen.\n"
+"Uncheck if you plan to edit the exported cursor using other programs."
+msgstr ""
+"移除所有帧的空白边框。\n"
+"这将减小文件的尺寸并可能修复一些大的光标扰乱屏幕的问题。\n"
+"如果您打算在其他程序中编辑导出的光标则不要选取。"
+
+msgid "Remove the red eye effect caused by camera flashes"
+msgstr "移除相机闪光导致的红眼效应"
+
+msgid "Remove the selected pages"
+msgstr "移除选中的页面"
+
+msgid "Remove vertical stripe artifacts from the image"
+msgstr "从图像中移除垂直条纹文物"
+
+msgid "Removing animation background"
+msgstr "去除动画背景"
+
+msgid "Removing color"
+msgstr "删除颜色"
+
+msgid "Removing red eye"
+msgstr "去除红眼"
+
+msgid "Render Options"
+msgstr "渲染选项"
+
+msgid "Render Scalable Vector Graphics"
+msgstr "渲染可缩放向量图形"
+
+msgid "Render Windows Metafile"
+msgstr "渲染 Windows 图元文件"
+
+msgid "Render fractal art"
+msgstr "渲染分形艺术"
+
+msgid "Render lens flare"
+msgstr "渲染镜头光晕"
+
+msgid "Rendered SVG"
+msgstr "已渲染的 SVG"
+
+msgid "Rendered WMF"
+msgstr "已渲染的 WMF"
+
+msgid "Rendering"
+msgstr "渲染"
+
+msgid "Rendering IFS (%d/%d)"
+msgstr "渲染 IFS (%d/%d)"
+
+msgid "Rendering SVG"
+msgstr "渲染 SVG"
+
+msgid "Rendering blast"
+msgstr "渲染劲风"
+
+msgid "Rendering fractal"
+msgstr "渲染分形"
+
+msgid "Rendering sphere"
+msgstr "绘制球面"
+
+msgid "Rendering supernova"
+msgstr "渲染超新星"
+
+msgid "Rendering tiles"
+msgstr "渲染瓦片"
+
+msgid "Rendering wind"
+msgstr "渲染风"
+
+msgid "Replace"
+msgstr "替换"
+
+msgid "Replace a range of colors with another"
+msgstr "将一个颜色范围替换为另一个"
+
+msgid "Replace all colors with shades of a specified color"
+msgstr "用指定颜色的不同深浅度替代所有颜色"
+
+msgid "Replace partial transparency with the current background color"
+msgstr "以当前背景色部分替换透明度"
+
+msgid "Replacement for undefined pixels"
+msgstr "对于未定义像素的置换"
+
+msgid "Required attribute rdf:about missing in <%s>"
+msgstr "<%s>中需要的属性 rdf:about 丢失"
+
+msgid "Reread the folder of Presets"
+msgstr "重新读入预设文件夹"
+
+msgid "Rescan Gradients"
+msgstr "重新扫描渐变"
+
+msgid "Rescan for Fractals"
+msgstr "重新查找分形"
+
+msgid "Reset Order"
+msgstr "重置顺序"
+
+msgid "Reset parameters to default values"
+msgstr "重置参数到默认值"
+
+msgid "Reset speed"
+msgstr "重置速度"
+
+msgid "Reset the active curve"
+msgstr "重置活动曲线"
+
+msgid "Reset the speed of the animation"
+msgstr "重置动画速度"
+
+msgid "Resize area's?"
+msgstr "重置区域大小吗？"
+
+msgid "Resolution"
+msgstr "分辨率"
+
+msgid "Resolution:"
+msgstr "分辨率："
+
+msgid "Resulting Guide Bounds: %d,%d to %d,%d (%d areas)"
+msgstr "结果参考线范围：%d,%d 到 %d,%d (%d 个区域)"
+
+msgid "Resulting Guide Bounds: 0,0 to 0,0 (0 areas)"
+msgstr "结果参考线范围：0,0 到 0,0 (0 个区域)"
+
+msgid "Retine_x..."
+msgstr "Retine_x..."
+
+msgid "Retinex"
+msgstr "Retinex"
+
+msgid "Retinex Image Enhancement"
+msgstr "Retinex 图像增强"
+
+msgid "Retinex: filtering"
+msgstr "Retinex：过滤"
+
+msgid "Reverse Order"
+msgstr "逆序"
+
+msgid "Revert to the original image"
+msgstr "恢复到原始图像"
+
+msgid "Rewind the animation"
+msgstr "快退动画"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Right border out of bounds (must be < %d): %d"
+msgstr "右边框超出边界(须 < %d)：%d"
+
+msgid "Right edge"
+msgstr "右边界"
+
+msgid "Right:"
+msgstr "右："
+
+msgid "Rings"
+msgstr "圆环"
+
+msgid "Ripple"
+msgstr "波纹"
+
+msgid "Rippling"
+msgstr "波纹"
+
+msgid "Ro_tation:"
+msgstr "旋转(_T)："
+
+msgid "Ro_w:"
+msgstr "行(_W)："
+
+msgid "Roberts"
+msgstr "Roberts"
+
+msgid "Rotat_e:"
+msgstr "旋转(_E)："
+
+msgid "Rotate"
+msgstr "旋转"
+
+msgid "Rotate / Scale"
+msgstr "旋转/缩放"
+
+msgid "Rotate Colors"
+msgstr "旋转颜色"
+
+msgid "Rotate Image?"
+msgstr "旋转图像？"
+
+msgid "Rotate X:"
+msgstr "旋转 X："
+
+msgid "Rotate Y:"
+msgstr "旋转 Y："
+
+msgid "Rotate Z:"
+msgstr "旋转 Z："
+
+msgid "Rotated"
+msgstr "旋转后"
+
+msgid "Rotating"
+msgstr "旋转"
+
+msgid "Rotating the colors"
+msgstr "旋转颜色"
+
+msgid "Rotation"
+msgstr "旋转"
+
+msgid "Rotation angle about X axis"
+msgstr "绕 X 轴旋转的角度"
+
+msgid "Rotation angle about Y axis"
+msgstr "绕 Y 轴旋转的角度"
+
+msgid "Rotation angle about Z axis"
+msgstr "绕 Z 轴旋转的角度"
+
+msgid "Rotation angle:"
+msgstr "旋转角度："
+
+msgid "Rotation:"
+msgstr "旋转："
+
+msgid "Roughness"
+msgstr "力度"
+
+msgid "Round"
+msgstr "球形"
+
+msgid "RunLength Encoded"
+msgstr "行程长度编码"
+
+msgid "SGI"
+msgstr "SGI"
+
+msgid "SUN Rasterfile image"
+msgstr "SUN Rasterfile 图像"
+
+msgid "SUNRAS"
+msgstr "SUNRAS"
+
+msgid "SUNRAS save cannot handle images with alpha channels"
+msgstr "SUNRAS 保存无法处理带 Alpha 通道的图像"
+
+msgid ""
+"SVG file does not\n"
+"specify a size!"
+msgstr ""
+"SVG 文件没有\n"
+"指定大小！"
+
+msgid "SVG image"
+msgstr "SVG 图像"
+
+msgid "S_ave Defaults"
+msgstr "保存默认值(_A)"
+
+msgid "S_econd color:"
+msgstr "第二种颜色(_E)："
+
+msgid "S_elect here:"
+msgstr "在此选择(_E)："
+
+msgid "S_elector"
+msgstr "选择器(_E)"
+
+msgid "S_how Index"
+msgstr "显示索引(_H)"
+
+msgid "S_hrink"
+msgstr "收缩(_H)"
+
+msgid "S_ine"
+msgstr "正弦(_I)"
+
+msgid "S_moothing:"
+msgstr "平滑(_M)："
+
+msgid "S_nap"
+msgstr "捕捉(_N)"
+
+msgid "S_trength exp.:"
+msgstr "强度指数(_T)："
+
+msgid "S_trength:"
+msgstr "强度(_T)："
+
+msgid "S_triped"
+msgstr "条纹(_T)"
+
+msgid "S_ubject:"
+msgstr "主题(_U)："
+
+msgid "S_wap"
+msgstr "交换(_W)"
+
+msgid "S_wirl CCW"
+msgstr "逆时针涡漩(_W)"
+
+msgid "Sa_ve Defaults"
+msgstr "保存默认值(_V)"
+
+msgid "Sa_ve alpha channel (RGBA/RGB)"
+msgstr "保存 Alpha 通道(RGBA/RGB)(_V)"
+
+msgid "Same"
+msgstr "相同"
+
+msgid "Sample Colorize"
+msgstr "样本着色"
+
+msgid "Sample _density:"
+msgstr "色样密度(_D)："
+
+msgid "Sample analyze"
+msgstr "样品分析"
+
+msgid "Sample:"
+msgstr "样本："
+
+msgid "Samples the color from the pixel in the center of the brush"
+msgstr "颜色取画笔的中心位置的像素值"
+
+msgid "Sat_uration"
+msgstr "饱和度(_U)"
+
+msgid "Satu_ration"
+msgstr "饱和度(_R)"
+
+msgid "Saturation"
+msgstr "饱和度"
+
+msgid "Saturation (HSL)"
+msgstr "饱和度 (HSL)"
+
+msgid "Saturation Variations"
+msgstr "饱和度变化"
+
+msgid "Saturation fr_equency:"
+msgstr "饱和度频率(_E)："
+
+msgid "Saturation ph_aseshift:"
+msgstr "饱和度相移(_A)："
+
+msgid "Saturation:"
+msgstr "饱和度："
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save Brush"
+msgstr "保存画笔"
+
+msgid "Save CML Explorer Parameters"
+msgstr "保存 CML 探索器参数"
+
+msgid "Save Channel Mixer Settings"
+msgstr "保存通道混合器设置"
+
+msgid "Save Current"
+msgstr "保存当前值"
+
+msgid "Save Current..."
+msgstr "保存当前值..."
+
+msgid "Save Curve Points to File"
+msgstr "将曲线的点保存到文件中"
+
+msgid "Save File"
+msgstr "保存文件"
+
+msgid "Save Flame"
+msgstr "保存火焰"
+
+msgid "Save Fractal Parameters"
+msgstr "保存分形参数"
+
+msgid "Save Gfig Drawing"
+msgstr "保存几何图形"
+
+msgid "Save Image Map"
+msgstr "保存图像映像"
+
+msgid "Save Lighting Preset"
+msgstr "保存光照预设"
+
+msgid "Save _As..."
+msgstr "另存为(_A)..."
+
+msgid "Save _EXIF data"
+msgstr "保存 _EXIF 数据"
+
+msgid "Save _XMP data"
+msgstr "保存 _XMP 数据"
+
+msgid "Save _background color"
+msgstr "保存背景色(_B)"
+
+msgid "Save _color values from transparent pixels"
+msgstr "保存透明像素的颜色值(_C)"
+
+msgid "Save _resolution"
+msgstr "保存分辨率(_R)"
+
+msgid "Save _thumbnail"
+msgstr "保存缩略图(_T)"
+
+msgid "Save active fractal to file"
+msgstr "保存分形到文件"
+
+msgid "Save as IFS Fractal file"
+msgstr "另存为 IFS 分形文件"
+
+msgid "Save as QBE File"
+msgstr "保存为 QBE 文件"
+
+msgid "Save as _RGB565 (16-bit)"
+msgstr "另存为 _RGB565 (16 位)"
+
+msgid "Save background color"
+msgstr "保存背景颜色"
+
+msgid "Save color _values from transparent pixels"
+msgstr "保存透明像素的颜色值(_V)"
+
+msgid "Save comme_nt"
+msgstr "保存注释(_N)"
+
+msgid "Save creation _time"
+msgstr "保存创建时间(_T)"
+
+msgid "Save creation time"
+msgstr "保存创建时间"
+
+msgid "Save failed"
+msgstr "保存失败"
+
+msgid "Save gamma"
+msgstr "保存 Gamma"
+
+msgid "Save layer o_ffset"
+msgstr "保存图层位移(_F)"
+
+msgid "Save resolution"
+msgstr "保存分辨率"
+
+msgid "Save the current settings to the specified file"
+msgstr "保存当前的设定到指定文件"
+
+msgid "Save the curves to a file"
+msgstr "将曲线保存到文件"
+
+msgid "Save to:"
+msgstr "保存到："
+
+msgid "Saved"
+msgstr "保存"
+
+msgid "Saving '%s'"
+msgstr "保存“%s”"
+
+msgid "Saw_tooth"
+msgstr "锯齿(_T)"
+
+msgid "Sc_ale 1:"
+msgstr "缩放 1(_A)："
+
+msgid "Sc_attering:"
+msgstr "散射(_A)："
+
+msgid "Sca_le 2:"
+msgstr "缩放 2(_L)："
+
+msgid "Scale X:"
+msgstr "缩放 X："
+
+msgid "Scale Y:"
+msgstr "缩放 Y："
+
+msgid "Scale Z:"
+msgstr "缩放 Z："
+
+msgid "Scale _division:"
+msgstr "尺度分格(_D)："
+
+msgid "Scale hue by:"
+msgstr "色调缩放："
+
+msgid "Scale value by:"
+msgstr "亮度缩放："
+
+msgid "Scale:"
+msgstr "缩放："
+
+msgid "Screen"
+msgstr "屏幕"
+
+msgid "Screenshot"
+msgstr "屏幕截图"
+
+msgid "Se_lection only"
+msgstr "仅选区(_L)"
+
+msgid "Searching by name"
+msgstr "按名称搜索"
+
+msgid "Second Flares Paint Options"
+msgstr "二次闪光绘画选项"
+
+msgid "Second color"
+msgstr "第二种颜色"
+
+msgid "Seconds delay"
+msgstr "秒"
+
+msgid "Seed of Random (only for \"From Seed\" Modes)"
+msgstr "随机数种子(只用于“源自种子”模式)"
+
+msgid "Seed:"
+msgstr "种子："
+
+msgid "Selec_tion in context"
+msgstr "选区周围(_T)"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select All"
+msgstr "全部选择"
+
+msgid "Select Color"
+msgstr "选择颜色"
+
+msgid "Select Film Color"
+msgstr "选择胶卷颜色"
+
+msgid "Select HTML file"
+msgstr "选择 HTML 文件"
+
+msgid "Select Image File"
+msgstr "选择图像文件"
+
+msgid "Select Next"
+msgstr "选择下一个"
+
+msgid "Select Number Color"
+msgstr "选择数字的颜色"
+
+msgid "Select Palette File"
+msgstr "选择调色板文件"
+
+msgid "Select Pixels By"
+msgstr "像素选择方式"
+
+msgid "Select Previous"
+msgstr "选择上一个"
+
+msgid "Select Region"
+msgstr "选择区域"
+
+msgid "Select _All"
+msgstr "全选(_A)"
+
+msgid "Select a _region to grab"
+msgstr "选择要截取的区域(_R)"
+
+msgid "Select an object"
+msgstr "选择一个对象"
+
+msgid "Select destination profile"
+msgstr "选择目标配置文件"
+
+msgid "Select existing area"
+msgstr "选择存在的区域"
+
+msgid "Select folder and rescan collection"
+msgstr "选择文件夹并刷新选集"
+
+msgid "Select lightsource color"
+msgstr "选择光源的颜色"
+
+msgid "Select next smvector"
+msgstr "选择后一个尺寸向量"
+
+msgid "Select next vector"
+msgstr "选择后一个向量"
+
+msgid "Select previous smvector"
+msgstr "选择前一个尺寸向量"
+
+msgid "Select previous vector"
+msgstr "选择前一个向量"
+
+msgid "Select:"
+msgstr "选择："
+
+msgid "Selected:"
+msgstr "选中："
+
+msgid "Selection"
+msgstr "选区"
+
+msgid ""
+"Selection size is not even.\n"
+"Tileable maze won't work perfectly."
+msgstr ""
+"选区的大小不是偶数。\n"
+"可平铺迷宫无法很好地工作。"
+
+msgid "Selection to Path"
+msgstr "选区到路径"
+
+msgid "Selection to Path Advanced Settings"
+msgstr "选区到路径高级设置"
+
+msgid "Selective Gaussian Blur"
+msgstr "选择性高斯模糊"
+
+msgid "Selective Load Settings"
+msgstr "选择性加载设置"
+
+msgid "Selects a random direction of each stroke"
+msgstr "每一笔都选择一个随机的方向"
+
+msgid "Selects a random size for each stroke"
+msgstr "每一笔都选择一个随机的大小"
+
+msgid "Selects if the resulting image should be seamlessly tileable"
+msgstr "如果需要结果图像能够无缝平铺，请选中此项"
+
+msgid "Selects if to place strokes all the way out to the edges of the image"
+msgstr "如果选中此项，超出图像边缘的也照样涂画"
+
+msgid "Semi-Flattening"
+msgstr "半平整"
+
+msgid "Send To Back"
+msgstr "推到最后"
+
+msgid "Send by E_mail..."
+msgstr "发送为邮件(_M)..."
+
+msgid "Send by Email"
+msgstr "以邮件发送"
+
+msgid "Send the image by email"
+msgstr "用 email 发送图像"
+
+msgid "Separate to:"
+msgstr "分割到："
+
+msgid "September 31, 1999"
+msgstr "1999年9月31日"
+
+msgid "Set a color profile on the image"
+msgstr "在图像上设置一个色彩配置文件"
+
+msgid "Set foreground to the average color of the image border"
+msgstr "设置前景色为图像边框的平均色"
+
+msgid "Set light source color"
+msgstr "设置光源的颜色"
+
+msgid "Settings for this Mapfile"
+msgstr "当前映像文件设置"
+
+msgid "Several simple methods for detecting edges"
+msgstr "几种简单的检测边缘的方法"
+
+msgid "Sha_dows"
+msgstr "暗调(_D)"
+
+msgid "Shadow blur:"
+msgstr "阴影模糊："
+
+msgid "Shadow darken:"
+msgstr "阴影加深："
+
+msgid "Shadow depth:"
+msgstr "阴影深度："
+
+msgid "Shadows:"
+msgstr "暗调："
+
+msgid "Shape gradient"
+msgstr "形状渐变"
+
+msgid "Shape of Second Flares"
+msgstr "二次闪光的形状"
+
+msgid "Sharp Edges"
+msgstr "尖锐边缘"
+
+msgid "Sharpen"
+msgstr "锐化"
+
+msgid "Sharpening"
+msgstr "锐化"
+
+msgid "Shear:"
+msgstr "切变："
+
+msgid "Shift"
+msgstr "滑移"
+
+msgid "Shift _amount:"
+msgstr "滑移量(_A)："
+
+msgid "Shift _horizontally"
+msgstr "水平滑移(_H)"
+
+msgid "Shift _vertically"
+msgstr "垂直滑移(_V)"
+
+msgid "Shift each row of pixels by a random amount"
+msgstr "随机量偏移每一行像素"
+
+msgid "Shifting"
+msgstr "滑移"
+
+msgid "Sho_w preview in image window"
+msgstr "在图像窗口中显示预览(_W)"
+
+msgid "Should the effect be inversed?"
+msgstr "需要一个反转的效果吗？"
+
+msgid "Should the luminosity be preserved?"
+msgstr "需要保持亮度吗？"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Show Line Frame"
+msgstr "显示直线骨架"
+
+msgid "Show _position"
+msgstr "显示位置(_P)"
+
+msgid "Show _wireframe"
+msgstr "显示框架模式(_W)"
+
+msgid "Show all objects"
+msgstr "显示全部对象"
+
+msgid "Show area URL _tip"
+msgstr "显示区域的 URL 提示(_T)"
+
+msgid "Show area _handles"
+msgstr "显示区域控制块(_H)"
+
+msgid "Show color"
+msgstr "显示颜色"
+
+msgid "Show control points"
+msgstr "隐藏控制点"
+
+msgid "Show grid"
+msgstr "显示网格"
+
+msgid "Show image"
+msgstr "显示图像"
+
+msgid "Show next object"
+msgstr "显示后一个对象"
+
+msgid "Show position"
+msgstr "显示位置"
+
+msgid "Show previous object"
+msgstr "显示前一个对象"
+
+msgid "Show selection"
+msgstr "显示选区"
+
+msgid "Shrink lighter areas of the image"
+msgstr "收缩图像中较亮的区域"
+
+msgid "Si_ngular:"
+msgstr "单数(_N)："
+
+msgid "Sides:"
+msgstr "边数："
+
+msgid "Sierpinski"
+msgstr "Sierpinski"
+
+msgid "Silicon Graphics IRIS image"
+msgstr "Silicon Graphics IRIS 图像"
+
+msgid "Simple"
+msgstr "简单"
+
+msgid "Simple blur, fast but not very strong"
+msgstr "简单快速但并不强力的模糊"
+
+msgid "Simplest, most commonly used way of blurring"
+msgstr "最简单且最常用的模糊方法"
+
+msgid "Simplify image into an array of solid-colored squares"
+msgstr "将图像简化为纯色方块阵列"
+
+msgid "Simulate a cartoon by enhancing edges"
+msgstr "加强边缘模拟卡通效果"
+
+msgid "Simulate an antique engraving"
+msgstr "模拟老式的刻画"
+
+msgid "Simulate an elliptical lens over the image"
+msgstr "在图像上模拟椭圆透镜"
+
+msgid "Simulate an image created by embossing"
+msgstr "模拟浮雕创建图像"
+
+msgid "Simulate an image painted on window blinds"
+msgstr "模拟在百叶窗上绘制的图像"
+
+msgid "Simulate color distortion produced by a copy machine"
+msgstr "模拟由复印机产生的色彩失真"
+
+msgid "Simulate distortion caused by square glass tiles"
+msgstr "模拟方形玻璃碎块导致的扭曲"
+
+msgid "Simulate distortion produced by a fuzzy or low-res monitor"
+msgstr "模拟由模糊或低分辨率显示器产生的失真"
+
+msgid "Simulate glow by making highlights intense and fuzzy"
+msgstr "使高光强烈及模糊化来模拟炽光"
+
+msgid "Simulate movement using directional blur"
+msgstr "使用定向模糊模拟运动"
+
+msgid "Simulate the glowing boundary of a neon light"
+msgstr "模拟霓虹灯的光晕"
+
+msgid "Sin_usoidal"
+msgstr "正弦(_U)"
+
+msgid "Sine"
+msgstr "正弦"
+
+msgid "Singular"
+msgstr "单数"
+
+msgid "Sinus"
+msgstr "正弦"
+
+msgid "Sinus: rendering"
+msgstr "正弦：绘制"
+
+msgid "Sinusoidal"
+msgstr "正弦"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Size (%):"
+msgstr "大小 (%)："
+
+msgid "Size Map Editor"
+msgstr "尺寸分布编辑器"
+
+msgid "Size depends on:"
+msgstr "尺寸依赖于："
+
+msgid "Size factor gradient:"
+msgstr "大小因子渐变："
+
+msgid "Size variants:"
+msgstr "大小变量："
+
+msgid "Slice the image into subimages using guides"
+msgstr "沿参考线切开图像为多幅子图像"
+
+msgid "Slower"
+msgstr "减慢"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Small Tiles"
+msgstr "小块平铺"
+
+msgid "Smear"
+msgstr "涂抹"
+
+msgid "Smear colors to simulate an oil painting"
+msgstr "涂抹颜色以模拟油画"
+
+msgid "Smear image to give windblown effect"
+msgstr "为图像涂抹出风吹效果"
+
+msgid "Smoo_th Palette..."
+msgstr "平滑色板(_T)..."
+
+msgid "Smoo_thing"
+msgstr "平滑(_T)"
+
+msgid "Smoot_h"
+msgstr "平滑(_H)"
+
+msgid "Smooth Palette"
+msgstr "平滑色板"
+
+msgid "Smooth samples"
+msgstr "平滑样品颜色"
+
+msgid "Smoothing Parameters"
+msgstr "平滑参数"
+
+msgid "Smoothing X gradient"
+msgstr "平滑 X 梯度"
+
+msgid "Smoothing Y gradient"
+msgstr "平滑 Y 梯度"
+
+msgid "Smoothing:"
+msgstr "平滑："
+
+msgid "Smvectors"
+msgstr "尺寸向量"
+
+msgid "Snap to grid"
+msgstr "吸附到网格"
+
+msgid "Sobel"
+msgstr "Sobel"
+
+msgid "Sobel Edge Detection"
+msgstr "Sobel 边缘检测"
+
+msgid "Sobel _horizontally"
+msgstr "Sobel 水平(_H)"
+
+msgid "Sobel _vertically"
+msgstr "Sobel 垂直(_V)"
+
+msgid "Sobel edge detecting"
+msgstr "Sobel 边缘检测"
+
+msgid "Softglow"
+msgstr "柔光"
+
+msgid "Solid"
+msgstr "纯色"
+
+msgid "Solid Noise"
+msgstr "纯色噪音"
+
+msgid "Solid colored background"
+msgstr "单一颜色的背景"
+
+msgid ""
+"Some applications can not read BMP images that include color space "
+"information. GIMP writes color space information by default. Enabling this "
+"option will cause GIMP to not write color space information to the file."
+msgstr ""
+"某些应用程序无法读取包含色彩空间信息的 BMP 图像。GIMP 默认写入色彩空间信息。启用此选项将导致 GIMP 不写入色彩空间信息到这个文件。"
+
+msgid "Some data has been changed!"
+msgstr "一些数据已改变！"
+
+msgid "Some error occurred while saving"
+msgstr "保存时出现一些错误"
+
+msgid "Sorry, I can save only INDEXED and GRAY images."
+msgstr "对不起，我只能保存索引和灰度图像。"
+
+msgid "Sorry, channels and masks can not be rotated."
+msgstr "对不起，无法旋转通道和蒙板。"
+
+msgid ""
+"Sorry, this plug-in cannot handle a cursor which contains over %i different "
+"nominal sizes."
+msgstr "抱歉，此插件无法处理包含 %i 种以上不同标称尺寸的光标。"
+
+msgid "Sort on Hue"
+msgstr "按色调排序"
+
+msgid "Sort on Saturation"
+msgstr "按饱和度排序"
+
+msgid "Sort on Value"
+msgstr "按值排序"
+
+msgid "Source 1:"
+msgstr "源 1："
+
+msgid "Source 2:"
+msgstr "源 2："
+
+msgid "Source channel in file:"
+msgstr "文件中的源通道："
+
+msgid "Source channel:"
+msgstr "源通道："
+
+msgid "Source..."
+msgstr "源..."
+
+msgid "Sp_ike points:"
+msgstr "穗的数量(_I)："
+
+msgid "Sp_read..."
+msgstr "扩散(_R)..."
+
+msgid "Spa_tial oversample:"
+msgstr "空间过采样(_T)："
+
+msgid "Spacing (percent):"
+msgstr "间距(百分比)："
+
+msgid "Spacing:"
+msgstr "间距："
+
+msgid "Sparkle"
+msgstr "火花"
+
+msgid "Sparkling"
+msgstr "火花"
+
+msgid "Spatial Transformation"
+msgstr "空间变换"
+
+msgid "Spatial _filter radius:"
+msgstr "空间滤镜半径(_F)："
+
+msgid "Special effects that nobody understands"
+msgstr "无人理解的特殊效果"
+
+msgid "Specialized direction-dependent edge detection"
+msgstr "依赖于指定方向的边缘检测"
+
+msgid "Specified layer %d not found"
+msgstr "没有找到指定的第 %d 层"
+
+msgid "Specified window not found"
+msgstr "没有找到指定的窗口"
+
+msgid "Specifies the amount of embossing to apply to the image (in percent)"
+msgstr "指定应用到图像的浮雕效果量(百分比)"
+
+msgid "Specifies the aspect ratio of the brush"
+msgstr "指定画笔的宽高比"
+
+msgid "Specifies the scale of the texture (in percent of original file)"
+msgstr "指定材质的缩放比例(按原始文件的百分比)"
+
+msgid "Specular:"
+msgstr "反光："
+
+msgid "Sphere"
+msgstr "球体"
+
+msgid "Sphere Designer"
+msgstr "球面设计器"
+
+msgid "Sphere _Designer..."
+msgstr "球面设计器(_D)..."
+
+msgid "Spherical"
+msgstr "球形"
+
+msgid "Spi_ke angle (-1: random):"
+msgstr "穗的角度(-1：随机)(_K)："
+
+msgid "Spider"
+msgstr "蜘蛛"
+
+msgid "Spik_e density:"
+msgstr "穗的密度(_E)："
+
+msgid "Spike thickness:"
+msgstr "光芒宽度："
+
+msgid "Spiral"
+msgstr "螺旋"
+
+msgid "Spiral Number of Turns"
+msgstr "螺旋线的拐点数量"
+
+msgid "Spot radius:"
+msgstr "点半径："
+
+msgid "Spots"
+msgstr "斑点"
+
+msgid "Spread"
+msgstr "扩散"
+
+msgid "Spread Amount"
+msgstr "扩散量"
+
+msgid "Spreading"
+msgstr "扩散"
+
+msgid "Squares"
+msgstr "方块"
+
+msgid "St_rength exp.:"
+msgstr "强度指数(_R)："
+
+msgid "Standard"
+msgstr "标准"
+
+msgid "Standard (R,G,B)"
+msgstr "标准(R,G,B)"
+
+msgid "Star Number of Points"
+msgstr "星形的点的数量"
+
+msgid "Start _index:"
+msgstr "起始编号(_I)："
+
+msgid "Start angle:"
+msgstr "起始角度："
+
+msgid "Start offset:"
+msgstr "起始位移："
+
+msgid "Start playback"
+msgstr "开始回放"
+
+msgid "Step size:"
+msgstr "单步大小："
+
+msgid "Step to next frame"
+msgstr "跳到下一帧"
+
+msgid "Stop loading this page"
+msgstr "停止读入此页面"
+
+msgid "Stop playback"
+msgstr "停止回放"
+
+msgid "Stop when pixel differences are smaller than this value"
+msgstr "当像素差别小于此值时停止"
+
+msgid "Stretch"
+msgstr "拉伸"
+
+msgid "Stretch _HSV"
+msgstr "拉伸 HSV(_H)"
+
+msgid "Stretch brightness values to cover the full range"
+msgstr "拉伸亮度值以覆盖全部范围"
+
+msgid "Stretch color saturation to cover maximum possible range"
+msgstr "拉伸颜色饱合度以覆盖所能达到的最大范围"
+
+msgid "Stretch contrast to cover the maximum possible range"
+msgstr "将对比度拉伸以覆盖最大的可能范围"
+
+msgid "Stretch image contrast to cover the maximum possible range"
+msgstr "拉伸图像对比度以最大程度地覆盖所能达到的范围"
+
+msgid "Stroke _density:"
+msgstr "笔划密度(_D)："
+
+msgid "Strong"
+msgstr "强"
+
+msgid "Style"
+msgstr "风格"
+
+msgid "Su_bsampling:"
+msgstr "子采样(_B)："
+
+msgid "Subdivide:"
+msgstr "细分："
+
+msgid "Substeps:"
+msgstr "子步数："
+
+msgid "Super_nova..."
+msgstr "超新星(_N)..."
+
+msgid "Superimpose many altered copies of the image"
+msgstr "重叠多幅改动过的图像副本"
+
+msgid "Supernova"
+msgstr "超新星"
+
+msgid "Supernova Color Picker"
+msgstr "超新星颜色拾取器"
+
+msgid "Sw_irl CW"
+msgstr "顺时针涡漩(_I)"
+
+msgid "Swap one color with another"
+msgstr "一种颜色与另一种交换"
+
+msgid "Swap the two curves"
+msgstr "交换两条曲线"
+
+msgid "Swap two colors in the colormap"
+msgstr "交换颜色表中的两种颜色"
+
+msgid "Swirl"
+msgstr "旋转"
+
+msgid "Switch to \"From seed\" With the Last Seed"
+msgstr "按上次种子切换至“源自种子”"
+
+msgid "Switch to C/Clockwise"
+msgstr "切换到逆时针"
+
+msgid "Switch to Clockwise"
+msgstr "切换到顺时针"
+
+msgid "Symbol"
+msgstr "符号"
+
+msgid "TGA"
+msgstr "TGA"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "TIFF '%s' does not contain any directories"
+msgstr "TIFF “%s”不包含任何目录"
+
+msgid "TIFF Channel"
+msgstr "TIFF 通道"
+
+msgid "TIFF image"
+msgstr "TIFF 图像"
+
+msgid "T_ilable"
+msgstr "可平铺(_I)"
+
+msgid "T_ile saturation:"
+msgstr "方块饱和度(_I)："
+
+msgid "T_ransparent background"
+msgstr "透明背景(_R)"
+
+msgid "T_urbulence:"
+msgstr "弥散度(_U)："
+
+msgid "T_urbulent"
+msgstr "弥散(_U)"
+
+msgid "Table Creation Options"
+msgstr "表格创建选项"
+
+msgid "Table Options"
+msgstr "表格选项"
+
+msgid "Take a screenshot of a single _window"
+msgstr "对单个窗口截图(_W)"
+
+msgid "Take a screenshot of the entire _screen"
+msgstr "对整个屏幕截图(_S)"
+
+msgid "TarGA image"
+msgstr "TarGA 图像"
+
+msgid "Target"
+msgstr "目标"
+
+msgid "Tel_net"
+msgstr "Tel_net"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "Text antialiasing"
+msgstr "文字反锯齿"
+
+msgid "Texture"
+msgstr "材质"
+
+msgid "Texture:"
+msgstr "材质："
+
+msgid ""
+"The .exe file is invalid (non-Microsoft Win32 .exe or error in .exe image)."
+msgstr "此 .exe 文件无效(非 Microsoft Win32 .exe 或 .exe 映像有错误)。"
+
+msgid "The DDE transaction failed."
+msgstr "DDE 事务失败。"
+
+msgid "The DDE transaction timed out."
+msgstr "DDE 事务超时。"
+
+msgid ""
+"The GIF file format does not allow this.  You may choose whether to crop all"
+" of the layers to the image borders, or cancel this save."
+msgstr "GIF 文件格式不允许这种情况。您可以选择裁掉所有图层中超出图像边界的部分，或者放弃保存。"
+
+msgid ""
+"The GIF format only supports comments in 7bit ASCII encoding. No comment is "
+"saved."
+msgstr "GIF 格式只支持 7 位 ASCII 编码的注释。注释没有被保存。"
+
+msgid "The GIMP user manual is not available."
+msgstr "GIMP 用户手册不可用。"
+
+msgid ""
+"The PNG file specifies an offset that caused the layer to be positioned "
+"outside the image."
+msgstr "PNG 文件中指定的位移导致图层定位在图像以外。"
+
+msgid ""
+"The PNG image you are importing specifies an offset of %d, %d. Do you want "
+"to apply this offset to the layer?"
+msgstr "您给 PNG 图像导入了指定位移量 %d, %d 。您想要应用这个位移量分层么？"
+
+msgid ""
+"The TIFF format only supports comments in\n"
+"7bit ASCII encoding. No comment is saved."
+msgstr ""
+"TIFF 格式只支持 7 位 ASCII 编码\n"
+"的注释。注释没有被保存。"
+
+msgid "The amount of cell padding."
+msgstr "单元格填充量。"
+
+msgid "The amount of cell spacing."
+msgstr "单元格间距数。"
+
+msgid "The amount of highlighting on the edges of each piece"
+msgstr "每个小块边缘的高亮程度"
+
+msgid "The angle span of the first brush to create"
+msgstr "创建的第一个画笔的跨度"
+
+msgid "The bitmap ends unexpectedly."
+msgstr "位图意外结束。"
+
+msgid "The brush-size that matches the original image the closest is selected"
+msgstr "选择最适合原始图像的画笔大小"
+
+msgid "The colors are white and black."
+msgstr "颜色为黑色和白色。"
+
+msgid "The current element (<%s>) cannot contain text"
+msgstr "当前元素(<%s>)不能包含文字"
+
+msgid "The default comment is limited to %d characters."
+msgstr "默认注释限制在 %d 个字节之内。"
+
+msgid ""
+"The depth of the drop shadow, i.e. how far apart from the object it should "
+"be"
+msgstr "投影的深度，比如它应该离开物体多远"
+
+msgid "The direction that matches the original image the closest is selected"
+msgstr "选择最适合原始图像的方向"
+
+msgid ""
+"The distance from the center of the image determines the direction of the "
+"stroke"
+msgstr "笔划的方向由到图像中心的距离决定"
+
+msgid ""
+"The distance from the center of the image determines the size of the stroke"
+msgstr "笔划的大小由到图像中心的距离决定"
+
+msgid "The file is corrupt!"
+msgstr "文件损坏！"
+
+msgid "The file name association is incomplete or invalid."
+msgstr "关联的文件名不完整或无效。"
+
+msgid "The first row of the image"
+msgstr "图像的第一行"
+
+msgid "The height for each table cell.  Can be a number or a percent."
+msgstr "每个表格单元的高度。可以是一个数字或百分数。"
+
+msgid "The help pages for '%s' are not available."
+msgstr "“%s” 的帮助页面不可用。"
+
+msgid ""
+"The higher the number of iterations, the more details will be calculated"
+msgstr "迭代次数越高，计算的细节越多"
+
+msgid "The hue of the region determines the direction of the stroke"
+msgstr "笔划的方向由区域的色调决定"
+
+msgid "The hue of the region determines the size of the stroke"
+msgstr "笔划的大小由区域的色调决定"
+
+msgid "The image '%s' has an embedded color profile:"
+msgstr "图像“%s”包含内置的色彩配置文件"
+
+msgid "The image '%s' is in RGB, but is missing some of the components."
+msgstr "图像“%s”为 RGB 格式，但有些分量缺失。"
+
+msgid "The image '%s' is in an unknown color space."
+msgstr "图像“%s”所属的色彩空间未知。"
+
+msgid ""
+"The image '%s' is in grayscale but does not contain any gray component."
+msgstr "图像“%s”属于灰度图，但没有包含任何灰度分量。"
+
+msgid ""
+"The image '%s' is in the CIELAB color space, but there is no code in place "
+"to convert it to RGB."
+msgstr "图像“%s”属于 CIELAB 色彩空间，但没有适当的代码转换到 RGB。"
+
+msgid ""
+"The image '%s' is in the CIEXYZ color space, but there is no code in place "
+"to convert it to RGB."
+msgstr "图像“%s”属于 CIEXYZ 色彩空间，但没有适当的代码转换到 RGB。"
+
+msgid ""
+"The image '%s' is in the YCbCr color space, but there is no code in place to"
+" convert it to RGB."
+msgstr "图像“%s”属于 YCbCr 色彩空间，但没有适当的代码转换到 RGB。"
+
+msgid ""
+"The image which you are trying to save as an XBM contains more than two colors.\n"
+"\n"
+"Please convert it to a black and white (1-bit) indexed image and try again."
+msgstr ""
+"您正试图另存为 XBM 的图像含有两种以上的颜色。\n"
+"\n"
+"请将它转换为黑白(1 位)索引图像并重试。"
+
+msgid ""
+"The image you are trying to save as a GIF contains layers which extend "
+"beyond the actual borders of the image."
+msgstr "您试图另存为 GIF 的图像含有超出图像实际边界的图层。"
+
+msgid "The largest brush to create"
+msgstr "要创建的最大的画笔"
+
+msgid "The layer has its alpha channel locked."
+msgstr "图层锁定了自身的 Alpha 通道。"
+
+msgid "The most widely useful method for sharpening an image"
+msgstr "最为广泛使用的锐化图像的方法"
+
+msgid "The name '%s' is used already!"
+msgstr "名字“%s”已经被使用！"
+
+msgid "The name `%s' is used already!"
+msgstr "名字“%s”已经被使用！"
+
+msgid "The number of directions (i.e. brushes) to use"
+msgstr "方向(比如画笔)使用的数量"
+
+msgid "The number of pixels in the table border."
+msgstr "表格边框的像素个数。"
+
+msgid "The number of sizes of brushes to use"
+msgstr "使用的画笔大小的数量"
+
+msgid ""
+"The offset can be adjusted by dragging the preview using the middle mouse "
+"button."
+msgstr "可以用鼠标中键拖动预览来调整位移。"
+
+msgid "The operating system denied access to the specified file."
+msgstr "操作系统拒绝访问指定文件。"
+
+msgid "The operating system is out of memory or resources."
+msgstr "操作系统内存或资源已用尽。"
+
+msgid ""
+"The parasite \"%s\" is too long for an X cursor comment. It was cut off to "
+"fit."
+msgstr "寄生 \"%s\" 对于 X 光标注释来说过长。它需要被切断以适合。"
+
+msgid ""
+"The part of copyright information that exceeded 65535 characters was "
+"removed."
+msgstr "版权信息中超出 65536 个字符的部分被移除。"
+
+msgid ""
+"The part of license information that exceeded 65535 characters was removed."
+msgstr "许可证信息中超出 65536 个字符的部分被移除。"
+
+msgid "The relative density of the brush strokes"
+msgstr "笔划的相对密度"
+
+msgid "The selection does not intersect the active layer or mask."
+msgstr "选区未与活动图层或蒙板相交。"
+
+msgid "The smallest brush to create"
+msgstr "要创建的最小的画笔"
+
+msgid ""
+"The smvector-field. Left-click to move selected smvector, Right-click to "
+"point it towards mouse, Middle-click to add a new smvector."
+msgstr "尺寸向量区域。点击左键移动选中的尺寸向量，点击右键使它指向鼠标的方向，点击中键添加新的尺寸向量。"
+
+msgid "The specified DLL was not found."
+msgstr "没有找到指定的动态链接库。"
+
+msgid "The specified file was not found."
+msgstr "没有找到指定的文件。"
+
+msgid "The specified path was not found."
+msgstr "没有找到指定的路径。"
+
+msgid "The starting angle of the first brush to create"
+msgstr "创建的第一个画笔的起始角度"
+
+msgid "The strokes are evenly distributed across the image"
+msgstr "笔划在图像中均匀分布"
+
+msgid "The strokes follow a \"flowing\" pattern"
+msgstr "笔划遵循流线模式"
+
+msgid "The text for the table caption."
+msgstr "表格标题的文字。"
+
+msgid "The text to go into each cell."
+msgstr "文字将出现在每一个表格单元当中。"
+
+msgid "The type of this SUN-rasterfile is not supported"
+msgstr "不支持这个类型的 SUN-rasterfile"
+
+msgid "The unit's abbreviation (e.g. \"cm\" for centimeters)."
+msgstr "此单位的缩写(例如厘米的缩写是“cm”)。"
+
+msgid "The unit's plural form."
+msgstr "此单位的复数形式。"
+
+msgid "The unit's singular form."
+msgstr "此单位的单数形式。"
+
+msgid ""
+"The unit's symbol if it has one (e.g. \" for inches). The unit's "
+"abbreviation is used if doesn't have a symbol."
+msgstr "此单位的符号，如果有的话(例如英寸的符号是 \" )。如果此单位没有符号则使用它的缩写。"
+
+msgid ""
+"The vector-field. Left-click to move selected vector, Right-click to point "
+"it towards mouse, Middle-click to add a new vector."
+msgstr "向量区域。点击左键移动选中的向量，点击右键使它指向鼠标的方向，点击中键添加一个新向量。"
+
+msgid "The width for each table cell.  Can be a number or a percent."
+msgstr "每个表格单元的宽度。可以是一个数字或百分数。"
+
+msgid "There are not enough layers to align."
+msgstr "没有足够多的图层可以对齐。"
+
+msgid "There is no application associated with the given file name extension."
+msgstr "没有应用程序关联到给定的文件扩展名。"
+
+msgid "There was not enough memory to complete the operation."
+msgstr "没有足够的内存完成此操作。"
+
+msgid ""
+"These options are only available when the exported image has more than one "
+"layer. The image you are exporting only has one layer."
+msgstr "这些选项仅在被导出的图像有多个图层时可用。您正在试图导出的图像仅有一个图层。"
+
+msgid ""
+"This field is a hint for numerical input fields. It specifies how many "
+"decimal digits the input field should provide to get approximately the same "
+"accuracy as an \"inch\" input field with two decimal digits."
+msgstr "这个区域是数字输入区域的提示。它指定在此单位的输入区域中，要得到跟“英寸”小数点后两位相当的精确度，需要在小数点后提供多少位数字。"
+
+msgid "This image depth is not supported"
+msgstr "不支持这个图像深度"
+
+msgid "This is not a GIF file"
+msgstr "不是 GIF 文件"
+
+msgid "This plug-in can only handle RGBA image files with 8bit color depth."
+msgstr "这个插件只能处理 8 位色深的 RGBA 图像文件。"
+
+msgid ""
+"This string will be used to identify a unit in GIMP's configuration files."
+msgstr "这个字符串将在 GIMP 的配置文件中用于唯一识别一个单位。"
+
+msgid "This tool has no options"
+msgstr "此工具没有选项"
+
+msgid "Thresho_ld:"
+msgstr "阈值(_L)："
+
+msgid "Threshold Alpha"
+msgstr "Alpha 阈值"
+
+msgid "Threshold for the red eye color to remove."
+msgstr "要去除的红眼的阈值颜色"
+
+msgid "Threshold:"
+msgstr "阈值："
+
+msgid "Thumbnail"
+msgstr "缩略图"
+
+msgid "Til_e spacing:"
+msgstr "瓦片间距(_E)："
+
+msgid "Tile"
+msgstr "平铺"
+
+msgid "Tile _height:"
+msgstr "瓦片高度(_H)："
+
+msgid "Tile _neatness:"
+msgstr "瓦片纯度(_N)："
+
+msgid "Tile _size:"
+msgstr "瓦片大小(_S)："
+
+msgid "Tile _width:"
+msgstr "瓦片宽度(_W)："
+
+msgid "Tile image into smaller versions of the original"
+msgstr "将图像平铺为原始图像的较小版本"
+
+msgid "Tile source image"
+msgstr "平铺源图像"
+
+msgid "Tile source image: useful for infinite planes"
+msgstr "平铺源图像：对无限大的平面有用"
+
+msgid "Tile to New Size"
+msgstr "平铺到新的大小"
+
+msgid "Tileable"
+msgstr "可平铺"
+
+msgid "Tiler"
+msgstr "平铺"
+
+msgid "Tiling"
+msgstr "平铺"
+
+msgid "Tiny"
+msgstr "微"
+
+msgid "To Color"
+msgstr "到颜色"
+
+msgid "To _bottom"
+msgstr "往下(_B)"
+
+msgid "To _polar"
+msgstr "到极面(_P)"
+
+msgid "To _right"
+msgstr "往右(_R)"
+
+msgid "To _top"
+msgstr "往上(_T)"
+
+msgid "To l_eft"
+msgstr "往左(_E)"
+
+msgid "Toggle the visibility of the sidebar"
+msgstr "开关侧边栏的显示"
+
+msgid "Too many channels in file: %d"
+msgstr "文件中的通道数太多：%d"
+
+msgid "Too many channels in layer: %d"
+msgstr "图层中的通道数太多：%d"
+
+msgid "Tool Options"
+msgstr "工具选项"
+
+msgid "Top edge"
+msgstr "顶边界"
+
+msgid "Top left"
+msgstr "左上"
+
+msgid "Top-_left"
+msgstr "左上(_L)"
+
+msgid "Top:"
+msgstr "上："
+
+msgid "Tr_ailing"
+msgstr "尾部(_A)"
+
+msgid "Tr_ansparency:"
+msgstr "透明度(_A)"
+
+msgid "Transferring data from scanner/camera"
+msgstr "从扫描仪/相机传送数据"
+
+msgid "Transferring webpage image for '%s'"
+msgstr "将 '%s' 转换为网页图像"
+
+msgid "Transform image with the Mandelbrot Fractal"
+msgstr "以 Mandelbrot 分形变换图像"
+
+msgid "Transformation %s"
+msgstr "变换 %s"
+
+msgid "Transformations"
+msgstr "变换"
+
+msgid "Transparent"
+msgstr "透明"
+
+msgid "Transparent background"
+msgstr "透明背景"
+
+msgid "Treat as this"
+msgstr "按此色对待"
+
+msgid "Tree View"
+msgstr "树形视图"
+
+msgid "Triangles"
+msgstr "三角形"
+
+msgid "Tried to display an invalid layer."
+msgstr "已试图显示一个无效图层。"
+
+msgid "Try Bounding Box"
+msgstr "尝试缩减边界"
+
+msgid "Turbulence:"
+msgstr "弥散度："
+
+msgid "Turn bright spots into starry sparkles"
+msgstr "将亮点变为星光闪耀"
+
+msgid "Twist or smear image in many different ways"
+msgstr "以多种不同的方式扭曲或涂抹图像"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type of colormap not supported"
+msgstr "颜色表类型不支持"
+
+msgid "Type of light source to apply"
+msgstr "需要应用的光源的类型"
+
+msgid "Type of object to map to"
+msgstr "要映射到的物体的类型"
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL: %s"
+msgstr "URL：%s"
+
+msgid "U_nits"
+msgstr "单位(_N)"
+
+msgid "U_se disposal entered above for all frames"
+msgstr "上面输入的布置用于所有帧(_S)"
+
+msgid "Unable to recompose, source layer not found"
+msgstr "无法重新组织图层，源图层不存在"
+
+msgid ""
+"Unable to save '%s'.  The GIF file format does not support images that are "
+"more than %d pixels wide or tall."
+msgstr "无法保存“%s”。GIF 文件格式不支持宽度或高度大于 %d 像素的图像。"
+
+msgid ""
+"Unable to save '%s'.  The PSD file format does not support images that are "
+"more than 30,000 pixels wide or tall."
+msgstr "无法保存“%s”。PSD 文件格式不支持宽度或高度大于 30000 像素的图像。"
+
+msgid ""
+"Unable to save '%s'.  The PSD file format does not support images with "
+"layers that are more than 30,000 pixels wide or tall."
+msgstr "无法保存“%s”。PSD 文件格式不支持含有宽度或高度大于 30000 像素图层的图像。"
+
+msgid ""
+"Unable to save layer with mode '%s'.  Either the PSD file format or the save"
+" plug-in does not support that, using normal mode instead."
+msgstr "无法以“%s”模式保存图层。PSD 文件格式或保存插件均不支持此模式，请换用普通模式。"
+
+msgid "Undo"
+msgstr "撤消"
+
+msgid "Undo last zoom change"
+msgstr "撤消上次缩放变化"
+
+msgid "Unexpected end of file"
+msgstr "意料之外的文件尾"
+
+msgid "Uniform"
+msgstr "均匀"
+
+msgid "Unit"
+msgstr "单位"
+
+msgid "Unit Editor"
+msgstr "单位编辑器"
+
+msgid "Units"
+msgstr "单位"
+
+msgid "Unknown Microsoft Windows error."
+msgstr "未知的 Microsoft Windows 错误。"
+
+msgid "Unknown attribute \"%s\"=\"%s\" in element <%s>"
+msgstr "元素<%3$s>中的未知属性\"%1$s\"=\"%2$s\""
+
+msgid "Unknown color model in PNG file '%s'."
+msgstr "PNG 文件“%s”存在未知色彩模式。"
+
+msgid "Unknown element <%s>"
+msgstr "未知元素 <%s>"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Unknown reason"
+msgstr "未知原因"
+
+msgid "Unnamed"
+msgstr "未命名"
+
+msgid "Unoptimizing animation"
+msgstr "反优化动画"
+
+msgid "Unrecognized or invalid BMP compression format."
+msgstr "无法识别或无效的 BMP 压缩格式。"
+
+msgid "Unselect"
+msgstr "取消选择"
+
+msgid "Unselect All"
+msgstr "取消全部选择"
+
+msgid "Unsharp Mask"
+msgstr "虚光蒙板"
+
+msgid "Unsupported bit depth (%d)!"
+msgstr "不支持的位深度(%d)！"
+
+msgid "Unsupported bit depth: %d"
+msgstr "不支持的位深度：%d"
+
+msgid "Unsupported brush format"
+msgstr "不支持的画笔格式"
+
+msgid "Unsupported color mode: %s"
+msgstr "不支持的色彩模式：%s"
+
+msgid "Unsupported compression mode: %d"
+msgstr "不支持的压缩模式：%d"
+
+msgid "Unsupported file format version: %d"
+msgstr "不支持的文件格式版本：%d"
+
+msgid "Unsupported maximum value."
+msgstr "不支持的最大值。"
+
+msgid "Unsupported or invalid bitdepth."
+msgstr "不支持或无效的位深度。"
+
+msgid "Unsupported or invalid channel size"
+msgstr "不支持或无效的通道尺寸"
+
+msgid "Unsupported or invalid image height: %d"
+msgstr "不支持或无效的图像高度：%d"
+
+msgid "Unsupported or invalid image size: %dx%d"
+msgstr "不支持或无效的图像尺寸：%dx%d"
+
+msgid "Unsupported or invalid image width: %d"
+msgstr "不支持或无效的图像宽度：%d"
+
+msgid "Unsupported or invalid layer height: %d"
+msgstr "不支持的或无效的图层高度：%d"
+
+msgid "Unsupported or invalid layer mask height: %d"
+msgstr "不支持的或无效的图层蒙板高度：%d"
+
+msgid "Unsupported or invalid layer mask size: %dx%d"
+msgstr "不支持的或无效的图层蒙板尺寸：%dx%d"
+
+msgid "Unsupported or invalid layer mask width: %d"
+msgstr "不支持的或无效的图层蒙板宽度：%d"
+
+msgid "Unsupported or invalid layer size: %dx%d"
+msgstr "不支持的或无效的图层尺寸：%dx%d"
+
+msgid "Unsupported or invalid layer width: %d"
+msgstr "不支持的或无效的图层宽度：%d"
+
+msgid "Untitled"
+msgstr "无标题"
+
+msgid "Unusual PCX flavour, giving up"
+msgstr "异常的 PCX 类型，放弃"
+
+msgid "Update preview _live"
+msgstr "实时更新预览(_L)"
+
+msgid "Uploaded %s of image data"
+msgstr "已上传 %s 的图像数据"
+
+msgid "Uploading image (%s of %s)"
+msgstr "正在上传图像(第 %s 幅，共 %s 幅)"
+
+msgid "Upper left"
+msgstr "左上"
+
+msgid "Upper left _x:"
+msgstr "左上角 X(_X)："
+
+msgid "Upper left _y:"
+msgstr "左上角 Y(_Y)："
+
+msgid "Upper right"
+msgstr "右上"
+
+msgid "Us_e macros instead of struct"
+msgstr "使用宏定义而不是结构(_E)"
+
+msgid "Use GIMP Guides..."
+msgstr "使用 GIMP 参考线..."
+
+msgid "Use Gimp Guides"
+msgstr "使用 GIMP 参考线"
+
+msgid "Use _1 byte Run-Length-Encoding"
+msgstr "使用单字节行程长度编码(_1)"
+
+msgid "Use _Anti-aliasing"
+msgstr "使用抗锯齿(_A)"
+
+msgid "Use _restart markers"
+msgstr "使用重新开始标记(_R)"
+
+msgid "Use a transparent background; Only the strokes painted will be visible"
+msgstr "使用透明的背景；只显现已绘画的笔划"
+
+msgid "Use average value"
+msgstr "使用平均值"
+
+msgid "Use cosine-function for this color component"
+msgstr "对该颜色分量使用余弦函数"
+
+msgid "Use cyclic range"
+msgstr "使用循环范围"
+
+msgid "Use e_xponent map:"
+msgstr "使用指数贴图："
+
+msgid ""
+"Use linear mapping instead of any trigonometrical function for this color "
+"channel"
+msgstr "对该颜色通道使用线性映射而不是三角函数"
+
+msgid "Use log log smoothing to eliminate \"banding\" in the result"
+msgstr "使用 log log 平滑以消除结果中的“色带”"
+
+msgid "Use loglog smoothing"
+msgstr "使用 loglog 平滑"
+
+msgid "Use m_ask-size map:"
+msgstr "使用色块尺寸贴图："
+
+msgid "Use magnitude map"
+msgstr "使用量值贴图"
+
+msgid "Use mouse control to warp image areas"
+msgstr "使用鼠标控制卷起图像区域"
+
+msgid "Use reverse value"
+msgstr "使用反向值"
+
+msgid "Use sine-function for this color component"
+msgstr "对该颜色分量使用正弦函数"
+
+msgid "Use subcolors"
+msgstr "使用子颜色"
+
+msgid "Use the background color"
+msgstr "使用背景色"
+
+msgid "Use the color of the image"
+msgstr "使用图像的颜色"
+
+msgid "Use the foreground color"
+msgstr "使用前景色"
+
+msgid "V_alue"
+msgstr "明度(_A)"
+
+msgid "Value"
+msgstr "明度"
+
+msgid "Value Invert"
+msgstr "亮度反转"
+
+msgid "Value Propagate"
+msgstr "颜色繁殖"
+
+msgid "Value Variations"
+msgstr "亮度变化"
+
+msgid "Van Gogh (LIC)"
+msgstr "凡高(LIC)"
+
+msgid "Vector _angle:"
+msgstr "矢量角度(_A)："
+
+msgid "Vector _length:"
+msgstr "矢量长度(_L)："
+
+msgid "Vector mag:"
+msgstr "矢量幅度："
+
+msgid "Vectors"
+msgstr "向量"
+
+msgid "Ver_tical base:"
+msgstr "垂直方向基准(_T)："
+
+msgid ""
+"Vertical\n"
+"Lines"
+msgstr ""
+"垂直\n"
+"线"
+
+msgid "Vertical Color"
+msgstr "垂直颜色"
+
+msgid "Vertical gradient"
+msgstr "垂直渐变"
+
+msgid "Vertically"
+msgstr "垂直"
+
+msgid "Very dark"
+msgstr "很深"
+
+msgid "Vi_deo..."
+msgstr "视频(_D)..."
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Video Pattern"
+msgstr "视频模式"
+
+msgid "View Source"
+msgstr "查看源文件"
+
+msgid "View and edit metadata (EXIF, IPTC, XMP)"
+msgstr "查看并编辑元数据(EXIF, IPTC, XMP)"
+
+msgid "Visit the GIMP documentation website"
+msgstr "浏览 GIMP 文档网站"
+
+msgid ""
+"Voronoi-mode makes only the smvector closest to the given point have any "
+"influence"
+msgstr "Voronoi 模式只影响最接近给定的点的 smvector"
+
+msgid ""
+"Voronoi-mode makes only the vector closest to the given point have any "
+"influence"
+msgstr "Voronoi 模式只影响最接近给定的点的向量"
+
+msgid "Vorte_x"
+msgstr "漩涡(_X)"
+
+msgid "Vortex_2"
+msgstr "漩涡 2(_2)"
+
+msgid "Vortex_3"
+msgstr "漩涡 3(_3)"
+
+msgid "WAI_S"
+msgstr "WAI_S"
+
+msgid ""
+"WMF file does not\n"
+"specify a size!"
+msgstr ""
+"WMF 文件没有\n"
+"指定大小！"
+
+msgid "W_hirl and Pinch..."
+msgstr "旋转与挤压(_H)..."
+
+msgid "W_ith source image"
+msgstr "与源图像(_I)"
+
+msgid "W_rite extra mask file"
+msgstr "写附加的掩码文件(_R)"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid ""
+"Warning:\n"
+"The image you are loading has 16 bits per channel. GIMP can only handle 8 bit, so it will be converted for you. Information will be lost because of this conversion."
+msgstr ""
+"警告：\n"
+"您加载的图像含有 16 位的通道。GIMP 只能处理 8 位，因此已帮您进行了自动转换。转换将造成信息丢失。"
+
+msgid "Warning: '%s' is a parameter file for a newer version of CML Explorer."
+msgstr "警告：“%s”是一个较新版本的 CML 探索器的参数文件。"
+
+msgid "Warning: '%s' is an old format file."
+msgstr "警告：“%s”是一个旧格式的文件。"
+
+msgid "Warning: the source and the destination are the same channel."
+msgstr "警告：源和目标是同一个通道。"
+
+msgid "Warning: unsupported layermode %d saved to XJT"
+msgstr "警告：不支持的图层模式 %d 保存到了 XJT"
+
+msgid "Warning: unsupported pathtype %d saved to XJT"
+msgstr "警告：不支持的路径类型 %d 保存到了 XJT"
+
+msgid "Warning: unsupported unittype %d saved to XJT"
+msgstr "警告：不支持的单位类型 %d 保存到了 XJT"
+
+msgid "Warp"
+msgstr "翘曲"
+
+msgid "Warping"
+msgstr "翘曲"
+
+msgid "Warping Frame %d"
+msgstr "翘曲第 %d 帧"
+
+msgid "Wave Type"
+msgstr "波的类型"
+
+msgid "Waves"
+msgstr "波"
+
+msgid "Waving"
+msgstr "波"
+
+msgid "Weak"
+msgstr "弱"
+
+msgid "Webpage"
+msgstr "网页"
+
+msgid ""
+"When toggled, the resulting image will be scaled to fit into the given size "
+"without changing the aspect ratio."
+msgstr "选中时，图像将会缩放到给定的大小并且不会改变原来的宽高比。"
+
+msgid "Whirl and Pinch"
+msgstr "旋转与挤压"
+
+msgid "Whirling and pinching"
+msgstr "旋转与挤压"
+
+msgid "White"
+msgstr "白色"
+
+msgid "Wi_nd..."
+msgstr "风(_N)..."
+
+msgid "Width (pixels):"
+msgstr "宽度(像素)："
+
+msgid "Width and/or height of frame '%s' is zero!"
+msgstr "帧 '%s' 的宽度与/或高度为 0 ！"
+
+msgid "Width:"
+msgstr "宽度："
+
+msgid "Wind"
+msgstr "风"
+
+msgid "Windows"
+msgstr "窗口"
+
+msgid "Windows BMP image"
+msgstr "Windows BMP 图像"
+
+msgid "Windows Icon"
+msgstr "Windows 图标"
+
+msgid "With gradient power (0,1)"
+msgstr "使用斜率幂值(0,1)"
+
+msgid "With p and random (0,1)"
+msgstr "使用 p 及随机(0,1)"
+
+msgid "With random power (0,1)"
+msgstr "使用随机幂值(0,1)"
+
+msgid "With random power (0,10)"
+msgstr "使用随机幂值(0,10)"
+
+msgid "Wood"
+msgstr "木纹"
+
+msgid "Work on cop_y"
+msgstr "在副本中操作(_Y)"
+
+msgid "Would you like GIMP to rotate it into the standard orientation?"
+msgstr "您是否想要让 GIMP 将其旋转为标准方向？"
+
+msgid "Wrap"
+msgstr "环绕"
+
+msgid "Write error occurred"
+msgstr "出现写错误"
+
+msgid "Writing to file '%s' failed: %s"
+msgstr "写入文件“%s”失败：%s"
+
+msgid "X BitMap image"
+msgstr "X BitMap 图像"
+
+msgid "X PixMap image"
+msgstr "X PixMap 图像"
+
+msgid "X scale (size)"
+msgstr "X 缩放(大小)"
+
+msgid "X window dump"
+msgstr "X Window 转存"
+
+msgid "X11 Mouse Cursor"
+msgstr "X11 鼠标光标"
+
+msgid "X:"
+msgstr "X："
+
+msgid "XBM"
+msgstr "XBM"
+
+msgid "XBM Options"
+msgstr "XBM 选项"
+
+msgid "XJT"
+msgstr "XJT"
+
+msgid "XJT file contains unknown layermode %d"
+msgstr "XJT 文件含有未知的图层模式 %d"
+
+msgid "XJT file contains unknown pathtype %d"
+msgstr "XJT 文件含有未知的路径类型 %d"
+
+msgid "XJT file contains unknown unittype %d"
+msgstr "XJT 文件含有未知的单位类型 %d"
+
+msgid "XMC Options"
+msgstr "XMC 选项"
+
+msgid "XMP cannot contain XML comments or processing instructions"
+msgstr "XMP 不能包含 XML 注释或处理指令"
+
+msgid "XMP packets must end with <?xpacket end=...?>"
+msgstr "XMP 包必须以<?xpacket end=...?>结束"
+
+msgid "XMP packets must start with <?xpacket begin=...?>"
+msgstr "XMP 包必须以<?xpacket begin=...?>开始"
+
+msgid "XPM"
+msgstr "XPM"
+
+msgid "XPM file invalid"
+msgstr "无效的 XPM 文件"
+
+msgid ""
+"XWD-file %s has format %d, depth %d and bits per pixel %d. Currently this is"
+" not supported."
+msgstr "XWD 文件 %s 的格式为 %d，深度为 %d，单位像素的位数为 %d。目前还不支持。"
+
+msgid "XWD-file %s is corrupt."
+msgstr "XWD-文件 %s 损坏。"
+
+msgid "XY position:"
+msgstr "XY 位置："
+
+msgid "X_1:"
+msgstr "X_1："
+
+msgid "X_2:"
+msgstr "X_2："
+
+msgid "Y scale (size)"
+msgstr "Y 缩放(大小)"
+
+msgid "Y:"
+msgstr "Y："
+
+msgid "Y_1:"
+msgstr "Y_1："
+
+msgid "Y_2:"
+msgstr "Y_2："
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid "Yellow:"
+msgstr "黄色："
+
+msgid "Yellow_K"
+msgstr "黄色_K"
+
+msgid ""
+"You are about to create a huge\n"
+"HTML file which will most likely\n"
+"crash your browser."
+msgstr ""
+"您正试图创建一个很可能让您的浏览器\n"
+"崩溃的巨大的 HTML 文件。"
+
+msgid "You can not rotate the whole image if there's a floating selection."
+msgstr "如果存在浮动选区，您将不能旋转整个图像。"
+
+msgid "You can not rotate the whole image if there's a selection."
+msgstr "如果存在选区，您将不能旋转整个图像。"
+
+msgid ""
+"You can only export as animation when the image has more than one layer. The"
+" image you are trying to export only has one layer."
+msgstr "只能在图像有多个图层时导出为动画。您正在试图导出的图像仅含有一个图层。"
+
+msgid ""
+"You can only run 'Recompose' if the active image was originally produced by "
+"'Decompose'."
+msgstr "如果当前图像原是由“分解”生成的，您只能运行“重新组合”。"
+
+msgid ""
+"You cannot save a cursor mask for an image\n"
+"which has no alpha channel."
+msgstr ""
+"您不能对一幅没有 Alpha 通道的\n"
+"图像保存光标掩码。"
+
+msgid "You must select a file to save!"
+msgstr "您必须选择一个文件进行保存！"
+
+msgid ""
+"Your cursor was successfully saved but it contains one or more frames whose nominal size is not supported by GNOME settings.\n"
+"You can satisfy it by checking \"Replace the size of all frames...\" in the save dialog, or your cursor may not appear in GNOME settings."
+msgstr ""
+"光标成功保存，但它包含一个或多个尺寸不被 GNOME 设置支持的帧。\n"
+"您可以通过核对保存对话框中的 “更换帧大小... ” 选项来满足条件，否则光标不会出现在 GNOME 设置中。"
+
+msgid ""
+"Your cursor was successfully saved but it contains one or more frames whose width or height is more than %ipx.\n"
+"It will clutter the screen in some environments."
+msgstr ""
+"光标成功保存，但它包含一个或多个宽度或者高度超过 %ipx 的帧。\n"
+"它将在某些环境中使屏幕杂乱。"
+
+msgid "Z scale (size)"
+msgstr "Y 缩放(大小)"
+
+msgid "Z:"
+msgstr "Z："
+
+msgid "ZSoft PCX image"
+msgstr "ZSoft PCX 图像"
+
+msgid "Zealous cropping"
+msgstr "积极剪裁"
+
+msgid "Zoom"
+msgstr "缩放"
+
+msgid "Zoom in"
+msgstr "放大"
+
+msgid "Zoom out"
+msgstr "缩小"
+
+msgid "Zoom scale:"
+msgstr "缩放比："
+
+msgid "_3x3"
+msgstr "3x3(_3)"
+
+msgid "_Abbreviation:"
+msgstr "缩写(_A)："
+
+msgid "_Adaptive"
+msgstr "适应(_A)"
+
+msgid "_Additive"
+msgstr "添加(_A)"
+
+msgid "_Advanced"
+msgstr "高级(_A)"
+
+msgid "_Advanced Options"
+msgstr "高级选项(_A)"
+
+msgid "_Algorithm:"
+msgstr "算法(_A)："
+
+msgid "_Alien Map..."
+msgstr "奇异映射(_A)..."
+
+msgid "_Alpha"
+msgstr "Alpha(_A)"
+
+msgid "_Alpha threshold:"
+msgstr "Alpha 阈值(_A)："
+
+msgid "_Alpha trimmed mean"
+msgstr "_Alpha 修整平均"
+
+msgid "_Alpha:"
+msgstr "_Alpha："
+
+msgid "_Amount:"
+msgstr "量(_A)："
+
+msgid "_Amplitude:"
+msgstr "幅度(_A)："
+
+msgid "_Angle:"
+msgstr "角度(_A)："
+
+msgid "_Animate"
+msgstr "动画(_A)"
+
+msgid "_Antialias"
+msgstr "边缘平滑(_A)"
+
+msgid "_Antialiasing"
+msgstr "边缘平滑(_A)"
+
+msgid "_Apply Canvas..."
+msgstr "应用画布(_A)..."
+
+msgid "_Assign"
+msgstr "指派(_A)"
+
+msgid "_Assign Color Profile..."
+msgstr "分配色彩配置文件(_A)..."
+
+msgid "_Author:"
+msgstr "作者 (_A) ："
+
+msgid "_Auto-Crop all frames."
+msgstr "自动裁切所有帧(_A)。"
+
+msgid "_Automatically convert"
+msgstr "自动转换(_A)"
+
+msgid "_Azimuth:"
+msgstr "极角(_A)："
+
+msgid "_Background"
+msgstr "背景(_B)"
+
+msgid "_Background color"
+msgstr "背景色(_B)"
+
+msgid "_Base URL:"
+msgstr "基址 URL(_B)："
+
+msgid "_Bevel width:"
+msgstr "切痕宽度(_B)："
+
+msgid "_Bilinear"
+msgstr "双线性(_B)"
+
+msgid "_Black"
+msgstr "黑色(_B)"
+
+msgid "_Black Point Compensation"
+msgstr "黑点补偿(_B)"
+
+msgid "_Black level:"
+msgstr "黑色水平(_B)："
+
+msgid "_Black:"
+msgstr "黑色(_B)："
+
+msgid "_Blacken"
+msgstr "变黑(_B)"
+
+msgid "_Blank"
+msgstr "空(_B)"
+
+msgid "_Blast"
+msgstr "劲风(_B)"
+
+msgid "_Blend"
+msgstr "混和(_B)"
+
+msgid "_Blinds..."
+msgstr "百叶窗(_B)..."
+
+msgid "_Blue"
+msgstr "蓝色(_B)"
+
+msgid "_Blue:"
+msgstr "蓝色(_B)："
+
+msgid "_Blueness cb470:"
+msgstr "蓝色差 cb470(_B)："
+
+msgid "_Blueness cb470f:"
+msgstr "蓝色差 cb470f(_B)："
+
+msgid "_Blueness cb709:"
+msgstr "蓝色差 cb709(_B)："
+
+msgid "_Blueness cb709f:"
+msgstr "蓝色差 cb709f(_B)："
+
+msgid "_Blur"
+msgstr "模糊(_B)"
+
+msgid "_Blur radius:"
+msgstr "模糊半径(_B)："
+
+msgid "_Border Average..."
+msgstr "边界均值(_B)..."
+
+msgid "_Border:"
+msgstr "边框(_B)："
+
+msgid "_Bottom-left"
+msgstr "左下(_B)"
+
+msgid "_Bottom:"
+msgstr "下(_B)："
+
+msgid "_Box"
+msgstr "方盒(_B)"
+
+msgid "_Bright:"
+msgstr "亮度(_B)："
+
+msgid "_Brighten:"
+msgstr "加亮(_B)："
+
+msgid "_Brightness"
+msgstr "亮度(_B)"
+
+msgid "_Brightness:"
+msgstr "亮度(_B)："
+
+msgid "_Brush"
+msgstr "画笔(_B)"
+
+msgid "_Bucket size:"
+msgstr "油漆桶大小(_B)："
+
+msgid "_Bump Map"
+msgstr "凹凸贴图(_B)"
+
+msgid "_Bump Map..."
+msgstr "凹凸贴图(_B)..."
+
+msgid "_Bump map:"
+msgstr "凹凸贴图(_B)："
+
+msgid "_Bumpmap"
+msgstr "凹凸贴图(_B)"
+
+msgid "_Cartesian"
+msgstr "笛卡尔坐标(_C)"
+
+msgid "_Checkerboard..."
+msgstr "棋盘(_C)..."
+
+msgid "_Clear"
+msgstr "清除(_C)"
+
+msgid "_Color Enhance"
+msgstr "颜色增强(_C)..."
+
+msgid "_Color Exchange..."
+msgstr "颜色交换(_C)..."
+
+msgid "_Contents"
+msgstr "内容(_C)"
+
+msgid "_Convert"
+msgstr "转换(_C)"
+
+msgid "_Convert to Color Profile..."
+msgstr "转换为色彩配置文件(_C)..."
+
+msgid "_Convolution Matrix..."
+msgstr "卷积矩阵(_C)..."
+
+msgid "_Copy"
+msgstr "复制(_C)"
+
+msgid "_Copyright:"
+msgstr "版权(_C)："
+
+msgid "_Create"
+msgstr "创建(_C)"
+
+msgid "_Create multipage PDF..."
+msgstr "创建多页 PDF (_C)..."
+
+msgid "_Cubism..."
+msgstr "立体派(_C)..."
+
+msgid "_Curve Bend..."
+msgstr "曲线扭曲(_C)..."
+
+msgid "_Cyan:"
+msgstr "青色(_C)："
+
+msgid "_DCT method:"
+msgstr "_DCT 方法："
+
+msgid "_Decompose to layers"
+msgstr "分解到图层(_D)"
+
+msgid "_Decompose..."
+msgstr "分解(_D)..."
+
+msgid "_Deflate"
+msgstr "坍陷(_D)"
+
+msgid "_Deform radius:"
+msgstr "变形半径(_D)："
+
+msgid "_Deinterlace..."
+msgstr "去除交错(_D)..."
+
+msgid "_Delay between frames where unspecified:"
+msgstr "没有指明的帧之间的延时(_D)："
+
+msgid "_Delay:"
+msgstr "延迟(_D)："
+
+msgid "_Depth Merge..."
+msgstr "深度合并(_D)..."
+
+msgid "_Depth:"
+msgstr "深度(_D)："
+
+msgid "_Derivative"
+msgstr "派生(_D)"
+
+msgid "_Description:"
+msgstr "描述(_D)："
+
+msgid "_Detail:"
+msgstr "细节(_D)："
+
+msgid "_Difference of Gaussians..."
+msgstr "高斯差分(_D)..."
+
+msgid "_Diffraction Patterns..."
+msgstr "衍射图案(_D)..."
+
+msgid "_Digits:"
+msgstr "位数(_D)："
+
+msgid "_Dilate"
+msgstr "膨胀(_D)"
+
+msgid "_Displace..."
+msgstr "移位(_D)..."
+
+msgid "_Displacement:"
+msgstr "旋转角度(_D)："
+
+msgid "_Distorted"
+msgstr "扭曲(_D)"
+
+msgid "_Divisions:"
+msgstr "分裂(_D)："
+
+msgid "_Do not write color space information"
+msgstr "请勿写入颜色空间信息 (_D)"
+
+msgid "_Don't ask me again"
+msgstr "不要再问我(_D)"
+
+msgid "_Dots"
+msgstr "点(_D)"
+
+msgid "_Draw Crop Marks"
+msgstr "绘制剪裁标记(_D)"
+
+msgid "_Edge enhancement"
+msgstr "边缘增强(_E)"
+
+msgid "_Edge..."
+msgstr "边缘(_E)..."
+
+msgid "_Edge:"
+msgstr "边缘(_E)："
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_Effect image:"
+msgstr "效果图像(_E)："
+
+msgid "_Elevation:"
+msgstr "仰角(_E)："
+
+msgid "_Emboss"
+msgstr "浮雕(_E)"
+
+msgid "_Emboss..."
+msgstr "浮雕(_E)..."
+
+msgid "_Encapsulated PostScript"
+msgstr "封装的 PostScript(_E)"
+
+msgid "_Entire image"
+msgstr "整幅图像(_E)"
+
+msgid "_Environment Map"
+msgstr "环境映射(_E)"
+
+msgid "_Explicit tile"
+msgstr "指定的小块(_E)"
+
+msgid "_Exponent:"
+msgstr "指数(_E)："
+
+msgid "_Export XMP..."
+msgstr "导出 XMP (_E)..."
+
+msgid "_FG/BG lighting"
+msgstr "前景/背景光照(_F)"
+
+msgid "_Factor:"
+msgstr "因子(_F)："
+
+msgid "_Factory Defaults"
+msgstr "工厂默认值(_F)"
+
+msgid "_File"
+msgstr "文件(_F)"
+
+msgid "_Filename:"
+msgstr "文件名(_F)："
+
+msgid "_Filmstrip..."
+msgstr "胶卷(_F)..."
+
+msgid "_Filter Pack..."
+msgstr "组合滤镜(_F)..."
+
+msgid "_Filter length:"
+msgstr "滤镜长度(_F)："
+
+msgid "_Find Backdrop"
+msgstr "寻找背景(_F)"
+
+msgid "_Fit height to images"
+msgstr "以图像的高度为准(_F)"
+
+msgid "_Flame..."
+msgstr "火焰(_F)..."
+
+msgid "_Font:"
+msgstr "字体(_F)："
+
+msgid "_Force"
+msgstr "强制(_F)"
+
+msgid "_Force tiling?"
+msgstr "强制平铺(_F)？"
+
+msgid "_Foreground & background"
+msgstr "前景和背景(_F)"
+
+msgid "_Foreground as registration color"
+msgstr "前景色作为注册颜色(_F)"
+
+msgid "_Foreground color"
+msgstr "前景色(_F)"
+
+msgid "_Foreground to peaks"
+msgstr "前景色到峰值(_F)"
+
+msgid "_Format:"
+msgstr "格式(_F)："
+
+msgid "_Fractal Explorer..."
+msgstr "分形探索器(_F)..."
+
+msgid "_Fractal Trace..."
+msgstr "分形追溯(_F)..."
+
+msgid "_Fractals"
+msgstr "分形(_F)"
+
+msgid "_Frame disposal where unspecified:"
+msgstr "没有指明的帧的处理(_F)："
+
+msgid "_Free"
+msgstr "自由(_F)"
+
+msgid "_Ftp Site"
+msgstr "Ftp 站点(_F)"
+
+msgid "_GIF comment:"
+msgstr "GIF 注释(_G)："
+
+msgid "_GIMPressionist..."
+msgstr "印象派艺术家(_GIMPressionist)..."
+
+msgid "_Gamma:"
+msgstr "_Gamma："
+
+msgid "_Gaussian Blur..."
+msgstr "高斯模糊(_G)..."
+
+msgid "_General"
+msgstr "常规(_G)"
+
+msgid "_Generate full HTML document"
+msgstr "生成完整的 HTML 文档(_G)"
+
+msgid "_Gfig..."
+msgstr "几何图形(_Gfig)..."
+
+msgid "_Glass Tile..."
+msgstr "玻璃瓦片(_G)..."
+
+msgid "_Glow radius:"
+msgstr "柔光半径(_G)："
+
+msgid "_Glowing:"
+msgstr "炽光(_G)："
+
+msgid "_Gopher"
+msgstr "_Gopher"
+
+msgid "_Gradient"
+msgstr "渐变(_G)"
+
+msgid "_Gradient Flare..."
+msgstr "渐变闪光(_G)..."
+
+msgid "_Gradient Map"
+msgstr "渐变映射(_G)"
+
+msgid "_Gray:"
+msgstr "灰色(_G)："
+
+msgid "_Green"
+msgstr "绿色(_G)"
+
+msgid "_Green:"
+msgstr "绿色(_G)："
+
+msgid "_Grey"
+msgstr "灰色(_G)"
+
+msgid "_Grid"
+msgstr "网格(_G)"
+
+msgid "_Grid size:"
+msgstr "网格大小(_G)："
+
+msgid "_Grid..."
+msgstr "网格(_G)..."
+
+msgid "_Grow"
+msgstr "膨胀(_G)"
+
+msgid "_Guillotine"
+msgstr "分块(_G)"
+
+msgid "_HSL color model"
+msgstr "HSL 色彩模式(_H)"
+
+msgid "_Height"
+msgstr "高度(_H)"
+
+msgid "_Height (pixels):"
+msgstr "高度(像素)(_H)："
+
+msgid "_Height:"
+msgstr "高度(_H)："
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Hex"
+msgstr "菱形(_H)"
+
+msgid "_Hidden"
+msgstr "隐藏(_H)"
+
+msgid "_Hold the maximal channels"
+msgstr "保留最大的通道(_H)"
+
+msgid "_Holdness:"
+msgstr "保持度(_H)："
+
+msgid "_Hole offset:"
+msgstr "小孔位移(_H)："
+
+msgid "_Horizontal"
+msgstr "水平(_H)"
+
+msgid "_Horizontal style:"
+msgstr "水平方向风格(_H)："
+
+msgid "_Horizontal:"
+msgstr "水平(_H)："
+
+msgid "_Horz. spacing:"
+msgstr "水平间距(_H)："
+
+msgid "_Hot..."
+msgstr "燥点(_H)..."
+
+msgid "_Hue"
+msgstr "色调(_H)"
+
+msgid "_Hue rotation:"
+msgstr "色调旋转(_H)："
+
+msgid "_Hue:"
+msgstr "色调(_H)："
+
+msgid "_Hurl..."
+msgstr "撒(_H)..."
+
+msgid "_ID:"
+msgstr "_ID："
+
+msgid "_IFS Fractal..."
+msgstr "_IFS 分形..."
+
+msgid "_IIR"
+msgstr "IIR(_I)"
+
+msgid "_IWarp..."
+msgstr "交互式翘曲(_IWrap)..."
+
+msgid "_Ideal"
+msgstr "理想(_I)"
+
+msgid "_Identifier prefix:"
+msgstr "标识符前缀(_I)："
+
+msgid "_Ignore"
+msgstr "忽略(_I)"
+
+msgid "_Ignore the bottom layer even if visible"
+msgstr "即使可见也忽略底部图层(_I)"
+
+msgid "_Illusion..."
+msgstr "幻象(_I)..."
+
+msgid "_Image Map..."
+msgstr "图像映像(_I)..."
+
+msgid "_Import"
+msgstr "导入(_I)"
+
+msgid "_Import XMP..."
+msgstr "导入 XMP (_I)..."
+
+msgid "_Inch"
+msgstr "英寸(_I)"
+
+msgid "_Independent RGB"
+msgstr "RGB 不相关(_I)"
+
+msgid "_Input SPI:"
+msgstr "输入 SPI(_I)："
+
+msgid "_Insert"
+msgstr "插入(_I)"
+
+msgid "_Intensity:"
+msgstr "强度(_I)："
+
+msgid "_Interlacing (Adam7)"
+msgstr "交错储存(Adam7)(_I)"
+
+msgid "_Invert"
+msgstr "反转(_I)"
+
+msgid "_JPEG"
+msgstr "_JPEG"
+
+msgid "_JavaScript"
+msgstr "_JavaScript"
+
+msgid "_Jigsaw..."
+msgstr "拼图(_J)..."
+
+msgid "_Keep"
+msgstr "保持(_K)"
+
+msgid "_Keep NCSA circles true"
+msgstr "保持 NCSA 圆为真(true)(_K)"
+
+msgid "_Keep Orientation"
+msgstr "保持方向(_K)"
+
+msgid "_Keep aspect ratio"
+msgstr "保持宽高比(_K)"
+
+msgid "_Keep original surroundings"
+msgstr "保持周围的原始环境(_K)"
+
+msgid "_Keep sign of result (one direction only)"
+msgstr "保持结果的符号(仅单向)(_K)"
+
+msgid "_Keywords:"
+msgstr "关键字 (_K) ："
+
+msgid "_Kill"
+msgstr "删除(_K)"
+
+msgid "_LZW"
+msgstr "_LZW"
+
+msgid "_Laplace"
+msgstr "拉普拉斯(_L)"
+
+msgid "_Large staggered"
+msgstr "大栅格(_L)"
+
+msgid "_Left"
+msgstr "左(_L)"
+
+msgid "_Left start at:"
+msgstr "左端开始于(_L)："
+
+msgid "_Left:"
+msgstr "左(_L)："
+
+msgid "_Lens refraction index:"
+msgstr "透镜折射率(_L)："
+
+msgid "_Level:"
+msgstr "级别(_L)："
+
+msgid "_License:"
+msgstr "许可证(_L)："
+
+msgid "_Light"
+msgstr "光线(_L)"
+
+msgid "_Lighting Effects..."
+msgstr "光照效果(_L)..."
+
+msgid "_Lightness:"
+msgstr "亮度(_L)："
+
+msgid "_Limit line width"
+msgstr "限制线宽(_L)"
+
+msgid "_Lines"
+msgstr "虚线(_L)"
+
+msgid "_Link"
+msgstr "链接(_L)"
+
+msgid "_Load Defaults"
+msgstr "加载默认值(_L)"
+
+msgid "_Lock channels"
+msgstr "锁定通道(_L)"
+
+msgid "_Loop forever"
+msgstr "反复循环(_L)"
+
+msgid "_Lower"
+msgstr "下部(_L)"
+
+msgid "_Luma y470:"
+msgstr "亮度 y470(_L)："
+
+msgid "_Luma y470f:"
+msgstr "亮度 y470f(_L)："
+
+msgid "_Luma y709:"
+msgstr "亮度 y709(_L)："
+
+msgid "_Luma y709f:"
+msgstr "亮度 y709f(_L)："
+
+msgid "_Magenta:"
+msgstr "品红(_M)："
+
+msgid "_Main:"
+msgstr "主要(_M)："
+
+msgid "_Make Seamless"
+msgstr "无缝处理(_M)"
+
+msgid "_Make surroundings transparent"
+msgstr "使环境变为透明(_M)"
+
+msgid "_Map backwards"
+msgstr "反向映射(_M)"
+
+msgid "_Map type:"
+msgstr "贴图类型(_M)："
+
+msgid "_Mapping"
+msgstr "映射(_M)"
+
+msgid "_Mask file extension:"
+msgstr "掩码文件扩展名(_M)："
+
+msgid "_Mask radius:"
+msgstr "模糊半径(_M)："
+
+msgid "_Mask size:"
+msgstr "色块大小(_M)："
+
+msgid "_Material"
+msgstr "材质(_M)"
+
+msgid "_Max (%):"
+msgstr "最大(%)(_M)："
+
+msgid "_Max depth:"
+msgstr "最大深度(_M)："
+
+msgid "_Max. delta:"
+msgstr "最大偏差(_M)："
+
+msgid "_Maze..."
+msgstr "迷宫(_M)..."
+
+msgid "_Metallic"
+msgstr "金属光泽(_M)"
+
+msgid "_Middle value to peaks"
+msgstr "中值到峰值(_M)"
+
+msgid "_Midtones"
+msgstr "中间调(_M)"
+
+msgid "_Millimeter"
+msgstr "毫米(_M)"
+
+msgid "_Minimum value:"
+msgstr "最小值(_M)："
+
+msgid "_Mirror"
+msgstr "镜像(_M)"
+
+msgid "_Misc Ops."
+msgstr "杂项(_M)"
+
+msgid "_Modify hue channel"
+msgstr "修改色调通道(_M)"
+
+msgid "_Modify red channel"
+msgstr "修改红色通道(_M)"
+
+msgid "_Monochrome"
+msgstr "单色(_M)"
+
+msgid "_Mosaic..."
+msgstr "马赛克(_M)..."
+
+msgid "_Motion Blur..."
+msgstr "动态模糊(_M)..."
+
+msgid "_Move"
+msgstr "移动(_M)"
+
+msgid "_NL Filter..."
+msgstr "非线性滤波(_N)..."
+
+msgid "_Natural color"
+msgstr "自然色(_N)"
+
+msgid "_Neon..."
+msgstr "霓虹(_N)..."
+
+msgid "_No. across:"
+msgstr "横向数量(_N)："
+
+msgid "_Noise magnitude:"
+msgstr "噪音量级(_N)："
+
+msgid "_None"
+msgstr "无(_N)"
+
+msgid "_Normal"
+msgstr "普通(_N)"
+
+msgid "_Normalize"
+msgstr "标准化(_N)"
+
+msgid "_Number height:"
+msgstr "数字高度(_N)："
+
+msgid "_Number of segments:"
+msgstr "块数(_N)："
+
+msgid "_Opacity:"
+msgstr "不透明度(_O)："
+
+msgid "_Open..."
+msgstr "打开(_O)..."
+
+msgid "_Optimize"
+msgstr "优化(_O)"
+
+msgid "_Optimize (Difference)"
+msgstr "优化(差值)(_O)"
+
+msgid "_Other:"
+msgstr "其它(_O)："
+
+msgid "_Pack Bits"
+msgstr "压缩位(_P)"
+
+msgid "_Pagecurl..."
+msgstr "页面卷曲(_P)..."
+
+msgid "_Palette Map"
+msgstr "色板映射(_P)"
+
+msgid "_Palette Type:"
+msgstr "色板类型(_P)："
+
+msgid "_Paper Tile..."
+msgstr "纸片平铺(_P)..."
+
+msgid "_Parameters"
+msgstr "参数(_P)"
+
+msgid "_Percent black:"
+msgstr "黑色百分比(_P)："
+
+msgid "_Period:"
+msgstr "周期(_P)："
+
+msgid "_Phase:"
+msgstr "相位(_P)："
+
+msgid "_Photocopy..."
+msgstr "影印(_P)..."
+
+msgid "_Pick..."
+msgstr "捡(_P)..."
+
+msgid "_Pinch"
+msgstr "挤压(_P)"
+
+msgid "_Pinch amount:"
+msgstr "挤压量(_P)："
+
+msgid "_Ping pong"
+msgstr "乒乓(_P)"
+
+msgid "_Pitted surfaces"
+msgstr "粒状表面(_P)"
+
+msgid "_Pixelize..."
+msgstr "像素化(_P)..."
+
+msgid "_Plasma..."
+msgstr "五彩缤纷(Plasma)(_P)..."
+
+msgid "_Playback..."
+msgstr "回放(_P)..."
+
+msgid "_Plug-In Browser"
+msgstr "插件浏览器(_P)"
+
+msgid "_Plural:"
+msgstr "复数(_P)："
+
+msgid "_Polar"
+msgstr "极坐标(_P)"
+
+msgid "_Polished:"
+msgstr "抛光(_P)："
+
+msgid "_Polygon"
+msgstr "多边形(_P)"
+
+msgid "_PostScript level 2"
+msgstr "PostScript level 2(_P)"
+
+msgid "_Prefixed name:"
+msgstr "前缀名字(_P)："
+
+msgid "_Preserve luminosity"
+msgstr "保持亮度(_P)"
+
+msgid "_Presets"
+msgstr "预设(_P)"
+
+msgid "_Preview"
+msgstr "预览(_P)"
+
+msgid "_Preview Once"
+msgstr "预览一次(_P)"
+
+msgid "_Preview!"
+msgstr "预览(_P)！"
+
+msgid "_Print..."
+msgstr "打印(_P)..."
+
+msgid "_Progressive"
+msgstr "渐进(_P)"
+
+msgid "_Prompt for area info"
+msgstr "提示区域信息(_P)"
+
+msgid "_Propagating rate:"
+msgstr "繁殖率(_P)："
+
+msgid "_Psychobilly"
+msgstr "_Psychobilly"
+
+msgid "_Qbist..."
+msgstr "_Qbist..."
+
+msgid "_Quality:"
+msgstr "质量(_Q)："
+
+msgid "_RGB"
+msgstr "RGB(_R)"
+
+msgid "_RGB Noise..."
+msgstr "_RGB 噪音..."
+
+msgid "_RGB color model"
+msgstr "RGB 色彩模式(_R)"
+
+msgid "_RLE"
+msgstr "RLE(_R)"
+
+msgid "_RLE compression"
+msgstr "RLE 压缩(_R)"
+
+msgid "_Radius 1:"
+msgstr "半径 1(_R)："
+
+msgid "_Radius:"
+msgstr "半径(_R)："
+
+msgid "_Random hue:"
+msgstr "随机色调(_R)："
+
+msgid "_Random seed:"
+msgstr "随机数种子(_R)："
+
+msgid "_Randomize"
+msgstr "随机产生(_R)"
+
+msgid "_Rays"
+msgstr "射线(_R)"
+
+msgid "_Rectangle"
+msgstr "矩形(_R)"
+
+msgid "_Red Eye Removal..."
+msgstr "去除红眼(_R)..."
+
+msgid "_Red:"
+msgstr "红色(_R)："
+
+msgid "_Redness cr470:"
+msgstr "红色差 cr470(_R)："
+
+msgid "_Redness cr470f:"
+msgstr "红色差 cr470f(_R)："
+
+msgid "_Redness cr709:"
+msgstr "红色差 cr709(_R)："
+
+msgid "_Redness cr709f:"
+msgstr "红色差 cr709f(_R)："
+
+msgid "_Redo %s"
+msgstr "重做 %s(_R)"
+
+msgid "_Reflective"
+msgstr "反射率(_R)"
+
+msgid "_Reload"
+msgstr "重新载入(_R)"
+
+msgid "_Remove"
+msgstr "删除(_R)"
+
+msgid "_Remove Backdrop"
+msgstr "去除背景(_R)"
+
+msgid "_Rendering"
+msgstr "渲染(_R)"
+
+msgid "_Rendering Intent:"
+msgstr "渲染意图(_R)："
+
+msgid "_Replace the delay of all frames even if it is specified."
+msgstr "替换所有帧的延迟，即使它已经被指定(_R)。"
+
+msgid "_Replace the size of all frames even if it is specified."
+msgstr "替换所有帧的尺寸，即使它已经被指定(_R)。"
+
+msgid "_Require default URL"
+msgstr "要求默认 URL(_R)"
+
+msgid "_Resolution:"
+msgstr "分辨率(_R)："
+
+msgid "_Retain tilability"
+msgstr "保持可平铺(_R)"
+
+msgid "_Right"
+msgstr "右(_R)"
+
+msgid "_Right border"
+msgstr "右边界(_R)"
+
+msgid "_Right:"
+msgstr "右(_R)："
+
+msgid "_Ripple..."
+msgstr "波纹(_R)..."
+
+msgid "_Rotate Colors..."
+msgstr "旋转颜色(_R)..."
+
+msgid "_Rotated"
+msgstr "旋转(_R)"
+
+msgid "_Run-Length Encoded"
+msgstr "行程长度编码(_R)"
+
+msgid "_Sample Colorize..."
+msgstr "样本着色(_S)..."
+
+msgid "_Saturation"
+msgstr "饱和度(_S)"
+
+msgid "_Saturation:"
+msgstr "饱和度(_S)："
+
+msgid "_Save comment to file"
+msgstr "保存注释到文件(_S)"
+
+msgid "_Save..."
+msgstr "保存(_S)..."
+
+msgid "_Scale:"
+msgstr "尺度(_S)："
+
+msgid "_Scanner/Camera..."
+msgstr "扫描仪/相机(_S)..."
+
+msgid "_Screen Shot..."
+msgstr "屏幕截图(_S)..."
+
+msgid "_Screenshot..."
+msgstr "屏幕截图(_S)..."
+
+msgid "_Search depth:"
+msgstr "搜索深度(_S)："
+
+msgid "_Second Flares"
+msgstr "二次闪光(_S)"
+
+msgid "_Selective Gaussian Blur..."
+msgstr "选择性高斯模糊(_S)..."
+
+msgid "_Semi-Flatten"
+msgstr "半平整(_S)"
+
+msgid "_Send"
+msgstr "发送(_S)"
+
+msgid "_Set surroundings to background color"
+msgstr "设置环境为背景色(_S)"
+
+msgid "_Set surroundings to index 0"
+msgstr "设置环境为索引 0(_S)"
+
+msgid "_Settings"
+msgstr "设置(_S)"
+
+msgid "_Shade under curl"
+msgstr "卷曲处带阴影(_S)"
+
+msgid "_Sharpen..."
+msgstr "锐化(_S)..."
+
+msgid "_Sharpness:"
+msgstr "锐度(_S)："
+
+msgid "_Shift..."
+msgstr "滑移(_S)..."
+
+msgid "_Shiny:"
+msgstr "高光亮度(_S)："
+
+msgid "_Sinus..."
+msgstr "正弦(_S)..."
+
+msgid "_Size"
+msgstr "大小(_S)"
+
+msgid "_Size:"
+msgstr "大小(_S)："
+
+msgid "_Slur..."
+msgstr "糊(_S)..."
+
+msgid "_Small Tiles..."
+msgstr "小块平铺(_S)..."
+
+msgid "_Smear"
+msgstr "涂抹(_S)"
+
+msgid "_Snap-to grid enabled"
+msgstr "吸附到网格已启用(_S)"
+
+msgid "_Sobel..."
+msgstr "_Sobel..."
+
+msgid "_Softglow..."
+msgstr "柔光(_S)..."
+
+msgid "_Solid Noise..."
+msgstr "纯色噪音(_S)..."
+
+msgid "_Sparkle..."
+msgstr "火花(_S)..."
+
+msgid "_Speed:"
+msgstr "速度(_S)："
+
+msgid "_Spike length:"
+msgstr "穗的长度(_S)："
+
+msgid "_Spokes:"
+msgstr "辐条(_S)："
+
+msgid "_Spot function:"
+msgstr "点的形状(_S)："
+
+msgid "_Square"
+msgstr "方形(_S)"
+
+msgid "_Staggered"
+msgstr "栅格(_S)"
+
+msgid "_Step"
+msgstr "单步(_S)"
+
+msgid "_Stop"
+msgstr "停止(_S)"
+
+msgid "_Strength:"
+msgstr "力度(_S)："
+
+msgid "_Stretch Contrast"
+msgstr "拉伸对比度(_S)"
+
+msgid "_Stroke"
+msgstr "勾画(_S)"
+
+msgid "_Swap Colors"
+msgstr "交换颜色(_S)"
+
+msgid "_Symbol:"
+msgstr "符号(_S)："
+
+msgid "_Target frame name/ID: (optional - used for FRAMES only)"
+msgstr "目标页框名字/ID(_T)：(可选 - 只对页框使用)"
+
+msgid "_Thickness:"
+msgstr "宽度(_T)："
+
+msgid "_Threshold"
+msgstr "阈值(_T)"
+
+msgid "_Threshold Alpha..."
+msgstr "Alpha 阈值(_T)..."
+
+msgid "_Threshold:"
+msgstr "阈值(_T)："
+
+msgid "_Tile bumpmap"
+msgstr "平铺凹凸贴图(_T)"
+
+msgid "_Tile size:"
+msgstr "方块大小(_T)："
+
+msgid "_Tile..."
+msgstr "平铺(_T)..."
+
+msgid "_Tiling primitives:"
+msgstr "平铺图元(_T)："
+
+msgid "_Title:"
+msgstr "标题(_T)："
+
+msgid "_Tools"
+msgstr "工具(_T)"
+
+msgid "_Top start at:"
+msgstr "顶端开始于(_T)："
+
+msgid "_Top-right"
+msgstr "右上(_T)"
+
+msgid "_Top:"
+msgstr "上(_T)："
+
+msgid "_Transparent"
+msgstr "透明(_T)"
+
+msgid "_URL to activate when this area is clicked: (required)"
+msgstr "此区域被点击时激活的 URL(_U)：(需要)"
+
+msgid "_Undo"
+msgstr "撤消(_U)"
+
+msgid "_Undo %s"
+msgstr "撤消 %s(_U)"
+
+msgid "_Unoptimize"
+msgstr "反优化(_U)"
+
+msgid "_Unsharp Mask..."
+msgstr "虚光蒙板(_U)..."
+
+msgid "_Update"
+msgstr "更新(_U)"
+
+msgid "_Upper"
+msgstr "上部(_U)"
+
+msgid "_Upper border"
+msgstr "上边界(_U)"
+
+msgid "_Upper threshold:"
+msgstr "高端阈值(_U)："
+
+msgid "_Use GLib types (guint8*)"
+msgstr "使用 GLib 类型(guint8*)(_U)"
+
+msgid "_Use background color"
+msgstr "使用背景色(_U)"
+
+msgid "_Use cellspan"
+msgstr "使用 cellspan(_U)"
+
+msgid "_Use delay entered above for all frames"
+msgstr "上面输入的延迟用于所有帧(_U)"
+
+msgid "_Use double-sized grab handles"
+msgstr "使用双倍大小的抓柄(_U)"
+
+msgid "_Use intensity algorithm"
+msgstr "使用强度算法(_U)"
+
+msgid "_Use quality settings from original image"
+msgstr "使用原图像的品质设定(_U)"
+
+msgid "_Use the (invisible) bottom layer as the base"
+msgstr "使用(不可见的)底部图层作为基准(_U)"
+
+msgid "_Use this value only for a frame which delay is not specified."
+msgstr "此值仅用于没有指定延迟的帧(_U)。"
+
+msgid "_Use this value only for a frame which size is not specified."
+msgstr "此值仅用于没有指定尺寸的帧(_U)。"
+
+msgid "_Value"
+msgstr "明度(_V)"
+
+msgid "_Value Invert"
+msgstr "亮度反转(_V)"
+
+msgid "_Value Propagate..."
+msgstr "颜色繁殖(_V)..."
+
+msgid "_Value:"
+msgstr "明度(_V)："
+
+msgid "_Van Gogh (LIC)..."
+msgstr "梵高(LIC)(_V)..."
+
+msgid "_Variation:"
+msgstr "变化(_V)："
+
+msgid "_Vert. spacing:"
+msgstr "垂直间距(_V)："
+
+msgid "_Vertical"
+msgstr "垂直(_V)"
+
+msgid "_Vertical style:"
+msgstr "垂直方向风格(_V)："
+
+msgid "_Vertical:"
+msgstr "竖直(_V)："
+
+msgid "_View"
+msgstr "查看(_V)"
+
+msgid "_Voronoi"
+msgstr "_Voronoi"
+
+msgid "_Warp..."
+msgstr "翘曲(_W)..."
+
+msgid "_Waterlevel:"
+msgstr "水平(_W)："
+
+msgid "_Wavelength:"
+msgstr "波长(_W)："
+
+msgid "_Waves..."
+msgstr "波(_W)..."
+
+msgid "_Web Site"
+msgstr "Web 站点(_W)"
+
+msgid "_Whirl"
+msgstr "旋转(_W)"
+
+msgid "_Whirl angle:"
+msgstr "旋转角度(_W)："
+
+msgid "_White"
+msgstr "白色(_W)"
+
+msgid "_White level:"
+msgstr "白色水平(_W)："
+
+msgid "_Wide-striped"
+msgstr "宽条纹(_W)"
+
+msgid "_Width"
+msgstr "宽度(_W)"
+
+msgid "_Width (pixels):"
+msgstr "宽度(像素)(_W)："
+
+msgid "_Width:"
+msgstr "宽度(_W)："
+
+msgid "_Wind"
+msgstr "风(_W)"
+
+msgid "_With white noise"
+msgstr "与白色噪音(_W)"
+
+msgid "_Wrap"
+msgstr "环绕(_W)"
+
+msgid "_Wrap around"
+msgstr "环绕(_W)"
+
+msgid "_Write hot spot values"
+msgstr "写入燥点坐标(_W)"
+
+msgid "_X displacement"
+msgstr "X 移位(_X)"
+
+msgid "_X displacement:"
+msgstr "X 移位(_X)："
+
+msgid "_X offset:"
+msgstr "X 位移(_X)："
+
+msgid "_X ratio:"
+msgstr "X 比率(_X)："
+
+msgid "_X resolution:"
+msgstr "_X 分辨率："
+
+msgid "_X scale:"
+msgstr "X 缩放(_X)："
+
+msgid "_X shift:"
+msgstr "_X 偏移："
+
+msgid "_X size:"
+msgstr "_X 大小："
+
+msgid "_X10 format bitmap"
+msgstr "X10 格式位图(_X)"
+
+msgid "_X:"
+msgstr "_X："
+
+msgid "_Y displacement"
+msgstr "Y 移位(_Y)"
+
+msgid "_Y displacement:"
+msgstr "Y 移位(_Y)："
+
+msgid "_Y offset:"
+msgstr "Y 位移(_Y)："
+
+msgid "_Y ratio:"
+msgstr "Y 比率(_Y)："
+
+msgid "_Y resolution:"
+msgstr "_Y 分辨率："
+
+msgid "_Y scale:"
+msgstr "Y 缩放(_Y)："
+
+msgid "_Y shift:"
+msgstr "_Y 偏移："
+
+msgid "_Y size:"
+msgstr "_Y 大小："
+
+msgid "_Y:"
+msgstr "_Y："
+
+msgid "_Yellow"
+msgstr "黄色(_Y)"
+
+msgid "_Yellow:"
+msgstr "黄色(_Y)："
+
+msgid "_Z:"
+msgstr "_Z："
+
+msgid "_Zealous Crop"
+msgstr "积极剪裁(_Z)"
+
+msgid "_Zoom"
+msgstr "缩放(_Z)"
+
+msgid "_Zoom To"
+msgstr "缩放至(_Z)"
+
+msgid "_Zoom:"
+msgstr "缩放(_Z)："
+
+msgid "`Default' is created."
+msgstr "“默认”已创建。"
+
+msgid "after"
+msgstr "延迟"
+
+msgctxt "align-style"
+msgid "None"
+msgstr "无"
+
+msgid "alpha"
+msgstr "Alpha"
+
+msgctxt "antialiasing"
+msgid "None"
+msgstr "无"
+
+msgid "autostretch_hsv: cmap was NULL!  Quitting...\n"
+msgstr "autostretch_hsv：cmap 为空！退出...\n"
+
+msgid "black"
+msgstr "黑色"
+
+msgid "blue"
+msgstr "蓝色"
+
+msgid "blueness-cb470"
+msgstr "蓝色差-cb470"
+
+msgid "blueness-cb470f"
+msgstr "蓝色差-cb470f"
+
+msgid "blueness-cb709"
+msgstr "蓝色差-cb709"
+
+msgid "blueness-cb709f"
+msgstr "蓝色差-cb709f"
+
+msgctxt "blur-type"
+msgid "_Linear"
+msgstr "线性(_L)"
+
+msgctxt "blur-type"
+msgid "_Radial"
+msgstr "转向(_R)"
+
+msgctxt "blur-type"
+msgid "_Zoom"
+msgstr "缩放(_Z)"
+
+msgid "bzip archive"
+msgstr "bzip 存档"
+
+msgid "c_astretch: cmap was NULL!  Quitting...\n"
+msgstr "c_astretch：cmap 为空！退出...\n"
+
+msgctxt "center-mode"
+msgid "None"
+msgstr "无"
+
+msgctxt "checkbutton"
+msgid "Snap to grid"
+msgstr "吸附到网格"
+
+msgctxt "cml-composition"
+msgid "None"
+msgstr "无"
+
+msgctxt "color-function"
+msgid "None"
+msgstr "无"
+
+msgctxt "color-range"
+msgid "From:"
+msgstr "从："
+
+msgctxt "color-range"
+msgid "To:"
+msgstr "到："
+
+msgctxt "color-rotate"
+msgid "From:"
+msgstr "从："
+
+msgctxt "color-rotate"
+msgid "To:"
+msgstr "到："
+
+msgctxt "color-to-alpha"
+msgid "From:"
+msgstr "从："
+
+msgctxt "composing"
+msgid "None"
+msgstr "无"
+
+msgctxt "compression"
+msgid "None"
+msgstr "无"
+
+msgid "cyan"
+msgstr "青色"
+
+msgid "cyan-k"
+msgstr "青色-k"
+
+msgid "e-_mail"
+msgstr "电子邮件(_M)"
+
+msgctxt "email-address"
+msgid "_From:"
+msgstr "从(_F)："
+
+msgctxt "email-address"
+msgid "_To:"
+msgstr "到(_T)："
+
+msgctxt "frame-range"
+msgid "From:"
+msgstr "从："
+
+msgctxt "frame-range"
+msgid "To:"
+msgstr "到："
+
+msgid "green"
+msgstr "绿色"
+
+msgid "gzip archive"
+msgstr "gzip 存档"
+
+msgid "hue"
+msgstr "色调"
+
+msgid "hue_l"
+msgstr "色调_l"
+
+msgid "illegal bpp value in image: %hhu"
+msgstr "图像的非法 bpp 值 : %hhu"
+
+msgid ""
+"illegal image dimensions: width: %d, horizontal offset: %d, height: %d, "
+"vertical offset: %d"
+msgstr "非法图像尺寸：宽度 : %d, 水平位移 : %d, 高度 : %d, 垂直位移 : %d"
+
+msgid "invalid formatted GFlare file: %s\n"
+msgstr "无效的渐变闪光文件格式：%s\n"
+
+msgid "is not a CEL image file"
+msgstr "不是 CEL 图像文件"
+
+msgid "k(1-x^p)"
+msgstr "k(1-x^p)"
+
+msgid "k(1-x^p) stepped"
+msgstr "k(1-x^p) 跃阶"
+
+msgid "kx^p"
+msgstr "kx^p"
+
+msgid "kx^p stepped"
+msgstr "kx^p 跃阶"
+
+msgid "k{x(1-x)}^p"
+msgstr "k{x(1-x)}^p"
+
+msgid "k{x(1-x)}^p stepped"
+msgstr "k{x(1-x)}^p 跃阶"
+
+msgctxt "light-source"
+msgid "None"
+msgstr "无"
+
+msgid "lightness"
+msgstr "亮度"
+
+msgid "luma-y470"
+msgstr "亮度-y470"
+
+msgid "luma-y470f"
+msgstr "亮度-y470f"
+
+msgid "luma-y709"
+msgstr "亮度-y709"
+
+msgid "luma-y709f"
+msgstr "亮度-y709f"
+
+msgid "magenta"
+msgstr "品红"
+
+msgid "magenta-k"
+msgstr "品红-k"
+
+msgid "milliseconds"
+msgstr "毫秒"
+
+msgid "not found %s in gflares_list"
+msgstr "在 gflares_list 中没有找到 %s"
+
+msgid "pixels"
+msgstr "像素"
+
+msgid "pixels from _top"
+msgstr "顶端像素(_T)"
+
+msgid "pixels from l_eft"
+msgstr "左端像素(_E)"
+
+msgid "pixels/%a"
+msgstr "像素/%a"
+
+msgid "red"
+msgstr "红色"
+
+msgid "redness-cr470"
+msgstr "红色差-cr470"
+
+msgid "redness-cr470f"
+msgstr "红色差-cr470f"
+
+msgid "redness-cr709"
+msgstr "红色差-cr709"
+
+msgid "redness-cr709f"
+msgstr "红色差-cr709f"
+
+msgid "saturation"
+msgstr "饱和度"
+
+msgid "saturation_l"
+msgstr "饱和度_l"
+
+msgctxt "search"
+msgid "_Next"
+msgstr "下一个(_N)"
+
+msgctxt "search"
+msgid "_Previous"
+msgstr "上一个(_P)"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "sin^p, stepped"
+msgstr "sin^p，跃阶"
+
+msgid "sin^p-based function"
+msgstr "基于 sin^p 的函数"
+
+msgid "some sort of error with the file extension or lack thereof"
+msgstr "文件扩展名缺失或者存在某种错误"
+
+msgid "there is no image chunk in \"%s\"."
+msgstr "“%s”中没有图像块。"
+
+msgid "to alpha"
+msgstr "到 Alpha"
+
+msgid "value"
+msgstr "明度"
+
+msgctxt "web-page"
+msgid "Default"
+msgstr "默认值"
+
+msgid "wget exited abnormally on URI '%s'"
+msgstr "wget 在 URI “%s”上异常退出"
+
+msgid "x (pixels)"
+msgstr "X (像素)"
+
+msgid "y (pixels)"
+msgstr "Y (像素)"
+
+msgid "yellow"
+msgstr "黄色"
+
+msgid "yellow-k"
+msgstr "黄色-k"

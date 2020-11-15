@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: screen-resolution-extra\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-02-18 12:57+0000\n"
+"PO-Revision-Date: 2014-03-26 03:42+0000\n"
+"Last-Translator: Carlos Gong <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:28+0000\n"
+
+msgid "Change Screen Resolution Configuration"
+msgstr "更改屏幕分辨率设置"
+
+msgid "Change the effect of Ctrl+Alt+Backspace"
+msgstr "更改按 Ctrl+Alt+Backspace 后的效果"
+
+msgid "Changing the Screen Resolution configuration requires privileges."
+msgstr "更改屏幕分辨率配置需要权限。"
+
+msgid "Changing the effect of Ctrl+Alt+Backspace requires privileges."
+msgstr "更改 Ctrl+Alt+Backspace 组合键功能需要权限。"
+
+msgid "Could not connect to Monitor Resolution Settings DBUS service."
+msgstr "不能与显示器分辨率配置工具的 DBUS 服务连接。"
+
+msgid "Enable or disable the NVIDIA GPU with PRIME"
+msgstr "使用 PRIME 启用或禁用 NVIDIA GPU"
+
+msgid "Enabling or disabling the NVIDIA GPU requires privileges."
+msgstr "启用或禁用 NVIDIA GPU 需要权限。"
+
+msgid "Monitor Resolution Settings"
+msgstr "显示器分辨率配置工具"
+
+msgid "Monitor Resolution Settings can't apply your settings."
+msgstr "显示器分辨率配置工具不能应用你的设置。"
+
+msgid ""
+"Monitor Resolution Settings has detected that the virtual resolution must be set in your configuration file in order to apply your settings.\n"
+"\n"
+"Would you like Screen Resolution to set the virtual resolution for you? (Recommended)"
+msgstr ""
+"显示器分辨率配置工具检测结果：到要应用您的设置，必须先在配置文件里设置虚拟分辨率。\n"
+"您需要显示器分辨率配置工具为您设置虚拟的分辨率吗？（建议）"
+
+msgid ""
+"Please log out and log back in again.  You will then be able to use Monitor "
+"Resolution Settings to setup your monitors"
+msgstr "请注销后再登入，您将能够使用显示器分辨率配置工具来设置您的显示器"

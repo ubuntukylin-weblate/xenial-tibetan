@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: apparmor-parser\n"
+"Report-Msgid-Bugs-To: <apparmor@lists.ubuntu.com>\n"
+"POT-Creation-Date: 2005-03-31 13:39-0800\n"
+"PO-Revision-Date: 2016-04-13 10:49+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:06+0000\n"
+
+msgid ""
+"!\n"
+"Ensure that it has been loaded.\n"
+msgstr ""
+"!\n"
+"确保其已装载。\n"
+
+msgid "%s: ASSERT: Invalid option: %d\n"
+msgstr "%s: 声明：无效选项： %d\n"
+
+msgid "%s: Could not allocate memory for subdomainbase mount point\n"
+msgstr "%s: 无法为子域基底装入点分配内存\n"
+
+msgid "%s: Errors found in combining rules postprocessing. Aborting.\n"
+msgstr "%s: 在组合规则后处理中发现错误。正在中止。\n"
+
+msgid "%s: Errors found in file. Aborting.\n"
+msgstr "%s: 文件中发现错误。正在中止。\n"
+
+msgid "%s: Failed to compile regex '%s' [original: '%s']\n"
+msgstr "%s: 未能编译 regex'%s'[原始：'%s']\n"
+
+msgid "%s: Failed to compile regex '%s' [original: '%s'] - malloc failed\n"
+msgstr "%s: 未能编译 regex'%s'[原始：'%s'] － malloc 失败\n"
+
+msgid "%s: Illegal open {, nesting groupings not allowed\n"
+msgstr "%s: 不合法的左侧大括号 {，不允许嵌套分组\n"
+
+msgid "%s: Internal buffer overflow detected, %d characters exceeded\n"
+msgstr "%s: 检测到内部缓冲区溢出，超过 %d 个字符\n"
+
+msgid "%s: Regex grouping error: Invalid close }, no matching open { detected\n"
+msgstr "%s: Regex 分组错误：无效的右侧花括号 }，未检测到匹配的左侧花括号 {\n"
+
+msgid "%s: Regex grouping error: Invalid number of items between {}\n"
+msgstr "%s: Regex 分组错误：{} 内的项目数无效\n"
+
+msgid ""
+"%s: Sorry. You need root privileges to run this program.\n"
+"\n"
+msgstr ""
+"%s：对不起。您需要 root 特权才能运行此程序。\n"
+"\n"
+
+msgid "%s: Unable to add \"%s\".  "
+msgstr "%s: 无法添加\"%s\"。  "
+
+msgid "%s: Unable to find "
+msgstr "%s: 无法找到 "
+
+msgid "%s: Unable to parse input line '%s'\n"
+msgstr "%s: 无法对输入行'%s'进行语法分析\n"
+
+msgid ""
+"%s: Unable to query modules - '%s'\n"
+"Either modules are disabled or your kernel is too old.\n"
+msgstr ""
+"%s: 无法查询模块 －'%s'\n"
+"模块被禁用或内核过旧。\n"
+
+msgid "%s: Unable to remove \"%s\".  "
+msgstr "%s: 无法去除\"%s\"。  "
+
+msgid "%s: Unable to replace \"%s\".  "
+msgstr "%s: 无法替换\"%s\"。  "
+
+msgid "%s: Unable to write entire profile entry\n"
+msgstr "%s: 无法写入整个配置文件项\n"
+
+msgid "%s: Unable to write to stdout\n"
+msgstr "%s: 无法写入 stdout\n"
+
+msgid ""
+"%s: Warning! You've set this program setuid root.\n"
+"Anybody who can run this program can update your AppArmor profiles.\n"
+"\n"
+msgstr ""
+"%s：警告！您已将此程序设置为 setuid root。\n"
+"任何可以运行此程序的人都可以更新 AppArmor 配置文件。\n"
+"\n"
+
+msgid "%s: error near               "
+msgstr "%s: 错误接近               "
+
+msgid "%s: error reason: '%s'\n"
+msgstr "%s: 错误原因： '%s'\n"
+
+msgid "(ip_mode) Found unexpected character: '%s'"
+msgstr "(ip_mode) 发现意外字符： '%s'"
+
+msgid "Addition succeeded for \"%s\".\n"
+msgstr "添加\"%s\"成功。\n"
+
+msgid "AppArmor parser error, line %d: %s\n"
+msgstr "AppArmor 语法分析器错误，第 %d 行：%s\n"
+
+msgid "Assert: 'hat rule' returned NULL."
+msgstr "声明：'hat rule'返回 NULL。"
+
+msgid "Assert: `addresses' returned NULL."
+msgstr "声明：`addresses'返回 NULL。"
+
+msgid "Assert: `netrule' returned NULL."
+msgstr "声明：`netrule'返回 NULL。"
+
+msgid "Assert: `rule' returned NULL."
+msgstr "声明：`rule'返回 NULL。"
+
+msgid "Bad write position\n"
+msgstr "写入位置无效\n"
+
+msgid "Couldn't copy profile Bad memory address\n"
+msgstr "无法复制配置文件，内存地址无效\n"
+
+msgid "Couldn't merge entries. Out of Memory\n"
+msgstr "无法合并项。内存不足\n"
+
+msgid "ERROR in profile %s, failed to load\n"
+msgstr "配置文件 %s 中存在错误，未能装载\n"
+
+msgid "Error couldn't allocate temporary file\n"
+msgstr "错误 无法分配临时文件\n"
+
+msgid "Error: Can't add directory %s to search path\n"
+msgstr "错误：无法将目录 %s 加入至查找路径\n"
+
+msgid "Error: Could not allocate memory\n"
+msgstr "错误：无法分配内存\n"
+
+msgid "Error: Out of Memory\n"
+msgstr "错误：内存用尽\n"
+
+msgid "Exec qualifier 'i' invalid, conflicting qualifier already specified"
+msgstr "Exec 限定符'i'无效，已指定了和其冲突的限定符"
+
+msgid "Exec qualifier 'i' must be followed by 'x'"
+msgstr "Exec 限定符'i'必须后面跟有'x'"
+
+msgid "Found unexpected character: '%s'"
+msgstr "发现意外字符： '%s'"
+
+msgid "Memory allocation error."
+msgstr "内存分配错误。"
+
+msgid "Network entries can only have one FROM address."
+msgstr "网络项只能有一个 FROM 地址。"
+
+msgid "Network entries can only have one TO address."
+msgstr "网络项只能有一个 TO 地址。"
+
+msgid "Out of memory\n"
+msgstr "内存不足\n"
+
+msgid "PANIC bad increment buffer %p pos %p ext %p size %d res %p\n"
+msgstr "PANIC 无效的递增缓冲区：%p pos %p ext %p size %d res %p\n"
+
+msgid "Permission denied\n"
+msgstr "拒绝许可权限\n"
+
+msgid "Profile already exists\n"
+msgstr "配置文件已存在\n"
+
+msgid "Profile does not match signature\n"
+msgstr "配置文件和签名不匹配\n"
+
+msgid "Profile doesn't conform to protocol\n"
+msgstr "配置文件未遵守协议\n"
+
+msgid "Profile doesn't exist\n"
+msgstr "配置文件不存在\n"
+
+msgid "Removal succeeded for \"%s\".\n"
+msgstr "去除\"%s\"成功。\n"
+
+msgid "Replacement succeeded for \"%s\".\n"
+msgstr "替换\"%s\"成功。\n"
+
+msgid "Unable to open %s - %s\n"
+msgstr "无法打开 %s － %s\n"
+
+msgid "Unknown error\n"
+msgstr "未知错误\n"
+
+msgid "`%s' is not a valid ip address."
+msgstr "`%s'不是有效的 IP 地址。"
+
+msgid "`%s' is not a valid netmask."
+msgstr "`%s'不是有效的网络掩码。"
+
+msgid "`/%d' is not a valid netmask."
+msgstr "`/%d'不是有效的网络掩码。"
+
+msgid "missing an end of line character? (entry: %s)"
+msgstr "是否缺少行结束字符？（项：%s）"
+
+msgid "ports must be between %d and %d"
+msgstr "端口必须在 %d 和 %d 之间"
+
+msgid "profile %s: has merged rule %s with multiple x modifiers\n"
+msgstr "配置文件 %s：已将规则 %s 和多个 x 修改程序并合\n"
+
+msgid "unable to create work area\n"
+msgstr "无法创建工作区域\n"
+
+msgid "unable to serialize profile %s\n"
+msgstr "无法序列化配置文件 %s\n"

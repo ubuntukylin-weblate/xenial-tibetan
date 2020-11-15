@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libparse-debianchangelog-perl\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-08-25 20:38+0000\n"
+"PO-Revision-Date: 2009-09-29 09:23+0000\n"
+"Last-Translator: Tao Wei <weitao1979@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:44+0000\n"
+
+msgid "Copyright (C) 2005 by Frank Lichtenheld\n"
+msgstr "版权所有(C) 2005  Frank Lichtenheld\n"
+
+msgid "FATAL: %s"
+msgstr "致命：%s"
+
+msgid ""
+"This is free software; see the GNU General Public Licence version 2 or later"
+" for copying conditions. There is NO warranty."
+msgstr "这是自由软件；关于复制请查看 GNU General Public Licence 版本2 或更新版本。没有任何质量担保。"
+
+msgid "WARN: %s(l%s): %s\n"
+msgstr "警告：%s(l%s): %s\n"
+
+msgid ""
+"WARN: %s(l%s): %s\n"
+"LINE: %s\n"
+msgstr ""
+"警告：%s(l%s): %s\n"
+"行：%s\n"
+
+msgid "bad key-value after `;': `%s'"
+msgstr "在 `;' 之后的键值无效: `%s'"
+
+msgid "can't close file %s: %s"
+msgstr "无法关闭文件 %s：%s"
+
+msgid "can't load IO::String: %s"
+msgstr "无法载入 IO::String: %s"
+
+msgid "can't lock file %s: %s"
+msgstr "无法锁定文件 %s: %s"
+
+msgid "can't open file %s: %s"
+msgstr "无法打开文件 %s：%s"
+
+msgid "changelog format %s not supported"
+msgstr "不支持更新日志格式 %s"
+
+msgid "couldn't parse date %s"
+msgstr "无法解析日期 %s"
+
+msgid "fatal error occured while parsing %s"
+msgstr "解析 %s 时出现致使错误"
+
+msgid "ignored option -L"
+msgstr "忽略的选项 -L"
+
+msgid "more than one file specified (%s and %s)"
+msgstr "指定了超过一个文件(%s 和 %s)"
+
+msgid "no changelog file specified"
+msgstr "没有指定更新日志文件"
+
+msgid "output format %s not supported"
+msgstr "不支持输出格式 %s"
+
+msgid "repeated key-value %s"
+msgstr "重复的键值 %s"
+
+msgid "too many arguments"
+msgstr "参数过多"
+
+msgid "unrecognised line"
+msgstr "未识别的行"
+
+msgid "you can only specify one of 'from' and 'since'"
+msgstr "您只能指定 'from' 和 'since' 之一。"
+
+msgid "you can only specify one of 'to' and 'until'"
+msgstr "您只能指定 'to' 和 'until' 之一。"

@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gdebi\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-04-11 17:04+0000\n"
+"PO-Revision-Date: 2016-03-25 03:03+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:43+0000\n"
+
+msgid ""
+"\n"
+"It is a possible security risk to install packages files manually.\n"
+"Install software from trustworthy software distributors only.\n"
+msgstr ""
+"\n"
+"手工安装软件包是一种潜在的安全风险。\n"
+"只从值得信任的软件发行者的渠道安装软件。\n"
+
+msgid ""
+"\n"
+"Lintian finished with exit status %s"
+msgstr ""
+"\n"
+"当前状态下的Lintian已完成  %s"
+
+msgid "  "
+msgstr "  "
+
+msgid "%s is not available"
+msgstr "%s 不可用"
+
+msgid "&Download Package"
+msgstr "下载软件包(&D)"
+
+msgid "&Install Package"
+msgstr "安装软件包(&I)"
+
+msgid "&Reinstall Package"
+msgstr "重新安装软件包(&R)"
+
+msgid "'%s' is not a Debian package"
+msgstr "'%s' 不是一个 Debian 软件包"
+
+msgid "<b><big>   </big></b>"
+msgstr "<b><big> </big></b>"
+
+msgid "<b>Maintainer:</b>"
+msgstr "<b>维护者：</b>"
+
+msgid "<b>Package '%s' was installed</b>"
+msgstr "<b>软件包 '%s' 已安装</b>"
+
+msgid "<b>Priority:</b>"
+msgstr "<b>优先级：</b>"
+
+msgid "<b>Section:</b>"
+msgstr "<b>组别：</b>"
+
+msgid "<b>Size:</b>"
+msgstr "<b>大小：</b>"
+
+msgid "<b>To be removed: %s</b>"
+msgstr "<b>将要删除：%s</b>"
+
+msgid "<b>To install the following changes are required:</b>"
+msgstr "<b>要进行安装，需要做以下改变：</b>"
+
+msgid "<b>Version:</b>"
+msgstr "<b>版本：</b>"
+
+msgid "A later version is available in a software channel"
+msgstr "软件仓库中有更新的版本"
+
+msgid ""
+"A nonexistent file has been selected for installation. Please select an "
+"existing .deb package file."
+msgstr "选择了一个不存在的文件来安装。请选择一个存在的 .deb 软件包文件。"
+
+msgid "All dependencies are satisfied"
+msgstr "所有依赖关系已满足"
+
+msgid "An older version is available in a software channel"
+msgstr "软件渠道中有较旧的可用版本。"
+
+msgid "Auto close when the install is finished"
+msgstr "安装完成后自动关闭"
+
+msgid "Automatically close after the changes have been successfully applied"
+msgstr "在成功应用更改后自动关闭"
+
+msgid "Broken dependencies"
+msgstr "损坏的依赖关系"
+
+msgid "Can not download as root"
+msgstr "无法以 root 身份下载"
+
+msgid "Click packages can currently only be inspected with this tool"
+msgstr "现在使用此工具，将只会检查点击的软件包。"
+
+msgid "Configuration items must be specified with a =<value>\n"
+msgstr "配置项必须以 =<值> 的方式指定\n"
+
+msgid "Copy selected text"
+msgstr "复制所选文字"
+
+msgid "Could not download all required files"
+msgstr "无法下载全部必需的文件"
+
+msgid "Could not install all dependencies"
+msgstr "无法安装所有依赖软件包"
+
+msgid "Could not open '%s'"
+msgstr "打不开 '%s'"
+
+msgid "Couldn't set APT option %s to %s\n"
+msgstr "无法将 APT 选项 %s 设为 %s\n"
+
+msgid "Dependency problems"
+msgstr "依赖问题"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Details"
+msgstr "细节"
+
+msgid "Do not show progress information"
+msgstr "不显示进度信息"
+
+msgid "Do you want to install the software package? [y/N]:"
+msgstr "您是否想安装这个软件包？[y/N]:"
+
+msgid "Download failed"
+msgstr "下载失败"
+
+msgid "Downloading additional package files..."
+msgstr "正在下载额外的软件包文件..."
+
+msgid "Downloading package"
+msgstr "正在下载软件包"
+
+msgid "Downloading the package failed: file '%s' '%s'"
+msgstr "软件包下载失败：文件 '%s' '%s'"
+
+msgid "Error during install: '%s'"
+msgstr "安装时出错： '%s'"
+
+msgid "Error reading file content '%s'"
+msgstr "读取文件内容“%s”时出错"
+
+msgid "Error reading filelist"
+msgstr "读取文件列表出错"
+
+msgid "Error: "
+msgstr "错误： "
+
+msgid "Error: no longer provides "
+msgstr "错误：已不再提供 "
+
+msgid "Failed to completely install all dependencies"
+msgstr "未能完整地安装所有依赖软件包"
+
+msgid "Failed to completely remove package"
+msgstr "未能完全移除软件包"
+
+msgid "Failed to install package '%s'"
+msgstr "安装软件包'%s'失败"
+
+msgid "Failed to install package file"
+msgstr "安装软件包文件失败"
+
+msgid "Failed to open the software package\n"
+msgstr "打开软件包失败\n"
+
+msgid "Failed to remove package"
+msgstr "移除软件包失败"
+
+msgid "Failed to remove package '%s'"
+msgstr "移除软件包“%s”失败"
+
+msgid "File %s of %s"
+msgstr "文件 %s/%s"
+
+msgid "File %s of %s at %sB/s"
+msgstr "文件 %s/%s 速度： %sB/s"
+
+msgid "File content can not be extracted"
+msgstr "无法提取文件内容"
+
+msgid "File not found"
+msgstr "文件未找到"
+
+msgid "GDebi Package Installer"
+msgstr "GDebi 软件包安装程序"
+
+msgid "GPL, see /usr/share/common-licenses/GPL"
+msgstr "GPL, 参见 /usr/share/common-licenses/GPL"
+
+msgid ""
+"Generally you are recommended to install the version from the software "
+"channel, since it is usually better supported."
+msgstr "您最好还是从软件仓库中安装这个软件，因为它通常有更好的支持。"
+
+msgid "Included Files"
+msgstr "包含文件"
+
+msgid "Included files"
+msgstr "包含的文件"
+
+msgid "Install and view software packages"
+msgstr "安装和查看软件包"
+
+msgid "Install unauthenticated software?"
+msgstr "安装未认证的软件？"
+
+msgid "Installation complete"
+msgstr "安装完成"
+
+msgid "Installation finished"
+msgstr "安装完成"
+
+msgid "Installing"
+msgstr "正在安装"
+
+msgid "Installing %s"
+msgstr "正在安装 %s"
+
+msgid "Installing '%s'..."
+msgstr "正在安装 '%s'..."
+
+msgid "Installing dependencies..."
+msgstr "正在安装依赖软件包..."
+
+msgid "Installing package file..."
+msgstr "正在安装软件包文件..."
+
+msgid "It is a possible risk to remove packages."
+msgstr "移除软件包有潜在的风险。"
+
+msgid "Lintian output"
+msgstr "Lintian 输出"
+
+msgid "Loading..."
+msgstr "正在加载..."
+
+msgid ""
+"Malicious software can damage your data and take control of your system.\n"
+"\n"
+"The packages below are not authenticated and could therefore be of malicious nature."
+msgstr ""
+"恶意软件会破坏您的数据并控制您的系统。\n"
+"\n"
+"以下的软件包未经过验证，可能会具有恶意性质。"
+
+msgid "Media Change"
+msgstr "媒介改变"
+
+msgid "Need to be root to install packages"
+msgstr "需要以 root 权限安装软件包"
+
+msgid "No description is available"
+msgstr "没有可用的描述"
+
+msgid ""
+"No lintian available.\n"
+"Please install using sudo apt-get install lintian"
+msgstr "软件包 lintian 不可用。请使用 sudo apt-get install lintian 安装"
+
+msgid "One or more packages are required by %s, it cannot be removed."
+msgstr "%s 依赖一个或多个软件包，不能移除它。"
+
+msgid "Only one software management tool is allowed to run at the same time"
+msgstr "同时只允许运行一个软件管理工具"
+
+msgid "Open Software Package"
+msgstr "打开软件包"
+
+msgid "Package '%s' was installed"
+msgstr "软件包'%s'已安装"
+
+msgid "Package '%s' was removed"
+msgstr "软件包“%s”已移除"
+
+msgid "Package Installer"
+msgstr "软件包安装程序"
+
+msgid "Package Installer - %s"
+msgstr "软件包安装程序 - %s"
+
+msgid "Package control data"
+msgstr "软件包控制数据"
+
+msgid "Package:"
+msgstr "软件包："
+
+msgid ""
+"Please check your internet connection or installation medium, and make sure "
+"your APT cache is up-to-date."
+msgstr "请检查您的网络连接或安装介质，同时确保您的APT缓存文件已是最新。"
+
+msgid ""
+"Please check your internet connection or installation medium, or make sure "
+"your APT cache is up-to-date."
+msgstr "请检查您的网络连接或安装介质，或者确保您的APT缓存文件已是最新。"
+
+msgid ""
+"Please close the other application e.g. 'Update Manager', 'aptitude' or "
+"'Synaptic' first."
+msgstr "请先关闭其他应用程序如 'Update Manager'、 'aptitude' 或 'Synaptic' 。"
+
+msgid "Please insert '%s' into the drive '%s'"
+msgstr "请将 '%s' 插入驱动器 '%s' 中"
+
+msgid "Re&install Package"
+msgstr "重新安装软件包(&I)"
+
+msgid ""
+"Remote packages can not be downloaded when running as root. Please try again"
+" as a normal user."
+msgstr "以 root 身份运行时无法下载远程软件包。请以普通用户身份重试。"
+
+msgid "Removal complete"
+msgstr "移除完成"
+
+msgid "Removal finished"
+msgstr "移除结束"
+
+msgid "Remove package"
+msgstr "移除软件包"
+
+msgid "Removing %s"
+msgstr "正在移除 %s"
+
+msgid "Removing '%s'..."
+msgstr "正在移除“%s”..."
+
+msgid "Removing package..."
+msgstr "正在移除软件包..."
+
+msgid "Requires the <b>removal</b> of %s packages\n"
+msgstr "需要 the <b>移除</b>  %s 个软件包\n"
+
+msgid "Requires the REMOVAL of the following packages: "
+msgstr "需要 移除 以下软件包： "
+
+msgid "Requires the installation of %s packages"
+msgstr "需要安装 %s 个软件包"
+
+msgid "Requires the installation of the following packages: "
+msgstr "需要安装以下软件包： "
+
+msgid "Run non-interactive (dangerous!)"
+msgstr "以非交互式运行（危险！）"
+
+msgid "Running lintian..."
+msgstr "lintian运行中"
+
+msgid "Same version is already installed"
+msgstr "已安装相同版本"
+
+msgid "Same version is available in a software channel"
+msgstr "软件仓库中有相同版本"
+
+msgid "Selection is a directory"
+msgstr "选择的是一个目录"
+
+msgid "Set an APT configuration option"
+msgstr "设置一个 APT 配置选项"
+
+msgid "Simulate only and print a apt-get install compatible line to stderr"
+msgstr "仅模拟执行并向标准错误（stderr）输出一行与 apt-get install 兼容的信息。"
+
+msgid "Software index is broken"
+msgstr "软件索引已损坏"
+
+msgid "Software packages"
+msgstr "软件包"
+
+msgid "Status:"
+msgstr "状态:"
+
+msgid "Terminal"
+msgstr "终端"
+
+msgid ""
+"The MIME type of this file is '%s' and can not be installed on this system."
+msgstr "此文件的 MIME 类型为 '%s' ，不能安装到系统上。"
+
+msgid "The following packages are UNAUTHENTICATED: "
+msgstr "下列软件包未经认证： "
+
+msgid "The package file does not exist"
+msgstr "软件包文件不存在"
+
+msgid ""
+"The package might be corrupted or you are not allowed to open the file. "
+"Check the permissions of the file."
+msgstr "软件包可能已损坏或不允许您打开此文件。检查文件的权限。"
+
+msgid ""
+"The package might be corrupted or you are not allowed to open the file. "
+"Check the permissions of the file.\n"
+msgstr "软件包可能已被破坏，或者不允许您打开此文件。检查文件的权限。\n"
+
+msgid ""
+"This is a major failure of your software management system. Please check for"
+" broken packages with synaptic, check the file permissions and correctness "
+"of the file '/etc/apt/sources.list' and reload the software information "
+"with: 'sudo apt-get update' and 'sudo apt-get install -f'."
+msgstr ""
+"这是您软件管理系统的重大失败。请使用新立得检查损坏的软件包，检查文件权限和 '/etc/apt/sources.list' 文件的正确性并使用 "
+"'sudo apt-get update' 和 'sudo apt-get install -f' 重新载入软件信息。"
+
+msgid "This package is uninstallable\n"
+msgstr "此软件包不可安装\n"
+
+msgid "To be installed: %s"
+msgstr "将要安装：%s"
+
+msgid "To be removed: %s"
+msgstr "要移除的： %s"
+
+msgid "To fix this run 'sudo apt-get install -f' in a terminal window."
+msgstr "要修复，在终端窗口中运行 'sudo apt-get install -f' 。"
+
+msgid "Unknown package type '%s', exiting\n"
+msgstr "未知软件包类型 '%s'，退出\n"
+
+msgid "Upstream data"
+msgstr "上游数据"
+
+msgid "Use alternative datadir"
+msgstr "使用另外的数据路径"
+
+msgid "Use alternative root dir"
+msgstr "使用另外的 root 文件夹"
+
+msgid ""
+"Usually this is related to an error of the software distributor. See the "
+"terminal window for more details."
+msgstr "通常这与软件发行者的一个错误有关。查看终端窗口输出获取更多细节。"
+
+msgid "You are recommended to install the software from the channel instead."
+msgstr "建议您从软件仓库中安装这个软件。"
+
+msgid ""
+"You are strongly advised to install the version from the software channel, "
+"since it is usually better supported."
+msgstr "强烈建议您从软件仓库中安装这个软件，因为它通常有更好的支持。"
+
+msgid "You need to grant administrative rights to install software"
+msgstr "你需要获取管理员权限以安装软件"
+
+msgid "You need to grant administrative rights to remove software"
+msgstr "您需要获得管理员权限来移除软件"
+
+msgid "You tried to install a file that does not (or no longer) exist. "
+msgstr "您试图安装一个不存在(或不再存在)的文件。 "
+
+msgid ""
+"Your system has broken dependencies. This application can not continue until"
+" this is fixed. To fix it run 'gksudo synaptic' or 'sudo apt-get install -f'"
+" in a terminal window."
+msgstr ""
+"您的系统中存在损坏的依赖关系。不修复它此程序无法继续。要修复，在终端窗口中运行 'gksudo synaptic' 或 'sudo apt-get "
+"install -f' 。"
+
+msgid "_Details"
+msgstr "细节(_D)"
+
+msgid "_Download Package"
+msgstr "下载软件包(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_File"
+msgstr "文件(_F)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Install Package"
+msgstr "安装软件包(_I)"
+
+msgid "_Open…"
+msgstr "打开(_O)..."
+
+msgid "_Refresh"
+msgstr "刷新(_R)"
+
+msgid "_Reinstall Package"
+msgstr "重新安装软件包(_R)"
+
+msgid "_Remove Package"
+msgstr "移除软件包(_R)"
+
+msgid "gdebi error, file not found: %s\n"
+msgstr "gdebi 错误，找不到文件：%s\n"
+
+msgid "package;apt;dpkg;install"
+msgstr "package;apt;dpkg;install;包;软件;安装;软件包;"
+
+msgid ""
+"usage: %prog [options] filename\n"
+"For a graphical version run gdebi-gtk\n"
+msgstr ""
+"用法：%prog [选项] 文件名\n"
+"要使用图形化版本，可以运行 gdebi-gtk\n"

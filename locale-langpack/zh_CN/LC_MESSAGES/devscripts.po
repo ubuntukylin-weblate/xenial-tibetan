@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: devscripts\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-03-19 18:36+0000\n"
+"PO-Revision-Date: 2009-10-26 12:20+0000\n"
+"Last-Translator: Hugh SH <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:59+0000\n"
+
+msgid ""
+"$ annotate-output make\n"
+"21:41:21 I: Started make\n"
+"21:41:21 O: gcc -Wall program.c\n"
+"21:43:18 E: program.c: Couldn't compile, and took me ages to find out\n"
+"21:43:19 E: collect2: ld returned 1 exit status\n"
+"21:43:19 E: make: *** [all] Error 1\n"
+"21:43:19 I: Finished with exitcode 2\n"
+msgstr ""
+"$ annotate-output make\n"
+"21:41:21 I: Started make\n"
+"21:41:21 O: gcc -Wall program.c\n"
+"21:43:18 E: program.c: Couldn't compile, and took me ages to find out\n"
+"21:43:19 E: collect2: ld returned 1 exit status\n"
+"21:43:19 E: make: *** [all] Error 1\n"
+"21:43:19 I: Finished with exitcode 2\n"
+
+msgid "ANNOTATE-OUTPUT"
+msgstr "ANNOTATE-OUTPUT"
+
+msgid "ARCHPATH"
+msgstr "ARCHPATH"
+
+msgid "AUTHOR"
+msgstr "作者"
+
+msgid "B<-h>, B<--help>"
+msgstr "B<-h>, B<--help>"
+
+msgid ""
+"B<annotate-output> will execute the specified program, while prepending "
+"every line with the current time and O for stdout and E for stderr."
+msgstr "B<annotate-output> 会执行指定的程序并在每行上添加当前时间、O(标准输出) 和 E(标准错误)。"
+
+msgid "B<archpath>"
+msgstr "B<archpath>"
+
+msgid "B<archpath> I<branch>"
+msgstr "B<archpath> I<branch>"
+
+msgid "B<archpath> was written by"
+msgstr "B<archpath> 作者为"
+
+msgid "B<date>(1)"
+msgstr "B<date>(1)"
+
+msgid "BUGS"
+msgstr "缺陷"
+
+msgid "Colin Watson E<lt>cjwatson@debian.orgE<gt>."
+msgstr "Colin Watson E<lt>cjwatson@debian.orgE<gt>."
+
+msgid "DEBIAN"
+msgstr "DEBIAN"
+
+msgid "DESCRIPTION"
+msgstr "描述"
+
+msgid "Debian Utilities"
+msgstr "Debian 组件"
+
+msgid "Display a help message and exit successfully."
+msgstr "显示一条帮助信息并成功退出。"
+
+msgid "Do not send emails but print them to standard output."
+msgstr "不发送邮件而是打印到标准输出"
+
+msgid "EXAMPLE"
+msgstr "示例"
+
+msgid "NAME"
+msgstr "名称"
+
+msgid "OPTIONS"
+msgstr "选项"
+
+msgid "SEE ALSO"
+msgstr "参见"
+
+msgid "SUPPORT"
+msgstr "支持"
+
+msgid "SYNOPSIS"
+msgstr "概要"
+
+msgid ""
+"Since stdout and stderr are processed in parallel, it can happen that some "
+"lines received on stdout will show up before later-printed stderr lines (and"
+" vice-versa)."
+msgstr ""
+"因为 stdout 和 stderr 是并行运行，所以可能有时会有几行 stdout 接收的信息显示在后来的 stderr 行里（反之亦然）。"
+
+msgid ""
+"This program is community-supported (meaning: you'll need to fix it "
+"yourself).  Patches are however appreciated, as is any feedback (positive or"
+" negative)."
+msgstr "本程序是由社区支持（这意味着：您需要自己修补软件缺陷）。欢迎打补丁和提供反馈（正面或负面的）。"
+
+msgid "annotate-output - annotate program output with time and stream"
+msgstr "annotate-output - 用时间和流信息对程序输出作注解"

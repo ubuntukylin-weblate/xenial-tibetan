@@ -1,0 +1,864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cpio 2.9\n"
+"Report-Msgid-Bugs-To: bug-cpio@gnu.org\n"
+"POT-Creation-Date: 2010-03-10 15:04+0200\n"
+"PO-Revision-Date: 2010-11-18 23:44+0000\n"
+"Last-Translator: LI Daobing <lidaobing@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:58+0000\n"
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+"\n"
+"授权协议 GPLv3+: GNU GPL 版本 3 或更新版本 <http://gnu.org/licenses/gpl.html>\n"
+"这是自由软件：您可以自由的更改并重新发布它。\n"
+"在法律允许的范围内，没有任何担保。\n"
+"\n"
+
+msgid "  or: "
+msgstr "  或: "
+
+msgid " [OPTION...]"
+msgstr " [选项...]"
+
+msgid "%.*s: ARGP_HELP_FMT parameter must be positive"
+msgstr "%.*s: ARGP_HELP_FMT 参数值必须为正"
+
+msgid "%.*s: ARGP_HELP_FMT parameter requires a value"
+msgstr "%.*s: ARGP_HELP_FMT 参数需要一个值"
+
+msgid "%.*s: Unknown ARGP_HELP_FMT parameter"
+msgstr "%.*s: 未知的 ARGP_HELP_FMT 参数"
+
+msgid "%lu block\n"
+msgid_plural "%lu blocks\n"
+msgstr[0] "%lu 块\n"
+
+msgid "%s is meaningless with %s"
+msgstr "%s 与 %s 在一起时无意义"
+
+msgid "%s is not a character special file"
+msgstr "%s 不是字符设备文件"
+
+msgid "%s is not a directory"
+msgstr "%s 不是目录"
+
+msgid "%s linked to %s"
+msgstr "%s 连接到 %s"
+
+msgid "%s not created: newer or same age version exists"
+msgstr "未创建 %s：已有更新或同样新的版本存在"
+
+msgid "%s not dumped: not a regular file"
+msgstr "%s 未输出：不是普通文件"
+
+msgid "%s: Cannot %s"
+msgstr "%s: 函数 %s 失败"
+
+msgid "%s: Cannot change mode to %s"
+msgstr "%s: 无法更改模式为 %s"
+
+msgid "%s: Cannot change ownership to uid %lu, gid %lu"
+msgstr "%s: 无法更改所有权到用户ID %lu, 组ID %lu"
+
+msgid "%s: Cannot create symlink to %s"
+msgstr "%s: 无法创建链接到 %s"
+
+msgid "%s: Cannot hard link to %s"
+msgstr "%s: 无法硬链接到 %s"
+
+msgid "%s: Cannot seek to %s"
+msgstr "%s: 无法定位到 %s"
+
+msgid "%s: Cannot symlink to %s"
+msgstr "%s: 无法链接到 %s"
+
+msgid "%s: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%s: 在 %s 字节处发生读错误(正在读 %lu 字节)"
+
+msgid "%s: Too many arguments\n"
+msgstr "%s：参数过多\n"
+
+msgid "%s: Warning: Cannot %s"
+msgstr "%s: 警告: 函数 %s 失败"
+
+msgid "%s: Warning: Cannot seek to %s"
+msgstr "%s: 警告: 无法定位到 %s"
+
+msgid "%s: Warning: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Warning: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%s: 警告: 在 %s 字节处发生读错误(正在读 %lu 字节)"
+
+msgid "%s: Wrote only %lu of %lu byte"
+msgid_plural "%s: Wrote only %lu of %lu bytes"
+msgstr[0] "%s: 仅写 %lu 字节，共 %lu 字节"
+
+msgid "%s: checksum error (0x%lx, should be 0x%lx)"
+msgstr "%s: 校验错误 (0x%lx, 应为 0x%lx)"
+
+msgid "%s: field width not sufficient for storing %s"
+msgstr "%s: 域宽度不足以储存 %s"
+
+msgid "%s: file name too long"
+msgstr "%s：文件名过长"
+
+msgid "%s: rmtclose failed"
+msgstr "%s: rmtclose 失败"
+
+msgid "%s: rmtioctl failed"
+msgstr "%s: rmtioctl 失败"
+
+msgid "%s: rmtopen failed"
+msgstr "%s: rmtopen 失败"
+
+msgid "%s: symbolic link too long"
+msgstr "%s：符号连接过长"
+
+msgid "%s: truncating %s"
+msgstr "%s: 截断 %s"
+
+msgid "%s: truncating inode number"
+msgstr "%s: 截断inode号"
+
+msgid "%s: unknown file type"
+msgstr "%s：未知的文件类型"
+
+msgid "'"
+msgstr "'"
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid "(PROGRAM ERROR) No version known!?"
+msgstr "(程序错误)未知版本！？"
+
+msgid "(PROGRAM ERROR) Option should have been recognized!?"
+msgstr "（程序错误）选项本应该被识别！？"
+
+msgid ""
+"--append is used but no archive file name is given (use -F or -O options)"
+msgstr "有 --append 但没有指定包文件名 (使用 -F 或 -O 选项)"
+
+msgid "--no-preserve-owner cannot be used with --owner"
+msgstr "--no-preserve-owner 无法与 --owner 一起使用"
+
+msgid "--owner cannot be used with --no-preserve-owner"
+msgstr "--owner 无法与 --no-preserve-owner 一起使用"
+
+msgid "--stat requires file names"
+msgstr "--stat 需要文件名"
+
+msgid "-F can be used only with --create or --extract"
+msgstr "-F 只能与 --create 或 --extract 一起使用"
+
+msgid "-T reads null-terminated names"
+msgstr "-T 读取以 NULL 终止的名字"
+
+msgid ""
+"A list of filenames is terminated by a null character instead of a newline"
+msgstr "文件名列表采用 NULL 而不是换行作为分割符"
+
+msgid "ARGP_HELP_FMT: %s value is less than or equal to %s"
+msgstr "ARGP_HELP_FMT: %s 的值小于或等于 %s"
+
+msgid "Append SIZE bytes to FILE. SIZE is given by previous --length option."
+msgstr "添加 SIZE 长度的字节到 FILE。SIZE 由前面的 --length 选项指定。"
+
+msgid "Append to an existing archive."
+msgstr "追加到已存在的归档文件。"
+
+msgid "Archive file is local, even if its name contains colons"
+msgstr "包文件是本地的，尽管名字中含有冒号"
+
+msgid ""
+"Archive filename to use instead of standard input. Optional USER and HOST "
+"specify the user and host names in case of a remote archive"
+msgstr "从文件读入而不是从标准输入读入。 如果文件在远程机器上， 则可指定用户和主机"
+
+msgid ""
+"Archive filename to use instead of standard output. Optional USER and HOST "
+"specify the user and host names in case of a remote archive"
+msgstr "使用包文件名而不是标准输出。如果文件在远程机器上，则可指定用户和主机"
+
+msgid ""
+"Archive format is not specified in copy-pass mode (use --format option)"
+msgstr "copy-pass 模式中未指定包格式 (使用 --format 选项)"
+
+msgid "Archive format multiply defined"
+msgstr "包格式被多次指定"
+
+msgid "Archive value %.*s is out of range"
+msgstr "存档值 %.*s 超出范围"
+
+msgid "BLOCK-SIZE"
+msgstr "BLOCK-SIZE"
+
+msgid "Both -I and -F are used in copy-in mode"
+msgstr "-I 和 -F 都被用于 copy-in 模式"
+
+msgid "Both -O and -F are used in copy-out mode"
+msgstr "-O 和 -F 都被用于 copy-out 模式"
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "Cannot connect to %s: resolve failed"
+msgstr "无法连接到 %s： 解析失败"
+
+msgid "Cannot execute remote shell"
+msgstr "无法执行远程 shell"
+
+msgid "Cannot open %s"
+msgstr "无法打开 %s"
+
+msgid "Command exited successfully\n"
+msgstr "命令成功退出\n"
+
+msgid "Command failed with status %d\n"
+msgstr "命令执行失败，状态 %d\n"
+
+msgid "Command stopped on signal %d\n"
+msgstr "命令由信号 %d 停止了\n"
+
+msgid "Command terminated\n"
+msgstr "命令已终止\n"
+
+msgid "Command terminated on signal %d\n"
+msgstr "命令由信号 %d 终止了\n"
+
+msgid ""
+"Control warning display. Currently FLAG is one of 'none', 'truncate', 'all'."
+" Multiple options accumulate."
+msgstr "控制警告信息显示。当前 FLAG 可为“none”、“truncate”或“all”。多个选项可以累积。"
+
+msgid "Create all files relative to the current directory"
+msgstr "相对于当前目录来创建所有文件"
+
+msgid "Create file of the given SIZE"
+msgstr "创建指定大小为 SIZE 的文件"
+
+msgid "Create leading directories where needed"
+msgstr "需要时创建目录"
+
+msgid "Create the archive (run in copy-out mode)"
+msgstr "创建包 (运行 copy-out 模式)"
+
+msgid "Creating intermediate directory `%s'"
+msgstr "创建中介目录“%s”"
+
+msgid ""
+"Dereference  symbolic  links  (copy  the files that they point to instead of"
+" copying the links)."
+msgstr "跟随符号链接 (拷贝符号链接指向的文件而不是拷贝链接本身)"
+
+msgid "Do not change the ownership of the files"
+msgstr "不改变文件的所有权"
+
+msgid "Do not print the number of blocks copied"
+msgstr "不要打印已拷贝的块数"
+
+msgid "Do not strip file system prefix components from the file names"
+msgstr "文件名不去除文件系统前缀"
+
+msgid "Enable debugging info"
+msgstr "启用调试信息"
+
+msgid "Error parsing number near `%s'"
+msgstr "“%s”附近解析数字错误"
+
+msgid "Execute COMMAND"
+msgstr "执行 COMMAND 命令"
+
+msgid "Extract files from an archive (run in copy-in mode)"
+msgstr "从包中提取文件 (运行 copy-in 模式)"
+
+msgid "Extract files to standard output"
+msgstr "提取文件到标准输出"
+
+msgid "FILE"
+msgstr "FILE"
+
+msgid "FLAG"
+msgstr "FLAG"
+
+msgid "FORMAT"
+msgstr "格式"
+
+msgid "File %s shrunk by %s byte, padding with zeros"
+msgid_plural "File %s shrunk by %s bytes, padding with zeros"
+msgstr[0] "文件 %s 被减少 %s 字节, 用 0 补齐"
+
+msgid "File %s was modified while being copied"
+msgstr "文件 %s 在拷贝时有更改"
+
+msgid "File creation options:"
+msgstr "文件创建选项:"
+
+msgid "File statistics options:"
+msgstr "文件统计选项:"
+
+msgid "Fill the file with the given PATTERN. PATTERN is 'default' or 'zeros'"
+msgstr "以指定的 PATTERN 模式填充文件。PATTERN 可以是‘default’或是‘zeros’"
+
+msgid "Found end of tape.  Load next tape and press RETURN. "
+msgstr "磁带已结束。装入下一盒磁带并按 RETURN。 "
+
+msgid "Found end of tape.  To continue, type device/file name when ready.\n"
+msgstr "磁带已结束。要继续，在准备就绪时输入设备/文件名。\n"
+
+msgid ""
+"GNU `cpio' copies files to and from archives\n"
+"\n"
+"Examples:\n"
+"  # Copy files named in name-list to the archive\n"
+"  cpio -o < name-list [> archive]\n"
+"  # Extract files from the archive\n"
+"  cpio -i [< archive]\n"
+"  # Copy files named in name-list to destination-directory\n"
+"  cpio -p destination-directory < name-list\n"
+msgstr ""
+"GNU `cpio' 归档文件及从包中提取文件\n"
+"\n"
+"例子:\n"
+"  # 归档 name-list 中的文件到 archive\n"
+"  cpio -o < name-list [> archive]\n"
+"  # 从 archive 中提取文件\n"
+"  cpio -i [< archive]\n"
+"  # 拷贝 name-list 中的文件到目标目录(destination-directory)\n"
+"  cpio -p destination-directory < name-list\n"
+
+msgid "Garbage command"
+msgstr "垃圾命令"
+
+msgid "Garbage in ARGP_HELP_FMT: %s"
+msgstr "参数ARGP_HELP_FMT中有无用信息: %s"
+
+msgid "In the verbose table of contents listing, show numeric UID and GID"
+msgstr "在内容列表的详表中，显示数字的 UID 和 GID"
+
+msgid "Interactively rename files"
+msgstr "交互式重命名文件"
+
+msgid "Invalid size: %s"
+msgstr "无效的值: %s"
+
+msgid "Invalid value for --warning option: %s"
+msgstr "--warning 选项的不合理的值: %s"
+
+msgid "Link files instead of copying them, when  possible"
+msgstr "在可行时链接文件而不是拷贝文件"
+
+msgid "Main operation mode:"
+msgstr "主操作模式"
+
+msgid "Malformed number %.*s"
+msgstr "畸形数字 %.*s"
+
+msgid ""
+"Mandatory or optional arguments to long options are also mandatory or "
+"optional for any corresponding short options."
+msgstr "对长选项必须或可选的参数同样适用于相应的短选项。"
+
+msgid "Mode already defined"
+msgstr "模式已定义"
+
+msgid "NAME"
+msgstr "名称"
+
+msgid "NUMBER"
+msgstr "NUMBER"
+
+msgid "Negative size: %s"
+msgstr "负值: %s"
+
+msgid "Not enough arguments"
+msgstr "参数不足"
+
+msgid "Number out of allowed range: %s"
+msgstr "数值超出所允许的范围: %s"
+
+msgid "OFFSET"
+msgstr "OFFSET"
+
+msgid "Only copy files that do not match any of the given patterns"
+msgstr "仅拷贝不匹配任意给定的模式的文件"
+
+msgid "Operation modifiers valid in any mode:"
+msgstr "应用于所有模式的选项:"
+
+msgid "Operation modifiers valid in copy-in and copy-out modes:"
+msgstr "应用于 copy-in 及 copy-out 模式的选项:"
+
+msgid "Operation modifiers valid in copy-in and copy-pass modes:"
+msgstr "应用于 copy-in 和 copy-pass 模式的选项:"
+
+msgid "Operation modifiers valid in copy-out and copy-pass modes:"
+msgstr "应用于 copy-out 及 copy-pass 模式的选项:"
+
+msgid "Operation modifiers valid only in copy-in mode:"
+msgstr "命令修饰仅在 copy-in 模式中有效:"
+
+msgid "Operation modifiers valid only in copy-out mode:"
+msgstr "应用于 copy-out 模式的选项"
+
+msgid "Operation modifiers valid only in copy-pass mode:"
+msgstr "应用于 copy-pass 模式的选项:"
+
+msgid "PATTERN"
+msgstr "PATTERN"
+
+msgid "Packaged by %s\n"
+msgstr "由 %s 打包\n"
+
+msgid "Packaged by %s (%s)\n"
+msgstr "由 %s 打包 (%s)\n"
+
+msgid "Print STRING when the end of a volume of the backup media is reached"
+msgstr "当到达备份介质的尾部的时候打印 STRING"
+
+msgid "Print a \".\" for each file processed"
+msgstr "每处理一个文件就打印一个“.”"
+
+msgid "Print a table of contents of the input"
+msgstr "打印输入内容列表"
+
+msgid "Print contents of struct stat for each given file. Default FORMAT is: "
+msgstr "打印每个给定文件的 stat 结构的内容。默认 FORMAT 是: "
+
+msgid ""
+"Read additional patterns specifying filenames to extract or list from FILE"
+msgstr "从 FILE 中读取额外的用于指定提取或列表的文件名的模式"
+
+msgid "Read error at byte %lld in file %s, padding with zeros"
+msgstr "在文件 %2$s 的 %1$lld 处发生读错误，用 0 补齐"
+
+msgid "Read file names from FILE"
+msgstr "从 FILE 读取文件名"
+
+msgid "Removing leading `%s' from hard link targets"
+msgstr "从硬链接目标中去除前缀“%s”"
+
+msgid "Removing leading `%s' from member names"
+msgstr "从成员名中去除前缀“%s”"
+
+msgid "Replace all files unconditionally"
+msgstr "无条件覆盖所有文件"
+
+msgid "Report bugs to %s.\n"
+msgstr "请向 %s 报告错误。\n"
+
+msgid "Reset the access times of files after reading them"
+msgstr "文件读取后恢复文件的访问时间"
+
+msgid "Retain previous file modification times when creating files"
+msgstr "创建文件时保留以前文件的修改时间"
+
+msgid "Run in copy-pass mode"
+msgstr "运行 copy-pass 模式"
+
+msgid "SECS"
+msgstr "秒"
+
+msgid "SIZE"
+msgstr "SIZE"
+
+msgid "STRING"
+msgstr "STRING"
+
+msgid "Seek direction out of range"
+msgstr "定位方向超出范围"
+
+msgid "Seek offset out of range"
+msgstr "定位操作的偏移量超出范围"
+
+msgid "Seek to the given offset before writing data"
+msgstr "在写入数据前定位至指定的偏移 OFFSET"
+
+msgid "Set date for next --touch option"
+msgstr "为下一个 --touch 选项设定日期"
+
+msgid "Set the I/O block size to 5120 bytes"
+msgstr "设置 I/O 块大小为 5120 字节"
+
+msgid "Set the I/O block size to BLOCK-SIZE * 512 bytes"
+msgstr "设置 I/O 块大小为 BLOCK-SIZE * 512 字节"
+
+msgid "Set the I/O block size to the given NUMBER of bytes"
+msgstr "设置 I/O 块大小为指定的 NUMBER 字节"
+
+msgid ""
+"Set the ownership of all files created to the specified USER and/or GROUP"
+msgstr "设置所有文件的所有权信息到指定的用户和/或组"
+
+msgid "Substituting `.' for empty hard link target"
+msgstr "为空硬链接目标替换“.”"
+
+msgid "Substituting `.' for empty member name"
+msgstr "为空成员名替换“.”"
+
+msgid ""
+"Swap both halfwords of words and bytes of halfwords in the data. Equivalent "
+"to -sS"
+msgstr "交换数据中每个字的两个半字以及每个半字中的两个字节。等价于 -sS"
+
+msgid "Swap the bytes of each halfword in the files"
+msgstr "交换文件中每个半字中的两个字节"
+
+msgid "Swap the halfwords of each word (4 bytes) in the files"
+msgstr "交换文件中每个字(4个字节)中的两个半字"
+
+msgid "Synchronous execution options:"
+msgstr "同步执行选项:"
+
+msgid "To continue, type device/file name when ready.\n"
+msgstr "要继续，在准备就绪时输入设备/文件名。\n"
+
+msgid "Too many arguments"
+msgstr "过多参数"
+
+msgid ""
+"Truncate FILE to the size specified by previous --length option (or 0, if it"
+" is not given)"
+msgstr "截短 FILE 至由前面 --length 选项指定的大小(如果未指定的话，默认 0)"
+
+msgid "Try `%s --help' or `%s --usage' for more information.\n"
+msgstr "用“%s --help”或“%s --usage”获取更多信息。\n"
+
+msgid "Unknown date format"
+msgstr "未知的数据格式"
+
+msgid "Unknown field `%s'"
+msgstr "未知的文件掩码位“%s”"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Update the access and modification times of FILE"
+msgstr "更新 FILE 文件的访问和修改时间"
+
+msgid "Usage:"
+msgstr "用法："
+
+msgid "Use given archive FORMAT"
+msgstr "使用指定的包格式"
+
+msgid "Use remote COMMAND instead of rsh"
+msgstr "用 COMMAND 替代 rsh"
+
+msgid "Use the old portable (ASCII) archive format"
+msgstr "使用老的可移植的 (ASCII) 包格式"
+
+msgid ""
+"Use this FILE-NAME instead of standard input or output. Optional USER and "
+"HOST specify the user and host names in case of a remote archive"
+msgstr "用“文件名”来替代标准输入和输出。如果是非本地的文件，则用可选的“用户”和“主机”来指定用户名和主机名。"
+
+msgid "Valid arguments are:"
+msgstr "有效的参数为："
+
+msgid "Verbosely list the files processed"
+msgstr "详细列出已处理的文件"
+
+msgid ""
+"When reading a CRC format archive, only verify the CRC's of each file in the"
+" archive, don't actually extract the files"
+msgstr "当读取一个 CRC 格式的包，仅检验包中每个文件的 CRC，不提取文件"
+
+msgid "Write files with large blocks of zeros as sparse files"
+msgstr "把含有大块零的文件以稀疏文件方式写出"
+
+msgid "Write to file NAME, instead of standard output"
+msgstr "写入文件 NAME，而不是标准输出"
+
+msgid "Written by %s and %s.\n"
+msgstr "由 %s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s、\n"
+"%s、%s、和其他人编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s、\n"
+"%s、和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s\n"
+"和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由 %s、%s、%s 和\n"
+"%s 编写。\n"
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr "由 %s、%s 和 %s 编写。\n"
+
+msgid "Written by %s.\n"
+msgstr "由 %s 编写。\n"
+
+msgid ""
+"You must specify one of -oipt options.\n"
+"Try `%s --help' or `%s --usage' for more information.\n"
+msgstr ""
+"你必须指定 -oipt 选项中的一个。\n"
+"尝试 `%s --help' 或者 `%s --usage' 来寻找更多信息。\n"
+
+msgid "[USER][:.][GROUP]"
+msgstr "[用户][:.][组]"
+
+msgid "[[USER@]HOST:]FILE-NAME"
+msgstr "[[用户@]主机:]文件名"
+
+msgid "[destination-directory]"
+msgstr "[目标目录]"
+
+msgid "`"
+msgstr "`"
+
+msgid "`%s' exists but is not a directory"
+msgstr "“%s”存在但不是目录"
+
+msgid "ambiguous argument %s for %s"
+msgstr "%2$s 的参数 %1$s 有歧义"
+
+msgid "blank line ignored"
+msgstr "忽略空行"
+
+msgid "cannot get the login group of a numeric UID"
+msgstr "无法得到数字 UID 的登录组"
+
+msgid "cannot link %s to %s"
+msgstr "无法将 %s 连接到 %s"
+
+msgid "cannot make directory `%s'"
+msgstr "无法创建目录“%s”"
+
+msgid "cannot open `%s'"
+msgstr "无法打开“%s”"
+
+msgid "cannot read checksum for %s"
+msgstr "无法为 %s 读入校验和"
+
+msgid "cannot remove current %s"
+msgstr "无法删除当前 %s"
+
+msgid "cannot seek"
+msgstr "无法定位"
+
+msgid "cannot seek on output"
+msgstr "无法在输出中执行 seek 操作"
+
+msgid "cannot set time on `%s'"
+msgstr "无法设定“%s”的时间"
+
+msgid "cannot swap bytes of %s: odd number of bytes"
+msgstr "无法交换 %s 的字节: 字节值异常"
+
+msgid "cannot swap halfwords of %s: odd number of halfwords"
+msgstr "无法交换 %s 的半字: 半字值异常"
+
+msgid "device major number"
+msgstr "主设备号"
+
+msgid "device minor number"
+msgstr "次设备号"
+
+msgid "device number"
+msgstr "设备号"
+
+msgid "error closing archive"
+msgstr "关闭归档文件错误"
+
+msgid "exec/tcp: Service not available"
+msgstr "exec/tcp：服务不可用"
+
+msgid "failed to return to initial working directory"
+msgstr "无法回到起始工作目录"
+
+msgid "file mode"
+msgstr "文件模式"
+
+msgid "file name contains null character"
+msgstr "文件名包含空字符"
+
+msgid "file size"
+msgstr "文件大小"
+
+msgid ""
+"genfile manipulates data files for GNU paxutils test suite.\n"
+"OPTIONS are:\n"
+msgstr ""
+"genfile 为 GNU paxutils 测试软件操作数据文件。\n"
+"选项为:\n"
+
+msgid "gid"
+msgstr "组ID"
+
+msgid "give a short usage message"
+msgstr "显示简短的用法说明"
+
+msgid "give this help list"
+msgstr "显示此帮助列表"
+
+msgid "hang for SECS seconds (default 3600)"
+msgstr "挂起 SECS 秒 (缺省 3600)"
+
+msgid "incorrect mask (near `%s')"
+msgstr "不正确的掩码(“%s”附近)"
+
+msgid "inode number"
+msgstr "inode号"
+
+msgid "internal error: tape descriptor changed from %d to %d"
+msgstr "内部错误：磁带描述符从 %d 改为 %d"
+
+msgid ""
+"invalid archive format `%s'; valid formats are:\n"
+"crc newc odc bin ustar tar (all-caps also recognized)"
+msgstr ""
+"无效的归档格式“%s”；有效的格式有：\n"
+"crc、newc、odc、bin、ustar、tar (能识别各种大小写形式)"
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s 的参数 %1$s 无效"
+
+msgid "invalid block size"
+msgstr "无效的块大小"
+
+msgid "invalid group"
+msgstr "无效的组"
+
+msgid "invalid header: checksum error"
+msgstr "无效的头：校验和错误"
+
+msgid "invalid user"
+msgstr "无效的用户"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid "modification time"
+msgstr "修改时间"
+
+msgid "name size"
+msgstr "名字大小"
+
+msgid "no tape device specified"
+msgstr "未给出磁带设备"
+
+msgid "number of links"
+msgstr "链接数量"
+
+msgid "premature end of archive"
+msgstr "归档非正常终止"
+
+msgid "premature end of file"
+msgstr "文件非正常终止"
+
+msgid "print program version"
+msgstr "打印程序版本"
+
+msgid "rdev"
+msgstr "rdev"
+
+msgid "rdev major"
+msgstr "rdev 主设备号"
+
+msgid "rdev minor"
+msgstr "rdev 次设备号"
+
+msgid "read error"
+msgstr "读错误"
+
+msgid "rename %s -> "
+msgstr "将 %s 重命名为 -> "
+
+msgid "requested file length %lu, actual %lu"
+msgstr "要求文件长度为 %lu，实际为 %lu"
+
+msgid "set the program name"
+msgstr "设置程序名"
+
+msgid "standard input is closed"
+msgstr "标准输入已关闭"
+
+msgid "standard output is closed"
+msgstr "标准输出已关闭"
+
+msgid "stdin"
+msgstr "标准输入"
+
+msgid "stdout"
+msgstr "标准输出"
+
+msgid "too many arguments"
+msgstr "参数过多"
+
+msgid "uid"
+msgstr "用户ID"
+
+msgid "unable to record current working directory"
+msgstr "无法记录当前工作目录"
+
+msgid "virtual memory exhausted"
+msgstr "虚拟内存耗尽"
+
+msgid "warning: archive header has reverse byte-order"
+msgstr "警告：归档头为反向字节序"
+
+msgid "warning: skipped %ld byte of junk"
+msgid_plural "warning: skipped %ld bytes of junk"
+msgstr[0] "警告: 跳过 %ld 个空字节"
+
+msgid "write error"
+msgstr "写错误"

@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alsa-utils\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-10-27 17:34+0100\n"
+"PO-Revision-Date: 2009-09-16 03:39+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (Taiwan) <zh_TW@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:47+0000\n"
+
+msgid ""
+"\n"
+"Some of these may not be available on selected hardware\n"
+msgstr ""
+"\n"
+"有部份可能選取的硬體不提供\n"
+
+msgid "         please, try the plug plugin %s\n"
+msgstr "         请尝试plug插件%s\n"
+
+msgid "     -d,--disconnect     disconnect\n"
+msgstr "     -d,--disconnect     断开连接\n"
+
+msgid "     -e,--exclusive      exclusive connection\n"
+msgstr "     -e,--exclusive      唯一的连接\n"
+
+msgid "     -i,--input          list input (readable) ports\n"
+msgstr "     -i,--input          列出输入 (可读) ports\n"
+
+msgid "     -l,--list           list current connections of each port\n"
+msgstr "     -l,--list           列出每个端口的当前连接\n"
+
+msgid "     -o,--output         list output (writable) ports\n"
+msgstr "     -o,--output         列出输出 (可写) ports\n"
+
+msgid "     -r,--real #         convert real-time-stamp on queue\n"
+msgstr "     -r,--real #         按队列转换 real-time-stamp\n"
+
+msgid "     -t,--tick #         convert tick-time-stamp on queue\n"
+msgstr "     -t,--tick #         按队列转换 tick-time-stamp\n"
+
+msgid "     -x, --removeall\n"
+msgstr "     -x, --removeall\n"
+
+msgid "     sender, receiver = client:port pair\n"
+msgstr "     sender, receiver = client:port pair\n"
+
+msgid "   aconnect -i|-o [-options]\n"
+msgstr "   aconnect -i|-o [-options]\n"
+
+msgid "   aconnect [-options] sender receiver\n"
+msgstr "   aconnect [-options] sender receiver\n"
+
+msgid "  -d,--dest addr : write to given addr (client:port)\n"
+msgstr "  -d,--dest addr : 写入指定地址 (client:port)\n"
+
+msgid "  -i, --info : print certain received events\n"
+msgstr "  -i, --info : 打印某个收到的信息\n"
+
+msgid "  -s,--source addr : read from given addr (client:port)\n"
+msgstr "  -s,--source addr : 从给定地址读取 (client:port)\n"
+
+msgid "  -v, --verbose : print verbose messages\n"
+msgstr "  -v, --verbose : 打印很长的信息\n"
+
+msgid "  Copyright (C) 1999 Takashi Iwai\n"
+msgstr "  Copyright (C) 1999 Takashi Iwai\n"
+
+msgid "  Subdevice #%i: %s\n"
+msgstr "  子设备 #%i: %s\n"
+
+msgid "  Subdevices: %i/%i\n"
+msgstr "  子设备: %i/%i\n"
+
+msgid "  client mode: aseqnet [-options] server_host\n"
+msgstr "  客户端模式：aseqnet [-options] server_host\n"
+
+msgid "  server mode: aseqnet [-options]\n"
+msgstr "  服务器模式：aseqnet [-options]\n"
+
+msgid " !clip  "
+msgstr " !clip  "
+
+msgid " * Connection/disconnection between two ports\n"
+msgstr " *两端口间的连接/未连接\n"
+
+msgid " * List connected ports (no subscription action)\n"
+msgstr " 列出连接的端口（没有订阅行为）\n"
+
+msgid " * Remove all exported connections\n"
+msgstr " * 移除所有导出的连接\n"
+
+msgid ""
+" can't play WAVE-files with sample %d bits in %d bytes wide (%d channels)"
+msgstr " 不能播放有着%d比特样本在%d比特宽度（%d个频道）的波形文件"
+
+msgid " can't play WAVE-files with sample %d bits wide"
+msgstr " 不能播放有着样本文件%d宽度样本文件的波形文件"
+
+msgid "%s is not a mono stream (%d channels)\n"
+msgstr "%s不是一个单声道流（%d 频道）\n"
+
+msgid "%s!!! (at least %.3f ms long)\n"
+msgstr "%s（至少%.3f ms长）\n"
+
+msgid "**** List of %s Hardware Devices ****\n"
+msgstr "**** %s 硬體裝置清單 ****\n"
+
+msgid "-f cd (16 bit little endian, 44100, stereo)\n"
+msgstr "-f cd (16 bit little endian, 44100, stereo)\n"
+
+msgid "-f cdr (16 bit big endian, 44100, stereo)\n"
+msgstr "-f cdr (16 bit big endian, 44100, stereo)\n"
+
+msgid "-f dat (16 bit little endian, 48000, stereo)\n"
+msgstr "-f dat (16 bit little endian, 48000, stereo)\n"
+
+msgid "Aborted by signal %s...\n"
+msgstr "被信号 %s...退出\n"
+
+msgid "Access type not available"
+msgstr "类型不可用"
+
+msgid "Access type not available for playback: %s\n"
+msgstr "重播类型不可用:%s\n"
+
+msgid "Broken configuration for playback: no configurations available: %s\n"
+msgstr "被破坏的重播配置：没有可用的配置文件：%s\n"
+
+msgid "Broken configuration for this PCM: no configurations available"
+msgstr "被破坏的PCM配置：没有可用的配置文件"
+
+msgid "Buffer size range from %lu to %lu\n"
+msgstr "缓冲大小在范围%lu到%lu\n"
+
+msgid "Can't recovery from suspend, prepare failed: %s\n"
+msgstr "无法从休眠中恢复，修复失败:%s\n"
+
+msgid "Can't recovery from underrun, prepare failed: %s\n"
+msgstr "无法从后台恢复，修复失败：%s\n"
+
+msgid "Can't use period equal to buffer size (%lu == %lu)"
+msgstr "无法使用和缓冲区大小（%lu==%lu）一样的时间段"
+
+msgid "Cannot open WAV file %s\n"
+msgstr "无法打开WAV文件 %s\n"
+
+msgid "Center"
+msgstr "中间"
+
+msgid "Channel %2d: Control event : %5d\n"
+msgstr "频道 %2d：Control event：%5d\n"
+
+msgid "Channel %2d: Note Off event: %5d\n"
+msgstr "频道 %2d: Note Off event : %5d\n"
+
+msgid "Channel %2d: Note On event : %5d\n"
+msgstr "频道 %2d: Note On event : %5d\n"
+
+msgid "Channel %2d: Pitchbender   : %5d\n"
+msgstr "频道 %2d: Pitchbender   : %5d\n"
+
+msgid "Channel 10"
+msgstr "频道 10"
+
+msgid "Channel 11"
+msgstr "频道 11"
+
+msgid "Channel 12"
+msgstr "频道 12"
+
+msgid "Channel 13"
+msgstr "频道 13"
+
+msgid "Channel 14"
+msgstr "频道 14"
+
+msgid "Channel 15"
+msgstr "频道 15"
+
+msgid "Channel 16"
+msgstr "频道 16"
+
+msgid "Channel 9"
+msgstr "频道 9"
+
+msgid "Channels %i"
+msgstr "频道 %i"
+
+msgid "Channels count (%i) not available for playbacks: %s\n"
+msgstr "频道计数（%i）无法被重播：%s\n"
+
+msgid "Channels count non available"
+msgstr "频道计数不可用"
+
+msgid "Connected From"
+msgstr "连接自"
+
+msgid "Connecting To"
+msgstr "正连接到"
+
+msgid "Connection failed (%s)\n"
+msgstr "连接失败（%s）\n"
+
+msgid "Connection is already subscribed\n"
+msgstr "连接已被订阅\n"
+
+msgid "Copyright (C) 1999-2000 Takashi Iwai\n"
+msgstr "Copyright (C) 1999-2000 Takashi Iwai\n"
+
+msgid "Disconnection failed (%s)\n"
+msgstr "断开连接失败(%s)\n"
+
+msgid "Done.\n"
+msgstr "完成。\n"
+
+msgid "Failed. Restarting stream. "
+msgstr "失败，正重新开始流 "
+
+msgid "Front Left"
+msgstr "左前方"
+
+msgid "Front Right"
+msgstr "右前方"
+
+msgid "Invalid WAV file %s\n"
+msgstr "无效的WAV文件 %s\n"
+
+msgid "Invalid number of periods %d\n"
+msgstr "无效的时间间隔个数 %d\n"
+
+msgid "Invalid parameter for -s option.\n"
+msgstr "-s选项的无效参数。\n"
+
+msgid "Invalid test type %s\n"
+msgstr "无效的测试类型 %s\n"
+
+msgid "LFE"
+msgstr "LEF"
+
+msgid "Max peak (%li samples): 0x%08x "
+msgstr "最大峰值（%li 样本）：0x%08x "
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "No enough memory\n"
+msgstr "内存不足\n"
+
+msgid "No subscription is found\n"
+msgstr "没法现订阅\n"
+
+msgid "Not a WAV file: %s\n"
+msgstr "不是WAV 文件: %s\n"
+
+msgid "Period size range from %lu to %lu\n"
+msgstr "时间段大小从%lu到%lu\n"
+
+msgid "Periods = %u\n"
+msgstr "时间段=%u\n"
+
+msgid "Playback device is %s\n"
+msgstr "重播设备是%s\n"
+
+msgid "Playback open error: %d,%s\n"
+msgstr "重播打开错误: %d,%s\n"
+
+msgid "Playing"
+msgstr "正在播放"
+
+msgid "Playing Creative Labs Channel file '%s'...\n"
+msgstr "正在播放Creative Labs Channel 文件 '%s'...\n"
+
+msgid "Rate %d Hz, "
+msgstr "频率%dHz， "
+
+msgid "Rate %iHz not available for playback: %s\n"
+msgstr "频率 %iHz无法被重播：%s\n"
+
+msgid "Rate doesn't match (requested %iHz, get %iHz, err %d)\n"
+msgstr "频率不匹配（要求 %iHz，收到 %iHz，错误 %d）\n"
+
+msgid "Rate set to %iHz (requested %iHz)\n"
+msgstr "频率被设为 %iHz（被要求为%iHz）\n"
+
+msgid "Rear Left"
+msgstr "左后方"
+
+msgid "Rear Right"
+msgstr "右后方"
+
+msgid "Recognized sample formats are:"
+msgstr "認可的取樣格式是︰"
+
+msgid "Recording"
+msgstr "正在录音"
+
+msgid "Requested buffer time %u us\n"
+msgstr "要求的缓冲时间 %u us\n"
+
+msgid "Requested period time %u us\n"
+msgstr "要求时间段%u us\n"
+
+msgid "Sample format non available"
+msgstr "样本格式不可用"
+
+msgid "Sample format not available for playback: %s\n"
+msgstr "样本格式无法被重播：%s\n"
+
+msgid "Sample rate doesn't match (%d) for %s\n"
+msgstr "样本频率不符（%d）对于%s\n"
+
+msgid "Setting of hwparams failed: %s\n"
+msgstr "对hw参数的设置失败：%s\n"
+
+msgid "Setting of swparams failed: %s\n"
+msgstr "设置sw参数失败:%s\n"
+
+msgid "Side Left"
+msgstr "左边"
+
+msgid "Side Right"
+msgstr "右边"
+
+msgid "Sine wave rate is %.4fHz\n"
+msgstr "Sine波形频率是%.4fHz\n"
+
+msgid "Sparc Audio"
+msgstr "Sparc Audio"
+
+msgid "Sparc Audio doesn't support %s format..."
+msgstr "Sparc Audio不支持%s格式..."
+
+msgid "Status(DRAINING):\n"
+msgstr "状态（DRAINING）:\n"
+
+msgid "Status(R/W):\n"
+msgstr "状态（R/W）：\n"
+
+msgid "Status:\n"
+msgstr "状态：\n"
+
+msgid "Stereo"
+msgstr "Stereo"
+
+msgid "Stream parameters are %iHz, %s, %i channels\n"
+msgstr "流参数是 %iHz，%s，%i 频道\n"
+
+msgid "Suspended. Trying resume. "
+msgstr "停止了，正尝试恢复 "
+
+msgid ""
+"Suspicious buffer position (%li total): avail = %li, delay = %li, buffer = "
+"%li\n"
+msgstr "可疑的缓冲位置（总共 %li）：作用=%li，延迟=%li，缓冲=%li\n"
+
+msgid "Time per period = %lf\n"
+msgstr "每时间段时间=%lf\n"
+
+msgid "Transfer failed: %s\n"
+msgstr "转变失败:%s\n"
+
+msgid "Try `%s --help' for more information.\n"
+msgstr "请尝试执行\"%s --help\"来获取更多信息。\n"
+
+msgid "Unable to determine current swparams for playback: %s\n"
+msgstr "不能判定当前重播的sw参数：%s\n"
+
+msgid "Unable to install hw params:"
+msgstr "无法安装hw参数："
+
+msgid "Unable to set avail min for playback: %s\n"
+msgstr "无法设置重播的无用的分钟数：%s\n"
+
+msgid "Unable to set buffer size %lu for playback: %s\n"
+msgstr "无法设置重播的缓冲大小 %lu：%s\n"
+
+msgid "Unable to set buffer time %u us for playback: %s\n"
+msgstr "无法设置重播的缓冲时间 %u us:%s\n"
+
+msgid "Unable to set hw params for playback: %s\n"
+msgstr "无法设置重播的hw参数：%s\n"
+
+msgid "Unable to set nperiods %u for playback: %s\n"
+msgstr "无法设置重播的n时间段%u: %s\n"
+
+msgid "Unable to set period time %u us for playback: %s\n"
+msgstr "无法设置重播时间段%u us：%s\n"
+
+msgid "Unable to set start threshold mode for playback: %s\n"
+msgstr "不能设置重播的起点模式：%s\n"
+
+msgid "Unable to set sw params for playback: %s\n"
+msgstr "无法设置重播的sw参数：%s\n"
+
+msgid "Undefined channel %d\n"
+msgstr "为定义的频道 %d\n"
+
+msgid "Unknown option '%c'\n"
+msgstr "未知参数 '%c'\n"
+
+msgid "Unsupported WAV format %d for %s\n"
+msgstr "不支持WAV格式 %d对于%s\n"
+
+msgid "Unsupported bit size %d.\n"
+msgstr "不支持的比特大小%d。\n"
+
+msgid "Unsupported sample format bits %d for %s\n"
+msgstr "不支持的样本格式比特%d对于%s\n"
+
+msgid "Usage:\n"
+msgstr "用法：\n"
+
+msgid "Using 16 octaves of pink noise\n"
+msgstr "正使用朋克噪声16个8音度\n"
+
+msgid "Using max buffer size %lu\n"
+msgstr "使用最大缓冲大小 %lu\n"
+
+msgid "VOC"
+msgstr "VOC"
+
+msgid "WAV file(s)\n"
+msgstr "WAV文件\n"
+
+msgid "WAVE"
+msgstr "WAVE"
+
+msgid "Warning: format is changed to MU_LAW\n"
+msgstr "警告：格式已變更至 MU_LAW\n"
+
+msgid "Warning: format is changed to S16_BE\n"
+msgstr "警告：格式已變更至 S16_BE\n"
+
+msgid "Warning: format is changed to U8\n"
+msgstr "警告：格式已變更至 U8\n"
+
+msgid "Warning: rate is not accurate (requested = %iHz, got = %iHz)\n"
+msgstr "警告：频率不精确（要求=%iHz，收到=%iHz）\n"
+
+msgid "Wave doesn't support %s format..."
+msgstr "波不支持%s格式..."
+
+msgid "Write error: %d,%s\n"
+msgstr "写入错误：%d,%s\n"
+
+msgid "You need to specify %d files"
+msgstr "你需要指定%d个文件"
+
+msgid "accepted[%d]\n"
+msgstr "已被接受[%d]\n"
+
+msgid "aconnect - ALSA sequencer connection manager\n"
+msgstr "aconnect - ALSA 音序器连接管理器\n"
+
+msgid "aseqnet - network client/server on ALSA sequencer\n"
+msgstr "aseqnet - ALSA上的音序器网络客户/服务器\n"
+
+msgid "audio open error: %s"
+msgstr "音乐打开错误： %s"
+
+msgid "bad speed value %i"
+msgstr "错误的速度值： %i"
+
+msgid "buffer to small, could not use\n"
+msgstr "缓冲太小，不能用\n"
+
+msgid "can't allocate buffer for silence"
+msgstr "不能为无声分配缓冲"
+
+msgid "can't get address %s\n"
+msgstr "无法获取地址 %s\n"
+
+msgid "can't get client id\n"
+msgstr "无法获得客户端id\n"
+
+msgid "can't malloc\n"
+msgstr "无法分配内存\n"
+
+msgid "can't open sequencer\n"
+msgstr "无法打开音序器\n"
+
+msgid "can't play WAVE-file format 0x%04x which is not PCM or FLOAT encoded"
+msgstr "不能播放不是PCM或者FLOAT编码的0x%04x格式的波形文件"
+
+msgid "can't play WAVE-files with %d tracks"
+msgstr "不能播放%d声道的波形文件"
+
+msgid "can't play loops; %s isn't seekable\n"
+msgstr "无法播放循环;%s不可取\n"
+
+msgid "can't play packed .voc files"
+msgstr "无法播放打包的.voc文件"
+
+msgid "can't set client info\n"
+msgstr "无法设置客户端信息\n"
+
+msgid "capture stream format change? attempting recover...\n"
+msgstr "捕捉流格式变化？尝试恢复...\n"
+
+msgid "card %i: %s [%s], device %i: %s [%s]\n"
+msgstr "card %i: %s [%s], device %i: %s [%s]\n"
+
+msgid "client %d: '%s' [type=%s]\n"
+msgstr "client %d: '%s' [type=%s]\n"
+
+msgid "closing files..\n"
+msgstr "正关闭文件...\n"
+
+msgid "command should be named either arecord or aplay"
+msgstr "无论是录音还是播放，命令应该被命名"
+
+msgid "disconnected\n"
+msgstr "未连接\n"
+
+msgid "info error: %s"
+msgstr "資訊錯誤︰%s"
+
+msgid "invalid destination address %s\n"
+msgstr "无效的目的地址 %s\n"
+
+msgid "invalid sender address %s\n"
+msgstr "无效的发送者地址 %s\n"
+
+msgid "invalid source address %s\n"
+msgstr "无效的源地址 %s\n"
+
+msgid "kernel"
+msgstr "内核"
+
+msgid "malloc error"
+msgstr "分配错误"
+
+msgid "no soundcards found..."
+msgstr "找不到音效卡…"
+
+msgid "nonblock setting error: %s"
+msgstr "未设置块错误： %s"
+
+msgid "not enough memory"
+msgstr "記憶體不足"
+
+msgid "ok.. connected\n"
+msgstr "ok.. 已连接\n"
+
+msgid "options:\n"
+msgstr "选项：\n"
+
+msgid "overrun"
+msgstr "前台运行"
+
+msgid "raw data"
+msgstr "原始資料"
+
+msgid "read error"
+msgstr "讀取錯誤"
+
+msgid "read error (called from line %i)"
+msgstr "讀取錯誤（第 %i 行）"
+
+msgid "read error: %s"
+msgstr "读取错误：%s"
+
+msgid "read/write error, state = %s"
+msgstr "读/写错误，状态=%s"
+
+msgid "readv error: %s"
+msgstr "readv 错误: %s"
+
+msgid "sequencer opened: %d:%d\n"
+msgstr "音序器被打开：%d:%d\n"
+
+msgid "service '%s' is not found in /etc/services\n"
+msgstr "服务 '%s' 在 /etc/services中未被发现\n"
+
+msgid "status error: %s"
+msgstr "状态错误：%s"
+
+msgid "suspend: prepare error: %s"
+msgstr "停止：准备错误：%s"
+
+msgid "too many connections!\n"
+msgstr "太多连接！\n"
+
+msgid "unable to install sw params:"
+msgstr "无法安装sw参数："
+
+msgid "underrun"
+msgstr "后台运行"
+
+msgid "unknown blocktype %d. terminate."
+msgstr "未知块类型 %d。结束。"
+
+msgid "unknown length of 'fmt ' chunk (read %u, should be %u at least)"
+msgstr "未知'fmt'块的长度（读 %u，至少应该是%u）"
+
+msgid ""
+"unknown length of extensible 'fmt ' chunk (read %u, should be %u at least)"
+msgstr "可拓展'fmt'块的长度未知（读%u，应该至少%u）"
+
+msgid "unrecognized file format %s"
+msgstr "未認可的檔案格式 %s"
+
+msgid "usage:\n"
+msgstr "用法：\n"
+
+msgid "user"
+msgstr "用户"
+
+msgid "value %i for channels is invalid"
+msgstr "频道的值%i 是无效的"
+
+msgid "voc_pcm_flush - silence error"
+msgstr "voc_pcm_flush - 无声错误"
+
+msgid "voc_pcm_flush error"
+msgstr "voc_pcm_flush 错误"
+
+msgid "was set buffer_size = %lu\n"
+msgstr "缓冲大小被设为=%lu\n"
+
+msgid "was set period_size = %lu\n"
+msgstr "时间段大小被设为=%lu\n"
+
+msgid "write error"
+msgstr "写入错误"
+
+msgid "write error: %s"
+msgstr "写入错误：%s"
+
+msgid "writev error: %s"
+msgstr "writev 错误: %s"
+
+msgid "wrong extended format '%s'"
+msgstr "错误的拓展形式 '%s'"
+
+msgid "wrong format tag in extensible 'fmt ' chunk"
+msgstr "在'fmt'块中的错误格式标签"
+
+msgid "xrun(DRAINING): prepare error: %s"
+msgstr "xrun(DRAINING):准备错误：%s"
+
+msgid "xrun: prepare error: %s"
+msgstr "xrun:准备错误：%s"
+
+msgid "xrun_recovery failed: %d,%s\n"
+msgstr "xrun_recovery失败：%d,%s\n"

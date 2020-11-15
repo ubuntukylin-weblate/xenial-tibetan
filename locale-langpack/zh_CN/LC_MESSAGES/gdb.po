@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gdb\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-02-24 10:59+0100\n"
+"PO-Revision-Date: 2010-03-24 07:45+0000\n"
+"Last-Translator: Jianle Ma <Unknown>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:17+0000\n"
+
+msgid " has no component named %s"
+msgstr " 没有名为  %s  的成分"
+
+msgid " has no component named <null>"
+msgstr " 没有名为 <null> 的成分"
+
+msgid " is not a structure or union type"
+msgstr " 不是结构体或共用体类型"
+
+msgid "%d exceptions:\n"
+msgstr "%d 个异常：\n"
+
+msgid "'(%s) (enumeral)\n"
+msgstr "'(%s) （枚举）\n"
+
+msgid "'POS only defined on discrete types"
+msgstr "'POS 只能在析构类型中定义"
+
+msgid "'VAL only defined on discrete types"
+msgstr "'VAL 只能在析构类型中定义"
+
+msgid "'VAL requires integral argument"
+msgstr "'VAL 需要整形参数"
+
+msgid "'modulus must be applied to modular type"
+msgstr "'modulus必须应用于modular类型"
+
+msgid ", suspended"
+msgstr ", 挂起"
+
+msgid "<%d-byte float>"
+msgstr "<%d-位的浮点数>"
+
+msgid "<%d-byte integer>"
+msgstr "<%d-位的整数>"
+
+msgid "<optimized out or zero length>"
+msgstr "<被优化或零长度>"
+
+msgid "Activating"
+msgstr "激活"
+
+msgid "Aggregates only allowed on the right of an assignment"
+msgstr "聚集只能在进行权限分配时使用"
+
+msgid "Argument must be choice number"
+msgstr "参数必须是个选项数字"
+
+msgid "Attempt to compare array with non-array"
+msgstr "尝试将数组于非数组比较"
+
+msgid "Attempt to dereference null array pointer."
+msgstr "试图对数组的指针赋值为null"
+
+msgid "Attempt to extract a component of a value that is not a record."
+msgstr "企图从非记录类型的变量中提取元素。"
+
+msgid "Attempt to index or call something other than an array or function"
+msgstr "试图使用索引，或者调用的不是数组和函数"
+
+msgid "Attempt to take contents of a non-pointer value."
+msgstr "企图获得非指针变量的内容"
+
+msgid "Attempt to use a type name as an expression"
+msgstr "试图使用类型名作为一个表达式"
+
+msgid "Bad GNAT array descriptor"
+msgstr "错误的 GNAT 数组描述"
+
+msgid "Bad GNAT array descriptor bounds"
+msgstr "错误的 GNAT 数组边界"
+
+msgid "Bounds unavailable for null array pointer."
+msgstr "边界对空数组指针无效"
+
+msgid "Can't find %s section in symbol file"
+msgstr "符号文件中找不到 %s 段"
+
+msgid "Can't find .text section in symbol file"
+msgstr "在符号文件中找不到 .text 段"
+
+msgid "Can't find any code sections in symbol file"
+msgstr "在符号文件中找不到代码段"
+
+msgid "Cannot assign this kind of variant record"
+msgstr "不能分配这种变体类型"
+
+msgid "Cannot change this setting while the inferior is running."
+msgstr "多线程进行时，不能改变这个设置。"
+
+msgid "Cannot slice a type"
+msgstr "无法解析类型"
+
+msgid "Child Termination Wait"
+msgstr "子进程终止等待"
+
+msgid "Could not find %s"
+msgstr "找不到 %s"
+
+msgid "Could not find a match for %s"
+msgstr "无法找到与%s相匹配的"
+
+msgid "Could not find operator name for opcode"
+msgstr "找不到操作码的运算符名称"
+
+msgid "Could not find renamed symbol"
+msgstr "无法找到重命名符"
+
+msgid "Could not find renamed symbol \"%s\""
+msgstr "无法找到被重命名的符号 \"%s\""
+
+msgid "Could not find renamed variable: %s"
+msgstr "找不到被重命名的变量:'%s'"
+
+msgid "Couldn't get extended registers"
+msgstr "不能获取扩展寄存器"
+
+msgid "Couldn't get registers"
+msgstr "无法获取寄存器"
+
+msgid "Couldn't read debug register"
+msgstr "无法读取调试寄存器"
+
+msgid "Couldn't write debug register"
+msgstr "无法向调试寄存器写入"
+
+msgid "Couldn't write extended registers"
+msgstr "不能写入扩展寄存器"
+
+msgid "Couldn't write registers"
+msgstr "无法写寄存器"
+
+msgid "Delay Sleep"
+msgstr "延时休眠"
+
+msgid "Delete all breakpoints? "
+msgstr "删除所有断点吗？ "
+
+msgid "Deleted breakpoint "
+msgstr "已删除的断点 "
+
+msgid "Deleted breakpoints "
+msgstr "已删除的多个断点 "
+
+msgid "Error in expression, near `%s'."
+msgstr "在'%s'附近有表达式错误"
+
+msgid "Extra components in aggregate ignored."
+msgstr "忽略聚合体的多余元素。"
+
+msgid "Fixed-point values must be assigned to fixed-point variables"
+msgstr "定点值必须赋给定点变量"
+
+msgid "Flags"
+msgstr "标记"
+
+msgid "Function name \"%s\" ambiguous here"
+msgstr "函数名 \"%s\"在此处有歧义"
+
+msgid "Incompatible types in assignment"
+msgstr "在赋值时使用了不兼容的类型"
+
+msgid "Index in component association out of bounds."
+msgstr "成员联合中索引越界。"
+
+msgid "Internal error in encoding of renaming declaration"
+msgstr "在编码重命名声明时发生内部错误"
+
+msgid "Internal error: bad aggregate clause"
+msgstr "内部错误: 错误的集合成分"
+
+msgid "Internal error: miscounted aggregate components."
+msgstr "内部错误: 聚合成员的个数计算错误。"
+
+msgid "Invalid address for Ada main program name."
+msgstr "无效的 Ada 主程序名地址：%s"
+
+msgid "Invalid attempt to select from type: \"%s\"."
+msgstr "无效的尝试:从类型 %s 中选择"
+
+msgid "Invalid character '%s' in expression."
+msgstr "表达式中含有无效字符 '%s'"
+
+msgid "Invalid conversion"
+msgstr "无效转换"
+
+msgid "Invalid operand to '%s"
+msgstr "对'%s的操作数非法"
+
+msgid "Invalid record component association."
+msgstr "记录成员的非法组合。"
+
+msgid "Invalid type size for <unnamed> detected: %d."
+msgstr "<unnamed>无效的类型大小:%d"
+
+msgid "Invalid type size for `%s' detected: %d."
+msgstr "无效的类型`%s'，检测到： %d."
+
+msgid "Invalid use of type."
+msgstr "使用类型错误。"
+
+msgid "Junk at end of command."
+msgstr "无意义的命令结尾"
+
+msgid "Junk at end of expression"
+msgstr "无意义的表达式结尾"
+
+msgid "Left operand of assignment is not a modifiable lvalue."
+msgstr "左运算域是个不可修改的值."
+
+msgid "Left-hand side must be array or record."
+msgstr "左边必须是数组或记录形"
+
+msgid "Membership test incompletely implemented; always returns true"
+msgstr "成员测试没有完全实现：总是返回是真"
+
+msgid "Misplaced 'others' clause"
+msgstr "'others' 成分错位"
+
+msgid "Multiple matches for %s\n"
+msgstr "与%s有多个匹配\n"
+
+msgid "NEW not implemented."
+msgstr "新增，未实现"
+
+msgid "No data cache available.\n"
+msgstr "没有可用的数据缓存。\n"
+
+msgid "No definition found for %s"
+msgstr "没有找到%s的定义"
+
+msgid "No definition of \"%s\" found."
+msgstr "\"%s\"未定义"
+
+msgid "No definition of \"%s\" in current context."
+msgstr "在当前上下文中没有“%s”的定义。"
+
+msgid "No definition of \"%s\" in specified context."
+msgstr "在指定的上下文中没有“%s”的定义。"
+
+msgid "No file or function \"%s\"."
+msgstr "没有这样的文件或函数:\"%s\""
+
+msgid "No function \"%s\" in specified context."
+msgstr "函数 \"%s\"在指定上下文中没有被发现"
+
+msgid "No source file specified."
+msgstr "没有指定源文件"
+
+msgid "No such cache line exists.\n"
+msgstr "缓存中不存在这一行\n"
+
+msgid "No symbol \"%s\" in namespace \"%s\"."
+msgstr "标识符 \"%s\" 在名字空间 \"%s\" 中不存在。"
+
+msgid "No symbol table is loaded.  Use the \"file\" command."
+msgstr "没有符号表被读取。请使用 \"file\" 命令。"
+
+msgid "Operands of fixed-point addition must have the same type"
+msgstr "定点小数相加的操作数必须相同的类型"
+
+msgid "Operands of fixed-point subtraction must have the same type"
+msgstr "定点小数相减的操作数必须相同的类型"
+
+msgid "Prefix must be type"
+msgstr "前缀必需是一种类型"
+
+msgid "Real user ID"
+msgstr "真正用户id号"
+
+msgid "Request to select 0 symbols!"
+msgstr "请求选择0个符号！"
+
+msgid "Reverse.\n"
+msgstr "反转。\n"
+
+msgid "Right operand of 'in' must be type"
+msgstr "'in' 的右操作数必需是一种类型"
+
+msgid "Runnable"
+msgstr "可运行"
+
+msgid "Select no more than %d of the above"
+msgstr "选项不能超过以上 %d 个"
+
+msgid "Set stopping for shared library events."
+msgstr "设置是否因共享库事件而停止。"
+
+msgid "Set whether gdb controls the inferior in non-stop mode."
+msgstr "设置在非关闭模式中gdb是否控制多线程调试。"
+
+msgid "Show inferior debugging."
+msgstr "显示内部调试"
+
+msgid "Show stopping for shared library events."
+msgstr "显示是否因共享库事件而停止"
+
+msgid "Show whether gdb controls the inferior in non-stop mode."
+msgstr "显示在非关闭模式中gdb是否控制多线程调试。"
+
+msgid "Symbol \"%s\" is not a function (class = %d)"
+msgstr "符号 “%s\" 不是一个函数 (类 = %d)"
+
+msgid "There is no member named %s."
+msgstr "没有名为 %s 的成员"
+
+msgid "Thread %ld"
+msgstr "线程：%ld"
+
+msgid "Type "
+msgstr "类型 "
+
+msgid "Type (null) is not a structure or union type"
+msgstr "类型 (null) 不是结构体或共用体类型"
+
+msgid "Type @"
+msgstr "类型 @"
+
+msgid "Type required for qualification"
+msgstr "类型需验证"
+
+msgid "Type required within braces in coercion"
+msgstr "打字必须在挂号以内."
+
+msgid "Unable to find field %s in struct %s.  Aborting"
+msgstr "无法找到域 %s 在结构体 %s 中。终止"
+
+msgid "Unable to insert catchpoint.  Is this an Ada main program?"
+msgstr "无法加入获取点,这是个 Ada 主程序吗？"
+
+msgid "Unable to insert catchpoint. Try to start the program first."
+msgstr "不能插入获取点。先启动程序试试。"
+
+msgid "Unactivated"
+msgstr "己禁止"
+
+msgid ""
+"Undefined name, ambiguous name, or renaming used in component association: "
+"%s."
+msgstr "名字没有定义或者模糊，或者在相关的组件中被重命名:%s"
+
+msgid "Unexpected operator during name resolution"
+msgstr "进行名字解析时不是期望的操作符"
+
+msgid "Unexpected type in ada_discrete_type_high_bound."
+msgstr "在 ada_discrete_type_high_bound 中出现未预料的类型"
+
+msgid "Unexpected type in ada_discrete_type_low_bound."
+msgstr "在 ada_discrete_type_low_bound 中出现未预料的类型"
+
+msgid "Unexpected unresolved symbol, %s, during evaluation"
+msgstr "当计算时遇到意外的无法解析的符号， %s"
+
+msgid "Unknown component name: %s."
+msgstr "未知成员名称: %s。"
+
+msgid "Unknown lower bound, using 1."
+msgstr "未知下界，使用 1。"
+
+msgid "Unknown upper bound, using %ld."
+msgstr "未知上界，使用 %ld。"
+
+msgid ""
+"When debugging a multi-threaded program and this setting is\n"
+"off (the default, also called all-stop mode), when one thread stops\n"
+"(for a breakpoint, watchpoint, exception, or similar events), GDB stops\n"
+"all other threads in the program while you interact with the thread of\n"
+"interest.  When you continue or step a thread, you can allow the other\n"
+"threads to run, or have them remain stopped, but while you inspect any\n"
+"thread's state, all threads stop.\n"
+"\n"
+"In non-stop mode, when one thread stops, other threads can continue\n"
+"to run freely.  You'll be able to step each thread independently,\n"
+"leave it stopped or free to run as needed."
+msgstr ""
+"当你调试一个多线程的软件并且这时选项是\n"
+"关闭时（默认是关闭，叫全关闭模式），如果有一个线程停止了\n"
+"（因为一个断点，观察点，异常或类似的事件），gdb会停止\n"
+"这个进程的你感兴趣的，相关的其他线程。\n"
+"当你继续或步进一个进程，你可以允许\n"
+"其他进程继续运行，或者让他们继续停止。这时，当你检查任何\n"
+"线程的状态，所有线程都会停止。\n"
+"在非关闭模式中，如果一个线程停止了，其他线程可以继续运行。你可以独立得调试每一个进程，\n"
+"根据需要让他停止或继续运行"
+
+msgid "When non-zero, inferior specific debugging is enabled."
+msgstr "如果是非0时，允许特殊的多线程调试"
+
+msgid "You should never see this"
+msgstr "你应该看不到这些"
+
+msgid "[0] cancel\n"
+msgstr "[0] 取消\n"
+
+msgid "[1] all\n"
+msgstr "[1] 全部\n"
+
+msgid "`%s' Ada exception"
+msgstr "`%s' Ada 例外"
+
+msgid "ambiguous attribute name: `%s'"
+msgstr "不明确的属性名：`%s'"
+
+msgid "argument to 'VAL out of range"
+msgstr "'VAL 的参数超界"
+
+msgid "array type with dynamic size is larger than varsize-limit"
+msgstr "动态数组大小超过了变量限制"
+
+msgid "attempt to do packed indexing of something other than a packed array"
+msgstr "试图打包一个非紧缩数组的索引"
+
+msgid "attempt to take bound of something that is not an array"
+msgstr "试图(像数组一样)取得非数组的边界"
+
+msgid "bad breakpoint number: '%s'"
+msgstr "错误的断点号: \"%s\""
+
+msgid "bad string table offset in symbol %d"
+msgstr "符号 %d 的字符串表偏移量无效"
+
+msgid "block start larger than block end"
+msgstr "块首大于块尾"
+
+msgid "breakpoint number"
+msgstr "断点号"
+
+msgid "can't unpack array"
+msgstr "无法解包数组"
+
+msgid ""
+"canceled because the command is ambiguous\n"
+"See set/show multiple-symbol."
+msgstr ""
+"命令不明确导致取销\n"
+"请参考 set/show multiple-symbol"
+
+msgid "cancelled"
+msgstr "已取消"
+
+msgid "cannot extract return value of %d bytes long"
+msgstr "无法确切地返回一个 %d 字节的长整型"
+
+msgid "cannot read register"
+msgstr "无法读寄存器"
+
+msgid "cannot read register %s"
+msgstr "无法读取寄存器 %s"
+
+msgid "cannot slice a packed array"
+msgstr "无法解析紧缩数组"
+
+msgid "cannot subscript or call a record"
+msgstr "不能添加下标或者调用记录"
+
+msgid "cannot subscript or call something of type `%s'"
+msgstr "不能(通过)下标访问或调用类型: '%s'"
+
+msgid "cannot take slice of non-array"
+msgstr "无法对非数组进行切分"
+
+msgid "cannot write register"
+msgstr "无法写寄存器"
+
+msgid "cannot write register %s"
+msgstr "无法写入寄存器 %s"
+
+msgid "could not find bounds information on packed array"
+msgstr "无法在紧缩数组中找到边界信息"
+
+msgid "could not understand bit size information on packed array"
+msgstr "无法理解紧缩数组中的位大小信息"
+
+msgid "could not understand bounds information on packed array"
+msgstr "无法理解紧缩数组中的边界信息"
+
+msgid "don't know bounds of array"
+msgstr "不知道数组界限"
+
+msgid "element type of array unknown"
+msgstr "数组元素类型未知"
+
+msgid "enumeration value is invalid: can't find 'POS"
+msgstr "无效的枚举型变量: 找不到 'POS"
+
+msgid "failed to get exception name: %s"
+msgstr "无法取得异常(exception)的名称: %s"
+
+msgid "finished"
+msgstr "已完成"
+
+msgid "function `%s' appears to be defined outside of all compilation units"
+msgstr "函数 `%s' 似乎是在所有编译单元之外定义的"
+
+msgid "idle"
+msgstr "空闲"
+
+msgid "impossible value from ada_parse_renaming"
+msgstr "ada_parse_renaming 的值无效"
+
+msgid "invalid Ada operator name: %s"
+msgstr "无效的 Ada 操作符名称：%s"
+
+msgid "invalid dimension number to '%s"
+msgstr "对'%s来说维数非法"
+
+msgid "invalid register %d"
+msgstr "无效寄存器 %d"
+
+msgid "invalid register number %d"
+msgstr "无效寄存器号 %d"
+
+msgid "object size is larger than varsize-limit"
+msgstr "对象大小超过变量大小限制"
+
+msgid "one or more choice numbers"
+msgstr "一个或多个选项号"
+
+msgid "packed array index %ld out of bounds"
+msgstr "紧缩数组序号 %ld 越界"
+
+msgid "ready"
+msgstr "就绪"
+
+msgid "record type with dynamic size is larger than varsize-limit"
+msgstr "动态可变的记录类型超越变量大小限制"
+
+msgid "running"
+msgstr "运行中"
+
+msgid "second operand of %s must not be zero."
+msgstr "%s 的第二运算域必须为零"
+
+msgid "set_endian: bad value"
+msgstr "set_endian: 无效的值"
+
+msgid "size of all masks is larger than the register"
+msgstr "所有的掩码大小都大于寄存器"
+
+msgid "sleeping"
+msgstr "睡眠中"
+
+msgid "the 'length attribute applies only to array types"
+msgstr "length属性只能应用于数组"
+
+msgid "the following are invalid: %s"
+msgstr "以下值均无效： %s"
+
+msgid "tid %d"
+msgstr "线程id号: %d"
+
+msgid "too many subscripts (%d expected)"
+msgstr "脚本过多（应该为%d个）"
+
+msgid "unexpected attribute encountered"
+msgstr "遇到了无法预料的属性"
+
+msgid "unexpected catchpoint kind (%d)"
+msgstr "意外的catchpoint 类型(%d)"
+
+msgid "unexpected catchpoint type"
+msgstr "意外的获取点类型"
+
+msgid "unimplemented for this length: %d"
+msgstr "本长度未实现： %d"
+
+msgid "unimplemented type attribute"
+msgstr "没有实现的类型属性"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown floating point width"
+msgstr "未知的浮点数宽度"
+
+msgid "unrecognized attribute: `%s'"
+msgstr "无法辨认的属性: `%s'"
+
+msgid "wrong number of subscripts; expecting %d"
+msgstr "下标数字错误：期望%d"

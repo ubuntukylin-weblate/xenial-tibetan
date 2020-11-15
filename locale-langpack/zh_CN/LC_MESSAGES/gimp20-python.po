@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-python\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gimp&component=general\n"
+"POT-Creation-Date: 2010-04-15 14:39+0000\n"
+"PO-Revision-Date: 2010-01-04 18:18+0800\n"
+"Last-Translator: 神州散人 <kappa8086@gmail.com>\n"
+"Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add a drop shadow to a layer, and optionally bevel it"
+msgstr "给图层添加投影，并可选择地倒角。"
+
+msgid "Add a layer of fog"
+msgstr "添加一个雾图层"
+
+msgid "An error occurred running %s"
+msgstr "运行 %s 出现一个错误"
+
+msgid "Blue or Value"
+msgstr "蓝色或明度"
+
+msgid "Channel to _sort"
+msgstr "要排序的通道(_S)"
+
+msgid "Character _source"
+msgstr "字符源(_S)"
+
+msgid "Clouds"
+msgstr "云"
+
+msgid "Color _model"
+msgstr "颜色模型(_M)"
+
+msgid "Colored XHTML"
+msgstr "着色的 XHTML"
+
+msgid "Could not open '%s' for writing: %s"
+msgstr "无法打开 “%s” 以写入：%s"
+
+msgid "Could not write to '%s': %s"
+msgstr "无法写入到 “%s”：%s"
+
+msgid "Create a gradient using colors from the palette"
+msgstr "使用调色板中的颜色创建渐变"
+
+msgid "Create a new brush with characters from a text sequence"
+msgstr "从文字序列创建新的带字符的画笔"
+
+msgid "Create a repeating gradient using colors from the palette"
+msgstr "使用调色板中的颜色创建重复渐变"
+
+msgid ""
+"Cuts an image along its guides, creates images and a HTML table snippet"
+msgstr "沿参考线切割图像，创建多幅图像及 HTML 表格片段"
+
+msgid "Drop shadow _X displacement"
+msgstr "投影 _X 位移"
+
+msgid "Drop shadow _Y displacement"
+msgstr "投影 _Y 位移"
+
+msgid "Entry box"
+msgstr "输入框"
+
+msgid "Filename for export"
+msgstr "导出的文件名"
+
+msgid "Fo_nt size in pixels"
+msgstr "字体的像素大小(_N)"
+
+msgid "Folder for image export"
+msgstr "图像导出的文件夹"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Green or Saturation"
+msgstr "绿色或饱合度"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "Image format"
+msgstr "图像格式"
+
+msgid "Image name prefix"
+msgstr "图像名前缀"
+
+msgid "Interactive GIMP Python interpreter"
+msgstr "交互性 GIMP Python 解释器"
+
+msgid "Invalid input for '%s'"
+msgstr "“%s” 的输入非法"
+
+msgid "Javascript for onmouseover and clicked"
+msgstr "用于鼠标悬停及点击的 Javascript"
+
+msgid "Missing exception information"
+msgstr "丢失异常信息"
+
+msgid "New Brush from _Text..."
+msgstr "从文字创建画笔(_T)..."
+
+msgid "No"
+msgstr "否"
+
+msgid "Off_set"
+msgstr "偏移(_S)"
+
+msgid "Offset the colors in a palette"
+msgstr "偏移调色板中的颜色"
+
+msgid "Op_acity"
+msgstr "不透明度(_A)"
+
+msgid "Palette"
+msgstr "调色板"
+
+msgid "Palette to _Gradient"
+msgstr "渐变的调色板(_G)"
+
+msgid "Palette to _Repeating Gradient"
+msgstr "重复渐变的调色板(_R)"
+
+msgid "Path for HTML export"
+msgstr "HTML 导出路径"
+
+msgid "Pixel Size"
+msgstr "像素大小"
+
+msgid "Python Console"
+msgstr "Python 控制台"
+
+msgid "Python Procedure Browser"
+msgstr "Python 过程浏览器"
+
+msgid "Python-Fu Color Selection"
+msgstr "Python-Fu 颜色选择"
+
+msgid "Python-Fu File Selection"
+msgstr "Python-Fu 文件选择"
+
+msgid "Python-Fu Folder Selection"
+msgstr "Python-Fu 文件夹选择"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Red or Hue"
+msgstr "红色或色调"
+
+msgid "Save Python-Fu Console Output"
+msgstr "保存 Python-Fu 控制台输出"
+
+msgid "Save as colored XHTML"
+msgstr "保存为着色的 XHTML"
+
+msgid "Saving as colored XHTML"
+msgstr "正在保存为着色的 XHTML"
+
+msgid "Separate image folder"
+msgstr "单独的图像文件夹"
+
+msgid "Skip animation for table caps"
+msgstr "跳过表头动画"
+
+msgid "Slice"
+msgstr "切片"
+
+msgid "Sort the colors in a palette"
+msgstr "排列调色板中颜色的顺序"
+
+msgid "Source code"
+msgstr "源代码"
+
+msgid "Space between table elements"
+msgstr "表格元素间的空间"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "Text file"
+msgstr "文本文件"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "_Ascending"
+msgstr "升序(_A)..."
+
+msgid "_Bevel"
+msgstr "倒角(_B)"
+
+msgid "_Browse..."
+msgstr "浏览(_B)..."
+
+msgid "_Console"
+msgstr "控制台(_C)"
+
+msgid "_Drop Shadow and Bevel..."
+msgstr "投影并倒角(_D)..."
+
+msgid "_Drop shadow"
+msgstr "投影(_D)"
+
+msgid "_File to read or characters to use"
+msgstr "要读取的文件或要使用的字符(_F)"
+
+msgid "_Fog color"
+msgstr "雾的颜色(_F)"
+
+msgid "_Fog..."
+msgstr "雾(_F)..."
+
+msgid "_Layer name"
+msgstr "图层名(_L)"
+
+msgid "_More Information"
+msgstr "更多信息(_M)"
+
+msgid "_Offset Palette..."
+msgstr "偏移调色板(_O)..."
+
+msgid "_Shadow blur"
+msgstr "阴影模糊(_S)"
+
+msgid "_Slice..."
+msgstr "切片(_S)..."
+
+msgid "_Sort Palette..."
+msgstr "排序调色板(_S)..."
+
+msgid "_Turbulence"
+msgstr "湍流(_T)"
+
+msgid "_Write a separate CSS file"
+msgstr "写入单独的 CSS 文件(_W)"

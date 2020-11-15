@@ -1,0 +1,1289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: upstart\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-04 11:55+0100\n"
+"PO-Revision-Date: 2009-10-26 09:21+0000\n"
+"Last-Translator: Tao Wei <weitao1979@gmail.com>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:53+0000\n"
+
+msgid "%s %s process (%d)"
+msgstr "%s %s 进程 (%d)"
+
+msgid "%s %s process (%d) became new process (%d)"
+msgstr "%s %s 进程 (%d) 变为新进程 (%d)"
+
+msgid "%s %s process (%d) continued by %s signal"
+msgstr "%s %s 进程 (%d) 已通过 %s 信号继续运行"
+
+msgid "%s %s process (%d) continued by signal %d"
+msgstr "%s %s 进程 (%d) 已通过信号 %d 继续运行"
+
+msgid "%s %s process (%d) executable changed"
+msgstr "%s %s 进程 (%d) 可执行性已设置"
+
+msgid "%s %s process (%d) exited normally"
+msgstr "%s %s 进程 (%d) 正常退出"
+
+msgid "%s %s process (%d) killed by %s signal"
+msgstr "%s %s 进程 (%d)已经被%s 信号杀死"
+
+msgid "%s %s process (%d) killed by signal %d"
+msgstr "%s %s 进程 (%d)已经被信号 %d杀死"
+
+msgid "%s %s process (%d) stopped by %s signal"
+msgstr "%s %s 进程 (%d) 已通过 %s 信号暂停(stopped)"
+
+msgid "%s %s process (%d) stopped by signal %d"
+msgstr "%s %s 进程 (%d) 已通过信号 %d 暂停(stopped)"
+
+msgid "%s %s process (%d) terminated with status %d"
+msgstr "%s %s 进程 (%d)以状态 %d 结束"
+
+msgid "%s %s process ended, respawning"
+msgstr "%s %s 进程结束, 重新产生"
+
+msgid "%s goal changed from %s to %s"
+msgstr "%s 目标由 %s 变为 %s"
+
+msgid "%s respawning too fast, stopped"
+msgstr "%s 重新建立过快，停止"
+
+msgid "%s state changed from %s to %s"
+msgstr "%s 状态由 %s 变为 %s"
+
+msgid "%s: --dest given without --system\n"
+msgstr "%s：在无 --system 时给出了 --dest\n"
+
+msgid "%s: illegal hour value\n"
+msgstr "%s: 非法的小时值\n"
+
+msgid "%s: illegal minute value\n"
+msgstr "%s: 非法的分钟值\n"
+
+msgid "%s: illegal runlevel: %s\n"
+msgstr "%s: 非法的运行级别: %s\n"
+
+msgid "%s: illegal time value\n"
+msgstr "%s: 非法的时间值\n"
+
+msgid "%s: missing D-Bus address\n"
+msgstr "%s: D-Bus 地址丢失\n"
+
+msgid "%s: missing address\n"
+msgstr "%s: 地址丢失\n"
+
+msgid "%s: missing event name\n"
+msgstr "%s: 缺少事件名\n"
+
+msgid "%s: missing job name\n"
+msgstr "%s: 缺少任务名\n"
+
+msgid "%s: missing runlevel\n"
+msgstr "%s：丢失运行级别\n"
+
+msgid "%s: missing variable name\n"
+msgstr "%s: 变量名丢失\n"
+
+msgid "%s: missing variable value\n"
+msgstr "%s: 变量值丢失\n"
+
+msgid "%s: time expected\n"
+msgstr "%s: 需要时间\n"
+
+msgid "'start on' parse error"
+msgstr "'start on' 解析失败"
+
+msgid "'stop on' parse error"
+msgstr "'stop on' 解析失败"
+
+msgid "(%s) at %d:%02d ..."
+msgstr "(%s) 于 %d:%02d ..."
+
+msgid "Adds or updates variables in the job environment table."
+msgstr "添加或更新环境变量表中的变量。"
+
+msgid "Another shutdown is already running"
+msgstr "另外的关机已经在执行"
+
+msgid "Application details"
+msgstr "应用详情"
+
+msgid "BUG"
+msgstr "BUG"
+
+msgid "Both stateful and stateless re-execs failed"
+msgstr "带状态及无状态的re-exec都失败了。"
+
+msgid "Bridge socket events into upstart"
+msgstr "将socket事件桥接到upstart"
+
+msgid "Bridge udev events into upstart"
+msgstr "桥接udev事件到upstart"
+
+msgid "Bring the system down."
+msgstr "使系统关闭。"
+
+msgid "Broadcast message from %s@%s"
+msgstr "来自%s@%s的广播信息"
+
+msgid ""
+"By default, upstart-socket-bridge does not detach from the console and "
+"remains in the foreground.  Use the --daemon option to have it detach."
+msgstr "upstart-socket-bridge 默认不从控制台分离并留在前台。 使用 --daemon 选项使其分离。"
+
+msgid ""
+"By default, upstart-udev-bridge does not detach from the console and remains"
+" in the foreground.  Use the --daemon option to have it detach."
+msgstr "upstart-udev-bridge 默认不从控制台分离并留在前台。 使用 --daemon 选项使其分离。"
+
+msgid "Calling shutdown"
+msgstr "正在调用 shutdown"
+
+msgid "Cannot create directory"
+msgstr "无法创建目录"
+
+msgid "Cannot find pid of running shutdown"
+msgstr "无法找到执行中关机程序的pid"
+
+msgid "Caught %s, core dumped"
+msgstr "捕获 %s ，core dumped"
+
+msgid "Caught %s, unable to dump core"
+msgstr "捕获 %s ，无法dump core"
+
+msgid "Change runlevel."
+msgstr "更改运行级别。"
+
+msgid "Change the minimum priority of log messages from the init daemon."
+msgstr "更改init守护进程日志消息的最低优先级"
+
+msgid "Check for unreachable jobs/event conditions."
+msgstr "检查无法达成的任务/事件条件。"
+
+msgid "Clear events"
+msgstr "清除事件"
+
+msgid "Columns: time, event and environment"
+msgstr "列: 时间, 事件和环境"
+
+msgid "Configuration directory deleted"
+msgstr "配置目录已删除"
+
+msgid "Connected to"
+msgstr "连接到"
+
+msgid "Connection from private client"
+msgstr "从私有客户端连接"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Could not connect to Upstart"
+msgstr "无法连接到 Upstart"
+
+msgid "Could not create JobAdded signal connection"
+msgstr "无法创建 JobAdded 信号连接"
+
+msgid "Could not create JobRemoved signal connection"
+msgstr "无法创建 JobRemoved 信号连接"
+
+msgid "Could not create Upstart proxy"
+msgstr "无法创建 Upstart 代理"
+
+msgid "Could not create epoll descriptor"
+msgstr "无法创建epoll描述符"
+
+msgid "Could not obtain job list"
+msgstr "无法获得任务列表"
+
+msgid "Could not send socket event"
+msgstr "无法发送socket事件"
+
+msgid "Couldn't set uid."
+msgstr "无法设置uid。"
+
+msgid "Detach and run in the background"
+msgstr "分离并在后台运行"
+
+msgid "Detected invalid serialisation data"
+msgstr "检测到了无效的序列化数据"
+
+msgid ""
+"Discards all changes make to the job environment table, setting it back to "
+"its default value."
+msgstr "丢弃所有对任务环境变量表做的改动，将它还原成默认值。"
+
+msgid "Discards variables from the job environment table."
+msgstr "舍弃来自任务环境表中的变量。"
+
+msgid "Disconnected from D-Bus %s bus"
+msgstr "从D-Bus %s 总线断开"
+
+msgid "Disconnected from Upstart"
+msgstr "从 Upstart 断开连接"
+
+msgid "Disconnected from notified D-Bus bus"
+msgstr "从告知的D-Bus总线断开"
+
+msgid "Display the value of a variable from the job environment table."
+msgstr "显示任务环境变量表中某个变量的值。"
+
+msgid "Displays list of running Session Init sessions"
+msgstr "显示运行中的会话初始会话"
+
+msgid ""
+"Displays sorted list of variables and their values from the job environment "
+"table."
+msgstr "显示任务环境表中变量及其值的排序后列表。"
+
+msgid "Do not strip non-printable bytes from udev message data"
+msgstr "不要将udev消息数据中的不可打印字节截除"
+
+msgid "EVENT [KEY=VALUE]..."
+msgstr "EVENT [KEY=VALUE]..."
+
+msgid ""
+"EVENT is the name of an event the init daemon should emit, this may be "
+"followed by zero or more environment variables to be included in the "
+"event.\n"
+msgstr "EVENT 是 init 守护进程需要发出的一个事件，其后可以跟随零或多个环境变量以包含进此事件。\n"
+
+msgid "Emit an event."
+msgstr "发出一个事件。"
+
+msgid "Env must be KEY=VALUE pairs"
+msgstr "环境变量必须是 KEY=VALUE 对"
+
+msgid "Environment"
+msgstr "运行环境"
+
+msgid "Error emitting socket event"
+msgstr "生成socket事件出错"
+
+msgid "Error from epoll"
+msgstr "epoll出错"
+
+msgid "Error saving file"
+msgstr "保存文件出错"
+
+msgid "Error while loading configuration file"
+msgstr "加载配置文件时出错"
+
+msgid "Event"
+msgstr "事件"
+
+msgid "Event and environment"
+msgstr "事件与环境变量"
+
+msgid "Event failed"
+msgstr "事件失败"
+
+msgid "Exit application"
+msgstr "退出应用"
+
+msgid "Expected event"
+msgstr "该是事件"
+
+msgid "Expected operator"
+msgstr "该是操作符"
+
+msgid "Expected variable name before value"
+msgstr "变量名应该在值之前"
+
+msgid "Failed to add log to unflushed queue"
+msgstr "向未清理队列添加日志失败"
+
+msgid "Failed to continue traced %s %s process (%d): %s"
+msgstr "继续追踪 %s %s 进程 (%d) 失败：%s"
+
+msgid "Failed to create pty - disabling logging for job"
+msgstr "创建pty失败 - 禁用任务的日志"
+
+msgid "Failed to deliver signal to traced %s %s process (%d): %s"
+msgstr "传送用以追踪 %s %s 进程 (%d) 的信号失败：%s"
+
+msgid "Failed to deserialise"
+msgstr "j反序列化失败"
+
+msgid "Failed to detach traced %s %s process (%d): %s"
+msgstr "分离对 %s %s 进程 (%d) 的追踪失败：%s"
+
+msgid "Failed to generate serialisation data"
+msgstr "生成序列化数据失败"
+
+msgid "Failed to obtain %s instance: %s"
+msgstr "获得 %s 实例失败：%s"
+
+msgid "Failed to obtain child process id for %s %s process (%d): %s"
+msgstr "为 %s %s 进程 (%d) 进程获得子进程 ID 失败：%s"
+
+msgid "Failed to open system console: %s"
+msgstr "无法打开系统控制台： %s"
+
+msgid "Failed to re-execute %s: %s"
+msgstr "重新执行 %s 失败: %s"
+
+msgid "Failed to read serialisation data"
+msgstr "读取序列化数据失败"
+
+msgid "Failed to release D-Bus name: %s"
+msgstr "释放 D-Bus 名称失败: %s"
+
+msgid "Failed to resolve deserialisation dependencies"
+msgstr "解析解序列依赖失败"
+
+msgid "Failed to send %s signal to %s %s process (%d): %s"
+msgstr "发送 %s 信号到 %s %s 进程 (%d) 失败: %s"
+
+msgid "Failed to serialise"
+msgstr "序列化失败"
+
+msgid "Failed to set ptrace options for %s %s process (%d): %s"
+msgstr "为  %s %s 进程 (%d) 设置 ptrace 选项失败：%s"
+
+msgid "Failed to set security context"
+msgstr "设置安全上下文失败"
+
+msgid "Failed to spawn %s %s process: %s"
+msgstr "产生 %s %s 进程失败：%s"
+
+msgid "Failed to write serialisation data"
+msgstr "写入序列化数据失败"
+
+msgid "Failed to write to log file"
+msgstr "写入日志文件失败"
+
+msgid "GUI modules not available - falling back to CLI"
+msgstr "GUI模块不可用 - 回退到CLI"
+
+msgid "Generate warning for any unreachable events/jobs"
+msgstr "为任何不可访问的事件/任务产生警告"
+
+msgid "Halt the system."
+msgstr "关闭系统"
+
+msgid "Halting"
+msgstr "停止中"
+
+msgid "Handling %s event"
+msgstr "处理%s事件"
+
+msgid "Handling deletion of %s"
+msgstr "正在处理 %s 的删除"
+
+msgid ""
+"If CONF specified, show configuration details for single job configuration, "
+"else show details for all jobs configurations.\n"
+msgstr "如果指定了CONF, 则显示单个任务的具体配置, 否则显示所有任务的具体配置。\n"
+
+msgid "Ignoring get env request from chroot session"
+msgstr "忽略来自chroot会话的get env请求"
+
+msgid "Ignoring reset env request from chroot session"
+msgstr "忽略来自chroot会话的reset env请求"
+
+msgid "Ignoring restart request from chroot session"
+msgstr "忽略来自chroot会话的重启请求"
+
+msgid "Ignoring session end request from chroot session"
+msgstr "忽略来自chroot会话的会话终止请求"
+
+msgid "Ignoring set env request from chroot session"
+msgstr "忽略来自chroot会话的set env请求"
+
+msgid "Ignoring stale session file"
+msgstr "忽略陈旧的会话文件"
+
+msgid "Ignoring state query from chroot session"
+msgstr "忽略来自chroot会话的状态查询"
+
+msgid "Ignoring unset env request from chroot session"
+msgstr "忽略来自chroot会话的unset env请求"
+
+msgid "Illegal exit status, expected integer"
+msgstr "非法退出状态，应为整数"
+
+msgid "Illegal file creation mask, expected octal integer"
+msgstr "非法文件创建掩码，应为8进制整数"
+
+msgid "Illegal interval, expected number of seconds"
+msgstr "非法的间隔, 应当是秒数"
+
+msgid "Illegal limit, expected 'unlimited' or integer"
+msgstr "非法的极值, 应该是整数或'无限'"
+
+msgid "Illegal nice value, expected -20 to 19"
+msgstr "非法的nice值, 应当在 -20 到 19 之间"
+
+msgid "Illegal oom adjustment, expected -16 to 15 or 'never'"
+msgstr "非法的oom调节, 应当在 -16 到 15 之间或是'从不'"
+
+msgid "Illegal oom score adjustment, expected -999 to 1000 or 'never'"
+msgstr "非法的oom评分调节, 应当在 -999 到 1000 之间或是'从不'"
+
+msgid "Illegal parameter"
+msgstr "非法参数"
+
+msgid "Illegal signal status, expected integer"
+msgstr "非法信号状态，应为整数"
+
+msgid "Index"
+msgstr "索引"
+
+msgid "Inform Upstart of D-Bus address cgroup manager is available on."
+msgstr "提示 Upstart 可用的 cgroup管理器的 D-Bus 地址。"
+
+msgid "Inform Upstart of D-Bus address to connect to."
+msgstr "提示Upstart用于连接的D-Bus地址。"
+
+msgid "Inform Upstart that disk is now writeable."
+msgstr "提示Upstart目前磁盘可写入。"
+
+msgid "Invalid job class"
+msgstr "无效的任务类型"
+
+msgid "Invalid setgid group name does not exist"
+msgstr "无效的setgid组名不存在"
+
+msgid "Invalid setuid user name does not exist"
+msgstr "无效的setuid用户名不存在"
+
+msgid "JOB"
+msgstr "JOB"
+
+msgid "JOB [KEY=VALUE]..."
+msgstr "JOB [KEY=VALUE]..."
+
+msgid ""
+"JOB is the name of the job that is to be queried, this may be followed by "
+"zero or more environment variables to distguish between job instances.\n"
+msgstr "JOB 是将要查询的作业名，其后可以跟随零或多个环境变量，以在作业实例间区分。\n"
+
+msgid ""
+"JOB is the name of the job that is to be restarted, this may be followed by zero or more environment variables to be defined in the job after restarting.\n"
+"\n"
+"The environment also serves to distinguish between job instances, and thus decide which of multiple instances will be restarted."
+msgstr ""
+"JOB 是将要重启的作业名，其后可以跟随零或多个将在重启后的作业中定义的环境变量。\n"
+"\n"
+"此环境变量也可以用于在作业实例之前做区分，由此决定应该结束多个实例中的哪一个。"
+
+msgid ""
+"JOB is the name of the job that is to be sent the signal, this may be "
+"followed by zero or more environment variables to distinguish between job "
+"instances.\n"
+msgstr "JOB 是要发送信号的任务的名称，后面可以跟 0 个或多个环境变量来区别任务的各个实例。\n"
+
+msgid ""
+"JOB is the name of the job that is to be started, this may be followed by zero or more environment variables to be defined in the new job.\n"
+"\n"
+"The environment may also serve to distinguish between job instances, and thus decide whether a new instance will be started or an error returned if an existing instance is already running."
+msgstr ""
+"JOB 是将要启动的作业名，其后可以跟随零或多个将在新作业中定义的环境变量。\n"
+"\n"
+"此环境变量也可以用于在作业实例之前做区分，于是就可以决定是开启一个新实例还是一个存在的实例已经存在时返回错误。"
+
+msgid ""
+"JOB is the name of the job that is to be stopped, this may be followed by zero or more environment variables to be passed to the job's pre-stop and post-stop processes.\n"
+"\n"
+"The environment also serves to distinguish between job instances, and thus decide which of multiple instances will be stopped."
+msgstr ""
+"JOB 是将要停止的作业名，其后可以随在零或多个环境变量以传递给作业的结束前和结束后处理。\n"
+"\n"
+"此环境变量也可以用于在作业实例之前做区分，由此决定应该结束多个实例中的哪一个。"
+
+msgid "JOB is the name of the job which usage is to be shown.\n"
+msgstr "JOB是所显示用法的任务的名称。\n"
+
+msgid "Job"
+msgstr "任务"
+
+msgid "Job cannot be started as cgroup manager not available: %s"
+msgstr "任务启动失败，因为cgroup manager 不可用: %s"
+
+msgid "Job failed to restart"
+msgstr "重启作业失败"
+
+msgid "Job failed to start"
+msgstr "启动作业失败"
+
+msgid "Job failed while stopping"
+msgstr "停止作业时失败"
+
+msgid "Job has already been stopped: %s"
+msgstr "作业已停止：%s"
+
+msgid "Job is already running: %s"
+msgstr "作业已运行：%s"
+
+msgid "Job is not running: %s"
+msgstr "任务不在运行: %s"
+
+msgid "Job may not be empty string"
+msgstr "任务不能是空字符串"
+
+msgid ""
+"List all jobs and events which cannot be satisfied by currently available "
+"job configuration files."
+msgstr "列出当前可用的任务配置文件所无法满足的任务和事件列表。"
+
+msgid "List all sessions."
+msgstr "列出所有会话。"
+
+msgid "List known jobs."
+msgstr "列出已知任务。"
+
+msgid "Loading configuration from %s"
+msgstr "正从 %s 加载配置"
+
+msgid "Mismatched braces"
+msgstr "不匹配的括号"
+
+msgid "Mismatched parentheses"
+msgstr "括号不匹配"
+
+msgid "Name already taken"
+msgstr "此名称已被使用"
+
+msgid "Name may not be empty string"
+msgstr "名字不能是空字符串"
+
+msgid "Need to be root"
+msgstr "只有 root 能够执行"
+
+msgid "No ConfSources present in state data"
+msgstr "状态数据中未呈现ConfSources"
+
+msgid "No control details present in state data"
+msgstr "状态数据中未呈现控制细节"
+
+msgid "No events to save"
+msgstr "没有事件可保持"
+
+msgid "No global job environment data present in state data"
+msgstr "状态数据中未呈现全局任务运行环境"
+
+msgid "No such variable"
+msgstr "无此变量"
+
+msgid "Not being executed as init"
+msgstr "未以init执行"
+
+msgid "Not connecting to %s bus"
+msgstr "没有连接到 %s 总线"
+
+msgid "Not permissible to modify PID 1 job environment"
+msgstr "不允许修改PID 1任务的运行环境"
+
+msgid "Not permissible to notify D-Bus address for PID 1"
+msgstr "不允许通知 PID 1 的 D-Bus 地址"
+
+msgid "Not running"
+msgstr "未运行"
+
+msgid "Out of Memory"
+msgstr "内存不足"
+
+msgid "Output previous and current runlevel."
+msgstr "输出以前和先在的运行级别。"
+
+msgid ""
+"PRIORITY may be one of:\n"
+"  `debug' (messages useful for debugging upstart are logged, equivalent to --debug on kernel command-line);\n"
+"  `info' (messages about job goal and state changes, as well as event emissions are logged, equivalent to --verbose on the kernel command-line);\n"
+"  `message' (informational and debugging messages are suppressed, the default);   `warn' (ordinary messages are suppressed whilst still logging warnings and errors);\n"
+"  `error' (only errors are logged, equivalent to --quiet on the kernel command-line) or\n"
+"  `fatal' (only fatal errors are logged).\n"
+"\n"
+"Without arguments, this outputs the current log priority."
+msgstr ""
+"PRIORITY 可以是如下之一：\n"
+"  “debug” (记录对调试 upstart 有用的消息，等价于内核命令行上的 --debug)；\n"
+"  “info” (记录作业目标和状态，以及事件发出，等价于内核命令行上的 --verbose)；\n"
+"  “message” (默认抑制信息性和调试消息)；   “warn” (抑制普通消息但仍然记录警告和错误)；\n"
+"  “error” (只记录错误，等价于内核命令行上的 --quiet) 或\n"
+"  “fetal” (只记录致命错误)。\n"
+"\n"
+"如果没有参数，则输出当前日志级别。"
+
+msgid "Passing state from PID %d to parent"
+msgstr "从 PID %d 向父传递状态"
+
+msgid "Pausing %s (%d) [pre-exec] for debug"
+msgstr "暂停 %s (%d) [pre-exec] 以为除错"
+
+msgid "Performing stateful re-exec"
+msgstr "进行带状态re-exec"
+
+msgid "Power off the system."
+msgstr "切断系统电源"
+
+msgid "Powering off"
+msgstr "正在关闭电源"
+
+msgid "Process management daemon."
+msgstr "管理守护进程"
+
+msgid "Query status of job."
+msgstr "查询作业状态"
+
+msgid "Quiesce %s sequence took %s%d second%s"
+msgstr "静默 %s 序列花费了 %s%d 秒%s"
+
+msgid "Quiescing due to %s request"
+msgstr "因 %s 请求静默"
+
+msgid ""
+"RUNLEVEL should be one of 0123456sS, where s and S are considered identical.\n"
+"\n"
+"RUNLEVEL may also be Q or q to instruct the init daemon to reload its configuration, this is rarely necessary since the daemon watches its configuration for changes.\n"
+"\n"
+"RUNLEVEL may be U or u to instruct the init daemon to re-execute itself, this is not recommended since Upstart does not currently preserve its state.\n"
+msgstr ""
+"运行级别 应该是 0123456sS 中的一个，其中 s 和 S 被认为是相同的。\n"
+"\n"
+"运行级别 也可能可以是 Q 或q 以指示 init 守护进程重新加载其配置文件，这只有在守护进程观察到其配置文件已经改变时需要。\n"
+"\n"
+"运行级别 可以是 U 或 u 以指示 init 守护进程重新执行自身，不推荐这样，以为 Upstart 现在不保存其状态。\n"
+
+msgid "Re-executing %s"
+msgstr "重新执行%s"
+
+msgid "Reboot the system."
+msgstr "重新启动"
+
+msgid "Rebooting"
+msgstr "重启中"
+
+msgid "Rebooting with %s"
+msgstr "重新启动以 %s"
+
+msgid "Reconnecting to D-Bus %s bus"
+msgstr "重连接到 D-Bus %s 总线"
+
+msgid "Reload the configuration of the init daemon."
+msgstr "重新加载 init 守护进程的配置。"
+
+msgid "Reloading configuration"
+msgstr "正在重新加载配置"
+
+msgid "Remove one or more job environment variables."
+msgstr "移除一个或多个任务环境变量。"
+
+msgid "Request the version of the init daemon."
+msgstr "请求 init 进程版本"
+
+msgid "Restart job."
+msgstr "重启作业"
+
+msgid "Restarting"
+msgstr "重启中"
+
+msgid "Retrieve value of a job environment variable."
+msgstr "获取一个任务环境变量的值。"
+
+msgid "Revert all job environment variable changes."
+msgstr "复原所有任务环境变量的更改。"
+
+msgid "Run to allow Upstart to provide cgroup stanza support."
+msgstr "运行以允许Upstart提供cgroup配置段落支持。"
+
+msgid "Run to allow Upstart to provide services over D-Bus."
+msgstr "运行以允许Upstart在D-Bus上提供服务。"
+
+msgid ""
+"Run to ensure output from jobs ending before disk is writeable are flushed "
+"to disk."
+msgstr "运行以确保在磁盘可写入前之前的任务输出已同步到磁盘。"
+
+msgid "Save File"
+msgstr "保存文件"
+
+msgid "Save events to default file"
+msgstr "保存事件到默认文件"
+
+msgid "Save events to specified file"
+msgstr "保存事件到指定文件"
+
+msgid "Send HUP signal to job."
+msgstr "向任务发送 HUP 信号。"
+
+msgid "Sending %s signal to %s %s process (%d)"
+msgstr "发送 %s 信号到 %s %s 进程 (%d)"
+
+msgid "Set one or more job environment variables."
+msgstr "设置一个或多个任务环境变量。"
+
+msgid "Show all job environment variables."
+msgstr "显示所有任务环境变量。"
+
+msgid "Show emits, start on and stop on details for job configurations."
+msgstr "显示任务配置中的发射，开始于和终止于的细节。"
+
+msgid "Show job usage message if available."
+msgstr "如果可能，显示任务使用信息。"
+
+msgid "Shutdown cancelled"
+msgstr "取消关机"
+
+msgid "Shutdown is not running"
+msgstr "关机未执行"
+
+msgid "Start job."
+msgstr "启动作业。"
+
+msgid "Stateful re-exec supported but stateless re-exec requested"
+msgstr "支持带状态的re-exec但收到了无状态的re-exec请求"
+
+msgid "Stop job."
+msgstr "停止作业"
+
+msgid "TIME [MESSAGE]"
+msgstr "时间 [信息]"
+
+msgid ""
+"TIME may have different formats, the most common is simply the word 'now' which will bring the system down immediately.  Other valid formats are +m, where m is the number of minutes to wait until shutting down and hh:mm which specifies the time on the 24hr clock.\n"
+"\n"
+"Logged in users are warned by a message sent to their terminal, you may include an optional MESSAGE included with this.  Messages can be sent without actually bringing the system down by using the -k option.\n"
+"\n"
+"If TIME is given, the command will remain in the foreground until the shutdown occurs.  It can be cancelled by Control-C, or by another user using the -c option.\n"
+"\n"
+"The system is brought down into maintenance (single-user) mode by default, you can change this with either the -r or -h option which specify a reboot or system halt respectively.  The -h option can be further modified with -H or -P to specify whether to halt the system, or to power it off afterwards.  The default is left up to the shutdown scripts."
+msgstr ""
+"时间 可以使用不同的格式，最常用的是简单的一个单词 “now”，其使系统立即关闭。  其它可用的格式有 +m ，此 m 是关机前等待的分钟数；hh:mm 其指定以 24 小时制中的时间。\n"
+"\n"
+"已登录的用户被一条发送到他们终端的一条消息警告，您可以包含一条可选的 消息 到此项中。  使用 -k 选项可以发送警告而不真的关机。\n"
+"\n"
+"如果给出 时间 ，此命令将留在前端指导关机发生。  可以使用 Control-C 取消它，或者被其他用户以 -c 选项取消。\n"
+"\n"
+"系统默认进入维护状态 (单用户) 模式，你可以使用 -r 或 -h 更改此行为，其分别指定系统重启或关闭。-h 选项可以进一步由 -H 或 -P 来指定伺候是关机还是切断电源。  默认动作由 shutdown 脚本决定。"
+
+msgid "Temporary process spawn error"
+msgstr "产生临时进程出错"
+
+msgid "The known jobs and their current status will be output."
+msgstr "将会输出已知作业和它们的状态。"
+
+msgid "The log priority given was not recognised"
+msgstr "给出的 log 优先级不能识别"
+
+msgid ""
+"The system /var/run/utmp file is used unless the alternate file UTMP is "
+"given.\n"
+msgstr "此系统的 /var/run/utmp 已被使用，除非给出能替代的 UTMP 文件。\n"
+
+msgid "The system is going down for halt NOW!"
+msgstr "现在，系统将关闭(halt)。"
+
+msgid "The system is going down for maintenance NOW!"
+msgstr "现在，系统将关闭并且进入维护状态！"
+
+msgid "The system is going down for power off NOW!"
+msgstr "现在，系统将关闭并且切断电源！"
+
+msgid "The system is going down for reboot NOW!"
+msgstr "现在，系统将关闭并且重新启动！"
+
+msgid ""
+"This command is intended to instruct the kernel to reboot or halt the "
+"system; when run without the -f option, or when in a system runlevel other "
+"than 0 or 6, it will actually execute /sbin/shutdown.\n"
+msgstr ""
+"此命令将指示内核重启或关闭系统；在没有 -f 选项运行时，或当处于系统运行级别不是 0 或 6 时，其将真的执行 /sbin/shutdown。\n"
+
+msgid ""
+"This daemon is normally executed by the kernel and given process id 1 to "
+"denote its special status.  When executed by a user process, it will "
+"actually run /sbin/telinit."
+msgstr "本守护进程一般是由内核执行，并被赋以进程id 1 以显示其特殊性。当以用户进程执行时，将会实际运行/sbin/telinit"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Unable to become daemon"
+msgstr "无法成为守护进程"
+
+msgid "Unable to change directory"
+msgstr "无法更改目录"
+
+msgid "Unable to connect to Upstart"
+msgstr "无法连接到 Upstart"
+
+msgid "Unable to connect to session bus"
+msgstr "无法连接到会话总线"
+
+msgid "Unable to connect to system bus"
+msgstr "无法连接到系统总线"
+
+msgid "Unable to connect to the D-Bus %s bus: %s"
+msgstr "无法连接到 D-Bus %s 总线: %s"
+
+msgid "Unable to create device"
+msgstr "无法创建设备"
+
+msgid "Unable to execute shutdown: %s"
+msgstr "无法执行关机： %s"
+
+msgid "Unable to fork child-process to warn users: %s"
+msgstr "无法创建向用户发出警告的子进程：%s"
+
+msgid "Unable to initialize console as /dev/null"
+msgstr "无法将 /dev/null 用作控制台"
+
+msgid "Unable to initialize console, will try /dev/null"
+msgstr "无法初始化控制台, 将尝试 /dev/null"
+
+msgid "Unable to listen for private connections"
+msgstr "不能监听私有连接"
+
+msgid "Unable to load configuration"
+msgstr "无法加载配置文件"
+
+msgid "Unable to mount /dev filesystem"
+msgstr "无法挂载 /dev 文件系统"
+
+msgid "Unable to mount /dev/pts filesystem"
+msgstr "无法挂载 /dev/pts 文件系统"
+
+msgid "Unable to mount /proc filesystem"
+msgstr "无法挂载 /proc 文件系统"
+
+msgid "Unable to mount /sys filesystem"
+msgstr "无法挂载 /sys 文件系统"
+
+msgid "Unable to query session directory"
+msgstr "无法查询会话目录"
+
+msgid "Unable to register as subreaper"
+msgstr "无法注册成subreaper"
+
+msgid "Unable to set default oom score"
+msgstr "无法设置默认oom评分"
+
+msgid "Unable to set root directory"
+msgstr "不能设置根目录"
+
+msgid "Unable to setup standard file descriptors"
+msgstr "无法设置标准文件描述符"
+
+msgid "Unable to watch configuration directory"
+msgstr "无法监视配置目录"
+
+msgid "Unable to watch configuration file"
+msgstr "无法监视配置文件"
+
+msgid "Unable to write pid file"
+msgstr "无法写入 pid 文件"
+
+msgid "Unknown instance: %s"
+msgstr "未知实例： %s"
+
+msgid "Unknown job: %s"
+msgstr "未知任务: %s"
+
+msgid "Unknown parameter"
+msgstr "位置参数"
+
+msgid "Upstart Event Monitor"
+msgstr "Upstart 事件监视器"
+
+msgid "Usage"
+msgstr "用法"
+
+msgid "VARIABLE"
+msgstr "VARIABLE"
+
+msgid "VARIABLE[=VALUE]"
+msgstr "VARIABLE[=VALUE]"
+
+msgid "Variable may not be empty string"
+msgstr "变量不能是空字符串"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "WARNING"
+msgstr "警告"
+
+msgid "You do not have permission to emit an event"
+msgstr "你没有产生一个事件的权限"
+
+msgid "You do not have permission to end session"
+msgstr "你没有权限终止会话"
+
+msgid "You do not have permission to modify job environment"
+msgstr "你没有修改任务运行环境的权限"
+
+msgid "You do not have permission to modify job: %s"
+msgstr "你无权变更此作业: %s"
+
+msgid "You do not have permission to notify D-Bus address"
+msgstr "你没有通报D-Bus地址的权限"
+
+msgid "You do not have permission to notify cgroup manager address"
+msgstr "你没有通报cgroup管理器地址的权限"
+
+msgid "You do not have permission to notify disk is writeable"
+msgstr "你没有通告磁盘可写的权限"
+
+msgid "You do not have permission to query job environment"
+msgstr "你没有权限查询任务环境"
+
+msgid "You do not have permission to reload configuration"
+msgstr "你没有重新读取配置的权限"
+
+msgid "You do not have permission to request restart"
+msgstr "你没有请求重启的权限"
+
+msgid "You do not have permission to request state"
+msgstr "你没有访问状态的权限"
+
+msgid "You do not have permission to set log priority"
+msgstr "你没有设置日志优先级的权限"
+
+msgid "[CONF]"
+msgstr "[CONF]"
+
+msgid "[PRIORITY]"
+msgstr "[PRIORITY]"
+
+msgid "[UTMP]"
+msgstr "[UTMP]"
+
+msgid "apply to global job environment table"
+msgstr "应用于全局任务运行环境表"
+
+msgid "attempt to write state file on every re-exec"
+msgstr "每次再执行时试图写状态文件"
+
+msgid "cancel a running shutdown"
+msgstr "取消正在执行的关机"
+
+msgid "cgroup manager address"
+msgstr "cgroup管理器地址"
+
+msgid "cgroup manager not available"
+msgstr "cgroup管理器不可用"
+
+msgid "cgroup support not available"
+msgstr "cgroup支持不可用"
+
+msgid "connect to Upstart via specified D-Bus route"
+msgstr "通过指定的D-Bus路径连接到Upstart"
+
+msgid "console mode"
+msgstr "控制台模式"
+
+msgid "control bus address"
+msgstr "控制总线地址"
+
+msgid "default value for console stanza"
+msgstr "console配置的默认值"
+
+msgid "destination well-known name on D-Bus bus"
+msgstr "目标为 D-Bus 总线上的周知名"
+
+msgid "disable job logging"
+msgstr "禁用任务日志记录"
+
+msgid "do not connect to a D-Bus bus"
+msgstr "不要连接到一个 D-Bus 总线"
+
+msgid "do not emit any startup event (for testing)"
+msgstr "不要发出任务启动事件(供测试)"
+
+msgid "do not replace the value of the variable if already set"
+msgstr "当变量已被赋值时不要替换"
+
+msgid "do not support cgroups"
+msgstr "不支持 cgroups"
+
+msgid "do not wait for event to finish before exiting"
+msgstr "不等待事件完成就退出"
+
+msgid "do not wait for job to restart before exiting"
+msgstr "不等待任务重启就退出"
+
+msgid "do not wait for job to start before exiting"
+msgstr "不等待任务开始就退出"
+
+msgid "do not wait for job to stop before exiting"
+msgstr "不等待任务结速就退出"
+
+msgid "don't actually reboot or halt, just write wtmp record"
+msgstr "不要真重启或关机，只写 wtmp 记录"
+
+msgid "don't sync before reboot or halt"
+msgstr "在重启或关机前不要同步"
+
+msgid "enable chroot sessions"
+msgstr "启用chroot会话"
+
+msgid ""
+"enumerate list of events and jobs causing job created from job config to "
+"start/stop"
+msgstr "枚举因配置成启动/停止的任务而产生任务的事件与任务列表"
+
+msgid "failed to demarshal D-Bus message"
+msgstr "解析 D-Bus 消息失败"
+
+msgid "field separator to use for command-line output"
+msgstr "用以命令行输出的域分隔符"
+
+msgid "flag a re-exec has occurred"
+msgstr "标记发生了一个re-exec"
+
+msgid "force reboot or halt, don't call shutdown(8)"
+msgstr "强制重启或者结束，不调用 shutdown(8)"
+
+msgid "halt after shutdown (implies -h)"
+msgstr "关机后停止(暗含 -h)"
+
+msgid "halt or power off after shutdown"
+msgstr "关闭后停止或切断电源"
+
+msgid "ignore specified list of events (comma-separated)"
+msgstr "忽略指定列表中的事件(逗号分隔)"
+
+msgid "instance 'stop on' parse error"
+msgstr "实例 'stop on' 解析错误"
+
+msgid "invalid console type specified"
+msgstr "指定的控制台类型无效"
+
+msgid "jobs will not inherit environment of init"
+msgstr "任务们将不会继承init的运行"
+
+msgid "killed"
+msgstr "杀死"
+
+msgid "logout"
+msgstr "登出"
+
+msgid "main"
+msgstr "主要"
+
+msgid "only send warnings, don't shutdown"
+msgstr "仅发出警告，并不关机"
+
+msgid "post-start"
+msgstr "启动后"
+
+msgid "post-starting"
+msgstr "后启动"
+
+msgid "post-stop"
+msgstr "结束后"
+
+msgid "post-stopping"
+msgstr "后停止"
+
+msgid "power off after shutdown (implies -h)"
+msgstr "关机后切断电源(暗含 -h)"
+
+msgid "pre-start"
+msgstr "预启动"
+
+msgid "pre-starting"
+msgstr "预启动"
+
+msgid "pre-stop"
+msgstr "结束前"
+
+msgid "pre-stopping"
+msgstr "预停止"
+
+msgid "reboot after shutdown"
+msgstr "关闭后重新启动"
+
+msgid "respawn"
+msgstr "重产生"
+
+msgid "reverting to stateless re-exec"
+msgstr "回退到无状态re-exec"
+
+msgid "run in command-line mode"
+msgstr "以命令行模式运行"
+
+msgid "run in user mode (as used for user sessions)"
+msgstr "以用户模式运行(如同用作用户会话)"
+
+msgid "running"
+msgstr "正在运行"
+
+msgid "security"
+msgstr "安全"
+
+msgid "security-spawning"
+msgstr "安全重生"
+
+msgid "set environment variable in the runlevel event"
+msgstr "在运行级别事件设置环境变量"
+
+msgid "shutdown"
+msgstr "关闭"
+
+msgid "spawned"
+msgstr "已产生"
+
+msgid "spawning"
+msgstr "再生"
+
+msgid "specify additional directory to load configuration files from"
+msgstr "指定用于读取配置文件的附加目录"
+
+msgid "specify additional initial directory to load configuration files from"
+msgstr "指定用于读取配置文件的附加初始目录"
+
+msgid "specify alternative directory to load configuration files from"
+msgstr "指定用于读取配置文件的替代目录"
+
+msgid "specify alternative directory to store job output logs in"
+msgstr "指定用于存储任务日志的替代目录"
+
+msgid "specify an alternative initial event (for testing)"
+msgstr "指定一个替代的初始化事件(供测试)"
+
+msgid "specify file descriptor to read serialisation data from"
+msgstr "制动用于读取序列化数据的文件描述符"
+
+msgid "start"
+msgstr "开始"
+
+msgid "start in user mode (as used for user sessions)"
+msgstr "以用户模式启动(如同使用用户会话)"
+
+msgid "starting"
+msgstr "开始"
+
+msgid "stop"
+msgstr "停止"
+
+msgid "stopping"
+msgstr "正在停止"
+
+msgid "switch off the power when called as halt"
+msgstr "关机时关闭电源"
+
+msgid "unable to allocate memory: %s"
+msgstr "无法分配内存: %s"
+
+msgid "unable to change root directory: %s"
+msgstr "无法更改根目录：%s"
+
+msgid "unable to change working directory: %s"
+msgstr "无法更改工作目录：%s"
+
+msgid "unable to chown: %s"
+msgstr "无法 chown: %s"
+
+msgid "unable to clear CLOEXEC bit on log fd"
+msgstr "无法清除日志文件描述符上的CLOEXEC位"
+
+msgid "unable to connect to CGManager: %s"
+msgstr "无法连接到 CGManager: %s"
+
+msgid "unable to create session file"
+msgstr "无法创建会话文件"
+
+msgid "unable to enter cgroup: %s"
+msgstr "无法进入 cgroup: %s"
+
+msgid "unable to execute: %s"
+msgstr "无法执行：%s"
+
+msgid "unable to find setgid group"
+msgstr "无法找到 setgid 的组"
+
+msgid "unable to find setuid user"
+msgstr "无法找到 setuid 的用户"
+
+msgid "unable to get ptsname: %s"
+msgstr "无法取得 ptsname: %s"
+
+msgid "unable to getgrgid: %s"
+msgstr "无法 getgrgid: %s"
+
+msgid "unable to getgrnam: %s"
+msgstr "无法 getgrnam: %s"
+
+msgid "unable to getpwnam: %s"
+msgstr "无法 getpwnam: %s"
+
+msgid "unable to getpwuid: %s"
+msgstr "无法 getpwuid: %s"
+
+msgid "unable to granpt: %s"
+msgstr "无法 granpt: %s"
+
+msgid "unable to initgroups: %s"
+msgstr "无法 initgroups: %s"
+
+msgid "unable to mark cgroups for removal: %s"
+msgstr "无法将cgroups标记为移除: %s"
+
+msgid "unable to modify signal handler: %s"
+msgstr "无法修改信号处理器: %s"
+
+msgid "unable to move script fd: %s"
+msgstr "无法移动脚本的文件描述符: %s"
+
+msgid "unable to open console: %s"
+msgstr "无法打开控制台：%s"
+
+msgid "unable to open pty slave: %s"
+msgstr "无法打开 pty slave: %s"
+
+msgid "unable to set \"%s\" resource limit: %s"
+msgstr "无法设置 “%s” 资源限制：%s"
+
+msgid "unable to set oom adjustment: %s"
+msgstr "无法设置 oom 调整：%s"
+
+msgid "unable to set priority: %s"
+msgstr "无法设置优先级：%s"
+
+msgid "unable to set trace: %s"
+msgstr "无法设置路径：%s"
+
+msgid "unable to setgid: %s"
+msgstr "无法 setgid: %s"
+
+msgid "unable to setuid: %s"
+msgstr "无法 setuid: %s"
+
+msgid "unable to setup cgroup: %s"
+msgstr "无法设置 cgroup: %s"
+
+msgid "unable to switch security profile: %s"
+msgstr "无法切换安全配置: %s"
+
+msgid "unable to unlockpt: %s"
+msgstr "无法 unlockpt: %s"
+
+msgid "unable to write session file"
+msgstr "无法写入会话文件"
+
+msgid "unknown event"
+msgstr "未知事件"
+
+msgid "unknown job"
+msgstr "未知任务"
+
+msgid "use D-Bus session bus rather than system bus (for testing)"
+msgstr "使用 D-Bus 会话总线而非系统总线(供测试)"
+
+msgid "use D-Bus system bus to connect to init daemon"
+msgstr "使用 D-Bus 系统总线连接到 init 守护进程"
+
+msgid "use existing D-Bus session bus to connect to init daemon (for testing)"
+msgstr "使用现有的 D-Bus 会话总线来连接init守护程序(供测试)"
+
+msgid "waiting"
+msgstr "正在等待"

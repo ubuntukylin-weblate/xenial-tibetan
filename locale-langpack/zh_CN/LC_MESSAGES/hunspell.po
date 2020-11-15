@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hunspell\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-06-02 13:54+0200\n"
+"PO-Revision-Date: 2009-10-29 10:04+0000\n"
+"Last-Translator: snowdream <yanghui1986527@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:35+0000\n"
+
+msgid ""
+"\t%s\t\tFile: %s\n"
+"\n"
+msgstr ""
+"\t%s\t\t文件： %s\n"
+"\n"
+
+msgid ""
+"\n"
+"-- Type space to continue -- \n"
+msgstr ""
+"\n"
+"-- 空格键继续 -- \n"
+
+msgid ""
+"\n"
+"Commands are:\n"
+"\n"
+msgstr ""
+"\n"
+"命令是：\n"
+"\n"
+
+msgid "  -1\t\tcheck only first field in lines (delimiter = tabulator)\n"
+msgstr "  -1\t\t只检查一行的第一个区域 (定界符=制表符)\n"
+
+msgid "  -D\t\tshow available dictionaries\n"
+msgstr "  -D\t\t 显示可用词典\n"
+
+msgid "  -G\t\tprint only correct words or lines\n"
+msgstr "  -G\t\t只显示正确的词或句子\n"
+
+msgid "  -H\t\tHTML input file format\n"
+msgstr "  -H\t\tHTML文件格式\n"
+
+msgid "  -P password\tset password for encrypted dictionaries\n"
+msgstr "  -P password\t 为加密字典设置密码\n"
+
+msgid "  -a\t\tIspell's pipe interface\n"
+msgstr "  -a\t\tIspell的管道接口\n"
+
+msgid "  -d d[,d2,...]\tuse d (d2 etc.) dictionaries\n"
+msgstr "  -d d[,d2,...]\t 使用d (例如d2 等) 字典\n"
+
+msgid "  -h, --help\tdisplay this help and exit\n"
+msgstr "  -h, --help\t显示这个帮助并返回\n"
+
+msgid "  -i enc\tinput encoding\n"
+msgstr "  -i enc\t 输入编码\n"
+
+msgid "  -m \t\tanalyze the words of the input text\n"
+msgstr "  -m \t\t 分析输入文本中的单词\n"
+
+msgid "  -n\t\tnroff/troff input file format\n"
+msgstr "  -n\t\tnroff/troff 输入格式文件\n"
+
+msgid "  -p dict\tset dict custom dictionary\n"
+msgstr "  -p dict\t设定 dict 自定义词典\n"
+
+msgid "  -t\t\tTeX/LaTeX input file format\n"
+msgstr "  -t\t\tTeX/LaTeX 输入文件格式\n"
+
+msgid "  -v, --version\tprint version number\n"
+msgstr "  -v, --version\t显示版本号\n"
+
+msgid "  -vv\t\tprint Ispell compatible version number\n"
+msgstr "  -vv\t\t显示Ispell的版本号\n"
+
+msgid "0-n\tReplace with one of the suggested words.\n"
+msgstr "0-n\t数字键将替换为列表中的一个词。\n"
+
+msgid "?\tShow this help screen.\n"
+msgstr "?\t显示这个帮助屏幕。\n"
+
+msgid "A\tAccept the word for the rest of this session.\n"
+msgstr "A\t键在这一段接受这个词\n"
+
+msgid "AVAILABLE DICTIONARIES (path is not mandatory for -d option):\n"
+msgstr "可用词典（路径不强制使用-d选项）\n"
+
+msgid "Are you sure you want to throw away your changes? "
+msgstr "你确定要放弃修改吗？ "
+
+msgid "Bug reports: http://hunspell.sourceforge.net\n"
+msgstr "错误汇报： http://hunspell.sourceforge.net\n"
+
+msgid "Can't open %s.\n"
+msgstr "无法打开 %s。\n"
+
+msgid "Cannot update personal dictionary."
+msgstr "不能够升级个人字典"
+
+msgid ""
+"Check spelling of each FILE. Without FILE, check standard input.\n"
+"\n"
+msgstr ""
+"检查每个文件的拼写。如果没有文件，检查标准输入。\n"
+"\n"
+
+msgid "FORBIDDEN!"
+msgstr "禁止！"
+
+msgid "Hunspell has been compiled without Ncurses user interface.\n"
+msgstr "Hunspell 已经用没有Ncurses用户界面编译完。\n"
+
+msgid "I\tAccept the word, and put it in your private dictionary.\n"
+msgstr "I\t键接受这个词，并把它加入到个人词典中。\n"
+
+msgid ""
+"LOADED DICTIONARY:\n"
+"%s\n"
+"%s\n"
+msgstr ""
+"加载的字典：\n"
+"%s\n"
+"%s\n"
+
+msgid "Line %d: %s -> "
+msgstr "行 %d: %s -> "
+
+msgid "Model word (a similar dictionary word): "
+msgstr "Model word (类似字典单词): "
+
+msgid "Model word must be in the dictionary. Press any key!"
+msgstr "Model word必须在字典中。按任意键。"
+
+msgid "New word (stem): "
+msgstr "新单词（词干）： "
+
+msgid "Q\tQuit immediately. Asks for confirmation. Leaves file unchanged.\n"
+msgstr "Q\t键询问是否退出，当前文件没有保存。\n"
+
+msgid "R\tReplace the misspelled word completely.\n"
+msgstr "R\t 键完成替换错误的词。\n"
+
+msgid "Replace with: "
+msgstr "替换为: "
+
+msgid ""
+"SEARCH PATH:\n"
+"%s\n"
+msgstr ""
+"搜索路径：\n"
+"%s\n"
+
+msgid "Space\tAccept the word this time only.\n"
+msgstr "Space\t空格键忽略这个词一次。\n"
+
+msgid "U\tAccept and add lowercase version to private dictionary.\n"
+msgstr "U\t键接受这个词，并把小写格式加入到个人词典中。\n"
+
+msgid "Usage: hunspell [OPTION]... [FILE]...\n"
+msgstr "用法: hunspell [选项]... [文件]...\n"
+
+msgid ""
+"Whenever a word is found that is not in the dictionary\n"
+"it is printed on the first line of the screen.  If the dictionary\n"
+"contains any similar words, they are listed with a number\n"
+"next to each one.  You have the option of replacing the word\n"
+"completely, or choosing one of the suggested words.\n"
+msgstr ""
+"一个单词不管能否在字典中找到，\n"
+"它都会在屏幕第一行打印出来。如果字典\n"
+"包含任何类似的单词，它们将被依次列出来。\n"
+"你完全可以选择替换这个单词，或者选择一个建议词。\n"
+
+msgid ""
+"X\tWrite the rest of this file, ignoring misspellings, and start next "
+"file.\n"
+msgstr "X\t键忽略后面的内容，并保存文件，开始下一个文件。\n"
+
+msgid "^Z\tSuspend program. Restart with fg command.\n"
+msgstr "^Z\tCtrl＋Z键暂停，用fg命令继续运行。\n"
+
+msgid "a"
+msgstr "a"
+
+msgid "error - %s exceeds dictionary limit.\n"
+msgstr "错误 - %s 超出了字典限制。\n"
+
+msgid "error - iconv_open: %s -> %s\n"
+msgstr "错误 - iconv_open: %s -> %s\n"
+
+msgid "error - iconv_open: UTF-8 -> %s\n"
+msgstr "错误 - iconv_open: UTF-8 -> %s\n"
+
+msgid "error - missing HOME variable\n"
+msgstr "错误 - 缺少 HOME 变量\n"
+
+msgid "i"
+msgstr "i"
+
+msgid "q"
+msgstr "q"
+
+msgid "r"
+msgstr "r"
+
+msgid "s"
+msgstr "s"
+
+msgid "u"
+msgstr "u"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"

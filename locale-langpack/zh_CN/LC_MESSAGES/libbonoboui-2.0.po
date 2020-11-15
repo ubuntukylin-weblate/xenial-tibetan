@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bonobo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-03 23:04+0000\n"
+"PO-Revision-Date: 2008-01-28 20:18+0000\n"
+"Last-Translator: Funda Wang <Unknown>\n"
+"Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:43+0000\n"
+
+msgid ""
+"A NULL-terminated array of interfaces which a server must support in order "
+"to be listed in the selector. Defaults to \"IDL:Bonobo/Embeddable:1.0\" if "
+"no interfaces are listed"
+msgstr ""
+"界面以 NULL 结尾的数组，服务器必须支持该数组才能列在选择器中。如果没有列出界面，默认值为“IDL:Bonobo/Embeddable:1.0”"
+
+msgid "About this application"
+msgstr "关于本程序"
+
+msgid "About this program..."
+msgstr "关于本程序..."
+
+msgid "Active"
+msgstr "激活"
+
+msgid "All"
+msgstr "全部"
+
+msgid "B_oth"
+msgstr "二者(_O)"
+
+msgid "Bonobo Browser"
+msgstr "Bonobo 浏览器"
+
+msgid "Bonobo Component Browser"
+msgstr "Bonobo 组件浏览器"
+
+msgid "Bonobo GUI support"
+msgstr "Bonobo GUI 支持"
+
+msgid "Bonobo component browser"
+msgstr "Bonobo 组件浏览器"
+
+msgid "BonoboUI-Hello."
+msgstr "BonoboUI-Hello。"
+
+msgid "CLASS"
+msgstr "类"
+
+msgid "Cannot init libbonoboui code"
+msgstr "无法初始化 libbonoboui 代码"
+
+msgid "Close the current window"
+msgstr "关闭当前窗口"
+
+msgid "Component Browser"
+msgstr "组件浏览器"
+
+msgid "Component Details"
+msgstr "组件细节"
+
+msgid "Configure UI"
+msgstr "配置 UI"
+
+msgid "Copyright 2001, The GNOME Foundation"
+msgstr "版权 2001，GNOME 基金会"
+
+msgid "Could not display help for this application"
+msgstr "无法显示此应用程序的帮助"
+
+msgid "Could not initialize Bonobo UI"
+msgstr "无法初始化 Bonobo UI"
+
+msgid "Customi_ze"
+msgstr "自定义(_Z)"
+
+msgid "Customize the toolbar"
+msgstr "自定义工具栏"
+
+msgid "DISPLAY"
+msgstr "显示"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Detailed Information"
+msgstr "细节信息"
+
+msgid "Details"
+msgstr "细节"
+
+msgid "Dock the toolbar"
+msgstr "停靠工具栏"
+
+msgid "Don't use X shared memory extension"
+msgstr "不使用 X 共享内存扩展技术"
+
+msgid "Dump the entire UI's XML description to the console"
+msgstr "将全部 UI 的 XML 描述转存到控制台"
+
+msgid "Event Forwarding"
+msgstr "事件转发"
+
+msgid "FLAGS"
+msgstr "标记"
+
+msgid "GTK+"
+msgstr "GTK+"
+
+msgid "Gdk debugging flags to set"
+msgstr "要设置的 Gdk 调试标志"
+
+msgid "Gdk debugging flags to unset"
+msgstr "要取消的 Gdk 调试标志"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Gnome Hello"
+msgstr "Gnome Hello"
+
+msgid "Gtk+ debugging flags to set"
+msgstr "设置 Gtk+ 调试标记"
+
+msgid "Gtk+ debugging flags to unset"
+msgstr "取消 Gtk+ 调试标记的设置"
+
+msgid "Has a maximum Zoom level"
+msgstr "有最大缩放级别"
+
+msgid "Has a minimum Zoom level"
+msgstr "有最小缩放级别"
+
+msgid "Hello, World!"
+msgstr "Hello，World！"
+
+msgid "Hide t_ips"
+msgstr "隐藏提示(_I)"
+
+msgid "IID"
+msgstr "IID"
+
+msgid "Inactive"
+msgstr "非激活"
+
+msgid "Interface required entry"
+msgstr "界面需要输入"
+
+msgid "Interfaces required"
+msgstr "必需的界面"
+
+msgid "Is continuous"
+msgstr "是否连续"
+
+msgid "Load an additional Gtk module"
+msgstr "载入一个附加的 Gtk 模块"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Look"
+msgstr "外观"
+
+msgid "MODULE"
+msgstr "模块"
+
+msgid "Make X calls synchronous"
+msgstr "使 X 调用同步"
+
+msgid "Make all warnings fatal"
+msgstr "使所有的警告消息成为致命错误"
+
+msgid "Maximum Zoom level"
+msgstr "最大缩放级别"
+
+msgid "Minimum Zoom level"
+msgstr "最小缩放级别"
+
+msgid "NAME"
+msgstr "名称"
+
+msgid "Name"
+msgstr "名字"
+
+msgid "Name of the window - used for configuration serialization."
+msgstr "窗口的名称 - 用于配置串行化。"
+
+msgid "One of the interfaces that's required"
+msgstr "其中一个必需的界面"
+
+msgid "Open a new window"
+msgstr "打开新窗口"
+
+msgid "Orientation"
+msgstr "方向"
+
+msgid "Preferred height"
+msgstr "首选高度"
+
+msgid "Preferred width"
+msgstr "首选宽度"
+
+msgid "Program class as used by the window manager"
+msgstr "窗口管理器使用的程序类"
+
+msgid "Program name as used by the window manager"
+msgstr "由窗口管理器使用的程序名"
+
+msgid "SCREEN"
+msgstr "屏幕"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select a file to open"
+msgstr "选择要打开的文件"
+
+msgid "Select a filename to save"
+msgstr "选择要保存的文件名"
+
+msgid "Select files to open"
+msgstr "选择要打开的文件"
+
+msgid "Shadow type"
+msgstr "阴影类型"
+
+msgid "Show t_ips"
+msgstr "显示提示(_I)"
+
+msgid "Shows available Bonobo components"
+msgstr "显示可用的 Bonobo 组件"
+
+msgid "Style of bevel around the toolbar"
+msgstr "工具栏立体效果的样式"
+
+msgid "T_ext"
+msgstr "文本(_E)"
+
+msgid "Text only"
+msgstr "仅有文本"
+
+msgid "The User interface container"
+msgstr "用户界面容器"
+
+msgid "The degree of enlargment"
+msgstr "缩放程度"
+
+msgid "The factory pointer"
+msgstr "车间指针"
+
+msgid "The maximum degree of enlargment"
+msgstr "最大缩放级别"
+
+msgid "The minimum degree of enlargment"
+msgstr "最小缩放程度"
+
+msgid "This does nothing; it is only a demonstration."
+msgstr "不做任何事；它仅仅是个演示。"
+
+msgid "Toolbars"
+msgstr "工具栏"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Undock the toolbar"
+msgstr "取消停靠工具栏"
+
+msgid "View help for this application"
+msgstr "查看此应用程序的帮助"
+
+msgid "Visible"
+msgstr "可见"
+
+msgid "Whether X events should be forwarded"
+msgstr "是否应转发 X 事件"
+
+msgid "Whether we have a valid maximum zoom level"
+msgstr "是否有有效的最大缩放级别"
+
+msgid "Whether we have a valid minimum zoom level"
+msgstr "是否有有效的最小缩放级别"
+
+msgid "Whether we zoom continuously (as opposed to jumps)"
+msgstr "是否可连续缩放(和跳跃式相反)"
+
+msgid "X display to use"
+msgstr "使用的 X 显示"
+
+msgid "X screen to use"
+msgstr "要使用的 X 屏幕"
+
+msgid "Zoom level"
+msgstr "缩放级别"
+
+msgid "_About..."
+msgstr "关于(_A)..."
+
+msgid "_Contents"
+msgstr "目录(_C)"
+
+msgid "_Dump XML"
+msgstr "转存 XML(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_File"
+msgstr "文件(_F)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Hide"
+msgstr "隐藏(_H)"
+
+msgid "_Hide toolbar"
+msgstr "隐藏工具栏(_H)"
+
+msgid "_Icon"
+msgstr "图标(_I)"
+
+msgid "_Priority text only"
+msgstr "仅优先级文本(_P)"
+
+msgid "_Select"
+msgstr "选择(_S)"
+
+msgid "_Show"
+msgstr "显示(_S)"
+
+msgid "_Text and Icon"
+msgstr "文本和图标(_T)"
+
+msgid "_View tooltips"
+msgstr "查看工具提示(_V)"
+
+msgid "corba UI container"
+msgstr "Corba UI 容器"
+
+msgid "corba factory"
+msgstr "Corba 车间"
+
+msgid "is floating"
+msgstr "是浮动的"
+
+msgid "toolbars"
+msgstr "工具栏"
+
+msgid "translator-credits"
+msgstr ""
+"开源软件国际化之简体中文组，http://i18n.linux.net.cn\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Feng Chao https://launchpad.net/~chaofeng\n"
+"  Funda Wang https://launchpad.net/~fundawang"
+
+msgid "whether the toolbar is floating"
+msgstr "工具栏是否浮动"

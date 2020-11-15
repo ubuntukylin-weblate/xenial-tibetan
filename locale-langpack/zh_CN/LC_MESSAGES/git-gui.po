@@ -1,0 +1,1812 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: git-gui\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-26 15:47-0800\n"
+"PO-Revision-Date: 2014-08-20 03:00+0000\n"
+"Last-Translator: Eric Miao <eric.miao@canonical.com>\n"
+"Language-Team: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:18+0000\n"
+
+msgid ""
+"\n"
+"\n"
+"A good replacement for %s\n"
+"is placing values for the user.name and\n"
+"user.email settings into your personal\n"
+"~/.gitconfig file.\n"
+msgstr ""
+"\n"
+"\n"
+"%s 的一个很好的替代方案是将 user.name 以及\n"
+"user.email 设置放在你的个人 ~/.gitconfig 文件中.\n"
+
+msgid ""
+"\n"
+"* Untracked file clipped here by %s.\n"
+"* To see the entire file, use an external editor.\n"
+msgstr ""
+"\n"
+"* 未追踪到的文件被 %s 缩显在此。\n"
+"* 要查看完整文件，请使用外部编辑器。\n"
+
+msgid ""
+"\n"
+"This is due to a known issue with the\n"
+"Tcl binary distributed by Cygwin."
+msgstr ""
+"\n"
+"这是由 Cygwin 发布的 Tcl 代码中一个\n"
+"已知问题所引起."
+
+msgid "%s ... %*i of %*i %s (%3i%%)"
+msgstr "%s ... %*i of %*i %s (%3i%%)"
+
+msgid "%s Repository"
+msgstr "%s 版本库"
+
+msgid "%s of %s"
+msgstr "%s 自 %s"
+
+msgid "'%s' is not an acceptable branch name."
+msgstr "'%s'不是一个可接受的分支名."
+
+msgid "'%s' is not an acceptable remote name."
+msgstr "外部地址名称 %s 无效"
+
+msgid "(Blue denotes repository-local tools)"
+msgstr "(蓝色表示本地仓库工具)"
+
+msgid "* Binary file (not showing content)."
+msgstr "* 二进制文件 (不显示内容)."
+
+msgid ""
+"* Untracked file is %d bytes.\n"
+"* Showing only first %d bytes.\n"
+msgstr ""
+"* 未追踪到的文件为 %d bytes。\n"
+"* 只显示头 %d bytes。\n"
+
+msgid "A branch is required for 'Merged Into'."
+msgstr "'合并到' 需要指定某个分支"
+
+msgid "Abort Merge..."
+msgstr "中止合并..."
+
+msgid "Abort completed.  Ready."
+msgstr "中止完成. 就绪."
+
+msgid "Abort failed."
+msgstr "中止失败"
+
+msgid ""
+"Abort merge?\n"
+"\n"
+"Aborting the current merge will cause *ALL* uncommitted changes to be lost.\n"
+"\n"
+"Continue with aborting the current merge?"
+msgstr ""
+"中止合并?\n"
+"\n"
+"中止当前的合并操作将导致 *所有* 尚未提交的改动丢失.\n"
+"\n"
+"是否要继续中止当前的合并操作?"
+
+msgid "Aborted checkout of '%s' (file level merging is required)."
+msgstr "中止 '%s' 的 checkout 操作 (需要做文件级合并)."
+
+msgid "Aborting"
+msgstr "中止"
+
+msgid "About %s"
+msgstr "关于 %s"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add New Remote"
+msgstr "添加新的外部地址"
+
+msgid "Add New Tool Command"
+msgstr "添加新操作命令"
+
+msgid "Add Remote"
+msgstr "添加外部地址"
+
+msgid "Add Tool"
+msgstr "添加操作"
+
+msgid "Add globally"
+msgstr "添加到全局"
+
+msgid "Add..."
+msgstr "添加..."
+
+msgid "Adding %s"
+msgstr "添加 %s"
+
+msgid "Adding resolution for %s"
+msgstr "正在为 %s 添加解决方案"
+
+msgid "Always (Do not perform merge checks)"
+msgstr "总是合并 (不作合并检查)"
+
+msgid "Amend Last Commit"
+msgstr "修正上次提交"
+
+msgid "Amended Commit Message:"
+msgstr "修正的提交描述:"
+
+msgid "Amended Initial Commit Message:"
+msgstr "修正的初始提交描述:"
+
+msgid "Amended Merge Commit Message:"
+msgstr "修正的合并提交描述:"
+
+msgid "Annotation complete."
+msgstr "标注完成."
+
+msgid "Annotation process is already running."
+msgstr "正在运行注释处理。"
+
+msgid "Any unstaged changes will be permanently lost by the revert."
+msgstr "任何未缓存的改动将在这次撤销中永久丢失."
+
+msgid "Apply/Reverse Hunk"
+msgstr "应用/撤消此修改块"
+
+msgid "Apply/Reverse Line"
+msgstr "应用/恢复行"
+
+msgid "Arbitrary Location:"
+msgstr "任意地址："
+
+msgid "Are you sure you want to run %s?"
+msgstr "您确实要运行 %s ？"
+
+msgid "Arguments"
+msgstr "参数"
+
+msgid "Ask the user for additional arguments (sets $ARGS)"
+msgstr "询问用户设置其他参数（设置 $ARGS）"
+
+msgid "Ask the user to select a revision (sets $REVISION)"
+msgstr "询问用户选择一个版本（设置 $REVISION）"
+
+msgid "Author:"
+msgstr "作者:"
+
+msgid "Branch"
+msgstr "分支(branch)"
+
+msgid "Branch '%s' already exists."
+msgstr "分支 '%s' 已经存在."
+
+msgid ""
+"Branch '%s' already exists.\n"
+"\n"
+"It cannot fast-forward to %s.\n"
+"A merge is required."
+msgstr ""
+"分支 '%s' 已经存在.\n"
+"\n"
+"无法快速合并到 %s.\n"
+"需要普通合并."
+
+msgid "Branch '%s' does not exist."
+msgstr "分支 '%s' 并不存在."
+
+msgid "Branch Name"
+msgstr "分支名"
+
+msgid "Branch:"
+msgstr "分支:"
+
+msgid "Branches"
+msgstr "分支"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Browse %s's Files"
+msgstr "浏览 %s 上的文件"
+
+msgid "Browse Branch Files"
+msgstr "浏览分支文件"
+
+msgid "Browse Branch Files..."
+msgstr "浏览分支上的文件..."
+
+msgid "Browse Current Branch's Files"
+msgstr "浏览当前分支上的文件"
+
+msgid "Busy"
+msgstr "忙碌"
+
+msgid "Calling commit-msg hook..."
+msgstr "调用 commit-msg 命令......"
+
+msgid "Calling pre-commit hook..."
+msgstr "调用 pre-commit 命令......"
+
+msgid "Calling prepare-commit-msg hook..."
+msgstr "调用 prepare-commit-msg 命令"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid ""
+"Cannot abort while amending.\n"
+"\n"
+"You must finish amending this commit.\n"
+msgstr ""
+"修正操作中无法中止.\n"
+"\n"
+"你必须先完成本次修正操作.\n"
+
+msgid ""
+"Cannot amend while merging.\n"
+"\n"
+"You are currently in the middle of a merge that has not been fully completed.  You cannot amend the prior commit unless you first abort the current merge activity.\n"
+msgstr ""
+"在合并时无法修正.\n"
+"\n"
+"你当前正在一次尚未完成的合并操作过程中. 除非中止当前合并活动,\n"
+"否则无法修正之前的提交.\n"
+
+msgid "Cannot determine HEAD.  See console output for details."
+msgstr "无法确定 HEAD. 请查看控制终端的输出."
+
+msgid "Cannot fetch branches and objects.  See console output for details."
+msgstr "无法获取分支和对象. 请查看控制终端的输出."
+
+msgid "Cannot fetch tags.  See console output for details."
+msgstr "无法获取标签. 请查看控制终端的输出."
+
+msgid "Cannot find HEAD commit:"
+msgstr "无法找到 HEAD 提交："
+
+msgid "Cannot find git in PATH."
+msgstr "PATH 中没有找到 git"
+
+msgid "Cannot find parent commit:"
+msgstr "无法找到上一次提交"
+
+msgid ""
+"Cannot merge while amending.\n"
+"\n"
+"You must finish amending this commit before starting any type of merge.\n"
+msgstr ""
+"修正时无法做合并.\n"
+"\n"
+"你必须完成对该提交的修正才能继续任何类型的合并操作.\n"
+
+msgid "Cannot move to top of working directory:"
+msgstr "无法移动到工作根目录:"
+
+msgid "Cannot parse Git version string:"
+msgstr "无法解析 Git 的版本信息:"
+
+msgid "Cannot resolve %s as a commit."
+msgstr "无法解析 %s 为提交."
+
+msgid "Cannot resolve deletion or link conflicts using a tool"
+msgstr "无法使用工具解决删除或链接冲突"
+
+msgid "Cannot write icon:"
+msgstr "无法修改图标:"
+
+msgid "Cannot write shortcut:"
+msgstr "无法修改快捷键:"
+
+msgid "Case-Sensitive"
+msgstr "区分大小写"
+
+msgid "Change"
+msgstr "修改"
+
+msgid "Change Font"
+msgstr "更改字体"
+
+msgid "Checked out '%s'."
+msgstr "'%s' 已被 checkout"
+
+msgid "Checkout"
+msgstr "Checkout"
+
+msgid "Checkout After Creation"
+msgstr "在创建后Checkout"
+
+msgid "Checkout Branch"
+msgstr "Checkout 分支"
+
+msgid "Checkout..."
+msgstr "Checkout..."
+
+msgid "Choose %s"
+msgstr "选择 %s"
+
+msgid "Clone"
+msgstr "克隆"
+
+msgid "Clone Existing Repository"
+msgstr "克隆已有版本库"
+
+msgid "Clone Type:"
+msgstr "克隆类型:"
+
+msgid "Clone failed."
+msgstr "克隆失败."
+
+msgid "Clone..."
+msgstr "克隆..."
+
+msgid "Cloning from %s"
+msgstr "从 %s 克隆"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Command:"
+msgstr "命令："
+
+msgid "Commit %s appears to be corrupt"
+msgstr "提交 %s 似乎已损坏"
+
+msgid "Commit Message Text Width"
+msgstr "提交信息文本宽度"
+
+msgid "Commit Message:"
+msgstr "提交描述:"
+
+msgid "Commit declined by commit-msg hook."
+msgstr "提交被 commit-msg 命令终止。"
+
+msgid "Commit declined by pre-commit hook."
+msgstr "提交被 pre-commit 命令终止。"
+
+msgid "Commit declined by prepare-commit-msg hook."
+msgstr "提交被 prepare-commit-msg 命令拒绝"
+
+msgid "Commit failed."
+msgstr "提交失败。"
+
+msgid "Commit:"
+msgstr "提交:"
+
+msgid "Commit@@noun"
+msgstr "提交(commit)"
+
+msgid "Commit@@verb"
+msgstr "提交"
+
+msgid "Committer:"
+msgstr "提交者:"
+
+msgid "Committing changes..."
+msgstr "正在提交更改..."
+
+msgid "Compress Database"
+msgstr "压缩数据库"
+
+msgid "Compressing the object database"
+msgstr "压缩对象数据库"
+
+msgid "Conflict file does not exist"
+msgstr "冲突文件不存在"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Copied Or Moved Here By:"
+msgstr "由复制或移动至此:"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy All"
+msgstr "全部复制"
+
+msgid "Copy Commit"
+msgstr "复制提交"
+
+msgid "Copy To Clipboard"
+msgstr "复制到剪贴板"
+
+msgid "Copying objects"
+msgstr "复制 objects"
+
+msgid ""
+"Could not add tool:\n"
+"%s"
+msgstr ""
+"无法添加操作：\n"
+"%s"
+
+msgid ""
+"Could not start ssh-keygen:\n"
+"\n"
+"%s"
+msgstr ""
+"无法启动 ssh-keygen:\n"
+"\n"
+"%s"
+
+msgid ""
+"Could not start the merge tool:\n"
+"\n"
+"%s"
+msgstr ""
+"无法启动合并工具：\n"
+"\n"
+"%s"
+
+msgid "Couldn't find gitk in PATH"
+msgstr "在 PATH 中找不到 gitk"
+
+msgid "Counting objects"
+msgstr "清点对象"
+
+msgid "Create"
+msgstr "新建"
+
+msgid "Create Branch"
+msgstr "创建分支"
+
+msgid "Create Desktop Icon"
+msgstr "创建桌面图标"
+
+msgid "Create New Branch"
+msgstr "新建分支"
+
+msgid "Create New Repository"
+msgstr "创建新的版本库"
+
+msgid "Create..."
+msgstr "新建..."
+
+msgid "Created commit %s: %s"
+msgstr "创建了 commit %s: %s"
+
+msgid "Creating working directory"
+msgstr "创建工作目录"
+
+msgid "Current Branch:"
+msgstr "当前分支:"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Database Statistics"
+msgstr "数据库统计信息"
+
+msgid "Decrease Font Size"
+msgstr "缩小字体"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default File Contents Encoding"
+msgstr "默认文件内容编码"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete Branch"
+msgstr "删除分支"
+
+msgid "Delete Branch Remotely"
+msgstr "删除外部分支"
+
+msgid "Delete Branch..."
+msgstr "删除分支"
+
+msgid "Delete Local Branch"
+msgstr "删除本地分支"
+
+msgid "Delete Only If"
+msgstr "删除仅当"
+
+msgid "Delete Only If Merged Into"
+msgstr "仅在合并后删除"
+
+msgid "Delete..."
+msgstr "删除..."
+
+msgid "Deleting branches from %s"
+msgstr "正在删除 %s 分支"
+
+msgid "Destination Repository"
+msgstr "目标版本库"
+
+msgid "Detach From Local Branch"
+msgstr "从本地分支脱离"
+
+msgid "Diff/Console Font"
+msgstr "Diff/控制终端字体"
+
+msgid "Directory %s already exists."
+msgstr "目录 %s 已经存在."
+
+msgid "Directory:"
+msgstr "目录:"
+
+msgid "Disk space used by loose objects"
+msgstr "松散对象所使用的磁盘空间"
+
+msgid "Disk space used by packed objects"
+msgstr "压缩对象所使用的磁盘空间"
+
+msgid "Do Full Copy Detection"
+msgstr "进行全局拷贝检测"
+
+msgid "Do Nothing"
+msgstr "不做操作"
+
+msgid "Do Nothing Else Now"
+msgstr "现在什么也不做"
+
+msgid "Do not know how to initialize repository at location '%s'."
+msgstr "无法获知怎样在 %s 位置初始化仓库"
+
+msgid "Don't show the command output window"
+msgstr "不显示命令输出窗口"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Email Address"
+msgstr "Email 地址"
+
+msgid "Encoding"
+msgstr "编码"
+
+msgid "Error loading commit data for amend:"
+msgstr "为修正装载提交数据出错:"
+
+msgid "Error loading diff:"
+msgstr "装载 diff 错误:"
+
+msgid "Error loading file:"
+msgstr "装载文件出错:"
+
+msgid ""
+"Error retrieving versions:\n"
+"%s"
+msgstr ""
+"还原版本错误：\n"
+"%s"
+
+msgid "Error: Command Failed"
+msgstr "错误: 命令失败"
+
+msgid "Explore Working Copy"
+msgstr "浏览工作拷贝"
+
+msgid "Failed to add remote '%s' of location '%s'."
+msgstr "添加位于 %s 的外部地址 %s 失败。"
+
+msgid "Failed to completely save options:"
+msgstr "无法完全保存选项:"
+
+msgid "Failed to configure origin"
+msgstr "无法配置 origin"
+
+msgid "Failed to configure simplified git-pull for '%s'."
+msgstr "无法为 '%s' 配置简化的 git-pull"
+
+msgid "Failed to create repository %s:"
+msgstr "无法创建版本库 %s:"
+
+msgid ""
+"Failed to delete branches:\n"
+"%s"
+msgstr ""
+"无法删除分支:\n"
+"%s"
+
+msgid "Failed to open repository %s:"
+msgstr "无法打开版本库 %s:"
+
+msgid "Failed to rename '%s'."
+msgstr "无法更名 '%s'."
+
+msgid ""
+"Failed to set current branch.\n"
+"\n"
+"This working directory is only partially switched.  We successfully updated your files, but failed to update an internal Git file.\n"
+"\n"
+"This should not have occurred.  %s will now close and give up."
+msgstr ""
+"无法设定当前分支.\n"
+"\n"
+"当前工作目录仅有部分被切换出, 我们已成功的更新了您的文件但是无法更新某个内部的Git文件.\n"
+"\n"
+"这本不该发生, %s 将关闭并放弃."
+
+msgid "Failed to stage selected hunk."
+msgstr "无法缓存所选代码段."
+
+msgid "Failed to stage selected line."
+msgstr "应用选择的行失败。"
+
+msgid "Failed to unstage selected hunk."
+msgstr "无法将选择的代码段从缓存中删除."
+
+msgid "Failed to unstage selected line."
+msgstr "取消应用选择的行失败。"
+
+msgid "Failed to update '%s'."
+msgstr "无法更新 '%s'."
+
+msgid "Fast Forward Only"
+msgstr "仅快速合并"
+
+msgid "Fetch Immediately"
+msgstr "立刻获取"
+
+msgid "Fetch Tracking Branch"
+msgstr "获取跟踪分支"
+
+msgid "Fetch from"
+msgstr "从..获取(fetch)"
+
+msgid "Fetching %s from %s"
+msgstr "获取 %s 自 %s"
+
+msgid "Fetching new changes from %s"
+msgstr "从 %s  获取最新改动"
+
+msgid "Fetching the %s"
+msgstr "正在获取 %s"
+
+msgid "File %s already exists."
+msgstr "文件 %s 已经存在."
+
+msgid "File %s seems to have unresolved conflicts, still stage?"
+msgstr "文件 %s 好像还没有解决冲突，是否仍然应用？"
+
+msgid "File Browser"
+msgstr "文件浏览器"
+
+msgid "File Viewer"
+msgstr "文件查看器"
+
+msgid "File level merge required."
+msgstr "需要文件级合并."
+
+msgid "File type changed, not staged"
+msgstr "文件类型改变，未应用"
+
+msgid "File type changed, staged"
+msgstr "文件类型改变，应用"
+
+msgid "File:"
+msgstr "文件:"
+
+msgid "Find Text..."
+msgstr "查找文本..."
+
+msgid "Find:"
+msgstr "查找："
+
+msgid "Font Example"
+msgstr "字体样例"
+
+msgid "Font Family"
+msgstr "字体族"
+
+msgid "Font Size"
+msgstr "字体大小"
+
+msgid "Force overwrite existing branch (may discard changes)"
+msgstr "强制覆盖已有的分支 (可能会丢失改动)"
+
+msgid "Force resolution to the base version?"
+msgstr "是否强制应用到原始版本？"
+
+msgid "Force resolution to the other branch?"
+msgstr "是否强制应用到其它分支？"
+
+msgid "Force resolution to this branch?"
+msgstr "是否强制应用到这个分支？"
+
+msgid "Found a public key in: %s"
+msgstr "在 %s 发现一个公共密钥"
+
+msgid "From Repository"
+msgstr "从版本库"
+
+msgid "Full Copy (Slower, Redundant Backup)"
+msgstr "全部复制 (较慢, 做备份)"
+
+msgid "Further Action"
+msgstr "下一步"
+
+msgid "Garbage files"
+msgstr "垃圾文件"
+
+msgid "Generate Key"
+msgstr "生成密钥"
+
+msgid "Generating..."
+msgstr "正在生成......"
+
+msgid "Generation failed."
+msgstr "生成失败。"
+
+msgid "Git Gui"
+msgstr "Git Gui"
+
+msgid "Git Repository"
+msgstr "Git 版本库"
+
+msgid "Git Repository (subproject)"
+msgstr "Git 版本库 (子项目)"
+
+msgid "Git directory not found:"
+msgstr "Git 目录无法找到:"
+
+msgid ""
+"Git version cannot be determined.\n"
+"\n"
+"%s claims it is version '%s'.\n"
+"\n"
+"%s requires at least Git 1.5.0 or later.\n"
+"\n"
+"Assume '%s' is version 1.5.0?\n"
+msgstr ""
+"无法确定 Git 的版本.\n"
+"\n"
+"%s 声明其版本为 '%s'.\n"
+"\n"
+"而 %s 需要 1.5.0 或这以后的 Git 版本.\n"
+"\n"
+"是否假定 '%s' 为版本 1.5.0?\n"
+
+msgid "Global (All Repositories)"
+msgstr "全局 (所有版本库)"
+
+msgid "Hardlinks are unavailable.  Falling back to copying."
+msgstr "硬连接不可用. 使用复制."
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "In File:"
+msgstr "在文件:"
+
+msgid "Include tags"
+msgstr "包含标签"
+
+msgid "Increase Font Size"
+msgstr "放大字体"
+
+msgid "Index Error"
+msgstr "缓存(Index)错误"
+
+msgid "Initial Commit Message:"
+msgstr "初始的提交描述:"
+
+msgid "Initial file checkout failed."
+msgstr "初始的文件checkout失败"
+
+msgid "Initialize Remote Repository and Push"
+msgstr "初始化外部仓库，然后上传"
+
+msgid "Initializing..."
+msgstr "初始化..."
+
+msgid "Invalid GIT_COMMITTER_IDENT:"
+msgstr "无效的 GIT_COMMITTER_IDENT"
+
+msgid "Invalid date from Git: %s"
+msgstr "无效的日期: %s"
+
+msgid "Invalid font specified in %s:"
+msgstr "%s 中指定的字体无效:"
+
+msgid "Invalid global encoding '%s'"
+msgstr "全局编码 ’%s‘ 无效。"
+
+msgid "Invalid repo encoding '%s'"
+msgstr "仓库编码 ’%s‘ 无效"
+
+msgid "Invalid revision: %s"
+msgstr "无效版本: %s"
+
+msgid "Invalid spell checking configuration"
+msgstr "无效的拼写检查配置"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "LOCAL:\n"
+msgstr "本地：\n"
+
+msgid ""
+"LOCAL: deleted\n"
+"REMOTE:\n"
+msgstr ""
+"本地：已删除\n"
+"外部：\n"
+
+msgid ""
+"Last scanned state does not match repository state.\n"
+"\n"
+"Another Git program has modified this repository since the last scan.  A rescan must be performed before a merge can be performed.\n"
+"\n"
+"The rescan will be automatically started now.\n"
+msgstr ""
+"最后一次扫描的状态和当前版本库状态不符.\n"
+"\n"
+"另一 Git 程序自上次扫描后修改了本版本库. 在修改当前分支之前需要重新做一次扫描.\n"
+"\n"
+"重新扫描将自动开始.\n"
+
+msgid ""
+"Last scanned state does not match repository state.\n"
+"\n"
+"Another Git program has modified this repository since the last scan.  A rescan must be performed before another commit can be created.\n"
+"\n"
+"The rescan will be automatically started now.\n"
+msgstr ""
+"最后一次扫描的状态和当前版本库状态不符.\n"
+"\n"
+"另一 Git 程序自上次扫描后修改了本版本库. 在修改当前分支之前需要重新做一次扫描.\n"
+"\n"
+"重新扫描将自动开始.\n"
+
+msgid ""
+"Last scanned state does not match repository state.\n"
+"\n"
+"Another Git program has modified this repository since the last scan.  A rescan must be performed before the current branch can be changed.\n"
+"\n"
+"The rescan will be automatically started now.\n"
+msgstr ""
+"最后一次扫描的状态和当前版本库状态不符.\n"
+"\n"
+"另一 Git 程序自上次扫描后修改了本版本库. 在修改当前分支之前需要重新做一次扫描.\n"
+"\n"
+"重新扫描将自动开始.\n"
+
+msgid "Linking objects"
+msgstr "链接 objects"
+
+msgid "Loading %s..."
+msgstr "正在载入 %s..."
+
+msgid "Loading annotation..."
+msgstr "裝載标注..."
+
+msgid "Loading copy/move tracking annotations..."
+msgstr "装载复制/移动跟踪标注..."
+
+msgid "Loading diff of %s..."
+msgstr "运行 %s 对比......"
+
+msgid "Loading original location annotations..."
+msgstr "装载原始位置标注..."
+
+msgid "Local Branch"
+msgstr "本地分支"
+
+msgid "Local Branches"
+msgstr "本地分支"
+
+msgid "Local Merge..."
+msgstr "本地合并..."
+
+msgid "Location %s already exists."
+msgstr "位置 %s 已经存在."
+
+msgid "Location:"
+msgstr "地址："
+
+msgid "Main Font"
+msgstr "主要字体"
+
+msgid "Match Tracking Branch Name"
+msgstr "匹配跟踪分支名字"
+
+msgid "Match Tracking Branches"
+msgstr "匹配跟踪分支"
+
+msgid "Merge"
+msgstr "合并(merge)"
+
+msgid "Merge Commit Message:"
+msgstr "合并提交描述:"
+
+msgid "Merge Into %s"
+msgstr "合并到 %s"
+
+msgid "Merge Verbosity"
+msgstr "合并冗余度"
+
+msgid "Merge completed successfully."
+msgstr "合并成功完成."
+
+msgid "Merge failed.  Conflict resolution is required."
+msgstr "合并失败. 需要解决冲突."
+
+msgid "Merge strategy '%s' not supported."
+msgstr "合并策略 '%s' 不支持."
+
+msgid "Merge tool failed."
+msgstr "合并操作失败。"
+
+msgid "Merge tool is already running, terminate it?"
+msgstr "合并工具正在运行，是否终止？"
+
+msgid "Merged Into:"
+msgstr "合并到"
+
+msgid "Merging %s and %s..."
+msgstr "正在合并 %s 和 %s..."
+
+msgid "Mirroring to %s"
+msgstr "镜像同步到 %s"
+
+msgid "Missing"
+msgstr "不存在"
+
+msgid "Modified, not staged"
+msgstr "修改但未缓存"
+
+msgid "Name:"
+msgstr "名字:"
+
+msgid "New Branch Name Template"
+msgstr "新建分支命名模板"
+
+msgid "New Commit"
+msgstr "新建提交"
+
+msgid "New Name:"
+msgstr "新名字:"
+
+msgid "New..."
+msgstr "新建..."
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "No"
+msgstr "号码"
+
+msgid "No Suggestions"
+msgstr "没有建议"
+
+msgid "No changes to commit."
+msgstr "没有改动要提交."
+
+msgid ""
+"No changes to commit.\n"
+"\n"
+"No files were modified by this commit and it was not a merge commit.\n"
+"\n"
+"A rescan will be automatically started now.\n"
+msgstr ""
+"没有改动提交.\n"
+"\n"
+"该提交没有改动任何文件也不是一个合并提交.\n"
+"\n"
+"重新扫描将自动开始.\n"
+
+msgid ""
+"No changes to commit.\n"
+"\n"
+"You must stage at least 1 file before you can commit.\n"
+msgstr ""
+"没有需要提交的变动.\n"
+"\n"
+"提交前你必须首先缓存至少一个文件.\n"
+
+msgid "No default branch obtained."
+msgstr "没有获取缺省分支"
+
+msgid ""
+"No differences detected.\n"
+"\n"
+"%s has no changes.\n"
+"\n"
+"The modification date of this file was updated by another application, but the content within the file was not changed.\n"
+"\n"
+"A rescan will be automatically started to find other files which may have the same state."
+msgstr ""
+"没有发现差异。\n"
+"\n"
+"%s 没有发生变化。\n"
+"\n"
+"该文件的修改日期已被另一个程序更新，但其内容并未变化。\n"
+"\n"
+"将会自动重新启动一次扫描以寻找其他可能具有同样状态的文件。"
+
+msgid "No keys found."
+msgstr "没有发现密钥。"
+
+msgid "No repository selected."
+msgstr "没有选择版本库"
+
+msgid "No revision selected."
+msgstr "没有选择版本."
+
+msgid "No working directory"
+msgstr "没有工作目录"
+
+msgid "Not a GUI merge tool: '%s'"
+msgstr "不是图形合并工具:’%s‘"
+
+msgid "Not a Git repository: %s"
+msgstr "不是一个 Git 版本库: %s"
+
+msgid ""
+"Note that the diff shows only conflicting changes.\n"
+"\n"
+"%s will be overwritten.\n"
+"\n"
+"This operation can be undone only by restarting the merge."
+msgstr ""
+"注意对比只显示有冲突的变化。\n"
+"%s 将被覆盖。\n"
+"此操作只能在重起合并时取消。"
+
+msgid "Nothing to clone from %s."
+msgstr "没有东西可从 %s 克隆."
+
+msgid "Number of Diff Context Lines"
+msgstr "Diff 上下文行数"
+
+msgid "Number of loose objects"
+msgstr "松散对象的数量"
+
+msgid "Number of packed objects"
+msgstr "压缩对象数量"
+
+msgid "Number of packs"
+msgstr "压缩包数量"
+
+msgid "OK"
+msgstr "确定"
+
+msgid ""
+"One or more of the merge tests failed because you have not fetched the "
+"necessary commits.  Try fetching from %s first."
+msgstr "一个或多个合并测试失败。因为没有获取到可以提交的内容，请尝试先从 %s 获取。"
+
+msgid "Online Documentation"
+msgstr "在线文档"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open Existing Repository"
+msgstr "打开已有版本库"
+
+msgid "Open Recent Repository:"
+msgstr "打开最近版本库"
+
+msgid "Open..."
+msgstr "打开..."
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Options..."
+msgstr "选项..."
+
+msgid "Original File:"
+msgstr "原始文件:"
+
+msgid "Originally By:"
+msgstr "最初由:"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Packed objects waiting for pruning"
+msgstr "压缩对象等待清理"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Please select a branch to rename."
+msgstr "请选择分支更名."
+
+msgid "Please select a tracking branch."
+msgstr "请选择某个跟踪分支."
+
+msgid "Please select one or more branches to delete."
+msgstr "请选择要删除的一个或多个分支"
+
+msgid "Please supply a branch name."
+msgstr "请提供分支名字."
+
+msgid ""
+"Please supply a commit message.\n"
+"\n"
+"A good commit message has the following format:\n"
+"\n"
+"- First line: Describe in one sentence what you did.\n"
+"- Second line: Blank\n"
+"- Remaining lines: Describe why this change is good.\n"
+msgstr ""
+"请提供一条提交信息.\n"
+"\n"
+"一条好的提交信息有下列格式:\n"
+"\n"
+"- 第一行: 一句话概括你做的修改.\n"
+"- 第二行: 空行\n"
+"- 剩余行: 请描述为什么你做的这些改动是好的.\n"
+
+msgid "Please supply a name for the tool."
+msgstr "请为操作命名"
+
+msgid "Please supply a remote name."
+msgstr "请提供一个外部地址名称"
+
+msgid "Portions staged for commit"
+msgstr "部分缓存为提交"
+
+msgid ""
+"Possible environment issues exist.\n"
+"\n"
+"The following environment variables are probably\n"
+"going to be ignored by any Git subprocess run\n"
+"by %s:\n"
+"\n"
+msgstr ""
+"可能存在环境变量的问题.\n"
+"\n"
+"由 %s 执行的 Git 子进程可能忽略下列环境变量:\n"
+"\n"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Prev"
+msgstr "上一个"
+
+msgid "Prune Tracking Branches During Fetch"
+msgstr "获取时清除跟踪分支"
+
+msgid "Prune from"
+msgstr "从..清除(prune)"
+
+msgid "Pruning tracking branches deleted from %s"
+msgstr "正在清理被 %s 删除的分支"
+
+msgid "Push"
+msgstr "上传"
+
+msgid "Push Branches"
+msgstr "上传分支"
+
+msgid "Push to"
+msgstr "上传到(push)"
+
+msgid "Push..."
+msgstr "上传..."
+
+msgid "Pushing %s %s to %s"
+msgstr "上传 %s %s 到 %s"
+
+msgid "Pushing changes to %s"
+msgstr "上传改动到 %s"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "REMOTE:\n"
+msgstr "外部：\n"
+
+msgid ""
+"REMOTE: deleted\n"
+"LOCAL:\n"
+msgstr ""
+"外部：已删除\n"
+"本地：\n"
+
+msgid "Reading %s..."
+msgstr "读取 %s..."
+
+msgid "Ready to commit."
+msgstr "准备提交。"
+
+msgid "Ready."
+msgstr "就绪"
+
+msgid "Recent Repositories"
+msgstr "最近版本库"
+
+msgid ""
+"Recovering deleted branches is difficult.\n"
+"\n"
+"Delete the selected branches?"
+msgstr ""
+"恢复被删除的分支非常困难.\n"
+"\n"
+"是否要删除所选分支?"
+
+msgid "Recovering lost commits may not be easy."
+msgstr "恢复丢失的提交是比较困难的."
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Refreshing file status..."
+msgstr "更新文件状态..."
+
+msgid "Remote"
+msgstr "远端(remote)"
+
+msgid "Remote Details"
+msgstr "外部地址详情"
+
+msgid "Remote:"
+msgstr "外部："
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Remove Remote"
+msgstr "删除外部地址"
+
+msgid "Remove Tool"
+msgstr "删除操作"
+
+msgid "Remove Tool Commands"
+msgstr "删除操作命令"
+
+msgid "Remove..."
+msgstr "移除..."
+
+msgid "Rename"
+msgstr "更名..."
+
+msgid "Rename Branch"
+msgstr "更改分支名:"
+
+msgid "Rename..."
+msgstr "更名..."
+
+msgid "Repository"
+msgstr "版本库(repository)"
+
+msgid "Repository:"
+msgstr "版本库"
+
+msgid "Requires merge resolution"
+msgstr "需要解决合并冲突"
+
+msgid "Rescan"
+msgstr "重新扫描"
+
+msgid "Reset"
+msgstr "复位"
+
+msgid "Reset '%s'?"
+msgstr "复位 '%s'?"
+
+msgid ""
+"Reset changes?\n"
+"\n"
+"Resetting the changes will cause *ALL* uncommitted changes to be lost.\n"
+"\n"
+"Continue with resetting the current changes?"
+msgstr ""
+"是否复位当前改动?\n"
+"\n"
+"复位当前的改动将导致 *所有* 未提交的改动丢失.\n"
+"\n"
+"是否要继续复位当前的改动?"
+
+msgid "Reset..."
+msgstr "复位(Reset)..."
+
+msgid "Resetting '%s' to '%s' will lose the following commits:"
+msgstr "复位 '%s' 到 '%s' 将导致下列提交的丢失:"
+
+msgid "Restore Defaults"
+msgstr "恢复默认值"
+
+msgid "Revert Changes"
+msgstr "撤销修改"
+
+msgid "Revert To Base"
+msgstr "返回到初始"
+
+msgid "Revert changes in file %s?"
+msgstr "撤销文件 %s 中的改动?"
+
+msgid "Revert changes in these %i files?"
+msgstr "撤销这些 (%i个) 文件的改动?"
+
+msgid "Reverting %s"
+msgstr "正在还原 %s"
+
+msgid "Reverting dictionary to %s."
+msgstr "正在恢复字典到 %s。"
+
+msgid "Reverting selected files"
+msgstr "还原选中的文件"
+
+msgid "Revision"
+msgstr "版本"
+
+msgid "Revision Expression:"
+msgstr "版本表达式:"
+
+msgid "Revision To Merge"
+msgstr "要合并的版本"
+
+msgid "Revision expression is empty."
+msgstr "版本表达式为空."
+
+msgid "Run Command: %s"
+msgstr "运行命令：%s"
+
+msgid "Run Merge Tool"
+msgstr "运行合并操作"
+
+msgid "Run only if a diff is selected ($FILENAME not empty)"
+msgstr "只在选择比较时运行（$FILENAME 非空)"
+
+msgid "Running %s requires a selected file."
+msgstr "正在运行 %s 需要选择一个文件。"
+
+msgid "Running merge tool..."
+msgstr "正在运行合并工具......"
+
+msgid "Running thorough copy detection..."
+msgstr "正在运行全局拷贝检测"
+
+msgid "Running: %s"
+msgstr "正在运行：%s"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Scanning %s..."
+msgstr "正在扫描 %s..."
+
+msgid "Scanning for modified files ..."
+msgstr "扫描修改过的文件 ..."
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Setting up the %s (at %s)"
+msgstr "正在建立 %s（在 %s）"
+
+msgid "Shared (Fastest, Not Recommended, No Backup)"
+msgstr "共享方式 (最快, 不推荐, 不做备份)"
+
+msgid "Shared only available for local repository."
+msgstr "共享方式仅当是本地版本库时有效."
+
+msgid "Show Diffstat After Merge"
+msgstr "在合并后显示 Diffstat"
+
+msgid "Show History Context"
+msgstr "显示历史信息"
+
+msgid "Show Less Context"
+msgstr "显示更少上下文"
+
+msgid "Show More Context"
+msgstr "显示更多上下文"
+
+msgid "Show SSH Key"
+msgstr "显示 SSH 密钥"
+
+msgid "Show a dialog before running"
+msgstr "运行之前显示对话框"
+
+msgid "Sign Off"
+msgstr "签名(Sign Off)"
+
+msgid "Source Branches"
+msgstr "获取分支"
+
+msgid "Source Location:"
+msgstr "源位置"
+
+msgid "Spell Checker Failed"
+msgstr "拼写检查器失败"
+
+msgid "Spell checker silently failed on startup"
+msgstr "启动时拼写检查器无征兆的失败"
+
+msgid "Spell checking is unavailable"
+msgstr "拼写检查不可用"
+
+msgid "Spelling Dictionary:"
+msgstr "拼写词典："
+
+msgid "Stage Changed"
+msgstr "缓存改动"
+
+msgid "Stage Changed Files To Commit"
+msgstr "缓存修改的文件为提交"
+
+msgid "Stage Hunk For Commit"
+msgstr "缓存修改块为提交"
+
+msgid "Stage Line For Commit"
+msgstr "提交中应用的行"
+
+msgid "Stage To Commit"
+msgstr "缓存为提交"
+
+msgid "Staged Changes (Will Commit)"
+msgstr "已缓存的改动 (将被提交)"
+
+msgid "Staged for commit"
+msgstr "缓存为提交"
+
+msgid "Staged for commit, missing"
+msgstr "缓存为提交, 不存在"
+
+msgid "Staged for removal"
+msgstr "缓存为删除"
+
+msgid "Staged for removal, still present"
+msgstr "缓存为删除, 但仍存在"
+
+msgid "Staging area (index) is already locked."
+msgstr "缓存区域 (index) 已被锁定."
+
+msgid "Standard (Fast, Semi-Redundant, Hardlinks)"
+msgstr "标准方式 (快速, 部分备份, 作硬连接)"
+
+msgid "Standard only available for local repository."
+msgstr "标准方式仅当是本地版本库时有效."
+
+msgid "Starting Revision"
+msgstr "起始版本"
+
+msgid "Starting gitk... please wait..."
+msgstr "启动 gitk... 请等待..."
+
+msgid "Starting..."
+msgstr "开始..."
+
+msgid "Staying on branch '%s'."
+msgstr "停留在分支 '%s'."
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Summarize Merge Commits"
+msgstr "概述合并提交:"
+
+msgid "System (%s)"
+msgstr "系统（%s）"
+
+msgid "Tag"
+msgstr "标签"
+
+msgid "Target Directory:"
+msgstr "目标目录"
+
+msgid "The 'master' branch has not been initialized."
+msgstr "'master'分支尚未初始化."
+
+msgid "The following branches are not completely merged into %s:"
+msgstr "下列分支没有完全被合并到 %s:"
+
+msgid ""
+"The following branches are not completely merged into %s:\n"
+"\n"
+" - %s"
+msgstr ""
+"下列分支没有全部合并到 %s ：\n"
+" - %s"
+
+msgid ""
+"There is nothing to amend.\n"
+"\n"
+"You are about to create the initial commit.  There is no commit before this to amend.\n"
+msgstr ""
+"没有改动需要修正.\n"
+"\n"
+"你正在创建最初的提交. 在此之前没有提交可以修正.\n"
+
+msgid "This Detached Checkout"
+msgstr "该脱节的Checkout"
+
+msgid ""
+"This is example text.\n"
+"If you like this text, it can be your font."
+msgstr ""
+"这是样例文本.\n"
+"如果你喜欢, 你可以设置该字体."
+
+msgid "Tool '%s' already exists."
+msgstr "操作 ’%s‘ 已经存在。"
+
+msgid "Tool Details"
+msgstr "操作明细"
+
+msgid "Tool completed successfully: %s"
+msgstr "操作成功完成：%s"
+
+msgid "Tool failed: %s"
+msgstr "操作失败：%s"
+
+msgid "Tool: %s"
+msgstr "操作：%s"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Tracking Branch"
+msgstr "跟踪分支:"
+
+msgid "Tracking branch %s is not a branch in the remote repository."
+msgstr "跟踪分支 %s 并不是远端版本库中的一个分支"
+
+msgid "Transfer Options"
+msgstr "传输选项"
+
+msgid "Trust File Modification Timestamps"
+msgstr "相信文件的改动时间"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unable to cleanup %s"
+msgstr "无法清理 %s"
+
+msgid "Unable to copy object: %s"
+msgstr "无法复制 object: %s"
+
+msgid "Unable to copy objects/info/alternates: %s"
+msgstr "无法复制 objects/info/alternates: %s"
+
+msgid "Unable to display %s"
+msgstr "无法显示 %s"
+
+msgid "Unable to display parent"
+msgstr "无法显示上一次操作"
+
+msgid "Unable to hardlink object: %s"
+msgstr "无法硬链接 object: %s"
+
+msgid "Unable to obtain your identity:"
+msgstr "无法获知你的身份:"
+
+msgid "Unable to unlock the index."
+msgstr "无法解锁缓存 (index)"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Unexpected EOF from spell checker"
+msgstr "拼写检查器的意外文件终止(EOF)"
+
+msgid ""
+"Unknown file state %s detected.\n"
+"\n"
+"File %s cannot be committed by this program.\n"
+msgstr ""
+"检测到未知文件状态 %s.\n"
+"\n"
+"文件 %s 无法由该程序提交.\n"
+
+msgid "Unlock Index"
+msgstr "解锁 Index"
+
+msgid ""
+"Unmerged files cannot be committed.\n"
+"\n"
+"File %s has merge conflicts.  You must resolve them and stage the file before committing.\n"
+msgstr ""
+"尚未合并的文件没有办法提交.\n"
+"\n"
+"文件 %s 有合并冲突, 你必须解决这些冲突并缓存该文件作提交.\n"
+
+msgid "Unmodified"
+msgstr "未修改"
+
+msgid "Unrecognized spell checker"
+msgstr "没识别的拼写检查器"
+
+msgid "Unstage From Commit"
+msgstr "从本次提交撤除"
+
+msgid "Unstage Hunk From Commit"
+msgstr "从提交中撤除修改块"
+
+msgid "Unstage Line From Commit"
+msgstr "提交中未应用的行"
+
+msgid "Unstaged Changes"
+msgstr "未缓存的改动"
+
+msgid "Unstaging %s from commit"
+msgstr "从提交缓存中删除 %s"
+
+msgid "Unsupported merge tool '%s'"
+msgstr "不支持的合并工具 ’%s‘"
+
+msgid "Unsupported spell checker"
+msgstr "不支持的拼写检查器"
+
+msgid "Untracked, not staged"
+msgstr "未跟踪, 未缓存"
+
+msgid "Update Existing Branch:"
+msgstr "更新已有分支:"
+
+msgid "Updated"
+msgstr "已更新"
+
+msgid ""
+"Updating the Git index failed.  A rescan will be automatically started to "
+"resynchronize git-gui."
+msgstr "更新 Git 缓存(Index)失败, 重新扫描将自动开始以重新同步 git-gui."
+
+msgid "Updating working directory to '%s'..."
+msgstr "更新工作目录到 '%s'..."
+
+msgid "Use '/' separators to create a submenu tree:"
+msgstr "使用 ’/‘ 分隔符创建子菜单"
+
+msgid "Use Local Version"
+msgstr "使用本地版本"
+
+msgid "Use Merge Tool"
+msgstr "使用合并工具"
+
+msgid "Use Remote Version"
+msgstr "使用外部版本"
+
+msgid "Use thin pack (for slow network connections)"
+msgstr "使用 thin pack (适用于低速网络连接)"
+
+msgid "User Name"
+msgstr "用户名"
+
+msgid "Verify Database"
+msgstr "验证数据库"
+
+msgid "Verifying the object database with fsck-objects"
+msgstr "使用 fsck-objects 验证对象数据库"
+
+msgid "Visualize"
+msgstr "图示"
+
+msgid "Visualize %s's History"
+msgstr "图示 %s 分支的历史"
+
+msgid "Visualize All Branch History"
+msgstr "图示所有分支的历史"
+
+msgid "Visualize Current Branch's History"
+msgstr "图示当前分支的历史"
+
+msgid "Working... please wait..."
+msgstr "工作中... 请等待..."
+
+msgid ""
+"You are in the middle of a change.\n"
+"\n"
+"File %s is modified.\n"
+"\n"
+"You should complete the current commit before starting a merge.  Doing so will help you abort a failed merge, should the need arise.\n"
+msgstr ""
+"你正处在一个改动当中.\n"
+"\n"
+"文件 %s 已被修改.\n"
+"\n"
+"你必须完成当前的提交后才能开始合并. 如果需要, 这么做将有助于中止一次失败的合并.\n"
+
+msgid ""
+"You are in the middle of a conflicted merge.\n"
+"\n"
+"File %s has merge conflicts.\n"
+"\n"
+"You must resolve them, stage the file, and commit to complete the current merge.  Only then can you begin another merge.\n"
+msgstr ""
+"你正处在一个有冲突的合并操作中.\n"
+"\n"
+"文件 %s 有合并冲突.\n"
+"\n"
+"你必须解决这些冲突, 缓存该文件, 并提交来完成当前的合并.仅当这样后才能开始下一个合并操作.\n"
+
+msgid ""
+"You are no longer on a local branch.\n"
+"\n"
+"If you wanted to be on a branch, create one now starting from 'This Detached Checkout'."
+msgstr ""
+"你不在某个本地分支上.\n"
+"\n"
+"如果你想位于某分支上, 从当前脱节的Checkout中创建一个新分支."
+
+msgid "You must correct the above errors before committing."
+msgstr "你必须在提交前修正上述错误."
+
+msgid "Your OpenSSH Public Key"
+msgstr "您的 OpenSSH 公共密钥"
+
+msgid "Your key is in: %s"
+msgstr "您的密钥在：%s"
+
+msgid "[Up To Parent]"
+msgstr "[上层目录]"
+
+msgid "buckets"
+msgstr "仓库"
+
+msgid "commit-tree failed:"
+msgstr "commit-tree 失败:"
+
+msgid "error"
+msgstr "错误"
+
+msgid "fatal: Cannot resolve %s"
+msgstr "致命错误: 无法解决 %s"
+
+msgid "fatal: cannot stat path %s: No such file or directory"
+msgstr "致命错误: 无法获取路径 %s 的信息: 该文件或目录不存在"
+
+msgid "fetch %s"
+msgstr "获取 %s"
+
+msgid "files"
+msgstr "文件"
+
+msgid "files checked out"
+msgstr "文件已检查完毕"
+
+msgid "files reset"
+msgstr "已重置文件"
+
+msgid "git-gui - a graphical user interface for Git."
+msgstr "git-gui - Git 的图形化用户界面"
+
+msgid "git-gui: fatal error"
+msgstr "git-gui: 致命错误"
+
+msgid "lines annotated"
+msgstr "标注行"
+
+msgid "objects"
+msgstr "objects"
+
+msgid "pt."
+msgstr "磅"
+
+msgid "push %s"
+msgstr "上传 %s"
+
+msgid "remote prune %s"
+msgstr "清除远端 %s"
+
+msgid "update-ref failed:"
+msgstr "update-ref 失败:"
+
+msgid "warning"
+msgstr "警告"
+
+msgid "warning: Tcl does not support encoding '%s'."
+msgstr "警告: Tcl 不支持编码方式 '%s'."
+
+msgid "write-tree failed:"
+msgstr "write-tree 失败:"

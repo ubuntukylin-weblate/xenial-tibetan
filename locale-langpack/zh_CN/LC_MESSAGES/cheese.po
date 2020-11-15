@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=cheese&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-04-04 15:44+0000\n"
+"PO-Revision-Date: 2016-04-05 02:03+0000\n"
+"Last-Translator: Tong Hui <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:17+0000\n"
+
+msgid "Adjusts the brightness of the image coming from the camera"
+msgstr "调整摄像头所拍摄图像的亮度"
+
+msgid "Adjusts the contrast of the image coming from the camera"
+msgstr "调整摄像头所拍摄图像的对比度"
+
+msgid "Adjusts the hue (color tint) of the image coming from the camera"
+msgstr "调整摄像头所拍摄图像的色调(色彩明暗)"
+
+msgid "Adjusts the saturation of the image coming from the camera"
+msgstr "调整摄像头所拍摄图像的饱和度"
+
+msgid "Are you sure you want to permanently delete the file?"
+msgid_plural "Are you sure you want to permanently delete %d files?"
+msgstr[0] "您确实想永久删除这 %d 个文件吗？"
+
+msgid "Brightness"
+msgstr "亮度"
+
+msgid "Burst"
+msgstr "连拍"
+
+msgid "Burst mode"
+msgstr "连拍模式"
+
+msgid "Camera device string indicator"
+msgstr "相机设备字符串指示器"
+
+msgid "Cancellable initialization not supported"
+msgstr "不支持可中断初始化"
+
+msgid "Capture"
+msgstr "抓取"
+
+msgid "Cheese"
+msgstr "茄子"
+
+msgid "Cheese Webcam Booth"
+msgstr "茄子大头贴"
+
+msgid "Cheese Website"
+msgstr "茄子网站"
+
+msgid ""
+"Cheese uses your webcam to take photos and videos, applies fancy special "
+"effects and lets you share the fun with others."
+msgstr "Cheese 使用您的网络摄像头来拍照和录像，并可以应用有趣的特效，并可以和他人分享。"
+
+msgid "Choose an Effect"
+msgstr "选择效果"
+
+msgid "Contrast"
+msgstr "对比度"
+
+msgid "Could not delete %s"
+msgstr "无法删除 %s"
+
+msgid "Could not move %s to trash"
+msgstr "无法将 %s 移到回收站"
+
+msgid "Could not open %s"
+msgstr "无法打开 %s"
+
+msgid "Could not save %s"
+msgstr "无法保存 %s"
+
+msgid "Countdown length"
+msgstr "倒计时长度"
+
+msgid "DEVICE"
+msgstr "设备"
+
+msgid ""
+"Defines the path where the photos are stored. If empty, \"XDG_PHOTO/Webcam\""
+" will be used."
+msgstr "指定保存照片的路径。如果为空，将使用“XDG_PHOTO/Webcam”。"
+
+msgid ""
+"Defines the path where the videos are stored. If empty, \"XDG_VIDEO/Webcam\""
+" will be used."
+msgstr "指定保存视频的路径。如果为空，将使用“XDG_VIDEO/Webcam”。"
+
+msgid "Delay between photos (seconds)"
+msgstr "照片延迟(秒)"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device capabilities not supported"
+msgstr "不支持该设备的全部功能"
+
+msgid "Device to use as a camera"
+msgstr "用作摄像头的设备"
+
+msgid "Effects"
+msgstr "效果"
+
+msgid "Fire _flash"
+msgstr "闪光(_F)"
+
+msgid "Fire flash before taking a photo"
+msgstr "在拍照前闪光"
+
+msgid "Hue"
+msgstr "色调"
+
+msgid "If you delete an item, it will be permanently lost"
+msgid_plural "If you delete the items, they will be permanently lost"
+msgstr[0] "如果您删除这些项目，它们会永远消失"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Image brightness"
+msgstr "图像亮度"
+
+msgid "Image contrast"
+msgstr "图像对比度"
+
+msgid "Image hue"
+msgstr "图像色调"
+
+msgid "Image saturation"
+msgstr "图像饱和度"
+
+msgid "Last selected effect"
+msgstr "上次选择的效果"
+
+msgid "Leave fullscreen mode and go back to windowed mode"
+msgstr "离开全屏模式并回到窗口模式"
+
+msgid "Move to _Trash"
+msgstr "移入回收站(_T)"
+
+msgid "Name of the installed effect that was selected last"
+msgstr "上次选择的已安装效果的数量"
+
+msgid "Navigate to the next page of effects"
+msgstr "导航到下一页效果"
+
+msgid "Navigate to the previous page of effects"
+msgstr "导航到前一页效果"
+
+msgid "No Effect"
+msgstr "无效果"
+
+msgid "No device found"
+msgstr "未发现设备"
+
+msgid "No effects found"
+msgstr "未发现效果"
+
+msgid "Number of photos"
+msgstr "照片编号"
+
+msgid "Number of photos in burst mode"
+msgstr "连拍照片数"
+
+msgid "One or more needed GStreamer elements are missing: "
+msgstr "缺少所需的一个或多个 GStreamer 元素： "
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Output version information and exit"
+msgstr "输出版本信息并退出"
+
+msgid "P_references"
+msgstr "首选项(_R)"
+
+msgid "Photo"
+msgstr "照片"
+
+msgid "Photo burst mode"
+msgstr "连拍模式"
+
+msgid "Photo height"
+msgstr "照片高度"
+
+msgid "Photo mode"
+msgstr "单拍模式"
+
+msgid "Photo path"
+msgstr "照片路径"
+
+msgid "Photo resolution"
+msgstr "照片分辨率"
+
+msgid "Photo width"
+msgstr "照片宽度"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Record a Video"
+msgstr "录像"
+
+msgid "Record a video"
+msgstr "录像"
+
+msgid "Record a video using a webcam"
+msgstr "使用网络摄像头录制一段视频"
+
+msgid "Saturation"
+msgstr "饱和度"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save File"
+msgstr "保存文件"
+
+msgid "Save _As…"
+msgstr "另存为(_A)..."
+
+msgid "Set to true to fire a flash before taking a photo"
+msgstr "如果想在拍照时闪光，请设为 true"
+
+msgid "Set to true to show a countdown before taking a photo"
+msgstr "如果想在拍照前显示倒计时，请设为 true"
+
+msgid "Shutter"
+msgstr "快门"
+
+msgid "Shutter sound"
+msgstr "快门声"
+
+msgid "Skip"
+msgstr "忽略"
+
+msgid "Skip all"
+msgstr "忽略全部"
+
+msgid "Start in fullscreen mode"
+msgstr "以全屏模式启动"
+
+msgid "Start in wide mode"
+msgstr "以宽屏模式启动"
+
+msgid "Stop recording"
+msgstr "停止录像"
+
+msgid "Stop taking pictures"
+msgstr "停止拍照"
+
+msgid "Take Multiple Photos"
+msgstr "拍摄多张照片"
+
+msgid "Take a Photo"
+msgstr "拍照"
+
+msgid "Take a photo using a webcam"
+msgstr "使用网络摄像头拍照"
+
+msgid "Take multiple photos"
+msgstr "拍摄多张照片"
+
+msgid ""
+"Take multiple photos in quick succession with burst mode. Use the countdown "
+"to give yourself time to strike a pose, and wait for the flash!"
+msgstr "使用连拍模式在快速连续拍摄多张照片。您可以利用倒计时来摆姿势，并等待闪光灯！"
+
+msgid "Take multiple photos using a webcam"
+msgstr "使用网络摄像头拍摄多张照片"
+
+msgid "Take photos and videos with your webcam, with fun graphical effects"
+msgstr "使用摄像头拍照或录像，并加上有趣的图像效果"
+
+msgid "The duration of the countdown before taking a photo, in seconds"
+msgstr "拍照前倒计时的秒数"
+
+msgid "The height of the image captured from the camera, in pixels"
+msgstr "从摄像头截取图像的高度，单位是像素"
+
+msgid "The height of the video captured from the camera, in pixels"
+msgstr "从摄像头截取视频的高度，单位是像素"
+
+msgid ""
+"The length of time, in milliseconds, to delay between taking each photo in a"
+" burst sequence of photos. If the burst delay is less than the countdown "
+"duration, the countdown duration will be used instead."
+msgstr "一组连拍照片中各照片间的延时，单位为毫秒。如果连拍延时比倒计时持续时间短，将转而使用倒计时的时长。"
+
+msgid "The number of photos to take in a single burst."
+msgstr "一次连拍的照片数量。"
+
+msgid ""
+"The path to the device node which points to the camera, for example "
+"/dev/video0"
+msgstr "指向摄像头的设备节点路径，例如 /dev/video0"
+
+msgid "The width of the image captured from the camera, in pixels"
+msgstr "从摄像头截取图像的宽度，单位是像素"
+
+msgid "The width of the video captured from the camera, in pixels"
+msgstr "从摄像头截取视频的宽度，单位是像素"
+
+msgid "There was an error playing video from the webcam"
+msgstr "播放网络摄像头录制的视频时出错"
+
+msgid "Time between photos in burst mode"
+msgstr "照片连拍间隔时间"
+
+msgid ""
+"Under the hood, Cheese uses GStreamer to apply fancy effects to photos and "
+"videos. With Cheese it is easy to take photos of you, your friends, pets or "
+"whatever you want and share them with others."
+msgstr ""
+"从原理上讲，Cheese 使用 GStreamer 给照片和视频加上特效。使用 Chesse "
+"可以轻松的为您、朋友、宠物以及任何你想拍照的对象拍摄照片，以及将这些照片与他人分享。"
+
+msgid "Unknown device"
+msgstr "未知设备"
+
+msgid "Use a countdown"
+msgstr "使用倒计时"
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Video height"
+msgstr "视频高度"
+
+msgid "Video mode"
+msgstr "视频模式"
+
+msgid "Video path"
+msgstr "视频路径"
+
+msgid "Video resolution"
+msgstr "视频分辨率"
+
+msgid "Video width"
+msgstr "视频宽度"
+
+msgid "Webcam"
+msgstr "摄像头"
+
+msgid "Webcam Booth"
+msgstr "大头贴"
+
+msgid "Webcam in use"
+msgstr "摄像头正在使用"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Countdown"
+msgstr "倒计时(_C)"
+
+msgid "_Delete"
+msgstr "删除(_D)"
+
+msgid "_Effects"
+msgstr "效果(_E)"
+
+msgid "_Fullscreen"
+msgstr "全屏(_F)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Select"
+msgstr "选择(_S)"
+
+msgid "_Take Another Picture"
+msgstr "再拍一张照片(_T)"
+
+msgid "photo;video;webcam;"
+msgstr "photo;video;webcam;视频;摄像头;拍照;"
+
+msgctxt "time format"
+msgid "%02i:%02i:%02i"
+msgstr "%02i:%02i:%02i"
+
+msgid "translator-credits"
+msgstr ""
+"YangZhang <zyangmath@gmail.com>, 2008\n"
+"甘露 (Gan Lu) <rhythm.gan@gmail.com>, 2009\n"
+"arccos (L.Q) <boyermoore@gmail.com>, 2009\n"
+"Tao Wei <weitao1979@gmail.com>, 2009\n"
+"Aron Xu <aronxu@gnome.org>, 2010\n"
+"lainme <lainme993@gmail.com>, 2010\n"
+"指冷玉笙寒 (dhyang) <dhyang555@gmail.com>, 2010\n"
+"ben <benbenhappy2008@gmail.com>, 2011\n"
+"YunQiang Su <wzssyqa@gmail.com>, 2011.\n"
+"chiachen <luojiazhen@gmail.com>, 2011\n"
+"Wylmer Wang<wantinghard@gmail.com>, 2011\n"
+"tuhaihe <1132321739qq@gmail.com>, 2013\n"
+"Tong Hui <tonghuix@gmail.com>, 2014\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Tao Wei https://launchpad.net/~weitao1979\n"
+"  Tong Hui https://launchpad.net/~tonghuix\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  marsteel https://launchpad.net/~magang\n"
+"  zixue.liu https://launchpad.net/~zixue\n"
+"  甘露 (Lu Gan) https://launchpad.net/~rhythm-gan"

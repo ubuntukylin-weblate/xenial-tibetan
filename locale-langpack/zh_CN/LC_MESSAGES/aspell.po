@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: aspell-0.60.6\n"
+"Report-Msgid-Bugs-To: kevina@gnu.org\n"
+"POT-Creation-Date: 2011-07-07 13:15-0600\n"
+"PO-Revision-Date: 2011-12-05 16:34+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:49+0000\n"
+
+msgid ""
+"\n"
+"#######################################################################\n"
+"#\n"
+"# Filter: %s\n"
+"#   %s\n"
+"#\n"
+"# configured as follows:\n"
+"\n"
+msgstr ""
+"\n"
+"#######################################################################\n"
+"#\n"
+"# Filter: %s\n"
+"# %s\n"
+"#\n"
+"# 配置如下：\n"
+"\n"
+
+msgid "  -?|usage         display a brief usage message"
+msgstr "  -?|usage         显示简明用法消息"
+
+msgid "  -a|pipe          \"ispell -a\" compatibility mode"
+msgstr "  -a|pipe          “ispell -a”兼容模式"
+
+msgid "  -c|check <file>  to check a file"
+msgstr "  -c|check <文件>  检查一个文件"
+
+msgid "  -v|version       prints a version line"
+msgstr "  -v|version       打印一行版本信息"
+
+msgid "  [dump] dicts | filters | modes"
+msgstr "  [dump] dicts | filters | modes"
+
+msgid "  config <key>     prints the current value of an option"
+msgstr "  config <key>     打印某个选项的当前值"
+
+msgid "  conv <from> <to> [<norm-form>]"
+msgstr "  conv <from> <to> [<norm-form>]"
+
+msgid "  help             display a detailed help message"
+msgstr "  help             显示详尽帮助消息"
+
+msgid "  norm (<norm-map> | <from> <norm-map> <to>) [<norm-form>]"
+msgstr "  norm (<norm-map> | <from> <norm-map> <to>) [<norm-form>]"
+
+msgid " does not take any parameters."
+msgstr " 不带任何参数。"
+
+msgid "\"%mode:1\" error"
+msgstr "“%mode:1”错误"
+
+msgid "# default: "
+msgstr "# 默认： "
+
+msgid "%file:1:"
+msgstr "%file:1:"
+
+msgid "<command> is one of:"
+msgstr "<命令>是以下之一："
+
+msgid "ASPELL_CONF env var"
+msgstr "ASPELL_CONF 环境变量"
+
+msgid "Abort"
+msgstr "中止"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Are you sure you want to abort (y/n)? "
+msgstr "您确定要中止吗(y/n)？ "
+
+msgid "Aspell version does not match mode's requirement."
+msgstr "Aspell 版本与模式的要求不符。"
+
+msgid "Could not open the file \"%s\" for reading"
+msgstr "无法打开文件“%s”进行读取"
+
+msgid "Could not open the file \"%s\" for writing. File not saved."
+msgstr "无法打开文件“%s”进行写入。文件未保存。"
+
+msgid "Error: "
+msgstr "错误： "
+
+msgid "Error: %s\n"
+msgstr "错误：%s\n"
+
+msgid "Error: You must specify at least %d parameters for \"%s\".\n"
+msgstr "错误：您必须为“%2$s”提供至少“%1$d”个参数。\n"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Ignore"
+msgstr "忽略"
+
+msgid "Ignore all"
+msgstr "全部忽略"
+
+msgid "Invalid Input"
+msgstr "无效输入"
+
+msgid "Invalid Option: %s"
+msgstr "无效选项：%s"
+
+msgid "Invalid UTF-8 sequence at position %ld."
+msgstr "位置 %ld 处的 UTF-8 序列无效。"
+
+msgid "Only one file name may be specified."
+msgstr "只可指定一个文件名。"
+
+msgid "Operation Not Supported: %what:1"
+msgstr "不支持的操作：%what:1"
+
+msgid "Replace"
+msgstr "替换"
+
+msgid "Replace all"
+msgstr "全部替换"
+
+msgid "Sorry that is an invalid choice!"
+msgstr "抱歉，此选择无效！"
+
+msgid "Suggestion Time: %f\n"
+msgstr "建议时间：%f\n"
+
+msgid "The condition \"%cond:1\" is invalid."
+msgstr "条件“%cond:1”无效。"
+
+msgid "The conversion from \"%encod:1\" to \"%encod2:2\" is not supported."
+msgstr "不支持从“%encod:1”转换到“%encod2:2”。"
+
+msgid "The directory \"%dir:1\" can not be opened for reading."
+msgstr "无法打开文件“%dir:1”进行读取。"
+
+msgid "The encoding \"%encod:1\" is not known."
+msgstr "编码“%encod:1”为未知。"
+
+msgid "The encoding \"%encod:1\" is not supported."
+msgstr "不支持编码“%encod:1”。"
+
+msgid "The file \"%file:1\" can not be opened"
+msgstr "打不开文件“%file:1”"
+
+msgid "The file \"%file:1\" can not be opened for reading."
+msgstr "无法打开文件“%file:1”进行读取。"
+
+msgid "The file \"%file:1\" can not be opened for writing."
+msgstr "无法打开文件“%file:1”进行写入。"
+
+msgid "The file \"%file:1\" is not in the proper format."
+msgstr "文件“%file:1”格式不正确。"
+
+msgid "The file name \"%file:1\" is invalid."
+msgstr "文件“%file:1”无效。"
+
+msgid "The language \"%lang:1\" is not known."
+msgstr "语言“%lang:1”为未知。"
+
+msgid "The language \"%lang:1\" is not supported."
+msgstr "不支持语言“%lang:1”。"
+
+msgid "The method \"%what:1\" is unimplemented in \"%where:2\"."
+msgstr "方法“%what:1”在“%where:2”中没有实现。"
+
+msgid "The string \"%str:1\" is invalid."
+msgstr "字符串“%str:1”无效。"
+
+msgid "The word \"%word:1\" is invalid."
+msgstr "单词“%word:1”无效。"
+
+msgid "Unhandled Error: "
+msgstr "无法处理的错误： "
+
+msgid "Unknown Action: %s"
+msgstr "未知操作：%s"
+
+msgid "Unknown mode: \"%mode:1\"."
+msgstr "未知模式：“%mode:1”。"
+
+msgid "Usage: aspell [options] <command>"
+msgstr "用法：aspell [选项] <命令>"
+
+msgid "WARNING: Unable to enter Nroff mode: %s\n"
+msgstr "警告：无法进入 Nroff 模式：%s\n"
+
+msgid "You must specify a file name."
+msgstr "您必须指定一个文件名。"
+
+msgid "You must specify a parameter for \"%s\"."
+msgstr "您必须为“%s”指定一个参数。"
+
+msgid "You must specify an action"
+msgstr "您必须指定一项操作"
+
+msgid "Yy"
+msgstr "Yy"
+
+msgid "[options] is any of the following:"
+msgstr "[选项]是以下之一："
+
+msgid "a number between 0 and 1"
+msgstr "一个 0 到 1 之间的数"
+
+msgid "a positive integer"
+msgstr "一个正整数"
+
+msgid "add or removes a filter"
+msgstr "添加或删除过滤器"
+
+msgid "base name of the main dictionary to use"
+msgstr "要使用的主词典的基名"
+
+msgid "boolean"
+msgstr "布尔型"
+
+msgid "check if words are valid"
+msgstr "检查单词是否有效"
+
+msgid "create a backup file by appending \".bak\""
+msgstr "创建附带“.bak”的备份文件"
+
+msgid "create dictionary aliases"
+msgstr "创建目录别名"
+
+msgid "dlopen returned \"%return:1\"."
+msgstr "dlopen 返回了“%return:1”。"
+
+msgid "either \"true\" or \"false\""
+msgstr "“true”或“false”"
+
+msgid "enable warnings"
+msgstr "允许警告"
+
+msgid "enter Email mode."
+msgstr "进入邮件模式。"
+
+msgid "enter HTML mode."
+msgstr "进入 HTML 模式。"
+
+msgid "enter Nroff mode."
+msgstr "进入 Nroff 模式。"
+
+msgid "enter TeX mode."
+msgstr "进入 TeX 模式。"
+
+msgid "extra dictionaries to use"
+msgstr "要使用的外部词典"
+
+msgid "filter mode"
+msgstr "过滤模式"
+
+msgid "ignore case when checking words"
+msgstr "检查单词时忽略大小写"
+
+msgid "ignore words <= n chars"
+msgstr "忽略 <= n 个字符的词"
+
+msgid "in the form \"<name> <value>\""
+msgstr "以“<名字> <值>”的形式"
+
+msgid "integer"
+msgstr "整型"
+
+msgid "language code"
+msgstr "语言代码"
+
+msgid "list"
+msgstr "列表"
+
+msgid "location for personal files"
+msgstr "个人文件的位置"
+
+msgid "location of language data files"
+msgstr "语言数据文件的位置"
+
+msgid "location of main configuration file"
+msgstr "主配置文件的位置"
+
+msgid "location of the main word list"
+msgstr "主词汇列表所在位置"
+
+msgid "main configuration file"
+msgstr "主配置文件"
+
+msgid "mode for checking C++ comments and string literals"
+msgstr "检查C++注释和字符串模式"
+
+msgid "no longer used"
+msgstr "不再使用"
+
+msgid "not a version number"
+msgstr "不是版本号"
+
+msgid "path(s) aspell looks for filters"
+msgstr "aspell 查找过滤器的路径"
+
+msgid "personal configuration file"
+msgstr "个人配置文件"
+
+msgid "personal dictionary file name"
+msgstr "个人词典文件名"
+
+msgid "prefix directory"
+msgstr "前缀目录"
+
+msgid "search order for modules"
+msgstr "搜索模块的顺序"
+
+msgid "set module name"
+msgstr "设置模块名称"
+
+msgid "set the prefix based on executable location"
+msgstr "根据可执行文件的位置设置前缀"
+
+msgid "skip invalid words"
+msgstr "跳过无效单词"
+
+msgid "string"
+msgstr "字符串"
+
+msgid "suggestion mode"
+msgstr "建议模式"
+
+msgid "use byte offsets instead of character offsets"
+msgstr "使用字节偏移量而非字符偏移量"

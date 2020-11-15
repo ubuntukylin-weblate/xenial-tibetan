@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: p11-kit\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=p11-glue\n"
+"POT-Creation-Date: 2015-12-07 14:53+0100\n"
+"PO-Revision-Date: 2015-12-21 02:16+0000\n"
+"Last-Translator: michaeljayt <Unknown>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/freedesktop/p11-kit/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:57+0000\n"
+
+msgid "A key is needed"
+msgstr "需要密钥"
+
+msgid "A read-only session exists"
+msgstr "存在一个只读的会话"
+
+msgid "An administrator session exists"
+msgstr "存在一个管理员会话"
+
+msgid "An error occurred on the device"
+msgstr "设备上出现了错误"
+
+msgid "An open session exists"
+msgstr "存在一个打开的会话"
+
+msgid "Another operation is already taking place"
+msgstr "另一操作正在进行"
+
+msgid "Another user is already logged in"
+msgstr "另一用户已经登录"
+
+msgid "Cannot export because the key is invalid"
+msgstr "无法导出，因为密钥无效"
+
+msgid "Cannot export because the key is of the wrong size"
+msgstr "无法导出，因为密钥长度不对"
+
+msgid "Cannot export because the key is of the wrong type"
+msgstr "无法导出，因为密钥类型不对"
+
+msgid "Cannot export this key"
+msgstr "无法导出这个密钥"
+
+msgid "Cannot import a key of the wrong size"
+msgstr "无法导入长度不对的密钥"
+
+msgid "Cannot import an invalid key"
+msgstr "无法导入无效的密钥"
+
+msgid "Cannot import because the key is invalid"
+msgstr "无法导入，因为密钥无效"
+
+msgid "Cannot import because the key is of the wrong size"
+msgstr "无法导入，因为密钥长度错误"
+
+msgid "Cannot import because the key is of the wrong type"
+msgstr "无法导入，因为密钥类型错误"
+
+msgid "Cannot include the key in the digest"
+msgstr "摘要中无法包含此密钥"
+
+msgid "Cannot lock data"
+msgstr "无法锁定数据"
+
+msgid "Certain fields have invalid values"
+msgstr "某些字段的值无效"
+
+msgid "Certain required fields are missing"
+msgstr "缺少某些要求的字段"
+
+msgid "Insufficient memory available"
+msgstr "可用内存不足"
+
+msgid "Insufficient memory available on the device"
+msgstr "设备上的可用空间不足"
+
+msgid "Internal error"
+msgstr "内部错误"
+
+msgid "Invalid arguments"
+msgstr "参数无效"
+
+msgid "Invalid value for field"
+msgstr "字段值无效"
+
+msgid "No key is needed"
+msgstr "无需密钥"
+
+msgid "No operation is taking place"
+msgstr "没有正在进行的操作"
+
+msgid "No random number generator available"
+msgstr "没有可用的随机数生成器"
+
+msgid "No user has logged in"
+msgstr "没有登录用户"
+
+msgid "Not enough space to store the result"
+msgstr "没有足够的空间来保存结果"
+
+msgid "The crypto mechanism has an invalid argument"
+msgstr "加密机制中有无效参数"
+
+msgid "The crypto mechanism has an invalid parameter"
+msgstr "加密机制中有无效参数"
+
+msgid "The crypto mechanism is invalid or unrecognized"
+msgstr "加密机制无效或无法识别"
+
+msgid "The data cannot be locked"
+msgstr "数据无法锁定"
+
+msgid "The data is not valid or unrecognized"
+msgstr "数据无效或无法识别"
+
+msgid "The data is too long"
+msgstr "数据过长"
+
+msgid "The device is invalid or unrecognizable"
+msgstr "设备无效或无法识别"
+
+msgid "The device is not present or unplugged"
+msgstr "设备不存在或已拔出"
+
+msgid "The device is write protected"
+msgstr "设备已写保护"
+
+msgid "The device was removed or unplugged"
+msgstr "设备已被移除或拔出"
+
+msgid "The encrypted data is not valid or unrecognized"
+msgstr "加密数据无效或无法识别"
+
+msgid "The encrypted data is too long"
+msgstr "加密数据过长"
+
+msgid "The field is invalid or does not exist"
+msgstr "该字段无效或不存在"
+
+msgid "The field is read-only"
+msgstr "该字段为只读"
+
+msgid "The field is sensitive and cannot be revealed"
+msgstr "该字段为敏感字段，不能显示"
+
+msgid "The information is sensitive and cannot be revealed"
+msgstr "该信息为敏感信息，不能显示"
+
+msgid "The key cannot be wrapped"
+msgstr "该密钥不能折行"
+
+msgid "The key is different than before"
+msgstr "密钥与之前不同"
+
+msgid "The key is missing or invalid"
+msgstr "密钥缺失或无效"
+
+msgid "The key is of the wrong type"
+msgstr "密钥类型不对"
+
+msgid "The key is the wrong size"
+msgstr "密钥长度不对"
+
+msgid "The module cannot create needed threads"
+msgstr "该模块无法创建需要的线程"
+
+msgid "The module cannot lock data properly"
+msgstr "该模块无法正确锁定数据"
+
+msgid "The module has already been initialized"
+msgstr "该模块已经初始化"
+
+msgid "The module has not been initialized"
+msgstr "该模块未被初始化"
+
+msgid "The object is missing or invalid"
+msgstr "对象缺失或无效"
+
+msgid "The operation failed"
+msgstr "操作失败"
+
+msgid "The operation was cancelled"
+msgstr "操作已被取消"
+
+msgid "The password or PIN has expired"
+msgstr "密码或 PIN 已过期"
+
+msgid "The password or PIN is incorrect"
+msgstr "密码或 PIN 不正确"
+
+msgid "The password or PIN is invalid"
+msgstr "密码或 PIN 无效"
+
+msgid "The password or PIN is locked"
+msgstr "密码或 PIN 已锁定"
+
+msgid "The password or PIN is of an invalid length"
+msgstr "密码或 PIN 长度无效"
+
+msgid "The request was rejected by the user"
+msgstr "请求已被用户拒绝"
+
+msgid "The saved state is invalid"
+msgstr "保存的状态无效"
+
+msgid "The session is closed"
+msgstr "会话已关闭"
+
+msgid "The session is invalid"
+msgstr "会话无效"
+
+msgid "The session is read-only"
+msgstr "会话为只读"
+
+msgid "The signature is bad or corrupted"
+msgstr "签名有误或已损坏"
+
+msgid "The signature is unrecognized or corrupted"
+msgstr "签名无法识别或已损坏"
+
+msgid "The specified slot ID is not valid"
+msgstr "指定的槽 ID 无效"
+
+msgid "The state cannot be saved"
+msgstr "无法保存状态"
+
+msgid "The user is of an invalid type"
+msgstr "用户的类型无效"
+
+msgid "The user's password or PIN is not set"
+msgstr "用户的密码或 PIN 未设置"
+
+msgid "This operation cannot be done with this key"
+msgstr "不能对该密钥进行这一操作"
+
+msgid "This operation is not supported"
+msgstr "不支持该操作"
+
+msgid "Too many sessions are active"
+msgstr "活动会话过多"
+
+msgid "Too many users of different types are logged in"
+msgstr "登录了太多不同类型的用户"
+
+msgid "Unable to initialize the random number generator"
+msgstr "无法初始化随机数生成器"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "You are already logged in"
+msgstr "您已经登录"

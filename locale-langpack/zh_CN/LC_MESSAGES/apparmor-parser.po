@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: apparmor\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-13 00:11-0700\n"
+"PO-Revision-Date: 2013-11-14 22:32+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:06+0000\n"
+
+msgid "%s: ASSERT: Invalid option: %d\n"
+msgstr "%s: 声明：无效选项： %d\n"
+
+msgid "%s: Could not allocate memory for subdomainbase mount point\n"
+msgstr "%s: 无法为子域基底装入点分配内存\n"
+
+msgid "%s: Errors found during postprocess.  Aborting.\n"
+msgstr "%s：在后处理中发现错误。正在中止。\n"
+
+msgid "%s: Errors found during postprocessing.  Aborting.\n"
+msgstr "%s：在后处理中发现错误。正在中止。\n"
+
+msgid "%s: Errors found during regex postprocess.  Aborting.\n"
+msgstr "%s：在 Regex 后处理中发现错误。正在中止。\n"
+
+msgid "%s: Errors found in combining rules postprocessing. Aborting.\n"
+msgstr "%s: 在组合规则后处理中发现错误。正在中止。\n"
+
+msgid "%s: Errors found in file. Aborting.\n"
+msgstr "%s: 文件中发现错误。正在中止。\n"
+
+msgid "%s: Illegal open {, nesting groupings not allowed\n"
+msgstr "%s: 不合法的左侧大括号 {，不允许嵌套分组\n"
+
+msgid "%s: Internal buffer overflow detected, %d characters exceeded\n"
+msgstr "%s: 检测到内部缓冲区溢出，超过 %d 个字符\n"
+
+msgid "%s: Regex grouping error: Invalid close }, no matching open { detected\n"
+msgstr "%s: Regex 分组错误：无效的右侧花括号 }，未检测到匹配的左侧花括号 {\n"
+
+msgid "%s: Regex grouping error: Invalid number of items between {}\n"
+msgstr "%s: Regex 分组错误：{} 内的项目数无效\n"
+
+msgid ""
+"%s: Regex grouping error: Unclosed grouping or character class, expecting "
+"close }\n"
+msgstr "%s: Regex 分组错误：组或字符类未关闭，需要右侧花括号 }\n"
+
+msgid ""
+"%s: Sorry. You need root privileges to run this program.\n"
+"\n"
+msgstr ""
+"%s：对不起。您需要 root 特权才能运行此程序。\n"
+"\n"
+
+msgid "%s: Unable to add \"%s\".  "
+msgstr "%s: 无法添加\"%s\"。  "
+
+msgid "%s: Unable to parse input line '%s'\n"
+msgstr "%s: 无法对输入行'%s'进行语法分析\n"
+
+msgid "%s: Unable to remove \"%s\".  "
+msgstr "%s: 无法去除\"%s\"。  "
+
+msgid "%s: Unable to replace \"%s\".  "
+msgstr "%s: 无法替换\"%s\"。  "
+
+msgid "%s: Unable to write entire profile entry\n"
+msgstr "%s: 无法写入整个配置文件项\n"
+
+msgid "%s: Unable to write to stdout\n"
+msgstr "%s: 无法写入 stdout\n"
+
+msgid ""
+"%s: Warning! You've set this program setuid root.\n"
+"Anybody who can run this program can update your AppArmor profiles.\n"
+"\n"
+msgstr ""
+"%s：警告！您已将此程序设置为 setuid root。\n"
+"任何可以运行此程序的人都可以更新 AppArmor 配置文件。\n"
+"\n"
+
+msgid "(network_mode) Found unexpected character: '%s'"
+msgstr "(network_mode) 发现意外字符：“%s”"
+
+msgid "Addition succeeded for \"%s\".\n"
+msgstr "添加\"%s\"成功。\n"
+
+msgid "AppArmor parser error: %s\n"
+msgstr "AppArmor 语法分析器错误：%s\n"
+
+msgid "Assert: 'hat rule' returned NULL."
+msgstr "声明：'hat rule'返回 NULL。"
+
+msgid "Assert: 'local_profile rule' returned NULL."
+msgstr "声明：“local_profile rule”返回 NULL。"
+
+msgid "Assert: `change_profile' returned NULL."
+msgstr "声明：“change_profile”返回 NULL。"
+
+msgid "Assert: `network_rule' return invalid protocol."
+msgstr "声明：“network_rule”返回无效协议。"
+
+msgid "Assert: `rule' returned NULL."
+msgstr "声明：`rule'返回 NULL。"
+
+msgid "Bad write position\n"
+msgstr "写入位置无效\n"
+
+msgid "Conflict 'a' and 'w' perms are mutually exclusive."
+msgstr "冲突的“a”和“w”许可权限互相排斥。"
+
+msgid "Couldn't merge entries. Out of Memory\n"
+msgstr "无法合并项。内存不足\n"
+
+msgid "ERROR adding hat access rule for profile %s\n"
+msgstr "为配置文件 %s 添加 hat 访问规则时出错\n"
+
+msgid "ERROR expanding variables for profile %s, failed to load\n"
+msgstr "扩展配置文件 %s 的变量时出错，无法装载\n"
+
+msgid "ERROR in profile %s, failed to load\n"
+msgstr "配置文件 %s 中存在错误，未能装载\n"
+
+msgid "ERROR merging rules for profile %s, failed to load\n"
+msgstr "合并配置文件 %s 的规则时出错，无法装载\n"
+
+msgid "ERROR processing regexs for profile %s, failed to load\n"
+msgstr "处理配置文件 %s 的 regex 时出错，无法装载\n"
+
+msgid ""
+"ERROR profile %s contains policy elements not usable with this kernel:\n"
+"\t'*', '?', character ranges, and alternations are not allowed.\n"
+"\t'**' may only be used at the end of a rule.\n"
+msgstr ""
+"错误 配置文件 %s 包含不能与此内核一起使用的策略元素：\n"
+"\t不允许“*”、“?”、字符范围，也不允许“或”操作。\n"
+"\t“**”只能在规则结尾处使用。\n"
+
+msgid "Error: Could not add directory %s to search path.\n"
+msgstr "错误：无法将目录 %s 添加到搜索路径。\n"
+
+msgid "Error: Could not allocate memory.\n"
+msgstr "错误：无法分配内存。\n"
+
+msgid "Error: Could not read profile %s: %s.\n"
+msgstr "错误：无法读取配置文件 %s: %s。\n"
+
+msgid "Error: Out of memory.\n"
+msgstr "错误：内存不足。\n"
+
+msgid "Error: basedir %s is not a directory, skipping.\n"
+msgstr "错误：basedir %s 不是目录，正在跳过。\n"
+
+msgid "Exec qualifier '%c%c' invalid, conflicting qualifier already specified"
+msgstr "执行限定符“%c%c”无效，与已经指定的限定符冲突"
+
+msgid "Exec qualifier '%c' invalid, conflicting qualifier already specified"
+msgstr "Exec 限定符“%c”无效，已指定了与其冲突的限定符"
+
+msgid "Exec qualifier 'i' invalid, conflicting qualifier already specified"
+msgstr "Exec 限定符'i'无效，已指定了和其冲突的限定符"
+
+msgid "Failed to create alias %s -> %s\n"
+msgstr "无法创建别名 %s -> %s\n"
+
+msgid "Found unexpected character: '%s'"
+msgstr "发现意外字符： '%s'"
+
+msgid "Internal error generated invalid perm 0x%llx\n"
+msgstr "内部错误产生无效的权限 0x%llx\n"
+
+msgid "Internal: unexpected mode character '%c' in input"
+msgstr "内部：输入中有意外方式字符“%c”"
+
+msgid "Invalid capability %s."
+msgstr "功能 %s 无效。"
+
+msgid ""
+"Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', 'c', or 'u'"
+msgstr "模式无效，“x”必须在执行限定符“i”、“p”、“c”或“u”之后"
+
+msgid "Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', or 'u'"
+msgstr "方式无效，“x”前面必须带有 exec 限定符“i”、“p”或“u”"
+
+msgid ""
+"Invalid mode, in deny rules 'x' must not be preceded by exec qualifier 'i', "
+"'p', or 'u'"
+msgstr "模式无效，在拒绝规则中，“x”不能在执行限定符“i”、“p”或“u”之后"
+
+msgid "Invalid network entry."
+msgstr "无效网络项。"
+
+msgid "Invalid profile flag: %s."
+msgstr "无效的配置文件标志：%s。"
+
+msgid "Memory Allocation Error: Unable to remove %s:%s."
+msgstr "内存分配错误：无法去除 %s:%s。"
+
+msgid "Memory Allocation Error: Unable to remove ^%s\n"
+msgstr "内存分配错误：无法去除 ^%s\n"
+
+msgid "Memory allocation error."
+msgstr "内存分配错误。"
+
+msgid "Out of memory\n"
+msgstr "内存不足\n"
+
+msgid "PANIC bad increment buffer %p pos %p ext %p size %d res %p\n"
+msgstr "PANIC 无效的递增缓冲区：%p pos %p ext %p size %d res %p\n"
+
+msgid "Permission denied\n"
+msgstr "拒绝许可权限\n"
+
+msgid "Profile already exists\n"
+msgstr "配置文件已存在\n"
+
+msgid "Profile does not match signature\n"
+msgstr "配置文件和签名不匹配\n"
+
+msgid "Profile doesn't conform to protocol\n"
+msgstr "配置文件未遵守协议\n"
+
+msgid "Profile doesn't exist\n"
+msgstr "配置文件不存在\n"
+
+msgid "Profile flag 'debug' is no longer valid."
+msgstr "配置文件标志“debug”不再有效。"
+
+msgid "Profile version not supported by Apparmor module\n"
+msgstr "配置文件版本不受 Apparmor 模块支持\n"
+
+msgid "Removal succeeded for \"%s\".\n"
+msgstr "去除\"%s\"成功。\n"
+
+msgid "Replacement succeeded for \"%s\".\n"
+msgstr "替换\"%s\"成功。\n"
+
+msgid "Unable to open %s - %s\n"
+msgstr "无法打开 %s － %s\n"
+
+msgid ""
+"Unconfined exec qualifier (%c%c) allows some dangerous environment variables"
+" to be passed to the unconfined process; 'man 5 apparmor.d' for details.\n"
+msgstr "无限制 exec 限定符 (%c%c) 允许将一些危险的环境变量传递到无限制的进程；有关细节，请参见“man 5 apparmor.d”。\n"
+
+msgid "Unset boolean variable %s used in if-expression"
+msgstr "取消设置 if 表达式中使用的布尔变量 %s"
+
+msgid ""
+"Uppercase qualifiers \"RWLIMX\" are deprecated, please convert to lowercase\n"
+"See the apparmor.d(5) manpage for details.\n"
+msgstr ""
+"不允许使用大写限定符 “RWLIMX”，请转换为小写\n"
+"有关细节，请参见 apparmor.d(5) 手册页。\n"
+
+msgid ""
+"Warning: unable to find a suitable fs in %s, is it mounted?\n"
+"Use --subdomainfs to override.\n"
+msgstr ""
+"警告：无法在 %s 中找到合适的 fs，是否已装入？\n"
+"使用 --subdomainfs 覆盖。\n"
+
+msgid "link and exec perms conflict on a file rule using ->"
+msgstr "链接和执行权限冲突，由于一个文件规则使用 ->"
+
+msgid "link perms are not allowed on a named profile transition.\n"
+msgstr "在命名的配置文件转换中，链接权限不受允许。\n"
+
+msgid "missing an end of line character? (entry: %s)"
+msgstr "是否缺少行结束字符？（项：%s）"
+
+msgid "subset can only be used with link rules."
+msgstr "子集只能使用链接规则。"
+
+msgid "unable to create work area\n"
+msgstr "无法创建工作区域\n"
+
+msgid "unable to serialize profile %s\n"
+msgstr "无法序列化配置文件 %s\n"
+
+msgid "unsafe rule missing exec permissions"
+msgstr "不安全规则缺少 exec 许可权限"

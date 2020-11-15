@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sessioninstaller\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-03-16 15:40+0000\n"
+"PO-Revision-Date: 2016-03-25 04:51+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:44+0000\n"
+
+msgid "%s is not supported."
+msgid_plural "Unsupported file types: %s"
+msgstr[0] "不支持 %s。"
+
+msgid "%s requests to install the following package file."
+msgid_plural "%s requests to install the following package files."
+msgstr[0] "%s 要求安装下列包文件。"
+
+msgid ""
+"%s requests to install the following software package to provide additional "
+"features."
+msgid_plural ""
+"%s requests to install the following software packages to provide additional"
+" features."
+msgstr[0] "%s 请求安装下列提供附加功能的软件包。"
+
+msgid ""
+"%s requests to install the following software package to provide additional "
+"features:"
+msgid_plural ""
+"%s requests to install the following software packages to provide additional"
+" features:"
+msgstr[0] "%s 需要安装如下软件包以提供额外的功能："
+
+msgid "%s requires the installation of an additional software package."
+msgid_plural "%s requires the installation of additional software packages."
+msgstr[0] "%s 要求安装附加的软件包。"
+
+msgid ""
+"%s requires to install plugins to create and play media files of the "
+"following type:"
+msgid_plural ""
+"%s requires to install plugins to create and play media files of the "
+"following types:"
+msgstr[0] "%s 需要安装插件来创建和播放下列类型的媒体文件："
+
+msgid ""
+"%s requires to install plugins to create media files of the following type:"
+msgid_plural ""
+"%s requires to install plugins to create files of the following types:"
+msgstr[0] "%s 需要安装插件来创建下列类型的媒体文件："
+
+msgid ""
+"%s requires to install plugins to play media files of the following type:"
+msgid_plural ""
+"%s requires to install plugins to play files of the following types:"
+msgstr[0] "%s 需要安装插件来播放下列类型的媒体文件："
+
+msgid ""
+"%s requires to install plugins to support the following multimedia feature:"
+msgid_plural ""
+"%s requires to install plugins to support the following multimedia features:"
+msgstr[0] "%s 需要安装插件来支持下列多媒体功能："
+
+msgid ""
+"%s requires to install software to open files of the following file type:"
+msgid_plural ""
+"%s requires to install software to open files of the following file types:"
+msgstr[0] "要打开下列类型文件，需要安装 %s："
+
+msgid "%s wants to remove the following software package from your computer."
+msgid_plural ""
+"%s wants to remove the following software packages from your computer."
+msgstr[0] "%s 想从您电脑中移除下列软件包。"
+
+msgid "%s wants to remove the software which provides the following file:"
+msgid_plural ""
+"%s wants to remove the software which provides the following files:"
+msgstr[0] "%s 想移除提供下列文件的软件："
+
+msgid ",\n"
+msgstr "，\n"
+
+msgid "A required package is not installable"
+msgid_plural "Required packages are not installable"
+msgstr[0] "要求的包不可安装"
+
+msgid "All"
+msgstr "全部"
+
+msgid "An X11-style startup notification ID"
+msgstr "X11 样式的启动通知 ID"
+
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Catalog could not be read"
+msgstr "无法读取目录"
+
+msgid "Catalog is not supported"
+msgstr "目录不支持"
+
+msgid "Check if a package is installed"
+msgstr "检查软件包是否已安装"
+
+msgid "Checking if %s is installed"
+msgstr "正在检查是否已安装 %s"
+
+msgid "Could not find requested package"
+msgid_plural "Could not find requested packages"
+msgstr[0] "无法找到请求的软件包"
+
+msgid ""
+"Currently autodetection and installation of missing fonts is not supported."
+msgstr "尚不支持自动检测并安装丢失的字体。"
+
+msgid ""
+"Currently autodetection and installation of missing printer drivers is not "
+"supported."
+msgstr "尚不支持自动检测并安装丢失的打印机驱动程序。"
+
+msgid ""
+"Extra plugins to provide the following multimedia feature are not installed:"
+msgid_plural ""
+"Extra plugins to provide the following multimedia features are not "
+"installed:"
+msgstr[0] "提供下列多媒体特征的的附加插件尚未安装："
+
+msgid "Failed to install multiple package files"
+msgstr "安装多包文件失败"
+
+msgid "Files are not installed"
+msgstr "文件尚未安装"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Install additional software package?"
+msgid_plural "Install additional software packages?"
+msgstr[0] "安装附加软件包吗？"
+
+msgid "Install extra multimedia plugin?"
+msgid_plural "Install extra multimedia plugins?"
+msgstr[0] "安装附加多媒体插件吗？"
+
+msgid "Install mime type handlers"
+msgstr "安装 MIME 类型处理器"
+
+msgid "Install package file?"
+msgid_plural "Install package files?"
+msgstr[0] "是否安装包文件？"
+
+msgid "Install package files"
+msgstr "安装软件包文件"
+
+msgid "Install packages which provide the given files"
+msgstr "安装提供指定文件的软件包"
+
+msgid "Install software to open files?"
+msgstr "是否要安装打开文件的软件？"
+
+msgid "Install the following software package?"
+msgid_plural "Install the following software packages?"
+msgstr[0] "安装下列软件包吗？"
+
+msgid ""
+"Install the given GStreamer resource. The value 'single' can be used as an "
+"alias for WMV9 and the value 'multi' as an alias for a group of codecs."
+msgstr "安装给定的 GStreamer 资源。其中值\"single\"可被作为 WMV9 的别名，而值\"multi\"将作为一组解码器的别名。"
+
+msgid "Install the given packages"
+msgstr "安装指定的软件包"
+
+msgid "Install the packages specfied in the given PackageKit catalog"
+msgstr "安装给定 PackageKit 目录中指定的包"
+
+msgid "Installing GStreamer-Resource: %s"
+msgstr "正在安装 GStreamer 资源：%s"
+
+msgid "Installing files: %s"
+msgstr "正在安装文件：%s"
+
+msgid "Installing fonts on request isn't supported"
+msgstr "不支持安装要求的字体。"
+
+msgid "Installing from catalog: %s"
+msgstr "正从目录安装：%s"
+
+msgid "Installing mime type handlers isn't supported"
+msgstr "不支持 MIME 类型处理器的安装"
+
+msgid "Installing mimetype handlers: %s"
+msgstr "正在安装 MIME 类型处理器：%s"
+
+msgid ""
+"Installing more than one package file at the same time isn't supported. "
+"Please install one after the other."
+msgstr "不支持同时安装多个软件包文件。请逐个安装。"
+
+msgid "Installing package files"
+msgstr "正在安装软件包文件"
+
+msgid "Installing packages"
+msgstr "正在安装软件包"
+
+msgid "Installing packages by files isn't supported"
+msgstr "不支持文件安装包"
+
+msgid "Installing packages: %s"
+msgstr "正在安装软件包：%s"
+
+msgid "Installing printer drivers on request isn't supported"
+msgstr "不支持安装要求的打印机驱动程序"
+
+msgid "Installing providers: %s"
+msgstr "正在安装提供者：%s"
+
+msgid "Invalid search term"
+msgstr "无效的搜索项"
+
+msgid "Only Debian packages are supported (*.deb)"
+msgstr "只支持 Debian 包(*.deb)"
+
+msgid "Package"
+msgstr "软件包"
+
+msgid "Plugin Package"
+msgstr "插件包"
+
+msgid "Provides"
+msgstr "提供"
+
+msgid "Relative path to package file"
+msgstr "软件包文件的相对路径"
+
+msgid "Remove software package?"
+msgid_plural "Remove software packages?"
+msgstr[0] "移除软件包吗？"
+
+msgid "Remove the packages which provide the given files"
+msgstr "删除提供指定文件的软件包"
+
+msgid "Removing files: %s"
+msgstr "正在移除文件：%s"
+
+msgid "Removing packages"
+msgstr "正在删除软件包"
+
+msgid "Required plugin could not be found"
+msgstr "找不到依赖的插件"
+
+msgid "Search for the package providing the given file"
+msgstr "搜索提供指定文件的软件包"
+
+msgid "Searching for %s"
+msgstr "正在搜索 %s"
+
+msgid "Searching for multimedia plugins"
+msgstr "查找多媒体资源"
+
+msgid "Searching for suitable software to open files"
+msgstr "查找能打开文件的合适软件。"
+
+msgid "Searching software to be removed"
+msgstr "查找要移除的软件"
+
+msgid ""
+"Software from foreign sources could be malicious, could contain security "
+"risks and or even break your system.Install packages from your "
+"distribution's repositories as far as possible."
+msgstr "来自外界的软件有安全风险，甚至有可能损坏您的系统，请三思。应尽量安装来自您发行版软件源的包。"
+
+msgid ""
+"Software to open files of the following file type is required but is not "
+"installed:"
+msgid_plural ""
+"Software to open files of the following file types is required but is not "
+"installed:"
+msgstr[0] "打开下列类型文件的软件尚未安装："
+
+msgid ""
+"Specify the interaction mode by providing a comma spearated list of the "
+"following values: %s. This is currently not supported."
+msgstr "通过提供一个含下列值的以逗号分割的列表来指定交互模式：%s。该功能目前尚不支持。"
+
+msgid "Supported file types"
+msgstr "支持的文件类型"
+
+msgid "The .desktop file of the calling application (currently ignored)"
+msgstr "调用者的 .desktop 文件(当前忽略)"
+
+msgid "The X Window ID of the calling application"
+msgstr "被调用程序的 X 窗口 ID"
+
+msgid "The catalog file '%s' could not be opened  and read."
+msgstr "目录文件 '%s' 无法打开并读取"
+
+msgid "The catalog file '%s' doesn't exist."
+msgstr "目录文件 '%s' 不存在。"
+
+msgid ""
+"The catalog requires the installation of the package %s which is not "
+"available."
+msgid_plural ""
+"The catalog requires the installation of the following packages which are "
+"not available: %s"
+msgstr[0] "目录要求安装的下列包 %s 不可用。"
+
+msgid "The codec to install (currently ignored)"
+msgstr "要安装的编解码器(当前忽略)"
+
+msgid ""
+"The file '%s' isn't a valid software catalog. Please redownload or contact "
+"the provider."
+msgstr "该文件 ‘%s’ 不是有效的软件目录。请重新下载或联系供应商。"
+
+msgid ""
+"The files which should be removed are not part of any installed software."
+msgstr "应移除的文件不是任何已安装软件的部分。"
+
+msgid ""
+"The following package files will be installed with interaction mode %s: %s"
+msgstr "下列软件包文件将会以交互模式 %s 安装：%s"
+
+msgid "The following packages will be installed with interaction mode %s: %s"
+msgstr "下列软件包将会以交互模式 %s 安装：%s"
+
+msgid "The following packages will be removed with interaction mode %s: %s"
+msgstr "下列软件包将会以交互模式 %s 移除：%s"
+
+msgid "The following plugin is not available:"
+msgid_plural "The following plugins are not available:"
+msgstr[0] "下列插件不可用："
+
+msgid ""
+"The following software package is required to provide additional features "
+"but cannot be installed:"
+msgid_plural ""
+"The following software packages are required to provide additional features "
+"but cannot be installed:"
+msgstr[0] "下面的软件包需要提供额外的功能，但无法安装："
+
+msgid ""
+"The following software package is required to provide additional features."
+msgid_plural ""
+"The following software packages are required to provide additional features."
+msgstr[0] "要提供附加功能需要安装下列软件包。"
+
+msgid "The following software package will be removed from your computer."
+msgid_plural ""
+"The following software packages will be removed from your computer."
+msgstr[0] "下列软件包将会从您的电脑中移除。"
+
+msgid "The following term doesn't describe a GStreamer resource: %s"
+msgstr "下列项并不表示 GStreamer 资源：%s"
+
+msgid ""
+"The method '%s' which is used to specify packages isn't supported.\n"
+"Please contact the provider of the catalog about this issue."
+msgstr ""
+"不支持用于指定包的方法 '%s' 。\n"
+"请联系目录提供者。"
+
+msgid "The package catalog %s requests to install the following software."
+msgid_plural "The following catalogs request to install software: %s"
+msgstr[0] "包目录 %s 要求安装下列软件。"
+
+msgid ""
+"The plugin to create media files of the following type is not installed:"
+msgid_plural ""
+"The plugin to create media files of the following types is not installed:"
+msgstr[0] "创建下列类型媒体文件的插件尚未安装："
+
+msgid "The plugin to play media files of the following type is not installed:"
+msgid_plural ""
+"The plugin to play media files of the following types is not installed:"
+msgstr[0] "播放下列类型媒体文件的插件尚未安装："
+
+msgid ""
+"The plugins to create and play media files of the following type are not "
+"installed:"
+msgid_plural ""
+"The plugins to create and play media files of the following types are not "
+"installed:"
+msgstr[0] "创建和播放下列类型媒体文件的插件尚未安装："
+
+msgid ""
+"The use of %s may be restricted in some countries. You must verify that one of the following is true:\n"
+"- These restrictions do not apply in your country of legal residence\n"
+"- You have permission to use this software (for example, a patent license)\n"
+"- You are using this software for research purposes only"
+msgstr ""
+"在某些国家 %s 的使用可能受到限制。您必须确认以下的某一项属实:\n"
+"- 在您国家的合法居民身份下，这些限制不会生效\n"
+"- 您有权限使用此软件（例如，一项专利授权）\n"
+"- 您使用此软件仅用于研究目的"
+
+msgid "This method hasn't yet been implemented."
+msgstr "该方法尚未实现。"
+
+msgid ""
+"To search and install software which can open certain file types you have to"
+" install app-install-data."
+msgstr "要查找可打开特定文件类型的软件，请安装 app-install-data。"
+
+msgid "Unsupported package format"
+msgstr "软件包格式不支持"
+
+msgid ""
+"Wait for the given seconds until the action is done. Defaults to 5 Minutes."
+msgstr "在动作完成前等待指定秒数。默认为5分钟。"
+
+msgid ""
+"Whether to ask the user to confirm installation or not (currently ignored)"
+msgstr "是否询问用户确认安装(当前忽略)"
+
+msgid "You have to specify the absolute path to the package file."
+msgstr "您必须指定软件包文件的绝对路径。"
+
+msgid "_Install"
+msgstr "安装(_I)"
+
+msgid "_Remove"
+msgstr "删除(_R)"

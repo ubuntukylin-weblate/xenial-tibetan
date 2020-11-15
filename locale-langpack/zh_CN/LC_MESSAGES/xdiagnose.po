@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xdiagnose\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-04-07 16:55+0000\n"
+"PO-Revision-Date: 2014-04-02 02:37+0000\n"
+"Last-Translator: shijing <jingshi@ubuntukylin.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:50+0000\n"
+
+msgid "Authentication is needed to diagnose graphics issues"
+msgstr "诊断图形问题需要认证"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Diagnose Graphics Issues"
+msgstr "诊断图形问题"
+
+msgid "Disable _PAT memory"
+msgstr "禁用 _PAT 内存"
+
+msgid "Disable _VESA framebuffer driver"
+msgstr "禁用 _VESA 帧缓冲驱动"
+
+msgid "Disable bootloader _graphics"
+msgstr "禁用图形化启动引导程序(_G)"
+
+msgid "Display boot messages"
+msgstr "显示启动信息"
+
+msgid "Enable automatic crash bug reporting"
+msgstr "崩溃时自动上报错误信息"
+
+msgid "Error Message"
+msgstr "错误消息"
+
+msgid "Extra graphics _debug messages"
+msgstr "更多图像调试信息"
+
+msgid "List dates on which updates were performed"
+msgstr "显示执行更新的时间"
+
+msgid ""
+"Makes dmesg logs more verbose with details about 3d, plymouth, and monitor "
+"detection"
+msgstr "使 dmesg 详细记录 3D、plymouth 以及显示器检测相关的信息"
+
+msgid "Only include entries from this date and earlier (YYYY/MM/DD)"
+msgstr "只包含此日期及之前的记录"
+
+msgid "Only include entries from this date forward (YYYY/MM/DD)"
+msgstr "只包含此日期之后的记录"
+
+msgid ""
+"Removes splash and quiet from kernel options so you can see kernel details "
+"during boot"
+msgstr "在内核启动参数中删除“splash”和\"quite“选项，以在屏幕上显示启动过程的详细信息"
+
+msgid "Report an Xorg Bug"
+msgstr "报告 Xorg 错误"
+
+msgid ""
+"The grub bootloader has a graphics mode using the VESA framebuffer driver "
+"which can sometimes interfere with later loading of the proper video driver."
+"  Checking this forces grub to use text mode only."
+msgstr "grub 引导程序的图形模式使用了 VESA 帧缓冲驱动，有时可能会影响后续加载显卡驱动程序。勾选此项，以强制 grub 使用文本模式。"
+
+msgid ""
+"This pagetable extension can interfere with the memory management of "
+"proprietary drivers under certain situations and cause lagging or failures "
+"to allocate video memory, so turning it off can prevent those problems."
+msgstr "页表扩展用在某些情况下影响专有驱动程序的内存管理，并导致分配显卡内存延迟或失败，将此项关闭可以避免这些问题。"
+
+msgid "Troubleshoot failure to start a graphical X11 session"
+msgstr "调试启动 X11 会话时发生的故障"
+
+msgid "Turns on the Apport crash detection and bug reporting tool"
+msgstr "启动 Apport 崩溃检测和错误报告工具"
+
+msgid "View Errors"
+msgstr "查看错误"
+
+msgid "Workarounds"
+msgstr "迂回修正"
+
+msgid "X Diagnostics Settings"
+msgstr "X 诊断工具设置"
+
+msgid "X.org Diagnostic and Repair Utility"
+msgstr "X.org 诊断和修复工具"
+
+msgid "Xorg Error Messages"
+msgstr "Xorg 错误信息"
+
+msgid ""
+"vesafb is loaded early during boot so the boot logo can display, but can "
+"cause issues when switching to a real graphics driver.  Checking this "
+"prevents vesafb from loading so these issues do not occur."
+msgstr ""
+"在系统启动初期加载 vesafb 以显示启动徽标，这可能导致切换到真正的显卡驱动程序时出现问题。勾选此项，禁止加载 vesafb 可以避免这些问题。"
+
+msgid "xdiagnose"
+msgstr "X 诊断工具"

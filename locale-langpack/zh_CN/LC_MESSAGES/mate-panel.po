@@ -1,0 +1,2194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-03 17:10+0300\n"
+"PO-Revision-Date: 2015-11-03 14:12+0000\n"
+"Last-Translator: Vlad Orlov <monsta@inbox.ru>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/mate/MATE/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "    "
+msgstr "    "
+
+msgid "\"%s\" has quit unexpectedly"
+msgstr "“%s”异常退出"
+
+msgid "%1$s\t%2$s"
+msgstr "%1$s\t%2$s"
+
+msgid ""
+"%1$s\n"
+"%2$s"
+msgstr ""
+"%1$s\n"
+"%2$s"
+
+msgid "%1$s   %2$s   %3$s"
+msgstr "%1$s   %2$s   %3$s"
+
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$s"
+
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+msgid "%A %B %d (%%s)"
+msgstr "%m月%d日 星期%a (%%s)"
+
+msgid "%A, %B %d %Y"
+msgstr "%Y年%-m月%-d日%A"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%H:%M <small>(%A)</small>"
+msgstr "%H:%M <small>(%A)</small>"
+
+msgid "%H:%M:%S"
+msgstr "%H:%M:%S"
+
+msgid "%I:%M %p"
+msgstr "%H:%M"
+
+msgid "%I:%M:%S %p"
+msgstr "%H:%M:%S"
+
+msgid "%a %b %e"
+msgstr "%-m月%-d日%A"
+
+msgid "%l:%M %p"
+msgstr "%p %l:%M"
+
+msgid "%l:%M <small>%p (%A)</small>"
+msgstr "%l:%M <small>%p (%A)</small>"
+
+msgid "%l:%M <small>%p</small>"
+msgstr "%l:%M <small>%p</small>"
+
+msgid "%l:%M:%S %p"
+msgstr "%p %l:%M:%S"
+
+msgid ""
+"%s has no use what-so-ever. It only takes up disk space and compilation "
+"time, and if loaded it also takes up precious panel space and memory. "
+"Anybody found using it should be promptly sent for a psychiatric evaluation."
+msgstr ""
+"%s "
+"其实什么用处都没有。它只会占硬盘空间、编译时间，运行时还得占去您宝贵的面板和内存空间。如果发现任何人在使用这个小程序，他可能应该马上送去检查一下精神状况喔。"
+
+msgid "%s the Fish"
+msgstr "小鱼 %s"
+
+msgid "%s the Fish Says:"
+msgstr "小鱼 %s 说："
+
+msgid "%s the Fish, a contemporary oracle"
+msgstr "小鱼 %s，当代祭司"
+
+msgid "%s the Fish, the fortune teller"
+msgstr "小鱼 %s，能够预知幸福"
+
+msgid "%s, %s"
+msgstr "%s %s"
+
+msgid "%s, feels like %s"
+msgstr "气温 %s / 体感 %s"
+
+msgid "(empty)"
+msgstr "(空)"
+
+msgid "(with minor help from George)"
+msgstr "(还有 George 的小帮助)"
+
+msgid "- Edit .desktop files"
+msgstr "- 编辑 .desktop 文件"
+
+msgid "<a href=''>Customize icons appear on the taskbar</a>"
+msgstr "<a href=''>自定义哪些图标显示在任务栏上</a>"
+
+msgid "<b>GAME OVER</b> at level %d!"
+msgstr "游戏在第 %d 级<b>结束</b>了！"
+
+msgid "<i>(optional)</i>"
+msgstr "<i>(可选)</i>"
+
+msgid ""
+"<small><i>Type a city, region, or country name and then select a match from "
+"the pop-up.</i></small>"
+msgstr "<small><i>输入某个城市，省或国家名，然后从弹出菜单中选择符合的项目</i></small>"
+
+msgid "<small>Opaque</small>"
+msgstr "<small>不透明</small>"
+
+msgid "<small>Set...</small>"
+msgstr "<small>设置...</small>"
+
+msgid "<small>Set</small>"
+msgstr "<small>设置</small>"
+
+msgid "<small>Transparent</small>"
+msgstr "<small>透明</small>"
+
+msgid "???"
+msgstr "???"
+
+msgid "A custom menu bar"
+msgstr "自定义菜单栏"
+
+msgid ""
+"A fish without a name is a pretty dull fish. Bring your fish to life by "
+"naming him."
+msgstr "没有名字的鱼是缺少生气的。为赋予它生命，请给它起个名字。"
+
+msgid ""
+"A list of applet IIDs that the panel will ignore. This way you can disable "
+"certain applets from loading or showing up in the menu. For example to "
+"disable the mini-commander applet add 'OAFIID:MATE_MiniCommanderApplet' to "
+"this list. The panel must be restarted for this to take effect."
+msgstr ""
+"列出了面板将忽略的小程序 IID。这样，您就可以禁止载入特定的小程序，或者不将这些小程序显示在菜单中。例如，要禁用 mini-commander "
+"小程序，只需在此列表中添加“OAFIID:MATE_MiniCommanderApplet”。要让此设置生效，必须重新启动面板。"
+
+msgid "A list of locations to display in the calendar window."
+msgstr "在日历窗口中显示的位置列表。"
+
+msgid ""
+"A list of panel IDs. Each ID identifies an individual toplevel panel. The "
+"settings for each of these panels are stored in /apps/panel/toplevels/$(id)."
+msgstr ""
+"面板 ID 的列表。每个 ID 都标明了一个独立的顶层面板。关于这些面板的设置保存在 /apps/panel/toplevels/$(id) 之中。"
+
+msgid ""
+"A list of panel object IDs. Each ID identifies an individual panel object "
+"(e.g. a launcher, action button or menu button/bar). The settings for each "
+"of these objects are stored in /apps/panel/objects/$(id)."
+msgstr ""
+"面板对象 ID 列表。每个 ID 都标明了一个独立的面板对象(例如启动器、动作按钮或菜单按钮/菜单栏)。关于这些小程序的设置保存在 "
+"/apps/panel/objects/$(id) 之中。"
+
+msgid "A pop out drawer to store other items in"
+msgstr "用于存储其它项目的弹出式抽屉"
+
+msgid "A separator to organize the panel items"
+msgstr "组织面板项的分隔符"
+
+msgid "A_bout Panels"
+msgstr "关于面板(_B)"
+
+msgid "About the MATE Panel"
+msgstr "关于 MATE 面板"
+
+msgid "Access documents, folders and network places"
+msgstr "访问文档、文件夹和网络位置"
+
+msgid "Action button type"
+msgstr "动作按钮类型"
+
+msgid "Ad_just Date & Time"
+msgstr "调整日期和时间(_J)"
+
+msgid "Add this as _drawer to panel"
+msgstr "将它作为抽屉添加到面板(_D)"
+
+msgid "Add this as _menu to panel"
+msgstr "将它作为菜单添加到面板(_M)"
+
+msgid "Add this launcher to _desktop"
+msgstr "将此启动器添加到桌面(_D)"
+
+msgid "Add this launcher to _panel"
+msgstr "将此启动器添加到面板(_P)"
+
+msgid "Add to Drawer"
+msgstr "添加到抽屉"
+
+msgid "Add to Panel"
+msgstr "添加到面板"
+
+msgid "Allow workspace _wrap around in switcher"
+msgstr "在切换器中允许工作区折回;(_W)"
+
+msgid "An unknown error occurred while trying to open \"%s\"."
+msgstr "尝试打开“%s”时发生了未知错误。"
+
+msgid "And many, many others..."
+msgstr "很多其他的..."
+
+msgid "Animation"
+msgstr "动画"
+
+msgid "Animation speed"
+msgstr "动画速度"
+
+msgid "Applet IID"
+msgstr "小程序 IID"
+
+msgid "Applet IIDs to disable from loading"
+msgstr "禁止载入的小程序的 IID"
+
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Application Launcher..."
+msgstr "应用程序启动器..."
+
+msgid "Application does not accept documents on command line"
+msgstr "在命令行模式下，应用程序不接受文档"
+
+msgid "Application in Terminal"
+msgstr "终端应用程序"
+
+msgid "Applications"
+msgstr "应用程序"
+
+msgid "Area where notification icons appear"
+msgstr "显示通知图标的地方"
+
+msgid "Arro_ws on hide buttons"
+msgstr "在隐藏按钮上显示箭头(_W)"
+
+msgid "Autoclose drawer"
+msgstr "自动关闭抽屉"
+
+msgid "Automatically hide panel into corner"
+msgstr "将面板自动隐藏到角落"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background _image:"
+msgstr "背景图像(_I)："
+
+msgid "Background color"
+msgstr "背景颜色"
+
+msgid "Background color opacity"
+msgstr "背景颜色不透明"
+
+msgid "Background image"
+msgstr "背景图像"
+
+msgid "Background type"
+msgstr "背景类型"
+
+msgid "Bookmarks"
+msgstr "书签"
+
+msgid "Bottom Centered Panel"
+msgstr "下方居中面板"
+
+msgid "Bottom Edge Panel"
+msgstr "下方边缘面板"
+
+msgid "Bottom Expanded Edge Panel"
+msgstr "下方扩展边缘面板"
+
+msgid "Bottom Floating Panel"
+msgstr "下方浮动面板"
+
+msgid ""
+"Browse all local and remote disks and folders accessible from this computer"
+msgstr "浏览可从本计算机访问的所有本地和远程磁盘和文件夹"
+
+msgid "Browse and run installed applications"
+msgstr "浏览并运行已安装的应用程序"
+
+msgid "Browse bookmarked and local network locations"
+msgstr "浏览收藏和本地网络位置"
+
+msgid "C_lear"
+msgstr "清除(_L)"
+
+msgid "Calendar"
+msgstr "日历"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "在 desktop 文件中，不能传递文档 URI 到 'Type=Link' 项"
+
+msgid "Cannot delete this panel"
+msgstr "无法删除此面板"
+
+msgid "Cannot find an empty spot"
+msgstr "无法找到空位"
+
+msgid "Center panel on x-axis"
+msgstr "将面板在 X 方向居中"
+
+msgid "Center panel on y-axis"
+msgstr "将面板在 Y 方向居中"
+
+msgid "Change desktop appearance and behavior, get help, or log out"
+msgstr "更改桌面外观和行为、获得帮助或注销"
+
+msgid "Change taskbar height and icon size"
+msgstr "更改任务栏高度和图标大小"
+
+msgid "Choose Location"
+msgstr "选择位置"
+
+msgid "Choose a file to append to the command..."
+msgstr "选择追加到命令的文件..."
+
+msgid "Choose a file..."
+msgstr "选择文件..."
+
+msgid "Choose an application..."
+msgstr "选择应用程序..."
+
+msgid "Choose an icon"
+msgstr "选择一个图标"
+
+msgid "City Name"
+msgstr "城市名称"
+
+msgid "City Time Zone"
+msgstr "城市时区"
+
+msgid "Clear Recent Documents"
+msgstr "清除最近文档历史"
+
+msgid "Clear Recent Documents..."
+msgstr "清除最近文档历史..."
+
+msgid "Clear all items from the recent documents list"
+msgstr "从最近的文档列表中清除全部项目"
+
+msgid "Clear the Recent Documents list?"
+msgstr "清除最近的文档列表吗？"
+
+msgid "Click here to hide all windows and show the desktop."
+msgstr "单击此处隐藏所有的窗口并显示桌面。"
+
+msgid "Click here to restore hidden windows."
+msgstr "单击此处恢复隐藏的窗口。"
+
+msgid ""
+"Click on a window to force the application to quit. To cancel press <ESC>."
+msgstr "单击窗口可以强制退出应用程序。要取消请按 <ESC>。"
+
+msgid ""
+"Click this button to browse for a file whose name to append to the command "
+"string."
+msgstr "单击次按钮可以浏览文件，文件名将会追加到命令字符串之后。"
+
+msgid ""
+"Click this button to run the selected application or the command in the "
+"command entry field."
+msgstr "单击此按钮可运行选中应用程序或在命令输入域中的命令。"
+
+msgid "Click to hide month calendar"
+msgstr "单击隐藏月历"
+
+msgid "Click to view month calendar"
+msgstr "单击查看月历"
+
+msgid "Clock"
+msgstr "时钟"
+
+msgid "Clock Applet Factory"
+msgstr "时钟小程序工厂"
+
+msgid "Clock Format"
+msgstr "时钟格式"
+
+msgid "Clock Preferences"
+msgstr "时钟首选项"
+
+msgid "Co_lor:"
+msgstr "颜色(_L)："
+
+msgid "Co_mmand to run when clicked:"
+msgstr "点击时执行的命令(_M)："
+
+msgid "Co_mment:"
+msgstr "注释(_M)："
+
+msgid "Comm_and:"
+msgstr "命令(_A)："
+
+msgid "Command icon"
+msgstr "命令图标"
+
+msgid "Command to execute on click"
+msgstr "点击时执行的命令"
+
+msgid "Complete panel lockdown"
+msgstr "完整面板锁定"
+
+msgid "Computer"
+msgstr "计算机"
+
+msgid "Computer Clock"
+msgstr "计算机时钟"
+
+msgid "Confirm panel removal"
+msgstr "确认面板删除"
+
+msgid "Connect to Server..."
+msgstr "连接到服务器..."
+
+msgid "Connect to a remote computer or shared disk"
+msgstr "连接到远程服务器或共享磁盘"
+
+msgid "Copy _Date"
+msgstr "复制日期(_D)"
+
+msgid "Copy _Time"
+msgstr "复制时间(_T)"
+
+msgid "Copy a launcher from the applications menu"
+msgstr "从启动应用程序菜单复制启动器"
+
+msgid "Could not connect to server"
+msgstr "无法连接到服务器"
+
+msgid "Could not convert '%s' from UTF-8"
+msgstr "无法从 UTF-8 转换“%s”"
+
+msgid "Could not display help document"
+msgstr "无法显示帮助文档"
+
+msgid "Could not display help document '%s'"
+msgstr "无法显示帮助文档“%s”"
+
+msgid "Could not display properties dialog"
+msgstr "无法显示属性对话框"
+
+msgid "Could not display run dialog"
+msgstr "无法显示运行对话框"
+
+msgid "Could not execute '%s'"
+msgstr "无法执行“%s”"
+
+msgid "Could not launch '%s'"
+msgstr "无法启动“%s”"
+
+msgid "Could not launch application"
+msgstr "无法启动应用程序"
+
+msgid "Could not open location '%s'"
+msgstr "无法打开位置“%s”"
+
+msgid "Could not open recently used document \"%s\""
+msgstr "无法打开最近用过的文档“%s”"
+
+msgid "Could not run command '%s'"
+msgstr "无法运行命令“%s”"
+
+msgid "Could not save directory properties"
+msgstr "无法保存目录属性"
+
+msgid "Could not save launcher"
+msgstr "无法保存启动器"
+
+msgid "Could not show this URL"
+msgstr "无法显示此 URL"
+
+msgid "Could not use dropped item"
+msgstr "无法使用拖放的项目"
+
+msgid "Create Launcher"
+msgstr "创建启动器"
+
+msgid "Create a new launcher"
+msgstr "创建新启动器"
+
+msgid "Create new file in the given directory"
+msgstr "无法在给定的目录中创建新文件"
+
+msgid "Current Time:"
+msgstr "当前时间："
+
+msgid "Custom Application Launcher"
+msgstr "自定义应用程序启动器"
+
+msgid "Custom format of the clock"
+msgstr "时钟的自定义格式"
+
+msgid "Customize icons appear on the taskbar"
+msgstr "自定义哪些图标显示在任务栏上"
+
+msgid "Customize which icons appear on the taskbar"
+msgstr "自定义哪些图标显示在任务栏上"
+
+msgid "D_on't Delete"
+msgstr "不删除(_O)"
+
+msgid ""
+"Decides when to group windows from the same application on the window list. "
+"Possible values are \"never\", \"auto\" and \"always\"."
+msgstr "决定何时在窗口列表中将同一个应用程序的窗口编组。可供选择的值有“从不”、“自动”和“总是”。"
+
+msgid "Default panel layout"
+msgstr "默认面板布局"
+
+msgid "Default-100%"
+msgstr "默认-100%"
+
+msgid "Delete this drawer?"
+msgstr "删除此抽屉吗？"
+
+msgid "Delete this panel?"
+msgstr "删除此面板吗？"
+
+msgctxt "Desktop Folder"
+msgid "Desktop"
+msgstr "桌面文件夹"
+
+msgid "Directory Properties"
+msgstr "目录属性"
+
+msgid "Disable Force Quit"
+msgstr "禁止强制退出"
+
+msgid "Disable connection to session manager"
+msgstr "禁止连接到会话管理器"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "Display a swimming fish or another animated creature"
+msgstr "显示游动的小鱼旺达，或其他动画形象"
+
+msgid "Display all workspaces"
+msgstr "显示所有工作区"
+
+msgid "Display workspace names"
+msgstr "显示工作区名称"
+
+msgid "Do you want to delete the applet from your configuration?"
+msgstr "您是否想要从配置中删除该小程序？"
+
+msgid "Draw arrow in menu button"
+msgstr "在菜单按钮上绘制箭头"
+
+msgid "Drawer"
+msgstr "抽屉"
+
+msgid "Drawer Properties"
+msgstr "抽屉属性"
+
+msgid "E_xpand"
+msgstr "扩展(_X)"
+
+msgid "East"
+msgstr "东"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Location"
+msgstr "编辑位置"
+
+msgid "Enable animations"
+msgstr "启用动画"
+
+msgid "Enable arrows on hide buttons"
+msgstr "启用隐藏按钮上的箭头"
+
+msgid "Enable autocompletion in \"Run Application\" dialog"
+msgstr "启用“运行应用程序”对话框中的自动补全"
+
+msgid "Enable hide buttons"
+msgstr "启用隐藏按钮"
+
+msgid "Enable program list in \"Run Application\" dialog"
+msgstr "启用“运行应用程序”对话框中的程序列表"
+
+msgid "Enable tooltips"
+msgstr "启用工具提示"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error displaying help document"
+msgstr "显示帮助文档时出错"
+
+msgid "Execute the run dialog"
+msgstr "执行运行对话框"
+
+msgid "Expand list of locations"
+msgstr "展开位置列表"
+
+msgid "Expand program list in \"Run Application\" dialog"
+msgstr "扩展“运行应用程序”对话框中的程序列表"
+
+msgid "Expand to occupy entire screen width"
+msgstr "扩展以占据整个屏幕的宽度"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "Factory for clock applet"
+msgstr "j时钟小程序的工厂"
+
+msgid "Factory for notification area"
+msgstr "通知区域的工厂"
+
+msgid "Factory for the window navigation related applets"
+msgstr "与窗口导航相关的小程序工厂"
+
+msgid "Failed to load %s: %s\n"
+msgstr "载入 %s 失败：%s\n"
+
+msgid "Failed to load applet %s"
+msgstr "载入小程序 %s 失败"
+
+msgid "Failed to set the system time"
+msgstr "设置系统时间失败"
+
+msgid "Failed to set the system timezone"
+msgstr "设置系统时区失败"
+
+msgid "File System"
+msgstr "文件系统"
+
+msgid "File is not a valid .desktop file"
+msgstr "不是正确的 .desktop 文件"
+
+msgid "Find an _item to add to \"%s\":"
+msgstr "查找要添加到“%s”的项目(_I)："
+
+msgid "Find an _item to add to the drawer:"
+msgstr "查找要添加到抽屉的项目(_I)："
+
+msgid "Find an _item to add to the panel:"
+msgstr "查找要添加到面板的项目(_I)："
+
+msgid "Fish"
+msgstr "小鱼"
+
+msgid "Fish Preferences"
+msgstr "小鱼首选项"
+
+msgid "Fit image to panel"
+msgstr "缩放图像以匹配面板"
+
+msgid "Force Quit"
+msgstr "强制退出"
+
+msgid "Force a misbehaving application to quit"
+msgstr "强制行为异常的应用程序退出"
+
+msgid "Force this application to exit?"
+msgstr "强制退出此应用程序吗？"
+
+msgid "Frames in fish's animation"
+msgstr "小鱼动画的帧数"
+
+msgid "From Whence That Stupid Fish Came"
+msgstr "傻乎乎的小鱼的来源地"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Get the current time and date"
+msgstr "时钟显示当前时间和日期"
+
+msgid "Group windows when _space is limited"
+msgstr "当空间有限时将窗口分组(_S)"
+
+msgid "Hide Panel"
+msgstr "隐藏面板"
+
+msgid "Hide application windows and show the desktop"
+msgstr "隐藏所有的窗口并显示桌面。"
+
+msgid "Hide the taskbar"
+msgstr "自动隐藏任务栏"
+
+msgid "Hide workspace"
+msgstr "隐藏工作区"
+
+msgid "Highlight launchers on mouseover"
+msgstr "鼠标悬停时突出显示启动器"
+
+msgid "History for \"Run Application\" dialog"
+msgstr "“运行应用程序”对话框历史"
+
+msgid "Home Folder"
+msgstr "主文件夹"
+
+msgid "Hour format"
+msgstr "小时格式"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Icon '%s' not found"
+msgstr "未找到图标“%s”"
+
+msgid "Icon not found"
+msgstr "未找到图标"
+
+msgid "Icon to show in menu bar"
+msgstr "菜单栏上显示的图标"
+
+msgid "Icon used for object's button"
+msgstr "用于对象按钮的图标"
+
+msgid ""
+"If true, a dialog is shown asking for confirmation if the user wants to "
+"remove a panel."
+msgstr "如果为 true，当用户想要删除面板时将请求确认。"
+
+msgid ""
+"If true, a drawer will automatically be closed when the user clicks a "
+"launcher in it."
+msgstr "如果为 true，当用户单击抽屉中的启动器时会自动关闭抽屉。"
+
+msgid ""
+"If true, a launcher is highlighted when the user moves the pointer over it."
+msgstr "如果为 true，当用户将鼠标指针指向启动器时会突出显示该启动器。"
+
+msgid ""
+"If true, an arrow is drawn over the menu button icon. If false, menu button "
+"has only the icon."
+msgstr "如果为 true，菜单按钮图标上会绘制一个箭头。如果为 false，菜单按钮上只有图标。"
+
+msgid ""
+"If true, arrows will be placed on the hide buttons. This key is only "
+"relevant if the enable_buttons key is true."
+msgstr "如果为 true，则在隐藏按钮上显示箭头。该首选项只在启用按钮为 true 时才有意义。"
+
+msgid ""
+"If true, autocompletion in the \"Run Application\" dialog is made available."
+msgstr "如果为 true，则启用“运行应用程序”对话框中的自动补全功能。"
+
+msgid ""
+"If true, buttons will be placed on each side of the panel which may be used "
+"to move the panel to edge of the screen, leaving only a button showing."
+msgstr "如果为 true，按钮将被置于按钮可能被隐藏的屏幕的每个边缘，隐藏后只显示一个按钮。"
+
+msgid "If true, display a weather icon."
+msgstr "如果为 true，则显示天气图标。"
+
+msgid "If true, display date in the clock, in addition to time."
+msgstr "如果为 true，则在时钟上除了显示时间外，还要显示日期。"
+
+msgid "If true, display seconds in time."
+msgstr "如果为 true，则显示时间时显示秒数。"
+
+msgid "If true, expand the list of locations in the calendar window."
+msgstr "如果为 true，则在日历窗口中展开位置列表。"
+
+msgid ""
+"If true, hiding and un-hiding of this panel will be animated rather than "
+"happening instantly."
+msgstr "如果为 true，此面板的隐藏和显示就表现为动画而不是在瞬间完成。"
+
+msgid "If true, show applications item in menu bar."
+msgstr "如设定为 true，在菜单栏显示应用程序项。"
+
+msgid "If true, show date in a tooltip when the pointer is over the clock."
+msgstr "如果为 true，则当鼠标在时钟上停留时在工具提示中显示日期。"
+
+msgid "If true, show desktop item in menu bar."
+msgstr "如设定为 true，在菜单栏显示桌面项。"
+
+msgid "If true, show icon in menu bar."
+msgstr "如设定为 true，在菜单栏显示图标。"
+
+msgid "If true, show places item in menu bar."
+msgstr "如设定为 true，在菜单栏显示位置项。"
+
+msgid "If true, show the temperature next to the weather icon."
+msgstr "如果为 true，则在天气图标旁显示温度。"
+
+msgid "If true, show week numbers in the calendar."
+msgstr "如果为 true，则在日历中显示周序号。"
+
+msgid ""
+"If true, the \"Known Applications\" listing in the \"Run Application\" "
+"dialog is expanded when the dialog is opened. This key is only relevant if "
+"the enable_program_list key is true."
+msgstr ""
+"如果为 true，则在打开“运行应用程序”对话框时其中的“已知的应用程序”列表处于展开状态。这一设置只在 enable_program_list 为 "
+"true 时才生效。"
+
+msgid ""
+"If true, the \"Known Applications\" listing in the \"Run Application\" "
+"dialog is made available. Whether or not the listing is expanded when the "
+"dialog is shown is controlled by the show_program_list key."
+msgstr ""
+"如果为 true，则“运行应用程序”对话框中的“已知的应用程序”列表就处于可用状态。当对话框打开时列表是否展开是由设置 "
+"show_program_list 来控制的。"
+
+msgid ""
+"If true, the background image will be rotated when the panel is oriented "
+"vertically."
+msgstr "如果为 true，则在面板为垂直面板时旋转背景图像。"
+
+msgid ""
+"If true, the custom_icon key is used as a custom icon for the button. If "
+"false, the custom_icon key is ignored. This key is only relevant if the "
+"object_type key is \"menu-object\" or \"drawer-object\"."
+msgstr ""
+"如果为 true，则定制图标设置就被用作按钮的定制图标。如果为 false，则忽略定制图标设置。该设置只在对象类型为“菜单对象”或“抽屉对象”时才有效。"
+
+msgid ""
+"If true, the fish's animation will be displayed rotated on vertical panels."
+msgstr "如果为 true，则会在面板为垂直面板时旋转小鱼的动画。"
+
+msgid ""
+"If true, the image will be scaled (retaining the aspect ratio of the image) "
+"to the panel height (if horizontal)."
+msgstr "如果为 true，则图像将被缩放(保持图像原本的宽高比)到面板高度(水平面板)。"
+
+msgid ""
+"If true, the image will be scaled to the panel dimensions. The aspect ratio "
+"of the image will not be maintained."
+msgstr "如果为 true，则图像将被缩放到面板尺寸。不保持图像原来的宽高比。"
+
+msgid ""
+"If true, the menu_path key is used as the path from which the menu contents "
+"should be constructed. If false, the menu_path key is ignored. This key is "
+"only relevant if the object_type key is \"menu-object\"."
+msgstr ""
+"如果为 true，菜单路径设置就被用作需创建菜单内容的路径。如果为 false，则忽略菜单路径设置。该设置只在对象类型为“菜单对象”时才有效。"
+
+msgid ""
+"If true, the panel is automatically hidden into a corner of the screen when "
+"the pointer leaves the panel area. Moving the pointer to that corner again "
+"will cause the panel to re-appear."
+msgstr "如果为 true，当指针离开面板区域时，面板将自动隐藏到屏幕的角落中。把指针移动到角落将导致面板重新出现。"
+
+msgid ""
+"If true, the panel will not allow a user to force an application to quit by "
+"removing access to the force quit button."
+msgstr "如果为 true，面板将会删除对强制退出按钮的访问，以禁止用户强制关闭应用程序。"
+
+msgid ""
+"If true, the panel will not allow any changes to the configuration of the "
+"panel. Individual applets may need to be locked down separately however. The"
+" panel must be restarted for this to take effect."
+msgstr "如果为 true，面板将不允对面板的配置进行任何更改。但是，可能需要对单个小程序进行分别锁定。要让此设置生效，必须重新启动面板。"
+
+msgid ""
+"If true, the panel will occupy the entire screen width (height if this is a "
+"vertical panel). In this mode the panel can only be placed at a screen edge."
+" If false, the panel will only be large enough to accommodate the applets, "
+"launchers and buttons on the panel."
+msgstr ""
+"如果为 true，则面板将占据整个屏幕的宽度(如果是垂直面板则是高度)。此时面板只能置于屏幕边缘。如果为 "
+"false，则面板只具有能够容纳面板中所有小程序、启动器、按钮的最小空间。"
+
+msgid ""
+"If true, the position of the object is interpreted relative to the right (or"
+" bottom if vertical) edge of the panel."
+msgstr "如果为 true，则对象的位置被解释为相对于面板的右边(垂直面板则为底边)。"
+
+msgid ""
+"If true, the user may not move the applet without first unlocking the object"
+" using the \"Unlock\" menuitem."
+msgstr "如果为 true，则用户在使用“取消锁定”菜单项取消对象的锁定之前，无法移动小程序。"
+
+msgid ""
+"If true, the window list will show windows from all workspaces. Otherwise it"
+" will only display windows from the current workspace."
+msgstr "如果为 true，则窗口列表将显示所有工作区的窗口，否则只显示当前工作区中的窗口。"
+
+msgid ""
+"If true, the workspace switcher will allow wrap-around, which means "
+"switching from the first to the last workspace and vice versa via scrolling."
+msgstr "如果为 true，工作区切换器将允许折回，即滚动时可从第一个工作区切到最后一个，反之亦然。"
+
+msgid ""
+"If true, the workspace switcher will show all workspaces. Otherwise it will "
+"only show the current workspace."
+msgstr "如果为 true，则工作区切换器将显示所有工作区，否则只显示当前工作区。"
+
+msgid ""
+"If true, the workspaces in the workspace switcher will display the names of "
+"the workspaces. Otherwise they will display the windows on the workspace. "
+"This setting only works when the window manager is Marco."
+msgstr "如果为 true，则在工作区切换器中显示工作区的名称，否则显示工作区中的窗口。此设置仅当使用 Marco 窗口管理器时才生效。"
+
+msgid ""
+"If true, the x and x_right keys are ignored and the panel is placed at the "
+"center of the x-axis of the screen. If the panel is resized it will remain "
+"at that position - i.e. the panel will grow on both sides. If false, the x "
+"and x_right keys specify the location of the panel."
+msgstr ""
+"如果为 true，则忽略 x 和 x_right 设置并将面板置于屏幕 x 轴的中央。面板改变大小时将保持位置 - 即面板将同时向两个方向扩展。如果为 "
+"false，则由 x 与 x_right 设置决定面板的位置。"
+
+msgid ""
+"If true, the y and y_bottom keys are ignored and the panel is placed at the "
+"center of the y-axis of the screen. If the panel is resized it will remain "
+"at that position - i.e. the panel will grow on both sides. If false, the y "
+"and y_bottom keys specify the location of the panel."
+msgstr ""
+"如果为 true，则忽略 y 和 y_bottom 设置并将面板置于屏幕 y 轴的中央。面板改变大小时将保持位置 - 即面板将同时向两个方向扩展。如果为"
+" false，则由 y 与 y_bottom 设置决定面板的位置。"
+
+msgid ""
+"If true, then when unminimizing a window, move it to the current workspace. "
+"Otherwise, switch to the workspace of the window."
+msgstr "如果为 true，则在解除窗口最小化的时候将其放入当前工作区。否则切换到窗口所在的工作区。"
+
+msgid "If true, tooltips are shown for objects in panels."
+msgstr "如果为 true，会显示面板中对象的工具提示。"
+
+msgid ""
+"If you choose to force an application to exit, unsaved changes in any open "
+"documents in it might get lost."
+msgstr "如果您选择强制退出此应用程序，该程序所打开的全部文档的未保存修改可能丢失。"
+
+msgid ""
+"If you clear the Recent Documents list, you clear the following:\n"
+"• All items from the Places → Recent Documents menu item.\n"
+"• All items from the recent documents list in all applications."
+msgstr ""
+"如果您清除最近的文档列表，您将清除下列内容：\n"
+"\n"
+"• 位置 -> 最近文档菜单项中的全部项目。\n"
+"• 全部应用程序的最近文档列表中的全部项目。"
+
+msgid ""
+"If you reload a panel object, it will automatically be added back to the "
+"panel."
+msgstr "如果您重新载入面板对象，将会自动添加到面板中。"
+
+msgid "Image Background Details"
+msgstr "背景图像细节"
+
+msgid "Images"
+msgstr "图像"
+
+msgid ""
+"In a Xinerama setup, you may have panels on each individual monitor. This "
+"key identifies the current monitor the panel is displayed on."
+msgstr "在 Xinerama 设置中，您可能在每个独立的监视器上都有面板。此处指明面板显示的当前监视器。"
+
+msgid "Interpret position relative to bottom/right edge"
+msgstr "把位置解释为相对于底/右边"
+
+msgid "Key %s is not set, cannot load launcher\n"
+msgstr "没有设置键 %s，无法载入启动器\n"
+
+msgid "Killer GEGLs from Outer Space"
+msgstr "从外太空杀死 GEGL"
+
+msgid "L_atitude:"
+msgstr "纬度(_A)："
+
+msgid "L_ongitude:"
+msgstr "经度(_O)："
+
+msgid "Large-200%"
+msgstr "大-200%"
+
+msgid ""
+"Launch other applications and provide various utilities to manage windows, "
+"show the time, etc."
+msgstr "调用其它应用程序并提供可用来完成管理管理窗口、显示时间等功能的工具。"
+
+msgid "Launcher Properties"
+msgstr "启动器属性"
+
+msgid "Launcher location"
+msgstr "启动器位置"
+
+msgid "Left Centered Panel"
+msgstr "左方居中面板"
+
+msgid "Left Edge Panel"
+msgstr "左方边缘面板"
+
+msgid "Left Expanded Edge Panel"
+msgstr "左方扩展边缘面板"
+
+msgid "Left Floating Panel"
+msgstr "左方浮动面板"
+
+msgid "Left/Right to move, Space to fire, 'p' to pause, 'q' to quit"
+msgstr "左右键移动，空格开炮，“p”暂停，“q”退出"
+
+msgid "Level: %s,  Lives: %s"
+msgstr "级别：%s，剩余命数：%s"
+
+msgid "List of known applications"
+msgstr "已知应用程序列表"
+
+msgid "List of locations"
+msgstr "位置列表"
+
+msgid "Loc_k To Panel"
+msgstr "锁定到面板(_K)"
+
+msgid "Locate documents and folders on this computer by name or content"
+msgstr "按名称或内容定位此计算机上的文档和文件夹"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Locations"
+msgstr "位置"
+
+msgid "Lock Screen"
+msgstr "锁住屏幕"
+
+msgid "Lock the object to the panel"
+msgstr "将对象锁定在面板中"
+
+msgid "Lock the taskbar"
+msgstr "锁定任务栏"
+
+msgid "Log Out %s..."
+msgstr "注销 %s..."
+
+msgid "Log Out..."
+msgstr "注销"
+
+msgid "Log out %s of this session to log in as a different user"
+msgstr "从本会话中注销 %s 以便让不同的用户登录"
+
+msgid "Log out of this session to log in as a different user"
+msgstr "注销本会话以便以其他用户登录"
+
+msgid "Look at today's date!"
+msgstr "看看今天是几号了！"
+
+msgid "Main Menu"
+msgstr "主菜单"
+
+msgid "Medium-150%"
+msgstr "中-150%"
+
+msgid "Menu Bar"
+msgstr "菜单栏"
+
+msgid "Menu content path"
+msgstr "菜单环境路径"
+
+msgid "Mount %s"
+msgstr "挂载 %s"
+
+msgid "Move windows to current workspace when unminimized"
+msgstr "解除窗口最小化时将窗口移动到当前工作区"
+
+msgid "Name to identify panel"
+msgstr "用于标识该面板的名称"
+
+msgid "Network"
+msgstr "网络"
+
+msgid "Network Places"
+msgstr "网络位置"
+
+msgid "No URI provided for panel launcher desktop file\n"
+msgstr "没有给出面板启动器的 desktop 文件的 URI\n"
+
+msgid "No URL was specified."
+msgstr "未指定 URL。"
+
+msgid "No application to handle search folders is installed."
+msgstr "没有安装可处理搜索文件夹的应用程序。"
+
+msgid "North"
+msgstr "北"
+
+msgid "Not a launchable item"
+msgstr "不是一个可启动项"
+
+msgid "Notification Area"
+msgstr "通知区域"
+
+msgid "Notification Area Factory"
+msgstr "通知区域工厂"
+
+msgid "Notification area"
+msgstr "通知区域"
+
+msgid "Number of _workspaces:"
+msgstr "工作区的数量(_W)："
+
+msgid "Object's position on the panel"
+msgstr "对象在面板中的位置"
+
+msgid "Open '%s'"
+msgstr "打开“%s”"
+
+msgid "Open URL: %s"
+msgstr "打开 URL：%s"
+
+msgid "Open the contents of your desktop in a folder"
+msgstr "将桌面以文件夹形式打开"
+
+msgid "Open your personal folder"
+msgstr "打开您的个人文件夹"
+
+msgctxt "Orientation"
+msgid "Bottom"
+msgstr "底部"
+
+msgctxt "Orientation"
+msgid "Left"
+msgstr "左侧"
+
+msgctxt "Orientation"
+msgid "Right"
+msgstr "右侧"
+
+msgctxt "Orientation"
+msgid "Top"
+msgstr "顶端"
+
+msgid "Panel"
+msgstr "面板"
+
+msgid ""
+"Panel '%s' is set to be displayed on screen %d which is not currently "
+"available. Not loading this panel."
+msgstr "面板“%s”被设置为显示在当前不可用的屏幕 %d 上。未载入该面板。"
+
+msgid "Panel Display"
+msgstr "面板显示"
+
+msgid "Panel ID list"
+msgstr "面板 ID 列表"
+
+msgid "Panel Notification Area"
+msgstr "面板通知区域"
+
+msgid "Panel Properties"
+msgstr "面板属性"
+
+msgid "Panel Settings"
+msgstr "任务栏设置"
+
+msgid "Panel attached to drawer"
+msgstr "附着于抽屉的面板"
+
+msgid "Panel autohide delay"
+msgstr "面板自动隐藏延迟"
+
+msgid "Panel autounhide delay"
+msgstr "面板自动取消隐藏延迟"
+
+msgid "Panel object ID list"
+msgstr "面板对象 ID 列表"
+
+msgid "Panel object has quit unexpectedly"
+msgstr "面板对象异常退出"
+
+msgid "Panel object type"
+msgstr "面板对象类型"
+
+msgid "Panel orientation"
+msgstr "面板方向"
+
+msgid "Panel size"
+msgstr "面板大小"
+
+msgid "Pause per frame"
+msgstr "每帧暂停"
+
+msgid "Paused"
+msgstr "已暂停"
+
+msgid "Pick a color"
+msgstr "选取颜色"
+
+msgid "Places"
+msgstr "位置"
+
+msgid "Please logout the system to reload the applet!"
+msgstr "请注销系统以重新加载该插件！"
+
+msgid "Press 'p' to unpause"
+msgstr "按“p”取消暂停"
+
+msgid "Press 'q' to quit"
+msgstr "按“q”退出"
+
+msgid "Protect your computer from unauthorized use"
+msgstr "保护您的计算机免于未授权的使用"
+
+msgid "Recent Documents"
+msgstr "最近文档"
+
+msgid "Removable Media"
+msgstr "可移动介质"
+
+msgid "Replace a currently running panel"
+msgstr "取代当前正在运行的一个面板"
+
+msgid "Rescan %s"
+msgstr "重新扫描 %s"
+
+msgid "Reset the panel configuration to default"
+msgstr "重设面板配置至默认"
+
+msgid "Reset this panel?"
+msgstr "重置当前面板?"
+
+msgid "Restore to current _workspace"
+msgstr "还原到当前工作区(_W)"
+
+msgid "Restore to na_tive workspace"
+msgstr "还原到原工作区(_T)"
+
+msgid "Restoring Minimized Windows"
+msgstr "在恢复最小化的窗口时"
+
+msgid "Right Centered Panel"
+msgstr "右方居中面板"
+
+msgid "Right Edge Panel"
+msgstr "右方边缘面板"
+
+msgid "Right Expanded Edge Panel"
+msgstr "右方扩展边缘面板"
+
+msgid "Right Floating Panel"
+msgstr "右方浮动面板"
+
+msgid "Rotate image on vertical panels"
+msgstr "在垂直面板上旋转图像"
+
+msgid "Rotate image when panel is _vertical"
+msgstr "面板垂直放置时旋转图像(_V)"
+
+msgid "Rotate on vertical panels"
+msgstr "在垂直面板上作相应旋转"
+
+msgid "Rows in workspace switcher"
+msgstr "工作区切换器中的行数"
+
+msgid "Run Application"
+msgstr "运行应用程序"
+
+msgid "Run Application..."
+msgstr "运行程序..."
+
+msgid "Run an application by typing a command or choosing from a list"
+msgstr "输入命令或从列表中选择要运行的应用程序"
+
+msgid "Run in _terminal"
+msgstr "在终端里运行(_T)"
+
+msgid "Run with _file..."
+msgstr "带文件运行(_F)..."
+
+msgid "S_tyle:"
+msgstr "样式(_T)："
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search for Files..."
+msgstr "搜索文件"
+
+msgid "Select an animation"
+msgstr "选择动画"
+
+msgid "Select an application to view its description."
+msgstr "选择应用程序可查看其描述。"
+
+msgid "Select background"
+msgstr "选择背景"
+
+msgid "Select this box to run the command in a terminal window."
+msgstr "选中此框可在终端窗口运行命令。"
+
+msgid "Separator"
+msgstr "分隔符"
+
+msgid "Session management options:"
+msgstr "会话管理器选项："
+
+msgid "Set System Time"
+msgstr "设置系统时间"
+
+msgid "Set System Time..."
+msgstr "设置系统时间..."
+
+msgid ""
+"Set location as current location and use its timezone for this computer"
+msgstr "将位置设置为当前位置，并将其用作此计算机的时区"
+
+msgid "Set the default panel layout"
+msgstr "设置默认面板布局"
+
+msgid "Set the theme icon name to use in menu bar."
+msgstr "设定菜单栏上使用的图标名称。"
+
+msgid "Sh_ow windows from current workspace"
+msgstr "显示当前工作区中的窗口(_O)"
+
+msgid "Show Desktop"
+msgstr "显示桌面"
+
+msgid "Show Desktop Button"
+msgstr "显示桌面按钮"
+
+msgid "Show _all workspaces in:"
+msgstr "显示所有工作区于(_A)："
+
+msgid "Show _only the current workspace"
+msgstr "只显示当前工作区(_O)"
+
+msgid "Show _temperature"
+msgstr "显示温度(_T)"
+
+msgid "Show _weather"
+msgstr "显示天气(_W)"
+
+msgid "Show applications menu"
+msgstr "显示应用程序菜单"
+
+msgid "Show date in clock"
+msgstr "在时钟上显示日期"
+
+msgid "Show date in tooltip"
+msgstr "在提示中显示日期"
+
+msgid "Show desktop menu"
+msgstr "显示桌面菜单"
+
+msgid "Show hide _buttons"
+msgstr "显示隐藏按钮(_B)"
+
+msgid "Show icon"
+msgstr "显示图标"
+
+msgid "Show list of known _applications"
+msgstr "显示已知应用程序的列表(_A)"
+
+msgid "Show places menu"
+msgstr "显示位置菜单"
+
+msgid "Show seco_nds"
+msgstr "显示秒(_N)"
+
+msgid "Show session management options"
+msgstr "显示会话管理器选项"
+
+msgid "Show temperature in clock"
+msgstr "在时钟上显示温度"
+
+msgid "Show the _date"
+msgstr "显示日期(_D)"
+
+msgid "Show time with seconds"
+msgstr "显示带秒的时间"
+
+msgid "Show weather in clock"
+msgstr "在时钟上显示天气"
+
+msgid "Show week numbers in calendar"
+msgstr "在日历中显示周序号"
+
+msgid "Show windows from a_ll workspaces"
+msgstr "显示所有工作区中的窗口(_L)"
+
+msgid "Show windows from all workspaces"
+msgstr "显示所有工作区中的窗口"
+
+msgid "Show workspace _names in switcher"
+msgstr "在切换器中显示工作区名称(_N)"
+
+msgid "Shut Down..."
+msgstr "关机"
+
+msgid "Shut down the computer"
+msgstr "关闭计算机"
+
+msgctxt "Size"
+msgid "Large"
+msgstr "大"
+
+msgctxt "Size"
+msgid "Medium"
+msgstr "中"
+
+msgctxt "Size"
+msgid "Small"
+msgstr "小"
+
+msgctxt "Size"
+msgid "X Large"
+msgstr "很大"
+
+msgctxt "Size"
+msgid "X Small"
+msgstr "很小"
+
+msgctxt "Size"
+msgid "XX Large"
+msgstr "极大"
+
+msgctxt "Size"
+msgid "XX Small"
+msgstr "极小"
+
+msgid "Solid c_olor"
+msgstr "纯色(_O)"
+
+msgid "Some of these properties are locked down"
+msgstr "某些属性已经锁定"
+
+msgid "South"
+msgstr "南"
+
+msgid "Specifies the background color for the panel in #RGB format."
+msgstr "以 #RGB 格式指定面板的背景颜色。"
+
+msgid ""
+"Specifies the file to be used for the background image. If the image "
+"contains an alpha channel it will be composited onto the desktop background "
+"image."
+msgstr "指定用作背景图像的文件。如果图像含有 alpha 通道它就会组合到桌面背景图像中。"
+
+msgid ""
+"Specifies the number of milliseconds delay after the pointer enters the "
+"panel area before the panel is automatically re-shown. This key is only "
+"relevant if the auto_hide key is true."
+msgstr "指定指针进入面板区域后，面板自动重新显示前延迟的毫秒数。该首选项只在自动隐藏为 true 时才有效。"
+
+msgid ""
+"Specifies the number of milliseconds delay after the pointer leaves the "
+"panel area before the panel is automatically hidden. This key is only "
+"relevant if the auto_hide key is true."
+msgstr "指定指针离开面板区域后，面板自动隐藏前延迟的毫秒数。该首选项只在自动隐藏为 true 时才有效。"
+
+msgid ""
+"Specifies the number of pixels visible when the panel is automatically "
+"hidden into a corner. This key is only relevant if the auto_hide key is "
+"true."
+msgstr "指定当面板自动隐藏到角落时可见的像素数。该首选项只在自动隐藏为 true 时有效。"
+
+msgid ""
+"Specifies the opacity of the background color format. If the color is not "
+"completely opaque (a value of less than 65535), the color will be composited"
+" onto the desktop background image."
+msgstr "指定背景颜色格式的不透明度。如果颜色不是完全不透明的(值小于 65535)则色彩将与桌面背景图像组合。"
+
+msgid ""
+"Specify a gsettings path in which the applet preferences should be stored"
+msgstr "指定保存小程序首选项的 gsettings 位置"
+
+msgid "Specify an applet IID to load"
+msgstr "指定要载入的小程序 IID"
+
+msgid "Specify file containing saved configuration"
+msgstr "指定包含已保存配置的文件"
+
+msgid "Specify session management ID"
+msgstr "指定会话管理器 ID"
+
+msgid ""
+"Specify the initial orientation of the applet (top, bottom, left or right)"
+msgstr "指定小程序的初始位置(顶、底、左或右)"
+
+msgid "Specify the initial size of the applet (xx-small, medium, large etc.)"
+msgstr "指定小程序的初始大小(小、中、大等。)"
+
+msgid "Speed unit"
+msgstr "速度单位"
+
+msgid "St_retch"
+msgstr "拉伸(_R)"
+
+msgid "Starting %s"
+msgstr "正在启动 %s"
+
+msgid "Stretch image to panel"
+msgstr "将图像拉伸到面板"
+
+msgid "Sunrise: %s / Sunset: %s"
+msgstr "日出 %s / 日落 %s"
+
+msgid "Switch between open windows using a menu"
+msgstr "通过菜单在打开的窗口间切换"
+
+msgid "Switch between open windows using buttons"
+msgstr "通过按钮在打开的窗口间切换"
+
+msgid "Switch between workspaces"
+msgstr "在工作区之间切换"
+
+msgid "Switcher"
+msgstr "切换器"
+
+msgid "System"
+msgstr "系统"
+
+msgid "System _Monitor"
+msgstr "系统监视器(_M)"
+
+msgid "Taskbar background transparent"
+msgstr "任务栏背景透明"
+
+msgid "Temperature unit"
+msgstr "温度单位"
+
+msgid "Test applet utility"
+msgstr "测试小程序工具"
+
+msgid "The Clock displays the current time and date"
+msgstr "时钟显示当前时间和日期"
+
+msgid "The MATE Panel"
+msgstr "MATE 面板程序"
+
+msgid ""
+"The Window List shows a list of all windows in a set of buttons and lets you"
+" browse them."
+msgstr "窗口列表以按钮集的方式显示了所有窗口的列表，以便于您浏览它们。"
+
+msgid ""
+"The Window Selector shows a list of all windows in a menu and lets you "
+"browse them."
+msgstr "窗口选择器以菜单方式显示了所有窗口的列表，以便于您浏览它们。"
+
+msgid ""
+"The Workspace Switcher shows you a small version of your workspaces that "
+"lets you manage your windows."
+msgstr "工作区切换器显示了您的工作区的缩影，以便于您管理您的窗口。"
+
+msgid ""
+"The action type this button represents. Possible values are \"lock\", "
+"\"logout\", \"run\", \"search\" and \"screenshot\". This key is only "
+"relevant if the object_type key is \"action-applet\"."
+msgstr "该按钮代表的动作类型。可供选择的值有“锁定”、“注销”、“运行”、“搜索”和“抓图”。该设置只在对象类型为“动作小程序”的时候才有效。"
+
+msgid "The command of the launcher is not set."
+msgstr "未设定启动器命令。"
+
+msgid "The configured command is not working and has been replaced by: %s"
+msgstr "配置的命令无法运行，已经被替换为：%s"
+
+msgid "The default panels layout to use when panels are created or resetted."
+msgstr "创建或复位面板时使用的默认面板布局。"
+
+msgid "The fish's animation pixmap"
+msgstr "小鱼的动画位图"
+
+msgid "The fish's name"
+msgstr "小鱼的名字"
+
+msgid ""
+"The height (width for a vertical panel) of the panel. The panel will "
+"determine at runtime a minimum size based on the font size and other "
+"indicators. The maximum size is fixed at one quarter of the screen height "
+"(or width)."
+msgstr "面板高度(垂直面板的宽度)。面板将在运行时根据字体大小和其它指示器确定最小尺寸。最大尺寸固定为屏幕高度(或宽度)的四分之一。"
+
+msgid "The icon of the command to be run."
+msgstr "要运行的程序的图标。"
+
+msgid ""
+"The identifier of the panel attached to this drawer. This key is only "
+"relevant if the object_type key is \"drawer-object\"."
+msgstr "附着于该抽屉的面板的标识。该设置只在对象类型为“抽屉对象”的时候才有效。"
+
+msgid "The identifier of the toplevel panel which contains this object."
+msgstr "含有该对象的顶层面板的标识。"
+
+msgid ""
+"The implementation ID of the applet - e.g. "
+"\"ClockAppletFactory::ClockApplet\". This key is only relevant if the "
+"object_type key is \"external-applet\" (or the deprecated \"matecomponent-"
+"applet\")."
+msgstr ""
+"小程序的实现 ID  - 例如 \"ClockAppletFactory::ClockApplet\"。此键只在 object_type key 为 "
+"\"external-applet\" (或废弃的 \"matecomponent-applet\") 时有效。"
+
+msgid ""
+"The location of the .desktop file describing the launcher. This key is only "
+"relevant if the object_type key is \"launcher-object\"."
+msgstr "描述启动器的 .desktop 文件的位置。该设置只在对象类型为“启动器对象”时才有效。"
+
+msgid ""
+"The location of the image file used as the icon for the object's button. "
+"This key is only relevant if the object_type key is \"drawer-object\" or "
+"\"menu-object\" and the use_custom_icon key is true."
+msgstr ""
+"用作对象按钮图标的图像文件的位置。该设置只在对象类型为“抽屉对象”或“菜单对象”并且 use_custom_icon 为 true 时才有效。"
+
+msgid "The location of the launcher is not set."
+msgstr "启动器的位置未设定。"
+
+msgid ""
+"The location of the panel along the x-axis, starting from the right of the "
+"screen. If set to -1, the value is ignored and the value of the x key is "
+"used. If the value is greater than 0, then the value of the x key is "
+"ignored. This key is only relevant in un-expanded mode. In expanded mode "
+"this key is ignored and the panel is placed at the screen edge specified by "
+"the orientation key."
+msgstr ""
+"面板在 X 轴上的位置，从屏幕的右端开始。如果设置为-1，该值将被忽略而 x "
+"键的值将被使用。该值只在非扩展模式下有意义。在扩展模式下忽略该值并将面板置于由面板方向指定的屏幕边缘。"
+
+msgid ""
+"The location of the panel along the x-axis. This key is only relevant in un-"
+"expanded mode. In expanded mode this key is ignored and the panel is placed "
+"at the screen edge specified by the orientation key."
+msgstr "面板在 X 轴上的位置。该值只在非扩展模式下有意义。在扩展模式下忽略该值并将面板置于由面板方向指定的屏幕边缘。"
+
+msgid ""
+"The location of the panel along the y-axis, starting from the bottom of the "
+"screen. If set to -1, the value is ignored and the value of the y key is "
+"used. If the value is greater than 0, then the value of the y key is "
+"ignored. This key is only relevant in un-expanded mode. In expanded mode "
+"this key is ignored and the panel is placed at the screen edge specified by "
+"the orientation key."
+msgstr ""
+"面板在 Y 轴上的位置，从屏幕的底端开始。如果设置为-1，该值将被忽略而 y "
+"键的值将被使用。该值只在非扩展模式下有意义。在扩展模式下忽略该值并将面板置于面板方向指定的屏幕边缘。"
+
+msgid ""
+"The location of the panel along the y-axis. This key is only relevant in un-"
+"expanded mode. In expanded mode this key is ignored and the panel is placed "
+"at the screen edge specified by the orientation key."
+msgstr "面板在 Y 轴上的位置。该值只在非扩展模式下有意义。在扩展模式下忽略该值并将面板置于面板方向指定的屏幕边缘。"
+
+msgid "The main MATE menu"
+msgstr "MATE 主菜单"
+
+msgid "The name of the directory is not set."
+msgstr "未设定目录名称。"
+
+msgid "The name of the launcher is not set."
+msgstr "未设定启动器名称。"
+
+msgid ""
+"The orientation of the panel. Possible values are \"top\", \"bottom\", "
+"\"left\", \"right\". In expanded mode the key specifies which screen edge "
+"the panel is on. In un-expanded mode the difference between \"top\" and "
+"\"bottom\" is less important - both indicate that this is a horizontal panel"
+" - but still give a useful hint as to how some panel objects should behave. "
+"For example, on a \"top\" panel a menu button will pop up its menu below the"
+" panel, whereas on a \"bottom\" panel the menu will be popped up above the "
+"panel."
+msgstr ""
+"面板的方向。可供选择的值有：“顶”、“底”、“左”、“右”。在扩展模式下该值指定了面板所在的屏幕边缘。在非扩展模式下“顶”和“底”的区别就不重要了 - "
+"都表示这是水平面板 - "
+"但仍然给出有用的提示以便某些面板对象确定其行为。例如，在“顶”面板中菜单按钮将在面板下方弹出它的菜单，而“底”面板的菜单将在面板上方弹出菜单。"
+
+msgid "The panel encountered a problem while loading \"%s\"."
+msgstr "面板载入“%s”时遇到问题。"
+
+msgid ""
+"The path from which the menu contents is contructed. This key is only "
+"relevant if the use_menu_path key is true and the object_type key is \"menu-"
+"object\"."
+msgstr "从此创建菜单内容的路径。该设置只在 use_menu_path 为 true 并且对象类型为“菜单对象”时才有效。"
+
+msgid ""
+"The position of this panel object. The position is specified by the number "
+"of pixels from the left (or top if vertical) panel edge."
+msgstr "该面板对象的位置。位置是相对于面板左边(垂直面板是顶边)的像素数。"
+
+msgid ""
+"The speed in which panel animations should occur. Possible values are "
+"\"slow\", \"medium\" and \"fast\". This key is only relevant if the "
+"enable_animations key is true."
+msgstr "面板动画的速度。可供选择的值有：“慢”“中”“快”。该首选项只在启用动画为 true 时才有效。"
+
+msgid "The taskbar position on the screen："
+msgstr "任务栏在屏幕上的位置："
+
+msgid ""
+"The text to display in a tooltip for this drawer or this menu. This key is "
+"only relevant if the object_type key is \"drawer-object\" or \"menu-"
+"object\"."
+msgstr "在此抽屉或菜单的工具提示中显示的文本。该设置只有在对象类型为“抽屉对象”或“菜单对象”时才有效。"
+
+msgid "The type of this panel object."
+msgstr "此面板对象的类型。"
+
+msgid "The unit to use when showing temperatures."
+msgstr "显示温度时使用的单位"
+
+msgid "The unit to use when showing wind speed."
+msgstr "显示风速时使用的单位"
+
+msgid "The water needs changing"
+msgstr "需要给我换水了"
+
+msgid "This button lets you hide all windows and show the desktop."
+msgstr "这个按钮让您隐藏所有的窗口并显示桌面。"
+
+msgid ""
+"This is a human readable name which you can use to identify a panel. Its "
+"main purpose is to serve as the panel's window title which is useful when "
+"navigating between panels."
+msgstr "这是您可以用于识别面板的友好名字。它的主要目的是在面板间切换是作为面板的窗口标题。"
+
+msgid "This is the list of commands used in \"Run Application\" dialog."
+msgstr "这是“运行应用程序”对话框中使用过的命令列表。"
+
+msgid ""
+"This key specifies how many rows (for horizontal layout) or columns (for "
+"vertical layout) the workspace switcher shows the workspaces in. This key is"
+" only relevant if the display_all_workspaces key is true."
+msgstr "决定了工作区切换器将使用多少行(水平布局)或列(垂直布局)来显示工作区。此设置仅当显示所有工作区为 true 时生效。"
+
+msgid ""
+"This key specifies the command that will be tried to execute when the fish "
+"is clicked."
+msgstr "此处指定了点击小鱼后尝试执行的命令。"
+
+msgid ""
+"This key specifies the filename of the pixmap which will be used for the "
+"animation displayed in the fish applet relative to the pixmap directory."
+msgstr "此处指定的位图文件名，会被用来显示与该位图目录相关的小鱼的动画。"
+
+msgid ""
+"This key specifies the format used by the clock applet when the format key "
+"is set to \"custom\". You can use conversion specifiers understood by "
+"strftime() to obtain a specific format. See the strftime() manual for more "
+"information."
+msgstr ""
+"当 format 键设为“custom”时，此键指定了时钟小程序要使用的格式。您可以使用 strftime() 的格式符来获取特定格式。详细说明可参见 "
+"strftime() 的手册。"
+
+msgid ""
+"This key specifies the hour format used by the clock applet. Possible values"
+" are \"12-hour\", \"24-hour\", \"internet\", \"unix\" and \"custom\". If set"
+" to \"internet\", the clock will display Internet time. The Internet time "
+"system divides the day into 1000 \".beats\". There are no time zones in this"
+" system, so time is the same all over the world. If set to \"unix\", the "
+"clock will display time in seconds since Epoch, i.e. 1970-01-01. If set to "
+"\"custom\", the clock will display time according to the format specified in"
+" the custom_format key."
+msgstr ""
+"此键指定了时钟小程序所使用的小时格式。可供选择的值为“12-hour”、“24-hour”、“internet”、“unix”和“custom”。如果设定为“internet”，时钟将显示"
+" Internet 时间。Internet 时间将一天分为 "
+"1000“拍”。此系统中没有时区之分，所以全世界的时间都是相同的。如果设定为“unix”，时钟将会以自新纪元(即 "
+"1970-01-01)开始已过的秒数。如果设定为“custom”，时钟将会根据 custom_format 键中指定的格式来显示时间。"
+
+msgid ""
+"This key specifies the number of frames that will be displayed in the fish's"
+" animation."
+msgstr "此处指定了小鱼动画显示的帧数。"
+
+msgid "This key specifies the number of seconds each frame will be displayed."
+msgstr "此处指定了每帧动画显示的秒数。"
+
+msgid ""
+"This program is responsible for launching other applications and provides "
+"useful utilities."
+msgstr "本程序负责启动其它应用程序并提供有用的工具。"
+
+msgid "Time & Date"
+msgstr "时间和日期"
+
+msgid "Time _Settings"
+msgstr "时间设置(_S)"
+
+msgid "Tooltip displayed for drawer or menu"
+msgstr "抽屉或菜单的工具提示"
+
+msgid "Top Centered Panel"
+msgstr "上方居中面板"
+
+msgid "Top Edge Panel"
+msgstr "上方边缘面板"
+
+msgid "Top Expanded Edge Panel"
+msgstr "上方扩展边缘面板"
+
+msgid "Top Floating Panel"
+msgstr "上方浮动面板"
+
+msgid "Toplevel panel containing object"
+msgstr "含有对象的顶层面板"
+
+msgid "URI list dropped on run dialog had wrong format (%d) or length (%d)\n"
+msgstr "拖放到运行对话框上的 URI 列表格式(%d)或长度(%d)不对\n"
+
+msgid ""
+"Unable to execute '%s'\n"
+"\n"
+"Details: %s"
+msgstr ""
+"无法执行“%s”\n"
+"\n"
+"细节：%s"
+
+msgid "Unable to load file '%s': %s."
+msgstr "无法载入文件“%s”：%s。"
+
+msgid "Unable to locate the command to execute"
+msgstr "无法找到要执行的命令"
+
+msgid "Unable to mount %s"
+msgstr "无法挂载 %s"
+
+msgid "Unable to open desktop file %s for panel launcher%s%s\n"
+msgstr "无法打开面板启动器的 desktop 文件 %s%s%s\n"
+
+msgid ""
+"Unable to read from '%s'\n"
+"\n"
+"Details: %s"
+msgstr ""
+"无法从“%s”读取\n"
+"\n"
+"细节：%s"
+
+msgid ""
+"Unable to read output from command\n"
+"\n"
+"Details: %s"
+msgstr ""
+"无法读取命令的输出\n"
+"\n"
+"细节：%s"
+
+msgid "Unable to scan %s for media changes"
+msgstr "由于介质改变，无法扫描 %s"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "desktop 文件版本 '%s' 不能被识别"
+
+msgid "Unrecognized launch option: %d"
+msgstr "不能被识别的启动选项：%d"
+
+msgid "Use custom icon for object's button"
+msgstr "使用对象按钮的自定义图标"
+
+msgid "Use custom path for menu contents"
+msgstr "使用菜单内容的自定义路径"
+
+msgid "Visible pixels when hidden"
+msgstr "面板隐藏时的可见像素"
+
+msgid "Wanda Factory"
+msgstr "旺达工厂"
+
+msgid ""
+"Warning:  The command appears to be something actually useful.\n"
+"Since this is a useless applet, you may not want to do this.\n"
+"We strongly advise you against using %s for anything\n"
+"which would make the applet \"practical\" or useful."
+msgstr ""
+"警告：这个命令看起来有些真正的用途。\n"
+"由于这是个没有用处的小程序，您可能并不想这么做。\n"
+"我们强烈建议您不要利用 %s 来做什么“实际”\n"
+"或有用的事情。"
+
+msgid "Weather"
+msgstr "天气"
+
+msgid "West"
+msgstr "西"
+
+msgid ""
+"When a drawer is deleted, the drawer and its\n"
+"settings are lost."
+msgstr ""
+"删除抽屉时，抽屉及其设置\n"
+"都会丢失。"
+
+msgid ""
+"When a panel is deleted, the panel and its\n"
+"settings are lost."
+msgstr ""
+"删除面板时，面板及其设置\n"
+"都会丢失。"
+
+msgid ""
+"When a panel is reset,all \n"
+"custom settings are lost."
+msgstr ""
+"当面板重置时，所有 \n"
+"自定义设置丢失。"
+
+msgid "When to group windows"
+msgstr "何时对窗口编组"
+
+msgid ""
+"Which type of background should be used for this panel. Possible values are "
+"\"none\" - the default GTK+ widget background will be used, \"color\" - the "
+"color key will be used as background color or \"image\" - the image "
+"specified by the image key will be used as background."
+msgstr ""
+"此面板的背景类型。可供选择的值有：“none” - 使用默认的 GTK+ "
+"构件背景，“color”将颜色首选项作为背景颜色，“图像”将图像首选项指定的图像作为背景。"
+
+msgid "Will run command: '%s'"
+msgstr "将运行命令：“%s”"
+
+msgid "Window Grouping"
+msgstr "窗口分组"
+
+msgid "Window List"
+msgstr "窗口列表"
+
+msgid "Window List Content"
+msgstr "窗口列表内容"
+
+msgid "Window List Preferences"
+msgstr "窗口列表首选项"
+
+msgid "Window Navigation Applet Factory"
+msgstr "窗口导航小程序工厂"
+
+msgid "Window Selector"
+msgstr "窗口选择器"
+
+msgid ""
+"With a multi-screen setup, you may have panels on each individual screen. "
+"This key identifies the current screen the panel is displayed on."
+msgstr "在多屏幕设置中，您可能在每个独立的屏幕上都有面板。此处指明了面板显示的当前屏幕。"
+
+msgid "Workspace Names"
+msgstr "工作区名称"
+
+msgid "Workspace Switcher"
+msgstr "工作区切换器"
+
+msgid "Workspace Switcher Preferences"
+msgstr "工作区切换器首选项"
+
+msgid "Workspace na_mes:"
+msgstr "工作区名称(_M)："
+
+msgid "Workspaces"
+msgstr "工作区"
+
+msgid "Wrap around on scroll"
+msgstr "滚动时折回"
+
+msgid "X co-ordinate of panel"
+msgstr "面板的 X 坐标"
+
+msgid "X co-ordinate of panel, starting from the right of the screen"
+msgstr "面板的 Y 坐标，从屏幕右侧计"
+
+msgid "X screen where the panel is displayed"
+msgstr "显示面板的 X 屏幕"
+
+msgid "Xinerama monitor where the panel is displayed"
+msgstr "显示面板的 Xinerama 监视器"
+
+msgid "Y co-ordinate of panel"
+msgstr "面板的 Y 坐标"
+
+msgid "Y co-ordinate of panel, starting from the bottom of the screen"
+msgstr "面板的 Y 坐标，从屏幕底部计"
+
+msgid "You must always have at least one panel."
+msgstr "您必须至少有一个面板。"
+
+msgid ""
+"Your window manager does not support the show desktop button, or you are not"
+" running a window manager."
+msgstr "您的窗口管理器不支持显示桌面按钮，或者您未运行桌面管理器。"
+
+msgid "[FILE...]"
+msgstr "[文件...]"
+
+msgid "_12 hour format"
+msgstr "_12 小时格式"
+
+msgid "_24 hour format"
+msgstr "_24 小时格式"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_About Kylin"
+msgstr "关于银河麒麟(_A)"
+
+msgid "_About NeoKylin"
+msgstr "关于中标麒麟(_A)"
+
+msgid "_About YHKylin"
+msgstr "关于银河麒麟(_A)"
+
+msgid "_Activate Screensaver"
+msgstr "激活屏幕保护程序(_A)"
+
+msgid "_Add to Drawer..."
+msgstr "添加到抽屉(_A)..."
+
+msgid "_Add to Panel..."
+msgstr "添加到面板(_A)..."
+
+msgid "_Always group windows"
+msgstr "总是对窗口分组(_A)"
+
+msgid "_Applet:"
+msgstr "小程序(_A)："
+
+msgid "_Autohide"
+msgstr "自动隐藏(_A)"
+
+msgid "_Browse..."
+msgstr "浏览(_B)..."
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Delete This Panel"
+msgstr "删除该面板(_D)"
+
+msgid "_Don't Reload"
+msgstr "不重新载入(_D)"
+
+msgid "_Edit Menus"
+msgstr "编辑菜单(_E)"
+
+msgid "_Entire menu"
+msgstr "整个菜单(_E)"
+
+msgid "_File:"
+msgstr "文件(_F)："
+
+msgid "_Force quit"
+msgstr "强制退出(_F)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Icon:"
+msgstr "图标(_I)："
+
+msgid "_Launch"
+msgstr "打开(_L)"
+
+msgid "_Location Name:"
+msgstr "位置名称(_L)："
+
+msgid "_Location:"
+msgstr "位置(_L)："
+
+msgid "_Lock Screen"
+msgstr "锁住屏幕(_L)"
+
+msgid "_Move"
+msgstr "移动(_M)"
+
+msgid "_Name of fish:"
+msgstr "小鱼的名字(_N)："
+
+msgid "_Name:"
+msgstr "名称(_N)："
+
+msgid "_Never group windows"
+msgstr "从不对窗口分组(_N)"
+
+msgid "_New Panel"
+msgstr "新建面板(_N)"
+
+msgid "_None (use system theme)"
+msgstr "无(使用系统主题)(_N)"
+
+msgid "_Orientation:"
+msgstr "方向(_O)："
+
+msgid "_Pause per frame:"
+msgstr "每帧的暂停时间(_P)："
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Prefs Path:"
+msgstr "首选项路径(_P)："
+
+msgid "_Pressure unit:"
+msgstr "压力单位(_P)："
+
+msgid "_Properties"
+msgstr "属性(_P)"
+
+msgid "_Reload"
+msgstr "重新载入(_R)"
+
+msgid "_Remove From Panel"
+msgstr "从任务栏上删除(_R)"
+
+msgid "_Reset Panel"
+msgstr "重置该面板(_R)"
+
+msgid "_Rotate on vertical panels"
+msgstr "在垂直面板上作相应旋转(_R)"
+
+msgid "_Run"
+msgstr "运行(_R)"
+
+msgid "_Scale"
+msgstr "缩放(_S)"
+
+msgid "_Set System Time"
+msgstr "设置系统时间(_S)"
+
+msgid "_Settings"
+msgstr "任务栏设置(_S)"
+
+msgid "_Size:"
+msgstr "大小(_S)："
+
+msgid "_Speak again"
+msgstr "再说一遍(_S)"
+
+msgid "_Temperature unit:"
+msgstr "温度单位(_T)："
+
+msgid "_Tile"
+msgstr "平铺(_T)"
+
+msgid "_Time:"
+msgstr "时间(_T)："
+
+msgid "_Timezone:"
+msgstr "时区(_T)："
+
+msgid "_Total frames in animation:"
+msgstr "动画的总帧数(_T)："
+
+msgid "_Type:"
+msgstr "类型(_T)："
+
+msgid "_Visibility unit:"
+msgstr "能见度单位(_V)："
+
+msgid "_Wind speed unit:"
+msgstr "风速单位(_W)："
+
+msgid "columns"
+msgstr "列数"
+
+msgid "file"
+msgstr "文件"
+
+msgid "frames"
+msgstr "帧"
+
+msgctxt "panel:showusername"
+msgid "1"
+msgstr "1"
+
+msgid "pixels"
+msgstr "像素"
+
+msgid "rows"
+msgstr "行数"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "translator-credits"
+msgstr ""
+"Wang Jian <lark@linux.net.cn>\n"
+"Jiang Xiong <jxiong@gwu.edu>\n"
+"Zipeco <zipeco@btamail.net.cn>\n"
+"Wang Li <charles@linux.net.cn>\n"
+"Funda Wang <fundawang@gmail.com>\n"
+"甘露 (Gan Lu) <rhythm.gan@gmail.com>\n"
+"Aron Xu <happyaron.xu@gmail.com>"

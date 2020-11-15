@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-13 12:14+0200\n"
+"PO-Revision-Date: 2015-07-23 17:57+0000\n"
+"Last-Translator: 玉堂白鹤 <yjwork@qq.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/mate/MATE/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "  - execute permission by others\n"
+msgstr "- 他人的执行权限\n"
+
+msgid "  - read permission by others\n"
+msgstr "- 他人的读权限\n"
+
+msgid "  - write permission by others\n"
+msgstr "- 他人的写权限\n"
+
+msgid "%s %s %s failed for an unknown reason"
+msgstr "%s %s %s 失败，原因未知"
+
+msgid "%s %s %s returned with signal %d"
+msgstr "%s %s %s 以 %d 信号返回"
+
+msgid "'net usershare' returned error %d"
+msgstr "“net usershare”返回了错误 %d"
+
+msgid "'net usershare' returned error %d: %s"
+msgstr "“net usershare”返回错误 %d：%s"
+
+msgid ".resized"
+msgstr ".resized"
+
+msgid ".rotated"
+msgstr ".rotated"
+
+msgid "1024x768"
+msgstr "1024x768"
+
+msgid "1280x960"
+msgstr "1280x960"
+
+msgid "128x128"
+msgstr "128x128"
+
+msgid "640x480"
+msgstr "640x480"
+
+msgid "800x600"
+msgstr "800x600"
+
+msgid "96x96"
+msgstr "96x96"
+
+msgid "<b>Compression</b>"
+msgstr "<b>压缩</b>"
+
+msgid "<b>Destination</b>"
+msgstr "<b>目的</b>"
+
+msgid "<b>Filename</b>"
+msgstr "<b>文件名</b>"
+
+msgid "<b>Image Rotation</b>"
+msgstr "<b>图像旋转</b>"
+
+msgid "<b>Image Size</b>"
+msgstr "<b>图像尺寸</b>"
+
+msgid "<b>hostname:</b>"
+msgstr "<b>主机名称：</b>"
+
+msgid "<big><b>Folder Sharing</b></big>"
+msgstr "<big><b>文件夹共享</b></big>"
+
+msgid ""
+"<big><b>Unable to determine the program to run.</b></big>\n"
+"\n"
+"The item you selected cannot be open with administrator powers because the correct application cannot be determined."
+msgstr ""
+"<big><b>无法确定待运行的程序。</b></big>\n"
+"\n"
+"由于无法确定正确的应用程序，您选择的项无法以管理员身份打开。"
+
+msgid "<i>Resizing \"%s\"</i>"
+msgstr "<i>正在调整 \"%s\" 大小</i>"
+
+msgid "<i>Rotating \"%s\"</i>"
+msgstr "<i>图像旋转进度 \"%s\"</i>"
+
+msgid "Add the permissions automatically"
+msgstr "自动添加权限"
+
+msgid "Allows to quickly set wallpaper"
+msgstr "允许快速设置壁纸"
+
+msgid "Allows to quickly share a folder"
+msgstr "允许快速分享文件夹"
+
+msgid "Another share has the same name"
+msgstr "与另一共享重名"
+
+msgid "Append"
+msgstr "附加"
+
+msgid "CD/DVD Creator"
+msgstr "CD/DVD 创建器"
+
+msgid ""
+"Caja needs to add some permissions to your folder \"%s\" in order to share "
+"it"
+msgstr "要让 Caja 共享您的文件夹“%s”，您需要给它添加一些权限"
+
+msgid ""
+"Cannot change the path of an existing share; please remove the old share "
+"first and add a new one"
+msgstr "无法更改现有共享的路径；请先移除旧的共享，再添加一个新的"
+
+msgid "Cannot remove the share for path %s: that path is not shared"
+msgstr "无法移除路径 %s 的共享：该路径未共享"
+
+msgid "Co_mment:"
+msgstr "注释(_M)："
+
+msgid "Could not change the permissions of folder \"%s\""
+msgstr "无法更改文件夹“%s”的权限"
+
+msgid "Could not load any plugins."
+msgstr "不能够加载任何插件。"
+
+msgid "Could not parse command-line options: %s\n"
+msgstr "不能够解析命令行选项：%s\n"
+
+msgid "Create _Share"
+msgstr "创建共享(_S)"
+
+msgid "Custom angle:"
+msgstr "自定义角度："
+
+msgid "Custom size:"
+msgstr "自定义尺寸："
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Error while getting share information: %s"
+msgstr "获取共享信息出错：%s"
+
+msgid "Existing CD/DVD"
+msgstr "现有的 CD/DVD"
+
+msgid "Expects URIs or filenames to be passed as options\n"
+msgstr "需要网址或者文件名称来作为选项\n"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Files"
+msgstr "文件"
+
+msgid "Folder Sharing"
+msgstr "文件夹共享"
+
+msgid "Gksu"
+msgstr "Gksu"
+
+msgid "Height:"
+msgstr "高度："
+
+msgid ""
+"If set to true, then opening a terminal on the desktop will open a terminal "
+"in the home directory. Otherwise, it will be opened in the desktop "
+"directory. Note that this key is irrelevant if the desktop directory is "
+"identical to the home directory."
+msgstr ""
+"如果设置为 true，在桌面上打开终端时将会在主目录中打开终端。否则会在桌面目录打开终端。注意如果桌面目录与主目录相同，则怎么设置没什么关系。"
+
+msgid "Image Converter"
+msgstr "图像转换工具"
+
+msgid "Instant Message (Gajim)"
+msgstr "即时消息 (Gajim)"
+
+msgid "Instant Message (Pidgin)"
+msgstr "及时信息 (Pidgin)"
+
+msgid "Integrates email clients and Pidgin"
+msgstr "集成电子邮件客户端和  "
+
+msgid "Modify _Share"
+msgstr "修改共享(_S)"
+
+msgid "New CD/DVD"
+msgstr "新建 CD/DVD"
+
+msgid "Open _Terminal"
+msgstr "打开终端(_T)"
+
+msgid "Open a terminal"
+msgstr "打开终端"
+
+msgid "Open as administrator"
+msgstr "以管理员身份打开"
+
+msgid "Open in _Terminal"
+msgstr "在终端中打开(_T)"
+
+msgid "Open terminal"
+msgstr "打开终端"
+
+msgid "Open terminals from folders"
+msgstr "从文件夹处打开终端"
+
+msgid "Open the currently open folder in a terminal"
+msgstr "在终端中打开当前文件夹"
+
+msgid "Open the currently selected folder in a terminal"
+msgstr "在终端中打开目前选中的文件夹"
+
+msgid "Opens the file with administrator privileges"
+msgstr "以管理员权限打开文件"
+
+msgid "Please enter a valid filename suffix!"
+msgstr "请输入一个有效的文件名后缀！"
+
+msgid "Please verify your installation"
+msgstr "请确认你的安装。"
+
+msgid "Privilege granting extension"
+msgstr "授权 扩展"
+
+msgid "Recipient is missing."
+msgstr "缺少接收者。"
+
+msgid "Removable disks and shares"
+msgstr "可移动磁盘和共享"
+
+msgid "Resize Images"
+msgstr "调整图像大小"
+
+msgid "Resize each selected image"
+msgstr "调整每个选中图像的大小"
+
+msgid "Resize in place"
+msgstr "就地调整大小"
+
+msgid "Resizing image: %d of %d"
+msgstr "正在调整图像大小：%d/%d"
+
+msgid "Ro_tate Images..."
+msgstr "旋转图像(_T)..."
+
+msgid "Rotate Images"
+msgstr "旋转图像"
+
+msgid "Rotate and resize images"
+msgstr "旋转和调整图像大小"
+
+msgid "Rotate each selected image"
+msgstr "旋转每个选中的图像"
+
+msgid "Rotate in place"
+msgstr "就地旋转"
+
+msgid "Rotating image: %d of %d"
+msgstr "正在旋转图像：%d/%d"
+
+msgid "Samba's testparm failed for an unknown reason"
+msgstr "Samba 的 testparm 失败，原因未知"
+
+msgid "Samba's testparm returned error %d"
+msgstr "Samba 的 testparm 返回了错误 %d"
+
+msgid "Samba's testparm returned error %d: %s"
+msgstr "Samba 的 testparm 返回了错误 %d：%s"
+
+msgid "Samba's testparm returned with signal %d"
+msgstr "Samba 的 testparm 以信号 %d 返回"
+
+msgid "Scale:"
+msgstr "缩放："
+
+msgid "Select a size:"
+msgstr "选择一个尺寸："
+
+msgid "Select an angle:"
+msgstr "选择一个角度："
+
+msgid "Send To"
+msgstr "发送给"
+
+msgid "Send To..."
+msgstr "发送至..."
+
+msgid "Send _as:"
+msgstr "发送作为(_A)："
+
+msgid "Send _packed in:"
+msgstr "打包发送(_P)："
+
+msgid "Send file by mail, instant message..."
+msgstr "通过邮件、即时通讯发送文件..."
+
+msgid "Send files by mail, instant message..."
+msgstr "通过邮件、即时通讯发送文件..."
+
+msgid "Send t_o:"
+msgstr "发送到(_O)："
+
+msgid "Send to..."
+msgstr "发送到..."
+
+msgid "Sending file failed"
+msgstr "发送文件失败"
+
+msgid "Set as wallpaper..."
+msgstr "设置为壁纸..."
+
+msgid "Set image as the current wallpaper..."
+msgstr "设置图像为当前壁纸..."
+
+msgid "Share"
+msgstr "共享"
+
+msgid "Share _name:"
+msgstr "共享名(_N)："
+
+msgid "Share name is too long"
+msgstr "共享名太长"
+
+msgid "Share this Folder"
+msgstr "共享此文件夹"
+
+msgid "Share this _folder"
+msgstr "共享此文件夹(_F)"
+
+msgid "Sharing Options"
+msgstr "共享选项"
+
+msgid ""
+"The folder \"%s\" needs the following extra permissions for sharing to work:\n"
+"%s%s%sDo you want Caja to add these permissions to the folder automatically?"
+msgstr ""
+"文件夹“%s”需要增加以下权限才能共享：\n"
+"%s%s%s您想让 Caja 自动给该文件夹添加这些权限吗？"
+
+msgid "The share name cannot be empty"
+msgstr "共享名不能为空"
+
+msgid "There is no connection to gajim remote service."
+msgstr "不存在到 gajim 远程服务的连接。"
+
+msgid "There was an error while getting the sharing information"
+msgstr "获取共享信息时出错"
+
+msgid "UPnP Media Server"
+msgstr "UPnP 媒体服务器"
+
+msgid "Unable to send file"
+msgstr "无法发送文件"
+
+msgid "Unknown recipient."
+msgstr "未知接收者。"
+
+msgid "Wallpaper"
+msgstr "壁纸"
+
+msgid ""
+"Whether opening a terminal on the desktop opens a terminal in the home "
+"directory"
+msgstr "无论是在桌面上，还是在主目录下，都可以打开终端。"
+
+msgid "Width:"
+msgstr "宽度："
+
+msgid "_Allow others to create and delete files in this folder"
+msgstr "允许他人在文件夹中创建和删除文件(_A)"
+
+msgid "_Guest access (for people without a user account)"
+msgstr "游客访问(针对没有账户的人)(_G)"
+
+msgid "_Resize"
+msgstr "改变大小(_R)"
+
+msgid "_Resize Images..."
+msgstr "调整图像大小(_R)..."
+
+msgid "_Retry"
+msgstr "重试(_R)"
+
+msgid "_Rotate"
+msgstr "旋转(_R)"
+
+msgid "_Send"
+msgstr "发送(_S)"
+
+msgid "_Skip"
+msgstr "跳过(_S)"
+
+msgid "degrees clockwise"
+msgstr "度-顺时针"
+
+msgid "percent"
+msgstr "百分比"
+
+msgid "pixels"
+msgstr "像素"
+
+msgid "the output of 'net usershare' is not in valid UTF-8 encoding"
+msgstr "“net usershare”的输出不是有效的 UTF-8 编码"
+
+msgid "to file title"
+msgstr "到文件标题"

@@ -1,0 +1,614 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opcodes 2.24.90\n"
+"Report-Msgid-Bugs-To: bug-binutils@gnu.org\n"
+"POT-Creation-Date: 2014-02-10 09:42+1030\n"
+"PO-Revision-Date: 2016-04-02 07:57+0000\n"
+"Last-Translator: Mingye Wang <arthur2e5@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:53+0000\n"
+
+msgid "\n"
+msgstr "\n"
+
+msgid ""
+"\n"
+"  For the options above, The following values are supported for \"ARCH\":\n"
+"   "
+msgstr ""
+"\n"
+"  对于以上的选项，以下值可被用于 \"ARCH\"：\n"
+"   "
+
+msgid ""
+"\n"
+"  For the options above, the following values are supported for \"ABI\":\n"
+"   "
+msgstr ""
+"\n"
+"  对于以上的选项，以下值可被用于 \"ABI\"：\n"
+"   "
+
+msgid ""
+"\n"
+"  aliases            Do print instruction aliases.\n"
+msgstr ""
+"\n"
+"  aliases            要打印指令别名。\n"
+
+msgid ""
+"\n"
+"  cp0-names=ARCH           Print CP0 register names according to\n"
+"                           specified architecture.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+"\n"
+"  cp0-names=ARCH           根据指定的架构打印 CP0 寄存器名。\n"
+"                           默认：根据被反汇编的二进制代码。\n"
+
+msgid ""
+"\n"
+"  debug_dump         Temp switch for debug trace.\n"
+msgstr ""
+"\n"
+"  debug_dump         调试跟踪的临时开关。\n"
+
+msgid ""
+"\n"
+"  fpr-names=ABI            Print FPR names according to specified ABI.\n"
+"                           Default: numeric.\n"
+msgstr ""
+"\n"
+"  fpr-names=ABI            根据指定的 ABI 打印浮点寄存器名。\n"
+"                           默认：数字。\n"
+
+msgid ""
+"\n"
+"  gpr-names=ABI            Print GPR names according to  specified ABI.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+"\n"
+"  gpr-names=ABI            根据指定的 ABI 打印通用寄存器名。\n"
+"                           默认：根据被反汇编的二进制文件。\n"
+
+msgid ""
+"\n"
+"  hwr-names=ARCH           Print HWR names according to specified \n"
+"\t\t\t   architecture.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+"\n"
+"  hwr-names=ARCH           根据指定的架构打印 HWR 寄存器名。\n"
+"                           默认：根据被反汇编的二进制代码。\n"
+
+msgid ""
+"\n"
+"  msa             Recognize MSA instructions.\n"
+msgstr ""
+"\n"
+"  msa             识别 MSA 指令。\n"
+
+msgid ""
+"\n"
+"  no-aliases         Don't print instruction aliases.\n"
+msgstr ""
+"\n"
+"  no-aliases         不要打印指令别名。\n"
+
+msgid ""
+"\n"
+"  reg-names=ABI            Print GPR and FPR names according to\n"
+"                           specified ABI.\n"
+msgstr ""
+"\n"
+"  reg-names=ABI            根据指定的 ABI 打印通用寄存器和浮点寄存\n"
+"                           器名。\n"
+
+msgid ""
+"\n"
+"  reg-names=ARCH           Print CP0 register and HWR names according to\n"
+"                           specified architecture.\n"
+msgstr ""
+"\n"
+"  reg-names=ARCH           根据指定的架构打印 CP0 和 HWR 寄存器名。\n"
+
+msgid ""
+"\n"
+"  virt            Recognize the virtualization ASE instructions.\n"
+msgstr ""
+"\n"
+"  virt            识别虚拟化 ASE 指令。\n"
+
+msgid ""
+"\n"
+"The following AARCH64 specific disassembler options are supported for use\n"
+"with the -M switch (multiple options should be separated by commas):\n"
+msgstr ""
+"\n"
+"下列 AARCH64 特定的反汇编器选项可通过 -M 开关启用（使用逗号分隔多个选项）：\n"
+
+msgid ""
+"\n"
+"The following ARM specific disassembler options are supported for use with\n"
+"the -M switch:\n"
+msgstr ""
+"\n"
+"下列 ARM 特定的反汇编器选项可通过 -M 开关启用：\n"
+
+msgid ""
+"\n"
+"The following MIPS specific disassembler options are supported for use\n"
+"with the -M switch (multiple options should be separated by commas):\n"
+msgstr ""
+"\n"
+"下列 MIPS 特定的反汇编器选项可通过 -M 开关启用（使用逗号分隔多个选项）：\n"
+
+msgid ""
+"\n"
+"The following PPC specific disassembler options are supported for use with\n"
+"the -M switch:\n"
+msgstr ""
+"\n"
+"下列 PPC 特定的反汇编器选项在使用 -M 开关时可用（使用逗号分隔多个选项）：\n"
+
+msgid ""
+"\n"
+"The following S/390 specific disassembler options are supported for use\n"
+"with the -M switch (multiple options should be separated by commas):\n"
+msgstr ""
+"\n"
+"下列 S/390 特定的反汇编器选项可通过 -M 开关启用（使用逗号分隔多个选项）：\n"
+
+msgid ""
+"\n"
+"The following i386/x86-64 specific disassembler options are supported for use\n"
+"with the -M switch (multiple options should be separated by commas):\n"
+msgstr ""
+"\n"
+"下列 i386/x86-64 特定的反汇编器选项在使用 -M 开关时可用（使用逗号分隔多个选项）：\n"
+
+msgid "  addr16      Assume 16bit address size\n"
+msgstr "  addr16      假定 16 位地址大小\n"
+
+msgid "  addr32      Assume 32bit address size\n"
+msgstr "  addr32      假定 32 位地址大小\n"
+
+msgid "  addr64      Assume 64bit address size\n"
+msgstr "  addr64      假定 64 位地址大小\n"
+
+msgid "  att         Display instruction in AT&T syntax\n"
+msgstr "  att         用 AT&T 语法显示指令\n"
+
+msgid "  data16      Assume 16bit data size\n"
+msgstr "  data16      假定 16 位数据大小\n"
+
+msgid "  data32      Assume 32bit data size\n"
+msgstr "  data32      假定 32 位数据大小\n"
+
+msgid "  esa         Disassemble in ESA architecture mode\n"
+msgstr "  esa         在 ESA 架构模式下反汇编\n"
+
+msgid "  i8086       Disassemble in 16bit mode\n"
+msgstr "  i8086       在 16 位模式下反汇编\n"
+
+msgid "  intel       Display instruction in Intel syntax\n"
+msgstr "  intel       用 Intel 语法显示指令\n"
+
+msgid "  suffix      Always display instruction suffix in AT&T syntax\n"
+msgstr "  suffix      在 AT&T 语法中始终显示指令后缀\n"
+
+msgid "# <dis error: %08lx>"
+msgstr "# <反汇编出错: %08lx>"
+
+msgid "$<undefined>"
+msgstr "$<未定义>"
+
+msgid "%02x\t\t*unknown*"
+msgstr "%02x\t\t*未知*"
+
+msgid "%dsp16() takes a symbolic address, not a number"
+msgstr "%dsp16() 使用一个符号地址，而非数字"
+
+msgid "%dsp8() takes a symbolic address, not a number"
+msgstr "%dsp8() 使用一个符号地址，而非数字"
+
+msgid "%s: Error: "
+msgstr "%s：错误： "
+
+msgid "%s: Warning: "
+msgstr "%s：警告： "
+
+msgid "'ROR' operator not allowed"
+msgstr "不允许 'ROR' 操作符"
+
+msgid "(DP) offset out of range."
+msgstr "(DP) 偏移量越界"
+
+msgid "(SP) offset out of range."
+msgstr "(SP) 偏移量越界。"
+
+msgid "(unknown)"
+msgstr "(未知)"
+
+msgid "*unknown*"
+msgstr "*未知*"
+
+msgid "21-bit offset out of range"
+msgstr "21位长的偏移量越界"
+
+msgid "<function code %d>"
+msgstr "<函数代码 %d>"
+
+msgid "<illegal precision>"
+msgstr "<非法的精度>"
+
+msgid "<internal disassembler error>"
+msgstr "<反汇编器内部错误>"
+
+msgid "<internal error in opcode table: %s %s>\n"
+msgstr "<操作数表中出现内部错误：%s %s>\n"
+
+msgid "<unknown register %d>"
+msgstr "<未知的寄存器 %d>"
+
+msgid "Address 0x%s is out of bounds.\n"
+msgstr "地址 0x%s 越界。\n"
+
+msgid "Bad immediate expression"
+msgstr "错误的立即数表达式"
+
+msgid "Bad register in postincrement"
+msgstr "后置自增中使用了错误的寄存器"
+
+msgid "Bad register in preincrement"
+msgstr "前置自增中使用了错误的寄存器"
+
+msgid "Bad register name"
+msgstr "错误的寄存器名"
+
+msgid "Don't know how to specify # dependency %s\n"
+msgstr "不知道如何指定 # 依赖 %s\n"
+
+msgid "Hmmmm 0x%x"
+msgstr "咦... 0x%x"
+
+msgid "Immediate is out of range -128 to 127"
+msgstr "立即数越界 (-128 到 127)"
+
+msgid "Immediate is out of range -32768 to 32767"
+msgstr "立即数越界 (-32768 到 32767)"
+
+msgid "Immediate is out of range -512 to 511"
+msgstr "立即数越界 (-512 到 511)"
+
+msgid "Immediate is out of range -7 to 8"
+msgstr "立即数越界 (-7 到 8)"
+
+msgid "Immediate is out of range -8 to 7"
+msgstr "立即数越界 (-8 到 7)"
+
+msgid "Immediate is out of range 0 to 65535"
+msgstr "立即数越界 (0 到 65535)"
+
+msgid "Internal disassembler error"
+msgstr "反汇编器内部错误"
+
+msgid "Internal error:  bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
+msgstr "内部错误：错误的 sparc-opcode.h：“%s”，%#.8lx，%#.8lx\n"
+
+msgid "Internal error: bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
+msgstr "内部错误：错误的 sparc-opcode.h：“%s”，%#.8lx，%#.8lx\n"
+
+msgid "Label conflicts with `Rx'"
+msgstr "标号与‘Rx’冲突"
+
+msgid "Label conflicts with register name"
+msgstr "标号与寄存器名冲突"
+
+msgid "Missing '#' prefix"
+msgstr "缺失 '#' 前缀"
+
+msgid "Missing '.' prefix"
+msgstr "缺失 '.' 前缀"
+
+msgid "Missing 'pag:' prefix"
+msgstr "缺失 'pag:' 前缀"
+
+msgid "Missing 'pof:' prefix"
+msgstr "缺失 'pof:' 前缀"
+
+msgid "Missing 'seg:' prefix"
+msgstr "缺失 'seg:' 前缀"
+
+msgid "Missing 'sof:' prefix"
+msgstr "缺失 'sof:' 前缀"
+
+msgid "Operand is not a symbol"
+msgstr "操作数不是一个符号"
+
+msgid "Register list is not valid"
+msgstr "寄存器列表无效"
+
+msgid "Register must be between r0 and r7"
+msgstr "寄存器必须介于r0和r7之间"
+
+msgid "Register must be between r8 and r15"
+msgstr "寄存器必须介于r8和r15之间"
+
+msgid "Register number is not valid"
+msgstr "寄存器号无效"
+
+msgid "SR/SelID is out of range"
+msgstr "SR/SelID 越界"
+
+msgid "Syntax error: No trailing ')'"
+msgstr "语法错误：没有结尾的‘)’"
+
+msgid "Unknown error %d\n"
+msgstr "未知错误 %d\n"
+
+msgid "Unrecognised disassembler option: %s\n"
+msgstr "无法识别的反汇编器选项：%s\n"
+
+msgid "Unrecognised register name set: %s\n"
+msgstr "无法识别的寄存器名称集：%s\n"
+
+msgid "Unrecognized field %d while building insn.\n"
+msgstr "建立 insn 时遇到无法识别的字段 %d。\n"
+
+msgid "Unrecognized field %d while decoding insn.\n"
+msgstr "解码 insn 时遇到无法识别的字段 %d。\n"
+
+msgid "Unrecognized field %d while getting int operand.\n"
+msgstr "获得 int 操作数时遇到无法识别的字段 %d。\n"
+
+msgid "Unrecognized field %d while getting vma operand.\n"
+msgstr "获得 vma 操作数时遇到无法识别的字段 %d。\n"
+
+msgid "Unrecognized field %d while printing insn.\n"
+msgstr "打印 insn 时遇到无法识别的字段 %d。\n"
+
+msgid "Unrecognized field %d while setting int operand.\n"
+msgstr "设置 int 操作数时遇到无法识别的字段 %d。\n"
+
+msgid "Unrecognized field %d while setting vma operand.\n"
+msgstr "设置 vma 操作数时遇到无法识别的字段 %d。\n"
+
+msgid "Value is not aligned enough"
+msgstr "数值对齐程度不够"
+
+msgid "Value of A operand must be 0 or 1"
+msgstr "A 操作数必须为0或1"
+
+msgid "W keyword invalid in FR operand slot."
+msgstr "W 关键字非法，在 FR 操作数槽位中。"
+
+msgid "W register expected"
+msgstr "预期的 W 寄存器"
+
+msgid "address writeback expected"
+msgstr "预期的地址写回"
+
+msgid "attempt to read writeonly register"
+msgstr "试图读取只写寄存器"
+
+msgid "attempt to set HR bits"
+msgstr "试图设置 HR 位"
+
+msgid "attempt to set readonly register"
+msgstr "试图设置只读寄存器"
+
+msgid "bad instruction `%.50s'"
+msgstr "错误的指令‘%.50s’"
+
+msgid "bad instruction `%.50s...'"
+msgstr "错误的指令‘%.50s...’"
+
+msgid "branch operand unaligned"
+msgstr "分支操作数未对齐"
+
+msgid "branch to odd offset"
+msgstr "跳转偏移量为奇数"
+
+msgid "branch value not in range and to odd offset"
+msgstr "跳转越界且跳转偏移量为奇数"
+
+msgid "branch value out of range"
+msgstr "跳转越界"
+
+msgid "displacement value is not aligned"
+msgstr "偏移值未对齐"
+
+msgid "displacement value is out of range"
+msgstr "偏移值越界"
+
+msgid "don't know how to specify %% dependency %s\n"
+msgstr "不知道如何指定 %% 依赖 %s\n"
+
+msgid "dsp:16 immediate is out of range"
+msgstr "dsp:16 立即数越界"
+
+msgid "dsp:20 immediate is out of range"
+msgstr "dsp:20 立即数越界"
+
+msgid "dsp:24 immediate is out of range"
+msgstr "dsp:24 立即数越界"
+
+msgid "dsp:8 immediate is out of range"
+msgstr "dsp:8 立即数越界"
+
+msgid "extraneous register"
+msgstr "多余寄存器"
+
+msgid "floating-point immediate expected"
+msgstr "预期的浮点常量立即数"
+
+msgid "illegal bitmask"
+msgstr "非法的位掩码"
+
+msgid "illegal use of parentheses"
+msgstr "括号用法非法"
+
+msgid "imm10 is out of range"
+msgstr "imm10 越界"
+
+msgid "imm:6 immediate is out of range"
+msgstr "imm:6 立即数越界"
+
+msgid "immediate is out of range 0-7"
+msgstr "立即数越界 0-7"
+
+msgid "immediate is out of range 1-2"
+msgstr "立即数越界 1-2"
+
+msgid "immediate is out of range 1-8"
+msgstr "立即数越界 1-8"
+
+msgid "immediate is out of range 2-9"
+msgstr "立即数越界 2-9"
+
+msgid "immediate offset"
+msgstr "立即数偏移"
+
+msgid "immediate out of range"
+msgstr "立即数越界"
+
+msgid "immediate value"
+msgstr "立即数"
+
+msgid "immediate value cannot be register"
+msgstr "立即数不能是寄存器"
+
+msgid "immediate value is out of range"
+msgstr "立即数越界"
+
+msgid "immediate value out of range"
+msgstr "立即数越界"
+
+msgid "invalid conditional option"
+msgstr "无效的条件选项"
+
+msgid "invalid mask field"
+msgstr "无效的掩码字段"
+
+msgid "invalid register for stack adjustment"
+msgstr "用于调整堆栈的寄存器无效"
+
+msgid "invalid register name"
+msgstr "无效寄存器名"
+
+msgid "invalid register number `%d'"
+msgstr "无效的寄存器号 `%d'"
+
+msgid "invalid register offset"
+msgstr "无效的寄存器偏移量"
+
+msgid "invalid shift amount"
+msgstr "无效的移位操作数"
+
+msgid "invalid shift operator"
+msgstr "无效的移位操作符"
+
+msgid "jump hint unaligned"
+msgstr "跳转提示未对齐"
+
+msgid "junk at end of line"
+msgstr "行尾有垃圾字符"
+
+msgid "missing `)'"
+msgstr "缺少‘)’"
+
+msgid "missing `]'"
+msgstr "缺少 `]'"
+
+msgid "missing mnemonic in syntax string"
+msgstr "语法字符串中没有助记符"
+
+msgid "missing register"
+msgstr "缺失寄存器"
+
+msgid "negative immediate value not allowed"
+msgstr "不允许负立即数"
+
+msgid "negative or unaligned offset expected"
+msgstr "预期的负或未对齐的偏移量"
+
+msgid "operand out of range (%ld not between %ld and %ld)"
+msgstr "操作数越界(%ld 不在 %ld 和 %ld 之间)"
+
+msgid "operand out of range (%ld not between %ld and %lu)"
+msgstr "操作数越界 (%ld 不在 %ld 和 %lu 之间)"
+
+msgid "operand out of range (%lu not between %lu and %lu)"
+msgstr "操作数越界(%lu 不在 %lu 和 %lu 之间)"
+
+msgid "register element index"
+msgstr "寄存器元素下标"
+
+msgid "register number"
+msgstr "寄存器数"
+
+msgid "register number must be even"
+msgstr "寄存器数必须是偶数"
+
+msgid "shift amount"
+msgstr "移位操作数"
+
+msgid "shift amount expected to be 0 or 12"
+msgstr "移位量预计为 0 或 12"
+
+msgid "shift amount should be a multiple of 16"
+msgstr "移位量应该是 16 的倍数"
+
+msgid "shift operator expected"
+msgstr "预期的移位操作符"
+
+msgid "stack pointer register expected"
+msgstr "预期的堆栈指针寄存器"
+
+msgid "store value must be zero"
+msgstr "存储值必须为0"
+
+msgid "syntax error (expected char `%c', found `%c')"
+msgstr "语法错误(需要字符‘%c’，得到‘%c’)"
+
+msgid "syntax error (expected char `%c', found end of instruction)"
+msgstr "语法错误(需要字符‘%c’，却到达指令尾)"
+
+msgid "unable to change directory to \"%s\", errno = %s\n"
+msgstr "无法将当前目录切换至“%s”，errno = %s\n"
+
+msgid "undefined"
+msgstr "未定义"
+
+msgid "unexpected address writeback"
+msgstr "意外的地址写回"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown\t0x%02lx"
+msgstr "未知\t0x%02lx"
+
+msgid "unknown\t0x%04lx"
+msgstr "未知\t0x%04lx"
+
+msgid "unknown constraint `%c'"
+msgstr "未知的约束‘%c’"
+
+msgid "unrecognized form of instruction"
+msgstr "无法识别的指令格式"
+
+msgid "unrecognized instruction"
+msgstr "无法识别的指令"
+
+msgid "vector5 is out of range"
+msgstr "vector5 越界"
+
+msgid "vector8 is out of range"
+msgstr "vector8 越界"

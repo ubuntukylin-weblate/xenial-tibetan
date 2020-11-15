@@ -1,0 +1,788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-keyring master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-keyring&keywords=I18N+L10N&component=gcr\n"
+"POT-Creation-Date: 2015-12-03 21:38+0000\n"
+"PO-Revision-Date: 2016-03-24 09:01+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 08:09+0000\n"
+
+msgid "%u bit"
+msgid_plural "%u bits"
+msgstr[0] "%u 位"
+
+msgid "- View certificate and key files"
+msgstr "- 查看证书和密钥文件"
+
+msgid "A file already exists with this name."
+msgstr "同名的文件已经存在。"
+
+msgid "Access Prompt"
+msgstr "访问提示"
+
+msgid "Algorithm"
+msgstr "算法"
+
+msgid "Allowed Purposes"
+msgstr "允许的用途"
+
+msgid "Another prompt is already in progress"
+msgstr "另一个提示正在进行中"
+
+msgid "Attribute"
+msgstr "属性"
+
+msgid "Authenticate"
+msgstr "认证"
+
+msgid "Automatically chosen"
+msgstr "自动选择"
+
+msgid "Automatically unlock this keyring whenever I'm logged in"
+msgstr "当我登录时自动解锁此密钥环。"
+
+msgid "Basic Constraints"
+msgstr "基本约束"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot display a file of this type."
+msgstr "无法显示此类型的文件。"
+
+msgid "Cannot import because there are no compatible importers"
+msgstr "无法导入，因为没有兼容的导入方"
+
+msgid "Capabilities"
+msgstr "权限"
+
+msgid "Casual certification of key"
+msgstr "密钥临时认证"
+
+msgid "Certificate"
+msgstr "证书"
+
+msgid "Certificate Authority"
+msgstr "证书授权"
+
+msgid "Certificate Fingerprints"
+msgstr "证书指纹"
+
+msgid "Certificate Request"
+msgstr "证书请求"
+
+msgid "Certificate Viewer"
+msgstr "证书查看器"
+
+msgid "Certificate files"
+msgstr "证书文件"
+
+msgid "Certificate request"
+msgstr "证书请求"
+
+msgid "Certificate signature"
+msgstr "证书签名"
+
+msgid "Certification revocation signature"
+msgstr "证书作废签名"
+
+msgid "Certify"
+msgstr "证书"
+
+msgid "Challenge"
+msgstr "挑战"
+
+msgid "Class"
+msgstr "类别"
+
+msgid "Client Authentication"
+msgstr "客户端认证"
+
+msgid "Code Signing"
+msgstr "代码签署"
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "Common Name"
+msgstr "常用名"
+
+msgid "Confirm:"
+msgstr "确认："
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Could not display '%s'"
+msgstr "无法显示“%s”"
+
+msgid "Could not display file"
+msgstr "无法显示文件"
+
+msgid "Could not parse invalid or corrupted data."
+msgstr "无法解析非法的或已损坏的数据。"
+
+msgid "Couldn't build public key"
+msgstr "无法创建公开密钥"
+
+msgid "Couldn't export the certificate."
+msgstr "不能导出证书。"
+
+msgid "Couldn't find a place to store the pinned certificate"
+msgstr "没有找到可以用来来保存个人身份证明的位置。"
+
+msgid "Couldn't initialize PKCS#11 module: %s"
+msgstr "无法初始化 PKCS#11 模块：%s"
+
+msgid "Couldn't initialize registered PKCS#11 modules: %s"
+msgstr "无法初始化注册的 PKCS#11 模块：%s"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Country of Citizenship"
+msgstr "国籍"
+
+msgid "Country of Residence"
+msgstr "定居国"
+
+msgid "Created"
+msgstr "创建"
+
+msgid "Critical"
+msgstr "关键"
+
+msgid "DN Qualifier"
+msgstr "DN 限定人"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS SRV"
+msgstr "DNS SRV"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Data encipherment"
+msgstr "数据加密"
+
+msgid "Date of Birth"
+msgstr "生日"
+
+msgid "Digital signature"
+msgstr "数字签名"
+
+msgid "Directory Name"
+msgstr "目录名"
+
+msgid "Distrusted"
+msgstr "不信任"
+
+msgid "Do you want to replace it with a new file?"
+msgstr "您想用新文件替换它吗？"
+
+msgid "Domain Component"
+msgstr "域组件"
+
+msgid "EDI Party Name"
+msgstr "EDI 方的名称"
+
+msgid "Elgamal"
+msgstr "Elgamal"
+
+msgid "Elliptic Curve"
+msgstr "椭圆曲线"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Email Address"
+msgstr "电子邮箱地址"
+
+msgid "Email Protection"
+msgstr "邮件防护"
+
+msgid "Encrypt"
+msgstr "加密"
+
+msgid "Error loading PKCS#11 module: %s"
+msgstr "加载 PKCS#11 模块失败：%s"
+
+msgid "Expired"
+msgstr "过期"
+
+msgid "Expires"
+msgstr "过期"
+
+msgid "Expiry"
+msgstr "过期"
+
+msgid "Export Certificate…"
+msgstr "导出证书..."
+
+msgid "Export certificate"
+msgstr "导出证书"
+
+msgid "Exportable"
+msgstr "可导出的"
+
+msgid "Extended Key Usage"
+msgstr "延长密钥使用"
+
+msgid "Extension"
+msgstr "扩展"
+
+msgid "Fingerprint"
+msgstr "指纹"
+
+msgid "Fingerprints"
+msgstr "指纹"
+
+msgid "Fully trusted"
+msgstr "完全信任"
+
+msgid "GCR Certificate and Key Viewer"
+msgstr "GCR 证书和密钥查看器"
+
+msgid "Gender"
+msgstr "性别"
+
+msgid "Generation Qualifier"
+msgstr "操作限定人"
+
+msgid "Generic certification of key"
+msgstr "密钥通用认证"
+
+msgid "Given Name"
+msgstr "名"
+
+msgid "GnuPG Keyring"
+msgstr "GnuPG 密钥环"
+
+msgid "GnuPG Keyring: %s"
+msgstr "GnuPG 密钥环：%s"
+
+msgid "Gnupg process exited with code: %d"
+msgstr "Gnupg 进程退出，退出代码为：%d"
+
+msgid "Gnupg process was terminated with signal: %d"
+msgstr "Gnupg 进程由 %d 信号中止"
+
+msgid "IP Address"
+msgstr "IP 地址"
+
+msgid "Identifier"
+msgstr "识别标志"
+
+msgid "Identity"
+msgstr "身份"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import failed"
+msgstr "导入失败"
+
+msgid "Import is in progress…"
+msgstr "正在进行导入..."
+
+msgid "Import settings"
+msgstr "导入设置"
+
+msgid "Import to: %s"
+msgstr "导入： %s"
+
+msgid "Imported"
+msgstr "已导入"
+
+msgid "Imported to: %s"
+msgstr "导入到： %s"
+
+msgid "In order to import, please enter the password."
+msgstr "要导入，请输入密码。"
+
+msgid "Initializing…"
+msgstr "初始化..."
+
+msgid "Initials"
+msgstr "首字母"
+
+msgid "Invalid"
+msgstr "无效"
+
+msgid "Issued Certificate"
+msgstr "颁发的证书"
+
+msgid "Issuer Name"
+msgstr "颁发者名称"
+
+msgid "Key"
+msgstr "密钥"
+
+msgid "Key Algorithm"
+msgstr "密钥算法"
+
+msgid "Key ID"
+msgstr "密钥 ID"
+
+msgid "Key Identifier"
+msgstr "密钥标识"
+
+msgid "Key Parameters"
+msgstr "密钥参数"
+
+msgid "Key SHA1 Fingerprint"
+msgstr "密钥 SHA1 指纹"
+
+msgid "Key Size"
+msgstr "密钥大小"
+
+msgid "Key Usage"
+msgstr "密钥使用"
+
+msgid "Key agreement"
+msgstr "密钥协议"
+
+msgid "Key encipherment"
+msgstr "密钥加密"
+
+msgid "Key revocation signature"
+msgstr "密钥作废签名"
+
+msgid "Label:"
+msgstr "标签："
+
+msgid "Local only"
+msgstr "仅本地"
+
+msgid "Locality"
+msgstr "位置"
+
+msgid "Lock this keyring after"
+msgstr "之后锁住此密钥环"
+
+msgid "Lock this keyring if idle for"
+msgstr "锁定该密钥环于空闲"
+
+msgid "Lock this keyring when I log out"
+msgstr "在我注销时锁住此密钥环"
+
+msgid "MD2 with RSA"
+msgstr "使用 MD2 算法的 RSA 密钥对"
+
+msgid "MD5 with RSA"
+msgstr "使用 MD5 算法的 RSA 密钥对"
+
+msgid "Marginally trusted"
+msgstr "最低程度信任"
+
+msgid "Max Path Length"
+msgstr "最大路径长度"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "No"
+msgstr "否"
+
+msgid "No data to import"
+msgstr "无可导入数据"
+
+msgid "Not Valid After"
+msgstr "在此之后无效"
+
+msgid "Not Valid Before"
+msgstr "在此之前无效"
+
+msgid "Organization"
+msgstr "组织"
+
+msgid "Organizational Unit"
+msgstr "单位"
+
+msgid "Other Name"
+msgstr "其他名称"
+
+msgid "Owner trust"
+msgstr "所有者信任"
+
+msgid "PEM files"
+msgstr "PEM 文件"
+
+msgid "PGP Key"
+msgstr "PGP 密钥"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password cannot be blank"
+msgstr "密码不能为空"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Passwords do not match."
+msgstr "密码不匹配。"
+
+msgid "Persona certification of key"
+msgstr "密钥角色认证"
+
+msgid "Place of Birth"
+msgstr "出生地"
+
+msgid "Positive certification of key"
+msgstr "密钥可靠认证"
+
+msgid "Primary key binding signature"
+msgstr "主密钥绑定签名"
+
+msgid "Private DSA Key"
+msgstr "DSA 私钥"
+
+msgid "Private Elliptic Curve Key"
+msgstr "私有椭圆曲线密钥"
+
+msgid "Private Key"
+msgstr "私钥"
+
+msgid "Private RSA Key"
+msgstr "RSA 私钥"
+
+msgid "Pseudonym"
+msgstr "笔名"
+
+msgid "Public DSA Key"
+msgstr "DSA 公钥"
+
+msgid "Public Elliptic Curve Key"
+msgstr "公有椭圆曲线密钥"
+
+msgid "Public Key"
+msgstr "公钥"
+
+msgid "Public Key Info"
+msgstr "公开密钥信息"
+
+msgid "Public Subkey"
+msgstr "公开子密钥"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Reason"
+msgstr "原因"
+
+msgid "Registered ID"
+msgstr "注册的 ID"
+
+msgid "Revocation Key"
+msgstr "作废密钥"
+
+msgid "Revocation list signature"
+msgstr "作废列表签名"
+
+msgid "Revoked"
+msgstr "作废"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA1 with DSA"
+msgstr "使用 SHA1 算法的 DSA 密钥对"
+
+msgid "SHA1 with ECDSA"
+msgstr "有 ECDSA 的 SHA1"
+
+msgid "SHA1 with RSA"
+msgstr "使用 SHA1 算法的 RSA 密钥对"
+
+msgid "SHA224 with ECDSA"
+msgstr "有 ECDSA 的 SHA224"
+
+msgid "SHA256"
+msgstr "SHA256"
+
+msgid "SHA256 with ECDSA"
+msgstr "有 ECDSA 的 SHA256"
+
+msgid "SHA384 with ECDSA"
+msgstr "有 ECDSA 的 SHA384"
+
+msgid "SHA512 with ECDSA"
+msgstr "有 ECDSA 的 SHA512"
+
+msgid "Secret Key"
+msgstr "私有密钥"
+
+msgid "Secret Subkey"
+msgstr "私有子密钥"
+
+msgid "Serial Number"
+msgstr "序列号"
+
+msgid "Server Authentication"
+msgstr "服务器认证"
+
+msgid "Show the application's version"
+msgstr "显示应用程序版本"
+
+msgid "Sign"
+msgstr "签名"
+
+msgid "Signature"
+msgstr "签名"
+
+msgid "Signature Algorithm"
+msgstr "签名算法"
+
+msgid "Signature Parameters"
+msgstr "签名参数"
+
+msgid "Signature directly on key"
+msgstr "直接在密钥上签名"
+
+msgid "Signature of a binary document"
+msgstr "二进制文档的签名"
+
+msgid "Signature of a canonical text document"
+msgstr "标准文本文档的签名"
+
+msgid "Size"
+msgstr "长度"
+
+msgid "Standalone signature"
+msgstr "独立签名"
+
+msgid "State"
+msgstr "州/省"
+
+msgid "Street"
+msgstr "街道"
+
+msgid "Strength"
+msgstr "强度"
+
+msgid "Subject Alternative Names"
+msgstr "主体备用名称"
+
+msgid "Subject Key Identifier"
+msgstr "主体密钥标识"
+
+msgid "Subject Name"
+msgstr "主体名"
+
+msgid "Subkey binding signature"
+msgstr "子密钥绑定签名"
+
+msgid "Subkey revocation signature"
+msgstr "子密钥作废签名"
+
+msgid "Surname"
+msgstr "姓"
+
+msgid "Telephone Number"
+msgstr "电话号码"
+
+msgid "The URI does not have the 'pkcs11' scheme."
+msgstr "该 URI 没有“pkcs11”结构。"
+
+msgid "The URI has a bad version number."
+msgstr "URI 版本号错误。"
+
+msgid "The URI has bad syntax."
+msgstr "URI 语法错误。"
+
+msgid "The URI has invalid encoding."
+msgstr "该 URI 的编码无效。"
+
+msgid ""
+"The contents are locked. In order to view the contents, enter the correct "
+"password."
+msgstr "内容已锁定。要查看内容，请输入正确的密码。"
+
+msgid ""
+"The contents of '%s' are locked. In order to view the contents, enter the "
+"correct password."
+msgstr "“%s”的内容已锁定。要查看其内容，请输入正确的密码。"
+
+msgid "The data is locked"
+msgstr "数据已被锁定"
+
+msgid "The information in this key has not yet been verified"
+msgstr "此密钥中的信息尚未核实"
+
+msgid "The key cannot be used to sign the request"
+msgstr "该密钥无法用于签署请求"
+
+msgid "The operation was cancelled"
+msgstr "操作已取消"
+
+msgid "The operation was cancelled."
+msgstr "操作已取消。"
+
+msgid "The password was incorrect"
+msgstr "密码错误"
+
+msgid "The stream was closed"
+msgstr "会话已关闭"
+
+msgid "The user cancelled the operation"
+msgstr "用户已取消操作"
+
+msgid "Third-party confirmation signature"
+msgstr "第三方确认签名"
+
+msgid "This key has been disabled"
+msgstr "此密钥已禁用"
+
+msgid "This key has been revoked"
+msgstr "此密钥已作废"
+
+msgid "This key has expired"
+msgstr "此密钥已经过期"
+
+msgid "This key is distrusted"
+msgstr "此密钥不受信任"
+
+msgid "This key is fully trusted"
+msgstr "此密钥是完全信任"
+
+msgid "This key is invalid"
+msgstr "此密钥无效"
+
+msgid "This key is marginally trusted"
+msgstr "此密钥是最低程度信任"
+
+msgid "This key is ultimately trusted"
+msgstr "此密钥是最高程度信任"
+
+msgid "Time Stamping"
+msgstr "时间戳"
+
+msgid "Timestamp signature"
+msgstr "时间戳签名"
+
+msgid "Title"
+msgstr "头衔"
+
+msgid "Token:"
+msgstr "令牌："
+
+msgid "Type"
+msgstr "类型"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "Ultimately trusted"
+msgstr "最高程度信任"
+
+msgid "Undefined trust"
+msgstr "未定义的信任"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unlimited"
+msgstr "无限制"
+
+msgid "Unlock"
+msgstr "解锁"
+
+msgid "Unlock access to passwords and other secrets"
+msgstr "解锁密码和其他私密内容的访问权限"
+
+msgid "Unlock: %s"
+msgstr "解锁：%s"
+
+msgid "Unrecognized or unavailable attributes for key"
+msgstr "无法识别或不可用的密钥属性"
+
+msgid "Unrecognized or unsupported data."
+msgstr "无法识别或不支持的数据。"
+
+msgid "Unsupported key type for certificate request"
+msgstr "不支持证书请求的密钥类型"
+
+msgid "Usages"
+msgstr "使用"
+
+msgid "User Attribute"
+msgstr "用户属性"
+
+msgid "User ID"
+msgstr "用户 ID"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Verified by"
+msgstr "认证机构"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "X400 Address"
+msgstr "X400 地址"
+
+msgid "XMPP Addr"
+msgstr "XMPP 地址"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "[file...]"
+msgstr "[文件...]"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Details"
+msgstr "详细信息(_D)"
+
+msgid "_OK"
+msgstr "确定(_O)"
+
+msgid "_Replace"
+msgstr "替换(_R)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgctxt "capability"
+msgid "Disabled"
+msgstr "已禁用"
+
+msgctxt "column"
+msgid "Expires"
+msgstr "过期"
+
+msgctxt "column"
+msgid "Issued By"
+msgstr "颁发者"
+
+msgctxt "column"
+msgid "Key ID"
+msgstr "密钥 ID"
+
+msgctxt "column"
+msgid "Name"
+msgstr "名称"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgctxt "ownertrust"
+msgid "Disabled"
+msgstr "已禁用"

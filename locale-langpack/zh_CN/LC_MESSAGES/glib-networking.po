@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: glib-networking master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glib&keywords=I18N+L10N&component=network\n"
+"POT-Creation-Date: 2016-04-14 19:33+0000\n"
+"PO-Revision-Date: 2014-03-01 16:57+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:54+0000\n"
+
+msgid "Certificate has no private key"
+msgstr "证书没有私钥"
+
+msgid "Connection is closed"
+msgstr "连接被关闭"
+
+msgid "Could not create TLS connection: %s"
+msgstr "无法创建 TLS 连接：%s"
+
+msgid "Could not parse DER certificate: %s"
+msgstr "无法分析 DER 证书：%s"
+
+msgid "Could not parse DER private key: %s"
+msgstr "无法分析 DER 私钥：%s"
+
+msgid "Could not parse PEM certificate: %s"
+msgstr "无法分析 PEM 证书：%s"
+
+msgid "Could not parse PEM private key: %s"
+msgstr "无法分析 PEM 私钥：%s"
+
+msgid "Error performing TLS close: %s"
+msgstr "执行 TLS 关闭时出错：%s"
+
+msgid "Error performing TLS handshake: %s"
+msgstr "执行 TLS 握手时出错：%s"
+
+msgid "Error reading data from TLS socket: %s"
+msgstr "从 TLS 套接字读取数据时出错：%s"
+
+msgid "Error writing data to TLS socket: %s"
+msgstr "向 TLS 套接字写入数据时出错：%s"
+
+msgid "Module"
+msgstr "模块"
+
+msgid "No certificate data provided"
+msgstr "没有提供证书数据"
+
+msgid "Operation would block"
+msgstr "操作被阻塞"
+
+msgid "PKCS#11 Module Pointer"
+msgstr "PKCS#11 模块指针"
+
+msgid "PKCS#11 Slot Identifier"
+msgstr "PKCS#11 槽标识符"
+
+msgid "Peer failed to perform TLS handshake"
+msgstr "执行 TLS 握手失败"
+
+msgid "Peer requested illegal TLS rehandshake"
+msgstr "请求了无效的 TLS 再握手"
+
+msgid "Proxy resolver internal error."
+msgstr "代理服务器解析器内部错误。"
+
+msgid "Server did not return a valid TLS certificate"
+msgstr "服务器未返回有效的 TLS 证书"
+
+msgid "Server required TLS certificate"
+msgstr "服务器需要 TLS 证书"
+
+msgid ""
+"Several PIN attempts have been incorrect, and the token will be locked after"
+" further failures."
+msgstr "几次 PIN 尝试都不正确，如果再出错令牌将会锁定。"
+
+msgid "Slot ID"
+msgstr "槽 ID"
+
+msgid "TLS connection closed unexpectedly"
+msgstr "TLS 连接被异常关闭"
+
+msgid "TLS connection peer did not send a certificate"
+msgstr "TLS 连接的对方未发送证书"
+
+msgid "The PIN entered is incorrect."
+msgstr "输入的 PIN 不正确。"
+
+msgid ""
+"This is the last chance to enter the PIN correctly before the token is "
+"locked."
+msgstr "这是最后一次输入正确 PIN 的机会，之后令牌会锁定。"
+
+msgid "Unacceptable TLS certificate"
+msgstr "无法接受的 TLS 证书"

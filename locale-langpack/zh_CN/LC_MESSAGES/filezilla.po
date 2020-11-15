@@ -1,0 +1,5666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FileZilla 3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-10 02:50+0000\n"
+"PO-Revision-Date: 2016-01-02 20:32+0800\n"
+"Last-Translator: Sun Junwen <sunjw8888@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid " - FileZilla"
+msgstr " - FTP 客户端"
+
+msgid "%H:%M:%S elapsed"
+msgstr "已耗时 %H:%M:%S"
+
+msgid "%H:%M:%S left"
+msgstr "剩余 %H:%M:%S"
+
+msgid ""
+"%a - Account (Lines containing this will be omitted if not using Account "
+"logontype)"
+msgstr "%a - 帐号 (如果不是使用帐号登录的方式，该行就会被忽略)"
+
+msgid "%d directory"
+msgid_plural "%d directories"
+msgstr[0] "%d 个目录"
+
+msgid "%d directory with its contents"
+msgid_plural "%d directories with their contents"
+msgstr[0] "%d 个目录及其内容"
+
+msgid "%d file"
+msgid_plural "%d files"
+msgstr[0] "%d 个文件"
+
+msgid "%d file. Total size: %s"
+msgid_plural "%d files. Total size: %s"
+msgstr[0] "%d 个文件。大小总共: %s"
+
+msgid "%d file. Total size: At least %s"
+msgid_plural "%d files. Total size: At least %s"
+msgstr[0] "%d 个文件。大小总共: 至少 %s"
+
+msgid "%d files added to queue"
+msgstr "%d 个文件已加入队列"
+
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d 秒"
+
+msgid "%h - Host"
+msgstr "%h - 主机"
+
+msgid "%llu directory"
+msgid_plural "%llu directories"
+msgstr[0] "%llu 个目录"
+
+msgid "%llu file"
+msgid_plural "%llu files"
+msgstr[0] "%llu 个文件"
+
+msgid "%p - Password"
+msgstr "%p - 密码"
+
+msgid "%s (%s/s)"
+msgstr "%s (%s/秒)"
+
+msgid "%s (? B/s)"
+msgstr "%s (? B/秒)"
+
+msgid "%s - Certificate expired!"
+msgstr "%s - 证书已过期！"
+
+msgid "%s - Not yet valid!"
+msgstr "%s - 尚未生效！"
+
+msgid "%s - Proxy user"
+msgstr "%s - 代理服务器用户"
+
+msgid "%s and %s. Total size: %s"
+msgstr "%s 和 %s。大小总计: %s"
+
+msgid "%s and %s. Total size: At least %s"
+msgstr "%s 和 %s。大小总计: 至少 %s"
+
+msgid "%s byte"
+msgid_plural "%s bytes"
+msgstr[0] "%s 字节"
+
+msgid ""
+"%s could not be found. Without this component of FileZilla, SFTP will not work.\n"
+"\n"
+"Please download FileZilla again. If this problem persists, please submit a bug report."
+msgstr ""
+"未找到 %s。缺少该 FTP 客户端 组件，SFTP 无法工作。\n"
+"\n"
+"请重新下载 FTP 客户端。如果该问题仍然存在，请提交一份问题报告。"
+
+msgid ""
+"%s could not be found. Without this component of FileZilla, SFTP will not work.\n"
+"\n"
+"Possible solutions:\n"
+"- Make sure %s is in a directory listed in your PATH environment variable.\n"
+"- Set the full path to %s in the FZ_FZSFTP environment variable."
+msgstr ""
+"未找到 %s。缺少该 FTP 客户端 组件，SFTP 无法工作。\n"
+"\n"
+"可能的解决方法:\n"
+"- 确保 %s 目录已列在您的 PATH 环境变量中。\n"
+"- 在 FZ_FZSFTP 环境变量中设置到 %s 的完整路径。"
+
+msgid "%s with %d bits"
+msgstr "%s，有 %d 位"
+
+msgid "%u - Username"
+msgstr "%u - 用户名"
+
+msgid "%w - Proxy password"
+msgstr "%w - 代理服务器密码"
+
+msgid "&Abort previous connection and connect in current tab"
+msgstr "放弃之前的连接并在当前标签中连接(&A)"
+
+msgid "&About..."
+msgstr "关于(&A)..."
+
+msgid "&Account:"
+msgstr "帐号(&A):"
+
+msgid "&Active"
+msgstr "主动(&A)"
+
+msgid "&Add bookmark..."
+msgstr "添加书签(&A)..."
+
+msgid "&Add files to queue"
+msgstr "添加文件到队列(&A)"
+
+msgid "&Add key file..."
+msgstr "添加密钥文件(&A)…"
+
+msgid "&Add to queue"
+msgstr "添加到队列(&A)"
+
+msgid "&Adjust server timezone offset:"
+msgstr "调整服务器时区(&A):"
+
+msgid "&Always trust certificate in future sessions."
+msgstr "在以后的会话中始终信任该证书(&A)。"
+
+msgid "&Always trust this host, add this key to the cache"
+msgstr "总是信任该主机，并将该密钥加入缓存(&A)"
+
+msgid "&Always use default editor"
+msgstr "总是使用默认编辑器(&A)"
+
+msgid "&Always use selection for unassociated files"
+msgstr "对所有未关联文件总使用该选择(&A)"
+
+msgid "&Always use this action"
+msgstr "总是使用该操作(&A)"
+
+msgid "&Ask your operating system for the external IP address"
+msgstr "向您的操作系统查询外部 IP 地址(&A)"
+
+msgid "&Auto"
+msgstr "自动(&A)"
+
+msgid "&Autodetect"
+msgstr "自动检测(&A)"
+
+msgid "&Binary"
+msgstr "二进制(&B)"
+
+msgid "&Binary prefixes using SI symbols. (e.g. 1 KB = 1024 bytes)"
+msgstr "使用 SI 式二进制前缀。(例如 1 KB = 1024 bytes)(&B)"
+
+msgid "&Bookmarks"
+msgstr "书签(&B)"
+
+msgid "&Browse..."
+msgstr "浏览(&B)..."
+
+msgid "&Burst tolerance:"
+msgstr "允许峰值(&B):"
+
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+msgid "&Clear private data..."
+msgstr "清除个人信息(&C)..."
+
+msgid "&Close"
+msgstr "关闭 (&C)"
+
+msgid "&Close FileZilla"
+msgstr "关闭 FTP 客户端(&C)"
+
+msgid "&Configure speed limits..."
+msgstr "设置速度限制(&C)..."
+
+msgid "&Configure..."
+msgstr "配置(&C)..."
+
+msgid "&Connect"
+msgstr "连接(&C)"
+
+msgid "&Copy current connection to Site Manager..."
+msgstr "添加当前连接到站点管理器(&C)..."
+
+msgid "&Copy to clipboard"
+msgstr "复制到剪贴板(&C)"
+
+msgid "&Create directory"
+msgstr "创建目录(&C)"
+
+msgid "&Create new tab"
+msgstr "创建新标签(&C)"
+
+msgid "&Debug"
+msgstr "调试(&D)"
+
+msgid "&Debug information in message log:"
+msgstr "消息记录中的调试信息(&D):"
+
+msgid "&Default editor:"
+msgstr "默认编辑器(&D):"
+
+msgid "&Default file exists action..."
+msgstr "对已存在文件的默认操作(&D)..."
+
+msgid "&Delay between failed login attempts:"
+msgstr "登陆重试延时(&D):"
+
+msgid "&Delete"
+msgstr "删除(&D)"
+
+msgid "&Delete symlink"
+msgstr "删除符号链接(&D)"
+
+msgid "&Directory comparison"
+msgstr "目录比较(&D)"
+
+msgid ""
+"&Disable synchronized browsing and continue changing the local directory"
+msgstr "停止同步浏览并且继续修改本地目录(&D)？"
+
+msgid ""
+"&Disable synchronized browsing and continue changing the remote directory"
+msgstr "停止同步浏览并且继续修改远程目录(&D)？"
+
+msgid "&Discard local file then download and edit file anew"
+msgstr "放弃本地文件，重新下载并编辑(&D)"
+
+msgid "&Disconnect"
+msgstr "断开连接(&D)"
+
+msgid "&Disconnect from server"
+msgstr "从服务器断开(&D)"
+
+msgid "&Display momentary transfer speed instead of average speed"
+msgstr "显示实时传输速度而非平均速度(&D)"
+
+msgid "&Display size in bytes"
+msgstr "以字节为单位显示(&D)"
+
+msgid "&Do not remember passwords (recommended)"
+msgstr "不要保存密码(推荐)(&D)"
+
+msgid "&Don't show this dialog again."
+msgstr "不再显示此对话框(&D)。"
+
+msgid "&Don't use external IP address on local connections."
+msgstr "本地连接不使用外部 IP 地址(&D)。"
+
+msgid "&Double-click action on files:"
+msgstr "双击文件操作(&D):"
+
+msgid "&Download"
+msgstr "下载(&D)"
+
+msgid "&Download to:"
+msgstr "下载到(&D):"
+
+msgid "&Download..."
+msgstr "下载(&D)..."
+
+msgid "&Downloads:"
+msgstr "下载(&D):"
+
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+msgid "&Edit filter rules..."
+msgstr "编辑过滤器规则(&E)..."
+
+msgid "&Enable"
+msgstr "启用(&E)"
+
+msgid "&Enable compression"
+msgstr "启用压缩(&E)"
+
+msgid "&Enable speed limits"
+msgstr "启用速度限制(&E)"
+
+msgid "&Encoding:"
+msgstr "编码(&E):"
+
+msgid "&Encryption:"
+msgstr "加密(&E):"
+
+msgid "&Enter custom command..."
+msgstr "输入自定义命令(&E)..."
+
+msgid "&Establish connection in a new tab"
+msgstr "在新标签中建立连接(&E)"
+
+msgid "&Execute"
+msgstr "执行(&E)"
+
+msgid "&Export Site Manager entries"
+msgstr "导出站点管理器记录(&E)"
+
+msgid "&Export..."
+msgstr "导出(&E)..."
+
+msgid "&Fall back to active mode"
+msgstr "退回到主动模式(&F)"
+
+msgid "&File"
+msgstr "文件(&F)"
+
+msgid "&File Attributes..."
+msgstr "文件属性(&F)..."
+
+msgid "&File permissions..."
+msgstr "文件权限(&F)..."
+
+msgid "&File:"
+msgstr "文件(&F):"
+
+msgid "&Filter conditions:"
+msgstr "过滤器条件(&F):"
+
+msgid "&Filter sets:"
+msgstr "过滤器集合(&F):"
+
+msgid "&Filters:"
+msgstr "过滤器(&F):"
+
+msgid "&Finish editing and delete local file"
+msgstr "结束编辑并删除本地文件(&F)"
+
+msgid ""
+"&Flatten remote paths, download all contained files directly into target "
+"directory"
+msgstr "展开远程路径，将所有包含的文件下载到目标目录(&F)"
+
+msgid "&Follow symlink, delete target directory contents"
+msgstr "跟踪符号链接，删除目标目录内容(&F)"
+
+msgid "&Get external IP address from the following URL:"
+msgstr "从以下 URL 得到外部 IP 地址(&G):"
+
+msgid "&Global bookmark"
+msgstr "全局书签(&G)"
+
+msgid "&HTTP/1.1 using CONNECT method"
+msgstr "&HTTP/1.1 使用 CONNECT 方式"
+
+msgid "&Help"
+msgstr "帮助(&H)"
+
+msgid "&Hide identical files"
+msgstr "隐藏相同的文件(&H)"
+
+msgid "&Highest"
+msgstr "最高(&H)"
+
+msgid "&Highest available port:"
+msgstr "最高可用端口(&H):"
+
+msgid "&Host:"
+msgstr "主机(&H):"
+
+msgid "&IEC binary prefixes (e.g. 1 KiB = 1024 bytes)"
+msgstr "&IEC 式二进制前缀 (例如 1 KiB = 1024 bytes)"
+
+msgid "&ISO 8601 (example: 2007-09-15)"
+msgstr "&ISO 8601 (示例: 2007-09-15)"
+
+msgid "&Import..."
+msgstr "导入(&I)..."
+
+msgid "&Inherit system's filetype associations"
+msgstr "继承系统的文件类型关联(&I)"
+
+msgid "&Install new version"
+msgstr "安装新版 (&I)"
+
+msgid "&Keep remote path structure relative to search root"
+msgstr "保持远程目录路径相对于搜索的根目录(&K)"
+
+msgid "&Key file:"
+msgstr "密钥文件(&K):"
+
+msgid "&Layout of file and directory panes:"
+msgstr "文件和目录面板布局(&L):"
+
+msgid "&Limit local ports used by FileZilla"
+msgstr "限制 FTP 客户端 使用的本地端口(&L)"
+
+msgid "&Limit number of simultaneous connections"
+msgstr "限制并发连接数(&L)"
+
+msgid "&Local directory tree"
+msgstr "本地目录树(&L)"
+
+msgid "&Local directory:"
+msgstr "本地目录(&L):"
+
+msgid "&Log to file"
+msgstr "日志文件(&L)"
+
+msgid "&Logon Type:"
+msgstr "登录类型(&L):"
+
+msgid "&Logontype:"
+msgstr "登录类型(&L):"
+
+msgid "&Low"
+msgstr "低(&L)"
+
+msgid "&Manage bookmarks..."
+msgstr "管理书签(&M)..."
+
+msgid "&Manual transfer..."
+msgstr "手动传输(&M)..."
+
+msgid "&Maximum number of connections:"
+msgstr "最大连接数(&M):"
+
+msgid "&Maximum number of retries:"
+msgstr "最大重试次数(&M):"
+
+msgid "&Message log"
+msgstr "消息日志(&M)"
+
+msgid "&Minimize to tray"
+msgstr "最小化到托盘(&M)"
+
+msgid "&Name sorting mode:"
+msgstr "名称排序方式(&N):"
+
+msgid "&Name:"
+msgstr "名字(&N):"
+
+msgid "&Network configuration wizard..."
+msgstr "网络配置向导(&N)..."
+
+msgid "&New"
+msgstr "新建(&N)"
+
+msgid "&New Site"
+msgstr "新站点(&N)"
+
+msgid "&New version available!"
+msgstr "有新版本！(&N)"
+
+msgid "&Next >"
+msgstr "下一步(&N) >"
+
+msgid "&No"
+msgstr "否(&N)"
+
+msgid "&None"
+msgstr "无(&N)"
+
+msgid "&Normal"
+msgstr "正常(&N)"
+
+msgid "&Numeric value:"
+msgstr "数字值(&N):"
+
+msgid "&OK"
+msgstr "确定(&O)"
+
+msgid "&OPEN"
+msgstr "打开(&O)"
+
+msgid "&Open"
+msgstr "打开(&O)"
+
+msgid "&Overwrite"
+msgstr "覆盖(&O)"
+
+msgid "&Passive"
+msgstr "被动(&P)"
+
+msgid "&Password:"
+msgstr "密码(&P):"
+
+msgid "&Play sound"
+msgstr "播放声音(&P)"
+
+msgid "&Port:"
+msgstr "端口(&P):"
+
+msgid "&Preserve timestamps of transferred files"
+msgstr "保留传输文件的时间戳(&P)"
+
+msgid "&Queue"
+msgstr "队列(&Q)"
+
+msgid "&Quickconnect"
+msgstr "快速连接(&Q)"
+
+msgid "&Quickconnect bar"
+msgstr "快速连接工具栏(&Q)"
+
+msgid "&Quickconnect history"
+msgstr "快速连接栏历史(&Q)"
+
+msgid "&Read"
+msgstr "读取(&R)"
+
+msgid "&Reconnect"
+msgstr "重新连接(&R)"
+
+msgid "&Reconnect information"
+msgstr "重新连接信息(&R)"
+
+msgid "&Refresh"
+msgstr "刷新(&R)"
+
+msgid "&Remember password until FileZilla is closed"
+msgstr "在 FTP 客户端 关闭前记住密码(&R)"
+
+msgid "&Remember passwords"
+msgstr "记住密码(&R)"
+
+msgid "&Remote directory:"
+msgstr "远程目录(&R):"
+
+msgid "&Remote path:"
+msgstr "远程路径(&R):"
+
+msgid "&Remove"
+msgstr "移除(&R)"
+
+msgid "&Remove key"
+msgstr "移除密钥(&R)"
+
+msgid "&Remove selected"
+msgstr "移除选定(&R)"
+
+msgid "&Rename"
+msgstr "重命名(&R)"
+
+msgid "&Rename..."
+msgstr "重命名(&R)..."
+
+msgid "&Reopen local file"
+msgstr "重新打开本地文件(&R)"
+
+msgid "&Replace invalid characters with:"
+msgstr "将无效字符替换为(&R):"
+
+msgid "&Reset and requeue all"
+msgstr "重置并将所有文件重新加入队列(&R)"
+
+msgid "&Restart Wizard"
+msgstr "重新开始向导(&R)"
+
+msgid "&Resume"
+msgstr "续传(&R)"
+
+msgid "&Run command..."
+msgstr "运行命令(&R)..."
+
+msgid "&Run configuration wizard now..."
+msgstr "运行配置向导(&R)..."
+
+msgid "&Run update check now..."
+msgstr "检查更新(&R)..."
+
+msgid "&SITE"
+msgstr "站点(&S)"
+
+msgid "&SOCKS 5"
+msgstr "&SOCKS 5"
+
+msgid "&Save as..."
+msgstr "保存为(&S)..."
+
+msgid "&Search"
+msgstr "搜索(&S)"
+
+msgid "&Search remote files..."
+msgstr "搜索远程文件(&S)..."
+
+msgid "&Select Entry:"
+msgstr "选择项(&S):"
+
+msgid "&Select language:"
+msgstr "选择语言(&S):"
+
+msgid "&Select the columns that should be displayed:"
+msgstr "设置要显示的栏目(&S):"
+
+msgid "&Server"
+msgstr "服务器(&S)"
+
+msgid "&Settings"
+msgstr "设置(&S)"
+
+msgid "&Settings..."
+msgstr "设置(&S)..."
+
+msgid "&Show debug menu"
+msgstr "显示调试菜单(&S)"
+
+msgid "&Show detailed log"
+msgstr "显示详细日志(&S)"
+
+msgid "&Show message"
+msgstr "显示消息(&S)"
+
+msgid "&Show timestamps in message log"
+msgstr "在消息日志中显示时间戳(&S)"
+
+msgid "&Site Manager entries"
+msgstr "站点管理器条目(&S)"
+
+msgid "&Site Manager..."
+msgstr "站点管理器(&S)..."
+
+msgid "&Site-specific bookmark"
+msgstr "特定站点书签(&S)"
+
+msgid "&Skip"
+msgstr "跳过(&S)"
+
+msgid "&Speed limits"
+msgstr "速度限制(&S)"
+
+msgid "&Start transfer immediately"
+msgstr "立即开始传输(&S)"
+
+msgid "&Swap local and remote panes"
+msgstr "交换本地面板和远程面板(&S)"
+
+msgid "&TLS Ciphers"
+msgstr "&TLS 密码"
+
+msgid "&Test"
+msgstr "测试(&T)"
+
+msgid "&Theme:"
+msgstr "主题(&T):"
+
+msgid "&Transfer"
+msgstr "传输(&T)"
+
+msgid "&Transfer mode:"
+msgstr "传输模式(&T):"
+
+msgid "&Transfer queue"
+msgstr "传输队列(&T)"
+
+msgid "&Treat dotfiles as ASCII files"
+msgstr "把点文件作为 ASCII 文件对待(&T)"
+
+msgid "&Unedit"
+msgstr "放弃修改(&U)"
+
+msgid "&Update cached key for this host"
+msgstr "更新该主机的缓存密钥(&U)"
+
+msgid "&Upload"
+msgstr "上传(&U)"
+
+msgid "&Uploads:"
+msgstr "上传(&U):"
+
+msgid "&Use custom program"
+msgstr "使用自定义程序(&U)"
+
+msgid "&Use synchronized browsing"
+msgstr "使用同步浏览(&U)"
+
+msgid "&Use system's default editor for text files"
+msgstr "使用系统默认文本编辑器处理文本文件(&U)"
+
+msgid "&Use the following IP address:"
+msgstr "使用以下 IP 地址(&U):"
+
+msgid "&Use the server's external IP address instead"
+msgstr "使用服务器的外部 IP 地址来代替(&U)"
+
+msgid "&Use thousands separator"
+msgstr "使用千位分隔符(&U)"
+
+msgid "&User:"
+msgstr "用户(&U):"
+
+msgid "&Username:"
+msgstr "用户名(&U):"
+
+msgid "&Version %s"
+msgstr "版本 %s (&V)"
+
+msgid "&View"
+msgstr "查看(&V)"
+
+msgid "&View/Edit"
+msgstr "查看/编辑(&V)"
+
+msgid "&Watch locally edited files and prompt to upload modifications"
+msgstr "监视本地编辑的文件并且提示上传修改(&W)"
+
+msgid "&When checking for updates, check for:"
+msgstr "在检查更新时，检查(&W):"
+
+msgid "&Write"
+msgstr "写入(&W)"
+
+msgid "&Yes"
+msgstr "是(&Y)"
+
+msgid "'%s' does not exist or cannot be accessed."
+msgstr "“%s”不存在或者无法访问。"
+
+msgid "'%s' is not a directory."
+msgstr "“%s”不是目录。"
+
+msgid "'Account' logontype not supported by selected protocol"
+msgstr "选定的协议不支持“帐号”登录类型"
+
+msgid ""
+"'Normal' and 'Account' logontypes are not available, using 'Ask for "
+"password' instead."
+msgstr "“正常”和“帐户”登录类型不可用。请使用“询问密码”。"
+
+msgid ""
+"'Normal' and 'Account' logontypes are not available. Your entry has been "
+"changed to 'Ask for password'."
+msgstr "“正常”和“帐户”登录类型不可用。您的登录入口已更改为“询问密码”。"
+
+msgid ""
+"'quote' is usually a local command used by commandline clients to send the "
+"arguments following 'quote' to the server. You might want to enter the raw "
+"command without the leading 'quote'."
+msgstr "“quote”通常是本地命令行端向服务器端发送跟在“quote”之后的参数的命令。您也许是想输入不以“quote”开头的原始命令。"
+
+msgid "(%d object filtered)"
+msgid_plural "(%d objects filtered)"
+msgstr[0] "(%d 个对象被滤除)"
+
+msgid "(%u%% downloaded)"
+msgstr "(%u%% 已下载)"
+
+msgid "(0 for no limit)"
+msgstr "(0 代表不限制)"
+
+msgid "(0-99)"
+msgstr "(0-99)"
+
+msgid "(0-999 seconds)"
+msgstr "(0-999 秒)"
+
+msgid "(1-10)"
+msgstr "(1-10)"
+
+msgid "(10-9999, 0 to disable)"
+msgstr "(10-9999，0 表示禁用)"
+
+msgid "(app-compat is set to %d.%d)"
+msgstr "(已设置为与 %d.%d 版本兼容)"
+
+msgid "(example: %H:%M)"
+msgstr "(示例: %H:%M)"
+
+msgid "(example: %Y-%m-%d)"
+msgstr "(示例: %Y-%m-%d)"
+
+msgid "(in %s/s)"
+msgstr "(以 %s/s)"
+
+msgid "-"
+msgstr "-"
+
+msgid "--:--:-- left"
+msgstr "剩下 --:--:--"
+
+msgid "-c cannot be used together with an FTP URL."
+msgstr "-c 不能与 FTP URL 一起使用。"
+
+msgid "-l can only be used together with an FTP URL."
+msgstr "-l 只能与 FTP URL 一起使用。"
+
+msgid "-s and -c cannot be present at the same time."
+msgstr "-s 和 -c 不能同时使用。"
+
+msgid "-s cannot be used together with an FTP URL."
+msgstr "-s 不能与 FTP URL 一起使用。"
+
+msgid "0 - None"
+msgstr "0 - 无"
+
+msgid "1 - Warning"
+msgstr "1 - 警告"
+
+msgid "2 - Info"
+msgstr "2 - 信息"
+
+msgid "3 - Verbose"
+msgstr "3 - 详细"
+
+msgid "32-bit system"
+msgstr "32位系统"
+
+msgid "4 - Debug"
+msgstr "4 - 调试"
+
+msgid "64-bit system"
+msgstr "64位系统"
+
+msgid "< &Back"
+msgstr "< 上一步(&B)"
+
+msgid "?"
+msgstr "?"
+
+msgid ""
+"A bookmark with the entered name already exists. Please enter an unused "
+"name."
+msgstr "该名称的书签已经存在。请输入一个未使用的名字。"
+
+msgid "A default editor needs to be set."
+msgstr "需要设置默认编辑器。"
+
+msgid "A directory cannot be dragged into one of its subdirectories."
+msgstr "目录无法被拖入其子目录中。"
+
+msgid ""
+"A few servers don't allow passive mode or are misconfigured. In such cases "
+"you would have to use active mode. In active mode, FileZilla opens a port "
+"and asks the server to connect to it."
+msgstr "有一些服务器不允许被动模式或者配置错误。这样的情况下您必须使用主动模式。在主动模式下，FTP 客户端 打开一个端口并且请求服务器来连接。"
+
+msgid "A file previously opened has been changed."
+msgstr "之前打开的文件被修改。"
+
+msgid "A file with that name is already being transferred."
+msgstr "该名称的文件已在进行传输。"
+
+msgid ""
+"A file with that name is still being edited. Please close it and try again."
+msgstr "该名称的文件仍在编辑，请将其关闭后再试一次。"
+
+msgid ""
+"A local filename could not be decoded.\n"
+"Please make sure the LC_CTYPE (or LC_ALL) environment variable is set correctly.\n"
+"Unless you fix this problem, files might be missing in the file listings.\n"
+"No further warning will be displayed this session."
+msgstr ""
+"一个本地文件名无法被解码。\n"
+"请确保 LC_CTYPE (或者 LC_ALL) 环境变量设置正确。\n"
+"除非解决了这个问题，不然文件在文件列表中可能会不显示。\n"
+"本次会话将不再显示该警告。"
+
+msgid "A new version of FileZilla is available:"
+msgstr "有新版的 FTP 客户端 可用:"
+
+msgid ""
+"A proper server always shows all files, but some broken servers hide files "
+"from the user. Use this option to force the server to show all files."
+msgstr "一个正常的服务器总是会显示所有文件，但有些配置不恰当的服务器会把文件隐藏起来。通过这个选项强制服务器显示所有文件。"
+
+msgid ""
+"A proper server does not require this. Contact the server administrator if "
+"you need this."
+msgstr "正常的服务器是不需要这项的，如果您需要的话请联系服务器管理员。"
+
+msgid ""
+"A remote operation is in progress and synchronized browsing is enabled.\n"
+"Disable synchronized browsing and continue changing the local directory?"
+msgstr ""
+"一个远程操作正在进行并且同步浏览是启用的。\n"
+"关闭同步浏览并且继续修改本地目录？"
+
+msgid "A&SCII"
+msgstr "A&SCII"
+
+msgid "A&dd"
+msgstr "添加(&D)"
+
+msgid "A&llow resume of ASCII files"
+msgstr "允许续传 ASCII 文件(&L)"
+
+msgid "A&pply only to downloads"
+msgstr "只对下载起作用(&P)"
+
+msgid "A&pply only to uploads"
+msgstr "只对上传起作用(&P)"
+
+msgid "A&pply to all files and directories"
+msgstr "应用到所有文件和目录(&P)"
+
+msgid "A&utomatically remove successful transfers"
+msgstr "自动移除成功的传输(&U)"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "About FileZilla"
+msgstr "关于 FTP 客户端"
+
+msgid "Above the file lists"
+msgstr "在文件列表上面"
+
+msgid "Account"
+msgstr "帐号"
+
+msgid "Action after queue &completion"
+msgstr "队列完成后执行动作(&C)"
+
+msgid "Action on selected file:"
+msgstr "所选文件的动作:"
+
+msgid "Action to perform:"
+msgstr "执行动作:"
+
+msgid "Action:"
+msgstr "动作:"
+
+msgid "Active mode"
+msgstr "主动模式"
+
+msgid ""
+"Active mode FTP test failed. FileZilla does not know the correct external IP"
+" address."
+msgstr "主动模式 FTP 测试失败。FTP 客户端 不知道正确的外部 IP 地址。"
+
+msgid ""
+"Active mode FTP test failed. FileZilla does not know the correct external IP"
+" address. In addition to that, your router has modified the sent address."
+msgstr "主动模式 FTP 测试失败。FTP 客户端 不知道正确的外部 IP 地址。除此之外，您的路由器已经修改了发送地址。"
+
+msgid ""
+"Active mode FTP test failed. FileZilla knows the correct external IP "
+"address, but your router or firewall has misleadingly modified the sent "
+"address."
+msgstr "主动模式 FTP 测试失败。FTP 客户端 知道正确的外部 IP 地址，但是您的路由器或防火墙错误地修改了发送地址。"
+
+msgid "Active mode IP"
+msgstr "主动模式 IP"
+
+msgid "Add files to &queue only"
+msgstr "只添加文件到队列(&Q)"
+
+msgid "Add selected directory to the transfer queue"
+msgstr "添加选中的文件夹到传输队列"
+
+msgid "Add selected files and folders to the transfer queue"
+msgstr "添加选中的文件和文件夹到传输队列"
+
+msgid "Add to queue"
+msgstr "添加到队列"
+
+msgid "Address type not supported"
+msgstr "不支持该地址类型"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid ""
+"Advice: Unless you want to test new features, please keep using stable "
+"versions only. Beta versions and nightly builds are development versions "
+"meant for testing purposes. Nightly builds of FileZilla may not work as "
+"expected and might even damage your system. Use beta versions and nightly "
+"builds at your own risk."
+msgstr ""
+"建议: 如果不想测试新功能，请选择仅稳定版。Beta 版和每日编译版是用于测试目的的开发版本。每日编译版的 FTP 客户端 "
+"可能工作不正常，甚至破坏您的系统。使用 Beta 版和每日编译版的风险由您自己承担。"
+
+msgid "Al&ways perform this action"
+msgstr "总是进行该操作(&W)"
+
+msgid "Algorithm:"
+msgstr "算法:"
+
+msgid "All files have been successfully transferred"
+msgstr "所有文件都已经成功传输"
+
+msgid "All ports in the given range have to be between 1024 and 65535."
+msgstr "所有指定的端口范围必须在 1024 和 65535 之间。"
+
+msgid "All transfers have finished. %d file could not be transferred."
+msgid_plural "All transfers have finished. %d files could not be transferred."
+msgstr[0] "所有传输都已经结束。%d 个文件无法传输。"
+
+msgid "Allow &fall back to other transfer mode on failure"
+msgstr "失败后允许退回到其他传输模式(&F)"
+
+msgid "Allow fallback to other transfer mode on failure"
+msgstr "失败后允许退回到其他传输模式"
+
+msgid "Already connected"
+msgstr "已连接"
+
+msgid "Alternative name:"
+msgid_plural "Alternative names:"
+msgstr[0] "别名:"
+
+msgid ""
+"Alternatively you can use the Pageant tool from PuTTY to manage your keys, "
+"FileZilla does recognize Pageant."
+msgstr "另外您能使用 PuTTY 内的 Pageant 工具去管理您的密钥。FTP 客户端 同样也会认可。"
+
+msgid ""
+"Alternatively you can use your system's SSH agent. To do so, make sure the "
+"SSH_AUTH_SOCK environment variable is set."
+msgstr "另外您也可以使用系统内的 SSH 代理。如果要这样做，需要确认是否已经设置了 SSH_AUTH_SOCK 环境变量。"
+
+msgid ""
+"Alternatively, you can also download the latest version from the FileZilla "
+"website:"
+msgstr "或者，从 FTP 客户端 网站下载最新的版本:"
+
+msgid ""
+"An error occurred loading the transfer queue from \"%s\".\n"
+"Some queue items might not have been restored."
+msgstr ""
+"在从“%s”加载传输队列时发生了一个错误。\n"
+"队列中的一些项可能没有恢复。"
+
+msgid ""
+"An error occurred saving the transfer queue to \"%s\".\n"
+"Some queue items might not have been saved."
+msgstr ""
+"在保存传输队列到“%s”时发生了一个错误。\n"
+"队列中的一些项可能没有保存。"
+
+msgid ""
+"An item with the same name as the dragged item already exists at the target "
+"location."
+msgstr "目标位置已存在与所拖拽项目同名的文件。"
+
+msgid "Anonymous"
+msgstr "匿名"
+
+msgid ""
+"Another remote operation is already in progress, cannot change directory "
+"now."
+msgstr "另一个远程操作正在进行，现在无法更改目录。"
+
+msgid "Any changes made in the Site Manager could not be saved."
+msgstr "站点管理器的任何更改都无法保存。"
+
+msgid "Any changes made to the filters could not be saved."
+msgstr "过滤器的任何更改都无法保存。"
+
+msgid "Any changes made to the filters will not be saved."
+msgstr "过滤器的任何更改都无法保存。"
+
+msgid "App&ly to directories only"
+msgstr "只应用到目录(&L)"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Apply to &current queue only"
+msgstr "只应用到当前队列(&C)"
+
+msgid "Apply to &files only"
+msgstr "只应用到文件(&F)"
+
+msgid "Archive"
+msgstr "归档"
+
+msgid "Argument buffer overflow"
+msgstr "参数缓冲区溢出"
+
+msgid "As tab in the transfer queue pane"
+msgstr "作为传输队列面板中的标签"
+
+msgid "Ask for action"
+msgstr "询问操作"
+
+msgid "Ask for password"
+msgstr "询问密码"
+
+msgid "Ask operating system for a port."
+msgstr "向操作系统询问端口。"
+
+msgid "Ask your operating system for the external IP address"
+msgstr "向您的操作系统询问外部 IP 地址"
+
+msgid "Asking questions in the FileZilla forums"
+msgstr "在 FTP 客户端 论坛里提问"
+
+msgid "Associated program not found:"
+msgstr "找不到关联的程序:"
+
+msgid "At least one filter condition is incomplete"
+msgstr "至少有一个过滤条件不完整"
+
+msgid "At this point, all required information has been gathered."
+msgstr "至此，所有必须的信息都已经收集成功。"
+
+msgid "Attribute"
+msgstr "属性"
+
+msgid "Authentication failed."
+msgstr "认证失败。"
+
+msgid "Author:"
+msgstr "作者:"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Automatic file type classification"
+msgstr "自动对文件进行分类"
+
+msgid "Available sizes"
+msgstr "可用大小"
+
+msgid "B <Unit symbol for bytes. Only translate first letter>"
+msgstr "B <字节单位符号。只传送第一个字母>"
+
+msgid "B&ypass proxy"
+msgstr "绕过代理(&Y)"
+
+msgid "Bad file descriptor"
+msgstr "错误的文件描述符"
+
+msgid "Basic usage instructions"
+msgstr "基本使用说明"
+
+msgid "Behaviour"
+msgstr "行为"
+
+msgid "Being edited"
+msgstr "正在编辑"
+
+msgid "Beware! Certificate has been revoked"
+msgstr "注意！证书已被撤销"
+
+msgid "Binary"
+msgstr "二进制"
+
+msgid "Blackboard"
+msgstr "黑板"
+
+msgid "Bookmark"
+msgstr "书签"
+
+msgid "Bookmark:"
+msgstr "书签:"
+
+msgid "Bookmarks"
+msgstr "书签"
+
+msgid "Browse..."
+msgstr "浏览..."
+
+msgid "Build date:"
+msgstr "编译日期:"
+
+msgid "Build information"
+msgstr "编译信息"
+
+msgid "Business category:"
+msgstr "业务类型:"
+
+msgid ""
+"By default uses any available local port to establish transfers in active "
+"mode. If you want to limit FileZilla to use only a small range of ports, "
+"please enter the port range below."
+msgstr "默认情况下使用任何可用的本地端口来进行主动模式传输。如果您想限制 FTP 客户端 只使用一个小范围内的端口，请在下面填入端口范围。"
+
+msgid "C&lear all"
+msgstr "全部清除(&C)"
+
+msgid "C&opy URL(s) to clipboard"
+msgstr "复制 URL 到剪贴板(&O)"
+
+msgid "C&ustom"
+msgstr "自定义(&U)"
+
+msgid "C&ustom filetype associations:"
+msgstr "自定义文件格式关联(&U):"
+
+msgid "CPU features:"
+msgstr "CPU 特性:"
+
+msgid "Calculating timezone offset of server..."
+msgstr "计算服务器时差..."
+
+msgid "Can't read from file"
+msgstr "无法读取文件"
+
+msgid "Can't write data to file."
+msgstr "无法将数据写入文件。"
+
+msgid "Can't write data to file: %s"
+msgstr "无法将数据写入文件: %s"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot access '%s', no media inserted or drive not ready."
+msgstr "无法访问“%s”，没有媒介插入或者驱动器未准备好。"
+
+msgid "Cannot add server to Site Manager"
+msgstr "无法添加服务器到站点管理器"
+
+msgid "Cannot assign requested address"
+msgstr "无法分配请求的地址"
+
+msgid ""
+"Cannot close tab while busy.\n"
+"Cancel current operation and close tab?"
+msgstr ""
+"不能关闭工作中的标签。\n"
+"取消当前操作并关闭标签？"
+
+msgid ""
+"Cannot compare directories, different filters for local and remote "
+"directories are enabled"
+msgstr "无法比较目录，本地与远程目录使用了不同的过滤器"
+
+msgid "Cannot create new filter"
+msgstr "无法创建新过滤器"
+
+msgid "Cannot edit file"
+msgstr "无法编辑文件"
+
+msgid "Cannot edit file, not connected to any server."
+msgstr "无法编辑文件，没有连接到任何服务器。"
+
+msgid "Cannot edit file, remote path unknown."
+msgstr "无法编辑文件，未知远程路径。"
+
+msgid ""
+"Cannot establish FTP connection to an SFTP server. Please select proper "
+"protocol."
+msgstr "无法和 SFTP 服务器建立 FTP 连接，请选择合适的协议。"
+
+msgid "Cannot load Quickconnect bar from resource file"
+msgstr "无法从资源文件导入快速连接栏"
+
+msgid "Cannot load key file"
+msgstr "无法加载密钥文件"
+
+msgid "Cannot load toolbar from resource file"
+msgstr "无法从资源文件导入工具栏"
+
+msgid "Cannot remember password"
+msgstr "无法记住密码"
+
+msgid "Cannot rename entry"
+msgstr "无法重命名记录"
+
+msgid "Cannot rename file"
+msgstr "无法重命名文件"
+
+msgid "Cannot resolve hostname to IPv4 address for use with SOCKS4 proxy."
+msgstr "无法将主机名解析为 IPv4 地址以用于 SOCKS4 代理。"
+
+msgid "Cannot save filterset"
+msgstr "无法保存过滤器集合"
+
+msgid "Cannot select filter"
+msgstr "无法选择过滤器"
+
+msgid "Cannot set file association"
+msgstr "无法设置文件格式关联"
+
+msgid "Cannot show dialog"
+msgstr "无法显示对话框"
+
+msgid "Cannot view/edit selected file"
+msgstr "无法查看/编辑所选的文件"
+
+msgid "Case insensitive"
+msgstr "不分大小写"
+
+msgid "Case insensitive (default)"
+msgstr "不分大小写(默认)"
+
+msgid "Case sensitive"
+msgstr "区分大小写"
+
+msgid "Case sensitive (default)"
+msgstr "区分大小写(默认)"
+
+msgid "Categories to clear"
+msgstr "需要清除的分类"
+
+msgid "Certificate and session data are not available yet."
+msgstr "证书和会话数据目前不可用。"
+
+msgid "Certificate in chain:"
+msgstr "证书链:"
+
+msgid "Certificate issuer"
+msgstr "证书颁发者"
+
+msgid "Challenge:"
+msgstr "需要确认:"
+
+msgid "Change file attributes"
+msgstr "改变文件属性"
+
+msgid "Change the file permissions."
+msgstr "改变文件权限。"
+
+msgid "Changing logfile settings requires restart of FileZilla."
+msgstr "修改日志文件设置需要重启 FTP 客户端。"
+
+msgid "Character encoding issue"
+msgstr "字符编码问题"
+
+msgid "Charset"
+msgstr "字符集"
+
+msgid "Check for FileZilla &updates automatically:"
+msgstr "自动检查 FTP 客户端 更新(&U):"
+
+msgid "Check for Updates"
+msgstr "检查更新"
+
+msgid "Check for updates failed"
+msgstr "检查更新失败"
+
+msgid ""
+"Check your login credentials. The entered password starts or ends with a "
+"space character."
+msgstr "请检查您的登录凭据。输入的密码开头或末尾有空格。"
+
+msgid ""
+"Check your login credentials. The entered username starts or ends with a "
+"space character."
+msgstr "请检查您的登录凭据。输入的用户名开头或末尾有空格。"
+
+msgid "Checking for correct external IP address"
+msgstr "检查正确的外部 IP 地址"
+
+msgid "Checking for updates..."
+msgstr "正在检查更新......"
+
+msgid "Checksum match on file %s\n"
+msgstr "文件 %s 的校验值匹配\n"
+
+msgid "Checksum mismatch on file %s\n"
+msgstr "文件 %s 的校验值不匹配\n"
+
+msgid "Choose a key file"
+msgstr "选择密钥文件"
+
+msgid "Choose the default local directory"
+msgstr "选择默认的本地目录"
+
+msgid "Choose the local directory"
+msgstr "选择本地目录"
+
+msgid "Chunk data improperly terminated"
+msgstr "块数据错误中止"
+
+msgid "Cipher:"
+msgstr "密码:"
+
+msgid "Cl&ose tab"
+msgstr "关闭标签(&O)"
+
+msgid "Classic"
+msgstr "经典"
+
+msgid "Clear &layout cache"
+msgstr "清空布局缓存(&L)"
+
+msgid "Clear history"
+msgstr "清除历史记录"
+
+msgid "Clear private data"
+msgstr "清除个人信息"
+
+msgid "Clear quickconnect bar"
+msgstr "清除快速连接栏"
+
+msgid "Click on Finish to save your configuration."
+msgstr "点击完成，保存您的配置。"
+
+msgid "Client to server MAC:"
+msgstr "本地至服务器 MAC:"
+
+msgid "Client to server cipher:"
+msgstr "本地至服务器密码:"
+
+msgid "Close &all other tabs"
+msgstr "关闭所有其它的标签(&A)"
+
+msgid "Close FileZilla"
+msgstr "关闭 FTP 客户端"
+
+msgid "Close all running instances of FileZilla"
+msgstr "关闭所有运行的 FTP 客户端 实例"
+
+msgid "Closes current tab"
+msgstr "关闭当前标签"
+
+msgid "Co&mments:"
+msgstr "注释(&M):"
+
+msgid "Column properties"
+msgstr "栏目属性"
+
+msgid "Column setup"
+msgstr "栏目设置"
+
+msgid "Command and its arguments should be properly quoted."
+msgstr "命令与其参数需要正确的引号包裹。"
+
+msgid "Command failed"
+msgstr "命令执行失败"
+
+msgid "Command not supported"
+msgstr "不支持该命令"
+
+msgid "Command not supported by this protocol"
+msgstr "命令不被该协议支持"
+
+msgid "Command:"
+msgstr "命令:"
+
+msgid "Comment"
+msgstr "注释"
+
+msgid "Common name:"
+msgstr "公用名:"
+
+msgid "Communication tainted by router or firewall"
+msgstr "通讯已受路由器或防火墙影响"
+
+msgid "Compare &modification time"
+msgstr "比较修改时间(&M)"
+
+msgid "Compare file&size"
+msgstr "比较文件大小(&S)"
+
+msgid "Comparison &threshold (in minutes):"
+msgstr "对比差异值(分钟)(&T):"
+
+msgid "Comparison threshold needs to be between 0 and 1440 minutes."
+msgstr "对比值必须在 0 和 1440 分钟之间。"
+
+msgid "Compiled for:"
+msgstr "编译目标:"
+
+msgid "Compiled on:"
+msgstr "编译平台:"
+
+msgid "Compiled with:"
+msgstr "编译器:"
+
+msgid "Compiler flags:"
+msgstr "编译参数:"
+
+msgid "Compressed"
+msgstr "已压缩"
+
+msgid "Concurrent transfers"
+msgstr "并发传输"
+
+msgid "Conditions are c&ase sensitive"
+msgstr "条件是区分大小写的(&A)"
+
+msgid "Configuration test"
+msgstr "配置测试"
+
+msgid "Configure passive mode"
+msgstr "配置被动模式"
+
+msgid "Configure port range"
+msgstr "配置端口范围"
+
+msgid "Configuring FileZilla and your network"
+msgstr "配置 FTP 客户端 和您的网络"
+
+msgid "Confirm deletion"
+msgstr "确认删除"
+
+msgid "Confirmation needed"
+msgstr "需要确认"
+
+msgid "Congratulations, your configuration seems to be working."
+msgstr "祝贺您，您的配置看起来能正常运作。"
+
+msgid "Connect bypassing proxy settings"
+msgstr "绕过代理设置连接"
+
+msgid "Connect in current tab"
+msgstr "在当前标签中连接"
+
+msgid "Connect in new tab"
+msgstr "在新标签中连接"
+
+msgid "Connect to specified Site Manager site"
+msgstr "连接至指定的“站点管理器”站点"
+
+msgid "Connecting"
+msgstr "正在连接"
+
+msgid "Connecting to %s"
+msgstr "连接到 %s"
+
+msgid "Connecting to %s through %s proxy"
+msgstr "连接到 %s，通过代理 %s"
+
+msgid "Connecting to %s..."
+msgstr "正在连接 %s..."
+
+msgid "Connection"
+msgstr "连接"
+
+msgid "Connection aborted"
+msgstr "连接中止"
+
+msgid "Connection attempt failed"
+msgstr "连接尝试失败"
+
+msgid "Connection attempt failed with \"%s\", trying next address."
+msgstr "尝试连接“%s”失败，正在尝试下一个地址。"
+
+msgid "Connection attempt failed with \"%s\"."
+msgstr "尝试连接“%s”失败。"
+
+msgid "Connection attempt interrupted by user"
+msgstr "尝试连接被用户终止"
+
+msgid "Connection attempt timed out"
+msgstr "连接尝试超时"
+
+msgid "Connection closed"
+msgstr "连接关闭"
+
+msgid "Connection closed by server"
+msgstr "连接被服务器关闭"
+
+msgid "Connection established, initializing TLS..."
+msgstr "连接已建立，正在初始化 TLS..."
+
+msgid "Connection established, sending HTTP request"
+msgstr "连接已建立，正在发送 HTTP 请求"
+
+msgid "Connection established, waiting for welcome message..."
+msgstr "连接建立，等待欢迎消息..."
+
+msgid "Connection lost"
+msgstr "连接丢失"
+
+msgid "Connection not allowed by ruleset"
+msgstr "规则设定不允许该连接"
+
+msgid "Connection refused"
+msgstr "连接被拒绝"
+
+msgid "Connection refused by server"
+msgstr "连接被服务器拒绝"
+
+msgid "Connection reset by network"
+msgstr "连接被网络复位"
+
+msgid "Connection reset by peer"
+msgstr "连接被对方复位"
+
+msgid "Connection timed out after %d second of inactivity"
+msgid_plural "Connection timed out after %d seconds of inactivity"
+msgstr[0] "%d 秒后无活动，连接超时"
+
+msgid "Connection timed out."
+msgstr "连接超时。"
+
+msgid "Connection to server lost."
+msgstr "与服务器的连接丢失。"
+
+msgid "Connection with proxy established, performing handshake..."
+msgstr "与代理连接建立，进行握手..."
+
+msgid "Connection with server got closed prematurely."
+msgstr "服务器过早地关闭了连接。"
+
+msgid "Connection with the test server failed."
+msgstr "测试服务器的连接失败。"
+
+msgid "Convert key file"
+msgstr "转换密钥文件"
+
+msgid "Copy (%d) of %s"
+msgstr "复制 (%d) / %s"
+
+msgid "Copy of %s"
+msgstr "复制 %s"
+
+msgid "Copy the URLs of the selected items to clipboard."
+msgstr "复制选中项的 URL 到剪贴板。"
+
+msgid "Could not accept connection: %s"
+msgstr "无法接受连接: %s"
+
+msgid "Could not add connection to Site Manager"
+msgstr "无法添加当前连接到站点管理器"
+
+msgid "Could not complete operation"
+msgstr "完成操作"
+
+msgid "Could not connect to server"
+msgstr "无法连接到服务器"
+
+msgid "Could not connect to server: %s"
+msgstr "无法连接到服务器: %s"
+
+msgid "Could not convert command to server encoding"
+msgstr "无法将命令转换成服务器的编码"
+
+msgid "Could not convert private key"
+msgstr "无法转换私钥"
+
+msgid "Could not copy URLs"
+msgstr "无法复制 URL"
+
+msgid "Could not copy data"
+msgstr "无法复制数据"
+
+msgid "Could not create local file %s\n"
+msgstr "无法创建本地文件 %s\n"
+
+msgid "Could not create logging mutex: %s"
+msgstr "无法创建日志锁 (logging mutex): %s"
+
+msgid ""
+"Could not determine the target of the Drag&Drop operation.\n"
+"Either the shell extension is not installed properly or you didn't drop the files into an Explorer window."
+msgstr ""
+"无法确定拖放操作的目标。\n"
+"这是由于 shell 扩展未正确安装，或者您没有把文件拖拽到文件浏览器窗口。"
+
+msgid "Could not establish connection to server"
+msgstr "无法建立到服务器的连接"
+
+msgid ""
+"Could not find the resource files for FileZilla, closing FileZilla.\n"
+"You can set the data directory of FileZilla using the '--datadir <custompath>' commandline option or by setting the FZ_DATADIR environment variable."
+msgstr ""
+"无法加载 FTP 客户端 资源文件，正在关闭 FTP 客户端 。\n"
+"您可以通过从命令行用“ --datadir <路径>”参数启动，或者设置 FZ_DATADIR 环境变量来设置 FTP 客户端的数据目录。"
+
+msgid "Could not generate custom login sequence."
+msgstr "无法生成自定义登录过程。"
+
+msgid ""
+"Could not get distinguished name of certificate issuer, "
+"gnutls_x509_get_issuer_dn failed"
+msgstr "无法获得明确的证书颁发者名称，gnutls_x509_get_issuer_dn 失败"
+
+msgid ""
+"Could not get distinguished name of certificate subject, gnutls_x509_get_dn "
+"failed"
+msgstr "无法获得明确的证书主题名称，gnutls_x509_get_dn 失败"
+
+msgid "Could not get full remote path."
+msgstr "无法得到完整的远程路径。"
+
+msgid "Could not get reply from fzputtygen."
+msgstr "无法得到 fzputtygen 的回应。"
+
+msgid "Could not get temporary directory to download file into."
+msgstr "找不到放置下载文件所需的临时目录。"
+
+msgid "Could not import peer certificates, gnutls_x509_crt_import failed"
+msgstr "无法导入对等认证，gnutls_x509_crt_import 失败"
+
+msgid ""
+"Could not initialize structure for peer certificates, gnutls_x509_crt_init "
+"failed"
+msgstr "无法初始化对等证书结构，gnutls_x509_crt_init 失败"
+
+msgid ""
+"Could not load \"%s\", please make sure the file is valid and can be accessed.\n"
+"Any changes made in the Site Manager will not be saved."
+msgstr ""
+"无法加载“%s”，请确认文件有效并且有权访问。\n"
+"站点管理器的任何更改都无法保存。"
+
+msgid "Could not load key file"
+msgstr "无法加载密钥文件"
+
+msgid "Could not load private key"
+msgstr "无法加载私钥"
+
+msgid ""
+"Could not obtain corresponding local directory for the remote directory '%s'.\n"
+"Disable synchronized browsing and continue changing the remote directory?"
+msgstr ""
+"无法获得远程目录“%s”对应的本地目录。\n"
+"关闭同步浏览并且继续修改本地目录？"
+
+msgid ""
+"Could not obtain corresponding local directory for the remote directory '%s'.\n"
+"Synchronized browsing has been disabled."
+msgstr ""
+"无法获得远程目录“%s”对应的本地目录。\n"
+"同步浏览已经被禁用。"
+
+msgid ""
+"Could not obtain corresponding remote directory for the local directory '%s'.\n"
+"Synchronized browsing has been disabled."
+msgstr ""
+"无法获得远程目录“%s”对应的本地目录。\n"
+"同步浏览已经被禁用。"
+
+msgid "Could not open clipboard"
+msgstr "无法打开剪贴板"
+
+msgid "Could not open log file: %s"
+msgstr "无法打开日志文件: %s"
+
+msgid "Could not parse remote path."
+msgstr "无法解析远程路径。"
+
+msgid "Could not parse server address:"
+msgstr "无法解析服务器地址:"
+
+msgid "Could not read from socket: %s"
+msgstr "无法读取套接字: %s"
+
+msgid "Could not read server item."
+msgstr "无法读取服务器项。"
+
+msgid "Could not seek to offset %s within file"
+msgstr "无法找到文件中的 %s 偏移"
+
+msgid "Could not seek to the end of the file"
+msgstr "无法搜索到文件尾"
+
+msgid "Could not send command to fzputtygen."
+msgstr "无法将命令发送到 fzputtygen。"
+
+msgid "Could not spawn IO thread"
+msgstr "无法生成 IO 线程"
+
+msgid "Could not start proxy handshake: %s"
+msgstr "无法开始代理握手: %s"
+
+msgid "Could not start transfer"
+msgstr "无法启动传输"
+
+msgid ""
+"Could not write \"%s\", any changes to the Site Manager could not be saved: "
+"%s"
+msgstr "无法写入“%s”，站点管理器的任何更改都无法保存: %s"
+
+msgid "Could not write \"%s\", the bookmark could not be added: %s"
+msgstr "无法写入“%s”，不能添加该书签: %s"
+
+msgid "Could not write \"%s\", the global bookmarks could no be saved: %s"
+msgstr "无法写入“%s”，不能添加该全局书签: %s"
+
+msgid ""
+"Could not write \"%s\", the queue could not be saved.\n"
+"%s"
+msgstr ""
+"无法写入“%s”，不能保存队列。\n"
+"%s"
+
+msgid "Could not write \"%s\", the selected sites could not be exported: %s"
+msgstr "无法写入“%s”，不能导出所选择的站点: %s"
+
+msgid "Could not write \"%s\":"
+msgstr "无法写入“%s”:"
+
+msgid "Could not write key file: %s"
+msgstr "无法写入密钥文件: %s"
+
+msgid "Could not write to local file"
+msgstr "无法写入本地文件"
+
+msgid "Could not write to log file: %s"
+msgstr "无法写入日志文件: %s"
+
+msgid "Could not write to socket: %s"
+msgstr "无法写入套接字: %s"
+
+msgid "Country:"
+msgstr "国家:"
+
+msgid "Crea&te new file"
+msgstr "创建新文件(&T)"
+
+msgid "Create &missing local directory and enter it"
+msgstr "创建缺失的本地目录并进入该目录(&M)"
+
+msgid "Create &missing remote directory and enter it"
+msgstr "创建缺失的远程目录并进入该目录(&M)"
+
+msgid "Create a new subdirectory in the current directory"
+msgstr "在当前目录创建一个新的子目录"
+
+msgid "Create a new subdirectory in the current directory and change into it"
+msgstr "在当前目录创建一个新的子目录并进入该目录"
+
+msgid "Create a new, empty file in the current directory"
+msgstr "在当前目录创建一个新的空文件"
+
+msgid "Create director&y and enter it"
+msgstr "创建目录并进入(&Y)"
+
+msgid "Create directory"
+msgstr "创建目录"
+
+msgid "Create empty file"
+msgstr "创建空文件"
+
+msgid "Creating directory"
+msgstr "正在创建目录"
+
+msgid "Creating directory '%s'..."
+msgstr "正在创建目录“%s”..."
+
+msgid "Critical error"
+msgstr "严重错误"
+
+msgid "Critical error:"
+msgstr "严重错误:"
+
+msgid "Critical file transfer error"
+msgstr "严重文件传输错误"
+
+msgid "Critical file transfer error after transferring %s in %s"
+msgstr "传输了 %s (用时 %s) 后出现严重文件传输错误"
+
+msgid ""
+"Current remote directory (%s) is not below the synchronization root (%s).\n"
+"Synchronized browsing has been disabled."
+msgstr ""
+"当前目录“%s”不在同步根目录(%s)下面。\n"
+"关闭同步浏览并且继续修改本地目录？"
+
+msgid "Current transfer type is set to ASCII."
+msgstr "当前的传送类型被设置到 ASCII 模式。"
+
+msgid "Current transfer type is set to automatic detection."
+msgstr "当前的传送类型为自动检测。"
+
+msgid "Current transfer type is set to binary."
+msgstr "当前的传送类型被设置为二进制模式。"
+
+msgid "Cus&tom"
+msgstr "自定义(&T)"
+
+msgid "Custom filter set"
+msgstr "自定义过滤器集合"
+
+msgid "Custom server"
+msgstr "自定义服务器"
+
+msgid "D&ata type"
+msgstr "数据类型(&A)"
+
+msgid "D&ecimal prefixes using SI symbols (e.g. 1 KB = 1000 bytes)"
+msgstr "使用 SI 式十进制前缀 (例如 1 KB = 1000 bytes)(&E)"
+
+msgid "D&efault"
+msgstr "默认(&E)"
+
+msgid "D&elete"
+msgstr "删除(&E)"
+
+msgid "D&irectory comparison"
+msgstr "目录比较(&D)"
+
+msgid "D&isable all"
+msgstr "全部禁用(&I)"
+
+msgid "D&o not save passwords"
+msgstr "不要保存密码(&O)"
+
+msgid "D&ouble-click action on directories:"
+msgstr "双击目录操作(&O):"
+
+msgid "D&uplicate"
+msgstr "复制(&U)"
+
+msgid "DOS-like with virtual paths"
+msgstr "带虚拟路径的 DOS 式"
+
+msgid "Dangerous filetype"
+msgstr "危险的文件格式"
+
+msgid "Data"
+msgstr "数据"
+
+msgid "Data socket closed too early."
+msgstr "数据套接字过早关闭。"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date formatting"
+msgstr "日期格式"
+
+msgid "Date/time format"
+msgstr "日期/时间格式"
+
+msgid "Date/time unknown"
+msgstr "日期/时间未知"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Debugging settings"
+msgstr "调试设置"
+
+msgid "Default &local directory:"
+msgstr "默认本地目录(&L):"
+
+msgid "Default (Autodetect)"
+msgstr "默认 (自动检测)"
+
+msgid "Default editor not properly quoted."
+msgstr "没有正确引用默认编辑器。"
+
+msgid "Default file exists action"
+msgstr "文件存在时的默认操作"
+
+msgid "Default r&emote directory:"
+msgstr "默认远程目录(&E):"
+
+msgid ""
+"Default remote path cannot be parsed. Make sure it is a valid absolute path "
+"for the selected server type."
+msgstr "默认远程路经无法解析。请确认是否有效绝对路径，并且被所选择的服务器类型支持。"
+
+msgid "Default system language"
+msgstr "系统默认语言"
+
+msgid "Default transfer mode:"
+msgstr "默认传输模式:"
+
+msgid "Default transfer type:"
+msgstr "默认传输类型:"
+
+msgid "Default: http://ip.filezilla-project.org/ip.php"
+msgstr "默认: http://ip.filezilla-project.org/ip.php"
+
+msgid ""
+"Delay between failed connection attempts has to be between 1 and 999 "
+"seconds."
+msgstr "在失败的登陆请求之间的延迟必须在 1 和 999 秒之间。"
+
+msgid ""
+"Delaying connection for %d second due to previously failed connection "
+"attempt..."
+msgid_plural ""
+"Delaying connection for %d seconds due to previously failed connection "
+"attempt..."
+msgstr[0] "由于上一次尝试连接失败，将推迟连接 %d 秒..."
+
+msgid "Delete Site Manager entry"
+msgstr "清除站点管理器记录"
+
+msgid "Delete selected directory"
+msgstr "删除所选的目录"
+
+msgid "Delete selected files and directories"
+msgstr "删除选定的文件和目录"
+
+msgid "Deleting \"%s\""
+msgstr "正在删除“%s”"
+
+msgid "Deleting %u files from \"%s\""
+msgstr "正在从“%2$s”删除 %1$u 个文件"
+
+msgid "Deleting symbolic link"
+msgstr "正在删除符号链接"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Details"
+msgstr "详细资料"
+
+msgid "Details for new key:"
+msgstr "新密钥的详细资料:"
+
+msgid "Detected newer version of FileZilla"
+msgstr "有新版的 FTP 客户端"
+
+msgid "Dire&ctories"
+msgstr "目录(&C)"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Directory"
+msgstr "目录"
+
+msgid "Directory comparison"
+msgstr "比较目录"
+
+msgid "Directory comparison failed"
+msgstr "比较目录失败"
+
+msgid ""
+"Directory containing the logfile does not exist or filename is invalid."
+msgstr "保存日志文件的目录不存在或文件名无效。"
+
+msgid "Directory listing aborted by user"
+msgstr "目录列表被用户终止"
+
+msgid "Directory listing failed"
+msgstr "目录列表失败"
+
+msgid "Directory listing filters"
+msgstr "目录列表过滤器"
+
+msgid "Directory listing of \"%s\" successful"
+msgstr "列出“%s”的目录成功"
+
+msgid "Directory listing successful"
+msgstr "列出目录成功"
+
+msgid "Disa&ble all"
+msgstr "全部禁用(&B)"
+
+msgid ""
+"Disable synchronized browsing and continue changing the remote directory?"
+msgstr "关闭同步浏览并且继续修改本地目录？"
+
+msgid ""
+"Disable this option again if you will not be able to see the correct "
+"directory contents anymore."
+msgstr "如果您无法再看见文件时请停用此选项。"
+
+msgid "Disconnect from server"
+msgstr "从服务器断开"
+
+msgid "Disconnected from server"
+msgstr "已从服务器断开"
+
+msgid "Disconnected from server: %s"
+msgstr "已从服务器断开: %s"
+
+msgid "Disconnecting from previous server"
+msgstr "正在从上一个服务器断开连接"
+
+msgid "Disconnects from the currently visible server"
+msgstr "断开当前可见的服务器"
+
+msgid "Display about dialog"
+msgstr "显示关于对话框"
+
+msgid "Do &not use default editor"
+msgstr "不使用默认编辑器(&N)"
+
+msgid "Do &nothing"
+msgstr "什么都不做(&N)"
+
+msgid "Do the same with &all selected files already being edited"
+msgstr "对所有正在编辑的选中文件执行相同操作(&A):"
+
+msgid "Do you really want to close FileZilla?"
+msgstr "您真的要关闭 FTP 客户端？"
+
+msgid ""
+"Do you really want to delete all Site Manager entries and the transfer "
+"queue?"
+msgstr "您真的想删除所有站点管理器里的记录和传输队列？"
+
+msgid "Do you really want to delete all Site Manager entries?"
+msgstr "您真的想删除所有站点管理器里的记录？"
+
+msgid "Do you really want to delete selected entry?"
+msgstr "您真的想删除所选的记录？"
+
+msgid "Do you really want to delete the transfer queue?"
+msgstr "您真的想删除传输队列？"
+
+msgid "Do you really want to send '%s' to the server?"
+msgstr "您真的想发送“%s”给服务器吗?"
+
+msgid "Do you want to reopen this file?"
+msgstr "您真的要重新打开这个文件吗？"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Don't use external IP address on &local connections."
+msgstr "本地连接不使用外部 IP 地址(&L)。"
+
+msgid "Dotfiles are filenames starting with a dot, e.g. .htaccess"
+msgstr "文件名是以一个点开始的，例如: .htaccess"
+
+msgid "Double-click action"
+msgstr "双击操作"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download &limit:"
+msgstr "下载限制(&L):"
+
+msgid "Download limit: %s/s"
+msgstr "下载限制: %s/s"
+
+msgid "Download limit: none"
+msgstr "下载限制: 无"
+
+msgid "Download search results"
+msgstr "下载搜索结果"
+
+msgid "Download selected directory"
+msgstr "下载选定的目录"
+
+msgid "Download selected files and directories"
+msgstr "下载选定的文件和目录"
+
+msgid ""
+"Download speed: %s/s\n"
+"Upload speed: %s/s"
+msgstr ""
+"下载速度: %s/s\n"
+"上传速度: %s/s"
+
+msgid "Downloading"
+msgstr "正在下载"
+
+msgid "Downloading %s"
+msgstr "正在下载 %s"
+
+msgid "Downloading update..."
+msgstr "正在下载更新......"
+
+msgid ""
+"Drag&drop between different instances of FileZilla has not been implemented "
+"yet."
+msgstr "在不同的 FTP 客户端 的实例间拖放还未被实现。"
+
+msgid "Drag&drop between different servers has not been implemented yet."
+msgstr "在不同服务器之间拖放还未实现。"
+
+msgid "Dupl&icate"
+msgstr "复制(&I)"
+
+msgid "E&nable all"
+msgstr "全部启用(&N)"
+
+msgid "E&nter directory"
+msgstr "进入目录(&N)"
+
+msgid "E&xecute"
+msgstr "执行(&X)"
+
+msgid "E&xit"
+msgstr "退出(&X)"
+
+msgid "E&xport..."
+msgstr "导出(&X)…"
+
+msgid "E-Mail:"
+msgstr "电子邮件:"
+
+msgid "Each filter needs at least one condition."
+msgstr "每个过滤器至少要有一个条件。"
+
+msgid "Edit filters"
+msgstr "编辑过滤器"
+
+msgid ""
+"Edit the file with the configured editor and upload changes to the server."
+msgstr "使用设置的编辑器编辑文件并上传修改后的文件到服务器。"
+
+msgid "Editing directories is not supported"
+msgstr "不支持编辑目录。"
+
+msgid "Editing failed"
+msgstr "编辑失败"
+
+msgid "Editing search results"
+msgstr "编辑搜索结果"
+
+msgid "Email:"
+msgstr "电子邮件:"
+
+msgid "Empty command"
+msgstr "空命令"
+
+msgid "Empty command."
+msgstr "空命令。"
+
+msgid "Empty directory listing"
+msgstr "空目录列表"
+
+msgid "Empty directory."
+msgstr "空目录。"
+
+msgid "Empty file extension."
+msgstr "空文件扩展名。"
+
+msgid "Empty filter names are not allowed."
+msgstr "过滤器名称不能为空。"
+
+msgid "Empty name"
+msgstr "空名称"
+
+msgid "Empty quoted string."
+msgstr "空的引用字串。"
+
+msgid "En&able all"
+msgstr "全部启用(&A)"
+
+msgid "Enable invalid character &filtering"
+msgstr "启用无效字符过滤(&F)"
+
+msgid "Encrypted"
+msgstr "已加密"
+
+msgid "Encryption"
+msgstr "加密"
+
+msgid "Encryption details"
+msgstr "加密细节"
+
+msgid "End comparison and change sorting order?"
+msgstr "结束对比并改变排序？"
+
+msgid "Enter &custom command..."
+msgstr "输入自定义命令(&C)..."
+
+msgid "Enter 0 for unlimited speed."
+msgstr "输入 0 表示无速度限制。"
+
+msgid "Enter command"
+msgstr "输入命令"
+
+msgid "Enter custom command"
+msgstr "输入自定义命令"
+
+msgid "Enter directory"
+msgstr "进入目录"
+
+msgid "Enter filter name"
+msgstr "输入过滤器名称"
+
+msgid "Enter name for filterset"
+msgstr "输入过滤器集合名称"
+
+msgid "Enter new name for filterset"
+msgstr "输入过滤器集合新名称"
+
+msgid "Enter password"
+msgstr "输入密码"
+
+msgid "Enter selected directory"
+msgstr "进入所选的目录"
+
+msgid ""
+"Enter the address of the server.\n"
+"To specify the server protocol, prepend the host with the protocol identifier. If no protocol is specified, the default protocol (ftp://) will be used.\n"
+"You can also enter complete URLs in the form protocol://user:pass@host:port here, the values in the other fields will be overwritten then.\n"
+"\n"
+"Supported protocols are:\n"
+"- ftp:// for normal FTP with optional encryption\n"
+"- sftp:// for SSH file transfer protocol\n"
+"- ftps:// for FTP over TLS (implicit)\n"
+"- ftpes:// for FTP over TLS (explicit)"
+msgstr ""
+"输入服务器地址。\n"
+"要指定服务器的协议类型，在前面加上主机协议标示符。如果没有指定协议，会使用默认协议(ftp://)。\n"
+"您也可以输入完整的 URL 地址，使用如下格式 protocol://user:pass@host:port，这样其他相应字段的值会被覆盖。\n"
+"\n"
+"支持的协议有:\n"
+"- ftp:// 普通 FTP，可加密\n"
+"- sftp:// SSH 文件传输协议\n"
+"- ftps:// FTP over TLS (隐式)\n"
+"- ftpes:// FTP over TLS (显式)"
+
+msgid ""
+"Enter the password for the file '%s'.\n"
+"The converted file will be protected with the same password."
+msgstr ""
+"为文件“%s”输入密码。\n"
+"请注意转换后的文件仍使用该密码。"
+
+msgid ""
+"Enter the port on which the server listens.\n"
+"The default for FTP is 21, the default for SFTP is 22."
+msgstr ""
+"输入服务器监听的端口。\n"
+"FTP 的默认值是 21，SFTP 的默认值是 22。"
+
+msgid "Enter username and password"
+msgstr "输入用户名和密码"
+
+msgid "Error exporting settings"
+msgstr "导出设置错误"
+
+msgid "Error importing"
+msgstr "导入出错"
+
+msgid "Error loading queue"
+msgstr "加载队列出错"
+
+msgid "Error loading xml file"
+msgstr "导入 XML 文件出错"
+
+msgid "Error saving queue"
+msgstr "保存队列出错"
+
+msgid "Error starting program"
+msgstr "启动程序出错"
+
+msgid "Error writing xml file"
+msgstr "写入 XML 文件出错"
+
+msgid "Error:"
+msgstr "错误:"
+
+msgid "Example: png \"c:\\program files\\viewer\\viewer.exe\" -open"
+msgstr "示例: png “c:\\program files\\viewer\\viewer.exe”-open"
+
+msgid "Examples"
+msgstr "示例"
+
+msgid "Exe&cute"
+msgstr "执行(&C)"
+
+msgid "Executable contains no version info, cannot check for updates."
+msgstr "程序未包含版本信息，无法检查更新。"
+
+msgid "Explorer"
+msgstr "浏览器"
+
+msgid "Export &Queue"
+msgstr "导出队列(&Q)"
+
+msgid "Export &Settings"
+msgstr "导出设置(&S)"
+
+msgid "Export settings"
+msgstr "导出设置"
+
+msgid "F&ilter name:"
+msgstr "过滤器名(&I):"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "FTP - File Transfer Protocol"
+msgstr "FTP - 文件传输协议"
+
+msgid "FTP - File Transfer Protocol with optional encryption"
+msgstr "FTP - 可选加密的文件传输协议"
+
+msgid "FTP - Insecure File Transfer Protocol"
+msgstr "FTP - 不安全的文件传输协议"
+
+msgid "FTP Engine not initialized, can't connect"
+msgstr "FTP 引擎没有初始化，无法连接"
+
+msgid "FTP Keep-alive"
+msgstr "FTP Keep-alive"
+
+msgid "FTP Proxy"
+msgstr "FTP 代理服务器"
+
+msgid "FTP URL"
+msgstr "FTP 地址"
+
+msgid ""
+"FTP uses secondary connections for data transfers. These additional "
+"connections can be established in two ways."
+msgstr "FTP 使用另一些连接来传输数据。这些额外的连接有两种方法来建立。"
+
+msgid "FTPES - FTP over explicit TLS"
+msgstr "FTPES - 通过显式 TLS 的 FTP"
+
+msgid "FTPS - FTP over implicit TLS"
+msgstr "FTPS - 通过隐式 TLS 的 FTP"
+
+msgid "Failed to change directory"
+msgstr "改变目录失败"
+
+msgid "Failed to change language"
+msgstr "切换语言失败"
+
+msgid "Failed to copy or move sites"
+msgstr "无法复制或移动站点"
+
+msgid "Failed to create backup copy of xml file"
+msgstr "创建 XML 文件的备件副本失败"
+
+msgid "Failed to create listen socket, aborting"
+msgstr "创建监听套接字失败，正在中止"
+
+msgid "Failed to create listening socket for active mode transfer"
+msgstr "为主动模式传输创建监听套接字失败"
+
+msgid "Failed to get 'My Documents' path"
+msgstr "无法获取“我的文档”路径"
+
+msgid "Failed to get desktop path"
+msgstr "无法获取桌面路径"
+
+msgid "Failed to get peer address of control connection, connection closed."
+msgstr "无法获取控制连接的对等地址，连接已关闭。"
+
+msgid "Failed to get peer address of data connection, connection closed."
+msgstr "无法获取数据连接的对等地址，连接已关闭。"
+
+msgid "Failed to initialize FTP engine"
+msgstr "FTP 引擎初始化失败"
+
+msgid "Failed to initialize TLS."
+msgstr "TLS 初始化失败。"
+
+msgid "Failed to load panels, invalid resource files?"
+msgstr "导入面板失败，无效资源文件？"
+
+msgid "Failed to load private key: %s"
+msgstr "加载私钥: %s 失败"
+
+msgid "Failed to open \"%s\" for appending/writing"
+msgstr "打开“%s”追加/写入失败"
+
+msgid "Failed to open \"%s\" for reading"
+msgstr "打开“%s”读取失败"
+
+msgid "Failed to open \"%s\" for writing"
+msgstr "打开“%s”写入失败"
+
+msgid "Failed to parse returned path."
+msgstr "无法解析返回的路径。"
+
+msgid "Failed to receive data"
+msgstr "接收数据失败"
+
+msgid "Failed to retrieve directory listing"
+msgstr "读取目录列表失败"
+
+msgid "Failed to retrieve external ip address, aborting"
+msgstr "无法获取外部 IP 地址，中止"
+
+msgid "Failed to retrieve external ip address, using local address"
+msgstr "无法获取外部 IP 地址，使用本地地址。"
+
+msgid "Failed to retrieve local ip address."
+msgstr "无法获取本地 IP 地址。"
+
+msgid "Failed to retrieve local ip address. Aborting"
+msgstr "无法获取本地 IP 地址。中止"
+
+msgid "Failed to retrieve the external IP address."
+msgstr "无法获取外部 IP 地址。"
+
+msgid "Failed to send command."
+msgstr "发送命令失败。"
+
+msgid "Failed to set language to %s (%s), using default system language"
+msgstr "无法将语言设置为 %s (%s)，将使用系统默认语言。"
+
+msgid ""
+"Failed to set language to %s (%s), using default system language (%s, %s)."
+msgstr "无法将语言设置为 %s (%s)，将使用系统默认语言 (%s，%s)。"
+
+msgid "Failed to set language to %s (%s), using default system language."
+msgstr "无法将语言设置为 %s (%s)，将使用系统默认语言。"
+
+msgid "Failed to set language to %s, using default system language"
+msgstr "无法将语言设置为 %s，将使用默认系统语言"
+
+msgid "Failed to set language to %s, using default system language (%s, %s)."
+msgstr "无法将语言设置为 %s，将使用系统默认语言(%s，%s)。"
+
+msgid "Failed to set language to %s, using default system language."
+msgstr "无法将语言设置为 %s，将使用系统默认语言。"
+
+msgid "Failed to validate settings"
+msgstr "校验设置失败"
+
+msgid "Failed to verify peer certificate"
+msgstr "验证对等证书失败"
+
+msgid "Failed to write to file %s"
+msgstr "写入 %s 文件失败"
+
+msgid "Failed to write xml file"
+msgstr "写入 xml 文件错误"
+
+msgid "Failed transfers"
+msgstr "传输失败"
+
+msgid "Fall back to active mode"
+msgstr "退回主动模式"
+
+msgid "Fil&e:"
+msgstr "文件(&E):"
+
+msgid "Fil&es"
+msgstr "文件(&E)"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File Types"
+msgstr "文件类型"
+
+msgid "File descriptor not a socket"
+msgstr "文件描述符不是套接字"
+
+msgid "File does not contain any importable data."
+msgstr "文件中不包含任何可导入的数据。"
+
+msgid "File editing"
+msgstr "文件编辑"
+
+msgid "File exists"
+msgstr "文件已存在"
+
+msgid "File exists action"
+msgstr "对已存在文件的操作"
+
+msgid "File has changed"
+msgstr "文件已改变"
+
+msgid "File lists"
+msgstr "文件列表"
+
+msgid "File not found"
+msgstr "文件未找到"
+
+msgid "File search"
+msgstr "文件搜索"
+
+msgid "File transfer aborted by user"
+msgstr "传输被用户终止"
+
+msgid "File transfer aborted by user after transferring %s in %s"
+msgstr "传输了 %s (用时%s)后用户中止了文件传输"
+
+msgid "File transfer failed"
+msgstr "文件传输失败"
+
+msgid "File transfer failed after transferring %s in %s"
+msgstr "传输了 %s (用时%s)后文件传输失败"
+
+msgid "File transfer skipped"
+msgstr "文件传输被跳过"
+
+msgid "File transfer successful"
+msgstr "文件传输成功"
+
+msgid "File transfer successful, transferred %s in %s"
+msgstr "文件传输成功，传输了 %s (用时%s)"
+
+msgid "File transfers still in progress."
+msgstr "文件传输仍在进行。"
+
+msgid "File would transfer with ASCII data type."
+msgstr "文件将以 ASCII 的数据类型传送。"
+
+msgid "File would transfer with binary data type."
+msgstr "文件将以二进制的数据类型传送。"
+
+msgid "FileZilla"
+msgstr "FTP 客户端"
+
+msgid "FileZilla Error"
+msgstr "FTP 客户端 错误"
+
+msgid ""
+"FileZilla can now test your configuration to ensure everything is configured"
+" properly."
+msgstr "FTP 客户端 现在可以测试您的配置以确保所有配置正常。"
+
+msgid "FileZilla is already connected to a server."
+msgstr "FTP 客户端 已经连接了一台服务器。"
+
+msgid ""
+"FileZilla needs to be restarted for the language change to take effect."
+msgstr "改变语言需要重启 FTP 客户端 才会生效。"
+
+msgid "FileZilla updates"
+msgstr "FTP 客户端 更新"
+
+msgid "Filelist status &bars"
+msgstr "文件列表状态栏(&B)"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Filename &filters..."
+msgstr "文件名过滤器(&F)..."
+
+msgid "Filename cannot be constructed for directory %s and filename %s"
+msgstr "无法为目录 %s 和文件名 %s 构造文件名"
+
+msgid "Filename invalid"
+msgstr "文件名无效"
+
+msgid "Filename unchanged"
+msgstr "文件名没有改变"
+
+msgid "Filename:"
+msgstr "文件名:"
+
+msgid "Filenames may not contain any of the following characters: / * ? < > |"
+msgstr "文件名不能包含以下任何字符: / * ? < > |"
+
+msgid ""
+"Filenames may not contain any of the following characters: / \\ : * ? \" < >"
+" |"
+msgstr "文件名不能包含以下任何字符: / \\ : * ? \" < > |"
+
+msgid "Files currently being edited"
+msgstr "正在编辑的文件"
+
+msgid "Filesize"
+msgstr "文件大小"
+
+msgid "Filesize format"
+msgstr "文件大小格式"
+
+msgid "Filetype"
+msgstr "文件类型"
+
+msgid "Filetype associations"
+msgstr "文件格式关联"
+
+msgid "Filter applies to:"
+msgstr "过滤器应用范围:"
+
+msgid "Filter invalid characters in filenames"
+msgstr "过滤器的文件名称有无效字符"
+
+msgid "Filter name already exists"
+msgstr "过滤器名已经存在"
+
+msgid "Filter out items matching all of the following"
+msgstr "滤除匹配以下所有条件的项目"
+
+msgid "Filter out items matching any of the following"
+msgstr "滤除匹配以下任一条件的项目"
+
+msgid "Filter out items matching none of the following"
+msgstr "滤除不匹配以下任一条件的项目"
+
+msgid "Filter set already exists"
+msgstr "过滤器集合已经存在"
+
+msgid "Filter the directory listings"
+msgstr "过滤目录列表"
+
+msgid "Filter validation failed"
+msgstr "过滤器核对失败"
+
+msgid "Find &files"
+msgstr "查找文件(&F)"
+
+msgid "Find d&irectories"
+msgstr "查找目录(&I)"
+
+msgid "Fingerprint (SHA-1):"
+msgstr "指纹(SHA-1):"
+
+msgid "Fingerprint (SHA-256):"
+msgstr "指纹(SHA-256):"
+
+msgid "Fingerprint:"
+msgstr "指纹:"
+
+msgid "Firewall and router configuration wizard"
+msgstr "防火墙和路由器配置向导"
+
+msgid ""
+"For more detailed information about what these options do, please run the "
+"network configuration wizard."
+msgstr "请运行网络配置向导获取关于这些选项的更多信息。"
+
+msgid "For reliability you should specify a range of at least 10 ports."
+msgstr "您至少需要指定 10 个端口才能保证可靠性。"
+
+msgid ""
+"For this session the default settings will be used. Any changes to the "
+"settings will not be saved."
+msgstr "当前会话将使用默认设置，并且任何设置的修改都不会被保存。"
+
+msgid "Force &UTF-8"
+msgstr "强制 &UTF-8"
+
+msgid "Force showing &hidden files"
+msgstr "强制显示隐藏文件(&H)"
+
+msgid "Force showing hidden files"
+msgstr "强制显示隐藏文件"
+
+msgid "Format specifications:"
+msgstr "格式规定:"
+
+msgid "Format: Extension followed by properly quoted command and arguments."
+msgstr "格式: 扩展名后跟随正确的指令和参数。"
+
+msgid "Found new %s %s\n"
+msgstr "发现了新的 %s %s\n"
+
+msgid "Further documentation"
+msgstr "更多文档"
+
+msgid "General"
+msgstr "常规"
+
+msgid "General SOCKS server failure"
+msgstr "常规 SOCKS 服务器故障"
+
+msgid "Generic proxy"
+msgstr "通用代理"
+
+msgid "Get external IP address from the following URL:"
+msgstr "从以下 URL 得到外部 IP 地址:"
+
+msgid "Getting help"
+msgstr "获得帮助"
+
+msgid "Given filterset name already exists, overwrite filter set?"
+msgstr "给定的过滤器集合名已经存在，是否覆盖过滤器集合？"
+
+msgid "Global bookmarks"
+msgstr "全局书签"
+
+msgid "GnuTLS error %d"
+msgstr "GnuTLS 错误 %d"
+
+msgid "GnuTLS error %d in %s"
+msgstr "GnuTLS 错误 %d，位于 %s"
+
+msgid "GnuTLS error %d in %s: %s"
+msgstr "GnuTLS 错误 %d，位于 %s: %s"
+
+msgid "GnuTLS error %d: %s"
+msgstr "GnuTLS 错误 %d: %s"
+
+msgid "GnuTLS:"
+msgstr "GnuTLS:"
+
+msgid "Group permissions"
+msgstr "组权限"
+
+msgid "H&igh"
+msgstr "高(&I)"
+
+msgid "HTTPS - HTTP over TLS"
+msgstr "HTTPS - 通过 TLS 的 HTTP"
+
+msgid "Hash:"
+msgstr "散列值:"
+
+msgid "Hidden"
+msgstr "隐藏"
+
+msgid "High"
+msgstr "高"
+
+msgid "Highest"
+msgstr "最高"
+
+msgid "Highest available port has to be a number between 1024 and 65535."
+msgstr "最高的可用端口号必须在 1024 到 65535 之间。"
+
+msgid ""
+"Hold the shift key to toggle the filter state on both sides simultaneously."
+msgstr "按住 shift 键来同时开/关两边的过滤器状态。"
+
+msgid "Homepage:"
+msgstr "主页:"
+
+msgid "Host is down"
+msgstr "主机已关闭"
+
+msgid "Host key fingerprint:"
+msgstr "主机密钥指纹:"
+
+msgid "Host key mismatch"
+msgstr "主机密钥不匹配"
+
+msgid "Host starts with '[' but no closing bracket found."
+msgstr "主机名以“[”开始，但没有结束符“]”。"
+
+msgid "Host unreachable"
+msgstr "无法连接主机"
+
+msgid "Host:"
+msgstr "主机:"
+
+msgid "Hours,"
+msgstr "小时，"
+
+msgid "I&SO 8601 (example: 15:47)"
+msgstr "I&SO 8601 (示例: 15:47)"
+
+msgid "IPv6 addresses are not supported with SOCKS4 proxy"
+msgstr "SOCKS4 代理不支持 IPv6 地址"
+
+msgid ""
+"If no data is sent or received during an operation for longer than the "
+"specified time, the connection will be closed and FileZilla will try to "
+"reconnect."
+msgstr "如果一次操作中，在指定的时间长度内没有发出或收到数据，连接将被关闭，FTP 客户端 会尝试重新连接。"
+
+msgid "If reporting bugs, please provide logs with \"Verbose\" logging level."
+msgstr "如果要报告问题，请提供“详细”等级的日志文件。"
+
+msgid ""
+"If the automatic test at the end of this wizard succeeds, but you cannot "
+"transfer files to a particular server, the server might be misconfigured and"
+" you should try active mode. You can set the transfer mode on a per-server "
+"basis in the Site Manager."
+msgstr ""
+"如果这个向导最后的自动测试成功，但您仍然不能向某个特定的服务器传输文件，那么可能是服务器的配置有问题，您可以尝试使用主动模式。您可以在站点管理器中设置特定服务器的传输模式。"
+
+msgid ""
+"If the fallback option is enabled, you will be able to connect to "
+"misconfigured servers which reject the selected transfer mode."
+msgstr "如果启用了退回选项，您将能连接到因错误配置而拒绝选定传输模式的站点。"
+
+msgid ""
+"If the host key change was not expected, please contact the server "
+"administrator."
+msgstr "如果主机密钥的更换有异，请联系服务器管理员。"
+
+msgid ""
+"If the problem persists, some router and/or firewall keeps blocking "
+"FileZilla."
+msgstr "如果这个问题仍然存在，则是某些路由器和/或防火墙一直在阻止 FTP 客户端。"
+
+msgid ""
+"If the problem persists, some router and/or firewall keeps interrupting the "
+"connection."
+msgstr "如果这个问题仍然存在，则是某些路由器和/或防火墙仍在打断该连接。"
+
+msgid ""
+"If the size of the logfile reaches the limit, it gets renamed by adding "
+"\".1\" to the end of the filename (possibly overwriting older logfiles) and "
+"a new file gets created."
+msgstr "如果日志文件的体积达到限制，它将以文件名末尾将加上“.1”的方式重命名(有可能覆盖旧的日志文件)，之后新的文件将会被创建。"
+
+msgid ""
+"If the symlink points to a directory, FileZilla can either delete the "
+"symbolic link or remove the contents of the linked directory."
+msgstr "如果符号链接指向一个目录，FTP 客户端 可以删除符号链接或者删除所指向的目录内容。"
+
+msgid ""
+"If this problem persists, please contact your router or firewall "
+"manufacturer for a solution."
+msgstr "如果这个问题仍然存在，请联系您的路由器或防火墙的制造商。"
+
+msgid "If this problem stays, please contact your router manufacturer."
+msgstr "如果这个问题仍然存在，请联系您的路由器制造商。"
+
+msgid ""
+"If using 'overwrite if newer', your system time has to be synchronized with "
+"the server. If the time differs (e.g. different timezone), specify a "
+"timezone offset in the site manager."
+msgstr "要是选择“如果较新就覆盖”，您的系统时间需要与服务器同步。若时间不同 (例如不同的时区)，请在站点管理器中选择一个时区。"
+
+msgid ""
+"If using timestamp based comparison, consider two files equal if their "
+"timestamp difference does not exceed this threshold."
+msgstr "如果使用时间戳方式比较，只要两个文件的时间差异不超过限定值便视为相同。"
+
+msgid "If you change the language, you need to restart FileZilla."
+msgstr "如果改变了语言，您需要重启 FTP 客户端。"
+
+msgid ""
+"If you click on test, FileZilla will connect to probe.filezilla-project.org "
+"and will perform some simple tests."
+msgstr "如果您点击了测试，FTP 客户端 会连接到 probe.filezilla-project.org 并且进行一些简单测试。"
+
+msgid "If you close FileZilla, your changes will be lost."
+msgstr "如果关闭 FTP 客户端，您所做的改变将会丢失。"
+
+msgid ""
+"If you enter the wrong filetypes, those files may get corrupted when "
+"transferred."
+msgstr "如果您输入了错误的文件类型，那些文件可能会在传输完成后被损坏。"
+
+msgid "If you get any errors, your configuration is not correct."
+msgstr "如果遇到了错误，说明您的配置不正确。"
+
+msgid ""
+"If you have problems to retrieve directory listings or to transfer files, "
+"try to change the default transfer mode."
+msgstr "如果您在取得目录列表或传输文件的时候碰到问题，请试着改变默认传输模式。"
+
+msgid ""
+"If you keep having problems with a specific server, the server itself or a "
+"remote router or firewall might be misconfigured. In this case try to toggle"
+" passive mode and contact the server administrator for help."
+msgstr ""
+"如果在一个特定的服务器上一直有问题，那个服务器本身或者路由器可能被配置错了。这种情况下您可以试着开/关被动模式，并和服务器管理员联系以获取帮助。"
+
+msgid ""
+"If you successfully complete the wizard and the final test succeeds, any "
+"firewalls and routers you have should be configured properly."
+msgstr "如果您成功完成了向导并且最后测试成功，任何您使用的防火墙和路由器应该也已经正确配置。"
+
+msgid ""
+"If you use a firewall, make sure FileZilla is allowed to accept connection "
+"on all given ports."
+msgstr "如果您使用了防火墙，确保 FTP 客户端 被允许在所有给定的端口上进行连接。"
+
+msgid ""
+"If you use a router, make sure all these ports are forwarded to the machine "
+"you're running FileZilla on."
+msgstr "如果您使用了路由器，确保所有的端口都已被转发到您运行 FTP 客户端 的机器上。"
+
+msgid ""
+"If your router keeps changing the IP address, please contact your router "
+"manufacturer."
+msgstr "如果您的路由器总是变换 IP 地址，请联系您的路由器制造商。"
+
+msgid "Import data from older version"
+msgstr "从旧版中导入数据"
+
+msgid "Import settings"
+msgstr "导入设置"
+
+msgid "Import successful"
+msgstr "导入成功"
+
+msgid "Improperly quoted association."
+msgstr "未正确引用的关联。"
+
+msgid ""
+"In active mode, FileZilla has to listen on a port for data transfers. You "
+"have to specify which ports FileZilla will use."
+msgstr "主动模式下，FTP 客户端 必须监听一个端口以便进行数据传输。您必须指定 FTP 客户端 使用哪个端口。"
+
+msgid ""
+"In case you have a router, you will have to forward all available ports, as "
+"FileZilla has no influence on the ports your system chooses."
+msgstr "如果您有路由器，您必须转发所有可用的端口，因为 FTP 客户端 无法影响您的系统选择哪个端口。"
+
+msgid ""
+"In order to use active mode, FileZilla needs to know your external IP "
+"address."
+msgstr "为了使用主动模式，FTP 客户端 需要知道您的外部 IP 地址。"
+
+msgid ""
+"In passive mode, which is recommended for most users, FileZilla asks the "
+"server for a port and connects to the given port. Not much configuration has"
+" to be done for this."
+msgstr "在被动模式下(推荐大多数用户使用)，FTP 客户端 请求服务器给出一个端口，然后连接到那个端口去。不需要太多的配置。"
+
+msgid ""
+"Incomplete chain, top certificate is not self-signed certificate authority "
+"certificate"
+msgstr "不完整的认证链，顶级证书不是自签发证书授权证书"
+
+msgid "Incorrect password"
+msgstr "密码错误"
+
+msgid ""
+"Information about the latest version of FileZilla could not be retrieved. "
+"Please try again later."
+msgstr "无法获取最新版本 FTP 客户端 的信息。请稍后重试。"
+
+msgid "Initializing TLS..."
+msgstr "初始化 TLS 中..."
+
+msgid "Insecure algorithm!"
+msgstr "不安全的算法！"
+
+msgid "Insecure server, it does not support FTP over TLS."
+msgstr "不安全的服务器，不支持 FTP over TLS。"
+
+msgid "Interactive"
+msgstr "交互式"
+
+msgid "Interface"
+msgstr "界面"
+
+msgid "Interrupted by signal"
+msgstr "被信号量中断"
+
+msgid "Interrupted by user"
+msgstr "用户终止"
+
+msgid "Invalid Content-Length"
+msgstr "无效的 Content-Length"
+
+msgid "Invalid HTTP Response"
+msgstr "无效的 HTTP 响应"
+
+msgid "Invalid argument passed"
+msgstr "传递了无效参数"
+
+msgid ""
+"Invalid character sequence received, disabling UTF-8. Select UTF-8 option in"
+" site manager to force UTF-8."
+msgstr "收到无效字节，将禁用 UTF-8 编码。请在站点管理器中强制选择 UTF-8 编码。"
+
+msgid "Invalid chunk size"
+msgstr "无效的块大小"
+
+msgid "Invalid data received"
+msgstr "收到无效数据"
+
+msgid "Invalid date"
+msgstr "无效数据"
+
+msgid "Invalid filename"
+msgstr "无效文件名"
+
+msgid "Invalid host, after closing bracket only colon and port may follow."
+msgstr "无效主机名，在闭合括号之后只能是冒号加端口号。"
+
+msgid "Invalid input"
+msgstr "无效输入"
+
+msgid "Invalid port given. The port has to be a value from 1 to 65535."
+msgstr "给定的端口无效，端口号必须是一个 1 到 65535 间的值。"
+
+msgid ""
+"Invalid protocol specified. Valid protocols are:\n"
+"ftp:// for normal FTP with optional encryption,\n"
+"sftp:// for SSH file transfer protocol,\n"
+"ftps:// for FTP over TLS (implicit) and\n"
+"ftpes:// for FTP over TLS (explicit)."
+msgstr ""
+"指定的协议无效。有效的协议有:\n"
+"ftp:// 普通 FTP， 可加密\n"
+"sftp:// SSH 文件传输协议，\n"
+"ftps:// 通过 TLS 传输的 FTP (隐式)以及\n"
+"ftpes:// 通过 TLS 传输的 FTP (显式)。"
+
+msgid ""
+"Invalid proxy host, after closing bracket only colon and port may follow."
+msgstr "无效代理主机名，在闭合括号之后只允许是跟冒号加端口号。"
+
+msgid "Invalid regular expression in search conditions."
+msgstr "无效的搜索条件正则表达式。"
+
+msgid "Invalid response code"
+msgstr "无效的响应码"
+
+msgid "Invalid search conditions: %s"
+msgstr "无效的搜索条件: %s"
+
+msgid "Invalid site path"
+msgstr "无效的站点路径"
+
+msgid "Invalid size in condition"
+msgstr "条件中的大小无效"
+
+msgid "Invalid username given."
+msgstr "无效的用户名。"
+
+msgid "Invalid value for ai_flags"
+msgstr "ai_flags 的值无效"
+
+msgid "Invalid value for hints"
+msgstr "提示的值无效"
+
+msgid "Jurisdiction country:"
+msgstr "司法管辖国家:"
+
+msgid "Jurisdiction locality:"
+msgstr "司法管辖地区:"
+
+msgid "Jurisdiction state or province:"
+msgstr "司法管辖州或省:"
+
+msgid "Keep directories on top"
+msgstr "保持目录在上方"
+
+msgid ""
+"Keep in mind that not all servers support this feature and may return "
+"incorrect listings if this option is enabled. Although FileZilla performs "
+"some tests to check if the server supports this feature, the test may fail."
+msgstr ""
+"同样地并非所有服务器都支持这个功能，当您启用“显示隐藏文件”时可能会回传不正确的列表。虽然 FTP 客户端 "
+"会先执行一些测试看看服务器是否支持这个功能，但这些测试也可能会失败。"
+
+msgid "Key exchange"
+msgstr "密钥交换"
+
+msgid "Key exchange:"
+msgstr "密钥交换:"
+
+msgid "Key file"
+msgstr "密钥文件"
+
+msgid "L&owest"
+msgstr "最低(&O)"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Language changed"
+msgstr "语言已经更改"
+
+msgid "Last modified"
+msgstr "最近修改"
+
+msgid "Layout"
+msgstr "布局"
+
+msgid "Limit for concurrent &downloads:"
+msgstr "同时下载限制(&D):"
+
+msgid "Limit for concurrent &uploads:"
+msgstr "同时上传限制(&U):"
+
+msgid "Limit local ports"
+msgstr "限制本地端口"
+
+msgid "Limit size of logfile"
+msgstr "限制日志文件大小"
+
+msgid "Limit:"
+msgstr "限制:"
+
+msgid "Line length exceeded"
+msgstr "行长度已超出"
+
+msgid "Linked against"
+msgstr "链接库"
+
+msgid "Listen socket closed"
+msgstr "监听套接字已关闭"
+
+msgid "Listing:"
+msgstr "列表:"
+
+msgid "Lo&west available port:"
+msgstr "最低可用端口(&W):"
+
+msgid "Local"
+msgstr "本地"
+
+msgid "Local address in use"
+msgstr "本地地址正在使用中"
+
+msgid "Local endpoint has been closed"
+msgstr "本地端点 (endpoint) 已关闭"
+
+msgid "Local file"
+msgstr "本地文件"
+
+msgid "Local file does not exist."
+msgstr "本地文件不存在。"
+
+msgid "Local file is %s\n"
+msgstr "本地文件为 %s\n"
+
+msgid "Local file is a directory instead of a regular file."
+msgstr "本地文件是一个目录而不是一个普通文件。"
+
+msgid "Local file is not a valid filename."
+msgstr "本地文件不是一个有效的文件名。"
+
+msgid "Local filters:"
+msgstr "本地过滤器:"
+
+msgid "Local site:"
+msgstr "本地站点:"
+
+msgid "Locality:"
+msgstr "地点:"
+
+msgid "Log file"
+msgstr "日志文件"
+
+msgid "Logging"
+msgstr "日志"
+
+msgid ""
+"Login data contains non-ASCII characters and server might not be UTF-8 "
+"aware. Cannot fall back to local charset since using proxy."
+msgstr "登录数据包含非 ASCII 字符而且服务器可能无法识别 UTF-8。所以无法退回使用本地编码。"
+
+msgid ""
+"Login data contains non-ASCII characters and server might not be UTF-8 "
+"aware. Trying local charset."
+msgstr "登录数据包含非 ASCII 字符而且服务器可能无法识别 UTF-8。尝试使用本地编码。"
+
+msgid "Login sequence fully executed yet not logged in. Aborting."
+msgstr "登录过程已完全执行，但依然无法登录。正在终止。"
+
+msgid ""
+"Logontype has to be either 'ask' or 'interactive' (without the quotes)."
+msgstr "登录类型必须是“ask”或“interactive”(没有引号)。"
+
+msgid ""
+"Logontype, can only be used together with FTP URL. Argument has to be either"
+" '%s' or '%s'"
+msgstr "登录类型只能和 FTP URL 一起使用。参数必须是“%s”或“%s”"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Lowest"
+msgstr "最低"
+
+msgid "Lowest available port has to be a number between 1024 and 65535."
+msgstr "最低的可用端口号必须在 1024 到 65535 之间。"
+
+msgid "MAC:"
+msgstr "MAC:"
+
+msgid "Make sure the file can be accessed and is a well-formed XML document."
+msgstr "确认该文件可以被存取而且是一个格式正确的 XML 文档。"
+
+msgid "Malformed chunk data: %s"
+msgstr "错误的块数据: %s"
+
+msgid "Malformed header: %s"
+msgstr "错误的头: %s"
+
+msgid "Malformed reply, server not sending proper line endings"
+msgstr "错误的回应，服务器没有发送正确的行结尾"
+
+msgid "Manual transfer"
+msgstr "手动传输"
+
+msgid "Match all of the following"
+msgstr "匹配以下所有"
+
+msgid "Match any of the following"
+msgstr "匹配以下任意一个"
+
+msgid "Match none of the following"
+msgstr "不匹配以下内容"
+
+msgid "Maximum simultaneous &transfers:"
+msgstr "最大并发传输(&T):"
+
+msgid "Memory allocation failure"
+msgstr "分配内存失败"
+
+msgid "Message log"
+msgstr "消息日志"
+
+msgid "Message log position"
+msgstr "消息日志位置"
+
+msgid "Message too large"
+msgstr "消息过长"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Minutes"
+msgstr "分钟"
+
+msgid "Move &down"
+msgstr "下移(&D)"
+
+msgid "Move &up"
+msgstr "上移(&U)"
+
+msgid "My Computer"
+msgstr "我的电脑"
+
+msgid "My Documents"
+msgstr "我的文档"
+
+msgid "My Sites"
+msgstr "我的站点"
+
+msgid "N/a"
+msgstr "不可用"
+
+msgid "Name"
+msgstr "名字"
+
+msgid "Name already exists"
+msgstr "名称已经存在"
+
+msgid "Name of bookmark already exists."
+msgstr "该名称的书签已经存在。"
+
+msgid "Name:"
+msgstr "名字:"
+
+msgid "Natural sort"
+msgstr "自然排序"
+
+msgid "Need to enter filter name"
+msgstr "需要输入过滤器名"
+
+msgid "Need to enter valid remote path"
+msgstr "需要输入正确的远程路径"
+
+msgid "Need to specify a character encoding"
+msgstr "需要指定字符编码"
+
+msgid "Neither nodename nor servname provided, or not known"
+msgstr "未提供，或不知道节点名或服务名"
+
+msgid ""
+"Network host does not have any network addresses in the requested address "
+"family"
+msgstr "在请求的地址集中，网络主机没有任何网络地址"
+
+msgid "Network unreachable"
+msgstr "无法连接网络"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "New &Folder"
+msgstr "新文件夹(&F)"
+
+msgid "New &tab"
+msgstr "新标签(&T)"
+
+msgid "New Book&mark"
+msgstr "新建书签(&M)"
+
+msgid "New bookmark"
+msgstr "新建书签"
+
+msgid "New directory"
+msgstr "创建目录"
+
+msgid "New features and improvements in %s"
+msgstr "%s 中的新功能和改进"
+
+msgid "New filter"
+msgstr "新过滤器"
+
+msgid "New folder"
+msgstr "新文件夹"
+
+msgid "New site"
+msgstr "新站点"
+
+msgid "Next to the transfer queue"
+msgstr "在传输队列旁边"
+
+msgid "No"
+msgstr "否"
+
+msgid "No address associated with nodename"
+msgstr "节点名称没有关联地址"
+
+msgid "No category to export selected"
+msgstr "没有选定要导出的分类目录"
+
+msgid "No command given, aborting."
+msgstr "没有给出命令，中止。"
+
+msgid "No external IP address set, trying default."
+msgstr "没有设定外部 IP 地址，尝试使用默认值。"
+
+msgid "No files are currently being edited."
+msgstr "没有正在编辑的文件。"
+
+msgid "No filter name given"
+msgstr "没有给过滤器指定名称"
+
+msgid "No host given, please enter a host."
+msgstr "没有给出主机，请输入一个主机。"
+
+msgid "No images available"
+msgstr "没有图像可用"
+
+msgid "No more files in the queue!"
+msgstr "队列里已没有文件！"
+
+msgid "No name for the filterset given."
+msgstr "没有给过滤器集合指定名称。"
+
+msgid "No program associated with filetype"
+msgstr "文件格式没有关联程序"
+
+msgid "No program has been associated to edit files with the extension '%s'."
+msgstr "扩展名为“%s”的文件没有关联程序。"
+
+msgid "No route to host"
+msgstr "无法连通主机"
+
+msgid "No search results"
+msgstr "没有搜索结果"
+
+msgid "No sites available"
+msgstr "没有站点可用"
+
+msgid "No supported SOCKS5 auth method"
+msgstr "不支持 SOCKS5 认证方式"
+
+msgid "No username given."
+msgstr "未指定用户名。"
+
+msgid "None"
+msgstr "无"
+
+msgid "None selected yet"
+msgstr "尚未选择项目"
+
+msgid "Nonrecoverable failure in name resolution"
+msgstr "名字解析中有无法恢复的错误"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Not all items could be requeued for transfer."
+msgstr "并非所有项目都可被重新列队以传输。"
+
+msgid "Not connected"
+msgstr "未连接"
+
+msgid "Not connected to any server"
+msgstr "没有连接到任何服务器"
+
+msgid "Not connected to any server."
+msgstr "没有连接到任何服务器。"
+
+msgid "Not connected."
+msgstr "未连接。"
+
+msgid "Not initialized, need to call WSAStartup"
+msgstr "尚未初始化，需要调用 WSAStartup"
+
+msgid "Note that this feature is only supported using the FTP protocol."
+msgstr "注意这个功能只支持使用 FTP 协议。"
+
+msgid "Note: This only works with plain, unencrypted FTP connections."
+msgstr "注意: 只适用于未加密的 FTP 连接。"
+
+msgid "Note: Using a generic proxy forces passive mode on FTP connections."
+msgstr "注意: 使用代理将强制使用被动模式进行 FTP 连接。"
+
+msgid "Number of decimal places:"
+msgstr "小数位数:"
+
+msgid "Number of retries has to be between 0 and 99."
+msgstr "重试的次数必须在 0 和 99 之间。"
+
+msgid "O&pen file"
+msgstr "打开文件(&P)"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "OS version:"
+msgstr "操作系统版本:"
+
+msgid ""
+"On the following pages, the selected transfer mode will be configured, as "
+"well as the fallback mode if enabled."
+msgstr "在接下来的几个页面里将要设置选择的传输模式以及退回模式(如果启用)。"
+
+msgid "Once"
+msgstr "一次"
+
+msgid "Once a day"
+msgstr "每天一次"
+
+msgid "Once a week"
+msgstr "每周一次"
+
+msgid "Only use plain FTP (insecure)"
+msgstr "只使用普通 FTP (不安全)"
+
+msgid "Open directory in system's file manager"
+msgstr "在系统的文件管理器中打开目录"
+
+msgid "Open the Site Manager"
+msgstr "打开站点管理器"
+
+msgid "Open the Site Manager."
+msgstr "打开站点管理器。"
+
+msgid "Open the Site Manager. Right-click for a list of sites."
+msgstr "打开站点管理器。右击查看站点列表。"
+
+msgid "Open the file."
+msgstr "打开文件。"
+
+msgid "Open the settings dialog of FileZilla"
+msgstr "打开 FTP 客户端 的设置对话框"
+
+msgid "Opened as:"
+msgstr "打开为:"
+
+msgid "Opening failed"
+msgstr "打开失败"
+
+msgid "Opens a new tab"
+msgstr "打开一个新的标签"
+
+msgid "Opens the Site Manager"
+msgstr "打开站点管理器"
+
+msgid "Opens the directory listing filter dialog."
+msgstr "打开目录列表过滤器对话框。"
+
+msgid "Operating System:"
+msgstr "操作系统:"
+
+msgid "Operation already in progress"
+msgstr "操作已经在进行"
+
+msgid "Operation in progress"
+msgstr "操作正在进行"
+
+msgid "Operation not supported"
+msgstr "不支持该操作"
+
+msgid "Organization:"
+msgstr "组织:"
+
+msgid "Other SFTP options"
+msgstr "其他 SFTP 选项"
+
+msgid "Other system error"
+msgstr "其他系统错误"
+
+msgid "Other:"
+msgstr "其他:"
+
+msgid "Out of memory"
+msgstr "内存不足"
+
+msgid "Overview"
+msgstr "概述"
+
+msgid "Overwrite &if source newer"
+msgstr "如果较新则覆盖(&I)"
+
+msgid "Overwrite file"
+msgstr "覆盖文件"
+
+msgid "Overwrite file if size differs"
+msgstr "如果大小不同则覆盖文件"
+
+msgid "Overwrite file if size differs or source file is newer"
+msgstr "如果大小不同或源文件较新则覆盖文件"
+
+msgid "Overwrite file if source file newer"
+msgstr "如果源文件较新则覆盖文件"
+
+msgid "Overwrite if &different size"
+msgstr "如果大小不同则覆盖(&D)"
+
+msgid "Overwrite if different si&ze or source newer"
+msgstr "如果大小不同或源文件较新则覆盖(&Z)"
+
+msgid "Own build type: %s\n"
+msgstr "自己的构建类型: %s\n"
+
+msgid "Owner permissions"
+msgstr "所有者权限"
+
+msgid "Owner/Group"
+msgstr "所有者/组"
+
+msgid ""
+"P&revent system from entering idle sleep during transfers and other "
+"operations"
+msgstr "当传输或其它操作时，阻止系统进入空闲睡眠(&R)"
+
+msgid "P&roxy host:"
+msgstr "代理主机(&R):"
+
+msgid "PORT command tainted by router or firewall."
+msgstr "PORT 命令已受路由器或防火墙影响。"
+
+msgid "Pa&ssive (recommended)"
+msgstr "被动 (推荐)(&S)"
+
+msgid "Parameter not a valid URL"
+msgstr "参数不是有效的 URL"
+
+msgid "Parsing %d bytes of version information.\n"
+msgstr "解析版本信息的 %d 个字节。\n"
+
+msgid "Pass&word:"
+msgstr "密码(&W):"
+
+msgid "Passive (recommended)"
+msgstr "被动 (推荐)"
+
+msgid "Passive mode"
+msgstr "被动模式"
+
+msgid "Passive mode has been set as default transfer mode."
+msgstr "被动模式已经被设为默认传输模式。"
+
+msgid "Password required"
+msgstr "要求提供密码"
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Path cannot be constructed for directory %s and subdir %s"
+msgstr "无法为目录 %s 和子目录 %s 构造路径"
+
+msgid "Path not found:"
+msgstr "路径未找到:"
+
+msgid "Paths"
+msgstr "路径"
+
+msgid "Pending removal"
+msgstr "等待移除"
+
+msgid "Permission"
+msgstr "权限"
+
+msgid "Permission denied"
+msgstr "权限不足"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "Platform:"
+msgstr "平台:"
+
+msgid ""
+"Please check on https://filezilla-project.org/probe.php that the server is "
+"running and carefully check your settings again."
+msgstr "请检查 https://filezilla-project.org/probe.php 服务器是否在运行，并再一次仔细检查您的设置。"
+
+msgid ""
+"Please configure any firewalls and routers so that FileZilla can establish "
+"outgoing connection to arbitrary ports."
+msgstr "请配置使用了的任何防火墙或路由器，让 FTP 客户端 可以通过任意端口建立外部连接。"
+
+msgid "Please disable settings like 'DMZ mode' or 'Game mode' on your router."
+msgstr "请禁用路由器中类似于“DMZ 模式”或“Game 模式”的设置。"
+
+msgid ""
+"Please ensure you have a stable internet connection and carefully check your"
+" settings again."
+msgstr "请确认您有稳定的网络连接，并再次仔细检查设置。"
+
+msgid "Please enter a custom date format."
+msgstr "请输入自定义日期格式。"
+
+msgid "Please enter a custom time format."
+msgstr "请输入自定义时间格式。"
+
+msgid ""
+"Please enter a date of the form YYYY-MM-DD such as for example 2010-07-18."
+msgstr "请以格式 YYYY-MM-DD 输入一个日期，例如 2010-07-18。"
+
+msgid "Please enter a download speed limit greater or equal to 0 %s/s."
+msgstr "请输入大于等于 0 %s/s 的下载速度限制。"
+
+msgid "Please enter a name for the new filter."
+msgstr "请为新过滤器命名。"
+
+msgid "Please enter a new name for the copied filter."
+msgstr "请为复制的过滤器输入新名称。"
+
+msgid "Please enter a new name for the filter set \"%s\""
+msgstr "请为过滤器“%s”输入新名称。"
+
+msgid "Please enter a new name for the filter."
+msgstr "请为该过滤器输入新名称。"
+
+msgid ""
+"Please enter a number between 0 and 10 for the number of concurrent "
+"downloads."
+msgstr "请输入 0 到 10 之间的数字来设置并发下载任务数。"
+
+msgid ""
+"Please enter a number between 0 and 10 for the number of concurrent uploads."
+msgstr "请输入 0 到 10 之间的数字来设置并发上传任务数。"
+
+msgid ""
+"Please enter a number between 1 and 10 for the number of concurrent "
+"transfers."
+msgstr "请输入 1 到 10 之间的数字来设置并发传输任务数。"
+
+msgid "Please enter a password for this server:"
+msgstr "请为该服务器输入密码:"
+
+msgid ""
+"Please enter a path and executable to run.\n"
+"E.g. c:\\somePath\\file.exe under MS Windows or /somePath/file under Unix.\n"
+"You can also optionally specify program arguments."
+msgstr ""
+"请输入要执行的路径和程序。\n"
+"例如 MS Windows 下的 c:\\somePath\\file.exe 或者是 Unix 下的 /somePath/file。\n"
+"您也可以指定一些程序参数。"
+
+msgid ""
+"Please enter a timeout between 10 and 9999 seconds or 0 to disable timeouts."
+msgstr "请输入介于 10 和 9999 之间的超时秒数，或输入 0 禁用超时。"
+
+msgid "Please enter a unique name for this filter set"
+msgstr "请为该过滤器集合输入一个唯一的名称"
+
+msgid "Please enter a username for this server:"
+msgstr "请为该服务器输入用户名:"
+
+msgid "Please enter a valid portrange."
+msgstr "请输入有效的端口范围。"
+
+msgid "Please enter an URL where to get your external address from"
+msgstr "请输入您用以获取外部地址的 URL"
+
+msgid "Please enter an upload speed limit greater or equal to 0 %s/s."
+msgstr "请输入大于等于 0 %s/s 的上传速度限制。"
+
+msgid ""
+"Please enter raw FTP command.\n"
+"Using raw ftp commands will clear the directory cache."
+msgstr ""
+"请输入原始 FTP 命令。\n"
+"使用原始的 ftp 命令将会清空目录缓存。"
+
+msgid "Please enter the name of the directory which should be created:"
+msgstr "请输入将要创建的目录名:"
+
+msgid "Please enter the name of the file which should be created:"
+msgstr "请输入将要创建的文件名:"
+
+msgid "Please enter username and password for this server:"
+msgstr "请为该服务器输入用户名和密码:"
+
+msgid "Please enter your external IP address"
+msgstr "请输入您的外部 IP 地址"
+
+msgid ""
+"Please enter your external IP address on the active mode page of this "
+"wizard. In case you have a dynamic address or don't know your external "
+"address, use the external resolver option."
+msgstr "请在本向导的主动模式页输入您的外部 IP 地址。如果是动态地址或者您不知道外部地址，请使用外部解析器选项。"
+
+msgid ""
+"Please follow the instructions carefully, as wrong configuration will "
+"prevent successful FTP connections."
+msgstr "请认真按照提示进行，因为错误的配置将会阻止 FTP 连接。"
+
+msgid ""
+"Please make sure FileZilla is allowed to establish outgoing connections and "
+"make sure you typed the address of the address resolver correctly."
+msgstr "请确保 FTP 客户端 被允许建立向外的连接并且输入了正确的已解析地址。"
+
+msgid "Please make sure the requested locale is installed on your system."
+msgstr "请确认要求的区域配置已安装在系统里。"
+
+msgid ""
+"Please make sure your router is using the latest available firmware. "
+"Furthermore, your router has to be configured properly. You will have to use"
+" manual port forwarding. Don't run your router in the so called 'DMZ mode' "
+"or 'game mode'."
+msgstr ""
+"请确保您的路由器使用了最新的固件，并检查您的路由器是否已正确配置。请手工设置端口转发，不要让您的路由器运行在所谓的“DMZ 模式”或者“Game "
+"模式”下。"
+
+msgid ""
+"Please note that FileZilla has no influence on the port the server chooses. "
+"So the server might choose a port which your firewall thinks is only used by"
+" trojans or other malware. This might raise a false alarm you can safely "
+"discard."
+msgstr ""
+"请注意 FTP 客户端 "
+"无法影响服务器选择的端口。所以服务器可能会选择到一个您的防火墙认为只有木马或其它有害软件才会用到的端口。这可能会引发一个错误的警告，您可以安全地忽略掉。"
+
+msgid ""
+"Please note that preserving timestamps on uploads on FTP, FTPS and FTPES "
+"servers only works if they support the MFMT command."
+msgstr "请注意保留时间戳只针对支持 MFMT 命令的 FTP，FTPS 和 FTPES 服务器上(不包含 SFTP)。"
+
+msgid ""
+"Please note that some servers might ban you if you try to reconnect too "
+"often or in too short intervals."
+msgstr "请注意如果您过于频繁的尝试连接，或者间隔过短，某些服务器会阻止您。"
+
+msgid ""
+"Please run this wizard again should you change your network environment or "
+"in case you suddenly encounter problems with servers that did work "
+"previously."
+msgstr "当网络环境发生改变，或者突然发生之前能用的服务器无法连接的问题，请再次运行本向导。"
+
+msgid "Please select an action:"
+msgstr "请选择一个动作:"
+
+msgid "Please select the categories you would like to import."
+msgstr "请选择您想要导入的分类。"
+
+msgid "Please select the default transfer mode you would like to use."
+msgstr "请选择您要使用的默认传输模式。"
+
+msgid "Please select the new attributes for the directory \"%s\"."
+msgstr "请为文件夹“%s”选择新的属性。"
+
+msgid "Please select the new attributes for the file \"%s\"."
+msgstr "请为文件“%s”选择新的属性。"
+
+msgid "Please select the new attributes for the selected directories."
+msgstr "请为选定的目录选择新的属性。"
+
+msgid ""
+"Please select the new attributes for the selected files and directories."
+msgstr "请为选定的文件和目录选择新的属性。"
+
+msgid "Please select the new attributes for the selected files."
+msgstr "请为选定的文件选择新的属性。"
+
+msgid ""
+"Please update your firewall and make sure your router is using the latest "
+"available firmware. Furthermore, your router has to be configured properly. "
+"You will have to use manual port forwarding. Don't run your router in the so"
+" called 'DMZ mode' or 'game mode'. Things like protocol inspection or "
+"protocol specific 'fixups' have to be disabled"
+msgstr ""
+"请更新您的防火墙并确保您的路由器使用可用的最新固件。还有您的路由器是否已被正确配置。您必须要用手动设定端口转发。不要让您的路由器运行在所谓的“DMZ "
+"模式”或“Game 模式”下。还要停用类似协议检查或协议修正之类的选项"
+
+msgid "Positio&n of the message log:"
+msgstr "消息日志的位置(&N):"
+
+msgid "Postal code:"
+msgstr "邮编:"
+
+msgid "Pre&allocate space before downloading"
+msgstr "下载前预分配空间(&A)"
+
+msgid "Preallocation"
+msgstr "预分配"
+
+msgid "Predefined Sites"
+msgstr "预定义的站点"
+
+msgid "Preserving file timestamps"
+msgstr "保留文件时间戳"
+
+msgid "Preview:"
+msgstr "预览:"
+
+msgid "Primary connection and data connection certificates don't match."
+msgstr "主连接和数据连接的证书不匹配。"
+
+msgid "Print diagnostic information related to startup of FileZilla"
+msgstr "打印输出与 FTP 客户端 启动相关的诊断信息"
+
+msgid "Print version information to stdout and exit"
+msgstr "打印版本信息至标准输出(stdout)并退出"
+
+msgid "Prioritize directories (default)"
+msgstr "目录优先(默认)"
+
+msgid "Priority"
+msgstr "优先级"
+
+msgid ""
+"Privacy policy: Only your version of FileZilla, your used operating system "
+"and your CPU architecture will be submitted to the server."
+msgstr "隐私策略: 只有您所使用的 FTP 客户端 版本、操作系统及 CPU 架构会被发送到服务器。"
+
+msgid "Private &keys:"
+msgstr "私钥(&K):"
+
+msgid "Pro&tocol:"
+msgstr "协议(&T):"
+
+msgid "Pro&xy password:"
+msgstr "代理密码(&X):"
+
+msgid "Process &Queue"
+msgstr "处理队列(&Q)"
+
+msgid "Process file table overflow"
+msgstr "进程文件表溢出"
+
+msgid "Processed %s in %s."
+msgstr "已处理 %s 个文件， %s 个目录。"
+
+msgid "Protocol not supported"
+msgstr "不支持该协议"
+
+msgid "Protocol not supported on given socket type"
+msgstr "指定的套接字类型不支持该协议"
+
+msgid "Protocol:"
+msgstr "协议:"
+
+msgid "Proxy &port:"
+msgstr "代理端口(&P):"
+
+msgid "Proxy &user:"
+msgstr "代理用户(&U):"
+
+msgid "Proxy authentication failed"
+msgstr "代理认证失败"
+
+msgid "Proxy handshake failed: %s"
+msgstr "代理握手失败: %s"
+
+msgid "Proxy host starts with '[' but no closing bracket found."
+msgstr "代理主机以“[”开始，但没有闭合括号。"
+
+msgid "Proxy reply: %s"
+msgstr "代理回复: %s"
+
+msgid "Proxy request failed. Reply from proxy: %s"
+msgstr "代理请求失败。代理服务器返回: %s"
+
+msgid "Proxy request failed: %s"
+msgstr "代理请求失败: %s"
+
+msgid "Proxy request failed: Unknown address type in CONNECT reply"
+msgstr "代理请求失败: CONNECT 回复了未知的地址类型"
+
+msgid "Proxy set but proxy host or port invalid"
+msgstr "已设定代理服务器，但代理地址或端口设置无效"
+
+msgid "Public Key Authentication"
+msgstr "公钥认证"
+
+msgid "Public key algorithm:"
+msgstr "公钥算法:"
+
+msgid "Public permissions"
+msgstr "公共权限"
+
+msgid "Queue has been fully processed"
+msgstr "队列已全部处理"
+
+msgid "Queue: %s MiB"
+msgstr "队列: %s MiB"
+
+msgid "Queue: %s%s"
+msgstr "队列: %s%s"
+
+msgid "Queue: empty"
+msgstr "队列: 空"
+
+msgid "Queued files"
+msgstr "列队的文件"
+
+msgid "Queueing:"
+msgstr "列队中:"
+
+msgid "R&eboot system"
+msgstr "重启系统(&E)"
+
+msgid "R&emote directory tree"
+msgstr "远程目录(&E)"
+
+msgid "R&eset and requeue selected files"
+msgstr "重置并重新请求所选的文件(&E)"
+
+msgid "Raw FTP command"
+msgstr "原始 FTP 命令"
+
+msgid "Re&ad"
+msgstr "读取(&A)"
+
+msgid "Re&fresh"
+msgstr "刷新(&F)"
+
+msgid "Re&name"
+msgstr "重命名(&N)"
+
+msgid ""
+"Re-run the wizard and carefully check your settings and configure all "
+"routers and firewalls accordingly."
+msgstr "重新执行向导，仔细检查您的设置并正确配置所有路由器和防火墙。"
+
+msgid "Rea&d"
+msgstr "读取(&D)"
+
+msgid "Read-only"
+msgstr "只读"
+
+msgid "Really cancel current operation?"
+msgstr "真的要取消当前操作吗？"
+
+msgid "Really delete %d directory with its contents from the server?"
+msgid_plural ""
+"Really delete %d directories with their contents from the server?"
+msgstr[0] "确实要从服务器上删除 %d 个目录及其内容吗？"
+
+msgid "Really delete %d file from the server?"
+msgid_plural "Really delete %d files from the server?"
+msgstr[0] "确实要从服务器上删除 %d 个文件吗？"
+
+msgid "Really delete %s and %s from the server?"
+msgstr "确实要从服务器上删除 %s 和 %s 吗？"
+
+msgid "Really delete all selected files and/or directories from the server?"
+msgstr "真的要从服务器上删除所有选定的文件和/或目录吗？"
+
+msgid ""
+"Really delete all selected files and/or directories from your computer?"
+msgstr "真的要从您的计算机上删除所有选定的文件和/或目录吗？"
+
+msgid "Reason"
+msgstr "原因"
+
+msgid "Reboot now"
+msgstr "马上重启"
+
+msgid "Rec&urse into subdirectories"
+msgstr "递归处理子目录(&U)"
+
+msgid "Received TLS alert from the server: %s (%d)"
+msgstr "收到服务器的 TLS 警告: %s (%d)"
+
+msgid "Received a directory listing which appears to be encoded in EBCDIC."
+msgstr "收到了一个疑似使用 EBCDIC 编码的目录列表。"
+
+msgid "Received a line exceeding 10000 characters, aborting."
+msgstr "接收到超过 1000 个字符的行，中止。"
+
+msgid "Received data tainted"
+msgstr "已收到的数据被损坏"
+
+msgid "Received invalid character in version information"
+msgstr "在版本信息中收到了无效字符"
+
+msgid "Received unknown TLS alert %d from the server"
+msgstr "收到了服务器的未知 TLS 警告 %d"
+
+msgid "Received version information is too large"
+msgstr "接收的版本信息过长"
+
+msgid ""
+"Reconnect information cannot be cleared while connected to a server.\n"
+"If you continue, your connection will be disconnected."
+msgstr ""
+"连接到服务器时无法清除重新连接信息。\n"
+"如果您要继续，您的连接将会断开。"
+
+msgid "Reconnection settings"
+msgstr "重连设置"
+
+msgid "Reconnects to the last used server"
+msgstr "重新连接上一次使用过的服务器"
+
+msgid "Recursively adding files to queue."
+msgstr "递归添加文件到队列。"
+
+msgid "Recursively changing permissions."
+msgstr "递归修改权限。"
+
+msgid "Recursively deleting files and directories."
+msgstr "递归删除文件和文件夹。"
+
+msgid "Redirection to invalid or unsupported URI: %s"
+msgstr "重定向 URI 无效或不被支持: %s"
+
+msgid "Redirection to invalid or unsupported address: %s"
+msgstr "重定向地址无效或未被支持: %s"
+
+msgid "Refresh the file and folder lists"
+msgstr "刷新文件和文件夹列表"
+
+msgid "Remember passwords?"
+msgstr "记住密码？"
+
+msgid "Remote"
+msgstr "远程"
+
+msgid "Remote certificate not trusted."
+msgstr "远程证书不被信任。"
+
+msgid "Remote file"
+msgstr "远程文件"
+
+msgid "Remote file search"
+msgstr "远程文件搜索"
+
+msgid "Remote filters:"
+msgstr "远程过滤器:"
+
+msgid "Remote path"
+msgstr "远程路径"
+
+msgid ""
+"Remote path cannot be parsed. Make sure it is a valid absolute path and is "
+"supported by the current site's servertype (%s)."
+msgstr "默认远程路经无法解析。请确认是否是有效的绝对路径并且被当前站点的服务器模式(%s)支持。"
+
+msgid ""
+"Remote path cannot be parsed. Make sure it is a valid absolute path and is "
+"supported by the servertype (%s) selected on the parent site."
+msgstr "远程路径无法解析。请确认是否是有效的绝对路径并且被父站点选择的服务器模式(%s)支持。"
+
+msgid "Remote path cannot be parsed. Make sure it is a valid absolute path."
+msgstr "远程路经无法解析。请确认是否是有效的绝对路径。"
+
+msgid "Remote path could not be parsed."
+msgstr "无法解析远程路经。"
+
+msgid "Remote path handling:"
+msgstr "远程路径处理:"
+
+msgid "Remote path:"
+msgstr "远程路径:"
+
+msgid "Remote site:"
+msgstr "远程站点:"
+
+msgid "Remove &all"
+msgstr "删除所有(&A)"
+
+msgid "Remove &selected"
+msgstr "删除选定(&S)"
+
+msgid "Rename file"
+msgstr "重命名文件"
+
+msgid "Rename selected directory"
+msgstr "重命令选定的文件夹"
+
+msgid "Rename selected files and directories"
+msgstr "重命令选定的文件和文件夹"
+
+msgid "Renaming '%s' to '%s'"
+msgstr "“%s”改名为“%s”"
+
+msgid "Reporting bugs and feature requests"
+msgstr "报告错误以及请求功能"
+
+msgid ""
+"Request failed - client is not running identd (or not reachable from server)"
+msgstr "请求失败 - 客户端未运行 identd (或从服务器端无法连通)"
+
+msgid "Request failed - client's identd could not confirm the user ID string"
+msgstr "请求失败 - 客户端的 identd 无法确认用户标识字符串"
+
+msgid "Request rejected or failed"
+msgstr "请求被拒或失败"
+
+msgid "Require explicit FTP over TLS"
+msgstr "要求显式的 FTP over TLS"
+
+msgid "Require implicit FTP over TLS"
+msgstr "要求隐式的 FTP over TLS"
+
+msgid "Reset and requeue &all"
+msgstr "重置并重新请求所有(&A)"
+
+msgid "Resolved protocol is unknown"
+msgstr "解析的协议为未知协议"
+
+msgid "Resolving address of %s"
+msgstr "正在解析 %s 的地址"
+
+msgid "Resource temporarily unavailable"
+msgstr "资源暂不可用"
+
+msgid "Response:"
+msgstr "响应:"
+
+msgid "Results:"
+msgstr "结果:"
+
+msgid "Resume file transfer"
+msgstr "继续文件传输"
+
+msgid ""
+"Resuming ASCII files can cause problems if server uses a different line "
+"ending format than the client."
+msgstr "如果服务器使用不同格式的行结尾，继续传输 ASCII 格式文件可能导致问题。"
+
+msgid "Retrieving directory listing of \"%s\"..."
+msgstr "读取“%s”的目录列表..."
+
+msgid "Retrieving directory listing..."
+msgstr "读取目录列表..."
+
+msgid "Retrieving external IP address from %s"
+msgstr "从 %s 得到外部 IP 地址"
+
+msgid "S&how files currently being edited..."
+msgstr "显示正在被编辑的文件(&H)..."
+
+msgid "S&how the Site Manager on startup"
+msgstr "启动时显示站点管理器(&H)"
+
+msgid "S&hutdown system"
+msgstr "关闭系统(&H)"
+
+msgid "S&top"
+msgstr "停止(&T)"
+
+msgid "S&uspend system"
+msgstr "挂起系统(&U)"
+
+msgid "S&ynchronized browsing"
+msgstr "同步浏览(&Y)"
+
+msgid "SFTP"
+msgstr "SFTP"
+
+msgid "SOC&KS 4"
+msgstr "SOC&KS 4"
+
+msgid "SOCKS4 proxy will connect to: %s"
+msgstr "SOCKS4 代理将连接到: %s"
+
+msgid "SQLite:"
+msgstr "SQLite:"
+
+msgid "Save settings?"
+msgstr "保存设置吗？"
+
+msgid "Saving of password has been disabled by your system administrator."
+msgstr "您的系统管理员禁止了保存密码。"
+
+msgid "Saving of passwords has been disabled by you."
+msgstr "您禁止了保存密码。"
+
+msgid "Scanning for files to add to queue"
+msgstr "正在检查加入到队列中的文件"
+
+msgid "Scanning for files to upload"
+msgstr "正在检查要上传的文件"
+
+msgid "Search &conditions:"
+msgstr "搜索条件(&C):"
+
+msgid "Search &directory:"
+msgstr "搜索目录(&D):"
+
+msgid "Search for files recursively."
+msgstr "递归搜索文件。"
+
+msgid "Search server for files"
+msgstr "在服务器上搜索文件"
+
+msgid "Security information"
+msgstr "安全信息"
+
+msgid "See also: https://wiki.filezilla-project.org/Network_Configuration"
+msgstr "参见: https://wiki.filezilla-project.org/Network_Configuration"
+
+msgid "Sele&ct server"
+msgstr "选择服务器(&C)"
+
+msgid "Select &page:"
+msgstr "选择页面(&P):"
+
+msgid "Select Theme"
+msgstr "选择主题"
+
+msgid ""
+"Select default action to perform if target file of a transfer already "
+"exists."
+msgstr "请选择目标文件存在时的默认操作。"
+
+msgid "Select default editor"
+msgstr "选择默认编辑器"
+
+msgid ""
+"Select default file exists action if the target file already exists. This "
+"selection is valid only for the current session."
+msgstr "请选择目标文件存在时的默认操作，该操作仅适用于当前会话。"
+
+msgid ""
+"Select default file exists action only for the currently selected files in "
+"the queue."
+msgstr "请选择仅针对队列中已选择文件的默认文件存在操作。"
+
+msgid "Select file containing private key"
+msgstr "选包含私钥的文件"
+
+msgid "Select file for exported data"
+msgstr "选择用于导出数据的文件"
+
+msgid "Select file for exported queue"
+msgstr "选择用于导出列队的文件"
+
+msgid "Select file for exported settings"
+msgstr "选择需要导出设定的文件"
+
+msgid "Select file for exported sites"
+msgstr "选择用于导出站点的文件"
+
+msgid "Select file to import settings from"
+msgstr "选择需要导入设定的文件"
+
+msgid "Select file to upload"
+msgstr "选择要上传的文件"
+
+msgid "Select filename for converted key file"
+msgstr "为转换的密钥文件输入文件名"
+
+msgid "Select how these files should be opened."
+msgstr "选择如何打开这些文件。"
+
+msgid "Select target download directory"
+msgstr "选择下载目标文件夹。"
+
+msgid "Select target filename"
+msgstr "选择目标文件名"
+
+msgid "Select the categories to export:"
+msgstr "选择要导出的分类:"
+
+msgid "Select the private data you would like to delete."
+msgstr "请选择您要删除的个人信息。"
+
+msgid "Selected %d directory with its contents for transfer."
+msgid_plural "Selected %d directories with their contents for transfer."
+msgstr[0] "选择了 %d 个目录及其内容进行传输。"
+
+msgid "Selected %d directory."
+msgid_plural "Selected %d directories."
+msgstr[0] "选择了 %d 个文件夹。"
+
+msgid "Selected %d file for transfer."
+msgid_plural "Selected %d files for transfer."
+msgstr[0] "选择了 %d 个文件进行传输。"
+
+msgid "Selected %d file. Total size: %s"
+msgid_plural "Selected %d files. Total size: %s"
+msgstr[0] "选择了 %d 个文件。大小总共: %s"
+
+msgid "Selected %d file. Total size: At least %s"
+msgid_plural "Selected %d files. Total size: At least %s"
+msgstr[0] "选择了 %d 个文件。大小总共: 至少 %s"
+
+msgid "Selected %s and %s for transfer."
+msgstr "选择了 %s 和 %s 进行传输。"
+
+msgid "Selected %s and %s. Total size: %s"
+msgstr "选择了 %s 和 %s。大小总共: %s"
+
+msgid "Selected %s and %s. Total size: At least %s"
+msgstr "选择了 %s 和 %s。大小总共: 至少 %s"
+
+msgid "Selected editor does not exist."
+msgstr "所选的编辑器不存在。"
+
+msgid "Selected file already being edited"
+msgstr "已在编辑所选的文件。"
+
+msgid "Selected file is already loaded"
+msgstr "所选的文件已经加载。"
+
+msgid "Selected file is already opened"
+msgstr "所选的文件已打开"
+
+msgid "Selected file is still being edited"
+msgstr "所选文件已在编辑"
+
+msgid "Selected filter only works for local files."
+msgstr "选择的过滤器只针对本地文件。"
+
+msgid ""
+"Selected global bookmark and current server use a different server type.\n"
+"Use site-specific bookmarks for this server."
+msgstr ""
+"所选择的全局书签和当前服务器使用了不同的服务器类型。\n"
+"为该服务器使用站点特定书签。"
+
+msgid "Selected port usually in use by a different protocol."
+msgstr "选择的端口通常是被其他协议使用。"
+
+msgid "Send FTP &keep-alive commands"
+msgstr "发出 FTP 保持连接指令(&K)"
+
+msgid "Send custom command to the server otherwise not available"
+msgstr "发送自定义命令到服务器，如果可用的话"
+
+msgid "Sending keep-alive command"
+msgstr "发出保持连接指令"
+
+msgid "Serial number:"
+msgstr "序列号:"
+
+msgid "Server &Type:"
+msgstr "服务器类型(&T):"
+
+msgid "Server did not properly shut down TLS connection"
+msgstr "服务器没有正常的关闭 TLS 连接"
+
+msgid "Server does not support non-ASCII characters."
+msgstr "服务器不支持非 ASCII 字符。"
+
+msgid "Server does not support resume of files > %d GB."
+msgstr "服务器不支持续传大于 %d GB 的文件。"
+
+msgid ""
+"Server does not support resume of files > %d GB. End transfer since file "
+"sizes match."
+msgstr "服务器不支持续传大于 %d GB 的文件。当文件大小吻合时传输终止。"
+
+msgid "Server does not support resume of files > 2GB."
+msgstr "服务器不支持续传大于 2 GB 的文件。"
+
+msgid "Server does not support resume of files > 4GB."
+msgstr "服务器不支持续传大于 4 GB 的文件。"
+
+msgid ""
+"Server may not support resume of files > %d GB. End transfer since file "
+"sizes match."
+msgstr "服务器也许不支持续传大于 %d GB 的文件。当文件大小吻合时传输终止。"
+
+msgid ""
+"Server might require an account. Try specifying an account using the Site "
+"Manager"
+msgstr "服务器可能需要帐号。请尝试在站点管理器里指定一个帐号"
+
+msgid "Server returned empty path."
+msgstr "服务器发送了空路径。"
+
+msgid ""
+"Server sent an additional login prompt. You need to use the interactive "
+"login type."
+msgstr "服务器传送了一个附加的登录提示。您需要使用交互式的登录方式。"
+
+msgid ""
+"Server sent passive reply with unroutable address. Passive mode failed."
+msgstr "服务器发回了不可路由的地址。被动模式失败。"
+
+msgid ""
+"Server sent passive reply with unroutable address. Using server address "
+"instead."
+msgstr "服务器发回了不可路由的地址。使用服务器地址代替。"
+
+msgid "Server sent unexpected reply."
+msgstr "服务器发送了意外的回应。"
+
+msgid "Server to client MAC:"
+msgstr "服务器至本地 MAC:"
+
+msgid "Server to client cipher:"
+msgstr "服务器至本地密码:"
+
+msgid "Server&type:"
+msgstr "服务器类型(&T):"
+
+msgid "Server/Local file"
+msgstr "服务器/本地文件"
+
+msgid "Server:"
+msgstr "服务器:"
+
+msgid "Session details"
+msgstr "会话细节"
+
+msgid "Set &Priority"
+msgstr "设定优先级(&P)"
+
+msgid "Set permissions of '%s' to '%s'"
+msgstr "修改“%s”的权限为“%s”"
+
+msgid "SetSocketBufferSize called without socket"
+msgstr "SetSocketBufferSize 未带套接字调用"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Settings directory:"
+msgstr "设置文件目录:"
+
+msgid "Show &raw directory listing"
+msgstr "显示目录列表(&R)"
+
+msgid "Show both directory trees and continue comparing?"
+msgstr "要显示两边的目录树并进行比较吗？"
+
+msgid "Show details"
+msgstr "显示细节"
+
+msgid "Show details about custom date and time formats"
+msgstr "显示有关自定义日期时间格式的详细信息"
+
+msgid "Shows available TLS ciphers"
+msgstr "显示可用的 TLS 密码"
+
+msgid "Shows this help dialog"
+msgstr "显示这个帮助对话框"
+
+msgid "Shutdown now"
+msgstr "马上关闭系统"
+
+msgid "Signature algorithm:"
+msgstr "签名算法:"
+
+msgid "Site &Manager entries"
+msgstr "站点管理器(&M)"
+
+msgid "Site Manager"
+msgstr "站点管理器"
+
+msgid "Site Manager - Cannot remember password"
+msgstr "站点管理器 - 无法记住密码"
+
+msgid "Site Manager - Invalid data"
+msgstr "站点管理器 - 无效数据"
+
+msgid "Site Manager already open"
+msgstr "站点管理器已经打开"
+
+msgid "Site does not exist."
+msgstr "站点不存在。"
+
+msgid "Site path has to begin with 0 or 1."
+msgstr "站点路径必须以 0 或 1 开始。"
+
+msgid "Site path is malformed."
+msgstr "站点路径格式错误。"
+
+msgid "Site-specific bookmarks"
+msgstr "特定站点书签"
+
+msgid ""
+"Site-specific bookmarks require the server to be stored in the Site Manager.\n"
+"Add current connection to the site manager?"
+msgstr ""
+"站点特定书签需要将服务器保存在站点管理器中。\n"
+"将当前连接加入站点管理器码？"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Size formatting"
+msgstr "文件大小格式"
+
+msgid "Size unknown"
+msgstr "大小未知"
+
+msgid "Skip file"
+msgstr "跳过文件"
+
+msgid "Skipping download of %s"
+msgstr "跳过下载 %s"
+
+msgid "Skipping upload of %s"
+msgstr "跳过上传 %s"
+
+msgid "Socket address outside address space"
+msgstr "套接字地址超出了地址空间范围"
+
+msgid "Socket already connected"
+msgstr "套接字已连接"
+
+msgid "Socket has been shut down"
+msgstr "套接字已关闭"
+
+msgid "Socket not connected"
+msgstr "套接字未连接"
+
+msgid "Socket type not supported for address family"
+msgstr "地址集不支持此套接字类型"
+
+msgid "Some files are still being edited or need to be uploaded."
+msgstr "部分文件正被编辑或者需要上传。"
+
+msgid ""
+"Some misconfigured remote servers which are behind a router, may reply with "
+"their local IP address."
+msgstr "一些处于路由器后面的远程服务器使用了错误的配置，可能会返回其本地地址。"
+
+msgid "Sort directories inline"
+msgstr "在原位置排序目录列表"
+
+msgid "Sort order cannot be changed if comparing directories."
+msgstr "对比目录时不能改变目录排序。"
+
+msgid "Sorting"
+msgstr "正在排序"
+
+msgid "Sorting &mode:"
+msgstr "排序模式(&M):"
+
+msgid "Source and path of the drop operation are identical"
+msgstr "拖放操作的来源和路径相同"
+
+msgid "Source and target file may not be the same"
+msgstr "来源和目标文件不能相同"
+
+msgid "Source and target of the drop operation are identical"
+msgstr "拖放操作的来源和目标相同"
+
+msgid "Source file:"
+msgstr "源文件:"
+
+msgid "Speed Limits"
+msgstr "速度限制"
+
+msgid "Speed limits"
+msgstr "速度限制"
+
+msgid "Speed limits are disabled, click to change."
+msgstr "速度限制已禁用，点击修改。"
+
+msgid "Speed limits are enabled, click to change."
+msgstr "速度限制已启用，点击修改。"
+
+msgid "Stable and beta versions"
+msgstr "稳定版和 Beta 版"
+
+msgid "Stable versions only"
+msgstr "仅稳定版"
+
+msgid "Stable, beta and nightly versions"
+msgstr "稳定，Beta 及每日编译版 (Nightly)"
+
+msgid "Start transfer &immediately"
+msgstr "立即开始传输(&I)"
+
+msgid "Start with opened Site Manager"
+msgstr "启动时打开站点管理器"
+
+msgid "Started update check on %s\n"
+msgstr "于 %s 上启动了检查更新\n"
+
+msgid "Starting download of %s"
+msgstr "开始下载 %s"
+
+msgid "Starting upload of %s"
+msgstr "开始上传 %s"
+
+msgid "Starts the local site in the given path"
+msgstr "启动给定路径下的本地站点"
+
+msgid "State or province:"
+msgstr "州或省:"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Status:"
+msgstr "状态:"
+
+msgid "Stop and remove &all"
+msgstr "停止并删除所有(&A)"
+
+msgid "Stop recursive operation"
+msgstr "停止递归操作"
+
+msgid "Street:"
+msgstr "街道:"
+
+msgid "Subject of certificate"
+msgstr "证书主题"
+
+msgid "Successful transfers"
+msgstr "成功的传输"
+
+msgid "Summary of test results:"
+msgstr "测试结果总结:"
+
+msgid "Suspend now"
+msgstr "马上暂停"
+
+msgid ""
+"Symlinks to files are not affected by this choice, such symlinks are always "
+"deleted."
+msgstr "指向文件的符号链接不受该选择的影响，这种符号链接总是被删除。"
+
+msgid "Synchronized browsing"
+msgstr "同步浏览"
+
+msgid "Synchronized browsing has been disabled."
+msgstr "同步浏览已经被关闭。"
+
+msgid "Syntax error"
+msgstr "语法错误"
+
+msgid "Syntax error in command line"
+msgstr "命令行语法错误"
+
+msgid "System"
+msgstr "系统"
+
+msgid "System details"
+msgstr "系统信息"
+
+msgid "System limit of open files exceeded"
+msgstr "达到了系统打开文件数限制"
+
+msgid "System's network subsystem has failed"
+msgstr "系统的网络子系统出错"
+
+msgid "T&oolbar"
+msgstr "工具栏(&O)"
+
+msgid "TLS connection established, sending HTTP request"
+msgstr "TLS 连接已建立，正在发送 HTTP 请求"
+
+msgid "TLS connection established, waiting for welcome message..."
+msgstr "TLS 连接建立，等待欢迎消息..."
+
+msgid "TLS connection established."
+msgstr "TLS 连接已建立。"
+
+msgid "TTL expired"
+msgstr "TTL 超时"
+
+msgid "Target file already exists"
+msgstr "目标文件已经存在"
+
+msgid "Target file:"
+msgstr "目标文件:"
+
+msgid "Target filename already exists!"
+msgstr "目标文件名已经存在！"
+
+msgid "Target filename already exists, really continue?"
+msgstr "目标文件名已经存在，是否继续？"
+
+msgid "Temporary failure in name resolution"
+msgstr "名字解析中临时出错"
+
+msgid "Test results"
+msgstr "测试结果"
+
+msgid "Testing resume capabilities of server"
+msgstr "正在检测服务器能否续传"
+
+msgid "The Site Manager cannot be used unless the file gets repaired."
+msgstr "需要修复文件，否则无法打开站点管理器。"
+
+msgid ""
+"The Site Manager is opened in another instance of FileZilla 3.\n"
+"Do you want to continue? Any changes made in the Site Manager won't be saved then."
+msgstr ""
+"站点管理器已经在另一个 FTP 客户端 实例中打开。\n"
+"您想继续吗？站点管理器的任何更改都无法保存。"
+
+msgid ""
+"The Site Manager is opened in another instance of FileZilla 3.\n"
+"Please close it or the data cannot be deleted."
+msgstr ""
+"站点管理器已经在另一个 FTP 客户端 中打开。\n"
+"请将其关闭，否则数据将无法删除。"
+
+msgid "The address you entered was: %s"
+msgstr "您输入的地址是: %s"
+
+msgid "The ai_family member is not supported"
+msgstr "不支持 ai_family 成员"
+
+msgid "The ai_socktype member is not supported"
+msgstr "不支持 ai_socktype 成员"
+
+msgid "The bookmark could not be added."
+msgstr "无法添加该书签。"
+
+msgid "The bookmarks could not be cleared."
+msgstr "无法清除该书签。"
+
+msgid "The connection is encrypted. Click icon for details."
+msgstr "该连接是加密的。点击图标显示细节。"
+
+msgid ""
+"The custom date format is invalid or contains unsupported format specifiers."
+msgstr "自定义数据格式无效或包含不支持的格式限定符。"
+
+msgid "The custom login sequence cannot be empty."
+msgstr "自定义登录过程不能为空。"
+
+msgid ""
+"The custom time format is invalid or contains unsupported format specifiers."
+msgstr "自定义时间格式无效或包含不支持的格式限定符。"
+
+msgid "The data connection could not be established: %s"
+msgstr "无法建立数据连接: %s"
+
+msgid "The default editor for text files could not be found."
+msgstr "默认的文本文件编辑器不存在。"
+
+msgid "The default editor for text files is '%s'."
+msgstr "默认的文本文件编辑器是“%s”。"
+
+msgid ""
+"The entered filter name already exists, please choose a different name."
+msgstr "您输入的过滤器名称已经存在，请另选一个名称。"
+
+msgid "The extension '%s' does already exist in the list"
+msgstr "扩展名“%s”已经在列表里了"
+
+msgid ""
+"The file %s already exists.\n"
+"Please enter a new name:"
+msgstr ""
+"文件 %s 已经存在。\n"
+"请输入一个新的名字:"
+
+msgid ""
+"The file '%s' cannot be opened:\n"
+"The associated program (%s) could not be found.\n"
+"Please check your filetype associations."
+msgstr ""
+"文件“%s”无法打开:\n"
+"关联的程序(%s)没有找到。\n"
+"请检查您操作系统的文件关联。"
+
+msgid ""
+"The file '%s' contains an SSH1 key. The SSH1 protocol has been deprecated, "
+"FileZilla only supports SSH2 keys."
+msgstr "文件“%s”包含 SSH1 密钥。SSH1 协议已经过时，FTP 客户端 仅支持 SSH2 协议的密钥。"
+
+msgid "The file '%s' could not be loaded or does not contain a private key."
+msgstr "文件“%s”无法加载或者不含私钥。"
+
+msgid "The file '%s' could not be loaded."
+msgstr "文件“%s”无法加载。"
+
+msgid ""
+"The file '%s' could not be opened:\n"
+"No program has been associated on your system with this file type."
+msgstr ""
+"无法打开文件“%s”:\n"
+"系统中没有设置此类型文件关联的程序。"
+
+msgid ""
+"The file '%s' could not be opened:\n"
+"The associated command failed"
+msgstr ""
+"无法打开文件“%s”:\n"
+"关联的程序打开失败"
+
+msgid ""
+"The file '%s' has been created by a more recent version of FileZilla.\n"
+"Loading files created by newer versions can result in loss of data.\n"
+"Do you want to continue?"
+msgstr ""
+"该文件“%s”是由较新版本的 FTP 客户端 创建的。\n"
+"打开新版本的文件可能会导致数据丢失。\n"
+"您想继续吗？"
+
+msgid ""
+"The file '%s' is not in a format supported by FileZilla.\n"
+"Would you like to convert it into a supported format?"
+msgstr ""
+"FTP 客户端 不支持文件“%s”的格式。\n"
+"您想将此文件转换为支持的格式吗？"
+
+msgid "The file selected as default editor does not exist."
+msgstr "作为默认编辑器的文件不存在。"
+
+msgid ""
+"The file you have selected contains site manager data from a previous version of FileZilla.\n"
+"Due to differences in the storage format, only host, port, username and password will be imported.\n"
+"Continue with the import?"
+msgstr ""
+"您选定的文件包含了旧版 FTP 客户端 站点管理器数据。\n"
+"由于储存格式上的不同，只有主机地址、端口、使用者名称与密码能导入。\n"
+"要继续导入吗？"
+
+msgid "The filename column can neither be hidden nor moved."
+msgstr "不能隐藏或移动文件名栏。"
+
+msgid "The filename column cannot be hidden."
+msgstr "不能隐藏文件名栏。"
+
+msgid "The following character will be replaced: %s"
+msgstr "以下字符将被替换: %s"
+
+msgid "The following characters will be replaced: %s"
+msgstr "以下字符将被替换: %s"
+
+msgid "The following files are currently being edited:"
+msgstr "正在编辑以下文件:"
+
+msgid "The free open source FTP solution"
+msgstr "免费且开源的 FTP 解决方案"
+
+msgid "The global bookmarks could not be saved."
+msgstr "无法保存该全局书签。"
+
+msgid ""
+"The higher the debug level, the more information will be displayed in the "
+"message log. Displaying debug information has a negative impact on "
+"performance."
+msgstr "调试的级别越高，消息记录中会留下越多信息。显示调试信息会影响程序运行性能。"
+
+msgid "The limit needs to be between 1 and 2000 MiB"
+msgstr "限制必须在 1 到 2000 MiB 之间。"
+
+msgid "The local directory '%s' could not be created."
+msgstr "无法创建本地目录“%s”。"
+
+msgid "The local directory '%s' does not exist."
+msgstr "本地目录“%s”不存在。"
+
+msgid ""
+"The local directory '%s' is not below the synchronization root (%s).\n"
+"Disable synchronized browsing and continue changing the local directory?"
+msgstr ""
+"本地目录“%s”不在同步根目录 (%s) 下面。\n"
+"关闭同步浏览并且继续修改本地目录？"
+
+msgid ""
+"The lowest available port has to be less or equal than the highest available"
+" port."
+msgstr "最低的可用端口必须小于或等于最高的。"
+
+msgid "The new version could not be downloaded, please retry later."
+msgstr "无法下载新版本，请稍后重试。"
+
+msgid "The new version has been saved in your Downloads directory."
+msgstr "新版本已经被保存在您的 下载 文件夹。"
+
+msgid "The queue will not be saved."
+msgstr "队列将不会被保存。"
+
+msgid "The remote directory '%s' does not exist."
+msgstr "远程目录“%s”不存在。"
+
+msgid ""
+"The remote directory '%s' is not below the synchronization root (%s).\n"
+"Disable synchronized browsing and continue changing the remote directory?"
+msgstr ""
+"远程目录“%s”不在同步根目录 (%s) 下面。\n"
+"关闭同步浏览并且继续修改本地目录？"
+
+msgid "The selected categories have been imported."
+msgstr "已导入所选的分类。"
+
+msgid ""
+"The selected file contains importable data for the following categories:"
+msgstr "所选的文件可导入以下分类:"
+
+msgid "The selected file is already being edited:"
+msgstr "所选的文件正在被编辑:"
+
+msgid ""
+"The selected file is still opened in some other program, please close it."
+msgstr "所选文件仍被其它程序打开，请关闭它。"
+
+msgid ""
+"The selected file would be executed directly.\n"
+"This can be dangerous and might damage your system.\n"
+"Do you really want to continue?"
+msgstr ""
+"所选的文件将会直接执行。\n"
+"这很危险，可能会破坏您的系统。\n"
+"您真的要继续吗？"
+
+msgid "The server could not be added."
+msgstr "无法添加该服务器。"
+
+msgid "The server sent an unexpected or unrecognized reply."
+msgstr "服务器发送了意外的或不可识别的回应。"
+
+msgid "The server uses following charset encoding for filenames:"
+msgstr "服务器使用以下的字符集编码来处理文件名:"
+
+msgid ""
+"The server's certificate is unknown. Please carefully examine the "
+"certificate to make sure the server can be trusted."
+msgstr "服务器的证书未知。请小心验证证书以确信该服务器可信任。"
+
+msgid ""
+"The server's host key does not match the key that has been cached. This "
+"means that either the administrator has changed the host key, or you are "
+"actually trying to connect to another computer pretending to be the server."
+msgstr "该服务器的主机密匙与缓存的密钥不符。这意味着管理员更改了主机密钥或者您正在尝试连接到伪装成该服务器的另一台计算机。"
+
+msgid ""
+"The server's host key is unknown. You have no guarantee that the server is "
+"the computer you think it is."
+msgstr "该服务器的主机密匙是未知的。不能保证该服务器就是您所认定的那台计算机。"
+
+msgid "The servname parameter is not supported for ai_socktype"
+msgstr "ai_socktype 不支持 servname 参数"
+
+msgid ""
+"The settings have been imported. You have to restart FileZilla for all "
+"settings to have effect."
+msgstr "已导入设置，您需要重新启动 FTP 客户端 使所有设置生效。"
+
+msgid "The specified address family is not supported"
+msgstr "不支持指定的地址集"
+
+msgid "The specified network name is no longer available"
+msgstr "指定的网络名称已不可用"
+
+msgid "The system will soon reboot unless you click Cancel."
+msgstr "除非您按下取消，否则系统将会马上重启。"
+
+msgid "The system will soon shut down unless you click Cancel."
+msgstr "除非您按下取消，否则系统将会马上关闭。"
+
+msgid ""
+"The target file already exists.\n"
+"Please choose an action."
+msgstr ""
+"目标文件已经存在。\n"
+"请选择处理方法。"
+
+msgid "The test did not succeed. Do you really want to save the settings?"
+msgstr "测试不成功。您真的要保存配置吗？"
+
+msgid "The valid backup file %s could not be restored"
+msgstr "无法恢复有效的备份文件 %s"
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "This filter set cannot be removed."
+msgstr "无法删除该过滤器集合。"
+
+msgid "This filter set cannot be renamed."
+msgstr "无法重命名该过滤器集合。"
+
+msgid ""
+"This means that some router and/or firewall is still interfering with "
+"FileZilla."
+msgstr "这说明某些路由器或防火墙仍在干扰 FTP 客户端。"
+
+msgid ""
+"This only works if you are not behind a router, else your system would just "
+"return your internal address."
+msgstr "只有您不在路由器后面的时候才会可用，否则您的系统会只返回您的内部地址。"
+
+msgid ""
+"This wizard will help you to properly configure any routers and firewalls "
+"you have and tests your configuration."
+msgstr "本向导会帮助您正确地配置任何您使用的路由器和防火墙，并且测试您的配置。"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Time formatting"
+msgstr "时间格式"
+
+msgid "Time&out in seconds:"
+msgstr "超时秒数(&O):"
+
+msgid "Timeout"
+msgstr "超时"
+
+msgid "Timezone offset of server is %d seconds."
+msgstr "服务器时差为 %d 秒。"
+
+msgid "Title:"
+msgstr "标题:"
+
+msgid "To compare directories, both file lists have to be aligned."
+msgstr "两边的文件列表必须排列整齐才能比较目录。"
+
+msgid "To do this, the directory trees need to be both shown or both hidden."
+msgstr "两边的目录树必须同时显示或隐藏才能执行此动作。"
+
+msgid ""
+"To support public key authentication, FileZilla needs to know the private "
+"keys to use."
+msgstr "为了支持进行公钥认证，FTP 客户端 需要知道所使用的私钥。"
+
+msgid ""
+"Toggle directory comparison. Right-click to change comparison mode.\n"
+"\n"
+"Colors:\n"
+"Yellow: File only exists on one side\n"
+"Green: File is newer than the unmarked file on other side\n"
+"Red: File sizes different"
+msgstr ""
+"开/关目录比较。右击改变比较模式。\n"
+"\n"
+"颜色:\n"
+"黄: 文件只在一边存在\n"
+"绿: 文件比另一边未标记的文件新\n"
+"红: 文件大小不同"
+
+msgid ""
+"Toggle synchronized browsing.\n"
+"If enabled, navigating the local directory hierarchy will also change the directory on the server accordingly and vice versa."
+msgstr ""
+"启用/停止同步浏览。\n"
+"如果启用，导航本地目录时将相应的修改服务器目录，反之亦然。"
+
+msgid "Toggles the display of the local directory tree"
+msgstr "开/关本地目录树显示"
+
+msgid "Toggles the display of the message log"
+msgstr "开/关消息记录显示"
+
+msgid "Toggles the display of the remote directory tree"
+msgstr "开/关远程目录树显示"
+
+msgid "Toggles the display of the transfer queue"
+msgstr "开/关传输队列显示"
+
+msgid "Too long header line"
+msgstr "标题行太长"
+
+msgid "Too many redirects"
+msgstr "太多重定向"
+
+msgid "Trace:"
+msgstr "追踪:"
+
+msgid "Transfer"
+msgstr "传输"
+
+msgid "Transfer &direction"
+msgstr "传输目录(&D)"
+
+msgid "Transfer &type"
+msgstr "传输类型(&T)"
+
+msgid "Transfer Mode"
+msgstr "传输模式"
+
+msgid "Transfer Queue"
+msgstr "传输队列"
+
+msgid "Transfer Settings"
+msgstr "传输设置"
+
+msgid "Transfer connection interrupted: %s"
+msgstr "传输连接被打断: %s"
+
+msgid "Transferred data got tainted."
+msgstr "已传输的数据被损坏。"
+
+msgid "Transferring"
+msgstr "正在传输"
+
+msgid "Transfers"
+msgstr "传输"
+
+msgid "Transfers finished"
+msgstr "传输完成"
+
+msgid "Treat files &without extension as ASCII file"
+msgstr "把没有扩展名的文件作为 ASCII 格式文件对待(&W)"
+
+msgid "Treat the &following filetypes as ASCII files:"
+msgstr "把以下的文件类型作为 ASCII 格式文件对待(&F):"
+
+msgid "Trust changed Hostkey:"
+msgstr "信任改变后的主机密钥:"
+
+msgid "Trust new Hostkey:"
+msgstr "信任新的主机密钥:"
+
+msgid "Trust the new key and carry on connecting?"
+msgstr "信任该新密钥并继续连接？"
+
+msgid "Trust this certificate and carry on connecting?"
+msgstr "信任该证书并继续连接?"
+
+msgid "Trust this host and carry on connecting?"
+msgstr "信任该主机并继续连接？"
+
+msgid "Try again"
+msgstr "重试"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type of FTP Proxy:"
+msgstr "FTP 代理服务器类型:"
+
+msgid "Type of generic proxy:"
+msgstr "代理服务器类型:"
+
+msgid "U&pload"
+msgstr "上传(&P)"
+
+msgid "U&pload limit:"
+msgstr "上传限制(&P):"
+
+msgid "U&se filetype associations if available"
+msgstr "可以的话使用文件格式关联(&S)"
+
+msgid "U&se system defaults for current language"
+msgstr "为当前语言使用系统默认设置(&S)"
+
+msgid "USER@&HOST"
+msgstr "USER@&HOST"
+
+msgid "Unassigned error code %d"
+msgstr "未知错误代码 %d"
+
+msgid "Unit:"
+msgstr "单位:"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown FTP proxy type, cannot generate login sequence."
+msgstr "未知 FTP 代理服务器类型，无法生成登录过程。"
+
+msgid "Unknown SOCKS protocol version: %d"
+msgstr "未知 SOCKS 协议版本: %d"
+
+msgid "Unknown certificate"
+msgstr "未知证书"
+
+msgid "Unknown host key"
+msgstr "未定义的快捷键"
+
+msgid ""
+"Unknown protocol version of SOCKS Username/Password Authentication "
+"subnegotiation: %d"
+msgstr "未知的 SOCKS 用户名/密码认证会话协议版本: %d"
+
+msgid ""
+"Unknown root element, the file does not appear to be generated by FileZilla."
+msgstr "未知的根元素，该文件似乎不是由 FTP 客户端 生成的。"
+
+msgid ""
+"Unless these problems get fixed, active mode FTP will not work and passive "
+"mode has to be used."
+msgstr "除非问题被修复，主动模式 FTP 不会工作，只能使用被动模式。"
+
+msgid ""
+"Unless this problem gets fixed, active mode FTP will not work and passive "
+"mode has to be used."
+msgstr "除非问题被修复，主动模式 FTP 不会工作，只能使用被动模式。"
+
+msgid "Unsupported certificate type"
+msgstr "不支持的证书类型"
+
+msgid "Unsupported redirect"
+msgstr "不支持的重定向"
+
+msgid "Up&load and unedit"
+msgstr "上传并放弃修改(&L)"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Upload failed"
+msgstr "上传失败"
+
+msgid "Upload limit: %s/s"
+msgstr "上传限制: %s/s"
+
+msgid "Upload limit: none"
+msgstr "上传限制: 无"
+
+msgid "Upload selected directory"
+msgstr "上传选定的目录"
+
+msgid "Upload selected files and directories"
+msgstr "上传选定的文件和目录"
+
+msgid "Upload this file back to the server?"
+msgstr "上传该文件回服务器？"
+
+msgid "Upload this file to the server?"
+msgstr "上传该文件到服务器？"
+
+msgid "Uploading"
+msgstr "正在上传"
+
+msgid "Uploading and pending removal"
+msgstr "正在上传和等待移除"
+
+msgid "Uploading and unediting"
+msgstr "正上传并放弃修改"
+
+msgid "Use &custom charset"
+msgstr "使用自定义的字符集(&C)"
+
+msgid "Use &custom editor:"
+msgstr "使用自定义编辑器(&C):"
+
+msgid "Use &default editor for text files"
+msgstr "使用默认的文本编辑器(&D)"
+
+msgid "Use &synchronized browsing"
+msgstr "使用同步浏览(&S)"
+
+msgid "Use UTF-8 if the server supports it, else use local charset."
+msgstr "如果服务器支持就使用 UTF-8，否则使用本地编码。"
+
+msgid "Use default action"
+msgstr "使用默认动作"
+
+msgid "Use explicit FTP over TLS if available"
+msgstr "如果可用，使用显式的 FTP over TLS"
+
+msgid "Use server currently connected to"
+msgstr "使用当前连接到的服务器"
+
+msgid "Use server from site manager"
+msgstr "使用从站点管理器选择的服务器"
+
+msgid "Use system &defaults for current language"
+msgstr "为当前语言使用系统默认设置(&D)"
+
+msgid "Use the following IP address:"
+msgstr "使用以下 IP 地址:"
+
+msgid "Use the following port range:"
+msgstr "使用以下端口范围:"
+
+msgid "Use the server's external IP address instead"
+msgstr "使用服务器的外部地址来代替"
+
+msgid ""
+"Use this if you're behind a router and have a static external IP address."
+msgstr "如果您的计算机处于路由器后面，并且有一个静态外部 IP 地址，请使用这个选项。"
+
+msgid ""
+"Use this option if you have a dynamic IP address. FileZilla will contact the"
+" above server once each session as soon as you use active mode for the first"
+" time. Only the version of FileZilla you're using is submitted to the "
+"server."
+msgstr ""
+"如果您有动态 IP 地址，请使用这个选项。使用主动模式时，FTP 客户端 会在每次会话中会联系一次以上服务器。只有您使用的 FTP 客户端 "
+"的版本号会被提交到服务器。"
+
+msgid "User:"
+msgstr "用户:"
+
+msgid "Username cannot be a series of spaces"
+msgstr "用户名不能是一系列的空格"
+
+msgid ""
+"Using the wrong charset can result in filenames not displaying properly."
+msgstr "使用错误的字符集可能导致文件名显示不正确。"
+
+msgid "Valid from:"
+msgstr "有效期开始:"
+
+msgid "Valid to:"
+msgstr "有效期截止:"
+
+msgid "Verbose log messages from wxWidgets"
+msgstr "来自 wxWidgets 的详细日志消息"
+
+msgid "Verifying certificate..."
+msgstr "正在验证证书..."
+
+msgid "Very high"
+msgstr "非常高"
+
+msgid "View hidden option set, but unsupported by server"
+msgstr "已经设置了显示隐藏的选项，但是服务器端并未支持"
+
+msgid "View/Edit"
+msgstr "查看/编辑"
+
+msgid "Visible columns"
+msgstr "可见栏目"
+
+msgid "W&rite"
+msgstr "写入(&R)"
+
+msgid "Waiting"
+msgstr "等待"
+
+msgid "Waiting for browsing connection"
+msgstr "等待浏览连接"
+
+msgid "Waiting for password"
+msgstr "等待密码"
+
+msgid "Waiting for transfer to be cancelled"
+msgstr "等待传输取消"
+
+msgid "Waiting to retry..."
+msgstr "正在等待重试..."
+
+msgid "Warning, ignoring data connection from wrong IP."
+msgstr "警告，忽略从错误 IP 接入的数据。"
+
+msgid ""
+"Warning, use nightly builds at your own risk.\n"
+"No support is given for nightly builds.\n"
+"Nightly builds may not work as expected and might even damage your system.\n"
+"\n"
+"Do you really want to check for nightly builds?"
+msgstr ""
+"警告，使用每日编译版您风险自担。\n"
+"每日编译版没有技术支持。\n"
+"每日编译版可能不会像您期望的那样工作，它也许会破坏您的系统。\n"
+"\n"
+"您真的要检查每日编译版吗？"
+
+msgid "Warning: Potential security breach!"
+msgstr "警告: 潜在的安全隐患！"
+
+msgid "Welcome to FileZilla"
+msgstr "欢迎使用 FTP 客户端"
+
+msgid "What's new"
+msgstr "更新"
+
+msgid "What's new:"
+msgstr "更新:"
+
+msgid ""
+"When allowing FileZilla to remember passwords, you can reconnnect without "
+"having to re-enter a password after restarting FileZilla."
+msgstr "若让 FTP 客户端 记住密码，在重启 FTP 客户端 进行连接时就无须重新输入您的密码。"
+
+msgid ""
+"When enabled, characters that are not supported by the local operating "
+"system in filenames are replaced if downloading such a file."
+msgstr "启用后，下载这种文件时，文件名中本地操作系统不支持的字符将被替换。"
+
+msgid "When st&arting a new connection while already connected:"
+msgstr "已连接服务器的情况下，需要创建一个新的连接(&A):"
+
+msgid "Widescreen"
+msgstr "宽屏"
+
+msgid "Would you like FileZilla to remember passwords?"
+msgstr "您想让 FTP 客户端 记住密码吗？"
+
+msgid "Wr&ite"
+msgstr "写入(&I)"
+
+msgid "Wrong external IP address"
+msgstr "错误的外部 IP 地址"
+
+msgid "Wrong line endings"
+msgstr "错误的行结尾"
+
+msgid "Yes"
+msgstr "是"
+
+msgid ""
+"You appear to be using an IPv6-only host. This wizard does not support this "
+"environment."
+msgstr "您似乎正在使用纯 IPv6 主机。此向导不支持这种环境。"
+
+msgid "You are using the latest version of FileZilla."
+msgstr "您使用的是最新版本的 FTP 客户端。"
+
+msgid "You can always open this dialog again through the help menu."
+msgstr "您总是可以在帮助菜单中再次打开这个对话框。"
+
+msgid "You can download the latest version from the FileZilla website:"
+msgstr "您可以从 FTP 客户端 网站下载最新版本:"
+
+msgid "You can leave the port field empty to use the default port."
+msgstr "您可以不填写端口而使用默认端口。"
+
+msgid ""
+"You can use an x at any position to keep the permission the original files "
+"have."
+msgstr "您可以在任何地方使用 x 来保持原先文件的权限。"
+
+msgid "You cannot import settings from FileZilla's own settings directory."
+msgstr "您无法从 FTP 客户端 本身的设置目录中导入设置。"
+
+msgid ""
+"You cannot replace an invalid character with another invalid character. "
+"Please enter a character that is allowed in filenames."
+msgstr "您不能用另一个无效字符替换无效字符。请输入一个可以在文件名中使用的字符。"
+
+msgid "You did not enter a new name for the file. Overwrite the file instead?"
+msgstr "您没有输入该文件的新的名字。要覆盖这个文件吗？"
+
+msgid "You have selected at least one symbolic link."
+msgstr "您选择了至少一个符号链接。"
+
+msgid ""
+"You have selected more than 10 files for editing, do you really want to "
+"continue?"
+msgstr "您选择编辑超过 10 个文件，真的要继续吗？"
+
+msgid ""
+"You have selected more than 10 files or directories to open, do you really "
+"want to continue?"
+msgstr "您选择打开超过 10 个文件或目录，真的要继续吗？"
+
+msgid "You have to enter a hostname."
+msgstr "请输入一个主机名称。"
+
+msgid "You have to enter a key file path"
+msgstr "请输入一个密钥文件路径。"
+
+msgid "You have to enter a local directory."
+msgstr "请输入一个本地目录。"
+
+msgid "You have to enter a valid IPv4 address."
+msgstr "请输入正确的 IPv4 地址。"
+
+msgid "You have to enter a writable local directory."
+msgstr "请输入一个可写入的本地目录。"
+
+msgid "You have to enter an account name"
+msgstr "请输入账户名称"
+
+msgid "You have to specify a user name"
+msgstr "请输入一个用户名。"
+
+msgid ""
+"You likely have a router or firewall which erroneously modified the "
+"transferred data."
+msgstr "您的防火墙或路由器似乎错误地更改了传输的数据。"
+
+msgid "You need to enter a name for the bookmark."
+msgstr "请为该书签命名。"
+
+msgid "You need to enter a name for the log file."
+msgstr "请为日志文件输入文件名。"
+
+msgid "You need to enter a properly quoted command."
+msgstr "请输入一个合适的引用命令。"
+
+msgid "You need to enter a proxy host."
+msgstr "请输入一个代理主机。"
+
+msgid "You need to enter a proxy port in the range from 1 to 65535"
+msgstr "请输入一个代理服务器端口 (从 1 到 65535)"
+
+msgid ""
+"You need to enter at least one path, empty bookmarks are not supported."
+msgstr "您至少要输入一个路径，不支持空书签。"
+
+msgid ""
+"You need to enter both a local and a remote path to enable synchronized "
+"browsing for this bookmark."
+msgstr "您需要输入本地和远程路径来为这个书签启用同步浏览。"
+
+msgid ""
+"You need to enter both a local and a remote path to enable synchronized "
+"browsing for this site."
+msgstr "您需要输入本地和远程路径来为这个站点启用同步浏览。"
+
+msgid "You need to specify a local file."
+msgstr "您需要指定一个本地文件。"
+
+msgid "You need to specify a remote file."
+msgstr "您需要指定一个远程文件。"
+
+msgid "You need to specify a remote path."
+msgstr "您需要指定一个远程路经。"
+
+msgid "You need to specify a server."
+msgstr "您需要指定一个服务器。"
+
+msgid ""
+"You should have no problems connecting to other servers, file transfers "
+"should work properly."
+msgstr "连接到其它服务应该没有问题，文件传输也能正常工作了。"
+
+msgid "Your computer will suspend unless you click Cancel."
+msgstr "如果不按下 取消，系统将会马上挂起。"
+
+msgid "after"
+msgstr "之后"
+
+msgid "before"
+msgstr "之前"
+
+msgid "begins with"
+msgstr "开始于"
+
+msgid "bytes"
+msgstr "字节"
+
+msgid "contains"
+msgstr "包含"
+
+msgid "custom"
+msgstr "自定义"
+
+msgid "does not contain"
+msgstr "不包含"
+
+msgid "does not equal"
+msgstr "不相等"
+
+msgid "ends with"
+msgstr "结束于"
+
+msgid "equals"
+msgstr "相等"
+
+msgid "file"
+msgstr "文件"
+
+msgid "fz3temp-lockfile"
+msgstr "fz3temp-lockfile"
+
+msgid ""
+"fzputtygen could not be started.\n"
+"Please make sure this executable exists in the same directory as the main FileZilla executable."
+msgstr ""
+"fzputtygen 无法启动。\n"
+"请确认其执行程序和 FTP 客户端 执行程序在相同的目录内。"
+
+msgid "fzsftp belongs to a different version of FileZilla"
+msgstr "fzsftp 是其他 FTP 客户端 版本里的命令"
+
+msgid "fzsftp could not be started"
+msgstr "fzsftp 无法启动"
+
+msgid "gnutls_certificate_get_peers returned no certificates"
+msgstr "gnutls_certificate_get_peers 没有返回证书"
+
+msgid "greater than"
+msgstr "大于"
+
+msgid "group executable"
+msgstr "组可执行"
+
+msgid "group readable"
+msgstr "组可读"
+
+msgid "group writeable"
+msgstr "组可写"
+
+msgid "https://wiki.filezilla-project.org/Date_and_Time_formatting"
+msgstr "https://wiki.filezilla-project.org/Date_and_Time_formatting"
+
+msgid "is equal to"
+msgstr "等于"
+
+msgid "is set"
+msgstr "已设置"
+
+msgid "is unset"
+msgstr "未设置"
+
+msgid "less than"
+msgstr "小于"
+
+msgid "matches regex"
+msgstr "匹配正则表达式 (regex)"
+
+msgid "owner executable"
+msgstr "所有者可执行"
+
+msgid "owner readable"
+msgstr "所有者可读"
+
+msgid "owner writeable"
+msgstr "所有者可写"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "world executable"
+msgstr "全体可执行"
+
+msgid "world readable"
+msgstr "全体可读"
+
+msgid "world writeable"
+msgstr "全体可写"
+
+msgid "wxWidgets:"
+msgstr "wxWidgets:"

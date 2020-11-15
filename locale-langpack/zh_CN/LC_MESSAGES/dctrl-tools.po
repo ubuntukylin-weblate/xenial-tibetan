@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dctrl-tools\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-01-21 05:14+0000\n"
+"PO-Revision-Date: 2011-04-24 10:26+0000\n"
+"Last-Translator: Lele Long <schemacs@gmail.com>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:52+0000\n"
+
+msgid "%s (child): failed to exec /bin/sh: %s\n"
+msgstr "%s（子段）：执行/bin/sh失败：%s\n"
+
+msgid "%s: %s: cannot stat: %s\n"
+msgstr "%s：%s：不能stat：%s\n"
+
+msgid "%s: command (%s) failed (exit status %d)\n"
+msgstr "%s：命令（%s）失败（退出状态%d）\n"
+
+msgid "%s: command (%s) was killed by signal %d\n"
+msgstr "%s：命令（%s）被信号%d杀死\n"
+
+msgid "%s: popen failed for %s: %s\n"
+msgstr "%s：popen因为%s失败：%s\n"
+
+msgid "%s: using `%s' as pager\n"
+msgstr "%s：使用'%s'作为页面调度程序\n"
+
+msgid "-I requires at least one instance of -s"
+msgstr "-I 需要至少一个 -s 情况"
+
+msgid "A pattern is mandatory"
+msgstr "必须有一个模型"
+
+msgid "Adding \"Description\" to selected output fields because of -d"
+msgstr "添加\"描述\"到选择的输出字段因为 -d"
+
+msgid "Append the specified column."
+msgstr "追加指定的列。"
+
+msgid "Attempt mmapping input files"
+msgstr "尝试映射输入文件。"
+
+msgid "DELIM"
+msgstr "DELIM"
+
+msgid "Debug option parsing."
+msgstr "调试选项语法分析。"
+
+msgid "Do an exact match."
+msgstr "进行一次精确匹配。"
+
+msgid "Do not print a table heading"
+msgstr "不能够打印一个表格头"
+
+msgid "FIELD"
+msgstr "FIELD"
+
+msgid "FIELD,FIELD,..."
+msgstr "字段，字段，..."
+
+msgid "FIELDNO"
+msgstr "FIELDNO"
+
+msgid "FIELDSPEC"
+msgstr "FIELDSPEC"
+
+msgid "Ignore case when looking for a match."
+msgstr "在搜索匹配时忽略大小写"
+
+msgid "Ignore parse errors"
+msgstr "忽略语法分析错误"
+
+msgid "KEYSPEC"
+msgstr "KEYSPEC"
+
+msgid "LEVEL"
+msgstr "级别"
+
+msgid "Match only whole package names (this implies -e)"
+msgstr "仅匹配整个软件包名(隐含包含选项 -e )"
+
+msgid "PATTERN"
+msgstr "模型"
+
+msgid "Parse error in field."
+msgstr "字段分析错误"
+
+msgid "Print out the copyright license."
+msgstr "打印版权许可。"
+
+msgid "Print unpairable records from the indicated file (either 1 or 2)"
+msgstr "从显示的文件中打印不能配对的记录 (1 或者 2)"
+
+msgid "Regard the pattern as an extended POSIX regular expression."
+msgstr "把模型作为一个扩展的POSIX常规表达式。"
+
+msgid "Restrict pattern matching to the FIELDs given."
+msgstr "限制模式匹配到给出字段。"
+
+msgid "SPEC"
+msgstr "SPEC"
+
+msgid "Set debugging level to LEVEL."
+msgstr "设置debug等级为LEVEL"
+
+msgid "Show only paragraphs that do not match."
+msgstr "只显示不匹配的段落。"
+
+msgid "Show only the body of these fields from the matching paragraphs."
+msgstr "仅显示匹配段落中这些字段的正文部分。"
+
+msgid "Show only the count of matching paragraphs."
+msgstr "仅显示匹配段落的数量。"
+
+msgid ""
+"Show only the first line of the \"Description\" field from the matching "
+"paragraphs."
+msgstr "仅显示匹配段落中“描述”的第一行。"
+
+msgid "Show those fields that have NOT been selected with -s"
+msgstr "使用参数-s显示没有被选中的文件"
+
+msgid "Specify a delimiter."
+msgstr "指定一个分界符"
+
+msgid "Specify sort keys."
+msgstr "指定的分类键"
+
+msgid "Specify the common join field"
+msgstr "指定通用的结合域"
+
+msgid "Specify the format of the output file"
+msgstr "指定输出文件的格式"
+
+msgid "Specify the join field to use for the first file"
+msgstr "为第一个文件指定连接域到用户"
+
+msgid "Specify the join field to use for the second file"
+msgstr "为第二个文件指定连接域到用户"
+
+msgid "Specify the pattern to search for"
+msgstr "指定模型来搜索"
+
+msgid "Suppress field names when showing specified fields."
+msgstr "当显示指定的字段，压缩字段名。"
+
+msgid "Test for version number equality."
+msgstr "测试版本号数字是否相等。"
+
+msgid "This is a shorthand for -FPackage."
+msgstr "这是一个简写的FPackage"
+
+msgid "This is a shorthand for -FSource:Package."
+msgstr "这是一个简写的FSource:Package"
+
+msgid "Version number comparison: <=."
+msgstr "版本号比较：<=。"
+
+msgid "Version number comparison: >=."
+msgstr "版本号比较：>=。"
+
+msgid "bad multibyte character"
+msgstr "错误的多字节字符"
+
+msgid "cannot join a stream with itself"
+msgstr "不能够加入一个流到自己"
+
+msgid "cannot suppress field names when showing whole paragraphs"
+msgstr "当显示整个段落时不能压缩字段名"
+
+msgid "expected a colon"
+msgstr "应该是个冒号"
+
+msgid "expected either '1.' or '2.' at the start of the field specification"
+msgstr "希望 '1.' 或 '2.' 在域指定的开头"
+
+msgid "grep-dctrl -- grep Debian control files"
+msgstr "grep-dctrl -- grep Debian 控制文件"
+
+msgid "internal error"
+msgstr "内部错误"
+
+msgid "invalid column length"
+msgstr "无效列长"
+
+msgid "invalid key flag"
+msgstr "无效的密匙标记"
+
+msgid "is a block device, skipping"
+msgstr "是一个块设备，跳过"
+
+msgid "is a directory, skipping"
+msgstr "是一个目录，跳过"
+
+msgid "is a socket, skipping"
+msgstr "是一个接口，跳过"
+
+msgid "join-dctrl -- join two Debian control files"
+msgstr "join-dctrl -- 加入两个 Debian 控制文件"
+
+msgid "malformed argument to '-a'"
+msgstr "'-a' 的不妥当的论据"
+
+msgid "missing ')' in command line"
+msgstr "命令行中缺失“)“"
+
+msgid "missing '.' in output field specification"
+msgstr "丢失 '.' 在输出域指定"
+
+msgid "need exactly two input files"
+msgstr "需要确切地两个输入文件"
+
+msgid "no such log level '%s'"
+msgstr "没有“%s”这个日志级别"
+
+msgid "sort-dctrl -- sort Debian control files"
+msgstr "sort-dctrl -- sort Debian控制文件"
+
+msgid "tbl-dctrl -- tabularize Debian control files"
+msgstr "tbl-dctrl -- tabularize Debian控制文件"
+
+msgid "the join field of the first file has already been specified"
+msgstr "第一个文件的连接域已经被指定"
+
+msgid "the join field of the second file has already been specified"
+msgstr "第二个文件的连接域已经被指定"
+
+msgid "too many file names"
+msgstr "过多文件名"
+
+msgid "too many output fields"
+msgstr "过多输出字段"
+
+msgid "unknown file type, skipping"
+msgstr "未知文件类型，跳过"
+
+msgid "warning: expected a colon"
+msgstr "警告：应该是一个冒号"

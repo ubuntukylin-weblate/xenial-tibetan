@@ -1,0 +1,1482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gparted master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gparted&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-02-02 05:14+0000\n"
+"PO-Revision-Date: 2016-04-11 04:58+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:23+0000\n"
+
+msgid ""
+"  Failure to boot is most likely to occur if you move the GNU/Linux "
+"partition containing /boot, or if you move the Windows system partition C:."
+msgstr "  如果您将包含 /boot 的 GNU/Linux 分区或 Windows 系统分区 C: 移动位置，将很可能无法启动。"
+
+msgid "#%1: %2 (%3 MiB)"
+msgstr "#%1：%2 (%3 MiB)"
+
+msgid "%1 (%2 B) copied"
+msgstr "已读取 %1(共 %2 B)"
+
+msgid "%1 - GParted"
+msgstr "%1 - 分区编辑器"
+
+msgid "%1 B"
+msgstr "%1 字节"
+
+msgid "%1 GiB"
+msgstr "%1 GiB"
+
+msgid "%1 KiB"
+msgstr "%1 KiB"
+
+msgid "%1 MiB"
+msgstr "%1 MiB"
+
+msgid "%1 TiB"
+msgstr "%1 TiB"
+
+msgid "%1 of %2 copied"
+msgstr "已复制 %1(共 %2)"
+
+msgid "%1 of %2 copied (%3 remaining)"
+msgstr "已复制 %1(共 %2)(剩余 %3)"
+
+msgid "%1 of %2 operations completed"
+msgstr "已完成 %2 个操作中的 %1 个"
+
+msgid "%1 of unallocated space within the partition."
+msgstr "分区内有 %1 未分配空间。"
+
+msgid "%1 operation is currently pending"
+msgid_plural "%1 operations are currently pending"
+msgstr[0] "%1 操作待执行"
+
+msgid "%1 operation is currently pending for partition %2"
+msgid_plural "%1 operations are currently pending for partition %2"
+msgstr[0] "对 %2 分区的 %1 个操作待进行"
+
+msgid "%1 operation is currently pending."
+msgid_plural "%1 operations are currently pending."
+msgstr[0] "%1 个操作待进行"
+
+msgid "%1 operation pending"
+msgid_plural "%1 operations pending"
+msgstr[0] "%1 个操作待进行"
+
+msgid "%1 partition is currently active on device %2"
+msgid_plural "%1 partitions are currently active on device %2"
+msgstr[0] "%1 为 %2 设备上的活动分区"
+
+msgid "%1 seconds"
+msgstr "%1 秒"
+
+msgid "%1 warning"
+msgid_plural "%1 warnings"
+msgstr[0] "%1 个警告"
+
+msgid "(Half new UUID - will be randomly generated)"
+msgstr "(半新 UUID - 将随机生成)"
+
+msgid "(New UUID - will be randomly generated)"
+msgstr "(新 UUID - 将随机生成)"
+
+msgid "A %1 file system requires a partition of at least %2."
+msgstr "一个 %1 文件系统需要一个至少有 %2 的分区。"
+
+msgid "A full disk scan is needed to find file systems."
+msgstr "查找文件系统需要进行完整的磁盘扫描。"
+
+msgid ""
+"A new partition table cannot be created when there are active partitions."
+msgstr "如果存在待执行操作时无法新建分区表。"
+
+msgid ""
+"A new partition table cannot be created when there are pending operations."
+msgstr "如果存在等待操作时无法新建分区表。"
+
+msgid "A partition cannot have a length of %1 sectors"
+msgstr "分区长度不可以为 %1 个扇区。"
+
+msgid "A partition table is required before partitions can be added."
+msgstr "添加分区之前需要存在分区表"
+
+msgid "A partition with a %1 file system has a maximum size of %2."
+msgstr "一个使用 %1 文件系统的分区的最大容量为 %2。"
+
+msgid ""
+"A partition with used sectors (%1) greater than its length (%2) is not valid"
+msgstr "分区已用扇区数(%1)大于实际大小(%2)，不合法"
+
+msgid "Ac_tivate"
+msgstr "激活(_T)"
+
+msgid "Activating Volume Group %1"
+msgstr "正在激活 %1 卷组"
+
+msgid "Activating swap on %1"
+msgstr "正在激活 %1 上的交换空间"
+
+msgid "Active"
+msgstr "活动"
+
+msgid ""
+"Active partitions are those that are in use, such as a mounted file system, "
+"or enabled swap space."
+msgstr "活动分区指正在使用的分区，如已挂载分区、已激活的交换空间。"
+
+msgid "After deletion this partition is no longer available for copying."
+msgstr "删除分区后，分区将不能再被复制。"
+
+msgid ""
+"After the scan you can mount any discovered file systems and copy the data "
+"to other media."
+msgstr "扫描后，您可以挂载任何探测到的文件系统以及将数据复制到其他媒体。"
+
+msgid "Align to:"
+msgstr "对齐到："
+
+msgid "All mounted views will be unmounted when you close this dialog."
+msgstr "当您关闭此对话框时，所有挂载的视图会被卸载。"
+
+msgid "All operations successfully completed"
+msgstr "成功完成所有操作"
+
+msgid "An error occurred reading LVM2 configuration!"
+msgstr "读取 LVM2 配置时出现一个错误！"
+
+msgid "An error occurred while applying the operations"
+msgstr "应用操作时发生了一个错误"
+
+msgid ""
+"An error occurred while creating a temporary directory for use as a mount "
+"point."
+msgstr "创建用作挂载点的临时目录时发生了一个错误。"
+
+msgid "An error occurred while creating the read-only view."
+msgstr "创建只读视图时发生了一个错误。"
+
+msgid "Apply All Operations"
+msgstr "应用全部操作"
+
+msgid "Apply operations to device"
+msgstr "应用操作到设备"
+
+msgid "Applying pending operations"
+msgstr "应用待执行操作"
+
+msgid "Are you sure you want to apply the pending operations?"
+msgstr "是否确认要应用待执行操作?"
+
+msgid "Are you sure you want to cancel the current operation?"
+msgstr "确认要取消当前操作吗?"
+
+msgid "Are you sure you want to delete %1?"
+msgstr "是否确认要删除 %1？"
+
+msgid "Authentication is required to run the GParted Partition Editor"
+msgstr "运行 GParted 分区编辑器需要授权"
+
+msgid "Available offline and online"
+msgstr "挂载或未挂载时均可用"
+
+msgid "Available offline only"
+msgstr "仅未挂载时可用"
+
+msgid "Because of this some operations may be unavailable."
+msgstr "因为此操作可能不可用。"
+
+msgid "Busy (At least one logical partition is mounted)"
+msgstr "忙(至少一个逻辑分区已挂载)"
+
+msgid "C_heck"
+msgstr "检查(_H)"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel Operation"
+msgstr "取消操作"
+
+msgid "Canceling an operation might cause SEVERE file system damage."
+msgstr "取消操作可能会导致文件系统严重损坏。"
+
+msgid "Cannot format this file system to %1"
+msgstr "无法格式化此文件系统为 %1 格式"
+
+msgid ""
+"Changing the UUID might invalidate the Windows Product Activation (WPA) key"
+msgstr "修改 UUID 可能导致 Windows 产品激活(WPA)码失效"
+
+msgid ""
+"Changing the UUID on external storage media and non-system partitions is "
+"usually safe, but guarantees cannot be given."
+msgstr "更改外部存储媒体及非系统分区的 UUID 一般是安全的，但不敢保证万无一失。"
+
+msgid "Check"
+msgstr "检查"
+
+msgid "Check and repair file system (%1) on %2"
+msgstr "检测并修复 %2 上的文件系统 (%1)"
+
+msgid "Clear file system label on %1"
+msgstr "删除 %1 上的文件系统卷标"
+
+msgid "Clear partition name on %1"
+msgstr "删除 %1 上的分区名称"
+
+msgid "Command gpart was not found"
+msgstr "找不到 gpart 命令"
+
+msgid "Completed Operations:"
+msgstr "已完成操作："
+
+msgid "Confirming %1"
+msgstr "正在确认 %1"
+
+msgid "Continue Operation"
+msgstr "继续操作"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy %1 to %2"
+msgstr "复制 %1 至 %2"
+
+msgid "Copy %1 to %2 (start at %3)"
+msgstr "将 %1 复制到 %2 (起始位置为 %3)"
+
+msgid "Copy the selected partition to the clipboard"
+msgstr "将选定分区复制到剪贴板"
+
+msgid "Could not activate Volume Group"
+msgstr "无法激活卷组"
+
+msgid "Could not activate swap"
+msgstr "无法激活交换空间"
+
+msgid "Could not add this operation to the list"
+msgstr "无法添加该操作到列表"
+
+msgid "Could not deactivate Volume Group"
+msgstr "无法关闭卷组"
+
+msgid "Could not deactivate swap"
+msgstr "无法关闭交换空间"
+
+msgid "Could not mount %1 on %2"
+msgstr "无法将 %1 挂载到 %2"
+
+msgid "Could not unmount %1"
+msgstr "无法卸载 %1"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Create %1 #%2 (%3, %4) on %5"
+msgstr "在 %5 上建立 %1 #%2 (%3, %4)"
+
+msgid "Create a new partition in the selected unallocated space"
+msgstr "在选定的未分配空间内建立一个新的分区"
+
+msgid "Create as:"
+msgstr "创建为："
+
+msgid "Create new Partition"
+msgstr "创建新分区"
+
+msgid "Create partition table on %1"
+msgstr "在 %1 上建立新的分区表"
+
+msgid "Create, reorganize, and delete partitions"
+msgstr "创建、重新组织或删除分区"
+
+msgid "Created directory %1"
+msgstr "已创建目录 %1"
+
+msgid "Cylinder"
+msgstr "柱面"
+
+msgid "Cylinders:"
+msgstr "柱面数："
+
+msgid "Data found"
+msgstr "找到数据"
+
+msgid "Data found with inconsistencies"
+msgstr "找到不一致的数据"
+
+msgid "Deac_tivate"
+msgstr "关闭(_T)"
+
+msgid "Deactivating Volume Group %1"
+msgstr "正在关闭 %1 卷组"
+
+msgid "Deactivating swap on %1"
+msgstr "正在关闭 %1 上的交换空间"
+
+msgid "Delete %1 (%2, %3)"
+msgstr "删除 %1 (%2, %3)"
+
+msgid "Delete %1 (%2, %3) from %4"
+msgstr "从 %4 删除 %1 (%2, %3)"
+
+msgid "Delete the selected partition"
+msgstr "删除选定分区"
+
+msgid ""
+"Deleting or overwriting the Physical Volume is irrecoverable and will "
+"destroy or damage the  Volume Group."
+msgstr "删除或重写物理卷的操作无法恢复，并将对卷组造成破坏或损伤。"
+
+msgid ""
+"Depending on the number and type of operations this might take a long time."
+msgstr "此操作可能会花费较长时间(视操作的数目和类型而定)。"
+
+msgid "Details"
+msgstr "详细信息"
+
+msgid "Device --> Create Partition Table."
+msgstr "设备 --> 创建分区表。"
+
+msgid "Device Information"
+msgstr "设备信息"
+
+msgid "Device _Information"
+msgstr "设备信息(_I)"
+
+msgid "Do you want to continue to forcibly delete the Physical Volume?"
+msgstr "您仍要强制删除该物理卷吗？"
+
+msgid "Do you want to continue?"
+msgstr "您要继续吗？"
+
+msgid "Do you want to try to deactivate the following mount points?"
+msgstr "您想尝试禁用以下挂载点吗？"
+
+msgid "Documentation is available at the project web site."
+msgstr "项目主页上有可用的文档。"
+
+msgid "Documentation is not available"
+msgstr "文档不可用"
+
+msgid "ERROR"
+msgstr "错误"
+
+msgid "EXECUTING"
+msgstr "正在执行"
+
+msgid "Editing partitions has the potential to cause LOSS of DATA."
+msgstr "编辑分区可能会导致数据丢失。"
+
+msgid ""
+"Either the file system can not be mounted (like swap), or there are "
+"inconsistencies or errors in the file system."
+msgstr "文件系统无法挂载(如交换分区)，或文件系统中存在不一致或错误。"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error trying to open %1"
+msgstr "尝试打开 %1 出错"
+
+msgid "Error trying to seek to position 0x1c in %1"
+msgstr "尝试在 %1 寻找 0x1c 时出错"
+
+msgid "Error trying to write to boot sector in %1"
+msgstr "写入扇区 %1 上的启动扇区时出错"
+
+msgid "Error while creating partition table"
+msgstr "新建分区表出错"
+
+msgid "Error while reading block at sector %1"
+msgstr "读取扇区 %1 位置的区块时发生错误"
+
+msgid "Error while writing block at sector %1"
+msgstr "写入扇区 %1 位置的区块时发生错误"
+
+msgid "Error:"
+msgstr "错误："
+
+msgid "Extended Partition"
+msgstr "扩展分区"
+
+msgid "Failed creating read-only view"
+msgstr "创建只读视图失败"
+
+msgid "Failed creating temporary directory"
+msgstr "创建临时目录失败"
+
+msgid "Failed to find devid for path %1"
+msgstr "寻找路径 %1 的 devid 失败"
+
+msgid ""
+"Failed to set the number of hidden sectors to %1 in the NTFS boot record."
+msgstr "设置 %1 的 NTFS 启动记录的隐藏扇区数失败。"
+
+msgid "File System"
+msgstr "文件系统"
+
+msgid "File System Support"
+msgstr "文件系统支持"
+
+msgid "File system:"
+msgstr "文件系统："
+
+msgid "File systems"
+msgstr "文件系统"
+
+msgid "File systems found on %1"
+msgstr "在 %1 上找到文件系统"
+
+msgid "First sector:"
+msgstr "首扇区："
+
+msgid "Fix"
+msgstr "修复"
+
+msgid "Flags"
+msgstr "标识"
+
+msgid "Flags:"
+msgstr "标识："
+
+msgid "Force Cancel"
+msgstr "强制取消"
+
+msgid "Force Cancel (%1)"
+msgstr "强制取消 (%1)"
+
+msgid "Format %1 as %2"
+msgstr "将 %1 格式化为 %2"
+
+msgid "Free space following (MiB):"
+msgstr "之后的空余空间(MiB)："
+
+msgid "Free space preceding (MiB):"
+msgstr "之前的空余空间 (MiB)："
+
+msgid "GNOME Partition Editor"
+msgstr "GNOME 分区编辑器"
+
+msgid "GParted"
+msgstr "分区编辑器"
+
+msgid "GParted Details"
+msgstr "GParted 细节"
+
+msgid "GParted Partition Editor"
+msgstr "GParted 分区编辑器"
+
+msgid ""
+"GParted is a free partition editor for graphically managing your disk "
+"partitions."
+msgstr "GParted 是一款免费的分区编辑器，通过图形化的界面管理您的磁盘分区。"
+
+msgid ""
+"GParted requires libparted version 2.2 or higher to support devices with "
+"sector sizes larger than 512 bytes."
+msgstr "GParted 只有在 libparted 2.2 或者更高版本的支持下才能支持扇区大于 512 字节的设备。"
+
+msgid ""
+"GParted works with many file systems including: btrfs, ext2, ext3, ext4, "
+"fat16, fat32, hfs, hfs+, linux-swap, lvm2 pv, nilfs2, ntfs, reiserfs, "
+"reiser4, ufs, and xfs."
+msgstr ""
+"GParted 可以在 btrfs, ext2, ext3, ext4, fat16, fat32, hfs, hfs+, linux-swap, "
+"lvm2 pv, nilfs2, ntfs, reiserfs, reiser4, ufs, xfs 等多种文件系统下工作。"
+
+msgid "Grow"
+msgstr "扩大"
+
+msgid "Grow %1 from %2 to %3"
+msgstr "将 %1 由 %2 扩大至 %3"
+
+msgid "Heads:"
+msgstr "磁头数:"
+
+msgid "IMPORTANT"
+msgstr "重要"
+
+msgid "INFO"
+msgstr "信息"
+
+msgid ""
+"If you want more partitions you should first create an extended partition. "
+"Such a partition can contain other partitions. Because an extended partition"
+" is also a primary partition it might be necessary to remove a primary "
+"partition first."
+msgstr "如果您需要更多分区，请先建立一个扩展分区。扩展分区可包含其它分区。因为扩展分区也同时是一个主分区，可能需要先删除一个主分区。"
+
+msgid "If you want support, you need to provide the saved details!"
+msgstr "如欲获取支持，您需要提供保存的详细信息。"
+
+msgid "Ignore"
+msgstr "忽略"
+
+msgid "Ignoring device %1 with logical sector size of %2 bytes."
+msgstr "忽略逻辑扇区为 %2 字节的设备 %1"
+
+msgid ""
+"In an attempt to avoid invalidating the WPA key, on NTFS file systems only "
+"half of the UUID is set to a new random value."
+msgstr "为试图避免 WPA 密钥失效，在 NTFS 文件系统上只将 UUID 的一半设置为新的随机值。"
+
+msgid "Information about %1"
+msgstr "关于 %1 的信息"
+
+msgid "It is not possible to create more than %1 primary partition"
+msgid_plural "It is not possible to create more than %1 primary partitions"
+msgstr[0] "无法建立多于 %1 个主分区"
+
+msgid ""
+"It is recommended that you do not use any overlapping file systems to avoid "
+"disturbing existing data."
+msgstr "建议您不要使用任何重叠的文件系统以避免破坏现有数据。"
+
+msgid "Label"
+msgstr "卷标"
+
+msgid "Label:"
+msgstr "卷标："
+
+msgid "Last sector:"
+msgstr "末扇区："
+
+msgid "Legend"
+msgstr "图示"
+
+msgid "Libparted"
+msgstr "Libparted"
+
+msgid "Libparted Bug"
+msgstr "Libparted 缺陷"
+
+msgid "Libparted Error"
+msgstr "Libparted 错误"
+
+msgid "Libparted Fatal"
+msgstr "Libparted 致命错误"
+
+msgid "Libparted Information"
+msgstr "Libparted 信息"
+
+msgid "Libparted Unsupported Feature"
+msgstr "Libparted 不支持的功能"
+
+msgid "Libparted Warning"
+msgstr "Libparted 警告"
+
+msgid "Libparted unknown exception"
+msgstr "Libparted 未知异常"
+
+msgid "Linux Unified Key Setup encryption is not yet supported."
+msgstr "目前不支持 Linux 统一密钥设置加密。"
+
+msgid "Logical Partition"
+msgstr "逻辑分区"
+
+msgid "Logical Volumes:"
+msgstr "逻辑卷："
+
+msgid "M_anage Flags"
+msgstr "管理标识(_A)"
+
+msgid "Manage flags on %1"
+msgstr "管理 %1 上面的标识"
+
+msgid "Maximum size: %1 MiB"
+msgstr "最大大小：%1 MiB"
+
+msgid "Members:"
+msgstr "成员："
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Minimum size: %1 MiB"
+msgstr "最小大小：%1 MiB"
+
+msgid "Model:"
+msgstr "型号:"
+
+msgid ""
+"Most likely other partitions are also mounted on these mount points. You are"
+" advised to unmount them manually."
+msgstr "其它分区很可能也被挂载到这些挂载点上。建立手动卸载它们。"
+
+msgid "Mount Point"
+msgstr "挂载点"
+
+msgid "Mounted on %1"
+msgstr "挂载于 %1"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move %1 to the left"
+msgstr "向左移动 %1"
+
+msgid "Move %1 to the left and grow it from %2 to %3"
+msgstr "向左移动 %1 并由 %2 扩大至 %3"
+
+msgid "Move %1 to the left and shrink it from %2 to %3"
+msgstr "向左移动 %1 并由 %2 缩小至 %3"
+
+msgid "Move %1 to the right"
+msgstr "向右移动 %1"
+
+msgid "Move %1 to the right and grow it from %2 to %3"
+msgstr "向右移动 %1 并由 %2 扩大至 %3"
+
+msgid "Move %1 to the right and shrink it from %2 to %3"
+msgstr "向右移动 %1 并由 %2 缩小至 %3"
+
+msgid "Moving a partition might cause your operating system to fail to boot"
+msgstr "移动分区可能导致操作系统无法启动"
+
+msgid "Moving a partition might take a very long time to apply."
+msgstr "移动分区可能需要相当长的时间才能完成。"
+
+msgid "N/A"
+msgstr "不可用"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "New"
+msgstr "新建"
+
+msgid "New Partition #%1"
+msgstr "新分区 #%1"
+
+msgid "New UU_ID"
+msgstr "新 UU_ID"
+
+msgid "New size (MiB):"
+msgstr "新大小(MiB)："
+
+msgid "No"
+msgstr "否"
+
+msgid "No devices detected"
+msgstr "未检测到设备"
+
+msgid "No file systems found on %1"
+msgstr "未在 %1 上找到文件系统"
+
+msgid "No partition table found on device %1"
+msgstr "在设备 %1 上没有发现分区表"
+
+msgid "None"
+msgstr "无"
+
+msgid "Not Available"
+msgstr "不可用"
+
+msgid "Not active"
+msgstr "非活动"
+
+msgid "Not active (Not a member of any volume group)"
+msgstr "非活动(不是任何卷组的成员)"
+
+msgid "Not active and exported"
+msgstr "非活动已导出"
+
+msgid ""
+"Not all actions are available on all file systems, in part due to the nature"
+" of file systems and limitations in the required software."
+msgstr "不是所有操作对所有文件系统都可用。操作可能会受到文件系统及所需软件的限制。"
+
+msgid "Not busy (There are no mounted logical partitions)"
+msgstr "空闲 (没有已挂载的逻辑分区)"
+
+msgid "Not mounted"
+msgstr "未挂载"
+
+msgid "Ok"
+msgstr "确定"
+
+msgid ""
+"On FAT and NTFS file systems, the Volume Serial Number is used as the UUID. "
+"Changing the Volume Serial Number on the Windows system partition, normally "
+"C:, might invalidate the WPA key. An invalid WPA key will prevent login "
+"until you reactivate Windows."
+msgstr ""
+"在 FAT 和NTFS 文件系统中，卷序列号用作 UUID。更改 Windows 系统分区(一般是 C:)的卷序列号可能导致 WPA 密钥失效。无效的 "
+"WPA 会阻止您登录，直到您重新激活 Windows。"
+
+msgid "One or more Physical Volumes belonging to the Volume Group is missing."
+msgstr "属于该卷组的一个或多个物理卷丢失。"
+
+msgid "Operation Canceled"
+msgstr "操作已取消"
+
+msgid "Operation cancelled"
+msgstr "操作已取消"
+
+msgid "Partition"
+msgstr "分区"
+
+msgid "Partition --> Check."
+msgstr "分区 --> 检查。"
+
+msgid "Partition Editor"
+msgstr "分区编辑器"
+
+msgid ""
+"Partition copy action skipped because %1 file system does not contain data"
+msgstr "已跳过分区复制操作，因为 %1 文件系统不包含数据"
+
+msgid ""
+"Partition move action skipped because %1 file system does not contain data"
+msgstr "已跳过分区移动操作，因为 %1 文件系统不包含数据"
+
+msgid "Partition name:"
+msgstr "分区名称："
+
+msgid "Partition table:"
+msgstr "分区表："
+
+msgid "Partition;"
+msgstr "分区；"
+
+msgid "Paste %1"
+msgstr "粘贴 %1"
+
+msgid "Paste the partition from the clipboard"
+msgstr "从剪贴板粘贴分区"
+
+msgid "Path:"
+msgstr "路径："
+
+msgid "Pending _Operations"
+msgstr "待执行操作(_O)"
+
+msgid "Please unmount any logical partitions having a number higher than %1"
+msgstr "请卸载全部编号高于 %1 的逻辑分区"
+
+msgid "Primary Partition"
+msgstr "主分区"
+
+msgid "Quit GParted?"
+msgstr "退出 GParted?"
+
+msgid "Removed directory %1"
+msgstr "已移除目录 %1"
+
+msgid "Required Software"
+msgstr "需要的软件"
+
+msgid "Rescan For Supported Actions"
+msgstr "重新扫描支持的操作"
+
+msgid "Resize"
+msgstr "调整大小"
+
+msgid "Resize %1"
+msgstr "调整 %1 的大小"
+
+msgid "Resize/Move"
+msgstr "调整大小/移动"
+
+msgid "Resize/Move %1"
+msgstr "调整大小/移动 %1"
+
+msgid "Resize/Move the selected partition"
+msgstr "调整大小/移动选定分区"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid "Root privileges are required for running GParted"
+msgstr "运行 GParted 需要 root 特权。"
+
+msgid "SUCCESS"
+msgstr "成功"
+
+msgid "Save Details"
+msgstr "保存细节"
+
+msgid "Scanning %1"
+msgstr "正在扫描 %1"
+
+msgid "Scanning all devices..."
+msgstr "正在扫描全部设备..."
+
+msgid "Search disk for file systems"
+msgstr "搜索磁盘上的文件系统"
+
+msgid "Search for file systems on %1"
+msgstr "在 %1 上搜索文件系统"
+
+msgid "Searching %1 partitions"
+msgstr "正在搜索 %1 上面的分区"
+
+msgid "Searching for file systems on %1"
+msgstr "正在 %1 上搜索文件系统"
+
+msgid "Sector size:"
+msgstr "扇区大小："
+
+msgid "Sectors/track:"
+msgstr "扇区/磁道数："
+
+msgid "See %1 for more information."
+msgstr "请参看 %1 以获取更多信息。"
+
+msgid "See the details for more information."
+msgstr "请参看细节以获取更多信息。"
+
+msgid "Select new partition table type:"
+msgstr "选择新分区表类型："
+
+msgid "Serial:"
+msgstr "序列号："
+
+msgid "Set UUID on %1 to a new, random value"
+msgstr "将 %1 上的 UUID 设置成新的随机值"
+
+msgid "Set a new random UUID on %1 file system on %2"
+msgstr "将 %2 上 %1 文件系统的 UUID 设置成新的随机值"
+
+msgid "Set file system label \"%1\" on %2"
+msgstr "将 %2 的文件系统卷标设定为 %1"
+
+msgid "Set file system label on %1"
+msgstr "设定 %1 的文件系统卷标"
+
+msgid "Set file system label to \"%1\" on %2"
+msgstr "将 %2 的文件系统卷标设为 %1"
+
+msgid "Set half of the UUID on %1 to a new, random value"
+msgstr "将 %1 上 UUID 的一半设置成新的随机值"
+
+msgid "Set half the UUID to a new random value on %1 file system on %2"
+msgstr "将 %2 上 %1 文件系统 UUID 的一半设置为新随机值"
+
+msgid "Set partition name \"%1\" on %2"
+msgstr "将 %2 的分区名称设定为 %1"
+
+msgid "Set partition name on %1"
+msgstr "设定 %1 的分区名称"
+
+msgid "Set partition name to \"%1\" on %2"
+msgstr "将 %2 的分区名称设为 %1"
+
+msgid "Shrink"
+msgstr "缩小"
+
+msgid "Shrink %1 from %2 to %3"
+msgstr "将 %1 由 %2 缩小至 %3"
+
+msgid ""
+"Since GParted is a powerful tool capable of destroying partition tables and "
+"vast amounts of data, only root may run it."
+msgstr "由于 GParted 可能破坏分区表及磁盘上的数据，只有 root 可以运行。"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Size:"
+msgstr "大小："
+
+msgid "Some or all of the details might be missing or incorrect."
+msgstr "部分或全部细节可能丢失或不正确。"
+
+msgid "Status:"
+msgstr "状态："
+
+msgid "The 'View' buttons create read-only views of each file system."
+msgstr "“视图”按钮创建每个文件系统的只读视图。"
+
+msgid ""
+"The LVM2 Physical Volume can not currently be resized because it is a member"
+" of an exported Volume Group."
+msgstr "该 LVM2 物理卷是导出卷组的成员，所以无法调整大小。"
+
+msgid ""
+"The activate Volume Group action cannot be performed if an operation is "
+"pending for the partition."
+msgstr "分区上有待进行操作时无法激活卷组。"
+
+msgid "The cause might be a missing software package."
+msgstr "原因可能是缺少某个软件包。"
+
+msgid "The data in %1 will be lost if you apply this operation."
+msgstr "执行此操作将丢失 %1 上的数据。"
+
+msgid "The device entry %1 is missing"
+msgstr "设备项 %1 丢失"
+
+msgid ""
+"The disk scan by gpart did not find any recognizable file systems on this "
+"disk."
+msgstr "gpart 对此磁盘扫描后未发现任何可识别的文件系统。"
+
+msgid "The file system is damaged"
+msgstr "文件系统已损坏。"
+
+msgid "The file system is mounted on:"
+msgstr "文件系统挂载于："
+
+msgid "The file system is unknown to GParted"
+msgstr "文件系统未知于 GParted"
+
+msgid ""
+"The following list of software packages is required for %1 file system "
+"support:  %2."
+msgstr "支持 %1 文件系统需要下列软件包：%2。"
+
+msgid ""
+"The mount action cannot be performed if an operation is pending for the "
+"partition."
+msgstr "分区上有待进行操作时无法挂载。"
+
+msgid "The partition could not be unmounted from the following mount points:"
+msgstr "分区无法从以下挂载点卸载："
+
+msgid "The scan might take a very long time."
+msgstr "扫描可能要花费很长时间。"
+
+msgid ""
+"The swapon action cannot be performed if an operation is pending for the "
+"partition."
+msgstr "分区上有待进行操作时无法激活交换空间。"
+
+msgid "There is no file system available (unformatted)"
+msgstr "无可用的文件系统(未格式化)"
+
+msgid "This build of gparted is configured without documentation."
+msgstr "这个编译版本没有文档。"
+
+msgid "This chart shows the actions supported on file systems."
+msgstr "此图表显示了文件系统支持的操作。"
+
+msgid "This feature uses gpart. Please install gpart and try again."
+msgstr "这一功能要使用 gpart。请安装 gpart 并重试。"
+
+msgid ""
+"To avoid destroying or damaging the Volume Group, you are advised to cancel "
+"and use external LVM commands to free the Physical Volume before attempting "
+"this operation."
+msgstr "为避免破坏或损坏卷组，建议取消此操作并首先使用内置的 LVM 命令释放该物理卷。"
+
+msgid "To create a new partition table choose the menu item:"
+msgstr "选择菜单项建立新的分区表："
+
+msgid ""
+"To grow the file system to fill the partition, select the partition and "
+"choose the menu item:"
+msgstr "要将文件系统扩充到整个分区，请选择该分区并选择菜单项："
+
+msgid "Total sectors:"
+msgstr "总扇区数："
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "UUID:"
+msgstr "UUID："
+
+msgid "Unable to delete %1!"
+msgstr "无法删除 %1！"
+
+msgid "Unable to detect file system! Possible reasons are:"
+msgstr "无法检测文件系统! 可能原因:"
+
+msgid "Unable to find mount point"
+msgstr "无法找到挂载点"
+
+msgid "Unable to open GParted Manual help file"
+msgstr "无法打开 GParted 帮助手册"
+
+msgid "Unable to open the default file manager"
+msgstr "默认文件管理器无法打开"
+
+msgid "Unable to read the contents of this file system!"
+msgstr "无法读取此文件系统上的内容!"
+
+msgid "Unallocated:"
+msgstr "未分配："
+
+msgid "Undo Last Operation"
+msgstr "撤销上次操作"
+
+msgid "Unmounting %1"
+msgstr "正在卸载 %1"
+
+msgid "Unused"
+msgstr "未用"
+
+msgid "Unused:"
+msgstr "未用："
+
+msgid ""
+"Use Partition menu options, such as unmount or swapoff, to deactivate all "
+"partitions on this device before creating a new partition table."
+msgstr "使用分区菜单选项，例如卸载或停用交换空间，来在创建新分区表前禁用此设备上的所有分区。"
+
+msgid ""
+"Use the Edit menu to either clear or apply all operations before creating a "
+"new partition table."
+msgstr "在新建分区表以前使用“编辑”菜单来清除或者应用所有操作。"
+
+msgid ""
+"Use the Edit menu to undo, clear, or apply operations before using activate "
+"Volume Group with this partition."
+msgstr "在对这些分区使用卷组以前使用编辑菜单来取消、清除或应用所有操作。"
+
+msgid ""
+"Use the Edit menu to undo, clear, or apply operations before using mount "
+"with this partition."
+msgstr "在挂载这些分区以前使用编辑菜单取消、清除或应用所有操作。"
+
+msgid ""
+"Use the Edit menu to undo, clear, or apply operations before using swapon "
+"with this partition."
+msgstr "在对这些分区激活交换空间以前使用编辑菜单来取消、清除或应用所有操作。"
+
+msgid "Used"
+msgstr "已用"
+
+msgid "Used:"
+msgstr "已用："
+
+msgid "View"
+msgstr "查看"
+
+msgid "Volume Group:"
+msgstr "卷组："
+
+msgid "WARNING!: The file systems marked with (!) are inconsistent."
+msgstr "警告：标有 (!) 的文件系统存在不一致。"
+
+msgid "WARNING:  This will ERASE ALL DATA on the ENTIRE DISK %1"
+msgstr "警告：此操作将删除整个硬盘 %1 上的全部数据！"
+
+msgid "Warning:"
+msgstr "警告："
+
+msgid ""
+"Warning: The detected file system area overlaps with at least one existing "
+"partition"
+msgstr "警告：检测到的文件系统至少与一个已有分区重叠。"
+
+msgid ""
+"With GParted you can resize, copy, label, and move partitions without data "
+"loss. These actions enable you to grow or shrink your C: drive, create space"
+" for new operating systems, or attempt data rescue from lost partitions."
+msgstr ""
+"通过 GParted 您可以无损地调整、复制、标记或移动分区。通过这些操作您可以增大减小 C: "
+"盘、为新操作系统创建新的空间或者尝试从丢失的分区恢复数据。"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "You are advised to backup your data before proceeding."
+msgstr "建议执行操作之前先备份数据。"
+
+msgid "You are deleting non-empty LVM2 Physical Volume %1"
+msgstr "正在删除非空的 LVM2 物理卷 %1"
+
+msgid "You are formatting over non-empty LVM2 Physical Volume %1"
+msgstr "正在格式化非空的 LVM2 物理卷 %1"
+
+msgid "You are pasting over non-empty LVM2 Physical Volume %1"
+msgstr "正在粘贴到非空的 LVM2 物理卷 %1"
+
+msgid "You can learn how to repair the boot configuration in the GParted FAQ."
+msgstr "您可以在 GParted FAQ 中学习如何修复启动配置。"
+
+msgid "You have pasted into an existing partition"
+msgstr "粘贴到已有的分区"
+
+msgid "You have queued an operation to move the start sector of partition %1."
+msgstr "队列中有移动 %1 分区的起始扇区的操作。"
+
+msgid "You might encounter errors trying to view these file systems."
+msgstr "您在查看这些文件系统时可能遇到错误。"
+
+msgid "You might try the following command to correct the problem:"
+msgstr "您也许可以尝试下列命令来修复此问题："
+
+msgid "You should NOT modify any LVM2 PV partitions."
+msgstr "您“不应”修改任何 LVM2 PV 分区。"
+
+msgid "_Apply All Operations"
+msgstr "应用全部操作(_A)"
+
+msgid "_Attempt Data Rescue"
+msgstr "尝试数据恢复(_A)"
+
+msgid "_Clear All Operations"
+msgstr "清除全部操作(_C)"
+
+msgid "_Contents"
+msgstr "内容(_C)"
+
+msgid "_Create Partition Table"
+msgstr "创建分区表(_C)"
+
+msgid "_Device"
+msgstr "设备(_D)"
+
+msgid "_Devices"
+msgstr "设备(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_File System Support"
+msgstr "文件系统支持(_F)"
+
+msgid "_Format to"
+msgstr "格式化为(_F)"
+
+msgid "_GParted"
+msgstr "分区编辑器(_G)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Label File System"
+msgstr "文件系统卷标(_L)"
+
+msgid "_Mount"
+msgstr "挂载(_M)"
+
+msgid "_Mount on"
+msgstr "挂载于(_M)"
+
+msgid "_Name Partition"
+msgstr "分区名称(_N)"
+
+msgid "_New"
+msgstr "新建(_N)"
+
+msgid "_Partition"
+msgstr "分区(_P)"
+
+msgid "_Refresh Devices"
+msgstr "刷新设备(_R)"
+
+msgid "_Resize/Move"
+msgstr "更改大小/移动(_R)"
+
+msgid "_Save Details"
+msgstr "保存细节(_S)"
+
+msgid "_Swapoff"
+msgstr "禁用交换空间(_S)"
+
+msgid "_Swapon"
+msgstr "启用交换空间(_S)"
+
+msgid "_Undo Last Operation"
+msgstr "撤销上次操作(_U)"
+
+msgid "_Unmount"
+msgstr "卸载(_U)"
+
+msgid "_View"
+msgstr "查看(_V)"
+
+msgid "calculate new size and position of %1"
+msgstr "计算 %1 的新大小及位置"
+
+msgid "calibrate %1"
+msgstr "校准 %1"
+
+msgid "check file system on %1 for errors and (if possible) fix them"
+msgstr "检查 %1 上的文件系统错误并在可能的情况下修正"
+
+msgid "checking is not available for this file system"
+msgstr "检测功能对此文件系统不可用"
+
+msgid "clear old file system signatures in %1"
+msgstr "清除 %1 的原文件系统标记"
+
+msgid "cleared"
+msgstr "已清空"
+
+msgid "copy %1"
+msgstr "复制%1"
+
+msgid "copy %1 using a block size of %2"
+msgstr "使用 %2 的块大小复制 %1"
+
+msgid "copy file system of %1 to %2"
+msgstr "将文件系统由 %1 复制到 %2"
+
+msgid "copy of %1"
+msgstr "%1 的副本"
+
+msgid "create empty partition"
+msgstr "创建空分区"
+
+msgid "create missing %1 entries"
+msgstr "建立丢失的 %1"
+
+msgid "create new %1 file system"
+msgstr "建立新的 %1 文件系统"
+
+msgid "delete %1 entry"
+msgstr "删除 %1"
+
+msgid "delete %1 file system"
+msgstr "删除 %1 文件系统"
+
+msgid "delete affected %1 entries"
+msgstr "删除受影响的 %1"
+
+msgid "delete partition"
+msgstr "删除分区"
+
+msgid "device"
+msgstr "设备"
+
+msgid "end: %1"
+msgstr "终止位置：%1"
+
+msgid "finding optimal block size"
+msgstr "查找最优的块大小"
+
+msgid "flush operating system cache of %1"
+msgstr "写入 %1 的操作系统缓存"
+
+msgid "grow file system"
+msgstr "扩大文件系统"
+
+msgid "grow file system to fill the partition"
+msgstr "放大文件系统至整个分区"
+
+msgid "grow partition from %1 to %2"
+msgstr "将分区由 %1 扩大至 %2"
+
+msgid "growing is not available for this file system"
+msgstr "此文件系统不可放大"
+
+msgid "growing the file system is currently disallowed"
+msgstr "此文件系统当前不允许放大"
+
+msgid "libparted messages"
+msgstr "libparted 消息"
+
+msgid "mounting %1 on %2"
+msgstr "正在挂载 %1 于 %2"
+
+msgid "move file system"
+msgstr "移动文件系统"
+
+msgid "move file system to the left"
+msgstr "向左移动文件系统"
+
+msgid "move file system to the right"
+msgstr "向右移动文件系统"
+
+msgid "move partition to the left"
+msgstr "向左移动分区"
+
+msgid "move partition to the left and grow it from %1 to %2"
+msgstr "向左移动分区并由 %1 扩大至 %2"
+
+msgid "move partition to the left and shrink it from %1 to %2"
+msgstr "向左移动分区并由 %1 缩小至 %2"
+
+msgid "move partition to the right"
+msgstr "向右移动分区"
+
+msgid "move partition to the right and grow it from %1 to %2"
+msgstr "向右移动分区并由 %1 扩大至 %2"
+
+msgid "move partition to the right and shrink it from %1 to %2"
+msgstr "向右移动分区并由 %1 缩小至 %2"
+
+msgid "moving requires old and new length to be the same"
+msgstr "移动需要旧的大小和新的相同"
+
+msgid ""
+"new and old file system have the same position.  Hence skipping this "
+"operation"
+msgstr "新的文件系统和旧的文件系统位置相同，故跳过此操作"
+
+msgid ""
+"new and old file system have the same size.  Hence skipping this operation"
+msgstr "新文件系统和旧文件系统大小相同，故跳过此操作"
+
+msgid ""
+"new and old partition have the same size and position.  Hence continuing "
+"anyway"
+msgstr "新的分区大小及位置和旧的分区相同，因此继续"
+
+msgid ""
+"new and old partition have the same size and position.  Hence skipping this "
+"operation"
+msgstr "新的分区大小及位置和旧的分区相同，故跳过此操作"
+
+msgid "new end: %1"
+msgstr "新的终止位置：%1"
+
+msgid "new partition flag: %1"
+msgstr "新分区标识：%1"
+
+msgid "new partition type: %1"
+msgstr "新分区类型：%1"
+
+msgid "new size: %1 (%2)"
+msgstr "新大小：%1 (%2)"
+
+msgid "new start: %1"
+msgstr "新起始位置：%1"
+
+msgid "old end: %1"
+msgstr "旧的终止位置：%1"
+
+msgid "old size: %1 (%2)"
+msgstr "旧的大小：%1 (%2)"
+
+msgid "old start: %1"
+msgstr "旧的起始位置：%1"
+
+msgid "optimal block size is %1"
+msgstr "最优的块大小是 %1"
+
+msgid "partition"
+msgstr "分区"
+
+msgid "path: %1 (%2)"
+msgstr "路径：%1 (%2)"
+
+msgid "real resize"
+msgstr "实际地改变大小"
+
+msgid "requested end: %1"
+msgstr "请求的终止位置：%1"
+
+msgid "requested size: %1 (%2)"
+msgstr "请求的大小：%1 (%2)"
+
+msgid "requested start: %1"
+msgstr "请求的起始位置：%1"
+
+msgid "resize file system"
+msgstr "改变文件系统大小"
+
+msgid "resize/move %1"
+msgstr "更改大小/移动 %1"
+
+msgid "resize/move partition"
+msgstr "改变大小/移动分区"
+
+msgid "resizing requires old and new start to be the same"
+msgstr "调整大小需要旧的起始位置和新的相同"
+
+msgid "roll back last transaction"
+msgstr "回滚上次操作过程"
+
+msgid "rollback last change to the partition table"
+msgstr "回滚对分区表的上一次更改"
+
+msgid "run simulation"
+msgstr "模拟运行"
+
+msgid "set partition type on %1"
+msgstr "设定 %1 的分区类型"
+
+msgid "shrink file system"
+msgstr "缩小文件系统"
+
+msgid "shrink partition from %1 to %2"
+msgstr "将分区由 %1 缩小至 %2"
+
+msgid "size: %1 (%2)"
+msgstr "大小：%1 (%2)"
+
+msgid "start: %1"
+msgstr "起始位置：%1"
+
+msgid "the destination is smaller than the source partition"
+msgstr "目标分区小于源分区"
+
+msgid "translator-credits"
+msgstr ""
+"Funda Wang <fundawang@gmail.com>, 2004\n"
+"Wei Mingzhi <weimingzhi@gmail.com>, 2009\n"
+"du baodao <centerpoint@139.com>, 2010\n"
+"Aron Xu <aronxu@gnome.org>, 2010\n"
+"Wylmer Wang <wantinghard@gmail.com>, 2012\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Boyuan Yang https://launchpad.net/~hosiet\n"
+"  Carlos Gong https://launchpad.net/~bfsugxy\n"
+"  Chen Ming https://launchpad.net/~chenming\n"
+"  ChenXing https://launchpad.net/~cxcxcxcx\n"
+"  DBLobster https://launchpad.net/~db.lobster\n"
+"  Feng Chao https://launchpad.net/~chaofeng\n"
+"  Funda Wang https://launchpad.net/~fundawang\n"
+"  Jianle Ma https://launchpad.net/~majianle\n"
+"  Liu Qishuai https://launchpad.net/~lqs\n"
+"  Luo Lei https://launchpad.net/~luolei\n"
+"  MR.wangmaoxin https://launchpad.net/~ddllkl\n"
+"  Qiu Haoyu https://launchpad.net/~timothyqiu\n"
+"  Qiuli https://launchpad.net/~ivyharry\n"
+"  Roy https://launchpad.net/~wuiohot\n"
+"  Tao Wei https://launchpad.net/~weitao1979\n"
+"  WEI Kun https://launchpad.net/~conkty\n"
+"  Wei Mingzhi https://launchpad.net/~whistler-openoffice\n"
+"  Wentai ZHANG https://launchpad.net/~rchardx\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard\n"
+"  Xu Zehua https://launchpad.net/~hhhpppsss1\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  ZHOU Qi https://launchpad.net/~esperisto\n"
+"  Zhang Junbo https://launchpad.net/~zhangjunbo\n"
+"  Zhao Zheng https://launchpad.net/~zhaozhengcn\n"
+"  beep https://launchpad.net/~anomie-lin\n"
+"  hometow1 https://launchpad.net/~hometow1\n"
+"  lhquark https://launchpad.net/~lhquark\n"
+"  luojie-dune https://launchpad.net/~luojie-dune\n"
+"  peaceman https://launchpad.net/~zengchang1985\n"
+"  shijing https://launchpad.net/~shijing\n"
+"  wanao https://launchpad.net/~wanao1989"
+
+msgid "unallocated"
+msgstr "未分配"
+
+msgid "unformatted"
+msgstr "未格式化"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unrecognized"
+msgstr "未识别"
+
+msgid "unused"
+msgstr "未用"
+
+msgid "update %1 entry"
+msgstr "更新 %1"
+
+msgid "update boot sector of %1 file system on %2"
+msgstr "更新 %2 上的 %1 文件系统的引导扇区"
+
+msgid "used"
+msgstr "已用"
+
+msgid "using internal algorithm"
+msgstr "使用内部算法"
+
+msgid "using libparted"
+msgstr "使用 libparted"

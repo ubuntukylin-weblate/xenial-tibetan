@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-keyring master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-keyring&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-12-03 22:19+0000\n"
+"PO-Revision-Date: 2013-06-12 13:09+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:27+0000\n"
+
+msgid "          "
+msgstr "          "
+
+msgid "(deadlock?) "
+msgstr "(死锁？) "
+
+msgid "An application wants access to '%s', but it is locked"
+msgstr "一个应用程序想要访问“%s”，但它已被锁定"
+
+msgid "An application wants access to the certificate '%s', but it is locked"
+msgstr "一个应用程序想要访问证书“%s”，但它已被锁定"
+
+msgid ""
+"An application wants access to the certificate/key storage '%s', but it is "
+"locked"
+msgstr "一个应用程序想要访问证书/密钥存储器“%s”，但它已被锁定"
+
+msgid "An application wants access to the keyring '%s', but it is locked"
+msgstr "一个应用程序想要访问密钥环“%s”，但该密钥环已上锁"
+
+msgid "An application wants access to the private key '%s', but it is locked"
+msgstr "一个应用程序想要访问私钥“%s”，但它已被锁定"
+
+msgid "An application wants access to the public key '%s', but it is locked"
+msgstr "一个应用程序想要访问公钥“%s”，但它已被锁定"
+
+msgid ""
+"An application wants to change the password for the '%s' keyring. Choose the"
+" new password you want to use for it."
+msgstr "一个应用程序想要更改密钥环“%s”的密码。请您为该它选择一个新密码。"
+
+msgid ""
+"An application wants to change the password for the '%s' keyring. Enter the "
+"old password for it."
+msgstr "一个应用程序想要更改密钥环“%s”的密码。请输入它的旧密码。"
+
+msgid ""
+"An application wants to create a new keyring called '%s'. Choose the "
+"password you want to use for it."
+msgstr "一个应用程序想要创建名为“%s”的新密钥环。请您为该它选择一个新密码。"
+
+msgid "Automatically unlock this certificate whenever I'm logged in"
+msgstr "在我登录时自动解锁该证书"
+
+msgid "Automatically unlock this key whenever I'm logged in"
+msgstr "在我登录时自动解锁该密钥"
+
+msgid "Automatically unlock this keyring whenever I'm logged in"
+msgstr "在我登录时自动解锁该密钥环"
+
+msgid "Automatically unlock whenever I'm logged in"
+msgstr "在我登录时自动解锁"
+
+msgid ""
+"By choosing to use a blank password, your stored passwords will not be "
+"safely encrypted. They will be accessible by anyone with access to your "
+"files."
+msgstr "使用空白密码，您所储存的密码将不进行安全加密。能访问您文件的任何人均可访问它们。"
+
+msgid "Certificate and Key Storage"
+msgstr "证书和密钥存储"
+
+msgid "Change Keyring Password"
+msgstr "更改密钥环密码"
+
+msgid "Change Password"
+msgstr "更改密码"
+
+msgid "Change password for secure storage"
+msgstr "更改安全存储的密码"
+
+msgid "Choose a new password for the '%s' keyring"
+msgstr "为密钥环“%s”选择新密码"
+
+msgid "Choose password for new keyring"
+msgstr "选择新密钥环的密码"
+
+msgid "Client Authentication"
+msgstr "客户端认证"
+
+msgid "Code Signing"
+msgstr "代码签署"
+
+msgid "Common Name"
+msgstr "常用名"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Couldn't parse public SSH key"
+msgstr "无法处理 SSH 公钥"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Country of Citizenship"
+msgstr "国籍"
+
+msgid "Country of Residence"
+msgstr "定居国"
+
+msgid "DN Qualifier"
+msgstr "DN 限定人"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Date of Birth"
+msgstr "生日"
+
+msgid "Domain Component"
+msgstr "域组件"
+
+msgid "Email Address"
+msgstr "电子邮箱地址"
+
+msgid "Email Protection"
+msgstr "邮件防护"
+
+msgid "Enter password for keyring '%s' to unlock"
+msgstr "要解除锁定，请输入密钥环“%s”的密码"
+
+msgid "Enter password to unlock"
+msgstr "输入密码来解锁"
+
+msgid "Enter password to unlock the certificate"
+msgstr "输入密码以解锁证书"
+
+msgid "Enter password to unlock the certificate/key storage"
+msgstr "输入密码以解锁证书/密钥存储器"
+
+msgid "Enter password to unlock the private key"
+msgstr "输入密码以解锁私钥"
+
+msgid "Enter password to unlock the public key"
+msgstr "输入密码以解锁公钥"
+
+msgid "Enter password to unlock your login keyring"
+msgstr "输入密码以解锁您的登录密钥环"
+
+msgid "Enter the old password for the '%s' keyring"
+msgstr "输入密钥环“%s”的旧密码"
+
+msgid "GNOME Keyring: PKCS#11 Component"
+msgstr "GNOME 密钥环：PKCS#11 组件"
+
+msgid "GNOME Keyring: SSH Agent"
+msgstr "GNOME 密钥环：SSH 代理"
+
+msgid "GNOME Keyring: Secret Service"
+msgstr "GNOME 密钥环：保密服务"
+
+msgid "Gender"
+msgstr "性别"
+
+msgid "Generation Qualifier"
+msgstr "操作限定人"
+
+msgid "Given Name"
+msgstr "名"
+
+msgid ""
+"In order to prepare '%s' for storage of certificates or keys, a password is "
+"required"
+msgstr "要准备将“%s”用于证书或密钥存储，需要一个密码"
+
+msgid "Initials"
+msgstr "首字母"
+
+msgid "Locality"
+msgstr "位置"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "MD2 with RSA"
+msgstr "使用 MD2 算法的 RSA 密钥对"
+
+msgid "MD5 with RSA"
+msgstr "使用 MD5 算法的 RSA 密钥对"
+
+msgid "New Keyring Password"
+msgstr "新密钥环的密码"
+
+msgid "New Password Required"
+msgstr "需要新密码"
+
+msgid "New password required for secure storage"
+msgstr "需要新密码以进行安全存储"
+
+msgid "Organization"
+msgstr "组织"
+
+msgid "Organizational Unit"
+msgstr "单位"
+
+msgid "Original password for secure storage"
+msgstr "用于安全存储的原密码"
+
+msgid "Place of Birth"
+msgstr "出生地"
+
+msgid "Pseudonym"
+msgstr "笔名"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "SHA1 with DSA"
+msgstr "使用 SHA1 算法的 DSA 密钥对"
+
+msgid "SHA1 with RSA"
+msgstr "使用 SHA1 算法的 RSA 密钥对"
+
+msgid "SSH Key Agent"
+msgstr "SSH 密钥代理"
+
+msgid "Secret Storage Service"
+msgstr "保密存储服务"
+
+msgid "Serial Number"
+msgstr "序列号"
+
+msgid "Server Authentication"
+msgstr "服务器认证"
+
+msgid "State"
+msgstr "州/省"
+
+msgid "Store passwords unencrypted?"
+msgstr "不加密保存密码？"
+
+msgid "Street"
+msgstr "街道"
+
+msgid "Surname"
+msgstr "姓"
+
+msgid "Telephone Number"
+msgstr "电话号码"
+
+msgid ""
+"The login keyring did not get unlocked when you logged into your computer."
+msgstr "您登录计算机时，您的登录密钥环未被解锁。"
+
+msgid "The original password was incorrect"
+msgstr "原密码不正确"
+
+msgid ""
+"The password you use to log in to your computer no longer matches that of "
+"your login keyring."
+msgstr "您用来登录计算机的密码与登录密钥环里的密码不再匹配。"
+
+msgid "The unlock password was incorrect"
+msgstr "解锁密码错误"
+
+msgid "Time Stamping"
+msgstr "时间戳"
+
+msgid "Title"
+msgstr "头衔"
+
+msgid "To change the password for '%s', the original password is required"
+msgstr "要修改“%s”的密码，需要提供原密码"
+
+msgid "Type a new password for '%s'"
+msgstr "输入密钥环“%s”的新密码"
+
+msgid "Unexpected error in select() reading data from a child process (%s)"
+msgstr "select() 在从子进程中读取数据时出现异常错误(%s)"
+
+msgid "Unexpected error in waitpid() (%s)"
+msgstr "waitpid() 出现异常错误(%s)"
+
+msgid "Unlock"
+msgstr "解锁"
+
+msgid "Unlock Keyring"
+msgstr "解锁密钥环"
+
+msgid "Unlock Login Keyring"
+msgstr "解锁登录密钥环"
+
+msgid "Unlock certificate"
+msgstr "解锁证书"
+
+msgid "Unlock certificate/key storage"
+msgstr "解锁证书/密钥存储器"
+
+msgid "Unlock password for: %s"
+msgstr "%s 的解锁密码"
+
+msgid "Unlock private key"
+msgstr "解锁私钥"
+
+msgid "Unlock public key"
+msgstr "解锁公钥"
+
+msgid "Unnamed"
+msgstr "未命名"
+
+msgid "Unnamed Certificate"
+msgstr "未命名的证书"
+
+msgid "User ID"
+msgstr "用户 ID"
+
+msgid "can't create `%s': %s\n"
+msgstr "无法创建“%s”：%s\n"
+
+msgid "commands: "
+msgstr "命令： "
+
+msgid "error writing to `%s': %s\n"
+msgstr "写入“%s”出错：%s\n"
+
+msgid "failed to create temporary file `%s': %s\n"
+msgstr "创建临时文件“%s”失败：%s\n"
+
+msgid "lock `%s' not made: %s\n"
+msgstr "未能创建锁“%s”：%s\n"
+
+msgid "removing stale lockfile (created by %d)\n"
+msgstr "移除失效的锁文件(由 %d 创建)\n"
+
+msgid "usage: gnome-keyring command [options]\n"
+msgstr "用法：gnome-keying 命令 [选项]\n"
+
+msgid "waiting for lock %s...\n"
+msgstr "等待获取锁 %s...\n"
+
+msgid "waiting for lock (held by %d%s) %s...\n"
+msgstr "等待获取锁(由 %d%s 持有) %s...\n"

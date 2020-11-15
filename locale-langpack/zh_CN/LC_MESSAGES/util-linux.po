@@ -1,0 +1,2333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: util-linux-ng-2.14.1-rc2\n"
+"Report-Msgid-Bugs-To: Karel Zak <kzak@redhat.com>\n"
+"POT-Creation-Date: 2015-11-02 11:43+0100\n"
+"PO-Revision-Date: 2010-11-18 23:02+0000\n"
+"Last-Translator: Ray Wang <wanglei1123@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:55+0000\n"
+
+msgid "\tUTC: %s\n"
+msgstr "\tUTC：%s\n"
+
+msgid "\ttv.tv_sec = %ld, tv.tv_usec = %ld\n"
+msgstr "\ttv.tv_sec = %ld, tv.tv_usec = %ld\n"
+
+msgid "\ttz.tz_minuteswest = %d\n"
+msgstr "\ttz.tz_minuteswest = %d\n"
+
+msgid ""
+"\n"
+"%6d regular files\n"
+"%6d directories\n"
+"%6d character device files\n"
+"%6d block device files\n"
+"%6d links\n"
+"%6d symbolic links\n"
+"------\n"
+"%6d files\n"
+msgstr ""
+"\n"
+"%6d 个常规文件\n"
+"%6d 个目录\n"
+"%6d 个字符设备文件\n"
+"%6d 个块设备文件\n"
+"%6d 个链接\n"
+"%6d 个符号链接\n"
+"------\n"
+"%6d 个文件\n"
+
+msgid ""
+"\n"
+"%6ld inodes used (%ld%%)\n"
+msgstr ""
+"\n"
+"已使用 %6ld inodes(%ld%%)\n"
+
+msgid ""
+"\n"
+"*** %s: directory ***\n"
+"\n"
+msgstr ""
+"\n"
+"*** %s：目录 ***\n"
+"\n"
+
+msgid ""
+"\n"
+"******** %s: Not a text file ********\n"
+"\n"
+msgstr ""
+"\n"
+"******** %s：不是文件文件 ********\n"
+"\n"
+
+msgid ""
+"\n"
+"***Back***\n"
+"\n"
+msgstr ""
+"\n"
+"***后退***\n"
+"\n"
+
+msgid ""
+"\n"
+"...Skipping "
+msgstr ""
+"\n"
+"...跳过 "
+
+msgid ""
+"\n"
+"Known <ldisc> names:\n"
+msgstr ""
+"\n"
+"已知<线路规则>名称：\n"
+
+msgid ""
+"\n"
+"Login incorrect\n"
+msgstr ""
+"\n"
+"登录不正确\n"
+
+msgid ""
+"\n"
+"Message Queue msqid=%d\n"
+msgstr ""
+"\n"
+"消息队列 msqid=%d\n"
+
+msgid ""
+"\n"
+"Most commands optionally preceded by integer argument k.  Defaults in brackets.\n"
+"Star (*) indicates argument becomes new default.\n"
+msgstr ""
+"\n"
+"多数命令可在前面加整数参数 k。方括号中为参数的默认值\n"
+"星号(*)表示参数将成为新的默认值。\n"
+
+msgid ""
+"\n"
+"Options:\n"
+msgstr ""
+"\n"
+"选项：\n"
+
+msgid ""
+"\n"
+"Pattern not found\n"
+msgstr ""
+"\n"
+"未找到模式\n"
+
+msgid ""
+"\n"
+"Script done on %s"
+msgstr ""
+"\n"
+"脚本完成，于 %s"
+
+msgid ""
+"\n"
+"Semaphore Array semid=%d\n"
+msgstr ""
+"\n"
+"信号量数组 semid=%d\n"
+
+msgid ""
+"\n"
+"Shared memory Segment shmid=%d\n"
+msgstr ""
+"\n"
+"共享内存段 shmid=%d\n"
+
+msgid "        (%s partition table detected). "
+msgstr "        (检测到 %s 分区表)。 "
+
+msgid "        (compiled without libblkid). "
+msgstr "        (编译时未链接 libblkid)。 "
+
+msgid "  Overflow\n"
+msgstr "  上溢\n"
+
+msgid "  b          Toggle bootable flag of the current partition"
+msgstr "  b          切换当前分区的 可启动 标志"
+
+msgid "  d          Delete the current partition"
+msgstr "  d          删除当前分区"
+
+msgid "  h          Print this screen"
+msgstr "  h          打印此屏幕"
+
+msgid "  n          Create new partition from free space"
+msgstr "  n          从空闲空间创建新分区"
+
+msgid "  q          Quit program without writing partition table"
+msgstr "  q          退出程序但不写入分区表"
+
+msgid " Remove"
+msgstr " 删除"
+
+msgid " badsect"
+msgstr " 坏扇区"
+
+msgid " ecc"
+msgstr " ecc"
+
+msgid " removable"
+msgstr " 可移动"
+
+msgid "\"%s\" line %d"
+msgstr "“%s”第 %d 行"
+
+msgid "%6.2f%% (%+ld bytes)\t%s\n"
+msgstr "%6.2f%% (%+ld 字节)\t%s\n"
+
+msgid "%6ld zones used (%ld%%)\n"
+msgstr "已使用 %6ld 区(%ld%%)\n"
+
+msgid "%ld blocks\n"
+msgstr "%ld 块\n"
+
+msgid "%ld inodes\n"
+msgstr "%ld inodes\n"
+
+msgid "%s %d"
+msgstr "%s %d"
+
+msgid "%s cache:"
+msgstr "%s 缓存："
+
+msgid "%s does not have interrupt functions. "
+msgstr "%s 没有中断函数。 "
+
+msgid "%s failed.\n"
+msgstr "%s 失败.\n"
+
+msgid "%s from %s\n"
+msgstr "%s，来自 %s\n"
+
+msgid "%s is clean, no check.\n"
+msgstr "%s 是干净的，不检查。\n"
+
+msgid "%s is mounted.\t "
+msgstr "%s 已经挂载.\t "
+
+msgid "%s is mounted; will not make a filesystem here!"
+msgstr "%s 已挂载；将不会在此创建文件系统！"
+
+msgid "%s is not a block special device"
+msgstr "%s 不是一个块特殊设备"
+
+msgid "%s is not a serial line"
+msgstr "%s 不是串行线"
+
+msgid "%s status is %d"
+msgstr "%s 状态为 %d"
+
+msgid "%s succeeded.\n"
+msgstr "%s 成功.\n"
+
+msgid "%s takes no non-option arguments.  You supplied %d.\n"
+msgstr "%s 不接受无选项的参数。您提供了 %d。\n"
+
+msgid "%s using IRQ %d\n"
+msgstr "%s 使用中断请求 %d\n"
+
+msgid "%s using polling\n"
+msgstr "%s 使用轮询\n"
+
+msgid "%s-sided, %d tracks, %d sec/track. Total capacity %d kB.\n"
+msgstr "%s-面, %d 磁道, %d 秒/磁道. 总容量 %d kB.\n"
+
+msgid "%s: OK\n"
+msgstr "%s：OK\n"
+
+msgid "%s: Unrecognized architecture"
+msgstr "%s：未识别的架构"
+
+msgid "%s: assuming RTC uses UTC ...\n"
+msgstr "%s：将假设 RTC 使用 UTC...\n"
+
+msgid "%s: bad directory: '.' isn't first\n"
+msgstr "%s: 不正确的目录: '.' 不是第一个\n"
+
+msgid "%s: bad directory: '..' isn't second\n"
+msgstr "%s: 不正确的目录: '.' 不是第二个\n"
+
+msgid "%s: bad directory: size < 32"
+msgstr "%s: 不正确的目录: 大小 < 32"
+
+msgid "%s: can't exec %s: %m"
+msgstr "%s：无法执行 %s：%m"
+
+msgid "%s: cannot add inotify watch (limit of inotify watches was reached)."
+msgstr "%s：无法添加 inotify 观察(达到了 inotify 观察数限制)。"
+
+msgid "%s: cannot add inotify watch."
+msgstr "%s：无法添加 inotify 观察。"
+
+msgid "%s: cannot read inotify events"
+msgstr "%s：无法读 inotify 事件"
+
+msgid "%s: dup problem: %m"
+msgstr "%s：dup 问题：%m"
+
+msgid "%s: exceeded limit of symlinks"
+msgstr "%s：超过了符号链接限制"
+
+msgid "%s: get size failed"
+msgstr "%s：获取大小失败"
+
+msgid "%s: input overrun"
+msgstr "%s：输入过载"
+
+msgid "%s: insecure permissions %04o, %04o suggested."
+msgstr "%s：不安全的权限 %04o，建议使用 %04o。"
+
+msgid "%s: last_page 0x%08llx is larger than actual size of swapspace"
+msgstr "%s：末页 0x%08llx 大于交换空间的实际大小"
+
+msgid "%s: lseek failed"
+msgstr "%s：lseek 失败"
+
+msgid "%s: not open for read/write"
+msgstr "%s：未打开(就)读/写"
+
+msgid "%s: read swap header failed"
+msgstr "%s：读交换区头失败"
+
+msgid "%s: read: %m"
+msgstr "%s：read：%m"
+
+msgid "%s: reinitializing the swap."
+msgstr "%s：正在重新初始化交换区。"
+
+msgid "%s: skipping - it appears to have holes."
+msgstr "%s：将跳过 - 它似乎有空洞。"
+
+msgid "%s: skipping nonexistent device\n"
+msgstr "%s：将跳过不存在的设备\n"
+
+msgid "%s: software suspend data detected. Rewriting the swap signature."
+msgstr "%s：检测到软件挂起数据。将重新写交换区签名。"
+
+msgid "%s: swap format pagesize does not match."
+msgstr "%s：交换格式页大小不匹配。"
+
+msgid ""
+"%s: swap format pagesize does not match. (Use --fixpgsz to reinitialize it.)"
+msgstr "%s：交换格式页大小不匹配。(使用 --fixpgsz 来重新对它初始化。)"
+
+msgid "%s: swapoff failed"
+msgstr "%s：swapoff 失败"
+
+msgid "%s: swapon failed"
+msgstr "%s：swapon 失败"
+
+msgid "%s: write signature failed"
+msgstr "%s：写签名失败"
+
+msgid "(EOF)"
+msgstr "(文件末尾)"
+
+msgid "(Next file: "
+msgstr "(下个文件： "
+
+msgid "(Next file: %s)"
+msgstr "(下个文件：%s)"
+
+msgid ", busy"
+msgstr "，忙碌"
+
+msgid ", error"
+msgstr "，错误"
+
+msgid ", on-line"
+msgstr "，在线"
+
+msgid ", out of paper"
+msgstr "，缺页"
+
+msgid ", ready"
+msgstr "，就绪"
+
+msgid "-- line already flushed"
+msgstr "-- 行已经被冲洗(flushed)"
+
+msgid "------ Message Queues --------\n"
+msgstr "--------- 消息队列 -----------\n"
+
+msgid "------ Message Queues PIDs --------\n"
+msgstr "--------- 消息队列 PID -----------\n"
+
+msgid "------ Message Queues Send/Recv/Change Times --------\n"
+msgstr "----------- 消息队列 发送/接收/更改 时间 ------------\n"
+
+msgid "------ Semaphore Arrays --------\n"
+msgstr "--------- 信号量数组 -----------\n"
+
+msgid "------ Semaphore Arrays Creators/Owners --------\n"
+msgstr "----------- 信号量数组创建者/拥有者 ------------\n"
+
+msgid "------ Semaphore Limits --------\n"
+msgstr "--------- 信号量限制 -----------\n"
+
+msgid "------ Semaphore Operation/Change Times --------\n"
+msgstr "------------ 信号量 操作/更改 时间 -------------\n"
+
+msgid "------ Semaphore Status --------\n"
+msgstr "--------- 信号量状态 -----------\n"
+
+msgid "------ Shared Memory Attach/Detach/Change Times --------\n"
+msgstr "------------ 共享内存 添加/脱离/更改 时间 --------------\n"
+
+msgid "------ Shared Memory Limits --------\n"
+msgstr "---------- 同享内存限制 ------------\n"
+
+msgid "------ Shared Memory Segment Creators/Owners --------\n"
+msgstr "------------- 共享内存段创建者/拥有者 ---------------\n"
+
+msgid "------ Shared Memory Segments --------\n"
+msgstr "------------ 共享内存段 --------------\n"
+
+msgid "------ Shared Memory Status --------\n"
+msgstr "---------- 共享内存状态 ------------\n"
+
+msgid "-------      -------"
+msgstr "-------      -------"
+
+msgid ""
+"----------------------------\n"
+"FILE SYSTEM HAS BEEN CHANGED\n"
+"----------------------------\n"
+msgstr ""
+"----------------\n"
+"文件系统已经更改\n"
+"----------------\n"
+
+msgid "--More--"
+msgstr "--更多--"
+
+msgid "--waiting-- (pass %d)\n"
+msgstr "--等待中-- (第 %d 遍)\n"
+
+msgid "...Skipping back to file "
+msgstr "...将跳回文件 "
+
+msgid "...Skipping to file "
+msgstr "...跳到文件 "
+
+msgid "...got clock tick\n"
+msgstr "...已获取时钟滴答\n"
+
+msgid "...skipping\n"
+msgstr "...跳过\n"
+
+msgid "...skipping backward\n"
+msgstr "...后退\n"
+
+msgid "...skipping forward\n"
+msgstr "...前进\n"
+
+msgid "...synchronization failed\n"
+msgstr "...同步失败\n"
+
+msgid "/dev/%s: cannot open as standard input: %m"
+msgstr "/dev/%s：无法以标准输入打开：%m"
+
+msgid "/dev/%s: not a character device"
+msgstr "/dev/%s：不是字符设备"
+
+msgid ": !command not allowed in rflag mode.\n"
+msgstr ": !命令 在 rflag 模式下不许使用。\n"
+
+msgid ""
+"<space>                 Display next k lines of text [current screen size]\n"
+"z                       Display next k lines of text [current screen size]*\n"
+"<return>                Display next k lines of text [1]*\n"
+"d or ctrl-D             Scroll k lines [current scroll size, initially 11]*\n"
+"q or Q or <interrupt>   Exit from more\n"
+"s                       Skip forward k lines of text [1]\n"
+"f                       Skip forward k screenfuls of text [1]\n"
+"b or ctrl-B             Skip backwards k screenfuls of text [1]\n"
+"'                       Go to place where previous search started\n"
+"=                       Display current line number\n"
+"/<regular expression>   Search for kth occurrence of regular expression [1]\n"
+"n                       Search for kth occurrence of last r.e [1]\n"
+"!<cmd> or :!<cmd>       Execute <cmd> in a subshell\n"
+"v                       Start up /usr/bin/vi at current line\n"
+"ctrl-L                  Redraw screen\n"
+":n                      Go to kth next file [1]\n"
+":p                      Go to kth previous file [1]\n"
+":f                      Display current file name and line number\n"
+".                       Repeat previous command\n"
+msgstr ""
+"<空格键>                显示下 k 行文本[当前屏幕尺寸]\n"
+"z                       显示下 k 行文本[当前屏幕尺寸]*\n"
+"<回车键>                显示下 k 行文本[1]*\n"
+"d 或 ctrl-D             滚动 k 行[当前滚动尺寸，初始值为 11]*\n"
+"q 或 Q 或 <interrupt>   退出 more\n"
+"s                       跳过下面 k 行文本[1]\n"
+"f                       跳过下面 k 屏文本[1]\n"
+"b 或 ctrl-B             跳过上面 k 屏文本 [1]\n"
+"'                       转到上次搜索开始处\n"
+"=                       显示当前行号\n"
+"/<正则表达式>           搜索正则表达式第 k 次出现处[1]\n"
+"n                       搜索前一正则表达式第 k 次出现处[1]\n"
+"!<cmd> 或 :!<cmd>       在子 shell 中执行 <cmd> 命令\n"
+"v                       在当前行启动 /usr/bin/vi\n"
+"ctrl-L                  重绘屏幕\n"
+":n                      转到后面第 k 个文件[1]\n"
+":p                      转到前面第 k 个文件 [1]\n"
+":f                      显示当前文件名和行号\n"
+".                       重复前一命令\n"
+
+msgid "AIEEE: block \"compressed\" to > 2*blocklength (%ld)\n"
+msgstr "AIEEE：块已“压缩”到 > 2*块长度(%ld)\n"
+
+msgid "AIX"
+msgstr "AIX"
+
+msgid "AIX bootable"
+msgstr "AIX 可启动"
+
+msgid "AST SmartSleep"
+msgstr "AST 智能睡眠"
+
+msgid "Amoeba"
+msgstr "Amoeba"
+
+msgid "Amoeba BBT"
+msgstr "Amoeba BBT"
+
+msgid "Assuming hardware clock is kept in %s time.\n"
+msgstr "将假设硬件时钟保持为 %s 时间。\n"
+
+msgid "BBT"
+msgstr "BBT"
+
+msgid "BSD/OS"
+msgstr "BSD/OS"
+
+msgid "BSDI fs"
+msgstr "BSDI fs"
+
+msgid "BSDI swap"
+msgstr "BSDI swap"
+
+msgid "BeOS fs"
+msgstr "BeOS fs"
+
+msgid "Block %d in file `%s' is marked not in use."
+msgstr "文件中块 %d `%s' 标记为没有使用."
+
+msgid "Block has been used before. Now in file `%s'."
+msgstr "块已经被使用, 现在在文件 `%s' 中."
+
+msgid "BlockSize: %d\n"
+msgstr "块大小：%d\n"
+
+msgid "Boot"
+msgstr "启动"
+
+msgid "Boot Wizard hidden"
+msgstr "Boot Wizard 隐藏"
+
+msgid "BootIt"
+msgstr "BootIt"
+
+msgid "Bootable"
+msgstr "可启动"
+
+msgid "CP/M"
+msgstr "CP/M"
+
+msgid "CP/M / CTOS / ..."
+msgstr "CP/M / CTOS / ..."
+
+msgid "CPU MHz:"
+msgstr "CPU MHz："
+
+msgid "CPU family:"
+msgstr "CPU 系列："
+
+msgid "CPU op-mode(s):"
+msgstr "CPU 运行模式："
+
+msgid "CRC: %x\n"
+msgstr "CRC：%x\n"
+
+msgid "Calling settimeofday:\n"
+msgstr "正在调用 settimeofday：\n"
+
+msgid "Changing finger information for %s.\n"
+msgstr "正在更改 %s 的 finger 信息。\n"
+
+msgid "Changing shell for %s.\n"
+msgstr "正在更改 %s 的 shell。\n"
+
+msgid "Checking all file systems.\n"
+msgstr "正在检查所有文件系统。\n"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clock not changed - testing only.\n"
+msgstr "时钟未更改 - 纯测试。\n"
+
+msgid "Command      Meaning"
+msgstr "命令         意义"
+
+msgid "Command (m for help): "
+msgstr "命令(输入 m 获取帮助)： "
+
+msgid "Compaq diagnostics"
+msgstr "Compaq 诊断"
+
+msgid "Core(s) per socket:"
+msgstr "每个座的核数："
+
+msgid "Correct"
+msgstr "正确"
+
+msgid ""
+"Could not open file with the clock adjustment parameters in it (%s) for "
+"writing"
+msgstr "无法打开包含时钟调整参数(%s)的文件来写入"
+
+msgid "Could not update file with the clock adjustment parameters (%s) in it"
+msgstr "无法更新包含时钟调整参数(%s)的文件"
+
+msgid "Couldn't initialize PAM: %s"
+msgstr "无法初始化 PAM：%s"
+
+msgid "Create new partition from free space"
+msgstr "在剩余空间上创建新分区"
+
+msgid "Current system time: %ld = %s\n"
+msgstr "当前系统时间：%ld = %s\n"
+
+msgid "Cylinders"
+msgstr "柱面"
+
+msgid "DIALUP AT %s BY %s"
+msgstr "DIALUP AT %s BY %s"
+
+msgid "DOS R/O"
+msgstr "DOS R/O"
+
+msgid "DOS access"
+msgstr "DOS 访问"
+
+msgid "DOS secondary"
+msgstr "DOS 次要"
+
+msgid "DRDOS/sec (FAT-12)"
+msgstr "DRDOS/sec (FAT-12)"
+
+msgid "DRDOS/sec (FAT-16 < 32M)"
+msgstr "DRDOS/sec (FAT-16 < 32M)"
+
+msgid "DRDOS/sec (FAT-16)"
+msgstr "DRDOS/sec (FAT-16)"
+
+msgid "Darwin UFS"
+msgstr "Darwin UFS"
+
+msgid "Darwin boot"
+msgstr "Darwin 启动"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete the current partition"
+msgstr "删除当前分区"
+
+msgid "Dell Utility"
+msgstr "Dell 工具"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device: %s\n"
+msgstr "设备：%s\n"
+
+msgid "Directory data: %zd bytes\n"
+msgstr "目录数据：%zd 字节\n"
+
+msgid "DiskSecure Multi-Boot"
+msgstr "DiskSecure 多启动"
+
+msgid "Do you really want to continue"
+msgstr "你确认要继续"
+
+msgid "Double"
+msgstr "双面"
+
+msgid "Down Arrow   Move cursor to the next partition"
+msgstr "下箭头       光标移到下一分区"
+
+msgid "EFI (FAT-12/16/32)"
+msgstr "EFI (FAT-12/16/32)"
+
+msgid "EZ-Drive"
+msgstr "EZ-Drive"
+
+msgid "Empty"
+msgstr "空"
+
+msgid "End"
+msgstr "末尾"
+
+msgid "Everything: %zd kilobytes\n"
+msgstr "全部：%zd KB\n"
+
+msgid "Expert command (m for help): "
+msgstr "专家命令(输入 m 显示帮助)： "
+
+msgid "Extended"
+msgstr "扩展"
+
+msgid "Extra sectors per cylinder"
+msgstr "每个柱面的额外扇区数"
+
+msgid "FAILED LOGIN SESSION FROM %s FOR %s, %s"
+msgstr "FAILED LOGIN SESSION FROM %s FOR %s, %s"
+
+msgid "FAT12"
+msgstr "FAT12"
+
+msgid "FAT16"
+msgstr "FAT16"
+
+msgid "FAT16 <32M"
+msgstr "FAT16 <32M"
+
+msgid "FATAL: %s is not a terminal"
+msgstr "致命：%s 不是终端"
+
+msgid "FATAL: bad tty"
+msgstr "致命：坏的 tty"
+
+msgid "FSname: <%-6s>\n"
+msgstr "文件系统名：<%-6s>\n"
+
+msgid "Failed to set personality to %s"
+msgstr "无法将人格(personality)设置为 %s"
+
+msgid "Filesystem on %s is dirty, needs checking.\n"
+msgstr "%s 上的文件系统有问题，需要检查。\n"
+
+msgid "Filesystem state=%d\n"
+msgstr "Filesystem state=%d\n"
+
+msgid "Finger information *NOT* changed.  Try again later.\n"
+msgstr "Finger 信息*没有*更改。请稍后重试。\n"
+
+msgid "Finger information changed.\n"
+msgstr "Finger 信息已更改。\n"
+
+msgid "Finger information not changed.\n"
+msgstr "Finger 信息未更改。\n"
+
+msgid "Finished with %s (exit status %d)\n"
+msgstr "以 %s 结束(退出状态为 %d)\n"
+
+msgid "First %s"
+msgstr "起始 %s"
+
+msgid "Flags"
+msgstr "标志"
+
+msgid "Forcing filesystem check on %s.\n"
+msgstr "强制在 %s 上进行文件系统检查。\n"
+
+msgid "Formatting ... "
+msgstr "正在格式化 ... "
+
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+msgid "GNU HURD or SysV"
+msgstr "GNU HURD or SysV"
+
+msgid "GPT"
+msgstr "GPT"
+
+msgid "Generated random UUID: %s\n"
+msgstr "已生成随机 UUID：%s\n"
+
+msgid "Generated time UUID: %s\n"
+msgstr "已生成时间 UUID：%s\n"
+
+msgid "Geometry"
+msgstr "几何属性"
+
+msgid "Golden Bow"
+msgstr "Golden Bow"
+
+msgid "HFS / HFS+"
+msgstr "HFS / HFS+"
+
+msgid "Hardware clock is on %s time\n"
+msgstr "硬件时钟为 %s 时间\n"
+
+msgid "Heads"
+msgstr "磁头"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Hidden FAT12"
+msgstr "隐藏的 FAT12"
+
+msgid "Hidden FAT16"
+msgstr "隐藏的 FAT16"
+
+msgid "Hidden FAT16 <32M"
+msgstr "隐藏的 FAT16 <32M"
+
+msgid "Hidden HPFS/NTFS"
+msgstr "隐藏的 HPFS/NTFS"
+
+msgid "Hidden W95 FAT16 (LBA)"
+msgstr "隐藏的 W95 FAT16 (LBA)"
+
+msgid "Hidden W95 FAT32"
+msgstr "隐藏的 W95 FAT32"
+
+msgid "Hidden W95 FAT32 (LBA)"
+msgstr "隐藏的 W95 FAT32 (LBA)"
+
+msgid "Home Phone"
+msgstr "住宅电话"
+
+msgid "Hw clock time : %4d/%.2d/%.2d %.2d:%.2d:%.2d = %ld seconds since 1969\n"
+msgstr "硬件时钟时间：%4d/%.2d/%.2d %.2d:%.2d:%.2d = 1969(年)后 %ld 秒\n"
+
+msgid "Hypervisor vendor:"
+msgstr "超管理器厂商："
+
+msgid "IBM Thinkpad hibernation"
+msgstr "IBM Thinkpad 休眠"
+
+msgid ""
+"Id  Name\n"
+"\n"
+msgstr ""
+"Id 名称\n"
+"\n"
+
+msgid "Including: %s\n"
+msgstr "包含：%s\n"
+
+msgid "Inode %d marked unused, but used for file '%s'\n"
+msgstr "Inode %d 标记为未使用, 但用于文件 '%s'\n"
+
+msgid "Inode end: %d, Data end: %d\n"
+msgstr "Inode 终点：%d，数据终点：%d\n"
+
+msgid "Interleave factor"
+msgstr "交错系数"
+
+msgid ""
+"Internal error: trying to write bad block\n"
+"Write request ignored\n"
+msgstr ""
+"内部错误: 试图写坏块\n"
+"写请求忽略\n"
+
+msgid "Invalid operation %d\n"
+msgstr "无效操作 %d\n"
+
+msgid "Invalid user name \"%s\" in %s:%d. Abort."
+msgstr "%2$s:%3$d 中是无效用户名“%1$s”。中止。"
+
+msgid "Invalid values in hardware clock: %4d/%.2d/%.2d %.2d:%.2d:%.2d\n"
+msgstr "硬件时钟值无效：%4d/%.2d/%.2d %.2d:%.2d:%.2d\n"
+
+msgid "Issuing date command: %s\n"
+msgstr "正在发出 date 命令：%s\n"
+
+msgid "Kernel is assuming an epoch value of %lu\n"
+msgstr "内核假设纪元(epoch)值为 %lu\n"
+
+msgid "LANstep"
+msgstr "LANstep"
+
+msgid "LOGIN ON %s BY %s"
+msgstr "LOGIN ON %s BY %s"
+
+msgid "LOGIN ON %s BY %s FROM %s"
+msgstr "LOGIN ON %s BY %s FROM %s"
+
+msgid "LPGETIRQ error"
+msgstr "LPGETIRQ 出错"
+
+msgid "Last calibration done at %ld seconds after 1969\n"
+msgstr "上次校准完成于1969(年)后 %ld 秒\n"
+
+msgid "Last drift adjustment done at %ld seconds after 1969\n"
+msgstr "上次漂移调整完成于1969(年)后 %ld 秒\n"
+
+msgid "Last login: %.*s "
+msgstr "上次登录：%.*s "
+
+msgid "Line too long"
+msgstr "行过长"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "Linux LVM"
+msgstr "Linux LVM"
+
+msgid "Linux RAID"
+msgstr "Linux RAID"
+
+msgid "Linux extended"
+msgstr "Linux 扩展"
+
+msgid "Linux native"
+msgstr "Linux native"
+
+msgid "Linux plaintext"
+msgstr "Linux 纯文本"
+
+msgid "Linux raid autodetect"
+msgstr "Linux raid 自动检测"
+
+msgid "Linux swap"
+msgstr "Linux swap"
+
+msgid "Linux swap / Solaris"
+msgstr "Linux 交换 / Solaris"
+
+msgid "Linux/PA-RISC boot"
+msgstr "Linux/PA-RISC 启动"
+
+msgid "Logging in with home = \"/\".\n"
+msgstr "以 home = “/” 登录。\n"
+
+msgid ""
+"Login incorrect\n"
+"\n"
+msgstr ""
+"登录不正确\n"
+"\n"
+
+msgid "Mark in use"
+msgstr "标记为已使用"
+
+msgid "Message from %s@%s (as %s) on %s at %s ..."
+msgstr "%s@%s (作为 %s) 从 %s 上在 %s 发来消息..."
+
+msgid "Message from %s@%s on %s at %s ..."
+msgstr "%s@%s 从 %s 上在 %s 发来消息..."
+
+msgid "Message queue id: %d\n"
+msgstr "消息队列 id：%d\n"
+
+msgid "Minix / old Linux"
+msgstr "Minix / 旧 Linux"
+
+msgid "Model:"
+msgstr "型号："
+
+msgid "NEC DOS"
+msgstr "NEC DOS"
+
+msgid "NTFS volume set"
+msgstr "NTFS 卷集"
+
+msgid "NULL user name in %s:%d. Abort."
+msgstr "%s:%d 中是空(NULL)用户名。中止。"
+
+msgid "NUMA node(s):"
+msgstr "NUMA 节点："
+
+msgid "Name"
+msgstr "名称"
+
+msgid "NeXTSTEP"
+msgstr "NeXTSTEP"
+
+msgid "Needed adjustment is less than one second, so not setting clock.\n"
+msgstr "需要的调整不到一秒，将不设置时钟。\n"
+
+msgid "NetBSD"
+msgstr "NetBSD"
+
+msgid "New"
+msgstr "新建"
+
+msgid "New beginning of data"
+msgstr "新数据起点"
+
+msgid "New shell"
+msgstr "新 shell"
+
+msgid "No next file"
+msgstr "无下一个文件"
+
+msgid "No previous command to substitute for"
+msgstr "没有要替换的前一命令"
+
+msgid "No previous file"
+msgstr "无上一个文件"
+
+msgid "No remembered search string"
+msgstr "没有记忆的搜索字符串"
+
+msgid "No usable clock interface found.\n"
+msgstr "未找到可用的时钟接口。\n"
+
+msgid "Non-FS data"
+msgstr "非文件系统数据"
+
+msgid ""
+"Not adjusting drift factor because last calibration time is zero,\n"
+"so history is bad and calibration startover is necessary.\n"
+msgstr ""
+"将不调整漂移系数，因为上次校准时间为零，\n"
+"历史有问题；需要启动校准。\n"
+
+msgid ""
+"Not adjusting drift factor because the Hardware Clock previously contained "
+"garbage.\n"
+msgstr "将不调整漂移系数，因为之前硬件时钟包含垃圾内容。\n"
+
+msgid "Not enough arguments"
+msgstr "参数不够"
+
+msgid "Not set"
+msgstr "未设置"
+
+msgid "Not setting system clock because running in test mode.\n"
+msgstr "将不设置系统时钟，因为正以测试方式运行。\n"
+
+msgid "Not superuser."
+msgstr "非超级用户。"
+
+msgid "Not updating adjtime file because of testing mode.\n"
+msgstr "将不更新 adjtime 文件，因为正以测试方式运行。\n"
+
+msgid "Note: All of the commands can be entered with either upper or lower"
+msgstr "注：所有命令均可以大写或小写"
+
+msgid "Novell Netware 286"
+msgstr "Novell Netware 286"
+
+msgid "Novell Netware 386"
+msgstr "Novell Netware 386"
+
+msgid "Number of alternate cylinders"
+msgstr "备用柱面的数量"
+
+msgid "Number of cylinders"
+msgstr "柱面数"
+
+msgid "Number of heads"
+msgstr "磁头数"
+
+msgid "Number of physical cylinders"
+msgstr "物理柱面数"
+
+msgid "Number of sectors"
+msgstr "扇区数"
+
+msgid "OPUS"
+msgstr "OPUS"
+
+msgid "OS/2 Boot Manager"
+msgstr "OS/2 启动管理器"
+
+msgid "Office"
+msgstr "办公"
+
+msgid "Office Phone"
+msgstr "办公电话"
+
+msgid "Old Minix"
+msgstr "旧 Minix"
+
+msgid "OnTrack DM"
+msgstr "OnTrack DM"
+
+msgid "OnTrack DM6 Aux1"
+msgstr "OnTrack DM6 Aux1"
+
+msgid "OnTrack DM6 Aux3"
+msgstr "OnTrack DM6 Aux3"
+
+msgid "OnTrackDM6"
+msgstr "OnTrackDM6"
+
+msgid "Only 1k blocks/zones supported"
+msgstr "只支持 1k 块/区"
+
+msgid "OpenBSD"
+msgstr "OpenBSD"
+
+msgid "PC/IX"
+msgstr "PC/IX"
+
+msgid "PPC PReP Boot"
+msgstr "PPC PReP Boot"
+
+msgid "Partition number"
+msgstr "分区号"
+
+msgid "PartitionMagic recovery"
+msgstr "PartitionMagic 恢复"
+
+msgid "Password: "
+msgstr "密码： "
+
+msgid "Pattern not found"
+msgstr "找不到模式"
+
+msgid "Plan 9"
+msgstr "Plan 9"
+
+msgid "Priam Edisk"
+msgstr "Priam Edisk"
+
+msgid "Print help screen"
+msgstr "打印帮助界面"
+
+msgid "Probably you need root privileges.\n"
+msgstr "您可能需要 root 用户权限。\n"
+
+msgid "QNX4.x"
+msgstr "QNX4.x"
+
+msgid "QNX4.x 2nd part"
+msgstr "QNX4.x 第2部分"
+
+msgid "QNX4.x 3rd part"
+msgstr "QNX4.x 第3部分"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Quit program without writing partition table"
+msgstr "退出程序而不写入分区表"
+
+msgid "RE error: "
+msgstr "表达式错误： "
+
+msgid "RO    RA   SSZ   BSZ   StartSec            Size   Device\n"
+msgstr "RO    RA   SSZ   BSZ   开始段              大小   设备\n"
+
+msgid "ROM image"
+msgstr "ROM 镜像"
+
+msgid "ROM image map"
+msgstr "ROM 镜像映射"
+
+msgid "ROOT LOGIN ON %s"
+msgstr "ROOT LOGIN ON %s"
+
+msgid "ROOT LOGIN ON %s FROM %s"
+msgstr "ROOT LOGIN ON %s FROM %s"
+
+msgid "Read error: bad block in file '%s'\n"
+msgstr "读取错误: 文件 '%s' 中有坏块\n"
+
+msgid "Read error: unable to seek to block in file '%s'\n"
+msgstr "读取错误: 不能在文件 '%s' 中定位到该块\n"
+
+msgid "Read: "
+msgstr "读: "
+
+msgid "Remove block"
+msgstr "删除块"
+
+msgid "Rotation speed (rpm)"
+msgstr "转速(转/分)"
+
+msgid "Ruffian BCD clock\n"
+msgstr "Ruffian BCD 时钟\n"
+
+msgid "SCHED_%s min/max priority\t: %d/%d\n"
+msgstr "SCHED_%s 最小/最大优先级\t：%d/%d\n"
+
+msgid "SCHED_%s not supported?\n"
+msgstr "SCHED_%s 不支持？\n"
+
+msgid "SFS"
+msgstr "SFS"
+
+msgid "SGI bsd"
+msgstr "SGI bsd"
+
+msgid "SGI efs"
+msgstr "SGI efs"
+
+msgid "SGI lvol"
+msgstr "SGI lvol"
+
+msgid "SGI raw"
+msgstr "SGI raw"
+
+msgid "SGI rlvol"
+msgstr "SGI rlvol"
+
+msgid "SGI secrepl"
+msgstr "SGI secrepl"
+
+msgid "SGI sysv"
+msgstr "SGI sysv"
+
+msgid "SGI trkrepl"
+msgstr "SGI trkrepl"
+
+msgid "SGI volhdr"
+msgstr "SGI volhdr"
+
+msgid "SGI volume"
+msgstr "SGI volume"
+
+msgid "SGI xfs"
+msgstr "SGI xfs"
+
+msgid "SGI xfslog"
+msgstr "SGI xfslog"
+
+msgid "SGI xlv"
+msgstr "SGI xlv"
+
+msgid "SGI xvm"
+msgstr "SGI xvm"
+
+msgid "Script done, file is %s\n"
+msgstr "脚本完成，文件为  %s\n"
+
+msgid "Script started on %s"
+msgstr "脚本启动于 %s"
+
+msgid "Script started, file is %s\n"
+msgstr "脚本已启动，文件为 %s\n"
+
+msgid "Sectors"
+msgstr "扇区"
+
+msgid "Sectors/track"
+msgstr "扇区/磁道"
+
+msgid "Semaphore id: %d\n"
+msgstr "信号量 id：%d\n"
+
+msgid "Set"
+msgstr "设置"
+
+msgid "Set i_nlinks to count"
+msgstr "将 i_nlinks 设为计数"
+
+msgid "Setting Hardware Clock to %.2d:%.2d:%.2d = %ld seconds since 1969\n"
+msgstr "正在将硬件时钟设置为 %.2d:%.2d:%.2d = 1969(年)后 %ld 秒\n"
+
+msgid "Shared memory id: %d\n"
+msgstr "共享内存 id：%d\n"
+
+msgid "Shell changed.\n"
+msgstr "shell 已更改。\n"
+
+msgid "Single"
+msgstr "单面"
+
+msgid "Solaris"
+msgstr "Solaris"
+
+msgid "Solaris boot"
+msgstr "Solaris 启动"
+
+msgid "SpeedStor"
+msgstr "SpeedStor"
+
+msgid "Stepping:"
+msgstr "步进："
+
+msgid "SunOS alt sectors"
+msgstr "SunOS alt sectors"
+
+msgid "SunOS cachefs"
+msgstr "SunOS cachefs"
+
+msgid "SunOS home"
+msgstr "SunOS home"
+
+msgid "SunOS reserved"
+msgstr "SunOS 保留"
+
+msgid "SunOS root"
+msgstr "SunOS 根"
+
+msgid "SunOS stand"
+msgstr "SunOS stand"
+
+msgid "SunOS swap"
+msgstr "SunOS 交换"
+
+msgid "SunOS usr"
+msgstr "SunOS usr"
+
+msgid "SunOS var"
+msgstr "SunOS var"
+
+msgid "Super block: %zd bytes\n"
+msgstr "超级块：%zd 字节\n"
+
+msgid "Switching on %s.\n"
+msgstr "正在打开 %s。\n"
+
+msgid "Syrinx"
+msgstr "Syrinx"
+
+msgid "TIOCSCTTY failed: %m"
+msgstr "TIOCSCTTY 失败：%m"
+
+msgid ""
+"The date command issued by %s returned something other than an integer where the converted time value was expected.\n"
+"The command was:\n"
+"  %s\n"
+"The response was:\n"
+" %s\n"
+msgstr ""
+"%s 发出的 date 命令返回了意外结果，本应返回包含已转换时间值的一个整数。\n"
+"命令为：\n"
+"  %s\n"
+"响应为：\n"
+" %s\n"
+
+msgid "The directory '%s' contains a bad inode number for file '%.*s'."
+msgstr "目录 '%s' 包含了一个不正确的 inode number 文件 '%.*s'."
+
+msgid "The file `%s' has mode %05o\n"
+msgstr "文件 `%s' 的模式 %05o\n"
+
+msgid "Thread(s) per core:"
+msgstr "每个核的线程数："
+
+msgid "Time read from Hardware Clock: %4d/%.2d/%.2d %02d:%02d:%02d\n"
+msgstr "从硬件时钟读取的时间：%4d/%.2d/%.2d %02d:%02d:%02d\n"
+
+msgid "Toggle bootable flag of the current partition"
+msgstr "开关当前分区的 可启动 标志"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "UTC"
+msgstr "UTC"
+
+msgid "Unable to allocate buffer for inode count"
+msgstr "不能为 inode count 分配缓冲区"
+
+msgid "Unable to allocate buffer for inode map"
+msgstr "不能为 inode map 分配缓冲区"
+
+msgid "Unable to allocate buffer for inodes"
+msgstr "不能为 inodes 分配缓冲区"
+
+msgid "Unable to allocate buffer for zone count"
+msgstr "不能为 zone count 分配缓冲区"
+
+msgid "Unable to allocate buffer for zone map"
+msgstr "不能为 zone map 分配缓冲区"
+
+msgid "Unable to read inode map"
+msgstr "不能读 inode map"
+
+msgid "Unable to read inodes"
+msgstr "不能读 inodes"
+
+msgid "Unable to read zone map"
+msgstr "不能读 zone map"
+
+msgid "Unable to run 'date' program in /bin/sh shell. popen() failed"
+msgstr "无法在 /bin/sh shell 中运行“date”程序。popen() 失败"
+
+msgid "Unable to set system clock.\n"
+msgstr "无法设置系统时钟。\n"
+
+msgid "Unable to set the epoch value in the kernel.\n"
+msgstr "无法设置内核中的纪元(epoch)值。\n"
+
+msgid "Unable to set up swap-space: unreadable"
+msgstr "无法设置交换空间：不可读"
+
+msgid "Unable to write inode map"
+msgstr "不能写 inode map"
+
+msgid "Unable to write inodes"
+msgstr "不能写 inodes"
+
+msgid "Unable to write zone map"
+msgstr "不能写 zone map"
+
+msgid "Unassigned"
+msgstr "未分配"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown user context"
+msgstr "未知用户环境(context)"
+
+msgid "Unmark"
+msgstr "清标记"
+
+msgid "Up Arrow     Move cursor to the previous partition"
+msgstr "上箭头       光标移到上一分区"
+
+msgid "Using UTC time.\n"
+msgstr "使用 UTC 时间。\n"
+
+msgid "Using local time.\n"
+msgstr "使用当地时间。\n"
+
+msgid "VMware VMFS"
+msgstr "VMware VMFS"
+
+msgid "VMware VMKCORE"
+msgstr "VMware VMKCORE"
+
+msgid "Vendor ID:"
+msgstr "厂商 ID："
+
+msgid "Venix 80286"
+msgstr "Venix 80286"
+
+msgid "Verifying ... "
+msgstr "正在验证 ... "
+
+msgid "Virtualization type:"
+msgstr "虚拟化类型："
+
+msgid "Virtualization:"
+msgstr "虚拟化："
+
+msgid "Volume: <%-6s>\n"
+msgstr "卷：<%-6s>\n"
+
+msgid "W95 Ext'd (LBA)"
+msgstr "W95 扩展 (LBA)"
+
+msgid "W95 FAT16 (LBA)"
+msgstr "W95 FAT16 (LBA)"
+
+msgid "W95 FAT32"
+msgstr "W95 FAT32"
+
+msgid "W95 FAT32 (LBA)"
+msgstr "W95 FAT32 (LBA)"
+
+msgid "Waiting for clock tick...\n"
+msgstr "正在等等时钟滴答...\n"
+
+msgid "Waiting in loop for time from %s to change\n"
+msgstr "正在循环等待来自 %s 的时间更改\n"
+
+msgid "Warning: Firstzone != Norm_firstzone\n"
+msgstr "警告: Firstzone != Norm_firstzone\n"
+
+msgid "Warning: inode count too big.\n"
+msgstr "警告: inode 计数太大.\n"
+
+msgid "Weird values in do_check: probably bugs\n"
+msgstr "do_check 中的值异常：可能有 bug\n"
+
+msgid "Whole disk"
+msgstr "整盘"
+
+msgid ""
+"Would have written the following to %s:\n"
+"%s"
+msgstr ""
+"若执行，将向 %s 写入以下内容：\n"
+"%s"
+
+msgid "Would you like to edit %s now [y/n]? "
+msgstr "您想现在编辑 %s 吗[y/n]？ "
+
+msgid "Write"
+msgstr "写入"
+
+msgid "Write error: bad block in file '%s'\n"
+msgstr "写入错误: 文件 '%s' 中有坏块\n"
+
+msgid "Write partition table to disk (this might destroy data)"
+msgstr "将分区表写入磁盘(可能损坏数据)"
+
+msgid "XENIX root"
+msgstr "XENIX root"
+
+msgid "XENIX usr"
+msgstr "XENIX usr"
+
+msgid "You are using shadow groups on this system.\n"
+msgstr "您正在使用此系统上的遮蔽(shadow)组。\n"
+
+msgid "You are using shadow passwords on this system.\n"
+msgstr "您正在使用此系统上的遮蔽(shadow)密码。\n"
+
+msgid "You have mail.\n"
+msgstr "有您的邮件。\n"
+
+msgid "You have new mail.\n"
+msgstr "有您的新邮件。\n"
+
+msgid "Zone nr < FIRSTZONE in file `%s'."
+msgstr "nr 区 < 文件“%s”中的 FIRSTZONE。"
+
+msgid "Zone nr >= ZONES in file `%s'."
+msgstr "nr 区 >= 文件“%s”中的 FIRSTZONE。"
+
+msgid "Zonesize=%d\n"
+msgstr "Zonesize=%d\n"
+
+msgid "[Not a file] line %d"
+msgstr "[不是文件] 第 %d 行"
+
+msgid "[Press 'h' for instructions.]"
+msgstr "[按“h”键获取说明。]"
+
+msgid "[Press space to continue, 'q' to quit.]"
+msgstr "[按空格键继续，“q”键退出。]"
+
+msgid "[Use q or Q to quit]"
+msgstr "[使用 q 或 Q 退出]"
+
+msgid "alarm %ld, sys_time %ld, rtc_time %ld, seconds %u\n"
+msgstr "闹钟 %ld，sys 时间 %ld，rtc 时间 %ld，秒数 %u\n"
+
+msgid "allocated queues = %d\n"
+msgstr "已分配队列数 = %d\n"
+
+msgid "allocated semaphores = %d\n"
+msgstr "已分配信号量数 = %d\n"
+
+msgid "already removed id"
+msgstr "已移除的 id"
+
+msgid "already removed key"
+msgstr "已移除的键"
+
+msgid "att_time=%-26.24s\n"
+msgstr "附加时间=%-26.24s\n"
+
+msgid "attached"
+msgstr "已连上"
+
+msgid "bad arguments"
+msgstr "参数错误"
+
+msgid "bad filename length"
+msgstr "文件名长度有误"
+
+msgid "bad inode offset"
+msgstr "inode 偏移有误"
+
+msgid "bad inode size"
+msgstr "inode 大小有误"
+
+msgid "bad magic number in super-block"
+msgstr "超级块中的魔数数字损坏"
+
+msgid "bad response length"
+msgstr "响应长度错误"
+
+msgid "bad root offset (%lu)"
+msgstr "错误的根偏移(%lu)"
+
+msgid "bad s_imap_blocks field in super-block"
+msgstr "不正确的 s_imap_blocks 域在超级块中"
+
+msgid "bad s_zmap_blocks field in super-block"
+msgstr "不正确的 s_zmap_blocks 域在超级块中"
+
+msgid "bad speed: %s"
+msgstr "速度有误：%s"
+
+msgid "bad timeout value: %s"
+msgstr "超时值有误：%s"
+
+msgid "bad v2 inode size"
+msgstr "v2 inode 大小有误"
+
+msgid "badblock number input error on line %d\n"
+msgstr "第 %d 行坏块数输入错误\n"
+
+msgid "block size smaller than physical sector size of %s"
+msgstr "块尺寸比 %s 的物理扇区尺寸小"
+
+msgid "blocks argument too large, max is %llu"
+msgstr "块参数过大，最大值是 %llu"
+
+msgid "bogus mode: %s (%o)"
+msgstr "伪(bogus)模式：%s (%o)"
+
+msgid "booted from MILO\n"
+msgstr "从 MILO 启动\n"
+
+msgid "bytes"
+msgstr "字节"
+
+msgid "bytes/sector"
+msgstr "字节/扇区"
+
+msgid "can't fork\n"
+msgstr "无法 fork\n"
+
+msgid "cannot daemonize"
+msgstr "无法转为守护进程"
+
+msgid "cannot determine size of %s"
+msgstr "无法确定 %s 的大小"
+
+msgid "cannot find the device for %s"
+msgstr "找不到对应 %s 的设备"
+
+msgid "cannot fork"
+msgstr "无法 fork"
+
+msgid "cannot get size of %s"
+msgstr "无法获得 %s 的大小"
+
+msgid "cannot get terminal attributes for %s"
+msgstr "无法获取 %s 的终端属性"
+
+msgid "cannot open %s"
+msgstr "打不开 %s"
+
+msgid "cannot set line discipline"
+msgstr "无法设置行规则"
+
+msgid "cannot set terminal attributes for %s"
+msgstr "无法设置 %s 的终端属性"
+
+msgid "cgid"
+msgstr "cgid"
+
+msgid "change"
+msgstr "更改"
+
+msgid "change_time=%-26.24s\n"
+msgstr "更改时间=%-26.24s\n"
+
+msgid "changed"
+msgstr "已更改"
+
+msgid "check aborted.\n"
+msgstr "检查失败.\n"
+
+msgid "chown failed: %s"
+msgstr "chown 失败：%s"
+
+msgid "clockport adjusted to 0x%x\n"
+msgstr "时钟端口已调整为 0x%x\n"
+
+msgid "connect"
+msgstr "连接"
+
+msgid "couldn't compute selinux context"
+msgstr "无法计算 selinux 环境(context)"
+
+msgid "cpid"
+msgstr "cpid"
+
+msgid "crc error"
+msgstr "crc 错误"
+
+msgid "create message queue failed"
+msgstr "创建消息队列失败"
+
+msgid "create semaphore failed"
+msgstr "创建信号量失败"
+
+msgid "create share memory failed"
+msgstr "创建共享内存失败"
+
+msgid "ctime = %-26.24s\n"
+msgstr "ctime = %-26.24s\n"
+
+msgid "cuid"
+msgstr "cuid"
+
+msgid "cylinders"
+msgstr "柱面"
+
+msgid "cylinderskew"
+msgstr "柱头螺距"
+
+msgid "data block too large"
+msgstr "数据块过大"
+
+msgid "date string %s equates to %ld seconds since 1969.\n"
+msgstr "数据字符串 %s 等价于 1969年后 %ld 秒。\n"
+
+msgid "dest"
+msgstr "目标"
+
+msgid "det_time=%-26.24s\n"
+msgstr "脱离时间=%-26.24s\n"
+
+msgid "detached"
+msgstr "已断开"
+
+msgid "different"
+msgstr "不同"
+
+msgid "directory inode has zero offset and non-zero size: %s"
+msgstr "目录 inode 偏移为 0，大小不为 0：%s"
+
+msgid "divisor '%s'"
+msgstr "除数“%s”"
+
+msgid "done\n"
+msgstr "完成\n"
+
+msgid "empty long option after -l or --long argument"
+msgstr "-l 或 --long 参数后的长选项为空"
+
+msgid "error closing %s"
+msgstr "关闭 %s 出错"
+
+msgid "error writing . entry"
+msgstr "写 . 记录出错"
+
+msgid "error writing .. entry"
+msgstr "写 .. 记录出错"
+
+msgid "error writing inode"
+msgstr "写 inode 出错"
+
+msgid "error writing root inode"
+msgstr "写 根 inode 出错"
+
+msgid "error writing superblock"
+msgstr "写超级块出错"
+
+msgid "error: %s: probing initialization failed"
+msgstr "错误：%s：探测初始化失败"
+
+msgid "error: uname failed"
+msgstr "错误：uname 失败"
+
+msgid "excessively long line arg"
+msgstr "参数行超长"
+
+msgid "exec failed\n"
+msgstr "exec 失败\n"
+
+msgid "expected a number, but got '%s'"
+msgstr "应为数字，但收到了“%s”"
+
+msgid "failed to execute %s"
+msgstr "执行 %s 失败"
+
+msgid "failed to get pid %d's attributes"
+msgstr "获取 pid %d 的属性失败"
+
+msgid "failed to get pid %d's policy"
+msgstr "无法获得 pid %d 的策略"
+
+msgid "failed to parse pid"
+msgstr "解析 pid 失败"
+
+msgid "failed to parse priority"
+msgstr "解析优先级失败"
+
+msgid "failed to read symlink: %s"
+msgstr "读符号链接失败：%s"
+
+msgid "failed to read timing file %s"
+msgstr "读时序文件 %s 失败"
+
+msgid "failed to read typescript file %s"
+msgstr "读 typescript 文件 %s 失败"
+
+msgid "failed to set pid %d's policy"
+msgstr "设置 pid %d 的策略失败"
+
+msgid "fifo has non-zero size: %s"
+msgstr "FIFO 的大小不为 0：%s"
+
+msgid "file inode has zero offset and non-zero size"
+msgstr "文件 inode 偏移为 0，大小不为 0"
+
+msgid "file inode has zero size and non-zero offset"
+msgstr "文件 inode 大小为 0，偏移不为 0"
+
+msgid "file length too short"
+msgstr "文件长度过短"
+
+msgid "filename length is zero"
+msgstr "文件名长度为 0"
+
+msgid "flush buffers"
+msgstr "刷新缓存"
+
+msgid "fork failed"
+msgstr "fork 失败"
+
+msgid "fork() failed, try again later\n"
+msgstr "fork() 失败，请稍后重试\n"
+
+msgid "from %.*s\n"
+msgstr "来自 %.*s\n"
+
+msgid "fsname name too long"
+msgstr "fsname 名过长"
+
+msgid "full"
+msgstr "完全"
+
+msgid "funky TOY!\n"
+msgstr "烦人的 TOY！\n"
+
+msgid "get blocksize"
+msgstr "获得块大小"
+
+msgid "get filesystem readahead"
+msgstr "获取 文件系统 readahead"
+
+msgid "get logical block (sector) size"
+msgstr "获得逻辑块(扇区)大小"
+
+msgid "get max sectors per request"
+msgstr "获得每次请求的最大扇区数"
+
+msgid "get minimum I/O size"
+msgstr "获得最小 I/O 大小"
+
+msgid "get optimal I/O size"
+msgstr "获得最优 I/O 大小"
+
+msgid "get physical block (sector) size"
+msgstr "获得物理块(扇区)大小"
+
+msgid "get read-only"
+msgstr "获得只读"
+
+msgid "get readahead"
+msgstr "获取 readahead"
+
+msgid "get size in bytes"
+msgstr "获得字节大小"
+
+msgid "gid"
+msgstr "gid"
+
+msgid "headswitch"
+msgstr "磁头切换"
+
+msgid "ignoring given class data for idle class"
+msgstr "将忽略为“空闲”类别指定的类别数据"
+
+msgid "ignoring given class data for none class"
+msgstr "将忽略为“无”类别指定的类别数据"
+
+msgid "illegal day value: use 1-%d"
+msgstr "日 值不合法：请使用 1-%d"
+
+msgid "illegal month value: use 1-12"
+msgstr "月份值不合法：请使用 1-12"
+
+msgid "incomplete write to \"%s\" (written %zd, expected %zd)\n"
+msgstr "不完整写入“%s”(写入 %zd，应为 %zd)\n"
+
+msgid "interleave"
+msgstr "交错"
+
+msgid "internal error"
+msgstr "内部错误"
+
+msgid "internal error, contact the author."
+msgstr "内部错误，请联系作者。"
+
+msgid "invalid file data offset"
+msgstr "无效的文件数据偏移"
+
+msgid "invalid id"
+msgstr "无效 id"
+
+msgid "invalid key"
+msgstr "无效键"
+
+msgid "invalid length value specified"
+msgstr "指定的长度值无效"
+
+msgid "invalid offset value specified"
+msgstr "指定的偏移值无效"
+
+msgid "invalid option"
+msgstr "无效选项"
+
+msgid "ioctl failed: unable to determine device size: %s"
+msgstr "ioctl 失败：无法确定设备大小：%s"
+
+msgid "ioctl(%s) was successful.\n"
+msgstr "ioctl(%s) 成功。\n"
+
+msgid "ioctl() to %s to turn off update interrupts failed"
+msgstr "对 %s ioctl() 以关闭更新中断失败"
+
+msgid "ioctl() to %s to turn on update interrupts failed unexpectedly"
+msgstr "对 %s ioctl() 以打开更新中断意外失败"
+
+msgid "ioctl(RTC_EPOCH_READ) to %s failed"
+msgstr "对 %s 进行 ioctl(RTC_EPOCH_READ) 失败"
+
+msgid "ioctl(RTC_EPOCH_SET) to %s failed"
+msgstr "对 %s 进行 ioctl(RTC_EPOCH_SET) 失败"
+
+msgid "ioprio_get failed"
+msgstr "ioprio_get 失败"
+
+msgid "ioprio_set failed"
+msgstr "ioprio_set 失败"
+
+msgid "kernel not configured for message queues\n"
+msgstr "内核未做消息的相关配置\n"
+
+msgid "kernel not configured for semaphores\n"
+msgstr "内核未做信号量的相关配置\n"
+
+msgid "kernel not configured for shared memory\n"
+msgstr "内核未做共享内存的相关配置\n"
+
+msgid "key"
+msgstr "键"
+
+msgid "last-changed"
+msgstr "上次更改"
+
+msgid "last-op"
+msgstr "上一操作"
+
+msgid "lchown failed: %s"
+msgstr "lchown 失败：%s"
+
+msgid "local"
+msgstr "当地"
+
+msgid "locked"
+msgstr "已锁定"
+
+msgid "login: "
+msgstr "登录： "
+
+msgid "lpid"
+msgstr "lpid"
+
+msgid "lrpid"
+msgstr "lrpid"
+
+msgid "lspid"
+msgstr "lspid"
+
+msgid "max number of arrays = %d\n"
+msgstr "最大数组数量 = %d\n"
+
+msgid "max ops per semop call = %d\n"
+msgstr "每次信号量调用最大操作数 = %d\n"
+
+msgid "max queues system wide = %d\n"
+msgstr "系统最大队列数量 = %d\n"
+
+msgid "max semaphores per array = %d\n"
+msgstr "每个数组的最大信号量数目 = %d\n"
+
+msgid "max semaphores system wide = %d\n"
+msgstr "系统最大信号量数 = %d\n"
+
+msgid "messages"
+msgstr "消息"
+
+msgid "missing optstring argument"
+msgstr "缺少 optstring 参数"
+
+msgid "mkdir failed: %s"
+msgstr "mkdir 失败：%s"
+
+msgid "mknod failed: %s"
+msgstr "mknod 失败：%s"
+
+msgid "mode=%#o\taccess_perms=%#o\n"
+msgstr "模式=%#o\t访问权限=%#o\n"
+
+msgid "mode=%#o, access_perms=%#o\n"
+msgstr "模式=%#o，访问权限=%#o\n"
+
+msgid "mount table full"
+msgstr "挂载表满"
+
+msgid ""
+"mount: %s does not contain SELinux labels.\n"
+"       You just mounted an file system that supports labels which does not\n"
+"       contain labels, onto an SELinux box. It is likely that confined\n"
+"       applications will generate AVC messages and not be allowed access to\n"
+"       this file system.  For more details see restorecon(8) and mount(8).\n"
+msgstr ""
+"mount：%s 不包含 SELinux 标志\n"
+"       您刚将一个支持标签但未包含标签的文件系统挂载到了 SELinux 机器上。\n"
+"       受限制的应用程序可能会生成 AVC 消息，并被阻止访问该文件系统。\n"
+"       更多详细信息请参阅 restorecon(8) 和 mount(8)。\n"
+
+msgid "msqid"
+msgstr "msqid"
+
+msgid "nattch"
+msgstr "连接数"
+
+msgid "ncount"
+msgstr "ncount"
+
+msgid "need terminal for interactive repairs"
+msgstr "需要终端来进行交互式修复"
+
+msgid "no"
+msgstr "否"
+
+msgid "no label, "
+msgstr "无标签， "
+
+msgid "no length argument specified"
+msgstr "没有指定长度参数"
+
+msgid "no uuid\n"
+msgstr "无 uuid\n"
+
+msgid "non-block (%ld) bytes"
+msgstr "非块(%ld)字节"
+
+msgid "non-size (%ld vs %ld) bytes"
+msgstr "无大小(%ld ： %ld)字节"
+
+msgid "none"
+msgstr "无"
+
+msgid "not a block device or file: %s"
+msgstr "不是一个块设备或文件：%s"
+
+msgid "not enough space, need at least %llu blocks"
+msgstr "空间不足，至少需要 %llu 个块"
+
+msgid "nsems"
+msgstr "nsems"
+
+msgid "on %.*s\n"
+msgstr "于 %.*s\n"
+
+msgid "operation %d, incoming num = %d\n"
+msgstr "操作 %d，接收数 = %d\n"
+
+msgid "otime = %-26.24s\n"
+msgstr "otime = %-26.24s\n"
+
+msgid "owner"
+msgstr "拥有者"
+
+msgid "para"
+msgstr "半"
+
+msgid "past first line"
+msgstr "越过第一行"
+
+msgid "permission denied for id"
+msgstr "对 id 的权限不足"
+
+msgid "permission denied for key"
+msgstr "对 键 的权限不足"
+
+msgid "perms"
+msgstr "权限"
+
+msgid "pid"
+msgstr "pid"
+
+msgid "rcv_time=%-26.24s\n"
+msgstr "接收时间=%-26.24s\n"
+
+msgid "read count"
+msgstr "读计数"
+
+msgid "recv"
+msgstr "接收"
+
+msgid "reread partition table"
+msgstr "重新读取分区表"
+
+msgid "resource(s) deleted\n"
+msgstr "资源已删除\n"
+
+msgid "response from date command = %s\n"
+msgstr "date 命令的响应为 %s\n"
+
+msgid "root inode is not directory"
+msgstr "根 inode 不是一个目录"
+
+msgid "root inode isn't a directory"
+msgstr "根 inode 不是一个目录"
+
+msgid "rpm"
+msgstr "rpm"
+
+msgid "same"
+msgstr "相同"
+
+msgid "saved"
+msgstr "已保存"
+
+msgid "sector count: %d, sector size: %d\n"
+msgstr "扇区计数：%d，扇区大小：%d\n"
+
+msgid "sectors/cylinder"
+msgstr "扇区/柱面"
+
+msgid "sectors/track"
+msgstr "扇区/磁道"
+
+msgid "seek error"
+msgstr "定位出错"
+
+msgid "seek failed"
+msgstr "定位失败"
+
+msgid "seek failed in bad_zone"
+msgstr "bad_zone 中定位失败"
+
+msgid "seek failed in check_blocks"
+msgstr "check_blocks (检查块)时定位失败"
+
+msgid "seek failed in write_block"
+msgstr "在 write_block 中定位失败"
+
+msgid "seek failed in write_super_block"
+msgstr "在 write_super_block 中定位失败"
+
+msgid "select() to %s to wait for clock tick failed"
+msgstr "对 %s select() 以等待时钟嘀嗒失败"
+
+msgid "semid"
+msgstr "semid"
+
+msgid "semnum"
+msgstr "semnum"
+
+msgid "send"
+msgstr "发送"
+
+msgid "send_time=%-26.24s\n"
+msgstr "发送时间=%-26.24s\n"
+
+msgid "set filesystem readahead"
+msgstr "设置 文件系统 readahead"
+
+msgid "set read-only"
+msgstr "设置只读"
+
+msgid "set read-write"
+msgstr "设置读写"
+
+msgid "set readahead"
+msgstr "设置 readahead"
+
+msgid "settimeofday() failed"
+msgstr "settimeofday() 失败"
+
+msgid "setuid() failed"
+msgstr "setuid() 失败"
+
+msgid "shmid"
+msgstr "shmid"
+
+msgid "size error in symlink: %s"
+msgstr "符号链接大小出错：%s"
+
+msgid "socket"
+msgstr "套接字"
+
+msgid "socket has non-zero size: %s"
+msgstr "套接字的大小不为 0：%s"
+
+msgid "special file has non-zero offset: %s"
+msgstr "特殊文件的偏移不为 0：%s"
+
+msgid "speed %d unsupported"
+msgstr "不支持速度 %d"
+
+msgid "status"
+msgstr "状态"
+
+msgid "superblock magic not found"
+msgstr "超级块魔数(magic)未找到"
+
+msgid "superblock size (%d) too small"
+msgstr "超级块尺寸(%d)过小"
+
+msgid "symbolic link has zero offset"
+msgstr "符号链接偏移为 0"
+
+msgid "symbolic link has zero size"
+msgstr "符号链接大小为 0"
+
+msgid "symlink failed: %s"
+msgstr "symlink 失败：%s"
+
+msgid "timings file %s: %lu: unexpected format"
+msgstr "时序文件 %s：%lu：格式异常"
+
+msgid "too many alternate speeds"
+msgstr "备选速度过多"
+
+msgid "too many inodes - max is 512"
+msgstr "inodes 过多 - 最多 512"
+
+msgid "total"
+msgstr "总计"
+
+msgid "track-to-track seek"
+msgstr "跨磁道定位"
+
+msgid "tracks/cylinder"
+msgstr "磁道/柱面"
+
+msgid "trackskew"
+msgstr "磁道螺距"
+
+msgid "trouble reading terminfo"
+msgstr "读取终端信息出错"
+
+msgid "uid"
+msgstr "uid"
+
+msgid "unable to alloc buffer for superblock"
+msgstr "无法为超级块分配缓冲区"
+
+msgid "unable to alloc new libblkid probe"
+msgstr "无法分配新的 libblkid 探针"
+
+msgid "unable to create new selinux context"
+msgstr "无法创建新的 selinux 环境(context)"
+
+msgid "unable to erase bootbits sectors"
+msgstr "不能擦除 bootbits 扇区"
+
+msgid "unable to matchpathcon()"
+msgstr "无法执行 matchpathcon()"
+
+msgid "unable to read super block"
+msgstr "不能读超级块"
+
+msgid "unable to resolve '%s'"
+msgstr "不能解析“%s”"
+
+msgid "unable to rewind swap-device"
+msgstr "无法倒回(rewind)交换设备"
+
+msgid "unable to test CRC: old cramfs format"
+msgstr "无法检测 CRC：旧的 cramfs 格式"
+
+msgid "unable to write super-block"
+msgstr "不能写超级块"
+
+msgid "unexpected end of file on %s"
+msgstr "%s 上的文件结尾异常"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown shell after -s or --shell argument"
+msgstr "-s 或 --shell 参数后是未知的 shell"
+
+msgid "unshare failed"
+msgstr "unshare 失败"
+
+msgid "unsupported filesystem features"
+msgstr "不支持的文件系统特性"
+
+msgid ""
+"usage: %s [-h] [-v] [-b blksize] [-e edition] [-N endian] [-i file] [-n name] dirname outfile\n"
+" -h         print this help\n"
+" -v         be verbose\n"
+" -E         make all warnings errors (non-zero exit status)\n"
+" -b blksize use this blocksize, must equal page size\n"
+" -e edition set edition number (part of fsid)\n"
+" -N endian  set cramfs endianness (big|little|host), default host\n"
+" -i file    insert a file image into the filesystem (requires >= 2.4.0)\n"
+" -n name    set name of cramfs filesystem\n"
+" -p         pad by %d bytes for boot code\n"
+" -s         sort directory entries (old option, ignored)\n"
+" -z         make explicit holes (requires >= 2.3.39)\n"
+" dirname    root of the filesystem to be compressed\n"
+" outfile    output file\n"
+msgstr ""
+"用法：%s [-h] [-v] [-b 块大小] [-e 版本] [-N 大小端] [-i 文件] [-n 名称] 目录名 输出文件\n"
+" -h         打印此帮助\n"
+" -v         详尽模式\n"
+" -E         将所有警告视为错误(退出状态码非 0)\n"
+" -b 块大小  使用此 块大小，必须与页大小相同\n"
+" -e 版本    设置修订版本号(fsid 的一部分)\n"
+" -N 大小端  设置 cramfs 大小端(big|little|host)，默认为 host\n"
+" -i 文件    将文件镜像插入文件系统(要求 >= 2.4.0)\n"
+" -n 名称    设置cramfs 文件系统名称\n"
+" -p         用于启动代码的 %d 字节的 pad 区\n"
+" -s         对目录记录进行排序(旧选项，会被忽略)\n"
+" -z         产生显式空洞 (要求 >= 2.3.39)\n"
+" 目录名     要压缩的文件系统的根目录\n"
+" 输出文件   输出文件\n"
+
+msgid "used arrays = %d\n"
+msgstr "已使用数组 = %d\n"
+
+msgid "used headers = %d\n"
+msgstr "已用消息头(header)数 = %d\n"
+
+msgid "used-bytes"
+msgstr "已用字节数"
+
+msgid "utime failed: %s"
+msgstr "utime 失败：%s"
+
+msgid "value"
+msgstr "值"
+
+msgid "volume name too long"
+msgstr "卷名过长"
+
+msgid "waitpid failed"
+msgstr "waitpid 失败"
+
+msgid "we have read epoch %ld from %s with RTC_EPOCH_READ ioctl.\n"
+msgstr "我们从 %2$s 通过 ioctl 读取到纪元(epoch)值 %1$ld。\n"
+
+msgid "write"
+msgstr "写"
+
+msgid "write failed: %s"
+msgstr "写失败：%s"
+
+msgid "write to stdout failed"
+msgstr "写 stdout 失败"
+
+msgid "yes"
+msgstr "是"
+
+msgid "zcount"
+msgstr "zcount"
+
+msgid "zero file count"
+msgstr "零文件计数"

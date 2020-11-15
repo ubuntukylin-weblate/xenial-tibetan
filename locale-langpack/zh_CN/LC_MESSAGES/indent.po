@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: indent 2.2.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-31 17:27+0100\n"
+"PO-Revision-Date: 2010-03-25 16:03+0000\n"
+"Last-Translator: Heling Yao <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-translation@lists.linux.net.cn>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:35+0000\n"
+"X-Poedit-Basepath: d:\\msys\\source\\indent-2.2.9\n"
+
+msgid "  stack[%d] =>   stack: %d   ind_level: %d\n"
+msgstr "  stack[%d] =>   stack: %d   ind_level: %d\n"
+
+msgid "%s: missing argument to parameter %s\n"
+msgstr "%s：选项%s缺少参数\n"
+
+msgid "%s: option ``%s'' requires a numeric parameter\n"
+msgstr "%s: 选项 \"%s'' 需要一个数值参数\n"
+
+msgid "%s: unknown option \"%s\"\n"
+msgstr "%s: 未知选项 \"%s\"\n"
+
+msgid "(Lines with comments)/(Lines with code): %6.3f\n"
+msgstr "(注释行)/(代码行)：%6.3f\n"
+
+msgid "CANNOT FIND '@' FILE!"
+msgstr "找不到‘@’文件！"
+
+msgid "Can't close output file %s"
+msgstr "无法关闭输出文件 %s"
+
+msgid "Can't open backup file %s"
+msgstr "无法打开备份文件 %s"
+
+msgid "Can't open input file %s"
+msgstr "无法打开输入文件 %s"
+
+msgid "Can't preserve modification time on backup file %s"
+msgstr "无法维持备份文件 %s 原有的最后改动时间"
+
+msgid "Can't preserve modification time on output file %s"
+msgstr "无法维持输出文件 %s 原有的最后改动时间"
+
+msgid "Can't stat input file %s"
+msgstr "无法统计输入文件 %s"
+
+msgid "Can't write to backup file %s"
+msgstr "无法写入备份文件 %s"
+
+msgid "EOF encountered in comment"
+msgstr "注释中出现 EOF"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error reading input file %s"
+msgstr "读取输入文件 %s 时出错"
+
+msgid "File %s is too big to read"
+msgstr "文件 %s 太大，无法读取"
+
+msgid ""
+"File named by environment variable %s does not exist or is not readable"
+msgstr "环境变量%s指向的文件不存在或者不可读"
+
+msgid "GNU indent %s\n"
+msgstr "GNU indent %s\n"
+
+msgid "Internal buffering error"
+msgstr "内部缓充区错误"
+
+msgid "Line broken"
+msgstr "断行"
+
+msgid "Line broken 2"
+msgstr "断行 2"
+
+msgid "ParseStack [%d]:\n"
+msgstr "ParseStack [%d]:\n"
+
+msgid "Profile contains an unterminated comment"
+msgstr "配置文件中包含未结束的注释"
+
+msgid "Profile contains unpalatable characters"
+msgstr "配置文件中包含奇异的字符"
+
+msgid "Read profile %s\n"
+msgstr "读取配置文件 %s\n"
+
+msgid "Stmt nesting error."
+msgstr "嵌套语句错误。"
+
+msgid "System problem reading file %s"
+msgstr "读取文件 %s 时系统出现问题"
+
+msgid "There were %d non-blank output lines and %d comments\n"
+msgstr "有 %d 个非空行和 %d 行注释\n"
+
+msgid "Unexpected end of file"
+msgstr "文件先于预期结束"
+
+msgid "Unknown code to parser"
+msgstr "未知代码无法解析"
+
+msgid "Unmatched 'else'"
+msgstr "未配对的‘else’"
+
+msgid "Unterminated character constant"
+msgstr "未结束的字符常量"
+
+msgid "Unterminated string constant"
+msgstr "未结束的字符串常量"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "command line"
+msgstr "命令行"
+
+msgid "indent:  Strange version-control value\n"
+msgstr "indent：奇异的版本控制值\n"
+
+msgid "indent:  Using numbered-existing\n"
+msgstr "indent：使有现有的版本号\n"
+
+msgid "indent: %s:%d: %s:"
+msgstr "indent: %s:%d: %s:"
+
+msgid "indent: Can't make backup filename of %s\n"
+msgstr "indent：无法生成备份文件名 %s\n"
+
+msgid "indent: Fatal Error: "
+msgstr "indent：致命错误： "
+
+msgid "indent: System Error: "
+msgstr "indent：系统错误： "
+
+msgid "indent: Virtual memory exhausted.\n"
+msgstr "indent：虚拟内存耗尽。\n"
+
+msgid "indent: can't create %s\n"
+msgstr "indent：无法创建 %s\n"
+
+msgid "indent: can't have filenames when specifying standard input\n"
+msgstr "indent：当使用标准输入时不能指定文件名\n"
+
+msgid "indent: only one input file when output file is specified\n"
+msgstr "indent：当指定了输出文件时，只接受一个输入文件\n"
+
+msgid "indent: only one input file when stdout is used\n"
+msgstr "indent：当使用 stdout 时，只接受一个输入文件\n"
+
+msgid "indent: only one output file (2nd was %s)\n"
+msgstr "indent：只有一个输出文件(第二个是 %s)\n"
+
+msgid "old style assignment ambiguity in \"=%c\".  Assuming \"= %c\"\n"
+msgstr "旧式赋值“=%c”有歧义。假定为“= %c”\n"
+
+msgid "option: %s\n"
+msgstr "选项：%s\n"
+
+msgid "set_option: internal error: p_type %d\n"
+msgstr "set_option：内部错误：p_type %d\n"
+
+msgid ""
+"usage: indent file [-o outfile ] [ options ]\n"
+"       indent file1 file2 ... fileN [ options ]\n"
+msgstr ""
+"用法: indent file [-o outfile ] [ options ]\n"
+"      indent file1 file2 ... fileN [ options ]\n"

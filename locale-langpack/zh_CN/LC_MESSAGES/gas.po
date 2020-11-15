@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gas 2.24.90\n"
+"Report-Msgid-Bugs-To: bug-binutils@gnu.org\n"
+"POT-Creation-Date: 2014-11-04 15:27+1030\n"
+"PO-Revision-Date: 2015-11-26 01:20+0000\n"
+"Last-Translator: Mingye Wang <arthur2e5@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:53+0000\n"
+
+msgid "\n"
+msgstr "\n"
+
+msgid "                          emulate output (default %s)\n"
+msgstr "                          模拟输出 (默认为 %s)\n"
+
+msgid "                Record the cpu type\n"
+msgstr "                记录 CPU 类型\n"
+
+msgid ""
+"  --MD FILE               write dependency information in FILE (default "
+"none)\n"
+msgstr "  --MD FILE               将依赖信息输出到文件FILE (默认为空)\n"
+
+msgid "  --defsym SYM=VAL        define symbol SYM to given value\n"
+msgstr "  --defsym SYM=VAL        将给定值赋予符号SYM\n"
+
+msgid "  --execstack             require executable stack for this object\n"
+msgstr "  --execstack 需要可执行堆栈给当前目标\n"
+
+msgid "  --fatal-warnings        treat warnings as errors\n"
+msgstr "  --fatal-warnings 把警告作为错误显示\n"
+
+msgid "  --gdwarf-2              generate DWARF2 debugging information\n"
+msgstr "  --gdwarf-2 产生 DWARF2 调式信息\n"
+
+msgid "  --gstabs                generate STABS debugging information\n"
+msgstr "  --gstabs 生成 STABS 调试信息\n"
+
+msgid ""
+"  --gstabs+               generate STABS debug info with GNU extensions\n"
+msgstr "  --gstabs+               产生带有GNU 扩展的STABS 调试信息\n"
+
+msgid "  --hash-size=<value>     set the hash table size close to <value>\n"
+msgstr "  --hash-size=<value>  设置哈希表的大小接近<value>\n"
+
+msgid "  --help                  show this message and exit\n"
+msgstr "  --help                  打印此帮助并退出\n"
+
+msgid ""
+"  --itbl INSTTBL          extend instruction set to include instructions\n"
+"                          matching the specifications defined in file INSTTBL\n"
+msgstr ""
+"  --itbl INSTTBL          用文件INSTTBL 中所声明的内容\n"
+"                          来扩展指令集\n"
+
+msgid ""
+"  --listing-lhs-width     set the width in words of the output data column of\n"
+"                          the listing\n"
+msgstr ""
+"  --listing-lhs-width     设置输出列表的列宽度，\n"
+"                          以词为单位\n"
+
+msgid ""
+"  --listing-lhs-width2    set the width in words of the continuation lines\n"
+"                          of the output data column; ignored if smaller than\n"
+"                          the width of the first line\n"
+msgstr ""
+"  --listing-lhs-width2    设置输出列表的后续列宽度，\n"
+"                          以词为单位；如果给定宽度小于第一行的\n"
+"                          就忽略这个参数\n"
+
+msgid ""
+"  --noexecstack           don't require executable stack for this object\n"
+msgstr "  --noexecstack 不需要可执行堆栈给当前目标\n"
+
+msgid ""
+"  --reduce-memory-overheads \n"
+"                          prefer smaller memory use at the cost of longer\n"
+"                          assembly times\n"
+msgstr ""
+"  --reduce-memory-overheads \n"
+"                          以更长的汇编执行次数\n"
+"                          来减少内存的使用\n"
+
+msgid "  --target-help           show target specific options\n"
+msgstr "  --target-help           显示目标机器特定的命令行选项\n"
+
+msgid ""
+"  --traditional-format    Use same format as native assembler when "
+"possible\n"
+msgstr "  --traditional-format 尽可能使用于本地汇编程序同一格式\n"
+
+msgid "  --version               print assembler version number and exit\n"
+msgstr "  --version 打印汇编程序版本号并退出\n"
+
+msgid "  --warn                  don't suppress warnings\n"
+msgstr "  --warn                  不隐藏警告信息\n"
+
+msgid "  -D                      produce assembler debugging messages\n"
+msgstr "  -D                      产生汇编调试信息\n"
+
+msgid ""
+"  -I DIR                  add DIR to search list for .include directives\n"
+msgstr "  -I 目录                 将目录添加至类路径\n"
+
+msgid "  -J                      don't warn about signed overflow\n"
+msgstr "  -J 不警告带符号溢出\n"
+
+msgid "  -L,--keep-locals        keep local symbols (e.g. starting with `L')\n"
+msgstr "  -L,--keep-locals        保持本地符号表不变 (比如说那些以`L'开头的)\n"
+
+msgid ""
+"  -Q                      ignored\n"
+"  -V                      print assembler version number\n"
+msgstr ""
+"  -Q                      此项忽略\n"
+"  -V                      打印汇编器版本号\n"
+
+msgid "  -R                      fold data section into text section\n"
+msgstr "  -R 把数据段折叠进文本段\n"
+
+msgid "  -W  --no-warn           suppress warnings\n"
+msgstr "  -W --no-warn 隐藏警告信息\n"
+
+msgid "  -X                      ignored\n"
+msgstr "  -X                      忽略\n"
+
+msgid "  -Z                      generate object file even after errors\n"
+msgstr "  -Z 有错误也生成目标文件\n"
+
+msgid "  -f                      skip whitespace and comment preprocessing\n"
+msgstr "  -f 跳过空白字符和注释\n"
+
+msgid "  -g --gen-debug          generate debugging information\n"
+msgstr "  -g --gen-debug          产生调试信息\n"
+
+msgid "  -march=ms1-16-002         allow ms1-16-002 instructions (default)\n"
+msgstr "  -march=ms1-64-002         允许 ms1-64-002 指令 (默认)\n"
+
+msgid "  -march=ms1-16-003         allow ms1-16-003 instructions\n"
+msgstr "  -march=ms1-64-001         允许 ms1-64-003 指令\n"
+
+msgid "  -march=ms1-64-001         allow ms1-64-001 instructions\n"
+msgstr "  -march=ms1-64-001         允许 ms1-64-001 指令\n"
+
+msgid "  -nocpp                  ignored\n"
+msgstr "  -nocpp 忽略\n"
+
+msgid ""
+"  -o OBJFILE              name the object-file output OBJFILE (default "
+"a.out)\n"
+msgstr "  -o OBJFILE              将目标文件重命名为OBJFILE (默认为a.out)\n"
+
+msgid "  -w                      ignored\n"
+msgstr "  -w                      忽略\n"
+
+msgid "  @FILE                   read options from FILE\n"
+msgstr "  @FILE 从FILE读选项\n"
+
+msgid "!%s does not use a sequence number"
+msgstr "!%s不使用序列号"
+
+msgid "\".else\" without matching \".if\""
+msgstr "\".else\"没有匹配\".if\""
+
+msgid "\".elseif\" after \".else\""
+msgstr "\".elseif\" 在\".else\" 之后"
+
+msgid "\".elseif\" without matching \".if\""
+msgstr "“.elseif”与\".if\"不匹配"
+
+msgid "\".endif\" without \".if\""
+msgstr "\".endif\"是没有\".if\"的"
+
+msgid "%s: data size %ld\n"
+msgstr "%s: 数据大小 %ld\n"
+
+msgid "%s: total time in assembly: %ld.%06ld\n"
+msgstr "%s：在集合中的所有时间：%ld.%06ld\n"
+
+msgid "--hash-size needs a numeric argument"
+msgstr "--hash-size 需要一个数字参数"
+
+msgid ".ifeqs syntax error"
+msgstr ".ifeqs语法错误"
+
+msgid ".loc outside of .text"
+msgstr ".loc在.text之外"
+
+msgid "0x%lx: \"%s\" type = %ld, class = %d, segment = %d\n"
+msgstr "0x%lx:\"%s\" 类型＝%ld，类别＝%d,段＝%d\n"
+
+msgid "<unknown>"
+msgstr "<未知>"
+
+msgid "Attempt to put an undefined symbol into set %s"
+msgstr "尝试将未定义符号插入集合 %s"
+
+msgid "Bad register name"
+msgstr "错误的寄存器名"
+
+msgid "Bad sequence number: !%s!%s"
+msgstr "坏序列号:!%s!%s"
+
+msgid "Can't set GP value"
+msgstr "不能设置GP值"
+
+msgid "Can't set register masks"
+msgstr "不能设置暂存器掩码"
+
+msgid "Error: "
+msgstr "错误： "
+
+msgid "Fatal error: "
+msgstr "致命错误： "
+
+msgid "GNU assembler %s\n"
+msgstr "GNU 汇编器 %s\n"
+
+msgid "GNU assembler version %s (%s) using BFD version %s\n"
+msgstr "GNU汇编版本 %s (%s) 使用BFD版本 %s\n"
+
+msgid "Ignoring changed section attributes for %s"
+msgstr "忽略对'%s'扇区属性的修改"
+
+msgid "Inserting \"%s\" into structure table failed: %s"
+msgstr "插入\"%s\"进入结构表失败： %s"
+
+msgid "Internal error!\n"
+msgstr "内部错误！\n"
+
+msgid "Line numbers must be positive integers\n"
+msgstr "行号必须是正整数\n"
+
+msgid ""
+"Options:\n"
+"  -a[sub-option...]\t  turn on listings\n"
+"                      \t  Sub-options [default hls]:\n"
+"                      \t  c      omit false conditionals\n"
+"                      \t  d      omit debugging directives\n"
+"                      \t  g      include general info\n"
+"                      \t  h      include high-level source\n"
+"                      \t  l      include assembly\n"
+"                      \t  m      include macro expansions\n"
+"                      \t  n      omit forms processing\n"
+"                      \t  s      include symbols\n"
+"                      \t  =FILE  list to FILE (must be last sub-option)\n"
+msgstr ""
+"选项：\n"
+"  -a[sub-option...]\t  以列表输出\n"
+"                      \t  子选项 [默认为 hls]:\n"
+"                      \t  c      忽略假汇编情况\n"
+"                      \t  d      忽略调试指令\n"
+"                      \t  g      包含整体信息\n"
+"                      \t  h      包含高级源代码\n"
+"                      \t  l      包含汇编\n"
+"                      \t  m      包含宏扩展\n"
+"                      \t  n      关闭格式处理\n"
+"                      \t  s      包含符号表\n"
+"                      \t  =FILE  列表输出到文件FILE (必须是最后一个子选项)\n"
+
+msgid "Please report this bug.\n"
+msgstr "请报告该 BUG。\n"
+
+msgid "Report bugs to %s\n"
+msgstr "将错误报告到 %s\n"
+
+msgid "This assembler was configured for a target of `%s'.\n"
+msgstr "为目标\"%s\"配置汇编程序。\n"
+
+msgid ""
+"This program is free software; you may redistribute it under the terms of\n"
+"the GNU General Public License version 3 or later.\n"
+"This program has absolutely no warranty.\n"
+msgstr ""
+"本软件是自由软件；您可以使用 GNU General Public License 版本 3 或更新版本重新发放。\n"
+"本软件完全不带有任何保证。\n"
+
+msgid "Unrecognized or unsupported floating point constant"
+msgstr "无法识别或不支持的浮点数常量"
+
+msgid "Usage: %s [option...] [asmfile...]\n"
+msgstr "用法：%s [option...] [asmfile...]\n"
+
+msgid "Warning: "
+msgstr "警告： "
+
+msgid "a reloc on this operand implies an overflow"
+msgstr "一个在此操作数上的重定位产生了一个溢出"
+
+msgid "alias = %s\n"
+msgstr "alias = %s\n"
+
+msgid "bad .common segment %s"
+msgstr "坏的.conmon段%s"
+
+msgid "bad defsym; format is --defsym name=value"
+msgstr "错误的defsym；格式为--defsym name=value"
+
+msgid "bad format for ifc or ifnc"
+msgstr "对于ifc 或ifnc 的错误格式"
+
+msgid "bad string constant"
+msgstr "错误的字符串常量"
+
+msgid "bfd-target = %s\n"
+msgstr "bfd-target = %s\n"
+
+msgid "can't create group: %s"
+msgstr "不能创建组:%s"
+
+msgid "cannot create floating-point number"
+msgstr "不能产生浮点数"
+
+msgid "canonical = %s\n"
+msgstr "canonical = %s\n"
+
+msgid "cpu-type = %s\n"
+msgstr "cpu类型= %s\n"
+
+msgid "division by zero"
+msgstr "被零除"
+
+msgid "emulations not handled in this configuration"
+msgstr "模拟机不在此配置下处理"
+
+msgid "end of file after a one-character quote; \\0 inserted"
+msgstr "文件结束在一个引号字符之后；\\0 替换"
+
+msgid "end of file in comment"
+msgstr "到达注释尾部"
+
+msgid "end of file in comment; newline inserted"
+msgstr "到达注释尾部；插入新行"
+
+msgid "end of file in escape character"
+msgstr "文件以转义符结束"
+
+msgid "end of file in multiline comment"
+msgstr "文件结束于多行注释"
+
+msgid "end of file in string; '%c' inserted"
+msgstr "到达字符串尾部；'%c'被插入"
+
+msgid "end of file not at end of a line; newline inserted"
+msgstr "文件结束，非行尾；插入新行"
+
+msgid "expected expression"
+msgstr "需要表达式"
+
+msgid "expression too complex"
+msgstr "表达式太复杂"
+
+msgid "failed to read instruction table %s\n"
+msgstr "读取说明目录失败 %s\n"
+
+msgid "failed to set up debugging information: %s"
+msgstr "生成调试信息失败:%s"
+
+msgid "format = %s\n"
+msgstr "format = %s\n"
+
+msgid "here is the start of the unterminated conditional"
+msgstr "这里是未结束的条件表达式的开始"
+
+msgid "illegal operand"
+msgstr "非法操作数"
+
+msgid "immediate out of range"
+msgstr "立即数越界"
+
+msgid "immediate value"
+msgstr "立即数"
+
+msgid "immediate value is out of range"
+msgstr "立即数越界"
+
+msgid "immediate value out of range"
+msgstr "立即数越界"
+
+msgid "invalid address"
+msgstr "无效地址"
+
+msgid "invalid addressing mode"
+msgstr "无效寻址模式"
+
+msgid "invalid identifier for \".ifdef\""
+msgstr "\".ifdef\"为非法标识符"
+
+msgid "invalid listing option `%c'"
+msgstr "无效列举选项'%c'"
+
+msgid "invalid mode"
+msgstr "无效的权限模式"
+
+msgid "invalid number"
+msgstr "无效编号"
+
+msgid "invalid register name"
+msgstr "无效寄存器名"
+
+msgid "invalid shift operator"
+msgstr "无效的移位操作符"
+
+msgid "mismatched .eb"
+msgstr "不匹配.ed"
+
+msgid "missing ']'"
+msgstr "缺少 ']'"
+
+msgid "missing .func"
+msgstr "缺少 .func"
+
+msgid "missing `)'"
+msgstr "缺少‘)’"
+
+msgid "missing `]'"
+msgstr "缺少 `]'"
+
+msgid "missing close quote; (assumed)"
+msgstr "缺少结尾的引号；(假定)"
+
+msgid "missing emulation mode name"
+msgstr "缺少仿真模式名"
+
+msgid "missing name"
+msgstr "缺少名字"
+
+msgid "missing operand"
+msgstr "缺少操作数"
+
+msgid "multiple emulation names specified"
+msgstr "多个模拟名字被给定"
+
+msgid "no file name following -t option"
+msgstr "-t 选项后没有文件名"
+
+msgid "non-constant expression in \".elseif\" statement"
+msgstr "在\".elseif\"表达式中的非常量表达式"
+
+msgid "non-constant expression in \".if\" statement"
+msgstr "在\".if\" 表达式中的非常量表达式"
+
+msgid "offset not a multiple of 4"
+msgstr "偏移量不是 4 的倍数"
+
+msgid "operand mask overflow"
+msgstr "操作数掩码溢出"
+
+msgid "relocation is not supported"
+msgstr "不支持重新配置"
+
+msgid "shift operator expected"
+msgstr "预期的移位操作符"
+
+msgid "syntax error"
+msgstr "语法错误"
+
+msgid "too many arguments"
+msgstr "实参太多"
+
+msgid "too many fixups"
+msgstr "过多固定值"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown constraint `%c'"
+msgstr "未知的约束‘%c’"
+
+msgid "unknown escape '\\%c' in string; ignored"
+msgstr "字符串中发现未知转义符'\\%c'；忽略"
+
+msgid "unknown section attribute '%c'"
+msgstr "未知扇区属性'%c'"
+
+msgid "unrecognized emulation name `%s'"
+msgstr "未识别的枚举值‘%s’"
+
+msgid "unrecognized option -%c%s"
+msgstr "无效选项 -%c%s"
+
+msgid "unrecognized section attribute"
+msgstr "未知扇区属性"
+
+msgid "unrecognized section type"
+msgstr "未知段类型"
+
+msgid "unrecognized symbol type \"%s\""
+msgstr "未知符号类型\"%s\""
+
+msgid "unresolved expression that must be resolved"
+msgstr "未定义表达式必须先被定义"
+
+msgid "unsupported section attribute '%c'"
+msgstr "不被支持的扇区属性'%c'"

@@ -1,0 +1,789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webkit HEAD\n"
+"Report-Msgid-Bugs-To: http://bugs.webkit.org/\n"
+"POT-Creation-Date: 2013-03-15 17:34-0300\n"
+"PO-Revision-Date: 2010-07-17 14:37+0800\n"
+"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " files"
+msgstr "文件"
+
+msgid "(None)"
+msgstr "(无)"
+
+msgid "A bitmask representing the state of the modifier keys"
+msgstr "一个代表当前修饰键状态的位掩码"
+
+msgid "Alternate Title"
+msgstr "可选标题"
+
+msgid "An associated WebKitWebSettings instance"
+msgstr "一个关联的 WebKitWebSettings 样例"
+
+msgid "Auto Load Images"
+msgstr "自动载入图像"
+
+msgid "Auto Resize Window"
+msgstr "自动调整窗口大小"
+
+msgid "Auto Shrink Images"
+msgstr "自动缩小图像"
+
+msgid "Automatically resize the toplevel window when a page requests it"
+msgstr "当页面发出请求时自动调整顶层窗口大小"
+
+msgid "Automatically shrink standalone images to fit."
+msgstr "自动缩小单个图像以适应需求。"
+
+msgid "Button"
+msgstr "按钮"
+
+msgid "Check Spelling While _Typing"
+msgstr "输入时检查拼写(_T)"
+
+msgid "Check _Grammar With Spelling"
+msgstr "检查拼写时检查语法(_G)"
+
+msgid "Choose File"
+msgstr "选择文件"
+
+msgid "Comma separated list of languages to use for spell checking"
+msgstr "要拼写检查的语言，以半角逗号分隔"
+
+msgid "Cop_y Image"
+msgstr "复制图像(_Y)"
+
+msgid "Copy Link Loc_ation"
+msgstr "复制链接地址(_A)"
+
+msgid "Copy target list"
+msgstr "复制目标列表"
+
+msgid "Current Size"
+msgstr "当前尺寸"
+
+msgid "Cursive Font Family"
+msgstr "草书字体"
+
+msgid "Custom Encoding"
+msgstr "自定义编码"
+
+msgid "Default Encoding"
+msgstr "默认编码"
+
+msgid "Default Font Family"
+msgstr "默认字体"
+
+msgid "Default Font Size"
+msgstr "默认字号"
+
+msgid "Default Monospace Font Size"
+msgstr "默认等宽字号"
+
+msgid "Destination URI"
+msgstr "目的 URI"
+
+msgid ""
+"Determines the current policy for the horizontal scrollbar of the frame."
+msgstr "确定框架的水平滚动条规则"
+
+msgid "Determines the current policy for the vertical scrollbar of the frame."
+msgstr "确定框架的竖直滚动条规则"
+
+msgid "Determines the current progress of the download"
+msgstr "显示当前下载进度"
+
+msgid "Determines the current status of the download"
+msgstr "显示当前下载状态"
+
+msgid "Editable"
+msgstr "可编辑"
+
+msgid "Editing behavior"
+msgstr "编辑行为"
+
+msgid "Enable Caret Browsing"
+msgstr "启用光标导航"
+
+msgid "Enable DOM paste"
+msgstr "启用 DOM 粘贴"
+
+msgid "Enable Default Context Menu"
+msgstr "启用默认环境菜单"
+
+msgid "Enable Developer Extras"
+msgstr "启用开发者附加"
+
+msgid "Enable HTML5 Database"
+msgstr "启用 HTML5 数据库"
+
+msgid "Enable HTML5 Local Storage"
+msgstr "启用 HTML5 本地存储"
+
+msgid "Enable Java Applet"
+msgstr "启用 Java 小程序"
+
+msgid "Enable JavaScript profiling"
+msgstr "启用 JavaScript 摘要"
+
+msgid "Enable Plugins"
+msgstr "启用插件"
+
+msgid "Enable Private Browsing"
+msgstr "启用隐私浏览"
+
+msgid "Enable Scripts"
+msgstr "启用脚本"
+
+msgid "Enable Site Specific Quirks"
+msgstr "启用特定站点设置"
+
+msgid "Enable Spell Checking"
+msgstr "启用拼写检查"
+
+msgid "Enable Timeline profiling"
+msgstr "启用时间轴分析"
+
+msgid "Enable XSS Auditor"
+msgstr "启用 XSS 审计"
+
+msgid "Enable embedded plugin objects."
+msgstr "启用嵌入式插件对象。"
+
+msgid "Enable embedded scripting languages."
+msgstr "启用嵌入式脚步语言"
+
+msgid "Enable offline web application cache"
+msgstr "启用离线 Web 应用程序缓存"
+
+msgid "Enable page cache"
+msgstr "启用页面缓存"
+
+msgid "Enable universal access from file URIs"
+msgstr "启用从文件 URI 的通用访问"
+
+msgid "Enables private browsing mode"
+msgstr "启用隐私浏览模式"
+
+msgid "Enables special extensions that help developers"
+msgstr "启用帮助开发者的特殊扩展"
+
+msgid "Enables spell checking while typing"
+msgstr "输入时检查拼写"
+
+msgid ""
+"Enables the handling of right-clicks for the creation of the default context"
+" menu"
+msgstr "启用右键创建环境菜单的处理"
+
+msgid "Enables the site-specific compatibility workarounds"
+msgstr "启用针对特定站点的兼容性临时解决办法"
+
+msgid "Encoding"
+msgstr "编码"
+
+msgid "Enforce 96 DPI"
+msgstr "强制为 96 DPI"
+
+msgid "Enforce a resolution of 96 DPI"
+msgstr "强制 96 DPI 分辨率"
+
+msgid "Fantasy Font Family"
+msgstr "幻想字体"
+
+msgid "Full content zoom"
+msgstr "完整内容缩放"
+
+msgid "Horizontal Scrollbar Policy"
+msgstr "水平滚动条规则"
+
+msgid "Icon URI"
+msgstr "图标 URI"
+
+msgid "Ignore _Grammar"
+msgstr "忽略语法(_G)"
+
+msgid "Input _Methods"
+msgstr "输入方式(_M)"
+
+msgid "Inspect _Element"
+msgstr "检查元素(_E)"
+
+msgid "Inspected URI"
+msgstr "已检查的 URI"
+
+msgid "JavaScript can open windows automatically"
+msgstr "JavaScript 可以自动打开窗口"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE 左至右嵌入(_E)"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM 左至右标记"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO 左至右覆盖(_O)"
+
+msgid "Languages to use for spell checking"
+msgstr "拼写检查的语言"
+
+msgid "Last visited Time"
+msgstr "最近访问时间"
+
+msgid "Live Broadcast"
+msgstr "直播"
+
+msgid "Load images automatically."
+msgstr "自动载入图像。"
+
+msgid "Loading..."
+msgstr "正在载入..."
+
+msgid "Minimum Font Size"
+msgstr "最小字号"
+
+msgid "Minimum Logical Font Size"
+msgstr "最小逻辑字号"
+
+msgid "Modifier state"
+msgstr "修饰键信息"
+
+msgid "Monospace Font Family"
+msgstr "等宽字体"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Network Request"
+msgstr "网络请求"
+
+msgid "Network Response"
+msgstr "网络响应"
+
+msgid "No Guesses Found"
+msgstr "没有找到拼写建议"
+
+msgid "No recent searches"
+msgstr "无最近搜索"
+
+msgid "Open Link in New _Window"
+msgstr "在新窗口打开链接(_W)"
+
+msgid "Open _Frame in New Window"
+msgstr "在新窗口打开框架(_F)"
+
+msgid "Open _Image in New Window"
+msgstr "在新窗口打开图像(_I)"
+
+msgid "Original URI"
+msgstr "原始 URI"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF 顶部方向格式(_P)"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Paste target list"
+msgstr "粘贴目标列表"
+
+msgid "Play movie in fullscreen mode"
+msgstr "以全屏模式播放影片"
+
+msgid "Print Backgrounds"
+msgstr "打印背景"
+
+msgid "Profile the WebCore instrumentation."
+msgstr "分析 WebCore 构件"
+
+msgid "Profile the executed JavaScript."
+msgstr "记录已执行的 JavaScript 的摘要信息。"
+
+msgid "Progress"
+msgstr "进度"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE 右至左嵌入(_M)"
+
+msgid "RLM _Right-to-left mark"
+msgstr "RLM 右至左标记"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO 右至左覆盖(_V)"
+
+msgid "Reason"
+msgstr "原因"
+
+msgid "Recent searches"
+msgstr "最近搜索"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Resizable Text Areas"
+msgstr "大小可变文本域"
+
+msgid "Returns the @web_view's document title"
+msgstr "返回 @web_view 的文档标题"
+
+msgid "Returns the current URI of the contents displayed by the @web_view"
+msgstr "返回当前由 @web_view 显示的内容的 URI"
+
+msgid "Sa_ve Image As"
+msgstr "保存图像(_V)"
+
+msgid "Sans Serif Font Family"
+msgstr "Sans Serif 字体"
+
+msgid "Serif Font Family"
+msgstr "Serif 字体"
+
+msgid "Server message:"
+msgstr "服务器消息："
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Spelling and _Grammar"
+msgstr "拼写和语法(_G)"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Suggested Filename"
+msgstr "建议文件名"
+
+msgid "Tab key cycles through elements"
+msgstr "元素间 Tab 键循环"
+
+msgid "Target frame"
+msgstr "目标框架"
+
+msgid "The URI for the favicon for the #WebKitWebView."
+msgstr "#WebKitWebView 的 favicon URI。"
+
+msgid "The URI of a stylesheet that is applied to every page."
+msgstr "应用于每个页面的样式表的 URI。"
+
+msgid "The URI of the history item"
+msgstr "历史条目的 URI"
+
+msgid "The URI that is currently being inspected"
+msgstr "当前已经被检查的 URI"
+
+msgid "The URI that was requested as the target for the navigation"
+msgstr "此 URI 是被作为导航目标而请求的"
+
+msgid "The User-Agent string used by WebKitGtk"
+msgstr "WebKitGTK 使用的 User-Agent 串"
+
+msgid "The Web View that renders the Web Inspector itself"
+msgstr "Web View 渲染 Web Inspector 本身"
+
+msgid "The alternate title of the history item"
+msgstr "历史条目的可选标题"
+
+msgid "The associated WebKitWebInspector instance"
+msgstr "一个关联的 WebKitWebInspector 样例"
+
+msgid "The behavior mode to use in editing mode"
+msgstr "在编辑模式中使用的行为模式"
+
+msgid "The button used to click"
+msgstr "用以点击的按钮"
+
+msgid "The current URI of the contents displayed by the frame"
+msgstr "框架中当前显示内容的 URI"
+
+msgid "The custom encoding of the web view"
+msgstr "Web View的自定义编码"
+
+msgid "The default Cursive font family used to display text."
+msgstr "用以显示文本的默认草书字体。"
+
+msgid "The default Fantasy font family used to display text."
+msgstr "用以显示文本的默认幻想字体。"
+
+msgid "The default Sans Serif font family used to display text."
+msgstr "用以显示文本的默认 Sans Serif 字体"
+
+msgid "The default Serif font family used to display text."
+msgstr "用以显示文本的默认 Serif 字体。"
+
+msgid "The default encoding of the web view"
+msgstr "Web View 的默认编码"
+
+msgid "The default encoding used to display text."
+msgstr "用以显示文本的默认编码。"
+
+msgid "The default font family used to display monospace text."
+msgstr "用以显示文本的默认等宽字体。"
+
+msgid "The default font family used to display text."
+msgstr "用以显示文本的默认字体。"
+
+msgid "The default font size used to display monospace text."
+msgstr "用以显示等宽文本的默认字号。"
+
+msgid "The default font size used to display text."
+msgstr "用以显示文本的默认字号。"
+
+msgid "The destination URI where to save the file"
+msgstr "保存文件的目的 URI"
+
+msgid "The document title of the frame"
+msgstr "标题名称"
+
+msgid "The filename suggested as default when saving"
+msgstr "保存时默认建议使用的文件名"
+
+msgid "The length of the data already downloaded"
+msgstr "当前已下载的数据大小"
+
+msgid "The level of zoom of the content"
+msgstr "内容缩放级别"
+
+msgid "The list of targets this web view supports for clipboard copying"
+msgstr "目标 Web View 列表支持剪贴簿复制"
+
+msgid "The list of targets this web view supports for clipboard pasting"
+msgstr "目标 Web View 列表支持剪贴簿粘贴"
+
+msgid "The minimum font size used to display text."
+msgstr "用以显示文本的最小字号。"
+
+msgid "The minimum logical font size used to display text."
+msgstr "用以显示文本的最小逻辑字号。"
+
+msgid "The name of the frame"
+msgstr "框架名称"
+
+msgid "The network request for the URI that should be downloaded"
+msgstr "应被下载的该 URI 的网络请求"
+
+msgid "The network response for the URI that should be downloaded"
+msgstr "应被下载的该 URI 的网络响应"
+
+msgid "The original URI of the history item"
+msgstr "历史条目的原始 URI"
+
+msgid "The reason why this navigation is occurring"
+msgstr "导航产生的原因"
+
+msgid "The target frame for the navigation"
+msgstr "导航的目标框架"
+
+msgid "The time at which the history item was last visited"
+msgstr "最近访问历史条目的时间"
+
+msgid "The title of the history item"
+msgstr "历史条目的标题"
+
+msgid "The total size of the file"
+msgstr "文件总尺寸"
+
+msgid "The value by which the zoom level is changed when zooming in or out."
+msgstr "在放大或缩小中每次缩放的步值。"
+
+msgid "This is a searchable index. Enter search keywords: "
+msgstr "这是一个可搜索的索引。请输入搜索关键字："
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Total Size"
+msgstr "总尺寸"
+
+msgid "Transparent"
+msgstr "透明"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "User Agent"
+msgstr "User Agent"
+
+msgid "User Stylesheet URI"
+msgstr "用户样式表 URI"
+
+msgid "User cancelled the download"
+msgstr "用户取消了下载"
+
+msgid "Username:"
+msgstr "用户名："
+
+msgid "Vertical Scrollbar Policy"
+msgstr "竖直滚动条规则"
+
+msgid "Web Inspector"
+msgstr "Web Inspector"
+
+msgid "Web View"
+msgstr "Web View"
+
+msgid "Whether Java Applet support through <applet> should be enabled"
+msgstr "是否通过 <applet> 标签运行 Java 小程序"
+
+msgid "Whether JavaScript can open windows automatically"
+msgstr "是否允许 JavaScript 自动打开窗口"
+
+msgid "Whether background images should be printed."
+msgstr "是否打印背景。"
+
+msgid "Whether content can be modified by the user"
+msgstr "用户是否可编辑内容"
+
+msgid "Whether content has a transparent background"
+msgstr "内容是否包含透明背景"
+
+msgid "Whether text areas are resizable."
+msgstr "文本域大小是否是否可变。"
+
+msgid "Whether the full content is scaled when zooming"
+msgstr "是否将所有内容完整缩放"
+
+msgid "Whether the page cache should be used"
+msgstr "是否使用页面缓存"
+
+msgid "Whether the tab key cycles through elements on the page."
+msgstr "是否允许元素间 Tab 键循环。"
+
+msgid "Whether to allow universal access from file URIs"
+msgstr "是否允许从文件 URI 的通用访问"
+
+msgid "Whether to enable DOM paste"
+msgstr "是否启用 DOM 粘贴"
+
+msgid "Whether to enable HTML5 Local Storage support"
+msgstr "是否启用 HTML5 本地存储支持"
+
+msgid "Whether to enable HTML5 database support"
+msgstr "是否启用 HTML5 数据库支持"
+
+msgid "Whether to enable accessibility enhanced keyboard navigation"
+msgstr "是否启用辅助功能增强型键盘导航"
+
+msgid "Whether to enable offline web application cache"
+msgstr "是否启用离线 Web 应用程序缓存"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ 零宽度连接符(_J)"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ 零宽度非连接符(_N)"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS 零宽度空格(_Z)"
+
+msgid "Zoom Stepping Value"
+msgstr "缩放步值"
+
+msgid "Zoom level"
+msgstr "缩放级别"
+
+msgid "_Check Document Now"
+msgstr "立即检查文档(_C)"
+
+msgid "_Clear recent searches"
+msgstr "清除最近搜索记录(_C)"
+
+msgid "_Download Linked File"
+msgstr "下载目标文件(_D)"
+
+msgid "_Font"
+msgstr "字体(_F)"
+
+msgid "_Hide Spelling and Grammar"
+msgstr "隐藏拼写和语法(_H)"
+
+msgid "_Ignore Spelling"
+msgstr "忽略拼写(_I)"
+
+msgid "_Insert Unicode Control Character"
+msgstr "插入 Unicode 控制字符(_I)"
+
+msgid "_Learn Spelling"
+msgstr "记录特例(_L)"
+
+msgid "_Look Up in Dictionary"
+msgstr "查询词典(_L)"
+
+msgid "_Open Link"
+msgstr "打开链接(_O)"
+
+msgid "_Outline"
+msgstr "概要(_O)"
+
+msgid "_Reload"
+msgstr "重载(_R)"
+
+msgid "_Remember password"
+msgstr "记住密码(_R)"
+
+msgid "_Search the Web"
+msgstr "搜索互联网(_S)"
+
+msgid "_Show Spelling and Grammar"
+msgstr "显示拼写和语法(_S)"
+
+msgid "activate"
+msgstr "激活"
+
+msgid "audio element controller"
+msgstr "音频元素控制"
+
+msgid "audio element playback controls and status display"
+msgstr "音频元素回放控制和状态显示"
+
+msgid "back 30 seconds"
+msgstr "后退 30 秒"
+
+msgid "begin playback"
+msgstr "开始回放"
+
+msgid "check"
+msgstr "勾选"
+
+msgid "current movie status"
+msgstr "当前影片状态"
+
+msgid "current movie time in seconds"
+msgstr "以秒显示当前影片时间"
+
+msgid "definition"
+msgstr "定义"
+
+msgid "elapsed time"
+msgstr "播放时间"
+
+msgid "fast forward"
+msgstr "快进"
+
+msgid "fast reverse"
+msgstr "快退"
+
+msgid "hide closed captions"
+msgstr "隐藏常闭式字幕"
+
+msgid "indefinite time"
+msgstr "模糊时间"
+
+msgid "jump"
+msgstr "跳转"
+
+msgid "movie time"
+msgstr "影片时长"
+
+msgid "movie time scrubber"
+msgstr "影片时间刷"
+
+msgid "movie time scrubber thumb"
+msgstr "影片时间刷缩略图"
+
+msgid "mute"
+msgstr "静音"
+
+msgid "mute audio tracks"
+msgstr "静音音轨"
+
+msgid "number of seconds of movie remaining"
+msgstr "影片剩余秒数"
+
+msgid "pattern mismatch"
+msgstr "样式不匹配"
+
+msgid "pause"
+msgstr "暂停"
+
+msgid "pause playback"
+msgstr "暂停回放"
+
+msgid "play"
+msgstr "播放"
+
+msgid "press"
+msgstr "按"
+
+msgid "range overflow"
+msgstr "范围上溢"
+
+msgid "range underflow"
+msgstr "范围下溢"
+
+msgid "remaining time"
+msgstr "剩余时间"
+
+msgid "return streaming movie to real time"
+msgstr "将流影片返回实时状态"
+
+msgid "return to realtime"
+msgstr "返回实时状态"
+
+msgid "seek movie back 30 seconds"
+msgstr "向前 30 秒查找影片"
+
+msgid "seek quickly back"
+msgstr "快退查找"
+
+msgid "seek quickly forward"
+msgstr "快进查找"
+
+msgid "select"
+msgstr "选择"
+
+msgid "show closed captions"
+msgstr "显示常闭式字幕"
+
+msgid "start displaying closed captions"
+msgstr "开始显示常闭式字幕"
+
+msgid "status"
+msgstr "状态"
+
+msgid "step mismatch"
+msgstr "步骤不匹配"
+
+msgid "stop displaying closed captions"
+msgstr "停止显示常闭式字幕"
+
+msgid "term"
+msgstr "术语"
+
+msgid "timeline slider thumb"
+msgstr "时间轴滑动预览"
+
+msgid "too long"
+msgstr "太长"
+
+msgid "type mismatch"
+msgstr "类型不匹配"
+
+msgid "uncheck"
+msgstr "反选"
+
+msgid "unmute"
+msgstr "解除静音"
+
+msgid "unmute audio tracks"
+msgstr "解除音轨静音"
+
+msgid "value missing"
+msgstr "缺少值"
+
+msgid "video element controller"
+msgstr "视频元素控制"
+
+msgid "video element playback controls and status display"
+msgstr "视频元素回访控制和状态显示"

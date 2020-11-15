@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usb-creator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-22 19:49+0000\n"
+"PO-Revision-Date: 2016-03-25 06:38+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:29+0000\n"
+
+msgid "%d%% complete"
+msgstr "完成 %d%%"
+
+msgid "All existing data will be lost."
+msgstr "原来的全部数据将会丢失。"
+
+msgid ""
+"An uncaught exception was raised:\n"
+"%s"
+msgstr ""
+"出现了未捕获的异常：\n"
+"%s"
+
+msgid "Are you sure you want to write the disc image to the device?"
+msgstr "确定要把镜像文件写入设备吗？"
+
+msgid "CD Images"
+msgstr "CD 镜像"
+
+msgid "CD-Drive/Image"
+msgstr "CD 驱动器/镜像"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid ""
+"Could not write the disk image (%(source)s) to the device (%(device)s)."
+msgstr "无法把磁盘镜像 (%(source)s) 写入设备 (%(device)s)."
+
+msgid "Create a startup disk using a CD or disc image"
+msgstr "使用光盘或镜像来创建一个启动盘"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Disk Images"
+msgstr "磁盘镜像"
+
+msgid "Disk to use:"
+msgstr "要使用的磁盘："
+
+msgid "Do you really want to quit the installation now?"
+msgstr "您确定现在要退出安装吗？"
+
+msgid "Erase Disk"
+msgstr "格式化磁盘"
+
+msgid "Finishing..."
+msgstr "即将完成..."
+
+msgid "Image the device"
+msgstr "生成设备镜像"
+
+msgid "Installation Complete"
+msgstr "安装完毕"
+
+msgid "Installation Failed"
+msgstr "安装失败"
+
+msgid "Installation failed."
+msgstr "安装失败。"
+
+msgid ""
+"Installation is complete.  You may now run Ubuntu on other computers by "
+"booting them with this drive inserted."
+msgstr "安装完成。您现在就可以将此驱动器插到别的计算机上启动 Ubuntu 了。"
+
+msgid "Installing"
+msgstr "正在安装"
+
+msgid "Label"
+msgstr "卷标"
+
+msgid "Make Startup Disk"
+msgstr "制作启动盘"
+
+msgid "Mount a device"
+msgstr "挂载设备"
+
+msgid "OS Version"
+msgstr "操作系统版本"
+
+msgid "Other..."
+msgstr "其它..."
+
+msgid "Quit the installation?"
+msgstr "退出安装？"
+
+msgid "Retry?"
+msgstr "重试？"
+
+msgid "Run KVM"
+msgstr "运行 KVM"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Source disc image (.iso):"
+msgstr "源盘镜像(.iso):"
+
+msgid "Starting up"
+msgstr "正在启动"
+
+msgid "Starting up..."
+msgstr "正在启动..."
+
+msgid "Startup Disk Creator"
+msgstr "启动盘创建器"
+
+msgid "System policy prevents mounting"
+msgstr "系统策略阻止挂载"
+
+msgid "System policy prevents running KVM"
+msgstr "当前系统策略阻止 KVM 的运行"
+
+msgid "System policy prevents writing a disk image to this device"
+msgstr "系统策略阻止向此设备写入磁盘映像"
+
+msgid "Test Disk"
+msgstr "测试磁盘"
+
+msgid "The device is not large enough to hold this image."
+msgstr "设备空间不够容纳此镜像。"
+
+msgid "The extension \"%s\" is not supported."
+msgstr "不支持扩展名“%s”。"
+
+msgid ""
+"The installation failed.  Please see ~/.cache/usb-creator.log for more "
+"details.\n"
+msgstr "安装失败。请查看 ~/.cache/usb-creator.log 获取更多信息。\n"
+
+msgid ""
+"The installation is complete.  You may now reboot your computer with this "
+"device inserted to try or install Ubuntu."
+msgstr "安装完成。现在您可以重新启动计算机并插入此设备试用或安装 Ubuntu。"
+
+msgid ""
+"To try or install Ubuntu from a removable disk, it needs to be set up as a "
+"startup disk."
+msgstr "将从移动盘安装 Ubuntu，需先使其设为启动盘"
+
+msgid "Writing disk image..."
+msgstr "正在写入磁盘映像..."
+
+msgid "You must select both source image and target device first."
+msgstr "您必须首先选择源镜像和目标设备。"
+
+msgid "allow writing to system-internal devices"
+msgstr "允许写入系统内部设备"
+
+msgid "provide a source image to pre-populate the UI."
+msgstr "提供一个源镜像，直接填充到界面中。"

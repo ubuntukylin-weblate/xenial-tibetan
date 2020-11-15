@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eject\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-20 00:35+0100\n"
+"PO-Revision-Date: 2009-03-26 13:33+0000\n"
+"Last-Translator: Feng Chao <chaofeng111@gmail.com>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:02+0000\n"
+
+msgid "%s: %s doesn't exist, skipping call\n"
+msgstr "%s: %s 不存在，跳过调用\n"
+
+msgid "%s: %s is encrypted on real device %s\n"
+msgstr "%s： %s 被加密在真实的设备 %s\n"
+
+msgid "%s: CD-ROM auto-eject command failed: %s\n"
+msgstr "%s：光驱自动弹出命令失败：%s\n"
+
+msgid "%s: CD-ROM eject command failed\n"
+msgstr "%s: 光驱弹出命令失败\n"
+
+msgid "%s: CD-ROM eject command succeeded\n"
+msgstr "%s: 光驱弹出命令成功执行\n"
+
+msgid "%s: CD-ROM load from slot command failed: %s\n"
+msgstr "%s：从插槽载入光驱命令失败：%s\n"
+
+msgid "%s: CD-ROM select disc command failed: %s\n"
+msgstr "%s：光驱选择光盘命令失败：%s\n"
+
+msgid "%s: CD-ROM select speed command failed: %s\n"
+msgstr "%s:光驱速度选择命令失败:%s\n"
+
+msgid "%s: CD-ROM select speed command not supported by this kernel\n"
+msgstr "%s:光驱速度选择命令不被本版本内核支持\n"
+
+msgid "%s: CD-ROM tray close command failed: %s\n"
+msgstr "%s:光驱托盘关闭命令失败:%s\n"
+
+msgid "%s: CD-ROM tray close command not supported by this kernel\n"
+msgstr "%s:光驱托盘关闭命令不被本版本内核支持\n"
+
+msgid "%s: CD-ROM tray toggle command not supported by this kernel\n"
+msgstr "%s: 此内核不支持CD-ROM托盘切换命令\n"
+
+msgid "%s: FindDevice called too often\n"
+msgstr "%s：FindDivice调用过于频繁\n"
+
+msgid "%s: IDE/ATAPI CD-ROM changer not supported by this kernel\n"
+msgstr "%s:IDE/ATAPI光驱不被本版本内核支持\n"
+
+msgid "%s: SCSI eject failed\n"
+msgstr "%s: SCSI弹出失败\n"
+
+msgid "%s: SCSI eject succeeded\n"
+msgstr "%s: SCSI弹出成功\n"
+
+msgid "%s: `%s' can be mounted at `%s'\n"
+msgstr "%s: `%s'可以被装载到'%s'\n"
+
+msgid "%s: `%s' is a link to `%s'\n"
+msgstr "%s: '%s'与'%s'有连接\n"
+
+msgid "%s: `%s' is a multipartition device\n"
+msgstr "%s:'%s'是一个多分区设备\n"
+
+msgid "%s: `%s' is mounted at `%s'\n"
+msgstr "%s:'%s'被装载到 `%s'\n"
+
+msgid "%s: `%s' is not a mount point\n"
+msgstr "%s：`%s' 不是挂载点\n"
+
+msgid "%s: `%s' is not a multipartition device\n"
+msgstr "%s:'%s'不是一个多分区设备\n"
+
+msgid "%s: `%s' is not mounted\n"
+msgstr "%s: '%s'未被装载\n"
+
+msgid "%s: closing tray\n"
+msgstr "%s: 关闭托盘\n"
+
+msgid "%s: could not allocate memory\n"
+msgstr "%s：无法分配内存\n"
+
+msgid "%s: default device: `%s'\n"
+msgstr "%s: 默认设备: `%s'\n"
+
+msgid "%s: device is `%s'\n"
+msgstr "%s: 设备为`%s'\n"
+
+msgid "%s: device name is `%s'\n"
+msgstr "%s: 设备名字为: `%s'\n"
+
+msgid "%s: disabling auto-eject mode for `%s'\n"
+msgstr "%s: 不能启用'%s'的自动弹出模式\n"
+
+msgid "%s: enabling auto-eject mode for `%s'\n"
+msgstr "%s: 正在启用'%s'的自动弹出模式\n"
+
+msgid "%s: error while allocating string\n"
+msgstr "%s: 分配字符串时出现错误\n"
+
+msgid "%s: error while finding CD-ROM name\n"
+msgstr "%s: 查找CD-ROM名称时出错\n"
+
+msgid "%s: error while reading speed\n"
+msgstr "%s: 读取速度信息时出错\n"
+
+msgid "%s: exiting due to -n/--noop option\n"
+msgstr "%s: 因为-n/--noop选项而退出\n"
+
+msgid "%s: expanded name is `%s'\n"
+msgstr "%s: 扩展名为: `%s'\n"
+
+msgid "%s: floppy eject command failed\n"
+msgstr "%s: 软驱弹出失败\n"
+
+msgid "%s: floppy eject command succeeded\n"
+msgstr "%s: 软驱弹出成功\n"
+
+msgid "%s: invalid argument to --auto/-a option\n"
+msgstr "%s：--auto/-a 选项的参数无效\n"
+
+msgid "%s: invalid argument to --cdspeed/-x option\n"
+msgstr "%s：--cdspeed/-x 选项的参数无效\n"
+
+msgid "%s: invalid argument to --changerslot/-c option\n"
+msgstr "%s：--changerslot/-c 选项的参数无效\n"
+
+msgid "%s: invalid argument to -i option\n"
+msgstr "%s: -i 选项的无效参数\n"
+
+msgid "%s: listing CD-ROM speed\n"
+msgstr "%s: 列出CD-ROM的速度\n"
+
+msgid "%s: maximum symbolic link depth exceeded: `%s'\n"
+msgstr "%s：超出最大符号链接深度：`%s\n"
+
+msgid "%s: selecting CD-ROM disc #%d\n"
+msgstr "%s：选择光盘#%d\n"
+
+msgid "%s: setting CD-ROM speed to %dX\n"
+msgstr "%s:设置光驱速度为%dX\n"
+
+msgid "%s: setting CD-ROM speed to auto\n"
+msgstr "%s:设置光驱速度为自动选择\n"
+
+msgid "%s: tape offline command failed\n"
+msgstr "%s:离线磁带命令失败\n"
+
+msgid "%s: tape offline command succeeded\n"
+msgstr "%s:离线磁带命令成功\n"
+
+msgid "%s: toggling tray\n"
+msgstr "%s: 切换托盘\n"
+
+msgid "%s: too many arguments\n"
+msgstr "%s：参数太多\n"
+
+msgid "%s: tried to use `%s' as device name but it is no block device\n"
+msgstr "%s：尝试使用 `%s' 作为设备名，但它不是块设备\n"
+
+msgid "%s: trying to eject `%s' using CD-ROM eject command\n"
+msgstr "%s: 正在通过光驱弹出命令尝试弹出'%s'\n"
+
+msgid "%s: trying to eject `%s' using SCSI commands\n"
+msgstr "%s: 正在尝试通过SCSI命令弹出'%s'\n"
+
+msgid "%s: trying to eject `%s' using floppy eject command\n"
+msgstr "%s: 正在通过软驱弹出命令尝试弹出'%s'\n"
+
+msgid "%s: trying to eject `%s' using tape offline command\n"
+msgstr "%s: 正在通过离线磁带命令尝试弹出'%s'\n"
+
+msgid "%s: unable to eject, last error: %s\n"
+msgstr "%s:不能够弹出，最后的错误为:%s\n"
+
+msgid "%s: unable to exec umount of `%s': %s\n"
+msgstr "%s：无法执行`%s'的umount命令：%s\n"
+
+msgid "%s: unable to find or open device for: `%s'\n"
+msgstr "%s: 不能够找到或者打开设备原因为: `%s'\n"
+
+msgid "%s: unable to fork: %s\n"
+msgstr "%s:不能够执行派生指令:%s\n"
+
+msgid "%s: unable to open /etc/fstab: %s\n"
+msgstr "%s:不能够打开/etc/fstab:%s\n"
+
+msgid "%s: unable to open `%s'\n"
+msgstr "%s:不能够打开`%s'\n"
+
+msgid "%s: unable to read the speed from /proc/sys/dev/cdrom/info\n"
+msgstr "%s: 无法从 /proc/sys/dev/cdrom/info 中读取速度信息\n"
+
+msgid "%s: unmount of `%s' did not exit normally\n"
+msgstr "%s:卸载\"%s\"非正常退出\n"
+
+msgid "%s: unmount of `%s' failed\n"
+msgstr "%s:卸载 `%s'失败\n"
+
+msgid "%s: unmounting `%s'\n"
+msgstr "%s:卸载中:%s\n"
+
+msgid "%s: unmounting device `%s' from `%s'\n"
+msgstr "%s: 将设备 `%s'从`%s'中卸载出来\n"
+
+msgid "%s: using default device `%s'\n"
+msgstr "%s: 使用默认设备: `%s'\n"
+
+msgid ""
+"Eject version %s by Jeff Tranter (tranter@pobox.com)\n"
+"Usage:\n"
+"  eject -h\t\t\t\t-- display command usage and exit\n"
+"  eject -V\t\t\t\t-- display program version and exit\n"
+"  eject [-vnrsfqpm] [<name>]\t\t-- eject device\n"
+"  eject [-vn] -d\t\t\t-- display default device\n"
+"  eject [-vn] -a on|off|1|0 [<name>]\t-- turn auto-eject feature on or off\n"
+"  eject [-vn] -c <slot> [<name>]\t-- switch discs on a CD-ROM changer\n"
+"  eject [-vn] -t [<name>]\t\t-- close tray\n"
+"  eject [-vn] -T [<name>]\t\t-- toggle tray\n"
+"  eject [-vn] -i on|off|1|0 [<name>]\t-- toggle manual eject protection on/off\n"
+"  eject [-vn] -x <speed> [<name>]\t-- set CD-ROM max speed\n"
+"  eject [-vn] -X [<name>]\t\t-- list CD-ROM available speeds\n"
+"Options:\n"
+"  -v\t-- enable verbose output\n"
+"  -n\t-- don't eject, just show device found\n"
+"  -r\t-- eject CD-ROM\n"
+"  -s\t-- eject SCSI device\n"
+"  -f\t-- eject floppy\n"
+"  -q\t-- eject tape\n"
+"  -p\t-- use /proc/mounts instead of /etc/mtab\n"
+"  -m\t-- do not unmount device even if it is mounted\n"
+msgstr ""
+"Eject 版本为 %s 由 Jeff Tranter (tranter@pobox.com)\n"
+"用法:\n"
+"  eject -h\t\t\t\t-- 显示命令用法然后退出\n"
+"  eject -V\t\t\t\t-- 显示程序版本然后退出\n"
+"  eject [-vnrsfqpm] [<name>]\t\t-- 弹出驱动器\n"
+"  eject [-vn] -d\t\t\t-- 显示默认驱动器\n"
+"  eject [-vn] -a on|off|1|0 [<name>]\t-- 开/关自动弹出功能\n"
+"  eject [-vn] -c <slot> [<name>]\t-- 在 CD-ROM 中换盘\n"
+"  eject [-vn] -t [<name>]\t\t-- 关闭托盘\n"
+"  eject [-vn] -T [<name>]\t\t-- 锁定托盘\n"
+"  eject [-vn] -i on|off|1|0 [<name>]\t-- 开/关手动弹出\n"
+"  eject [-vn] -x <speed> [<name>]\t-- 将 CD-ROM 设为全速\n"
+"  eject [-vn] -X [<name>]\t\t-- 列出可用的 CD-ROM 速度\n"
+"选项:\n"
+"  -v\t-- 显示更多输出\n"
+"  -n\t-- 不要弹出，仅仅显示找到的设备\n"
+"  -r\t-- 弹出 CD-ROM\n"
+"  -s\t-- 弹出 SCSI 设备\n"
+"  -f\t-- eject 软盘\n"
+"  -q\t-- eject 磁带\n"
+"  -p\t-- 使用 /proc/mounts 而不是 /etc/mtab 中的数据\n"
+"  -m\t-- 不要卸载设备即使其已被挂载\n"
+
+msgid ""
+"Long options:\n"
+"  -h --help   -v --verbose      -d --default\n"
+"  -a --auto   -c --changerslot  -t --trayclose  -x --cdspeed\n"
+"  -r --cdrom  -s --scsi         -f --floppy     -X --listspeed     -q --tape\n"
+"  -n --noop   -V --version\n"
+"  -p --proc   -m --no-unmount   -T --traytoggle\n"
+msgstr ""
+"长选项:\n"
+"  -h --help   -v --verbose      -d --default\n"
+"  -a --auto   -c --changerslot  -t --trayclose  -x --cdspeed\n"
+"  -r --cdrom  -s --scsi         -f --floppy     -X --listspeed     -q --tape\n"
+"  -n --noop   -V --version\n"
+"  -p --proc   -m --no-unmount   -T --traytoggle\n"
+
+msgid ""
+"Parameter <name> can be a device file or a mount point.\n"
+"If omitted, name defaults to `%s'.\n"
+"By default tries -r, -s, -f, and -q in order until success.\n"
+msgstr ""
+"参数<name>可以是一个设备的文件夹或者是一个指定的装载。\n"
+"如果忽略<name>参数，名字默认为 '%s'。\n"
+"系统默认会依次尝试-r,-s,-r和-q命令直到成功。\n"
+
+msgid "eject version %s by Jeff Tranter (tranter@pobox.com)\n"
+msgstr "eject 版本：%s 作者：Jeff Tranter (tranter@pobox.com)\n"
+
+msgid "unable to open %s: %s\n"
+msgstr "不能够打开%s:%s\n"
+
+msgid "usage: volname [<device-file>]\n"
+msgstr "使用：卷名[<device-file>]\n"
+
+msgid "volname"
+msgstr "卷名"

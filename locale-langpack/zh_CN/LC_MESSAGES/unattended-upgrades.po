@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unattended-upgrades\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-02-21 04:07+0000\n"
+"PO-Revision-Date: 2009-09-23 14:19+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:45+0000\n"
+
+msgid "All upgrades installed"
+msgstr "安装了所有的更新"
+
+msgid "Allowed origins are: %s"
+msgstr "允许的源：%s"
+
+msgid "Cache has broken packages, exiting"
+msgstr "缓存存在不完整的软件包，退出"
+
+msgid "Cache lock can not be acquired, exiting"
+msgstr "无法获取缓存锁，退出"
+
+msgid "Download finished, but file '%s' not there?!?"
+msgstr "下载完成，但 '%s' 文件没在那里?!?"
+
+msgid "GetArchives() failed: '%s'"
+msgstr "GetArchives()失败：‘%s’"
+
+msgid "Giving up on lockfile after %s delay"
+msgstr "%s 延迟后放弃 锁定文件"
+
+msgid "Initial blacklisted packages: %s"
+msgstr "初始化黑名单软件包：%s"
+
+msgid "Installing the upgrades failed!"
+msgstr "安装更新失败！"
+
+msgid "Lock could not be acquired (another package manager running?)"
+msgstr "无法获取锁(另一个软件包管理器在运行？)"
+
+msgid "Package '%s' has conffile prompt and needs to be upgraded manually"
+msgstr "软件包‘%s’有冲突提示，需要手工更新"
+
+msgid "Package installation log:"
+msgstr "软件包安装日志："
+
+msgid "Packages that are auto removed: '%s'"
+msgstr "自动移除了的软件包：“%s”"
+
+msgid "Packages with upgradable origin but kept back:\n"
+msgstr "可更新但保留了原始版本的软件包:\n"
+
+msgid "Simulation, download but do not install"
+msgstr "模拟，下载但不安装"
+
+msgid "Starting unattended upgrades script"
+msgstr "启动无人照管的更新脚本"
+
+msgid "The URI '%s' failed to download, aborting"
+msgstr "下载‘%s’失败，异常中断"
+
+msgid ""
+"Unattended upgrade returned: %s\n"
+"\n"
+msgstr ""
+"无人照管更新返回：%s\n"
+"\n"
+
+msgid "Unattended-upgrade in progress during shutdown, sleeping for 5s"
+msgstr "关机时无人照管更新正在进行，睡眠 5 秒种"
+
+msgid "Unattended-upgrades log:\n"
+msgstr "无人照管更新日志：\n"
+
+msgid ""
+"Warning: A reboot is required to complete this upgrade.\n"
+"\n"
+msgstr ""
+"警告：需要重新启动以完成此次升级。\n"
+"\n"
+
+msgid "Writing dpkg log to '%s'"
+msgstr "写 dpkg 日志到‘%s’"
+
+msgid "You need to be root to run this application"
+msgstr "您需要 roo t的权限来运行这个程序"
+
+msgid "dpkg returned a error! See '%s' for details"
+msgstr "dpkg 返回错误！详细信息参见‘%s’"
+
+msgid "error message: '%s'"
+msgstr "错误信息：‘%s’"
+
+msgid "package '%s' not upgraded"
+msgstr "软件包‘%s’没有更新"
+
+msgid "package '%s' upgradable but fails to be marked for upgrade (%s)"
+msgstr "软件包 '%s' 可以升级，但是标记为升级时失败（%s）"
+
+msgid "print debug messages"
+msgstr "打印调试信息"
