@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gettext-runtime 0.19.4.73\n"
+"Report-Msgid-Bugs-To: bug-gnu-gettext@gnu.org\n"
+"POT-Creation-Date: 2015-12-28 08:26+0900\n"
+"PO-Revision-Date: 2015-12-16 16:58+0000\n"
+"Last-Translator: Ji ZhengYu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:18+0000\n"
+
+msgid "  -V, --version               output version information and exit\n"
+msgstr "  -V, --version               输出版本信息并退出\n"
+
+msgid ""
+"  -d, --domain=TEXTDOMAIN   retrieve translated message from TEXTDOMAIN\n"
+"  -e                        enable expansion of some escape sequences\n"
+"  -E                        (ignored for compatibility)\n"
+"  -h, --help                display this help and exit\n"
+"  -V, --version             display version information and exit\n"
+"  [TEXTDOMAIN]              retrieve translated message from TEXTDOMAIN\n"
+"  MSGID MSGID-PLURAL        translate MSGID (singular) / MSGID-PLURAL (plural)\n"
+"  COUNT                     choose singular/plural form based on this value\n"
+msgstr ""
+"  -d, --domain=文本域       由<文本域>读取翻译后的消息。\n"
+"  -e                        允许展开某些转义字符\n"
+"  -E                        (为了兼容性存在的选项，不会造成任何影响)\n"
+"  -h, --help                显示此段说明并退出\n"
+"  -V, --version             显示版本信息并退出\n"
+"  [文本域]                  由<文本域>读取翻译消息\n"
+"  MSGID 复数-MSGID          翻译 MSGID (单数) / 复数-MSGID (复数)\n"
+"  数字                      根据<数字>来选择单数或复数型态\n"
+
+msgid ""
+"  -d, --domain=TEXTDOMAIN   retrieve translated messages from TEXTDOMAIN\n"
+"  -e                        enable expansion of some escape sequences\n"
+"  -E                        (ignored for compatibility)\n"
+"  -h, --help                display this help and exit\n"
+"  -n                        suppress trailing newline\n"
+"  -V, --version             display version information and exit\n"
+"  [TEXTDOMAIN] MSGID        retrieve translated message corresponding\n"
+"                            to MSGID from TEXTDOMAIN\n"
+msgstr ""
+"  -d, --domain=文本域       由<文本域>读取翻译后的消息\n"
+"  -e                        允许展开某些转义字符\n"
+"  -E                        (为了兼容性存在的选项，不会造成任何影响)\n"
+"  -h, --help                显示此段说明消息并退出\n"
+"  -n                        禁用尾随的换行符\n"
+"  -V, --version             显示版本信息并退出\n"
+"  [文本域] MSGID            由<文本域>读取相应于 MSGID 的翻译消息\n"
+
+msgid "  -h, --help                  display this help and exit\n"
+msgstr "  -h, --help                  显示此帮助并退出\n"
+
+msgid ""
+"  -v, --variables             output the variables occurring in SHELL-"
+"FORMAT\n"
+msgstr "  -v, --variables             输出 SHELL格式 中出现的变量\n"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s：无效选项 ─ %c\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s：选项“%c%s”不允许有参数\n"
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr "%s：选项“%s”是不明确的\n"
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr "%s：选项“%s”是不明确的；可能是:"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s：选项“--%s”不允许有参数\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s：选项“%s”需要一个参数\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s：选项“-W %s”不允许有参数\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s：选项“-W %s”是不明确的\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s：选项“%s”需要一个参数\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s：选项需要一个参数 ─ %c\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s：无法识别的选项“%c%s”\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s：无法识别的选项“--%s”\n"
+
+msgid "Bruno Haible"
+msgstr "Bruno Haible"
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+"版权所有 (C) %s Free Software Foundation, Inc.\n"
+"授权协议 GPLv3+: GNU GPL 版本 3 或之后版本 <http://gnu.org/licenses/gpl.html>\n"
+"这是自由软件: 你有修改和再发布的自由。\n"
+"本软件在法律允许的范围内不提供任何担保。\n"
+
+msgid ""
+"Display native language translation of a textual message whose grammatical\n"
+"form depends on a number.\n"
+msgstr "显示某原文消息的本地语言翻译，而翻译的语法和数字有关。\n"
+
+msgid "Display native language translation of a textual message.\n"
+msgstr "显示某原文消息的本地语言翻译。\n"
+
+msgid ""
+"If the TEXTDOMAIN parameter is not given, the domain is determined from the\n"
+"environment variable TEXTDOMAIN.  If the message catalog is not found in the\n"
+"regular directory, another location can be specified with the environment\n"
+"variable TEXTDOMAINDIR.\n"
+"Standard search directory: %s\n"
+msgstr ""
+"假如没有指定<文本域>参数，程序会根据 TEXTDOMAIN 环境变量来设定文本域。\n"
+"假如消息一览表文件不在正常的目录下，可以用环境变量 TEXTDOMAINDIR 指定\n"
+"消息一览表文件所在的位置。\n"
+"标准的搜索目录为：%s\n"
+
+msgid ""
+"In normal operation mode, standard input is copied to standard output,\n"
+"with references to environment variables of the form $VARIABLE or ${VARIABLE}\n"
+"being replaced with the corresponding values.  If a SHELL-FORMAT is given,\n"
+"only those environment variables that are referenced in SHELL-FORMAT are\n"
+"substituted; otherwise all environment variables references occurring in\n"
+"standard input are substituted.\n"
+msgstr ""
+"在普通操作模式下，会将标准输入复制到标准输出中，而以 $VARIABLE 或 ${VARIABLE}\n"
+"格式给出的环境变量引用会被替换成相应的值。如果给出了 SHELL格式，则只有在该格式\n"
+"中引用的环境变量会被替换；否则，标准输入中出现的全部环境变量引用都将被替换。\n"
+
+msgid "Informative output:\n"
+msgstr "信息性输出：\n"
+
+msgid "Operation mode:\n"
+msgstr "操作模式：\n"
+
+msgid "Report bugs to <bug-gnu-gettext@gnu.org>.\n"
+msgstr "将错误报告至 <bug-gnu-gettext@gnu.org>。\n"
+
+msgid "Substitutes the values of environment variables.\n"
+msgstr "替换环境变量的值。\n"
+
+msgid "Try '%s --help' for more information.\n"
+msgstr "试试“%s --help”来获取更多信息。\n"
+
+msgid "Ulrich Drepper"
+msgstr "Ulrich Drepper"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Usage: %s [OPTION] [SHELL-FORMAT]\n"
+msgstr "用法：%s [选项] [SHELL格式]\n"
+
+msgid "Usage: %s [OPTION] [TEXTDOMAIN] MSGID MSGID-PLURAL COUNT\n"
+msgstr "用法：%s [选项] [文本域] MSGID 复数-MSGID 数字\n"
+
+msgid ""
+"Usage: %s [OPTION] [[TEXTDOMAIN] MSGID]\n"
+"or:    %s [OPTION] -s [MSGID]...\n"
+msgstr ""
+"用法：%s [选项] [[文本域] MSGID]\n"
+"或：  %s [选项] -s [MSGID]...\n"
+
+msgid ""
+"When --variables is used, standard input is ignored, and the output consists\n"
+"of the environment variables that are referenced in SHELL-FORMAT, one per line.\n"
+msgstr ""
+"若使用了 --variables，则会忽略标准输入，而输出由 SHELL格式 引用的环境变量组成，\n"
+"每行出现一个环境变量。\n"
+
+msgid "Written by %s.\n"
+msgstr "由 %s 编写。\n"
+
+msgid "error while reading \"%s\""
+msgstr "读取“%s”时出错"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid "missing arguments"
+msgstr "缺少参数"
+
+msgid "standard input"
+msgstr "标准输入"
+
+msgid "too many arguments"
+msgstr "参数过多"
+
+msgid "write error"
+msgstr "写入出错"

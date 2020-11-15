@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sharutils 4.11\n"
+"Report-Msgid-Bugs-To: bug-gnu-utils@gnu.org\n"
+"POT-Creation-Date: 2015-05-30 08:36-0700\n"
+"PO-Revision-Date: 2013-12-19 00:57+0000\n"
+"Last-Translator: Ji ZhengYu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:06+0000\n"
+
+msgid "%s is probably not a shell archive"
+msgstr "%s 可能不是个 shell 归档"
+
+msgid "%s looks like raw C code, not a shell archive"
+msgstr "%s 看上去像是个原始的 C 代码，不是 shell 归档"
+
+msgid "%s: Illegal file name: %s"
+msgstr "%s: 非法文件名: %s"
+
+msgid "%s: No `end' line"
+msgstr "%s: 没有包含‘end’的行"
+
+msgid "%s: Not a regular file"
+msgstr "%s: 不是个普通文件"
+
+msgid "%s: Short file"
+msgstr "%s: 文件太小"
+
+msgid "%s: Write error"
+msgstr "%s: 写错误"
+
+msgid "%s: illegal option -- %c\n"
+msgstr "%s: 非法选项 -- %c\n"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s: 无效选项 -- \"%c\"\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s: 选项\"%c%s\"不要参数\n"
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr "%s: 选项\"%s\"有歧义\n"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s: 选项\"--%s\"不要参数\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s: 选项\"--%s\"必须带参数\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s: 选项\"-W %s\"不要参数\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s: 选项\"-W %s\"有歧义\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s: 选项\"-W %s\"必须带参数\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s: 选项需要参数 -- \"%c\"\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s: 无法识别的选项\"%c%s\"\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s: 未知选项\"--%s\"\n"
+
+msgid "(binary)"
+msgstr "(二进制文件)"
+
+msgid "(bzipped)"
+msgstr "(bzip 压缩过的文件)"
+
+msgid "(compressed)"
+msgstr "(compress 压缩过的文件)"
+
+msgid "(empty)"
+msgstr "(空文件)"
+
+msgid "(gzipped)"
+msgstr "(gzip 压缩过的文件)"
+
+msgid "(text)"
+msgstr "(文本文件)"
+
+msgid "Cannot access %s"
+msgstr "无法访问 %s"
+
+msgid "Cannot get current directory name"
+msgstr "无法获取当前目录名"
+
+msgid "Cannot open file %s"
+msgstr "无法打开文件 %s"
+
+msgid "Created %d files\n"
+msgstr "创建了 %d 个文件\n"
+
+msgid "End of %s part %d"
+msgstr "归档 %s 的结束块是 %d"
+
+msgid "End of part %d, continue with part %d"
+msgstr "在第 %d 块结束，从 %d 块继续"
+
+msgid "File %s is complete"
+msgstr "处理完文件 %s"
+
+msgid "File %s is continued in part %d"
+msgstr "文件 %s 在第 %d 块继续"
+
+msgid "Found no shell commands in %s"
+msgstr "未在 %s 中找到 shell 命令"
+
+msgid "MD5 check failed"
+msgstr "MD5 校验失败"
+
+msgid "No input files"
+msgstr "没有输入文件"
+
+msgid "Note: not verifying md5sums.  Consider installing GNU coreutils."
+msgstr "注意: 未验证 md5sums。请考虑安装 GNU coreutils 工具包。"
+
+msgid "PLEASE avoid -X shars on Usenet or public networks"
+msgstr "请避免在 Usenet 或公共网络上使用 -X shars"
+
+msgid "Please unpack part ${shar_sequence} next!"
+msgstr "下次请部分解包 ${shar_sequence}!"
+
+msgid "Please unpack part 1 first!"
+msgstr "请先解包第 1 块"
+
+msgid "SKIPPING %s"
+msgstr "跳过 %s"
+
+msgid "Saving %s (%s)"
+msgstr "保存 %s (%s)"
+
+msgid "Starting file %s\n"
+msgstr "从文件 %s 开始\n"
+
+msgid "Too many directories for mkdir generation"
+msgstr "mkdir 不能生成过多的目录"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid ""
+"You cannot specify an output file when processing\n"
+"multiple input files.\n"
+msgstr ""
+"您无法在操作多个输入文件时\n"
+"指定一个输出文件。\n"
+
+msgid "You have unpacked the last part"
+msgstr "您已经解开了最后一部分"
+
+msgid "all"
+msgstr "所有"
+
+msgid "archive"
+msgstr "归档"
+
+msgid "cannot access %s"
+msgstr "无法访问 %s"
+
+msgid "chmod of %s"
+msgstr "chmod(%s) 错误"
+
+msgid "continuing file %s"
+msgstr "继续还原文件 %s"
+
+msgid "empty"
+msgstr "空文件"
+
+msgid "exit immediately"
+msgstr "立即退出"
+
+msgid "explain choices"
+msgstr "解释所选内容"
+
+msgid "extraction aborted"
+msgstr "解包非正常退出"
+
+msgid "failed to create %s lock directory"
+msgstr "无法创建目录锁 %s"
+
+msgid "help"
+msgstr "帮助"
+
+msgid "lock directory %s exists"
+msgstr "存在目录锁 %s"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid "no"
+msgstr "跳过"
+
+msgid "none"
+msgstr "无"
+
+msgid "overwrite %s"
+msgstr "覆盖 %s"
+
+msgid "overwrite all files"
+msgstr "覆盖所有文件"
+
+msgid "overwrite no files"
+msgstr "不覆盖任何文件"
+
+msgid "overwrite this file"
+msgstr "覆盖此文件"
+
+msgid "printf formatting error:  %s\n"
+msgstr "printf 格式错误: %s\n"
+
+msgid "quit"
+msgstr "退出"
+
+msgid "restoration warning:  size of %s is not %s"
+msgstr "还原警告: %s 的大小不是 %s"
+
+msgid "restore of %s failed"
+msgstr "还原 %s 失败"
+
+msgid "skip this file"
+msgstr "忽略此文件"
+
+msgid "standard input"
+msgstr "标准输入"
+
+msgid "text"
+msgstr "文本文件"
+
+msgid "uudecoding file %s"
+msgstr "正在用 uudecode 处理文件 %s"
+
+msgid "x - SKIPPING %s (file already exists)"
+msgstr "x - 跳过 %s (文件已经存在)"
+
+msgid "x - STILL SKIPPING %s"
+msgstr "x - 仍然跳过 %s"
+
+msgid "x - created directory %s."
+msgstr "x - 创建目录 %s。"
+
+msgid "x - created lock directory %s."
+msgstr "x - 目录锁 %s 已创建。"
+
+msgid "x - extracting %s %s"
+msgstr "x - 还原 %s %s"
+
+msgid "x - failed to create directory %s."
+msgstr "x - 无法创建目录 %s。"
+
+msgid "x - failed to create lock directory %s."
+msgstr "x - 无法创建目录锁 %s。"
+
+msgid "x - failed to remove lock directory %s."
+msgstr "x - 无法删除目录锁 %s。"
+
+msgid "x - overwriting %s"
+msgstr "x- 正在覆盖 %s"
+
+msgid "x - removed lock directory %s."
+msgstr "x - 目录锁 %s 已删除。"
+
+msgid "yes"
+msgstr "同意"

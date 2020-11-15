@@ -1,0 +1,1066 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: remmina\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-03-29 02:41+0000\n"
+"PO-Revision-Date: 2016-03-24 11:51+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:40+0000\n"
+
+msgid "%s password"
+msgstr "%s密码"
+
+msgid ""
+"%s wants to share his/her desktop.\n"
+"Do you accept the invitation?"
+msgstr ""
+"%s 请求共享他/她的桌面。\n"
+"您是否接受邀请？"
+
+msgid "256 colors"
+msgstr "256 色"
+
+msgid "256 colors (8 bpp)"
+msgstr "256 色(8 bpp)"
+
+msgid "<Auto detect>"
+msgstr "<自动检测>"
+
+msgid "<None>"
+msgstr "<无>"
+
+msgid ""
+"<tt><big>Supported formats\n"
+"* :port\n"
+"* server\n"
+"* server:port\n"
+"* [server]:port</big></tt>"
+msgstr ""
+"<tt><big>支持格式\n"
+"* :端口\n"
+"* 服务器\n"
+"* 服务器:端口\n"
+"* [服务器]:端口</big></tt>"
+
+msgid ""
+"<tt><big>Supported formats\n"
+"* server\n"
+"* server:port\n"
+"* [server]:port</big></tt>"
+msgstr ""
+"<tt><big>支持格式\n"
+"* 服务器\n"
+"* 服务器:端口\n"
+"* [服务器]:端口</big></tt>"
+
+msgid "Accept Certificate?"
+msgstr "接受证书吗？"
+
+msgid "Accept Changed Certificate?"
+msgstr "接受变化后的证书？"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Allow bold text"
+msgstr "允许粗体字"
+
+msgid "Always show tabs"
+msgstr "始终显示选项卡"
+
+msgid "Applet"
+msgstr "面板小程序"
+
+msgid "Are you sure to delete '%s'"
+msgstr "确认要删除%s？"
+
+msgid "Are you sure to delete the selected files on server?"
+msgstr "确认要删除服务器上的文件？"
+
+msgid "Attach"
+msgstr "挂接"
+
+msgid "Attach to console (Windows 2003 / 2003 R2)"
+msgstr "挂接到控制台(Windows 2003 / 2003 R2)"
+
+msgid "Authenticating %s's identity to SSH server %s..."
+msgstr "正在验证%s的身份(SSH服务器%s)..."
+
+msgid "Authenticating %s's password to SSH server %s..."
+msgstr "正在验证%s的密码(SSH服务器%s)..."
+
+msgid "Authentication failed. Trying to reconnect..."
+msgstr "验证失败，将重新连接……"
+
+msgid "Auto scroll step size"
+msgstr "自动滚动步进大小"
+
+msgid "Auto-fit window"
+msgstr "自动调整视窗"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "Best (slowest)"
+msgstr "最好(最慢)"
+
+msgid "Bilinear"
+msgstr "Bilinear"
+
+msgid "Browse the network to find a %s server"
+msgstr "浏览网络查找%s服务器"
+
+msgid "CA CRL"
+msgstr "证书失效列表(CRL)"
+
+msgid "CA certificate"
+msgstr "根证书"
+
+msgid "Certificate Changed! Details:"
+msgstr "证书已变化！详情："
+
+msgid "Certificate Details:"
+msgstr "证书详情："
+
+msgid "Character set"
+msgstr "字符集"
+
+msgid "Chat with %s"
+msgstr "与 %s 聊天"
+
+msgid "Choose a Remote Desktop Server"
+msgstr "请选择一个远程桌面服务器"
+
+msgid "Choose a file to upload"
+msgstr "选择要上传的文件"
+
+msgid "Choose a new key"
+msgstr "更新按键"
+
+msgid "Choose download location"
+msgstr "选择下载目录"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Client certificate"
+msgstr "客户端证书"
+
+msgid "Client key"
+msgstr "客户端密钥"
+
+msgid "Client name"
+msgstr "客户端名称"
+
+msgid "Color depth"
+msgstr "色深"
+
+msgid "Command %s failed on SSH server (status = %i)."
+msgstr "SSH服务器运行命令%s失败（状态%i）"
+
+msgid "Command %s not found on SSH server"
+msgstr "SSH服务器上找不到命令%s"
+
+msgid "Composition"
+msgstr "混成"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connect !"
+msgstr "连接！"
+
+msgid "Connect to remote desktops"
+msgstr "连接到远程桌面"
+
+msgid "Connect to remote desktops through the applet menu"
+msgstr "通过小程序菜单快速连接到远程桌面"
+
+msgid "Connecting to %s through SSH tunnel..."
+msgstr "正在通过SSH通道连接到%s..."
+
+msgid "Connecting to '%s'..."
+msgstr "正在连接到%s..."
+
+msgid "Connecting to SSH server %s..."
+msgstr "正在连接到SSH服务器%s..."
+
+msgid "Contributors:"
+msgstr "贡献者:"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Couldn't convert '%s' to host address"
+msgstr "无法解析主机 %s 的地址"
+
+msgid "Create a New Connection Profile"
+msgstr "新建连接配置"
+
+msgid "Create a copy of the selected remote desktop file"
+msgstr "为选定的远程桌面文件建立副本"
+
+msgid "Create a new remote desktop file"
+msgstr "新建一个远程桌面文件"
+
+msgid "Cursor blinking"
+msgstr "光标闪烁"
+
+msgid "Cursor shadow"
+msgstr "光标阴影"
+
+msgid "Custom"
+msgstr "指定"
+
+msgid "Debug Window"
+msgstr "调试窗口"
+
+msgid "Default"
+msgstr "默认值"
+
+msgid "Default settings saved."
+msgstr "默认值已保存"
+
+msgid "Default view mode"
+msgstr "默认视窗模式"
+
+msgid "Delete files on server"
+msgstr "删除服务器上的文件"
+
+msgid "Delete the selected remote desktop file"
+msgstr "删除选定的远程桌面文件"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Desktop sharing invitation"
+msgstr "桌面共享邀请"
+
+msgid "Disable clipboard sync"
+msgstr "禁用剪贴板同步"
+
+msgid "Disable encryption"
+msgstr "禁用加密"
+
+msgid "Disable server input"
+msgstr "禁止服务器端输入"
+
+msgid "Disable tray icon"
+msgstr "禁用系统托盘图标"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "Disconnect after one session"
+msgstr "一次会话结束后断开连接"
+
+msgid "Discovered"
+msgstr "已发现"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "Do not use tabs"
+msgstr "禁用"
+
+msgid "Do you trust the new public key?"
+msgstr "您信任新的公钥吗？"
+
+msgid "Domain"
+msgstr "域"
+
+msgid "Double-click action"
+msgstr "双击动作"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download from server"
+msgstr "从服务器下载"
+
+msgid "Edit settings"
+msgstr "编辑设置"
+
+msgid "Edit the selected remote desktop file"
+msgstr "编辑选定的远程桌面文件"
+
+msgid "Enable SSH tunnel"
+msgstr "启用SSH通道"
+
+msgid "Enable Service Discovery"
+msgstr "开启服务侦测功能"
+
+msgid "Entry"
+msgstr "入口"
+
+msgid "Error creating directory %s."
+msgstr "创建目录 %s 错误"
+
+msgid "Error creating file %s on server. %s"
+msgstr "创建远程文件 %s 错误. %s"
+
+msgid "Error creating file %s."
+msgstr "创建文件 %s 错误"
+
+msgid "Error creating folder %s on server. %s"
+msgstr "服务器创建目录%s失败。%s"
+
+msgid "Error opening directory %s. %s"
+msgstr "打开目录 %s 错误. %s"
+
+msgid "Error opening file %s on server. %s"
+msgstr "打开远程文件 %s 错误. %s"
+
+msgid "Error opening file %s."
+msgstr "打开文件 %s 错误"
+
+msgid "Error writing file %s on server. %s"
+msgstr "写入远程文件 %s 错误. %s"
+
+msgid "Error writing file %s."
+msgstr "写入文件 %s 错误"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Export connection in Windows .rdp file format"
+msgstr "使用 Windows .rdp 文件格式导出连接"
+
+msgid "External Tools"
+msgstr "外部工具"
+
+msgid "Failed reading directory. %s"
+msgstr "无法读取目录. %s"
+
+msgid "Failed to connect to the SSH tunnel destination: %s"
+msgstr "无法连接到SSH通道的目的地: %s"
+
+msgid "Failed to create sftp session: %s"
+msgstr "无法创建SFTP会话: %s"
+
+msgid "Failed to delete '%s'. %s"
+msgstr "无法删除 %s. %s"
+
+msgid "Failed to execute %s on SSH server : %%s"
+msgstr "无法在SSH服务器上运行%s : %%s"
+
+msgid "Failed to execute command: %s"
+msgstr "命令运行失败：%s"
+
+msgid "Failed to initialize sftp session: %s"
+msgstr "无法初始化SFTP会话: %s"
+
+msgid "Failed to open directory %s. %s"
+msgstr "无法打开目录 %s. %s"
+
+msgid "Failed to request port forwarding : %s"
+msgstr "无法申请端口转发 : %s"
+
+msgid "Failed to startup SSH session: %s"
+msgstr "无法启动SSH会话: %s"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File %s not found."
+msgstr "文件%s未找到"
+
+msgid "File Name"
+msgstr "文件名"
+
+msgid "File exists"
+msgstr "文件已存在"
+
+msgid ""
+"File transfer currently in progress.\n"
+"Are you sure to cancel it?"
+msgstr "文件传输正在进行。确认取消吗？"
+
+msgid "Fingerprint:"
+msgstr "指纹："
+
+msgid "Fit window size"
+msgstr "适合视窗大小"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Font smoothing"
+msgstr "平滑字体"
+
+msgid "Go to home folder"
+msgstr "跳到主目录"
+
+msgid "Go to parent folder"
+msgstr "跳到上一层目录"
+
+msgid "Good"
+msgstr "良好"
+
+msgid "Grab all keyboard events"
+msgstr "俘获所有键盘事件"
+
+msgid "Grab keyboard"
+msgstr "独占键盘"
+
+msgid "Grayscale"
+msgstr "灰度"
+
+msgid "Group"
+msgstr "分组"
+
+msgid "Hide toolbar in tabbed interface"
+msgstr "分标签界面中隐藏工具栏"
+
+msgid "Hide total count in group menu"
+msgstr "隐藏分组计数"
+
+msgid "High color (15 bit)"
+msgstr "高彩(15位)"
+
+msgid "High color (15 bpp)"
+msgstr "增强色(15位)"
+
+msgid "High color (16 bit)"
+msgstr "高彩(16位)"
+
+msgid "High color (16 bpp)"
+msgstr "增强色(16位)"
+
+msgid "Homepage"
+msgstr "网站"
+
+msgid "Horizontal scale"
+msgstr "水平缩放比例"
+
+msgid "Host key"
+msgstr "主机键"
+
+msgid "Hyper"
+msgstr "Hyper"
+
+msgid "Identity file"
+msgstr "私钥文件"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Invisible toolbar in fullscreen mode"
+msgstr "全屏模式下隐藏工具栏"
+
+msgid "Issuer:"
+msgstr "颁发者："
+
+msgid "Keyboard"
+msgstr "键盘"
+
+msgid "Keyboard layout"
+msgstr "键盘布局"
+
+msgid "Keyboard mapping"
+msgstr "键盘映射"
+
+msgid "List View"
+msgstr "列表视图"
+
+msgid "Listen on port"
+msgstr "监听端口"
+
+msgid "Listening on port %i for an incoming %s connection..."
+msgstr "在%i端口监听传入的%s连接"
+
+msgid "Local"
+msgstr "本地"
+
+msgid "Local - high quality"
+msgstr "本地 - 高质量"
+
+msgid "Local - low quality"
+msgstr "本地 - 低质量"
+
+msgid "Local - medium quality"
+msgstr "本地 - 中等质量"
+
+msgid "Maintainers:"
+msgstr "维护者:"
+
+msgid "Maximum recent items"
+msgstr "最近连接项数量"
+
+msgid "Medium"
+msgstr "中等"
+
+msgid "Menu animation"
+msgstr "菜单动画"
+
+msgid "Minimize window"
+msgstr "最小化窗口"
+
+msgid "Minimize windows to tray"
+msgstr "最小化窗口到系统托盘"
+
+msgid "NX - NX Technology"
+msgstr "NX - NX 技术"
+
+msgid "NX Sessions on %s"
+msgstr "%s 上的 NX 会话"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Nearest"
+msgstr "Nearest"
+
+msgid "Negotiate"
+msgstr "协商"
+
+msgid "New Connection"
+msgstr "新的连接"
+
+msgid "New Fingerprint:"
+msgstr "新指纹："
+
+msgid "No response from the server."
+msgstr "服务器无响应。"
+
+msgid "Off"
+msgstr "关"
+
+msgid "Old Fingerprint:"
+msgstr "旧指纹："
+
+msgid "Online Wiki"
+msgstr "在线百科"
+
+msgid "Open Chat..."
+msgstr "打开聊天..."
+
+msgid "Open Main Window"
+msgstr "打开主窗口"
+
+msgid "Open Secure File Transfer..."
+msgstr "打开安全文件传输"
+
+msgid "Open Secure Shell in New Terminal..."
+msgstr "打开新的安全命令行终端窗口"
+
+msgid "Open connection"
+msgstr "打开连接"
+
+msgid "Open the connection to the selected remote desktop file"
+msgstr "打开选定的远程桌面文件的连接"
+
+msgid "Open the preferences dialog"
+msgstr "打开首选项对话框"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Overwrite"
+msgstr "覆盖"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Permission"
+msgstr "权限"
+
+msgid "Please enter format 'widthxheight'."
+msgstr "请正确输入“宽x高”"
+
+msgid "Please press the new key..."
+msgstr "请按新的按键……"
+
+msgid "Plugin %s is not registered."
+msgstr "插件%s未注册。"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Poor (fastest)"
+msgstr "差(最快)"
+
+msgid "Preference"
+msgstr "首选项"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Profile"
+msgstr "档案"
+
+msgid "Progress"
+msgstr "进度"
+
+msgid "Protocol"
+msgstr "协议"
+
+msgid "Protocol plugin %s is not installed."
+msgstr "协议插件%s未安装"
+
+msgid "Public key (automatic)"
+msgstr "公钥(自动)"
+
+msgid "Quality"
+msgstr "画质"
+
+msgid "Quality option"
+msgstr "画质选项"
+
+msgid "Quick Connect"
+msgstr "快速连接"
+
+msgid "Quick Search"
+msgstr "快速查找"
+
+msgid "RDP - Preferences"
+msgstr "RDP - 首选项"
+
+msgid "RDP - RDP File Handler"
+msgstr "RDP - RDP 文件处理器"
+
+msgid "RDP - Remote Desktop Protocol"
+msgstr "RDP - 远程桌面协议"
+
+msgid "Recent lists cleared."
+msgstr "最近项已被清除"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Refresh current folder"
+msgstr "刷新当前目录"
+
+msgid "Remember last view mode for each connection"
+msgstr "记住每个连接的视窗模式"
+
+msgid "Remmina"
+msgstr "远程桌面客户端"
+
+msgid "Remmina Applet"
+msgstr "远程桌面客户端面板小程序"
+
+msgid "Remmina Preferences"
+msgstr "远程桌面客户端-首选项"
+
+msgid "Remmina Remote Desktop Client"
+msgstr "远程桌面客户端"
+
+msgid ""
+"Remmina is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE. See the GNU General Public License for more "
+"details."
+msgstr "发布远程桌面客户端的目的是希望它有用，但没有任何担保。甚至没有适合特定目的的隐含的担保。更详细的情况请参阅GNU通用公共许可证。"
+
+msgid ""
+"Remmina is free software; you can redistribute it and/or modify it under the"
+" terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version 2 of the License, or (at your option) any later "
+"version."
+msgstr ""
+"远程桌面客户端是自由软件，你可以遵照自由软件基金会出版的GNU通用公共许可证条款来修改和重新发布这一程序。或者用许可证的第二版，或者（根据你的选择）用任何更新的版本。"
+
+msgid "Remote"
+msgstr "远程"
+
+msgid "Remote Desktop Client"
+msgstr "远程桌面客户端"
+
+msgid "Remote Desktop Preference"
+msgstr "远程桌面设定"
+
+msgid "RemoteFX (32 bpp)"
+msgstr "RemoteFX (32 bpp)"
+
+msgid "Repeater"
+msgstr "中继器"
+
+msgid "Resize the window to fit in remote resolution"
+msgstr "调整窗口大小以适应远程分辨率"
+
+msgid "Resolution"
+msgstr "分辨率"
+
+msgid "Resolutions"
+msgstr "分辨率"
+
+msgid "Restore"
+msgstr "恢复"
+
+msgid "Resume"
+msgstr "恢复"
+
+msgid "SFTP - Secure File Transfer"
+msgstr "SFTP - 安全文件传输"
+
+msgid "SSH - Secure Shell"
+msgstr "SSH - 安全Shell连接"
+
+msgid "SSH Authentication"
+msgstr "SSH验证"
+
+msgid "SSH Key file not yet set."
+msgstr "未设置私钥文件"
+
+msgid "SSH automatic public key authentication failed: %s"
+msgstr "SSH公钥验证失败: %s"
+
+msgid "SSH password"
+msgstr "SSH密码"
+
+msgid "SSH password authentication failed: %s"
+msgstr "SSH密码验证失败: %s"
+
+msgid "SSH private key passphrase"
+msgstr "SSH私钥密码"
+
+msgid "SSH public key authentication failed: %s"
+msgstr "SSH公钥验证失败: %s"
+
+msgid "SSH tunnel local port"
+msgstr "SSH通道本地端口"
+
+msgid "Same server at port %i"
+msgstr "相同主机上的%i端口"
+
+msgid "Save %s"
+msgstr "保存%s"
+
+msgid "Save password"
+msgstr "保存密码"
+
+msgid "Save settings when starting the connection"
+msgstr "连接时保存设置"
+
+msgid "Scale quality"
+msgstr "缩放质量"
+
+msgid "Scrollback lines"
+msgstr "向后滚动的行数"
+
+msgid "Scrolled fullscreen"
+msgstr "滚动全屏"
+
+msgid "Scrolled fullscreen mode"
+msgstr "滚动全屏模式"
+
+msgid "Scrolled window"
+msgstr "滚动视窗"
+
+msgid "Secret"
+msgstr "机密"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Server"
+msgstr "服务器"
+
+msgid "Share folder"
+msgstr "共享目录"
+
+msgid "Share local printers"
+msgstr "共享本地打印机"
+
+msgid "Share smartcard"
+msgstr "共享智能卡"
+
+msgid "Show / hide toolbar"
+msgstr "显示/隐藏工具栏"
+
+msgid "Show Hidden Files"
+msgstr "显示隐藏文件"
+
+msgid "Show new connection on top of the menu"
+msgstr "在顶部显示新连接菜单项"
+
+msgid "Show remote cursor"
+msgstr "显示远程光标"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Small Toolbar Buttons"
+msgstr "工具栏小按钮"
+
+msgid "Sound"
+msgstr "声音"
+
+msgid "Start"
+msgstr "启动"
+
+msgid "Start Remmina Minimized"
+msgstr "启动后自动最小化"
+
+msgid "Start Remmina in tray icon at user logon"
+msgstr "启动后在托盘区显示图标"
+
+msgid "Startup path"
+msgstr "启动路径"
+
+msgid "Startup program"
+msgstr "启动程序"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Statusbar"
+msgstr "状态栏"
+
+msgid "Subject:"
+msgstr "主题:"
+
+msgid "Switch tab pages"
+msgstr "转换标签页"
+
+msgid "Tab all connections"
+msgstr "全部"
+
+msgid "Tab by groups"
+msgstr "按分组"
+
+msgid "Tab by protocols"
+msgstr "按协议"
+
+msgid "Tab interface"
+msgstr "标签页界面"
+
+msgid "Telepathy - Desktop Sharing"
+msgstr "Telepathy - 桌面共享"
+
+msgid "Terminal"
+msgstr "终端"
+
+msgid "Terminate"
+msgstr "终止"
+
+msgid "Terminating"
+msgstr "正在终止"
+
+msgid "The GTK+ Remote Desktop Client"
+msgstr "GTK+远程桌面客户端"
+
+msgid "The following file already exists in the target folder:"
+msgstr "目标文件夹中已经存在如下文件："
+
+msgid "The server is unknown. The public key fingerprint is:"
+msgstr "服务器未知，其公钥指纹为："
+
+msgid "Theme"
+msgstr "主题"
+
+msgid ""
+"There are %i active connections in the current window. Are you sure to "
+"close?"
+msgstr "当前窗口已打开 %i 个连接。确认要关闭吗？"
+
+msgid "This protocol does not support exporting."
+msgstr "此协议不支持导出"
+
+msgid "Tiles"
+msgstr "Tiles"
+
+msgid "Toggle fullscreen mode"
+msgstr "启用全屏模式"
+
+msgid "Toggle scaled mode"
+msgstr "启用图像缩放模式"
+
+msgid "Tool"
+msgstr "工具"
+
+msgid "Toolbar"
+msgstr "工具栏"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Total %i item."
+msgid_plural "Total %i items."
+msgstr[0] "共%i项"
+
+msgid "Tree View"
+msgstr "目录视图"
+
+msgid "True color (24 bit)"
+msgstr "真彩(24位)"
+
+msgid "True color (24 bpp)"
+msgstr "真彩色 (24 bpp)"
+
+msgid "True color (32 bpp)"
+msgstr "真彩色 (32 bpp)"
+
+msgid "Tunnel via loopback address"
+msgstr "通过loopback地址建立隧道"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Unable to connect to RDP server %s"
+msgstr "无法连接到 RDP 服务器 %s"
+
+msgid "Unable to connect to VNC server"
+msgstr "无法连接到 VNC 服务器"
+
+msgid ""
+"Unable to import:\n"
+"%s"
+msgstr ""
+"无法导入：\n"
+"%s"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Upload folder"
+msgstr "上传文件夹"
+
+msgid "Upload to server"
+msgstr "上传到服务器"
+
+msgid "Use '%s' as subgroup delimiter"
+msgstr "使用'%s'作为分组分隔符"
+
+msgid "Use client keyboard mapping"
+msgstr "使用客户端键盘映射"
+
+msgid "Use client resolution"
+msgstr "使用客户机的分辨率"
+
+msgid "Use local cursor"
+msgstr "使用本地光标"
+
+msgid "Use system default font"
+msgstr "使用系统默认字体"
+
+msgid "Use window size"
+msgstr "跟随窗口大小"
+
+msgid "User"
+msgstr "用户名"
+
+msgid "User name"
+msgstr "用户名"
+
+msgid "VNC - Incoming Connection"
+msgstr "VNC - 入站连接"
+
+msgid "VNC - Virtual Network Computing"
+msgstr "VNC - 虚拟网络计算"
+
+msgid "VNC connection failed: %s"
+msgstr "VNC 连接失败：%s"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Vertical scale"
+msgstr "垂直缩放比例"
+
+msgid "View only"
+msgstr "仅查看"
+
+msgid "Viewport fullscreen"
+msgstr "视口全屏"
+
+msgid "Viewport fullscreen mode"
+msgstr "视口全屏模式"
+
+msgid ""
+"WARNING: The server has changed its public key. This means either you are under attack,\n"
+"or the administrator has changed the key. The new public key fingerprint is:"
+msgstr "警告：服务器的公钥发生了改变。这意味着您或者正遭受攻击，或者服务器管理员修改了密钥。新的公钥指纹为："
+
+msgid "Waiting for an incoming SSH tunnel at port %i..."
+msgstr "在端口%i等待传入的SSH通道"
+
+msgid "Wallpaper"
+msgstr "壁纸"
+
+msgid "Window drag"
+msgstr "窗口拖放"
+
+msgid "XDMCP - X Remote Session"
+msgstr "XDMCP - X 远程会话"
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 59 "
+"Temple Place, Suite 330, Boston, MA 02111-1307, USA."
+msgstr ""
+"你应该已经和程序一起收到一份GNU通用公共许可证的副本。如果还没有，写信给：The Free Software Foundation, Inc., "
+"675 Mass Ave, Cambridge, MA02139, USA。还应加上如何和你保持联系的信息。"
+
+msgid "Your connection has been rejected."
+msgstr "连接被拒绝"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Clear"
+msgstr "清除(_C)"
+
+msgid "_Connection"
+msgstr "连接(_C)"
+
+msgid "_Delete"
+msgstr "删除(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_OK"
+msgstr "确定(_O)"
+
+msgid "_Open"
+msgstr "打开(_O)"
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "_Send"
+msgstr "发送(_S)"
+
+msgid "_Tools"
+msgstr "工具(_T)"
+
+msgid "_View"
+msgstr "视图(_V)"
+
+msgid "translator-credits"
+msgstr ""
+"远程桌面客户端的简体中文翻译由作者本人完成\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Heling Yao https://launchpad.net/~hyao\n"
+"  Vic https://launchpad.net/~llyzs\n"
+"  Wang Dianjin https://launchpad.net/~tuhaihe\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  shijing https://launchpad.net/~shijing"

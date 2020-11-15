@@ -1,0 +1,682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: apt 0.8.0~pre1\n"
+"Report-Msgid-Bugs-To: APT Development Team <deity@lists.debian.org>\n"
+"POT-Creation-Date: 2016-03-25 09:30+0100\n"
+"PO-Revision-Date: 2016-03-24 08:34+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:48+0000\n"
+
+msgid "%c%s... Done"
+msgstr "%c%s... 完成"
+
+msgid "%c%s... Error!"
+msgstr "%c%s... 有错误！"
+
+msgid "%lid %lih %limin %lis"
+msgstr "%li天 %li小时 %li分 %li秒"
+
+msgid "%lih %limin %lis"
+msgstr "%li小时 %li分 %li秒"
+
+msgid "%limin %lis"
+msgstr "%li分 %li秒"
+
+msgid "%lis"
+msgstr "%li秒"
+
+msgid "Archives directory %spartial is missing."
+msgstr "仓库目录 %spartial 确实。"
+
+msgid "Breaks"
+msgstr "破坏"
+
+msgid "Building dependency tree"
+msgstr "正在分析软件包的依赖关系树"
+
+msgid "Cache has an incompatible versioning system"
+msgstr "软件包暂存区使用的是不兼容的版本控制系统"
+
+msgid "Can't find authentication record for: %s"
+msgstr "无法找到认证记录：%s"
+
+msgid "Can't mmap an empty file"
+msgstr "无法 mmap 一个空文件"
+
+msgid "Can't select candidate version from package %s as it has no candidate"
+msgstr "因为软件包 %s 没有候选版本，无法进行选择"
+
+msgid ""
+"Can't select installed nor candidate version from package '%s' as it has "
+"neither of them"
+msgstr "因为软件包 %s 没有已安装或候选的版本，无法进行选择"
+
+msgid "Can't select installed version from package %s as it is not installed"
+msgstr "因为软件包 %s 没有安装，无法选择它的已安装版本"
+
+msgid "Can't select newest version from package '%s' as it is purely virtual"
+msgstr "因为软件包 %s 是完全的虚拟软件包，无法选择它的最新版"
+
+msgid "Can't select versions from package '%s' as it is purely virtual"
+msgstr "无法从完全虚拟的软件包 %s 中选择版本"
+
+msgid "Candidate versions"
+msgstr "候选版本"
+
+msgid "Command line option %s is not boolean"
+msgstr "命令行选项 %s 不是布尔值"
+
+msgid "Completely removed %s"
+msgstr "完全删除了 %s"
+
+msgid "Completely removing %s"
+msgstr "完全删除 %s"
+
+msgid "Configuring %s"
+msgstr "正在配置 %s"
+
+msgid "Conflicting distribution: %s (expected %s but got %s)"
+msgstr "冲突的发行版：%s (期望 %s 但得到 %s)"
+
+msgid "Conflicts"
+msgstr "冲突"
+
+msgid "Copying package lists..."
+msgstr "正在复制软件包列表……"
+
+msgid "Could not configure '%s'. "
+msgstr "无法配置 %s。 "
+
+msgid "Could not get lock %s"
+msgstr "无法获得锁 %s"
+
+msgid "Could not open file %s"
+msgstr "无法打开文件 %s"
+
+msgid "Could not open file '%s'"
+msgstr "无法打开文件 %s"
+
+msgid "Could not open file descriptor %d"
+msgstr "无法打开文件描述符 %d"
+
+msgid "Could not open lock file %s"
+msgstr "无法打开锁文件 %s"
+
+msgid ""
+"Could not perform immediate configuration on '%s'. Please see man 5 apt.conf"
+" under APT::Immediate-Configure for details. (%d)"
+msgstr "无法立即对 %s 进行配置。请查看 man 5 apt.conf 中的 APT::Immediate-Configure (%d)"
+
+msgid "Couldn't duplicate file descriptor %i"
+msgstr "无法为复制文件描述符 %i"
+
+msgid "Couldn't find any package by regex '%s'"
+msgstr "无法按照正则表达式 %s 找到任何软件包"
+
+msgid "Couldn't find task '%s'"
+msgstr "无法找到任务 %s"
+
+msgid "Couldn't make mmap of %llu bytes"
+msgstr "无法 mmap %llu 字节的数据"
+
+msgid "Couldn't make mmap of %lu bytes"
+msgstr "无法 mmap %lu 字节的数据"
+
+msgid "Dependency generation"
+msgstr "生成依赖关系"
+
+msgid "Depends"
+msgstr "依赖"
+
+msgid "Did not understand pin type %s"
+msgstr "无法识别锁定的类型 %s"
+
+msgid "Directory '%s' missing"
+msgstr "目录 %s 缺失"
+
+msgid "Empty package cache"
+msgstr "软件包缓存区是空的"
+
+msgid "Enhances"
+msgstr "增强"
+
+msgid "Error occurred while processing %s (%s%d)"
+msgstr "处理 %s (%s%d) 时出错"
+
+msgid ""
+"Error, pkgProblemResolver::Resolve generated breaks, this may be caused by "
+"held packages."
+msgstr "错误，pkgProblemResolver::Resolve 发生故障，这可能是有软件包被要求保持现状的缘故。"
+
+msgid "Execute external solver"
+msgstr "执行外部solver"
+
+msgid "External solver failed without a proper error message"
+msgstr "外部solver出错，错误信息不恰当"
+
+msgid "Failed to create subprocess IPC"
+msgstr "无法创建子进程的 IPC 管道"
+
+msgid "Failed to exec compressor "
+msgstr "无法执行压缩程序 "
+
+msgid "Failed to open StateFile %s"
+msgstr "无法打开状态文件 %s"
+
+msgid "Failed to stat the cdrom"
+msgstr "无法读取盘片的状态"
+
+msgid "Failed to truncate file"
+msgstr "无法截断文件"
+
+msgid "Failed to write temporary StateFile %s"
+msgstr "无法写入临时状态文件 %s"
+
+msgid ""
+"Found %zu package indexes, %zu source indexes, %zu translation indexes and "
+"%zu signatures\n"
+msgstr "找到了 %zu 个软件包索引、%zu 个源代码包索引、%zu 个翻译索引和 %zu 个数字签名\n"
+
+msgid "Found label '%s'\n"
+msgstr "找到标签 '%s'\n"
+
+msgid "GPG error: %s: %s"
+msgstr "GPG 错误：%s: %s"
+
+msgid "Hash Sum mismatch"
+msgstr "Hash 校验和不符"
+
+msgid "Hash mismatch for: %s"
+msgstr "Hash 校验和不符：%s"
+
+msgid ""
+"I wasn't able to locate a file for the %s package. This might mean you need "
+"to manually fix this package. (due to missing arch)"
+msgstr "无法找到 %s 软件包的一个文件。这可能意味着您需要手动修复该软件包。(由于缺失的体系)"
+
+msgid "IO Error saving source cache"
+msgstr "无法读取或写入软件源缓存"
+
+msgid "Ignoring '%s' in directory '%s' as it is not a regular file"
+msgstr "忽略‘%s’(于目录‘%s’)，鉴于它不是一个常规文件"
+
+msgid ""
+"Ignoring file '%s' in directory '%s' as it has an invalid filename extension"
+msgstr "忽略‘%s’(于目录‘%s’)，鉴于它的文件扩展名无效"
+
+msgid "Ignoring file '%s' in directory '%s' as it has no filename extension"
+msgstr "忽略‘%s’(于目录‘%s’)，鉴于它没有文件扩展名"
+
+msgid "Index file type '%s' is not supported"
+msgstr "不支持索引文件类型“%s”"
+
+msgid "Installed %s"
+msgstr "已安装 %s"
+
+msgid "Installing %s"
+msgstr "正在安装 %s"
+
+msgid "Invalid 'Date' entry in Release file %s"
+msgstr "软件包仓库 Release 文件 %s 内 Date 条目无效"
+
+msgid "Invalid 'Valid-Until' entry in Release file %s"
+msgstr "软件包仓库 Release 文件 %s 内 Valid-Until 条目无效"
+
+msgid "Invalid operation %s"
+msgstr "无效的操作 %s"
+
+msgid "Invalid record in the preferences file %s, no Package header"
+msgstr "首选项文件 %s 中发现有无效的记录，无 Package 字段头"
+
+msgid "Line %u too long in source list %s."
+msgstr "源列表 %2$s 的第 %1$u 行太长了。"
+
+msgid "List directory %spartial is missing."
+msgstr "软件包列表的目录 %spartial 缺失。"
+
+msgid "List of files can't be created as '%s' is not a directory"
+msgstr "无法创建文件列表，因为‘%s’不是一个目录"
+
+msgid "Malformed line %u in source list %s (type)"
+msgstr "在源列表 %2$s 中第 %1$u 行的格式有误(类型)"
+
+msgid "Method %s did not start correctly"
+msgstr "获取软件包的渠道 %s 所需的驱动程序没有正常启动。"
+
+msgid "Mounting CD-ROM...\n"
+msgstr "正在挂载 CD-ROM 文件系统……\n"
+
+msgid "No Hash entry in Release file %s"
+msgstr "软件包仓库 Release 文件 %s 内无哈希条目"
+
+msgid "No apport report written because MaxReports is reached already"
+msgstr "由于已经达到 MaxReports 限制，没有写入 apport 报告。"
+
+msgid ""
+"No apport report written because the error message indicates a disk full "
+"error"
+msgstr "因为错误消息指示这是由于磁盘已满，没有写入 apport 报告。"
+
+msgid ""
+"No apport report written because the error message indicates a dpkg I/O "
+"error"
+msgstr "因为错误消息指示这是一个 dpkg I/O 错误，没有写入 apport 报告。"
+
+msgid ""
+"No apport report written because the error message indicates a out of memory"
+" error"
+msgstr "因为错误消息指示这是由于内存不足，没有写入 apport 报告。"
+
+msgid ""
+"No apport report written because the error message indicates an issue on the"
+" local system"
+msgstr "错误信息显示本地系统有一些问题，因此没有写入 apport 报告"
+
+msgid ""
+"No apport report written because the error message indicates its a followup "
+"error from a previous failure."
+msgstr "因为错误消息指示这是由于上一个问题导致的错误，没有写入 apport 报告。"
+
+msgid "No priority (or zero) specified for pin"
+msgstr "没有为版本锁定指定优先级(或为零)"
+
+msgid "No sections in Release file %s"
+msgstr "软件包仓库 Release 文件 %s 内无组件章节信息"
+
+msgid "Not locked"
+msgstr "未锁定"
+
+msgid "Not using locking for nfs mounted lock file %s"
+msgstr "无法在 nfs 文件系统上使用文件锁 %s"
+
+msgid "Not using locking for read only lock file %s"
+msgstr "由于文件系统为只读，因而无法使用文件锁 %s"
+
+msgid "Noting disappearance of %s"
+msgstr "注意到 %s 已经消失"
+
+msgid "Obsoletes"
+msgstr "废弃"
+
+msgid "Opening %s"
+msgstr "正在打开 %s"
+
+msgid "Opening configuration file %s"
+msgstr "正在打开配置文件 %s"
+
+msgid "Operation was interrupted before it could finish"
+msgstr "操作在完成之前被打断"
+
+msgid "Option %s requires an argument."
+msgstr "选项 %s 要求有一个参数"
+
+msgid "Option %s requires an integer argument, not '%s'"
+msgstr "选项 %s 要求有一个整数作为参数，而不是“%s”"
+
+msgid "Option %s: Configuration item specification must have an =<val>."
+msgstr "选项 %s：配置项后必须包含有形如“=<变量>”的具体指定"
+
+msgid "Option '%s' is too long"
+msgstr "选项“%s”太长"
+
+msgid "Packaging system '%s' is not supported"
+msgstr "不支持“%s”打包系统"
+
+msgid "PreDepends"
+msgstr "预依赖"
+
+msgid "Prepare for receiving solution"
+msgstr "准备接收解决方案"
+
+msgid "Preparing %s"
+msgstr "正在准备 %s"
+
+msgid "Preparing for removal of %s"
+msgstr "正在准备 %s 的删除操作"
+
+msgid "Preparing to completely remove %s"
+msgstr "正在准备完全删除 %s"
+
+msgid "Preparing to configure %s"
+msgstr "正在准备配置 %s"
+
+msgid "Problem closing the file %s"
+msgstr "关闭文件 %s 出错"
+
+msgid "Problem closing the gzip file %s"
+msgstr "关闭 gzip %s 文件出错"
+
+msgid "Problem renaming the file %s to %s"
+msgstr "重命名文件 %s 为 %s 出错"
+
+msgid "Problem syncing the file"
+msgstr "同步文件出错"
+
+msgid "Problem unlinking the file %s"
+msgstr "用 unlink 删除文件 %s 出错"
+
+msgid "Read error"
+msgstr "读错误"
+
+msgid "Reading package lists"
+msgstr "正在读取软件包列表"
+
+msgid "Reading state information"
+msgstr "正在读取状态信息"
+
+msgid "Recommends"
+msgstr "推荐"
+
+msgid "Regex compilation error - %s"
+msgstr "编译正则表达式时出错 - %s"
+
+msgid "Release '%s' for '%s' was not found"
+msgstr "未找到“%2$s”的“%1$s”发布版本"
+
+msgid ""
+"Release file for %s is expired (invalid since %s). Updates for this "
+"repository will not be applied."
+msgstr "%s 的 Release 文件已经过期(invalid since %s)。该仓库的更新将不会被应用。"
+
+msgid "Removed %s"
+msgstr "已删除 %s"
+
+msgid "Removing %s"
+msgstr "正在删除 %s"
+
+msgid "Replaces"
+msgstr "替换"
+
+msgid "Retrieving file %li of %li"
+msgstr "正在下载第 %li 个文件，共 %li 个"
+
+msgid "Retrieving file %li of %li (%s remaining)"
+msgstr "正在下载第 %li 个文件，共 %li 个(还剩 %s 个)"
+
+msgid "Running dpkg"
+msgstr "正在运行 dpkg"
+
+msgid "Running post-installation trigger %s"
+msgstr "执行安装后执行的触发器 %s"
+
+msgid "Selection %s not found"
+msgstr "找不到您选则的 %s"
+
+msgid "Send request to solver"
+msgstr "向solver发送请求"
+
+msgid "Send scenario to solver"
+msgstr "向solver发送情景"
+
+msgid "Sense %s is not understood, try true or false."
+msgstr "不能识别参数 %s，请用 true 或 false"
+
+msgid "Size mismatch"
+msgstr "大小不符"
+
+msgid ""
+"Some index files failed to download. They have been ignored, or old ones "
+"used instead."
+msgstr "部分索引文件下载失败。如果忽略它们，那将转而使用旧的索引文件。"
+
+msgid "Source list entries for this disc are:\n"
+msgstr "对应于该盘片的软件源设置项是：\n"
+
+msgid "Stored label: %s\n"
+msgstr "已归档文件的标签：%s\n"
+
+msgid "Sub-process %s exited unexpectedly"
+msgstr "子进程 %s 异常退出"
+
+msgid "Sub-process %s received a segmentation fault."
+msgstr "子进程 %s 发生了段错误"
+
+msgid "Sub-process %s received signal %u."
+msgstr "子进程 %s 收到信号 %u。"
+
+msgid "Sub-process %s returned an error code (%u)"
+msgstr "子进程 %s 返回了一个错误号 (%u)"
+
+msgid "Suggests"
+msgstr "建议"
+
+msgid "Syntax error %s:%u: Block starts with no name."
+msgstr "语法错误 %s:%u：配置小节没有以名字开头"
+
+msgid "Syntax error %s:%u: Directives can only be done at the top level"
+msgstr "语法错误 %s:%u：只能在顶层配置文件中使用指示"
+
+msgid "Syntax error %s:%u: Extra junk after value"
+msgstr "语法错误 %s:%u：配置值后有多余的无意义数据"
+
+msgid "Syntax error %s:%u: Extra junk at end of file"
+msgstr "语法错误 %s:%u：文件尾部有多余的无意义的数据"
+
+msgid "Syntax error %s:%u: Included from here"
+msgstr "语法错误 %s:%u：Included from here"
+
+msgid "Syntax error %s:%u: Malformed tag"
+msgstr "语法错误 %s:%u：标签格式有误"
+
+msgid "Syntax error %s:%u: Too many nested includes"
+msgstr "语法错误 %s:%u：太多的嵌套 include 命令"
+
+msgid "Syntax error %s:%u: Unsupported directive '%s'"
+msgstr "语法错误 %s:%u：不支持的指令“%s”"
+
+msgid ""
+"Syntax error %s:%u: clear directive requires an option tree as argument"
+msgstr "语法错误 %s:%u：clean 指令需要一个选项树作为参数"
+
+msgid "That is not a valid name, try again.\n"
+msgstr "这不是一个有效的名字，请重试。\n"
+
+msgid "The list of sources could not be read."
+msgstr "无法读取源列表。"
+
+msgid "The method driver %s could not be found."
+msgstr "无法找到获取软件包的渠道 %s 所需的驱动程序。"
+
+msgid ""
+"The package %s needs to be reinstalled, but I can't find an archive for it."
+msgstr "软件包 %s 需要重新安装，但是我无法找到相应的安装文件。"
+
+msgid "The package cache file is an incompatible version"
+msgstr "软件包缓存区文件的版本不兼容"
+
+msgid "The package cache file is corrupted"
+msgstr "软件包缓存文件损坏了"
+
+msgid ""
+"The package index files are corrupted. No Filename: field for package %s."
+msgstr "软件包的索引文件已损坏。找不到对应软件包 %s 的 Filename: 字段。"
+
+msgid "The package lists or status file could not be parsed or opened."
+msgstr "无法解析或打开软件包的列表或是状态文件。"
+
+msgid ""
+"The value '%s' is invalid for APT::Default-Release as such a release is not "
+"available in the sources"
+msgstr "'%s' 这个值对 APT::Default-Release 是无效的，因为在源里找不到这样的发行"
+
+msgid "There is no public key available for the following key IDs:\n"
+msgstr "以下 ID 的密钥没有可用的公钥：\n"
+
+msgid "This APT does not support the versioning system '%s'"
+msgstr "本程序目前不支持“%s”版本系统"
+
+msgid ""
+"This disc is called: \n"
+"'%s'\n"
+msgstr ""
+"这张盘片现在的名字是：\n"
+"“%s”\n"
+
+msgid ""
+"This installation run will require temporarily removing the essential "
+"package %s due to a Conflicts/Pre-Depends loop. This is often bad, but if "
+"you really want to do it, activate the APT::Force-LoopBreak option."
+msgstr ""
+"由于这次安装存在着一个 Conflicts/Pre-Depends 循环，因而需要暂时删除一个必不可少的软件包 "
+"%s。通常并不建议这样做，但是如果您确实希望如此，可以打开 APT::Force-LoopBreak 选项。"
+
+msgid "Type '%s' is not known on line %u in source list %s"
+msgstr "无法识别在源列表 %3$s 里，第 %2$u 行中的软件包类别“%1$s”"
+
+msgid "Unable to change to %s"
+msgstr "无法切换工作目录到 %s"
+
+msgid "Unable to close mmap"
+msgstr "无法关闭 mmap"
+
+msgid "Unable to correct problems, you have held broken packages."
+msgstr "无法修正错误，因为您要求某些软件包保持现状，就是它们破坏了软件包间的依赖关系。"
+
+msgid "Unable to determine a suitable packaging system type"
+msgstr "无法确定适合的打包系统类型"
+
+msgid ""
+"Unable to find expected entry '%s' in Release file (Wrong sources.list entry"
+" or malformed file)"
+msgstr "在 Release 文件中找不到期望的条目 %s（sources.list条目有误，或者文件有误）"
+
+msgid ""
+"Unable to increase size of the MMap as automatic growing is disabled by "
+"user."
+msgstr "无法增加 MMap 大小，因为用户已禁用自动增加。"
+
+msgid ""
+"Unable to increase the size of the MMap as the limit of %lu bytes is already"
+" reached."
+msgstr "无法增加 MMap 的大小，因为已经达到 %lu 字节的限制。"
+
+msgid ""
+"Unable to locate any package files, perhaps this is not a Debian Disc or the"
+" wrong architecture?"
+msgstr "无法确定任何包文件的位置，可能这不是一张 Debian 盘片或者是选择了错误的硬件构架。"
+
+msgid "Unable to locate package %s"
+msgstr "未发现软件包 %s"
+
+msgid "Unable to lock directory %s"
+msgstr "无法对目录 %s 加锁"
+
+msgid "Unable to lock the administration directory (%s), are you root?"
+msgstr "无法对状态列表目录加锁(%s)，请查看您是否正以 root 用户运行？"
+
+msgid ""
+"Unable to lock the administration directory (%s), is another process using "
+"it?"
+msgstr "无法锁定管理目录(%s)，是否有其他进程正占用它？"
+
+msgid "Unable to parse Release file %s"
+msgstr "无法解析软件包仓库 Release 文件 %s"
+
+msgid "Unable to read %s"
+msgstr "无法读取 %s"
+
+msgid "Unable to stat %s."
+msgstr "无法读取 %s 的状态。"
+
+msgid "Unable to stat the mount point %s"
+msgstr "无法读取文件系统挂载点 %s 的状态"
+
+msgid "Unable to synchronize mmap"
+msgstr "无法同步 mmap"
+
+msgid "Unable to write to %s"
+msgstr "无法写入 %s"
+
+msgid "Unmounting CD-ROM...\n"
+msgstr "正在卸载 CD-ROM...\n"
+
+msgid "Unpacking %s"
+msgstr "正在解压缩 %s"
+
+msgid "Unrecognized type abbreviation: '%c'"
+msgstr "无法识别的类型缩写：“%c”"
+
+msgid "Using CD-ROM mount point %s\n"
+msgstr "现把 %s 作为了 CD-ROM 的挂载点\n"
+
+msgid "Version '%s' for '%s' was not found"
+msgstr "未找到“%2$s”的“%1$s”版本"
+
+msgid "Waited for %s but it wasn't there"
+msgstr "等待子进程 %s 的退出，但是它并不存在"
+
+msgid "Waiting for disc...\n"
+msgstr "等待插入盘片……\n"
+
+msgid "Wow, you exceeded the number of dependencies this APT is capable of."
+msgstr "哇，依赖关系数量超出了本 APT 的处理能力。"
+
+msgid "Wow, you exceeded the number of descriptions this APT is capable of."
+msgstr "哇，软件包说明数量超出了本 APT 的处理能力。"
+
+msgid "Wow, you exceeded the number of package names this APT is capable of."
+msgstr "哇，软件包数量超出了本 APT 的处理能力。"
+
+msgid "Wow, you exceeded the number of versions this APT is capable of."
+msgstr "哇，软件包版本数量超出了本 APT 的处理能力。"
+
+msgid "Write error"
+msgstr "写出错"
+
+msgid "Writing new source list\n"
+msgstr "正在写入新的源列表\n"
+
+msgid "Wrote %i records with %i mismatched files\n"
+msgstr "已写入 %i 条记录，并有 %i 个文件不匹配\n"
+
+msgid "Wrote %i records with %i missing files and %i mismatched files\n"
+msgstr "已写入 %i 条记录，并有 %i 个缺失，以及 %i 个文件不匹配\n"
+
+msgid "Wrote %i records with %i missing files.\n"
+msgstr "已写入 %i 条记录，并有 %i 个文件缺失。\n"
+
+msgid "Wrote %i records.\n"
+msgstr "已写入 %i 条记录。\n"
+
+msgid "You may want to run apt-get update to correct these problems"
+msgstr "您可能需要运行 apt-get update 来解决这些问题"
+
+msgid "You must put some 'source' URIs in your sources.list"
+msgstr "您必须在您的 sources.list 写入一些“软件源”的 URI"
+
+msgid "dependency problems - leaving unconfigured"
+msgstr "依赖问题 - 保持未配置"
+
+msgid ""
+"dpkg was interrupted, you must manually run '%s' to correct the problem. "
+msgstr "dpkg 被中断，您必须手工运行 %s 解决此问题。 "
+
+msgid "extra"
+msgstr "额外"
+
+msgid "important"
+msgstr "重要"
+
+msgid "optional"
+msgstr "可选"
+
+msgid "read, still have %llu to read but none left"
+msgstr "还剩 %llu 字节没有读出，但已没有可读信息"
+
+msgid "rename failed, %s (%s -> %s)."
+msgstr "无法重命名文件，%s (%s -> %s)。"
+
+msgid "required"
+msgstr "必需"
+
+msgid "standard"
+msgstr "标准"
+
+msgid "write, still have %llu to write but couldn't"
+msgstr "还剩 %llu 字节没有写入，但无法写入操作"

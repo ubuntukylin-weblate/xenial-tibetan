@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vte master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-06 10:12+0000\n"
+"PO-Revision-Date: 2016-02-08 00:36+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:56+0000\n"
+
+msgid "Attempt to set invalid NRC map '%c'."
+msgstr "试图设置无效的 NRC 映射“%c”。"
+
+msgid "Attempt to set invalid wide NRC map '%c'."
+msgstr "试图设置无效的宽 NRC 映射“%c”。"
+
+msgid "Could not open console.\n"
+msgstr "无法打开控制台。\n"
+
+msgid "Could not parse the geometry spec passed to --geometry"
+msgstr "无法解析传递给 --geometry 的几何参数"
+
+msgid "Duplicate (%s/%s)!"
+msgstr "重复 (%s/%s)！"
+
+msgid "Error (%s) converting data for child, dropping."
+msgstr "从子程序转换数据时出错 (%s)，放弃。"
+
+msgid "Error compiling regular expression \"%s\"."
+msgstr "计算正则表达式“%s”时出错。"
+
+msgid "Error creating signal pipe."
+msgstr "创建信号管道出错。"
+
+msgid "Error reading PTY size, using defaults: %s."
+msgstr "读取 PTY 的尺寸时出错，使用默认值：%s。"
+
+msgid "Error reading from child: %s."
+msgstr "从子程序读取数据时出错：%s"
+
+msgid "Error setting PTY size: %s."
+msgstr "设置 PTY 的尺寸时出错：%s。"
+
+msgid "Got unexpected (key?) sequence `%s'."
+msgstr "收到预料之外的字符序列(可能是按键?)“%s”。"
+
+msgid "No handler for control sequence `%s' defined."
+msgstr "控制字符序列“%s”的处理程序未定义。"
+
+msgid "Unable to convert characters from %s to %s."
+msgstr "无法将字符从 %s 转换至 %s。"
+
+msgid "Unable to send data to child, invalid charset convertor"
+msgstr "无法给子进程发送数据，字符集转换器非法"
+
+msgid "Unknown pixel mode %d.\n"
+msgstr "未知的像素模式 %d。\n"
+
+msgid "Unrecognized identified coding system."
+msgstr "不可识别的标识代码系统。"
+
+msgid "_vte_conv_open() failed setting word characters"
+msgstr "_vte_conv_open() 设置单词字符失败"
+
+msgid "can not run %s"
+msgstr "无法执行 %s"

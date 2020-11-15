@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: devhelp master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=devhelp&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-02-16 12:08+0000\n"
+"PO-Revision-Date: 2016-02-18 04:57+0000\n"
+"Last-Translator: Tong Hui <Unknown>\n"
+"Language-Team: Chinese Simplified <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:58+0000\n"
+
+msgid "\"name\" and \"link\" elements are required inside '%s' on line %d, column %d"
+msgstr "在“%s”内第%d行，第%d列，需要指定元素“name”和“link”"
+
+msgid "\"name\" and \"link\" elements are required inside <sub> on line %d, column %d"
+msgstr "在<sub>内第%d行，第%d列，需要指定元素“name”和“link”"
+
+msgid "\"title\", \"name\" and \"link\" elements are required at line %d, column %d"
+msgstr "在第%d行，第%d列，需要指定元素“title”，“name”，和“link”"
+
+msgid "\"type\" element is required inside <keyword> on line %d, column %d"
+msgstr "在 <keyword> 内第%d行，第%d列，需要指定元素“name”和“link”"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "175%"
+msgstr "175%"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "A developers' help browser for GNOME"
+msgstr "GNOME 开发者帮助浏览器"
+
+msgid "Back"
+msgstr "后退"
+
+msgid "Book"
+msgstr "书籍"
+
+msgid "Book Shelf"
+msgstr "书架"
+
+msgid "Book:"
+msgstr "书籍："
+
+msgid "Books disabled"
+msgstr "已禁用的书籍"
+
+msgid "Cannot uncompress book '%s': %s"
+msgstr "无法解压缩书籍“%s”：%s"
+
+msgid "Developer's Help program"
+msgstr "开发者帮助程序"
+
+msgid "Devhelp"
+msgstr "Devhelp"
+
+msgid ""
+"Devhelp integrates with other applications such as Glade, Anjuta, or Geany."
+msgstr "Devhelp 与 Glade、Anjuta 或 Geany 等软件实现了集成。"
+
+msgid ""
+"Devhelp is an API documentation browser. It provides an easy way to navigate"
+" through libraries, search by function, struct, or macro. It provides a "
+"tabbed interface and allows to print results."
+msgstr "Devhelp 是一款 API 文档浏览器。它提供了简便的查看库，搜索函数、结构体或宏的功能。它拥有标签页式的界面，并可以打印结果。"
+
+msgid "Devhelp support"
+msgstr "Devhelp 支持"
+
+msgid "Devhelp — Assistant"
+msgstr "Devhelp - 助手"
+
+msgid "Display the version and exit"
+msgstr "显示版本后退出"
+
+msgid "Documentation Browser"
+msgstr "文档浏览器"
+
+msgid "Empty Page"
+msgstr "空白页"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Enum"
+msgstr "枚举"
+
+msgid "Error opening the requested link."
+msgstr "在打开需要的链接时出错。"
+
+msgid "Expected '%s', got '%s' at line %d, column %d"
+msgstr "需要“%s”但得到“%s”(第%d行，第%d列)"
+
+msgid "Font for fixed width text"
+msgstr "固定宽度文本字体"
+
+msgid "Font for text"
+msgstr "普通文本字体"
+
+msgid "Font for text with fixed width, such as code examples."
+msgstr "固定宽度文本使用的字体，例如示例代码。"
+
+msgid "Font for text with variable width."
+msgstr "变动宽度文本使用的字体。"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "Forward"
+msgstr "前进"
+
+msgid "Function"
+msgstr "函数"
+
+msgid "Group by language"
+msgstr "按语言分组"
+
+msgid "Height of assistant window"
+msgstr "辅助窗口高度"
+
+msgid "Height of main window"
+msgstr "主窗口高度"
+
+msgid "Invalid namespace '%s' at line %d, column %d"
+msgstr "非法命名空间“%s”(第%d行，第%d列)"
+
+msgid "KEYWORD"
+msgstr "关键字"
+
+msgid "Keyword"
+msgstr "关键词"
+
+msgid "Language: %s"
+msgstr "语言：%s"
+
+msgid "Language: Undefined"
+msgstr "语言：未定义"
+
+msgid "List of books disabled by the user."
+msgstr "用户禁用的书籍列表。"
+
+msgid "Macro"
+msgstr "宏"
+
+msgid "Main window maximized state"
+msgstr "主窗口最大化"
+
+msgid "Makes F2 bring up Devhelp for the word at the cursor"
+msgstr "使用 F2 为光标处单词启动 Devhelp"
+
+msgid "New _Tab"
+msgstr "新建标签(_T)"
+
+msgid "New _Window"
+msgstr "新建窗口(_W)"
+
+msgid "Opens a new Devhelp window"
+msgstr "打开新的 Devhelp 窗口"
+
+msgid "Page"
+msgstr "页面"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Quit any running Devhelp"
+msgstr "退出正在运行的 Devhelp"
+
+msgid "S_maller Text"
+msgstr "缩小文本(_M)"
+
+msgid "Search and display any hit in the assistant window"
+msgstr "在辅助窗口中搜索并显示任何命中内容"
+
+msgid "Search for a keyword"
+msgstr "搜索一个关键词"
+
+msgid "Selected tab: \"content\" or \"search\""
+msgstr "所选的标签，是“内容”还是“搜索”"
+
+msgid "Show API Documentation"
+msgstr "显示 API 文档"
+
+msgid "Struct"
+msgstr "结构体"
+
+msgid "The X position of the assistant window."
+msgstr "辅助窗口的 X 坐标。"
+
+msgid "The X position of the main window."
+msgstr "主窗口的 X 坐标。"
+
+msgid "The Y position of the assistant window."
+msgstr "辅助窗口的 Y 坐标。"
+
+msgid "The Y position of the main window."
+msgstr "主窗口的 Y 坐标。"
+
+msgid "The height of the assistant window."
+msgstr "辅助窗口高度。"
+
+msgid "The height of the main window."
+msgstr "主窗口高度。"
+
+msgid "The width of the assistant window."
+msgstr "辅助窗口宽度。"
+
+msgid "The width of the index and search pane."
+msgstr "索引和搜索面板宽度。"
+
+msgid "The width of the main window."
+msgstr "主窗口宽度。"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Use system fonts"
+msgstr "使用系统字体"
+
+msgid "Use the system default fonts."
+msgstr "使用系统默认字体。"
+
+msgid "Whether books should be grouped by language in the UI"
+msgstr "在界面上是否应按语言将书分组"
+
+msgid "Whether the assistant window should be maximized"
+msgstr "是否最大化辅助窗口。"
+
+msgid "Whether the assistant window should be maximized."
+msgstr "是否最大化显示辅助窗口。"
+
+msgid "Whether the main window should start maximized."
+msgstr "是否以最大化启动主窗口。"
+
+msgid "Which of the tabs is selected: \"content\" or \"search\"."
+msgstr "选中哪个标签，“内容”还是“搜索”？"
+
+msgid "Width of the assistant window"
+msgstr "辅助窗口宽度"
+
+msgid "Width of the index and search pane"
+msgstr "索引和搜索面板宽度"
+
+msgid "Width of the main window"
+msgstr "主窗口宽度"
+
+msgid "X position of assistant window"
+msgstr "辅助窗口的 X 坐标"
+
+msgid "X position of main window"
+msgstr "主窗口的 X 坐标"
+
+msgid "Y position of assistant window"
+msgstr "辅助窗口的 Y 坐标"
+
+msgid "Y position of main window"
+msgstr "主窗口的 Y 坐标"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_About Devhelp"
+msgstr "关于 Devhelp(_A)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Find"
+msgstr "查找(_F)"
+
+msgid "_Fixed width:"
+msgstr "等宽字体(_F)："
+
+msgid "_Group by language"
+msgstr "按语言分组(_G)"
+
+msgid "_Larger Text"
+msgstr "放大文本(_L)"
+
+msgid "_Normal Size"
+msgstr "正常大小(_N)"
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Print"
+msgstr "打印(_P)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Side pane"
+msgstr "侧面板(_S)"
+
+msgid "_Use system fonts"
+msgstr "使用系统字体(_U)"
+
+msgid "_Variable width: "
+msgstr "变宽字体(_V)： "
+
+msgid "documentation;information;manual;developer;api;"
+msgstr "documentation;information;manual;developer;api;文档;信息;说明书;开发;"
+
+msgid ""
+"https://wiki.gnome.org/Apps/Devhelp?action=AttachFile&#x26;do=view&#x26;target=devhelp.png"
+msgstr ""
+"https://wiki.gnome.org/Apps/Devhelp?action=AttachFile&#x26;do=view&#x26;target=devhelp.png"
+
+msgid "translator-credits"
+msgstr ""
+"Zipeco <Zipeco@btamail.net.cn>, 2002\n"
+"Funda Wang <fundawang@linux.net.cn>, 2004\n"
+"YangZhang <zyangmath@gmail.com>, 2007\n"
+"Den Xiyue <manphiz@gmail.com>, 2008\n"
+"Richard Ma <richard.ma.19850509@gmail.com>, 2009\n"
+"Tao Wang <dancefire@gmail.com>, 2010\n"
+"Aron Xu <aronxu@gnome.org>, 2010\n"
+"Cheng Lu <chenglu1990@gmail.com>, 2012\n"
+"Sphinx Jiang <yishanj13@gmail.com>, 2013\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Alex Xu https://launchpad.net/~xuhj\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  ChenYi https://launchpad.net/~sgrchen\n"
+"  Cheng Lu https://launchpad.net/~dawndiy\n"
+"  Funda Wang https://launchpad.net/~fundawang\n"
+"  Hinker Liu https://launchpad.net/~hinkerliu-gmail\n"
+"  Liu Qishuai https://launchpad.net/~lqs\n"
+"  Qiu Haoyu https://launchpad.net/~timothyqiu\n"
+"  Richard Ma https://launchpad.net/~richard-ma\n"
+"  Sphinx Jiang https://launchpad.net/~yishanj13\n"
+"  Tao Wei https://launchpad.net/~weitao1979\n"
+"  Tong Hui https://launchpad.net/~tonghuix\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard\n"
+"  Xhacker Liu https://launchpad.net/~xhacker\n"
+"  Xiyue Deng https://launchpad.net/~manphiz\n"
+"  Zhang YANG https://launchpad.net/~zyang\n"
+"  ZhangCheng https://launchpad.net/~xxzc\n"
+"  stone_unix https://launchpad.net/~gaoghy\n"
+"  甘露 (Lu Gan) https://launchpad.net/~rhythm-gan"

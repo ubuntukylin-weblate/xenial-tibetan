@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: man-db 2.5.1-pre2\n"
+"Report-Msgid-Bugs-To: Colin Watson <cjwatson@debian.org>\n"
+"POT-Creation-Date: 2015-11-06 15:42+0000\n"
+"PO-Revision-Date: 2010-11-19 11:49+0000\n"
+"Last-Translator: Ming Hua <minghua-list@sbcglobal.net>\n"
+"Language-Team: Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:59+0000\n"
+
+msgid ""
+"\n"
+"Updating cat files for section %s of man hierarchy %s\n"
+msgstr ""
+"\n"
+"正在更新 man 目录树 %2$s 中第 %1$s 节的 cat 文件\n"
+
+msgid ""
+"\n"
+"cannot write to %s in catman mode"
+msgstr ""
+"\n"
+"无法在 catman 模式下对 %s 写入"
+
+msgid " Manual page "
+msgstr " Manual page "
+
+msgid "%s is self referencing"
+msgstr "%s 是指向自己的链接"
+
+msgid "%s what?\n"
+msgstr "%s 什么？\n"
+
+msgid "%s: incompatible options"
+msgstr "%s：互不相容的选项"
+
+msgid "%s: nothing appropriate.\n"
+msgstr "%s：没有 appropriate。\n"
+
+msgid "%s: relying on whatis refs is deprecated\n"
+msgstr "%s：依赖于 whatis 引用是已被废弃的做法\n"
+
+msgid "%s:%d: .so requests nested too deeply or are recursive"
+msgstr "%s:%d：.so 请求嵌套太深或形成循环"
+
+msgid "%s:%d: unterminated quote in roff request"
+msgstr "%s:%d：roff 请求中含有未结束的引用"
+
+msgid "%s:%d: warning: failed .so request"
+msgstr "%s:%d：警告：.so 请求失败"
+
+msgid "%s:%d: warning: malformed .lf request, ignoring"
+msgstr "%s:%d：警告：不合规格的 .lf 请求，将忽略"
+
+msgid "%s:%d: warning: newline in .lf request, ignoring"
+msgstr "%s:%d：警告：.lf 请求中含有换行符，将忽略"
+
+msgid "%s:%d: warning: newline in .so request, ignoring"
+msgstr "%s:%d：警告：.so 请求中含有换行符，将忽略"
+
+msgid "(Alternatively, what manual page do you want from section %s?)\n"
+msgstr "(换句话问，您需要第 %s 节中的什么手册页？)\n"
+
+msgid "(unknown subject)"
+msgstr "(未知的主题)"
+
+msgid "--Man-- next: %s [ view (return) | skip (Ctrl-D) | quit (Ctrl-C) ]\n"
+msgstr "--Man-- 下一页: %s [ 查看 (return) | 跳过 (Ctrl-D) | 退出 (Ctrl-C) ]\n"
+
+msgid "BROWSER"
+msgstr "浏览器"
+
+msgid "CODE"
+msgstr "编码"
+
+msgid "Can't convert %s to cat name"
+msgstr "无法把 %s 转换为 cat 名称"
+
+msgid "Checking for stray cats under %s...\n"
+msgstr "正在 %s 下查找流浪猫...\n"
+
+msgid "Controlling formatted output:"
+msgstr "控制格式化的输出："
+
+msgid "DEVICE"
+msgstr "设备"
+
+msgid "Database %s corrupted; rebuild with mandb --create"
+msgstr "数据库 %s 毁坏；请用 mandb --create 命令重建"
+
+msgid "ENCODING"
+msgstr "编码"
+
+msgid "EXTENSION"
+msgstr "扩展"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "FILE..."
+msgstr "文件..."
+
+msgid "FILENAME"
+msgstr "文件名"
+
+msgid "Finding manual pages:"
+msgstr "寻找手册页："
+
+msgid "KEYWORD..."
+msgstr "关键词..."
+
+msgid "LIST"
+msgstr "列表"
+
+msgid "LOCALE"
+msgstr "区域"
+
+msgid "Main modes of operation:"
+msgstr "主要运行模式："
+
+msgid "NULL content for key: %s"
+msgstr "关于 %s 词条的内容为空"
+
+msgid "No databases created."
+msgstr "未创建任何数据库。"
+
+msgid "No manual entry for %s\n"
+msgstr "没有 %s 的手册页条目\n"
+
+msgid "No manual entry for %s in section %s\n"
+msgstr "在第 %2$s 节中没有关于 %1$s 的手册页条目。\n"
+
+msgid "PAGER"
+msgstr "PAGER"
+
+msgid "PATH"
+msgstr "路径"
+
+msgid "PATH SECTION NAME"
+msgstr "路径 章节 名称"
+
+msgid "Processing manual pages under %s...\n"
+msgstr "正在处理 %s 下的手册页...\n"
+
+msgid "Purging old database entries in %s...\n"
+msgstr "正在删除 %s 里的旧数据库条目...\n"
+
+msgid "RESOLUTION"
+msgstr "分辨率"
+
+msgid "STRING"
+msgstr "字符串"
+
+msgid ""
+"STRING indicates which preprocessors to run:\n"
+"e - [n]eqn, p - pic, t - tbl,\n"
+"g - grap, r - refer, v - vgrind"
+msgstr ""
+"字符串表示要运行哪些预处理器：\n"
+"e - [n]eqn, p - pic, t - tbl,\n"
+"g - grap, r - refer, v - vgrind"
+
+msgid "SYSTEM"
+msgstr "系统"
+
+msgid "See '%s' for help when manual pages are not available.\n"
+msgstr "当没有手册页时，可以用 %s 命令来寻求帮助。\n"
+
+msgid "The --regex option is enabled by default."
+msgstr "默认开启 --regex 选项。"
+
+msgid "The defaults are --man and --whatis."
+msgstr "默认选项是 --man 和 --whatis。"
+
+msgid "The man database defaults to %s%s."
+msgstr "默认的 man 数据库是 %s%s。"
+
+msgid "Updating index cache for path `%s/%s'. Wait..."
+msgstr "正在为路径 %s/%s 更新索引缓存。请等待..."
+
+msgid "WARNINGS"
+msgstr "警告"
+
+msgid "What manual page do you want?\n"
+msgstr "您需要什么手册页？\n"
+
+msgid "[MAN DATABASE]"
+msgstr "[MAN 数据库]"
+
+msgid "[MANPATH]"
+msgstr "[手册路径]"
+
+msgid "[SECTION...]"
+msgstr "[章节...]"
+
+msgid "[SECTION] PAGE..."
+msgstr "[章节] 手册页..."
+
+msgid "can't change to directory %s"
+msgstr "无法切换到目录 %s 中"
+
+msgid "can't chdir to %s"
+msgstr "无法进入到 %s 目录中"
+
+msgid "can't chmod %s"
+msgstr "无法 chmod %s"
+
+msgid "can't chown %s"
+msgstr "无法 chown %s"
+
+msgid "can't create index cache %s"
+msgstr "无法创建索引缓存 %s"
+
+msgid "can't create temporary cat for %s"
+msgstr "无法为 %s 创建临时 cat 文件"
+
+msgid "can't determine current directory"
+msgstr "无法确定当前目录"
+
+msgid "can't make sense of the manpath configuration file %s"
+msgstr "无法理解手册路径设置文件 %s"
+
+msgid "can't open %s"
+msgstr "无法打开 %s"
+
+msgid "can't open %s for reading"
+msgstr "无法打开 %s 读取数据"
+
+msgid "can't open temporary file %s"
+msgstr "无法打开临时文件 %s"
+
+msgid "can't open the manpath configuration file %s"
+msgstr "无法打开手册路径设置文件 %s"
+
+msgid "can't parse directory list `%s'"
+msgstr "无法解读目录列表 %s"
+
+msgid "can't read from %s"
+msgstr "无法从 %s 读取"
+
+msgid "can't remove %s"
+msgstr "无法移除 %s"
+
+msgid "can't remove directory %s"
+msgstr "无法移除目录 %s"
+
+msgid "can't rename %s to %s"
+msgstr "无法将 %s 改名为 %s"
+
+msgid "can't resolve %s"
+msgstr "无法解析 %s"
+
+msgid "can't search directory %s"
+msgstr "无法搜索目录 %s"
+
+msgid "can't set effective uid"
+msgstr "无法设置等效 uid"
+
+msgid "can't set times on %s"
+msgstr "无法设定 %s 文件的时间"
+
+msgid "can't unlink %s"
+msgstr "无法删除 (unlink) %s"
+
+msgid "can't update index cache %s"
+msgstr "无法更新索引缓存 %s"
+
+msgid "can't write to %s"
+msgstr "无法对 %s 写入"
+
+msgid "can't write to standard output"
+msgstr "无法对标准输出写入"
+
+msgid "cannot read database %s"
+msgstr "无法读取数据库 %s"
+
+msgid "cannot write within %s"
+msgstr "无法在 %s 里写入"
+
+msgid "check manual pages for correctness"
+msgstr "检查手册页的正确性"
+
+msgid "command exited with status %d: %s"
+msgstr "命令以代码 %d 状态退出：%s"
+
+msgid "compatibility switch (ignored)"
+msgstr "兼容性选项 (将被忽略)"
+
+msgid "create dbs from scratch, rather than updating"
+msgstr "不更新数据库，而是重新创建数据库"
+
+msgid "define the locale for this particular man search"
+msgstr "定义本次手册页搜索所采用的区域设置"
+
+msgid "define the locale for this search"
+msgstr "定义本次搜索所使用的区域设置"
+
+msgid "display ASCII translation of certain latin1 chars"
+msgstr "显示某些 latin1 字符的 ASCII 翻译形式"
+
+msgid "do not trim output to terminal width"
+msgstr "不要把输出按终端宽度截断"
+
+msgid "don't look for or add stray cats to the dbs"
+msgstr "不要在数据库中寻找或添加流浪猫"
+
+msgid "don't purge obsolete entries from the dbs"
+msgstr "不要删除数据库中过时的旧条目"
+
+msgid "done.\n"
+msgstr "完成。\n"
+
+msgid "emit debugging messages"
+msgstr "输出调试信息"
+
+msgid "enable warnings from groff"
+msgstr "开启 groff 的警告"
+
+msgid "encoding for output"
+msgstr "输出文本所用的编码"
+
+msgid "equivalent to apropos"
+msgstr "等同于 apropos"
+
+msgid "equivalent to whatis"
+msgstr "等同于 whatis"
+
+msgid "fatal: regex `%s': %s"
+msgstr "致命错误：regex `%s'：%s"
+
+msgid "find all matching manual pages"
+msgstr "寻找所有匹配的手册页"
+
+msgid "force a cache consistency check"
+msgstr "强制进行缓存一致性的检查"
+
+msgid "iconv: incomplete character at end of buffer"
+msgstr "iconv：在缓冲区末尾有不完全的字符"
+
+msgid "ignoring unknown preprocessor `%c'"
+msgstr "忽略未知的预处理器 `%c'"
+
+msgid "internal error: candidate type %d out of range"
+msgstr "内部错误：候选类型 %d 超出正常范围"
+
+msgid "interpret PAGE argument(s) as local filename(s)"
+msgstr "把“手册页”参数当成本地文件名来解读"
+
+msgid "interpret each keyword as a regex"
+msgstr "把每个关键词都当作正则表达式解读"
+
+msgid "limit search to extension type EXTENSION"
+msgstr "将搜索限制在扩展类型为“扩展”的手册页之内"
+
+msgid "look for pages case-insensitively (default)"
+msgstr "查找手册页时不区分大小写字母 (默认)"
+
+msgid "look for pages case-sensitively"
+msgstr "查找手册页时区分大小写字母。"
+
+msgid "man command failed with exit status %d"
+msgstr "man 命令失败，退出状态代码为 %d"
+
+msgid "mandb command failed with exit status %d"
+msgstr "mandb 命令失败，退出状态代码为 %d"
+
+msgid "manpath list too long"
+msgstr "手册路径列表过长"
+
+msgid "must specify an input encoding"
+msgstr "必须指定输入所用的编码"
+
+msgid "must specify an output encoding"
+msgstr "必须指定输出所用的编码"
+
+msgid "parse as cat page"
+msgstr "当成 cat 页解读"
+
+msgid "parse as man page"
+msgstr "当成手册页解读"
+
+msgid "possible encodings of original text"
+msgstr "原始文本可能使用的编码列表"
+
+msgid "print physical location of cat file(s)"
+msgstr "输出 cat 文件的物理位置"
+
+msgid "print physical location of man page(s)"
+msgstr "输出手册页的物理位置"
+
+msgid "print verbose warning messages"
+msgstr "输出详细的警告信息"
+
+msgid "produce fewer warnings"
+msgstr "少显示一些警告"
+
+msgid "produce user databases only"
+msgstr "仅生成用户数据库"
+
+msgid "provide the `less' pager with a prompt"
+msgstr "给 less pager 提供一个提示行"
+
+msgid "require all keywords to match"
+msgstr "要求所有的关键词都同时匹配"
+
+msgid "reset all options to their default values"
+msgstr "将所有选项都重置为默认值"
+
+msgid "search each keyword for exact match"
+msgstr "对每个关键词都进行严格匹配的搜索"
+
+msgid "set search path for manual pages to PATH"
+msgstr "设置搜索手册页的路径为“路径”"
+
+msgid "show guessed series of preprocessing filters"
+msgstr "显示所猜测的预处理过滤器序列"
+
+msgid "show relative catpaths"
+msgstr "显示相对 cat 路径"
+
+msgid "show the entire global manpath"
+msgstr "显示整个全局手册路径"
+
+msgid "show whatis information"
+msgstr "显示 whatis 信息"
+
+msgid "the keyword(s) contain wildcards"
+msgstr "关键词里包含通配符"
+
+msgid "the setuid man user \"%s\" does not exist"
+msgstr "不存在用来将 man 程序 setuid 的用户 %s"
+
+msgid "unable to update %s"
+msgstr "无法更新 %s"
+
+msgid "update just the entry for this filename"
+msgstr "仅更新该文件名对应的条目"
+
+msgid "use %s or BROWSER to display HTML output"
+msgstr "使用 %s 或指定浏览器显示 HTML 输出"
+
+msgid "use %s to format pages"
+msgstr "使用 %s 对手册页排版"
+
+msgid "use %s with selected device"
+msgstr "使用 %s 的指定设备"
+
+msgid "use colon separated section list"
+msgstr "使用以半角冒号分隔的章节列表"
+
+msgid ""
+"use groff and display through gxditview (X11):\n"
+"-X = -TX75, -X100 = -TX100, -X100-12 = -TX100-12"
+msgstr ""
+"使用 groff 并通过 gxditview (X11) 来显示：\n"
+"-X = -TX75, -X100 = -TX100, -X100-12 = -TX100-12"
+
+msgid "use groff and force it to produce ditroff"
+msgstr "使用 groff 并强制它生成 ditroff"
+
+msgid "use program PAGER to display output"
+msgstr "使用 PAGER 程序显示输出文本"
+
+msgid "use this user configuration file"
+msgstr "使用该用户设置文件"
+
+msgid "used by catman to reformat out of date cat pages"
+msgstr "由 catman 使用，用来对过时的 cat 页重新排版"
+
+msgid "warning: $MANPATH set, appending %s"
+msgstr "警告：已经设定了 $MANPATH，在后面加上 %s"
+
+msgid "warning: $MANPATH set, ignoring %s"
+msgstr "警告：已经设定了 $MANPATH，忽略 %s"
+
+msgid "warning: $MANPATH set, inserting %s"
+msgstr "警告：已经设定了 $MANPATH，在其中插入 %s"
+
+msgid "warning: $MANPATH set, prepending %s"
+msgstr "警告：已经设定了 $MANPATH，在前面加上 %s"
+
+msgid "warning: $PATH not set"
+msgstr "警告：没有设定 $PATH"
+
+msgid "warning: %s"
+msgstr "警告：%s"
+
+msgid "warning: %s contains a pointer loop"
+msgstr "警告：%s 包含一个指针回环"
+
+msgid "warning: %s does not begin with %s"
+msgstr "警告：%s 并非以 %s 开始"
+
+msgid "warning: %s is a dangling symlink"
+msgstr "警告：%s 是悬空的符号链接"
+
+msgid "warning: %s is version %s, expecting %s\n"
+msgstr "警告： %s 版本为 %s, 需求版本为 %s\n"
+
+msgid "warning: %s isn't a directory"
+msgstr "警告：%s 不是目录"
+
+msgid "warning: %s/man%s/%s.%s*: competing extensions"
+msgstr "警告：%s/man%s/%s.%s*：互相竞争的扩展"
+
+msgid "warning: %s: bad symlink or ROFF `.so' request"
+msgstr "警告：%s：坏的符号链接或坏的 ROFF“.so”请求"
+
+msgid "warning: %s: ignoring bogus filename"
+msgstr "警告：%s：忽略错误的文件名"
+
+msgid "warning: %s: ignoring empty file"
+msgstr "警告：%s：忽略空文件"
+
+msgid "warning: %s: whatis parse for %s(%s) failed"
+msgstr "警告：%s：用 whatis 解读 %s(%s) 失败"
+
+msgid "warning: can't update index cache %s"
+msgstr "警告：无法更新索引缓存 %s"
+
+msgid "warning: cannot create catdir %s"
+msgstr "警告：无法创建 catdir %s"
+
+msgid "warning: empty $PATH"
+msgstr "警告：$PATH 为空"
+
+msgid "warning: failed to store entry for %s(%s)"
+msgstr "警告：为 %s(%s) 存储条目失败"
+
+msgid "warning: mandatory directory %s doesn't exist"
+msgstr "警告：必需的目录 %s 不存在"
+
+msgid "warning: no MANDB_MAP directives in %s, using your manpath"
+msgstr "警告：在 %s 中没有 MANDB_MAP 指令，使用您的手册路径设置"
+
+msgid "warning: no global manpaths set in config file %s"
+msgstr "警告：在设置文件 %s 中没有设定全局手册路径"
+
+msgid "work quietly, except for 'bogus' warning"
+msgstr "安静运行，除 bogus 警告外不输出信息"

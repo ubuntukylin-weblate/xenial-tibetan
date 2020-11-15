@@ -1,0 +1,1223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-06 15:16+0300\n"
+"PO-Revision-Date: 2015-11-19 15:54+0000\n"
+"Last-Translator: 白铭骢 <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/mate/MATE/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "\"Deepness\" of the color."
+msgstr "颜色的 \"深度\""
+
+msgid ""
+"A '\\n' separated list of \"name:color\" as defined by the 'gtk-color-"
+"scheme' setting"
+msgstr "一个由“\\n”分隔的“name:color”列表，就像在“gtk-color-scheme”设置中定义的那样"
+
+msgid ""
+"A logo for the about box. If this is not set, it defaults to "
+"gtk_window_get_default_icon_list()"
+msgstr "关于对话框的徽标.如果此项没有设置,默认采用 gtk_window_get_default_icon_list() 方法"
+
+msgid "A named icon to use as the logo for the about box."
+msgstr "一个已经命名的图标,用来用作关于对话框的徽标"
+
+msgid "About %s"
+msgstr "关于 %s"
+
+msgid "About Kylin"
+msgstr "关于银河麒麟"
+
+msgid "About NeoKylin"
+msgstr "关于中标麒麟"
+
+msgid "About YHKylin"
+msgstr "关于银河麒麟"
+
+msgid ""
+"Acceleration multiplier for mouse motion. A value of -1 is the system "
+"default."
+msgstr "鼠标运动加速度的乘数。-1 是系统默认值。"
+
+msgid ""
+"All rights reserved by 2009-2020 KylinOS. all rights reserved.\n"
+"Kylin %s and its user interface is protected by intellectual property laws trademark law in China and other countries and other regions to be enacted or enacted."
+msgstr ""
+"版权所有©2009-2020 KylinOS.保留所有权利。\n"
+"Kylin %s版本及其用户界面受中国及其它国家地区的商标法和其它待颁布或已颁布的知识产权法保护。"
+
+msgid ""
+"All rights reserved by 2009-2020 NeoKylinOS. all rights reserved.\n"
+"NeoKylin %s and its user interface is protected by intellectual property laws trademark law in China and other countries and other regions to be enacted or enacted."
+msgstr ""
+"版权所有©2009-2020 NeoKylinOS.保留所有权利。\n"
+"NeoKylin %s版本及其用户界面受中国及其它国家地区的商标法和其它待颁布或已颁布的知识产权法保护。"
+
+msgid ""
+"All rights reserved by 2009-2020 YHKylinOS. all rights reserved.\n"
+"YHKylin %s and its user interface is protected by intellectual property laws trademark law in China and other countries and other regions to be enacted or enacted."
+msgstr ""
+"版权所有©2009-2020 YHKylinOS.保留所有权利。\n"
+"YHKylin %s版本及其用户界面受中国及其它国家地区的商标法和其它待颁布或已颁布的知识产权法保护。"
+
+msgid "Allow postponing of breaks"
+msgstr "允许推迟间断"
+
+msgid "Amount of blue light in the color."
+msgstr "颜色中蓝光的量."
+
+msgid "Amount of green light in the color."
+msgstr "颜色中绿光的量."
+
+msgid "Amount of red light in the color."
+msgstr "颜色中红光的量."
+
+msgid ""
+"Argument used to execute programs in the terminal defined by the 'exec' key."
+msgstr "在“exec”键定义的终端里执行程序的参数。"
+
+msgid "Artists"
+msgstr "美工"
+
+msgid "Artwork by"
+msgstr "美工"
+
+msgid "Authors"
+msgstr "作者"
+
+msgid "Bad command (Exec) to launch"
+msgstr "无效命令（可执行文件）"
+
+msgid "Basename of the default theme used by gtk+."
+msgstr "gtk+ 使用的默认主题的基名称。"
+
+msgid "Beep when a modifier is pressed."
+msgstr "按下辅助键时蜂鸣"
+
+msgid "Break time"
+msgstr "中断时间"
+
+msgid "Brightness of the color."
+msgstr "颜色亮度"
+
+msgid "Browser needs terminal"
+msgstr "浏览器需要终端"
+
+msgid "Browser understands remote"
+msgstr "浏览器理解远程命令"
+
+msgid "Buttons Have Icons"
+msgstr "按钮带有图标"
+
+msgid "CRTC %d cannot drive output %s"
+msgstr "CRTC %d 不能驱动输出 %s"
+
+msgid "CRTC %d does not support rotation=%s"
+msgstr "CRTC %d 不支持旋转 =%s"
+
+msgid "CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d)\n"
+msgstr "CRTC %d：尝试 %dx%d@%dHz 模式输出在 %dx%d@%dHz (通过 %d)\n"
+
+msgid "C_redits"
+msgstr "致谢(_R)"
+
+msgid "Calendar needs terminal"
+msgstr "日历需要终端模拟器支持"
+
+msgid "Can Change Accels"
+msgstr "可更换快捷键"
+
+msgid "Cancel Button"
+msgstr "取消按钮"
+
+msgid "Cannot find a terminal, using xterm, even if it may not work"
+msgstr "无法找到可用的终端程序，暂先使用xterm（可能也无法工作）"
+
+msgid "Cannot find file '%s'"
+msgstr "无法找到文件 '%s'"
+
+msgid "Choose colors from the palette or the screen"
+msgstr "在调色板或屏幕上选取颜色"
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr "单击吸管,然后点击你屏幕上任意地方来选取那个颜色"
+
+msgid ""
+"Click this palette entry to make it the current color. To change this entry,"
+" drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr "点击调色板项来将其设置为当前颜色。拖拽一个颜色样本至此或右击并选择 \"保存颜色至此\""
+
+msgid "Color Selection"
+msgstr "颜色选择"
+
+msgid "Color Shading Type"
+msgstr "色彩渐变类型"
+
+msgid "Color Wheel"
+msgstr "色轮"
+
+msgid "Color _name:"
+msgstr "颜色名(_N)："
+
+msgid "Color selection dialog"
+msgstr "颜色选择对话框"
+
+msgid "Comments about the program"
+msgstr "关于程序的注释"
+
+msgid "Comments string"
+msgstr "注释字符串"
+
+msgid "Copyright information for the program"
+msgstr "关于程序的版权信息"
+
+msgid "Copyright string"
+msgstr "版权字符串"
+
+msgid "Could not show link"
+msgstr "不能显示链接"
+
+msgid "Credits"
+msgstr "制作者"
+
+msgid ""
+"Credits to the translators. This string should be marked as translatable"
+msgstr "译者的姓名。这个字符串应标为可以翻译"
+
+msgid "Current Alpha"
+msgstr "当前 Alpha 值"
+
+msgid "Current Color"
+msgstr "当前颜色"
+
+msgid "Cursor Blink"
+msgstr "光标闪烁"
+
+msgid "Cursor Blink Time"
+msgstr "光标闪烁时间"
+
+msgid "Cursor font"
+msgstr "光标字体"
+
+msgid "Cursor size"
+msgstr "光标大小"
+
+msgid "Cursor theme"
+msgstr "光标主题"
+
+msgid ""
+"Cursor theme name. Used only by Xservers that support Xcursor, such as "
+"XFree86 4.3 and later."
+msgstr "光标主题名称。仅适用于支持 Xcursor 的 Xserver，比如 XFree86 4.3 或更新版本。"
+
+msgid "Default browser"
+msgstr "默认浏览器"
+
+msgid "Default browser for all URLs."
+msgstr "全部 URL 的默认浏览器。"
+
+msgid "Default calendar"
+msgstr "默认日历"
+
+msgid "Default calendar application"
+msgstr "默认日历应用程序"
+
+msgid "Default font"
+msgstr "默认字体"
+
+msgid "Default mixer device"
+msgstr "默认混音设备"
+
+msgid "Default mixer tracks"
+msgstr "默认混音器音轨"
+
+msgid "Default tasks"
+msgstr "默认任务"
+
+msgid "Default tasks application"
+msgstr "默认任务应用程序"
+
+msgid ""
+"Determines how the image set by wallpaper_filename is rendered. Possible "
+"values are \"wallpaper\", \"centered\", \"scaled\", \"stretched\", \"zoom\","
+" \"spanned\"."
+msgstr ""
+"决定如何显示墙纸文件名指定的图片。可用的值有：“none”（无）、“wallpaper”（墙纸）、“centered”（居中）、“scaled”（成比例）、“stretched”（拉伸）、“zoom”（缩放）和“spanned”（延展）。"
+
+msgid "Disable URL and MIME type handlers"
+msgstr "禁用 URL 和 MIME 类型控制器"
+
+msgid "Disable all external thumbnailers"
+msgstr "禁用所有外部缩略图程序"
+
+msgid "Disable command line"
+msgstr "禁用命令行"
+
+msgid "Disable if two keys are pressed at the same time."
+msgstr "两个键同时按下时禁止输入"
+
+msgid "Disable lock screen"
+msgstr "禁用锁屏"
+
+msgid "Disable log out"
+msgstr "禁用注销"
+
+msgid "Disable print setup"
+msgstr "禁用打印机设置"
+
+msgid "Disable printing"
+msgstr "禁用打印"
+
+msgid "Disable saving files to disk"
+msgstr "禁止写入文件到磁盘"
+
+msgid "Disable theme settings"
+msgstr "禁用主题设置"
+
+msgid "Disable user switching"
+msgstr "禁用用户切换"
+
+msgid "Distance before a drag is started."
+msgstr "拖动开始前的过渡距离"
+
+msgid ""
+"Distance in pixels the pointer must move before accelerated mouse motion is "
+"activated. A value of -1 is the system default."
+msgstr "启动鼠标运动加速前鼠标必须移动的像素点数。系统默认的值是 -1。"
+
+msgid ""
+"Do not accept a key as being pressed unless held for @delay milliseconds."
+msgstr "仅在按下 @delay 毫秒不放后接受按键输入。"
+
+msgid "Document font"
+msgstr "文档字体"
+
+msgid "Documented by"
+msgstr "文档"
+
+msgid "Documenters"
+msgstr "文档编写者"
+
+msgid "Double Click Time"
+msgstr "双击时间"
+
+msgid "Drag Threshold"
+msgstr "拖动阈值"
+
+msgid "Draw Desktop Background"
+msgstr "绘制桌面背景"
+
+msgid "Enable Accessibility"
+msgstr "开启辅助功能"
+
+msgid "Enable Animations"
+msgstr "开启动画"
+
+msgid "Enable ESD"
+msgstr "启用ESD"
+
+msgid "Enable Gtk toolkit-wide animations"
+msgstr "使用 GTK 全局动画"
+
+msgid "Enable sound server startup."
+msgstr "在启动时启用声音服务器。"
+
+msgid ""
+"Enables middle mouse button emulation through simultaneous left and right "
+"button click."
+msgstr "通过同时按下鼠标左右键来模拟鼠标中键点击。"
+
+msgid "Error reading file '%s': %s"
+msgstr "读取文件 “%s” 时发生错误：%s"
+
+msgid "Error rewinding file '%s': %s"
+msgstr "重绕文件“%1$s”时发生错误：%2$s"
+
+msgid "Exec Arguments"
+msgstr "执行参数"
+
+msgid "Fade the background on change"
+msgstr "更换背景时使用过渡动画"
+
+msgid "File '%s' is not a regular file or directory."
+msgstr "文件“%s”不是常规的文件或目录。"
+
+msgid "File Icon Theme"
+msgstr "文件图标主题"
+
+msgid "File name of the bell sound to be played."
+msgstr "要播放的响铃声音的文件名。"
+
+msgid "File to use for the background image."
+msgstr "用作背景图片的文件。"
+
+msgid ""
+"Font name of the cursor. If unset, the default font is used. This value is "
+"only propagated to the X server start of each session, so changing it mid-"
+"session won't have an effect until the next time you log in."
+msgstr ""
+"光标字体的名称。如果未设置，则使用默认的字体。此设置只有在每次会话开始前传送给 X 服务器，因此在会话当中改变它不会有用，要等到您下次登录后才会起作用。"
+
+msgid ""
+"GNOME 2 was the most popular Linux desktop but it’s no longer available... "
+"MATE is here to provide that same desktop to you!"
+msgstr "GNOME 2 是以前大受欢迎的 Linux 桌面，如今 MATE 定会让你眼前一亮。"
+
+msgid "GTK IM Module"
+msgstr "GTK 输入法模块"
+
+msgid "GTK IM Preedit Style"
+msgstr "GTK 输入法预编辑模式"
+
+msgid "GTK IM Status Style"
+msgstr "GTK 输入法状态样式"
+
+msgid "Gtk+ Theme"
+msgstr "GTK+ 主题"
+
+msgid "HEX String"
+msgstr "十六进制字符串"
+
+msgid "Has Opacity Control"
+msgstr "有透明控制"
+
+msgid "Has palette"
+msgstr "有字符板"
+
+msgid "Have MATE draw the desktop background."
+msgstr "让 MATE 绘制桌面背景。"
+
+msgid "Have MATE file manager (Caja) draw the desktop icons."
+msgstr "让 MATE 文件管理器(Caja) 绘制桌面图标。"
+
+msgid "Help Button"
+msgstr "帮助按钮"
+
+msgid ""
+"Highlights the current location of the pointer when the Control key is "
+"pressed and released."
+msgstr "当按下并放开 Ctrl 键时，高亮显示鼠标指针的当前位置。"
+
+msgid "How long to accelerate in milliseconds"
+msgstr "加速前延时毫秒"
+
+msgid "How many milliseconds it takes to go from 0 to maximum speed."
+msgstr "在多少毫秒内从 0 增长到最大速度。"
+
+msgid ""
+"How many milliseconds to wait before mouse movement keys start to operate."
+msgstr "在鼠标移动键起作用前等待多少毫秒。"
+
+msgid "How many pixels per second to move at the maximum speed."
+msgstr "最大速度时每秒钟移动多少个像素点。"
+
+msgid ""
+"How to shade the background color. Possible values are \"horizontal-"
+"gradient\", \"vertical-gradient\", and \"solid\"."
+msgstr ""
+"如何渐变背景颜色。可用的值有“水平渐变 (horizontal-gradient)”，“垂直渐变 (vertical-gradient)”和“纯色 "
+"(solid)”。"
+
+msgid "Icon Theme"
+msgstr "图标主题"
+
+msgid "Icon theme to use for the panel, caja etc."
+msgstr "用于面板、caja 等的图标主题。"
+
+msgid ""
+"If set to true, then MATE will change the desktop background with a fading "
+"effect."
+msgstr "设为 TRUE 时，MATE 在切换桌面背景时会使用淡出效果。"
+
+msgid "Ignore multiple presses of the _same_ key within @delay milliseconds."
+msgstr "忽略在 @delay 毫秒内多次按下的 _同一个_ 键"
+
+msgid "Initial delay in milliseconds"
+msgstr "初始延迟毫秒"
+
+msgid "Input feedback sounds"
+msgstr "输入反馈声音"
+
+msgid "Keyboard Bell Custom Filename"
+msgstr "自定义键盘铃声文件名"
+
+msgid "Keyboard shortcut to open the menu bars."
+msgstr "打开菜单栏的键盘快捷键"
+
+msgid "Kylin"
+msgstr "银河麒麟"
+
+msgid "Kylin Desktop"
+msgstr "银河麒麟桌面操作系统"
+
+msgid "Kylin Desktop PKS"
+msgstr "银河麒麟桌面操作系统（可信版）"
+
+msgid "Kylin Server"
+msgstr "银河麒麟高级服务器操作系统"
+
+msgid "Kylin Server PKS"
+msgstr "银河麒麟服务器操作系统（可信版）"
+
+msgid "Laptop"
+msgstr "笔记本电脑"
+
+msgid "Learn more about Kylin"
+msgstr "进一步了解银河麒麟"
+
+msgid "Learn more about MATE"
+msgstr "进一步了解MATE"
+
+msgid "Learn more about NeoKylin"
+msgstr "进一步了解中标麒麟"
+
+msgid "Left or Top color when drawing gradients, or the solid color."
+msgstr "绘制渐变时左侧或上侧的颜色，或纯色。"
+
+msgid "Length of a double click."
+msgstr "双击间隔。"
+
+msgid "Length of the cursor blink cycle, in milliseconds."
+msgstr "光标闪烁周期长度，单位为毫秒。"
+
+msgid "License"
+msgstr "许可证"
+
+msgid ""
+"List of assistive technology applications to start when logging into the "
+"MATE desktop."
+msgstr "登录 MATE 桌面时启动的辅助技术应用程序列表。"
+
+msgid "List of authors of the program"
+msgstr "程序作者的列表"
+
+msgid ""
+"List of mime-types for which external thumbnailer programs will be disabled"
+msgstr "禁止使用外部缩略图程序的 mime 类型列表"
+
+msgid "List of people documenting the program"
+msgstr "程序文档的编写者列表"
+
+msgid "List of people who have contributed artwork to the program"
+msgstr "为本程序贡献美工工作的人员"
+
+msgid "List of symbolic names and color equivalents"
+msgstr "符号名和颜色代号的对应列表"
+
+msgid "Locate Pointer"
+msgstr "定位光标"
+
+msgid "Logo"
+msgstr "徽标"
+
+msgid "Logo Icon Name"
+msgstr "徽标图标名称"
+
+msgid "MATE Color Selection"
+msgstr "MATE 颜色选择"
+
+msgid ""
+"MATE includes most of what you see on your computer, including the file "
+"manager, document viewer, image viewer, menus, and many applications."
+msgstr " MATE 包含了文件管理器、文件浏览器、图像浏览器、菜单以及许多其它的应用程序。"
+
+msgid ""
+"MATE is a Free, usable, stable, accessible desktop environment for the Unix-"
+"like family of operating systems."
+msgstr "MATE 是类 Unix 操作系统里免费、稳定及用处甚广的桌面环境。"
+
+msgid ""
+"MATE is the continuation of GNOME 2. Hundreds of people have contributed "
+"code to GNOME since it was started in 1997; many more have contributed in "
+"other important ways, including translations, documentation, and quality "
+"assurance."
+msgstr ""
+"MATE 是 GNOME 2 的一个分支。自从1997年 GNOME "
+"诞生以来，数以百计的志愿者就为它编写代码。也有更多的志愿者以其它的方式为其添砖加瓦，如翻译、编辑文档和保质改进。"
+
+msgid ""
+"MATE provides an intuitive and attractive desktop to Linux users using "
+"traditional metaphors."
+msgstr "MATE 为 Linux 用户提供了一个直观而有吸引力的桌面。"
+
+msgid ""
+"MATE to start preferred Mobility assistive technology application during "
+"login."
+msgstr "MATE 将要在登录时启动的首选移动辅助技术应用程序。"
+
+msgid ""
+"MATE to start preferred Visual assistive technology application during "
+"login."
+msgstr "MATE 将要在登录时启动的首选视觉辅助技术应用程序。"
+
+msgid ""
+"Maximum age for thumbnails in the cache, in days. Set to -1 to disable "
+"cleaning."
+msgstr "缓存中缩略图的保留天数。设为 -1 以禁止过期清理。"
+
+msgid ""
+"Maximum size of the thumbnail cache, in megabytes. Set to -1 to disable "
+"cleaning."
+msgstr "缩略图缓存的最大尺寸，单位为 MB。设为 -1 以禁止超限清理。"
+
+msgid "Menubar Detachable"
+msgstr "菜单栏可分离"
+
+msgid "Menubar accelerator"
+msgstr "菜单栏快捷键"
+
+msgid "Menus Have Icons"
+msgstr "菜单带有图标"
+
+msgid "Menus Have Tearoff"
+msgstr "带分隔线的菜单"
+
+msgid "Middle button emulation"
+msgstr "中键模拟"
+
+msgid "Migrate MATE 1.4 settings"
+msgstr "导入 MATE 1.4 设置"
+
+msgid "Minimum interval in milliseconds"
+msgstr "最小间隔毫秒"
+
+msgid "Mirror Screens"
+msgstr "镜像屏幕"
+
+msgid "Module for GtkFileChooser"
+msgstr "用于 GtkFileChooser 的模块"
+
+msgid ""
+"Module to use as the filesystem model for the GtkFileChooser widget. "
+"Possible values are \"gio\" and \"gtk+\"."
+msgstr "GtkFileChooser 部件所用的文件系统模型的模块。可供选择的值是“gio”和“gtk+”。"
+
+msgctxt "Monitor vendor"
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Monospace font"
+msgstr "等宽字体"
+
+msgid "Motion Threshold"
+msgstr "运动阈值"
+
+msgid "Mouse button orientation"
+msgstr "鼠标键方向"
+
+msgid ""
+"Name of a monospaced (fixed-width) font for use in locations like terminals."
+msgstr "用于终端等处的等宽字体的名称。"
+
+msgid "Name of the GTK+ input method Preedit Style used by gtk+."
+msgstr "用于 gtk+ 的 GTK+ 输入法预处理样式的名称。"
+
+msgid "Name of the GTK+ input method Status Style used by gtk+."
+msgstr "用于 gtk+ 的 GTK+ 输入法状态样式的名称。"
+
+msgid "Name of the default font used by gtk+."
+msgstr "gtk+ 使用的默认字体的名称。"
+
+msgid "Name of the default font used for reading documents."
+msgstr "用于阅读文档的默认字体的名称。"
+
+msgid "Name of the input method module used by GTK+."
+msgstr "GTK+ 所使用的输入法模块名称"
+
+msgid "NeoKylin"
+msgstr "中标麒麟"
+
+msgid "No URL to launch"
+msgstr "没有 URL 来启动"
+
+msgid "No command (Exec) to launch"
+msgstr "没有要执行的命令"
+
+msgid "No filename to save to"
+msgstr "未输入保存文件名"
+
+msgid "No name"
+msgstr "未命名"
+
+msgid "Not a launchable item"
+msgstr "非可执行项"
+
+msgid "NumLock state"
+msgstr "NumLock 状态"
+
+msgid "Number of minutes of typing time before break mode starts."
+msgstr "间断模式开始前的最少打字时间。"
+
+msgid "Number of minutes that the typing break should last."
+msgstr "打字间断应该持续的分钟数。"
+
+msgid "OK Button"
+msgstr "确定按钮"
+
+msgid "Only show mnemonics on when the Alt key is pressed"
+msgstr "只在 Alt 键按下时显示助记符"
+
+msgid "Op_acity:"
+msgstr "不透明(_O)"
+
+msgid "Opacity with which to draw the background picture."
+msgstr "绘制背景图所使用的透明度。"
+
+msgid "Pick a Color"
+msgstr "拾取颜色"
+
+msgid "Picture Filename"
+msgstr "图片文件名"
+
+msgid "Picture Opacity"
+msgstr "图片不透明度"
+
+msgid "Picture Options"
+msgstr "图片选项"
+
+msgid "Pixels per seconds"
+msgstr "每秒像素点"
+
+msgid "Position on the color wheel."
+msgstr "在色轮上的位置"
+
+msgid "Preferred Mobility assistive technology application"
+msgstr "首选移动辅助技术应用程序"
+
+msgid ""
+"Preferred Mobility assistive technology application to be used for login, "
+"menu, or command line."
+msgstr "首选的用于登录、 菜单或命令行的移动辅助技术应用程序。"
+
+msgid "Preferred Visual assistive technology application"
+msgstr "首选的视觉辅助技术应用程序"
+
+msgid ""
+"Preferred Visual assistive technology application be used for login, menu, "
+"or command line."
+msgstr "用于登录、菜单或命令行的首选视觉辅助技术应用程序。"
+
+msgid "Prevent running any URL or MIME type handler applications."
+msgstr "阻止运行任何 URL 或 MIME 类型的处理器应用程序。"
+
+msgid ""
+"Prevent the user from accessing the terminal or specifying a command line to"
+" be executed. For example, this would disable access to the panel's \"Run "
+"Application\" dialog."
+msgstr "阻止用户访问终端或指定要执行的命令行。例如，这将禁用对面板的“运行应用程序”对话框的访问。"
+
+msgid "Prevent the user from changing theme settings."
+msgstr "防止用户更改主题设置"
+
+msgid "Prevent the user from locking the screen."
+msgstr "阻止用户锁定屏幕。"
+
+msgid "Prevent the user from logging out."
+msgstr "防止用户登出"
+
+msgid ""
+"Prevent the user from modifying print settings. For example, this would "
+"disable access to all applications' \"Print Setup\" dialogs."
+msgstr "阻止用户修改打印设置。例如，这将禁止访问任何应用程序的“打印设置”对话框。"
+
+msgid ""
+"Prevent the user from printing. For example, this would disable access to "
+"all applications' \"Print\" dialogs."
+msgstr "阻止用户打印。例如，这将禁止访问任何应用程序的“打印”对话框。"
+
+msgid ""
+"Prevent the user from saving files to disk. For example, this would disable "
+"access to all applications' \"Save as\" dialogs."
+msgstr "阻止用户将文件保存到磁盘。例如，这将禁止访问任何应用程序的“另存为”对话框。"
+
+msgid ""
+"Prevent the user from switching to another account while his session is "
+"active."
+msgstr "阻止用户在自己的会话活动时切换到另一个账户。"
+
+msgid "Primary Color"
+msgstr "主色"
+
+msgid "Program name"
+msgstr "程序名称"
+
+msgid "Program version"
+msgstr "程序版本"
+
+msgid "RANDR extension is not present"
+msgstr "没有 RANDR 扩展"
+
+msgid "Received invalid color data\n"
+msgstr "接收到非法颜色数据\n"
+
+msgid "Remember NumLock state"
+msgstr "记忆 NumLock 状态"
+
+msgid ""
+"Right or Bottom color when drawing gradients, not used for solid color."
+msgstr "绘制渐变时右侧或下侧的颜色，绘制纯色时不使用。"
+
+msgid "Secondary Color"
+msgstr "副色"
+
+msgid ""
+"Select the color you want from the outer ring. Select the darkness or "
+"lightness of that color using the inner triangle."
+msgstr "从外环选择颜色，用内部的三角形选择颜色的明暗。"
+
+msgid ""
+"Set to true to disable all external thumbnailer programs, independent on "
+"whether they are independently disabled/enabled."
+msgstr "设为 true 以禁用所有外部的缩略图程序，而不管它们是否独立禁用/启用。"
+
+msgid "Show Desktop Icons"
+msgstr "显示桌面图标"
+
+msgid "Show the 'Input Methods' menu"
+msgstr "显示“输入法”菜单"
+
+msgid "Show the 'Unicode Control Character' menu"
+msgstr "显示“Unicode 控制字符”菜单"
+
+msgid "Single Click"
+msgstr "单击"
+
+msgid "Size of icons in toolbars, either \"small-toolbar\" or \"large-toolbar\"."
+msgstr "工具栏图标的大小，“小号工具栏 (small-toolbar)”或者“大号工具栏 (large-toolbar)”。"
+
+msgid "Size of the cursor referenced by cursor_theme."
+msgstr "cursor_theme 引用的光标大小。"
+
+msgid "Sound theme name"
+msgstr "声音主题名称"
+
+msgid "Sounds for events"
+msgstr "事件声音"
+
+msgid "Start preferred Mobility assistive technology application"
+msgstr "启动首选的行动辅助技术应用程序"
+
+msgid "Start preferred Visual assistive technology application"
+msgstr "启动首选的视觉辅助技术应用程序"
+
+msgid "Starting %s"
+msgstr "正在启动 %s"
+
+msgid "Startup Assistive Technology Applications"
+msgstr "启动辅助技术应用程序"
+
+msgid "Status Bar on Right"
+msgstr "右方状态栏"
+
+msgid "Swap left and right mouse buttons for left-handed mice."
+msgstr "为左手鼠标交换左右鼠标按键。"
+
+msgid "Tasks needs terminal"
+msgstr "任务需要终端模拟器支持"
+
+msgid "Terminal application"
+msgstr "终端应用程序"
+
+msgid "Terminal program to use when starting applications that require one."
+msgstr "当启动需要终端的应用程序时使用的终端程序。"
+
+msgid "The OK button of the dialog."
+msgstr "对话框中的确定按钮。"
+
+msgid "The URL for the link to the website of the program"
+msgstr "本程序网页的URL链接"
+
+msgid "The XDG sound theme to use for event sounds."
+msgstr "用于事件声音的 XDG 声音主题。"
+
+msgid "The cancel button of the dialog."
+msgstr "对话框中的取消按钮。"
+
+msgid "The color selection embedded in the dialog."
+msgstr "颜色选择对话框嵌入在对话框。"
+
+msgid "The color you've chosen."
+msgstr "你已选的颜色。"
+
+msgid ""
+"The color you've chosen. You can drag this color to a palette entry to save "
+"it for use in the future."
+msgstr "你已选的颜色。你可以拖拽这个颜色至调色盘来保存,以便下一次使用。"
+
+msgid "The current color"
+msgstr "当前颜色"
+
+msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr "目前的不透明度值(0表示完全透明, 65535表示完全不透明)"
+
+msgid "The default mixer device used by the multimedia key bindings."
+msgstr "多媒体按键绑定所使用的默认混音器设备。"
+
+msgid "The default mixer tracks used by the multimedia key bindings."
+msgstr "多媒体按键绑定所使用的默认混音器音轨。"
+
+msgid "The help button of the dialog."
+msgstr "对话框中的帮助按钮。"
+
+msgid "The hexadecimal string of current color"
+msgstr "十六进制字符串当前颜色"
+
+msgid ""
+"The label for the link to the website of the program. If this is not set, it"
+" defaults to the URL"
+msgstr "程序的网页链接.如果此项没有设置,默认采用URL"
+
+msgid "The license of the program"
+msgstr "程序的许可"
+
+msgid ""
+"The name of the program. If this is not set, it defaults to "
+"g_get_application_name()"
+msgstr "程序的名字.如果此项没有设置,默认采用 g_get_application_name() 方法"
+
+msgid ""
+"The name “MATE” comes from yerba maté, a species of holly native to "
+"subtropical South America. Its leaves contain caffeine and are used to make "
+"infusions and a beverage called mate."
+msgstr "”MATE“来源于”yerba maté“，一种生长在南美洲的冬青树。它的叶子中含有咖啡因，可以用来制作一种名为”mate“的饮料。"
+
+msgid ""
+"The previously-selected color, for comparison to the color you're selecting "
+"now."
+msgstr "之前所选的颜色, 比较你现在选择的颜色。"
+
+msgid ""
+"The previously-selected color, for comparison to the color you're selecting "
+"now. You can drag this color to a palette entry, or select this color as "
+"current by dragging it to the other color swatch alongside."
+msgstr "之前选择的颜色，用于和当前选择的颜色对比。您可以将该颜色拖入调色盘，或将它拖到挨着它的颜色示例块上作为当前选中颜色。"
+
+msgid "The remembered state of the NumLock LED."
+msgstr "记忆的 NumLock LED 的状态"
+
+msgid "The selected color"
+msgstr "选中的颜色"
+
+msgid "The selected opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr "目前的不透明度值(0表示完全透明, 65535表示完全不透明)"
+
+msgid "The title of the color selection dialog"
+msgstr "颜色选择对话框标题"
+
+msgid "The version of the program"
+msgstr "程序的版本"
+
+msgid "Theme used for displaying file icons."
+msgstr "用于显示文件图标的主题。"
+
+msgid ""
+"This setting determines which buttons should be put in the titlebar of "
+"client-side decorated windows, and whether they should be placed at the left"
+" of right. See "
+"https://developer.gnome.org/gtk3/stable/GtkSettings.html#GtkSettings--gtk-"
+"decoration-layout."
+msgstr ""
+"此设置确定哪些按钮应放在客户端窗口标题栏, 以及它们应该放在左侧或右侧。详情: "
+"https://developer.gnome.org/gtk3/stable/GtkSettings.html#GtkSettings--gtk-"
+"decoration-layout ."
+
+msgid ""
+"Thumbnails will not be created for files whose mime-type is contained in the"
+" list."
+msgstr "对于具有列表中 mime 类型的文件将不会创建缩略图。"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Titlebar layout of GTK3 client-side decorated windows"
+msgstr "GTK3 客户侧窗口装饰的标题栏布局"
+
+msgid "Tool to migrate MATE 1.4 settings to MATE 1.6"
+msgstr "用于将 MATE 1.4 设置迁入 MATE 1.6 的工具"
+
+msgid "Toolbar Detachable"
+msgstr "工具栏可分离"
+
+msgid "Toolbar Icon Size"
+msgstr "工具栏图标尺寸"
+
+msgid "Toolbar Style"
+msgstr "工具栏样式"
+
+msgid "Toolbar Style. Valid values are \"both\", \"both-horiz\", \"icons\", and \"text\"."
+msgstr "工具栏风格。有效的值有 \"两者\", \"两者水平排列\", \"仅图标\", 和 \"仅文字\""
+
+msgid "Translated by"
+msgstr "译者"
+
+msgid "Translator credits"
+msgstr "翻译者致谢"
+
+msgid "Transparency of the color."
+msgstr "颜色透明度"
+
+msgid "Trying modes for CRTC %d\n"
+msgstr "为 CRTC %d 尝试模式\n"
+
+msgid "Type time"
+msgstr "打字时间"
+
+msgid "Unknown encoding of: %s"
+msgstr "未知的字符编码：%s"
+
+msgid "Use Custom Font"
+msgstr "使用自定义字体"
+
+msgid "Use GTK3 header bar"
+msgstr "使用 GTK3 顶栏"
+
+msgid "Use GTK3 overlay scrolling"
+msgstr "使用 GTK3 复合式滚动条"
+
+msgid "Use alpha"
+msgstr "使用透明 (Alpha)"
+
+msgid "Website URL"
+msgstr "页面URL"
+
+msgid "Website label"
+msgstr "页面标签"
+
+msgid ""
+"When set to true, MATE will remember the state of the NumLock LED between "
+"sessions."
+msgstr "设定为 true 时，MATE 将在不同会话间记住 NumLock 灯的状态。"
+
+msgid "Whether Applications should have accessibility support."
+msgstr "应用程序是否应有辅助访问支持。"
+
+msgid "Whether a palette should be used"
+msgstr "是否要使用字符版"
+
+msgid ""
+"Whether animations should be displayed. Note: This is a global key, it "
+"changes the behaviour of the window manager, the panel etc."
+msgstr "是否显示动画。注：这是一个全局键，它会更改窗口管理器、面板等的行为。"
+
+msgid ""
+"Whether built-in GTK+ scrolled windows will use overlay scrolling. Overlay "
+"scrolling hides and reduces the size of the scrollbar until it gets focus."
+msgstr "嵌入式 GTK+ 滚动窗口是否使用复合滚动。复合滚动可以在失去焦点时缩小或隐藏滚动条。"
+
+msgid ""
+"Whether builtin GTK+ dialogs such as the file chooser, the color chooser or "
+"the font chooser will use a header bar at the top to show action widgets, or"
+" an action area at the bottom. This setting does not affect custom dialogs "
+"using GtkDialog directly, or message dialogs."
+msgstr ""
+"是否在 GTK+ 内置对话框，如文件选择器、颜色选择器以及字体选择器中使用带有各类操作的顶栏以及底栏按钮。该设置不影响任何使用 GtkDialog "
+"的自定义对话框或消息框。"
+
+msgid "Whether buttons may display an icon in addition to the button text."
+msgstr "是否在按钮文本旁边显示图标。"
+
+msgid "Whether menus may display an icon next to a menu entry."
+msgstr "是否在菜单上菜单项的旁边显示图标。"
+
+msgid "Whether menus should have a tearoff."
+msgstr "菜单是否显示分隔线。"
+
+msgid ""
+"Whether mnemonics should be automatically shown and hidden when the user "
+"presses the Alt key."
+msgstr "助记符是否应该在用户按下 Alt 键时自动显示或隐藏。"
+
+msgid "Whether or not keyboard locking is enabled"
+msgstr "是否已启用键盘锁定。"
+
+msgid "Whether or not keyboard locking is enabled."
+msgstr "是否允许键盘锁定。"
+
+msgid "Whether or not the typing break screen can be postponed."
+msgstr "是否可推迟打字间断屏幕。"
+
+msgid "Whether or not to give the color an alpha value"
+msgstr "是否给定颜色的透明 (Alpha) 值"
+
+msgid "Whether the color selector should allow setting opacity"
+msgstr "颜色拾取器是否允许设置透明颜色"
+
+msgid ""
+"Whether the context menus of entries and text views should offer to change "
+"the input method."
+msgstr "输入框和文本视图中的快捷菜单是否应提供更改输入法的选项。"
+
+msgid ""
+"Whether the context menus of entries and text views should offer to insert "
+"control characters."
+msgstr "输入框和文本视图中的快捷菜单是否应提供插入控制字符的选项。"
+
+msgid "Whether the cursor should blink."
+msgstr "光标是否应该闪烁"
+
+msgid "Whether the default browser needs a terminal to run."
+msgstr "默认浏览器是否需要终端运行。"
+
+msgid "Whether the default browser understands netscape remote."
+msgstr "默认的浏览器是否理解 netscape 远程控制命令。"
+
+msgid "Whether the default calendar application needs a terminal to run"
+msgstr "默认的日历应用程序是否需要终端来运行。"
+
+msgid "Whether the default tasks application needs a terminal to run"
+msgstr "默认的任务应用程序是否需要终端来运行。"
+
+msgid "Whether the user can detach menubars and move them around."
+msgstr "用户是否可以脱离并四处移动菜单栏。"
+
+msgid "Whether the user can detach toolbars and move them around."
+msgstr "用户是否可以脱离并四处移动工具栏。"
+
+msgid ""
+"Whether the user can dynamically type a new accelerator when positioned over"
+" an active menuitem."
+msgstr "用户是否可以在定位到活动的菜单项时动态地输入新快捷键。"
+
+msgid "Whether to display a status bar meter on the right."
+msgstr "是否在右边显示状态栏指示。"
+
+msgid "Whether to enable toolkit-wide animations."
+msgstr "是否允许工具箱级的动画。"
+
+msgid "Whether to play sounds on input events."
+msgstr "是否在触发输入事件时播放声音"
+
+msgid "Whether to play sounds on user events."
+msgstr "是否在触发用户事件时播放声音"
+
+msgid "Whether to use a custom font in gtk+ applications."
+msgstr "是否在 gtk+ 程序中使用自定义字体。"
+
+msgid "Whether to wrap the license text."
+msgstr "是否包装许可的文字"
+
+msgid "Wrap license"
+msgstr "包装许可证"
+
+msgid "Written by"
+msgstr "作者"
+
+msgid "YHKylin"
+msgstr "银河麒麟"
+
+msgid ""
+"You can enter an HTML-style hexadecimal color value, or simply a color name "
+"such as 'orange' in this entry."
+msgstr "你可以在此输入一个 HTML 式的十六进制颜色值,或直接使用颜色的名字,比如 '橙色(orange)'。"
+
+msgid "_Blue:"
+msgstr "蓝色(_B)"
+
+msgid "_Green:"
+msgstr "绿(_G)"
+
+msgid "_Hue:"
+msgstr "色调(_H):"
+
+msgid "_License"
+msgstr "许可(_L)"
+
+msgid "_Palette:"
+msgstr "字符板(_P)："
+
+msgid "_Red:"
+msgstr "红(_R)"
+
+msgid "_Saturation:"
+msgstr "饱和度(_S):"
+
+msgid "_Save color here"
+msgstr "在此保存颜色(_S)"
+
+msgid "_Value:"
+msgstr "值(_V)"
+
+msgid "cannot clone to output %s"
+msgstr "无法克隆到输出 %s"
+
+msgid ""
+"could not assign CRTCs to outputs:\n"
+"%s"
+msgstr ""
+"无法指定 CRTC 到输出：\n"
+"%s"
+
+msgid "could not get information about CRTC %d"
+msgstr "无法获取CRTC %d的相关信息。"
+
+msgid "could not get information about output %d"
+msgstr "无法得到输出 %d 的有关信息"
+
+msgid "could not get the range of screen sizes"
+msgstr "无法获知屏幕大小"
+
+msgid "could not get the screen resources (CRTCs, outputs, modes)"
+msgstr "无法得到屏幕来源（CRTC，输出，模式）"
+
+msgid "could not set the configuration for CRTC %d"
+msgstr "无法为 CRTC %d 设定配置"
+
+msgid "gtk-color-sel"
+msgstr "gtk-color-sel"
+
+msgid "minimum interval in milliseconds"
+msgstr "最小间隔时间（毫秒）"
+
+msgid ""
+"none of the saved display configurations matched the active configuration"
+msgstr "已保存的设置中没有匹配活动设置的"
+
+msgid ""
+"none of the selected modes were compatible with the possible modes:\n"
+"%s"
+msgstr ""
+"所选模式均不匹配可能的模式：\n"
+"%s"
+
+msgid ""
+"output %s does not have the same parameters as another cloned output:\n"
+"existing mode = %d, new mode = %d\n"
+"existing coordinates = (%d, %d), new coordinates = (%d, %d)\n"
+"existing rotation = %s, new rotation = %s"
+msgstr ""
+"输出 %s 和另一个克隆的输出没有相同参数：\n"
+"当前模式 = %d，新模式 = %d\n"
+"当前坐标 = (%d，%d)，新坐标 = (%d，%d)\n"
+"当前旋转 = %s，新旋转 = %s"
+
+msgid "output %s does not support mode %dx%d@%dHz"
+msgstr "输出 %s 不支持模式 %dx%d@%dHz"
+
+msgid "possible values are \"on\", \"off\", and \"custom\"."
+msgstr "可取的值有 \"开\", \"关\", 和 \"自定义\""
+
+msgid ""
+"requested position/size for CRTC %d is outside the allowed limit: "
+"position=(%d, %d), size=(%d, %d), maximum=(%d, %d)"
+msgstr "CRTC %d 需要的位置/大小在限制允许之外：位置=(%d, %d)，大小=(%d, %d)，最大=(%d, %d)"
+
+msgid ""
+"required virtual size does not fit available size: requested=(%d, %d), "
+"minimum=(%d, %d), maximum=(%d, %d)"
+msgstr "需要的虚拟大小大于可用大小：需求=(%d, %d)，最小=(%d, %d)，最大=(%d, %d)"
+
+msgid "translator-credits"
+msgstr ""
+"白铭骢 <jeffbai@aosc.xyz>\n"
+"刘子兴 <liushuyu@aosc.xyz>"
+
+msgid "unhandled X error while getting the range of screen sizes"
+msgstr "试图获取屏幕大小时出现无法处理的 X 错误"

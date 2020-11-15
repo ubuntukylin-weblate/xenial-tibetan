@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: friendly-recovery\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-08 14:38-0500\n"
+"PO-Revision-Date: 2012-04-12 15:51+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:17+0000\n"
+
+msgid "   Resume normal boot"
+msgstr "   恢复正常启动"
+
+msgid "(Use arrows/PageUp/PageDown keys to scroll and TAB key to select)"
+msgstr "(使用 方向/PageUp/PageDown 键滚屏，用 TAB 键选择)"
+
+msgid "=== Detailed disk usage ==="
+msgstr "=== 详细磁盘使用情况 ==="
+
+msgid "=== Detailed memory usage ==="
+msgstr "=== 详细内存使用情况 ==="
+
+msgid "=== Detailed network configuration ==="
+msgstr "=== 详细网络配置 ==="
+
+msgid "=== General information ==="
+msgstr "=== 一般信息 ==="
+
+msgid "=== LVM state ==="
+msgstr "=== LVM 状态 ==="
+
+msgid "=== Software RAID state ==="
+msgstr "=== 软 RAID 状态 ==="
+
+msgid "=== System database (APT) ==="
+msgstr "=== 系统数据库 (APT) ==="
+
+msgid "CPU information:"
+msgstr "CPU 信息："
+
+msgid "Check all file systems"
+msgstr "检查所有文件系统"
+
+msgid ""
+"Continuing will remount your / filesystem in read/write mode and mount any other filesystem defined in /etc/fstab.\n"
+"Do you wish to continue?"
+msgstr ""
+"正在继续，将在读/写模式下重新挂载您的根(/)文件系统，以及挂载在 /etc/fstab 中定义的其他任何文件系统。\n"
+"是否要继续？"
+
+msgid "Database is consistent:"
+msgstr "数据库一致："
+
+msgid "Drop to root shell prompt"
+msgstr "降格为 root 用户的 shell 提示符"
+
+msgid "Enable networking"
+msgstr "启用联网"
+
+msgid "Finished, please press ENTER"
+msgstr "已完成，请按回车键"
+
+msgid "IP and DNS configured"
+msgstr "IP 和 DNS 已配置"
+
+msgid "IP configured"
+msgstr "IP 已配置"
+
+msgid "Network connectivity:"
+msgstr "网络连接："
+
+msgid "No LVM detected (vgscan)"
+msgstr "未检测到 LVM (vgscan)"
+
+msgid "No software RAID detected (mdstat)"
+msgstr "未检测到软 RAID (mdstat)"
+
+msgid "Physical Volumes:"
+msgstr "物理卷："
+
+msgid "Read-only mode"
+msgstr "只读模式"
+
+msgid "Read/Write mode"
+msgstr "读/写模式"
+
+msgid "Recovery Menu (filesystem state: read-only)"
+msgstr "恢复菜单(文件系统状态：只读)"
+
+msgid "Recovery Menu (filesystem state: read/write)"
+msgstr "恢复菜单(文件系统状态：读/写)"
+
+msgid "Repair broken packages"
+msgstr "修复被损坏的包文件"
+
+msgid "Revert to old snapshot and reboot"
+msgstr "恢复到旧快照，然后重新启动"
+
+msgid "Run in failsafe graphic mode"
+msgstr "在安全图形模式下运行"
+
+msgid "Snapshot"
+msgstr "快照"
+
+msgid "System mode:"
+msgstr "系统模式："
+
+msgid "System summary"
+msgstr "系统摘要"
+
+msgid ""
+"The option you selected requires your filesystem to be in read-only mode. Unfortunately another option you selected earlier, made you exit this mode.\n"
+"The easiest way of getting back in read-only mode is to reboot your system."
+msgstr ""
+"您选择的选项要求您的文件系统处于只读模式。遗憾的是，您先前选择的另一个选项使您退出了该模式。\n"
+"回到只读模式的最简单方式是重新启动您的系统。"
+
+msgid "Try to make free space"
+msgstr "尝试释放空间"
+
+msgid ""
+"Trying to find packages you don't need (apt-get autoremove), please review "
+"carefully."
+msgstr "正在尝试查找您不需要的软件包(apt-get autoremove)，请仔细查看。"
+
+msgid "Unknown (must be run as root)"
+msgstr "未知(必须以 root 运行)"
+
+msgid "Update grub bootloader"
+msgstr "更新 grub 引导程序"
+
+msgid "Volume Groups:"
+msgstr "卷组："
+
+msgid ""
+"You are now going to exit the recovery mode and continue the boot sequence. Please note that some graphic drivers require a full graphical boot and so will fail when resuming from recovery.\n"
+"If that's the case, simply reboot from the login screen and then perform a standard boot."
+msgstr ""
+"您现在将退出恢复模式，然后继续执行启动顺序。请注意，一些图形驱动程序需要完全图形启动，因此在从恢复继续时将会失败。\n"
+"如果是这种情况，只需从登录屏幕重新启动然后执行标准启动即可。"
+
+msgid "no (BAD)"
+msgstr "损坏"
+
+msgid "none"
+msgstr "无"
+
+msgid "not ok (BAD)"
+msgstr "损坏"
+
+msgid "ok (good)"
+msgstr "完好"
+
+msgid "unknown (must be run as root)"
+msgstr "未知(必须以 root 运行)"
+
+msgid "unknown (read-only filesystem)"
+msgstr "未知(只读文件系统)"
+
+msgid "yes (good)"
+msgstr "完好"

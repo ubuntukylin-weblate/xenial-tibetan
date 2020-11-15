@@ -1,0 +1,2182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-24 13:29+0100\n"
+"PO-Revision-Date: 2015-02-21 17:33+0000\n"
+"Last-Translator: 白铭骢 <jeffbaichina@members.fsf.org>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/MATE/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"... Too many errors to display ..."
+msgstr ""
+"\n"
+"... 错误太多无法完全显示 ..."
+
+msgid " ("
+msgstr " ("
+
+msgid " (%d"
+msgstr " (第 %d"
+
+msgid " (another copy)"
+msgstr " (另一个副本)"
+
+msgid " (copy)"
+msgstr " (副本)"
+
+msgid " (invalid Unicode)"
+msgstr " (无效的 Unicode)"
+
+msgid " - Browse and monitor logs"
+msgstr " - 浏览及监视日志"
+
+msgid " - Look up words in dictionaries"
+msgstr " - 在字典中查阅单词"
+
+msgid "\"%s\" in %s"
+msgstr "“%s”，以%s计"
+
+msgid "\"%s\" is not a valid folder"
+msgstr "“%s”不是有效的文件夹"
+
+msgid "%'d File Found"
+msgid_plural "%'d Files Found"
+msgstr[0] "找到文件 %'d"
+
+msgid "%'d file found"
+msgid_plural "%'d files found"
+msgstr[0] "找到文件 %'d"
+
+msgid "%5d item"
+msgid_plural "%5d items"
+msgstr[0] "% 5d 项"
+
+msgid "%A, %B %-d %Y at %-I:%M:%S %p"
+msgstr "%Y年%-m月%-d日 %H:%M:%S"
+
+msgid "%d lines (%s) - %s"
+msgstr "%d 行(%s) - %s"
+
+msgid "%s (%dnd copy)%s"
+msgstr "%s (第 %d 个副本)%s"
+
+msgid "%s (%drd copy)%s"
+msgstr "%s (第 %d 个副本)%s"
+
+msgid "%s (%dst copy)%s"
+msgstr "%s (第 %d 个副本)%s"
+
+msgid "%s (%dth copy)%s"
+msgstr "%s (第 %d 个副本)%s"
+
+msgid "%s (another copy)%s"
+msgstr "%s (另一个副本)%s"
+
+msgid "%s (copy)%s"
+msgstr "%s (副本)%s"
+
+msgid "%s - Dictionary"
+msgstr "%s - 字典"
+
+msgid "(stopped)"
+msgstr "(已停止)"
+
+msgid "*"
+msgstr "*"
+
+msgid "- the MATE Search Tool"
+msgstr "- 搜索文件"
+
+msgid ""
+"<p> As its name implies, Disk Usage Analyzer is a graphical utility that you"
+" can use to view and monitor your disk usage and folder structure. It "
+"displays summary information in ring or treemap charts. </p> <p> You can "
+"perform scans on a file system, your home or any other folder - local or "
+"remote. There is also an option to constantly monitor any external changes "
+"to the home directory and warn the user if a file is added/removed. </p>"
+msgstr ""
+"<p> 顾名思义，磁盘用量分析器十一个用于显示并监控磁盘用量和文件夹结构的图形实用工具。它可以使用环状表或树形图显示宏观信息。</p> <p> "
+"你可以对文件系统、你的家目录或其他目录进行搜索——无论文件系统位于本地还是远程。另有一个选项用于持续监控任何对家目录下文件的外部更改、添加或删除，并为此警告用户。</p>"
+
+msgid ""
+"<p> MATE Dictionary allows you to look up words in on-line dictionaries. It "
+"comes preconfigured with a list of Dict servers (RFC 2229), to which you can"
+" add your own sources, while you can select specific servers for a specific "
+"query. </p>"
+msgstr ""
+"<p> MATE 字典可用于通过在线词典查阅词汇。它附带了一些预先配置好的字典服务器（RFC "
+"2229），你也可以自行添加字典源，或选定一部分服务器来执行特定的查询。</p>"
+
+msgid ""
+"<p> MATE Screenshot is a simple utility that lets you capture screenshots of"
+" your desktop or of application windows. You can select to copy them to the "
+"system clipboard or save them in Portable Network Graphics (.png) image "
+"format. </p>"
+msgstr ""
+"<p> MATE 截图工具是一个用于捕捉桌面或窗口截图的简易实用工具。你可以选择将截图添加到系统剪贴板或将其保存为可移动网络图形 (.png) "
+"图像格式。</p>"
+
+msgid ""
+"<p> MATE Search Tool is a simple but powerful utility that allows you to "
+"search for files and folders on any mounted file system. Its interface gives"
+" you instant access to a wide variety of parameters for each search, such as"
+" text contained within a file, ownership, date of modification, file size, "
+"folder exclusion, etc.. </p>"
+msgstr ""
+"<p> MATE "
+"搜索工具是一个短小精悍的实用工具，用于搜索任何位于已挂载文件系统上的文件或目录。其界面便于用户进行快捷的参数配置，比如包含在某个文件中的文本、所有者属性、修改日期、文件大小以及排除文件夹等。</p>"
+
+msgid "A definition found"
+msgid_plural "%d definitions found"
+msgstr[0] "找到了 %d 个定义"
+
+msgid "A dictionary for MATE Desktop"
+msgstr "MATE 桌面的词典"
+
+msgid "A disk usage analyzing tool for MATE Desktop"
+msgstr "MATE 桌面的磁盘使用分析工具"
+
+msgid "A file searching tool for MATE Desktop"
+msgstr "MATE 桌面的文件查找工具"
+
+msgid "A graphical tool to analyze disk usage."
+msgstr "分析磁盘使用的图形工具。"
+
+msgid "A list of URIs for partitions to be excluded from scanning."
+msgstr "列出要在扫描中排除的分区 URI。"
+
+msgid "A locate database has probably not been created."
+msgstr "没有正确创建过 locate 数据库。"
+
+msgid "A screenshot utility for MATE Desktop"
+msgstr "MATE 桌面的截屏工具"
+
+msgid "A system log viewer for MATE."
+msgstr "MATE 系统日志查看器。"
+
+msgid "A_vailable options:"
+msgstr "可用选项(_V)："
+
+msgid "Active Chart"
+msgstr "激活图表"
+
+msgid "Add Dictionary Source"
+msgstr "添加字典源"
+
+msgid "Add a new dictionary source"
+msgstr "添加新的字典源"
+
+msgid "Add new filter"
+msgstr "添加新的过滤器"
+
+msgid "Add search option"
+msgstr "添加搜索选项"
+
+msgid "All_ocated Space"
+msgstr "分配的空间(_O)"
+
+msgid "Another search is in progress"
+msgstr "另外一项搜索正在进行中"
+
+msgid "Application does not accept documents on command line"
+msgstr "程序在命令行中不接受文档"
+
+msgid "Apply _effect:"
+msgstr "应用特效(_E)："
+
+msgid "Are you sure you want to open %d document?"
+msgid_plural "Are you sure you want to open %d documents?"
+msgstr[0] "您确定想要打开 %d 个文档吗？"
+
+msgid "Are you sure you want to open %d folder?"
+msgid_plural "Are you sure you want to open %d folders?"
+msgstr[0] "您确定想要打开 %d 个文件夹吗？"
+
+msgid "Automatically start a search"
+msgstr "自动开始搜索"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Available St_rategies"
+msgstr "可用策略(_R)"
+
+msgid "Available _Databases"
+msgstr "可用数据库(_D)"
+
+msgid "Available dictionaries"
+msgstr "可用词典"
+
+msgid "Available options"
+msgstr "可用选项"
+
+msgid "Available strategies"
+msgstr "可用策略"
+
+msgid "Background:"
+msgstr "背景："
+
+msgid "Bad command '%s'"
+msgstr "错误的名称“%s”"
+
+msgid "Bad parameters for command '%s'"
+msgstr "命令“%s”的参数错误"
+
+msgid "Bigger text size"
+msgstr "较大的文本大小"
+
+msgid "Border"
+msgstr "边框"
+
+msgid "Border Effect"
+msgstr "边框效果"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "C_opy to Clipboard"
+msgstr "复制到剪贴板(_O)"
+
+msgid "Calculating percentage bars..."
+msgstr "正在计算百分比条..."
+
+msgid "Can't access source file"
+msgstr "无法访问源文件"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "无法传递文档 URIs 到 'Type=Link' 桌面条目"
+
+msgid "Can't read from \"%s\""
+msgstr "不能从“%s”读取"
+
+msgid "Cannot Connect to Server. You must enter a name for the server."
+msgstr "无法连接到服务器。您必须输入服务器的名称。"
+
+msgid "Cannot check an excluded folder!"
+msgstr "无法检查被排除的文件夹！"
+
+msgid "Cannot create pixbuf image!"
+msgstr "无法创建像素图图像！"
+
+msgid "Cannot scan location \"%s\""
+msgstr "无法扫描位置“%s”"
+
+msgid "Changes to your home folder will not be monitored."
+msgstr "对主目录的更改无法监视。"
+
+msgid "Character set conversion failed for \"%s\""
+msgstr "“%s”的字符集转换失败"
+
+msgid "Chart model"
+msgstr "图表模型"
+
+msgid "Chart root node"
+msgstr "图表根节点"
+
+msgid "Check folder sizes and available disk space"
+msgstr "检查文件夹大小和可用磁盘空间"
+
+msgid "Check word definitions and spellings in an online dictionary"
+msgstr "在在线字典中查阅单词定义和拼写"
+
+msgid "Cl_ear"
+msgstr "清除(_E)"
+
+msgid "Clear definition"
+msgstr "清除定义"
+
+msgid "Clear the definitions found"
+msgstr "清除找到的定义"
+
+msgid "Clear the list of available databases"
+msgstr "清除可用数据库列表"
+
+msgid "Clear the list of available strategies"
+msgstr "清除可用策略列表"
+
+msgid "Clear the list of similar words"
+msgstr "清除相似单词列表"
+
+msgid "Clear the search string"
+msgstr "清除搜索字符串"
+
+msgid "Clear the text of the definition"
+msgstr "清除定义文本"
+
+msgid "Click to add the selected available search option."
+msgstr "单击可添加选中的可用搜索选项。"
+
+msgid "Click to close \"Search for Files\"."
+msgstr "单击可关闭“搜索文件”。"
+
+msgid "Click to display the help manual."
+msgstr "单击可显示帮助手册。"
+
+msgid "Click to expand or collapse the list of available options."
+msgstr "单击可展开或折叠可用选项列表。"
+
+msgid "Click to perform a search."
+msgstr "单击可执行搜索。"
+
+msgid "Click to remove the \"%s\" search option."
+msgstr "单击可删除“%s”搜索选项。"
+
+msgid "Click to stop a search."
+msgstr "单击可停止搜索。"
+
+msgid "Click to view the dictionary window"
+msgstr "单击可查看字典窗口"
+
+msgid "Client Name"
+msgstr "客户名"
+
+msgid "Close this log"
+msgstr "关闭此日志"
+
+msgid ""
+"Conflicting options: --window and --area should not be used at the same "
+"time.\n"
+msgstr "冲突的选项： --窗口和--区域不在同一时间使用。\n"
+
+msgid "Connect to Server"
+msgstr "连接到服务器"
+
+msgid "Connection failed to the dictionary server at %s:%d"
+msgstr "连接服务器 %s:%d 失败"
+
+msgid "Connection timeout for the dictionary server at '%s:%d'"
+msgstr "连接字典服务器“%s:%d”超时"
+
+msgid "Contains the _text"
+msgstr "含有文本(_T)"
+
+msgid "Contents"
+msgstr "内容"
+
+msgid "Context"
+msgstr "上下文"
+
+msgid "Copy the selection"
+msgstr "复制选中内容"
+
+msgid "Could not analyze disk usage."
+msgstr "无法分析磁盘使用。"
+
+msgid "Could not delete \"%s\"."
+msgstr "无法删除“%s”。"
+
+msgid "Could not detect any mount point."
+msgstr "无法检测到任何挂载点。"
+
+msgid "Could not initialize monitoring"
+msgstr "无法初始化监视"
+
+msgid "Could not move \"%s\" to the Trash"
+msgstr "无法将“%s”移动到回收站"
+
+msgid "Could not move \"%s\" to trash."
+msgstr "无法将“%s”移动到回收站。"
+
+msgid "Could not move file to the Trash"
+msgstr "无法将文件移动到回收站"
+
+msgid "Could not open document \"%s\"."
+msgstr "无法打开文档“%s”。"
+
+msgid "Could not open folder \"%s\""
+msgstr "无法打开文件夹“%s”"
+
+msgid "Could not open folder \"%s\"."
+msgstr "无法打开文件夹“%s”。"
+
+msgid "Could not open help document."
+msgstr "无法打开帮助文档。"
+
+msgid "Could not open the following files:"
+msgstr "无法打开下列文件："
+
+msgid "Could not save \"%s\" document to \"%s\"."
+msgstr "无法将文档“%s”保存到 %s。"
+
+msgid "Could not save document."
+msgstr "无法保存文档。"
+
+msgid "Custom Location"
+msgstr "自定义位置"
+
+msgid "DAYS"
+msgstr "天数"
+
+msgid "Database"
+msgstr "数据库"
+
+msgid "Database `%s' selected"
+msgstr "选中了数据库“%s”"
+
+msgid "Database to use"
+msgstr "要使用的数据库"
+
+msgid "Date Modified"
+msgstr "修改时间"
+
+msgid "Date modified more than"
+msgstr "修改日期多于(_Y)"
+
+msgid "Default Dictionary Server"
+msgstr "默认字典服务器"
+
+msgid "Default Window Height"
+msgstr "默认窗口高度"
+
+msgid "Default Window Maximized"
+msgstr "默认窗口最大化"
+
+msgid "Default Window Width"
+msgstr "默认窗口宽度"
+
+msgid ""
+"Definition for '%s'\n"
+"  From '%s':\n"
+"\n"
+"%s\n"
+msgstr ""
+"“%s”的定义\n"
+"  来自“%s”：\n"
+"\n"
+"%s\n"
+
+msgid "Deleting \"%s\" failed: %s."
+msgstr "删除“%s”失败：%s。"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Details: %s"
+msgstr "细节：%s"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Dictionaries"
+msgstr "字典"
+
+msgid "Dictionary"
+msgstr "字典"
+
+msgid "Dictionary Preferences"
+msgstr "字典首选项"
+
+msgid "Dictionary Sources"
+msgstr "字典源"
+
+msgid "Dictionary entry"
+msgstr "字典项"
+
+msgid "Dictionary source '%s' has invalid transport '%s'"
+msgstr "字典源“%s”的传送“%s”无效"
+
+msgid "Dictionary source `%s' selected"
+msgstr "选中了字典源‘%s’"
+
+msgid "Dictionary source does not have name"
+msgstr "字典源没有名称"
+
+msgid "Dictionary source to use"
+msgstr "要使用的字典源"
+
+msgid "Dictionary sources"
+msgstr "字典源"
+
+msgid "Dictionary sources found"
+msgstr "找到的字典源"
+
+msgid "Disable Quick Search"
+msgstr "禁用快速搜索"
+
+msgid "Disable Quick Search Second Scan"
+msgstr "禁用快速搜索第二次扫描"
+
+msgid "Disable _Quick Search"
+msgstr "禁用快速搜索(_Q)"
+
+msgid "Disable connection to session manager"
+msgstr "禁止连接到会话管理器"
+
+msgid "Disk Usage Analyzer"
+msgstr "磁盘使用分析器"
+
+msgid "Disk Usage Analyzer Preferences"
+msgstr "磁盘使用分析器首选项"
+
+msgid "Do you want to delete \"%s\" permanently?"
+msgstr "您想要永久删除“%s”吗？"
+
+msgid "Double-click on the database to use"
+msgstr "双击您想要使用的数据库"
+
+msgid "Double-click on the matching strategy to use"
+msgstr "双击您想要使用的策略"
+
+msgid "Double-click on the source to use"
+msgstr "双击要使用的源"
+
+msgid "Double-click on the word to look up"
+msgstr "双击您想要查阅的单词"
+
+msgid "Drop shadow"
+msgstr "阴影"
+
+msgid "Edit Dictionary Source"
+msgstr "编辑字典源"
+
+msgid "Edit filter"
+msgstr "编辑过滤器"
+
+msgid "Edit the currently selected dictionary source"
+msgstr "编辑目前选中的字典源"
+
+msgid "Effect to add to the border (shadow, border or none)"
+msgstr "添加到边框的特效(阴影 shadow 、边框 border 或无特效 none)"
+
+msgid ""
+"Effect to add to the outside of a border. Possible values are \"shadow\", "
+"\"none\", and \"border\"."
+msgstr "在边框上添加的特效，可供选择的值包括“shadow”、“none”和“border”。"
+
+msgid "Effect:"
+msgstr "效果："
+
+msgid "Effects"
+msgstr "特效"
+
+msgid "Enter a filename or partial filename with or without wildcards."
+msgstr "输入文件名或部分文件名，可以使用通配符。"
+
+msgid "Enter a text value for the \"%s\" search option."
+msgstr "输入“%s”搜索选项的文本值。"
+
+msgid "Enter a value in %s for the \"%s\" search option."
+msgstr "输入以 %s 计的“%s”搜索选项值。"
+
+msgid "Entry changed called for a non entry option!"
+msgstr "已改变的条目调用非条目选项！"
+
+msgid ""
+"Error loading UI definition file for the screenshot program: \n"
+"%s\n"
+"\n"
+"Please check your installation of mate-utils."
+msgstr ""
+"载入截图应用的界面定义文件时出错：\n"
+"%s\n"
+"\n"
+"请检查你的 mate-utils 安装。"
+
+msgid "Error loading the help page"
+msgstr "装入帮助页时出错"
+
+msgid "Error parsing the search command."
+msgstr "处理搜索命令时出错。"
+
+msgid "Error running the search command."
+msgstr "运行搜索命令时出错。"
+
+msgid "Error while looking up definition"
+msgstr "查阅定义出错"
+
+msgid ""
+"Error while looking up the definition of \"%s\":\n"
+"%s"
+msgstr ""
+"查阅“%s”的定义出错：\n"
+"%s"
+
+msgid "Error while matching"
+msgstr "匹配时出错"
+
+msgid ""
+"Error while reading reply from server:\n"
+"%s"
+msgstr ""
+"从服务器读取回复出错：\n"
+"%s"
+
+msgid "Error while retrieving the definition"
+msgstr "获取定义出错"
+
+msgid "Error while saving screenshot"
+msgstr "保存抓图时出错"
+
+msgid "Error while uncompressing the GZipped log. The file might be corrupt."
+msgstr "解压缩GZipped日志时发生错误。该文件可能已损坏。"
+
+msgid "Error while writing to '%s'"
+msgstr "试图写入“%s”时发生错误"
+
+msgid "Error: %s\n"
+msgstr "错误：%s\n"
+
+msgid "Exclude other filesystems"
+msgstr "排除其它文件系统"
+
+msgid "Excluded partitions URIs"
+msgstr "排除的分区 URI"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "FLAGS"
+msgstr "标志"
+
+msgid "FTP (with login)"
+msgstr "FTP (需登录)"
+
+msgid "F_ind:"
+msgstr "查找(_I)："
+
+msgid "Failed to parse command line arguments: %s\n"
+msgstr "解析命令行参数失败：%s\n"
+
+msgid "Failed to set process group id of child %d: %s.\n"
+msgstr "设定子 %d 的组 ID 失败：%s。\n"
+
+msgid "File already exists"
+msgstr "文件已经存在"
+
+msgid "File is empty"
+msgstr "文件为空"
+
+msgid "File is not a valid .desktop file"
+msgstr "不是有效的 .desktop 文件"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Filesystem Type"
+msgstr "文件系统类型"
+
+msgid "Filter name is empty!"
+msgstr "过滤器名称为空！"
+
+msgid "Filter name may not contain the ':' character"
+msgstr "过滤器名称不能包含“:”字符"
+
+msgid "Filters"
+msgstr "文件"
+
+msgid "Find Ne_xt"
+msgstr "查找下一个(_X)"
+
+msgid "Find Next"
+msgstr "查找下一个"
+
+msgid "Find Pre_vious"
+msgstr "查找上一个(_V)"
+
+msgid "Find Previous"
+msgstr "查找上一个"
+
+msgid "Find a word or phrase in the document"
+msgstr "在文档中查找单词或短语"
+
+msgid "Find a word or phrase in the log"
+msgstr "在日记中查找单词或短语"
+
+msgid "Find next occurrence of the search string"
+msgstr "寻找搜索字符串的下一次出现"
+
+msgid "Find previous occurrence of the search string"
+msgstr "寻找搜索字符串的上一次出现"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Follow symbolic links"
+msgstr "跟随符号连接"
+
+msgid "Foreground:"
+msgstr "前景："
+
+msgid "GDict Options"
+msgstr "字典选项"
+
+msgid "GDict debugging flags to set"
+msgstr "要设置的 GDict 调试标志"
+
+msgid "GDict debugging flags to unset"
+msgstr "要取消的 GDict 调试标志"
+
+msgid "GROUP"
+msgstr "组"
+
+msgid "G_rab the whole desktop"
+msgstr "抓取整个桌面(_R)"
+
+msgid "Go to the first definition"
+msgstr "转到第一个定义"
+
+msgid "Go to the last definition"
+msgstr "转到最后一个定义"
+
+msgid "Go to the next definition"
+msgstr "转到下一个定义"
+
+msgid "Go to the previous definition"
+msgstr "转到上一个定义"
+
+msgid "Grab a window instead of the entire screen"
+msgstr "抓取窗口，而不是整个屏幕"
+
+msgid "Grab after a _delay of"
+msgstr "抓取前的延迟(_D)"
+
+msgid "Grab an area of the screen instead of the entire screen"
+msgstr "抓取屏幕的一个区域，而不是整个屏幕"
+
+msgid "Grab the current _window"
+msgstr "抓取当前窗口(_W)"
+
+msgid "H_ostname:"
+msgstr "主机名(_O)："
+
+msgid "Height of the main window in pixels"
+msgstr "主窗口的高度，以像素计"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Highlight"
+msgstr "高亮"
+
+msgid "Hostname"
+msgstr "主机名"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "If you replace an existing file, its contents will be overwritten."
+msgstr "如果您替换已有文件，该文件中的全部内容都将被覆盖。"
+
+msgid "Impossible to open the file %s"
+msgstr "无法打开文件 %s"
+
+msgid ""
+"Impossible to save the screenshot to %s.\n"
+" Error was %s.\n"
+" Please choose another location and retry."
+msgstr ""
+"无法将抓图保存到 %s。\n"
+"错误为 %s\n"
+"请另选一个位置然后重试。"
+
+msgid "Include Border"
+msgstr "包含边框"
+
+msgid "Include Pointer"
+msgstr "包含鼠标指针"
+
+msgid "Include _pointer"
+msgstr "包含鼠标指针(_P)"
+
+msgid "Include the pointer in the screenshot"
+msgstr "在抓图中包含鼠标指针"
+
+msgid "Include the window _border"
+msgstr "包含窗口边框(_B)"
+
+msgid "Include the window border with the screenshot"
+msgstr "抓图中包含窗口边框"
+
+msgid "Include the window manager border along with the screenshot"
+msgstr "在抓图中包含窗口管理器边框"
+
+msgid "Interactively set options"
+msgstr "交互式设定选项"
+
+msgid "Invalid database '%s'"
+msgstr "无效的数据库“%s”"
+
+msgid "Invalid option passed to sortby command line argument."
+msgstr "传递给命令行参数 sortby 的选项无效。"
+
+msgid "Invalid strategy '%s'"
+msgstr "无效的策略“%s”"
+
+msgid "Invalid transport type '%d'"
+msgstr "无效的传送类型“%d”"
+
+msgid "KILOBYTES"
+msgstr "千字节"
+
+msgid "List View"
+msgstr "列表视图"
+
+msgid "List of saved filters"
+msgstr "已保存过滤器的列表"
+
+msgid "List of saved regexp filters"
+msgstr "已保存的 regexp 过滤器列表"
+
+msgid "Loading..."
+msgstr "正在载入..."
+
+msgid "Local Only"
+msgstr "只有文本"
+
+msgid "Locate documents and folders on this computer by name or content"
+msgstr "按照名称或内容定位此计算机中的文档和文件夹"
+
+msgid "Log File Viewer"
+msgstr "系统日志查看器"
+
+msgid "Log Viewer"
+msgstr "日志查看器"
+
+msgid "Log file to open up on startup"
+msgstr "启动时打开的日志文件"
+
+msgid "Log files to open up on startup"
+msgstr "启动时打开的日志文件"
+
+msgid "Longdo Thai-English Dictionaries"
+msgstr "Longdo 泰语到英语字典"
+
+msgid "Look _up:"
+msgstr "查阅(_U)："
+
+msgid "Look in Folder"
+msgstr "搜索文件夹"
+
+msgid "Look in folder"
+msgstr "搜索文件夹"
+
+msgid "Look up words in dictionaries"
+msgstr "在字典中查阅单词"
+
+msgid "Lookup failed for host '%s': %s"
+msgstr "查阅主机“%s”失败：%s"
+
+msgid "Lookup failed for host '%s': host not found"
+msgstr "查阅主机“%s”失败：主机未找到"
+
+msgid "Lookup failed for hostname '%s': no suitable resources found"
+msgstr "查阅主机名“%s”失败：未找到合适的资源"
+
+msgid "MATE Dictionary"
+msgstr "MATE 字典"
+
+msgid "MATE Disk Usage Analyzer"
+msgstr "MATE 磁盘用量分析器"
+
+msgid "MATE Search Tool"
+msgstr "搜索文件..."
+
+msgid "Manage Filters"
+msgstr "管理过滤器"
+
+msgid "Manage filters"
+msgstr "管理过滤器"
+
+msgid "Maximum depth"
+msgstr "最大深度"
+
+msgid "Mo_ve to Trash"
+msgstr "移动到回收站(_V)"
+
+msgid "Monitor Home"
+msgstr "显示器主页"
+
+msgid "Mount Point"
+msgstr "挂载点"
+
+msgid "Move to parent folder"
+msgstr "移动到父文件夹"
+
+msgid "Moving \"%s\" failed: %s."
+msgstr "移动“%s”失败：%s。"
+
+msgid "Na_me does not contain"
+msgstr "名称不包含(_M)"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name contains"
+msgstr "名称包含"
+
+msgid "Name matches regular e_xpression"
+msgstr "名称匹配正则表达式(_X)"
+
+msgid "New look up"
+msgstr "新建查阅"
+
+msgid "No '%s' group found inside the dictionary source definition"
+msgstr "字典源定义中未找到“%s”组"
+
+msgid "No Files Found"
+msgstr "未找到文件"
+
+msgid "No connection to the dictionary server at '%s:%d'"
+msgstr "“%s:%d”出的字典服务器无法连接"
+
+msgid "No context available for source '%s'"
+msgstr "源“%s”没有可用的上下文"
+
+msgid "No databases found on dictionary server at '%s'"
+msgstr "未在字典服务器“%s”找到数据库"
+
+msgid "No definitions found"
+msgstr "未找到定义"
+
+msgid "No definitions found for '%s'"
+msgstr "未找到“%s”的定义"
+
+msgid "No dictionary source available with name '%s'"
+msgstr "名称“%s”没有可用的字典源"
+
+msgid "No files found"
+msgstr "未找到文件"
+
+msgid "No hostname defined for the dictionary server"
+msgstr "字典服务器未定义主机名"
+
+msgid "No strategies found on dictionary server at '%s'"
+msgstr "字典服务器“%s”未找到策略"
+
+msgid "None"
+msgstr "无"
+
+msgid "Normal text size"
+msgstr "普通文本大小"
+
+msgid "Not a launchable item"
+msgstr "不是可启动项目"
+
+msgid "Not found"
+msgstr "未找到"
+
+msgid "Only show lines that match one of the given filters"
+msgstr "只能显示与给定的过滤器匹配的行"
+
+msgid "Open Containing _Folder"
+msgstr "打开包含的文件夹（_F）"
+
+msgid "Open Log"
+msgstr "打开日志"
+
+msgid "Open Wit_h"
+msgstr "打开方式(_H)"
+
+msgid "Open a log from file"
+msgstr "从文件打开日志"
+
+msgid "Open the help contents for the log viewer"
+msgstr "打开日志查看器的帮助目录"
+
+msgid "Open with %s"
+msgstr "用 %s 打开"
+
+msgid "Optional information:"
+msgstr "可选信息："
+
+msgid "Owned by _group"
+msgstr "文件所属组(_G)"
+
+msgid "Owned by _user"
+msgstr "文件所属用户(_U)"
+
+msgid "Owner is unrecognized"
+msgstr "未知的所属用户"
+
+msgid "PATH"
+msgstr "路径"
+
+msgid "PATTERN"
+msgstr "模式"
+
+msgid "P_review..."
+msgstr "预览(_R)..."
+
+msgid "Paths"
+msgstr "路径"
+
+msgid "Please enter a name and try again."
+msgstr "请输入名称然后再试一次。"
+
+msgid "Please specify either foreground or background color!"
+msgstr "\t请指定或前景或背景颜色！"
+
+msgid "Please wait until the current search ends."
+msgstr "请稍候，等待当前搜索结束。"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Preview this document"
+msgstr "预览此文档"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Print definition"
+msgstr "打印定义"
+
+msgid "Print result to the console"
+msgstr "将结果打印到控制台"
+
+msgid "Print the definitions found"
+msgstr "打印找到的定义"
+
+msgid "Print the text of the definition"
+msgstr "打印定义的文本"
+
+msgid "Print this document"
+msgstr "打印此文档"
+
+msgid "Public FTP"
+msgstr "公共 FTP"
+
+msgid "Quick Search Excluded Paths"
+msgstr "快速搜索排除的路径"
+
+msgid "Quick Search Second Scan Excluded Paths"
+msgstr "快速搜索第二次扫描排除的路径"
+
+msgid "Quit the log viewer"
+msgstr "退出日志查看器"
+
+msgid "Ready"
+msgstr "就绪"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Regular expression is empty!"
+msgstr "正则表达式为空！"
+
+msgid "Regular expression is invalid: %s"
+msgstr "无效的正则表达式：%s"
+
+msgid "Reload the list of available databases"
+msgstr "重新装入可用数据库列表"
+
+msgid "Reload the list of available sources"
+msgstr "重新装入可用源列表"
+
+msgid "Reload the list of available strategies"
+msgstr "重新装入可用的策略"
+
+msgid "Remove \"%s\""
+msgstr "删除“%s”"
+
+msgid "Remove \"%s\"?"
+msgstr "删除“%s”吗？"
+
+msgid "Remove the currently selected dictionary source"
+msgstr "删除目前选中的字典源"
+
+msgid "Remove the window border from the screenshot"
+msgstr "去除屏幕截图的窗口边框"
+
+msgid "Rescan your home folder?"
+msgstr "重新扫描您的主文件夹吗？"
+
+msgid "SSH"
+msgstr "SSH"
+
+msgid "STRING"
+msgstr "字符串"
+
+msgid "S_can Remote Folder..."
+msgstr "扫描远程文件夹(_C)..."
+
+msgid "S_earch results:"
+msgstr "搜索结果(_E)："
+
+msgid "S_ize at least"
+msgstr "大小最少为(_I)"
+
+msgid "S_tatusbar"
+msgstr "状态栏(_T)"
+
+msgid "Save Screenshot"
+msgstr "保存抓图"
+
+msgid "Save Search Results As..."
+msgstr "搜索结果另存为..."
+
+msgid "Save Snapshot"
+msgstr "保存抓图"
+
+msgid "Save a Copy"
+msgstr "保存副本"
+
+msgid "Save definition"
+msgstr "保存定义"
+
+msgid "Save images of your desktop or individual windows"
+msgstr "保存整个桌面或某个区域的图像"
+
+msgid "Save in _folder:"
+msgstr "保存于文件夹(_F)："
+
+msgid "Save screenshot"
+msgstr "保存抓图"
+
+msgid "Save the definitions found"
+msgstr "保存找到的定义"
+
+msgid "Save the text of the definition to a file"
+msgstr "将定义的文本保存到文件"
+
+msgid "Saving file..."
+msgstr "正在保存文件..."
+
+msgid "Scan"
+msgstr "扫描"
+
+msgid "Scan F_older..."
+msgstr "扫描文件夹(_O)..."
+
+msgid "Scan Filesystem"
+msgstr "扫描文件系统"
+
+msgid "Scan Folder"
+msgstr "扫描文件夹"
+
+msgid "Scan Home"
+msgstr "扫描主文件夹"
+
+msgid "Scan Remote Folder"
+msgstr "扫描远程文件夹"
+
+msgid "Scan _Filesystem"
+msgstr "扫描文件系统(_F)"
+
+msgid "Scan _Home Folder"
+msgstr "扫描主文件夹(_H)"
+
+msgid "Scan a folder"
+msgstr "扫描文件夹"
+
+msgid "Scan a remote folder"
+msgstr "扫描远程文件夹"
+
+msgid "Scan filesystem"
+msgstr "扫描文件系统"
+
+msgid "Scan home folder"
+msgstr "扫描主文件夹"
+
+msgid "Scanning..."
+msgstr "正在扫描..."
+
+msgid "Screenshot at %d-%d-%d %d-%d-%d.png"
+msgstr "截图-%d年%d月%d日 %d时%d分%d秒.png"
+
+msgid "Screenshot at %s - %d.png"
+msgstr "截图-%s-%d.png"
+
+msgid "Screenshot at %s.png"
+msgstr "截图-%s.png"
+
+msgid "Screenshot delay"
+msgstr "抓图延迟"
+
+msgid "Screenshot directory"
+msgstr "抓图目录"
+
+msgid "Screenshot taken"
+msgstr "屏幕截图已完成"
+
+msgid "Screenshot-%d.png"
+msgstr "Screenshot-%d.png"
+
+msgid "Screenshot-%s-%d.png"
+msgstr "Screenshot-%s-%d.png"
+
+msgid "Screenshot-%s.png"
+msgstr "Screenshot-%s.png"
+
+msgid "Screenshot.png"
+msgstr "Screenshot.png"
+
+msgid "Search Result Columns Order"
+msgstr "搜索结果列顺序"
+
+msgid "Search for Files"
+msgstr "搜索文件"
+
+msgid "Search history"
+msgstr "搜索历史"
+
+msgid "Search paths used by this object"
+msgstr "此对象所使用的搜索路径"
+
+msgid "Searching for '%s'..."
+msgstr "正在搜索“%s”..."
+
+msgid "Searching..."
+msgstr "正在搜索..."
+
+msgid "Secure WebDAV (HTTPS)"
+msgstr "安全 WebDAV (HTTP)"
+
+msgid "See mate-dictionary --help for usage\n"
+msgstr "请查看 mate-dictionary --help 的用法\n"
+
+msgid "Select Folder"
+msgstr "选择文件夹"
+
+msgid "Select _All"
+msgstr "全选(_A)"
+
+msgid "Select _area to grab"
+msgstr "选择一个截取区域(_A)"
+
+msgid "Select _devices to include in filesystem scan:"
+msgstr "选择要在文件系统扫描中包含的设备(_D)："
+
+msgid "Select a folder"
+msgstr "选择文件夹"
+
+msgid "Select a search option from the drop-down list."
+msgstr "从下拉列表中选择搜索选项。"
+
+msgid "Select and set the \"%s\" search option"
+msgstr "选择并设置“%s”搜索选项"
+
+msgid "Select more _options"
+msgstr "选择更多选项(_O)"
+
+msgid "Select more options"
+msgstr "选择更多选项"
+
+msgid "Select the \"%s\" search option"
+msgstr "选择“%s”搜索选项"
+
+msgid "Select the entire log"
+msgstr "选中整个日志"
+
+msgid "Select the folder or device from which you want to begin the search."
+msgstr "选择您想要开始搜索的文件夹或设备。"
+
+msgid "Service _type:"
+msgstr "服务类型(_T)："
+
+msgid "Session management options:"
+msgstr "会话管理选项："
+
+msgid "Set sort order to descending, the default is ascending"
+msgstr "设置为降序排序，默认值为升序排序"
+
+msgid "Set the font used for printing the definitions"
+msgstr "设定打印定义时所使用的字体"
+
+msgid "Set the model of the chart"
+msgstr "设定图表的模型"
+
+msgid "Set the root node from the model"
+msgstr "设定模型的根节点"
+
+msgid "Set the text of \"Look in folder\" search option"
+msgstr "设置“搜索文件夹”搜索选项的文字"
+
+msgid "Set the text of \"Name contains\" search option"
+msgstr "设置“名称包含”搜索选项的文字"
+
+msgid "Show Additional Options"
+msgstr "选择额外选项"
+
+msgid "Show GDict Options"
+msgstr "显示字典选项"
+
+msgid "Show Side Pane"
+msgstr "显示侧边栏"
+
+msgid "Show Status Bar"
+msgstr "显示状态栏"
+
+msgid "Show available dictionary sources"
+msgstr "显示可用的字典源"
+
+msgid "Show hidden and backup files"
+msgstr "显示隐藏文件和备份文件"
+
+msgid "Show matches only"
+msgstr "仅显示匹配项"
+
+msgid "Show more _details"
+msgstr "显示更多细节(_D)"
+
+msgid "Show or hide the definition window"
+msgstr "显示或隐藏定义窗口"
+
+msgid "Show session management options"
+msgstr "显示会话管理选项"
+
+msgid "Show the about dialog for the log viewer"
+msgstr "显示日志查看器的关于对话框"
+
+msgid "Show the application's version"
+msgstr "显示应用程序版本"
+
+msgid "Show version"
+msgstr "显示版本号"
+
+msgid "Show version of the application"
+msgstr "显示应用程序版本"
+
+msgid "Si_ze at most"
+msgstr "大小最多为(_Z)"
+
+msgid "Side _Pane"
+msgstr "侧边栏(_P)"
+
+msgid "Similar _Words"
+msgstr "相似单词(_W)"
+
+msgid "Similar words"
+msgstr "相似单词"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Size of the font used to display the log"
+msgstr "用于显示日志的字体大小"
+
+msgid "Smaller text size"
+msgstr "较小的文本大小"
+
+msgid "Sort files by one of the following: name, folder, size, type, or date"
+msgstr "按下列属性之一排序文件：名称、文件夹、大小、类型或日期"
+
+msgid "Source"
+msgstr "源"
+
+msgid "Source Name"
+msgstr "源名称"
+
+msgid "Sources"
+msgstr "源"
+
+msgid "Spanish Dictionaries"
+msgstr "西班牙语字典"
+
+msgid ""
+"Specifies a list of log files to open up at startup. A default list is "
+"created by reading /etc/syslog.conf."
+msgstr "指定在程序启动时要打开的日志文件。默认列表将会通过读取 /etc/syslog.conf 创建。"
+
+msgid "Specifies the height of the log viewer main window in pixels."
+msgstr "指定日志查看器主窗口的高度，以像素计。"
+
+msgid ""
+"Specifies the log file displayed at startup. The default is either "
+"/var/adm/messages or /var/log/messages, depending on your operating system."
+msgstr ""
+"指定在程序启动时显示的日志文件。根据您的操作系统不同，默认是 /var/adm/messages 或者 /var/log/messages。"
+
+msgid ""
+"Specifies the size of the fixed-width font used to display the log in the "
+"main tree view. The default is taken from the default terminal font size."
+msgstr "指定用于在主树视图中显示日志的等宽字体大小。默认值来自于默认终端字体大小。"
+
+msgid "Specifies the width of the log viewer main window in pixels."
+msgstr "指定日志查看器主窗口的宽度，以像素计。"
+
+msgid "Specify file containing saved configuration"
+msgstr "指定含有已存配置的文件"
+
+msgid "Specify session management ID"
+msgstr "指定会话管理 ID"
+
+msgid "St_atusbar"
+msgstr "状态栏(_A)"
+
+msgid "Starting %s"
+msgstr "正在启动 %s "
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Statusbar is Visible"
+msgstr "状态栏可见"
+
+msgid "Stop scanning"
+msgstr "停止扫描"
+
+msgid "Strategies"
+msgstr "策略"
+
+msgid "Strategy"
+msgstr "策略"
+
+msgid "Strategy `%s' selected"
+msgstr "选中了策略“%s”"
+
+msgid "Strategy to use"
+msgstr "要使用的策略"
+
+msgid "Subfolder tips visible"
+msgstr "子文件夹工具提示可见"
+
+msgid "System Log Viewer"
+msgstr "系统日志查看器"
+
+msgid "Take Screenshot"
+msgstr "抓图"
+
+msgid "Take _Screenshot"
+msgstr "抓图(_S)"
+
+msgid "Take a picture of the screen"
+msgstr "抓取屏幕的图片"
+
+msgid "Take screenshot after specified delay [in seconds]"
+msgstr "在指定延迟后抓图[以秒计]"
+
+msgid "The GdictContext bound to this source"
+msgstr "绑定到此源的 GdictContext"
+
+msgid "The GdictContext object used to get the word definition"
+msgstr "用于获得单词定义的 GdictContext 对象"
+
+msgid "The caja file manager is not running."
+msgstr "caja 文件管理器没有运行。"
+
+msgid ""
+"The child save process unexpectedly exited.  We are unable to write the "
+"screenshot to disk."
+msgstr "子保存进程意外退出。无法将屏幕抓图保存到磁盘。"
+
+msgid ""
+"The content of your home folder has changed. Select rescan to update the "
+"disk usage details."
+msgstr "您主目录的内容已经更改。选择重新扫描可以更新磁盘使用细节。"
+
+msgid "The database used to query the GdictContext"
+msgstr "用于查询 GdictContext 的数据库"
+
+msgid "The default database of this dictionary source"
+msgstr "此字典源的默认数据库"
+
+msgid "The default database to use"
+msgstr "要使用的默认数据库"
+
+msgid "The default search strategy to use"
+msgstr "要使用的默认搜索策略"
+
+msgid "The default strategy of this dictionary source"
+msgstr "此字典源的默认策略"
+
+msgid "The description of this dictionary source"
+msgstr "此字典源的描述"
+
+msgid "The directory the last screenshot was saved in."
+msgstr "上次用于保存屏幕抓图的目录。"
+
+msgid "The display name of this dictionary source"
+msgstr "此字典源的显示名称"
+
+msgid "The document \"%s\" already exists.  Would you like to replace it?"
+msgstr "文档“%s”已经存在。您想要替换吗？"
+
+msgid "The document does not exist."
+msgstr "文档不存在。"
+
+msgid "The document name you selected is a folder."
+msgstr "您选择的文档名是文件夹。"
+
+msgid "The file \"%s\" already exists. Would you like to replace it?"
+msgstr "文件“%s”已经存在。您想要替换吗？"
+
+msgid "The file is not a regular file or is not a text file."
+msgstr "文件不是常规的文件或不是一个文本文件。"
+
+msgid "The filename used by this dictionary source"
+msgstr "此字典源所使用的文件名"
+
+msgid "The folder does not exist."
+msgstr "文件夹不存在。"
+
+msgid "The font to be used when printing"
+msgstr "打印时所使用的字体"
+
+msgid "The font to be used when printing a definition."
+msgstr "打印定义时所使用的字体。"
+
+msgid "The hostname of the dictionary server to connect to"
+msgstr "要连接的默认字典服务器的主机名"
+
+msgid "The maximum depth drawn in the chart from the root"
+msgstr "从根节点开始的最大深度"
+
+msgid "The name of the client of the context object"
+msgstr "上下文对象的客户名称"
+
+msgid ""
+"The name of the default individual database or meta-database to use on a "
+"dictionary source. An exclamation mark (\"!\") means that all the databases "
+"present in a dictionary source should be searched"
+msgstr "在字典服务器上使用的独立数据库或元数据库名称。叹号(“!”)表示字典程序应该在给定服务器的所有数据库中搜索"
+
+msgid ""
+"The name of the default search strategy to use on a dictionary source, if "
+"available. The default strategy is 'exact', that is match exact words."
+msgstr "字典源上要使用的默认搜索策略。默认的策略是“exact”，即精确匹配单词。"
+
+msgid "The name of the dictionary source used"
+msgstr "所使用的字典源名称"
+
+msgid ""
+"The name of the dictionary source used to retrieve the definitions of words."
+msgstr "用于获取单词定义的字典源名称"
+
+msgid "The number of seconds to wait before taking the screenshot."
+msgstr "抓图前等候的秒数。"
+
+msgid "The port of the dictionary server to connect to"
+msgstr "要连接的字典服务器的端口"
+
+msgid ""
+"The search results may be invalid.  There were errors while performing this "
+"search."
+msgstr "搜索结果可能无效，因为在执行本次搜索时发生了错误。"
+
+msgid ""
+"The search results may be out of date or invalid.  Do you want to disable "
+"the quick search feature?"
+msgstr "搜索结果可能过期或无效。您是否想要禁用快速搜索特性？"
+
+msgid "The status code as returned by the dictionary server"
+msgstr "字典服务器返回的状态代码"
+
+msgid "The strategy used to query the GdictContext"
+msgstr "查询 GdictContext 所使用的策略"
+
+msgid "The transport mechanism used by this dictionary source"
+msgstr "此字典源所使用的传送机制"
+
+msgid "There is no installed viewer capable of displaying the document."
+msgstr "没有安装能显示文档的查看器。"
+
+msgid "There is no installed viewer capable of displaying the folder."
+msgstr "没有安装能显示文件夹的查看器。"
+
+msgid "There was an error displaying help."
+msgstr "显示帮助时出错。"
+
+msgid "There was an error displaying help: %s"
+msgstr "显示帮助时发生错误：%s"
+
+msgid "There was an error while displaying help"
+msgstr "显示帮助时出错"
+
+msgid "This key defines the default value of the \"Look in Folder\" widget."
+msgstr "这关键码定义widget“查找文件夹”的默认值。"
+
+msgid "This key defines the items which were searched for in the past."
+msgstr "此键值定义曾经搜索的内容。"
+
+msgid ""
+"This key defines the order of the columns in the search results. This key "
+"should not be modified by the user."
+msgstr "此键定义了搜索结果中各列的顺序。此键不应该由用户自行修改。"
+
+msgid ""
+"This key defines the paths the search tool will exclude from a quick search."
+" The wildcards '*' and '?' are supported. The default values are /mnt/*, "
+"/media/*, /dev/*, /tmp/*, /proc/*, and /var/*."
+msgstr ""
+"此键定义了执行快速搜索时被排除的路径。支持通配符“*”和“?”。默认值为 /mnt/*、/media/*、/dev/*、/tmp/*、/proc/* 和"
+" /var/*。"
+
+msgid ""
+"This key defines the paths the search tool will exclude from a second scan "
+"when performing a quick search. The second scan uses the find command to "
+"search for files. The purpose of the second scan is to find files that have "
+"not been indexed. The wildcards '*' and '?' are supported. The default value"
+" is /."
+msgstr ""
+"此键定义了执行快速搜索时第二遍扫描被排除的路径。第二遍扫描使用 find "
+"命令来搜索文件。第二遍扫描的目的是查找没有加入索引的文件。支持通配符“*”和“?”。默认值为 /。"
+
+msgid ""
+"This key defines the window height, and it's used to remember the size of "
+"the search tool between sessions. Setting it to -1 will make the search tool"
+" use the default height."
+msgstr "此键定义了窗口高度，用于在不同的会话间记忆搜索工具的大小。将其设置为 -1 将使得搜索工具使用默认高度。"
+
+msgid ""
+"This key defines the window width, and it's used to remember the size of the"
+" search tool between sessions. Setting it to -1 will make the search tool "
+"use the default width."
+msgstr "此键定义了窗口宽度，用于在不同的会话间记忆搜索工具的大小。将其设置为 -1 将使得搜索工具使用默认宽度。"
+
+msgid ""
+"This key determines if the \"Contains the text\" search option is selected "
+"when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“包含文字”搜索选项。"
+
+msgid ""
+"This key determines if the \"Date modified less than\" search option is "
+"selected when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“修改日期早于”搜索选项。"
+
+msgid ""
+"This key determines if the \"Date modified more than\" search option is "
+"selected when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“修改日期晚于”搜索选项。"
+
+msgid ""
+"This key determines if the \"Exclude other filesystems\" search option is "
+"selected when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“排除其它文件夹系统”搜索选项。"
+
+msgid ""
+"This key determines if the \"File is empty\" search option is selected when "
+"the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“文件为空”搜索选项。"
+
+msgid ""
+"This key determines if the \"Follow symbolic links\" search option is "
+"selected when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“跟随符号链接”搜索选项。"
+
+msgid ""
+"This key determines if the \"Name does not contain\" search option is "
+"selected when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“名称不包含”搜索选项。"
+
+msgid ""
+"This key determines if the \"Name matches regular expression\" search option"
+" is selected when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“名称匹配正则表达式”搜索选项。"
+
+msgid ""
+"This key determines if the \"Owned by group\" search option is selected when"
+" the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“由组所有”搜索选项。"
+
+msgid ""
+"This key determines if the \"Owned by user\" search option is selected when "
+"the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“由用户所有”搜索选项。"
+
+msgid ""
+"This key determines if the \"Owner is unrecognized\" search option is "
+"selected when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“属主无法识别”搜索选项。"
+
+msgid ""
+"This key determines if the \"Show hidden files and folders\" search option "
+"is selected when the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“显示隐藏文件和文件夹”搜索选项。"
+
+msgid ""
+"This key determines if the \"Size at least\" search option is selected when "
+"the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“大小至少为”搜索选项。"
+
+msgid ""
+"This key determines if the \"Size at most\" search option is selected when "
+"the search tool is started."
+msgstr "此键决定了搜索工具启动时是否选中“大小至多为”搜索选项。"
+
+msgid ""
+"This key determines if the search tool disables the use of the find command "
+"after performing a quick search."
+msgstr "此键决定了是否禁止搜索工具在执行快速搜索后使用 find 命令。"
+
+msgid ""
+"This key determines if the search tool disables the use of the locate "
+"command when performing simple file name searches."
+msgstr "此键决定了是否禁止搜索工具在执行简单的文件名搜索时使用 locate 命令。"
+
+msgid ""
+"This key determines if the search tool window starts in a maximized state."
+msgstr "此键决定了是否禁止搜索工具是否以最大化状态启动。"
+
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details."
+msgstr "发行本程序是希望它有所作用，但没有任何担保；没有任何暗示的担保或因某一特别目的而适用。更多细节请参见 GNU 通用公共许可证。"
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version."
+msgstr ""
+"本程序是自由软件；您可以在自由软件基金会发布的 GNU 通用公共许可证的条款下重新分发和(或)修改它；您可以选择使用 GPL "
+"第二版，或(按照您的意愿)任何更新的版本。"
+
+msgid "This version of System Log does not support GZipped logs."
+msgstr "这个系统日志的版本不支持GZipped日志。"
+
+msgid "This will open %d separate window."
+msgid_plural "This will open %d separate windows."
+msgstr[0] "这样将打开 %d 个单独的文件夹。"
+
+msgid "This will permanently remove the dictionary source from the list."
+msgstr "这将从列表中永久删除字典源。"
+
+msgid "Toggle dictionary window"
+msgstr "切换字典窗口"
+
+msgid "Too many arguments. Only one directory can be specified."
+msgstr "参数太多，只可以指定一个目录。"
+
+msgid "Toolbar is Visible"
+msgstr "工具栏可见"
+
+msgid "Total Size"
+msgstr "总大小"
+
+msgid "Total filesystem capacity"
+msgstr "文件系统总容量"
+
+msgid "Total filesystem capacity:"
+msgstr "总计文件系统容量："
+
+msgid "Total filesystem usage"
+msgstr "文件系统总用量"
+
+msgid "Transport"
+msgstr "传送"
+
+msgid "Trash is unavailable.  Could not move \"%s\" to the trash."
+msgstr "回收站不可用。无法将“%s”移动到回收站。"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type the word you want to look up"
+msgstr "输入您想要查阅的单词"
+
+msgid "USER"
+msgstr "用户"
+
+msgid ""
+"Unable to clear the temporary folder:\n"
+"%s"
+msgstr ""
+"无法清除临时文件夹：\n"
+"%s"
+
+msgid "Unable to connect to the dictionary server at '%s:%d'"
+msgstr "无法连接到“%s:%d”的字典服务器"
+
+msgid ""
+"Unable to connect to the dictionary server at '%s:%d'. The server replied "
+"with code %d (server down)"
+msgstr "无法连接到字典服务器“%s:%d”。服务器返回了代码 %d(服务器已停机)"
+
+msgid "Unable to create a context"
+msgstr "无法创建上下文"
+
+msgid "Unable to create a source file"
+msgstr "无法创建源文件"
+
+msgid "Unable to create socket"
+msgstr "无法创建套接字"
+
+msgid "Unable to create the data directory '%s': %s"
+msgstr "无法创建数据目录“%s”：%s"
+
+msgid "Unable to display the preview: %s"
+msgstr "无法显示预览：%s"
+
+msgid "Unable to find a suitable dictionary source"
+msgstr "找不到合适的字典源"
+
+msgid "Unable to find dictionary source"
+msgstr "找不到字典源"
+
+msgid ""
+"Unable to get the '%s' key inside the dictionary source definition file: %s"
+msgstr "无法在字典源定义文件中找到“%s”键：%s"
+
+msgid "Unable to get the '%s' key inside the dictionary source definition: %s"
+msgstr "无法在字典源定义中找到“%s”键：%s"
+
+msgid ""
+"Unable to parse the dictionary server reply\n"
+": '%s'"
+msgstr ""
+"无法分析字典服务器回复\n"
+"：“%s”"
+
+msgid "Unable to remove source '%s'"
+msgstr "无法删除源“%s”"
+
+msgid "Unable to rename file '%s' to '%s': %s"
+msgstr "无法将文件“%s”重命名为“%s”：%s"
+
+msgid "Unable to save source file"
+msgstr "无法保存源文件"
+
+msgid "Unable to set the channel as non-blocking: %s"
+msgstr "无法将频道设定为非屏蔽：%s"
+
+msgid "Unable to take a screenshot of the current window"
+msgstr "无法对当前窗口抓图"
+
+msgid "Unknown error saving screenshot to disk"
+msgstr "将抓图保存到磁盘出现未知错误"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "不能识别的桌面文件版本 '%s'"
+
+msgid "Unrecognized launch option: %d"
+msgstr "不能识别的启动选项：%d"
+
+msgid "Untitled Window"
+msgstr "无标题窗口"
+
+msgid "Untitled document"
+msgstr "无标题文档"
+
+msgid "Usage"
+msgstr "用量"
+
+msgid "VALUE"
+msgstr "值"
+
+msgid "Version: "
+msgstr "版本："
+
+msgid "View as Rings Chart"
+msgstr "查看为圆环图"
+
+msgid "View as Treemap Chart"
+msgstr "查看为树形图"
+
+msgid "View or monitor system log files"
+msgstr "查看或监视系统日志文件"
+
+msgid "WebDAV (HTTP)"
+msgstr "WebDAV (HTTP)"
+
+msgid "Whether any change to the home directory should be monitored."
+msgstr "是否应该监视对主目录的任何更改。"
+
+msgid "Whether the context uses only local dictionaries or not"
+msgstr "上下文是否只使用本地字典"
+
+msgid "Whether the status bar at the bottom of main window should be visible."
+msgstr "主窗口底部的状态栏是否可见。"
+
+msgid "Whether the subfolder tooltips of the selected folder are drawn."
+msgstr "是否绘制选中文件夹的子文件夹工具提示。"
+
+msgid "Whether the toolbar should be visible in main window."
+msgstr "主窗口中的工具栏是否可见。"
+
+msgid "Which type of chart should be displayed."
+msgstr "显示何种图表。"
+
+msgid "Width of the main window in pixels"
+msgstr "主窗口的宽度，以像素计"
+
+msgid "Windows share"
+msgstr "Windows 共享"
+
+msgid "Without mount points disk usage cannot be analyzed."
+msgstr "没有挂载点，无法分析磁盘使用情况。"
+
+msgid "Word `%s' selected"
+msgstr "选中了单词“%s”"
+
+msgid "Words to look up"
+msgstr "要查阅的单词"
+
+msgid "Words to match"
+msgstr "要匹配的单词"
+
+msgid "Wrapped"
+msgstr "换行"
+
+msgid "You did not select a document name."
+msgstr "您没有选择文档名称。"
+
+msgid "You don't have enough permissions to read the file."
+msgstr "您没有足够的权限读这个文件。"
+
+msgid "You may not have write permissions to the document."
+msgstr "您可能没有对文档的写权限。"
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA"
+msgstr ""
+"你应该已经随本程序一起收到一份 GNU 通用公共许可证副本；如果没有，你可以写信给 \"\"the Free Software Foundation, "
+"Inc., 51 Franklin Street, Fifth Floor, Boston, \"\"MA 02110-1301, USA \""
+
+msgid "Zoom in"
+msgstr "放大"
+
+msgid "Zoom out"
+msgstr "缩小"
+
+msgid "[DIRECTORY]"
+msgstr "[目录]"
+
+msgid "[LOGFILE...]"
+msgstr "[日志文件...]"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Analyzer"
+msgstr "分析器(_A)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Collapse All"
+msgstr "全部折叠(_C)"
+
+msgid "_Contents"
+msgstr "目录(_C)"
+
+msgid "_Copy"
+msgstr "复制(_C)"
+
+msgid "_Date modified less than"
+msgstr "修改日期少于(_D)"
+
+msgid "_Description:"
+msgstr "描述(_D)："
+
+msgid "_Domain Name:"
+msgstr "域名(_D)："
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_Expand All"
+msgstr "全部展开(_E)"
+
+msgid "_File"
+msgstr "文件(_F)"
+
+msgid "_Filters"
+msgstr "过滤器(_F)"
+
+msgid "_Find..."
+msgstr "查找(_F)..."
+
+msgid "_Find:"
+msgstr "查找(_F)："
+
+msgid "_First Definition"
+msgstr "第一个定义(_F)"
+
+msgid "_Folder:"
+msgstr "文件夹(_F)："
+
+msgid "_Go"
+msgstr "转到(_G)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Image type:"
+msgstr "图像类型(_I)："
+
+msgid "_Last Definition"
+msgstr "最后一个定义(_L)"
+
+msgid "_Location (URI):"
+msgstr "位置(URI)(_L)："
+
+msgid "_Look Up Selected Text"
+msgstr "查阅选中的文本(_L)"
+
+msgid "_Look in folder:"
+msgstr "搜索文件夹(_L)："
+
+msgid "_Monitor changes to your home folder"
+msgstr "监视对主文件夹的更改(_M)"
+
+msgid "_Name contains:"
+msgstr "名称包含(_N)："
+
+msgid "_Name:"
+msgstr "名称(_N)："
+
+msgid "_New"
+msgstr "新建(_N)"
+
+msgid "_Next"
+msgstr "下一个(_N)"
+
+msgid "_Next Definition"
+msgstr "下一个定义(_N)"
+
+msgid "_Open"
+msgstr "打开(_O)"
+
+msgid "_Open Folder"
+msgstr "打开文件夹(_O)"
+
+msgid "_Open with %s"
+msgstr "用 %s 打开（_O）"
+
+msgid "_Open..."
+msgstr "打开(_O)..."
+
+msgid "_Port:"
+msgstr "端口(_P)："
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Previous"
+msgstr "前一个(_P)"
+
+msgid "_Previous Definition"
+msgstr "上一个定义(_P)"
+
+msgid "_Print"
+msgstr "打印(_P)"
+
+msgid "_Print font:"
+msgstr "打印字体(_P)："
+
+msgid "_Print..."
+msgstr "打印(_P)..."
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Regular Expression:"
+msgstr "正则表达式(_R)："
+
+msgid "_Replace"
+msgstr "替换(_R)"
+
+msgid "_Rescan"
+msgstr "重新扫描(_R)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "_Save Results As..."
+msgstr "结果另存为(_S)..."
+
+msgid "_Save a Copy..."
+msgstr "保存副本(_S)..."
+
+msgid "_Scan"
+msgstr "扫描(_S)"
+
+msgid "_Select a dictionary source for looking up words:"
+msgstr "选择查阅单词的字典源(_S)："
+
+msgid "_Server:"
+msgstr "服务器(_S)："
+
+msgid "_Share:"
+msgstr "共享(_S)："
+
+msgid "_Show hidden folders"
+msgstr "显示隐藏文件夹(_S)"
+
+msgid "_Sidebar"
+msgstr "侧边栏(_S)"
+
+msgid "_Statusbar"
+msgstr "状态栏(_S)"
+
+msgid "_Toolbar"
+msgstr "工具栏(_T)"
+
+msgid "_Transport:"
+msgstr "传送(_T)："
+
+msgid "_User Name:"
+msgstr "用户名(_U)："
+
+msgid "_View"
+msgstr "查看(_V)"
+
+msgid "available:"
+msgstr "可用："
+
+msgid "contains hardlinks for:"
+msgstr "包含硬链接："
+
+msgid "days"
+msgstr "天"
+
+msgid "db"
+msgstr "db"
+
+msgid "effect"
+msgstr "效果"
+
+msgid "kilobytes"
+msgstr "千字节"
+
+msgid "last update: %s"
+msgstr "上次更新：%s"
+
+msgid "link (broken)"
+msgstr "链接(已断开)"
+
+msgid "link to %s"
+msgstr "链接到 %s"
+
+msgid "nd copy)"
+msgstr " 个副本)"
+
+msgid "rd copy)"
+msgstr " 个副本)"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "source"
+msgstr "源"
+
+msgid "st copy)"
+msgstr " 个副本)"
+
+msgid "strat"
+msgstr "strat"
+
+msgid "th copy)"
+msgstr " 个副本)"
+
+msgid "today at %-I:%M %p"
+msgstr "今天 %H:%M"
+
+msgid "translator-credits"
+msgstr ""
+"Wang Li <charlesw1234@163.com>\n"
+"Funda Wang <fundawang@linux.net.cn>"
+
+msgid "used:"
+msgstr "已用："
+
+msgid "word"
+msgstr "单词"
+
+msgid "yesterday at %-I:%M %p"
+msgstr "昨天 %H:%M"

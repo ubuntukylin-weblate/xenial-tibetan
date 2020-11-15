@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: diffutils 2.8.7\n"
+"Report-Msgid-Bugs-To: bug-diffutils@gnu.org\n"
+"POT-Creation-Date: 2013-03-24 11:05-0700\n"
+"PO-Revision-Date: 2015-12-27 05:49+0000\n"
+"Last-Translator: Yingxin Zhou <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:34+0000\n"
+
+msgid "%s %s differ: byte %s, line %s\n"
+msgstr "%s %s 不同：第 %s 字节，第 %s 行\n"
+
+msgid "%s %s differ: byte %s, line %s is %3o %s %3o %s\n"
+msgstr "%1$s %2$s 不同：第 %4$s 行，第 %3$s 字节为 %5$3o %6$s %7$3o %8$s\n"
+
+msgid "%s: diff failed: "
+msgstr "%s：diff 失败： "
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s：无效选项 -- \"%c\"\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s：选项 “%c%s” 不允许带有参数\n"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s：选项 “--%s” 不允许带有参数\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s：选项 “%s” 需要带一个参数\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s：选项“-W %s”不允许带有参数\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s: 选项 \"-W %s\" 存在歧义\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s：选项 “%s” 需要带一个参数\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s: 选项需要一个参数 -- \"%c\"\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s：无法识别的选项 “%c%s”\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s：无法识别的选项 “--%s”\n"
+
+msgid "'"
+msgstr "'"
+
+msgid "--from-file and --to-file both specified"
+msgstr "同时指定了选项 --from-file 和 --to-file"
+
+msgid "-D option not supported with directories"
+msgstr "-D 选项不支持目录使用"
+
+msgid "Binary files %s and %s differ\n"
+msgstr "二进制文件 %s 和 %s 不同\n"
+
+msgid "Common subdirectories: %s and %s\n"
+msgstr "%s 和 %s 有共同的子目录\n"
+
+msgid "Compare three files line by line."
+msgstr "逐行比较三个文件。"
+
+msgid "Compare two files byte by byte."
+msgstr "逐字节比较两个文件。"
+
+msgid "Exit status is 0 if inputs are the same, 1 if different, 2 if trouble."
+msgstr "如果输入相同，则退出状态为 0；1 表示输入不同；2 表示有错误产生。"
+
+msgid "Exit status is 0 if successful, 1 if conflicts, 2 if trouble."
+msgstr "退出状态为 0 表示成功，1 表示冲突，2 表示有错误发生。"
+
+msgid "File %s is a %s while file %s is a %s\n"
+msgstr "文件 %s 是%s而文件 %s 是%s\n"
+
+msgid "Files %s and %s are identical\n"
+msgstr "檔案 %s 和 %s 相同\n"
+
+msgid "Files %s and %s differ\n"
+msgstr "文件 %s 和 %s 不同\n"
+
+msgid "Invalid back reference"
+msgstr "无效的向后引用"
+
+msgid "Invalid character class name"
+msgstr "无效的字符种类名称"
+
+msgid "Invalid collation character"
+msgstr "无效的对照字符"
+
+msgid "Invalid content of \\{\\}"
+msgstr "\\{\\} 中的内容无效"
+
+msgid "Invalid preceding regular expression"
+msgstr "无效的前导正则表达式"
+
+msgid "Invalid range end"
+msgstr "范围末端字符无效"
+
+msgid "Invalid regular expression"
+msgstr "无效的正则表达式"
+
+msgid "Memory exhausted"
+msgstr "内存耗尽"
+
+msgid "No match"
+msgstr "没有匹配"
+
+msgid "No newline at end of file"
+msgstr "文件尾没有 newline 字符"
+
+msgid "No previous regular expression"
+msgstr "之前没有任何正则表达式"
+
+msgid "Only in %s: %s\n"
+msgstr "只在 %s 存在：%s\n"
+
+msgid "Packaged by %s\n"
+msgstr "由 %s 打包\n"
+
+msgid "Packaged by %s (%s)\n"
+msgstr "由 %s 打包 (%s)\n"
+
+msgid "Premature end of regular expression"
+msgstr "正则表达式过旱结束"
+
+msgid "Regular expression too big"
+msgstr "正则表达式过大"
+
+msgid ""
+"SKIP values may be followed by the following multiplicative suffixes:\n"
+"kB 1000, K 1024, MB 1,000,000, M 1,048,576,\n"
+"GB 1,000,000,000, G 1,073,741,824, and so on for T, P, E, Z, Y."
+msgstr ""
+"SKIP 值可以加上以下的单位：\n"
+"kB=1000、K=1024、MB=1000000、M=1048576、GB=1000000000、G=1073741824，\n"
+"还有 T、P、E、Z、Y 如此类推。"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Torbjorn Granlund"
+msgstr "Torbjorn Granlund"
+
+msgid "Trailing backslash"
+msgstr "末端有多余的反斜号"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Unmatched ( or \\("
+msgstr "没有匹配的 ( 或 \\("
+
+msgid "Unmatched ) or \\)"
+msgstr "没有匹配的 ) 或 \\"
+
+msgid "Unmatched [ or [^"
+msgstr "没有匹配的 [ 或 [^"
+
+msgid "Unmatched \\{"
+msgstr "没有匹配的 \\{"
+
+msgid "Usage: %s [OPTION]... FILE1 FILE2\n"
+msgstr "用法：%s [选项]... 文件1 文件2\n"
+
+msgid "Usage: %s [OPTION]... FILE1 [FILE2 [SKIP1 [SKIP2]]]\n"
+msgstr "用法: %s [选项]... 文件1 [文件2 [SKIP1 [SKIP2]]]\n"
+
+msgid "Usage: %s [OPTION]... FILES\n"
+msgstr "用法：%s [选项]... FILES\n"
+
+msgid "Usage: %s [OPTION]... MYFILE OLDFILE YOURFILE\n"
+msgstr "用法：%s [选项]... MYFILE OLDFILE YOURFILE\n"
+
+msgid "Written by %s and %s.\n"
+msgstr "作者 %s 和 %s。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+"作者 %s，%s，%s，\n"
+"%s，%s，%s，%s，\n"
+"%s，%s，和其他人。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"作者 %s，%s，%s，\n"
+"%s，%s，%s，%s，\n"
+"%s，和 %s。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"作者 %s，%s，%s，\n"
+"%s，%s，%s，%s，\n"
+"和 %s。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+"作者 %s，%s，%s，\n"
+"%s，%s，%s，和 %s。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+"作者 %s，%s，%s，\n"
+"%s，%s 和 %s。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"作者 %s，%s，%s，\n"
+"%s 和 %s。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"作者 %s，%s，%s，\n"
+"和 %s。\n"
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr "作者 %s，%s，和 %s。\n"
+
+msgid "Written by %s.\n"
+msgstr "作者 %s。\n"
+
+msgid "`"
+msgstr "`"
+
+msgid "block special file"
+msgstr "特殊块文件"
+
+msgid "both files to be compared are directories"
+msgstr "两个要被比较的文件都是目录"
+
+msgid "cannot interactively merge standard input"
+msgstr "不允許以交互方式合并标准输入的内容"
+
+msgid "character special file"
+msgstr "特殊字符文件"
+
+msgid "cmp: EOF on %s\n"
+msgstr "cmp：%s 已结束\n"
+
+msgid "conflicting output style options"
+msgstr "冲突的输出样式选项"
+
+msgid "conflicting tabsize options"
+msgstr "的制表符选项冲突"
+
+msgid "conflicting width options"
+msgstr "宽度选项冲突"
+
+msgid "directory"
+msgstr "目录"
+
+msgid "fifo"
+msgstr "fifo"
+
+msgid "incompatible options"
+msgstr "不兼容的选项"
+
+msgid "input file shrank"
+msgstr "输入文件缩小"
+
+msgid "internal error: invalid diff type in process_diff"
+msgstr "内部错误：process_diff 中的 diff 类型无效"
+
+msgid "internal error: invalid diff type passed to output"
+msgstr "内部错误：传递给输出的 diff 类型无效"
+
+msgid "internal error: screwup in format of diff blocks"
+msgstr "内部错误：diff 区段的格式出错"
+
+msgid "invalid diff format; incomplete last line"
+msgstr "无效的 diff 格式；最后一行不完整"
+
+msgid "invalid diff format; incorrect leading line chars"
+msgstr "无效的 diff 格式；错误的行前导字符"
+
+msgid "invalid diff format; invalid change separator"
+msgstr "无效的 diff 格式；表示内容改变的分隔字符串无效"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid "message queue"
+msgstr "消息队列"
+
+msgid "options -l and -s are incompatible"
+msgstr "选项 -l 和 -s 不兼容"
+
+msgid "pagination not supported on this host"
+msgstr "此系统不支持分页"
+
+msgid "program error"
+msgstr "程序错误"
+
+msgid "read failed"
+msgstr "读取时失败"
+
+msgid "regular empty file"
+msgstr "常规空文件"
+
+msgid "regular file"
+msgstr "常规文件"
+
+msgid "semaphore"
+msgstr "信号量"
+
+msgid "shared memory object"
+msgstr "共享内存目标"
+
+msgid "socket"
+msgstr "套接字"
+
+msgid "stack overflow"
+msgstr "栈溢出"
+
+msgid "standard output"
+msgstr "标准输出"
+
+msgid "stdin"
+msgstr "stdin"
+
+msgid "stdout"
+msgstr "stdout"
+
+msgid "symbolic link"
+msgstr "符号链接"
+
+msgid "too many file label options"
+msgstr "过多的文件标号选项"
+
+msgid "typed memory object"
+msgstr "分类内存目标"
+
+msgid "weird file"
+msgstr "奇怪的文件"
+
+msgid "write failed"
+msgstr "写入失败"

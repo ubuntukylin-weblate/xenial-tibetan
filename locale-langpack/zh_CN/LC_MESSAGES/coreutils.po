@@ -1,0 +1,5189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: coreutils 8.23-pre1\n"
+"Report-Msgid-Bugs-To: bug-coreutils@gnu.org\n"
+"POT-Creation-Date: 2016-01-20 10:34+0000\n"
+"PO-Revision-Date: 2016-02-22 22:50+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:57+0000\n"
+
+msgid "\n"
+msgstr "\n"
+
+msgid ""
+"\n"
+"  ( EXPRESSION )               EXPRESSION is true\n"
+"  ! EXPRESSION                 EXPRESSION is false\n"
+"  EXPRESSION1 -a EXPRESSION2   both EXPRESSION1 and EXPRESSION2 are true\n"
+"  EXPRESSION1 -o EXPRESSION2   either EXPRESSION1 or EXPRESSION2 is true\n"
+msgstr ""
+"\n"
+"  ( 表达式 )\t\t表达式的值为真\n"
+"  ! 表达式\t\t表达式的值为假(非)\n"
+"  表达式1 -a 表达式2\t两个表达式的值都为真时结果为真(与)\n"
+"  表达式1 -o 表达式2\t两个表达式中任一的值为真时结果为真(或)\n"
+
+msgid ""
+"\n"
+"  --check-order     check that the input is correctly sorted, even\n"
+"                      if all input lines are pairable\n"
+"  --nocheck-order   do not check that the input is correctly sorted\n"
+msgstr ""
+"\n"
+"  --check-order\t\t\t检查输入是否被正确排序，即使所有输入行均成对\n"
+"  --nocheck-order\t\t不检查输入是否被正确排序\n"
+
+msgid ""
+"\n"
+"  -1              suppress column 1 (lines unique to FILE1)\n"
+"  -2              suppress column 2 (lines unique to FILE2)\n"
+"  -3              suppress column 3 (lines that appear in both files)\n"
+msgstr ""
+"\n"
+"  -1\t\t不输出文件1 特有的行\n"
+"  -2\t\t不输出文件2 特有的行\n"
+"  -3\t\t不输出两个文件共有的行\n"
+
+msgid ""
+"\n"
+"  -a, --all         same as -b -d --login -p -r -t -T -u\n"
+"  -b, --boot        time of last system boot\n"
+"  -d, --dead        print dead processes\n"
+"  -H, --heading     print line of column headings\n"
+msgstr ""
+"\n"
+"  -a, --all\t\t等于-b -d --login -p -r -t -T -u 选项的组合\n"
+"  -b, --boot\t\t上次系统启动时间\n"
+"  -d, --dead\t\t显示已死的进程\n"
+"  -H, --heading\t输出头部的标题列\n"
+
+msgid ""
+"\n"
+"  -b FILE     FILE exists and is block special\n"
+"  -c FILE     FILE exists and is character special\n"
+"  -d FILE     FILE exists and is a directory\n"
+"  -e FILE     FILE exists\n"
+msgstr ""
+"\n"
+"  -b 文件\t\t指定文件存在且为块设备文件\n"
+"  -c 文件\t\t指定文件存在且为字符设备文件\n"
+"  -d 文件\t\t指定文件存在且为目录\n"
+"  -e 文件\t\t指定文件存在\n"
+
+msgid ""
+"\n"
+"  -l              produce long format output for the specified USERs\n"
+"  -b              omit the user's home directory and shell in long format\n"
+"  -h              omit the user's project file in long format\n"
+"  -p              omit the user's plan file in long format\n"
+"  -s              do short format output, this is the default\n"
+msgstr ""
+"\n"
+"  -l\t对指定用户输出完整的长格式信息\n"
+"  -b\t在长格式中省略用户主目录以及登录 shell\n"
+"  -h\t在长格式中省略用户的项目文件\n"
+"  -p\t在长格式中省略用户的计划文件\n"
+"  -s\t输出短格式信息(默认)\n"
+
+msgid ""
+"\n"
+"  -n STRING            the length of STRING is nonzero\n"
+"  STRING               equivalent to -n STRING\n"
+"  -z STRING            the length of STRING is zero\n"
+"  STRING1 = STRING2    the strings are equal\n"
+"  STRING1 != STRING2   the strings are not equal\n"
+msgstr ""
+"\n"
+"  -n 字符串\t\t字符串的长度非零\n"
+"  字符串\t\t等于\"-n 字符串\"\n"
+"  -z 字符串\t\t字符串的长度为零\n"
+"  字符串1 = 字符串2\t两个字符串相等\n"
+"  字符串1 != 字符串2\t两个字符串不等\n"
+
+msgid ""
+"\n"
+"  ARG1 * ARG2       arithmetic product of ARG1 and ARG2\n"
+"  ARG1 / ARG2       arithmetic quotient of ARG1 divided by ARG2\n"
+"  ARG1 % ARG2       arithmetic remainder of ARG1 divided by ARG2\n"
+msgstr ""
+"\n"
+"  ARG1 * ARG2       计算 ARG1 与ARG2 相乘之积\n"
+"  ARG1 / ARG2       计算 ARG1 与ARG2 相除之商\n"
+"  ARG1 % ARG2       计算 ARG1 与ARG2 相除之余数\n"
+
+msgid ""
+"\n"
+"  ARG1 + ARG2       arithmetic sum of ARG1 and ARG2\n"
+"  ARG1 - ARG2       arithmetic difference of ARG1 and ARG2\n"
+msgstr ""
+"\n"
+"  ARG1 + ARG2       计算 ARG1 与ARG2 相加之和\n"
+"  ARG1 - ARG2       计算 ARG1 与ARG2 相减之差\n"
+
+msgid ""
+"\n"
+"  ARG1 < ARG2       ARG1 is less than ARG2\n"
+"  ARG1 <= ARG2      ARG1 is less than or equal to ARG2\n"
+"  ARG1 = ARG2       ARG1 is equal to ARG2\n"
+"  ARG1 != ARG2      ARG1 is unequal to ARG2\n"
+"  ARG1 >= ARG2      ARG1 is greater than or equal to ARG2\n"
+"  ARG1 > ARG2       ARG1 is greater than ARG2\n"
+msgstr ""
+"\n"
+"  ARG1 < ARG2       ARG1 小于ARG2\n"
+"  ARG1 <= ARG2      ARG1 小于或等于ARG2\n"
+"  ARG1 = ARG2       ARG1 等于ARG2\n"
+"  ARG1 != ARG2      ARG1 不等于ARG2\n"
+"  ARG1 >= ARG2      ARG1 大于或等于ARG2\n"
+"  ARG1 > ARG2       ARG1 大于ARG2\n"
+
+msgid ""
+"\n"
+"  FILE1 -ef FILE2   FILE1 and FILE2 have the same device and inode numbers\n"
+"  FILE1 -nt FILE2   FILE1 is newer (modification date) than FILE2\n"
+"  FILE1 -ot FILE2   FILE1 is older than FILE2\n"
+msgstr ""
+"\n"
+"  文件1 -ef  文件2\t文件1 与文件2 的设备和节点号相等\n"
+"  文件1 -nt  文件2\t文件1 的上次修改时间新于文件2\n"
+"  文件1 -ot  文件2\t文件1 的上次修改时间旧于文件2\n"
+
+msgid ""
+"\n"
+"  INTEGER1 -eq INTEGER2   INTEGER1 is equal to INTEGER2\n"
+"  INTEGER1 -ge INTEGER2   INTEGER1 is greater than or equal to INTEGER2\n"
+"  INTEGER1 -gt INTEGER2   INTEGER1 is greater than INTEGER2\n"
+"  INTEGER1 -le INTEGER2   INTEGER1 is less than or equal to INTEGER2\n"
+"  INTEGER1 -lt INTEGER2   INTEGER1 is less than INTEGER2\n"
+"  INTEGER1 -ne INTEGER2   INTEGER1 is not equal to INTEGER2\n"
+msgstr ""
+"\n"
+"  整数1 -eq 整数2\t整数1 等于整数2\n"
+"  整数1 -ge 整数2\t整数1 大于等于整数2\n"
+"  整数1 -gt 整数2\t整数1 大于 整数2\n"
+"  整数1 -le 整数2\t整数1 大于等于整数2\n"
+"  整数1 -lt 整数2\t整数1 小于 整数2\n"
+"  整数1 -ne 整数2\t整数1 不等于整数2\n"
+
+msgid ""
+"\n"
+"  STRING : REGEXP   anchored pattern match of REGEXP in STRING\n"
+"\n"
+"  match STRING REGEXP        same as STRING : REGEXP\n"
+"  substr STRING POS LENGTH   substring of STRING, POS counted from 1\n"
+"  index STRING CHARS         index in STRING where any CHARS is found, or 0\n"
+"  length STRING              length of STRING\n"
+msgstr ""
+"\n"
+"  字符串 : 表达式\t\t定位字符串中匹配表达式的模式\n"
+"\n"
+"  match 字符串 表达式\t\t等于\"字符串 :表达式\"\n"
+"  substr 字符串 偏移量 长度\t替换字符串的子串，偏移的数值从 1 起计\n"
+"  index 字符串 字符\t\t在字符串中发现字符的地方建立下标，或者标0\n"
+"  length 字符串\t\t\t字符串的长度\n"
+
+msgid ""
+"\n"
+"  a         number all lines\n"
+"  t         number only nonempty lines\n"
+"  n         number no lines\n"
+"  pBRE      number only lines that contain a match for the basic regular\n"
+"            expression, BRE\n"
+"\n"
+"FORMAT is one of:\n"
+"\n"
+"  ln   left justified, no leading zeros\n"
+"  rn   right justified, no leading zeros\n"
+"  rz   right justified, leading zeros\n"
+"\n"
+msgstr ""
+"\n"
+"  a\t对所有行编号\n"
+"  t\t对非空行编号\n"
+"  n\t不编行号\n"
+"  pBRE\t只对符合正则表达式BRE 的行编号\n"
+"\n"
+"FORMAT 是下列之一:\n"
+"\n"
+"  ln\t左对齐，空格不用0 填充\n"
+"  rn \t右对齐，空格不用0 填充\n"
+"  rz \t右对齐，空格用0 填充\n"
+"\n"
+
+msgid ""
+"\n"
+"  b      create a block (buffered) special file\n"
+"  c, u   create a character (unbuffered) special file\n"
+"  p      create a FIFO\n"
+msgstr ""
+"\n"
+"  b      创建(有缓冲的)区块特殊文件\n"
+"  c, u   创建(没有缓冲的)字符特殊文件\n"
+"  p      创建先进先出(FIFO)特殊文件\n"
+
+msgid ""
+"\n"
+"# users=%lu\n"
+msgstr ""
+"\n"
+"# 用户数=%lu\n"
+
+msgid ""
+"\n"
+"A field is a run of blanks (usually spaces and/or TABs), then non-blank\n"
+"characters.  Fields are skipped before chars.\n"
+msgstr ""
+"\n"
+"若域中为先空字符(通常包括空格以及制表符)，然后非空字符，域中字符前的空字符将被跳过。\n"
+
+msgid ""
+"\n"
+"A mere - implies -i.  If no COMMAND, print the resulting environment.\n"
+msgstr ""
+"\n"
+"单纯的 - 意味着 -i。如果没有命令，则打印结果环境。\n"
+
+msgid ""
+"\n"
+"After any flags comes an optional field width, as a decimal number;\n"
+"then an optional modifier, which is either\n"
+"E to use the locale's alternate representations if available, or\n"
+"O to use the locale's alternate numeric symbols if available.\n"
+msgstr ""
+"\n"
+"在任何标记之后还允许一个可选的域宽度指定，它是一个十进制数字。\n"
+"作为一个可选的修饰声明，它可以是E，在可能的情况下使用本地环境关联的\n"
+"表示方式；或者是O，在可能的情况下使用本地环境关联的数字符号。\n"
+
+msgid ""
+"\n"
+"An omitted EXPRESSION defaults to false.  Otherwise,\n"
+"EXPRESSION is true or false and sets exit status.  It is one of:\n"
+msgstr ""
+"\n"
+"被省略的表达式的值默认为假，否则可能为真也可能为假，\n"
+"并会被设为退出状态值。有效的表达式应属于下列之一：\n"
+
+msgid ""
+"\n"
+"As a special case, cp makes a backup of SOURCE when the force and backup\n"
+"options are given and SOURCE and DEST are the same name for an existing,\n"
+"regular file.\n"
+msgstr ""
+"\n"
+"有一个特别情况：如果同时指定--force 和--backup 选项，而源文件和目标文件\n"
+"是同一个已存在的一般文件的话，cp 会将源文件备份。\n"
+
+msgid ""
+"\n"
+"Beware that many operators need to be escaped or quoted for shells.\n"
+"Comparisons are arithmetic if both ARGs are numbers, else lexicographical.\n"
+"Pattern matches return the string matched between \\( and \\) or null; if\n"
+"\\( and \\) are not used, they return the number of characters matched or 0.\n"
+msgstr ""
+"\n"
+"请注意有许多运算操作符都可能需要由 shell 先实施转义。\n"
+"如果参与运算的 ARG 自变量都是数字，比较符就会被视作数学符号，否则就是多义的。\n"
+"模式匹配会返回\"\\\"和\"\\\"之间被匹配的子字符串或空(null)；如果未使用\"\\\"和\"\\\"，\n"
+"则会返回匹配字符数量或是 0。\n"
+
+msgid ""
+"\n"
+"Both MAJOR and MINOR must be specified when TYPE is b, c, or u, and they\n"
+"must be omitted when TYPE is p.  If MAJOR or MINOR begins with 0x or 0X,\n"
+"it is interpreted as hexadecimal; otherwise, if it begins with 0, as octal;\n"
+"otherwise, as decimal.  TYPE may be:\n"
+msgstr ""
+"\n"
+"当类型为\"p\"时可不指定主设备号和次设备号，否则它们是必须指定的。\n"
+"如果主设备号和次设备号以\"0x\"或\"0X\"开头，它们会被视作十六进制数来\n"
+"解析；如果以\"0\"开头，则被视作八进制数；其余情况下被视作十进制数。\n"
+"可用的类型包括：\n"
+
+msgid ""
+"\n"
+"By default, rm does not remove directories.  Use the --recursive (-r or -R)\n"
+"option to remove each listed directory, too, along with all of its contents.\n"
+msgstr ""
+"\n"
+"默认时，rm 不会删除目录。使用--recursive(-r 或-R)选项可删除每个给定\n"
+"的目录，以及其下所有的内容。\n"
+
+msgid ""
+"\n"
+"By default, selects -v1 -i1 -l1 -sTAB -w6 -nrn -hn -bt -fn.  CC are\n"
+"two delimiter characters for separating logical pages, a missing\n"
+"second character implies :.  Type \\\\ for \\.  STYLE is one of:\n"
+msgstr ""
+"\n"
+"默认的选项设置是-v1 -i1 -l1 -sTAB -w6 -nrn -hn -bt -fn。CC 是用于分隔\n"
+"逻辑页数的两个分界符，其中缺失的第二个字符暗含了\":\"，如果您要指定\"\\\"，\n"
+"请输入\"\\\\\"。可用的样式如下：\n"
+
+msgid ""
+"\n"
+"By default, sparse SOURCE files are detected by a crude heuristic and the\n"
+"corresponding DEST file is made sparse as well.  That is the behavior\n"
+"selected by --sparse=auto.  Specify --sparse=always to create a sparse DEST\n"
+"file whenever the SOURCE file contains a long enough sequence of zero bytes.\n"
+"Use --sparse=never to inhibit creation of sparse files.\n"
+"\n"
+"When --reflink[=always] is specified, perform a lightweight copy, where the\n"
+"data blocks are copied only when modified.  If this is not possible the copy\n"
+"fails, or if --reflink=auto is specified, fall back to a standard copy.\n"
+msgstr ""
+"\n"
+"默认情况下，源文件的稀疏性仅仅通过简单的方法判断，对应的目标文件目标文件也\n"
+"被为稀疏。这是因为默认情况下使用了--sparse=auto 参数。如果明确使用\n"
+"--sparse=always 参数则不论源文件是否包含足够长的0 序列也将目标文件创文\n"
+"建为稀疏件。\n"
+"使用--sparse=never 参数禁止创建稀疏文件。\n"
+"\n"
+"当指定了--reflink[=always] 参数时执行轻量化的复制，即只在数据块被修改的\n"
+"情况下才复制。如果复制失败或者同时指定了--reflink=auto，则返回标准复制模式。\n"
+
+msgid ""
+"\n"
+"Display values are in units of the first available SIZE from --block-size,\n"
+"and the %s_BLOCK_SIZE, BLOCK_SIZE and BLOCKSIZE environment variables.\n"
+"Otherwise, units default to 1024 bytes (or 512 if POSIXLY_CORRECT is set).\n"
+msgstr ""
+"\n"
+"所显示的数值是来自 --block-size、%s_BLOCK_SIZE、BLOCK_SIZE \n"
+"及 BLOCKSIZE 环境变量中第一个可用的 SIZE 单位。\n"
+"否则，默认单位是 1024 字节(或是 512，若设定 POSIXLY_CORRECT 的话)。\n"
+
+msgid ""
+"\n"
+"Each FLAG symbol may be:\n"
+"\n"
+"  append    append mode (makes sense only for output; conv=notrunc suggested)\n"
+msgstr ""
+"\n"
+"FLAG 符号可以是：\n"
+"\n"
+"  append\t追加模式(仅对输出有意义；隐含了conv=notrunc)\n"
+
+msgid ""
+"\n"
+"Examples:\n"
+"  %s -12 file1 file2  Print only lines present in both file1 and file2.\n"
+"  %s -3 file1 file2  Print lines in file1 not in file2, and vice versa.\n"
+msgstr ""
+"\n"
+"示例：\n"
+"  %s -12 文件1 文件2  只打印在文件1 和文件2 中都有的行\n"
+"  %s -3  文件1 文件2  打印在文件1 中有，而文件2 中没有的行。反之亦然。\n"
+
+msgid ""
+"\n"
+"Examples:\n"
+"  %s f - g  Output f's contents, then standard input, then g's contents.\n"
+"  %s        Copy standard input to standard output.\n"
+msgstr ""
+"\n"
+"示例：\n"
+"  %s f - g  先输出f 的内容，然后输出标准输入的内容，最后输出g 的内容。\n"
+"  %s        将标准输入的内容复制到标准输出。\n"
+
+msgid ""
+"\n"
+"Examples:\n"
+"  %s root /u        Change the owner of /u to \"root\".\n"
+"  %s root:staff /u  Likewise, but also change its group to \"staff\".\n"
+"  %s -hR root /u    Change the owner of /u and subfiles to \"root\".\n"
+msgstr ""
+"\n"
+"示例：\n"
+"  %s root /u\t\t将 /u 的属主更改为\"root\"。\n"
+"  %s root:staff /u\t和上面类似，但同时也将其属组更改为\"staff\"。\n"
+"  %s -hR root /u\t将 /u 及其子目录下所有文件的属主更改为\"root\"。\n"
+
+msgid ""
+"\n"
+"Examples:\n"
+"  %s staff /u      Change the group of /u to \"staff\".\n"
+"  %s -hR staff /u  Change the group of /u and subfiles to \"staff\".\n"
+msgstr ""
+"\n"
+"示例：\n"
+"  %s staff /u            将 /u 的属组更改为\"staff\"。\n"
+"  %s -hR staff /u    将 /u 及其子目录下所有文件的属组更改为\"staff\"。\n"
+
+msgid ""
+"\n"
+"Except for -h and -L, all FILE-related tests dereference symbolic links.\n"
+"Beware that parentheses need to be escaped (e.g., by backslashes) for shells.\n"
+"INTEGER may also be -l STRING, which evaluates to the length of STRING.\n"
+msgstr ""
+"\n"
+"除-h 和-L 以外，其它所有与指定文件相关的测试都会作用于符号链接。\n"
+"请留心您在必要时需由shell 转义圆括号字符(例如使用反斜杠)。\n"
+"指定整数也可用\"-l 字符串\"表示，这会估算相应字符串的长度。\n"
+
+msgid ""
+"\n"
+"Exit status is 0 if EXPRESSION is neither null nor 0, 1 if EXPRESSION is null\n"
+"or 0, 2 if EXPRESSION is syntactically invalid, and 3 if an error occurred.\n"
+msgstr ""
+"\n"
+"若表达式的值既不是空也不是 0，退出状态值为 0；若表达式的值为空或为 0，\n"
+"退出状态值为 1。如果表达式的句法无效，则会在出错时返回退出状态值 3。\n"
+
+msgid ""
+"\n"
+"Exit status:\n"
+" 0  if OK,\n"
+" 1  if minor problems (e.g., cannot access subdirectory),\n"
+" 2  if serious trouble (e.g., cannot access command-line argument).\n"
+msgstr ""
+"\n"
+"退出状态：\n"
+" 0  正常\n"
+" 1  一般问题 (例如：无法访问子文件夹)\n"
+" 2  严重问题 (例如：无法使用命令行参数)\n"
+
+msgid ""
+"\n"
+"FORMAT controls the output as in C printf.  Interpreted sequences are:\n"
+"\n"
+"  \\\"      double quote\n"
+msgstr ""
+"\n"
+"指定格式类似 C 中的 printf 函数，可控制输出。有效的解释序列有：\n"
+"\n"
+"  \\\"\t\t双引号\n"
+
+msgid ""
+"\n"
+"FORMAT controls the output.  Interpreted sequences are:\n"
+"\n"
+"  %%   a literal %\n"
+"  %a   locale's abbreviated weekday name (e.g., Sun)\n"
+msgstr ""
+"\n"
+"给定的格式FORMAT 控制着输出，解释序列如下：\n"
+"\n"
+"  %%\t一个文字的 %\n"
+"  %a\t当前locale 的星期名缩写(例如： 日，代表星期日)\n"
+
+msgid ""
+"\n"
+"Handle the tty line connected to standard input.  Without arguments,\n"
+"prints baud rate, line discipline, and deviations from stty sane.  In\n"
+"settings, CHAR is taken literally, or coded as in ^c, 0x37, 0177 or\n"
+"127; special values ^- or undef used to disable special characters.\n"
+msgstr ""
+"\n"
+"处理连接到标准输入的tty 终端行设置。当不附加参数时，程序会输出波特率、行约束\n"
+"规则以及与标准stty 设置间的偏差。在设置中，字符会被逐字读取或是被编码为^c、\n"
+"0x37、0177 或127 这样的字符，其中有特殊值^- 或undef 被用于禁止特殊字符。\n"
+
+msgid ""
+"\n"
+"If -e is in effect, the following sequences are recognized:\n"
+"\n"
+msgstr ""
+"\n"
+"若-e 可用，则以下序列即可识别：\n"
+"\n"
+
+msgid ""
+"\n"
+"If first and second call formats both apply, the second format is assumed\n"
+"if the last operand begins with + or (if there are 2 operands) a digit.\n"
+"An OFFSET operand means -j OFFSET.  LABEL is the pseudo-address\n"
+"at first byte printed, incremented when dump is progressing.\n"
+"For OFFSET and LABEL, a 0x or 0X prefix indicates hexadecimal;\n"
+"suffixes may be . for octal and b for multiply by 512.\n"
+msgstr ""
+"\n"
+"如果两个调用格式都适用，系统会在最后一个运算量以\"+\"或数字开始\n"
+"(如果有两个运算量)的情况下采用第二种格式。\n"
+"偏移量是指 -j 偏移量。标签是第一个字节的伪地址，\n"
+"随着累积过程递增。偏移量和标签如果冠以\"0x\"或\"0X\"前缀则\n"
+"表示十六进制数；后缀\".\"代表八进制数，后缀\"b\"表示乘以 512。\n"
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+"\n"
+"许可证：GPLv3+：GNU 通用公共许可证第3 版或更新版本<http://gnu.org/licenses/gpl.html>。\n"
+"本软件是自由软件：您可以自由修改和重新发布它。\n"
+"在法律范围内没有其他保证。\n"
+"\n"
+
+msgid ""
+"\n"
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr ""
+"\n"
+"必选参数对长短选项同时适用。\n"
+
+msgid ""
+"\n"
+"NOTE: [ honors the --help and --version options, but test does not.\n"
+"test treats each of those as it treats any other nonempty STRING.\n"
+msgstr ""
+"\n"
+"注意：[ 服从 --help 和 --version 选项但 test 不同。\n"
+"test 将其和其他非空字符串同能对待。\n"
+
+msgid ""
+"\n"
+"NOTE: your shell may have its own version of %s, which usually supersedes\n"
+"the version described here.  Please refer to your shell's documentation\n"
+"for details about the options it supports.\n"
+msgstr ""
+"\n"
+"注意：您的shell 内含自己的%s 程序版本，它会覆盖这里所提及的相应\n"
+"版本。请查阅您的shell 文档获知它所支持的选项。\n"
+
+msgid ""
+"\n"
+"Note that if you use rm to remove a file, it might be possible to recover\n"
+"some of its contents, given sufficient expertise and/or time.  For greater\n"
+"assurance that the contents are truly unrecoverable, consider using shred.\n"
+msgstr ""
+"\n"
+"请注意，如果使用rm 来删除文件，通常仍可以将该文件恢复原状。如果想保证\n"
+"该文件的内容无法还原，请考虑使用shred。\n"
+
+msgid ""
+"\n"
+"Note that the -d and -t options accept different time-date formats.\n"
+msgstr ""
+"\n"
+"请注意，-d 和-t 选项可接受不同的时间/日期格式。\n"
+
+msgid ""
+"\n"
+"Optional - before SETTING indicates negation.  An * marks non-POSIX\n"
+"settings.  The underlying system defines which settings are available.\n"
+msgstr ""
+"\n"
+"可选- 在设置前的指示中，* 标记出了非POSIX 标准的设置。以下系\n"
+"统定义象征了哪些设置是有效的。\n"
+
+msgid ""
+"\n"
+"Otherwise MODE is a number which may be followed by one of the following:\n"
+"KB 1000, K 1024, MB 1000*1000, M 1024*1024, and so on for G, T, P, E, Z, Y.\n"
+"In this case the corresponding stream will be fully buffered with the buffer\n"
+"size set to MODE bytes.\n"
+msgstr ""
+"\n"
+"否则 MODE 就应该是以下数字单位中的一个：\n"
+"KB 1000，K 1024，MB 1000*1000，M 1024*1024，以及 G、T、P、E、Z、Y。\n"
+"在此情况下，相应的流将缓冲由 MODE 指定大小的缓冲字节。\n"
+
+msgid ""
+"\n"
+"Print the value of EXPRESSION to standard output.  A blank line below\n"
+"separates increasing precedence groups.  EXPRESSION may be:\n"
+"\n"
+"  ARG1 | ARG2       ARG1 if it is neither null nor 0, otherwise ARG2\n"
+"\n"
+"  ARG1 & ARG2       ARG1 if neither argument is null or 0, otherwise 0\n"
+msgstr ""
+"\n"
+"将表达式的值列印到标准输出，分隔符下面的空行可提升算式优先级。\n"
+"可用的表达式有：\n"
+"\n"
+"  ARG1 | ARG2       若ARG1 的值不为0 或者为空，则返回ARG1，否则返回ARG2\n"
+"\n"
+"  ARG1 & ARG2       若两边的值都不为0 或为空，则返回ARG1，否则返回 0\n"
+
+msgid ""
+"\n"
+"Report bugs to: %s\n"
+msgstr ""
+"\n"
+"请向<%s> 报告软件错误。请向 <i18n-zh@googlegroups.com> 报告翻译错误。\n"
+
+msgid ""
+"\n"
+"SETs are specified as strings of characters.  Most represent themselves.\n"
+"Interpreted sequences are:\n"
+"\n"
+"  \\NNN            character with octal value NNN (1 to 3 octal digits)\n"
+"  \\\\              backslash\n"
+"  \\a              audible BEL\n"
+"  \\b              backspace\n"
+"  \\f              form feed\n"
+"  \\n              new line\n"
+"  \\r              return\n"
+"  \\t              horizontal tab\n"
+msgstr ""
+"\n"
+"SET 是一组字符串，一般都可按照字面含义理解。解析序列如下：\n"
+"\n"
+"  \\NNN\t八进制值为NNN 的字符(1 至3 个数位)\n"
+"  \\\\\t\t反斜杠\n"
+"  \\a\t\t终端鸣响\n"
+"  \\b\t\t退格\n"
+"  \\f\t\t换页\n"
+"  \\n\t\t换行\n"
+"  \\r\t\t回车\n"
+"  \\t\t\t水平制表符\n"
+
+msgid ""
+"\n"
+"Use one, and only one of -b, -c or -f.  Each LIST is made up of one\n"
+"range, or many ranges separated by commas.  Selected input is written\n"
+"in the same order that it is read, and is written exactly once.\n"
+msgstr ""
+"\n"
+"仅使用f -b, -c 或-f 中的一个。每一个列表都是专门为一个类别作出的，或者您可以用逗号隔\n"
+"开要同时显示的不同类别。您的输入顺序将作为读取顺序，每个仅能输入一次。\n"
+
+msgid ""
+"\n"
+"Using color to distinguish file types is disabled both by default and\n"
+"with --color=never.  With --color=auto, ls emits color codes only when\n"
+"standard output is connected to a terminal.  The LS_COLORS environment\n"
+"variable can change the settings.  Use the dircolors command to set it.\n"
+msgstr ""
+"\n"
+"使用色彩来区分文件类型的功能已被禁用，默认设置和 --color=never 同时禁用了它。\n"
+"使用 --color=auto 选项，ls 只在标准输出被连至终端时才生成颜色代码。\n"
+"LS_COLORS 环境变量可改变此设置，可使用 dircolors 命令来设置。\n"
+
+msgid ""
+"\n"
+"With no FILE, or when FILE is -, read standard input.\n"
+msgstr ""
+"\n"
+"如果没有指定文件，或者文件为\"-\"，则从标准输入读取。\n"
+
+msgid ""
+"\n"
+"With no options, produce three-column output.  Column one contains\n"
+"lines unique to FILE1, column two contains lines unique to FILE2,\n"
+"and column three contains lines common to both files.\n"
+msgstr ""
+"\n"
+"如果不附带选项，程序会生成三列输出。第一列包含文件1 特有的行，第二列包含 文件2 特有的行，而第三列包含两个文件共有的行。\n"
+
+msgid ""
+"\n"
+"Without any OPTION, print some useful set of identified information.\n"
+msgstr ""
+"\n"
+"如果不附带任何选项，程序会显示一些可供识别用户身份的有用信息。\n"
+
+msgid "        ???"
+msgstr "        ???"
+
+msgid ""
+"      --backup[=CONTROL]       make a backup of each existing destination file\n"
+"  -b                           like --backup but does not accept an argument\n"
+"  -f, --force                  do not prompt before overwriting\n"
+"  -i, --interactive            prompt before overwrite\n"
+"  -n, --no-clobber             do not overwrite an existing file\n"
+"If you specify more than one of -i, -f, -n, only the final one takes effect.\n"
+msgstr ""
+"      --backup[=CONTROL]       为每个已存在的目标文件创建备份\n"
+"  -b                           类似--backup 但不接受参数\n"
+"  -f, --force                  覆盖前不询问\n"
+"  -i, --interactive            覆盖前询问\n"
+"  -n, --no-clobber             不覆盖已存在文件\n"
+"如果您指定了-i、-f、-n 中的多个，仅最后一个生效。\n"
+
+msgid ""
+"      --backup[=CONTROL]      make a backup of each existing destination file\n"
+"  -b                          like --backup but does not accept an argument\n"
+"  -d, -F, --directory         allow the superuser to attempt to hard link\n"
+"                                directories (note: will probably fail due to\n"
+"                                system restrictions, even for the superuser)\n"
+"  -f, --force                 remove existing destination files\n"
+msgstr ""
+"      --backup[=CONTROL]\t为每个已存在的目标文件创建备份文件\n"
+"  -b\t\t\t\t类似--backup，但不接受任何参数\n"
+"  -d, -F, --directory\t\t创建指向目录的硬链接(只适用于超级用户)\n"
+"  -f, --force\t\t\t强行删除任何已存在的目标文件\n"
+
+msgid ""
+"      --backup[=CONTROL]  make a backup of each existing destination file\n"
+"  -b                  like --backup but does not accept an argument\n"
+"  -c                  (ignored)\n"
+"  -C, --compare       compare each pair of source and destination files, and\n"
+"                        in some cases, do not modify the destination at all\n"
+"  -d, --directory     treat all arguments as directory names; create all\n"
+"                        components of the specified directories\n"
+msgstr ""
+"      --backup[=CONTROL]\t为每个已存在的文件创建备份\n"
+"  -b\t\t\t类似--backup 但不接受参数\n"
+"  -c\t\t\t(忽略)\n"
+"  -C, --compare\t\t比较每组源文件和目标文件，在一些情况下不修改目标文件\n"
+"  -d, --directory\t将所有参数视为目录名称；为指定的目录创建所有组件\n"
+
+msgid ""
+"      --batch-size=NMERGE   merge at most NMERGE inputs at once;\n"
+"                            for more use temp files\n"
+msgstr ""
+"      --batch-size=NMERGE\t一次最多合并NMERGE 个输入；如果输入更多\n"
+"\t\t\t\t\t则使用临时文件\n"
+
+msgid ""
+"      --complement        complement the set of selected bytes, characters\n"
+"                            or fields\n"
+msgstr "      --complement\t\t补全选中的字节、字符或域\n"
+
+msgid ""
+"      --debug               annotate the part of the line used to sort,\n"
+"                              and warn about questionable usage to stderr\n"
+"      --files0-from=F       read input from the files specified by\n"
+"                            NUL-terminated names in file F;\n"
+"                            If F is - then read names from standard input\n"
+msgstr ""
+"      --debug\t\t\t为用于排序的行添加注释，并将有可能有问题的\n"
+"\t\t\t\t\t用法输出到标准错误输出\n"
+"      --files0-from=文件\t从指定文件读取以NUL 终止的名称，如果该文件被\n"
+"\t\t\t\t\t指定为\"-\"则从标准输入读文件名\n"
+
+msgid ""
+"      --from=CURRENT_OWNER:CURRENT_GROUP\n"
+"                         change the owner and/or group of each file only if\n"
+"                         its current owner and/or group match those specified\n"
+"                         here.  Either may be omitted, in which case a match\n"
+"                         is not required for the omitted attribute\n"
+msgstr ""
+"      --from=当前所有者:当前所属组\n"
+"                         \t只当每个文件的所有者和组符合选项所指定时才更改所\n"
+"\t\t\t\t有者和组。其中一个可以省略，这时已省略的属性就不\n"
+"\t\t\t\t需要符合原有的属性。\n"
+
+msgid "      --help     display this help and exit\n"
+msgstr "      --help\t\t显示此帮助信息并退出\n"
+
+msgid ""
+"      --lookup      attempt to canonicalize hostnames via DNS\n"
+"  -m                only hostname and user associated with stdin\n"
+"  -p, --process     print active processes spawned by init\n"
+msgstr ""
+"      --lookup\t\t尝试通过 DNS 规范化主机名\n"
+"  -m\t\t\t只针对和标准输入有直接交互的主机和用户\n"
+"  -p, --process\t显示由 init 进程衍生的活动进程\n"
+
+msgid ""
+"      --no-preserve=ATTR_LIST  don't preserve the specified attributes\n"
+"      --parents                use full source file name under DIRECTORY\n"
+msgstr ""
+"      --sno-preserve=属性列表\t不保留指定的文件属性\n"
+"      --parents\t\t\t复制前在目标目录创建来源文件路径中的所有目录\n"
+
+msgid ""
+"      --one-file-system  when removing a hierarchy recursively, skip any\n"
+"                          directory that is on a file system different from\n"
+"                          that of the corresponding command line argument\n"
+msgstr ""
+"      --one-file-system\t\t递归删除一个层级时，跳过所有不符合命令行参\n"
+"\t\t\t\t数的文件系统上的文件\n"
+
+msgid ""
+"      --sort=WORD             sort according to WORD:\n"
+"                                general-numeric -g, human-numeric -h, month -M,\n"
+"                                numeric -n, random -R, version -V\n"
+"  -V, --version-sort          natural sort of (version) numbers within text\n"
+"\n"
+msgstr ""
+"      --sort=WORD\t\t按照WORD 指定的格式排序：\n"
+"\t\t\t\t\t一般数字-g，高可读性-h，月份-M，数字-n，\n"
+"\t\t\t\t\t随机-R，版本-V\n"
+"  -V, --version-sort\t\t在文本内进行自然版本排序\n"
+"\n"
+
+msgid ""
+"      --sparse=WHEN            control creation of sparse files. See below\n"
+"      --strip-trailing-slashes  remove any trailing slashes from each SOURCE\n"
+"                                 argument\n"
+msgstr ""
+"      --sparse=WHEN\t\t控制创建稀疏文件的方式\n"
+"      --strip-trailing-slashes\t删除参数中所有源文件/目录末端的斜杠\n"
+
+msgid ""
+"      --strip-trailing-slashes  remove any trailing slashes from each SOURCE\n"
+"                                 argument\n"
+"  -S, --suffix=SUFFIX          override the usual backup suffix\n"
+msgstr ""
+"      --strip-trailing-slashes\t去掉每个源文件参数尾部的斜线\n"
+"  -S, --suffix=SUFFIX\t\t替换常用的备份文件后缀\n"
+
+msgid ""
+"      --verbose           print a diagnostic just before each\n"
+"                            output file is opened\n"
+msgstr "      --verbose\t\t在每个输出文件打开前输出文件特征\n"
+
+msgid "      --version  output version information and exit\n"
+msgstr "      --version\t\t显示版本信息并退出\n"
+
+msgid ""
+"     --all       print the number of installed processors\n"
+"     --ignore=N  if possible, exclude N processing units\n"
+msgstr ""
+"     --all       打印所拥有的处理器数目\n"
+"     --ignore=N  如果有可能，忽略 N 个处理器\n"
+
+msgid ""
+"   oddp          same as parenb parodd cs7\n"
+"   -oddp         same as -parenb cs8\n"
+"   [-]parity     same as [-]evenp\n"
+"   pass8         same as -parenb -istrip cs8\n"
+"   -pass8        same as parenb istrip cs7\n"
+msgstr ""
+"   oddp\t等于parenb parodd cs7\n"
+"   -oddp\t等于-parenb cs8\n"
+"   [-]parity\t等于[-]evenp\n"
+"   pass8\t等于-parenb -istrip cs8\n"
+"   -pass8\t等于parenb istrip cs7\n"
+
+msgid ""
+"  %A   locale's full weekday name (e.g., Sunday)\n"
+"  %b   locale's abbreviated month name (e.g., Jan)\n"
+"  %B   locale's full month name (e.g., January)\n"
+"  %c   locale's date and time (e.g., Thu Mar  3 23:05:25 2005)\n"
+msgstr ""
+"  %A\t当前locale 的星期名全称 (如：星期日)\n"
+"  %b\t当前locale 的月名缩写 (如：一，代表一月)\n"
+"  %B\t当前locale 的月名全称 (如：一月)\n"
+"  %c\t当前locale 的日期和时间 (如：2005年3月3日 星期四 23:05:25)\n"
+
+msgid ""
+"  %C   century; like %Y, except omit last two digits (e.g., 20)\n"
+"  %d   day of month (e.g., 01)\n"
+"  %D   date; same as %m/%d/%y\n"
+"  %e   day of month, space padded; same as %_d\n"
+msgstr ""
+"  %C\t世纪；比如 %Y，通常为省略当前年份的后两位数字(例如：20)\n"
+"  %d\t按月计的日期(例如：01)\n"
+"  %D\t按月计的日期；等于%m/%d/%y\n"
+"  %e\t按月计的日期，添加空格，等于%_d\n"
+
+msgid ""
+"  %F   full date; same as %Y-%m-%d\n"
+"  %g   last two digits of year of ISO week number (see %G)\n"
+"  %G   year of ISO week number (see %V); normally useful only with %V\n"
+msgstr ""
+"  %F\t完整日期格式，等价于 %Y-%m-%d\n"
+"  %g\tISO-8601 格式年份的最后两位 (参见%G)\n"
+"  %G\tISO-8601 格式年份 (参见%V)，一般只和 %V 结合使用\n"
+
+msgid ""
+"  %S   second (00..60)\n"
+"  %t   a tab\n"
+"  %T   time; same as %H:%M:%S\n"
+"  %u   day of week (1..7); 1 is Monday\n"
+msgstr ""
+"  %S\t秒(00-60)\n"
+"  %t\t输出制表符 Tab\n"
+"  %T\t时间，等于%H:%M:%S\n"
+"  %u\t星期，1 代表星期一\n"
+
+msgid ""
+"  %U   week number of year, with Sunday as first day of week (00..53)\n"
+"  %V   ISO week number, with Monday as first day of week (01..53)\n"
+"  %w   day of week (0..6); 0 is Sunday\n"
+"  %W   week number of year, with Monday as first day of week (00..53)\n"
+msgstr ""
+"  %U\t一年中的第几周，以周日为每星期第一天(00-53)\n"
+"  %V\tISO-8601 格式规范下的一年中第几周，以周一为每星期第一天(01-53)\n"
+"  %w\t一星期中的第几日(0-6)，0 代表周一\n"
+"  %W\t一年中的第几周，以周一为每星期第一天(00-53)\n"
+
+msgid ""
+"  %h   same as %b\n"
+"  %H   hour (00..23)\n"
+"  %I   hour (01..12)\n"
+"  %j   day of year (001..366)\n"
+msgstr ""
+"  %h\t等于%b\n"
+"  %H\t小时(00-23)\n"
+"  %I\t小时(00-12)\n"
+"  %j\t按年计的日期(001-366)\n"
+
+msgid ""
+"  %n   a newline\n"
+"  %N   nanoseconds (000000000..999999999)\n"
+"  %p   locale's equivalent of either AM or PM; blank if not known\n"
+"  %P   like %p, but lower case\n"
+"  %r   locale's 12-hour clock time (e.g., 11:11:04 PM)\n"
+"  %R   24-hour hour and minute; same as %H:%M\n"
+"  %s   seconds since 1970-01-01 00:00:00 UTC\n"
+msgstr ""
+"  %n\t换行\n"
+"  %N\t纳秒(000000000-999999999)\n"
+"  %p\t当前locale 下的\"上午\"或者\"下午\"，未知时输出为空\n"
+"  %P\t与%p 类似，但是输出小写字母\n"
+"  %r\t当前locale 下的 12 小时时钟时间 (如：11:11:04 下午)\n"
+"  %R\t24 小时时间的时和分，等价于 %H:%M\n"
+"  %s\t自UTC 时间 1970-01-01 00:00:00 以来所经过的秒数\n"
+
+msgid ""
+"  %x   locale's date representation (e.g., 12/31/99)\n"
+"  %X   locale's time representation (e.g., 23:13:48)\n"
+"  %y   last two digits of year (00..99)\n"
+"  %Y   year\n"
+msgstr ""
+"  %x\t当前locale 下的日期描述 (如：12/31/99)\n"
+"  %X\t当前locale 下的时间描述 (如：23:13:48)\n"
+"  %y\t年份最后两位数位 (00-99)\n"
+"  %Y\t年份\n"
+
+msgid ""
+"  %z   +hhmm numeric time zone (e.g., -0400)\n"
+"  %:z  +hh:mm numeric time zone (e.g., -04:00)\n"
+"  %::z  +hh:mm:ss numeric time zone (e.g., -04:00:00)\n"
+"  %:::z  numeric time zone with : to necessary precision (e.g., -04, +05:30)\n"
+"  %Z   alphabetic time zone abbreviation (e.g., EDT)\n"
+"\n"
+"By default, date pads numeric fields with zeroes.\n"
+msgstr ""
+"  %z +hhmm\t\t数字时区(例如，-0400)\n"
+"  %:z +hh:mm\t\t数字时区(例如，-04:00)\n"
+"  %::z +hh:mm:ss\t数字时区(例如，-04:00:00)\n"
+"  %:::z\t\t\t数字时区带有必要的精度 (例如，-04，+05:30)\n"
+"  %Z\t\t\t按字母表排序的时区缩写 (例如，EDT)\n"
+"\n"
+"默认情况下，日期的数字区域以0 填充。\n"
+
+msgid ""
+"  +FIRST_PAGE[:LAST_PAGE], --pages=FIRST_PAGE[:LAST_PAGE]\n"
+"                    begin [stop] printing with page FIRST_[LAST_]PAGE\n"
+"  -COLUMN, --columns=COLUMN\n"
+"                    output COLUMN columns and print columns down,\n"
+"                    unless -a is used. Balance number of lines in the\n"
+"                    columns on each page\n"
+msgstr ""
+"  +首页[:末页], --pages=首页[:末页]\n"
+"\t\t\t在指定的首页/末页处开始/停止打印\n"
+"  -列数, --columns=列数\n"
+"\t\t\t输出指定的列数。如果指定了-a 选项，则从上到下列印。\n"
+"\t\t\t程序会自动在每一页均衡每列占用的行数。\n"
+
+msgid "  --output-delimiter=STR  separate columns with STR\n"
+msgstr "  --output-delimiter=STR\t依照STR 分列\n"
+
+msgid ""
+"  -D, --date-format=FORMAT\n"
+"                    use FORMAT for the header date\n"
+"  -e[CHAR[WIDTH]], --expand-tabs[=CHAR[WIDTH]]\n"
+"                    expand input CHARs (TABs) to tab WIDTH (8)\n"
+"  -F, -f, --form-feed\n"
+"                    use form feeds instead of newlines to separate pages\n"
+"                    (by a 3-line page header with -F or a 5-line header\n"
+"                    and trailer without -F)\n"
+msgstr ""
+"  -D, --date-format=格式\n"
+"\t\t\t使用遵循指定格式的页眉日期\n"
+"  -e[字符[宽度]], --expand-tabs[=字符[宽度]]\n"
+"\t\t\t扩展输入的字符(制表符) 到制表符宽度(8)\n"
+"  -F, -f, --form-feed\t使用出纸页页标代替新行作为页面间的分隔符\n"
+"\t\t\t(使用-F 选项时报头为3 行,不使用时为5 行)\n"
+
+msgid ""
+"  -L FILE     FILE exists and is a symbolic link (same as -h)\n"
+"  -O FILE     FILE exists and is owned by the effective user ID\n"
+"  -p FILE     FILE exists and is a named pipe\n"
+"  -r FILE     FILE exists and read permission is granted\n"
+"  -s FILE     FILE exists and has a size greater than zero\n"
+msgstr ""
+"  -L 文件\t\t指定文件存在且为符号链接(等于-h)\n"
+"  -O 文件\t\t指定文件存在且属主ID 有效\n"
+"  -p 文件\t\t指定文件存在且为命名管道\n"
+"  -r 文件\t\t指定文件存在且具备读取权限\n"
+"  -s 文件\t\t指定文件存在且其大小大于0\n"
+
+msgid ""
+"  -L, --logical   use PWD from environment, even if it contains symlinks\n"
+"  -P, --physical  avoid all symlinks\n"
+msgstr ""
+"  -L, --logical\t\t使用环境变量中的PWD，即使其中包含符号链接\n"
+"  -P, --physical\t避免所有符号链接\n"
+
+msgid ""
+"  -R, -r, --recursive          copy directories recursively\n"
+"      --reflink[=WHEN]         control clone/CoW copies. See below\n"
+"      --remove-destination     remove each existing destination file before\n"
+"                                 attempting to open it (contrast with --force)\n"
+msgstr ""
+"  -R, -r, --recursive\t\t递归复制目录及其子目录内的所有内容\n"
+"      --reflink[=WHEN]\t\t控制克隆/CoW 副本。请查看下面的内如。\n"
+"      --remove-destination\t尝试打开目标文件前先删除已存在的目的地\n"
+"\t\t\t\t\t文件 (相对于 --force 选项)\n"
+
+msgid ""
+"  -S FILE     FILE exists and is a socket\n"
+"  -t FD       file descriptor FD is opened on a terminal\n"
+"  -u FILE     FILE exists and its set-user-ID bit is set\n"
+"  -w FILE     FILE exists and write permission is granted\n"
+"  -x FILE     FILE exists and execute (or search) permission is granted\n"
+msgstr ""
+"  -S 文件\t\t指定文件存在且为套接字文件\n"
+"  -t FD\t\t\t已有一个终端打开了文件的描述符FD\n"
+"  -u 文件\t\t指定文件存在且设置了setuid 位\n"
+"  -w 文件\t\t指定文件存在且具备写入权限\n"
+"  -x 文件\t\t指定文件存在且具备执行或搜索(针对目录)权限\n"
+
+msgid ""
+"  -T, --omit-pagination\n"
+"                    omit page headers and trailers, eliminate any pagination\n"
+"                    by form feeds set in input files\n"
+"  -v, --show-nonprinting\n"
+"                    use octal backslash notation\n"
+"  -w, --width=PAGE_WIDTH\n"
+"                    set page width to PAGE_WIDTH (72) characters for\n"
+"                    multiple text-column output only, -s[char] turns off (72)\n"
+msgstr ""
+"  -T, --omit-pagination\n"
+"\t\t\t按照输入文件中的设置忽略页眉和页脚并除去所有分页记号\n"
+"  -v, --show-nonprinting\n"
+"\t\t\t使用八进制反斜杠标记\n"
+"  -w, --width=页面宽度\n"
+"\t\t\t为多栏页面输出将设置为指定的字符数(默认72)，\n"
+"\t\t\t仅当-s[char] 选项不启用时有效(即保持默认值 72)。\n"
+
+msgid ""
+"  -T, -w, --mesg    add user's message status as +, - or ?\n"
+"  -u, --users       list users logged in\n"
+"      --message     same as -T\n"
+"      --writable    same as -T\n"
+msgstr ""
+"  -T, -w, --mesg\t用+，- 或 ? 标注用户消息状态\n"
+"  -u, --users\t\t列出已登录的用户\n"
+"      --message\t等于-T\n"
+"      --writable\t等于-T\n"
+
+msgid ""
+"  -W, --page-width=PAGE_WIDTH\n"
+"                    set page width to PAGE_WIDTH (72) characters always,\n"
+"                    truncate lines, except -J option is set, no interference\n"
+"                    with -S or -s\n"
+msgstr ""
+"  -W, --page-width=页宽\n"
+"\t\t\t总是将页宽设置为指定的(默认72)字符数，\n"
+"\t\t\t除非-J 选项启用总是截断行，此参数与-S 或-s 冲突\n"
+
+msgid ""
+"  -W, --word-regexp=REGEXP       use REGEXP to match each keyword\n"
+"  -b, --break-file=FILE          word break characters in this FILE\n"
+"  -f, --ignore-case              fold lower case to upper case for sorting\n"
+"  -g, --gap-size=NUMBER          gap size in columns between output fields\n"
+"  -i, --ignore-file=FILE         read ignore word list from FILE\n"
+"  -o, --only-file=FILE           read only word list from this FILE\n"
+msgstr ""
+"  -W, --word-regexp=正则表达式\t使用正则表达式匹配每个关键字\n"
+"  -b, --break-file=文件\t\t以文件中包含的单词为分隔字符\n"
+"  -f, --ignore-case\t\t排序时合并小写字母和大写字母\n"
+"  -g, --gap-size=数值\t\t指定多个输出区块间的列间隙尺寸\n"
+"  -i, --ignore-file=文件\t从指定文件中读取忽略单词的列表\n"
+"  -o, --only-file=文件\t\t只从指定文件中读取单词列表\n"
+
+msgid ""
+"  -a                     change only the access time\n"
+"  -c, --no-create        do not create any files\n"
+"  -d, --date=STRING      parse STRING and use it instead of current time\n"
+"  -f                     (ignored)\n"
+msgstr ""
+"  -a\t\t\t只更改访问时间\n"
+"  -c, --no-create\t不创建任何文件\n"
+"  -d, --date=字符串\t使用指定字符串表示时间而非当前时间\n"
+"  -f\t\t\t(忽略)\n"
+
+msgid ""
+"  -a, --across      print columns across rather than down, used together\n"
+"                    with -COLUMN\n"
+"  -c, --show-control-chars\n"
+"                    use hat notation (^G) and octal backslash notation\n"
+"  -d, --double-space\n"
+"                    double space the output\n"
+msgstr ""
+"  -a, --across\t\t设置每列从上到下输出，配合\"-列数\"选项一起使用\n"
+"  -c, --show-control-chars\n"
+"\t\t\t使用头标(^G)和八进制反斜杠标记\n"
+"  -d, --double-space\t加倍输出空白区域\n"
+
+msgid ""
+"  -a, --all                  do not ignore entries starting with .\n"
+"  -A, --almost-all           do not list implied . and ..\n"
+"      --author               with -l, print the author of each file\n"
+"  -b, --escape               print C-style escapes for nongraphic characters\n"
+msgstr ""
+"  -a, --all\t\t\t不隐藏任何以. 开始的项目\n"
+"  -A, --almost-all\t\t列出除. 及.. 以外的任何项目\n"
+"      --author\t\t\t与-l 同时使用时列出每个文件的作者\n"
+"  -b, --escape\t\t\t以八进制溢出序列表示不可打印的字符\n"
+
+msgid ""
+"  -a, --all        convert all blanks, instead of just initial blanks\n"
+"      --first-only  convert only leading sequences of blanks (overrides -a)\n"
+"  -t, --tabs=N     have tabs N characters apart instead of 8 (enables -a)\n"
+"  -t, --tabs=LIST  use comma separated LIST of tab positions (enables -a)\n"
+msgstr ""
+"  -a, --all\t\t转换所有空格，包括但不只起始空格\n"
+"      --first-only\t仅转换起始空格(覆盖-a 选项)\n"
+"  -t, --tabs=N\t\t设置制表符宽度为N 而非默认的8(启用-a 选项)\n"
+"  -t, --tabs=列表\t使用逗号分隔的列表列出制表符位置(启用-a 选项)\n"
+
+msgid ""
+"  -a, --archive                same as -dR --preserve=all\n"
+"      --attributes-only        don't copy the file data, just the attributes\n"
+"      --backup[=CONTROL]       make a backup of each existing destination file\n"
+"  -b                           like --backup but does not accept an argument\n"
+"      --copy-contents          copy contents of special files when recursive\n"
+"  -d                           same as --no-dereference --preserve=links\n"
+msgstr ""
+"  -a, --archive\t\t\t等于-dR --preserve=all\n"
+"      --attributes-only\t仅复制属性而不复制数据      --backup[=CONTROL\t\t为每个已存在的目标文件创建备份\n"
+"  -b\t\t\t\t类似--backup 但不接受参数\n"
+"      --copy-contents\t\t在递归处理是复制特殊文件内容\n"
+"  -d\t\t\t\t等于--no-dereference --preserve=links\n"
+
+msgid ""
+"  -b, --before             attach the separator before instead of after\n"
+"  -r, --regex              interpret the separator as a regular expression\n"
+"  -s, --separator=STRING   use STRING as the separator instead of newline\n"
+msgstr ""
+"  -b, --before\t\t\t在行前而非行尾添加分隔标志\n"
+"  -r, --regex\t\t\t将分隔标志视作正则表达式来解析\n"
+"  -s, --separator=字符串\t使用指定字符串代替换行作为分隔标志\n"
+
+msgid ""
+"  -b, --body-numbering=STYLE      use STYLE for numbering body lines\n"
+"  -d, --section-delimiter=CC      use CC for separating logical pages\n"
+"  -f, --footer-numbering=STYLE    use STYLE for numbering footer lines\n"
+msgstr ""
+"  -b, --body-numbering=样式\t使用指定样式编号文件的正文行目\n"
+"  -d, --section-delimiter=CC\t使用指定的CC 分割逻辑页数\n"
+"  -f, --footer-numbering=样式\t使用指定样式编号文件的页脚行目\n"
+
+msgid ""
+"  -b, --bytes         count bytes rather than columns\n"
+"  -s, --spaces        break at spaces\n"
+"  -w, --width=WIDTH   use WIDTH columns instead of 80\n"
+msgstr ""
+"  -b, --bytes\t\t计算字节数而不是列数\n"
+"  -s,  --spaces\t\t在空格处断行\n"
+"  -w, --width=宽度\t使用指定的列宽度代替默认的80\n"
+
+msgid ""
+"  -b, --bytes=LIST        select only these bytes\n"
+"  -c, --characters=LIST   select only these characters\n"
+"  -d, --delimiter=DELIM   use DELIM instead of TAB for field delimiter\n"
+msgstr ""
+"  -b, --bytes=列表\t\t只选中指定的这些字节\n"
+"  -c, --characters=列表\t\t只选中指定的这些字符\n"
+"  -d, --delimiter=分界符\t使用指定分界符代替制表符作为区域分界\n"
+
+msgid ""
+"  -b, --ignore-leading-blanks  ignore leading blanks\n"
+"  -d, --dictionary-order      consider only blanks and alphanumeric characters\n"
+"  -f, --ignore-case           fold lower case to upper case characters\n"
+msgstr ""
+"  -b, --ignore-leading-blanks\t忽略前导的空白区域\n"
+"  -d, --dictionary-order\t只考虑空白区域和字母字符\n"
+"  -f, --ignore-case\t\t忽略字母大小写\n"
+
+msgid "  -c, --check          read %s sums from the FILEs and check them\n"
+msgstr "  -c, --check\t\t从文件中读取%s 的校验值并予以检查\n"
+
+msgid ""
+"  -c, --check, --check=diagnose-first  check for sorted input; do not sort\n"
+"  -C, --check=quiet, --check=silent  like -c, but do not report first bad line\n"
+"      --compress-program=PROG  compress temporaries with PROG;\n"
+"                              decompress them with PROG -d\n"
+msgstr ""
+"  -c, --check, --check=diagnose-first\t检查输入是否已排序，若已有序则不进行操作\n"
+"  -C, --check=quiet, --check=silent\t类似-c，但不报告第一个无序行\n"
+"      --compress-program=程序\t使用指定程序压缩临时文件；使用该程序\n"
+"\t\t\t\t\t的-d 参数解压缩文件\n"
+
+msgid ""
+"  -c, --crown-margin        preserve indentation of first two lines\n"
+"  -p, --prefix=STRING       reformat only lines beginning with STRING,\n"
+"                              reattaching the prefix to reformatted lines\n"
+"  -s, --split-only          split long lines, but do not refill\n"
+msgstr ""
+"  -c --crown-margin\t\t保持前两行的缩进\n"
+"  -p, --prefix=字符串\t\t只对以指定字符串开头的行重新格式化，\n"
+"\t\t\t\t将前缀重新附着到被重新格式化的行上\n"
+"  -s, --split-only\t\t分割过长的行，但不自动补足\n"
+
+msgid "  -c, --no-create        do not create any files\n"
+msgstr "  -c, --no-create\t不创建文件\n"
+
+msgid ""
+"  -d, --decode          decode data\n"
+"  -i, --ignore-garbage  when decoding, ignore non-alphabet characters\n"
+"  -w, --wrap=COLS       wrap encoded lines after COLS character (default 76).\n"
+"                          Use 0 to disable line wrapping\n"
+"\n"
+msgstr ""
+"  -d, --decode\t\t解码数据\n"
+"  -i, --ignore-garbag\t解码时忽略非字母字符\n"
+"  -w, --wrap=字符数\t在指定的字符数后自动换行(默认为76)，0 为禁用自动换行\n"
+"\n"
+
+msgid ""
+"  -d, --delimiters=LIST   reuse characters from LIST instead of TABs\n"
+"  -s, --serial            paste one file at a time instead of in parallel\n"
+msgstr ""
+"  -d, --delimiters=列表\t改用指定列表里的字符替代制表分隔符\n"
+"  -s, --serial\t\t不使用平行的行目输出模式，而是每个文件占用一行\n"
+
+msgid ""
+"  -d, --directory     create a directory, not a file\n"
+"  -u, --dry-run       do not create anything; merely print a name (unsafe)\n"
+"  -q, --quiet         suppress diagnostics about file/dir-creation failure\n"
+msgstr ""
+"  -d, --directory     创建一个目录而非文件\n"
+"  -u, --dry-run       不创建任何东西，仅打印出名字。(仅供测试)\n"
+"  -q, --quiet         不显示任何有关文件或目录创建错误信息\n"
+
+msgid ""
+"  -e             enable interpretation of backslash escapes\n"
+"  -E             disable interpretation of backslash escapes (default)\n"
+msgstr ""
+"  -e\t\t启用解释反斜杠的转义功能\n"
+"  -E\t\t禁用解释反斜杠的转义功能(默认)\n"
+
+msgid ""
+"  -e             enable interpretation of backslash escapes (default)\n"
+"  -E             disable interpretation of backslash escapes\n"
+msgstr ""
+"  -e\t\t启用解释反斜杠的转义功能(默认)\n"
+"  -E\t\t禁用解释反斜杠的转义功能\n"
+
+msgid ""
+"  -f              omit the line of column headings in short format\n"
+"  -w              omit the user's full name in short format\n"
+"  -i              omit the user's full name and remote host in short format\n"
+"  -q              omit the user's full name, remote host and idle time\n"
+"                  in short format\n"
+msgstr ""
+"  -f\t在短格式中省略列栏报头\n"
+"  -w\t在短格式中省略用户全名\n"
+"  -i\t在短格式中省略用户全名以及远程主机\n"
+"  -q\t在短格式中省略用户全名、远程主机以及空闲时间\n"
+
+msgid ""
+"  -f   same as -t fF, select floats\n"
+"  -i   same as -t dI, select decimal ints\n"
+"  -l   same as -t dL, select decimal longs\n"
+"  -o   same as -t o2, select octal 2-byte units\n"
+"  -s   same as -t d2, select decimal 2-byte units\n"
+"  -x   same as -t x2, select hexadecimal 2-byte units\n"
+msgstr ""
+"  -f\t即 -t fF，指定浮点数对照输出格式\n"
+"  -i\t即 -t dl，指定十进制整数对照输出格式\n"
+"  -l\t即 -t dL，指定十进制长整数对照输出格式\n"
+"  -o\t即 -t o2，指定双字节单位八进制数的对照输出格式\n"
+"  -s\t即 -t d2，指定双字节单位十进制数的对照输出格式\n"
+"  -x\t即 -t x2，指定双字节单位十六进制数的对照输出格式\n"
+
+msgid ""
+"  -f FILE     FILE exists and is a regular file\n"
+"  -g FILE     FILE exists and is set-group-ID\n"
+"  -G FILE     FILE exists and is owned by the effective group ID\n"
+"  -h FILE     FILE exists and is a symbolic link (same as -L)\n"
+"  -k FILE     FILE exists and has its sticky bit set\n"
+msgstr ""
+"  -f 文件\t\t指定文件存在且为普通文件\n"
+"  -g 文件\t\t指定文件存在且设置了setgid 位\n"
+"  -G 文件\t\t指定文件存在且属组ID 有效\n"
+"  -h 文件\t\t指定文件存在且为符号链接 (等价于 -L)\n"
+"  -k 文件\t\t指定文件存在且设置了粘附位\n"
+
+msgid ""
+"  -f, --canonicalize            canonicalize by following every symlink in\n"
+"                                every component of the given name recursively;\n"
+"                                all but the last component must exist\n"
+"  -e, --canonicalize-existing   canonicalize by following every symlink in\n"
+"                                every component of the given name recursively,\n"
+"                                all components must exist\n"
+msgstr ""
+"  -f, --canonicalize\t\t递归的跟随给定文件名的所有符号链接以规范化，\n"
+"\t\t\t\t除最后一个外所有组件必须存在\n"
+"  -e, --canonicalize-existing\t递归跟随给定文件名的所有符号链接以规范化，\n"
+"\t\t\t\t所有组件都必须存在\n"
+
+msgid ""
+"  -f, --fields=LIST       select only these fields;  also print any line\n"
+"                            that contains no delimiter character, unless\n"
+"                            the -s option is specified\n"
+"  -n                      (ignored)\n"
+msgstr ""
+"  -f, --fields=列表\t\t只选中指定的这些域；并打印所有不包含分界符的\n"
+"\t\t\t\t行，除非-s 选项被指定\n"
+"  -n\t\t\t\t(忽略)\n"
+
+msgid ""
+"  -f, --force    change permissions to allow writing if necessary\n"
+"  -n, --iterations=N  overwrite N times instead of the default (%d)\n"
+"      --random-source=FILE  get random bytes from FILE\n"
+"  -s, --size=N   shred this many bytes (suffixes like K, M, G accepted)\n"
+msgstr ""
+"  -f, --force\t\t必要时修改权限以使目标可写\n"
+"  -n, --iterations=N\t覆盖N 次，而非使用默认的%d 次\n"
+"      --random-source=文件\t从指定文件中取出随机字节\n"
+"  -s, --size=N\t\t粉碎数据为指定字节的碎片(可使用K、M 和G 作为单位)\n"
+
+msgid "  -g                         like -l, but do not list owner\n"
+msgstr "  -g\t\t\t\t类似-l，但不列出所有者\n"
+
+msgid ""
+"  -h, --header-numbering=STYLE    use STYLE for numbering header lines\n"
+"  -i, --line-increment=NUMBER     line number increment at each line\n"
+"  -l, --join-blank-lines=NUMBER   group of NUMBER empty lines counted as one\n"
+"  -n, --number-format=FORMAT      insert line numbers according to FORMAT\n"
+"  -p, --no-renumber               do not reset line numbers at logical pages\n"
+"  -s, --number-separator=STRING   add STRING after (possible) line number\n"
+msgstr ""
+"  -h, --header-numbering=样式\t使用指定样式编号文件的页眉行目\n"
+"  -i, --page-increment=数值\t设置每一行遍历后的自动递增值\n"
+"  -l, --join-blank-lines=数值\t设置数值为多少的若干空行被视作一行\n"
+"  -n, --number-format=格式\t根据指定格式插入行号\n"
+"  -p, --no-renumber\t\t在逻辑页数切换时不将行号值复位\n"
+"  -s, --number-separator=字符串\t可能的话在行号后添加字符串\n"
+
+msgid ""
+"  -h, --header=HEADER\n"
+"                    use a centered HEADER instead of filename in page header,\n"
+"                    -h \"\" prints a blank line, don't use -h\"\"\n"
+"  -i[CHAR[WIDTH]], --output-tabs[=CHAR[WIDTH]]\n"
+"                    replace spaces with CHARs (TABs) to tab WIDTH (8)\n"
+"  -J, --join-lines  merge full lines, turns off -W line truncation, no column\n"
+"                    alignment, --sep-string[=STRING] sets separators\n"
+msgstr ""
+"  -h, --header=页眉\t在页眉中使用居中的指定字符代替文件名\n"
+"\t\t\t-h \"\" 输出一个空行，不要使用 -h\"\"\n"
+"  -i[字符[宽度]], --output-tabs[=字符[宽度]]\n"
+"\t\t\t使用指定字符(或制表符)代替空格不足到指定制表符宽度(默认8)\n"
+"  -J, --join-lines\t合并整个行，关闭-W 选项的行截断，不使用栏调整，使用\n"
+"\t\t\t\t--sep-string[=字符串] 设置分隔符\n"
+
+msgid ""
+"  -h, --human-numeric-sort    compare human readable numbers (e.g., 2K 1G)\n"
+msgstr "  -h, --human-numeric-sort    使用易读性数字(例如： 2K 1G)\n"
+
+msgid ""
+"  -h, --no-dereference   affect each symbolic link instead of any referenced\n"
+"                         file (useful only on systems that can change the\n"
+"                         timestamps of a symlink)\n"
+"  -m                     change only the modification time\n"
+msgstr ""
+"  -h, --no-dereference\t\t会影响符号链接本身，而非符号链接所指示的目的地\n"
+"\t\t\t\t(当系统支持更改符号链接的所有者时，此选项才有用)\n"
+"  -m\t\t\t只更改修改时间\n"
+
+msgid ""
+"  -i, --initial       do not convert tabs after non blanks\n"
+"  -t, --tabs=NUMBER   have tabs NUMBER characters apart, not 8\n"
+msgstr ""
+"  -i, --initial\t\t不转换非空白符后的制表符\n"
+"  -t, --tabs=数字\t设置每个制表符为指定数字的宽度，而不是默认的8\n"
+
+msgid ""
+"  -i, --inodes          list inode information instead of block usage\n"
+"  -k                    like --block-size=1K\n"
+"  -l, --local           limit listing to local file systems\n"
+"      --no-sync         do not invoke sync before getting usage info (default)\n"
+msgstr ""
+"  -i, --inodes\t\t显示inode 信息而非块使用量\n"
+"  -k\t\t\t即--block-size=1K\n"
+"  -l, --local\t\t只显示本机的文件系统\n"
+"      --no-sync\t\t取得使用量数据前不进行同步动作(默认)\n"
+
+msgid ""
+"  -i, --input=MODE   adjust standard input stream buffering\n"
+"  -o, --output=MODE  adjust standard output stream buffering\n"
+"  -e, --error=MODE   adjust standard error stream buffering\n"
+msgstr ""
+"  -i, --input=MODE   调整标准输入流缓冲区\n"
+"  -o, --output=MODE  调整标准输出流缓冲区\n"
+"  -e, --error=MODE   调整标准错误流缓冲区\n"
+
+msgid ""
+"  -l                         use a long listing format\n"
+"  -L, --dereference          when showing file information for a symbolic\n"
+"                               link, show information for the file the link\n"
+"                               references rather than for the link itself\n"
+"  -m                         fill width with a comma separated list of entries\n"
+msgstr ""
+"  -l\t\t\t\t使用较长格式列出信息\n"
+"  -L, --dereference\t\t当显示符号链接的文件信息时，显示符号链接所指示\n"
+"\t\t\t\t的对象而并非符号链接本身的信息\n"
+"  -m\t\t\t\t所有项目以逗号分隔，并填满整行行宽\n"
+
+msgid "  -l, --login       print system login processes\n"
+msgstr "  -l，--login\t\t显示系统登录进程\n"
+
+msgid ""
+"  -m, --mode=MODE    set file permission bits to MODE, not a=rw - umask\n"
+msgstr "  -m, --mode=模式   \t设置权限模式(类似chmod)，而不是rwxrwxrwx 减umask\n"
+
+msgid ""
+"  -n, --digits=DIGITS        use specified number of digits instead of 2\n"
+"  -s, --quiet, --silent      do not print counts of output file sizes\n"
+"  -z, --elide-empty-files    remove empty output files\n"
+msgstr ""
+"  -n, --digits=数位\t\t使用指定的进制数位代替二进制\n"
+"  -s, --quiet, --silent\t不显示输出文件的尺寸计数\n"
+"  -z, --elide-empty-files\t删除空的输出文件\n"
+
+msgid ""
+"  -n, --no-clobber             do not overwrite an existing file (overrides\n"
+"                                 a previous -i option)\n"
+"  -P, --no-dereference         never follow symbolic links in SOURCE\n"
+msgstr ""
+"  -n, --no-clobber\t\t不要覆盖已存在的文件(使前面的 -i 选项失效)\n"
+"  -P, --no-dereference\t\t不跟随源文件中的符号链接\n"
+
+msgid ""
+"  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs\n"
+"  -N, --literal              print raw entry names (don't treat e.g. control\n"
+"                               characters specially)\n"
+"  -o                         like -l, but do not list group information\n"
+"  -p, --indicator-style=slash\n"
+"                             append / indicator to directories\n"
+msgstr ""
+"  -n, --numeric-uid-gid\t\t类似 -l，但列出UID 及GID 号\n"
+"  -N, --literal\t\t\t输出未经处理的项目名称 (如不特别处理控制字符)\n"
+"  -o\t\t\t\t类似 -l，但不列出有关组的信息\n"
+"  -p,  --indicator-style=slash\t对目录加上表示符号\"/\"\n"
+
+msgid ""
+"  -n[SEP[DIGITS]], --number-lines[=SEP[DIGITS]]\n"
+"                    number lines, use DIGITS (5) digits, then SEP (TAB),\n"
+"                    default counting starts with 1st line of input file\n"
+"  -N, --first-line-number=NUMBER\n"
+"                    start counting with NUMBER at 1st line of first\n"
+"                    page printed (see +FIRST_PAGE)\n"
+msgstr ""
+"  -n[分隔符[位数]], --number-lines[=分隔符[位数]]\n"
+"\t\t\t显示行号，使用指定(默认5) 位数，后接分隔符(默认TAB)\n"
+"\t\t\t默认从输入文件的第一行开始计数\n"
+"  -N, --first-line-number=数字\n"
+"\t\t\t从首页的首行以指定数字开始计数(参看\"+首页\")\n"
+
+msgid ""
+"  -o, --indent=MARGIN\n"
+"                    offset each line with MARGIN (zero) spaces, do not\n"
+"                    affect -w or -W, MARGIN will be added to PAGE_WIDTH\n"
+"  -r, --no-file-warnings\n"
+"                    omit warning when a file cannot be opened\n"
+msgstr ""
+"  -o, --indent=缩进量\n"
+"\t\t\t将每行缩进(默认0)个空格，不影响-w 或-W 参数，\n"
+"\t\t\t缩进亮的值将被加入页面宽度\n"
+"  -r, --no-file-warnings\n"
+"\t\t\t当文件无法打开时忽略警告\n"
+
+msgid ""
+"  -o, --io-blocks        treat SIZE as number of IO blocks instead of "
+"bytes\n"
+msgstr "  -o, --io-blocks\t将SIZE 视为IO 块数而不使用字节数\n"
+
+msgid ""
+"  -o, --output=FILE         write result to FILE instead of standard output\n"
+"  -s, --stable              stabilize sort by disabling last-resort comparison\n"
+"  -S, --buffer-size=SIZE    use SIZE for main memory buffer\n"
+msgstr ""
+"  -o, --output=文件\t\t将结果写入到文件而非标准输出\n"
+"  -s, --stable\t\t\t禁用last-resort 比较以稳定比较算法\n"
+"  -S, --buffer-size=大小\t指定主内存缓存大小\n"
+
+msgid ""
+"  -p                           same as --preserve=mode,ownership,timestamps\n"
+"      --preserve[=ATTR_LIST]   preserve the specified attributes (default:\n"
+"                                 mode,ownership,timestamps), if possible\n"
+"                                 additional attributes: context, links, xattr,\n"
+"                                 all\n"
+msgstr ""
+"  -p\t\t\t\t等于--preserve=模式,所有权,时间戳\n"
+"      --preserve[=属性列表\t保持指定的属性(默认：模式,所有权,时间戳)，如果\n"
+"\t\t\t\t\t可能保持附加属性：环境、链接、xattr 等\n"
+
+msgid ""
+"  -p, --preserve-timestamps   apply access/modification times of SOURCE files\n"
+"                        to corresponding destination files\n"
+"  -s, --strip         strip symbol tables\n"
+"      --strip-program=PROGRAM  program used to strip binaries\n"
+"  -S, --suffix=SUFFIX  override the usual backup suffix\n"
+"  -t, --target-directory=DIRECTORY  copy all SOURCE arguments into DIRECTORY\n"
+"  -T, --no-target-directory  treat DEST as a normal file\n"
+"  -v, --verbose       print the name of each directory as it is created\n"
+msgstr ""
+"  -p, --preserve-timestamps\t修改源文件的访问/修改时间以与目标文件保持一致\n"
+"  -s, --strip\t\t\t拆解符号表\n"
+"      --strip-program=程序\t指定拆解二进制文件的程序\n"
+"  -S, --suffix=后缀\t\t覆盖常用备份文件后缀\n"
+"  -t, --target-directory=目录\t将源文件所有参数复制到指定目录\n"
+"  -T, --no-target-directory\t将目标文件视为普通文件\n"
+"  -v, --verbose\t\t\t创建目录时显示其名称\n"
+
+msgid ""
+"  -q, --count       all login names and number of users logged on\n"
+"  -r, --runlevel    print current runlevel\n"
+"  -s, --short       print only name, line, and time (default)\n"
+"  -t, --time        print last system clock change\n"
+msgstr ""
+"  -q, --count\t\t列出所有已登录用户的登录名与用户数量\n"
+"  -r, --runlevel\t显示当前的运行级别\n"
+"  -s, --short\t\t只显示名称、线路和时间(默认)\n"
+
+msgid ""
+"  -q, --quiet, --silent    never print headers giving file names\n"
+"  -v, --verbose            always print headers giving file names\n"
+msgstr ""
+"  -q, --quiet, --silent\t不显示包含给定文件名的文件头\n"
+"  -v, --verbose\t\t总是显示包含给定文件名的文件头\n"
+
+msgid ""
+"  -r, --references               first field of each line is a reference\n"
+"  -t, --typeset-mode               - not implemented -\n"
+"  -w, --width=NUMBER             output width in columns, reference excluded\n"
+msgstr ""
+"  -r, --references\t\t设置每行的第一个区块为关联引用\n"
+"  -t, --typeset-mode\t\t -- 此功能尚未实现 --\n"
+"  -w, --width=数值\t\t每列的输出宽度，不计关联引用\n"
+
+msgid ""
+"  -r, --reverse              reverse order while sorting\n"
+"  -R, --recursive            list subdirectories recursively\n"
+"  -s, --size                 print the allocated size of each file, in blocks\n"
+msgstr ""
+"  -r, --reverse\t\t\t逆序排列\n"
+"  -R, --recursive\t\t递归显示子目录\n"
+"  -s, --size\t\t\t以块数形式显示每个文件分配的尺寸\n"
+
+msgid ""
+"  -s, --only-delimited    do not print lines not containing delimiters\n"
+"      --output-delimiter=STRING  use STRING as the output delimiter\n"
+"                            the default is to use the input delimiter\n"
+msgstr ""
+"  -s, --only-delimited\t\t不打印没有包含分界符的行\n"
+"      --output-delimiter=字符串\t使用指定的字符串作为输出分界符，默认采用输入\n"
+"\t\t\t\t的分界符\n"
+
+msgid ""
+"  -s, --signal=SIGNAL, -SIGNAL\n"
+"                   specify the name or number of the signal to be sent\n"
+"  -l, --list       list signal names, or convert signal names to/from numbers\n"
+"  -t, --table      print a table of signal information\n"
+msgstr ""
+"  -s, --signal=信号，-信号\n"
+"                   \t指定要发送的信号名或信号代码。\n"
+"  -l, --list    \t列出可用的信号名称，同时提供信号名与信号代码的对照\n"
+"  -t, --table    \t显示一个有关信号具体信息的表格。\n"
+
+msgid ""
+"  -s, --symbolic-link          make symbolic links instead of copying\n"
+"  -S, --suffix=SUFFIX          override the usual backup suffix\n"
+"  -t, --target-directory=DIRECTORY  copy all SOURCE arguments into DIRECTORY\n"
+"  -T, --no-target-directory    treat DEST as a normal file\n"
+msgstr ""
+"  -s, --symbolic-link\t\t只创建符号链接而不复制文件\n"
+"  -S, --suffix=后缀\t\t自行指定备份文件的后缀\n"
+"  -t,  --target-directory=目录\t将所有参数指定的源文件/目录\n"
+"                                           复制至目标目录\n"
+"  -T, --no-target-directory\t将目标目录视作普通文件\n"
+
+msgid ""
+"  -t                       equivalent to -vT\n"
+"  -T, --show-tabs          display TAB characters as ^I\n"
+"  -u                       (ignored)\n"
+"  -v, --show-nonprinting   use ^ and M- notation, except for LFD and TAB\n"
+msgstr ""
+"  -t                       与-vT 等价\n"
+"  -T, --show-tabs          将跳格字符显示为^I\n"
+"  -u                       (被忽略)\n"
+"  -v, --show-nonprinting   使用^ 和M- 引用，除了LFD和 TAB 之外\n"
+
+msgid ""
+"  -t, --field-separator=SEP  use SEP instead of non-blank to blank transition\n"
+"  -T, --temporary-directory=DIR  use DIR for temporaries, not $TMPDIR or %s;\n"
+"                              multiple options specify multiple directories\n"
+"      --parallel=N          change the number of sorts run concurrently to N\n"
+"  -u, --unique              with -c, check for strict ordering;\n"
+"                              without -c, output only the first of an equal run\n"
+msgstr ""
+"  -t, --field-separator=分隔符\t使用指定的分隔符代替非空格到空格的转换\n"
+"  -T, --temporary-directory=目录\t使用指定目录而非$TMPDIR 或%s 作为\n"
+"\t\t\t\t\t临时目录，可用多个选项指定多个目录\n"
+"      --parallel=N\t\t将同时运行的排序数改变为N\n"
+"  -u, --unique\t\t配合-c，严格校验排序；不配合-c，则只输出一次排序结果\n"
+
+msgid ""
+"  -t, --tabs=LIST     use comma separated list of explicit tab positions\n"
+msgstr "  -t, --tabs=列表\t指定制表符位置列表，用逗号分隔\n"
+
+msgid ""
+"  -t, --text           read in text mode (default if reading tty stdin)\n"
+msgstr "  -t, --text\t\t以纯文本模式读取(从tty 标准输入读取时为默认)\n"
+
+msgid "  -t, --text           read in text mode (default)\n"
+msgstr "  -t, --text\t\t以纯文本模式读取(默认)\n"
+
+msgid ""
+"  -u, --update                 copy only when the SOURCE file is newer\n"
+"                                 than the destination file or when the\n"
+"                                 destination file is missing\n"
+"  -v, --verbose                explain what is being done\n"
+"  -x, --one-file-system        stay on this file system\n"
+msgstr ""
+"  -u, --update\t\t\t只在源文件比目标文件新，或目标文件\n"
+"\t\t\t\t\t不存在时才进行复制\n"
+"  -v, --verbose\t\t显示详细的进行步骤\n"
+"  -x, --one-file-system\t不跨越文件系统进行操作\n"
+
+msgid ""
+"  -v FILENUM        like -a FILENUM, but suppress joined output lines\n"
+"  -1 FIELD          join on this FIELD of file 1\n"
+"  -2 FIELD          join on this FIELD of file 2\n"
+"  --check-order     check that the input is correctly sorted, even\n"
+"                      if all input lines are pairable\n"
+"  --nocheck-order   do not check that the input is correctly sorted\n"
+"  --header          treat the first line in each file as field headers,\n"
+"                      print them without trying to pair them\n"
+msgstr ""
+"  -v 文件编号        \t类似 -a 文件编号，但禁止组合输出行\n"
+"  -1 域          \t在文件1 的此域组合\n"
+"  -2 域          \t在文件2 的此域组合\n"
+"  --check-order     \t检查输入行是否正确排序，即使所有输入行均是成对的\n"
+"  --nocheck-order   \t不检查输入是否正确排序\n"
+"  --header          \t将首行视作域的头部，直接输出而不对其进行匹配\n"
+
+msgid ""
+"  -v, --starting-line-number=NUMBER  first line number on each logical page\n"
+"  -w, --number-width=NUMBER       use NUMBER columns for line numbers\n"
+msgstr ""
+"  -v, --starting-line-number=数字\t每个逻辑页上的第一行的行号\n"
+"  -w, --number-width=数字\t为行号使用指定的栏数\n"
+
+msgid "  -w, --check-chars=N   compare no more than N characters in lines\n"
+msgstr "  -w, --check-chars=N\t对每行第N 个字符以后的内容不作对照\n"
+
+msgid ""
+"  File: \"%n\"\n"
+"    ID: %-8i Namelen: %-7l Type: %T\n"
+"Block size: %-10s Fundamental block size: %S\n"
+"Blocks: Total: %-10b Free: %-10f Available: %a\n"
+"Inodes: Total: %-10c Free: %d\n"
+msgstr ""
+"  文件：\"%n\"\n"
+"    ID：%-8i 文件名长度：%-7l 类型：%T\n"
+"块大小：%-10s 基本块大小：%S\n"
+"    块：总计：%-10b 空闲：%-10f 可用：%a\n"
+"Inodes: 总计：%-10c 空闲：%d\n"
+
+msgid ""
+"  File: %N\n"
+"  Size: %-10s\tBlocks: %-10b IO Block: %-6o %F\n"
+msgstr ""
+"  文件：%N\n"
+"  大小：%-10s\t块：%-10b IO 块：%-6o %F\n"
+
+msgid ""
+"  Processes in\n"
+"an uninterruptible sleep state also contribute to the load average.\n"
+msgstr "  处于不可中断睡眠状态的程序同样影响系统平均负载。\n"
+
+msgid ""
+"  [:graph:]       all printable characters, not including space\n"
+"  [:lower:]       all lower case letters\n"
+"  [:print:]       all printable characters, including space\n"
+"  [:punct:]       all punctuation characters\n"
+"  [:space:]       all horizontal or vertical whitespace\n"
+"  [:upper:]       all upper case letters\n"
+"  [:xdigit:]      all hexadecimal digits\n"
+"  [=CHAR=]        all characters which are equivalent to CHAR\n"
+msgstr ""
+"  [:graph:]\t所有的可打印字符，不包括空格\n"
+"  [:lower:]\t所有的小写字母\n"
+"  [:print:]\t所有的可打印字符，包括空格\n"
+"  [:punct:]\t所有的标点字符\n"
+"  [:space:]\t所有呈水平或垂直排列的空白字符\n"
+"  [:upper:]\t所有的大写字母\n"
+"  [:xdigit:]\t所有的十六进制数\n"
+"  [=字符=]\t所有和指定字符相等的字符\n"
+
+msgid ""
+"  \\0NNN   byte with octal value NNN (1 to 3 digits)\n"
+"  \\xHH    byte with hexadecimal value HH (1 to 2 digits)\n"
+msgstr ""
+"  \\0NNN   字节数以八进制数 NNN (1至3位)表示\n"
+"  \\xHH    字节数以十六进制数 HH (1至2位)表示\n"
+
+msgid ""
+"  \\NNN    byte with octal value NNN (1 to 3 digits)\n"
+"  \\xHH    byte with hexadecimal value HH (1 to 2 digits)\n"
+"  \\uHHHH  Unicode (ISO/IEC 10646) character with hex value HHHH (4 digits)\n"
+"  \\UHHHHHHHH  Unicode character with hex value HHHHHHHH (8 digits)\n"
+msgstr ""
+"  \\NNN          字节以八进制数 NNN(1至3位数)表示\n"
+"  \\xHH\t\t字节以十六进制数 HH(1至2位数)表示\n"
+"  \\uHHHH\tUnicode(ISO/IEC 10646)字符以十六进制数 HHHH(4位数)表示\n"
+"  \\UHHHHHHHH\tUnicode 字符以十六进制数 HHHHHHHH(8位数)表示\n"
+
+msgid ""
+"  \\\\      backslash\n"
+"  \\a      alert (BEL)\n"
+"  \\b      backspace\n"
+"  \\c      produce no further output\n"
+"  \\e      escape\n"
+"  \\f      form feed\n"
+"  \\n      new line\n"
+"  \\r      carriage return\n"
+"  \\t      horizontal tab\n"
+"  \\v      vertical tab\n"
+msgstr ""
+"  \\\\    反斜杠\n"
+"  \\a    响铃声\n"
+"  \\b    退格\n"
+"  \\c    不再产生新的输出\n"
+"  \\e    转义符  \n"
+"  \\f    换页\n"
+"  \\n    新行\n"
+"  \\r    回车\n"
+"  \\t    水平制表符\n"
+"  \\v    竖直制表符\n"
+
+msgid ""
+"  \\v              vertical tab\n"
+"  CHAR1-CHAR2     all characters from CHAR1 to CHAR2 in ascending order\n"
+"  [CHAR*]         in SET2, copies of CHAR until length of SET1\n"
+"  [CHAR*REPEAT]   REPEAT copies of CHAR, REPEAT octal if starting with 0\n"
+"  [:alnum:]       all letters and digits\n"
+"  [:alpha:]       all letters\n"
+"  [:blank:]       all horizontal whitespace\n"
+"  [:cntrl:]       all control characters\n"
+"  [:digit:]       all digits\n"
+msgstr ""
+"  \\v\t\t垂直制表符\n"
+"  字符1-字符2\t从字符1 到字符2 的升序递增过程中经历的所有字符\n"
+"  [字符*]\t在SET2 中适用，指定字符会被连续复制直到吻合设置1 的长度\n"
+"  [字符*次数]\t对字符执行指定次数的复制，若次数以 0 开头则被视为八进制数\n"
+"  [:alnum:]\t所有的字母和数字\n"
+"  [:alpha:]\t所有的字母\n"
+"  [:blank:]\t所有呈水平排列的空白字符\n"
+"  [:cntrl:]\t所有的控制字符\n"
+"  [:digit:]\t所有的数字\n"
+
+msgid "  binary    use binary I/O for data\n"
+msgstr "  binary\t使用二进制I/O 存取模式\n"
+
+msgid "  cio       use concurrent I/O for data\n"
+msgstr "  cio\t使用并行I/O 存取模式\n"
+
+msgid ""
+"  d[SIZE]    signed decimal, SIZE bytes per integer\n"
+"  f[SIZE]    floating point, SIZE bytes per integer\n"
+"  o[SIZE]    octal, SIZE bytes per integer\n"
+"  u[SIZE]    unsigned decimal, SIZE bytes per integer\n"
+"  x[SIZE]    hexadecimal, SIZE bytes per integer\n"
+msgstr ""
+"  d[尺寸]\t有符号十进制数，每个整形数占指定尺寸的字节\n"
+"  f[尺寸]\t浮点数，每个整形数占指定尺寸的字节\n"
+"  o[尺寸]\t八进制数，每个整形数占指定尺寸的字节\n"
+"  u[尺寸]\t无符号十进制数，每个整形数占指定尺寸的字节\n"
+"  x[尺寸]\t十六进制数，每个整形数占指定尺寸的字节\n"
+
+msgid "  direct    use direct I/O for data\n"
+msgstr "  direct\t使用直接I/O 存取模式\n"
+
+msgid "  directory  fail unless a directory\n"
+msgstr "  directory\t除非是目录，否则 directory 失败\n"
+
+msgid "  dsync     use synchronized I/O for data\n"
+msgstr "  dsync\t\t使用同步I/O 存取模式\n"
+
+msgid ""
+"  excl      fail if the output file already exists\n"
+"  nocreat   do not create the output file\n"
+"  notrunc   do not truncate the output file\n"
+"  noerror   continue after read errors\n"
+"  fdatasync  physically write output file data before finishing\n"
+"  fsync     likewise, but also write metadata\n"
+msgstr ""
+"  excl\t\tfail if the output file already exists\n"
+"  nocreat\tdo not create the output file\n"
+"  notrunc\t不截断输出文件\n"
+"  noerror\t读取数据发生错误后仍然继续\n"
+"  fdatasync\t结束前将输出文件数据写入磁盘\n"
+"  fsync\t类似上面，但是元数据也一同写入\n"
+
+msgid "  fullblock  accumulate full blocks of input (iflag only)\n"
+msgstr "  fullblock\t为输入积累完整块(仅iflag)\n"
+
+msgid "  noatime   do not update access time\n"
+msgstr "  noatime\t不更新存取时间\n"
+
+msgid "  noctty    do not assign controlling terminal from file\n"
+msgstr "  noctty\t不根据文件指派控制终端\n"
+
+msgid "  nofollow  do not follow symlinks\n"
+msgstr "  nofollow\t不跟随链接文件\n"
+
+msgid "  nolinks   fail if multiply-linked\n"
+msgstr "  nolinks\t如果有多重链接，则nolinks 失败\n"
+
+msgid "  nonblock  use non-blocking I/O\n"
+msgstr "  nonblock\t使用无阻塞I/O 存取模式\n"
+
+msgid ""
+"  none, off       never make backups (even if --backup is given)\n"
+"  numbered, t     make numbered backups\n"
+"  existing, nil   numbered if numbered backups exist, simple otherwise\n"
+"  simple, never   always make simple backups\n"
+msgstr ""
+"  none, off       不进行备份(即使使用了--backup 选项)\n"
+"  numbered, t     备份文件加上数字进行排序\n"
+"  existing, nil   若有数字的备份文件已经存在则使用数字，否则使用普通方式备份\n"
+"  simple, never   永远使用普通方式备份\n"
+
+msgid "  sync      likewise, but also for metadata\n"
+msgstr "  sync\t\t与上者类似，但同时也对元数据生效\n"
+
+msgid "  text      use text I/O for data\n"
+msgstr "  text\t使用文本I/O 存取模式\n"
+
+msgid " %H:%M%P  "
+msgstr " %H:%M  "
+
+msgid " (backup: %s)"
+msgstr " (备份：%s)"
+
+msgid " * [-]iutf8      assume input characters are UTF-8 encoded\n"
+msgstr " * [-]iutf8\t假定输入字符都是UTF-8 编码\n"
+
+msgid " ??:????  "
+msgstr " ??:????  "
+
+msgid " TTY"
+msgstr " TTY"
+
+msgid " context=%s"
+msgstr " 环境=%s"
+
+msgid " groups="
+msgstr " 组="
+
+msgid " old "
+msgstr " 旧的 "
+
+msgid " on repetition %s\n"
+msgstr " 在循环位%s\n"
+
+msgid "%.*s: invalid conversion specification"
+msgstr "%.*s：无效的转换声明"
+
+msgid "%b %e  %Y"
+msgstr "%b %e %Y"
+
+msgid "%b %e %H:%M"
+msgstr "%b %e %H:%M"
+
+msgid "%lu user"
+msgid_plural "%lu users"
+msgstr[0] "%lu 个用户"
+
+msgid "%s (for regexp %s)"
+msgstr "%s (正则表达式 %s)"
+
+msgid "%s -> %s (unbackup)\n"
+msgstr "%s -> %s (还原备份)\n"
+
+msgid "%s [-d] terminated abnormally"
+msgstr "%s [-d] 不正常结束"
+
+msgid "%s and %s are the same file"
+msgstr "%s 与%s 为同一文件"
+
+msgid "%s exists but is not a directory"
+msgstr "%s 存在但并非目录"
+
+msgid "%s has become accessible"
+msgstr "%s 已经可以访问"
+
+msgid "%s has become inaccessible"
+msgstr "%s 已不可访问"
+
+msgid "%s has been replaced with a remote file. giving up on this name"
+msgstr "%s 已被替换为一个远程文件，放弃跟踪"
+
+msgid "%s has been replaced with an untailable file; giving up on this name"
+msgstr "%s 已被替换为tail 无法处理的文件，放弃跟踪"
+
+msgid "%s has unknown file type"
+msgstr "%s 的文件类型不详"
+
+msgid "%s has unusable, apparently negative size"
+msgstr "%s 的文件大小为负数，无法使用"
+
+msgid "%s home page: <%s>\n"
+msgstr "%s 的主页：<%s>\n"
+
+msgid "%s home page: <http://www.gnu.org/software/%s/>\n"
+msgstr "%s 项目主页：<http://www.gnu.org/software/%s/>\n"
+
+msgid "%s is not a valid positive integer"
+msgstr "%s 不是有效的正整数"
+
+msgid "%s is too large"
+msgstr "%s 太大"
+
+msgid "%s may be used only on a SELinux kernel"
+msgstr "%s 只能用于启用了SELinux 支持的内核"
+
+msgid "%s was specified but %s was not"
+msgstr "已指定%s 但未指定%s"
+
+msgid "%s%s argument '%s' too large"
+msgstr "%s%s 参数\"%s\"太大"
+
+msgid "%s-%s"
+msgstr "%s-%s"
+
+msgid "%s: %s: line number out of range"
+msgstr "%s：%s：行数超出范围"
+
+msgid "%s: %s: match not found"
+msgstr "%s：%s：无匹配"
+
+msgid "%s: %s:%s: disorder: "
+msgstr "%s：%s:%s：无序： "
+
+msgid "%s: binary operator expected"
+msgstr "%s: 预期为双目运算符"
+
+msgid "%s: can make relative symbolic links only in current directory"
+msgstr "%s：只能于当前目录中创建相对的符号链接"
+
+msgid "%s: cannot change nonblocking mode"
+msgstr "%s：无法更改非阻塞模式"
+
+msgid "%s: cannot determine file size"
+msgstr "%s：无法确定文件大小"
+
+msgid "%s: cannot follow end of this type of file; giving up on this name"
+msgstr "%s：无法跟随此类型文件的末尾，已放弃"
+
+msgid "%s: cannot overwrite directory"
+msgstr "%s：无法覆盖目录"
+
+msgid "%s: cannot rewind"
+msgstr "%s：无法反绕操作"
+
+msgid "%s: cannot seek"
+msgstr "%s：无法搜索"
+
+msgid "%s: cannot seek to end-relative offset %s"
+msgstr "%s：无法检索相对偏移量的末尾 %s"
+
+msgid "%s: cannot seek to offset %s"
+msgstr "%s：无法检索到偏移量%s"
+
+msgid "%s: cannot seek to relative offset %s"
+msgstr "%s：无法检索相对偏移量 %s"
+
+msgid "%s: cannot shred append-only file descriptor"
+msgstr "%s：不能对只可追加数据的文件描述符(file descriptor) 进行粉碎"
+
+msgid "%s: cannot skip"
+msgstr "%s：无法跳过"
+
+msgid "%s: cannot skip to specified offset"
+msgstr "%s：无法跳至指定偏移量"
+
+msgid "%s: couldn't reset non-blocking mode"
+msgstr "%s：无法重置非阻塞模式"
+
+msgid "%s: descend into directory %s? "
+msgstr "%s：是否进入目录%s? "
+
+msgid "%s: descend into write-protected directory %s? "
+msgstr "%s：是否进入有写保护的目录%s ？ "
+
+msgid "%s: end of file"
+msgstr "%s：文件结束"
+
+msgid "%s: equivalence class operand must be a single character"
+msgstr "%s：同类操作数必须是单个字符"
+
+msgid "%s: error truncating"
+msgstr "%s：截断文件时出错"
+
+msgid "%s: error writing at offset %s"
+msgstr "%s：在位置%s 写入时出现错误"
+
+msgid "%s: expected a numeric value"
+msgstr "%s：需要一个数值"
+
+msgid "%s: failed to close"
+msgstr "%s：无法关闭"
+
+msgid "%s: failed to get extents info"
+msgstr "%s：无法获得 extent 信息"
+
+msgid "%s: failed to open for writing"
+msgstr "%s：无法以写模式打开"
+
+msgid "%s: failed to remove"
+msgstr "%s：删除失败"
+
+msgid "%s: fcntl failed"
+msgstr "%s：文件控制操作失败(fcntl)"
+
+msgid "%s: fdatasync failed"
+msgstr "%s：fadatsync 失败"
+
+msgid "%s: file has negative size"
+msgstr "%s：文件的大小为负数"
+
+msgid "%s: file has shrunk too much"
+msgstr "%s：文件被过度收缩"
+
+msgid "%s: file too large"
+msgstr "%s：文件过大"
+
+msgid "%s: file too long"
+msgstr "%s：文件太大"
+
+msgid "%s: file truncated"
+msgstr "%s：文件已截断"
+
+msgid "%s: fstat failed"
+msgstr "%s：获取文件状态失败(fstat)"
+
+msgid "%s: fsync failed"
+msgstr "%s：fsync 失败"
+
+msgid "%s: hard link not allowed for directory"
+msgstr "%s: 不允许将硬链接指向目录"
+
+msgid "%s: input contains a loop:"
+msgstr "%s：输入内容中含有循环段落："
+
+msgid "%s: input contains an odd number of tokens"
+msgstr "%s：输入内容的行数为奇数"
+
+msgid "%s: input file is output file"
+msgstr "%s：输入文件是输出文件"
+
+msgid "%s: integer expected after delimiter"
+msgstr "%s：分界符后应该跟随整数"
+
+msgid "%s: invalid count at start of %s"
+msgstr "%s：在%s 处的计数无效"
+
+msgid "%s: invalid directive"
+msgstr "%s：无效指令"
+
+msgid "%s: invalid field specification %s"
+msgstr "%s：无效的区块规格%s"
+
+msgid "%s: invalid file type"
+msgstr "%s：无效的文件类型"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s：无效选项 -- %c\n"
+
+msgid "%s: invalid pattern"
+msgstr "%s：无效的模式"
+
+msgid "%s: invalid process id"
+msgstr "%s：无效的进程号"
+
+msgid "%s: invalid regular expression: %s"
+msgstr "%s：无效的正则表达式：%s"
+
+msgid "%s: invalid signal"
+msgstr "%s：无效的信号"
+
+msgid "%s: line number must be greater than zero"
+msgstr "%s：行号必须大于0"
+
+msgid "%s: line number out of range"
+msgstr "%s：行数超出范围"
+
+msgid "%s: lseek failed"
+msgstr "%s：lseek 失败"
+
+msgid "%s: multiple signals specified"
+msgstr "%s：同时指定了多个信号"
+
+msgid "%s: new permissions are %s, not %s"
+msgstr "%s：新的权限为%s，而非%s"
+
+msgid "%s: no properly formatted %s checksum lines found"
+msgstr "%s：找不到格式适用的%s 校验和"
+
+msgid "%s: no size information for this device"
+msgstr "%s：此设备没有大小信息"
+
+msgid "%s: not listing already-listed directory"
+msgstr "%s：不会再列出已经列出的目录"
+
+msgid "%s: number of bytes is too large"
+msgstr "%s：字节数过大"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s：选项\"%c%s\"不允许带参数\n"
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr "%s：选项\"%s\"歧义\n"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s：选项\"--%s\"不允许带参数\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s：选项\"--%s\"必需带参数\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s：选项\"-W %s\"不允许带参数\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s：选项\"-W %s\"歧义\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s：选项\"-W %s\"必需带参数\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s：选项必需带参数 -- \"%c\"\n"
+
+msgid "%s: overwrite %s? "
+msgstr "%s：是否覆盖%s？ "
+
+msgid "%s: pass %lu/%lu (%s)..."
+msgstr "%s：第%lu 次，共%lu 次 (%s)..."
+
+msgid "%s: pass %lu/%lu (%s)...%s"
+msgstr "%s：第%lu 次，共%lu 次 (%s)...%s"
+
+msgid "%s: pass %lu/%lu (%s)...%s/%s %d%%"
+msgstr "%s：第%lu 次，共%lu 次 (%s)...%s/%s %d%%"
+
+msgid "%s: read error"
+msgstr "%s：读取出错"
+
+msgid "%s: remove %s %s? "
+msgstr "%s：是否删除%s %s？ "
+
+msgid "%s: remove write-protected %s %s? "
+msgstr "%s：是否删除有写保护的%s %s？ "
+
+msgid "%s: removed"
+msgstr "%s：已删除"
+
+msgid "%s: removing"
+msgstr "%s：正在删除"
+
+msgid "%s: renamed to %s"
+msgstr "%s：名称已更改为 %s"
+
+msgid "%s: replace %s? "
+msgstr "%s：是否替换%s？ "
+
+msgid "%s: seek failed"
+msgstr "%s：检索失败"
+
+msgid "%s: too many checksum lines"
+msgstr "%s：校验和的行数过多"
+
+msgid "%s: unable to determine maximum file name length"
+msgstr "%s：不能确定最大文件名长度"
+
+msgid "%s: unable to perform all requested operations"
+msgstr "%s：无法执行所有请求的操作"
+
+msgid "%s: unary operator expected"
+msgstr "%s: 预期为单目运算符"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s：无法识别的选项\"%c%s\"\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s：无法识别的选项\"--%s\"\n"
+
+msgid "%s: unwritable %s (mode %04lo, %s); try anyway? "
+msgstr "%s：%s 不可写(权限%04lo，%s)；依然尝试？ "
+
+msgid "%s: value not completely converted"
+msgstr "%s：给定值不能完全转换"
+
+msgid "%s: write error"
+msgstr "%s：写入出错"
+
+msgid "%s: write failed"
+msgstr "%s：写入失败"
+
+msgid "%s:%lu: invalid line;  missing second token"
+msgstr "%s：%lu：此行无效；缺少了第二栏数据"
+
+msgid "%s:%lu: invalid zero-length file name"
+msgstr "%s：%lu：无效的 0 长度文件名"
+
+msgid "%s:%lu: unrecognized keyword %s"
+msgstr "%s：%lu：无法识别的关键字%s"
+
+msgid "'"
+msgstr "\""
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid ""
+"* file systems that cache in temporary locations, such as NFS\n"
+"version 3 clients\n"
+"\n"
+"* compressed file systems\n"
+"\n"
+msgstr ""
+"* 文件系统是存放于缓存位置，比如NFS 第三版用户端\n"
+"\n"
+"* 压缩文件系统\n"
+"\n"
+
+msgid ""
+"* log-structured or journaled file systems, such as those supplied with\n"
+"AIX and Solaris (and JFS, ReiserFS, XFS, Ext3, etc.)\n"
+"\n"
+"* file systems that write redundant data and carry on even if some writes\n"
+"fail, such as RAID-based file systems\n"
+"\n"
+"* file systems that make snapshots, such as Network Appliance's NFS server\n"
+"\n"
+msgstr ""
+"* 有纪录结构或是日志式文件系统，如AIX 及Solaris 使用的文件系统 (以及\n"
+"   JFS、ReiserFS、XFS、Ext3 等)\n"
+"\n"
+"* 会重复写入数据，及即使一部份写入动作失败后仍可继续的文件系统，如使用\n"
+"   RAID 的文件系统\n"
+"\n"
+"* 会不时进行快照记录的文件系统，像Network Applicance 的NFS 服务器\n"
+"\n"
+
+msgid ",  load average: %.2f"
+msgstr "，平均负载：%.2f"
+
+msgid "--%s argument %s too large"
+msgstr "--%s 参数%s 太长"
+
+msgid "--context (-Z) works only on an SELinux-enabled kernel"
+msgstr "--context (-Z) 选项只能在开启SELinux 支持的内核上使用"
+
+msgid "--reflink can be used only with --sparse=auto"
+msgstr "--reflink 只能与--sparse=auto 一起用"
+
+msgid "--tag does not support --text mode"
+msgstr "--tag 不支持--text 模式"
+
+msgid "-R --dereference requires either -H or -L"
+msgstr "-R --dereference 需要-H 或-L 其中之一"
+
+msgid "-R -h requires -P"
+msgstr "-R -h 需要-P"
+
+msgid "-ef does not accept -l"
+msgstr "-ef 不能与-l 同时使用"
+
+msgid "-nt does not accept -l"
+msgstr "-nt 不能与-l 同时使用"
+
+msgid "-ot does not accept -l"
+msgstr "-ot 不能于-l 同时使用"
+
+msgid "<internal>"
+msgstr "<内部数据>"
+
+msgid "???\n"
+msgstr "???\n"
+
+msgid "?????"
+msgstr "?????"
+
+msgid "Aborted"
+msgstr "已中止"
+
+msgid ""
+"Access: %x\n"
+"Modify: %y\n"
+"Change: %z\n"
+" Birth: %w\n"
+msgstr ""
+"最近访问：%x\n"
+"最近更改：%y\n"
+"最近改动：%z\n"
+"创建时间：%w\n"
+
+msgid "Access: (%04a/%10.10A)  Uid: (%5u/%8U)   Gid: (%5g/%8G)\n"
+msgstr "权限：(%04a/%10.10A)  Uid：(%5u/%8U)   Gid：(%5g/%8G)\n"
+
+msgid "Address family for hostname not supported"
+msgstr "主机名的地址家族不被支持"
+
+msgid "Alarm clock"
+msgstr "时钟警告"
+
+msgid "All requests done"
+msgstr "全部请求已完成"
+
+msgid "Argument buffer too small"
+msgstr "参数缓冲区太小"
+
+msgid "Arnold Robbins"
+msgstr "Arnold Robbins"
+
+msgid "Avail"
+msgstr "可用"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Bad system call"
+msgstr "错误的系统调用"
+
+msgid "Bad value for ai_flags"
+msgstr "错误的ai_flags 值"
+
+msgid "Brian Fox"
+msgstr "Brian Fox"
+
+msgid "Broken pipe"
+msgstr "管道中断"
+
+msgid "Bus error"
+msgstr "总线错误"
+
+msgid ""
+"CAUTION: Note that shred relies on a very important assumption:\n"
+"that the file system overwrites data in place.  This is the traditional\n"
+"way to do things, but many modern file system designs do not satisfy this\n"
+"assumption.  The following are examples of file systems on which shred is\n"
+"not effective, or is not guaranteed to be effective in all file system modes:\n"
+"\n"
+msgstr ""
+"警告：请注意使用shred 时有一个很重要的条件：\n"
+"文件系统会在原来的位置覆盖指定的数据。传统的文件系统符合此条件，但许多现代\n"
+"的文件系统都不符合条件。以下是会令shred 无效或不担保一定有效的文件系统的\n"
+"例子：\n"
+"\n"
+
+msgid "COMMENT"
+msgstr "备注"
+
+msgid "CPU time limit exceeded"
+msgstr "CPU 时间超时"
+
+msgid ""
+"Call the link function to create a link named FILE2 to an existing FILE1.\n"
+"\n"
+msgstr ""
+"调用 link 函数创建从既存的文件1 到文件2 的链接。\n"
+"\n"
+
+msgid ""
+"Call the unlink function to remove the specified FILE.\n"
+"\n"
+msgstr ""
+"调用 unlink 函数删除指定的文件。\n"
+"\n"
+
+msgid "Capacity"
+msgstr "配额"
+
+msgid "Chet Ramey"
+msgstr "Chet Ramey"
+
+msgid "Child exited"
+msgstr "子进程已退出"
+
+msgid "Colin Plumb"
+msgstr "Colin Plumb"
+
+msgid "Compare sorted files FILE1 and FILE2 line by line.\n"
+msgstr "逐行比较已排序的文件文件1 和文件2。\n"
+
+msgid "Context: %C\n"
+msgstr "环境：%C\n"
+
+msgid "Continued"
+msgstr "已继续"
+
+msgid ""
+"Copy standard input to each FILE, and also to standard output.\n"
+"\n"
+"  -a, --append              append to the given FILEs, do not overwrite\n"
+"  -i, --ignore-interrupts   ignore interrupt signals\n"
+msgstr ""
+"将标准输入复制到每个指定文件，并显示到标准输出。\n"
+"\n"
+"  -a, --append\t\t内容追加到给定的文件而非覆盖\n"
+"  -i, --ignore-interrupts\t忽略中断信号\n"
+
+msgid "David M. Ihnat"
+msgstr "David M. Ihnat"
+
+msgid "David MacKenzie"
+msgstr "David MacKenzie"
+
+msgid "David Madore"
+msgstr "David Madore"
+
+msgid "Device: %Dh/%dd\tInode: %-10i  Links: %-5h Device type: %t,%T\n"
+msgstr "设备：%Dh/%dd\tInode：%-10i  硬链接：%-5h 设备类型：%t,%T\n"
+
+msgid "Device: %Dh/%dd\tInode: %-10i  Links: %h\n"
+msgstr "设备：%Dh/%dd\tInode：%-10i  硬链接：%h\n"
+
+msgid ""
+"Diagnose invalid or unportable file names.\n"
+"\n"
+"  -p                  check for most POSIX systems\n"
+"  -P                  check for empty names and leading \"-\"\n"
+"      --portability   check for all POSIX systems (equivalent to -p -P)\n"
+msgstr ""
+"判断无效或未移植的文件名。\n"
+"\n"
+"  -p                  \t为类POSIX 兼容系统检查\n"
+"  -P                  \t检查空文件名和前导\"-\"文件名\n"
+"      --portability   \t为完整POSIX 兼容系统检查(等于-p -P)\n"
+
+msgid "Directory: "
+msgstr "主目录： "
+
+msgid "Dmitry V. Levin"
+msgstr "Dmitry V. Levin"
+
+msgid "EMT trap"
+msgstr "捕获EMT 信号"
+
+msgid "EXIT"
+msgstr "退出"
+
+msgid ""
+"Echo the STRING(s) to standard output.\n"
+"\n"
+"  -n             do not output the trailing newline\n"
+msgstr ""
+"将 STRING 回显到标准输出。\n"
+"\n"
+"  -n\t\t不尾随换行符\n"
+
+msgid "Eric Blake"
+msgstr "Eric Blake"
+
+msgid "Exit with a status code indicating failure."
+msgstr "以表示失败的状态值退出"
+
+msgid "Exit with a status code indicating success."
+msgstr "以表示成功的状态值退出"
+
+msgid ""
+"Exit with the status determined by EXPRESSION.\n"
+"\n"
+msgstr ""
+"退出状态值取决于表达式。\n"
+"\n"
+
+msgid "F. Pinard"
+msgstr "F. Pinard"
+
+msgid "FAILED"
+msgstr "失败"
+
+msgid "FIXME: unknown"
+msgstr "FIXME：未知"
+
+msgid "Fifos do not have major and minor device numbers."
+msgstr "先进先出(FIFO)文件不需要指定主、次设备号。"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File size limit exceeded"
+msgstr "文件大小超过限制"
+
+msgid "Filesystem"
+msgstr "文件系统"
+
+msgid "Floating point exception"
+msgstr "浮点数异常"
+
+msgid "General help using GNU software: <http://www.gnu.org/gethelp/>\n"
+msgstr "GNU 软件一般性帮助：<http://www.gnu.org/gethelp/>\n"
+
+msgid "Giuseppe Scrivano"
+msgstr "Giuseppe Scrivano"
+
+msgid "H. Peter Anvin"
+msgstr "H. Peter Anvin"
+
+msgid "Hangup"
+msgstr "挂起"
+
+msgid "I/O possible"
+msgstr "可能需要I/O"
+
+msgid "IDLE"
+msgstr "空闲"
+
+msgid "IFree"
+msgstr "可用(I)"
+
+msgid "IUse%"
+msgstr "已用(I)%"
+
+msgid "IUsed"
+msgstr "已用(I)"
+
+msgid "Ian Lance Taylor"
+msgstr "Ian Lance Taylor"
+
+msgid "Idle"
+msgstr "空闲"
+
+msgid ""
+"If FILE is not specified, use %s.  %s as FILE is common.\n"
+"\n"
+msgstr ""
+"如果文件没有指定，则使用%s，%s 是通用的相关文件。\n"
+"\n"
+
+msgid "Illegal instruction"
+msgstr "非法操作"
+
+msgid ""
+"In addition, file system backups and remote mirrors may contain copies\n"
+"of the file that cannot be removed, and that will allow a shredded file\n"
+"to be recovered later.\n"
+msgstr ""
+"另外，文件系统备份和远程镜像可能会\n"
+"包含不能被删除的文件副本，这将会\n"
+"允许碎片文件被恢复。\n"
+
+msgid "In real life: "
+msgstr "实名： "
+
+msgid ""
+"In the case of ext3 file systems, the above disclaimer applies\n"
+"(and shred is thus of limited effectiveness) only in data=journal mode,\n"
+"which journals file data in addition to just metadata.  In both the\n"
+"data=ordered (default) and data=writeback modes, shred works as usual.\n"
+"Ext3 journaling modes can be changed by adding the data=something option\n"
+"to the mount options for a particular file system in the /etc/fstab file,\n"
+"as documented in the mount man page (man mount).\n"
+"\n"
+msgstr ""
+"在Ext3 文件系统中，以上免责声明仅适用于启用了data=journal 模式的情况，\n"
+"此时文件日志记录了附加的元数据 shred 的作用将受到影响。在data=ordered(默认)\n"
+"或data=writeback 模式下shred 仍然有效。\n"
+"Ext3 日志模式可通过向/etc/fstab 的挂载选项中添加data=something 进行设置，\n"
+"您可以查看mount 的man 页面以获得详细信息。\n"
+"\n"
+
+msgid "Infinity B"
+msgstr "无穷量 B"
+
+msgid "Information request"
+msgstr "信息请求"
+
+msgid "Inodes"
+msgstr "Inode"
+
+msgid "Interrupt"
+msgstr "中断"
+
+msgid "Interrupted by a signal"
+msgstr "被信号中断"
+
+msgid "Invalid back reference"
+msgstr "无效的后向引用"
+
+msgid "Invalid character class name"
+msgstr "无效的字符类型名"
+
+msgid "Invalid collation character"
+msgstr "无效的校勘字符"
+
+msgid "Invalid content of \\{\\}"
+msgstr "\\{\\} 中内容无效"
+
+msgid "Invalid preceding regular expression"
+msgstr "无效的前置正则表达式"
+
+msgid "Invalid range end"
+msgstr "无效的范围结束符"
+
+msgid "Invalid regular expression"
+msgstr "无效的正则表达式"
+
+msgid "James Youngman"
+msgstr "James Youngman"
+
+msgid "Jay Lepreau"
+msgstr "Jay Lepreau"
+
+msgid "Jim Kingdon"
+msgstr "Jim Kingdon"
+
+msgid "Jim Meyering"
+msgstr "Jim Meyering"
+
+msgid "Joseph Arceneaux"
+msgstr "Joseph Arceneaux"
+
+msgid "Kaveh Ghazi"
+msgstr "Kaveh Ghazi"
+
+msgid "Kayvan Aghaiepour"
+msgstr "Kayvan Aghaiepour"
+
+msgid "Kevin Braunsdorf"
+msgstr "Kevin Braunsdorf"
+
+msgid "Killed"
+msgstr "已杀死"
+
+msgid "LINE"
+msgstr "线路"
+
+msgid "LOGIN"
+msgstr "登录"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Login name: "
+msgstr "登录名： "
+
+msgid "Mark Kettenis"
+msgstr "Mark Kettenis"
+
+msgid "Matthew Bradburn"
+msgstr "Matthew Bradburn"
+
+msgid "Memory allocation failure"
+msgstr "内存分配失败"
+
+msgid "Memory exhausted"
+msgstr "内存耗尽"
+
+msgid "Michael Meskes"
+msgstr "Michael Meskes"
+
+msgid "Michael Stone"
+msgstr "Michael Ston"
+
+msgid "Mike Haertel"
+msgstr "Mike Haertel"
+
+msgid "Mike Parker"
+msgstr "Mike Parker"
+
+msgid "Mounted on"
+msgstr "挂载点"
+
+msgid "NAME"
+msgstr "名称"
+
+msgid "Name"
+msgstr "名字"
+
+msgid "Name or service not known"
+msgstr "名称或服务未知"
+
+msgid "No address associated with hostname"
+msgstr "没有与主机名关联的地址"
+
+msgid "No match"
+msgstr "无匹配"
+
+msgid "No previous regular expression"
+msgstr "缺少之前的正则表达式"
+
+msgid "Non-recoverable failure in name resolution"
+msgstr "名称解析时出现不可恢复的错误"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Only one string may be given when deleting without squeezing repeats."
+msgstr "当进行不含缩减的删除操作时只能给定一组字符串。"
+
+msgid ""
+"Ordering options:\n"
+"\n"
+msgstr ""
+"排序选项：\n"
+"\n"
+
+msgid ""
+"Other options:\n"
+"\n"
+msgstr ""
+"其他选项：\n"
+"\n"
+
+msgid ""
+"Output commands to set the LS_COLORS environment variable.\n"
+"\n"
+"Determine format of output:\n"
+"  -b, --sh, --bourne-shell    output Bourne shell code to set LS_COLORS\n"
+"  -c, --csh, --c-shell        output C shell code to set LS_COLORS\n"
+"  -p, --print-database        output defaults\n"
+msgstr ""
+"输出用来设置 LS_COLORS 环境变量的命令。\n"
+"\n"
+"指定输出的规格：\n"
+"  -b, --sh, --bourne-shell\t输出设置LS_COLORS 的Bourne shell 命令\n"
+"  -c, --csh, --c-shell\t\t输出设置LS_COLORS 的C shell 命令\n"
+"  -p, --print-database\t\t输出默认的色彩设置\n"
+
+msgid ""
+"Output platform dependent limits in a format useful for shell scripts.\n"
+"\n"
+msgstr ""
+"为Shell 脚本格式输出基于操作平台的限制参数。\n"
+"\n"
+
+msgid ""
+"Output who is currently logged in according to FILE.\n"
+"If FILE is not specified, use %s.  %s as FILE is common.\n"
+"\n"
+msgstr ""
+"根据文件判断输出当前有谁正登录在系统上。\n"
+"如果文件未予指定，则使用%s，%s 是通用的相关文件。\n"
+"\n"
+
+msgid "PID"
+msgstr "进程号"
+
+msgid "Packaged by %s\n"
+msgstr "由 %s 打包\n"
+
+msgid "Packaged by %s (%s)\n"
+msgstr "由 %s 打包 (%s)\n"
+
+msgid "Padraig Brady"
+msgstr "Padraig Brady"
+
+msgid "Parameter string not correctly encoded"
+msgstr "参数字符串编码不正确"
+
+msgid "Paul Eggert"
+msgstr "Paul Eggert"
+
+msgid "Paul Rubin"
+msgstr "Paul Rubin"
+
+msgid "Pete TerMaat"
+msgstr "Pete TerMaat"
+
+msgid "Plan:\n"
+msgstr "计划：\n"
+
+msgid "Power failure"
+msgstr "电源错误"
+
+msgid "Premature end of regular expression"
+msgstr "正则表达式异常结束"
+
+msgid ""
+"Print ARGUMENT(s) according to FORMAT, or execute according to OPTION:\n"
+"\n"
+msgstr ""
+"按照指定格式打印参数或按照选项执行该参数：\n"
+"\n"
+
+msgid ""
+"Print CRC checksum and byte counts of each FILE.\n"
+"\n"
+msgstr ""
+"输出每个文件的 CRC 校验值和字节统计。\n"
+"\n"
+
+msgid ""
+"Print certain system information.  With no OPTION, same as -s.\n"
+"\n"
+"  -a, --all                print all information, in the following order,\n"
+"                             except omit -p and -i if unknown:\n"
+"  -s, --kernel-name        print the kernel name\n"
+"  -n, --nodename           print the network node hostname\n"
+"  -r, --kernel-release     print the kernel release\n"
+msgstr ""
+"输出一组系统信息。如果不跟随选项，则视为只附加-s 选项。\n"
+"\n"
+"  -a, --all\t\t\t以如下次序输出所有信息。其中若-p 和\n"
+"\t\t\t\t-i 的探测结果不可知则被省略：\n"
+"  -s, --kernel-name\t\t输出内核名称\n"
+"  -n, --nodename\t\t输出网络节点上的主机名\n"
+"  -r, --kernel-release\t\t输出内核发行号\n"
+
+msgid ""
+"Print group memberships for each USERNAME or, if no USERNAME is specified, for\n"
+"the current process (which may differ if the groups database has changed).\n"
+msgstr "显示每个输入的用户名所在的全部组，如果没有指定用户名则默认为当前进程用户(当用户组数据库发生变更时可能导致差异)。\n"
+
+msgid "Print information about users who are currently logged in.\n"
+msgstr "显示当前已登录的用户信息。\n"
+
+msgid ""
+"Print machine architecture.\n"
+"\n"
+msgstr ""
+"输出机器的体系结构。\n"
+"\n"
+
+msgid ""
+"Print the current time, the length of time the system has been up,\n"
+"the number of users on the system, and the average number of jobs\n"
+"in the run queue over the last 1, 5 and 15 minutes."
+msgstr ""
+"输出当前时间，系统启动时间，当前登录用户数以及最近1、5 和15 分钟系统运行\n"
+"队列中的平均任务数。"
+
+msgid ""
+"Print the file name of the terminal connected to standard input.\n"
+"\n"
+"  -s, --silent, --quiet   print nothing, only return an exit status\n"
+msgstr ""
+"显示出连接到当前标准输入的终端设备文件名。\n"
+"\n"
+"  -s, --silent, --quiet\t什么也不显示，只返回退出状态值\n"
+
+msgid ""
+"Print the full filename of the current working directory.\n"
+"\n"
+msgstr ""
+"输出当前工作目录的完整名称。\n"
+"\n"
+
+msgid ""
+"Print the name of the current user.\n"
+"\n"
+msgstr ""
+"显示当前用户的名称。\n"
+"\n"
+
+msgid ""
+"Print the number of processing units available to the current process,\n"
+"which may be less than the number of online processors\n"
+"\n"
+msgstr ""
+"打印当前进程可用的处理器数，\n"
+"此数目可能小于实际工作数\n"
+"\n"
+
+msgid ""
+"Print the prime factors of each specified integer NUMBER.  If none\n"
+"are specified on the command line, read them from standard input.\n"
+"\n"
+msgstr ""
+"输出每个指定的数字的素因子，如果没有在命令行中指定则从标准输入读取。\n"
+"\n"
+
+msgid ""
+"Print the user name associated with the current effective user ID.\n"
+"Same as id -un.\n"
+"\n"
+msgstr ""
+"显示与当前的有效用户ID 相关联的用户名。\n"
+"与id -un 相同。\n"
+"\n"
+
+msgid ""
+"Print value of a symbolic link or canonical file name\n"
+"\n"
+msgstr ""
+"输出符号链接值或规范文件名。\n"
+"\n"
+
+msgid "Processing request in progress"
+msgstr "正在处理请求"
+
+msgid "Profiling timer expired"
+msgstr "定时器描述已过期"
+
+msgid "Project: "
+msgstr "项目： "
+
+msgid "Q. Frank Xia"
+msgstr "Q. Frank Xia"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Randy Smith"
+msgstr "Randy Smith"
+
+msgid "Real-time signal %d"
+msgstr "实时信号%d"
+
+msgid "Regular expression too big"
+msgstr "正则表达式过长"
+
+msgid ""
+"Remove the DIRECTORY(ies), if they are empty.\n"
+"\n"
+"      --ignore-fail-on-non-empty\n"
+"                  ignore each failure that is solely because a directory\n"
+"                    is non-empty\n"
+msgstr ""
+"删除指定的空目录。\n"
+"\n"
+"      --ignore-fail-on-non-empty\n"
+"\t\t\t忽略仅由目录非空产生的所有错误\n"
+
+msgid "Report %s bugs to: %s\n"
+msgstr "请向 %2$s 报告 %1$s 的错误\n"
+
+msgid "Report %s translation bugs to <http://translationproject.org/team/>\n"
+msgstr "请向<http://translationproject.org/team/zh_CN.html> 报告%s 的翻译错误\n"
+
+msgid "Request canceled"
+msgstr "请求已取消"
+
+msgid "Request not canceled"
+msgstr "请求未取消"
+
+msgid "Resource lost"
+msgstr "资源丢失"
+
+msgid "Richard M. Stallman"
+msgstr "Richard M. Stallman"
+
+msgid "Richard Mlynarik"
+msgstr "Richard Mlynarik"
+
+msgid "Roland Huebner"
+msgstr "Roland Huebner"
+
+msgid "Roland McGrath"
+msgstr "Roland McGrath"
+
+msgid "Ross Paterson"
+msgstr "Ross Paterson"
+
+msgid ""
+"Run COMMAND with root directory set to NEWROOT.\n"
+"\n"
+msgstr ""
+"以指定的新根为运行指定命令时的的根目录。\n"
+"\n"
+
+msgid ""
+"Run COMMAND, ignoring hangup signals.\n"
+"\n"
+msgstr ""
+"忽略挂起信号运行指定的命令。\n"
+"\n"
+
+msgid "Russell Coker"
+msgstr "Russell Coker"
+
+msgid "Scott Bartram"
+msgstr "Scott Bartram"
+
+msgid "Scott Miller"
+msgstr "Scott Miller"
+
+msgid "Segmentation fault"
+msgstr "段错误"
+
+msgid "Servname not supported for ai_socktype"
+msgstr "ai_socktype 不支持 Servname"
+
+msgid "Set LC_ALL='C' to work around the problem."
+msgstr "请设置LC_ALL='C' 以避免出现问题。"
+
+msgid "Shell: "
+msgstr "Shell： "
+
+msgid "Simon Josefsson"
+msgstr "Simon Josefsson"
+
+msgid "Size"
+msgstr "容量"
+
+msgid "Special files require major and minor device numbers."
+msgstr "创建块设备文件时，必需指定主、次设备号。"
+
+msgid "Stack fault"
+msgstr "栈错误"
+
+msgid "Start COMMAND, and kill it if still running after DURATION.\n"
+msgstr "运行指定命令，在指定的停留时间后若该命令仍在运行则将其中止。\n"
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Stopped (signal)"
+msgstr "已停止(信号)"
+
+msgid "Stopped (tty input)"
+msgstr "已停止(tty 输入)"
+
+msgid "Stopped (tty output)"
+msgstr "已停止(tty 输出)"
+
+msgid "Stuart Kemp"
+msgstr "Stuart Kemp"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "System error"
+msgstr "系统错误"
+
+msgid "TIME"
+msgstr "时间"
+
+msgid "Temporary failure in name resolution"
+msgstr "名称解析出现临时错误"
+
+msgid "Terminated"
+msgstr "已终止"
+
+msgid "The strings compared were %s and %s."
+msgstr "要比较的字符串为%s 和%s。"
+
+msgid "Torbjorn Granlund"
+msgstr "Torbjorn Granlund"
+
+msgid "Trace/breakpoint trap"
+msgstr "跟踪/断点陷阱"
+
+msgid "Trailing backslash"
+msgstr "末尾的反斜杠"
+
+msgid "Two strings must be given when both deleting and squeezing repeats."
+msgstr "当同时重复删除和缩减时必须给出两组字符串。"
+
+msgid "Two strings must be given when translating."
+msgstr "当进行替换操作时必须给定两组字符串。"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Ulrich Drepper"
+msgstr "Ulrich Drepper"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Unknown signal %d"
+msgstr "未知信号%d"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Unmatched ( or \\("
+msgstr "未匹配的( 或\\("
+
+msgid "Unmatched ) or \\)"
+msgstr "未匹配的 ) 或 \\)"
+
+msgid "Unmatched [ or [^"
+msgstr "未匹配的[ 或[^"
+
+msgid "Unmatched \\{"
+msgstr "未匹配的\\{"
+
+msgid "Urgent I/O condition"
+msgstr "急需I/O 条件"
+
+msgid "Usage: %s\n"
+msgstr "用法：%s\n"
+
+msgid ""
+"Usage: %s COMMAND [ARG]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s 命令 [参数]...\n"
+"　或：%s 选项\n"
+
+msgid ""
+"Usage: %s CONTEXT COMMAND [args]\n"
+"  or:  %s [ -c ] [-u USER] [-r ROLE] [-t TYPE] [-l RANGE] COMMAND [args]\n"
+msgstr ""
+"用法: %s 环境 命令 [参数]\n"
+"　或: %s [ -c ] [-u 用户] [-r 角色] [-t 类型] [-l 范围] 命令 [参数]\n"
+
+msgid ""
+"Usage: %s EXPRESSION\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s 表达式\n"
+"　或：%s 选项\n"
+
+msgid ""
+"Usage: %s FILE\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s 文件\n"
+"　或：%s 选项\n"
+
+msgid ""
+"Usage: %s FILE1 FILE2\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s 文件1 文件2\n"
+"　或：%s 选项\n"
+
+msgid ""
+"Usage: %s FORMAT [ARGUMENT]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s 格式 [参数]\n"
+"　或：%s 选项\n"
+
+msgid ""
+"Usage: %s NAME [SUFFIX]\n"
+"  or:  %s OPTION... NAME...\n"
+msgstr ""
+"用法：%s 名称 [后缀]\n"
+"　或：%s 选项\n"
+
+msgid "Usage: %s OPTION... COMMAND\n"
+msgstr "用法：%s [选项]... 命令\n"
+
+msgid "Usage: %s OPTION... FILE...\n"
+msgstr "用法：%s 选项... 文件...\n"
+
+msgid "Usage: %s OPTION... [FILE]...\n"
+msgstr "用法：%s [选项]... [文件]...\n"
+
+msgid ""
+"Usage: %s [-F DEVICE | --file=DEVICE] [SETTING]...\n"
+"  or:  %s [-F DEVICE | --file=DEVICE] [-a|--all]\n"
+"  or:  %s [-F DEVICE | --file=DEVICE] [-g|--save]\n"
+msgstr ""
+"用法：%s [-F 设备 | --file=设备] [设置]...\n"
+"　或：%s [-F 设备 | --file=设备] [-a|--all]\n"
+"　或：%s [-F 设备 | --file=设备] [-g|--save]\n"
+
+msgid "Usage: %s [-WIDTH] [OPTION]... [FILE]...\n"
+msgstr "用法：%s [-宽度] [选项]... [文件]...\n"
+
+msgid ""
+"Usage: %s [-s SIGNAL | -SIGNAL] PID...\n"
+"  or:  %s -l [SIGNAL]...\n"
+"  or:  %s -t [SIGNAL]...\n"
+msgstr ""
+"用法：%s [-s 信号 | -信号] 进程号...\n"
+"　或：%s -l [信号]...\n"
+"　或：%s -t [信号]...\n"
+
+msgid ""
+"Usage: %s [FILE]...\n"
+"  or:  %s [OPTION]\n"
+msgstr ""
+"用法：%s [文件]...\n"
+"　或：%s [选项]\n"
+
+msgid ""
+"Usage: %s [NAME]\n"
+"  or:  %s OPTION\n"
+"Print or set the hostname of the current system.\n"
+"\n"
+msgstr ""
+"用法：%s [名称]\n"
+"　或：%s 选项\n"
+"显示或设置当前系统的主机名。\n"
+"\n"
+
+msgid ""
+"Usage: %s [NUMBER]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s [数字]...\n"
+"　或：%s 选项\n"
+
+msgid ""
+"Usage: %s [OPERAND]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s [操作数] ...\n"
+"　或：%s 选项\n"
+
+msgid "Usage: %s [OPTION]\n"
+msgstr "用法：%s [选项]\n"
+
+msgid ""
+"Usage: %s [OPTION]\n"
+"Print the numeric identifier (in hexadecimal) for the current host.\n"
+"\n"
+msgstr ""
+"用法：%s [选项]\n"
+"显示当前主机的数字标识符(十六进制)。\n"
+"\n"
+
+msgid ""
+"Usage: %s [OPTION] DURATION COMMAND [ARG]...\n"
+"  or:  %s [OPTION]\n"
+msgstr ""
+"用法：%s [选项] 停留时间 命令 [参数]...\n"
+"　或：%s 选项\n"
+
+msgid "Usage: %s [OPTION] NAME...\n"
+msgstr "用法：%s [选项] 名称...\n"
+
+msgid ""
+"Usage: %s [OPTION] NEWROOT [COMMAND [ARG]...]\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s [选项] 新根 [命令 [参数]...]\n"
+"　或：%s 选项\n"
+
+msgid "Usage: %s [OPTION] [COMMAND [ARG]...]\n"
+msgstr "用法：%s [选项] [命令 [参数]...]\n"
+
+msgid "Usage: %s [OPTION] [FILE]...\n"
+msgstr "用法：%s [选项] [文件]...\n"
+
+msgid "Usage: %s [OPTION]...\n"
+msgstr "用法：%s [选项]...\n"
+
+msgid ""
+"Usage: %s [OPTION]... CONTEXT FILE...\n"
+"  or:  %s [OPTION]... [-u USER] [-r ROLE] [-l RANGE] [-t TYPE] FILE...\n"
+"  or:  %s [OPTION]... --reference=RFILE FILE...\n"
+msgstr ""
+"用法:  %s [选项]... 环境 文件...\n"
+"　或:  %s [选项]... [-u 用户] [-r 角色] [-l 范围] [-t 类型] 文件...\n"
+"　或:  %s [选项]... --reference=参考文件 文件...\n"
+
+msgid "Usage: %s [OPTION]... DIRECTORY...\n"
+msgstr "用法：%s [选项]... 目录...\n"
+
+msgid "Usage: %s [OPTION]... FILE PATTERN...\n"
+msgstr "用法：%s [选项]... 文件 格式...\n"
+
+msgid "Usage: %s [OPTION]... FILE...\n"
+msgstr "用法：%s [选项]... 文件...\n"
+
+msgid "Usage: %s [OPTION]... FILE1 FILE2\n"
+msgstr "用法：%s [选项]... 文件1 文件2\n"
+
+msgid ""
+"Usage: %s [OPTION]... GROUP FILE...\n"
+"  or:  %s [OPTION]... --reference=RFILE FILE...\n"
+msgstr ""
+"用法：%s [选项]... 用户组 文件...\n"
+"　或：%s [选项]... --reference=参考文件 文件...\n"
+
+msgid ""
+"Usage: %s [OPTION]... LAST\n"
+"  or:  %s [OPTION]... FIRST LAST\n"
+"  or:  %s [OPTION]... FIRST INCREMENT LAST\n"
+msgstr ""
+"用法：%s [选项]... 尾数\n"
+"　或：%s [选项]... 首数 尾数\n"
+"　或：%s [选项]... 首数 增量 尾数\n"
+
+msgid ""
+"Usage: %s [OPTION]... MODE[,MODE]... FILE...\n"
+"  or:  %s [OPTION]... OCTAL-MODE FILE...\n"
+"  or:  %s [OPTION]... --reference=RFILE FILE...\n"
+msgstr ""
+"用法：%s [选项]... 模式[,模式]... 文件...\n"
+"　或：%s [选项]... 八进制模式 文件...\n"
+"　或：%s [选项]... --reference=参考文件 文件...\n"
+
+msgid "Usage: %s [OPTION]... NAME TYPE [MAJOR MINOR]\n"
+msgstr "用法：%s [选项]... 名称 类型 [主设备号 次设备号]\n"
+
+msgid "Usage: %s [OPTION]... NAME...\n"
+msgstr "用法：%s [选项]... 名称...\n"
+
+msgid "Usage: %s [OPTION]... SET1 [SET2]\n"
+msgstr "用法：%s [选项]... SET1 [SET2]\n"
+
+msgid "Usage: %s [OPTION]... [ FILE | ARG1 ARG2 ]\n"
+msgstr "用法：%s [选项]... [ 文件 | 参数1 参数2 ]\n"
+
+msgid ""
+"Usage: %s [OPTION]... [+FORMAT]\n"
+"  or:  %s [-u|--utc|--universal] [MMDDhhmm[[CC]YY][.ss]]\n"
+msgstr ""
+"用法：%s [选项]... [+格式]\n"
+"　或：%s [-u|--utc|--universal] [MMDDhhmm[[CC]YY][.ss]]\n"
+
+msgid ""
+"Usage: %s [OPTION]... [-T] SOURCE DEST\n"
+"  or:  %s [OPTION]... SOURCE... DIRECTORY\n"
+"  or:  %s [OPTION]... -t DIRECTORY SOURCE...\n"
+msgstr ""
+"用法：%s [选项]... [-T] 源文件 目标文件\n"
+"　或：%s [选项]... 源文件... 目录\n"
+"　或：%s [选项]... -t 目录 源文件...\n"
+
+msgid ""
+"Usage: %s [OPTION]... [-T] SOURCE DEST\n"
+"  or:  %s [OPTION]... SOURCE... DIRECTORY\n"
+"  or:  %s [OPTION]... -t DIRECTORY SOURCE...\n"
+"  or:  %s [OPTION]... -d DIRECTORY...\n"
+msgstr ""
+"用法：%s [选项]... [-T] 源文件 目标文件\n"
+"　或：%s [选项]... 源文件... 目录\n"
+"　或：%s [选项]... -t 目录 源文件...\n"
+"　或：%s [选项]... -d 目录...\n"
+
+msgid ""
+"Usage: %s [OPTION]... [-T] TARGET LINK_NAME   (1st form)\n"
+"  or:  %s [OPTION]... TARGET                  (2nd form)\n"
+"  or:  %s [OPTION]... TARGET... DIRECTORY     (3rd form)\n"
+"  or:  %s [OPTION]... -t DIRECTORY TARGET...  (4th form)\n"
+msgstr ""
+"用法：%s [选项]... [-T] 目标 链接名\t(第一种格式)\n"
+"　或：%s [选项]... 目标\t\t(第二种格式)\n"
+"　或：%s [选项]... 目标... 目录\t(第三种格式)\n"
+"　或：%s [选项]... -t 目录 目标...\t(第四种格式)\n"
+
+msgid "Usage: %s [OPTION]... [-] [NAME=VALUE]... [COMMAND [ARG]...]\n"
+msgstr "用法：%s [选项]... [-] [名称=值]... [命令 [参数]...]\n"
+
+msgid "Usage: %s [OPTION]... [FILE]\n"
+msgstr "用法：%s [选项]... [文件]\n"
+
+msgid ""
+"Usage: %s [OPTION]... [FILE]\n"
+"  or:  %s -e [OPTION]... [ARG]...\n"
+"  or:  %s -i LO-HI [OPTION]...\n"
+msgstr ""
+"用法： %s [选项]... [文件]\n"
+"　或者:  %s -e [选项]... [参数]...\n"
+"　或者:  %s -i LO-HI [选项]...\n"
+
+msgid "Usage: %s [OPTION]... [FILE]...\n"
+msgstr "用法：%s [选项]... [文件]...\n"
+
+msgid ""
+"Usage: %s [OPTION]... [FILE]...\n"
+"  or:  %s [-abcdfilosx]... [FILE] [[+]OFFSET[.][b]]\n"
+"  or:  %s --traditional [OPTION]... [FILE] [[+]OFFSET[.][b] [+][LABEL][.][b]]\n"
+msgstr ""
+"用法：%s [选项]... [文件]...\n"
+"　或：%s [-abcdfilosx]... [文件] [[+]偏移量[.][b]]\n"
+"　或：%s --traditional [选项]... [文件] [[+]偏移量[.][b] [+][标签][.][b]]\n"
+
+msgid ""
+"Usage: %s [OPTION]... [FILE]...\n"
+"  or:  %s [OPTION]... --files0-from=F\n"
+msgstr ""
+"用法：%s [选项]... [文件]...\n"
+"　或：%s [选项]... --files0-from=F\n"
+
+msgid "Usage: %s [OPTION]... [INPUT [OUTPUT]]\n"
+msgstr "用法：%s [选项]... [文件]\n"
+
+msgid ""
+"Usage: %s [OPTION]... [INPUT]...   (without -G)\n"
+"  or:  %s -G [OPTION]... [INPUT [OUTPUT]]\n"
+msgstr ""
+"用法：%s [选项]... [输入]... (不包括 -G 选项)\n"
+"　或：%s -G [选项]... [输入 [输出]]\n"
+
+msgid ""
+"Usage: %s [OPTION]... [OWNER][:[GROUP]] FILE...\n"
+"  or:  %s [OPTION]... --reference=RFILE FILE...\n"
+msgstr ""
+"用法：%s [选项]... [所有者][:[组]] 文件...\n"
+"　或：%s [选项]... --reference=参考文件 文件...\n"
+
+msgid "Usage: %s [OPTION]... [TEMPLATE]\n"
+msgstr "用法：%s [选项]... [TEMPLATE]\n"
+
+msgid "Usage: %s [OPTION]... [USERNAME]...\n"
+msgstr "用法：%s [选项]... [用户名]...\n"
+
+msgid "Usage: %s [OPTION]... [USER]...\n"
+msgstr "用法: %s [选项]... [用户]...\n"
+
+msgid ""
+"Usage: %s [OPTION]... [VARIABLE]...\n"
+"Print the values of the specified environment VARIABLE(s).\n"
+"If no VARIABLE is specified, print name and value pairs for them all.\n"
+"\n"
+msgstr ""
+"用法： %s [选项]... [变量]...\n"
+"显示指定的环境变量的值。\n"
+"如果没有指定变量，则打印出所有变量的名称和值。\n"
+"\n"
+
+msgid ""
+"Usage: %s [SHORT-OPTION]... [STRING]...\n"
+"  or:  %s LONG-OPTION\n"
+msgstr ""
+"用法：%s [短选项]... [字符串]...\n"
+"　或：%s 长选项\n"
+
+msgid ""
+"Usage: %s [STRING]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s [字符串]...\n"
+"　或：%s 选项\n"
+
+msgid ""
+"Usage: %s [ignored command line arguments]\n"
+"  or:  %s OPTION\n"
+msgstr ""
+"用法：%s [忽略任何命令行参数]\n"
+"　或：%s 选项\n"
+
+msgid ""
+"Usage: test EXPRESSION\n"
+"  or:  test\n"
+"  or:  [ EXPRESSION ]\n"
+"  or:  [ ]\n"
+"  or:  [ OPTION\n"
+msgstr ""
+"用法：%s 表达式\n"
+"　或：test\n"
+"　或：[表达式]\n"
+"　或：[ ]\n"
+"　或：[ 选项\n"
+
+msgid "Use%"
+msgstr "已用%"
+
+msgid "Used"
+msgstr "已用"
+
+msgid "User defined signal 1"
+msgstr "用户自定义信号 1"
+
+msgid "User defined signal 2"
+msgstr "用户自定义信号 2"
+
+msgid "Valid arguments are:"
+msgstr "有效的参数为："
+
+msgid "Valid arguments are:\n"
+msgstr "有效的参数为：\n"
+
+msgid "Virtual timer expired"
+msgstr "虚拟记时器过期"
+
+msgid ""
+"WARNING: Circular directory structure.\n"
+"This almost certainly means that you have a corrupted file system.\n"
+"NOTIFY YOUR SYSTEM MANAGER.\n"
+"The following directory is part of the cycle:\n"
+"  %s\n"
+msgstr ""
+"警告：发现循环的目录架构。\n"
+"这几乎可以肯定文件系统已经损坏。\n"
+"** 请通知系统管理员。**\n"
+"以下的目录是循环的一部份：\n"
+"  %s\n"
+
+msgid ""
+"WARNING: ignoring --preserve-context; this kernel is not SELinux-enabled"
+msgstr "警告：忽略--preserve-context 参数，当前运行的内核没有启用SELinux 支持"
+
+msgid ""
+"WARNING: ignoring --strip-program option as -s option was not specified"
+msgstr "警告：忽略--strip-program 选项，因为-s 选项没有指明"
+
+msgid "Warning: "
+msgstr "警告： "
+
+msgid "When"
+msgstr "从"
+
+msgid "Where"
+msgstr "来自"
+
+msgid "Window changed"
+msgstr "窗口已更改"
+
+msgid ""
+"With --follow (-f), tail defaults to following the file descriptor, which\n"
+"means that even if a tail'ed file is renamed, tail will continue to track\n"
+"its end.  This default behavior is not desirable when you really want to\n"
+"track the actual name of the file, not the file descriptor (e.g., log\n"
+"rotation).  Use --follow=name in that case.  That causes tail to track the\n"
+"named file in a way that accommodates renaming, removal and creation.\n"
+msgstr ""
+"如果您希望即时追查一个文件的有效名称而非描述内容(例如循环日志)，默认\n"
+"的程序动作并不如您所愿。在这种场合可以使用--follow=name 选项，它会使\n"
+"tail 定期追踪打开给定名称的文件，以确认它是否被删除或被其它某些程序重新创建过。\n"
+
+msgid "Written by %s and %s.\n"
+msgstr "由%s 和%s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+"由%s、%s、%s、\n"
+"%s、%s、%s、%s、\n"
+"%s、%s、和其他人编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由%s、%s、%s、\n"
+"%s、%s、%s、%s、\n"
+"%s、和%s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由%s、%s、%s、\n"
+"%s、%s、%s、%s\n"
+"和%s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+"由%s、%s、%s、\n"
+"%s、%s、%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+"由%s、%s、%s、\n"
+"%s、%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由%s、%s、%s、\n"
+"%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由%s、%s、%s 和\n"
+"%s 编写。\n"
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr "由%s、%s 和%s 编写。\n"
+
+msgid "Written by %s.\n"
+msgstr "由%s 编写。\n"
+
+msgid "[=c=] expressions may not appear in string2 when translating"
+msgstr "在替换操作中字符串2 里不能出现表达式[=c=]"
+
+msgid "^ no match for key\n"
+msgstr "^ 没有匹配项\n"
+
+msgid "^[nN]"
+msgstr "^[nN]"
+
+msgid "^[yY]"
+msgstr "^[yY]"
+
+msgid "`"
+msgstr "\""
+
+msgid "a command must be given with an adjustment"
+msgstr "命令必须和调整值配合指定"
+
+msgid "ai_family not supported"
+msgstr "不支持的ai_family"
+
+msgid "ai_socktype not supported"
+msgstr "不支持ai_socktype"
+
+msgid "ambiguous argument %s for %s"
+msgstr "%2$s 的参数%1$s 不明确"
+
+msgid "an input delimiter may be specified only when operating on fields"
+msgstr "只有当操作域时才可以指定输入分界符"
+
+msgid "appending output to %s"
+msgstr "把输出追加到%s"
+
+msgid "backing up %s would destroy source;  %s not copied"
+msgstr "备份%s 会破坏源文件；未复制%s"
+
+msgid "backing up %s would destroy source;  %s not moved"
+msgstr "备份%s 会破坏源文件；未移动%s"
+
+msgid "backup type"
+msgstr "备份方式"
+
+msgid "block special file"
+msgstr "块特殊文件"
+
+msgid "block special files not supported"
+msgstr "不支持区块特殊文件"
+
+msgid "blocks"
+msgstr "块"
+
+msgid "both files cannot be standard input"
+msgstr "不能从标准输入同时读取两个文件"
+
+msgid "can't apply partial context to unlabeled file %s"
+msgstr "部分关联无法应用于文件%s"
+
+msgid "can't get process context"
+msgstr "不能得到进程环境"
+
+msgid "cannot access %s"
+msgstr "无法访问%s"
+
+msgid "cannot backup %s"
+msgstr "无法备份%s"
+
+msgid "cannot both summarize and show all entries"
+msgstr "不能既显示总用量，同时又显示每个项目"
+
+msgid "cannot change ownership of %s"
+msgstr "无法更改%s 的所有权"
+
+msgid "cannot change permissions of %s"
+msgstr "无法更改%s 的权限"
+
+msgid "cannot change root directory to %s"
+msgstr "无法进入目录%s"
+
+msgid "cannot change to directory %s"
+msgstr "无法进入目录%s"
+
+msgid "cannot chdir to root directory"
+msgstr "无法切换到根目录"
+
+msgid "cannot combine --target-directory (-t) and --no-target-directory (-T)"
+msgstr "无法同时使用--target-directory (-t) 和--no-target-directory (-T) 选项"
+
+msgid "cannot combine --target-directory and --no-target-directory"
+msgstr "无法同时使用 --target-directory 和 --no-target-directory"
+
+msgid "cannot combine -e and -i options"
+msgstr "不能同时指定-e 和-i 选项"
+
+msgid "cannot combine any two of {ascii,ebcdic,ibm}"
+msgstr "不可将{ascii、ebcdic、idm}中的任意两个结合使用"
+
+msgid "cannot combine block and unblock"
+msgstr "不可将block 和unblock 结合使用"
+
+msgid "cannot combine direct and nocache"
+msgstr "不可将direct 和nocreat 结合使用"
+
+msgid "cannot combine excl and nocreat"
+msgstr "不可将excl 和nocreat 结合使用"
+
+msgid "cannot combine lcase and ucase"
+msgstr "不可将lcase 和ucase 结合使用"
+
+msgid "cannot combine mode and --reference options"
+msgstr "无法组合使用 mode 和 --reference 选项"
+
+msgid "cannot combine signal with -l or -t"
+msgstr "无法将-l 或-t 选项结合使用"
+
+msgid "cannot compare file names %s and %s"
+msgstr "无法比较文件名%s 和 %s"
+
+msgid "cannot convert U+%04X to local character set"
+msgstr "无法将U+%04X 转换至用户的字符集"
+
+msgid "cannot convert U+%04X to local character set: %s"
+msgstr "无法将U+%04X 转换至用户的字符集：%s"
+
+msgid "cannot copy a directory, %s, into itself, %s"
+msgstr "无法将目录%s 复制到自己%s"
+
+msgid "cannot copy cyclic symbolic link %s"
+msgstr "无法复制循环的符号链接%s"
+
+msgid "cannot create directory %s"
+msgstr "无法创建目录%s"
+
+msgid "cannot create fifo %s"
+msgstr "无法创建先进先出文件%s"
+
+msgid "cannot create hard link %s to %s"
+msgstr "无法创建指向%2$s 的硬链接%1$s"
+
+msgid "cannot create link %s to %s"
+msgstr "无法创建指向%2$s 的链接%1$s"
+
+msgid "cannot create regular file %s"
+msgstr "无法创建普通文件%s"
+
+msgid "cannot create special file %s"
+msgstr "无法创建特殊文件%s"
+
+msgid "cannot create symbolic link %s"
+msgstr "无法创建符号链接%s"
+
+msgid "cannot create symbolic link %s to %s"
+msgstr "无法创建指向%2$s 的符号链接%1$s"
+
+msgid "cannot create temporary file in %s"
+msgstr "无法在%s 创建临时文件"
+
+msgid "cannot dereference %s"
+msgstr "无法取消%s 的引用"
+
+msgid "cannot determine device and inode of %s"
+msgstr "无法决定%s 所在的设备及inode"
+
+msgid "cannot determine hostname"
+msgstr "无法确定主机名"
+
+msgid "cannot determine location of %s. reverting to polling"
+msgstr "无法定位 %s 的位置，回归为 polling 机制"
+
+msgid "cannot do ioctl on %s"
+msgstr "无法在 %s 上执行 ioctrl"
+
+msgid "cannot find name for group ID %lu"
+msgstr "无法找到ID 为%lu 的用户的属组"
+
+msgid "cannot find name for user ID %lu"
+msgstr "无法找到ID 为%lu 的用户的名称"
+
+msgid "cannot follow %s by name"
+msgstr "无法按名称跟随%s"
+
+msgid "cannot fstat %s"
+msgstr "无法获取%s 的文件状态(fstat)"
+
+msgid "cannot get current directory"
+msgstr "无法获得当前目录"
+
+msgid "cannot get niceness"
+msgstr "无法获取优先级"
+
+msgid "cannot get system name"
+msgstr "无法获取系统名"
+
+msgid "cannot get the size of %s"
+msgstr "无法获得%s 的大小"
+
+msgid "cannot lseek %s"
+msgstr "无法lseek %s"
+
+msgid "cannot make both hard and symbolic links"
+msgstr "无法同时创建硬链接及符号链接"
+
+msgid "cannot make directory %s"
+msgstr "无法创建目录%s"
+
+msgid "cannot move %s to %s"
+msgstr "无法将%s 移动至%s"
+
+msgid "cannot move %s to a subdirectory of itself, %s"
+msgstr "无法将目录%s 移动至自身的子目录%s 下"
+
+msgid "cannot move directory onto non-directory: %s -> %s"
+msgstr "无法将目录移动至非目录：%s -> %s"
+
+msgid "cannot open %s for reading"
+msgstr "无法打开%s 读取数据"
+
+msgid "cannot open %s for writing"
+msgstr "无法打开%s 读取数据"
+
+msgid "cannot open directory %s"
+msgstr "无法打开目录%s"
+
+msgid "cannot operate on dangling symlink %s"
+msgstr "无法创建符号链接%s"
+
+msgid "cannot overwrite directory %s with non-directory"
+msgstr "无法以非目录来覆盖目录%s"
+
+msgid "cannot overwrite non-directory %s with directory %s"
+msgstr "无法以目录%2$s 来覆盖非目录%1$s"
+
+msgid "cannot perform formatted output"
+msgstr "不能执行格式化输出"
+
+msgid "cannot preserve extended attributes, cp is built without xattr support"
+msgstr "无法保留扩展属性，当前使用的 cp 副本编译时没有启用 xattr 支持"
+
+msgid "cannot preserve security context without an SELinux-enabled kernel"
+msgstr "无法在未启用SELinux 支持的内核上使用安全环境"
+
+msgid "cannot print \"only\" of more than one choice"
+msgstr "有多种选择，无法输出唯一的"
+
+msgid "cannot print only names or real IDs in default format"
+msgstr "以默认格式无法只显示名称或只显示真实ID。"
+
+msgid "cannot print security context when user specified"
+msgstr "不能显示特定用户的安全环境"
+
+msgid "cannot read directory %s"
+msgstr "无法读取目录%s"
+
+msgid "cannot read file names from %s"
+msgstr "无法从%s 中读取文件名"
+
+msgid "cannot read file system information for %s"
+msgstr "无法为 %s 读取文件系统信息"
+
+msgid "cannot read realtime clock"
+msgstr "无法读取实时时钟"
+
+msgid "cannot read symbolic link %s"
+msgstr "无法读取符号链接%s"
+
+msgid "cannot read table of mounted file systems"
+msgstr "%s 无法读取已挂载上的文件系统的目录"
+
+msgid "cannot remove %s"
+msgstr "无法删除%s"
+
+msgid "cannot run %s"
+msgstr "无法运行%s"
+
+msgid "cannot set %s"
+msgstr "无法设定 %s"
+
+msgid "cannot set date"
+msgstr "无法设置日期"
+
+msgid "cannot set hostname; this system lacks the functionality"
+msgstr "无法设置主机名，此系统似乎不具备此功能"
+
+msgid "cannot set name to %s"
+msgstr "无法设置主机名为%s"
+
+msgid "cannot set niceness"
+msgstr "无法设置优先级"
+
+msgid "cannot set permissions of %s"
+msgstr "无法设定 %s 的权限"
+
+msgid "cannot set time stamps for %s"
+msgstr "无法设置%s 的时间戳"
+
+msgid "cannot skip past end of combined input"
+msgstr "无法略过输入内容的报尾"
+
+msgid "cannot specify --null (-0) with command"
+msgstr "无法以命令指定--null (-0)"
+
+msgid "cannot specify both printing across and printing in parallel"
+msgstr "无法同时指定相交输出和平行输出参数"
+
+msgid "cannot specify number of columns when printing in parallel"
+msgstr "在平行输出参数时不能指定栏数"
+
+msgid "cannot specify times from more than one source"
+msgstr "无法由多于一种的来源来指定时间"
+
+msgid "cannot split in more than one way"
+msgstr "无法以多于一种的方式切分输入"
+
+msgid "cannot stat %s"
+msgstr "无法获取%s 的文件状态(stat)"
+
+msgid "cannot stat current directory (now %s)"
+msgstr "无法获取当前目录的文件状态(stat，当前目录是%s)"
+
+msgid "cannot stat standard input"
+msgstr "无法从标准输入获取文件信息(stat)"
+
+msgid "cannot touch %s"
+msgstr "无法创建%s"
+
+msgid "cannot un-backup %s"
+msgstr "无法将%s 的备份还原"
+
+msgid "cannot unlink %s"
+msgstr "无法清除%s 的链接"
+
+msgid "cannot unset %s"
+msgstr "无法撤消 %s"
+
+msgid "cannot watch %s"
+msgstr "无法监视%s"
+
+msgid "cannot watch parent directory of %s"
+msgstr "无法监视%s 的上级目录"
+
+msgid "cannot work around kernel bug after all"
+msgstr "无法避免内核的错误"
+
+msgid "changing group of %s"
+msgstr "正在更改%s 的所属组"
+
+msgid "changing ownership of %s"
+msgstr "正在更改%s 的所有者"
+
+msgid "changing permissions of %s"
+msgstr "更改%s 的权限"
+
+msgid "changing security context of %s\n"
+msgstr "正在更改%s 的安全环境\n"
+
+msgid "character offset is zero"
+msgstr "字符偏移量为零"
+
+msgid "character out of range"
+msgstr "字符值超出可接受的范围以外"
+
+msgid "character special file"
+msgstr "字符特殊文件"
+
+msgid "character special files not supported"
+msgstr "不支持字符特殊文件"
+
+msgid "clearing permissions for %s"
+msgstr "清除%s 的权限"
+
+msgid "clock change"
+msgstr "时钟更改"
+
+msgid "close failed"
+msgstr "关闭失败"
+
+msgid "closing %s (fd=%d)"
+msgstr "正在关闭 %s (fd=%d)"
+
+msgid "closing directory %s"
+msgstr "关闭目录%s"
+
+msgid "closing input file %s"
+msgstr "正在关闭输入文件%s"
+
+msgid "closing output file %s"
+msgstr "正在关闭输出文件%s"
+
+msgid "closing standard input"
+msgstr "关闭标准输入"
+
+msgid "compatibility mode supports at most one file"
+msgstr "兼容模式最多支持一个文件"
+
+msgid "conflicting empty-field replacement strings"
+msgstr "有冲突的空区块替换字符串"
+
+msgid "conflicting security context specifiers given"
+msgstr "给出的安全环境说明冲突"
+
+msgid "could not set buffering of %s to mode %s\n"
+msgstr "无法将%2$s 的缓冲模式设置为%1$s\n"
+
+msgid "couldn't create process for %s -d"
+msgstr "无法创建进程%s -d"
+
+msgid "couldn't create temporary file"
+msgstr "无法创建临时文件"
+
+msgid "couldn't find directory entry in %s with matching i-node"
+msgstr "在匹配的inode %s 上找不到目录入口"
+
+msgid "couldn't get boot time"
+msgstr "无法获取启动时间"
+
+msgid "created directory %s"
+msgstr "已创建目录 %s"
+
+msgid "creating directory %s"
+msgstr "正在创建目录%s"
+
+msgid "creating file %s\n"
+msgstr "正在创建文件%s\n"
+
+msgid "delimiter list ends with an unescaped backslash: %s"
+msgstr "分割符列表以一个未跳过的反斜线结束：%s"
+
+msgid "directory"
+msgstr "目录"
+
+msgid "division by zero"
+msgstr "除以零"
+
+msgid "empty file name"
+msgstr "空文件名"
+
+msgid "empty tab"
+msgstr "空标签"
+
+msgid "error closing file"
+msgstr "关闭文件时出错"
+
+msgid "error in regular expression matcher"
+msgstr "正则表达式匹配器出错"
+
+msgid "error in regular expression search"
+msgstr "正则表达式搜索时出错"
+
+msgid "error initializing month strings"
+msgstr "初始化月份字符串出错"
+
+msgid "error monitoring inotify event"
+msgstr "监视inotify 事件出错"
+
+msgid "error reading %s"
+msgstr "读取%s 时出错"
+
+msgid "error reading inotify event"
+msgstr "读取inotify 事件出错"
+
+msgid "error waiting for command"
+msgstr "等待命令出错"
+
+msgid "error writing %s"
+msgstr "写入%s 出错"
+
+msgid "exit="
+msgstr "退出="
+
+msgid "extra argument %s"
+msgstr "多余的参数%s"
+
+msgid "extra operand %s"
+msgstr "额外的操作数 %s"
+
+msgid "extra operand %s not allowed with -%c"
+msgstr "不允许额外的操作数%s 与-%c 一起使用"
+
+msgid "failed to canonicalize %s"
+msgstr "规范化%s 失败"
+
+msgid "failed to change context of %s to %s"
+msgstr "改变%s 的环境到%s 失败"
+
+msgid "failed to change group of %s to %s\n"
+msgstr "无法更改%s 的所属组为%s\n"
+
+msgid "failed to change ownership of %s\n"
+msgstr "更改%s 的所有者失败\n"
+
+msgid "failed to change ownership of %s to %s\n"
+msgstr "无法更改%s 的所有者为%s\n"
+
+msgid "failed to chdir to %s"
+msgstr "无法切换到目录%s"
+
+msgid "failed to compute a new context"
+msgstr "计算新的环境失败"
+
+msgid "failed to create directory via template %s"
+msgstr "无法通过模板%s 创建目录"
+
+msgid "failed to create file via template %s"
+msgstr "无法通过模板%s 创建文件"
+
+msgid "failed to create hard link %s"
+msgstr "无法创建硬链接%s"
+
+msgid "failed to create hard link %s => %s"
+msgstr "无法创建硬链接%s => %s"
+
+msgid "failed to create hard link to %.0s%s"
+msgstr "无法创建硬链接%.0s%s"
+
+msgid "failed to create security context: %s"
+msgstr "创建安全环境失败：%s"
+
+msgid "failed to create symbolic link %s"
+msgstr "无法创建符号链接%s"
+
+msgid "failed to create symbolic link %s -> %s"
+msgstr "无法创建符号链接%s -> %s"
+
+msgid "failed to discard cache for: %s"
+msgstr "无法丢弃缓存：%s"
+
+msgid "failed to extend %s"
+msgstr "扩展%s 失败"
+
+msgid "failed to find %s"
+msgstr "查找%s 失败"
+
+msgid "failed to get attributes of %s"
+msgstr "无法取得%s 的属性"
+
+msgid "failed to get current context"
+msgstr "无法获得当前安全环境"
+
+msgid "failed to get groups for the current process"
+msgstr "获取当前进程用户组失败"
+
+msgid "failed to get groups for user %s"
+msgstr "获取用户%s 的属组失败"
+
+msgid "failed to get security context of %s"
+msgstr "无法取得%s 的安全环境"
+
+msgid "failed to lookup file %s"
+msgstr "查阅文件%s 失败"
+
+msgid "failed to open %s"
+msgstr "打开%s 失败"
+
+msgid "failed to preserve authorship for %s"
+msgstr "保留%s 的作者失败"
+
+msgid "failed to preserve ownership for %s"
+msgstr "无法保留%s 的所有者"
+
+msgid "failed to preserve permissions for %s"
+msgstr "保留%s 的权限失败"
+
+msgid "failed to preserve times for %s"
+msgstr "无法保留%s 的时间"
+
+msgid "failed to redirect standard error"
+msgstr "重定向标准错误失败"
+
+msgid "failed to remove %s"
+msgstr "删除 %s 失败"
+
+msgid "failed to remove directory %s"
+msgstr "删除目录 %s 失败"
+
+msgid "failed to render standard input unusable"
+msgstr "标准输入不可用，无法重定向"
+
+msgid "failed to reopen %s with mode %s"
+msgstr "以%s 模式重新打开%s 失败"
+
+msgid "failed to restore the default file creation context"
+msgstr "恢复默认文件创建环境失败"
+
+msgid "failed to return to initial working directory"
+msgstr "返回到初始工作目录失败"
+
+msgid "failed to run command %s"
+msgstr "无法运行命令%s"
+
+msgid "failed to set %s security context component to %s"
+msgstr "设置%s 安全环境组件到%s 失败"
+
+msgid "failed to set default file creation context to %s"
+msgstr "无法取得%s 的创建环境"
+
+msgid "failed to set group-ID"
+msgstr "设置组ID 失败"
+
+msgid "failed to set the copy of stderr to close on exec"
+msgstr "执行时关闭标准错误失败"
+
+msgid "failed to set user-ID"
+msgstr "设置用户ID 失败"
+
+msgid "failed to stat %s"
+msgstr "获取%s 的文件状态失败(stat)"
+
+msgid "failed to turn off O_DIRECT: %s"
+msgstr "无法关闭O_DIRECT：%s"
+
+msgid "failed to update the environment with %s"
+msgstr "更新%s 的环境失败"
+
+msgid "fdatasync failed for %s"
+msgstr "%s 的fdatasync 失败"
+
+msgid "fflush failed"
+msgstr "冲洗流失败(fflush)"
+
+msgid "field number %s is too large"
+msgstr "域编号%s 过大"
+
+msgid "field number is zero"
+msgstr "区块编号为零"
+
+msgid "fifo"
+msgstr "先进先出"
+
+msgid "file %d is not in sorted order"
+msgstr "文件%d 没有被正确排序"
+
+msgid "file operands cannot be combined with --files0-from"
+msgstr "文件操作数不能于--files0-from 参数一起使用"
+
+msgid "file operands cannot be combined with --print-database (-p)"
+msgstr "文件操作和--print-database (-p)不能同时使用"
+
+msgid "file system type %s both selected and excluded"
+msgstr "不能同时选择和排除文件系统类型%s"
+
+msgid "fork system call failed"
+msgstr "创建系统进程(fork)出错"
+
+msgid "format %s ends in %%"
+msgstr "格式%s 以%% 结束"
+
+msgid "format %s has no %% directive"
+msgstr "格式%s 没有%% 指令"
+
+msgid "format %s has too many %% directives"
+msgstr "格式%s 中%% 指令过多"
+
+msgid "format %s has unknown %%%c directive"
+msgstr "格式%s 中包含未知%%%c 指令"
+
+msgid "format string may not be specified when printing equal width strings"
+msgstr "当输出等宽字符串时不应再指定格式字符串"
+
+msgid "fsync failed for %s"
+msgstr "%s 的fsync 失败"
+
+msgid "fts_close failed"
+msgstr "fts_close 失败"
+
+msgid "fts_read failed"
+msgstr "fts_read 失败"
+
+msgid "fts_read failed: %s"
+msgstr "fts_read 失败：%s"
+
+msgid "getting new attributes of %s"
+msgstr "检查 %s 的新属性"
+
+msgid "group of %s retained as %s\n"
+msgstr "%s 的所属组已保留为%s\n"
+
+msgid "iconv function not available"
+msgstr "iconv 函数不存在"
+
+msgid "iconv function not usable"
+msgstr "iconv 函数无法使用"
+
+msgid "id="
+msgstr "id="
+
+msgid "ignoring input"
+msgstr "忽略输入"
+
+msgid "ignoring input and appending output to %s"
+msgstr "忽略输入并把输出追加到%s"
+
+msgid "ignoring input and redirecting stderr to stdout"
+msgstr "忽略输入重定向错误到标准输出端"
+
+msgid "ignoring invalid tab size in environment variable TABSIZE: %s"
+msgstr "忽略无效的环境变量 TABSIZE 所示的制表符尺寸值：%s"
+
+msgid "ignoring invalid value of environment variable QUOTING_STYLE: %s"
+msgstr "忽略无效的环境变量QUOTING_STYLE 的键值：%s"
+
+msgid "ignoring invalid width in environment variable COLUMNS: %s"
+msgstr "忽略无效的环境变量 COLUMNS 所示的宽度值：%s"
+
+msgid "ignoring non-option arguments"
+msgstr "忽略不是选项的参数"
+
+msgid "incompatible join fields %lu, %lu"
+msgstr "不兼容的连接区块%lu，%lu"
+
+msgid "incompatible tabs"
+msgstr "不兼容的标签"
+
+msgid "inotify cannot be used, reverting to polling"
+msgstr "无法使用 inotify 机制，回归为 polling 机制"
+
+msgid "inotify resources exhausted"
+msgstr "inotify 资源耗尽"
+
+msgid "input disappeared"
+msgstr "输入消失"
+
+msgid "input line is too long"
+msgstr "输入行太长"
+
+msgid "inter-device move failed: %s to %s; unable to remove target"
+msgstr "无法进行跨设备的移动：%s 至%s；无法删除目标"
+
+msgid "invalid %s%s argument '%s'"
+msgstr "非法的%s%s 参数\"%s\""
+
+msgid "invalid --%s argument %s"
+msgstr "无效的 --%s 参数%s"
+
+msgid "invalid adjustment %s"
+msgstr "无效的调整值%s"
+
+msgid "invalid argument %s"
+msgstr "无效的参数 %s"
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s 的参数%1$s 无效"
+
+msgid "invalid body numbering style: %s"
+msgstr "无效的正文号样式：%s"
+
+msgid "invalid buffering mode %s for %s\n"
+msgstr "%2$s 的缓冲模式%1$s 无效\n"
+
+msgid "invalid character class %s"
+msgstr "无效的字符类型%s"
+
+msgid "invalid context: %s"
+msgstr "无效模式：%s"
+
+msgid "invalid conversion"
+msgstr "转换无效"
+
+msgid "invalid conversion specifier in suffix: %c"
+msgstr "下标中出现无效的转换规格：%c"
+
+msgid "invalid conversion specifier in suffix: \\%.3o"
+msgstr "下标中出现无效的转换规格：\\%.3o"
+
+msgid "invalid date %s"
+msgstr "无效的日期%s"
+
+msgid "invalid date format %s"
+msgstr "日期格式%s 无效"
+
+msgid "invalid decreasing range"
+msgstr "无效的缩小的范围"
+
+msgid "invalid device %s %s"
+msgstr "无效的设备文件%s %s"
+
+msgid "invalid device type %s"
+msgstr "无效的设备类型 %s"
+
+msgid "invalid field number: %s"
+msgstr "无效的区块编号%s"
+
+msgid "invalid field specifier: %s"
+msgstr "无效的区块定义符：%s"
+
+msgid "invalid field width: %s"
+msgstr "无效的域宽度：%s"
+
+msgid "invalid file number in field spec: %s"
+msgstr "在区块定义中出现无效的文件编号：%s"
+
+msgid "invalid flags in conversion specification: %%%c%c"
+msgstr "无效的转换声明%%%c%c"
+
+msgid "invalid floating point argument: %s"
+msgstr "无效的浮点参数：%s"
+
+msgid "invalid footer numbering style: %s"
+msgstr "无效的页脚号样式：%s"
+
+msgid "invalid gap width: %s"
+msgstr "无效的间隙宽度：%s"
+
+msgid "invalid group"
+msgstr "无效的组"
+
+msgid "invalid group %s"
+msgstr "无效的组%s"
+
+msgid "invalid group list %s"
+msgstr "无效的组列表%s"
+
+msgid "invalid group: %s"
+msgstr "无效的组：%s"
+
+msgid "invalid header numbering style: %s"
+msgstr "无效的页眉号样式：%s"
+
+msgid "invalid input"
+msgstr "输入无效"
+
+msgid "invalid input flag"
+msgstr "输入标志无效"
+
+msgid "invalid integer %s"
+msgstr "无效的整数%s"
+
+msgid "invalid line discipline %s"
+msgstr "无效的行约束%s"
+
+msgid "invalid line numbering format: %s"
+msgstr "无效的编号格式：%s"
+
+msgid "invalid line width: %s"
+msgstr "无效的行宽：%s"
+
+msgid "invalid major device number %s"
+msgstr "无效的主设备号 %s"
+
+msgid "invalid maximum depth %s"
+msgstr "目录最大深度%s 无效"
+
+msgid "invalid minor device number %s"
+msgstr "无效的次设备号 %s"
+
+msgid "invalid mode"
+msgstr "无效的权限模式"
+
+msgid "invalid mode %s"
+msgstr "无效模式%s"
+
+msgid "invalid mode: %s"
+msgstr "无效模式：%s"
+
+msgid "invalid number at field start"
+msgstr "区块起始处的编号无效"
+
+msgid "invalid number of bytes"
+msgstr "无效的号码%s"
+
+msgid "invalid number of bytes to compare"
+msgstr "要对照的字节数量无效"
+
+msgid "invalid number of bytes to skip"
+msgstr "要略过的字节数量无效"
+
+msgid "invalid number of fields to skip"
+msgstr "要略过的区块数量无效"
+
+msgid "invalid number of lines"
+msgstr "无效的号码%s"
+
+msgid "invalid option -- %c"
+msgstr "无效的选项 -- %c"
+
+msgid ""
+"invalid option -- %c; -WIDTH is recognized only when it is the first\n"
+"option; use -w N instead"
+msgstr "无效选项 -- %c；宽度必须是第一个选项才能被正确识别；请使用 -w N"
+
+msgid "invalid output flag"
+msgstr "输出标志无效"
+
+msgid "invalid page range %s"
+msgstr "页码范围%s 无效"
+
+msgid "invalid precision: %s"
+msgstr "无效的精度：%s"
+
+msgid "invalid range with no endpoint: -"
+msgstr "无终点的无效的范围：-"
+
+msgid "invalid repeat count %s in [c*n] construct"
+msgstr "在参数结构 [c*n] 中有无效的重复次数%s"
+
+msgid "invalid spec"
+msgstr "无效的 spec"
+
+msgid "invalid suffix %s, contains directory separator"
+msgstr "无效后缀 %s，含有目录分隔符"
+
+msgid "invalid suffix in %s%s argument '%s'"
+msgstr "非法的后缀在%s%s 参数\"%s\""
+
+msgid "invalid template, %s, contains directory separator"
+msgstr "无效模板，%s，包含目录分隔符"
+
+msgid "invalid template, %s; with --tmpdir, it may not be absolute"
+msgstr "无效模板，%s；如果与--tmpdir 同时使用则不可以是绝对路径"
+
+msgid "invalid time interval %s"
+msgstr "无效的时间间隔%s"
+
+msgid "invalid time style format %s"
+msgstr "无效的日期时间格式%s"
+
+msgid "invalid trailing option -- %c"
+msgstr "无效的加附选项 -- %c"
+
+msgid "invalid type string %s"
+msgstr "无效类型的字符串%s"
+
+msgid ""
+"invalid type string %s;\n"
+"this system doesn't provide a %lu-byte floating point type"
+msgstr ""
+"无效的类型字符串%s；\n"
+"系统无法提供对%lu-字节浮点类型数值的支持"
+
+msgid ""
+"invalid type string %s;\n"
+"this system doesn't provide a %lu-byte integral type"
+msgstr ""
+"无效的类型字符串%s；\n"
+"系统无法提供对%lu-字节整形类型数值的支持"
+
+msgid "invalid universal character name \\%c%0*x"
+msgstr "无效的通用字符名称\\%c%0*x"
+
+msgid "invalid user"
+msgstr "无效的用户"
+
+msgid "invalid user %s"
+msgstr "无效的用户%s"
+
+msgid "invalid zero-length file name"
+msgstr "无效的零长度文件名"
+
+msgid "it is dangerous to operate recursively on %s"
+msgstr "在%s 进行递归操作十分危险"
+
+msgid "it is dangerous to operate recursively on %s (same as %s)"
+msgstr "在%s 进行递归操作十分危险(与%s 相同)"
+
+msgid "key %lu has zero width and will be ignored"
+msgstr "值%lu 宽度为零，忽略"
+
+msgid "key %lu is numeric and spans multiple fields"
+msgstr "值%lu 为数字且跨多个域"
+
+msgid "last="
+msgstr "最近="
+
+msgid "limit %lu exceeded by length %lu of file name %s"
+msgstr "文件名%3$s 的长度%2$lu 超出限值%1$lu"
+
+msgid "limit %lu exceeded by length %lu of file name component %s"
+msgstr "文件名成分%3$s 的长度%2$lu 超出限值%1$lu"
+
+msgid "line buffering stdin is meaningless"
+msgstr "对标准输入进行行缓冲无意义"
+
+msgid "line count option -%s%c... is too large"
+msgstr "行数选项-%s%c... 过大"
+
+msgid "line number %s is smaller than preceding line number, %s"
+msgstr "行号%s 比先前的行号%s 更小"
+
+msgid "line number overflow"
+msgstr "行号溢出"
+
+msgid "maximum --%s argument with current rlimit is %s"
+msgstr "最大 --%s 参数在当前资源限制(rlimit)设置下是%s"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid "message queue"
+msgstr "消息队列"
+
+msgid "minimum --%s argument is %s"
+msgstr "最小 --%s 参数是%s"
+
+msgid "misaligned [:upper:] and/or [:lower:] construct"
+msgstr "[:upper:] 和/或[:lower:] 的结构对齐不完整"
+
+msgid "missing %% conversion specification in suffix"
+msgstr "下标中丢失了%% 转换规格字符"
+
+msgid "missing argument after %s"
+msgstr "%s 后缺少参数"
+
+msgid "missing argument to %s"
+msgstr "缺少%s 的参数"
+
+msgid "missing conversion specifier in suffix"
+msgstr "下标中丢失了转换规格"
+
+msgid "missing destination file operand after %s"
+msgstr "在%s 后缺少了要操作的目标文件"
+
+msgid "missing file operand"
+msgstr "缺少了文件操作数"
+
+msgid "missing hexadecimal number in escape"
+msgstr "Escape 中缺失十六进制数"
+
+msgid "missing list of fields"
+msgstr "缺少域列表"
+
+msgid "missing operand"
+msgstr "缺少操作数"
+
+msgid "missing operand after %s"
+msgstr "%s 后缺少操作数"
+
+msgid "mode must specify only file permission bits"
+msgstr "模式必须只指定文件许可位"
+
+msgid "mode of %s retained as %04lo (%s)\n"
+msgstr "%s 的权限模式保留为%04lo (%s)\n"
+
+msgid "multi-character tab %s"
+msgstr "多字符标签%s"
+
+msgid "multiple -i options specified"
+msgstr "指定了多个-i 选项"
+
+msgid "multiple -l or -t options specified"
+msgstr "同时指定了多个-l 或-t 选项"
+
+msgid "multiple compress programs specified"
+msgstr "指定了多个压缩程序"
+
+msgid "multiple levelranges"
+msgstr "复合级别范围"
+
+msgid "multiple output files specified"
+msgstr "指定了多个输出文件"
+
+msgid "multiple output formats specified"
+msgstr "指定了多种输出格式"
+
+msgid "multiple random sources specified"
+msgstr "指定了多个随机源"
+
+msgid "multiple relative modifiers specified"
+msgstr "指定了多个相关修饰符"
+
+msgid "multiple roles"
+msgstr "多角色"
+
+msgid "multiple target directories specified"
+msgstr "指定了多个目标目录"
+
+msgid "multiple types"
+msgstr "多类型"
+
+msgid "multiple users"
+msgstr "多用户"
+
+msgid "multiplexed block special file"
+msgstr "复用块特殊文件"
+
+msgid "multiplexed character special file"
+msgstr "复用字符特殊文件"
+
+msgid "multiplexed file"
+msgstr "复用文件"
+
+msgid "neither symbolic link %s nor referent has been changed\n"
+msgstr "符号链接%s 和该链接所指示的对象都未被更改\n"
+
+msgid "network special file"
+msgstr "网络特殊文件"
+
+msgid "no SHELL environment variable, and no shell type option given"
+msgstr "没有设置SHELL 环境变量，也没有指定shell 类型的选项"
+
+msgid "no change to ownership of %s\n"
+msgstr "%s 的归属关系未更改\n"
+
+msgid "no command specified"
+msgstr "没有指定命令"
+
+msgid "no file systems processed"
+msgstr "未处理文件系统"
+
+msgid "no files remaining"
+msgstr "没有剩余文件"
+
+msgid "no group specified for unknown uid: %d"
+msgstr "没有为未知 UID 指定组：%d"
+
+msgid "no input from %s"
+msgstr "没有来自%s 的输入"
+
+msgid "no login name"
+msgstr "无登录名"
+
+msgid "no process ID specified"
+msgstr "未指定进程号"
+
+msgid "no type may be specified when dumping strings"
+msgstr "在转储字符串时不能指定类型"
+
+msgid "no username specified; at least one must be specified when using -l"
+msgstr "没有指定用户名，当使用-l 选项时至少需要指定一个"
+
+msgid "non-integer argument"
+msgstr "非整数参数"
+
+msgid "nonportable character %s in file name %s"
+msgstr "有不通用的字符%s 被包含在文件名%s 中"
+
+msgid "not a tty"
+msgstr "不是一个 tty"
+
+msgid "not writing through dangling symlink %s"
+msgstr "无法通过符号链接%s 进行操作"
+
+msgid "number in parallel must be nonzero"
+msgstr "单个的数字必须不为零"
+
+msgid "offset overflow while reading file %s"
+msgstr "读入文件%s 时偏移量溢出"
+
+msgid "omitting directory %s"
+msgstr "略过目录%s"
+
+msgid "only one [c*] repeat construct may appear in string2"
+msgstr "在字符串2 中只能出现一次[c*] 结构的重复次数声明"
+
+msgid "only one device may be specified"
+msgstr "只能指定一个设备"
+
+msgid "only one type of list may be specified"
+msgstr "只能指定列表中的一种类型"
+
+msgid "open failed"
+msgstr "打开失败"
+
+msgid "option used in invalid context -- %c"
+msgstr "在未定义环境中的无效选项 -- %c"
+
+msgid "options --backup and --no-clobber are mutually exclusive"
+msgstr "选项--backup 和 --no-clobber 互斥"
+
+msgid ""
+"options --compare (-C) and --preserve-timestamps are mutually exclusive"
+msgstr "选项--compare (-C) 和--preserve-timestamps 是互斥的"
+
+msgid "options --compare (-C) and --strip are mutually exclusive"
+msgstr "选项--compare (-C) 和--strip 是互斥的"
+
+msgid "output file suffixes exhausted"
+msgstr "已排除输出文件后缀"
+
+msgid "overflow extending size of file %s"
+msgstr "扩展文件%s 大小时溢出"
+
+msgid "overflow rounding up size of file %s"
+msgstr "处理大于等于文件%s 的指定大小的最大倍数时溢出"
+
+msgid "ownership of %s retained\n"
+msgstr "%s 的所有权已保留\n"
+
+msgid "ownership of %s retained as %s\n"
+msgstr "%s 的所有者已保留为%s\n"
+
+msgid "page number overflow"
+msgstr "页码溢出"
+
+msgid "page width too narrow"
+msgstr "过窄"
+
+msgid "port"
+msgstr "端口"
+
+msgid "preserving permissions for %s"
+msgstr "%s 的保留权限"
+
+msgid "preserving times for %s"
+msgstr "正在保留 %s 的时间"
+
+msgid "printing all duplicated lines and repeat counts is meaningless"
+msgstr "同时输出重复的行和重复计数是没有意义的"
+
+msgid "read error"
+msgstr "读取错误"
+
+msgid "read failed"
+msgstr "读取失败"
+
+msgid "reading directory %s"
+msgstr "正在读取目录%s"
+
+msgid "record too large"
+msgstr "记录数据过大"
+
+msgid "redirecting stderr to stdout"
+msgstr "重定向标准错误到标准输出"
+
+msgid "regular empty file"
+msgstr "普通空文件"
+
+msgid "regular file"
+msgstr "普通文件"
+
+msgid "removed %s\n"
+msgstr "已删除%s\n"
+
+msgid "removing directory, %s"
+msgstr "正在删除目录 %s"
+
+msgid "run-level"
+msgstr "运行级别"
+
+msgid "semaphore"
+msgstr "信号量"
+
+msgid "separator cannot be empty"
+msgstr "分隔符不能为空"
+
+msgid "set LC_ALL='C' to work around the problem"
+msgstr "请设置LC_ALL='C' 以避免出现问题。"
+
+msgid "setting flags for %s"
+msgstr "正在设置%s 的标记"
+
+msgid "setting permissions for %s"
+msgstr "设置%s 的权限"
+
+msgid "setting times of %s"
+msgstr "正在设置%s 的时间"
+
+msgid "shared memory object"
+msgstr "共享内存对象"
+
+msgid "skip-bytes + read-bytes is too large"
+msgstr "略过字节数+ 读入字节数的值过大"
+
+msgid "skipping %s, since it's on a different device"
+msgstr "跳过%s，因为它位于不同的设备上"
+
+msgid "skipping file %s, as it was replaced while being copied"
+msgstr "跳过文件%s，因为在准备复制时它已被其它文件取代"
+
+msgid "socket"
+msgstr "套接字"
+
+msgid "standard error"
+msgstr "标准错误"
+
+msgid "standard input"
+msgstr "标准输入"
+
+msgid "standard input is closed"
+msgstr "标准输入已关闭"
+
+msgid "standard output"
+msgstr "标准输出"
+
+msgid "stat failed"
+msgstr "获取文件状态失败(stat)"
+
+msgid "stderr"
+msgstr "标准错误"
+
+msgid "stdin"
+msgstr "标准输入"
+
+msgid "stdout"
+msgstr "标准输出"
+
+msgid "stray character in field spec"
+msgstr "区块中有孤立字符"
+
+msgid "string comparison failed"
+msgstr "字符串比较出现错误"
+
+msgid "string transformation failed"
+msgstr "字符串转换失败"
+
+msgid "strip process terminated abnormally"
+msgstr "拆解过程非正常中止"
+
+msgid ""
+"suppressing non-delimited lines makes sense\n"
+"\tonly when operating on fields"
+msgstr ""
+"清除没有分界符的行只有在\n"
+"\t操作域时才有意义"
+
+msgid "symbolic link"
+msgstr "符号链接"
+
+msgid "syntax error"
+msgstr "语法错误"
+
+msgid "system boot"
+msgstr "系统引导"
+
+msgid "tab size cannot be 0"
+msgstr "制表符尺寸不可为0"
+
+msgid "tab size contains invalid character(s): %s"
+msgstr "制表符尺寸中包含无效字符：%s"
+
+msgid "tab sizes must be ascending"
+msgstr "制表符尺寸必须是升序的"
+
+msgid "tab stop is too large %s"
+msgstr "%s：制表符跳格量过大"
+
+msgid "tab stop value is too large"
+msgstr "制表符限长过大"
+
+msgid "tabs are too far apart"
+msgstr "制表符过于分散"
+
+msgid "target %s is not a directory"
+msgstr "目标%s 不是目录"
+
+msgid "target directory not allowed when installing a directory"
+msgstr "安装目录时不能用目标目录选项"
+
+msgid "term="
+msgstr "终端="
+
+msgid "test and/or ["
+msgstr "test 和/或["
+
+msgid ""
+"the --binary and --text options are meaningless when verifying checksums"
+msgstr "在校验时--binary 和--text 选项是无意义的"
+
+msgid ""
+"the --compare (-C) option is ignored when you specify a mode with non-"
+"permission bits"
+msgstr "当您使用不允许的比特数指定模式是--compare (-C) 选项被忽略"
+
+msgid "the --quiet option is meaningful only when verifying checksums"
+msgstr "只有在校验时--quiet 选项才有意义"
+
+msgid "the --status option is meaningful only when verifying checksums"
+msgstr "只有在校验时--status 选项才有意义"
+
+msgid "the --tag option is meaningless when verifying checksums"
+msgstr "在校验时--tag 选项无意义"
+
+msgid "the --warn option is meaningful only when verifying checksums"
+msgstr "只有在校验时--warn 选项才有意义"
+
+msgid "the [c*] construct may appear in string2 only when translating"
+msgstr "当进行替换操作时[c*] 结构的参数只能出现在字符串2 中"
+
+msgid "the [c*] repeat construct may not appear in string1"
+msgstr "在字符串1 中不能出现[c*] 结构的重复次数声明"
+
+msgid "the delimiter must be a single character"
+msgstr "分界符必须是单个字符"
+
+msgid ""
+"the options for verbose and stty-readable output styles are\n"
+"mutually exclusive"
+msgstr "verbose 和 stty-readable 两种输入风格的选项是互相抵触的"
+
+msgid ""
+"the options to output dircolors' internal database and\n"
+"to select a shell syntax are mutually exclusive"
+msgstr ""
+"显示 dircolors 内部数据库的选项和选择 shell 语法的选项\n"
+"是互相抵触的"
+
+msgid "the options to print and set the time may not be used together"
+msgstr "显示与设置时间的选项不能同时使用"
+
+msgid "the options to specify dates for printing are mutually exclusive"
+msgstr "被指定的这几种日期显示选项是相互抵触的"
+
+msgid "the strings compared were %s and %s"
+msgstr "已比较的字符串为%s 和%s"
+
+msgid "the strip option may not be used when installing a directory"
+msgstr "安装目录时不能用strip 选项"
+
+msgid "the untransformed string was %s"
+msgstr "未转换的字符串为%s"
+
+msgid "time %s is out of range"
+msgstr "时间%s 超出范围"
+
+msgid "too few X's in template %s"
+msgstr "模板%s 中X 太少"
+
+msgid "too many %% conversion specifications in suffix"
+msgstr "下标中出现过多的%% 转换规格字符"
+
+msgid "too many characters in set"
+msgstr "设置中的字符数量过多"
+
+msgid "too many repeated lines"
+msgstr "重复行过多"
+
+msgid "too many templates"
+msgstr "模板过多"
+
+msgid "total"
+msgstr "总用量"
+
+msgid "traversal failed: %s"
+msgstr "遍历失败：%s"
+
+msgid "typed memory object"
+msgstr "共享内存对象"
+
+msgid "unable to display error message"
+msgstr "无法显示错误信息"
+
+msgid "unable to record current working directory"
+msgstr "无法记录目前的工作目录"
+
+msgid "unable to set security context %s"
+msgstr "无法设置安全环境%s"
+
+msgid ""
+"unexpected failure: fts_info=%d: %s\n"
+"please report to %s"
+msgstr ""
+"异常错误：fts_info=%d: %s\n"
+"请报告给 %s"
+
+msgid "unknown status from command (0x%X)"
+msgstr "来自命令的未知状态 (0x%X)"
+
+msgid "unknown stream"
+msgstr "未知流"
+
+msgid "unparsable value for LS_COLORS environment variable"
+msgstr "LS_COLORS 环境变量中存在无法解些的值"
+
+msgid "unrecognized operand %s"
+msgstr "无法识别的操作数%s"
+
+msgid "unrecognized prefix: %s"
+msgstr "无法识别的前缀：%s"
+
+msgid "up %ld day %2d:%02d,  "
+msgid_plural "up %ld days %2d:%02d,  "
+msgstr[0] "已启动%ld 天%2d:%02d，  "
+
+msgid "up ???? days ??:??,  "
+msgstr "已启动???? 天 ??:??，  "
+
+msgid "use --no-preserve-root to override this failsafe"
+msgstr "使用 --no-preserve-root 选项跳过安全模式"
+
+msgid "using %s sorting rules"
+msgstr "使用%s 排序规则"
+
+msgid "using %s to denote standard input does not work in file system mode"
+msgstr "用 %s 进行标准输入在文件系统模式下无法工作"
+
+msgid "using simple byte comparison"
+msgstr "使用简单字节比较"
+
+msgid "waiting for %s [-d]"
+msgstr "等待 %s [-d]"
+
+msgid "waiting for strip"
+msgstr "等待拆解"
+
+msgid ""
+"warning: %s: character(s) following character constant have been ignored"
+msgstr "警告：%s：跟随在常量字符后的其它字符已被忽略"
+
+msgid "warning: %s: failed to change context to %s"
+msgstr "警告：%s：切换到%s 用户环境失败"
+
+msgid "warning: --pid=PID is not supported on this system"
+msgstr "警告：此系统不支持--pid=PID"
+
+msgid "warning: PID ignored; --pid=PID is useful only when following"
+msgstr "警告：已忽略进程号，只有在跟随模式下--pid=PID 选项才是有用的"
+
+msgid "warning: an unescaped backslash at end of string is not portable"
+msgstr "警告：在字符串结尾使用为转义的反斜杠是一种不可移植的做法"
+
+msgid "warning: backslash at end of format"
+msgstr "警告：格式末尾出现反斜杠"
+
+msgid "warning: cannot remove: %s"
+msgstr "警告：无法删除：%s"
+
+msgid "warning: following standard input indefinitely is ineffective"
+msgstr "警告：无限期跟随标准输入是无用的"
+
+msgid "warning: ignoring excess arguments, starting with %s"
+msgstr "警告：从%s 开始已忽略超量的参数"
+
+msgid "warning: invalid file offset after failed read"
+msgstr "警告：文件读取失败后偏移错误"
+
+msgid "warning: invalid width %lu; using %d instead"
+msgstr "警告：无效的宽度值%lu，已使用%d 代替"
+
+msgid "warning: line number %s is the same as preceding line number"
+msgstr "警告：行号%s 比先前的行号更小"
+
+msgid "warning: source file %s specified more than once"
+msgstr "警告：指定来源文件%s 多于一次"
+
+msgid "warning: summarizing conflicts with --max-depth=%lu"
+msgstr "警告：显示总用量的选项和--max-depth=%lu 互斥"
+
+msgid "warning: summarizing is the same as using --max-depth=0"
+msgstr "警告：显示总用量等价于使用--max-depth=0"
+
+msgid ""
+"warning: the ambiguous octal escape \\%c%c%c is being\n"
+"\tinterpreted as the 2-byte sequence \\0%c%c, %c"
+msgstr "警告：含义不清的八进制内容 \\%c%c%c 已被视作为双字节序列 \\0%c%c, %c 处理"
+
+msgid ""
+"warning: working around lseek kernel bug for file (%s)\n"
+"  of mt_type=0x%0lx -- see <sys/mtio.h> for the list of types"
+msgstr ""
+"警告：暂时避免有关文件%s 的lseek 内核错误\n"
+"  错误地址在mt_type=0x%0lx -- 有关mt_type 类型的列表请参考<sys/mtio.h>"
+
+msgid "weird file"
+msgstr "古怪文件"
+
+msgid "when not truncating set1, string2 must be non-empty"
+msgstr "当不截断设置1 时，字符串2 不能为空"
+
+msgid "when reading file names from stdin, no file name of %s allowed"
+msgstr "当从标准输入读取时，不允许指定文件名%s"
+
+msgid "when specifying an output style, modes may not be set"
+msgstr "当指定了输出风格时，模式不能再被设置"
+
+msgid ""
+"when translating with complemented character classes,\n"
+"string2 must map all characters in the domain to one"
+msgstr "当以反相模式替换字符类型时，字符串2 必须将所有字符映射到一个字域"
+
+msgid ""
+"when translating with string1 longer than string2,\n"
+"the latter string must not end with a character class"
+msgstr "当字符串1 长度大于字符串2时，后者不能以字符类结尾"
+
+msgid "will not copy %s through just-created symlink %s"
+msgstr "不会以%s 覆盖刚创建的%s"
+
+msgid "will not create hard link %s to directory %s"
+msgstr "不会创建指向目录%2$s 的硬链接%1$s"
+
+msgid "will not overwrite just-created %s with %s"
+msgstr "不会以%2$s 覆盖刚创建的%1$s"
+
+msgid "with --parents, the destination must be a directory"
+msgstr "当跟随--parents 选项时，目的地必须是目录"
+
+msgid "with --suffix, template %s must end in X"
+msgstr "使用 --suffix，模板 %s 必须以 X 结尾"
+
+msgid "write error"
+msgstr "写入错误"
+
+msgid "write error for %s"
+msgstr "写入%s 时出错"
+
+msgid "write failed"
+msgstr "写入失败"
+
+msgid "writing to %s"
+msgstr "正在写入%s"
+
+msgid "you must specify -c, -t, -u, -l, -r, or context"
+msgstr "您必须指定-c，-t，-u，-l，-r 或环境"
+
+msgid "you must specify a list of bytes, characters, or fields"
+msgstr "您必须指定一组字节、字符或域的列表"
+
+msgid "you must specify a relative %s with %s"
+msgstr "您必须为%2$s 中指定一个相关的%1$s"
+
+msgid "you must specify either %s or %s"
+msgstr "您必须在%s 或%s 中指定一个"

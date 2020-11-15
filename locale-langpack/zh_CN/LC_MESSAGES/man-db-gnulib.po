@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnulib 2.0.0.3462.e9796\n"
+"Report-Msgid-Bugs-To: bug-gnulib@gnu.org\n"
+"POT-Creation-Date: 2015-11-06 15:42+0000\n"
+"PO-Revision-Date: 2015-12-03 18:31+0000\n"
+"Last-Translator: Ji ZhengYu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:59+0000\n"
+
+msgid "  or: "
+msgstr "  或者： "
+
+msgid " [OPTION...]"
+msgstr " [选项...]"
+
+msgid "%.*s: ARGP_HELP_FMT parameter must be positive"
+msgstr "%.*s: ARGP_HELP_FMT 参数必须为正值"
+
+msgid "%.*s: ARGP_HELP_FMT parameter requires a value"
+msgstr "%.*s: ARGP_HELP_FMT 参数需要一个值"
+
+msgid "%.*s: Unknown ARGP_HELP_FMT parameter"
+msgstr "%.*s: 未知的 ARGP_HELP_FMT 参数"
+
+msgid "%s: Too many arguments\n"
+msgstr "%s：参数太多\n"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s: 无效选项 -- \"%c\"\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s: 选项\"%c%s\"不要参数\n"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s: 选项\"--%s\"不要参数\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s: 选项\"-W %s\"不要带参数\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s: 选项\"-W %s\"有歧义\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s: 选项需要参数 -- \"%c\"\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s: 无法识别的选项\"%c%s\"\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s: 无法识别的选项\"--%s\"\n"
+
+msgid "(PROGRAM ERROR) No version known!?"
+msgstr "（程序错误）未知版本！？"
+
+msgid "(PROGRAM ERROR) Option should have been recognized!?"
+msgstr "（程序错误）未知的选项！？"
+
+msgid "ARGP_HELP_FMT: %s value is less than or equal to %s"
+msgstr "ARGP_HELP_FMT: %s 的值小于或等于 %s"
+
+msgid "Garbage in ARGP_HELP_FMT: %s"
+msgstr "ARGP_HELP_FMT 中的无效参数: %s"
+
+msgid "Invalid back reference"
+msgstr "无效的向后索引"
+
+msgid "Invalid character class name"
+msgstr "无效的字符类名"
+
+msgid "Invalid content of \\{\\}"
+msgstr "\\{\\} 的内容无效"
+
+msgid "Invalid preceding regular expression"
+msgstr "前置的正则表达式无效"
+
+msgid "Invalid range end"
+msgstr "无效的范围结尾"
+
+msgid "Invalid regular expression"
+msgstr "正则表达式无效"
+
+msgid ""
+"Mandatory or optional arguments to long options are also mandatory or "
+"optional for any corresponding short options."
+msgstr "选项完整形式所必须用的或是可选的参数，在使用选项缩写形式时也是必须的或是可选的。"
+
+msgid "Memory exhausted"
+msgstr "内存用尽"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "No match"
+msgstr "不匹配"
+
+msgid "No previous regular expression"
+msgstr "没有前次正则表达式"
+
+msgid "Premature end of regular expression"
+msgstr "正则表达式结尾过早"
+
+msgid "Regular expression too big"
+msgstr "正则表达式太大"
+
+msgid "Report bugs to %s.\n"
+msgstr "请向 %s 报告错误。\n"
+
+msgid "SECS"
+msgstr "SECS"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Trailing backslash"
+msgstr "多余的反斜杠"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Unmatched ( or \\("
+msgstr "( 或 \\( 不匹配"
+
+msgid "Unmatched ) or \\)"
+msgstr ") 或 \\) 不匹配"
+
+msgid "Unmatched [ or [^"
+msgstr "[ 或 [^ 不匹配"
+
+msgid "Unmatched \\{"
+msgstr "\\{ 不匹配"
+
+msgid "Usage:"
+msgstr "用法："
+
+msgid "failed to return to initial working directory"
+msgstr "返回到初始工作目录失败"
+
+msgid "give a short usage message"
+msgstr "显示一份简洁的用法信息"
+
+msgid "give this help list"
+msgstr "显示此帮助列表"
+
+msgid "hang for SECS seconds (default 3600)"
+msgstr "挂起 SECS 秒（默认 3600 秒）"
+
+msgid "memory exhausted"
+msgstr "内存用尽"
+
+msgid "print program version"
+msgstr "打印程序版本"
+
+msgid "set the program name"
+msgstr "设定程序名称"
+
+msgid "unable to record current working directory"
+msgstr "无法记录当前工作的目录"

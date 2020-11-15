@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-22 07:57+0000\n"
+"PO-Revision-Date: 2016-03-25 06:42+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:06+0000\n"
+
+msgid " "
+msgstr " "
+
+msgid "    "
+msgstr "    "
+
+msgid " More info: %s"
+msgstr " 更多信息： %s"
+
+msgid "%(count)d proprietary driver in use."
+msgid_plural "%(count)d proprietary drivers in use."
+msgstr[0] "正在使用 %(count)d 个专有驱动。"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s Software"
+msgstr "%s 软件"
+
+msgid "%s updates"
+msgstr "%s 更新"
+
+msgid "'%s' distribution component disabled for all sources."
+msgstr "对所有源禁用了 “%s” 发行版组件。"
+
+msgid "'%s' distribution component enabled for all sources."
+msgstr "对所有源启用了 “%s” 发行版组件。"
+
+msgid "'%s' distribution component is already disabled for all sources."
+msgstr "已对所有源禁用了 “%s” 发行版组件。"
+
+msgid "'%s' distribution component is already enabled for all sources."
+msgstr "已对所有源启用了 “%s” 发行版组件。"
+
+msgid "(Source Code)"
+msgstr "(源代码)"
+
+msgid ""
+"<b><big>Testing download servers</big></b>\n"
+"\n"
+"A series of tests will be performed to find the best mirror for your location."
+msgstr ""
+"<b><big>测试下载服务器</big></b>\n"
+"\n"
+"为了找到最好的镜像地址，将会执行一系列的测试。"
+
+msgid ""
+"<b><big>The information about available software is out-of-date</big></b>\n"
+"\n"
+"To install software and updates from newly added or changed sources, you have to reload the information about available software.\n"
+"\n"
+"You need a working internet connection to continue."
+msgstr ""
+"<b><big>可用软件的列表信息已过时</big></b>\n"
+"\n"
+"要通过新加入或已变更的软件源来安装或更新软件包，您必须重新载入可用软件包列表。\n"
+"\n"
+"您需要一个有效的互联网连接才能继续。"
+
+msgid "<b>Comment:</b>"
+msgstr "<b>注释：</b>"
+
+msgid "<b>Components:</b>"
+msgstr "<b>组件:</b>"
+
+msgid "<b>Distribution:</b>"
+msgstr "<b>发行版：</b>"
+
+msgid "<b>Downloadable from the Internet</b>"
+msgstr "<b>可从互联网下载</b>"
+
+msgid "<b>Installable from CD-ROM/DVD</b>"
+msgstr "<b>可从光驱安装</b>"
+
+msgid "<b>Trusted software providers</b>"
+msgstr "<b>可信任的软件提供者</b>"
+
+msgid "<b>Type:</b>"
+msgstr "<b>类型：</b>"
+
+msgid "<b>URI:</b>"
+msgstr "<b>网址：</b>"
+
+msgid ""
+"<big><b>Enter the complete APT line of the repository that you want to add "
+"as source</b></big>"
+msgstr "<big><b>输入您想添加为源的，该软件仓库的完整 APT 格式行</b></big>"
+
+msgid ""
+"<i>To improve the user experiece of Debian please take part in the popularity contest. If you do so the list of installed software and how often it was used will be collected and sent anonymously to the Debian project.\n"
+"\n"
+"The results are used to optimise the layout of the installation CDs."
+msgstr ""
+"<i>为了改进 Debian 的用户体验，请您参与软件包流行度统计。这样，您安装了哪些软件包以及使用频度会被匿名发送给 Debian 项目。\n"
+"\n"
+"其结果将用于优化安装光碟的软件包列表。</i>"
+
+msgid ""
+"<i>To improve the user experience of Ubuntu please take part in the popularity contest. If you do so the list of installed software and how often it was used will be collected and sent anonymously to the Ubuntu project on a weekly basis.\n"
+"\n"
+"The results are used to improve the support for popular applications and to rank applications in the search results.</i>"
+msgstr ""
+"<i>为了改进 Ubuntu 的用户体验，请您参与软件包流行度统计。这样，您安装了哪些软件包以及使用频度每周会被匿名发送给 Ubuntu。\n"
+"\n"
+"其结果用于流行软件支持及应用软件搜索排名。</i>"
+
+msgid ""
+"<small>A proprietary driver has private code that Ubuntu developers can't "
+"review or improve. Security and other updates are dependent on the driver "
+"vendor.</small>"
+msgstr "<small>专有的驱动程序包含私有代码，Ubuntu 的开发人员不能查看或改善。安全和其他更新依赖于驱动程序供应商。</small>"
+
+msgid "A new copy will be downloaded."
+msgstr "将再次下载。"
+
+msgid "APT line:"
+msgstr "APT 行："
+
+msgid "Active"
+msgstr "启用"
+
+msgid "Add Software Channels"
+msgstr "添加软件频道"
+
+msgid "Add Volume..."
+msgstr "添加卷..."
+
+msgid "Add..."
+msgstr "添加..."
+
+msgid "Additional Drivers"
+msgstr "附加驱动"
+
+msgid "Allow downloading of the source packages from the repository"
+msgstr "允许从仓库下载源码包"
+
+msgid "An error occurred while searching for drivers."
+msgstr "搜索驱动时发生错误。"
+
+msgid "Applying changes..."
+msgstr "正在应用更改..."
+
+msgid "Assume yes to all queries"
+msgstr "对所有问题都设定回答为是"
+
+msgid "Authentication"
+msgstr "身份验证"
+
+msgid "Automatically check for updates:"
+msgstr "自动检查更新："
+
+msgid "Binary"
+msgstr "二进制"
+
+msgid "CD Error"
+msgstr "光盘错误"
+
+msgid "CD Name"
+msgstr "光盘名称"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Canceling..."
+msgstr "取消..."
+
+msgid "Choose _Server"
+msgstr "选择服务器(_S)"
+
+msgid "Choose a Download Server"
+msgstr "选择下载服务器"
+
+msgid "Completed %s of %s tests"
+msgstr "已完成 %s 个测试，共有 %s 个"
+
+msgid "Configure the sources for installable software and updates"
+msgstr "配置用于安装和升级软件的源"
+
+msgid "Continue using a manually installed driver"
+msgstr "继续使用手动安装的驱动"
+
+msgid "Could not find a suitable CD."
+msgstr "未能找到合适的 CD。"
+
+msgid "Daily"
+msgstr "每天"
+
+msgid "Developer Options"
+msgstr "开发者选项"
+
+msgid "Display every two weeks"
+msgstr "每两周显示一次"
+
+msgid "Display immediately"
+msgstr "立即显示"
+
+msgid "Display weekly"
+msgstr "每周显示一次"
+
+msgid "Do not use the device"
+msgstr "不使用设备"
+
+msgid "Download and install automatically"
+msgstr "自动下载和安装"
+
+msgid "Download automatically"
+msgstr "自动下载"
+
+msgid "Download from:"
+msgstr "下载自："
+
+msgid "Drivers;Repositories;Repository;PPA;"
+msgstr "Drivers;Repositories;Repository;PPA;软件和更新;驱动;软件仓库;"
+
+msgid "Edit Source"
+msgstr "编辑源"
+
+msgid "Edit..."
+msgstr "编辑..."
+
+msgid "Enable PPA with the given name"
+msgstr "以指定名称启用 PPA"
+
+msgid "Enable the specified component of the distro's repositories"
+msgstr "启用该发行版软件仓库的指定组件"
+
+msgid "Enter the complete APT line of the repository that you want to add."
+msgstr "输入要添加的软件源的完整 APT 行。"
+
+msgid "Error importing key"
+msgstr "导入密钥出错"
+
+msgid "Error importing selected file"
+msgstr "导入所选文件时出错"
+
+msgid "Error removing the key"
+msgstr "删除密钥时出错"
+
+msgid "Error scanning the CD"
+msgstr "扫描光盘出错"
+
+msgid "Error: '%s' doesn't exist in a sourcelist file"
+msgstr "错误：“%s”不存在于一个软件源列表文件"
+
+msgid "Error: '%s' invalid"
+msgstr "错误： '%s' 无效"
+
+msgid "Error: must run as root"
+msgstr "错误： 必须使用 root 身份运行"
+
+msgid "Error: need a repository as argument"
+msgstr "错误： 需要以一个软件仓库作为参数"
+
+msgid "Error: need a single repository as argument"
+msgstr "错误：需要单个软件仓库作为参数"
+
+msgid "Every %s days"
+msgstr "每%s天"
+
+msgid "Every two days"
+msgstr "每两天"
+
+msgid "Every two weeks"
+msgstr "每两周"
+
+msgid "For any new version"
+msgstr "适用任何新版本"
+
+msgid "For long-term support versions"
+msgstr "适用长期支持版本"
+
+msgid "Import key"
+msgstr "导入密钥"
+
+msgid "Import the public key from a trusted software provider"
+msgstr "从可信任的软件提供者导入密钥。"
+
+msgid ""
+"Include the type, location and components of the repository. Example: %s"
+msgstr "包含类型，位置，以及分类。例如：%s"
+
+msgid "Insert Disk"
+msgstr "放入光盘"
+
+msgid "Install software additionally or only from this source?"
+msgid_plural "Install software additionally or only from these sources?"
+msgstr[0] "安装附加软件还是仅从这些源安装？"
+
+msgid "Install updates from:"
+msgstr "从下列地点安装更新："
+
+msgid "Key"
+msgstr "密钥"
+
+msgid ""
+"Keys are used to authenticate the correct source of software and so protect "
+"your computer from malicious software"
+msgstr "密钥用于验证软件源的正确性，使您的电脑远离恶意软件"
+
+msgid "Mirror"
+msgstr "镜像"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "New mirror"
+msgstr "新镜像"
+
+msgid "No additional drivers available."
+msgstr "没有可用的附加驱动。"
+
+msgid "No proprietary drivers are in use."
+msgstr "未使用专有驱动。"
+
+msgid "No suitable download server was found"
+msgstr "未找到合适的下载服务器"
+
+msgid ""
+"No update on repository change (useful if called from an external program)"
+msgstr "软件仓库更改后未发现有更新（外部程序调用时有用）"
+
+msgid "Notify me of a new Ubuntu version:"
+msgstr "有新版本时通知我："
+
+msgid "Other Software"
+msgstr "其它软件"
+
+msgid "Other..."
+msgstr "其他站点..."
+
+msgid "Performs a connection test to find the best mirror for your location"
+msgstr "将通过连接测试确定最佳镜像"
+
+msgid "Please check your Internet connection."
+msgstr "请检查您的互联网连接。"
+
+msgid "Please enter a name for the disc"
+msgstr "请为该光盘输入一个名称"
+
+msgid "Please insert a disk in the drive:"
+msgstr "请将光盘放入光驱："
+
+msgid "Press [ENTER] to continue or ctrl-c to cancel adding it"
+msgstr "按回车继续或者 Ctrl+c 取消添加"
+
+msgid "Press [ENTER] to continue or ctrl-c to cancel removing it"
+msgstr "按 [ENTER] 可继续操作，按 ctrl-c 可取消其删除操作"
+
+msgid "Print a lot of debug information to the command line"
+msgstr "将多个调试信息输出到命令行"
+
+msgid "Print some debug information to the command line"
+msgstr "打印调试信息至命令行"
+
+msgid ""
+"Proposed updates are only for testing updates and providing development "
+"feedback. Enabling this may introduce instability."
+msgstr "提前释出的的(proposed) 更新只用于测试更新并且提供开发反馈，将其启用可能损坏系统。"
+
+msgid "Protocol:"
+msgstr "协议："
+
+msgid "Re_vert"
+msgstr "还原(_V)"
+
+msgid "Reload"
+msgstr "重新加载"
+
+msgid "Restore _Defaults"
+msgstr "恢复默认值(_D)"
+
+msgid "Restore the default keys of your distribution"
+msgstr "还原为发行版本预设的密钥"
+
+msgid "Scanning CD-ROM"
+msgstr "正在扫描光驱"
+
+msgid "Searching for available drivers..."
+msgstr "正在搜索可用的驱动..."
+
+msgid "Software & Updates"
+msgstr "软件和更新"
+
+msgid "Software Sources"
+msgstr "软件源"
+
+msgid "Source"
+msgstr "源代码"
+
+msgid "Source Code"
+msgstr "源代码"
+
+msgid "Source code"
+msgstr "源代码"
+
+msgid ""
+"Submit the list of installed software and how often it is is used to the "
+"distribution project."
+msgstr "向发行版项目提交系统安装的软件包列表及其使用频率。"
+
+msgid "Testing Mirrors"
+msgstr "正在测试镜像站点"
+
+msgid ""
+"The --enable-component/-e command-line switch has been deprecated. Instead of 'software-properties-gtk -e multiverse' you can use \n"
+"'add-apt-repository multiverse'"
+msgstr ""
+"--enable-component/-e 命令行开关已经弃用。您可以使用 ‘add-apt-repository multiverse’ 代替 "
+"‘software-properties-gtk -e multiverse’"
+
+msgid ""
+"The APT line includes the type, location and components of a repository, for"
+" example  '%s'."
+msgstr "APT 格式行包括软件仓库的类型、路径以及组件，例如“%s”。"
+
+msgid "The file '%s' does not contain any valid software sources."
+msgstr "文件“%s”中无任何可用的软件源。"
+
+msgid ""
+"The key you selected could not be removed. Please report this as a bug."
+msgstr "您选择的密钥无法删除。请将其作为 bug 提交。"
+
+msgid "The selected data may not be a GPG key file or it might be corrupt."
+msgstr "选择的数据可能不是一个 GPG 密钥或者它已经损坏了。"
+
+msgid "The selected file may not be a GPG key file or it might be corrupt."
+msgstr "所选文件可能不是 GPG 密钥文件或者已经损坏."
+
+msgid "There are no sources to install software from"
+msgstr "无可用软件源"
+
+msgid "This device is not working."
+msgstr "该设备没有工作。"
+
+msgid "This device is using a manually-installed driver."
+msgstr "该设备正在使用手动安装的驱动。"
+
+msgid "This device is using an alternative driver."
+msgstr "该设备正在使用备选的驱动。"
+
+msgid "This device is using the recommended driver."
+msgstr "该设备正在使用推荐的驱动。"
+
+msgid "To change software repository settings, you need to authenticate."
+msgstr "要更改软件源设置，必须通过身份验证。"
+
+msgid "To install from a CD-ROM or DVD, insert the medium into the drive."
+msgstr "要从光驱安装, 请将光盘放入驱动器."
+
+msgid "URL of keyserver"
+msgstr "密钥服务器链接"
+
+msgid "URL of keyserver. Default: %default"
+msgstr "密钥服务器 URL。默认：%default"
+
+msgid "Ubuntu Archive Automatic Signing Key (2012) <ftpmaster@ubuntu.com>"
+msgstr "Ubuntu 软件源可自动签名密钥 (2012) <ftpmaster@ubuntu.com>"
+
+msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+msgstr "Ubuntu 软件源可自动签名密钥 <ftpmaster@ubuntu.com>"
+
+msgid "Ubuntu CD Image Automatic Signing Key (2012) <cdimage@ubuntu.com>"
+msgstr "Ubuntu 光盘镜像可自动签名密钥 (2012) <cdimage@ubuntu.com>"
+
+msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+msgstr "Ubuntu 光盘镜像可自动签名密钥 <cdimage@ubuntu.com>"
+
+msgid "Ubuntu Extras Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+msgstr "Ubuntu Extras 软件源可自动签名密钥 <cdimage@ubuntu.com>"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Update package cache after adding"
+msgstr "添加后更新软件包缓存"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Using {}"
+msgstr "使用 {}"
+
+msgid "Using {} from {}"
+msgstr "使用 {} 来自 {}"
+
+msgid "Weekly"
+msgstr "每周"
+
+msgid "When there are other updates:"
+msgstr "当有其它更新时："
+
+msgid "When there are security updates:"
+msgstr "当有安全更新时："
+
+msgid "Win ID to act as a dialogue for"
+msgstr "作为 Win ID 的对话框"
+
+msgid "Write Configuration"
+msgstr "写入配置"
+
+msgid ""
+"You can either add the following sources or replace your current sources by "
+"them. Only install software from trusted sources."
+msgstr "您可以添加下面的源或替换您当前的源。 请仅仅从您信任的源安装软件。"
+
+msgid "You need to restart the computer to complete the driver changes."
+msgstr "您需要重启计算机以完成驱动更改。"
+
+msgid "Your local copy of the software catalog is out of date."
+msgstr "您本地的软件信息索引以及过期。"
+
+msgid "_Add Source"
+msgstr "添加源(_A)"
+
+msgid "_Add key from paste data"
+msgstr "从剪贴板数据中添加密钥(_A)"
+
+msgid "_Apply Changes"
+msgstr "应用更改(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Import Key File..."
+msgstr "导入密钥文件(_I)..."
+
+msgid "_Reload"
+msgstr "重新载入(_R)"
+
+msgid "_Replace"
+msgstr "替换(_R)"
+
+msgid "_Restart..."
+msgstr "重新启动(_R)..."
+
+msgid "_Select Best Server"
+msgstr "选择最佳服务器(_S)"
+
+msgid "data directory for UI files"
+msgstr "UI 文件数据目录"
+
+msgid "open source"
+msgstr "开源"
+
+msgid "proprietary"
+msgstr "专有"
+
+msgid "remove repository from sources.list.d directory"
+msgstr "从 sources.list.d 目录移除仓库"
+
+msgid "{base_description} ({licence})"
+msgstr "{base_description} ({licence})"
+
+msgid "{base_description} ({licence}, tested)"
+msgstr "{base_description} ({licence}, tested)"

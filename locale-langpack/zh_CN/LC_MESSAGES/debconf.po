@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: debconf 1.5.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-08 02:00+0000\n"
+"PO-Revision-Date: 2016-03-25 08:17+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Debian Chinese [GB] <debian-chinese-gb@lists.debian.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 04:58+0000\n"
+
+msgid ""
+"\n"
+"        --outdated\t\tMerge in even outdated translations.\n"
+"\t--drop-old-templates\tDrop entire outdated templates."
+msgstr ""
+"\n"
+"        --outdated\t\t合并过时的翻译。\n"
+"\t--drop-old-templates\t取消整个过时的模板。"
+
+msgid ""
+"\n"
+"  -o,  --owner=package\t\tSet the package that owns the command."
+msgstr ""
+"\n"
+"  -o,  --owner=软件包\t\t设定拥有该命令的软件包。"
+
+msgid ""
+"  -f,  --frontend\t\tSpecify debconf frontend to use.\n"
+"  -p,  --priority\t\tSpecify minimum priority question to show.\n"
+"       --terse\t\t\tEnable terse mode.\n"
+msgstr ""
+"  -f,  --frontend\t\t指定 debconf 前端界面。\n"
+"  -p,  --priority\t\t指定要显示的问题的最优先级。\n"
+"       --terse\t\t\t开启简要模式。\n"
+
+msgid "%s failed to preconfigure, with exit status %s"
+msgstr "预设定 %s 失败，退出状态为 %s"
+
+msgid "%s is broken or not fully installed"
+msgstr "%s 已被损坏或未完成安装"
+
+msgid "%s is fuzzy at byte %s: %s"
+msgstr "%s 是不正确的，位置在 %s: %s"
+
+msgid "%s is fuzzy at byte %s: %s; dropping it"
+msgstr "%s 是不正确的，位置在 %s: %s；放弃之"
+
+msgid "%s is missing"
+msgstr "没有 %s"
+
+msgid "%s is missing; dropping %s"
+msgstr "没有 %s；弃用 %s"
+
+msgid "%s is not installed"
+msgstr "%s 未安装"
+
+msgid "%s is outdated"
+msgstr "%s 已经过时"
+
+msgid "%s is outdated; dropping whole template!"
+msgstr "%s 已经过时；弃用整个模板！"
+
+msgid "%s must be run as root"
+msgstr "%s 必须以 root 身份执行"
+
+msgid ""
+"(Enter zero or more items separated by a comma followed by a space (', ').)"
+msgstr "(输入零个或以逗号加空格(“, ”)分隔的多个项目)。"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Choices"
+msgstr "选择"
+
+msgid "Config database not specified in config file."
+msgstr "配置文件中没有指定配置数据库。"
+
+msgid "Configuring %s"
+msgstr "正在设定 %s"
+
+msgid "Debconf"
+msgstr "Debconf"
+
+msgid ""
+"Debconf is not confident this error message was displayed, so it mailed it "
+"to you."
+msgstr "Debconf 不确定此错误信息有没有显示，所以它被寄给了您。"
+
+msgid "Debconf on %s"
+msgstr "Debconf 运行于 %s"
+
+msgid "Debconf, running at %s"
+msgstr "Debconf，正在 %s 上运行"
+
+msgid "Dialog frontend is incompatible with emacs shell buffers"
+msgstr "对话框界面与 Emacs shell 缓存不兼容"
+
+msgid ""
+"Dialog frontend requires a screen at least 13 lines tall and 31 columns "
+"wide."
+msgstr "对话框界面要求屏幕画面必须为至少 13 行高及 31 列宽."
+
+msgid ""
+"Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or "
+"without a controlling terminal."
+msgstr "对话框界面将不能在哑终端上运行，例如 Emacs shell 缓存，或者没有控制终端。"
+
+msgid "Enter the items you want to select, separated by spaces."
+msgstr "输入您想选择的项目，各项目之间以空格分开。"
+
+msgid "Extracting templates from packages: %d%%"
+msgstr "正在从软件包中解出模板：%d%%"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Ignoring invalid priority \"%s\""
+msgstr "忽略无效的优先级“%s”"
+
+msgid ""
+"Input value, \"%s\" not found in C choices! This should never happen. "
+"Perhaps the templates were incorrectly localized."
+msgstr "没有在 C 选择中找到输入值“%s”！这是不应该发生的，可能是因为模板被错误的本地化。"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Next"
+msgstr "下一步"
+
+msgid ""
+"No usable dialog-like program is installed, so the dialog based frontend "
+"cannot be used."
+msgstr "没有安装任何可用的对话框类程序，所以无法使用基于此种形式的界面。"
+
+msgid "Note: Debconf is running in web mode. Go to http://localhost:%i/"
+msgstr "注意：Debconf 正在以 web 模式执行。请浏览 http://localhost:%i/"
+
+msgid "Package configuration"
+msgstr "软件包设置"
+
+msgid "Preconfiguring packages ...\n"
+msgstr "正在预设定软件包 ...\n"
+
+msgid "Problem setting up the database defined by stanza %s of %s."
+msgstr "在设定由 %2$s 第 %1$s 部分所定义的数据库时出错。"
+
+msgid "TERM is not set, so the dialog frontend is not usable."
+msgstr "系统未设定 TERM 环境变量, 所以对话框界面将不可使用."
+
+msgid "Template #%s in %s does not contain a 'Template:' line\n"
+msgstr "%2$s 中第 %1$s 模板未包含“Template:”行\n"
+
+msgid ""
+"Template #%s in %s has a duplicate field \"%s\" with new value \"%s\". "
+"Probably two templates are not properly separated by a lone newline.\n"
+msgstr ""
+"%2$s 中的第 %1$s 模板有一个重复字段“%3$s”，其中新值为“%4$s”。造成问题的原因可能是两个模板没有以正确地用换行符分隔开。\n"
+
+msgid "Template database not specified in config file."
+msgstr "配置文件中没有指定模板数据库。"
+
+msgid "Template parse error near `%s', in stanza #%s of %s\n"
+msgstr "%3$s 中第 %2$s 部分“%1$s”附近的模板解析出错\n"
+
+msgid "Term::ReadLine::GNU is incompatable with emacs shell buffers."
+msgstr "Term::ReadLine::GNU 与 Emacs shell 缓存不兼容。"
+
+msgid ""
+"The Sigils and Smileys options in the config file are no longer used. Please"
+" remove them."
+msgstr "配置文件中的 Sigils 和 Smileys 选项已不再被使用，请删除他们。"
+
+msgid ""
+"The editor-based debconf frontend presents you with one or more text files "
+"to edit. This is one such text file. If you are familiar with standard unix "
+"configuration files, this file will look familiar to you -- it contains "
+"comments interspersed with configuration items. Edit the file, changing any "
+"items as necessary, and then save it and exit. At that point, debconf will "
+"read the edited file, and use the values you entered to configure the "
+"system."
+msgstr ""
+"基于编辑器形式的 debconf 会向您展示一个或多个的待修改文件。这是其中一个文件。如果您比较了解标准的 Unix "
+"设置文件，这个文件对您来说将会是很熟悉的 -- 它包含一些注释和设定项目。请编辑此文件，更改任何必要的项目，然后保存并离开。同时，debconf "
+"会读取已修改的文件，并使用您输入的值来配置系统。"
+
+msgid "This frontend requires a controlling tty."
+msgstr "这个界面要求直接操作的 tty。"
+
+msgid "Unable to load Debconf::Element::%s. Failed because: %s"
+msgstr "不能载入 Debconf::Element::%s，失败原因：%s"
+
+msgid "Unable to start a frontend: %s"
+msgstr "无法开启前端界面：%s"
+
+msgid "Unknown template field '%s', in stanza #%s of %s\n"
+msgstr "%3$s 中第 %2$s 部分有未知的模板字段“%1$s”\n"
+
+msgid "Usage: debconf [options] command [args]"
+msgstr "用法：debconf [选项] 命令 [参数]"
+
+msgid "Usage: debconf-communicate [options] [package]"
+msgstr "用法：debconf-communicate [选项] [软件包]"
+
+msgid "Usage: debconf-mergetemplate [options] [templates.ll ...] templates"
+msgstr "用法：debconf-mergetemplate [选项] [templates.ll ...] 模板"
+
+msgid ""
+"Usage: dpkg-reconfigure [options] packages\n"
+"  -u,  --unseen-only\t\tShow only not yet seen questions.\n"
+"       --default-priority\tUse default priority instead of low.\n"
+"       --force\t\t\tForce reconfiguration of broken packages.\n"
+"       --no-reload\t\tDo not reload templates. (Use with caution.)"
+msgstr ""
+"用法: dpkg-reconfigure [选项] 包1 包2 ...\n"
+"  -u,  --unseen-only\t\t只显示尚未查看的问题。\n"
+"       --default-priority\t使用默认问题优先级而不是低。\n"
+"       --force\t\t\t强制配置损坏的包。\n"
+"       --no-reload\t\t不要重新加载模版 (小心)。"
+
+msgid "Valid priorities are: %s"
+msgstr "有效的优先级为：%s"
+
+msgid ""
+"You are using the editor-based debconf frontend to configure your system. "
+"See the end of this document for detailed instructions."
+msgstr "您正在使用基于编辑器形式的 debconf 界面设定系统。请留意本文件末尾有关的详细教程。"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "apt-extracttemplates failed: %s"
+msgstr "apt-extracttemplates 失败：%s"
+
+msgid ""
+"debconf-mergetemplate: This utility is deprecated. You should switch to "
+"using po-debconf's po2debconf program."
+msgstr "debconf-mergetemplate：本工具已被废弃。您应该改用 po-debconf 的 po2debconf 程序。"
+
+msgid "debconf: can't chmod: %s"
+msgstr "debconf：无法改变权限：%s"
+
+msgid "delaying package configuration, since apt-utils is not installed"
+msgstr "因为并未安装 apt-utils，所以软件包的设定过程将被推迟"
+
+msgid "falling back to frontend: %s"
+msgstr "返回前端界面：%s"
+
+msgid "must specify some debs to preconfigure"
+msgstr "必须指定要预设定的 deb 包"
+
+msgid "no"
+msgstr "否"
+
+msgid "none of the above"
+msgstr "以上都不是"
+
+msgid "please specify a package to reconfigure"
+msgstr "请指定要重新设定的软件包"
+
+msgid "template parse error: %s"
+msgstr "模板解读错误: %s"
+
+msgid "unable to initialize frontend: %s"
+msgstr "无法初始化前端界面：%s"
+
+msgid "unable to re-open stdin: %s"
+msgstr "重新开启标准输入失败：%s"
+
+msgid ""
+"warning: possible database corruption. Will attempt to repair by adding back"
+" missing question %s."
+msgstr "警告：数据库可能已被损坏。将会尝试修复缺失的项目 %s。"
+
+msgid "yes"
+msgstr "是"

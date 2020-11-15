@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flex 2.5.38\n"
+"Report-Msgid-Bugs-To: flex-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2015-11-17 11:17-0500\n"
+"PO-Revision-Date: 2016-02-29 05:47+0000\n"
+"Last-Translator: Mingye Wang <arthur2e5@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:10+0000\n"
+
+msgid ""
+"\n"
+"\n"
+"********** beginning dump of nfa with start state %d\n"
+msgstr ""
+"\n"
+"\n"
+"********** 开始输出起始状态为 %d 的 NFA\n"
+
+msgid ""
+"\n"
+"\n"
+"DFA Dump:\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"DFA 转储：\n"
+"\n"
+
+msgid ""
+"\n"
+"\n"
+"Equivalence Classes:\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"等价类：\n"
+"\n"
+
+msgid ""
+"\n"
+"\n"
+"Meta-Equivalence Classes:\n"
+msgstr ""
+"\n"
+"\n"
+"元等价类：\n"
+
+msgid ""
+"\n"
+" jam-transitions: EOF "
+msgstr ""
+"\n"
+" 合并转换：文件结尾 "
+
+msgid "  %d (%d saved) hash collisions, %d DFAs equal\n"
+msgstr "  %d (%d 已保存) 哈希碰撞，%d DFAs 相等\n"
+
+msgid "  %d backing-up (non-accepting) states\n"
+msgstr "  %d 回溯 (非接受) 状态\n"
+
+msgid "  %d empty table entries\n"
+msgstr "  %d 清空表格项目\n"
+
+msgid "  %d epsilon states, %d double epsilon states\n"
+msgstr "  %d ε状态，%d 双倍ε状态\n"
+
+msgid "  %d protos created\n"
+msgstr "  %d 原型已创建\n"
+
+msgid "  %d rules\n"
+msgstr "  %d 条规则\n"
+
+msgid "  %d sets of reallocations needed\n"
+msgstr "  需要 %d 组重新配置\n"
+
+msgid "  %d state/nextstate pairs created\n"
+msgstr "  %d 状态/下一状态对已创建\n"
+
+msgid "  %d table entries\n"
+msgstr "  %d 表格项目\n"
+
+msgid "  %d templates created, %d uses\n"
+msgstr "  %d 范本已创建，%d 使用\n"
+
+msgid "  %d total table entries needed\n"
+msgstr "  总计需要 %d 表格项目\n"
+
+msgid "  %d/%d (peak %d) nxt-chk entries created\n"
+msgstr "  %d/%d (峰值 %d) nxt-chk 项目已创建\n"
+
+msgid "  %d/%d (peak %d) template nxt-chk entries created\n"
+msgstr "  %d/%d (峰值 %d) 模板 nxt-chk 项目已创建\n"
+
+msgid "  %d/%d DFA states (%d words)\n"
+msgstr "  %d/%d DFA 状态 (%d 个字词)\n"
+
+msgid "  %d/%d NFA states\n"
+msgstr "  %d/%d NFA 状态\n"
+
+msgid "  %d/%d base-def entries created\n"
+msgstr "  %d/%d base-def 项目已创建\n"
+
+msgid "  %d/%d character classes needed %d/%d words of storage, %d reused\n"
+msgstr "  %d/%d 字符类别所需 %d/%d 字词的保存体，%d 重新使用\n"
+
+msgid "  %d/%d equivalence classes created\n"
+msgstr "  %d/%d 等价类别已创建\n"
+
+msgid "  %d/%d meta-equivalence classes created\n"
+msgstr "  %d/%d 后设等价类别已创建\n"
+
+msgid "  %d/%d start conditions\n"
+msgstr "  %d/%d 起始条件\n"
+
+msgid "  %d/%d unique/duplicate transitions\n"
+msgstr "  %d/%d 独一/重复转换\n"
+
+msgid "  Beginning-of-line patterns used\n"
+msgstr "  列首式样已使用\n"
+
+msgid "  Compressed tables always back-up\n"
+msgstr "  压缩过的表格总会自动回溯\n"
+
+msgid "  No backing up\n"
+msgstr "  没有回溯\n"
+
+msgid "  no character classes\n"
+msgstr "  无字符类别\n"
+
+msgid "  scanner options: -"
+msgstr "  扫描器选项：-"
+
+msgid " and may be the actual source of other reported performance penalties\n"
+msgstr " 同时也许是其他回报性能减退的实际来源\n"
+
+msgid " associated rule line numbers:"
+msgstr " 关联的规则列号："
+
+msgid " out-transitions: "
+msgstr " 外转换： "
+
+msgid ""
+"%%option yylineno entails a performance penalty ONLY on rules that can match"
+" newline characters\n"
+msgstr "%%option yylineno 导致性能减退，只有当该规则该吻合新列字符时才会\n"
+
+msgid "%array incompatible with -+ option"
+msgstr "%array 与 -+ 选项不兼容"
+
+msgid "%d backing up (non-accepting) states.\n"
+msgstr "%d 回溯 (非接受) 状态。\n"
+
+msgid "%option yyclass only meaningful for C++ scanners"
+msgstr "%option yyclass 只对于 C++ 扫描程序有意义"
+
+msgid "%option yylineno cannot be used with REJECT"
+msgstr "%option yylineno 无法与 REJECT 共同使用"
+
+msgid "%s %s\n"
+msgstr "%s %s\n"
+
+msgid "%s version %s usage statistics:\n"
+msgstr "%s 版本 %s 用法统计：\n"
+
+msgid "%s: fatal internal error, %s\n"
+msgstr "%s：严重内部错误，%s\n"
+
+msgid "********** end of dump\n"
+msgstr "********** 输出结束\n"
+
+msgid "*Something Weird* - tok: %d val: %d\n"
+msgstr "*情况很怪异* - tok：%d val：%d\n"
+
+msgid "-Cf and -CF are mutually exclusive"
+msgstr "-Cf 和 -CF 是互斥的"
+
+msgid "-Cf/-CF and -Cm don't make sense together"
+msgstr "-Cf/-CF 和 -Cm 共用时不具任何意义"
+
+msgid "-Cf/-CF and -I are incompatible"
+msgstr "-Cf/-CF 和 -I 是不兼容的"
+
+msgid "-Cf/-CF are incompatible with lex-compatibility mode"
+msgstr "-Cf/-CF 与 lex 兼容模式是不兼容的"
+
+msgid "-I (interactive) entails a minor performance penalty\n"
+msgstr "-I (交互式) 导致小幅性能减退\n"
+
+msgid "-l AT&T lex compatibility option entails a large performance penalty\n"
+msgstr "-l AT&T lex 兼容性选项会导致大幅性能减退\n"
+
+msgid "-s option given but default rule can be matched"
+msgstr "-s 选项已给定但是可以吻合缺省规则"
+
+msgid "Allocation of buffer for line directive failed"
+msgstr "给予缓冲区配额用于列指令时失败"
+
+msgid "Allocation of buffer for m4 def failed"
+msgstr "给予缓冲区配额用于 m4 def 时失败"
+
+msgid "Allocation of buffer for m4 undef failed"
+msgstr "给予缓冲区配额用于 m4 undef 时失败"
+
+msgid "Allocation of buffer to print string failed"
+msgstr "给予缓冲区配额以打印字串时失败"
+
+msgid "Can't use -+ with -CF option"
+msgstr "无法将 -+ 与 -CF 选项共同使用"
+
+msgid "Can't use -+ with -l option"
+msgstr "无法将 -+ 与 -l 选项共同使用"
+
+msgid "Can't use --reentrant or --bison-bridge with -l option"
+msgstr "无法将 --reentrant 或 --bison-bridge 与 -l 选项共同使用"
+
+msgid "Can't use -f or -F with -l option"
+msgstr "无法将 -f 或 -F 与 -l 选项共同使用"
+
+msgid "Compressed tables always back up.\n"
+msgstr "压缩过的表格总会自动回溯。\n"
+
+msgid "Could not write ecstbl"
+msgstr "无法写入 ecstbl"
+
+msgid "Could not write eoltbl"
+msgstr "无法写入 eoltbl"
+
+msgid "Could not write ftbl"
+msgstr "无法写入 ftbl"
+
+msgid "Could not write ssltbl"
+msgstr "无法写入 ssltbl"
+
+msgid "Could not write yyacc_tbl"
+msgstr "无法写入 yyacc_tbl"
+
+msgid "Could not write yyacclist_tbl"
+msgstr "无法写入 yyacclist_tbl"
+
+msgid "Could not write yybase_tbl"
+msgstr "无法写入 yybase_tbl"
+
+msgid "Could not write yychk_tbl"
+msgstr "无法写入 yychk_tbl"
+
+msgid "Could not write yydef_tbl"
+msgstr "无法写入 yydef_tbl"
+
+msgid "Could not write yymeta_tbl"
+msgstr "无法写入 yymeta_tbl"
+
+msgid "Could not write yynultrans_tbl"
+msgstr "无法写入 yynultrans_tbl"
+
+msgid "Could not write yynxt_tbl"
+msgstr "无法写入 yynxt_tbl"
+
+msgid "Could not write yynxt_tbl[][]"
+msgstr "无法写入 yynxt_tbl[][]"
+
+msgid "Definition name too long\n"
+msgstr "定义名称太长\n"
+
+msgid "Definition value for {%s} too long\n"
+msgstr "{%s} 的定义值太长\n"
+
+msgid "EOF encountered inside an action"
+msgstr "在动作中文件结束"
+
+msgid "EOF encountered inside pattern"
+msgstr "在式样之内遇到文件结束"
+
+msgid "End Marker\n"
+msgstr "结束标志\n"
+
+msgid "Input line too long\n"
+msgstr "输入列太长\n"
+
+msgid "Internal error. flexopts are malformed.\n"
+msgstr "内部错误。flexopts 功能异常。\n"
+
+msgid "No backing up.\n"
+msgstr "没有回溯。\n"
+
+msgid "Option line too long\n"
+msgstr "选项列太长\n"
+
+msgid "Options -+ and --reentrant are mutually exclusive."
+msgstr "选项 -+ 和 --reentrant 是互斥的。"
+
+msgid "REJECT cannot be used with -f or -F"
+msgstr "REJECT 无法与 -f 或 -F 共同使用"
+
+msgid "REJECT entails a large performance penalty\n"
+msgstr "REJECT 导致大幅性能减退\n"
+
+msgid "State #%d is non-accepting -\n"
+msgstr "#%d 正处于非访问状态 -\n"
+
+msgid "Try `%s --help' for more information.\n"
+msgstr "尝试「%s --help」以获得更多信息。\n"
+
+msgid "Unknown error=(%d)\n"
+msgstr "未知错误=(%d)\n"
+
+msgid "Unmatched '{'"
+msgstr "不成对的「{」"
+
+msgid "Unrecognized option `%s'\n"
+msgstr "未知的选项“%s”\n"
+
+msgid "Usage: %s [OPTIONS] [FILE]...\n"
+msgstr "用法：%s [选项] [文件]...\n"
+
+msgid "Usage: %s [OPTIONS]...\n"
+msgstr "用法：%s [选项]...\n"
+
+msgid "Variable trailing context rule at line %d\n"
+msgstr "变量末尾上下文规则于列 %d\n"
+
+msgid "Variable trailing context rules entail a large performance penalty\n"
+msgstr "变量末尾上下文规则导致大幅性能减退\n"
+
+msgid "[:^lower:] is ambiguous in case insensitive scanner"
+msgstr "在大小写不须相符的扫描程序中，[:^lower:] 是模棱两可的"
+
+msgid "[:^upper:] ambiguous in case insensitive scanner"
+msgstr "在大小写不须相符的扫描程序中，[:^upper:] 是模棱两可的"
+
+msgid "allocation of macro definition failed"
+msgstr "给予宏定义配额时失败"
+
+msgid "allocation of sko_stack failed"
+msgstr "给予 sko_stack 配额时失败"
+
+msgid "attempt to increase array size failed"
+msgstr "试图增加数组大小时失败"
+
+msgid "bad <start condition>: %s"
+msgstr "错误 <起始条件>：%s"
+
+msgid "bad character '%s' detected in check_char()"
+msgstr "在 checkchar() 中侦测到不当的字符「%s」"
+
+msgid "bad character class"
+msgstr "错误的字符类别"
+
+msgid "bad character class expression: %s"
+msgstr "错误的字符类别表达式：%s"
+
+msgid "bad character inside {}'s"
+msgstr "不当字符于 {} 内部"
+
+msgid "bad character: %s"
+msgstr "错误的字符：%s"
+
+msgid "bad iteration values"
+msgstr "不当的迭代值"
+
+msgid "bad line in skeleton file"
+msgstr "骨架文件中错误的行"
+
+msgid "bad start condition list"
+msgstr "错误的起始状态列表"
+
+msgid "bad state type in mark_beginning_as_normal()"
+msgstr "在 mark_beginning_as_normal() 中有不当的状态输入"
+
+msgid "bad transition character detected in sympartition()"
+msgstr "在 sympartition() 检测到错误的变换字符"
+
+msgid "bison bridge not supported for the C++ scanner."
+msgstr "bison 桥接器不受 C++ 扫描程序支持。"
+
+msgid "can't open %s"
+msgstr "无法打开 %s"
+
+msgid "can't open skeleton file %s"
+msgstr "无法打开框架文件 %s"
+
+msgid "consistency check failed in epsclosure()"
+msgstr "epsclosure() 中的一致性检查失败"
+
+msgid "could not create %s"
+msgstr "无法创建 %s"
+
+msgid "could not create backing-up info file %s"
+msgstr "无法创建回溯信息文件 %s"
+
+msgid "could not create unique end-of-buffer state"
+msgstr "无法创建唯一的 end-of-buffer 状态"
+
+msgid "could not write tables header"
+msgstr "无法写入表头"
+
+msgid "dangerous trailing context"
+msgstr "不安全的末端上下文"
+
+msgid "dynamic memory failure in copy_string()"
+msgstr "在 copystring() 中动态内存失败"
+
+msgid "empty machine in dupmachine()"
+msgstr "在 dupmachine() 中清空机器"
+
+msgid "error closing backup file %s"
+msgstr "关闭回溯文件 %s 出错"
+
+msgid "error closing output file %s"
+msgstr "关闭输出文件 %s 时出错"
+
+msgid "error closing skeleton file %s"
+msgstr "关闭框架文件 %s 出错"
+
+msgid "error creating header file %s"
+msgstr "创建头文件 %s 出错"
+
+msgid "error deleting output file %s"
+msgstr "删除输出文件 %s 时出错"
+
+msgid "error writing backup file %s"
+msgstr "写入回溯文件 %s 出错"
+
+msgid "error writing output file %s"
+msgstr "写入输出文件 %s 出错"
+
+msgid "fatal parse error"
+msgstr "致命的解析错误"
+
+msgid "found too many transitions in mkxtion()"
+msgstr "在 mkxtion() 中找到太多转换"
+
+msgid "incomplete name definition"
+msgstr "不完整的名称定义"
+
+msgid "input error reading skeleton file %s"
+msgstr "读取框架文件 %s 时输入错误"
+
+msgid "input rules are too complicated (>= %d NFA states)"
+msgstr "输入规则太复杂 (>= %d NFA 状态)"
+
+msgid "iteration value must be positive"
+msgstr "迭代值必须是正值"
+
+msgid "malformed '%top' directive"
+msgstr "异常的「%top」指令"
+
+msgid "memory allocation failed in allocate_array()"
+msgstr "在 allocatearray() 中内存配置失败"
+
+msgid "memory allocation failed in yy_flex_xmalloc()"
+msgstr "在 yy_flex_xmalloc() 中的内存分配失败"
+
+msgid "missing quote"
+msgstr "遗漏引号"
+
+msgid "missing }"
+msgstr "遗漏 }"
+
+msgid "name \"%s\" ridiculously long"
+msgstr "名称「%s」有荒谬的长度"
+
+msgid "name defined twice"
+msgstr "名称定义了两次"
+
+msgid "negative range in character class"
+msgstr "在字符类别中有负值范围"
+
+msgid "option `%s' doesn't allow an argument\n"
+msgstr "选项“%s”不接受参数\n"
+
+msgid "option `%s' is ambiguous\n"
+msgstr "选项「%s」是模棱两可的\n"
+
+msgid "option `%s' requires an argument\n"
+msgstr "选项“%s”需要一个参数\n"
+
+msgid "premature EOF"
+msgstr "过早出现文件结尾"
+
+msgid "rule cannot be matched"
+msgstr "无法匹配规则"
+
+msgid "scanner requires -8 flag to use the character %s"
+msgstr "扫描程序需要 -8 旗标以使用字符 %s"
+
+msgid "start condition %s declared twice"
+msgstr "起始条件 %s 声明了两次"
+
+msgid "state # %4d\t"
+msgstr "状态 # %4d\t"
+
+msgid "state # %d accepts: "
+msgstr "状态 # %d 接受： "
+
+msgid "state # %d accepts: [%d]\n"
+msgstr "状态 # %d 接受：[%d]\n"
+
+msgid "state # %d:\n"
+msgstr "状态 # %d：\n"
+
+msgid "symbol table memory allocation failed"
+msgstr "符号表内存分配失败"
+
+msgid "the character range [%c-%c] is ambiguous in a case-insensitive scanner"
+msgstr "在大小写不须相符的扫描程序中，字符范围 [%c-%c] 是模棱两可的"
+
+msgid "too many rules (> %d)!"
+msgstr "规则过多 (> %d)！"
+
+msgid "trailing context used twice"
+msgstr "末尾上下文已使用两次"
+
+msgid "undefined definition {%s}"
+msgstr "未定义的定义 {%s}"
+
+msgid "unknown -C option '%c'"
+msgstr "未知的 -C 选项“%c”"
+
+msgid "unknown error processing section 1"
+msgstr "未知的错误处理节 1"
+
+msgid "unrecognized %%option: %s"
+msgstr "不能识别的 %%选项：%s"
+
+msgid "unrecognized '%' directive"
+msgstr "无法辨识的「%」指令"
+
+msgid "unrecognized rule"
+msgstr "不能识别的规则"
+
+msgid "variable trailing context rules cannot be used with -f or -F"
+msgstr "变量末尾上下文规则无法与 -f 或 -F 共同使用"
+
+msgid "yymore() entails a minor performance penalty\n"
+msgstr "yymore() 导致小幅性能减退\n"

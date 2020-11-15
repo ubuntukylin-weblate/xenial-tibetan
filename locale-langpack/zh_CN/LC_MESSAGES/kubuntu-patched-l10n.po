@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kubuntu-patched-l10n\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-02-28 15:23+0100\n"
+"PO-Revision-Date: 2014-01-19 08:37+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 08:19+0000\n"
+
+msgid "%1 will be run with root privileges on kernel >= 2.6.8"
+msgstr "在 2.6.8 以上版本的内核上 %1 会以 root 权限运行"
+
+msgid "%1 will be run without root privileges"
+msgstr "%1 将以无 root 权限运行"
+
+msgid ""
+"<p><b>External program <em>normalize</em> is not installed.</b><p>K3b uses "
+"<em>normalize</em> (http://normalize.nongnu.org/) to normalize audio tracks."
+" In order to use this functionality, please install it first."
+msgstr ""
+"<p><b>外部程序 <em>normalize</em> 没有安装。</b><p>K3b 使用 <em>normalize</em> "
+"(http://normalize.nongnu.org/) 来规范化音轨。要使用此功能，请先安装它。"
+
+msgctxt "@action:button"
+msgid "Install Default Wallpapers..."
+msgstr "安装默认壁纸..."
+
+msgctxt "@status message widget"
+msgid ""
+"You tried to remove your active system language, this is not supported."
+msgstr "您试图移除当前使用中的系统语言，这是不可以的。"
+
+msgid "Could not find normalize executable."
+msgstr "找不到 normalize 可执行文件。"
+
+msgid "Could not find normalize-audio executable."
+msgstr "找不到 normalize-audio 可执行文件。"
+
+msgid "Could not start normalize-audio."
+msgstr "无法启动 normalize-audio。"
+
+msgid "Could not start normalize."
+msgstr "无法启动 normalize。"
+
+msgid "Debian policy compatibility, not used"
+msgstr "Debian 策略兼容性，无用"
+
+msgid "Enable autostart handling"
+msgstr "启用自启动处理"
+
+msgid "Install Progress:"
+msgstr "安装进度："
+
+msgid ""
+"It is highly recommended to configure cdrecord to run with root privileges, "
+"as then cdrecord runs with high priority that increases the overall "
+"stability of the burning process. As well as this, it allows the size of the"
+" burning buffer to be changed, and a lot of user problems can be solved this"
+" way."
+msgstr ""
+"强烈建议配置 cdrecord 以 root 权限运行，因为以高权限运行 cdrecord "
+"将增加刻录过程的稳定性。此外，还可以更改刻录缓存大小，解决很多用户问题。"
+
+msgid "Kubuntu.org News"
+msgstr "Kubuntu.org 新闻"
+
+msgid "No problems found in system configuration."
+msgstr "系统配置未发现问题。"
+
+msgid "Planet Ubuntu"
+msgstr "Planet Ubuntu"
+
+msgid ""
+"Since Linux kernel 2.6.8 %1 will not work when run suid root for security "
+"reasons anymore."
+msgstr "因为从 Linux 内核 2.6.8 起 %1 出于安全考虑在运行 suid root 时不再工作了。"
+
+msgid "System configured properly"
+msgstr "系统配置良好"
+
+msgid ""
+"The plugin '%1' or its library dependencies are not compatible with "
+"currently loaded libraries: %2"
+msgstr "插件 %1 或其依赖库与当前载入的库不兼容：%2"
+
+msgid ""
+"This is possibly due to old tools configuration; you can restore default "
+"tools configuration in Settings->Configure Kile->Tools->Build->Restore "
+"Default Tools."
+msgstr "这可能是旧的工具配置造成的；您可以通过 设置->配置 Kile->工具->构建->恢复默认工具 恢复默认工具配置。"
+
+msgid "Ubuntu Fridge"
+msgstr "Ubuntu Fridge"
+
+msgid "kdeinit shared executables (resource added by Debian)"
+msgstr "kdeinit 共享可执行文件(由 Debian 添加的资源)"

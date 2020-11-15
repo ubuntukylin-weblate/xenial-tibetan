@@ -1,0 +1,2700 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gettext-tools 0.19.4.73\n"
+"Report-Msgid-Bugs-To: bug-gnu-gettext@gnu.org\n"
+"POT-Creation-Date: 2015-12-28 08:26+0900\n"
+"PO-Revision-Date: 2016-02-11 20:36+0000\n"
+"Last-Translator: Ji ZhengYu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:19+0000\n"
+
+msgid "                                (only language C++)\n"
+msgstr "                                (仅 C++ 语言)\n"
+
+msgid "                                (only languages C, C++, ObjectiveC)\n"
+msgstr "                                (仅支持 C, C++, ObjectiveC 语言)\n"
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala)\n"
+msgstr ""
+"                                (仅支持 C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala)\n"
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala, Desktop)\n"
+msgstr ""
+"                                (仅支持 C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala, Desktop)\n"
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, YCP, Tcl, Perl, PHP, GCC-source,\n"
+"                                Lua, JavaScript, Vala)\n"
+msgstr ""
+"                                (仅支持 C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, YCP, Tcl, Perl, PHP, GCC-source,\n"
+"                                Lua, JavaScript, Vala)\n"
+
+msgid "      --backup=CONTROL        make a backup of def.po\n"
+msgstr "      --backup=备份方法       备份 def.po\n"
+
+msgid "      --boost                 recognize Boost format strings\n"
+msgstr "      --boost                 识别 Boost 格式字符串\n"
+
+msgid ""
+"      --check-accelerators[=CHAR]  check presence of keyboard accelerators for\n"
+"                                menu items\n"
+msgstr "      --check-accelerators[=CHAR]  检查菜单项目中的快捷键标记是否存在\n"
+
+msgid ""
+"      --check-domain          check for conflicts between domain directives\n"
+"                                and the --output-file option\n"
+msgstr ""
+"      --check-domain          检查 domain 指令和 --output-file 选项之间\n"
+"                                是否冲突\n"
+
+msgid "      --check-format          check language dependent format strings\n"
+msgstr "      --check-format          检查和语言有关的格式字符串\n"
+
+msgid ""
+"      --check-header          verify presence and contents of the header "
+"entry\n"
+msgstr "      --check-header          检查文件头项是否存在及检查其内容\n"
+
+msgid ""
+"      --check=NAME            perform syntax check on messages\n"
+"                                (ellipsis-unicode, space-ellipsis,\n"
+"                                 quote-unicode)\n"
+msgstr ""
+"      --check=NAME            对信息文本做语法检查\n"
+"                                (Unicode省略号ellipsis-unicode, 空格加省略号space-ellipsis,\n"
+"                                 Unicode引号quote-unicode)\n"
+
+msgid "      --clear-fuzzy           set all messages non-'fuzzy'\n"
+msgstr "      --clear-fuzzy           全部消息清除“模糊”属性\n"
+
+msgid "      --clear-obsolete        set all messages non-obsolete\n"
+msgstr "      --clear-obsolete        全部消息清除过时属性\n"
+
+msgid ""
+"      --clear-previous        remove the \"previous msgid\" from all "
+"messages\n"
+msgstr "      --clear-previous        从所有条目中删除“previous msgid”\n"
+
+msgid ""
+"      --color                 use colors and other text attributes always\n"
+"      --color=WHEN            use colors and other text attributes if WHEN.\n"
+"                              WHEN may be 'always', 'never', 'auto', or 'html'.\n"
+msgstr ""
+"      --color                 总是使用颜色及其它文本属性\n"
+"      --color=WHEN            如果符合 WHEN，就使用颜色及其它文本属性。\n"
+"                              WHEN 可以是‘always’，‘never’，‘auto’或‘html’。\n"
+
+msgid "      --copyright-holder=STRING  set copyright holder in output\n"
+msgstr "      --copyright-holder=字符串  在输出中设置版权占位符\n"
+
+msgid "      --csharp                C# mode: generate a .NET .dll file\n"
+msgstr "      --csharp                C# 模式：生成 .NET .dll 文件\n"
+
+msgid "      --csharp                C# mode: input is a .NET .dll file\n"
+msgstr "      --csharp                C# 模式：输入为 .NET .dll 文件\n"
+
+msgid ""
+"      --csharp-resources      C# resources mode: generate a .NET .resources "
+"file\n"
+msgstr "      --csharp-resources      C# 资源模式：生成 .NET .resources 文件\n"
+
+msgid ""
+"      --csharp-resources      C# resources mode: input is a .NET .resources "
+"file\n"
+msgstr "      --csharp-resources      C# 资源模式：输入为 .NET .resources 文件\n"
+
+msgid ""
+"      --debug                 more detailed formatstring recognition "
+"result\n"
+msgstr "      --debug                 更详细的格式字符串识别结果\n"
+
+msgid ""
+"      --desktop               Desktop Entry mode: generate a .desktop file\n"
+msgstr "      --desktop               桌面访问模式: 生成 .desktop 文件\n"
+
+msgid ""
+"      --empty                 when removing 'fuzzy', also set msgstr empty\n"
+msgstr "      --empty                 删除“fuzzy”标记时，总是清空msgstr\n"
+
+msgid ""
+"      --endianness=BYTEORDER  write out 32-bit numbers in the given byte order\n"
+"                                (big or little, default depends on platform)\n"
+msgstr ""
+"      --endianness=BYTEORDER  以指定字节序输出 32位数\n"
+"                                (big 还是 little 是系统平台默认的)\n"
+
+msgid ""
+"      --escape                use C escapes in output, no extended chars\n"
+msgstr "      --escape                在输出中使用 C 转义字符，没有扩展字符\n"
+
+msgid ""
+"      --flag=WORD:ARG:FLAG    additional flag for strings inside the argument\n"
+"                              number ARG of keyword WORD\n"
+msgstr ""
+"      --flag=WORD:ARG:FLAG    在关键字WORD 的参数个数ARG 中\n"
+"                              字符串的额外flag\n"
+
+msgid "      --force-po              write PO file even if empty\n"
+msgstr "      --force-po              就算为空也写入 PO 文件\n"
+
+msgid ""
+"      --foreign-user          omit FSF copyright in output for foreign "
+"user\n"
+msgstr "      --foreign-user          为外语用户省略 FSF 版权\n"
+
+msgid ""
+"      --from-code=NAME        encoding of input files\n"
+"                                (except for Python, Tcl, Glade)\n"
+msgstr ""
+"      --from-code=名称        输入文件的编码\n"
+"                                (除了 Python, Tcl, Glade)\n"
+
+msgid "      --fuzzy                 synonym for --only-fuzzy --clear-fuzzy\n"
+msgstr "      --fuzzy                 等于 --only-fuzzy --clear-fuzzy\n"
+
+msgid ""
+"      --ignore-file=FILE.po   manipulate only entries not listed in "
+"FILE.po\n"
+msgstr "      --ignore-file=文件.po   只处理未列在 文件.po 中的项\n"
+
+msgid "      --indent                indented output style\n"
+msgstr "      --indent                缩进的输出风格\n"
+
+msgid ""
+"      --java2                 like --java, and assume Java2 (JDK 1.2 or "
+"higher)\n"
+msgstr ""
+"      --java2                 类似 --java，但假设是 Java2 (JDK 1.2 或较新\n"
+"                              的版本)\n"
+
+msgid "      --kde                   recognize KDE 4 format strings\n"
+msgstr "      --kde                   识别 KDE 4 格式字符串\n"
+
+msgid ""
+"      --keep-header           keep header entry unmodified, don't filter "
+"it\n"
+msgstr "      --keep-header           保持文件头项不变，不过滤它\n"
+
+msgid "      --lang=CATALOGNAME      set 'Language' field in the header entry\n"
+msgstr "      --lang=CATALOGNAME      在文件头中设定 'Language'\n"
+
+msgid ""
+"      --msgid-bugs-address=EMAIL@ADDRESS  set report address for msgid "
+"bugs\n"
+msgstr "      --msgid-bugs-address=EMAIL@ADDRESS  设置报告 msgid 错误的地址\n"
+
+msgid "      --no-escape             do not use C escapes in output (default)\n"
+msgstr "      --no-escape             在输出中不使用 C 转义字符(默认)\n"
+
+msgid "      --no-fuzzy              remove 'fuzzy' marked messages\n"
+msgstr "      --no-fuzzy              删除标为模糊的消息\n"
+
+msgid ""
+"      --no-hash               binary file will not include the hash table\n"
+msgstr "      --no-hash               二进制文件将不包含哈希表\n"
+
+msgid "      --no-location           do not write '#: filename:line' lines\n"
+msgstr "      --no-location           不写入“#: 文件名:行号”位置行\n"
+
+msgid "      --no-location           suppress '#: filename:line' lines\n"
+msgstr "      --no-location           排除“#: filename:line”行\n"
+
+msgid "      --no-obsolete           remove obsolete #~ messages\n"
+msgstr "      --no-obsolete           移除过时 #~ 的消息\n"
+
+msgid ""
+"      --no-translator         assume the PO file is automatically "
+"generated\n"
+msgstr "      --no-translator         假定 PO 文件是自动生成的\n"
+
+msgid ""
+"      --no-wrap               do not break long message lines, longer than\n"
+"                              the output page width, into several lines\n"
+msgstr "      --no-wrap               不将超过输出页宽度的长消息行断为多行\n"
+
+msgid ""
+"      --obsolete              synonym for --only-obsolete --clear-obsolete\n"
+msgstr "      --obsolete              等于 --only-obsolete --clear-obsolete\n"
+
+msgid "      --omit-header           don't write header with 'msgid \"\"' entry\n"
+msgstr "      --omit-header           不写入带有“msgid \"\"”项的文件头项\n"
+
+msgid ""
+"      --only-file=FILE.po     manipulate only entries listed in FILE.po\n"
+msgstr "      --only-file=文件.po     只处理列在 文件.po 中的项\n"
+
+msgid "      --only-fuzzy            keep 'fuzzy' marked messages\n"
+msgstr "      --only-fuzzy            保留标为模糊的消息\n"
+
+msgid "      --only-obsolete         keep obsolete #~ messages\n"
+msgstr "      --only-obsolete         保留过时 #~ 的消息\n"
+
+msgid "      --package-name=PACKAGE  set package name in output\n"
+msgstr "      --package-name=PACKAGE  输出时设定软件包名字\n"
+
+msgid "      --package-version=VERSION  set package version in output\n"
+msgstr "      --package-version=VERSION  输出时设定软件包版本\n"
+
+msgid ""
+"      --previous              keep previous msgids of translated messages\n"
+msgstr "      --previous              保留已翻译条目的 msgids\n"
+
+msgid ""
+"      --previous              when setting 'fuzzy', keep previous msgids\n"
+"                              of translated messages.\n"
+msgstr ""
+"      --previous              设置“fuzzy”标记时，\n"
+"                              保留原翻译信息前的msgids。\n"
+
+msgid "      --properties-output     write out a Java .properties file\n"
+msgstr "      --properties-output     写出 Java .properties 文件\n"
+
+msgid "      --qt                    Qt mode: generate a Qt .qm file\n"
+msgstr "      --qt                    Qt 模式：生成 Qt .qm 文件\n"
+
+msgid "      --qt                    recognize Qt format strings\n"
+msgstr "      --qt                    识别 Qt 格式字符串\n"
+
+msgid ""
+"      --sentence-end=TYPE     type describing the end of sentence\n"
+"                                (single-space, which is the default, \n"
+"                                 or double-space)\n"
+msgstr ""
+"      --sentence-end=TYPE     句子结尾类型描述\n"
+"                                (默认单空格single-space \n"
+"                                 或双空格double-space)\n"
+
+msgid "      --set-fuzzy             set all messages 'fuzzy'\n"
+msgstr "      --set-fuzzy             全部消息设为“模糊”\n"
+
+msgid "      --set-obsolete          set all messages obsolete\n"
+msgstr "      --set-obsolete          全部消息设为过时\n"
+
+msgid "      --sort-by-file          sort output by file location\n"
+msgstr "      --sort-by-file          根据文件位置排序输出\n"
+
+msgid "      --sort-output           generate sorted output\n"
+msgstr "      --sort-output           生成排序输出\n"
+
+msgid ""
+"      --source                produce a .java file, instead of a .class "
+"file\n"
+msgstr "      --source                生成 .java 文件，而非 .class 文件\n"
+
+msgid "      --statistics            print statistics about translations\n"
+msgstr "      --statistics            打印关于翻译的统计\n"
+
+msgid "      --strict                enable strict Uniforum mode\n"
+msgstr "      --strict                使用严格的 Uniforum 模式\n"
+
+msgid "      --strict                strict Uniforum output style\n"
+msgstr "      --strict                严格的 Uniforum 输出风格\n"
+
+msgid ""
+"      --strict                write out strict Uniforum conforming .po "
+"file\n"
+msgstr "      --strict                写入极为严格的 Uniforum 使 .po 文件保持一致\n"
+
+msgid "      --strict                write strict uniforum style\n"
+msgstr "      --strict                写出严格的 Uniforum 风格\n"
+
+msgid ""
+"      --stringtable-input     input file is in NeXTstep/GNUstep .strings "
+"syntax\n"
+msgstr "      --stringtable-input     输入文件以 NeXTstep/GNUstep .strings 语法给出\n"
+
+msgid ""
+"      --stringtable-input     input files are in NeXTstep/GNUstep .strings\n"
+"                              syntax\n"
+msgstr "      --stringtable-input     输入文件以 NeXTstep/GNUstep .strings 语法给出\n"
+
+msgid ""
+"      --stringtable-output    write out a NeXTstep/GNUstep .strings file\n"
+msgstr "      --stringtable-output    写出 NeXTstep/GNUstep .strings 文件\n"
+
+msgid "      --style=STYLEFILE       specify CSS style rule file for --color\n"
+msgstr "      --style=STYLEFILE       为 --color 参数指定 CSS 样式文件\n"
+
+msgid "      --suffix=SUFFIX         override the usual backup suffix\n"
+msgstr "      --suffix=后缀           覆盖默认备份后缀\n"
+
+msgid ""
+"      --tcl                   Tcl mode: generate a tcl/msgcat .msg file\n"
+msgstr "      --tcl                   Tcl 模式：生成 tcl/msgcat .msg 文件\n"
+
+msgid ""
+"      --tcl                   Tcl mode: input is a tcl/msgcat .msg file\n"
+msgstr "      --tcl                   Tcl 模式：输入为 tcl/msgcat .msg 文件\n"
+
+msgid ""
+"      --translated            keep translated, remove untranslated "
+"messages\n"
+msgstr "      --translated            保留已翻译的，去掉未翻译的消息\n"
+
+msgid ""
+"      --untranslated          keep untranslated, remove translated "
+"messages\n"
+msgstr "      --untranslated          保留未翻译的，去掉已翻译的消息\n"
+
+msgid ""
+"      --use-first             use first available translation for each\n"
+"                              message, don't merge several translations\n"
+msgstr ""
+"      --use-first             对每条消息均使用第一个可用的翻译，不合并若干\n"
+"                              种翻译\n"
+
+msgid "      --use-fuzzy             consider fuzzy entries\n"
+msgstr "      --use-fuzzy             使用标记为 fuzzy 的条目\n"
+
+msgid "      --use-untranslated      consider untranslated entries\n"
+msgstr "      --use-untranslated      使用未翻译的条目\n"
+
+msgid ""
+"  --newline                   add a newline at the end of input and\n"
+"                                remove a newline from the end of output"
+msgstr ""
+"  --newline                   在输入流结尾添加一个换行符\n"
+"                                并移除输出流结尾的换行符"
+
+msgid "  --newline                   add newline at the end of input\n"
+msgstr "  --newline                   在输入末尾添加换行符\n"
+
+msgid "  --template=TEMPLATE         a .desktop file used as a template\n"
+msgstr "  --template=TEMPLATE         .desktop 文件用作模版\n"
+
+msgid ""
+"  -<, --less-than=NUMBER      print messages with less than this many\n"
+"                              definitions, defaults to infinite if not set\n"
+msgstr ""
+"  -<, --less-than=数字        只打印出现次数少于指定次数的消息，若没有\n"
+"                              指定次数则默认值为无穷大\n"
+
+msgid ""
+"  ->, --more-than=NUMBER      print messages with more than this many\n"
+"                              definitions, defaults to 0 if not set\n"
+msgstr ""
+"  ->, --more-than=数字        只打印出现次数多于指定次数的消息，若没有\n"
+"                              指定次数则默认值为 0\n"
+
+msgid ""
+"  ->, --more-than=NUMBER      print messages with more than this many\n"
+"                              definitions, defaults to 1 if not set\n"
+msgstr ""
+"  ->, --more-than=数字        只打印出现次数多于指定次数的消息，若没有\n"
+"                              指定次数则默认值为 1\n"
+
+msgid "  -C, --c++                   shorthand for --language=C++\n"
+msgstr "  -C, --c++                   --language=C++ 的简写\n"
+
+msgid ""
+"  -C, --check-compatibility   check that GNU msgfmt behaves like X/Open "
+"msgfmt\n"
+msgstr "  -C, --check-compatibility   让 GNU msgfmt 以 X/Open msgfmt 的方式检查文件\n"
+
+msgid ""
+"  -C, --compendium=FILE       additional library of message translations,\n"
+"                              may be specified more than once\n"
+msgstr "  -C, --compendium=文件       消息翻译的额外库，可指定多个\n"
+
+msgid ""
+"  -D, --directory=DIRECTORY   add DIRECTORY to list for input files search\n"
+msgstr "  -D, --directory=目录        在<目录>中查找输入文件\n"
+
+msgid ""
+"  -E, --escape                use C escapes in output, no extended chars\n"
+msgstr "  -E, --escape                在输出中使用 C 转码序列，没有扩展字符\n"
+
+msgid "  -F, --sort-by-file          sort output by file location\n"
+msgstr "  -F, --sort-by-file          按文件位置排序输出\n"
+
+msgid ""
+"  -L, --language=NAME         recognise the specified language\n"
+"                                (C, C++, ObjectiveC, PO, Shell, Python, Lisp,\n"
+"                                EmacsLisp, librep, Scheme, Smalltalk, Java,\n"
+"                                JavaProperties, C#, awk, YCP, Tcl, Perl, PHP,\n"
+"                                GCC-source, NXStringTable, RST, Glade, Lua,\n"
+"                                JavaScript, Vala, Desktop)\n"
+msgstr ""
+"  -L, --language=NAME         识别指定的语言\n"
+"                                (C, C++, ObjectiveC, PO, Shell, Python, Lisp,\n"
+"                                EmacsLisp, librep, Scheme, Smalltalk, Java,\n"
+"                                JavaProperties, C#, awk, YCP, Tcl, Perl, PHP,\n"
+"                                GCC-source, NXStringTable, RST, Glade, Lua,\n"
+"                                JavaScript, Vala, Desktop)\n"
+
+msgid ""
+"  -M[STRING], --msgstr-suffix[=STRING]  use STRING or \"\" as suffix for msgstr\n"
+"                                values\n"
+msgstr "  -M[STRING], --msgstr-suffix[=字符串]  使用<字符串>或\"\"作为 msgstr 项的后缀\n"
+
+msgid "  -N, --no-fuzzy-matching     do not use fuzzy matching\n"
+msgstr "  -N, --no-fuzzy-matching     不使用模糊匹配\n"
+
+msgid "  -P, --properties-input      input file is in Java .properties syntax\n"
+msgstr "  -P, --properties-input      输入文件以 Java .properties 语法给出\n"
+
+msgid ""
+"  -P, --properties-input      input files are in Java .properties syntax\n"
+msgstr "  -P, --properties-input      输入文件以 Java .properties 语法给出\n"
+
+msgid "  -T, --trigraphs             understand ANSI C trigraphs for input\n"
+msgstr "  -T, --trigraphs             理解输入时的 ANSI C 分段\n"
+
+msgid ""
+"  -U, --update                update def.po,\n"
+"                              do nothing if def.po already up to date\n"
+msgstr ""
+"  -U, --update                更新 def.po,\n"
+"                              如果 def.po 已经是最新则不作任何事\n"
+
+msgid "  -V, --version               output version information and exit\n"
+msgstr "  -V, --version               输出版本信息并退出\n"
+
+msgid ""
+"  -a, --alignment=NUMBER      align strings to NUMBER bytes (default: %d)\n"
+msgstr "  -a, --alignment=数字        以<数字>个字节为单位对齐字符串(默认：%d)\n"
+
+msgid "  -a, --extract-all           extract all strings\n"
+msgstr "  -a, --extract-all           提取所有字符串\n"
+
+msgid ""
+"  -c, --check                 perform all the checks implied by\n"
+"                                --check-format, --check-header, --check-domain\n"
+msgstr ""
+"  -c, --check                 同时进行 --check-format、--check-header 和\n"
+"                                --check-domain 三种检查\n"
+
+msgid ""
+"  -cTAG, --add-comments=TAG   place comment blocks starting with TAG and\n"
+"                                preceding keyword lines in output file\n"
+"  -c, --add-comments          place all comment blocks preceding keyword lines\n"
+"                                in output file\n"
+msgstr ""
+"  -cTAG, --add-comments=TAG   以 TAG 开始放置注释块\n"
+"                              并在输出文件中以关键词开启一行\n"
+"  -c, --add-comments          在输出文件中以关键词开启一行，\n"
+"                              并放置所有注释块\n"
+
+msgid ""
+"  -d DIRECTORY                base directory for locale dependent .dll "
+"files\n"
+msgstr "  -d 目录                     依赖语系的 .dll 文件的的基本目录\n"
+
+msgid "  -d DIRECTORY                base directory of .msg message catalogs\n"
+msgstr "  -d DIRECTORY                    .msg 消息库的基本目录\n"
+
+msgid "  -d DIRECTORY                base directory of .po files\n"
+msgstr "  -d DIRECTORY                    .po文件的基本目录\n"
+
+msgid ""
+"  -d DIRECTORY                base directory of classes directory "
+"hierarchy\n"
+msgstr "  -d 目录                     类目录层次的基本目录\n"
+
+msgid ""
+"  -d, --default-domain=NAME   use NAME.po for output (instead of "
+"messages.po)\n"
+msgstr "  -d, --default-domain=名称   使用<名称.po>输出(而不是 messages.po)\n"
+
+msgid "  -d, --repeated              print only duplicates\n"
+msgstr "  -d, --repeated              只打印重复项\n"
+
+msgid ""
+"  -e, --expression=SCRIPT     add SCRIPT to the commands to be executed\n"
+msgstr "  -e, --expression=SCRIPT       将<SCRIPT>添加到欲执行的命令中\n"
+
+msgid "  -e, --no-escape             do not use C escapes in output (default)\n"
+msgstr "  -e, --no-escape             不在输出中使用 C 转码序列(默认)\n"
+
+msgid ""
+"  -f, --file=SCRIPTFILE       add the contents of SCRIPTFILE to the commands\n"
+"                                to be executed\n"
+msgstr "  -f, --file=SCRIPTFILE         将<SCRIPTFILE>的内容添加到欲执行的命令中\n"
+
+msgid "  -f, --files-from=FILE       get list of input files from FILE\n"
+msgstr "  -f, --files-from=文件       由<文件>读入输入文件的列表\n"
+
+msgid ""
+"  -f, --fqdn, --long          long host name, includes fully qualified domain\n"
+"                                name, and aliases\n"
+msgstr "  -f, --fqdn, --long          长主机名，包括全称域名和别名\n"
+
+msgid "  -f, --use-fuzzy             use fuzzy entries in output\n"
+msgstr "  -f, --use-fuzzy             在输出中使用模糊的翻译条目\n"
+
+msgid "  -h, --help                  display this help and exit\n"
+msgstr "  -h, --help                  显示此帮助并退出\n"
+
+msgid "  -i, --indent                indented output style\n"
+msgstr "  -i, --indent                缩进的输出风格\n"
+
+msgid "  -i, --indent                write indented output style\n"
+msgstr "  -i, --indent                写出缩进的输出风格\n"
+
+msgid "  -i, --indent                write the .po file using indented style\n"
+msgstr "  -i, --indent                使用缩进风格写入 .po 文件\n"
+
+msgid "  -i, --input=INPUTFILE       input PO file\n"
+msgstr "  -i, --input=输入文件        输入的 PO 文件\n"
+
+msgid "  -i, --input=INPUTFILE       input POT file\n"
+msgstr "  -i, --input=输入文件        输入的 POT 文件\n"
+
+msgid "  -i, --ip-address            addresses for the hostname\n"
+msgstr "  -i, --ip-address            主机名地址\n"
+
+msgid ""
+"  -j, --java                  Java mode: generate a Java ResourceBundle "
+"class\n"
+msgstr "  -j, --java                  Java 模式：生成 Java 资源包类\n"
+
+msgid ""
+"  -j, --java                  Java mode: input is a Java ResourceBundle "
+"class\n"
+msgstr "  -j, --java                  Java 模式：输入为 Java 资源包类\n"
+
+msgid "  -j, --join-existing         join messages with existing file\n"
+msgstr "  -j, --join-existing         将消息加入已有文件\n"
+
+msgid ""
+"  -kWORD, --keyword=WORD      look for WORD as an additional keyword\n"
+"  -k, --keyword               do not to use default keywords\n"
+msgstr ""
+"  -kWORD, --keyword=WORD      查找 WORD 作为一个额外的关键字\n"
+"  -k, --keyword               不使用默认关键字\n"
+
+msgid "  -l, --locale=LL_CC          set target locale\n"
+msgstr "  -l, --locale=LL_CC          设置目标语系\n"
+
+msgid ""
+"  -l, --locale=LOCALE         locale name, either language or "
+"language_COUNTRY\n"
+msgstr "  -l, --locale=语系           语系名称，必须是“语言”或“语言_国家”的格式\n"
+
+msgid ""
+"  -m, --multi-domain          apply ref.pot to each of the domains in "
+"def.po\n"
+msgstr "  -m, --multi-domain          将 ref.pot 应用到 def.po 的每个域上\n"
+
+msgid ""
+"  -m[STRING], --msgstr-prefix[=STRING]  use STRING or \"\" as prefix for msgstr\n"
+"                                values\n"
+msgstr ""
+"  -m[STRING], --msgstr-prefix[=STRING]  使用 STRING 或 \"\" 作为\n"
+"                                         msgstr 内容的前缀\n"
+
+msgid ""
+"  -n, --add-location          generate '#: filename:line' lines (default)\n"
+msgstr "  -n, --add-location          生成“#: 文件名:行号”位置行(默认)\n"
+
+msgid ""
+"  -n, --add-location          preserve '#: filename:line' lines (default)\n"
+msgstr "  -n, --add-location          保留“#: filename:line”行(默认)\n"
+
+msgid ""
+"  -n, --quiet, --silent       suppress automatic printing of pattern space\n"
+msgstr "  -n, --quiet, --silent       禁用对模式空白的自动打印\n"
+
+msgid "  -o, --output-file=FILE      write output to specified PO file\n"
+msgstr "  -o, --output-file=文件      将输出写入至指定的 PO 文件\n"
+
+msgid "  -o, --output-file=FILE      write output to specified file\n"
+msgstr "  -o, --output-file=文件      将输出写入指定文件\n"
+
+msgid "  -o, --output=FILE           write output to specified file\n"
+msgstr "  -o, --output=文件           将输出写入指定文件\n"
+
+msgid ""
+"  -p, --output-dir=DIR        output files will be placed in directory DIR\n"
+msgstr "  -p, --output-dir=目录       输出文件将会存放在<目录>中\n"
+
+msgid "  -p, --properties-output     write out a Java .properties file\n"
+msgstr "  -p, --properties-output     写出 Java .properties 文件\n"
+
+msgid "  -q, --quiet, --silent       suppress progress indicators\n"
+msgstr "  -q, --quiet, --silent       隐藏进度指示\n"
+
+msgid "  -r, --resource=RESOURCE     resource name\n"
+msgstr "  -r, --resource=资源         资源名称\n"
+
+msgid "  -s, --short                 short host name\n"
+msgstr "  -s, --short                 短主机名\n"
+
+msgid "  -s, --sort-output           generate sorted output\n"
+msgstr "  -s, --sort-output           输出前排序\n"
+
+msgid "  -t, --to-code=NAME          encoding for output\n"
+msgstr "  -t, --to-code=名称          输出的编码\n"
+
+msgid ""
+"  -u, --unique                print only unique messages, discard "
+"duplicates\n"
+msgstr "  -u, --unique                只打印唯一的消息，忽略重复项\n"
+
+msgid ""
+"  -u, --unique                shorthand for --less-than=2, requests\n"
+"                              that only unique messages be printed\n"
+msgstr ""
+"  -u, --unique                --less-than=2 的缩写，要求只列出出现一次\n"
+"                              的消息\n"
+
+msgid "  -v, --verbose               increase verbosity level\n"
+msgstr "  -v, --verbose               增加输出的详细程度\n"
+
+msgid "  -w, --width=NUMBER          set output page width\n"
+msgstr "  -w, --width=数字            设置输出页面宽度\n"
+
+msgid "  -x, --exclude-file=FILE.po  entries from FILE.po are not extracted\n"
+msgstr "  -x, --exclude-file=文件.po  文件.po中的项不提取\n"
+
+msgid "  FILE ...                    input .mo files\n"
+msgstr "  文件 ...                    输入的 .mo 文件\n"
+
+msgid "  INPUTFILE                   input PO file\n"
+msgstr "  输入文件                    做为输入的 PO 文件\n"
+
+msgid "  INPUTFILE                   input PO or POT file\n"
+msgstr "  输入文件                    输入 PO 或 POT 文件\n"
+
+msgid "  INPUTFILE ...               input files\n"
+msgstr "  输入文件 ...                输入文件\n"
+
+msgid "  def.po                      translations\n"
+msgstr "  def.po                      翻译\n"
+
+msgid "  def.po                      translations referring to old sources\n"
+msgstr "  def.po                      根据旧源文件进行的翻译成果\n"
+
+msgid "  filename.po ...             input files\n"
+msgstr "  文件名.po ...               输入文件\n"
+
+msgid "  ref.pot                     references to new sources\n"
+msgstr "  ref.pot                     对新源文件的引用\n"
+
+msgid "  ref.pot                     references to the sources\n"
+msgstr "  ref.pot                     对源文件的引用\n"
+
+msgid " done.\n"
+msgstr " 完成。\n"
+
+msgid " failed.\n"
+msgstr " 失败。\n"
+
+msgid " timed out.\n"
+msgstr " 超时。\n"
+
+msgid "%d translated message"
+msgid_plural "%d translated messages"
+msgstr[0] "%d 条已翻译消息"
+
+msgid "%s and %s are mutually exclusive"
+msgstr "%s 和 %s 互相排斥"
+
+msgid "%s and %s are mutually exclusive in %s"
+msgstr "在%3$s 中%1$s 和 %2$s 互斥"
+
+msgid "%s and explicit file names are mutually exclusive"
+msgstr "%s 和明确给定的文件名互相冲突"
+
+msgid "%s does not exist"
+msgstr "%s 不存在"
+
+msgid "%s exists but cannot read"
+msgstr "%s 存在但不可读"
+
+msgid "%s is only valid with %s"
+msgstr "%s 只能和 %s 配合一起使用才有效"
+
+msgid "%s is only valid with %s or %s"
+msgstr "%s 只能配合 %s 或 %s 一起使用才有效"
+
+msgid "%s is only valid with %s, %s or %s"
+msgstr "%s 只能配合 %s、%s 或 %s 一起使用才有效"
+
+msgid "%s requires a \"--template template\" specification"
+msgstr "%s 需要指定“--template template”选项"
+
+msgid "%s requires a \"-d directory\" specification"
+msgstr "%s 需要指定“-d 目录”选项"
+
+msgid "%s requires a \"-l locale\" specification"
+msgstr "%s 需要指定“-l locale”选项"
+
+msgid "%s requires a \"-o file\" specification"
+msgstr "%s 需要指定“-o file”选项"
+
+msgid "%s subprocess"
+msgstr "%s 子进程"
+
+msgid "%s subprocess I/O error"
+msgstr "%s 子进程 I/O 错误"
+
+msgid "%s subprocess failed"
+msgstr "%s 子进程失败"
+
+msgid "%s subprocess failed with exit code %d"
+msgstr "%s 子进程失败，错误码为 %d"
+
+msgid "%s subprocess got fatal signal %d"
+msgstr "%s 子进程收到致命信号 %d"
+
+msgid "%s subprocess terminated with exit code %d"
+msgstr "%s 子进程已终止，错误码为 %d"
+
+msgid "%s%s: warning: "
+msgstr "%s%s：警告： "
+
+msgid "%s: "
+msgstr "%s: "
+
+msgid "%s: error while converting from \"%s\" encoding to \"%s\" encoding"
+msgstr "%s：从“%s”编码转换到“%s”编码时出错"
+
+msgid "%s: input is not valid in \"%s\" encoding"
+msgstr "%s：在“%s”编码中输入无效"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s: 无效选项 -- '%c'\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s: 选项“%c%s”不允许有参数\n"
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr "%s: 选项“%s”有歧义\n"
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr "%s: 选项“%s”有歧义;可能是:"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s: 选项“--%s”不允许有参数\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s: 选项“--%s”需要参数\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s: 选项“-W %s”不允许参数\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s: 选项“-W %s”歧义\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s: 选项“-W %s”需要参数\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s: 选项需要参数 -- '%c'\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s: 无法识别的选项“%c%s”\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s: 无法识别的选项“--%s”\n"
+
+msgid "%s: warning: source file contains fuzzy translation"
+msgstr "%s：警告：源文件包含模糊的翻译条目"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+"%s:%d：文件结尾处出现了不完整的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d：文件结尾处出现了不完整的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码，详见\n"
+"http://www.python.org/peps/pep-0263.html。\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+"%s:%d：文件结尾处出现了不完整的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码。\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+"%s:%d：文件结尾处出现了不完整的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d：文件结尾处出现了不完整的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码，详见\n"
+"http://www.python.org/peps/pep-0263.html。\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+"%s:%d：文件结尾处出现了不完整的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码。\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+"%s:%d：出现了无效的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d：出现了无效的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码，详见\n"
+"http://www.python.org/peps/pep-0263.html。\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+"%s:%d：出现了无效的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码。\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code\n"
+msgstr ""
+"%s:%d：无效的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code or through a comment\n"
+"as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d：无效的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码，详见\n"
+"http://www.python.org/peps/pep-0263.html。\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code.\n"
+msgstr ""
+"%s:%d：无效的多字节序列。\n"
+"请通过 --from-code 指定源文件的编码。\n"
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+"%s:%d：较长的不完整多字节序列。\n"
+"请通过 --from-code 指定源文件的编码\n"
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d：较长的不完整多字节序列。\n"
+"请通过 --from-code 指定源文件的编码，详见\n"
+"http://www.python.org/peps/pep-0263.html。\n"
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+"%s:%d：较长的不完整多字节序列。\n"
+"请通过 --from-code 指定源文件的编码。\n"
+
+msgid "%s:%d: can't find string terminator \"%s\" anywhere before EOF"
+msgstr "%s:%d：在文件结束符前的任何位置都找不到字符串结束符“%s”"
+
+msgid "%s:%d: iconv failure"
+msgstr "%s:%d：iconv 失败"
+
+msgid "%s:%d: invalid interpolation (\"\\L\") of 8bit character \"%c\""
+msgstr "%s:%d：8位字符“%c”转义无效(“\\L”)"
+
+msgid "%s:%d: invalid interpolation (\"\\U\") of 8bit character \"%c\""
+msgstr "%s:%d：8位字符“%c”转义无效(“\\U”)"
+
+msgid "%s:%d: invalid interpolation (\"\\l\") of 8bit character \"%c\""
+msgstr "%s:%d：8位字符“%c”转义无效(“\\l”)"
+
+msgid "%s:%d: invalid interpolation (\"\\u\") of 8bit character \"%c\""
+msgstr "%s:%d：8位字符“%c”转义无效(“\\u”)"
+
+msgid "%s:%d: invalid string definition"
+msgstr "%s:%d：无效的字符串定义"
+
+msgid "%s:%d: invalid string expression"
+msgstr "%s:%d：无效的字符串表达式"
+
+msgid "%s:%d: invalid variable interpolation at \"%c\""
+msgstr "%s:%d：“%c”处有无效的变量转义"
+
+msgid "%s:%d: missing number after #"
+msgstr "%s:%d：# 后面丢失数字"
+
+msgid "%s:%d: missing right brace on \\x{HEXNUMBER}"
+msgstr "%s:%d：在 \\x{十六进制数} 处缺少右大括号"
+
+msgid "%s:%d: warning: %s is not allowed"
+msgstr "%s:%d：警告：不准用%s"
+
+msgid "%s:%d: warning: ')' found where '}' was expected"
+msgstr "%s:%d：警告：期待“}”却发现了“)”"
+
+msgid "%s:%d: warning: '}' found where ')' was expected"
+msgstr "%s:%d：警告：期待“)”却发现了“}”"
+
+msgid "%s:%d: warning: RegExp literal terminated too early"
+msgstr "%s:%d：警告：RegExp 正则表达式过早结束"
+
+msgid "%s:%d: warning: invalid Unicode character"
+msgstr "%s:%d：警告：无效的 Unicode 字符"
+
+msgid "%s:%d: warning: lone surrogate U+%04X"
+msgstr "%s:%d: 警告:未结束的字符串 U+%04X"
+
+msgid "%s:%d: warning: regular expression literal terminated too early"
+msgstr "%s:%d：警告：正则表达式过早终止"
+
+msgid "%s:%d: warning: unterminated XML markup"
+msgstr "%s:%d：警告：未结束的XML 标记"
+
+msgid "%s:%d: warning: unterminated character constant"
+msgstr "%s:%d：警告：未结束的字符常量"
+
+msgid "%s:%d: warning: unterminated regular expression"
+msgstr "%s:%d：警告：未结束的正规表达式"
+
+msgid "%s:%d: warning: unterminated string"
+msgstr "%s:%d：警告：未结束的字符串"
+
+msgid "%s:%d: warning: unterminated string constant"
+msgstr "%s:%d：警告：未结束的字符串常量"
+
+msgid "%s:%d: warning: unterminated string literal"
+msgstr "%s:%d：警告：未结束的字符串字面"
+
+msgid ""
+"%s:%lu: warning: the syntax $\"...\" is deprecated due to security reasons; "
+"use eval_gettext instead"
+msgstr "%s:%lu：警告：为安全起见，语法 $“...”不被推荐；请换用 eval_gettext"
+
+msgid ""
+"%sRead %ld old + %ld reference, merged %ld, fuzzied %ld, missing %ld, "
+"obsolete %ld.\n"
+msgstr "%s读取了 %ld 条旧的 + %ld 条引用，合并了 %ld 条，模糊的 %ld 条，缺少 %ld 条，过时的 %ld 条。\n"
+
+msgid "'"
+msgstr "”"
+
+msgid "'%s' does not use %%C but '%s' uses %%C"
+msgstr "“%s”没有使用 %%C，但“%s”要用 %%C"
+
+msgid "'%s' does not use %%m but '%s' uses %%m"
+msgstr "“%s”没有使用 %%m，但“%s”要用 %%m"
+
+msgid ""
+"'%s' format string with unnamed arguments cannot be properly localized:\n"
+"The translator cannot reorder the arguments.\n"
+"Please consider using a format string with named arguments,\n"
+"and a mapping instead of a tuple for the arguments.\n"
+msgstr ""
+"带有未命名参数的“%s”格式字符串无法正确本地化：\n"
+"翻译者无法重新编排参数的顺序。\n"
+"请考虑使用带有命名参数和映射的格式字符串，而不是使用参数数组。\n"
+
+msgid ""
+"'%s' is a simple format string, but '%s' is not: it contains an 'L' flag or "
+"a double-digit argument number"
+msgstr "'%s' 仅仅是个格式字符串，但‘%s’不是：它包含一个‘L’标记或是一个两位数的参数值"
+
+msgid "'%s' is not a valid %s format string, unlike '%s'. Reason: %s"
+msgstr "不像“%3$s”，“%1$s”不是有效的 %2$s 格式字符串。原因: %4$s"
+
+msgid "'%s' is not a valid encoding name.  Using ASCII as fallback.\n"
+msgstr "“%s”不是个有效的编码名。正使用ASCII 作为替换。\n"
+
+msgid "'%s' uses %%C but '%s' doesn't"
+msgstr "“%s”要用 %%C，但“%s”没有"
+
+msgid "'%s' uses %%m but '%s' doesn't"
+msgstr "“%s”使用了 %%m，但“%s”没有使用"
+
+msgid "'domain %s' directive ignored"
+msgstr "忽略了“domain %s”命令"
+
+msgid "'msgid' and 'msgid_plural' entries do not both begin with '\\n'"
+msgstr "“msgid”和“msgid_plural”项并非都以“\\n”开始"
+
+msgid "'msgid' and 'msgid_plural' entries do not both end with '\\n'"
+msgstr "“msgid”和“msgid_plural”项并非都以“\\n”结束"
+
+msgid "'msgid' and 'msgstr' entries do not both begin with '\\n'"
+msgstr "“msgid”和“msgstr”项并非都以“\\n”开始"
+
+msgid "'msgid' and 'msgstr' entries do not both end with '\\n'"
+msgstr "“msgid”和“msgstr”项并非都以“\\n”结束"
+
+msgid "'msgid' and 'msgstr[%u]' entries do not both begin with '\\n'"
+msgstr "“msgid”和“msgstr[%u]”项并非都以“\\n”开始"
+
+msgid "'msgid' and 'msgstr[%u]' entries do not both end with '\\n'"
+msgstr "“msgid”和“msgstr[%u]”项并非都以“\\n”结束"
+
+msgid ", %d fuzzy translation"
+msgid_plural ", %d fuzzy translations"
+msgstr[0] "，%d 条模糊消息"
+
+msgid ", %d untranslated message"
+msgid_plural ", %d untranslated messages"
+msgstr[0] "，%d 条未翻译消息"
+
+msgid ""
+"- Convert the translation catalog to %s using 'msgconv',\n"
+"  then apply '%s',\n"
+"  then convert back to %s using 'msgconv'.\n"
+msgstr ""
+"-  用“msgconv”将翻译库的字符集转换为 %s，\n"
+"   然后应用“%s”命令，\n"
+"   最后用“msgconv”将翻译库的字符集还原为 %s。\n"
+
+msgid ""
+"- Set LC_ALL to a locale with encoding %s,\n"
+"  convert the translation catalog to %s using 'msgconv',\n"
+"  then apply '%s',\n"
+"  then convert back to %s using 'msgconv'.\n"
+msgstr ""
+"-  设置 LC_ALL 环境变量为使用编码 %s 的语系，\n"
+"   用“msgconv”将翻译库的字符集转换为 %s，\n"
+"   然后应用“%s”命令，\n"
+"   最后用“msgconv”将翻译库的字符集还原为 %s。\n"
+
+msgid "- Set LC_ALL to a locale with encoding %s.\n"
+msgstr "- 将 LC_ALL 设为编码 %s 对应的语系。\n"
+
+msgid "--join-existing cannot be used when output is written to stdout"
+msgstr "输出写到 stdout 时无法使用 --join-existing"
+
+msgid "...but this definition is similar"
+msgstr "...但此定义十分类似"
+
+msgid "<stdin>"
+msgstr "<stdin>"
+
+msgid "<unnamed>"
+msgstr "<未命名>"
+
+msgid ""
+"A --flag argument doesn't have the <keyword>:<argnum>:[pass-]<flag> syntax: "
+"%s"
+msgstr "--flag 参数并非以 <关键字>:<参数编号>:[遍数-]<标志> 的语法给出：%s"
+
+msgid ""
+"A special builtin command called '0' outputs the translation, followed by a\n"
+"null byte.  The output of \"msgexec 0\" is suitable as input for \"xargs -0\".\n"
+msgstr ""
+"有一个称为“0”的特殊内置命令，它会输出翻译条目，并随后加上一个 null\n"
+"字节。“msgexec 0”的输出适用于作为“xargs -0”的输入。\n"
+
+msgid "ASCII double quote used instead of Unicode"
+msgstr "ASCII 双引号代替了Unicode"
+
+msgid "ASCII ellipsis ('...') instead of Unicode"
+msgstr "ASCII 省略号('...')代替了Unicode"
+
+msgid "ASCII single quote used instead of Unicode"
+msgstr "ASCII 单引号代替了Unicode"
+
+msgid ""
+"Although being used in a format string position, the %s is not a valid %s "
+"format string. Reason: %s\n"
+msgstr "尽管在格式字符串的位置使用，但 %s 仍不是有效的 %s 格式字符串。原因：%s\n"
+
+msgid ""
+"Although declared as such, the %s is not a valid %s format string. Reason: "
+"%s\n"
+msgstr "以所声明的语言 %2$s 来看，%1$s 不是有效的格式字符串。原因：%3$s\n"
+
+msgid ""
+"Applies a command to all translations of a translation catalog.\n"
+"The COMMAND can be any program that reads a translation from standard\n"
+"input.  It is invoked once for each translation.  Its output becomes\n"
+"msgexec's output.  msgexec's return code is the maximum return code\n"
+"across all invocations.\n"
+msgstr ""
+"以翻译库的所有翻译条目作为某命令的输入数据。\n"
+"<命令>可以是任何由标准输入读入翻译条目的程序。\n"
+"对于每个翻译条目命令都会运行一次。它的输出结果\n"
+"即是 msgexec 的输出结果。msgexec 的返回值是所有\n"
+"命令调用产生的返回值的最大值。\n"
+
+msgid "Applies a filter to all translations of a translation catalog.\n"
+msgstr "对于翻译库中的所有翻译条目进行过滤。\n"
+
+msgid "Attribute manipulation:\n"
+msgstr "属性操纵：\n"
+
+msgid "Bruno Haible"
+msgstr "Bruno Haible"
+
+msgid "By default the input files are assumed to be in ASCII.\n"
+msgstr "默认情况下，输入文件都认为是纯 ASCII 文件。\n"
+
+msgid ""
+"By default the language is guessed depending on the input file name "
+"extension.\n"
+msgstr "默认情况下，所使用的语言是根据输入文件的扩展名猜测的。\n"
+
+msgid "C# compiler not found, try installing pnet"
+msgstr "未找到 C# 编译器，试着安装 pnet"
+
+msgid "C# virtual machine not found, try installing pnet"
+msgstr "未找到 C# 虚拟机，试着安装 pnet"
+
+msgid ""
+"Cannot convert from \"%s\" to \"%s\". %s relies on iconv(), and iconv() does"
+" not support this conversion."
+msgstr "无法从“%s”转换为“%s”。%s 需要 iconv()，但 iconv() 不支持此种转换方式。"
+
+msgid ""
+"Cannot convert from \"%s\" to \"%s\". %s relies on iconv(). This version was"
+" built without iconv()."
+msgstr "无法从“%s”转换为“%s”。%s 需要 iconv()。此版本创建时未包含 iconv()。"
+
+msgid ""
+"Cannot output multiple translation domains into a single file with the "
+"specified output format."
+msgstr "无法将多个翻译域以特定的输出格式输出到单个文件中。"
+
+msgid ""
+"Cannot output multiple translation domains into a single file with the "
+"specified output format. Try using PO file syntax instead."
+msgstr "无法将多个翻译域以特定的输出格式输出到单个文件中。试着换用 PO 文件语法。"
+
+msgid ""
+"Charset \"%s\" is not a portable encoding name.\n"
+"Message conversion to user's charset might not work.\n"
+msgstr ""
+"字符集“%s”不是可移植的编码名称。\n"
+"将消息转换为用户字符集可能不工作。\n"
+
+msgid ""
+"Charset \"%s\" is not supported. %s relies on iconv(),\n"
+"and iconv() does not support \"%s\".\n"
+msgstr ""
+"不支持“%s”字符集。%s 依赖 iconv()，而 iconv() 不支持\n"
+"“%s”。\n"
+
+msgid ""
+"Charset \"%s\" is not supported. %s relies on iconv().\n"
+"This version was built without iconv().\n"
+msgstr ""
+"不支持“%s”字符集。%s 依赖 iconv()。\n"
+"此版本创建时未包含 iconv()。\n"
+
+msgid ""
+"Charset missing in header.\n"
+"Message conversion to user's charset will not work.\n"
+msgstr ""
+"文件头缺少字符集。\n"
+"将消息转换为用户的字符集无法工作。\n"
+
+msgid "Choice of input file language:\n"
+msgstr "选择输入文件所用的语言：\n"
+
+msgid "Command input:\n"
+msgstr "命令输入:\n"
+
+msgid ""
+"Compare two Uniforum style .po files to check that both contain the same\n"
+"set of msgid strings.  The def.po file is an existing PO file with the\n"
+"translations.  The ref.pot file is the last created PO file, or a PO Template\n"
+"file (generally created by xgettext).  This is useful for checking that\n"
+"you have translated each and every message in your program.  Where an exact\n"
+"match cannot be found, fuzzy matching is used to produce better diagnostics.\n"
+msgstr ""
+"比较两个 Uniforum 格式的 .po 文件，检查两者是否包含相同的 msgid 字段。\n"
+"def.po 是翻译过的现有的 PO 文件，ref.pot 则是新创建的 PO 文件或者 POT\n"
+"模板文件(通常由 xgettext 生成)。\n"
+"此程序可用来检查程序中的所有的消息是否都已经翻译好了。比较时如果\n"
+"有不完全匹配的字符串出现，程序会以模糊配对的方式得出较好的结果。\n"
+
+msgid ""
+"Concatenates and merges the specified PO files.\n"
+"Find messages which are common to two or more of the specified PO files.\n"
+"By using the --more-than option, greater commonality may be requested\n"
+"before messages are printed.  Conversely, the --less-than option may be\n"
+"used to specify less commonality before messages are printed (i.e.\n"
+"--less-than=2 will only print the unique messages).  Translations,\n"
+"comments, extracted comments, and file positions will be cumulated, except\n"
+"that if --use-first is specified, they will be taken from the first PO file\n"
+"to define them.\n"
+msgstr ""
+"连接并合并指定的 PO 文件。\n"
+"在两个或多个指定的 PO 文件中找出共同的翻译消息。\n"
+"利用 --more-than 选项，可以令消息在不同文件中\n"
+"出现的次数较多时才打印。\n"
+"相反地，--less-than 选项则会令消息在不同文件中\n"
+"出现的次数较少时才打印\n"
+"(例如 --less-than=2 表示打印只出现一次的消息)。\n"
+"翻译内容、自行加上的批注和源程序代码批注，以及文件中的位置等都会累积，\n"
+"除非使用了 --use-first选项，那样则会由第一个包含该翻译条目的文件获取数据。\n"
+
+msgid "Continuing anyway, expect parse errors."
+msgstr "仍然继续，遇到处理错误。"
+
+msgid "Continuing anyway."
+msgstr "仍然继续。"
+
+msgid ""
+"Conversion from \"%s\" to \"%s\" introduces duplicates: some different "
+"msgids become equal."
+msgstr "从“%s”转换为“%s”出现了重复项：某些原本不同的 msgid 变成了相同项。"
+
+msgid ""
+"Conversion of file %s from %s encoding to %s encoding\n"
+"changes some msgids or msgctxts.\n"
+"Either change all msgids and msgctxts to be pure ASCII, or ensure they are\n"
+"UTF-8 encoded from the beginning, i.e. already in your source code files.\n"
+msgstr ""
+"将文件 %s 由 %s 编码转换为 %s 编码将更改某些 msgid 或 msgctxt。\n"
+"请将全部的 msgid 和 msgctxt 都转换为纯 ASCII，或者从源代码上保证这些字符串\n"
+"都是 UTF-8 编码的。\n"
+
+msgid "Conversion target:\n"
+msgstr "转换目标：\n"
+
+msgid "Convert binary message catalog to Uniforum style .po file.\n"
+msgstr "将二进制消息库转换为 Uniforum 风格的 .po 文件。\n"
+
+msgid "Converts a translation catalog to a different character encoding.\n"
+msgstr "将一个翻译库的编码转换为另一种文字编码。\n"
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+
+msgid "Created %s.\n"
+msgstr "已创建 %s。\n"
+
+msgid ""
+"Creates a new PO file, initializing the meta information with values from the\n"
+"user's environment.\n"
+msgstr "创建新的 PO 文件，即根据用户环境取值初始化文件头。\n"
+
+msgid ""
+"Creates an English translation catalog.  The input file is the last\n"
+"created English PO file, or a PO Template file (generally created by\n"
+"xgettext).  Untranslated entries are assigned a translation that is\n"
+"identical to the msgid.\n"
+msgstr ""
+"创建一个英文翻译库。输入文件是最近创建的英文 PO 文件或 POT 模板文件\n"
+"(通常由 xgettext 创建)。未翻译的条目会填上和 msgid 一样的字符串，\n"
+"并标记为模糊。\n"
+
+msgid "Danilo Segan"
+msgstr "Danilo Segan"
+
+msgid "Desktop Entry mode options:\n"
+msgstr "桌面访问模式选项:\n"
+
+msgid ""
+"Empty msgid.  It is reserved by GNU gettext:\n"
+"gettext(\"\") returns the header entry with\n"
+"meta information, not the empty string.\n"
+msgstr ""
+"空的 msgid，由 GNU gettext 保留：\n"
+"gettext(\"\") 将返回文件头项，而不\n"
+"是空字符串。\n"
+
+msgid "English translations for %s package"
+msgstr "%s 软件包的简体中文翻译"
+
+msgid "Extract translatable strings from given input files.\n"
+msgstr "从给定的输入文件中提取可翻译的字符串。\n"
+
+msgid ""
+"Extracts all messages of a translation catalog that match a given pattern\n"
+"or belong to some given source files.\n"
+msgstr "提取翻译库中的消息，这些消息符合某个给出的模式或属于某个给出的源文件。\n"
+
+msgid ""
+"Fetches and outputs the contents of an URL.  If the URL cannot be accessed,\n"
+"the locally accessible FILE is used instead.\n"
+msgstr "获取 URL 并输出其内容。如果无法访问 URL，则换用指定的本地文件。\n"
+
+msgid "Filter input and output:\n"
+msgstr "Filter 输入与输出:\n"
+
+msgid ""
+"Filters the messages of a translation catalog according to their attributes,\n"
+"and manipulates the attributes.\n"
+msgstr "根据消息的属性过滤一个翻译库里的消息，并处理消息的属性。\n"
+
+msgid ""
+"Find messages which are common to two or more of the specified PO files.\n"
+"By using the --more-than option, greater commonality may be requested\n"
+"before messages are printed.  Conversely, the --less-than option may be\n"
+"used to specify less commonality before messages are printed (i.e.\n"
+"--less-than=2 will only print the unique messages).  Translations,\n"
+"comments and extracted comments will be preserved, but only from the first\n"
+"PO file to define them.  File positions from all PO files will be\n"
+"cumulated.\n"
+msgstr ""
+"在两个或多个指定的 PO 文件 中找出共同的翻译消息。\n"
+"利用 --more-than 选项，可以令消息在不同文件出现的次数较多时才会打印。\n"
+"相反地，--less-than 选项则会令消息在不同文件出现的次数较少时才打印\n"
+"（例如 --less-than=2 表示打印只出现一次的消息）。\n"
+"翻译内容、自行加上的注释和源程序注释的批注都会保留，\n"
+"但只会保留最先定义这些信息的 PO 文件中的内容。\n"
+"所有 PO 文件中的翻译条目的文件位置都会累积下来。\n"
+
+msgid "Found '~%c' without matching '~%c'."
+msgstr "发现了“~%c”但没有匹配的“~%c”。"
+
+msgid ""
+"Found more than one .pot file.\n"
+"Please specify the input .pot file through the --input option.\n"
+msgstr ""
+"找到多于一个的 .pot 文件。\n"
+"请通过 --input 选项指定作为输入文件的 .pot 文件。\n"
+
+msgid ""
+"Found no .pot file in the current directory.\n"
+"Please specify the input .pot file through the --input option.\n"
+msgstr ""
+"在当前目录中找不到任何 .pot 文件。\n"
+"请通过 --input 选项指定作为输入文件的 .pot 文件。\n"
+
+msgid "Generate binary message catalog from textual translation description.\n"
+msgstr "由文字模式描述生成二进制消息文件。\n"
+
+msgid "If input file is -, standard input is read.\n"
+msgstr "如果输入文件为 -，则将读取标准输入。\n"
+
+msgid "If no input file is given or if it is -, standard input is read.\n"
+msgstr "如果没有指定输入文件或输入文件是 -，则读取标准输入。\n"
+
+msgid ""
+"If no input file is given, the current directory is searched for the POT file.\n"
+"If it is -, standard input is read.\n"
+msgstr ""
+"如果没有给出输入文件，将会搜索当前目录中的 POT 文件。\n"
+"如果为 - 的话，将会读取标准输入。\n"
+
+msgid ""
+"If no output file is given, it depends on the --locale option or the user's\n"
+"locale setting.  If it is -, the results are written to standard output.\n"
+msgstr ""
+"如果没有指定输出文件，输出文件的名称将会由 --locale 选项或者用户的语系决定。\n"
+"如果输出文件是“-”，则会将结果写入至标准输出。\n"
+
+msgid "If output file is -, output is written to standard output.\n"
+msgstr "如果输出文件是 -，则会将结果写入至标准输出。\n"
+
+msgid "In the directive number %u, \"%s\" is not followed by a comma."
+msgstr "第 %u 条指令中，“%s”后面没有逗号。"
+
+msgid "In the directive number %u, '%c' cannot start a field name."
+msgstr "第 %u 条指令中，“%c”不可以field name 开始。"
+
+msgid "In the directive number %u, '%c' cannot start a getattr argument."
+msgstr "第 %u 条指令中，“%c”不可以getattr 参数开始。"
+
+msgid "In the directive number %u, '%c' cannot start a getitem argument."
+msgstr "第 %u 条指令中，“%c”不可以getitem 参数开始。"
+
+msgid "In the directive number %u, '%c' is not followed by a digit."
+msgstr "第 %u 条指令中，“%c”后面没有数字。"
+
+msgid "In the directive number %u, ',' is not followed by a number."
+msgstr "第 %u 条指令中，“,”后没有参数编号。"
+
+msgid "In the directive number %u, '{' is not followed by an argument number."
+msgstr "第 %u 条指令中，“{”后没有参数编号。"
+
+msgid ""
+"In the directive number %u, '~:[' is not followed by two clauses, separated "
+"by '~;'."
+msgstr "第 %u 条指令中，“~:[”后面没有两个用“~;”分隔的子句。"
+
+msgid "In the directive number %u, '~;' is used in an invalid position."
+msgstr "第 %u 条指令中，“~;”的位置无效。"
+
+msgid ""
+"In the directive number %u, a choice contains a number that is not followed "
+"by '<', '#' or '%s'."
+msgstr "第 %u 条指令中，选择包含的数字后面没有“<”、“#”或“%s”。"
+
+msgid "In the directive number %u, a choice contains no number."
+msgstr "第 %u 条指令中，选择不包含数字。"
+
+msgid "In the directive number %u, a precision is not allowed before '%c'."
+msgstr "第 %u 条指令中，“%c”前不允许有精度。"
+
+msgid ""
+"In the directive number %u, a precision specification is not allowed before "
+"'%c'."
+msgstr "第 %u 条指令中，‘%c’前不允许指定精度。"
+
+msgid "In the directive number %u, both the @ and the : modifiers are given."
+msgstr "第 %u 条指令中，同时给出了 @ 和 : 修饰符。"
+
+msgid "In the directive number %u, flags are not allowed before '%c'."
+msgstr "第 %u 条指令中，“%c”前不允许有标志。"
+
+msgid ""
+"In the directive number %u, no more nesting is allowed in a format "
+"specifier."
+msgstr "第 %u 条指令中，格式定义中不允许过多嵌套。"
+
+msgid ""
+"In the directive number %u, parameter %u is of type '%s' but a parameter of "
+"type '%s' is expected."
+msgstr "第 %u 条指令中，第 %u 个参数类型为“%s”，但应为“%s”。"
+
+msgid "In the directive number %u, the argument %d is negative."
+msgstr "第 %u 条指令中，参数 %d 为负数。"
+
+msgid ""
+"In the directive number %u, the argument number 0 is not a positive integer."
+msgstr "第 %u 条指令中，第 0 个参数不是正整数。"
+
+msgid ""
+"In the directive number %u, the argument number for the precision must be "
+"equal to %u."
+msgstr "第 %u 条指令中，精度的参数个数必须是 %u 个。"
+
+msgid ""
+"In the directive number %u, the argument number is not followed by a comma "
+"and one of \"%s\", \"%s\", \"%s\", \"%s\"."
+msgstr "第 %u 条指令中，参数编号后面没有逗号和“%s”、“%s”、“%s”、“%s”之一。"
+
+msgid ""
+"In the directive number %u, the character '%c' is not a digit between 1 and "
+"9."
+msgstr "第 %u 条指令中，字符“%c”不是介于 1 和 9 之间的数字。"
+
+msgid ""
+"In the directive number %u, the character '%c' is not a valid conversion "
+"specifier."
+msgstr "第 %u 条指令中，字符“%c”不是有效的对话指定符。"
+
+msgid "In the directive number %u, the flags combination is invalid."
+msgstr "第 %u 条指令中，标志组合无效。"
+
+msgid "In the directive number %u, the precision specification is invalid."
+msgstr "第 %u 条指令中，精度指定无效。"
+
+msgid ""
+"In the directive number %u, the precision's argument number 0 is not a "
+"positive integer."
+msgstr "第 %u 条指令中，精度的第 0 个参数不是正整数。"
+
+msgid ""
+"In the directive number %u, the size specifier is incompatible with the "
+"conversion specifier '%c'."
+msgstr "第 %u 条指令中，大小指定符与转换指定符“%c”不兼容。"
+
+msgid ""
+"In the directive number %u, the substring \"%s\" is not a valid date/time "
+"style."
+msgstr "第 %u 条指令中，子字符串“%s”不是有效的日期/时间风格。"
+
+msgid ""
+"In the directive number %u, the substring \"%s\" is not a valid number "
+"style."
+msgstr "第 %u 条指令中，子字符串“%s”不是有效的数字格式。"
+
+msgid ""
+"In the directive number %u, the token after '<' is not followed by '>'."
+msgstr "第 %u 条指令中，没有与“<”匹配的“>”。"
+
+msgid ""
+"In the directive number %u, the token after '<' is not the name of a format "
+"specifier macro. The valid macro names are listed in ISO C 99 section 7.8.1."
+msgstr "第 %u 条指令中，“<”后的记号并不是格式指定符宏的名称。有效的宏名列在 ISO C 99 章节 7.8.1 中。"
+
+msgid ""
+"In the directive number %u, the width's argument number 0 is not a positive "
+"integer."
+msgstr "第 %u 条指令中，宽度的第 0 个参数不是正整数。"
+
+msgid "In the directive number %u, there is an unterminated format directive."
+msgstr "第 %u 条指令中，格式指令中无终止符。"
+
+msgid ""
+"In the directive number %u, too many parameters are given; expected at most "
+"%u parameter."
+msgid_plural ""
+"In the directive number %u, too many parameters are given; expected at most "
+"%u parameters."
+msgstr[0] "第 %u 条指令中，给出的参数太多；最多只需要 %u 个参数。"
+
+msgid "Informative output:\n"
+msgstr "信息性输出：\n"
+
+msgid "Input file interpretation:\n"
+msgstr "输入文件的处理:\n"
+
+msgid "Input file location in C# mode:\n"
+msgstr "C# 模式下的输入文件位置：\n"
+
+msgid "Input file location in Java mode:\n"
+msgstr "以 Java 模式输入文件位置：\n"
+
+msgid "Input file location in Tcl mode:\n"
+msgstr "Tcl 模式下的输入文件位置：\n"
+
+msgid "Input file location:\n"
+msgstr "输入文件的位置：\n"
+
+msgid "Input file syntax:\n"
+msgstr "输入文件的语法：\n"
+
+msgid ""
+"Input files contain messages in different encodings, %s and %s among others.\n"
+"Converting the output to UTF-8.\n"
+"To select a different output encoding, use the --to-code option.\n"
+msgstr ""
+"输入文件包含不同编码的消息，其中包含 %s 和 %s。会将输出的编码转换为 UTF-8。\n"
+"若要选择另一种输出编码，请使用 --to-code 选项。\n"
+
+msgid ""
+"Input files contain messages in different encodings, UTF-8 among others.\n"
+"Converting the output to UTF-8.\n"
+msgstr ""
+"输入文件所用的编码不同，其中包含 UTF-8。\n"
+"输出将转换为 UTF-8。\n"
+
+msgid ""
+"Installing GNU libiconv and then reinstalling GNU gettext\n"
+"would fix this problem.\n"
+msgstr "安装 GNU libiconv，然后重新安装 GNU gettext 将修复此问题。\n"
+
+msgid "Java compiler not found, try installing gcj or set $JAVAC"
+msgstr "未找到 Java 编译器，试着安装 gcj 或设置 $JAVAC"
+
+msgid "Java virtual machine not found, try installing gij or set $JAVA"
+msgstr "未找到 Java 虚拟机，试着安装 gij 或设置 $JAVA"
+
+msgid "Language specific options:\n"
+msgstr "语言特定选项:\n"
+
+msgid ""
+"Locale charset \"%s\" is different from\n"
+"input file charset \"%s\".\n"
+"Output of '%s' might be incorrect.\n"
+"Possible workarounds are:\n"
+msgstr ""
+"当前语系的字符集“%s”和输入文件的字符集“%s”不同。\n"
+"“%s”的输出可能有误。可行的解决方法包含：\n"
+
+msgid ""
+"Locale charset \"%s\" is not a portable encoding name.\n"
+"Output of '%s' might be incorrect.\n"
+"A possible workaround is to set LC_ALL=C.\n"
+msgstr ""
+"语系的字符集编码“%s”不是通用的编码名称。\n"
+"“%s”的输出可能有误。\n"
+"设置 LC_ALL=C 是一个可行的解决方法。\n"
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr "长选项必须用的参数在使用短选项时也是必须的。\n"
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+"Similarly for optional arguments.\n"
+msgstr ""
+"长选项必须用的参数在使用短选项时也是必须的。\n"
+"可选参数也是如此。\n"
+
+msgid ""
+"Merges two Uniforum style .po files together.  The def.po file is an\n"
+"existing PO file with translations which will be taken over to the newly\n"
+"created file as long as they still match; comments will be preserved,\n"
+"but extracted comments and file positions will be discarded.  The ref.pot\n"
+"file is the last created PO file with up-to-date source references but\n"
+"old translations, or a PO Template file (generally created by xgettext);\n"
+"any translations or comments in the file will be discarded, however dot\n"
+"comments and file positions will be preserved.  Where an exact match\n"
+"cannot be found, fuzzy matching is used to produce better results.\n"
+msgstr ""
+"将两个格式统一的 .po 文件合并在一起。def.po 文件是先前进行的翻译，并且将\n"
+"作为基准对新创建的文件进行填充，只要对应的文字能够匹配；该文件中的注释将\n"
+"被保留，但是程序提取的注释和文件位置将被忽略。ref.pot 文件是根据最新的源\n"
+"文件创建的 PO 文件但翻译很旧，或者根本就是 PO 模板文件(由 xgettext 生成)；\n"
+"此文件中的任何翻译或注释都将被忽略，但是点注释和文件位置都将被保留。如果\n"
+"在程序执行的过程中找不到完全匹配的文字，则会使用模糊的匹配以求达到较好的\n"
+"效果。\n"
+
+msgid "Message selection:\n"
+msgstr "消息选择：\n"
+
+msgid ""
+"Message selection:\n"
+"  [-N SOURCEFILE]... [-M DOMAINNAME]...\n"
+"  [-J MSGCTXT-PATTERN] [-K MSGID-PATTERN] [-T MSGSTR-PATTERN]\n"
+"  [-C COMMENT-PATTERN] [-X EXTRACTED-COMMENT-PATTERN]\n"
+"A message is selected if it comes from one of the specified source files,\n"
+"or if it comes from one of the specified domains,\n"
+"or if -J is given and its context (msgctxt) matches MSGCTXT-PATTERN,\n"
+"or if -K is given and its key (msgid or msgid_plural) matches MSGID-PATTERN,\n"
+"or if -T is given and its translation (msgstr) matches MSGSTR-PATTERN,\n"
+"or if -C is given and the translator's comment matches COMMENT-PATTERN,\n"
+"or if -X is given and the extracted comment matches EXTRACTED-COMMENT-PATTERN.\n"
+"\n"
+"When more than one selection criterion is specified, the set of selected\n"
+"messages is the union of the selected messages of each criterion.\n"
+"\n"
+"MSGCTXT-PATTERN or MSGID-PATTERN or MSGSTR-PATTERN or COMMENT-PATTERN or\n"
+"EXTRACTED-COMMENT-PATTERN syntax:\n"
+"  [-E | -F] [-e PATTERN | -f FILE]...\n"
+"PATTERNs are basic regular expressions by default, or extended regular\n"
+"expressions if -E is given, or fixed strings if -F is given.\n"
+"\n"
+"  -N, --location=SOURCEFILE   select messages extracted from SOURCEFILE\n"
+"  -M, --domain=DOMAINNAME     select messages belonging to domain DOMAINNAME\n"
+"  -J, --msgctxt               start of patterns for the msgctxt\n"
+"  -K, --msgid                 start of patterns for the msgid\n"
+"  -T, --msgstr                start of patterns for the msgstr\n"
+"  -C, --comment               start of patterns for the translator's comment\n"
+"  -X, --extracted-comment     start of patterns for the extracted comment\n"
+"  -E, --extended-regexp       PATTERN is an extended regular expression\n"
+"  -F, --fixed-strings         PATTERN is a set of newline-separated strings\n"
+"  -e, --regexp=PATTERN        use PATTERN as a regular expression\n"
+"  -f, --file=FILE             obtain PATTERN from FILE\n"
+"  -i, --ignore-case           ignore case distinctions\n"
+"  -v, --invert-match          output only the messages that do not match any\n"
+"                              selection criterion\n"
+msgstr ""
+"消息选择：\n"
+"  [-N 源文件]... [-M 域名]...\n"
+"  [-J MSGCTXT-模式] [-K MSGID-模式] [-T MSGSTR-模式]\n"
+"  [-C 注释-模式] [-X 提取的注释模式]\n"
+"一个消息将被选出，如果它来自指定的源文件之一，\n"
+"或者如果它来自指定的域之一，\n"
+"或者如果给出 -J 并且它的环境(msgctxt)符合<MSGCTXT-模式>，\n"
+"或者如果给出 -K 并且它的关键字(msgid 或 msgid_plural)符合<MSGID-模式>，\n"
+"或者如果给出 -T 并且它的翻译(msgstr)符合<MSGSTR-模式>，\n"
+"或者如果给出 -C 并且译者的注释符合<注释-模式>，\n"
+"或者如果给出 -X 并且提取的注释符合<提取的注释模式>。\n"
+"\n"
+"如果指定了多余一种选择标准，最后所选择的消息将是每个标准所选择\n"
+"消息的集合。\n"
+"\n"
+"<MSGCTXT-模式>、<MSGID-模式> 或 <MSGSTR-模式>、<注释-模式>、\n"
+"<提取的注释模式> 所使用的语法：\n"
+"  [-E | -F] [-e 模式 | -f 文件]...\n"
+"<模式>默认是指基本的正规表达式，或扩展正规表达式\n"
+"(如果给出 -E 的话)，或者固定的字符串(如果给出 -F 的话)。\n"
+"\n"
+"  -N, --location=源文件       选择的消息提取自<源文件>\n"
+"  -M, --domain=域名           选择的消息属于名为<域名>的域\n"
+"  -J, --msgctxt               msgctxt 的起始\n"
+"  -K, --msgid                 msgid 的起始\n"
+"  -T, --msgstr                msgstr 的起始\n"
+"  -C, --comment               翻译者注释的起始\n"
+"  -X, --extracted-comment     提取的注释的起始\n"
+"  -E, --extended-regexp       <模式>是一个扩展的正规表达式\n"
+"  -F, --fixed-strings         <模式>是一系列互相分开的新字符串行\n"
+"  -e, --regexp=模式           以<模式>作为正规表达式\n"
+"  -f, --file=文件             从<文件>获取<模式>\n"
+"  -i, --ignore-case           忽略大小写区别\n"
+"  -v, --invert-match          仅输出不符合任何条件的消息\n"
+
+msgid "Non-ASCII character at %s%s."
+msgstr "%s%s 处有非 ASCII 码字符。"
+
+msgid "Non-ASCII comment at or before %s%s."
+msgstr "%s%s 处或之前位置有非 ASCII 码注释。"
+
+msgid "Non-ASCII string at %s%s."
+msgstr "%s%s 处有非 ASCII 字符串。"
+
+msgid "Operation mode:\n"
+msgstr "操作模式：\n"
+
+msgid "Operation modifiers:\n"
+msgstr "操作修饰：\n"
+
+msgid "Output details:\n"
+msgstr "输出细节：\n"
+
+msgid ""
+"Output file %s already exists.\n"
+"Please specify the locale through the --locale option or\n"
+"the output .po file through the --output-file option.\n"
+msgstr ""
+"输出文件 %s 已经存在。\n"
+"请通过 --locale 选项指定语系或\n"
+"--output-file 选项指定输出的 .po 文件。\n"
+
+msgid "Output file location in C# mode:\n"
+msgstr "以 C# 模式输出文件位置：\n"
+
+msgid "Output file location in Java mode:\n"
+msgstr "以 Java 模式输出文件位置：\n"
+
+msgid "Output file location in Tcl mode:\n"
+msgstr "以 Tcl 模式输出文件位置：\n"
+
+msgid "Output file location in update mode:\n"
+msgstr "以更新模式输出文件位置：\n"
+
+msgid "Output file location:\n"
+msgstr "输出文件位置：\n"
+
+msgid "Output format:\n"
+msgstr "输出格式：\n"
+
+msgid "Peter Miller"
+msgstr "Peter Miller"
+
+msgid "Please specify the source encoding through --from-code\n"
+msgstr "请用 --from-code 指定源编码\n"
+
+msgid ""
+"Please specify the source encoding through --from-code or through a comment\n"
+"as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"请通过 --from-code 或是注释指定源文件的编码，\n"
+"如 http://www.python.org/peps/pep-0263.html 中所指定的那样。\n"
+
+msgid "Please specify the source encoding through --from-code."
+msgstr "请用 --from-code 指定源编码"
+
+msgid "Print the machine's hostname.\n"
+msgstr "打印机器的主机名。\n"
+
+msgid "Recode Serbian text from Cyrillic to Latin script.\n"
+msgstr "将塞尔维亚语由西里尔文转换为拉丁文。\n"
+
+msgid "Report bugs to <bug-gnu-gettext@gnu.org>.\n"
+msgstr "将错误报告至 <bug-gnu-gettext@gnu.org>。\n"
+
+msgid "Retrieving %s..."
+msgstr "取回 %s..."
+
+msgid ""
+"The -l and -d options are mandatory.  The .dll file is located in a\n"
+"subdirectory of the specified directory whose name depends on the locale.\n"
+msgstr "-l 和 -d 选项是必要的。.dll 文件位于指定目录的子目录，而子目录的名称取决于语系。\n"
+
+msgid ""
+"The -l and -d options are mandatory.  The .dll file is written in a\n"
+"subdirectory of the specified directory whose name depends on the locale.\n"
+msgstr "-l 和 -d 选项是必要的。.dll 文件会写入指定目录的子目录，而子目录的名称取决于语系。\n"
+
+msgid ""
+"The -l and -d options are mandatory.  The .msg file is located in the\n"
+"specified directory.\n"
+msgstr "-l 和 -d 选项是必要的。所生成的 .msg 文件会存放在指定的目录。\n"
+
+msgid ""
+"The -l and -d options are mandatory.  The .msg file is written in the\n"
+"specified directory.\n"
+msgstr "-l 和 -d 选项是必要的。所生成的 .msg 文件会存放在指定的目录。\n"
+
+msgid ""
+"The -l, -o, and --template options are mandatory.  If -D is specified, input\n"
+"files are read from the directory instead of the command line arguments.\n"
+msgstr ""
+"-l，-o 及--temmplate 选项是必须的。若指定了-D，\n"
+"则输入文件从目录读取，而非命令行参数。\n"
+
+msgid ""
+"The FILTER can be any program that reads a translation from standard input\n"
+"and writes a modified translation to standard output.\n"
+msgstr ""
+"FILTER 可以是任何由标准输入读入翻译条目\n"
+"并将修改后的翻译写进标准输出的程序。\n"
+
+msgid ""
+"The backup suffix is '~', unless set with --suffix or the SIMPLE_BACKUP_SUFFIX\n"
+"environment variable.\n"
+msgstr "除非以 --suffix 或 SIMPLE_BACKUP_SUFFIX 环境变量设置, 备份文件后缀总是\"~\"\n"
+
+msgid ""
+"The character that terminates the directive number %u is not a digit between"
+" 1 and 9."
+msgstr "终止第 %u 条指令的字符不是介于 1 和 9 之间的数字。"
+
+msgid ""
+"The character that terminates the directive number %u is not a valid "
+"conversion specifier."
+msgstr "终止第 %u 条指令的字符不是有效的转换指示符。"
+
+msgid ""
+"The class name is determined by appending the locale name to the resource name,\n"
+"separated with an underscore.  The -d option is mandatory.  The class is\n"
+"written under the specified directory.\n"
+msgstr ""
+"类名称是由资源名称连同语系名称共同决定的，两者之间会用下划线分隔。\n"
+"-d 选项是必须的。class 文件会存放在指定的目录。\n"
+
+msgid ""
+"The class name is determined by appending the locale name to the resource name,\n"
+"separated with an underscore.  The class is located using the CLASSPATH.\n"
+msgstr ""
+"类名称是由资源名称连同语系名称共同决定的，两者之间会用下划线分隔。\n"
+"类会使用 CLASSPATH 定位。\n"
+
+msgid "The default encoding is the current locale's encoding.\n"
+msgstr "默认编码为当前区域设置的编码。\n"
+
+msgid ""
+"The directive number %u ends with an invalid character '%c' instead of '}'."
+msgstr "第 %u 条指令中以无效的字符“%c”而非“}”结束。"
+
+msgid "The directive number %u ends with an invalid character instead of '}'."
+msgstr "第 %u 条指令以无效的字符而非“}”结束。"
+
+msgid "The directive number %u starts with | but does not end with |."
+msgstr "第 %u 条指令以“|”开始但并不以“|”。"
+
+msgid ""
+"The following msgctxt contains non-ASCII characters.\n"
+"This will cause problems to translators who use a character encoding\n"
+"different from yours. Consider using a pure ASCII msgctxt instead.\n"
+"%s\n"
+msgstr ""
+"下列 msgctxt 包含非 ASCII 字符。\n"
+"对于与您使用不同字符编码的翻译者来说，这些字符可能造成障碍。请考虑使\n"
+"用纯 ASCII 的 msgctxt。\n"
+"%s\n"
+
+msgid ""
+"The following msgid contains non-ASCII characters.\n"
+"This will cause problems to translators who use a character encoding\n"
+"different from yours. Consider using a pure ASCII msgid instead.\n"
+"%s\n"
+msgstr ""
+"下列 msgid 包含非 ASCII 字符。\n"
+"对于与您使用不同字符编码的翻译者来说，这些字符可能造成障碍。请考虑使\n"
+"用纯 ASCII 的 msgid。\n"
+"%s\n"
+
+msgid ""
+"The input text is read from standard input.  The converted text is output to\n"
+"standard output.\n"
+msgstr "输入文本从标准输入读取。转换后的文本输出到标准输出。\n"
+
+msgid ""
+"The new message catalog should contain your email address, so that users can\n"
+"give you feedback about the translations, and so that maintainers can contact\n"
+"you in case of unexpected technical problems.\n"
+msgstr ""
+"新的翻译库应该包含您的电子邮件地址，这样用户就可以对您的翻译提出意见，\n"
+"同时软件维护者也可以在出现技术问题时联络您。\n"
+
+msgid ""
+"The option --msgid-bugs-address was not specified.\n"
+"If you are using a 'Makevars' file, please specify\n"
+"the MSGID_BUGS_ADDRESS variable there; otherwise please\n"
+"specify an --msgid-bugs-address command line option.\n"
+msgstr ""
+"未指定选项 --msgid-bugs-address。\n"
+"如果您正在使用“Makevars”文件，请指定\n"
+" MSGID_BUGS_ADDRESS 变量；\n"
+"否则，请指定 --msgid-bugs-address 命令行选项。\n"
+
+msgid "The result is written back to def.po.\n"
+msgstr "结果将写回 def.po 中。\n"
+
+msgid ""
+"The results are written to standard output if no output file is specified\n"
+"or if it is -.\n"
+msgstr "如果没有指定输出文件或输出文件是 -，则将结果写入至标准输出。\n"
+
+msgid "The string contains a lone '}' after directive number %u."
+msgstr "第 %u 条指令之后的字符串包含独立的“}”。"
+
+msgid "The string ends in the middle of a directive."
+msgstr "字符串于指令中间结束。"
+
+msgid ""
+"The string ends in the middle of a directive: found '{' without matching "
+"'}'."
+msgstr "指令中间字符串发生中断：发现了“{”但没有匹配的“}”。"
+
+msgid "The string ends in the middle of a ~/.../ directive."
+msgstr "字符串在 ~/.../ 指令中间中断。"
+
+msgid ""
+"The string refers to a shell variable whose value may be different inside "
+"shell functions."
+msgstr "字符串引用的 shell 变量值可能在 shell 函数中有所不同。"
+
+msgid "The string refers to a shell variable with a non-ASCII name."
+msgstr "字符串以非 ASCII 名称引用 shell 变量。"
+
+msgid "The string refers to a shell variable with an empty name."
+msgstr "字符串以空名称引用 shell 变量。"
+
+msgid ""
+"The string refers to a shell variable with complex shell brace syntax. This "
+"syntax is unsupported here due to security reasons."
+msgstr "字符串引用的 shell 变量中大括号语法过于复杂。为安全起见，此语法不被支持。"
+
+msgid ""
+"The string refers to argument number %u but ignores argument number %u."
+msgstr "字符串引用了第 %u 个参数但是却忽略了第 %u 个参数。"
+
+msgid ""
+"The string refers to argument number %u but ignores the arguments %u and %u."
+msgstr "字符串引用了第 %u 个参数但是却忽略了第 %u 个和第 %u 个参数。"
+
+msgid "The string refers to argument number %u in incompatible ways."
+msgstr "字符串引用第 %u 个参数的方法不兼容。"
+
+msgid ""
+"The string refers to arguments both through absolute argument numbers and "
+"through unnumbered argument specifications."
+msgstr "字符串同时使用两种方式引用了参数：绝对参数编号和未编号参数指定符。"
+
+msgid ""
+"The string refers to arguments both through argument names and through "
+"unnamed argument specifications."
+msgstr "字符串同时使用两种方式引用了参数：通过参数名称和未命名参数指定符。"
+
+msgid "The string refers to some argument in incompatible ways."
+msgstr "字符串引用某些参数的方式不兼容。"
+
+msgid "The string refers to the argument named '%s' in incompatible ways."
+msgstr "字符串对名为“%s”的参数引用方式不兼容。"
+
+msgid ""
+"The string starts in the middle of a directive: found '}' without matching "
+"'{'."
+msgstr "指令中间开始字符串：发现了“}”但没有匹配的“{”。"
+
+msgid ""
+"The version control method may be selected via the --backup option or through\n"
+"the VERSION_CONTROL environment variable.  Here are the values:\n"
+"  none, off       never make backups (even if --backup is given)\n"
+"  numbered, t     make numbered backups\n"
+"  existing, nil   numbered if numbered backups exist, simple otherwise\n"
+"  simple, never   always make simple backups\n"
+msgstr ""
+"版本控制方式可以通过 --backup 选项或者 VERSION_CONTROL 环境变量选择。\n"
+"以下列出了所有的值：\n"
+"  none, off       从不备份(就算给出了 --backup 选项也不备份)\n"
+"  numbered, t     制作编号的备份\n"
+"  existing, nil   如果编号备份存在则继续编号，否则执行简单备份\n"
+"  simple, never   总是制作简单的备份\n"
+
+msgid "Try '%s --help' for more information.\n"
+msgstr "试试“%s --help”查看帮助信息。\n"
+
+msgid "Try using the following, valid for %s:"
+msgstr "请尝试使用下面的，对 %s 是有效的："
+
+msgid "Ulrich Drepper"
+msgstr "Ulrich Drepper"
+
+msgid ""
+"Unifies duplicate translations in a translation catalog.\n"
+"Finds duplicate translations of the same message ID.  Such duplicates are\n"
+"invalid input for other programs like msgfmt, msgmerge or msgcat.  By\n"
+"default, duplicates are merged together.  When using the --repeated option,\n"
+"only duplicates are output, and all other messages are discarded.  Comments\n"
+"and extracted comments will be cumulated, except that if --use-first is\n"
+"specified, they will be taken from the first translation.  File positions\n"
+"will be cumulated.  When using the --unique option, duplicates are discarded.\n"
+msgstr ""
+"统一翻译库中重复的翻译。\n"
+"查找消息 ID 相同的重复翻译。这样的重复项对于其它像 msgfmt，msgmerge 或 msgcat\n"
+"这样的程序来说是无效的输入。默认情况下，会对重复项进行合并。如果使用了命令行\n"
+"选项 --repeated，则只会输出重复项，所有其它消息都将被忽略。注释和提取的注释将\n"
+"累积起来，但如果指定了 --use-first 选项，则会从第一个翻译中取得注释。文件位置\n"
+"将会累积。如果使用了 --unique 选项，重复项将会被忽略。\n"
+
+msgid "Unknown encoding \"%s\". Proceeding with ASCII instead."
+msgstr "未知编码“%s”。先按照 ASCII 处理。"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Usage: %s [OPTION]\n"
+msgstr "用法：%s [选项]\n"
+
+msgid "Usage: %s [OPTION] COMMAND [COMMAND-OPTION]\n"
+msgstr "用法：%s [选项] 命令 [命令选项]\n"
+
+msgid "Usage: %s [OPTION] FILTER [FILTER-OPTION]\n"
+msgstr "用法：%s [选项] FILTER [FILTER-OPTION]\n"
+
+msgid "Usage: %s [OPTION] INPUTFILE\n"
+msgstr "用法：%s [选项] 输入文件\n"
+
+msgid "Usage: %s [OPTION] URL FILE\n"
+msgstr "用法：%s [选项] URL 文件\n"
+
+msgid "Usage: %s [OPTION] [FILE]...\n"
+msgstr "用法：%s [选项] [文件]...\n"
+
+msgid "Usage: %s [OPTION] [INPUTFILE]\n"
+msgstr "用法：%s [选项] [输入文件]\n"
+
+msgid "Usage: %s [OPTION] [INPUTFILE]...\n"
+msgstr "用法：%s [选项] [输入文件]...\n"
+
+msgid "Usage: %s [OPTION] def.po ref.pot\n"
+msgstr "用法：%s [选项] def.po ref.pot\n"
+
+msgid "Usage: %s [OPTION] filename.po ...\n"
+msgstr "用法：%s [选项] filename.po ...\n"
+
+msgid "Useful FILTER-OPTIONs when the FILTER is 'sed':\n"
+msgstr "FILTER设为“sed”是有用的FILTER-OPTION:\n"
+
+msgid "Valid arguments are:"
+msgstr "有效的参数为:"
+
+msgid "Written by %s and %s.\n"
+msgstr "由 %s 和 %s 编写。\n"
+
+msgid "Written by %s.\n"
+msgstr "由 %s 编写。\n"
+
+msgid ""
+"You are in a language indifferent environment.  Please set\n"
+"your LANG environment variable, as described in the ABOUT-NLS\n"
+"file.  This is necessary so you can test your translations.\n"
+msgstr ""
+"系统环境没有任何和语言有关的设置。请根据 ABOUT-NLS 文件所述，\n"
+"设置 LANG 环境变量。这是测试翻译前的必要步骤。\n"
+
+msgid "_open_osfhandle failed"
+msgstr "_open_osfhandle 失败"
+
+msgid "`"
+msgstr "“"
+
+msgid "a format specification for argument %u doesn't exist in '%s'"
+msgstr "参数 %u 的格式指定符在“%s”中不存在"
+
+msgid ""
+"a format specification for argument %u, as in '%s', doesn't exist in '%s'"
+msgstr "参数\"%u\"(如同\"%s\")的格式指定在\"%s\"中不存在"
+
+msgid "a format specification for argument '%s' doesn't exist in '%s'"
+msgstr "参数“%s”的格式指定符未在“%s”中找到"
+
+msgid ""
+"a format specification for argument '%s', as in '%s', doesn't exist in '%s'"
+msgstr "参数\"%s\"(如同\"%s\")的格式指定在\"%s\"中不存在"
+
+msgid "a format specification for argument {%u} doesn't exist in '%s'"
+msgstr "参数 {%u} 中未在“%s”中找到"
+
+msgid ""
+"a format specification for argument {%u}, as in '%s', doesn't exist in '%s'"
+msgstr "参数{%u}(如同\"%s\")的格式指定在\"%s\"中不存在"
+
+msgid ""
+"a format specification for arguments %u and %u doesn't exist in '%s', only "
+"one argument may be ignored"
+msgstr "参数%u 和%u 的格式定义在“%s”中不存在，仅可忽略一个参数"
+
+msgid "ambiguous argument %s for %s"
+msgstr "%2$s 的参数 %1$s 有歧义"
+
+msgid "ambiguous argument specification for keyword '%.*s'"
+msgstr "关键字“%.*s”的参数指定含糊"
+
+msgid "at least one sed script must be specified"
+msgstr "必须指定至少一个 sed 脚本"
+
+msgid "at least two files must be specified"
+msgstr "需要至少指定两个文件"
+
+msgid "at most one input file allowed"
+msgstr "允许最多一个输入文件"
+
+msgid "backup type"
+msgstr "备份类型"
+
+msgid "but header entry lacks a \"nplurals=INTEGER\" attribute"
+msgstr "但是文件头项中缺少“nplural=整数”属性"
+
+msgid "but header entry lacks a \"plural=EXPRESSION\" attribute"
+msgstr "但是文件头项中缺少“plural=表达式”属性"
+
+msgid "but some messages have one plural form"
+msgid_plural "but some messages have %lu plural forms"
+msgstr[0] "但是某些消息有 %lu 种复数形式"
+
+msgid "but some messages have only one plural form"
+msgid_plural "but some messages have only %lu plural forms"
+msgstr[0] "但是某些消息只有 %lu 种复数形式"
+
+msgid "cannot create a temporary directory using template \"%s\""
+msgstr "无法用“%s”模板创建临时目录"
+
+msgid "cannot create output file \"%s\""
+msgstr "无法创建输出文件“%s”"
+
+msgid "cannot create pipe"
+msgstr "无法创建管道"
+
+msgid "cannot find a temporary directory, try setting $TMPDIR"
+msgstr "无法找到临时目录，请尝试设置 $TMPDIR 变量"
+
+msgid "cannot open backup file %s for writing"
+msgstr "无法写入备份文件 %s"
+
+msgid "cannot remove temporary directory %s"
+msgstr "无法删除临时目录 %s"
+
+msgid "cannot remove temporary file %s"
+msgstr "无法删除临时文件 %s"
+
+msgid "cannot restore fd %d: dup2 failed"
+msgstr "无法还原文件描述符 %d: dup2 错误"
+
+msgid "cannot set up nonblocking I/O to %s subprocess"
+msgstr "无法为 %s 子进程创建非专用的 I/O"
+
+msgid "communication with %s subprocess failed"
+msgstr "和 %s 子进程通讯时出现错误"
+
+msgid "compilation of C# class failed"
+msgstr "编译 C# 类失败"
+
+msgid "compilation of C# class failed, please try --verbose"
+msgstr "编译 C# 类失败，试试 --verbose"
+
+msgid "compilation of Java class failed, please try --verbose or set $JAVAC"
+msgstr "编译 Java 类失败，试试 --verbose 或设置 $JAVAC 变量"
+
+msgid "compilation of Java class failed, please try to set $JAVAC"
+msgstr "编译 Java 类失败，请尝试设置 $JAVAC 变量"
+
+msgid "context mismatch between singular and plural form"
+msgstr "单数和复数的上下文不匹配"
+
+msgid "context separator <EOT> within string"
+msgstr "上下文分隔符 <EOT> 出现于字符串中"
+
+msgid "could not get host name"
+msgstr "无法获得主机名"
+
+msgid "creation of threads failed"
+msgstr "线程创建失败"
+
+msgid ""
+"domain \"%s\" in input file '%s' doesn't contain a header entry with a "
+"charset specification"
+msgstr "输入文件“%2$s”的域“%1$s”不包含指定字符集的文件头项"
+
+msgid "domain name \"%s\" not suitable as file name"
+msgstr "域名“%s”无法用于文件名"
+
+msgid "domain name \"%s\" not suitable as file name: will use prefix"
+msgstr "域名“%s”无法用于文件名：将使用前缀"
+
+msgid "duplicate message definition"
+msgstr "重复的消息定义"
+
+msgid "empty 'msgstr' entry ignored"
+msgstr "忽略了空的“msgstr”项"
+
+msgid "end-of-file within string"
+msgstr "字符串内遇到文件尾"
+
+msgid "end-of-line within string"
+msgstr "字符串内遇到行尾"
+
+msgid "error after reading \"%s\""
+msgstr "读取“%s”后出错"
+
+msgid "error after reading %s"
+msgstr "读取 %s 后出错"
+
+msgid "error reading \"%s\""
+msgstr "读取“%s”出错"
+
+msgid "error reading %s"
+msgstr "读取 %s 出错"
+
+msgid "error reading current directory"
+msgstr "读取当前的目录时发生错误"
+
+msgid "error while converting from \"%s\" encoding to \"%s\" encoding"
+msgstr "从“%s”转换为“%s”编码时出错"
+
+msgid "error while opening \"%s\" for reading"
+msgstr "打开“%s”读取时出错"
+
+msgid "error while opening \"%s\" for writing"
+msgstr "打开“%s”写入出错"
+
+msgid "error while opening %s for reading"
+msgstr "读取 %s 时出错"
+
+msgid "error while parsing: %s"
+msgstr "错误，正处理: %s"
+
+msgid "error while reading \"%s\""
+msgstr "读取“%s”出错"
+
+msgid "error while writing \"%s\" file"
+msgstr "写入“%s”出错"
+
+msgid "error while writing to %s subprocess"
+msgstr "写入 %s 子进程出错"
+
+msgid "error writing %s"
+msgstr "写入 %s 出错"
+
+msgid "error writing stdout"
+msgstr "写入 stdout 出错"
+
+msgid "exactly 2 input files required"
+msgstr "需要两个输入文件"
+
+msgid "exactly one input file required"
+msgstr "需要一个输入文件"
+
+msgid "expected two arguments"
+msgstr "需要两个参数"
+
+msgid "failed to create \"%s\""
+msgstr "创建“%s”失败"
+
+msgid "failed to create directory \"%s\""
+msgstr "创建目录“%s”失败"
+
+msgid "fdopen() failed"
+msgstr "fdopen() 失败"
+
+msgid "file \"%s\" contains a not NUL terminated string"
+msgstr "文件“%s”包含非 NUL 结束的字符串"
+
+msgid "file \"%s\" contains a not NUL terminated string, at %s"
+msgstr "文件“%s”包含非 NUL 结尾的字符串，位于 %s"
+
+msgid "file \"%s\" is not in GNU .mo format"
+msgstr "文件“%s”不是 GNU .mo 格式"
+
+msgid "file \"%s\" is truncated"
+msgstr "文件“%s”被截断"
+
+msgid "filter output is not terminated with a newline"
+msgstr "filter 输出未以换行符终止"
+
+msgid "first plural form has nonzero index"
+msgstr "复数格式的第一项索引非零"
+
+msgid "format specifications in '%s' and '%s' are not equivalent"
+msgstr "“%s”和“%s”中的格式指定符不同"
+
+msgid ""
+"format specifications in '%s' and '%s' for argument %u are not the same"
+msgstr "参数 %3$u 的指定格式在“%1$s”和“%2$s”中不同"
+
+msgid ""
+"format specifications in '%s' and '%s' for argument '%s' are not the same"
+msgstr "“%s”和“%s”中对参数“%s”的格式指定不同"
+
+msgid ""
+"format specifications in '%s' and '%s' for argument {%u} are not the same"
+msgstr "参数 {%3$u} 在“%1$s”和“%2$s”中的格式指定不相同"
+
+msgid "format specifications in '%s' are not a subset of those in '%s'"
+msgstr "“%s”中的格式指定符不是“%s”格式指定符的子集"
+
+msgid ""
+"format specifications in '%s' expect a mapping, those in '%s' expect a tuple"
+msgstr "“%s”中的格式指定符需要映射，而“%s”中的格式指定符需要元组"
+
+msgid ""
+"format specifications in '%s' expect a tuple, those in '%s' expect a mapping"
+msgstr "“%s”中的格式指定符需要元组，而“%s”中的格式指定符需要映射"
+
+msgid "found %d fatal error"
+msgid_plural "found %d fatal errors"
+msgstr[0] "发现 %d 处致命错误"
+
+msgid "fuzzy 'msgstr' entry ignored"
+msgstr "忽略了模糊的“msgstr”项"
+
+msgid "header field '%s' missing in header\n"
+msgstr "头部缺少文件头“%s”\n"
+
+msgid "header field '%s' still has the initial default value\n"
+msgstr "文件头“%s”仍然是默认值未改变\n"
+
+msgid "iconv failure"
+msgstr "iconv 失败"
+
+msgid "impossible selection criteria specified (%d < n < %d)"
+msgstr "不可能出现的选择条件 (%d < n < %d)"
+
+msgid "incomplete multibyte sequence"
+msgstr "不完整的多字节序列"
+
+msgid "incomplete multibyte sequence at end of file"
+msgstr "在文件尾发现不完整的多字节序列"
+
+msgid "incomplete multibyte sequence at end of line"
+msgstr "在行尾发现不完整的多字节序列"
+
+msgid "inconsistent use of #~"
+msgstr "#~ 使用不一致"
+
+msgid ""
+"input file '%s' doesn't contain a header entry with a charset specification"
+msgstr "输入文件“%s”不包含指定字符集的文件头项"
+
+msgid "input file doesn't contain a header entry with a charset specification"
+msgstr "输入文件不包含指定字符集的文件头项"
+
+msgid "input is not valid in \"%s\" encoding"
+msgstr "输入无法用“%s”编码表示"
+
+msgid "internationalized messages should not contain the '\\%c' escape sequence"
+msgstr "国际化的消息不应包含“\\%c”转码序列"
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s 的参数 %1$s 无效"
+
+msgid "invalid control sequence"
+msgstr "无效的控制序列"
+
+msgid "invalid endianness: %s"
+msgstr "无效的 endianness：%s"
+
+msgid "invalid multibyte sequence"
+msgstr "无效的多字节序列"
+
+msgid "invalid nplurals value"
+msgstr "nplurals 值无效"
+
+msgid "invalid plural expression"
+msgstr "plural 表达式无效"
+
+msgid "invalid source_version argument to compile_java_class"
+msgstr "compile_java_class 中有无效的 source_version 参数"
+
+msgid "invalid target_version argument to compile_java_class"
+msgstr "compile_java_class 中有无效的 target_version 参数"
+
+msgid "keyword \"%s\" unknown"
+msgstr "关键字“%s”未知"
+
+msgid "language '%s' unknown"
+msgstr "语言“%s”未知"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid ""
+"message catalog has context dependent translations\n"
+"but the C# .resources format doesn't support contexts\n"
+msgstr ""
+"消息库有依赖上下文的翻译\n"
+"但是 C# .resources 格式不支持上下文\n"
+
+msgid ""
+"message catalog has context dependent translations\n"
+"but the Tcl message catalog format doesn't support contexts\n"
+msgstr ""
+"消息库有依赖上下文的翻译\n"
+"但是 Tcl 消息库不支持上下文\n"
+
+msgid ""
+"message catalog has context dependent translations, but the output format "
+"does not support them."
+msgstr "消息库有依赖上下文的翻译，但是输出格式不支持上下文。"
+
+msgid ""
+"message catalog has msgctxt strings containing characters outside ISO-8859-1\n"
+"but the Qt message catalog format supports Unicode only in the translated\n"
+"strings, not in the context strings\n"
+msgstr ""
+"消息库中的 msgctxt 字符串包含超出 ISO-8859-1 的字符，但 Qt 消息库格式仅在翻译\n"
+"后的字符串中支持 Unicode，在翻译前的字符串中不支持\n"
+
+msgid ""
+"message catalog has msgid strings containing characters outside ISO-8859-1\n"
+"but the Qt message catalog format supports Unicode only in the translated\n"
+"strings, not in the untranslated strings\n"
+msgstr ""
+"消息库中的 msgid 字符串包含超出 ISO-8859-1 的字符，但 Qt 消息库格式仅在翻译\n"
+"后的字符串中支持 Unicode，在翻译前的字符串中不支持\n"
+
+msgid "message catalog has plural form translations"
+msgstr "消息库有复数形式的翻译"
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the C# .resources format doesn't support plural handling\n"
+msgstr ""
+"消息库有复数翻译\n"
+"但是 C# .resources 格式不支持复数处理\n"
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the Qt message catalog format doesn't support plural handling\n"
+msgstr ""
+"消息库有复数翻译\n"
+"但是 Qt 消息库不支持复数处理\n"
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the Tcl message catalog format doesn't support plural handling\n"
+msgstr ""
+"消息库有复数翻译\n"
+"但是 Tcl 消息库不支持复数处理\n"
+
+msgid ""
+"message catalog has plural form translations, but lacks a header entry with "
+"\"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\""
+msgstr ""
+"翻译库包含复数形式的翻译，但缺少以下的文件头项：\n"
+"“Plural-Forms: nplurals=<整数>; plural=<表达式>;”"
+
+msgid ""
+"message catalog has plural form translations, but the output format does not"
+" support them."
+msgstr "消息库有复数翻译，但是输出格式不支持复数处理。"
+
+msgid ""
+"message catalog has plural form translations, but the output format does not"
+" support them. Try generating a Java class using \"msgfmt --java\", instead "
+"of a properties file."
+msgstr "消息库有复数翻译，但输出格式不支持复数。试着使用“msgfmt --java”生成 Java 类，而不是 properties 文件。"
+
+msgid "missing 'msgid_plural' section"
+msgstr "缺少“msgid_plural”区"
+
+msgid "missing 'msgstr' section"
+msgstr "缺少“msgstr”区"
+
+msgid "missing 'msgstr[]' section"
+msgstr "缺少“msgstr[]”区"
+
+msgid "missing command name"
+msgstr "丢失命令名"
+
+msgid "missing filter name"
+msgstr "缺少过滤器名称"
+
+msgid "msgstr has too many keyboard accelerator marks '%c'"
+msgstr "msgstr 包含过多的快捷键标记“%c”"
+
+msgid "msgstr lacks the keyboard accelerator mark '%c'"
+msgstr "msgstr 缺少快捷键标记“%c”"
+
+msgid "no input file given"
+msgstr "没有给出输入文件"
+
+msgid "no input file should be given if %s and %s are specified"
+msgstr "若指定了%s 和%s，则无需指定输入文件"
+
+msgid "no input files given"
+msgstr "没有给出输入文件"
+
+msgid "not a valid Java class name: %s"
+msgstr "不是有效的 Java 类名：%s"
+
+msgid "nplurals = %lu"
+msgstr "nplurals = %lu"
+
+msgid ""
+"nplurals = %lu but plural expression can produce values as large as %lu"
+msgstr "nplurals = %lu，但复数表达式的最大值可能等于 %lu"
+
+msgid "number of format specifications in '%s' and '%s' does not match"
+msgstr "“%s”和“%s”中的指定格式数量不匹配"
+
+msgid ""
+"option '%c' cannot be used before 'J' or 'K' or 'T' or 'C' or 'X' has been "
+"specified"
+msgstr "未指定“J”、“K”、“T”、“C”或“X”前不能使用选项“%c”"
+
+msgid ""
+"plural expression can produce arithmetic exceptions, possibly division by "
+"zero"
+msgstr "复数表达式将引起算术异常，可能被零除"
+
+msgid "plural expression can produce division by zero"
+msgstr "复数表达式将导致被零除"
+
+msgid "plural expression can produce integer overflow"
+msgstr "复数表达式将引起整数溢出"
+
+msgid "plural expression can produce negative values"
+msgstr "复数表达式将导致负值"
+
+msgid "plural form has wrong index"
+msgstr "复数形式的索引出错"
+
+msgid "plural handling is a GNU gettext extension"
+msgstr "复数处理是 GNU gettext 的扩展功能"
+
+msgid "present charset \"%s\" is not a portable encoding name"
+msgstr "当前的字符集编码“%s”不是通用的编码名称"
+
+msgid "preserving permissions for %s"
+msgstr "保存 %s 的权限"
+
+msgid "read from %s subprocess failed"
+msgstr "由 %s 子进程读入数据时出现错误"
+
+msgid "sentence end type '%s' unknown"
+msgstr "句子结尾类型“%s”未知"
+
+msgid "setting permissions for %s"
+msgstr "设置 %s 的权限"
+
+msgid "space before ellipsis found in user visible strings"
+msgstr "在用户可见字符串中的省略号前发现了空格"
+
+msgid "standard input"
+msgstr "标准输入"
+
+msgid "standard output"
+msgstr "标准输出"
+
+msgid "syntax check '%s' unknown"
+msgstr "语法检查“%s”未知"
+
+msgid "target charset \"%s\" is not a portable encoding name."
+msgstr "目标字符集编码“%s”不是通用的编码名称。"
+
+msgid "the argument to %s should be a single punctuation character"
+msgstr "%s 的参数应该是一个标点符号"
+
+msgid "this file may not contain domain directives"
+msgstr "此文件可能不包含域指令"
+
+msgid "this is the location of the first definition"
+msgstr "这是第一次定义的位置"
+
+msgid "this message is untranslated"
+msgstr "此消息未翻译"
+
+msgid "this message is used but not defined in %s"
+msgstr "此消息已使用，但未定义于 %s 中"
+
+msgid "this message is used but not defined..."
+msgstr "此消息使用了但却未定义..."
+
+msgid "this message needs to be reviewed by the translator"
+msgstr "此条目需要由翻译者复审"
+
+msgid "this message should define plural forms"
+msgstr "此消息应定义复数形式"
+
+msgid "this message should not define plural forms"
+msgstr "此消息不应定义复数形式"
+
+msgid "too many arguments"
+msgstr "参数太多"
+
+msgid "too many errors, aborting"
+msgstr "错误太多，中止"
+
+msgid "two different charsets \"%s\" and \"%s\" in input file"
+msgstr "输入文件中出现了两种不同的字符集“%s”和“%s”"
+
+msgid "warning: "
+msgstr "警告： "
+
+msgid "warning: PO file header fuzzy\n"
+msgstr "警告：PO 文件头模糊\n"
+
+msgid "warning: PO file header missing or invalid\n"
+msgstr "警告：PO 文件头丢失或无效\n"
+
+msgid "warning: charset conversion will not work\n"
+msgstr "警告：字符集转换无法工作\n"
+
+msgid "warning: file '%s' extension '%s' is unknown; will try C"
+msgstr "警告：文件“%s”扩展名“%s”未知; 将试试 C"
+
+msgid "warning: invalid Unicode character"
+msgstr "警告：无效的 Unicode 字符"
+
+msgid "warning: invalid \\uxxxx syntax for Unicode character"
+msgstr "警告：Unicode 字符语法 \\uxxxx 无效"
+
+msgid "warning: missing context for keyword '%.*s'"
+msgstr "警告：关键字“%.*s”缺少上下文"
+
+msgid "warning: missing context for plural argument of keyword '%.*s'"
+msgstr "警告：关键字“%.*s”缺少复数参数上下文"
+
+msgid "warning: older versions of msgfmt will give an error on this\n"
+msgstr "警告：旧版本的 msgfmt 将在此时给出错误\n"
+
+msgid "warning: syntax error"
+msgstr "警告：语法错误"
+
+msgid "warning: syntax error, expected ';' after string"
+msgstr "警告：语法错误，字符串后期待“;”"
+
+msgid "warning: syntax error, expected '=' or ';' after string"
+msgstr "警告：语法错误，字符串后期待“=”或“;”"
+
+msgid "warning: this message is not used"
+msgstr "警告：此消息未使用"
+
+msgid "warning: unterminated key/value pair"
+msgstr "警告：未结束的关键字/值对"
+
+msgid "warning: unterminated string"
+msgstr "警告：未结束的字符串"
+
+msgid "write error"
+msgstr "写错误"
+
+msgid "write to %s subprocess failed"
+msgstr "写入 %s 子进程失败"
+
+msgid "write to stdout failed"
+msgstr "写入 stdout 失败"
+
+msgid "xgettext cannot work without keywords to look for"
+msgstr "没有指定关键字 xgettext 将无法工作"

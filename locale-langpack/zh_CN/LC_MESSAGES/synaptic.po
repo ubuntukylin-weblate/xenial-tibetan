@@ -1,0 +1,2452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: synaptic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-11 10:17+0100\n"
+"PO-Revision-Date: 2011-05-14 04:56+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 16567)\n"
+"X-Launchpad-Export-Date: 2013-04-19 04:34+0000\n"
+
+msgid "\t%s %s but %s is to be installed"
+msgstr "\t%s %s 但是 %s 将会被安装"
+
+msgid "\t%s %s but it is not installable"
+msgstr "\t%s %s 但是此软件包不能安装"
+
+msgid "\t%s but it is a virtual package"
+msgstr "\t%s 但是此软件包是一个虚拟软件包"
+
+msgid "\t%s but it is not going to be installed"
+msgstr "\t%s 但是此软件包将不会被安装"
+
+msgid ""
+"\n"
+"%s have to be downloaded"
+msgstr ""
+"\n"
+"必须下载 %s"
+
+msgid ""
+"\n"
+"Completely removed the following packages:\n"
+msgstr ""
+"\n"
+"已完全删除下列软件包：\n"
+
+msgid ""
+"\n"
+"Downgraded the following packages:\n"
+msgstr ""
+"\n"
+"已降级下列软件包：\n"
+
+msgid ""
+"\n"
+"Installed the following packages:\n"
+msgstr ""
+"\n"
+"已安装下列软件包：\n"
+
+msgid ""
+"\n"
+"Not all changes and updates succeeded. For further details of the failure, please expand the 'Details' panel below."
+msgstr ""
+"\n"
+"更改和更新并未全部成功。有关失败的细节，请展开下面的“细节”面板查看。"
+
+msgid ""
+"\n"
+"Package %s has no available version, but exists in the database.\n"
+"This typically means that the package was mentioned in a dependency and never uploaded, has been obsoleted or is not available with the contents of sources.list\n"
+msgstr ""
+"\n"
+"尽管软件库包含软件包 %s 的记录，但是并没有可用的版本。\n"
+"一般情况下，这说明该软件包曾经在一个依赖关系中被依赖并且并未上载过该软件包，现在已经过时或者从 sources.list 目录中无法获得。\n"
+
+msgid ""
+"\n"
+"Reinstalled the following packages:\n"
+msgstr ""
+"\n"
+"已重新安装下列软件包：\n"
+
+msgid ""
+"\n"
+"Removed the following ESSENTIAL packages:\n"
+msgstr ""
+"\n"
+"已删除下列重要软件包：\n"
+
+msgid ""
+"\n"
+"Removed the following packages:\n"
+msgstr ""
+"\n"
+"已删除下列软件包：\n"
+
+msgid ""
+"\n"
+"Successfully applied all changes. You can close the window now."
+msgstr ""
+"\n"
+"成功完成操作，您现在可以关闭本窗口。"
+
+msgid ""
+"\n"
+"Successfully installed all packages of the current medium. To continue the installation with the next medium close this window."
+msgstr ""
+"\n"
+"成功安装当前媒介的全部软件包。请关闭此窗口从下一媒介继续安装。"
+
+msgid ""
+"\n"
+"Upgraded the following packages:\n"
+msgstr ""
+"\n"
+"已升级下列软件包：\n"
+
+msgid ""
+"\n"
+"While installing package %s:\n"
+"\n"
+msgstr ""
+"\n"
+"当安装软件包 %s 的时候：\n"
+"\n"
+
+msgid ""
+"\n"
+"While preparing for installation:\n"
+"\n"
+msgstr ""
+"\n"
+"当准备安装的时候：\n"
+"\n"
+
+msgid " "
+msgstr " "
+
+msgid "    "
+msgstr "    "
+
+msgid " %s: %s %s but %s is to be installed"
+msgstr " %s: %s %s 但是 %s 将会被安装"
+
+msgid " or"
+msgstr " 或者"
+
+msgid "%d new package will be installed\n"
+msgid_plural "%d new packages will be installed\n"
+msgstr[0] "%d 个新软件包将被安装\n"
+
+msgid "%d new package will be re-installed\n"
+msgid_plural "%d new packages will be re-installed\n"
+msgstr[0] "%d 个新软件包将被重新安装\n"
+
+msgid "%d package is locked\n"
+msgid_plural "%d packages are locked\n"
+msgstr[0] "%d 个软件包已锁定\n"
+
+msgid "%d package will be <b>downgraded</b>\n"
+msgid_plural "%d packages will be <b>downgraded</b>\n"
+msgstr[0] "%d 个软件包将被<b>降级</b>\n"
+
+msgid "%d package will be held back and not upgraded\n"
+msgid_plural "%d packages will be held back and not upgraded\n"
+msgstr[0] "%d 个软件包将保持原样不升级\n"
+
+msgid "%d package will be removed\n"
+msgid_plural "%d packages will be removed\n"
+msgstr[0] "%d 个软件包将被删除\n"
+
+msgid "%d package will be upgraded\n"
+msgid_plural "%d packages will be upgraded\n"
+msgstr[0] "%d 个软件包将被升级\n"
+
+msgid ""
+"%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
+"remove"
+msgstr "共列出 %i 个软件包，已安装 %i 个，已破损 %i 个。将安装/升级 %i 个软件包，将删除 %i 个软件包"
+
+msgid ""
+"%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
+"remove; %s will be freed"
+msgstr "共列出 %i 个软件包，已安装 %i 个，已破损 %i 个。将安装/升级 %i 个软件包，将删除 %i 个软件包；将释放 %s 磁盘空间。"
+
+msgid ""
+"%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
+"remove; %s will be used"
+msgstr "共列出 %i 个软件包，已安装 %i 个，已破损 %i 个。将安装/升级 %i 个软件包，将删除 %i 个软件包；将占据 %s 磁盘空间。"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s Changelog"
+msgstr "%s 变更日志"
+
+msgid "%s Properties"
+msgstr "%s 属性"
+
+msgid "%s of extra space will be freed"
+msgstr "%s 额外空间将被释放"
+
+msgid "%s of extra space will be used"
+msgstr "%s 额外空间将被使用"
+
+msgid "%s: %s but it is a virtual package"
+msgstr "%s: %s 但是此软件包是一个虚拟软件包"
+
+msgid "%s: %s but it is not going to be installed"
+msgstr "%s: %s 但是此软件包将不会被安装"
+
+msgid "(no vendor)"
+msgstr "(无特定发行商)"
+
+msgid "--add-cdrom Add a cdrom at startup (needs path for cdrom)\n"
+msgstr "--add-cdrom 启动时添加一个 CDROM (需要 CDROM 的路径)\n"
+
+msgid "--ask-cdrom Ask for adding a cdrom and exit\n"
+msgstr "--ask-cdrom 要求添加一个 CDROM 然后退出\n"
+
+msgid "--dist-upgrade-mode  Call DistUpgrade and display changes\n"
+msgstr "--dist-upgrade-mode  调用智能升级并显示变更\n"
+
+msgid "--non-interactive Never prompt for user input\n"
+msgstr "--non-interactive 对用户的输入不给提示\n"
+
+msgid "--task-window Open with task window\n"
+msgstr "--task-window 使用任务窗口打开\n"
+
+msgid "--test-me-harder  Run test in a loop\n"
+msgstr "--test-me-harder 循环运行测试\n"
+
+msgid "--update-at-startup  Call \"Reload\" on startup\n"
+msgstr "--update-at-startup  启动时调用“刷新”\n"
+
+msgid "--upgrade-mode  Call Upgrade and display changes\n"
+msgstr "--upgrade-mode  调用升级并显示变更\n"
+
+msgid "-f=? Give an alternative filter file\n"
+msgstr "-f=? 给出一个替代的过滤器文件\n"
+
+msgid "-h   This help text\n"
+msgstr "-h   显示此帮助\n"
+
+msgid "-i=? Start with the initial Filter with given name\n"
+msgstr "-i=? 使用具有给出名称的初始过滤器开始\n"
+
+msgid "-r   Open in the repository screen\n"
+msgstr "-r   在软件仓库窗口里打开\n"
+
+msgid ""
+"-t   Give an alternative main window title (e.g. hostname with `uname -n`)\n"
+msgstr "-t   给出替代的主窗口标题(即主机名和 `uname -n` 的输出)\n"
+
+msgid "<b>%s</b> (<b>essential</b>) will be removed\n"
+msgstr "<b>%s</b> (<b>必需的</b>) 将被删除！\n"
+
+msgid "<b>%s</b> (version <i>%s</i>) will be installed\n"
+msgstr "<b>%s</b> (版本 <i>%s</i>) 将被安装\n"
+
+msgid "<b>%s</b> (version <i>%s</i>) will be re-installed\n"
+msgstr "<b>%s</b> (版本 <i>%s</i>) 将被重新安装\n"
+
+msgid "<b>%s</b> (version <i>%s</i>) will be upgraded to version <i>%s</i>\n"
+msgstr "<b>%s</b> (版本 <i>%s</i>) 将被升级到版本 <i>%s</i>\n"
+
+msgid "<b>%s</b> will be <b>downgraded</b>\n"
+msgstr "<b>%s</b> 将被<b>降级</b>\n"
+
+msgid "<b>%s</b> will be removed\n"
+msgstr "<b>%s</b> 将被删除\n"
+
+msgid "<b>%s</b> will be removed with configuration\n"
+msgstr "<b>%s</b> 将被连同配置一并删除\n"
+
+msgid "<b>(ESSENTIAL) to be removed</b>"
+msgstr "<b>将会删除的(必需)软件包</b>"
+
+msgid ""
+"<b><big>Mark upgrades in a smart way?</big></b>\n"
+"\n"
+"The default upgrade method skips upgrades that would introduce conflicts or require installation of additional packages.\n"
+"\n"
+"The smart upgrade (dist-upgrade) attempts to resolve conflicts and to fulfil all dependencies of upgrades in a smart way.\n"
+"\n"
+"<b>Note:</b> The upgrades will be marked only. You still have to apply them afterwards."
+msgstr ""
+"<b><big>以智能方式标记升级吗？</big></b>\n"
+"\n"
+"默认的升级方法会跳过那些引起冲突或需要安装额外软件包的升级。\n"
+"\n"
+"智能升级(dist-upgrade，发行版升级)试图通过一种智能方式解决冲突并满足升级的全部依赖关系\n"
+"\n"
+"<b>注意：</b>升级仅会被标记。您仍然不得不随后应用这些变更。"
+
+msgid ""
+"<b><big>Quit and discard marked changes?</big></b>\n"
+"\n"
+"There are still marked changes that have not yet been applied. They will get lost if you choose to quit 'Synaptic'."
+msgstr ""
+"<b><big>退出并放弃标记的变更吗？</big></b>\n"
+"\n"
+"仍有一些标记的变更尚未应用。如果您选择退出“新立得”它们将丢失。"
+
+msgid "<b>Appearance</b>"
+msgstr "<b>外观</b>"
+
+msgid "<b>Applying Changes</b>"
+msgstr "<b>应用变更</b>"
+
+msgid "<b>Colors</b>"
+msgstr "<b>色彩</b>"
+
+msgid "<b>Columns</b>"
+msgstr "<b>栏目</b>"
+
+msgid "<b>Current</b>"
+msgstr "<b>当前</b>"
+
+msgid "<b>Fonts</b>"
+msgstr "<b>字体</b>"
+
+msgid "<b>History files</b>"
+msgstr "<b>历史文件</b>"
+
+msgid "<b>Installed Version</b>"
+msgstr "<b>已安装版本</b>"
+
+msgid "<b>Latest Available Version</b>"
+msgstr "<b>最新版本</b>"
+
+msgid "<b>Maintainer:</b>"
+msgstr "<b>维护者：</b>"
+
+msgid "<b>Marked</b>"
+msgstr "<b>已标记</b>"
+
+msgid "<b>Marking Changes</b>"
+msgstr "<b>标记变更</b>"
+
+msgid ""
+"<b>Note:</b> Changes are not applied instantly. At first you have to mark "
+"all changes and then apply them."
+msgstr "<b>注意：</b>变更不会立即生效，你需要先标记所有的变更，然后再应用这些变更。"
+
+msgid ""
+"<b>Note:</b> To install a version that is different from the default one, "
+"choose <b>Package -> Force Version...</b> from the menu."
+msgstr "<b>注意：</b> 要安装一个不同于默认版本的版本，请从菜单选择 <b>软件包 -> 强制版本...</b>。"
+
+msgid "<b>Other</b>"
+msgstr "<b>其他</b>"
+
+msgid "<b>Package upgrade behavior (default distribution)</b>"
+msgstr "<b>软件包升级行为 (默认的发行版)</b>"
+
+msgid "<b>Package:</b>"
+msgstr "<b>软件包：</b>"
+
+msgid "<b>Priority:</b>"
+msgstr "<b>优先级：</b>"
+
+msgid "<b>Proxy Server</b>"
+msgstr "<b>代理服务器</b>"
+
+msgid "<b>Section:</b>"
+msgstr "<b>组别：</b>"
+
+msgid "<b>Status:</b>"
+msgstr "<b>状态：</b>"
+
+msgid "<b>Summary</b>"
+msgstr "<b>摘要</b>"
+
+msgid "<b>Tags:</b>"
+msgstr "<b>标记：</b>"
+
+msgid "<b>Temporary Files</b>"
+msgstr "<b>临时文件</b>"
+
+msgid "<b>Terminal Output:</b>"
+msgstr "<b>终端输出：</b>"
+
+msgid ""
+"<b>The following icons are used to indicate the current status of a "
+"package:</b>"
+msgstr "<b>下列图标用来指代软件包的当前状态：</b>"
+
+msgid "<b>To be DOWNGRADED</b>"
+msgstr "<b>将会降级的软件包</b>"
+
+msgid "<b>To be completely removed (including configuration files)</b>"
+msgstr "将完整删除(包括配置文件)的软件包"
+
+msgid "<b>To be removed</b>"
+msgstr "<b>将会删除的软件包</b>"
+
+msgid "<b>Warning:</b> %d essential package will be removed\n"
+msgid_plural "<b>Warning:</b> %d essential packages will be removed\n"
+msgstr[0] "<b>警告：</b>%d 个必需的软件包将被删除\n"
+
+msgid ""
+"<big><b>Could not download all necessary package files</b></big>\n"
+"\n"
+"The version of the package that you want to install might be no longer available in the repository, or there may be problems with the source of the package. Reload the package list and check the source of the package (e.g. CD or network connection)."
+msgstr ""
+"<big><b>无法下载全部必需的软件包文件</b></big>\n"
+"\n"
+"您想安装的软件包版本也许在仓库里已经不再可用了，或者软件包来源有问题。刷新软件包列表并检查软件包来源(即 CD 或者网络连接)。"
+
+msgid ""
+"<big><b>Could not download all repository indexes</b></big>\n"
+"\n"
+"The repository may no longer be available or could not be contacted because of network problems. If available an older version of the failed index will be used. Otherwise the repository will be ignored. Check your network connection and ensure the repository address in the preferences is correct."
+msgstr "<big><b>无法下载全部的软件库索引</b></big>"
+
+msgid ""
+"<big><b>Enter the complete APT line of the repository that you want to add</b></big>\n"
+"\n"
+"The APT line contains the type, location and content of a repository, for example <i>\"deb http://ftp.debian.org sarge main\"</i>. You can find a detailed description of the syntax in the documentation."
+msgstr ""
+"<big><b>输入您想要添加软件库的完整的 APT 行</b></big>\n"
+"\n"
+"APT 行包括软件库的类型、位置、内容，比如：“deb http://ftp.debian.org sarge main”。您可以在文档中找到更多的语法描述。"
+
+msgid "<i>Can't close while running</i>"
+msgstr "<i>正在执行时无法关闭</i>"
+
+msgid "<i>Finished</i>"
+msgstr "<i>已完成</i>"
+
+msgid "<i>Preparing packages...</i>"
+msgstr "<i>正在准备软件包...</i>"
+
+msgid "<i>Running...</i>"
+msgstr "<i>正在执行...</i>"
+
+msgid "<span size=\"large\" weight=\"bold\">Set an internal option</span>"
+msgstr "<span size=\"large\" weight=\"bold\">设置内部选项</span>"
+
+msgid ""
+"<span size=\"large\" weight=\"bold\">These settings affect the core of your "
+"system. Consider any changes carefully.</span>"
+msgstr "<span size=\"large\" weight=\"bold\">这些设置会影响您系统的核心。请仔细斟酌任何变更。</span>"
+
+msgid ""
+"<span size=\"large\" weight=\"bold\">Which tasks should be performed by your computer?</span>\n"
+"\n"
+"These are preselected groups of packages to perform each task. If you select a task, the corresponding packages will be marked for installation."
+msgstr ""
+"<span size=\"large\" weight=\"bold\">您的计算机要完成哪些任务？</span>\n"
+"\n"
+"这里有一些预先分好组的软件包用以完成每一种(相应的)任务。如果您选择了一种任务，相应的软件包就会被标记以便安装。"
+
+msgid "<span size=\"xx-large\" weight=\"bold\">Synaptic version</span>"
+msgstr "<span size=\"xx-large\" weight=\"bold\">新立得(Synaptic)版本</span>"
+
+msgid "<span weight=\"bold\" size=\"large\">Apply the following changes?</span>"
+msgstr "<span weight=\"bold\" size=\"large\">应用下列变更吗？</span>"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Could not mark all packages for installation or upgrade</span>\n"
+"\n"
+"The following packages have unresolvable dependencies. Make sure that all required repositories are added and enabled in the preferences."
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">无法为安装或升级标记全部软件包</span>\n"
+"\n"
+"下列软件包具有未满足的依赖关系。请确保在首选项里所有需要的软件仓库已经添加并启用。"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Enter a label for this CD-Rom</span>\n"
+"\n"
+"The label will be used if you want to install packages from this CD-Rom. It is recommended to also write the label on the CD-Rom to easily find it again.\n"
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">插入光盘</span>\n"
+"\n"
+"如果要从光盘安装软件包时会用得着标签。推荐在光盘写上标签以便下次能容易找到。\n"
+
+msgid "<span weight=\"bold\" size=\"larger\">Enter the label of the CD-ROM</span>"
+msgstr "<span weight=\"bold\" size=\"large\">请输入 CD-ROM 的标签</span>"
+
+msgid "<span weight=\"bold\" size=\"larger\">Mark additional required changes?</span>"
+msgstr "<span weight=\"bold\" size=\"larger\">标记附加的必需的变更吗？</span>"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Your package information is out of date</span>\n"
+"\n"
+"Your package information is older than 48 hours. There could be important security updates available. It is recommended to reload the package information regularly."
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">您的软件包信息过期了</span>\n"
+"\n"
+"您现在的软件包信息已超过 48 小时。可能已经有重要的安全升级了。建议您定期刷新软件包信息。"
+
+msgid "A package failed to install.  Trying to recover:"
+msgstr "有软件包安装失败。正在试图恢复："
+
+msgid "AND"
+msgstr "和"
+
+msgid "APT line:"
+msgstr "APT 行："
+
+msgid ""
+"APT system reports:\n"
+"%s"
+msgstr ""
+"APT 系统报告：\n"
+"%s"
+
+msgid "A_pplication Font"
+msgstr "应用程序字体(_P)"
+
+msgid "A_pply Marked Changes"
+msgstr "应用标记的更新(_P)"
+
+msgid "About Synaptic"
+msgstr "关于新立得(Synaptic)"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add downloaded packages"
+msgstr "加入已下载的包"
+
+msgid ""
+"Add packages downloaded with the \"Generate package download script\" "
+"feature to the system"
+msgstr "将通过“生成包下载脚本”功能下载的软件包添加到系统"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Alphabetic"
+msgstr "依字母排列"
+
+msgid "Always Ask"
+msgstr "总是询问"
+
+msgid "Always prefer the highest version"
+msgstr "总是优先考虑最高版本"
+
+msgid "Always prefer the installed version"
+msgstr "总是优先考虑已安装版本"
+
+msgid "Amateur Radio"
+msgstr "业余无线电"
+
+msgid "An error occurred"
+msgstr "出现一个错误"
+
+msgid "An error occurred while saving configurations."
+msgstr "保存配置时发生错误。"
+
+msgid "Another synaptic is running"
+msgstr "已有一个 synaptic 正在运行"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Apply all marked changes"
+msgstr "应用全部标记的变更"
+
+msgid "Apply changes in a terminal window"
+msgstr "在终端窗口应用变更"
+
+msgid "Applying Changes"
+msgstr "正在应用变更..."
+
+msgid "Applying marked changes. This may take a while..."
+msgstr "正在应用已标记的变更。这可能需要一些时间..."
+
+msgid "Ask to confirm changes that also affect other packages"
+msgstr "要求确认那些也将影响其他软件包的变更行为"
+
+msgid "Ask to quit after the changes have been applied successfully"
+msgstr "当变更成功应用后询问退出"
+
+msgid "Authentication"
+msgstr "身份认证"
+
+msgid "Authentication is required to run the Synaptic Package Manager"
+msgstr "运行软件包管理器需要认证"
+
+msgid "Automatic install"
+msgstr "自动安装"
+
+msgid "Automatic removable"
+msgstr "可自动删除"
+
+msgid "Automatically"
+msgstr "自动"
+
+msgid "Automatically close after the changes have been successfully applied"
+msgstr "当变更成功应用后自动关闭(对话框)"
+
+msgid "Automatically installed"
+msgstr "自动安装"
+
+msgid "Available versions:"
+msgstr "可用版本："
+
+msgid "Bad regular expression '%s' in ReducedView file."
+msgstr "简化视图文件里的错误正则表达式“%s”。"
+
+msgid "Base System"
+msgstr "基础系统"
+
+msgid "Binary (deb)"
+msgstr "二进制包(deb)"
+
+msgid "Boolean operator between property criterias:"
+msgstr "属性条件之间的布尔运算符："
+
+msgid "Breaks"
+msgstr "破坏"
+
+msgid "Broken"
+msgstr "破损"
+
+msgid "Broken dependencies"
+msgstr "破损的依赖关系"
+
+msgid "Broken:"
+msgstr "破损："
+
+msgid "Can't read %s"
+msgstr "无法读取 %s"
+
+msgid "Can't write %s"
+msgstr "无法写入 %s"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot find filename or size tag"
+msgstr "无法找到文件名或大小标签"
+
+msgid "Cannot read vendors.list file"
+msgstr "无法读取 vendors.list (软件包发行商列表)文件"
+
+msgid ""
+"Cannot start configuration tool!\n"
+"You have to install the required package 'libgnome2-perl'."
+msgstr ""
+"无法启动配置工具！\n"
+"您不得不安装所需的软件包“libgnome2-perl”。"
+
+msgid "Changes applied"
+msgstr "变更已应用"
+
+msgid "Choose font"
+msgstr "选择字体"
+
+msgid "Choose the action from the context menu of the package."
+msgstr "从软件包的上下文菜单选择动作。"
+
+msgid "Cleaning package lists..."
+msgstr "正在清除软件包列表..."
+
+msgid "Click on the status icon to open a menu that contains all actions."
+msgstr "点击状态图标来打开一个包括全部动作的菜单。"
+
+msgid "Clicking on the status icon marks the most likely action"
+msgstr "点击状态图标会标记最合适的动作"
+
+msgid "Close this dialog after the changes have been successfully applied"
+msgstr "当变更成功应用后关闭此对话框"
+
+msgid "Color"
+msgstr "色彩"
+
+msgid "Color packages by their status"
+msgstr "依据状态为软件包着色"
+
+msgid "Color selection"
+msgstr "颜色选择"
+
+msgid "Colors"
+msgstr "色彩"
+
+msgid "Columns and Fonts"
+msgstr "栏目和字体"
+
+msgid ""
+"Comma separated list of hosts and domains that will not be contacted through"
+" the proxy (e.g. localhost, 192.168.1.231, .net)"
+msgstr "以逗号分隔的主机及域列表，它们将不会通过代理服务器通讯(例如：localhost, 192.168.1.231, .net)。"
+
+msgid "Common"
+msgstr "普通"
+
+msgid "Communication"
+msgstr "通讯"
+
+msgid "Community Maintained (installed)"
+msgstr "社区维护(已安装)"
+
+msgid "Complete changelog of the latest version:"
+msgstr "最近版本的完整变更日志："
+
+msgid "Completely"
+msgstr "完全"
+
+msgid "Component"
+msgstr "组件"
+
+msgid "Conflicting packages"
+msgstr "有冲突的软件包"
+
+msgid "Conflicts"
+msgstr "冲突"
+
+msgid "Consider recommended packages as dependencies"
+msgstr "把推荐的软件包视作依赖的软件包"
+
+msgid "Converted From RPM by Alien"
+msgstr "由 Alien 工具转换自 RPM"
+
+msgid "Copy"
+msgstr "拷贝"
+
+msgid "Copying package lists..."
+msgstr "正在复制软件包列表..."
+
+msgid ""
+"Could not apply changes!\n"
+"Fix broken packages first."
+msgstr ""
+"无法应用变更！\n"
+"请先修复破损的软件包。"
+
+msgid ""
+"Could not upgrade the system!\n"
+"Fix broken packages first."
+msgstr ""
+"无法升级系统！\n"
+"请先修复(依赖关系)破损的软件包。"
+
+msgid "Couldn't identify disc."
+msgstr "无法识别光盘。"
+
+msgid "Credits"
+msgstr "致谢名单"
+
+msgid "Cross Platform"
+msgstr "跨平台"
+
+msgid "Ctrl-c pressed"
+msgstr "Crtl-c 被按下"
+
+msgid "Currently in broken policy state"
+msgstr "当前处于破损策略状态"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Databases"
+msgstr "数据库"
+
+msgid "Debtag support is enabled."
+msgstr "Debtag 支持已启用"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Default Upgrade"
+msgstr "默认升级"
+
+msgid "Delete _History files older than:"
+msgstr "删除历史文件早于(_H)："
+
+msgid "Delete all cache package files now."
+msgstr "现在删除全部缓存的软件包文件。"
+
+msgid "Dependants"
+msgstr "依赖此软件包的软件包"
+
+msgid "Dependencies"
+msgstr "依赖关系"
+
+msgid "Dependencies of the Latest Version"
+msgstr "最新版本的依赖关系"
+
+msgid "Dependency of"
+msgstr "依赖关系"
+
+msgid "Dependent packages"
+msgstr "依赖的软件包"
+
+msgid "Depends"
+msgstr "依赖"
+
+msgid "Description"
+msgstr "软件包描述"
+
+msgid "Description %s"
+msgstr "描述  %s"
+
+msgid "Description and Name"
+msgstr "软件包描述和名称"
+
+msgid "Details"
+msgstr "详细信息"
+
+msgid "Development"
+msgstr "开发"
+
+msgid "Difference between the files"
+msgstr "文件之间的区别"
+
+msgid "Direct connection to the Internet"
+msgstr "直接连接到互联网"
+
+msgid "Disc Label"
+msgstr "光盘标签"
+
+msgid "Disc label:"
+msgstr "光盘标签："
+
+msgid "Disc not successfully scanned."
+msgstr "未能成功扫描光盘。"
+
+msgid "Distribution"
+msgstr "发行版本"
+
+msgid "Distribution:"
+msgstr "发行版本："
+
+msgid "Do you want to add another CD-ROM?"
+msgstr "您想添加其他 CD-ROM 吗？"
+
+msgid "Do you want to continue, ignoring these packages?"
+msgstr "您想忽略这些软件包，继续进行吗?"
+
+msgid "Do you want to quit Synaptic?"
+msgstr "您真的要退出新立得吗？"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Documented by"
+msgstr "文档撰写"
+
+msgid "Done"
+msgstr "已下载"
+
+msgid "Done!"
+msgstr "已完成！"
+
+msgid "Double click on the package name."
+msgstr "在软件包名称上双击。"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download Size"
+msgstr "下载大小"
+
+msgid "Download rate: %s/s - %s remaining"
+msgstr "下载速度：%s/s - 尚余 %s"
+
+msgid "Download rate: ..."
+msgstr "下载速度：..."
+
+msgid "Download:"
+msgstr "下载："
+
+msgid "Downloading Changelog"
+msgstr "正在下载变更日志"
+
+msgid "Downloading Package Files"
+msgstr "正在下载包文件"
+
+msgid "Downloading Package Information"
+msgstr "正在下载包信息"
+
+msgid "Downloading file %li of %li"
+msgstr "正在下载第 %li 个文件(共 %li 个文件)"
+
+msgid "ERROR: Could not get password entry for superuser"
+msgstr "错误：无法取得超级用户的密码输入"
+
+msgid "ERROR: could not create configuration directory %s"
+msgstr "错误：无法创建配置文件目录 %s"
+
+msgid "ERROR: could not create log directory %s"
+msgstr "错误：无法创建日志目录 %s"
+
+msgid "ERROR: could not create state directory %s"
+msgstr "错误：无法创建状态目录 %s"
+
+msgid "ERROR: could not create tmp directory %s"
+msgstr "错误：无法创建临时目录 %s"
+
+msgid "ERROR: couldn't open %s for writing"
+msgstr "错误：无法打开 %s 以写入"
+
+msgid "Editors"
+msgstr "编辑器"
+
+msgid "Electronics"
+msgstr "电子学"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Embedded Devices"
+msgstr "嵌入式设备"
+
+msgid "Empty disc name."
+msgstr "光盘名称空白。"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Enhances"
+msgstr "增强"
+
+msgid "Error failed to fork pty"
+msgstr "错误，Fork pty失败"
+
+msgid "Error in package %s"
+msgstr "软件包有错误 %s"
+
+msgid "Error parsing file record"
+msgstr "解析文件记录出错"
+
+msgid ""
+"Essential packages will be removed.\n"
+"This may render your system unusable!\n"
+msgstr ""
+"必需的软件包将被删除。\n"
+"这将导致您的系统不能使用！\n"
+
+msgid "Exclude"
+msgstr "不包括"
+
+msgid "Exclude selected sections"
+msgstr "不包括已选的组别"
+
+msgid "Excludes"
+msgstr "不包括"
+
+msgid ""
+"Expression was found, please see the list on the left for matching entries."
+msgstr "表达式已找到，请看左侧列表里的匹配条目。"
+
+msgid "Extra output was generated during Package Manager operation"
+msgstr "在包管理器操作期间产生了额外输出"
+
+msgid "FTP proxy: "
+msgstr "FTP 代理服务器： "
+
+msgid "Failed"
+msgstr "失败"
+
+msgid ""
+"Failed to fetch %s\n"
+"  %s\n"
+"\n"
+msgstr ""
+"未能取回 %s\n"
+"  %s\n"
+"\n"
+
+msgid "Failed to mark all available upgrades!"
+msgstr "无法标记所有可升级软件包！"
+
+msgid "Failed to mount the cdrom."
+msgstr "挂载 CD-ROM 失败。"
+
+msgid "Failed to open %s.new"
+msgstr "打开 %s.new 失败"
+
+msgid "Failed to rename"
+msgstr "重命名失败"
+
+msgid "Failed to rename %s.new to %s"
+msgstr "重命名 %s.new 为 %s 失败"
+
+msgid "Failed to reopen fd"
+msgstr "重新打开 fd 失败"
+
+msgid "Failed to resolve dependency problems!"
+msgstr "无法解决软件包依赖关系问题！"
+
+msgid "Failed to stat %s%s"
+msgstr "无法获取 %s%s 的属性"
+
+msgid "Field"
+msgstr "字段"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Files"
+msgstr "文件"
+
+msgid "Filters"
+msgstr "过滤器"
+
+msgid "Find"
+msgstr "查找"
+
+msgid "FingerPrint"
+msgstr "指纹"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "For installation or upgrade"
+msgstr "要安装或升级的"
+
+msgid "For removal"
+msgstr "要删除的"
+
+msgid "Force version:"
+msgstr "强制版本："
+
+msgid "Found %i packages"
+msgstr "找到 %i 个软件包"
+
+msgid "GNOME Desktop Environment"
+msgstr "GNOME 桌面环境"
+
+msgid "GNU R statistical system"
+msgstr "GNU R 统计系统"
+
+msgid "Games and Amusement"
+msgstr "游戏和娱乐"
+
+msgid "General"
+msgstr "常规信息"
+
+msgid ""
+"Generate a shell script so that you can download the selected packages on a "
+"different computer"
+msgstr "生成 shell 脚本以便在另一台计算机下载选定的软件包"
+
+msgid "Generate package download script"
+msgstr "生成包下载脚本"
+
+msgid "Get Changelog"
+msgstr "获取变更日志"
+
+msgid "Get Screenshot"
+msgstr "获取截屏"
+
+msgid "Gnustep Desktop Environment"
+msgstr "Gnustep 桌面环境"
+
+msgid "Graphics"
+msgstr "制图"
+
+msgid "HTTP authentication"
+msgstr "HTTP验证"
+
+msgid "HTTP proxy: "
+msgstr "HTTP 代理服务器： "
+
+msgid "Haskell Programming Language"
+msgstr "Haskell 程序设计语言"
+
+msgid "History"
+msgstr "历史"
+
+msgid "History of installed, upgraded and removed software packages."
+msgstr "安装、升级和删除软件包的历史。"
+
+msgid "Hit"
+msgstr "成功"
+
+msgid "Hold Current Version"
+msgstr "保留当前的版本"
+
+msgid "IP address or host name of the ftp proxy server"
+msgstr "FTP 代理服务器的 IP 地址或主机名"
+
+msgid "IP address or host name of the http proxy server"
+msgstr "HTTP 代理服务器的 IP 地址或主机名"
+
+msgid "Icon Legend"
+msgstr "图标图例"
+
+msgid "Icon _Legend"
+msgstr "图标图例(_L)"
+
+msgid "Identifying disc..."
+msgstr "正在识别光盘..."
+
+msgid "Ignore"
+msgstr "忽略"
+
+msgid "Ignoring invalid record(s) in sources.list file!"
+msgstr "正在忽略 sources.list 文件里无效的记录！"
+
+msgid "Include"
+msgstr "包括"
+
+msgid "Include selected sections only"
+msgstr "只包括已选的组别"
+
+msgid "Includes"
+msgstr "包括"
+
+msgid "Insert a disc in the drive."
+msgstr "请向驱动器内放入一张光盘。"
+
+msgid "Install, remove and upgrade software packages"
+msgstr "安装，删除和升级软件包"
+
+msgid "Installed"
+msgstr "已安装"
+
+msgid "Installed (auto removable)"
+msgstr "已安装(可自动卸载)"
+
+msgid "Installed (local or obsolete)"
+msgstr "已安装的(本地的或者陈旧的)"
+
+msgid "Installed (locked to the current version)"
+msgstr "已安装(锁定为当前版本)"
+
+msgid "Installed (locked):"
+msgstr "已安装的软件包(锁定的)："
+
+msgid "Installed (manual)"
+msgstr "已安装(手动)"
+
+msgid "Installed (unsupported)"
+msgstr "已安装(不被支持)"
+
+msgid "Installed (upgradable)"
+msgstr "已安装(可升级)"
+
+msgid "Installed Files"
+msgstr "已安装的文件"
+
+msgid "Installed Version"
+msgstr "已安装的版本"
+
+msgid "Installed packages that are up-to-date"
+msgstr "已安装的软件包是最新版本"
+
+msgid "Installed packages that are upgradable"
+msgstr "已安装的软件包可升级"
+
+msgid "Installed packages that are upgradable to a later upstream version"
+msgstr "较之上次升级的版本已安装的软件包还可升级到更新版本"
+
+msgid "Installed:"
+msgstr "已安装："
+
+msgid "Installing and removing software"
+msgstr "安装和删除软件包"
+
+msgid "Installing software"
+msgstr "安装软件"
+
+msgid "Internal Error, AllUpgrade broke stuff. Please report."
+msgstr "内部错误，全部升级破坏了原有内容。请报告。"
+
+msgid "Internal Error, non-zero counts"
+msgstr "内部错误，非零计数"
+
+msgid "Internal error"
+msgstr "内部错误"
+
+msgid "Internal error opening cache (%d). Please report."
+msgstr "打开高速缓存(%d)时有内部错误。请报告。"
+
+msgid "Internationalization and localization"
+msgstr "国际化和本地化"
+
+msgid "Interpreted Computer Languages"
+msgstr "解释性计算机语言"
+
+msgid "Invalid disc name!"
+msgstr "无效的光盘名！"
+
+msgid "Invalid record in the preferences file, no Package header"
+msgstr "首选项文件里的无效记录，没有软件包头文件"
+
+msgid "Java Programming Language"
+msgstr "Java 程序设计语言"
+
+msgid "KDE Desktop Environment"
+msgstr "KDE 桌面环境"
+
+msgid "Keep Configuration"
+msgstr "保留配置"
+
+msgid "Kernel and modules"
+msgstr "内核和模块"
+
+msgid "Label:"
+msgstr "标签："
+
+msgid "Latest Version"
+msgstr "最新版本"
+
+msgid ""
+"Let synaptic pick the best version for you. If unsure use this option. "
+msgstr "让新立得为您挑选最佳版本。如果没有把握请使用此选项。 "
+
+msgid "Libraries"
+msgstr "库"
+
+msgid "Libraries - Development"
+msgstr "库 - 开发"
+
+msgid "Libraries - Old"
+msgstr "库 - 老版本"
+
+msgid "Library packages that are no longer needed (deborphan is required)"
+msgstr "不再需要的库软件包(需要 deborphan)"
+
+msgid "Line %u too long in markings file."
+msgstr "正在标记的文件里的行 %u 太长。"
+
+msgid "Lisp Programming Language"
+msgstr "Lisp 程序设计语言"
+
+msgid "Local"
+msgstr "本地"
+
+msgid "Localization"
+msgstr "本地化"
+
+msgid "Look in:"
+msgstr "搜索："
+
+msgid "Maintainer"
+msgstr "维护者"
+
+msgid "Malformed line %u in markings file"
+msgstr "正在标记的文件里的行 %u 畸形"
+
+msgid ""
+"Man page:\n"
+"Wybo Dekker <wybo@servalys.nl>\n"
+"Michael Vogt <mvo@debian.org>\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>\n"
+"\n"
+"Manual:\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>"
+msgstr ""
+"man 手册页：\n"
+"Wybo Dekker <wybo@servalys.nl>\n"
+"Michael Vogt <mvo@debian.org>\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>\n"
+"\n"
+"手册：\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>"
+
+msgid "Manual installed"
+msgstr "手动安装的"
+
+msgid "Manual proxy configuration"
+msgstr "手工代理服务器配置"
+
+msgid "Mark All Upgrades"
+msgstr "标记全部可升级软件包"
+
+msgid "Mark Packages by _Task..."
+msgstr "使用任务分组标记软件包(_T)..."
+
+msgid "Mark Recommended for Installation"
+msgstr "标记推荐的以便安装"
+
+msgid "Mark Suggested for Installation"
+msgstr "标记建议的以便安装"
+
+msgid "Mark all possible upgrades"
+msgstr "标记所有可升级的软件包"
+
+msgid "Mark for Co_mplete Removal"
+msgstr "标记以便彻底删除(_M)"
+
+msgid "Mark for Complete Removal"
+msgstr "标记以便彻底删除"
+
+msgid "Mark for Installation"
+msgstr "标记以便安装"
+
+msgid "Mark for R_einstallation"
+msgstr "标记以便重新安装(_E)"
+
+msgid "Mark for Reinstallation"
+msgstr "标记以便重新安装"
+
+msgid "Mark for Removal"
+msgstr "标记以便删除"
+
+msgid "Mark for Upgrade"
+msgstr "标记以便升级"
+
+msgid "Mark for _Installation"
+msgstr "标记以便安装"
+
+msgid "Mark for _Removal"
+msgstr "标记以便删除(_R)"
+
+msgid "Mark for _Upgrade"
+msgstr "标记以便升级(_U)"
+
+msgid "Marked Changes"
+msgstr "已标记的变更"
+
+msgid "Marked for complete removal"
+msgstr "已标记要彻底删除的软件包"
+
+msgid "Marked for complete removal:"
+msgstr "已标记要彻底删除的软件包："
+
+msgid "Marked for downgrade"
+msgstr "已标记要降级的软件包"
+
+msgid "Marked for downgrade:"
+msgstr "已标记要降级的软件包："
+
+msgid "Marked for installation"
+msgstr "已标记要安装的软件包"
+
+msgid "Marked for installation:"
+msgstr "已标记要安装的软件包："
+
+msgid "Marked for re-installation"
+msgstr "已标记要重新安装的软件包"
+
+msgid "Marked for reinstallation:"
+msgstr "已标记要重新安装的软件包："
+
+msgid "Marked for removal"
+msgstr "已标记要删除的软件包"
+
+msgid "Marked for removal:"
+msgstr "已标记要删除的软件包："
+
+msgid "Marked for upgrade"
+msgstr "已标记要升级的软件包"
+
+msgid "Marked for upgrade:"
+msgstr "已标记要升级的软件包："
+
+msgid "Marking all available upgrades..."
+msgstr "正在标记所有可升级软件包..."
+
+msgid "Mathematics"
+msgstr "数学"
+
+msgid "Meta Packages"
+msgstr "元软件包"
+
+msgid "Miscellaneous  - Graphical"
+msgstr "杂项 - 图像"
+
+msgid "Miscellaneous - Text Based"
+msgstr "杂项 - 基于文本的"
+
+msgid "Missing Recommends"
+msgstr "推荐的软件包丢失"
+
+msgid "Mono/CLI Infrastructure"
+msgstr "Mono/CLI 基础设施"
+
+msgid "Mounting CD-ROM..."
+msgstr "正在挂载 CD-ROM..."
+
+msgid "Move D_own"
+msgstr "下移(_O)"
+
+msgid "Move _Up"
+msgstr "上移(_U)"
+
+msgid "Multimedia"
+msgstr "多媒体"
+
+msgid "N/A"
+msgstr "不可用"
+
+msgid "NOT AUTHENTICATED"
+msgstr "尚未验证"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Network"
+msgstr "网络"
+
+msgid "Networking"
+msgstr "网络"
+
+msgid "Never show this message again"
+msgstr "不再显示此消息"
+
+msgid ""
+"Never upgrade to a new version automatically. Be _very_ careful with this "
+"option as you will not get security updates automatically! If you manually "
+"force a version the package version will follow the chosen distribution."
+msgstr "永不自动升级到新版本。务必慎重选择此项，因为您将无法自动获得安全升级！如果您手工强制指定一个版本，软件包版本会随选定的发布版本(升级)。"
+
+msgid "New Filter %i"
+msgstr "新过滤器 %i"
+
+msgid "New in repository"
+msgstr "软件仓库里的新内容"
+
+msgid "New in repository:"
+msgstr "软件库里的新内容："
+
+msgid "Newsgroup"
+msgstr "新闻组"
+
+msgid "No package is selected.\n"
+msgstr "没有选中任何软件包。\n"
+
+msgid "No proxy for: "
+msgstr "以下不使用代理服务器： "
+
+msgid "No valid records were found."
+msgstr "未发现有效的记录。"
+
+msgid "Not found"
+msgstr "未找到"
+
+msgid "Not installable"
+msgstr "不可安装"
+
+msgid "Not installed"
+msgstr "未安装"
+
+msgid "Not installed (locked)"
+msgstr "未安装(锁定的)"
+
+msgid "Not installed (locked):"
+msgstr "未安装软件包(锁定的)："
+
+msgid "Not installed (new in repository)"
+msgstr "未安装(软件库里的新版本)"
+
+msgid "Not installed (residual config)"
+msgstr "未安装的(残存配置)"
+
+msgid "Not installed (unsupported)"
+msgstr "未安装(不被支持)"
+
+msgid "Not installed packages"
+msgstr "未安装的软件包"
+
+msgid "Not installed:"
+msgstr "未安装的："
+
+msgid "Not marked"
+msgstr "未标记的"
+
+msgid "Number of undo operations:"
+msgstr "可撤销操作的次数："
+
+msgid "OCaml Programming Language"
+msgstr "OCaml 程序设计语言"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "OR"
+msgstr "或"
+
+msgid "Obsoletes"
+msgstr "废弃"
+
+msgid "Only experts should use this."
+msgstr "仅专家才能使用此设置。"
+
+msgid "Open changes"
+msgstr "打开变更方案"
+
+msgid "Operator"
+msgstr "操作者"
+
+msgid "Origin"
+msgstr "源自"
+
+msgid ""
+"Original author:\n"
+"Alfredo K. Kojima <kojima@windowmaker.org>\n"
+"\n"
+"Maintainers:\n"
+"Michael Vogt <mvo@debian.org>\n"
+"Gustavo Niemeyer <niemeyer@conectiva.com>\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>\n"
+"\n"
+"Contributors:\n"
+"Enrico Zini <enrico@debian.org>\n"
+"Panu Matilainen <pmatilai@welho.com>\n"
+"Sviatoslav Sviridov <svd@lintec.minsk.by>"
+msgstr ""
+"原始作者：\n"
+"Alfredo K. Kojima <kojima@windowmaker.org>\n"
+"\n"
+"维护者：\n"
+"Michael Vogt <mvo@debian.org>\n"
+"Gustavo Niemeyer <niemeyer@conectiva.com>\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>\n"
+"\n"
+"贡献者：\n"
+"Enrico Zini <enrico@debian.org>\n"
+"Panu Matilainen <pmatilai@welho.com>\n"
+"Sviatoslav Sviridov <svd@lintec.minsk.by>"
+
+msgid "Orphaned"
+msgstr "孤立的"
+
+msgid "PHP Programming Language"
+msgstr "PHP 程序设计语言"
+
+msgid "Package"
+msgstr "软件包"
+
+msgid "Package Manager"
+msgstr "软件包管理器"
+
+msgid "Package Manager output"
+msgstr "包管理器输出"
+
+msgid "Package Name"
+msgstr "软件包名称"
+
+msgid "Package changes"
+msgstr "软件包变更"
+
+msgid "Package is supported"
+msgstr "此软件包目前被支持"
+
+msgid "Package management software using apt."
+msgstr "软件包管理器使用 apt 技术。"
+
+msgid "Package name"
+msgstr "软件包名称"
+
+msgid "Package with Debconf"
+msgstr "具有 Debconf 的包"
+
+msgid "Packages that are new in the repository since that last \"Reload\""
+msgstr "仓库中自上次“刷新”后新出现的软件包"
+
+msgid "Packages that are not available in any repository"
+msgstr "在任何仓库里都无法获得的软件包"
+
+msgid "Packages that will be installed or upgraded"
+msgstr "将会被安装或升级的软件包"
+
+msgid "Packages that will be removed"
+msgstr "将会被删除的软件包"
+
+msgid "Packages that will never be upgraded"
+msgstr "永远不再升级的软件包。"
+
+msgid "Packages that won't be changed"
+msgstr "将会维持原状不变化的软件包"
+
+msgid "Packages with broken dependencies"
+msgstr "依赖关系破损的软件包"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Pattern"
+msgstr "模板"
+
+msgid "Perl Programming Language"
+msgstr "Perl 程序设计语言"
+
+msgid "Pinned"
+msgstr "标记为永不升级的软件包"
+
+msgid "Please insert a disc in the drive."
+msgstr "请向驱动器内放入一张光盘。"
+
+msgid ""
+"Please insert the disk labeled:\n"
+"%s\n"
+"in drive %s"
+msgstr ""
+"请把标签为：\n"
+"%s\n"
+"的光盘插入驱动器 %s"
+
+msgid "Please select a directory"
+msgstr "请选择一个目录"
+
+msgid "Policy broken"
+msgstr "策略破损"
+
+msgid "Port number of the ftp proxy server"
+msgstr "FTP 代理服务器的端口号"
+
+msgid "Port number of the http proxy server"
+msgstr "HTTP 代理服务器的端口号"
+
+msgid "Port: "
+msgstr "端口： "
+
+msgid "PreDepends"
+msgstr "安装前依赖"
+
+msgid ""
+"Prefer package versions from the selected distribution when upgrading "
+"packages. If you manually force a version from a different distribution, the"
+" package version will follow that distribution until it enters the default "
+"distribution."
+msgstr ""
+"升级软件包时选定的(操作系统)发布版本里优先考虑的软件包版本。如果您手工强制指定一个来自(同一个操作系统)不同发布版本的版本，软件包版本将紧随该(操作系统)发布版本，直到它(该操作系统发布版本)进入默认的(操作系统)发布版本行列。"
+
+msgid "Prefer versions from: "
+msgstr "优先考虑的版本： "
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Preparing..."
+msgstr "准备中..."
+
+msgid "Priority"
+msgstr "优先级"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Provided Packages"
+msgstr "提供的软件包"
+
+msgid "Provided packages"
+msgstr "提供的软件包"
+
+msgid "Provides"
+msgstr "提供"
+
+msgid "Python Programming Language"
+msgstr "Python 程序设计语言"
+
+msgid "Queued"
+msgstr "已列队"
+
+msgid "Quick Introduction"
+msgstr "快速指南"
+
+msgid "Quick filter"
+msgstr "快速过滤"
+
+msgid "Rebuilding search index"
+msgstr "重建搜索索引"
+
+msgid "Recommendations"
+msgstr "推荐的软件包"
+
+msgid "Recommends"
+msgstr "推荐"
+
+msgid "Reduced View"
+msgstr "简化视图"
+
+msgid "ReducedView"
+msgstr "简化视图"
+
+msgid "Registering disc..."
+msgstr "正在注册光盘..."
+
+msgid ""
+"Release files for some repositories could not be retrieved or authenticated."
+" Such repositories are being ignored."
+msgstr "无法检索或验证某些软件库的 Release 文件，暂时忽略那些软件库。"
+
+msgid "Reload"
+msgstr "刷新"
+
+msgid ""
+"Reload the package information to become informed about new, removed or "
+"upgraded software packages."
+msgstr "刷新软件包信息以便获得全新、已删除或已升级软件包的通知。"
+
+msgid "Reloading outdated package information:"
+msgstr "重新载入过时的软件包信息："
+
+msgid "Reloading package information..."
+msgstr "正在重新载入软件包信息..."
+
+msgid "Remember my answer for future upgrades"
+msgstr "为将来的升级记住我的回答"
+
+msgid "Remember the answer"
+msgstr "记住回答"
+
+msgid "Removal of packages:"
+msgstr "删除软件包："
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Remove Including Orphaned Dependencies"
+msgstr "删除包括孤儿依赖关系"
+
+msgid "Removed packages that have left configuration files on the system"
+msgstr "删除已经在系统里残留配置文件的软件包"
+
+msgid "Removing software"
+msgstr "删除软件"
+
+msgid ""
+"Replace configuration file\n"
+"'%s'?"
+msgstr ""
+"替换配置文件\n"
+"“%s”吗？"
+
+msgid "Replaced packages"
+msgstr "已替换的软件包"
+
+msgid "Replaces"
+msgstr "取代"
+
+msgid "Repositories"
+msgstr "软件库"
+
+msgid "Repositories changed"
+msgstr "软件库已发生改变"
+
+msgid "Residual config"
+msgstr "残存配置"
+
+msgid "Restricted On Export"
+msgstr "商品出口受限的"
+
+msgid "Return to the main screen"
+msgstr "返回主窗口"
+
+msgid "ReverseDepends"
+msgstr "反向依赖"
+
+msgid "Ruby Programming Language"
+msgstr "Ruby 程序设计语言"
+
+msgid "S"
+msgstr "状态"
+
+msgid "S_earch Results"
+msgstr "搜索结果(_E)"
+
+msgid "S_tatus"
+msgstr "状态(_T)"
+
+msgid "Save Markings _As..."
+msgstr "将标记的项目另存为(_A)..."
+
+msgid "Save changes"
+msgstr "保存变更方案"
+
+msgid "Save full state, not only changes"
+msgstr "保存全部状态，不仅仅是变更"
+
+msgid "Save script"
+msgstr "保存脚本"
+
+msgid "Scanning CD-ROM"
+msgstr "扫描 CD-ROM"
+
+msgid "Scanning disc..."
+msgstr "正在扫描光盘..."
+
+msgid "Science"
+msgstr "科技"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search Filter"
+msgstr "搜索过滤器"
+
+msgid "Search History"
+msgstr "搜索历史"
+
+msgid "Search for packages"
+msgstr "搜索软件包"
+
+msgid "Search:"
+msgstr "搜索："
+
+msgid "Searching"
+msgstr "搜索中"
+
+msgid "Section"
+msgstr "组别"
+
+msgid "Section(s)"
+msgstr "组别"
+
+msgid "Section(s):"
+msgstr "组别(s)："
+
+msgid "Sections"
+msgstr "组别"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select directory"
+msgstr "选择目录"
+
+msgid "Select the package and choose the action from the 'Package' menu."
+msgstr "挑选软件包并从“软件包”菜单选择动作。"
+
+msgid "Select the version of %s that should be forced for installation"
+msgstr "选择要强制安装的 %s 版本"
+
+msgid "Setting markings..."
+msgstr "正在设定标记..."
+
+msgid "Setup Vendors"
+msgstr "设定发行商"
+
+msgid "Shells"
+msgstr "命令行解释器"
+
+msgid "Show package properties in the main window"
+msgstr "在主窗口显示软件包属性"
+
+msgid "Show this dialog at startup"
+msgstr "启动程序时显示此对话框"
+
+msgid "Size"
+msgstr "文件大小"
+
+msgid "Size:"
+msgstr "大小："
+
+msgid "Smart Upgrade"
+msgstr "智能升级"
+
+msgid "Some of the packages could not be retrieved from the server(s).\n"
+msgstr "有些软件包未能从服务器检索。\n"
+
+msgid "Source (deb-src)"
+msgstr "源码包(deb-src)"
+
+msgid "Starting help viewer..."
+msgstr "正在启动帮助查看器..."
+
+msgid "Starting package configuration tool..."
+msgstr "正在启动软件包配置工具..."
+
+msgid "Starting package documentation viewer..."
+msgstr "正在启动软件包文档查看器..."
+
+msgid "Stat failed for %s"
+msgstr "对 %s 调用 stat 函数失败"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Successfully fixed dependency problems"
+msgstr "已成功修正软件包依赖关系问题！"
+
+msgid "Successfully marked available upgrades"
+msgstr "已成功标记所有可升级软件包"
+
+msgid "Suggestions"
+msgstr "建议的软件包"
+
+msgid "Suggests"
+msgstr "建议"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "Supported"
+msgstr "支持"
+
+msgid "Synaptic"
+msgstr "Synaptic(新立得)"
+
+msgid "Synaptic Package Manager"
+msgstr "新立得软件包管理器"
+
+msgid "Synaptic Package Manager "
+msgstr "新立得包管理器 "
+
+msgid "Syntax error in line %s"
+msgstr "行 %s 有语法错误"
+
+msgid "System Administration"
+msgstr "系统管理"
+
+msgid "System upgrade:"
+msgstr "系统升级："
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Tasks"
+msgstr "任务"
+
+msgid "TeX Authoring"
+msgstr "TeX 创作"
+
+msgid "Text Be_side Icons"
+msgstr "文本位于图标侧方(_S)"
+
+msgid "Text _Below Icons"
+msgstr "文本位于图标下方(_B)"
+
+msgid ""
+"The changelog contains information about the changes and closed bugs in each"
+" version of the package."
+msgstr "变更日志包含关于每个版本软件包的变更和臭虫的关闭的信息。"
+
+msgid ""
+"The chosen action also affects other packages. The following changes are "
+"required in order to proceed."
+msgstr "选中的动作也影响了其他软件包。下列变更是必需的，以便继续进行下一步操作。"
+
+msgid ""
+"The configuration file %s was modified (by you or by a script). An updated "
+"version is shipped in this package. If you want to keep your current version"
+" say 'Keep'. Do you want to replace the current file and install the new "
+"package maintainers version? "
+msgstr ""
+"配置文件 %s "
+"已修改(由您或一个脚本)。一个升级版本被该软件包引入。如果您希望保留当前版本请回答“保留”。您想替换当前文件并安装这个新的软件包维护者版本吗？ "
+
+msgid "The following details are provided:"
+msgstr "提供的详情如下:"
+
+msgid ""
+"The label will be used to identify the CD-ROM if you want to install "
+"packages from it later."
+msgstr "如果您想今后从该 CD-ROM 光盘安装软件包，该标签将用于标识这张光盘。"
+
+msgid "The list of installed files is only available for installed packages"
+msgstr "已安装文件的列表仅可用于已安装的软件包"
+
+msgid ""
+"The list of sources could not be read.\n"
+"Go to the repository dialog to correct the problem."
+msgstr ""
+"无法读取源列表。\n"
+"请转到软件库对话框以解决该问题。"
+
+msgid ""
+"The marked changes are now being applied. This can take some time. Please "
+"wait."
+msgstr "现在正在应用已标记的变更。这会花费一些时间。请稍候。"
+
+msgid "The package files will be downloaded, but not installed"
+msgstr "这些软件包文件只会被下载，而不会被安装"
+
+msgid "The package lists or status file could not be parsed or opened."
+msgstr "无法解析或打开软件包列表或状态文件。"
+
+msgid ""
+"The package manager always selects the most applicable version available. If"
+" you force a different version from the default one, errors in the "
+"dependency handling can occur."
+msgstr "软件包管理器总是选择可用的最佳版本。如果您在默认版本之外强制安装另一个版本，依赖关系处理就可能出错。"
+
+msgid ""
+"The repositories will be checked for new, removed or upgraded software "
+"packages."
+msgstr "将校验软件库里全新、已删除或已升级的软件包"
+
+msgid ""
+"The repository information has changed. You have to click on the \"Reload\" "
+"button for your changes to take effect"
+msgstr "仓库信息已变更。您必须点击“刷新”按钮以便使您的变更生效"
+
+msgid ""
+"The software on your system is organized in so called <i>packages</i>. The "
+"package manager enables you to install, to upgrade or to remove software "
+"packages."
+msgstr "您系统里的软件被组织为所谓的<i>软件包</i>。软件包管理器使您能够安装、升级或者删除软件包。"
+
+msgid ""
+"There is another synaptic running in interactive mode. Please close it "
+"first. "
+msgstr "已有另一个 synaptic 正运行于交互模式。请先关闭它。 "
+
+msgid ""
+"There is another synaptic running in non-interactive mode. Please wait for "
+"it to finish first."
+msgstr "已有另一个 synaptic 正运行于非交互模式。请先等待它结束。"
+
+msgid "This application is supported by the distribution"
+msgstr "此应用程序受发行版支持"
+
+msgid "This behavior can be changed in the preferences later."
+msgstr "此行为今后可以在首选项里更改。"
+
+msgid ""
+"This is your last opportunity to look through the list of marked changes "
+"before they are applied."
+msgstr "这是您在那些已标记的变更被应用前回顾这一列表的最后机会。"
+
+msgid ""
+"This software is licensed under the terms of the GNU General Public License,"
+" Version 2"
+msgstr "本软件是在 GNU 通用公共许可证第二版的条款下发布的。"
+
+msgid ""
+"This usually means that another package management application (like apt-get"
+" or aptitude) is already running. Please close that application first."
+msgstr "这意味着已有其他的包管理程序（例如：apt-get 或 aptitude）在运行，请先关掉它。"
+
+msgid ""
+"This will abort the operation and may leave the system in a broken state. "
+"Are you sure you want to do that?"
+msgstr "这将取消本次操作且可能使系统处于破损状态。你确定要这样做？"
+
+msgid "To be downgraded"
+msgstr "将会降级的软件包"
+
+msgid "To be installed"
+msgstr "将会全新安装的软件包"
+
+msgid "To be kept"
+msgstr "将会维持原状的软件包"
+
+msgid "To be re-installed"
+msgstr "将会重新安装的软件包"
+
+msgid "To be removed"
+msgstr "将会删除的软件包"
+
+msgid "To be upgraded"
+msgstr "将会升级的软件包"
+
+msgid "Translated by"
+msgstr "翻译者"
+
+msgid "Trying to recover from package failure"
+msgstr "正尝试从包错误中恢复"
+
+msgid "Type"
+msgstr "种类"
+
+msgid "URI"
+msgstr "网址"
+
+msgid "URI:"
+msgstr "网址："
+
+msgid "U_nmark"
+msgstr "取消标记(_N)"
+
+msgid "U_nmark All"
+msgstr "取消全部标记(_N)"
+
+msgid "Unable to change to %s"
+msgstr "无法变更为 %s"
+
+msgid "Unable to correct dependencies"
+msgstr "无法修正依赖关系"
+
+msgid "Unable to correct missing packages"
+msgstr "无法更正缺少的软件包"
+
+msgid "Unable to create a tmp file"
+msgstr "无法创建临时文件"
+
+msgid "Unable to get exclusive lock"
+msgstr "无法获得排它锁"
+
+msgid ""
+"Unable to locate any package files. Perhaps this is not an APT enabled disc."
+msgstr "无法定位任何软件包文件。可能这不是一张启用了 APT 支持的光盘。"
+
+msgid "Unable to lock the download directory"
+msgstr "无法锁定下载目录"
+
+msgid "Unable to lock the list directory"
+msgstr "无法锁定列表目录"
+
+msgid ""
+"Unable to mark upgrades\n"
+"Check your system for errors."
+msgstr ""
+"无法标记升级的包\n"
+"请检查您系统的错误。"
+
+msgid "Unable to read %s"
+msgstr "无法读取 %s"
+
+msgid "Unable to read the cdrom database %s"
+msgstr "无法读取 CD-ROM 数据库 %s"
+
+msgid "Unchanged"
+msgstr "保持原样"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown source type"
+msgstr "软件包来源类型未知"
+
+msgid "Unmark"
+msgstr "取消标记"
+
+msgid "Unmounting CD-ROM..."
+msgstr "正在卸载 CD-ROM..."
+
+msgid "Upgradable"
+msgstr "可升级的软件包"
+
+msgid "Upgradable (upstream)"
+msgstr "可升级(向上)"
+
+msgid "Upgradable:"
+msgstr "可升级的软件包："
+
+msgid "Usage: synaptic [options]\n"
+msgstr "用法：Synaptic [选项]\n"
+
+msgid "Use custom application font"
+msgstr "使用自定义应用程序字体"
+
+msgid "Use custom terminal font"
+msgstr "使用自定义终端字体"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Utilities"
+msgstr "工具"
+
+msgid "Value:"
+msgstr "值："
+
+msgid "Variable:"
+msgstr "变量："
+
+msgid "Vendor"
+msgstr "发行商"
+
+msgid "Vendor block %s is invalid"
+msgstr "发行商段 %s 无效"
+
+msgid ""
+"Vendors sign their packages to verify the origin and integrity of the "
+"packages. Disabling the verification is a security risk."
+msgstr "发行商签署他们的软件包(给软件包作标记)以校验软件包的来源和完整性。禁用校验是一种危险行为。"
+
+msgid "Vendors..."
+msgstr "发行商..."
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Version Control Systems"
+msgstr "版本控制系统"
+
+msgid "Version number"
+msgstr "版本号"
+
+msgid "Version:"
+msgstr "版本："
+
+msgid "Versions"
+msgstr "版本"
+
+msgid "Video software"
+msgstr "视频软件"
+
+msgid "View package properties"
+msgstr "查看软件包属性"
+
+msgid "Visible"
+msgstr "显示项目"
+
+msgid ""
+"Visit the home page at \n"
+"http://www.nongnu.org/synaptic/"
+msgstr ""
+"请访问主页：\n"
+"http://www.nongnu.org/synaptic/"
+
+msgid "Waiting for disc..."
+msgstr "正在等待放入光盘..."
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Web servers"
+msgstr "Web 服务器"
+
+msgid "Word Processing"
+msgstr "字处理"
+
+msgid "World Wide Web"
+msgstr "万维网"
+
+msgid "Writing sources list..."
+msgstr "正在写入源列表..."
+
+msgid "Written by"
+msgstr "作者"
+
+msgid "Xfce Desktop Environment"
+msgstr "Xfce 桌面环境"
+
+msgid ""
+"You are about to install software that <b>can't be authenticated</b>! Doing "
+"this could allow a malicious individual to damage or take control of your "
+"system."
+msgstr "您即将安装<b>无法验证</b>的软件！这样做有可能允许一个恶意个体(人或后门程序等[译注])损坏或支配您的系统。"
+
+msgid ""
+"You are adding the \"universe\" component.\n"
+"\n"
+" Packages in this component are not supported. Are you sure?"
+msgstr ""
+"您正在添加“全局组件”。\n"
+"该组件内的软件包不被支持。您确定要这样做吗？"
+
+msgid ""
+"You can mark packages for installation, upgrade or removal in several ways:"
+msgstr "您可以以多种途径标记软件包，为安装、升级或删除作准备："
+
+msgid ""
+"You have %d broken package on your system!\n"
+"\n"
+"Use the \"Broken\" filter to locate it."
+msgid_plural ""
+"You have %i broken packages on your system!\n"
+"\n"
+"Use the \"Broken\" filter to locate them."
+msgstr[0] ""
+"您的系统里有 %d 个(依赖关系)破损的软件包！\n"
+"\n"
+"请使用“Broken”过滤器定位它们。"
+
+msgid ""
+"You have to install the package \"dwww\" to browse the documentation of a "
+"package"
+msgstr "您不得不安装软件包“dwww”以便浏览软件包文档"
+
+msgid ""
+"You should reload the package information regularly. Otherwise you could "
+"miss important security upgrades."
+msgstr "您应该定期刷新软件包信息。否则您可能错过重要的安全升级。"
+
+msgid "Zope/Plone Environment"
+msgstr "Zope/Plone 环境"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Add CD-ROM..."
+msgstr "添加 CD-ROM(_A)..."
+
+msgid "_Add Repository"
+msgstr "添加仓库(_A)"
+
+msgid "_Browse Documentation"
+msgstr "浏览文档(_B)"
+
+msgid "_Close"
+msgstr "关闭"
+
+msgid "_Configure..."
+msgstr "配置(_C)..."
+
+msgid "_Contents"
+msgstr "内容(_C)"
+
+msgid "_Custom Filters"
+msgstr "自定义过滤器(_C)"
+
+msgid "_Default Upgrade"
+msgstr "默认升级(_D)"
+
+msgid "_Delete Cached Package Files"
+msgstr "删除缓存的软件包文件(_D)"
+
+msgid "_Delete downloaded packages after installation"
+msgstr "安装后删除已下载的软件包(_D)"
+
+msgid "_Description"
+msgstr "软件包描述(_D)"
+
+msgid "_Deselect All"
+msgstr "取消全部选中(_D)"
+
+msgid "_Download Changelog"
+msgstr "下载变更日志(_D)"
+
+msgid "_Download package files only"
+msgstr "仅下载软件包(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_File"
+msgstr "文件(_F)"
+
+msgid "_Filters"
+msgstr "过滤器(_F)"
+
+msgid "_Fix Broken Packages"
+msgstr "修正(依赖关系)破损的软件包(apt-get -f install)(_F)"
+
+msgid "_Force Version"
+msgstr "强制版本(_F)"
+
+msgid "_Force Version..."
+msgstr "强制版本(_F)..."
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Hide"
+msgstr "隐藏(_H)"
+
+msgid "_Hide Details"
+msgstr "隐藏细节(_H)"
+
+msgid "_History"
+msgstr "历史(_H)"
+
+msgid "_Icons Only"
+msgstr "只有图标(_I)"
+
+msgid "_Invert All"
+msgstr "反向选择(_I)"
+
+msgid "_Keep"
+msgstr "维持原状(_K)"
+
+msgid "_Keep history"
+msgstr "保留历史(_K)"
+
+msgid "_Leave all downloaded packages in the cache"
+msgstr "把全部已下载的软件包留在缓存里(_L)"
+
+msgid "_Lock Version"
+msgstr "锁定版本(_L)"
+
+msgid "_Mark"
+msgstr "标记(_M)"
+
+msgid "_Mark All Upgrades..."
+msgstr "标记全部可升级软件包(_M)..."
+
+msgid "_Only delete packages which are no longer available"
+msgstr "仅仅删除那些再也不可用的软件包(_O)"
+
+msgid "_Package"
+msgstr "软件包(_P)"
+
+msgid "_Properties"
+msgstr "属性(_P)"
+
+msgid "_Quick Introduction"
+msgstr "快速入门(_Q)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Read Markings..."
+msgstr "读取标记的项目(_R)..."
+
+msgid "_Redo"
+msgstr "重做(_R)"
+
+msgid "_Reload"
+msgstr "刷新(_R)"
+
+msgid "_Reload Package Information"
+msgstr "重新载入软件包信息(_R)"
+
+msgid "_Replace"
+msgstr "替换(_R)"
+
+msgid "_Repositories"
+msgstr "软件库(_R)"
+
+msgid "_Save Markings"
+msgstr "保存标记的项目(_S)"
+
+msgid "_Search"
+msgstr "搜索(_S)"
+
+msgid "_Search..."
+msgstr "搜索(_S)..."
+
+msgid "_Sections"
+msgstr "组别(_S)"
+
+msgid "_Select All"
+msgstr "选择全部(_S)"
+
+msgid "_Set Internal Option..."
+msgstr "设定内部选项(_S)..."
+
+msgid "_Settings"
+msgstr "设置(_S)"
+
+msgid "_Show Details"
+msgstr "显示细节(_S)"
+
+msgid "_Smart Upgrade"
+msgstr "智能升级(_S)"
+
+msgid "_Terminal Font"
+msgstr "终端字体(_T)"
+
+msgid "_Text Only"
+msgstr "只有文本(_T)"
+
+msgid "_Toolbar"
+msgstr "工具栏(_T)"
+
+msgid "_Undo"
+msgstr "撤消(_U)"
+
+msgid "_Verify package signatures"
+msgstr "校验软件包签名(_V)"
+
+msgid "bzip2 failed, perhaps the disk is full."
+msgstr "bzip2 失败，可能磁盘已满。"
+
+msgid "contrib"
+msgstr "贡献的"
+
+msgid "couldn't open %s for writing"
+msgstr "无法打开 %s 以写入"
+
+msgid "days"
+msgstr "天数"
+
+msgid "dist upgrade Failed"
+msgstr "软件发行版升级失败"
+
+msgid "gzip failed, perhaps the disk is full."
+msgstr "gzip 失败，可能磁盘已满。"
+
+msgid "non free"
+msgstr "非自由的"
+
+msgid "or dependency"
+msgstr "或依赖关系"
+
+msgid "translators-credits"
+msgstr ""
+"Anthony Fok <anthony@thizlinux.com>\r\n"
+"Liu Songhe <jackliu9999@msn.com>\r\n"
+"Liu Qishuai <lqs.buaa@gmail.com>\r\n"
+"Davis Zhao <daviszhao121@gmail.com>"

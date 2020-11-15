@@ -1,0 +1,1967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gvfs master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-04-14 19:28+0000\n"
+"PO-Revision-Date: 2016-04-06 07:57+0000\n"
+"Last-Translator: shijing <jingshi@ubuntukylin.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:19+0000\n"
+
+msgid " (invalid encoding)"
+msgstr " (无效编码)"
+
+msgid "%.1f GB"
+msgstr "%.1f GB"
+
+msgid "%.1f MB"
+msgstr "%.1f MB"
+
+msgid "%.1f kB"
+msgstr "%.1f kB"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s (jailbreak)"
+msgstr "%s (越狱)"
+
+msgid "%s Audio Player"
+msgstr "%s 音频播放器"
+
+msgid "%s Camera"
+msgstr "%s 相机"
+
+msgid "%s Drive"
+msgstr "%s 驱动器"
+
+msgid "%s Encrypted"
+msgstr "%s 已加密"
+
+msgid "%s Encrypted Data"
+msgstr "%s 的加密数据"
+
+msgid "%s File System Service"
+msgstr "%s 文件系统服务"
+
+msgid "%s Media"
+msgstr "%s 的介质"
+
+msgid "%s Medium"
+msgstr "%s 的介质"
+
+msgid "%s Volume"
+msgstr "%s 卷"
+
+msgid "%s for %s on %s"
+msgstr "%3$s 上 %2$s 的 %1$s"
+
+msgid "%s has been unmounted\n"
+msgstr "%s 已卸载\n"
+
+msgid "%s on %s"
+msgstr "%2$s 上的 %1$s"
+
+msgid "%s on %s%s"
+msgstr "%2$s%3$s 上的 %1$s"
+
+msgid "%s/%s Drive"
+msgstr "%s/%s 驱动器"
+
+msgid "%s: %d: Directory or file exists"
+msgstr "%s: %d: 目录或文件已存在"
+
+msgid "%s: %d: Invalid filename"
+msgstr "%s: %d: 无效的文件名"
+
+msgid "%s: %d: No such file or directory"
+msgstr "%s: %d: 没有该文件或目录"
+
+msgid "%s: %d: Not Supported"
+msgstr "%s: %d: 不支持"
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "%s: %s, error writing to stdout"
+msgstr "%s: %s，写入 stdout(标准输出) 时出错"
+
+msgid "%s: %s: error closing: %s\n"
+msgstr "%s: %s：关闭出错：%s\n"
+
+msgid "%s: %s: error opening file: %s\n"
+msgstr "%s: %s：打开文件出错：%s\n"
+
+msgid "%s: %s: error opening location: %s\n"
+msgstr "%s: %s：打开位置出错：%s\n"
+
+msgid "%s: %s: error reading: %s\n"
+msgstr "%s: %s：读取出错：%s\n"
+
+msgid "%s: missing locations"
+msgstr "%s：缺少位置"
+
+msgid "%s: overwrite ‘%s’? "
+msgstr "%s：要覆盖 %s ？ "
+
+msgid "/ on %s"
+msgstr "%s 上的 /"
+
+msgid "A passphrase is required to access the volume"
+msgstr "访问该卷需要密码"
+
+msgid "ATA Drive"
+msgstr "ATA 驱动器"
+
+msgid "ATTRIBUTE"
+msgstr "属性"
+
+msgid "ATTRIBUTES"
+msgstr "属性"
+
+msgid "Accessing application icons on device failed"
+msgstr "访问设备上的应用图标失败"
+
+msgid "Accounts are unsupported"
+msgstr "不支持这些账户"
+
+msgid "An invalid username was provided."
+msgstr "提供的是无效的用户名。"
+
+msgid "Ancestor directory doesn't exist"
+msgstr "上级目录不存在"
+
+msgid "Append to end of file"
+msgstr "追加到文件末尾"
+
+msgid "Apple Filing Protocol Service"
+msgstr "苹果文件传送协议服务"
+
+msgid "Apple Mobile Device"
+msgstr "苹果移动设备"
+
+msgid "Apple Mobile Device, Jailbroken"
+msgstr "苹果移动设备，已越狱"
+
+msgid "Attribute not specified\n"
+msgstr "属性未指定\n"
+
+msgid "Audio CD File System Service"
+msgstr "音频 CD 文件系统服务"
+
+msgid "Audio Disc"
+msgstr "音频光盘"
+
+msgid "Audio Player"
+msgstr "音频播放器"
+
+msgid "Automount failed: %s"
+msgstr "自动挂载失败：%s"
+
+msgid "Backend currently unmounting"
+msgstr "后端当前正在卸载"
+
+msgid "Backup existing destination files"
+msgstr "备份已有目的文件"
+
+msgid "Backup file creation failed"
+msgstr "创建备份文件失败"
+
+msgid "Backup file creation failed: %s"
+msgstr "创建备份文件失败：%s"
+
+msgid "Backups are not yet supported."
+msgstr "尚不支持备份。"
+
+msgid "Backups not supported"
+msgstr "不支持备份"
+
+msgid "Blank Blu-Ray Disc"
+msgstr "空白蓝光盘片"
+
+msgid "Blank Blu-Ray R Disc"
+msgstr "空白蓝光 R 盘片"
+
+msgid "Blank Blu-Ray RW Disc"
+msgstr "空白蓝光 RW 盘片"
+
+msgid "Blank CD-R Disc"
+msgstr "空白 CD-R 盘片"
+
+msgid "Blank CD-ROM Disc"
+msgstr "空白 CD-ROM 盘片"
+
+msgid "Blank CD-RW Disc"
+msgstr "空白 CD-RW 盘片"
+
+msgid "Blank DVD+R DL Disc"
+msgstr "空白 DVD+R DL 盘片"
+
+msgid "Blank DVD+R Disc"
+msgstr "空白 DVD+R 盘片"
+
+msgid "Blank DVD+RW Disc"
+msgstr "空白 DVD+RW 盘片"
+
+msgid "Blank DVD-RAM Disc"
+msgstr "空白 DVD-RAM 盘片"
+
+msgid "Blank DVD-ROM Disc"
+msgstr "空白 DVD-ROM 盘片"
+
+msgid "Blank DVD-RW Disc"
+msgstr "空白 DVD-RW 盘片"
+
+msgid "Blank Disc"
+msgstr "空白盘片"
+
+msgid "Blank HD DVD Disc"
+msgstr "空白 HD DVD 盘片"
+
+msgid "Blank HD DVD-R Disc"
+msgstr "空白 HD DVD-R 盘片"
+
+msgid "Blank HD DVD-RW Disc"
+msgstr "空白 HD DVD-RW 盘片"
+
+msgid "Blank MO Disc"
+msgstr "空白 MO 盘片"
+
+msgid "Blu-Ray Disc"
+msgstr "蓝光盘片"
+
+msgid "Blu-Ray R Disc"
+msgstr "蓝光 R 盘片"
+
+msgid "Blu-Ray RW Disc"
+msgstr "蓝光 RW 盘片"
+
+msgid "Blu-ray"
+msgstr "蓝光"
+
+msgid "Blu-ray-R"
+msgstr "蓝光-R"
+
+msgid "Blu-ray-RE"
+msgstr "蓝光-RE"
+
+msgid "Burn"
+msgstr "刻录"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-R Disc"
+msgstr "CD-R 盘片"
+
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+msgid "CD-ROM Disc"
+msgstr "CD-ROM 盘片"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "CD-RW Disc"
+msgstr "CD-RW 盘片"
+
+msgid "CD/DVD Creator"
+msgstr "CD/DVD 生成器"
+
+msgid "Camera"
+msgstr "相机"
+
+msgid "Can't copy directory over directory"
+msgstr "无法将目录复制到目录"
+
+msgid "Can't copy file over directory"
+msgstr "无法将文件复制到目录上"
+
+msgid "Can't eject file"
+msgstr "无法弹出文件"
+
+msgid "Can't find metadata file %s"
+msgstr "找不到元数据文件 %s"
+
+msgid "Can't handle version %d of GVfsIcon encoding"
+msgstr "无法处理 GVfsIcon 编码版本 %d"
+
+msgid "Can't merge directories"
+msgstr "不能合并目录"
+
+msgid "Can't monitor file or directory."
+msgstr "无法监视文件或目录。"
+
+msgid "Can't mount file"
+msgstr "无法挂载文件"
+
+msgid "Can't move a shared directory into the Trash"
+msgstr "不能将共享目录移入回收站"
+
+msgid "Can't move directory into one of its descendants"
+msgstr "不能将目录移入其子目录"
+
+msgid "Can't move directory over directory"
+msgstr "不能将目录移动到目录上"
+
+msgid "Can't move over directory"
+msgstr "无法移动到目录上"
+
+msgid "Can't move sharepoint into a shared directory"
+msgstr "不能将 sharepoint 目录移入共享目录"
+
+msgid "Can't open directory"
+msgstr "无法打开目录"
+
+msgid "Can't open mountable file"
+msgstr "无法打开可挂载文件"
+
+msgid "Can't poll file"
+msgstr "无法轮询文件"
+
+msgid "Can't recursively copy directory"
+msgstr "无法递归复制目录"
+
+msgid "Can't recursively move directory"
+msgstr "无法递归删除目录"
+
+msgid "Can't rename file, filename already exists"
+msgstr "无法重命名文件，文件名已存在"
+
+msgid "Can't rename volume"
+msgstr "无法重命名卷"
+
+msgid "Can't send host identity confirmation"
+msgstr "无法发送主机身份确认信息"
+
+msgid "Can't send password"
+msgstr "无法发送密码"
+
+msgid "Can't start drive"
+msgstr "无法启动驱动器"
+
+msgid "Can't stop drive"
+msgstr "无法停止驱动器"
+
+msgid "Can't unmount file"
+msgstr "无法卸载文件"
+
+msgid ""
+"Can't verify the identity of “%s”.\n"
+"This happens when you log in to a computer the first time.\n"
+"\n"
+"The identity sent by the remote computer is “%s”. If you want to be absolutely sure it is safe to continue, contact the system administrator."
+msgstr ""
+"无法验证“%s”的标识。\n"
+"这会在您首次登录计算机时发生。\n"
+"\n"
+"远程计算机发送的标识是“%s”。如果您要完全确保继续操作是安全的，请联系系统管理员。"
+
+msgid "Can't write to directory"
+msgstr "无法写入目录"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel Login"
+msgstr "取消登录"
+
+msgid "Cannot allocate new file to append to"
+msgstr "无法为要追加的文件分配新文件"
+
+msgid "Cannot connect to the system bus"
+msgstr "无法连接到系统主线"
+
+msgid "Cannot create gphoto2 context"
+msgstr "无法创建 gphoto2 上下文"
+
+msgid "Cannot create gudev client"
+msgstr "无法创建 gudev 客户端"
+
+msgid "Cannot create libhal context"
+msgstr "无法创建 libhal 上下文"
+
+msgid "Cannot find drive %s"
+msgstr "找不到驱动器 %s"
+
+msgid "Cannot get LUKS cleartext slave"
+msgstr "无法获取 LUKS 明文从属"
+
+msgid "Cannot get LUKS cleartext slave from path `%s'"
+msgstr "无法从“%s”路径获取 LUKS 明文从属"
+
+msgid "Cannot get data of file to append to"
+msgstr "无法获得要追加文件的数据"
+
+msgid "Cannot initialize libhal"
+msgstr "无法初始化 libhal"
+
+msgid "Cannot make directory in this location"
+msgstr "不能在此位置创建目录"
+
+msgid "Cannot open data connection. Maybe your firewall prevents this?"
+msgstr "无法打开数据连接。是不是您的防火墙不允许？"
+
+msgid "Cannot read file to append to"
+msgstr "无法读取要追加的文件"
+
+msgid "Cannot write to this location"
+msgstr "无法写入此位置"
+
+msgid "Channel blocked"
+msgstr "通道被阻塞"
+
+msgid "CompactFlash Drive"
+msgstr "CompactFlash 驱动器"
+
+msgid "Computer"
+msgstr "计算机"
+
+msgid "Concatenate files and print to the standard output."
+msgstr "合并文件并输出到标准输出。"
+
+msgid "Connection failed"
+msgstr "连接失败"
+
+msgid "Connection refused by server"
+msgstr "服务器拒绝连接"
+
+msgid "Connection unexpectedly went down"
+msgstr "连接异常中断"
+
+msgid "Copy one or more files from SOURCE to DEST."
+msgstr "复制 SOURCE 里的单个或多个文件至 DEST。"
+
+msgid "Copy with file"
+msgstr "与文件一起复制"
+
+msgid "Could not create request"
+msgstr "无法创建请求"
+
+msgid "Could not find enclosing mount"
+msgstr "找不到所属挂载点"
+
+msgid "Could not parse response"
+msgstr "无法解析响应"
+
+msgid "Couldn't find matching udev device."
+msgstr "找不到匹配的 udev 设备。"
+
+msgid "Couldn't get stream file descriptor"
+msgstr "无法取得流文件描述符"
+
+msgid "Couldn't load %s on %s"
+msgstr "无法加载 %2$s 上的 %1$s"
+
+msgid "Create directories."
+msgstr "创建目录。"
+
+msgid "Create parent directories"
+msgstr "创建父目录"
+
+msgid "DEST"
+msgstr "DEST"
+
+msgid "DEVICE"
+msgstr "设备"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD+R DL Disc"
+msgstr "DVD+R DL 盘片"
+
+msgid "DVD+R Disc"
+msgstr "DVD+R 盘片"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD+RW Disc"
+msgstr "DVD+RW 盘片"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD-RAM Disc"
+msgstr "DVD-RAM 盘片"
+
+msgid "DVD-ROM"
+msgstr "DVD-ROM"
+
+msgid "DVD-ROM Disc"
+msgstr "DVD-ROM 盘片"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "DVD-RW Disc"
+msgstr "DVD-RW 盘片"
+
+msgid "DVD±R"
+msgstr "DVD±R"
+
+msgid "DVD±RW"
+msgstr "DVD±RW"
+
+msgid "Data connection closed"
+msgstr "数据连接已关闭"
+
+msgid "Default application for '%s': %s\n"
+msgstr "对应“%s”的默认应用程序：%s\n"
+
+msgid "Delete the given files."
+msgstr "删除给出的文件。"
+
+msgid "Device not found"
+msgstr "找不到设备"
+
+msgid "Didn't get stream file descriptor"
+msgstr "未曾取得流文件描述符"
+
+msgid "Digital Camera (%s)"
+msgstr "数码相机(%s)"
+
+msgid "Directory '%s' is not empty"
+msgstr "目录“%s”非空"
+
+msgid "Directory doesn't exist"
+msgstr "目录不存在"
+
+msgid "Directory not empty"
+msgstr "目录非空"
+
+msgid "Directory notification not supported"
+msgstr "不支持目录通知"
+
+msgid "Disc"
+msgstr "盘片"
+
+msgid "Dns-SD"
+msgstr "Dns-SD"
+
+msgid "Documents on %s"
+msgstr "%s 上的文档"
+
+msgid "Documents on Apple Mobile Device"
+msgstr "苹果移动设备上的文件"
+
+msgid "Don't follow symbolic links"
+msgstr "不要跟随符号链接"
+
+msgid "Don't send single MOVED events"
+msgstr "不发送单一的 MOVED 事件"
+
+msgid "Don't start fuse."
+msgstr "不启动 fuse。"
+
+msgid "Don't use copy and delete fallback"
+msgstr "不要使用复制和删除回退"
+
+msgid "Drive %s does not contain audio files"
+msgstr "驱动器 %s 不含音频文件"
+
+msgid "ETAG"
+msgstr "ETAG"
+
+msgid "Eject"
+msgstr "弹出"
+
+msgid "Eject Anyway"
+msgstr "无论如何弹出"
+
+msgid "Empty response"
+msgstr "空响应"
+
+msgid "Empty the trash"
+msgstr "清空回收站"
+
+msgid "Enable debug output."
+msgstr "启用调试输出。"
+
+msgid "Encryption passphrase for %s"
+msgstr "%s 的加密密码"
+
+msgid "End of stream"
+msgstr "流终止"
+
+msgid ""
+"Enter a passphrase to unlock the volume\n"
+"The passphrase is needed to access encrypted data on %s."
+msgstr ""
+"输入密码以解锁该卷\n"
+"访问 %s 设备上的加密数据需要密码。"
+
+msgid ""
+"Enter a password to unlock the volume\n"
+"The device \"%s\" contains encrypted data on partition %d."
+msgstr ""
+"输入密码解锁该卷\n"
+"“%s”设备在 %d 分区包含了加密数据。"
+
+msgid ""
+"Enter a password to unlock the volume\n"
+"The device \"%s\" contains encrypted data."
+msgstr ""
+"输入密码解锁该卷\n"
+"“%s”设备包含了加密数据。"
+
+msgid ""
+"Enter a password to unlock the volume\n"
+"The device %s contains encrypted data."
+msgstr ""
+"输入密码解锁该卷\n"
+"%s 设备包含了加密数据。"
+
+msgid "Enter passphrase for secure key for %s"
+msgstr "输入 %s 的安全密钥的密码"
+
+msgid "Enter passphrase for secure key for %s on %s"
+msgstr "输入 %2$s 上 %1$s 安全密钥的密码"
+
+msgid "Enter password for %s"
+msgstr "输入 %s 的密码"
+
+msgid "Enter password for %s on %s"
+msgstr "请输入 %2$s 上 %1$s 的密码"
+
+msgid "Enter your name and password for the server “%s”."
+msgstr "输入您在服务器“%s”上的用户名和密码。"
+
+msgid "Enter your password for the server “%s”."
+msgstr "输入您在服务器“%s”上的密码。"
+
+msgid "Error closing: %s\n"
+msgstr "关闭出错：%s\n"
+
+msgid "Error copying file %s: %s\n"
+msgstr "复制 %s 文件出错：%s\n"
+
+msgid "Error creating backup file: %s"
+msgstr "创建备份文件出错：%s"
+
+msgid "Error creating camera"
+msgstr "创建照相机时出错"
+
+msgid "Error creating directory"
+msgstr "创建目录时出错"
+
+msgid "Error creating directory: %s\n"
+msgstr "创建目录出错：%s\n"
+
+msgid "Error creating file object"
+msgstr "创建文件对象时出错"
+
+msgid "Error deleting directory"
+msgstr "删除目录时出错"
+
+msgid "Error deleting file"
+msgstr "删除文件时出错"
+
+msgid "Error deleting file: %s"
+msgstr "删除文件失败：%s"
+
+msgid "Error deleting invalid passphrase from keyring (%s)"
+msgstr "从密钥环(%s)删除无效密码时出错。"
+
+msgid "Error ejecting mount: %s\n"
+msgstr "弹出挂载出错：%s\n"
+
+msgid "Error finding enclosing mount: %s\n"
+msgstr "查找封闭的挂载出错：%s\n"
+
+msgid "Error from 'paranoia' on drive %s"
+msgstr "驱动器 %s 上有来自“paranoia”的错误"
+
+msgid "Error getting data from file"
+msgstr "从文件中获取数据时出错"
+
+msgid "Error getting device information"
+msgstr "获取设备信息时出错"
+
+msgid "Error getting file"
+msgstr "获取文件时出错"
+
+msgid "Error getting writable attributes: %s\n"
+msgstr "获取可写属性出错：%s\n"
+
+msgid "Error in stream protocol: %s"
+msgstr "流协议出错：%s"
+
+msgid "Error initializing Avahi: %s"
+msgstr "初始化 Avahi 时出错：%s"
+
+msgid "Error initializing camera"
+msgstr "初始化照相机时出错"
+
+msgid "Error loading device information"
+msgstr "载入设备信息时出错"
+
+msgid "Error looking up device information"
+msgstr "查找设备信息时出错"
+
+msgid "Error mounting %s: %s\n"
+msgstr "挂载 %s 出错：%s\n"
+
+msgid "Error mounting location: %s\n"
+msgstr "挂载位置出错：%s\n"
+
+msgid "Error mounting location: Anonymous access denied\n"
+msgstr "挂载位置出错：匿名访问被拒绝\n"
+
+msgid "Error moving file %s: %s\n"
+msgstr "移动文件 %s 出错：%s\n"
+
+msgid "Error moving file: %s"
+msgstr "移动文件失败：%s"
+
+msgid "Error occurred when validating the certificate."
+msgstr "验证证书时出错。"
+
+msgid "Error opening file: %s\n"
+msgstr "打开文件出错：%s\n"
+
+msgid "Error parsing commandline options: %s\n"
+msgstr "解析命令行选项出错：%s\n"
+
+msgid "Error reading stdin"
+msgstr "读取 stdin(标准输入) 出错"
+
+msgid "Error removing target file: %s"
+msgstr "删除目标文件失败：%s"
+
+msgid "Error renaming directory"
+msgstr "重命名目录出错"
+
+msgid "Error renaming file"
+msgstr "重命名文件出错"
+
+msgid "Error resolving \"%s\" service \"%s\" on domain \"%s\""
+msgstr "在“%3$s”域上解析“%1$s”服务“%2$s”时出错"
+
+msgid ""
+"Error resolving \"%s\" service \"%s\" on domain \"%s\". One or more TXT "
+"records are missing. Keys required: \"%s\"."
+msgstr "在“%3$s”域上解析“%1$s”服务“%2$s”时出错。一个或多个 TXT 记录丢失。要求密钥：“%4$s”"
+
+msgid "Error seeking in stream"
+msgstr "流搜索时出错"
+
+msgid "Error seeking in stream on camera %s"
+msgstr "在照相机 %s 上的流搜索时出错"
+
+msgid "Error seeking in stream on drive %s"
+msgstr "在驱动器 %s 上的流搜索时出错"
+
+msgid "Error setting attribute: %s\n"
+msgstr "设置属性出错：%s\n"
+
+msgid "Error setting file metadata: %s"
+msgstr "设置文件元数据出错：%s"
+
+msgid "Error setting up camera communications port"
+msgstr "设置照相机通信端口时出错"
+
+msgid "Error storing passphrase in keyring (%s)"
+msgstr "存储密钥环(%s)中的密码时出错"
+
+msgid "Error trashing file: %s\n"
+msgstr "移动文件到回收站出错：%s\n"
+
+msgid "Error unmounting mount: %s\n"
+msgstr "卸载挂载出错：%s\n"
+
+msgid "Error while getting mount info: %s"
+msgstr "获取挂载信息时出错：%s"
+
+msgid "Error writing file"
+msgstr "写入文件时出错"
+
+msgid "Error: %s"
+msgstr "错误：%s"
+
+msgid "Error: %s\n"
+msgstr "错误：%s\n"
+
+msgid "Etag not available\n"
+msgstr "Etag 不可用\n"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "Failed to create active FTP connection."
+msgstr "创建主动 FTP 连接失败。"
+
+msgid ""
+"Failed to create active FTP connection. Maybe your router does not support "
+"this?"
+msgstr "创建主动 FTP 连接失败。或许您的路由器不支持？"
+
+msgid "Failed to eject media; one or more volumes on the media are busy."
+msgstr "弹出介质失败：介质上的一个或多个卷正忙。"
+
+msgid "Failed to eject medium; one or more volumes on the medium are busy."
+msgstr "弹出介质失败；介质上的一个或多个卷正忙。"
+
+msgid "Failed to get file list"
+msgstr "无法获取文件列表"
+
+msgid "Failed to get folder list"
+msgstr "无法获取文件夹列表"
+
+msgid "Failed to get org.gnome.OnlineAccounts.Files for %s"
+msgstr "%s：无法获取 org.gnome.OnlineAccounts.Files"
+
+msgid "Failed to load info for handler '%s'\n"
+msgstr "无法加载处理程序“%s”的信息\n"
+
+msgid "Failed to mount Windows share: %s"
+msgstr "挂载 Windows 共享失败：%s"
+
+msgid "Failed to retrieve share list from server: %s"
+msgstr "从服务器获取共享列表失败：%s"
+
+msgid "Failed to set '%s' as the default handler for '%s': %s\n"
+msgstr "无法将“%s”设为“%s”的默认处理程序：%s\n"
+
+msgid "Failure"
+msgstr "失败"
+
+msgid "File Sharing"
+msgstr "文件分享"
+
+msgid "File System"
+msgstr "文件系统"
+
+msgid "File doesn't exist"
+msgstr "文件不存在"
+
+msgid "File exists"
+msgstr "文件已存在"
+
+msgid "File is directory"
+msgstr "文件是目录"
+
+msgid "File is locked by another user"
+msgstr "文件已由其他用户锁住"
+
+msgid "File is not open for read access"
+msgstr "文件未以可读的方式打开"
+
+msgid "File is not open for write access"
+msgstr "文件未以可写的方式打开"
+
+msgid "File length changed during transfer"
+msgstr "文件长度在传输时被改变"
+
+msgid "File not found"
+msgstr "找不到文件"
+
+msgid "File system is busy"
+msgstr "文件系统正忙"
+
+msgid "File system is busy: %d open file"
+msgid_plural "File system is busy: %d open files"
+msgstr[0] "文件系统忙：打开了 %d 个文件"
+
+msgid "Filename contains invalid characters."
+msgstr "文件名包含无效字符。"
+
+msgid "FireWire Drive"
+msgstr "FireWire 驱动器"
+
+msgid "Floppy Disk"
+msgstr "软盘驱动器"
+
+msgid "Floppy Drive"
+msgstr "软盘驱动器"
+
+msgid "Follow symbolic links, mounts and shortcuts"
+msgstr "跟踪符号链接、挂载项和快捷方式"
+
+msgid "GVFS Daemon"
+msgstr "GVFS 守护进程"
+
+msgid "GVFS Metadata Daemon"
+msgstr "GVFS 元数据守护进程"
+
+msgid "GVfs GDU Volume Monitor"
+msgstr "GVfs GDU 卷监视器"
+
+msgid "GVfs UDisks2 Volume Monitor"
+msgstr "GVfs UDisks2 卷监视器"
+
+msgid "Generic libmtp error"
+msgstr "常规 libmtp 错误"
+
+msgid "Get file system info"
+msgstr "获取文件系统信息"
+
+msgid "Get or set the handler for a mime-type."
+msgstr "获取或设置 mime 类型的处理程序。"
+
+msgid "Got EOS"
+msgstr "收到 EOS"
+
+msgid "Got error \"%s\" from server"
+msgstr "收到来自服务器的错误“%s”"
+
+msgid "Got unexpected end of stream"
+msgstr "数据流意外结束"
+
+msgid "Got unknown error code %d from server"
+msgstr "收到来自服务器的错误码 %d"
+
+msgid "HANDLER"
+msgstr "处理程序"
+
+msgid "HD DVD Disc"
+msgstr "HD DVD 盘片"
+
+msgid "HD DVD-R Disc"
+msgstr "HD DVD-R 盘片"
+
+msgid "HD DVD-RW Disc"
+msgstr "HD DVD-RW 盘片"
+
+msgid "HDDVD"
+msgstr "HDDVD"
+
+msgid "HDDVD-RW"
+msgstr "HDDVD-RW"
+
+msgid "HDDVD-r"
+msgstr "HDDVD-r"
+
+msgid "HTTP Client Error: %s"
+msgstr "HTTP 客户端错误：%s"
+
+msgid "HTTP Error: %s"
+msgstr "HTTP 错误：%s"
+
+msgid "Host closed connection"
+msgstr "主机已关闭连接"
+
+msgid "Host key verification failed"
+msgstr "主机密钥认证失败"
+
+msgid "Hostname not known"
+msgstr "主机名未知"
+
+msgid "Identification not found."
+msgstr "未找到标识。"
+
+msgid "Ignore nonexistent files, never prompt"
+msgstr "忽略不存在的文件，从不提示"
+
+msgid "Ignore outstanding file operations when unmounting or ejecting"
+msgstr "在弹出或卸载时忽视未完成的文件操作"
+
+msgid "Insufficient permissions"
+msgstr "权限不足"
+
+msgid "Internal Apple File Control error"
+msgstr "内部的苹果文件控制(AFC)错误"
+
+msgid "Internal Error (%s)"
+msgstr "内部错误(%s)"
+
+msgid "Internal error: %s"
+msgstr "内部错误：%s"
+
+msgid "Internal error: Unknown Error"
+msgstr "内部错误：未知原因"
+
+msgid "Invalid AFC location: must be in the form of afc://uuid:port-number"
+msgstr "无效的 AFC 位置：必须是 afc://uuid:port-number 格式"
+
+msgid "Invalid Apple File Control data received"
+msgstr "收到了无效的苹果文件控制数据"
+
+msgid "Invalid attribute type"
+msgstr "无效的属性类型"
+
+msgid "Invalid attribute type %s\n"
+msgstr "无效的属性类型 %s\n"
+
+msgid "Invalid attribute type (uint32 expected)"
+msgstr "无效的属性类型(预期为 uint32)"
+
+msgid "Invalid attribute type (uint64 expected)"
+msgstr "无效的属性类型(预期为 uint64)"
+
+msgid "Invalid credentials for %s"
+msgstr "%s 的凭据无效"
+
+msgid "Invalid dbus message"
+msgstr "无效的 dbus 消息"
+
+msgid "Invalid file info format"
+msgstr "无效的文件信息格式"
+
+msgid "Invalid filename"
+msgstr "无效文件名"
+
+msgid "Invalid filename %s"
+msgstr "无效文件名 %s"
+
+msgid "Invalid mount spec"
+msgstr "无效的挂载描述"
+
+msgid "Invalid reply"
+msgstr "无效回复"
+
+msgid "Invalid reply received"
+msgstr "收到无效回复"
+
+msgid "Invalid return value from %s"
+msgstr "%s 返回无效值"
+
+msgid "Items in the trash may not be modified"
+msgstr "回收站中的项目不能修改"
+
+msgid "Jaz Drive"
+msgstr "Jaz 驱动器"
+
+msgid "Keep with file when moved"
+msgstr "移动时与文件一并保留"
+
+msgid "LOCATION"
+msgstr "位置"
+
+msgid "List"
+msgstr "列表"
+
+msgid "List contents of directories in a tree-like format."
+msgstr "以树形格式列举目录内容。"
+
+msgid "List the contents of the locations."
+msgstr "列出该位置的内容。"
+
+msgid "List writable attributes"
+msgstr "列出可写属性"
+
+msgid "Listing applications installed on device failed"
+msgstr "列出设备上安装的应用失败"
+
+msgid "Local Network"
+msgstr "局域网"
+
+msgid "Location is already mounted"
+msgstr "位置已挂载"
+
+msgid "Location is not mountable"
+msgstr "位置不可挂载"
+
+msgid "Location not specified\n"
+msgstr "位置未指定\n"
+
+msgid "Lockdown Error: Invalid Argument"
+msgstr "锁定错误：无效的参数"
+
+msgid "Log In Anyway"
+msgstr "仍然登录"
+
+msgid "Login dialog cancelled"
+msgstr "登录对话框被取消"
+
+msgid "MIMETYPE"
+msgstr "MIME 类型"
+
+msgid "MO Disc"
+msgstr "MO 盘片"
+
+msgid "Main daemon for GVFS"
+msgstr "GVFS 主守护进程"
+
+msgid "Malformed DNS-SD encoded_triple '%s'"
+msgstr "DNS-SD encoded_triple “%s” 格式错误"
+
+msgid "Malformed host URI."
+msgstr "主机 URI 有误。"
+
+msgid "Malformed icon identifier '%s'"
+msgstr "图标识别符“%s”的格式错误"
+
+msgid "Malformed input data for GVfsIcon"
+msgstr "GVfsIcon 的输入数据格式错误"
+
+msgid "Mass Storage Drive"
+msgstr "大容量存储驱动器"
+
+msgid "MemoryStick Drive"
+msgstr "MemoryStick 驱动器"
+
+msgid "Metadata daemon for GVFS"
+msgstr "GVFS 的元数据守护进程"
+
+msgid "Missing operand\n"
+msgstr "操作数丢失\n"
+
+msgid "Mixed Audio/Data Disc"
+msgstr "音频/数据混合盘"
+
+msgid "Monitor directories for changes."
+msgstr "监视目录更改情况。"
+
+msgid "Monitor events"
+msgstr "监视事件"
+
+msgid "Monitor files for changes."
+msgstr "监视文件更改情况。"
+
+msgid "Mount as mountable"
+msgstr "挂载为可挂载"
+
+msgid "Mount point does not exist"
+msgstr "挂载点不存在"
+
+msgid "Mount the locations."
+msgstr "挂载该位置。"
+
+msgid "Mount volume with device file"
+msgstr "挂载卷连同设备文件"
+
+msgid "Mounted %s at %s\n"
+msgstr "%s 挂载在 %s\n"
+
+msgid "Move files or directories to the trash."
+msgstr "将文件或目录移到回收站。"
+
+msgid "Move one or more files from SOURCE to DEST."
+msgstr "移动 SOURCE 里的单个或多个文件至 DEST。"
+
+msgid "Must specify a single mime-type.\n"
+msgstr "必须指定惟一的 mime 类型。\n"
+
+msgid "Must specify the mime-type followed by the default handler.\n"
+msgstr "必须指定 mime 类型，跟上默认的处理程序。\n"
+
+msgid "NEW-NAME"
+msgstr "新名称"
+
+msgid "Name already exists"
+msgstr "名字已存在"
+
+msgid "Network"
+msgstr "网络"
+
+msgid "Network Location Monitor"
+msgstr "网络位置监视器"
+
+msgid "Never follow symbolic links"
+msgstr "从不跟随符号链接"
+
+msgid "New name too long"
+msgstr "新名字过长"
+
+msgid "No"
+msgstr "否"
+
+msgid "No MTP devices found"
+msgstr "未找到 MTP 设备"
+
+msgid "No camera specified"
+msgstr "未指定照相机"
+
+msgid "No default applications for '%s'\n"
+msgstr "没有对应“%s”的默认应用程序\n"
+
+msgid "No device specified"
+msgstr "未指定设备"
+
+msgid "No drive specified"
+msgstr "未指定驱动器"
+
+msgid "No hostname specified"
+msgstr "未指定主机名"
+
+msgid "No medium in the drive"
+msgstr "驱动器中没有介质"
+
+msgid "No mount type specified"
+msgstr "未指定挂载类型"
+
+msgid "No recommended applications\n"
+msgstr "没有推荐的应用程序\n"
+
+msgid "No registered applications\n"
+msgstr "没有注册的应用程序\n"
+
+msgid "No route to host"
+msgstr "没有到主机的路由"
+
+msgid "No space left on server"
+msgstr "服务器上没有剩余空间了"
+
+msgid "No such file"
+msgstr "无此文件"
+
+msgid "No such file %s on drive %s"
+msgstr "文件 %s 在驱动器 %s 上不存在"
+
+msgid "No such file or directory"
+msgstr "文件或目录不存在"
+
+msgid "No such file or directory in target path"
+msgstr "目的路径中不存在此文件或目录"
+
+msgid "No target directory"
+msgstr "无目标目录"
+
+msgid "No thumbnail for entity '%s'"
+msgstr "没有实体“%s”的缩略图"
+
+msgid "No volume for device file %s\n"
+msgstr "没有设备文件 %s 的卷\n"
+
+msgid "No volume specified"
+msgstr "未指定卷"
+
+msgid "Not a WebDAV enabled share"
+msgstr "不是启用了 WebDAV 的共享"
+
+msgid "Not a directory"
+msgstr "不是目录"
+
+msgid "Not a mountable file"
+msgstr "非可挂载文件"
+
+msgid "Not a regular file"
+msgstr "非常规文件"
+
+msgid "Not enough space on volume"
+msgstr "卷上空间不足"
+
+msgid "Not supported"
+msgstr "不支持"
+
+msgid "Not supported (not same directory)"
+msgstr "不支持(不是同一目录)"
+
+msgid ""
+"Not supported (the source is a directory, but the destination is an existing"
+" file)"
+msgstr "不支持(源为目录，目标却为已存在文件)"
+
+msgid ""
+"Not supported (the source is a directory, the destination is a directory "
+"too)"
+msgstr "不支持(源为目录，目标也为目录)"
+
+msgid ""
+"Not supported (the source is a file, but the destination is a directory)"
+msgstr "不支持(源为文件，目标却为目录)"
+
+msgid ""
+"Note: just pipe through cat if you need its formatting options\n"
+"like -n, -T or other."
+msgstr ""
+"注意：如需要 cat 的 -n, -T 之类格式化功能，\n"
+"可通过管道用 cat 过滤。"
+
+msgid "Object being moved doesn't exist"
+msgstr "所移动的对象不存在"
+
+msgid "Object being moved is marked as not renameable (RenameInhibit)"
+msgstr "所移动的对象被标记为禁止重命名(RenameInhibit)"
+
+msgid "Object with that name already exists"
+msgstr "拥有该名字的对象已存在"
+
+msgid "One or more programs are preventing the unmount operation."
+msgstr "一个或更多程序阻止卸载操作。"
+
+msgid "Only create if not existing"
+msgstr "仅不存在时创建"
+
+msgid ""
+"Open files with the default application that\n"
+"is registered to handle files of this type."
+msgstr ""
+"使用已注册为处理该类型文件的\n"
+"默认应用程序打开文件。"
+
+msgid "Operation failed"
+msgstr "操作失败"
+
+msgid "Operation not supported"
+msgstr "不支持该操作"
+
+msgid "Operation not supported by backend"
+msgstr "后端不支持的操作"
+
+msgid "Operation not supported, files on different mounts"
+msgstr "文件在不同挂载点下，不支持此操作"
+
+msgid "Operation unsupported"
+msgstr "不支持此操作"
+
+msgid "Operation was cancelled"
+msgstr "操作被取消"
+
+msgid "PREFIX"
+msgstr "前缀"
+
+msgid "Page type unknown"
+msgstr "页面类型未知"
+
+msgid "Password dialog cancelled"
+msgstr "密码对话框被取消"
+
+msgid "Password required for %s"
+msgstr "%s 需要密码"
+
+msgid "Password required for share %s on %s"
+msgstr "共享 %s 于 %s 需要密码"
+
+msgid "Permission denied"
+msgstr "权限不足"
+
+msgid "Permission denied."
+msgstr "拒绝访问。"
+
+msgid ""
+"Permission denied: Perhaps this host is disallowed or a privileged port is "
+"needed"
+msgstr "权限不足：可能是不允许此主机或者需要特权端口"
+
+msgid "Please enter proxy password"
+msgstr "请输入代理密码"
+
+msgid "Preserve all attributes"
+msgstr "保留所有属性"
+
+msgid "Print full URIs"
+msgstr "打印完整 URI"
+
+msgid "Print new etag at end"
+msgstr "在结束打印新的 etag"
+
+msgid "Prompt before overwrite"
+msgstr "覆盖前提示"
+
+msgid "Protocol error"
+msgstr "协议错误"
+
+msgid "Query handler for mime-type"
+msgstr "mime 类型的查询处理程序"
+
+msgid "Range lock conflict exists"
+msgstr "存在范围锁冲突"
+
+msgid "Read from standard input and save to DEST."
+msgstr "从标准输入中读取并保存至 DEST。"
+
+msgid "Recent"
+msgstr "最近"
+
+msgid "Recommended applications:\n"
+msgstr "推荐的应用程序：\n"
+
+msgid "Registered applications:\n"
+msgstr "注册的应用程序：\n"
+
+msgid "Remote Login"
+msgstr "远程登陆"
+
+msgid "Rename a file."
+msgstr "重命名文件。"
+
+msgid "Rename successful. New uri: %s\n"
+msgstr "重命名成功。新的 URI：%s\n"
+
+msgid "Replace old daemon."
+msgstr "替换旧守护进程。"
+
+msgid "Response invalid"
+msgstr "响应无效"
+
+msgid "SCHEME"
+msgstr "格式"
+
+msgid "SCSI Drive"
+msgstr "SCSI 驱动器"
+
+msgid "SD/MMC Drive"
+msgstr "SD/MMC 驱动器"
+
+msgid "SOURCE"
+msgstr "源"
+
+msgid "Seek not supported on stream"
+msgstr "流不支持搜索"
+
+msgid "Server doesn't support the FPCopyFile operation"
+msgstr "服务器不支持 FPCopyFile 操作"
+
+msgid "Set a file attribute of LOCATION."
+msgstr "设置 LOCATION 的文件属性。"
+
+msgid "Set handler for mime-type"
+msgstr "mime 类型的设置处理程序"
+
+msgid "Settable attributes:\n"
+msgstr "可设定属性：\n"
+
+msgid "Show completions"
+msgstr "显示完成"
+
+msgid "Show extra information"
+msgstr "显示额外信息"
+
+msgid "Show hidden files"
+msgstr "显示隐藏文件"
+
+msgid "Show information about locations."
+msgstr "显示位置信息。"
+
+msgid "Show program version"
+msgstr "显示程序版本"
+
+msgid "Show program version."
+msgstr "显示程序版本。"
+
+msgid "Show progress"
+msgstr "显示进度"
+
+msgid "SmartMedia Drive"
+msgstr "SmartMedia 驱动器"
+
+msgid "Software RAID Drive"
+msgstr "软件 RAID 驱动器"
+
+msgid "Source file and/or destination directory doesn't exist"
+msgstr "源文件和/或目标目录不存在"
+
+msgid "Source file is a directory"
+msgstr "源文件是一个目录"
+
+msgid "Specify either --query or --set"
+msgstr "指定 --query 或 --set"
+
+msgid "Start Anyway"
+msgstr "无论如何启动"
+
+msgid ""
+"Start drive in degraded mode?\n"
+"Starting a drive in degraded mode means that the drive is no longer tolerant to failures. Data on the drive may be irrevocably lost if a component fails."
+msgstr ""
+"以降级模式启动驱动器？\n"
+"以降级模式启动驱动器，意味着驱动器不再容忍故障。如果有一个元件故障，驱动器上的数据可能会彻底丢失。"
+
+msgid "Symlinks not supported by backend"
+msgstr "后端不支持符号链接"
+
+msgid "TYPE"
+msgstr "类型"
+
+msgid "Tape Drive"
+msgstr "磁带驱动器"
+
+msgid "Target %s is not a directory\n"
+msgstr "目标 %s 不是一个目录\n"
+
+msgid "Target directory already exists"
+msgstr "目标目录已存在"
+
+msgid "Target file already exists"
+msgstr "目标文件已存在"
+
+msgid "Target file exists"
+msgstr "目标文件已存在"
+
+msgid "Target file is a directory"
+msgstr "目标文件是目录"
+
+msgid "Target file is not a regular file"
+msgstr "目标文件不是常规文件"
+
+msgid "Target file is open"
+msgstr "目标文件已打开"
+
+msgid "Target is a directory"
+msgstr "目标是一个目录"
+
+msgid "Target object doesn't exist"
+msgstr "目标对象不存在"
+
+msgid "Target object is marked as not deletable (DeleteInhibit)"
+msgstr "目标对象被标记为禁止删除(DeleteInhibit)"
+
+msgid "Target object is marked as not renameable (RenameInhibit)"
+msgstr "目标对象被标记为禁止重命名(RenameInhibit)"
+
+msgid "Target object is not a directory"
+msgstr "目标对象不是一个目录"
+
+msgid "The FTP server is busy. Try again later"
+msgstr "FTP 服务器正忙。稍后重试"
+
+msgid "The attributes to get"
+msgstr "获取的属性"
+
+msgid "The certificate does not match the identity of the site."
+msgstr "证书与网站的标识不匹配。"
+
+msgid "The certificate has been revoked."
+msgstr "该证书已被吊销。"
+
+msgid "The certificate has expired."
+msgstr "该证书已过期。"
+
+msgid "The certificate's activation time is in the future."
+msgstr "证书的激活时间是在未来。"
+
+msgid "The certificate's algorithm is considered insecure."
+msgstr "此证书所使用的算法不够安全。"
+
+msgid "The command is not supported by the server."
+msgstr "服务器不支持命令。"
+
+msgid "The connection is closed"
+msgstr "连接已关闭"
+
+msgid "The connection is closed (the underlying SSH process exited)"
+msgstr "连接已关闭(底层 SSH 进程退出)"
+
+msgid "The connection is not opened"
+msgstr "连接未打开"
+
+msgid "The connection was interrupted"
+msgstr "连接被中断"
+
+msgid "The device did not respond"
+msgstr "这个设备没有响应"
+
+msgid ""
+"The device “%s” is locked. Enter the passcode on the device and click “Try "
+"again”."
+msgstr "设备“%s”被锁定。请输入设备上的密码并点击“重试”。"
+
+msgid "The etag of the file being overwritten"
+msgstr "正在覆盖文件 etag"
+
+msgid "The file does not exist or isn't an audio track"
+msgstr "文件不存在或不是音轨"
+
+msgid "The file is not a directory"
+msgstr "此文件不是目录文件"
+
+msgid "The file was externally modified"
+msgstr "文件被其它程序更改"
+
+msgid ""
+"The host key for “%s” differs from the key for the IP address “%s”\n"
+"If you want to be absolutely sure it is safe to continue, contact the system administrator."
+msgstr ""
+"“%s” 的主机密钥与 IP 地址 “%s” 的密钥不同\n"
+"如果您完全确保继续操作是安全的，请联系系统管理员。"
+
+msgid "The password prompt was cancelled."
+msgstr "已取消密码提示。"
+
+msgid "The recent folder may not be deleted"
+msgstr "最近的文件夹 不能删除"
+
+msgid "The server doesn't support passwords longer than %d character."
+msgid_plural "The server doesn't support passwords longer than %d characters."
+msgstr[0] "服务器不支持长度超过 %d 个字符的密码。"
+
+msgid "The server “%s” doesn't support anonymous access."
+msgstr "服务器“%s”不支持匿名访问。"
+
+msgid "The signing certificate authority is not known."
+msgstr "证书签署机构未知。"
+
+msgid ""
+"The site's identity can't be verified:%s\n"
+"\n"
+"%s\n"
+"\n"
+"Are you really sure you would like to continue?"
+msgstr ""
+"无法验证该网站的标识： %s\n"
+"\n"
+"%s\n"
+"\n"
+"您真的确定要继续？"
+
+msgid "The specified location is not mounted"
+msgstr "指定的位置未挂载"
+
+msgid "The specified location is not supported"
+msgstr "不支持指定位置"
+
+msgid "The trash folder may not be deleted"
+msgstr "回收站文件夹可能不能被删除"
+
+msgid "The unlocked device does not have a recognizable file system on it"
+msgstr "已解锁的设备上没有可识别的文件系统"
+
+msgid "Thumb Drive"
+msgstr "Thumb 驱动器"
+
+msgid "Timed out resolving \"%s\" service \"%s\" on domain \"%s\""
+msgstr "在“%3$s”域上解析“%1$s”服务“%2$s”时超时"
+
+msgid "Timed out running command-line `%s'"
+msgstr "运行命令行“%s”超时"
+
+msgid "Timed out when logging in"
+msgstr "登录超时"
+
+msgid "Too many arguments\n"
+msgstr "参数太多\n"
+
+msgid "Too many authentication failures"
+msgstr "认证失败次数太多"
+
+msgid "Too many files open"
+msgstr "打开的文件过多"
+
+msgid "Transferred %s out of %s (%s/s)"
+msgstr "已经传输了 %s 总计 %s (%s / 秒)"
+
+msgid "Trash"
+msgstr "回收站"
+
+msgid "Truncate not supported on stream"
+msgstr "流不支持截短"
+
+msgid "Try \"%s --help\" for more information."
+msgstr "请用“%s --help”获得更多信息。"
+
+msgid "Try again"
+msgstr "重试"
+
+msgid "Type of the attribute"
+msgstr "属性类型"
+
+msgid "USB Drive"
+msgstr "USB 驱动器"
+
+msgid "Unable to allocate memory while detecting MTP devices"
+msgstr "在检测 MTP 设备时无法分配内存"
+
+msgid "Unable to connect"
+msgstr "无法连接"
+
+msgid "Unable to connect to MTP device"
+msgstr "无法连接 MTP 设备"
+
+msgid "Unable to connect to the server “%s” with the given password."
+msgstr "无法使用给出的密码连接到服务器“%s”。"
+
+msgid ""
+"Unable to connect to the server “%s”. A communication problem occurred."
+msgstr "无法连接到服务器“%s”。发生了通信问题。"
+
+msgid ""
+"Unable to connect to the server “%s”. No suitable authentication mechanism "
+"was found."
+msgstr "无法连接到服务器“%s”。未发现适当的认证机制。"
+
+msgid ""
+"Unable to connect to the server “%s”. The server doesn't support AFP version"
+" 3.0 or later."
+msgstr "无法连接到服务器“%s”。服务器不支持 AFP 3.0 版本或更新版本。"
+
+msgid "Unable to connect to the server. A communication problem occurred."
+msgstr "无法连接到服务器。发生了通信问题。"
+
+msgid "Unable to create temporary directory"
+msgstr "无法创建临时目录"
+
+msgid "Unable to create temporary file"
+msgstr "无法创建临时文件"
+
+msgid "Unable to create temporary file (%s)"
+msgstr "无法创建临时文件(%s)"
+
+msgid "Unable to disconnect from the server."
+msgstr "无法从服务器断开连接。"
+
+msgid "Unable to find supported SSH command"
+msgstr "无法找到支持的 SSH 命令"
+
+msgid "Unable to login to the server “%s” with the given password."
+msgstr "无法使用给出的密码登陆到服务器“%s”。"
+
+msgid "Unable to move metadata keys"
+msgstr "无法移动元数据键值"
+
+msgid "Unable to open MTP device '%s'"
+msgstr "无法打开 MTP 设备“%s”"
+
+msgid "Unable to open source file for reading"
+msgstr "无法打开源文件读取"
+
+msgid "Unable to remove metadata keys"
+msgstr "无法删除元数据键值"
+
+msgid "Unable to set metadata key"
+msgstr "无法设定元数据键值"
+
+msgid "Unable to spawn SSH program"
+msgstr "无法调用 SSH 程序"
+
+msgid "Unable to spawn SSH program: %s"
+msgstr "无法调用 SSH 程序：%s"
+
+msgid "Unable to unset metadata key"
+msgstr "无法复位元数据键值"
+
+msgid "Unexpected end of stream"
+msgstr "数据流意外结束"
+
+msgid "Unexpected host URI format."
+msgstr "主机 URI 格式异常。"
+
+msgid "Unexpected reply from server"
+msgstr "服务器给出意外回复"
+
+msgid "Unhandled Apple File Control error (%d)"
+msgstr "未处理的苹果文件控制(AFC)错误(%d)"
+
+msgid "Unhandled Lockdown error (%d)"
+msgstr "未处理的锁定错误(%d)"
+
+msgid "Unhandled libimobiledevice error (%d)"
+msgstr "未处理的 libimobiledevice 错误(%d)"
+
+msgid "Unknown error."
+msgstr "未知错误。"
+
+msgid "Unmount"
+msgstr "卸载"
+
+msgid "Unmount Anyway"
+msgstr "无论如何卸载"
+
+msgid "Unmount all mounts with the given scheme"
+msgstr "卸载指定格式的所有挂载"
+
+msgid ""
+"Unmounting %s\n"
+"Please wait"
+msgstr ""
+"正在卸载 %s\n"
+"请稍等"
+
+msgid "Unnamed Drive"
+msgstr "未命名的驱动器"
+
+msgid "Unnamed Drive (%s)"
+msgstr "未命名驱动器 (%s)"
+
+msgid "Unsupported authentication method for %s"
+msgstr "%s：不支持的认证方法"
+
+msgid "Unsupported network protocol"
+msgstr "不支持的网络协议"
+
+msgid "Unsupported seek type"
+msgstr "不支持此搜索类型"
+
+msgid "Usage: %s --spawner dbus-id object_path"
+msgstr "用法：%s --spawner dbus-id 对象路径"
+
+msgid "Usage: %s key=value key=value ..."
+msgstr "用法：%s key=value key=value ..."
+
+msgid "Use a long listing format"
+msgstr "使用长列表格式"
+
+msgid "Use an anonymous user when authenticating"
+msgstr "使用匿名用户进行身份认证"
+
+msgid "VALUE"
+msgstr "值"
+
+msgid "Value not specified\n"
+msgstr "未指定值\n"
+
+msgid "Volume"
+msgstr "卷"
+
+msgid "Volume doesn't exist"
+msgstr "卷不存在"
+
+msgid ""
+"Volume is busy\n"
+"One or more applications are keeping the volume busy."
+msgstr ""
+"卷被占用\n"
+"一个或更多应用程序正在占用卷。"
+
+msgid "Volume is flat and doesn't support directories"
+msgstr "卷是平的(flat)，不支持目录"
+
+msgid "Volume is read-only"
+msgstr "卷是只读的"
+
+msgid "WebDAV share"
+msgstr "WebDAV 共享"
+
+msgid "When creating, restrict access to the current user"
+msgstr "当创建文件时，限制对当前用户的访问"
+
+msgid "When replacing, replace as if the destination did not exist"
+msgstr "覆盖时，当作默认目标文件不存在"
+
+msgid "Windows Network"
+msgstr "Windows 网络"
+
+msgid "Windows Network File System Service"
+msgstr "Windows 网络文件系统服务"
+
+msgid "Windows Shares File System Service"
+msgstr "Windows 共享文件系统服务"
+
+msgid "Windows shares on %s"
+msgstr "%s 上的 Windows 共享"
+
+msgid "Writable attribute namespaces:\n"
+msgstr "可写的属性命名空间：\n"
+
+msgid ""
+"Writing data to %s\n"
+"Don't unplug until finished"
+msgstr ""
+"正在将数据写入 %s\n"
+"结束前不要拔掉"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "You can now unplug %s\n"
+msgstr "您现在可以拔掉 %s\n"
+
+msgid "Your password has expired."
+msgstr "您的密码已过期。"
+
+msgid "Your password needs to be changed."
+msgstr "您的密码需要更换。"
+
+msgid "Zip Drive"
+msgstr "Zip 驱动器"
+
+msgid "attributes:\n"
+msgstr "属性：\n"
+
+msgid "backups not supported"
+msgstr "不支持备份"
+
+msgid "backups not supported yet"
+msgstr "尚不支持备份"
+
+msgid "can't get metadata proxy"
+msgstr "无法获取元数据代理"
+
+msgid "can't open metadata tree"
+msgstr "无法打开元数据树"
+
+msgid "cdda mount on %s"
+msgstr "%s 上挂载的 cdda"
+
+msgid "directory"
+msgstr "目录"
+
+msgid "display name: %s\n"
+msgstr "显示名称：%s\n"
+
+msgid "edit name: %s\n"
+msgstr "编辑名称：%s\n"
+
+msgid "error starting mount daemon"
+msgstr "启动挂载守护进程失败"
+
+msgid "gphoto2 mount on %s"
+msgstr "%s 上的 gphoto2 挂载"
+
+msgid ""
+"gvfs-cat works just like the traditional cat utility, but using gvfs\n"
+"locations instead of local files: for example you can use something\n"
+"like smb://server/resource/file.txt as location."
+msgstr ""
+"gvfs-cat 工作方式与传统的 cat 工具类似，但使用的是 gvfs\n"
+"位置而不是本地文件：例如，可以用 smb://server/resource/file.txt\n"
+"作为位置。"
+
+msgid ""
+"gvfs-ls is similar to the traditional ls utility, but using gvfs\n"
+"locations instead of local files: for example you can use something\n"
+"like smb://server/resource/file.txt as location. File attributes can\n"
+"be specified with their gvfs name, e.g. standard::icon."
+msgstr ""
+"gvfs-ls 与传统的 ls 工具类似，但使用的是 gvfs 位置\n"
+"而不是本地文件：例如，可以用 smb://server/resource/file.txt\n"
+"作为位置。文件属性可由它们的 gvfs 名称指定，例如\n"
+"standard::icon。"
+
+msgid "hidden\n"
+msgstr "隐藏\n"
+
+msgid "invalid type"
+msgstr "无效类型"
+
+msgid "libimobiledevice Error: Invalid Argument"
+msgstr "libimobiledevice 错误：无效参数"
+
+msgid ""
+"libimobiledevice Error: No device found. Make sure usbmuxd is set up "
+"correctly."
+msgstr "libimobiledevice 错误：没有发现设备。请确认 usbmuxd 已经设置好了。"
+
+msgid "libmtp error: %s"
+msgstr "libmtp 错误：%s"
+
+msgid "mountable"
+msgstr "可挂载"
+
+msgid "mountpoint for %s already running"
+msgstr "%s 的挂载点已在运行"
+
+msgid "name: %s\n"
+msgstr "名称：%s\n"
+
+msgid "regular"
+msgstr "常规"
+
+msgid "shortcut"
+msgstr "快捷方式"
+
+msgid "size: "
+msgstr "大小： "
+
+msgid "special"
+msgstr "特别"
+
+msgid "symlink"
+msgstr "符号链接"
+
+msgid "type: %s\n"
+msgstr "类型：%s\n"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "uri: %s\n"
+msgstr "URI：%s\n"
+
+msgid "values must be string or list of strings"
+msgstr "值必须是字符串或字符串列表"

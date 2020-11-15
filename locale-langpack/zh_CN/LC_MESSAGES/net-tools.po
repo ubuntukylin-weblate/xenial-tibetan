@@ -1,0 +1,887 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: net-tools\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-06-30 12:28+0900\n"
+"PO-Revision-Date: 2010-04-09 06:06+0000\n"
+"Last-Translator: Liu Qishuai <Unknown>\n"
+"Language-Team: Chinese/Simplified <i18n-translation@lists.linux.net.cn>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:02+0000\n"
+
+msgid ""
+"\n"
+"Unless you are using bind or NIS for host lookups you can change the DNS\n"
+msgstr ""
+"\n"
+"您可以改变 DNS，除非你正使用 bind 或 NIS 做主机查找。\n"
+
+msgid "             compressed:%lu\n"
+msgstr "             压缩:%lu\n"
+
+msgid "          %s addr:%s "
+msgstr "          %s 地址:%s "
+
+msgid "          [ mode { ipip | gre | sit } ] [ remote ADDR ] [ local ADDR ]\n"
+msgstr "          [ 模式 { ipip | gre | sit } ] [ 远程地址 ] [ 本地地址 ]\n"
+
+msgid "          collisions:%lu "
+msgstr "          碰撞:%lu "
+
+msgid "          inet6 addr: %s/%d"
+msgstr "          inet6 地址: %s/%d"
+
+msgid "        --numeric-hosts          don't resolve host names\n"
+msgstr "        --numeric-hosts          不解析主机名\n"
+
+msgid "        --numeric-ports          don't resolve port names\n"
+msgstr "        --numeric-ports          忽略端口名称\n"
+
+msgid "        --numeric-users          don't resolve user names\n"
+msgstr "        --numeric-users          忽略用户名\n"
+
+msgid "        -A, -p, --protocol       specify protocol family\n"
+msgstr "        -A, -p, --protocol       指定协议族\n"
+
+msgid "        -D, --use-device         read <hwaddr> from given device\n"
+msgstr "        -D, --use-device         读取所给定设备的硬件地址\n"
+
+msgid ""
+"        -a                       display (all) hosts in alternative (BSD) "
+"style\n"
+msgstr "        -a                       以另一种（BSD）风格显示（所有）主机\n"
+
+msgid "        -d, --delete             delete a specified entry\n"
+msgstr "        -d, --delete             删除指定记录\n"
+
+msgid "        -e, --extend             display other/more information\n"
+msgstr "        -e, --extend             显示更多信息\n"
+
+msgid ""
+"        -f, --file               read new entries from file or from /etc/ethers\n"
+"\n"
+msgstr ""
+"        -f, --file               从文件或 /etc/ethers 中读取新记录\n"
+"\n"
+
+msgid "        -i, --device             specify network interface (e.g. eth0)\n"
+msgstr "        -i, --device             指定网络接口（如 eth0）\n"
+
+msgid "        -n, --numeric            don't resolve names\n"
+msgstr "        -n, --numeric            不解析名称\n"
+
+msgid "        -r, --route              display routing table\n"
+msgstr "        -r, --route              显示路由表\n"
+
+msgid "        -s, --set                set a new ARP entry\n"
+msgstr "        -s, --set                设置一个新的 ARP 记录\n"
+
+msgid "        -v, --verbose            be verbose\n"
+msgstr "        -v, --verbose            显示详细信息\n"
+
+msgid ""
+"       domainname [-v] {nisdomain|-F file}   set NIS domainname (from "
+"file)\n"
+msgstr "       域名 [-v] {NIS域|-F 文件} 设置NIS域名（从文件）\n"
+
+msgid ""
+"       hostname -V|--version|-h|--help       print info and exit\n"
+"\n"
+msgstr ""
+"       hostname -V|--version|-h|--help       输出信息并退出\n"
+"\n"
+
+msgid ""
+"       hostname [-v]                         display hostname\n"
+"\n"
+msgstr ""
+"       hostname [-v]                         显示主机名\n"
+"\n"
+
+msgid "       hostname [-v] [-d|-f|-s|-a|-i|-y|-n]  display formatted name\n"
+msgstr "       主机名 [-v] [-d|-f|-s|-a|-i|-y|-n] 显示格式化名字\n"
+
+msgid ""
+"       iptunnel -V | --version\n"
+"\n"
+msgstr ""
+"       iptunnel -V | --version\n"
+"\n"
+
+msgid "       netstat [-vnNcaeol] [<Socket> ...]\n"
+msgstr "       netstat [-vnNcaeol] [<Socket> ...]\n"
+
+msgid ""
+"       netstat { [-veenNac] -i | [-cnNe] -M | -s }\n"
+"\n"
+msgstr ""
+"       netstat { [-veenNac] -i | [-cnNe] -M | -s }\n"
+"\n"
+
+msgid ""
+"       nodename [-v] {nodename|-F file}      set DECnet node name (from "
+"file)\n"
+msgstr "       nodename [-v] {节点名|-F 文件}         设置 DECnet 节点名（从文件）\n"
+
+msgid "       plipconfig -V | --version\n"
+msgstr "       plipconfig -V | --version\n"
+
+msgid ""
+"       rarp -V                               display program version.\n"
+"\n"
+msgstr ""
+"       rarp -V                               显示程序版本\n"
+"\n"
+
+msgid "       rarp -d <hostname>                    delete entry from cache.\n"
+msgstr "       rarp -d <hostname>                    从缓存中删除记录\n"
+
+msgid ""
+"       rarp -f                               add entries from /etc/ethers.\n"
+msgstr "       rarp -f                               从 /etc/ethers中添加记录\n"
+
+msgid "       rarp [<HW>] -s <hostname> <hwaddr>    add entry to cache.\n"
+msgstr "       rarp [<HW>] -s <hostname> <hwaddr>   向缓存中添加记录\n"
+
+msgid ""
+"       route [-v] [-FC] {add|del|flush} ...  Modify routing table for AF.\n"
+"\n"
+msgstr ""
+"       route [-v] [-FC] {add|del|flush} ...  为AF修改路由表。\n"
+"\n"
+
+msgid ""
+"       route {-V|--version}                  Display version/author and exit.\n"
+"\n"
+msgstr ""
+"       route {-V|--version}                  显示版本和作者信息并退出。\n"
+"\n"
+
+msgid "     - no statistics available -"
+msgstr "     - 没有可用的统计信息 -"
+
+msgid ""
+"    -F, --file            read hostname or NIS domainname from given file\n"
+"\n"
+msgstr ""
+"    -F, --file 从给定文件中读取主机名或者NIS域名\n"
+"\n"
+
+msgid "    -a, --alias           alias names\n"
+msgstr "    -a, --alias           别名\n"
+
+msgid "    -d, --domain          DNS domain name\n"
+msgstr "    -d, --domain          DNS 域名\n"
+
+msgid "    -f, --fqdn, --long    long host name (FQDN)\n"
+msgstr "    -f, --fqdn, --long    长主机名（FQDN）\n"
+
+msgid "    -i, --ip-address      addresses for the hostname\n"
+msgstr "    -i, --ip-address      对应主机名的地址\n"
+
+msgid "    -n, --node            DECnet node name\n"
+msgstr "    -n, --node            DECnet 节点名\n"
+
+msgid "    -s, --short           short host name\n"
+msgstr "    -s, --short           短主机名\n"
+
+msgid "    -y, --yp, --nis       NIS/YP domainname\n"
+msgstr "    -y, --yp, --nis       NIS/YP 域名\n"
+
+msgid ""
+"    dnsdomainname=hostname -d, {yp,nis,}domainname=hostname -y\n"
+"\n"
+msgstr ""
+"    dnsdomainname=hostname -d, {yp,nis,}domainname=hostname -y\n"
+"\n"
+
+msgid ""
+"   This command can read or set the hostname or the NIS domainname. You can\n"
+"   also read the DNS domain or the FQDN (fully qualified domain name).\n"
+"   Unless you are using bind or NIS for host lookups you can change the\n"
+"   FQDN (Fully Qualified Domain Name) and the DNS domain name (which is\n"
+"   part of the FQDN) in the /etc/hosts file.\n"
+msgstr ""
+"   此命令可以读取或者设置主机名或者NIS域名。\n"
+"   您也能读取 DNS 域或者 FQDN（正式域名）。\n"
+"   除非您使用 bind 或者 NIS 做主机查找，\n"
+"   你能改变在/etc/hosts中的FQDN（正式域名）\n"
+"   和 DNS 域名（FQDN的一部分）。\n"
+
+msgid "  <AF>=Address family. Default: %s\n"
+msgstr "  <AF>=地址族。默认：%s\n"
+
+msgid "  <AF>=Use '-6|-4' or '-A <af>' or '--<af>'; default: %s\n"
+msgstr "  <AF>=Use '-6|-4' or '-A <af>' or '--<af>'；默认： %s\n"
+
+msgid "  <AF>=Use '-A <af>' or '--<af>'; default: %s\n"
+msgstr "  <AF>=使用 '-A <af>' or '--<af>'; 默认: %s\n"
+
+msgid "  <HW>=Hardware Type.\n"
+msgstr "  <HW>=硬件类型。\n"
+
+msgid "  <HW>=Use '-H <hw>' to specify hardware address type. Default: %s\n"
+msgstr "  <HW>=使用 '-H <hw>' 指定硬件地址类型。默认：%s\n"
+
+msgid ""
+"  <Socket>={-t|--tcp} {-u|--udp} {-w|--raw} {-x|--unix} --ax25 --ipx "
+"--netrom\n"
+msgstr ""
+"  <Socket>={-t|--tcp} {-u|--udp} {-w|--raw} {-x|--unix} --ax25 --ipx "
+"--netrom\n"
+
+msgid "  Checksum output packets.\n"
+msgstr "  校验发出的数据包。\n"
+
+msgid "  List of possible address families (which support routing):\n"
+msgstr "  列出所有支持的协议：\n"
+
+msgid "  List of possible address families:\n"
+msgstr "  可能的地址族列表：\n"
+
+msgid "  List of possible hardware types (which support ARP):\n"
+msgstr "  所有可能硬件类型列表:\n"
+
+msgid "  List of possible hardware types:\n"
+msgstr "  可能硬件类型列表:\n"
+
+msgid "  [[-]broadcast [<address>]]  [[-]pointopoint [<address>]]\n"
+msgstr "  [[-]broadcast [<address>]]  [[-]pointopoint [<address>]]\n"
+
+msgid "  [[-]dynamic]\n"
+msgstr "  [[-]dynamic]\n"
+
+msgid "  [[-]trailers]  [[-]arp]  [[-]allmulti]\n"
+msgstr "  [[-]trailers]  [[-]arp]  [[-]allmulti]\n"
+
+msgid "  [add <address>[/<prefixlen>]]\n"
+msgstr "  [add <address>[/<prefixlen>]]\n"
+
+msgid "  [del <address>[/<prefixlen>]]\n"
+msgstr "  [del <address>[/<prefixlen>]]\n"
+
+msgid "  [hw <HW> <address>]  [metric <NN>]  [mtu <NN>]\n"
+msgstr "  [hw <HW> <address>]  [metric <NN>]  [mtu <NN>]\n"
+
+msgid "  [mem_start <NN>]  [io_addr <NN>]  [irq <NN>]  [media <type>]\n"
+msgstr "  [mem_start <NN>] [io_addr <NN>] [irq <NN>] [media <type>]\n"
+
+msgid "  [multicast]  [[-]promisc]\n"
+msgstr "  [multicast] [[-]promisc]\n"
+
+msgid "  [netmask <address>]  [dstaddr <address>]  [tunnel <address>]\n"
+msgstr "  [netmask <address>]  [dstaddr <address>]  [tunnel <address>]\n"
+
+msgid "  [outfill <NN>] [keepalive <NN>]\n"
+msgstr "  [outfill <NN>] [keepalive <NN>]\n"
+
+msgid "  [txqueuelen <NN>]\n"
+msgstr "  [txqueuelen <NN>]\n"
+
+msgid ""
+"  [up|down] ...\n"
+"\n"
+msgstr ""
+"  [up|down] ...\n"
+"\n"
+
+msgid ""
+"  arp [-v]          [-i <if>] -d  <host> [pub]               <-Delete ARP "
+"entry\n"
+msgstr "  arp [-v]  [-i <if>] -d  <host> [pub]  <- 删除ARP记录\n"
+
+msgid ""
+"  arp [-v]   [<HW>] [-i <if>] -Ds <host> <if> [netmask <nm>] pub          <-''-\n"
+"\n"
+msgstr ""
+"  arp [-v]   [<HW>] [-i <if>] -Ds <host> <if> [netmask <nm>] pub          <-''-\n"
+"\n"
+
+msgid ""
+"  arp [-v]   [<HW>] [-i <if>] -s  <host> <hwaddr> [temp]            <-Add "
+"entry\n"
+msgstr "  arp [-v]   [<HW>] [-i <if>] -s  <host> <hwaddr> [temp]   <-添加记录\n"
+
+msgid ""
+"  arp [-vnD] [<HW>] [-i <if>] -f  [<filename>]            <-Add entry from "
+"file\n"
+msgstr "  arp [-vnD] [<HW>] [-i <if>] -f  [<filename>]      <- 从文件添加记录\n"
+
+msgid " Bcast:%s "
+msgstr " 广播:%s "
+
+msgid " MTU:%d  Metric:%d"
+msgstr " MTU:%d  跃点数:%d"
+
+msgid " Mask:%s\n"
+msgstr " 掩码:%s\n"
+
+msgid " P-t-P:%s "
+msgstr " 点对点:%s "
+
+msgid " Path\n"
+msgstr " 路径\n"
+
+msgid " User"
+msgstr " 用户"
+
+msgid "%-9.9s Link encap:%s  "
+msgstr "%-9.9s 链路封装:%s  "
+
+msgid "%s (%s) -- no entry\n"
+msgstr "%s (%s) -- 没有记录\n"
+
+msgid "%s (%s) at "
+msgstr "%s (%s) 位于 "
+
+msgid "%s: %s/ip  remote %s  local %s "
+msgstr "%s: %s/ip  远端 %s  本地 %s "
+
+msgid "%s: ERROR while getting interface flags: %s\n"
+msgstr "%s: 获取接口标志时出错: %s\n"
+
+msgid "%s: ERROR while testing interface flags: %s\n"
+msgstr "%s: 测试接口标志时出错: %s\n"
+
+msgid "%s: You can't change the DNS domain name with this command\n"
+msgstr "%s: 您不能使用此命令改变 DNS 域名\n"
+
+msgid "%s: address family not supported!\n"
+msgstr "%s: 地址族不支持!\n"
+
+msgid "%s: bad hardware address\n"
+msgstr "%s: 错误的硬件地址\n"
+
+msgid "%s: can't open `%s'\n"
+msgstr "%s: 无法打开 `%s'\n"
+
+msgid "%s: error fetching interface information: %s\n"
+msgstr "%s: 获取接口信息时发生错误: %s\n"
+
+msgid "%s: hardware type not supported!\n"
+msgstr "%s: 硬件类型不支持!\n"
+
+msgid "%s: invalid %s address.\n"
+msgstr "%s: 不正确的 %s 地址。\n"
+
+msgid "%s: name too long\n"
+msgstr "%s: 名称过长\n"
+
+msgid "%s: you must be root to change the domain name\n"
+msgstr "%s: 您必须成为 root 才能改变域名\n"
+
+msgid "%s: you must be root to change the host name\n"
+msgstr "%s: 您必须成为 root 才能改变主机名\n"
+
+msgid "%s: you must be root to change the node name\n"
+msgstr "%s: 你必须成为 root 才能改变节点名\n"
+
+msgid "%u dropped because of missing route"
+msgstr "%u 被抛弃，因为没有路由"
+
+msgid "%u forwarded"
+msgstr "%u 已转发"
+
+msgid "%u outgoing packets dropped"
+msgstr "%u 发出的报被抛弃"
+
+msgid "%u requests sent out"
+msgstr "%u请求已发出"
+
+msgid "%u total packets received"
+msgstr "共计收到%u个数据包"
+
+msgid "%u with invalid addresses"
+msgstr "%u 的地址无效"
+
+msgid "%u with invalid headers"
+msgstr "%u 的头无效"
+
+msgid "%u with unknown protocol"
+msgstr "%u的协议未知"
+
+msgid "(No info could be read for \"-p\": geteuid()=%d but you should be root.)\n"
+msgstr "(对于 \"-p\":geteuid()=%d，非 root 用户无法读取信息)\n"
+
+msgid ""
+"(Not all processes could be identified, non-owned process info\n"
+" will not be shown, you would have to be root to see it all.)\n"
+msgstr "（并非所有进程都能被检测到，所有非本用户的进程信息将不会显示，如果想看到所有信息，则必须切换到 root 用户）\n"
+
+msgid "(auto)"
+msgstr "(自动)"
+
+msgid "(incomplete)"
+msgstr "(incomplete)"
+
+msgid "(only servers)"
+msgstr "(仅服务器)"
+
+msgid "(servers and established)"
+msgstr "(服务器和已建立连接的)"
+
+msgid "(w/o servers)"
+msgstr "(w/o 服务器)"
+
+msgid "16/4 Mbps Token Ring"
+msgstr "16/4 Mbps 令牌环"
+
+msgid "16/4 Mbps Token Ring (New)"
+msgstr "16/4 Mbps 令牌环 (新)"
+
+msgid "<from_interface>"
+msgstr "<来自于接口>"
+
+msgid "<incomplete> "
+msgstr "<incomplete> "
+
+msgid "Active Internet connections "
+msgstr "激活Internet连接 "
+
+msgid "Active NET/ROM sockets\n"
+msgstr "活动的 NET/ROM 套接字\n"
+
+msgid "Active UNIX domain sockets "
+msgstr "活跃的UNIX域套接字 "
+
+msgid "Active X.25 sockets\n"
+msgstr "活动的 X.25 套接字\n"
+
+msgid ""
+"Address                  HWtype  HWaddress           Flags Mask            "
+"Iface\n"
+msgstr "地址                     类型    硬件地址            标志  Mask            接口\n"
+
+msgid "Address deletion not supported on this system.\n"
+msgstr "此系统不支持地址检测。\n"
+
+msgid "Bad address.\n"
+msgstr "错误地址。\n"
+
+msgid "Base address:0x%x "
+msgstr "基本地址:0x%x "
+
+msgid "Broadcast tunnel requires a source address.\n"
+msgstr "广播需要一个源地址。\n"
+
+msgid "CLOSE"
+msgstr "CLOSE"
+
+msgid "CLOSE_WAIT"
+msgstr "CLOSE_WAIT"
+
+msgid "CLOSING"
+msgstr "CLOSING"
+
+msgid "CONN SENT"
+msgstr "CONN SENT"
+
+msgid "CONNECTED"
+msgstr "已连接"
+
+msgid "CONNECTING"
+msgstr "正在连接"
+
+msgid "DGRAM"
+msgstr "数据报"
+
+msgid "DISC SENT"
+msgstr "DISC SENT"
+
+msgid "DISCONNECTING"
+msgstr "正在断开连接"
+
+msgid "DMA chan:%x "
+msgstr "DMA通道:%x "
+
+msgid "Default TTL is %u"
+msgstr "默认的TTL值是%u"
+
+msgid ""
+"Destination     Gateway         Genmask         Flags Metric Ref    Use "
+"Iface\n"
+msgstr "目标            网关            子网掩码        标志  跃点   引用  使用 接口\n"
+
+msgid "Don't know how to set addresses for family %d.\n"
+msgstr "不知道如何为协议 %d设置地址。\n"
+
+msgid "ESTAB"
+msgstr "已建立连接的"
+
+msgid "ESTABLISHED"
+msgstr "ESTABLISHED"
+
+msgid "Entries: %d\tSkipped: %d\tFound: %d\n"
+msgstr "记录: %d\t跳过: %d\t找到: %d\n"
+
+msgid "Ethernet"
+msgstr "以太网"
+
+msgid "FIN_WAIT1"
+msgstr "FIN_WAIT1"
+
+msgid "FIN_WAIT2"
+msgstr "FIN_WAIT2"
+
+msgid "Failed to get type of [%s]\n"
+msgstr "获取 [%s]的类型失败\n"
+
+msgid "HWaddr %s  "
+msgstr "硬件地址 %s  "
+
+msgid "ICMP input histogram:"
+msgstr "ICMP接收历史"
+
+msgid "ICMP output histogram:"
+msgstr "ICMP发出历史"
+
+msgid "INET (IPv4) not configured in this system.\n"
+msgstr "此系统未配置 INET (IPv4)。\n"
+
+msgid "INET6 (IPv6) not configured in this system.\n"
+msgstr "此系统未配置 INET6 (IPv6)。\n"
+
+msgid "IPv6"
+msgstr "IPv6"
+
+msgid "IPv6-in-IPv4"
+msgstr "IPv6-in-IPv4"
+
+msgid ""
+"Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR "
+"Flg\n"
+msgstr ""
+"Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR "
+"Flg\n"
+
+msgid ""
+"Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR   TX-OK TX-ERR TX-DRP TX-OVR "
+"Flg\n"
+msgstr ""
+"Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR   TX-OK TX-ERR TX-DRP TX-OVR "
+"Flg\n"
+
+msgid "Interface %s not initialized\n"
+msgstr "接口 %s 未初始化\n"
+
+msgid "Interrupt:%d "
+msgstr "中断:%d "
+
+msgid "IrLAP"
+msgstr "IrLAP"
+
+msgid "Kernel IP routing cache\n"
+msgstr "内核 IP 路由缓存\n"
+
+msgid "Kernel IP routing table\n"
+msgstr "内核 IP 路由表\n"
+
+msgid "Kernel IPv6 routing table\n"
+msgstr "内核 IPv6 路由表\n"
+
+msgid "LAST_ACK"
+msgstr "LAST_ACK"
+
+msgid "LISTEN"
+msgstr "LISTEN"
+
+msgid "LISTENING"
+msgstr "LISTENING"
+
+msgid "Local Loopback"
+msgstr "本地环回"
+
+msgid "Media:%s"
+msgstr "媒介:%s"
+
+msgid "No ARP entry for %s\n"
+msgstr "没有 %s 的 ARP 记录\n"
+
+msgid "No support for ECONET on this system.\n"
+msgstr "此系统上不支持 ECONET。\n"
+
+msgid "No support for INET on this system.\n"
+msgstr "本系统不支持 INET。\n"
+
+msgid "No support for INET6 on this system.\n"
+msgstr "此系统不支持 INET6。\n"
+
+msgid "Point-to-Point Protocol"
+msgstr "点对点协议"
+
+msgid "Problem reading data from %s\n"
+msgstr "从%s读取数据时出现问题\n"
+
+msgid "RAW"
+msgstr "原始的"
+
+msgid "RDM"
+msgstr "RDM"
+
+msgid "RECOVERY"
+msgstr "恢复"
+
+msgid "RX bytes:%llu (%lu.%lu %s)  TX bytes:%llu (%lu.%lu %s)\n"
+msgstr "接收字节:%llu (%lu.%lu %s)  发送字节:%llu (%lu.%lu %s)\n"
+
+msgid "RX packets:%llu errors:%lu dropped:%lu overruns:%lu frame:%lu\n"
+msgstr "接收数据包:%llu 错误:%lu 丢弃:%lu 过载:%lu 帧数:%lu\n"
+
+msgid "Resolving `%s' ...\n"
+msgstr "正在解析 `%s' ...\n"
+
+msgid "Result: h_addr_list=`%s'\n"
+msgstr "结果: h_addr_list=`%s'\n"
+
+msgid "Result: h_aliases=`%s'\n"
+msgstr "结果: h_aliases=`%s'\n"
+
+msgid "Result: h_name=`%s'\n"
+msgstr "结果: h_name=`%s'\n"
+
+msgid "SEQPACKET"
+msgstr "SEQPACKET"
+
+msgid "STREAM"
+msgstr "流"
+
+msgid "SYN_RECV"
+msgstr "SYN_RECV"
+
+msgid "SYN_SENT"
+msgstr "SYN_SENT"
+
+msgid "Setting domainname to `%s'\n"
+msgstr "正在设置域名为 `%s'\n"
+
+msgid "Setting hostname to `%s'\n"
+msgstr "正在设置主机名为 `%s'\n"
+
+msgid "Setting nodename to `%s'\n"
+msgstr "设置节点名为 `%s'\n"
+
+msgid "TIME_WAIT"
+msgstr "TIME_WAIT"
+
+msgid "TX packets:%llu errors:%lu dropped:%lu overruns:%lu carrier:%lu\n"
+msgstr "发送数据包:%llu 错误:%lu 丢弃:%lu 过载:%lu 载波:%lu\n"
+
+msgid "This kernel does not support RARP.\n"
+msgstr "内核不支持 RARP。\n"
+
+msgid "UNK."
+msgstr "UNK."
+
+msgid "UNKNOWN"
+msgstr "未知"
+
+msgid "UNSPEC"
+msgstr "未指定"
+
+msgid "Unknown media type.\n"
+msgstr "未知媒体类型。\n"
+
+msgid ""
+"Usage:\n"
+"  arp [-vn]  [<HW>] [-i <if>] [-a] [<hostname>]             <-Display ARP cache\n"
+msgstr ""
+"用法：\n"
+"  arp [-vn]  [<HW>] [-i <if>] [-a] [<hostname>]                 <-显示 ARP 缓存\n"
+
+msgid ""
+"Usage:\n"
+"  ifconfig [-a] [-v] [-s] <interface> [[<AF>] <address>]\n"
+msgstr ""
+"用法:\n"
+"  ifconfig [-a] [-v] [-s] <interface> [[<AF>] <address>]\n"
+
+msgid "Usage: hostname [-v] {hostname|-F file}      set hostname (from file)\n"
+msgstr "用法：hostname [-v] {主机名|-F 文件}          设置主机名（从文件）\n"
+
+msgid "Usage: iptunnel { add | change | del | show } [ NAME ]\n"
+msgstr "用法: iptunnel { add | change | del | show } [ NAME ]\n"
+
+msgid "Usage: plipconfig [-a] [-i] [-v] interface\n"
+msgstr "用法: plipconfig [-a] [-i] [-v] 接口\n"
+
+msgid ""
+"Usage: route [-nNvee] [-FC] [<AF>]           List kernel routing tables\n"
+msgstr "用法： route [-nNvee] [-FC] [<AF>]           显示核心路由表\n"
+
+msgid ""
+"User       Dest       Source     Device  State        Vr/Vs    Send-Q  "
+"Recv-Q\n"
+msgstr "用户 目的 源  设备  状态 Vr/Vs 发送队列 接收队列\n"
+
+msgid "WARNING: at least one error occured. (%d)\n"
+msgstr "警告:发生了至少一个错误.(%d)\n"
+
+msgid "Warning: Interface %s still in ALLMULTI mode.\n"
+msgstr "警告：接口 %s 仍然处于全双工（ALLMULTI）模式。\n"
+
+msgid "Warning: Interface %s still in BROADCAST mode.\n"
+msgstr "警告：接口 %s 仍然处于广播（BROADCAST）模式。\n"
+
+msgid "Warning: Interface %s still in DYNAMIC mode.\n"
+msgstr "警告: 接口 %s 仍然处于动态（DYNAMIC）模式.\n"
+
+msgid "Warning: Interface %s still in MULTICAST mode.\n"
+msgstr "警告: 接口 %s 仍然处于多播（MULTICAST）模式.\n"
+
+msgid "Warning: Interface %s still in POINTOPOINT mode.\n"
+msgstr "警告：接口 %s 仍然处于点对点（POINTOPOINT）模式。\n"
+
+msgid ""
+"Warning: Interface %s still in promisc mode... maybe other application is "
+"running?\n"
+msgstr "警告：接口 %s 仍然处于混杂模式... 有其它程序正在运行？\n"
+
+msgid "[UNKNOWN]"
+msgstr "[未知]"
+
+msgid "arp: %s: hardware type without ARP support.\n"
+msgstr "arp: %s: 硬件类型无 ARP 支持。\n"
+
+msgid "arp: %s: kernel only supports 'inet'.\n"
+msgstr "arp: %s: 内核仅支持 'inet'。\n"
+
+msgid "arp: %s: unknown address family.\n"
+msgstr "arp: %s: 未知地址族。\n"
+
+msgid "arp: %s: unknown hardware type.\n"
+msgstr "arp: %s: 未知硬件类型。\n"
+
+msgid "arp: -N not yet supported.\n"
+msgstr "arp: -N 尚未支持。\n"
+
+msgid "arp: cannot open etherfile %s !\n"
+msgstr "arp：不能打开 etherfile %s！\n"
+
+msgid "arp: cannot set entry on line %u of etherfile %s !\n"
+msgstr "arp: cannot set entry on line %u of etherfile %s !\n"
+
+msgid "arp: cant get HW-Address for `%s': %s.\n"
+msgstr "arp：不能获得‘%s’的硬件地址：%s\n"
+
+msgid "arp: device `%s' has HW address %s `%s'.\n"
+msgstr "arp：设备‘%s’有硬件地址 %s‘%s’。\n"
+
+msgid "arp: format error on line %u of etherfile %s !\n"
+msgstr "arp：etherfile %2$s的 %1$u 行格式错误!\n"
+
+msgid "arp: in %d entries no match found.\n"
+msgstr "arp: 在 %d 条记录中未找到匹配项.\n"
+
+msgid "arp: invalid hardware address\n"
+msgstr "arp：不正确的硬件地址\n"
+
+msgid "arp: need hardware address\n"
+msgstr "arp：需要硬件地址\n"
+
+msgid "arp: need host name\n"
+msgstr "arp：需要主机名\n"
+
+msgid "arp: protocol type mismatch.\n"
+msgstr "arp：协议类型不匹配.\n"
+
+msgid "compressed:%lu "
+msgstr "压缩:%lu "
+
+msgid "destination unreachable: %u"
+msgstr "目的地址不可达：%u"
+
+msgid "disabled"
+msgstr "禁用"
+
+msgid "domain name (which is part of the FQDN) in the /etc/hosts file.\n"
+msgstr "/etc/hosts文件中的域名(FQDN正式域名的一部分) .\n"
+
+msgid "enabled"
+msgstr "启用"
+
+msgid "getdomainname()=`%s'\n"
+msgstr "getdomainname()=`%s'\n"
+
+msgid "gethostname()=`%s'\n"
+msgstr "gethostname()=`%s'\n"
+
+msgid "getnodename()=`%s'\n"
+msgstr "getnodename()=`%s'\n"
+
+msgid "hw address type `%s' has no handler to set address. failed.\n"
+msgstr "硬件地址类型 `%s' 无地址设置操作.失败\n"
+
+msgid "ifconfig: Cannot set address for this protocol family.\n"
+msgstr "ifconfig： 无法为此种协议设置地址。\n"
+
+msgid "ifconfig: `--help' gives usage information.\n"
+msgstr "ifconfig: `--help' 给出使用信息。\n"
+
+msgid "ifconfig: option `%s' not recognised.\n"
+msgstr "ifconfig: 选项 `%s' 无法识别。\n"
+
+msgid "keepalive (%2.2f/%ld/%d)"
+msgstr "保持连接 (%2.2f/%ld/%d)"
+
+msgid "missing interface information"
+msgstr "丢失接口信息"
+
+msgid "netmask %s "
+msgstr "网络掩码 %s "
+
+msgid "netstat: unsupported address family %d !\n"
+msgstr "netstat:不支持的地址家族%d!\n"
+
+msgid "no RARP entry for %s.\n"
+msgstr "无 RARP 记录 %s。\n"
+
+msgid "off (0.00/%ld/%d)"
+msgstr "关闭 (0.00/%ld/%d)"
+
+msgid "on %s\n"
+msgstr "在 %s\n"
+
+msgid "on (%2.2f/%ld/%d)"
+msgstr "打开 (%2.2f/%ld/%d)"
+
+msgid "on%d (%2.2f/%ld/%d)"
+msgstr "在%d (%2.2f/%ld/%d)"
+
+msgid "problem reading data from %s\n"
+msgstr "从 %s读取数据出错\n"
+
+msgid "rarp: %s: unknown hardware type.\n"
+msgstr "rarp: %s: 未知硬件型号。\n"
+
+msgid "rarp: %s: unknown host\n"
+msgstr "rarp: %s:未知主机\n"
+
+msgid "rarp: cannot open file %s:%s.\n"
+msgstr "rarp: 无法打开文件 %s:%s.\n"
+
+msgid "rarp: cannot set entry from %s:%u\n"
+msgstr "rarp: 无法设置记录 %s:%u\n"
+
+msgid "rarp: format error at %s:%u\n"
+msgstr "rarp: 格式错误 %s:%u\n"
+
+msgid "timewait (%2.2f/%ld/%d)"
+msgstr "等待 (%2.2f/%ld/%d)"
+
+msgid "txqueuelen:%d "
+msgstr "发送队列长度:%d "
+
+msgid "unkn-%d (%2.2f/%ld/%d)"
+msgstr "未知-%d (%2.2f/%ld/%d)"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid ""
+"usage: netstat [-veenNcCF] [<Af>] -r         netstat "
+"{-V|--version|-h|--help}\n"
+msgstr ""
+"用法： netstat [-veenNcCF] [<Af>] -r         netstat {-V|--version|-h|--help}\n"

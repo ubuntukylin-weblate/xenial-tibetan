@@ -1,0 +1,1535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: udisks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-01 20:16+0000\n"
+"PO-Revision-Date: 2014-12-19 15:00+0000\n"
+"Last-Translator: michaeljayt <Unknown>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/udisks/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 08:07+0000\n"
+
+msgid "%s Block Device"
+msgstr "%s 块设备"
+
+msgid "%s Loop Device"
+msgstr "%s 回环设备"
+
+msgid "Apple Partition Map"
+msgstr "Apple 分区映射"
+
+msgid "Authentication is required to abort a SMART self-test on $(drive)"
+msgstr "中止 $(drive) SMART 自检需要身份验证"
+
+msgid "Authentication is required to activate swapspace on $(drive)"
+msgstr "激活 $(drive) 上的交换分区需要身份验证"
+
+msgid "Authentication is required to add a device to a RAID array"
+msgstr "向 RAID 阵列添加设备需要身份验证"
+
+msgid "Authentication is required to add an entry to the /etc/crypttab file"
+msgstr "向 /etc/crypttab 文件中添加条目需要身份验证"
+
+msgid "Authentication is required to add an entry to the /etc/fstab file"
+msgstr "向 /etc/fstab 文件中添加条目需要身份验证"
+
+msgid "Authentication is required to cancel a job"
+msgstr "取消任务需要身份验证"
+
+msgid "Authentication is required to cancel a job started by another user"
+msgstr "取消由其他用户启动的任务需要身份验证"
+
+msgid "Authentication is required to change the filesystem label on $(drive)"
+msgstr "更改  $(drive) 的文件系统标签需要身份验证"
+
+msgid ""
+"Authentication is required to change the passphrase for an encrypted device"
+msgstr "更改加密设备的密钥需要身份验证"
+
+msgid "Authentication is required to check power state for $(drive)"
+msgstr "检查 $(drive) 电源状态需要身份验证"
+
+msgid "Authentication is required to check the power state"
+msgstr "检查电源状态需要身份验证"
+
+msgid "Authentication is required to configure settings for $(drive)"
+msgstr "配置 $(drive) 设置需要身份验证"
+
+msgid ""
+"Authentication is required to configure the write-intent bitmap on a RAID "
+"array"
+msgstr "配置 RAID 阵列上的  write-intent 位图需要身份验证"
+
+msgid "Authentication is required to create a RAID array"
+msgstr "创建 RAID 阵列需要身份验证"
+
+msgid "Authentication is required to create a partition on $(drive)"
+msgstr "在  $(drive) 上创建分区需要身份验证"
+
+msgid "Authentication is required to deactivate swapspace on $(drive)"
+msgstr "取消激活 $(drive)上的交换分区需要身份验证"
+
+msgid ""
+"Authentication is required to delete a loop device set up by another user"
+msgstr "删除由其他用户创建的回环设备需要身份验证"
+
+msgid "Authentication is required to delete the loop device $(drive)"
+msgstr "删除回环设备 $(drive) 需要身份验证"
+
+msgid "Authentication is required to delete the partition $(drive)"
+msgstr "删除分区 $(drive) 需要身份验证"
+
+msgid "Authentication is required to disable SMART on $(drive)"
+msgstr "在 $(drive) 上禁用 SMART 需要身份验证"
+
+msgid "Authentication is required to eject $(drive)"
+msgstr "弹出 $(drive) 需要身份验证"
+
+msgid "Authentication is required to eject media"
+msgstr "弹出媒体需要身份验证"
+
+msgid ""
+"Authentication is required to eject media from a drive plugged into another "
+"seat"
+msgstr "从插在另一槽位上的驱动器弹出媒体需要身份验证"
+
+msgid "Authentication is required to enable SMART on $(drive)"
+msgstr "在 $(drive) 上启用 SMART 需要认证"
+
+msgid "Authentication is required to enable/disable SMART"
+msgstr "启用/禁用 SMART 需要认证"
+
+msgid "Authentication is required to format $(drive)"
+msgstr "格式化 $(drive) 需要身份验证"
+
+msgid ""
+"Authentication is required to lock an encrypted device unlocked by another "
+"user"
+msgstr "锁定由其他用户解锁的加密设备需要身份验证"
+
+msgid ""
+"Authentication is required to lock the encrypted device $(drive) unlocked by"
+" another user"
+msgstr "锁定由其他用户解锁的设备 $(drive) 需要身份验证"
+
+msgid "Authentication is required to manage RAID arrays"
+msgstr "管理 RAID 阵列需要认证"
+
+msgid "Authentication is required to manage swapspace"
+msgstr "管理交换空间需要身份验证"
+
+msgid "Authentication is required to modify a device"
+msgstr "需要授权来修改设备"
+
+msgid ""
+"Authentication is required to modify a device plugged into another seat"
+msgstr "修改插在另一槽位上的设备需要身份验证"
+
+msgid ""
+"Authentication is required to modify a loop device set up by another user"
+msgstr "修改由其他用户创建的回环设备需要身份验证"
+
+msgid "Authentication is required to modify drive settings"
+msgstr "修改设备设置需要身份验证"
+
+msgid "Authentication is required to modify system-wide configuration"
+msgstr "修改系统范围配置需要身份验证"
+
+msgid "Authentication is required to modify the /etc/crypttab file"
+msgstr "修改 /etc/crypttab 文件需要身份验证"
+
+msgid "Authentication is required to modify the /etc/fstab file"
+msgstr "修改 /etc/fstab 文件需要身份验证"
+
+msgid "Authentication is required to modify the loop device $(drive)"
+msgstr "修改回环设备 $(drive) 需要身份验证"
+
+msgid "Authentication is required to modify the partition on device $(drive)"
+msgstr "修改设备 $(drive) 上的分区需要身份验证"
+
+msgid "Authentication is required to mount $(drive)"
+msgstr "挂载 $(drive) 需要身份验证"
+
+msgid ""
+"Authentication is required to mount $(drive) referenced in the /etc/fstab "
+"file"
+msgstr "挂载 /etc/fstab 中引用的 $(drive) 需要身份验证"
+
+msgid "Authentication is required to mount the filesystem"
+msgstr "挂载文件系统需要身份验证"
+
+msgid "Authentication is required to mount/unmount the filesystem"
+msgstr "挂载/卸载文件系统需要身份验证"
+
+msgid "Authentication is required to open $(drive) for benchmarking"
+msgstr "打开 $(drive) 进行性能测试需要身份验证"
+
+msgid "Authentication is required to open $(drive) for reading"
+msgstr "打开$(drive) 进行读取需要身份验证"
+
+msgid "Authentication is required to open $(drive) for writing"
+msgstr "打开 $(drive) 进行写入需要身份验证"
+
+msgid "Authentication is required to open a device"
+msgstr "打开设备需要身份验证"
+
+msgid "Authentication is required to perform a secure erase of $(drive)"
+msgstr "执行安全擦除 $(drive) 需要身份验证"
+
+msgid "Authentication is required to power off $(drive)"
+msgstr "给 $(drive) 断电需要认证"
+
+msgid "Authentication is required to power off a drive"
+msgstr "给驱动器断电需要认证"
+
+msgid ""
+"Authentication is required to power off a drive plugged into another seat"
+msgstr "给插到另一槽位上的驱动器断电需要认证"
+
+msgid "Authentication is required to put $(drive) in standby mode"
+msgstr "将  $(drive) 转入待机模式需要身份验证"
+
+msgid "Authentication is required to put a drive into standby mode"
+msgstr "将驱动器转入待机模式需要身份验证"
+
+msgid "Authentication is required to read system-level secrets"
+msgstr "读取系统级别的机密信息需要身份验证"
+
+msgid "Authentication is required to remove a device from a RAID array"
+msgstr "从 RAID 阵列中移除设备需要身份验证"
+
+msgid "Authentication is required to remove an entry from /etc/fstab file"
+msgstr "从 /etc/fstab 文件中移除条目需要身份验证"
+
+msgid ""
+"Authentication is required to remove an entry from the /etc/crypttab file"
+msgstr "来从 /etc/crypttab 文件中移除条目需要身份验证"
+
+msgid "Authentication is required to rescan $(drive)"
+msgstr "重新扫描 $(drive) 需要认证"
+
+msgid "Authentication is required to rescan a device"
+msgstr "重新扫描设备需要认证"
+
+msgid ""
+"Authentication is required to retrieve secrets from system-wide "
+"configuration"
+msgstr "从系统范围配置中获取机密内容需要身份验证"
+
+msgid "Authentication is required to run a SMART self-test"
+msgstr "运行 SMART 自检需要身份验证"
+
+msgid "Authentication is required to securely erase a hard disk"
+msgstr "安全擦除硬盘需要身份验证"
+
+msgid "Authentication is required to set SMART data from a blob on $(drive)"
+msgstr "从 $(drive) 上的 blob 设置 SMART 数据需要身份验证"
+
+msgid "Authentication is required to set SMART data from blob"
+msgstr "从 blob 设置 SMART 数据需要身份验证"
+
+msgid "Authentication is required to set up a loop device"
+msgstr "设定回环设备需要身份验证"
+
+msgid "Authentication is required to start a RAID array"
+msgstr "启动 RAID 阵列需要身份验证"
+
+msgid "Authentication is required to start a SMART self-test on $(drive)"
+msgstr "启动 $(drive) SMART 自检需要身份验证"
+
+msgid ""
+"Authentication is required to start/stop data scrubbing of a RAID array"
+msgstr "启动/停止 RAID 阵列的数据清理需要身份验证"
+
+msgid "Authentication is required to stop a RAID array"
+msgstr "停止 RAID 阵列需要身份验证"
+
+msgid "Authentication is required to unlock an encrypted device"
+msgstr "解锁加密设备需要身份验证"
+
+msgid "Authentication is required to unlock the encrypted device $(drive)"
+msgstr "解锁加密的设备 $(drive) 需要身份验证"
+
+msgid "Authentication is required to unmount $(drive) mounted by another user"
+msgstr "需要授权来卸载由其他用户挂载的 $(drive)"
+
+msgid ""
+"Authentication is required to unmount $(drive) referenced in the /etc/fstab "
+"file"
+msgstr "卸载 /etc/fstab 文件中引用的 $(drive) 需要身份验证"
+
+msgid ""
+"Authentication is required to unmount a filesystem mounted by another user"
+msgstr "卸载由其他用户挂载的文件系统需要身份验证"
+
+msgid "Authentication is required to update SMART data"
+msgstr "更新 SMART 数据需要身份验证"
+
+msgid "Authentication is required to update SMART data from $(drive)"
+msgstr "使用 $(drive) 的 SMART 数据需要身份验证"
+
+msgid "Authentication is required to wake up $(drive) from standby mode"
+msgstr "从待机模式唤醒 $(drive) 需要身份验证"
+
+msgid "Block Device"
+msgstr "块设备"
+
+msgid "Cancel job"
+msgstr "取消任务"
+
+msgid "Cancel job started by another user"
+msgstr "取消由其他用户启动的任务"
+
+msgid "Change passphrase for an encrypted device"
+msgstr "更改加密设备的密钥"
+
+msgid "Check power state"
+msgstr "检查电源状态"
+
+msgid "Delete loop devices"
+msgstr "删除回环设备"
+
+msgid "Eject media"
+msgstr "弹出媒体"
+
+msgid "Eject media from a drive attached to another seat"
+msgstr "弹出连到另一槽位的驱动器中的媒体"
+
+msgid "Eject media from a system drive"
+msgstr "从系统驱动器弹出媒体需要认证"
+
+msgid "Enable/Disable SMART"
+msgstr "启用/禁用 SMART"
+
+msgid "Formatting Device"
+msgstr "格式化设备"
+
+msgid "GUID Partition Table"
+msgstr "GUID 分区表"
+
+msgid "Lock an encrypted device unlocked by another user"
+msgstr "锁定由其他用户解锁的加密设备"
+
+msgid "Loop Device"
+msgstr "回环设备"
+
+msgid "Manage RAID arrays"
+msgstr "管理 RAID 阵列"
+
+msgid "Manage loop devices"
+msgstr "管理回环设备"
+
+msgid "Manage swapspace"
+msgstr "管理交换空间"
+
+msgid "Master Boot Record"
+msgstr "主引导记录"
+
+msgid "Modify a device"
+msgstr "修改设备"
+
+msgid "Modify a system device"
+msgstr "修改系统设备"
+
+msgid "Modify drive settings"
+msgstr "修改驱动器设置"
+
+msgid "Modify loop devices"
+msgstr "修改回环设备"
+
+msgid "Modify system-wide configuration"
+msgstr "修改系统全局配置"
+
+msgid "Mount a filesystem"
+msgstr "挂载文件系统"
+
+msgid "Mount a filesystem from a device plugged into another seat"
+msgstr "挂载插入另一槽位设备上的文件系统"
+
+msgid "Mount a filesystem on a system device"
+msgstr "在系统设备上挂载文件系统"
+
+msgid ""
+"Mount/unmount filesystems defined in the fstab file with the x-udisks-auth "
+"option"
+msgstr "使用 x-udisks-auth 选项挂载/卸载 fstab 中定义的文件系统"
+
+msgid "Open a device"
+msgstr "打开设备"
+
+msgid "Open a system device"
+msgstr "打开系统设备"
+
+msgid "Power off a drive attached to another seat"
+msgstr "给连到另一槽位上的驱动器断电"
+
+msgid "Power off a system drive"
+msgstr "系统驱动器断电"
+
+msgid "Power off drive"
+msgstr "驱动器断电"
+
+msgid "Rescan a device"
+msgstr "重新扫描设备"
+
+msgid "Run SMART self-test"
+msgstr "运行 SMART 自检"
+
+msgid "Securely erase a hard disk"
+msgstr "安全擦除硬盘"
+
+msgid "Send standby command"
+msgstr "发送待机命令"
+
+msgid "Send standby command to a system drive"
+msgstr "向系统驱动器发送待机命令"
+
+msgid "Send standby command to drive on other seat"
+msgstr "向另一槽位上的驱动器发送待机命令"
+
+msgid "Set SMART data from blob"
+msgstr "从 blob 设置 SMART 数据"
+
+msgid "Unlock an encrypted device"
+msgstr "解锁加密设备"
+
+msgid "Unlock an encrypted device plugged into another seat"
+msgstr "解锁插入另一槽位的加密设备"
+
+msgid ""
+"Unlock an encrypted device specified in the crypttab file with the x-udisks-"
+"auth option"
+msgstr "使用 x-udisks-auth 选项解锁 crypttab 文件中指定的加密设备"
+
+msgid "Unlock an encrypted system device"
+msgstr "解锁加密系统设备"
+
+msgid "Unmount a device mounted by another user"
+msgstr "卸载由其他用户挂载的设备"
+
+msgid "Update SMART data"
+msgstr "更新 SMART 数据"
+
+msgctxt "byte-size-pow10"
+msgid "%s (%s bytes)"
+msgstr "%s (%s 字节)"
+
+msgctxt "byte-size-pow2"
+msgid "%s (%s bytes)"
+msgstr "%s (%s 字节)"
+
+msgctxt "disc-type"
+msgid "Blu-Ray"
+msgstr "蓝光光盘"
+
+msgctxt "disc-type"
+msgid "CD"
+msgstr "CD光盘"
+
+msgctxt "disc-type"
+msgid "DVD"
+msgstr "DVD 光盘"
+
+msgctxt "disc-type"
+msgid "HDDVD"
+msgstr "HDDVD 光盘"
+
+msgctxt "disk-hdd"
+msgid "%s Hard Disk"
+msgstr "%s 硬盘"
+
+msgctxt "disk-hdd"
+msgid "Hard Disk"
+msgstr "硬盘"
+
+msgctxt "disk-non-rotational"
+msgid "%s Disk"
+msgstr "%s 磁盘"
+
+msgctxt "disk-non-rotational"
+msgid "Disk"
+msgstr "磁盘"
+
+msgctxt "dos-part-flag"
+msgid "Bootable"
+msgstr "可启动"
+
+msgctxt "drive-card-reader"
+msgid "%s Card Reader"
+msgstr "%s 读卡器"
+
+msgctxt "drive-with-fixed-media"
+msgid "%s Drive"
+msgstr "%s 驱动器"
+
+msgctxt "drive-with-generic-media"
+msgid "%s Disk"
+msgstr "%s 磁盘"
+
+msgctxt "drive-with-size"
+msgid "%s Drive"
+msgstr "%s 驱动器"
+
+msgctxt "drive-with-size-and-type"
+msgid "%s %s Drive"
+msgstr "%s %s 驱动器"
+
+msgctxt "drive-with-type"
+msgid "%s Drive"
+msgstr "%s 驱动器"
+
+msgctxt "flash-media"
+msgid "%s Card"
+msgstr "%s 卡"
+
+msgctxt "fs-type"
+msgid "Btrfs"
+msgstr "Btrfs"
+
+msgctxt "fs-type"
+msgid "Ext2"
+msgstr "Ext2"
+
+msgctxt "fs-type"
+msgid "Ext2 (version %s)"
+msgstr "Ext2 (版本 %s)"
+
+msgctxt "fs-type"
+msgid "Ext3"
+msgstr "Ext3"
+
+msgctxt "fs-type"
+msgid "Ext3 (version %s)"
+msgstr "Ext3 (版本 %s)"
+
+msgctxt "fs-type"
+msgid "Ext4"
+msgstr "Ext4"
+
+msgctxt "fs-type"
+msgid "Ext4 (version %s)"
+msgstr "Ext4 (版本 %s)"
+
+msgctxt "fs-type"
+msgid "FAT"
+msgstr "FAT"
+
+msgctxt "fs-type"
+msgid "FAT (12-bit version)"
+msgstr "FAT (12位版本)"
+
+msgctxt "fs-type"
+msgid "FAT (16-bit version)"
+msgstr "FAT (16位版本)"
+
+msgctxt "fs-type"
+msgid "FAT (32-bit version)"
+msgstr "FAT (32位版本)"
+
+msgctxt "fs-type"
+msgid "FAT (version %s)"
+msgstr "FAT (版本 %s)"
+
+msgctxt "fs-type"
+msgid "HFS"
+msgstr "HFS"
+
+msgctxt "fs-type"
+msgid "HFS+"
+msgstr "HFS+"
+
+msgctxt "fs-type"
+msgid "ISO 9660"
+msgstr "ISO 9660"
+
+msgctxt "fs-type"
+msgid "ISO 9660 (version %s)"
+msgstr "ISO 9660 (版本 %s)"
+
+msgctxt "fs-type"
+msgid "ISO9660"
+msgstr "ISO9660"
+
+msgctxt "fs-type"
+msgid "JDB"
+msgstr "JDB"
+
+msgctxt "fs-type"
+msgid "Journal for Ext"
+msgstr "Ext 日志"
+
+msgctxt "fs-type"
+msgid "Journal for Ext (version %s)"
+msgstr "Ext 日志(版本 %s)"
+
+msgctxt "fs-type"
+msgid "LUKS"
+msgstr "LUKS"
+
+msgctxt "fs-type"
+msgid "LUKS Encryption"
+msgstr "LUKS 加密"
+
+msgctxt "fs-type"
+msgid "LUKS Encryption (version %s)"
+msgstr "LUKS 加密(版本 %s)"
+
+msgctxt "fs-type"
+msgid "LVM2 PV"
+msgstr "LVM2 PV"
+
+msgctxt "fs-type"
+msgid "LVM2 Physical Volume"
+msgstr "LVM2 物理卷"
+
+msgctxt "fs-type"
+msgid "LVM2 Physical Volume (%s)"
+msgstr "LVM2 物理卷(%s)"
+
+msgctxt "fs-type"
+msgid "Linux RAID Member"
+msgstr "Linux RAID 成员"
+
+msgctxt "fs-type"
+msgid "Linux RAID Member (version %s)"
+msgstr "Linux RAID 成员(版本 %s)"
+
+msgctxt "fs-type"
+msgid "NTFS"
+msgstr "NTFS"
+
+msgctxt "fs-type"
+msgid "NTFS (version %s)"
+msgstr "NTFS (版本 %s)"
+
+msgctxt "fs-type"
+msgid "Swap"
+msgstr "Swap"
+
+msgctxt "fs-type"
+msgid "Swap (version %s)"
+msgstr "Swap (版本 %s)"
+
+msgctxt "fs-type"
+msgid "UDF"
+msgstr "UDF"
+
+msgctxt "fs-type"
+msgid "UDF (version %s)"
+msgstr "UDF (版本 %s)"
+
+msgctxt "fs-type"
+msgid "Unknown"
+msgstr "未知"
+
+msgctxt "fs-type"
+msgid "Unknown (%s %s)"
+msgstr "未知(%s %s)"
+
+msgctxt "fs-type"
+msgid "Unknown (%s)"
+msgstr "未知(%s)"
+
+msgctxt "fs-type"
+msgid "VMFS"
+msgstr "VMFS"
+
+msgctxt "fs-type"
+msgid "VMFS (v%s)"
+msgstr "VMFS (v%s)"
+
+msgctxt "fs-type"
+msgid "VMFS (version %s)"
+msgstr "VMFS (版本 %s)"
+
+msgctxt "fs-type"
+msgid "VMFS Member"
+msgstr "VMFS 成员"
+
+msgctxt "fs-type"
+msgid "VMFS Member (v%s)"
+msgstr "VMFS 成员(v%s)"
+
+msgctxt "fs-type"
+msgid "VMFS Volume Member"
+msgstr "VMFS 卷成员"
+
+msgctxt "fs-type"
+msgid "VMFS Volume Member (version %s)"
+msgstr "VMFS 卷成员(版本 %s)"
+
+msgctxt "fs-type"
+msgid "XFS"
+msgstr "XFS"
+
+msgctxt "fs-type"
+msgid "XFS (version %s)"
+msgstr "XFS (版本 %s)"
+
+msgctxt "fs-type"
+msgid "ZFS"
+msgstr "ZFS"
+
+msgctxt "fs-type"
+msgid "ZFS (v%s)"
+msgstr "ZFS (v%s)"
+
+msgctxt "fs-type"
+msgid "ZFS Device"
+msgstr "ZFS 设备"
+
+msgctxt "fs-type"
+msgid "ZFS Device (ZPool version %s)"
+msgstr "ZFS 设备(ZPool 版本 %s)"
+
+msgctxt "fs-type"
+msgid "exFAT"
+msgstr "exFAT"
+
+msgctxt "fs-type"
+msgid "exFAT (version %s)"
+msgstr "exFAT (版本 %s)"
+
+msgctxt "generic-drive"
+msgid "Drive"
+msgstr "驱动器"
+
+msgctxt "gpt-part-flag"
+msgid "Hidden"
+msgstr "隐藏"
+
+msgctxt "gpt-part-flag"
+msgid "Legacy BIOS Bootable"
+msgstr "旧式 BIOS 可启动"
+
+msgctxt "gpt-part-flag"
+msgid "No Automount"
+msgstr "不自动挂载"
+
+msgctxt "gpt-part-flag"
+msgid "Read-only"
+msgstr "只读"
+
+msgctxt "gpt-part-flag"
+msgid "System"
+msgstr "系统"
+
+msgctxt "job"
+msgid "ATA Enhanced Secure Erase"
+msgstr "ATA 增强安全擦除"
+
+msgctxt "job"
+msgid "ATA Secure Erase"
+msgstr "ATA 安全擦除"
+
+msgctxt "job"
+msgid "Adding Device to Array"
+msgstr "将设备添加到阵列"
+
+msgctxt "job"
+msgid "Cleaning Up"
+msgstr "清理"
+
+msgctxt "job"
+msgid "Creating Filesystem"
+msgstr "创建文件系统"
+
+msgctxt "job"
+msgid "Creating Partition"
+msgstr "创建分区"
+
+msgctxt "job"
+msgid "Creating RAID Array"
+msgstr "创建 RAID 阵列"
+
+msgctxt "job"
+msgid "Deleting Partition"
+msgstr "删除分区"
+
+msgctxt "job"
+msgid "Ejecting Medium"
+msgstr "弹出媒体"
+
+msgctxt "job"
+msgid "Erasing Device"
+msgstr "擦除设备"
+
+msgctxt "job"
+msgid "Locking Device"
+msgstr "锁定设备"
+
+msgctxt "job"
+msgid "Marking Device as Faulty"
+msgstr "将设备标志为有错误"
+
+msgctxt "job"
+msgid "Modifying Encrypted Device"
+msgstr "修改加密设备"
+
+msgctxt "job"
+msgid "Modifying Filesystem"
+msgstr "修改文件系统"
+
+msgctxt "job"
+msgid "Modifying Partition"
+msgstr "修改分区"
+
+msgctxt "job"
+msgid "Mounting Filesystem"
+msgstr "挂载文件系统"
+
+msgctxt "job"
+msgid "Removing Device from Array"
+msgstr "从阵列中移除设备"
+
+msgctxt "job"
+msgid "SMART self-test"
+msgstr "SMART 自检"
+
+msgctxt "job"
+msgid "Setting Up Loop Device"
+msgstr "设置回环设备"
+
+msgctxt "job"
+msgid "Setting Write-Intent Bitmap"
+msgstr "设置 Write-Intent 位图"
+
+msgctxt "job"
+msgid "Starting RAID Array"
+msgstr "启动 RAID 阵列"
+
+msgctxt "job"
+msgid "Starting Swap Device"
+msgstr "启动交换设备"
+
+msgctxt "job"
+msgid "Stopping RAID Array"
+msgstr "停止 RAID 阵列"
+
+msgctxt "job"
+msgid "Stopping Swap Device"
+msgstr "停止交换设备"
+
+msgctxt "job"
+msgid "Unlocking Device"
+msgstr "解锁设备"
+
+msgctxt "job"
+msgid "Unmounting Filesystem"
+msgstr "卸载文件系统"
+
+msgctxt "mdraid-desc"
+msgid "%s %s"
+msgstr "%s %s"
+
+msgctxt "mdraid-desc"
+msgid "RAID Array"
+msgstr "RAID 阵列"
+
+msgctxt "mdraid-desc"
+msgid "RAID-0 Array"
+msgstr "RAID-0 阵列"
+
+msgctxt "mdraid-desc"
+msgid "RAID-1 Array"
+msgstr "RAID-1 阵列"
+
+msgctxt "mdraid-desc"
+msgid "RAID-10 Array"
+msgstr "RAID-10 阵列"
+
+msgctxt "mdraid-desc"
+msgid "RAID-4 Array"
+msgstr "RAID-4 阵列"
+
+msgctxt "mdraid-desc"
+msgid "RAID-5 Array"
+msgstr "RAID-5 阵列"
+
+msgctxt "mdraid-desc"
+msgid "RAID-6 Array"
+msgstr "RAID-6 阵列"
+
+msgctxt "media"
+msgid "CompactFlash"
+msgstr "CompactFlash"
+
+msgctxt "media"
+msgid "Flash"
+msgstr "闪存"
+
+msgctxt "media"
+msgid "Floppy"
+msgstr "软盘"
+
+msgctxt "media"
+msgid "Jaz"
+msgstr "Jaz"
+
+msgctxt "media"
+msgid "MemoryStick"
+msgstr "记忆棒"
+
+msgctxt "media"
+msgid "SD High Capacity"
+msgstr "SD 大容量"
+
+msgctxt "media"
+msgid "SecureDigital"
+msgstr "SD卡"
+
+msgctxt "media"
+msgid "SmartMedia"
+msgstr "SmartMedia"
+
+msgctxt "media"
+msgid "Zip"
+msgstr "Zip"
+
+msgctxt "media-type"
+msgid "BD-R"
+msgstr "BD-R"
+
+msgctxt "media-type"
+msgid "BD-RE"
+msgstr "BD-RE"
+
+msgctxt "media-type"
+msgid "BD-ROM"
+msgstr "BD-ROM"
+
+msgctxt "media-type"
+msgid "Blu-Ray"
+msgstr "蓝光"
+
+msgctxt "media-type"
+msgid "CD"
+msgstr "CD"
+
+msgctxt "media-type"
+msgid "CD-R"
+msgstr "CD-R"
+
+msgctxt "media-type"
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+msgctxt "media-type"
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgctxt "media-type"
+msgid "CompactFlash"
+msgstr "CF卡"
+
+msgctxt "media-type"
+msgid "DVD"
+msgstr "DVD"
+
+msgctxt "media-type"
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgctxt "media-type"
+msgid "DVD+R DL"
+msgstr "DVD+R DL"
+
+msgctxt "media-type"
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgctxt "media-type"
+msgid "DVD+RW DL"
+msgstr "DVD+RW DL"
+
+msgctxt "media-type"
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgctxt "media-type"
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgctxt "media-type"
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgctxt "media-type"
+msgid "Flash"
+msgstr "闪存"
+
+msgctxt "media-type"
+msgid "Floppy"
+msgstr "软盘"
+
+msgctxt "media-type"
+msgid "HDDVD"
+msgstr "HDDVD"
+
+msgctxt "media-type"
+msgid "HDDVD-R"
+msgstr "HDDVD-R"
+
+msgctxt "media-type"
+msgid "HDDVD-RW"
+msgstr "HDDVD-RW"
+
+msgctxt "media-type"
+msgid "Jaz"
+msgstr "Jaz"
+
+msgctxt "media-type"
+msgid "MMC"
+msgstr "MMC"
+
+msgctxt "media-type"
+msgid "MO"
+msgstr "MO"
+
+msgctxt "media-type"
+msgid "MRW"
+msgstr "MRW"
+
+msgctxt "media-type"
+msgid "MRW-W"
+msgstr "MRW-W"
+
+msgctxt "media-type"
+msgid "MemoryStick"
+msgstr "记忆棒"
+
+msgctxt "media-type"
+msgid "SD"
+msgstr "SD"
+
+msgctxt "media-type"
+msgid "SDHC"
+msgstr "SDHC"
+
+msgctxt "media-type"
+msgid "SDXC"
+msgstr "SDXC"
+
+msgctxt "media-type"
+msgid "SmartMedia"
+msgstr "SM卡"
+
+msgctxt "media-type"
+msgid "Thumb"
+msgstr "U盘"
+
+msgctxt "media-type"
+msgid "Zip"
+msgstr "Zip"
+
+msgctxt "one-liner-block"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgctxt "one-liner-drive"
+msgid "%s — %s (%s)"
+msgstr "%s — %s (%s)"
+
+msgctxt "one-liner-drive"
+msgid "%s — %s [%s] (%s)"
+msgstr "%s — %s [%s] (%s)"
+
+msgctxt "one-liner-loop"
+msgid "%s — %s (%s)"
+msgstr "%s — %s (%s)"
+
+msgctxt "one-liner-mdraid-no-name-not-running"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "one-liner-mdraid-no-name-running"
+msgid "%s — %s"
+msgstr "%s — %s"
+
+msgctxt "one-liner-mdraid-not-running"
+msgid "%s — %s"
+msgstr "%s — %s"
+
+msgctxt "one-liner-mdraid-running"
+msgid "%s — %s (%s)"
+msgstr "%s — %s (%s)"
+
+msgctxt "optical-media"
+msgid "%s Disc"
+msgstr "%s 光盘"
+
+msgctxt "optical-media"
+msgid "Audio %s"
+msgstr "音频 %s"
+
+msgctxt "optical-media"
+msgid "Blank %s"
+msgstr "空白 %s"
+
+msgctxt "optical-media"
+msgid "Mixed %s"
+msgstr "混合 %s"
+
+msgctxt "part-type"
+msgid "Apple Boot"
+msgstr "Apple 启动区"
+
+msgctxt "part-type"
+msgid "Apple Core Storage"
+msgstr "Apple 内核存储"
+
+msgctxt "part-type"
+msgid "Apple HFS/HFS"
+msgstr "Apple HFS/HFS"
+
+msgctxt "part-type"
+msgid "Apple HFS/HFS+"
+msgstr "Apple HFS/HFS+"
+
+msgctxt "part-type"
+msgid "Apple Label"
+msgstr "Apple 标识区"
+
+msgctxt "part-type"
+msgid "Apple Partition Map"
+msgstr "Apple 分区映射"
+
+msgctxt "part-type"
+msgid "Apple RAID"
+msgstr "Apple RAID"
+
+msgctxt "part-type"
+msgid "Apple RAID (offline)"
+msgstr "Apple RAID (离线)"
+
+msgctxt "part-type"
+msgid "Apple TV Recovery"
+msgstr "Apple TV 恢复区"
+
+msgctxt "part-type"
+msgid "Apple UFS"
+msgstr "Apple UFS"
+
+msgctxt "part-type"
+msgid "Apple ZFS"
+msgstr "Apple ZFS"
+
+msgctxt "part-type"
+msgid "BIOS Boot"
+msgstr "BIOS 启动区"
+
+msgctxt "part-type"
+msgid "Basic Data"
+msgstr "基础数据"
+
+msgctxt "part-type"
+msgid "BeOS BFS"
+msgstr "BeOS BFS"
+
+msgctxt "part-type"
+msgid "ChromeOS Firmware"
+msgstr "ChromeOS 固件"
+
+msgctxt "part-type"
+msgid "ChromeOS Kernel"
+msgstr "ChromeOS 内核"
+
+msgctxt "part-type"
+msgid "ChromeOS Reserved"
+msgstr "ChromeOS 保留区"
+
+msgctxt "part-type"
+msgid "ChromeOS Root Filesystem"
+msgstr "ChromeOS 根文件系统"
+
+msgctxt "part-type"
+msgid "Compaq diagnostics"
+msgstr "Compaq 诊断"
+
+msgctxt "part-type"
+msgid "Driver"
+msgstr "Driver"
+
+msgctxt "part-type"
+msgid "Driver 4.3"
+msgstr "Driver 4.3"
+
+msgctxt "part-type"
+msgid "EFI (FAT-12/16/32)"
+msgstr "EFI (FAT-12/16/32)"
+
+msgctxt "part-type"
+msgid "EFI GPT"
+msgstr "EFI GPT"
+
+msgctxt "part-type"
+msgid "EFI System"
+msgstr "EFI 系统"
+
+msgctxt "part-type"
+msgid "Empty"
+msgstr "空"
+
+msgctxt "part-type"
+msgid "Extended"
+msgstr "扩展"
+
+msgctxt "part-type"
+msgid "Extended Boot Partition"
+msgstr "扩展引导分区"
+
+msgctxt "part-type"
+msgid "FAT 12"
+msgstr "FAT 12"
+
+msgctxt "part-type"
+msgid "FAT 16"
+msgstr "FAT 16"
+
+msgctxt "part-type"
+msgid "FAT 16 (Windows)"
+msgstr "FAT 16 (Windows)"
+
+msgctxt "part-type"
+msgid "FAT 32"
+msgstr "FAT 32"
+
+msgctxt "part-type"
+msgid "FAT 32 (Windows)"
+msgstr "FAT 32 (Windows)"
+
+msgctxt "part-type"
+msgid "FAT12"
+msgstr "FAT12"
+
+msgctxt "part-type"
+msgid "FAT16"
+msgstr "FAT16"
+
+msgctxt "part-type"
+msgid "FAT16 <32M"
+msgstr "FAT16 <32M"
+
+msgctxt "part-type"
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+msgctxt "part-type"
+msgid "FreeBSD Boot"
+msgstr "FreeBSD 启动区"
+
+msgctxt "part-type"
+msgid "FreeBSD Data"
+msgstr "FreeBSD 数据区"
+
+msgctxt "part-type"
+msgid "FreeBSD Swap"
+msgstr "FreeBSD Swap"
+
+msgctxt "part-type"
+msgid "FreeBSD UFS"
+msgstr "FreeBSD UFS"
+
+msgctxt "part-type"
+msgid "FreeBSD Vinum"
+msgstr "FreeBSD Vinum"
+
+msgctxt "part-type"
+msgid "FreeBSD ZFS"
+msgstr "FreeBSD ZFS"
+
+msgctxt "part-type"
+msgid "HP-UX Data"
+msgstr "HP-UX 数据区"
+
+msgctxt "part-type"
+msgid "HP-UX Service"
+msgstr "HP-UX 服务区"
+
+msgctxt "part-type"
+msgid "HPFS/NTFS"
+msgstr "HPFS/NTFS"
+
+msgctxt "part-type"
+msgid "Hibernation"
+msgstr "休眠"
+
+msgctxt "part-type"
+msgid "Hidden FAT12"
+msgstr "隐藏 FAT12"
+
+msgctxt "part-type"
+msgid "Hidden FAT16"
+msgstr "隐藏 FAT16"
+
+msgctxt "part-type"
+msgid "Hidden FAT16 <32M"
+msgstr "隐藏 FAT16 <32M"
+
+msgctxt "part-type"
+msgid "Hidden HPFS/NTFS"
+msgstr "隐藏 HPFS/NTFS"
+
+msgctxt "part-type"
+msgid "Hidden W95 FAT16 (LBA)"
+msgstr "隐藏 W95 FAT16 (LBA)"
+
+msgctxt "part-type"
+msgid "Hidden W95 FAT32"
+msgstr "隐藏 W95 FAT32"
+
+msgctxt "part-type"
+msgid "Hidden W95 FAT32 (LBA)"
+msgstr "隐藏 W95 FAT32 (LBA)"
+
+msgctxt "part-type"
+msgid "Linux"
+msgstr "Linux"
+
+msgctxt "part-type"
+msgid "Linux Extended"
+msgstr "Linux 扩展"
+
+msgctxt "part-type"
+msgid "Linux Filesystem"
+msgstr "Linux 文件系统"
+
+msgctxt "part-type"
+msgid "Linux Home Partition"
+msgstr "Linux 用户目录分区"
+
+msgctxt "part-type"
+msgid "Linux LVM"
+msgstr "Linux LVM"
+
+msgctxt "part-type"
+msgid "Linux RAID"
+msgstr "Linux RAID"
+
+msgctxt "part-type"
+msgid "Linux RAID auto"
+msgstr "Linux RAID 自动"
+
+msgctxt "part-type"
+msgid "Linux Reserved"
+msgstr "Linux 保留区"
+
+msgctxt "part-type"
+msgid "Linux Root Partition (x86)"
+msgstr "Linux 根分区 (x86)"
+
+msgctxt "part-type"
+msgid "Linux Root Partition (x86_64)"
+msgstr "Linux 根分区 (x86_64)"
+
+msgctxt "part-type"
+msgid "Linux Server Data Partition"
+msgstr "Linux 服务器数据分区"
+
+msgctxt "part-type"
+msgid "Linux Swap"
+msgstr "Linux Swap"
+
+msgctxt "part-type"
+msgid "Linux swap"
+msgstr "Linux swap"
+
+msgctxt "part-type"
+msgid "MBR Partition Scheme"
+msgstr "MBR 分区方案"
+
+msgctxt "part-type"
+msgid "Mac OS X"
+msgstr "Mac OS X"
+
+msgctxt "part-type"
+msgid "Microsoft LDM data"
+msgstr "Microsoft LDM 数据"
+
+msgctxt "part-type"
+msgid "Microsoft LDM metadata"
+msgstr "Microsoft LDM 元数据"
+
+msgctxt "part-type"
+msgid "Microsoft Reserved"
+msgstr "Microsoft 保留区"
+
+msgctxt "part-type"
+msgid "Microsoft Windows Recovery Environment"
+msgstr "Microsoft Windows 还原环境"
+
+msgctxt "part-type"
+msgid "Minix"
+msgstr "Minix"
+
+msgctxt "part-type"
+msgid "NetBSD Concatenated"
+msgstr "NetBSD 联结区"
+
+msgctxt "part-type"
+msgid "NetBSD Encrypted"
+msgstr "NetBSD 加密区"
+
+msgctxt "part-type"
+msgid "NetBSD FFS"
+msgstr "NetBSD FFS"
+
+msgctxt "part-type"
+msgid "NetBSD LFS"
+msgstr "NetBSD LFS"
+
+msgctxt "part-type"
+msgid "NetBSD RAID"
+msgstr "NetBSD RAID"
+
+msgctxt "part-type"
+msgid "NetBSD Swap"
+msgstr "NetBSD Swap"
+
+msgctxt "part-type"
+msgid "OPUS"
+msgstr "OPUS"
+
+msgctxt "part-type"
+msgid "OpenBSD"
+msgstr "OpenBSD"
+
+msgctxt "part-type"
+msgid "PartitionMagic"
+msgstr "PartitionMagic"
+
+msgctxt "part-type"
+msgid "ProDOS file system"
+msgstr "ProDOS 文件系统"
+
+msgctxt "part-type"
+msgid "SkyOS SkyFS"
+msgstr "SkyOS SkyFS"
+
+msgctxt "part-type"
+msgid "Solaris"
+msgstr "Solaris"
+
+msgctxt "part-type"
+msgid "Solaris /home"
+msgstr "Solaris /home"
+
+msgctxt "part-type"
+msgid "Solaris /usr"
+msgstr "Solaris /usr"
+
+msgctxt "part-type"
+msgid "Solaris /var"
+msgstr "Solaris /var"
+
+msgctxt "part-type"
+msgid "Solaris Alternate Sector"
+msgstr "Solaris 替换扇区"
+
+msgctxt "part-type"
+msgid "Solaris Backup"
+msgstr "Solaris Backup"
+
+msgctxt "part-type"
+msgid "Solaris Boot"
+msgstr "Solaris 启动区"
+
+msgctxt "part-type"
+msgid "Solaris Reserved"
+msgstr "Solaris 保留区"
+
+msgctxt "part-type"
+msgid "Solaris Reserved (2)"
+msgstr "Solaris 保留区(2)"
+
+msgctxt "part-type"
+msgid "Solaris Reserved (3)"
+msgstr "Solaris 保留区(3)"
+
+msgctxt "part-type"
+msgid "Solaris Reserved (4)"
+msgstr "Solaris 保留区(4)"
+
+msgctxt "part-type"
+msgid "Solaris Reserved (5)"
+msgstr "Solaris 保留区(5)"
+
+msgctxt "part-type"
+msgid "Solaris Root"
+msgstr "Solaris Root"
+
+msgctxt "part-type"
+msgid "Solaris Swap"
+msgstr "Solaris Swap"
+
+msgctxt "part-type"
+msgid "Solaris boot"
+msgstr "Solaris 启动区"
+
+msgctxt "part-type"
+msgid "Unused"
+msgstr "未使用"
+
+msgctxt "part-type"
+msgid "VMWare VMFS"
+msgstr "VMWare VMFS"
+
+msgctxt "part-type"
+msgid "VMWare vmkcore"
+msgstr "VMWare vmkcore"
+
+msgctxt "part-type"
+msgid "W95 Ext d (LBA)"
+msgstr "W95 Ext d (LBA)"
+
+msgctxt "part-type"
+msgid "W95 FAT16 (LBA)"
+msgstr "W95 FAT16 (LBA)"
+
+msgctxt "part-type"
+msgid "W95 FAT32"
+msgstr "W95 FAT32"
+
+msgctxt "part-type"
+msgid "W95 FAT32 (LBA)"
+msgstr "W95 FAT32 (LBA)"
+
+msgctxt "part-type"
+msgid "ZFS"
+msgstr "ZFS"
+
+msgctxt "partition-info"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgctxt "partition-info"
+msgid "Unknown"
+msgstr "未知"
+
+msgctxt "partition-subtype"
+msgid "Generic"
+msgstr "常规"
+
+msgctxt "partition-subtype"
+msgid "Linux"
+msgstr "Linux"
+
+msgctxt "partition-subtype"
+msgid "Mac OS X"
+msgstr "Mac OS X"
+
+msgctxt "partition-subtype"
+msgid "Other"
+msgstr "其他"
+
+msgctxt "partition-subtype"
+msgid "Windows"
+msgstr "Windows"
+
+msgctxt "unknown-job"
+msgid "Unknown (%s)"
+msgstr "未知(%s)"

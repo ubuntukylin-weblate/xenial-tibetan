@@ -1,0 +1,1836 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seahorse master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=seahorse&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-12-04 02:58+0000\n"
+"PO-Revision-Date: 2016-03-24 08:43+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:27+0000\n"
+
+msgid "%02d:%02d"
+msgstr "%02d:%02d"
+
+msgid "%02d:%02d %s"
+msgstr "%02d:%02d %s"
+
+msgid "%02d:%02d:%02d"
+msgstr "%02d:%02d:%02d"
+
+msgid "%02d:%02d:%02d %s"
+msgstr "%02d:%02d:%02d %s"
+
+msgid "%04d-%02d-%02d"
+msgstr "%04d-%02d-%02d"
+
+msgid "%u:%u:%u"
+msgstr "%u:%u:%u"
+
+msgid "(Unreadable Secure Shell Key)"
+msgstr "(无法读取的 SSH 密钥)"
+
+msgid "(unknown)"
+msgstr "(未知)"
+
+msgid "- System Settings"
+msgstr "- 系统设置"
+
+msgid "24hr: no"
+msgstr "24hr: yes"
+
+msgid ":"
+msgstr "："
+
+msgid "<b>%d key is selected for synchronizing</b>"
+msgid_plural "<b>%d keys are selected for synchronizing</b>"
+msgstr[0] "<b>已选择同步 %d 个密钥</b>"
+
+msgid "<b>Data to be imported:</b>"
+msgstr "<b>要导入的数据：</b>"
+
+msgid ""
+"<big><b>The photo is too large</b></big>\n"
+"The recommended size for a photo on your key is %d x %d pixels."
+msgstr ""
+"<big><b>照片太大</b></big>\n"
+"照片的推荐大小是 %d x %d 像素。"
+
+msgid ""
+"<i>Casually:</i> means you have done a casual verification that the key is "
+"owned by the person who claims to own it. For example, you could read the "
+"key fingerprint to the owner over the phone."
+msgstr "<i>非正式：</i>意思是您完成了一项非正式地验证，证明该密钥是由声称拥有它的人所有。比如，您可以通过电话将密钥指纹读给所有者以确认。"
+
+msgid ""
+"<i>Not at all:</i> means you believe the key is owned by the person who "
+"claims to own it, but you could not or did not verify this to be a fact."
+msgstr "<i>无：</i>意味着您相信此密钥是声称拥有它的人所拥有的，但您不能或没有校验其真实性。"
+
+msgid ""
+"<i>Very Carefully:</i> Select this only if you are absolutely sure that this"
+" key is genuine."
+msgstr "<i>非常仔细：</i>选择此选项仅当您绝对确信此密钥是真实的。"
+
+msgid "A PGP key allows you to encrypt email or files to other people."
+msgstr "PGP 密钥允许您加密给别人的电子邮件或文件。"
+
+msgid "A Secure Shell (SSH) key lets you connect securely to other computers."
+msgstr "安全 Shell (SSH) 密钥允许您通过安全的连接到其它计算机。"
+
+msgid "A keyring that is automatically unlocked on login"
+msgstr "登录系统时自动解锁的密钥环"
+
+msgid "A keyring used to store passwords"
+msgstr "用于存储密码的密钥环"
+
+msgid "AM"
+msgstr "上午"
+
+msgid "About this program"
+msgstr "关于此程序"
+
+msgid "Access a network share or resource"
+msgstr "访问网络共享或资源"
+
+msgid "Access a website"
+msgstr "访问站点"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add Key Server"
+msgstr "添加密钥服务器"
+
+msgid "Add Password"
+msgstr "添加密码"
+
+msgid "Add Password Keyring"
+msgstr "添加密码密钥环"
+
+msgid "Add User ID"
+msgstr "添加用户 ID"
+
+msgid "Add a new key or item"
+msgstr "添加新密钥或条目"
+
+msgid "Add a photo to this key"
+msgstr "向此密钥添加照片"
+
+msgid "Add subkey to %s"
+msgstr "向 %s 添加子密钥"
+
+msgid "Add user ID to %s"
+msgstr "向 %s 添加用户 ID"
+
+msgctxt "Algorithm"
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Algorithm:"
+msgstr "算法："
+
+msgid "All JPEG files"
+msgstr "所有 JPEG 文件"
+
+msgid "All files"
+msgstr "所有文件"
+
+msgid "All image files"
+msgstr "所有图像文件"
+
+msgid "All key files"
+msgstr "所有密钥文件"
+
+msgid "Applications usually store new passwords in the default keyring."
+msgstr "应用程序通常将新密码存储在默认密钥环中。"
+
+msgid "Are you sure you want to delete %d password?"
+msgid_plural "Are you sure you want to delete %d passwords?"
+msgstr[0] "您确定要删除 %d 个密码吗？"
+
+msgid "Are you sure you want to delete %d secure shell key?"
+msgid_plural "Are you sure you want to delete %d secure shell keys?"
+msgstr[0] "您确认要删除 %d 个 SSH 密钥吗？"
+
+msgid "Are you sure you want to delete the password '%s'?"
+msgstr "确认要删除密码“%s”吗？"
+
+msgid "Are you sure you want to delete the password keyring '%s'?"
+msgstr "确认要删除密码密钥环“%s”吗？"
+
+msgid "Are you sure you want to delete the secure shell key '%s'?"
+msgstr "您确认要删除 SSH 密钥“%s”吗？"
+
+msgid "Are you sure you want to permanently delete %d certificate?"
+msgid_plural "Are you sure you want to permanently delete %d certificates?"
+msgstr[0] "您确定要永久删除 %d 个证书吗？"
+
+msgid "Are you sure you want to permanently delete %d keys?"
+msgid_plural "Are you sure you want to permanently delete %d keys?"
+msgstr[0] "您确定您要永久地删除 %d 个密钥吗？"
+
+msgid "Are you sure you want to permanently delete %s?"
+msgstr "您确定要永久删除 %s 吗？"
+
+msgid "Are you sure you want to permanently delete subkey %d of %s?"
+msgstr "您确定要永久删除 %2$s 的子密钥 %1$d 吗？"
+
+msgid "Are you sure you want to permanently delete the '%s' user ID?"
+msgstr "您确认您想要永久删除“%s”用户 ID 吗？"
+
+msgid "Are you sure you want to remove the current photo from your key?"
+msgstr "您确定要从您的密钥中移除当前照片吗？"
+
+msgid "Armored PGP keys"
+msgstr "字符形式的密钥"
+
+msgid "Authenticate"
+msgstr "认证"
+
+msgid "Automatically retrieve keys from _key servers"
+msgstr "自动从密钥服务器获取密钥(_K)"
+
+msgid "Automatically synchronize _modified keys with key servers"
+msgstr "自动从密钥服务器同步修改的密钥(_M)"
+
+msgid "By _Keyring"
+msgstr "根据密钥环(_K)"
+
+msgid "By signing you indicate your trust that this key belongs to:"
+msgstr "通过签署您表明您信任此密钥属于："
+
+msgid "C_hange"
+msgstr "更改(_H)"
+
+msgid "C_reate"
+msgstr "创建(_R)"
+
+msgid "Cannot delete"
+msgstr "无法删除"
+
+msgid "Certificate"
+msgstr "证书"
+
+msgid "Certificate request"
+msgstr "证书请求"
+
+msgid "Certificates"
+msgstr "证书"
+
+msgid "Certificates (DER encoded)"
+msgstr "密钥(DER 编码)"
+
+msgid "Certify"
+msgstr "验证"
+
+msgid "Change Passphrase"
+msgstr "更改密码"
+
+msgid "Change _Passphrase"
+msgstr "更改密码(_P)"
+
+msgid "Change _Password"
+msgstr "更改密码(_P)"
+
+msgid "Change preferences for this program"
+msgstr "修改此程序的首选项"
+
+msgid "Change the unlock password of the password storage keyring"
+msgstr "修改密码存储密钥环的解锁密码"
+
+msgid "Choose Photo to Add to Key"
+msgstr "选择要添加到密钥的照片"
+
+msgid "Clipboard text"
+msgstr "剪贴板文本"
+
+msgid "Close this program"
+msgstr "关闭此程序"
+
+msgid "Close this window"
+msgstr "关闭此窗口"
+
+msgid "Comment:"
+msgstr "备注："
+
+msgid "Compromised"
+msgstr "被泄露"
+
+msgid "Con_firm Passphrase:"
+msgstr "确认密码(_F)："
+
+msgid "Configure Key for _Secure Shell..."
+msgstr "为 _SSH 配置密钥..."
+
+msgid "Configuring Secure Shell Keys..."
+msgstr "正在配置 SSH 密钥..."
+
+msgid "Confirm new passphrase"
+msgstr "确认新密码"
+
+msgid "Confirm:"
+msgstr "确认："
+
+msgid "Connecting to: %s"
+msgstr "正在连接到：%s"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Contributions:"
+msgstr "贡献人："
+
+msgid "Copy to the clipboard"
+msgstr "复制到剪贴板"
+
+msgid "Could not display help: %s"
+msgstr "无法显示帮助：%s"
+
+msgid "Couldn't add item"
+msgstr "无法添加项目"
+
+msgid "Couldn't add keyring"
+msgstr "无法添加密钥环"
+
+msgid "Couldn't add photo"
+msgstr "无法添加照片"
+
+msgid "Couldn't add revoker"
+msgstr "无法添加废除者"
+
+msgid "Couldn't add subkey"
+msgstr "无法添加子密钥"
+
+msgid "Couldn't add user id"
+msgstr "无法添加用户 ID"
+
+msgid "Couldn't change authorization for key."
+msgstr "无法更改此密钥的授权。"
+
+msgid "Couldn't change expiry date"
+msgstr "无法更改有效期"
+
+msgid "Couldn't change keyring password"
+msgstr "无法修改密钥环密码"
+
+msgid "Couldn't change passphrase for key."
+msgstr "无法更改此密钥的密码。"
+
+msgid "Couldn't change password."
+msgstr "无法修改密码。"
+
+msgid "Couldn't change primary photo"
+msgstr "无法修改主照片"
+
+msgid "Couldn't change primary user ID"
+msgstr "无法修改主用户 ID"
+
+msgid "Couldn't communicate with '%s': %s"
+msgstr "无法与“%s”通讯：%s"
+
+msgid "Couldn't communicate with server '%s': %s"
+msgstr "无法与服务器“%s”通讯：%s"
+
+msgid "Couldn't configure Secure Shell keys on remote computer."
+msgstr "无法配置远程服务器上的 SSH 密钥。"
+
+msgid "Couldn't create certificate request"
+msgstr "无法创建证书请求"
+
+msgid "Couldn't delete"
+msgstr "无法删除"
+
+msgid "Couldn't delete photo"
+msgstr "无法删除照片"
+
+msgid "Couldn't delete subkey"
+msgstr "无法删除子密钥"
+
+msgid "Couldn't delete user ID"
+msgstr "无法删除用户 ID"
+
+msgid "Couldn't export data"
+msgstr "无法导出数据"
+
+msgid "Couldn't export key"
+msgstr "无法导出密钥"
+
+msgid "Couldn't export keys"
+msgstr "无法导出密钥"
+
+msgid "Couldn't generate PGP key"
+msgstr "无法生成 PGP 密钥"
+
+msgid "Couldn't generate Secure Shell key"
+msgstr "无法创建 SSH 密钥"
+
+msgid "Couldn't generate private key"
+msgstr "无法生成私钥"
+
+msgid "Couldn't import keys"
+msgstr "无法导入密钥"
+
+msgid "Couldn't lock"
+msgstr "无法锁定"
+
+msgid "Couldn't prepare photo"
+msgstr "无法准备照片"
+
+msgid "Couldn't publish keys to server"
+msgstr "无法向服务器发行密钥"
+
+msgid "Couldn't rename key."
+msgstr "无法重命名密钥。"
+
+msgid "Couldn't resolve address: %s"
+msgstr "无法解析地址：%s"
+
+msgid "Couldn't retrieve keys from server: %s"
+msgstr "无法从服务器取回密钥：%s"
+
+msgid "Couldn't revoke subkey"
+msgstr "无法吊销子密钥"
+
+msgid "Couldn't save certificate request"
+msgstr "无法保存证书请求"
+
+msgid "Couldn't set default keyring"
+msgstr "无法设置默认密钥环"
+
+msgid "Couldn't set description."
+msgstr "无法设定说明。"
+
+msgid "Couldn't sign key"
+msgstr "无法签署密钥"
+
+msgid "Couldn't unlock"
+msgstr "无法解锁"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Create a certificate request file for this key"
+msgstr "为此密钥创建一个证书请求文件"
+
+msgid "Create a certificate request file."
+msgstr "创建一个证书请求文件。"
+
+msgid "Create a new key or item"
+msgstr "创建新密钥或条目"
+
+msgid "Create a new private key"
+msgstr "创建新密钥"
+
+msgid "Create the new user ID"
+msgstr "创建新用户 ID"
+
+msgid "Created"
+msgstr "已创建"
+
+msgid "Created:"
+msgstr "创建："
+
+msgid "Creating Secure Shell Key"
+msgstr "创建 SSH 密钥"
+
+msgid "Custom"
+msgstr "制定"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "DSA (sign only)"
+msgstr "DSA (仅签署)"
+
+msgid "DSA ElGamal"
+msgstr "DSA ElGamal"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Dates"
+msgstr "日期"
+
+msgid "Dates:"
+msgstr "日期："
+
+msgid "Day"
+msgstr "日"
+
+msgid "Day of month part of the lower date limit"
+msgstr "日期下限的月份日部分"
+
+msgid "Day of month part of the upper date limit"
+msgstr "日期上限的月份日部分"
+
+msgid "Decrypt files and email sent to you."
+msgstr "解密发给您的文件和电子邮件"
+
+msgid "Decryption failed. You probably do not have the decryption key."
+msgstr "解密失败。您可能没有解密密钥。"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete selected items"
+msgstr "删除已选择的项目"
+
+msgid "Delete this certificate or key"
+msgstr "删除此证书或密钥"
+
+msgid "Details"
+msgstr "细节"
+
+msgid "Disabled"
+msgstr "禁止"
+
+msgid "Display flags"
+msgstr "显示标志"
+
+msgid "Displayed date and/or time properties"
+msgstr "显示的日期和/或时间属性"
+
+msgid "Displayed day of month"
+msgstr "显示一个月里的某日"
+
+msgid "Displayed hour"
+msgstr "显示小时"
+
+msgid "Displayed minute"
+msgstr "显示分钟"
+
+msgid "Displayed month"
+msgstr "显示月"
+
+msgid "Displayed second"
+msgstr "显示秒"
+
+msgid "Displayed year"
+msgstr "显示年"
+
+msgid "Don't display a window"
+msgstr "不要显示窗口"
+
+msgid "Dropped text"
+msgstr "丢失的文本"
+
+msgid "E_xpiration Date:"
+msgstr "有效期至(_X)："
+
+msgid "E_xport Complete Key"
+msgstr "导出完整密钥(_X)"
+
+msgid "E_xport..."
+msgstr "导出(_X)..."
+
+msgid "ElGamal"
+msgstr "ElGamal"
+
+msgid "ElGamal (encrypt only)"
+msgstr "ElGamal (仅加密)"
+
+msgid "Email:"
+msgstr "电子邮件："
+
+msgid "Encrypt"
+msgstr "加密"
+
+msgid "Encrypt files and email to the key's owner"
+msgstr "加密文件并通过电子邮件发给密钥所有者"
+
+msgid "Encryption _Type:"
+msgstr "加密类型(_T)："
+
+msgid "Encryption key password"
+msgstr "加密密钥口令"
+
+msgid "Enter Key Passphrase"
+msgstr "输入密钥密码"
+
+msgid "Enter PIN or password for: %s"
+msgstr "输入密码或 PIN：%s"
+
+msgid "Enter new passphrase"
+msgstr "输入新密码"
+
+msgid "Enter new passphrase for '%s'"
+msgstr "请输入“%s”的新密码"
+
+msgid "Enter passphrase"
+msgstr "输入密码"
+
+msgid "Enter passphrase for '%s'"
+msgstr "请输入“%s”的密码"
+
+msgid "Enter the date directly"
+msgstr "直接输入日期"
+
+msgid "Enter the new passphrase again: %s"
+msgstr "再次输入新密码：%s"
+
+msgid "Enter the new passphrase for: %s"
+msgstr "输入 %s 的新密码："
+
+msgid "Enter the old passphrase for: %s"
+msgstr "输入 %s 的旧密码："
+
+msgid "Enter the passphrase for your new key twice."
+msgstr "输入您的新密钥的密码两次"
+
+msgid "Enter the time directly"
+msgstr "请直接输入时间"
+
+msgid "Enter your Secure Shell passphrase:"
+msgstr "输入您的 SSH 密码："
+
+msgid "Expiration Date:"
+msgstr "有效期："
+
+msgid "Expire"
+msgstr "过期"
+
+msgid "Expired"
+msgstr "已过期"
+
+msgid "Expires"
+msgstr "过期"
+
+msgctxt "Expires"
+msgid "Never"
+msgstr "从不"
+
+msgid "Expires:"
+msgstr "过期："
+
+msgid "Expiry: %s"
+msgstr "过期状态：%s"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Export the certificate"
+msgstr "导出证书"
+
+msgid "Export to a file"
+msgstr "导出到文件"
+
+msgid "Exporting data"
+msgstr "正在导出数据"
+
+msgid "Failed to export certificate"
+msgstr "导出证书失败"
+
+msgid "Filter"
+msgstr "过滤器"
+
+msgid "Find Remote Keys"
+msgstr "寻找远程密钥"
+
+msgid "Fingerprint"
+msgstr "指纹"
+
+msgid "Fingerprint:"
+msgstr "指纹："
+
+msgid "First time options:"
+msgstr "初次选项："
+
+msgid ""
+"For help contact your system administrator or the administrator of the key "
+"server."
+msgstr "要获取帮助，请联系您的系统管理员或密钥服务器的管理员。"
+
+msgid "Full"
+msgstr "完全"
+
+msgid "Full _Name:"
+msgstr "全名(_N)："
+
+msgid "Generate a new key"
+msgstr "生成新密钥"
+
+msgid "Generate a new key of your own: "
+msgstr "生成您自己的新密钥： "
+
+msgid "Generate a new subkey"
+msgstr "生成一个新的子密钥"
+
+msgid "Generating key"
+msgstr "正在生成密钥"
+
+msgid "Gnome Online Accounts password"
+msgstr "GNOME 在线帐户密码"
+
+msgid "GnuPG keys"
+msgstr "GnuPG 密钥"
+
+msgid "GnuPG: default keyring directory"
+msgstr "GnuPG：默认密钥换目录"
+
+msgid "Go to next photo"
+msgstr "到下个照片"
+
+msgid "Go to previous photo"
+msgstr "到上个照片"
+
+msgid "Good"
+msgstr "好"
+
+msgid "Google Chrome password"
+msgstr "Google Chrome 密码"
+
+msgid "HTTP Key Server"
+msgstr "HTTP 密钥服务器"
+
+msgid "Host:"
+msgstr "主机："
+
+msgid "Hour"
+msgstr "小时"
+
+msgid "Hour part of the lower time limit"
+msgstr "时间下限的小时部分"
+
+msgid "Hour part of the upper time limit"
+msgstr "时间上限的小时部分"
+
+msgid "How carefully have you checked this key?"
+msgstr "您仔细检查过此密钥吗？"
+
+msgid "How others will see this signature:"
+msgstr "其他人如何看到这个签名："
+
+msgid "I can _revoke this signature at a later date."
+msgstr "我可以在之后吊销此签名(_R)。"
+
+msgid "I trust signatures from '%s' on other keys"
+msgstr "我信任来自其它密钥上的 '%s' 的签名"
+
+msgid "I understand that all items will be permanently deleted."
+msgstr "我明白，所有的条目都将永久删除。"
+
+msgid "I understand that this key will be permanently deleted."
+msgstr "我明白，此密钥将永久删除。"
+
+msgid "I understand that this secret key will be permanently deleted."
+msgstr "我明白，此私钥将永久删除。"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IM account password for "
+msgstr "即时通信帐号密码 "
+
+msgid "Identifier:"
+msgstr "标识符："
+
+msgid "If key never expires"
+msgstr "如果密钥永不过期"
+
+msgid ""
+"If there is a computer you want to use this key with, you can set up that "
+"computer to recognize your new key."
+msgstr "如果您打算在一台计算机上使用此密钥，您现在可以将那台计算机设定为识别您的密钥。"
+
+msgid ""
+"If you believe that the person that owns this key is '%s', <i>sign</i> this "
+"key:"
+msgstr "如果您相信拥有此密钥的人是“%s”，请<i>签署</i>此密钥："
+
+msgid ""
+"If you no longer trust that '%s' owns this key, <i>revoke</i> your "
+"signature:"
+msgstr "如果您不再相信“%s”拥有此密钥，请<i>吊销</i>您的签名："
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import Key"
+msgstr "导入密钥"
+
+msgid "Import existing keys from a file:"
+msgstr "从文件导入已存在的密钥："
+
+msgid "Import failed"
+msgstr "导入失败"
+
+msgid "Import from a file"
+msgstr "从文件导入"
+
+msgid "Import from the clipboard"
+msgstr "从剪贴板导入"
+
+msgid "Import selected keys to local key ring"
+msgstr "将已选择的密钥导入到本地密钥环"
+
+msgid "Importing data"
+msgstr "正在导入数据"
+
+msgid "Importing key. Enter passphrase"
+msgstr "正在导入密钥。输入密码"
+
+msgid "Importing key: %s"
+msgstr "正在导入密钥：%s"
+
+msgid "Importing keys from key servers"
+msgstr "从密钥服务器导入密钥"
+
+msgid "Indicate Trust:"
+msgstr "是否信任："
+
+msgid "Instant messaging password"
+msgstr "即时通讯密码"
+
+msgid "Invalid expiry date"
+msgstr "无效的有效期"
+
+msgid ""
+"Invalid key data (missing UIDs). This may be due to a computer with a date "
+"set in the future or a missing self-signature."
+msgstr "无效的密钥数据(缺少 UID)。这可能是由于电脑时间设置成未来时间或者缺少自我签名。"
+
+msgid "Key"
+msgstr "密钥"
+
+msgid "Key Co_mment:"
+msgstr "密钥注释(_M)："
+
+msgid "Key Data"
+msgstr "密钥数据"
+
+msgid "Key ID"
+msgstr "密钥 ID"
+
+msgid "Key ID:"
+msgstr "密钥 ID："
+
+msgid "Key Name"
+msgstr "密钥名称"
+
+msgid "Key Names and Signatures"
+msgstr "密钥名称和签名"
+
+msgid "Key Properties"
+msgstr "密钥首选项"
+
+msgid "Key Server Type:"
+msgstr "密钥服务器类型："
+
+msgid "Key Servers"
+msgstr "密钥服务器"
+
+msgid "Key Servers:"
+msgstr "密钥服务器："
+
+msgid "Key _Length:"
+msgstr "密钥长度(_L)："
+
+msgid "Key _Strength (bits):"
+msgstr "密钥保密强度(位)(_S)"
+
+msgid "Key _Type:"
+msgstr "密钥类型(_T)："
+
+msgid "Key has been compromised"
+msgstr "密钥已被泄露"
+
+msgid "Key has been superseded"
+msgstr "密钥已被取代"
+
+msgid "Key is no longer used"
+msgstr "密钥不再使用"
+
+msgid "Key storage password"
+msgstr "密钥存储口令"
+
+msgid "Keyring"
+msgstr "密钥环"
+
+msgid "Keyring password"
+msgstr "密钥环密码"
+
+msgid "Keys used to connect securely to other computers"
+msgstr "用来连接到其他计算机的密钥。"
+
+msgid "LDAP Key Server"
+msgstr "LDAP 密钥服务器"
+
+msgctxt "Label"
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Label:"
+msgstr "标签："
+
+msgid "Lazy mode"
+msgstr "懒惰模式"
+
+msgid "Lazy mode doesn't normalize entered date and time values"
+msgstr "懒惰模式不对日期和时间变量进行标准化"
+
+msgid "Length of Key"
+msgstr "密钥长度"
+
+msgid "Loaded %d key"
+msgid_plural "Loaded %d keys"
+msgstr[0] "已载入 %d 个密钥"
+
+msgid "Location:"
+msgstr "位置："
+
+msgid "Login:"
+msgstr "登录："
+
+msgid "Lower limit day"
+msgstr "天的下限"
+
+msgid "Lower limit hour"
+msgstr "小时的下限"
+
+msgid "Lower limit minute"
+msgstr "分钟的下限"
+
+msgid "Lower limit month"
+msgstr "月份的下限"
+
+msgid "Lower limit second"
+msgstr "秒钟的下限"
+
+msgid "Lower limit year"
+msgstr "年份的下限"
+
+msgid "Make this photo the primary photo"
+msgstr "使用此照片作为主照片"
+
+msgid "Manage your passwords and encryption keys"
+msgstr "管理您的密码和加密密钥"
+
+msgid "Marginal"
+msgstr "部分"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid "Minute part of the lower time limit"
+msgstr "时间下限的分钟部分"
+
+msgid "Minute part of the upper time limit"
+msgstr "时间上限的分钟部分"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Month part of the lower date limit"
+msgstr "日期下限的月份部分"
+
+msgid "Month part of the upper date limit"
+msgstr "日期上限的月份部分"
+
+msgid "Multiple Keys"
+msgstr "多个密钥"
+
+msgid "Must be at least 5 characters long"
+msgstr "必须至少5个字符长度"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name (CN):"
+msgstr "名称(CN)："
+
+msgid "Name/Email"
+msgstr "名称/电子邮件"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "Names and Signatures"
+msgstr "名称和签名"
+
+msgid "Ne_ver Expires"
+msgstr "永不过期(_V)"
+
+msgid "Network Credentials"
+msgstr "网络证书"
+
+msgid "Network Manager secret"
+msgstr "网络管理器私钥"
+
+msgid "Network password"
+msgstr "网络密码"
+
+msgid "Never E_xpires"
+msgstr "永不过期(_X)"
+
+msgid "New Key Passphrase"
+msgstr "新的密钥密码"
+
+msgid "New Keyring Name:"
+msgstr "新密钥环名称："
+
+msgid "New Secure Shell Key"
+msgstr "新 SSH 密钥"
+
+msgid "New _Passphrase:"
+msgstr "新密码(_P)："
+
+msgid "New password keyring"
+msgstr "新建密码密钥环"
+
+msgid "New password..."
+msgstr "新密码..."
+
+msgid "No keys usable for signing"
+msgstr "没有可用于签署的密钥"
+
+msgid "No private key file is available for this key."
+msgstr "此密钥的私钥文件不可用。"
+
+msgid "No public key file is available for this key."
+msgstr "此密钥的公钥文件不可用。"
+
+msgid "No reason"
+msgstr "无理由"
+
+msgid "No reason for revoking key"
+msgstr "无吊销密钥理由"
+
+msgid "None: Don't publish keys"
+msgstr "无：不要发行密钥"
+
+msgid "Not Used"
+msgstr "不再使用"
+
+msgid "Not a valid Key Server address."
+msgstr "不是有效的密钥服务器地址。"
+
+msgid "Old Key Passphrase"
+msgstr "旧的密钥密码"
+
+msgid "Only show personal keys, certificates and passwords"
+msgstr "只显示个人密钥、证书和密码"
+
+msgid "Only show trusted keys, certificates and passwords"
+msgstr "只显示信任的密钥、证书和密码"
+
+msgid "OpenSSH keys"
+msgstr "OpenSSH keys"
+
+msgid "OpenSSH: %s"
+msgstr "OpenSSH：%s"
+
+msgid "Optional comment describing key"
+msgstr "可选的描述密钥的注释"
+
+msgid "Optional description of revocation"
+msgstr "可选的撤回描述"
+
+msgid "Optional email address"
+msgstr "可选电子邮件地址"
+
+msgid "Override Owner _Trust:"
+msgstr "覆盖所有者信任状态(_T)："
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "PEM encoded request"
+msgstr "PEM 编码的请求"
+
+msgid "PGP Key"
+msgstr "PGP 密钥"
+
+msgid "PGP Keys"
+msgstr "PGP 密钥"
+
+msgid "PGP key"
+msgstr "PGP 密钥"
+
+msgid "PGP keys"
+msgstr "PGP 密钥"
+
+msgid "PGP keys are for encrypting email or files"
+msgstr "PGP 密钥用来加密邮件和文件"
+
+msgid "PM"
+msgstr "下午"
+
+msgid "Passphrase"
+msgstr "密码"
+
+msgid "Passphrase for New PGP Key"
+msgstr "新 PGP 密钥的密码"
+
+msgid "Passphrase for New Secure Shell Key"
+msgstr "新的 SSH 密钥的密码"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password Keyring"
+msgstr "密码密钥环"
+
+msgid "Password or secret"
+msgstr "密码或私钥"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Passwords"
+msgstr "密码"
+
+msgid "Passwords and Keys"
+msgstr "密码和密钥"
+
+msgid "Personal PGP key"
+msgstr "个人 PGP 密钥"
+
+msgid "Personal SSH key"
+msgstr "个人 SSH 密钥"
+
+msgid "Personal certificate"
+msgstr "个人证书"
+
+msgid "Personal certificate and key"
+msgstr "个人证书和密钥"
+
+msgid "Photo "
+msgstr "照片 "
+
+msgid ""
+"Please choose a name for the new keyring. You will be prompted for an unlock"
+" password."
+msgstr "请为新密钥环选择名称。您将会被提示输入解锁密码。"
+
+msgid "Prefere_nces"
+msgstr "首选项(_N)"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Primary"
+msgstr "主要"
+
+msgid "Private PGP Key"
+msgstr "PGP 私钥"
+
+msgid "Private key"
+msgstr "私钥"
+
+msgid "Public PGP Key"
+msgstr "PGP 公钥"
+
+msgid "Public SSH keys"
+msgstr "SSH 公钥"
+
+msgid "Publish and/or synchronize your keys with those online."
+msgstr "与那些在线的密钥发行并/或同步您的密钥"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "RSA (encrypt only)"
+msgstr "RSA (仅加密)"
+
+msgid "RSA (sign only)"
+msgstr "RSA (仅签署)"
+
+msgid "Re_voke"
+msgstr "撤回(_V)"
+
+msgid "Reason for revoking the key"
+msgstr "吊销密钥的原因"
+
+msgid "Remote Host Password"
+msgstr "远程主机密码"
+
+msgid "Remote Keys"
+msgstr "远程密钥"
+
+msgid "Remote Keys Containing '%s'"
+msgstr "远程密钥包含“%s”"
+
+msgid "Remove this photo from this key"
+msgstr "从此密钥中移除此照片"
+
+msgid "Request _Certificate"
+msgstr "请求证书(_C)"
+
+msgid "Resolving server address: %s"
+msgstr "正在解析服务器地址：%s"
+
+msgid "Retrieving data"
+msgstr "正在取回数据"
+
+msgid "Revoke"
+msgstr "吊销"
+
+msgid "Revoke key"
+msgstr "吊销密钥"
+
+msgid "Revoke: %s"
+msgstr "吊销：%s"
+
+msgid "Revoked"
+msgstr "已吊销"
+
+msgid "SSH Key"
+msgstr "SSH 密钥"
+
+msgid "SSH key"
+msgstr "SSH 密钥"
+
+msgid "Safely store a password or secret."
+msgstr "安全地储存密码或密语。"
+
+msgid "Save certificate request"
+msgstr "保存证书请求"
+
+msgid "Saved password or login"
+msgstr "已存储的密码或登录"
+
+msgid "Seahorse"
+msgstr "Seahorse"
+
+msgid "Seahorse Project Homepage"
+msgstr "Seahorse 项目首页"
+
+msgid ""
+"Seahorse is a GNOME application for managing encryption keys. It also "
+"integrates with nautilus, gedit and other places for encryption operations."
+msgstr "Seahorse 是一款用于管理加密密钥的 GNOME 应用程序。它也与 nautilus、gedit 和其他地方集成，处理加密操作。"
+
+msgid "Search for keys on a key server"
+msgstr "在密钥服务器搜索密钥"
+
+msgid "Search was not specific enough. Server '%s' found too many keys."
+msgstr "搜索范围过宽。服务器“%s”中找到太多密钥。"
+
+msgid "Second"
+msgstr "秒"
+
+msgid "Second part of the lower time limit"
+msgstr "时间下限的第二个部分"
+
+msgid "Second part of the upper time limit"
+msgstr "时间上限的第二个部分"
+
+msgid "Secret SSH keys"
+msgstr "SSH 私钥"
+
+msgid "Secure Shell"
+msgstr "SSH"
+
+msgid "Secure Shell Key"
+msgstr "SSH 密钥"
+
+msgid "Select Date"
+msgstr "选择日期"
+
+msgid "Select Time"
+msgstr "选择时间"
+
+msgid "Select the date from a calendar"
+msgstr "从日历中选择日期"
+
+msgid "Select the time from a list"
+msgstr "请从列表中选择时间"
+
+msgid ""
+"Send public Secure Shell key to another machine, and enable logins using "
+"that key."
+msgstr "发送 SSH 公钥到另一个机器，并允许使用该密钥登录。"
+
+msgid "Sending data"
+msgstr "正在发送数据"
+
+msgid "Server:"
+msgstr "服务器："
+
+msgid "Set Up Computer for SSH Connection"
+msgstr "为 SSH 连接设定计算机"
+
+msgid "Shared Keys Near Me:"
+msgstr "我附近的共享密钥："
+
+msgid "Show Seahorse help"
+msgstr "显示 Seahorse 帮助"
+
+msgid "Show _Any"
+msgstr "显示全部(_A)"
+
+msgid "Show _Personal"
+msgstr "显示个人(_P)"
+
+msgid "Show _Trusted"
+msgstr "仅显示信任的(_T)"
+
+msgid "Show all keys, certificates and passwords"
+msgstr "显示全部密钥、证书和密码"
+
+msgid "Show pass_word"
+msgstr "显示密码(_W)"
+
+msgid "Show sidebar listing keyrings"
+msgstr "显示密钥环列表侧边栏"
+
+msgid "Show the properties of this item"
+msgstr "显示此项目的属性"
+
+msgid "Show the properties of this keyring"
+msgstr "显示此密钥环的属性"
+
+msgid "Sign"
+msgstr "签署"
+
+msgid "Sign Key"
+msgstr "签署密钥"
+
+msgid "Sign key as:"
+msgstr "以此身份签署密钥："
+
+msgid "Signature ID"
+msgstr "签名 ID"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Stored Password"
+msgstr "已储存的密码"
+
+msgid "Stored at:"
+msgstr "已储存于："
+
+msgid "Stored note"
+msgstr "已存储的便笺"
+
+msgid "Stored personal passwords, credentials and secrets"
+msgstr "存储个人密码、证书和私钥"
+
+msgid "Strength"
+msgstr "强度"
+
+msgid "Strength:"
+msgstr "保密强度："
+
+msgid "Subkey %d of %s"
+msgstr "%2$s 的子密钥 %1$d"
+
+msgid "Superseded"
+msgstr "被取代"
+
+msgid "Sync Keys"
+msgstr "同步密钥"
+
+msgid "Synchronizing keys..."
+msgstr "正在同步密钥..."
+
+msgid "Technical Details"
+msgstr "技术细节"
+
+msgid "Technical Details:"
+msgstr "技术细节："
+
+msgid "Telepathy password"
+msgstr "Telepathy 密码"
+
+msgid "The SSH command failed."
+msgstr "SSH 命令失败。"
+
+msgid "The SSH command was terminated unexpectedly."
+msgstr "SSH 命令意外终止。"
+
+msgid "The common name (CN) placed in the certificate request."
+msgstr "在证书请求中的通用名(CN)。"
+
+msgid "The expiry date must be in the future"
+msgstr "有效期的过期日期必须是未来时间"
+
+msgid "The file could not be loaded. It may be in an invalid format"
+msgstr "文件无法加载。可能是无效格式"
+
+msgid "The host name or address of the server."
+msgstr "服务器的主机名称或地址"
+
+msgid "The operation was cancelled"
+msgstr "操作被中止"
+
+msgid "The owner of the key revoked the key. It can no longer be used."
+msgstr "此密钥的所有者已撤回此密钥。它将不能再使用。"
+
+msgid "The owner of this key is _authorized to connect to this computer"
+msgstr "此密钥的拥有者已被授权连接到此计算机(_A)"
+
+msgid "The port to access the server on."
+msgstr "连接服务器的端口。"
+
+msgid "The search for keys failed."
+msgstr "寻找密钥失败。"
+
+msgid "The search provider is not loaded yet"
+msgstr "搜索提供者尚未加载。"
+
+msgid ""
+"This is not a image file, or an unrecognized kind of image file. Try to use "
+"a JPEG image."
+msgstr "这不是一个图像文件，或者是一个无法识别类型的图像文件。请尝试使用 JPEG 图像。"
+
+msgid "This key expired on: %s"
+msgstr "此密钥已于 %s 过期。"
+
+msgid "This key has been revoked"
+msgstr "此密钥已被吊销"
+
+msgid "This key has expired"
+msgstr "此密钥已过期"
+
+msgid ""
+"This key was already signed by\n"
+"\"%s\""
+msgstr ""
+"密钥已删除\n"
+"“%s”"
+
+msgid "This only applies to the <i>%s</i> account."
+msgstr "仅用于<i>%s</i>帐户。"
+
+msgid ""
+"This was the third time you entered a wrong password. Please try again."
+msgstr "这是您第三次输错密码了。请重试。"
+
+msgid ""
+"This will find keys for others on the Internet. These keys can then be "
+"imported into your local key ring."
+msgstr "这将在互联网上寻找其他人的密钥。这些密钥可以导入您的本地密钥环。"
+
+msgid ""
+"This will publish the keys in your key ring so they're available for others "
+"to use. You'll also get any changes others have made since you received "
+"their keys."
+msgstr "这将发行您密钥环里的密钥，这样它们可供其他人来使用。您也可以获得自上次获得别人密钥以来别人进行的修改"
+
+msgid ""
+"This will retrieve any changes others have made since you received their "
+"keys. No key server has been chosen for publishing, so your keys will not be"
+" made available to others."
+msgstr "这将取回自上次您获得他们的密钥以来别人所作的所有改变。没有指定用来发行的密钥服务器，所以您的密钥无法被其他人使用。"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "To get started with encryption you will need keys."
+msgstr "您需要密钥以开始加密。"
+
+msgid ""
+"To use your Secure Shell key with another computer that uses SSH, you must "
+"already have a login account on that computer."
+msgstr "要在另一台使用 SSH 的计算机上使用您的 SSH 密钥，您必须在那台计算机上有已存在的登录帐户。"
+
+msgid "Trust"
+msgstr "信任"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Ultimate"
+msgstr "彻底"
+
+msgid "Unable to change trust"
+msgstr "无法修改信任栏"
+
+msgid "Unavailable"
+msgstr "不可用"
+
+msgid "Unlocks a PGP key"
+msgstr "解锁 PGP 密钥"
+
+msgid "Unlocks a Secure Shell key"
+msgstr "解锁 SSH 密钥"
+
+msgid "Unnamed"
+msgstr "未命名"
+
+msgid "Unnamed private key"
+msgstr "未命名的私钥"
+
+msgid "Upper limit day"
+msgstr "天的上限"
+
+msgid "Upper limit hour"
+msgstr "小时的上限"
+
+msgid "Upper limit minute"
+msgstr "分钟的上限"
+
+msgid "Upper limit month"
+msgstr "月份的上限"
+
+msgid "Upper limit second"
+msgstr "秒钟的上限"
+
+msgid "Upper limit year"
+msgstr "年份的上限"
+
+msgid "Usage"
+msgstr "使用"
+
+msgid "Use:"
+msgstr "使用："
+
+msgid "Used to access other computers (eg: via a terminal)"
+msgstr "用来访问其他计算机(例如：通过终端)"
+
+msgid "Used to connect to other computers."
+msgstr "用来连接到其他计算机。"
+
+msgid "Used to encrypt email and files"
+msgstr "用来加密邮件和文件"
+
+msgid "Used to request a certificate"
+msgstr "用于请求证书"
+
+msgid "Used to store application and network passwords"
+msgstr "用来保存应用程序和网络密码"
+
+msgctxt "Validity"
+msgid "Disabled"
+msgstr "禁止"
+
+msgctxt "Validity"
+msgid "Full"
+msgstr "完全"
+
+msgctxt "Validity"
+msgid "Fully"
+msgstr "完全"
+
+msgctxt "Validity"
+msgid "Marginal"
+msgstr "最低限度"
+
+msgctxt "Validity"
+msgid "Marginally"
+msgstr "最小限度"
+
+msgctxt "Validity"
+msgid "Never"
+msgstr "从不"
+
+msgctxt "Validity"
+msgid "Revoked"
+msgstr "已吊销"
+
+msgctxt "Validity"
+msgid "Ultimate"
+msgstr "彻底"
+
+msgctxt "Validity"
+msgid "Ultimately"
+msgstr "彻底"
+
+msgctxt "Validity"
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Version of this application"
+msgstr "本程序的版本"
+
+msgid ""
+"When creating a key we need to generate a lot of\n"
+"random data and we need you to help. It's a good\n"
+"idea to perform some other action like typing on\n"
+"the keyboard, moving the mouse, using applications.\n"
+"This gives the system the random data that it needs."
+msgstr ""
+"创建密钥时需要生成大量随机数据并需要您协助。\n"
+"执行在键盘上打字、移动鼠标、使用应用程序等都有所帮助。\n"
+"这将给予系统其所需用的随机数据。"
+
+msgid "Where to search:"
+msgstr "从哪里搜索："
+
+msgid ""
+"With seahorse you can create and manage PGP keys, create and manage SSH "
+"keys, publish and retrieve keys from key servers, cache your passphrase so "
+"you don't have to keep typing it and backup your keys and keyring."
+msgstr ""
+"您可以通过 seahorse 创建和管理 PGP 密钥，创建和管理 SSH "
+"密钥、将密钥发送到密钥服务器或取回、缓存您的口令以免重复输入，以及备份您的密钥和密钥环。"
+
+msgid "Wrong passphrase."
+msgstr "错误的密码。"
+
+msgid "Wrong password"
+msgstr "密码错误"
+
+msgid "X.509 certificates and related keys"
+msgstr "X.509 证书和相关的密钥"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Year part of the lower date limit"
+msgstr "日期下限的年份部分"
+
+msgid "Year part of the upper date limit"
+msgstr "日期上限的年份部分"
+
+msgid "You _Trust the Owner:"
+msgstr "对此密钥的信任度(_T)："
+
+msgid ""
+"You are about to add %s as a revoker for %s. This operation cannot be "
+"undone! Are you sure you want to continue?"
+msgstr "您将为 %2$s 添加 %1$s 作为撤回者。此操作不能取消！您确定要继续吗？"
+
+msgid ""
+"You could use a hard to forge photo identification (such as a passport) to "
+"personally check that the name on the key is correct. You should have also "
+"used email to check that the email address belongs to the owner."
+msgstr "您可以使用一个很难伪造的照片证明(比如护照)来亲自检查密钥名称的正确性。您还需要使用电子邮件来检查此电子邮件地址属于所有者。"
+
+msgid ""
+"You have no personal PGP keys that can be used to indicate your trust of "
+"this key."
+msgstr "您没有个人 PGP 密钥可用于表明您是否信任此密钥。"
+
+msgid ""
+"You have no personal PGP keys that can be used to sign a document or "
+"message."
+msgstr "您没有个人 PGP 密钥可用于签署文档或消息"
+
+msgid "Your email address, or a reminder of what this key is for."
+msgstr "使用您的电子邮件地址，或提示密钥的用途的词句。"
+
+msgid "Your trust is manually specified on the <i>Details</i> tab."
+msgstr "您的信任度在<i>细节</i>栏手动指定。"
+
+msgid "Your trust of this key"
+msgstr "您是否信任此密钥"
+
+msgid "[Unknown]"
+msgstr "[未知]"
+
+msgid "_Add Name"
+msgstr "添加名称(_A)"
+
+msgid "_Advanced key options"
+msgstr "高级密钥选项(_A)"
+
+msgid "_Casually"
+msgstr "随意检查过(_C)"
+
+msgid "_Comment:"
+msgstr "备注(_C)："
+
+msgid "_Contents"
+msgstr "内容(_C)"
+
+msgid "_Create and Set Up"
+msgstr "创建并设定(_C)"
+
+msgid "_Delete"
+msgstr "删除(_D)"
+
+msgid "_Description:"
+msgstr "描述(_D)："
+
+msgid "_Don't Resize"
+msgstr "不调整大小(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_Email Address:"
+msgstr "电子邮件地址(_E)："
+
+msgid "_Export"
+msgstr "导出(_E)"
+
+msgid "_Export Secret Key:"
+msgstr "导出私钥(_E)："
+
+msgid "_File"
+msgstr "文件(_F)"
+
+msgid "_Find Remote Keys..."
+msgstr "寻找远程密钥(_F)..."
+
+msgid "_Find keys via:"
+msgstr "在此寻找密钥(_F)："
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Import"
+msgstr "导入(_I)"
+
+msgid "_Import..."
+msgstr "导入(_I)..."
+
+msgid "_Just Create Key"
+msgstr "仅创建密钥(_J)"
+
+msgid "_Key Servers"
+msgstr "密钥服务器(_K)"
+
+msgid "_Keyring:"
+msgstr "密钥环(_K)："
+
+msgid "_Lock"
+msgstr "锁定(_L)"
+
+msgid "_Login name:"
+msgstr "登录名(_L)："
+
+msgid "_Never expires"
+msgstr "永不过期(_N)"
+
+msgid "_New"
+msgstr "新建(_N)"
+
+msgid "_New..."
+msgstr "新建(_N)..."
+
+msgid "_Not at all"
+msgstr "没有(_N)"
+
+msgid "_Only display the signatures of people I trust"
+msgstr "仅显示我信任的人的签名(_O)"
+
+msgid "_Other Names:"
+msgstr "其他名称(_O)："
+
+msgid "_Others may not see this signature"
+msgstr "其他人不能看到此签名(_O)"
+
+msgid "_Password:"
+msgstr "密码(_P)："
+
+msgid "_People who have signed this key:"
+msgstr "其他签署此密钥的人(_P)："
+
+msgid "_Properties"
+msgstr "属性(_P)"
+
+msgid "_Publish keys to:"
+msgstr "将密钥发布到(_P)："
+
+msgid "_Reason:"
+msgstr "原因(_R)："
+
+msgid "_Remote"
+msgstr "远程(_R)"
+
+msgid "_Resize"
+msgstr "调整大小(_R)"
+
+msgid "_Revoke Signature"
+msgstr "吊销签名(_R)："
+
+msgid "_Search"
+msgstr "搜索(_S)"
+
+msgid "_Search for keys containing: "
+msgstr "搜索包含这些内容的密钥(_S)： "
+
+msgid "_Select the type of item to create:"
+msgstr "选择要创建的项目类型(_S)："
+
+msgid "_Server address:"
+msgstr "服务器地址(_S)："
+
+msgid "_Set Up"
+msgstr "设定(_S)"
+
+msgid "_Set as default"
+msgstr "设为默认(_S)"
+
+msgid "_Show Password"
+msgstr "显示密码(_S)"
+
+msgid "_Sign"
+msgstr "签署(_S)"
+
+msgid "_Sign message with key:"
+msgstr "用此密钥签署消息(_S)："
+
+msgid "_Sign this Key"
+msgstr "签署此密钥(_S)"
+
+msgid "_Signer:"
+msgstr "签署者(_S)："
+
+msgid "_Subkeys"
+msgstr "子密钥(_S)"
+
+msgid "_Sync"
+msgstr "同步(_S)"
+
+msgid "_Sync and Publish Keys..."
+msgstr "同步并发布密钥(_S)"
+
+msgid "_Unlock"
+msgstr "解锁(_U)"
+
+msgid "_Very Carefully"
+msgstr "仔细检查过(_V)"
+
+msgid "_View"
+msgstr "视图(_V)"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:1"
+
+msgid "eg: fileserver.example.com:port"
+msgstr "例如： fireserver.example.com:端口"
+
+msgid "initial temporary item"
+msgstr "初始化临时条目"
+
+msgid "keyring;encryption;security;sign;ssh;"
+msgstr "密钥环;加密;安全;签名;密码;keyring;encryption;security;sign;ssh;"
+
+msgctxt "name-of-key"
+msgid "Name:"
+msgstr "名称："
+
+msgctxt "name-of-ssh-key"
+msgid "Name:"
+msgstr "名称："
+
+msgid "translator-credits"
+msgstr ""
+"wei Li <lw124124@gmail.com>\n"
+"Zipeco <Zipeco@btamail.net.cn>, 2002\n"
+"Funda Wang <fundawang@linux.net.cn>, 2004\n"
+"Deng Xiyue <manphiz@gmail.com> 2007, 2008, 2009\n"
+"Aron Xu <happyaron.xu@gmail.com>, 2009, 2010, 2011\n"
+"YunQiang Su <wzssyqa@gmail.com>, 2012\n"
+"Wylmer Wang <wantinghard@gmail.com>, 2010, 2011, 2013\n"
+"Tong Hui <tonghuix@gmail.com>, 2013\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Tao Wei https://launchpad.net/~weitao1979\n"
+"  Tong Hui https://launchpad.net/~tonghuix\n"
+"  Tunghsiao Liu https://launchpad.net/~sparanoid\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard\n"
+"  Xiyue Deng https://launchpad.net/~manphiz\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  李炜 https://launchpad.net/~lw124124"

@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: update-notifier\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-10 12:15+0100\n"
+"PO-Revision-Date: 2012-04-13 17:31+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: debian-chinese-gb <debian-chinese-gb@lists.debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:09+0000\n"
+
+msgid "  $packages"
+msgstr "  $packages"
+
+msgid "%i package can be updated."
+msgid_plural "%i packages can be updated."
+msgstr[0] "%i 个可升级软件包。"
+
+msgid "%i update is a security update."
+msgid_plural "%i updates are security updates."
+msgstr[0] "%i 个安全更新。"
+
+msgid "- inform about updates"
+msgstr "- 提示更新"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A distribution volume with software packages has been detected.</span>\n"
+"\n"
+"Would you like to try to upgrade from it automatically? "
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">检测到含有软件包的发行卷</span> \n"
+"\n"
+"您希望尝试自动从那里升级吗？ "
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A volume with software packages has been detected.</span>\n"
+"\n"
+"Would you like to open it with the package manager?"
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">检测到一个含有软件包的卷</span>\n"
+"\n"
+"您希望用软件包管理器打开它吗？"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A volume with unofficial software packages has been detected.</span>\n"
+"\n"
+"Would you like to open it with the package manager?"
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">检测到包含非官方软件包的卷</span> \n"
+"\n"
+"您希望用软件包管理器打开它吗？"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">An addon volume with software applications has been detected.</span>\n"
+"\n"
+"Would you like to view/install the content? "
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">检测到有软件包的附加卷</span> \n"
+"\n"
+"您希望查看/安装其内容吗？ "
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Please enter your password to access "
+"problem reports of system programs</span>"
+msgstr "<span weight=\"bold\" size=\"larger\">请输入您的密码以访问系统程序的问题报告</span>"
+
+msgid "<span weight=\"bold\" size=\"larger\">Update information</span>"
+msgstr "<span weight=\"bold\" size=\"larger\">更新信息</span>"
+
+msgid "A package manager is working"
+msgstr "已经有一个软件包管理器在工作"
+
+msgid "A problem occurred when checking for the updates."
+msgstr "检查更新的时候发生了错误"
+
+msgid "APTonCD volume detected"
+msgstr "检测到 APTonCD 卷"
+
+msgid "Addon volume detected"
+msgstr "检测到附加卷"
+
+msgid ""
+"An application has crashed on your system (now or in the past). Click on the"
+" notification icon to display details. "
+msgstr "您的系统有应用程序崩溃了(现在或者以前的)。点击通知图标以显示细节。 "
+
+msgid ""
+"An error occurred, please run Package Manager from the right-click menu or "
+"apt-get in a terminal to see what is wrong."
+msgstr "发生错误，请从右键菜单运行软件包管理器或者从终端运行 apt-get 以查看出了什么问题。"
+
+msgid ""
+"An error occurred, please run Package Manager from the right-click menu or apt-get in a terminal to see what is wrong.\n"
+"The error message was: '%s'. "
+msgstr ""
+"发生了一个错误，请通过右键菜单运行软件包管理器或通过终端执行 apt-get 来查看具体错误。\n"
+"错误信息：“%s”。 "
+
+msgid "Check for available updates automatically"
+msgstr "自动检测可用的更新"
+
+msgid "Check for updates"
+msgstr "检查更新"
+
+msgid "Click on the notification icon to show the available information.\n"
+msgstr "点击通知图标以显示可用信息。\n"
+
+msgid "Crash report detected"
+msgstr "检测到崩溃报告"
+
+msgid "Data files for some packages could not be downloaded"
+msgstr "一些软件包的数据文件无法下载"
+
+msgid "Do you want to report the problem now?"
+msgstr "您想要立刻报告这个问题吗？"
+
+msgid "Error: BrokenCount > 0"
+msgstr "错误： 已损坏个数 > 0"
+
+msgid "Error: Marking the upgrade (%s)"
+msgstr "错误： 标记升级 (%s)"
+
+msgid "Error: Opening the cache (%s)"
+msgstr "错误： 打开缓存失败(%s)"
+
+msgid "Failed to init the UI: %s\n"
+msgstr "初始化用户界面失败： %s\n"
+
+msgid "Failed to request reboot, please shutdown manually"
+msgstr "请求重启失败，请手动关机"
+
+msgid "Failure to download extra data files"
+msgstr "下载额外数据文件失败"
+
+msgid "Information available"
+msgstr "可用信息"
+
+msgid "Install all updates"
+msgstr "安装全部更新"
+
+msgid "Internal error"
+msgstr "内部错误"
+
+msgid "Network service discovery disabled"
+msgstr "网络服务探测被禁用"
+
+msgid "Reboot failed"
+msgstr "重启失败"
+
+msgid "Report problem…"
+msgstr "报告问题…"
+
+msgid "Restart Required"
+msgstr "需要重新启动"
+
+msgid "Restart _Later"
+msgstr "稍后重启(_L)"
+
+msgid ""
+"Return the time in days when security updates are installed unattended (0 "
+"means disabled)"
+msgstr "返回无人职守状态下安装的安全更新的日期（0表示未启用）"
+
+msgid "Run upgrade"
+msgstr "运行升级程序"
+
+msgid "Show human readable output on stdout"
+msgstr "在标准输出上(一般指“终端”)显示可阅读的输出"
+
+msgid "Show notifications"
+msgstr "显示通知"
+
+msgid "Show the packages that are going to be installed/upgraded"
+msgstr "显示要安装/升级的软件包"
+
+msgid "Show updates"
+msgstr "显示更新"
+
+msgid "Software Packages Volume Detected"
+msgstr "已检测到软件包的容量"
+
+msgid "Software updates available"
+msgstr "有可用的软件更新"
+
+msgid "Start Package Manager"
+msgstr "启动软件包管理器"
+
+msgid "Start addon installer"
+msgstr "启动附加软件安装程序"
+
+msgid "Start package manager"
+msgstr "启动包管理器"
+
+msgid "System program problem detected"
+msgstr "检测到系统程序出现问题"
+
+msgid "System restart required"
+msgstr "需要重启系统"
+
+msgid ""
+"The computer needs to restart to finish installing updates. Please save your"
+" work before continuing."
+msgstr "计算机需要重新启动来完成更新安装。请在继续操作前保存好您的工作。"
+
+msgid ""
+"The download will be attempted again later, or you can try the download "
+"again now.  Running this command requires an active Internet connection."
+msgstr "稍后系统将自动重试下载，您也可以手工立即重试。执行此命令需要有活动的网络连接。"
+
+msgid ""
+"The following packages requested additional data downloads after package "
+"installation, but the data could not be downloaded or could not be "
+"processed."
+msgstr "以下软件包要求安装后下载附加数据，但其数据无法下载或无法处理。"
+
+msgid ""
+"The update information is outdated. This may be caused by network problems "
+"or by a repository that is no longer available. Please update manually by "
+"clicking on this icon and then selecting 'Check for updates' and check if "
+"some of the listed repositories fail."
+msgstr ""
+"更新信息已过时。这可能是由于网络问题或者软件仓库已不可用。请单击这个图标进行手动更新，然后选择“检查更新”来检查列表中是否有一些软件仓库信息无法获取。"
+
+msgid "There is %i update available"
+msgid_plural "There are %i updates available"
+msgstr[0] "有 %i 个更新可用"
+
+msgid ""
+"There is %i update available. Click on the notification icon to show the "
+"available update."
+msgid_plural ""
+"There are %i updates available. Click on the notification icon to show the "
+"available updates."
+msgstr[0] "有 %i 个升级可用。 点击通知图标来显示可用的更新。"
+
+msgid ""
+"This is a permanent failure that leaves these packages unusable on your "
+"system.  You may need to fix your Internet connection, then remove and "
+"reinstall the packages to fix this problem."
+msgstr "这是一个永久错误，系统中的这些软件包将无法使用。您可能需要修复网络连接，然后卸载并重新安装它们。"
+
+msgid ""
+"This usually means that your installed packages have unmet dependencies"
+msgstr "这通常意味着您安装的软件包有未满足的依赖关系"
+
+msgid ""
+"To finish updating your system, please restart it.\n"
+"\n"
+"Click on the notification icon for details."
+msgstr ""
+"要完成系统更新，请重启计算机。\n"
+"\n"
+"点击通知图标查看详情。"
+
+msgid "Unknown Error: '%s' (%s)"
+msgstr "未知错误：“%s”(%s)"
+
+msgid "Update Notifier"
+msgstr "更新提示"
+
+msgid "Upgrade volume detected"
+msgstr "检测到升级卷"
+
+msgid ""
+"Your current network has a .local domain, which is not recommended and "
+"incompatible with the Avahi network service discovery. The service has been "
+"disabled."
+msgstr "您的当前网络有 .local 域，我们不建议这样做而且这与 Avahi 网络服务探测不兼容。该服务已被禁用。"
+
+msgid "_Restart Now"
+msgstr "现在重启(_R)"
+
+msgid "_Run this action now"
+msgstr "现在执行此动作(_R)"
+
+msgid "unknown error"
+msgstr "未知错误"
+
+msgid "update-notifier"
+msgstr "更新通知"

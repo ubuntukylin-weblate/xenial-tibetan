@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xz-utils\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-12-04 03:00+0000\n"
+"PO-Revision-Date: 2009-10-26 12:49+0000\n"
+"Last-Translator: Chen Ming <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:34+0000\n"
+
+msgid ""
+"\n"
+" Basic file format and compression options:\n"
+msgstr ""
+"\n"
+" 基本的文件格式和压缩选项：\n"
+
+msgid ""
+"\n"
+" Other options:\n"
+msgstr ""
+"\n"
+" 其它选项：\n"
+
+msgid ""
+"\n"
+"With no FILE, or when FILE is -, read standard input.\n"
+msgstr ""
+"\n"
+"如果不给出 FILE，或者 FILE 是 “-”，就从标准输入读取。\n"
+
+msgid ""
+"      --robot         use machine-parsable messages (useful for scripts)"
+msgstr "      --robot         使用易于机器解析的消息 (方便脚本使用)"
+
+msgid "  -Q, --no-warn       make warnings not affect the exit status"
+msgstr "  -Q, --no-warn       使警告不影响程序的退出状态"
+
+msgid "  -V, --version       display the version number and exit"
+msgstr "  -V, --version       显示版本号，然后退出"
+
+msgid ""
+"  -h, --help          display the short help (lists only the basic options)\n"
+"  -H, --long-help     display this long help and exit"
+msgstr ""
+"  -h, --help          显示较短的帮助 (只列出基本选项)\n"
+"  -H, --long-help     显示现在这个较长的帮助，然后退出"
+
+msgid ""
+"  -h, --help          display this short help and exit\n"
+"  -H, --long-help     display the long help (lists also the advanced options)"
+msgstr ""
+"  -h, --help          显示现在这个较短的帮助，然后退出\n"
+"  -H, --long-help     显示较长的帮助 (也列出高级选项)"
+
+msgid ""
+"  -k, --keep          keep (don't delete) input files\n"
+"  -f, --force         force overwrite of output file and (de)compress links\n"
+"  -c, --stdout        write to standard output and don't delete input files"
+msgstr ""
+"  -k, --keep          保留 (不删除) 输入文件\n"
+"  -f, --force         强制覆盖输出文件并且 (解)压缩链接\n"
+"  -c, --stdout        输出到标准输出并且不删除输入文件"
+
+msgid " Operation mode:\n"
+msgstr " 操作模式：\n"
+
+msgid "%s home page: <%s>\n"
+msgstr "%s 的主页：<%s>\n"
+
+msgid "%s: Cannot remove: %s"
+msgstr "%s：无法删除：%s"
+
+msgid "%s: Cannot set the file group: %s"
+msgstr "%s：无法设定文件组：%s"
+
+msgid "%s: Cannot set the file owner: %s"
+msgstr "%s：无法设置文件所有者：%s"
+
+msgid "%s: Cannot set the file permissions: %s"
+msgstr "%s：无法设置文件权限：%s"
+
+msgid "%s: Closing the file failed: %s"
+msgstr "%s：关闭文件失败：%s"
+
+msgid "%s: Error reading filenames: %s"
+msgstr "%s：读取文件名时错误：%s"
+
+msgid "%s: File already has `%s' suffix, skipping"
+msgstr "%s：文件的后缀已经是“%s”，跳过"
+
+msgid "%s: File has setuid or setgid bit set, skipping"
+msgstr "%s：文件设置了setuid或setgid位，跳过"
+
+msgid "%s: File has sticky bit set, skipping"
+msgstr "%s：文件设置了粘滞位（sticky bit），跳过"
+
+msgid "%s: File seems to have been moved, not removing"
+msgstr "%s：发现文件已经移动，不会移除"
+
+msgid "%s: Filename has an unknown suffix, skipping"
+msgstr "%s：文件名的后缀未知，跳过"
+
+msgid "%s: Input file has more than one hard link, skipping"
+msgstr "%s：输入文件有多个硬链接，跳过"
+
+msgid "%s: Invalid option name"
+msgstr "%s：无效的选项名称"
+
+msgid "%s: Invalid option value"
+msgstr "%s：无效的选项值"
+
+msgid "%s: Is a directory, skipping"
+msgstr "%s：是目录，跳过"
+
+msgid "%s: Is a symbolic link, skipping"
+msgstr "%s：是符号链接，跳过"
+
+msgid "%s: Not a regular file, skipping"
+msgstr "%s：不是常规文件，跳过"
+
+msgid ""
+"%s: Null character found when reading filenames; maybe you meant to use "
+"`--files0' instead of `--files'?"
+msgstr "%s：读取文件名时遇到空字符；您可能想使用“--files0”选项而不是“--files”选项。"
+
+msgid "%s: Read error: %s"
+msgstr "%s：读入错误：%s"
+
+msgid "%s: Unexpected end of file"
+msgstr "%s：意外的文件末尾"
+
+msgid "%s: Unexpected end of input when reading filenames"
+msgstr "%s：读取文件名时遇到意外的结束标志"
+
+msgid "%s: Unknown file format type"
+msgstr "%s: 未知文件格式类型"
+
+msgid "%s: Unsupported integrity check type"
+msgstr "%s: 不支持的完整性检查类型"
+
+msgid "%s: Value is not a non-negative decimal integer"
+msgstr "%s：值不是一个非负的整数"
+
+msgid "%s: Write error: %s"
+msgstr "%s：写入错误：%s"
+
+msgid "Cannot establish signal handlers"
+msgstr "无法建立信号句柄"
+
+msgid ""
+"Cannot read data from standard input when reading filenames from standard "
+"input"
+msgstr "无法从标准输入读取文件名"
+
+msgid "Compressed data cannot be read from a terminal"
+msgstr "不能从终端中读取数据"
+
+msgid "Compressed data cannot be written to a terminal"
+msgstr "不能向终端中写入压缩数据"
+
+msgid "Compressed data is corrupt"
+msgstr "压缩数据已损坏"
+
+msgid "Compression and decompression with --robot are not supported yet."
+msgstr "使用 --robot 选项的压缩和解压缩尚未被支持。"
+
+msgid "Empty filename, skipping"
+msgstr "空文件名，跳过"
+
+msgid "File format not recognized"
+msgstr "文件格式无法识别"
+
+msgid "Internal error (bug)"
+msgstr "内部错误(bug)"
+
+msgid "LZMA1 cannot be used with the .xz format"
+msgstr "LZMA1 不能用于 .xz 格式"
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr "长选项必须使用的参数对于短选项时也是必需使用的。\n"
+
+msgid "Maximum number of filters is four"
+msgstr "最大的过滤器数目是四个"
+
+msgid "Memory usage limit is too low for the given filter setup."
+msgstr "给定的过滤器设置的内存使用限制过小。"
+
+msgid "Memory usage limit reached"
+msgstr "达到内存使用限制"
+
+msgid "No integrity check; not verifying file integrity"
+msgstr "无完整性检查；未验证文件完整性"
+
+msgid "Only one file can be specified with `--files' or `--files0'."
+msgstr "只能通过“--files”或“--files0”指定一个文件"
+
+msgid "The .lzma format supports only the LZMA1 filter"
+msgstr ".lzma 格式只支持 LZMA1 过滤器"
+
+msgid "The exact options of the presets may vary between software versions."
+msgstr "这些预定义设置的具体取值根据版本可能会有所不同。"
+
+msgid "Try `%s --help' for more information."
+msgstr "用“%s --help”来获得更多的信息"
+
+msgid "Unexpected end of input"
+msgstr "不可预料的输入结尾"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Unsupported options"
+msgstr "不支持的选项"
+
+msgid "Unsupported type of integrity check; not verifying file integrity"
+msgstr "不支持的完整性验证类型；未验证文件完整性"
+
+msgid ""
+"Usage: %s [OPTION]... [FILE]...\n"
+"Compress or decompress FILEs in the .xz format.\n"
+"\n"
+msgstr ""
+"用法：%s [选项] ... [文件名] ...\n"
+"压缩或解压缩 .xz 格式的文件。\n"
+"\n"
+
+msgid "Using a preset in raw mode is discouraged."
+msgstr "不建议在 raw 模式中使用预定义设置。"

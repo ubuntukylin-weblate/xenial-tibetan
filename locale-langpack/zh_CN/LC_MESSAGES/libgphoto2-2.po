@@ -1,0 +1,3056 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gphoto2\n"
+"Report-Msgid-Bugs-To: gphoto-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2012-04-15 17:43+0200\n"
+"PO-Revision-Date: 2009-10-12 10:37+0000\n"
+"Last-Translator: Tao Wei <weitao1979@gmail.com>\n"
+"Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:48+0000\n"
+
+msgid ""
+"\n"
+"Camera identification:\n"
+"  Model: %s\n"
+"  Owner: %s\n"
+"\n"
+"Power status: %s\n"
+"\n"
+"Flash disk information:\n"
+"%s\n"
+"\n"
+"Time: %s\n"
+msgstr ""
+"\n"
+"相机标识：\n"
+"  型号：%s\n"
+"  所有者：%s\n"
+"\n"
+"电源状态：%s\n"
+"\n"
+"闪存磁盘信息：\n"
+"%s\n"
+"\n"
+"时间：%s\n"
+
+msgid ""
+"  Drive %s\n"
+"  %11s bytes total\n"
+"  %11s bytes available"
+msgstr ""
+"  驱动器 %s\n"
+"  共计 %11s 字节\n"
+"  可用 %11s 字节"
+
+msgid " (battery is %d%% full)"
+msgstr " (电池 %d%% 满)"
+
+msgid "%i (unknown)"
+msgstr "%i (未知)"
+
+msgid ""
+"%i bytes of an unknown image format have been received. Please write to %s "
+"and ask for assistance."
+msgstr "已接收 %i 字节的未知格式图像。请发送邮件到 %s 寻求帮助。"
+
+msgid "%i pictures could not be deleted because they are protected"
+msgstr "由于有 %i 个照片已被保护，所以无法被删除"
+
+msgid "%lld (unknown)"
+msgstr "%lld (未知)"
+
+msgid "%s (host time %s%i seconds)"
+msgstr "%s (主机时间 %s%i 秒)"
+
+msgid "%s is a file type for which no thumbnail is provided"
+msgstr "%s 是一种没有提供缩略图的文件格式"
+
+msgid ""
+"* Image glitches or problems communicating are\n"
+"  often caused by a low battery.\n"
+"* Images captured remotely on this camera are stored\n"
+"  in temporary RAM and not in the flash memory card.\n"
+"* Exposure control when capturing images can be\n"
+"  configured manually or set to automatic mode.\n"
+"* Image quality is currently lower than it could be.\n"
+msgstr ""
+"* 图像干扰或通讯问题经常是由电量\n"
+"  不足导致的。\n"
+"* 该相机远程捕捉的图像是存储在临\n"
+"  时 RAM 中，而不是在闪存卡中。\n"
+"* 捕捉所有图像时的曝光控制是由捕\n"
+"  捉预览函数自动设定的。\n"
+"* 当前图像质量比可能的图像质量低。\n"
+
+msgid "*UNKNOWN*"
+msgstr "*未知*"
+
+msgid "-0.5"
+msgstr "-0.5"
+
+msgid "-1.0"
+msgstr "-1.0"
+
+msgid "-1.5"
+msgstr "-1.5"
+
+msgid "-2.0"
+msgstr "-2.0"
+
+msgid "0.0"
+msgstr "0.0"
+
+msgid "0.5"
+msgstr "0.5"
+
+msgid "1.0"
+msgstr "1.0"
+
+msgid "1.5"
+msgstr "1.5"
+
+msgid "1.6x"
+msgstr "1.6x"
+
+msgid "10 minutes"
+msgstr "10 分钟"
+
+msgid "1152 x 864"
+msgstr "1152 x 864"
+
+msgid "1280 x 960"
+msgstr "1280 x 960"
+
+msgid "15 minutes"
+msgstr "15 分钟"
+
+msgid "1x"
+msgstr "1x"
+
+msgid "2.0"
+msgstr "2.0"
+
+msgid "2.5x"
+msgstr "2.5x"
+
+msgid "29 mm"
+msgstr "29 mm"
+
+msgid "2x"
+msgstr "2x"
+
+msgid "34 mm"
+msgstr "34 mm"
+
+msgid "3x"
+msgstr "3x"
+
+msgid "4 seconds"
+msgstr "4 秒"
+
+msgid "41 mm"
+msgstr "41 mm"
+
+msgid "4x"
+msgstr "4x"
+
+msgid "51 mm"
+msgstr "51 mm"
+
+msgid "58 mm"
+msgstr "58 mm"
+
+msgid "5x"
+msgstr "5x"
+
+msgid "6 seconds"
+msgstr "6 秒"
+
+msgid "640 x 480"
+msgstr "640 x 480"
+
+msgid "6x"
+msgstr "6x"
+
+msgid "7x"
+msgstr "7x"
+
+msgid "8 seconds"
+msgstr "8 秒"
+
+msgid "8x"
+msgstr "8x"
+
+msgid "9x"
+msgstr "9x"
+
+msgid "AC adapter"
+msgstr "交流变压器"
+
+msgid "ASIC Revision: %d.%d\n"
+msgstr "专用集成电路版本：%d.%d\n"
+
+msgid ""
+"Adc65\n"
+"Benjamin Moos <benjamin@psnw.com>"
+msgstr ""
+"Adc65\n"
+"Benjamin Moos <benjamin@psnw.com>"
+
+msgid "Album name"
+msgstr "相册名称"
+
+msgid "An error occurred in the io-library ('%s'): %s"
+msgstr "io-库 (“%s”) 中出现错误：%s"
+
+msgid "An unknown error occurred. Please contact %s."
+msgstr "遇到未知的错误。请联系 <%s。"
+
+msgid "Anti-redeye"
+msgstr "防红眼"
+
+msgid "Anti-redeye Fill"
+msgstr "防红眼填充"
+
+msgid ""
+"Aox generic driver\n"
+"Theodore Kilgore <kilgota@auburn.edu>\n"
+msgstr ""
+"Aox generic driver\n"
+"Theodore Kilgore <kilgota@auburn.edu>\n"
+
+msgid "Aperture"
+msgstr "光圈"
+
+msgid "Aperture changed"
+msgstr "光圈已经改变"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Auto Off (field) (in seconds)"
+msgstr "自动关机 (未连接) (秒)"
+
+msgid "Auto Off (host) (in seconds)"
+msgstr "自动关机 (连接) (秒)"
+
+msgid "Auto Off Time"
+msgstr "自动关机时间"
+
+msgid "Auto Power Off (minutes)"
+msgstr "自动关机 (分钟)"
+
+msgid "Auto exposure lock"
+msgstr "自动曝光锁"
+
+msgid "Auto, red-eye reduction"
+msgstr "自动，消红眼"
+
+msgid "Autofocus error."
+msgstr "自动聚焦错误。"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Automatic\n"
+msgstr "自动\n"
+
+msgid "Available memory: "
+msgstr "可用的内存： "
+
+msgid "B/W"
+msgstr "黑/白"
+
+msgid "Bad EOT"
+msgstr "错误的 EOT"
+
+msgid "Bad characters (0x%x, 0x%x). Please contact %s."
+msgstr "错误的字符 (0x%x，0x%x)。请联系 %s。"
+
+msgid "Bad checksum - got 0x%02x, expected 0x%02x."
+msgstr "错误的校验和 - 得到 0x%02x，应为 0x%02x。"
+
+msgid "Bad data - got 0x%02x, expected 0x%02x or 0x%02x."
+msgstr "错误的数据 - 得到 0x%02x，应为 0x%02x 或 0x%02x。"
+
+msgid "Bad data - got 0x%02x, expected 0x%02x."
+msgstr "错误的数据 - 得到 0x%02x，应为 0x%02x。"
+
+msgid "Bad exposure (not enough light probably)"
+msgstr "曝光失败 (可能是没有充足的光线)"
+
+msgid "Bad value for lens status %d\n"
+msgstr "错误的镜头状态值 %d\n"
+
+msgid ""
+"Barbie/HotWheels/WWF\n"
+"Scott Fritzinger <scottf@unr.edu>\n"
+"Andreas Meyer <ahm@spies.com>\n"
+"Pete Zaitcev <zaitcev@metabyte.com>\n"
+"\n"
+"Reverse engineering of image data by:\n"
+"Jeff Laing <jeffl@SPATIALinfo.com>\n"
+"\n"
+"Implemented using documents found on\n"
+"the web. Permission given by Vision."
+msgstr ""
+"Barbie/HotWheels/WWF\n"
+"Scott Fritzinger <scottf@unr.edu>\n"
+"Andreas Meyer <ahm@spies.com>\n"
+"Pete Zaitcev <zaitcev@metabyte.com>\n"
+"\n"
+"图像数据逆向工程由：\n"
+"Jeff Laing <jeffl@SPATIALinfo.com>\n"
+"\n"
+"根据网上找到的文档实现。由 Vision\n"
+" 授权。"
+
+msgid "Batteries are low."
+msgstr "电池低电量。"
+
+msgid "Batteries are ok."
+msgstr "电池就绪。"
+
+msgid "Battery"
+msgstr "电池"
+
+msgid "Battery Level"
+msgstr "电池级别"
+
+msgid ""
+"Battery Level:\t\t%s\n"
+"Number of Images:\t%d\n"
+"Minimum Capacity Left:\t%d\n"
+"Busy:\t\t\t%s\n"
+"Flash Charging:\t\t%s\n"
+"Lens Status:\t\t"
+msgstr ""
+"电池电量：\t\t%s\n"
+"图像数量：\t\t%d\n"
+"剩余最小容量：\t\t%d\n"
+"忙：\t\t\t%s\n"
+"闪光灯正在充电：\t%s\n"
+"镜头状态：\t\t"
+
+msgid "Battery Life: %i\n"
+msgstr "电池寿命：%i\n"
+
+msgid "Battery exhausted, camera off."
+msgstr "电池没电，关闭相机。"
+
+msgid "Battery status: %s, AC Adapter: %s\n"
+msgstr "电池状态：%s，交流变压器：%s\n"
+
+msgid "Beep"
+msgstr "鸣笛"
+
+msgid "Beep mode changed"
+msgstr "蜂鸣模式已经改变"
+
+msgid "Beep off"
+msgstr "蜂鸣关闭"
+
+msgid "Beep on"
+msgstr "蜂鸣开启"
+
+msgid "Best"
+msgstr "最佳"
+
+msgid "Black & White"
+msgstr "黑白"
+
+msgid "Black & white"
+msgstr "黑白"
+
+msgid "Black Board"
+msgstr "黑板"
+
+msgid "Black and White"
+msgstr "黑白"
+
+msgid "Black board"
+msgstr "黑板"
+
+msgid "Black/White"
+msgstr "黑白"
+
+msgid "Blink"
+msgstr "闪烁"
+
+msgid "Blue"
+msgstr "蓝"
+
+msgid "Bright+"
+msgstr "亮度+"
+
+msgid "Bright-"
+msgstr "亮度-"
+
+msgid "Brightness"
+msgstr "亮度"
+
+msgid "Brightness+"
+msgstr "亮度+"
+
+msgid "Brightness-"
+msgstr "亮度-"
+
+msgid "Brightness/Contrast"
+msgstr "亮度/对比度"
+
+msgid "Bulb Exposure Time"
+msgstr "闪光灯闪光时间"
+
+msgid "Busy"
+msgstr "忙"
+
+msgid "Camera"
+msgstr "相机"
+
+msgid "Camera Configuration"
+msgstr "相机配置"
+
+msgid "Camera ID: %s\n"
+msgstr "相机标识：%s\n"
+
+msgid ""
+"Camera Library for the Kodak DC215 Zoom camera.\n"
+"Michael Koltan <koltan@gmx.de>\n"
+msgstr ""
+"用于柯达 DC215 缩放相机的相机库。\n"
+"Michael Koltan <koltan@gmx.de>\n"
+
+msgid "Camera Model"
+msgstr "相机型号"
+
+msgid "Camera Model: %s\n"
+msgstr "相机模型：%s\n"
+
+msgid "Camera OK."
+msgstr "相机正常。"
+
+msgid "Camera Owner"
+msgstr "相机所有者。"
+
+msgid "Camera Settings"
+msgstr "相机设置"
+
+msgid "Camera and Driver Configuration"
+msgstr "相机及驱动器配置"
+
+msgid "Camera busy. If the problem persists, please contact %s."
+msgstr "相机忙。如果问题总是存在，请联系 %s。"
+
+msgid "Camera could not complete operation"
+msgstr "相机不能完全操作"
+
+msgid "Camera did not accept the parameters. Please contact %s."
+msgstr "相机无法接收参数。请联系 %s。"
+
+msgid "Camera driver '%s' is missing the 'camera_init' function."
+msgstr "相机驱动程序“%s”缺少“camera_init”函数。"
+
+msgid "Camera has memory.\n"
+msgstr "相机有内存。\n"
+
+msgid "Camera is in wrong mode. Please contact %s."
+msgstr "相机处于错误的模式。请联系 %s。"
+
+msgid "Camera not ready, get_battery failed: %s"
+msgstr "相机未就绪，get_battery请求失败：%s"
+
+msgid "Camera not ready, multiple 'Identify camera' requests failed: %s"
+msgstr "相机未就绪，多个“鉴别相机”请求均失败：%s"
+
+msgid "Camera pictures are monochrome.\n"
+msgstr "相机照片为黑白照片。\n"
+
+msgid "Camera power save (seconds)"
+msgstr "相机节能 (秒)"
+
+msgid "Camera refused 3 times to keep a connection open."
+msgstr "相机三次拒绝保持连接打开的请求。"
+
+msgid "Camera rejected the command."
+msgstr "相机拒绝命令。"
+
+msgid "Camera reset itself."
+msgstr "相机自行重置。"
+
+msgid "Camera sent unexpected byte 0x%02x."
+msgstr "相机发送了意外的字节 0x%02x。"
+
+msgid "Camera supports Thumbnails.\n"
+msgstr "相机支持缩略图。\n"
+
+msgid "Camera supports Video.\n"
+msgstr "相机支持视频。\n"
+
+msgid "Camera supports videoformats: "
+msgstr "相机支持的视频格式： "
+
+msgid "Camera time: %s %s\n"
+msgstr "相机时间：%s %s\n"
+
+msgid "Camera unavailable"
+msgstr "相机不可用"
+
+msgid "Camera unavailable: %s"
+msgstr "相机不可用：%s"
+
+msgid "Camera was already active"
+msgstr "照相机已经激活"
+
+msgid "Camera was woken up"
+msgstr "照相机被唤醒"
+
+msgid "Can't delete all images."
+msgstr "无法删除所有图像。"
+
+msgid "Can't delete image %s."
+msgstr "无法删除图像%s。"
+
+msgid "Cannot retrieve the available memory left"
+msgstr "无法检索剩余可用内存"
+
+msgid "Cannot retrieve the battery capacity"
+msgstr "无法检索电池容量"
+
+msgid "Cannot retrieve the name of the folder containing the pictures"
+msgstr "无法检索含有照片的文件夹名称"
+
+msgid ""
+"Canon PowerShot series driver by\n"
+" Wolfgang G. Reissnegger,\n"
+" Werner Almesberger,\n"
+" Edouard Lafargue,\n"
+" Philippe Marzouk,\n"
+"A5 additions by Ole W. Saastad\n"
+"Additional enhancements by\n"
+" Holger Klemm\n"
+" Stephen H. Westin"
+msgstr ""
+"佳能 PowerShot 系列驱动程序由\n"
+" Wolfgang G. Reissnegger,\n"
+" Werner Almesberger,\n"
+" Edouard Lafargue,\n"
+" Philippe Marzouk 编写\n"
+"A5增加件由 Ole W. Saastad 编写\n"
+"额外增强由\n"
+" Holger Klemm\n"
+" Stephen H. Westin 编写"
+
+msgid "Capture"
+msgstr "光圈"
+
+msgid "Capture Settings"
+msgstr "捕捉设置"
+
+msgid "Capture type is not supported"
+msgstr "不支持的捕捉类型"
+
+msgid "Card Status:\t\t"
+msgstr "卡状态：\t\t"
+
+msgid "Card can not be written."
+msgstr "无法写入卡。"
+
+msgid "Card is not formatted"
+msgstr "卡尚未格式化"
+
+msgid "Card is not open"
+msgstr "卡未打开"
+
+msgid "Card is open"
+msgstr "卡已打开"
+
+msgid "Card is write protected."
+msgstr "卡已写保护。"
+
+msgid "Card not supported."
+msgstr "不支持的卡。"
+
+msgid "Card removed during access."
+msgstr "访问使取出卡。"
+
+msgid "Changing speed... wait..."
+msgstr "正在改变速度... 请等待..."
+
+msgid "Character"
+msgstr "人物"
+
+msgid "Character & Sound"
+msgstr "人物和音效"
+
+msgid "Charging"
+msgstr "正在充电"
+
+msgid "Checksum error"
+msgstr "校验和错误"
+
+msgid "Cloudy"
+msgstr "多云"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Color Mode"
+msgstr "彩色模式"
+
+msgid "Color Settings"
+msgstr "色彩设置"
+
+msgid "Color or Function Mode"
+msgstr "颜色或功能模式"
+
+msgid "Command can not be cancelled."
+msgstr "命令不能被取消。"
+
+msgid "Command order error."
+msgstr "命令顺序错误。"
+
+msgid "Communication error 1"
+msgstr "通讯错误 1"
+
+msgid "Communication error 2"
+msgstr "通讯错误 2"
+
+msgid "Communication error 3"
+msgstr "通讯错误 3"
+
+msgid "Communication error even after 2 retries. Please contact %s."
+msgstr "两次重试后仍然通讯错误。请联系 %s。"
+
+msgid "Compact Flash Card detected\n"
+msgstr "探测到闪存卡\n"
+
+msgid "CompactFlash Card"
+msgstr "闪存卡"
+
+msgid "Compression"
+msgstr "压缩"
+
+msgid "Compression Setting"
+msgstr "压缩设置"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Configuration for your FUJI camera"
+msgstr "配置您的 FUJI 相机"
+
+msgid "Connected to camera"
+msgstr "已连接到相机"
+
+msgid "Contrast+"
+msgstr "对比度+"
+
+msgid "Contrast-"
+msgstr "对比度-"
+
+msgid "Copyright"
+msgstr "版权"
+
+msgid "Copyright (max. 20 characters)"
+msgstr "版权 (最多 20 个字符)"
+
+msgid "Corrupted data"
+msgstr "已毁坏的数据"
+
+msgid "Could not allocate %i byte(s) for downloading the picture."
+msgstr "无法为正在下载的图片分配 %i 个字节。"
+
+msgid "Could not allocate %i byte(s) for downloading the thumbnail."
+msgstr "无法为正在下载的缩略图分配 %i 个字节。"
+
+msgid "Could not apply USB settings"
+msgstr "无法应用 USB 设置"
+
+msgid "Could not change aperture"
+msgstr "不能改变光圈"
+
+msgid "Could not change beep mode"
+msgstr "不能改变蜂鸣模式"
+
+msgid "Could not change flash mode"
+msgstr "不能改变闪光模式"
+
+msgid "Could not change focus mode"
+msgstr "不能改变聚焦模式"
+
+msgid "Could not change time of file '%s' in '%s' (%m)."
+msgstr "无法改变“%2$s”中的文件“%1$s”的时间(%3$m)。"
+
+msgid "Could not change zoom level"
+msgstr "不能改变缩放级别"
+
+msgid "Could not contact camera."
+msgstr "无法检测到任何相机。"
+
+msgid "Could not create \\DCIM directory."
+msgstr "无法创建目录 \\DCIM。"
+
+msgid "Could not create destination directory."
+msgstr "无法创建目标目录。"
+
+msgid "Could not create directory %s."
+msgstr "无法创建目录 %s"
+
+msgid "Could not create directory."
+msgstr "不能创建目录。"
+
+msgid "Could not delete file '%s' in folder '%s' (error code %i: %m)."
+msgstr "无法删除文件夹“%2$s”中的文件“%1$s”(错误码 %3$i：%4$m)。"
+
+msgid "Could not delete file."
+msgstr "无法删除文件。"
+
+msgid "Could not detect any camera"
+msgstr "无法检测到任何相机"
+
+msgid "Could not establish initial contact with camera"
+msgstr "无法建立与相机的连接。"
+
+msgid "Could not extract JPEG thumbnail from data: Data is not JFIF"
+msgstr "无法从数据中提取JPEG缩略图：数据不是JFIF"
+
+msgid "Could not extract JPEG thumbnail from data: No beginning/end"
+msgstr "无法从数据中提取JPEG缩略图：没有开头/结尾"
+
+msgid "Could not find any driver for '%s'"
+msgstr "无法为“%s”找到任何驱动程序"
+
+msgid "Could not find file '%s'."
+msgstr "无法找到文件“%s”。"
+
+msgid "Could not find localization data at '%s'"
+msgstr "无法在“%s”找到本地化数据"
+
+msgid "Could not get disk info: %s"
+msgstr "无法获取磁盘信息：%s"
+
+msgid "Could not get disk name: %s"
+msgstr "无法获取磁盘名：%s"
+
+msgid "Could not get flash drive letter"
+msgstr "无法获取闪存驱动字符"
+
+msgid "Could not get information about '%s' (%m)."
+msgstr "无法获取关于“%s”(%m) 的信息。"
+
+msgid "Could not get information about '%s' in '%s' (%m)."
+msgstr "无法从“%2$s”中获取关于“%1$s”的信息 (%3$m)。"
+
+msgid "Could not get register %i. Please contact %s."
+msgstr "无法读取寄存器 %i。请联系 %s。"
+
+msgid "Could not get string register %i. Please contact %s."
+msgstr "无法读取字符串寄存器 %i。请联系 %s。"
+
+msgid "Could not initialize upload (camera responded with 0x%02x)."
+msgstr "无法初始化上载 (相机应答 0x%02x)。"
+
+msgid "Could not load required camera driver '%s' (%s)."
+msgstr "无法装入必须的相机驱动程序“%s”(%s)。"
+
+msgid "Could not open '%s'."
+msgstr "无法打开“%s”。"
+
+msgid "Could not remove directory %s."
+msgstr "无法删除目录 %s。"
+
+msgid "Could not remove directory."
+msgstr "不能移除目录。"
+
+msgid "Could not reset camera.\n"
+msgstr "无法重置相机。\n"
+
+msgid "Could not set speed to %i (camera responded with %i)."
+msgstr "无法将速度设置为 %i (相机应答 %i)。"
+
+msgid "Could not transmit packet (error code %i). Please contact %s."
+msgstr "无法传输包 (错误码 %i)。请联系 %s。"
+
+msgid "Could not transmit packet even after several retries."
+msgstr "在几次重试后仍不能传输包。"
+
+msgid ""
+"Could not upload, no free folder name available!\n"
+"999CANON folder name exists and has an AUT_9999.JPG picture in it."
+msgstr ""
+"无法上载，没有可用的空闲文件夹了！\n"
+"已有 999 个佳能文件夹名称存在而且每个文件夹中都有照片 AUT_9999.JPG。"
+
+msgid "Couldn't read from file \"%s\""
+msgstr "无法获取文件信息：%s"
+
+msgid "Current Mode: Camera Mode\n"
+msgstr "当前模式：照相机模式\n"
+
+msgid "Current Mode: Playback Mode\n"
+msgstr "当前模式：回放模式\n"
+
+msgid "Custom"
+msgstr "定制"
+
+msgid "Data has been corrupted."
+msgstr "数据已损坏。"
+
+msgid "Date & Time"
+msgstr "日期和时间"
+
+msgid "Date Format"
+msgstr "日期格式"
+
+msgid "Date and Time"
+msgstr "日期和时间"
+
+msgid "Date and time (GMT)"
+msgstr "日期和时间 (GMT)"
+
+msgid ""
+"Date: %i/%02i/%02i %02i:%02i:%02i\n"
+"Pictures taken: %i\n"
+"Free pictures: %i\n"
+"Software version: %s\n"
+"Baudrate: %s\n"
+"Memory: %i megabytes\n"
+"Camera mode: %s\n"
+"Image quality: %s\n"
+"Flash setting: %s\n"
+"Information: %s\n"
+"Timer: %s\n"
+"LCD: %s\n"
+"Auto power off: %i minutes\n"
+"Power source: %s"
+msgstr ""
+"日期：%i/%02i/%02i %02i:%02i:%02i\n"
+"拍摄照片数：%i\n"
+"免费照片数：%i\n"
+"软件版本：%s\n"
+"带宽：%s\n"
+"内存：%i 兆字节\n"
+"相机模式：%s\n"
+"图像质量：%s\n"
+"闪光灯设置：%s\n"
+"信息：%s\n"
+"计时器：%s\n"
+"LCD: %s\n"
+"自动关机：%i 分钟\n"
+"电源来源：%s"
+
+msgid "Date: %s"
+msgstr "日期：%s"
+
+msgid "Day/Month/Year"
+msgstr "日/月/年"
+
+msgid "Daylight"
+msgstr "日光"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Deep"
+msgstr "深度"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Deleting '%s' from folder '%s'..."
+msgstr "正在删除 '%s' 从文件夹 '%s'..."
+
+msgid "Deleting image %s."
+msgstr "正在删除图像 %s。"
+
+msgid "Detected a \"%s\" aka \"%s\""
+msgstr "检测到了一个 ”%s“ 又名 “%s”"
+
+msgid "Detected a '%s'."
+msgstr "已监测到一个“%s”。"
+
+msgid ""
+"Digita\n"
+"Johannes Erdfelt <johannes@erdfelt.com>"
+msgstr ""
+"Digita\n"
+"Johannes Erdfelt <johannes@erdfelt.com>"
+
+msgid "Digital Zoom"
+msgstr "数字缩放"
+
+msgid "Digital zoom"
+msgstr "数字缩放"
+
+msgid "Directory Browse Mode - written by Scott Fritzinger <scottf@unr.edu>."
+msgstr "目录浏览模式 - 由 Scott Fritzinger <scottf@unr.edu> 编制。"
+
+msgid "Directory exists"
+msgstr "目录存在"
+
+msgid "Directory not found"
+msgstr "找不到目录"
+
+msgid "Disconnecting camera."
+msgstr "正在断开与相机的连接。"
+
+msgid "Do not display TV menu"
+msgstr "请勿显示电视菜单"
+
+msgid "Downloading %s."
+msgstr "正在下载 %s。"
+
+msgid "Downloading '%s' from folder '%s'..."
+msgstr "正在从文件夹“%2$s”下载“%1$s”..."
+
+msgid "Downloading '%s'..."
+msgstr "正在下载“%s”..."
+
+msgid "Downloading EXIF data..."
+msgstr "正在下载 EXIF 数据..."
+
+msgid "Downloading audio..."
+msgstr "正在下载音频..."
+
+msgid "Downloading data..."
+msgstr "正在下载数据..."
+
+msgid "Downloading file..."
+msgstr "正在下载文件..."
+
+msgid "Downloading image %s."
+msgstr "正在下载图像 %s。"
+
+msgid "Downloading image..."
+msgstr "正在下载图像..."
+
+msgid "Downloading movie..."
+msgstr "正在下载电影..."
+
+msgid "Downloading thumbnail..."
+msgstr "正在下载缩略图..."
+
+msgid "Downloading..."
+msgstr "正在下载..."
+
+msgid "Driver"
+msgstr "驱动器"
+
+msgid "Dual Iris"
+msgstr "双光圈"
+
+msgid "EEPROM checksum error."
+msgstr "EEPROM 校验和错误。"
+
+msgid "ERROR: %d is too big"
+msgstr "错误：%d 太大"
+
+msgid "ERROR: a fatal error condition was detected, can't continue "
+msgstr "错误：找到一个致命错误情况，无法继续 "
+
+msgid "ERROR: message format error."
+msgstr "错误：消息格式错误。"
+
+msgid "ERROR: message overrun"
+msgstr "错误：过多的消息"
+
+msgid "ERROR: out of sequence."
+msgstr "错误：顺序错误。"
+
+msgid "ERROR: unexpected message"
+msgstr "错误：未预期的消息"
+
+msgid "ERROR: unexpected message2."
+msgstr "错误：未预期的消息2。"
+
+msgid "ERROR: unexpected packet type."
+msgstr "错误：未预期的包类型。"
+
+msgid "ESP"
+msgstr "ESP"
+
+msgid "Empty"
+msgstr "空"
+
+msgid "English"
+msgstr "英语"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error capturing image"
+msgstr "捕获图像出错"
+
+msgid "Error changing speed"
+msgstr "改变速度出错"
+
+msgid "Error changing speed."
+msgstr "改变速度出错。"
+
+msgid "Error deleting associated thumbnail file"
+msgstr "删除相关缩略图文件出错"
+
+msgid "Error deleting file"
+msgstr "删除文件时错误"
+
+msgid "Error waiting ACK during initialization"
+msgstr "初始化中等待 ACK 时出错"
+
+msgid ""
+"Execute predefined command\n"
+"with parameter values."
+msgstr ""
+"带参数值运行\n"
+"预定义命令。"
+
+msgid "Expected %i bytes, got %i. Please report this error to %s."
+msgstr "需要 %i 字节，得到 %i。请将此错误报告到 %s。"
+
+msgid "Expected %i, got %i. Please report this error to %s."
+msgstr "需要 %i 字节，得到 %i。请将此错误报告到 %s。"
+
+msgid "Expected 32 bytes, got %i. Please contact %s."
+msgstr "需要 32 字节，得到 %i。请连线 %s。"
+
+msgid "Exposure"
+msgstr "曝光"
+
+msgid "Exposure Compensation"
+msgstr "曝光补偿"
+
+msgid "Exposure Metering"
+msgstr "曝光测定"
+
+msgid "Exposure Metering Mode"
+msgstr "曝光测定模式"
+
+msgid "Exposure compensation"
+msgstr "曝光补偿"
+
+msgid "F2"
+msgstr "F2"
+
+msgid "F2.3"
+msgstr "F2.3"
+
+msgid "F2.8"
+msgstr "F2.8"
+
+msgid "F4"
+msgstr "F4"
+
+msgid "F5.6"
+msgstr "F5.6"
+
+msgid "F8"
+msgstr "F8"
+
+msgid "FATAL ERROR: initial CRC value for length %d unknown\n"
+msgstr "严重错误：长度为 %d 的初始CRC值未知\n"
+
+msgid "Factory Default"
+msgstr "工厂默认值"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File '%s' could not be found in folder '%s'."
+msgstr "在文件夹“%2$s”中无法找到文件“%1$s”。"
+
+msgid "File compression"
+msgstr "文件压缩"
+
+msgid "File exists"
+msgstr "文件存在"
+
+msgid "File not found"
+msgstr "找不到文件"
+
+msgid "File protected."
+msgstr "文件已受到保护。"
+
+msgid "File resolution"
+msgstr "文件分辨率"
+
+msgid "File type"
+msgstr "文件类型"
+
+msgid "File upload failed."
+msgstr "文件上传失败。"
+
+msgid ""
+"File was too big. You may have to turn your camera off and back on before "
+"uploading more files."
+msgstr "文件太大。你可能需要将相机关闭再打开，才能上传更多文件。"
+
+msgid "Fine"
+msgstr "精细"
+
+msgid "Firmware Revision: %8s"
+msgstr "固件版本：%8s"
+
+msgid "Firmware Revision: %d.%d\n"
+msgstr "固件版本：%d.%d\n"
+
+msgid "Firmware version: %d.%02d\n"
+msgstr "固件版本：%d.%02d\n"
+
+msgid "Fisheye"
+msgstr "鱼眼"
+
+msgid "Fixed"
+msgstr "固定"
+
+msgid "Flash"
+msgstr "闪光灯"
+
+msgid "Flash Mode"
+msgstr "闪光灯模式"
+
+msgid "Flash Setting"
+msgstr "闪光灯设置"
+
+msgid "Flash Settings"
+msgstr "闪光灯设置"
+
+msgid "Flash auto"
+msgstr "闪光灯自动"
+
+msgid "Flash mode changed"
+msgstr "闪光模式已经改变"
+
+msgid "Flash off"
+msgstr "闪光灯关闭"
+
+msgid "Flash on"
+msgstr "闪光灯开启"
+
+msgid "FlashLight : Auto"
+msgstr "闪光灯：自动"
+
+msgid "FlashLight : Auto (RedEye Reduction)"
+msgstr "闪光灯：自动 (消红眼)"
+
+msgid "FlashLight : Off"
+msgstr "闪光灯：关"
+
+msgid "FlashLight : On"
+msgstr "闪光灯：开"
+
+msgid "FlashLight : On (RedEye Reduction)"
+msgstr "闪光灯：开 (消红眼)"
+
+msgid "FlashLight : undefined"
+msgstr "闪光灯：未定义"
+
+msgid "Flourescent-1-home-6700K"
+msgstr "Flourescent-1-home-6700K"
+
+msgid "Flourescent-2-desk-5000K"
+msgstr "Flourescent-2-desk-5000K"
+
+msgid "Flourescent-3-office-4200K"
+msgstr "Flourescent-3-office-4200K"
+
+msgid "Fluorescent"
+msgstr "荧光"
+
+msgid "Fluorescent H"
+msgstr "荧光"
+
+msgid "Fluorescent-1-home-6700K"
+msgstr "Fluorescent-1-home-6700K"
+
+msgid "Fluorescent-2-desk-5000K"
+msgstr "Fluorescent-2-desk-5000K"
+
+msgid "Fluorescent-3-office-4200K"
+msgstr "Fluorescent-3-office-4200K"
+
+msgid "Focus"
+msgstr "聚焦"
+
+msgid "Focus Distance"
+msgstr "聚焦距离"
+
+msgid "Focus Mode"
+msgstr "聚焦模式"
+
+msgid "Focus mode changed"
+msgstr "聚焦模式已经改变"
+
+msgid "Focus position"
+msgstr "聚焦位置"
+
+msgid "Focusing Point"
+msgstr "焦点"
+
+msgid "Focusing error."
+msgstr "聚焦错误。"
+
+msgid ""
+"Folder '%s' only contains %i files, but you requested a file with number %i."
+msgstr "文件夹 '%s' 只包含 %i 文件，但您需要一个文件，它的编号是 %i。"
+
+msgid "Force"
+msgstr "强制"
+
+msgid "Force Flash\n"
+msgstr "强制闪光\n"
+
+msgid "Format card and set album name."
+msgstr "格式化卡片并设置相册名。"
+
+msgid "Format compact flash"
+msgstr "格式化闪存"
+
+msgid "Frames Taken     : %4d\n"
+msgstr "已用帧     : %4d\n"
+
+msgid "French"
+msgstr "法语"
+
+msgid "Full"
+msgstr "满"
+
+msgid "Full Image"
+msgstr "完整图像"
+
+msgid "Functional Mode"
+msgstr "操作模式"
+
+msgid "General"
+msgstr "普通"
+
+msgid "German"
+msgstr "德语"
+
+msgid "Getting configuration..."
+msgstr "正在获取配置..."
+
+msgid "Getting data..."
+msgstr "正在获取数据..."
+
+msgid "Getting file list..."
+msgstr "正在获取文件列表..."
+
+msgid "Getting file..."
+msgstr "正在获取文件..."
+
+msgid "Getting information on %i files..."
+msgstr "正在获取第 %i 个文件的信息..."
+
+msgid "Getting thumbnail..."
+msgstr "正在获取缩略图..."
+
+msgid "Got unexpected result 0x%x. Please contact %s."
+msgstr "得到意外的结果 0x%x。请联系 %s。"
+
+msgid "Green"
+msgstr "绿"
+
+msgid "High"
+msgstr "高"
+
+msgid "High (1152 x 872)"
+msgstr "高 (1152 x 872)"
+
+msgid "High (good quality)"
+msgstr "高 (普通质量)"
+
+msgid ""
+"Host Mode:\t\t%s\n"
+"Exposure Correction:\t%s\n"
+"Exposure Data:\t\t%d\n"
+"Date Valid:\t\t%s\n"
+"Date:\t\t\t%d/%02d/%02d %02d:%02d:%02d\n"
+"Self Timer Set:\t\t%s\n"
+"Quality Setting:\t%s\n"
+"Play/Record Mode:\t%s\n"
+"Card ID Valid:\t\t%s\n"
+"Card ID:\t\t%d\n"
+"Flash Mode:\t\t"
+msgstr ""
+"主机型号：\t\t%s\n"
+"曝光校正：\t\t%s\n"
+"曝光数据：\t\t%d\n"
+"有效数据：\t\t%s\n"
+"日期：\t\t\t%d/%02d/%02d %02d:%02d:%02d\n"
+"自动定时器设置:\t\t%s\n"
+"质量设定：\t\t%s\n"
+"播放/录制模式：\t\t%s\n"
+"有效卡 ID：\t\t%s\n"
+"卡 ID：\t\t\t%d\n"
+"闪光灯模式：\t\t"
+
+msgid ""
+"How long will it take until the camera powers off when connected to the "
+"computer?"
+msgstr "在相机连接到计算机以后，须等待多长时间再自动关机？"
+
+msgid ""
+"How long will it take until the camera powers off when not connected to the "
+"computer?"
+msgstr "在未连接到计算机时，须等待多长时间再自动关机？"
+
+msgid "How long will it take until the camera powers off?"
+msgstr "在相机关机前须等待多长时间？"
+
+msgid "HyPict"
+msgstr "合成照片"
+
+msgid "I/O in progress"
+msgstr "I/O 正在进行"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ISO Speed"
+msgstr "ISO 速度"
+
+msgid "Idle"
+msgstr "闲"
+
+msgid "Illegal parameter."
+msgstr "非法参数。"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Image %s is delete protected."
+msgstr "图像 %s 不可删除。"
+
+msgid "Image & Sound"
+msgstr "图像和音效"
+
+msgid "Image Adjustment"
+msgstr "图像调整"
+
+msgid "Image Quality"
+msgstr "图像质量"
+
+msgid "Image Settings"
+msgstr "图像设置"
+
+msgid "Image Size"
+msgstr "图像大小"
+
+msgid "Image height: %d\n"
+msgstr "图像高度：%d\n"
+
+msgid "Image number not valid."
+msgstr "图像数量不合法。"
+
+msgid "Image protected."
+msgstr "图像已受到保护。"
+
+msgid "Image size: %d\n"
+msgstr "图像大小：%d\n"
+
+msgid "Image type %d is not supported by this camera !"
+msgstr "此照相机不支持图像类型 %d !"
+
+msgid "Image type %d not supported"
+msgstr "图像类型%d不支持"
+
+msgid "Image type is not supported"
+msgstr "图像类型不支持"
+
+msgid "Image width: %d\n"
+msgstr "图像宽度：%d\n"
+
+msgid "In use"
+msgstr "使用中"
+
+msgid "Infinity"
+msgstr "无穷"
+
+msgid "Infinity/Fish-eye"
+msgstr "无限/鱼眼"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Initial camera response '%c' unrecognized"
+msgstr "初始相机响应 '%c' 无法识别"
+
+msgid "Initializing Camera"
+msgstr "初始化相机"
+
+msgid "Internal error #1 in get_file_func() (%s line %i)"
+msgstr "内部错误 #1 在 get_file_func() (%s line %i)"
+
+msgid "Internal error (1)."
+msgstr "内部错误 (1)。"
+
+msgid "Internal error (2)."
+msgstr "内部错误 (2)。"
+
+msgid "Internal error looking for camlibs. (path names too long?)"
+msgstr "寻找 camlibs 时出现内部错误。(路径名称是否太长？)"
+
+msgid "Invalid"
+msgstr "非法"
+
+msgid "Invalid Value ( %d )\n"
+msgstr "非法值 ( %d )\n"
+
+msgid "Invalid beep mode setting"
+msgstr "无效的蜂鸣模式设置"
+
+msgid "Invalid flash mode setting"
+msgstr "无效的闪光模式设置"
+
+msgid "Invalid focus mode setting"
+msgstr "无效的聚焦模式设置"
+
+msgid "Iris error."
+msgstr "光圈错误。"
+
+msgid "Italian"
+msgstr "意大利语"
+
+msgid ""
+"JD11\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Driver for the Jenoptik JD11 camera.\n"
+"Protocol reverse engineered using WINE and IDA."
+msgstr ""
+"JD11\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Jenoptik JD11 相机驱动程序。\n"
+"使用 WINE 和 IDA 对协议进行反向工程。"
+
+msgid "JD11 Configuration"
+msgstr "JD11配置"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "JPEG Fine"
+msgstr "JPEG 精细"
+
+msgid "JPEG Normal"
+msgstr "JPEG 普通"
+
+msgid "Japanese"
+msgstr "日语"
+
+msgid "Keep filename on upload"
+msgstr "上传时保持文件名"
+
+msgid ""
+"Known problems:\n"
+"\n"
+"1. If the Kodak DC3200 does not receive a command at least every 10 seconds, it will time out, and will have to be re-initialized. If you notice the camera does not respond, simply re-select the camera. This will cause it to reinitialize."
+msgstr ""
+"已知问题：\n"
+"\n"
+"1. 如果柯达 DC3200 没有在 10 秒内收到至少一个命令，它就将超时，并必须重新初始化。如果您发现相机没有应答，请重新选择相机。这将导致相机重新初始化。"
+
+msgid ""
+"Known problems:\n"
+"\n"
+"If communications problems occur, reset the camera and restart the application.  The driver is not robust enough yet to recover from these situations, especially if a problem occurs and the camera is not properly shutdown at speeds faster than 9600."
+msgstr ""
+"已知的问题：\n"
+"\n"
+"如果通讯出现问题，重置相机并重新启动应用程序。驱动程序还没有健壮到能够从这些情况下恢复过来，特别是如果是在速度高于 9600 时出现问题而相机没有正常关闭时。"
+
+msgid ""
+"Kodak DC120 Camera Library\n"
+"Scott Fritzinger <scottf@gphoto.net>\n"
+"Camera Library for the Kodak DC120 camera.\n"
+"(by popular demand)."
+msgstr ""
+"柯达 DC120 相机库\n"
+"Scott Fritzinger <scottf@gphoto.net>\n"
+"柯达 DC120 相机库。\n"
+"(它有广泛的需求)。"
+
+msgid ""
+"Kodak DC240 Camera Library\n"
+"Scott Fritzinger <scottf@gphoto.net> and Hubert Figuiere <hfiguiere@teaser.fr>\n"
+"Camera Library for the Kodak DC240, DC280, DC3400 and DC5000 cameras.\n"
+"Rewritten and updated for gPhoto2."
+msgstr ""
+"柯达 DC240 相机库\n"
+"Scott Fritzinger <scottf@gphoto.net> 和 Hubert Figuiere <hfiguiere@teaser.fr>\n"
+"支持柯达 DC240, DC280, DC3400 及 DC5000 相机的相机库。\n"
+"为 gPhoto2 重写并更新。"
+
+msgid ""
+"Kodak DC3200 Driver\n"
+"Donn Morrison <dmorriso@gulf.uvic.ca>\n"
+"\n"
+"Questions and comments appreciated."
+msgstr ""
+"柯达 DC3200 驱动程序\n"
+"Donn Morrison <dmorriso@gulf.uvic.ca>\n"
+"\n"
+"欢迎问题和评论。"
+
+msgid "Konica Configuration"
+msgstr "柯尼卡配置"
+
+msgid ""
+"Konica library\n"
+"Lutz Mueller <lutz@users.sourceforge.net>\n"
+"Support for all Konica and several HP cameras."
+msgstr ""
+"柯尼卡库\n"
+"Lutz Mueller <lutz@users.sourceforge.net>\n"
+"支持所有柯尼卡相机和几种惠普相机。"
+
+msgid "Korean"
+msgstr "韩语"
+
+msgid "LCD"
+msgstr "LCD"
+
+msgid "LCD Auto Off (in seconds)"
+msgstr "LCD 自动关闭 (以秒为单位)"
+
+msgid "LCD Auto Shut Off (seconds)"
+msgstr "LCD 自动关闭 (秒)"
+
+msgid "LCD Brightness"
+msgstr "LCD 亮度"
+
+msgid "LCD Mode"
+msgstr "LCD 模式"
+
+msgid "LED Mode"
+msgstr "LED 模式"
+
+msgid "Language"
+msgstr "语言"
+
+msgid ""
+"Largan driver\n"
+"Hubert Figuiere <hfiguiere@teaser.fr>\n"
+"\n"
+"Handles Largan Lmini camera.\n"
+msgstr ""
+"Largan 驱动程序\n"
+"Hubert Figuiere <hfiguiere@teaser.fr>\n"
+"\n"
+"Handles Largan Lmini 相机。\n"
+
+msgid "Large Fine JPEG"
+msgstr "大的高质量 JPEG"
+
+msgid "Large Normal JPEG"
+msgstr "大的正常 JPEG"
+
+msgid "Lens Mode"
+msgstr "镜头模式"
+
+msgid "Lens direction does not match flash light\n"
+msgstr "镜头方向与闪光灯方向不匹配\n"
+
+msgid "Lens is not connected\n"
+msgstr "镜头未连接\n"
+
+msgid "Light"
+msgstr "灯光"
+
+msgid "Light too dark."
+msgstr "光线太暗。"
+
+msgid "List all files"
+msgstr "列出所有文件"
+
+msgid "Listing files in '%s'..."
+msgstr "正在“%s”中列举文件..."
+
+msgid "Listing folders in '%s'..."
+msgstr "正在“%s”中列举文件夹..."
+
+msgid "Loading camera drivers from '%s'..."
+msgstr "正在从“%s”装入相机驱动程序..."
+
+msgid "Local"
+msgstr "本地"
+
+msgid "Localization"
+msgstr "本地化"
+
+msgid "Localization data corrupt."
+msgstr "本地化数据崩溃。"
+
+msgid "Localization data too long."
+msgstr "本地化数据太长。"
+
+msgid "Localization file too long!"
+msgstr "本地化文件太大！"
+
+msgid "Looking for camera ..."
+msgstr "正在寻找相机..."
+
+msgid "Looks like a modem, not a camera"
+msgstr "看起来象调制解调器，而不象相机"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Low (576 x 436)"
+msgstr "低 (576 x 436)"
+
+msgid "Low (best quality)"
+msgstr "低 (最佳质量)"
+
+msgid "Lower case letters in %s not allowed."
+msgstr "%s中小写字母不被允许。"
+
+msgid "Macro"
+msgstr "巨大"
+
+msgid "Manual focus"
+msgstr "手动对焦"
+
+msgid "Matrix"
+msgstr "矩阵"
+
+msgid ""
+"Matthew G. Martin\n"
+"Based on fujiplay by Thierry Bousch <bousch@topo.math.u-psud.fr>\n"
+msgstr ""
+"Matthew G. Martin\n"
+"基于 Thierry Bousch <bousch@topo.math.u-psud.fr> 的 fujiplay\n"
+
+msgid "Maximal"
+msgstr "最大的"
+
+msgid "Maximum number of Images: %d\n"
+msgstr "最大图像数量：%d\n"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Medium (1152 x 872)"
+msgstr "中 (1152 x 872)"
+
+msgid "Medium (better quality)"
+msgstr "中 (良好质量)"
+
+msgid "Medium Fine JPEG"
+msgstr "中等高质量 JPEG"
+
+msgid "Medium Normal JPEG"
+msgstr "中等正常 JPEG"
+
+msgid "Memory Left: %i bytes\n"
+msgstr "剩余内存：%i 字节\n"
+
+msgid "Memory card status (%d): %s\n"
+msgstr "存储卡状态 (%d)：%s\n"
+
+msgid "Memory in camera: %d Mbit.\n"
+msgstr "相机内置内存：%d 兆位。\n"
+
+msgid "Metering Mode"
+msgstr "测量模式"
+
+msgid "Minimal"
+msgstr "最小的"
+
+msgid ""
+"Minolta Dimage V Camera Library\n"
+"%s\n"
+"Gus Hartmann <gphoto@gus-the-cat.org>\n"
+"Special thanks to Minolta for the spec."
+msgstr ""
+"Minolta Dimage V 相机库\n"
+"%s\n"
+"Gus Hartmann <gphoto@gus-the-cat.org>\n"
+"特别感谢 Minolta 提供相机规范。"
+
+msgid ""
+"Model:\t\t\tMinolta Dimage V (%s)\n"
+"Hardware Revision:\t%s\n"
+"Firmware Revision:\t%s\n"
+msgstr ""
+"型号：\t\tMinolta Dimage V (%s)\n"
+"硬件版本号：\t%s\n"
+"固件版本号：\t%s\n"
+
+msgid "Model: "
+msgstr "型号： "
+
+msgid ""
+"Model: %s\n"
+"Memory: %d byte(s) of %d available"
+msgstr ""
+"型号：%s\n"
+"内存：%d(字节)/%d 可用"
+
+msgid ""
+"Model: %s\n"
+"Serial Number: %s,\n"
+"Hardware Version: %i.%i\n"
+"Software Version: %i.%i\n"
+"Testing Software Version: %i.%i\n"
+"Name: %s,\n"
+"Manufacturer: %s\n"
+msgstr ""
+"型号：%s\n"
+"序列号：%s,\n"
+"硬件版本：%i.%i\n"
+"软件版本：%i.%i\n"
+"测试软件版本：%i.%i\n"
+"名称：%s,\n"
+"制造商：%s\n"
+
+msgid "Model: Kodak %s\n"
+msgstr "型号：柯达 %s\n"
+
+msgid "Monitor"
+msgstr "监视器"
+
+msgid "Month/Day/Year"
+msgstr "月/日/年"
+
+msgid ""
+"Mustek MDC-800 gPhoto2 Library\n"
+"Henning Zabel <henning@uni-paderborn.de>\n"
+"Ported to gphoto2 by Marcus Meissner <marcus@jet.franken.de>\n"
+"Supports Serial and USB Protocol."
+msgstr ""
+"Mustek MDC-800 gPhoto2 库\n"
+"Henning Zabel <henning@uni-paderborn.de>\n"
+"由 Marcus Meissner <marcus@jet.franken.de> 移植到 gphoto2\n"
+"支持串口和 USB 协议。"
+
+msgid "NOT RECOGNIZED"
+msgstr "没有识别"
+
+msgid "NTSC"
+msgstr "NTSC"
+
+msgid ""
+"Name '%s' (%li characters) too long, maximum 30 characters are allowed."
+msgstr "名称 '%s' (%li 个字符)太长，最多允许 30 个字符。"
+
+msgid "Name to set on card when formatting."
+msgstr "格式化时在卡上设置的名称。"
+
+msgid "Neutral"
+msgstr "中性"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid ""
+"Nikon Coolpix 880:\n"
+"    Camera configuration (or preferences):\n"
+"\n"
+"        The optical zoom does not properly\n"
+"        function.\n"
+"\n"
+"        Not all configuration settings\n"
+"        can be properly read or written, for\n"
+"        example, the fine tuned setting of\n"
+"        white balance, and the language settings.\n"
+"\n"
+"        Put the camera in 'M' mode in order to\n"
+"        to set the shutter speed.\n"
+msgstr ""
+"尼康 Coolpix 880：\n"
+"    相机配置 (或首选项)：\n"
+"\n"
+"        光学缩放尚未正常\n"
+"        工作。\n"
+"\n"
+"\n"
+"        不是所有的配置信息\n"
+"        都能够正确读入或写出，\n"
+"        例如，微调白平衡，\n"
+"        和语言设置。\n"
+"\n"
+"        将相机设置为 'M' 模式\n"
+"        以便设置快门速度。\n"
+
+msgid "No"
+msgstr "否"
+
+msgid "No Compact Flash Card detected\n"
+msgstr "未探测到闪存卡\n"
+
+msgid "No EXIF data available for %s."
+msgstr "没有 %s 可用的 EXIF 数据。"
+
+msgid "No SD Card inserted.\n"
+msgstr "没有插入 SD 卡。\n"
+
+msgid "No additional information available."
+msgstr "没有可用的附加信息。"
+
+msgid "No answer from the camera."
+msgstr "相机无应答"
+
+msgid "No audio file could be found for %s"
+msgstr "无法为 %s 找到音频文件"
+
+msgid "No camera manual available.\n"
+msgstr "没有可用的相机手册。\n"
+
+msgid "No card"
+msgstr "无卡"
+
+msgid "No card present."
+msgstr "未插卡。"
+
+msgid "No memory card present"
+msgstr "未插内存卡"
+
+msgid "No reason available"
+msgstr "不知缘由"
+
+msgid "No response from camera"
+msgstr "相机无应答"
+
+msgid "No space left on card."
+msgstr "卡上没有剩余空间。"
+
+msgid "None"
+msgstr "无"
+
+msgid "None selected"
+msgstr "未选择"
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "Normal\n"
+msgstr "普通\n"
+
+msgid "Not Full"
+msgstr "未满"
+
+msgid "Not enough memory available on the memory card"
+msgstr "内存卡上没有足够的内存"
+
+msgid "Not used"
+msgstr "未使用"
+
+msgid "Note: no memory card present, some values may be invalid\n"
+msgstr "注意：没有内存卡，有些值可能是无效的\n"
+
+msgid "Number of Images: %d\n"
+msgstr "图像数量：%d\n"
+
+msgid "Number of pictures: %d"
+msgstr "照片数量：%d"
+
+msgid "Number of pictures: %d\n"
+msgstr "照片数量：%d\n"
+
+msgid ""
+"Number of pictures: %i\n"
+"Firmware Version: %s"
+msgstr ""
+"照片数量：%i\n"
+"固件版本：%s"
+
+msgid "OFF"
+msgstr "关"
+
+msgid "OK"
+msgstr "确认"
+
+msgid "ON"
+msgstr "开"
+
+msgid "OS error in camera communication"
+msgstr "在和相机通讯时出现了 OS 错误"
+
+msgid "Off"
+msgstr "关"
+
+msgid "Office"
+msgstr "办公室"
+
+msgid "On"
+msgstr "开"
+
+msgid "On, red-eye reduction"
+msgstr "开，消红眼"
+
+msgid ""
+"Only root folder is supported - you requested a file listing for folder "
+"'%s'."
+msgstr "仅支持根文件夹 - 您请求文件“%s”的文件列表。"
+
+msgid "Operation Mode"
+msgstr "操作模式"
+
+msgid "Operation cancelled"
+msgstr "操作已取消"
+
+msgid "Other"
+msgstr "其它"
+
+msgid "Other Settings"
+msgstr "其它设置"
+
+msgid "Other command executing."
+msgstr "正在执行其它命令。"
+
+msgid "Out of memory"
+msgstr "内存耗尽"
+
+msgid "Out of memory: %d bytes needed."
+msgstr "内存不足：需要%d字节。"
+
+msgid "Out of memory: %ld bytes needed."
+msgstr "内存不足：需要%ld字节。"
+
+msgid "Outdoor"
+msgstr "户外"
+
+msgid "Owner name changed"
+msgstr "所有者姓名已改变"
+
+msgid "PAL"
+msgstr "PAL"
+
+msgid "PTP Access Denied"
+msgstr "PTP 访问遭拒绝"
+
+msgid "PTP Capture Already Terminated"
+msgstr "PTP 捕获已终止"
+
+msgid "PTP Device Busy"
+msgstr "PTP 设备忙碌"
+
+msgid "PTP Device Prop Not Supported"
+msgstr "不支持的 PTP 设备属性"
+
+msgid "PTP EK Filename Conflicts"
+msgstr "PTP EK 文件名冲突"
+
+msgid "PTP EK Filename Invalid"
+msgstr "非法的 PTP EK 文件名"
+
+msgid "PTP EK Filename Required"
+msgstr "需要 PTP EK 文件名"
+
+msgid "PTP Error: bad parameter"
+msgstr "PTP 错误：错误的参数"
+
+msgid "PTP General Error"
+msgstr "PTP 通用错误"
+
+msgid "PTP I/O error"
+msgstr "PTP I/O 错误"
+
+msgid "PTP Incomplete Transfer"
+msgstr "未完成的 PTP 传输"
+
+msgid "PTP Invalid Code Format"
+msgstr "非法的 PTP 代码格式"
+
+msgid "PTP Invalid Device Prop Format"
+msgstr "非法的 PTP 设备属性格式"
+
+msgid "PTP Invalid Device Prop Value"
+msgstr "非法的 PTP 设备属性值"
+
+msgid "PTP Invalid Object Format Code"
+msgstr "非法的 PTP 对象格式代码"
+
+msgid "PTP Invalid Object Handle"
+msgstr "非法的 PTP 对象句柄"
+
+msgid "PTP Invalid Parameter"
+msgstr "非法的 PTP 参数"
+
+msgid "PTP Invalid Parent Object"
+msgstr "非法的 PTP 父对象"
+
+msgid "PTP Invalid Storage ID"
+msgstr "非法的 PTP 存储 ID"
+
+msgid "PTP Invalid Transaction ID"
+msgstr "非法的 PTP 传输 ID"
+
+msgid "PTP No Thumbnail Present"
+msgstr "不存在 PTP 缩略图"
+
+msgid "PTP No Valid Object Info"
+msgstr "没有合法的 PTP 对象信息"
+
+msgid "PTP OK!"
+msgstr "PTP OK！"
+
+msgid "PTP Object Write Protected"
+msgstr "PTP 对象已写保护"
+
+msgid "PTP Operation Not Supported"
+msgstr "不支持的 PTP 操作"
+
+msgid "PTP Parameter Not Supported"
+msgstr "不支持的 PTP 参数"
+
+msgid "PTP Partial Deletion"
+msgstr "PTP 部分删除"
+
+msgid "PTP Protocol error, data expected"
+msgstr "PTP 协议错误，需要数据"
+
+msgid "PTP Protocol error, response expected"
+msgstr "PTP 协议错误，需要响应"
+
+msgid "PTP Self Test Failed"
+msgstr "PTP 自检失败"
+
+msgid "PTP Session Already Opened"
+msgstr "PTP 会话已打开"
+
+msgid "PTP Session Not Open"
+msgstr "PTP 会话未打开"
+
+msgid "PTP Specification By Format Unsupported"
+msgstr "不支持的 PTP 格式规范"
+
+msgid "PTP Specification Of Destination Unsupported"
+msgstr "不支持的 PTP 目标规范"
+
+msgid "PTP Store Full"
+msgstr "PTP 存储已满"
+
+msgid "PTP Store Not Available"
+msgstr "PTP 存储不可用"
+
+msgid "PTP Store Read Only"
+msgstr "只读的 PTP 存储"
+
+msgid "PTP Transaction Canceled"
+msgstr "PTP 传输已取消"
+
+msgid "PTP Undefined Error"
+msgstr "未定义的 PTP 错误"
+
+msgid "PTP Unknown Vendor Code"
+msgstr "未知的 PTP 厂家代码"
+
+msgid "PTP: Access Denied"
+msgstr "PTP: 访问遭拒绝"
+
+msgid "PTP: Capture Already Terminated"
+msgstr "PTP: 捕获已终止"
+
+msgid "PTP: Device Busy"
+msgstr "PTP: 设备忙碌"
+
+msgid "PTP: Device Prop Not Supported"
+msgstr "PTP: 不支持的设备属性"
+
+msgid "PTP: Error: bad parameter"
+msgstr "PTP: 错误：错误的参数"
+
+msgid "PTP: I/O error"
+msgstr "PTP: I/O 错误"
+
+msgid "PTP: Incomplete Transfer"
+msgstr "PTP: 未完成的传输"
+
+msgid "PTP: Invalid Code Format"
+msgstr "PTP: 非法的代码格式"
+
+msgid "PTP: Invalid Object Format Code"
+msgstr "PTP: 非法的对象格式代码"
+
+msgid "PTP: Invalid Object Handle"
+msgstr "PTP: 非法的对象句柄"
+
+msgid "PTP: Invalid Storage ID"
+msgstr "PTP: 非法的存储 ID"
+
+msgid "PTP: No Thumbnail Present"
+msgstr "PTP: 缩略图不存在"
+
+msgid "PTP: No Valid Object Info"
+msgstr "PTP: 没有合法的对象信息"
+
+msgid "PTP: Object Write Protected"
+msgstr "PTP: 对象写入保护"
+
+msgid "PTP: Parameter Not Supported"
+msgstr "PTP: 不支持的参数"
+
+msgid "PTP: Partial Deletion"
+msgstr "PTP: 部分删除"
+
+msgid "PTP: Protocol error, data expected"
+msgstr "PTP: 协议错误，需要数据"
+
+msgid "PTP: Protocol error, response expected"
+msgstr "PTP: 协议错误，需要响应"
+
+msgid "PTP: Self Test Failed"
+msgstr "PTP: 自检失败"
+
+msgid "PTP: Specification By Format Unsupported"
+msgstr "PTP: 不支持的格式规范"
+
+msgid "PTP: Store Full"
+msgstr "PTP: 存储已满"
+
+msgid "PTP: Store Not Available"
+msgstr "PTP: 存储不可用"
+
+msgid "PTP: Store Read Only"
+msgstr "PTP: 只读的存储"
+
+msgid "PTP: Undefined Error"
+msgstr "PTP: 未定义的错误"
+
+msgid "PTP: Unknown Vendor Code"
+msgstr "PTP: 未知的厂家代码"
+
+msgid ""
+"Panasonic DC1000 gPhoto library\n"
+"Mariusz Zynel <mariusz@mizar.org>\n"
+"\n"
+"Based on dc1000 program written by\n"
+"Fredrik Roubert <roubert@df.lth.se> and\n"
+"Galen Brooks <galen@nine.com>."
+msgstr ""
+"松下 DC1000 gPhoto 库\n"
+"Mariusz Zynel <mariusz@mizar.org>\n"
+"\n"
+"基于由 Fredrik Roubert <roubert@df.lth.se>\n"
+"和 Galen Brooks <galen@nine.com> 编制的\n"
+"dc1000 程序。"
+
+msgid ""
+"Panasonic PV-L859-K/PV-L779-K Palmcorder Driver\n"
+"Andrew Selkirk <aselkirk@mailandnews.com>"
+msgstr ""
+"松下 PV-L859-K/PV-L779-K Palmcorder 驱动程序\n"
+"Andrew Selkirk <aselkirk@mailandnews.com>"
+
+msgid "Parameter 1"
+msgstr "参数 1"
+
+msgid "Parameter 2"
+msgstr "参数 2"
+
+msgid "Parameter 3"
+msgstr "参数 3"
+
+msgid "Path not absolute"
+msgstr "路径不是绝对路径"
+
+msgid "Persistent Settings"
+msgstr "永久设置"
+
+msgid "Photos on camera: %d\n"
+msgstr "相机的相片：%d\n"
+
+msgid "Picture Settings"
+msgstr "照片设置"
+
+msgid "Pictures"
+msgstr "照片"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Play mode"
+msgstr "播放模式"
+
+msgid "Port speed"
+msgstr "端口速度"
+
+msgid "Portugese"
+msgstr "葡萄牙语"
+
+msgid "Preset"
+msgstr "预设"
+
+msgid "Preview Thumbnail"
+msgstr "上个缩略图"
+
+msgid "Previous"
+msgstr "上一个"
+
+msgid "Problem downloading image"
+msgstr "下载图像出问题"
+
+msgid "Problem getting image information"
+msgstr "获取图像信息时出问题"
+
+msgid "Problem getting number of images"
+msgstr "获取图像数量时出问题"
+
+msgid "Problem opening port"
+msgstr "打开端口出问题"
+
+msgid "Problem reading image from flash"
+msgstr "从闪存读取图像出问题"
+
+msgid "Problem resetting camera"
+msgstr "重置相机出问题"
+
+msgid "Problem setting camera communication speed"
+msgstr "设置相机通讯速度出问题"
+
+msgid "Problem taking live image"
+msgstr "获取现场图像有问题"
+
+msgid "Product ID: %02x%02x\n"
+msgstr "产品 ID：%02x%02x\n"
+
+msgid "Prohibit Flash\n"
+msgstr "禁止闪光\n"
+
+msgid "RAW"
+msgstr "原始的"
+
+msgid "RAW + Small Fine JPEG"
+msgstr "原始的 ＋ 小的高质量 JPEG"
+
+msgid "RAW + Small Normal JPEG"
+msgstr "原始的 ＋ 小的正常 JPEG"
+
+msgid "RTC Status: %d\n"
+msgstr "RTC 状态：%d\n"
+
+msgid "Read-only file attributes like width and height can not be changed."
+msgstr "无法改变像宽度和高度这样的只读文件属性。"
+
+msgid "Ready"
+msgstr "就绪"
+
+msgid "Received unexpected answer (%i). Please contact %s."
+msgstr "收到意外的应答 (%i)。请联系 %s。"
+
+msgid "Received unexpected data (0x%02x, 0x%02x)."
+msgstr "收到意外的数据 (0x%02x，0x%02x)。"
+
+msgid "Received unexpected header (%i)"
+msgstr "收到意外的头 (%i)"
+
+msgid "Received unexpected response"
+msgstr "收到意外应答"
+
+msgid "Receiving data..."
+msgstr "正在接收数据..."
+
+msgid "Record"
+msgstr "录制"
+
+msgid "Record Mode"
+msgstr "录制模式"
+
+msgid "Record mode"
+msgstr "录制模式"
+
+msgid "Red"
+msgstr "红"
+
+msgid "Red eye flash"
+msgstr "红眼闪光灯"
+
+msgid "Red-eye Reduction"
+msgstr "消红眼"
+
+msgid "Remote"
+msgstr "远程"
+
+msgid ""
+"Requested information about picture %i (= 0x%x), but got information about "
+"picture %i back"
+msgstr "请求关于照片 %i (= 0x%x) 的信息，但得到了关于照片 %i 的返回信息"
+
+msgid "Resetting protocol..."
+msgstr "正在重置协议..."
+
+msgid "Resolution"
+msgstr "分辨率"
+
+msgid "Resolution Switch"
+msgstr "分辨率切换"
+
+msgid "Resolution plus Size"
+msgstr "分辨率加尺寸"
+
+msgid ""
+"Ricoh / Philips driver by\n"
+"Lutz Mueller <lutz@users.sourceforge.net>,\n"
+"Martin Fischer <martin.fischer@inka.de>,\n"
+"based on Bob Paauwe's driver\n"
+msgstr ""
+"尼康 / 菲力浦驱动程序由\n"
+"Lutz Mueller <lutz@users.sourceforge.net>,\n"
+"Martin Fischer <martin.fischer@inka.de>,\n"
+"根据 Bob Paauwe 的驱动程序编制\n"
+
+msgid "SD Card ID: %s\n"
+msgstr "SD 卡标识：%s\n"
+
+msgid "SD memory: %d MB total, %d MB free.\n"
+msgstr "SD 内存：总共 %d MB，剩余 %d MB。\n"
+
+msgid ""
+"SDRAM:\n"
+" Files: %d\n"
+"  Images: %4d\n"
+"  Movies: %4d\n"
+"Space used: %8d\n"
+"Space free: %8d\n"
+msgstr ""
+"SDRAM：\n"
+" 文件：%d\n"
+"  图像：%4d\n"
+"  电影：%4d\n"
+"使用的空间：%8d\n"
+"剩余的空间：%8d\n"
+
+msgid ""
+"STV0680\n"
+"Adam Harrison <adam@antispin.org>\n"
+"Driver for cameras using the STV0680 processor ASIC.\n"
+"Protocol reverse engineered using CommLite Beta 5\n"
+"Carsten Weinholz <c.weinholz@netcologne.de>\n"
+"Extended for Aiptek PenCam and other STM USB Dual-mode cameras."
+msgstr ""
+"STV0680\n"
+"Adam Harrison <adam@antispin.org>\n"
+"使用 STV0680 处理器专用芯片的相机驱动程序。\n"
+"使用 CommLite Beta 5 对协议进行反向工程\n"
+"Carsten Weinholz <c.weinholz@netcologne.de>\n"
+"为 Aiptek PenCam 和其它 STM USB 双模式相机进行了扩展。"
+
+msgid "Self Timer"
+msgstr "自动定时"
+
+msgid "Self Timer (next picture only)"
+msgstr "自动定时 (仅用于下一张照片)"
+
+msgid "Self Timer Time"
+msgstr "自动定时器时间"
+
+msgid "Sending data..."
+msgstr "正在发送数据..."
+
+msgid "Sensor ID: %d.%d\n"
+msgstr "感应器 ID：%d.%d\n"
+
+msgid "Sepia"
+msgstr "棕褐色"
+
+msgid "Serial Number: %s\n"
+msgstr "序列号：%s\n"
+
+msgid "Session-persistent Settings"
+msgstr "会话永久设置"
+
+msgid "Set clock in camera"
+msgstr "设置相机时钟"
+
+msgid "Shall the camera beep when taking a picture?"
+msgstr "相机是否要在拍摄一张照片时鸣笛？"
+
+msgid "Shot Settings"
+msgstr "拍摄设置"
+
+msgid "Shutter Speed"
+msgstr "快门速度"
+
+msgid "Shutter Speed (in seconds)"
+msgstr "快门速度 (秒)"
+
+msgid "Shutter Speed (microseconds, 0 auto)"
+msgstr "快门速度 (微秒，0 表示自动)"
+
+msgid "Shutter Speed microseconds (0 auto)"
+msgstr "快门速度 (微秒，0 表示自动)"
+
+msgid ""
+"SiPix Web2\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Driver for accessing the SiPix Web2 camera."
+msgstr ""
+"SiPix Web2\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"用于访问 SiPix Web2 相机的驱动程序。"
+
+msgid ""
+"Sipix StyleCam Blink Driver\n"
+"Vincent Sanders <vince@kyllikki.org>\n"
+"Marcus Meissner <marcus@jet.franken.de>.\n"
+msgstr ""
+"Sipix StyleCam Blink 驱动程序\n"
+"Vincent Sanders <vince@kyllikki.org>\n"
+"Marcus Meissner <marcus@jet.franken.de>.\n"
+
+msgid "Skylight"
+msgstr "日光"
+
+msgid "Slide Show Interval"
+msgstr "幻灯片显示间隔"
+
+msgid "Slow"
+msgstr "慢"
+
+msgid "Slow Sync"
+msgstr "慢同步"
+
+msgid "Small Fine JPEG"
+msgstr "小的高质量 JPEG"
+
+msgid "Small Normal JPEG"
+msgstr "小的正常 JPEG"
+
+msgid "Software Rev.: %s\n"
+msgstr "软件版本：%s\n"
+
+msgid ""
+"Some notes about Epson cameras:\n"
+"- Some parameters are not controllable remotely:\n"
+"  * zoom\n"
+"  * focus\n"
+"  * custom white balance setup\n"
+"- Configuration has been reverse-engineered with\n"
+"  a PhotoPC 3000z, if your camera acts differently\n"
+"  please send a mail to %s (in English)\n"
+msgstr ""
+"关于爱普生相机的一些事项：\n"
+"- 有些参数无法远程控制：\n"
+"  * 缩放\n"
+"  * 聚焦\n"
+"  * 自定义白平衡设置\n"
+"- 配置是通过对 PhotoPC 3000z 进行反向工程\n"
+"  而得到的。如果您的相机与此不同，请向 \n"
+"  %s 发送电子邮件 (用英语)\n"
+
+msgid ""
+"Sony DSC-F1 Digital Camera Support\n"
+"M. Adam Kendall <joker@penguinpub.com>\n"
+"Based on the chotplay CLI interface from\n"
+"Ken-ichi Hayashi\n"
+"Gphoto2 port by Bart van Leeuwen <bart@netage.nl>"
+msgstr ""
+"索尼 DSC-F1 数码相机支持\n"
+"M. Adam Kendall <joker@penguinpub.com>\n"
+"基于 chotplay CLI 界面。该界面来自于\n"
+"Ken-ichi Hayashi\n"
+"由 Bart van Leeuwen <bart@netage.nl> 移植到 gphoto2"
+
+msgid ""
+"Sony DSC-F55/505 gPhoto library\n"
+"Supports Sony MSAC-SR1 and Memory Stick used by DCR-PC100\n"
+"Originally written by Mark Davies <mdavies@dial.pipex.com>\n"
+"gPhoto2 port by Raymond Penners <raymond@dotsphinx.com>"
+msgstr ""
+"索尼 DSC-F55/505 gPhoto 库\n"
+"支持 索尼 MSAC-SR1 和 DCR-PC100 使用的存储体\n"
+"最初由 Mark Davies <mdavies@dial.pipex.com> 编写\n"
+"由 Raymond Penners <raymond@dotsphinx.com> 移植到 gphoto2"
+
+msgid "Sorry, your Canon camera does not support Canon capture"
+msgstr "对不起, 您的Canon相机不支持Canon capture。"
+
+msgid "Sound"
+msgstr "音效"
+
+msgid ""
+"Soundvision Driver\n"
+"Vince Weaver <vince@deater.net>\n"
+msgstr ""
+"Soundvision 驱动程序\n"
+"Vince Weaver <vince@deater.net>\n"
+
+msgid "Space remaining: High: %d, Medium: %d, Low: %d\n"
+msgstr "剩余空间：高：%d，中：%d，低：%d\n"
+
+msgid "Spanish"
+msgstr "西班牙语"
+
+msgid "Speed %i is not supported!"
+msgstr "不支持速度 %i！"
+
+msgid ""
+"Speeds greater than 57600 are not supported for uploading to this camera"
+msgstr "该相机不支持高于 57600 的速度的上载"
+
+msgid "Spot"
+msgstr "点"
+
+msgid "Spot Metering Mode"
+msgstr "场景测量模式"
+
+msgid "Standard"
+msgstr "标准"
+
+msgid "Strobe error."
+msgstr "闪光灯。"
+
+msgid "Summary for Mustek MDC800:\n"
+msgstr "关于 Mustek MDC800 的概要：\n"
+
+msgid "SuperFine"
+msgstr "超精细"
+
+msgid "Switching Camera Off"
+msgstr "关闭相机"
+
+msgid "System error."
+msgstr "系统错误。"
+
+msgid "TV Output Format"
+msgstr "电视输出格式"
+
+msgid "Testing different speeds..."
+msgstr "正在测试不同的速度..."
+
+msgid "The Directory Browse \"camera\" lets you index photos on your hard drive."
+msgstr "目录浏览“相机”允许您为您硬盘上的照片编制索引。"
+
+msgid ""
+"The JD11 camera works rather well with this driver.\n"
+"An RS232 interface @ 115 kbit is required for image transfer.\n"
+"The driver allows you to get\n"
+"\n"
+"   - thumbnails (64x48 PGM format)\n"
+"   - full images (640x480 PPM format)\n"
+msgstr ""
+"JD11 相机使用该驱动程序工作得更好。\n"
+"图像传输需要一个 115 千位的 RS232 接口。\n"
+"驱动程序允许您获取\n"
+"\n"
+"   - 缩略图 (64x48 PGM 格式)\n"
+"   - 全图 (640x480 PPM 格式)\n"
+
+msgid ""
+"The Kodak DC120 camera uses the KDC file format for storing images. If you "
+"want to view the images you download from your camera, you will need to "
+"download the \"kdc2tiff\" program. It is available from "
+"http://kdc2tiff.sourceforge.net"
+msgstr ""
+"柯达 DC120 相机使用 KDC 文件格式存储图像。如果您希望浏览您从相机中下载的图像，您就需要下载程序“kdc2tiff”。该程序可以从 "
+"http://kdc2tiff.sourceforge.net 得到。"
+
+msgid ""
+"The Samsung digimax 800k driver has been written by James McKenzie "
+"<james@fishsoup.dhs.org> for gphoto. Lutz Mueller "
+"<lutz@users.sourceforge.net> ported it to gphoto2. Marcus Meissner "
+"<marcus@jet.franken.de> fixed and enhanced the port."
+msgstr ""
+"三星 digimax 800k 驱动程序是由 James McKenzie <james@fishsoup.dhs.org> 为 gphoto "
+"编写的。Lutz Mueller <lutz@users.sourceforge.net> 将它移植到 gphoto2。Marcus Meissner "
+"<marcus@jet.franken.de> 修正并增强了移植后的版本。"
+
+msgid ""
+"The battery level of the camera is too low (%d%%). The operation is aborted."
+msgstr "相机电量太低 (%d%%)。操作取消。"
+
+msgid ""
+"The camera could not be contacted. Please make sure it is connected to the "
+"computer and turned on."
+msgstr "无法与相机联络。请确信相机已经连接到计算机并确认相机已打开。"
+
+msgid "The camera did not accept the command."
+msgstr "相机不接受命令。"
+
+msgid "The camera does not accept '%s' as filename."
+msgstr "相机不接受作为文件名的“%s”。"
+
+msgid "The camera does not support speed %i."
+msgstr "该相机不支持速度 %i。"
+
+msgid "The camera sent more bytes than expected (%i)"
+msgstr "相机发送了比预期更多的字节 (%i)"
+
+msgid "The camera sent only %i byte(s), but we need at least %i."
+msgstr "相机只发送 %i 个字节，但我们至少需要 %i 个。"
+
+msgid "The file to be uploaded has a null length"
+msgstr "要上载的文件具有空长度"
+
+msgid ""
+"The filename's length must not exceed 12 characters ('%s' has %i "
+"characters)."
+msgstr "文件名的长度不能超过 12 个字符 (“%s” 含有 %i 个字符)。"
+
+msgid "The filesystem does not support upload of files."
+msgstr "文件系统不支持上载文件。"
+
+msgid "The filesystem doesn't support getting file information"
+msgstr "文件系统不支持获取文件信息"
+
+msgid "The filesystem doesn't support getting files"
+msgstr "文件系统不支持获取文件"
+
+msgid "The filesystem doesn't support getting storage information"
+msgstr "这个文件系统不支持获得存储信息"
+
+msgid "The filesystem doesn't support setting file information"
+msgstr "文件系统不支持设置文件信息"
+
+msgid "The first byte received (0x%x) is not valid."
+msgstr "接收的第一个字节 (0x%x) 非法。"
+
+msgid "The path '%s' is not absolute."
+msgstr "路径“%s”不是绝对路径。"
+
+msgid "The requested port type (%i) is not supported by this driver."
+msgstr "该驱动程序不支持请求的端口类型 (%i)。"
+
+msgid "There are still files in folder '%s/%s' that you are trying to remove."
+msgstr "仍然有文件在您要移除的文件夹 '%s/%s'。"
+
+msgid ""
+"There are still subfolders in folder '%s/%s' that you are trying to remove."
+msgstr "仍然有子文件夹在您要移除的文件夹 '%s/%s'。"
+
+msgid ""
+"There is currently an operation in progress. This camera only supports one "
+"operation at a time. Please wait until the current operation has finished."
+msgstr "现在正有一个操作在进行。该相机在同一时刻仅支持一个操作。请等待直到当前操作完成。"
+
+msgid "This camera can not capture previews."
+msgstr "该相机不能预览视频捕捉。"
+
+msgid "This camera can not capture."
+msgstr "该相机不能视频捕捉。"
+
+msgid "This camera does not offer a manual."
+msgstr "该相机不提供手册。"
+
+msgid "This camera does not offer any configuration options."
+msgstr "该相机不提供任何配置选项。"
+
+msgid "This camera does not provide information about the driver."
+msgstr "该相机不提供关于驱动程序的信息。"
+
+msgid "This camera does not support setting configuration options."
+msgstr "该相机不支持设置配置选项。"
+
+msgid "This camera does not support summaries."
+msgstr "该相机不支持概要。"
+
+msgid ""
+"This is the driver for Canon PowerShot, Digital IXUS, IXY Digital,\n"
+" and EOS Digital cameras in their native (sometimes called \"normal\")\n"
+" mode. It also supports a small number of Canon digital camcorders\n"
+" with still image capability.\n"
+"It includes code for communicating over a serial port or USB connection,\n"
+" but not (yet) over IEEE 1394 (Firewire).\n"
+"It is designed to work with over 70 models as old as the PowerShot A5\n"
+" and Pro70 of 1998 and as new as the PowerShot A510 and EOS 350D of\n"
+" 2005.\n"
+"It has not been verified against the EOS 1D or EOS 1Ds.\n"
+"For the A50, using 115200 bps may effectively be slower than using 57600\n"
+"If you experience a lot of serial transmission errors, try to have your\n"
+" computer as idle as possible (i.e. no disk activity)\n"
+msgstr ""
+"这是Canon PowerShot, Digital IXUS, IXY Digital,\n"
+" EOS Digital 照相机在本地模式（有时称为“标准模式”）\n"
+" 下的驱动程序。它也支持少量的带有静态图像功能的Canon\n"
+" 数码可携式摄像机。\n"
+"它包含了通过串口或USB连接来通信的代码，但(尚)不包括\n"
+" IEEE 1394（火线）。\n"
+"它被设计成支持从1998年的PowerShot A5和Pro70到\n"
+" 2005年的PowerShot A510和EOS 350D的70多种型号\n"
+" 的照相机。\n"
+"在EOS 1D 或 EOS 1D上没有测试过。\n"
+"对于A50，使用115200 bps实际上可能会比用57600 bps要慢\n"
+"如果你遇到太多串行传输错误，请让你的电脑尽可能的空闲\n"
+" （也就是说：磁盘空闲）\n"
+
+msgid ""
+"This library has been tested with a Kodak DC 215 Zoom camera. It might work "
+"also with DC 200 and DC 210 cameras. If you happen to have such a camera, "
+"please send a message to koltan@gmx.de to let me know, if you have any "
+"troubles with this driver library or if everything is okay."
+msgstr ""
+"该库已经在柯达 DC 215 缩放相机上进行过测试。它可能可以在 DC200 和 DC210 上工作。如果您碰巧拥有这样的相机，请给 "
+"koltan@gmx.de 发送邮件以便让我知道您是否在使用该驱动程序时遇到了麻烦，或者一切正常。"
+
+msgid "Thumbnail"
+msgstr "缩略图"
+
+msgid "Thumbnail height: %d\n"
+msgstr "缩略图高度：%d\n"
+
+msgid "Thumbnail size: %d\n"
+msgstr "缩略图大小：%d\n"
+
+msgid "Thumbnail width: %d\n"
+msgstr "缩略图宽度：%d\n"
+
+msgid "Time format"
+msgstr "时间格式"
+
+msgid "Timeout even after 2 retries. Please contact %s."
+msgstr "两次重试后仍然超时。请联系 %s。"
+
+msgid "Too bright"
+msgstr "亮度过大"
+
+msgid "Too dark"
+msgstr "亮度过小"
+
+msgid "Too many retries failed."
+msgstr "重试失败过多。"
+
+msgid ""
+"Toshiba\n"
+"David Hogue <david@jawa.gotdns.org>\n"
+"Toshiba pdr-m11 driver.\n"
+msgstr ""
+"东芝\n"
+"David Hogue <david@jawa.gotdns.org>\n"
+"东芝 pdr-m11 驱动。\n"
+
+msgid "Total pictures captured: %d, Flashes fired: %d\n"
+msgstr "捕获照片总数：%d，闪光灯闪光次数：%d\n"
+
+msgid ""
+"Transmission of packet timed out even after %i retries. Please contact %s."
+msgstr "在 %i 次重试后包传输仍然超时。请联系 %s。"
+
+msgid "Transmission timed out even after 2 retries. Giving up..."
+msgstr "在两次重试后传输仍然超时。放弃..."
+
+msgid "Trying to contact camera..."
+msgstr "正试图与相机联络..."
+
+msgid "Tungsten"
+msgstr "钨"
+
+msgid "Unavailable"
+msgstr "不可用"
+
+msgid "Undefined PTP Property"
+msgstr "PTP: 未定义的属性"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown (%04x)"
+msgstr "未知 (%04x)"
+
+msgid "Unknown (some kind of error)"
+msgstr "未知(某些错误)"
+
+msgid "Unknown camera library error"
+msgstr "未知的相机库错误"
+
+msgid "Unknown error"
+msgstr "未知的错误"
+
+msgid "Unknown error."
+msgstr "未知的错误。"
+
+msgid "Unknown file type %i."
+msgstr "未知的文件类型 %i。"
+
+msgid "Unknown model"
+msgstr "未知型号"
+
+msgid "Unknown model \"%s\""
+msgstr "未知型号 \"%s\""
+
+msgid "Unrecognized response"
+msgstr "不可识别的应答"
+
+msgid "Unsuitable card"
+msgstr "不适当的卡"
+
+msgid "Unsupported command."
+msgstr "不支持的命令。"
+
+msgid "Unsupported port type %i = 0x%x given. Initialization impossible."
+msgstr "给出未知端口类型 %i = 0x%x。不可能初始化。"
+
+msgid "Unsupported port type: %d. This driver only works with USB cameras.\n"
+msgstr "不支持的端口类型：%d。该驱动程序只支持 USB 照相机。\n"
+
+msgid "Upload is supported into the '%s' folder only"
+msgstr "只支持上载到文件夹“%s”"
+
+msgid "Uploading file..."
+msgstr "正在上载文件..."
+
+msgid "Uploading image..."
+msgstr "正在上传图像..."
+
+msgid "Uploading image: %s."
+msgstr "正在上载图像：%s。"
+
+msgid "Uploading..."
+msgstr "正在上载..."
+
+msgid "User canceled download"
+msgstr "用户取消下载"
+
+msgid "Vendor ID: %02x%02x\n"
+msgstr "厂家 ID：%02x%02x\n"
+
+msgid "Version: "
+msgstr "版本： "
+
+msgid "Version: %s\n"
+msgstr "版本：%s\n"
+
+msgid "Volatile Settings"
+msgstr "临时设定"
+
+msgid "Waiting for completion..."
+msgstr "等待完成..."
+
+msgid "Waiting..."
+msgstr "正在等待..."
+
+msgid "We expected 0x%x but received 0x%x. Please contact %s."
+msgstr "我们希望得到 0x%x 但收到 0x%x。请联系 %s。"
+
+msgid "Weak"
+msgstr "弱"
+
+msgid "White Balance"
+msgstr "白平衡"
+
+msgid "White Board"
+msgstr "白板"
+
+msgid "White balance"
+msgstr "白平衡"
+
+msgid "White board"
+msgstr "白板"
+
+msgid "White level"
+msgstr "白平衡"
+
+msgid "WhiteBalance"
+msgstr "白平衡"
+
+msgid "Write-protected"
+msgstr "写保护"
+
+msgid "Wrong escape sequence: expected 0x%02x, got 0x%02x."
+msgstr "错误的 ESC 序列：应为 0x%02x，得到 0x%02x。"
+
+msgid "Year/Month/Day"
+msgstr "年/月/日"
+
+msgid "Yes"
+msgstr "是"
+
+msgid ""
+"You have been trying to delete '%s' from folder '%s', but the filesystem "
+"does not support deletion of files."
+msgstr "您试图从文件夹“%2$s”中删除“%1$s”，但文件系统不支持删除文件。"
+
+msgid "You have to set the port prior to initialization of the camera."
+msgstr "您不得不在相机初始化之前设置端口。"
+
+msgid ""
+"Your USB camera has an Aox chipset.\n"
+"Number of lo-res PICs = %i\n"
+"Number of hi-res PICs = %i\n"
+"Number of PICs = %i\n"
+msgstr ""
+"你的USB摄像机有一个Aox芯片组。\n"
+"低分辨率图片数量 = %i\n"
+"高分辨率图片数量 = %i\n"
+"图片总数量 = %i\n"
+
+msgid ""
+"Your USB camera is a Kodak EZ200.\n"
+"Number of PICs = %i\n"
+msgstr ""
+"您的USB照相机是Kodak EZ200。\n"
+"照片总数=%i\n"
+
+msgid ""
+"Your USB camera is an iClick 5X.\n"
+"The total number of pictures taken is %i\n"
+msgstr ""
+"您的USB照相机是iClick 5X。\n"
+"现有照片的总数是%i\n"
+
+msgid "Your camera does not support changing filenames."
+msgstr "您的相机不支持文件改名。"
+
+msgid "Zoom"
+msgstr "缩放"
+
+msgid "Zoom (in millimeters)"
+msgstr "缩放 (毫米)"
+
+msgid "Zoom level changed"
+msgstr "缩放级别已经改变"
+
+msgid "a/c adaptor"
+msgstr "交流变压器"
+
+msgid ""
+"agfa_cl20\n"
+"The Agfa CL20 Linux Driver People!\n"
+"     Email us at cl20@poeml.de    \n"
+" Visit us at http://cl20.poeml.de "
+msgstr ""
+"agfa_cl20\n"
+"The Agfa CL20 Linux Driver People!\n"
+"     Email us at cl20@poeml.de    \n"
+" Visit us at http://cl20.poeml.de "
+
+msgid "auto"
+msgstr "自动"
+
+msgid "battery"
+msgstr "电池"
+
+msgid "black & white"
+msgstr "黑白"
+
+msgid "camera inactive for > 9 seconds, re-initing.\n"
+msgstr "相机非活跃时间大于 9 秒，正在重新初始化。\n"
+
+msgid ""
+"canon_int_list_directory: ERROR: initial message too short (%i < minimum %i)"
+msgstr "canon_int_list_directory: 错误：初始信息太短 (%i < 最小值 %i)"
+
+msgid "color"
+msgstr "彩色"
+
+msgid "coolshot library v"
+msgstr "coolshot 库 v"
+
+msgid "could not change owner name"
+msgstr "无法改变所有者姓名"
+
+msgid "could not set time"
+msgstr "无法设置时间"
+
+msgid "externally"
+msgstr "外部"
+
+msgid "fine"
+msgstr "精细"
+
+msgid ""
+"gPhoto2 Mustek VDC-3500/Relisys Dimera 3500\n"
+"This software was created with the\n"
+"help of proprietary information belonging\n"
+"to StarDot Technologies.\n"
+"\n"
+"Author:\n"
+"  Brian Beattie  <URL:http://www.beattie-home.net>\n"
+"Contributors:\n"
+"  Chuck Homic <chuck@vvisions.com>\n"
+"     Converting raw camera images to RGB\n"
+"  Dan Fandrich <dan@coneharvesters.com>\n"
+"     Information on protocol, raw image format,\n"
+"     gphoto2 port\n"
+msgstr ""
+"gPhoto2 Mustek VDC-3500/Relisys Dimera 3500\n"
+"该软件是在属于 StarDot\n"
+"科技的私有信息的帮助下\n"
+"编制的。\n"
+"\n"
+"作者：\n"
+"  Brian Beattie  <URL:http://www.beattie-home.net>\n"
+"贡献者：\n"
+"  Chuck Homic <chuck@vvisions.com>\n"
+"     将原始相机图像转换为 RGB 格式\n"
+"  Dan Fandrich <dan@coneharvesters.com>\n"
+"     关于协议、原始数据格式的信息。\n"
+"     移植到 gphoto2\n"
+
+msgid "high (640x480)"
+msgstr "高 (640x480)"
+
+msgid "in fill mode"
+msgstr "处于填充模式"
+
+msgid "internally"
+msgstr "内部"
+
+msgid "jamcam library v"
+msgstr "jamcam 库 v"
+
+msgid "lock keys failed."
+msgstr "锁定键失败。"
+
+msgid "low (320x240)"
+msgstr "低 (320x240)"
+
+msgid "menu"
+msgstr "菜单"
+
+msgid "no status reported."
+msgstr "无报告状态。"
+
+msgid "none"
+msgstr "无"
+
+msgid "normal"
+msgstr "普通"
+
+msgid "not available: %s"
+msgstr "不可用：%s"
+
+msgid "off"
+msgstr "关"
+
+msgid "on"
+msgstr "开"
+
+msgid "on battery"
+msgstr "使用电池"
+
+msgid "play"
+msgstr "播放"
+
+msgid "power OK"
+msgstr "电力充足"
+
+msgid "power bad"
+msgstr "电力不足"
+
+msgid "ready"
+msgstr "就绪"
+
+msgid "record"
+msgstr "录制"
+
+msgid ""
+"recursive calls are not supported by the sierra driver! Please contact %s."
+msgstr "Sierra 驱动程序不支持递归调用！请联系 %s。"
+
+msgid "standard"
+msgstr "标准"
+
+msgid "superfine"
+msgstr "超精细"
+
+msgid "sx330z is USB only"
+msgstr "sx330z 只支持 USB"
+
+msgid "time set"
+msgstr "时间设置"
+
+msgid "unable to guess initial CRC value\n"
+msgstr "不能推测起始CRC值\n"
+
+msgid "unknown (0x%02x)"
+msgstr "未知 (0x%02x)"
+
+msgid ""
+"warning: CRC not checked (add len %d, value 0x%04x) "
+"#########################\n"
+msgstr "警告：CRC没有检查 (add len %d, value 0x%04x) #########################\n"

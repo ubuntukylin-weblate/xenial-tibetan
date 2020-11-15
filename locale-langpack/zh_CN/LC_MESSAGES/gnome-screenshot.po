@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-utils master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-screenshot&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-12-03 22:26+0000\n"
+"PO-Revision-Date: 2015-12-04 13:24+0000\n"
+"Last-Translator: Icenowy Zheng <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 08:08+0000\n"
+
+msgid "A file named \"%s\" already exists in \"%s\""
+msgstr "“%2$s”中已存在同名的文件“%1$s ”"
+
+msgid "About"
+msgstr "关于"
+
+msgid "All possible methods failed"
+msgstr "所有可行的方法均已失败"
+
+msgid "Apply _effect:"
+msgstr "应用特效(_E)："
+
+msgid "Border"
+msgstr "边框"
+
+msgid "Border Effect"
+msgstr "边框效果"
+
+msgid "C_opy to Clipboard"
+msgstr "复制到剪贴板(_O)"
+
+msgid ""
+"Conflicting options: --area and --delay should not be used at the same "
+"time.\n"
+msgstr "冲突的选项：--area 和 --delay 参数不能同时使用。\n"
+
+msgid ""
+"Conflicting options: --window and --area should not be used at the same "
+"time.\n"
+msgstr "冲突的选项：--window 和 --area 不能同时使用。\n"
+
+msgid "Default file type extension"
+msgstr "默认文件类型扩展名"
+
+msgid "Drop shadow"
+msgstr "阴影"
+
+msgid "Effect to add to the border (shadow, border, vintage or none)"
+msgstr "添加到边框的特效(阴影、边框、老照片或无特效)"
+
+msgid ""
+"Effect to add to the outside of a border. Possible values are \"shadow\", "
+"\"none\", and \"border\"."
+msgstr "在边框上添加的特效，可供选择的值包括“shadow”、“none”和“border”。"
+
+msgid "Effects"
+msgstr "特效"
+
+msgid "Error creating file"
+msgstr "创建文件时出错"
+
+msgid "Error creating file. Please choose another location and retry."
+msgstr "创建文件时出错，请选择其他位置并重试。"
+
+msgid "Error loading the help page"
+msgstr "载入帮助页面时出错"
+
+msgid "GNOME Screenshot"
+msgstr "GNOME 截图"
+
+msgid ""
+"GNOME Screenshot allows you to take screenshots even when it's not open: "
+"just press the PrtSc button on your keyboard, and a snapshot of your whole "
+"screen will be saved to your Pictures folder. Hold Alt while pressing PrtSc "
+"and you will get a screenshot of only the currently selected window."
+msgstr ""
+"“GNOME "
+"截图”工具甚至允许你在不打开它的情况下截取屏幕：轻按您键盘上的“PrtSc”键，然后在你的图片文件夹里面就会出现一张现在屏幕内容的快照。如果在按PrtSc的时候另外按住Alt键，你就可以获得当前窗口的截图。"
+
+msgid ""
+"GNOME Screenshot is a simple utility that lets you take pictures of your "
+"computer screen. Screenshots can be of your whole screen, any specific "
+"application, or a selected rectangular area. You can also copy the captured "
+"screenshot directly into the GNOME clipboard and paste it into other "
+"applications."
+msgstr ""
+"“GNOME "
+"截图”是一个以图片格式保存屏幕内容的简单工具。它可以截取你的整个屏幕，一个制定的程序，也可以截取一个划定的矩形区域。你还可以把截图内容直接拷贝到剪贴板然后复制到其他应用程序当中。"
+
+msgid "Grab a window instead of the entire screen"
+msgstr "截取窗口，而不是整个屏幕"
+
+msgid "Grab after a _delay of"
+msgstr "截图延迟时间(_D)"
+
+msgid "Grab an area of the screen instead of the entire screen"
+msgstr "截取屏幕的一个区域，而不是整个屏幕"
+
+msgid ""
+"Grab just the current window, rather than the whole desktop. This key has "
+"been deprecated and it is no longer in use."
+msgstr "只截取当前窗口，而不是整个桌面。这个关键码已失效不能再使用。"
+
+msgid "Grab the current _window"
+msgstr "截取当前窗口(_W)"
+
+msgid "Grab the whole sc_reen"
+msgstr "截取整个屏幕(_R)"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Include Border"
+msgstr "包含边框"
+
+msgid "Include ICC Profile"
+msgstr "包含 ICC 配置文件"
+
+msgid "Include Pointer"
+msgstr "包含指针"
+
+msgid "Include _pointer"
+msgstr "包含指针(_P)"
+
+msgid "Include the ICC profile of the target in the screenshot file"
+msgstr "在截图中包含 ICC 配置文件"
+
+msgid "Include the pointer in the screenshot"
+msgstr "在截图中包含鼠标指针"
+
+msgid "Include the pointer with the screenshot"
+msgstr "在截图中包含鼠标指针"
+
+msgid "Include the window _border"
+msgstr "包含窗口边框(_B)"
+
+msgid "Include the window border with the screenshot"
+msgstr "在截图中包含窗口边框"
+
+msgid "Include the window manager border along with the screenshot"
+msgstr "在截图中包含窗口管理器边框"
+
+msgid "Interactively set options"
+msgstr "交互设置选项"
+
+msgid "Last save directory"
+msgstr "上次保存的目录"
+
+msgid "None"
+msgstr "无"
+
+msgid "Overwrite existing file?"
+msgstr "覆盖现有的文件？"
+
+msgid "Print version information and exit"
+msgstr "打印版本信息并退出"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Remove the window border from the screenshot"
+msgstr "去除屏幕截图的窗口边框"
+
+msgid "Save Screenshot"
+msgstr "保存截图"
+
+msgid "Save images of your screen or individual windows"
+msgstr "将您的屏幕或单个窗口保存为图像"
+
+msgid "Save in _folder:"
+msgstr "保存于文件夹(_F)："
+
+msgid "Save screenshot directly to this file"
+msgstr "将截图直接保存为该文件"
+
+msgid "Screenshot"
+msgstr "截图"
+
+msgid "Screenshot delay"
+msgstr "截图延迟"
+
+msgid "Screenshot directory"
+msgstr "截图目录"
+
+msgid "Screenshot from %s - %d.%s"
+msgstr "%s-%d屏幕截图.%s"
+
+msgid "Screenshot from %s.%s"
+msgstr "%s屏幕截图.%s"
+
+msgid "Screenshot taken"
+msgstr "已截图"
+
+msgid "Screenshot.png"
+msgstr "屏幕截图.png"
+
+msgid "Select _area to grab"
+msgstr "选择一个截取区域(_A)"
+
+msgid "Send the grab directly to the clipboard"
+msgstr "将截图直接发送到剪贴板"
+
+msgid "Take Screenshot"
+msgstr "截图"
+
+msgid "Take _Screenshot"
+msgstr "截图(_S)"
+
+msgid "Take a Screenshot of a Selected Area"
+msgstr "截取选中区域"
+
+msgid "Take a Screenshot of the Current Window"
+msgstr "截取当前窗口"
+
+msgid "Take a Screenshot of the Whole Screen"
+msgstr "截取整个屏幕"
+
+msgid "Take screenshot after specified delay [in seconds]"
+msgstr "在指定延迟后截图[以秒计]"
+
+msgid "The default file type extension for screenshots."
+msgstr "截图的默认文件类型扩展名。"
+
+msgid "The directory where the screenshots will be saved by default."
+msgstr "保存屏幕截图的默认目录。"
+
+msgid "The last directory a screenshot was saved in interactive mode."
+msgstr "上次交互模式下保存屏幕截图的目录。"
+
+msgid "The number of seconds to wait before taking the screenshot."
+msgstr "截图前等候的秒数。"
+
+msgid "Unable to capture a screenshot"
+msgstr "无法截取图像"
+
+msgid "Vintage"
+msgstr "老照片"
+
+msgid "Window-specific screenshot (deprecated)"
+msgstr "对特定窗口截图(废弃)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Name:"
+msgstr "名称(_N)："
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "effect"
+msgstr "特效"
+
+msgid "filename"
+msgstr "文件名"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "snapshot;capture;print;screenshot;"
+msgstr "snapshot;capture;print;截图;抓屏;截屏;捕获;打印;"
+
+msgid "translator-credits"
+msgstr ""
+"Sun G11n <gnome_int_l10n@ireland.sun.com> 2002.\n"
+"Wang Li <charlesw1234@163.com>, 2001.\n"
+"Xiong Jiang <jxiong@offtopic.org>, 2003.\n"
+"Funda Wang <fundawang@linux.net.cn>, 2003-2005.\n"
+"Hinker <hinkerliu@gmail.com>, 2009.\n"
+"chiachen <luojiazhen@gmail.com>, 2011.\n"
+"Aron Xu <happyaron.xu@gmail.com>, 2009, 2011.\n"
+"tuhaihe <1132321739qq@gmail.com>, 2012, 2013.\n"
+"Tong Hui <tonghuix@gmail.com>, 2013.\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Carlos Gong https://launchpad.net/~bfsugxy\n"
+"  Heling Yao https://launchpad.net/~hyao\n"
+"  Icenowy Zheng https://launchpad.net/~icenowy\n"
+"  Luo Lei https://launchpad.net/~luolei\n"
+"  PixelNecro https://launchpad.net/~pixelnecro\n"
+"  Richard Ma https://launchpad.net/~richard-ma\n"
+"  Wang Dianjin https://launchpad.net/~tuhaihe\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  ichaochao https://launchpad.net/~i-chaochao-0\n"
+"  irisgyq https://launchpad.net/~gouyingqiyanxuan321"

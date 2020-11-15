@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xfsprogs\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-11-27 10:38+1100\n"
+"PO-Revision-Date: 2008-02-02 18:18+0000\n"
+"Last-Translator: Tao Wei <weitao1979@gmail.com>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:13+0000\n"
+
+msgid ""
+"\n"
+" flushes a range of bytes in the current memory mapping\n"
+"\n"
+" Writes all modified copies of pages over the specified range (or entire\n"
+" mapping if no range specified) to their backing storage locations.  Also,\n"
+" optionally invalidates so that subsequent references to the pages will be\n"
+" obtained from their backing storage locations (instead of cached copies).\n"
+" -a -- perform asynchronous writes (MS_ASYNC)\n"
+" -i -- invalidate mapped pages (MS_INVALIDATE)\n"
+" -s -- perform synchronous writes (MS_SYNC)\n"
+"\n"
+msgstr ""
+"\n"
+" 将一定范围内的字节数据刷新到当前的内存映射\n"
+"\n"
+" 把指定范围内所有修改过的页面副本 (不具体指定则映射全部) 写到相应的回溯存储单元。\n"
+" 不过，您也可以选择不缓存页面副本，废除页面与回溯存储单元的后续关联性。\n"
+" -a -- 执行异步写入动作 (MS_ASYNC)\n"
+" -i -- 废除页面映射 (MS_INVALIDATE)\n"
+" -s -- 执行同步写入动作 (MS_SYNC)\n"
+"\n"
+
+msgid ""
+"\n"
+" maps a range within the current file into memory\n"
+"\n"
+" Example:\n"
+" 'mmap -rw 0 1m' - maps one megabyte from the start of the current file\n"
+"\n"
+" Memory maps a range of a file for subsequent use by other xfs_io commands.\n"
+" With no arguments, mmap shows the current mappings.  The current mapping\n"
+" can be set by using the single argument form (mapping number or address).\n"
+" If two arguments are specified (a range), a new mapping is created and the\n"
+" following options are available:\n"
+" -r -- map with PROT_READ protection\n"
+" -w -- map with PROT_WRITE protection\n"
+" -x -- map with PROT_EXEC protection\n"
+" If no protection mode is specified, all are used by default.\n"
+"\n"
+msgstr ""
+"\n"
+" 将当前文件内的特定范围域映射到内存\n"
+"\n"
+" 示例：\n"
+" “mmap -rw 0 1m” - 此命令会将当前文件自起始处撷取 1M 字节的数据进行映射\n"
+"\n"
+" 在这里所得的内存映射可以被接下来的其它 xfs_io 命令所利用。\n"
+" 如果不附加参数，mmap 将显示当前的映射镜像。\n"
+" 此映射镜像可使用单一参数形式 (映射数值或地址) 予以分配。\n"
+" 如果同时指定了两个参数 (即范围)，程序会创建一个新的映射镜像。以下列出的是有效选项：\n"
+" -r -- 映射时采用 PROT_READ 保护模式\n"
+" -w -- 映射时采用 PROT_WRITE 保护模式\n"
+" -x -- 映射时采用 PROT_EXEC 保护模式\n"
+" 若不指定以上任一保护模式，默认将选用所有。\n"
+"\n"
+
+msgid ""
+"\n"
+"Use 'help commandname' for extended help.\n"
+msgstr ""
+"\n"
+"使用 “help 命令名” 以获取更动帮助。\n"
+
+msgid "    %*.*o Unwritten preallocated extent\n"
+msgstr "    %*.*o 未写入的预分配区域\n"
+
+msgid " %lld blocks\n"
+msgstr " %lld 个块\n"
+
+msgid " FLAG Values:\n"
+msgstr " FLAG 值：\n"
+
+msgid " at offset %lld\n"
+msgstr " 在偏移  %lld\n"
+
+msgid "%s version %s\n"
+msgstr "%s 版本 %s\n"
+
+msgid "%s:  could not write to logfile \"%s\".\n"
+msgstr "%s:无法写入日志文件\"%s\"。\n"
+
+msgid "%s:  lseek64 error on target %d \"%s\" at offset %lld\n"
+msgstr "%s: 目标 %d \"%s\" 偏移 %lld 发生 lseek64 错误\n"
+
+msgid "%s:  lseek64 failure at offset %lld\n"
+msgstr "%s 在偏移%lld处发生lseek64错误\n"
+
+msgid "%s:  offset was probably %lld\n"
+msgstr "%s : 偏移位置大概为%lld\n"
+
+msgid "%s:  thread %d died unexpectedly, target \"%s\" incomplete\n"
+msgstr "%s: 线程 %d 意外终止, 目标设备 \"%s\" 未完成\n"
+
+msgid "%s:  write error on target %d \"%s\" at offset %lld\n"
+msgstr "%s: 目标 %d \"%s\" 偏移 %lld 发生写入错误\n"
+
+msgid "%s: %s appears to contain a partition table (%s).\n"
+msgstr "%s：%s 内似乎已包含有一个既存的分区表 (%s)。\n"
+
+msgid "%s: %s appears to contain an existing filesystem (%s).\n"
+msgstr "%s：%s 内似乎已包含有一个既存的文件系统 (%s)。\n"
+
+msgid "%s: XFS_IOC_FSGEOMETRY xfsctl failed: %s\n"
+msgstr "%s：XFS_IOC_FSGEOMETRY 操控失败：%s\n"
+
+msgid "%s: XFS_IOC_FSGROWFSDATA xfsctl failed: %s\n"
+msgstr "%s：XFS_IOC_FSGROWFSDATA 操控失败：%s\n"
+
+msgid "%s: XFS_IOC_FSGROWFSLOG xfsctl failed: %s\n"
+msgstr "%s：XFS_IOC_FSGROWFSLOG 操控失败：%s\n"
+
+msgid "%s: XFS_IOC_FSGROWFSRT xfsctl failed: %s\n"
+msgstr "%s：XFS_IOC_FSGROWFSRT 操控失败：%s\n"
+
+msgid "%s: bad chattr command, not +/-X\n"
+msgstr "%s：无效的 chattr 命令，它未遵循 +/-X 语法格式\n"
+
+msgid "%s: bad format string %s\n"
+msgstr "%s：紊乱的格式字符串 %s\n"
+
+msgid "%s: cannot allocate space for file\n"
+msgstr "%s：无法为文件分配空间\n"
+
+msgid "%s: cannot determine geometry of filesystem mounted at %s: %s\n"
+msgstr "%s：无法确定挂载在 %s 上的文件系统的内部信息：%s\n"
+
+msgid "%s: cannot freeze filesystem at %s: %s\n"
+msgstr "%s：无法封结 %s 文件系统：%s\n"
+
+msgid "%s: cannot open %s: %s\n"
+msgstr "%s：无法打开 %s：%s\n"
+
+msgid "%s: cannot read attrs on \"%s\": %s\n"
+msgstr "%s：无法读取“%s”的属性：%s\n"
+
+msgid "%s: cannot realloc %d bytes\n"
+msgstr "%s：无法重现分配 %d 字节空间\n"
+
+msgid "%s: cannot unfreeze filesystem mounted at %s: %s\n"
+msgstr "%s：无法解封挂载在 %s 的文件系统：%s\n"
+
+msgid "%s: failed to access data device for %s\n"
+msgstr "%s：访问 %s 的数据设备失败\n"
+
+msgid "%s: failed to access external log for %s\n"
+msgstr "%s：访问 %s 的外部日志失败\n"
+
+msgid "%s: failed to access realtime device for %s\n"
+msgstr "%s：访问 %s 的实时设备失败\n"
+
+msgid "%s: failed to open %s: %s\n"
+msgstr "%s：打开 %s 失败：%s\n"
+
+msgid "%s: growfs operation in progress already\n"
+msgstr "%s：growfs 操作已正在进行\n"
+
+msgid "%s: log growth not supported yet\n"
+msgstr "%s：尚不支持日志扩充特性\n"
+
+msgid "%s: malloc of %d bytes failed.\n"
+msgstr "%s：尝试分配 %d 字节内存空间失败。\n"
+
+msgid "%s: no extents\n"
+msgstr "%s：无区域\n"
+
+msgid "%s: premature EOF in prototype file\n"
+msgstr "%s：样板文件的结束符超前\n"
+
+msgid "%s: proto file %s premature EOF\n"
+msgstr "%s：样板文件 %s 的结束符超前\n"
+
+msgid "%s: read failed on %s: %s\n"
+msgstr "%s：读取 %s 失败：%s\n"
+
+msgid "%s: realtime growth not implemented\n"
+msgstr "%s：尚未实现实时扩充特性\n"
+
+msgid "%s: specified file [\"%s\"] is not on an XFS filesystem\n"
+msgstr "%s：规格文件 [\"%s\"] 不在 XFS 文件系统上\n"
+
+msgid "%s: unknown flag\n"
+msgstr "%s：未知的标记\n"
+
+msgid ",append-only"
+msgstr ",只可追加"
+
+msgid ",real-time"
+msgstr ",实时"
+
+msgid "0x%lx  %lu pages (%llu : %lu)\n"
+msgstr "0x%lx %lu 个页面 (%llu : %lu)\n"
+
+msgid "Aborting XFS copy - no more targets.\n"
+msgstr "终止 XFS 复制-因为无更多的目标设备\n"
+
+msgid "Aborting XFS copy - reason"
+msgstr "终止XFS复制－原因"
+
+msgid "Aborting XFS copy -- logfile error -- reason: %s\n"
+msgstr "终止 XFS 复制 -- 日志文件错误 -- 原因: %s\n"
+
+msgid "Aborting target %d - reason"
+msgstr "终止目标设备 %d - 原因"
+
+msgid "All copies completed.\n"
+msgstr "全部复制都已完成\n"
+
+msgid "Allocation of the realtime bitmap failed"
+msgstr "分配实时节点位图失败"
+
+msgid "Allocation of the realtime summary failed"
+msgstr "分配实时节点摘要失败"
+
+msgid "Check logfile \"%s\" for more details\n"
+msgstr "更多信息请查看日志文件\"%s\"\n"
+
+msgid "Completion of the realtime bitmap failed"
+msgstr "试图完成实时节点位图创建时失败"
+
+msgid "Completion of the realtime summary failed"
+msgstr "试图完成实时节点摘要创建时失败"
+
+msgid "Directory creation failed"
+msgstr "目录创建失败"
+
+msgid "Due to stripe alignment, the internal log size (%lld) is too large.\n"
+msgstr "根据条码分布显示，内部日志大小 (%lld) 过大。\n"
+
+msgid "Error completing the realtime space"
+msgstr "试图完成实时空间创建时出错"
+
+msgid "Error encountered creating file from prototype file"
+msgstr "从样板文件创建真实文件时出错"
+
+msgid "Error initializing the realtime space"
+msgstr "初始化实时空间出错"
+
+msgid "Inode allocation failed"
+msgstr "节点分配失败"
+
+msgid "Inode pre-allocation failed"
+msgstr "节点预分配失败"
+
+msgid "Must fit within an allocation group.\n"
+msgstr "必须用分配的簇进行填充\n"
+
+msgid "Pre-allocated file creation failed"
+msgstr "预分配文件创建失败"
+
+msgid "Realtime bitmap inode allocation failed"
+msgstr "实时节点位图分配失败"
+
+msgid "Realtime summary inode allocation failed"
+msgstr "实时节点摘要分配失败"
+
+msgid "See \"%s\" for more details.\n"
+msgstr "详细请看\"%s\"\n"
+
+msgid "[-adlpv] [-n nx]"
+msgstr "[-adlpv] [-n nx]"
+
+msgid "[-ais] [off len]"
+msgstr "[-ais] [偏移长度]"
+
+msgid "[-dnrsw] [off len]"
+msgstr "[-dnrsw] [off len]"
+
+msgid "[-drsw] [off len]"
+msgstr "[-drsw] [偏移长度]"
+
+msgid "[-f]"
+msgstr "[-f]"
+
+msgid "[-r] [-S seed] [off len]"
+msgstr "[-r] [-S seed] [偏移长度]"
+
+msgid "[-r] [off len]"
+msgstr "[-r] [偏移长度]"
+
+msgid "[-v]"
+msgstr "[-v]"
+
+msgid "[N]"
+msgstr "[N]"
+
+msgid "[N] | [-rwx] [off len]"
+msgstr "[N] | [-rwx] [偏移长度]"
+
+msgid "[blocks]"
+msgstr "[块数量]"
+
+msgid "[command]"
+msgstr "[命令]"
+
+msgid "[off len]"
+msgstr "[偏移长度]"
+
+msgid "[tag ...]"
+msgstr "[标记 ...]"
+
+msgid "advisory commands for sections of a file"
+msgstr "文件分片通告命令"
+
+msgid "allocates zeroed space for part of a file"
+msgstr "将零字节空间分配为文件块"
+
+msgid "assert error:  buf->length = %d, buf->size = %d\n"
+msgstr "断言错误: buf->length = %d, buf->size = %d\n"
+
+msgid "available reserved blocks = %llu\n"
+msgstr "可用储备块 = %llu\n"
+
+msgid "bad argument count %d to %s, expected %d arguments\n"
+msgstr "参数 %2$s 的数量 %1$d 有误，此处需要 %3$d 个参数。\n"
+
+msgid "bad argument count %d to %s, expected at least %d arguments\n"
+msgstr "参数 %2$s 的数量 %1$d 有误，此处需要至少 %3$d 个参数。\n"
+
+msgid "bad argument count %d to %s, expected between %d and %d arguments\n"
+msgstr "参数 %2$s 的数量 %1$d 有误，此处需要 %3$d 至 %4$d 之间个参数。\n"
+
+msgid "block device"
+msgstr "块设备"
+
+msgid "both data su and data sw options must be specified\n"
+msgstr "必须同时指定数据的 su 和 sw 选项\n"
+
+msgid "both data sunit and data swidth options must be specified\n"
+msgstr "必须同时指定数据的 sunit 和 swidth 选项\n"
+
+msgid "calls fdatasync(2) to flush the files in-core data to disk"
+msgstr "调用 fdatasync(2) 以将所有驻留在核心的文件数据更动操作同步到磁盘"
+
+msgid "calls fsync(2) to flush all in-core file state to disk"
+msgstr "调用 fsync(2) 以将所有驻留在核心的文件状态更动操作同步到磁盘"
+
+msgid "cannot reserve space"
+msgstr "无法储备空间"
+
+msgid "change extended inode flags on the currently open file"
+msgstr "更改当前打开文件的节点扩展属性标记"
+
+msgid "char device"
+msgstr "字符设备"
+
+msgid "close the current open file"
+msgstr "关闭当前打开的文件"
+
+msgid "command \"%s\" not found\n"
+msgstr "命令 “%s” 未找到\n"
+
+msgid "command %s not found\n"
+msgstr "命令 %s 未找到\n"
+
+msgid "data blocks changed from %lld to %lld\n"
+msgstr "数据块尺寸已由 %lld 更改为 %lld\n"
+
+msgid "data size %lld too large, maximum is %lld\n"
+msgstr "数据尺寸 %lld 过大，允许的最大值为 %lld\n"
+
+msgid "data size %lld too small, old size is %lld\n"
+msgstr "数据尺寸 %lld 过小，允许的最小值为 %lld\n"
+
+msgid "data size unchanged, skipping\n"
+msgstr "数据尺寸未改变，已跳过\n"
+
+msgid "data stripe width (%d) must be a multiple of the data stripe unit (%d)\n"
+msgstr "数据条码宽度 sw (%d) 必须是数据条码单元 su (%d) 的倍乘数\n"
+
+msgid "data su must be a multiple of the sector size (%d)\n"
+msgstr "数据条码单元 (su) 必须是扇区大小 (%d) 的倍乘数\n"
+
+msgid "data su/sw must not be used in conjunction with data sunit/swidth\n"
+msgstr "数据 su/sw 选项不能和 sunit/swidth 选项结合使用\n"
+
+msgid "data sunit/swidth must not be used in conjunction with data su/sw\n"
+msgstr "数据 sunit/swidth 不能和 su/sw 选项结合使用\n"
+
+msgid "direct"
+msgstr "直接访问"
+
+msgid "directory"
+msgstr "目录"
+
+msgid "directory create error"
+msgstr "创建目录时出错"
+
+msgid "directory createname error"
+msgstr "创建目录名称时出错"
+
+msgid "error allocating space for a file"
+msgstr "为文件分配空间出错"
+
+msgid "error reserving space for a file"
+msgstr "为文件规划储备空间出错"
+
+msgid "exit the program"
+msgstr "退出程序"
+
+msgid "external"
+msgstr "外部"
+
+msgid "fifo"
+msgstr "fifo 管道"
+
+msgid "find mapping pages that are memory resident"
+msgstr "查找常驻于内存的映射页面"
+
+msgid "flush a region in the current memory mapping"
+msgstr "刷新当前内存映射里指定范围域的数据"
+
+msgid "foreign"
+msgstr "外部的"
+
+msgid "foreign file active, %s command is for XFS filesystems only\n"
+msgstr "打开了一个外部文件，%s 命令只能用于 XFS 文件系统\n"
+
+msgid "frees reserved space associated with part of a file"
+msgstr "释放关联到文件块的储备空间"
+
+msgid "frees space associated with part of a file"
+msgstr "释放关联到文件块的部分空间"
+
+msgid "freeze filesystem of current file"
+msgstr "封结对指定文件系统的访问"
+
+msgid "get and/or set count of reserved filesystem blocks"
+msgstr "获取和/或设定文件系统储备块的数量"
+
+msgid "give advice about use of memory"
+msgstr "给出内存使用状况的通告"
+
+msgid "help for one or all commands"
+msgstr "一个或所有命令的帮助"
+
+msgid "inject errors into a filesystem"
+msgstr "向文件系统注入错误"
+
+msgid "inode max pct unchanged, skipping\n"
+msgstr "节点最大使用率未改变，已跳过\n"
+
+msgid "inode max percent changed from %d to %d\n"
+msgstr "节点最大使用率已由 %d 更改为 %d\n"
+
+msgid "internal"
+msgstr "内部"
+
+msgid "list current open files and memory mappings"
+msgstr "列出当前已打开的文件和内存映射"
+
+msgid "list extended inode flags set on the currently open file"
+msgstr "列出当前打开文件的节点扩展属性标记"
+
+msgid "log blocks changed from %d to %d\n"
+msgstr "日志块尺寸已由 %d 更改为 %d\n"
+
+msgid "log changed from %s to %s\n"
+msgstr "日志位置已由 %s 更改为 %s\n"
+
+msgid "log size unchanged, skipping\n"
+msgstr "日志尺寸未更改，已跳过\n"
+
+msgid "log su should not be used in conjunction with log sunit\n"
+msgstr "日志 su 选项不应和 sunit 选项结合使用\n"
+
+msgid "log sunit should not be used in conjunction with log su\n"
+msgstr "日志 sunit 选项不应和 su 选项结合使用\n"
+
+msgid "lseek64 error"
+msgstr "lseek64 错误"
+
+msgid "mmap a range in the current file, show mappings"
+msgstr "从当前文件中映射出一定范围数据并显示"
+
+msgid "need at least %lld allocation groups\n"
+msgstr "为尺寸 = %lld 分配的簇过少\n"
+
+msgid "need at most %lld allocation groups\n"
+msgstr "需要至少 %lld 个分配簇\n"
+
+msgid "no files are open, try 'help open'\n"
+msgstr "没有指定要打开的文件，请尝试执行 “help open”\n"
+
+msgid "no mapped regions, try 'help mmap'\n"
+msgstr "没有映射区域，请尝试执行 “help mmap”\n"
+
+msgid "no such tag -- %s\n"
+msgstr "无此标记 -- %s\n"
+
+msgid "non-direct"
+msgstr "非直接访问"
+
+msgid "non-numeric argument -- %s\n"
+msgstr "非数值的参数 -- %s\n"
+
+msgid "non-numeric bsize -- %s\n"
+msgstr "非数值的块尺寸 -- %s\n"
+
+msgid "non-numeric extsize argument -- %s\n"
+msgstr "非数值的区域尺寸参数 -- %s\n"
+
+msgid "non-numeric length argument -- %s\n"
+msgstr "非数字的长度参数 -- %s\n"
+
+msgid "non-numeric mode -- %s\n"
+msgstr "非数字的模式号 -- %s\n"
+
+msgid "non-numeric offset argument -- %s\n"
+msgstr "非数字的偏移量参数 -- %s\n"
+
+msgid "non-numeric seed -- %s\n"
+msgstr "非数值的种子数 -- %s\n"
+
+msgid "non-numeric skip -- %s\n"
+msgstr "非数值的跳跃数 -- %s\n"
+
+msgid "non-numeric truncate argument -- %s\n"
+msgstr "非数值的截断参数 -- %s\n"
+
+msgid "non-sync"
+msgstr "非同步"
+
+msgid "none"
+msgstr "无"
+
+msgid "off"
+msgstr "off"
+
+msgid "off len"
+msgstr "偏移长度"
+
+msgid "offset (%lld) is before start of mapping (%lld)\n"
+msgstr "偏移量 (%lld) 超前于映射的起始点 (%lld)\n"
+
+msgid "offset (%lld) is beyond end of mapping (%lld)\n"
+msgstr "偏移量 (%lld) 延后于映射的终结点 (%lld)\n"
+
+msgid "offset address (%p) is not page aligned\n"
+msgstr "偏移量地址 (%p) 没有经过页面校准\n"
+
+msgid "open the file specified by path"
+msgstr "打开由指定路径所定位的文件"
+
+msgid "print block mapping for an XFS file"
+msgstr "输出 XFS 文件系统上的一个文件的块映射"
+
+msgid "range (%lld:%lld) is beyond mapping (%lld:%ld)\n"
+msgstr "范围指标 (%lld:%lld) 延后于映射 (%lld:%ld)\n"
+
+msgid "read-only"
+msgstr "只读"
+
+msgid "read-write"
+msgstr "可读写"
+
+msgid "reads a number of bytes at a specified offset"
+msgstr "在指定的偏移位置读取一组字节数据"
+
+msgid "reads data from a region in the current memory mapping"
+msgstr "从当前内存映射中指定一个区域范围并读出"
+
+msgid "realtime blocks changed from %lld to %lld\n"
+msgstr "实时块尺寸已由 %lld 更改为 %lld\n"
+
+msgid "realtime extent size changed from %d to %d\n"
+msgstr "实时区域尺寸已由 %d 更改为 %d\n"
+
+msgid "realtime size %lld too large, maximum is %lld\n"
+msgstr "实时尺寸 %lld 过大，允许的最大值为 %lld\n"
+
+msgid "realtime size %lld too small, old size is %lld\n"
+msgstr "实时尺寸 %lld 过小，允许的最小值为 %lld\n"
+
+msgid "realtime size unchanged, skipping\n"
+msgstr "实时尺寸未更改，已跳过\n"
+
+msgid "regular file"
+msgstr "一般文件"
+
+msgid "reserved blocks = %llu\n"
+msgstr "储备块 = %llu\n"
+
+msgid "reserves space associated with part of a file"
+msgstr "储备关联到文件块的空间"
+
+msgid "s"
+msgstr "s"
+
+msgid "shuts down the filesystem where the current file resides"
+msgstr "关闭当前文件所驻留的文件系统"
+
+msgid "socket"
+msgstr "套接字"
+
+msgid "statistics on the currently open file"
+msgstr "统计当前打开文件的状态"
+
+msgid "statistics on the filesystem of the currently open file"
+msgstr "统计当前打开文件所属文件系统的状态"
+
+msgid "symbolic link"
+msgstr "符号链接"
+
+msgid "sync"
+msgstr "同步"
+
+msgid "too few allocation groups for size = %lld\n"
+msgstr "为尺寸 = %lld 分配了过多的簇\n"
+
+msgid "too many allocation groups for size = %lld\n"
+msgstr "为尺寸 = %lld 分配的簇过多\n"
+
+msgid "truncates the current file at the given offset"
+msgstr "在给定的偏移量位置截断当前文件"
+
+msgid "unfreeze filesystem of current file"
+msgstr "解封对指定文件系统的访问"
+
+msgid "unmaps the current memory mapping"
+msgstr "撤除当前内存映射"
+
+msgid "write error"
+msgstr "写入错误"
+
+msgid "writes a number of bytes at a specified offset"
+msgstr "在指定的偏移位置写入一组字节数据"
+
+msgid "writes data into a region in the current memory mapping"
+msgstr "向当前内存映射里写入一个区域范围的数据"
+
+msgid "xfs"
+msgstr "xfs"

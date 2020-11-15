@@ -1,0 +1,876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Audacious\n"
+"Report-Msgid-Bugs-To: http://redmine.audacious-media-player.org/\n"
+"POT-Creation-Date: 2015-02-28 19:15+0100\n"
+"PO-Revision-Date: 2014-12-26 02:37+0000\n"
+"Last-Translator: zhangmin <zm1990s@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/audacious/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"(Further messages have been hidden.)"
+msgstr ""
+"\n"
+"（详细信息已隐藏。）"
+
+msgid "%d channel"
+msgid_plural "%d channels"
+msgstr[0] "%d声道"
+
+msgid "%d file found"
+msgid_plural "%d files found"
+msgstr[0] "找到%d个文件"
+
+msgid "%d kb/s"
+msgstr "%d kb/s"
+
+msgid "%s Settings"
+msgstr "%s 设置"
+
+msgid "(character encoding error)"
+msgstr "(字符编码错误)"
+
+msgid "(unknown title)"
+msgstr "(未知标题)"
+
+msgid "1 kHz"
+msgstr "1 kHz"
+
+msgid "125 Hz"
+msgstr "125 Hz"
+
+msgid "16 kHz"
+msgstr "16 kHz"
+
+msgid "2 kHz"
+msgstr "2 kHz"
+
+msgid "250 Hz"
+msgstr "250 Hz"
+
+msgid "31 Hz"
+msgstr "31 Hz"
+
+msgid "4 kHz"
+msgstr "4 kHz"
+
+msgid "500 Hz"
+msgstr "500 Hz"
+
+msgid "63 Hz"
+msgstr "63 Hz"
+
+msgid "8 kHz"
+msgstr "加载"
+
+msgid "<b>Adjust Levels</b>"
+msgstr "<b>调整幅度</b>"
+
+msgid "<b>Advanced</b>"
+msgstr "<b>高级</b>"
+
+msgid "<b>Album Art</b>"
+msgstr "<b>专辑封面</b>"
+
+msgid "<b>Behavior</b>"
+msgstr "<b>行为</b>"
+
+msgid "<b>Compatibility</b>"
+msgstr "<b>兼容性</b>"
+
+msgid "<b>Interface Settings</b>"
+msgstr "<b>界面设置</b>"
+
+msgid "<b>Network Settings</b>"
+msgstr "<b>网络设置</b>"
+
+msgid "<b>Output Settings</b>"
+msgstr "<b>输出设置</b>"
+
+msgid "<b>Popup Information</b>"
+msgstr "<b>弹出信息</b>"
+
+msgid "<b>Proxy Configuration</b>"
+msgstr "<b>代理服务器设置</b>"
+
+msgid "<b>Replay Gain</b>"
+msgstr "<b>播放增益</b>"
+
+msgid "<b>Song Display</b>"
+msgstr "<b>歌曲显示</b>"
+
+msgid "ALBUM - TITLE"
+msgstr "专辑 - 标题"
+
+msgid "ARTIST - ALBUM - TITLE"
+msgstr "艺术家 - 专辑 - 标题"
+
+msgid "ARTIST - ALBUM - TRACK. TITLE"
+msgstr "艺术家 - 专辑 - 曲目号. 标题"
+
+msgid "ARTIST - TITLE"
+msgstr "艺术家 - 标题"
+
+msgid "ARTIST [ ALBUM ] - TRACK. TITLE"
+msgstr "艺术家 [专辑] - 曲目号. 标题"
+
+msgid "About %s"
+msgstr "关于 %s"
+
+msgid "About Audacious"
+msgstr "关于音乐播放器"
+
+msgid "Acid Jazz"
+msgstr "迷幻爵士乐"
+
+msgid "Acid Rock"
+msgstr "酸性摇滚"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add Files"
+msgstr "添加文件"
+
+msgid "Add Folder"
+msgstr "添加文件夹"
+
+msgid "Add URL"
+msgstr "添加URL"
+
+msgid "Add files to a temporary playlist"
+msgstr "添加文件到一个临时播放列表"
+
+msgid "Add files to the playlist"
+msgstr "添加文件到播放列表"
+
+msgid "Advance when the current song is deleted"
+msgstr "歌曲播放中被删除则播放下一首"
+
+msgid "Album"
+msgstr "专辑"
+
+msgid "Album Artist"
+msgstr "专辑艺术家"
+
+msgid "Album mode"
+msgstr "专辑模式"
+
+msgid "Ambient"
+msgstr "氛围音乐"
+
+msgid "Amplify all files:"
+msgstr "应用到文件："
+
+msgid "Amplify untagged files:"
+msgstr "应用到无标签文件："
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+msgid "Artist"
+msgstr "艺术家"
+
+msgid "Audacious"
+msgstr "音乐播放器"
+
+msgid "Audacious Settings"
+msgstr "音乐播放器设置"
+
+msgid "Audio"
+msgstr "音频"
+
+msgid "Audio CD"
+msgstr "音频CD"
+
+msgid "Audio CD, track %s"
+msgstr "音频CD, 音轨 %s"
+
+msgid "Auto character encoding detector for:"
+msgstr "自动检测下列编码："
+
+msgid "Baltic"
+msgstr "波罗的语"
+
+msgid "Bebop"
+msgstr "比波普爵士乐"
+
+msgid "Bit depth:"
+msgstr "位深："
+
+msgid "Bitrate"
+msgstr "比特率"
+
+msgid "Bitrate:"
+msgstr "比特率: "
+
+msgid "Bluegrass"
+msgstr "蓝草音乐"
+
+msgid "Blues"
+msgstr "蓝调"
+
+msgid "Buffer size:"
+msgstr "缓冲大小："
+
+msgid "C_lose on jump"
+msgstr "跳转时关闭 (C)"
+
+msgid "Cannot load %s: unsupported file name extension."
+msgstr "无法载入 %s: 不支持的文件扩展名。"
+
+msgid "Cannot save %s: unsupported file name extension."
+msgstr "无法保存 %s: 不支持的文件扩展名。"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Chamber Music"
+msgstr "室内音乐"
+
+msgid "Chinese"
+msgstr "汉语"
+
+msgid "Classical"
+msgstr "古典"
+
+msgid "Clea_r fields when moving to next song"
+msgstr "当移动到下一首歌时清除此栏 (_r)"
+
+msgid "Clear the playlist when opening files"
+msgstr "打开文件时清空当前播放列表"
+
+msgid "Close _dialog on add"
+msgstr "添加时关闭对话框 (D)"
+
+msgid "Close _dialog on open"
+msgstr "打开时关闭对话框 (D)"
+
+msgid "Codec"
+msgstr "编码"
+
+msgid "Comment"
+msgstr "备注"
+
+msgid "Composer"
+msgstr "作曲"
+
+msgid "Confirm Overwrite"
+msgstr "确定覆盖"
+
+msgid "Country"
+msgstr "乡村音乐"
+
+msgid "Credits"
+msgstr "特别鸣谢"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Custom string:"
+msgstr "自定字符："
+
+msgid "Date"
+msgstr "时间"
+
+msgid "Death Metal"
+msgstr "死亡金属"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Disco"
+msgstr "迪斯科"
+
+msgid "Display the jump-to-song window"
+msgstr "显示曲目选择窗口"
+
+msgid "Display the main window"
+msgstr "显示主界面"
+
+msgid "Do not load metadata for songs until played"
+msgstr "未播放时切勿加载元数据"
+
+msgid "Do you want to permanently remove “%s”?"
+msgstr "你希望完全删除 \"%s\" 吗？"
+
+msgid "Easy Listening"
+msgstr "轻音乐"
+
+msgid "Effect"
+msgstr "音效"
+
+msgid "Enable Replay Gain"
+msgstr "启用播放增益"
+
+msgid "Enable proxy usage"
+msgstr "启用代理服务器"
+
+msgid "Enter URL:"
+msgstr "输入地址"
+
+msgid "Enter time (minutes:seconds):"
+msgstr "输入时间 (分:秒):"
+
+msgid "Equalizer"
+msgstr "均衡器"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error loading plugin"
+msgstr "加载插件出错"
+
+msgid ""
+"Error opening %s:\n"
+"%s"
+msgstr ""
+"打开 %s 时错误：\n"
+"%s"
+
+msgid "Error reading metadata"
+msgstr "读取元数据时出错"
+
+msgid "Exclude images matching these words (comma-separated):"
+msgstr "排除匹配以下词语的图片(用逗号分隔)："
+
+msgid "Export Playlist"
+msgstr "导出播放列表"
+
+msgid "Fallback character encodings:"
+msgstr "备用字符编码："
+
+msgid "File format not recognized"
+msgstr "不识别文件格式"
+
+msgid "File name"
+msgstr "文件名"
+
+msgid "File path"
+msgstr "文件路径"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Filter: "
+msgstr "过滤器："
+
+msgid "Floating point"
+msgstr "浮点"
+
+msgid "Folk"
+msgstr "民谣"
+
+msgid "Format:"
+msgstr "格式: "
+
+msgid "Function"
+msgstr "功能"
+
+msgid "Funk"
+msgstr "放克"
+
+msgid "Gangsta Rap"
+msgstr "匪帮说唱"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Genre"
+msgstr "风格"
+
+msgid "Gospel"
+msgstr "福音音乐"
+
+msgid "Greek"
+msgstr "希腊语"
+
+msgid "Grunge"
+msgstr "垃圾摇滚"
+
+msgid "Hard Rock"
+msgstr "硬摇滚"
+
+msgid "Heavy Metal"
+msgstr "重金属"
+
+msgid "Hebrew"
+msgstr "希伯来语"
+
+msgid "Hip-hop"
+msgstr "嘻哈音乐"
+
+msgid "House"
+msgstr " 浩室舞曲"
+
+msgid "Import Playlist"
+msgstr "导入播放列表"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Input"
+msgstr "输入"
+
+msgid "Interface plugin:"
+msgstr "界面插件: "
+
+msgid "Interpret \\ (backward slash) as a folder delimiter"
+msgstr "说明 \\(反斜杠)作为一个文件夹分隔符"
+
+msgid "Invalid URI"
+msgstr "未知 URI"
+
+msgid "Invalid audio format"
+msgstr "不可用音频格式"
+
+msgid "Invalid file name"
+msgstr "无效的文件名"
+
+msgid "Japanese"
+msgstr "日语"
+
+msgid "Jazz"
+msgstr "爵士"
+
+msgid "Jump to Song"
+msgstr "跳到歌曲"
+
+msgid "Jump to Time"
+msgstr "跳到时间"
+
+msgid "Jungle"
+msgstr "丛林音乐"
+
+msgid "KiB"
+msgstr "KB"
+
+msgid "Korean"
+msgstr "韩语"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "Level"
+msgstr "级别"
+
+msgid "License"
+msgstr "许可"
+
+msgid "Line"
+msgstr "线路"
+
+msgid "Log Inspector"
+msgstr "日志监视器"
+
+msgid "Log Level:"
+msgstr "日志级别："
+
+msgid "MIME Type"
+msgstr "媒体类型"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid "Metal"
+msgstr "金属"
+
+msgid "Mono"
+msgstr "单声道"
+
+msgid "N/A"
+msgstr "不可用"
+
+msgid "Network"
+msgstr "网络"
+
+msgid "New Age"
+msgstr "新世纪"
+
+msgid "New Playlist"
+msgstr "新建播放列表"
+
+msgid "New Wave"
+msgstr "新浪潮"
+
+msgid "No info available for %s.\n"
+msgstr "未找到与‘%s’相关信息。\n"
+
+msgid "Noise"
+msgstr "噪音音乐"
+
+msgid "None"
+msgstr "无"
+
+msgid "Now Playing"
+msgstr "正在播放"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open Files"
+msgstr "打开文件"
+
+msgid "Open Folder"
+msgstr "打开文件夹"
+
+msgid "Open URL"
+msgstr "打开URL"
+
+msgid "Open files in a temporary playlist"
+msgstr "在临时播放列表打开文件"
+
+msgid "Output plugin:"
+msgstr "输出插件："
+
+msgid "Overwrite %s?"
+msgstr "是否覆盖 %s？"
+
+msgid "Pause if playing, play otherwise"
+msgstr "暂停/播放"
+
+msgid "Pause instead of resuming immediately"
+msgstr "立刻暂停，而不是继续播放"
+
+msgid "Pause playback"
+msgstr "暂停播放"
+
+msgid "Performer"
+msgstr "演奏"
+
+msgid "Playlist"
+msgstr "播放列表"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Plugins ..."
+msgstr "插件 ..."
+
+msgid "Polish"
+msgstr "波兰语"
+
+msgid "Pop"
+msgstr "流行"
+
+msgid "Popup delay (tenths of a second):"
+msgstr "弹出延迟 (十分之一秒):"
+
+msgid "Preamp"
+msgstr "前置放大器"
+
+msgid "Prevent clipping (recommended)"
+msgstr "避免爆音（推荐）"
+
+msgid "Print debugging messages (may be used twice)"
+msgstr "打印调试信息 （或许需要使用两次）"
+
+msgid "Probe content of files with no recognized file name extension"
+msgstr "待检测文件包含不能识别的文件扩展名"
+
+msgid "Proxy hostname:"
+msgstr "主机地址："
+
+msgid "Proxy password:"
+msgstr "认证密码："
+
+msgid "Proxy port:"
+msgstr "连接端口："
+
+msgid "Proxy username:"
+msgstr "认证用户："
+
+msgid "Punk Rock"
+msgstr "朋克摇滚乐"
+
+msgid "Quality"
+msgstr "音质"
+
+msgid "Quality:"
+msgstr "音质: "
+
+msgid "Queue Manager"
+msgstr "队列管理器"
+
+msgid "Quit on playback stop"
+msgstr "停止播放时退出"
+
+msgid "Rap"
+msgstr "说唱"
+
+msgid "Recording Date"
+msgstr "录制日期"
+
+msgid "Recording Year"
+msgstr "录制年代"
+
+msgid "Reggae"
+msgstr "雷盖舞曲"
+
+msgid "Remove Playlist"
+msgstr "移除播放列表"
+
+msgid "Rename Playlist"
+msgstr "重命名播放列表"
+
+msgid "Resume playback on startup"
+msgstr "启动时恢复播放"
+
+msgid "Rhythm and Blues"
+msgstr "节奏布鲁斯音乐"
+
+msgid "Rock"
+msgstr "摇滚"
+
+msgid "Rock and Roll"
+msgstr "摇滚乐"
+
+msgid "Run in Qt mode"
+msgstr "以 Qt 模式运行"
+
+msgid "Russian"
+msgstr "俄语"
+
+msgid "Save error"
+msgstr "保存出错"
+
+msgid "Save successful"
+msgstr "保存成功"
+
+msgid "Search depth:"
+msgstr "搜索深度："
+
+msgid "Search for images matching song file name"
+msgstr "搜索匹配歌曲文件名的图片"
+
+msgid "Search for images matching these words (comma-separated):"
+msgstr "搜索匹配以下词语的图片(用逗号分隔)："
+
+msgid "Search recursively"
+msgstr "递归搜索"
+
+msgid "Seek error"
+msgstr "定位错误"
+
+msgid "Show command-line help"
+msgstr "显示命令行帮助"
+
+msgid "Show leading zeroes (02:00 instead of 2:00)"
+msgstr "显示时间前的0（如：显示2:00为02:00）"
+
+msgid "Show popup information"
+msgstr "显示弹出信息"
+
+msgid "Show song numbers"
+msgstr "显示歌曲序号"
+
+msgid "Show time scale for current song"
+msgstr "停止播放"
+
+msgid "Show version"
+msgstr "显示版本信息"
+
+msgid "Ska"
+msgstr "斯卡"
+
+msgid "Skip to next song"
+msgstr "跳至下一曲目"
+
+msgid "Skip to previous song"
+msgstr "跳回上一曲目"
+
+msgid "Soft clipping"
+msgstr "柔性剪峰"
+
+msgid "Song Info"
+msgstr "歌曲信息"
+
+msgid "Soul"
+msgstr "灵魂乐"
+
+msgid "Start playback"
+msgstr "开始播放"
+
+msgid "Start without a graphical interface"
+msgstr "不启动图形界面"
+
+msgid "Stereo"
+msgstr "立体声"
+
+msgid "Stop playback"
+msgstr "停止播放"
+
+msgid "Swing"
+msgstr " 摇摆乐"
+
+msgid "TITLE"
+msgstr "标题"
+
+msgid "Taiwanese"
+msgstr "台语"
+
+msgid "Technical"
+msgstr "技术员"
+
+msgid "Techno"
+msgstr " 电子舞曲"
+
+msgid ""
+"The playlist cannot be sorted because metadata scanning is still in progress"
+" (or has been disabled)."
+msgstr "因正在扫描歌曲信息, 播放列表暂时无法保存."
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Title format:"
+msgstr "标题样式："
+
+msgid "Track"
+msgstr "音轨"
+
+msgid "Track %d"
+msgstr "音轨 %d"
+
+msgid "Track Number"
+msgstr "音轨序号"
+
+msgid "Track number"
+msgstr "音轨序号"
+
+msgid "Transport"
+msgstr "传输"
+
+msgid "Trip-hop"
+msgstr "神游舞曲"
+
+msgid "Turkish"
+msgstr "土耳其语"
+
+msgid "Un_queue"
+msgstr "出列(_q)"
+
+msgid "Unknown URI scheme"
+msgstr "未知 URI 图表"
+
+msgid "Unknown option: %s\n"
+msgstr "未知选项: %s\n"
+
+msgid "Unknown option: -%c\n"
+msgstr "未知选项: -%c\n"
+
+msgid "Unknown playback error"
+msgstr "未知播放错误"
+
+msgid ""
+"Usage: audacious [OPTION] ... [FILE] ...\n"
+"\n"
+msgstr "用法: audacious [选项] ... [文件] ...\n"
+
+msgid "Use authentication with proxy"
+msgstr "代理服务器要求认证"
+
+msgid "Use software volume control (not recommended)"
+msgstr "使用软音量控制（非建议）"
+
+msgid "Visualization"
+msgstr "虚拟效果"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "What would you like to call this playlist?"
+msgstr "你希望如何称呼这个播放列表？"
+
+msgid "Working ..."
+msgstr "进行中..."
+
+msgid "Year"
+msgstr "年份"
+
+msgid "_About"
+msgstr "关于 (A)"
+
+msgid "_Add"
+msgstr "添加 (A)"
+
+msgid "_Cancel"
+msgstr "取消 (C)"
+
+msgid "_Close"
+msgstr "关闭 (C)"
+
+msgid "_Don’t ask again"
+msgstr "不再询问 (D)"
+
+msgid "_Enable"
+msgstr "启用(_E)"
+
+msgid "_Export"
+msgstr "导出(E)"
+
+msgid "_Filter:"
+msgstr "过滤器(_F)："
+
+msgid "_Import"
+msgstr "导入(I)"
+
+msgid "_Jump"
+msgstr "跳至 (J)"
+
+msgid "_Next"
+msgstr "下一首(_N)"
+
+msgid "_Open"
+msgstr "打开 (O)"
+
+msgid "_Overwrite"
+msgstr "覆盖(O)"
+
+msgid "_Plugins ..."
+msgstr "插件... (P)"
+
+msgid "_Queue"
+msgstr "入队(_Q)"
+
+msgid "_Remove"
+msgstr "移除（R)"
+
+msgid "_Rename"
+msgstr "重命名(_R)"
+
+msgid "_Save"
+msgstr "保存 (S)"
+
+msgid "_Set"
+msgstr "设置 (S)"
+
+msgid "_Settings"
+msgstr "设置 (S)"
+
+msgid "_Unqueue"
+msgstr "从队列移除 (U)"
+
+msgid "audacious"
+msgstr "音乐播放器"
+
+msgid "dB"
+msgstr "dB"
+
+msgid "ms"
+msgstr "毫秒"
+
+msgid "music file"
+msgstr "音频文件"

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kubuntu-debug-installer\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-02-19 03:52+0000\n"
+"PO-Revision-Date: 2013-10-10 19:21+0000\n"
+"Last-Translator: Jonathan Riddell <riddell@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:44+0000\n"
+
+msgid "(C) 2010 Harald Sitter"
+msgstr "(C) 2010 Harald Sitter"
+
+msgctxt "@action:button"
+msgid "Install"
+msgstr "安装"
+
+msgctxt "@info"
+msgid ""
+"Do you want to install the following debug packages so that the necessary "
+"debug symbols become available?"
+msgstr "要安装下面的调试包以使必要的调试符号可用吗？"
+
+msgctxt "@info"
+msgid ""
+"No debug packages could be found for the files listed below.\n"
+"Do you want to continue anyway?"
+msgstr ""
+"没有找到对应下列文件的调试包。\n"
+"仍然要继续吗？"
+
+msgctxt "@info Error message"
+msgid "No file paths were provided, so no debug packages could be found."
+msgstr "没有提供文件路径，因而找不到调试包。"
+
+msgctxt "@info:progress"
+msgid "Looking for debug packages"
+msgstr "正在查找调试包"
+
+msgctxt "@title:window"
+msgid "Confirm package installation"
+msgstr "确认安装包"
+
+msgctxt "@title:window"
+msgid "Couldn't find debug packages"
+msgstr "找不到调试包"
+
+msgid "A debug package installer for Kubuntu"
+msgstr "Kubuntu 的一个调试包安装程序"
+
+msgid "Debug package installer"
+msgstr "调试包安装程序"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ",,,,,,,,riddell@gmail.com,,"
+
+msgid "Files to find debug packages for"
+msgstr "要查找调试包的文件"
+
+msgid "Harald Sitter"
+msgstr "Harald Sitter"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+",Launchpad Contributions:,Fengyang Zhang,Wylmer Wang,isaacli, ,Launchpad "
+"Contributions:,Fengyang Zhang,Jonathan Riddell,Wylmer Wang,isaacli"

@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgdata master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=libgdata&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-12-14 23:13+0000\n"
+"PO-Revision-Date: 2014-11-26 14:27+0000\n"
+"Last-Translator: irisgyq <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:39+0000\n"
+
+msgid "A %s element was missing required content."
+msgstr "某个 %s 元素丢失了要求的内容。"
+
+msgid "A '%s' element was missing required content."
+msgstr "某个 %s 元素丢失了要求的内容。"
+
+msgid "A CAPTCHA must be filled out to log in."
+msgstr "要登录，必须填写验证码。"
+
+msgid "A required element (%s) was not present."
+msgstr "一个必需的元素(%s)不存在。"
+
+msgid "A required property of a %s element (%s) was not present."
+msgstr "某个 %s 元素(%s)必需的属性不存在。"
+
+msgid "A singleton element (%s) was duplicated."
+msgstr "一个单独元素(%s)重复了。"
+
+msgid "Access was denied by the user or server."
+msgstr "访问被用户或服务器拒绝。"
+
+msgid "Authentication required: %s"
+msgstr "要求认证：%s"
+
+msgid "Cannot connect to the proxy server."
+msgstr "无法连接到代理服务器。"
+
+msgid "Cannot connect to the service's server."
+msgstr "无法连接到该服务的服务器。"
+
+msgid "Comments may not be added to this entry."
+msgstr "不能向此项添加注释。"
+
+msgid "Empty document."
+msgstr "空的文档。"
+
+msgid "Error code %u when authenticating: %s"
+msgstr "认证时的错误代码 %u：%s"
+
+msgid "Error code %u when deleting an entry: %s"
+msgstr "删除条目时的错误代码 %u：%s"
+
+msgid "Error code %u when downloading: %s"
+msgstr "下载时的错误代码 %u：%s"
+
+msgid "Error code %u when inserting an entry: %s"
+msgstr "插入条目时的错误代码 %u：%s"
+
+msgid "Error code %u when querying: %s"
+msgstr "请求时的错误代码 %u：%s"
+
+msgid "Error code %u when running a batch operation: %s"
+msgstr "在进行批处理操作时的错误代码 %u：%s"
+
+msgid "Error code %u when updating an entry: %s"
+msgstr "更新条目时的错误代码 %u：%s"
+
+msgid "Error code %u when uploading: %s"
+msgstr "上传时的错误代码 %u：%s"
+
+msgid "Error parsing JSON: %s"
+msgstr "解析 JSON 时出错：%s"
+
+msgid "Error parsing XML: %s"
+msgstr "解析 XML 错误：%s"
+
+msgid "Error received from server after uploading a resumable upload chunk."
+msgstr "在上传了可续传的上传块后从服务器处接收到错误"
+
+msgid "Invalid JSON was received from the server: %s"
+msgstr "从服务器处接收到无效的 JSON：%s"
+
+msgid "Invalid redirect URI: %s"
+msgstr "无效的重定向：%s"
+
+msgid ""
+"Invalid request URI or header, or unsupported nonstandard parameter: %s"
+msgstr "无效的请求 URI 或头，或不支持的非标准参数：%s"
+
+msgid "Invalid seek request"
+msgstr "无效的定位请求"
+
+msgid "Outermost JSON node is not an object."
+msgstr "最外面的 JSON 节点不是一个对象。"
+
+msgid "Property '%s' does not hold an image"
+msgstr "属性 '%s' 没有存有图片"
+
+msgid "Query parameter not allowed for albums."
+msgstr "查询参数不允许专辑。"
+
+msgid "Stream is already closed"
+msgstr "流已关闭"
+
+msgid "The album did not have a feed link."
+msgstr "专辑没有反馈链接。"
+
+msgid "The album has already been inserted."
+msgstr "专辑已经插入。"
+
+msgid "The content of a %s element (\"%s\") was not in ISO 8601 format."
+msgstr "某个 %s 元素(“%s”)的内容不是 ISO 8601 格式的。"
+
+msgid "The content of a %s element (\"%s\") was not in hexadecimal RGB format."
+msgstr "某个 %s 元素(“%s”)的内容不是以十六进制 RGB 格式。"
+
+msgid "The content of a %s element (\"%s\") was unknown."
+msgstr "某个 %s 元素(“%s”)的内容未知。"
+
+msgid "The content of a '%s' element (\"%s\") was not in ISO 8601 format."
+msgstr "某个 %s 元素(“%s”)的内容不是 ISO 8601 格式的。"
+
+msgid ""
+"The content type of the supplied document ('%s') could not be recognized."
+msgstr "所提供文档 (\"%s\") 内容类型不能识别"
+
+msgid "The document has already been uploaded."
+msgstr "这个文档已经被上传了。"
+
+msgid "The entry has already been inserted."
+msgstr "此条目已经被插入。"
+
+msgid "The entry has been modified since it was downloaded: %s"
+msgstr "下载之后，此条目更改过：%s"
+
+msgid "The group has already been inserted."
+msgstr "该组已经被插入。"
+
+msgid "The requested resource was not found: %s"
+msgstr "要求的资源未找到：%s"
+
+msgid "The server rejected the temporary credentials request."
+msgstr "服务器拒绝对临时证书的请求。"
+
+msgid "The server returned a malformed response."
+msgstr "服务器返回了一个错误的回应。"
+
+msgid "The value of the %s property of a %s element (\"%s\") was unknown."
+msgstr "某个 %s 元素(“%s”)的 %s 属性的值未知。"
+
+msgid "This account has been deleted. (%s)"
+msgstr "此账户已被删除。(%s)"
+
+msgid "This account has been disabled. (%s)"
+msgstr "此账户已被禁用。(%s)"
+
+msgid ""
+"This account has been migrated. Please log in online to receive your new "
+"username and password. (%s)"
+msgstr "此账户已移动。请登录上线来接收您的新用户和密码。(%s)"
+
+msgid "This account requires an application-specific password. (%s)"
+msgstr "此帐号需要一个应用程序专用口令。(%s)"
+
+msgid "This account's access to this service has been disabled. (%s)"
+msgstr "此账户被禁止访问此服务。(%s)"
+
+msgid "This comment may not be deleted."
+msgstr "此注释不可以被删除。"
+
+msgid "This entry does not support comments."
+msgstr "此项不支持注释。"
+
+msgid "This service is not available at the moment. (%s)"
+msgstr "此服务此时不可用。(%s)"
+
+msgid ""
+"Values were present for properties %s and %s of a %s element when only one "
+"of the two is allowed."
+msgstr "%3$s 元素的 %1$s 和 %2$s 属性只在不同时有效的情况下值才有意义。"
+
+msgid ""
+"You have exceeded your entry quota. Please delete some entries and try "
+"again."
+msgstr "您已经超过了您的条目数限额。请先删除一些条目然后重新尝试。"
+
+msgid ""
+"You have made too many API calls recently. Please wait a few minutes and try"
+" again."
+msgstr "您最近已经产生了太多 API 呼叫。请等待几分钟，然后再重新尝试。"
+
+msgid "You have not agreed to the service's terms and conditions. (%s)"
+msgstr "您尚未同意服务条款和条件。(%s)"
+
+msgid "You must be authenticated to copy documents."
+msgstr "您必须通过认证才能复制文档。"
+
+msgid "You must be authenticated to do this."
+msgstr "您必须通过认证才能这样做。"
+
+msgid "You must be authenticated to download documents."
+msgstr "您必须通过认证才能下载文档。"
+
+msgid "You must be authenticated to insert a group."
+msgstr "您必须通过认证才能插入组。"
+
+msgid "You must be authenticated to insert an album."
+msgstr "您必须通过认证才能插入专辑。"
+
+msgid "You must be authenticated to move documents and folders."
+msgstr "认证后才能移动文档和目录。"
+
+msgid "You must be authenticated to query all calendars."
+msgstr "要查询所有的日历您必须通过认证。"
+
+msgid "You must be authenticated to query all tasklists."
+msgstr "您必须通过认证才能查询全部任务列表。"
+
+msgid "You must be authenticated to query contact groups."
+msgstr "您必须通过认证才能查询联系组。"
+
+msgid "You must be authenticated to query contacts."
+msgstr "您必须通过认证才能查询联系人。"
+
+msgid "You must be authenticated to query documents."
+msgstr "要查询文档您必须通过认证。"
+
+msgid "You must be authenticated to query your own calendars."
+msgstr "要查询您自己的日历您必须通过认证。"
+
+msgid "You must be authenticated to query your own tasks."
+msgstr "您必须通过认证才能查询您自己的任务。"
+
+msgid "You must be authenticated to update documents."
+msgstr "要更新文档您必须通过认证。"
+
+msgid "You must be authenticated to upload a file."
+msgstr "您必须通过认证才能上传一个文件。"
+
+msgid "You must be authenticated to upload a video."
+msgstr "您必须通过认证才能上传视频。"
+
+msgid "You must be authenticated to upload documents."
+msgstr "要上传文档您必须通过认证。"
+
+msgid "You must specify a username or be authenticated to query a user."
+msgstr "您必须指定一个用户名或者通过认证才能查询一个用户。"
+
+msgid "You must specify a username or be authenticated to query all albums."
+msgstr "您必须指定一个用户名或者通过认证来查询所有专辑。"
+
+msgid ""
+"Your Google Account must be associated with a YouTube channel to do this. "
+"Visit %s to create one."
+msgstr "要这样做，您的谷歌帐号必须与某个 YouTube 频道关联。访问 %s 来创建一个。"
+
+msgid "Your account's e-mail address has not been verified. (%s)"
+msgstr "您账户的电子邮件地址尚未验证。(%s)"
+
+msgid "Your username or password were incorrect."
+msgstr "您的用户名和口令错误。"

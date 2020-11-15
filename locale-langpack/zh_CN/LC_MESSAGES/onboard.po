@@ -1,0 +1,1628 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-29 17:10+0000\n"
+"PO-Revision-Date: 2016-04-11 05:23+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:53+0000\n"
+
+msgid "\"Sticky\" mode for keyboard and floating icon."
+msgstr "吸附模式用于键盘和浮动图标。"
+
+msgid "&quot;Sticky&quot; mode for keyboard and floating icon."
+msgstr "&quot;吸附模式&quot;用于键盘和浮动图标。"
+
+msgid ", unassigned"
+msgstr "，未分配"
+
+msgid "0,00"
+msgstr "0,00"
+
+msgid "1 hour"
+msgstr "1 小时"
+
+msgid "1 minute"
+msgstr "1 分钟"
+
+msgid "10 minutes"
+msgstr "10 分钟"
+
+msgid "3 hours"
+msgstr "3 小时"
+
+msgid "30 minutes"
+msgstr "30 分钟"
+
+msgid "5 minutes"
+msgstr "5 分钟"
+
+msgid "<Enter label>"
+msgstr "<输入标签>"
+
+msgid "<Enter text>"
+msgstr "<输入文本>"
+
+msgid ""
+"<big>Onboard failed to open learned word suggestions.</big>\n"
+"\n"
+"The error was:\n"
+"<tt>{}</tt>\n"
+"\n"
+"Revert word suggestions to the last backup (recommended)?"
+msgstr ""
+"<big>屏幕键盘无法打开已学习到的单词建议</big>\n"
+"\n"
+"错误为\n"
+"<tt>{}</tt>\n"
+"\n"
+"是否将单词建议内容回滚为最近备份（推荐）？"
+
+msgid ""
+"<big>Onboard failed to open learned word suggestions.</big>\n"
+"\n"
+"The error was:\n"
+"<tt>{}</tt>\n"
+"\n"
+"The suggestions have to be reset, but the erroneous file will remain at \n"
+"'{}'"
+msgstr ""
+"<big>屏幕键盘无法打开已学习到的单词建议</big>\n"
+"\n"
+"错误为：\n"
+"<tt>{}</tt>\n"
+"\n"
+"必须重置单词建议设置，错误文件将被保存在 \n"
+"'{}'"
+
+msgid "AT-SPI"
+msgstr "AT-SPI"
+
+msgid "About Layout"
+msgstr "关于布局"
+
+msgid "Action"
+msgstr "动作"
+
+msgid "Action:"
+msgstr "动作："
+
+msgid "Activate"
+msgstr "活动"
+
+msgid "Activate Hover Click"
+msgstr "激活悬停单击"
+
+msgid "Active Monitor"
+msgstr "激活屏幕"
+
+msgid ""
+"Add and remove spaces when inserting word suggestions followed by "
+"punctuation characters."
+msgstr "当插入的拼写后存在标点符号时自动添加或移除空格。"
+
+msgid "Advanced"
+msgstr "高级选项"
+
+msgid "All corners and edges"
+msgstr "所有边角"
+
+msgid "Allow multiple Onboard instances"
+msgstr "允许多个屏幕键盘实例"
+
+msgid "Alphanumeric keys"
+msgstr "数字和字母键"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alt Gr"
+msgstr "Alt Gr"
+
+msgid ""
+"Always enable the system-provided hover click window when exiting Onboard."
+msgstr "退出屏幕键盘时总是启动系统提供的悬停单击窗口。"
+
+msgid "Angry face"
+msgstr "生气表情"
+
+msgid ""
+"AppIndicater (default) is recommend for broadest compatibility. "
+"GtkStatusIcon isn't supported well anymore by various desktop environments, "
+"but allows to show Onboard on left click. Requires restart."
+msgstr ""
+"推荐使用 AppIndicater (默认) 以保持广泛的兼容性。GtkStatusIcon 虽然已经不再受到许多桌面环境的支持，但仍然可以通过左键调出"
+" 屏幕键盘。更改设置需要重启。"
+
+msgid "AppIndicator"
+msgstr "应用图标"
+
+msgid "Arrows"
+msgstr "箭头"
+
+msgid "Astonished face"
+msgstr "惊讶表情"
+
+msgid "Author: {}"
+msgstr "作者：{}"
+
+msgid "Auto-capitalize while typing"
+msgstr "输入时自动首字母大写"
+
+msgid "Auto-correct spelling"
+msgstr "自动纠正拼写"
+
+msgid "Auto-correction"
+msgstr "自动纠正"
+
+msgid "Auto-hide"
+msgstr "自动隐藏"
+
+msgid "Auto-show settings"
+msgstr "自动显示设置"
+
+msgid "Automatic scan for 1 switch"
+msgstr "当使用一个开关时自动扫描按键"
+
+msgid "Automatically capitalize sentence begins and name words."
+msgstr "自动大写句首字母和专有名词。"
+
+msgid "Automatically correct the last word."
+msgstr "自动纠正最近输入的词。"
+
+msgid "B_order width:"
+msgstr "边框宽度(_O)："
+
+msgid "Backtrack _steps:"
+msgstr "回溯步数(_S):"
+
+msgid "Beamed eighth note"
+msgstr "八分音符"
+
+msgid "Behavior of modifier and layer keys."
+msgstr "修饰按键和层级按键行为。"
+
+msgid "Bold"
+msgstr "粗体"
+
+msgid "Bottom"
+msgstr "底部"
+
+msgid "Button"
+msgstr "按钮"
+
+msgid "Button Label"
+msgstr "按钮标签"
+
+msgid "Button Number"
+msgstr "按钮编号"
+
+msgid "Buttons"
+msgstr "按钮"
+
+msgid "CAPS"
+msgstr "CAPS"
+
+msgid "C_ustomize theme"
+msgstr "自定义主题(_U)"
+
+msgid "Change Onboard settings"
+msgstr "更改屏幕键盘设置"
+
+msgid "Check spelling of the word at or before the cursor."
+msgstr "检查鼠标位置及其之前的拼写。"
+
+msgid ""
+"Choose &apos;XInput&apos; for more reliable typing into text entries with "
+"pop-up selections. The &apos;GTK&apos; option offers better compatibility, "
+"but typing may fail in the presence of pointer grabs, e.g. with open pop-up "
+"windows."
+msgstr ""
+"选择 &apos;XInput&apos; 以便更可靠地进行输入和文字选择操作。而 &apos;GTK&apos; "
+"选项拥有更好的兼容性，但存在光标捕获时可能会输入失败，比如对弹出窗口。"
+
+msgid ""
+"Choose 'XInput' for more reliable typing into text entries with pop-up "
+"selections. The 'GTK' option offers better compatibility, but typing may "
+"fail in the presence of pointer grabs, e.g. with open pop-up windows."
+msgstr "选择 XInput 以便更可靠地进行输入和文字选择操作。而 GTK 选项拥有更好的兼容性，但存在光标捕获时可能会输入失败，比如对弹出窗口。"
+
+msgid ""
+"Choose between key-repeat or long-press menus. Mainly affects alpha-numeric "
+"keys."
+msgstr "在重复按键或长按菜单中选择。主要影响键盘和数字按键。"
+
+msgid "Chose how the keyboard window moves when a text entry is activated."
+msgstr "选择文本框激活时，如何移动虚拟键盘窗口。"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Color Sche_me"
+msgstr "色彩方案(_M)"
+
+msgid "Color scheme for theme '{filename}' not found"
+msgstr "主题 '{filename}' 的色彩方案未找到"
+
+msgid "Condensed"
+msgstr "压缩"
+
+msgid "Confounded face"
+msgstr "困惑表情"
+
+msgid "Constrain window size to the layout&apos;s aspect ratio."
+msgstr "根据布局和纵横比保持窗口尺寸"
+
+msgid "Constrain window size to the layout's aspect ratio."
+msgstr "将窗口尺寸限为布局的宽高比。"
+
+msgid "Contributions"
+msgstr "贡献内容"
+
+msgid "Copy layout '{}' to this new name:"
+msgstr "复制布局 '{}' 的配置信息："
+
+msgid "Core layouts"
+msgstr "核心布局"
+
+msgid "Corners"
+msgstr "仅四角"
+
+msgid "Critical overscan for 1 switch"
+msgstr "使用一个开关时记录扫描历史"
+
+msgid "Crying face"
+msgstr "哭泣表情"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Customize Theme"
+msgstr "自定义主题"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay between keystrokes in milliseconds:"
+msgstr "按键延迟 (毫秒)："
+
+msgid "Delay in seconds until the inactive transparency takes effect."
+msgstr "在非活动透明生效前延迟的描述。"
+
+msgid "Delete layout '{}'?"
+msgstr "删除布局 '{}'?"
+
+msgid "Delete selected theme?"
+msgstr "删除选中主题？"
+
+msgid "Description"
+msgstr "介绍"
+
+msgid "Desktop Integration"
+msgstr "桌面集成"
+
+msgid "Desktop keyboard with edit and function keys"
+msgstr "带有编辑和功能按键的桌面键盘"
+
+msgid "Directed scan for 3 or 5 switches"
+msgstr "当使用三到五个开关时进行定向扫描"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Disappointed face"
+msgstr "失望表情"
+
+msgid "Dish"
+msgstr "巧克力键盘"
+
+msgid "Distance in pixels before movement will be recognized."
+msgstr "触发动作识别的像素数。"
+
+msgid "Dizzy face"
+msgstr "眩晕表情"
+
+msgid "Do you want to use this device for keyboard scanning?"
+msgstr "确定使用这个设备扫描键盘？"
+
+msgid "Dock the keyboard to the edge of the screen."
+msgstr "将键盘固定到屏幕边缘"
+
+msgid "Dock to monitor:"
+msgstr "固定到屏幕："
+
+msgid "Dock to screen edge"
+msgstr "固定到屏幕边缘"
+
+msgid "Dock to screen edge:"
+msgstr "贴靠到屏幕边缘："
+
+msgid "Docking"
+msgstr "固定"
+
+msgid "Docking settings"
+msgstr "贴靠设置"
+
+msgid "Don't remember new words"
+msgstr "不记忆新单词"
+
+msgid "Double click"
+msgstr "双击"
+
+msgid "Down"
+msgstr "下"
+
+msgid "Drag click"
+msgstr "拖拽点击"
+
+msgid ""
+"Duplicate key_id '{}' found in color scheme file. Key_ids must occur only "
+"once."
+msgstr "配色风格文件中存在重复的 key_id '{}'，Key_id 应当只出现一次。"
+
+msgid "Edit snippet #{}"
+msgstr "编辑片段 #{}"
+
+msgid "Enable  keyboard _scanning"
+msgstr "启用键盘扫描(_S)"
+
+msgid "Enable click type window on exit"
+msgstr "退出时打开按键输入窗口"
+
+msgid "Enable inactive transparency. Requires compositing."
+msgstr "启用非活动状态半透明显示。需要窗口混成。"
+
+msgid "Enable word completion and prediction."
+msgstr "打开自动补全和联想输入。"
+
+msgid ""
+"Enabling auto-show requires Gnome Accessibility.\n"
+"\n"
+"Onboard can turn on accessiblity now, however it is recommended that you log out and back in for it to reach its full potential.\n"
+"\n"
+"Enable accessibility now?"
+msgstr ""
+"自动显示功能需要 GNOME 辅助功能。\n"
+"\n"
+"屏幕键盘可以立即启动辅助功能，但我们仍然建议您注销并重新登录以确保不受潜在问题影响。\n"
+"\n"
+"要现在启动辅助功能吗？"
+
+msgid "End"
+msgstr "End"
+
+msgid "Ent"
+msgstr "回车"
+
+msgid "Enter a name for the new theme:"
+msgstr "为新主题输入一个名称："
+
+msgid "Enter a new snippet for button #{}:"
+msgstr "为 #{} 键输入新的片段："
+
+msgid "Envelope"
+msgstr "信封"
+
+msgid "Error loading color scheme '{filename}'. {exception}: {cause}"
+msgstr "加载配色方案时发生错误 '{filename}'. {exception}: {cause}"
+
+msgid "Error loading theme '{filename}'. {exception}: {cause}"
+msgstr "加载主题时发生错误 '{filename}'. {exception}: {cause}"
+
+msgid "Error saving "
+msgstr "保存错误 "
+
+msgid "Esc"
+msgstr "Esc 键"
+
+msgid "Expand keyboard to the width of the workarea."
+msgstr "将键盘扩展到工作区宽度"
+
+msgid "Expand on landscape screens"
+msgstr "屏幕处于横向状态时扩展键盘"
+
+msgid "Expand on portrait screens"
+msgstr "屏幕处于纵向状态时扩展键盘"
+
+msgid "Face savouring delicious food"
+msgstr "吐舌笑脸"
+
+msgid "Face throwing a kiss"
+msgstr "飞吻表情"
+
+msgid "Face with stuck-out tongue and tightly closed eyes"
+msgstr "闭眼吐舌"
+
+msgid "Face with stuck-out tongue and winking eye"
+msgstr "眯眼吐舌"
+
+msgid "Failed to execute '{}', {}"
+msgstr "执行 '{}', {} 失败"
+
+msgid "Failed to get gsettings value. "
+msgstr "获取 gsettings 值失败。 "
+
+msgid "Failed to load language model '{}': {} ({})"
+msgstr "无法加载语言模型 '{}': {} ({})"
+
+msgid "Failed to read system defaults. "
+msgstr "读取系统默认值失败。 "
+
+msgid "Female sign"
+msgstr "女性"
+
+msgid "Flat"
+msgstr "平铺"
+
+msgid "Flexible onscreen keyboard for GNOME"
+msgstr "灵活的 GNOME 屏幕键盘"
+
+msgid "Floating Window Options"
+msgstr "浮动窗口选项"
+
+msgid "Flushed face"
+msgstr "激动表情"
+
+msgid "Follow _system theme"
+msgstr "使用系统主题(_S)"
+
+msgid "Follow the active window"
+msgstr "跟随活动窗口的设置"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Found system default '[{}] {}={}'"
+msgstr "已找到系统默认值 '[{}] {}={}'"
+
+msgid "Frowning face"
+msgstr "皱眉"
+
+msgid "Function keys"
+msgstr "功能键"
+
+msgid "GTK"
+msgstr "GTK"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Gradient"
+msgstr "渐变"
+
+msgid "Gradients"
+msgstr "渐变"
+
+msgid "Greek"
+msgstr "希腊语"
+
+msgid "Grid of keys, suitable for keyboard scanning"
+msgstr "按键以网格状排列，以方便键盘扫描"
+
+msgid "GtkStatusIcon"
+msgstr "Gtk状态图标"
+
+msgid "Hide Onboard"
+msgstr "隐藏屏幕键盘"
+
+msgid ""
+"Hide Onboard when any key is pressed on a physical keyboard. Requires input "
+"event source \"XInput\"."
+msgstr "按下物理键盘时隐藏屏幕键盘。需要支持“XInput”输入事件源。"
+
+msgid "Hide hover click window"
+msgstr "隐藏悬停按键窗口"
+
+msgid "Hide keyboard"
+msgstr "隐藏键盘"
+
+msgid "Hide the system-provided hover click window while Onboard is running."
+msgstr "屏幕键盘运行时隐藏系统提供的悬停单击窗口。"
+
+msgid "Hm"
+msgstr "Home"
+
+msgid "Hot beverage"
+msgstr "热饮"
+
+msgid "Hover Click"
+msgstr "悬停单击"
+
+msgid "I_ndependent size"
+msgstr "独立大小(_N)"
+
+msgid "Ignoring key '{}'. No svg filename defined."
+msgstr "忽略键 '{}'。未定义 svg 文件名。"
+
+msgid ""
+"Increase this if key-strokes get lost when inserting word suggestions or "
+"snippets into Firefox or other Gtk-2 applications. Has no effect on Gtk-3 "
+"applications."
+msgstr "如果在 Firefox 等 Gtk-2 应用中输入单词建议或片段时发生按键丢失的问题，请增大该参数。此参数对 Gtk-3 应用没有作用。"
+
+msgid "Input Device"
+msgstr "输入设备"
+
+msgid "Input Options"
+msgstr "输入选项"
+
+msgid "Ins"
+msgstr "Ins"
+
+msgid "Insert word _separators"
+msgstr "插入分词符(_S)"
+
+msgid "International character selection"
+msgstr "国际字符选择"
+
+msgid "Italic"
+msgstr "斜体"
+
+msgid "Keep _aspect ratio"
+msgstr "保持宽高比(_A)"
+
+msgid "Keep aspect ratio when resizing the window"
+msgstr "重设窗口尺寸时保持纵横比"
+
+msgid "Key Behavior"
+msgstr "按键行为"
+
+msgid "Key Behaviour"
+msgstr "按键行为"
+
+msgid "Key Labels"
+msgstr "按键标签"
+
+msgid "Key Style"
+msgstr "按键风格"
+
+msgid "Key-press Feedback"
+msgstr "按键反馈"
+
+msgid "Key-repeat"
+msgstr "按键重复"
+
+msgid "Keyboard"
+msgstr "键盘"
+
+msgid "Keyboard Movement"
+msgstr "键盘移动"
+
+msgid "Keyboard Scanning"
+msgstr "键盘扫描"
+
+msgid ""
+"Keyboard layout with Greek literals, arrows and more, for math and physics "
+"education on an interactive Whiteboard."
+msgstr "带有希腊字母的键盘布局，用于数学、物理学等学科的交互式白板演示。"
+
+msgid ""
+"Keyboard layout with Greek literals, arrows and more, for math and physics education on an interactive Whiteboard.\n"
+"This layout places all keys on a single, very wide layer."
+msgstr ""
+"带有希腊字母、箭头和其它符号的键盘布局，用于数学和物理学等学科的交互式白板教学。\n"
+"此布局中，所有按键位于同一个较宽的层中。"
+
+msgid "Keys"
+msgstr "按键"
+
+msgid "Keystroke Generation"
+msgstr "按键生成"
+
+msgid "Keystroke _generation:"
+msgstr "按键生成(_G)："
+
+msgid "Kissing face with closed eyes"
+msgstr "闭眼亲吻"
+
+msgid "Label Override"
+msgstr "标签覆盖"
+
+msgid "Labels"
+msgstr "标签"
+
+msgid "Last quarter moon"
+msgstr "半月"
+
+msgid "Latch only"
+msgstr "仅上档"
+
+msgid "Latch, double-click to lock"
+msgstr "上档，双击锁定"
+
+msgid "Latch, then lock"
+msgstr "上档，然后锁定"
+
+msgid "Layout"
+msgstr "布局"
+
+msgid "Layout file ({}) or name"
+msgstr "键盘布局文件 ({}) 或文件名"
+
+msgid "Learning"
+msgstr "学习"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Light Direction"
+msgstr "光线方向"
+
+msgid ""
+"Loading legacy color scheme format '{old_format}', please consider upgrading"
+" to current format '{new_format}': '{filename}'"
+msgstr ""
+"加载旧配色风格文件 '{old_format}'，建议您升级到当前的新配色风格文件 '{new_format}': '{filename}'"
+
+msgid ""
+"Loading legacy layout, format '{}'. Please consider upgrading to current "
+"format '{}'"
+msgstr "加载 '{}' 格式的旧布局文件，请考虑升级至 '{}' 格式文件。"
+
+msgid "Loading system defaults from {filename}"
+msgstr "从 {filename} 加载系统默认值"
+
+msgid "Loading theme from '{}'"
+msgstr "从 '{}' 加载主题"
+
+msgid "Lock only"
+msgstr "仅锁定"
+
+msgid "Looking for system defaults in {paths}"
+msgstr "在 {paths} 中寻找系统默认值"
+
+msgid "Main keyboard"
+msgstr "主键盘"
+
+msgid "Male sign"
+msgstr "男性"
+
+msgid "Mapping"
+msgstr "键位"
+
+msgid "Medium size desktop keyboard"
+msgstr "中等尺寸桌面键盘"
+
+msgid "Menu"
+msgstr "菜单键"
+
+msgid "Middle click"
+msgstr "中键单击"
+
+msgid "Migrating user directory '{}' to '{}'."
+msgstr "正在将用户目录从 '{}' 迁移到'{}'。"
+
+msgid "Mobile keyboard for small screens"
+msgstr "适用于小屏幕的移动设备键盘"
+
+msgid "Modifier _behavior:"
+msgstr "修饰键行为(_B)："
+
+msgid "Modifier auto-release after hide in seconds:"
+msgstr "隐藏后修饰键自动松开的延迟时间 (秒)："
+
+msgid "Modifier auto-release delay in seconds:"
+msgstr "修饰键自动松开的延迟时间(秒)："
+
+msgid "Monitor 0"
+msgstr "屏幕 0"
+
+msgid "Monitor 1"
+msgstr "屏幕 1"
+
+msgid "Monitor 2"
+msgstr "屏幕 2"
+
+msgid "Monitor 3"
+msgstr "屏幕 3"
+
+msgid "Monitor 4"
+msgstr "屏幕 4"
+
+msgid "Monitor 5"
+msgstr "屏幕 5"
+
+msgid "Monitor 6"
+msgstr "屏幕 6"
+
+msgid "Monitor 7"
+msgstr "屏幕 7"
+
+msgid "Monitor 8"
+msgstr "屏幕 8"
+
+msgid "More suggestions"
+msgstr "更多建议"
+
+msgid "Move Onboard"
+msgstr "移动屏幕键盘"
+
+msgid "Move keyboard"
+msgstr "移动键盘"
+
+msgid "Movement only"
+msgstr "仅移动"
+
+msgid "Must be an integer number"
+msgstr "必须是整数"
+
+msgid "My layouts"
+msgstr "我的布局"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Neutral face"
+msgstr "平静表情"
+
+msgid "New Input Device"
+msgstr "新的输入设备"
+
+msgid "New snippet"
+msgstr "新的片段"
+
+msgid "Nm&#10;Lk"
+msgstr "Nm&#10;Lk"
+
+msgid "No system defaults found."
+msgstr "没有找到系统默认值"
+
+msgid "None"
+msgstr "无"
+
+msgid "Number block and function keys"
+msgstr "数字键盘和功能键"
+
+msgid "Number block and snippets"
+msgstr "数字键盘和片段"
+
+msgid "Onboard"
+msgstr "屏幕键盘"
+
+msgid "Onboard Preferences"
+msgstr "屏幕键盘-首选项"
+
+msgid "Onboard Settings"
+msgstr "屏幕键盘设置"
+
+msgid "Onboard has detected a new input device"
+msgstr "屏幕键盘检测到一个新的输入设备"
+
+msgid ""
+"Onboard is configured to appear with the dialog to unlock the screen; for example to dismiss the password-protected screensaver.\n"
+"\n"
+"However the system is not configured anymore to use Onboard to unlock the screen. A possible reason can be that another application configured the system to use something else.\n"
+"\n"
+"Would you like to reconfigure the system to show Onboard when unlocking the screen?"
+msgstr ""
+"屏幕键盘可以用来显示对话框以解锁屏幕。例如用来取消带密码的屏幕保护程序等。\n"
+"\n"
+"但是当前系统配置下屏幕键盘无法用于解锁屏幕，这可能是因为有另一个程序对系统进行了与屏幕键盘相冲突的配置。\n"
+"\n"
+"是否要重新配置系统，以便使用屏幕键盘解锁屏幕？"
+
+msgid ""
+"Onboard is configured to appear with the dialog to unlock the screen; for example to dismiss the password-protected screensaver.\n"
+"\n"
+"However this function is disabled in the system.\n"
+"\n"
+"Would you like to activate it?"
+msgstr ""
+"屏幕键盘被设置成随解锁屏幕对话框一起显示，例如通过这种方式可以解除受密码保护的屏保。\n"
+"\n"
+"但是当前系统禁用了这个功能。\n"
+"\n"
+"您希望激活这个功能吗？"
+
+msgid "Onboard on-screen keyboard"
+msgstr "屏幕键盘"
+
+msgid "Onboard onscreen keyboard"
+msgstr "屏幕键盘"
+
+msgid "Onboard onscreen keyboard settings"
+msgstr "屏幕键盘设置"
+
+msgid ""
+"Once hidden by a physical key-press, auto-show is paused. Select the pause "
+"duration here."
+msgstr "按下物理键盘导致虚拟键盘隐藏时，自动显示会被暂停。在此选择暂停时长。"
+
+msgid "Only move when necessary"
+msgstr "仅在必要时移动"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Other _Languages"
+msgstr "其他语言(_L)"
+
+msgid ""
+"Override auto-detection and manually select quirks\n"
+"QUIRKS={metacity|compiz|mutter}"
+msgstr ""
+"手动选择窗口管理器覆盖自动探测结果 \n"
+"QUIRKS={metacity|compiz|mutter}"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Pause learning"
+msgstr "停止学习"
+
+msgid "Peace symbol"
+msgstr "和平"
+
+msgid "Persevering face"
+msgstr "坚忍表情"
+
+msgid "Pg&#10;Dn"
+msgstr "Pg&#10;Dn"
+
+msgid "Pg&#10;Up"
+msgstr "Pg&#10;Up"
+
+msgid "Place sound in space"
+msgstr "在空间中放置声音"
+
+msgid ""
+"Place sound in space between speakers depending on the key's position on "
+"screen"
+msgstr "根据屏幕上键的位置放置声音空间至扬声器之间"
+
+msgid "Play click sound on keypress."
+msgstr "在按键时播放音效。"
+
+msgid "Play sound"
+msgstr "播放声音"
+
+msgid "Pouting face"
+msgstr "撅嘴表情"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Press a button..."
+msgstr "按任意键..."
+
+msgid "Press a key..."
+msgstr "按任意键..."
+
+msgid "Previous suggestions"
+msgstr "先前的建议"
+
+msgid "Primary Monitor"
+msgstr "主屏幕"
+
+msgid "Prnt"
+msgstr "Print"
+
+msgid "Profiles"
+msgstr "配置"
+
+msgid "Progress the highlight only while the switch is held down."
+msgstr "仅在开关被持续按下时前进扫描"
+
+msgid "Push button"
+msgstr "开关"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Quit Keyboard"
+msgstr "退出键盘"
+
+msgid "Quit Onboard"
+msgstr "退出屏幕键盘程序"
+
+msgid "R_oundness:"
+msgstr "圆度(_O)"
+
+msgid "Radioactive sign"
+msgstr "辐射"
+
+msgid ""
+"Remember new words, their recency and frequency to improve the suggestions "
+"over time."
+msgstr "记住新词组及其频率和输入时间，以提高自动联想精确度。"
+
+msgid "Remember nothing"
+msgstr "不记忆"
+
+msgid "Remember what Onboard theme was last used for every system theme."
+msgstr "记住与每个系统主题所对应使用的屏幕键盘主题。"
+
+msgid "Remove '{}' everywhere."
+msgstr "删除 '{}' (所有)。"
+
+msgid "Remove '{}' only where it occures after '{}'."
+msgstr "删除 '{}' (紧随 '{}' 出现的)。"
+
+msgid "Remove '{}' only where it occures after numbers."
+msgstr "删除 '{}' (紧随数字出现的)。"
+
+msgid "Remove '{}' only where it occures at sentence begin."
+msgstr "删除 '{}' (出现在句首的)。"
+
+msgid "Remove '{}' only where it occures at text begin."
+msgstr "删除 '{}' (出现在文本首的)。"
+
+msgid "Remove word suggestion"
+msgstr "删除单词建议"
+
+msgid "Reset selected theme to Onboard defaults?"
+msgstr "将选中主题重置为屏幕键盘默认设置？"
+
+msgid "Resize Protection"
+msgstr "缩放保护"
+
+msgid "Return"
+msgstr "回车"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Right click"
+msgstr "右击"
+
+msgid "S_ize:"
+msgstr "大小(_I)："
+
+msgid "S_nippet:"
+msgstr "片段(_N)："
+
+msgid "Sc_an cycles:"
+msgstr "扫描周期(_A)："
+
+msgid "Sc_anner Settings"
+msgstr "扫描设置(_A)"
+
+msgid "Scanner Settings"
+msgstr "扫描仪设置"
+
+msgid "Scroll"
+msgstr "Scroll"
+
+msgid ""
+"Seconds of inactivity until active modifiers and layer keys are released. 0 "
+"to disable."
+msgstr "修饰键或层级键松开前的静默时间。0 为禁用此功能。"
+
+msgid "Select a scanning _profile:"
+msgstr "选择扫描配置："
+
+msgid "Set _transparency to"
+msgstr "设置透明度为"
+
+msgid "Set and Settings"
+msgstr "设置选项"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Shadow"
+msgstr "阴影"
+
+msgid ""
+"Show Onboard when the dialog to unlock the screen appears; this way Onboard "
+"can be used for example to enter the password to dismiss the screensaver "
+"when it is set to ask for it."
+msgstr "当出现解锁屏幕的对话时显示屏幕键盘。这样屏幕键盘可以在必要时用于退出屏幕保护程序，并输入密码"
+
+msgid ""
+"Show Onboard when there is a recognized text window in focus. Requires Gnome"
+" Accessibility."
+msgstr "当焦点窗口中存在可识别文本时，需要 GNOME 辅助功能。"
+
+msgid "Show _suggestions"
+msgstr "显示建议(_S)"
+
+msgid "Show _tooltips"
+msgstr "显示工具提示(_T)"
+
+msgid "Show a button for language selection."
+msgstr "显示语言选择按钮"
+
+msgid ""
+"Show a floating icon on the desktop when Onboard is hidden. A click on the "
+"icon makes Onboard reappear."
+msgstr "当屏幕键盘隐藏时在桌面上显示浮动图标。单击该图标可重新显示屏幕键盘。"
+
+msgid "Show always on visible _workspace"
+msgstr "总在可见的工作区显示(_W)"
+
+msgid "Show button to pause learning"
+msgstr "显示停止学习按钮"
+
+msgid "Show characters reachable with or without the shift key."
+msgstr "显示可用字符。"
+
+msgid "Show floating _icon when Onboard is hidden"
+msgstr "当屏幕键盘隐藏时显示浮动图标(_I)"
+
+msgid "Show label popups"
+msgstr "显示弹窗标签"
+
+msgid "Show label popups above pressed keys."
+msgstr "在所按下的键上方显示弹窗标签。"
+
+msgid "Show lan_guage switcher"
+msgstr "显示语言切换器(_G)"
+
+msgid "Show more suggestions arrow"
+msgstr "显示更多建议的箭头"
+
+msgid "Show secondary labels"
+msgstr "显示二级标签"
+
+msgid "Show spelling suggestions"
+msgstr "显示拼写建议"
+
+msgid "Show the desktop through the gaps between keys."
+msgstr "在键之间的空隙处显示桌面。"
+
+msgid "Show the status item. A click on that icon hides or shows Onboard."
+msgstr "显示状态项。单击该图标可隐藏或显示屏幕键盘。"
+
+msgid "Show tooltips for the keyboard&apos;s buttons."
+msgstr "显示键盘按键的工具提示。"
+
+msgid "Show tooltips for the keyboard's buttons."
+msgstr "显示键盘按键的工具提示。"
+
+msgid "Show when _unlocking the screen"
+msgstr "解锁屏幕时显示(_U)"
+
+msgid "Show window _decoration"
+msgstr "显示窗口装饰(_D)"
+
+msgid "Show window caption and frame."
+msgstr "显示窗口标题和边框。"
+
+msgid "Show/Hide options"
+msgstr "显示 / 隐藏选项"
+
+msgid "Shrink the available space for maximized windows."
+msgstr "当窗口最大化时缩小占用空间"
+
+msgid "Shrink workarea"
+msgstr "缩小工作区"
+
+msgid ""
+"Silently fail to start in the given desktop environments. DESKTOPS is a "
+"comma-separated list of XDG desktop names, e.g. GNOME for GNOME Shell."
+msgstr ""
+"在指定的桌面环境中启动失败。DESKTOPS 是一个由英文逗号分隔的 XDG 桌面名称列表，例如 GNOME 表示 GNOME Shell."
+
+msgid "Skull and crossbones"
+msgstr "骷髅"
+
+msgid "Smiling face"
+msgstr "笑脸"
+
+msgid "Smiling face with halo"
+msgstr "光环笑脸"
+
+msgid "Smiling face with heart-shaped eyes"
+msgstr "爱心眼笑脸"
+
+msgid "Smiling face with horns"
+msgstr "带角笑脸"
+
+msgid "Smiling face with open mouth and smiling eyes"
+msgstr "大笑"
+
+msgid "Smiling face with smiling eyes"
+msgstr "眯双眼笑脸"
+
+msgid "Smiling face with sunglasses"
+msgstr "墨镜笑脸"
+
+msgid "Smirking face"
+msgstr "假笑‭笑脸"
+
+msgid "Snippet %d is already in use."
+msgstr "片段 %d 已被占用。"
+
+msgid "Snippet Text"
+msgstr "文本片段"
+
+msgid "Snippet {}"
+msgstr "片段 {}"
+
+msgid "Snippets"
+msgstr "片断"
+
+msgid ""
+"Snippets are pieces of text which are entered when the corresponding button "
+"in Onboard is pressed."
+msgstr "片断是屏幕键盘中按下相应按钮时输入的一段文本。"
+
+msgid "Space"
+msgstr "空格"
+
+msgid "Space efficient desktop keyboard"
+msgstr "为桌面键盘留出足够空间"
+
+msgid "Special Characters"
+msgstr "特殊字符"
+
+msgid "Special characters for interactive whiteboards"
+msgstr "为交互式白板提供的特殊字符"
+
+msgid "Special characters for interactive whiteboards, wide"
+msgstr "为交互式白板提供的特殊字符，宽体"
+
+msgid "Spell-check backend:"
+msgstr "拼写检查后端："
+
+msgid "Spelling suggestion"
+msgstr "拼写建议"
+
+msgid "Start Onboard _hidden"
+msgstr "启动后自动隐藏"
+
+msgid "Start Onboard hidden."
+msgstr "屏幕键盘启动后自动隐藏。"
+
+msgid "Start in XEmbed mode, e.g. for gnome-screensaver"
+msgstr "以 XEmbed 模式启动，即用于 gnome-screensaver"
+
+msgid "Status icon _provider:"
+msgstr "状态图标来源(_P)："
+
+msgid "Stay hidden:"
+msgstr "保持隐藏："
+
+msgid "Step"
+msgstr "步进"
+
+msgid "Step _only during switch down"
+msgstr "仅在开关被按下时前进扫描(_O)"
+
+msgid "Step forward and backward through the available suggestions."
+msgstr "在建议中前进或后退"
+
+msgid "Step scan for 2 switches"
+msgstr "当使用两个开关操作时进行步进扫描"
+
+msgid "Strategy:"
+msgstr "策略："
+
+msgid "Sub-, Superscripts; Fractions"
+msgstr "Sub-, Superscripts; Fractions"
+
+msgid ""
+"Swap the scan actions after every key activation. The Step action will "
+"become the Activate action and vice versa."
+msgstr "每次按键激活后切换扫描动作。移动操作将变为激活操作，反之亦然。"
+
+msgid "System defaults: Invalid enum value for key '{}' in section '{}': {}"
+msgstr "系统默认：按键 '{}' 的值在 '{}': {} 区域中无效"
+
+msgid ""
+"System defaults: Invalid value for key '{}' in section '{}'\n"
+"  {}"
+msgstr ""
+"系统默认值：无效的键值 '{}' ('{}' 部分)\n"
+"  {}"
+
+msgid "System defaults: Unknown key '{}' in section '{}'"
+msgstr "系统默认值：未知的键 '{}' ('{}' 部分)"
+
+msgid "System settings not found ({}): {}"
+msgstr "未找到系统设置 ({})：{}"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Temporarily enable SHIFT when clicking with the secondary button."
+msgstr "按下一个按键时临时启用 SHIFT。"
+
+msgid "The number of keys the scanner steps back before moving forward again."
+msgstr "扫描器继续前进之前后退的键数"
+
+msgid ""
+"The number of times the scanner cycles through the entire keyboard before it"
+" stops."
+msgstr "扫描器停止前扫描键盘的周期数。"
+
+msgid ""
+"The selected device should not control the system mouse cursor or the "
+"keyboard caret."
+msgstr "选中的设备不应控制系统鼠标或键盘光标。"
+
+msgid "The spell check engine to use."
+msgstr "所使用的拼写检查引擎。"
+
+msgid ""
+"The time the scanner rests on a key  while moving backwards. (in seconds)"
+msgstr "扫描器后退时在每个键上停留的时间。(单位：秒)"
+
+msgid ""
+"The time the scanner rests on a key  while progressing forward. (in seconds)"
+msgstr "扫描器前进时在每个键上停留的时间。(单位：秒)"
+
+msgid ""
+"The time the scanner rests on a key or group before moving to the next. (in "
+"seconds)"
+msgstr "扫描器停留在一个按键或键组上的秒数"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "Theme file (.theme) or name"
+msgstr "主题文件 (.theme) 或文件名"
+
+msgid ""
+"This theme file already exists.\n"
+"'{filename}'\n"
+"\n"
+"Overwrite it?"
+msgstr ""
+"该主题文件已经存在。\n"
+"'{filename}'\n"
+"\n"
+"覆盖它吗？"
+
+msgid "This will only affect learned suggestions."
+msgstr "仅对已学习的建议起作用。"
+
+msgid ""
+"Time after hiding the keyboard in seconds until latched and locked modifiers"
+" and layer keys are released automatically. Leave at 0.0 to not "
+"automatically release them."
+msgstr "从隐藏键盘到修饰键或层级键松开前的延迟时间。设为 0.0 为禁用此功能。"
+
+msgid "Time in seconds before a click is triggered."
+msgstr "触发按键之前的秒数。"
+
+msgid "Tired face"
+msgstr "疲倦表情"
+
+msgid "Toggle click helpers"
+msgstr "切换单击帮助程序"
+
+msgid "Top"
+msgstr "顶部"
+
+msgid "Transparency"
+msgstr "透明度"
+
+msgid "Transparency of the keyboard background"
+msgstr "键盘背景的透明度"
+
+msgid "Transparency of the whole keyboard window. Requires compositing."
+msgstr "透明化整个键盘窗口。需要窗口混成。"
+
+msgid ""
+"Transparency when the pointer leaves the keyboard. Requires compositing."
+msgstr "当鼠标指针离开时透明化键盘。需要开启窗口混成。"
+
+msgid "Try harder to keep Onboard above anything on-screen."
+msgstr "尽更大努力保持屏幕键盘在屏幕最上层。"
+
+msgid "Typing Assistance"
+msgstr "输入助手"
+
+msgid "Ubuntu Logo"
+msgstr "Ubuntu 标志"
+
+msgid "Umbrella"
+msgstr "小伞"
+
+msgid "Unable to read theme '{}'"
+msgstr "无法读取主题 '{}'"
+
+msgid "Unamused face"
+msgstr "严肃表情"
+
+msgid "Universal Access"
+msgstr "通用访问"
+
+msgid "Up"
+msgstr "上"
+
+msgid "Upper case on right click"
+msgstr "右键点击输入大写"
+
+msgid "Use device"
+msgstr "使用设备"
+
+msgid "Victory hand"
+msgstr "胜利"
+
+msgid "Weary face"
+msgstr "厌烦表情"
+
+msgid "When Inactive"
+msgstr "不活动时"
+
+msgid "While  learning is paused:"
+msgstr "学习功能暂停时："
+
+msgid "White club suit"
+msgstr "梅花"
+
+msgid "White diamond suit"
+msgstr "钻石"
+
+msgid "White heart suit"
+msgstr "爱心"
+
+msgid "White spade suit"
+msgstr "桃心"
+
+msgid "White star"
+msgstr "白色五角星"
+
+msgid "White sun with rays"
+msgstr "白色太阳与光线"
+
+msgid "White telephone"
+msgstr "白色电话"
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Wind_ow:"
+msgstr "窗口(_O)："
+
+msgid "Window"
+msgstr "窗口"
+
+msgid "Window options"
+msgstr "窗口选项"
+
+msgid "Window size, widthxheight"
+msgstr "窗口尺寸，宽度x高度"
+
+msgid "Window x position"
+msgstr "窗口 X 坐标"
+
+msgid "Window y position"
+msgstr "窗口 Y 坐标"
+
+msgid "Winking face"
+msgstr "眯单眼笑脸"
+
+msgid "Word Suggestions"
+msgstr "词组建议"
+
+msgid "Words typed while this button is pressed won't be remembered."
+msgstr "按下该键后，系统将不会记忆您输入的词汇"
+
+msgid "Writing hand"
+msgstr "手写"
+
+msgid "XInput"
+msgstr "XInput"
+
+msgid "XTest"
+msgstr "XTest"
+
+msgid "Yin yang"
+msgstr "阴阳"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Add"
+msgstr "新增(_A)"
+
+msgid "_Alternate switch actions"
+msgstr "交换切换动作(_A)"
+
+msgid "_Angle:"
+msgstr "角度(_A)："
+
+msgid "_Attributes:"
+msgstr "属性(_A)："
+
+msgid "_Auto-show when editing text"
+msgstr "编辑文字时自动显示(_A)"
+
+msgid "_Background:"
+msgstr "背景(_B)："
+
+msgid "_Backtrack interval:"
+msgstr "后退间隔(_B)："
+
+msgid "_Border:"
+msgstr "边缘(_B):"
+
+msgid "_Button label:"
+msgstr "按钮标签(_B)："
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Delay:"
+msgstr "延迟(_D)"
+
+msgid "_Delete"
+msgstr "删除(_D)"
+
+msgid "_Font:"
+msgstr "字体(_F)："
+
+msgid "_Force window to top"
+msgstr "常居顶端(_F)"
+
+msgid "_Forward interval:"
+msgstr "前进间隔(_F)："
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Hide Onboard"
+msgstr "隐藏屏幕键盘(_H)"
+
+msgid "_Hide when using a physical keyboard"
+msgstr "使用物理键盘时隐藏(_H)"
+
+msgid "_Input event source:"
+msgstr "输入来源(_I)："
+
+msgid "_Key:"
+msgstr "按键(_K):"
+
+msgid "_Learn from typed text"
+msgstr "学习已输入的文本内容(_L)"
+
+msgid "_Long press action:"
+msgstr "长按动作(_L)："
+
+msgid "_Motion threshold:"
+msgstr "动作阈值(_M)："
+
+msgid "_New"
+msgstr "新建(_N)"
+
+msgid "_No background"
+msgstr "没有背景(_N)"
+
+msgid "_Open layouts folder"
+msgstr "打开布局文件夹(_O)"
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Remove"
+msgstr "移除(_R)"
+
+msgid "_Remove suggestion…"
+msgstr "删除建议(_R)..."
+
+msgid "_Reset"
+msgstr "重置(_R)"
+
+msgid "_Revert"
+msgstr "还原(_R)"
+
+msgid "_Save snippet"
+msgstr "保存片段(_S)"
+
+msgid "_Select an input device:"
+msgstr "选择输入设备(_S)："
+
+msgid "_Settings"
+msgstr "设置(_S)"
+
+msgid "_Show Onboard"
+msgstr "显示屏幕键盘(_S)"
+
+msgid "_Show status icon"
+msgstr "显示状态图标(_S)"
+
+msgid "_Step interval:"
+msgstr "步进间隔(_S)："
+
+msgid "_Strength:"
+msgstr "强度(_S)："
+
+msgid "_Style:"
+msgstr "样式(_S)："
+
+msgid "_Super key:"
+msgstr "_Super 键"
+
+msgid "_Touch input:"
+msgstr "触摸输入(_T)："
+
+msgid "_Use this device only for scanning"
+msgstr "仅将此设备用于扫描(_U)"
+
+msgid "_Window handles:"
+msgstr "窗口句柄(_W)："
+
+msgid "after"
+msgstr "之后"
+
+msgid "color scheme '{filename}' does not exist"
+msgstr "色彩方案 '{filename}' 不存在"
+
+msgid "column"
+msgstr "列"
+
+msgid "copy_layouts failed, unsupported layout format '{}'."
+msgstr "复制布局失败，不支持的布局格式 '{}'。"
+
+msgid "copying layout '{}' to '{}'"
+msgstr "复制布局 '{}' 到 '{}'"
+
+msgid "copying svg file '{}' to '{}'"
+msgstr "复制 svg 文件 '{}' 到 '{}'"
+
+msgid "failed to create directory '{}': {}"
+msgstr "无法创建目录  '{}': {}"
+
+msgid "failed to find {description} '{filename}'"
+msgstr "没有找到 {description} '{filename}'"
+
+msgid "failed to migrate user directory. "
+msgstr "无法合并用户词典 "
+
+msgid "forever"
+msgstr "永久"
+
+msgid "gsettings schema for '{}' is not installed"
+msgstr "'{}' 的 gsettings schema 未安装"
+
+msgid "layout '{filename}' does not exist"
+msgstr "布局 '{filename}' 不存在"
+
+msgid "multi-touch"
+msgstr "多点触摸"
+
+msgid "never"
+msgstr "从不"
+
+msgid ""
+"no window transparency available; screen doesn't support alpha channels"
+msgstr "无法使窗口透明；屏幕不支持 Alpha 通道"
+
+msgid "none"
+msgstr "无"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "single-touch"
+msgstr "单点触摸"
+
+msgid "theme '{filename}' does not exist"
+msgstr "主题 '{filename}' 不存在"
+
+msgid "unable to locate '{filename}', loading default {description} instead"
+msgstr "无法定位 '{filename}'，加载默认值 {description}"
+
+msgid "{description} '{filename}' not found yet, retrying in default paths"
+msgstr "未找到 {description} '{filename}'，重试默认路径"
+
+msgid "{description} '{filename}' not found yet, searching in paths {paths}"
+msgstr "未找到 {description} '{filename}'，在 {paths} 路径下搜索"
+
+msgid "{description} '{filepath}' found."
+msgstr "已找到 {description} '{filepath}'"
+
+msgid ""
+msgstr ""

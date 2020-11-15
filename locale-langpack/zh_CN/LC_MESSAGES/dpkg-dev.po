@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dpkg\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-12-25 13:28+0100\n"
+"PO-Revision-Date: 2008-07-08 02:31+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:01+0000\n"
+
+msgid "%s died from signal %s"
+msgstr "%s 死于信号 %s"
+
+msgid "%s does not exist"
+msgstr "%s 不存在"
+
+msgid "%s failed with unknown exit code %d"
+msgstr "%s 失败于未知退出代码 %d"
+
+msgid "%s gave error exit status %s"
+msgstr "%s 提供错误退出状态 %s"
+
+msgid "%s is not a compression level"
+msgstr "%s不是压缩级别"
+
+msgid "%s is not a plain file"
+msgstr "%s 不是一个文本文件"
+
+msgid "%s is not a supported compression"
+msgstr "%s 是不支持的压缩方式"
+
+msgid "%s is not a supported variable name"
+msgstr "不支持 变量名 %s"
+
+msgid "%s(l%s): %s"
+msgstr "%s(l%s): %s"
+
+msgid ""
+"%s(l%s): %s\n"
+"LINE: %s"
+msgstr ""
+"%s(l%s): %s\n"
+"行: %s"
+
+msgid "(Use -d flag to override.)"
+msgstr "(使用 -d 参数来忽略)"
+
+msgid "-s%s option overrides earlier -s%s option"
+msgstr "-s%s 选项会覆盖之前的 -s%s 选项"
+
+msgid ".orig directory name %s is not <package>-<upstreamversion> (wanted %s)"
+msgstr ".orig 目录名 %s 不符合 <package>-<upstreamversion> 的格式(理想名字为 %s)"
+
+msgid "Debian %s version %s.\n"
+msgstr "Debian %s 版本 %s。\n"
+
+msgid "bad line in substvars file %s at line %d"
+msgstr "在 substvars 文件 %s 的第 %d 行发现损坏的行"
+
+msgid "badly formatted heading line"
+msgstr "格式损坏的头行"
+
+msgid "badly formatted trailer line"
+msgstr "格式损坏的尾行"
+
+msgid "badly formed line in files list file, line %d"
+msgstr "列表文件中有格式损坏的行目在 %d 行"
+
+msgid "binary file contents changed"
+msgstr "二进制文件内容已改变"
+
+msgid "can't parse dependency %s"
+msgstr "无法分析依赖对象 %s"
+
+msgid "cannot change timestamp for %s"
+msgstr "无法改变 %s 的时间戳"
+
+msgid "cannot combine %s and %s"
+msgstr "不能将 %s 与 %s 结合"
+
+msgid "cannot make %s executable"
+msgstr "无法使得 %s 可执行"
+
+msgid "cannot open %s"
+msgstr "不能打开 %s"
+
+msgid "cannot open file %s"
+msgstr "无法打开文件 %s"
+
+msgid "cannot read %s"
+msgstr "无法读取 %s"
+
+msgid "cannot read link %s"
+msgstr "无法读取链接 %s"
+
+msgid "cannot stat %s"
+msgstr "无法检验 %s 的状态"
+
+msgid "cannot stat directory %s (before removal)"
+msgstr "在删除之前无法检验目录 %s 的状态"
+
+msgid "cannot stat file %s"
+msgstr "无法检验文件 %s 的状态"
+
+msgid "cannot write %s"
+msgstr "无法写入 %s"
+
+msgid "continued value line not in field"
+msgstr "含有下一个值的行不在字段中"
+
+msgid "could not verify signature on %s since gpg isn't installed"
+msgstr "由于 gpg 没有安装，无法对 %s 校验签名"
+
+msgid "device or socket is not allowed"
+msgstr "不允许使用设备或套接字"
+
+msgid "diff on %s"
+msgstr "对 %s 进行 diff 操作"
+
+msgid "directory"
+msgstr "目录"
+
+msgid "directory argument %s is not a directory"
+msgstr "指定的目录参数 %s 实际不是一个目录"
+
+msgid "diversions involved - output may be incorrect"
+msgstr "转向复杂化 - 输出信息可能不正确"
+
+msgid "dpkg-genchanges"
+msgstr "dpkg-genchanges"
+
+msgid "duplicate files list entry for file %s (line %d)"
+msgstr "对文件 %s 声明了重复的文件列表条目 (行 %d)"
+
+msgid "error"
+msgstr "错误"
+
+msgid "error occurred while parsing %s"
+msgstr "解析 %s 时出错"
+
+msgid "executable mode %04o of '%s' will not be represented in diff"
+msgstr "执行模式 %04o of '%s' 不会被显示在差别文件中。"
+
+msgid "extracting unsigned source package (%s)"
+msgstr "正在解压无签名的源码包 (%s)"
+
+msgid "failed to rename newly-extracted %s to %s"
+msgstr "重命名新解压的文件 %s 到 %s 失败"
+
+msgid "failed to rename saved %s to %s"
+msgstr "重命名新存为的文件 %s 到 %s 失败"
+
+msgid "failed to verify signature on %s"
+msgstr "对 %s 校验签名失败"
+
+msgid ""
+"fakeroot not found, either install the fakeroot\n"
+"package, specify a command with the -r option, or run this as root"
+msgstr ""
+"未找到 fakeroot， 安装 fakeroot 软件包\n"
+"或使用 -r 选项或作为 root 运行此程序"
+
+msgid "file %s has no final newline (either original or modified version)"
+msgstr "文件 %s 没有结尾行(可能是原始版本或修订版本)"
+
+msgid "filename, section and priority may contain no whitespace"
+msgstr "文件名、区段和优先级参数中不能包含空白字符"
+
+msgid "format parser %s not executable"
+msgstr "格式分析器 %s 不可执行"
+
+msgid "found blank line where expected %s"
+msgstr "在预想的 %s 中发现空行"
+
+msgid "found change data where expected %s"
+msgstr "在预想的 %s 处发现更改的数据"
+
+msgid "found start of entry where expected %s"
+msgstr "在预想的 %s 处发现起始条目"
+
+msgid "found trailer where expected %s"
+msgstr "在预想的 %s 处发现拖曳符"
+
+msgid "full upload (original source is included)"
+msgstr "完整上载（包含原始的代码）"
+
+msgid "gain-root-commmand '%s' not found"
+msgstr "未找到超级用户命令 '%s'"
+
+msgid "general section of control info file"
+msgstr "控制信息文件中的常规区段"
+
+msgid "host architecture"
+msgstr "主机架构"
+
+msgid "ignoring -sd option for native Debian package"
+msgstr "为本地的Debian包忽略 -sd 参数"
+
+msgid "ignoring deletion of directory %s"
+msgstr "忽略对目录 %s 的删除指令"
+
+msgid "ignoring deletion of symlink %s"
+msgstr "忽略对符号链接 %s 的删除指令"
+
+msgid "ignoring duplicate override entry for %s at line %d"
+msgstr "已忽略重复的覆盖条目 %s，在行 %d 处"
+
+msgid "ignoring duplicate source override entry for %s at line %d"
+msgstr "已忽略重复的源覆盖条目 %s，在行 %d 处"
+
+msgid "ignoring override entry for %s, invalid priority %s"
+msgstr "已忽略覆盖条目 %s，优先级声明 %s 无效"
+
+msgid "including full source code in upload"
+msgstr "上传数据中包含完整的原始代码"
+
+msgid "install new files list file"
+msgstr "安装新列表文件"
+
+msgid "invalid override entry at line %d (%d fields)"
+msgstr "行 %d 处有无效的覆盖条目 (%d 个字段)"
+
+msgid "invalid source override entry at line %d (%d fields)"
+msgstr "在行 %d 处有无效的源覆盖条目 (%d 个字段)"
+
+msgid "line with unknown format (not field-colon-value)"
+msgstr "含有未知格式的行 (没有冒号分隔)"
+
+msgid "missing Priority for source files"
+msgstr "构建源文件中缺失了 Priority 字段"
+
+msgid "missing Section for binary package %s; using '-'"
+msgstr "二进制包 %s 缺失了 Section 字段，现使用“-”代替"
+
+msgid "missing Section for source files"
+msgstr "构建源文件缺失了 Section 字段"
+
+msgid "missing critical source control field %s"
+msgstr "缺失必需的源码控制字段 %s"
+
+msgid "missing information for critical output field %s"
+msgstr "缺少必需输出字段 %s 的信息"
+
+msgid "missing information for output field %s"
+msgstr "缺少输出字段 %s 的信息"
+
+msgid "must specify package since control info has many (%s)"
+msgstr "因控制信息含有过多 (%s)，您必须指定一个包"
+
+msgid "native package with .orig.tar"
+msgstr "带有 .orig.tar 文件的本地包"
+
+msgid "need at least one executable"
+msgstr "此处需要至少一个可执行程序"
+
+msgid "need exactly a filename, section and priority"
+msgstr "需要一个确切的文件名、区段和优先级指定"
+
+msgid "newly created empty file '%s' will not be represented in diff"
+msgstr "新建的空文档 '%s' 不会被显示在差别文件中."
+
+msgid "no binary packages specified in %s"
+msgstr "%s 中没有指定任何二进制包"
+
+msgid "no tarfile in Files field"
+msgstr "Files 字段中没有 tar 文件"
+
+msgid "nonexistent"
+msgstr "不存在"
+
+msgid "not including original source code in upload"
+msgstr "上传数据中未包含原始代码"
+
+msgid ""
+"orig argument is empty (means no orig, no diff) but source handling style "
+"-s%s wants something"
+msgstr "参数指定的源码实际为空(这意味着没有源代码也没有补丁)，但给定的源码处理方式选项 -s%s 需要它"
+
+msgid ""
+"orig argument is packed but source handling style -s%s calls for unpacked "
+"(.orig/)"
+msgstr "参数指定的源码已被打包，但给定的源码处理方式选项 -s%s 需要调用解压后的包(.orig/)"
+
+msgid "output format %s not supported"
+msgstr "不支持输出格式：%s"
+
+msgid "package %s has priority %s in control file but %s in files list"
+msgstr "控制文件声明了包 %s 含有优先级 %s，但文件列表声明的是 %s"
+
+msgid "package %s has section %s in control file but %s in files list"
+msgstr "控制文件声明了包 %s 含有区段 %s，但文件列表声明的是 %s"
+
+msgid "package %s in control file but not in files list"
+msgstr "控制文件声明了包 %s 但它却不在文件列表中"
+
+msgid "package %s listed in files list but not in control info"
+msgstr "文件列表声明了包 %s 但它却不在控制信息中"
+
+msgid "package %s not in control info"
+msgstr "软件包 %s 不在控制信息内"
+
+msgid "package's section of control info file"
+msgstr "控制信息文件中的包所属区段"
+
+msgid "parsed version of changelog"
+msgstr "更新日志的已分析版本"
+
+msgid "pipe for %s"
+msgstr "供 %s 使用的管道"
+
+msgid "plain file"
+msgstr "文本文件"
+
+msgid "remove patch backup file %s"
+msgstr "删除补丁备份文件 %s"
+
+msgid "repeated key-value %s"
+msgstr "重复的键值对 %s"
+
+msgid "source changed by"
+msgstr "源码修改者"
+
+msgid "source handling style -s%s not allowed with -b"
+msgstr "源码处理方式选项 -s%s 不能和 -b 结合使用"
+
+msgid "source handling style -s%s not allowed with -x"
+msgstr "源文件处理方式选项 -s%s 不能和 -x 结合使用"
+
+msgid "source package"
+msgstr "源码包"
+
+msgid "source package has two conflicting values - %s and %s"
+msgstr "源文件包中含有互相冲突的值 - %s 和 %s"
+
+msgid "source version"
+msgstr "源码版本"
+
+msgid "symlink to %s"
+msgstr "符号链接到 %s"
+
+msgid "syntax error in %s at line %d: %s"
+msgstr "在 %s 处有语法错误，行数为 %d：%s"
+
+msgid "tail of %s"
+msgstr "%s 的尾部"
+
+msgid "unable to determine %s"
+msgstr "无法确定 %s"
+
+msgid "unable to keep orig directory (already exists)"
+msgstr "无法保留原目录(已经存在)"
+
+msgid "unknown Debian architecture %s, you must specify GNU system type, too"
+msgstr "未知的 Debian 系统处理器架构 %s，您必须同时指定一个 GNU 系统类型"
+
+msgid "unknown GNU system type %s, you must specify Debian architecture, too"
+msgstr "未知的 GNU 系统类型 %s，您必须同时指定一个 Debian 系统处理器架构"
+
+msgid "unknown default GNU system type for Debian architecture %s"
+msgstr "unknown default GNU system type for Debian architecture %s"
+
+msgid "unknown information field '%s' in input data in %s"
+msgstr "未知信息 '%s'在输入 %s 中"
+
+msgid "unknown option or argument %s"
+msgstr "未知选项或参数 %s"
+
+msgid "unknown output from dpkg --search: '%s'"
+msgstr "未知的dpkg输出 --查找:\"%s\""
+
+msgid "unknown substitution variable ${%s}"
+msgstr "未知的替换变量 ${%s}"
+
+msgid "unpack target exists: %s"
+msgstr "解压目的地已存在：%s"
+
+msgid "using a gain-root-command while being root"
+msgstr "使用超级用户命令"
+
+msgid "warning"
+msgstr "警告"
+
+msgid "write diversion info to stderr"
+msgstr "转向信息写入到标准错误输出"
+
+msgid "write error on control data"
+msgstr "对控制数据的写操作出错"
+
+msgid "write original source message"
+msgstr "写入原始代码信息"

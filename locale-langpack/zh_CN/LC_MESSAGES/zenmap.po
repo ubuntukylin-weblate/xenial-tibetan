@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nmap\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-10-23 15:14+0000\n"
+"PO-Revision-Date: 2011-05-31 17:10+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:02+0000\n"
+
+msgid "# scanned ports:"
+msgstr "# 已扫描端口:"
+
+msgid ""
+"%s is a free and open source utility for network exploration and security "
+"auditing."
+msgstr "%s 是一个为网络浏览和安全审计的自由和开放源码工具"
+
+msgid "<undefined>"
+msgstr "<未定义>"
+
+msgid ""
+"A required module was not found.\n"
+"\n"
+msgstr ""
+"一个必需的模块没有找到。\n"
+"\n"
+
+msgid "About %s"
+msgstr "关于%s"
+
+msgid "About %s and %s"
+msgstr "关于%s 和 %s"
+
+msgid "Accuracy"
+msgstr "精确度"
+
+msgid "Accuracy:"
+msgstr "准确度："
+
+msgid "Addresses"
+msgstr "地址"
+
+msgid "Alert"
+msgstr "警告"
+
+msgid "Append"
+msgstr "追加"
+
+msgid ""
+"Begin with the specified profile selected. If combined with the -t "
+"(--target) option, automatically run the profile against the specified "
+"target."
+msgstr "从所选的指定文件开始运行。如果选择 -t (--target) 选项，将会绕过指定文件而自动运行这个文件。"
+
+msgid ""
+"Can't open file to write.\n"
+"%s"
+msgstr ""
+"无法打开文件写入。\n"
+"%s"
+
+msgid "Can't save file"
+msgstr "无法保存文件"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot open selected file"
+msgstr "无法打开选择的文件"
+
+msgid "Choose file"
+msgstr "选择文件"
+
+msgid "Class:"
+msgstr "类别："
+
+msgid "Close Window"
+msgstr "关闭窗口"
+
+msgid "Close anyway"
+msgstr "无论如何关闭"
+
+msgid "Closed ports:"
+msgstr "关闭端口："
+
+msgid "Command"
+msgstr "命令"
+
+msgid "Command Info"
+msgstr "命令信息"
+
+msgid "Command:"
+msgstr "命令："
+
+msgid "Comments"
+msgstr "注释"
+
+msgid "Compare Results"
+msgstr "比较结果"
+
+msgid "Compare Scan Results using Diffies"
+msgstr "用Diffies比较扫描结果"
+
+msgid "Contributors"
+msgstr "贡献者"
+
+msgid "Controls"
+msgstr "控制"
+
+msgid "Count"
+msgstr "计数"
+
+msgid "Crash Report"
+msgstr "崩溃报告"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Debug level:"
+msgstr "调试级别："
+
+msgid "Deleting Profile"
+msgstr "正在删除配置文件"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Design"
+msgstr "设计"
+
+msgid "Details"
+msgstr "细节"
+
+msgid "Difficulty:"
+msgstr "难度："
+
+msgid "Edit selected scan profile"
+msgstr "编辑选择的扫描配置文件"
+
+msgid "Error executing command"
+msgstr "执行命令出错"
+
+msgid "Error loading file"
+msgstr "载入文件出错"
+
+msgid "Error parsing file"
+msgstr "解析文件出错"
+
+msgid "Error parsing the configuration file"
+msgstr "解析配置文件出错"
+
+msgid "Expressions "
+msgstr "表达式 "
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Filtered ports:"
+msgstr "已过滤端口："
+
+msgid "Fingerprint"
+msgstr "指纹"
+
+msgid "Finished on:"
+msgstr "结束于:"
+
+msgid "Fisheye"
+msgstr "鱼眼"
+
+msgid "General"
+msgstr "常规"
+
+msgid "General Info"
+msgstr "常规信息"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Highlight"
+msgstr "高亮"
+
+msgid "Highlight definitions"
+msgstr "高亮定义"
+
+msgid "Host"
+msgstr "主机"
+
+msgid "Host Details"
+msgstr "主机详情"
+
+msgid "Host Status"
+msgstr "主机状态"
+
+msgid "Hostname"
+msgstr "主机名称"
+
+msgid "Hostnames"
+msgstr "主机名称"
+
+msgid "Hosts"
+msgstr "主机"
+
+msgid "Hosts down:"
+msgstr "主机离线："
+
+msgid "Hosts scanned:"
+msgstr "扫描的主机:"
+
+msgid "Hosts up:"
+msgstr "主机在线："
+
+msgid "Hosts viewer"
+msgstr "主机查看器"
+
+msgid "How to Report a Bug"
+msgstr "如何提交一个错误"
+
+msgid "IP ID Sequence"
+msgstr "IP ID 序列"
+
+msgid "IPv4:"
+msgstr "IPv4："
+
+msgid "IPv6:"
+msgstr "IPv6："
+
+msgid "Import error"
+msgstr "导入出错"
+
+msgid ""
+"Increase verbosity of the output. May be used more than once to get even "
+"more verbosity"
+msgstr "增加输出的冗长。也许会使用不止一次而造成更多的冗长"
+
+msgid "Index:"
+msgstr "索引："
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Last boot:"
+msgstr "上次启动："
+
+msgid "MAC:"
+msgstr "MAC："
+
+msgid "Maemo"
+msgstr "Maemo"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name - Type:"
+msgstr "名称 - 类型："
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "Nmap Output"
+msgstr "Nmap 输出"
+
+msgid "Nmap Output Properties"
+msgstr "Nmap 输出属性"
+
+msgid "Nmap Version:"
+msgstr "Nmap 版本:"
+
+msgid "No host selected."
+msgstr "没有选择主机。"
+
+msgid "No module named dbapi2.pysqlite2 or sqlite3"
+msgstr "没有模块命名为 dbapi2.pysqlite2 或者 sqlite3"
+
+msgid "No search method selected!"
+msgstr "没有选择搜索方式！"
+
+msgid "Not Available"
+msgstr "不可用"
+
+msgid "Not available"
+msgstr "不可用"
+
+msgid "Nothing to save"
+msgstr "没有要保存的东西"
+
+msgid "OS"
+msgstr "操作系统"
+
+msgid "OS Family"
+msgstr "操作系统家族"
+
+msgid "OS Generation"
+msgstr "操作系统世代"
+
+msgid "Open ports:"
+msgstr "开放端口："
+
+msgid "Open the results of a previous scan"
+msgstr "打开上次扫描的结果"
+
+msgid "Operating System"
+msgstr "操作系统"
+
+msgid "Parse error"
+msgstr "解析出错"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Port-Protocol-State:"
+msgstr "端口-协议-状态："
+
+msgid "Ports / Hosts"
+msgstr "端口 / 主机"
+
+msgid "Ports used"
+msgstr "已用端口"
+
+msgid "Profile"
+msgstr "配置文件"
+
+msgid "Profile Editor"
+msgstr "配置文件编辑器"
+
+msgid "Profile Information"
+msgstr "配置文件信息"
+
+msgid "Profile name"
+msgstr "配置文件名称"
+
+msgid "Profile:"
+msgstr "配置文件："
+
+msgid "Protocol"
+msgstr "协议"
+
+msgid "Protocol:"
+msgstr "协议:"
+
+msgid "Python 2.4 or later is required."
+msgstr "需要 2.4 版本以上的 Python"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Quit the application"
+msgstr "退出应用程序"
+
+msgid "Red"
+msgstr "红色"
+
+msgid "Report a bug"
+msgstr "报告错误"
+
+msgid "Run %s with the specified args."
+msgstr "使用指定的参数运行 %s"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Save Scan"
+msgstr "保存扫描"
+
+msgid "Save current scan results"
+msgstr "保存当前的扫描结果"
+
+msgid "Sc_an"
+msgstr "扫描(_A)"
+
+msgid "Scan"
+msgstr "扫描"
+
+msgid "Scan Info"
+msgstr "扫描信息"
+
+msgid "Scan is running"
+msgstr "扫描中"
+
+msgid "Scan type:"
+msgstr "扫描类型:"
+
+msgid "Scanned ports:"
+msgstr "已扫描端口："
+
+msgid "Search Scan Results"
+msgstr "搜索扫描结果"
+
+msgid "Search for a scan result"
+msgstr "搜索一个扫描结果"
+
+msgid "Search:"
+msgstr "搜索："
+
+msgid "Select Scan Result"
+msgstr "选择扫描结果"
+
+msgid "Service"
+msgstr "服务"
+
+msgid "Services"
+msgstr "服务"
+
+msgid "Services:"
+msgstr "服务:"
+
+msgid "Shows the application help"
+msgstr "显示程序帮助"
+
+msgid "SoC 2007"
+msgstr "SoC 2007"
+
+msgid ""
+"Specify a target to be used along with other options. If specified alone, "
+"open with the target field filled with the specified target"
+msgstr "指定一个目标和其他选项一起使用。如果单独指定，会将目标区域和指定文件一起打开"
+
+msgid "Started on:"
+msgstr "启动于:"
+
+msgid "State"
+msgstr "状态"
+
+msgid "State:"
+msgstr "状态:"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "TCP Sequence"
+msgstr "TCP 序列"
+
+msgid "TCP TS Sequence"
+msgstr "TCP TS 序列"
+
+msgid "Target"
+msgstr "目标"
+
+msgid "Target:"
+msgstr "目标："
+
+msgid "Text"
+msgstr "文本"
+
+msgid ""
+"The given scan has unsaved changes.\n"
+"What do you want to do?"
+msgstr ""
+"给定的扫描有未保存的更改。\n"
+"您想要采取哪个操作呢？"
+
+msgid "Topology"
+msgstr "拓扑结构"
+
+msgid "Translation"
+msgstr "翻译"
+
+msgid "Trying to close"
+msgstr "尝试关闭"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown Host"
+msgstr "未知主机"
+
+msgid "Unknown version"
+msgstr "未知版本"
+
+msgid "Unnamed profile"
+msgstr "未命名的配置"
+
+msgid "Unsaved changes"
+msgstr "未保存的更改"
+
+msgid "Up time:"
+msgstr "启动时间："
+
+msgid "Values:"
+msgstr "值："
+
+msgid "Vendor"
+msgstr "提供商"
+
+msgid "Vendor:"
+msgstr "提供商："
+
+msgid "Verbosity level:"
+msgstr "冗文级："
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Written by"
+msgstr "作者"
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid "You must provide a name for this profile."
+msgstr "您必须此配置起一个名字。"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Edit Selected Profile"
+msgstr "编辑选择的配置文件(_E)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_New Window"
+msgstr "新建窗口(_N)"
+
+msgid "_Open Scan"
+msgstr "打开扫描(_O)"
+
+msgid "_Profile"
+msgstr "配置文件(_P)"
+
+msgid "_Report a bug"
+msgstr "报告错误(_R)"
+
+msgid "_Save Scan"
+msgstr "保存扫描(_S)"
+
+msgid "_Tools"
+msgstr "工具(_T)"
+
+msgid "closed port"
+msgstr "关闭端口:"
+
+msgid "date"
+msgstr "日期"
+
+msgid "details"
+msgstr "详情"
+
+msgid "filtered port"
+msgstr "已过滤端口"
+
+msgid "highlight color"
+msgstr "高亮颜色"
+
+msgid "hostname"
+msgstr "主机名称"
+
+msgid "ip"
+msgstr "IP"
+
+msgid "open port"
+msgstr "开放端口"
+
+msgid "port listing title"
+msgstr "端口监听标题"
+
+msgid "text color"
+msgstr "文本颜色"
+
+msgid "unknown"
+msgstr "未知"

@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: openjade\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2003-09-29 14:47+0000\n"
+"PO-Revision-Date: 2010-03-04 13:08+0000\n"
+"Last-Translator: sxdhaoren <hupengnihao@gmail.com>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:52+0000\n"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1 version %2"
+msgstr "%1 版本 %s"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a boolean"
+msgstr "%2 参数于初始 %1 类型错误：%3不是布尔型"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a char"
+msgstr "%2 参数于初始 %1 类型错误：%3不是字符"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a color-space"
+msgstr "%2 参数于初始 %1 类型错误：%3不是颜色空间"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a glyph-id"
+msgstr "%2 参数于初始 %1 类型错误：%3不是字符编号"
+
+msgid ""
+"%2 argument for primitive %1 of wrong type: %3 not a length or length-spec"
+msgstr "%2 参数于初始 %1 类型错误：%3不是长度或者长度规格"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a list"
+msgstr "%2 参数于初始 %1 类型错误：%3不是列表"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a named node list"
+msgstr "%2 参数于初始 %1 类型错误：%3不是命节点列表"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a node list"
+msgstr "%2 参数于初始 %1 类型错误：%3不是节点列表"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a number"
+msgstr "%2 参数于初始 %1 类型错误：%3不是数"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a pair"
+msgstr "%2 参数于初始 %1 类型错误：%3不成对"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a quantity"
+msgstr "%2 参数于初始 %1 类型错误：%3不是数量"
+
+msgid ""
+"%2 argument for primitive %1 of wrong type: %3 not a quantity or length-spec"
+msgstr "%2 参数于初始 %1 类型错误：%3不是数量或者长度规格"
+
+msgid ""
+"%2 argument for primitive %1 of wrong type: %3 not a singleton node list"
+msgstr "%2 参数于初始 %1 类型错误：%3不是单节点列表"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a sosofo"
+msgstr "%2 参数于初始 %1 类型错误：%3不是sosofo"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a string"
+msgstr "%2 参数于初始 %1 类型错误：%3不是字符"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a string or symbol"
+msgstr "%2 参数于初始 %1 类型错误：%3不是字符或者符号"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a style"
+msgstr "%2 参数于初始 %1 类型错误：%3不是样式"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not a symbol"
+msgstr "%2 参数于初始 %1 类型错误：%3不是符号"
+
+msgid ""
+"%2 argument for primitive %1 of wrong type: %3 not an ISO8601 time string"
+msgstr "%2 参数于初始 %1 类型错误：%3不是ISO8601时间字符串"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not an address"
+msgstr "%2 参数于初始 %1 类型错误：%3不是地址"
+
+msgid "%2 argument for primitive %1 of wrong type: %3 not an exact integer"
+msgstr "%2 参数于初始 %1 类型错误：%3不是整型"
+
+msgid ""
+"%2 argument for primitive %1 of wrong type: %3 not an integer or the symbol "
+"\"force\""
+msgstr "%2 参数于初始 %1 类型错误：%3不是整数或者符号\"force\""
+
+msgid ""
+"%2 argument for primitive %1 of wrong type: %3 not an optional singleton "
+"node list"
+msgstr "%2 参数于初始 %1 类型错误：%3不是可选单节点列表"
+
+msgid "DEFINITION"
+msgstr "定义"
+
+msgid "Debug mode."
+msgstr "调试模式。"
+
+msgid "Define parameter entity %1 as \"INCLUDE\"."
+msgstr "定义参数条目%1为\"INCLUDE\"。"
+
+msgid "Enable experimental DSSSL extensions."
+msgstr "启用实验性DSSSL扩展。"
+
+msgid "Enable warning %1."
+msgstr "启用警告%1。"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "NAME"
+msgstr "名字"
+
+msgid ""
+"Options with a \"doc-\"/\"spec-\" prefix apply only to the "
+"document/specification."
+msgstr "前缀为\"doc-\"/\"spec-\"的选项只能用于文档/规范"
+
+msgid "Pretend that %1 appeared in the specification."
+msgstr "伪装%1出现在规范中。"
+
+msgid "SYSID"
+msgstr "SYSID"
+
+msgid "Send output to %1."
+msgstr "发送输出到%1。"
+
+msgid "Show error numbers in error messages."
+msgstr "在错误消息中显示错误号。"
+
+msgid "Show open elements in error messages."
+msgstr "在错误消息中显示开方元素。"
+
+msgid "Show open entities in error messages."
+msgstr "在错误消息中显示开放实体。"
+
+msgid "Show references in error messages."
+msgstr "在错误消息中显示参考。"
+
+msgid "Strict DSSSL compliance mode."
+msgstr "严格DSSSL模式。"
+
+msgid "TYPE"
+msgstr "类型"
+
+msgid "TeX backend does not currently support HyTime linkends"
+msgstr "TeX当前不支持HyTime链接"
+
+msgid "TeX backend does not currently support TEI links"
+msgstr "TeX当前不支持TEI链接"
+
+msgid "TeX backend does not currently support glyph substitution tables"
+msgstr "TeX当前不支持字符替代表格"
+
+msgid "TeX backend does not currently support links to entities"
+msgstr "TeX当前不支持链接到实体"
+
+msgid ""
+"TeX backend does not currently support links to nodes other than elements"
+msgstr "Tex当前不支持链接到接除元素外的节点"
+
+msgid "TeX backend does not currently support links to other SGML documents"
+msgstr "TeX当前不支持连接到其它SGML文档"
+
+msgid ""
+"TeX backend does not currently support references to page numbers of nodes "
+"other than elements"
+msgstr "TeX当前不支持参考除元素外的节点页号"
+
+msgid "Use DSSSL specification %1."
+msgstr "用DSSSL规范 %1。"
+
+msgid "Use DSSSL specification with title %1."
+msgstr "用标题%1的DSSSL规范。"
+
+msgid "Use the backend %1."
+msgstr "使用后端 %1。"
+
+msgid "argument not a keyword"
+msgstr "参数不是关键"
+
+msgid "argument out of range"
+msgstr "参数超出范围"
+
+msgid "bad form %1 in mode group"
+msgstr "模式组中坏表单%1"
+
+msgid "bad value specified for unit %1"
+msgstr "单元%1指定值错"
+
+msgid "call of non-function object %1"
+msgstr "调用非函数对象 %1"
+
+msgid "cannot open output file %1 (%2)"
+msgstr "无法打开输出文件 %1 (%2)"
+
+msgid "could not convert system identifier %1 to a single filename"
+msgstr "无法将系统标识 %1 转化为单一文件名"
+
+msgid "could not embed %1 with clsid %2"
+msgstr "无法嵌入%1(用clsid %s)"
+
+msgid "division by zero"
+msgstr "被零除"
+
+msgid "empty output filename"
+msgstr "输出文件名空"
+
+msgid "expected \"else\" not %1"
+msgstr "期待 \"else\" 不是 %1"
+
+msgid "first declaration was here"
+msgstr "第一声明在此"
+
+msgid "first definition was here"
+msgstr "第一个定义在此处"
+
+msgid "identifier %1 already defined in same part"
+msgstr "在同一部分已经定义了标识%1"
+
+msgid "incompatible dimensions"
+msgstr "维数不兼容"
+
+msgid "invalid AFII glyph identifier %1"
+msgstr "无效AFII字符标识 %1"
+
+msgid "invalid character"
+msgstr "无效字符"
+
+msgid "invalid character after '#'"
+msgstr "在'#'后有无效字符"
+
+msgid "invalid number %1"
+msgstr "无效数字%1"
+
+msgid "loop in specification of value of %1"
+msgstr "规范中值%1循环"
+
+msgid "loop in specification of value of unit %1"
+msgstr "规范中值单位%1循环"
+
+msgid "missing argument for function call"
+msgstr "调用函数缺少参数"
+
+msgid "missing closing parenthesis"
+msgstr "后括号丢失"
+
+msgid ""
+"missing table column flow object (table-auto-width feature not fully "
+"supported)"
+msgstr "缺少表格列流对象 (无法完整支持表格自动宽度设定功能)"
+
+msgid "nested tables are not allowed in RTF"
+msgstr "在RTF中不允许嵌套表"
+
+msgid "no DSSSL specification: use -d to specify"
+msgstr "没有DSSSL规范：用 -d 指定"
+
+msgid ""
+"no applicable processing instruction with title %1; available titles: %2"
+msgstr "标题%1无合适处理指导；可用标题：%s"
+
+msgid "no character with name %1"
+msgstr "无名为 %1的字符"
+
+msgid "odd number of keyword/value arguments"
+msgstr "关键字/值参数数目不成对"
+
+msgid "quantity %1 undefined"
+msgstr "定义了 %1 个"
+
+msgid "reference to undefined variable %1"
+msgstr "参照求借定义变量 %1"
+
+msgid "string with no closing quote"
+msgstr "字符串后引号丢失"
+
+msgid "syntactic keyword %1 used as variable"
+msgstr "句法关键字 %1 用作变量"
+
+msgid "too many arguments for function"
+msgstr "函数调用参数过多"
+
+msgid "unexpected end of file"
+msgstr "文件意外结束"
+
+msgid "unexpected token %1"
+msgstr "意外符号 %1"
+
+msgid "unit %1 already defined in same part"
+msgstr "单元%1已经在同一部分定义"
+
+msgid "unknown #! named constant %1"
+msgstr "未知#!命名常量%1"
+
+msgid "unknown character name %1"
+msgstr "未知符号名 %1"
+
+msgid "unknown output type %1"
+msgstr "未知输出类型 %1"
+
+msgid "unknown top level form %1"
+msgstr "未知顶级表单 %1"
+
+msgid "value for \"label:\" not a symbol"
+msgstr "\"label:\" 的数值不是一个符号"

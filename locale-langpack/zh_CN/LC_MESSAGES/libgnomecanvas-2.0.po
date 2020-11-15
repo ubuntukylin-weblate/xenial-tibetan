@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgnomecanvas\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=libgnomecanvas&component=general\n"
+"POT-Creation-Date: 2015-12-04 02:42+0000\n"
+"PO-Revision-Date: 2010-04-01 04:18+0000\n"
+"Last-Translator: nihui <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:47+0000\n"
+
+msgid "Anchor"
+msgstr "锚点"
+
+msgid "Anchor point for text"
+msgstr "文本的锚点"
+
+msgid "Antialiased"
+msgstr "反锯齿"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Cursor Blink"
+msgstr "光标闪烁"
+
+msgid "Cursor Visible"
+msgstr "光标可见"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Does the cursor blink in this rich text item?"
+msgstr "光标在此多信息富文本项中是否闪烁？"
+
+msgid "Editable"
+msgstr "可编辑"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Font description"
+msgstr "字体描述"
+
+msgid "Font description as a PangoFontDescription struct"
+msgstr "以 PangoFontDescription 字体描述结构表示的字体描述"
+
+msgid "Font description as a string"
+msgstr "以字符串方式表示的字体描述"
+
+msgid "Font family"
+msgstr "字体族"
+
+msgid "Font family set"
+msgstr "设置字体族"
+
+msgid "Font points"
+msgstr "字体磅数"
+
+msgid "Font size"
+msgstr "字体大小"
+
+msgid ""
+"Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
+"size)"
+msgstr "字体大小(作为 PANGO_SCALE 的倍数，如：12*PANGO_SCALE 代表 12pt 字体大小)"
+
+msgid "Font size in points (eg. 12 for a 12pt font size)"
+msgstr "以磅数为单位的字体大小(如：12 代表 12pt 字体大小)"
+
+msgid "Font size set"
+msgstr "设置字体大小"
+
+msgid "Font stretch"
+msgstr "字体拉伸"
+
+msgid "Font stretch set"
+msgstr "设置字体拉伸"
+
+msgid "Font style"
+msgstr "字体风格"
+
+msgid "Font style set"
+msgstr "设置字体风格"
+
+msgid "Font variant"
+msgstr "字体变体"
+
+msgid "Font variant set"
+msgstr "设置字体变体"
+
+msgid "Font weight"
+msgstr "字体粗细"
+
+msgid "Font weight set"
+msgstr "设置字体粗细"
+
+msgid "Grow Height"
+msgstr "增加高度"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Height for text box"
+msgstr "文本框的高度"
+
+msgid "Height of the rendered text"
+msgstr "显示文本的高度"
+
+msgid "Indentation"
+msgstr "缩进"
+
+msgid "Is the cursor visible in this rich text item?"
+msgstr "光标在此多信息富文本项中是否可见？"
+
+msgid "Is this rich text item editable?"
+msgstr "此多信息富文本项是否可编辑？"
+
+msgid "Is this rich text item visible?"
+msgstr "此多信息富文本项是否可见？"
+
+msgid "Justification"
+msgstr "对齐"
+
+msgid "Justification mode"
+msgstr "对齐模式"
+
+msgid "Left Margin"
+msgstr "左边距"
+
+msgid "Marked up text to render"
+msgstr "要显示的标记文本"
+
+msgid "Markup"
+msgstr "标记文本"
+
+msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
+msgstr "字体族名称，如：Sans、Helvetica、Times、Monospace"
+
+msgid "Number of pixels for indentation"
+msgstr "缩进的像素数"
+
+msgid "Number of pixels in the left margin"
+msgstr "左边距的像素数"
+
+msgid "Number of pixels in the right margin"
+msgstr "右边距的像素数"
+
+msgid "Number of pixels to put above lines"
+msgstr "加在行顶上方的像素数"
+
+msgid "Number of pixels to put below lines"
+msgstr "加在行底下方的像素数"
+
+msgid "Number of pixels to put inside the wrap"
+msgstr "加在换行间的像素数"
+
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative)"
+msgstr "文本高于水平准线的距离(负数则低于准线)"
+
+msgid "Pixels Above Lines"
+msgstr "行顶的像素数"
+
+msgid "Pixels Below Lines"
+msgstr "行底的像素数"
+
+msgid "Pixels Inside Wrap"
+msgstr "换行间的像素数"
+
+msgid "Right Margin"
+msgstr "右边距"
+
+msgid "Rise"
+msgstr "提升"
+
+msgid "Rise set"
+msgstr "设置字体提升"
+
+msgid "Scale"
+msgstr "缩放"
+
+msgid "Scale set"
+msgstr "设置字体缩放"
+
+msgid "Should the text box height grow if the text does not fit?"
+msgstr "如果文本放不下，是否应增加文本框高度？"
+
+msgid "Size of font, relative to default size"
+msgstr "字体大小，相对于默认大小"
+
+msgid "Strikethrough"
+msgstr "删除线"
+
+msgid "Strikethrough set"
+msgstr "设置删除线"
+
+msgid "Style of underline for this text"
+msgstr "为文本加上下划线"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Text color, as a GdkColor"
+msgstr "文本颜色，用 GdkColor 表示"
+
+msgid "Text color, as an R/G/B/A combined integer"
+msgstr "文本颜色，用 R/G/B/A 组合整形数值表示"
+
+msgid "Text color, as string"
+msgstr "文本颜色，用字符串表示"
+
+msgid "Text direction"
+msgstr "文本方向"
+
+msgid "Text height"
+msgstr "文本高度"
+
+msgid "Text to display"
+msgstr "要显示的文本"
+
+msgid "Text to render"
+msgstr "要显示的文本"
+
+msgid "Text width"
+msgstr "文本宽度"
+
+msgid "The antialiasing mode of the canvas."
+msgstr "画布的反锯齿模式。"
+
+msgid "Underline"
+msgstr "下划线"
+
+msgid "Underline set"
+msgstr "设置下划线"
+
+msgid "Visible"
+msgstr "可见"
+
+msgid "Whether this tag affects font scaling"
+msgstr "此标记是否会影响字体缩放"
+
+msgid "Whether this tag affects strikethrough"
+msgstr "此标记是否会影响删除线"
+
+msgid "Whether this tag affects the font family"
+msgstr "此标记是否会影响字体族"
+
+msgid "Whether this tag affects the font size"
+msgstr "此标记是否会影响字体大小"
+
+msgid "Whether this tag affects the font stretch"
+msgstr "此标记是否会影响字体拉伸"
+
+msgid "Whether this tag affects the font style"
+msgstr "此标记是否会影响字体风格"
+
+msgid "Whether this tag affects the font variant"
+msgstr "此标记是否会影响字体变体"
+
+msgid "Whether this tag affects the font weight"
+msgstr "此标记是否会影响字体粗细"
+
+msgid "Whether this tag affects the rise"
+msgstr "此标记是否会影响字体提升"
+
+msgid "Whether this tag affects underlining"
+msgstr "此标记是否会影响下划线"
+
+msgid "Whether to strike through the text"
+msgstr "是否在文本上划删除线"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "Width for text box"
+msgstr "文本框的宽度"
+
+msgid "Width of the rendered text"
+msgstr "显示文本的宽度"
+
+msgid "Wrap Mode"
+msgstr "换行模式"
+
+msgid "Wrap mode for multiline text"
+msgstr "对多行文本采用换行模式"
+
+msgid "X"
+msgstr "X"
+
+msgid "X position"
+msgstr "X 位置"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Y position"
+msgstr "Y 位置"

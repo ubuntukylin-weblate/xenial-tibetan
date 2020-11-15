@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ATK HEAD\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=atk&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-09-21 17:11+0200\n"
+"PO-Revision-Date: 2014-06-04 19:35+0000\n"
+"Last-Translator: Sphinx Jiang <Unknown>\n"
+"Language-Team: Chinese Simplified <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:43+0000\n"
+
+msgid "Accessible Description"
+msgstr "容易理解的解释"
+
+msgid "Accessible Layer"
+msgstr "可访问层"
+
+msgid "Accessible MDI Value"
+msgstr "可访问的MDI值"
+
+msgid "Accessible Name"
+msgstr "容易理解的名称"
+
+msgid "Accessible Parent"
+msgstr "可访问的父控件"
+
+msgid "Accessible Role"
+msgstr "可访问的角色"
+
+msgid "Accessible Table Caption"
+msgstr "可访问的表格标题"
+
+msgid "Accessible Table Caption Object"
+msgstr "可访问的表格标题对象"
+
+msgid "Accessible Table Column Description"
+msgstr "可访问的表格列描述"
+
+msgid "Accessible Table Column Header"
+msgstr "可访问的表格列头"
+
+msgid "Accessible Table Row Description"
+msgstr "可访问的表格行描述"
+
+msgid "Accessible Table Row Header"
+msgstr "可访问的表格行头"
+
+msgid "Accessible Table Summary"
+msgstr "可访问的表格摘要"
+
+msgid "Accessible Value"
+msgstr "可访问的值"
+
+msgid "Description of an object, formatted for assistive technology access"
+msgstr "一个对象的解释，为辅助技术识别而格式化"
+
+msgid "End index"
+msgstr "结束索引"
+
+msgid "Is used to notify that the table caption has changed"
+msgstr "用来通知表格标题已被改变"
+
+msgid ""
+"Is used to notify that the table caption has changed; this property should "
+"not be used. accessible-table-caption-object should be used instead"
+msgstr "用来通知表格标题已被改变；不应使用此属性。请用 accessible-table-caption-object 代替"
+
+msgid "Is used to notify that the table column description has changed"
+msgstr "用来通知表格列描述已被改变"
+
+msgid "Is used to notify that the table column header has changed"
+msgstr "用来通知表格列头已被改变"
+
+msgid "Is used to notify that the table row description has changed"
+msgstr "用来通知表格行描述已被改变"
+
+msgid "Is used to notify that the table row header has changed"
+msgstr "用来通知表格行头已被改变"
+
+msgid "Is used to notify that the table summary has changed"
+msgstr "用来通知表格摘要已被改变"
+
+msgid "Is used to notify that the value has changed"
+msgstr "用来通知值已被改变"
+
+msgid "Number of Accessible Hypertext Links"
+msgstr "可访问的超文本链接数"
+
+msgid "Number of Anchors"
+msgstr "定位数量"
+
+msgid "Object instance's name formatted for assistive technology access"
+msgstr "为辅助技术识别而格式化的对象实例名"
+
+msgid ""
+"Parent of the current accessible as returned by atk_object_get_parent()"
+msgstr "atk_object_get_parent() 所返回的当前可访问控件的父类"
+
+msgid "Selected Link"
+msgstr "选中链接"
+
+msgid "Specifies whether the AtkHyperlink object is selected"
+msgstr "指明 AtkHyperlink 对象是否已被选择"
+
+msgid "Start index"
+msgstr "开始索引"
+
+msgid "The accessible MDI value of this object"
+msgstr "此对象的可访问的MDI值"
+
+msgid "The accessible layer of this object"
+msgstr "此对象的可访问层"
+
+msgid "The accessible role of this object"
+msgstr "此对象的可访问角色"
+
+msgid "The end index of the AtkHyperlink object"
+msgstr "AtkHyperlink 对象的结束索引"
+
+msgid "The number of anchors associated with the AtkHyperlink object"
+msgstr "同 AtkHyperlink 对象相关的定位数量"
+
+msgid "The number of links which the current AtkHypertext has"
+msgstr "当前 AtkHypertext 拥有的链接数"
+
+msgid "The start index of the AtkHyperlink object"
+msgstr "AtkHyperlink 对象的开始索引"
+
+msgid "accelerator label"
+msgstr "加速标签"
+
+msgid "acceptable"
+msgstr "可接受的"
+
+msgid "alert"
+msgstr "警告"
+
+msgid "animation"
+msgstr "动画"
+
+msgid "application"
+msgstr "应用程序"
+
+msgid "arrow"
+msgstr "箭头"
+
+msgid "article"
+msgstr "文章"
+
+msgid "audio"
+msgstr "音频"
+
+msgid "autocomplete"
+msgstr "自动补全"
+
+msgid "bad"
+msgstr "差"
+
+msgid "best"
+msgstr "极好"
+
+msgid "block quote"
+msgstr "块引用"
+
+msgid "calendar"
+msgstr "日历"
+
+msgid "canvas"
+msgstr "画布"
+
+msgid "caption"
+msgstr "题目"
+
+msgid "chart"
+msgstr "图表"
+
+msgid "check box"
+msgstr "复选框"
+
+msgid "check menu item"
+msgstr "复选菜单项"
+
+msgid "color chooser"
+msgstr "颜色选择器"
+
+msgid "column header"
+msgstr "列头"
+
+msgid "combo box"
+msgstr "组合框"
+
+msgid "comment"
+msgstr "注释"
+
+msgid "dateeditor"
+msgstr "日期编辑器"
+
+msgid "definition"
+msgstr "定义"
+
+msgid "description list"
+msgstr "描述列表"
+
+msgid "description term"
+msgstr "描述术语"
+
+msgid "description value"
+msgstr "描述值"
+
+msgid "desktop frame"
+msgstr "桌面框架"
+
+msgid "desktop icon"
+msgstr "桌面图标"
+
+msgid "dial"
+msgstr "拨号"
+
+msgid "dialog"
+msgstr "对话框"
+
+msgid "directory pane"
+msgstr "目录面板"
+
+msgid "document email"
+msgstr "电子邮件文档"
+
+msgid "document frame"
+msgstr "文档框架"
+
+msgid "document presentation"
+msgstr "演示文档"
+
+msgid "document spreadsheet"
+msgstr "电子表格文档"
+
+msgid "document text"
+msgstr "字处理文档"
+
+msgid "document web"
+msgstr "网页文档"
+
+msgid "drawing area"
+msgstr "绘图区"
+
+msgid "edit bar"
+msgstr "编辑栏"
+
+msgid "embedded component"
+msgstr "嵌入组件"
+
+msgid "entry"
+msgstr "输入"
+
+msgid "file chooser"
+msgstr "文件选择器"
+
+msgid "filler"
+msgstr "填充器"
+
+msgid "fontchooser"
+msgstr "字体选择器"
+
+msgid "footer"
+msgstr "页脚"
+
+msgid "form"
+msgstr "窗体"
+
+msgid "frame"
+msgstr "框架"
+
+msgid "glass pane"
+msgstr "玻璃面板"
+
+msgid "good"
+msgstr "好"
+
+msgid "grouping"
+msgstr "分组"
+
+msgid "header"
+msgstr "页眉"
+
+msgid "heading"
+msgstr "标题"
+
+msgid "high"
+msgstr "高"
+
+msgid "html container"
+msgstr "HTML 容器"
+
+msgid "icon"
+msgstr "图标"
+
+msgid "image"
+msgstr "图像"
+
+msgid "image map"
+msgstr "位图"
+
+msgid "info bar"
+msgstr "信息栏"
+
+msgid "input method window"
+msgstr "输入法窗口"
+
+msgid "internal frame"
+msgstr "内部框架"
+
+msgid "invalid"
+msgstr "无效"
+
+msgid "label"
+msgstr "标签"
+
+msgid "landmark"
+msgstr "界标"
+
+msgid "layered pane"
+msgstr "布局面板"
+
+msgid "level bar"
+msgstr "级别栏"
+
+msgid "link"
+msgstr "链接"
+
+msgid "list"
+msgstr "列表"
+
+msgid "list box"
+msgstr "列表盒"
+
+msgid "list item"
+msgstr "列表项"
+
+msgid "log"
+msgstr "日志"
+
+msgid "marquee"
+msgstr "选取框"
+
+msgid "math"
+msgstr "数学"
+
+msgid "medium"
+msgstr "中等"
+
+msgid "menu"
+msgstr "菜单"
+
+msgid "menu bar"
+msgstr "菜单栏"
+
+msgid "menu item"
+msgstr "菜单项"
+
+msgid "notification"
+msgstr "通知"
+
+msgid "option pane"
+msgstr "选项面板"
+
+msgid "page"
+msgstr "页面"
+
+msgid "page tab"
+msgstr "选项卡"
+
+msgid "page tab list"
+msgstr "选项卡列表"
+
+msgid "panel"
+msgstr "面板"
+
+msgid "paragraph"
+msgstr "段落"
+
+msgid "password text"
+msgstr "密码文本"
+
+msgid "popup menu"
+msgstr "弹出菜单"
+
+msgid "progress bar"
+msgstr "进度条"
+
+msgid "push button"
+msgstr "按钮"
+
+msgid "radio button"
+msgstr "单选钮"
+
+msgid "radio menu item"
+msgstr "单选菜单项"
+
+msgid "rating"
+msgstr "评级"
+
+msgid "redundant object"
+msgstr "冗余对象"
+
+msgid "root pane"
+msgstr "根面板"
+
+msgid "row header"
+msgstr "行头"
+
+msgid "ruler"
+msgstr "标尺"
+
+msgid "scroll bar"
+msgstr "滚动条"
+
+msgid "scroll pane"
+msgstr "滚动面板"
+
+msgid "section"
+msgstr "节"
+
+msgid "separator"
+msgstr "分隔条"
+
+msgid "slider"
+msgstr "滑块"
+
+msgid "spin button"
+msgstr "微调钮"
+
+msgid "split pane"
+msgstr "拆分面板"
+
+msgid "statusbar"
+msgstr "状态栏"
+
+msgid "strong"
+msgstr "强"
+
+msgid "table"
+msgstr "表格"
+
+msgid "table cell"
+msgstr "表格单元"
+
+msgid "table column header"
+msgstr "表格列头"
+
+msgid "table row"
+msgstr "表格行"
+
+msgid "table row header"
+msgstr "表格行头"
+
+msgid "tear off menu item"
+msgstr "可分离菜单项"
+
+msgid "terminal"
+msgstr "终端"
+
+msgid "text"
+msgstr "文本"
+
+msgid "timer"
+msgstr "定时器"
+
+msgid "title bar"
+msgstr "标题栏"
+
+msgid "toggle button"
+msgstr "切换按钮"
+
+msgid "tool bar"
+msgstr "工具栏"
+
+msgid "tool tip"
+msgstr "工具提示"
+
+msgid "tree"
+msgstr "树"
+
+msgid "tree item"
+msgstr "树条目"
+
+msgid "tree table"
+msgstr "树型表格"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "very bad"
+msgstr "很差"
+
+msgid "very good"
+msgstr "很好"
+
+msgid "very high"
+msgstr "很高"
+
+msgid "very low"
+msgstr "很低"
+
+msgid "very strong"
+msgstr "很强"
+
+msgid "very weak"
+msgstr "很弱"
+
+msgid "video"
+msgstr "视频"
+
+msgid "viewport"
+msgstr "视区"
+
+msgid "weak"
+msgstr "弱"
+
+msgid "window"
+msgstr "窗口"

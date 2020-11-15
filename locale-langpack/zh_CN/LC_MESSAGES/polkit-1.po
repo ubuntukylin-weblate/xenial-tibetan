@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: policykit-1\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-01-17 23:13+0000\n"
+"PO-Revision-Date: 2012-03-12 15:29+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:34+0000\n"
+
+msgid "Authentication is needed to run `$(program)' as the super user"
+msgstr "要以超级用户的身份运行“$(program)” 程序，您必须通过验证"
+
+msgid "Authentication is needed to run `$(program)' as user $(user)"
+msgstr "要以$(user)的身份运行“$(program)”程序，您必须通过验证"
+
+msgid "Authentication is required to configure lock down policy"
+msgstr "要设置锁定规则，您必须通过验证"
+
+msgid "Authentication is required to run a program as another user"
+msgstr "要以其他身份运行程序，您必须通过验证"
+
+msgid ""
+"Authentication is required to run the PolicyKit example program Frobnicate "
+"(user=$(user), program=$(program), command_line=$(command_line))"
+msgstr ""
+"要运行 PolicyKit 的示例程序 Frobnicate (用户名=$(user), 程序=$(program), "
+"命令行=$(command_line))，您必须通过验证"
+
+msgid "Configure lock down for an action"
+msgstr "设置某个动作的锁定状态"
+
+msgid "Run programs as another user"
+msgstr "以其他身份运行程序"
+
+msgid "Run the PolicyKit example program Frobnicate"
+msgstr "运行 PolicyKit 的示例程序 - Frobnicate"

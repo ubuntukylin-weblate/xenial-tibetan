@@ -1,0 +1,1192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager HEAD\n"
+"Report-Msgid-Bugs-To: sebastian.heinlein@web.de\n"
+"POT-Creation-Date: 2016-04-08 00:17+0000\n"
+"PO-Revision-Date: 2016-03-02 08:02+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 08:14+0000\n"
+
+msgid ""
+"\n"
+"\n"
+"Please report this bug in a browser at http://bugs.launchpad.net/ubuntu/+source/ubuntu-release-upgrader/+filebug and attach the files in /var/log/dist-upgrade/ to the bug report.\n"
+"%s"
+msgstr ""
+"\n"
+"\n"
+"请将问题报告至 http://bugs.launchpad.net/ubuntu/+source/ubuntu-release-upgrader/+filebug 并将 /var/log/dist-upgrade/ 文件作为附件上传到问题报告。\n"
+"%s"
+
+msgid ""
+"\n"
+"\n"
+"You have to download a total of %s. "
+msgstr ""
+"\n"
+"\n"
+"您共需下载 %s。 "
+
+msgid "    "
+msgstr "    "
+
+msgid ""
+"%(amount)d installed package is no longer supported by Canonical. You can "
+"still get support from the community."
+msgid_plural ""
+"%(amount)d installed packages are no longer supported by Canonical. You can "
+"still get support from the community."
+msgstr[0] "%(amount)d 个已安装的软件包不再被 Canonical 支持。您仍然可以获得社区支持。"
+
+msgid "%(str_days)s %(str_hours)s"
+msgstr "%(str_days)s %(str_hours)s"
+
+msgid "%(str_hours)s %(str_minutes)s"
+msgstr "%(str_hours)s %(str_minutes)s"
+
+msgid "%d new package is going to be installed."
+msgid_plural "%d new packages are going to be installed."
+msgstr[0] "将安装 %d 个新的软件包。"
+
+msgid "%d package is going to be removed."
+msgid_plural "%d packages are going to be removed."
+msgstr[0] "将删除 %d 个软件包。"
+
+msgid "%d package is going to be upgraded."
+msgid_plural "%d packages are going to be upgraded."
+msgstr[0] "将升级 %d 个软件包。"
+
+msgid "%li day"
+msgid_plural "%li days"
+msgstr[0] "%li 天"
+
+msgid "%li hour"
+msgid_plural "%li hours"
+msgstr[0] "%li 小时"
+
+msgid "%li minute"
+msgid_plural "%li minutes"
+msgstr[0] "%li 分钟"
+
+msgid "%li second"
+msgid_plural "%li seconds"
+msgstr[0] "%li 秒"
+
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+msgid "&Close"
+msgstr "关闭(&C)"
+
+msgid "&Start Upgrade"
+msgstr "开始升级"
+
+msgid "&Upgrade"
+msgstr "升级"
+
+msgid "*DEPRECATED* this option will be ignored"
+msgstr "*已废弃* 这个选项将被忽略"
+
+msgid "<<< Hide Difference"
+msgstr "<<< 隐藏差别"
+
+msgid "<<< Hide Terminal"
+msgstr "<<< 隐藏终端"
+
+msgid ""
+"<b><big>Cancel the running upgrade?</big></b>\n"
+"\n"
+"The system could be in an unusable state if you cancel the upgrade. You are strongly adviced to resume the upgrade."
+msgstr ""
+"<b><big>取消正在运行的升级？</big></b>\n"
+"如果您取消升级，系统可能不稳定。强烈建议您继续升级。"
+
+msgid ""
+"<b><big>Cancel the running upgrade?</big></b>\n"
+"\n"
+"The system could be in an unusable state if you cancel the upgrade. You are strongly advised to resume the upgrade."
+msgstr ""
+"<b><big>取消正在运行的升级？</big></b>\n"
+"\n"
+"如果取消升级系统可能不稳定，强烈建议您继续升级。"
+
+msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+msgstr "<b><big>重新启动系统以完成升级</big></b>"
+
+msgid ""
+"<b><big>Restart the system to complete the upgrade</big></b>\n"
+"\n"
+"Please save your work before continuing."
+msgstr ""
+"<b><big>重启系统以完成升级</big></b>\n"
+"\n"
+"请在继续前保存你的工作。"
+
+msgid "<b><big>Start the upgrade?</big></b>"
+msgstr "<b><big>开始升级？</big></b>"
+
+msgid "<b><big>Upgrading Ubuntu to version 16.04</big></b>"
+msgstr "<b><big>升级 Ubuntu 到 16.04</big></b>"
+
+msgid ""
+"<b>A new version of Ubuntu is available. Would you like to upgrade?</b>"
+msgstr "<b>有新版本的 Ubuntu 可用。您想升级吗？</b>"
+
+msgid "<b>Downgrade (%s)</b>"
+msgstr "<b>降级 (%s)</b>"
+
+msgid "A fatal error occurred"
+msgstr "出现致命错误"
+
+msgid ""
+"A problem occurred during the clean-up. Please see the below message for "
+"more information. "
+msgstr "清理时出现问题。更多信息请查看以下消息。 "
+
+msgid ""
+"A problem occurred during the update. This is usually some sort of network "
+"problem, please check your network connection and retry."
+msgstr "升级过程中出错。这通常是一些网络问题，请检查您的网络连接后再试"
+
+msgid "Aborting"
+msgstr "中止"
+
+msgid "About %s remaining"
+msgstr "大约还要 %s"
+
+msgid "Add debug output"
+msgstr "添加调试输出"
+
+msgid ""
+"After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+"\n"
+"Should default entries for '%s' be added? If you select 'No', the upgrade will cancel."
+msgstr ""
+"扫描“sources.list”后未发现用于“%s”的可用项。\n"
+"\n"
+"是否为“%s”添加默认项？如果选择“否”，将会取消升级。"
+
+msgid ""
+"After updating your package information, the essential package '%s' could not be located. This may be because you have no official mirrors listed in your software sources, or because of excessive load on the mirror you are using. See /etc/apt/sources.list for the current list of configured software sources.\n"
+"In the case of an overloaded mirror, you may want to try the upgrade again later."
+msgstr ""
+"在更新您的软件包信息后，无法定位必要的软件包“%s”。这可能是因为您没有在软件源中使用官方镜像，或您正在使用的镜像负载过重。请查看 /etc/apt/sources.list 文件了解软件源当前的配置列表。\n"
+"如果是因为镜像服务器负载过重，您可能需要稍后重试升级。"
+
+msgid ""
+"An unresolvable problem occurred while calculating the upgrade.\n"
+"\n"
+" This can be caused by:\n"
+" * Upgrading to a pre-release version of Ubuntu\n"
+" * Running the current pre-release version of Ubuntu\n"
+" * Unofficial software packages not provided by Ubuntu\n"
+"\n"
+msgstr ""
+"在筹划升级时，一个不可解决问题发生了：\n"
+"\n"
+" 这可能是由以下原因造成的：\n"
+" *升级为 Ubuntu 的预发行版本\n"
+" *运行目前的 Ubuntu 预发布版本\n"
+" *不是由 Ubuntu 提供的非官方软件包\n"
+"\n"
+
+msgid "An upgrade from '%s' to '%s' is not supported with this tool."
+msgstr "此工具不支持从 '%s' 到 ‘%s' 的升级。"
+
+msgid "Applying changes"
+msgstr "正在应用更改"
+
+msgid "Ask Me Later"
+msgstr "稍后询问"
+
+msgid ""
+"Authenticating the upgrade failed. There may be a problem with the network "
+"or with the server. "
+msgstr "认证升级信息失败。可能是网络或服务器的问题。 "
+
+msgid "Authentication failed"
+msgstr "认证失败"
+
+msgid "Broken packages"
+msgstr "破损的软件包"
+
+msgid "Calculating the changes"
+msgstr "正在计算变更"
+
+msgid "Can not run the upgrade"
+msgstr "不能运行升级"
+
+msgid "Can not upgrade"
+msgstr "无法升级"
+
+msgid "Can not write to '%s'"
+msgstr "无法写入 '%s'"
+
+msgid "Can't guess meta-package"
+msgstr "无法猜出元软件包"
+
+msgid "Can't install '%s'"
+msgstr "无法安装 '%s'"
+
+msgid "Cancel Upgrade?"
+msgstr "取消升级？"
+
+msgid "Check if upgrading to the latest devel release is possible"
+msgstr "验证是否能够升级到最新版本"
+
+msgid ""
+"Check only if a new distribution release is available and report the result "
+"via the exit code"
+msgstr "仅在有新的发行版发布时检查，并通过退出码(exit code)报告结果"
+
+msgid "Checking for a new Ubuntu release"
+msgstr "正在检查新版 Ubuntu"
+
+msgid "Checking package manager"
+msgstr "正在检查软件包管理器"
+
+msgid "Cleaning up"
+msgstr "正在清理"
+
+msgid "Continue [Yn] "
+msgstr "继续 [Yn] "
+
+msgid "Continue [yN] "
+msgstr "继续 [yN] "
+
+msgid "Continue running under SSH?"
+msgstr "继续在 SSH 下执行？"
+
+msgid "Could not calculate sources.list entry"
+msgstr "无法计算 sources.list 条目"
+
+msgid "Could not calculate the upgrade"
+msgstr "无法计算升级"
+
+msgid "Could not download the release notes"
+msgstr "无法下载发行说明"
+
+msgid "Could not download the upgrades"
+msgstr "无法下载升级包"
+
+msgid "Could not find the release notes"
+msgstr "无法找到发行注记"
+
+msgid "Could not install '%s'"
+msgstr "无法安装“%s”"
+
+msgid "Could not install the upgrades"
+msgstr "无法安装升级"
+
+msgid "Could not run the upgrade tool"
+msgstr "不能运行升级工具"
+
+msgid "Ctrl-c pressed"
+msgstr "Crtl+C 被按下"
+
+msgid "Custom servers"
+msgstr "自定义服务器"
+
+msgid "Demoted:\n"
+msgstr "降级：\n"
+
+msgid "Details"
+msgstr "细节"
+
+msgid "Details [d]"
+msgstr "详细信息[d]"
+
+msgid "Difference between the files"
+msgstr "文件之间的差别"
+
+msgid "Directory that contains the data files"
+msgstr "包含数据文件的文件夹"
+
+msgid "Disable GNU screen support"
+msgstr "关闭对 GNU screen 的支持"
+
+msgid "Distribution Upgrade"
+msgstr "发行版升级"
+
+msgid "Do you want to start the upgrade?"
+msgstr "您要开始升级么？"
+
+msgid "Don't Upgrade"
+msgstr "不升级"
+
+msgid "Downloading additional package files..."
+msgstr "正在下载附加软件包..."
+
+msgid "Downloading file %(current)li of %(total)li"
+msgstr "正在下载文件 %(current)li/%(total)li"
+
+msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+msgstr "正在下载文件 %(current)li/%(total)li 速度 %(speed)s/s"
+
+msgid "Downloading the release upgrade tool"
+msgstr "正在下载发布升级工具"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error authenticating some packages"
+msgstr "一些软件包认证出错"
+
+msgid "Error during commit"
+msgstr "确认时出错"
+
+msgid "Error during update"
+msgstr "升级时出错"
+
+msgid ""
+"Extracting the upgrade failed. There may be a problem with the network or "
+"with the server. "
+msgstr "提取升级信息失败。可能是网络或服务器的问题。 "
+
+msgid "Failed to add the CD"
+msgstr "添加 CD 失败"
+
+msgid "Failed to add the cdrom"
+msgstr "添加光驱失败"
+
+msgid "Failed to extract"
+msgstr "提取失败"
+
+msgid "Failed to fetch"
+msgstr "下载失败"
+
+msgid "Fetching"
+msgstr "正在获取"
+
+msgid ""
+"Fetching and installing the upgrade can take several hours. Once the "
+"download has finished, the process cannot be canceled."
+msgstr "升级文件的获取和安装可能会耗费几小时的时间。一旦下载完毕就不能取消该进程。"
+
+msgid "Fetching file %li of %li"
+msgstr "下载第 %li 个文件(共 %li 个文件)"
+
+msgid "Fetching file %li of %li at %sB/s"
+msgstr "正在下载文件 %li/%li 速度 %s/s"
+
+msgid "Fetching is complete"
+msgstr "下载完成"
+
+msgid "Fetching the upgrade failed. There may be a network problem. "
+msgstr "获取升级信息失败。可能网络有问题。 "
+
+msgid "File %s of %s"
+msgstr "文件 %s/%s"
+
+msgid "File %s of %s at %sB/s"
+msgstr "文件 %s/%s 速度： %sB/s"
+
+msgid ""
+"For upgrade information, please visit:\n"
+"%(url)s\n"
+msgstr ""
+"要获得关于升级的信息，请访问：\n"
+"%(url)s\n"
+
+msgid "Generate default sources?"
+msgstr "生成默认的源？"
+
+msgid "Getting new packages"
+msgstr "获取新的软件包"
+
+msgid "Getting new software channels"
+msgstr "获得新的软件源"
+
+msgid "Getting upgrade prerequisites failed"
+msgstr "准备升级失败"
+
+msgid ""
+"If none of this applies, then please report this bug using the command "
+"'ubuntu-bug ubuntu-release-upgrader-core' in a terminal."
+msgstr "如果这些都不生效，请在终端中使用命令 'ubuntu-bug ubuntu-release-upgrader-core' 来报告 bug。"
+
+msgid ""
+"If you run a firewall, you may need to temporarily open this port. As this is potentially dangerous it's not done automatically. You can open the port with e.g.:\n"
+"'%s'"
+msgstr ""
+"如果您运行了一个防火墙，可能需要临时打开这个端口。这可能有些危险，因此没有自动进行这个操作。您可以通过类似这样的命令打开端口：\n"
+"%s"
+
+msgid "Include latest updates from the Internet?"
+msgstr "包括网络上的最新更新？"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Install %s"
+msgstr "安装 %s"
+
+msgid "Install (%s)"
+msgstr "安装 (%s)"
+
+msgid "Install: %s\n"
+msgstr "安装：%s\n"
+
+msgid ""
+"Installing the upgrade can take several hours. Once the download has "
+"finished, the process cannot be canceled."
+msgstr "安装升级可能会耗费几小时的时间。一旦下载完毕就不能取消该进程。"
+
+msgid "Installing the upgrades"
+msgstr "正在安装升级"
+
+msgid "Invalid package information"
+msgstr "无效的软件包信息"
+
+msgid ""
+"It was impossible to install a required package. Please report this as a bug"
+" using 'ubuntu-bug ubuntu-release-upgrader-core' in a terminal."
+msgstr "无法安装所需的软件包。请在终端使用“ubuntu-bug ubuntu-release-upgrader-core”将其报为 bug。"
+
+msgid ""
+"It was not possible to authenticate some packages. This may be a transient "
+"network problem. You may want to try again later. See below for a list of "
+"unauthenticated packages."
+msgstr "一些软件包无法通过签名验证。这可能是暂时的网络问题，您可以在稍后再试。以下是未认证软件包的列表。"
+
+msgid "It was not possible to create the sandbox environment."
+msgstr "不能创建沙盒环境"
+
+msgid ""
+"Its not possible to write to the system directory '%s' on your system. The upgrade can not continue.\n"
+"Please make sure that the system directory is writable."
+msgstr ""
+"无法写入您的系统目录 %s ，升级无法继续。\n"
+"请确保系统目录可写。"
+
+msgid "Main server"
+msgstr "主服务器"
+
+msgid "Media Change"
+msgstr "改变介质"
+
+msgid "New release '%s' available."
+msgstr "有新版本“%s”可供使用"
+
+msgid "No ARMv6 CPU"
+msgstr "没有 ARMv6 CPU"
+
+msgid "No i686 CPU"
+msgstr "非 i686 CPU"
+
+msgid "No init available"
+msgstr "无可用的 init"
+
+msgid "No longer needed (%s)"
+msgstr "不再需要 (%s)"
+
+msgid "No longer supported %s"
+msgstr "不再支持 %s"
+
+msgid "No longer supported by Canonical (%s)"
+msgstr "不再被 Canonical 支持 (%s)"
+
+msgid "No longer supported: %s\n"
+msgstr "不再支持：%s\n"
+
+msgid "No new release found"
+msgstr "未发现新版本"
+
+msgid "No valid mirror found"
+msgstr "未找到可用的镜像"
+
+msgid "Not enough free disk space"
+msgstr "磁盘空间不足"
+
+msgid "Not for humans during development stage of release %s"
+msgstr "%s 版本尚在开发阶段，不适合普通用户使用"
+
+msgid "PAE not enabled"
+msgstr "未启用 PAE 功能"
+
+msgid "Package in inconsistent state"
+msgid_plural "Packages in inconsistent state"
+msgstr[0] "软件包存在冲突"
+
+msgid "Perform a partial upgrade"
+msgstr "执行部分升级"
+
+msgid "Perform a partial upgrade only (no sources.list rewriting)"
+msgstr "仅执行部分升级(不重写 sources.list)"
+
+msgid "Perform a release upgrade"
+msgstr "执行版本升级"
+
+msgid "Please check your internet connection."
+msgstr "请检查您的互联网连接。"
+
+msgid "Please insert '%s' into the drive '%s'"
+msgstr "请将 '%s' 插入光驱 '%s'"
+
+msgid ""
+"Please report this as a bug (if you haven't already) and include the files /var/log/dist-upgrade/main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade has aborted.\n"
+"Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+msgstr ""
+"请报告这个错误（如果还没有的话）并在报告中包括文件 /var/log/dist-upgrade/main.log 和 /var/log/dist-upgrade/apt.log 。升级已取消。\n"
+"您的原始 sources.list 已保存在 /etc/apt/sources.list.distUpgrade 。"
+
+msgid ""
+"Please report this as a bug and include the files /var/log/dist-upgrade/main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade has aborted.\n"
+"Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+msgstr ""
+"请报告这个错误并在报告中包括文件 /var/log/dist-upgrade/main.log 和 /var/log/dist-upgrade/apt.log 。升级已取消。\n"
+"您的原始 sources.list 已保存在 /etc/apt/sources.list.distUpgrade 。"
+
+msgid ""
+"Preparing the system for the upgrade failed so a bug reporting process is "
+"being started."
+msgstr "更新时的系统准备失败，已启动错误报告进程。"
+
+msgid ""
+"Preparing the system for the upgrade failed. To report a bug install apport "
+"and then execute 'apport-bug ubuntu-release-upgrader'."
+msgstr ""
+"更新时的系统准备失败。如果您想报告这个错误，请安装 apport 软件，然后执行 apport-bug ubuntu-release-upgrader "
+"命令。"
+
+msgid "Preparing the upgrade failed"
+msgstr "升级准备失败"
+
+msgid "Preparing to upgrade"
+msgstr "正在准备升级"
+
+msgid "Progress: [%3i%%]"
+msgstr "进度：[%3i%%]"
+
+msgid "Reading cache"
+msgstr "正在读取缓存"
+
+msgid "Reboot required"
+msgstr "需要重启"
+
+msgid "Release Notes"
+msgstr "发行注记"
+
+msgid "Release upgrade not possible right now"
+msgstr "版本升级目前不可用"
+
+msgid "Remove %s"
+msgstr "移除 %s"
+
+msgid "Remove (%s)"
+msgstr "卸载 (%s)"
+
+msgid "Remove (was auto installed) %s"
+msgstr "移除(被自动安装的) %s"
+
+msgid "Remove obsolete packages?"
+msgstr "删除陈旧的软件包？"
+
+msgid "Remove package in bad state"
+msgid_plural "Remove packages in bad state"
+msgstr[0] "卸载状态异常的软件包"
+
+msgid "Remove: %s\n"
+msgstr "移除：%s\n"
+
+msgid "Removing the packages can take several hours. "
+msgstr "包的删除可能会耗费几小时的时间。 "
+
+msgid ""
+"Replace the customized configuration file\n"
+"'%s'?"
+msgstr ""
+"替换自定义配置文件\n"
+"“%s”吗？"
+
+msgid "Repository information invalid"
+msgstr "仓库信息无效"
+
+msgid "Required depends is not installed"
+msgstr "需要的依赖关系未安装"
+
+msgid "Restart required"
+msgstr "需要重启"
+
+msgid "Restarting the computer"
+msgstr "系统正在重新启动"
+
+msgid "Restoring original system state"
+msgstr "正在恢复原始系统状态"
+
+msgid "Run 'do-release-upgrade' to upgrade to it."
+msgstr "运行“do-release-upgrade”来升级到新版本。"
+
+msgid ""
+"Run in a special upgrade mode.\n"
+"Currently 'desktop' for regular upgrades of a desktop system and 'server' for server systems are supported."
+msgstr ""
+"以特定模式升级。\n"
+"目前支持：用“桌面”为桌面系统，“服务器”为服务器系统升级。"
+
+msgid "Run the specified frontend"
+msgstr "运行指定的前端"
+
+msgid "Running partial upgrade"
+msgstr "运行部分升级"
+
+msgid ""
+"Running the 'unity' desktop environment is not fully supported by your "
+"graphics hardware. You will maybe end up in a very slow environment after "
+"the upgrade. Our advice is to keep the LTS version for now. For more "
+"information see "
+"https://wiki.ubuntu.com/X/Bugs/UpdateManagerWarningForUnity3D Do you still "
+"want to continue with the upgrade?"
+msgstr ""
+"您的图形硬件不完全支持运行 'unity' 桌面环境。升级可能会产生一个非常缓慢的环境。我们建议暂时保持 LTS 版本。要获取更多信息，请访问 "
+"https://wiki.ubuntu.com/X/Bugs/UpdateManagerWarningForUnity3D 您是否要继续升级？"
+
+msgid "Sandbox mode"
+msgstr "沙盒模式"
+
+msgid "Sandbox setup failed"
+msgstr "安装沙盒失败"
+
+msgid "Sandbox upgrade using aufs"
+msgstr "使用 aufs 进行沙盒升级"
+
+msgid "Searching for obsolete software"
+msgstr "正在搜索废弃的软件"
+
+msgid "Server for %s"
+msgstr "%s 的服务器"
+
+msgid "Set datadir"
+msgstr "设置数据目录"
+
+msgid "Setting new software channels"
+msgstr "设定新的软件源"
+
+msgid "Show Difference >>>"
+msgstr "显示差别 >>>"
+
+msgid "Show Terminal >>>"
+msgstr "显示终端 >>>"
+
+msgid "Show progress of individual files"
+msgstr "显示单个文件进度"
+
+msgid "Show version and exit"
+msgstr "显示版本并退出"
+
+msgid "Software Updater"
+msgstr "软件更新器"
+
+msgid ""
+"Some third party entries in your sources.list were disabled. You can re-"
+"enable them after the upgrade with the 'software-properties' tool or your "
+"package manager."
+msgstr "您的 sources.list 中的一些第三方源被禁用。您可以在升级后用\"软件源\"工具或包管理器来重新启用它们。"
+
+msgid "Sorry, adding the cdrom was not successful."
+msgstr "对不起，没有成功添加光驱。"
+
+msgid "Starting additional sshd"
+msgstr "正在启用额外的 ssh 守护进程"
+
+msgid "System upgrade is complete."
+msgstr "系统升级完成"
+
+msgid "Terminal"
+msgstr "终端"
+
+msgid "Test upgrade with a sandbox aufs overlay"
+msgstr "进行带沙盒 aufs 隔离层的测试升级"
+
+msgid "The 'diff' command was not found"
+msgstr "找不到 diff 命令"
+
+msgid "The error message is '%s'."
+msgstr "错误信息是“%s”。"
+
+msgid "The essential package '%s' is marked for removal."
+msgstr "必要的软件包“%s”被标记为移除。"
+
+msgid "The options --devel-release and --proposed are"
+msgstr "--devel-release 与 --proposed 选项"
+
+msgid ""
+"The package '%s' is in an inconsistent state and needs to be reinstalled, "
+"but no archive can be found for it. Do you want to remove this package now "
+"to continue?"
+msgid_plural ""
+"The packages '%s' are in an inconsistent state and need to be reinstalled, "
+"but no archives can be found for them. Do you want to remove these packages "
+"now to continue?"
+msgstr[0] "软件包“%s”处于不一致的状态，需要重新安装，但是没有找到对应的存档。您希望现在删除这个软件包以进行下一步吗？"
+
+msgid ""
+"The package '%s' is in an inconsistent state and needs to be reinstalled, "
+"but no archive can be found for it. Please reinstall the package manually or"
+" remove it from the system."
+msgid_plural ""
+"The packages '%s' are in an inconsistent state and need to be reinstalled, "
+"but no archive can be found for them. Please reinstall the packages manually"
+" or remove them from the system."
+msgstr[0] "软件包“%s”处于冲突状态，需要重新安装， 但是没能找到它的存档。请重新手动安装这个软件包或者将其从系统中删除。"
+
+msgid ""
+"The package '%s' is marked for removal but it is in the removal blacklist."
+msgstr "软件包“%s”标记为可移除，但它已在移除黑名单中。"
+
+msgid "The partial upgrade was completed."
+msgstr "部分升级完成。"
+
+msgid ""
+"The release upgrade can not be performed currently, please try again later. "
+"The server reported: '%s'"
+msgstr "发行版目前无法更新，请再试一次。服务器报告：'%s'"
+
+msgid "The required dependency '%s' is not installed. "
+msgstr "需要的依赖关系“%s”未安装 。 "
+
+msgid "The server may be overloaded"
+msgstr "服务器可能已过载"
+
+msgid "The server may be overloaded. "
+msgstr "服务器可能已过载。 "
+
+msgid "The software on this computer is up to date."
+msgstr "此计算机中的软件是最新软件。"
+
+msgid ""
+"The support in Ubuntu 12.04 LTS for your Intel graphics hardware is limited "
+"and you may encounter problems after the upgrade. For more information see "
+"https://wiki.ubuntu.com/X/Bugs/UpdateManagerWarningForI8xx Do you want to "
+"continue with the upgrade?"
+msgstr ""
+"Ubuntu 12.04 LTS 对 Intel 图形硬件的支持有限制，升级后您可能会遭遇问题。更多信息，请查看 "
+"https://wiki.ubuntu.com/X/Bugs/UpdateManagerWarningForI8xx 。仍然想要继续升级吗？"
+
+msgid ""
+"The system was unable to get the prerequisites for the upgrade. The upgrade will abort now and restore the original system state.\n"
+"\n"
+"Additionally, a bug reporting process is being started."
+msgstr ""
+"系统不能满足升级先决条件。现在会中止升级并恢复原来的系统状态。\n"
+"\n"
+"此外，错误报告进程也将启动。"
+
+msgid ""
+"The system was unable to get the prerequisites for the upgrade. The upgrade will abort now and restore the original system state.\n"
+"\n"
+"To report a bug install apport and then execute 'apport-bug ubuntu-release-upgrader'."
+msgstr ""
+"系统不能满足升级先决条件。现在会中止升级并恢复原来的系统状态。\n"
+"\n"
+"如果您想报告这个错误，请安装 apport 软件，然后执行 apport-bug ubuntu-release-upgrader 命令。"
+
+msgid ""
+"The upgrade has aborted. Please check your Internet connection or "
+"installation media and try again. "
+msgstr "更新已取消。请检查您的因特网连接或安装媒体，然后再试一遍。 "
+
+msgid ""
+"The upgrade has aborted. Please check your Internet connection or "
+"installation media and try again. All files downloaded so far have been "
+"kept."
+msgstr "已中止升级。请检查您的互联网连接或安装媒体并重试。所有已下载的文件都已保存。"
+
+msgid ""
+"The upgrade has aborted. The upgrade needs a total of %s free space on disk "
+"'%s'. Please free at least an additional %s of disk space on '%s'. Empty "
+"your trash and remove temporary packages of former installations using 'sudo"
+" apt-get clean'."
+msgstr ""
+"升级已被中断。此次升级需要有 %s 的可用空间在磁盘 %s 上。请释放至少 %s 的空间在磁盘 %s 上。您可以清空回收站并使用“sudo apt-"
+"get clean”命令以清除之前安装操作留下的临时文件。"
+
+msgid ""
+"The upgrade has aborted. Your system could be in an unusable state. A "
+"recovery will run now (dpkg --configure -a)."
+msgstr "更新已取消。您的系统可能处在不稳定状态。正在恢复 (dpkg --configure -a)。"
+
+msgid ""
+"The upgrade has completed but there were errors during the upgrade process."
+msgstr "升级已完成，但其间出现错误。"
+
+msgid ""
+"The upgrade is finished and a reboot is required. Do you want to do this "
+"now?"
+msgstr "升级已经完成并需要重启。您要现在重启么？"
+
+msgid ""
+"The upgrade system can use the internet to automatically download the latest updates and install them during the upgrade.  If you have a network connection this is highly recommended.\n"
+"\n"
+"The upgrade will take longer, but when it is complete, your system will be fully up to date.  You can choose not to do this, but you should install the latest updates soon after upgrading.\n"
+"If you answer 'no' here, the network is not used at all."
+msgstr ""
+"升级系统能够从网络上自动下载最新的更新文件并自动安装。如果网络连接可用，强烈建议启用此选项。\n"
+"\n"
+"升级时间可能加长，但升级结束后，您的系统将是最新的。您也可以选择在升级结束后再进行系统更新。\n"
+"如果选择\"否\"，就不会使用网络。"
+
+msgid ""
+"The upgrade will cancel now and the original system state will be restored. "
+"You can resume the upgrade at a later time."
+msgstr "升级将会取消，系统会恢复到原始状态。您可以在之后继续升级。"
+
+msgid ""
+"The upgrade will continue but the '%s' package may not be in a working "
+"state. Please consider submitting a bug report about it."
+msgstr "升级将继续进行，但“%s”可能没有工作。请考虑提交关于它的错误报告。"
+
+msgid ""
+"There are no upgrades available for your system. The upgrade will now be "
+"canceled."
+msgstr "你的系统没有可用升级。升级被取消。"
+
+msgid ""
+"There was a error adding the CD, the upgrade will abort. Please report this as a bug if this is a valid Ubuntu CD.\n"
+"\n"
+"The error message was:\n"
+"'%s'"
+msgstr ""
+"添加 CD 时出错，升级中止。如果这是一张有效的 Ubuntu CD，请您报告这个错误。\n"
+"\n"
+"错误信息是：\n"
+"'%s'"
+
+msgid "Third party sources disabled"
+msgstr "第三方源被禁用"
+
+msgid ""
+"This computer is currently using the AMD 'fglrx' graphics driver. No version of this driver is available that works with your hardware in Ubuntu 10.04 LTS.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"此计算机正在使用 AMD “fglrx”显卡驱动。该驱动在 Ubuntu 10.04 LTS 中没有与您的硬件相适应的版本。\n"
+"\n"
+"您想继续吗？"
+
+msgid ""
+"This download will take about %s with a 1Mbit DSL connection and about %s "
+"with a 56k modem."
+msgstr "使用 1Mbit 的 DSL 连接下载需要大约 %s 秒的时间， 使用 56K 的调制解调器连接大约需要 %s 秒时间。"
+
+msgid "This download will take about %s with your connection. "
+msgstr "根据您的连接速度，这次下载将要用大约 %s 的时间 "
+
+msgid ""
+"This is most likely a bug in the upgrade tool. Please report it as a bug "
+"using the command 'ubuntu-bug ubuntu-release-upgrader-core'."
+msgstr ""
+"这很有可能是升级工具中的一个 bug。请使用命令“ubuntu-bug ubuntu-release-upgrader-core”将其报为 bug。"
+
+msgid "This is most likely a transient problem, please try again later."
+msgstr "很可能发生了一个传输问题，请稍后重试。"
+
+msgid ""
+"This session appears to be running under ssh. It is not recommended to perform a upgrade over ssh currently because in case of failure it is harder to recover.\n"
+"\n"
+"If you continue, an additional ssh daemon will be started at port '%s'.\n"
+"Do you want to continue?"
+msgstr ""
+"此会话似乎是在 SSH 下运行。目前不推荐通过 SSH 执行升级，因为升级失败时较难恢复。\n"
+"\n"
+"如果您选择继续，将在 '%s' 端口上建立额外的 SSH 守护进程。\n"
+"您想要继续吗？"
+
+msgid ""
+"This upgrade is running in sandbox (test) mode. All changes are written to '%s' and will be lost on the next reboot.\n"
+"\n"
+"*No* changes written to a system directory from now until the next reboot are permanent."
+msgstr ""
+"本次更新运行在沙盘(测试)模式，所有变更都将写入 '%s' 并会在重启后丢失。\n"
+"\n"
+"从现在起对系统目录的变更重启后都将 *不复存在* 。"
+
+msgid ""
+"This usually is caused by a system where /tmp is mounted noexec. Please "
+"remount without noexec and run the upgrade again."
+msgstr "可能的原因是系统的 /tmp 目录无可执行权限。请以可执行权限重新挂载该目录，重新升级。"
+
+msgid ""
+"This usually means that another package management application (like apt-get"
+" or aptitude) already running. Please close that application first."
+msgstr "这通常意味着另一个软件包管理程序(如 apt-get 或 aptitude)正在运行。请先关闭那个程序。"
+
+msgid ""
+"This will abort the operation and may leave the system in a broken state. "
+"Are you sure you want to do that?"
+msgstr "这将取消本次操作且可能使系统处于被破坏的状态。您确定要这样做？"
+
+msgid "To continue please press [ENTER]"
+msgstr "按 [ENTER] 键以继续"
+
+msgid ""
+"To finish the upgrade, a restart is required.\n"
+"If you select 'y' the system will be restarted."
+msgstr ""
+"为了完成升级，必须重新启动。\n"
+"如果你选择“是”，系统将会重新启动。"
+
+msgid ""
+"To make recovery in case of failure easier, an additional sshd will be "
+"started on port '%s'. If anything goes wrong with the running ssh you can "
+"still connect to the additional one.\n"
+msgstr ""
+"为了在失败时更容易恢复，将在端口“%s”开启一个额外的 ssh 守护进程。如果当前运行的 ssh 发生错误，您仍能够通过该额外的 ssh 进行连接。\n"
+
+msgid "To perform a partial upgrade, you need to authenticate."
+msgstr "进行部分升级前，您需要授权该操作。"
+
+msgid "To prevent data loss close all open applications and documents."
+msgstr "为防止数据丢失，请关闭所有打开的应用程序和文档。"
+
+msgid "To upgrade Ubuntu, you need to authenticate."
+msgstr "升级 Ubuntu 版本前，您需要授权该操作。"
+
+msgid ""
+"Try upgrading to the latest release using the upgrader from $distro-proposed"
+msgstr "尝试通过 $distro-proposed 更新到最新版本。"
+
+msgid "Trying to install blacklisted version '%s'"
+msgstr "尝试安装黑名单版本“%s”"
+
+msgid "Ubuntu %(version)s Upgrade Available"
+msgstr "Ubuntu %(version)s 升级可用"
+
+msgid "Unable to get exclusive lock"
+msgstr "无法获得排它锁"
+
+msgid ""
+"Unable to locate any package files, perhaps this is not a Ubuntu Disc or the"
+" wrong architecture?"
+msgstr "无法定位任何软件包文件，也许这张不是 Ubuntu 光盘，或者其架构错误？"
+
+msgid "Updating repository information"
+msgstr "正在更新软件仓库信息"
+
+msgid "Upgrade"
+msgstr "升级"
+
+msgid "Upgrade %s"
+msgstr "升级 %s"
+
+msgid "Upgrade (%s)"
+msgstr "升级 (%s)"
+
+msgid "Upgrade canceled"
+msgstr "升级已取消"
+
+msgid "Upgrade complete"
+msgstr "升级完成"
+
+msgid "Upgrade to the development release"
+msgstr "升级到开发版"
+
+msgid "Upgrade tool"
+msgstr "升级工具"
+
+msgid "Upgrade tool signature"
+msgstr "升级工具签名"
+
+msgid "Upgrade: %s\n"
+msgstr "升级：%s\n"
+
+msgid "Upgrading"
+msgstr "正在升级"
+
+msgid ""
+"Upgrading may reduce desktop effects, and performance in games and other "
+"graphically intensive programs."
+msgstr "升级过程可能会降低桌面特效，游戏性能以及对显示要求高的程序。"
+
+msgid "Upgrading over remote connection not supported"
+msgstr "不支持通过远程连接升级"
+
+msgid ""
+"Upgrading the repository information resulted in a invalid file so a bug "
+"reporting process is being started."
+msgstr "更新软件源时返回了无效文件，已启动错误报告进程。"
+
+msgid ""
+"Upgrading the repository information resulted in a invalid file. To report a"
+" bug install apport and then execute 'apport-bug ubuntu-release-upgrader'."
+msgstr ""
+"升级软件仓库信息时得到了无效的文件。如果您想报告这个错误，请安装 apport 软件，然后执行 apport-bug ubuntu-release-"
+"upgrader 命令。"
+
+msgid ""
+"Use frontend. Currently available: \n"
+"DistUpgradeViewText, DistUpgradeViewGtk, DistUpgradeViewKDE"
+msgstr ""
+"使用前端。当前可用的有： \n"
+"DistUpgradeViewText, DistUpgradeViewGtk, DistUpgradeViewKDE"
+
+msgid "Use the given path to search for a cdrom with upgradable packages"
+msgstr "使用所给的路径查找带升级包的 CD-ROM"
+
+msgid "Verification failed"
+msgstr "验证失败"
+
+msgid ""
+"Verifying the upgrade failed.  There may be a problem with the network or "
+"with the server. "
+msgstr "验证升级程序失败。可能是网络或服务器的问题。 "
+
+msgid ""
+"While scanning your repository information no mirror entry for the upgrade was found. This can happen if you run an internal mirror or if the mirror information is out of date.\n"
+"\n"
+"Do you want to rewrite your 'sources.list' file anyway? If you choose 'Yes' here it will update all '%s' to '%s' entries.\n"
+"If you select 'No' the upgrade will cancel."
+msgstr ""
+"在扫描您的仓库信息时，未发现升级可用的镜像条目。可能是由于您运行一个内部镜像或者镜像信息过时。\n"
+"\n"
+"您要重写您的 ‘sources.list’ 文件？选择“是”，将更新所有从'%s'到'%s'的条目。\n"
+"选择“否”取消升级。"
+
+msgid "Yes, Upgrade Now"
+msgstr "是的，现在就升级"
+
+msgid ""
+"You are running the upgrade over a remote ssh connection with a frontend that does not support this. Please try a text mode upgrade with 'do-release-upgrade'.\n"
+"\n"
+"The upgrade will abort now. Please try without ssh."
+msgstr ""
+"您正在通过远程 SSH 升级，而前端程序不支持这种方式。请尝试在文本模式下通过 'do-release-upgrade' 命令进行升级。\n"
+"\n"
+"现在将退出升级。请试试不使用 ssh 的方式。"
+
+msgid ""
+"You can upgrade at a later time by opening Software Updater and click on "
+"\"Upgrade\"."
+msgstr "您可以稍后升级，打开软件更新器并点击“升级”即可。"
+
+msgid "You have declined the upgrade to Ubuntu %s"
+msgstr "您已经拒绝升级到 Ubuntu %s"
+
+msgid "You have declined to upgrade to the new Ubuntu"
+msgstr "您已经拒绝升级到新版本的 Ubuntu"
+
+msgid ""
+"You will lose any changes you have made to this configuration file if you "
+"choose to replace it with a newer version."
+msgstr "如果选择替换为新版本的配置文件，您将会失去所有已做的修改。"
+
+msgid "Your Ubuntu release is not supported anymore."
+msgstr "不再提供您的 Ubuntu 版本的支持。"
+
+msgid "Your graphics hardware may not be fully supported in Ubuntu 12.04 LTS."
+msgstr "Ubuntu 12.04 LTS 可能无法完全支持您的显卡。"
+
+msgid "Your graphics hardware may not be fully supported in Ubuntu 14.04."
+msgstr "您的图形硬件可能无法在 Ubuntu 14.04 上完全支持。"
+
+msgid ""
+"Your python install is corrupted. Please fix the '/usr/bin/python' symlink."
+msgstr "您的 python 安装错误，请修复“/usr/bin/python”符号链接。"
+
+msgid ""
+"Your system appears to be a virtualised environment without an init daemon, e.g. Linux-VServer. Ubuntu 10.04 LTS cannot function within this type of environment, requiring an update to your virtual machine configuration first.\n"
+"\n"
+"Are you sure you want to continue?"
+msgstr ""
+"您的系统似乎运行在一个没有 init daemon 的虚拟化环境中(如 Linux-VServer)，Ubuntu 10.04 LTS 无法在这种环境中运行，您需要先更新您的虚拟机配置。\n"
+"\n"
+"您确定要继续吗？"
+
+msgid ""
+"Your system contains broken packages that couldn't be fixed with this "
+"software. Please fix them first using synaptic or apt-get before proceeding."
+msgstr "您的系统包含有本软件不能修复的破损软件包，在您继续前请先用新立得或者 apt-get 修复它们。"
+
+msgid ""
+"Your system does not contain a %s or %s package and it was not possible to detect which version of Ubuntu you are running.\n"
+" Please install one of the packages above first using synaptic or apt-get before proceeding."
+msgstr ""
+"您的系统没有包含 %s 或 %s 包，不可能检测到您正在运行的 Ubuntu 版本。\n"
+"请先使用 synaptic 安装上述软件包之一或 apt-get 。"
+
+msgid ""
+"Your system uses a CPU that does not have PAE enabled. Ubuntu only supports non-PAE systems up to Ubuntu 12.04. To upgrade to a later version of Ubuntu, you must enable PAE (if this is possible) see:\n"
+"http://help.ubuntu.com/community/EnablingPAE"
+msgstr ""
+"您的系统使用的 CPU 没有启用 PAE (物理地址扩展)功能。Ubuntu 至多支持非 PAE 功能到 12.04 版。如果想升级到更高版本的 "
+"Ubuntu，您必须启用 PAE "
+"功能(在可能的前提下)。请常见：http://help.ubuntu.com/community/EnablingPAE"
+
+msgid ""
+"Your system uses an ARM CPU that is older than the ARMv6 architecture. All "
+"packages in karmic were built with optimizations requiring ARMv6 as the "
+"minimal architecture. It is not possible to upgrade your system to a new "
+"Ubuntu release with this hardware."
+msgstr ""
+"您的系统使用的是比 ARMv6 架构旧的 ARM CPU。karmic 中所有软件包构建时进行的优化都需要至少 ARMv6 的 CPU "
+"架构。在这种硬件基础上无法将您的系统升级到一个新的 Ubuntu 发行版。"
+
+msgid ""
+"Your system uses an i586 CPU or a CPU that does not have the 'cmov' "
+"extension. All packages were built with optimizations requiring i686 as the "
+"minimal architecture. It is not possible to upgrade your system to a new "
+"Ubuntu release with this hardware."
+msgstr ""
+"您的系统使用的是 i586 或是没有“cmov”扩展的 CPU。所有优化生成的软件包都需要最低 i686 的架构。这样的硬件无法升级到新的 Ubuntu"
+" 发行版。"
+
+msgid "_Cancel Upgrade"
+msgstr "取消升级(_C)"
+
+msgid "_Continue"
+msgstr "继续(_C)"
+
+msgid "_Keep"
+msgstr "保持(_K)"
+
+msgid "_Remove"
+msgstr "删除(_R)"
+
+msgid "_Replace"
+msgstr "替换(_R)"
+
+msgid "_Report Bug"
+msgstr "报告 Bug(_R)"
+
+msgid "_Restart Now"
+msgstr "现在重启(_R)"
+
+msgid "_Resume Upgrade"
+msgstr "恢复升级(_R)"
+
+msgid "_Start Upgrade"
+msgstr "开始升级(_R)"
+
+msgid "_Upgrade"
+msgstr "升级(_U)"
+
+msgid "authenticate '%(file)s' against '%(signature)s' "
+msgstr "使用 '%(signature)s' 对 '%(file)s' 进行验证 "
+
+msgid "d"
+msgstr "详"
+
+msgid "dependency problems - leaving unconfigured"
+msgstr "依赖关系问题 - 保持未配置状态"
+
+msgid "disabled on upgrade to %s"
+msgstr "已禁止升级到 %s"
+
+msgid "extracting '%s'"
+msgstr "正在提取 '%s'"
+
+msgid "mutually exclusive. Please use only one of them."
+msgstr "不相容，请只用其中的一个选项。"
+
+msgid "n"
+msgstr "n"
+
+msgid "y"
+msgstr "y"

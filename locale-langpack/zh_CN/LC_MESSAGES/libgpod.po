@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgpod 0.7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-13 08:40+0000\n"
+"PO-Revision-Date: 2016-04-12 23:34+0000\n"
+"Last-Translator: Tan Zhxin <Unknown>\n"
+"Language-Team: n/a\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:44+0000\n"
+
+msgid "'%s' could not be accessed (%s)."
+msgstr "无法存取'%s'(%s)"
+
+msgid "<No members>\n"
+msgstr "<无成员>\n"
+
+msgid "<Unnamed>"
+msgstr "<未命名的>"
+
+msgid "Artwork support not compiled into libgpod."
+msgstr "编译libgpod时未加入专辑封面支持"
+
+msgid "Cannot remove Photo Library playlist. Aborting.\n"
+msgstr "无法移除照片库，放弃。\n"
+
+msgid "Classic"
+msgstr "Classic"
+
+msgid "Classic (Black)"
+msgstr "Classic(黑)"
+
+msgid "Classic (Silver)"
+msgstr "Classic(银)"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Color U2"
+msgstr "Color U2"
+
+msgid "Control directory not found: '%s' (or similar)."
+msgstr "找不到控制目录：'%s'(或类似)"
+
+msgid "Could not access file '%s'."
+msgstr "无法存取文件'%s'"
+
+msgid "Could not access file '%s'. Photo not added."
+msgstr "无法存取文件'%s'，没有添加照片。"
+
+msgid "Could not find corresponding track (dbid: %s) for artwork entry.\n"
+msgstr "无法找到对应专辑封面的音轨(dbid: %s)。\n"
+
+msgid "Could not find on iPod: '%s'\n"
+msgstr "在iPod中无法找到: '%s'\n"
+
+msgid "Could not open '%s' for writing."
+msgstr "无法打开'%s'写入。"
+
+msgid "Couldn't read xml sysinfo from %s\n"
+msgstr "无法从%s中读取xml sysinfo\n"
+
+msgid "Couldn't write SysInfoExtended to %s"
+msgstr "无法向%s写入SysInfoExtended"
+
+msgid ""
+"Destination file '%s' does not appear to be on the iPod mounted at '%s'."
+msgstr "目标文件'%s'似乎不存在于'%s'上的iPod中"
+
+msgid "Device directory does not exist."
+msgstr "设备目录不存在。"
+
+msgid ""
+"Encountered unknown MHOD type (%d) while parsing the iTunesDB. Ignoring.\n"
+"\n"
+msgstr ""
+"检查iTunesDB时发现未知MHOD类型(%d)，忽略。\n"
+"\n"
+
+msgid "Error adding photo (%s) to photo database: %s\n"
+msgstr "加入照片(%s)到数据库时出错：%s\n"
+
+msgid "Error creating '%s' (mkdir)\n"
+msgstr "创建(mkdir)'%s'时出错\n"
+
+msgid "Error initialising iPod, unknown error\n"
+msgstr "初始化iPod出错，未知错误\n"
+
+msgid "Error initialising iPod: %s\n"
+msgstr "初始化iPod错误：%s\n"
+
+msgid "Error opening '%s' for reading (%s)."
+msgstr "打开'%s'读取时出错(%s)。"
+
+msgid "Error opening '%s' for writing (%s)."
+msgstr "打开'%s'写入时出错(%s)。"
+
+msgid "Error reading iPod photo database (%s).\n"
+msgstr "读取iPod照片数据库时出错(%s)。\n"
+
+msgid ""
+"Error reading iPod photo database (%s).\n"
+"Will attempt to create a new database.\n"
+msgstr ""
+"读取iPod照片数据库(%s)时出现错误。\n"
+"尝试创建新的数据库。\n"
+
+msgid ""
+"Error reading iPod photo database, will attempt to create a new database\n"
+msgstr "读取iPod照片数据库时出错，尝试创建新的数据库\n"
+
+msgid "Error reading iPod photo database.\n"
+msgstr "读取iPod照片数据库时出错。\n"
+
+msgid "Error removing '%s' (%s)."
+msgstr "移除'%s'(%s)出现错误。"
+
+msgid "Error renaming '%s' to '%s' (%s)."
+msgstr "重命名'%s'到'%s'(%s)出现错误。"
+
+msgid "Error when closing '%s' (%s)."
+msgstr "关闭'%s'时出错(%s)。"
+
+msgid "Error while reading from '%s' (%s)."
+msgstr "读取'%s'时出错(%s)。"
+
+msgid "Error while writing to '%s' (%s)."
+msgstr "写入'%s'时出错(%s)。"
+
+msgid "Error: '%s' is not a directory\n"
+msgstr "错误：'%s'不是一个目录。\n"
+
+msgid "Grayscale"
+msgstr "Grayscale"
+
+msgid "Grayscale U2"
+msgstr "Grayscale U2"
+
+msgid "Illegal filename: '%s'.\n"
+msgstr "非法文件名：'%s'。\n"
+
+msgid "Illegal seek to offset %ld (length %ld) in file '%s'."
+msgstr "超出文件'%3$s'(长度%2$ld)搜索位置%1$ld"
+
+msgid "Insufficient number of command line arguments.\n"
+msgstr "命令行的参数不足。\n"
+
+msgid "Invalid"
+msgstr "无效"
+
+msgid "Itdb_Track ID '%d' not found.\n"
+msgstr "找不到Itdb_Track %d'。\n"
+
+msgid ""
+"Length of smart playlist rule field (%d) not as expected. Trying to continue"
+" anyhow.\n"
+msgstr "智能播放列表规则区(%d)的长度超出范围，尝试继续。\n"
+
+msgid ""
+"Library compiled without gdk-pixbuf support. Picture support is disabled."
+msgstr "libgpod编译时没有加入gdk-pixbuf支持，相片功能已关闭"
+
+msgid "Master-PL"
+msgstr "主播放列表"
+
+msgid "Mini (1st Gen.)"
+msgstr "Mini(1代)"
+
+msgid "Mini (2nd Gen.)"
+msgstr "Mini(2代)"
+
+msgid "Mini (Blue)"
+msgstr "Mini(蓝)"
+
+msgid "Mini (Gold)"
+msgstr "Mini(金)"
+
+msgid "Mini (Green)"
+msgstr "Mini(绿)"
+
+msgid "Mini (Pink)"
+msgstr "Mini(粉)"
+
+msgid "Mini (Silver)"
+msgstr "Mini(银)"
+
+msgid "Mobile (1)"
+msgstr "Mobile(1代)"
+
+msgid "Mobile Phones"
+msgstr "Mobile Phones"
+
+msgid "Mountpoint not set."
+msgstr "没有设置挂载点。"
+
+msgid "Mountpoint not set.\n"
+msgstr "没有设置挂载点。\n"
+
+msgid "Music directory not found: '%s' (or similar)."
+msgstr "找不到音乐目录：'%s'(或类似)"
+
+msgid "Nano (1st Gen.)"
+msgstr "Nano(1代)"
+
+msgid "Nano (2nd Gen.)"
+msgstr "Nano(2代)"
+
+msgid "Nano (Black)"
+msgstr "Nano(黑)"
+
+msgid "Nano (Blue)"
+msgstr "Nano(蓝)"
+
+msgid "Nano (Green)"
+msgstr "Nano(绿)"
+
+msgid "Nano (Orange)"
+msgstr "Nano(橙)"
+
+msgid "Nano (Pink)"
+msgstr "Nano(粉)"
+
+msgid "Nano (Purple)"
+msgstr "Nano(紫)"
+
+msgid "Nano (Red)"
+msgstr "Nano(红)"
+
+msgid "Nano (Silver)"
+msgstr "Nano(银)"
+
+msgid "Nano (White)"
+msgstr "Nano(白)"
+
+msgid "Nano (Yellow)"
+msgstr "Nano(黄)"
+
+msgid "Nano Video (3rd Gen.)"
+msgstr "Nano Video(3代)"
+
+msgid "Nano Video (4th Gen.)"
+msgstr "Nano Video(4代)"
+
+msgid "No 'F..' directories found in '%s'."
+msgstr "'%s'中找不到目录。"
+
+msgid "Not a OTG playlist file: '%s' (missing mhpo header)."
+msgstr "不是OTG播放列表：'%s'(缺少mhpo头)"
+
+msgid "Not a Play Counts file: '%s' (missing mhdp header)."
+msgstr "不是一个播放次数记录文件：'%s'(缺少mhdp头)"
+
+msgid "Not a iTunesDB: '%s' (missing mhdb header)."
+msgstr "不是iTunesDB：'%s'(缺少mhdb头)。"
+
+msgid "Number of MHODs in mhip at %ld inconsistent in file '%s'."
+msgstr "Number of MHODs in mhip at %ld inconsistent in file '%s'."
+
+msgid "Number of MHODs in mhyp at %ld inconsistent in file '%s'."
+msgstr "Number of MHODs in mhyp at %ld inconsistent in file '%s'."
+
+msgid "OTG Playlist"
+msgstr "OTG播放列表"
+
+msgid "OTG Playlist %d"
+msgstr "OTG播放列表%d"
+
+msgid "OTG playlist file '%s': reference to non-existent track (%d)."
+msgstr "OTG播放列表('%s')：指向不存在的音轨(%d)。"
+
+msgid "OTG playlist file ('%s'): entry length smaller than expected (%d<4)."
+msgstr "OTG播放列表('%s')：项目长度小于预期(%d<4)。"
+
+msgid "OTG playlist file ('%s'): header length smaller than expected (%d<20)."
+msgstr "OTG播放列表('%s')：起始长度小于预期(%d<20)。"
+
+msgid "Path not found: '%s' (or similar)."
+msgstr "找不到路径：'%s'(或类似)"
+
+msgid "Path not found: '%s'."
+msgstr "找不到路径：'%s'"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Photo Library"
+msgstr "照片库"
+
+msgid "Photos directory not found: '%s' (or similar)."
+msgstr "找不到照片目录：'%s'(或类似)"
+
+msgid "Play Counts file ('%s'): entry length smaller than expected (%d<12)."
+msgstr "播放次数记录文件('%s')： 项目长度小于预期(%d<12)。"
+
+msgid "Play Counts file ('%s'): header length smaller than expected (%d<96)."
+msgstr "播放次数记录文件('%s')： 文件头长度小于预期(%d<96)。"
+
+msgid "Playlist"
+msgstr "播放列表"
+
+msgid "Podcasts"
+msgstr "Podcasts"
+
+msgid "Problem creating iPod directory or file: '%s'."
+msgstr "创建iPod目录或文件时出现问题：'%s'。"
+
+msgid "Regular (1st Gen.)"
+msgstr "标准(1代)"
+
+msgid "Regular (2nd Gen.)"
+msgstr "标准(2代)"
+
+msgid "Regular (3rd Gen.)"
+msgstr "标准(3代)"
+
+msgid "Regular (4th Gen.)"
+msgstr "标准(4代)"
+
+msgid "Shuffle"
+msgstr "Shuffle"
+
+msgid "Shuffle (1st Gen.)"
+msgstr "Shuffle(1代)"
+
+msgid "Shuffle (2nd Gen.)"
+msgstr "Shuffle(2代)"
+
+msgid "Shuffle (3rd Gen.)"
+msgstr "Shuffle(3代)"
+
+msgid "Shuffle (Blue)"
+msgstr "Shuffle(蓝)"
+
+msgid "Shuffle (Green)"
+msgstr "Shuffle(绿)"
+
+msgid "Shuffle (Orange)"
+msgstr "Shuffle(橙)"
+
+msgid "Shuffle (Pink)"
+msgstr "Shuffle(粉)"
+
+msgid "Shuffle (Purple)"
+msgstr "Shuffle(紫)"
+
+msgid "Shuffle (Red)"
+msgstr "Shuffle(红)"
+
+msgid "Shuffle (Silver)"
+msgstr "Shuffle(银)"
+
+msgid "Specified album '%s' not found. Aborting.\n"
+msgstr "找不到指定照片簿'%s'，放弃。\n"
+
+msgid "Touch"
+msgstr "Touch"
+
+msgid ""
+"Unable to retrieve thumbnail (appears to be on iPod, but no image info "
+"available): filename: '%s'\n"
+msgstr "无法调出缩略图(iPod中存在，但是无法获得图像信息)：文件'%s'\n"
+
+msgid ""
+"Unexpected error in itdb_photodb_add_photo_internal() while adding photo, "
+"please report."
+msgstr "添加照片时itdb_photodb_add_photo_internal() 发现未预期错误，请报告。"
+
+msgid "Unexpected image type in mhni: %d, offset: %d\n"
+msgstr "mhni中未预期的图片类型: %d，位置: %d\n"
+
+msgid "Unexpected mhod string type: %d\n"
+msgstr "未预期的mhod字符串：%d\n"
+
+msgid "Unexpected mhsd index: %d\n"
+msgstr "未预期的mhsd索引：%d\n"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown command '%s'\n"
+msgstr "未知命令'%s'\n"
+
+msgid "Unknown smart rule action at %ld: %x. Trying to continue.\n"
+msgstr "%ld位置有未知的smart规则动作：%x，尝试继续。\n"
+
+msgid ""
+"Usage to add photos:\n"
+"  %s add <mountpoint> <albumname> [<filename(s)>]\n"
+"  <albumname> should be set to 'NULL' to add photos to the master photo album\n"
+"  (Photo Library) only. If you don't specify any filenames an empty album will\n"
+"  be created.\n"
+msgstr ""
+"添加照片的用法：\n"
+"  %s add <挂载点> <照片簿名> [<文件名(s)>]\n"
+"  照片簿名可以为空，此时照片添加到主照片簿中。\n"
+"  如果你没有指定文件名则创建一个空白的照片簿。\n"
+
+msgid ""
+"Usage to dump all photos to <output_dir>:\n"
+"  %s dump <mountpoint> <output_dir>\n"
+msgstr ""
+"导出所有照片到指定输出目录的用法：\n"
+"  %s dump <挂载点> <指定输出目录>\n"
+
+msgid ""
+"Usage to list all photos IDs to stdout:\n"
+"  %s list <mountpoint>\n"
+msgstr ""
+"在终端列出所有照片名的用法：\n"
+"  %s list <挂载点>\n"
+
+msgid ""
+"Usage to remove photo IDs from Photo Library:\n"
+"  %s remove <mountpoint> <albumname> [<ID(s)>]\n"
+"  <albumname> should be set to 'NULL' to remove photos from the iPod\n"
+"  altogether. If you don't specify any IDs, the photoalbum will be removed\n"
+"  instead.\n"
+"  WARNING: IDs may change when writing the PhotoDB file.\n"
+msgstr ""
+"从照片库移除照片的用法：\n"
+"   %s remove <挂载点> <照片簿名> [<照片名(s)>] \n"
+"   <照片簿名>可以为空用来同时从iPod移除照片，如果不指定任何照片名，那么就删除照片簿。\n"
+"   警告：当写入PhotoDB是照片名可能发生了变化。\n"
+
+msgid "Video (1st Gen.)"
+msgstr "Video(1代)"
+
+msgid "Video (2nd Gen.)"
+msgstr "Video(2代)"
+
+msgid "Video (Black)"
+msgstr "Video(黑)"
+
+msgid "Video (White)"
+msgstr "Video(白)"
+
+msgid "Video U2"
+msgstr "Video U2"
+
+msgid "Warning: could not find photo with ID <%d>. Skipping...\n"
+msgstr "警告：无法找到名为<%d>的照片，忽略\n"
+
+msgid "Wrong number of command line arguments.\n"
+msgstr "命令行的参数数目不对。\n"
+
+msgid "You need to specify the iPod model used before photos can be added."
+msgstr "在添加照片之前请您先指明使用的iPod型号。"
+
+msgid ""
+"Your iPod does not seem to support photos. Maybe you need to specify the "
+"correct iPod model number? It is currently set to 'x%s' (%s/%s)."
+msgstr "你的iPod似乎不支持照片功能，也许你需要一个正确的iPod型号，当前的设置为'x%s' (%s/%s)."
+
+msgid ""
+"header length of '%s' smaller than expected (%d < %d) at offset %ld in file "
+"'%s'."
+msgstr "文件'%5$s'中%4$ld位置的'%1$s'起始部分长度小于预期(%2$d < %3$d)"
+
+msgid "iPhone"
+msgstr "iPhone"
+
+msgid "iPhone (1)"
+msgstr "iPhone(1代)"
+
+msgid "iPod"
+msgstr "iPod"
+
+msgid "iTunes directory not found: '%s' (or similar)."
+msgstr "找不到iTunes目录：'%s'(或类似)"
+
+msgid ""
+"iTunesDB '%s' corrupt: Could not find playlists (no mhsd type 2 or type 3 "
+"sections found)"
+msgstr "iTunesDB'%s'损坏：找不到播放列表（找不到mhsd type 2或type 3字段)"
+
+msgid ""
+"iTunesDB '%s' corrupt: Could not find tracklist (no mhsd type 1 section "
+"found)"
+msgstr "iTunesDB'%s'损坏：找不到音轨列表（找不到mhsd type 1字段)"
+
+msgid "iTunesDB '%s' corrupt: mhsd expected at %ld."
+msgstr "iTunesDB'%s'损坏：mhsd的预期位置为%ld。"
+
+msgid ""
+"iTunesDB ('%s'): header length of mhsd hunk smaller than expected (%d<32). "
+"Aborting."
+msgstr "iTunesDB('%s')：mhsd的起始部分长度小于预期(%d<32)。放弃。"
+
+msgid "iTunesDB corrupt: hunk length 0 for hunk at %ld in file '%s'."
+msgstr "iTunesDB损坏：文件'%2$s'中%1$ld位置大量0。"
+
+msgid "iTunesDB corrupt: no MHOD at offset %ld in file '%s'."
+msgstr "iTunesDB损坏：文件'%2$s'中 %1$ld 位置没有MHOD。"
+
+msgid "iTunesDB corrupt: no SLst at offset %ld in file '%s'."
+msgstr "iTunesDB损坏：文件'%2$s'中 %1$ld 位置没有SLst。"
+
+msgid ""
+"iTunesDB corrupt: no section '%s' found in section '%s' starting at %ld."
+msgstr "iTunesDB损坏：'%2$s'部分%3$ld位置找不到'%1$s'"
+
+msgid ""
+"iTunesDB corrupt: number of mhip sections inconsistent in mhyp starting at "
+"%ld in file '%s'."
+msgstr ""
+"iTunesDB损坏：number of mhip sections inconsistent in mhyp starting at %ld in "
+"file '%s'."
+
+msgid ""
+"iTunesDB corrupt: number of tracks (mhit hunks) inconsistent. Trying to "
+"continue.\n"
+msgstr "iTunesDB损坏：音轨数(mhit块)不一致，尝试继续。\n"
+
+msgid ""
+"iTunesDB possibly corrupt: number of playlists (mhyp hunks) inconsistent. "
+"Trying to continue.\n"
+msgstr "iTunesDB可能损坏：播放列表数(mhyp块)不一致。\n"
+
+msgid "iTunesStats file ('%s'): entry length smaller than expected (%d<18)."
+msgstr "iTunesStats文件('%s')：项目长度小于预期(%d<18)。"

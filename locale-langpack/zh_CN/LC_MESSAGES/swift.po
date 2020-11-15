@@ -1,0 +1,709 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: swift 2.6.1.dev254\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-01-26 23:59+0000\n"
+"PO-Revision-Date: 2016-04-12 00:40+0000\n"
+"Last-Translator: lindayang <duleish@cn.ibm.com>\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.0\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:50+0000\n"
+
+msgid ""
+"\n"
+"    SINCE YOUR PREVIOUS RESELLER PREFIX WAS AN EMPTY STRING, IT IS NOT\n"
+"    RECOMMENDED TO PERFORM OPTION 3 AS THAT WOULD MAKE SUPPORTING MULTIPLE\n"
+"    RESELLERS MORE DIFFICULT.\n"
+"                    "
+msgstr ""
+"\n"
+"    由于您之前的中间商(reseller)前缀为空字符串，不推荐使用第3个选择，\n"
+"否则难以支持多个中间商(reseller)。\n"
+"                    "
+
+msgid ""
+"\n"
+"THERE ARE ACCOUNTS IN YOUR auth.db THAT DO NOT BEGIN WITH YOUR NEW RESELLER\n"
+"PREFIX OF \"%(reseller)s\".\n"
+"YOU HAVE A FEW OPTIONS:\n"
+"    1. RUN \"swift-auth-update-reseller-prefixes %(db_file)s %(reseller)s\",\n"
+"       \"swift-init auth-server restart\", AND\n"
+"       \"swift-auth-recreate-accounts -K ...\" TO CREATE FRESH ACCOUNTS.\n"
+"    OR\n"
+"    2. REMOVE %(db_file)s, RUN \"swift-init auth-server restart\", AND RUN\n"
+"       \"swift-auth-add-user ...\" TO CREATE BRAND NEW ACCOUNTS THAT WAY.\n"
+"    OR\n"
+"    3. ADD \"reseller_prefix = %(previous)s\" (WITHOUT THE QUOTES) TO YOUR\n"
+"       proxy-server.conf IN THE [filter:auth] SECTION AND TO YOUR\n"
+"       auth-server.conf IN THE [app:auth-server] SECTION AND RUN\n"
+"       \"swift-init proxy-server restart\" AND \"swift-init auth-server restart\"\n"
+"       TO REVERT BACK TO YOUR PREVIOUS RESELLER PREFIX.\n"
+"\n"
+"    %(note)s\n"
+"                    "
+msgstr ""
+"\n"
+"你的 auth.db 有些账户未采用新的中间商(reseller)前缀\"%(reseller)s\"。\n"
+"你有以下几个选择：\n"
+"1. 运行 \"swift-auth-update-reseller-prefixes %(db_file)s %(reseller)s\",\n"
+"    \"swift-init auth-server restart\", 和\n"
+"    \"swift-auth-recreate-accounts -K ...\" 来创建新的帐户。\n"
+"或者\n"
+"2. 删除 %(db_file)s, 运行 \"swift-init auth-server restart\", 和运行\n"
+"    \"swift-auth-add-user ...\" 来创建全新的帐户。\n"
+"或者\n"
+"3. 添加 \"reseller_prefix = %(previous)s\" (无引号) 到您的\n"
+"     proxy-server.conf文件中的[filter:auth]段和 \n"
+"     auth-server.conf 中的[app:auth-server]段，\n"
+"      运行\"swift-init proxy-server restart\" 和 \n"
+"     \"swift-init auth-server restart\"来恢复到您之前的中间商(reseller)前缀。\n"
+"\n"
+"%(note)s\n"
+"                    "
+
+msgid ""
+"%(checked)d suffixes checked - %(hashed).2f%% hashed, %(synced).2f%% synced"
+msgstr "%(checked)d后缀已被检查 %(hashed).2f%% hashed, %(synced).2f%% synced"
+
+msgid "%(complete)s %(title)s [%(fail)s failures], %(rate).01f/s"
+msgstr "%(complete)s %(title)s [%(fail)s failures], %(rate).01f/s"
+
+msgid "%(ip)s/%(device)s responded as unmounted"
+msgstr "%(ip)s/%(device)s的回应为未挂载"
+
+msgid "%(msg)s %(ip)s:%(port)s"
+msgstr "%(msg)s %(ip)s:%(port)s"
+
+msgid ""
+"%(replicated)d/%(total)d (%(percentage).2f%%) partitions replicated in "
+"%(time).2fs (%(rate).2f/sec, %(remaining)s remaining)"
+msgstr ""
+"%(replicated)d/%(total)d (%(percentage).2f%%) 分区被复制 持续时间为 \"\n"
+"\"%(time).2fs (%(rate).2f/sec, %(remaining)s remaining)"
+
+msgid "%(success)s successes, %(failure)s failures"
+msgstr "%(success)s成功，%(failure)s失败"
+
+msgid "%(type)s returning 503 for %(statuses)s"
+msgstr "%(type)s 返回 503 在 %(statuses)s"
+
+msgid "%s is not mounted"
+msgstr "%s未挂载"
+
+msgid ", %s containers deleted"
+msgstr "，删除容器%s"
+
+msgid ", %s containers possibly remaining"
+msgstr "，可能剩余容器%s"
+
+msgid ", %s containers remaining"
+msgstr "，剩余容器%s"
+
+msgid ", %s objects deleted"
+msgstr "，删除对象%s"
+
+msgid ", %s objects possibly remaining"
+msgstr "，可能剩余对象%s"
+
+msgid ", %s objects remaining"
+msgstr "，剩余对象%s"
+
+msgid ", elapsed: %.02fs"
+msgstr "，耗时：%.02fs"
+
+msgid ", return codes: "
+msgstr "，返回代码： "
+
+msgid ""
+"ALREADY EXISTS create_user(%(account)s, %(user)s, _, %(admin)s, "
+"%(reseller_admin)s) [%(elapsed).02f]"
+msgstr ""
+"create_user(%(account)s，%(user)s，_，%(admin)s，%(reseller_admin)s) "
+"[%(elapsed).02f]已经存在了"
+
+msgid "Account"
+msgstr "账号"
+
+msgid "Account DELETE"
+msgstr "帐户 DELETE 操作"
+
+msgid "Account POST"
+msgstr "帐户 POST 操作"
+
+msgid "Account PUT"
+msgstr "帐户 PUT 操作"
+
+msgid ""
+"Attempted to replicate %(count)d dbs in %(time).5f seconds (%(rate).5f/s)"
+msgstr "%(time).5f seconds (%(rate).5f/s)尝试复制%(count)d dbs"
+
+msgid "Audit passed for %s"
+msgstr "%s 审计通过"
+
+msgid "Bad compressed data for %s"
+msgstr "%s 不恰当的压缩数据"
+
+msgid "Bad line data: %s"
+msgstr "错误行数据：%s"
+
+msgid "Bad rsync return code: %(args)s -> %(ret)d"
+msgstr "不恰当的rsync返回代码：%(args)s -> %(ret)d"
+
+msgid "Bad server name: found \"%(found)s\" expected \"%(expected)s\""
+msgstr "错误的服务器名称：找到\"%(found)s\"，预想是\"%(expected)s\""
+
+msgid "Begin container audit \"once\" mode"
+msgstr "开始容器审计\"once\" 模式"
+
+msgid "Begin container update single threaded sweep"
+msgstr "开始容器更新单线程扫除"
+
+msgid "Begin container update sweep"
+msgstr "开始容器更新扫除"
+
+msgid "Begin devices pass: %s"
+msgstr "开始设备扫描：%s"
+
+msgid "Begin object audit \"%s\" mode"
+msgstr "开始对象审计 \"%s\" 模式"
+
+msgid "Begin object update single threaded sweep"
+msgstr "开始对象更新单线程扫除"
+
+msgid "Begin object update sweep"
+msgstr "开始对象更新扫除"
+
+msgid "Beginning log processing"
+msgstr "开始日志处理"
+
+msgid "Beginning pass on account %s"
+msgstr "账号%s开始通过"
+
+msgid "Beginning replication run"
+msgstr "开始运行复制"
+
+msgid "Broker error trying to rollback locked connection"
+msgstr "服务器错误并尝试去回滚已经锁住的链接"
+
+msgid "CRITICAL: "
+msgstr "关键： "
+
+msgid "CannotSendRequest.  Skipping..."
+msgstr "CannotSendRequest异常。跳过..."
+
+msgid "Client disconnected on read"
+msgstr "客户读取时中断"
+
+msgid "Client disconnected without sending enough data"
+msgstr "客户中断 尚未发送足够"
+
+msgid "Connection refused"
+msgstr "连接被拒绝"
+
+msgid "Connection timeout"
+msgstr "连接超时"
+
+msgid "Container"
+msgstr "容器"
+
+msgid "Container DELETE"
+msgstr "容器 DELETE 操作"
+
+msgid "Container POST"
+msgstr "容器 POST 操作"
+
+msgid "Container PUT"
+msgstr "容器 PUT 操作"
+
+msgid "Container audit \"once\" mode completed: %.02fs"
+msgstr "容器审计\"once\"模式完成：%.02fs"
+
+msgid ""
+"Container update single threaded sweep completed: %(elapsed).02fs, "
+"%(success)s successes, %(fail)s failures, %(no_change)s with no changes"
+msgstr ""
+"容器更新单线程扫除完成：%(elapsed).02fs, %(success)s 成功, %(fail)s 失败, %(no_change)s 无更改"
+
+msgid "Container update sweep completed: %.02fs"
+msgstr "容器更新扫除完成：%.02fs"
+
+msgid ""
+"Container update sweep of %(path)s completed: %(elapsed).02fs, %(success)s "
+"successes, %(fail)s failures, %(no_change)s with no changes"
+msgstr ""
+"通过路径%(path)s容器更新扫除完成：%(elapsed).02fs, %(success)s 成功, %(fail)s 失败, "
+"%(no_change)s 无更改"
+
+msgid "Could not load object segment %(path)s: %(status)s"
+msgstr "无法加载对象segment %(path)s: %(status)s"
+
+msgid "Daemon started."
+msgstr "守护进程已启动”"
+
+msgid "Device %s is not mounted, skipping."
+msgstr "设备 %s 没有挂载，跳过。"
+
+msgid "Devices pass completed: %.02fs"
+msgstr "设备通过完成： %.02fs"
+
+msgid "ERROR %(status)d %(body)s From %(type)s Server"
+msgstr "错误 %(status)d %(body)s 来自 %(type)s 服务器"
+
+msgid "ERROR %(status)d %(body)s From Object Server"
+msgstr "错误 %(status)d  来自对象服务器的 %(body)s"
+
+msgid "ERROR %(status)d %(body)s From Object Server re: %(path)s"
+msgstr "错误 %(status)d %(body)s 来自 对象服务器 re: %(path)s"
+
+msgid ""
+"ERROR Account update failed with %(ip)s:%(port)s/%(device)s (will retry "
+"later): Response %(status)s %(reason)s"
+msgstr ""
+"出现错误 账号更新失败： %(ip)s:%(port)s/%(device)s (稍后尝试): 回应 %(status)s %(reason)s"
+
+msgid "ERROR Bad response %(status)s from %(host)s"
+msgstr "失败响应错误%(status)s来自%(host)s"
+
+msgid "ERROR Client read timeout (%ss)"
+msgstr "错误 客户读取超时(%ss)"
+
+msgid ""
+"ERROR Container update failed (saving for async update later): %(status)d "
+"response from %(ip)s:%(port)s/%(dev)s"
+msgstr "错误 容器更新失败(正在保存 稍后同步更新)：%(status)d回应来自%(ip)s:%(port)s/%(dev)s"
+
+msgid "ERROR Could not get account info %s"
+msgstr "错误：无法获取账号信息%s"
+
+msgid "ERROR Could not get container info %s"
+msgstr "错误：无法获取容器%s信息"
+
+msgid "ERROR Exception causing client disconnect"
+msgstr "错误 异常导致客户端中断连接"
+
+msgid "ERROR Failed to get my own IPs?"
+msgstr "错误 无法获得我方IPs?"
+
+msgid "ERROR Object %(obj)s failed audit and will be quarantined: %(err)s"
+msgstr "错误 对象%(obj)s 审计失败将被隔离：%(err)s"
+
+msgid "ERROR Pickle problem, quarantining %s"
+msgstr "错误 Pickle问题 隔离%s"
+
+msgid "ERROR Remote drive not mounted %s"
+msgstr "错误 远程驱动器无法挂载 %s"
+
+msgid "ERROR Trying to audit %s"
+msgstr "错误 尝试开始审计%s"
+
+msgid "ERROR Unable to connect to remote server: %s"
+msgstr "错误 无法连接到远程服务器：%s"
+
+msgid "ERROR Unhandled exception in ReST request"
+msgstr "错误 ReST请求有未处理的异常"
+
+msgid "ERROR Unhandled exception in request"
+msgstr "错误 未处理的异常发出请求"
+
+msgid "ERROR __call__ error with %(method)s %(path)s "
+msgstr "%(method)s %(path)s出现错误__call__ error "
+
+msgid ""
+"ERROR account update failed with %(ip)s:%(port)s/%(device)s (will retry "
+"later)"
+msgstr "错误 账号更新失败 %(ip)s:%(port)s/%(device)s (稍后尝试)"
+
+msgid ""
+"ERROR account update failed with %(ip)s:%(port)s/%(device)s (will retry "
+"later): "
+msgstr "错误 账号更新失败%(ip)s:%(port)s/%(device)s (稍后尝试): "
+
+msgid "ERROR attempting to create account %(url)s: %(status)s %(reason)s"
+msgstr "尝试创建帐户 %(url)s 产生错误：%(status)s %(reason)s"
+
+msgid ""
+"ERROR container update failed with %(ip)s:%(port)s/%(dev)s (saving for async"
+" update later)"
+msgstr "错误 容器更新失败%(ip)s:%(port)s/%(dev)s(正在保存 稍后同步更新)"
+
+msgid "ERROR reading HTTP response from %s"
+msgstr "读取HTTP错误 响应来源%s"
+
+msgid "ERROR reading db %s"
+msgstr "错误 读取db %s"
+
+msgid "ERROR rsync failed with %(code)s: %(args)s"
+msgstr "错误 rsync失败 %(code)s: %(args)s"
+
+msgid "ERROR syncing %(file)s with node %(node)s"
+msgstr "错误 同步 %(file)s 和 节点%(node)s"
+
+msgid "ERROR trying to replicate"
+msgstr "尝试复制时发生错误"
+
+msgid "ERROR with %(type)s server %(ip)s:%(port)s/%(device)s re: %(info)s"
+msgstr "%(type)s服务器发生错误 %(ip)s:%(port)s/%(device)s re: %(info)s"
+
+msgid "ERROR with loading suppressions from %s: "
+msgstr "执行下载压缩时发生错误%s "
+
+msgid "ERROR with remote server %(ip)s:%(port)s/%(device)s"
+msgstr "远程服务器发生错误 %(ip)s:%(port)s/%(device)s"
+
+msgid ""
+"ERROR: Exception while trying to communicate with "
+"%(scheme)s://%(host)s:%(port)s/%(path)s"
+msgstr "错误：尝试与 %(scheme)s://%(host)s:%(port)s/%(path)s 交互时出现异常"
+
+msgid "ERROR: Upload of log %s failed!"
+msgstr "错误：日志 %s 上载失败！"
+
+msgid "ERROR: While processing manifest /%(acc)s/%(cont)s/%(obj)s"
+msgstr "错误：处理manifest /%(acc)s/%(cont)s/%(obj)s"
+
+msgid "Error %(action)s to memcached: %(server)s"
+msgstr "%(action)s错误 高性能内存对象缓存： %(server)s"
+
+msgid "Error hashing suffix"
+msgstr "执行Hashing后缀时发生错误"
+
+msgid "Error limiting server %s"
+msgstr "服务器出现错误%s"
+
+msgid "Error syncing handoff partition"
+msgstr "执行同步切换分区时发生错误"
+
+msgid "Error syncing partition"
+msgstr "执行同步分区时发生错误"
+
+msgid "Error syncing with node: %s"
+msgstr "执行同步时节点%s发生错误"
+
+msgid "Error: %s"
+msgstr "错误：%s"
+
+msgid "Error: missing config file argument"
+msgstr "错误：缺少配置文件参数"
+
+msgid "Error: unable to locate %s"
+msgstr "错误：无法查询到 %s"
+
+msgid "Exception in top-level replication loop"
+msgstr "top-level复制圈出现异常"
+
+msgid "Exception with %(ip)s:%(port)s/%(device)s"
+msgstr "%(ip)s:%(port)s/%(device)s出现异常"
+
+msgid "Exception with account %s"
+msgstr "账号%s出现异常"
+
+msgid "Exception with containers for account %s"
+msgstr "账号%s内容器出现异常"
+
+msgid ""
+"Exception with objects for container %(container)s for account %(account)s"
+msgstr "账号%(account)s容器%(container)s的对象出现异常"
+
+msgid "Expect: 100-continue on %s"
+msgstr "已知：100-continue on %s"
+
+msgid ""
+"FAILED create_user(%(account)s, %(user)s, _, %(admin)s, %(reseller_admin)s) "
+"[%(elapsed).02f]"
+msgstr ""
+"create_user(%(account)s，%(user)s，_，%(admin)s，%(reseller_admin)s) "
+"[%(elapsed).02f]失败"
+
+msgid "Following CNAME chain for  %(given_domain)s to %(found_domain)s"
+msgstr "跟随CNAME链从%(given_domain)s到%(found_domain)s"
+
+msgid "Gathering account stats"
+msgstr "收集帐户状态"
+
+msgid "Gathering account stats complete (%0.2f minutes)"
+msgstr "收集帐户状态完成(%0.2f 分)"
+
+msgid ""
+"HTTP PERF: %(time).5f seconds to %(method)s %(host)s:%(port)s %(path)s)"
+msgstr "HTTP PERF: %(time).5f 秒，%(method)s %(host)s:%(port)s %(path)s)"
+
+msgid "Host unreachable"
+msgstr "无法连接到主机"
+
+msgid ""
+"I found a bunch of bad lines in %(name)s (%(bad)d bad, %(total)d total)"
+msgstr "在 %(name)s 中找到许多错误行s( %(bad)d 错误, 总共 %(total)d)"
+
+msgid "Incomplete pass on account %s"
+msgstr "账号%s未完成通过"
+
+msgid "Invalid path: %(error)s from data: %(log)s"
+msgstr "无效的路径：来自数据的错误 %(error)s：%(log)s"
+
+msgid "Invalid pending entry %(file)s: %(entry)s"
+msgstr "不可用的等待输入%(file)s: %(entry)s"
+
+msgid "Invalid response %(resp)s from %(ip)s"
+msgstr "无效的回应%(resp)s来自%(ip)s"
+
+msgid "Killing long-running rsync: %s"
+msgstr "终止long-running同步: %s"
+
+msgid "Loaded plugin \"%s\""
+msgstr "加载插件 \"%s\""
+
+msgid "Loading account ring from %s"
+msgstr "从 %s 加载帐户环"
+
+msgid "Loading container ring from %s"
+msgstr "从 %s 加载容器环"
+
+msgid "Loading object ring from %s"
+msgstr "从 %s 加载对象环"
+
+msgid "Lockup detected.. killing live coros."
+msgstr "检测到lockup。终止正在执行的coros"
+
+msgid "Log %s is 0 length, skipping"
+msgstr "日志 %s 长度是0，跳过"
+
+msgid "Log processing done (%0.2f minutes)"
+msgstr "日志处理完毕(%0.2f 分)"
+
+msgid "Mapped %(given_domain)s to %(found_domain)s"
+msgstr "集合%(given_domain)s到%(found_domain)s"
+
+msgid "No super_admin_key set in conf file! Exiting."
+msgstr "conf文件中没有设置super_admin_key ！退出。"
+
+msgid "Node error limited %(ip)s:%(port)s (%(device)s)"
+msgstr "节点错误极限 %(ip)s:%(port)s (%(device)s)"
+
+msgid "Nothing replicated for %s seconds."
+msgstr "%s秒无复制"
+
+msgid "Object"
+msgstr "对象"
+
+msgid "Object DELETE"
+msgstr "对象 DELETE 操作"
+
+msgid "Object POST"
+msgstr "对象POST"
+
+msgid "Object PUT"
+msgstr "对象上传"
+
+msgid ""
+"Object PUT exceptions during send, %(conns)s/%(nodes)s required connections"
+msgstr "对象PUT发送时出现异常，%(conns)s/%(nodes)s请求连接"
+
+msgid "Object PUT returning 503, %(conns)s/%(nodes)s required connections"
+msgstr "对象PUT返回503，%(conns)s/%(nodes)s 请求连接"
+
+msgid ""
+"Object audit \"%(mode)s\" mode completed: %(elapsed).02fs. Total files/sec: "
+"%(frate).2f , Total bytes/sec: %(brate).2f "
+msgstr ""
+"对象审计\"%(mode)s\"模式完成：%(elapsed).02fs。总计 文件/秒：%(frate).2f ，总计 "
+"字节/秒：%(brate).2f "
+
+msgid "Object manifest GET could not continue listing: %s %s"
+msgstr "对象manifest GET无法继续进行列表：%s %s"
+
+msgid "Object replication complete. (%.02f minutes)"
+msgstr "对象复制完成。(%.02f minutes)"
+
+msgid "Object servers returned %s mismatched etags"
+msgstr "对象服务器返还%s不匹配etags"
+
+msgid ""
+"Object update single threaded sweep completed: %(elapsed).02fs, %(success)s "
+"successes, %(fail)s failures"
+msgstr "对象更新单线程扫除完成：%(elapsed).02fs,%(success)s 成功, %(fail)s 失败"
+
+msgid "Object update sweep completed: %.02fs"
+msgstr "对象更新扫除完成：%.02fs"
+
+msgid ""
+"Object update sweep of %(device)s completed: %(elapsed).02fs, %(success)s "
+"successes, %(fail)s failures"
+msgstr "%(device)s对象更新扫除完成：%(elapsed).02fs, %(success)s成功, %(fail)s失败"
+
+msgid "Partition times: max %(max).4fs, min %(min).4fs, med %(med).4fs"
+msgstr "分区时间: max %(max).4fs, min %(min).4fs, med %(med).4fs"
+
+msgid "Path %s does not exist, skipping."
+msgstr "路径 %s 不存在，跳过。"
+
+msgid "Processing %(obj)s with plugin \"%(plugin)s\""
+msgstr "用插件 \"%(plugin)s\" 处理 %(obj)s"
+
+msgid "Processing log: %s"
+msgstr "处理日志：%s"
+
+msgid "Quarantining DB %s"
+msgstr "隔离DB%s"
+
+msgid ""
+"Ratelimit sleep log: %(sleep)s for %(account)s/%(container)s/%(object)s"
+msgstr "流量控制休眠日志：%(sleep)s for %(account)s/%(container)s/%(object)s"
+
+msgid "Removed %(remove)d dbs"
+msgstr "删除%(remove)d dbs"
+
+msgid "Removing partition: %s"
+msgstr "移除分区：%s"
+
+msgid "Replicating db %s"
+msgstr "正在复制数据库 %s"
+
+msgid "Replication run OVER"
+msgstr "复制运行结束"
+
+msgid "Replication sleeping for %s seconds."
+msgstr "复制睡眠 %s 秒。"
+
+msgid "Returning 497 because of blacklisting"
+msgstr "因列入黑名单返回497"
+
+msgid "Returning 498 because of ops rate limiting (Max Sleep) %s"
+msgstr "因 ops 频率限制(最大休眠数) %s 返回498"
+
+msgid "Returning 503 because not all container nodes confirmed DELETE"
+msgstr "因为并不是所有节点都确定DELETE而返回503"
+
+msgid "Ring change detected. Aborting current replication pass."
+msgstr "Ring改变被检测到。退出现有的复制通过"
+
+msgid "Running object replicator in script mode."
+msgstr "在加密模式下执行对象复制"
+
+msgid "STDOUT: %s"
+msgstr "STDOUT: %s"
+
+msgid "STDOUT: Connection reset by peer"
+msgstr "STDOUT：连接被peer重新设置"
+
+msgid ""
+"SUCCESS create_user(%(account)s, %(user)s, _, %(admin)s, %(reseller_admin)s)"
+" = %(url)s [%(elapsed).02f]"
+msgstr ""
+"create_user(%(account)s, %(user)s, _, %(admin)s, %(reseller_admin)s) = "
+"%(url)s [%(elapsed).02f]成功"
+
+msgid ""
+"Since %(start_time)s: Locally: %(passes)d passed audit, %(quars)d "
+"quarantined, %(errors)d errors files/sec: %(frate).2f , bytes/sec: "
+"%(brate).2f"
+msgstr ""
+"从 %(start_time)s 起：本地：%(passes)d 个通过的审计，%(quars)d 个被隔离，%(errors)d "
+"个错误文件/秒：%(frate).2f，字节/秒：%(brate).2f"
+
+msgid ""
+"Since %(time)s: Account audits: %(passed)s passed audit, %(failed)s failed "
+"audit"
+msgstr "时间%(time)s：账户审查：%(passed)s 审查通过, %(failed)s 审查失败"
+
+msgid ""
+"Since %(time)s: Container audits: %(pass)s passed audit, %(fail)s failed "
+"audit"
+msgstr "自%(time)s起：容器审计：%(pass)s通过审计, %(fail)s失败"
+
+msgid "Skipping %(device)s as it is not mounted"
+msgstr "因无法挂载跳过%(device)s"
+
+msgid "Skipping %s as it is not mounted"
+msgstr "挂载失败 跳过%s"
+
+msgid "Skipping log: %(file)s (< %(cutoff)d seconds old)"
+msgstr "跳过日志：%(file)s (< %(cutoff)d 秒)"
+
+msgid "Starting object replication pass."
+msgstr "开始通过对象复制"
+
+msgid "Successful rsync of %(src)s at %(dst)s (%(time).03f)"
+msgstr "成功的rsync %(src)s at %(dst)s (%(time).03f)"
+
+msgid "Syncing chunks with %s"
+msgstr "正在与 %s 同步数据块"
+
+msgid "Timeout %(action)s to memcached: %(server)s"
+msgstr "%(action)s超时 高性能内存对象缓存： %(server)s"
+
+msgid "Trying to %(method)s %(path)s"
+msgstr "尝试执行%(method)s %(path)s"
+
+msgid "Trying to DELETE %s"
+msgstr "试图 DELETE 操作 %s"
+
+msgid "Trying to POST %s"
+msgstr "试图向 %s 进行 POST 操作"
+
+msgid "Trying to PUT to %s"
+msgstr "试图向 %s 进行PUT操作"
+
+msgid "Trying to get account info for %s"
+msgstr "尝试为 %s 获取帐户信息"
+
+msgid "Trying to get container info for %s"
+msgstr "尝试为 %s 获取容器信息"
+
+msgid "Trying to get final status of PUT to %s"
+msgstr "尝试执行获取最后的PUT状态%s"
+
+msgid "Trying to read during GET of %s"
+msgstr "在 %s 的GET操作中试图读取"
+
+msgid "Trying to write to %s"
+msgstr "尝试执行书写%s"
+
+msgid "UNCAUGHT EXCEPTION"
+msgstr "未捕获的异常"
+
+msgid "Unable to find %s config section in %s"
+msgstr "无法在%s中查找到%s设置部分"
+
+msgid "Unable to locate %s in libc.  Leaving as a no-op."
+msgstr "无法查询到%s 保留为no-op"
+
+msgid "Unable to read config file %s"
+msgstr "无法读取配置文件 %s"
+
+msgid "Unexpected log: %s"
+msgstr "未预想到的日志：%s"
+
+msgid "Update failed for %(obj)s %(path)s"
+msgstr "%(obj)s %(path)s 的更新失败"
+
+msgid "Update report failed for %(container)s %(dbfile)s"
+msgstr "%(container)s %(dbfile)s更新报告失败"
+
+msgid "Update report sent for %(container)s %(dbfile)s"
+msgstr "更新报告发至%(container)s %(dbfile)s"
+
+msgid "Update sent for %(obj)s %(path)s"
+msgstr "为 %(obj)s %(path)s 发送更新"
+
+msgid "Uploaded log %(file)s to %(target)s"
+msgstr "上载 %(file)s 到 %(target)s"
+
+msgid "Uploading logs"
+msgstr "正在上载日志"
+
+msgid "Uploading logs complete (%0.2f minutes)"
+msgstr "上载日志完成(%0.2f 分)"
+
+msgid "Warning: Cannot ratelimit without a memcached client"
+msgstr "警告：缺失缓存客户端 无法控制流量"
+
+msgid "found %d processed files"
+msgstr "找到 %d 个处理过的文件"
+
+msgid "loaded %d files to process"
+msgstr "加载 %d 个文件处理"

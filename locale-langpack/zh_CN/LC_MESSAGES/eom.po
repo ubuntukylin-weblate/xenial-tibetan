@@ -1,0 +1,1104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-06 17:47+0200\n"
+"PO-Revision-Date: 2015-10-23 20:29+0000\n"
+"Last-Translator: 白铭骢 <jeffbaichina@members.fsf.org>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/mate/MATE/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " (invalid Unicode)"
+msgstr " (无效的 Unicode)"
+
+msgid "%.1f (35mm film)"
+msgstr "%.1f (35mm 电影胶片)"
+
+msgid "%.1f (lens)"
+msgstr "%.1f (镜头)"
+
+msgid "%a, %d %B %Y"
+msgstr "%Y年%m月%d日%A"
+
+msgid "%a, %d %B %Y  %X"
+msgstr "%Y年%m月%d日 %X"
+
+msgid "%d / %d"
+msgstr "第 %d 张，共 %d 张"
+
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] "%i × %i 像素  %s    %i%%"
+
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+msgid "<b>%f:</b> original filename"
+msgstr "<b>%f:</b> 原始文件名"
+
+msgid "<b>%n:</b> counter"
+msgstr "<b>%n:</b> 计数"
+
+msgid ""
+"<p> Eye of MATE is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr "<p> MATE 之眼是一个简易的图像浏览器。图像完全载入后，你可以缩放和旋转图像，也可以显示存放于某个目录中的图像序列。</p>"
+
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr "无法找到可用于“%s”的回收站。您想要将此图片永久移除吗？"
+
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "大于 0 的值将决定自动显示下张图像之前当前图像要在屏幕上停留几秒。0 代表禁用自动浏览。"
+
+msgid "A_ctivate"
+msgstr "激活(_C)"
+
+msgid "About this application"
+msgstr "关于此应用程序"
+
+msgid "Ac_tivate All"
+msgstr "全部激活(_T)"
+
+msgid "Activate fullscreen mode with double-click"
+msgstr "双击启用全屏模式"
+
+msgid "Active _Plugins:"
+msgstr "活动插件(_P)："
+
+msgid "Active plugins"
+msgstr "活动插件"
+
+msgid "All Files"
+msgstr "全部文件"
+
+msgid "All Images"
+msgstr "全部图像"
+
+msgid "Allow zoom greater than 100% initially"
+msgstr "允许放大至超过原大"
+
+msgid "Aperture Value:"
+msgstr "光圈值："
+
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr ""
+"您真的想要将“%s”\n"
+"移至回收站吗？"
+
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] ""
+"您真的想要将 %d 个\n"
+"选中的图像移至回收站吗？"
+
+msgid "As _background"
+msgstr "与背景相同(_B)"
+
+msgid "As check _pattern"
+msgstr "为十字图案(_P)"
+
+msgid "As custom c_olor:"
+msgstr "为自定义颜色(_O)："
+
+msgid "As custom color:"
+msgstr "为自定义颜色："
+
+msgid "At least two file names are equal."
+msgstr "至少两个文件名相等。"
+
+msgid "Author:"
+msgstr "作者："
+
+msgid "Automatic orientation"
+msgstr "自动调整方向"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background Color"
+msgstr "背景颜色"
+
+msgid "Both"
+msgstr "双向"
+
+msgid "Browse and rotate images"
+msgstr "浏览及旋转图像"
+
+msgid "Bytes:"
+msgstr "字节数："
+
+msgid "C_enter:"
+msgstr "中(_E)："
+
+msgid "C_onfigure"
+msgstr "配置(_O)"
+
+msgid "C_onfigure Plugin"
+msgstr "配置插件(_O)"
+
+msgid "Camera"
+msgstr "相机"
+
+msgid "Camera Model:"
+msgstr "相机型号："
+
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "更改当前窗口中图集面板的可见性"
+
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "更改当前窗口侧边栏的可见性"
+
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "更改当前窗口状态栏的可见性"
+
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "更改当前窗口工具栏的可见性"
+
+msgid "Choose a folder"
+msgstr "选择文件夹"
+
+msgid "Close _without Saving"
+msgstr "关闭而不保存(_W)"
+
+msgid "Close main window without asking to save changes."
+msgstr "在关闭窗口前不询问是否保存改动。"
+
+msgid "Close window"
+msgstr "关闭窗口"
+
+msgid "Collection"
+msgstr "收藏"
+
+msgid "Color for Transparent Areas"
+msgstr "透明区域的颜色"
+
+msgid "Copy the selected image to the clipboard"
+msgstr "把选中的图像复制到剪贴板"
+
+msgid "Copyright:"
+msgstr "版权："
+
+msgid "Could not display help for Eye of MATE"
+msgstr "无法显示 MATE 之眼的帮助"
+
+msgid "Could not load image '%s'."
+msgstr "无法装入图像“%s”。"
+
+msgid "Couldn't access trash."
+msgstr "无法访问回收站。"
+
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "无法分配内存装入 JPEG 文件"
+
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "无法创建临时文件来保存 %s"
+
+msgid "Couldn't delete file"
+msgstr "无法删除文件"
+
+msgid "Date in statusbar"
+msgstr "在状态栏中显示日期"
+
+msgid "Date/Time:"
+msgstr "日期/时间："
+
+msgid "Delay in seconds until showing the next image"
+msgstr "显示下张图像前延迟的秒数"
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Destination folder:"
+msgstr "目标文件夹："
+
+msgid "Details"
+msgstr "细节"
+
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr ""
+"决定如何标示透明区域。可用的值有 checked, color 以及 none。如果选择了 color，则使用的颜色值将由 trans-color "
+"键值决定。"
+
+msgid "Disable image collection"
+msgstr "禁用图集"
+
+msgid "EXIF not supported for this file format."
+msgstr "这种文件格式不支持 EXIF。"
+
+msgid "E_xpand images to fit screen"
+msgstr "将图像扩展以适合屏幕(_X)"
+
+msgid "Edit Image"
+msgstr "编辑图片"
+
+msgid "Edit the application toolbar"
+msgstr "编辑应用程序工具栏"
+
+msgid "Edit the current image using %s"
+msgstr "使用 %s 编辑当前图片"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Enlarge the image"
+msgstr "放大图片"
+
+msgid "Error on deleting image %s"
+msgstr "删除图像 %s 出错"
+
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr ""
+"打印文件出错：\n"
+"%s"
+
+msgid "Exposure Time:"
+msgstr "曝光时间："
+
+msgid "External program to use for editing images"
+msgstr "用于编辑图片的外部程序"
+
+msgid "Extrapolate Image"
+msgstr "外插补图像"
+
+msgid "Eye of MATE"
+msgstr "MATE 之眼"
+
+msgid "Eye of MATE Image Viewer"
+msgstr "图像查看器"
+
+msgid "Eye of MATE Preferences"
+msgstr "MATE 之眼首选项"
+
+msgid ""
+"Eye of MATE could not determine a supported writable file format based on "
+"the filename."
+msgstr "MATE 之眼无法从文件名推测出被支持的可写入的文件格式。"
+
+msgid "File Name Preview"
+msgstr "文件名预览"
+
+msgid "File Path Specifications"
+msgstr "文件路径规范"
+
+msgid "File format is unknown or unsupported"
+msgstr "文件格式未知或不支持"
+
+msgid "Filename format:"
+msgstr "文件名格式："
+
+msgid "Fit"
+msgstr "适合"
+
+msgid "Fit the image to the window"
+msgstr "使图像适合窗口"
+
+msgid "Flash:"
+msgstr "闪光灯："
+
+msgid "Flip _Horizontal"
+msgstr "水平翻转(_H)"
+
+msgid "Flip _Vertical"
+msgstr "垂直翻转(_V)"
+
+msgid "Focal Length:"
+msgstr "焦距："
+
+msgid "Fullscreen with double-click"
+msgstr "双击切换全屏"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Go to a random image of the collection"
+msgstr "转到图集中下一个图像"
+
+msgid "Go to the first image of the collection"
+msgstr "转到图集中第一个图像"
+
+msgid "Go to the last image of the collection"
+msgstr "转到图集中最后一个图像"
+
+msgid "Go to the next image of the collection"
+msgstr "转到图集中下一个图像"
+
+msgid "Go to the previous image of the collection"
+msgstr "转到图集中上一个图像"
+
+msgid "Height:"
+msgstr "高度："
+
+msgid "Help on this application"
+msgstr "关于此应用程序的帮助"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "ISO Speed Rating:"
+msgstr "ISO 速度评分："
+
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr ""
+"如果启用，并且没有在活动窗口中加载图像，文件选择器将使用 XDG "
+"指定的用户目录来显示用户的图像文件夹。如果禁用或没有设置图像文件夹，那么它将显示当前的工作目录。"
+
+msgid ""
+"If activated, Eye of MATE won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr "如果启用，那么 MATE 之眼将不会在移动图像到回收站的时候要求确认。但是如果文件不能被移动到回收站而是被删除的话，那么它仍将询问。"
+
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr ""
+"如果启用，属性对话框中的详细的元数据列表将移动对话框到其单独的页面中。这可提高此对话框在小屏幕上的可用性，例如用于上网本。如果禁用，此控件将被嵌入到“Metadata”页中。"
+
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "如果透明键值是 COLOR，这个键值则确定用来表示透明区域的颜色。"
+
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr "如果启用，将使用背景色键值所设的颜色填充图像后的区域。如果未设置它，则由当前的 GTK+ 主题决定填充颜色。"
+
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "如果设置为 FALSE，则小图像将不会放大至适合屏幕大小。"
+
+msgid "If you don't save, all your changes will be lost."
+msgstr "如果不保存，您的所有更改都会丢失。"
+
+msgid "If you don't save, your changes will be lost."
+msgstr "如果不保存，您的更改将会丢失。"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Image Data"
+msgstr "图像数据"
+
+msgid "Image Enhancements"
+msgstr "图像增强"
+
+msgid "Image Properties"
+msgstr "图像属性"
+
+msgid "Image Settings"
+msgstr "图像设置"
+
+msgid "Image Taking Conditions"
+msgstr "图像获取条件"
+
+msgid "Image View"
+msgstr "图像查看"
+
+msgid "Image Zoom"
+msgstr "图像缩放"
+
+msgid "Image collection pane position."
+msgstr "图集面板位置"
+
+msgid "Image loading failed."
+msgstr "图像装入失败。"
+
+msgid "In"
+msgstr "放大"
+
+msgid "Inches"
+msgstr "英寸"
+
+msgid "Interpolate Image"
+msgstr "插补图像"
+
+msgid "Keywords:"
+msgstr "关键字："
+
+msgid "Left"
+msgstr "逆时针"
+
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .eom-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr "已激活插件列表。它并不包含激活插件的位置。参见 .eom-plugin 文件以获得相应插件的位置。"
+
+msgid "Location:"
+msgstr "位置："
+
+msgid "Loop through the image sequence"
+msgstr "图像序列循环播放"
+
+msgid "Maker Note"
+msgstr "制作者备忘"
+
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr "隐藏(_D)"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid "Metering Mode:"
+msgstr "测量模式："
+
+msgid "Millimeters"
+msgstr "毫米"
+
+msgid "Mirror the image horizontally"
+msgstr "水平翻转图片"
+
+msgid "Mirror the image vertically"
+msgstr "垂直翻转图片"
+
+msgid "Move the selected image to the trash folder"
+msgstr "将选中图像移至回收站文件夹"
+
+msgid "Move the selected item on the toolbar"
+msgstr "将选中项在工具栏上移动"
+
+msgid "Move to _Trash"
+msgstr "移至回收站(_T)"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "Next"
+msgstr "下一张"
+
+msgid "No image loaded."
+msgstr "没有装入图像。"
+
+msgid "No images found in '%s'."
+msgstr "“%s”中无图像。"
+
+msgid "None"
+msgstr "无"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Open Folder"
+msgstr "打开文件夹"
+
+msgid "Open Image"
+msgstr "打开图像"
+
+msgid "Open _with"
+msgstr "打开方式(_W)"
+
+msgid "Open a file"
+msgstr "打开一个文件"
+
+msgid "Open in fullscreen mode"
+msgstr "在全屏模式中打开"
+
+msgid "Open in slideshow mode"
+msgstr "在幻灯片放映模式中打开"
+
+msgid "Open the selected image with a different application"
+msgstr "用一个不同的应用程序打开选中图片"
+
+msgid "Opening image \"%s\""
+msgstr "正在打开图像“%s”"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Other"
+msgstr "其它"
+
+msgid "Out"
+msgstr "缩小"
+
+msgid "Page Setup"
+msgstr "页面设置"
+
+msgid "Pause Slideshow"
+msgstr "暂停放映"
+
+msgid "Pause or resume the slideshow"
+msgstr "暂停或继续幻灯片放映"
+
+msgid "Please try a different file extension like .png or .jpg."
+msgstr "请尝试一个不同的扩展名如 .png 或 .jpg。"
+
+msgid "Plugin"
+msgstr "插件"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Prefere_nces"
+msgstr "首选项(_N)"
+
+msgid "Preferences for Eye of MATE"
+msgstr "MATE 之眼的首选项"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Previous"
+msgstr "上一张"
+
+msgid "Print the selected image"
+msgstr "打印选中图像"
+
+msgid "Prope_rties"
+msgstr "属性(_R)"
+
+msgid "Question"
+msgstr "问题"
+
+msgid "Randomize the image sequence"
+msgstr "随机图像顺序"
+
+msgid "Reload Image"
+msgstr "重新装入图像"
+
+msgid "Reload current image"
+msgstr "重新装入当前图像"
+
+msgid "Remove the selected item from the toolbar"
+msgstr "从工具栏中删除选中项目"
+
+msgid "Remove the selected toolbar"
+msgstr "删除选中的工具栏"
+
+msgid "Rename from:"
+msgstr "重命名自："
+
+msgid "Replace spaces with underscores"
+msgstr "将空格替换为下划线"
+
+msgid "Right"
+msgstr "顺时针"
+
+msgid "Rotate Counterc_lockwise"
+msgstr "逆时针旋转(_L)"
+
+msgid "Rotate the image 90 degrees to the left"
+msgstr "将图片逆时针旋转90度"
+
+msgid "Rotate the image 90 degrees to the right"
+msgstr "将图片顺时针旋转90度"
+
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "运行“%s --help”来查看可用命令行选项的完整列表。"
+
+msgid "Running in fullscreen mode"
+msgstr "在全屏模式中运行"
+
+msgid "S_elect the images you want to save:"
+msgstr "选择您想保存的图像(_E)："
+
+msgid "S_lideshow"
+msgstr "幻灯片 (_L)"
+
+msgid "Save As"
+msgstr "另存为"
+
+msgid "Save Image"
+msgstr "保存图像"
+
+msgid "Save _As…"
+msgstr "另存为"
+
+msgid "Save changes in currently selected images"
+msgstr "保存更改到当前选中图像"
+
+msgid "Save changes to image \"%s\" before closing?"
+msgstr "在关闭之前保存更改到图像“%s”？"
+
+msgid "Save the selected images with a different name"
+msgstr "以一个不同的名字保存选中图片"
+
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "保存图像“%s”(第%u个，共%u个)"
+
+msgid "Saving image locally…"
+msgstr "本地保存图像..."
+
+msgid "Scroll wheel zoom"
+msgstr "使用滚轮缩放"
+
+msgid "Separator"
+msgstr "分隔符"
+
+msgid "Sequence"
+msgstr "序列"
+
+msgid "Set as _Desktop Background"
+msgstr "设为桌面背景(_D)"
+
+msgid "Set the selected image as the desktop background"
+msgstr "将选中图像设为桌面背景"
+
+msgid "Show the application's version"
+msgstr "显示应用程序版本"
+
+msgid "Show the current image in fullscreen mode"
+msgstr "在全屏模式中显示当前图像"
+
+msgid "Show the image at its normal size"
+msgstr "以正常大小显示图片"
+
+msgid "Show the properties and metadata of the selected image"
+msgstr "显示选中图片的属性和元数据"
+
+msgid "Show “_%s”"
+msgstr "显示“%s”"
+
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr "显示/隐藏图集面板滚动按钮。"
+
+msgid "Show/Hide the image collection pane."
+msgstr "显示/隐藏图集面板。"
+
+msgid "Show/Hide the window side pane."
+msgstr "显示/隐藏窗口侧边栏。"
+
+msgid "Show/Hide the window statusbar."
+msgstr "显示/隐藏窗口状态栏。"
+
+msgid "Show/Hide the window toolbar."
+msgstr "显示/隐藏窗口工具栏。"
+
+msgid "Shows the image date in the window statusbar"
+msgstr "在窗口状态栏中显示图像日期"
+
+msgid "Shrink the image"
+msgstr "缩小图片"
+
+msgid "Side _Pane"
+msgstr "侧边栏(_P)"
+
+msgid "Simple image viewer"
+msgstr "简单的图像查看器"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Slideshow"
+msgstr "幻灯片放映"
+
+msgid "Smooth images when zoomed-_in"
+msgstr "缩小时平滑图像(_I)"
+
+msgid "Smooth images when zoomed-_out"
+msgstr "放大时平滑图像(_O)"
+
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr "有些所选择的图片无法移动到回收站并将永久移除。您确定要这样进行吗？"
+
+msgid "Start a new instance instead of reusing an existing one"
+msgstr "启动新例程，而不是重用现有例程"
+
+msgid "Start a slideshow view of the images"
+msgstr "以幻灯片方式查看图片"
+
+msgid "Start counter at:"
+msgstr "开始计数："
+
+msgid "T_oolbar"
+msgstr "工具栏(_O)"
+
+msgid "Tag"
+msgstr "标记"
+
+msgid "Taken on"
+msgstr "摄于"
+
+msgid "Temporary file creation failed."
+msgstr "临时文件创建失败。"
+
+msgid "The MATE image viewer."
+msgstr "MATE 之眼图像查看器。"
+
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr "用于填充图像背后区域的颜色。如果未设置 use-background-color 键，则根据所启用的 GTK+ 主题决定颜色"
+
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr "要使用的图像编辑应用（当按下“编辑图像”工具栏按钮时）的 desktop 文件名（包括 \"*.desktop\"）。设置为空值以禁用此特性。"
+
+msgid "The given locations contain no images."
+msgstr "给定的位置不包含图像。"
+
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr ""
+"图片 “%s” 已被外部程序修改。\n"
+"您想重新载入吗？"
+
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr ""
+"“%s” 这张图已设为桌面背景。\n"
+"您想修改它的外观吗？"
+
+msgid "The image whose printing properties will be set up"
+msgstr "要设置打印属性的图像"
+
+msgid "The information for the page where the image will be printed"
+msgstr "即将用来打印图像的页面的信息"
+
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr ""
+"使用鼠标滚轮缩放时的比例系数。该值定义了每一次滚动事件的缩放步幅。例如：0.05 会在每次缩放事件时放大 5% 而 1.00 则会放大 100%。"
+
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] "还有 %d 幅图像有没有保存的更改。在关闭之前保存更改？"
+
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr ""
+"此程序发表的目的是希望它能够对您有用，但我们没有任何保证；对于以任何用途使用它所造成的任何直接或间接后果都不承担任何责任。请参看 GNU GPL "
+"协议中的细节。\n"
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr ""
+"此程序是自由软件；您可以按照自由软件基金会所发表的 GNU GPL 协议自由发放和/或修改它；GPL "
+"协议应该采用第二版或您所喜欢的第二版之后的任何版本。\n"
+
+msgid "To:"
+msgstr "到："
+
+msgid "Toolbar Editor"
+msgstr "工具栏编辑器"
+
+msgid "Transformation failed."
+msgstr "变形失败。"
+
+msgid "Transformation on unloaded image."
+msgstr "卸载图像时的变形。"
+
+msgid "Transparency color"
+msgstr "透明区域颜色"
+
+msgid "Transparency indicator"
+msgstr "透明区域指示"
+
+msgid "Transparent Parts"
+msgstr "透明部分"
+
+msgid "Trash images without asking"
+msgstr "把图像移除到回收站而不询问"
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "Undo the last change in the image"
+msgstr "撤销上一次对图片的修改"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Use \"%s\" to open the selected image"
+msgstr "使用“%s”打开选中图像"
+
+msgid "Use a custom background color"
+msgstr "使用自定义的背景颜色"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr "如果没有加载图像，文件选择器是否应当显示用户的图像文件夹。"
+
+msgid "Whether the image collection pane should be resizable."
+msgstr "图集面板是否可缩放。"
+
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr "在放大时是否对图像进行外插补。这会使图像更平滑，不过比不插补时稍慢。"
+
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr "在缩小时是否对图像进行内插补。这会提升图像质量，不过比不插补时稍慢。"
+
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr "是否应该根据 EXIF 方向自动旋转图像。"
+
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr "属性对话框中的元数据列表是否有自己的页面。"
+
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr "是否使用鼠标滚轮控制缩放。"
+
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr "图像序列是否要无穷循环显示。"
+
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr "是否以随机循环方式显示图像序列。"
+
+msgid "Width:"
+msgstr "宽度："
+
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+msgid "XMP IPTC"
+msgstr "XMP IPTC"
+
+msgid "XMP Other"
+msgstr "XMP 其它"
+
+msgid "XMP Rights Management"
+msgstr "XMP 权限管理"
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr ""
+"你应该已经随本程序一起收到一份 GNU 通用公共许可证副本；如果没有，你可以写信给 \"\"the Free Software Foundation, "
+"Inc., 51 Franklin Street, Fifth Floor, Boston, \"\"MA 02110-1301, USA \""
+
+msgid "Zoom _Out"
+msgstr "缩小(_O)"
+
+msgid "Zoom multiplier"
+msgstr "缩放比例"
+
+msgid "[FILE…]"
+msgstr "[文件...]"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_About Plugin"
+msgstr "关于插件(_A)"
+
+msgid "_Automatic orientation"
+msgstr "自动旋转(_A)"
+
+msgid "_Best Fit"
+msgstr "最佳长度 (_B)"
+
+msgid "_Bottom:"
+msgstr "下(_B)："
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Contents"
+msgstr "内容(_C)"
+
+msgid "_Copy"
+msgstr "复制(_C)"
+
+msgid "_Deactivate All"
+msgstr "全部禁用(_D)"
+
+msgid "_Delete Toolbar"
+msgstr "删除工具栏(_D)"
+
+msgid "_Do not ask again during this session"
+msgstr "在这个会话期间不再询问(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_First Image"
+msgstr "第一个图像(_F)"
+
+msgid "_Fullscreen"
+msgstr "全屏(_F)"
+
+msgid "_Go"
+msgstr "转到(_G)"
+
+msgid "_Height:"
+msgstr "高度(_H)："
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Image"
+msgstr "图像(_I)"
+
+msgid "_Image Collection"
+msgstr "图集 (_I)"
+
+msgid "_Last Image"
+msgstr "最后一个图像(_L)"
+
+msgid "_Left:"
+msgstr "左(_L)："
+
+msgid "_Loop sequence"
+msgstr "循环(_L)"
+
+msgid "_Move on Toolbar"
+msgstr "在工具栏上移动(_M)"
+
+msgid "_Next"
+msgstr "下一张(_N)"
+
+msgid "_Next Image"
+msgstr "下一个图像(_N)"
+
+msgid "_Normal Size"
+msgstr "正常大小(_N)"
+
+msgid "_Open Background Settings"
+msgstr "打开桌面背景设置(_O)"
+
+msgid "_Open…"
+msgstr "打开(_O)..."
+
+msgid "_Previous"
+msgstr "上一张(_P)"
+
+msgid "_Previous Image"
+msgstr "上一个图像(_P)"
+
+msgid "_Print…"
+msgstr "打印(_P)..."
+
+msgid "_Random Image"
+msgstr "随机图像(_R)"
+
+msgid "_Random sequence"
+msgstr "随机顺序/(_R)"
+
+msgid "_Reload"
+msgstr "重新载入(_R)"
+
+msgid "_Remove from Toolbar"
+msgstr "从工具栏删除(_R)"
+
+msgid "_Reset to Default"
+msgstr "重设为默认值(_R)"
+
+msgid "_Retry"
+msgstr "重试(_R)"
+
+msgid "_Right:"
+msgstr "右(_R)："
+
+msgid "_Rotate Clockwise"
+msgstr "顺时针旋转(_R)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "_Scaling:"
+msgstr "缩放(_S)："
+
+msgid "_Statusbar"
+msgstr "状态栏(_S)"
+
+msgid "_Switch image after:"
+msgstr "切换图像的时间(_S)："
+
+msgid "_Toolbar"
+msgstr "工具栏(_T)"
+
+msgid "_Tools"
+msgstr "工具(_T)"
+
+msgid "_Top:"
+msgstr "上(_T)："
+
+msgid "_Undo"
+msgstr "撤销(_U)"
+
+msgid "_Unit:"
+msgstr "单位(_U)："
+
+msgid "_View"
+msgstr "查看(_V)"
+
+msgid "_Width:"
+msgstr "宽度(_W)："
+
+msgid "_Zoom In"
+msgstr "放大(_Z)"
+
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr "移入回收站"
+
+msgid "as is"
+msgstr "原样"
+
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "像素"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "translator-credits"
+msgstr ""
+"开源软件国际化之简体中文组\n"
+"YangZhang <zyangmath@gmail.com>, 2008\n"
+"Xiyue Deng <manphiz@gmail.com>, 2009\n"
+"YunQiang Su <wzssyqa@gmail.com> 2010"

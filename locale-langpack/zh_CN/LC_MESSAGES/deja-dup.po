@@ -1,0 +1,1117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: deja-dup\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-04-07 19:48+0000\n"
+"PO-Revision-Date: 2016-04-11 04:57+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:30+0000\n"
+
+msgid "%.1f%% complete"
+msgstr "已完成 %.1f%%"
+
+msgid "%1$s on %2$s"
+msgstr "%1$s，在 %2$s"
+
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d 天"
+
+msgid "%s at Google Drive"
+msgstr "Google Drive 上的 %s"
+
+msgid "%s on Amazon S3"
+msgstr "Amazon S3 上的 %s"
+
+msgid "%s on Rackspace Cloud Files"
+msgstr "Rackspace 云文件上的 %s"
+
+msgid "%x %X"
+msgstr "%x %X"
+
+msgid "A backup automatically starts every %d day."
+msgid_plural "A backup automatically starts every %d days."
+msgstr[0] "每 %d 天自动进行一次备份。"
+
+msgid "A backup automatically starts every day."
+msgstr "每天自动进行一次备份。"
+
+msgid "A backup automatically starts every week."
+msgstr "每周自动进行一次备份。"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+msgid "Amazon S3 Access Key ID"
+msgstr "Amazon S3 访问密钥 ID"
+
+msgid ""
+"An optional folder name to store files in. This folder will be created in "
+"the chosen bucket."
+msgstr "用来存储文件的文件夹名称(可选)。将在所选存储段中创建此文件夹。"
+
+msgid "Another backup operation is already running"
+msgstr "另一个备份操作正在运行中"
+
+msgid "At least %d day"
+msgid_plural "At least %d days"
+msgstr[0] "至少 %d 天"
+
+msgid "At least a year"
+msgstr "至少一年"
+
+msgid "At least six months"
+msgstr "至少六个月"
+
+msgid "Authentication URL"
+msgstr "认证 URL"
+
+msgid "Back Up"
+msgstr "备份"
+
+msgid "Back Up Now…"
+msgstr "立即备份..."
+
+msgid "Backing Up…"
+msgstr "正在备份..."
+
+msgid "Backing up:"
+msgstr "备份："
+
+msgid "Backing up…"
+msgstr "正在备份..."
+
+msgid "Backup Failed"
+msgstr "备份失败"
+
+msgid "Backup Finished"
+msgstr "备份完成"
+
+msgid "Backup Monitor"
+msgstr "备份监视器"
+
+msgid "Backup completed"
+msgstr "备份完成"
+
+msgid "Backup encryption password"
+msgstr "备份加密密码"
+
+msgid "Backup finished"
+msgstr "备份完成"
+
+msgid "Backup location"
+msgstr "备份位置"
+
+msgid "Backup location does not have enough free space."
+msgstr "备份位置的自由空间不足。"
+
+msgid "Backup location is too small.  Try using one with more space."
+msgstr "备份位置空间过小。请尝试使用具有更多空间的位置。"
+
+msgid "Backup location not available"
+msgstr "备份位置不可用"
+
+msgid "Backup location ‘%s’ does not exist."
+msgstr "备份位置“%s”不存在。"
+
+msgid "Backup tool is broken.  Your installation is incomplete."
+msgstr "备份工具损坏。您的安装不完整。"
+
+msgid "Backup will begin when %s becomes connected."
+msgstr "备份将于 %s 建立连接时开始。"
+
+msgid "Backup will begin when a network connection becomes available."
+msgstr "备份将在网络连接可用时开始。"
+
+msgid "Backups"
+msgstr "备份"
+
+msgid "Bad encryption password."
+msgstr "无效的加密密码。"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Change your backup settings"
+msgstr "更改您的备份设置"
+
+msgid "Checking for Backups…"
+msgstr "正在检查有无备份..."
+
+msgid "Checking for backups…"
+msgstr "正在检查有无备份..."
+
+msgid "Choose Folder"
+msgstr "选择文件夹"
+
+msgid "Choose destination for restored files"
+msgstr "选择所恢复文件的目的地"
+
+msgid "Choose folders"
+msgstr "选择文件夹"
+
+msgid "Cleaning up…"
+msgstr "正在清理..."
+
+msgid "Co_ntinue"
+msgstr "继续(_N)"
+
+msgid "Computer name changed"
+msgstr "计算机名称已更改"
+
+msgid "Confir_m password"
+msgstr "确认密码(_M)"
+
+msgid "Connect _anonymously"
+msgstr "匿名连接(_A)"
+
+msgid "Connect as u_ser"
+msgstr "以用户身份连接(_U)"
+
+msgid "Connect to Amazon S3"
+msgstr "连接至 Amazon S3"
+
+msgid "Connect to Google Drive"
+msgstr "连接到 Google Drive"
+
+msgid "Connect to Rackspace Cloud Files"
+msgstr "连接至 Rackspace 云文件服务"
+
+msgid "Connect to Server"
+msgstr "连接到服务器"
+
+msgid ""
+"Could not back up the following files.  Please make sure you are able to "
+"open them."
+msgstr "无法备份下列文件。请确认您可以打开这些文件。"
+
+msgid "Could not display %s"
+msgstr "无法显示 %s"
+
+msgid "Could not find backup tool in %s.  Your installation is incomplete."
+msgstr "无法找到 %s 中的备份工具。您的安装不完整。"
+
+msgid "Could not install"
+msgstr "无法安装"
+
+msgid "Could not load backup tool.  Your installation is incomplete."
+msgstr "无法加载备份工具。您的安装不完整。"
+
+msgid ""
+"Could not restore the following files.  Please make sure you are able to "
+"write to them."
+msgstr "无法恢复下列文件。请确认您能够写入它们。"
+
+msgid "Could not restore ‘%s’: File not found in backup"
+msgstr "无法恢复“%s”：在备份中未找到该文件"
+
+msgid "Could not restore ‘%s’: Not a valid file location"
+msgstr "无法还原“%s”：不是有效的文件位置"
+
+msgid "Could not start backup tool"
+msgstr "无法启动备份工具"
+
+msgid "Could not understand duplicity version ‘%s’."
+msgstr "无法确定 duplicity 的版本：%s。"
+
+msgid "Could not understand duplicity version."
+msgstr "无法确定 duplicity 的版本。"
+
+msgid ""
+"Creating a fresh backup to protect against backup corruption.  This will "
+"take longer than normal."
+msgstr "创建一个全新备份以防范备份损坏，这要比正常备份花费更长的时间。"
+
+msgid "Creating the first backup.  This may take a while."
+msgstr "正在创建第一个备份，这可能需要一段时间。"
+
+msgid "Custom Location"
+msgstr "自定义位置"
+
+msgid "DIRECTORY"
+msgstr "目录"
+
+msgid "Day"
+msgstr "天"
+
+msgid "Directory does not exist"
+msgstr "目录不存在"
+
+msgid "Don't Show Again"
+msgstr "不再提示"
+
+msgid "Déjà Dup Backup Tool"
+msgstr "Déjà Dup 备份工具"
+
+msgid ""
+"Déjà Dup Backup Tool requires at least version %d.%d.%.2d of duplicity, but "
+"only found version %d.%d.%.2d"
+msgstr "Déjà Dup 备份工具至少需要 %d.%d.%.2d 版的 duplicity 软件包，但只找到 %d.%d.%.2d 版"
+
+msgid ""
+"Déjà Dup is a simple backup tool.  It hides the complexity of backing up\n"
+"the Right Way (encrypted, off-site, and regular) and uses duplicity as\n"
+"the backend."
+msgstr ""
+"Déjà Dup 是一个简易的备份工具，使用 duplicity 作为后端，隐藏了合理备份涉及的复杂\n"
+"机制(加密、异地、定期)。"
+
+msgid ""
+"Déjà Dup is a simple backup tool. It hides the complexity of backing up the "
+"Right Way (encrypted, off-site, and regular) and uses duplicity as the "
+"backend."
+msgstr "Déjà Dup 是一个简易备份工具，使用 dupicity 作为后端程序，隐藏了合理备份背后的复杂机制(加密、异地、定期)。"
+
+msgid ""
+"Déjà Dup needs to occasionally make fresh full backups. This is the number "
+"of days to wait between full backups."
+msgstr "Déjà Dup 有时需要重新进行完整备份，这是完整备份之间间隔的天数。"
+
+msgid "E_ncryption password"
+msgstr "加密密码(_N)"
+
+msgid "Encryption Password Needed"
+msgstr "请输入加密密码"
+
+msgid "Error reading file ‘%s’."
+msgstr "读取文件“%s”时出错。"
+
+msgid "Error writing file ‘%s’."
+msgstr "写入文件“%s”时出错。"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "Failed with an unknown error."
+msgstr "因出现未知错误而失败。"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File to restore"
+msgid_plural "Files to restore"
+msgstr[0] "要恢复的文件"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Folder type"
+msgstr "文件夹类型"
+
+msgid "Folders to ignore"
+msgstr "要忽略的文件夹"
+
+msgid "Folders to save"
+msgstr "要保存的文件夹"
+
+msgid "Forever"
+msgstr "永久"
+
+msgid "Full name of the external volume"
+msgstr "外部卷的全名"
+
+msgid "Google Cloud Storage"
+msgstr "谷歌云存储"
+
+msgid "Google Cloud Storage Access Key ID"
+msgstr "谷歌云存储访问密钥 ID"
+
+msgid "Google Drive"
+msgstr "Google Drive"
+
+msgid "Home"
+msgstr "主目录"
+
+msgid "Home (%s)"
+msgstr "主目录(%s)"
+
+msgid "How long to keep backup files"
+msgstr "备份文件的保存期"
+
+msgid "How long to wait between full backups"
+msgstr "完整备份间隔时间"
+
+msgid "How often to periodically back up"
+msgstr "定期备份的频率"
+
+msgid "Icon of the external volume"
+msgstr "外部卷的图标"
+
+msgid ""
+"If the backup location is on an external volume, this is its unique "
+"filesystem identifier."
+msgstr "如果备份位置位于外部卷上，此项即为其唯一的文件系统标识符。"
+
+msgid ""
+"If the backup location is on an external volume, this is the path of the "
+"folder on that volume."
+msgstr "如果备份位置位于外部卷上，此项即为该卷上文件夹的路径。"
+
+msgid ""
+"If the backup location is on an external volume, this is the volume’s icon."
+msgstr "如果备份位置位于外部卷上，此项即为该卷的图标。"
+
+msgid ""
+"If the backup location is on an external volume, this is the volume’s longer"
+" descriptive name."
+msgstr "如果备份位置位于外部卷上，此项即为该卷的详细描述名称。"
+
+msgid ""
+"If the backup location is on an external volume, this is the volume’s "
+"shorter name."
+msgstr "如果备份位置位于外部卷上，此项即为该卷的简短名称。"
+
+msgid "Immediately start a backup"
+msgstr "立即开始备份"
+
+msgid ""
+"Important documents, data, and settings can be protected by storing them in "
+"a backup. In the case of a disaster, you would be able to recover them from "
+"that backup."
+msgstr "通过备份可以保护重要的文件，数据和设置的安全。一旦发生意外，您将可以通过备份来恢复之前的重要数据。"
+
+msgid ""
+"In order to check that you will be able to retrieve your files in the case "
+"of an emergency, please enter your encryption password again to perform a "
+"brief restore test."
+msgstr "为保证您在紧急时刻能够及时取回文件，请再次输入加密密码来运行一次快速的还原测试。"
+
+msgid ""
+"In order to prevent you from forgetting your passwords, Déjà Dup will "
+"occasionally notify you to confirm the password. This time should be either "
+"‘disabled’ to turn off this check or in ISO 8601 format."
+msgstr "为防止您忘记密码， Déjà Dup 有时会通知您重新确认密码，此处应设置为 ISO 8601 格式的时间或设置或禁用。"
+
+msgid "Incrementally backs up, letting you restore from any particular backup"
+msgstr "增量式备份，方便您从任意备份点恢复"
+
+msgid "Install…"
+msgstr "安装..."
+
+msgid "Integrates well into your GNOME desktop"
+msgstr "融入 GNOME 桌面"
+
+msgid "Invalid ID."
+msgstr "无效的 ID。"
+
+msgid "Invalid secret key."
+msgstr "无效的私钥。"
+
+msgid "Keep your files safe by backing up regularly"
+msgstr "通过定期备份来保持文件安全"
+
+msgid "Keep your important documents safe from disaster"
+msgstr "保护您的重要文件"
+
+msgid "Last backup was %d day ago."
+msgid_plural "Last backup was %d days ago."
+msgstr[0] "最近的备份在 %d 天之前。"
+
+msgid "Last backup was today."
+msgstr "最近的备份在今天。"
+
+msgid "Last backup was yesterday."
+msgstr "最近的备份在昨天。"
+
+msgid "Last seen"
+msgstr "上次查看时间"
+
+msgid "Listing files…"
+msgstr "正在列出文件..."
+
+msgid "Local Folder"
+msgstr "本地文件夹"
+
+msgid "Location in which to hold the backup files."
+msgstr "用于存放备份文件的位置。"
+
+msgid "Location not available"
+msgstr "位置不可用"
+
+msgid "Next backup is %d day from now."
+msgid_plural "Next backup is %d days from now."
+msgstr[0] "下一次备份时间在 %d 天之后。"
+
+msgid "Next backup is today."
+msgstr "下一次备份时间在今天。"
+
+msgid "Next backup is tomorrow."
+msgstr "下一次备份时间在明天。"
+
+msgid "No backup files found"
+msgstr "未找到备份文件"
+
+msgid "No backup scheduled."
+msgstr "没有计划进行的备份。"
+
+msgid "No backups to restore"
+msgstr "无备份可恢复"
+
+msgid "No directory provided"
+msgstr "未提供目录"
+
+msgid "No recent backups."
+msgstr "没有最近进行的备份。"
+
+msgid "No space left in ‘%s’."
+msgstr "“%s”上没有剩余空间。"
+
+msgid "No space left."
+msgstr "无剩余空间。"
+
+msgid ""
+"Not all files were successfully backed up.  See dialog for more details."
+msgstr "未能成功备份全部文件。更多细节参见对话框。"
+
+msgid ""
+"Old backups will be deleted earlier if the storage location is low on space."
+msgstr "存储空间不足时，旧的备份将被删除。"
+
+msgid "Only one directory can be shown at once"
+msgstr "一次只能显示一个目录"
+
+msgid "Open Backup Settings"
+msgstr "打开备份设置"
+
+msgid "OpenStack Swift"
+msgstr "OpenStack Swift"
+
+msgid "Original location"
+msgstr "原始位置"
+
+msgid "Overview"
+msgstr "概览"
+
+msgid "Paused (no network)"
+msgstr "已暂停(无网络)"
+
+msgid "Permission denied"
+msgstr "权限不够"
+
+msgid "Permission denied when trying to create ‘%s’."
+msgstr "尝试创建“%s”时被拒绝访问。"
+
+msgid "Permission denied when trying to delete ‘%s’."
+msgstr "尝试删除“%s”时权限被拒绝。"
+
+msgid "Permission denied when trying to read ‘%s’."
+msgstr "尝试读取“%s”时权限被拒绝。"
+
+msgid "Preparing…"
+msgstr "正在准备..."
+
+msgid "Rackspace Cloud Files"
+msgstr "Rackspace 云文件"
+
+msgid "Relative path under the external volume"
+msgstr "外部卷下的相对路径"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Require Password?"
+msgstr "需要密码？"
+
+msgid "Restore"
+msgstr "恢复"
+
+msgid "Restore Failed"
+msgstr "恢复失败"
+
+msgid "Restore Finished"
+msgstr "恢复完成"
+
+msgid "Restore From When?"
+msgstr "从何时恢复？"
+
+msgid "Restore From Where?"
+msgstr "从哪里恢复？"
+
+msgid "Restore Missing Files…"
+msgstr "还原丢失的文件..."
+
+msgid "Restore Test"
+msgstr "还原测试"
+
+msgid "Restore _folder"
+msgstr "恢复文件夹(_F)"
+
+msgid "Restore date"
+msgstr "恢复日期"
+
+msgid "Restore deleted files"
+msgstr "恢复删除的文件"
+
+msgid "Restore deleted files from backup"
+msgstr "从备份中恢复删除的文件"
+
+msgid "Restore file from backup"
+msgid_plural "Restore files from backup"
+msgstr[0] "从备份中恢复文件"
+
+msgid "Restore files to _original locations"
+msgstr "将文件恢复到原始位置(_O)"
+
+msgid "Restore folder"
+msgstr "恢复文件夹"
+
+msgid "Restore given files"
+msgstr "恢复给定文件"
+
+msgid "Restore to Where?"
+msgstr "恢复到何处？"
+
+msgid "Restore to _specific folder"
+msgstr "恢复到指定文件夹(_S)"
+
+msgid "Restore which Files?"
+msgstr "恢复哪些文件？"
+
+msgid "Restore…"
+msgstr "还原..."
+
+msgid "Restoring files…"
+msgstr "正在恢复文件..."
+
+msgid "Restoring:"
+msgstr "恢复："
+
+msgid "Restoring…"
+msgstr "正在恢复..."
+
+msgid "Revert to Previous Version…"
+msgid_plural "Revert to Previous Versions…"
+msgstr[0] "恢复到上一版本..."
+
+msgid "S3 Access Key I_D"
+msgstr "S3 访问密钥 I_D"
+
+msgid "S3 bucket name is not available."
+msgstr "S3 存储段名称不可用。"
+
+msgid "SSH"
+msgstr "SSH"
+
+msgid "S_how API access key"
+msgstr "显示 API 访问密钥(_H)"
+
+msgid "S_how password"
+msgstr "显示密码(_H)"
+
+msgid "S_how secret access key"
+msgstr "显示访问密钥(_H)"
+
+msgid "Scanning finished"
+msgstr "扫描完成"
+
+msgid "Scanning for files from about a month ago…"
+msgid_plural "Scanning for files from about %d months ago…"
+msgstr[0] "正在扫描约 %d 个月内的文件..."
+
+msgid "Scanning for files from about a year ago…"
+msgid_plural "Scanning for files from about %d years ago…"
+msgstr[0] "正在扫描约 %d 年前的文件..."
+
+msgid "Scanning for files from up to a day ago…"
+msgstr "正在扫描一天内的文件..."
+
+msgid "Scanning for files from up to a month ago…"
+msgstr "正在扫描一个月内的文件..."
+
+msgid "Scanning for files from up to a week ago…"
+msgstr "正在扫描一周内的文件..."
+
+msgid "Scanning:"
+msgstr "扫描："
+
+msgid "Scanning…"
+msgstr "正在扫描..."
+
+msgid "Scheduled backup delayed"
+msgstr "计划备份被延迟"
+
+msgid "Schedules backups at regular intervals"
+msgstr "每隔一段时间进行定期备份"
+
+msgid "Schedules regular backups"
+msgstr "日常定期备份"
+
+msgid "Scheduling"
+msgstr "调度中"
+
+msgid "Securely encrypts and compresses your data"
+msgstr "安全地加密并压缩您的数据"
+
+msgid "Short name of the external volume"
+msgstr "外部卷的简短名称"
+
+msgid "Show Progress"
+msgstr "显示进度"
+
+msgid "Show _Progress"
+msgstr "显示进度(_P)"
+
+msgid "Show version"
+msgstr "显示版本号"
+
+msgid "Starting scheduled backup"
+msgstr "开始计划备份"
+
+msgid "Storage location"
+msgstr "存储位置"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid ""
+"Support for local, remote, or cloud backup locations, such as Amazon S3 and "
+"Rackspace Cloud Files"
+msgstr "支持本地、远程或 Amazon S3、Rackspace Cloud Files 等云备份位置。"
+
+msgid "Test every two _months"
+msgstr "每隔 2 个月测试一次(_M)"
+
+msgid "The Amazon S3 bucket name to use"
+msgstr "要使用的 Amazon S3 存储段名称"
+
+msgid "The Amazon S3 folder"
+msgstr "Amazon S3 文件夹"
+
+msgid "The Google Cloud Storage bucket name to use"
+msgstr "谷歌云存储使用的存储段名称"
+
+msgid "The Google Cloud Storage folder"
+msgstr "谷歌的云存储文件夹"
+
+msgid "The OpenStack Swift container"
+msgstr "OpenStack Swift 容器"
+
+msgid "The Rackspace Cloud Files container"
+msgstr "Rackspace 云文件容器"
+
+msgid "The email-address of your Google account"
+msgstr "您谷歌账户的电子邮件地址"
+
+msgid "The email-address of your Google account."
+msgstr "您谷歌账户的电子邮件地址。"
+
+msgid ""
+"The existing backup is of a computer named %s, but the current computer’s "
+"name is %s.  If this is unexpected, you should back up to a different "
+"location."
+msgstr "现有备份是名为 %s 的计算机的备份，但当前计算机的名称却是 %s。如果这在意料之外，则您应该备份到其它位置。"
+
+msgid "The folder hierarchy where backups are stored."
+msgstr "存储备份的文件夹层次结构。"
+
+msgid "The folder where backups are stored"
+msgstr "存储备份的文件夹"
+
+msgid "The last time Déjà Dup backed up"
+msgstr "Déjà Dup 上一次备份时间"
+
+msgid ""
+"The last time Déjà Dup checked whether it should prompt about backing up"
+msgstr "上次 Déjà Dup 检查是否应该提醒您备份的时间"
+
+msgid ""
+"The last time Déjà Dup checked whether it should prompt about your password"
+msgstr "上次  Déjà Dup 检查是否应该提醒您确认密码的时间"
+
+msgid "The last time Déjà Dup restored"
+msgstr "Déjà Dup 上一次还原时间"
+
+msgid ""
+"The last time Déjà Dup successfully completed a backup. This time should be "
+"in ISO 8601 format."
+msgstr "Déjà Dup 上一次成功完成一个备份的时间，该时间应为 ISO 8601 格式。"
+
+msgid ""
+"The last time Déjà Dup successfully completed a restore. This time should be"
+" in ISO 8601 format."
+msgstr "Déjà Dup 上一次成功完成一个还原的时间，该时间应为 ISO 8601 格式。"
+
+msgid "The last time Déjà Dup was run"
+msgstr "上次运行 Déjà Dup 的时间"
+
+msgid ""
+"The last time Déjà Dup was successfully run. This time should be in ISO 8601"
+" format."
+msgstr "上次成功运行 Déjà Dup 的时间，该时间应为 ISO 8601 格 式。"
+
+msgid "The number of days between backups."
+msgstr "备份的间隔天数。"
+
+msgid ""
+"The number of days to keep backup files on the backup location. A value of 0"
+" means forever. This is a minimum number of days; the files may be kept "
+"longer."
+msgstr "备份文件在备份位置的保留天数，0 表示永久保留。此处设置的是保留的最短天数，文件可能被保留更长的时间。"
+
+msgid ""
+"The type of backup location. If ‘auto’, a default will be chosen based on "
+"what is available."
+msgstr "备份位置的类型。如果设置为 auto，则会自动使用可用的位置。"
+
+msgid ""
+"This is the Authentication URL, or keystone URL for the OpenStack service"
+msgstr "这是认证 URL，或 OpenStack 服务的 keystone URL"
+
+msgid "This is your tenant for the OpenStack Swift service."
+msgstr "这是您 OpenStack Swift 服务的租户。"
+
+msgid "This is your username for the OpenStack Swift service."
+msgstr "这是您 OpenStack Swift 服务的用户名。"
+
+msgid "This is your username for the Rackspace Cloud Files service."
+msgstr "这是您在 Rackspace 云文件服务上的用户名。"
+
+msgid ""
+"This list of directories will be backed up. Reserved values $HOME, $DESKTOP,"
+" $DOCUMENTS, $DOWNLOAD, $MUSIC, $PICTURES, $PUBLIC_SHARE, $TEMPLATES, "
+"$TRASH, and $VIDEO are recognized as the user’s special directories. "
+"Relative entries are relative to the user’s home directory."
+msgstr ""
+"将备份此列表中的目录。保留值 $HOME、$DESKTOP、 "
+"$DOCUMENTS、$DOWNLOAD、$MUSIC、$PICTURES、$PUBLIC_SHARE、$TEMPLATES、$TRASH  和 "
+"$VIDEO 被确认为用户的特殊目录。相对条目相对于用户的主目录。"
+
+msgid ""
+"This list of directories will not be backed up. Reserved values $HOME, "
+"$DESKTOP, $DOCUMENTS, $DOWNLOAD, $MUSIC, $PICTURES, $PUBLIC_SHARE, "
+"$TEMPLATES, $TRASH, and $VIDEO are recognized as the user’s special "
+"directories. Relative entries are relative to the user’s home directory."
+msgstr ""
+"将不备份此列表中的目录。保留值 $HOME、 "
+"$DESKTOP、$DOCUMENTS、$DOWNLOAD、$MUSIC、$PICTURES、$PUBLIC_SHARE、 "
+"$TEMPLATES、$TRASH 和 $VIDEO 被确认为用户的特殊目录。相对条目相对于用户的主目录。"
+
+msgid "Trash"
+msgstr "回收站"
+
+msgid "Type of location to store backup"
+msgstr "备份存储位置的类型"
+
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+msgid "Ubuntu One has shut down.  Please choose another storage location."
+msgstr "Ubuntu One 已停止服务，请选择其他存储位置。"
+
+msgid "Unique ID of the external volume"
+msgstr "外部卷的唯一 ID"
+
+msgid "Uploading…"
+msgstr "正在上传..."
+
+msgid "Use secure connection (_HTTPS)"
+msgstr "使用加密链接(_HTTPS)"
+
+msgid "Verifying backup…"
+msgstr "正在验证备份..."
+
+msgid "Waiting for a network connection…"
+msgstr "等待网络连接..."
+
+msgid "Waiting for ‘%s’ to become connected…"
+msgstr "正在等待“%s”建立连接..."
+
+msgid "WebDAV"
+msgstr "WebDAV"
+
+msgid "Week"
+msgstr "周"
+
+msgid ""
+"When a user logs in, the Déjà Dup monitor checks whether it should prompt "
+"about backing up. This is used to increase discoverability for users that "
+"don’t know about backups. This time should be either ‘disabled’ to turn off "
+"this check or in ISO 8601 format."
+msgstr ""
+"当用户登录到系统，Déjà Dup 会检查它是否应当提示用户进行备份。这可以用来帮助不了解备分的用户发现本软件，此处应设置为 ISO 8601 "
+"格式的时间或禁用。"
+
+msgid ""
+"Whether the backup location is a mounted external volume or a normal folder."
+msgstr "备份位置是装入的外部卷还是普通文件夹。"
+
+msgid "Whether to automatically back up on a regular schedule."
+msgstr "是否按照固定时间表自动备份。"
+
+msgid "Whether to periodically back up"
+msgstr "是否定期备份"
+
+msgid "Whether to request the root password"
+msgstr "是否要求提供根密码"
+
+msgid ""
+"Whether to request the root password when backing up from or restoring to "
+"system folders."
+msgstr "是否在从系统文件夹备份或向系统文件夹恢复时要求提供 root 用户密码。"
+
+msgid ""
+"Which Amazon S3 bucket to store files in. This does not need to exist "
+"already. Only legal hostname strings are valid."
+msgstr "将文件存储在哪个 Amazon S3 存储段中。此项不必是已有项，只有合法主机名字符串有效。"
+
+msgid ""
+"Which Google Cloud Storage bucket to store files in. This does not need to "
+"exist already. Only legal hostname strings are valid."
+msgstr "将文件存储在谷歌云存储存储段中。此项不必是已有项，只有合法主机名字符串有效。"
+
+msgid ""
+"Which OpenStack Swift container to store files in. This does not need to "
+"exist already. Only legal hostname strings are valid."
+msgstr "将文件存储在哪个 OpenStack Swift 容器中。此项不必是已有项，只有合法主机名字符串有效。"
+
+msgid ""
+"Which Rackspace Cloud Files container to store files in. This does not need "
+"to exist already. Only legal hostname strings are valid."
+msgstr "在哪个 Rackspace 云文件服务容器上存储。此选项可以不进行设置，设置时仅有合法的主机名是有效的。"
+
+msgid "Windows Share"
+msgstr "Windows 共享"
+
+msgid ""
+"You can create a backup after you first install some necessary software by "
+"clicking the %s button."
+msgstr "您可以先点击 %s 按钮安装一些必要的软件，然后创建一个备份。"
+
+msgid ""
+"You can restore existing backups after you first install some necessary "
+"software by clicking the %s button."
+msgstr "您可以先点击 %s 按钮安装一些必要的软件，然后恢复已有的备份。"
+
+msgid ""
+"You can restore the entire backup with the %s button or use Files to either "
+"revert individual files or restore missing ones."
+msgstr "您可以通过 %s 按钮还原完整的备份，或通过“文件”还原单个文件。"
+
+msgid "You can sign up for a Google account <a href=\"%s\">online</a>."
+msgstr "您可以注册一个谷歌账户 <a href=\"%s\">在线</a>。"
+
+msgid ""
+"You can sign up for a Rackspace Cloud Files account <a "
+"href=\"%s\">online</a>."
+msgstr "您可以在线<a href=\"%s\">注册</a>一个 Rackspace 云文件帐号。"
+
+msgid "You can sign up for an Amazon S3 account <a href=\"%s\">online</a>."
+msgstr "您可以<a href=\"%s\">在线</a>注册一个 Amazon S3 帐号。"
+
+msgid "You may use the %s button to browse for existing backups."
+msgstr "您可以通过 %s 按钮浏览已有的备份。"
+
+msgid "You must provide a directory, not a file"
+msgstr "您必须提供目录，而不是文件"
+
+msgid "You must specify a mode"
+msgstr "您必须指定一种模式"
+
+msgid ""
+"You should <a href=''>enable</a> automatic backups or use the %s button to "
+"start one now."
+msgstr "您应当<a href=''>设置</a>自动备份或通过 %s 按钮立即进行一次备份。"
+
+msgid ""
+"You will need your password to restore your files. You might want to write "
+"it down."
+msgstr "还原文件将需要密码，您可能需要将其抄写下来。"
+
+msgid "Your Amazon S3 Access Key Identifier. This acts as your S3 username."
+msgstr "您的 Amazon S3 访问密钥标识符。此项充当您的 S3 用户名。"
+
+msgid "Your Amazon Web Services account is not signed up for the S3 service."
+msgstr "您的 Amazon Web Services 帐号未注册 S3 服务。"
+
+msgid ""
+"Your Google Cloud Storage Access Key Identifier. This acts as your Google "
+"Cloud Storage username."
+msgstr "您的谷歌云存储访问密钥标识符。此项充当您的谷歌云存储 用户名。"
+
+msgid "Your OpenStack tenant"
+msgstr "您 OpenStack 的租户"
+
+msgid "Your OpenStack username"
+msgstr "您 OpenStack 的用户名"
+
+msgid "Your Rackspace username"
+msgstr "您的 Rackspace 用户名"
+
+msgid ""
+"Your backup appears to be corrupted.  You should delete the backup and try "
+"again."
+msgstr "您的备份似乎已经损坏，请删除该备份然后重试。"
+
+msgid "Your file was successfully restored."
+msgid_plural "Your files were successfully restored."
+msgstr[0] "您的文件已成功恢复。"
+
+msgid "Your files were successfully backed up and tested."
+msgstr "您的文件已成功备份并通过测试"
+
+msgid "Your files were successfully restored."
+msgstr "您的文件已成功恢复。"
+
+msgid "[FILES…]"
+msgstr "[文件...]"
+
+msgid "_API access key"
+msgstr "_API 访问密钥"
+
+msgid "_Access key ID"
+msgstr "访问密钥 ID(_A)"
+
+msgid "_Add"
+msgstr "添加(_A)"
+
+msgid "_Allow restoring without a password"
+msgstr "允许不使用密码还原(_A)"
+
+msgid "_Automatic backup"
+msgstr "自动备份(_A)"
+
+msgid "_Back"
+msgstr "后退(_B)"
+
+msgid "_Back Up Now…"
+msgstr "立即备份(_B)"
+
+msgid "_Backup location"
+msgstr "备份位置(_B)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Choose Folder…"
+msgstr "选择文件夹(_C)..."
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Container"
+msgstr "容器(_C)"
+
+msgid "_Date"
+msgstr "日期(_D)"
+
+msgid "_Details"
+msgstr "详细信息(_D)"
+
+msgid "_Domain"
+msgstr "域(_D)"
+
+msgid "_Domain Name"
+msgstr "域名(_D)"
+
+msgid "_Don't Show Again"
+msgstr "不再提示(_D)"
+
+msgid "_Email"
+msgstr "电子邮件(_E)"
+
+msgid "_Email address"
+msgstr "电子邮件地址(_E)"
+
+msgid "_Every"
+msgstr "每天(_E)"
+
+msgid "_Folder"
+msgstr "文件夹(_F)"
+
+msgid "_Forward"
+msgstr "前进(_F)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Install…"
+msgstr "安装(_I)..."
+
+msgid "_OK"
+msgstr "确定(_O)"
+
+msgid "_Open Backup Settings"
+msgstr "打开备份设置(_O)"
+
+msgid "_Password"
+msgstr "密码(_P)"
+
+msgid "_Password-protect your backup"
+msgstr "用密码保护您的备份(_P)"
+
+msgid "_Port"
+msgstr "端口(_P)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Remember API access key"
+msgstr "记住 API 访问密钥(_R)"
+
+msgid "_Remember password"
+msgstr "记住密码(_R)"
+
+msgid "_Remember secret access key"
+msgstr "记住访问密钥(_R)"
+
+msgid "_Remove"
+msgstr "删除(_R)"
+
+msgid "_Restore"
+msgstr "恢复(_R)"
+
+msgid "_Restore…"
+msgstr "恢复(_R)..."
+
+msgid "_Resume Later"
+msgstr "稍后继续(_R)"
+
+msgid "_Secret access key"
+msgstr "访问密钥私钥(_S)"
+
+msgid "_Server"
+msgstr "服务器(_S)"
+
+msgid "_Show password"
+msgstr "显示密码(_S)"
+
+msgid "_Skip Backup"
+msgstr "跳过备份(_S)"
+
+msgid "_Storage location"
+msgstr "存储位置(_S)"
+
+msgid "_URI"
+msgstr "_URI"
+
+msgid "_Username"
+msgstr "用户名(_U)"
+
+msgctxt "back up is verb"
+msgid "Back Up"
+msgstr "备份"
+
+msgctxt "back up is verb"
+msgid "_Back Up"
+msgstr "备份(_B)"
+
+msgid "déjà;deja;dup;"
+msgstr "déjà;deja;dup;备份;"
+
+msgctxt "verb"
+msgid "_Keep"
+msgstr "维持原状(_K)"
+
+msgctxt "verb"
+msgid "_Test"
+msgstr "测试(_T)"

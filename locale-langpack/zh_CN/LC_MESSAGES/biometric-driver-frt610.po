@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: biometric-driver-frt610 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-09 11:40+0800\n"
+"PO-Revision-Date: 2018-07-11 14:03+0800\n"
+"Last-Translator: droiing <jianglinxuan@kylinos.cn>\n"
+"Language-Team: Chinese (simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Aratek TrustLink Fingerprint Reader (TL-FRT610)"
+msgstr "亚略特TrustLink指纹采集仪(TL-FRT610)"
+
+msgid "Device %s[%d] received interrupt request\n"
+msgstr "设备 %s[%d] 接收到中断请求\n"
+
+msgid "Device are not open"
+msgstr "设备未打开"
+
+msgid "Device does not exist"
+msgstr "设备不存在"
+
+msgid "Device uninitialized"
+msgstr "设备未初始化"
+
+msgid "Failed to extract fingerprint features"
+msgstr "提取指纹特征失败"
+
+msgid "Failed to generate fingerprint template"
+msgstr "生成指纹模板失败"
+
+msgid "Failed to get image"
+msgstr "获取图像失败"
+
+msgid "Fingerprint verification failed"
+msgstr "指纹比对失败"
+
+msgid "Generating fingerprint characteristic data. Please wait..."
+msgstr "正在生成指纹特征数据，请稍候..."
+
+msgid "Get image timeout"
+msgstr "获取图像超时"
+
+msgid "Getting the image ..."
+msgstr "正在获取图像中..."
+
+msgid "Identifying fingerprint, please wait..."
+msgstr "正在识别指纹，请稍候..."
+
+msgid "Illegal error number"
+msgstr "非法的错误号"
+
+msgid "Initialization fingerprint algorithm failed"
+msgstr "初始化指纹算法失败"
+
+msgid "Not valid BMP data"
+msgstr "不是有效的BMP数据"
+
+msgid "Other errors"
+msgstr "其它错误"
+
+msgid "Out of memory"
+msgstr "内存不足"
+
+msgid "Parameter error"
+msgstr "参数错误"
+
+msgid "Please lift your finger"
+msgstr "请抬起手指"
+
+msgid "Poor image quality"
+msgstr "图像质量太差"
+
+msgid "The algorithm library is not initialized"
+msgstr "算法库未初始化"
+
+msgid "The device has no authorization"
+msgstr "设备没有授权"
+
+msgid "The fingerprint is being sampled. Please press your finger"
+msgstr "正在进行指纹采样，请按下手指"
+
+msgid "The image buffer has no valid fingerprint data"
+msgstr "图像缓冲区没有有效指纹数据"
+
+msgid "The image prep function is not called"
+msgstr "未调图像准备函数"
+
+msgid "This function is not supported for the time being"
+msgstr "暂不支持该功能"
+
+msgid "Unknown state"
+msgstr "未知的状态"
+
+msgid "[%d] Sample[%d] -> Sample[%d], similarity = %d\n"
+msgstr "[%d] 采样[%d] -> 采样[%d], 相似度 = %d\n"
+
+msgid "[%s] No.%d device information: %s\n"
+msgstr "[%s] 第 %d 个设备信息：%s\n"
+
+msgid "[%s] SecurityLevel is not set. Use default values: %d\n"
+msgstr "[%s] SecurityLevel（安全等级）未设置。使用默认值：%d\n"
+
+msgid "[%s] Similarity = %d (UID:%d, INDEX[%d]:%s, SNO:%d)\n"
+msgstr "[%s] 相似度 = %d (UID:%d, INDEX[%d]:%s, SNO:%d)\n"
+
+msgid ""
+"[%s] Threshold (Similarity Threshold) is not set. Use default values: %d\n"
+msgstr "[%s] Threshold（相似度阈值）未设置。使用默认值：%d\n"
+
+msgid "[1/3] fingerprint is being sampled. Please press your finger"
+msgstr "[1/3] 正在进行指纹采样，请按下手指"
+
+msgid "[2/3] fingerprint is being sampled. Please press your finger"
+msgstr "[2/3] 正在进行指纹采样，请按下手指"
+
+msgid "[3/3] fingerprint is being sampled. Please press your finger"
+msgstr "[3/3] 正在进行指纹采样，请按下手指"

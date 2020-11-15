@@ -1,0 +1,1483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-libgimp\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gimp&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-12-21 19:15+0000\n"
+"PO-Revision-Date: 2014-04-02 02:44+0000\n"
+"Last-Translator: Lephix <lephix@163.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 05:22+0000\n"
+
+msgid "%d page selected"
+msgid_plural "All %d pages selected"
+msgstr[0] "已选中 %d 页"
+
+msgid "%d procedure"
+msgid_plural "%d procedures"
+msgstr[0] "%d 个过程"
+
+msgid "%d procedure matches your query"
+msgid_plural "%d procedures match your query"
+msgstr[0] "%d 个过程与您的查询相匹配"
+
+msgid "%s plug-in  can only handle RGB or indexed images"
+msgstr "%s 插件只能处理 RGB 或索引图像"
+
+msgid "%s plug-in can only handle RGB images"
+msgstr "%s 插件只能处理 RGB 图像"
+
+msgid "%s plug-in can only handle RGB or grayscale images"
+msgstr "%s 插件只能处理 RGB 或灰度图像"
+
+msgid "%s plug-in can only handle bitmap (two color) indexed images"
+msgstr "%s 插件只能处理位图(两色)索引图像"
+
+msgid "%s plug-in can only handle grayscale images"
+msgstr "%s 插件只能处理灰度图像"
+
+msgid "%s plug-in can only handle grayscale or indexed images"
+msgstr "%s 插件只能处理灰度或索引图像"
+
+msgid "%s plug-in can only handle indexed images"
+msgstr "%s 插件只能处理索引图像"
+
+msgid "%s plug-in can only handle layers as animation frames"
+msgstr "%s 插件只能以动画的帧的方式处理图层"
+
+msgid "%s plug-in can't handle layer masks"
+msgstr "%s 插件无法处理图层蒙板"
+
+msgid "%s plug-in can't handle layer offsets, size or opacity"
+msgstr "%s 插件无法处理图层位移、大小或不透明度"
+
+msgid "%s plug-in can't handle layers"
+msgstr "%s 插件无法处理图层"
+
+msgid "%s plug-in can't handle transparency"
+msgstr "%s 插件无法处理透明度"
+
+msgid "%s plug-in needs an alpha channel"
+msgstr "%s 插件需要一个 alpha 通道"
+
+msgid "(Empty)"
+msgstr "(空)"
+
+msgid "(invalid UTF-8 string)"
+msgstr "(无效的 UTF-8 字符串)"
+
+msgid "Add Alpha Channel"
+msgstr "添加 Alpha 通道"
+
+msgid "Additional Information"
+msgstr "附加信息"
+
+msgid "All files (*.*)"
+msgstr "所有文件(*.*)"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Anchor"
+msgstr "固定"
+
+msgid "Apply Layer Masks"
+msgstr "应用图层蒙板"
+
+msgid "Author:"
+msgstr "作者："
+
+msgid "Blac_k"
+msgstr "黑(_K)"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Black _pullout:"
+msgstr "黑色量(_P)："
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "Brush Selection"
+msgstr "画笔选择"
+
+msgid "Button %d"
+msgstr "按钮 %d"
+
+msgid "Button %d Press"
+msgstr "按钮 %d 按下"
+
+msgid "Button %d Release"
+msgstr "按钮 %d 释放"
+
+msgid "Button 0"
+msgstr "按钮 0"
+
+msgid "Button 1"
+msgstr "按钮 1"
+
+msgid "Button 2"
+msgstr "按钮 2"
+
+msgid "Button 3"
+msgstr "按钮 3"
+
+msgid "Button 4"
+msgstr "按钮 4"
+
+msgid "Button 5"
+msgstr "按钮 5"
+
+msgid "Button 6"
+msgstr "按钮 6"
+
+msgid "Button 7"
+msgstr "按钮 7"
+
+msgid "Button 8"
+msgstr "按钮 8"
+
+msgid "Button 9"
+msgstr "按钮 9"
+
+msgid "Button Back"
+msgstr "后退按钮"
+
+msgid "Button Extra"
+msgstr "额外键"
+
+msgid "Button Forward"
+msgstr "前进按钮"
+
+msgid "Button Gear Down"
+msgstr "加速档按钮"
+
+msgid "Button Gear Up"
+msgstr "减速档按钮"
+
+msgid "Button Left"
+msgstr "左键"
+
+msgid "Button Middle"
+msgstr "中键"
+
+msgid "Button Mouse"
+msgstr "鼠标按钮"
+
+msgid "Button Right"
+msgstr "右键"
+
+msgid "Button Side"
+msgstr "侧键"
+
+msgid "Button Task"
+msgstr "任务按钮"
+
+msgid "Button Wheel"
+msgstr "架驶盘按钮"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "CMYK color selector"
+msgstr "CMYK 颜色选择器"
+
+msgid "CMYK color selector (using color profile)"
+msgstr "CMYK 颜色选择器(使用颜色配置文件)"
+
+msgid "C_enter"
+msgstr "居中(_E)"
+
+msgid ""
+"Cannot determine a valid home directory.\n"
+"Thumbnails will be stored in the folder for temporary files (%s) instead."
+msgstr ""
+"无法确定有效的主目录。\n"
+"将缩略图改放在临时文件的目录(%s)中。"
+
+msgid "Cannot expand ${%s}"
+msgstr "无法扩展 ${%s}"
+
+msgid "Channel:"
+msgstr "通道："
+
+msgid "Check Size"
+msgstr "方格大小"
+
+msgid "Check Style"
+msgstr "方格风格"
+
+msgid "Choose an ICC Color Profile"
+msgstr "选择 ICC 颜色配置文件"
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr "点击滴管，然后点击您的屏幕上任何位置的颜色即可选取该颜色。"
+
+msgid "Color Deficient Vision"
+msgstr "视觉色彩缺失"
+
+msgid "Color Management"
+msgstr "颜色管理"
+
+msgid "Color Proof"
+msgstr "颜色校对"
+
+msgid "Color _deficiency type:"
+msgstr "色彩缺失类型(_D)："
+
+msgid "Color deficit simulation filter (Brettel-Vienot-Mollon algorithm)"
+msgstr "色彩缺失模拟滤镜(Brettel-Vienot-Mollon 算法)"
+
+msgid "Color management display filter using ICC color profiles"
+msgstr "使用 ICC 颜色配置文件的颜色校对滤镜"
+
+msgid "Color proof filter using ICC color profile"
+msgstr "使用 ICC 颜色配置文件的颜色校对滤镜"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Confirm Save"
+msgstr "确认保存"
+
+msgid "Contrast"
+msgstr "对比度"
+
+msgid "Contrast c_ycles:"
+msgstr "对比循环(_Y)："
+
+msgid "Controller %03d"
+msgstr "控制器 %03d"
+
+msgid "Convert to Grayscale"
+msgstr "转换到灰度"
+
+msgid ""
+"Convert to Indexed using bitmap default settings\n"
+"(Do it manually to tune the result)"
+msgstr ""
+"使用默认的位图设置转换到索引\n"
+"(如需调节请手动转换)"
+
+msgid ""
+"Convert to Indexed using default settings\n"
+"(Do it manually to tune the result)"
+msgstr ""
+"使用默认的设置转换到索引\n"
+"(如需调节请手动转换)"
+
+msgid "Convert to RGB"
+msgstr "转换到 RGB"
+
+msgid "Copyright:"
+msgstr "版权："
+
+msgid "Could not create '%s': %s"
+msgstr "无法创建“%s”：%s"
+
+msgid "Could not create temporary file for '%s': %s"
+msgstr "无法为 “%s” 创建临时文件：%s"
+
+msgid "Could not create thumbnail for %s: %s"
+msgstr "无法为 “%s” 创建缩略图：%s"
+
+msgid "Could not open '%s' for writing: %s"
+msgstr "无法为写入打开 “%s”：%s"
+
+msgid "Cr_op"
+msgstr "剪裁(_O)"
+
+msgid "Current:"
+msgstr "当前："
+
+msgid "Cyan"
+msgstr "青色"
+
+msgid "Date:"
+msgstr "日期："
+
+msgid "Deuteranopia (insensitivity to green)"
+msgstr "绿色盲(对绿色不敏感)"
+
+msgid "Device not available"
+msgstr "设备不可用"
+
+msgid "Device not available: %s"
+msgstr "设备不可用：%s"
+
+msgid "Device:"
+msgstr "设备："
+
+msgid "Dial Turn Left"
+msgstr "表盘向左转"
+
+msgid "Dial Turn Right"
+msgstr "表盘向右转"
+
+msgid "DirectInput Events"
+msgstr "DirectInput 事件"
+
+msgid "DirectX DirectInput"
+msgstr "DirectX DirectInput"
+
+msgid "DirectX DirectInput event controller"
+msgstr "DirectX DirectInput 事件控制器"
+
+msgid "End of file"
+msgstr "文件结尾"
+
+msgid "Enter 'alsa' to use the ALSA sequencer."
+msgstr "输入 “alsa” 可使用 ALSA 音序器。"
+
+msgid "Error while parsing '%s' in line %d: %s"
+msgstr "解析 “%s” 第 %d 行时出错：%s"
+
+msgid "Error writing to '%s': %s"
+msgstr "写入 “%s” 时出错：%s"
+
+msgid ""
+"Error writing to temporary file for '%s': %s\n"
+"No file has been created."
+msgstr ""
+"写 “%s” 的临时文件时出错：%s\n"
+"没有创建文件。"
+
+msgid ""
+"Error writing to temporary file for '%s': %s\n"
+"The original file has not been touched."
+msgstr ""
+"写“%s”的临时文件时出错：%s\n"
+"原始文件没有被修改。"
+
+msgid "Export File"
+msgstr "导出文件"
+
+msgid "Export Image as "
+msgstr "图像导出为 "
+
+msgid "Factor"
+msgstr "因子"
+
+msgid "Failed to create thumbnail folder '%s'."
+msgstr "无法创建缩略图文件夹“%s”。"
+
+msgid "Flatten Image"
+msgstr "平整图像"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Font Selection"
+msgstr "字体选择"
+
+msgid "GIMP"
+msgstr "GIMP"
+
+msgid "GIMP MIDI Input Controller"
+msgstr "GIMP MIDI 输入控制器"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Gamma color display filter"
+msgstr "Gamma 颜色显示滤镜"
+
+msgid "Gigabytes"
+msgstr "GB"
+
+msgid "Gradient Selection"
+msgstr "渐变选择"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "HSV color wheel"
+msgstr "HSV 色轮"
+
+msgid "HTML _notation:"
+msgstr "HTML 格式(_N)："
+
+msgid ""
+"Hexadecimal color notation as used in HTML and CSS.  This entry also accepts"
+" CSS color names."
+msgstr "HTML 和 CSS 中所使用的十六进制颜色格式。此处也允许使用 CSS 色彩名。"
+
+msgid "High Contrast color display filter"
+msgstr "高对比度颜色显示滤镜"
+
+msgid "Horiz. Wheel Turn Back"
+msgstr "水平轮向后转"
+
+msgid "Horiz. Wheel Turn Forward"
+msgstr "水平轮向前转"
+
+msgid "Hue"
+msgstr "色调"
+
+msgid "ICC color profile (*.icc, *.icm)"
+msgstr "ICC色彩配置文件(*.icc, *.icm)"
+
+msgid "Image profile:"
+msgstr "图像配置文件"
+
+msgid "Kilobytes"
+msgstr "KB"
+
+msgid "L_etter Spacing"
+msgstr "字母间距(_E)"
+
+msgid "L_ine Spacing"
+msgstr "行距(_I)"
+
+msgid "Linked"
+msgstr "已链接"
+
+msgid "Linux Input"
+msgstr "Linux 输入"
+
+msgid "Linux Input Events"
+msgstr "Linux 输入事件"
+
+msgid "Linux input event controller"
+msgstr "Linux 输入事件控制器"
+
+msgid "Load failed"
+msgstr "加载失败"
+
+msgid "Loaded"
+msgstr "已加载"
+
+msgid "MIDI"
+msgstr "MIDI"
+
+msgid "MIDI Events"
+msgstr "MIDI 事件"
+
+msgid "MIDI event controller"
+msgstr "MIDI 事件控制器"
+
+msgid "Magenta"
+msgstr "品红"
+
+msgid "Megabytes"
+msgstr "MB"
+
+msgid "Merge Visible Layers"
+msgstr "合并可见图层"
+
+msgid "Mode of operation for color management."
+msgstr "颜色管理的操作模式。"
+
+msgid "Mode of operation:"
+msgstr "操作模式："
+
+msgid "Module '%s' load error: %s"
+msgstr "模块“%s”加载错误：%s"
+
+msgid "Module error"
+msgstr "模块错误"
+
+msgid "Monitor profile:"
+msgstr "显示器配置文件："
+
+msgid "More..."
+msgstr "更多..."
+
+msgid "No device configured"
+msgstr "未配置设备"
+
+msgid "No matches"
+msgstr "无匹配"
+
+msgid "No matches for your query"
+msgstr "您的查询无匹配项"
+
+msgid "None"
+msgstr "无"
+
+msgid "Not loaded"
+msgstr "未加载"
+
+msgid "Note %02x off"
+msgstr "音符 %02x 关"
+
+msgid "Note %02x on"
+msgstr "音符 %02x 开"
+
+msgid "Nothing selected"
+msgstr "未选中"
+
+msgid "Old:"
+msgstr "旧的："
+
+msgid "One page selected"
+msgstr "已选中一页"
+
+msgid "Open _pages as"
+msgstr "打开页面为(_P)..."
+
+msgid "Open a file selector to browse your files"
+msgstr "打开一个文件选择器以浏览您的文件"
+
+msgid "Open a file selector to browse your folders"
+msgstr "打开一个文件选择器以浏览您的文件夹"
+
+msgid "POV %d Return"
+msgstr "POV %d 返回"
+
+msgid "POV %d X View"
+msgstr "POV %d X 视图"
+
+msgid "POV %d Y View"
+msgstr "POV %d Y 视图"
+
+msgid "Page %d"
+msgstr "第 %d 页"
+
+msgid "Palette Selection"
+msgstr "色板选择"
+
+msgid "Parameters"
+msgstr "参数"
+
+msgid "Paste Into"
+msgstr "粘贴进入"
+
+msgid "Paste as New"
+msgstr "粘贴为新图像"
+
+msgid "Pattern Selection"
+msgstr "图案选择"
+
+msgid "Press F1 for more help"
+msgstr "按 F1 以获得更多帮助"
+
+msgid "Pressure"
+msgstr "压力"
+
+msgid "Print simulation profile:"
+msgstr "打印模拟配置文件："
+
+msgid "Profile: %s"
+msgstr "配置文件：%s"
+
+msgid "Profile: (none)"
+msgstr "配置文件：(无)"
+
+msgid "Protanopia (insensitivity to red)"
+msgstr "红色盲(对红色不敏感)"
+
+msgid "Reading from %s"
+msgstr "从 %s 读取"
+
+msgid "Red"
+msgstr "红色"
+
+msgid "Return Values"
+msgstr "返回值"
+
+msgid "Sans"
+msgstr "Sans"
+
+msgid "Saturation"
+msgstr "饱和度"
+
+msgid "Save as Animation"
+msgstr "以动画储存"
+
+msgid "Scales"
+msgstr "缩放"
+
+msgid "Search term invalid or incomplete"
+msgstr "搜索条件无效或不完整"
+
+msgid "Searching"
+msgstr "搜索"
+
+msgid "Searching by author"
+msgstr "按作者搜索"
+
+msgid "Searching by copyright"
+msgstr "按版权搜索"
+
+msgid "Searching by date"
+msgstr "按日期搜索"
+
+msgid "Searching by description"
+msgstr "按描述搜索"
+
+msgid "Searching by help"
+msgstr "按帮助搜索"
+
+msgid "Searching by name"
+msgstr "按名称搜索"
+
+msgid "Searching by type"
+msgstr "按类型搜索"
+
+msgid "Seed random number generator with a generated random number"
+msgstr "以生成的随机数作为随机数生成器的种子"
+
+msgid "Select File"
+msgstr "选择文件"
+
+msgid "Select Folder"
+msgstr "选择文件夹"
+
+msgid "Select _All"
+msgstr "全部选中(_A)"
+
+msgid "Select _range:"
+msgstr "选择范围(_R)："
+
+msgid "Select color profile from disk..."
+msgstr "从磁盘选择色彩配置文件..."
+
+msgid ""
+"Sets how colors are converted from RGB working space to the print simulation"
+" device."
+msgstr "设定色彩如何从 RGB 工作空间转换到打印仿真设备。"
+
+msgid "Sets how colors are mapped for your display."
+msgstr "设定色彩如何映射到您的显示器。"
+
+msgid "Slider %d Decrease"
+msgstr "滑块 %d 减少"
+
+msgid "Slider %d Increase"
+msgstr "滑块 %d 增加"
+
+msgid "The CMYK color profile used to convert between RGB and CMYK."
+msgstr "CMYK 颜色配置文件用来在 RGB 和 CMYK 之间转换。"
+
+msgid ""
+"The MIDI channel to read events from. Set to -1 for reading from all MIDI "
+"channels."
+msgstr "要读取事件的 MIDI 通道。设为 -1 可从全部 MIDI 通道中读取。"
+
+msgid "The color profile of your (primary) monitor."
+msgstr "您(主要)显示器的色彩配置文件"
+
+msgid "The color profile used for simulating a printed version (softproof)."
+msgstr "用于模拟打印版本的色彩配置文件(软式打样)。"
+
+msgid "The color to use for marking colors which are out of gamut."
+msgstr "用于标记超过色域的色彩的颜色。"
+
+msgid "The default RGB working space color profile."
+msgstr "默认 RGB 工作空间颜色配置文件。"
+
+msgid "The device to read DirectInput events from."
+msgstr "要读取 DirectInput 事件的设备。"
+
+msgid "The export conversion won't modify your original image."
+msgstr "导出转换不会改变您原来的图像。"
+
+msgid "The name of the device to read Linux Input events from."
+msgstr "要读取 Linux 输入事件的设备名称。"
+
+msgid "The name of the device to read MIDI events from."
+msgstr "要读取的 MIDI 事件的设备名称。"
+
+msgid "The percentage of black to pull out of the colored inks."
+msgstr "彩色墨水中黑色所占的百分比。"
+
+msgid ""
+"This filter takes its configuration from the Color Management section in the"
+" Preferences dialog."
+msgstr "此滤镜从首选项对话项中的色彩管理部分获得其配置。"
+
+msgid "This text input field is limited to %d character."
+msgid_plural "This text input field is limited to %d characters."
+msgstr[0] "此文本输入区域限制为 %d 个字符。"
+
+msgid "Thumbnail contains no Thumb::URI tag"
+msgstr "缩略图没有包含 Thumb::URI 标签"
+
+msgid "Tritanopia (insensitivity to blue)"
+msgstr "蓝色盲(对蓝色不敏感)"
+
+msgid "Unit"
+msgstr "单位"
+
+msgid "Unit Selection"
+msgstr "单位选择"
+
+msgid ""
+"Use this value for random number generator seed - this allows you to repeat "
+"a given \"random\" operation"
+msgstr "使用这个值作为随机数生成种子 - 这将允许您重复一个指定的“随机”操作"
+
+msgid "Value"
+msgstr "亮度"
+
+msgid "Visible"
+msgstr "可见"
+
+msgid "Watercolor"
+msgstr "水彩"
+
+msgid "Watercolor style color selector"
+msgstr "水彩风格的颜色选择器"
+
+msgid "Wheel"
+msgstr "轮"
+
+msgid "Wheel Turn Left"
+msgstr "轮向向左转"
+
+msgid "Wheel Turn Right"
+msgstr "轮向向右转"
+
+msgid ""
+"When enabled, GIMP will try to use the display color profile from the "
+"windowing system.  The configured monitor profile is then only used as a "
+"fallback."
+msgstr "当启用时，GIMP 将试图使用窗口系统显示色彩配置文件。这样已设置好的配置文件将只用来作为后备。"
+
+msgid ""
+"When enabled, the print simulation will mark colors which can not be "
+"represented in the target color space."
+msgstr "如果启用，打印模拟将标记出不能在目标色彩空间表示的颜色。"
+
+msgid "Writable"
+msgstr "可写"
+
+msgid "X Axis Tilt Away"
+msgstr "X 轴推开"
+
+msgid "X Axis Tilt Back"
+msgstr "X 轴向后摇动"
+
+msgid "X Axis Tilt Forward"
+msgstr "X 轴向前摇动"
+
+msgid "X Axis Tilt Near"
+msgstr "X 轴拉近"
+
+msgid "X Move Left"
+msgstr "X 左移"
+
+msgid "X Move Right"
+msgstr "X 右移"
+
+msgid "Y Axis Tilt Left"
+msgstr "Y 轴向左摇动"
+
+msgid "Y Axis Tilt Right"
+msgstr "Y 轴向右摇动"
+
+msgid "Y Move Away"
+msgstr "Y 移开"
+
+msgid "Y Move Back"
+msgstr "Y 后移"
+
+msgid "Y Move Forward"
+msgstr "Y 前移"
+
+msgid "Y Move Near"
+msgstr "Y 移近"
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid ""
+"You are about to save a channel (saved selection) as %s.\n"
+"This will not save the visible layers."
+msgstr ""
+"您将要把通道(已保存的选区)保存为 %s。\n"
+"这将不会保存可见的图层。"
+
+msgid ""
+"You are about to save a layer mask as %s.\n"
+"This will not save the visible layers."
+msgstr ""
+"您将要把图层蒙板保存为 %s。\n"
+"这将不会保存可见的图层。"
+
+msgid ""
+"Your image should be exported before it can be saved as %s for the following"
+" reasons:"
+msgstr "您的图像在保存为 %s 之前应该先进行导出，因为："
+
+msgid "Z Axis Turn Left"
+msgstr "Z 轴向左转"
+
+msgid "Z Axis Turn Right"
+msgstr "Z 轴向右转"
+
+msgid "Z Move Down"
+msgstr "Z 下移"
+
+msgid "Z Move Up"
+msgstr "Z 上移"
+
+msgid "_Background Color"
+msgstr "背景色(_B)"
+
+msgid "_Black Point Compensation"
+msgstr "黑点补偿(_B)"
+
+msgid "_Browse..."
+msgstr "浏览(_B)..."
+
+msgid "_C"
+msgstr "_C"
+
+msgid "_Duplicate"
+msgstr "复制(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_Export"
+msgstr "导出(_E)"
+
+msgid "_Foreground Color"
+msgstr "前景色(_F)"
+
+msgid "_Gamma:"
+msgstr "_Gamma："
+
+msgid "_Ignore"
+msgstr "忽略(_I)"
+
+msgid "_Intent:"
+msgstr "目标(_I)："
+
+msgid "_K"
+msgstr "_K"
+
+msgid "_M"
+msgstr "_M"
+
+msgid "_New Seed"
+msgstr "新种子(_N)"
+
+msgid "_Preview"
+msgstr "预览(_P)"
+
+msgid "_Profile:"
+msgstr "配置文件(_P)："
+
+msgid "_Randomize"
+msgstr "随机(_R)"
+
+msgid "_Reset"
+msgstr "重置(_R)"
+
+msgid "_Resize"
+msgstr "改变大小(_R)"
+
+msgid "_Rotate"
+msgstr "旋转(_R)"
+
+msgid "_Scale"
+msgstr "缩放(_S)"
+
+msgid "_Search:"
+msgstr "搜索(_S)："
+
+msgid "_Shear"
+msgstr "切变(_S)"
+
+msgid "_Stroke"
+msgstr "勾画(_S)"
+
+msgid "_Transform"
+msgstr "变换(_T)"
+
+msgid "_White"
+msgstr "白(_W)"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgctxt "add-mask-type"
+msgid "C_hannel"
+msgstr "通道(_H)"
+
+msgctxt "add-mask-type"
+msgid "Layer's _alpha channel"
+msgstr "图层的 _Alpha 通道"
+
+msgctxt "add-mask-type"
+msgid "_Black (full transparency)"
+msgstr "黑色(全透明)(_B)"
+
+msgctxt "add-mask-type"
+msgid "_Grayscale copy of layer"
+msgstr "图层的灰度副本(_G)"
+
+msgctxt "add-mask-type"
+msgid "_Selection"
+msgstr "选区(_S)"
+
+msgctxt "add-mask-type"
+msgid "_Transfer layer's alpha channel"
+msgstr "转移图层的 Alpha 通道(_T)"
+
+msgctxt "add-mask-type"
+msgid "_White (full opacity)"
+msgstr "白色(全不透明)(_W)"
+
+msgctxt "aspect-type"
+msgid "Landscape"
+msgstr "横向"
+
+msgctxt "aspect-type"
+msgid "Portrait"
+msgstr "纵向"
+
+msgctxt "aspect-type"
+msgid "Square"
+msgstr "正方形"
+
+msgctxt "blend-mode"
+msgid "Custom gradient"
+msgstr "自定义渐变"
+
+msgctxt "blend-mode"
+msgid "FG to BG (HSV)"
+msgstr "前景到背景(HSV)"
+
+msgctxt "blend-mode"
+msgid "FG to BG (RGB)"
+msgstr "前景到背景(RGB)"
+
+msgctxt "blend-mode"
+msgid "FG to transparent"
+msgstr "前景到透明"
+
+msgctxt "bucket-fill-mode"
+msgid "BG color fill"
+msgstr "背景色填充"
+
+msgctxt "bucket-fill-mode"
+msgid "FG color fill"
+msgstr "前景色填充"
+
+msgctxt "bucket-fill-mode"
+msgid "Pattern fill"
+msgstr "图案填充"
+
+msgid "by author"
+msgstr "按作者"
+
+msgid "by copyright"
+msgstr "按版权"
+
+msgid "by date"
+msgstr "按日期"
+
+msgid "by description"
+msgstr "按描述"
+
+msgid "by help"
+msgstr "按帮助"
+
+msgid "by name"
+msgstr "按名称"
+
+msgid "by type"
+msgstr "按类型"
+
+msgid "calling error"
+msgstr "调用错误"
+
+msgid "cancelled"
+msgstr "已取消"
+
+msgctxt "channel-ops"
+msgid "Add to the current selection"
+msgstr "合并到当前选区"
+
+msgctxt "channel-ops"
+msgid "Intersect with the current selection"
+msgstr "与当前选区相交"
+
+msgctxt "channel-ops"
+msgid "Replace the current selection"
+msgstr "替换当前选区"
+
+msgctxt "channel-ops"
+msgid "Subtract from the current selection"
+msgstr "从当前选区中减去"
+
+msgctxt "channel-type"
+msgid "Alpha"
+msgstr "Alpha"
+
+msgctxt "channel-type"
+msgid "Blue"
+msgstr "蓝色"
+
+msgctxt "channel-type"
+msgid "Gray"
+msgstr "灰度"
+
+msgctxt "channel-type"
+msgid "Green"
+msgstr "绿色"
+
+msgctxt "channel-type"
+msgid "Indexed"
+msgstr "索引"
+
+msgctxt "channel-type"
+msgid "Red"
+msgstr "红色"
+
+msgctxt "check-size"
+msgid "Large"
+msgstr "大"
+
+msgctxt "check-size"
+msgid "Medium"
+msgstr "中"
+
+msgctxt "check-size"
+msgid "Small"
+msgstr "小"
+
+msgctxt "check-type"
+msgid "Black only"
+msgstr "仅黑色"
+
+msgctxt "check-type"
+msgid "Dark checks"
+msgstr "深色方格"
+
+msgctxt "check-type"
+msgid "Gray only"
+msgstr "仅灰色"
+
+msgctxt "check-type"
+msgid "Light checks"
+msgstr "浅色方格"
+
+msgctxt "check-type"
+msgid "Mid-tone checks"
+msgstr "中等色调方格"
+
+msgctxt "check-type"
+msgid "White only"
+msgstr "仅白色"
+
+msgctxt "clone-type"
+msgid "Image"
+msgstr "图像"
+
+msgctxt "clone-type"
+msgid "Pattern"
+msgstr "图案"
+
+msgctxt "color-management-mode"
+msgid "Color managed display"
+msgstr "颜色管理的显示"
+
+msgctxt "color-management-mode"
+msgid "No color management"
+msgstr "无色彩管理"
+
+msgctxt "color-management-mode"
+msgid "Print simulation"
+msgstr "打印模拟"
+
+msgctxt "color-rendering-intent"
+msgid "Absolute colorimetric"
+msgstr "绝对色度"
+
+msgctxt "color-rendering-intent"
+msgid "Perceptual"
+msgstr "感官"
+
+msgctxt "color-rendering-intent"
+msgid "Relative colorimetric"
+msgstr "相对色度"
+
+msgctxt "color-rendering-intent"
+msgid "Saturation"
+msgstr "饱和度"
+
+msgctxt "color-selector-channel"
+msgid "_A"
+msgstr "_A"
+
+msgctxt "color-selector-channel"
+msgid "_B"
+msgstr "_B"
+
+msgctxt "color-selector-channel"
+msgid "_G"
+msgstr "_G"
+
+msgctxt "color-selector-channel"
+msgid "_H"
+msgstr "_H"
+
+msgctxt "color-selector-channel"
+msgid "_R"
+msgstr "_R"
+
+msgctxt "color-selector-channel"
+msgid "_S"
+msgstr "_S"
+
+msgctxt "color-selector-channel"
+msgid "_V"
+msgstr "_V"
+
+msgctxt "desaturate-mode"
+msgid "Average"
+msgstr "平均"
+
+msgctxt "desaturate-mode"
+msgid "Lightness"
+msgstr "亮度"
+
+msgctxt "desaturate-mode"
+msgid "Luminosity"
+msgstr "发光度"
+
+msgctxt "dodge-burn-type"
+msgid "Burn"
+msgstr "加深"
+
+msgctxt "dodge-burn-type"
+msgid "Dodge"
+msgstr "减淡"
+
+msgid "execution error"
+msgstr "执行错误"
+
+msgid "expected 'yes' or 'no' for boolean token %s, got '%s'"
+msgstr "期待布尔值 %s 为 “yes” 或 “no”，但得到 “%s”"
+
+msgid "expected 'yes' or 'no' for boolean token, got '%s'"
+msgstr "预期是布尔型的 'yes' 或者 'no' 标记， 当前为 '%s'"
+
+msgid "fatal parse error"
+msgstr "严重解析错误"
+
+msgctxt "gradient-type"
+msgid "Bi-linear"
+msgstr "对称线性"
+
+msgctxt "gradient-type"
+msgid "Conical (asym)"
+msgstr "圆锥(不对称)"
+
+msgctxt "gradient-type"
+msgid "Conical (sym)"
+msgstr "圆锥(对称)"
+
+msgctxt "gradient-type"
+msgid "Linear"
+msgstr "线性"
+
+msgctxt "gradient-type"
+msgid "Radial"
+msgstr "径向"
+
+msgctxt "gradient-type"
+msgid "Shaped (angular)"
+msgstr "形状(尖角)"
+
+msgctxt "gradient-type"
+msgid "Shaped (dimpled)"
+msgstr "形状(涟漪)"
+
+msgctxt "gradient-type"
+msgid "Shaped (spherical)"
+msgstr "形状(球状)"
+
+msgctxt "gradient-type"
+msgid "Spiral (ccw)"
+msgstr "螺旋(逆时针)"
+
+msgctxt "gradient-type"
+msgid "Spiral (cw)"
+msgstr "螺旋(顺时针)"
+
+msgctxt "gradient-type"
+msgid "Square"
+msgstr "正方形"
+
+msgctxt "grid-style"
+msgid "Dashed"
+msgstr "虚线"
+
+msgctxt "grid-style"
+msgid "Double dashed"
+msgstr "双虚线"
+
+msgctxt "grid-style"
+msgid "Intersections (crosshairs)"
+msgstr "交集(交叉线)"
+
+msgctxt "grid-style"
+msgid "Intersections (dots)"
+msgstr "交集(点)"
+
+msgctxt "grid-style"
+msgid "Solid"
+msgstr "实线"
+
+msgctxt "icon-type"
+msgid "Image file"
+msgstr "图像文件"
+
+msgctxt "icon-type"
+msgid "Inline pixbuf"
+msgstr "嵌入 pixbuf"
+
+msgctxt "icon-type"
+msgid "Stock ID"
+msgstr "存储 ID"
+
+msgctxt "image-base-type"
+msgid "Grayscale"
+msgstr "灰度"
+
+msgctxt "image-base-type"
+msgid "Indexed color"
+msgstr "索引颜色"
+
+msgctxt "image-base-type"
+msgid "RGB color"
+msgstr "RGB 颜色"
+
+msgctxt "image-type"
+msgid "Grayscale"
+msgstr "灰度"
+
+msgctxt "image-type"
+msgid "Grayscale-alpha"
+msgstr "灰度 -alpha"
+
+msgctxt "image-type"
+msgid "Indexed"
+msgstr "索引色"
+
+msgctxt "image-type"
+msgid "Indexed-alpha"
+msgstr "索引色 -alpha"
+
+msgctxt "image-type"
+msgid "RGB"
+msgstr "RGB"
+
+msgctxt "image-type"
+msgid "RGB-alpha"
+msgstr "RGB-alpha"
+
+msgctxt "input-mode"
+msgid "Disabled"
+msgstr "已禁用"
+
+msgctxt "input-mode"
+msgid "Screen"
+msgstr "屏幕"
+
+msgctxt "input-mode"
+msgid "Window"
+msgstr "窗口"
+
+msgctxt "interpolation-type"
+msgid "Cubic"
+msgstr "立方"
+
+msgctxt "interpolation-type"
+msgid "Linear"
+msgstr "线性"
+
+msgctxt "interpolation-type"
+msgid "None"
+msgstr "无"
+
+msgctxt "interpolation-type"
+msgid "Sinc (Lanczos3)"
+msgstr "正弦 (Lanczos3)"
+
+msgid "invalid UTF-8 string"
+msgstr "无效的 UTF-8 字符串"
+
+msgid "invalid value '%ld' for token %s"
+msgstr "%2$s 的值 “%1$ld” 无效"
+
+msgid "invalid value '%s' for token %s"
+msgstr "%2$s 的值 “%1$s” 无效"
+
+msgctxt "page-selector-target"
+msgid "Images"
+msgstr "图像"
+
+msgctxt "page-selector-target"
+msgid "Layers"
+msgstr "图层"
+
+msgctxt "paint-application-mode"
+msgid "Constant"
+msgstr "常量"
+
+msgctxt "paint-application-mode"
+msgid "Incremental"
+msgstr "增值"
+
+msgctxt "pdb-proc-type"
+msgid "GIMP Extension"
+msgstr "GIMP 扩展"
+
+msgctxt "pdb-proc-type"
+msgid "GIMP Plug-In"
+msgstr "GIMP 插件"
+
+msgctxt "pdb-proc-type"
+msgid "Internal GIMP procedure"
+msgstr "GIMP 内部过程"
+
+msgctxt "pdb-proc-type"
+msgid "Temporary Procedure"
+msgstr "临时过程"
+
+msgid "percent"
+msgstr "百分点"
+
+msgctxt "profile"
+msgid "None"
+msgstr "无"
+
+msgctxt "repeat-mode"
+msgid "None"
+msgstr "无"
+
+msgctxt "repeat-mode"
+msgid "Sawtooth wave"
+msgstr "锯齿波"
+
+msgctxt "repeat-mode"
+msgid "Triangular wave"
+msgstr "三角波"
+
+msgctxt "run-mode"
+msgid "Run interactively"
+msgstr "交互式运行"
+
+msgctxt "run-mode"
+msgid "Run non-interactively"
+msgstr "非交互式运行"
+
+msgctxt "run-mode"
+msgid "Run with last used values"
+msgstr "使用上一次的值运行"
+
+msgctxt "size-type"
+msgid "Pixels"
+msgstr "像素"
+
+msgctxt "size-type"
+msgid "Points"
+msgstr "点"
+
+msgid "success"
+msgstr "成功"
+
+msgctxt "text-direction"
+msgid "From left to right"
+msgstr "从左至右"
+
+msgctxt "text-direction"
+msgid "From right to left"
+msgstr "从右至左"
+
+msgctxt "text-hint-style"
+msgid "Full"
+msgstr "完全"
+
+msgctxt "text-hint-style"
+msgid "Medium"
+msgstr "中等"
+
+msgctxt "text-hint-style"
+msgid "None"
+msgstr "无"
+
+msgctxt "text-hint-style"
+msgid "Slight"
+msgstr "轻微"
+
+msgctxt "text-justification"
+msgid "Centered"
+msgstr "居中"
+
+msgctxt "text-justification"
+msgid "Filled"
+msgstr "填充"
+
+msgctxt "text-justification"
+msgid "Left justified"
+msgstr "左对齐"
+
+msgctxt "text-justification"
+msgid "Right justified"
+msgstr "右对齐"
+
+msgctxt "transfer-mode"
+msgid "Highlights"
+msgstr "高亮"
+
+msgctxt "transfer-mode"
+msgid "Midtones"
+msgstr "中等深浅"
+
+msgctxt "transfer-mode"
+msgid "Shadows"
+msgstr "阴影"
+
+msgctxt "transform-direction"
+msgid "Corrective (Backward)"
+msgstr "补偿(向后)"
+
+msgctxt "transform-direction"
+msgid "Normal (Forward)"
+msgstr "正常(向前)"
+
+msgctxt "transform-resize"
+msgid "Adjust"
+msgstr "调整"
+
+msgctxt "transform-resize"
+msgid "Clip"
+msgstr "修剪"
+
+msgctxt "transform-resize"
+msgid "Crop to result"
+msgstr "剪裁到结果"
+
+msgctxt "transform-resize"
+msgid "Crop with aspect"
+msgstr "按比例剪裁"
+
+msgid "value for token %s is not a valid UTF-8 string"
+msgstr "%s 的值不是有效的 UTF-8 字符串"
+
+msgid "while parsing token '%s': %s"
+msgstr "解析 “%s” 时：%s"
+
+msgctxt "zoom-type"
+msgid "Zoom in"
+msgstr "放大"
+
+msgctxt "zoom-type"
+msgid "Zoom out"
+msgstr "缩小"

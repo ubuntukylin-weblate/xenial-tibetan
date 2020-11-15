@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lightdm\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-04-05 06:27+0000\n"
+"PO-Revision-Date: 2016-04-05 13:26+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 07:49+0000\n"
+
+msgid "- Display Manager"
+msgstr "- 显示管理器"
+
+msgid ""
+"All data created during this guest session will be deleted\n"
+"when you log out, and settings will be reset to defaults.\n"
+"Please save files on some external device, for instance a\n"
+"USB stick, if you would like to access them again later."
+msgstr ""
+"在客人会话中创建的所有数据在注销的时候都将被删除，所有的设置将恢复到默认值。\n"
+"如果您想稍后再访问他们，请将文件保存在外部设备上。例如 USB 设备。"
+
+msgid ""
+"Another alternative is to save files in the\n"
+"/var/guest-data folder."
+msgstr "另一种选择是将文件存储在 /var/guest-data 目录下。"
+
+msgid ""
+"As a result the session will not be configured correctly.\n"
+"You should fix the problem as soon as feasible."
+msgstr ""
+"作为结果，会话不会被正确配置。\n"
+"您应该尽快解决该问题。"
+
+msgid "Directory to cache information"
+msgstr "用于缓存信息的目录"
+
+msgid "Directory to store running state"
+msgstr "存储运行状态的目录"
+
+msgid "Directory to write logs to"
+msgstr "写入日志的目录"
+
+msgid "Error found when loading $CONFIG_FILE:"
+msgstr "读取 $CONFIG_FILE 时发现错误："
+
+msgid "File to write PID into"
+msgstr "要写入 PID 的文件"
+
+msgid "Guest"
+msgstr "访客"
+
+msgid "Print debugging messages"
+msgstr "打印调试信息"
+
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "运行“%s --help”来查看可用命令行选项的完整列表。"
+
+msgid ""
+"Run 'dm-tool --help' to see a full list of available command line options."
+msgstr "运行 'dm-tool --help' 来查看可以使用的命令的完整列表。"
+
+msgid "Run as unprivileged user, skipping things that require root access"
+msgstr "以非特权用户运行，跳过需要 root 权限的操作"
+
+msgid "Show combined configuration"
+msgstr "显示组合的配置"
+
+msgid "Show release version"
+msgstr "显示版本信息"
+
+msgid "Temporary Guest Session"
+msgstr "临时客人会话"
+
+msgid "Use configuration file"
+msgstr "使用配置文件"

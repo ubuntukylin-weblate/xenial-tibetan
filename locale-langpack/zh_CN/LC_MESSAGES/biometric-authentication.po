@@ -1,0 +1,1472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: biometric-authentication 0.9.60\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-09 09:22+0800\n"
+"PO-Revision-Date: 2018-10-12 08:54+0800\n"
+"Last-Translator: droiing <jianglinxuan@kylinos.cn>\n"
+"Language-Team: Chinese (simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "         Driver API(DRV_API): %d.%d.%d\n"
+msgstr "    驱动API(DRV_API)：%d.%d.%d\n"
+
+msgid "    Application API(APP_API): %d.%d.%d\n"
+msgstr "    应用API(APP_API)：%d.%d.%d\n"
+
+msgid "%s\n"
+msgstr "%s\n"
+
+msgid "%s %s -d DRIVER_ID"
+msgstr "%s %s [-u 用户名] -d 驱动ID"
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID"
+msgstr "%s %s [-u 用户名] -d 驱动ID"
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID -i INDEX"
+msgstr "%s %s [-u 用户名] -d 驱动ID -i 索引"
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID -i INDEX -n NEW_NAME"
+msgstr "%s %s [-u 用户名] -d 驱动ID -i 索引 -n 新的特征名称"
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID -n FEATURE_NAME"
+msgstr "%s %s [-u 用户名] -d 驱动ID -n 特征名"
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID [-s INDEX_START] [-e INDEX_END]"
+msgstr "%s %s [-u 用户名] -d 驱动ID [-s 开始的索引] [-e 结束的索引]"
+
+msgid "%s Clean Result: Failed\n"
+msgstr "%s 清理结果：失败\n"
+
+msgid "%s Clean Result: Success\n"
+msgstr "%s 清理结果：成功\n"
+
+msgid "%s driver DRV_API version: %d.%d.%d\n"
+msgstr "%s 驱动 DRV_API版本：%d.%d.%d\n"
+
+msgid "%s driver configure failed\n"
+msgstr "%s 驱动配置失败\n"
+
+msgid "(Left)"
+msgstr "(左)"
+
+msgid "(Right)"
+msgstr "(右)"
+
+msgid "A210 enroll success, enroll_id = %d\n"
+msgstr "A210 录入成功, enroll_id = %d\n"
+
+msgid "A210OpsResult[%d]: %s\n"
+msgstr "A210操作结果[%d]：%s\n"
+
+msgid "A210RecvInfo: "
+msgstr "A210接收信息："
+
+msgid "A210SendInfo: "
+msgstr "A210发送信息："
+
+msgid ""
+"AES Key File (%s) does not Exist or has no Read Permission, use default "
+"key.\n"
+msgstr "AES密钥文件(%s)无存在或者无读取权限，使用默认密钥。\n"
+
+msgid "AES Key File is Enpty, use default Key.\n"
+msgstr "AES密钥文件为空，使用默认Key。\n"
+
+msgid "AES Key is Enpty, use default Key.\n"
+msgstr "AES密钥为空，使用默认密钥。\n"
+
+msgid "Add driver"
+msgstr "添加驱动"
+
+msgid "Adjust distance"
+msgstr "请调整距离"
+
+msgid "All user"
+msgstr "全部用户"
+
+msgid "An error was encountered during capturing"
+msgstr "捕获过程中遇到错误"
+
+msgid "An error was encountered during cleaning"
+msgstr "清理过程中遇到错误"
+
+msgid "An error was encountered during closing"
+msgstr "关闭设备过程中遇到错误"
+
+msgid "An error was encountered during enrolling"
+msgstr "录入特征过程中遇到错误"
+
+msgid "An error was encountered during getting feature list"
+msgstr "获取特征列表过程中遇到错误"
+
+msgid "An error was encountered during identifying"
+msgstr "识别特征过程中遇到错误"
+
+msgid "An error was encountered during renaming"
+msgstr "重命名特征过程中遇到错误"
+
+msgid "An error was encountered during searching"
+msgstr "搜索过程中遇到错误"
+
+msgid "An error was encountered during the opening"
+msgstr "打开设备过程中出错"
+
+msgid "An error was encountered during the operation"
+msgstr "操作过程中遇到错误"
+
+msgid "An error was encountered during verifying"
+msgstr "认证特征过程中遇到错误"
+
+msgid "Any"
+msgstr "任意"
+
+msgid ""
+"Because of the scanning image quality or finger pressure problem, the "
+"sampling failed, please remove the finger and retry"
+msgstr "由于扫描成像质量或手指压力问题导致采样失败。请移开手指后重试"
+
+msgid "Biometric Type"
+msgstr "生物特征类型"
+
+msgid ""
+"Biometric authentication server is running, Do not restart it repeatedly\n"
+msgstr "生物特征认证服务正在运行中，请勿重复启动\n"
+
+msgid "Biometric framework API version:\n"
+msgstr "生物特征识别框架API版本：\n"
+
+msgid "Biometric identification backend framework service is not started"
+msgstr "生物特征识别后端框架服务未启动"
+
+msgid "Builtin commands: "
+msgstr "内建指令："
+
+msgid "BuiltinCommands"
+msgstr "内建指令"
+
+msgid "Bus Type"
+msgstr "总线类型"
+
+msgid "Can not get usb information\n"
+msgstr "无法获取USB相关信息\n"
+
+msgid "Can not open AES Key File: %s, use default key.\n"
+msgstr "无法打开AES密钥文件：%s，使用默认密钥。\n"
+
+msgid "Can not open PID file: %s\n"
+msgstr "无法打 PID 文件：%s\n"
+
+msgid "Can not open serial"
+msgstr "无法打开串口"
+
+msgid "Can't Open Serial Port: %s\n"
+msgstr "无法打开串口：%s\n"
+
+msgid "Can't create thread: %s\n"
+msgstr "无法创建线程：%s\n"
+
+msgid "Cancel the operation success"
+msgstr "取消操作成功"
+
+msgid "Cannot operate device node: %s\n"
+msgstr "无法操作设备节点：%s\n"
+
+msgid "Capture"
+msgstr "捕获"
+
+msgid "Capture Result: %.*s\n"
+msgstr "捕获结果：%.*s\n"
+
+msgid "Capture Result: ERROR\n"
+msgstr "捕获结果：错误\n"
+
+msgid "Capture feature failed"
+msgstr "捕获特征失败"
+
+msgid "Capture feature successful"
+msgstr "捕获特征成功"
+
+msgid "Capture image failed"
+msgstr "捕获图像失败"
+
+msgid "Capture image success"
+msgstr "捕获图像成功"
+
+msgid "Capture operation timeout"
+msgstr "捕获操作超时"
+
+msgid "Capture operation was interrupted by the user"
+msgstr "捕获操作被用户终止"
+
+msgid "Capture real-time template failed"
+msgstr "获取实时模板失败"
+
+msgid "Capture real-time template success"
+msgstr "获取实时模板成功"
+
+msgid "Capturing"
+msgstr "正在捕获特征"
+
+msgid "Character string: %s\n"
+msgstr "特征字符串：%s\n"
+
+msgid "Check database format version ...\n"
+msgstr "检查数据库格式版本 ...\n"
+
+msgid "Clean"
+msgstr "清理"
+
+msgid "Clean feature failed"
+msgstr "清理特征失败"
+
+msgid "Clean feature successful"
+msgstr "清理特征成功"
+
+msgid "Clean operation timeout"
+msgstr "清理操作超时"
+
+msgid "Clean operation was interrupted by the user"
+msgstr "清理操作被用户终止"
+
+msgid "Cleaning"
+msgstr "正在清理特征数据"
+
+msgid ""
+"Client APP_API is newer than biometric identification framework service. "
+"Please upgrade framework service or degrade client.\n"
+msgstr "客户端的APP_API比生物特征识别框架服务新。请升级框架服务或者降级客户端。\n"
+
+msgid ""
+"Client APP_API is older than biometric identification framework service. "
+"Please degrade framework service or upgrade client.\n"
+msgstr "客户端的APP_API比生物特征识别框架服务旧。请降级框架服务或者升级客户端。\n"
+
+msgid "Close"
+msgstr "关闭设备"
+
+msgid "Close Device: %s\n"
+msgstr "关闭设备：%s\n"
+
+msgid "Close device completion"
+msgstr "关闭设备完成"
+
+msgid "Close device failed"
+msgstr "关闭设备失败"
+
+msgid "Closing"
+msgstr "正在关闭设备"
+
+msgid "Collect finger vein characteristics error"
+msgstr "采集指静脉特征出错"
+
+msgid "Collect fingerprint characteristics error"
+msgstr "采集指纹特征出错"
+
+msgid "Collecting finger vein characteristics, please press you finger"
+msgstr "正在采集指静脉信息，请按下手指"
+
+msgid ""
+"Collecting fingerprint characteristics, please keep your finger pressed"
+msgstr "正在采集指纹，请保持手指按压状态"
+
+msgid "Collecting fingerprint characteristics, please press you finger"
+msgstr "正在采集指纹信息，请按下手指"
+
+msgid "Come closer"
+msgstr "请靠近一点"
+
+msgid "Command: 0x%02X returns data checksum error\n"
+msgstr "指令: 0x%02X 返回数据校验和错误\n"
+
+msgid "Common"
+msgstr "通用"
+
+msgid "Could not open device (driver %s)"
+msgstr "无法打开设备（驱动 %s）"
+
+msgid "Create Biometric Datebase Directory (%s) Error\n"
+msgstr "创建生物特征识别数据库存放目录(%s)失败\n"
+
+msgid ""
+"Create Table %s:\n"
+"%s\n"
+msgstr ""
+"创建表 %s：\n"
+"%s\n"
+
+msgid "Create Table '%s' Error: %s\n"
+msgstr "创建表 '%s' 错误：%s\n"
+
+msgid "Create UD650 algorithms library error[%d]\n"
+msgstr "创建UD650算法库错误[%d]\n"
+
+msgid "Current device list:"
+msgstr "当前设备列表："
+
+msgid "Current driver list:"
+msgstr "当前驱动列表："
+
+msgid "Current send data: "
+msgstr "当前发送数据："
+
+msgid "Database format version is %d.%d.%d\n"
+msgstr "数据库格式版本为 %d.%d.%d\n"
+
+msgid "Delete fingerprint failed\n"
+msgstr "删除指纹失败\n"
+
+msgid "Delete the contrast space data error"
+msgstr "删除对比空间数据出错"
+
+msgid "Delete user %s template failed"
+msgstr "删除用户 %s 模板失败"
+
+msgid "Delete user %s template success"
+msgstr "删除用户 %s 模板成功"
+
+msgid "Detect %s device\n"
+msgstr "检测 %s 设备\n"
+
+msgid ""
+"Detected Compatibility issues: %s driver version is higher than biometric "
+"framework\n"
+msgstr "检测到兼容性问题：%s驱动版本高于生物特征识别框架\n"
+
+msgid ""
+"Detected Compatibility issues: %s driver version is lower than biometric "
+"framework\n"
+msgstr "检测到兼容性问题：%s驱动版本低于生物特征识别框架\n"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device %s[%d] received interrupt request\n"
+msgstr "设备 %s[%d] 收到中断请求\n"
+
+msgid "Device BBC check error"
+msgstr "设备BBC校验错误"
+
+msgid "Device Status: [%d]%s\n"
+msgstr "设备状态：[%d]%s\n"
+
+msgid "Device and OS"
+msgstr "设备和系统"
+
+msgid "Device attached: %04x:%04x\n"
+msgstr "设备插入：%04x:%04x\n"
+
+msgid "Device busy"
+msgstr "设备忙"
+
+msgid "Device detached: %04x:%04x\n"
+msgstr "设备拔出：%04x:%04x\n"
+
+msgid "Device failed to open"
+msgstr "设备打开失败"
+
+msgid "Device idle"
+msgstr "设备空闲"
+
+msgid "Device internal error"
+msgstr "设备内部错误"
+
+msgid "Device is disable"
+msgstr "设备被禁用"
+
+msgid "Device is disabled"
+msgstr "设备被禁用"
+
+msgid "Device is in an unknown status..."
+msgstr "设备处于未知状态..."
+
+msgid "Device is in process"
+msgstr "设备正在处理中"
+
+msgid "Device operates abnormally, hardware version does not match"
+msgstr "设备工作异常，硬件版本不匹配"
+
+msgid "Device returns unknown data and skips processing"
+msgstr "设备返回未知数据，跳过处理"
+
+msgid "Device started successfully! The current version is: v"
+msgstr "设备启动成功!当前版本为：v"
+
+msgid "Device unknown status code: %d\n"
+msgstr "设备未知状态码：%d\n"
+
+msgid ""
+"Didn't catch that, please center your finger on the sensor and try again."
+msgstr "由于手指偏离设备导致采样失败，请重放手指..."
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Disable driver"
+msgstr "禁用驱动"
+
+msgid "Don't squint"
+msgstr "请不要斜视"
+
+msgid "Driver %s does not exist\n"
+msgstr "驱动 %s 不存在\n"
+
+msgid ""
+"Driver %s does not exist, if you need to ignore the problem, use -i "
+"parameter\n"
+msgstr "驱动 %s 不存在，如需忽略该问题，请使用 -i 参数\n"
+
+msgid "Driver %s initialization failed\n"
+msgstr "驱动 %s 初始化失败\n"
+
+msgid "Driver Full Name"
+msgstr "驱动全名"
+
+msgid "Driver ID"
+msgstr "驱动ID"
+
+msgid "Driver Name"
+msgstr "驱动名"
+
+msgid "Driver(or Device) ID"
+msgstr "驱动（或设备）ID"
+
+msgid "Driver1 [Driver2 ...]"
+msgstr "驱动1 [驱动2 ...]"
+
+msgid "DriverName DriverFilePath"
+msgstr "驱动名 驱动文件路径"
+
+msgid "DriverName Key"
+msgstr "驱动名 键名"
+
+msgid "DriverName Key Value"
+msgstr "驱动名 键名 键值"
+
+msgid "Dynamic link library %s has been loaded\n"
+msgstr "动态链接库 %s 已经加载\n"
+
+msgid "Eigen Type"
+msgstr "特征类型"
+
+msgid "Eigen Value"
+msgstr "特征值"
+
+msgid "Eigen Vector"
+msgstr "特征向量"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Enable driver"
+msgstr "启用驱动"
+
+msgid "End of Feature Index (default -1, means search all)"
+msgstr "结束的特征索引（默认为-1，表示搜索所有特征）"
+
+msgid "Enroll"
+msgstr "录入"
+
+msgid "Enroll Result: Fail\n"
+msgstr "录入结果：失败\n"
+
+msgid "Enroll Result: Success\n"
+msgstr "录入结果：成功\n"
+
+msgid "Enroll failed, ID: %s"
+msgstr "录入失败，ID: %s"
+
+msgid ""
+"Enroll failed: The feature was successfully sampled, but the encoding of the"
+" sampling feature could not be generated"
+msgstr "录入失败：特征采样成功，但无法生成采样特征的编码"
+
+msgid "Enroll feature failed"
+msgstr "录入特征失败"
+
+msgid "Enroll feature successful"
+msgstr "录入特征成功"
+
+msgid "Enroll operation timeout"
+msgstr "录入操作超时"
+
+msgid "Enroll operation was interrupted by the user"
+msgstr "录入操作被用户终止"
+
+msgid "Enroll success"
+msgstr "录入成功"
+
+msgid "Enroll success, ID: %s"
+msgstr "录入成功，ID: %s"
+
+msgid "Enroll success, the user already exists, correct ID: %s"
+msgstr "录入成功，用户已存在，修正ID: %s"
+
+msgid "Enrolled ID: %d\n"
+msgstr "录入的ID: %d\n"
+
+msgid "Enrolling"
+msgstr "正在录入特征"
+
+msgid ""
+"Enrollment failed due to incomprehensible data. (Please use the same finger "
+"at different sampling stages of the same enroll)"
+msgstr "由于采样数据无法理解而导致录入失败（请在同一次录入的不同阶段使用同一手指）"
+
+msgid "Error getting device descriptor"
+msgstr "错误：无法获取设备描述符"
+
+msgid "Error parsing commandline options: %s\n"
+msgstr "命令行选项解析出错：%s\n"
+
+msgid "Error: Can not get device descriptor\n"
+msgstr "错误：无法获取设备描述符\n"
+
+msgid "Error: Can not register attach callback error\n"
+msgstr "错误：无法注册 attch 回调函数\n"
+
+msgid "Error: Can not register detach callback error\n"
+msgstr "错误：无法注册 detach 回调函数\n"
+
+msgid "Error: Failed to export object. Reason: %s\n"
+msgstr "错误：导出对象失败。原因：%s\n"
+
+msgid "Error[%d]: %s\n"
+msgstr "错误[%d]：%s\n"
+
+msgid "Face"
+msgstr "人脸"
+
+msgid "Failed to call function %s\n"
+msgstr "调用函数 %s 失败\n"
+
+msgid "Failed to initialize libfprint\n"
+msgstr "初始化 libfprint 失败\n"
+
+msgid "Failed to migrate data from the original table: %s\n"
+msgstr "从原始数据表中迁移数据失败：%s\n"
+
+msgid "Failed to upgrade database format：version %d.%d.%d to %d.%d.%d\n"
+msgstr "升级数据库格式失败：版本 %d.%d.%d 到 %d.%d.%d\n"
+
+msgid "Failure to modify the owner and group of %s. ERROR[%d]: %s\n"
+msgstr "修改 %s 的属主和属组失败。错误[%d]：%s\n"
+
+msgid "Feature Index"
+msgstr "特征索引"
+
+msgid "Feature Name"
+msgstr "特征名称"
+
+msgid "Feature renaming is not complete, please try again"
+msgstr "特征重命名不完全，请重试"
+
+msgid "File length error"
+msgstr "文件长度错误"
+
+msgid "Find Table '%s' Error: %s\n"
+msgstr "查找表 '%s' 错误：%s\n"
+
+msgid "Find the following feature matching:\n"
+msgstr "找到以下匹配的特征：\n"
+
+msgid "Find the specified features"
+msgstr "搜索到指定的特征"
+
+msgid "Finger Print"
+msgstr "指纹"
+
+msgid "Finger Vein"
+msgstr "指静脉"
+
+msgid "Finger vein characteristics collected, please raise your finger"
+msgstr "已采集到指静脉信息，请抬起手指"
+
+msgid "Fingerprint characteristics collected, please raise your finger"
+msgstr "已采集到指纹信息，请抬起手指"
+
+msgid ""
+"For the 2nd collection finger vein characteristics, please press you finger"
+msgstr "第 2 次采集指静脉信息，请按下手指"
+
+msgid ""
+"For the 2nd collection fingerprint characteristics, please press you finger"
+msgstr "第 2 次采集指纹信息，请按下手指"
+
+msgid ""
+"For the 3rd collection finger vein characteristics, please press you finger"
+msgstr "第 3 次采集指静脉信息，请按下手指"
+
+msgid ""
+"For the 3rd collection fingerprint characteristics, please press you finger"
+msgstr "第 3 次采集指纹信息，请按下手指"
+
+msgid ""
+"For the 4th collection finger vein characteristics, please press you finger"
+msgstr "第 4 次采集指静脉信息，请按下手指"
+
+msgid ""
+"For the 4th collection fingerprint characteristics, please press you finger"
+msgstr "第 4 次采集指纹信息，请按下手指"
+
+msgid ""
+"For the 5th collection finger vein characteristics, please press you finger"
+msgstr "第 5 次采集指静脉信息，请按下手指"
+
+msgid ""
+"For the 5th collection fingerprint characteristics, please press you finger"
+msgstr "第 5 次采集指纹信息，请按下手指"
+
+msgid "Forcibly overrides the existing key"
+msgstr "强制覆盖已存在的键"
+
+msgid ""
+"Framework automatically assigns the free index '%d' to driver %s user %d\n"
+msgstr "框架自动分配空闲的索引 '%d'（为驱动 %s 用户 %d 分配）\n"
+
+msgid "Function XG_DetectUsbDev is NULL\n"
+msgstr "XG_DetectUsbDev函数不存在\n"
+
+msgid "Function XG_OpenVeinDev is NULL\n"
+msgstr "XG_OpenVeinDev函数不存在\n"
+
+msgid "Generate fingerprint characteristics failed"
+msgstr "生成指纹特征失败"
+
+msgid "Generate fingerprint template failed"
+msgstr "生成指纹模板失败"
+
+msgid "Generate real-time template failed"
+msgstr "产生实时模板失败"
+
+msgid "Generate real-time template success"
+msgstr "产生实时模板成功"
+
+msgid "Get AES Key File Error[%d]: %s, use default Key.\n"
+msgstr "获取AES密钥文件错误[%d]：%s，使用默认密钥。\n"
+
+msgid "Get R301 device parameter failed\n"
+msgstr "获取R301设备参数失败\n"
+
+msgid "Get UD650 algorithms library version error"
+msgstr "获取UD650算法库版本出错"
+
+msgid "Get UD650 driver library version error\n"
+msgstr "获取UD650驱动库版本出错\n"
+
+msgid "Get USB Device List Error\n"
+msgstr "获取USB设备列表失败\n"
+
+msgid "Get basic parameters failed\n"
+msgstr "获取基本参数失败\n"
+
+msgid "Get data from the contrast space error"
+msgstr "获取对比空间数据出错"
+
+msgid "Get device status success, device operates normally"
+msgstr "获取状态成功，设备工作正常"
+
+msgid "Get feature list completion"
+msgstr "获取特征列表完成"
+
+msgid "Get feature list failed"
+msgstr "获取特征列表失败"
+
+msgid "Get fingerprint characteristics failed\n"
+msgstr "获取指纹特征出错\n"
+
+msgid "Get function %s handle error: %s\n"
+msgstr "获取函数 %s 句柄出错：%s\n"
+
+msgid "Get message failed\n"
+msgstr "获取报文失败\n"
+
+msgid "Get message header failed\n"
+msgstr "获取报文头失败\n"
+
+msgid "Get serial attribute failed\n"
+msgstr "获取串口属性失败\n"
+
+msgid "Get user %s's template failed"
+msgstr "获取用户 %s 的模板失败"
+
+msgid "Get user %s's template failed\n"
+msgstr "获取用户 %s 的模板失败\n"
+
+msgid "Get user %s's template success"
+msgstr "获取用户 %s 的模板成功"
+
+msgid "GetFeatureList"
+msgstr "获取特征列表"
+
+msgid "Gets the function '%s' error from UD650 driver: %s\n"
+msgstr "从UD650驱动获取函数 '%s' 出错：%s\n"
+
+msgid "Getting feature list"
+msgstr "正在获取特征列表"
+
+msgid "Hardware"
+msgstr "硬件"
+
+msgid "Hardware level cancel success, device status: %d\n"
+msgstr "硬取消成功，设备状态为：%d\n"
+
+msgid "ID: %s enroll failed, ret: 0x%02X"
+msgstr "ID: %s 录入失败，返回值：0x%02X"
+
+msgid "Identified ID: %d\n"
+msgstr "识别出的ID: %d\n"
+
+msgid "Identify"
+msgstr "识别"
+
+msgid "Identify Result: No Match\n"
+msgstr "识别结果：不匹配\n"
+
+msgid "Identify Result: UID = %d\n"
+msgstr "识别结果：UID = %d\n"
+
+msgid "Identify Type"
+msgstr "识别类型"
+
+msgid "Identify failed"
+msgstr "识别失败"
+
+msgid "Identify feature match"
+msgstr "识别特征匹配"
+
+msgid "Identify feature no match"
+msgstr "识别特征不匹配"
+
+msgid "Identify operation timeout"
+msgstr "识别操作超时"
+
+msgid "Identify operation was interrupted by the user"
+msgstr "识别操作被用户终止"
+
+msgid "Identify success"
+msgstr "识别成功"
+
+msgid "Identify success, ID: %s"
+msgstr "识别成功，ID: %s"
+
+msgid "Identifying"
+msgstr "正在识别特征"
+
+msgid "Ignore nonexistent drivers"
+msgstr "忽略不存在的驱动"
+
+msgid "Ignore this setting if the key already exists"
+msgstr "如果键已存在，则忽略设置"
+
+msgid "Illegal data packets"
+msgstr "不合法的数据包"
+
+msgid ""
+"Incompatible version of the database format: %d.%d.%d. Version required for "
+"the current framework: %d.%d.x"
+msgstr "不兼容的数据库格式版：%d.%d.%d。当前框架需要 %d.%d.x 的版本"
+
+msgid "Init libusb Error\n"
+msgstr "初始化 libusb库 失败\n"
+
+msgid "InitDBusCommunicationServer: Server started\n"
+msgstr "InitDBusCommunicationServer：服务端启动\n"
+
+msgid "Initial biometric recognition framework failed\n"
+msgstr "初始化生物特征识别框架失败\n"
+
+msgid "Initialize UD650 algorithms library error"
+msgstr "初始化UD650算法库出错"
+
+msgid "Initializing device ..."
+msgstr "设备初始化中 ..."
+
+msgid "Input parameter error\n"
+msgstr "输入参数错误\n"
+
+msgid "Iris"
+msgstr "虹膜"
+
+msgid "Issue configuration parameter success"
+msgstr "下发配置参数成功"
+
+msgid "Issue template failed"
+msgstr "下发模板失败"
+
+msgid "Issue template success"
+msgstr "下发模板成功"
+
+msgid "Keep distance"
+msgstr "请保持距离"
+
+msgid "Legal data packets"
+msgstr "合法的数据包"
+
+msgid "List of features found:"
+msgstr "查找到的特征列表："
+
+msgid "Load data to the contrast space error"
+msgstr "加载数据到对比空间出错"
+
+msgid "Load finger vein characteristics to the contrast space error"
+msgstr "加载指静脉特征到对比空间出错"
+
+msgid "Load the dynamic link library '%s' failed\n"
+msgstr "加载动态链接库 '%s' 失败\n"
+
+msgid "Load the dynamic link library '%s' successful\n"
+msgstr "加载动态链接库 '%s' 成功\n"
+
+msgid "Loaded Driver: %s\n"
+msgstr "已加载驱动：%s\n"
+
+msgid "Loading the dynamic link library '%s'\n"
+msgstr "正在加载动态链接库 '%s'\n"
+
+msgid "Look at the mirror to the iris device"
+msgstr "双眼请看向虹膜设备的镜子"
+
+msgid "Look in the mirror"
+msgstr "请看镜子里"
+
+msgid "Matched ID:"
+msgstr "匹配到的ID："
+
+msgid "Missing builtin command"
+msgstr "缺少内建指令"
+
+msgid "Mix"
+msgstr "混合"
+
+msgid "Mode setting error"
+msgstr "模式设置错误"
+
+msgid "New Feature Name"
+msgstr "新的特征名称"
+
+msgid "New thread created: %s\n"
+msgstr "创建新线程：%s\n"
+
+msgid "No %s finger vein device detected\n"
+msgstr "未检测到 %s 指静脉设备\n"
+
+msgid "No %s fingerprint device detected\n"
+msgstr "未检测到 %s 指纹设备\n"
+
+msgid "No R301 finger print device detected\n"
+msgstr "未检测到R301指纹设备\n"
+
+msgid "No define driver in [%s]\n"
+msgstr "在 [%s] 中未定义驱动\n"
+
+msgid "No permission to perform this operation"
+msgstr "没有权限执行该操作"
+
+msgid "No specified features were found"
+msgstr "未搜索到指定特征"
+
+msgid "No such device"
+msgstr "无此设备"
+
+msgid "No."
+msgstr "No."
+
+msgid "No.%d processing end, ret = %d ...\n"
+msgstr "第 %d 次处理结束，ret = %d ...\n"
+
+msgid "No.%d processing starts ...\n"
+msgstr "第 %d 次处理开始 ...\n"
+
+msgid "Not allowed to issue the interface internal command"
+msgstr "不允许下发接口内部命令"
+
+msgid "OS"
+msgstr "系统"
+
+msgid "Only add driver and Not enable driver"
+msgstr "只添加而不启用驱动"
+
+msgid "Open"
+msgstr "打开设备"
+
+msgid "Open R301 device failed\n"
+msgstr "打开R301设备失败\n"
+
+msgid "Open Result: %d\n"
+msgstr "打开结果：%d\n"
+
+msgid "Open UD650 finger vein device error"
+msgstr "打开UD650指静脉设备出错"
+
+msgid "Open device and create UD650 algorithms library successful\n"
+msgstr "打开设备、创建UD650算法库成功\n"
+
+msgid "Open device completion"
+msgstr "打开设备完毕"
+
+msgid "Open device failed"
+msgstr "打开设备失败"
+
+msgid "Open your eyes"
+msgstr "请张大眼睛"
+
+msgid "Opening device"
+msgstr "正在打开设备"
+
+msgid "Operation failed"
+msgstr "操作失败"
+
+msgid "Operation is in an unknown status......"
+msgstr "操作处于未知状态"
+
+msgid "Operation successful"
+msgstr "操作成功"
+
+msgid "Operation timeout"
+msgstr "操作超时"
+
+msgid "Original Data"
+msgstr "原始数据"
+
+msgid "Other"
+msgstr "其它"
+
+msgid "Out of memory"
+msgstr "内存不足"
+
+msgid "PCIE"
+msgstr "PCIE"
+
+msgid "Parameter length error"
+msgstr "参数长度错误"
+
+msgid ""
+"Please place your finger again because of poor quality of the sample or "
+"other scanning problems"
+msgstr "由于采样的图像质量较差或其他扫描问题导致采样指纹失败，请重放手指..."
+
+msgid "R301 device has insufficient storage space to record the fingerprint"
+msgstr "R301设备存储空间不足，无法录入该指纹"
+
+msgid "R301 driver unload\n"
+msgstr "卸载R301驱动\n"
+
+msgid "R301 receive respond error\n"
+msgstr "R301接收应答出错\n"
+
+msgid "R301 send command error\n"
+msgstr "R301发送指令出错\n"
+
+msgid "R301 send data package error\n"
+msgstr "R301发送数据包出错\n"
+
+msgid "R301GetFingerPrintData error: %s\n"
+msgstr "R301GetFingerPrintData 错误：%s\n"
+
+msgid "R301RespondParse: Not a respond package\n"
+msgstr "R301RespondParse: 非应答包\n"
+
+msgid "R301RespondParse: Respond package checksum error\n"
+msgstr "R301RespondParse: 应答包校验和错误\n"
+
+msgid "R301RespondParse: Respond package length error\n"
+msgstr "R301RespondParse: 应答包长度错误\n"
+
+msgid "Read M1 card number success, card number: %X%X%X%X"
+msgstr "读取M1卡号成功，卡号：%X%X%X%X"
+
+msgid ""
+"Read the M1 card number failed, please check if the card is in the slot"
+msgstr "读取M1卡号失败，请检查卡是否在卡槽中"
+
+msgid "Read user failed"
+msgstr "读取用户失败"
+
+msgid "Read user success, user list: %s"
+msgstr "读取用户成功，用户列表：%s"
+
+msgid "Receive download command failed\n"
+msgstr "接收下载指令失败\n"
+
+msgid "Receive the data of multiple packets, result = %d, ret = %d\n"
+msgstr "接收多包数据，返回值：%d，ret = %d\n"
+
+msgid "Receiving %d bytes of data from a serial port: %s"
+msgstr "从串口接收到 %d 字节的数据：%s"
+
+msgid "Remove drive"
+msgstr "移除驱动"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Rename Table 'EIGEN_INFO' to 'EIGEN_INFO_VERSION_0_0_0' Error: %s\n"
+msgstr "重命名表 'EIGEN_INFO' 为 'EIGEN_INFO_VERSION_0_0_0' 出现错误：%s\n"
+
+msgid "Rename feature failed"
+msgstr "特征重命名失败"
+
+msgid "Rename feature successful"
+msgstr "特征重命名成功"
+
+msgid "Renaming feature"
+msgstr "正在重命名特征"
+
+msgid "Sample complete"
+msgstr "采样完成"
+
+msgid ""
+"Sample start, please press and lift your finger (Some devices need to swipe "
+"your finger)"
+msgstr "采样开始，请按下并抬起您的手指（部分设备需要滑动手指）"
+
+msgid "Save fingerprint template failed"
+msgstr "存储指纹模板失败"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid ""
+"Search from offset %d, index %d has been searched, global index %d(%d + "
+"%d)\n"
+msgstr "从偏移 %d 开始搜索，搜索到索引 %d, 全局索引 %d(%d + %d)\n"
+
+msgid "Search operation timeout"
+msgstr "搜索操作超时"
+
+msgid "Search operation was interrupted by the user"
+msgstr "搜索操作被用户终止"
+
+msgid "Searching"
+msgstr "正在搜索特征"
+
+msgid "Send data package failed\n"
+msgstr "发送数据包失败\n"
+
+msgid "Serial"
+msgstr "串口"
+
+msgid "Serial port is not opened, please open it"
+msgstr "串口没有打开，请打开串口"
+
+msgid ""
+"Set Database Format(%d.%d.%d):\n"
+"%s\n"
+msgstr ""
+"设置数据库格式(%d.%d.%d)：\n"
+"%s\n"
+
+msgid "Set R301 device failed\n"
+msgstr "设置R301设备失败\n"
+
+msgid "Set R301 port[%s] file descriptor flag failed\n"
+msgstr "设置R301端口[%s]文件描述符标志失败\n"
+
+msgid "Set UD650 security level error[%d]\n"
+msgstr "设置UD650安全等级错误[%d]\n"
+
+msgid "Set port for R301 failed\n"
+msgstr "R301设置端口失败\n"
+
+msgid "Set security level error"
+msgstr "设置安全等级出错"
+
+msgid "Set serial failed\n"
+msgstr "设置串口失败\n"
+
+msgid "Set the key value of the specified driver"
+msgstr "设置驱动的键值"
+
+msgid "Show 'Biometric Type' fields"
+msgstr "显示‘生物特征类型’字段"
+
+msgid "Show 'Driver Full Name' fields"
+msgstr "显示‘驱动全名’字段"
+
+msgid "Show 'Eigen Type' fields"
+msgstr "显示‘特征类型’字段"
+
+msgid "Show 'Identify Type' fields"
+msgstr "显示‘识别类型’字段"
+
+msgid "Show 'Storge Type' fields"
+msgstr "显示‘存储类型’字段"
+
+msgid "Show 'Verify Type' fields"
+msgstr "显示‘验证类型’字段"
+
+msgid "Show all fields (Highest priority)"
+msgstr "显示所有字段（最高优先级）"
+
+msgid "Software"
+msgstr "软件"
+
+msgid "Start of Feature Index (default 0)"
+msgstr "开始的特征索引（默认为0）"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Stop generating real-time template failed"
+msgstr "结束产生实时模板失败"
+
+msgid "Stop generating real-time template success"
+msgstr "结束产生实时模板成功"
+
+msgid "Storge Type"
+msgstr "存储类型"
+
+msgid "Switch mode failed"
+msgstr "切换模式失败"
+
+msgid ""
+"Switch mode success, current mode is card-read mode, please insert the IC "
+"card into the slot"
+msgstr "切换模式成功，当前模式为读卡模式，请将IC卡插入卡槽中"
+
+msgid ""
+"Switch mode success, the current mode is local recognition mode, identify by"
+" the iris library that is stored in device"
+msgstr "切换模式成功，当前模式为本地识别模式，使用设备存储的虹膜库进行识别"
+
+msgid "System level Clean Result: Failed\n"
+msgstr "系统层面 清理结果：失败\n"
+
+msgid "System level Clean Result: Success\n"
+msgstr "系统层面 清理结果：成功\n"
+
+msgid ""
+"System level cleaning of the specified range of biometric features (all "
+"drivers)\n"
+msgstr "系统层面清理指定范围的生物特征（所有驱动）\n"
+
+msgid "Template file or user ID length error"
+msgstr "模板文件或用户ID长度错误"
+
+msgid "Terminating Verify operation"
+msgstr "正在中止认证操作"
+
+msgid "Terminating capture operation"
+msgstr "正在中止捕获操作"
+
+msgid "Terminating clean operation"
+msgstr "正在中止清理特征操作"
+
+msgid "Terminating close operation"
+msgstr "正在中止设备关闭操作"
+
+msgid "Terminating current operation"
+msgstr "正在终止当前操作"
+
+msgid "Terminating enroll operation"
+msgstr "正在中止录入操作"
+
+msgid "Terminating feature rename operation"
+msgstr "正在中止特征重命名操作"
+
+msgid "Terminating get feature list operation"
+msgstr "正在中止获取特征列表操作"
+
+msgid "Terminating identify operation"
+msgstr "正在中止识别操作"
+
+msgid "Terminating open operation"
+msgstr "正在中止设备打开操作"
+
+msgid "Terminating search operation"
+msgstr "正在中止搜索操作"
+
+msgid ""
+"The %d [%d/%d] sampling was successful, in the next sampling: please press "
+"and lift your finger (Some devices need to swipe your finger)"
+msgstr "第 %d [%d/%d] 次采样成功，正在进行下一次采样：请按下并抬起您的手指（部分设备需要滑动手指）"
+
+msgid ""
+"The %d feature has been searched(UID = %d, Index = %d, Index Name = %s), "
+"please press your finger to continue the search"
+msgstr "搜索到第 %d 个特征(UID = %d, Index = %d, Index Name = %s)，请按下手指继续搜索"
+
+msgid "The %dth sampling is successful and the eigenvalue is: %.32s\n"
+msgstr "第 %d 次采样成功，特征值为：%.32s\n"
+
+msgid "The %dth sampling is successful and the eigenvalue(Base64) is: %.*s\n"
+msgstr "第 %d 次采样成功，特征值(Base64)为：%.*s \n"
+
+msgid "The Feature Index You Want To Delete (-1 means delete all)"
+msgstr "需要删除的特征的索引（-1表示删除所有特征）"
+
+msgid "The Feature Index that needs to be renamed"
+msgstr "需要重命名的特征索引"
+
+msgid ""
+"The PID information of the requester (%s) could not be obtained. Error: %s\n"
+msgstr "无法获取请求者(%s)的PID信息。错误：%s\n"
+
+msgid ""
+"The UID information of the requester (%s) could not be obtained. Error: %s\n"
+msgstr "无法获取请求者(%s)的UID信息。错误：%s\n"
+
+msgid ""
+"The abort operation failed and the current operation will continue in the "
+"background."
+msgstr "终止操作失败，当前操作会在后台继续运行。"
+
+msgid ""
+"The biometric authentication server failed to start, requiring administrator"
+" permission to start\n"
+msgstr "生物特征认证服务启动失败，启动需要管理员权限\n"
+
+msgid "The database format is compatible with the current framework\n"
+msgstr "数据库格式兼容当前框架\n"
+
+msgid "The device is busy, please try again later"
+msgstr "设备正忙，请稍后再试"
+
+msgid "The device may have to wait a while before being used."
+msgstr "该设备可能需要等待一段时间才能使用。"
+
+msgid "The device or driver does not support this operation"
+msgstr "当前设备或驱动不支持该操作"
+
+msgid "The eigenvalue(Base64) is: %.*s\n"
+msgstr "特征值(Base64)为：%.*s\n"
+
+msgid "The fingerprint template is being saved, please wait"
+msgstr "正在存储指纹模板，请稍候"
+
+msgid ""
+"The key already exists and is not forcibly overwritten, ignoring the setting operation\n"
+"If you want to ignore this error, use the \"-i\" parameter\n"
+msgstr ""
+"键已存在且未指定强制覆盖，忽略本次设备操作。\n"
+"如果想要忽略本错误，使用\"-i\"参数\n"
+
+msgid "The number of parameters is incorrect"
+msgstr "参数个数不正确"
+
+msgid "The operation was interrupted by the user"
+msgstr "操作被用户终止"
+
+msgid ""
+"The wait problem can be solved by restarting the biometrics backend "
+"framework service."
+msgstr "可以重启生物特征识别后台框架服务解决等待问题。"
+
+msgid "There are %d feature samples to renaming failed, please try again\n"
+msgstr "%d 个特征采样重命名失败，请重试\n"
+
+msgid "There is %d %s finger vein device detected\n"
+msgstr "检测到 %d 个 %s 指静脉设备\n"
+
+msgid "There is %d %s fingerprint device detected\n"
+msgstr "检测到 %d 个 %s 指纹设备\n"
+
+msgid "There is an exception to write PID file: %s\n"
+msgstr "写 PID 文件出现异常：%s\n"
+
+msgid "This command does not need to issue data"
+msgstr "该命令不需要下发数据信息"
+
+msgid ""
+"This driver already exists, using the -f parameter if you need to override "
+"the configuration\n"
+msgstr "已存在该驱动，如需覆盖配置，请使用 -f 参数强制覆盖\n"
+
+msgid "Transport fingerprint template failed"
+msgstr "传输指纹模板失败"
+
+msgid "UD650 driver library version: %s\n"
+msgstr "UD650驱动库版本：%s\n"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Unable to allocate memory\n"
+msgstr "无法分配内存\n"
+
+msgid "Unable to find feature that require renaming\n"
+msgstr "未找到需要重命名的特征\n"
+
+msgid "Unable to generate feature data, enroll failure"
+msgstr "无法生成特征数据，录入失败"
+
+msgid "Unable to set database(%s) permissions. ERROR[%d]: %s\n"
+msgstr "无法设置数据库(%s)权限。错误[%d]：%s\n"
+
+msgid "Unknown Builtin Commands: %s\n"
+msgstr "未知的内建指令：%s\n"
+
+msgid "Unknown command %s"
+msgstr "未知的指令 %s"
+
+msgid "Unknown error, error code: %d"
+msgstr "出现未知的错误，错误码：%d"
+
+msgid "Unload the dynamic link library '%s'\n"
+msgstr "卸载动态链接库 '%s'\n"
+
+msgid "Unsupported commands"
+msgstr "暂不支持的命令"
+
+msgid "Update UUID=%s to database(UID=%d) ...\n"
+msgstr "更新 UUID=%s 到数据库中(UID=%d) ...\n"
+
+msgid "Update column \"UUID\" to Table \"%s\" Error: %s\n"
+msgstr "更新字段 \"UUID\" 到表 \"%s\" 中出现错误：%s\n"
+
+msgid "Update failed"
+msgstr "升级成功"
+
+msgid "Update success"
+msgstr "升级成功"
+
+msgid "Upgrade database ...\n"
+msgstr "升级数据库中 ...\n"
+
+msgid ""
+"Usage:\n"
+"  biometric-auth-client BuiltinCommands ...\n"
+"\n"
+"BuiltinCommands:\n"
+"  get-driver-list       Get Driver List\n"
+"  get-device-list       Get Device List\n"
+"  get-feature-list      Get Feature List\n"
+"  enroll                Enroll Feature\n"
+"  verify                Verify Feature\n"
+"  capture               Capture Feature\n"
+"  search                Search Feature\n"
+"  clean                 Clean Feature\n"
+"  rename                Rename Feature\n"
+"\n"
+"Options:\n"
+"  -h, --help            show this help message and exit\n"
+msgstr ""
+"用法：\n"
+"  biometric-auth-client 内建指令 ...\n"
+"\n"
+"内建指令:\n"
+"  get-driver-list       获取特征列表\n"
+"  get-device-list       获取设备列表\n"
+"  get-feature-list      获取特征列表\n"
+"  enroll                特征录入\n"
+"  verify                特征验证\n"
+"  capture               特征捕获\n"
+"  search                特征查找\n"
+"  clean                 特征清除\n"
+"  rename                特征重命名\n"
+"\n"
+"选项：\n"
+"  -h, --help            显示帮助选项并退出\n"
+
+msgid "User ID"
+msgstr "用户ID"
+
+msgid "User ID length error"
+msgstr "用户ID长度错误"
+
+msgid "User Name"
+msgstr "用户名"
+
+msgid "User Name (Default is current user: %s)"
+msgstr "用户名（默认为当前用户：%s）"
+
+msgid "User Name (Not set to search for all users)"
+msgstr "用户名（不设置则搜索所有用户）"
+
+msgid "Verify"
+msgstr "正在认证特征"
+
+msgid "Verify Result: Match\n"
+msgstr "认证结果：匹配\n"
+
+msgid "Verify Result: No Match\n"
+msgstr "认证结果：不匹配\n"
+
+msgid "Verify Type"
+msgstr "验证类型"
+
+msgid "Verify feature match"
+msgstr "认证特征匹配"
+
+msgid "Verify feature no match"
+msgstr "认证特征不匹配"
+
+msgid "Verify operation timeout"
+msgstr "认证操作超时"
+
+msgid "Verify operation was interrupted by the user"
+msgstr "认证操作被用户终止"
+
+msgid "Verifying"
+msgstr "正在认证特征"
+
+msgid "Voice Print"
+msgstr "声纹"
+
+msgid "When there is a driver of the same name, force to override it"
+msgstr "出现同名驱动时，强制覆盖"
+
+msgid "Write configuration failure: %s\n"
+msgstr "写入配置失败：%s\n"
+
+msgid "XG_OpenVeinDev ERROR[%d]\n"
+msgstr "XG_OpenVeinDev错误[%d]\n"
+
+msgid "Your swipe was too short, please place your finger again."
+msgstr "由于手指的滑动距离太短导致采样失败，请重放手指..."
+
+msgid "a210_ops_search return NULL, device status: %d\n"
+msgstr "a210_ops_search返回NULL, 设备状态为：%d\n"
+
+msgid "bio_conf_init failed\n"
+msgstr "执行 bio_conf_init 函数失败\n"
+
+msgid ""
+"can't find \"bioconf\" struct, maybe someone forget use \"bio_conf_init()\" "
+"before\n"
+msgstr "无法找到\"bioconf\"结构体，也许前面忘记使用\"bio_conf_init()\"函数\n"
+
+msgid "dlopen %s error: %s\n"
+msgstr "dlopen %s 出错：%s\n"
+
+msgid "failed to initialise libusb: %s\n"
+msgstr "初始化 libusb 失败：%s\n"
+
+msgid "getFingerVeinData error: %s\n"
+msgstr "getFingerVeinData 错误：%s\n"
+
+msgid "libbiometric detected usb device(%s): %d\n"
+msgstr "libbiometric检测到USB设备(%s)：%d\n"
+
+msgid "libusb_handle_events failed: %s\n"
+msgstr "libusb_handle_events失败：%s\n"
+
+msgid "name_acquired_cb called, Acquired bus name: %s\n"
+msgstr "name_acquired_cb函数被调用，获得总线名称：%s\n"
+
+msgid "name_lost_cb called, Error: Failed to connect to dbus\n"
+msgstr "name_lost_cb函数被调用，错误：无法链接DBus总线\n"
+
+msgid "name_lost_cb called, Error: Failed to obtain bus name: %s\n"
+msgstr "name_lost_cb函数被调用，错误：无法获得总线名(%s)\n"
+
+msgid "non-existent user"
+msgstr "用户不存在"
+
+msgid "remove the key value of the specified driver"
+msgstr "移除驱动的键值"
+
+msgid "run called in the server\n"
+msgstr "run函数在服务端被调用\n"
+
+msgid ""
+"software level cancel success, dev_status = %d, StopFlag = %d, timeused = "
+"%d, timeout = %d\n"
+msgstr "软取消成功，dev_status = %d, StopFlag = %d, timeused = %d, timeout = %d\n"
+
+msgid "sqlite3 prepare err: %s\n"
+msgstr "sqlite3预处理错误：%s\n"

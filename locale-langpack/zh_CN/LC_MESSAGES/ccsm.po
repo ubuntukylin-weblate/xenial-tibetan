@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zh_CN-ccsm\n"
+"Report-Msgid-Bugs-To: http://bugs.opencompositing.org\n"
+"POT-Creation-Date: 2009-03-24 12:33+0530\n"
+"PO-Revision-Date: 2016-04-14 04:07+0000\n"
+"Last-Translator: Sephinroth <Unknown>\n"
+"Language-Team: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17995)\n"
+"X-Launchpad-Export-Date: 2016-04-15 06:48+0000\n"
+
+msgid "\"%s\" is not a valid button"
+msgstr "\"%s\"不是一个有效的按键"
+
+msgid "\"%s\" is not a valid edge mask"
+msgstr "边缘蒙板\"%s\"无效"
+
+msgid "\"%s\" is not a valid shortcut"
+msgstr "\"%s\"不是一个有效的快捷键"
+
+msgid "<b>%(plugin)s</b> is required by the plugins <b>%(plugin_list)s</b>."
+msgstr "插件<b>%(plugin)s</b>被插件<b>%(plugin_list)s</b>需要。"
+
+msgid ""
+"<b>%(plugin)s</b> provides the feature <b>%(feature)s</b> which is required "
+"by the plugins <b>%(plugin_list)s</b>."
+msgstr "<b>%(plugin_list)s</b>插件需要<b>%(plugin)s</b>提供的<b>%(feature)s</b>功能。"
+
+msgid ""
+"<b>%(plugin)s</b> requires feature <b>%(feature)s</b> which is provided by the following plugins:\n"
+"%(plugin_list)s"
+msgstr ""
+"<b>%(plugin)s</b>需要<b>%(feature)s</b>功能，可以由下列插件提供:\n"
+"%(plugin_list)s"
+
+msgid "<b>%(plugin)s</b> requires the plugin <b>%(require)s</b>."
+msgstr "<b>%(plugin)s</b>需要<b>%(require)s</b>插件。"
+
+msgid ""
+"<span size=\"large\"><b>No matches found.</b> </span><span>\n"
+"\n"
+" Your filter \"<b>%s</b>\" does not match any items.</span>"
+msgstr ""
+"<span size=\"large\"><b>未找到匹配项。</b> </span><span>\n"
+"\n"
+"你的过滤条件\"<b>%s</b>\"未匹配任何条目。</span>"
+
+msgid "About"
+msgstr "关于"
+
+msgid "About CCSM..."
+msgstr "关于CCSM…"
+
+msgid "Accessibility"
+msgstr "辅助功能"
+
+msgid "Add a New Profile"
+msgstr "添加新存档"
+
+msgid "Add plugin"
+msgstr "添加插件"
+
+msgid "Advanced Search"
+msgstr "高级搜索"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All files"
+msgstr "所有文件"
+
+msgid "An error has occured"
+msgstr "产生了一个错误"
+
+msgid "And"
+msgstr "和"
+
+msgid "Automatic plugin sorting"
+msgstr "插件自动排序"
+
+msgid "Backend"
+msgstr "后端"
+
+msgid "Backend not found."
+msgstr "未找到后端程序。"
+
+msgid "Browse..."
+msgstr "浏览..."
+
+msgid "Category"
+msgstr "类别"
+
+msgid "CompizConfig Settings Manager"
+msgstr "CompizConfig设置管理器"
+
+msgid "Configure Compiz with CompizConfig"
+msgstr "使用CompizConfig对Compiz进行配置"
+
+msgid ""
+"Configure the backend, profile and other internal settings used by the "
+"Compiz Configuration System."
+msgstr "配置Conpiz配置系统使用的后端、存档以及其它内部设定。"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Disable %(action_conflict)s"
+msgstr "禁用%(action_conflict)s"
+
+msgid "Disable %(plugin_conflict)s"
+msgstr "禁用%(plugin_conflict)s"
+
+msgid "Disable these plugins"
+msgstr "禁用这些插件"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Disabled Plugins"
+msgstr "已禁用插件"
+
+msgid ""
+"Do you really want to disable automatic plugin sorting? This will also "
+"disable conflict handling. You should only do this if you know what you are "
+"doing."
+msgstr "您真的想禁用插件自动排序吗？这将同时禁用冲突检测。如果您明确知道您将导致的结果，方可继续。"
+
+msgid ""
+"Do you want to skip default option values while exporting your profile?"
+msgstr "您想在导出存档时忽略默认设置吗？"
+
+msgid "Don't disable %(plugin)s"
+msgstr "不要禁用%(plugin)s"
+
+msgid "Don't enable %(feature)s"
+msgstr "不要启用%(feature)s"
+
+msgid "Don't enable %(plugin)s"
+msgstr "不要启用插件%(plugin)s"
+
+msgid "Don't set %(action)s"
+msgstr "不要设置%(action)s"
+
+msgid "Don't use %(feature)s"
+msgstr "不使用%(feature)s"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit %s"
+msgstr "编辑%s"
+
+msgid "Edit match"
+msgstr "编辑匹配"
+
+msgid "Effects"
+msgstr "特效"
+
+msgid "Enable %(plugin)s"
+msgstr "启用插件%(plugin)s"
+
+msgid "Enable %(require)s"
+msgstr "启用%(require)s"
+
+msgid "Enable %s"
+msgstr "启用%s"
+
+msgid "Enable integration into the desktop environment"
+msgstr "开启与桌面环境的整合"
+
+msgid "Enable these plugins"
+msgstr "启用这些插件"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Enabled Plugins"
+msgstr "已启用插件"
+
+msgid ""
+"Enter a filter.\n"
+"Click the keyboard image to grab a key for which to search."
+msgstr ""
+"输入过滤条件。\n"
+"以按下的键盘上的键进行搜索。"
+
+msgid "Enter a profile name"
+msgstr "输入存档名称"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Export your CompizConfig Profile"
+msgstr "导出你的CompizConfig存档"
+
+msgid "Extras"
+msgstr "附加功能"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Filter"
+msgstr "关键字"
+
+msgid "Filter your Plugin list"
+msgstr "过滤你的插件列表"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Grab"
+msgstr "抓取"
+
+msgid "Grab key combination"
+msgstr "获取按键组合"
+
+msgid "Group"
+msgstr "组"
+
+msgid "Ignore conflicts"
+msgstr "忽略冲突"
+
+msgid "Image Loading"
+msgstr "图像加载"
+
+msgid "Images"
+msgstr "图像"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import a CompizConfig Profile"
+msgstr "导入一个CompizConfig存档"
+
+msgid "Import a CompizConfig Profile as a new profile"
+msgstr "导入一个CompizConfig存档作为新的存档"
+
+msgid "Import as..."
+msgstr "做为…导入"
+
+msgid "Insert plugin name"
+msgstr "插入插件名称"
+
+msgid "Integration"
+msgstr "整合"
+
+msgid "Invert"
+msgstr "反向"
+
+msgid "Loading Advanced Search"
+msgstr "加载高级搜索"
+
+msgid "Long description"
+msgstr "具体描述"
+
+msgid "Multi-list settings. You can double-click a row to edit the values."
+msgstr "多选列表设置。你可以双击一行对该值进行编辑。"
+
+msgid "N/A"
+msgstr "无"
+
+msgid "None"
+msgstr "无"
+
+msgid "Open directory..."
+msgstr "打开目录..."
+
+msgid "Open file.."
+msgstr "打开文件.."
+
+msgid "Open file..."
+msgstr "打开文件..."
+
+msgid "Or"
+msgstr "或"
+
+msgid "Please enter a name for the new profile:"
+msgstr "请输入一个新存档名称:"
+
+msgid "Please press the new key combination"
+msgstr "请按下新按键组合"
+
+msgid "Plugin"
+msgstr "插件"
+
+msgid "Plugin <b>%(plugin_conflict)s</b> conflicts with <b>%(plugin)s</b>."
+msgstr "插件<b>%(plugin_conflict)s</b>和<b>%(plugin)s</b>冲突。"
+
+msgid ""
+"Plugin <b>%(plugin_conflict)s</b> provides feature <b>%(feature)s</b> which "
+"is also provided by <b>%(plugin)s</b>"
+msgstr ""
+"<b>%(plugin_conflict)s</b>插件提供<b>%(feature)s</b>功能，该功能也可以由<b>%(plugin)s</b>提供"
+
+msgid "Plugin List"
+msgstr "插件列表"
+
+msgid "Plugin name:"
+msgstr "插件名称："
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Profile"
+msgstr "存档"
+
+msgid "Profile & Backend"
+msgstr "存档和后端"
+
+msgid "Profiles (*.profile)"
+msgstr "存档 (*.profile)"
+
+msgid "Relation"
+msgstr "关系"
+
+msgid "Remove This Profile"
+msgstr "删除此存档"
+
+msgid "Reset setting to the default value"
+msgstr "重置为默认值"
+
+msgid "Reset to defaults"
+msgstr "重置到默认"
+
+msgid "Reset your CompizConfig Profile to the global defaults"
+msgstr "重置你的CompizConfig存档到全局默认"
+
+msgid "Resolve conflicts"
+msgstr "解决冲突"
+
+msgid "Save file.."
+msgstr "保存文件.."
+
+msgid "Screen"
+msgstr "屏幕"
+
+msgid "Screen %i"
+msgstr "屏幕%i"
+
+msgid "Search %s Plugin Options"
+msgstr "搜索%s插件选项"
+
+msgid "Search Compiz Core Options"
+msgstr "搜索Compiz Core选项"
+
+msgid "Search in..."
+msgstr "于...中寻找"
+
+msgid "Set %(action)s anyway"
+msgstr "强制设置%(action)s"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Settings value"
+msgstr "设置值"
+
+msgid "Short description and name"
+msgstr "简短描述和名称"
+
+msgid ""
+"Some %(bindings)s bindings of Plugin <b>%(plugin)s</b> conflict with other "
+"plugins. Do you want to resolve these conflicts?"
+msgstr "插件<b>%(plugin)s</b>中的一些按键组合%(bindings)s与其它插件产生了冲突。您是否想要解决这些冲突？"
+
+msgid "Subgroup"
+msgstr "子组"
+
+msgid ""
+"The new value for the %(binding)s binding for the action <b>%(action)s</b> in plugin <b>%(plugin)s</b> conflicts with the action <b>%(action_conflict)s</b> of the <b>%(plugin_conflict)s</b> plugin.\n"
+"Do you wish to disable <b>%(action_conflict)s</b> in the <b>%(plugin_conflict)s</b> plugin?"
+msgstr ""
+"%(binding)s组合<b>%(action)s</b>动作的新值在<b>%(plugin)s</b>插件中与<b>%(plugin_conflict)s</b>插件中的动作<b>%(action_conflict)s</b>相冲突。\n"
+"您要禁用<b>%(plugin_conflict)s</b>插件中的<b>%(action_conflict)s</b>吗?"
+
+msgid "This is a settings manager for the CompizConfig configuration system."
+msgstr "这是一个针对CompizConfig配置系统的设置管理器"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Uncategorized"
+msgstr "未分类"
+
+msgid "Use %(feature)s"
+msgstr "使用%(feature)s"
+
+msgid "Use This Plugin"
+msgstr "使用此插件"
+
+msgid ""
+"Using Button1 without modifiers can prevent any left click and thus break "
+"your configuration. Do you really want to set \"%s\" button to Button1 ?"
+msgstr "在不使用修正键的情况下使用按键1会导致所有的左键点击失灵从而中断您的配置。你真的想要把\"%s\"设置到按键1上吗？"
+
+msgid "Utility"
+msgstr "工具"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Window Class"
+msgstr "窗口类别"
+
+msgid "Window ID"
+msgstr "窗口ID"
+
+msgid "Window Management"
+msgstr "窗口管理"
+
+msgid "Window Name"
+msgstr "窗口名称"
+
+msgid "Window Role"
+msgstr "窗口角色"
+
+msgid "Window Title"
+msgstr "窗口标题"
+
+msgid "Window Type"
+msgstr "窗口类型"
+
+msgid ""
+"You are trying to use the feature <b>%(feature)s</b> which is <b>not</b> provided by any plugin.\n"
+"Do you wish to use this feature anyway?"
+msgstr ""
+"您试图使用<b>%(feature)s</b>功能，而该功能<b>不</b>被任何插件所支持。\n"
+"您仍然希望尝试使用此功能吗？"
+
+msgid ""
+"You are trying to use the feature <b>%(feature)s</b> which is provided by <b>%(plugin)s</b>.\n"
+"This plugin is currently disabled.\n"
+"Do you wish to enable <b>%(plugin)s</b> so the feature is available?"
+msgstr ""
+"您试图使用<b>%(feature)s</b>功能，该功能由<b>%(plugin)s</b>插件提供。\n"
+"该插件目前被禁用。\n"
+"您仍然希望启用<b>%(plugin)s</b>插件以实现功能吗？"
+
+msgid "button"
+msgstr "按钮"
+
+msgid "edge"
+msgstr "边缘"
+
+msgid "key"
+msgstr "按键"
+
+msgid "translator-credits"
+msgstr ""
+"译者\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Sephinroth https://launchpad.net/~jingcheng01"
