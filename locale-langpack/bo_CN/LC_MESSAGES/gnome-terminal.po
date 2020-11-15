@@ -1,23 +1,25 @@
-#
+# Burgess Chang <register@brsvh.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
-"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"PO-Revision-Date: 2020-11-16 04:06+0000\n"
+"Last-Translator: Burgess Chang <register@brsvh.org>\n"
+"Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
+"xenial-tibetan/gnome-terminal/bo_CN/>\n"
 "Language: bo_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.3.1\n"
 
 msgid "\"%s\" is not a valid application ID"
 msgstr ""
 
 msgid "\"%s\" is not a valid zoom factor"
-msgstr ""
+msgstr "\"%s\" ནི་ནུས་མེད་ཀྱི་སྐྱེད་སྐྱུང་བཏགས་གྲངས་ཞིག་ཡིན།"
 
 msgid "\"%s\" option given twice for the same window\n"
 msgstr ""
@@ -60,13 +62,13 @@ msgid "Ambiguous-_width characters:"
 msgstr ""
 
 msgid "Append initial title"
-msgstr ""
+msgstr "ཐོག་མའི་ཁ་བྱང་གི་སྔོན་དུ་སྣོན་པ།"
 
 msgid "Arabic"
 msgstr "ཨ་རབ་ཀྱི་སྐད་ཆ།"
 
 msgid "Argument to \"%s\" is not a valid command: %s"
-msgstr ""
+msgstr "\"%s\" ཀྱི་ཞུགས་གྲངས་ནི་ནུས་མེད་ཀྱི་བཀའ་ཡིན།：%s"
 
 msgid "Armenian"
 msgstr "ཡ་མེ་ཉི་ཡའི་སྐད།"
@@ -189,7 +191,7 @@ msgid "Croatian"
 msgstr "ཁ་རེ་ཏེ་ཡའི་སྐད།"
 
 msgid "Cursor _shape:"
-msgstr ""
+msgstr "ཙི་གུའི་དབྱིབས།(_s)："
 
 msgid "Custom"
 msgstr "མཚན་ཉིད་རང་བཞག"
@@ -201,7 +203,7 @@ msgid "Custom command to use instead of the shell"
 msgstr ""
 
 msgid "Cyrillic"
-msgstr ""
+msgstr "སུ་རུ་ལའི་སྐད།"
 
 msgid "Cyrillic/Russian"
 msgstr "ཞི་ལི་ཨར་གྱི་སྐད་/ཨུ་རུ་སིའི་སྐད།"
@@ -434,7 +436,7 @@ msgid "Human-readable name of the profile."
 msgstr ""
 
 msgid "I-Beam"
-msgstr ""
+msgstr "རིགསI"
 
 msgid "ID"
 msgstr "ID"
@@ -679,7 +681,7 @@ msgid "Open T_erminal"
 msgstr ""
 
 msgid "Open Ta_b"
-msgstr ""
+msgstr "གདོང་འཛར་འབྱེད་པ།(_B)"
 
 msgid "Open _Midnight Commander"
 msgstr ""
@@ -739,11 +741,15 @@ msgid ""
 "Option \"%s\" requires specifying the command to run on the rest of the "
 "command line"
 msgstr ""
+"བདམ་ཚན \"%s\" "
+"བཀའ་ཕྲེང་ལྷག་མའི་ཁྲོད་དུ་ལག་བསྟར་བྱེད་དགོས་པའི་བཀའ་ཕྲེང་གཏན་འཁེལ་བྱེད་དགོས།"
 
 msgid ""
 "Options to open new windows or terminal tabs; more than one of these may be "
 "specified:"
 msgstr ""
+"སྒེའུ་ཁུང་གསར་པའམ་མཐའ་སྣེ་གདོང་འཛར་ངོས་ཀྱི་བདམ་ཚན་ཁ་འབྱེད་ན། "
+"མང་པོ་གཏན་འཁེལ་བྱེད་ཆོག"
 
 msgid "Output options:"
 msgstr ""
@@ -982,6 +988,8 @@ msgid ""
 "Terminal options; if used before the first --window or --tab argument, sets "
 "the default for all terminals:"
 msgstr ""
+"སྒེའུ་ཁུང་བདམ་ཚན། གལ་ཏེ་--window ཡང་ན --tab ཞུགས་གྲངས་དང་པོའི་སྔོན་དུ་བཀོལ་ན།"
+"མཐའ་སྣེ་ཡོད་ཚད་ཀྱི་སོར་བཞག་སྡེབ་སྒྲིག་གཏན་འཁེལ་བྱེད་སྲིད།"
 
 msgid "Text Appearance"
 msgstr ""
@@ -1217,6 +1225,8 @@ msgid ""
 "Window options; if used before the first --window or --tab argument, sets "
 "the default for all windows:"
 msgstr ""
+"སྒེའུ་ཁུང་བདམ་ཚན། གལ་ཏེ་--window ཡང་ན --tab ཞུགས་གྲངས་དང་པོའི་སྔོན་དུ་བཀོལ་ན།"
+"སྒེའུ་ཁུང་ཡོད་ཚད་ཀྱི་སོར་བཞག་སྡེབ་སྒྲིག་གཏན་འཁེལ་བྱེད་སྲིད།"
 
 msgid "XTerm"
 msgstr "XTerm"
@@ -1236,10 +1246,10 @@ msgid "Zoom Out"
 msgstr "ཆུང་སྐྱུང་།"
 
 msgid "Zoom factor \"%g\" is too large, using %g\n"
-msgstr ""
+msgstr "སྐྱེད་སྐྱུང་བཏགས་གྲངས \"%g\" ཆེ་དྲག， %gསྤྱོད།\n"
 
 msgid "Zoom factor \"%g\" is too small, using %g\n"
-msgstr ""
+msgstr "སྐྱེད་སྐྱུང་བཏགས་གྲངས \"%g\" ཆུང་དྲག， %gསྤྱོད།\n"
 
 msgid "Zoom value \"%s\" is outside allowed range"
 msgstr ""
@@ -1365,7 +1375,7 @@ msgid "_Profile name:"
 msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་མིང་།(_P)："
 
 msgid "_Profile used when launching a new terminal:"
-msgstr ""
+msgstr "མཐའ་སྣེ་གསར་བ་འབྱེད་སྐབས་སྤྱོད་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ།(_P)："
 
 msgid "_Quit"
 msgstr "ཕྱིར་ཐོན།(_Q)"
@@ -1422,7 +1432,7 @@ msgid "_View"
 msgstr "ལྟ་ཞིབ།(_V)"
 
 msgid "_Wrap around"
-msgstr ""
+msgstr "ཡིག་ཚགས་ཀྱི་མགོ་ལ་ནས་མུ་མཐུད་དུ་འཚོལ་བ།(_W)"
 
 msgid "columns"
 msgstr "གཞུང་།"
@@ -1444,6 +1454,10 @@ msgstr ""
 
 msgid "translator-credits"
 msgstr ""
+"He Qiangqiang <carton@linux.net.cn>, 2002\n"
+"Funda Wang <fundawang@linux.net.cn>, 2003\n"
+"2004བདུད་རྩི<rhythm.gan@gmail.com>, 2009\n"
+"Fan Qijiang <fqj1994@linux.com>,2010"
 
 msgid "'Unnamed'"
 msgstr ""
