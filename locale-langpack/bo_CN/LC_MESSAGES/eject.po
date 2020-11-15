@@ -1,0 +1,267 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%s: %s doesn't exist, skipping call\n"
+msgstr ""
+
+msgid "%s: %s is encrypted on real device %s\n"
+msgstr ""
+
+msgid "%s: CD-ROM auto-eject command failed: %s\n"
+msgstr ""
+
+msgid "%s: CD-ROM eject command failed\n"
+msgstr ""
+
+msgid "%s: CD-ROM eject command succeeded\n"
+msgstr ""
+
+msgid "%s: CD-ROM load from slot command failed: %s\n"
+msgstr ""
+
+msgid "%s: CD-ROM select disc command failed: %s\n"
+msgstr ""
+
+msgid "%s: CD-ROM select speed command failed: %s\n"
+msgstr ""
+
+msgid "%s: CD-ROM select speed command not supported by this kernel\n"
+msgstr ""
+
+msgid "%s: CD-ROM tray close command failed: %s\n"
+msgstr ""
+
+msgid "%s: CD-ROM tray close command not supported by this kernel\n"
+msgstr ""
+
+msgid "%s: CD-ROM tray toggle command not supported by this kernel\n"
+msgstr ""
+
+msgid "%s: FindDevice called too often\n"
+msgstr ""
+
+msgid "%s: IDE/ATAPI CD-ROM changer not supported by this kernel\n"
+msgstr ""
+
+msgid "%s: SCSI eject failed\n"
+msgstr ""
+
+msgid "%s: SCSI eject succeeded\n"
+msgstr ""
+
+msgid "%s: `%s' can be mounted at `%s'\n"
+msgstr ""
+
+msgid "%s: `%s' is a link to `%s'\n"
+msgstr ""
+
+msgid "%s: `%s' is a multipartition device\n"
+msgstr ""
+
+msgid "%s: `%s' is mounted at `%s'\n"
+msgstr ""
+
+msgid "%s: `%s' is not a mount point\n"
+msgstr ""
+
+msgid "%s: `%s' is not a multipartition device\n"
+msgstr ""
+
+msgid "%s: `%s' is not mounted\n"
+msgstr ""
+
+msgid "%s: closing tray\n"
+msgstr ""
+
+msgid "%s: could not allocate memory\n"
+msgstr ""
+
+msgid "%s: default device: `%s'\n"
+msgstr ""
+
+msgid "%s: device is `%s'\n"
+msgstr ""
+
+msgid "%s: device name is `%s'\n"
+msgstr ""
+
+msgid "%s: disabling auto-eject mode for `%s'\n"
+msgstr ""
+
+msgid "%s: enabling auto-eject mode for `%s'\n"
+msgstr ""
+
+msgid "%s: error while allocating string\n"
+msgstr ""
+
+msgid "%s: error while finding CD-ROM name\n"
+msgstr ""
+
+msgid "%s: error while reading speed\n"
+msgstr ""
+
+msgid "%s: exiting due to -n/--noop option\n"
+msgstr ""
+
+msgid "%s: expanded name is `%s'\n"
+msgstr ""
+
+msgid "%s: floppy eject command failed\n"
+msgstr ""
+
+msgid "%s: floppy eject command succeeded\n"
+msgstr ""
+
+msgid "%s: invalid argument to --auto/-a option\n"
+msgstr ""
+
+msgid "%s: invalid argument to --cdspeed/-x option\n"
+msgstr ""
+
+msgid "%s: invalid argument to --changerslot/-c option\n"
+msgstr ""
+
+msgid "%s: invalid argument to -i option\n"
+msgstr ""
+
+msgid "%s: listing CD-ROM speed\n"
+msgstr ""
+
+msgid "%s: maximum symbolic link depth exceeded: `%s'\n"
+msgstr ""
+
+msgid "%s: selecting CD-ROM disc #%d\n"
+msgstr ""
+
+msgid "%s: setting CD-ROM speed to %dX\n"
+msgstr ""
+
+msgid "%s: setting CD-ROM speed to auto\n"
+msgstr ""
+
+msgid "%s: tape offline command failed\n"
+msgstr ""
+
+msgid "%s: tape offline command succeeded\n"
+msgstr ""
+
+msgid "%s: toggling tray\n"
+msgstr ""
+
+msgid "%s: too many arguments\n"
+msgstr ""
+
+msgid "%s: tried to use `%s' as device name but it is no block device\n"
+msgstr ""
+
+msgid "%s: trying to eject `%s' using CD-ROM eject command\n"
+msgstr ""
+
+msgid "%s: trying to eject `%s' using SCSI commands\n"
+msgstr ""
+
+msgid "%s: trying to eject `%s' using floppy eject command\n"
+msgstr ""
+
+msgid "%s: trying to eject `%s' using tape offline command\n"
+msgstr ""
+
+msgid "%s: unable to eject, last error: %s\n"
+msgstr ""
+
+msgid "%s: unable to exec umount of `%s': %s\n"
+msgstr ""
+
+msgid "%s: unable to find or open device for: `%s'\n"
+msgstr ""
+
+msgid "%s: unable to fork: %s\n"
+msgstr ""
+
+msgid "%s: unable to open /etc/fstab: %s\n"
+msgstr ""
+
+msgid "%s: unable to open `%s'\n"
+msgstr ""
+
+msgid "%s: unable to read the speed from /proc/sys/dev/cdrom/info\n"
+msgstr ""
+
+msgid "%s: unmount of `%s' did not exit normally\n"
+msgstr ""
+
+msgid "%s: unmount of `%s' failed\n"
+msgstr ""
+
+msgid "%s: unmounting `%s'\n"
+msgstr ""
+
+msgid "%s: unmounting device `%s' from `%s'\n"
+msgstr ""
+
+msgid "%s: using default device `%s'\n"
+msgstr ""
+
+msgid ""
+"Eject version %s by Jeff Tranter (tranter@pobox.com)\n"
+"Usage:\n"
+"  eject -h\t\t\t\t-- display command usage and exit\n"
+"  eject -V\t\t\t\t-- display program version and exit\n"
+"  eject [-vnrsfqpm] [<name>]\t\t-- eject device\n"
+"  eject [-vn] -d\t\t\t-- display default device\n"
+"  eject [-vn] -a on|off|1|0 [<name>]\t-- turn auto-eject feature on or off\n"
+"  eject [-vn] -c <slot> [<name>]\t-- switch discs on a CD-ROM changer\n"
+"  eject [-vn] -t [<name>]\t\t-- close tray\n"
+"  eject [-vn] -T [<name>]\t\t-- toggle tray\n"
+"  eject [-vn] -i on|off|1|0 [<name>]\t-- toggle manual eject protection on/off\n"
+"  eject [-vn] -x <speed> [<name>]\t-- set CD-ROM max speed\n"
+"  eject [-vn] -X [<name>]\t\t-- list CD-ROM available speeds\n"
+"Options:\n"
+"  -v\t-- enable verbose output\n"
+"  -n\t-- don't eject, just show device found\n"
+"  -r\t-- eject CD-ROM\n"
+"  -s\t-- eject SCSI device\n"
+"  -f\t-- eject floppy\n"
+"  -q\t-- eject tape\n"
+"  -p\t-- use /proc/mounts instead of /etc/mtab\n"
+"  -m\t-- do not unmount device even if it is mounted\n"
+msgstr ""
+
+msgid ""
+"Long options:\n"
+"  -h --help   -v --verbose      -d --default\n"
+"  -a --auto   -c --changerslot  -t --trayclose  -x --cdspeed\n"
+"  -r --cdrom  -s --scsi         -f --floppy     -X --listspeed     -q --tape\n"
+"  -n --noop   -V --version\n"
+"  -p --proc   -m --no-unmount   -T --traytoggle\n"
+msgstr ""
+
+msgid ""
+"Parameter <name> can be a device file or a mount point.\n"
+"If omitted, name defaults to `%s'.\n"
+"By default tries -r, -s, -f, and -q in order until success.\n"
+msgstr ""
+
+msgid "eject version %s by Jeff Tranter (tranter@pobox.com)\n"
+msgstr ""
+
+msgid "unable to open %s: %s\n"
+msgstr ""
+
+msgid "usage: volname [<device-file>]\n"
+msgstr ""
+
+msgid "volname"
+msgstr "སྒྲིལ་མིང་།"

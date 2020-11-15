@@ -1,0 +1,214 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+" %s finished! "
+msgstr ""
+
+msgid ""
+"\n"
+" Legal values of dev-wait-time lie between 1sec to 2147483647 sec"
+msgstr ""
+
+msgid "%s %s [%d] exited normally"
+msgstr "\"%s %s [%d] རྒྱུན་ལྡན་ངང་ཕྱིར་འཐེན་བྱས་ཟིན་པ།"
+
+msgid "%s %s [%d] terminated with status %d"
+msgstr "\"%s %s [%d] མཚམས་བཞག་ཟིན།རྣམ་པ་ནི་ %d\""
+
+msgid "%s finished"
+msgstr "%sལེགས་གྲུབ་ཟིན་པ།"
+
+msgid "%s is %s"
+msgstr "%s ནི་%s ཡིན།"
+
+msgid "All filesystems mounted"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་ཚང་མ་སྒྲིག་འཇུག་བྱས་ཟིན་པ།"
+
+msgid "An error occurred while mounting %s."
+msgstr "%sའགེལ་དུས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Attempt to fix all fsck errors"
+msgstr ""
+"fsck "
+"བརྟག་དཔྱད་བྱས་པ་ལས་བྱུང་བའི་ནོར་འཁྲུལ་ཚང་མ་ཞིག་གསོ་བྱེད་པར་ཚོད་ལྟ་བྱེད་པ།"
+
+msgid "Attempting to fix %s filesystem"
+msgstr "%s ཡིག་ཆའི་རྒྱུད་ཁོངས་ཞིག་གསོ་བྱེད་པར་ཚོད་ལྟ་བྱེད་པ།"
+
+msgid ""
+"By default, mountall does not detach from the console and remains in the "
+"foreground.  Use the --daemon option to have it detach."
+msgstr ""
+
+msgid "Checking disk %1$d of %2$d (%3$d%% complete)"
+msgstr "སྡུད་སྡེར་%1$d/%2$dལ་ཞིབ་བཤེར་བྱེད་བཞིན་པ།(%3$d%% ལེགས་གྲུབ།)"
+
+msgid "Checking disk drives for errors. This may take several minutes."
+msgstr ""
+"སྡུད་སྡེར་སྐུལ་ཆས་ལ་ནོར་འཁྲུལ་ཡོད་མེད་ཞིབ་བཤེར། འདིར་ཕལ་ཆེར་སྐར་མ་ཁ་ཤས་དགོས།"
+
+msgid "Connected to Plymouth"
+msgstr "Plymouthདང་སྦྲེལ་ཡོད།"
+
+msgid "Continue to wait, or Press S to skip mounting or M for manual recovery"
+msgstr ""
+"མུ་མཐུད་དུ་སྒུག་པའམ་ཡང་ན་Sམནན་ནས་སྒྲིག་འཇུག་ལས་མཆོངས་པ་དང་།ཡང་ན་Mམནན་ནས་ལག་སྒུལ་སླར་གསོ་བྱེད་པ།"
+
+msgid "Could not connect to Upstart"
+msgstr "upstart\"དང་སྦྲེལ་མཐུད་བྱེད་ཐབས་བྲལ་།"
+
+msgid "Could not create Upstart proxy"
+msgstr "upsartལས་ཚབ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Detach and run in the background"
+msgstr "ཁ་གྱེས་ནས་རྒྱབ་སྟེགས་སུ་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "Disconnected from Plymouth"
+msgstr "Plymouthདང་སྦྲེལ་མཐུད་བཅད་ཟིན་པ།"
+
+msgid "Disconnected from Upstart"
+msgstr "Upsartནས་སྦྲེལ་མཐུད་གཅོད་པ།"
+
+msgid "Do not emit events after mounting filesystems"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་འགེལ་འཇོག་བྱས་རྗེས་དོན་རྐྱེན་མ་སྒྲོགས།"
+
+msgid "Empty device name specified"
+msgstr "སྒྲིག་ཆས་ཀྱི་མིང་སྟོང་པ་དམིགས་འཛུགས་བྱས་པ།"
+
+msgid "Empty mount point specified"
+msgstr "འགེལ་ས་སྟོང་པ་དམིགས་འཛུགས་བྱས་པ།"
+
+msgid "Empty mountpoint specified"
+msgstr "འགེལ་ས་སྟོང་པ་དམིགས་འཛུགས་བྱས་པ།"
+
+msgid "Errors were found while checking the disk drive for %s."
+msgstr " %s ལ་སྡུད་སྡེར་ཞིབ་བཤེར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Filesystem could not be mounted: %s"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་བཀར་འཇུག་བྱེད་ཐབས་བྲལ་བ།：%s"
+
+msgid "Filesystem errors corrected: %s"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་གི་ནོར་འཁྲུལ་ཡོ་བསྲང་བྱས་ཟིན་པ།：%s"
+
+msgid "Filesystem has errors: %s"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་ལ་ནོར་འཁྲུལ་ཡོད་པ།：%s"
+
+msgid "Filesytem check cancelled: %s"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་ཞིབ་བཤེར་དོར་ཟིན་པ།：%s"
+
+msgid "Force check of all filesystems"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་ཡོངས་ལ་བཙན་ཤེད་ཀྱིས་ཞིབ་བཤེར་བྱེད་པ།"
+
+msgid "Ignoring errors with %s at user request"
+msgstr "སྤྱོད་མཁན་གྱི་རེ་ཞུ་ལྟར་ནོར་འཁྲུལ་སྣང་མེད་བྱེད་པ།(%s)"
+
+msgid ""
+"In case of (bootwait,timeout): specify the time to wait for device to be "
+"detected"
+msgstr ""
+"（སྒུག་པའམ་ཡང་ན་དུས་བརྒལ）གནས་ཚུལ་འོག：སྒྲིག་ཆས་ལ་འཚོལ་ཞིབ་བྱེད་པར་སྒུག་པའི་དུས་ཚོད་དམིགས་འཛུགས་བྱེད་པ།"
+
+msgid "Mount filesystems on boot"
+msgstr "འགོ་སློང་སྐབས་ཡིག་ཆའི་རྒྱུད་ཁོངས་འགེལ་འཇོག་བྱེད་པ།"
+
+msgid "Plymouth command failed"
+msgstr "Plymouthབཀའ་ཕམ་པ།"
+
+msgid "Press C to cancel all checks in progress"
+msgstr "Cམནན་ནས་བྱེད་བཞིན་པའི་འཚོལ་བཤེར་ཡོད་ཚད་འདོར་ཆོག"
+
+msgid ""
+"Press F to attempt to fix the errors, I to ignore, S to skip mounting, or M "
+"for manual recovery"
+msgstr ""
+
+msgid "Press I to ignore, S to skip mounting, or M for manual recovery"
+msgstr ""
+"Iམནན་ནས་ནོར་འཁྲུལ་འདི་དག་སྣང་མེད་དུ་བཞག་ཆོག་པ་འམ་ཡང་ན་Sམནན་ནས་འགེལ་འཇོག་ལས་མཆོངས་པ་དང་།"
+" Mམནན་ནས་ལག་སྒུལ་སླར་གསོ་བྱས་ཆོག"
+
+msgid "Press S to skip mounting or M for manual recovery"
+msgstr "Sམནན་ནས་མཆོང་བའམ་ཡང་ན་Mམནན་ནས་ལག་འགུལ་སླར་གསོ་བྱས་ཆོག"
+
+msgid "Problem activating swap: %s"
+msgstr "ཁུལ་བགོས་བརྗེ་རེས་སྐབས་གནད་དོན་བྱུང་བ།：%s"
+
+msgid "Received SIGUSR1 (network device up)"
+msgstr "SIGUSR1བསྡུ་ལེན་བྱས་ཟིན་པ།(དྲ་རྒྱའི་སྒྲིག་ཆས་བསྡུ་ལེན་བྱས་ཟིན།)\""
+
+msgid "Serious errors were found while checking the disk drive for %s."
+msgstr "%sལ་སྡུད་སྡེར་ཞིབ་བཤེར་བྱེད་སྐབས་ནོར་འཁྲུལ་ཚབས་ཆེན་བྱུང་བ།"
+
+msgid "Skipping %s at user request"
+msgstr "སྤྱོད་མཁན་གྱི་རེ་ཞུ་ལྟར་%sལས་མཆོང་བཞིན་ཡོད།"
+
+msgid "Skipping mounting %s since Plymouth is not available"
+msgstr "ད་ལྟ་%sལས་མཆོང་བཞིན་ཡོད།Plymouthསྤྱོད་མི་རུང་བའི་རྐྱེན་གྱིས་རེད།"
+
+msgid "Spawning maintenance shell"
+msgstr "སྲུང་སྐྱོབ་shllའགྲུབ་བཞིན་ཡོད།"
+
+msgid "System must be rebooted: %s"
+msgstr "ངེས་པར་དུ་རྒྱུད་ཁོངས་བསྐྱར་སློང་བྱེད་དགོས།：%s"
+
+msgid "The disk drive for %s is not ready yet or not present."
+msgstr "s%ལ་གྲ་སྒྲིག་བྱས་པའི་སྡུད་སྡེར་ད་དུང་འགྲུབ་མེད་པའམ་མེད་པ།"
+
+msgid "Unable to become daemon"
+msgstr "ལྟ་སྲུང་བྱ་རིམ་དུ་འགྱུར་ཐབས་བྲལ།"
+
+msgid "Unable to listen for privateconnections"
+msgstr "privateconnectionsལྐོག་ཉན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Unrecoverable fsck error: %s"
+msgstr "སླར་གསོ་ཐབས་བྲལ་པའི་fsckནོར་འཁྲུལ།：%s"
+
+msgid "User cancelled filesystem checks"
+msgstr "སྤྱོད་མཁན་གྱིས་ཡིག་ཆའི་རྒྱུད་ཁོངས་ཞིབ་བཤེར་བྱེད་མཚམས་བཞག"
+
+msgid "activating %s"
+msgstr "%sསྐུལ་སློང་བྱེད་བཞིན་ཡོད།"
+
+msgid "checking %s"
+msgstr "%sལ་ཞིབ་བཤེར་བྱེད་བཞིན་ཡོད།"
+
+msgid "ioprio_set %d failed: %s"
+msgstr "\"ioprio_set %d ཕམ་པ།：%s"
+
+msgid "mounting %s"
+msgstr "%sའགེལ་བཞིན་པ།"
+
+msgid "remounting %s"
+msgstr "%sབསྐྱར་དུ་སྒྲིག་འཇུག་བྱེད་བཞིན་པ།"
+
+msgid "rmdir %s failed: %s"
+msgstr "\"rmdir %s ཕམ་པ།：%s"
+
+msgid "root filesystem isn't mounted"
+msgstr "རྩ་བའི་ཡིག་ཆའི་རྒྱུད་ཁོངས་ད་དུང་བཀལ་མེད།"
+
+msgid "setpgid failed: %s"
+msgstr "\"setpgid ཕམ་པ།：%s"
+
+msgid "unable to mount"
+msgstr "འགེལ་ཐབས་བྲལ་པ།"
+
+msgid ""
+"value in seconds (Default is 30 seconds, Legal value between 1second to "
+"2147483647 seconds)"
+msgstr ""
+"སྐར་ཆ་རྩིས་གཞིར་བྱས་པའི་ཐང་།（སོར་བཞག་སྐར་ཆ་30དང་།ཁྲིམས་མཐུན་ཐང་1སྐར་ཆ་1ནས་2147483647བར་ཡིན།）"

@@ -1,0 +1,1210 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%(service)s on %(device)s"
+msgstr "%(device)s ཡི་ %(service)s"
+
+msgid "%.0f Minute"
+msgid_plural "%.0f Minutes"
+msgstr[0] "སྐར་མ་%.0f"
+msgstr[1] "སྐར་མ་%.0f"
+
+msgid "%.0f Second"
+msgid_plural "%.0f Seconds"
+msgstr[0] "སྐར་ཆ་%.0f"
+msgstr[1] "སྐར་ཆ་%.0f"
+
+msgid "%d %s %d %s and %d %s"
+msgstr ""
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] "སྐར་མ%d"
+msgstr[1] "སྐར་མ%d"
+
+msgid "<b>%d Active Connection</b>"
+msgid_plural "<b>%d Active Connections</b>"
+msgstr[0] "<b>%d འགུལ་བའི་འབྲེལ་མཐུད་</b>"
+msgstr[1] "<b>%d འགུལ་བའི་འབྲེལ་མཐུད་</b>"
+
+msgid "<b>Adding Device...</b>"
+msgstr "<b>སྒྲིག་ཆས་སྣོན་པ།...</b>"
+
+msgid "<b>Advanced</b>"
+msgstr "<b>མཐོ་རིམ་སྒྲིག་འགོད།</b>"
+
+msgid ""
+"<b>An error has occured while loading a plugin. Please notify the developers"
+" with the content of this message.</b>"
+msgstr ""
+"<b>བསྒར་ལྷུ་ཞིག་སྣོན་སྐབས་ནོར་འཁྲུལ་བྱུང་། "
+"བརྡ་འཕྲིན་འདི་གསར་སྤེལ་མི་སྣར་སྐྱེལ།</b>"
+
+msgid "<b>Author:</b>"
+msgstr "<b>རྩོམ་པ་པོ།</b>"
+
+msgid "<b>Bluetooth _Off</b>"
+msgstr "<b>སོ་སྔོན་ཁ་རྒྱག(_O)</b>"
+
+msgid "<b>Bonded</b>"
+msgstr "<b>སྡོམ་པ།</b>"
+
+msgid "<b>Conflicts with:</b>"
+msgstr "<b>འགལ་བ།：</b>"
+
+msgid "<b>Congratulations, device successfully added</b>"
+msgstr "<b>བཀྲ་ཤིས་བདེ་ལེགས། སྒྲིག་ཆས་སྣོན་པ་ལེགས་འགྲུབ།</b>"
+
+msgid "<b>Connect To:</b>"
+msgstr "<b>འབྲེལ་མཐུད་ས།：</b>"
+
+msgid "<b>Connect to:</b>"
+msgstr "<b>འབྲེལ་མཐུད་ས།:</b>"
+
+msgid ""
+"<b>Connected</b>\n"
+"<b>Received Signal Strength: %(rssi)u%%</b> <i>(%(rssi_state)s)</i>\n"
+"Link Quality: %(lq)u%%\n"
+"Transmit Power Level: %(tpl)u%% <i>(%(tpl_state)s)</i>"
+msgstr ""
+
+msgid ""
+"<b>Connected</b>\n"
+"Received Signal Strength: %(rssi)u%% <i>(%(rssi_state)s)</i>\n"
+"<b>Link Quality: %(lq)u%%</b>\n"
+"Transmit Power Level: %(tpl)u%% <i>(%(tpl_state)s)</i>"
+msgstr ""
+
+msgid ""
+"<b>Connected</b>\n"
+"Received Signal Strength: %(rssi)u%% <i>(%(rssi_state)s)</i>\n"
+"Link Quality: %(lq)u%%\n"
+"<b>Transmit Power Level: %(tpl)u%%</b> <i>(%(tpl_state)s)</i>"
+msgstr ""
+
+msgid "<b>DUN Support</b>"
+msgstr "ཨང་འབོད་དྲ་བས་རྒྱབ་སྐྱོར།"
+
+msgid "<b>Depends on:</b>"
+msgstr "<b>རག་ལས་ས:</b>"
+
+msgid "<b>Device added and connected successfuly</b>"
+msgstr "<b>སྒྲིག་ཆས་སྣོན་པ་ལེགས་འགྲུབ་ཅིང་འབྲེལ་མཐུད་བྱེད་པ།</b>"
+
+msgid "<b>Device added successfuly, but failed to connect</b>"
+msgstr "<b>སྒྲིག་ཆས་སྣོན་པ་ལེགས་འགྲུབ་ཀྱང་། འབྲེལ་མཐུད་ཕམ་པ།</b>"
+
+msgid "<b>Disconnect:</b>"
+msgstr "<b>འབྲེལ་མཐུད་གཅོད་པ།</b>"
+
+msgid "<b>Downloaded:</b>"
+msgstr "<b>ཕབ་པ།：</b>"
+
+msgid "<b>Failed to add device</b>"
+msgstr "<b>སྒྲིག་ཆས་སྣོན་པ་ཕམ་པ།</b>"
+
+msgid "<b>File Receiving (Object Push)</b>"
+msgstr "<b>ཡིག་ཆ་ལེན་པ། (Object Push)</b>"
+
+msgid "<b>File Sharing (FTP)</b>"
+msgstr "<b>ཡིག་ཆ་མཉམ་སྤྱོད། (FTP)</b>"
+
+msgid "<b>File:</b>"
+msgstr "<b>ཡིག་ཆ།：</b>"
+
+msgid "<b>Friendly Name</b>"
+msgstr "<b>གྲོགས་མིང་།</b>"
+
+msgid "<b>GSM settings</b>"
+msgstr "<b>GSM སྒྲིག་བཀོད།</b>"
+
+msgid "<b>Log duration:</b>"
+msgstr "<b>ཉིན་ཐོ་རྒྱུན་མཐུད་དུ།：</b>"
+
+msgid "<b>Log started:</b>"
+msgstr "<b>ཉིན་ཐོ་མགོ་རྩོམ།：</b>"
+
+msgid "<b>NAP Settings</b>"
+msgstr "<b>NAP སྒྲིག་བཀོད།</b>"
+
+msgid "<b>Network Settings</b>"
+msgstr "<b>དྲ་བ་བཀོད་པ།</b>"
+
+msgid "<b>No DHCP servers installed</b>"
+msgstr "<b>DHCP ཞབས་ཞུ་ཆས་སྒྲིག་འཇུག་བྱས་མེད།</b>"
+
+msgid "<b>PAN Support</b>"
+msgstr "<b>PAN རྒྱབ་སྐྱོར།</b>"
+
+msgid "<b>Pairing in progress...</b>"
+msgstr "<b>ཆ་སྒྲིལ་བྱེད་པ།...</b>"
+
+msgid "<b>Please wait...</b>"
+msgstr "<b>སྒུག་རོགས།...</b>"
+
+msgid "<b>Plugin description:</b>"
+msgstr "<b>བསྒར་ལྷུའི་གསལ་བཤད།：</b>"
+
+msgid "<b>Select pairing method to use:</b>"
+msgstr "<b>ཆ་སྒྲིལ་བྱེད་ཐབས་འདེམ་པ།:</b>"
+
+msgid "<b>Services</b>"
+msgstr "<b>ཞབས་ཞུ།</b>"
+
+msgid "<b>To:</b>"
+msgstr "<b>ཡིག་ལེན་མཁན།：</b>"
+
+msgid "<b>Total:</b>"
+msgstr "<b>བསྡོམས་ན：</b>"
+
+msgid "<b>Transfer Settings</b>"
+msgstr "<b>བརྒྱུད་གཏོང་སྒྲིག་བཀོད།</b>"
+
+msgid "<b>Trusted and Bonded</b>"
+msgstr "<b>ཡིད་རྟོན་ནས་སྡོམ་པ།</b>"
+
+msgid "<b>Trusted</b>"
+msgstr "<b>ཡིད་རྟོན་སྒྲིག་ཆས།</b>"
+
+msgid "<b>Turn Bluetooth _Off</b>"
+msgstr "<b>སོ་སྔོན་ཁ་རྒྱག(_O)</b>"
+
+msgid "<b>Turn Bluetooth _On</b>"
+msgstr "<b>སོ་སྔོན་ཁ་འབྱེད།(_O)</b>"
+
+msgid "<b>Uploaded:</b>"
+msgstr "<b>སྐྱེལ་བ།</b>"
+
+msgid "<b>Visibility Setting</b>"
+msgstr "<b>བཀོད་པ་མཐོང་རུང་།</b>"
+
+msgid ""
+"<b>Welcome to the Bluetooth device setup assistant. </b>\n"
+"\n"
+"\n"
+"It will walk you through the process of configuring and connecting to your Bluetooth enabled devices."
+msgstr ""
+
+msgid ""
+"<span size=\"small\">The following arguments will be passed:\n"
+"Address, Name, service name, uuid16s, rfcomm node\n"
+"For example:\n"
+"AA:BB:CC:DD:EE:FF, Phone, DUN service, 0x1103, /dev/rfcomm0\n"
+"uuid16s are returned as a comma seperated list\n"
+"\n"
+"Upon device disconnection the script will be sent a HUP signal</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"large\">Sending files via Bluetooth</span>"
+msgstr ""
+
+msgid "APN:"
+msgstr "APN："
+
+msgid "Accept"
+msgstr "བསྡུ་ལེན།"
+
+msgid "Accept files from trusted devices"
+msgstr "ཡིད་རྟོན་སྒྲིག་ཆས་སྐུར་བའི་ཡིག་ཆ་ལེན་པ།"
+
+msgid "Adap_ters"
+msgstr "འཚམ་སྒྲིག་ཆས།(_T)"
+
+msgid "Adapter for this connection is not available"
+msgstr "འབྲེལ་མཐུད་འདིའི་འཚམ་སྒྲིག་ཆས་སྤྱོད་མི་རུང་།"
+
+msgid "Adapter selection"
+msgstr "བདམས་པའི་འཚམ་སྒྲིག་ཆས།"
+
+msgid "Add"
+msgstr "གསར་བཟོ།"
+
+msgid "Add this device to known devices list"
+msgstr "སྒྲིག་ཆས་འདི་ཤེས་པའི་སྒྲིག་ཆས་རེའུ་མིག་ཏུ་སྣོན།"
+
+msgid "Adding"
+msgstr "སྣོན་པ།ཁ་སྣོན་བྱེད་བཞིན་པ།"
+
+msgid "Adds an exit menu item to quit the applet"
+msgstr "བྱ་རིམ་ཆུང་བ་ལས་ཐོན་པའི་ཕྱིར་འདོན་འདེམས་བྱང་ཚན་ཞིག་སྣོན།"
+
+msgid ""
+"Adds an indication on the status icon when Bluetooth is active and shows the"
+" number of connections in the tooltip."
+msgstr ""
+"རྣམ་པའི་རིས་རྟགས་སུ་སོ་སྔོན་འགུལ་སྐྱོད་ཀྱི་སྟོན་ཆས་ཤིག་སྣོན་ཞིང་། "
+"འཕར་ཐོན་གསལ་སྟོན་དུ་འབྲེལ་མཐུད་གྲངས་ཀ་མངོན་པ།"
+
+msgid "Adds standard menu items to the status icon menu"
+msgstr "རྣམ་པའི་རིས་རྟགས་འདེམས་བྱང་དུ་ཚད་ལྡན་འདེམས་བྱང་ཚན་སྣོན།"
+
+msgid "All Files(*.*)"
+msgstr "ཡིག་ཆ་ཚང་མ་(*.*)ཡིག་ཆ་ཚང་མ།"
+
+msgid "Allow devices to write/delete"
+msgstr "སྒྲིག་ཆས་ཀྱིས་འབྲི་བ／འདོར་བ་ཆོག་པ་བྱེད།"
+
+msgid "Allows to receive audio from remote device"
+msgstr "ཐག་རིང་སྒྲིག་ཆས་ཀྱི་ཡོང་བའི་སྒྲ་ཟློས་འབྱོར་ཆོག་པ་བྱེད།"
+
+msgid "Allows to send audio to remote device"
+msgstr "སྐུར་བ་སྒྲ་ཟློས་ཐག་རིང་སྒྲིག་ཆས་སུ་སྐུར་ཆོག་པ་བྱེད།"
+
+msgid ""
+"Allows you to monitor your (mobile broadband) network traffic usage. Useful "
+"for limited data access plans. This plugin tracks every device seperately."
+msgstr ""
+
+msgid "Already connected"
+msgstr "འབྲེལ་མཐུད་ཟིན་པ།"
+
+msgid "Always"
+msgstr "ནམ་ཡང་།"
+
+msgid "Always accept"
+msgstr "ནམ་ཡང་མོས་མཐུན་ཡོད།"
+
+msgid "Always visible"
+msgstr "ནམ་ཡང་མཐོང་ཐུབ།"
+
+msgid "Amount of time in seconds discoverable mode will last"
+msgstr "འཚོལ་བའི་རྣམ་པའི་བརྒལ་དུས།（འཇལ་བྱེད་སྐར་ཆ་ཡིན།）"
+
+msgid "Applet's transfer service plugin is disabled"
+msgstr "བྱ་རིམ་ཆུང་བའི་བརྒྱུད་སྐྱེལ་ཞབས་ཞུའི་བསྒར་ལྷུ་བཀག་པ།"
+
+msgid "Are you sure you want to reset the counter?"
+msgstr "ཁྱེད་ཀྱིས་གྲངས་བགྲང་ཆས་བསྐྱར་ཏུ་འགོད་པ་གཏན་འཁེལ་ལམ།"
+
+msgid "Audio Profile"
+msgstr "སྒྲ་ཟློས་སྡེབ་སྒྲིག"
+
+msgid "Audio Sink"
+msgstr "སྒྲ་ཟློས་ཤུར།"
+
+msgid "Audio Source"
+msgstr "སྒྲ་ཟློས་ཁུངས།"
+
+msgid "Authorization request for:"
+msgstr "དབང་བསྐུར་རེ་ཞུ།"
+
+msgid "Blueman"
+msgstr "སོ་སྔོན།"
+
+msgid "Blueman (dhclient)"
+msgstr "སོ་སྔོན།(dhclient)"
+
+msgid "Blueman Applet"
+msgstr ""
+
+msgid "Blueman Bluetooth Manager"
+msgstr ""
+
+msgid "Blueman is a GTK based Bluetooth manager"
+msgstr "Blueman ནི་GTKལ་བརྟེན་པའི་སོ་སྔོན་དོ་དམ་ཆས་ཡིན།"
+
+msgid "Bluetooth Active"
+msgstr "སོ་སྔོན་ཁ་འབྱེད།"
+
+msgid "Bluetooth Adapters"
+msgstr "སོ་སྔོན་འཚམ་སྒྲིག་ཆས།"
+
+msgid "Bluetooth Assistant"
+msgstr "སོ་སྔོན་ལག་རོགས།"
+
+msgid "Bluetooth Authentication"
+msgstr "སོ་སྔོན་ར་སྤྲོད།"
+
+msgid "Bluetooth Configuration"
+msgstr "སོ་སྔོན་སྡེབ་སྒྲིག"
+
+msgid "Bluetooth Device"
+msgstr "སོ་སྔོན་སྒྲིག་ཆས།"
+
+msgid "Bluetooth Devices"
+msgstr "སོ་སྔོན་སྒྲིག་ཆས།"
+
+msgid "Bluetooth Dialup"
+msgstr "སོ་སྔོན་ཨང་འབོད།"
+
+msgid "Bluetooth Disabled"
+msgstr "སོ་སྔོན་སྤྱོད་མཚམས་བཞག"
+
+msgid "Bluetooth Enabled"
+msgstr "སོ་སྔོན་སྤྱོད་འགོ་ཚུགས།"
+
+msgid "Bluetooth File Transfer"
+msgstr "སོ་སྔོན་གྱིས་ཡིག་ཆ་བརྒྱུད་གཏོང་།"
+
+msgid "Bluetooth Manager"
+msgstr "སོ་སྔོན་དོ་དམ་ཆས།"
+
+msgid "Bluetooth Network"
+msgstr "སོ་སྔོན་དྲ་བ།"
+
+msgid "Bluetooth Turned Off"
+msgstr "སོ་སྔོན་ཁ་རྒྱག"
+
+msgid "Bluetooth needs to be turned on for file sending to work"
+msgstr "སོ་སྔོན་ཡིག་ཆ་བརྒྱུད་སྐྱེལ་ལས་ཀའི་ཆེད་དུ་ཁ་འབྱེད་དགོས།"
+
+msgid "Bluetooth needs to be turned on for the Bluetooth assistant to work"
+msgstr "སོ་སྔོན་ཁ་འབྱེད་ན། སོ་སྔོན་ལག་རོགས་ཀྱིས་ལས་སྒྲུབ་ཐུབ།"
+
+msgid "Bluetooth needs to be turned on for the adapter manager to work"
+msgstr "སོ་སྔོན་ཁ་ཕྱེ་ན་འཚམ་སྒྲིག་ཆས་དོ་དམ་ཆས་ཀྱིས་ལས་སྒྲུབ་ཐུབ།"
+
+msgid "Bluetooth needs to be turned on for the device manager to function"
+msgstr "སྒྲིག་ཆས་དོ་དམ་ཆས་ཀྱིས་སོ་སྔོན་ཁ་ཕྱེ་ན་ལས་སྒྲུབ་ཐུབ།"
+
+msgid ""
+"Bluez daemon is not running, blueman-manager cannot continue.\n"
+"This probably means that there were no Bluetooth adapters detected or Bluetooth daemon was not started."
+msgstr ""
+
+msgid "Browse"
+msgstr "མིག་བཤར།"
+
+msgid "Browse the device using obex ftp"
+msgstr "obex ftpསྤྱད་ནས་སྒྲིག་ཆས་འདི་ལ་མིག་བཤར།"
+
+msgid "Browse this device"
+msgstr "སྒྲིག་ཆས་འདིར་མིག་བཤར།"
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Cancel Operation"
+msgstr "ལེན་པའི་བཀོལ་སྤྱོད།"
+
+msgid "Cancelling"
+msgstr "ལེན་བཞིན་པ།"
+
+msgid "Changing Bluetooth system settings requires privileges"
+msgstr "སོ་སྔོན་རྒྱུད་ཁོངས་བཀོད་པ་བསྒྱུར་དགོས་ན། དབང་ཚད་དགོས།"
+
+msgid "Close"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "Command"
+msgstr "བཀའ་བརྡ།"
+
+msgid "Command to execute when answer button is pressed:"
+msgstr "དང་ལེན་མཐེབ་གནོན་གནོན་སྐབས་བཀའ་བརྡ་ལ་བསྟར་བྱེད།"
+
+msgid ""
+"Command to start an obex ftp browser.\n"
+"<i>%d</i> is substituted with device address."
+msgstr ""
+
+msgid "Configuration"
+msgstr "སྡེབ་སྒྲིག"
+
+msgid "Configure Bluetooth Network"
+msgstr "སོ་སྔོན་དྲ་བ་སྡེབ་སྒྲིག"
+
+msgid "Configure selected plugin's preferences"
+msgstr "བདམས་པའི་བསྒར་ལྷུ་སྡེབ་སྒྲིག"
+
+msgid "Configuring networking requires privileges"
+msgstr "དྲ་བ་སྡེབ་སྒྲིག་བྱེད་དགོས་ན་དབང་ཚད་དགོས།"
+
+msgid "Confirm"
+msgstr "གཏན་འཁེལ།"
+
+msgid "Confirm value"
+msgstr "གཏན་འཁེལ་གྱི་ཚད།"
+
+msgid "Confirm value for authentication:"
+msgstr "ར་སྤྲོད་ཚད་གཏན་འཁེལ་བྱེད།"
+
+msgid "Connect"
+msgstr "འབྲེལ་མཐུད།"
+
+msgid "Connected"
+msgstr "འབྲེལ་མཐུད་བྱས་ཟིན།"
+
+msgid "Connected to %s"
+msgstr " %sལ་འབྲེལ་ཟིན།"
+
+msgid "Connected:"
+msgstr "འབྲེལ་ཟིན།："
+
+msgid "Connecting"
+msgstr "འབྲེལ་པ།"
+
+msgid "Connecting.."
+msgstr "འབྲེལ་མཐུད་བྱེད་པ།..."
+
+msgid "Connecting..."
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ། ..."
+
+msgid "Connection Failed: "
+msgstr "འབྲེལ་མཐུད་ཕམ་པ།： "
+
+msgid "Connection to BlueZ failed"
+msgstr " BlueZལ་འབྲེལ་་ཕམ་པ།"
+
+msgid "Controls Bluetooth adapter power states"
+msgstr "སོ་སྔོན་འཚམ་སྒྲིག་ཆས་ཀྱི་གློག་ཁུངས་རྣམ་པ་ཚོད་འཛིན་བྱེད།"
+
+msgid "Create pairing with the device"
+msgstr "སྒྲིག་ཆས་དང་ཆ་སྒྲིལ།"
+
+msgid "DHCP server type:"
+msgstr "DHCP ཞབས་ཞུ་ཆས་རིགས་གྲས།"
+
+msgid "DUN connection on %s will now be available in Network Manager"
+msgstr "%s ཡི་DUN འབྲེལ་མཐུད་དེ་དྲ་བའི་དོ་དམ་ཆས་སུ་ད་ལྟར་སྤྱོད་རུང་ཡིན།"
+
+msgid "Data activity indication"
+msgstr "གཞི་གྲངས་འགུལ་བའི་བསྟན་པ།"
+
+msgid "Deny"
+msgstr "ཟློག་པ།"
+
+msgid "Dependency issue"
+msgstr "གནད་དོན་ལ་རག་ལས།"
+
+msgid "Device"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "Device Manager"
+msgstr "སྒྲིག་ཆས་དོ་དམ་ཆས།"
+
+msgid "Device search progress"
+msgstr "སྒྲིག་ཆས་འཚོལ་རིམ།"
+
+msgid "Dialup Networking (DUN)"
+msgstr "ཨང་འབོད་དྲ་བ། (DUN)"
+
+msgid "Dialup Settings"
+msgstr "ཨང་འབོད་སྒྲིག་བཀོད།"
+
+msgid "Disconnecting..."
+msgstr "འབྲེལ་མཐུད་གཅོད་པ་..."
+
+msgid "Discoverable timeout"
+msgstr "འཚོལ་བ་དུས་བརྒལ།"
+
+msgid "Discoverable... %ss"
+msgstr "%ssརྙེད་ཐུབ།... "
+
+msgid "Don't connect"
+msgstr "འབྲེལ་མཐུད་མ་བྱེད།"
+
+msgid "ETA:"
+msgstr "ETA:"
+
+msgid "Enable Bluetooth"
+msgstr "སོ་སྔོན་སྤྱོད་པ།"
+
+msgid "Enable Routing (NAT)"
+msgstr "ལས་འཚོལ་ཆོག་པ།(NAT)"
+
+msgid "Enabled"
+msgstr "སྤྱད་པ།"
+
+msgid "Enter PIN code"
+msgstr " PINཨང་ནང་འཇུག"
+
+msgid "Enter PIN code for authentication:"
+msgstr "དབང་སྤྲོད་PINཨང་ནང་འཇུག"
+
+msgid "Enter passkey"
+msgstr "གསང་ཨང་ནང་འཇུག"
+
+msgid "Enter passkey for authentication:"
+msgstr "ར་སྤྲོད་བརྒྱུད་པའི་ཨང་ནང་འཇུག་བྱེད།："
+
+msgid "Error occurred"
+msgstr "ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error occurred while sending file %s"
+msgstr "ཡིག་ཆ་ %s སྐུར་དུས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Failed"
+msgstr "ཕམ་པ།"
+
+msgid "Failed to change profile to %s"
+msgstr "སྡེབ་སྒྲིག་མིང་%sལ་བསྒྱུར་མི་ཐུབ།"
+
+msgid "Failed to connect"
+msgstr "འབྲེལ་མཐུད་ཕམ་པ།"
+
+msgid "Failed to launch \"%s\""
+msgstr ""
+
+msgid "Failed to launch default file browser"
+msgstr "སོར་བཞག་གི་ཡིག་ཆའི་བཤར་ཆས་འགོ་རྩོམ་མི་ཐུབ།"
+
+msgid "Failed to obtain an IP address on %s"
+msgstr "%sཐོག་ཏུ་IP ཤག་གནས་ཐོབ་པ་ཕམ་པ།"
+
+msgid "Failure"
+msgstr "ཕམ་པ།"
+
+msgid "File %(0)s from %(1)s successfully received"
+msgstr "%(1)s ཡོང་བའི་ཡིག་ཆ་ %(0)s བདེ་བླག་ངང་བྱོར་བ།"
+
+msgid "File received"
+msgstr "ཡིག་ཆ་བྱོར་བ།"
+
+msgid "Files received"
+msgstr "ཡིག་ཆ་སྡུད་ལེན་ཟིན་པ།"
+
+msgid "Finished"
+msgstr "ལེགས་འགྲུབ་པ།"
+
+msgid "Forcefully disconnect the device"
+msgstr "བཙན་གཅོད།"
+
+msgid "GSM Settings"
+msgstr "GSMསྒྲིག་འགོད།"
+
+msgid "Group Network"
+msgstr "དྲ་བ་ཚོགས།"
+
+msgid "Hidden"
+msgstr "སྦེད་པ།"
+
+msgid "High"
+msgstr "མཐོ།"
+
+msgid "IP Address:"
+msgstr "IP ཤག་གནས།"
+
+msgid "IP address conflicts with interface %s which has the same address"
+msgstr "IP ཤག་གནས་དང་མཐུད་ཁ %s འགལ་བ། དེའི་ཤག་གནས་ཡང་འདི་ཡིན།"
+
+msgid ""
+"IP address overlaps with subnet of interface %s, which has the following configuration %s/%s\n"
+"This may cause incorrect network behavior"
+msgstr ""
+
+msgid "Incoming Folder:"
+msgstr "ཡིག་ཆས་དཀར་ཆག་དང་ལེན།"
+
+msgid "Incoming file %(0)s from %(1)s"
+msgstr " %(1)sནས་ཡིག་ཆ་ %(0)sབརྒྱུད་པ།"
+
+msgid "Incoming file over Bluetooth"
+msgstr "སོ་སྔོན་བརྟེན་ནས་སྐྱེལ་བའི་ཡིག་ཆ།"
+
+msgid "Interface %(0)s bound to IP address %(1)s"
+msgstr "མཐུད་ཁ་ %(0)s IP ཤག་གནས %(1)sལ་སྡོམ།"
+
+msgid "Introduction"
+msgstr "འདྲེན་སྟོན།"
+
+msgid "Invalid IP address"
+msgstr "ནུས་མེད་ཀྱི་ IP ཤག་གནས།"
+
+msgid "Latest Device _First"
+msgstr "སྒྲིག་ཆས་གསར་བ་སྔོན་རིམ།_F)"
+
+msgid "Latest Device _Last"
+msgstr "སྒྲིག་ཆས་གསར་བ་རྒྱབ་སྣུར།(_L)"
+
+msgid "Launch DHCP client"
+msgstr "DHCPདུད་སྣེ་མགོ་སློང་།"
+
+msgid "Launching DHCP client requires privileges"
+msgstr "DHCPདུད་སྣེ་མགོ་སློང་ན་དམིགས་བསལ་གྱི་དབང་ཆ་དགོས།"
+
+msgid "Local Services"
+msgstr "རང་སའི་ཞབས་ཞུ།"
+
+msgid "Low"
+msgstr "དམའ།"
+
+msgid "Make the default adapter temporarily visible"
+msgstr "སྔོན་འདེམས་འཚམ་སྒྲིག་ཆས་གནས་སྐབས་མཐོང་ཐུབ་པ་བྱེད།"
+
+msgid "Manages local network services, like NAP bridges"
+msgstr "རང་སའི་དྲ་བ་ཞབས་ཞུ་དོ་དམ་བྱེད། དཔེར་ན་ NAP ཟམ།"
+
+msgid "Mark/Unmark this device as trusted"
+msgstr "སྒྲིག་ཆས་འདི་ཡིད་རྟོན་གྱི་རྟགས་རྒྱག/རྟགས་ལེན་པ་བྱེད།"
+
+msgid "Maximum items"
+msgstr "ཆེས་ཆེ་བའི་རྣམ་གྲངས་ཀྱི་གྲངས་ཀ"
+
+msgid "Modem Manager did not support the connection"
+msgstr ""
+"སྙོམ་སྒྲིག་སྒྲིག་འགྲོལ་ཆས་ཀྱི་དོ་དམ་ཆས་འབྲེལ་མཐུད་འདི་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "More"
+msgstr "དེ་ལས་མང་།"
+
+msgid "Much"
+msgstr "མང་པོ།"
+
+msgid "Network"
+msgstr "དྲ་བ།"
+
+msgid "Network Access Point"
+msgstr "དྲ་བའི་འབྲེལ་ཚེག"
+
+msgid "Network Access Point (NAP)"
+msgstr "དྲ་བའི་འབྲེལ་ཚེག (NAP)"
+
+msgid "Network _Usage"
+msgstr "དྲ་བའི་སྤྱོད་ཚུལ།(_U)"
+
+msgid "NetworkManager"
+msgstr "དྲ་བ་དོ་དམ་ཆས།"
+
+msgid "No adapters found"
+msgstr "འཚམ་སྒྲིག་ཆས་མ་རྙེད།"
+
+msgid ""
+"No usage statistics are available yet. Try establishing a connection first "
+"and then check this page."
+msgstr ""
+"སྡོམ་རྩིས་ཆ་འཕྲིན་སྤྱོད་རུང་མེད་པ། "
+"ཁྱེད་ཀྱིས་སྔོན་དུ་འབྲེལ་མཐུད་ཅིག་བཟོས་ནས་ཤོག་ངོས་འདི་ཞིབ་བཤེར་བྱེད།"
+
+msgid "Not Connected"
+msgstr "འབྲེལ་མེད།"
+
+msgid "Not currently supported with this setup"
+msgstr "མིག་སྔའི་སྒྲིག་ཆས་སུ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Not specified"
+msgstr "གཏན་འཁེལ་བྱས་མེད།"
+
+msgid "Number:"
+msgstr "སྒྲིག་ཨང་།："
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "Optimal"
+msgstr "ཡག་ཤོས།"
+
+msgid "Pair"
+msgstr "ཆ་སྒྲིག"
+
+msgid "Pair Device"
+msgstr "སྒྲིག་ཆས་ཆ་སྒྲིག"
+
+msgid "Pair with the device"
+msgstr "སྒྲིག་ཆས་འདི་ཆ་སྒྲིག"
+
+msgid "Pair."
+msgstr "ཆ་སྒྲིག"
+
+msgid "Pairing"
+msgstr ""
+
+msgid "Pairing PIN code for"
+msgstr "PINཨང་ཆ་སྒྲིག"
+
+msgid "Pairing passkey for"
+msgstr "གསང་ཨང་ཆ་སྒྲིག"
+
+msgid "Pairing request"
+msgstr ""
+
+msgid "Pairing request for %s"
+msgstr ""
+
+msgid "Pairing request for device:"
+msgstr "སྒྲིག་ཆས་ཀྱི་ཆ་སྒྲིག་རེ་ཞུ།"
+
+msgid "Pairing request for:"
+msgstr "ཆ་སྒྲིག་གི་རེ་ཞུ།"
+
+msgid "Pairing with: %s"
+msgstr " %sདང་ལས་པ།"
+
+msgid "Pairing..."
+msgstr "ཆ་སྒྲིག་བཞིན་པ།..."
+
+msgid ""
+"Plugin <b>\"%(0)s\"</b> depends on <b>%(1)s</b>. Unloading <b>%(1)s</b> will also unload <b>\"%(0)s\"</b>.\n"
+"Proceed?"
+msgstr ""
+
+msgid ""
+"Plugin <b>%(0)s</b> conflicts with <b>%(1)s</b>. Loading <b>%(1)s</b> will unload <b>%(0)s</b>.\n"
+"Proceed?"
+msgstr ""
+
+msgid "Plugins"
+msgstr "བསྒར་ལྷུ།"
+
+msgid "Poor"
+msgstr "ཞན།"
+
+msgid "Proceed Without Pairing"
+msgstr "ཆ་སྒྲིག་མ་བྱེད་པའི་སྒྲིག་གཅོད།"
+
+msgid "Provides DBus API for other Blueman components"
+msgstr " Bluemanསྒྲིག་ལྷུ་གཞན་དག་ལ་DBus APIམཁོ་འདོན་བྱེད།"
+
+msgid "Provides OBEX file transfer capabilities"
+msgstr " OBEX ཡིག་ཆ་སྐྱེལ་ནུས་མཁོ་འདོན་བྱེད།"
+
+msgid "Provides a basic dhcp client for Bluetooth PAN connections."
+msgstr "སོ་སྔོན་ PAN འབྲེལ་མཐུད་ལ་རྩ་བའི་ dhcp དུད་སྣེ་ཞིག་མཁོ་འདོན་བྱེད།"
+
+msgid ""
+"Provides a menu for the applet and an API for other plugins to manipulate it"
+msgstr ""
+"དཀར་ཆག་ཅིག་མཁོ་འདོན་བྱས་ནས་བསྒར་ལྷུ་གཞན་དག་གི་ appletདང་APIམཁོ་འདོན་བྱེད།"
+
+msgid ""
+"Provides a menu item for making the default adapter temporarily visible when"
+" it is set to hidden by default"
+msgstr ""
+"འདེམས་བྱང་ཚན་ཞིག་མཁོ་འདོན་བྱས། "
+"སོར་བཞག་གི་སྦེད་པའི་ཐོག་མའི་བདམས་པའི་འཚམ་སྒྲིག་ཆས་གནས་སྐབས་སུ་མཐོང་དུ་འཇུག"
+
+msgid ""
+"Provides a menu item that contains last used connections for quick access"
+msgstr ""
+"སྔོན་སྤྱོད་པའི་འབྲེལ་མཐུད་ཀྱི་འདེམས་བྱང་ཚན་ཞིག་མཁོ་འདོན་བྱས་ནས་མགྱོགས་མྱུར་ངང་ལྟ་སྤྱོད་བྱེད།"
+
+msgid "Provides basic support for connecting to the internet via DUN profile."
+msgstr ""
+" DUN སྡེབ་སྒྲིག་ཡིག་ཆ་ Internet འབྲེལ་བར་རྩ་བའི་རྒྱབ་སྐྱོར་མཁོ་འདོན་བྱེད།"
+
+msgid "Provides passkey, authentication services for BlueZ daemon"
+msgstr "BlueZསྲུང་སྐྱོབ་འཕེལ་རིམ་ལ་གསང་ལྡེ། ར་སྤྲོད་ཞབས་ཞུ་མཁོ་འདོན་བྱེད།"
+
+msgid ""
+"Provides support for Dial Up Networking (DUN) with ModemManager and "
+"NetworkManager"
+msgstr ""
+"སྙོམ་སྒྲིག་སྒྲིག་འགྲོལ་ཆས་ཀྱི་དོ་དམ་ཆས་དང་དྲ་བའི་་དོ་དམ་ཆས་སྤྱད་དེ་ཨང་འབོད་དྲ་བ་(DUN)ལ་རྒྱབ་སྐྱོར་མཁོ་འདོན་བྱེད།"
+
+msgid ""
+"Provides support for Personal Area Networking (PAN) introduced in "
+"NetworkManager 0.8"
+msgstr ""
+"དྲ་བའི་དོ་དམ་ཆས 0.8ཡིས་མི་སྒེར་ཁྱབ་ཆུང་དྲ་བ(PAN)ལ་རྒྱབ་སྐྱོར་མཁོ་འདོན་བྱེད།"
+
+msgid "Receive file message"
+msgstr "ཡིག་ཆའི་བརྡ་འཕྲིན་དང་ལེན་བྱེད།"
+
+msgid "Received %d file in the background"
+msgid_plural "Received %d files in the background"
+msgstr[0] "རྒྱབ་སྟེགས་སུ་ཡིག་ཆ་ %dབསྡུ་ལེན་བྱེད།"
+msgstr[1] "རྒྱབ་སྟེགས་སུ་ཡིག་ཆ་ %dབསྡུ་ལེན་བྱེད།"
+
+msgid "Received %d more file in the background"
+msgid_plural "Received %d more files in the background"
+msgstr[0] "རྒྱབ་སྟེགས་སུ་ཡང་ཡིག་ཆ་ %d བསྡུ་ལེན་བྱེད།"
+msgstr[1] "རྒྱབ་སྟེགས་སུ་ཡང་ཡིག་ཆ་ %d བསྡུ་ལེན་བྱེད།"
+
+msgid "Receiving file"
+msgstr "ཡིག་ཆ་བསྡུ་བ།"
+
+msgid "Receiving file %(0)s from %(1)s"
+msgstr " %(1)sལས་ཡིག་ཆ་ %(0)sབསྡུ་བ།"
+
+msgid "Recent _Connections"
+msgstr "ཉེ་ཆར་འབྲེལ་མཐུད།：(_C)"
+
+msgid "Recommended"
+msgstr ""
+
+msgid "Reject"
+msgstr "ཟློག་པ།"
+
+msgid "Remove"
+msgstr "སྤོ་བ།"
+
+msgid "Remove this device from the known devices list"
+msgstr "སྒྲིག་ཆས་འདི་ཤེས་ཟིན་པའི་སྒྲིག་ཆས་རེའུ་མིག་ལས་བསུབ།"
+
+msgid "Rename device"
+msgstr "སྒྲིག་ཆས་མིང་བསྐྱར་འདོགས།"
+
+msgid "Rename device..."
+msgstr "སྒྲིག་ཆས་མིང་བསྐྱར་འདོགས།"
+
+msgid "Renew IP Address"
+msgstr " IP ཤག་གནས་གསར་སྒྱུར།"
+
+msgid "Reset"
+msgstr "བསྐྱར་འཇོག"
+
+msgid "Retry"
+msgstr "བསྐྱར་ཚོད།"
+
+msgid "Run the setup assistant for this device"
+msgstr "སྒྲིག་ཆས་འདི་ལ་སྒྲིག་བཀོད་ལས་རོགས་འཁོར་སྐྱོད་བྱེད།"
+
+msgid "Runs a command when answer button is pressed on a headset"
+msgstr "ཉན་ཆས་ཀྱི་མཐེབ་གནོན་གནོན་སྐབས་སུ་བཀའ་བརྡ་ཞིག་འཁོར་སྐྱོད་བྱེད།"
+
+msgid "Script to execute on connection"
+msgstr "འབྲེལ་མཐུད་བྱེད་སྐབས་ལག་བསྟར་གྱི་གཞི་དེབ།"
+
+msgid "Search"
+msgstr "འཚོལ་བ།"
+
+msgid "Search for devices"
+msgstr "སྒྲིག་ཆས་འཚོལ་བ།"
+
+msgid "Search for nearby devices"
+msgstr "ཉེ་བའི་སྒྲིག་ཆས་འཚོལ་བ།"
+
+msgid "Searching"
+msgstr "འཚོལ་བཤེར་པ།"
+
+msgid "Select Device"
+msgstr "སྒྲིག་ཆས་འདེམ་པ།"
+
+msgid "Select Shared/Storage folder"
+msgstr "མཉམ་སྤྱོད་／གསོག་འཇོག་ཡིག་ཁུག་འདེམ་པ།"
+
+msgid "Select audio profile for PulseAudio"
+msgstr "PulseAudioཡི་སྒྲ་ཟློས་སྡེབ་སྒྲིག་འདེམ་པ།"
+
+msgid "Select files to send"
+msgstr "སྐུར་དགོས་པའི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Send File"
+msgstr "ཡིག་ཆ་སྐུར་བ།"
+
+msgid "Send _Files to Device"
+msgstr "སྒྲིག་ཆས་ལ་ཡིག་ཆ་སྐུར་བ།:(_F)"
+
+msgid "Send a _File..."
+msgstr "ཡིག་ཆ་སྐུར་བ།:(_F)..."
+
+msgid "Send file(s) to the device"
+msgstr "སྒྲིག་ཆས་འདི་ལ་ཡིག་ཆ་སྐུར་བ།"
+
+msgid "Send files to this device"
+msgstr "ཡིག་ཆ་སྒྲིག་ཆས་འདི་ལ་སྐུར་བ།"
+
+msgid "Sending File"
+msgstr "ཡིག་ཆ་སྐུར་བ།"
+
+msgid "Serial Port %s"
+msgstr ""
+
+msgid "Serial Ports"
+msgstr "ཕྲེང་ཁ།"
+
+msgid "Serial port connected"
+msgstr "ཕྲེང་ཁ་འབྲེལ་ཟིན།"
+
+msgid "Serial port connected to %s"
+msgstr "ཕྲེང་ཁ་ %sལ་འབྲེལ།"
+
+msgid "Serial port connection script failed"
+msgstr "ཕྲེང་ཁ་གཞི་དེབ་དུ་འབྲེལ་བ་ཕམ་པ།"
+
+msgid ""
+"Serial port service on device <b>%s</b> now will be available via <b>%s</b>"
+msgstr "<b>%s</b>སྒྲིག་ཆས་ཀྱི་ཕྲེང་ཁའི་ཞབས་ཞུ་<b>%s</b>བརྟེན་ནས་སྤྱོད་ཐུབ།"
+
+msgid "Service:"
+msgstr "ཞབས་ཞུ།"
+
+msgid "Set Bluetooth Adapter Properties"
+msgstr "སོ་སྔོན་འཚམ་སྒྲིག་ཆས་གཏོགས་གཤིས་སྒྲིག་འགོད།"
+
+msgid "Setup..."
+msgstr "སྒྲིག་འགོད།"
+
+msgid "Shared Folder:"
+msgstr "ཡིག་ཁུག་མཉམ་སྤྱོད།"
+
+msgid "Show _Statusbar"
+msgstr "རྣམ་པ་སྡེ་མངོན་པ།(_S)"
+
+msgid "Show _Toolbar"
+msgstr "ལག་ཆ་སྡེ་མངོན་པ།(_T)"
+
+msgid "Show input"
+msgstr "ནང་འཇུག་མངོན་པ།"
+
+msgid "Shows network traffic usage"
+msgstr "དྲ་བའི་རྒྱུན་ཚད་སྤྱོད་ཕྱོད་མངོན་པ།"
+
+msgid "Skip"
+msgstr "མཆོང་བ།"
+
+msgid "Source adapter. Takes address or adapter's name eg. hci0"
+msgstr "ཁུངས་འཚམ་སྒྲིག་ཆས། ཤག་གནས་ཡང་ན་འཚམ་སྒྲིག་ཆས་ཀྱི་མིང་འབྲི། དཔེར་ན:hci0"
+
+msgid ""
+"Standard SPP profile connection handler, allows executing custom actions"
+msgstr ""
+"ཚད་ལྡན་གྱི་SPP སྡེབ་སྒྲིག་འབྲེལ་མཐུད་སྒྲིག་གཅོད་ཆས། "
+"རང་གི་མཚན་ཉིད་བཞག་པའི་འགུལ་སྟངས་ལག་བསྟར་བྱེད་ཆོག"
+
+msgid "Start configuration assistant for this device"
+msgstr "སྒྲིག་ཆས་འདི་ལ་སྡེབ་སྒྲིག་ལག་རོགས་མགོ་སློང་།"
+
+msgid "Sub-optimal"
+msgstr "ཅུང་བཟང་།"
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Success!"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid ""
+"Successfully connected to <b>DUN</b> service on <b>%(0)s.</b>\n"
+"Network is now available through <b>%(1)s</b>"
+msgstr ""
+
+msgid ""
+"Temporarily suspends the screensaver when a bluetooth game controller is "
+"connected."
+msgstr ""
+"སོ་སྔོན་རོལ་རྩེད་ཚོད་འཛིན་ཆས་འབྲེལ་སྐབས། "
+"གནས་སྐབས་སུ་ཡོལ་ཤེལ་སྲུང་སྐྱོབ་བྱ་རིམ་འགེལ་བ།"
+
+msgid "Temporarily visible"
+msgstr "གནས་སྐབས་མཐོང་རུང་།"
+
+msgid "The maximum number of items recent connections menu will display."
+msgstr "ཉེ་ཆར་འབྲེལ་མཐུད་འདེམས་བྱང་མངོན་པའི་གྲངས་མང་ཤོས།"
+
+msgid ""
+"There was a problem launching script %s\n"
+"%s"
+msgstr ""
+
+msgid ""
+"Toggles a platform Bluetooth killswitch when Bluetooth power state changes "
+"(Useless with USB dongles) and makes sure a status icon is shown if there is"
+" a bluetooth killswitch but no adapter."
+msgstr ""
+
+msgid "Too much"
+msgstr "མང་དྲགས།"
+
+msgid "Total data received and rate of transmission"
+msgstr "འབྱོར་བའི་གཞི་གྲངས་སྤྱིའི་ཚད་དང་སྐྱེལ་བའི་མྱུར་ཚད།"
+
+msgid "Total data sent and rate of transmission"
+msgstr "གཏོང་བའི་གཞི་གྲངས་སྤྱིའི་ཚད་དང་སྐྱེལ་བའི་མྱུར་ཚད།"
+
+msgid "Traffic statistics"
+msgstr "བཞུར་ཚད་བསྡོམས་རྩིས།"
+
+msgid "Transfer"
+msgstr "བརྒྱུད་གཏོང་།"
+
+msgid "Transfer failed"
+msgstr "སྐྱེལ་འདྲེན་ཕམ་པ།"
+
+msgid "Transfer of file %(0)s failed"
+msgstr "ཡིག་ཆ་ %(0)sསྐྱེལ་བ་ཕམ་པ།"
+
+msgid "Trust"
+msgstr "ཡིད་རྟོན།"
+
+msgid ""
+"Trying to obtain an IP address on %s\n"
+"Please wait..."
+msgstr ""
+
+msgid "Turn off all adapters"
+msgstr "འཚམ་སྒྲིག་ཆས་ཚང་མ་ཁ་རྒྱག"
+
+msgid "Turn on all adapters"
+msgstr "འཚམ་སྒྲིག་ཆས་ཚང་མ་མགོ་སློང་།"
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unspecified"
+msgstr "གཏན་འཁེལ་བྱེད་མེད།"
+
+msgid "Untrust"
+msgstr "ཡིད་རྟོན་མི་རུང་།"
+
+msgid "Use Random Passkey"
+msgstr "སྐབས་བསྟུན་གསང་ཨང་སྤྱོད་པ།"
+
+msgid "Uses libappindicator to show a statusicon"
+msgstr "libappindicatorབཀོལ་ནས་རྣམ་པ་རིས་རྟགས་ཤིག་མངོན་པ།"
+
+msgid "Very High"
+msgstr "ཧ་ཅང་མཐོ།"
+
+msgid "You can enter an alternate browser in service settings"
+msgstr "ཁྱེད་ཀྱིས་ཞབས་ཞུ་སྒྲིག་འགོད་དུ་བཤར་ཆས་གཞན་ཞིག་ནང་འཇུག་བྱེད་ཆོག"
+
+msgid "_Adapter"
+msgstr "འཚམ་སྒྲིག་ཆས(_A)"
+
+msgid "_Add Device"
+msgstr "སྒྲིག་ཆས་སྣོན་པ།(_A)"
+
+msgid "_Browse Device..."
+msgstr "སྒྲིག་ཆས་བཤར་བ།(_B):..."
+
+msgid "_Browse Files on Device"
+msgstr "སྒྲིག་ཆས་སྟེང་གི་ཡིག་ཆ་བཤར་བ།(_B)"
+
+msgid "_Cancel"
+msgstr "ལེན་པ། (_C)"
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག(_C)"
+
+msgid "_Device"
+msgstr "སྒྲིག་ཆས།(_D)"
+
+msgid "_Devices"
+msgstr "སྒྲིག་ཆས།(_D)"
+
+msgid "_Disconnect"
+msgstr "གཅོད་པ།(_D)"
+
+msgid "_Exit"
+msgstr "ཕྱིར་འདོན།(_E)"
+
+msgid "_Help"
+msgstr "རོགས་རམ།(_H)"
+
+msgid "_Local Services"
+msgstr "རང་སའི་ཞབས་ཞུ།(_L)"
+
+msgid "_Make Discoverable"
+msgstr "རྙེད་མི་ཐུབ།(_M)"
+
+msgid "_OK"
+msgstr "འགྲིག་པ།(_O)"
+
+msgid "_Pair"
+msgstr "ཆ་སྒྲིག:(_P)"
+
+msgid "_Plugins"
+msgstr "བསྒར་ལྷུ།(_P)"
+
+msgid "_Preferences"
+msgstr "སྒྲིག་འགོད།(_P)"
+
+msgid "_Remove..."
+msgstr "སྤོ་བ།(_R)..."
+
+msgid "_Report a Problem"
+msgstr "སྙན་ཞུའི་གནད་དོན།(_R)"
+
+msgid "_Reset"
+msgstr "བསྐྱར་སྒྲིག (_R)"
+
+msgid "_Search"
+msgstr "འཚོལ་བཤེར།(_S)"
+
+msgid "_Setup New Device"
+msgstr "སྒྲིག་ཆས་གསར་བ་སྒྲིག་འགོད།(_S)"
+
+msgid "_Setup..."
+msgstr "སྒྲིག་འགོད།:(_S)..."
+
+msgid "_Stop"
+msgstr "མཚམས་འཇོག(_S)"
+
+msgid "_Trust"
+msgstr "ཡིད་རྟོན།:(_T)"
+
+msgid "_Untrust"
+msgstr "ཡིད་རྟོན་ལེན་པ།(_U)"
+
+msgid "_View"
+msgstr "ལྟ་ཞིབ།(_V)"
+
+msgid "applet"
+msgstr ""
+
+msgid "cellular"
+msgstr "ལག་འཁྱེར་ཁ་པར།"
+
+msgid "cordless"
+msgstr "སྐུད་མེད་སྒྲིག་ཆས།"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "ཉིན།"
+msgstr[1] "ཉིན།"
+
+msgid "desktop"
+msgstr "ཅོག་ངོས།"
+
+msgid "handheld"
+msgstr "ལག་ཁྱེར་སྒྲིག་ཆས།"
+
+msgid "handsfree"
+msgstr "གནོན་མི་དགོས་པའི་སྒྲིག་ཆས།"
+
+msgid "headset"
+msgstr "རྣ་ཉན།"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ཆུ་ཚོད།"
+msgstr[1] "ཆུ་ཚོད།"
+
+msgid "isdn"
+msgstr ""
+
+msgid "keyboard"
+msgstr "མཐེབ་གཞོང་།"
+
+msgid "laptop"
+msgstr "ཟིན་དེབ།"
+
+msgid "microphone"
+msgstr "སྐད་སྦུག"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "སྐར་མ།"
+msgstr[1] "སྐར་མ།"
+
+msgid "modem"
+msgstr "སྙོམ་སྒྲིག་སྒྲིག་འགྲོལ་ཆས།"
+
+msgid "obexd is probably not installed"
+msgstr "obexd སྒྲིག་འཇུག་བྱས་མེད་སྲིད།"
+
+msgid "obexd not available"
+msgstr "obexd སྤྱོད་མི་རུང་།"
+
+msgid "palm"
+msgstr ""
+
+msgid "pointing"
+msgstr "སྒྲིག་ཆས་ལ་སྟོན།"
+
+msgid "server"
+msgstr "ཞབས་ཞུ་ཆས།"
+
+msgid "smart phone"
+msgstr "རིག་ནུས་ལག་ཁྱེར་ཁ་པར།"
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "uncategorized"
+msgstr "རིགས་དབྱེ་མེད་པ།"
+
+msgid "unknown"
+msgstr "མི་ཤེས།"

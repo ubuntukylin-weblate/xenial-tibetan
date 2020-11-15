@@ -1,0 +1,176 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "  stack[%d] =>   stack: %d   ind_level: %d\n"
+msgstr ""
+
+msgid "%s: missing argument to parameter %s\n"
+msgstr ""
+
+msgid "%s: option ``%s'' requires a numeric parameter\n"
+msgstr ""
+
+msgid "%s: unknown option \"%s\"\n"
+msgstr ""
+
+msgid "(Lines with comments)/(Lines with code): %6.3f\n"
+msgstr ""
+
+msgid "CANNOT FIND '@' FILE!"
+msgstr "‘@’ཡིག་ཆ་མ་རྙེད་པ།"
+
+msgid "Can't close output file %s"
+msgstr "ཕྱིར་འདོན་ཡིག་ཆ་སྒོ་རྒྱག་ཐབས་བྲལ།%s"
+
+msgid "Can't open backup file %s"
+msgstr "གྲབས་ཉར་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ།%s"
+
+msgid "Can't open input file %s"
+msgstr "ནང་འཇུག་ཡིག་ཆ %s ཁ་ཕྱེ་མི་ཐུབ།"
+
+msgid "Can't preserve modification time on backup file %s"
+msgstr ""
+"གྲབས་ཉར་ཡིག་ཆ་%sཡི་སྔར་ཡོད་ཀྱི་མཇུག་མཐའི་བཟོ་བཅོས་དུས་ཚོད་རྒྱུན་སྲུང་བྱེད་ཐབས་བྲལ།"
+
+msgid "Can't preserve modification time on output file %s"
+msgstr ""
+"ཕྱིར་གཏོང་ཡིག་ཆ་%sཡི་སྔར་ཡོད་ཀྱི་མཇུག་མཐའི་བཟོ་བཅོས་དུས་ཚོད་རྒྱུན་སྲུང་བྱེད་ཐབས་བྲལ།"
+
+msgid "Can't stat input file %s"
+msgstr "ནང་འཇུག་ཡིག་ཆ་%sསྡོམ་རྩིས་རྒྱག་ཐབས་བྲལ།"
+
+msgid "Can't write to backup file %s"
+msgstr "གྲབས་ཉར་ཡིག་ཆ་%sའབྲི་ཐབས་བྲལ།"
+
+msgid "EOF encountered in comment"
+msgstr "མཆན་འགྲེལ་ཁྲོད་EOFཐོན་པ།"
+
+msgid "Error"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "Error reading input file %s"
+msgstr "ནང་འཇུག་ཡིག་ཆ་ཀློག་ལེན་%s སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "File %s is too big to read"
+msgstr "ཡིག་ཆ་%sཆེ་དྲགས་པས་ཀློག་ཐབས་མི་འདུག"
+
+msgid ""
+"File named by environment variable %s does not exist or is not readable"
+msgstr ""
+"ཁོར་ཡུག་འགྱུར་ཚད་ཀྱི་%sཡིས་ཕྱོགས་བསྟན་ཡིག་ཆ་མི་གནས་པའམ་ཡང་ན་ཀློག་ཐབས་བྲལ་པ།"
+
+msgid "GNU indent %s\n"
+msgstr ""
+
+msgid "Internal buffering error"
+msgstr "ནང་ཁུལ་གྱི་ལྷོད་གཏོང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+
+msgid "Line broken"
+msgstr "ཕྲེང་གཅོད་པ།"
+
+msgid "Line broken 2"
+msgstr "ཆད་གཅོད་པ། 2"
+
+msgid "ParseStack [%d]:\n"
+msgstr ""
+
+msgid "Profile contains an unterminated comment"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་ནང་མཇུག་སྒྲིལ་མེད་པའི་མཆན་འགྲེལ།"
+
+msgid "Profile contains unpalatable characters"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་ཁྲོད་དུ་ངོ་མཚར་ཆེ་བའི་ཡིག་རྟགས་འདུས།"
+
+msgid "Read profile %s\n"
+msgstr ""
+
+msgid "Stmt nesting error."
+msgstr "སྐོང་འཛུད་རྗོད་ཚིག་ནོར་འཁྲུལ།"
+
+msgid "System problem reading file %s"
+msgstr "ཡིག་ཆའི་%sཀློག་ལེན་སྐབས་རྒྱུད་ཁོངས་ལ་གནད་དོན་ཐོན་པ།"
+
+msgid "There were %d non-blank output lines and %d comments\n"
+msgstr ""
+
+msgid "Unexpected end of file"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་ཆ་མཇུག་མ།"
+
+msgid "Unknown code to parser"
+msgstr "ངེས་མེད་ཀྱི་ཚབ་ཨང་ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Unmatched 'else'"
+msgstr "ཟླ་མ་སྒྲིག་པའི་‘else’"
+
+msgid "Unterminated character constant"
+msgstr "མཇུག་རྫོགས་མེད་པའི་ཡིག་རྟགས་རྒྱུན་ཚད།"
+
+msgid "Unterminated string constant"
+msgstr "མཇུག་བསྒྲིལ་མེད་པའི་ཡིག་རྟགས་ཕྲེང་གི་རྒྱུན་ཚད།"
+
+msgid "Warning"
+msgstr "ཐ་ཚིག "
+
+msgid "command line"
+msgstr "བཀའ་བརྡའི་ཕྲེང་།"
+
+msgid "indent:  Strange version-control value\n"
+msgstr ""
+
+msgid "indent:  Using numbered-existing\n"
+msgstr ""
+
+msgid "indent: %s:%d: %s:"
+msgstr "\"indent: %s:%d: %s:\""
+
+msgid "indent: Can't make backup filename of %s\n"
+msgstr ""
+
+msgid "indent: Fatal Error: "
+msgstr "indent：ནོར་འཁྲུལ་ཚབ་ཆེན།"
+
+msgid "indent: System Error: "
+msgstr "indent：རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
+
+msgid "indent: Virtual memory exhausted.\n"
+msgstr ""
+
+msgid "indent: can't create %s\n"
+msgstr ""
+
+msgid "indent: can't have filenames when specifying standard input\n"
+msgstr ""
+
+msgid "indent: only one input file when output file is specified\n"
+msgstr ""
+
+msgid "indent: only one input file when stdout is used\n"
+msgstr ""
+
+msgid "indent: only one output file (2nd was %s)\n"
+msgstr ""
+
+msgid "old style assignment ambiguity in \"=%c\".  Assuming \"= %c\"\n"
+msgstr ""
+
+msgid "option: %s\n"
+msgstr ""
+
+msgid "set_option: internal error: p_type %d\n"
+msgstr ""
+
+msgid ""
+"usage: indent file [-o outfile ] [ options ]\n"
+"       indent file1 file2 ... fileN [ options ]\n"
+msgstr ""

@@ -1,0 +1,1663 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " (Limit: %s)"
+msgstr "(ཚད་བཀག：%s)"
+
+msgid " _to "
+msgstr "ནས། (_T)"
+
+msgid "%"
+msgstr ""
+
+msgid "%'d Torrent Properties"
+msgstr "%'d ས་བོན་གཏོགས་གཤིས།"
+
+msgid "%'d day"
+msgid_plural "%'d days"
+msgstr[0] "ཉིན། %'d"
+msgstr[1] "ཉིན། %'d"
+
+msgid "%'d hour"
+msgid_plural "%'d hours"
+msgstr[0] "དུས་ཚོད་%'d "
+msgstr[1] "དུས་ཚོད་%'d "
+
+msgid "%'d minute"
+msgid_plural "%'d minutes"
+msgstr[0] "སྐར་མ་%'d"
+msgstr[1] "སྐར་མ་%'d"
+
+msgid "%'d second"
+msgid_plural "%'d seconds"
+msgstr[0] "སྐར་ཆ་%'d"
+msgstr[1] "སྐར་ཆ་%'d"
+
+msgid "%1$'d Piece @ %2$s"
+msgid_plural "%1$'d Pieces @ %2$s"
+msgstr[0] "%1$'d དུམ་བུ @ %2$s"
+msgstr[1] "%1$'d དུམ་བུ @ %2$s"
+
+msgid "%1$s  %2$s"
+msgstr ""
+
+msgid "%1$s %2$s  %3$s %4$s"
+msgstr ""
+
+msgid "%1$s (%2$'d piece @ %3$s)"
+msgid_plural "%1$s (%2$'d pieces @ %3$s)"
+msgstr[0] "%1$s(%2$'d དུམ་བུ @ %3$s)"
+msgstr[1] "%1$s(%2$'d དུམ་བུ @ %3$s)"
+
+msgid "%1$s (%2$'d piece)"
+msgid_plural "%1$s (%2$'d pieces)"
+msgstr[0] "%1$s(%2$'d དུམ་བུ)"
+msgstr[1] "%1$s(%2$'d དུམ་བུ)"
+
+msgid "%1$s (%2$s%% of %3$s%% Available)"
+msgstr "%1$s(%2$s%%/%3$s%% སྤྱོད་ཆོག)"
+
+msgid "%1$s (%2$s%% of %3$s%% Available); %4$s Unverified"
+msgstr "%1$s(%2$s%%/%3$s%% སྤྱོད་ཆོག)%4$s དག་བཅོས་བྱས་མེད།"
+
+msgid "%1$s (%2$s%%)"
+msgstr "%1$s(%2$s%%)"
+
+msgid "%1$s (+%2$s corrupt)"
+msgstr "%1$s(+%2$s ཆག་སྐྱོན་ཤོར།)"
+
+msgid "%1$s ago"
+msgstr "%1$s སྔོན།"
+
+msgid "%1$s of %2$s (%3$s%%)"
+msgstr "%1$s/%2$s(%3$s%%)"
+
+msgid "%1$s of %2$s (%3$s%%), uploaded %4$s (Ratio: %5$s Goal: %6$s)"
+msgstr ""
+"%1$s/%2$s(%3$s%%) ཡིས་ %4$s ཡར་སྐྱེལ་ཟིན། (མཉམ་སྤྱོད་བསྡུར་ཚད།：%5$s "
+"དམིགས་ཡུལ།：%6$s)"
+
+msgid "%1$s of %2$s (%3$s%%), uploaded %4$s (Ratio: %5$s)"
+msgstr "%1$s/%2$s(%3$s%%) ཡིས་ %4$s ཡར་སྐྱེལ་ཟིན། (མཉམ་སྤྱོད་བསྡུར་ཚད།：%5$s)"
+
+msgid "%1$s, uploaded %2$s (Ratio: %3$s Goal: %4$s)"
+msgstr ""
+"%1$s ཡིས་ %2$s ཡར་སྐྱེལ་ཟིན། (མཉམ་སྤྱོད་བསྡུར་ཚད།：%3$s དམིགས་ཡུལ།：%4$s)"
+
+msgid "%1$s, uploaded %2$s (Ratio: %3$s)"
+msgstr "%1$sཡིས་ %2$s ཡར་སྐྱེལ་ཟིན། (མཉམ་སྤྱོད་བསྡུར་ཚད།：%3$s)"
+
+msgid "%1$s; %2$'d File"
+msgid_plural "%1$s; %2$'d Files"
+msgstr[0] "%1$s ཡིག་ཆ %2$'d"
+msgstr[1] "%1$s ཡིག་ཆ %2$'d"
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+
+msgid "%s %s started"
+msgstr "%s %s མགོ་བརྩམས་ཟིན།"
+
+msgid "%s (Ratio: %s)"
+msgstr "%s། (མཉམ་སྤྱོད་ཚད།：%s)"
+
+msgid "%s - Add Tracker"
+msgstr "%s - ཡིས་ Tracker ཞབས་ཞུ་ཆས་ཁ་སྣོན།"
+
+msgid "%s - Edit Trackers"
+msgstr "%s - ཡིས་ Tracker རེའུ་མིག་རྩོམ་སྒྲིག"
+
+msgid "%s Properties"
+msgstr "%s གཏོགས་གཤིས།"
+
+msgid "%s free"
+msgstr "%s ཁོམ་ལོང་།"
+
+msgid "%s is not a valid address"
+msgstr "%s ནི་ནུས་ཡོད་ཀྱི་ཤག་གནས་མིན།"
+
+msgid "%s is not an IPv4 address. RPC listeners must be IPv4"
+msgstr "%s ནི་ IPv4 ཤག་གནས་མིན། RPC ལྐོག་ཉན་གྱིས་ངེས་པར་དུ IPv4 སྤྱོད་དགོས།"
+
+msgid "%s remaining"
+msgstr ""
+
+msgid "%s succeeded (%d)"
+msgstr "%s ལེགས་འགྲུབ། (%d)"
+
+msgid "<b>Closing Connections</b>"
+msgstr "<b>འབྲེལ་མཐུད་ཁ་རྒྱག་པ།</b>"
+
+msgid "<b>Unable to update.</b>"
+msgstr "<b>གསར་བཅོས་བྱེད་ཐབས་མེད།</b>"
+
+msgid "<b>Update succeeded!</b>"
+msgstr "<b>གསར་བཅོས་ལེགས་འགྲུབ།</b>"
+
+msgid "<i>No source selected</i>"
+msgstr "<i>ཁུངས་འདེམས་མེད།</i>"
+
+msgid "<i>Testing TCP port…</i>"
+msgstr "<i> ཡིས་ TCP སྣེ་ཁ་ཚོད་ལྟ་བྱེད་བཞིན་པ།...</i>"
+
+msgid "A fast and easy BitTorrent client"
+msgstr "མགྱོགས་ཤིང་སྤྱོད་བདེ་བའི BitTorrent མཁོ་མཁན་ཞིག"
+
+msgid "Active"
+msgstr "འགུལ་སྟངས།"
+
+msgid "Active now"
+msgstr "མིག་སྔའི་ལས་འགུལ།"
+
+msgid "Activity"
+msgstr "བྱེད་སྒོ།"
+
+msgid "Address"
+msgstr "ཤག་གནས།ས་གནས།"
+
+msgid "Addresses:"
+msgstr "ཤག་གནས།："
+
+msgid "All"
+msgstr ""
+
+msgid "All files"
+msgstr "ཡིག་ཆ་ཚང་མ།"
+
+msgid "Allow _remote access"
+msgstr "རྒྱང་རིང་ཚོད་འཛིན་ཆོག་པ།(_R)"
+
+msgid "Allow encryption"
+msgstr "གསང་སྡོམ་ཆོག་པ།"
+
+msgid "Allowing desktop hibernation"
+msgstr "ཅོག་ངོས་ངལ་གསོ་ཆོག་པ།"
+
+msgid "Alternative Speed Limits"
+msgstr "སྐབས་འཕྲལ་མྱུར་ཚད་ཚོད་འཛིན།"
+
+msgid "Append \"._part\" to incomplete files' names"
+msgstr ""
+
+msgid "Ask Tracker for _More Peers"
+msgstr "Traker ལ་སྔར་ལས་མང་བའི་ཚིགས་ཚེག་རེ་ཞུ་བྱེད་པ། (_M)"
+
+msgid "Asking for more peers in %s"
+msgstr "%s ནས་སྔར་ལས་མང་བའི་ཚིགས་ཚེག་རེ་ཞུ་བྱེད་པ།"
+
+msgid "Asking for more peers now… <small>%s</small>"
+msgstr "སྔར་ལས་མང་བའི་ཚིགས་ཚེག་རེ་ཞུ་བྱེད་བཞིན་པ།... <small>%s</small>"
+
+msgid "Asking for peer counts in %s"
+msgstr "%s ཡི་རྗེས་ནས་ཚིགས་ཚེག་ཁ་གྲངས་འདྲི་རྩད་བྱེད་པ།"
+
+msgid "Asking for peer counts now… <small>%s</small>"
+msgstr "ཚིགས་ཚེག་ཁ་གྲངས་རེ་ཞུ་བྱེད་བཞིན་པ།... <small>%s</small>"
+
+msgid "Automatically add .torrent files _from:"
+msgstr "འབྱུང་ཁུངས་འདི་ནས་ .torrent ཡིག་ཆ་རང་འགུལ་ཁུར་སྣོན་བྱེད་པ། (_F)："
+
+msgid "BitTorrent Client"
+msgstr "BitTorrent མཁོ་མཁན།"
+
+msgid "Blocklist"
+msgstr "འཚག་པའི་རེའུ་མིག"
+
+msgid "Blocklist \"%s\" contains %"
+msgstr ""
+
+msgid "Blocklist \"%s\" updated with %"
+msgstr ""
+
+msgid "Blocklist contains %'d rule"
+msgid_plural "Blocklist contains %'d rules"
+msgstr[0] "སྒྲིབ་པའི་རེའུ་མིག་ཏུ་སྒྲིག་སྲོལ་ %'d འདུ་བ།"
+msgstr[1] "སྒྲིབ་པའི་རེའུ་མིག་ཏུ་སྒྲིག་སྲོལ་ %'d འདུ་བ།"
+
+msgid "Blocklist has %'d rule."
+msgid_plural "Blocklist has %'d rules."
+msgstr[0] "སྒྲིབ་པའི་རེའུ་མིག་ཏུ་སྒྲིག་སྲོལ་ %'d ཡོད།"
+msgstr[1] "སྒྲིབ་པའི་རེའུ་མིག་ཏུ་སྒྲིག་སྲོལ་ %'d ཡོད།"
+
+msgid "Call scrip_t when torrent is completed:"
+msgstr "ས་བོན་ལེགས་འགྲུབ་མ་བྱུང་ཚེ་འཁྲབ་གཞུང་ལག་བསྟར་བྱོས། (_T)："
+
+msgid "Cancelled"
+msgstr "ལེན་པ།"
+
+msgid ""
+"Click to disable Alternative Speed Limits\n"
+" (%1$s down, %2$s up)"
+msgstr ""
+
+msgid ""
+"Click to enable Alternative Speed Limits\n"
+" (%1$s down, %2$s up)"
+msgstr ""
+
+msgid "Client"
+msgstr "མཁོ་མཁན།"
+
+msgid "Co_mment:"
+msgstr "མཆན་འགྲེལ།(_M)："
+
+msgid "Comment:"
+msgstr "མཆན་འགྲེལ།："
+
+msgid "Complete"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Connection failed"
+msgstr "འབྲེལ་མཐུད་ཕམ་པ།"
+
+msgid "Copy _Magnet Link to Clipboard"
+msgstr "འདྲ་ཕབ _Magnet དྲས་སྦྱར་པར་གཞི་རུ་འབྲེལ་མཐུད་བྱེད་པ།"
+
+msgid "Copyright (c) The Transmission Project"
+msgstr "པར་དབང་། (C) Transmission ལས་གཞི།"
+
+msgid "Could not connect to tracker"
+msgstr "tracker འབྲེལ་མཐུད་བྱེད་ཐབས་མེད།"
+
+msgid "Couldn't add corrupt torrent"
+msgid_plural "Couldn't add corrupt torrents"
+msgstr[0] "གཏོར་སྐྱོན་ཐེབས་པའི་ས་བོན་ཁ་སྣོན་ཐབས་མེད།"
+msgstr[1] "གཏོར་སྐྱོན་ཐེབས་པའི་ས་བོན་ཁ་སྣོན་ཐབས་མེད།"
+
+msgid "Couldn't add duplicate torrent"
+msgid_plural "Couldn't add duplicate torrents"
+msgstr[0] "བསྐྱར་ཟློས་ཀྱི་ས་བོན་ཁ་སྣོན་ཐབས་མེད།"
+msgstr[1] "བསྐྱར་ཟློས་ཀྱི་ས་བོན་ཁ་སྣོན་ཐབས་མེད།"
+
+msgid "Couldn't bind port %d on %s: %s"
+msgstr "སྣེ་ཁ %d[%s]བསྡམས་བཅད་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Couldn't bind port %d on %s: %s (%s)"
+msgstr "སྣེ་ཁ %d[%s]བསྡམས་བཅད་བྱེད་ཐབས་མེད།：%s། (%s)"
+
+msgid "Couldn't connect socket %d to %s, port %d (errno %d - %s)"
+msgstr ""
+"འབྲེལ་འཛུགས་ཡི་གེ %d དེ་ %sལ་འབྲེལ་མཐུད་བྱེད་ཐབས་མེད། སྣེ་ཁ %d། (ནོར་འཁྲུལ "
+"%d - %s)"
+
+msgid "Couldn't create \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't create socket: %s"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ་གསར་འཛུགས་བྱེད་ཐབས་མེད།: %s"
+
+msgid "Couldn't find settings key \"%s\""
+msgstr ""
+
+msgid "Couldn't inhibit desktop hibernation: %s"
+msgstr "ཅོག་ངོས་ངལ་གསོ་འགོག་ཐབས་མེད།：%s"
+
+msgid "Couldn't move torrent"
+msgstr "ས་བོན་སྒུལ་སྤོ་བྱེད་ཐབས་མེད།"
+
+msgid "Couldn't open \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't read \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't read \"%s\": %s"
+msgstr ""
+
+msgid "Couldn't save \"%s\""
+msgstr ""
+
+msgid "Couldn't save file \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't save temporary file \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't set source address %s on %d: %s"
+msgstr "%2$d ཡི་སྟེང་དུ་ཁུངས་ཤག་གནས %1$s སྒྲིག་འགོད་བྱེད་ཐབས་མེད།：%3$s"
+
+msgid "Couldn't truncate \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Create a torrent"
+msgstr "ས་བོན་ཞིག་གསར་འཛུགས་བྱེད་པ།"
+
+msgid "Created \"%s\"!"
+msgstr ""
+
+msgid "Created by %1$s"
+msgstr "གསར་འཛུགས་པ།：%1$s"
+
+msgid "Created by %1$s on %2$s"
+msgstr "%1$s ནས་  %2$s གསར་འཛུགས་བྱེད་པ།"
+
+msgid "Created on %1$s"
+msgstr "གསར་འཛུགས་དུས་ཚོད།：%1$s"
+
+msgid "Creating \"%s\""
+msgstr ""
+
+msgid "Creating torrent…"
+msgstr "ས་བོན་གསར་འཛུགས་བྱེད་བཞིན་པ། ..."
+
+msgid "Current Session"
+msgstr "མིག་སྔའི་གཏམ་གླེང་།"
+
+msgid "DHT is a tool for finding peers without a tracker."
+msgstr "DHT ནི་ Tracker འཚོལ་ཞིབ་ཚིགས་ཚེག་མི་རྒྱུད་པའི་ལག་ཆ་ཡིན།"
+
+msgid "DNS Lookup failed: %s"
+msgstr "DNS འཚོལ་ཞིབ་ཕམ་པ།：%s"
+
+msgid "Debug"
+msgstr "ཚོད་སྒྲིག"
+
+msgid "Delete this torrent's downloaded files?"
+msgid_plural "Delete these %d torrents' downloaded files?"
+msgstr[0] "ས་བོན་ %d འདི་དང་ཁ་གཏད་པའི་ཕབ་ཟིན་ཡིག་ཆ་བསུབ་བམ།"
+msgstr[1] "ས་བོན་ %d འདི་དང་ཁ་གཏད་པའི་ཕབ་ཟིན་ཡིག་ཆ་བསུབ་བམ།"
+
+msgid "Dese_lect All"
+msgstr "ཚང་མ་མི་འདེམས།(_L)"
+
+msgid "Desktop"
+msgstr "ཅོག་ངོས།"
+
+msgid "Details"
+msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+
+msgid "Dn Blocks"
+msgstr "ཕབ་དུམ།"
+
+msgid "Dn Reqs"
+msgstr "ཕྲེད་སྟར་ཞོལ་མའི་རེ་ཞུ།"
+
+msgid "Do_wnload (%s):"
+msgstr "མར་ཕབ་པ། (%s)(_W)："
+
+msgid "Done"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Down"
+msgstr "འོག"
+
+msgid "Down: %1$s, Up: %2$s"
+msgstr "མར་ཕབ་པ།:%1$s  ཡར་སྐྱེལ་བ།：%2$s"
+
+msgid "Download"
+msgstr "ཕབ་ལེན།"
+
+msgid "Download Queue"
+msgstr "རུ་སྟར་ཕབ་ལེན།"
+
+msgid "Download and share files over BitTorrent"
+msgstr ""
+
+msgid "Downloaded:"
+msgstr "རྒྱུད་གཏོང་བྱས་ཟིན།："
+
+msgid "Downloading from %1$'d %2$s"
+msgstr "%1$'d ནས་ %2$s ཕབ་ལེན།"
+
+msgid "Downloading from %1$'d of %2$'d %3$s"
+msgstr " %1$'d ནས་། (བསྡོམས་པས  %2$'d )%3$sཕབ་ལེན།"
+
+msgid "Downloading from %1$'d of %2$'d %3$s and %4$'d %5$s"
+msgstr "%2$'d ནས་། (བསྡོམས་པས  %1$'d )%3$s དང་ %4$'d  %5$s ཕབ་ལེན།"
+
+msgid "Downloading from this peer"
+msgstr "ཚིགས་ཚེག་འདི་ནས་ཕབ་ལེན་བྱེད་པ།"
+
+msgid "Downloading metadata from %1$'d %2$s (%3$d%% done)"
+msgstr "%1$'d ནས་ %2$s རྒྱུའི་གཞི་གྲངས་ཕབ་ལེན། ( %3$d%% ལེགས་འགྲུབ་བྱུང་ཟིན།)"
+
+msgid "Downloads sharing data in the last _N minutes are active:"
+msgstr "ཉེ་ཆར་སྐར་མ _N མཉམ་སྤྱོད་གཞི་གྲངས་མང་བའི་ཕབ་ལེན།："
+
+msgid "Duration:"
+msgstr ""
+
+msgid "Enable Alternative Speed _Limits"
+msgstr "མྱུར་ཚད་མང་པོའི་ཚད་བཀག་སྤྱོད་འགོ་རྩོམ་པ། (_L)"
+
+msgid "Enable _automatic updates"
+msgstr "རང་འགུལ་གསར་བཅོས་སྤྱོད་འགོ་རྩོམ་པ། (_A)"
+
+msgid "Enable _blocklist:"
+msgstr "འཚག་པའི་རེའུ་མིག་སྤྱོད་འགོ་རྩོམ་པ། (_B)："
+
+msgid "Enable _uTP for peer communication"
+msgstr "ཚིགས་ཚེག་ལ་སྤྱོད་འགོ་རྩོམ་པ་འབྲེལ་མཐུད་བྱེད་པ། µTP"
+
+msgid "Encrypted connection"
+msgstr "གསང་སྡོམ་འབྲེལ་མཐུད།"
+
+msgid "Error"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "Error opening \"%s\""
+msgstr ""
+
+msgid "Error opening torrent"
+msgstr "ས་བོན་ཡིག་ཆ་ཁ་ཕྱེ་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error reading \"%s\": %s"
+msgstr ""
+
+msgid "Error registering Transmission as a %s handler: %s"
+msgstr ""
+"Transmission དེ་ %s "
+"ཡི་སྒྲིག་གཅོད་བྱ་རིམ་ཐོ་འགོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།：%s"
+
+msgid "Error uncompressing blocklist: %s (%d)"
+msgstr "དུམ་བུའི་རེའུ་མིག་བསྡུས་གྲོལ་ནོར་འཁྲུལ།：%s(%d)"
+
+msgid "Error writing \"%s\": %s"
+msgstr ""
+
+msgid "Error:"
+msgstr "ནོར་འཁྲུལ།："
+
+msgid "Error: %s"
+msgstr "ནོར་འཁྲུལ། %s"
+
+msgid "Error: invalid announce URL \"%s\""
+msgstr ""
+
+msgid "Every Day"
+msgstr "ཉིན་རེར།"
+
+msgid "File \"%s\" is in the way"
+msgstr ""
+
+msgid "File listing not available for combined torrent properties"
+msgstr ""
+"ས་བོན་ཡིག་ཆ་མང་པོའི་གཏོགས་གཤིས་ལ་ཡིག་ཆའི་རེའུ་མིག་མངོན་པར་བྱེད་མི་ཐུབ།"
+
+msgid "Files"
+msgstr "ཡིག་ཆ།"
+
+msgid "Finished"
+msgstr "ལེགས་འགྲུབ་པ།"
+
+msgid "Flags"
+msgstr "རྟགས་མཚན།"
+
+msgid "Forwarded"
+msgstr "བརྒྱུད་སྐུར་བྱས་པ།"
+
+msgid "Found Internet Gateway Device \"%s\""
+msgstr ""
+
+msgid "Found public address \"%s\""
+msgstr ""
+
+msgid "Friday"
+msgstr "པ་སངས།"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GB/s"
+msgstr "GB/s"
+
+msgid "Adding"
+msgstr "སྣོན་པ།ཁ་སྣོན་བྱེད་བཞིན་པ།"
+
+msgid "Downloading"
+msgstr "ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Seeding"
+msgstr "སོན་འདེབས་པ།"
+
+msgid "Getting new blocklist…"
+msgstr "སྒྲིབ་ཡོལ་རེའུ་མིག་གསར་པ་ཐོབ་བཞིན་པ།..."
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "Got a list of %1$s%2$'d peers%3$s %4$s ago"
+msgstr ""
+"%3$s %4$s ཡི་སྔོན་ལ་ཚིགས་ཚེག %1$s%2$'d བཀལ་ཡོད་པའི་གསལ་ཐོ་ཐོབ་ཡོད་པ་ཡིན།"
+
+msgid "Got a scrape error \"%s%s%s\" %s ago"
+msgstr ""
+
+msgid "Got an error %1$s\"%2$s\"%3$s %4$s ago"
+msgstr ""
+
+msgid ""
+"Got signal %d; trying to shut down cleanly. Do it again if it gets stuck."
+msgstr ""
+"བརྡ་རྟགས %d འབྱོར་པས་རྒྱུན་ལྡན་གྱིས་ཕྱིར་འབུད་ཚོད་བྱེད་རོགས། "
+"གལ་ཏེ་རྒྱལ་ཁའི་ངང་སྒོ་རྒྱག་མ་ཐུབ་ཚེ་ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས།"
+
+msgid "HTTP _port:"
+msgstr "HTTP སྣེ་ཁ།(_P)："
+
+msgid "Hash:"
+msgstr "ཐོར་སྒྲིག་གྲངས་ཐང་།"
+
+msgid "Have"
+msgstr "ཕབ་ལེན་བྱས་ཟིན།"
+
+msgid "Have:"
+msgstr "ཕབ་ལེན་བྱས་ཟིན།："
+
+msgid "High"
+msgstr "མཐོ།"
+
+msgid "Honor global _limits"
+msgstr "ཁྱོན་ཡོངས་ཀྱི་ཚད་བཀག་ལ་བསྟུན་པ། (_L)"
+
+msgid "I _Agree"
+msgstr "ངས་དང་ལེན། (_A)"
+
+msgid "IP addresses may use wildcards, such as 192.168.*.*"
+msgstr "སྡེབ་རྟགས་སྤྱད་ནས IP ཤག་གནས་མཚོན་ཆོག་སྟེ་དཔེར་ན་ 192.168.*.*"
+
+msgid "Idle"
+msgstr "ཁོམ་པ།"
+
+msgid "Incomplete"
+msgstr "ལེགས་འགྲུབ་བྱུང་མེད་པ།"
+
+msgid "Information"
+msgstr "གསལ་བརྡ།"
+
+msgid "Inhibiting desktop hibernation"
+msgstr "ཅོག་ངོས་ངལ་གསོ་བཀག་འགོག"
+
+msgid "Invalid metadata"
+msgstr "ནུས་མེད་ཀྱི་རྒྱུའི་གཞི་གྲངས།"
+
+msgid "Invalid metadata entry \"%s\""
+msgstr ""
+
+msgid "Is another copy of Transmission already running?"
+msgstr "Transmissionདངོས་དཔེ་གཞན་པ་ཞིག་འཁོར་སྐྱོད་བྱེད་བཞིན་ཡོད་དམ།"
+
+msgid "Keep _incomplete torrents in:"
+msgstr "ལེགས་འགྲུབ་བྱུང་མེད་པའི་ས་བོན་ཉར་ཚགས་བྱེད་པ།(_I)："
+
+msgid "KiB"
+msgstr "KB"
+
+msgid "LPD is a tool for finding peers on your local network."
+msgstr "LDP ནི་རང་སའི་དྲ་རྒྱ་རུ་ཚིགས་ཚེག་འཚོལ་བར་སྤྱོད་པའི་ལག་ཆ་ཡིན།"
+
+msgid "Last activity:"
+msgstr "མཇུག་མཐའི་ལས་འགུལ།："
+
+msgid "Level"
+msgstr "རིམ་པ།"
+
+msgid "Limit Download Speed"
+msgstr "ཕབ་ལེན་མྱུར་ཚད་ཚོད་འཛིན།"
+
+msgid "Limit Upload Speed"
+msgstr "བརྒྱུད་སྤྲོད་མྱུར་ཚད་ཚོད་འཛིན།"
+
+msgid "Limit _download speed (%s):"
+msgstr "ཕབ་ལེན་མྱུར་ཚད་ཚོད་འཛིན།(_D)(%s)："
+
+msgid "Limit _upload speed (%s):"
+msgstr "ཡར་སྤྲོད་མྱུར་ཚད་ཚོད་འཛིན།(_U)(%s)："
+
+msgid "Limits"
+msgstr "མྱུར་ཚད་ཚོད་འཛིན།"
+
+msgid "List contains invalid URLs"
+msgstr "རེའུ་མིག་ཏུ་ནུས་མེད་ཀྱི་ URL འདུས་ཡོད།"
+
+msgid "Listening Port"
+msgstr "ཕག་ཉན་མཐུད་ཁ།"
+
+msgid "Loaded %d torrents"
+msgstr "ས་བོན་ %d འགེལ་འཇུག་བྱས་པ།"
+
+msgid "Local Address is \"%s\""
+msgstr ""
+
+msgid "Local data is _already there"
+msgstr "རང་སའི་གཞི་གྲངས་གནས་ཟིན། (_A)"
+
+msgid "Location"
+msgstr "གནས་ས།"
+
+msgid "Location:"
+msgstr "གནས་ས་"
+
+msgid "Low"
+msgstr "དམའ།"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MB/s"
+msgstr ""
+
+msgid "Ma_ximum active downloads:"
+msgstr "དུས་གཅིག་ཏུ་ཆེས་མང་ན་ཕབ་ལེན་བྱས་ཆོག་པ།(_X)།："
+
+msgid "Magnet torrent's metadata is not usable"
+msgstr "སྡུད་ཤུགས་ས་བོན་གྱི་རྒྱུའི་གཞི་གྲངས་སྤྱོད་མི་ཆོག"
+
+msgid "Maximum peers _overall:"
+msgstr "ཁྱོན་ཡོངས་ཀྱི་ཚིགས་ཚེག་ཆེས་ཆེ་བའི་ཁ་གྲངས། (_O)："
+
+msgid "Maximum peers per _torrent:"
+msgstr "ས་བོན་རྐྱང་མའི་ཚིགས་ཚེག་ཆེས་ཆེ་བའི་ཁ་གྲངས། (_T)："
+
+msgid "Memory allocation failed"
+msgstr "ནང་གསོག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Message"
+msgstr "བརྡ་འཕྲིན།"
+
+msgid "Message Log"
+msgstr "Messageཉིན་ཐོ།"
+
+msgid "Message _Log"
+msgstr "བརྡ་འཕྲིན་ཉིན་ཐོ། (_L)"
+
+msgid "MiB"
+msgstr ""
+
+msgid "Mixed"
+msgstr "མཉམ་བསྲེས།"
+
+msgid "Mo_ve .torrent file to the trash"
+msgstr "ཡིག་ཆ .torrent སྙིགས་སྒམ་རུ་སྤོ་བ། (_V)"
+
+msgid "Monday"
+msgstr "གཟའ་ཟླ་བ།"
+
+msgid "Move _Down"
+msgstr "ཐུར་དུ་སྤོ་བ། (_D)"
+
+msgid "Move _Up"
+msgstr "གོང་སྣུར།(_U)"
+
+msgid "Move to _Bottom"
+msgstr "ཞབས་ཆ་རུ་སྤོ་བ། (_B)"
+
+msgid "Move to _Top"
+msgstr "སྟེང་ཆ་རུ་སྤོ་བ། (_T)"
+
+msgid "Moving \"%s\""
+msgstr ""
+
+msgid "N/A"
+msgstr "མི་འཚམ།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Network"
+msgstr "དྲ་བ།"
+
+msgid "Never"
+msgstr "གཏན་ནས་མི་བྱེད།"
+
+msgid "New Torrent"
+msgstr "ས་བོན་གསར་འཛུགས།"
+
+msgid "No Torrents Selected"
+msgstr "ས་བོན་འདེམས་མེད།"
+
+msgid ""
+"No data found! Ensure your drives are connected or use \"Set Location\". To "
+"re-download, remove the torrent and re-add it."
+msgstr ""
+
+msgid "No errors"
+msgstr "ནོར་འཁྲུལ་མེད།"
+
+msgid "No source selected"
+msgstr "ཁུངས་འདེམས་མེད།"
+
+msgid "No updates scheduled"
+msgstr "གསར་འཛུགས་འཆར་གཞི་མེད།"
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "Normal"
+msgstr "སྤྱིར་བཏང་།"
+
+msgid "Not a regular file"
+msgstr "སྤྱིར་བཏང་གི་ཡིག་ཆ་མིན་པ།"
+
+msgid "Not forwarded"
+msgstr "བརྒྱུད་སྐུར་བྱས་མེད།"
+
+msgid "Notification"
+msgstr "བརྡ་ཐོ།"
+
+msgid ""
+"Once removed, continuing the transfer will require the torrent file or "
+"magnet link."
+msgid_plural ""
+"Once removed, continuing the transfers will require the torrent files or "
+"magnet links."
+msgstr[0] ""
+"གལ་ཏེ་བསུབ་པས་ན་ས་བོན་ཡིག་ཆའམ་སྡུད་ཤུགས་འབྲེལ་མཐུད་མུ་མཐུད་དུ་རྒྱུད་གཏོང་བྱེད་དགོས།"
+msgstr[1] ""
+"གལ་ཏེ་བསུབ་པས་ན་ས་བོན་ཡིག་ཆའམ་སྡུད་ཤུགས་འབྲེལ་མཐུད་མུ་མཐུད་དུ་རྒྱུད་གཏོང་བྱེད་དགོས།"
+
+msgid "One of these torrents has not finished downloading."
+msgid_plural "Some of these torrents have not finished downloading."
+msgstr[0] "ས་བོན་ཞིག་ད་དུང་ཕབ་ལེན་བྱས་ཚར་མེད།"
+msgstr[1] "ས་བོན་ཞིག་ད་དུང་ཕབ་ལེན་བྱས་ཚར་མེད།"
+
+msgid "One of these torrents is connected to peers."
+msgid_plural "Some of these torrents are connected to peers."
+msgstr[0] "ས་བོན་ཞིག་ཚིགས་ཚེག་གཞན་ལ་འབྲེལ་མཐུད་བྱས་ཟིན།"
+msgstr[1] "ས་བོན་ཞིག་ཚིགས་ཚེག་གཞན་ལ་འབྲེལ་མཐུད་བྱས་ཟིན།"
+
+msgid "Only allow these IP a_ddresses:"
+msgstr "གཤམ་གསལ་ IP ཤག་གནས་ཁོ་ན་རུང་བ།："
+
+msgid "Open File"
+msgstr "ཡིག་ཆ་ཁ་འབྱེད།"
+
+msgid "Open Fold_er"
+msgstr "ཡིག་ཆའི་ཁུག་མ་ཁ་ཕྱེ། (_E)"
+
+msgid "Open Folder"
+msgstr "ཡིག་ཁུག་ཁ་འབྱེད་བ།"
+
+msgid "Open URL"
+msgstr "URLཁ་ཕྱེ་བ།"
+
+msgid "Open URL…"
+msgstr ""
+
+msgid "Open _URL…"
+msgstr " _URL ཁ་ཕྱེ།..."
+
+msgid "Open a Torrent"
+msgstr "ས་བོན་ཞིག་ཁ་ཕྱེ།"
+
+msgid "Open a torrent"
+msgstr "ས་བོན་ཞིག་ཁ་ཕྱེ།"
+
+msgid "Open torrent from URL"
+msgstr "URL ནས་ས་བོན་ཁ་ཕྱེ།"
+
+msgid "Optimistic unchoke"
+msgstr "སྤྲོ་སྣང་སྒྲོག་གྲོལ།"
+
+msgid "Options"
+msgstr "འདེམས་ཚན།"
+
+msgid "Origin:"
+msgstr "ཡོང་ཁུངས།："
+
+msgid "Override normal speed limits manually or at scheduled times"
+msgstr ""
+"རྒྱུན་ལྡན་མྱུར་ཚད་བཀག་འགོག་སྒྲིག་འགོད་ལག་སྒུལ་ལམ་ཡང་ན་དུས་བཅད་ལྟར་འགེབས་པ།"
+
+msgid ""
+"PEX is a tool for exchanging peer lists with the peers you're connected to."
+msgstr ""
+"PEX "
+"ནི་ཁྱེད་དང་འབྲེལ་མཐུད་བྱས་ཟིན་པའི་ཚིགས་ཚེག་བརྗེ་རེས་ཚིགས་ཚེག་མིང་ཐོ་ལ་སྤྱོད་པའི་ལག་ཆ་ཡིན།"
+
+msgid "Pass_word:"
+msgstr "གསང་ཨང་། (_W)："
+
+msgid "Password required"
+msgstr "གསང་ཨང་དགོས།"
+
+msgid "Pause all torrents"
+msgstr "ས་བོན་ལས་འགན་ཚང་མ་སྐབས་འཇོག"
+
+msgid "Pause torrent"
+msgstr "ས་བོན་ལས་འགན་སྐབས་འཇོག"
+
+msgid "Paused"
+msgstr "སྐབས་འཇོག"
+
+msgid "Peer Connections"
+msgstr "ཚིགས་ཚེག་འབྲེལ་མཐུད།"
+
+msgid "Peer Limits"
+msgstr "ཚིགས་ཚེག་བཀག་འགོག"
+
+msgid "Peer has unchoked us, but we're not interested"
+msgstr "ཕ་རོལ་བས་ང་ཚོར་སྒྲོག་གྲོལ་ཟིན་མོད་འོན་ཀྱང་ང་ཚོར་དགའ་སྣང་མེད།"
+
+msgid "Peer is an incoming connection"
+msgstr "ཚིགས་ཚེག་དེའི་བར་གྱི་འབྲེལ་མཐུད་ནི་ཚིགས་འཛུལ་འབྲེལ་མཐུད་ཡིན།"
+
+msgid "Peer is connected over µTP"
+msgstr "µTP གྲོས་ཆིངས་རྒྱུད་ནས་ཚིགས་ཚེག་ཏུ་འབྲེལ་མཐུད་བྱེད་པ།"
+
+msgid "Peer list request %1$stimed out%2$s %3$s ago; will retry"
+msgstr ""
+"ཚིགས་ཚེག་རེའུ་མིག་རེ་ཞུ %3$s ཡི་སྔོན་དུ་ %1$s དུས་ "
+"%2$sབརྒལ་ཟིན་པས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་ངེས།"
+
+msgid "Peer was found through DHT"
+msgstr "DHT རྒྱུད་ནས་རྙེད་པའི་ཚིགས་ཚེག"
+
+msgid "Peer was found through Peer Exchange (PEX)"
+msgstr "PEX ཁུངས་བརྗེ་རེས་རྒྱུད་ནས་རྙེད་པའི་ཚིགས་ཚེག"
+
+msgid "Peers"
+msgstr "ཚིགས་ཚེག"
+
+msgid "Pick a _random port every time Transmission is started"
+msgstr "Transmission འགོ་སློང་སྐབས་དུས་བསྟུན་གྱིས་སྣེ་ཁ་འདེམ་པ། (R)"
+
+msgid "Play a _sound when torrents finish"
+msgstr "ས་བོན་ལེགས་འགྲུབ་བྱུང་རྗེས་སྒྲ་གཏོང་པ། (_S)"
+
+msgid "Please Verify Local Data! Piece #%"
+msgstr "རང་སའི་གཞི་གྲངས་ཞིབ་བཤེར་བྱེད་རོགས། དུམ་བུ #%"
+
+msgid "Please correct the errors and try again."
+msgstr "ནོར་འཁྲུལ་བཅོས་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་རོགས།"
+
+msgid "Port %d forwarded successfully"
+msgstr "སྣེ་ཁ %d རྒྱལ་ཁའི་ངང་བརྒྱུད་སྐུར་བྱས་པ།"
+
+msgid "Port %d isn't forwarded"
+msgstr "སྣེ་ཁ %d བརྒྱུད་སྐུར་བྱས་མེད།"
+
+msgid "Port Forwarding"
+msgstr ""
+
+msgid "Port Forwarding (NAT-PMP)"
+msgstr "སྣེ་ཁ་བརྒྱུད་སྐུར།(NAT-PMP)"
+
+msgid "Port Forwarding (UPnP)"
+msgstr "སྣེ་ཁ་བརྒྱུད་སྐུར། (UPnP)"
+
+msgid "Port forwarding successful!"
+msgstr "སྣེ་ཁ་བརྒྱུད་སྐུར་ལེགས་འགྲུབ།"
+
+msgid "Port forwarding through \"%s\", service \"%s\". (local address: %s:%d)"
+msgstr ""
+
+msgid "Port is <b>closed</b>"
+msgstr "སྣེ་ཁ <b>ཁ་རྒྱབ་ཟིན། </b>"
+
+msgid "Port is <b>open</b>"
+msgstr "སྣེ་ཁ<b>ཁ་ཕྱེ་ཟིན། </b>"
+
+msgid "Prefer encryption"
+msgstr "གསང་སྡོམ་ཐོག་མར་སྤྱོད་པ།"
+
+msgid "Present Main Window"
+msgstr "སྒེའུ་ཁུང་གཙོ་བོ་མངོན་པ།"
+
+msgid "Priority"
+msgstr "སྔོན་ཐོབ་རིམ་པ།"
+
+msgid "Privacy"
+msgstr "གསང་བ།"
+
+msgid "Privacy:"
+msgstr "རིགས་གྲས།："
+
+msgid "Private to this tracker -- DHT and PEX disabled"
+msgstr ""
+"མིག་སྔའི Tracker སྒྲིག་འགོད་ནི་སྒེར་ཡོད་ཡིན། --  DHT དང་ PEX "
+"འགོག་སྤྱོད་བྱས་ཟིན།"
+
+msgid "Properties"
+msgstr "གཏོགས་གཤིས།"
+
+msgid "Public torrent"
+msgstr "སྤྱི་བའི་ས་བོན།"
+
+msgid "Queued for download"
+msgstr "རུ་གྲལ་ཕབ་ལེན་དུ་ཞུགས་ཟིན།"
+
+msgid "Queued for seeding"
+msgstr "རུ་གྲལ་ས་བོན་བཟོ་བ་རུ་ཞུགས་ཟིན།"
+
+msgid "Queued for verification"
+msgstr "རུ་གྲལ་དག་བཤེར་དུ་ཞུགས་ཟིན།"
+
+msgid "Queued to ask for more peers"
+msgstr "དེ་བས་མང་པའི་ཚིགས་ཚེག་རེ་ཞུ་སྟ་གོན་བྱས་ཟིན།"
+
+msgid "Queued to ask for peer counts"
+msgstr "ཚིགས་ཚེག་ཁ་གྲངས་འདྲི་རྩད་སྟ་གོན་བྱས་ཟིན།"
+
+msgid "Ratio:"
+msgstr ""
+
+msgid "Ratio: %s"
+msgstr "བསྡུར་ཚད་མཉམ་སྤྱོད།: %s"
+
+msgid "Re_verse Sort Order"
+msgstr "རིམ་ལྡོག་སྟར་སྒྲིག (_V)"
+
+msgid "Remaining time unknown"
+msgstr "དུས་ཚོད་ལྷག་མ་ངེས་མེད།"
+
+msgid "Remaining time:"
+msgstr "དུས་ཚོད་ལྷག་མ།："
+
+msgid "Remote"
+msgstr "རྒྱང་རིང་འདྲེན་སྤྱོད།"
+
+msgid "Remote Control"
+msgstr "རྒྱང་རིང་ཚོད་འཛིན།"
+
+msgid "Remove torrent"
+msgstr "ས་བོན་བསུབ་པ།"
+
+msgid "Remove torrent?"
+msgid_plural "Remove %d torrents?"
+msgstr[0] "ས་བོན %d བསུབ་བམ།"
+msgstr[1] "ས་བོན %d བསུབ་བམ།"
+
+msgid "Removing torrent"
+msgstr "ས་བོན་བསུབ་བཞིན་པ།"
+
+msgid "Require encryption"
+msgstr "གསང་སྡོམ་བྱེད་དགོས།"
+
+msgid "Reset your statistics?"
+msgstr "ཁྱེད་ཀྱི་བསྡོམས་རྩིས་ཆ་འཕྲིན་བསྐྱར་འགོད་བྱེད་དམ།"
+
+msgid "Restarted manually -- disabling its seed ratio"
+msgstr ""
+"ལག་པས་བསྐྱར་སློང་། -- ས་བོན་བཟོ་བ་བསྡུར་ཚད་ཚོད་འཛིན་འགོག་སྤྱོད་བྱས་ཟིན།"
+
+msgid "Running time:"
+msgstr "འཁོར་སྐྱོད་དུས་ཚོད།："
+
+msgid "Sa_ve to:"
+msgstr "ལ་ཉར་ཚགས་བྱེད་པ།(_V)："
+
+msgid "Saturday"
+msgstr "གཟའ་སྤེན་པ།"
+
+msgid "Save Log"
+msgstr "ཉིན་ཐོ་ཉར་ཚགས།"
+
+msgid "Save to _Location:"
+msgstr "གནས་ས་རུ་ཉར་ཚགས་བྱེད་པ། (_L)："
+
+msgid "Saved \"%s\""
+msgstr ""
+
+msgid "Scanned %s"
+msgstr "%s བཤར་འབེབས་བྱས་ཟིན།"
+
+msgid "Searching for web interface file \"%s\""
+msgstr ""
+
+msgid "Seed Forever"
+msgstr "རྒྱུན་པར་ས་བོན་བཟོ་བ།"
+
+msgid "Seed regardless of activity"
+msgstr "འཁྲུག་ཆ་དོད་པའི་ས་བོན་བཟོ་བ་སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "Seed regardless of ratio"
+msgstr "བསྡུར་ཚད་ས་བོན་བཟོ་བ་སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "Seeding Limits"
+msgstr "ས་བོན་བཟོ་བ་ཚོད་འཛིན།"
+
+msgid "Seeding to %1$'d of %2$'d connected peer"
+msgid_plural "Seeding to %1$'d of %2$'d connected peers"
+msgstr[0] ""
+"%1$'d ལ་ཕྱོགས་པ། བསྡོམས་ནས %2$'d "
+"ཚིགས་ཚེག་ས་བོན་བཟོ་བ་འབྲེལ་མཐུད་བྱས་ནས་ཡར་སྐྱེལ་ཟིན།"
+msgstr[1] ""
+"%1$'d ལ་ཕྱོགས་པ། བསྡོམས་ནས %2$'d "
+"ཚིགས་ཚེག་ས་བོན་བཟོ་བ་འབྲེལ་མཐུད་བྱས་ནས་ཡར་སྐྱེལ་ཟིན།"
+
+msgid "Select Destination Folder"
+msgstr "དམིགས་ཡུལ་ཡིག་ཆའི་ཁུག་མ་འདེམ་པ།"
+
+msgid "Select Source File"
+msgstr "ཁུངས་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select _All"
+msgstr "ཚང་མ་འདེམ་པ།(_A)"
+
+msgid "Sending upload/download totals to tracker…"
+msgstr ""
+"ཡར་སྐྱེལ/མར་ཕབ་བསྡོམས་རྩིས་ Tracker ཞབས་ཞུ་ཆས་སུ་སྐྱེལ་གཏོང་བྱེད་བཞིན་པ།..."
+
+msgid "Server returned \"%1$ld %2$s\""
+msgstr ""
+
+msgid "Serving RPC and Web requests on port 127.0.0.1:%d%s"
+msgstr "127.0.0.1:%d%s སྣེ་ཁ་རུ་ RPC དང་དྲ་ངོས་རེ་ཞུ་ཞབས་ཞུ་མཁོ་འདོན་བྱེད།"
+
+msgid "Session Ratio"
+msgstr "མིག་སྔའི་གཏམ་གླེང་མཉམ་སྤྱོད་བསྡུར་ཚད།"
+
+msgid "Session Transfer"
+msgstr "མིག་སྔའི་གཏམ་གླེང་རྒྱུད་གཏོང་ཚད།"
+
+msgid "Set Torrent Location"
+msgstr "ས་བོན་གནས་ས་སྒྲིག་འགོད།"
+
+msgid "Set _Location…"
+msgstr "གནས་ས་སྒྲིག་འགོད། (_L)..."
+
+msgid "Show Transmission icon in the _notification area"
+msgstr "བརྡ་ཐོའི་ཁུལ་དུ་ Transmission རིས་རྟགས་མངོན་པ། (_N)"
+
+msgid "Show _backup trackers"
+msgstr "གྲབས་གཤོམ་ Tracker མངོན་པ། (_B)"
+
+msgid "Show _more details"
+msgstr "ཞིབ་ཆ་དེ་བས་མང་བ། (_M)"
+
+msgid "Show _options dialog"
+msgstr "འདེམས་ཚན་གླེང་སྒྲོམ་མངོན་པ། (_O)"
+
+msgid "Show a notification when torrents _finish"
+msgstr "ས་བོན་ལེགས་འགྲུབ་བྱུང་རྗེས་བརྡ་ཐོ་མངོན་པ། (_F)"
+
+msgid "Show a notification when torrents are a_dded"
+msgstr "ས་བོན་ཁ་སྣོན་བྱས་རྗེས་བརྡ་ཐོ་མངོན་པ།(_D)\""
+
+msgid "Show the Torrent Options _dialog"
+msgstr "“ས་བོན་འདེམས་ཚན”སྒེའུ་ཁུང་མངོན་པ། (_D)"
+
+msgid "Show version number and exit"
+msgstr "པར་གཞི་མངོན་པ་དང་ཕྱིར་འབུད།"
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Skipping unknown torrent \"%s\""
+msgstr ""
+
+msgid "Sort by A_ge"
+msgstr "གནས་པའི་དུས་ཚོད་ལྟར་རུ་སྒྲིག་པ། (_G)"
+
+msgid "Sort by Rati_o"
+msgstr "མཉམ་སྤྱོད་བསྡུར་ཚད་ལྟར་རུ་སྒྲིག་པ། (_O)"
+
+msgid "Sort by Si_ze"
+msgstr "ཆེ་ཆུང་ལྟར་རུ་སྒྲིག་པ། (_Z)"
+
+msgid "Sort by Stat_e"
+msgstr "རྣམ་པ་ལྟར་རུ་སྒྲིག་པ། (_E)"
+
+msgid "Sort by Time _Left"
+msgstr "ལྷག་མའི་དུས་ཚོད་ལྟར་རུ་སྒྲིག་པ། (_L)"
+
+msgid "Sort by _Activity"
+msgstr "ལས་འགུལ་ལྟར་རུ་སྒྲིག་པ། (_A)"
+
+msgid "Sort by _Name"
+msgstr "མིང་ལྟར་རུ་སྒྲིག་པ། (_N)"
+
+msgid "Sort by _Progress"
+msgstr "མྱུར་ཚད་ལྟར་རུ་སྒྲིག་པ། (_P)"
+
+msgid "Sort by _Queue"
+msgstr "རུ་སྟར་ལྟར་རུ་སྒྲིག་པ། (_Q)"
+
+msgid "Source F_older:"
+msgstr "ཁུངས་ཡིག་ཆའི་ཁུག་མ། (_O)："
+
+msgid "Source _File:"
+msgstr "ཁུངས་ཡིག་ཆ། (_F)："
+
+msgid "Speed"
+msgstr "མྱུར་ཚད།"
+
+msgid "Speed Limits"
+msgstr "མགྱོགས་ཚད་ཚོད་འཛིན།"
+
+msgid "Stalled"
+msgstr "སྐབས་འཇོག་ཟིན་པ།"
+
+msgid "Start Transmission Minimized"
+msgstr "Transmission འགོ་སློང་སྐབས་རང་འགུལ་ཆུང་བསྒྱུར།"
+
+msgid "Start Transmission with All Torrents Paused"
+msgstr "Transmission འགོ་སློང་སྐབས་ལས་འགན་ཚང་མ་སྐབས་འཇོག་བྱེད་པ།"
+
+msgid "Start _Now"
+msgstr "ད་ལྟ་མགོ་འཛུགས། (_N)"
+
+msgid "Start all torrents"
+msgstr "ས་བོན་ལས་འགན་ཚང་མ་མགོ་རྩོམ།"
+
+msgid "Start minimized in notification area"
+msgstr "འགོ་སློང་བྱས་རྗེས་བརྡ་ཐོ་ཁུལ་དུ་ཆུང་བསྒྱུར་བྱེད་པ།"
+
+msgid "Start torrent"
+msgstr "ལས་འགན་མགོ་རྩོམ།"
+
+msgid "Start torrent now"
+msgstr "ས་བོན་ལས་འགན་ད་ལྟ་མགོ་རྩོམ།"
+
+msgid "Start with all torrents paused"
+msgstr "འགོ་སློང་སྐབས་ལས་འགན་ཚང་མ་སྐབས་འཇོག་བྱེད་པ།"
+
+msgid "Started %'d time"
+msgid_plural "Started %'d times"
+msgstr[0] "ཐེངས་ %d ལ་འགོ་སློང་ཟིན།"
+msgstr[1] "ཐེངས་ %d ལ་འགོ་སློང་ཟིན།"
+
+msgid "Starting"
+msgstr "འགོ་སློང་བཞིན་པ།"
+
+msgid "State changed from \"%1$s\" to \"%2$s\""
+msgstr ""
+
+msgid "State:"
+msgstr "རྣམ་པ།："
+
+msgid "Statistics"
+msgstr "བསྡོམས་རྩིས།"
+
+msgid "Status unknown"
+msgstr "རྣམ་པ་ངེས་མེད།"
+
+msgid "Stop Seeding at Ratio"
+msgstr "བསྡུར་ཚད་ལ་སླེབས་རྗེས་སོན་བཟོ་མཚམས་འཇོག་པ།"
+
+msgid "Stop at Ratio (%s)"
+msgstr "བསྡུར་ཚད་ལ་སླེབས་རྗེས་(%s) མཚམས་འཇོག་པ།"
+
+msgid "Stop seeding at _ratio:"
+msgstr "བསྡུར་ཚད་ལ་སླེབས་རྗེས་སོན་བཟོ་མཚམས་འཇོག་པ།(_R)："
+
+msgid "Stop seeding at ratio:"
+msgstr "གཤམ་གསལ་བསྡུར་ཚད་ལ་སླེབས་རྗེས་སོན་བཟོ་མཚམས་འཇོག་པ།："
+
+msgid "Stop seeding if idle for N minutes:"
+msgstr "གཤམ་གསལ་སྐར་མའི་གྲངས་ཁོམ་ཚེས་སོན་བཟོ་མཚམས་འཇོག་པ།："
+
+msgid "Stop seeding if idle for _N minutes:"
+msgstr "མུ་མཐུད་ནས་སྐར་མ་ _N ཁོམ་རྗེས་སོན་བཟོ་མཚམས་འཇོག་པ།："
+
+msgid "Stopped"
+msgstr "མཚམས་བཞག"
+
+msgid "Stopping"
+msgstr "མཚམས་འཇོག་བཞིན་པ།"
+
+msgid "Stopping port forwarding through \"%s\", service \"%s\""
+msgstr ""
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Sunday"
+msgstr "གཟའ་ཉི་མ།"
+
+msgid "TB"
+msgstr ""
+
+msgid "TB/s"
+msgstr ""
+
+msgid "Te_st Port"
+msgstr "སྣེ་ཁ་ཚོད་ལྟ། (_S)"
+
+msgid "The torrent file \"%s\" contains invalid data."
+msgstr ""
+
+msgid "The torrent file \"%s\" encountered an unknown error."
+msgstr ""
+
+msgid "The torrent file \"%s\" is already in use by \"%s.\""
+msgstr ""
+
+msgid ""
+"These statistics are for your information only. Resetting them doesn't "
+"affect the statistics logged by your BitTorrent trackers."
+msgstr ""
+
+msgid "They Cancelled"
+msgstr "ཕ་རོལ་པོས་དོར་བ།"
+
+msgid ""
+"This magnet link appears to be intended for something other than BitTorrent."
+" BitTorrent magnet links have a section containing \"%s\"."
+msgstr ""
+
+msgid "This may take a moment…"
+msgstr "འདིར་དུས་ཚོད་ཅུང་ཙམ་སྤྱོད་དགོས།..."
+
+msgid "This torrent has not finished downloading."
+msgid_plural "These torrents have not finished downloading."
+msgstr[0] "ས་བོན་འདི་ད་དུང་ཕབ་ལེན་བྱས་ཚར་མེད།"
+msgstr[1] "ས་བོན་འདི་ད་དུང་ཕབ་ལེན་བྱས་ཚར་མེད།"
+
+msgid "This torrent is connected to peers."
+msgid_plural "These torrents are connected to peers."
+msgstr[0] "ས་བོན་འདི་ཚིགས་ཚེག་གཞན་ལ་འབྲེལ་མཐུད་བྱས་ཟིན།"
+msgstr[1] "ས་བོན་འདི་ཚིགས་ཚེག་གཞན་ལ་འབྲེལ་མཐུད་བྱས་ཟིན།"
+
+msgid "Thursday"
+msgstr "གཟའ་ཕུར་བུ།"
+
+msgid "TiB"
+msgstr ""
+
+msgid "Time"
+msgstr "དུས་ཚོད།"
+
+msgid ""
+"To add a backup URL, add it on the line after the primary URL.\n"
+"To add another primary URL, add it after a blank line."
+msgstr ""
+
+msgid "Torrent"
+msgstr "ས་བོན།"
+
+msgid "Torrent Added"
+msgstr "ཁ་སྣོན་བྱས་ཟིན་པའི་ས་བོན།"
+
+msgid "Torrent Complete"
+msgstr "ས་བོན་ལེགས་འགྲུབ།"
+
+msgid "Torrent Creator is skipping file \"%s\": %s"
+msgstr ""
+
+msgid "Torrent Options"
+msgstr "ས་བོན་འདེམས་ཚན།"
+
+msgid "Torrent _location:"
+msgstr "Torrent གནས་ས། (_L)："
+
+msgid "Torrent _priority:"
+msgstr "ས་བོན་སྔོན་ཐོབ་རིམ་པ། (_P)："
+
+msgid "Torrent files"
+msgstr "ས་བོན་ཡིག་ཆ།"
+
+msgid "Torrent properties"
+msgstr "ས་བོན་གཏོགས་གཤིས།"
+
+msgid "Torrent size:"
+msgstr "ས་བོན་ཆེ་ཆུང་།："
+
+msgid "Total"
+msgstr "ཁྱོན་བསྡོམས།"
+
+msgid "Total Ratio"
+msgstr "སྤྱིའི་མཉམ་སྤྱོད་ཚད།"
+
+msgid "Total Transfer"
+msgstr "སྤྱིའི་བརྒྱུད་གཏོང་ཚད།"
+
+msgid "Tracker"
+msgstr ""
+
+msgid "Tracker Announce URLs"
+msgstr "Tracker སྤྱི་བསྒྲགས་ URL"
+
+msgid "Tracker did not respond"
+msgstr "Tracker དང་ལེན་མ་བྱས་པ།"
+
+msgid "Tracker error: \"%s\""
+msgstr ""
+
+msgid "Tracker gave HTTP response code %1$ld (%2$s)"
+msgstr "Tracker དེ་ HTTP ཚབ་ཨང་ལ་ཕྱིར་ལོག %1$ld། (%2$s)"
+
+msgid "Tracker gave a warning: \"%s\""
+msgstr ""
+
+msgid "Tracker gave an error: \"%s\""
+msgstr ""
+
+msgid "Tracker had %s%'d seeders and %'d leechers%s %s ago"
+msgstr ""
+"%5$s ཡི་སྔོན་ Tracker ལ་ %1$s%2$'d སོན་བཟོ་ཚིགས་ཚེག་དང་ %3$'d%4$s "
+"ཕབ་ལེན་ཚིགས་ཚེག་ཡོད།"
+
+msgid "Tracker warning: \"%s\""
+msgstr ""
+
+msgid "Tracker will allow requests in %s"
+msgstr "Tracker ཡིས་ %s ནས་ཡོང་བའི་རེ་ཞུ་དང་ལེན་བྱེད།"
+
+msgid "Trackers"
+msgstr ""
+
+msgid "Transmission"
+msgstr ""
+
+msgid ""
+"Transmission\n"
+"Up: %1$s %2$s\n"
+"Down: %3$s %4$s"
+msgstr ""
+
+msgid "Transmission BitTorrent Client"
+msgstr ""
+
+msgid "Transmission Preferences"
+msgstr "Transmission འདེམས་ཚན་ཐོག་མ།"
+
+msgid "Transmission doesn't know how to use \"%s\""
+msgstr ""
+
+msgid ""
+"Transmission is a file sharing program. When you run a torrent, its data "
+"will be made available to others by means of upload. Any content you share "
+"is your sole responsibility."
+msgstr ""
+
+msgid "Tuesday"
+msgstr "གཟའ་མིག་དམར།"
+
+msgid "U_pload (%s):"
+msgstr "ཡར་སྐྱེལ།(%s)(_P)："
+
+msgid "Unable to rename file as \"%s\": %s"
+msgstr ""
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unknown error"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+
+msgid "Unlimited"
+msgstr "ཚད་མེད་པ།"
+
+msgid "Unrecognized URL"
+msgstr "ངོས་འཛིན་བྱེད་ཐབས་མེད་པའི་ URL ཤག་གནས།"
+
+msgid "Up"
+msgstr "སྟེང་།"
+
+msgid "Up Blocks"
+msgstr "ཡར་སྐྱེལ་དུམ་བུ།"
+
+msgid "Up Reqs"
+msgstr "ཕྲེད་གོང་མའི་རེ་ཞུ།"
+
+msgid "Update Blocklist"
+msgstr "ཡོལ་སྒྲིབ་རེའུ་མིག་གསར་སྒྱུར།"
+
+msgid "Uploaded:"
+msgstr "ཡར་སྐྱེལ་ཟིན།："
+
+msgid "Uploading to peer"
+msgstr "ཚིགས་ཚེག་ཏུ་ཡར་སྐྱེལ་བ།"
+
+msgid "Use PE_X to find more peers"
+msgstr "PE_X སྤྱད་ནས་དེ་བས་མང་པའི་ཚིགས་ཚེག་འཚོལ་བ།"
+
+msgid "Use UPnP or NAT-PMP port _forwarding from my router"
+msgstr ""
+"ལམ་འཚོལ་ཆས་ཀྱི UPnP འམ་ཡང་ན་ NAT-PMP "
+"སྣེ་ཁ་སྤྱོད་འགོ་བརྩམས་ནས་བྱེད་ནུས་བརྒྱུད་སྐུར་བྱེད་པ། (_F)"
+
+msgid "Use _DHT to find more peers"
+msgstr " _DHT སྤྱད་ནས་དེ་བས་མང་པའི་ཚིགས་ཚེག་འཚོལ་བ།"
+
+msgid "Use _Local Peer Discovery to find more peers"
+msgstr ""
+"རང་སའི་ཚིགས་ཚེག་སྤྱད་ནས་། (LDP) རྙེད་པ་འམ་དེ་བས་མང་པའི་ཚིགས་ཚེག་འཚོལ་བ།"
+
+msgid "Use _authentication"
+msgstr "ར་སྤྲོད་སྤྱོད་པ།(_A)"
+
+msgid "Use global settings"
+msgstr "ཁྱོན་ཡོངས་སྒྲིག་འགོད་སྤྱོད་པ།"
+
+msgid "Downloading"
+msgstr "ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Seeding"
+msgstr "སོན་འདེབས་པ།"
+
+msgid "Verifying"
+msgstr ""
+
+msgid "Verifying local data"
+msgstr "རང་སའི་གཞི་གྲངས་དག་བཤེར་བྱེད་བཞིན་པ།"
+
+msgid "Verifying local data (%.1f%% tested)"
+msgstr "རང་སའི་གཞི་གྲངས་དག་བཤེར་བྱེད་པ། ( %.1f%%ཚོད་ལྟ་བྱས་ཟིན།)"
+
+msgid "Verifying torrent"
+msgstr "ས་བོན་ཡིག་ཆ་ར་སྤྲོད་བྱེད་བཞིན་པ།"
+
+msgid "We Cancelled"
+msgstr "ངས་དོར་བ།"
+
+msgid "We unchoked this peer, but they're not interested"
+msgstr ""
+"ང་ཚོས་ཚིགས་ཚེག་འདིའི་སྒྲོག་གྲོལ་ཟིན་མོད་འོན་ཀྱང་ཕ་རོལ་བས་དགའ་སྣང་མི་བྱེད།"
+
+msgid "We would download from this peer if they would let us"
+msgstr "གལ་ཏེ་ཕ་རོལ་པོས་ཁས་ལེན་ན་ཚིགས་ཚེག་འདི་ནས་ཕབ་ལེན་བྱོས།"
+
+msgid "We would upload to this peer if they asked"
+msgstr "གལ་ཏེ་ཕ་རོལ་པོས་རེ་ཞུ་བྱེད་ན་ཚིགས་ཚེག་འདི་རུ་ཡར་སྐྱེལ་བྱོས།"
+
+msgid "Web Seeds"
+msgstr "དྲ་རྒྱའི་ས་བོན།"
+
+msgid "Wednesday"
+msgstr "གཟའ་ལྷག་པ།"
+
+msgid "Weekdays"
+msgstr "ལས་ཀའི་ཉིན།"
+
+msgid "Weekends"
+msgstr "གཟའ་མཇུག"
+
+msgid "Where to look for configuration files"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་གནས་ས།"
+
+msgid "Whitelist enabled"
+msgstr "མིང་ཐོ་དཀར་པོ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "[torrent files or urls]"
+msgstr "[ས་བོན་ཡིག་ཆའམ་ཤག་གནས།]"
+
+msgid "_Add"
+msgstr "སྣོན་པ། (_A)"
+
+msgid "_Announce URL:"
+msgstr "སྤྱི་བསྒྲགས། URL(_A)："
+
+msgid "_Compact View"
+msgstr "ཚགས་དམ་མཐོང་རིས། (_C)"
+
+msgid "_Contents"
+msgstr "དཀར་ཆག(_C)"
+
+msgid "_Delete Files and Remove"
+msgstr "ལས་འགན་དང་ཡིག་ཆ་བསུབ་པ། (_D)"
+
+msgid "_Destination folder:"
+msgstr "དམིགས་ཚད་ཡིག་ཁུག (_D)།："
+
+msgid "_Donate"
+msgstr "ཞལ་འདེབས། (_D)"
+
+msgid "_Download (%s):"
+msgstr "ཕབ་ལེན།(%s)(_D)："
+
+msgid "_Edit"
+msgstr "རྩོམ་སྒྲིག(_E)"
+
+msgid "_Encryption mode:"
+msgstr "གསང་སྡོམ་རྣམ་པ། (_E)："
+
+msgid "_File"
+msgstr "ཡིག་ཆ།(_F)"
+
+msgid "_Filterbar"
+msgstr "འཚག་སྡེ། (_F)"
+
+msgid "_Help"
+msgstr "རོགས་རམ།(_H)"
+
+msgid "_Idle:"
+msgstr "ཁོམ་པ། (_I)："
+
+msgid "_Inhibit hibernation when torrents are active"
+msgstr "ས་བོན་འཁྲུག་ཆ་དོད་པོ་ཡོད་དུས་ངལ་གསོ་བཀག་སྡོམ་བྱེད་པ། (_I)"
+
+msgid "_Maximum peers:"
+msgstr "ཚིགས་ཚེག་གྲངས་ཆེ་ཤོས། (_M)："
+
+msgid "_Move from the current folder"
+msgstr "མིག་སྔའི་དཀར་ཆག་ནས་སྤོ་བ།(_M)"
+
+msgid "_New…"
+msgstr "གསར་འཛུགས། (_N)"
+
+msgid "_On days:"
+msgstr "བསྐྱར་ཟློས། (_O)："
+
+msgid "_Open web client"
+msgstr "Web མཁོ་མཁན་ཁ་ཕྱེ་བ། (_O)"
+
+msgid "_Pause"
+msgstr "སྐབས་འཇོག (_P)"
+
+msgid "_Pause All"
+msgstr "ཚང་མ་སྐབས་འཇོག(_P)"
+
+msgid "_Port used for incoming connections:"
+msgstr "ཚིགས་འཛུལ་འབྲེལ་མཐུད་དུ་སྤྱོད་པའི་སྣེ་ཁ། (_P)："
+
+msgid "_Private torrent"
+msgstr "སྒེར་དབང་ས་བོན། (_P)"
+
+msgid "_Queue"
+msgstr "རུ་འཇུག(_Q)"
+
+msgid "_Quit"
+msgstr "ཕྱིར་ཐོན།(_Q)"
+
+msgid "_Quit Now"
+msgstr "འཕྲད་མར་ཕྱིར་འབུད། (_Q)"
+
+msgid "_Ratio:"
+msgstr "བསྡུར་ཚད། (_R)："
+
+msgid "_Remove"
+msgstr "སྤོ་བ།(_R)"
+
+msgid "_Reset"
+msgstr "བསྐྱར་སྒྲིག (_R)"
+
+msgid "_Scheduled times:"
+msgstr "དུས་བཅད། (_S)："
+
+msgid "_Show %'d of:"
+msgstr "དེའི་ཁྲོད་ནས་  %'d མངོན་པ། (_S)："
+
+msgid "_Show Transmission"
+msgstr "Transmission མངོན་པ། (_S)"
+
+msgid "_Show:"
+msgstr "མངོན་པ། (_S)："
+
+msgid "_Sort Torrents By"
+msgstr "ས་བོན་རུ་སྒྲིག (_S)"
+
+msgid "_Start"
+msgstr "མགོ་རྩོམ།(_S)："
+
+msgid "_Start All"
+msgstr "ཚང་མ་མགོ་རྩོམ། (_S)"
+
+msgid "_Start added torrents"
+msgstr "ཁུར་སྣོན་བྱས་ཟིན་པའི་ས་བོན་མགོ་རྩོམ། (_S)"
+
+msgid "_Start when added"
+msgstr "ཁ་སྣོན་བྱས་རྗེས་མྱུར་དུ་འགོ་རྩོམ།(_S)"
+
+msgid "_Statistics"
+msgstr "བསྡོམས་རྩིས།(_S)"
+
+msgid "_Statusbar"
+msgstr "རྣམ་པའི་སྡེ།(_S)"
+
+msgid "_Toolbar"
+msgstr "ལག་ཆ་སྡེ།(_T)"
+
+msgid "_Torrent"
+msgstr "ས་བོན། (_T)"
+
+msgid "_Torrent file:"
+msgstr "ས་བོན་ཡིག་ཆ། (_T):"
+
+msgid "_Trackers:"
+msgstr ""
+
+msgid "_URL"
+msgstr ""
+
+msgid "_Update"
+msgstr "གསར་སྒྱུར།(_U)"
+
+msgid "_Upload (%s):"
+msgstr "ཡར་སྐྱེལ། (%s)(_U)："
+
+msgid "_Username:"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་།(_U)："
+
+msgid "_Verify Local Data"
+msgstr "རང་སའི་གཞི་གྲངས་དག་བཤེར། (_V)"
+
+msgid "_View"
+msgstr "ལྟ་ཞིབ།(_V)"
+
+msgid "blocklist skipped invalid address at line %d"
+msgstr "ཡོལ་སྒྲིབ་རེའུ་མིག་ %d ཡི་ནུས་མེད་ཤག་གནས་ལས་མཆོང་བ།"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "kB/s"
+msgstr "kB/s"
+
+msgid "no longer forwarding port %d"
+msgstr "སྣེ་ཁ%d བརྒྱུད་སྐུར་མི་བྱེད།"
+
+msgid "peer"
+msgid_plural "peers"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "size|Down: %1$s, Up: %2$s"
+msgstr "ཕབ་ལེན།：%s དང་ཡར་སྐྱེལ།：%s"
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "uTP is a tool for reducing network congestion."
+msgstr "µTP ནི་དྲ་རྒྱ་འགག་པ་ཉུང་དུ་གཏོང་ལག་ཆ་ཞིག་ཡིན།"
+
+msgid "web seed"
+msgid_plural "web seeds"
+msgstr[0] "དྲ་རྒྱའི་ས་བོན།"
+msgstr[1] "དྲ་རྒྱའི་ས་བོན།"

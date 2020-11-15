@@ -1,0 +1,323 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Copyright (C) 1990, 92, 93, 94, 96, 97, 99 Free Software Foundation, Inc.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Fine tuning:\n"
+"  -s, --strict           use strict mappings, even loose characters\n"
+"  -d, --diacritics       convert only diacritics or alike for HTML/LaTeX\n"
+"  -S, --source[=LN]      limit recoding to strings and comments as for LN\n"
+"  -c, --colons           use colons instead of double quotes for diaeresis\n"
+"  -g, --graphics         approximate IBMPC rulers by ASCII graphics\n"
+"  -x, --ignore=CHARSET   ignore CHARSET while choosing a recoding path\n"
+msgstr ""
+
+msgid ""
+"\n"
+"If a long option shows an argument as mandatory, then it is mandatory\n"
+"for the equivalent short option also.  Similarly for optional arguments.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"If none of -i and -p are given, presume -p if no FILE, else -i.\n"
+"Each FILE is recoded over itself, destroying the original.  If no\n"
+"FILE is specified, then act as a filter and recode stdin to stdout.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Listings:\n"
+"  -l, --list[=FORMAT]        list one or all known charsets and aliases\n"
+"  -k, --known=PAIRS          restrict charsets according to known PAIRS list\n"
+"  -h, --header[=[LN/]NAME]   write table NAME on stdout using LN, then exit\n"
+"  -F, --freeze-tables        write out a C module holding all tables\n"
+"  -T, --find-subsets         report all charsets being subset of others\n"
+"  -C, --copyright            display Copyright and copying conditions\n"
+"      --help                 display this help and exit\n"
+"      --version              output version information and exit\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Operation modes:\n"
+"  -v, --verbose           explain sequence of steps and report progress\n"
+"  -q, --quiet, --silent   inhibit messages about irreversible recodings\n"
+"  -f, --force             force recodings even when not reversible\n"
+"  -t, --touch             touch the recoded files after replacement\n"
+"  -i, --sequence=files    use intermediate files for sequencing passes\n"
+"      --sequence=memory   use memory buffers for sequencing passes\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Option -l with no FORMAT nor CHARSET list available charsets and surfaces.\n"
+"FORMAT is `decimal', `octal', `hexadecimal' or `full' (or one of `dohf').\n"
+msgstr ""
+
+msgid ""
+"\n"
+"REQUEST is SUBREQUEST[,SUBREQUEST]...; SUBREQUEST is ENCODING[..ENCODING]...\n"
+"ENCODING is [CHARSET][/[SURFACE]]...; REQUEST often looks like BEFORE..AFTER,\n"
+"with BEFORE and AFTER being charsets.  An omitted CHARSET implies the usual\n"
+"charset; an omitted [/SURFACE]... means the implied surfaces for CHARSET; a /\n"
+"with an empty surface name means no surfaces at all.  See the manual.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Report bugs to <recode-bugs@iro.umontreal.ca>.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Usage: %s [OPTION]... [ [CHARSET] | REQUEST [FILE]... ]\n"
+msgstr ""
+
+msgid "  -p, --sequence=pipe     same as -i (on this system)\n"
+msgstr ""
+
+msgid "  -p, --sequence=pipe     use pipe machinery for sequencing passes\n"
+msgstr ""
+
+msgid " done\n"
+msgstr ""
+
+msgid " failed: %s in step `%s..%s'\n"
+msgstr ""
+
+msgid "%s failed: %s in step `%s..%s'"
+msgstr "%s ཕམ་པ：%s གོ་རིམ་‘%s..%s’ནང་དུ་ཡོད།"
+
+msgid "%s in step `%s..%s'"
+msgstr "%s གོ་རིམ་‘%s..%s’ནང་དུ་ཡོད།"
+
+msgid "%s to %s"
+msgstr "%s ནས་ %sལ།"
+
+msgid "%sConversion table generated mechanically by Free `%s' %s"
+msgstr ""
+
+msgid "%sfor sequence %s.%s"
+msgstr "%sནི་བརྗེ་སྒྱུར་རིགས་གྲས་ %s.%sཡིན།"
+
+msgid "*Unachievable*"
+msgstr "*སླེབས་མི་ཐུབ།*"
+
+msgid "*mere copy*"
+msgstr "*འདྲ་བཟོ་ཁོ་ན།*"
+
+msgid "Ambiguous output"
+msgstr "དོན་འགལ་ཡོད་པའི་ཕྱིར་འདོན།"
+
+msgid "Cannot complete table from set of known pairs"
+msgstr "ཤེས་པའི་རྟེན་འཕྲོ་ཚོགས་སུ་ཆ་ཚང་གི་བརྗེ་སྒྱུར་རེའུ་མིག་འགྲུབ་མི་ཐུབ།"
+
+msgid "Cannot invert given one-to-one table"
+msgstr "བྱིན་པའི་རེ་རེའི་ལྟོས་ཟླ་བརྗེ་སྒྱུར་རེའུ་མིག་གི་ལྡོག་བརྩི་མི་ཐུབ།"
+
+msgid "Cannot list `%s', no names available for this charset"
+msgstr "‘%s’འགྲེམས་མི་ཐུབ། ཡིག་རྟགས་ཚོགས་འདི་ལ་སྤྱོད་རུང་གི་ཡིག་རྟགས་མིང་མེད།"
+
+msgid "Charset %s already exists and is not %s"
+msgstr "ཡིག་རྟགས་ཚོགས %s ཡོད་ཀྱང་ %sམིན།"
+
+msgid "Charset `%s' is unknown or ambiguous"
+msgstr "ཡིག་རྟགས་ཚོགས‘%s’མི་ཤེས་པ་ཡང་ན་དོན་འགལ་ཡོད།"
+
+msgid "Child process wait status is 0x%0.2x"
+msgstr "བུའི་འཕེལ་རིམ་སྒུག་པའི་རྣམ་པ་ནི་ 0x%0.2xཡིན།"
+
+msgid "Codes %3d and %3d both recode to %3d"
+msgstr "ཚབ་ཨང་ %3d དང་ %3d ཡང་བསྐྱར་ཨང་སྒྲིག་ནི་%3dབྱ།"
+
+msgid "Dec  Oct Hex   UCS2  Mne  %s\n"
+msgstr ""
+
+msgid "Expecting `..' in request"
+msgstr "རེ་ཞུར་‘..’ཡོད་པ།"
+
+msgid "Following diagnostics for `%s' to `%s'"
+msgstr "‘%s’ལས‘%s’ཡི་བརྟག་དཔྱད་ཆ་འཕྲིན།"
+
+msgid "Format `%s' is ambiguous"
+msgstr "རྣམ་བཞག་‘%s’དོན་སྙིང་མི་གསལ་བ།"
+
+msgid "Format `%s' is unknown"
+msgstr "རྣམ་བཞག་‘%s’མི་ཤེས་པ།"
+
+msgid ""
+"Free `recode' converts files between various character sets and surfaces.\n"
+msgstr ""
+
+msgid "Identity recoding, not worth a table"
+msgstr "བརྟན་མཚུང་བརྗེ་སྒྱུར། བརྗེ་སྒྱུར་རེའུ་མིག་མི་དགོས།"
+
+msgid "Internal recoding bug"
+msgstr "ནང་ཁུལ་ཡང་བསྐྱར་སྒྲིག་ཨང་གི་སྐྱོན།"
+
+msgid "Invalid input"
+msgstr ""
+
+msgid ""
+"LN is some language, it may be `c', `perl' or `po'; `c' is the default.\n"
+msgstr ""
+
+msgid "Language `%s' is ambiguous"
+msgstr "སྐད་བརྡ‘%s’དོན་སྙིང་མི་གསལ།"
+
+msgid "Language `%s' is unknown"
+msgstr "སྐད་བརྡ་‘%s’མི་ཤེས་པ།"
+
+msgid "Misuse of recoding library"
+msgstr "ཡང་བསྐྱར་སྒྲིག་ཨང་མཛོད་ཀྱི་སྤྱོད་པ་ཡང་དག་མིན།"
+
+msgid "No character recodes to %3d"
+msgstr "ཡིག་རྟགས་ཚོགས་ཨང་བསྐྱར་སྒྲིག་ནས་ %3dལ་མེད།"
+
+msgid "No error"
+msgstr "ནོར་འཁྲུལ་མེད།"
+
+msgid "No table to print"
+msgstr "པར་འདེབས་ཆོག་པའི་བརྗེ་སྒྱུར་རེའུ་མིག་མེད།"
+
+msgid "No way to recode from `%s' to `%s'"
+msgstr "‘%s’ལས་ཨང་བསྐྱར་སྒྲིག་‘%s’ལ་བརྒྱུད་ལམ་མེད།"
+
+msgid "Non canonical input"
+msgstr "ཚད་ལྡན་མིན་པའི་ནང་འཇུག"
+
+msgid "Pair no. %d: <%3d, %3d> conflicts with <%3d, %3d>"
+msgstr "ཨང %d ཡི་རྟེན་འཕྲོ：<%3d，%3d> དང་ <%3d，%3d> འགལ་བ།"
+
+msgid "Recoding %s..."
+msgstr "ཨང་བསྐྱར་སྒྲིག %s..."
+
+msgid "Recoding is too complex for a mere table"
+msgstr "ཨང་བསྐྱར་སྒྲིག་དཀའ་དྲགས། བརྗེ་སྒྱུར་རེའུ་མིག་གཅིག་གིས་མཚོན་མི་ཐུབ།"
+
+msgid "Request `%s' is erroneous"
+msgstr "རེ་ཞུ་‘%s’ལ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Request: %s\n"
+msgstr ""
+
+msgid "Required argument is missing"
+msgstr "དགོས་པའི་ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Resurfacer set more than once for `%s'"
+msgstr "‘%s’ལ་གཅིག་ལས་མང་བའི་ཕྱིའི་སྒྲིག་ཨང་བསྣན་པ།"
+
+msgid "Sequence `%s' is ambiguous"
+msgstr "རིམ་སྟར་‘%s’དོན་སྙིང་མི་གསལ།"
+
+msgid "Sequence `%s' is unknown"
+msgstr "རིམ་སྟར་‘%s’མི་ཤེས་པ།"
+
+msgid "Shrunk to: %s\n"
+msgstr ""
+
+msgid "Sorry, no names available for `%s'"
+msgstr "དགོངས་པ་མ་ཚོམས། ‘%s’ལ་སྤྱོད་རུང་གི་ཡིག་རྟགས་མིང་མེད།"
+
+msgid "Step initialisation failed"
+msgstr "གོ་རིམ་ཐོག་མ་ཅན་སྒྱུར་བ་ཕམ་པ།"
+
+msgid "Step initialisation failed (unprocessed options)"
+msgstr "གོ་རིམ་ཐོག་མ་ཅན་སྒྱུར་བ་ཕམ་པ།(སྒྲིག་གཅོད་མ་བྱས་པའི་འདེམས་ཚན།)"
+
+msgid "Symbol `%s' is unknown"
+msgstr "རྟགས་‘%s’མི་ཤེས་པ།"
+
+msgid "Syntax is deprecated, please prefer `%s'"
+msgstr "བརྡ་སྤྲོད་དུས་བརྒལ་པས་་‘%s’སྤྱོད་རོགས།"
+
+msgid "System detected problem"
+msgstr "རྒྱུད་ཁོངས་གནད་དོན།"
+
+msgid ""
+"This is free software; see the source for copying conditions.  There is NO\n"
+"warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n"
+msgstr ""
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation; either version 2, or (at your option)\n"
+"any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program; if not, write to the Free Software Foundation,\n"
+"Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.\n"
+msgstr ""
+
+msgid "Try `%s %s' for more information.\n"
+msgstr ""
+
+msgid ""
+"UCS2   Mne   Description\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Unless DEFAULT_CHARSET is set in environment, CHARSET defaults to the locale\n"
+"dependent encoding, determined by LC_ALL, LC_CTYPE, LANG.\n"
+msgstr ""
+
+msgid "Unrecognised surface name `%s'"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་ཕྱིའི་སྒྲིག་ཨང་།‘%s’"
+
+msgid "Unsurfacer set more than once for `%s'"
+msgstr "‘%s’ལ་གཅིག་ལས་མང་བའི་ཕྱིའི་སྒྲིག་ཨང་འདོན།"
+
+msgid "Untranslatable input"
+msgstr "ཡིག་སྒྱུར་མི་ཐུབ་པའི་ནང་འཇུག"
+
+msgid "Virtual memory exhausted"
+msgstr "རྟོག་བཟོས་ནང་གསོག་ཟད་ཚར།"
+
+msgid "Virtual memory exhausted!"
+msgstr "རྟོག་བཟོས་ནང་གསོག་ཟད་ཚར།"
+
+msgid ""
+"With -k, possible before charsets are listed for the given after CHARSET,\n"
+"both being tabular charsets, with PAIRS of the form `BEF1:AFT1,BEF2:AFT2,...'\n"
+"and BEFs and AFTs being codes are given as decimal numbers.\n"
+msgstr ""
+
+msgid "Written by Franc,ois Pinard <pinard@iro.umontreal.ca>.\n"
+msgstr ""
+
+msgid "byte"
+msgstr "ཡིག་ཚིགས།"
+
+msgid "reversible"
+msgstr "ལྡོག་རུང་བ།"
+
+msgid "ucs2"
+msgstr ""
+
+msgid "variable"
+msgstr "གཟུགས་འགྱུར།"

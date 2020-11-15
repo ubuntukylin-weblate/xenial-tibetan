@@ -1,0 +1,306 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%s has firmware updates:"
+msgstr "མཁྲེགས་ལྷུ %s ལ་གསར་སྒྱུར་ཡོད་པ།"
+
+msgid "Added"
+msgstr "སྣོན་ཟིན།"
+
+msgid "Alias to %s"
+msgstr "མིང་གཞན་ནི་ %sཡིན།"
+
+msgid "Allow downgrading firmware versions"
+msgstr "མཁྲེགས་ལྷུའི་པར་གཞི་རིམ་པ་ཕབ་ཆོག་པ།"
+
+msgid "Allow re-installing existing firmware versions"
+msgstr "ད་ཡོད་ཀྱི་མཁྲེགས་ལྷུའི་པར་གཞི་བསྐྱར་དུ་སྒྲིག་འཇུག་བྱས་ཆོག"
+
+msgid "Attach DFU capable device back to runtime"
+msgstr ""
+"རིམ་སྤར་རུང་བའི་མཁྲེགས་ལྷུ། (DFU） ཡི་སྒྲིག་ཆས་ཡང་བསྐྱར་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "Attaching"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
+
+msgid ""
+"Authentication is required to downgrade the firmware on a removable device"
+msgstr "སྤོ་རུང་སྒྲིག་ཆས་ཀྱི་སྟེང་དུ་རིམ་པ་ཕབ་པའི་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to downgrade the firmware on this machine"
+msgstr "འཕྲུལ་འཁོར་འདི་ཡི་སྟེང་གི་མཁྲེགས་ལྷུའི་རིམ་པ་ཕབ་པ་ར་སྤྲོད་བྱ་དགོས་པ།"
+
+msgid ""
+"Authentication is required to update the firmware on a removable device"
+msgstr "སྤོ་རུང་སྒྲིག་ཆས་ཀྱི་སྟེང་དུ་རིམ་པ་སྤོར་བའི་ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "Authentication is required to update the firmware on this machine"
+msgstr ""
+"འཕྲུལ་འཁོར་འདི་ཡི་སྟེང་གི་མཁྲེགས་ལྷུ་རིམ་པ་སྤོར་བའི་ར་སྤྲོད་བྱ་དགོས་པ།"
+
+msgid "Cancelled"
+msgstr "ལེན་པ།"
+
+msgid "Changed"
+msgstr "བསྒྱུར་བཅོས་བྱས་ཟིན།"
+
+msgid "Checksum"
+msgstr "དག་བཤེར་སྡོམ།"
+
+msgid "Cipher"
+msgstr "གསང་སྡོམ།"
+
+msgid "Clears the results from the last update"
+msgstr "ཆེས་མཇུག་མཐའི་གསར་སྒྱུར་ལས་ཐོབ་པའི་མཇུག་འབྲས་གཙང་སེལ་བྱེད་དགོས།"
+
+msgid "Command not found"
+msgstr "བཀའ་བརྡ་རྙེད་མ་བྱུང་།"
+
+msgid "Convert firmware to DFU format"
+msgstr "མཁྲེགས་ལྷུ་དེ་མཁྲེགས་ལྷུ་རིམ་སྤོར་གྱི་རྣམ་གཞག་ལ་བརྗེ་སྤོར་བྱེད་པ།"
+
+msgid "DFU Utility"
+msgstr "མཁྲེགས་ལྷུའི་རིམ་སྤོར་གྱི་གོ་ཆོད་བྱ་རིམ།"
+
+msgid "Debugging Options"
+msgstr "ཚོད་སྒྲིག་འདེམས་ཚན།"
+
+msgid "Decompressing firmware"
+msgstr "མཁྲེགས་ལྷུ་བསྡུས་འགྲོལ་བྱེད་པཞིན་པ།"
+
+msgid "Decrypt firmware data"
+msgstr "མཁྲེགས་ལྷུ་གསང་འགྲོལ་བྱེད་བཞིན་པ།"
+
+msgid "Description"
+msgstr "ཞིབ་བརྗོད།"
+
+msgid "Detach currently attached DFU capable device"
+msgstr "མིག་སྔའི་འབྲེལ་མཐུད་ཀྱི་སྤོར་རུང་མཁྲེགས་ལྷུའི་སྒྲིག་ཆས་བཅད་པ།"
+
+msgid "Detaching"
+msgstr "གཅོད་བཞིན་པ།"
+
+msgid "Done!"
+msgstr "ལེགས་སྒྲུབ་བྱུང་བ། "
+
+msgid "Downgrading %s from %s to %s... "
+msgstr "%s ནས %s བར་གྱི %s རིམ་པ་ཕབ་བཞིན་པ།  "
+
+msgid "Downloading"
+msgstr "ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Dump details about a firmware file"
+msgstr ""
+"འབྲེལ་ཡོད་མཁྲེགས་ལྷུའི་ཡིག་ཆ་ག་གེ་མོའི་སྐོར་གྱི་ཞིབ་ཕྲའི་ཆ་འཕྲིན་སྤོར་གསོག་བྱེད་པ།"
+
+msgid "Dump the ROM checksum"
+msgstr "ROM དག་བཤེར་སྡོམ་སྤོར་གསོག་བྱེད་པ།"
+
+msgid "Encrypt firmware data"
+msgstr "མཁྲེགས་ལྷུའི་གཞི་གྲངས་ལ་གསང་སྡོམ་པ།"
+
+msgid "Exit after a small delay"
+msgstr "གནས་སྐབས་ཕྱིར་འགྱངས་རྗེས་ཕྱིར་འདོན།"
+
+msgid "Exit after the engine has loaded"
+msgstr "སྒུལ་ཤུགས་བླུགས་རྗེས་ཕྱིར་འབུད་པ།"
+
+msgid "Failed to parse arguments"
+msgstr "ཞུགས་གྲངས་བརྒྱུད་པ་ཕམ་པ།"
+
+msgid "Firmware Update D-Bus Service"
+msgstr "མཁྲེགས་ལྷུའི་གསར་སྒྱུར་གྱི་ཞབས་ཞུ D-Bus"
+
+msgid "Firmware Update Daemon"
+msgstr "མཁྲེགས་ལྷུའི་གསར་སྒྱུར་ལྟ་སྲུང་བྱ་རིམ།"
+
+msgid "Firmware Utility"
+msgstr "མཁྲེགས་ལྷུའི་གོ་ཆོད་བྱ་རིམ།"
+
+msgid "Found"
+msgstr "རྙེད་པ།"
+
+msgid "GUID"
+msgstr ""
+
+msgid "Get all devices that support firmware updates"
+msgstr ""
+"མཁྲེགས་ལྷུའི་གསར་སྒྱུར་ལ་རྒྱབ་སྐྱོར་ཡོད་པའི་སྲ་ཆས་རེའུ་མིག་ཚང་མ་ཐོབ་པ།"
+
+msgid "Gets details about a firmware file"
+msgstr ""
+"འབྲེལ་ཡོད་མཁྲེགས་ལྷུའི་ཡིག་ཆ་ག་གེ་མོའི་སྐོར་གྱི་ཞིབ་ཕྲའི་ཆ་འཕྲིན་ཐོབ་པ།"
+
+msgid "Gets the cryptographic hash of the dumped firmware"
+msgstr "སྤོར་གསོག་བྱས་པའི་མཁྲེགས་ལྷུའི་དག་བཤེར་སྡོམ་ཐོབ་པ།"
+
+msgid "Gets the list of updates for connected hardware"
+msgstr "འབྲེལ་མཐུད་ཟིན་པའི་སྲ་ཆས་ཀྱི་སྤྱོད་རུང་རེའུ་མིག་གསར་པ་ཐོབ་པ།"
+
+msgid "Gets the results from the last update"
+msgstr "ཆེས་མཇུག་མཐའི་གསར་སྒྱུར་ཁྲོད་ནས་མཇུག་འབྲས་ཐོབ་པ།"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Idle"
+msgstr "ཁོམ་པ།"
+
+msgid "Install a firmware file on this hardware"
+msgstr "སྲ་ཆས་འདིའི་སྟེང་གི་མཁྲེགས་ལྷུའི་ཡིག་ཆ།"
+
+msgid "Install old version of system firmware"
+msgstr "པར་གཞི་རྙིང་པའི་རྒྱུད་ཁོངས་མཁྲེགས་ལྷུ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Install prepared updates now"
+msgstr "གྲ་སྒྲིག་ཟིན་པའི་གསར་སྒྱུར་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Install signed device firmware"
+msgstr "མིང་བཀོད་ཟིན་པའི་སྒྲིག་ཆས་ཀྱི་མཁྲེགས་ལྷུ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Install signed system firmware"
+msgstr "མིང་བཀོད་ཟིན་པའི་རྒྱུད་ཁོངས་ཀྱི་མཁྲེགས་ལྷུ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Install unsigned device firmware"
+msgstr "མིང་བཀོད་མེད་པའི་སྒྲིག་ཆས་ཀྱི་མཁྲེགས་ལྷུ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "Install unsigned system firmware"
+msgstr "མིང་བཀོད་མེད་པའི་རྒྱུད་ཁོངས་ཀྱི་མཁྲེགས་ལྷུ་སྒྲིག་འཇུག་བྱེད་པ།"
+
+msgid "List currently attached DFU capable devices"
+msgstr "མིག་སྔའི་འབྲེལ་མཐུད་ཀྱི་མཁྲེགས་ལྷུའི་རིམ་སྤོར་གྱི་སྒྲིག་ཆས་སྒྲིག་པ།"
+
+msgid "Loading firmware"
+msgstr "མཁྲེགས་ལྷུ་ཁུར་སྣོན་བྱེད་བཞིན་པ།"
+
+msgid "Location"
+msgstr "གནས་ས།"
+
+msgid "Merge multiple firmware files into one"
+msgstr "མཁྲེགས་ལྷུའི་ཡིག་ཆ་མང་པོ་ཞིག་གཅིག་ཏུ་ཟླ་སྒྲིལ་བཏང་བ།"
+
+msgid "Mode"
+msgstr "རྣམ་པ།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "No hardware detected with firmware update capability"
+msgstr ""
+"མཁྲེགས་ལྷུའི་གསར་སྒྱུར་ལ་རྒྱབ་སྐྱོར་བྱེད་པའི་སྲས་ཆས་ལ་ཞིབ་བཤེར་བྱེད་ཐུབ་མེད་པ།"
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "Perform the installation offline where possible"
+msgstr "གང་ཐུབ་ཅི་ཐུབ་ཀྱིས་འཁོར་བྲལ་སྒྲིག་འཇུག་ལག་བསྟར་བྱེད་དགོས།"
+
+msgid "Quirks"
+msgstr "དམིགས་བསལ་གྱི་གནས་ཚུལ།"
+
+msgid "Read firmware from device into a file"
+msgstr "སྒྲིག་ཆས་ལས་བྱུང་བའི་མཁྲེགས་ལྷུའི་ཀློག་འཇུག་ཡིག་ཆ།"
+
+msgid "Read firmware from one partition into a file"
+msgstr "བགོས་ཁུལ་ནས་ཡོང་བའི་མཁྲེགས་ལྷུའི་ཀློག་འཇུག་ཡིག་ཆ།"
+
+msgid "Refresh metadata from remote server"
+msgstr "རྒྱང་རིང་ཞབས་ཞུ་ཆས་ཡོང་བའི་རྒྱུའི་གཞི་གྲངས་གསར་འདོན་བྱེད་པ།"
+
+msgid "Region"
+msgstr "ཁུལ་ཁོངས།"
+
+msgid "Reinstalling %s with %s... "
+msgstr "ཡང་བསྐྱར %s སྒྲིག་འཇུག་བྱེད་བཞིན་པ།  %s བེད་སྤྱོད་པ།"
+
+msgid "Removed"
+msgstr "འབུད་ཟིན་པ།"
+
+msgid "Restarting device"
+msgstr "སྒྲིག་ཆས་བསྐྱར་སློང་བྱེད་པ་བཞིན་པ།"
+
+msgid "Retrying as an offline update"
+msgstr "འཁོར་བྲལ་ལ་རྩིས་ནས་གསར་སྒྱུར་ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་པ།"
+
+msgid "Scheduling upgrade"
+msgstr "འཆར་གཞི་རིམ་སྤོར་བྱེད་བཞིན་ཡོད།"
+
+msgid "Set alternative name on firmware file"
+msgstr "མཁྲེགས་ལྷུའི་ཡིག་ཆའི་སྟེང་གི་ཚབ་བྱེད་མིང་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Set alternative number on firmware file"
+msgstr "མཁྲེགས་ལྷུའི་ཡིག་ཆའི་སྟེང་གི་ཚབ་བྱེད་གྲངས་ཀ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Set product ID on firmware file"
+msgstr "མཁྲེགས་ལྷུའི་ཡིག་ཆའི་སྟེང་གི་ཐོན་རྫས ID སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Set release version on firmware file"
+msgstr "མཁྲེགས་ལྷུའི་ཡིག་ཆའི་སྟེང་གི་ཁྱབ་བསྒྲགས་པར་གཞི་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Set vendor ID on firmware file"
+msgstr "མཁྲེགས་ལྷུའི་ཡིག་ཆའི་སྟེང་གི་མཁོ་འདོན་ཚོང་པའི ID སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Sets metadata on a firmware file"
+msgstr "མཁྲེགས་ལྷུའི་ཡིག་ཆའི་སྟེང་གི་རྒྱུའི་གཞི་གྲངས་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Show debugging information for all files"
+msgstr "ཡིག་ཆ་ཚང་མའི་ཚོད་སྒྲིག་ཆ་འཕྲིན་མངོན་པ།"
+
+msgid "Show debugging options"
+msgstr "ཚོད་སྒྲིག་འདེམས་ཚན་མངོན་པ།"
+
+msgid "Show extra debugging information"
+msgstr "ཚད་བརྒལ་ཚོད་སྒྲིག་ཆ་འཕྲིན་མངོན་པ།"
+
+msgid "State"
+msgstr "རྣམ་པ།"
+
+msgid "Status"
+msgstr "རྣམ་པ།"
+
+msgid "Unknown: permission denied"
+msgstr "ངེས་མེད། འཚམས་འདྲི་དང་ལེན་མ་བྱས།"
+
+msgid "Update the stored metadata with current ROM contents"
+msgstr ""
+"མིག་སྔའི ROM ཡི་ནང་དོན་གསར་སྒྱུར་གསོག་འཇོག་བྱས་པའི་རྒྱུའི་གཞི་གྲངས་སྤྱོད་པ།"
+
+msgid "Updates all firmware to latest versions available"
+msgstr "མཁྲེགས་ལྷུ་ཚང་མ་པར་གཞི་གསར་ཤོས་སུ་བསྒྱུར་བ།"
+
+msgid "Updating %s from %s to %s... "
+msgstr "%s གསར་སྒྱུར་བྱེད་བཞིན་པ། %s ནས %s བར་ཡིན།"
+
+msgid "Uploading"
+msgstr "ཡར་བསྐུར་བཞིན་ཡོད།"
+
+msgid "Verifying firmware from device"
+msgstr "སྒྲིག་ཆས་ནས་ཡོང་བའི་མཁྲེགས་ལྷུར་དག་བཤེར་བྱེད་བཞིན་ཡོད།"
+
+msgid "Version"
+msgstr "པར་གཞི།"
+
+msgid "Watch DFU devices being hotplugged"
+msgstr ""
+"ཚ་བར་འཇུག་པའི་མཁྲེགས་ལྷུའི་རིམ་སྤོར། (DFU） སྒྲིག་ཆས་ལ་དོ་སྣང་བྱེད་དགོས།"
+
+msgid "Write firmware from file into device"
+msgstr "ཡིག་ཆ་ནས་བྱུང་བའི་མཁྲེགས་ལྷུ་སྒྲིག་ཆས་ལ་འབྲི་བ།"
+
+msgid "Write firmware from file into one partition"
+msgstr "ཡིག་ཆ་ནས་བྱུང་བའི་མཁྲེགས་ལྷུ་བགོས་ཁུལ་ལ་འབྲི་བ།"
+
+msgid "Writing firmware to device"
+msgstr "མཁྲེགས་ལྷུ་སྒྲིག་ཆས་ནང་འབྲི་བཞིན་པ།"

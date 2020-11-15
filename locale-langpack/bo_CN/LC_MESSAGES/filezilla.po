@@ -1,0 +1,5876 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " - FileZilla"
+msgstr "དུད་སྣེ། - FTP "
+
+msgid "%H:%M:%S elapsed"
+msgstr "དུས་ཚོད  %H:%M:%S འགོར་སོང་།"
+
+msgid "%H:%M:%S left"
+msgstr "ལྷག་མ %H:%M:%S"
+
+msgid ""
+"%a - Account (Lines containing this will be omitted if not using Account "
+"logontype)"
+msgstr ""
+"%a - རྩིས་ཐོ（གལ་ཏེ་རྩིས་ཐོས་ཐོ་འགོད་བྱེད་མ་བྱས་ཚེ། "
+"སྟར་པ་འདི་སྣང་མེད་བྱེད་པ་ཡིན）"
+
+msgid "%d directory"
+msgid_plural "%d directories"
+msgstr[0] "དཀར་ཆག་ %d "
+msgstr[1] "དཀར་ཆག་ %d "
+
+msgid "%d directory with its contents"
+msgid_plural "%d directories with their contents"
+msgstr[0] "དཀར་ཆག %d དང་དེའི་ནང་དོན།"
+msgstr[1] "དཀར་ཆག %d དང་དེའི་ནང་དོན།"
+
+msgid "%d file"
+msgid_plural "%d files"
+msgstr[0] "ཡིག་ཆ %d"
+msgstr[1] "ཡིག་ཆ %d"
+
+msgid "%d file. Total size: %s"
+msgid_plural "%d files. Total size: %s"
+msgstr[0] "ཡིག་ཆ %d ཆེ་ཆུང་བསྡོམས:%s"
+msgstr[1] "ཡིག་ཆ %d ཆེ་ཆུང་བསྡོམས:%s"
+
+msgid "%d file. Total size: At least %s"
+msgid_plural "%d files. Total size: At least %s"
+msgstr[0] "ཡིག་ཆ %d  ཆེ་ཆུང་བསྡོམས།:  མ་མཐར་ཡང %s"
+msgstr[1] "ཡིག་ཆ %d  ཆེ་ཆུང་བསྡོམས།:  མ་མཐར་ཡང %s"
+
+msgid "%d files added to queue"
+msgstr "ཡིག་ཆ %d རུ་སྟར་རུ་ཞུགས་ཟིན།"
+
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "སྐར་ཆ %d "
+msgstr[1] "སྐར་ཆ %d "
+
+msgid "%h - Host"
+msgstr "གཙོ་འཁོར %h -"
+
+msgid "%llu directory"
+msgid_plural "%llu directories"
+msgstr[0] "དཀར་ཆག %llu "
+msgstr[1] "དཀར་ཆག %llu "
+
+msgid "%llu file"
+msgid_plural "%llu files"
+msgstr[0] "ཡིག་ཆ %llu"
+msgstr[1] "ཡིག་ཆ %llu"
+
+msgid "%p - Password"
+msgstr "གསང་ཨང་། %p -"
+
+msgid "%s (%s/s)"
+msgstr "%s། (སྐར་ཆ %s/)"
+
+msgid "%s (? B/s)"
+msgstr "%s། (སྐར་ཆ ? B/)"
+
+msgid "%s - Certificate expired!"
+msgstr "དཔང་ཡིག་དུས་ཚོད་ཡོལ་འདུག %s - "
+
+msgid "%s - Not yet valid!"
+msgstr "ད་དུང་ནུས་པ་ཐོན་མེད། %s -"
+
+msgid "%s - Proxy user"
+msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས་ཀྱི་སྤྱོད་མཁན། %s - "
+
+msgid "%s and %s. Total size: %s"
+msgstr "%s དང %s ཆེ་ཆུང་བསྡོམས།%s"
+
+msgid "%s and %s. Total size: At least %s"
+msgstr "%s དང %s ཆེ་ཆུང་བསྡོམས། མ་མཐར་ཡང  %s"
+
+msgid "%s byte"
+msgid_plural "%s bytes"
+msgstr[0] "ཡིག་ཚིགས %s"
+msgstr[1] "ཡིག་ཚིགས %s"
+
+msgid ""
+"%s could not be found. Without this component of FileZilla, SFTP will not work.\n"
+"\n"
+"Please download FileZilla again. If this problem persists, please submit a bug report."
+msgstr ""
+
+msgid ""
+"%s could not be found. Without this component of FileZilla, SFTP will not work.\n"
+"\n"
+"Possible solutions:\n"
+"- Make sure %s is in a directory listed in your PATH environment variable.\n"
+"- Set the full path to %s in the FZ_FZSFTP environment variable."
+msgstr ""
+
+msgid "%s with %d bits"
+msgstr "%s གནས %d ཡོད།"
+
+msgid "%u - Username"
+msgstr "སྤྱོད་མཁན་མིང %u -"
+
+msgid "%w - Proxy password"
+msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས་ཀྱི་གསང་ཨང %w -"
+
+msgid "&Abort previous connection and connect in current tab"
+msgstr ""
+"སྔོན་གྱི་འབྲེལ་མཐུད་དོར་ནས་མིག་སྔའི་གདོང་འཛར་ནང་འབྲེལ་མཐུད་བྱེད་པ། (&A)"
+
+msgid "&About..."
+msgstr "སྐོར། (&A)"
+
+msgid "&Account:"
+msgstr "རྩིས་ཐོ། (&A)"
+
+msgid "&Active"
+msgstr "རང་འགུལ། (&A)"
+
+msgid "&Add bookmark..."
+msgstr "དཔེ་འཛར་སྣོན་པ། (&A)"
+
+msgid "&Add files to queue"
+msgstr "ཡིག་ཆ་རུ་སྟར་ནང་སྣོན་པ ། (&A)"
+
+msgid "&Add key file..."
+msgstr "གསང་ལྡེ་སྣོན་པ། (&A)"
+
+msgid "&Add to queue"
+msgstr "རུ་སྟར་ནང་སྣོན་པ། (&A)"
+
+msgid "&Adjust server timezone offset:"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་དུས་ཁུལ་ལེགས་སྒྲིག (&A)"
+
+msgid "&Always trust certificate in future sessions."
+msgstr "རྗེས་ཀྱི་གླེང་མོལ་ནང་དཔང་ཡིག་འདིར་ནམ་ཡང་ཡིད་ཆེས་བྱེད་པ་ཡིན། (&A)"
+
+msgid "&Always trust this host, add this key to the cache"
+msgstr ""
+"རྒྱུན་དུ་གཙོ་འཁོར་འདིར་ཡིད་ཆེས་བྱེད་པ་མ་ཟད། "
+"གསང་ལྡེ་འདི་བར་གསོག་ནང་དུ་ཞུགས་པ་ཡིན། (&A)"
+
+msgid "&Always use default editor"
+msgstr "རྒྱུན་དུ་སོར་བཞག་གི་རྩོམ་སྒྲིག་ཆས་བེད་སྤྱོད་པ་ཡིན། (&A)"
+
+msgid "&Always use selection for unassociated files"
+msgstr ""
+"འབྲེལ་ལྡན་མེད་པའི་ཡིག་ཆ་ཚང་མར་ནམ་ཡང་གདམ་གསེས་འདི་བེད་སྤྱོད་པ་ཡིན། (&A)"
+
+msgid "&Always use this action"
+msgstr "རྒྱུན་དུ་བཀོལ་སྤྱོད་འདི་བེད་སྤྱོད་པ་ཡིན།"
+
+msgid "&Ask your operating system for the external IP address"
+msgstr ""
+"ཁྱེད་ཀྱི་བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ལ་ཕྱིའི IP གནས་ཡུལ་འདྲི་རྩད་བྱེད་པ། (&A)"
+
+msgid "&Auto"
+msgstr "རང་འགུལ། (&A)"
+
+msgid "&Autodetect"
+msgstr "རང་འགུལ་བཤེར་འཇལ། (&A)"
+
+msgid "&Binary"
+msgstr "གཉིས་གོང་འགྲིལ་ལུགས། (&B)"
+
+msgid "&Binary prefixes using SI symbols. (e.g. 1 KB = 1024 bytes)"
+msgstr ""
+"SI ཚུལ་གྱི་གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་སྔོན་འཇུག (དཔེར་ན 1 KB = 1024 bytes)(&B)）"
+
+msgid "&Bookmarks"
+msgstr "དཔེ་འཛར། (&B)"
+
+msgid "&Browse..."
+msgstr "མིག་བཤར། (&B)"
+
+msgid "&Burst tolerance:"
+msgstr "རྩེ་ཐང་ཆོག་པ། (&B)"
+
+msgid "&Cancel"
+msgstr "ལེན་པ།(&C)"
+
+msgid "&Clear private data..."
+msgstr "མི་སྒེར་གྱི་ཆ་འཕྲིན་གཙང་སེལ་བྱེད་པ། (&C)"
+
+msgid "&Close"
+msgstr "ཁ་རྒྱག(&C)"
+
+msgid "&Close FileZilla"
+msgstr "དུད་སྣེ FTP ཁ་རྒྱག་པ། (&C)"
+
+msgid "&Configure speed limits..."
+msgstr "མགྱོགས་ཚད་ཚོད་འཛིན་སྒྲིག་འགོད། (&C)"
+
+msgid "&Configure..."
+msgstr "སྡེབ་སྒྲིག (&C)"
+
+msgid "&Connect"
+msgstr "འབྲེལ་མཐུད། (&C)"
+
+msgid "&Copy current connection to Site Manager..."
+msgstr "མིག་སྔའི་འབྲེལ་མཐུད་དེ་ས་ཚུགས་དོ་དམ་ཆས་ནང་དུ་སྣོན་པ། (&C)"
+
+msgid "&Copy to clipboard"
+msgstr "དྲས་སྦྱར་པང་ནང་འདྲ་ཕབ་བྱེད་པ། (&C)"
+
+msgid "&Create directory"
+msgstr "དཀར་ཆག་བཟོ་བ། (&C)"
+
+msgid "&Create new tab"
+msgstr "གདོང་འཛར་གསར་བཟོ། (&C)"
+
+msgid "&Debug"
+msgstr "ཚོད་སྒྲིག (&D)"
+
+msgid "&Debug information in message log:"
+msgstr "བརྡ་འཕྲིན་ཟིན་ཐོའི་ནང་གི་ཚོད་སྒྲིག་ཆ་འཕྲིན། (&D)"
+
+msgid "&Default editor:"
+msgstr "སོར་བཞག་རྩོམ་སྒྲིག་ཆས། (&D)"
+
+msgid "&Default file exists action..."
+msgstr "ད་ཡོད་ཀྱི་ཡིག་ཆར་སོར་བཞག་བཀོལ་སྤྱོད་བྱེད་པ། (&D)"
+
+msgid "&Delay between failed login attempts:"
+msgstr "ཡང་བསྐྱར་ཐོ་འགོད་ཀྱི་ནར་འགྱངས་དུས་ཚོད། (&D)"
+
+msgid "&Delete"
+msgstr "འདོར་བ།(&D)"
+
+msgid "&Delete symlink"
+msgstr "མཚོན་རྟགས་སྦྲེལ་མཐུད་སུབ་པ། (&D)"
+
+msgid "&Directory comparison"
+msgstr "དཀར་ཆག་བསྡུར་བ། (&D)"
+
+msgid ""
+"&Disable synchronized browsing and continue changing the local directory"
+msgstr ""
+"གོམ་མཉམ་མིག་བཤར་མཚམས་བཞག་པ་མ་ཟད། རང་སའི་དཀར་ཆག་ལ་མུ་མཐུད་བཟོ་བཅོས་བྱེད་དམ། "
+"(&D)？"
+
+msgid ""
+"&Disable synchronized browsing and continue changing the remote directory"
+msgstr ""
+"གོམ་མཉམ་མིག་བཤར་མཚམས་བཞག་པ་མ་ཟད། རྒྱང་རིང་དཀར་ཆག་ལ་མ་མཐུད་བཟོ་བཅོས་བྱེད་དམ། "
+"(&D)？"
+
+msgid "&Discard local file then download and edit file anew"
+msgstr "རང་སའི་ཡིག་ཆ་དོར་ནས་ཡང་བསྐྱར་ཕབ་ལེན་དང་རྩོམ་སྒྲིག་བྱེད་པ། (&D)"
+
+msgid "&Disconnect"
+msgstr "འབྲེལ་མཐུད་གཅོད་པ། (&D)"
+
+msgid "&Disconnect from server"
+msgstr "ཞབས་ཞུ་ཆས་ནས་གཅོད་པ། (&D)"
+
+msgid "&Display momentary transfer speed instead of average speed"
+msgstr "དུས་ཐོག་བརྒྱུད་གཏོང་མགྱོགས་ཚད་མངོན་པ་ལས་ཆ་སྙོམས་ཀྱི་མགྱོགས་ཚད་མིན་པ།"
+
+msgid "&Display size in bytes"
+msgstr "ཡིག་ཚིགས་ཀྱིས་འཇལ་བྱེད་ཐོག་མངོན་པ།"
+
+msgid "&Do not remember passwords (recommended)"
+msgstr "གསང་ཨང་ཉར་ཚགས་མ་བྱེད་པ(འོས་སྦྱོར)། (&D)"
+
+msgid "&Don't show this dialog again."
+msgstr "གླེང་སྒྲོམ་མི་མངོན་པ། (&D)"
+
+msgid "&Don't use external IP address on local connections."
+msgstr "རང་སའི་འབྲེལ་མཐུད་ཀྱིས་ཕྱིའི IP གནས་ཡུལ་བེད་མི་སྤྱོད་པ། (&D)"
+
+msgid "&Double-click action on files:"
+msgstr "ཉིས་རྡེབ་ཡིག་ཆའི་བཀོལ་སྤྱོད། (&D)"
+
+msgid "&Download"
+msgstr "ཕབ་ལེན། (&D)"
+
+msgid "&Download to:"
+msgstr "ལ་ཕབ་ལེན། (&D)"
+
+msgid "&Download..."
+msgstr ""
+
+msgid "&Downloads:"
+msgstr ""
+
+msgid "&Edit"
+msgstr "རྩོམ་སྒྲིག (&E)"
+
+msgid "&Edit filter rules..."
+msgstr "འཚག་ཆས་ཀྱི་སྒྲིག་སྲོལ་རྩོམ་སྒྲིག (&E)"
+
+msgid "&Enable"
+msgstr "སྤྱོད་པ། (&E)"
+
+msgid "&Enable compression"
+msgstr "སྡུད་སྒྲིལ་སྤྱོད་པ། (&E)"
+
+msgid "&Enable speed limits"
+msgstr "མགྱོགས་ཚད་ཚོད་འཛིན་སྤྱོད་པ། (&E)"
+
+msgid "&Encoding:"
+msgstr "སྒྲིག་ཨང་། (&E)"
+
+msgid "&Encryption:"
+msgstr "གསང་སྡོམ། (&E)"
+
+msgid "&Enter custom command..."
+msgstr "རང་སྒྲིག་བཀའ་བརྡ་འཇུག་པ། (&E)"
+
+msgid "&Establish connection in a new tab"
+msgstr "གདོང་འཛར་གསར་པའི་ནང་འབྲེལ་མཐུད་འཛུགས་པ། (&E)"
+
+msgid "&Execute"
+msgstr "ལག་བསྟར། (&E)"
+
+msgid "&Export Site Manager entries"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཀྱི་ཟིན་ཐོ་ཕྱིར་འདྲེན་པ། (&E)"
+
+msgid "&Export..."
+msgstr "ཕྱིར་འདྲེན། (&E)"
+
+msgid "&Fall back to active mode"
+msgstr "རང་འགུལ་རྣམ་པར་ཕྱིར་སློག་པ། (&F)"
+
+msgid "&File"
+msgstr "ཡིག་ཆ། (&F)"
+
+msgid "&File Attributes..."
+msgstr "ཡིག་ཆའི་གཏོགས་གཤིས། (&F)"
+
+msgid "&File permissions..."
+msgstr "ཡིག་ཆའི་དབང་ཚད། (&F)"
+
+msgid "&File:"
+msgstr ""
+
+msgid "&Filter conditions:"
+msgstr "འཚག་ཆས་ཀྱི་ཆ་རྐྱེན། (&F)"
+
+msgid "&Filter sets:"
+msgstr "འཚག་ཆས་ཀྱི་ཚོགས་སྤྱི། (&F)"
+
+msgid "&Filters:"
+msgstr "འཚག་ཆས། (&F)"
+
+msgid "&Finish editing and delete local file"
+msgstr "རྩོམ་སྒྲིག་མཇུག་སྒྲིལ་བ་མ་ཟད་རང་སའི་ཡིག་ཆ་སུབ་པ། (&F)"
+
+msgid ""
+"&Flatten remote paths, download all contained files directly into target "
+"directory"
+msgstr ""
+"རྒྱང་རིང་བརྒྱུད་ལམ་བཀྲམ་ནས་ཚུད་པའི་ཡིག་ཆ་ཚང་མ་དམིགས་འབེན་དཀར་ཆག་ནང་ཕབ་ལེན་བྱེད་པ།"
+" (&F)"
+
+msgid "&Follow symlink, delete target directory contents"
+msgstr ""
+"མཚོན་རྟགས་སྦྲེལ་མཐུད་རྗེས་སྙེག་དང་དམིགས་འབེན་དཀར་ཆག་གི་ནང་དོན་སུབ་པ། (&F)"
+
+msgid "&Get external IP address from the following URL:"
+msgstr "གཤམ་གྱི URL ནས་ཕྱི་རོལ IP ཡི་གནས་ཡུལ་ཐོབ་པ། (&G)"
+
+msgid "&Global bookmark"
+msgstr "ཁྱོན་ཡོངས་དཔེ་འཛར། (&G)"
+
+msgid "&HTTP/1.1 using CONNECT method"
+msgstr "&HTTP/1.1 ཡིས CONNECT ཚུལ་བེད་སྤྱོད་པ་ཡིན།"
+
+msgid "&Help"
+msgstr "རོགས་རམ། (&H)"
+
+msgid "&Hide identical files"
+msgstr "གཅིག་མཚུངས་ཀྱི་ཡིག་ཆ་སྦེད་པ། (&H)"
+
+msgid "&Highest"
+msgstr "མཐོ་ཤོས། (&H)"
+
+msgid "&Highest available port:"
+msgstr "སྤྱོད་རུང་གི་མཐུད་ཁ་མཐོ་ཤོས། (&H)"
+
+msgid "&Host:"
+msgstr "གཙོ་འཁོར། (&H)"
+
+msgid "&IEC binary prefixes (e.g. 1 KiB = 1024 bytes)"
+msgstr ""
+"&IEC ཚུལ་གྱི་གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་སྔོན་འཇུག (དཔེར་ན 1KiB=1024 bytes "
+"ལྟ་བུ）"
+
+msgid "&ISO 8601 (example: 2007-09-15)"
+msgstr "&ISO 8601(དཔེར་བརྗོད 2007-09-15）"
+
+msgid "&Import..."
+msgstr "འདྲེན་འཇུག (&I)"
+
+msgid "&Inherit system's filetype associations"
+msgstr "རྒྱུད་ཁོངས་ཡིག་ཆའི་རིགས་ཀྱི་འབྲེལ་བ་རྒྱུན་འཛིན། (&I)"
+
+msgid "&Install new version"
+msgstr "པར་གཞི་གསར་པ་སྒྲིག་འཇུག (&I)"
+
+msgid "&Keep remote path structure relative to search root"
+msgstr ""
+"བཤེར་འཚོལ་གྱི་རྩ་བའི་དཀར་ཆག་ལ་ལྟོས་པའི་རྒྱང་རིང་དཀར་ཆག་བརྒྱུད་ལམ་རྒྱུན་སྲུང་བྱེད་པ།"
+" (&K)"
+
+msgid "&Key file:"
+msgstr "གསང་ལྡེའི་ཡིག་ཆ། (&K)"
+
+msgid "&Layout of file and directory panes:"
+msgstr "ཡིག་ཆ་དང་དཀར་ཆག་གི་ངོས་དཔང་བཀོད་པ། (&L)"
+
+msgid "&Limit local ports used by FileZilla"
+msgstr "དུད་སྣེ FTP ཡི་བེད་སྤྱོད་པའི་རང་སའི་མཐུད་ཁ་ཚོད་འཛིན་པ། (&L)"
+
+msgid "&Limit number of simultaneous connections"
+msgstr "མཉམ་བྱུང་འབྲེལ་མཐུད་གྲངས་ཚོད་འཛིན་པ། (&L)"
+
+msgid "&Local directory tree"
+msgstr "རང་སའི་དཀར་ཆག་སྡོང་བོ། (&L)"
+
+msgid "&Local directory:"
+msgstr "རང་སའི་དཀར་ཆག (&L)"
+
+msgid "&Log to file"
+msgstr "ཉིན་ཐོའི་ཡིག་ཆ། (&L)"
+
+msgid "&Logon Type:"
+msgstr "ཐོ་འགོད་རིགས་གྲས། (&L)"
+
+msgid "&Logontype:"
+msgstr "ཐོ་འགོད་རིགས་གྲས། (&L)"
+
+msgid "&Low"
+msgstr "དམའ་བ། (&L)"
+
+msgid "&Manage bookmarks..."
+msgstr "དཔེ་འཛར་དོམ་དམ། (&M)"
+
+msgid "&Manual transfer..."
+msgstr "ལག་སྒུལ་བརྒྱུད་གཏོང་། (&M)"
+
+msgid "&Maximum number of connections:"
+msgstr "འབྲེལ་མཐུད་གྲངས་ཆས་ཤོས། (&M)"
+
+msgid "&Maximum number of retries:"
+msgstr "ཡང་བསྐྱར་ཚོད་ལྟའི་ཐེངས་གྲངས་ཆེ་ཤོས། (&M)"
+
+msgid "&Message log"
+msgstr "ཉིན་ཐོའི་བརྡ་འཕྲིན། (&M)"
+
+msgid "&Minimize to tray"
+msgstr "འདེགས་སྡེར་ནང་ཆུང་སྒྱུར་བྱེད་པ། (&M)"
+
+msgid "&Name sorting mode:"
+msgstr "མིང་གི་རིམ་སྒྲིག་བྱེད་སྟངས། (&N)"
+
+msgid "&Name:"
+msgstr "མིང་། (&N)"
+
+msgid "&Network configuration wizard..."
+msgstr "དྲ་རྒྱའི་སྡེབ་སྒྲིག་སྣེ་ཁྲིད། (&N)"
+
+msgid "&New"
+msgstr "གསར་འཛུགས། (&N)"
+
+msgid "&New Site"
+msgstr "ས་ཚུགས་གསར་པ། (&N)"
+
+msgid "&New version available!"
+msgstr "པར་གཞི་གསར་པ་ཡོད། (&N)"
+
+msgid "&Next >"
+msgstr "རྗེས་མ། (&N) >"
+
+msgid "&No"
+msgstr "མིན། (&N)"
+
+msgid "&None"
+msgstr "མེད། (&N)"
+
+msgid "&Normal"
+msgstr "རྒྱུན་ལྡན། (&N)"
+
+msgid "&Numeric value:"
+msgstr "གྲངས་ཐང་། (&N)"
+
+msgid "&OK"
+msgstr "གཏན་འཁེལ། (&O)"
+
+msgid "&OPEN"
+msgstr "ཁ་ཕྱེ། (&O)"
+
+msgid "&Open"
+msgstr "ཁ་ཕྱེ། (&O)"
+
+msgid "&Overwrite"
+msgstr "འགེབས་པ། (&O)"
+
+msgid "&Passive"
+msgstr "གཞན་དབང་། (&P)"
+
+msgid "&Password:"
+msgstr "གསང་ཨང་། (&P)"
+
+msgid "&Play sound"
+msgstr "སྒྲ་གཏོང་བ། (&P)"
+
+msgid "&Port:"
+msgstr "མཐུད་ཁ། (&P)"
+
+msgid "&Preserve timestamps of transferred files"
+msgstr "ཡིག་ཆ་བརྒྱུད་གཏོང་གི་དུས་ཐམ་ཉར་བ། (&P)"
+
+msgid "&Queue"
+msgstr "རུ་སྟར། (&Q)"
+
+msgid "&Quickconnect"
+msgstr "མགྱོགས་མྱུར་འབྲེལ་མཐུད། (&Q)"
+
+msgid "&Quickconnect bar"
+msgstr "མགྱོགས་མྱུར་ངང་ལག་ཆའི་ཚང་ལ་འབྲེལ་བ། (&Q)"
+
+msgid "&Quickconnect history"
+msgstr "མགྱོགས་མྱུར་ངང་ཚང་གི་ལོ་རྒྱུས་ལ་འབྲེལ་བ། (&Q)"
+
+msgid "&Read"
+msgstr "ཀློག་ལེན། (&R)"
+
+msgid "&Reconnect"
+msgstr "བསྐྱར་མཐུད། (&R)"
+
+msgid "&Reconnect information"
+msgstr "ཆ་འཕྲིན་ལ་ཡང་བསྐྱར་འབྲེལ་བ། (&R)"
+
+msgid "&Refresh"
+msgstr ""
+
+msgid "&Remember password until FileZilla is closed"
+msgstr "དུད་སྣེ FTP ཁ་མ་བརྒྱབ་གོང་གསང་ཨང་ངེས་དགོས། (&R)"
+
+msgid "&Remember passwords"
+msgstr "གསང་ཨང་ངེས་པ། (&R)"
+
+msgid "&Remote directory:"
+msgstr "རྒྱང་རིང་དཀར་ཆག (&R)"
+
+msgid "&Remote path:"
+msgstr "རྒྱང་རིང་བརྒྱུད་ལམ། (&R)"
+
+msgid "&Remove"
+msgstr "འབུད་པ། (&R)"
+
+msgid "&Remove key"
+msgstr "གསང་ལྡེ་འབུད་པ། (&R)"
+
+msgid "&Remove selected"
+msgstr "བདམས་པ་འབུད་པ། (&R)"
+
+msgid "&Rename"
+msgstr "མིང་བསྐྱར་འདོགས། (&R)"
+
+msgid "&Rename..."
+msgstr ""
+
+msgid "&Reopen local file"
+msgstr "རང་སའི་ཡིག་ཆ་བསྐྱར་དུ་ཁ་ཕྱེ་བ། (&R)"
+
+msgid "&Replace invalid characters with:"
+msgstr "ནུས་མེད་ཡིག་རྟགས། (&R) ལ་བརྗེ་བ། "
+
+msgid "&Reset and requeue all"
+msgstr "ཡིག་ཆ་ཚང་མ་བསྐྱར་སྒྲིག་བྱས་ནས་ཡང་བསྐྱར་རུ་སྟར་ནང་ཞུགས་པ། (&R)"
+
+msgid "&Restart Wizard"
+msgstr "སྣེ་ཁྲིད་ཡང་བསྐྱར་འགོ་རྩོམ་པ། (&R)"
+
+msgid "&Resume"
+msgstr "བརྒྱུད་སྤྲོད། (&R)"
+
+msgid "&Run command..."
+msgstr "སྐྱོད་བཀའ་འཁོར་སྐྱོད། (&R)"
+
+msgid "&Run configuration wizard now..."
+msgstr "སྡེབ་སྒྲིག་སྣེ་ཁྲིད་འཁོར་སྐྱོད། (&R)"
+
+msgid "&Run update check now..."
+msgstr "གསར་སྒྱུང་ཞིབ་བཤེར། (&R)."
+
+msgid "&SITE"
+msgstr "ས་ཚུགས། (&S)"
+
+msgid "&SOCKS 5"
+msgstr ""
+
+msgid "&Save as..."
+msgstr "ཉར་ཚགས། (&S)"
+
+msgid "&Search"
+msgstr "བཤེར་འཚོལ། (&S)"
+
+msgid "&Search remote files..."
+msgstr "རྒྱང་རིང་ཡིག་ཆ་བཤེར་འཚོལ། (&S)"
+
+msgid "&Select Entry:"
+msgstr "འདེམ་པའི་ཚན་པ། (&S) "
+
+msgid "&Select language:"
+msgstr "སྐད་རིགས་འདེམ་པ། (&S)"
+
+msgid "&Select the columns that should be displayed:"
+msgstr "མངོན་དགོས་པའི་ལེ་ཚན་སྒྲིག་འགོད། (&S)"
+
+msgid "&Server"
+msgstr "ཞབས་ཞུ་ཆས། (&S)"
+
+msgid "&Settings"
+msgstr "སྒྲིག་འགོད། (&S)"
+
+msgid "&Settings..."
+msgstr ""
+
+msgid "&Show debug menu"
+msgstr "ཚོད་སྒྲིག་གདམ་བྱང་མངོན་པ། (&S)"
+
+msgid "&Show detailed log"
+msgstr "ཞིབ་ཕྲའི་ཉིན་ཐོ་མངོན་པ། (&S)"
+
+msgid "&Show message"
+msgstr "བརྡ་འཕྲིན་ཚུལ་མངོན་པ། (&S)"
+
+msgid "&Show timestamps in message log"
+msgstr "བརྡ་འཕྲིན་ཉིན་ཐོའི་ནང་དུས་ཐམ་མངོན་པ། (&S)"
+
+msgid "&Site Manager entries"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཀྱི་དོན་ཚན། (&S)"
+
+msgid "&Site Manager..."
+msgstr "ས་ཚུགས་དོ་དམ་ཆས། (&S)"
+
+msgid "&Site-specific bookmark"
+msgstr "དམིགས་བསལ་གྱི་ས་ཚུགས་དཔེ་འཛར། (&S)"
+
+msgid "&Skip"
+msgstr "མཆོང་བ། (&S)"
+
+msgid "&Speed limits"
+msgstr "མགྱོགས་ཚད་ཚོད་འཛིན། (&S)"
+
+msgid "&Start transfer immediately"
+msgstr "མྱུར་དུ་བརྒྱུད་གཏོང་འགོ་རྩོམ། (&S)"
+
+msgid "&Swap local and remote panes"
+msgstr "རང་སའི་ངོས་པང་དང་རྒྱང་རིང་ངོས་པང་བརྗེ་བ། (&S)"
+
+msgid "&TLS Ciphers"
+msgstr "གསང་ཨང་། &TLS"
+
+msgid "&Test"
+msgstr "ཚོད་ལེན། (&T)"
+
+msgid "&Theme:"
+msgstr "བརྗོད་གཞི། (&T)"
+
+msgid "&Transfer"
+msgstr "བརྒྱུད་གཏོང་། (&T)"
+
+msgid "&Transfer mode:"
+msgstr "བརྒྱུད་གཏོང་རྣམ་པ། (&T)"
+
+msgid "&Transfer queue"
+msgstr "བརྒྱུད་གཏོང་རུ་སྟར། (&T)"
+
+msgid "&Treat dotfiles as ASCII files"
+msgstr "ཚེག་ཡིག་ཆ་དེ ASCII ཡིག་ཆ་ལ་རྩིས་ནས་ལྟ་བ། (&T)"
+
+msgid "&Unedit"
+msgstr "བཟོ་བཅོས་སྐྱུར་བ། (&U)"
+
+msgid "&Update cached key for this host"
+msgstr "གཙོ་འཁོར་འདི་ཡི་བར་གསོག་གསང་ལྡེ་གསར་སྒྱུར་བྱེད་པ། (&U)"
+
+msgid "&Upload"
+msgstr "ཡར་བསྐུར། (&U)"
+
+msgid "&Uploads:"
+msgstr ""
+
+msgid "&Use custom program"
+msgstr "རང་བཟོའི་བྱ་རིམ་བེད་སྤྱོད། (&U)"
+
+msgid "&Use synchronized browsing"
+msgstr "གོམ་མཉམ་མིག་བཤར་བེད་སྤྱོད། (&U)"
+
+msgid "&Use system's default editor for text files"
+msgstr ""
+"རྒྱུད་ཁོངས་ཀྱི་སོར་བཞག་ཡིག་རྐྱང་རྩོམ་སྒྲིག་ཆས་སྤྱད་ནས་ཡིག་རྐྱང་ཡིག་ཆ་ཐག་གཅོད་བྱས་བྱེདཔ།"
+" (&U)"
+
+msgid "&Use the following IP address:"
+msgstr "གཤམ་གྱི IP གནས་ཡུལ་སྤྱོད་པ། (&U)"
+
+msgid "&Use the server's external IP address instead"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་ཕྱིའི IP གནས་ཡུལ་བེད་སྤྱད་ནས་ཚབ་བྱེད་པ། (&U)"
+
+msgid "&Use thousands separator"
+msgstr "སྟོང་གནས་ཆོད་རྟགས་བེད་སྤྱོད་པ། (&U)"
+
+msgid "&User:"
+msgstr "སྤྱོད་མཁན། (&U)"
+
+msgid "&Username:"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་། (&U)"
+
+msgid "&Version %s"
+msgstr "པར་གཞི %s། (&V)"
+
+msgid "&View"
+msgstr "ལྟ་བ། (&V)"
+
+msgid "&View/Edit"
+msgstr "ལྟ་བ/རྩོམ་སྒྲིག (&V)"
+
+msgid "&Watch locally edited files and prompt to upload modifications"
+msgstr ""
+"རང་སར་རྩོམ་སྒྲིག་བྱས་པའི་ཡིག་ཆར་ལྟ་ཞིབ་བྱེད་པ་མ་ཟད། "
+"ཡར་བསྐུར་བཟོ་བཅོས་བརྡ་སྟོན་བྱེད་པ། (&W)"
+
+msgid "&When checking for updates, check for:"
+msgstr "གསར་སྒྱུར་ལ་ཞིབ་བཤེར་བྱེད་བཞིན་པ། ཞིབ་བཤེར། (&W)"
+
+msgid "&Write"
+msgstr "འབྲི་བ། (&W)"
+
+msgid "&Yes"
+msgstr "ཡིན། (&Y)"
+
+msgid "'%s' does not exist or cannot be accessed."
+msgstr "“%s” མེད་པའམ་ཡང་ན་འཚམས་འདྲི་བྱེད་ཐབས་བྲལ།"
+
+msgid "'%s' is not a directory."
+msgstr "`%s'ནི་དཀར་ཆག་ཅིག་མིན།"
+
+msgid "'Account' logontype not supported by selected protocol"
+msgstr ""
+"བདམས་པའི་གྲོས་ཆིངས་ཀྱིས་“རྩིས་ཐོ”རྣམ་པའི་ཐོ་འགོད་རིགས་ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid ""
+"'Normal' and 'Account' logontypes are not available, using 'Ask for "
+"password' instead."
+msgstr ""
+"“རྒྱུན་ལྡན་”དང་“རྩིས་ཐོ”ཡི་ཐོ་འགོད་རིགས་སྤྱོད་རུང་མིན། "
+"ཁྱེད་ཀྱི“གསང་ཨང་འདྲི་རྩད”བེད་སྤྱོད་རོགས། "
+
+msgid ""
+"'Normal' and 'Account' logontypes are not available. Your entry has been "
+"changed to 'Ask for password'."
+msgstr ""
+"“རྒྱུན་ལྡན་”དང་“རྩིས་ཐོ”ཡི་ཐོ་འགོད་རིགས་སྤྱོད་རུང་མིན། "
+"ཁྱེད་ཀྱི་ཐོ་འགོད་འཛུལ་སྒོ་དེ་“འདྲི་རྩད་གསང་ཨང”ལ་བསྒྱུར་ཟིན་པ་ཡིན།"
+
+msgid ""
+"'quote' is usually a local command used by commandline clients to send the "
+"arguments following 'quote' to the server. You might want to enter the raw "
+"command without the leading 'quote'."
+msgstr ""
+
+msgid "(%d object filtered)"
+msgid_plural "(%d objects filtered)"
+msgstr[0] "(%d བྱ་ཡུལ་དེ་འཚག་སེལ་བྱས།)"
+msgstr[1] "(%d བྱ་ཡུལ་དེ་འཚག་སེལ་བྱས།)"
+
+msgid "(%u%% downloaded)"
+msgstr "(%u%% ཕབ་ལེན་ཟིན།)"
+
+msgid "(0 for no limit)"
+msgstr "(0 ཡི་ཚོད་འཛིན་མེད་པ་མཚོན་པ་ཡིན།）"
+
+msgid "(0-99)"
+msgstr ""
+
+msgid "(0-999 seconds)"
+msgstr "(སྐར་ཆ 0-999)"
+
+msgid "(1-10)"
+msgstr ""
+
+msgid "(10-9999, 0 to disable)"
+msgstr "(10-9999  0ཡིས་སྤྱོད་འགོག་མཚོན་པ་ཡིན།)"
+
+msgid "(app-compat is set to %d.%d)"
+msgstr "(པར་གཞི %d.%d དང་འཆམ་མཐུན་ལ་སྒྲིག་འགོད་ཟིན།)"
+
+msgid "(example: %H:%M)"
+msgstr "(དཔེ་མཚོན %H:%M)"
+
+msgid "(example: %Y-%m-%d)"
+msgstr "(དཔེ་མཚོན %Y-%m-%d)"
+
+msgid "(in %s/s)"
+msgstr "(%s/s ཡི)"
+
+msgid "-"
+msgstr " -"
+
+msgid "--:--:-- left"
+msgstr " --:--:-- ལྷག་པ།"
+
+msgid "-c cannot be used together with an FTP URL."
+msgstr ""
+
+msgid "-l can only be used together with an FTP URL."
+msgstr ""
+
+msgid "-s and -c cannot be present at the same time."
+msgstr ""
+
+msgid "-s cannot be used together with an FTP URL."
+msgstr ""
+
+msgid "0 - None"
+msgstr "0 - མེད།"
+
+msgid "1 - Warning"
+msgstr "1 - ཉེན་བརྡ།"
+
+msgid "2 - Info"
+msgstr "2 - ཆ་འཕྲིན།"
+
+msgid "3 - Verbose"
+msgstr "3 - ཞིབ་ཕྲ།"
+
+msgid "32-bit system"
+msgstr "གནས 32 ཡི་རྒྱུད་ཁོངས།"
+
+msgid "4 - Debug"
+msgstr "4 - ཚོད་སྒྲིག"
+
+msgid "64-bit system"
+msgstr "གནས 64 ཡི་རྒྱུད་ཁོངས།"
+
+msgid "< &Back"
+msgstr "< གོམ་པ་གོང་མ(&B)"
+
+msgid "?"
+msgstr "?"
+
+msgid ""
+"A bookmark with the entered name already exists. Please enter an unused "
+"name."
+msgstr ""
+"མིང་འདིའི་དཔེ་འཛར་གནས་འདུག་པས། བེད་སྤྱོད་མ་བྱས་པའི་མིང་ཞིག་འཇུག་རོགས། "
+
+msgid "A default editor needs to be set."
+msgstr "སོར་བཞག་གི་རྩོམ་སྒྲིག་ཆས་སྒྲིག་འགོད་བྱེད་དགོས། "
+
+msgid "A directory cannot be dragged into one of its subdirectories."
+msgstr "དཀར་ཆག་དེ་བུ་ཡི་དཀར་ཆག་ནང་དུ་འདྲུད་ཐབས་བྲལ། "
+
+msgid ""
+"A few servers don't allow passive mode or are misconfigured. In such cases "
+"you would have to use active mode. In active mode, FileZilla opens a port "
+"and asks the server to connect to it."
+msgstr ""
+
+msgid "A file previously opened has been changed."
+msgstr "སྔོན་དུ་ཁ་ཕྱེ་བའི་ཡིག་ཆ་བཟོ་བཅོས་བྱས་འདུག "
+
+msgid "A file with that name is already being transferred."
+msgstr "མིང་འདིའི་ཡིག་ཆ་བརྒྱུད་གཏོང་བྱེད་བཞིན་ཡོད། "
+
+msgid ""
+"A file with that name is still being edited. Please close it and try again."
+msgstr ""
+"མིང་འདིའི་ཡིག་ཆ་སྔར་བཞིན་རྩོམ་སྒྲིག་བྱེད་ཀྱི་ཡོད་པས། "
+"དེ་ཁ་རྒྱག་ནས་ཡང་བསྐྱར་ཚོད་ལྟ་ཞིག་བྱེད་རོགས། "
+
+msgid ""
+"A local filename could not be decoded.\n"
+"Please make sure the LC_CTYPE (or LC_ALL) environment variable is set correctly.\n"
+"Unless you fix this problem, files might be missing in the file listings.\n"
+"No further warning will be displayed this session."
+msgstr ""
+
+msgid "A new version of FileZilla is available:"
+msgstr "པར་གཞི་གསར་བའི་དུད་སྣེ FTP ཡོད་པ། སྤྱོད་རུང་བ།"
+
+msgid ""
+"A proper server always shows all files, but some broken servers hide files "
+"from the user. Use this option to force the server to show all files."
+msgstr ""
+
+msgid ""
+"A proper server does not require this. Contact the server administrator if "
+"you need this."
+msgstr ""
+"རྒྱུན་ལྡན་གྱི་ཞབས་ཞུ་ཆས་ལ་འདེམས་ཚན་འདི་མི་དགོས། "
+"གལ་ཏེ་ཁྱེད་ལ་དགོས་ན་ཞབས་ཞུ་ཆས་ཀྱི་དོ་དམ་པར་འབྲེལ་གཏུག་བྱོས། "
+
+msgid ""
+"A remote operation is in progress and synchronized browsing is enabled.\n"
+"Disable synchronized browsing and continue changing the local directory?"
+msgstr ""
+
+msgid "A&SCII"
+msgstr ""
+
+msgid "A&dd"
+msgstr "ཁ་སྣོན། (&D)"
+
+msgid "A&llow resume of ASCII files"
+msgstr "ASCII ཡི་ཡིག་ཆ་མུ་མཐུད་བརྒྱུད་གཏོང་ཆོག (&L)"
+
+msgid "A&pply only to downloads"
+msgstr "ཕབ་ལེན་ཁོ་ནར་ནུས་པ་ཐོན་པ། (&P)"
+
+msgid "A&pply only to uploads"
+msgstr "ཡར་བསྐུར་ཁོ་ནར་ནུས་པ་ཐོན་པ། (&P)"
+
+msgid "A&pply to all files and directories"
+msgstr "ཡིག་ཆ་དང་དཀར་ཆག་ཚང་མར་བཀོལ་སྤྱོད་བྱེད་པ། (&P)"
+
+msgid "A&utomatically remove successful transfers"
+msgstr "ལེགས་གྲུབ་ཟིན་པའི་བརྒྱུད་གཏོང་རང་འགུལ་ངང་འབུད་པ། (&U)"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "About FileZilla"
+msgstr "དུད་སྣེ FTP ཡི་སྐོར།"
+
+msgid "Above the file lists"
+msgstr "ཡིག་ཆའི་རེའུ་མིག་སྟེང་དུ།"
+
+msgid "Account"
+msgstr "རྩིས་ཐོ།"
+
+msgid "Action after queue &completion"
+msgstr "རུ་སྟར་ལེགས་གྲུབ་ཟིན་རྗེས་འགུལ་སྟངས་ལག་བསྟར་བྱེད་པ།"
+
+msgid "Action on selected file:"
+msgstr "བདམས་པའི་ཡིག་ཆའི་འགུལ་སྟངས།"
+
+msgid "Action to perform:"
+msgstr "འགུལ་སྟངས་ལག་བསྟར་བྱེད་པ།"
+
+msgid "Action:"
+msgstr "འགུལ་སྟངས།："
+
+msgid "Active mode"
+msgstr "རང་འགུལ་རྣམ་པ།"
+
+msgid ""
+"Active mode FTP test failed. FileZilla does not know the correct external IP"
+" address."
+msgstr ""
+"རང་འགུལ་རྣམ་པའི FTP ཚོད་རྒྱུགས་ཕམ་པ། དུད་སྣེ FTP ཕྱི་རོལ་གྱི IP "
+"གནས་ཡུལ་ཡང་དག་མི་ཤེས་པས་རེད། "
+
+msgid ""
+"Active mode FTP test failed. FileZilla does not know the correct external IP"
+" address. In addition to that, your router has modified the sent address."
+msgstr ""
+
+msgid ""
+"Active mode FTP test failed. FileZilla knows the correct external IP "
+"address, but your router or firewall has misleadingly modified the sent "
+"address."
+msgstr ""
+
+msgid "Active mode IP"
+msgstr "རང་འགུལ་རྣམ་པ IP"
+
+msgid "Add files to &queue only"
+msgstr "ཡིག་ཆ་ཁོ་ན་རུ་སྟར་དུ་སྣོན་པ། (&Q)"
+
+msgid "Add selected directory to the transfer queue"
+msgstr "བདམས་ཟིན་པའི་ཡིག་ཁུག་བརྒྱུད་གཏོང་རུ་སྟར་དུ་སྣོན་པ།"
+
+msgid "Add selected files and folders to the transfer queue"
+msgstr "བདམས་ཟིན་པའི་ཡིག་ཁུག་དང་ཡིག་ཆ་བརྒྱུད་གཏོང་རུ་སྟར་དུ་སྣོན་པ།"
+
+msgid "Add to queue"
+msgstr "རུ་སྟར་དུ་སྣོན་པ།"
+
+msgid "Address type not supported"
+msgstr "གནས་ཡུལ་འདིའི་རིགས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Advanced"
+msgstr "མཐོ་རིམ།"
+
+msgid ""
+"Advice: Unless you want to test new features, please keep using stable "
+"versions only. Beta versions and nightly builds are development versions "
+"meant for testing purposes. Nightly builds of FileZilla may not work as "
+"expected and might even damage your system. Use beta versions and nightly "
+"builds at your own risk."
+msgstr ""
+
+msgid "Al&ways perform this action"
+msgstr "རྒྱུན་དུ་བཀོལ་སྤྱོད་འདི་བྱེད། (&W)"
+
+msgid "Algorithm:"
+msgstr "རྩི་ཐབས།"
+
+msgid "All files have been successfully transferred"
+msgstr "ཡིག་ཆ་ཚང་མ་བརྒྱུད་གཏོང་ལེགས་གྲུབ་ཟིན་པ།"
+
+msgid "All ports in the given range have to be between 1024 and 65535."
+msgstr ""
+"དམིགས་འཛུགས་བྱས་པའི་མཐུད་ཁ་ཡོད་ཚད་ཀྱི་ཁྱབ་ཁོངས་ནི་ངེས་པར་དུ 1024 དང 65535 "
+"བར་ཡིན་དགོས། "
+
+msgid "All transfers have finished. %d file could not be transferred."
+msgid_plural "All transfers have finished. %d files could not be transferred."
+msgstr[0] ""
+"བརྒྱུད་གཏོང་ཚང་མ་མཇུག་སྒྲིལ་སོང་། ཡིག་ཆ %d བརྒྱུད་གཏོང་བྱེད་མི་ཐུབ།"
+msgstr[1] ""
+"བརྒྱུད་གཏོང་ཚང་མ་མཇུག་སྒྲིལ་སོང་། ཡིག་ཆ %d བརྒྱུད་གཏོང་བྱེད་མི་ཐུབ།"
+
+msgid "Allow &fall back to other transfer mode on failure"
+msgstr "ཕམ་རྗེས་བརྒྱུད་གཏོང་རྣམ་པ་གཞན་པར་ཕྱིར་ལོག་ཆོག (&F)"
+
+msgid "Allow fallback to other transfer mode on failure"
+msgstr "ཕམ་རྗེས་བརྒྱུད་གཏོང་རྣམ་པ་གཞན་པར་ཕྱིར་ལོག་ཆོག"
+
+msgid "Already connected"
+msgstr "འབྲེལ་མཐུད་ཟིན་པ།"
+
+msgid "Alternative name:"
+msgid_plural "Alternative names:"
+msgstr[0] "མིང་གཞན།"
+msgstr[1] "མིང་གཞན།"
+
+msgid ""
+"Alternatively you can use the Pageant tool from PuTTY to manage your keys, "
+"FileZilla does recognize Pageant."
+msgstr ""
+
+msgid ""
+"Alternatively you can use your system's SSH agent. To do so, make sure the "
+"SSH_AUTH_SOCK environment variable is set."
+msgstr ""
+
+msgid ""
+"Alternatively, you can also download the latest version from the FileZilla "
+"website:"
+msgstr "ཡང་ན། དུད་སྣེ FTP དྲ་ཚིགས་ནས་པར་གཞི་གསར་ཤོས་ཕབ་ལེན་བྱེད་དགོས།"
+
+msgid ""
+"An error occurred loading the transfer queue from \"%s\".\n"
+"Some queue items might not have been restored."
+msgstr ""
+
+msgid ""
+"An error occurred saving the transfer queue to \"%s\".\n"
+"Some queue items might not have been saved."
+msgstr ""
+
+msgid ""
+"An item with the same name as the dragged item already exists at the target "
+"location."
+msgstr ""
+"དམིགས་འབེན་གནས་ཡུལ་དུ་འདྲུད་འཐེན་རྣམ་གྲངས་དང་གཅིག་མཚུངས་ཀྱི་ཡིག་ཆ་ཡོད། "
+
+msgid "Anonymous"
+msgstr "གསང་མིང་།"
+
+msgid ""
+"Another remote operation is already in progress, cannot change directory "
+"now."
+msgstr ""
+"རྒྱང་རིང་བཀོལ་སྤྱོད་གཞན་ཞིག་བྱེད་བཞིན་ཡོད་པས། ད་ལྟ་དཀར་ཆག་བསྒྱུར་མི་ཐུབ། "
+
+msgid "Any changes made in the Site Manager could not be saved."
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཀྱི་བཟོ་བཅོས་གང་རུང་ཚང་མ་ཉར་ཚགས་བྱེད་ཐབས་བྲལ། "
+
+msgid "Any changes made to the filters could not be saved."
+msgstr "འཚག་ཆས་ཀྱི་བཟོ་བཅོས་གང་རུང་ཚང་མ་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Any changes made to the filters will not be saved."
+msgstr "འཚག་ཆས་ཀྱི་བཟོ་བཅོས་གང་རུང་ཚང་མ་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "App&ly to directories only"
+msgstr "དཀར་ཆག་ཁོ་ནར་སྤྱོད་པ། (&L)"
+
+msgid "Apply"
+msgstr "ཉེར་སྤྱོད།"
+
+msgid "Apply to &current queue only"
+msgstr "མིག་སྔའི་རུ་སྟར་ཁོར་ནར་བཀོལ་སྤྱོད་བྱེད་པ། (&C)"
+
+msgid "Apply to &files only"
+msgstr "ཡིག་ཆ་ཁོ་ནར་སྤྱོད་པ། (&C)"
+
+msgid "Archive"
+msgstr "ཉར་ཚགས།"
+
+msgid "Argument buffer overflow"
+msgstr "ཞུགས་གྲངས་བར་གསོག་ཁུལ་ལུད་པ།"
+
+msgid "As tab in the transfer queue pane"
+msgstr "བརྒྱུད་གཏོང་རུ་སྟར་ངོས་པང་ནང་གི་གདོང་འཛར་དུ་རྩིས་པ།"
+
+msgid "Ask for action"
+msgstr "འདྲི་རྩད་བཀོལ་སྤྱོད།"
+
+msgid "Ask for password"
+msgstr "གསང་ཨང་འདྲི་རྩད་བྱེད་པ། "
+
+msgid "Ask operating system for a port."
+msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ལ་མཐུད་ཁ་འདྲི་རྩད་བྱེད་པ། "
+
+msgid "Ask your operating system for the external IP address"
+msgstr "ཁྱེད་ཀྱི་བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ལ་ཕྱིའི IP གནས་ཡུལ་འདྲི་རྩད་བྱེད་པ།"
+
+msgid "Asking questions in the FileZilla forums"
+msgstr "དུད་སྣེ FTP གླེང་སྟེགས་ཐོག་དྲི་བ།"
+
+msgid "Associated program not found:"
+msgstr "འབྲེལ་ཡོད་ཀྱི་བྱ་རིམ་རྙེད་མ་བྱུང་།"
+
+msgid "At least one filter condition is incomplete"
+msgstr "མ་ཐར་ཡང་འཚག་པའི་ཆ་རྐྱེན་གཅིག་ཚང་མེད།"
+
+msgid "At this point, all required information has been gathered."
+msgstr "སྐབས་འདིར་དགོས་ངེས་ཀྱི་ཆ་འཕྲིན་ཚང་མ་འཚོལ་བསྡུ་ལེགས་གྲུབ་བྱུང་སོང་།"
+
+msgid "Attribute"
+msgstr "ས་བཅད"
+
+msgid "Authentication failed."
+msgstr "དབང་སྤྲོད་ཕམ་པ།"
+
+msgid "Author:"
+msgstr "རྩོམ་པ་པོ།"
+
+msgid "Auto"
+msgstr "རང་འགུལ།"
+
+msgid "Automatic file type classification"
+msgstr "རང་འགུལ་ངང་ཡིག་ཆར་རིགས་དབྱེ་བ།"
+
+msgid "Available sizes"
+msgstr "སྤྱོད་རུང་ཆེ་ཆུང་།"
+
+msgid "B <Unit symbol for bytes. Only translate first letter>"
+msgstr ""
+"B < ཡིག་ཚིགས་འཇལ་བྱེད་ཀྱི་མཚོན་རྟགས། "
+"ཡི་གེ་དང་པོ་ཁོ་ན་བརྒྱུད་སྐྱེལ་བྱེད་པ་ཡིན།"
+
+msgid "B&ypass proxy"
+msgstr "ལས་ཚབ་ལ་བསྐོར་བ། (&Y)"
+
+msgid "Bad file descriptor"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་ཆའི་བརྗོད་རྟགས།"
+
+msgid "Basic usage instructions"
+msgstr "གཞི་རྩའི་བེད་སྤྱོད་གསལ་བཤད།"
+
+msgid "Behaviour"
+msgstr ""
+
+msgid "Being edited"
+msgstr "རྩོམ་སྒྲིག་བྱེད་བཞིན་པ།"
+
+msgid "Beware! Certificate has been revoked"
+msgstr "གཟབ་གཟབ་གྱིས། དཔང་ཡིག་ཕྱིར་འཐེན་བྱས་ཟིན།"
+
+msgid "Binary"
+msgstr "གཉིས་གོང་འགྲིལ་ལུགས་"
+
+msgid "Blackboard"
+msgstr "ནག་པང་།"
+
+msgid "Bookmark"
+msgstr "དཔེ་བྱང་།"
+
+msgid "Bookmark:"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr "དཔེ་རྟགས།"
+
+msgid "Browse..."
+msgstr "རགས་ལྟ།"
+
+msgid "Build date:"
+msgstr "སྒྲིག་སྒྱུར་དུས་ཚོད།"
+
+msgid "Build information"
+msgstr "སྒྲིག་སྒྱུར་ཆ་འཕྲིན།"
+
+msgid "Business category:"
+msgstr "ལས་སྒོའི་རིགས་གྲས།"
+
+msgid ""
+"By default uses any available local port to establish transfers in active "
+"mode. If you want to limit FileZilla to use only a small range of ports, "
+"please enter the port range below."
+msgstr ""
+
+msgid "C&lear all"
+msgstr "ཚང་མ་གཙང་སེལ། (&C)"
+
+msgid "C&opy URL(s) to clipboard"
+msgstr "URL དེ་དྲས་སྦྱར་པང་། (&O) ནང་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "C&ustom"
+msgstr "རང་བཟོ། (&U)"
+
+msgid "C&ustom filetype associations:"
+msgstr "ཡིག་ཆའི་རྣམ་གཞག་འབྲེལ་བ་རང་བཟོ། (&U)"
+
+msgid "CPU features:"
+msgstr "CPU ཡི་ཁྱད་ཆོས།"
+
+msgid "Calculating timezone offset of server..."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་དུས་ཁྱད་རྩིས་རྒྱག་པ།"
+
+msgid "Can't read from file"
+msgstr "ཡིག་ཆ་ཀློག་མི་ཐུབ།"
+
+msgid "Can't write data to file."
+msgstr "གཞི་གྲངས་དེ་ཡིག་ཆའི་ནང་འབྲི་ཐབས་བྲལ། "
+
+msgid "Can't write data to file: %s"
+msgstr "གཞི་གྲངས་དེ་ཡིག་ཆ %s ཡི་ནང་འབྲི་ཐབས་བྲལ། "
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Cannot access '%s', no media inserted or drive not ready."
+msgstr ""
+"“%s” ལ་ལྟ་སྤྱོད་བྱེད་ཐབས་བྲལ། "
+"སྨྱན་བྱེད་མེད་པའམ་ཡང་ན་སྐུལ་ཆས་གྲ་སྒྲིག་བྱས་མེད།"
+
+msgid "Cannot add server to Site Manager"
+msgstr "ཞབས་ཞུ་ཆས་ས་ཚུགས་དོ་དམ་ཆས་ལ་སྣོན་ཐབས་བྲལ།"
+
+msgid "Cannot assign requested address"
+msgstr "རེ་ཞུའི་གནས་ཡུལ་བགོས་ཐབས་བྲལ།"
+
+msgid ""
+"Cannot close tab while busy.\n"
+"Cancel current operation and close tab?"
+msgstr ""
+
+msgid ""
+"Cannot compare directories, different filters for local and remote "
+"directories are enabled"
+msgstr ""
+"དཀར་ཆག་བསྡུར་ཐབས་བྲལ། "
+"རང་ས་དང་རྒྱང་རིང་དཀར་ཆག་ལ་འཚག་ཆས་མི་འདྲ་བ་བེད་སྤྱད་འདུག"
+
+msgid "Cannot create new filter"
+msgstr "འཚག་ཆས་གསར་པ་གསར་བཟོ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot edit file"
+msgstr "ཡིག་ཆ་རྩོམ་སྒྲིག་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot edit file, not connected to any server."
+msgstr "ཡིག་ཆ་རྩོམ་སྒྲིག་བྱེད་ཐབས་བྲལ། ཞབས་ཞུ་ཆས་གང་ཡང་འབྲེལ་མཐུད་བྱས་མེད། "
+
+msgid "Cannot edit file, remote path unknown."
+msgstr "ཡིག་ཆ་རྩོམ་སྒྲིག་བྱེད་ཐབས་བྲལ། རྒྱང་རིང་གི་བརྒྱུད་ལམ་མི་ཤེས། "
+
+msgid ""
+"Cannot establish FTP connection to an SFTP server. Please select proper "
+"protocol."
+msgstr ""
+"ཞབས་ཞུ་ཆས SFTP དང FTP འབྲེལ་མཐུད་བྱེད་ཐབས་བྲལ། "
+"འོས་འཚམ་གྱི་གྲོས་ཆིངས་གདམ་དགོས། "
+
+msgid "Cannot load Quickconnect bar from resource file"
+msgstr "ཐོན་ཁུངས་ཡིག་ཆ་ནས་མགྱོགས་མྱུར་འབྲེལ་མཐུད་ཚང་འདྲེན་འཇུག་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot load key file"
+msgstr "གསང་ལྡེ་ཡི་ཡིག་ཆ་ཁུར་སྣོན་བྱེ་ཐབས་བྲལ།"
+
+msgid "Cannot load toolbar from resource file"
+msgstr "ཐོན་ཁུངས་ཡིག་ཆ་ནས་ལག་ཆའི་ཚང་འདྲེན་འཇུག་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cannot remember password"
+msgstr "གསང་ཨང་ངེས་དཀའ།"
+
+msgid "Cannot rename entry"
+msgstr "ཟིན་ཐོར་མིང་བསྐྱར་འདོགས་མི་ཐུབ།"
+
+msgid "Cannot rename file"
+msgstr "ཡིག་ཆར་མིང་བསྐྱར་འདོགས་མི་ཐུབ་པ།"
+
+msgid "Cannot resolve hostname to IPv4 address for use with SOCKS4 proxy."
+msgstr ""
+"གཙོ་འཁོར་དེ IPv4 གནས་ཡུལ་དུ་སུ་དབྱེ་ཞིབ་བྱས་ནས་ལས་ཚབ SOCKS4 ལ་བཀོལ་མི་ཐུབ།"
+
+msgid "Cannot save filterset"
+msgstr "འཚག་ཆས་ཚོགས་སྤྱི་ཉར་ཚགས་མི་ཐུབ།"
+
+msgid "Cannot select filter"
+msgstr "འཚག་ཆས་གདམ་མི་ཐུབ།"
+
+msgid "Cannot set file association"
+msgstr "ཡིག་ཆའི་རྣམ་གཞག་གི་འབྲེལ་བ་སྒྲིག་འགོད་མི་ཐུབ།"
+
+msgid "Cannot show dialog"
+msgstr "གླེང་སྒྲོམ་མི་མངོན་པ།"
+
+msgid "Cannot view/edit selected file"
+msgstr "བདམས་པའི་ཡིག་ཆར་ལྟ་བ་དང་རྩོམ་སྒྲིག་བྱེད་མི་ཐུབ་པ།"
+
+msgid "Case insensitive"
+msgstr "འབྲི་ཆེ་ཆུང་སྣང་མེད་དུ་གཏོང་།"
+
+msgid "Case insensitive (default)"
+msgstr "བྲིས་ཆེ་ཆུང་དབྱེ་བ་མེད་པ(སོར་བཞག)"
+
+msgid "Case sensitive"
+msgstr "འབྲི་ཆེ་ཆུང་དབྱེ་བ་འབྱེད།"
+
+msgid "Case sensitive (default)"
+msgstr "བྲིས་ཆེ་ཆུང་དབྱེ་བ་ཡོད་པ(སོར་བཞག)"
+
+msgid "Categories to clear"
+msgstr "གཙང་སེལ་བྱེད་དགོས་པའི་རིགས་གྲས།"
+
+msgid "Certificate and session data are not available yet."
+msgstr "མིག་སྔར་དཔང་ཡིག་དང་ལབ་གླེང་གི་གཞི་གྲངས་སྤྱོད་མི་ཆོག"
+
+msgid "Certificate in chain:"
+msgstr "དཔང་ཡིག་སྦྲེལ་མཐུད།"
+
+msgid "Certificate issuer"
+msgstr "དཔང་ཡིག་སྤྲོད་མཁན།"
+
+msgid "Challenge:"
+msgstr "གཏན་འཁེལ་བྱེད་དགོས་པ།"
+
+msgid "Change file attributes"
+msgstr "ཡིག་ཆའི་གཏོགས་གཤིས་བསྒྱུར་བ།"
+
+msgid "Change the file permissions."
+msgstr "ཡིག་ཆའི་དབང་ཚད་བསྒྱུར་བ།"
+
+msgid "Changing logfile settings requires restart of FileZilla."
+msgstr ""
+"ཉིན་ཐོ་ཡིག་ཆ་ཡི་སྒྲིག་འགོད་བཟོ་བཅོས་སྐབས་དུད་སྣེ FTP བསྐྱར་སློང་བྱེད་དགོས། "
+
+msgid "Character encoding issue"
+msgstr "ཡིག་རྟགས་སྒྲིག་ཨང་གི་གནད་དོན།"
+
+msgid "Charset"
+msgstr "ཡིག་རྟགས་ཚོགས།"
+
+msgid "Check for FileZilla &updates automatically:"
+msgstr "དུད་སྣེ FTP ཡི་གསར་སྒྱུར་ལ་རང་འགུལ་ཞིབ་བཤེར་བྱེད་པ། (&U)"
+
+msgid "Check for Updates"
+msgstr "གསར་སྒྱུར་ལ་ཞིབ་བཤེར་བྱེད་པ།"
+
+msgid "Check for updates failed"
+msgstr "ཞིབ་བཤེར་གསར་སྒྱུར་ཕམ་པ།"
+
+msgid ""
+"Check your login credentials. The entered password starts or ends with a "
+"space character."
+msgstr ""
+"ཁྱེད་ཀྱི་ཐོ་འགོད་དཔང་རྟགས་ལ་ཞིབ་བཤེར་གནང་རོགས། "
+"ནང་འཇུག་བྱས་པའི་གསང་ཨང་གི་མགོ་ཚུགས་སའམ་ཡང་ན་མཇུག་ཏུ་མིག་སྟོང་འདུག "
+
+msgid ""
+"Check your login credentials. The entered username starts or ends with a "
+"space character."
+msgstr ""
+"ཁྱེད་ཀྱི་ཐོ་འགོད་དཔང་རྟགས་ལ་ཞིབ་བཤེར་གནང་རོགས། "
+"ནང་འཇུག་བྱས་པའི་སྤྱོད་མཁན་མིང་གི་མགོ་ཚུགས་སའམ་ཡང་ན་མཇུག་ཏུ་མིག་སྟོང་འདུག "
+
+msgid "Checking for correct external IP address"
+msgstr "ཡང་དག་པའི་ཕྱི་རོལ་གྱི IP གནས་ཡུལ་ལ་ཞིབ་བཤེར་བྱེད་དགོས།"
+
+msgid "Checking for updates..."
+msgstr "གསར་སྒྱུར་ལ་ཞིབ་བཤེར་བྱེད་བཞིན་ཡོད།"
+
+msgid "Checksum match on file %s\n"
+msgstr ""
+
+msgid "Checksum mismatch on file %s\n"
+msgstr ""
+
+msgid "Choose a key file"
+msgstr "གསང་ལྡེའི་ཡིག་ཆ་གདམ་དགོས།"
+
+msgid "Choose the default local directory"
+msgstr "སོར་བཞག་གི་རང་སའི་དཀར་ཆག་གདམ་དགོས།"
+
+msgid "Choose the local directory"
+msgstr "རང་སའི་དཀར་ཆག་གདམ་དགོས།"
+
+msgid "Chunk data improperly terminated"
+msgstr "དཔེ་དུམ་གཞི་གྲངས་ཀྱི་ནོར་འཁྲུལ་མཚམས་འཇོག"
+
+msgid "Cipher:"
+msgstr "གསང་ཨང་།:"
+
+msgid "Cl&ose tab"
+msgstr "གདོང་འཛར་ཁ་རྒྱག"
+
+msgid "Classic"
+msgstr "གསུང་རབ་འཆར་ངོས།"
+
+msgid "Clear &layout cache"
+msgstr "བཀོད་པའི་བར་གསོག་གཙང་སེལ།"
+
+msgid "Clear history"
+msgstr "ལོ་རྒྱུས་ཀྱི་ཟིན་ཐོ་གཙང་སེལ།"
+
+msgid "Clear private data"
+msgstr "མི་སྒེར་གྱི་ཆ་འཕྲིན་གཙང་སེལ།"
+
+msgid "Clear quickconnect bar"
+msgstr "མྱུར་མཐུད་ཚང་གཙང་སེལ།"
+
+msgid "Click on Finish to save your configuration."
+msgstr "ལེགས་གྲུབ་གནོན་ནས་ཁྱེད་རང་གི་སྡེབ་སྒྲིག་ཉར་ཚགས་བྱེད་དགོས། "
+
+msgid "Client to server MAC:"
+msgstr "རང་ས་ནས MAC ཞབས་ཞུ་ཆས་ལ།"
+
+msgid "Client to server cipher:"
+msgstr "རང་ས་ནས MAC ཞབས་ཞུ་ཆས་ཀྱི་གསང་ཨང་ལ།"
+
+msgid "Close &all other tabs"
+msgstr "གདོང་འཛར་གཞན་པ་ཚང་མ་ཁ་རྒྱག་པ།"
+
+msgid "Close FileZilla"
+msgstr "དུད་སྣེ FTP ཁ་རྒྱག་པ།"
+
+msgid "Close all running instances of FileZilla"
+msgstr "འཁོར་སྐྱོད་བྱེད་པའི་དུད་སྣེ FTP ཡི་དངོས་དཔེ་ཁ་རྒྱག་པ།"
+
+msgid "Closes current tab"
+msgstr "མིག་སྔའི་གདོང་འཛར་ཁ་རྒྱག་པ།"
+
+msgid "Co&mments:"
+msgstr "མཆན་འགྲེལ།"
+
+msgid "Column properties"
+msgstr "ལེ་ཚན་གྱི་གཏོགས་གཤིས།"
+
+msgid "Column setup"
+msgstr "ལེ་ཚན་སྒྲིག་འགོད།"
+
+msgid "Command and its arguments should be properly quoted."
+msgstr ""
+"བཀའ་བརྡ་དང་དེའི་ཞུགས་གྲངས་ལ་ཡང་དག་པའི་འདྲེན་རྟགས་ཀྱི་འབོག་སྒྲིལ་དགོས། "
+
+msgid "Command failed"
+msgstr "བཀའ་བརྡ་ཕམ་པ།"
+
+msgid "Command not supported"
+msgstr "བཀའ་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Command not supported by this protocol"
+msgstr "བཀའ་བརྡས་གྲོས་ཆིངས་འདིར་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "Command:"
+msgstr "བཀའ་བརྡ།："
+
+msgid "Comment"
+msgstr "དཔྱད་གཏམ།"
+
+msgid "Common name:"
+msgstr "སྤྱི་སྤྱོད་མིང་།"
+
+msgid "Communication tainted by router or firewall"
+msgstr "འཕྲིན་གཏོང་ལ་ལམ་སྟོན་ཆས་སམ་ཡང་ན་མེ་འགོག་གྱང་གི་ཤུགས་རྐྱེན་ཐེབས་འདུག"
+
+msgid "Compare &modification time"
+msgstr "བཟོ་བཅོས་ཀྱི་དུས་ཚོད་སྡུར་བ།"
+
+msgid "Compare file&size"
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་སྡུར་བ།"
+
+msgid "Comparison &threshold (in minutes):"
+msgstr "ཁྱད་པར་གྲངས་ཐང་བལྟོས་བསྡུར། (སྐར་མ)(&T)"
+
+msgid "Comparison threshold needs to be between 0 and 1440 minutes."
+msgstr "བལྟོས་བསྡུར་གྲངས་ཐང་དེ་ངེས་པར་དུ་སྐར་མ 0 ནས 1440 བར་ཡིན་དགོས། "
+
+msgid "Compiled for:"
+msgstr "སྒྲིག་སྒྱུར་དམིགས་འབེན།"
+
+msgid "Compiled on:"
+msgstr "སྒྲིག་སྒྱུར་ལས་སྟེགས།"
+
+msgid "Compiled with:"
+msgstr "སྒྲིག་སྒྱུར་ཆས།"
+
+msgid "Compiler flags:"
+msgstr "སྒྲིག་སྒྱུར་ཞུགས་གྲངས།"
+
+msgid "Compressed"
+msgstr "སྡུད་སྒྲིལ་བྱས་ཟིན།"
+
+msgid "Concurrent transfers"
+msgstr "མཉམ་བྱུང་བརྒྱུད་གཏོང་།"
+
+msgid "Conditions are c&ase sensitive"
+msgstr "ཆ་རྐྱེན་ནི་བྲིས་ཆེ་ཆུང་ལ་དབྱེ་བ་ཡོད་པ་དེ་ཡིན།"
+
+msgid "Configuration test"
+msgstr "སྡེབ་སྒྲིག་ཚོད་ལེན།"
+
+msgid "Configure passive mode"
+msgstr "གཞན་དབང་རྣམ་པར་སྡེབ་སྒྲིག་བྱེད་པ།"
+
+msgid "Configure port range"
+msgstr "མཐུད་ཁའི་ཁྱབ་ཁོངས་ལ་སྡེབ་སྒྲིག་བྱེད་པ།"
+
+msgid "Configuring FileZilla and your network"
+msgstr "དུད་སྣེ FTP དང་ཁྱེད་ཀྱི་དྲ་རྒྱར་སྡེབ་སྒྲིག་བྱེད་པ།"
+
+msgid "Confirm deletion"
+msgstr "འདོར་བ་གཏན་འཁེལ།"
+
+msgid "Confirmation needed"
+msgstr "གཏན་འཁེལ་བྱེད་དགོས།"
+
+msgid "Congratulations, your configuration seems to be working."
+msgstr ""
+"ཁྱེད་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ཞུ། "
+"ཁྱེད་ཀྱི་སྡེབ་སྒྲིག་དེ་རྒྱུན་ལྡན་ལྟར་འཁོར་སྐྱོད་བྱེད་ཐུབ།"
+
+msgid "Connect bypassing proxy settings"
+msgstr "ལས་ཚབ་ལ་བསྐོར་ནས་འབྲེལ་མཐུད་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Connect in current tab"
+msgstr "མིག་སྔའི་གདོང་འཛར་ནང་འབྲེལ་མཐུད་བྱེད་པ།"
+
+msgid "Connect in new tab"
+msgstr "གདོང་འཛར་གསར་པའི་ནང་འབྲེལ་མཐུད་བྱེད་པ།"
+
+msgid "Connect to specified Site Manager site"
+msgstr "དམིགས་འཛུགས་བྱས་པའི“ས་ཚུགས་དོ་དམ་ཆས”ཀྱི་ས་ཚུགས་ལ་འབྲེལ་བ།"
+
+msgid "Connecting"
+msgstr "འབྲེལ་པ།"
+
+msgid "Connecting to %s"
+msgstr ""
+
+msgid "Connecting to %s through %s proxy"
+msgstr "ལས་ཚབ %s བརྒྱུད་ནས %s ལ་འབྲེལ་བ།"
+
+msgid "Connecting to %s..."
+msgstr "%s ལ་འབྲེལ་བཞིན་པ།"
+
+msgid "Connection"
+msgstr "འབྲེལ་མཐུད།"
+
+msgid "Connection aborted"
+msgstr "འབྲེལ་མཐུད་མཚམས་འཇོག"
+
+msgid "Connection attempt failed"
+msgstr "འབྲེལ་མཐུད་ཚོད་ལྟ་ཕམ་པ།"
+
+msgid "Connection attempt failed with \"%s\", trying next address."
+msgstr ""
+
+msgid "Connection attempt failed with \"%s\"."
+msgstr ""
+
+msgid "Connection attempt interrupted by user"
+msgstr "འབྲེལ་མཐུད་ཚོད་ལྟ་དེ་སྤྱོད་མཁན་གྱིས་མཇུག་སྒྲིལ་སོང་།"
+
+msgid "Connection attempt timed out"
+msgstr "འབྲེལ་མཐུད་ཚོད་ལྟ་དུས་བརྒལ།"
+
+msgid "Connection closed"
+msgstr "འབྲེལ་མཐུད་ཁ་རྒྱག་པ།"
+
+msgid "Connection closed by server"
+msgstr "འབྲེལ་མཐུད་དེ་ཞབས་ཞུ་ཆས་ཀྱིས་ཁ་རྒྱག་པ།"
+
+msgid "Connection established, initializing TLS..."
+msgstr "འབྲེལ་མཐུད་བཙུགས་ཟིན། TLS འགོ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
+
+msgid "Connection established, sending HTTP request"
+msgstr "འབྲེལ་མཐུད་བཙུགས་ཟིན།  HTTP རེ་ཞུ་སྐྱེལ་བཞིན་ཡོད།"
+
+msgid "Connection established, waiting for welcome message..."
+msgstr "འབྲེལ་མཐུད་བཙུགས་ཟིན། དགའ་བསུའི་བརྡ་འཕྲིན་སྒུག་བཞིན་ཡོད།"
+
+msgid "Connection lost"
+msgstr "འབྲེལ་མཐུད་བོར་བ།"
+
+msgid "Connection not allowed by ruleset"
+msgstr "སྒྲིག་སྲོལ་གྱིས་འབྲེལ་མཐུད་བྱས་མི་ཆོག་པ་སྒྲིག་པ།"
+
+msgid "Connection refused"
+msgstr "འབྲེལ་མཐུད་ཁས་མ་བླངས་པ།"
+
+msgid "Connection refused by server"
+msgstr "སྦྲེལ་མཐུད་ཞབས་ཞུ་ཆས་ཀྱིས་ཁས་མ་བླངས་པ།"
+
+msgid "Connection reset by network"
+msgstr "འབྲེལ་མཐུད་དེ་དྲ་རྒྱས་སོར་ལོག་བྱས་པ།"
+
+msgid "Connection reset by peer"
+msgstr "འབྲེལ་མཐུད་དེ་ཕ་རོལ་པོས་སོར་ལོག་བྱས་པ།"
+
+msgid "Connection timed out after %d second of inactivity"
+msgid_plural "Connection timed out after %d seconds of inactivity"
+msgstr[0] "སྐར་ཆ %d ཡི་རྗེས་འགུལ་མེད་ཡིན་པས། འབྲེལ་མཐུད་དུས་བརྒལ་བ།"
+msgstr[1] "སྐར་ཆ %d ཡི་རྗེས་འགུལ་མེད་ཡིན་པས། འབྲེལ་མཐུད་དུས་བརྒལ་བ།"
+
+msgid "Connection timed out."
+msgstr "འབྲེལ་མཐུད་དུས་བརྒལ་བ། "
+
+msgid "Connection to server lost."
+msgstr "ཞབས་ཞུ་ཆས་དང་འབྲེལ་མཐུད་བོར་སོང་། "
+
+msgid "Connection with proxy established, performing handshake..."
+msgstr "ལས་ཚབ་དང་འབྲེལ་མཐུད་བཙུགས་ཟིན། ལག་འཇུ་བྱེད་པ།"
+
+msgid "Connection with server got closed prematurely."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱིས་འབྲེལ་མཐུད་སྒོ་རྒྱག་རྒྱུ་སྔ་དྲགས་སོང་། "
+
+msgid "Connection with the test server failed."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་འབྲེལ་མཐུད་ཚོད་ལྟ་ཕམ་སོང་།"
+
+msgid "Convert key file"
+msgstr "གསང་ལྡེའི་ཡིག་ཆ་བརྗེ་སྤོར།"
+
+msgid "Copy (%d) of %s"
+msgstr "(%d) / %s འདྲ་ཕབ།"
+
+msgid "Copy of %s"
+msgstr "%s འདྲ་བཤུས།"
+
+msgid "Copy the URLs of the selected items to clipboard."
+msgstr "བདམས་པའི་ཚན་པ་ཡི URL ནས་དྲས་སྦྱར་པང་ནང་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "Could not accept connection: %s"
+msgstr "%s འབྲེལ་མཐུད་དང་ལེན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not add connection to Site Manager"
+msgstr "མིག་སྔའི་འབྲེལ་མཐུད་དེ་ས་ཚུགས་དོ་དམ་ཆས་ནང་སྣོན་ཐབས་བྲལ།"
+
+msgid "Could not complete operation"
+msgstr "བཀོལ་སྤྱོད་ལེགས་གྲུབ་བྱུང་བ།"
+
+msgid "Could not connect to server"
+msgstr "ཞབས་ཞུ་ཆས་ལ་འབྲེལ་མི་ཐུབ།"
+
+msgid "Could not connect to server: %s"
+msgstr "ཞབས་ཞུ་ཆས %s ལ་འབྲེལ་མཐུད་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not convert command to server encoding"
+msgstr "བཀའ་བརྡ་དེ་ཞབས་ཞུ་ཆས་ཀྱི་སྒྲིག་ཨང་དུ་སྒྱུར་ཐབས་བྲལ།"
+
+msgid "Could not convert private key"
+msgstr "སྒེར་ལྡེ་སྒྱུར་ཐབས་བྲལ།"
+
+msgid "Could not copy URLs"
+msgstr "URL འདྲ་ཕབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not copy data"
+msgstr "གཞི་གྲངས་འདྲ་ཕབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not create local file %s\n"
+msgstr ""
+
+msgid "Could not create logging mutex: %s"
+msgstr "ཉིན་ཐོའི་སྒོ་ལྕགས ། (logging mutex): %s བཟོ་ཐབས་བྲལ།"
+
+msgid ""
+"Could not determine the target of the Drag&Drop operation.\n"
+"Either the shell extension is not installed properly or you didn't drop the files into an Explorer window."
+msgstr ""
+
+msgid "Could not establish connection to server"
+msgstr "ཞབས་ཞུ་ཆས་ལ་འབྲེལ་མཐུད་བྱེད་ཐབས་བྲལ།"
+
+msgid ""
+"Could not find the resource files for FileZilla, closing FileZilla.\n"
+"You can set the data directory of FileZilla using the '--datadir <custompath>' commandline option or by setting the FZ_DATADIR environment variable."
+msgstr ""
+
+msgid "Could not generate custom login sequence."
+msgstr "རང་འགུལ་གྱི་ཐོ་འགོད་བརྒྱུད་རིམ་འགྲུབ་ཐབས་བྲལ།"
+
+msgid ""
+"Could not get distinguished name of certificate issuer, "
+"gnutls_x509_get_issuer_dn failed"
+msgstr ""
+"གཏན་འཁེལ་བའི་དཔང་ཡིག་སྤྲོད་མཁན་གྱི་མིང་ཐོབ་ཐབས་བྲལ་བ། "
+"gnutls_x509_get_issuer_dn ཕམ་པ།"
+
+msgid ""
+"Could not get distinguished name of certificate subject, gnutls_x509_get_dn "
+"failed"
+msgstr ""
+"གཏན་འཁེལ་བའི་དཔང་ཡིག་གི་བརྗོད་གཞིའི་མིང་ཐོབ་ཐབས་བྲལ་བ། gnutls_x509_get_dn "
+"ཕམ་པ།"
+
+msgid "Could not get full remote path."
+msgstr "ཆ་ཚང་བའི་རྒྱང་རིང་བརྒྱུད་ལམ་ཐོབ་ཐབས་བྲལ།"
+
+msgid "Could not get reply from fzputtygen."
+msgstr "fzputtygen ཡི་ལན་ཐོབ་ཐབས་བྲལ། "
+
+msgid "Could not get temporary directory to download file into."
+msgstr "ཕབ་ལེན་ཡིག་ཆ་འཇོག་པར་མཁོ་བའི་གནས་སྐབས་ཀྱི་དཀར་ཆག་རྙེད་མ་བྱུང་།"
+
+msgid "Could not import peer certificates, gnutls_x509_crt_import failed"
+msgstr "ཆ་མཉམ་ར་སྤྲོད་འདྲེན་འཇུག་བྱེད་ཐབས་བྲལ། gnutls_x509_crt_import ཕམ་པ།"
+
+msgid ""
+"Could not initialize structure for peer certificates, gnutls_x509_crt_init "
+"failed"
+msgstr "ཆ་མཉམ་དཔང་ཡིག་གྲུབ་ཚུལ་འགོ་སྒྲིག་ཐབས་བྲལ། gnutls_x509_crt_init ཕམ་པ།"
+
+msgid ""
+"Could not load \"%s\", please make sure the file is valid and can be accessed.\n"
+"Any changes made in the Site Manager will not be saved."
+msgstr ""
+
+msgid "Could not load key file"
+msgstr "གསང་ལྡེའི་ཡིག་ཆ་ཁུར་སྣོན་མི་ཐུབ།"
+
+msgid "Could not load private key"
+msgstr "སྒེར་ལྡེ་ཁུར་སྣོན་མི་ཐུབ།"
+
+msgid ""
+"Could not obtain corresponding local directory for the remote directory '%s'.\n"
+"Disable synchronized browsing and continue changing the remote directory?"
+msgstr ""
+
+msgid ""
+"Could not obtain corresponding local directory for the remote directory '%s'.\n"
+"Synchronized browsing has been disabled."
+msgstr ""
+
+msgid ""
+"Could not obtain corresponding remote directory for the local directory '%s'.\n"
+"Synchronized browsing has been disabled."
+msgstr ""
+
+msgid "Could not open clipboard"
+msgstr "དྲས་སྦྱར་པང་ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Could not open log file: %s"
+msgstr "ཉིན་ཐོའི་ཡིག་ཆ %s ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "Could not parse remote path."
+msgstr "རྒྱང་རིང་བརྒྱུད་ལམ་ལ་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not parse server address:"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་གནས་ཡུལ་ལ་དབྱེ་ཞིབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not read from socket: %s"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ %s ཀློག་ཐབས་བྲལ།"
+
+msgid "Could not read server item."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་ཚན་པ་ཀློག་ཐབས་བྲལ།"
+
+msgid "Could not seek to offset %s within file"
+msgstr "ཡིག་ཆའི་ནང་གི་ཡོ་བ %s རྙེད་ཐབས་བྲལ།"
+
+msgid "Could not seek to the end of the file"
+msgstr "ཡིག་ཆའི་མཇུག་བར་འཚོལ་ཐབས་བྲལ།"
+
+msgid "Could not send command to fzputtygen."
+msgstr "བཀའ་བརྡ་དེ fzputtygen ལ་སྐྱེལ་ཐབས་བྲལ།"
+
+msgid "Could not spawn IO thread"
+msgstr "ཐིག་རྒྱུན IO གྲུབ་ཐབས་བྲལ།"
+
+msgid "Could not start proxy handshake: %s"
+msgstr "ལས་ཚབ་ལག་འཇུ %s འགོ་རྩོམ་ཐབས་བྲལ།"
+
+msgid "Could not start transfer"
+msgstr "བརྒྱུད་གཏོང་འགོ་སློང་ཐབས་བྲལ།"
+
+msgid ""
+"Could not write \"%s\", any changes to the Site Manager could not be saved: "
+"%s"
+msgstr ""
+
+msgid "Could not write \"%s\", the bookmark could not be added: %s"
+msgstr ""
+
+msgid "Could not write \"%s\", the global bookmarks could no be saved: %s"
+msgstr ""
+
+msgid ""
+"Could not write \"%s\", the queue could not be saved.\n"
+"%s"
+msgstr ""
+
+msgid "Could not write \"%s\", the selected sites could not be exported: %s"
+msgstr ""
+
+msgid "Could not write \"%s\":"
+msgstr ""
+
+msgid "Could not write key file: %s"
+msgstr "གསང་ལྡེའི་ཡིག་ཆ %s འབྲི་ཐབས་བྲལ།"
+
+msgid "Could not write to local file"
+msgstr "རང་སའི་ཡིག་ཆ་འབྲི་ཐབས་བྲལ།"
+
+msgid "Could not write to log file: %s"
+msgstr "ཉིན་ཐོའི་ཡིག་ཆ %s འབྲི་ཐབས་བྲལ།"
+
+msgid "Could not write to socket: %s"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ %s འབྲི་ཐབས་བྲལ།"
+
+msgid "Country:"
+msgstr "རྒྱལ་ཁབ།"
+
+msgid "Crea&te new file"
+msgstr "ཡིག་ཆ་གསར་པ་བཟོ་བ། (&T)"
+
+msgid "Create &missing local directory and enter it"
+msgstr "ཆད་ཤོར་བའི་རང་སའི་དཀར་ཆག་བཟོ་བ་མ་ཟད་དཀར་ཆག་འདི་ཡི་ནང་དུ་འཛུལ་བ། (&M)"
+
+msgid "Create &missing remote directory and enter it"
+msgstr ""
+"ཆད་ཤོར་བའི་རྒྱང་རིང་དཀར་ཆག་བཟོ་བ་མ་ཟད་དཀར་ཆག་འདི་ཡི་ནང་དུ་འཛུལ་བ། (&M)"
+
+msgid "Create a new subdirectory in the current directory"
+msgstr "མིག་སྔའི་དཀར་ཆག་ནང་དུ་བུ་དཀར་ཆག་གསར་པ་ཞིག་བཟོ་བ།"
+
+msgid "Create a new subdirectory in the current directory and change into it"
+msgstr "མིག་སྔའི་དཀར་ཆག་ནང་དུ་བུ་དཀར་ཆག་གསར་པ་ཞིག་བཟོ་བ་མ་ཟད་འདིའི་ནང་འཛུལ་བ།"
+
+msgid "Create a new, empty file in the current directory"
+msgstr "མིག་སྔའི་དཀར་ཆག་ནང་ཡིག་ཆ་སྟོང་པ་གསར་པ་ཞིག་བཟོ་དགོས།"
+
+msgid "Create director&y and enter it"
+msgstr "དཀར་ཆག་བཟོ་བ་མ་ཟད་འདིའི་ནང་འཛུལ་བ། (&Y)"
+
+msgid "Create directory"
+msgstr "དཀར་ཆག་གསར་བཟོ།"
+
+msgid "Create empty file"
+msgstr "ཡིག་ཆ་སྟོང་པ་བཟོ་བ།"
+
+msgid "Creating directory"
+msgstr "དཀར་ཆག་བཟོ་བཞིན་པ།"
+
+msgid "Creating directory '%s'..."
+msgstr "དཀར་ཆག “%s” བཟོ་བཞིན་ཡོད།"
+
+msgid "Critical error"
+msgstr "ནོར་འཁྲུལ་ཚབས་ཆེན།"
+
+msgid "Critical error:"
+msgstr ""
+
+msgid "Critical file transfer error"
+msgstr "ཡིག་ཆ་བརྒྱུད་གཏོང་གི་ནོར་འཁྲུལ་ཚབས་ཆེན།"
+
+msgid "Critical file transfer error after transferring %s in %s"
+msgstr ""
+"%s བརྒྱུད་གཏོང་། (སྤྱོད་དུས %s ) "
+"རྗེས་ཡིག་ཆ་བརྒྱུད་གཏོང་གི་ནོར་འཁྲུལ་ཚབས་ཆེན་ཐོན།"
+
+msgid ""
+"Current remote directory (%s) is not below the synchronization root (%s).\n"
+"Synchronized browsing has been disabled."
+msgstr ""
+
+msgid "Current transfer type is set to ASCII."
+msgstr "མིག་སྔའི་བརྒྱུད་སྐྱེལ་རིགས་གྲས་དེ ASCII རྣམ་པར་སྒྲིག་འགོད་བྱས་ཡོད། "
+
+msgid "Current transfer type is set to automatic detection."
+msgstr "མིག་སྔའི་བརྒྱུད་སྐྱེལ་རིགས་གྲས་ནི་རང་བཤེར་ཡིན།"
+
+msgid "Current transfer type is set to binary."
+msgstr ""
+"མིག་སྔའི་བརྒྱུད་སྐྱེལ་རིགས་གྲས་དེ་གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་རྣམ་པར་སྒྲིག་འགོད་བྱས་ཡོད།"
+
+msgid "Cus&tom"
+msgstr "རང་བཟོ། (&T)"
+
+msgid "Custom filter set"
+msgstr "འཚག་ཆས་ཀྱི་ཚོགས་སྤྱི་རང་བཟོ།"
+
+msgid "Custom server"
+msgstr "ཞབས་ཞུ་ཆས་རང་བཟོ།"
+
+msgid "D&ata type"
+msgstr "གཞི་གྲངས་ཀྱི་རིགས་གྲས། (&A)"
+
+msgid "D&ecimal prefixes using SI symbols (e.g. 1 KB = 1000 bytes)"
+msgstr ""
+"SI ཚུལ་གྱི་བཅུ་གོང་འགྲིལ་ལུགས་སྔོན་འཇུག (དཔེར་ན 1 KB = 1000 bytes)(&E)"
+
+msgid "D&efault"
+msgstr "སོར་བཞག (&E)"
+
+msgid "D&elete"
+msgstr "སུབ་པ། (&E)"
+
+msgid "D&irectory comparison"
+msgstr "དཀར་ཆག་བསྡུར་བ། (&D)"
+
+msgid "D&isable all"
+msgstr "ཚང་མ་སྤྱོད་འགོག (&I)"
+
+msgid "D&o not save passwords"
+msgstr "གསང་ཨང་ཉར་ཚགས་མི་བྱེད་པ།"
+
+msgid "D&ouble-click action on directories:"
+msgstr "དཀར་ཆག་ཉིས་རྡེབ་ཀྱི་བཀོལ་སྤྱོད། (&O)"
+
+msgid "D&uplicate"
+msgstr "འདྲ་ཕབ། (&U)"
+
+msgid "DOS-like with virtual paths"
+msgstr "རྟོག་བཟོའི་བརྒྱུད་ལམ་ལྡན་པའི DOS ཚུལ།"
+
+msgid "Dangerous filetype"
+msgstr "ཉེན་ཡོད་ཡིག་ཆའི་རྣམ་གཞག"
+
+msgid "Data"
+msgstr "གཞི་གྲངས།"
+
+msgid "Data socket closed too early."
+msgstr "གཞི་གྲངས་འབྲེལ་འཛུགས་ཡི་གེ་ཁ་རྒྱག་རྒྱུ་སྔ་དྲགས་པ། "
+
+msgid "Date"
+msgstr "དུས་ཚོད།"
+
+msgid "Date formatting"
+msgstr "ཚེས་གྲངས་རྣམ་གཞག"
+
+msgid "Date/time format"
+msgstr "ཚེས་གྲངས/དུས་ཚོད་རྣམ་གཞག"
+
+msgid "Date/time unknown"
+msgstr "ཚེས་གྲངས/དུས་ཚོད་མ་ཤེས།"
+
+msgid "Debug"
+msgstr "ཚོད་སྒྲིག"
+
+msgid "Debugging settings"
+msgstr "ཚོད་སྒྲིག་སྒྲིག་འགོད།"
+
+msgid "Default &local directory:"
+msgstr "སོར་བཞག་གི་རང་སའི་དཀར་ཆག (&L)"
+
+msgid "Default (Autodetect)"
+msgstr "སོར་བཞག (རང་བཤེར)"
+
+msgid "Default editor not properly quoted."
+msgstr "ཡང་དག་པའི་སྒོ་ནས་སོར་བཞག་རྩོམ་སྒྲིག་ཆས་འདྲེན་སྤྱོད་བྱས་མེད། "
+
+msgid "Default file exists action"
+msgstr "ཡིག་ཆ་གནས་པའི་སྐབས་ཀྱི་སོར་བཞག་བཀོལ་སྤྱོད།"
+
+msgid "Default r&emote directory:"
+msgstr "སོར་བཞག་རྒྱང་རིང་དཀར་ཆག (&E)"
+
+msgid ""
+"Default remote path cannot be parsed. Make sure it is a valid absolute path "
+"for the selected server type."
+msgstr ""
+
+msgid "Default system language"
+msgstr "རྒྱུད་ཁོངས་ཀྱི་སོར་བཞག་སྐད་རིགས།"
+
+msgid "Default transfer mode:"
+msgstr "སོར་བཞག་གི་བརྒྱུད་གཏོང་རྣམ་པ།"
+
+msgid "Default transfer type:"
+msgstr "སོར་བཞག་གི་བརྒྱུད་གཏོང་རིགས་གྲས།"
+
+msgid "Default: http://ip.filezilla-project.org/ip.php"
+msgstr "སོར་བཞག http://ip.filezilla-project.org/ip.php"
+
+msgid ""
+"Delay between failed connection attempts has to be between 1 and 999 "
+"seconds."
+msgstr ""
+"ཕམ་པའི་ཐོ་འགོད་རེ་ཞུའི་བར་གྱི་ཕྱིར་འགྱངས་ནི་ངེས་པར་དུ་སྐར་ཆ 1 ནས "
+"999བར་ཡིན་དགོས།"
+
+msgid ""
+"Delaying connection for %d second due to previously failed connection "
+"attempt..."
+msgid_plural ""
+"Delaying connection for %d seconds due to previously failed connection "
+"attempt..."
+msgstr[0] ""
+"ཐེངས་སྔོན་མའི་འབྲེལ་མཐུད་ཚོད་ལྟ་ཕམ་པས། འབྲེལ་མཐུད་སྐར་ཆ  %d  "
+"ནར་འགྱངས་བྱེད་པ་ཡིན།"
+msgstr[1] ""
+"ཐེངས་སྔོན་མའི་འབྲེལ་མཐུད་ཚོད་ལྟ་ཕམ་པས། འབྲེལ་མཐུད་སྐར་ཆ  %d  "
+"ནར་འགྱངས་བྱེད་པ་ཡིན།"
+
+msgid "Delete Site Manager entry"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཀྱི་ཟིན་ཐོ་གཙང་སེལ་བྱེད་པ།"
+
+msgid "Delete selected directory"
+msgstr "བདམས་པའི་དཀར་ཆག་སུབ་པ།"
+
+msgid "Delete selected files and directories"
+msgstr "བདམས་པའི་ཡིག་ཆ་དང་དཀར་ཆག་སུབ་པ།"
+
+msgid "Deleting \"%s\""
+msgstr ""
+
+msgid "Deleting %u files from \"%s\""
+msgstr ""
+
+msgid "Deleting symbolic link"
+msgstr "མཚོན་རྟགས་ཀྱི་སྦྲེལ་མཐུད་སུབ་བཞིན་ཡོད།"
+
+msgid "Desktop"
+msgstr "ཅོག་ངོས།"
+
+msgid "Details"
+msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+
+msgid "Details for new key:"
+msgstr "གསང་ལྡེ་གསར་པའི་ཞིབ་ཕྲའི་དཔྱད་གཞི།"
+
+msgid "Detected newer version of FileZilla"
+msgstr "པར་གཞི་གསར་པའི་དུད་སྣེ FTP ཡོད་པ།"
+
+msgid "Dire&ctories"
+msgstr "དཀར་ཆག (&C)"
+
+msgid "Direction"
+msgstr "ཁ་ཕྱོགས།"
+
+msgid "Directory"
+msgstr "དཀར་ཆག"
+
+msgid "Directory comparison"
+msgstr "དཀར་ཆག་བསྡུར་བ།"
+
+msgid "Directory comparison failed"
+msgstr "དཀར་ཆག་བསྡུར་བ་ཕམ་པ།"
+
+msgid ""
+"Directory containing the logfile does not exist or filename is invalid."
+msgstr ""
+"ཉིན་ཐོའི་ཡིག་ཆ་ཉར་ཚགས་བྱེད་པའི་དཀར་ཆག་མེད་པའམ་ཡང་ན་ཡིག་ཆའི་མིང་ལ་ནུས་པ་མེད། "
+
+msgid "Directory listing aborted by user"
+msgstr "དཀར་ཆག་རེའུ་མིག་སྤྱོད་མཁན་གྱིས་མཇུག་སྒྲིལ་བ།"
+
+msgid "Directory listing failed"
+msgstr "དཀར་ཆག་རེའུ་མིག་ཕམ་པ།"
+
+msgid "Directory listing filters"
+msgstr "དཀར་ཆག་རེའུ་མིག་འཚག་ཆས།"
+
+msgid "Directory listing of \"%s\" successful"
+msgstr ""
+
+msgid "Directory listing successful"
+msgstr "དཀར་ཆག་འགོད་པ་ལེགས་གྲུབ་བྱུང་།"
+
+msgid "Disa&ble all"
+msgstr "ཚང་མ་སྤྱོད་འགོག (&B)"
+
+msgid ""
+"Disable synchronized browsing and continue changing the remote directory?"
+msgstr ""
+"གོམ་མཉམ་མིག་བཤར་ཁ་རྒྱག་པ་དང་ཆབས་ཅིག་རང་སའི་དཀར་ཆག་ལ་མུ་མཐུད་བཟོ་བཅོས་རྒྱག་དགོས་སམ།"
+" "
+
+msgid ""
+"Disable this option again if you will not be able to see the correct "
+"directory contents anymore."
+msgstr "གལ་ཏེ་ཁྱེད་ཀྱིས་ཡིག་ཆ་མཐོང་མི་ཐུབ་ཚེ་འདེམས་ཚན་བྱང་འདི་མཚམས་འཇོག་དགོས།"
+
+msgid "Disconnect from server"
+msgstr "ཞབས་ཞུ་ཆས་ནས་བཅད་པ།"
+
+msgid "Disconnected from server"
+msgstr ""
+
+msgid "Disconnected from server: %s"
+msgstr " %s ཞབས་ཞུ་ཆས་ནས་བཅད་པ།"
+
+msgid "Disconnecting from previous server"
+msgstr "ཞབས་ཞུ་ཆས་ཤིག་ནས་འབྲེལ་མཐུད་གཅོད་བཞིན་འདུག"
+
+msgid "Disconnects from the currently visible server"
+msgstr "མིག་སྔར་མཐོང་རུང་བའི་ཞབས་ཞུ་ཆས་བཅད་པ།"
+
+msgid "Display about dialog"
+msgstr "གླེང་སྒྲོམ་སྐོར་མངོན་པ།"
+
+msgid "Do &not use default editor"
+msgstr "སོར་བཞག་རྩོམ་སྒྲིག་ཆས་མི་སྤྱོད་པ། (&N)"
+
+msgid "Do &nothing"
+msgstr "ཅི་ཡང་མི་སྒྲུབ། (&N)"
+
+msgid "Do the same with &all selected files already being edited"
+msgstr ""
+"རྩོམ་སྒྲིག་བྱེད་བཞིན་པའི་བདམས་པའི་ཡིག་ཆར་ཚང་མར་བཀོལ་སྤྱོད་གཅིག་མཚུངས་བྱེད་པ།"
+" (&A)"
+
+msgid "Do you really want to close FileZilla?"
+msgstr "ཁྱེད་ཀྱིས་དུད་སྣེ FTP དངོས་གནས་ཁ་རྒྱག་རྒྱུ་ཡིན་ནམ། "
+
+msgid ""
+"Do you really want to delete all Site Manager entries and the transfer "
+"queue?"
+msgstr ""
+"ཁྱེད་ཀྱིས་ས་ཚུགས་དོ་དམ་ཆས་ཚང་མའི་ནང་གི་ཟིན་ཐོ་དང་བརྒྱུད་གཏོང་རུ་སྟར་དངོས་གནས་སུབ་འདོད་དམ།"
+" "
+
+msgid "Do you really want to delete all Site Manager entries?"
+msgstr "ཁྱེད་ཀྱིས་ས་ཚུགས་དོ་དམ་ཆས་ཚང་མའི་ནང་གི་ཟིན་ཐོ་སུབ་འདོད་དམ། "
+
+msgid "Do you really want to delete selected entry?"
+msgstr "ཁྱད་ཀྱིས་བདམས་པའི་ཟིན་ཐོ་དངོས་གནས་སུབ་འདོད་དམ། "
+
+msgid "Do you really want to delete the transfer queue?"
+msgstr "ཁྱེད་ཀྱིས་བརྒྱུད་གཏོང་རུ་སྟར་དངོས་གནས་སུབ་འདོད་དམ།"
+
+msgid "Do you really want to send '%s' to the server?"
+msgstr "ཁྱེད་ཀྱིས “%s” ཞབས་ཞུ་ཆས་ལ་དངོས་གནས་སྐུར་འདོད་དམ། "
+
+msgid "Do you want to reopen this file?"
+msgstr "ཁྱེད་ཀྱིས་ཡང་བསྐྱར་ཡིག་ཆ་འདི་དངོས་གནས་ཁ་ཕྱེ་མཁན་ཡིན་ནམ། "
+
+msgid "Documentation"
+msgstr "ཡིག་ཚགས།"
+
+msgid "Don't use external IP address on &local connections."
+msgstr "རང་སའི་འབྲེལ་མཐུད་ཀྱི་ཕྱི་ཕྱོགས IP གནས་ཡུལ་མི་སྤྱོད་པ། "
+
+msgid "Dotfiles are filenames starting with a dot, e.g. .htaccess"
+msgstr "ཡིག་ཆའི་མིང་ནི་ཚེག་གཅིག་ནས་འགོ་རྩོམ་པ་ཡིན། དཔེར་ན htaccess ལྟ་བུ་ཡིན།"
+
+msgid "Double-click action"
+msgstr "ཉིས་རྡེབ་བཀོལ་སྤྱོད།"
+
+msgid "Download"
+msgstr "ཕབ་ལེན།"
+
+msgid "Download &limit:"
+msgstr ""
+
+msgid "Download limit: %s/s"
+msgstr " %s/s ཕབ་ལེན་ཚོད་འཛིན།"
+
+msgid "Download limit: none"
+msgstr "ཕབ་ལེན་ཚོད་འཛིན། མེད་པ།"
+
+msgid "Download search results"
+msgstr "ཕབ་ལེན་བཤེར་འཚོལ་མཇུག་འབྲས།"
+
+msgid "Download selected directory"
+msgstr "བདམས་པའི་དཀར་ཆག་ཕབ་ལེན་བྱེད་པ།"
+
+msgid "Download selected files and directories"
+msgstr "བདམས་པའི་ཡིག་ཆ་དང་དཀར་ཆག་ཕབ་ལེན་བྱེད་པ།"
+
+msgid ""
+"Download speed: %s/s\n"
+"Upload speed: %s/s"
+msgstr ""
+
+msgid "Downloading"
+msgstr "ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Downloading %s"
+msgstr "%s ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Downloading update..."
+msgstr "གསར་སྒྱུར་ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid ""
+"Drag&drop between different instances of FileZilla has not been implemented "
+"yet."
+msgstr ""
+"དུད་སྣེ FTP "
+"མི་འདྲ་བའི་དངོས་དཔེའི་བར་དུ་འདྲུད་གཏོང་ད་དུང་མངོན་འགྱུར་བྱུང་མེད། "
+
+msgid "Drag&drop between different servers has not been implemented yet."
+msgstr "ཞབས་ཞུ་ཆས་མི་འདྲ་བའི་བར་དུ་འདྲུད་གཏོང་ད་དུང་མངོན་འགྱུར་བྱུང་མེད། "
+
+msgid "Dupl&icate"
+msgstr "འདྲ་ཕབ། (&I)"
+
+msgid "E&nable all"
+msgstr "ཚང་མ་སྤྱོད་འགོ་རྩོམ་པ། (&N)"
+
+msgid "E&nter directory"
+msgstr "དཀར་ཆག (&N)"
+
+msgid "E&xecute"
+msgstr "ལག་བསྟར། (&X)"
+
+msgid "E&xit"
+msgstr "ཕྱིར་འཐེན། (&X)"
+
+msgid "E&xport..."
+msgstr "ཕྱིར་འདྲེན། (&X)"
+
+msgid "E-Mail:"
+msgstr "གློག་རྡུལ་སྦྲག་ཡིག"
+
+msgid "Each filter needs at least one condition."
+msgstr "འཚག་ཆས་ཚང་མར་ཉུང་མཐར་ཡང་ཆ་རྐྱེན་གཅིག་དགོས། "
+
+msgid "Edit filters"
+msgstr "འཚག་ཆས་རྩོམ་སྒྲིག་བྱེད་པ།"
+
+msgid ""
+"Edit the file with the configured editor and upload changes to the server."
+msgstr ""
+"སྒྲིག་འགོད་བྱས་པའི་རྩོམ་སྒྲིག་ཆས་ཀྱིས་ཡིག་ཆར་རྩོམ་སྒྲིག་བྱེད་པ་མ་ཟད། "
+"བཟོ་བཅོས་ཟིན་པའི་ཡིག་ཆ་དེ་ཞབས་ཞུ་ཆས་ལ་ཡར་བསྐུར་དགོས།"
+
+msgid "Editing directories is not supported"
+msgstr "དཀར་ཆག་རྩོམ་སྒྲིག་ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "Editing failed"
+msgstr "རྩོམ་སྒྲིག་ཕམ་པ།"
+
+msgid "Editing search results"
+msgstr "བཤེར་འཚོལ་མཇུག་འབྲས་ལ་རྩོམ་སྒྲིག་བྱེད་པ།"
+
+msgid "Email:"
+msgstr ""
+
+msgid "Empty command"
+msgstr "བཀའ་བརྡ་སྟོང་པ།"
+
+msgid "Empty command."
+msgstr ""
+
+msgid "Empty directory listing"
+msgstr "དཀར་ཆག་སྟོང་པའི་རེའུ་མིག"
+
+msgid "Empty directory."
+msgstr "དཀར་ཆག་སྟོང་པ། "
+
+msgid "Empty file extension."
+msgstr "ཡིག་ཆ་སྟོང་པའི་རྒྱ་སྐྱེད་མིང་། "
+
+msgid "Empty filter names are not allowed."
+msgstr "འཚག་ཆས་ཀྱི་མིང་སྟོང་པ་ཡིན་མི་རུང་། "
+
+msgid "Empty name"
+msgstr "མིང་སྟོང་པ།"
+
+msgid "Empty quoted string."
+msgstr "ཡིག་ཕྲེང་སྟོང་པ་འདྲེན་སྤྱོད། "
+
+msgid "En&able all"
+msgstr "ཚང་མ་སྤྱོད་འགོ་རྩོམ་པ། (&A)"
+
+msgid "Enable invalid character &filtering"
+msgstr "ནུས་མེད་ཡིག་རྟགས་འཚག་པ་སྤྱོད་པ། (&F)"
+
+msgid "Encrypted"
+msgstr "གསང་བསྡམས།"
+
+msgid "Encryption"
+msgstr "གསང་སྡོམ།(_E)"
+
+msgid "Encryption details"
+msgstr "གསང་སྡོམ་ཞིབ་ཆ།"
+
+msgid "End comparison and change sorting order?"
+msgstr "བསྡུར་བ་མཇུག་སྒྲིལ་ནས་རིམ་སྒྲིག་ལ་འགྱུར་བ་གཏོང་དགོས་སམ། "
+
+msgid "Enter &custom command..."
+msgstr "རང་བཟོས་བཀའ་བརྡ་ནང་འཇུག་བྱེད་པ། (&C)"
+
+msgid "Enter 0 for unlimited speed."
+msgstr "0 ནང་འཇུག་བྱས་ཚེ་མགྱོགས་ཚད་ཀྱི་ཚད་བཀག་མེད་པ་མཚོན། "
+
+msgid "Enter command"
+msgstr "བཀའ་བརྡ་ནང་འཇུག"
+
+msgid "Enter custom command"
+msgstr "རང་བཟོས་བཀའ་བརྡ་ནང་འཇུག"
+
+msgid "Enter directory"
+msgstr "དཀར་ཆག་ནང་འཛུལ་བ།"
+
+msgid "Enter filter name"
+msgstr "འཚག་ཆས་ཀྱི་མིང་ནང་འཇུག"
+
+msgid "Enter name for filterset"
+msgstr "འཚག་ཆས་ཚོགས་སྤྱིའི་མིང་ནང་འཇུག"
+
+msgid "Enter new name for filterset"
+msgstr "འཚག་ཆས་ཚོགས་སྤྱིའི་མིང་གསར་པ་ནང་འཇུག"
+
+msgid "Enter password"
+msgstr "གསང་ཨང་ནང་འཇུག"
+
+msgid "Enter selected directory"
+msgstr "བདམས་ཟིན་པའི་དཀར་ཆག་ནང་འཛུལ་བ།"
+
+msgid ""
+"Enter the address of the server.\n"
+"To specify the server protocol, prepend the host with the protocol identifier. If no protocol is specified, the default protocol (ftp://) will be used.\n"
+"You can also enter complete URLs in the form protocol://user:pass@host:port here, the values in the other fields will be overwritten then.\n"
+"\n"
+"Supported protocols are:\n"
+"- ftp:// for normal FTP with optional encryption\n"
+"- sftp:// for SSH file transfer protocol\n"
+"- ftps:// for FTP over TLS (implicit)\n"
+"- ftpes:// for FTP over TLS (explicit)"
+msgstr ""
+
+msgid ""
+"Enter the password for the file '%s'.\n"
+"The converted file will be protected with the same password."
+msgstr ""
+
+msgid ""
+"Enter the port on which the server listens.\n"
+"The default for FTP is 21, the default for SFTP is 22."
+msgstr ""
+
+msgid "Enter username and password"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་དང་གསང་ཨང་ནང་འཇུག"
+
+msgid "Error exporting settings"
+msgstr "ཕྱིར་འདྲེན་སྒྲིག་འགོད་སྐབས་ནོར་འཁྲུལ་ཐོན།"
+
+msgid "Error importing"
+msgstr "འདྲེན་འཇུག་སྐབས་ནོར་འཁྲུལ་ཐོན།"
+
+msgid "Error loading queue"
+msgstr "རུ་སྟར་ཁུར་སྣོན་སྐབས་ནོར་འཁྲུལ་ཐོན།"
+
+msgid "Error loading xml file"
+msgstr "ཡིག་ཆ XML འདྲེན་འཇུག་སྐབས་ནོར་འཁྲུལ་ཐོན།"
+
+msgid "Error saving queue"
+msgstr "རུ་སྟར་ཉར་ཚགས་སྐབས་ནོར་འཁྲུལ་ཐོན།"
+
+msgid "Error starting program"
+msgstr "བྱ་རིམ་འགོ་སློང་སྐབས་ནོར་འཁྲུལ་ཐོན།"
+
+msgid "Error writing xml file"
+msgstr "ཡིག་ཆ XML འབྲི་སྐབས་ནོར་འཁྲུལ་ཐོན།"
+
+msgid "Error:"
+msgstr "ནོར་འཁྲུལ།："
+
+msgid "Example: png \"c:\\program files\\viewer\\viewer.exe\" -open"
+msgstr ""
+
+msgid "Examples"
+msgstr "དཔེ་མཚོན།"
+
+msgid "Exe&cute"
+msgstr "ལག་བསྟར། (&C)"
+
+msgid "Executable contains no version info, cannot check for updates."
+msgstr ""
+"བྱ་རིམ་ལ་པར་གཞིའི་ཆ་འཕྲིན་ཚུད་མེད་པས། གསར་སྒྱུར་ལ་ཞིབ་བཤེར་བྱེད་ཐབས་བྲལ། "
+
+msgid "Explorer"
+msgstr "བཤེར་ཆས།"
+
+msgid "Export &Queue"
+msgstr "རུ་སྟར་ཕྱིར་འདྲེན། (&Q)"
+
+msgid "Export &Settings"
+msgstr "སྒྲིག་འགོད་ཕྱིར་འདྲེན། (&S)"
+
+msgid "Export settings"
+msgstr ""
+
+msgid "F&ilter name:"
+msgstr "འཚག་ཆས་ཀྱི་མིང་། (&I)"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "FTP - File Transfer Protocol"
+msgstr "ཡིག་ཆ་བརྒྱུད་གཏོང་གི་གྲོས་ཆིངས FTP"
+
+msgid "FTP - File Transfer Protocol with optional encryption"
+msgstr "གསང་སྡོམ་གདམ་ཆོག་པའི་ཡིག་ཆ་བརྒྱུད་གཏོང་གྲོས་ཆིངས FTP"
+
+msgid "FTP - Insecure File Transfer Protocol"
+msgstr "བདེ་འཇགས་མིན་པའི་ཡིག་ཆ་བརྒྱུད་གཏོང་གྲོས་ཆིངས FTP"
+
+msgid "FTP Engine not initialized, can't connect"
+msgstr "འཕྲུལ་འཁོར FTP ལ་འགོ་སྒྲིག་བྱས་མེད་པས་འབྲེལ་མཐུད་བྱེད་ཐབས་བྲལ།"
+
+msgid "FTP Keep-alive"
+msgstr ""
+
+msgid "FTP Proxy"
+msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས FTP"
+
+msgid "FTP URL"
+msgstr "གནས་ཡུལ FTP"
+
+msgid ""
+"FTP uses secondary connections for data transfers. These additional "
+"connections can be established in two ways."
+msgstr ""
+"FTP ཡིས་འབྲེལ་མཐུད་གཞན་བེད་སྤྱད་ནས་གཞི་གྲངས་བརྒྱུད་གཏོང་བྱེད། "
+"འབྲེལ་མཐུད་ལྷག་མ་འདི་དག་ཐབས་གཉིས་ཀྱིས་བཙུགས་ཆོག "
+
+msgid "FTPES - FTP over explicit TLS"
+msgstr "FTPES-མངོན་ཚུལ TLS ཡི FTP བརྒྱུད་པ།"
+
+msgid "FTPS - FTP over implicit TLS"
+msgstr "FTS-གབ་ཚུལ TLS ཡི FTP བརྒྱུད་པ།"
+
+msgid "Failed to change directory"
+msgstr "དཀར་ཆག་བསྒྱུར་བ་ཕམ་པ།"
+
+msgid "Failed to change language"
+msgstr "སྐད་རིགས་རིགས་བརྗེ་བ་ཕམ་པ།"
+
+msgid "Failed to copy or move sites"
+msgstr "ས་ཚུགས་འདྲ་བཟོ་འམ་སྤོ་ཐབས་བྲལ།"
+
+msgid "Failed to create backup copy of xml file"
+msgstr "XML ཡིག་ཆ་ཡི་གྲབས་དངོས་འདྲ་བཤུས་བཟོ་སྐབས་ཕམ་པ།"
+
+msgid "Failed to create listen socket, aborting"
+msgstr "འབྲེལ་འཛུགས་ཉན་ཞིབ་བཟོ་སྐབས་ཕམ་པས། མཚམས་འཇོག་བཞིན་པ།"
+
+msgid "Failed to create listening socket for active mode transfer"
+msgstr "རང་འགུལ་རྣམ་པའི་བརྒྱུད་གཏོང་ལ་འབྲེལ་འཛུགས་ཉན་ཞིབ་བཟོ་སྐབས་ཕམ་པ།"
+
+msgid "Failed to get 'My Documents' path"
+msgstr "“ངའི་ཡིག་ཚགས”ཡི་བརྒྱུད་ལམ་ཐོབ་ཐབས་བྲལ།"
+
+msgid "Failed to get desktop path"
+msgstr "ཅོག་ངོས་ཀྱི་བརྒྱུད་ལམ་ཐོབ་ཐབས་བྲལ།"
+
+msgid "Failed to get peer address of control connection, connection closed."
+msgstr ""
+"ཚོད་འཛིན་འབྲེལ་མཐུད་ཀྱི་མཚུངས་པའི་གནས་ཡུལ་ལེན་མི་ཐུབ་པས། "
+"འབྲེལ་མཐུད་ཁ་བརྒྱབ་ཟིན། "
+
+msgid "Failed to get peer address of data connection, connection closed."
+msgstr ""
+"གཞི་གྲངས་འབྲེལ་མཐུད་ཀྱི་མཚུངས་པའི་གནས་ཡུལ་ལེན་མི་ཐུབ་པས། "
+"འབྲེལ་མཐུད་ཁ་བརྒྱབ་ཟིན། "
+
+msgid "Failed to initialize FTP engine"
+msgstr "འཕྲུལ་འཁོར FTP ཡི་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Failed to initialize TLS."
+msgstr "TLS ཡི་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Failed to load panels, invalid resource files?"
+msgstr "ངོས་པང་འདྲེན་འཇུག་ཕམ་པ། ཐོན་ཁུངས་ཡིག་ཆ་ནུས་མེད་ཡིན་ནམ།"
+
+msgid "Failed to load private key: %s"
+msgstr "སྒེར་ལྡེ %s ཁུར་སྣོན་ཕམ་པ།"
+
+msgid "Failed to open \"%s\" for appending/writing"
+msgstr ""
+
+msgid "Failed to open \"%s\" for reading"
+msgstr ""
+
+msgid "Failed to open \"%s\" for writing"
+msgstr ""
+
+msgid "Failed to parse returned path."
+msgstr "དབྱེ་ཞིབ་བྱས་ནས་ཕྱིར་ལོག་མི་ཐུབ་པའི་བརྒྱུད་ལམ། "
+
+msgid "Failed to receive data"
+msgstr "གཞི་གྲངས་སྡུད་ལེན་ཕམ་པ།"
+
+msgid "Failed to retrieve directory listing"
+msgstr "དཀར་ཆག་རེའུ་མིག་གི་ཀློག་ལེན་ཕམ་པ།"
+
+msgid "Failed to retrieve external ip address, aborting"
+msgstr "ཕྱི་ཕྱོགས་ཀྱི IP གནས་ཡུལ་ལེན་ཐབས་བྲལ་བས། མཚམས་འཇོག་པ།"
+
+msgid "Failed to retrieve external ip address, using local address"
+msgstr "ཕྱི་ཕྱོགས་ཀྱི IP གནས་ཡུལ་ལེན་ཐབས་བྲལ་བས། རང་སའི་གནས་ཡུལ་བེད་སྤྱོད་པ།"
+
+msgid "Failed to retrieve local ip address."
+msgstr "རང་སའི IP གནས་ཡུལ་ལེན་ཐབས་བྲལ། "
+
+msgid "Failed to retrieve local ip address. Aborting"
+msgstr "རང་སའི IP གནས་ཡུལ་ལེན་ཐབས་བྲལ་བས། མཚམས་འཇོག་པ།"
+
+msgid "Failed to retrieve the external IP address."
+msgstr "ཕྱི་ཕྱོགས་ཀྱི IP གནས་ཡུལ་ལེན་ཐབས་བྲལ།"
+
+msgid "Failed to send command."
+msgstr "བཀའ་བརྡ་སྐྱེལ་བ་ཕམ་པ། "
+
+msgid "Failed to set language to %s (%s), using default system language"
+msgstr ""
+"སྐད་རིགས %s (%s) ལ་སྒྲིག་འགོད་བྱེད་ཐབས་བྲལ་བས། "
+"རྒྱུད་ཁོངས་ཀྱིས་སོར་བཞག་སྐད་ཡིག་བེད་སྤྱོད་པ་ཡིན།"
+
+msgid ""
+"Failed to set language to %s (%s), using default system language (%s, %s)."
+msgstr ""
+
+msgid "Failed to set language to %s (%s), using default system language."
+msgstr ""
+"སྐད་རིགས %s (%s) ལ་སྒྲིག་འགོད་བྱེད་ཐབས་བྲལ་བས། "
+"རྒྱུད་ཁོངས་ཀྱིས་སོར་བཞག་སྐད་ཡིག་བེད་སྤྱོད་པ་ཡིན།"
+
+msgid "Failed to set language to %s, using default system language"
+msgstr ""
+
+msgid "Failed to set language to %s, using default system language (%s, %s)."
+msgstr ""
+
+msgid "Failed to set language to %s, using default system language."
+msgstr ""
+
+msgid "Failed to validate settings"
+msgstr "དག་བཤེར་སྒྲིག་འགོད་ཕམ་པ།"
+
+msgid "Failed to verify peer certificate"
+msgstr "མཚུངས་པའི་དཔང་ཡིག་ལ་ར་སྤྲོད་སྐབས་ཕམ་པ།"
+
+msgid "Failed to write to file %s"
+msgstr "ཡིག་ཆ %s ལ་འབྲི་སྐབས་ཕམ་པ།"
+
+msgid "Failed to write xml file"
+msgstr "ཡིག་ཆ xml ལ་འབྲི་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "Failed transfers"
+msgstr "བརྒྱུད་གཏོང་ཕམ་པ།"
+
+msgid "Fall back to active mode"
+msgstr "རང་འགུལ་རྣམ་པར་ཕྱིར་སློག་པ།"
+
+msgid "Fil&e:"
+msgstr "ཡིག་ཆ། (&E)"
+
+msgid "Fil&es"
+msgstr ""
+
+msgid "File"
+msgstr "ཡིག་ཆ།"
+
+msgid "File Types"
+msgstr "ཡིག་ཆའི་རིགས་གྲས།"
+
+msgid "File descriptor not a socket"
+msgstr "ཡིག་ཆའི་ཞིབ་བརྗོད་རྟགས་ནི་འབྲེལ་འཛུགས་ཡི་གེ་མིན།"
+
+msgid "File does not contain any importable data."
+msgstr "ཡིག་ཆའི་ནང་དུ་འདྲེན་འཇུག་བྱས་ཆོག་པའི་གཞི་གྲངས་གང་ཡང་མི་འདུག"
+
+msgid "File editing"
+msgstr "ཡིག་ཆ་རྩོམ་སྒྲིག"
+
+msgid "File exists"
+msgstr "ཡིག་ཆ་གནས་པ།"
+
+msgid "File exists action"
+msgstr "གནས་པའི་ཡིག་ཆར་བཀོལ་སྤྱོད་བྱེད་པ།"
+
+msgid "File has changed"
+msgstr "ཡིག་ཆ་འགྱུར་ཟིན།"
+
+msgid "File lists"
+msgstr "ཡིག་ཆའི་རེའུ་མིག"
+
+msgid "File not found"
+msgstr ""
+
+msgid "File search"
+msgstr "ཡིག་ཆ་བཤེར་འཚོལ།"
+
+msgid "File transfer aborted by user"
+msgstr "བརྒྱུད་གཏོང་དེ་སྤྱོད་མཁན་གྱིས་མཇུག་སྒྲིལ་སོང་།"
+
+msgid "File transfer aborted by user after transferring %s in %s"
+msgstr ""
+"བརྒྱུད་གཏོང %s། (སྤྱོད་དུས %s) "
+"ཟིན་རྗེས་སྤྱོད་མཁན་གྱིས་ཡིག་ཆ་བརྒྱུད་གཏོང་བྱེད་མཚམས་བཞག་པ།"
+
+msgid "File transfer failed"
+msgstr "ཡིག་ཆ་བརྒྱུད་གཏོང་ཕམ་པ།"
+
+msgid "File transfer failed after transferring %s in %s"
+msgstr "བརྒྱུད་གཏོང %s། (སྤྱོད་དུས %s) ཟིན་རྗེས་ཡིག་ཆ་བརྒྱུད་གཏོང་ཕམ་པ།"
+
+msgid "File transfer skipped"
+msgstr "ཡིག་ཆ་བརྒྱུད་གཏོང་མཆོང་བ།"
+
+msgid "File transfer successful"
+msgstr "ཡིག་ཆ་བརྒྱུད་གཏོང་ལེགས་གྲུབ་བྱུང་བ།"
+
+msgid "File transfer successful, transferred %s in %s"
+msgstr ""
+"ཡིག་ཆ་བརྒྱུད་གཏོང་ལེགས་གྲུབ་བྱུང་བ། བརྒྱུད་གཏོང %s (སྤྱོད་དུས %s) བྱས།"
+
+msgid "File transfers still in progress."
+msgstr "ཡིག་ཆ་བརྒྱུད་གཏོང་བྱེད་བཞིན་ཡོད། "
+
+msgid "File would transfer with ASCII data type."
+msgstr "ཡིག་ཆ་ནི ASCII ཡི་གཞི་གྲངས་རིགས་གྲས་ཀྱིས་བརྒྱུད་སྐྱེལ་བྱེད་པ།"
+
+msgid "File would transfer with binary data type."
+msgstr ""
+"ཡིག་ཆ་ནི་གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་གཞི་གྲངས་རིགས་གྲས་ཀྱིས་བརྒྱུད་སྐྱེལ་བྱེད་པ།"
+
+msgid "FileZilla"
+msgstr ""
+
+msgid "FileZilla Error"
+msgstr "དུད་སྣེ FTP ཡི་ནོར་འཁྲུལ།"
+
+msgid ""
+"FileZilla can now test your configuration to ensure everything is configured"
+" properly."
+msgstr ""
+"དུད་སྣེ FTP "
+"ཡིས་ད་ལྟ་ཁྱེད་ཀྱི་སྡེབ་སྒྲིག་ལ་ཚོད་ལེན་བྱས་ནས་སྡེབ་སྒྲིག་ཚང་མ་རྒྱུན་ལྡན་ཡིན་པར་འགན་སྲུང་བྱེད་ཀྱི་ཡོད།"
+
+msgid "FileZilla is already connected to a server."
+msgstr "དུད་སྣེ FTP དེ་ཞབས་ཞུ་ཆས་ཤིག་ལ་འབྲེལ་ཟིན་པ།"
+
+msgid ""
+"FileZilla needs to be restarted for the language change to take effect."
+msgstr ""
+"སྐད་རིགས་བསྒྱུར་དུས་དུད་སྣེ FTP དེ་བསྐྱར་སློང་བྱས་ན་གཞི་ནས་ནུས་པ་ཐོན་ཐུབ། "
+
+msgid "FileZilla updates"
+msgstr "དུད་སྣེ FTP གསར་བརྗེ་བྱེད་པ།"
+
+msgid "Filelist status &bars"
+msgstr "ཡིག་ཆའི་རེའུ་མིག་གི་རྣམ་པའི་ཚང་། (&B)"
+
+msgid "Filename"
+msgstr "ཡིག་ཆའི་མིང་།"
+
+msgid "Filename &filters..."
+msgstr "ཡིག་ཆའི་མིང་ལ་འཚག་ཆས། (&F)"
+
+msgid "Filename cannot be constructed for directory %s and filename %s"
+msgstr "དཀར་ཆག %s དང་ཡིག་ཆའི་མིང %s ལ་ཡིག་ཆའི་མིང་བཟོ་མི་ཐུབ།"
+
+msgid "Filename invalid"
+msgstr "ཡིག་ཆའི་མིང་ནུས་མེད་ཡིན།"
+
+msgid "Filename unchanged"
+msgstr "ཡིག་ཆའི་མིང་ལ་འགྱུར་བ་བྱུང་མེད།"
+
+msgid "Filename:"
+msgstr "ཡིག་ཆའི་མིང་།："
+
+msgid "Filenames may not contain any of the following characters: / * ? < > |"
+msgstr "ཡིག་ཆའི་མིང་གི་ནང་དུ་ཡིག་རྟགས  / * ? < > | གང་ཡང་ཚུད་མི་ཆོག"
+
+msgid ""
+"Filenames may not contain any of the following characters: / \\ : * ? \" < >"
+" |"
+msgstr ""
+
+msgid "Files currently being edited"
+msgstr "རྩོམ་སྒྲིག་བྱེད་བཞིན་པའི་ཡིག་ཆ།"
+
+msgid "Filesize"
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་།"
+
+msgid "Filesize format"
+msgstr "ཡིག་ཆ་ཆེ་ཆུང་གི་རྣམ་གཞག"
+
+msgid "Filetype"
+msgstr "ཡིག་ཆའི་རིགས་གྲས།"
+
+msgid "Filetype associations"
+msgstr "ཡིག་ཆའི་རྣམ་གཞག་འབྲེལ་ལྡན།"
+
+msgid "Filter applies to:"
+msgstr "འཚག་ཆས་ཀྱི་བཀོལ་སྤྱོད་ཁྱབ་ཁོངས།"
+
+msgid "Filter invalid characters in filenames"
+msgstr "འཚག་ཆས་ཀྱི་ཡིག་ཆའི་མིང་ལ་ནུས་མེད་ཡིག་རྟགས་ཡོད།"
+
+msgid "Filter name already exists"
+msgstr "འཚག་ཆས་ཀྱི་མིང་གནས་འདུག"
+
+msgid "Filter out items matching all of the following"
+msgstr "གཤམ་གྱི་ཟླ་སྒྲིག་བྱས་པའི་ཆ་རྐྱེན་གྱི་རྣམ་གྲངས་ཚང་མ་འཚག་སེལ་བྱེད་པ།"
+
+msgid "Filter out items matching any of the following"
+msgstr "གཤམ་གྱི་ཟླ་སྒྲིག་བྱས་པའི་ཆ་རྐྱེན་གྱི་རྣམ་གྲངས་གང་རུང་འཚག་སེལ་བྱེད་པ།"
+
+msgid "Filter out items matching none of the following"
+msgstr ""
+"གཤམ་གྱི་ཟླ་སྒྲིག་བྱས་མེད་པའི་ཆ་རྐྱེན་གྱི་རྣམ་གྲངས་གང་རུང་འཚག་སེལ་བྱེད་པ།"
+
+msgid "Filter set already exists"
+msgstr "འཚག་ཆས་ཀྱི་ཚོགས་སྤྱི་གནས་ཡོད།"
+
+msgid "Filter the directory listings"
+msgstr "འཚག་པའི་དཀར་ཆག་རེའུ་མིག"
+
+msgid "Filter validation failed"
+msgstr "འཚག་ཆས་ཀྱི་ཞིབ་བསྡུར་ཕམ་པ།"
+
+msgid "Find &files"
+msgstr "ཡིག་ཆ་འཚོལ་བ།"
+
+msgid "Find d&irectories"
+msgstr "དཀར་ཆག་འཚོལ་བ།"
+
+msgid "Fingerprint (SHA-1):"
+msgstr "མཛུབ་རིས། (SHA-1)"
+
+msgid "Fingerprint (SHA-256):"
+msgstr ""
+
+msgid "Fingerprint:"
+msgstr "མཛུབ་རིས།"
+
+msgid "Firewall and router configuration wizard"
+msgstr "མེ་འགོག་གྱང་དང་ལམ་སྟོན་ཆས་ཀྱི་སྡེབ་སྒྲིག་སྣེ་ཁྲིད།"
+
+msgid ""
+"For more detailed information about what these options do, please run the "
+"network configuration wizard."
+msgstr ""
+"དྲ་རྒྱའི་སྡེབ་སྒྲིག་གི་སྣེ་ཁྲིད་འཁོར་སྐྱོད་བྱས་ནས་འབྲེལ་ཡོད་འདེམས་ཚན་དེ་ཚོའི་ཆ་འཕྲིན་མང་བ་ཐོབ་ཐུབ།"
+
+msgid "For reliability you should specify a range of at least 10 ports."
+msgstr ""
+"ཁྱེད་རང་གི་མ་མཐར་ཡང་མཐུད་ཁ་བཅུ་དམིགས་འཛུགས་བྱས་ན། "
+"གཞི་ནས་རྟོན་རུང་རང་བཞིན་ལ་འགན་ལེན་བྱེད་ཐུབ། "
+
+msgid ""
+"For this session the default settings will be used. Any changes to the "
+"settings will not be saved."
+msgstr ""
+"མིག་སྔའི་གླེང་མོལ་གྱིས་སོར་བཞག་སྒྲིག་འགོད་བེད་སྤྱད་པས། "
+"སྒྲིག་འགོད་ཀྱི་བཟོ་བཅོས་ཚང་མ་ཉར་ཚགས་བྱེད་ཀྱི་མེད།"
+
+msgid "Force &UTF-8"
+msgstr "བཙན་ཤེད  &UTF-8"
+
+msgid "Force showing &hidden files"
+msgstr "སྦས་པའི་ཡིག་ཆ་བཙན་ཤེད་ཀྱིས་མངོན་པ། (&H)"
+
+msgid "Force showing hidden files"
+msgstr "སྦས་པའི་ཡིག་ཆ་བཙན་ཤེད་ཀྱིས་མངོན་པ།"
+
+msgid "Format specifications:"
+msgstr "རྣམ་གཞག་གཏན་འབེབས།"
+
+msgid "Format: Extension followed by properly quoted command and arguments."
+msgstr ""
+"རྣམ་གཞག "
+"རྒྱ་བསྐྱེད་མིང་གི་རྗེས་སུ་ཡང་དག་པའི་བཀའ་བརྡ་དང་ཞུགས་གྲངས་ཀྱིས་རྗེས་སུ་འབྲངས་དགོས།"
+" "
+
+msgid "Found new %s %s\n"
+msgstr ""
+
+msgid "Further documentation"
+msgstr "ཡིག་ཚགས་དེ་བས་མང་བ།"
+
+msgid "General"
+msgstr "རྒྱུན་སྲོལ།"
+
+msgid "General SOCKS server failure"
+msgstr "SOCKS ཞབས་ཞུ་ཆས་ཀྱི་རྒྱུན་སྲོལ་སྐྱོན།"
+
+msgid "Generic proxy"
+msgstr "ཀུན་སྤྱོད་ལས་ཚབ།"
+
+msgid "Get external IP address from the following URL:"
+msgstr "གཤམ་གྱི URL ནས་ཕྱི་རོལ་གྱི IP ཡི་གནས་ཡུལ་ཐོབ་པ།"
+
+msgid "Getting help"
+msgstr "རོགས་རམ་ཐོབ་པ།"
+
+msgid "Given filterset name already exists, overwrite filter set?"
+msgstr ""
+"མཁོ་སྤྲོད་བྱས་པའི་འཚག་ཆས་ཚོགས་སྤྱིའི་མིང་གནས་འདུག་པས། "
+"འཚག་ཆས་ཚོགས་སྤྱི་དེ་འགེབས་སམ།"
+
+msgid "Global bookmarks"
+msgstr "ཁྱོན་ཡོངས་ཀྱི་དཔེ་འཛར།"
+
+msgid "GnuTLS error %d"
+msgstr "GnuTLS ནོར་འཁྲུལ %d"
+
+msgid "GnuTLS error %d in %s"
+msgstr "GnuTLS ནོར་འཁྲུལ %d དེ %s ལ་གནས།"
+
+msgid "GnuTLS error %d in %s: %s"
+msgstr ""
+
+msgid "GnuTLS error %d: %s"
+msgstr ""
+
+msgid "GnuTLS:"
+msgstr ""
+
+msgid "Group permissions"
+msgstr "ཚོ་ཡི་དབང་ཚད།"
+
+msgid "H&igh"
+msgstr "མཐོ་བ། (&I)"
+
+msgid "HTTPS - HTTP over TLS"
+msgstr "HTTS-TLS ཡི HTTP བརྒྱུད།"
+
+msgid "Hash:"
+msgstr "ཐོར་སྒྲིག་གྲངས་ཐང་།"
+
+msgid "Hidden"
+msgstr "སྦེད་པ།"
+
+msgid "High"
+msgstr "མཐོ།"
+
+msgid "Highest"
+msgstr "མཐོ་ཤོས།"
+
+msgid "Highest available port has to be a number between 1024 and 65535."
+msgstr ""
+"སྤྱོད་རུང་མཐུད་ཁའི་ཨང་མཐོ་ཤོས་དེ་ངེས་པར་དུ 1024 ནས 65535 བར་ཡིན་དགོས། "
+
+msgid ""
+"Hold the shift key to toggle the filter state on both sides simultaneously."
+msgstr ""
+"མཐེབ shift མནན་པ་དང་ཆབས་ཅིག་གཡས་གཡོན་གྱི་འཚག་ཆས་རྣམ་པ་ཁ་ཕྱེ་བ་དང་ཁ་རྒྱག་པ།"
+
+msgid "Homepage:"
+msgstr "གཙོ་ངོས།"
+
+msgid "Host is down"
+msgstr "གཙོ་འཁོར་ཁ་རྒྱག་ཟིན་པ།"
+
+msgid "Host key fingerprint:"
+msgstr "གཙོ་འཁོར་གྱི་གསང་ལྡེ་དང་མཛུབ་རིས།"
+
+msgid "Host key mismatch"
+msgstr "གཙོ་འཁོར་གྱི་གསང་ལྡེ་ཟླ་སྒྲིག་མིན་པ།"
+
+msgid "Host starts with '[' but no closing bracket found."
+msgstr "གཙོ་འཁོར་གྱི་མིང “[” ཡི་འགོ་རྩོམ་ཀྱང་མཇུག་སྒྲིལ་རྟགས “]” མེད་པ།  "
+
+msgid "Host unreachable"
+msgstr "གཙོ་འཁོར་ལ་འབྲེལ་མཐུད་བྱེད་ཐབས་མེད།"
+
+msgid "Host:"
+msgstr "གཙོ་འཁོར།"
+
+msgid "Hours,"
+msgstr "ཆུ་ཚོད།"
+
+msgid "I&SO 8601 (example: 15:47)"
+msgstr "ISO8601  (དཔེ་མཚོན 15:47）"
+
+msgid "IPv6 addresses are not supported with SOCKS4 proxy"
+msgstr "SOCKS4 ལས་ཚབ་ཀྱིས་གནས་ཡུལ IPv6 ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid ""
+"If no data is sent or received during an operation for longer than the "
+"specified time, the connection will be closed and FileZilla will try to "
+"reconnect."
+msgstr ""
+
+msgid "If reporting bugs, please provide logs with \"Verbose\" logging level."
+msgstr ""
+
+msgid ""
+"If the automatic test at the end of this wizard succeeds, but you cannot "
+"transfer files to a particular server, the server might be misconfigured and"
+" you should try active mode. You can set the transfer mode on a per-server "
+"basis in the Site Manager."
+msgstr ""
+
+msgid ""
+"If the fallback option is enabled, you will be able to connect to "
+"misconfigured servers which reject the selected transfer mode."
+msgstr ""
+"གལ་ཏེ་འདེམས་ཚན་ཕྱིར་སློག་སྤྱད་ན། "
+"ཁྱེད་ཀྱིས་ནོར་འཁྲུལ་གྱིས་སྡེབ་སྒྲིག་བྱས་ནས་བརྒྱུད་གཏོང་རྣམ་པ་འདེམས་རྒྱུ་དང་ལེན་མ་བྱས་པའི་ས་ཚུགས་ལ་འབྲེལ་ཐུབ།"
+" "
+
+msgid ""
+"If the host key change was not expected, please contact the server "
+"administrator."
+msgstr ""
+"གལ་ཏེ་གཙོ་འཁོར་གྱི་གསང་ལྡེ་བརྗེ་བ་ལ་དོག་པ་ཡོད་ན། "
+"ཞབས་ཞུ་ཆས་ཀྱི་དོ་དམ་པ་ལ་འབྲེལ་གཏུག་བྱོས། "
+
+msgid ""
+"If the problem persists, some router and/or firewall keeps blocking "
+"FileZilla."
+msgstr ""
+"གལ་ཏེ་གནད་དོན་འདི་སྔར་བཞིན་གནས་ཡོད་ན། "
+"ལམ་སྟོན་ཆས་སམ་མེ་འགོག་གྱང་གིས་རྒྱུན་པར་དུད་སྣེ FTP བཀག་འགོག་བྱེད་བཞིན་ཡོད། "
+
+msgid ""
+"If the problem persists, some router and/or firewall keeps interrupting the "
+"connection."
+msgstr ""
+"གལ་ཏེ་གནད་དོན་འདི་སྔར་བཞིན་གནས་ཡོད་ན། "
+"ལམ་སྟོན་ཆས་སམ་མེ་འགོག་གྱང་གིས་འབྲེལ་མཐུད་འདི་སྔར་བཞིན་བར་གཅོད་བྱེད་པ་ཡིན།"
+
+msgid ""
+"If the size of the logfile reaches the limit, it gets renamed by adding "
+"\".1\" to the end of the filename (possibly overwriting older logfiles) and "
+"a new file gets created."
+msgstr ""
+
+msgid ""
+"If the symlink points to a directory, FileZilla can either delete the "
+"symbolic link or remove the contents of the linked directory."
+msgstr ""
+
+msgid ""
+"If this problem persists, please contact your router or firewall "
+"manufacturer for a solution."
+msgstr ""
+"གལ་ཏེ་གནད་དོན་འདི་སྔར་བཞིན་གནས་ཡོད་ན། "
+"ཁྱེད་ཀྱིས་ལམ་སྟོན་ཆས་སམ་མེ་འགོག་གྱང་གི་བཟོ་སྐྲུན་མཁན་ལ་འབྲེལ་བ་བྱོས།"
+
+msgid "If this problem stays, please contact your router manufacturer."
+msgstr ""
+"གལ་ཏེ་གནད་དོན་འདི་སྔར་བཞིན་གནས་ཡོད་ན། "
+"ཁྱེད་ཀྱིས་ལམ་སྟོན་ཆས་བཟོ་སྐྲུན་མཁན་ལ་འབྲེལ་བ་བྱོས།"
+
+msgid ""
+"If using 'overwrite if newer', your system time has to be synchronized with "
+"the server. If the time differs (e.g. different timezone), specify a "
+"timezone offset in the site manager."
+msgstr ""
+
+msgid ""
+"If using timestamp based comparison, consider two files equal if their "
+"timestamp difference does not exceed this threshold."
+msgstr ""
+"གལ་ཏེ་དུས་ཐམ་རྣམ་པས་བསྡུར་ན། "
+"ཡིག་ཆ་གཉིས་ཀྱི་དུས་ཚོད་ཀྱི་ཁྱད་པར་ཚད་བཀག་གྲངས་ཐང་ལས་མི་བརྒལ་ན་གཅིག་མཚུངས་ལ་བརྩི་ཡིན།"
+" "
+
+msgid "If you change the language, you need to restart FileZilla."
+msgstr "གལ་ཏེ་སྐད་རིགས་བསྒྱུར་ན། ཁྱེད་ཀྱིས་དུད་སྣེ FTP བསྐྱར་སློང་བྱེད་དགོས། "
+
+msgid ""
+"If you click on test, FileZilla will connect to probe.filezilla-project.org "
+"and will perform some simple tests."
+msgstr ""
+
+msgid "If you close FileZilla, your changes will be lost."
+msgstr ""
+"གལ་ཏེ་དུད་སྣེ FTP ཁ་རྒྱག་ན། ཁྱེད་རང་གི་བཟོས་པའི་འགྱུར་ལྡོག་དེ་བོར་ངེས་རེད། "
+
+msgid ""
+"If you enter the wrong filetypes, those files may get corrupted when "
+"transferred."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་ནོར་འཁྲུལ་གྱི་ཡིག་ཆའི་རིགས་ནང་འཇུག་བྱས་ན། "
+"ཡིག་ཆ་དེ་དག་བརྒྱུད་གཏོང་བྱས་རྗེས་འཕྲོ་བརླག་ཏུ་འགྲོ་སྲིད། "
+
+msgid "If you get any errors, your configuration is not correct."
+msgstr "གལ་ཏེ་ནོར་འཁྲུལ་འཕྲད་ན། ཁྱེད་སྡེབ་སྒྲིག་ཡང་དག་མིན་པ་མཚོན། "
+
+msgid ""
+"If you have problems to retrieve directory listings or to transfer files, "
+"try to change the default transfer mode."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་དཀར་ཆག་རེའུ་མིག་ལེན་པའམ་ཡིག་ཆ་བརྒྱུད་གཏོང་སྐབས་གནད་དོན་འཕྲད་ན།"
+" སོར་བཞག་བརྒྱུད་གཏོང་གི་རྣམ་པ་བསྒྱུར་རོགས། "
+
+msgid ""
+"If you keep having problems with a specific server, the server itself or a "
+"remote router or firewall might be misconfigured. In this case try to toggle"
+" passive mode and contact the server administrator for help."
+msgstr ""
+
+msgid ""
+"If you successfully complete the wizard and the final test succeeds, any "
+"firewalls and routers you have should be configured properly."
+msgstr ""
+
+msgid ""
+"If you use a firewall, make sure FileZilla is allowed to accept connection "
+"on all given ports."
+msgstr ""
+"གལ་ཏེ་ཁྱིད་ཀྱིས་མེ་འགོག་གྱང་བཀོལ་ཡོད་ན། དུད་སྣེ FTP "
+"དེ་གཏན་འཁེལ་གྱི་མཐུད་ཁ་ཚང་མའི་སྟེང་ནས་འབྲེལ་ཆོག་པར་ཁག་ཐེག་བྱེད་དགོས།"
+
+msgid ""
+"If you use a router, make sure all these ports are forwarded to the machine "
+"you're running FileZilla on."
+msgstr ""
+
+msgid ""
+"If your router keeps changing the IP address, please contact your router "
+"manufacturer."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱི་ལམ་སྟོན་ཆས་ཀྱིས་རྒྱུན་དུ IP གནས་ཡུལ་བརྗེ་ན། "
+"ཁྱེད་ཀྱི་ལམ་སྟོན་ཆས་བཟོ་སྐྲུན་མཁན་ལ་འབྲེལ་གཏུག་བྱོས། "
+
+msgid "Import data from older version"
+msgstr "པར་གཞི་རྙིང་པའི་ནང་ནས་གཞི་གྲངས་གཞི་གྲངས་འདྲེན་འཇུག་བྱེད་པ།"
+
+msgid "Import settings"
+msgstr "སྒྲིག་འགོད་འདྲེན་འཇུག"
+
+msgid "Import successful"
+msgstr "འདྲེན་འཇུག་ལེགས་འགྲུབ་བྱུང་བ།"
+
+msgid "Improperly quoted association."
+msgstr "འདྲེན་སྤྱོད་ཡང་དག་མ་བྱུང་བའི་འབྲེལ་ལྡན། "
+
+msgid ""
+"In active mode, FileZilla has to listen on a port for data transfers. You "
+"have to specify which ports FileZilla will use."
+msgstr ""
+
+msgid ""
+"In case you have a router, you will have to forward all available ports, as "
+"FileZilla has no influence on the ports your system chooses."
+msgstr ""
+
+msgid ""
+"In order to use active mode, FileZilla needs to know your external IP "
+"address."
+msgstr ""
+"རང་འགུལ་གྱི་རྣམ་པ་སྤྱོད་ཆེད། དུད་སྣེ FTP ཡིས་ཁྱེད་ཀྱི་ཕྱིའི IP "
+"གནས་ཡུལ་ཤེས་དགོས། "
+
+msgid ""
+"In passive mode, which is recommended for most users, FileZilla asks the "
+"server for a port and connects to the given port. Not much configuration has"
+" to be done for this."
+msgstr ""
+
+msgid ""
+"Incomplete chain, top certificate is not self-signed certificate authority "
+"certificate"
+msgstr ""
+"ཆ་ཚང་མིན་པའི་ར་སྤྲོད་སྦྲེལ་མཐུད། "
+"རྩེར་སོན་དཔང་ཡིག་དེ་རང་གིས་ཆོག་མཆན་བཀོད་ནས་སྤྲད་པའི་དབང་སྤྲོད་ལག་ཁྱེར་མ་རེད་།།"
+
+msgid "Incorrect password"
+msgstr "གསང་ཨང་ནོར་བ།"
+
+msgid ""
+"Information about the latest version of FileZilla could not be retrieved. "
+"Please try again later."
+msgstr ""
+"པར་གཞི་གསར་ཤོས་ཀྱི་དུད་སྣེ FTP ཡི་ཆ་འཕྲིན་ཐོབ་ཐབས་བྲལ། "
+"ཅུང་ཙམ་འགོར་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས། "
+
+msgid "Initializing TLS..."
+msgstr "TLS འགོ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
+
+msgid "Insecure algorithm!"
+msgstr "བདེ་འཇགས་མིན་པའི་རྩི་ཐབས། "
+
+msgid "Insecure server, it does not support FTP over TLS."
+msgstr "བདེ་འཇགས་མིན་པའི་ཞབས་ཞུ་ཆས། FTP over TLS ལ་རྒྱབ་སྐྱོར་མི་བྱེད། "
+
+msgid "Interactive"
+msgstr "སྣོལ་རེས་ཚུལ།"
+
+msgid "Interface"
+msgstr "འཆར་ངོས།"
+
+msgid "Interrupted by signal"
+msgstr "བརྡ་རྟགས་ཚད་ཀྱིས་བར་བཅོད་བྱེད་པ།"
+
+msgid "Interrupted by user"
+msgstr "སྤྱོད་མཁན་མཇུག་སྒྲིལ།"
+
+msgid "Invalid Content-Length"
+msgstr "ནུས་མེད་ཀྱི Content-Length"
+
+msgid "Invalid HTTP Response"
+msgstr "ནུས་མེད་ཀྱི་དང་ལེན HTTP "
+
+msgid "Invalid argument passed"
+msgstr "ནུས་མེད་ཞུགས་གྲངས་བརྒྱུད་སྤྲོད་བྱས།"
+
+msgid ""
+"Invalid character sequence received, disabling UTF-8. Select UTF-8 option in"
+" site manager to force UTF-8."
+msgstr ""
+"ནུས་མེད་ཡིག་ཚིགས་འབྱོར་བས་སྒྲིག་ཨང UTF8 སྤྱོད་འགོག་བྱས། "
+"ས་ཚུགས་དོ་དམ་ཆས་ནང་བཙན་ཤེད་ཀྱིས་སྒྲིག་ཨང UTF-8 གདམ་དགོས།"
+
+msgid "Invalid chunk size"
+msgstr "ནུས་མེད་ཀྱི་དུམ་བུའི་ཆེ་ཆུང་།"
+
+msgid "Invalid data received"
+msgstr "ནུས་མེད་གཞི་གྲངས་འབྱོར་བ།"
+
+msgid "Invalid date"
+msgstr "ནུས་མེད་གཞི་གྲངས།"
+
+msgid "Invalid filename"
+msgstr "ཡིག་ཆའི་མིང་ནུས་མེད།"
+
+msgid "Invalid host, after closing bracket only colon and port may follow."
+msgstr ""
+"གཙོ་འཁོར་མིང་ནུས་མེད་ཡིན། "
+"གུག་རྟགས་ཁ་ཟུམ་རྗེས་ལྷག་བཅས་རྟགས་ཀྱི་སྟེང་དུ་མཐུད་སྣེའི་ཨང་རྟགས་ཁོ་ན་བཀོད་པ་ཆོག་པ་ཡིན།"
+" "
+
+msgid "Invalid input"
+msgstr ""
+
+msgid "Invalid port given. The port has to be a value from 1 to 65535."
+msgstr ""
+"གཏན་འཁེལ་བྱས་པའི་མཐུད་སྣེ་ནུས་མེད་ཡིན། མཐུད་སྣེའི་ཨང་རྟགས་དེ་ངེས་པར་དུ 1 ནས "
+"65535 བར་གྱི་གྲངས་ཐང་ཡིན་དགོས། "
+
+msgid ""
+"Invalid protocol specified. Valid protocols are:\n"
+"ftp:// for normal FTP with optional encryption,\n"
+"sftp:// for SSH file transfer protocol,\n"
+"ftps:// for FTP over TLS (implicit) and\n"
+"ftpes:// for FTP over TLS (explicit)."
+msgstr ""
+
+msgid ""
+"Invalid proxy host, after closing bracket only colon and port may follow."
+msgstr ""
+"ལས་ཚབ་གཙོ་འཁོར་གྱི་མིང་ནུས་མེད་ཡིན།  "
+"གུག་རྟགས་ཁ་ཟུམ་རྗེས་ལྷག་བཅས་རྟགས་ཀྱི་སྟེང་དུ་མཐུད་སྣེའི་ཨང་རྟགས་ཁོ་ན་བཀོད་པ་ཆོག་པ་ཡིན།"
+" "
+
+msgid "Invalid regular expression in search conditions."
+msgstr "བཤེར་འཚོལ་ཆ་རྐྱེན་ཚད་མཐུན་མཚོན་ཚུལ་ནི་ནུས་མེད་ཡིན།"
+
+msgid "Invalid response code"
+msgstr "ནུས་མེད་ཀྱི་དང་ལེན་ཨང་།"
+
+msgid "Invalid search conditions: %s"
+msgstr "ནུས་མེད་ཀྱི་བཤེར་འཚོལ་ཆ་རྐྱེན། %s"
+
+msgid "Invalid site path"
+msgstr "ནུས་མེད་ཀྱི་ས་ཚུགས་བརྒྱུད་ལམ།"
+
+msgid "Invalid size in condition"
+msgstr "ཆ་རྐྱེན་ཁྲོད་ཀྱི་ཆེ་ཆུང་ནི་ནུས་མེད་ཡིན།"
+
+msgid "Invalid username given."
+msgstr "ནུས་མེད་ཀྱི་སྤྱོད་མཁན་མིང་།"
+
+msgid "Invalid value for ai_flags"
+msgstr "ainflags ཡི་གྲངས་ཐང་ནུས་མེད་ཡིན།"
+
+msgid "Invalid value for hints"
+msgstr "བརྡ་སྟོན་གྱི་གྲངས་ཐང་ནུས་མེད་ཡིན།"
+
+msgid "Jurisdiction country:"
+msgstr "ཁྲིམས་འཛིན་བདག་ཁོངས་ཀྱི་རྒྱལ་ཁབ།"
+
+msgid "Jurisdiction locality:"
+msgstr "ཁྲིམས་འཛིན་བདག་ཁོངས་ས་ཁུལ།"
+
+msgid "Jurisdiction state or province:"
+msgstr "ཁྲིམས་འཛིན་དོ་དམ་ཁུལ་ལམ་ཡང་ན་ཞིང་ཆེན།"
+
+msgid "Keep directories on top"
+msgstr "དཀར་ཆག་སྟེང་དུ་རྒྱུན་སྲུང་བྱེད།"
+
+msgid ""
+"Keep in mind that not all servers support this feature and may return "
+"incorrect listings if this option is enabled. Although FileZilla performs "
+"some tests to check if the server supports this feature, the test may fail."
+msgstr ""
+
+msgid "Key exchange"
+msgstr "གསང་ལྡེ་བརྗེ་རེས།"
+
+msgid "Key exchange:"
+msgstr ""
+
+msgid "Key file"
+msgstr "གསང་ལྡེའི་ཡིག་ཆ།"
+
+msgid "L&owest"
+msgstr "དམའ་ཤོས། (&O)"
+
+msgid "Language"
+msgstr "སྐད་བརྡ།"
+
+msgid "Language changed"
+msgstr "སྐད་རིགས་བཟོ་བཅོས་ཟིན།"
+
+msgid "Last modified"
+msgstr "ཉེ་དུས་ཀྱི་བཟོ་བཅོས།"
+
+msgid "Layout"
+msgstr "བཀོད་པ།"
+
+msgid "Limit for concurrent &downloads:"
+msgstr "དུས་མཚུངས་སུ་ཕབ་ལེན་ཚོད་འཛིན་བྱེད་པ། (&D)"
+
+msgid "Limit for concurrent &uploads:"
+msgstr "དུས་མཚུངས་སུ་ཡར་བསྐུར་ཚོད་འཛིན་བྱེད་པ། (&U)"
+
+msgid "Limit local ports"
+msgstr "རང་སའི་མཐུད་ཁ་ཚོད་འཛིན་བྱེད་པ།"
+
+msgid "Limit size of logfile"
+msgstr "ཉིན་ཐོ་ཡིག་ཆའི་ཆེ་ཆུང་ཚོད་འཛིན་བྱེད་པ།"
+
+msgid "Limit:"
+msgstr "ཚོད་འཛིན།"
+
+msgid "Line length exceeded"
+msgstr "ཕྲེང་གི་རིང་ཚད་ལས་བརྒལ་བ།"
+
+msgid "Linked against"
+msgstr "སྦྲེལ་མཐུད་མཛོད།"
+
+msgid "Listen socket closed"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེའི་ཉན་ཞིབ་ཁ་རྒྱག་ཟིན་པ།"
+
+msgid "Listing:"
+msgstr "རེའུ་མིག"
+
+msgid "Lo&west available port:"
+msgstr "སྤྱོད་རུང་མཐུད་ཁ་དམའ་ཤོས། (&W)"
+
+msgid "Local"
+msgstr "འཕྲུལ་ཆས་འདི།"
+
+msgid "Local address in use"
+msgstr "རང་སའི་གནས་ཡུལ་བེད་སྤྱོད་བྱེད་བཞིན་ཡོད།"
+
+msgid "Local endpoint has been closed"
+msgstr "རང་སའི་སྣེ་ཚེག (endpoint) ཁ་རྒྱག་ཟིན།"
+
+msgid "Local file"
+msgstr "རང་སའི་ཡིག་ཆ།"
+
+msgid "Local file does not exist."
+msgstr "རང་སའི་ཡིག་ཆ་མི་འདུག "
+
+msgid "Local file is %s\n"
+msgstr ""
+
+msgid "Local file is a directory instead of a regular file."
+msgstr "རང་སའི་ཡིག་ཆ་ནི་དཀར་ཆག་ཞིག་ཡིན་པ་ལས་སྤྱིར་བཏང་གི་ཡིག་ཆ་ཞིག་མ་རེད། "
+
+msgid "Local file is not a valid filename."
+msgstr "རང་སའི་ཡིག་ཆ་ནི་ནུས་ལྡན་གྱི་ཡིག་ཆའི་མིང་ཞིག་མ་རེད། "
+
+msgid "Local filters:"
+msgstr "རང་སའི་འཚག་ཆས།"
+
+msgid "Local site:"
+msgstr "རང་སའི་ས་ཚུགས།"
+
+msgid "Locality:"
+msgstr "ས་གནས།"
+
+msgid "Log file"
+msgstr "ཟིན་ཐོའི་རིམ་པ།"
+
+msgid "Logging"
+msgstr "ཉིན་ཐོ།"
+
+msgid ""
+"Login data contains non-ASCII characters and server might not be UTF-8 "
+"aware. Cannot fall back to local charset since using proxy."
+msgstr ""
+
+msgid ""
+"Login data contains non-ASCII characters and server might not be UTF-8 "
+"aware. Trying local charset."
+msgstr ""
+
+msgid "Login sequence fully executed yet not logged in. Aborting."
+msgstr ""
+"ཐོ་འགོད་བརྒྱུད་རིམ་ཡོངས་སུ་ལག་བསྟར་བྱས་ཟིན་མོད། "
+"འོན་ཀྱང་སྔར་བཞིན་ཐོ་འགོད་བྱེད་ཐབས་མེད་པས་། མཇུག་སྒྲིལ་བཞིན་འདུག"
+
+msgid ""
+"Logontype has to be either 'ask' or 'interactive' (without the quotes)."
+msgstr ""
+"ཐོ་འགོད་ཀྱི་རིགས་ནི་ངེས་པར་དུ “ask” འམ་ཡང་ན “interactve” ཡིན་དགོས། "
+"(འདྲེན་རྟགས་མེད)"
+
+msgid ""
+"Logontype, can only be used together with FTP URL. Argument has to be either"
+" '%s' or '%s'"
+msgstr ""
+"ཐོ་འགོད་རིགས་གྲས་དང FTPURL ཁོ་ན་དང་མཉམ་དུ་སྤྱོད་དགོས། ཞུགས་གྲངས་དེ་ངེས་པར་དུ"
+" “%s” འམ་ཡང་ན “%s” ཡིན་དགོས།"
+
+msgid "Low"
+msgstr "དམའ།"
+
+msgid "Lowest"
+msgstr "དམའ་ཤོས།"
+
+msgid "Lowest available port has to be a number between 1024 and 65535."
+msgstr ""
+"སྤྱོད་རུང་མཐུད་ཁའི་ཨང་རྟགས་དམའ་ཤོས་དེ་ངེས་པར་དུ 1024 ནས 65535 བར་ཡིན་དགོས། "
+
+msgid "MAC:"
+msgstr "MAC"
+
+msgid "Make sure the file can be accessed and is a well-formed XML document."
+msgstr ""
+"ཡིག་ཆ་འདི་གསོག་ལེན་ཆོག་པ་མ་ཟད་རྣམ་གཞག་ཡང་དག་པའི་ཡིག་ཚགས XML "
+"ཡིན་པ་གཏན་འཁེལ་དགོས།"
+
+msgid "Malformed chunk data: %s"
+msgstr "ནོར་འཁྲུལ་གྱི་གཞི་གྲངས་དུམ་བུ %s"
+
+msgid "Malformed header: %s"
+msgstr "ནོར་འཁྲུལ་གྱི་མགོ %s"
+
+msgid "Malformed reply, server not sending proper line endings"
+msgstr "ནོར་འཁྲུལ་གྱི་ཨ་ལན་སློག་པ། ཞབས་ཞུ་ཆས་ཀྱིས་ཡང་དག་ཕྲེང་མཇུག་སྐུར་མེད།"
+
+msgid "Manual transfer"
+msgstr "ལག་སྒུལ་བརྒྱུད་གཏོང་།"
+
+msgid "Match all of the following"
+msgstr "གཤམ་གྱི་ཆ་རྐྱེན་ཚང་མ་འཚམ་པ།"
+
+msgid "Match any of the following"
+msgstr "གཤམ་གྱི་ཆ་རྐྱེན་གང་རུང་འཚམ་པ།"
+
+msgid "Match none of the following"
+msgstr "གཤམ་གྱི་ནང་དོན་ལ་ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "Maximum simultaneous &transfers:"
+msgstr "མཉམ་འབྱུང་བརྒྱུད་གཏོང་ཆེ་ཤོས། (&T)"
+
+msgid "Memory allocation failure"
+msgstr "ནང་གསོག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Message log"
+msgstr "བརྡ་འཕྲིན་ཉིན་ཐོ།"
+
+msgid "Message log position"
+msgstr "བརྡ་འཕྲིན་ཉིན་ཐོའི་གནས་ཡུལ།"
+
+msgid "Message too large"
+msgstr "བརྡ་འཕྲིན་རིང་དྲགས་པ།"
+
+msgid "MiB"
+msgstr ""
+
+msgid "Minutes"
+msgstr "སྐར་མ།"
+
+msgid "Move &down"
+msgstr "གཤམ་འབེབས། (&D)"
+
+msgid "Move &up"
+msgstr "གོང་སྣུར། (&U)"
+
+msgid "My Computer"
+msgstr "ངའི་གློག་ཀླད།"
+
+msgid "My Documents"
+msgstr "ངའི་ཡིག་ཚགས།"
+
+msgid "My Sites"
+msgstr "ངའི་ས་ཚུགས།"
+
+msgid "N/a"
+msgstr "སྤྱད་དུ་མེད་པ།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Name already exists"
+msgstr "མིང་གནས་ཡོད་པ།"
+
+msgid "Name of bookmark already exists."
+msgstr "མིང་འདིའི་དཔེ་འཛར་གནས་ཡོད་པ། "
+
+msgid "Name:"
+msgstr "མིང་།"
+
+msgid "Natural sort"
+msgstr "རང་བྱུང་རིམ་སྒྲིག"
+
+msgid "Need to enter filter name"
+msgstr "འཚག་ཆས་ཀྱི་མིང་འཇུག་དགོས།"
+
+msgid "Need to enter valid remote path"
+msgstr "ཡང་དག་པའི་རྒྱང་རིང་བརྒྱུད་ལམ་ནང་འཇུག་བྱེད་དགོས།"
+
+msgid "Need to specify a character encoding"
+msgstr "ཡིག་རྟགས་སྒྲིག་ཨང་དམིགས་འཛུག་བྱེད་དགོས།"
+
+msgid "Neither nodename nor servname provided, or not known"
+msgstr "མཁོ་འདོན་བྱས་མེད་པའམ་ཡང་ན་་ཚིགས་ཚེག་གི་མིང་ངམ་ཞབས་ཞུའི་མིང་མི་ཤེས་པ།"
+
+msgid ""
+"Network host does not have any network addresses in the requested address "
+"family"
+msgstr ""
+"རེ་ཞུའི་གནས་ཡུལ་ཚོགས་ནང་གི་དྲ་རྒྱའི་གཙོ་འཁོར་ལ་དྲ་རྒྱའི་གནས་ཡུལ་གང་ཡང་མེད།"
+
+msgid "Network unreachable"
+msgstr "འབྲེལ་མཐུད་མི་ཐུབ་པའི་དྲ་རྒྱ།"
+
+msgid "Never"
+msgstr "གཏན་ནས་མི་བྱེད།"
+
+msgid "New &Folder"
+msgstr "ཡིག་ཁུག་གསར་པ། (&F)"
+
+msgid "New &tab"
+msgstr "གདོང་འཛར་གསར་པ། (&T)"
+
+msgid "New Book&mark"
+msgstr "དཔེ་འཛར་གསར་འཛུགས། (&M)"
+
+msgid "New bookmark"
+msgstr ""
+
+msgid "New directory"
+msgstr "དཀར་ཆག་བཟོ་བ།"
+
+msgid "New features and improvements in %s"
+msgstr "%s ཡི་ནང་གི་བྱེད་ནུས་གསར་པ་དང་ལེགས་བཅོས།"
+
+msgid "New filter"
+msgstr "འཚག་ཆས་གསར་པ།"
+
+msgid "New folder"
+msgstr "ཡིག་ཁུག་གསར་བ།"
+
+msgid "New site"
+msgstr "ས་ཚིགས་གསར་པ།"
+
+msgid "Next to the transfer queue"
+msgstr "བརྒྱུད་གཏོང་རུ་སྟར་གྱི་འགྲམ་དུ།"
+
+msgid "No"
+msgstr "མིན།"
+
+msgid "No address associated with nodename"
+msgstr "ཚིགས་ཚེག་གི་མིང་ལ་འབྲེལ་ལྡན་གནས་ཡུལ་མེད།"
+
+msgid "No category to export selected"
+msgstr "ཕྱིར་འདྲེན་བྱ་རྒྱུའི་རིགས་དབྱེའི་དཀར་ཆག་གདམ་མེད་པ།"
+
+msgid "No command given, aborting."
+msgstr "བཀའ་བརྡ་སྤྲད་མེད་པས་བར་མཚམས་འཇོག་པ། "
+
+msgid "No external IP address set, trying default."
+msgstr ""
+"ཕྱི་རོལ་གྱི IP "
+"གནས་ཡུལ་སྒྲིག་འགོད་བྱས་མེད་པས་སོར་བཞག་གྲངས་ཐང་བེད་སྤྱོད་ཚོད་ལྟ་གྱིས་དང་། "
+
+msgid "No files are currently being edited."
+msgstr "རྩོམ་སྒྲིག་བྱེད་བཞིན་པའི་ཡིག་ཆ་མེད། "
+
+msgid "No filter name given"
+msgstr "འཚག་ཆས་ལ་མིང་དམིགས་འཛུགས་བྱས་མེད་པ།"
+
+msgid "No host given, please enter a host."
+msgstr "གཙོ་འཁོར་སྤྲད་མེད་པས་གཙོ་འཁོར་ཞིག་ནང་འཇུག་བྱེད་རོགས། "
+
+msgid "No images available"
+msgstr "སྤྱོད་རུང་བརྙན་རིས་མེད་པ།"
+
+msgid "No more files in the queue!"
+msgstr "རུ་སྟར་ནང་དུ་ཡིག་ཆ་མི་འདུག "
+
+msgid "No name for the filterset given."
+msgstr "འཚག་ཆས་ཀྱི་ཚོགས་སྤྱི་ལ་མིང་དམིགས་འཛུགས་བྱས་མི་འདུག"
+
+msgid "No program associated with filetype"
+msgstr "ཡིག་ཆའི་རྣམ་གཞག་ལ་འབྲེལ་ལྡན་བྱ་རིམ་མེད་པ།"
+
+msgid "No program has been associated to edit files with the extension '%s'."
+msgstr "རྒྱ་བསྐྱེད་མིང “%s” ཡིན་པའི་ཡིག་ཆར་འབྲེལ་ལྡན་བྱ་རིམ་མེད་པ།"
+
+msgid "No route to host"
+msgstr "གཙོ་འཁོར་ལ་མཐུད་མི་ཐུབ་པ།"
+
+msgid "No search results"
+msgstr "བཤེར་འཚོལ་གྱི་མཇུག་འབྲས་མེད་པ།"
+
+msgid "No sites available"
+msgstr "སྤྱོད་རུང་ས་ཚིགས་མེད་པ།"
+
+msgid "No supported SOCKS5 auth method"
+msgstr "ར་སྤྲོད་ཚུལ SOCKS5 ལ་རྒྱབ་སྐྱོར་མེད།"
+
+msgid "No username given."
+msgstr "སྤྱོད་མཁན་གྱི་མིང་དམིགས་འཛུགས་བྱས་མེད། "
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "None selected yet"
+msgstr "རྣམ་གྲངས་གདམ་མེད།"
+
+msgid "Nonrecoverable failure in name resolution"
+msgstr "མིང་དབྱེ་ཞིབ་ཁྲོད་སླར་གསོ་བྱེད་ཐབས་བྲལ་བའི་ནོར་འཁྲུལ་ཡོད།"
+
+msgid "Normal"
+msgstr "སྤྱིར་བཏང་།"
+
+msgid "Not all items could be requeued for transfer."
+msgstr ""
+"རྣམ་གྲངས་ཚང་མ་ཡང་བསྐྱར་གྲལ་བསྒྲིགས་ནས་བརྒྱུད་སྤྲོད་བྱེད་ཆོག་པ་ཞིག་མ་རེད། "
+
+msgid "Not connected"
+msgstr "འབྲེལ་མཐུད་བྱས་མེད་པ།"
+
+msgid "Not connected to any server"
+msgstr "ཞབས་ཞུ་ཆས་གང་ལ་ཡང་འབྲེལ་མཐུད་བྱས་མེད་པ།"
+
+msgid "Not connected to any server."
+msgstr ""
+
+msgid "Not connected."
+msgstr "འབྲེལ་མཐུད་བྱས་མེད་པ།"
+
+msgid "Not initialized, need to call WSAStartup"
+msgstr "ད་དུང་འགོ་སྒྲིག་བྱས་མེད་པས WSAStartup འདོན་སྤྱོད་བྱེད་དགོས།"
+
+msgid "Note that this feature is only supported using the FTP protocol."
+msgstr ""
+"ནུས་པ་འདིས་གྲོས་ཆིངས FTP "
+"སྤྱོད་པ་ཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད་པ་ཡིན་པས་ཡིད་གཟབ་དགོས།"
+
+msgid "Note: This only works with plain, unencrypted FTP connections."
+msgstr "ཡིད་གཟབ་དགོས་པ། གསང་སྡོམ་བྱས་མེད་པའི་འབྲེལ་མཐུད FTP ཁོ་ནར་འཚམ། "
+
+msgid "Note: Using a generic proxy forces passive mode on FTP connections."
+msgstr ""
+"ཡིད་གཟབ་དགོས་པ། "
+"ངོ་ཚབ་བེད་སྤྱད་ནས་བཙན་ཤེད་ཀྱིས་གཞན་དབང་གི་རྣམ་པ་བཀོལ་ནས་འབྲེལ་མཐུད FTP "
+"བྱེད་དུ་འཇུག་གི་ཡོད།"
+
+msgid "Number of decimal places:"
+msgstr "གྲངས་ཆུང་གནས་གྲངས།"
+
+msgid "Number of retries has to be between 0 and 99."
+msgstr "ཡང་བསྐྱར་ལེན་བྱེད་པའི་ཐེངས་གྲངས་ནི་ངེས་པར་དུ 0 ནས 99 བར་ཡིན་དགོས། "
+
+msgid "O&pen file"
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ། (&P)"
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "OS version:"
+msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ཀྱི་པར་གཞི།"
+
+msgid ""
+"On the following pages, the selected transfer mode will be configured, as "
+"well as the fallback mode if enabled."
+msgstr ""
+"རྗེས་ཀྱི་ལྡེབ་ངོས་འགའི་ནང་དུ་བདམས་པའི་བརྒྱུད་གཏོང་རྣམ་པ་དང་ཕྱིར་སློག་རྣམ་པར་སྒྲིག་འགོད་བྱེད་པ་ཡིན།"
+" (གལ་ཏེ་སྤྱོད་འགོ་ཚུགས་པ)"
+
+msgid "Once"
+msgstr "ཐེངས་གཅིག"
+
+msgid "Once a day"
+msgstr "ཉིན་རེར་ཐེངས་རེ།"
+
+msgid "Once a week"
+msgstr "གཟའ་འཁོར་རེར་ཐེངས་རེ།"
+
+msgid "Only use plain FTP (insecure)"
+msgstr "སྤྱིར་བཏང་གི FTP ཁོ་ན་སྤྱོད་པ། (བདེ་འཇགས་མིན)"
+
+msgid "Open directory in system's file manager"
+msgstr "རྒྱུད་ཁོངས་ཀྱི་ཡིག་ཆ་དོ་དམ་ཆས་ནང་དཀར་ཆག་ཁ་ཕྱེ་བ།"
+
+msgid "Open the Site Manager"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཁ་ཕྱེ་བ།"
+
+msgid "Open the Site Manager."
+msgstr ""
+
+msgid "Open the Site Manager. Right-click for a list of sites."
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཁ་ཕྱེ། གཡས་རྡེབ་བྱས་ནས་ས་ཚུགས་ཀྱི་རེའུ་མིག་ལ་ལྟ་བ། "
+
+msgid "Open the file."
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ་བ།"
+
+msgid "Open the settings dialog of FileZilla"
+msgstr "དུད་སྣེ FTP ཡི་སྒྲིག་འགོད་གླེང་སྒྲོམ་ཁ་ཕྱེ་བ།"
+
+msgid "Opened as:"
+msgstr "ཁ་ཕྱེ་བ།"
+
+msgid "Opening failed"
+msgstr "ཁ་ཕྱེ་བ་ཕམ་པ།"
+
+msgid "Opens a new tab"
+msgstr "གདོང་འཛར་གསར་པ་ཞིག་ཁ་ཕྱེ་བ།"
+
+msgid "Opens the Site Manager"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཁ་ཕྱེ་བ།"
+
+msgid "Opens the directory listing filter dialog."
+msgstr "དཀར་ཆག་རེའུ་མིག་གི་འཚག་ཆས་གླེང་སྒྲོམ་ཁ་ཕྱེ་བ།"
+
+msgid "Operating System:"
+msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས།"
+
+msgid "Operation already in progress"
+msgstr "བཀོལ་སྤྱོད་བྱེད་བཞིན་ཡོད།"
+
+msgid "Operation in progress"
+msgstr "བཀོལ་སྤྱོད་བྱེད་བཞིན་པ།"
+
+msgid "Operation not supported"
+msgstr "བཀོལ་སྤྱོད་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Organization:"
+msgstr "རྩ་འཛུགས།"
+
+msgid "Other SFTP options"
+msgstr "འདེམས་ཚན SFTP གཞན།"
+
+msgid "Other system error"
+msgstr "རྒྱུད་ཁོངས་ནོར་འཁྲུལ་གཞན།"
+
+msgid "Other:"
+msgstr "གཞན།"
+
+msgid "Out of memory"
+msgstr "ནང་གསོག་མི་འདང་བ།"
+
+msgid "Overview"
+msgstr "རགས་ལྟ།"
+
+msgid "Overwrite &if source newer"
+msgstr "གལ་ཏེ་ཅུང་གསར་བ་ཡིན་ན་འགེབས་དགོས།"
+
+msgid "Overwrite file"
+msgstr "འགེབས་པའི་ཡིག་ཆ།"
+
+msgid "Overwrite file if size differs"
+msgstr "གལ་ཏེ་ཆེ་ཆུང་མི་འདྲ་ན་ཡིག་ཆ་འགེབས་ཆོག"
+
+msgid "Overwrite file if size differs or source file is newer"
+msgstr "གལ་ཏེ་ཆེ་ཆུང་མི་འདྲ་བའམ་ཡང་ན་ཁུངས་ཡིག་ཆ་གསར་ཙམ་ཡིན་ན་ཡིག་ཆ་འགེབས་ཆོག"
+
+msgid "Overwrite file if source file newer"
+msgstr "གལ་ཏེ་ཁུངས་ཡིག་ཆ་གསར་བ་ཡིན་ན་ཡིག་ཆ་འགེབས་ཆོག"
+
+msgid "Overwrite if &different size"
+msgstr "གལ་ཏེ་ཆེ་ཆུང་མི་འདྲ་ན་འགེབས་ཆོག"
+
+msgid "Overwrite if different si&ze or source newer"
+msgstr "གལ་ཏེ་ཆེ་ཆུང་མི་འདྲ་བའམ་ཡང་ན་ཁུངས་ཀྱི་ཡིག་ཆ་ཅུང་གསར་བ་ཡིན་ན་འགེབས་ཆོག"
+
+msgid "Own build type: %s\n"
+msgstr ""
+
+msgid "Owner permissions"
+msgstr "བདག་པོའི་དབང་ཚད།"
+
+msgid "Owner/Group"
+msgstr "བདག་པོ་དང་ཚོ།"
+
+msgid ""
+"P&revent system from entering idle sleep during transfers and other "
+"operations"
+msgstr ""
+"བརྒྱུད་གཏོང་དང་བཀོལ་སྤྱོད་གཞན་པ་བྱེད་པའི་སྐབས། "
+"རྒྱུད་ཁོངས་ཁོམ་གཉིད་ལ་འཛུལ་བར་བཀག་འགོག་བྱེད་པ།"
+
+msgid "P&roxy host:"
+msgstr "ལས་ཚབ་གཙོ་འཁོར། (&R)"
+
+msgid "PORT command tainted by router or firewall."
+msgstr "བཀའ་བརྡ PORT ལ་ལམ་སྟོན་ཆས་སམ་མེ་འགོག་གྱང་གི་ཤུགས་རྐྱེན་ཐེབས་ཡོད། "
+
+msgid "Pa&ssive (recommended)"
+msgstr "གཞན་དབང(འོས་སྦྱོར) (&S)"
+
+msgid "Parameter not a valid URL"
+msgstr "ཞུགས་གྲངས་ནི་ནུས་ལྡན་གྱི URL མ་རེད།"
+
+msgid "Parsing %d bytes of version information.\n"
+msgstr ""
+
+msgid "Pass&word:"
+msgstr "གསང་ཨང་།"
+
+msgid "Passive (recommended)"
+msgstr "གཞན་དབང་།(འོས་སྦྱོར)"
+
+msgid "Passive mode"
+msgstr "གཞན་དབང་གི་རྣམ་པ།"
+
+msgid "Passive mode has been set as default transfer mode."
+msgstr "གཞན་དབང་གི་རྣམ་པ་དེ་སོར་བཞག་བརྒྱུད་གཏོང་གི་རྣམ་པར་སྒྲིག་འགོད་བྱེད་པ། "
+
+msgid "Password required"
+msgstr "གསང་ཨང་དགོས།"
+
+msgid "Path"
+msgstr "འགྲོ་ལམ་འགྲོ་ལམ།"
+
+msgid "Path cannot be constructed for directory %s and subdir %s"
+msgstr "དཀར་ཆག %s དང་བུ་དཀར་ཆག %s ལ་བརྒྱུད་ལམ་བཟོ་བ།"
+
+msgid "Path not found:"
+msgstr "བརྒྱུད་ལམ་མ་རྙེད་པ།"
+
+msgid "Paths"
+msgstr "འགྲོ་ལམ།"
+
+msgid "Pending removal"
+msgstr "འབུད་པ་སྒུག་པ།"
+
+msgid "Permission"
+msgstr "དབང་ཚད།"
+
+msgid "Permission denied"
+msgstr ""
+
+msgid "Permissions"
+msgstr "དབང་ཚད།"
+
+msgid "Platform:"
+msgstr "ལས་སྟེགས།"
+
+msgid ""
+"Please check on https://filezilla-project.org/probe.php that the server is "
+"running and carefully check your settings again."
+msgstr ""
+
+msgid ""
+"Please configure any firewalls and routers so that FileZilla can establish "
+"outgoing connection to arbitrary ports."
+msgstr ""
+
+msgid "Please disable settings like 'DMZ mode' or 'Game mode' on your router."
+msgstr ""
+"ལམ་སྟོན་ཆས་ཁྲོད་ཀྱི “DMZཡི་རྣམ་པ” འམ་ཡང་ན “Gam e རྣམ་པ” "
+"དང་འདྲ་བའི་སྒྲིག་བཀོད་འགོག་པ།"
+
+msgid ""
+"Please ensure you have a stable internet connection and carefully check your"
+" settings again."
+msgstr ""
+"ཁྱེད་ཀྱིས་གཏན་འཇགས་ཀྱི་དྲ་རྒྱའི་འབྲེལ་མཐུད་ཡོད་པ་གཏན་འཁེལ་བྱེད་པ་མ་ཟད། "
+"ད་དུང་སྒྲིག་འགོད་ལ་ཡང་བསྐྱར་ཞིབ་བཤེར་ཞིབ་ཚགས་བྱེད་དགོས།"
+
+msgid "Please enter a custom date format."
+msgstr "རང་བཟོས་ཀྱི་ཚེས་གྲངས་རྣམ་གཞག་འཇུག་དགོས།"
+
+msgid "Please enter a custom time format."
+msgstr "རང་བཟོས་ཀྱི་དུས་ཚོད་རྣམ་གཞག་འཇུག་དགོས།"
+
+msgid ""
+"Please enter a date of the form YYYY-MM-DD such as for example 2010-07-18."
+msgstr ""
+"ཁྱེད་ཀྱིས་རྣམ་གཞག YYYY-M-DD ཡིས་ཚེས་གྲངས་ཤིག་ནང་འཇུག་བྱེད་དགོས། དཔེར་ན "
+"2010-07-18 ལྟར།"
+
+msgid "Please enter a download speed limit greater or equal to 0 %s/s."
+msgstr ""
+"ཆེ་ཆུང་ནི 0 %s/s "
+"ལས་ཆེ་བ་འམ་ཡང་ན་མཚུངས་པའི་ཕབ་ལེན་མགྱོགས་ཚད་ཀྱི་ཚོད་འཛིན་ནང་འཇུག་བྱེད་དགོས།"
+
+msgid "Please enter a name for the new filter."
+msgstr "ཁྱེད་ཀྱིས་འཚག་ཆས་གསར་པར་མིང་བཏགས་རོགས། "
+
+msgid "Please enter a new name for the copied filter."
+msgstr "ཁྱེད་ཀྱིས་འདྲ་ཕབ་བྱས་པའི་འཚག་ཆས་ལ་མིང་གསར་པ་ནང་འཇུག་བྱེད་དགོས།"
+
+msgid "Please enter a new name for the filter set \"%s\""
+msgstr ""
+
+msgid "Please enter a new name for the filter."
+msgstr "ཁྱེད་ཀྱིས་འཚག་ཆས་འདིར་མིང་གསར་པ་ནང་འཇུག་བྱེད་དགོས།"
+
+msgid ""
+"Please enter a number between 0 and 10 for the number of concurrent "
+"downloads."
+msgstr ""
+"ཁྱེད་ཀྱིས་གྲངས་ཀ 0 ནས 10 "
+"བར་ནང་འཇུག་བྱས་ནས་མཉམ་འབྱུང་ཕབ་ལེན་གྱི་ལས་འགན་གྲངས་ལ་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid ""
+"Please enter a number between 0 and 10 for the number of concurrent uploads."
+msgstr ""
+"ཁྱེད་ཀྱིས་གྲངས་ཀ 0 ནས 10 "
+"བར་ནང་འཇུག་བྱས་ནས་མཉམ་འབྱུང་ཡར་བསྐུར་གྱི་ལས་འགན་གྲངས་ལ་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid ""
+"Please enter a number between 1 and 10 for the number of concurrent "
+"transfers."
+msgstr ""
+"ཁྱེད་ཀྱིས་གྲངས་ཀ 1 ནས 10 "
+"བར་ནང་འཇུག་བྱས་ནས་མཉམ་འབྱུང་བརྒྱུད་གཏོང་ལས་འགན་གྲངས་ལ་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid "Please enter a password for this server:"
+msgstr "ཞབས་ཞུ་ཆས་འདིར་གསང་ཨང་འཇུག་རོགས།"
+
+msgid ""
+"Please enter a path and executable to run.\n"
+"E.g. c:\\somePath\\file.exe under MS Windows or /somePath/file under Unix.\n"
+"You can also optionally specify program arguments."
+msgstr ""
+
+msgid ""
+"Please enter a timeout between 10 and 9999 seconds or 0 to disable timeouts."
+msgstr ""
+"ཁྱེད་ཀྱིས 10 ནས 9999 བར་གྱི་དུས་བརྒལ་སྐར་ཆའི་གྲངས་ནང་འཇུག་བྱེད་པའམ 0 "
+"ནང་འཇུག་བྱས་ནས་དུས་བརྒལ་འགོག་དགོས།"
+
+msgid "Please enter a unique name for this filter set"
+msgstr "ཁྱེད་ཀྱིས་འཚག་ཆས་ཚོགས་སྤྱིར་མིང་གཅིག་པུ་ཞིག་ནང་འཇུག་གནང་རོགས།"
+
+msgid "Please enter a username for this server:"
+msgstr "ཁྱེད་ཀྱིས་ཞབས་ཞུ་ཆས་འདིར་སྤྱོད་མཁན་གྱི་མིང་ནང་འཇུག་བྱེད་དགོས།"
+
+msgid "Please enter a valid portrange."
+msgstr "ཁྱེད་ཀྱིས་ནུས་ལྡན་གྱི་མཐུད་ཁའི་ཁྱབ་ཁོངས་ནང་འཇུག་བྱེད་རོགས། "
+
+msgid "Please enter an URL where to get your external address from"
+msgstr "ཁྱེད་ཀྱི་ཕྱིའི་གནས་ཡུལ་གྱི་ཐོབ་པའི URL ནང་འཇུག་བྱེད་རོགས། "
+
+msgid "Please enter an upload speed limit greater or equal to 0 %s/s."
+msgstr ""
+"ཁྱེས་ཀྱིས 0 %s/s "
+"ལས་ཆེ་བའམ་མཚུངས་པའི་ཡར་བསྐུར་མགྱོགས་ཚད་ཚོད་འཛིན་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid ""
+"Please enter raw FTP command.\n"
+"Using raw ftp commands will clear the directory cache."
+msgstr ""
+
+msgid "Please enter the name of the directory which should be created:"
+msgstr "ཁྱེད་ཀྱིས་བཟོ་བྱའི་དཀར་ཆག་མིང་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter the name of the file which should be created:"
+msgstr "ཁྱེད་ཀྱིས་བཟོ་བྱའི་ཡིག་ཆའི་མིང་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please enter username and password for this server:"
+msgstr "ཞབས་ཞུ་ཆས་འདིར་བཀོལ་མཁན་གྱི་མིང་དང་གསང་གྲངས་འགོད་རོགས།"
+
+msgid "Please enter your external IP address"
+msgstr "ཁྱེད་ཀྱི་ཕྱི་རོལ་གནས་ཡུལ IP ནང་འཇུག་གནང་རོགས།"
+
+msgid ""
+"Please enter your external IP address on the active mode page of this "
+"wizard. In case you have a dynamic address or don't know your external "
+"address, use the external resolver option."
+msgstr ""
+
+msgid ""
+"Please follow the instructions carefully, as wrong configuration will "
+"prevent successful FTP connections."
+msgstr ""
+"ནན་ཏན་གྱིས་གསལ་འདེབས་ལྟར་སྒྲུབ་རོགས། "
+"རྒྱུ་མཚན་ནི་ནོར་འཁྲུལ་གྱི་བཀོད་སྒྲིག་གིས FTP འབྲེལ་མཐུད་བཀག་འགོག་བྱེད་ཐུབ།"
+
+msgid ""
+"Please make sure FileZilla is allowed to establish outgoing connections and "
+"make sure you typed the address of the address resolver correctly."
+msgstr ""
+"དུད་སྣེའི FTP "
+"ཕྱི་ལ་ཕྱོགས་པའི་འབྲེལ་མཐུད་བྱས་ཆོག་པ་མ་ཟད་ཡང་དག་པའི་དབྱེ་ཞིབ་ཀྱི་གནས་ཡུལ་ནང་འཇུག་བྱེད་པ་ཁག་ཐེག་དགོས།"
+
+msgid "Please make sure the requested locale is installed on your system."
+msgstr ""
+"རེ་ཞུའི་ཁུལ་ཁོངས་སྡེབ་སྒྲིག་དེ་རྒྱུད་ཁོངས་ནང་དུ་སྒྲིག་འཇུག་ཟིན་པ་གཏན་འཁེལ་བྱེད་དགོས།"
+" "
+
+msgid ""
+"Please make sure your router is using the latest available firmware. "
+"Furthermore, your router has to be configured properly. You will have to use"
+" manual port forwarding. Don't run your router in the so called 'DMZ mode' "
+"or 'game mode'."
+msgstr ""
+
+msgid ""
+"Please note that FileZilla has no influence on the port the server chooses. "
+"So the server might choose a port which your firewall thinks is only used by"
+" trojans or other malware. This might raise a false alarm you can safely "
+"discard."
+msgstr ""
+
+msgid ""
+"Please note that preserving timestamps on uploads on FTP, FTPS and FTPES "
+"servers only works if they support the MFMT command."
+msgstr ""
+
+msgid ""
+"Please note that some servers might ban you if you try to reconnect too "
+"often or in too short intervals."
+msgstr ""
+"ཡིད་གཟབ་དགོས་པར། "
+"གལ་སྲིད་ཁྱེད་ཀྱིས་འབྲེལ་མཐུད་ཚོད་ལྟ་བྱས་དྲགས་པའམ་ཡང་ན་བར་ཆོད་ཐུང་དྲགས་ན། "
+"ཞབས་ཞུ་ཆས་ཁ་ཤས་ཀྱིས་ཁྱེད་རང་བཀག་འགོག་བྱེད་པ་ཡིན།"
+
+msgid ""
+"Please run this wizard again should you change your network environment or "
+"in case you suddenly encounter problems with servers that did work "
+"previously."
+msgstr ""
+
+msgid "Please select an action:"
+msgstr "ཁྱེད་ཀྱིས་འགུལ་སྟངས་གཅིག་གདམ་རོགས།"
+
+msgid "Please select the categories you would like to import."
+msgstr "ཁྱེད་ཀྱིས་འདྲེན་འཇུག་བྱེད་འདོད་པའི་རིགས་གྲས་འདོམས་རོགས། "
+
+msgid "Please select the default transfer mode you would like to use."
+msgstr "ཁྱེད་ཀྱི་སྤྱོད་པའི་སོར་བཞག་བརྒྱུད་གཏོང་རྣམ་པ་འདོམས་རོགས། "
+
+msgid "Please select the new attributes for the directory \"%s\"."
+msgstr ""
+
+msgid "Please select the new attributes for the file \"%s\"."
+msgstr ""
+
+msgid "Please select the new attributes for the selected directories."
+msgstr "བདམས་པའི་དཀར་ཆག་ལ་གཏོགས་གཤིས་གསར་པ་འདོམས་རོགས། "
+
+msgid ""
+"Please select the new attributes for the selected files and directories."
+msgstr "བདམས་པའི་ཡིག་ཆ་དང་དཀར་ཆག་ལ་གཏོགས་གཤིས་གསར་པ་འདོམས་རོགས།"
+
+msgid "Please select the new attributes for the selected files."
+msgstr "བདམས་པའི་ཡིག་ཆ་ལ་གཏོགས་གཤིས་གསར་པ་འདོམས་རོགས། "
+
+msgid ""
+"Please update your firewall and make sure your router is using the latest "
+"available firmware. Furthermore, your router has to be configured properly. "
+"You will have to use manual port forwarding. Don't run your router in the so"
+" called 'DMZ mode' or 'game mode'. Things like protocol inspection or "
+"protocol specific 'fixups' have to be disabled"
+msgstr ""
+
+msgid "Positio&n of the message log:"
+msgstr "བརྡ་འཕྲིན་ཉིན་ཐོའི་གནས་ཡུལ། (&N)"
+
+msgid "Postal code:"
+msgstr "སྦྲག་ཨང་།"
+
+msgid "Pre&allocate space before downloading"
+msgstr "ཕབ་ལེན་མ་བྱས་སྔོན་ལ་བར་སྟོང་སྔོན་བགོས་བྱེད་དགོས།"
+
+msgid "Preallocation"
+msgstr "སྔོན་བགོས།"
+
+msgid "Predefined Sites"
+msgstr "སྔོན་བཀོད་མཚན་ཉིད་ཀྱི་ས་ཚུགས།"
+
+msgid "Preserving file timestamps"
+msgstr "ཡིག་ཆའི་དུས་ཐམ་ཉར་བ།"
+
+msgid "Preview:"
+msgstr "སྔོན་ལྟ།"
+
+msgid "Primary connection and data connection certificates don't match."
+msgstr "འབྲེལ་མཐུད་གཙོ་བོ་དང་གཞི་གྲངས་འབྲེལ་མཐུད་ཀྱི་དཔང་ཡིག་ཟླ་སྒྲིག་མིན།"
+
+msgid "Print diagnostic information related to startup of FileZilla"
+msgstr ""
+"པར་འདེབས་ཕྱིར་འདོན་དང་དུད་སྣེ FTP "
+"ལ་འབྲེལ་ཡོད་ཀྱི་བརྟག་དཔྱད་ཆ་འཕྲིན་འགོ་སློང་བ།"
+
+msgid "Print version information to stdout and exit"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་དེ་ཚད་ལྡན་ཕྱིར་འདོན་ལ་པར་འདེབས་ནས་ཕྱིར་འཐེན་པ།"
+
+msgid "Prioritize directories (default)"
+msgstr "དཀར་ཆག་སྔོན་ཐོབ(སོར་བཞག)"
+
+msgid "Priority"
+msgstr "སྔོན་ཐོབ་རིམ་པ།"
+
+msgid ""
+"Privacy policy: Only your version of FileZilla, your used operating system "
+"and your CPU architecture will be submitted to the server."
+msgstr ""
+
+msgid "Private &keys:"
+msgstr "སྒེར་ལྡེ།"
+
+msgid "Pro&tocol:"
+msgstr "གྲོས་ཆིངས།"
+
+msgid "Pro&xy password:"
+msgstr "ལས་ཚབ་གསང་ཨང་།"
+
+msgid "Process &Queue"
+msgstr "རུ་སྟར་ཐག་གཅོད།"
+
+msgid "Process file table overflow"
+msgstr "འཕེལ་རིམ་ཡིག་ཆའི་རེའུ་མིག་ལུད་པ།"
+
+msgid "Processed %s in %s."
+msgstr "ཡིག་ཆ  %s ཐག་གཅོད་ཟིན། དཀར་ཆག %s"
+
+msgid "Protocol not supported"
+msgstr ""
+
+msgid "Protocol not supported on given socket type"
+msgstr ""
+"དམིགས་འཛུགས་བྱས་པའི་འབྲེལ་འཛུགས་ཡི་གེའི་རིགས་གྲས་ཀྱིས་གྲོས་ཆིངས་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Protocol:"
+msgstr "འཕྲིན་གཏོང་གྲོས་མཐུན།:"
+
+msgid "Proxy &port:"
+msgstr "ལས་ཚབ་མཐུད་ཁ།"
+
+msgid "Proxy &user:"
+msgstr "ལས་ཚབ་སྤྱོད་མཁན།"
+
+msgid "Proxy authentication failed"
+msgstr "ལས་ཚབ་ར་སྤྲོད་ཕམ་པ།"
+
+msgid "Proxy handshake failed: %s"
+msgstr "ལས་ཚབ་ལག་འཇུ་ཕམ་པ %s"
+
+msgid "Proxy host starts with '[' but no closing bracket found."
+msgstr "ལས་ཚབ་གཙོ་འཁོར་གྱིས “[” ཡིས་འགོ་རྩོམ་ཡང་མཇུག་སྒྲིག་གུག་རྟགས་མེད་པ།"
+
+msgid "Proxy reply: %s"
+msgstr "ལས་ཚབ་ཀྱི་ལན་སློག %s"
+
+msgid "Proxy request failed. Reply from proxy: %s"
+msgstr "ལས་ཚབ་ཀྱི་རེ་ཞུ་ཕམ་པ། ལས་ཚབ་ཞབས་ཞུ་ཆས་ཕྱིར་ལོག་པ %s"
+
+msgid "Proxy request failed: %s"
+msgstr "ལས་ཚབ་ཀྱི་རེ་ཞུ་ཕམ་པ %s"
+
+msgid "Proxy request failed: Unknown address type in CONNECT reply"
+msgstr ""
+"ལས་ཚབ་ཀྱི་རེ་ཞུ་ཕམ་པ། CONECT ཡིས་མི་ཤེས་པའི་གནས་ཡུལ་རིགས་གྲས་ལན་སློག་པ།"
+
+msgid "Proxy set but proxy host or port invalid"
+msgstr ""
+"ལས་ཚབ་ཞབས་ཞུ་ཆས་སྒྲིག་འགོད་ཟིན་མོད། "
+"འོན་ཀྱང་ལས་ཚབ་གནས་ཡུལ་ལམ་མཐུད་ཁ་སྒྲིག་འགོད་ནི་ནུས་མེད་ཡིན།"
+
+msgid "Public Key Authentication"
+msgstr "སྤྱི་ལྡེ་ར་སྤྲོད།"
+
+msgid "Public key algorithm:"
+msgstr "སྤྱི་ལྡེའི་རྩི་ཐབས།"
+
+msgid "Public permissions"
+msgstr "སྤྱི་པའི་དབང་ཚད།"
+
+msgid "Queue has been fully processed"
+msgstr "རུ་སྟར་ཚང་མ་ཐག་གཅོད་བྱས་ཟིན།"
+
+msgid "Queue: %s MiB"
+msgstr "རུ་སྟར %s MiB"
+
+msgid "Queue: %s%s"
+msgstr ""
+
+msgid "Queue: empty"
+msgstr "རུ་སྟར། སྟོང་པ།"
+
+msgid "Queued files"
+msgstr "རུ་སྟར་ཡིག་ཆ།"
+
+msgid "Queueing:"
+msgstr "རུ་སྒྲིག་བཞིན་པ།"
+
+msgid "R&eboot system"
+msgstr "རྒྱུད་ཁོངས་བསྐྱར་སློང་།"
+
+msgid "R&emote directory tree"
+msgstr "རྒྱང་རིང་དཀར་ཆག (&E)"
+
+msgid "R&eset and requeue selected files"
+msgstr "བསྐྱར་སྒྲིག་བྱས་ནས་བདམས་པའི་ཡིག་ཆར་བསྐྱར་དུ་རེ་ཞུ་བྱེད་པ། (&E)"
+
+msgid "Raw FTP command"
+msgstr "གདོད་མའི་བཀའ་བརྡ FTP"
+
+msgid "Re&ad"
+msgstr "ཀློག་ལེན། (&A)"
+
+msgid "Re&fresh"
+msgstr "གསར་འདོན། (&F)"
+
+msgid "Re&name"
+msgstr "མིང་བསྐྱར་འདོགས། (&N)"
+
+msgid ""
+"Re-run the wizard and carefully check your settings and configure all "
+"routers and firewalls accordingly."
+msgstr ""
+"བསྐྱར་དུ་སྣེ་ཁྲིད་ལག་བསྟར་བྱེད་པ། "
+"ཁྱེད་ཀྱི་སྒྲིག་འགོད་ལ་ཞིབ་བཤེར་ཞིབ་ཕྲ་བྱེད་དགོས་པ་མ་ཟད་། "
+"ལམ་སྟོན་ཆས་དང་མེ་འགོག་གྱང་ཚང་མ་སྒྲིག་འགོད་ཡང་དག་པ་བྱ་དགོས། "
+
+msgid "Rea&d"
+msgstr "ཀློག་ལེན། (&D)"
+
+msgid "Read-only"
+msgstr "ཀློག་ཙམ།"
+
+msgid "Really cancel current operation?"
+msgstr "མིག་སྔའི་བཀོལ་སྤྱོད་དངོས་གནས་མེད་པར་བཟོ་དགོས་སམ། "
+
+msgid "Really delete %d directory with its contents from the server?"
+msgid_plural ""
+"Really delete %d directories with their contents from the server?"
+msgstr[0] "ཞབས་ཞུ་ཆས་ཐོག་ནས་དཀར་ཆག %d དང་དེའི་ནང་དོན་དངོས་གནས་བསུབ་དགོས་སམ། "
+msgstr[1] "ཞབས་ཞུ་ཆས་ཐོག་ནས་དཀར་ཆག %d དང་དེའི་ནང་དོན་དངོས་གནས་བསུབ་དགོས་སམ། "
+
+msgid "Really delete %d file from the server?"
+msgid_plural "Really delete %d files from the server?"
+msgstr[0] "ཞབས་ཞུ་ཆས་ཐོག་ནས་ཡིག་ཆ %d དངོས་གནས་བསུབ་དགོས་སམ། "
+msgstr[1] "ཞབས་ཞུ་ཆས་ཐོག་ནས་ཡིག་ཆ %d དངོས་གནས་བསུབ་དགོས་སམ། "
+
+msgid "Really delete %s and %s from the server?"
+msgstr "ཞབས་ཞུ་ཆས་ཐོག་ནས %s དང %s དངོས་གནས་བསུབ་དགོས་སམ། "
+
+msgid "Really delete all selected files and/or directories from the server?"
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཐོག་ནས་བདམས་པའི་ཡིག་ཆ་འམ་ཡང་ན་དཀར་ཆག་ཚང་མ་དངོས་གནས་བསུབ་དགོས་སམ། "
+
+msgid ""
+"Really delete all selected files and/or directories from your computer?"
+msgstr ""
+"རྩིས་འཁོར་ཐོག་ནས་བདམས་པའི་ཡིག་འམ་ཡང་ན་དཀར་ཆག་ཚང་མ་དངོས་གནས་བསུབ་དགོས་སམ། "
+
+msgid "Reason"
+msgstr "རྒྱུ་རྐྱེན།"
+
+msgid "Reboot now"
+msgstr "ལམ་སང་བསྐྱར་སློང་བྱེད་པ།"
+
+msgid "Rec&urse into subdirectories"
+msgstr "རིམ་ལོག་གིས་བུ་དཀར་ཆག་ཐག་གཅོད་བྱེད་པ། (&U)"
+
+msgid "Received TLS alert from the server: %s (%d)"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི %s། (%d) ཡི་ཉེན་བརྡ TLS འབྱོར་བ།"
+
+msgid "Received a directory listing which appears to be encoded in EBCDIC."
+msgstr "EBCDIC སྒྲིག་ཨང་བེད་སྤྱད་པར་དོགས་པའི་དཀར་ཆག་རེའུ་མིག་འབྱོར་བྱུང་། "
+
+msgid "Received a line exceeding 10000 characters, aborting."
+msgstr "ཡིག་རྟགས 1000 ལས་བརྒལ་བའི་ཕྲེང་འབྱོར་བྱུང་། མཚམས་འཇོག་པ།"
+
+msgid "Received data tainted"
+msgstr "འབྱོར་ཟིན་པའི་གཞི་གྲངས་ལ་སྐྱོན་བྱུང་བ།"
+
+msgid "Received invalid character in version information"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་ཁྲོད་ནས་ནུས་མེད་ཡིག་རྟགས་འབྱོར་བ།"
+
+msgid "Received unknown TLS alert %d from the server"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་ངེས་མེད་ཀྱི  %d ཡི་ཉེན་བརྡ TLS འབྱོར་བ།"
+
+msgid "Received version information is too large"
+msgstr "བསྡུ་ལེན་བྱས་པའི་པར་གཞིའི་ཆ་འཕྲིན་རིང་དྲགས་འདུག"
+
+msgid ""
+"Reconnect information cannot be cleared while connected to a server.\n"
+"If you continue, your connection will be disconnected."
+msgstr ""
+
+msgid "Reconnection settings"
+msgstr "བསྐྱར་འབྲེལ་སྒྲིག་འགོད།"
+
+msgid "Reconnects to the last used server"
+msgstr ""
+"སྔོན་ལ་བཀོལ་སྤྱོད་བྱེད་མྱོང་བའི་ཞབས་ཞུ་ཆས་ལ་ཡང་བསྐྱར་ཐེངས་གཅིག་འབྲེལ་བ།"
+
+msgid "Recursively adding files to queue."
+msgstr "རིམ་ལོག་གིས་ཡིག་ཆ་རུ་སྟར་ནང་སྣོན་པ།"
+
+msgid "Recursively changing permissions."
+msgstr "རིམ་ལོག་གིས་དབང་ཚད་བཟོ་བཅོས་བྱེད་པ། "
+
+msgid "Recursively deleting files and directories."
+msgstr "རིམ་ལོག་གིས་ཡིག་ཆ་དང་ཡིག་ཁུག་སུབ་པ།"
+
+msgid "Redirection to invalid or unsupported URI: %s"
+msgstr "ཡང་བསྐྱར་ཕྱོགས་ངེས URI ལ་ནུས་པ་མེད་པའམ་ཡང་ན་རྒྱབ་སྐྱོར་མི་བྱེད་པ %s"
+
+msgid "Redirection to invalid or unsupported address: %s"
+msgstr ""
+"ཡང་བསྐྱར་ཕྱོགས་ངེས་གནས་ཡུལ་ལ་ནུས་པ་མེད་པའམ་ཡང་ན་རྒྱབ་སྐྱོར་མི་བྱེད་པ %s"
+
+msgid "Refresh the file and folder lists"
+msgstr "ཡིག་ཆ་དང་ཡིག་ཁུག་རེའུ་མིག་གསར་འདོན་བྱེད་པ།"
+
+msgid "Remember passwords?"
+msgstr "གསང་ཨང་ངེས་སམ།"
+
+msgid "Remote"
+msgstr "རྒྱང་རིང་འདྲེན་སྤྱོད།"
+
+msgid "Remote certificate not trusted."
+msgstr "རྒྱང་རིང་དཔང་ཡིག་ལ་ཡིད་ཆེས་མི་བྱེད། "
+
+msgid "Remote file"
+msgstr "རྒྱང་རིང་ཡིག་ཆ།"
+
+msgid "Remote file search"
+msgstr "རྒྱང་རིང་ཡིག་ཆ་འཚོལ་བ།"
+
+msgid "Remote filters:"
+msgstr "རྒྱང་རིང་འཚག་ཆས།"
+
+msgid "Remote path"
+msgstr "རྒྱང་རིང་བརྒྱུད་ལམ།"
+
+msgid ""
+"Remote path cannot be parsed. Make sure it is a valid absolute path and is "
+"supported by the current site's servertype (%s)."
+msgstr ""
+
+msgid ""
+"Remote path cannot be parsed. Make sure it is a valid absolute path and is "
+"supported by the servertype (%s) selected on the parent site."
+msgstr ""
+
+msgid "Remote path cannot be parsed. Make sure it is a valid absolute path."
+msgstr ""
+"རྒྱང་རིང་བརྒྱུད་ལམ་དབྱེ་ཞིབ་བྱེད་ཐབས་མེད། "
+"བལྟོས་མེད་བརྒྱུད་ལམ་ནུས་ལྡན་ཡིན་མིན་གཏན་འཁེལ་བྱེད་རོགས། "
+
+msgid "Remote path could not be parsed."
+msgstr "རྒྱང་རིང་གི་བརྒྱུད་ལམ་ལ་དབྱེ་ཞིབ་བྱེད་ཐབས་མེད། "
+
+msgid "Remote path handling:"
+msgstr "རྒྱང་རིང་བརྒྱུད་ལམ་ཐག་གཅོད།"
+
+msgid "Remote path:"
+msgstr "རྒྱང་རིང་བརྒྱུད་ལམ།"
+
+msgid "Remote site:"
+msgstr "རྒྱང་རིང་ས་ཚུགས།"
+
+msgid "Remove &all"
+msgstr "ཚང་མ་སུབ་པ། (&A)"
+
+msgid "Remove &selected"
+msgstr "བདམས་པ་སུབ་པ། (&S)"
+
+msgid "Rename file"
+msgstr "ཡིག་ཆར་མིང་བསྐྱར་འདོགས།"
+
+msgid "Rename selected directory"
+msgstr "བདམས་པའི་ཡིག་ཁུག་ལ་མིང་བསྐྱར་འདོགས།"
+
+msgid "Rename selected files and directories"
+msgstr "བདམས་པའི་ཡིག་ཆ་དང་ཡིག་ཁུག་ལ་མིང་བསྐྱར་འདོགས།"
+
+msgid "Renaming '%s' to '%s'"
+msgstr "“%s” དེ “%s” ལ་བསྒྱུར་བ།"
+
+msgid "Reporting bugs and feature requests"
+msgstr "སྙན་ཞུའི་ནོར་འཁྲུལ་དང་རེ་ཞུའི་ནུས་པ།"
+
+msgid ""
+"Request failed - client is not running identd (or not reachable from server)"
+msgstr ""
+"རེ་ཞུ་ཕམ་པ། དུད་སྣེས identd "
+"འཁོར་སྐྱོད་བྱས་མེད་པ།（ཡང་ན་ཞབས་ཞུ་ཆས་ཀྱི་སྣེ་ནས་འབྲེལ་མི་ཐུབ་པ）"
+
+msgid "Request failed - client's identd could not confirm the user ID string"
+msgstr ""
+"རེ་ཞུ་ཕམ་པ། དུད་སྣེའི identd "
+"ཡིས་སྤྱོད་མཁན་གྱི་རྟགས་མཚན་ཡིག་རྟགས་ཕྲེང་བ་གཏན་འཁེལ་བྱེད་ཐབས་མེད།"
+
+msgid "Request rejected or failed"
+msgstr "རེ་ཞུ་དང་ལེན་མ་བྱས་པའམ་ཕམ་པ།"
+
+msgid "Require explicit FTP over TLS"
+msgstr "རེ་བར་མངོན་པའི FTP over TLS"
+
+msgid "Require implicit FTP over TLS"
+msgstr "རེ་བར་གབ་པའི FTP over TLS"
+
+msgid "Reset and requeue &all"
+msgstr "བསྐྱར་སྒྲིག་བྱེད་པ་མ་ཟད་ཚང་མ་ཡང་བསྐྱར་རེ་ཞུ་བྱེད་པ།"
+
+msgid "Resolved protocol is unknown"
+msgstr "དབྱེ་ཞིབ་བྱས་པའི་གྲོས་ཆིངས་ནི་ངེས་མེད་ཀྱི་གྲོས་ཆིངས་ཡིན།"
+
+msgid "Resolving address of %s"
+msgstr "%s ཡི་གནས་ཡུལ་དབྱེད་ཞིབ་བྱེད་བཞིན་པ།"
+
+msgid "Resource temporarily unavailable"
+msgstr "ཐོན་ཁུངས་གནས་སྐབས་སྤྱོད་རུང་མིན་པ།"
+
+msgid "Response:"
+msgstr "དང་ལེན།"
+
+msgid "Results:"
+msgstr "མཇུག་འབྲས།"
+
+msgid "Resume file transfer"
+msgstr "མུ་མཐུད་ཡིག་ཆ་བརྒྱུད་གཏོང་བྱེད་པ།"
+
+msgid ""
+"Resuming ASCII files can cause problems if server uses a different line "
+"ending format than the client."
+msgstr ""
+"གལ་ཏེ་ཞབས་ཞུ་ཆས་ཀྱིས་རྣམ་གཞག་མི་འདྲ་བའི་ཕྲེང་མཇུག་བེད་སྤྱད་ཚེ། མུ་མཐུད་དུ "
+"ASCII རྣམ་གཞག་ཡིག་ཆ་བརྒྱུད་གཏོང་བྱས་ན་གནད་དོན་འབྱུང་ཉེན་ཡོད། "
+
+msgid "Retrieving directory listing of \"%s\"..."
+msgstr ""
+
+msgid "Retrieving directory listing..."
+msgstr "དཀར་ཆག་རེའུ་མིག་ཀློག་པ།"
+
+msgid "Retrieving external IP address from %s"
+msgstr " %s ནས་ཕྱི་རོལ་གྱི་གནས་ཡུལ IP ཐོབ་པ།"
+
+msgid "S&how files currently being edited..."
+msgstr "རྩོམ་སྒྲིག་བྱེད་བཞིན་པའི་ཡིག་ཆ་མངོན་པ། (&H)"
+
+msgid "S&how the Site Manager on startup"
+msgstr "འགོ་སློང་བའི་སྐབས་ས་ཚུགས་དོ་དམ་ཆས་མངོན་པ། (&H)"
+
+msgid "S&hutdown system"
+msgstr "རྒྱུད་ཁོངས་ཁ་རྒྱག་པ། (&H)"
+
+msgid "S&top"
+msgstr "མཚམས་འཇོག་པ། (&T)"
+
+msgid "S&uspend system"
+msgstr "རྒྱུད་ཁོངས་འགེལ་འཇོག (&U)"
+
+msgid "S&ynchronized browsing"
+msgstr "གོམ་མཉམ་མིག་བཤར། (&Y)"
+
+msgid "SFTP"
+msgstr ""
+
+msgid "SOC&KS 4"
+msgstr ""
+
+msgid "SOCKS4 proxy will connect to: %s"
+msgstr "ལས་ཚབ SOCKS4 དེ  %s ལ་འབྲེལ་བ།"
+
+msgid "SQLite:"
+msgstr ""
+
+msgid "Save settings?"
+msgstr "སྒྲིག་འགོད་ཉར་ཚགས་བྱེད་དམ།"
+
+msgid "Saving of password has been disabled by your system administrator."
+msgstr "ཁྱེད་ཀྱི་རྒྱུད་ཁོངས་དོ་དམ་པས་གསང་ཨང་ཉར་ཚགས་བྱེད་པ་བཀག་འདུག"
+
+msgid "Saving of passwords has been disabled by you."
+msgstr "ཁྱོད་ཀྱིས་གསང་ཨང་ཉར་ཚགས་བྱེད་པ་བཀག་འདུག"
+
+msgid "Scanning for files to add to queue"
+msgstr "རུ་སྟར་ནང་ཞུགས་པའི་ཡིག་ཆརཞིབ་བཤེར་བྱེད་བཞིན་ཡོད།"
+
+msgid "Scanning for files to upload"
+msgstr "ཡར་བསྐུར་བྱ་རྒྱུའི་ཡིག་ཆར་ཞིབ་བཤེར་བྱེད་བཞིན་ཡོད།"
+
+msgid "Search &conditions:"
+msgstr "བཤེར་འཚོལ་ཆ་རྐྱེན། (&C)"
+
+msgid "Search &directory:"
+msgstr "དཀར་ཆག་བཤེར་འཚོལ། (&D)"
+
+msgid "Search for files recursively."
+msgstr "རིམ་ལོག་བཤེར་འཚོལ་ཡིག་ཆ། "
+
+msgid "Search server for files"
+msgstr "ཞབས་ཞུ་ཆས་སྟེང་ཡིག་ཆ་བཤེར་འཚོལ།"
+
+msgid "Security information"
+msgstr "བདེ་འཇགས་ཆ་འཕྲིན།"
+
+msgid "See also: https://wiki.filezilla-project.org/Network_Configuration"
+msgstr "https://wiki.filezilla-project.org/Network_Configuration ལ་གཟིགས།"
+
+msgid "Sele&ct server"
+msgstr "ཞབས་ཞུ་ཆས་འདེམ་པ། (&C)"
+
+msgid "Select &page:"
+msgstr "ལྡེབ་ངོས་འདེམ་པ། (&P)"
+
+msgid "Select Theme"
+msgstr "བརྗོད་གཞི་འདེམ་པ།"
+
+msgid ""
+"Select default action to perform if target file of a transfer already "
+"exists."
+msgstr ""
+"ཁྱེད་ཀྱིས་དམིགས་ཡུལ་ཡིག་ཆ་ཡོད་དུས་ཀྱི་སོར་བཞག་བཀོལ་སྤྱོད་དེ་འདོམ་རོགས།"
+
+msgid "Select default editor"
+msgstr "སོར་བཞག་གི་རྩོམ་སྒྲིག་ཆས་འདེམ་པ།"
+
+msgid ""
+"Select default file exists action if the target file already exists. This "
+"selection is valid only for the current session."
+msgstr ""
+"ཁྱེད་ཀྱིས་དམིགས་ཡུལ་ཡིག་ཆ་ཡོད་དུས་ཀྱི་སོར་བཞག་བཀོལ་སྤྱོད་དེ་འདོམ་རོགས། "
+"བཀོལ་སྤྱོད་འདི་མིག་སྔའི་གླེང་མོལ་ཁོ་ནར་བེད་སྤྱོད་པ་ཡིན།"
+
+msgid ""
+"Select default file exists action only for the currently selected files in "
+"the queue."
+msgstr ""
+"ཁྱེད་ཀྱིས་རུ་སྟར་ནང་བདམས་པའི་ཡིག་ཆ་ཡི་སོར་བཞག་ཡིག་ཆ་གནས་པའི་བཀོལ་སྤྱོད་ཁོ་ན་འདོམས་རོགས།"
+
+msgid "Select file containing private key"
+msgstr "སྒེར་ལྡེ་ཚུད་པའི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select file for exported data"
+msgstr "གཞི་གྲངས་ཕྱིར་འདོན་ལ་སྤྱོད་པའི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select file for exported queue"
+msgstr "རུ་སྟར་ཕྱིར་འདོན་ལ་སྤྱོད་པའི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select file for exported settings"
+msgstr "སྒྲིག་འགོད་ཕྱིར་འདོན་ལ་མཁོ་བའི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select file for exported sites"
+msgstr "ས་ཚུགས་ཕྱིར་འདོན་ལ་སྤྱོད་པའི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select file to import settings from"
+msgstr "སྒྲིག་འགོད་འདྲེན་འཇུག་ལ་མཁོ་བའི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select file to upload"
+msgstr "ཡར་བསྐུར་བྱ་རྒྱུའི་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select filename for converted key file"
+msgstr "བརྗེ་སྤོར་བྱ་རྒྱུའི་གསང་ལྡེ་ཡིག་ཆར་ཡིག་ཆའི་མིང་ནང་འཇུག་དགོས།"
+
+msgid "Select how these files should be opened."
+msgstr "ཡིག་ཆ་འདི་རྣམས་ཇི་ལྟར་ཁ་ཕྱེ་ཚུལ་འདོམས་དགོས། "
+
+msgid "Select target download directory"
+msgstr "ཕབ་ལེན་གྱི་དམིགས་འབེན་ཡིག་ཆ་འདོམས་དགོས། "
+
+msgid "Select target filename"
+msgstr "དམིགས་འབེན་གྱི་ཡིག་ཆའི་མིང་འདེམ་པ།"
+
+msgid "Select the categories to export:"
+msgstr "ཕྱིར་འདྲེན་བྱ་རྒྱུའི་རིགས་གྲས་འདེམ་པ།"
+
+msgid "Select the private data you would like to delete."
+msgstr "ཁྱེད་ཀྱིས་བསུབ་བྱའི་མི་སྒེར་གྱི་ཆ་འཕྲིན་འདོམས་རོགས། "
+
+msgid "Selected %d directory with its contents for transfer."
+msgid_plural "Selected %d directories with their contents for transfer."
+msgstr[0] "དཀར་ཆག  %d དང་དེའི་ནང་དོན་བརྒྱུད་གཏོང་བྱེད་པ་བདམས་པ།"
+msgstr[1] "དཀར་ཆག  %d དང་དེའི་ནང་དོན་བརྒྱུད་གཏོང་བྱེད་པ་བདམས་པ།"
+
+msgid "Selected %d directory."
+msgid_plural "Selected %d directories."
+msgstr[0] " %d ཡིག་ཁུག་བདམས་པ།"
+msgstr[1] " %d ཡིག་ཁུག་བདམས་པ།"
+
+msgid "Selected %d file for transfer."
+msgid_plural "Selected %d files for transfer."
+msgstr[0] "ཡིག་ཆ  %d  བརྒྱུད་གཏོང་བྱེད་པ་བདམས་པ།"
+msgstr[1] "ཡིག་ཆ  %d  བརྒྱུད་གཏོང་བྱེད་པ་བདམས་པ།"
+
+msgid "Selected %d file. Total size: %s"
+msgid_plural "Selected %d files. Total size: %s"
+msgstr[0] "ཡིག་ཆ %d བདམས་པ། ཆེ་ཆུང་བསྡོམས %s ཡིན།"
+msgstr[1] "ཡིག་ཆ %d བདམས་པ། ཆེ་ཆུང་བསྡོམས %s ཡིན།"
+
+msgid "Selected %d file. Total size: At least %s"
+msgid_plural "Selected %d files. Total size: At least %s"
+msgstr[0] "ཡིག་ཆ %d བདམས་པ། ཆེ་ཆུང་བསྡོམས་མ་མཐར་ཡང %s ཡིན།"
+msgstr[1] "ཡིག་ཆ %d བདམས་པ། ཆེ་ཆུང་བསྡོམས་མ་མཐར་ཡང %s ཡིན།"
+
+msgid "Selected %s and %s for transfer."
+msgstr "%s དང %s བདམས་ནས་བརྒྱུད་གཏོང་བྱེད་པ།"
+
+msgid "Selected %s and %s. Total size: %s"
+msgstr "%s དང %s བདམས་པ། ཆེ་ཆུང་བསྡོམས %s ཡིན།"
+
+msgid "Selected %s and %s. Total size: At least %s"
+msgstr "%s དང %s བདམས་པ། ཆེ་ཆུང་བསྡོམས་མ་མཐར་ཡང %s ཡིན།"
+
+msgid "Selected editor does not exist."
+msgstr "བདམས་པའི་རྩོམ་སྒྲིག་ཆས་མི་འདུག "
+
+msgid "Selected file already being edited"
+msgstr "བདམས་པའི་ཡིག་ཆར་རྩོམ་སྒྲིག་བྱེད་པ།"
+
+msgid "Selected file is already loaded"
+msgstr "བདམས་པའི་ཡིག་ཆ་ཁུར་སྣོན་བྱས་ཟིན།"
+
+msgid "Selected file is already opened"
+msgstr "བདམས་པའི་ཡིག་ཆ་ཁ་ཕྱེ་ཚར།"
+
+msgid "Selected file is still being edited"
+msgstr "བདམས་པའི་ཡིག་ཆ་རྩོམ་སྒྲིག་བྱེད་པ།"
+
+msgid "Selected filter only works for local files."
+msgstr "བདམས་པའི་འཚག་ཆས་རང་སའི་ཡིག་ཆ་ཁོ་ནར་དམིགས་པ་ཡིན། "
+
+msgid ""
+"Selected global bookmark and current server use a different server type.\n"
+"Use site-specific bookmarks for this server."
+msgstr ""
+
+msgid "Selected port usually in use by a different protocol."
+msgstr "རྒྱུན་དུ་བདམས་པའི་མཐུད་ཁ་དེ་གྲོས་ཆིངས་གཞན་གྱི་བེད་སྤྱོད་བྱེད་པ་ཡིན།"
+
+msgid "Send FTP &keep-alive commands"
+msgstr "FTP འབྲེལ་མཐུད་རྒྱུན་འཁྱོངས་ཀྱི་བཀའ་བརྡ་བཏང་བ།"
+
+msgid "Send custom command to the server otherwise not available"
+msgstr "གལ་སྲིད་སྤྱོད་རུང་ཡིན་ཚེ། རང་བཟོའ་བཀའ་བརྡ་དེ་ཞབས་ཞུ་ཆས་ལ་གཏོང་བ།"
+
+msgid "Sending keep-alive command"
+msgstr "འབྲེལ་མཐུད་རྒྱུན་འཁྱོངས་ཀྱི་བཀའ་བརྡ་བཏང་བ།"
+
+msgid "Serial number:"
+msgstr "རིམ་སྟར་ཨང་རྟགས།"
+
+msgid "Server &Type:"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་རིགས་གྲས།"
+
+msgid "Server did not properly shut down TLS connection"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་འབྲེལ་མཐུད TLS རྒྱུན་ལྡན་ལྟར་ཁ་རྒྱག་མེད་པ།"
+
+msgid "Server does not support non-ASCII characters."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱིས་ཡིག་རྟགས ASCII མིན་པར་རྒྱབ་སྐྱོར་མི་བྱེད། "
+
+msgid "Server does not support resume of files > %d GB."
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཀྱིས %d GB "
+"ལས་ཆེ་བའི་ཡིག་ཆ་སྔ་མུས་སུ་སྐྱེལ་བར་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid ""
+"Server does not support resume of files > %d GB. End transfer since file "
+"sizes match."
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཀྱིས %d GB "
+"ལས་ཆེ་བའི་ཡིག་ཆ་སྔ་མུས་སུ་སྐྱེལ་བར་རྒྱབ་སྐྱོར་མི་བྱེད་པ། "
+"ཡིག་ཆའི་ཆེ་ཆུང་མཚམས་པའི་སྐབས་བརྒྱུད་གཏོང་མཇུག་སྒྲིལ་བ་ཡིན། "
+
+msgid "Server does not support resume of files > 2GB."
+msgstr ""
+
+msgid "Server does not support resume of files > 4GB."
+msgstr ""
+
+msgid ""
+"Server may not support resume of files > %d GB. End transfer since file "
+"sizes match."
+msgstr ""
+"གཅིག་བྱས་ན་ཞབས་ཞུ་ཆས་ཀྱིས %d GB "
+"ལས་ཆེ་བའི་ཡིག་ཆ་སྔ་མུས་སུ་སྐྱེལ་བར་རྒྱབ་སྐྱོར་མི་བྱེད་པ། "
+"ཡིག་ཆའི་ཆེ་ཆུང་མཚམས་པའི་སྐབས་བརྒྱུད་གཏོང་མཇུག་སྒྲིལ་བ་ཡིན། "
+
+msgid ""
+"Server might require an account. Try specifying an account using the Site "
+"Manager"
+msgstr ""
+"ཕལ་ཆེར་ཞབས་ཆས་ལ་རྩིས་ཐོའི་ཨང་གྲངས་དགོས། "
+"ས་ཚུགས་དོ་དམ་ཆས་ནང་རྩིས་ཐོའི་ཨང་གྲངས་ཤིག་དམིགས་འཛུགས་བྱས་ནས་ཚོད་ལྟ་ཞིག་བྱེད་རོགས།"
+
+msgid "Server returned empty path."
+msgstr "ཞབས་ཞུ་ཆས་ལ་བརྒྱུད་ལམ་སྟོང་པ་བསྐུར་བ།"
+
+msgid ""
+"Server sent an additional login prompt. You need to use the interactive "
+"login type."
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཀྱིས་ཟུར་སྣོན་གྱི་ཐོ་འགོད་གསལ་བརྡ་ཞིག་བརྒྱུད་བསྐྱེལ་བྱས། "
+"ཁྱེད་ཀྱིས་ སྤེལ་རེས་རྣམ་པའི་ཐོ་འགོད་བྱེད་ཐབས་བཀོལ་དགོས།"
+
+msgid ""
+"Server sent passive reply with unroutable address. Passive mode failed."
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཀྱིས་ལམ་ཚོལ་ཐབས་བྲལ་བའི་གནས་ཡུལ་ཕྱིར་སྤྲད། གཞན་དབང་གི་རྣམ་པ་ཕམ་པ། "
+
+msgid ""
+"Server sent passive reply with unroutable address. Using server address "
+"instead."
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཀྱིས་ལམ་ཚོལ་ཐབས་བྲལ་བའི་གནས་ཡུལ་ཕྱིར་སྤྲད། "
+"ཞབས་ཞུ་ཆས་ཀྱི་གནས་ཡུལ་གྱིས་ཚབ་བྱེད་པ།"
+
+msgid "Server sent unexpected reply."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱིས་བསམ་ཡུལ་ལས་འདས་པའི་ལན་ཞིག་བསྐུར།"
+
+msgid "Server to client MAC:"
+msgstr "ཞབས་ཞུ་ཆས་ནས་རང་སའི MAC བར།"
+
+msgid "Server to client cipher:"
+msgstr "ཞབས་ཞུ་ཆས་ནས་རང་སའི་གསང་ཨང་བར།"
+
+msgid "Server&type:"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་རིགས། (&T)"
+
+msgid "Server/Local file"
+msgstr "ཞབས་ཞུ་ཆས/རང་སའི་ཡིག་ཆ།"
+
+msgid "Server:"
+msgstr "ཞབས་ཞུ་ཆས།"
+
+msgid "Session details"
+msgstr "གླེང་མོལ་ཞིབ་ཆ།"
+
+msgid "Set &Priority"
+msgstr "སྔོན་ཐོབ་རིམ་པར་སྒྲིག་འགོད།"
+
+msgid "Set permissions of '%s' to '%s'"
+msgstr ""
+
+msgid "SetSocketBufferSize called without socket"
+msgstr "SetSoocketBufferSize ཡི་འབྲེལ་འཛུགས་ཡི་གེའི་འདོན་སྤྱོད་མེད་པ།"
+
+msgid "Settings"
+msgstr "སྒྲིག་འགོད།"
+
+msgid "Settings directory:"
+msgstr "ཡིག་ཆའི་དཀར་ཆག་སྒྲིག་འགོད།"
+
+msgid "Show &raw directory listing"
+msgstr "དཀར་ཆག་རེའུ་མིག་མངོན་པ། (S.R)"
+
+msgid "Show both directory trees and continue comparing?"
+msgstr "གཡས་གཡོན་གྱི་དཀར་ཆག་སྡོང་འགྲེམས་མངོན་ནས་སྡུར་དགོས་སམ། "
+
+msgid "Show details"
+msgstr "ཞིབ་ཆ་མངོན་པ།"
+
+msgid "Show details about custom date and time formats"
+msgstr ""
+"རང་བཟོས་ཚེས་གྲངས་དང་དུས་ཚོད་ཀྱི་རྣམ་གཞག་སྐོར་གྱི་ཆ་འཕྲིན་ཞིབ་ཕྲ་མངོན་པ།"
+
+msgid "Shows available TLS ciphers"
+msgstr "སྤྱོད་རུང་བའི་གསང་ཨང TLS མངོན་པ།"
+
+msgid "Shows this help dialog"
+msgstr "རོགས་རམ་གྱི་གླེང་སྒྲོམ་འདི་མངོནཔ།"
+
+msgid "Shutdown now"
+msgstr "རྒྱུད་ཁོངས་ལམ་སེང་ཁ་རྒྱག་པ།"
+
+msgid "Signature algorithm:"
+msgstr "མིང་རྟགས་འགོད་པའི་རྩི་ཐབས།"
+
+msgid "Site &Manager entries"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས། (&M)"
+
+msgid "Site Manager"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས།"
+
+msgid "Site Manager - Cannot remember password"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཀྱིས་གསང་ཨང་ངེས་མི་ཐུབ།"
+
+msgid "Site Manager - Invalid data"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས། ནུས་མེད་གཞི་གྲངས།"
+
+msgid "Site Manager already open"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ཁ་ཕྱེ་ཟིན།"
+
+msgid "Site does not exist."
+msgstr "ས་ཚུགས་མི་འདུག "
+
+msgid "Site path has to begin with 0 or 1."
+msgstr "ས་ཚུགས་ཀྱི་བརྒྱུད་ལམ་ནི་ངེས་པར་དུ 0 འམ་ཡང་ན 1 ནས་འགོ་འཛུགས་དགོས། "
+
+msgid "Site path is malformed."
+msgstr "ས་ཚུགས་བརྒྱུད་ལམ་གྱི་རྣམ་གཞག་ནོར་འཁྲུལ་རེད། "
+
+msgid "Site-specific bookmarks"
+msgstr "ཆེད་དམིགས་ས་ཚུགས་ཀྱི་དཔེ་འཛར།"
+
+msgid ""
+"Site-specific bookmarks require the server to be stored in the Site Manager.\n"
+"Add current connection to the site manager?"
+msgstr ""
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Size formatting"
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་གི་རྣམ་གཞག"
+
+msgid "Size unknown"
+msgstr "ཆེ་ཆུང་མི་ཤེས་པ།"
+
+msgid "Skip file"
+msgstr "ཡིག་ཆ་ལས་མཆོང་བ།"
+
+msgid "Skipping download of %s"
+msgstr "ཕབ་ལེན %s ལས་མཆོང་བ།"
+
+msgid "Skipping upload of %s"
+msgstr "ཡར་བསྐུར %s ལས་མཆོང་བ།"
+
+msgid "Socket address outside address space"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེའི་གནས་ཡུལ་དེ་གནས་ཡུལ་བར་སྟོང་ཁྱབ་ཁོངས་ལས་བརྒལ་བ།"
+
+msgid "Socket already connected"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ་འབྲེལ་ཟིན་པ།"
+
+msgid "Socket has been shut down"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ་ཁ་རྒྱག་པ།"
+
+msgid "Socket not connected"
+msgstr "འབྲེལ་མཐུད་ཡི་གེ་འབྲེལ་མེད་པ།"
+
+msgid "Socket type not supported for address family"
+msgstr "གནས་ཡུལ་ཚོགས་ཀྱིས་འབྲེལ་འཛུགས་ཡི་གེའི་རིགས་གྲས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Some files are still being edited or need to be uploaded."
+msgstr "ཡིག་ཆ་ཁ་ཤས་རྩོམ་སྒྲིག་བྱེད་བཞིན་པའམ་ཡང་ན་ཡར་སྐུར་དགོས། "
+
+msgid ""
+"Some misconfigured remote servers which are behind a router, may reply with "
+"their local IP address."
+msgstr ""
+"ལམ་སྟོན་ཆས་ཀྱི་རྗེས་ན་ཡོད་པའི་རྒྱང་རིང་ཞབས་ཞུ་ཆས་ཀྱིས་ནོར་འཁྲུལ་གྱི་སྒྲིག་འགོད་བེད་སྤྱད་ཡོད་པས།"
+" ཕལ་ཆེར་དེའི་རང་སའི་གནས་ཡུལ་ཕྱིར་ལོ་པ་ཡིན།"
+
+msgid "Sort directories inline"
+msgstr "སྔར་གྱི་གནས་སུ་དཀར་ཆག་རེའུ་མིག་རིམ་སྒྲིག་བྱེད་པ།"
+
+msgid "Sort order cannot be changed if comparing directories."
+msgstr "དཀར་ཆག་སྡུར་བའི་སྐབས་དཀར་ཆག་རིམ་སྒྲིག་ལ་འགྱུར་བ་གཏོང་མི་རུང་། "
+
+msgid "Sorting"
+msgstr "རིམ་སྒྲིག་བྱེད་བཞིན་པ།"
+
+msgid "Sorting &mode:"
+msgstr "རིམ་སྒྲིག་རྣམ་པ། (&M)"
+
+msgid "Source and path of the drop operation are identical"
+msgstr "འདྲུད་གཏོང་བཀོལ་སྤྱོད་ཀྱི་འབྱུང་ཁུངས་དང་བརྒྱུད་ལམ་གཅིག་མཚུངས་རེད།"
+
+msgid "Source and target file may not be the same"
+msgstr "འབྱུང་ཁུངས་དང་དམིགས་འབེན་གྱི་ཡིག་ཆ་གཅིག་མཚུངས་བྱེད་མི་ཆོག"
+
+msgid "Source and target of the drop operation are identical"
+msgstr "འདྲུད་གཏོང་བཀོལ་སྤྱོད་ཀྱི་འབྱུང་ཁུངས་དང་དམིགས་འབེན་གཅིག་མཚུངས་རེད།"
+
+msgid "Source file:"
+msgstr "ཁུངས་ཀྱི་ཡིག་ཆ་ནི།"
+
+msgid "Speed Limits"
+msgstr "མགྱོགས་ཚད་ཚོད་འཛིན།"
+
+msgid "Speed limits"
+msgstr "མྱུར་ཚད་ཚོད་འཛིན།"
+
+msgid "Speed limits are disabled, click to change."
+msgstr "མགྱོགས་ཚད་ཚོད་འཛིན་སྤྱོད་འགོག་བྱས་འདུག་པས་མནན་ནས་བཟོ་བཅོས་བྱེད་དགོས། "
+
+msgid "Speed limits are enabled, click to change."
+msgstr "མགྱོགས་ཚད་ཚོད་འཛིན་སྤྱད་འདུག་པས་མནན་ནས་བཟོ་བཅོས་བྱེད་དགོས། "
+
+msgid "Stable and beta versions"
+msgstr "བརྟན་པའི་པར་གཞི་དང་པར་གཞི Beta"
+
+msgid "Stable versions only"
+msgstr "བརྟན་པའི་པར་གཞི་ཁོ་ན་རེད།"
+
+msgid "Stable, beta and nightly versions"
+msgstr "པར་གཞི་བརྟན་པ་དང་། Beta ཉིན་རེའི་སྒྲིག་སྒྱུར་པར་གཞི ། (Nightly) བཅས།"
+
+msgid "Start transfer &immediately"
+msgstr "ལམ་སེང་བརྒྱུད་གཏོང་འགོ་ཚུགས་པ། (&I)"
+
+msgid "Start with opened Site Manager"
+msgstr "འགོ་སློང་བའི་སྐབས་ས་ཚུགས་དོ་དམ་ཆས་ཁ་འབྱེད་དགོས།"
+
+msgid "Started update check on %s\n"
+msgstr ""
+
+msgid "Starting download of %s"
+msgstr "%s ཕབ་ལེན་བྱེད་འགོ་རྩོམ་པ།"
+
+msgid "Starting upload of %s"
+msgstr "%s ཡར་བསྐུར་བྱེད་འགོ་རྩོམ་པ།"
+
+msgid "Starts the local site in the given path"
+msgstr "སྤྲད་པའི་བརྒྱུད་ལམ་འོག་གི་རང་སའི་ས་ཚུགས་འགོ་སློང་བ།"
+
+msgid "State or province:"
+msgstr "ཁུལ་དང་ཞིང་ཆེན།"
+
+msgid "Status"
+msgstr "རྣམ་པ།"
+
+msgid "Status:"
+msgstr "རྣམ་པ།"
+
+msgid "Stop and remove &all"
+msgstr "མཚམས་འཇོག་དགོས་པ་མ་ཟད་ཚང་མ་བསུབ་དགོས། (&A)"
+
+msgid "Stop recursive operation"
+msgstr "རིམ་ལོག་བཀོལ་སྤྱོད་མཚམས་འཇོག་པ།"
+
+msgid "Street:"
+msgstr "ཁྲོམ་ལམ།"
+
+msgid "Subject of certificate"
+msgstr "དཔང་ཡིག་གི་བརྗོད་གཞི་གཙོ་བོ།"
+
+msgid "Successful transfers"
+msgstr "བརྒྱུད་གཏོང་ལེགས་གྲུབ་བྱུང་བ།"
+
+msgid "Summary of test results:"
+msgstr "ཚོད་ལྟའི་མཇུག་འབྲས་ཕྱོགས་བསྡོམས།"
+
+msgid "Suspend now"
+msgstr "ལམ་སེབ་མཚམས་འཇོག"
+
+msgid ""
+"Symlinks to files are not affected by this choice, such symlinks are always "
+"deleted."
+msgstr ""
+"ཡིག་ཆར་ཕྱོགས་པའི་བརྡ་རྟགས་སྦྲེལ་མཐུད་ལ་གདམ་གའི་ཤུགས་རྐྱེན་མི་ཐེབས་པ་དང་། "
+"རྟགས་ཀྱི་སྦྲེལ་མཐུད་དེ་རིགས་རྟག་པར་སུབ་པ་རེད། "
+
+msgid "Synchronized browsing"
+msgstr "གོམ་མཉམ་མིག་བཤར།"
+
+msgid "Synchronized browsing has been disabled."
+msgstr "གོམ་མཉམ་མིག་བཤར་དེ་ཁ་རྒྱག་ཟིན་པ།"
+
+msgid "Syntax error"
+msgstr "བརྡ་སྤྲོད་ནོར་བ།"
+
+msgid "Syntax error in command line"
+msgstr "བཀའ་བརྡའི་ཕྲེང་གི་བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
+
+msgid "System"
+msgstr "རྒྱུད་ཁོངས།"
+
+msgid "System details"
+msgstr "རྒྱུད་ཁོངས་ཆ་འཕྲིན།"
+
+msgid "System limit of open files exceeded"
+msgstr "རྒྱུད་ཁོངས་ཀྱིས་ཁ་ཕྱེ་བའི་ཡིག་ཆའི་གྲངས་ཀྱི་ཚད་འཛིན་ལ་སླེབས་པ།"
+
+msgid "System's network subsystem has failed"
+msgstr "རྒྱུད་ཁོངས་ཀྱི་དྲ་རྒྱའི་བུ་རྒྱུད་ཁོངས་ནོར་བ།"
+
+msgid "T&oolbar"
+msgstr "ལག་ཆའི་ཚང་། (&O)"
+
+msgid "TLS connection established, sending HTTP request"
+msgstr "TLS ཡི་འབྲེལ་མཐུད་བཙུགས་ཟིན་པ་དང་། HTP རེ་ཞུ་བསྐུར་བཞིན་ཡོད།"
+
+msgid "TLS connection established, waiting for welcome message..."
+msgstr "TLS ཡི་འབྲེལ་མཐུད་བཙུགས་པ་དང་། དགའ་བསུའི་བརྡ་འཕྲིན་སྒུག་པ།"
+
+msgid "TLS connection established."
+msgstr "TLS ཡི་འབྲེལ་མཐུད་བཙུགས་ཟིན་པ། "
+
+msgid "TTL expired"
+msgstr "TTL དུས་བརྒལ་བ།"
+
+msgid "Target file already exists"
+msgstr "དམིགས་འབེན་ཡིག་ཆ་གནས་ཡོད་པ།"
+
+msgid "Target file:"
+msgstr "དམིགས་འབེན་ཡིག་ཆ།"
+
+msgid "Target filename already exists!"
+msgstr "དམིགས་འབེན་ཡིག་ཆའི་མིང་གནས་ཡོད།"
+
+msgid "Target filename already exists, really continue?"
+msgstr "དམིགས་འབེན་ཡིག་ཆའི་མིང་གནས་ཡོད། མུ་མཐུད་དམ།"
+
+msgid "Temporary failure in name resolution"
+msgstr ""
+
+msgid "Test results"
+msgstr "ཚོད་ལེན་མཇུག་འབྲས།"
+
+msgid "Testing resume capabilities of server"
+msgstr "ཞབས་ཞུ་ཆས་མུ་མཐུད་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ་མིན་ལ་བཤེར་འཇལ་བྱེད་བཞིན་ཡོད།"
+
+msgid "The Site Manager cannot be used unless the file gets repaired."
+msgstr ""
+"ཡིག་ཆ་ཉམས་གསོ་བྱེད་དགོས་པ་རེད། དེ་མིན་ན་ས་ཚུགས་ཀྱི་དོ་དམ་ཆས་ཁ་འབྱེད་མི་ཐུབ། "
+
+msgid ""
+"The Site Manager is opened in another instance of FileZilla 3.\n"
+"Do you want to continue? Any changes made in the Site Manager won't be saved then."
+msgstr ""
+
+msgid ""
+"The Site Manager is opened in another instance of FileZilla 3.\n"
+"Please close it or the data cannot be deleted."
+msgstr ""
+
+msgid "The address you entered was: %s"
+msgstr "ཁྱེད་ཀྱིས་ནང་འཇུག་བྱས་པའི་གནས་ཡུལ་ནི %s རེད།"
+
+msgid "The ai_family member is not supported"
+msgstr "ཁོངས་མི ai_family ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "The ai_socktype member is not supported"
+msgstr "ཁོངས་མི ai_socktype ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "The bookmark could not be added."
+msgstr "དཔེ་འཛར་འདི་སྣོན་ཐབས་བྲལ།"
+
+msgid "The bookmarks could not be cleared."
+msgstr "དཔེ་འཛར་དེ་བསུབ་ཐབས་མེད། "
+
+msgid "The connection is encrypted. Click icon for details."
+msgstr "འབྲེལ་མཐུད་དེ་ནི་གསང་གྲངས་བཀོད་པ་ཡིན། རིས་རྟགས་མནན་ནས་ཞིབ་ཆ་མངོན་པ།"
+
+msgid ""
+"The custom date format is invalid or contains unsupported format specifiers."
+msgstr ""
+"རང་བཟོས་གཞི་གྲངས་ཀྱི་རྣམ་གཞག་ལ་ནུས་པ་མེད་པའམ་ཡང་ན་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་རྣམ་གཞག་ཚད་བཀག་གི་རྟགས་ཚུད་འདུག"
+" "
+
+msgid "The custom login sequence cannot be empty."
+msgstr "རང་བཟོས་ཐོ་འགོད་བརྒྱུད་རིམ་ནི་སྟོང་པ་ཡིན་མི་རུང་། "
+
+msgid ""
+"The custom time format is invalid or contains unsupported format specifiers."
+msgstr ""
+"རང་བཟོས་དུས་ཚོད་ཀྱི་རྣམ་གཞག་ལ་ནུས་པ་མེད་པའམ་ཡང་ན་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་རྣམ་གཞག་ཚད་བཀག་གི་རྟགས་ཚུད་འདུག"
+" "
+
+msgid "The data connection could not be established: %s"
+msgstr "གཞི་གྲངས་འབྲེལ་མཐུད %s བྱེད་ཐབས་བྲལ།"
+
+msgid "The default editor for text files could not be found."
+msgstr "སོར་བཞག་གི་ཡིག་རྐྱང་ཡིག་ཆའི་རྩོམ་སྒྲིག་ཆས་མི་འདུག "
+
+msgid "The default editor for text files is '%s'."
+msgstr "སོར་བཞག་གི་ཡིག་རྐྱང་ཡིག་ཆའི་རྩོམ་སྒྲིག་ཆས་ནི “%s” ཡིན།"
+
+msgid ""
+"The entered filter name already exists, please choose a different name."
+msgstr ""
+"ཁྱེད་ཀྱིས་ནང་འཇུག་བྱས་པའི་འཚག་ཆས་ཀྱི་མིང་གནས་འདུག་པས་མིང་གཞན་ཞིག་འདོམས་དང་།"
+
+msgid "The extension '%s' does already exist in the list"
+msgstr "རྒྱ་སྐྱེད་མིང “%s” ་རེའུ་མིག་ནང་དུ་ཡོད།"
+
+msgid ""
+"The file %s already exists.\n"
+"Please enter a new name:"
+msgstr ""
+
+msgid ""
+"The file '%s' cannot be opened:\n"
+"The associated program (%s) could not be found.\n"
+"Please check your filetype associations."
+msgstr ""
+
+msgid ""
+"The file '%s' contains an SSH1 key. The SSH1 protocol has been deprecated, "
+"FileZilla only supports SSH2 keys."
+msgstr ""
+
+msgid "The file '%s' could not be loaded or does not contain a private key."
+msgstr "ཡིག་ཆ “%s” ཁུར་སྣོན་མི་ཐུབ་པའམ་ཡང་ན་སྒེར་ལྡེ་ཚུད་མི་འདུག། "
+
+msgid "The file '%s' could not be loaded."
+msgstr "ཡིག་ཆ “%s” ཁུར་སྣོན་མི་ཐུབ་པ།"
+
+msgid ""
+"The file '%s' could not be opened:\n"
+"No program has been associated on your system with this file type."
+msgstr ""
+
+msgid ""
+"The file '%s' could not be opened:\n"
+"The associated command failed"
+msgstr ""
+
+msgid ""
+"The file '%s' has been created by a more recent version of FileZilla.\n"
+"Loading files created by newer versions can result in loss of data.\n"
+"Do you want to continue?"
+msgstr ""
+
+msgid ""
+"The file '%s' is not in a format supported by FileZilla.\n"
+"Would you like to convert it into a supported format?"
+msgstr ""
+
+msgid "The file selected as default editor does not exist."
+msgstr "སོར་བཞག་རྩོམ་སྒྲིག་ཆས་ལ་རྩིས་ནས་ཡིག་ཆ་གནས་མེད་པ།"
+
+msgid ""
+"The file you have selected contains site manager data from a previous version of FileZilla.\n"
+"Due to differences in the storage format, only host, port, username and password will be imported.\n"
+"Continue with the import?"
+msgstr ""
+
+msgid "The filename column can neither be hidden nor moved."
+msgstr "ཡིག་ཆའི་མིང་གི་སྡེ་སྦེད་པའམ་སྤོ་སྒུལ་བྱེད་མི་ཐུབ་པ།"
+
+msgid "The filename column cannot be hidden."
+msgstr "ཡིག་ཆའི་མིང་གི་ཚང་སྦེད་མི་ཐུབ་པ།"
+
+msgid "The following character will be replaced: %s"
+msgstr "གཤམ་གྱི་ཡིག་རྟགས་རྣམས་བརྗེ་བ།  %s"
+
+msgid "The following characters will be replaced: %s"
+msgstr "གཤམ་གྱི་ཡིག་རྟགས་རྣམས་བརྗེ་བ།  %s"
+
+msgid "The following files are currently being edited:"
+msgstr "གཤམ་གྱི་ཡིག་ཆ་རྩོམ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
+
+msgid "The free open source FTP solution"
+msgstr "རིན་མེད་དང་ཁུངས་འབྱེད་ཀྱི FTP ཐག་གཅོད་ཇུས་གཞི།"
+
+msgid "The global bookmarks could not be saved."
+msgstr "ཁྱོན་ཡོངས་ཀྱི་དཔེ་འཛར་འདི་ཉར་ཚགས་བྱེད་ཐབས་མེད། "
+
+msgid ""
+"The higher the debug level, the more information will be displayed in the "
+"message log. Displaying debug information has a negative impact on "
+"performance."
+msgstr ""
+
+msgid "The limit needs to be between 1 and 2000 MiB"
+msgstr "ངེས་པར་དུ 1 ནས 2000 MiB བར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+msgid "The local directory '%s' could not be created."
+msgstr "རང་སའི་དཀར་ཆག “%s” བཟོག་ཐབས་བྲལ། "
+
+msgid "The local directory '%s' does not exist."
+msgstr "རང་སའི་དཀར་ཆག“%s”མིག་འདུག"
+
+msgid ""
+"The local directory '%s' is not below the synchronization root (%s).\n"
+"Disable synchronized browsing and continue changing the local directory?"
+msgstr ""
+
+msgid ""
+"The lowest available port has to be less or equal than the highest available"
+" port."
+msgstr ""
+"ཆེས་དམའ་བའི་སྤྱོད་རུང་མཐུད་ཁ་དེ་ངེས་པར་དུ་ཆེས་མཐོ་བ་ལས་ཆུང་བའམ་ཡང་ན་མཚུངས་པ་ཡིན་དགོས།"
+" "
+
+msgid "The new version could not be downloaded, please retry later."
+msgstr ""
+"པར་གཞི་གསར་པ་ཕབ་ལེན་བྱེད་མི་ཐུབ། ཅུང་ཙམ་འགོར་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས། "
+
+msgid "The new version has been saved in your Downloads directory."
+msgstr ""
+"ཕབ་ལེན་བྱས་པའི་པར་གཞི་གསར་པ་དེ་ཁྱེད་ཀྱི་ཕབ་ལེན་ཡིག་ཁུག་ནང་ཉར་ཚགས་བྱས་ཡོད།"
+
+msgid "The queue will not be saved."
+msgstr "རུ་སྟར་ཉར་ཚགས་བྱེད་ཀྱི་མ་རེད། "
+
+msgid "The remote directory '%s' does not exist."
+msgstr "རྒྱང་རིང་དཀར་ཆག“ %s” གནས་མེད་པ། "
+
+msgid ""
+"The remote directory '%s' is not below the synchronization root (%s).\n"
+"Disable synchronized browsing and continue changing the remote directory?"
+msgstr ""
+
+msgid "The selected categories have been imported."
+msgstr "བདམས་ཟིན་པའི་རིགས་གྲས་འདྲེན་འཇུག་ཟིན།"
+
+msgid ""
+"The selected file contains importable data for the following categories:"
+msgstr "བདམས་ཟིན་པའི་ཡིག་ཆ་དག་གཤམ་གྱི་རིགས་གྲས་ནང་འདྲེན་འཇུག་བྱས་ཆོག"
+
+msgid "The selected file is already being edited:"
+msgstr "བདམས་པའི་ཡིག་ཆར་རྩོམ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
+
+msgid ""
+"The selected file is still opened in some other program, please close it."
+msgstr "བདམས་པའི་ཡིག་ཆ་དག་བྱ་རིམ་གཞན་པས་ཁ་ཕྱེ་འདུག་པས་དེ་ཁ་རྒྱག་རོགས། "
+
+msgid ""
+"The selected file would be executed directly.\n"
+"This can be dangerous and might damage your system.\n"
+"Do you really want to continue?"
+msgstr ""
+
+msgid "The server could not be added."
+msgstr "ཞབས་ཞུ་ཆས་དེ་སྣོན་ཐབས་བྲལ།"
+
+msgid "The server sent an unexpected or unrecognized reply."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱིས་བསམ་ཡུལ་ལས་འདས་པའམ་ཡང་ན་ངོས་འཛིན་མི་ཐུབ་པའི་ལན་བཏབ། "
+
+msgid "The server uses following charset encoding for filenames:"
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཀྱིས་གཤམ་གྱི་ཡིག་རྟགས་ཚོགས་ཀྱི་སྒྲིག་ཨང་སྤྱད་ནས་ཡིག་ཆའི་མིང་ཐག་གཅོད་བྱེད་པ།"
+
+msgid ""
+"The server's certificate is unknown. Please carefully examine the "
+"certificate to make sure the server can be trusted."
+msgstr ""
+"ཞབས་ཞུ་ཆས་ཀྱིས་དཔང་ཡིག་མི་ཤེས་པས་གཟབ་ནན་ངང་ཞིབ་བཤེར་དཔང་ཡིག་གིས་ཞབས་ཞུ་ཆས་ལ་ཡིད་ཆེས་ཆོག་པ་གཏན་ཁེལ་བྱེད་རོགས།"
+
+msgid ""
+"The server's host key does not match the key that has been cached. This "
+"means that either the administrator has changed the host key, or you are "
+"actually trying to connect to another computer pretending to be the server."
+msgstr ""
+
+msgid ""
+"The server's host key is unknown. You have no guarantee that the server is "
+"the computer you think it is."
+msgstr ""
+"ཞབས་ཞུ་ཆས་འདིའི་གཙོ་འཁོར་གསང་ལྡེ་ནི་ངེས་མེད་ཞིག་རེད། "
+"ཞབས་ཞུ་ཆས་དེ་ནི་ཁྱེད་ཀྱིས་གཏན་འཁེལ་བྱས་པའི་རྩིས་འཁོར་དེ་ཡིན་པ་ཁག་ཐེག་བྱེད་མི་ཐུབ།"
+
+msgid "The servname parameter is not supported for ai_socktype"
+msgstr "ai_socktype ཡིས་ཞུགས་གྲངས servname ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid ""
+"The settings have been imported. You have to restart FileZilla for all "
+"settings to have effect."
+msgstr ""
+"སྒྲིག་འགོད་ནང་འདྲེན་བྱས་ཟིན་པས་ཁྱེད་ཀྱིས་དུད་སྣེ FTP "
+"བསྐྱར་དུ་འགོ་སློང་ནས་སྒྲིག་འགོད་ནུས་པ་ཐོན་དུ་འཇུག་དགོས། "
+
+msgid "The specified address family is not supported"
+msgstr "དམིགས་འཛུགས་བྱས་པའི་གནས་ཡུལ་ཚོགས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "The specified network name is no longer available"
+msgstr "དམིགས་འཛུགས་བྱས་པའི་དྲ་རྒྱའི་མིང་དེ་སྤྱོད་རུང་མིན་པ།"
+
+msgid "The system will soon reboot unless you click Cancel."
+msgstr ""
+"ཁྱེད་ཀྱིས་དོར་བ་མནན་ནས་མེད་པར་བཟོས་ན་མ་གཏོགས་རྒྱུད་ཁོངས་ཡང་བསྐྱར་འགོ་སློང་ངེས་ཡིན།"
+" "
+
+msgid "The system will soon shut down unless you click Cancel."
+msgstr ""
+"ཁྱེད་ཀྱིས་དོར་བ་མནན་ནས་མེད་པར་བཟོས་ན་མ་གཏོགས་རྒྱུད་ཁོངས་ལམ་སེང་ཁ་རྒྱག་པ་ཡིན།"
+" "
+
+msgid ""
+"The target file already exists.\n"
+"Please choose an action."
+msgstr ""
+
+msgid "The test did not succeed. Do you really want to save the settings?"
+msgstr "ཚོད་ལེན་ལེགས་འགྲུབ་མ་བྱུང་བས་ཁྱེད་ཀྱིས་ངོ་མ་བཀོད་སྒྲིག་བྱེད་དམ། "
+
+msgid "The valid backup file %s could not be restored"
+msgstr "སླར་གསོ་མི་ཐུབ་པའི་ནུས་ལྡན་གྱི་གྲབས་ཉར་ཡིག་ཆ  %s"
+
+msgid "Themes"
+msgstr "བརྗོད་བྱ་གཙོ་བོ།བརྗོད་བྱ་གཙོ་བོ།"
+
+msgid "This filter set cannot be removed."
+msgstr "འཚག་ཆས་ཀྱི་ཚོགས་སྤྱི་དེ་བསུབ་ཐབས་མེད། "
+
+msgid "This filter set cannot be renamed."
+msgstr "འཚག་ཆས་ཀྱི་ཚོགས་སྤྱིར་མིང་བསྐྱར་འདོགས་བྱེད་ཐབས་བྲལ།"
+
+msgid ""
+"This means that some router and/or firewall is still interfering with "
+"FileZilla."
+msgstr ""
+"ལམ་སྟོན་ཆས་དང་མེ་འགོག་གྱང་གིས་སྔར་བཞིན་མཐུད་ཁ FTP ལ་འགལ་རྐྱེན་བྱེད་པ་ཡིན།\n"
+
+msgid ""
+"This only works if you are not behind a router, else your system would just "
+"return your internal address."
+msgstr ""
+"ཁྱེད་རང་ལམ་སྟོན་ཆས་ཀྱི་རྗེས་ན་མེད་ན་གཞི་ནས་བཀོལ་སྤྱོད་བྱེད་ཐུབ། "
+"དེ་འདྲ་མ་བྱས་ན་ཁྱེད་ཀྱི་རྒྱུད་ཁོངས་ཀྱིས་ནང་ཁུལ་གནས་ཡུལ་མ་གཏོགས་ཕྱིར་ཡོང་མི་ཐུབ།"
+" "
+
+msgid ""
+"This wizard will help you to properly configure any routers and firewalls "
+"you have and tests your configuration."
+msgstr ""
+"སྣེ་ཁྲིད་འདིས་ཁྱེད་ལ་ཡང་དག་པའི་སྒོ་ནས་ལམ་སྟོན་ཆས་དང་མེ་འགོག་གྱང་བཀོད་སྒྲིག་བྱེད་པར་རོགས་རམ་བྱེད་པ་མ་ཟད།"
+" ཁྱེད་ཀྱི་སྡེབ་སྒྲིག་ལ་ཚོད་ལྟ་བྱེད་པ་ཡིན། "
+
+msgid "Time"
+msgstr "དུས་ཚོད།"
+
+msgid "Time formatting"
+msgstr "དུས་ཚོད་རྣམ་གཞག"
+
+msgid "Time&out in seconds:"
+msgstr "དུས་བརྒལ་སྐར་གྲངས།"
+
+msgid "Timeout"
+msgstr "དུས་བརྒལ་དུས་ཚོད།"
+
+msgid "Timezone offset of server is %d seconds."
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་དུས་ཁྱད་ནི་སྐར་ཆ  %d ཡིན། "
+
+msgid "Title:"
+msgstr "ཁ་བྱང་།"
+
+msgid "To compare directories, both file lists have to be aligned."
+msgstr ""
+"ཕྱོགས་གཉིས་ཀྱི་ཡིག་ཆའི་རེའུ་མིག་གྲལ་སྟར་སྒྲིག་ན་གཞི་ནས་དཀར་ཆག་བསྡུར་ཐུབ།"
+
+msgid "To do this, the directory trees need to be both shown or both hidden."
+msgstr ""
+"ཕྱོགས་གཉིས་ཀྱི་དཀར་ཆག་སྡོང་པོ་ནི་ངེས་པར་དུ་མངོན་པའམ་སྦས་ན་ད་གཟོད་འགུལ་སྟངས་འདི་ལག་བསྟར་བྱེད་ཐུབ།"
+" "
+
+msgid ""
+"To support public key authentication, FileZilla needs to know the private "
+"keys to use."
+msgstr ""
+"སྤྱི་ལྡེ་ར་སྤྲོད་བྱེད་པར་རྒྱབ་སྐྱོར་བྱེད་ཆེད་དུད་སྣེ FTP "
+"ཡིས་བེད་སྤྱོད་པའི་སྒེར་ལྡེ་ཤེས་དགོས། "
+
+msgid ""
+"Toggle directory comparison. Right-click to change comparison mode.\n"
+"\n"
+"Colors:\n"
+"Yellow: File only exists on one side\n"
+"Green: File is newer than the unmarked file on other side\n"
+"Red: File sizes different"
+msgstr ""
+
+msgid ""
+"Toggle synchronized browsing.\n"
+"If enabled, navigating the local directory hierarchy will also change the directory on the server accordingly and vice versa."
+msgstr ""
+
+msgid "Toggles the display of the local directory tree"
+msgstr "རང་སའི་དཀར་ཆག་སྡོང་པོ་མངོན་པ་ཁ་ཕྱེ / ཁ་རྒྱག་པ།"
+
+msgid "Toggles the display of the message log"
+msgstr "ཆ་འཕྲིན་ཟིན་ཐོ་མངོན་པ་ཁ་ཕྱེ / ཁ་རྒྱག་པ།"
+
+msgid "Toggles the display of the remote directory tree"
+msgstr "རྒྱང་རིང་དཀར་ཆག་སྡོང་པོ་མངོན་པ་ཁ་ཕྱེ / ཁ་རྒྱག་པ།"
+
+msgid "Toggles the display of the transfer queue"
+msgstr "བརྒྱུད་གཏོང་རུ་སྟར་མངོན་པ་ཁ་ཕྱེ / ཁ་རྒྱག་པ།"
+
+msgid "Too long header line"
+msgstr "ཁ་བྱང་གི་ཕྲེང་ཧ་ཅང་རིང་།"
+
+msgid "Too many redirects"
+msgstr "ཕྱོགས་བསྐྱར་ངེས་མང་དྲག་པ།"
+
+msgid "Trace:"
+msgstr "རྗེས་སྙེག"
+
+msgid "Transfer"
+msgstr "བརྒྱུད་གཏོང་།"
+
+msgid "Transfer &direction"
+msgstr "དཀར་ཆག་བརྒྱུད་གཏོང་།"
+
+msgid "Transfer &type"
+msgstr "བརྒྱུད་གཏོང་རིགས་གྲས།"
+
+msgid "Transfer Mode"
+msgstr "བརྒྱུད་གཏོང་རྣམ་པ།"
+
+msgid "Transfer Queue"
+msgstr "བརྒྱུད་གཏོང་རུ་སྟར།"
+
+msgid "Transfer Settings"
+msgstr "བརྒྱུད་གཏོང་སྒྲིག་འགོད།"
+
+msgid "Transfer connection interrupted: %s"
+msgstr "བརྒྱུད་གཏོང་འབྲེལ་མཐུད་ལ་བར་ཆད་བཟོས་པ།"
+
+msgid "Transferred data got tainted."
+msgstr "བརྒྱུད་གཏོང་བྱས་པའི་གཞི་གྲངས་ལ་སྐྱོན་བྱུང་འདུག "
+
+msgid "Transferring"
+msgstr "བརྒྱུད་གཏོང་བྱེད་བཞིན་པ།"
+
+msgid "Transfers"
+msgstr "བརྒྱུད་གཏོང་།"
+
+msgid "Transfers finished"
+msgstr "བརྒྱུད་གཏོང་ལེགས་འགྲུབ་བྱུང་བ།"
+
+msgid "Treat files &without extension as ASCII file"
+msgstr "རྒྱ་བསྐྱེད་མིང་མེད་པའི་ཡིག་ཆ་དེ ASCII རྣམ་པའི་ཡིག་ཆར་རྩིས་བ། (&W)"
+
+msgid "Treat the &following filetypes as ASCII files:"
+msgstr "གཤམ་གྱི་ཡིག་ཆའི་རིགས་གྲས་དེ ASCII རྣམ་པའི་ཡིག་ཆར་རྩིས་བ། (&F)"
+
+msgid "Trust changed Hostkey:"
+msgstr "ཡིད་ཆེས་ལ་འགྱུར་ལྡོག་བྱུང་རྗེས་ཀྱི་གཙོ་འཁོར་གསང་ལྡེ།"
+
+msgid "Trust new Hostkey:"
+msgstr "གཙོ་འཁོར་གསང་ལྡེ་གསར་པར་ཡིད་ཆེས་བྱེད་པ།"
+
+msgid "Trust the new key and carry on connecting?"
+msgstr ""
+"གཙོ་འཁོར་གསང་ལྡེ་གསར་པར་ཡིད་ཆེས་བྱེད་པ་མ་ཟད་མུ་མཐུད་འབྲེལ་མཐུད་བྱེད་དམ།"
+
+msgid "Trust this certificate and carry on connecting?"
+msgstr "དཔང་ཡིག་ལ་ཡིད་ཆེས་བྱེད་པ་མ་ཟད་མུ་མཐུད་འབྲེལ་མཐུད་བྱེད་དམ།"
+
+msgid "Trust this host and carry on connecting?"
+msgstr "གཙོ་འཁོར་འདིར་ཡིད་ཆེས་བྱེད་པ་མ་ཟད་མུ་མཐུད་འབྲེལ་མཐུད་བྱེད་དམ།"
+
+msgid "Try again"
+msgstr "ཡང་བསྐྱར་ཚོད་ལེན།"
+
+msgid "Type"
+msgstr "རིགས་གྲས་"
+
+msgid "Type of FTP Proxy:"
+msgstr "ལས་ཚབ FTP ཡི་རིགས་གྲས།"
+
+msgid "Type of generic proxy:"
+msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས་ཀྱི་རིགས་གྲས།"
+
+msgid "U&pload"
+msgstr "ཡར་བསྐུར། (&P)"
+
+msgid "U&pload limit:"
+msgstr "ཡར་བསྐུར་ཚོད་འཛིན།"
+
+msgid "U&se filetype associations if available"
+msgstr "ཆོག་ན་ཡིག་ཆའི་རྣམ་གཞག་འབྲེལ་ལྡན་བེད་སྤྱོད་པ་ཡིན།"
+
+msgid "U&se system defaults for current language"
+msgstr "མིག་སྔའི་སྐད་རིགས་ལ་རྒྱུད་ཁོངས་ཀྱི་སོར་བཞག་སྒྲིག་འགོད་བེད་སྤྱོད་པ།"
+
+msgid "USER@&HOST"
+msgstr ""
+
+msgid "Unassigned error code %d"
+msgstr "ངེས་མེད་ཀྱི་ནོར་འཁྲུལ་ཚབ་ཨང་ནི %d ཡིན།"
+
+msgid "Unit:"
+msgstr "འཇལ་བྱེད།"
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unknown FTP proxy type, cannot generate login sequence."
+msgstr ""
+"ལས་ཚབ་ཞབས་ཞུ་ཆས FTP ཡི་རིགས་གྲས་ངེས་མེདས་ཐོ་འགོད་བརྒྱུར་རིམ་འགྲུབ་ཐབས་བྲལ།"
+
+msgid "Unknown SOCKS protocol version: %d"
+msgstr "ངེས་མེད་ཀྱི SOCKS ཡི་གྲོས་ཆིངས་པར་གཞི %d"
+
+msgid "Unknown certificate"
+msgstr "ངེས་མེད་ཀྱི་དཔང་ཡིག"
+
+msgid "Unknown host key"
+msgstr "མཚན་ཉིད་མ་བཞག་པའི་མྱུར་མཐེབ།"
+
+msgid ""
+"Unknown protocol version of SOCKS Username/Password Authentication "
+"subnegotiation: %d"
+msgstr ""
+"ངེས་མེད་ཀྱི SOCKS སྤྱོད་མཁན་གྱི་མིང་།/ "
+"གསང་ཨང་ར་སྤྲོད་གླེང་མོལ་གྱི་གྲོས་ཆིངས་པར་གཞི %d"
+
+msgid ""
+"Unknown root element, the file does not appear to be generated by FileZilla."
+msgstr "ངེས་མེད་ཀྱི་གཞི་རྒྱུ།ཡིག་ཆ་དེ་ནི་FTPདུད་སྣེ་ལས་གྲུབ་པ་ཞིག་མ་རེད། "
+
+msgid ""
+"Unless these problems get fixed, active mode FTP will not work and passive "
+"mode has to be used."
+msgstr ""
+"གནད་དོན་དེ་ཉམས་གསོ་མ་བྱས་ཚེ། རང་འགུལ་རྣམ་པའི FTP "
+"ཡིས་བྱ་བ་བསྒྲུབ་མི་ཐུབ་པས་གཞན་དབང་གི་རྣམ་པ་ཁོ་ན་སྤྱོད་པ་ཡིན། "
+
+msgid ""
+"Unless this problem gets fixed, active mode FTP will not work and passive "
+"mode has to be used."
+msgstr ""
+"གནད་དོན་དེ་ཉམས་གསོ་མ་བྱས་ཚེ། རང་འགུལ་རྣམ་པའི FTP "
+"ཡིས་བྱ་བ་བསྒྲུབ་མི་ཐུབ་པས་གཞན་དབང་གི་རྣམ་པ་ཁོ་ན་སྤྱོད་པ་ཡིན། "
+
+msgid "Unsupported certificate type"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་དཔང་ཡིག་གི་རིགས་གྲས།"
+
+msgid "Unsupported redirect"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ཡང་བསྐྱར་ཕྱོགས་ངེས།"
+
+msgid "Up&load and unedit"
+msgstr "ཡར་བསྐུར་དང་ཆབ་གཅིག་བཟོ་བཅོས་མི་བྱེད་པ།"
+
+msgid "Updates"
+msgstr "གསར་སྒྱུར།"
+
+msgid "Upload"
+msgstr "ཡར་བསྐུར།"
+
+msgid "Upload failed"
+msgstr "ཡར་བསྐྱར་ཕམ་པ།"
+
+msgid "Upload limit: %s/s"
+msgstr "ཡར་བསྐུར་ཚོད་འཛིན %s/s"
+
+msgid "Upload limit: none"
+msgstr "ཡར་བསྐུར་ཚོད་འཛིན་མེད་པ།"
+
+msgid "Upload selected directory"
+msgstr "བདམས་པའི་དཀར་ཆག་ཡར་བསྐུར་བ།"
+
+msgid "Upload selected files and directories"
+msgstr "བདམས་པའི་ཡིག་ཆ་དང་དཀར་ཆག་ཡར་བསྐུར་བ།"
+
+msgid "Upload this file back to the server?"
+msgstr "ཡིག་ཆ་འདི་ཡར་བསྐུར་ནས་ཞབས་ཞུ་ཆས་ལ་ལོག་གམ།"
+
+msgid "Upload this file to the server?"
+msgstr "ཡིག་ཆ་འདི་ཞབས་ཞུ་ཆས་ལ་ཡར་བསྐུར་བ།"
+
+msgid "Uploading"
+msgstr "ཡར་བསྐུར་བཞིན་ཡོད།"
+
+msgid "Uploading and pending removal"
+msgstr "ཡར་བསྐུར་དང་འབུད་པ་སྒུག་བཞིན་པ།"
+
+msgid "Uploading and unediting"
+msgstr "ཡར་བསྐུར་དང་བཟོ་བཅོས་དོར་བཞིན་པ།"
+
+msgid "Use &custom charset"
+msgstr "རང་བཟོས་ཀྱི་ཡིག་རྟགས་ཚོགས་བེད་སྤྱོད་པ། (&C)"
+
+msgid "Use &custom editor:"
+msgstr "རང་བཟོས་རྩོམ་སྒྲིག་ཆས་བཀོལ་བ། (&C)"
+
+msgid "Use &default editor for text files"
+msgstr "སོར་བཞག་གི་ཡིག་རྐྱང་རྩོམ་སྒྲིག་ཆས་བཀོལ་བ། (&D)"
+
+msgid "Use &synchronized browsing"
+msgstr "གོམ་མཉམ་མིག་བཤར་བེད་སྤྱོད་པ། (&S) "
+
+msgid "Use UTF-8 if the server supports it, else use local charset."
+msgstr ""
+"གལ་ཏེ་ཞབས་ཞུ་ཆས་ཀྱིས་རྒྱབ་སྐྱོར་ཡོད་ན UTF-8 "
+"བཀོལ་དགོས་ལ་དེ་མིན་ན་རང་སའི་སྒྲིག་ཨང་བཀོལ་དགོས། "
+
+msgid "Use default action"
+msgstr "སོར་བཞག་གི་འགུལ་སྟངས་སྤྱོད་པ།"
+
+msgid "Use explicit FTP over TLS if available"
+msgstr "གལ་ཏེ་སྤྱོད་རུང་ཚེ། མངོན་པའི FTP བེད་སྤྱོད་པ་ཡིན།"
+
+msgid "Use server currently connected to"
+msgstr "མིག་སྔའི་འབྲེལ་མཐུད་ཐུབ་པའི་ཞབས་ཞུ་ཆས་བེད་སྤྱོད་བྱེད་པ།"
+
+msgid "Use server from site manager"
+msgstr "ས་ཚུགས་དོ་དམ་ཆས་ནས་བདམས་པའི་ཞབས་ཞུ་ཆས་སྤྱོད་པ།"
+
+msgid "Use system &defaults for current language"
+msgstr "མིག་སྔའི་སྐད་རིགས་ལ་སོར་བཞག་གི་རྒྱུད་ཁོངས་སྒྲིག་འགོད་བེད་སྤྱོད་པ།"
+
+msgid "Use the following IP address:"
+msgstr "གཤམ་གྱི་གནས་ཡུལ IP བེད་སྤྱོད་པ།"
+
+msgid "Use the following port range:"
+msgstr "གཤམ་གྱི་མཐུད་ཁའི་ཁྱབ་ཁོངས་བེད་སྤྱོད་པ།"
+
+msgid "Use the server's external IP address instead"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་ཕྱིའི་གནས་ཡུལ་བེད་སྤྱད་ནས་ཚབ་བྱེད་དགོས།"
+
+msgid ""
+"Use this if you're behind a router and have a static external IP address."
+msgstr ""
+
+msgid ""
+"Use this option if you have a dynamic IP address. FileZilla will contact the"
+" above server once each session as soon as you use active mode for the first"
+" time. Only the version of FileZilla you're using is submitted to the "
+"server."
+msgstr ""
+
+msgid "User:"
+msgstr "སྤྱོད་མཁན།"
+
+msgid "Username cannot be a series of spaces"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་ནི་བར་སྟོང་རབ་དང་རིམ་པ་ཡིན་མི་རུང་།"
+
+msgid ""
+"Using the wrong charset can result in filenames not displaying properly."
+msgstr ""
+"ནོར་འཁྲུལ་གྱི་ཡིག་རྟགས་ཚོགས་བེད་སྤྱད་ཚེ་ཡིག་ཆའི་མིང་མངོན་ཚུལ་ཡང་མི་དག་པ་ཡོང་སྲིད།"
+" "
+
+msgid "Valid from:"
+msgstr "གོ་ཆོད་པའི་དུས་ཚོད་འགོ་རྩོམ་པ།"
+
+msgid "Valid to:"
+msgstr "གོ་ཆོད་པའི་དུས་ཚོད་མཚམས་གཅོད་པ།"
+
+msgid "Verbose log messages from wxWidgets"
+msgstr "WxWidgets ནས་ཡོང་བའི་ཞིབ་ཕྲའི་ཉིན་ཐོའི་ཆ་འཕྲིན།"
+
+msgid "Verifying certificate..."
+msgstr "དཔང་ཡིག་ལ་ཞིབ་བཤེར་བྱེད་བཞིན་པ།"
+
+msgid "Very high"
+msgstr "ཧ་ཅང་མཐོ།"
+
+msgid "View hidden option set, but unsupported by server"
+msgstr ""
+"གབ་པའི་འདེམས་ཚན་ལ་སྒྲིག་འགོད་ཟིན་ཡང་ཞབས་ཞུ་ཆས་ཀྱི་སྣེར་རྒྱབ་སྐྱོར་བྱས་མེད།"
+
+msgid "View/Edit"
+msgstr "ལྟ་ཞིབ། / རྩོམ་སྒྲིག"
+
+msgid "Visible columns"
+msgstr "མཐོང་ཐུབ་པའི་ལེ་ཚན།"
+
+msgid "W&rite"
+msgstr "འབྲི་བ། (&R)"
+
+msgid "Waiting"
+msgstr "སྒུག་པ།"
+
+msgid "Waiting for browsing connection"
+msgstr "མིག་བཤར་འབྲེལ་མཐུད་སྒུག་པ།"
+
+msgid "Waiting for password"
+msgstr "གསང་ཨང་སྒུག་པ།"
+
+msgid "Waiting for transfer to be cancelled"
+msgstr "བརྒྱུད་གཏོང་དོར་བ་སྒུག་པ།"
+
+msgid "Waiting to retry..."
+msgstr "ཡང་བསྐྱར་ཚོད་ལྟ་སྒུག་བཞིན་པ།"
+
+msgid "Warning, ignoring data connection from wrong IP."
+msgstr "ཉེན་བརྡ། ནོར་འཁྲུལ་གྱི་ནང་མཐུད IP གཞི་གྲངས་སྣང་མེད་གཏོང་བ།"
+
+msgid ""
+"Warning, use nightly builds at your own risk.\n"
+"No support is given for nightly builds.\n"
+"Nightly builds may not work as expected and might even damage your system.\n"
+"\n"
+"Do you really want to check for nightly builds?"
+msgstr ""
+
+msgid "Warning: Potential security breach!"
+msgstr "ཉེན་བརྡ། མངོན་མེད་ཀྱི་རྐྱེན་ངན། "
+
+msgid "Welcome to FileZilla"
+msgstr "དུད་སྣེ FTP བེད་སྤྱོད་པར་དགའ་བསུ་ཞུ།"
+
+msgid "What's new"
+msgstr "གསར་སྒྱུར།"
+
+msgid "What's new:"
+msgstr ""
+
+msgid ""
+"When allowing FileZilla to remember passwords, you can reconnnect without "
+"having to re-enter a password after restarting FileZilla."
+msgstr ""
+
+msgid ""
+"When enabled, characters that are not supported by the local operating "
+"system in filenames are replaced if downloading such a file."
+msgstr ""
+"སྤྱོད་འགོ་ཚུགས་རྗེས་ཡིག་ཆ་དེ་རིགས་ཕབ་ལེན་བྱེད་སྐབས། "
+"ཡིག་ཆའི་མིང་ནང་རང་སའི་བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ཀྱིས་རྒྱབ་སྐྱོར་མེད་པའི་ཡིག་རྟགས་བརྗེ་བ་ཡིན།"
+
+msgid "When st&arting a new connection while already connected:"
+msgstr ""
+"ཞབས་ཞུ་ཆས་ལ་འབྲེལ་མཐུད་ཟིན་པའི་གནས་ཚུལ་འོག་འབྲེལ་མཐུད་གསར་བ་ཞིག་འཛུགས་དགོས། "
+"(&A)"
+
+msgid "Widescreen"
+msgstr "ཡོལ་བ་ཡངས་པོ།"
+
+msgid "Would you like FileZilla to remember passwords?"
+msgstr "ཁྱེད་ཀྱི་དུད་སྣེ FTP ཡིས་གསང་ཨང་ངེས་དགོས་སམ།"
+
+msgid "Wr&ite"
+msgstr "འབྲི་བ། (&I)"
+
+msgid "Wrong external IP address"
+msgstr "ནོར་འཁྲུལ་གྱི་ཕྱིའི་གནས་ཡུལIP"
+
+msgid "Wrong line endings"
+msgstr "ནོར་འཁྲུལ་གྱི་ཕྲེང་མཇུག"
+
+msgid "Yes"
+msgstr "ཡིན།"
+
+msgid ""
+"You appear to be using an IPv6-only host. This wizard does not support this "
+"environment."
+msgstr ""
+"ཁྱེད་་ཀྱིས་ཕལ་ཆེར་གཙོ་འཁོར IPv6 བཀོལ་བཞིན་ཡོད། "
+"སྣེ་སྟོན་པས་ཁོར་ཡུག་འདི་རིགས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "You are using the latest version of FileZilla."
+msgstr "ཁྱེད་ཀྱིས་བཀོལ་བ་ནི་ཆེས་གསར་བའི་དུད་སྣེ FTP རེད། "
+
+msgid "You can always open this dialog again through the help menu."
+msgstr ""
+"ཁྱེད་ཀྱིས་ག་དུས་ཡིན་ཡང་རོགས་རམ་འདེམས་བྱང་ནས་ཡང་བསྐྱར་གླེང་སྒྲོམ་འདི་ཁ་ཕྱེ་ཐུབ།"
+" "
+
+msgid "You can download the latest version from the FileZilla website:"
+msgstr "ཁྱེད་ཀྱིས་དུད་སྣེ FTP དྲ་ཚིགས་ནས་པར་གཞི་གསར་ཤོས་ཕབ་ཆོག"
+
+msgid "You can leave the port field empty to use the default port."
+msgstr "ཁྱེད་ཀྱིས་མཐུད་ཁ་མ་བྲིས་པར་སོར་བཞག་མཐུད་ཁ་བེད་སྤྱོད་པ་ཡིན།"
+
+msgid ""
+"You can use an x at any position to keep the permission the original files "
+"have."
+msgstr ""
+"ཁྱེད་ཀྱིས་ས་ཆ་གང་རུང་ཞིག་ཏུ X "
+"སྤྱད་ནས་དེ་སྔའི་ཡིག་ཆའི་དབང་ཚད་རྒྱུན་འཁྱོངས་བྱས་ཆོག"
+
+msgid "You cannot import settings from FileZilla's own settings directory."
+msgstr ""
+"ཁྱེད་ཀྱིས་དུད་སྣེ FTP སྟེང་གི་དཀར་ཆག་སྒྲིག་འགོད་ནས་ནང་འདྲེན་བྱེད་མི་ཐུབ།"
+
+msgid ""
+"You cannot replace an invalid character with another invalid character. "
+"Please enter a character that is allowed in filenames."
+msgstr ""
+
+msgid "You did not enter a new name for the file. Overwrite the file instead?"
+msgstr ""
+"ཁྱེད་ཀྱིས་ཡིག་ཆ་འདིའི་མིང་གསར་བ་ནང་འཇུག་བྱས་མི་འདུག ཡིག་ཆ་འདི་བཀབ་དགོས་སམ།"
+
+msgid "You have selected at least one symbolic link."
+msgstr "ཁྱེད་ཀྱིས་མ་མཐར་ཡང་མཚོན་རྟགས་སྦྲེལ་མཐུད་གཅིག་བདམས་འདུག"
+
+msgid ""
+"You have selected more than 10 files for editing, do you really want to "
+"continue?"
+msgstr ""
+"ཁྱེད་ཀྱིས་ཡིག་ཆ 10 "
+"ལས་བརྒལ་བ་བདམས་ནས་རྩོམ་སྒྲིག་བྱེད་རྩིས་འདུག་པས་མུ་མཐུད་རྩོམ་སྒྲིག་བྱེད་དམ།"
+
+msgid ""
+"You have selected more than 10 files or directories to open, do you really "
+"want to continue?"
+msgstr ""
+"ཁྱེད་ཀྱིས་ཡིག་ཆའམ་དཀར་ཆག 10 "
+"ལས་བརྒལ་བ་བདམས་ནས་ཁ་ཕྱེ་རྩིས་འདུག་པས་མུ་མཐུད་ཁ་ཕྱེ་འམ།"
+
+msgid "You have to enter a hostname."
+msgstr "གཙོ་འཁོར་གྱི་མིང་ཞིག་འཇུག་རོགས།"
+
+msgid "You have to enter a key file path"
+msgstr "གསང་ལྡེ་ཡིག་ཆའི་བརྒྱུད་ལམ་ཞིག་འཇུག་རོགས།"
+
+msgid "You have to enter a local directory."
+msgstr "རང་སའི་དཀར་ཆག་ཅིག་འཇུག་རོགས།"
+
+msgid "You have to enter a valid IPv4 address."
+msgstr "ཡང་དག་པའི་གནས་ཡུལ IPv4 འཇུག་རོགས།"
+
+msgid "You have to enter a writable local directory."
+msgstr "འབྲི་ཆིག་པའི་རང་སའི་དཀར་ཆག་ཅིག་འཇུག་རོགས།"
+
+msgid "You have to enter an account name"
+msgstr "རྩིས་ཐོའི་མིང་ཞིག་འཇུག་རོགས།"
+
+msgid "You have to specify a user name"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་ཞིག་འཇུག་རོགས།"
+
+msgid ""
+"You likely have a router or firewall which erroneously modified the "
+"transferred data."
+msgstr ""
+"ཁྱེད་ཀྱི་མེ་འགོག་གྱང་ངམ་ལམ་སྟོན་ཆས་ཀྱིས་ཕལ་ཆེར་བརྒྱུད་གཏོང་གཞི་གྲངས་ལ་ནོར་འཁྲུལ་གྱི་དག་བཅོས་བྱས།"
+
+msgid "You need to enter a name for the bookmark."
+msgstr "དཔེ་འཛར་འདི་ལ་མིང་བཏགས་རོགས། "
+
+msgid "You need to enter a name for the log file."
+msgstr "ཉིན་ཐོའི་ཡིག་ཆར་མིང་ཞིག་འཇུག་དགོས།"
+
+msgid "You need to enter a properly quoted command."
+msgstr "འོས་འཚམ་གྱི་འདྲེན་སྤྱོད་བཀའ་བརྡ་ཞིག་འཇུག་རོགས།"
+
+msgid "You need to enter a proxy host."
+msgstr "ལས་ཚབ་ཀྱི་གཙོ་འཁོར་ཞིག་འཇུག་རོགས།"
+
+msgid "You need to enter a proxy port in the range from 1 to 65535"
+msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས་ཀྱི་མཐུད་ཁ་ཞིག་འཇུག་རོགས། (1 ནས 65535 བར)"
+
+msgid ""
+"You need to enter at least one path, empty bookmarks are not supported."
+msgstr ""
+"དཔེ་འཛར་སྟོང་པར་རྒྱབ་སྐྱོར་མེད་པས་ཁྱེད་ཀྱིས་མ་མཐར་ཡང་བརྒྱུད་ལམ་གཅིག་འཇུག་དགོས།"
+
+msgid ""
+"You need to enter both a local and a remote path to enable synchronized "
+"browsing for this bookmark."
+msgstr ""
+"ཁྱེད་ཀྱིས་རང་ས་དང་རྒྱང་རིང་གི་བརྒྱུད་ལམ་ནང་འཇུག་བྱས་ནས་དཔེ་འཛར་འདི་ལ་གོམ་མཉམ་མིག་བཤར་སྤྱོད་དགོས།"
+
+msgid ""
+"You need to enter both a local and a remote path to enable synchronized "
+"browsing for this site."
+msgstr ""
+"ཁྱེད་ཀྱིས་རང་ས་དང་རྒྱང་རིང་གི་བརྒྱུད་ལམ་ནང་འཇུག་བྱས་ནས་ས་ཚུགས་འདི་ལ་གོམ་མཉམ་མིག་བཤར་སྤྱོད་དགོས།"
+
+msgid "You need to specify a local file."
+msgstr "ཁྱེད་ཀྱིས་རང་སའི་ཡིག་ཆ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས། "
+
+msgid "You need to specify a remote file."
+msgstr "ཁྱེད་ཀྱིས་རྒྱང་རིང་ཡིག་ཆ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས། "
+
+msgid "You need to specify a remote path."
+msgstr "ཁྱེད་ཀྱིས་རྒྱང་རིང་བརྒྱུད་ལམ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས། "
+
+msgid "You need to specify a server."
+msgstr "ཁྱེད་ཀྱིས་ཞབས་ཞུ་ཆས་ཤིག་དམིགས་འཛུགས་བྱེད་དགོས། "
+
+msgid ""
+"You should have no problems connecting to other servers, file transfers "
+"should work properly."
+msgstr ""
+"ཞབས་ཞུ་གཞན་ལ་འབྲེལ་ན་གནད་དོན་མེད་ལ་ཡིག་ཆ་བརྒྱུད་གཏོང་ཡང་རྒྱུན་ལྡན་ལྟར་བྱ་བ་བསྒྲུབ་ཐུབ།"
+" "
+
+msgid "Your computer will suspend unless you click Cancel."
+msgstr "གལ་ཏེ་ དོར་བ་མནན་ན་རྒྱུད་ཁོངས་ལམ་སེང་འགེལ་བ་ཡིན།"
+
+msgid "after"
+msgstr "རྗེས།"
+
+msgid "before"
+msgstr "གོང་།"
+
+msgid "begins with"
+msgstr "འགོ་ཚུགས་ས།"
+
+msgid "bytes"
+msgstr "ཡིག་ཚིགས།"
+
+msgid "contains"
+msgstr "ཚུད་པ།"
+
+msgid "custom"
+msgstr "མཚན་ཉིད་རང་འཇོག"
+
+msgid "does not contain"
+msgstr "ཚུད་མེད།"
+
+msgid "does not equal"
+msgstr "མི་མཚུངས་པ།"
+
+msgid "ends with"
+msgstr "མཇུག་སྒྲིལ་ས།"
+
+msgid "equals"
+msgstr "མཚུངས་པ།"
+
+msgid "file"
+msgstr "ཡིག་ཆ།"
+
+msgid "fz3temp-lockfile"
+msgstr ""
+
+msgid ""
+"fzputtygen could not be started.\n"
+"Please make sure this executable exists in the same directory as the main FileZilla executable."
+msgstr ""
+
+msgid "fzsftp belongs to a different version of FileZilla"
+msgstr "fzsftp ནི་དུད་སྣེ FTP ཡི་པར་གཞི་གཞན་པའི་ནང་གི་བཀའ་བརྡ་རེད།"
+
+msgid "fzsftp could not be started"
+msgstr "fzsftp སློང་མི་ཐུབ།"
+
+msgid "gnutls_certificate_get_peers returned no certificates"
+msgstr "gnutlsuttificate-get-peers ཡི་དཔང་ཡིག་ཕྱིར་ལོག་བྱས་མེད་པ།"
+
+msgid "greater than"
+msgstr "ལས་ཆེ།"
+
+msgid "group executable"
+msgstr "ཚོ་ལག་བསྟར་བྱེད་ཆོག་པ།"
+
+msgid "group readable"
+msgstr "ཚོ་ཀློག་རུང་བ།"
+
+msgid "group writeable"
+msgstr "ཚོ་འབྲི་ཆོག་པ།"
+
+msgid "https://wiki.filezilla-project.org/Date_and_Time_formatting"
+msgstr "https://wiki.filezilla-project.org/Date_and_Time_formatting"
+
+msgid "is equal to"
+msgstr "མཚུངས་པ།"
+
+msgid "is set"
+msgstr "སྒྲིག་འགོད་ཟིན་པ།"
+
+msgid "is unset"
+msgstr "སྒྲིག་འགོད་བྱས་མེད་པ།"
+
+msgid "less than"
+msgstr "ལས་ཉུང་།"
+
+msgid "matches regex"
+msgstr "ཟླ་སྒྲིག་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "owner executable"
+msgstr "བདག་པོ་ལག་བསྟར་བྱེད་ཆོག"
+
+msgid "owner readable"
+msgstr "བདག་པོ་ཀློག་རུང་བ།"
+
+msgid "owner writeable"
+msgstr "བདག་པོ་འབྲི་ཆོག་པ།"
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "world executable"
+msgstr "ཚང་མ་ལག་བསྟར་བྱེད་ཆོག"
+
+msgid "world readable"
+msgstr "ཚང་མ་ཀློག་རུང་བ།"
+
+msgid "world writeable"
+msgstr "ཚང་མ་འབྲི་ཆོག་པ།"
+
+msgid "wxWidgets:"
+msgstr "wxWidgets:"

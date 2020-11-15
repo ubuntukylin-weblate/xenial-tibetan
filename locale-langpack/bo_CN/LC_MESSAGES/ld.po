@@ -1,0 +1,1632 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Allocating common symbols\n"
+msgstr ""
+
+msgid ""
+"\n"
+"As-needed library included to satisfy reference by file (symbol)\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Cross Reference Table\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Discarded input sections\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Linker script and memory map\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Memory Configuration\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Set                 Symbol\n"
+"\n"
+msgstr ""
+
+msgid ""
+"                                     Exclude objects, archive members from "
+"auto\n"
+msgstr ""
+
+msgid ""
+"                                     This makes binaries non-deterministic\n"
+msgstr ""
+
+msgid ""
+"                                     export, place into import library "
+"instead.\n"
+msgstr ""
+
+msgid ""
+"  --[no-]leading-underscore          Set explicit symbol underscore prefix "
+"mode\n"
+msgstr ""
+
+msgid ""
+"  --add-stdcall-alias                Export symbols with and without @nn\n"
+msgstr ""
+
+msgid ""
+"  --base_file <basefile>             Generate a base file for relocatable "
+"DLLs\n"
+msgstr ""
+
+msgid ""
+"  --compat-implib                    Create backward compatible import libs;\n"
+"                                       create __imp_<SYMBOL> as well.\n"
+msgstr ""
+
+msgid ""
+"  --disable-auto-image-base          Do not auto-choose image base. "
+"(default)\n"
+msgstr ""
+
+msgid ""
+"  --disable-auto-import              Do not auto-import DATA items from "
+"DLLs\n"
+msgstr ""
+
+msgid ""
+"  --disable-large-address-aware      Executable does not support virtual\n"
+"                                       addresses greater than 2 gigabytes\n"
+msgstr ""
+
+msgid ""
+"  --disable-long-section-names       Never use long COFF section names, even\n"
+"                                       in object files\n"
+msgstr ""
+
+msgid ""
+"  --disable-runtime-pseudo-reloc     Do not add runtime pseudo-relocations for\n"
+"                                       auto-imported DATA.\n"
+msgstr ""
+
+msgid "  --disable-stdcall-fixup            Don't link _sym to _sym@nn\n"
+msgstr ""
+
+msgid ""
+"  --dll                              Set image base to the default for "
+"DLLs\n"
+msgstr ""
+
+msgid ""
+"  --dll-search-prefix=<string>       When linking dynamically to a dll without\n"
+"                                       an importlib, use <string><basename>.dll\n"
+"                                       in preference to lib<basename>.dll \n"
+msgstr ""
+
+msgid ""
+"  --dynamicbase\t\t\t Image base address may be relocated using\n"
+"\t\t\t\t       address space layout randomization (ASLR)\n"
+msgstr ""
+
+msgid ""
+"  --enable-auto-image-base           Automatically choose image base for DLLs\n"
+"                                       unless user specifies one\n"
+msgstr ""
+
+msgid ""
+"  --enable-auto-import               Do sophisticated linking of _sym to\n"
+"                                       __imp_sym for DATA references\n"
+msgstr ""
+
+msgid ""
+"  --enable-extra-pe-debug            Enable verbose debug output when building\n"
+"                                       or linking to DLLs (esp. auto-import)\n"
+msgstr ""
+
+msgid ""
+"  --enable-long-section-names        Use long COFF section names even in\n"
+"                                       executable image files\n"
+msgstr ""
+
+msgid ""
+"  --enable-runtime-pseudo-reloc      Work around auto-import limitations by\n"
+"                                       adding pseudo-relocations resolved at\n"
+"                                       runtime.\n"
+msgstr ""
+
+msgid ""
+"  --enable-stdcall-fixup             Link _sym to _sym@nn without warnings\n"
+msgstr ""
+
+msgid ""
+"  --exclude-all-symbols              Exclude all symbols from automatic "
+"export\n"
+msgstr ""
+
+msgid ""
+"  --exclude-libs lib,lib,...         Exclude libraries from automatic "
+"export\n"
+msgstr ""
+
+msgid "  --exclude-modules-for-implib mod,mod,...\n"
+msgstr ""
+
+msgid ""
+"  --exclude-symbols sym,sym,...      Exclude symbols from automatic export\n"
+msgstr ""
+
+msgid ""
+"  --export-all-symbols               Automatically export all globals to "
+"DLL\n"
+msgstr ""
+
+msgid "  --file-alignment <size>            Set file alignment\n"
+msgstr ""
+
+msgid "  --forceinteg\t\t Code integrity checks are enforced\n"
+msgstr ""
+
+msgid "  --heap <size>                      Set initial size of the heap\n"
+msgstr ""
+
+msgid ""
+"  --image-base <address>             Set start address of the executable\n"
+msgstr ""
+
+msgid ""
+"  --insert-timestamp                 Use a real timestamp rather than "
+"zero.\n"
+msgstr ""
+
+msgid "  --kill-at                          Remove @nn from exported symbols\n"
+msgstr ""
+
+msgid ""
+"  --large-address-aware              Executable supports virtual addresses\n"
+"                                       greater than 2 gigabytes\n"
+msgstr ""
+
+msgid ""
+"  --major-image-version <number>     Set version number of the executable\n"
+msgstr ""
+
+msgid "  --major-os-version <number>        Set minimum required OS version\n"
+msgstr ""
+
+msgid ""
+"  --major-subsystem-version <number> Set minimum required OS subsystem "
+"version\n"
+msgstr ""
+
+msgid ""
+"  --minor-image-version <number>     Set revision number of the executable\n"
+msgstr ""
+
+msgid "  --minor-os-version <number>        Set minimum required OS revision\n"
+msgstr ""
+
+msgid ""
+"  --minor-subsystem-version <number> Set minimum required OS subsystem "
+"revision\n"
+msgstr ""
+
+msgid "  --no-bind\t\t\t Do not bind this image\n"
+msgstr ""
+
+msgid ""
+"  --no-isolation\t\t Image understands isolation but do not isolate the "
+"image\n"
+msgstr ""
+
+msgid ""
+"  --no-seh\t\t\t Image does not use SEH. No SE handler may\n"
+"\t\t\t\t       be called in this image\n"
+msgstr ""
+
+msgid "  --nxcompat\t\t Image is compatible with data execution prevention\n"
+msgstr ""
+
+msgid "  --out-implib <file>                Generate import library\n"
+msgstr ""
+
+msgid ""
+"  --output-def <file>                Generate a .DEF file for the built "
+"DLL\n"
+msgstr ""
+
+msgid "  --section-alignment <size>         Set section alignment\n"
+msgstr ""
+
+msgid "  --stack <size>                     Set size of the initial stack\n"
+msgstr ""
+
+msgid ""
+"  --subsystem <name>[:<version>]     Set required OS subsystem [& version]\n"
+msgstr ""
+
+msgid ""
+"  --support-old-code                 Support interworking with old code\n"
+msgstr ""
+
+msgid "  --support-old-code          Support interworking with old code\n"
+msgstr ""
+
+msgid ""
+"  --thumb-entry=<sym>         Set the entry point to be Thumb symbol <sym>\n"
+msgstr ""
+
+msgid ""
+"  --thumb-entry=<symbol>             Set the entry point to be Thumb "
+"<symbol>\n"
+msgstr ""
+
+msgid "  --tsaware                  Image is Terminal Server aware\n"
+msgstr ""
+
+msgid "  --warn-duplicate-exports           Warn about duplicate exports.\n"
+msgstr ""
+
+msgid "  --wdmdriver\t\t Driver uses the WDM model\n"
+msgstr ""
+
+msgid "  @FILE"
+msgstr ""
+
+msgid "  Supported emulations:\n"
+msgstr ""
+
+msgid "  no emulation specific options.\n"
+msgstr ""
+
+msgid " additional relocation overflows omitted from the output\n"
+msgstr ""
+
+msgid " load address 0x%V"
+msgstr ""
+
+msgid " relocation truncated to fit: %s against `%T'"
+msgstr ""
+
+msgid ""
+" relocation truncated to fit: %s against symbol `%T' defined in %A section "
+"in %B"
+msgstr ""
+
+msgid " relocation truncated to fit: %s against undefined symbol `%T'"
+msgstr ""
+
+msgid "%8x something else\n"
+msgstr ""
+
+msgid "%B%F: could not read relocs: %E\n"
+msgstr ""
+
+msgid "%B%F: could not read symbols: %E\n"
+msgstr ""
+
+msgid "%B: In function `%T':\n"
+msgstr ""
+
+msgid "%B: file not recognized: %E\n"
+msgstr ""
+
+msgid "%B: matching formats:"
+msgstr ""
+
+msgid "%B: warning: common is here\n"
+msgstr ""
+
+msgid "%B: warning: common of `%T' overridden by definition\n"
+msgstr ""
+
+msgid "%B: warning: common of `%T' overridden by larger common\n"
+msgstr ""
+
+msgid "%B: warning: common of `%T' overriding smaller common\n"
+msgstr ""
+
+msgid "%B: warning: defined here\n"
+msgstr ""
+
+msgid "%B: warning: definition of `%T' overriding common\n"
+msgstr ""
+
+msgid "%B: warning: larger common is here\n"
+msgstr ""
+
+msgid "%B: warning: more undefined references to `%T' follow\n"
+msgstr ""
+
+msgid "%B: warning: multiple common of `%T'\n"
+msgstr ""
+
+msgid "%B: warning: previous common is here\n"
+msgstr ""
+
+msgid "%B: warning: smaller common is here\n"
+msgstr ""
+
+msgid "%B: warning: undefined reference to `%T'\n"
+msgstr ""
+
+msgid "%C: Cannot get section contents - auto-import exception\n"
+msgstr ""
+
+msgid ""
+"%C: variable '%T' can't be auto-imported. Please read the documentation for "
+"ld's --enable-auto-import for details.\n"
+msgstr ""
+
+msgid "%C: warning: undefined reference to `%T'\n"
+msgstr ""
+
+msgid "%D: first defined here\n"
+msgstr ""
+
+msgid "%D: warning: more undefined references to `%T' follow\n"
+msgstr ""
+
+msgid "%F%B: error adding symbols: %E\n"
+msgstr ""
+
+msgid "%F%B: file not recognized: %E\n"
+msgstr ""
+
+msgid "%F%B: final close failed: %E\n"
+msgstr ""
+
+msgid "%F%B: member %B in archive is not an object\n"
+msgstr ""
+
+msgid "%F%P: %s not found for insert\n"
+msgstr ""
+
+msgid "%F%P: attempted static link of dynamic object `%s'\n"
+msgstr ""
+
+msgid "%F%P: bfd_record_phdr failed: %E\n"
+msgstr ""
+
+msgid "%F%P: cannot create split section name for %s\n"
+msgstr ""
+
+msgid "%F%P: cannot open base file %s\n"
+msgstr ""
+
+msgid "%F%P: cannot perform PE operations on non PE output file '%B'.\n"
+msgstr ""
+
+msgid "%F%P: clone section failed: %E\n"
+msgstr ""
+
+msgid "%F%P: final link failed: %E\n"
+msgstr ""
+
+msgid "%F%P: internal error %s %d\n"
+msgstr ""
+
+msgid "%F%P: invalid BFD target `%s'\n"
+msgstr ""
+
+msgid "%F%P: invalid data statement\n"
+msgstr ""
+
+msgid "%F%P: invalid reloc statement\n"
+msgstr ""
+
+msgid "%F%P: no sections assigned to phdrs\n"
+msgstr ""
+
+msgid "%F%P: unknown demangling style `%s'\n"
+msgstr ""
+
+msgid "%F%P:%S: error: alias for default memory region\n"
+msgstr ""
+
+msgid "%F%P:%S: error: align with input and explicit align specified\n"
+msgstr ""
+
+msgid "%F%P:%S: error: memory region `%s' for alias `%s' does not exist\n"
+msgstr ""
+
+msgid "%F%P:%S: error: redefinition of memory region alias `%s'\n"
+msgstr ""
+
+msgid "%F%S %% by zero\n"
+msgstr ""
+
+msgid "%F%S / by zero\n"
+msgstr ""
+
+msgid "%F%S assignment to location counter invalid outside of SECTIONS\n"
+msgstr ""
+
+msgid "%F%S can not PROVIDE assignment to location counter\n"
+msgstr ""
+
+msgid "%F%S cannot move location counter backwards (from %V to %V)\n"
+msgstr ""
+
+msgid "%F%S invalid assignment to location counter\n"
+msgstr ""
+
+msgid ""
+"%F%S: non constant or forward reference address expression for section %s\n"
+msgstr ""
+
+msgid "%F%S: nonconstant expression for %s\n"
+msgstr ""
+
+msgid "%F%S: undefined MEMORY region `%s' referenced in expression\n"
+msgstr ""
+
+msgid "%F%S: undefined section `%s' referenced in expression\n"
+msgstr ""
+
+msgid "%F%S: undefined symbol `%s' referenced in expression\n"
+msgstr ""
+
+msgid "%F%S: unknown constant `%s' referenced in expression\n"
+msgstr ""
+
+msgid "%P%F: %s: error loading plugin: %s\n"
+msgstr ""
+
+msgid "%P%F: %s: non-ELF symbol in ELF BFD!\n"
+msgstr ""
+
+msgid "%P%F: %s: plugin error: %d\n"
+msgstr ""
+
+msgid "%P%F: %s: plugin reported error after all symbols read\n"
+msgstr ""
+
+msgid "%P%F: %s: plugin reported error claiming file\n"
+msgstr ""
+
+msgid "%P%F: -F may not be used without -shared\n"
+msgstr ""
+
+msgid "%P%F: -f may not be used without -shared\n"
+msgstr ""
+
+msgid "%P%F: -pie not supported\n"
+msgstr ""
+
+msgid "%P%F: -r and -shared may not be used together\n"
+msgstr ""
+
+msgid "%P%F: -shared not supported\n"
+msgstr ""
+
+msgid "%P%F: BFD backend error: BFD_RELOC_CTOR unsupported\n"
+msgstr ""
+
+msgid "%P%F: Could not define common symbol `%T': %E\n"
+msgstr ""
+
+msgid "%P%F: Failed to create hash table\n"
+msgstr ""
+
+msgid "%P%F: Illegal use of `%s' section\n"
+msgstr ""
+
+msgid ""
+"%P%F: Relocatable linking with relocations from format %s (%B) to format %s "
+"(%B) is not supported\n"
+msgstr ""
+
+msgid "%P%F: bad --unresolved-symbols option: %s\n"
+msgstr ""
+
+msgid "%P%F: bad -plugin-opt option\n"
+msgstr ""
+
+msgid "%P%F: bad -rpath option\n"
+msgstr ""
+
+msgid "%P%F: bfd_hash_allocate failed creating symbol %s\n"
+msgstr ""
+
+msgid "%P%F: bfd_hash_lookup failed creating symbol %s\n"
+msgstr ""
+
+msgid "%P%F: bfd_hash_lookup failed: %E\n"
+msgstr ""
+
+msgid "%P%F: bfd_hash_lookup for insertion failed: %E\n"
+msgstr ""
+
+msgid "%P%F: bfd_hash_table_init failed: %E\n"
+msgstr ""
+
+msgid "%P%F: bfd_link_hash_lookup failed: %E\n"
+msgstr ""
+
+msgid "%P%F: bfd_new_link_order failed\n"
+msgstr ""
+
+msgid "%P%F: can not create hash table: %E\n"
+msgstr ""
+
+msgid "%P%F: can't relax section: %E\n"
+msgstr ""
+
+msgid "%P%F: can't set start address\n"
+msgstr ""
+
+msgid "%P%F: cannot open linker script file %s: %E\n"
+msgstr ""
+
+msgid "%P%F: cannot open map file %s: %E\n"
+msgstr ""
+
+msgid "%P%F: cannot open output file %s: %E\n"
+msgstr ""
+
+msgid "%P%F: cannot represent machine `%s'\n"
+msgstr ""
+
+msgid "%P%F: error: no memory region specified for loadable section `%s'\n"
+msgstr ""
+
+msgid "%P%F: failed creating section `%s': %E\n"
+msgstr ""
+
+msgid "%P%F: gc-sections requires either an entry or an undefined symbol\n"
+msgstr ""
+
+msgid "%P%F: group ended before it began (--help for usage)\n"
+msgstr ""
+
+msgid "%P%F: invalid argument to option \"--section-start\"\n"
+msgstr ""
+
+msgid "%P%F: invalid common section sorting option: %s\n"
+msgstr ""
+
+msgid "%P%F: invalid hex number `%s'\n"
+msgstr ""
+
+msgid "%P%F: invalid hex number for PE parameter '%s'\n"
+msgstr ""
+
+msgid "%P%F: invalid number `%s'\n"
+msgstr ""
+
+msgid "%P%F: invalid section sorting option: %s\n"
+msgstr ""
+
+msgid "%P%F: invalid subsystem type %s\n"
+msgstr ""
+
+msgid "%P%F: invalid syntax in flags\n"
+msgstr ""
+
+msgid "%P%F: missing argument to -m\n"
+msgstr ""
+
+msgid "%P%F: missing argument(s) to option \"--section-start\"\n"
+msgstr ""
+
+msgid "%P%F: multiple STARTUP files\n"
+msgstr ""
+
+msgid "%P%F: no input files\n"
+msgstr ""
+
+msgid "%P%F: output format %s cannot represent section called %s\n"
+msgstr ""
+
+msgid "%P%F: please report this bug\n"
+msgstr ""
+
+msgid "%P%F: strange hex info for PE parameter '%s'\n"
+msgstr ""
+
+msgid "%P%F: target %s not found\n"
+msgstr ""
+
+msgid "%P%F: unknown ELF symbol visibility: %d!\n"
+msgstr ""
+
+msgid "%P%F: unknown format type %s\n"
+msgstr ""
+
+msgid "%P%F: unrecognized -a option `%s'\n"
+msgstr ""
+
+msgid "%P%F: unrecognized -assert option `%s'\n"
+msgstr ""
+
+msgid "%P%F: use the --help option for usage information\n"
+msgstr ""
+
+msgid "%P%F:%s: can not make object file: %E\n"
+msgstr ""
+
+msgid "%P%F:%s: can not set architecture: %E\n"
+msgstr ""
+
+msgid "%P%F:%s: can't set start address\n"
+msgstr ""
+
+msgid "%P%F:%s: hash creation failed\n"
+msgstr ""
+
+msgid ""
+"%P%X: %s architecture of input file `%B' is incompatible with %s output\n"
+msgstr ""
+
+msgid "%P%X: %s does not support reloc %s for set %s\n"
+msgstr ""
+
+msgid "%P%X: --hash-size needs a numeric argument\n"
+msgstr ""
+
+msgid "%P%X: Different object file formats composing set %s\n"
+msgstr ""
+
+msgid "%P%X: Different relocs used in set %s\n"
+msgstr ""
+
+msgid "%P%X: Internal error on COFF shared library section %s\n"
+msgstr ""
+
+msgid "%P%X: Unsupported size %d for set %s\n"
+msgstr ""
+
+msgid "%P%X: failed to merge target specific data of file %B\n"
+msgstr ""
+
+msgid "%P: %B: symbol `%s' definition: %d, visibility: %d, resolution: %d\n"
+msgstr ""
+
+msgid "%P: %s: error in plugin cleanup: %d (ignored)\n"
+msgstr ""
+
+msgid "%P: Disabling relaxation: it will not work with multiple definitions\n"
+msgstr ""
+
+msgid "%P: Error closing file `%s'\n"
+msgstr ""
+
+msgid "%P: Error writing file `%s'\n"
+msgstr ""
+
+msgid "%P: `-retain-symbols-file' overrides `-s' and `-S'\n"
+msgstr ""
+
+msgid "%P: cannot find %s\n"
+msgstr ""
+
+msgid "%P: cannot find %s (%s): %E\n"
+msgstr ""
+
+msgid "%P: cannot find %s inside %s\n"
+msgstr ""
+
+msgid "%P: cannot find %s: %E\n"
+msgstr ""
+
+msgid "%P: internal error: aborting at %s line %d\n"
+msgstr ""
+
+msgid "%P: internal error: aborting at %s line %d in %s\n"
+msgstr ""
+
+msgid "%P: link errors found, deleting executable `%s'\n"
+msgstr ""
+
+msgid "%P: mode %s\n"
+msgstr ""
+
+msgid "%P: skipping incompatible %s when searching for %s\n"
+msgstr ""
+
+msgid "%P: symbol `%T' missing from main hash table\n"
+msgstr ""
+
+msgid "%P: unrecognised emulation mode: %s\n"
+msgstr ""
+
+msgid "%P: unrecognized option '%s'\n"
+msgstr ""
+
+msgid "%P: warning, file alignment > section alignment.\n"
+msgstr ""
+
+msgid "%P: warning: %s contains output sections; did you forget -T?\n"
+msgstr ""
+
+msgid "%P: warning: '--thumb-entry %s' is overriding '-e %s'\n"
+msgstr ""
+
+msgid ""
+"%P: warning: --export-dynamic is not supported for PE targets, did you mean "
+"--export-all-symbols?\n"
+msgstr ""
+
+msgid "%P: warning: address of `%s' isn't multiple of maximum page size\n"
+msgstr ""
+
+msgid ""
+"%P: warning: auto-importing has been activated without --enable-auto-import specified on the command line.\n"
+"This should work unless it involves constant data structures referencing symbols from auto-imported DLLs.\n"
+msgstr ""
+
+msgid "%P: warning: bad version number in -subsystem option\n"
+msgstr ""
+
+msgid "%P: warning: cannot find entry symbol %s; defaulting to %V\n"
+msgstr ""
+
+msgid "%P: warning: cannot find entry symbol %s; not setting start address\n"
+msgstr ""
+
+msgid "%P: warning: cannot find thumb start symbol %s\n"
+msgstr ""
+
+msgid "%P: warning: changing start of section %s by %lu bytes\n"
+msgstr ""
+
+msgid ""
+"%P: warning: could not find any targets that match endianness requirement\n"
+msgstr ""
+
+msgid "%P: warning: dot moved backwards before `%s'\n"
+msgstr ""
+
+msgid "%P: warning: global constructor %s used\n"
+msgstr ""
+
+msgid "%P: warning: no memory region specified for loadable section `%s'\n"
+msgstr ""
+
+msgid "%P:%S: warning: memory region `%s' not declared\n"
+msgstr ""
+
+msgid "%P:%S: warning: redeclaration of memory region `%s'\n"
+msgstr ""
+
+msgid "%S HLL ignored\n"
+msgstr ""
+
+msgid "%S SYSLIB ignored\n"
+msgstr ""
+
+msgid "%W (size before relaxing)\n"
+msgstr ""
+
+msgid "%X%B: more undefined references to `%T' follow\n"
+msgstr ""
+
+msgid "%X%B: undefined reference to `%T'\n"
+msgstr ""
+
+msgid "%X%C: multiple definition of `%T'\n"
+msgstr ""
+
+msgid "%X%C: prohibited cross reference from %s to `%T' in %s\n"
+msgstr ""
+
+msgid "%X%C: undefined reference to `%T'\n"
+msgstr ""
+
+msgid "%X%D: more undefined references to `%T' follow\n"
+msgstr ""
+
+msgid "%X%H: dangerous relocation: %s\n"
+msgstr ""
+
+msgid "%X%H: reloc refers to symbol `%T' which is not being output\n"
+msgstr ""
+
+msgid "%X%P: %B section `%s' will not fit in region `%s'\n"
+msgstr ""
+
+msgid "%X%P: address 0x%v of %B section `%s' is not within region `%s'\n"
+msgstr ""
+
+msgid "%X%P: anonymous version tag cannot be combined with other version tags\n"
+msgstr ""
+
+msgid "%X%P: bfd_hash_table_init of cref table failed: %E\n"
+msgstr ""
+
+msgid "%X%P: can't set BFD default target to `%s': %E\n"
+msgstr ""
+
+msgid "%X%P: cref alloc failed: %E\n"
+msgstr ""
+
+msgid "%X%P: cref_hash_lookup failed: %E\n"
+msgstr ""
+
+msgid "%X%P: duplicate expression `%s' in version information\n"
+msgstr ""
+
+msgid "%X%P: duplicate version tag `%s'\n"
+msgstr ""
+
+msgid "%X%P: error: duplicate retain-symbols-file\n"
+msgstr ""
+
+msgid "%X%P: region `%s' overflowed by %ld bytes\n"
+msgstr ""
+
+msgid ""
+"%X%P: section %s loaded at [%V,%V] overlaps section %s loaded at [%V,%V]\n"
+msgstr ""
+
+msgid "%X%P: section `%s' assigned to non-existent phdr `%s'\n"
+msgstr ""
+
+msgid "%X%P: unable to find version dependency `%s'\n"
+msgstr ""
+
+msgid "%X%P: unable to open for destination of copy `%s'\n"
+msgstr ""
+
+msgid "%X%P: unable to open for source of copy `%s'\n"
+msgstr ""
+
+msgid "%X%P: unable to read .exports section contents\n"
+msgstr ""
+
+msgid "%X%P: unknown feature `%s'\n"
+msgstr ""
+
+msgid "%X%P: unknown language `%s' in version information\n"
+msgstr ""
+
+msgid ""
+"%X%P:%S: PHDRS and FILEHDR are not supported when prior PT_LOAD headers lack"
+" them\n"
+msgstr ""
+
+msgid "%X%P:%S: section has both a load address and a load region\n"
+msgstr ""
+
+msgid "%X%S: unresolvable symbol `%s' referenced in expression\n"
+msgstr ""
+
+msgid "%X%s(%s): can't find member in archive"
+msgstr ""
+
+msgid "%X%s(%s): can't find member in non-archive file"
+msgstr ""
+
+msgid "%XCan't open .lib file: %s\n"
+msgstr ""
+
+msgid "%XCannot export %s: invalid export name\n"
+msgstr ""
+
+msgid "%XCannot export %s: symbol not defined\n"
+msgstr ""
+
+msgid "%XCannot export %s: symbol not found\n"
+msgstr ""
+
+msgid "%XCannot export %s: symbol wrong type (%d vs %d)\n"
+msgstr ""
+
+msgid "%XError, duplicate EXPORT with ordinals: %s (%d vs %d)\n"
+msgstr ""
+
+msgid "%XError, ordinal used twice: %d (%s vs %s)\n"
+msgstr ""
+
+msgid "%XError: %d-bit reloc in dll\n"
+msgstr ""
+
+msgid "%XError: can't use long section names on this arch\n"
+msgstr ""
+
+msgid "%XUnsupported PEI architecture: %s\n"
+msgstr ""
+
+msgid "%Xbfd_openr %s: %E\n"
+msgstr ""
+
+msgid "%s: Can't open output def file %s\n"
+msgstr ""
+
+msgid "%s: data size %ld\n"
+msgstr ""
+
+msgid "%s: emulation specific options:\n"
+msgstr ""
+
+msgid "%s: supported emulations: "
+msgstr ""
+
+msgid "%s: supported targets:"
+msgstr "%sརྒྱབ་སྐྱོར་གྱི་དམིགས་འབེན།"
+
+msgid "%s: total time in link: %ld.%06ld\n"
+msgstr ""
+
+msgid "; no contents available\n"
+msgstr ""
+
+msgid "<no plugin>"
+msgstr ""
+
+msgid "ADDRESS"
+msgstr "ཤག་གནས།"
+
+msgid "ARCH"
+msgstr ""
+
+msgid "ARG"
+msgstr ""
+
+msgid "Accept input files whose architecture cannot be determined"
+msgstr ""
+
+msgid "Add DIRECTORY to library search path"
+msgstr ""
+
+msgid "Add data symbols to dynamic list"
+msgstr ""
+
+msgid "Address of section %s set to "
+msgstr ""
+
+msgid "Allow multiple definitions"
+msgstr ""
+
+msgid "Allow unresolved references in shared libraries"
+msgstr ""
+"སྤྱི་སྤྱོད་རྟེན་འབྱུང་གྲངས་མཛོད་ནང་ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ་པའི་ལྟོས་གཞི་ཡོད་ཆོག་པ།"
+
+msgid ""
+"Always set DT_NEEDED for dynamic libraries mentioned on\n"
+"                                the command line"
+msgstr ""
+
+msgid ""
+"Archive member included to satisfy reference by file (symbol)\n"
+"\n"
+msgstr ""
+
+msgid "Attributes"
+msgstr "གཏོགས་གཤིས།"
+
+msgid "Auxiliary filter for shared object symbol table"
+msgstr ""
+"མཉམ་སྤྱོད་བྱ་ཡུལ་རྟགས་ཀྱི་རེའུ་མིག་ག་གེ་མོར་དམིགས་པའི་རམ་འདེགས་འཚག་ཆས།"
+
+msgid "Bind global function references locally"
+msgstr ""
+
+msgid "Bind global references locally"
+msgstr ""
+
+msgid "Build global constructor/destructor tables"
+msgstr ""
+
+msgid "COUNT"
+msgstr "གྲངས་བགྲང་།"
+
+msgid "Call SYMBOL at load-time"
+msgstr "ཁུར་སྣོན་དུས་ཚོད་འདོན་སྤྱོད་རྟགས།"
+
+msgid "Call SYMBOL at unload-time"
+msgstr "བཤིག་འདོན་དུས་ཚོད་འདོན་སྤྱོད་རྟགས།"
+
+msgid "Check section addresses for overlaps (default)"
+msgstr ""
+
+msgid ""
+"Common symbol       size              file\n"
+"\n"
+msgstr ""
+
+msgid "Copy DT_NEEDED links mentioned inside DSOs that follow"
+msgstr ""
+
+msgid "Copyright 2014 Free Software Foundation, Inc.\n"
+msgstr ""
+
+msgid "Create a position independent executable"
+msgstr ""
+"གནས་ཡུལ་དང་འབྲེལ་བ་མེད་པའི་ལག་བསྟར་རུང་བའི་ཡིག་ཆ་ཞིག་གྲུབ་པར་བྱེད་དགོས།"
+
+msgid "Create a shared library"
+msgstr ""
+
+msgid "Create an output file even if errors occur"
+msgstr "ནོར་འཁྲུལ་བྱུང་ཡང་ཕྱིར་འདོན་ཡིག་ཆ་བཟོ་དགོས།"
+
+msgid "Create default symbol version"
+msgstr ""
+
+msgid "Create default symbol version for imported symbols"
+msgstr ""
+
+msgid "Creating library file: %s\n"
+msgstr ""
+
+msgid "DIRECTORY"
+msgstr "དཀར་ཆག"
+
+msgid "Default search path for Solaris compatibility"
+msgstr "Solarisཡི་འཆམ་མཐུན་རང་བཞིན་ལ་ཕྱོགས་པའི་ཞུགས་ཆད་བཤེར་འཚོལ་ཐབས་ལམ།"
+
+msgid "Define a symbol"
+msgstr "མཚོན་རྟགས་ཤིག་ལ་མཚན་ཉིད་ཞོག"
+
+msgid "Demangle symbol names [using STYLE]"
+msgstr ""
+
+msgid "Disallow undefined version"
+msgstr ""
+
+msgid "Discard all local symbols"
+msgstr ""
+
+msgid "Discard temporary local symbols (default)"
+msgstr ""
+
+msgid "Display target specific options"
+msgstr ""
+
+msgid "Do not allow unresolved references in object files"
+msgstr ""
+
+msgid "Do not allow unresolved references in shared libs"
+msgstr ""
+
+msgid "Do not check section addresses for overlaps"
+msgstr ""
+
+msgid "Do not copy DT_NEEDED links mentioned inside DSOs that follow"
+msgstr ""
+
+msgid "Do not define Common storage"
+msgstr ""
+
+msgid "Do not demangle symbol names"
+msgstr ""
+
+msgid "Do not link against shared libraries"
+msgstr "མཉམ་སྤྱོད་མཛོད་ལསྦྲེལ་མཐུད་མི་བྱེད་པ།"
+
+msgid "Do not list removed unused sections"
+msgstr "སྤོས་ཟིན་པའི་མ་སྤྱད་པའི་ཚིགས་འགོད་མི་དགོས།"
+
+msgid "Do not page align data"
+msgstr "གཞི་གྲངས་དེ་ཤོག་ངོས་མཐའ་དང་དོ་སྙོམས་མི་བྱེད།"
+
+msgid "Do not page align data, do not make text readonly"
+msgstr ""
+"གཞི་གྲངས་དེ་ཤོག་ངོས་མཐའ་དང་དོ་སྙོམས་མི་བྱེད། textཚིགས་ཀློག་ཙམ་མི་བྱེད།"
+
+msgid "Do not strip symbols in discarded sections"
+msgstr ""
+
+msgid "Do not treat warnings as errors (default)"
+msgstr ""
+
+msgid "Do not use relaxation techniques to reduce code size"
+msgstr ""
+
+msgid "Do task level linking"
+msgstr ""
+
+msgid "Don't discard any local symbols"
+msgstr ""
+
+msgid "Don't merge input [SECTION | orphan] sections"
+msgstr ""
+
+msgid "Don't remove unused sections (default)"
+msgstr "མ་སྤྱད་པའི་ཚིགས་མི་བསུབ་པ།(སོར་བཞག)"
+
+msgid "Don't warn about mismatched input files"
+msgstr "ཟླ་མི་འགྲིག་པའི་ནང་འཇུག་ཡིག་ཆར་ཐ་ཚིག་མི་སྒྲོག་པ།"
+
+msgid "Don't warn on finding an incompatible library"
+msgstr ""
+
+msgid "EMULATION"
+msgstr "འདྲ་བཟོ།"
+
+msgid "End a group"
+msgstr ""
+
+msgid "Errors encountered processing file %s"
+msgstr "ཡིག་ཆ་ %s སྒྲིག་གཅོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Errors encountered processing file %s\n"
+msgstr ""
+
+msgid "Errors encountered processing file %s for interworking\n"
+msgstr ""
+
+msgid "Export all dynamic symbols"
+msgstr "འགུལ་རྣམ་མཚོན་རྟགས་ཚང་མར་ཕྱིར་འདོན་བྱེད།"
+
+msgid "FILE"
+msgstr "ཡིག་ཆ།"
+
+msgid "FILENAME"
+msgstr "ཡིག་ཆའི་མིང་།"
+
+msgid "Fail with %d\n"
+msgstr ""
+
+msgid "File\n"
+msgstr ""
+
+msgid "Filter for shared object symbol table"
+msgstr ""
+"མཉམ་སྤྱོད་བྱ་ཡུལ་རྟགས་ཀྱི་རེའུ་མིག་ག་གེ་མོའི་འཚག་ཆས་སུ་དམིགས་འཛུགས་བྱས།"
+
+msgid "Force common symbols to be defined"
+msgstr ""
+
+msgid "Force generation of file with .exe suffix"
+msgstr ""
+
+msgid "GNU ld %s\n"
+msgstr ""
+
+msgid "Generate embedded relocs"
+msgstr ""
+
+msgid "Generate relocatable output"
+msgstr "བསྐྱར་དུ་གནས་ཐིག་དམིགས་འཛུགས་བྱེད་ཐུབ་པའི་ཕྱིར་འདོན།"
+
+msgid "How many tags to reserve in .dynamic section"
+msgstr ""
+
+msgid ""
+"How to handle unresolved symbols.  <method> is:\n"
+"                                ignore-all, report-all, ignore-in-object-files,\n"
+"                                ignore-in-shared-libs"
+msgstr ""
+
+msgid "Ignored"
+msgstr "སྣང་མེད་དུ་བཞག་ཟིན།"
+
+msgid "Ignored for GCC LTO option compatibility"
+msgstr ""
+
+msgid "Ignored for GCC linker option compatibility"
+msgstr "GCCསྦྲེལ་མཐུད་ཆས་ཀྱི་བདམ་བྱང་འཆམ་མཐུན་རང་བཞིན་ལ་སྣང་མེད་བྱེད།"
+
+msgid "Ignored for Linux compatibility"
+msgstr ""
+
+msgid "Ignored for SVR4 compatibility"
+msgstr "SVR4འཆམ་མཐུན་རང་བཞིན་གྱིས་སྣང་མེད་དུ་བཞག"
+
+msgid "Ignored for SunOS compatibility"
+msgstr ""
+
+msgid "Include all objects from following archives"
+msgstr ""
+
+msgid "Info: resolving %s by linking to %s (auto-import)\n"
+msgstr ""
+
+msgid "Just link symbols (if directory, same as --rpath)"
+msgstr ""
+
+msgid "KEYWORD"
+msgstr "གནད་ཡིག:"
+
+msgid "Keep only symbols listed in FILE"
+msgstr ""
+
+msgid "LIBNAME"
+msgstr "མཛོད་ཀྱི་མིང་།"
+
+msgid "Length"
+msgstr "རིང་ཚད།"
+
+msgid "Link against shared libraries"
+msgstr ""
+
+msgid "Link big-endian objects"
+msgstr ""
+
+msgid "Link little-endian objects"
+msgstr ""
+
+msgid "List removed unused sections on stderr"
+msgstr "ཚད་ལྡན་ནར་བཅོས་ཀྱིས་བསྒྲིག་པའི་སྤོས་ཟིན་བེད་སྤྱོད་བྱས་མེད་པའི་ཚིགས།"
+
+msgid "Load named plugin"
+msgstr ""
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "No symbols\n"
+msgstr ""
+
+msgid "Only set DT_NEEDED for following dynamic libs if used"
+msgstr ""
+
+msgid ""
+"Only use library directories specified on\n"
+"                                the command line"
+msgstr ""
+
+msgid "Optimize output file"
+msgstr ""
+
+msgid "Options:\n"
+msgstr ""
+
+msgid "Origin"
+msgstr "མ་ཚེག"
+
+msgid "Output cross reference table"
+msgstr "ཕྱིར་འདོན་སྣོལ་སྤྱོད་རེའུ་མིག"
+
+msgid "Output lots of information during link"
+msgstr ""
+
+msgid "Override the default sysroot location"
+msgstr ""
+
+msgid "PATH"
+msgstr "འགྲོ་ལམ།"
+
+msgid "PLUGIN"
+msgstr "བསྒར་ལྷུའི་བྱ་རིམ།"
+
+msgid "PROGRAM"
+msgstr "བྱ་རིམ།"
+
+msgid "Page align data, make text readonly"
+msgstr "གཞི་གྲངས་ཤོག་ལྡེབ་ཀྱི་མཐའ་དང་སྙོམས་པ། བཀའ་textཡིས་ཚིགས་ཀློག་ཙམ་གྱིས།"
+
+msgid "Print default output format"
+msgstr "ཞུགས་ཆད་ཕྱིར་འདོན་གྱི་རྣམ་པས་པར་དུ་བསྐྲུན་དགོས།"
+
+msgid "Print map file on standard output"
+msgstr ""
+
+msgid "Print memory usage statistics"
+msgstr ""
+
+msgid "Print option help"
+msgstr ""
+
+msgid "Print version and emulation information"
+msgstr ""
+
+msgid "Print version information"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་འཆར་བ།"
+
+msgid "Read MRI format linker script"
+msgstr ""
+
+msgid "Read default linker script"
+msgstr ""
+
+msgid "Read dynamic list"
+msgstr ""
+
+msgid "Read linker script"
+msgstr "འབྲེལ་མཐུད་འཁྲབ་གཞུང་ཀློག་ལེན།"
+
+msgid "Read options from FILE\n"
+msgstr ""
+
+msgid "Read version information script"
+msgstr ""
+
+msgid "Reduce code size by using target specific optimizations"
+msgstr ""
+
+msgid "Reduce memory overheads, possibly taking much longer"
+msgstr ""
+
+msgid "Reject input files whose architecture is unknown"
+msgstr ""
+
+msgid "Remove unused sections (on some targets)"
+msgstr ""
+
+msgid "Report bugs to %s\n"
+msgstr ""
+
+msgid "Report unresolved symbols as errors"
+msgstr "ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ་པའི་མཚོན་རྟགས་ནོར་འཁྲུལ་དུ་བརྩི་བ།"
+
+msgid "Report unresolved symbols as warnings"
+msgstr "ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ་པའི་མཚོན་རྟགས་ཐ་ཚིག་ཏུ་བརྩི་བ།"
+
+msgid "SECTION=ADDRESS"
+msgstr "ཚིགས=ཤག་གནས།"
+
+msgid "SHLIB"
+msgstr "མཉམ་སྤྱོད་མཛོད།"
+
+msgid "SIZE"
+msgstr "SIZE"
+
+msgid "SYMBOL"
+msgstr "མཚོན་རྟགས།"
+
+msgid "SYMBOL=EXPRESSION"
+msgstr "མཚོན་རྟགས=མཚོན་ཚུལ།"
+
+msgid "Search for library LIBNAME"
+msgstr "བཤེར་འཚོལ་མཛོད།མཛོད་མིང་།"
+
+msgid "Send arg to last-loaded plugin"
+msgstr ""
+
+msgid "Set PROGRAM as the dynamic linker to use"
+msgstr ""
+
+msgid "Set address of .bss section"
+msgstr ""
+
+msgid "Set address of .data section"
+msgstr ""
+
+msgid "Set address of .text section"
+msgstr ""
+
+msgid "Set address of ldata segment"
+msgstr ""
+
+msgid "Set address of named section"
+msgstr ""
+
+msgid "Set address of rodata segment"
+msgstr ""
+
+msgid "Set address of text segment"
+msgstr ""
+
+msgid "Set architecture"
+msgstr ""
+
+msgid "Set default hash table size close to <NUMBER>"
+msgstr ""
+
+msgid "Set emulation"
+msgstr ""
+
+msgid "Set internal name of shared library"
+msgstr ""
+
+msgid "Set link time shared library search path"
+msgstr ""
+
+msgid "Set output file name"
+msgstr "ཕྱིར་འདོན་ཡིག་ཆའི་མིང་སྒྲིག་འགོད།"
+
+msgid "Set runtime shared library search path"
+msgstr ""
+
+msgid "Set start address"
+msgstr ""
+
+msgid "Shared library control for HP/UX compatibility"
+msgstr ""
+
+msgid "Small data size (if no size, same as --shared)"
+msgstr ""
+
+msgid "Sort common symbols by alignment [in specified order]"
+msgstr ""
+
+msgid "Sort sections by name or maximum alignment"
+msgstr ""
+
+msgid "Specify target for following input files"
+msgstr ""
+
+msgid "Specify target of output file"
+msgstr ""
+
+msgid "Split output sections every COUNT relocs"
+msgstr ""
+
+msgid "Split output sections every SIZE octets"
+msgstr ""
+
+msgid "Start a group"
+msgstr ""
+
+msgid "Start with undefined reference to SYMBOL"
+msgstr ""
+
+msgid "Strip all symbols"
+msgstr "བརྡ་རྟགས་ཆ་འཕྲིན་ཡོད་ཚད་འདོར་དགོས།"
+
+msgid "Strip debugging symbols"
+msgstr ""
+
+msgid "Strip symbols in discarded sections"
+msgstr ""
+
+msgid "Supported emulations: "
+msgstr ""
+
+msgid "Symbol"
+msgstr "རྟགས།"
+
+msgid "TARGET"
+msgstr ""
+
+msgid ""
+"Take export symbols list from .exports, using\n"
+"                                SYMBOL as the version."
+msgstr ""
+
+msgid ""
+"This program is free software; you may redistribute it under the terms of\n"
+"the GNU General Public License version 3 or (at your option) a later version.\n"
+"This program has absolutely no warranty.\n"
+msgstr ""
+
+msgid "Trace file opens"
+msgstr ""
+
+msgid "Trace mentions of SYMBOL"
+msgstr ""
+
+msgid "Treat warnings as errors"
+msgstr "ཐ་ཚིག་ནོར་འཁྲུལ་དུ་བརྩི་བ།"
+
+msgid "Turn off --whole-archive"
+msgstr ""
+
+msgid "Undo the effect of --export-dynamic"
+msgstr ""
+
+msgid "Unresolved SYMBOL will not cause an error or warning"
+msgstr ""
+
+msgid "Usage: %s [options] file...\n"
+msgstr ""
+
+msgid "Use --disable-stdcall-fixup to disable these fixups\n"
+msgstr ""
+
+msgid "Use --enable-stdcall-fixup to disable these warnings\n"
+msgstr ""
+
+msgid "Use C++ operator new/delete dynamic list"
+msgstr ""
+
+msgid "Use C++ typeinfo dynamic list"
+msgstr ""
+
+msgid "Use less memory and more disk I/O"
+msgstr ""
+
+msgid "Use same format as native linker"
+msgstr ""
+
+msgid "Use wrapper functions for SYMBOL"
+msgstr "ཐུམ་སྒྲིལ་རྟེན་འབྱུང་གྲངས་བེད་སྤྱོད་[མཚོན་རྟགས]ལ་བརྩི་བ།"
+
+msgid "Warn about duplicate common symbols"
+msgstr "བསྐྱར་ཟློས་ཀྱི་སྤྱི་རྟགས་ལ་ཉེན་བརྡ་གཏོང་བ།"
+
+msgid "Warn if an object has alternate ELF machine code"
+msgstr ""
+
+msgid "Warn if global constructors/destructors are seen"
+msgstr ""
+
+msgid "Warn if shared object has DT_TEXTREL"
+msgstr ""
+
+msgid "Warn if start of section changes due to alignment"
+msgstr ""
+
+msgid "Warn if the multiple GP values are used"
+msgstr ""
+
+msgid "Warn only once per undefined symbol"
+msgstr ""
+
+msgid "Warning, duplicate EXPORT: %s\n"
+msgstr ""
+
+msgid "Warning: resolving %s by linking to %s\n"
+msgstr ""
+
+msgid "Write a map file"
+msgstr ""
+
+msgid "[=COUNT]"
+msgstr ""
+
+msgid "[=NUMBER]"
+msgstr ""
+
+msgid "[=SECTION]"
+msgstr ""
+
+msgid "[=SIZE]"
+msgstr ""
+
+msgid "[=STYLE]"
+msgstr "[=ཁྱད་ཆོས།]"
+
+msgid "[=ascending|descending]"
+msgstr ""
+
+msgid "alignment"
+msgstr "སྙོམ་སྒྲིག"
+
+msgid "ascending"
+msgstr ""
+
+msgid "attempt to open %s failed\n"
+msgstr ""
+
+msgid "attempt to open %s succeeded\n"
+msgstr ""
+
+msgid "built in linker script"
+msgstr ""
+
+msgid "cannot find script file %s\n"
+msgstr ""
+
+msgid "could not create dummy IR bfd: %F%E\n"
+msgstr ""
+
+msgid "descending"
+msgstr ""
+
+msgid "name"
+msgstr "མིང་།"
+
+msgid "name|alignment"
+msgstr ""
+
+msgid "no symbol"
+msgstr ""
+
+msgid "opened script file %s\n"
+msgstr ""
+
+msgid "using external linker script:"
+msgstr ""
+
+msgid "using internal linker script:"
+msgstr ""
+
+msgid "warning: "
+msgstr "ཐ་ཚིག"

@@ -1,0 +1,2041 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"    The file is already fully retrieved; nothing to do.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"%*s[ skipping %sK ]"
+msgstr ""
+
+msgid ""
+"\n"
+"%s received, redirecting output to %s.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"%s received.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Originally written by Hrvoje Niksic <hniksic@xemacs.org>.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"REST failed, starting from scratch.\n"
+msgstr ""
+
+msgid "       --accept-regex=REGEX        regex matching accepted URLs\n"
+msgstr ""
+
+msgid "       --ask-password              prompt for passwords\n"
+msgstr ""
+
+msgid ""
+"       --auth-no-challenge         send Basic HTTP authentication information\n"
+"                                     without first waiting for the server's\n"
+"                                     challenge\n"
+msgstr ""
+
+msgid ""
+"       --backups=N                 before writing file X, rotate up to N "
+"backup files\n"
+msgstr ""
+
+msgid ""
+"       --bind-address=ADDRESS      bind to ADDRESS (hostname or IP) on local"
+" host\n"
+msgstr ""
+
+msgid ""
+"       --body-data=STRING          send STRING as data. --method MUST be "
+"set\n"
+msgstr ""
+
+msgid ""
+"       --body-file=FILE            send contents of FILE. --method MUST be "
+"set\n"
+msgstr ""
+
+msgid "       --ca-certificate=FILE       file with the bundle of CAs\n"
+msgstr ""
+
+msgid ""
+"       --ca-directory=DIR          directory where hash list of CAs is "
+"stored\n"
+msgstr ""
+
+msgid "       --certificate-type=TYPE     client certificate type, PEM or DER\n"
+msgstr ""
+
+msgid "       --certificate=FILE          client certificate file\n"
+msgstr ""
+
+msgid "       --config=FILE               specify config file to use\n"
+msgstr ""
+
+msgid "       --connect-timeout=SECS      set the connect timeout to SECS\n"
+msgstr ""
+
+msgid ""
+"       --content-disposition       honor the Content-Disposition header when\n"
+"                                     choosing local file names (EXPERIMENTAL)\n"
+msgstr ""
+
+msgid ""
+"       --content-on-error          output the received content on server "
+"errors\n"
+msgstr ""
+
+msgid ""
+"       --convert-file-only         convert the file part of the URLs only "
+"(usually known as the basename)\n"
+msgstr ""
+
+msgid "       --crl-file=FILE             file with bundle of CRLs\n"
+msgstr ""
+
+msgid ""
+"       --cut-dirs=NUMBER           ignore NUMBER remote directory "
+"components\n"
+msgstr ""
+
+msgid ""
+"       --default-page=NAME         change the default page name (normally\n"
+"                                     this is 'index.html'.)\n"
+msgstr ""
+
+msgid ""
+"       --delete-after              delete files locally after downloading "
+"them\n"
+msgstr ""
+
+msgid "       --dns-timeout=SECS          set the DNS lookup timeout to SECS\n"
+msgstr ""
+
+msgid ""
+"       --egd-file=FILE             file naming the EGD socket with random "
+"data\n"
+msgstr ""
+
+msgid ""
+"       --exclude-domains=LIST      comma-separated list of rejected "
+"domains\n"
+msgstr ""
+
+msgid ""
+"       --follow-ftp                follow FTP links from HTML documents\n"
+msgstr ""
+
+msgid ""
+"       --follow-tags=LIST          comma-separated list of followed HTML "
+"tags\n"
+msgstr ""
+
+msgid "       --ftp-password=PASS         set ftp password to PASS\n"
+msgstr ""
+
+msgid ""
+"       --ftp-stmlf                 use Stream_LF format for all binary FTP "
+"files\n"
+msgstr ""
+
+msgid "       --ftp-user=USER             set ftp user to USER\n"
+msgstr ""
+
+msgid ""
+"       --ftps-clear-data-connection    cipher the control channel only; all "
+"the data will be in plaintext\n"
+msgstr ""
+
+msgid ""
+"       --ftps-fallback-to-ftp          fall back to FTP if FTPS is not "
+"supported in the target server\n"
+msgstr ""
+
+msgid ""
+"       --ftps-implicit                 use implicit FTPS (default port is "
+"990)\n"
+msgstr ""
+
+msgid ""
+"       --ftps-resume-ssl               resume the SSL/TLS session started in the control connection when\n"
+"                                         opening a data connection\n"
+msgstr ""
+
+msgid "       --header=STRING             insert STRING among the headers\n"
+msgstr ""
+
+msgid ""
+"       --hsts-file                 path of HSTS database (will override "
+"default)\n"
+msgstr ""
+
+msgid "       --http-password=PASS        set http password to PASS\n"
+msgstr ""
+
+msgid "       --http-user=USER            set http user to USER\n"
+msgstr ""
+
+msgid "       --https-only                only follow secure HTTPS links\n"
+msgstr ""
+
+msgid ""
+"       --ignore-case               ignore case when matching "
+"files/directories\n"
+msgstr ""
+
+msgid ""
+"       --ignore-length             ignore 'Content-Length' header field\n"
+msgstr ""
+
+msgid ""
+"       --ignore-tags=LIST          comma-separated list of ignored HTML "
+"tags\n"
+msgstr ""
+
+msgid ""
+"       --input-metalink=FILE       download files covered in local Metalink "
+"FILE\n"
+msgstr ""
+
+msgid ""
+"       --keep-session-cookies      load and save session (non-permanent) "
+"cookies\n"
+msgstr ""
+
+msgid "       --limit-rate=RATE           limit download rate to RATE\n"
+msgstr ""
+
+msgid ""
+"       --load-cookies=FILE         load cookies from FILE before session\n"
+msgstr ""
+
+msgid ""
+"       --local-encoding=ENC        use ENC as the local encoding for IRIs\n"
+msgstr ""
+
+msgid ""
+"       --max-redirect              maximum redirections allowed per page\n"
+msgstr ""
+
+msgid ""
+"       --metalink-over-http        use Metalink metadata from HTTP response "
+"headers\n"
+msgstr ""
+
+msgid ""
+"       --method=HTTPMethod         use method \"HTTPMethod\" in the "
+"request\n"
+msgstr ""
+
+msgid "       --no-cache                  disallow server-cached data\n"
+msgstr ""
+
+msgid ""
+"       --no-check-certificate      don't validate the server's certificate\n"
+msgstr ""
+
+msgid "       --no-config                 do not read any config file\n"
+msgstr ""
+
+msgid "       --no-cookies                don't use cookies\n"
+msgstr ""
+
+msgid "       --no-dns-cache              disable caching DNS lookups\n"
+msgstr ""
+
+msgid "       --no-glob                   turn off FTP file name globbing\n"
+msgstr ""
+
+msgid "       --no-hsts                   disable HSTS\n"
+msgstr ""
+
+msgid ""
+"       --no-http-keep-alive        disable HTTP keep-alive (persistent "
+"connections)\n"
+msgstr ""
+
+msgid ""
+"       --no-if-modified-since      don't use conditional if-modified-since get\n"
+"                                     requests in timestamping mode\n"
+msgstr ""
+
+msgid "       --no-iri                    turn off IRI support\n"
+msgstr ""
+
+msgid "       --no-passive-ftp            disable the \"passive\" transfer mode\n"
+msgstr ""
+
+msgid "       --no-proxy                  explicitly turn off proxy\n"
+msgstr ""
+
+msgid "       --no-remove-listing         don't remove '.listing' files\n"
+msgstr ""
+
+msgid ""
+"       --no-use-server-timestamps  don't set the local file's timestamp by\n"
+"                                     the one on the server\n"
+msgstr ""
+
+msgid ""
+"       --no-warc-compression       do not compress WARC files with GZIP\n"
+msgstr ""
+
+msgid "       --no-warc-digests           do not calculate SHA1 digests\n"
+msgstr ""
+
+msgid ""
+"       --no-warc-keep-log          do not store the log file in a WARC "
+"record\n"
+msgstr ""
+
+msgid ""
+"       --password=PASS             set both ftp and http password to PASS\n"
+msgstr ""
+
+msgid ""
+"       --post-data=STRING          use the POST method; send STRING as the "
+"data\n"
+msgstr ""
+
+msgid ""
+"       --post-file=FILE            use the POST method; send contents of "
+"FILE\n"
+msgstr ""
+
+msgid ""
+"       --prefer-family=FAMILY      connect first to addresses of specified family,\n"
+"                                     one of IPv6, IPv4, or none\n"
+msgstr ""
+
+msgid ""
+"       --preferred-location        preferred location for Metalink "
+"resources\n"
+msgstr ""
+
+msgid "       --preserve-permissions      preserve remote file permissions\n"
+msgstr ""
+
+msgid "       --private-key-type=TYPE     private key type, PEM or DER\n"
+msgstr ""
+
+msgid "       --private-key=FILE          private key file\n"
+msgstr ""
+
+msgid "       --progress=TYPE             select progress gauge type\n"
+msgstr ""
+
+msgid "       --protocol-directories      use protocol name in directories\n"
+msgstr ""
+
+msgid "       --proxy-password=PASS       set PASS as proxy password\n"
+msgstr ""
+
+msgid "       --proxy-user=USER           set USER as proxy username\n"
+msgstr ""
+
+msgid ""
+"       --random-file=FILE          file with random data for seeding the SSL"
+" PRNG\n"
+msgstr ""
+
+msgid ""
+"       --random-wait               wait from 0.5*WAIT...1.5*WAIT secs "
+"between retrievals\n"
+msgstr ""
+
+msgid "       --read-timeout=SECS         set the read timeout to SECS\n"
+msgstr ""
+
+msgid ""
+"       --referer=URL               include 'Referer: URL' header in HTTP "
+"request\n"
+msgstr ""
+
+msgid "       --regex-type=TYPE           regex type (posix)\n"
+msgstr ""
+
+msgid "       --regex-type=TYPE           regex type (posix|pcre)\n"
+msgstr ""
+
+msgid "       --reject-regex=REGEX        regex matching rejected URLs\n"
+msgstr ""
+
+msgid ""
+"       --rejected-log=FILE         log reasons for URL rejection to FILE\n"
+msgstr ""
+
+msgid ""
+"       --remote-encoding=ENC       use ENC as the default remote encoding\n"
+msgstr ""
+
+msgid ""
+"       --report-speed=TYPE         output bandwidth as TYPE.  TYPE can be "
+"bits\n"
+msgstr ""
+
+msgid ""
+"       --restrict-file-names=OS    restrict chars in file names to ones OS "
+"allows\n"
+msgstr ""
+
+msgid ""
+"       --retr-symlinks             when recursing, get linked-to files (not "
+"dir)\n"
+msgstr ""
+
+msgid "       --retry-connrefused         retry even if connection is refused\n"
+msgstr ""
+
+msgid "       --save-cookies=FILE         save cookies to FILE after session\n"
+msgstr ""
+
+msgid "       --save-headers              save the HTTP headers to file\n"
+msgstr ""
+
+msgid ""
+"       --secure-protocol=PR        choose secure protocol, one of auto, SSLv2,\n"
+"                                     SSLv3, TLSv1 and PFS\n"
+msgstr ""
+
+msgid ""
+"       --show-progress             display the progress bar in any verbosity"
+" mode\n"
+msgstr ""
+
+msgid "       --spider                    don't download anything\n"
+msgstr ""
+
+msgid ""
+"       --start-pos=OFFSET          start downloading from zero-based "
+"position OFFSET\n"
+msgstr ""
+
+msgid ""
+"       --strict-comments           turn on strict (SGML) handling of HTML "
+"comments\n"
+msgstr ""
+
+msgid ""
+"       --trust-server-names        use the name specified by the redirection\n"
+"                                     URL's last component\n"
+msgstr ""
+
+msgid "       --unlink                    remove file before clobber\n"
+msgstr ""
+
+msgid "       --user=USER                 set both ftp and http user to USER\n"
+msgstr ""
+
+msgid ""
+"       --waitretry=SECONDS         wait 1..SECONDS between retries of a "
+"retrieval\n"
+msgstr ""
+
+msgid "       --warc-cdx                  write CDX index files\n"
+msgstr ""
+
+msgid ""
+"       --warc-dedup=FILENAME       do not store records listed in this CDX "
+"file\n"
+msgstr ""
+
+msgid ""
+"       --warc-file=FILENAME        save request/response data to a .warc.gz "
+"file\n"
+msgstr ""
+
+msgid ""
+"       --warc-header=STRING        insert STRING into the warcinfo record\n"
+msgstr ""
+
+msgid ""
+"       --warc-max-size=NUMBER      set maximum size of WARC files to "
+"NUMBER\n"
+msgstr ""
+
+msgid ""
+"       --warc-tempdir=DIRECTORY    location for temporary files created by the\n"
+"                                     WARC writer\n"
+msgstr ""
+
+msgid "       --wdebug                    print Watt-32 debug output\n"
+msgstr ""
+
+msgid "    %s (env)\n"
+msgstr ""
+
+msgid "    %s (system)\n"
+msgstr ""
+
+msgid "    %s (user)\n"
+msgstr ""
+
+msgid ""
+"    %s: certificate common name %s doesn't match requested host name %s.\n"
+msgstr ""
+
+msgid ""
+"    %s: certificate common name is invalid (contains a NUL character).\n"
+"    This may be an indication that the host is not who it claims to be\n"
+"    (that is, it is not the real %s).\n"
+msgstr ""
+
+msgid "  -4,  --inet4-only                connect only to IPv4 addresses\n"
+msgstr ""
+
+msgid "  -6,  --inet6-only                connect only to IPv6 addresses\n"
+msgstr ""
+
+msgid ""
+"  -A,  --accept=LIST               comma-separated list of accepted "
+"extensions\n"
+msgstr ""
+
+msgid ""
+"  -B,  --base=URL                  resolves HTML input-file links (-i -F)\n"
+"                                     relative to URL\n"
+msgstr ""
+
+msgid ""
+"  -D,  --domains=LIST              comma-separated list of accepted "
+"domains\n"
+msgstr ""
+
+msgid ""
+"  -E,  --adjust-extension          save HTML/CSS documents with proper "
+"extensions\n"
+msgstr ""
+
+msgid "  -F,  --force-html                treat input file as HTML\n"
+msgstr ""
+
+msgid "  -H,  --span-hosts                go to foreign hosts when recursive\n"
+msgstr ""
+
+msgid "  -I,  --include-directories=LIST  list of allowed directories\n"
+msgstr ""
+
+msgid ""
+"  -K,  --backup-converted          before converting file X, back up as "
+"X.orig\n"
+msgstr ""
+
+msgid ""
+"  -K,  --backup-converted          before converting file X, back up as "
+"X_orig\n"
+msgstr ""
+
+msgid "  -L,  --relative                  follow relative links only\n"
+msgstr ""
+
+msgid ""
+"  -N,  --timestamping              don't re-retrieve files unless newer than\n"
+"                                     local\n"
+msgstr ""
+
+msgid "  -O,  --output-document=FILE      write documents to FILE\n"
+msgstr ""
+
+msgid "  -P,  --directory-prefix=PREFIX   save files to PREFIX/..\n"
+msgstr ""
+
+msgid "  -Q,  --quota=NUMBER              set retrieval quota to NUMBER\n"
+msgstr ""
+
+msgid ""
+"  -R,  --reject=LIST               comma-separated list of rejected "
+"extensions\n"
+msgstr ""
+
+msgid "  -S,  --server-response           print server response\n"
+msgstr ""
+
+msgid "  -T,  --timeout=SECONDS           set all timeout values to SECONDS\n"
+msgstr ""
+
+msgid ""
+"  -U,  --user-agent=AGENT          identify as AGENT instead of "
+"Wget/VERSION\n"
+msgstr ""
+
+msgid ""
+"  -V,  --version                   display the version of Wget and exit\n"
+msgstr ""
+
+msgid "  -X,  --exclude-directories=LIST  list of excluded directories\n"
+msgstr ""
+
+msgid "  -a,  --append-output=FILE        append messages to FILE\n"
+msgstr ""
+
+msgid "  -b,  --background                go to background after startup\n"
+msgstr ""
+
+msgid ""
+"  -c,  --continue                  resume getting a partially-downloaded "
+"file\n"
+msgstr ""
+
+msgid "  -d,  --debug                     print lots of debugging information\n"
+msgstr ""
+
+msgid "  -e,  --execute=COMMAND           execute a `.wgetrc'-style command\n"
+msgstr ""
+
+msgid "  -h,  --help                      print this help\n"
+msgstr ""
+
+msgid ""
+"  -i,  --input-file=FILE           download URLs found in local or external "
+"FILE\n"
+msgstr ""
+
+msgid ""
+"  -k,  --convert-links             make links in downloaded HTML or CSS point to\n"
+"                                     local files\n"
+msgstr ""
+
+msgid ""
+"  -l,  --level=NUMBER              maximum recursion depth (inf or 0 for "
+"infinite)\n"
+msgstr ""
+
+msgid ""
+"  -m,  --mirror                    shortcut for -N -r -l inf --no-remove-"
+"listing\n"
+msgstr ""
+
+msgid "  -nH, --no-host-directories       don't create host directories\n"
+msgstr ""
+
+msgid ""
+"  -nc, --no-clobber                skip downloads that would download to\n"
+"                                     existing files (overwriting them)\n"
+msgstr ""
+
+msgid "  -nd, --no-directories            don't create directories\n"
+msgstr ""
+
+msgid ""
+"  -np, --no-parent                 don't ascend to the parent directory\n"
+msgstr ""
+
+msgid ""
+"  -nv, --no-verbose                turn off verboseness, without being "
+"quiet\n"
+msgstr ""
+
+msgid "  -o,  --output-file=FILE          log messages to FILE\n"
+msgstr ""
+
+msgid ""
+"  -p,  --page-requisites           get all images, etc. needed to display "
+"HTML page\n"
+msgstr ""
+
+msgid "  -q,  --quiet                     quiet (no output)\n"
+msgstr ""
+
+msgid "  -r,  --recursive                 specify recursive download\n"
+msgstr ""
+
+msgid ""
+"  -t,  --tries=NUMBER              set number of retries to NUMBER (0 "
+"unlimits)\n"
+msgstr ""
+
+msgid "  -v,  --verbose                   be verbose (this is the default)\n"
+msgstr ""
+
+msgid "  -w,  --wait=SECONDS              wait SECONDS between retrievals\n"
+msgstr ""
+
+msgid "  -x,  --force-directories         force creation of directories\n"
+msgstr ""
+
+msgid "  Issued certificate has expired.\n"
+msgstr ""
+
+msgid "  Issued certificate not yet valid.\n"
+msgstr ""
+
+msgid "  Self-signed certificate encountered.\n"
+msgstr ""
+
+msgid "  Unable to locally verify the issuer's authority.\n"
+msgstr ""
+
+msgid " (%s bytes)"
+msgstr ""
+
+msgid " (unauthoritative)\n"
+msgstr ""
+
+msgid " [following]"
+msgstr ""
+
+msgid "%d redirections exceeded.\n"
+msgstr ""
+
+msgid "%s\n"
+msgstr ""
+
+msgid ""
+"%s (%s) - %s saved [%s/%s]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"%s (%s) - %s saved [%s]\n"
+"\n"
+msgstr ""
+
+msgid "%s (%s) - Connection closed at byte %s. "
+msgstr ""
+
+msgid "%s (%s) - Data connection: %s; "
+msgstr ""
+
+msgid "%s (%s) - Read error at byte %s (%s)."
+msgstr ""
+
+msgid "%s (%s) - Read error at byte %s/%s (%s). "
+msgstr ""
+
+msgid ""
+"%s (%s) - written to stdout %s[%s/%s]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"%s (%s) - written to stdout %s[%s]\n"
+"\n"
+msgstr ""
+
+msgid "%s ERROR %d: %s.\n"
+msgstr ""
+
+msgid "%s URL: %s %2d %s\n"
+msgstr ""
+
+msgid "%s has sprung into existence.\n"
+msgstr ""
+
+msgid "%s request sent, awaiting response... "
+msgstr ""
+
+msgid "%s subprocess"
+msgstr "%s བུ་འཕེལ་རིམ།"
+
+msgid "%s subprocess failed"
+msgstr "%sབུ་འཕེལ་རིམ་ཕམ་པ།"
+
+msgid "%s subprocess got fatal signal %d"
+msgstr "%s བུ་འཕེལ་རིམ་གྱིས་བརྡ་རྟགས་ངན་དྲགས %dའབྱོར་བ།"
+
+msgid "%s: %s must only be used once\n"
+msgstr ""
+
+msgid "%s: %s, closing control connection.\n"
+msgstr ""
+
+msgid "%s: %s: Failed to allocate %ld bytes; memory exhausted.\n"
+msgstr ""
+
+msgid "%s: %s: Failed to allocate enough memory; memory exhausted.\n"
+msgstr ""
+
+msgid "%s: %s: Invalid %s; use `on', `off' or `quiet'.\n"
+msgstr ""
+
+msgid "%s: %s: Invalid WARC header %s.\n"
+msgstr ""
+
+msgid "%s: %s: Invalid boolean %s; use `on' or `off'.\n"
+msgstr ""
+
+msgid "%s: %s: Invalid byte value %s\n"
+msgstr ""
+
+msgid "%s: %s: Invalid header %s.\n"
+msgstr ""
+
+msgid "%s: %s: Invalid number %s.\n"
+msgstr ""
+
+msgid "%s: %s: Invalid progress type %s.\n"
+msgstr ""
+
+msgid ""
+"%s: %s: Invalid restriction %s,\n"
+"    use [unix|vms|windows],[lowercase|uppercase],[nocontrol],[ascii].\n"
+msgstr ""
+
+msgid "%s: %s: Invalid time period %s\n"
+msgstr ""
+
+msgid "%s: %s: Invalid value %s.\n"
+msgstr ""
+
+msgid "%s: %s:%d: unknown token \"%s\"\n"
+msgstr ""
+
+msgid "%s: %s:%d: warning: %s token appears before any machine name\n"
+msgstr ""
+
+msgid "%s: %s; disabling logging.\n"
+msgstr ""
+
+msgid "%s: Cannot read %s (%s).\n"
+msgstr ""
+
+msgid "%s: Cannot resolve incomplete link %s.\n"
+msgstr ""
+
+msgid "%s: Couldn't find usable socket driver.\n"
+msgstr ""
+
+msgid "%s: Error in %s at line %d.\n"
+msgstr ""
+
+msgid "%s: Invalid --execute command %s\n"
+msgstr ""
+
+msgid "%s: Invalid URL %s: %s\n"
+msgstr ""
+
+msgid "%s: No certificate presented by %s.\n"
+msgstr ""
+
+msgid "%s: Syntax error in %s at line %d.\n"
+msgstr ""
+
+msgid "%s: The certificate of %s has been revoked.\n"
+msgstr ""
+
+msgid "%s: The certificate of %s has expired.\n"
+msgstr ""
+
+msgid "%s: The certificate of %s hasn't got a known issuer.\n"
+msgstr ""
+
+msgid "%s: The certificate of %s is not trusted.\n"
+msgstr ""
+
+msgid "%s: The certificate of %s is not yet activated.\n"
+msgstr ""
+
+msgid "%s: The certificate of %s was signed using an insecure algorithm.\n"
+msgstr ""
+
+msgid "%s: The certificate signer of %s was not a CA.\n"
+msgstr ""
+
+msgid "%s: Unknown command %s in %s at line %d.\n"
+msgstr ""
+
+msgid "%s: WGETRC points to %s, which doesn't exist.\n"
+msgstr ""
+
+msgid "%s: Warning: Both system and user wgetrc point to %s.\n"
+msgstr ""
+
+msgid "%s: aprintf: text buffer is too big (%d bytes), aborting.\n"
+msgstr ""
+
+msgid "%s: cannot stat %s: %s\n"
+msgstr ""
+
+msgid "%s: cannot verify %s's certificate, issued by %s:\n"
+msgstr ""
+
+msgid "%s: corrupt time-stamp.\n"
+msgstr ""
+
+msgid "%s: illegal option -- `-n%c'\n"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: missing URL\n"
+msgstr ""
+
+msgid ""
+"%s: no certificate subject alternative name matches\n"
+"\trequested host name %s.\n"
+msgstr ""
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr "%s： འདེམས་ཚན “%s” ནི་གཏན་ཁེལ་མེད་ཕལ་ཆེར།："
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: unable to resolve bind address %s; disabling bind.\n"
+msgstr ""
+
+msgid "%s: unable to resolve host address %s\n"
+msgstr ""
+
+msgid "%s: unknown/unsupported file type.\n"
+msgstr ""
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "(no description)"
+msgstr "(བརྗོད་མེད།)"
+
+msgid "(try:%2d)"
+msgstr ""
+
+msgid ", %s (%s) remaining"
+msgstr ""
+
+msgid ", %s remaining"
+msgstr ""
+
+msgid "-O not supported for metalink download. Ignoring.\n"
+msgstr ""
+
+msgid ""
+"-k or -r can be used together with -O only if outputting to a regular "
+"file.\n"
+msgstr ""
+
+msgid "==> CWD not needed.\n"
+msgstr ""
+
+msgid "==> CWD not required.\n"
+msgstr ""
+
+msgid "Address family for hostname not supported"
+msgstr ""
+
+msgid "All requests done"
+msgstr ""
+
+msgid ""
+"Already have correct symlink %s -> %s\n"
+"\n"
+msgstr ""
+
+msgid "Argument buffer too small"
+msgstr ""
+
+msgid "Authentication selected: %s\n"
+msgstr ""
+
+msgid "BODY data file %s missing: %s\n"
+msgstr ""
+
+msgid "Bad port number"
+msgstr ""
+
+msgid "Bad value for ai_flags"
+msgstr ""
+
+msgid "Bind error (%s).\n"
+msgstr ""
+
+msgid ""
+"Both --no-clobber and --convert-file-only were specified, only --convert-"
+"file-only will be used.\n"
+msgstr ""
+
+msgid ""
+"Both --no-clobber and --convert-links were specified, only --convert-links "
+"will be used.\n"
+msgstr ""
+
+msgid "CDX file does not list checksums. (Missing column 'k'.)\n"
+msgstr ""
+
+msgid "CDX file does not list original urls. (Missing column 'a'.)\n"
+msgstr ""
+
+msgid "CDX file does not list record ids. (Missing column 'u'.)\n"
+msgstr ""
+
+msgid "Can't be verbose and quiet at the same time.\n"
+msgstr ""
+
+msgid "Can't timestamp and not clobber old files at the same time.\n"
+msgstr ""
+
+msgid "Cannot back up %s as %s: %s\n"
+msgstr ""
+
+msgid "Cannot convert links in %s: %s\n"
+msgstr ""
+
+msgid ""
+"Cannot convert timestamp to http format. Falling back to time 0 as last "
+"modification time.\n"
+msgstr ""
+
+msgid "Cannot get REALTIME clock frequency: %s\n"
+msgstr ""
+
+msgid "Cannot initiate PASV transfer.\n"
+msgstr ""
+
+msgid "Cannot open %s: %s"
+msgstr ""
+
+msgid "Cannot open cookies file %s: %s\n"
+msgstr ""
+
+msgid "Cannot parse PASV response.\n"
+msgstr ""
+
+msgid "Cannot specify both --ask-password and --password.\n"
+msgstr ""
+
+msgid "Cannot specify both --inet4-only and --inet6-only.\n"
+msgstr ""
+
+msgid ""
+"Cannot specify both -k or --convert-file-only and -O if multiple URLs are given, or in combination\n"
+"with -p or -r. See the manual for details.\n"
+"\n"
+msgstr ""
+
+msgid "Cannot unlink %s (%s).\n"
+msgstr ""
+
+msgid "Cannot write to %s (%s).\n"
+msgstr ""
+
+msgid "Cannot write to WARC file.\n"
+msgstr ""
+
+msgid "Cannot write to temporary WARC file.\n"
+msgstr ""
+
+msgid "Certificate must be X.509\n"
+msgstr ""
+
+msgid "Checksum matches.\n"
+msgstr ""
+
+msgid "Checksum mismatch for file %s.\n"
+msgstr ""
+
+msgid "Compile: "
+msgstr ""
+
+msgid "Computing checksum for %s\n"
+msgstr ""
+
+msgid "Connecting to %s:%d... "
+msgstr ""
+
+msgid "Connecting to %s|%s|:%d... "
+msgstr ""
+
+msgid "Connecting to [%s]:%d... "
+msgstr ""
+
+msgid "Continuing in background, pid %d.\n"
+msgstr ""
+
+msgid "Continuing in background, pid %lu.\n"
+msgstr ""
+
+msgid "Continuing in background.\n"
+msgstr ""
+
+msgid "Control connection closed.\n"
+msgstr ""
+
+msgid "Conversion from %s to UTF-8 isn't supported\n"
+msgstr ""
+
+msgid "Converted links in %d files in %s seconds.\n"
+msgstr ""
+
+msgid "Converting links in %s... "
+msgstr ""
+
+msgid "Cookie coming from %s attempted to set domain to "
+msgstr ""
+
+msgid "Copyright (C) %s Free Software Foundation, Inc.\n"
+msgstr ""
+
+msgid "Could not create temporary file. Skipping signature download.\n"
+msgstr ""
+
+msgid "Could not download all resources from %s.\n"
+msgstr ""
+
+msgid ""
+"Could not find Metalink data in HTTP response. Downloading file using HTTP "
+"GET.\n"
+msgstr ""
+
+msgid ""
+"Could not find acceptable digest for Metalink resources.\n"
+"Ignoring them.\n"
+msgstr ""
+
+msgid "Could not initialize SSL. It will be disabled."
+msgstr ""
+
+msgid "Could not open CDX file for output.\n"
+msgstr ""
+
+msgid "Could not open WARC file.\n"
+msgstr ""
+
+msgid "Could not open downloaded file for signature verification.\n"
+msgstr ""
+
+msgid "Could not open downloaded file.\n"
+msgstr ""
+
+msgid "Could not open temporary WARC file.\n"
+msgstr ""
+
+msgid "Could not open temporary WARC log file.\n"
+msgstr ""
+
+msgid "Could not open temporary WARC manifest file.\n"
+msgstr ""
+
+msgid "Could not read CDX file %s for deduplication.\n"
+msgstr ""
+
+msgid "Could not seed PRNG; consider using --random-file.\n"
+msgstr ""
+
+msgid "Creating symlink %s -> %s\n"
+msgstr ""
+
+msgid "Data matches signature, but signature is not trusted.\n"
+msgstr ""
+
+msgid "Data transfer aborted.\n"
+msgstr ""
+
+msgid "Debugging support not compiled in. Ignoring --debug flag.\n"
+msgstr ""
+
+msgid ""
+"Digests are disabled; WARC deduplication will not find duplicate records.\n"
+msgstr ""
+
+msgid "Directories:\n"
+msgstr ""
+
+msgid "Directory   "
+msgstr ""
+
+msgid "Disabling SSL due to encountered errors.\n"
+msgstr ""
+
+msgid "Download quota of %s EXCEEDED!\n"
+msgstr ""
+
+msgid "Download:\n"
+msgstr ""
+
+msgid "ERROR"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "ERROR: Cannot open directory %s.\n"
+msgstr ""
+
+msgid "ERROR: Failed to load CRL file '%s': (%d)\n"
+msgstr ""
+
+msgid "ERROR: Failed to open cert %s: (%d).\n"
+msgstr ""
+
+msgid "ERROR: GnuTLS requires the key and the cert to be of the same type.\n"
+msgstr ""
+
+msgid "ERROR: Redirection (%d) without location.\n"
+msgstr ""
+
+msgid "Encoding %s isn't valid\n"
+msgstr ""
+
+msgid "Error closing %s: %s\n"
+msgstr ""
+
+msgid "Error in handling the address list.\n"
+msgstr ""
+
+msgid "Error in proxy URL %s: Must be HTTP.\n"
+msgstr ""
+
+msgid "Error in server greeting.\n"
+msgstr ""
+
+msgid "Error in server response, closing control connection.\n"
+msgstr ""
+
+msgid "Error initializing X509 certificate: %s\n"
+msgstr ""
+
+msgid "Error matching %s against %s: %s\n"
+msgstr ""
+
+msgid "Error opening GZIP stream to WARC file.\n"
+msgstr ""
+
+msgid "Error opening WARC file %s.\n"
+msgstr ""
+
+msgid "Error parsing certificate: %s\n"
+msgstr ""
+
+msgid "Error parsing proxy URL %s: %s.\n"
+msgstr ""
+
+msgid "Error while matching %s: %d\n"
+msgstr ""
+
+msgid "Error writing to %s: %s\n"
+msgstr ""
+
+msgid "Error writing warcinfo record to WARC file.\n"
+msgstr ""
+
+msgid "Exiting due to error in %s\n"
+msgstr ""
+
+msgid ""
+"FINISHED --%s--\n"
+"Total wall clock time: %s\n"
+"Downloaded: %d files, %s in %s (%s)\n"
+msgstr ""
+
+msgid "FTP options:\n"
+msgstr ""
+
+msgid "FTPS options:\n"
+msgstr ""
+
+msgid "Failed reading proxy response: %s\n"
+msgstr ""
+
+msgid "Failed to download %s. Skipping resource.\n"
+msgstr ""
+
+msgid "Failed to unlink symlink %s: %s\n"
+msgstr ""
+
+msgid "Failed writing HTTP request: %s.\n"
+msgstr ""
+
+msgid "File        "
+msgstr ""
+
+msgid "File %s already there; not retrieving.\n"
+msgstr ""
+
+msgid ""
+"File %s already there; not retrieving.\n"
+"\n"
+msgstr ""
+
+msgid "File %s exists.\n"
+msgstr ""
+
+msgid ""
+"File %s not modified on server. Omitting download.\n"
+"\n"
+msgstr ""
+
+msgid "File %s retrieved but checksum does not match. \n"
+msgstr ""
+
+msgid "File %s retrieved but signature does not match. \n"
+msgstr ""
+
+msgid "File `%s' already there; not retrieving.\n"
+msgstr ""
+
+msgid "File has already been retrieved.\n"
+msgstr ""
+
+msgid ""
+"Found %d broken link.\n"
+"\n"
+msgid_plural ""
+"Found %d broken links.\n"
+"\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Found exact match in CDX file. Saving revisit record to WARC.\n"
+msgstr ""
+
+msgid ""
+"Found no broken links.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"GNU Wget %s built on %s.\n"
+"\n"
+msgstr ""
+
+msgid "GNU Wget %s, a non-interactive network retriever.\n"
+msgstr ""
+
+msgid "GPGME data_new_from_mem: %s\n"
+msgstr ""
+
+msgid "GPGME op_verify: %s\n"
+msgstr ""
+
+msgid "GPGME op_verify_result: NULL\n"
+msgstr ""
+
+msgid ""
+"Giving up.\n"
+"\n"
+msgstr ""
+
+msgid "GnuTLS: unimplemented 'secure-protocol' option value %d\n"
+msgstr ""
+
+msgid "HSTS options:\n"
+msgstr ""
+
+msgid "HTTP options:\n"
+msgstr ""
+
+msgid "HTTPS (SSL/TLS) options:\n"
+msgstr ""
+
+msgid "HTTPS support not compiled in"
+msgstr ""
+
+msgid "IPv6 addresses not supported"
+msgstr ""
+
+msgid "Incomplete or invalid multibyte sequence encountered\n"
+msgstr ""
+
+msgid "Index of /%s on %s:%d"
+msgstr ""
+
+msgid "Interrupted by a signal"
+msgstr ""
+
+msgid "Invalid IPv6 numeric address"
+msgstr ""
+
+msgid "Invalid PORT.\n"
+msgstr ""
+
+msgid "Invalid UTF-8 sequence: %s\n"
+msgstr ""
+
+msgid "Invalid back reference"
+msgstr ""
+
+msgid "Invalid character class name"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་རྟགས་རིགས་གྲས་མིང་།"
+
+msgid "Invalid collation character"
+msgstr ""
+
+msgid "Invalid content of \\{\\}"
+msgstr ""
+
+msgid "Invalid dot style specification %s; leaving unchanged.\n"
+msgstr ""
+
+msgid "Invalid host name"
+msgstr "ནུས་མེད་ཀྱི་གཙོ་འཁོར་མིང་།"
+
+msgid "Invalid name of the symlink, skipping.\n"
+msgstr ""
+
+msgid "Invalid preceding regular expression"
+msgstr "ནུས་མེད་ཀྱི་མདུན་བཀོད་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Invalid pri value. Assuming %d.\n"
+msgstr ""
+
+msgid "Invalid range end"
+msgstr ""
+
+msgid "Invalid regular expression"
+msgstr "ནུས་མེད་ཀྱི་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Invalid regular expression %s, %s\n"
+msgstr ""
+
+msgid "Invalid signature. Rejecting resource.\n"
+msgstr ""
+
+msgid "Invalid user name"
+msgstr ""
+
+msgid "Last-modified header invalid -- time-stamp ignored.\n"
+msgstr ""
+
+msgid "Last-modified header missing -- time-stamps turned off.\n"
+msgstr ""
+
+msgid "Length: "
+msgstr ""
+
+msgid "Length: %s"
+msgstr ""
+
+msgid ""
+"License GPLv3+: GNU GPL version 3 or later\n"
+"<http://www.gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+
+msgid "Link        "
+msgstr ""
+
+msgid "Link: "
+msgstr ""
+
+msgid ""
+"Loaded %d record from CDX.\n"
+"\n"
+msgid_plural ""
+"Loaded %d records from CDX.\n"
+"\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Loaded CA certificate '%s'\n"
+msgstr ""
+
+msgid "Loaded CRL file '%s'\n"
+msgstr ""
+
+msgid "Loading robots.txt; please ignore errors.\n"
+msgstr ""
+
+msgid "Locale: "
+msgstr ""
+
+msgid "Location: %s%s\n"
+msgstr ""
+
+msgid "Logged in!\n"
+msgstr ""
+
+msgid "Logging and input file:\n"
+msgstr ""
+
+msgid "Logging in as %s ... "
+msgstr ""
+
+msgid "Logically impossible section reached in getftp()"
+msgstr ""
+
+msgid "Login incorrect.\n"
+msgstr ""
+
+msgid "Mail bug reports and suggestions to <bug-wget@gnu.org>\n"
+msgstr ""
+
+msgid "Malformed status line"
+msgstr ""
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+"\n"
+msgstr ""
+
+msgid "Memory allocation failure"
+msgstr "ནང་གསོག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Memory allocation problem\n"
+msgstr ""
+
+msgid "Memory exhausted"
+msgstr "ནང་གསོག་བཀོལ་ཚར།"
+
+msgid "Metalink headers found. Switching to Metalink mode.\n"
+msgstr ""
+
+msgid "Name or service not known"
+msgstr ""
+
+msgid "No URLs found in %s.\n"
+msgstr ""
+
+msgid "No address associated with hostname"
+msgstr ""
+
+msgid "No certificate found\n"
+msgstr ""
+
+msgid "No data received.\n"
+msgstr ""
+
+msgid "No error"
+msgstr "ནོར་འཁྲུལ་མེད།"
+
+msgid "No headers, assuming HTTP/0.9"
+msgstr ""
+
+msgid "No match"
+msgstr "ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "No matches on pattern %s.\n"
+msgstr ""
+
+msgid "No previous regular expression"
+msgstr ""
+
+msgid ""
+"No such directory %s.\n"
+"\n"
+msgstr ""
+
+msgid "No such file %s.\n"
+msgstr ""
+
+msgid ""
+"No such file %s.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"No such file or directory %s.\n"
+"\n"
+msgstr ""
+
+msgid "Non-recoverable failure in name resolution"
+msgstr ""
+
+msgid "Not descending to %s as it is excluded/not-included.\n"
+msgstr ""
+
+msgid "Not sure    "
+msgstr ""
+
+msgid "OpenSSL: unimplemented 'secure-protocol' option value %d\n"
+msgstr ""
+
+msgid ""
+"Opening WARC file %s.\n"
+"\n"
+msgstr ""
+
+msgid "Output will be written to %s.\n"
+msgstr ""
+
+msgid "Parameter string not correctly encoded"
+msgstr ""
+
+msgid ""
+"Parsing system wgetrc file (env SYSTEM_WGETRC) failed.  Please check\n"
+"'%s',\n"
+"or specify a different file using --config.\n"
+msgstr ""
+
+msgid ""
+"Parsing system wgetrc file failed.  Please check\n"
+"'%s',\n"
+"or specify a different file using --config.\n"
+msgstr ""
+
+msgid "Password for user %s: "
+msgstr ""
+
+msgid "Password: "
+msgstr "གསང་ཨང་།"
+
+msgid "Please report this issue to bug-wget@gnu.org\n"
+msgstr ""
+
+msgid "Please send bug reports and questions to <bug-wget@gnu.org>.\n"
+msgstr ""
+
+msgid "Premature end of regular expression"
+msgstr ""
+
+msgid "Processing request in progress"
+msgstr ""
+
+msgid "Proxy tunneling failed: %s"
+msgstr ""
+
+msgid "Read error (%s) in headers.\n"
+msgstr ""
+
+msgid "Recursion depth %d exceeded max. depth %d.\n"
+msgstr ""
+
+msgid "Recursive accept/reject:\n"
+msgstr ""
+
+msgid "Recursive download:\n"
+msgstr ""
+
+msgid "Regular expression too big"
+msgstr ""
+
+msgid "Rejecting %s.\n"
+msgstr ""
+
+msgid "Remote file does not exist -- broken link!!!\n"
+msgstr ""
+
+msgid ""
+"Remote file exists and could contain further links,\n"
+"but recursion is disabled -- not retrieving.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Remote file exists and could contain links to other resources -- retrieving.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Remote file exists but does not contain any link -- not retrieving.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Remote file exists.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Remote file is newer than local file %s -- retrieving.\n"
+"\n"
+msgstr ""
+
+msgid "Remote file is newer, retrieving.\n"
+msgstr ""
+
+msgid "Remote file no newer than local file %s -- not retrieving.\n"
+msgstr ""
+
+msgid "Removed %s.\n"
+msgstr ""
+
+msgid "Removing %s since it should be rejected.\n"
+msgstr ""
+
+msgid "Removing %s.\n"
+msgstr ""
+
+msgid "Request canceled"
+msgstr ""
+
+msgid "Request not canceled"
+msgstr ""
+
+msgid "Required attribute missing from Header received.\n"
+msgstr ""
+
+msgid "Resolving %s... "
+msgstr ""
+
+msgid "Resource type %s not supported, ignoring...\n"
+msgstr ""
+
+msgid ""
+"Retrying.\n"
+"\n"
+msgstr ""
+
+msgid "Reusing existing connection to %s:%d.\n"
+msgstr ""
+
+msgid "Reusing existing connection to [%s]:%d.\n"
+msgstr ""
+
+msgid "Saving to: %s\n"
+msgstr ""
+
+msgid "Scheme missing"
+msgstr ""
+
+msgid "Server did not accept the 'PBSZ 0' command.\n"
+msgstr ""
+
+msgid "Server did not accept the 'PROT %c' command.\n"
+msgstr ""
+
+msgid "Server error, can't determine system type.\n"
+msgstr ""
+
+msgid ""
+"Server file no newer than local file %s -- not retrieving.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Server ignored If-Modified-Since header for file %s.\n"
+"You might want to add --no-if-modified-since option.\n"
+"\n"
+msgstr ""
+
+msgid "Servname not supported for ai_socktype"
+msgstr ""
+
+msgid "Signature validation suceeded.\n"
+msgstr ""
+
+msgid "Skipping directory %s.\n"
+msgstr ""
+
+msgid ""
+"Specifying both --start-pos and --continue is not recommended; --continue "
+"will be disabled.\n"
+msgstr ""
+
+msgid "Spider mode enabled. Check if remote file exists.\n"
+msgstr ""
+
+msgid "Startup:\n"
+msgstr ""
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Symlinks not supported, skipping symlink %s.\n"
+msgstr ""
+
+msgid "Syntax error in Set-Cookie: %s at position %d.\n"
+msgstr ""
+
+msgid "System error"
+msgstr "རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
+
+msgid "Temporary failure in name resolution"
+msgstr ""
+
+msgid "The certificate has expired\n"
+msgstr ""
+
+msgid "The certificate has not yet been activated\n"
+msgstr ""
+
+msgid "The certificate's owner does not match hostname %s\n"
+msgstr ""
+
+msgid "The server refuses login.\n"
+msgstr ""
+
+msgid "The sizes do not match (local %s) -- retrieving.\n"
+msgstr ""
+
+msgid ""
+"The sizes do not match (local %s) -- retrieving.\n"
+"\n"
+msgstr ""
+
+msgid "This version does not have support for IRIs\n"
+msgstr ""
+
+msgid "To connect to %s insecurely, use `--no-check-certificate'.\n"
+msgstr ""
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Try `%s --help' for more options.\n"
+msgstr ""
+
+msgid "Unable to delete %s: %s\n"
+msgstr ""
+
+msgid "Unable to establish SSL connection.\n"
+msgstr ""
+
+msgid "Unable to get cookie for %s\n"
+msgstr ""
+
+msgid "Unable to parse metalink file %s.\n"
+msgstr ""
+
+msgid "Unable to read signature content from temporary file. Skipping.\n"
+msgstr ""
+
+msgid "Unhandled errno %d\n"
+msgstr ""
+
+msgid "Unknown authentication scheme.\n"
+msgstr ""
+
+msgid "Unknown error"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+
+msgid "Unknown host"
+msgstr ""
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Unknown type `%c', closing control connection.\n"
+msgstr ""
+
+msgid "Unmatched ( or \\("
+msgstr ""
+
+msgid "Unmatched ) or \\)"
+msgstr ""
+
+msgid "Unmatched [ or [^"
+msgstr ""
+
+msgid "Unmatched \\{"
+msgstr ""
+
+msgid "Unsupported algorithm '%s'.\n"
+msgstr ""
+
+msgid "Unsupported listing type, trying Unix listing parser.\n"
+msgstr ""
+
+msgid "Unsupported quality of protection '%s'.\n"
+msgstr ""
+
+msgid "Unsupported scheme %s"
+msgstr ""
+
+msgid "Unterminated IPv6 numeric address"
+msgstr ""
+
+msgid "Usage: %s NETRC [HOSTNAME]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [URL]...\n"
+msgstr ""
+
+msgid "Username/Password Authentication Failed.\n"
+msgstr ""
+
+msgid "Using %s as listing tmp file.\n"
+msgstr ""
+
+msgid "WARC options:\n"
+msgstr ""
+
+msgid ""
+"WARC output does not work with --continue or --start-pos, they will be "
+"disabled.\n"
+msgstr ""
+
+msgid ""
+"WARC output does not work with --no-clobber, --no-clobber will be "
+"disabled.\n"
+msgstr ""
+
+msgid "WARC output does not work with --spider.\n"
+msgstr ""
+
+msgid ""
+"WARC output does not work with timestamping, timestamping will be "
+"disabled.\n"
+msgstr ""
+
+msgid "WARNING"
+msgstr "ཐ་ཚིག "
+
+msgid ""
+"WARNING: combining -O with -r or -p will mean that all downloaded content\n"
+"will be placed in the single file you specified.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"WARNING: timestamping does nothing in combination with -O. See the manual\n"
+"for details.\n"
+"\n"
+msgstr ""
+
+msgid "WARNING: using a weak random seed.\n"
+msgstr ""
+
+msgid "Warning: wildcards not supported in HTTP.\n"
+msgstr ""
+
+msgid "Wgetrc: "
+msgstr ""
+
+msgid ""
+"When downloading signature:\n"
+"%s: %s.\n"
+msgstr ""
+
+msgid "Will not retrieve dirs since depth is %d (max %d).\n"
+msgstr ""
+
+msgid "Write failed, closing control connection.\n"
+msgstr ""
+
+msgid "Wrote HTML-ized index to %s [%s].\n"
+msgstr ""
+
+msgid "Wrote HTML-ized index to %s.\n"
+msgstr ""
+
+msgid "You cannot specify both --body-data and --body-file.\n"
+msgstr ""
+
+msgid "You cannot specify both --post-data and --post-file.\n"
+msgstr ""
+
+msgid ""
+"You cannot use --post-data or --post-file along with --method. --method "
+"expects data through --body-data and --body-file options"
+msgstr ""
+
+msgid ""
+"You must specify a method through --method=HTTPMethod to use with --body-"
+"data or --body-file.\n"
+msgstr ""
+
+msgid "Your OpenSSL version is too old to support TLSv1.1\n"
+msgstr ""
+
+msgid "Your OpenSSL version is too old to support TLSv1.2\n"
+msgstr ""
+
+msgid "_open_osfhandle failed"
+msgstr "_open_osfhandle ཕམ་པ།"
+
+msgid "`"
+msgstr ""
+
+msgid "ai_family not supported"
+msgstr ""
+
+msgid "ai_socktype not supported"
+msgstr ""
+
+msgid "cannot create pipe"
+msgstr "སྦུག་ལམ་གསར་འཛུགས་བྱེད་མི་ཐུབ།"
+
+msgid "cannot restore fd %d: dup2 failed"
+msgstr "ཡིག་ཆའི་ཞིབ་བརྗོད་རྟགས%d：dup2བསྐྱར་གསོ་ཕམ་པ།"
+
+msgid "connected.\n"
+msgstr ""
+
+msgid "couldn't connect to %s port %d: %s\n"
+msgstr ""
+
+msgid ""
+"cwd_count: %d\n"
+"cwd_start: %d\n"
+"cwd_end: %d\n"
+msgstr ""
+
+msgid "done.\n"
+msgstr ""
+
+msgid "done.  "
+msgstr ""
+
+msgid "done.    "
+msgstr ""
+
+msgid "failed: %s.\n"
+msgstr ""
+
+msgid "failed: No IPv4/IPv6 addresses for host.\n"
+msgstr ""
+
+msgid "failed: timed out.\n"
+msgstr ""
+
+msgid "fake_fork() failed\n"
+msgstr ""
+
+msgid "fake_fork_child() failed\n"
+msgstr ""
+
+msgid "gmtime failed. This is probably a bug.\n"
+msgstr ""
+
+msgid "idn_decode failed (%d): %s\n"
+msgstr ""
+
+msgid "idn_encode failed (%d): %s\n"
+msgstr ""
+
+msgid "ignored"
+msgstr "སྣང་མེད་དུ་བཞག་པ།"
+
+msgid "ioctl() failed.  The socket could not be set as blocking.\n"
+msgstr ""
+
+msgid "locale_to_utf8: locale is unset\n"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "nothing to do.\n"
+msgstr ""
+
+msgid "time unknown       "
+msgstr ""
+
+msgid "unspecified"
+msgstr "མཚན་ཉིད་བཞག་མེད་པ།"

@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%R"
+msgstr ""
+
+msgid "%R:%S"
+msgstr ""
+
+msgid "%a %R"
+msgstr ""
+
+msgid "%a %R:%S"
+msgstr ""
+
+msgid "%a %b %e, %R"
+msgstr ""
+
+msgid "%a %b %e, %R:%S"
+msgstr ""
+
+msgid "%a %b %e, %l:%M %p"
+msgstr ""
+
+msgid "%a %b %e, %l:%M:%S %p"
+msgstr ""
+
+msgid "%a %l:%M %p"
+msgstr ""
+
+msgid "%a %l:%M:%S %p"
+msgstr ""
+
+msgid "%l:%M %p"
+msgstr "\"%p %l:%M\""
+
+msgid "%l:%M:%S %p"
+msgstr "\"%p %l:%M:%S\""
+
+msgid "CRTC %d cannot drive output %s"
+msgstr "CRTC %d ཡིས་ཕྱིར་གཏོང་s%སྐུལ་སྒུལ་མི་ཐུབ་པ།"
+
+msgid "CRTC %d does not support rotation=%d"
+msgstr ""
+
+msgid "CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d)\n"
+msgstr ""
+
+msgid "Trying modes for CRTC %d\n"
+msgstr ""
+
+msgid "Unspecified"
+msgstr "གཏན་འཁེལ་བྱེད་མེད།"
+
+msgid "cannot clone to output %s"
+msgstr "ཕྱིར་གཏོང་%sདུ་ཁེ་ལུང་བྱེད་ཐབས་བྲལ་བ།"
+
+msgid ""
+"could not assign CRTCs to outputs:\n"
+"%s"
+msgstr ""
+
+msgid ""
+"none of the selected modes were compatible with the possible modes:\n"
+"%s"
+msgstr ""
+
+msgid ""
+"output %s does not have the same parameters as another cloned output:\n"
+"existing mode = %d, new mode = %d\n"
+"existing coordinates = (%d, %d), new coordinates = (%d, %d)\n"
+"existing rotation = %d, new rotation = %d"
+msgstr ""
+
+msgid "output %s does not support mode %dx%d@%dHz"
+msgstr "ཕྱིར་གཏོང་%s ཡིས་%dx%d@%dHzརྣམ་པར་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid ""
+"required virtual size does not fit available size: requested=(%d, %d), "
+"minimum=(%d, %d), maximum=(%d, %d)"
+msgstr ""

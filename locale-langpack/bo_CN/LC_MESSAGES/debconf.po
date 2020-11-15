@@ -1,0 +1,287 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"        --outdated\t\tMerge in even outdated translations.\n"
+"\t--drop-old-templates\tDrop entire outdated templates."
+msgstr ""
+
+msgid ""
+"\n"
+"  -o,  --owner=package\t\tSet the package that owns the command."
+msgstr ""
+
+msgid ""
+"  -f,  --frontend\t\tSpecify debconf frontend to use.\n"
+"  -p,  --priority\t\tSpecify minimum priority question to show.\n"
+"       --terse\t\t\tEnable terse mode.\n"
+msgstr ""
+
+msgid "%s failed to preconfigure, with exit status %s"
+msgstr " %s སྔོན་བཀོད་ཕམ་པ། ཕྱིར་འདོན་རྣམ་པ་ནི་ %sཡིན།"
+
+msgid "%s is broken or not fully installed"
+msgstr "%s བརླགས་པ་ཡང་ན་སྒྲིག་འཇུག་ལེགས་འགྲུབ་བྱུང་མེད།"
+
+msgid "%s is fuzzy at byte %s: %s"
+msgstr "%s ཡང་དག་མིན། གནས་ས་ %s: %s རུ་ཡིན།"
+
+msgid "%s is fuzzy at byte %s: %s; dropping it"
+msgstr "%s ཡང་དག་ཡིན། གནས་ས %s: %s རུ་ཡིན། བསྐྱུར་བ།"
+
+msgid "%s is missing"
+msgstr "%sམེད།"
+
+msgid "%s is missing; dropping %s"
+msgstr "%s མེད།  %s བསྐྱུར་བ།"
+
+msgid "%s is not installed"
+msgstr ""
+
+msgid "%s is outdated"
+msgstr "%s དུས་བརྒལ་བ།"
+
+msgid "%s is outdated; dropping whole template!"
+msgstr "%s དུས་བརྒལ། མ་དཔེ་ཧྲིལ་བོ་བསྐྱུར་བ།"
+
+msgid "%s must be run as root"
+msgstr "%s ངེས་པར་དུ་ཐོབ་ཐང་ root བྱས་ནས་ལག་བསྟར།"
+
+msgid ""
+"(Enter zero or more items separated by a comma followed by a space (', ').)"
+msgstr ""
+"(ཀླད་ཀོར་ཡང་ན་ཚེག་རྟགས་ལ་སྟོང་ཆ་བསྣན་ནས་(“, ”) "
+"ཡིས་རྣམ་གྲངས་མང་པོའི་མཚམས་གཅོད།)"
+
+msgid "Back"
+msgstr "ཕྱིར་འཐེན།"
+
+msgid "Choices"
+msgstr "འདེམ་པ།"
+
+msgid "Config database not specified in config file."
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆར་བསྟན་པའི་སྡེབ་སྒྲིག་གཞི་གྲངས་མཛོད་མེད།"
+
+msgid "Configuring %s"
+msgstr " %sསྡེབ་སྒྲིག་བྱེད།"
+
+msgid "Debconf"
+msgstr "Debconf"
+
+msgid ""
+"Debconf is not confident this error message was displayed, so it mailed it "
+"to you."
+msgstr ""
+"Debconf ནོར་འཁྲུལ་ཆ་འཕྲིན་འདི་མངོན་ཡོད་མེད་གཏན་མི་འཁེལ། "
+"དེ་བས་དེ་ཁྱེད་ལ་བསྐུར།"
+
+msgid "Debconf on %s"
+msgstr "Debconf  %s རུ་འཁོར་སྐྱོད་བྱེད།"
+
+msgid "Debconf, running at %s"
+msgstr "Debconf，%s རུ་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "Dialog frontend is incompatible with emacs shell buffers"
+msgstr "གླེང་སྒྲོམ་འཆར་ངོས་དང་ Emacs shell ཡི་ལྷོད་གསོག་འཆམ་མཐུན་མིན།"
+
+msgid ""
+"Dialog frontend requires a screen at least 13 lines tall and 31 columns "
+"wide."
+msgstr ""
+"གླེང་སྒྲོམ་འཆར་ངོས་ངེས་པར་དུ་བརྙན་ཡོལ་པར་ངོས་མ་མཐའ་ཡང་ཕྲེང་མཐོ་13 "
+"དང་སྟར་ཞེང་31"
+
+msgid ""
+"Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or "
+"without a controlling terminal."
+msgstr ""
+
+msgid "Enter the items you want to select, separated by spaces."
+msgstr ""
+"ཁྱེད་ཀྱིས་འདེམས་འདོད་པའི་རྣམ་གྲངས་ནང་འཇུག "
+"རྣམ་གྲངས་སོ་སོའི་བར་དུ་སྟོང་ཆས་བཀལ།"
+
+msgid "Extracting templates from packages: %d%%"
+msgstr "མཉེན་ཆས་ཐུམ་ལས་མ་དཔེ།：%d%%འགྲོལ།"
+
+msgid "Help"
+msgstr "རོགས་རམ།"
+
+msgid "Ignoring invalid priority \"%s\""
+msgstr ""
+
+msgid ""
+"Input value, \"%s\" not found in C choices! This should never happen. "
+"Perhaps the templates were incorrectly localized."
+msgstr ""
+
+msgid "More"
+msgstr "དེ་ལས་མང་།"
+
+msgid "Next"
+msgstr "གཞས་ཕྱི་མ།"
+
+msgid ""
+"No usable dialog-like program is installed, so the dialog based frontend "
+"cannot be used."
+msgstr ""
+"སྤྱོད་རུང་གི་གླེང་སྒྲོམ་རིགས་བྱ་རིམ་གང་ཡང་སྒྲིག་འཇུག་བྱས་མེད། "
+"དེ་བས་དེའི་རྣམ་པ་རྨང་བྱས་པའི་འཆར་ངོས་སྤྱོད་མི་ཐུབ།"
+
+msgid "Note: Debconf is running in web mode. Go to http://localhost:%i/"
+msgstr ""
+"མཉམ་འཇོག Debconf web རྣམ་པ་ལྟར་ལག་བསྟར་བྱེད་པ། http://localhost:%i/ "
+"ལ་གཟིགས་རོགས།"
+
+msgid "Package configuration"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འགོད།"
+
+msgid "Preconfiguring packages ...\n"
+msgstr ""
+
+msgid "Problem setting up the database defined by stanza %s of %s."
+msgstr ""
+" %2$sཡི་ཨང་ %1$s "
+"ཡི་ཆ་ཤས་ཀྱིས་གཏན་འཁེལ་བྱས་པའི་གཞི་གྲངས་མཛོད་སྒྲིག་འགོག་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "TERM is not set, so the dialog frontend is not usable."
+msgstr ""
+"རྒྱུད་ཁོངས་ལ་ TERM ཁོར་ཡུག་འགྱུར་ཚད་བཀོད་མེད། "
+"དེ་བས་གླེང་སྒྲོམ་འཆར་ངོས་སྤྱོད་མི་རུང་།"
+
+msgid "Template #%s in %s does not contain a 'Template:' line\n"
+msgstr ""
+
+msgid ""
+"Template #%s in %s has a duplicate field \"%s\" with new value \"%s\". "
+"Probably two templates are not properly separated by a lone newline.\n"
+msgstr ""
+
+msgid "Template database not specified in config file."
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆར་མ་དཔེ་གཞི་གྲངས་མཛོད་སྟོན་མེད།"
+
+msgid "Template parse error near `%s', in stanza #%s of %s\n"
+msgstr ""
+
+msgid "Term::ReadLine::GNU is incompatable with emacs shell buffers."
+msgstr "Term::ReadLine::GNU དང་ Emacs shell ཡི་ལྷོད་གསོག་མི་འཆམ།"
+
+msgid ""
+"The Sigils and Smileys options in the config file are no longer used. Please"
+" remove them."
+msgstr ""
+"སྡེབ་སྒྲིག་ཡིག་ཆའི་ནང་གི་ Sigils དང་ Smileys འདེམས་ཚན་སྤྱོད་རྒྱུ་མིན། "
+"དེ་དག་འདོར་བ།"
+
+msgid ""
+"The editor-based debconf frontend presents you with one or more text files "
+"to edit. This is one such text file. If you are familiar with standard unix "
+"configuration files, this file will look familiar to you -- it contains "
+"comments interspersed with configuration items. Edit the file, changing any "
+"items as necessary, and then save it and exit. At that point, debconf will "
+"read the edited file, and use the values you entered to configure the "
+"system."
+msgstr ""
+
+msgid "This frontend requires a controlling tty."
+msgstr "འཆར་ངོས་འདིས་ཐད་ཀར་བཀོལ་སྤྱོད་ཀྱི་རེ་ཞུ །tty"
+
+msgid "Unable to load Debconf::Element::%s. Failed because: %s"
+msgstr " Debconf::Element::%s ཕབ་འཇུག་མི་ཐུབ། ཕམ་པའི་རྒྱུ་མཚན：%s"
+
+msgid "Unable to start a frontend: %s"
+msgstr "མདུན་སྣེའི་འཆར་ངོས་མགོ་སློང་མི་ཐུབ：%s"
+
+msgid "Unknown template field '%s', in stanza #%s of %s\n"
+msgstr ""
+
+msgid "Usage: debconf [options] command [args]"
+msgstr "སྤྱོད་སྟངས།：debconf [འདེམས་ཚན་] བཀའ་བརྡ་ [ཞུགས་གྲངས་]"
+
+msgid "Usage: debconf-communicate [options] [package]"
+msgstr "སྤྱོད་སྟངས།：debconf-communicate [འདེམས་ཚན་] [མཉེན་ཆས་ཐུམ་]"
+
+msgid "Usage: debconf-mergetemplate [options] [templates.ll ...] templates"
+msgstr ""
+"སྤྱོད་སྟངས།：debconf-mergetemplate [འདེམས་ཚན་] [templates.ll ...] མ་དཔེ།"
+
+msgid ""
+"Usage: dpkg-reconfigure [options] packages\n"
+"  -u,  --unseen-only\t\tShow only not yet seen questions.\n"
+"       --default-priority\tUse default priority instead of low.\n"
+"       --force\t\t\tForce reconfiguration of broken packages.\n"
+"       --no-reload\t\tDo not reload templates. (Use with caution.)"
+msgstr ""
+
+msgid "Valid priorities are: %s"
+msgstr "ནུས་ལྡན་གྱི་སྔོན་ཐོབ་རིམ་པ།：%s"
+
+msgid ""
+"You are using the editor-based debconf frontend to configure your system. "
+"See the end of this document for detailed instructions."
+msgstr ""
+
+msgid "_Help"
+msgstr "རོགས་རམ།(_H)"
+
+msgid "apt-extracttemplates failed: %s"
+msgstr "apt-extracttemplates ཕམ་པ།：%s"
+
+msgid ""
+"debconf-mergetemplate: This utility is deprecated. You should switch to "
+"using po-debconf's po2debconf program."
+msgstr ""
+
+msgid "debconf: can't chmod: %s"
+msgstr "debconf：དབང་ཚད།：%s བཅོས་མི་ཐུབ།"
+
+msgid "delaying package configuration, since apt-utils is not installed"
+msgstr ""
+" apt-utils སྒྲིག་འཇུག་མ་བྱས་པས། "
+"མཉེན་ཆས་ཐུམ་གྱི་སྒྲིག་འགོད་བྱེད་རིམ་ཕྱིར་འགྱངས་པ་ཡིན།"
+
+msgid "falling back to frontend: %s"
+msgstr "མདུན་སྣེའི་འཆར་ངོས།：%s རུ་ལོག"
+
+msgid "must specify some debs to preconfigure"
+msgstr "ངེས་པར་དུ་སྔོན་བཀོད་ཀྱི་ deb ཐུམ་སྟོན།"
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "none of the above"
+msgstr "གོང་གི་ཚང་མ་མིན།"
+
+msgid "please specify a package to reconfigure"
+msgstr "བསྐྱར་འགོད་དགོས་པའི་མཉེན་ཆས་ཐུམ་སྟོན།"
+
+msgid "template parse error: %s"
+msgstr "མ་དཔེ་ཀློག་པ་ནོར་འཁྲུལ།: %s"
+
+msgid "unable to initialize frontend: %s"
+msgstr "མདུན་སྣེའི་འཆར་ངོས།：%sཐོག་མ་ཅན་དུ་སྒྱུར་མི་ཐུབ།"
+
+msgid "unable to re-open stdin: %s"
+msgstr "ཚད་ལྡན་ནང་འཇུག་མགོ་བསྐྱར་སློང་ཕམ་པ།：%s"
+
+msgid ""
+"warning: possible database corruption. Will attempt to repair by adding back"
+" missing question %s."
+msgstr ""
+"ཐ་ཚིག གཞི་གྲངས་མཛོད་བརླགས་སྲིད། ཆད་པའི་རྣམ་གྲངས་ %s ཉམས་གསོ་ཚོད་ལྟ་བྱེད། "
+
+msgid "yes"
+msgstr "ཡིན།"

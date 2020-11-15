@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "- Display Manager"
+msgstr "འཆར་བའི་དོ་དམ་ཆས།"
+
+msgid ""
+"All data created during this guest session will be deleted\n"
+"when you log out, and settings will be reset to defaults.\n"
+"Please save files on some external device, for instance a\n"
+"USB stick, if you would like to access them again later."
+msgstr ""
+
+msgid ""
+"Another alternative is to save files in the\n"
+"/var/guest-data folder."
+msgstr ""
+
+msgid ""
+"As a result the session will not be configured correctly.\n"
+"You should fix the problem as soon as feasible."
+msgstr ""
+
+msgid "Directory to cache information"
+msgstr "འགྱངས་གསོག་ཆ་འཕྲིན་གྱི་དཀར་ཆག་ལ་སྤྱོད་པ།"
+
+msgid "Directory to store running state"
+msgstr "འཁོར་སྐྱོད་རྣམ་པའི་དཀར་ཆག་གསོག་འཇོག"
+
+msgid "Directory to write logs to"
+msgstr "ཉིན་ཐོ་དཀར་ཆག་ཏུ་འབྲི་བ།"
+
+msgid "Error found when loading $CONFIG_FILE:"
+msgstr "$CONFIG_FILE སྐབས་ཤེས་པའི་ནོར་འཁྲུལ་ཀློག་ལེན།："
+
+msgid "File to write PID into"
+msgstr "PIDལ་འབྲི་བྱའི་ཡིག་ཆ།"
+
+msgid "Guest"
+msgstr "མགྲོན་པོ།"
+
+msgid "Print debugging messages"
+msgstr "གཏག་པར་ཚོད་སྒྲིག་ཆ་འཕྲིན།"
+
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr ""
+"“%s --help” "
+"འཁོར་སྐྱོད་ནས་སྤྱོད་རུང་བཀའ་བརྡ་ཕྲེང་འདེམས་ཚན་གྱི་ཆ་ཚང་རེའུ་མིག་ལ་ལྟ།"
+
+msgid ""
+"Run 'dm-tool --help' to see a full list of available command line options."
+msgstr ""
+"dm-tool --help' "
+"འཁོར་སྐྱོད་ཀྱིས་བཀོལ་སྤྱོད་བྱེད་ཆོག་པའི་བཀའ་བརྡའི་རེའུ་མིག་ཆ་ཚང་ལ་ལྟ་བ།"
+
+msgid "Run as unprivileged user, skipping things that require root access"
+msgstr ""
+"ཁྱད་དབང་སྤྱོད་མཁན་མིན་པའི་འཁོར་སྐྱོད་དེ།མཆོང་བརྒལ་ལ root "
+"དབང་ཚད་ཀྱི་བཀོལ་སྤྱོད་དགོས།"
+
+msgid "Show combined configuration"
+msgstr "ཚན་སྡེབ་ཀྱི་སྡེབ་སྒྲིག་འཆར་བ།"
+
+msgid "Show release version"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་འཆར་བ།"
+
+msgid "Temporary Guest Session"
+msgstr "སྐབས་འཕྲལ་སྐུ་མགྲོན་གྱི་གླེང་མོལ།"
+
+msgid "Use configuration file"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་བཀོལ་སྤྱོད།"

@@ -1,0 +1,2146 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"A '\\n' separated list of \"name:color\" as defined by the 'gtk-color-"
+"scheme' setting"
+msgstr ""
+
+msgid ""
+"A font description string describing a font for window titlebars. The size "
+"from the description will only be used if the titlebar-font-size option is "
+"set to 0. Also, this option is disabled if the titlebar-uses-desktop-font "
+"option is set to true."
+msgstr ""
+
+msgid ""
+"A list of IDs of applications that are excluded from this folder. This can "
+"be used to remove applications that would otherwise be included by category."
+msgstr ""
+
+msgid ""
+"A list of categories for which apps will be placed into this folder by "
+"default, in addition to the apps that are listed in the apps key."
+msgstr ""
+
+msgid "Action on title bar double-click"
+msgstr "ཁ་བྱང་ཁག་ཉིས་རྡེབ་བྱེད་སྟངས།"
+
+msgid "Action on title bar middle-click"
+msgstr "དབུས་མཐེབ་ཀྱིས་ཁ་བྱང་སྡེ་ལ་རྡེབ་སྟངས།"
+
+msgid "Action on title bar right-click"
+msgstr "གཡས་མཐེབ་ཀྱིས་ཁ་བྱང་སྡེ་ལ་རྡེབ་སྟངས།"
+
+msgid "Activate the window menu"
+msgstr "སྒེའུ་ཁུང་སྐུལ་སློང་འདེམས་བྱང་།"
+
+msgid "Activate when idle"
+msgstr "ཁོམ་ལོང་སྐབས་སྐུལ་སློང་བྱེད་པ།"
+
+msgid "Allow embedding a keyboard into the window"
+msgstr "མཐེབ་གཞོང་སྒེའུ་ཁུང་དུ་འཛུད་འཇུག་བྱས་ཆོག་པ།"
+
+msgid "Allow logout"
+msgstr "ཐོ་ཁོངས་ནས་སུབ་ཆོག་པ།"
+
+msgid "Allow the session status message to be displayed"
+msgstr "གླེང་ལོལ་རྣམ་པའི་བརྡ་འཕྲིན་ཤར་ཆོག"
+
+msgid ""
+"Allow the session status message to be displayed when the screen is locked.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored."
+msgstr ""
+
+msgid "Allow user switching"
+msgstr "སྤྱོད་མཁན་བརྗེ་ཆོག"
+
+msgid "Always show the Universal Access status icon"
+msgstr "རྒྱུན་དུ་རྒྱུན་སྤྱོད་ཀྱི་ལྟ་སྤྱོད་རྣམ་པའི་རིས་རྟགས་འཆར་བ།"
+
+msgid "Application ID"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམID"
+
+msgid "Applications"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid ""
+"Argument used to execute programs in the terminal defined by the 'exec' key.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored. The default terminal and how to invoke it is handled in GIO."
+msgstr ""
+
+msgid "Arrangement of buttons on the titlebar"
+msgstr "ཁ་བྱང་རེའུ་མིག་མཐེབ་གནོན་བཀོད་པ།"
+
+msgid ""
+"Arrangement of buttons on the titlebar. The value should be a string, such "
+"as \"menu:minimize,maximize,spacer,close\"; the colon separates the left "
+"corner of the window from the right corner, and the button names are comma-"
+"separated. Duplicate buttons are not allowed. Unknown button names are "
+"silently ignored so that buttons can be added in future metacity versions "
+"without breaking older versions. A special spacer tag can be used to insert "
+"some space between two adjacent buttons."
+msgstr ""
+
+msgid "Authenticate proxy server connections"
+msgstr "ར་སྤྲོད་ལས་ཚབ་ཞབས་ཞུ་ཆས་ཀྱི་འབྲེལ་མཐུད།"
+
+msgid "Automatic proxy configuration URL"
+msgstr "རང་འགུལ་ལས་ཚབ་ཀྱི་སྡེབ་སྒྲིག URL"
+
+msgid "Automatically raises the focused window"
+msgstr "རང་འགུལ་ངང་མདོ་གནས་ཐོབ་པའི་སྒེའུ་ཁུང་།"
+
+msgid "Automatically update timezone"
+msgstr "དུས་ཁུལ་རང་འགུལ་གསར་སྒྱུར།"
+
+msgid "Basename of the default keybinding theme used by gtk+."
+msgstr ""
+"gtk+ཡིས་སྤྱད་པའི་སོར་བཞག་མཐེབ་ཀྱིས་སྦྲེལ་བའི་བརྗོད་སྙིང་གི་རྨང་མིང་།（འགྲོ་ལམ་གྱི་ཡིག་ཆའི་མིང་ཚུད་མེད།）"
+" "
+
+msgid "Basename of the default theme used by gtk+."
+msgstr "gtk+སྤྱད་པའི་བརྗོད་སྙིང་གི་རྨང་མིང་། "
+
+msgid "Beep when a key is accepted"
+msgstr "མཐེབ་གནོན་ནང་འཇུག་སྐབས་“སྦི”སྒྲ་གྲགས་པ་དང་ལེན།"
+
+msgid "Beep when a key is first pressed"
+msgstr "མཐེབ་གནོན་ཐེངས་དང་པོར་མར་མནན་དུས་“སྦི”་སྒྲ་གྲགས་པ།"
+
+msgid "Beep when a key is rejected"
+msgstr "མཐེབ་གནོན་དང་ལེན་མི་བྱེད་སྐབས་་“སྦི”་སྒྲ་གྲགས་པ།"
+
+msgid "Beep when a keyboard accessibility feature changes"
+msgstr "མཐེབ་གཞོང་རམ་འདེགས་བྱེད་ནུས་བཟོ་བཅོས་བྱེད་སྐབས་་“སྦི”་སྒྲ་གྲགས་པ།"
+
+msgid "Beep when a modifier is pressed."
+msgstr "རྒྱན་མཐེབ་གནོན་སྐབས་་“སྦི”་སྒྲ་གྲགས་པ།"
+
+msgid "Binding to select the next input source"
+msgstr "ནང་འཇུག་ཁུངས་རྗེས་མ་འདེམ་པ། མཐེབ་གནོན་མནན་ནས་སྦྲེལ་བ།"
+
+msgid "Binding to select the previous input source"
+msgstr "ནང་འཇུག་ཁུངས་གོང་མ་འདེམ་པ། མཐེབ་གནོན་མནན་ནས་སྦྲེལ་བ།"
+
+msgid "Buttons Have Icons"
+msgstr "མཐེབ་གནོན་ལ་རིས་རྟགས་ལྡན་པ།"
+
+msgid "Calendar needs terminal"
+msgstr "ལོ་རྩིས་ལ་མཐའ་སྣེ་དགོས།"
+
+msgid "Can Change Accels"
+msgstr "མྱུར་མཐེབ་བསྒྱུར་ཆོག"
+
+msgid "Caret Tracking Mode"
+msgstr "བར་བཅུག་རྗེས་འདེད་རྣམ་པ།"
+
+msgid "Categories"
+msgstr "རིགས་དབྱེ།"
+
+msgid "Change brightness of blue"
+msgstr "སྔོན་པོའི་གསལ་ཚད་བསྒྱུར་བ།"
+
+msgid "Change brightness of green"
+msgstr "ལྗང་ཁུའི་གསལ་ཚད་བསྒྱུར་བ།"
+
+msgid "Change brightness of red"
+msgstr "དམར་པོའི་གསལ་ཚད་བསྒྱུར་བ།"
+
+msgid "Change contrast of blue"
+msgstr "སྔོན་པོའི་བསྡུར་ཚད་བསྒྱུར་བ།"
+
+msgid "Change contrast of green"
+msgstr "ལྗང་ཁུའི་བསྡུར་ཚད་བསྒྱུར་བ།"
+
+msgid "Change contrast of red"
+msgstr "དམར་པོའི་བསྡུར་ཚད་བསྒྱུར་བ།"
+
+msgid "Click method"
+msgstr "གནོན་ཐབས།"
+
+msgid ""
+"Clicking a window while holding down this modifier key will move the window "
+"(left click), resize the window (middle click), or show the window menu "
+"(right click). The middle and right click operations may be swapped using "
+"the \"resize-with-right-button\" key. Modifier is expressed as "
+"<![CDATA[\"<Alt>\"]]> or <![CDATA[\"<Super>\"]]> for example."
+msgstr ""
+
+msgid "Clip the crosshairs at the center"
+msgstr "ལྟེ་གནས་ནས་རྒྱ་གྲམ་གྱི་འོད་རྟགས་དྲས་རྒྱག"
+
+msgid "Close window"
+msgstr "སྒེའུ་ཁུང་ཁ་རྒྱག"
+
+msgid "Color Saturation"
+msgstr "ཁ་དོག་འདང་ཚད།"
+
+msgid "Color Shading Type"
+msgstr "མདོག་རིམ་འགྱུར་རིགས་གྲས།"
+
+msgid "Color of the crosshairs"
+msgstr "རྒྱ་གྲམ་འོད་རྟགས་ཀྱི་ཁ་དོག"
+
+msgid ""
+"Configures the maximum level of location accuracy applications are allowed "
+"to see. Valid options are 'country', 'city', 'neighborhood', 'street', and "
+"'exact' (typically requires GPS receiver). Please keep in mind that this "
+"only controls what GeoClue will allow applications to see and they can find "
+"user's location on their own using network resources (albeit with street-"
+"level accuracy at best)."
+msgstr ""
+
+msgid "Consider trash and temporary files old after this many days."
+msgstr ""
+"ཉིན་འདི་དག་ལས་བརྒལ་བའི་སྙིགས་སྣོད་དང་གནས་སྐབས་ཡིག་ཆ་དག་ཡིག་ཆ་རྙིང་པར་བརྩི་བ།"
+" "
+
+msgid "Control how new windows get focus"
+msgstr "སྒེའུ་ཁུང་གསར་པས་ཇི་ལྟར་བྱས་ནས་མདོ་གནས་ཐོབ་ལེན་ཚོད་འཛིན་པ།"
+
+msgid "Controls visibility of personal information"
+msgstr "མི་སྒེར་གྱི་ཆ་འཕྲིན་མཐོང་ཐུབ་རང་བཞིན་ཚོད་འཛིན་པ།"
+
+msgid "Current input source"
+msgstr "མིག་སྔའི་ནང་འཇུག་ཁུངས།"
+
+msgid "Current theme"
+msgstr "མིག་སྔའི་བརྗོད་གཞི།"
+
+msgid "Cursor Blink"
+msgstr "འོད་རྟགས་འཚེར་བ།"
+
+msgid "Cursor Blink Time"
+msgstr "འོད་རྟགས་འཕྲོ་བའི་དུས་ཚོད།"
+
+msgid "Cursor Blink Timeout"
+msgstr "འོད་རྟགས་འོད་འཚེར་དུས་བརྒལ།"
+
+msgid "Cursor size"
+msgstr "འོད་རྟགས་ཀྱི་ཆེ་ཆུང་།"
+
+msgid "Cursor theme"
+msgstr "འོད་རྟགས་ཀྱི་བརྗོད་གཞི།"
+
+msgid ""
+"Cursor theme name. Used only by Xservers that support the Xcursor extension."
+msgstr ""
+"འོད་རྟགས་ཀྱི་བརྗོད་གཞིའིའི་མིང་། "
+"Xcursorརྒྱ་སྐྱེད་ལ་རྒྱབ་སྐྱོར་བྱེད་པའི་Xserverཁོ་ནས་སྤྱད་ཆོག "
+
+msgid "Default calendar"
+msgstr "སོར་བཞག་ལོ་ཐོ།"
+
+msgid ""
+"Default calendar application\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored. The preferred calendar application is the application handling the text/calendar mime type."
+msgstr ""
+
+msgid "Default font"
+msgstr "སོར་བཞག་ཡིག་གཟུགས།"
+
+msgid "Default tasks"
+msgstr "སོར་བཞག་ལས་འགན།"
+
+msgid "Default tasks application."
+msgstr "སོར་བཞག་ལས་འགན་ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid ""
+"Defines the names that should be assigned to workspaces. If the list is too "
+"long for the current number of workspaces, names in excess will be ignored. "
+"If the list is too short, or includes empty names, missing values will be "
+"replaced with the default (\"Workspace N\")."
+msgstr ""
+
+msgid "Defines the situations in which the touchpad is enabled."
+msgstr "རེག་པང་ལ་མཚན་ཉིད་བཞག་ནས་སྤྱོད་འགོ་རྩོམ་པའི་གནས་ཚུལ། "
+
+msgid "Delay between repeats in milliseconds."
+msgstr "བསྐྱར་ཟློས་བར་གྱི་དུས་འགྱངས། (ཧའོ་སྐར་ཆ།)"
+
+msgid "Delay in milliseconds for the auto raise option"
+msgstr "སྒེའུ་ཁུང་རང་འགུལ་ངང་མཐོ་རུ་འགྲོ་བའི་དུས་འགྱངས།(ཧའོ་སྐར་ཆ།)"
+
+msgid ""
+"Determines how the image set by wallpaper_filename is rendered. Possible "
+"values are \"none\", \"wallpaper\", \"centered\", \"scaled\", \"stretched\","
+" \"zoom\", \"spanned\"."
+msgstr ""
+
+msgid ""
+"Determines the length in pixels of the vertical and horizontal lines that "
+"make up the crosshairs."
+msgstr ""
+"རྒྱ་གྲམ་འོད་རྟགས་ཀྱི་ཆུ་སྙོམས་ཐིག་དང་དྲང་ཐིག་གི་རིང་ཚད་གྲུབ་སྟངས་གཏན་འཁེལ། "
+"(བརྙན་རྒྱུས་བརྩི་བ།)"
+
+msgid ""
+"Determines the position of the caret within magnified view. The values are:\n"
+"\n"
+"- none: no caret tracking\n"
+"\n"
+"- centered: the image of the caret is displayed at the center of the zoom region (which also represents the point under the system caret) and the magnified contents are scrolled as the system caret moves\n"
+"\n"
+"- proportional: the position of the magnified caret in the zoom region is proportionally the same as the position of the system caret on screen\n"
+"\n"
+"- push: when the magnified caret intersects a boundary of the zoom region, the contents are scrolled into view"
+msgstr ""
+
+msgid ""
+"Determines the position of the focused widget within magnified view.\n"
+"\n"
+"The values are:\n"
+"\n"
+"- none: no focus tracking\n"
+"\n"
+"- centered: the focused image is displayed at the center of the zoom region (which also represents the point under the system focus) and the magnified contents are scrolled as the system focus moves\n"
+"\n"
+"- proportional: the position of the magnified focus in the zoom region is proportionally the same as the position of the system focus on screen\n"
+"\n"
+"- push: when the magnified focus intersects a boundary of the zoom region, the contents are scrolled into view"
+msgstr ""
+
+msgid ""
+"Determines the position of the magnified mouse image within the magnified "
+"view and how it reacts to system mouse movement. The values are - none: no "
+"mouse tracking; - centered: the mouse image is displayed at the center of "
+"the zoom region (which also represents the point under the system mouse) and"
+" the magnified contents are scrolled as the system mouse moves; - "
+"proportional: the position of the magnified mouse in the zoom region is "
+"proportionally the same as the position of the system mouse on screen; - "
+"push: when the magnified mouse intersects a boundary of the zoom region, the"
+" contents are scrolled into view."
+msgstr ""
+
+msgid ""
+"Determines the transparency of the crosshairs, from fully opaque to fully "
+"transparent."
+msgstr ""
+"འོད་རྟགས་ཀྱི་གསལ་ཚད་གནཏ་འཁེལ། རྩ་བ་ནས་མི་གསལ་པ་ནས་ཡོངས་སུ་དྭངས་གསལ་གྱི་བར། "
+
+msgid ""
+"Determines whether applications or the system can generate audible 'beeps'; "
+"may be used in conjunction with 'visual bell' to allow silent 'beeps'."
+msgstr ""
+
+msgid ""
+"Determines whether the crosshairs intersect the magnified mouse sprite, or "
+"are clipped such that the ends of the horizontal and vertical lines surround"
+" the mouse image."
+msgstr ""
+
+msgid ""
+"Determines whether the lightness values are inverted: darker colors become "
+"lighter and vice versa, and white and black are interchanged."
+msgstr ""
+"གསལ་ཚད་ཀྱི་ཐང་དེ་གོ་ལྡོག་མིན་སྒྲིག་གཅོད་པ།ཅུང་ནག་པའི་ཁ་དོག་དེ་ཅུང་གསལ་བར་འགྱུར་བ།ཅིག་ཤོས་དེ་ལས་ལྡོག་པ་སྟེ།"
+" དཀར་ནག་བརྗེ་བ་ཐེབ་པ།"
+
+msgid "Direction to perform a double click ('left', 'right', 'up', 'down')."
+msgstr "ཉིས་རྡེག་ལག་བསྟར་བྱེད་པའི་ཁ་ཕྱོགས།(“left”、“right”、“up”、“down”)"
+
+msgid ""
+"Direction to perform a secondary click ('left', 'right', 'up', 'down')."
+msgstr "རྡེབ་གནོན་ཕལ་བ་ལག་བསྟར་（གཡས་མཐེབ་རྡེབ་གནོན་）གྱི་ཁ་ཕྱོགས། "
+
+msgid "Direction to perform a single click ('left', 'right', 'up', 'down')."
+msgstr "རྐྱང་རྡེབ་ལག་བསྟར་གྱི་ཁ་ཕྱོགས(“left”、“right”、“up”、“down”)。"
+
+msgid "Direction to perform dragging ('left', 'right', 'up', 'down')."
+msgstr "འདྲུད་སྒུལ་ལག་བསྟར་གྱི་ཁ་ཕྱོགས།(“left”、“right”、“up”、“down”)"
+
+msgid "Disable URL and MIME type handlers"
+msgstr " URL དང་ MIME རིགས་ཀྱི་སྒྲིག་གཅོད་ཆས་སྤྱོད་མི་ཆོག"
+
+msgid "Disable all external search providers"
+msgstr "ཕྱིའི་འཚོལ་བཤེར་བྱ་རིམ་ཡོད་ཚད་བཀོལ་མི་ཆོག"
+
+msgid "Disable all external thumbnailers"
+msgstr "ཕྱིའི་བསྡུས་རིས་བྱ་རིམ་ཡོད་ཚད་བཀོལ་མི་ཆོག།"
+
+msgid "Disable command line"
+msgstr "བཀའ་བརྡའི་ཕྲེང་སྤྱད་མི་ཆོག"
+
+msgid "Disable keyboard accessibility after a timeout"
+msgstr "དུས་བརྒལ་རྗེས་མཐེབ་གཞོང་རམ་འདེགས་ནུས་པ་སྤྱོད་མི་ཆོག"
+
+msgid "Disable lock screen"
+msgstr "བརྙན་ཡོལ་དམིགས་འཛིན་སྤྱད་མི་ཆོག"
+
+msgid "Disable log out"
+msgstr "རྩིས་ཐེམ་ནས་སུབ་པ་སྤྱད་མི་ཆོག"
+
+msgid "Disable misfeatures that are required by old or broken applications"
+msgstr ""
+"རྙིང་བའམ་ཡང་ན་གཏོར་སྐྱོན་ཐེབས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་རེ་ཞུའི་རྒྱུན་ལྡན་མིན་པའི་ནུས་པ་བེད་སྤྱོད་བྱས་མི་ཆོག"
+" "
+
+msgid "Disable print setup"
+msgstr "པར་འདེབས་སྒྲིག་འགོད་སྤྱད་མི་ཆོག"
+
+msgid "Disable printing"
+msgstr "པར་འདེབས་སྤྱད་མི་ཆོག"
+
+msgid "Disable saving files to disk"
+msgstr "ཡིག་ཆ་སྡུད་སྡེར་ནང་ཉར་ཚགས་བྱེད་པ་སྤྱད་མི་ཆོག"
+
+msgid "Disable user administration"
+msgstr "སྤྱོད་མཁན་གྱི་དོ་དམ་སྤྱད་མི་ཆོག"
+
+msgid "Disable user switching"
+msgstr "སྤྱོད་མཁན་བརྗེ་བ་སྤྱད་མི་ཆོག"
+
+msgid "Disable when two keys are pressed at the same time"
+msgstr "མཐེབ་གཉིས་དུས་གཅིག་ཏུ་མནན་སྐབས་སྤྱད་མི་ཆོག"
+
+msgid "Distance in pixels before movement will be recognized."
+msgstr "ཆེས་ཆུང་བའི་སྤོ་རུང་གི་བརྙན་རྒྱུའི་བར་ཐག་ཏུ་ངོས་འཛིན་བྱས་ཡོད།"
+
+msgid ""
+"Do not accept a key as being pressed unless held for this many milliseconds."
+msgstr "ཧའོ་སྐར་ཆ་མང་ཉུང་འདི་ཙམ་མནན་ན་ད་གཟོད་མཐེབ་གནོན་མནན་པར་བརྩི། "
+
+msgid "Document font"
+msgstr "ཡིག་ཚགས་ཡིག་གཟུགས།"
+
+msgid "Don't use"
+msgstr "བཀོལ་སྤྱོད་མི་བྱེད་པ།"
+
+msgid "Draw Desktop Background"
+msgstr "ཅོག་ངོས་ཀྱི་རྒྱབ་ལྗོངས་འབྲི་བ།"
+
+msgid "Drawing tablet mapping"
+msgstr "ངོས་ལེབ་རྟེན་འཕྲོ་འབྲི་བ།"
+
+msgid "Duration of the disabling timeout"
+msgstr "དུས་བརྒལ་ཡུན་ཚད་སྤྱད་མི་ཆོག"
+
+msgid "Duration of the timeout before disabling the keyboard accessibility."
+msgstr "མཐེབ་གཞོང་གི་རམ་འདེགས་ནུས་པའི་སྔོན་གྱི་དུས་བརྒལ་ཡུན་ཚད་སྤྱད་མི་ཆོག"
+
+msgid "Dwell click mode"
+msgstr "ལྡིང་འཁོར་རྡེབ་གནོན་རྣམ་པ།"
+
+msgid "Dwell click time"
+msgstr "ལྡིང་འཁོར་རྡེབ་གནོན་དུས་ཚོད།"
+
+msgid ""
+"EDID information of the monitor the tablet is mapped to. Must be in the "
+"format [vendor, product, serial]. [\"\",\"\",\"\"] disables mapping."
+msgstr ""
+
+msgid ""
+"EDID information of the monitor the touchscreen is mapped to. Must be in the"
+" format [vendor, product, serial]. [\"\",\"\",\"\"] disables mapping."
+msgstr ""
+
+msgid "Embedded keyboard command"
+msgstr "ནང་སྒྲིག་མཐེབ་གཞོང་བཀའ་བརྡ།"
+
+msgid "Enable 'Bounce Keys'"
+msgstr "“ཕྱིར་ལྡེམ་མཐེབ་”སྤྱོད་འགོ་ཚུགས་པ།"
+
+msgid "Enable 'Mouse Keys'"
+msgstr "ཙིག་མཐེབ་སྤྱོད་འགོ་ཚུགས་པ།"
+
+msgid "Enable 'Slow Keys'"
+msgstr "དལ་མྱུར་མཐེབ་སྤྱོད་པ།"
+
+msgid "Enable 'Toggle Keys'"
+msgstr "རྗེ་མཐེབ་སྤྱོད་པ།"
+
+msgid "Enable Animations"
+msgstr "འགུལ་རིས་འགོ་སློང་།"
+
+msgid "Enable Toolkit Accessibility"
+msgstr "ལག་ཆའི་སྒམ་གྱི་རམ་འདེགས་ཁྱད་གཤིས་འགོ་སློང་།"
+
+msgid "Enable Visual Bell"
+msgstr "མིག་དབང་གི་དྲིལ་བུ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable accessibility keyboard shortcuts"
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་མཐེབ་གཞོང་མྱུར་མཐེབ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable dwell clicks"
+msgstr "ལྡིང་འཁོར་རྡེབ་གནོན་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable dwell clicks."
+msgstr "ལྡིང་འཁོར་རྡེབ་གནོན་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable lens mode"
+msgstr "རྒྱུ་ཤེལ་རྣམ་པ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable mouse clicks with touchpad"
+msgstr "རེག་པང་བཀོལ་ནས་ཙིག་རྟགས་རྡེབ་གནོན་པ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable notifications"
+msgstr "བརྡ་ཐོ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable simulated secondary clicks"
+msgstr "རྡེབ་གནོན་ཕལ་བ་ལད་ཟློས་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable sound alerts"
+msgstr "སྐད་སྒྲའི་ཐ་ཚིག་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable sticky keys"
+msgstr "འབྱར་མཐེབ་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid ""
+"Enables/disables display of crosshairs centered on the magnified mouse "
+"sprite."
+msgstr ""
+"ཆེར་བསྐྱེད་ཙིག་རྟགས་ཀྱི་སྤྲོ་གསེང་མཚོན་རྟགས་ལྟེ་བར་བྱས་པའི་རྒྱ་གྲམ་འོད་རྟགས་འཆར་མངོན་སྤྱོད་འགོ་རྩོམ་པའམ་འགོག་པ།"
+
+msgid "Excluded applications"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་སྐྱོན་སེལ།"
+
+msgid "Exec Arguments"
+msgstr "Execཞུགས་གྲངས།"
+
+msgid "FTP proxy host name"
+msgstr "FTP ལས་ཚབ་གཙོ་འཁོར་གྱི་མིང་།"
+
+msgid "FTP proxy port"
+msgstr "FTP ལས་ཚབ་མཐུད་སྣེ།"
+
+msgid ""
+"Factor used to enlarge or reduce text display, without changing font size."
+msgstr ""
+"ཡིག་ཆའི་མངོན་ཚད་ལྡབ་གྲངས་ཆེར་བསྐྱེད་དམ་ཆུང་བསྡུ་བྱེད་པ་ལས་ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་བསྒྱུར་མི་དགོས་པ།"
+" "
+
+msgid "Focus Tracking Mode"
+msgstr "མདོ་འདུའི་རྗེས་འདེད་རྣམ་པ།"
+
+msgid "Folder children"
+msgstr "བུ་ཡིག་ཁུག"
+
+msgid "Folder name"
+msgstr "ཡིག་ཁུག་གི་མིང་།"
+
+msgid ""
+"For centered mouse tracking, when the system pointer is at or near the edge "
+"of the screen, the magnified contents continue to scroll such that the "
+"screen edge moves into the magnified view."
+msgstr ""
+
+msgid "Force automatic expanding of banners"
+msgstr "བཙན་ཤེད་བརྡ་ཐོའི་གཞུང་ཐིག་རང་འགྲེམ།"
+
+msgid "GTK IM Module"
+msgstr "GTKའཇུག་ཐབས་དཔེ་དུམ།"
+
+msgid "GTK IM Preedit Style"
+msgstr "GTKའཇུག་ཐབས་ཀྱི་སྔོན་བསྒྲིགས་རྣམ་པ།"
+
+msgid "GTK IM Status Style"
+msgstr "GTKའཇུག་ཐབས་རྣམ་པའི་རྣམ་པ།"
+
+msgid "Geolocation services are enabled."
+msgstr "ས་ཁམས་གནས་བབ་དམིགས་འཛུགས་གྱི་ཞབས་ཞུ་སྤེལ་འགོ་ཚུགས་པ། "
+
+msgid "Gesture double click"
+msgstr "ཉིས་རྡེབ་ལག་བརྡ།"
+
+msgid "Gesture drag click"
+msgstr "འདྲུད་རྡེབ་ལག་བརྡ།"
+
+msgid "Gesture secondary click"
+msgstr "ཕལ་བའི་རྡེབ་གནོན་(གཡས་མཐེབ་)ལག་བརྡ།"
+
+msgid "Gesture single click"
+msgstr "ཆིག་རྡེབ་ལག་བརྡ།"
+
+msgid "Gtk+ Keybinding Theme"
+msgstr "Gtk+མཐེབ་གནོན་གྱིས་བརྗོད་སྙིང་དམིགས་འཛུགས།"
+
+msgid "Gtk+ Theme"
+msgstr "Gtk+བརྗོད་སྙིང།"
+
+msgid "HTTP proxy host name"
+msgstr "HTTP ལས་ཚབ་གཙོ་འཁོར་གྱི་མིང་།"
+
+msgid "HTTP proxy password"
+msgstr "HTTP ལས་ཚབ་གསང་ཨང་།"
+
+msgid "HTTP proxy port"
+msgstr "HTTP ལས་ཚབ་མཐུད་སྣེ།"
+
+msgid "HTTP proxy username"
+msgstr "HTTP ལས་ཚབ་སྤྱོད་མཁན་གྱི་མིང་།"
+
+msgid ""
+"Have GNOME draw the desktop background.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored."
+msgstr ""
+
+msgid "Have file manager handle the desktop"
+msgstr "ཡིག་ཆའི་དོ་དམ་ཆས་ཀྱིས་ཅོག་ངོས་སྒྲིག་གཅོད།"
+
+msgid "Hide all normal windows"
+msgstr "རྒྱུན་གཏན་གྱི་སྒེའུ་ཁུང་ཚང་མ་གབ་པ།"
+
+msgid "How long to accelerate in milliseconds"
+msgstr "ཧའོ་སྐར་ཆ་ག་ཚོད་ཀྱི་རྗེས་སུ་འགྲོས་སྣོན་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "How many milliseconds it takes to go from 0 to maximum speed."
+msgstr "ཧའོ་སྐར་ཆ་ཅི་ཙམ་བརྒྱུད་དེ་མྱུར་ཚད་མཐོ་ཤོས་སུ་སླེབས་པ། "
+
+msgid ""
+"How many milliseconds to wait before mouse movement keys start to operate."
+msgstr ""
+"ཧའོ་སྐར་ཆ་ཅི་ཙམ་སྒུག་རྗེས་ཙིག་རྟགས་སྒུལ་མཐེབ་ཀྱིས་ལས་ཀ་བྱེད་འགོ་ཚུགས་པ། "
+
+msgid "How many pixels per second to move at the maximum speed."
+msgstr "ཆེས་མགྱོགས་པའི་སྐབས་སུ་སྐར་ཆ་རེ་ལ་བརྙན་རྒྱུ་ག་ཚོད་རེ་སྤོ་བ། "
+
+msgid ""
+"How to generate software-emulated buttons, either disabled ('none'), through"
+" specific areas ('areas'), number of fingers ('fingers') or left as hardware"
+" default ('default')."
+msgstr ""
+
+msgid ""
+"How to shade the background color. Possible values are \"horizontal\", "
+"\"vertical\", and \"solid\"."
+msgstr ""
+
+msgid "Icon Theme"
+msgstr "རིས་རྟགས་བརྗོད་སྙིང།"
+
+msgid "Icon theme to use for the panel, nautilus etc."
+msgstr "ངོས་པང་དང་nautilusསོགས་ཀྱི་རིས་རྟགས་བརྗོད་གཞི། "
+
+msgid "If FALSE, application usage will not be monitored and recorded."
+msgstr ""
+"གལ་ཏེ་FALSEཡིན་ན།ཉེར་སྤྱོད་བྱ་རིམ་བཀོལ་སྤྱོད་ཀྱི་གནས་ཚུལ་ལ་ལྟ་ཞིབ་དང་ཟིན་ཐོ་མི་འགོད་།"
+" "
+
+msgid "If FALSE, applications will not remember recently used files."
+msgstr ""
+"གལ་ཏེ་FALSEརུ་སྒྲིག་ན།ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་ཉེ་ཆར་བཀོལ་བའི་ཡིག་ཆ་དྲན་མི་སྲིད།"
+" "
+
+msgid ""
+"If FALSE, no anonymous installation or removal information will be sent to "
+"the vendor."
+msgstr ""
+"གལ་ཏེ་FALSEཡིན་ན།བཟོ་གྲྭ་ལ་མིང་མ་བཀོད་པའི་སྒྲིག་འཇུག་དང་སྤོ་སྒྱུར་གྱི་ཆ་འཕྲིན་གཏོང་མི་སྲིད།"
+" "
+
+msgid "If TRUE, anonymized reports will be sent automatically to the vendor."
+msgstr "གལ་ཏེ་TRUEཡིན་ན།མིང་མ་བཀོད་པའི་སྙན་ཞུ་བཟོ་གྲྭར་རང་སྐྱེལ་བྱེད། "
+
+msgid ""
+"If TRUE, automatically remove files from the trash when they are older than "
+"'old-files-age' days."
+msgstr ""
+
+msgid ""
+"If TRUE, automatically remove temporary files when they are older than 'old-"
+"files-age' days."
+msgstr ""
+"གལ་ཏེ་TRUEཡིན་ན། སྒྲིག་འཇུག་བྱས་པའིod-files-"
+"ageཉིན་གྲངས་ལས་རྙིང་པའི་གནས་སྐབས་ཀྱི་ཡིག་ཆ་རང་བསུབ་བྱེད། "
+
+msgid ""
+"If set to true, and the focus mode is either \"sloppy\" or \"mouse\" then "
+"the focused window will be automatically raised after a delay specified by "
+"the auto-raise-delay key. This is not related to clicking on a window to "
+"raise it, nor to entering a window during drag-and-drop."
+msgstr ""
+
+msgid ""
+"If set to true, the system will make an effort to not divulge the user's "
+"identity on screen or on the network."
+msgstr ""
+"གལ་ཏེ་ "
+"trueརུ་སྒྲིག་ན།རྒྱུད་ཁོངས་གིས་བརྙན་ཡོལ་དང་དྲ་བའི་སྟེང་ནས་སྤྱོད་མཁན་གྱི་ཐོབ་ཐང་ཕྱིར་མངོན་མི་གང་ཐུབ་བྱེད།"
+" "
+
+msgid ""
+"If set to true, then Nautilus will automatically mount media such as user-"
+"visible hard disks and removable media on start-up and media insertion."
+msgstr ""
+
+msgid ""
+"If set to true, then Nautilus will automatically open a folder when media is"
+" automounted. This only applies to media where no known x-content/* type was"
+" detected; for media where a known x-content type is detected, the user "
+"configurable action will be taken instead."
+msgstr ""
+
+msgid ""
+"If set to true, then Nautilus will never prompt nor autorun/autostart "
+"programs when a medium is inserted."
+msgstr ""
+
+msgid "If set to true, then file manager will draw the icons on the desktop."
+msgstr ""
+"གལ་ཏེ་Rueལ་སྒྲིག་ན།ཡིག་ཆའི་དོ་དམ་ཆས་ཀྱིས་ཅོག་ངོས་སྟེང་གི་རིས་རྟགས་འབྲི། "
+
+msgid "If true, applications are allowed to access location information."
+msgstr ""
+"གལ་ཏེ་བདེན་ན། ཉེར་སྤྱོད་བྱ་རིམ་དེ་གནས་གཞིའི་ཆ་འཕྲིན་ལ་བལྟ་རུ་འཇུག་ངེས། "
+
+msgid "If true, display date in the clock, in addition to time."
+msgstr "གལ་ཏེ་ trueཡིན་ན།དུས་ཚོད་ཕུད་ཆུ་ཚོད་ལའང་ཟླ་ཚེ་འཆར། "
+
+msgid "If true, display seconds in the clock."
+msgstr "གལ་ཏེ་ trueཡིན་ན།ཆུ་ཚོད་ཀྱི་གནས་སུ་སྐར་ཆ་ཡི་གྲངས་ཀ་འཆར། "
+
+msgid ""
+"If true, ignore the titlebar-font option, and use the standard application "
+"font for window titles."
+msgstr ""
+"གལ་ཏེ་trueཡིན་ན།ཁ་བྱང་སྡེ་ཡི་ཡིག་གཟུགས་འདེམ་བྱང་སྣང་མེད་གཏོང་བ་མ་ཟད།སྒེའུ་ཁུང་གི་ཁ་བྱང་ལ་ཚད་ལྡན་ཉེར་སྤྱོད་ཡིག་གཟུགས་བཀོལ།"
+" "
+
+msgid ""
+"If true, then connections to the proxy server require authentication. The username/password combo is defined by \"/system/proxy/http/authentication-user\" and \"/system/proxy/http/authentication-password\".\n"
+"\n"
+"This applies only to the http proxy; when using a separate https proxy, there is currently no way to specify that it should use authentication."
+msgstr ""
+
+msgid "Ignore multiple presses of the same key within this many milliseconds."
+msgstr ""
+"ཧའོ་སྐར་ཆ་གཅིག་གི་ནང་དུ་མཐེབ་གནོན་གཅིག་འདྲ་ཐེངས་མང་མནན་པར་སྣང་མེད་བྱེད། "
+
+msgid "Initial Key Repeat Delay"
+msgstr "ཐོག་མའི་མཐེབ་གནོན་བསྐྱར་ཟློས།"
+
+msgid "Initial delay in milliseconds"
+msgstr "ཐོག་མའི་ཕྱིར་འགྱངས།(ཧའོ་སྐར་ཆ།)"
+
+msgid "Initial key repeat delay in milliseconds."
+msgstr "ཐོག་མའི་མཐེབ་གནོན་བསྐྱར་ཟློས་ཕྱིར་འགྱངས།(ཧའོ་སྐར་ཆ།)"
+
+msgid "Input feedback sounds"
+msgstr "ཚུར་ལན་སྐད་འཇུག"
+
+msgid ""
+"Integer factor used to scale windows by. For use on high-dpi screens. 0 "
+"means pick automatically based on monitor."
+msgstr ""
+"སྒེའུ་ཁུང་གི་སྐྱེད་སྐྱུང་ལ་སྤྱོད་པའི་ཧྲིལ་གྲངས་ཞུགས་གྲངས། "
+"དབྱེ་འབྱེད་ཚད་མཐོ་བའི་བརྙན་ཡོལ་ལ་སྤྱོད། "
+"0ཡིས་འཆར་ཆས་ལ་གཞིགས་ནས་རང་འདེམས་བྱེད་པ་མཚོན། "
+
+msgid "Inverse lightness"
+msgstr "ལྡོག་འཁོར་གསལ་ཚད།"
+
+msgid "Key Repeat Interval"
+msgstr "མཐེབ་གནོན་བསྐྱར་ཟློས་བར་ཆོད།"
+
+msgid "Keyboard repeat"
+msgstr "མཐེབ་གཞོང་བསྐྱར་ཟློས།"
+
+msgid "Keyboard shortcut to open the menu bars."
+msgstr "འདེམས་བྱང་ཚན་བྱང་གི་མཐེབ་གཞོང་མྱུར་མཐེབ་ཕྱེ་བ།"
+
+msgid "Left or Top color when drawing gradients, or the solid color."
+msgstr ""
+"རིམ་འགྱུར་སྐབས་གཡོན་ངོས་སམ་གཡས་ངོས་ཀྱི་ཁ་དོག་འབྲི་བ། ཡང་ན་མདོག་གཙང་མ། "
+
+msgid "Length of the crosshairs in pixels"
+msgstr "རྒྱ་གྲམ་འོད་རྟགས་ཀྱི་རིང་ཚད།"
+
+msgid "Length of the cursor blink cycle, in milliseconds."
+msgstr "འོད་འཚེར་འོད་རྟགས་ཀྱི་འཁོར་ཡུན།སྡེ་ཚན་ནི་ཧའོ་སྐར་ཆ་ཡིན། "
+
+msgid "List of XKB options"
+msgstr "XKBའདེམས་བྱང་རེའུ་མིག"
+
+msgid ""
+"List of XKB options. Each option is an XKB option string as defined by "
+"xkeyboard-config's rules files."
+msgstr ""
+
+msgid "List of desktop file IDs for search providers sort order"
+msgstr "བཤེར་འཚོལ་བྱ་རིམ་རིམ་སྒྲིག་ཏུ་བཀོལ་བའི་ཅོག་ངོས་ཡིག་ཆIDརེའུ་མིག"
+
+msgid ""
+"List of desktop file IDs for which the associated default-disabled search "
+"provider should be enabled"
+msgstr ""
+"སོར་བཞག་ཁ་འབྱེད་ལ་མཁོ་བའི་འབྲེལ་ཡོད་བཤེར་འཚོལ་ཞབས་ཞུའི་ནང་ཚུད་པའི་ཅོག་ངོས་ཡིག་ཆIDརེའུ་མིག"
+
+msgid ""
+"List of desktop file IDs for which the associated default-enabled search "
+"provider should be disabled"
+msgstr ""
+"སོར་བཞག་ཁ་འབྱེད་ལ་མཁོ་བའི་འབྲེལ་ཡོད་བཤེར་འཚོལ་ཞབས་ཞུས་ཕར་ཕུད་པའི་ཅོག་ངོས་ཡིག་ཆIDརེའུ་མིག"
+
+msgid ""
+"List of input source identifiers available. Each source is specified as a "
+"tuple of 2 strings. The first string is the type and can be one of 'xkb' or "
+"'ibus'. For 'xkb' sources the second string is 'xkb_layout+xkb_variant' or "
+"just 'xkb_layout' if a XKB variant isn't needed. For 'ibus' sources the "
+"second string is the IBus engine name. An empty list means that the X "
+"server's current XKB layout and variant won't be touched and IBus won't be "
+"used."
+msgstr ""
+
+msgid "List of input sources"
+msgstr "ནང་འཇུག་ཁུངས་ཀྱི་རེའུ་མིག"
+
+msgid ""
+"List of mime-types for which external thumbnailer programs will be disabled"
+msgstr "ཕྱིའི་བསྡུས་རིས་བྱ་རིམ་སྤྱོད་མི་ཆོག་པའི་mimeརིགས་གྲས་རེའུ་མིག"
+
+msgid ""
+"List of relative settings paths at which app-folders are stored. Each folder"
+" uses the org.gnome.desktop.app-folders.folder schema."
+msgstr ""
+
+msgid "List of symbolic names and color equivalents"
+msgstr "མཚོན་རྟགས་མིང་དང་ཁ་དོག་ཚབ་ཨང་གི་ལྟོས་ཟླའི་རེའུ་མིག"
+
+msgid ""
+"List of x-content/* types for which the user have chosen \"Do Nothing\" in "
+"the preference capplet. No prompt will be shown nor will any matching "
+"application be started on insertion of media matching these types."
+msgstr ""
+
+msgid ""
+"List of x-content/* types for which the user have chosen \"Open Folder\" in "
+"the preferences capplet. A folder window will be opened on insertion of "
+"media matching these types."
+msgstr ""
+
+msgid ""
+"List of x-content/* types for which the user have chosen to start an "
+"application in the preference capplet. The preferred application for the "
+"given type will be started on insertion on media matching these types."
+msgstr ""
+
+msgid "List of x-content/* types set to \"Do Nothing\""
+msgstr ""
+
+msgid "List of x-content/* types set to \"Open Folder\""
+msgstr ""
+
+msgid ""
+"List of x-content/* types where the preferred application will be launched"
+msgstr ""
+"འདྲེན་སྤྱོད་ཐོག་འདེམས་ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ x-content/* རིགས་གྲས་རེའུ་མིག"
+
+msgid "Lock on activation"
+msgstr "སྐུལ་སློང་སྐབས་དམིགས་འཛིན།"
+
+msgid "Lock on suspend"
+msgstr "ངང་སྒུག་སྐབས་དམིགས་འཛིན།"
+
+msgid "Logout command"
+msgstr "རྩིས་ཐེམ་ནས་བསུབ་པའི་བཀའ་བརྡ།"
+
+msgid "Lower window below other windows"
+msgstr ""
+
+msgid "Magnification factor"
+msgstr "ཆེར་སྐྱེད་ལྡབ་གྲངས།"
+
+msgid ""
+"Makes all installed input sources available for choosing in System Settings."
+msgstr ""
+"སྒྲིག་འཇུག་བྱས་ཟིན་པའི་ནང་འཇུག་ཁུངས་ཚང་མ་རྒྱུད་ཁོངས་སྒྲིག་འགོད་ཁྲོད་སྒྲིག་ནས་གདམ་ག་བྱེད་རྒྱུར་མཁོ་འདོན་བྱེད་པ།"
+" "
+
+msgid "Maximize window"
+msgstr "སྒེའུ་ཁུང་ཆེས་ཆེར་སྐྱེད།"
+
+msgid "Maximize window horizontally"
+msgstr "སྒེའུ་ཁུང་ཆུ་སྙོམས་ཆེས་ཆེར་བསྐྱེད།"
+
+msgid "Maximize window vertically"
+msgstr "སྒེའུ་ཁུང་དྲང་དཕྱང་ཆེས་ཆེར་བསྐྱེད།"
+
+msgid ""
+"Maximum age for thumbnails in the cache, in days. Set to -1 to disable "
+"cleaning."
+msgstr ""
+"འགྱངས་གསོག་ཁྲོད་ཀྱི་བསྡུས་རིས་ཉར་ཚགས་ཉིན་གྲངས་-1 "
+"ཏུ་སྒྲིག་ཏེ་དུས་བརྒལ་གཙང་སེལ་བཀག་སྡོམ་བྱེད་དགོས། "
+
+msgid ""
+"Maximum size of the thumbnail cache, in megabytes. Set to -1 to disable "
+"cleaning."
+msgstr ""
+"བསྡུས་རིས་ལྷོད་གསོག་གི་ཆེས་ཆེ་བའི་ཚད་གཞི། རྩིས་གཞི་ནི་ MBཡིན།-1 "
+"ཏུ་སྒྲིག་ཏེ་ཚད་རྒལ་གཙང་སེལ་བཀག་སྡོམ་བྱེད་དགོས། "
+
+msgid "Menubar Detachable"
+msgstr "འདེམས་བྱང་སྡེཁ་བྲལ་ཆོག་པ།"
+
+msgid "Menubar accelerator"
+msgstr "འདེམས་བྱང་སྡེ་མྱུར་མཐེབ།"
+
+msgid "Menus Have Icons"
+msgstr "འདེམས་བྱང་ལ་རིས་རྟགས་ལྡན་པ།"
+
+msgid "Menus Have Tearoff"
+msgstr "འདེམས་བྱང་ལ་དབྱེ་ཐིག་ལྡན་པ།"
+
+msgid "Minimize window"
+msgstr "སྒེའུ་ཁུང་ཆེས་ཆུང་བསྡུ།"
+
+msgid "Minimum interval in milliseconds"
+msgstr "ཆེས་ཆུང་བར་ཐག(ཧའོ་སྐར་ཆ།)"
+
+msgid "Modifier to use for modified window click actions"
+msgstr "སྒེའུ་ཁུང་ལ་གནོན་བྱེད་ཀྱི་རྒྱན་མཐེན།"
+
+msgid "Monospace font"
+msgstr "ཞེང་མཚུངས་ཡིག་གཟུགས།"
+
+msgid "Mouse Tracking Mode"
+msgstr "ཙིག་རྟགས་རྗེས་འདེད་རྣམ་པ།"
+
+msgid "Mouse button orientation"
+msgstr "ཙིག་རྟགས་མཐེབ་གནོན་ཁ་ཕྱོགས།"
+
+msgid "Mouse wheel emulation button. 0 to disable the feature."
+msgstr "ཙིག་རྟགས་འགྲིལ་འཁོར་ལད་ཟློས་མཐེབ་གནོན་། 0ཡིས་ཕན་ནུས་འདི་བཀག་པ་མཚོན།"
+
+msgid "Move window"
+msgstr "སྒེའུ་ཁུང་སྤོར་བ།"
+
+msgid "Move window one workspace down"
+msgstr "སྒེའུ་ཁུང་དེ་མར་ལས་ཀའི་ཁུལ་གཅིག་སྤོས།"
+
+msgid "Move window one workspace to the left"
+msgstr "སྒེའུ་ཁུང་དེ་གཡོན་ཏུ་ལས་ཀའི་ཁུལ་གཅིག་སྤོས།"
+
+msgid "Move window one workspace to the right"
+msgstr "སྒེའུ་ཁུང་དེ་གཡསམསུ་ལས་ཀའི་ཁུལ་གཅིག་སྤོས།"
+
+msgid "Move window one workspace up"
+msgstr "སྒེའུ་ཁུང་དེ་ཡར་ལས་ཀའི་ཁུལ་གཅིག་སྤོས།"
+
+msgid "Move window to bottom edge of screen"
+msgstr "སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་མཐིལ་སྣེ་རུ་སྤོས།"
+
+msgid "Move window to bottom left corner"
+msgstr "སྒེའུ་ཁུང་གཡོན་ཟུར་དུ་སྤོས།"
+
+msgid "Move window to bottom right corner"
+msgstr "སྒེའུ་ཁུང་གཡས་ཀྱི་འོག་ཟུར་དུ་སྤོས།"
+
+msgid "Move window to center of screen"
+msgstr "སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་དཀྱིལ་དུ་སྤོས།"
+
+msgid "Move window to last workspace"
+msgstr "སྒེའུ་ཁུང་ནས་མདུན་གྱི་ལས་ཀའི་བར་སྟོང་དུ་སྤོས།"
+
+msgid "Move window to left side of screen"
+msgstr "སྒེའུ་ཁུང་དེ་བརྙན་ཡོལ་གྱི་གཡོན་ཕྱོགས་སུ་སྤོས།"
+
+msgid "Move window to right side of screen"
+msgstr "སྒེའུ་ཁུང་བརྙན་ཡོལ་གྱི་གཡས་འགྲམ་དུ་སྤོ་པ།"
+
+msgid "Move window to the next monitor above"
+msgstr "སྒེའུ་ཁུང་དེ་སྟེང་གི་འཆར་ཆས་སྟེང་དུ་སྤོས།"
+
+msgid "Move window to the next monitor below"
+msgstr "སྒེའུ་ཁུང་དེ་གཤམ་འོག་གི་འཆར་ཆས་སྟེང་དུ་སྤོ་དགོས།"
+
+msgid "Move window to the next monitor on the left"
+msgstr "སྒེའུ་ཁུང་དེ་གཡོན་ཕྱོགས་ཀྱི་འཆར་ཆས་སྟེང་དུ་སྤོས།"
+
+msgid "Move window to the next monitor on the right"
+msgstr "སྒེའུ་ཁུང་གཡས་ཕྱོགས་ཀྱི་འཆར་ཆས་སྟེང་དུ་སྤོས།"
+
+msgid "Move window to top edge of screen"
+msgstr "སྒེའུ་ཁུང་དེ་བརྙན་ཡོལ་རྩེ་གནས་ཀྱི་མཐའ་རུ་སྤོས།"
+
+msgid "Move window to top left corner"
+msgstr "སྒེའུ་ཁུང་གཡོན་ཟུར་དུ་སྤོས།"
+
+msgid "Move window to top right corner"
+msgstr "སྒེའུ་ཁུང་གཡས་ཟུར་དུ་སྤོས།"
+
+msgid "Move window to workspace 1"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་1རུ་སྤོས།"
+
+msgid "Move window to workspace 10"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་10རུ་སྤོས།"
+
+msgid "Move window to workspace 11"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་11ཏུ་སྤོས།"
+
+msgid "Move window to workspace 12"
+msgstr "སྒེའུ་ཁུང་ལས་དོན་ཁུལ་12རུ་སྤོས།"
+
+msgid "Move window to workspace 2"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་2རུ་སྤོས།"
+
+msgid "Move window to workspace 3"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་3རུ་སྤོས།"
+
+msgid "Move window to workspace 4"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་4རུ་སྤོས།"
+
+msgid "Move window to workspace 5"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་5རུ་སྤོས།"
+
+msgid "Move window to workspace 6"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་6ལ་སྤོས།"
+
+msgid "Move window to workspace 7"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་7ལ་སྤོས།"
+
+msgid "Move window to workspace 8"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་8ལ་སྤོས།"
+
+msgid "Move window to workspace 9"
+msgstr "སྒེའུ་ཁུང་དེ་ལས་ཀའི་ཁུལ་9ལ་སྤོས།"
+
+msgid "Movement threshold"
+msgstr "མཚམས་ཐང་སྤོ་བ།"
+
+msgid ""
+"Name of a monospaced (fixed-width) font for use in locations like terminals."
+msgstr "མཐའ་སྣེར་བཀོལ་བའི་ཞེང་མཚུངས་ཡིག་གཟུགས་ཀྱི་མིང་། "
+
+msgid "Name of the GTK+ input method Preedit Style used by gtk+."
+msgstr "gtk+GTK+འཇུག་ཐབས་སྔོན་བཀོད་སྒྲིག་གཅོད་རྣམ་པའི་མིང་། "
+
+msgid "Name of the GTK+ input method Status Style used by gtk+."
+msgstr "gtk+GTK+འཇུག་ཐབས་རྣམ་པའི་མིང་། "
+
+msgid "Name of the default font used by gtk+."
+msgstr "gtk+བཀོལ་བའི་ཡིག་གཟུགས་ཀྱི་མིང་། "
+
+msgid "Name of the default font used for reading documents."
+msgstr "ཀློག་པར་བཀོལ་བའི་ཡིག་གཟུགས། "
+
+msgid "Name of the input method module used by GTK+."
+msgstr "GTK+ཡིས་སྤྱད་པའི་སོར་བཞག་འཇུག་ཐབས་དཔེ་དུམ་ཀྱི་མིང་། "
+
+msgid "Natural scrolling"
+msgstr "རང་བྱུང་ཚུལ་གྱི་འགྲིལ་འཁོར།"
+
+msgid "Never prompt or autorun/autostart programs when media are inserted"
+msgstr ""
+"བར་རྫས་ནང་འཇུག་སྐབས་སུ་བརྟན་ནས་གསལ་སྟོན་མི་བྱའམ་བྱ་རིམ་རང་འཁོར/མགོ་རང་རྩོམ་བྱེད།"
+
+msgid "Non-proxy hosts"
+msgstr "ལས་ཚབ་མིན་པའི་ཞབས་ཞུ་ཆས།"
+
+msgid "Number of days to keep trash and temporary files"
+msgstr "སྙིགས་སྣོད་དང་གནས་སྐབས་ཡིག་ཆ་སོར་ཉར་གྱི་ཉིན་གྲངས།"
+
+msgid "Number of days to remember recently used files for"
+msgstr "ཉིན་འགའི་ནང་སྤྱོད་མྱོང་བའི་ཡིག་ཆ་དྲན་འཆར།"
+
+msgid "Number of workspaces"
+msgstr "ལས་དོན་ཁུལ་གྱི་གྲངས་འབོར།"
+
+msgid ""
+"Number of workspaces. Must be more than zero, and has a fixed maximum to "
+"prevent making the desktop unusable by accidentally asking for too many "
+"workspaces."
+msgstr ""
+
+msgid "On-screen keyboard"
+msgstr "བརྙན་ཡོལ་མཐེབ་གཞོང་།"
+
+msgid "Only show mnemonics on when the Alt key is pressed"
+msgstr "Altམཐེབ་མནན་རྗེས་བློར་འཛིན་གྲོགས་ཀྱི་རྟགས་འཆར་བ།"
+
+msgid "Opacity of the crosshairs"
+msgstr "རྒྱ་གྲམ་འོད་རྟགས་ཀྱི་གསལ་ཚད།"
+
+msgid "Opacity with which to draw the background picture."
+msgstr "རྒྱབ་ལྗོངས་དཔེ་རིས་འབྲི་བར་བཀོལ་བའི་གསལ་ཚད། "
+
+msgid "Palette used in the color selector"
+msgstr "མདོག་འདེམ་ཆས་ཁྲོད་བཀོལ་བའི་ཚོན་སྡེབ་སྡེར།"
+
+msgid ""
+"Palette used in the color selector as defined by the 'gtk-color-palette' "
+"setting"
+msgstr ""
+"མདོག་འདེམ་ཆས་ཁྲོད་དུ་བཀོལ་བའི་ཚོན་སྡེབ་སྡེར་ནི།“gtk-color-"
+"palette”ཡི་སྒྲིག་བཟོ་ཁྲོད་མཚན་ཉིད་བཞག་པ་དང་མཚུངས།"
+
+msgid "Password to pass as authentication when doing HTTP proxying."
+msgstr "HTTP ལ་སྤྱོད་པའི་ལས་ཚབ་ར་སྤྲོད་ཀྱི་གསང་ཨང་།"
+
+msgid "Picture Opacity"
+msgstr "པར་རིས་ཀྱི་གསལ་ཚད།"
+
+msgid "Picture Options"
+msgstr "པར་རིས་འདེམས་བྱང་།"
+
+msgid "Picture URI"
+msgstr "URIཔར་རིས།"
+
+msgid "Pixels per seconds"
+msgstr "སྐར་ཆ་རེའི་བརྙན་རྒྱུའི་གྲངས།"
+
+msgid "Pointer speed"
+msgstr "སྟོན་ཁབ་ཀྱི་འགྲོས་ཚད།"
+
+msgid ""
+"Pointer speed for mice. Accepted values are in the [-1..1] range (from "
+"\"unaccelerated\" to \"fast\"). A value of 0 is the system default."
+msgstr ""
+
+msgid ""
+"Pointer speed for the touchpad. Accepted values are in the [-1..1] range "
+"(from \"unaccelerated\" to \"fast\"). A value of 0 is the system default."
+msgstr ""
+
+msgid "Prevent running any URL or MIME type handler applications."
+msgstr ""
+"URLའམ་MIEརིགས་གང་རུང་གི་སྒྲིག་གཅོད་ཆས་ཀྱི་ཉེར་སྤྱོད་བྱ་རིམ་འཁོར་སྐྱོད་བཀག་འགོག"
+
+msgid ""
+"Prevent the user from accessing the terminal or specifying a command line to"
+" be executed. For example, this would disable access to the panel's \"Run "
+"Application\" dialog."
+msgstr ""
+
+msgid "Prevent the user from logging out."
+msgstr "སྤྱོད་མཁན་རྩིས་ཐེམ་ནས་བསུབ་པ་བཀག་འགོག "
+
+msgid ""
+"Prevent the user from modifying print settings. For example, this would "
+"disable access to all applications' \"Print Setup\" dialogs."
+msgstr ""
+
+msgid ""
+"Prevent the user from printing. For example, this would disable access to "
+"all applications' \"Print\" dialogs."
+msgstr ""
+
+msgid ""
+"Prevent the user from saving files to disk. For example, this would disable "
+"access to all applications' \"Save as\" dialogs."
+msgstr ""
+
+msgid ""
+"Prevent the user from switching to another account while his session is "
+"active."
+msgstr ""
+"སྤྱོད་མཁན་གྱིས་རང་གི་གླེང་མོལའི་བྱ་འགུལ་ལ་ཞུགས་དུས་རྩིས་ཐོ་གཞན་ཞིག་ལ་བརྗེ་བར་བཀག་འགོག་བྱེད་པ།"
+" "
+
+msgid "Prevent the user to lock his screen."
+msgstr "སྤྱོད་མཁན་གྱིས་རང་ཉིད་ཀྱི་བརྙན་ཡོལ་དམིགས་འཛིན་ལ་བཀག་འགོག་བྱེད་པ། "
+
+msgid "Primary Color"
+msgstr "རྩ་བའི་ཁ་དོག"
+
+msgid "Proxy configuration mode"
+msgstr "ལས་ཚབ་སྡེབ་སྒྲིག་གི་རྣམ་པ།"
+
+msgid "Raise window above other windows"
+msgstr ""
+
+msgid "Raise window if covered, otherwise lower it"
+msgstr "སྒྲིབ་སྐབས་སྒེའུ་ཁུང་མཐོ་རུ་མ་བཏང་ན་དམའ་རུ་ཐོངས།"
+
+msgid ""
+"Recently used files will be remembered for this many days. If set to 0, "
+"recent files will not be remembered; if set to -1, they will be retained "
+"indefinitively."
+msgstr ""
+
+msgid ""
+"Represents a change to the color saturation, from 0.0 (grayscale) to 1.0 "
+"(full color)."
+msgstr "ཁ་དོག་གི་འདང་ཚད་ཀྱི་འགྱུར་ལྡོག་0.0（སྐྱ་བོ）ནས་1.0（ཚོན་མདོག）བར་མཚོན། "
+
+msgid ""
+"Represents a change to the default brightness for the blue component. Zero "
+"indicates no change, values less than zero indicate a decrease, and values "
+"greater than zero indicate an increase."
+msgstr ""
+
+msgid ""
+"Represents a change to the default brightness for the green component. Zero "
+"indicates no change, values less than zero indicate a decrease, and values "
+"greater than zero indicate an increase."
+msgstr ""
+
+msgid ""
+"Represents a change to the default brightness of the red component. Zero "
+"indicates no change, values less than zero indicate a decrease, and values "
+"greater than zero indicate an increase."
+msgstr ""
+
+msgid ""
+"Represents a change to the default contrast of the blue component. Zero "
+"indicates no change in contrast, values less than zero indicate a decrease, "
+"and values greater than zero indicate an increase."
+msgstr ""
+
+msgid ""
+"Represents a change to the default contrast of the green component. Zero "
+"indicates no change in contrast, values less than zero indicate a decrease, "
+"and values greater than zero indicate an increase."
+msgstr ""
+
+msgid ""
+"Represents a change to the default contrast of the red component. Zero "
+"indicates no change in contrast, values less than zero indicate a decrease, "
+"and values greater than zero indicate an increase."
+msgstr ""
+
+msgid "Resize window"
+msgstr ""
+
+msgid "Restore window"
+msgstr "སྒེའུ་ཁུང་སླར་གསོ།"
+
+msgid ""
+"Results for applications contained in this list will be displayed in the "
+"specified order. Results for applications not specified in this list will be"
+" displayed last, sorted alphabetically."
+msgstr ""
+
+msgid ""
+"Results for applications contained in this list will be displayed when "
+"searching."
+msgstr ""
+"འཚོལ་བཤེར་སྐབས་རེའུ་མིག་ནང་འདུས་པའི་ཉེར་སྤྱོད་ཀྱི་མཇུག་འབྲས་མངོན་སྲིད། "
+
+msgid ""
+"Results for applications contained in this list will not be displayed when "
+"searching."
+msgstr ""
+"རེའུ་མིག་འདིའི་ནང་འདུས་པའི་བྱ་རིམ་ནི་འཚོལ་བཤེར་མཇུག་འབྲས་ཁྲོད་ནས་མི་མངོན། "
+
+msgid "Reverse switch applications"
+msgstr "ལྡོག་པའི་ཉེར་སྤྱོད་བྱ་རིམ་བརྗེ་བ།"
+
+msgid "Reverse switch system controls"
+msgstr "ལྡོག་པའི་རྒྱུད་ཁོངས་ཚོད་འཛིན་བརྗེས་རེས།"
+
+msgid "Reverse switch system controls directly"
+msgstr "ཐད་ཀར་ལྡོག་པའི་རྒྱུད་ཁོངས་ཚོད་འཛིན་བརྗེས་རེས་བྱེད་པ།"
+
+msgid "Reverse switch windows"
+msgstr "ལྡོག་པའི་སྒེའུ་ཁུང་བརྗེ་བ།"
+
+msgid "Reverse switch windows directly"
+msgstr "ཐད་ཀར་ལྡོག་པའི་སྒེའུ་ཁུང་བརྗེས་རེས་བྱེད་པ།"
+
+msgid "Reverse switch windows of an app directly"
+msgstr "ཐད་ཀར་ལྡོག་པའི་ཉེར་སྤྱོད་བྱ་རིམ་སྒེའུ་ཁུང་བརྗེས་རེས་བྱེད་པ།"
+
+msgid "Reverse switch windows of an application"
+msgstr "ལྡོག་པའི་ཉེར་སྤྱོད་བྱ་རིམ་སྒེའུ་ཁུང་རིགས་གཅིག་གི་བརྗེ་བ།"
+
+msgid ""
+"Right or Bottom color when drawing gradients, not used for solid color."
+msgstr ""
+"རིམ་འགྱུར་སྐབས་ཀྱི་གཡས་སམ་འོག་གི་ཁ་དོག་འབྲི་བ།ཁ་དོག་ལྷད་མེད་འབྲི་དུས་བཀོལ་སྤྱོད་མི་བྱེད།"
+" "
+
+msgid "SOCKS proxy host name"
+msgstr "SOCKS ལས་ཚབ་གཙོ་འཁོར་གྱི་མིང་།"
+
+msgid "SOCKS proxy port"
+msgstr "SOCKS ལས་ཚབ་མཐུད་སྣེ།"
+
+msgid "Screen magnifier"
+msgstr "བརྙན་ཡོལ་སྐྱེད་ཤེལ།"
+
+msgid "Screen position"
+msgstr "བརྙན་ཡོལ་གནས་ས།"
+
+msgid "Screen reader"
+msgstr "བརྙན་ཡོལ་ཀློག་ཆས།"
+
+msgid "Scroll magnified contents beyond the edges of the desktop"
+msgstr "འགྲིལ་སྒུལ་ཆེར་བསྐྱེད་ནང་དོན་དེ་བརྙན་ཡོལ་གྱི་མཐའ་ལས་བརྒལ་རུང་བ།"
+
+msgid "Secondary Color"
+msgstr "ཕལ་མདོག"
+
+msgid "Secondary click enabled"
+msgstr "ཕལ་བའི་རྡེབ་གནོན་(གཡས་མཐེབ་)སྤྱོད་འགོ་བརྩམས་པ།"
+
+msgid "Secondary click time"
+msgstr "ཕལ་བའི་རྡེབ་གནོན་(གཡས་མཐེབ་)དུས་ཡུན།"
+
+msgid "Secure HTTP proxy host name"
+msgstr "བདེ་འཇགས HTTP ལས་ཚབ་གཙོ་འཁོར་གྱི་མིང་།"
+
+msgid "Secure HTTP proxy port"
+msgstr "བདེ་འཇགས HTTP ལས་ཚབ་མཐུད་སྣེ།"
+
+msgid ""
+"Select the proxy configuration mode. Supported values are \"none\", \"manual\", \"auto\".\n"
+"\n"
+"If this is \"none\", then proxies are not used.\n"
+"\n"
+"If it is \"auto\", the autoconfiguration URL described by the \"autoconfig-url\" key is used.\n"
+"\n"
+"If it is \"manual\", then the proxies described by \"/system/proxy/http\", \"/system/proxy/https\", \"/system/proxy/ftp\" and \"/system/proxy/socks\" will be used. Each of the 4 proxy types is enabled if its \"host\" key is non-empty and its \"port\" key is non-0.\n"
+"\n"
+"If an http proxy is configured, but an https proxy is not, then the http proxy is also used for https.\n"
+"\n"
+"If a SOCKS proxy is configured, it is used for all protocols, except that the http, https, and ftp proxy settings override it for those protocols only."
+msgstr ""
+
+msgid "Select the touchpad scroll method"
+msgstr "པང་རེག་འགྲིལ་ཐབས་འདེམས།"
+
+msgid ""
+"Select the touchpad scroll method. Supported values are: \"disabled\", "
+"\"edge-scrolling\", \"two-finger-scrolling\"."
+msgstr ""
+
+msgid "Send reports of technical problems to the vendor"
+msgstr "ལག་རྩལ་གནད་དོན་སྙན་ཞུ་བཟོ་གྲྭ་ལ་བསྐུར།"
+
+msgid "Send statistics when applications are removed or installed"
+msgstr "སྤོ་བའམ་སྒྲིག་འཇུག་ཉེར་སྤྱོད་སྐབས་བསྡོམས་རྩིས་ཆ་འཕྲིན་བསྐུར་བ།"
+
+msgid "Session type"
+msgstr "གླེང་མོལ་གྱི་རིགས་གྲས།"
+
+msgid "Set or unset window to appear always on top"
+msgstr "སྒེའུ་ཁུང་རྒྱུན་དུ་རྩེ་སྣེར་ཡོད་པ་བརྗེ་བ།"
+
+msgid ""
+"Set this to TRUE to activate the screensaver when the session is idle.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored. Set org.gnome.desktop.session idle-delay to 0 if you do not want to activate the screensaver."
+msgstr ""
+
+msgid ""
+"Set this to TRUE to allow embedding a keyboard into the window when trying to unlock. The \"keyboard_command\" key must be set with the appropriate command.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored."
+msgstr ""
+
+msgid ""
+"Set this to TRUE to be able to send mouse clicks by tapping on the touchpad."
+msgstr ""
+"ཚན་པ་འདི་TRUEརུ་སྒྲིག་ན་རེག་པང་རྡེབ་གནོན་བརྒྱུད་ཙིག་རྟགས་རྡེབ་གནོན་དོན་རྐྱེན་སྐྱེལ་ཐུབ།"
+" "
+
+msgid "Set this to TRUE to enable keyboard repeat."
+msgstr "ཚན་པ་འདི་TRUEརུ་སྒྲིག་ན་མཐེབ་གཞོང་བསྐྱར་ཟློས་སྤྱོད་འགོ་རྩོམ། "
+
+msgid "Set this to TRUE to enable natural (reverse) scrolling for mice."
+msgstr ""
+"ཚན་པ་འདི་TRUEརུ་སྒྲིག་ན་ཙིག་རྟགས་རང་འགྲིལ་（ལྡོག་ཕྱོགས་）སྤྱོད་འགོ་རྩོམ། "
+
+msgid "Set this to TRUE to enable natural (reverse) scrolling for touchpads."
+msgstr "ཚན་པ་འདི་TRUEརུ་སྒྲིག་ན་རེག་པང་རང་འགྲིལ་（ལྡོག་ཕྱོགས་）སྤྱོད་འགོ་རྩོམ། "
+
+msgid "Set this to TRUE to lock the screen when the screensaver goes active."
+msgstr ""
+"ཚན་པ་འདི་TRUEརུ་སྒྲིག་རྗེས་བརྙན་ཡོལ་སྲུང་སྐྱོབ་བྱ་རིམ་སྐུལ་སློང་བྱེད་སྐབས་བརྙན་ཡོལ་དམིགས་འཛིན་བྱེད།"
+" "
+
+msgid "Set this to TRUE to lock the screen when the system suspends."
+msgstr ""
+"གྲངས་འདི་TRUEལ་སྡེབ་སྒྲིག་བྱས་ན་རྒྱུད་ཁོངས་དེ་སྒུག་རྣམ་དུ་འཛུལ་སྐབས་བརྙན་ཡོལ་དམིགས་འཛིན་བྱེད།"
+" "
+
+msgid ""
+"Set this to TRUE to offer an option in the unlock dialog to allow logging out after a delay. The delay is specified in the \"logout_delay\" key.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored."
+msgstr ""
+
+msgid ""
+"Set this to TRUE to offer an option in the unlock dialog to switch to a "
+"different user account."
+msgstr ""
+"ཚན་པ་འདི་TRUEརུ་སྒྲིག་ན་སྒྲོག་འབྱེད་གླེང་སྒྲོམ་དུ་སྤྱོད་མཁན་གཞན་ཞིག་ལ་བརྗེ་བ་བྱེད་པའི་གདམ་འདེམས་བྱང་མཁོ་འདོན་བྱེད།"
+" "
+
+msgid ""
+"Set this to true to resize with the right button and show a menu with the "
+"middle button while holding down the key given in \"mouse-button-modifier\";"
+" set it to false to make it work the opposite way around."
+msgstr ""
+
+msgid ""
+"Set to true to disable all external search provider programs, whether or not"
+" they are independently disabled or enabled. External search providers are "
+"installed by applications in $XDG_DATA_DIR/gnome-shell/search-providers."
+msgstr ""
+
+msgid ""
+"Set to true to disable all external thumbnailer programs, independent on "
+"whether they are independently disabled/enabled."
+msgstr ""
+"true ལ་སྒྲིག་ནས་ཕྱི་རོལ་གྱི་བསྡུས་བྱ་རིམ་ཡོད་ཚད་སྤྱོད་མི་ཆོག་པར་བྱས་ཡོད་དེ། "
+"དེ་དག་ཁེར་རྐྱང་དུ་སྤྱོད་ཆོག་མིན་ལ་མི་ལྟ་བརསྤྱོད་འགོག་/འགོ་རྩོམ།"
+
+msgid "Show all installed input sources"
+msgstr "སྒྲིག་འཇུག་བྱས་ཟིན་པའི་ནང་འཇུག་ཁུངས་མངོན།"
+
+msgid "Show click type window"
+msgstr "རྡེབ་གནོན་རིགས་ཀྱི་སྒེའུ་ཁུང་མངོན།"
+
+msgid "Show click type window."
+msgstr "རྡེབ་གནོན་རིགས་ཀྱི་སྒེའུ་ཁུང་མངོན།"
+
+msgid "Show date in clock"
+msgstr "ཆུ་ཚོད་གནས་ལས་ཚེས་གྲངས་མངོན།"
+
+msgid "Show details in the lock screen"
+msgstr "བརྙན་ཡོལ་སྒྲོག་འཇུག་སྐབས་ཞིབ་ཕྲའི་གནས་ཚུལ་མངོན།"
+
+msgid "Show full name in the lock screen"
+msgstr "བརྙན་ཡོལ་སྒྲོག་འཇུག་སྐབས་སྤྱོད་མཁན་གྱི་མིང་ཧྲིལ་པོ་མངོན།"
+
+msgid "Show full name in the user menu"
+msgstr "སྤྱོད་མཁན་འདེམས་བྱང་ནས་མིང་ཆ་ཚང་མངོན་པ།"
+
+msgid "Show in the lock screen"
+msgstr "བརྙན་ཡོལ་སྒྲོག་འཇུག་སྐབས་མངོན་པ།"
+
+msgid "Show notification banners"
+msgstr "བརྡ་ཐོའི་གཞུང་བཀལ་སྦྱར་ཚིག་མངོནཔ།"
+
+msgid "Show notifications in the lock screen"
+msgstr "བརྙན་ཡོལ་སྒྲོག་འཇུག་སྐབས་བརྡ་ཐོ་མངོན་པ།"
+
+msgid "Show or hide crosshairs"
+msgstr "རྒྱ་གྲམ་གྱི་འོད་རྟགས་འཆར་བའམ་སྦེད་པ།"
+
+msgid "Show the 'Input Methods' menu"
+msgstr "འཇུག་ཐབས་འདེམས་བྱང་འཆར་བ།"
+
+msgid "Show the 'Unicode Control Character' menu"
+msgstr "UnicoIIཚོད་འཛིན་ཡིག་རྟགས་ཀྱི་འདེམས་བྱང་མངོན་པ།"
+
+msgid "Show the activities overview"
+msgstr "བྱེད་སྒོ་སྔོན་ལྟ་མངོན་པ།"
+
+msgid "Show the run command prompt"
+msgstr "འཁོར་སྐྱོད་བཀའ་བརྡའི་བརྡ་སྟོན་རྟགས་མངོན་པ།"
+
+msgid "Size of icons in toolbars, either \"small\" or \"large\"."
+msgstr ""
+
+msgid "Size of the cursor used as cursor theme."
+msgstr "འོད་རྟགས་ཀྱི་བརྗོད་གཞི་ལ་བཀོལ་བའི་འོད་རྟགས་ཀྱི་ཆེ་ཆུང་། "
+
+msgid ""
+"Some applications disregard specifications in ways that result in window "
+"manager misfeatures. This option puts the WM in a rigorously correct mode, "
+"which gives a more consistent user interface, provided one does not need to "
+"run any misbehaving applications."
+msgstr ""
+
+msgid "Sound theme name"
+msgstr "སྐད་ཀྱི་བརྗོད་གཞིའི་མིང་།"
+
+msgid "Sounds for events"
+msgstr "དོན་རྐྱེན་གྱི་སྒྲ།"
+
+msgid ""
+"Specify the locale to be used for displaying dates, times and numbers "
+"formats."
+msgstr ""
+"ས་ཁོངས་དམིགས་འཛུགས་བྱས་ནས་ཚེས་གྲངས།དུས་ཚོད་དང་གྲངས་ཀའི་རྣམ་གཞག་འཆར་བའི་སྒྲིག་འགོད།"
+
+msgid ""
+"Stop the user from modifying user accounts. By default, we allow adding and "
+"removing users, as well as changing other users settings."
+msgstr ""
+
+msgid ""
+"Swap left and right mouse buttons for left-handed mice with 'left', 'right' "
+"for right-handed, 'mouse' to follow the mouse setting."
+msgstr ""
+
+msgid "Swap left and right mouse buttons for left-handed mice."
+msgstr "གཡོན་ལག་པར་གོམས་ཕྱིར་ཙིག་རྟགས་ཀྱི་གཡས་གཡོན་མཐེབ་བརྗེ་བ། "
+
+msgid "Switch applications"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་བརྗེ་བ།"
+
+msgid "Switch input source"
+msgstr "ནང་འཇུག་ཁུངས་བརྗེ་བ།"
+
+msgid "Switch input source backward"
+msgstr "ནང་འཇུག་ཁུངས་ལྡོག་བརྗེ།"
+
+msgid "Switch system controls"
+msgstr "རྒྱུད་ཁོངས་ཚོད་འཛིན་བརྗེ་བ།"
+
+msgid "Switch system controls directly"
+msgstr "རྒྱུད་ཁོངས་ཚོད་འཛིན་ཐད་ཀར་བརྗེ་བ།"
+
+msgid "Switch to last workspace"
+msgstr "ལས་དོན་བར་སྟོང་སྔོན་མར་བརྗེ་བ།"
+
+msgid "Switch to workspace 1"
+msgstr ""
+
+msgid "Switch to workspace 10"
+msgstr ""
+
+msgid "Switch to workspace 11"
+msgstr ""
+
+msgid "Switch to workspace 12"
+msgstr ""
+
+msgid "Switch to workspace 2"
+msgstr ""
+
+msgid "Switch to workspace 3"
+msgstr ""
+
+msgid "Switch to workspace 4"
+msgstr ""
+
+msgid "Switch to workspace 5"
+msgstr ""
+
+msgid "Switch to workspace 6"
+msgstr ""
+
+msgid "Switch to workspace 7"
+msgstr ""
+
+msgid "Switch to workspace 8"
+msgstr ""
+
+msgid "Switch to workspace 9"
+msgstr ""
+
+msgid "Switch to workspace above"
+msgstr ""
+
+msgid "Switch to workspace below"
+msgstr ""
+
+msgid "Switch to workspace left"
+msgstr ""
+
+msgid "Switch to workspace right"
+msgstr ""
+
+msgid "Switch windows"
+msgstr "སྒེའུ་ཁུང་བརྗེ་བ།"
+
+msgid "Switch windows directly"
+msgstr "སྒེའུ་ཁུང་ཐད་ཀར་བརྗེ་བ།"
+
+msgid "Switch windows of an app directly"
+msgstr ""
+
+msgid "Switch windows of an application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གཅིག་པའི་སྒེའུ་ཁུང་བརྗེ་བ།"
+
+msgid "System Bell is Audible"
+msgstr "རྒྱུད་ཁོངས་དྲིལ་བརྡ་ཐོས་ཐུབ།"
+
+msgid "Tasks needs terminal"
+msgstr "ལས་འགན་ལ་མཐའ་སྣེ་དགོས།"
+
+msgid ""
+"Tells the WM how to implement the visual indication that the system bell or another application 'bell' indicator has been rung.\n"
+"\n"
+"Currently there are two valid values, \"fullscreen-flash\", which causes a fullscreen white-black flash, and \"frame-flash\" which causes the titlebar of the application which sent the bell signal to flash.\n"
+"\n"
+"If the application which sent the bell is unknown (as is usually the case for the default \"system beep\"), the currently focused window's titlebar is flashed."
+msgstr ""
+
+msgid "Terminal application"
+msgstr "མཐའ་སྣེའི་ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid ""
+"Terminal program to use when starting applications that require one.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored. The default terminal is handled in GIO."
+msgstr ""
+
+msgid "Text scaling factor"
+msgstr "ཡིག་དེབ་བསྡུར་ཚད་རྐྱེན་ཆ།"
+
+msgid "The XDG sound theme to use for event sounds."
+msgstr "དོན་རྐྱེན་སྐད་ལ་སྤྱོད་པའི་XDGསྐད་ཀྱི་བརྗོད་གཞི། "
+
+msgid ""
+"The active dwell click mode. Possible values are 'window' and 'gesture'."
+msgstr "བྱ་འགུལ་གྱི་ལྡིང་འཁོར་གནོན་སྟངས། ཐང་ནི་སྒེའུ་ཁུང་དང་ལག་བརྡ་ཡིན་སྲིད། "
+
+msgid "The application that this policy is for."
+msgstr "ཐབས་ཇུས་དེར་འོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ། "
+
+msgid ""
+"The color of the the vertical and horizontal lines that make up the "
+"crosshairs."
+msgstr "རྒྱ་གྲམ་འོད་རྟགས་གྲུབ་བྱེད་འཕྲེད་ཐིག་དང་དྲང་འཕྱང་ཐིག་གི་ཁ་དོག"
+
+msgid ""
+"The command that will be run, if the \"embedded_keyboard_enabled\" key is set to TRUE, to embed a keyboard widget into the window. This command should implement an XEMBED plug interface and output a window XID on the standard output.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored."
+msgstr ""
+
+msgid ""
+"The command to invoke when the logout button is clicked. This command should simply log the user out without any interaction. This key has effect only if the \"logout_enable\" key is set to TRUE.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored."
+msgstr ""
+
+msgid ""
+"The default, true, indicates that a window will be raised whenever its client area or its frame is clicked.\n"
+"\n"
+"Setting this to false means that a window will not be raised if it is clicked on the client area. To raise it, one can click anywhere in the window's frame, or Super-click on any part of the window. This mode is useful if one uses many overlapping windows."
+msgstr ""
+
+msgid ""
+"The list of IDs of applications that are explicitly included in this folder."
+msgstr "ཡིག་ཆ་འདིའི་ནང་འདུས་ངེས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་མཚོན་རྟགས་ཀྱི་རེའུ་མིག "
+
+msgid "The locale to use for dates / numbers formats"
+msgstr "ཚེས་གྲངས/ཨང་ཀིའི་རྣམ་གཞག་སྤྱོད་པའི་ས་ཁོངས་སྒྲིག་འགོད།"
+
+msgid "The machine name to proxy FTP through."
+msgstr "ལས་ཚབ FTP ཡི་འཕྲུལ་འཁོར་མིང་།"
+
+msgid "The machine name to proxy HTTP through."
+msgstr "ལས་ཚབ HTTP ཡི་འཕྲུལ་འཁོར་མིང་།"
+
+msgid "The machine name to proxy secure HTTP through."
+msgstr "ལས་ཚབ་བདེ་འཇགས HTTP ཡི་འཕྲུལ་འཁོར་མིང་།"
+
+msgid "The machine name to use as a SOCKS proxy."
+msgstr "SOCKSལས་ཚབ་ཡིན་པའི་རྩིས་འཁོར་གྱི་མིང་། "
+
+msgid ""
+"The magnified view either fills the entire screen, or occupies the top-half,"
+" bottom-half, left-half, or right-half of the screen."
+msgstr ""
+"མཐོང་རིས་ཆེར་བསྐྱེད་ཀྱིས་བརྙན་ཡོལ་ཧྲིལ་པོ་འགེངས་པ་འམ་ཡང་ན་སྟེང་ཕྱེད་དམ།སྨད་ཕྱེད་དམ།"
+" གཡོན་ཕྱེད་དམ། གཡས་ཕྱེད་ཟིན་པར་བྱེད་པ།"
+
+msgid "The maximum accuracy level of location."
+msgstr "གནས་ཐིག་གི་ཆེས་ཆེ་བའི་ཞིབ་ཚད་རིགས་གྲས། "
+
+msgid "The name of the application folder."
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ཡིག་ཁུག་གི་མིང་། "
+
+msgid ""
+"The name of the session to use. Known values are \"gnome\" and \"gnome-"
+"fallback\"."
+msgstr ""
+
+msgid "The names of the workspaces"
+msgstr "ལས་དོན་ཁུལ་གྱི་མིང་།"
+
+msgid ""
+"The number of seconds after screensaver activation before locking the "
+"screen."
+msgstr ""
+"བརྙན་ཡོལ་སྲུང་སྐྱོབ་བྱ་རིམ་སྐུལ་སློང་རྗེས་བརྙན་ཡོལ་མདུན་ལ་སྒུག་པའི་སྐར་ཆའི་གྲངས་དམིགས་འཛིན་གྱིས།"
+" "
+
+msgid ""
+"The number of seconds after the screensaver activation before a logout option will appear in the unlock dialog. This key has effect only if the \"logout_enable\" key is set to TRUE.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored"
+msgstr ""
+
+msgid ""
+"The number of seconds of inactivity before the session is considered idle."
+msgstr "སྐར་ཆ་ཅི་ཙམ་ལ་བྱ་འགུལ་མེད་ན་ཁོམ་པའི་གླེང་མོལ་དུ་བརྩི་བ།"
+
+msgid ""
+"The port on the machine defined by \"/system/proxy/ftp/host\" that you proxy"
+" through."
+msgstr ""
+
+msgid ""
+"The port on the machine defined by \"/system/proxy/http/host\" that you "
+"proxy through."
+msgstr ""
+
+msgid ""
+"The port on the machine defined by \"/system/proxy/https/host\" that you "
+"proxy through."
+msgstr ""
+
+msgid ""
+"The port on the machine defined by \"/system/proxy/socks/host\" that you "
+"proxy through."
+msgstr ""
+
+msgid ""
+"The power of the magnification. A value of 1.0 means no magnification. A "
+"value of 2.0 doubles the size."
+msgstr ""
+"ཆེར་སྐྱེད་ཚད། 1.0ཆེར་སྐྱེད་མི་བྱེད་པ་མཚོན། 2.0ལྡབ་གཉིས་ཀྱི་ཆེར་སྐྱེད། "
+
+msgid ""
+"The theme determines the appearance of window borders, titlebar, and so forth.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored."
+msgstr ""
+
+msgid ""
+"The time delay before raising a window if auto-raise is set to true. The "
+"delay is given in thousandths of a second."
+msgstr ""
+"གལ་ཏེ་རང་འགུལ་རིམ་སྤོར་་trueལ་སྒྲིག་ཚེ་སྒེའུ་ཁུང་ཡར་སྤོར་གྱི་འགྱངས་ཡུན། "
+"དུས་ཚོད་འདི་ཧའོ་སྐར་ཆ་ཡིས་འཇལ་དགོས། "
+
+msgid ""
+"The window focus mode indicates how windows are activated. It has three "
+"possible values; \"click\" means windows must be clicked in order to focus "
+"them, \"sloppy\" means windows are focused when the mouse enters the window,"
+" and \"mouse\" means windows are focused when the mouse enters the window "
+"and unfocused when the mouse leaves the window."
+msgstr ""
+
+msgid ""
+"The zero-based index into the input sources list specifying the current one "
+"in effect. The value is automatically capped to remain in the range [0, "
+"sources_length) as long as the sources list isn't empty."
+msgstr ""
+
+msgid "Thickness of the crosshairs in pixels"
+msgstr "རྒྱ་གྲམ་འོད་རྟགས་ཀྱི་ཐིག་གི་སྦོམ་ཕྲ། (བརྙན་རྒྱུས་བརྩི་བ།)"
+
+msgid ""
+"This key contains a list of hosts which are connected to directly, rather "
+"than via the proxy (if it is active). The values can be hostnames, domains "
+"(using an initial wildcard like *.foo.com), IP host addresses (both IPv4 and"
+" IPv6) and network addresses with a netmask (something like 192.168.0.0/24)."
+msgstr ""
+
+msgid "This key is not used, and should not be read or modified."
+msgstr "མཐེབ་གནོན་འདི་བཀོལ་མེད་པ་མ་ཟད། ཀློག་པའམ་ཡང་ན་བཟོ་བཅོས་བྱས་ན་མི་འགྲིག "
+
+msgid ""
+"This key is not used; HTTP proxying is enabled when the host key is non-"
+"empty and the port is non-0."
+msgstr ""
+"མཐེབ་གནོན་འདི་བཀོལ་མེད་པ། "
+"གཙོ་འཁོར་མཐེབ་སྟོང་པ་མིན་ལ་མཐུད་ཁ་0མིན་དུས་སུ་HTTPལས་ཚབ་སྤྱོད་འགོ་ཚུགས། "
+
+msgid ""
+"This key overrides the automatic hiding of the Universal Access status icon "
+"when no accessibility features are enabled."
+msgstr ""
+"མཐེབ་འདིས་ལྟ་སྤྱོད་བྱེད་ནུས་སྤྱོད་འགོ་ཚུགས་མེད་པའི་སྐབས་རང་འགུལ་གྱིས་སྤྱི་སྤྱོད་ལྟ་སྤྱོད་རྣམ་པའི་རིས་རྟགས་སྦེད་པའི་སྒྲིག་འགོད་ཀྱི་ཚབ་བྱེད་པ།"
+" "
+
+msgid ""
+"This option determines the effects of double-clicking on the title bar.\n"
+"\n"
+"Current valid options are 'toggle-shade', which will shade/unshade the window, 'toggle-maximize' which will maximize/unmaximize the window, 'toggle-maximize-horizontally' and 'toggle-maximize-vertically' which will maximize/unmaximize the window in that direction only, 'minimize' which will minimize the window, 'shade' which will roll the window up, 'menu' which will display the window menu, 'lower' which will put the window behind all the others, and 'none' which will not do anything."
+msgstr ""
+
+msgid ""
+"This option determines the effects of middle-clicking on the title bar.\n"
+"\n"
+"Current valid options are 'toggle-shade', which will shade/unshade the window, 'toggle-maximize' which will maximize/unmaximize the window, 'toggle-maximize-horizontally' and 'toggle-maximize-vertically' which will maximize/unmaximize the window in that direction only, 'minimize' which will minimize the window, 'shade' which will roll the window up, 'menu' which will display the window menu, 'lower' which will put the window behind all the others, and 'none' which will not do anything."
+msgstr ""
+
+msgid ""
+"This option determines the effects of right-clicking on the title bar.\n"
+"\n"
+"Current valid options are 'toggle-shade', which will shade/unshade the window, 'toggle-maximize' which will maximize/unmaximize the window, 'toggle-maximize-horizontally' and 'toggle-maximize-vertically' which will maximize/unmaximize the window in that direction only, 'minimize' which will minimize the window, 'shade' which will roll the window up, 'menu' which will display the window menu, 'lower' which will put the window behind all the others, and 'none' which will not do anything."
+msgstr ""
+
+msgid ""
+"This option provides additional control over how newly created windows get "
+"focus. It has two possible values; \"smart\" applies the user's normal focus"
+" mode, and \"strict\" results in windows started from a terminal not being "
+"given focus."
+msgstr ""
+
+msgid ""
+"Thumbnails will not be created for files whose mime-type is contained in the"
+" list."
+msgstr "རེའུ་མིག་ནང་mimeརིགས་ཀྱི་ཡིག་ཆ་ཡོད་ན་བསྡུས་རིས་གསར་བཟོ་མི་བྱེད། "
+
+msgid "Time after which the cursor stops blinking, in seconds."
+msgstr ""
+"འོད་རྟགས་འཚེར་མཚམས་མ་བཞག་གོང་གི་སྒུག་པའི་དུས་ཚོད། སྡེ་ཚན་ནི་སྐར་ཆ་ཡིན། "
+
+msgid "Time before locking"
+msgstr "བརྙན་ཡོལ་སྒྲོག་བཙུད་དུས་འགྱངས།"
+
+msgid "Time before logout option"
+msgstr "རྩིས་ཐེམ་ནས་བསུབ་པའི་འདེམས་བྱང་དུས་འགྱངས།"
+
+msgid "Time before session is considered idle"
+msgstr "གླེང་མོལ་དེ་ཁོམ་ལོང་མ་བྱུང་གོང་གི་དུས་ཚོད་དུ་བརྩི་བ།"
+
+msgid "Time in seconds before a click is triggered."
+msgstr "ཆིག་རྡེབ་འཕྲད་འབྱུང་སྔོན་གྱི་སྐར་ཆའི་གྲངས། "
+
+msgid "Time in seconds before a simulated secondary click is triggered."
+msgstr "ཕལ་བའི་རྡེབ་གནོན་ལད་ཟློས་སྔོན་གྱི་སྐར་ཆའི་གྲངས། "
+
+msgid "Timeout before click repeat"
+msgstr "རྡེབ་གནོན་བསྐྱར་ཟློས་སྔོན་གྱི་དུས་འགྱངས།"
+
+msgid "Timeout between click repeats"
+msgstr "རྡེབ་གནོན་བསྐྱར་ཟློས་དབར་གྱི་དུས་འགྱངས།"
+
+msgid ""
+"Timeout in milliseconds before a click starts repeating (on spinner buttons "
+"for example)."
+msgstr ""
+"རྡེབ་གནོན་ཐེངས་གཅིག་མགོ་བརྩམས་ནས་བསྐྱར་ཟློས་སྔོན་གྱི་དུས་འགྱངས་ཧའོ་སྐར་ཆའི་གྲངས།"
+" (དཔེར་ན་ཕྲ་སྒྲིག་མཐེབ་རྡེབ་གནོན་སྐབས།)"
+
+msgid ""
+"Timeout in milliseconds between repeated clicks when a button is left "
+"pressed."
+msgstr ""
+"གཡོན་མཐེབ་ཀྱིས་མཐེབ་གནོནག་གེ་མོར་ཆིག་རྡེབ་བྱ་སྐབས་བསྐྱར་ཟློས་རྡེབ་གནོན་དབར་གྱི་དུས་འགྱངས་ཧའོ་སྐར་ཆའི་གྲངས།"
+
+msgid "Toggle fullscreen mode"
+msgstr "བརྙན་ཡོལ་ཡོངས་འཆར་རྣམ་པར་བརྗེ་བ།"
+
+msgid "Toggle maximization state"
+msgstr "ཆེ་ཤོས་རྣམ་པར་བརྗེ་བ།"
+
+msgid "Toggle shaded state"
+msgstr "གྲིབ་ནག་རྣམ་པ་བརྗེ་བ།"
+
+msgid "Toggle window always appearing on top"
+msgstr "སྒེའུ་ཁུང་རྒྱུན་དུ་རྩེ་སྣེར་ཡོད་པར་བརྗེ་བ།"
+
+msgid "Toggle window on all workspaces or one"
+msgstr "ལས་དོན་ཁུལ་ཞིག་གམ་ཡོངས་ཀྱི་སྒེའུ་ཁུང་བརྗེ་བ།"
+
+msgid "Toggle window to be always on top"
+msgstr "སྒེའུ་ཁུང་རྒྱུན་དུ་རྩེ་སྣེར་ཡོད་པར་བརྗེ་བ།"
+
+msgid "Toolbar Detachable"
+msgstr "ལག་ཆའི་སྡེ་དབྲལ་ཆོག་པ།"
+
+msgid "Toolbar Icon Size"
+msgstr "ལག་ཆའི་སྡེ་གྱི་མཐེབ་གནོན་ཆེ་ཆུང་།"
+
+msgid "Toolbar Style"
+msgstr "ལག་ཆའི་སྡེ་གྱི་རྣམ་པ།"
+
+msgid "Toolbar Style. Valid values are \"both\", \"both-horiz\", \"icons\", and \"text\"."
+msgstr ""
+
+msgid "Touchpad button orientation"
+msgstr "རེག་པང་མཐེབ་གནོན་གྱི་ཁ་ཕྱོགས།"
+
+msgid "Touchpad enabled"
+msgstr "རེག་པང་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Touchscreen display mapping"
+msgstr "འཕྲད་རེག་བརྙན་ཡོལ་རྟེན་འཕྲོ།"
+
+msgid "Translate the name"
+msgstr "མིང་འདི་ལོ་ཙཱ་གྱིས།"
+
+msgid ""
+"Turns on a visual indication when an application or the system issues a "
+"'bell' or 'beep'; useful for the hard-of-hearing and for use in noisy "
+"environments."
+msgstr ""
+
+msgid ""
+"URI to use for the background image. Note that the backend only supports "
+"local (file://) URIs."
+msgstr ""
+"རྒྱབ་ལྗོངས་བརྙན་རིས་ཀྱི་གནས་ས།（URI） "
+"རྒྱབ་གནས་འདིས་གནས་དེ་གའི་URI（file:/）ཁོ་ན་ལས་རྒྱབ་སྐྱོར་མི་བྱེད། "
+
+msgid ""
+"URL that provides proxy configuration values. When mode is \"auto\", this "
+"URL is used to look up proxy information for all protocols."
+msgstr ""
+
+msgid "Unused; ignore"
+msgstr "བེད་སྤྱོད་མ་བྱས་པ། སྣང་མེད་དུ་གཏོང་བ།"
+
+msgid "Use different input sources for each window"
+msgstr "སྒེའུ་ཁུང་རེ་རེར་ནང་འཇུག་གི་ཁུངས་མི་འདྲ་བ་སྤྱོད་དགོས།"
+
+msgid "Use standard system font in window titles"
+msgstr "སྒེའུ་ཁུང་གི་ཁ་བྱང་ནང་ཚད་ལྡན་གྱི་རྒྱུད་ཁོངས་ཡིག་གཟུགས་སྤྱོད་པ།"
+
+msgid "User name to pass as authentication when doing HTTP proxying."
+msgstr "HTTP ལས་ཚབ་ར་སྤྲོད་ལ་སྤྱོད་པའི་སྤྱོད་མཁན་གྱི་མིང་།"
+
+msgid "Visual Bell Type"
+msgstr "མིག་དབང་དྲིལ་བུའི་རིགས་གྲས།"
+
+msgid ""
+"When enabled, input sources get attached to the currently focused window "
+"when activated."
+msgstr ""
+"བེད་སྤྱོད་གཏོང་སྐབས།ནང་འཇུག་ཁུངས་དེ་མིག་སྔའི་སྐུལ་སློང་བྱ་ཡུལ་གྱི་སྒེའུ་ཁུང་དང་འབྲེལ་བ་ཡོད།"
+" "
+
+msgid ""
+"Whether animations should be displayed. Note: This is a global key, it "
+"changes the behaviour of the window manager, the panel etc."
+msgstr ""
+"འགུལ་རིས་འཆར་རམ། "
+"མཆན།འདི་ནི་ཁྱོན་ཡོངས་ཀྱི་མཐེབ་གནོན་ཞིག་ཡིན་ཞིང་།དེས་སྒེའུ་ཁུང་དོ་དམ་ཆས་དང་ངོས་པང་སོགས་ཀྱི་བྱ་སྤྱོད་བསྒྱུར་སྲིད།"
+" "
+
+msgid "Whether buttons may display an icon in addition to the button text."
+msgstr "མཐེབ་གནོན་ཡིག་ཆའི་འགྲམ་ནས་རིས་རྟགས་མངོན་ཐུབ་བམ། "
+
+msgid "Whether menus may display an icon next to a menu entry."
+msgstr "འདེམས་བྱང་ཚན་པའི་འགྲམ་དུ་རིས་རྟགས་མངོན་ཐུབ་བམ། "
+
+msgid "Whether menus should have a tearoff."
+msgstr "འདེམས་བྱང་ལས་དབྱེ་མཚམས་མངོན་མིན། "
+
+msgid ""
+"Whether mnemonics should be automatically shown and hidden when the user "
+"presses the Alt key."
+msgstr ""
+"སྤྱོད་མཁན་གྱིས་Altམཐེབ་གནོན་སྐབས་རང་འགུལ་ངང་འཛིན་གྲོགས་རྟགས་མངོན་པའམ་གབ་མིན།"
+
+msgid ""
+"Whether notification banners are visible for application notifications."
+msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་གྱི་བརྡ་ཐོའི་ངོས་ནས་བཤད་ན་བརྡ་ཐོའི་གཞུང་ཡིག་སྦྱར་ཚིག་མཐོང་ཐུབ་བམ།"
+" "
+
+msgid ""
+"Whether notification banners for this application are shown or not. Does not"
+" affect clicking on message tray buttons."
+msgstr ""
+"བྱ་རིམ་དེའི་བརྡ་ཐོའི་གཞུང་བཀལ་སྦྱར་ཚིག་མངོན་མིན། "
+"ཐོ་སྡེར་གྱི་མཐེབ་གནོན་གནོན་པར་ཤུགས་རྐྱེན་མི་ཐེབས། "
+
+msgid "Whether notifications are globally enabled for this application."
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེར་ཁྱོན་ཡོངས་ནས་བརྡ་ཐོ་སྤྱོད་འགོ་རྩོམ་མིན། "
+
+msgid "Whether notifications are shown in the lock screen or not."
+msgstr "བརྙན་ཡོལ་སྒྲོག་བཅིང་སྐབས་བརྡ་ཐོ་འཆར་མིན། "
+
+msgid ""
+"Whether notifications are shown in the lock screen or not. This only affects the standard experience.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored. It has been superseded by org.gnome.desktop.notifications show-in-lock-screen."
+msgstr ""
+
+msgid ""
+"Whether notifications from this application are expanded automatically when "
+"in banner mode."
+msgstr ""
+"གཞུང་བཀལ་སྦྱར་ཚིག་རྣམ་པའི་སྐབས་སུ་བྱ་རིམ་འདི་ནས་ཡོང་བའི་བརྡ་ཐོ་རང་འགྲེམ་བྱེད་མིན།"
+" "
+
+msgid ""
+"Whether notifications from this application are shown when the screen is "
+"locked."
+msgstr "བརྙན་ཡོལ་དམིགས་འཛིན་སྐབས་བྱ་རིམ་དེ་ནས་ཡོང་བའི་བརྡ་ཐོ་འཆར་མིན། "
+
+msgid "Whether notifications should be accompanied by sound alerts."
+msgstr "བརྡ་ཐོར་ཉེན་བརྡའི་སྐད་ཀྱི་རམ་འདེགས་ཡོད་མེད། "
+
+msgid "Whether the 'Bounce Keys' keyboard accessibility feature is turned on."
+msgstr "མཐེབ་གཞོང་གི་གཞོགས་འདེགས་ནུས་པའི་ཁྲོད་ཀྱི་ལྡེམ་མཐེབ་ཕྱེ་ཡོད་མེད། "
+
+msgid "Whether the 'Mouse Keys' accessibility feature is turned on."
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་ཁྲོད་ཀྱི་ཙིག་མཐེབ་ཕྱེ་ཡོད་མེད། "
+
+msgid "Whether the 'Slow Keys' accessibility feature is turned on."
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་ཁྲོད་ཀྱི་དལ་མཐེབ་ཕྱེ་ཡོད་མེད། "
+
+msgid "Whether the 'Toggle Keys' accessibility feature is turned on."
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་ཁྲོད་ཀྱི་རྗེ་མཐེབ་ཕྱེ་ཡོད་མེད། "
+
+msgid "Whether the clock displays in 24h or 12h format"
+msgstr ""
+"ཆུ་ཚོད་དེ་དུས་ཚོད་24ཡི་རྣམ་གཞག་གམ་དུས་ཚོད་12ཀྱི་རྣམ་གཞག་ཐོག་ནས་མངོན་པ།"
+
+msgid "Whether the clock shows seconds"
+msgstr "ཆུ་ཚོད་དུ་སྐར་ཆའི་གྲངས་འཆར་མིན།"
+
+msgid ""
+"Whether the context menus of entries and text views should offer to change "
+"the input method."
+msgstr ""
+"ནང་འཇུག་ཚོད་འཛིན་དང་ཡིག་དེབ་མཐོང་རིས་ཁྲོད་ཀྱི་ཁོར་ཡུག་འདེམས་བྱང་གིས་འཇུག་ཐབས་བཟོ་བཅོས་བྱེད་པའི་འདེམ་བྱང་འདོན་སྤྲོད་བྱེད་མིན།"
+" "
+
+msgid ""
+"Whether the context menus of entries and text views should offer to insert "
+"control characters."
+msgstr ""
+"ནང་འཇུག་ཚོད་འཛིན་དང་ཡིག་དེབ་མཐོང་རིས་ཁྲོད་ཀྱི་ཁོར་ཡུག་འདེམས་བྱང་གིས་ཚོད་འཛིན་ཡིག་རྟགས་ཀྱི་འདེམ་བྱང་འདོན་སྤྲོད་བྱེད་མིན་།"
+" "
+
+msgid "Whether the cursor should blink."
+msgstr "འོད་རྟགས་འོད་འཚེར་མིན། "
+
+msgid ""
+"Whether the default calendar application needs a terminal to run.\n"
+"\n"
+"DEPRECATED: This key is deprecated and ignored. The preferred calendar application is the application handling the text/calendar mime type, whether it needs a terminal is taken from its desktop file."
+msgstr ""
+
+msgid "Whether the default tasks application needs a terminal to run."
+msgstr ""
+"སོར་བཞག་གི་ལས་འགན་གྱི་ཉེར་སྤྱོད་བྱ་རིམ་དེ་མཐའ་སྣེར་སླེབས་ན་ད་གཟོད་སྤྱོད་འགོ་རྩོམ་མིན།"
+" "
+
+msgid ""
+"Whether the magnified view should be centered over the location of the "
+"system mouse and move with it."
+msgstr ""
+"ཆེར་སྐྱེད་དཔེ་རིས་དེ་རྒྱུད་ཁོངས་ཀྱི་ཙིག་རྟགས་ཀྱི་གནས་བརྒྱུད་དེ་དཀྱིལ་སྒྲིག་བྱེད་མིན་དང་དེ་དང་བསྟུན་ནས་འགུལ་མིན།"
+" "
+
+msgid ""
+"Whether the name key is a filename to be looked up in /usr/share/desktop-"
+"directories."
+msgstr ""
+"མིང་མཐེབ་ནི་/usr/share/desktop-"
+"directoriesཡི་ནང་དུ་ཡིག་ཆའི་མིང་འཚོལ་བཤེར་བྱེད་ཐུབ་པ་ཞིག་ཡིན་མིན། "
+
+msgid "Whether the on-screen keyboard is turned on."
+msgstr "བརྙན་ཡོལ་མཐེབ་གཞོང་སྤྱོད་འགོ་རྩོམ་མིན། "
+
+msgid "Whether the screen magnifier is turned on."
+msgstr "བརྙན་ཡོལ་སྐྱེད་ཤེལ་སྤྱོད་འགོ་རྩོམ་མིན། "
+
+msgid "Whether the screen reader is turned on."
+msgstr "བརྙན་ཡོལ་ཀྱི་ཀློག་འདོན་ཆས་སྤྱོད་འགོ་རྩོམ་མིན། "
+
+msgid "Whether the sticky keys accessibility feature is turned on."
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་ཁྲོད་ཀྱི་སྡུད་འབྱར་མཐེབ་ཕྱེ་ཡོད་དམ། "
+
+msgid ""
+"Whether the summary and body of notifications from this application will be "
+"visible in the locked screen."
+msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་འདིའི་བརྡ་ཐོའི་གནད་བསྡུས་དང་ནང་དོན་དངོས་དེ་བརྙན་ཡོལ་སྟེང་མངོན་མིན།"
+" "
+
+msgid "Whether the user can detach menubars and move them around."
+msgstr "སྤྱོད་མཁན་གྱིས་འདེམས་བྱང་སྡེ་ཁ་བྲལ་བའམ་གང་སར་སྤོ་ཆོག་མིན། "
+
+msgid "Whether the user can detach toolbars and move them around."
+msgstr "བེད་སྤྱོད་མཁན་གྱིས་ལག་ཆ་སྡེ་ཁ་བྲལ་ནས་གང་སར་སྤོས་ན་ཆོག་གམ། "
+
+msgid ""
+"Whether the user can dynamically type a new accelerator when positioned over"
+" an active menuitem."
+msgstr ""
+"སྤྱོད་མཁན་གྱིས་བྱ་འགུལ་གྱི་འདེམས་བྱང་ཚན་པ་གནས་ངེས་བྱུང་རྗེས་འགུལ་རྣམ་གྱིས་མྱུར་མཐེབ་གསར་བ་ནང་འཇུག་བྱེད་ཆོག་མིན།"
+" "
+
+msgid ""
+"Whether the user's full name is shown in the lock screen or not. This only "
+"affects the screen shield, the name is always shown in the unlock dialog."
+msgstr ""
+
+msgid "Whether the users full name is shown in the user menu or not."
+msgstr "སྤྱོད་མཁན་གྱི་འདེམས་བྱང་དུ་སྤྱོད་མཁན་གྱི་མིང་ཆ་ཚང་མངོན་མིན། "
+
+msgid "Whether to automatically mount media"
+msgstr "བར་རྫས་རང་འགེལ་བྱེད་མིན།"
+
+msgid "Whether to automatically open a folder for automounted media"
+msgstr "རང་འགེལ་བྱེད་པའི་བར་རྫས་ལ་ཡིག་ཁུག་རང་འབྱེད་བྱེད་དགོས་མིན།"
+
+msgid "Whether to automatically update the timezone using geolocation."
+msgstr "རང་འགུལ་ངང་ས་བབ་ལ་གཞིགས་ནས་དུས་ཁུལ་གསར་སྒྱུར་བྱེད་མིན་། "
+
+msgid "Whether to beep when a key is accepted."
+msgstr "མཐེབ་གནོན་ལེན་སྐབས་སྦི་ཡི་སྒྲ་གྲགས་མིན། "
+
+msgid "Whether to beep when a key is first pressed."
+msgstr "ཐེངས་དང་པོར་མཐེབ་གང་རུང་མནན་ན་སྦི་གྲགས་མིན། "
+
+msgid "Whether to beep when a key is rejected."
+msgstr "མཐེབ་གང་ཞིག་དང་ལེན་མི་བྱེད་པའི་སྐབས་སུ་སྦི་སྒྲ་གྲགས་མིན། "
+
+msgid ""
+"Whether to beep when a keyboard accessibility feature is enabled or "
+"disabled."
+msgstr ""
+"མཐེབ་གཞོང་གང་ཞིག་གི་གཞོགས་འདེགས་བྱེད་ནུས་སྤྱོད་འགོ་རྩོམ་པའི་མ་སྤྱོད་མི་ཆོག་པའི་སྐབས་སུ་སྦི་སྒྲ་གྲགས་མིན།"
+" "
+
+msgid "Whether to beep when a modifier key is pressed."
+msgstr "རྒྱན་མཐེབ་གང་ཞིག་མནན་ན་སྦི་སྒྲ་གྲགས་མིན་། "
+
+msgid ""
+"Whether to disable keyboard accessibility after a timeout, useful for shared"
+" machines."
+msgstr ""
+"དུས་ཚོད་ལས་བརྒལ་རྗེས་མཐེབ་གཞོང་གི་རམ་འདེགས་ནུས་པ་འགོག་མིན།རྩིས་འཁོར་མཉམ་སྤྱོད་སྐབས་ཕན་ཐོགས་ཡོད།"
+" "
+
+msgid ""
+"Whether to disable sticky keys if two keys are pressed at the same time."
+msgstr "མཐེབ་གནོན་གཉིས་མཉམ་དུ་མནན་དུས་སྡུད་འབྱར་མཐེབ་འགོག་མིན། "
+
+msgid "Whether to play sounds on input events."
+msgstr "ནང་འཇུག་གི་དོན་རྐྱེན་ཁྲོད་དུ་སྐད་གཏོང་ངམ། "
+
+msgid "Whether to play sounds on user events."
+msgstr "བེད་སྤྱོད་མཁན་གྱི་དོན་རྐྱེན་ཁྲོད་དུ་སྒྲ་གཏོང་ཐུབ་མིན། "
+
+msgid "Whether to remember application usage"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་བེད་སྤྱོད་གནས་ཚུལ་ངེས་དགོས་མིན།"
+
+msgid "Whether to remember recently used files"
+msgstr "ཉེ་དུས་བེད་སྤྱོད་བྱས་པའི་ཡིག་ཆ་བློ་ལ་ངེས་མིན།"
+
+msgid "Whether to remove old files from the trash automatically"
+msgstr "རང་འགུལ་ངང་སྙིགས་སྣོད་ནང་གི་ཡིག་ཆ་རྙིང་པ་བསུབ་མིན།"
+
+msgid "Whether to remove old temporary files automatically"
+msgstr "རང་འགུལ་ངང་གནས་སྐབས་ཀྱི་ཡིག་ཆ་རྙིང་པ་བསུབ་མིན།"
+
+msgid "Whether to resize with the right button"
+msgstr "གཡས་མཐེབ་བཀོལ་ནས་ཆེ་ཆུང་བསྒྱུར་མིན།"
+
+msgid "Whether toolkits should load accessibility related modules."
+msgstr "ལག་ཆའི་སྒམ་ལ་རམ་འདེགས་ནུས་པ་དང་འབྲེལ་བའི་དཔེ་དུམ་སྣོན་འཇུག་དགོས་མིན། "
+
+msgid "Whether windows should be raised when their client area is clicked"
+msgstr "མཁོ་མཁན་ས་ཁོངས་ལ་རྡེབ་གནོན་སྐབས་Windowsམཐོ་རུ་གཏོང་དགོས་མིན་།"
+
+msgid ""
+"Width in pixels of the vertical and horizontal lines that make up the "
+"crosshairs."
+msgstr "རྒྱ་གྲམ་འོད་རྟགས་གྲུབ་བྱེད་ཀྱི་འཕྲེད་ཐིག་དང་གཞུང་ཐིག་གི་ཞེང་ཚད། "
+
+msgid "Window focus mode"
+msgstr "སྒེའུ་ཁུང་གི་མདོ་དབྱིབས།"
+
+msgid "Window scaling factor"
+msgstr "སྒེའུ་ཁུང་སྐུམ་འཐེན་བཏགས་གྲངས།"
+
+msgid "Window title font"
+msgstr "སྒེའུ་ཁུང་ཁ་བྱང་ཡིག་གཟུགས།"

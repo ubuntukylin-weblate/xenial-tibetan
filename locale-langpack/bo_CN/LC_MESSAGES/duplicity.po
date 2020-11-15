@@ -1,0 +1,991 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"PYTHONOPTIMIZE in the environment causes duplicity to fail to\n"
+"recognize its own backups.  Please remove PYTHONOPTIMIZE from\n"
+"the environment and rerun the backup.\n"
+"\n"
+"See https://bugs.launchpad.net/duplicity/+bug/931175\n"
+msgstr ""
+
+msgid "%d difference found"
+msgid_plural "%d differences found"
+msgstr[0] "ཚན་ %d ཁྱད་པར་རྙེད།"
+msgstr[1] "ཚན་ %d ཁྱད་པར་རྙེད།"
+
+msgid "%d file compared"
+msgid_plural "%d files compared"
+msgstr[0] " %d ཡིག་ཆ་བསྡུར་བ།"
+msgstr[1] " %d ཡིག་ཆ་བསྡུར་བ།"
+
+msgid "%d file exists in cache"
+msgid_plural "%d files exist in cache"
+msgstr[0] "ལྷོད་གསོག་ཏུ་ཡིག་ཆ་ %d ཡོད།"
+msgstr[1] "ལྷོད་གསོག་ཏུ་ཡིག་ཆ་ %d ཡོད།"
+
+msgid "%d file exists on backend"
+msgid_plural "%d files exist on backend"
+msgstr[0] "གྲབས་ཉར་དུ་ཡིག་ཆ་ %d  ཡོད།"
+msgstr[1] "གྲབས་ཉར་དུ་ཡིག་ཆ་ %d  ཡོད།"
+
+msgid "%s not found in archive - no files restored."
+msgstr "ཉར་ཚགས་སུ %s མེད། - ཕྱིར་ལོག་གཅིག་ཀྱང་བྱེད་མེད།"
+
+msgid "A %s"
+msgstr "འཕར་བསྣན %s"
+
+msgid ""
+"Aborting because you may have accidentally tried to backup two different "
+"data sets to the same remote location, or using the same archive directory."
+"  If this is not a mistake, use the --allow-source-mismatch switch to avoid "
+"seeing this message"
+msgstr ""
+
+msgid "Added incremental Backupset (start_time: %s / end_time: %s)"
+msgstr ""
+"འཕར་ཚད་གྲབས་ཉར་ཚོགས་གསར་སྣོན། (འགོ་རྩོམ་དུས་ཚོད།：%s / "
+"མཇུག་སྒྲིལ་དུས་ཚོད།：%s)"
+
+msgid "Added set %s to pre-existing chain %s"
+msgstr "ཚོགས་སྤྱི་ %s ཡོད་པའི་གྲབས་ཉར་ཕྲེང་ %s ལ་སྣོན།"
+
+msgid "Also found %d backup set not part of any chain,"
+msgid_plural "Also found %d backup sets not part of any chain,"
+msgstr[0] "ད་དུང་%d གྲབས་ཉར་ཕྲེང་གང་རུང་ལ་མི་གཏོགས་པའི་གྲབས་ཉར་ཚོགས་རྙེད་པ།"
+msgstr[1] "ད་དུང་%d གྲབས་ཉར་ཕྲེང་གང་རུང་ལ་མི་གཏོགས་པའི་གྲབས་ཉར་ཚོགས་རྙེད་པ།"
+
+msgid "Archive dir: %s"
+msgstr "ཉར་ཚགས་ཀྱི་འགྲོ་ལམ།：%s"
+
+msgid "Attempt %s failed. %s: %s"
+msgstr " ཐེངས་ %s ཚོད་ལྟ་ཕམ་པ་%s: %s"
+
+msgid "Attempt to forget unknown tempfile %s - this is probably a bug."
+msgstr ""
+"མི་ཤེས་པའི་གནས་སྐབས་ཡིག་ཆ་ %s ལེན་པར་ཚོད་ལྟ། - འདི་ནི་ bug ཞིག་ཡིན་སྲིད།"
+
+msgid "Backend error detail: %s"
+msgstr "རྒྱབ་སྟེགས་སྒྲིག་ཆས་ནོར་འཁྲུལ་གནས་ཚུལ་ཞིབ་ཕྲ།：%s"
+
+msgid "Backends and their URL formats:"
+msgstr "རྒྱབ་སྟེགས་དང་ URL རྣམ་གཞག："
+
+msgid "Backtrace of previous error: %s"
+msgstr "ནོར་འཁྲུལ་གོང་མའི་ཕྱིར་ལོག：%s"
+
+msgid "Backup Statistics"
+msgstr "གྲབས་ཉར་བསྡོམས་རྩིས།"
+
+msgid "Backup source directory %s does not exist."
+msgstr "གྲབས་ཉར་ཁུངས་དཀར་ཆག་ %s མེད།"
+
+msgid "BackupSet.delete: missing %s"
+msgstr "BackupSet.delete: %s བོར་བ།"
+
+msgid ""
+"Bad URL '%s'.\n"
+"Examples of URL strings are \"scp://user@host.net:1234/path\" and\n"
+"\"file:///usr/local\".  See the man page for more information."
+msgstr ""
+
+msgid ""
+"Bad interval string \"%s\"\n"
+"\n"
+"Intervals are specified like 2Y (2 years) or 2h30m (2.5 hours).  The\n"
+"allowed special characters are s, m, h, D, W, M, and Y.  See the man\n"
+"page for more information."
+msgstr ""
+
+msgid ""
+"Bad time string \"%s\"\n"
+"\n"
+"The acceptible time strings are intervals (like \"3D64s\"), w3-datetime\n"
+"strings, like \"2002-04-26T04:22:01-07:00\" (strings like\n"
+"\"2002-04-26T04:22:01\" are also acceptable - duplicity will use the\n"
+"current time zone), or ordinary dates like 2/4/1997 or 2001-04-23\n"
+"(various combinations are acceptable, but the month always precedes\n"
+"the day)."
+msgstr ""
+
+msgid "Calculated hash: %s"
+msgstr "བརྩིས་པའི་ hash ཚད།：%s"
+
+msgid ""
+"Cannot use empty passphrase with symmetric encryption!  Please try again."
+msgstr ""
+"དོ་མཉམ་གསང་སྡོམ་གྱིས་གསང་ཨང་སྟོང་པ་སྤྱོད་མི་ཐུབ། ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་རོགས།"
+
+msgid "Chain end time: "
+msgstr "གྲབས་ཉར་ཕྲེང་མཇུག་སྒྲིལ་གྱི་དུས་ཚོད།： "
+
+msgid "Chain start time: "
+msgstr "གྲབས་ཉར་ཕྲེང་མགོ་རྩོམ་གྱི་དུས་ཚོད།： "
+
+msgid "Cleaning up previous partial %s backup set, restarting."
+msgstr ""
+"སྔོན་ལུས་པའི་ཆ་མི་ཚང་བའི་གྲབས་ཉར་ཚོགས %s གཙང་བཤེར་བྱེད་ཅིང་། "
+"ཡང་བསྐྱར་གྲབས་ཉར་བྱེད།"
+
+msgid "Cleanup of temporary directory %s failed - this is probably a bug."
+msgstr "གནས་སྐབས་དཀར་ཆག་ %s གཙང་བཤེར་ཕམ་པ། - འདི་ནི་ bug ཞིག་ཡིན་སྲིད།"
+
+msgid "Cleanup of temporary file %s failed"
+msgstr "གནས་སྐབས་ཡིག་ཆ་ %s གཙང་བཤེར་ཕམ་པ།"
+
+msgid "Collection Status"
+msgstr "ཕྱོགས་བསྡུས་རྣམ་པ།"
+
+msgid "Command line error: %s"
+msgstr "བཀའ་བརྡ་ཕྲེང་གི་ནོར་འཁྲུལ།：%s"
+
+msgid "Command line warning: %s"
+msgstr "བཀའ་བརྡ་ཕྲེང་གི་ཐ་ཚིག %s"
+
+msgid "Commands:"
+msgstr "བཀའ་བརྡ།"
+
+msgid "Comparing %s and %s"
+msgstr " %s དང་ %s སྡུར་བ།"
+
+msgid "Connecting with backend: %s"
+msgstr "རྒྱབ་སྟེགས་སྒྲིག་ཆས།：%sའབྲེལ་བ།"
+
+msgid "Connection failed, please check your password: %s"
+msgstr "བསྡུས་སྒྲིལ་ཕམ་པ། ཁྱེད་ཀྱི་གསང་ཨང་།：%s ལ་ཞིབ་བཤེར་བྱེད་རོགས།"
+
+msgid "Copying %s to local cache."
+msgstr "%s ནི་རང་སའི་ལྷོད་གཏོང་ལ་མཁོ་ཕབ་བྱེད།"
+
+msgid "Could not initialize backend: %s"
+msgstr "རྒྱབ་སྟེགས།：%s ཐོག་མ་ཅན་དུ་སྒྱུར་མི་ཐུབ།"
+
+msgid ""
+"Current active backup chain is older than specified time.  However, it will "
+"not be deleted.  To remove all your backups, manually purge the repository."
+msgstr ""
+
+msgid "D %s"
+msgstr "%s འདོར་བ།"
+
+msgid "Data for file %s is different"
+msgstr "ཡིག་ཆ་ %s ཡི་གཞི་གྲངས་མི་མཚུངས།"
+
+msgid "Deleting %s"
+msgstr "%s འདོར་བ།"
+
+msgid "Deleting backup chain at time:"
+msgid_plural "Deleting backup chains at times:"
+msgstr[0] "གཤམ་གྱི་དུས་ཚོད་གྲབས་ཉར་ཕྲེང་འདོར་བ།"
+msgstr[1] "གཤམ་གྱི་དུས་ཚོད་གྲབས་ཉར་ཕྲེང་འདོར་བ།"
+
+msgid "Deleting complete backup chain %s"
+msgstr "ཀུན་པོའི་གྲབས་ཉར་ཕྲེང་ %s འདོར་བ།"
+
+msgid "Deleting complete signature chain %s"
+msgstr "ཀུན་པོའི་མིང་འགོད་ཕྲེང་ %sའདོར་བ།"
+
+msgid "Deleting incremental backup chain %s"
+msgstr "འཕར་ཚད་གྲབས་ཉར་ཕྲེང་ %s འདོར་བ།"
+
+msgid "Deleting incremental signature chain %s"
+msgstr "འཕར་ཚད་མིང་འགོད་ཕྲེང་ %s འདོར་བ།"
+
+msgid "Deleting local %s (not authoritative at backend)."
+msgstr "རང་སའི་ %s འདོར་བ།(རྒྱབ་སྟེགས་སྒྲིག་ཆས་སུ་བྱེད་ནུས་མི་ཐོན།)"
+
+msgid "Deleting this file from backend:"
+msgid_plural "Deleting these files from backend:"
+msgstr[0] "རྒྱབ་སྟེགས་སུ་ཡིག་ཆ་འདི་འདོར་བ།："
+msgstr[1] "རྒྱབ་སྟེགས་སུ་ཡིག་ཆ་འདི་འདོར་བ།："
+
+msgid "Deleting tree %s"
+msgstr "དཀར་ཆག་སྡོང་འགྲེམས %s འདོར་བ།"
+
+msgid "Device file %%s has numbers %s, expected %s"
+msgstr "སྒྲིག་ཆས་ཡིག་ཆ་ %%s དང་། སྒྲིག་ཆས་ཨང་ནི་ %s  %s ཡིན་དགོས།"
+
+msgid "Difference found:"
+msgstr "ཁྱད་པར་རྙེད་པ།："
+
+msgid "Enter 'duplicity --help' for help screen."
+msgstr "duplicity --help ནང་བཅུག་ནས་རོགས་རམ་ལ་ལྟ་བ།"
+
+msgid "Error %s getting delta for %s"
+msgstr "ནོར་འཁྲུལ་ %s ( %s ཡི་ཁྱད་པར་རྩིས་སྐབས་ནོར་འདོན་པ།)"
+
+msgid "Error '%s' patching %s"
+msgstr "ནོར་འཁྲུལ་“%s” མིག་སྔར་ %s ཕྱིར་འབྲི།"
+
+msgid "Error '%s' processing %s"
+msgstr "ནོར་འཁྲུལ་ %s ( %s སྒྲིག་གཅོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།)"
+
+msgid "Error accessing possibly locked file %s"
+msgstr "སྒྲོག་སྲིད་པའི་ཡིག་ཆ་ %s ལྟ་སྤྱོད་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error compiling regular expression %s"
+msgstr "ཚད་མཐུན་མཚོན་ཚུལ་ %s དབྱེ་ཞིབ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error initializing file %s"
+msgstr "ཡིག་ཆ་ %s ཐོག་མ་ཅན་དུ་སྒྱུར་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error listing directory %s"
+msgstr "དཀར་ཆག་ %s འགྲེམས་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error opening file %s"
+msgstr "ཡིག་ཆ་ %s ཁ་འབྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Extracting backup chains from list of files: %s"
+msgstr "ཡིག་ཆ་རེའུ་མིག་ལས་གྲབས་ཉར་ཕྲེང་།：%sའདོན་པ།"
+
+msgid "Failed to read %s: %s"
+msgstr " %s ཀློག་པ་ཕམ་པ།： %s"
+
+msgid ""
+"Fatal Error while processing expression\n"
+"%s"
+msgstr ""
+
+msgid ""
+"Fatal Error: Backup source directory has changed.\n"
+"Current directory: %s\n"
+"Previous directory: %s"
+msgstr ""
+
+msgid ""
+"Fatal Error: Backup source host has changed.\n"
+"Current hostname: %s\n"
+"Previous hostname: %s"
+msgstr ""
+
+msgid "Fatal Error: Neither remote nor local manifest is readable."
+msgstr "ནོར་འཁྲུལ་ཚབས་ཆེན།：རང་ས་དང་རྒྱང་རིང་གསལ་ཐོ་ཀློག་མི་ཐུབ།"
+
+msgid "Fatal Error: No manifests found for most recent backup"
+msgstr "ནོར་འཁྲུལ་ཚབས་ཆེན།：ཉེ་བའི་གྲབས་ཉར་གྱི་གསལ་ཐོ་མེད།"
+
+msgid ""
+"Fatal Error: Remote manifest does not match local one.  Either the remote "
+"backup set or the local archive directory has been corrupted."
+msgstr ""
+"ནོར་འཁྲུལ་ཚབས་ཆེན།：རྒྱང་རིང་དང་རང་སའི་གསལ་ཐོ་ཆ་མི་མཉམ། "
+"རང་སའི་ཉར་ཚགས་དཀར་ཆག་ཡང་ན་རྒྱང་རིང་གྲབས་ཉར་ཚོགས་ཐོར་བ།"
+
+msgid ""
+"Fatal Error: The file specification\n"
+"    %s\n"
+"cannot match any files in the base directory\n"
+"    %s\n"
+"Useful file specifications begin with the base directory or some\n"
+"pattern (such as '**') which matches the base directory."
+msgstr ""
+
+msgid ""
+"Fatal Error: Unable to start incremental backup.  Old signatures not found "
+"and incremental specified"
+msgstr ""
+"ནོར་འཁྲུལ་ཚབས་ཆེན།：རྙིང་པའི་མིང་རྟགས་འགོད་པ་མེད། "
+"འཕར་ཚད་གྲབས་ཉར་མགོ་སློང་མི་ཐུབ།"
+
+msgid "File %%s has mtime %s, expected %s"
+msgstr "ཡིག་ཆ་ %%s mtime ནི %s ཡིན།  %sཡིན་དགོས།"
+
+msgid "File %%s has permissions %s, expected %s"
+msgstr "ཡིག་ཆ་ %%s དབང་ཚད་ནི %s ཡིན།  %sཡིན་དགོས།"
+
+msgid "File %%s has type %s, expected %s"
+msgstr "ཡིག་ཆ་ %%s རིགས་གྲས་ནི་ %s ཡིན།  %s ཡིན་དགོས།"
+
+msgid "File %s already exists, will not overwrite."
+msgstr "ཡིག་ཆ་ %s ཡོད་པ། མི་འགེབས་པ།"
+
+msgid ""
+"File %s complete in backup set.\n"
+"Continuing restart on file %s."
+msgstr ""
+
+msgid "File %s is missing"
+msgstr "ཡིག་ཆ་ %s བོར་བ།"
+
+msgid "File %s is not part of a known set; creating new set"
+msgstr ""
+"ཡིག་ཆ་ %s ཤེས་པའི་ཚོགས་སྤྱི་གང་རུང་ལ་ཡང་མི་གཏོགས། ཚོགས་སྤྱི་གསར་པ་བཟོ།"
+
+msgid "File %s is part of known set"
+msgstr "ཡིག་ཆ་ %s ཤེས་པའི་ཚོགས་སྤྱིར་གཏོགས།"
+
+msgid ""
+"File %s missing in backup set.\n"
+"Continuing restart on file %s."
+msgstr ""
+
+msgid "File %s not found locally after get from backend"
+msgstr "རྒྱབ་སྟེགས་ལས་ལེན་རྗེས། རང་སར་ཡིག་ཆ་ %s མི་རྙེད།"
+
+msgid "File %s was corrupted during upload."
+msgstr "ཡིག་ཆ་ %s ཡར་སྐྱེལ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "File: %s"
+msgstr "ཡིག་ཆ།：%s"
+
+msgid "First and second passphrases do not match!  Please try again."
+msgstr "ནང་བཅུག་ཐེངས་གཉིས་ཀྱི་གསང་ཨང་ཆ་མི་མཉམ། ཡར་བསྐྱར་ཚོད་ལྟ་བྱེད་རོགས།"
+
+msgid "Forgetting temporary file %s"
+msgstr "གནས་སྐབས་ཡིག་ཆ་ %s ལེན་པ།"
+
+msgid "Found %d secondary backup chain."
+msgid_plural "Found %d secondary backup chains."
+msgstr[0] " %d ཡི་རིམ་ཕལ་གྲབས་ཉར་ཕྲེང་རྙེད་པ།"
+msgstr[1] " %d ཡི་རིམ་ཕལ་གྲབས་ཉར་ཕྲེང་རྙེད་པ།"
+
+msgid "Found backup chain %s"
+msgstr "གྲབས་ཉར་ཕྲེང་ %s རྙེད་པ།"
+
+msgid "Found old backup chain at the following time:"
+msgid_plural "Found old backup chains at the following times:"
+msgstr[0] "གཤམ་གྱི་དུས་ཚོད་ཀྱི་གྲབས་ཉར་ཕྲེང་རྙིང་པ་རྙེད་པ།："
+msgstr[1] "གཤམ་གྱི་དུས་ཚོད་ཀྱི་གྲབས་ཉར་ཕྲེང་རྙིང་པ་རྙེད་པ།："
+
+msgid "Found orphaned set %s"
+msgstr "ཁེར་རྐྱང་གི་ཚོགས་སྤྱི་ %s རྙེད་པ།"
+
+msgid "Found primary backup chain with matching signature chain:"
+msgstr "གྲབས་ཉར་ཕྲེང་གཙོ་དང་དེའི་འབྲེལ་བའི་མིང་རྟགས་ཕྲེང་རྙེད་པ།："
+
+msgid "Found the following file to delete:"
+msgid_plural "Found the following files to delete:"
+msgstr[0] "གཤམ་གྱི་འདོར་དགོས་པའི་ཡིག་ཆ་རྙེད་པ："
+msgstr[1] "གཤམ་གྱི་འདོར་དགོས་པའི་ཡིག་ཆ་རྙེད་པ："
+
+msgid "Full"
+msgstr "ཆ་ཚང་།"
+
+msgid "GPG error detail: %s"
+msgstr "GPG ནོར་འཁྲུལ་གནས་ཚུལ་ཞིབ་ཕྲ།：%s"
+
+msgid "GPG process %d terminated before wait()"
+msgstr "GPG འཕེལ་རིམ་ %d ནི་ wait() སྔོན་དུ་མཇུག་སྒྲིལ།"
+
+msgid "Getting delta of %s and %s"
+msgstr " %s དང་ %s ཡི་ཁྱད་པར་རྩིས།"
+
+msgid "Giving up after %s attempts. %s: %s"
+msgstr " ཐེངས་ %s ཡི་ཚོད་ལྟ་བྱས་རྗེས་%s: %s བསྐྱུར།"
+
+msgid "GnuPG passphrase for signing key:"
+msgstr "GnuPG མིང་རྟགས་འགོད་པའི་གསང་ལྡེའི་གསང་ཨང་།："
+
+msgid "GnuPG passphrase:"
+msgstr "GnuPG གསང་ཨང་།："
+
+msgid "Hashes don't match"
+msgstr "ཧ་ཞིའི་ཚད་ཆ་མི་མཉམ།"
+
+msgid "IGNORED_ERROR: Warning: ignoring error as requested: %s: %s"
+msgstr ""
+"སྣང་མེད་དུ་བཏང་བའི་ནོར་འཁྲུལ།：ཐ་ཚིག སྒྲིག་འགོད་ལྟར་ནོར་འཁྲུལ།：%s: %s "
+"སྣང་མེད་དུ་གཏོང་།"
+
+msgid "INT intercepted...exiting."
+msgstr "INT བརྡ་རྟགས་འབྱོར་བ།  ... ཕྱིར་འདོན་པ།"
+
+msgid "Ignoring file (rejected by backup set) '%s'"
+msgstr "སྣང་མེད་དུ་གཏོང་། (གྲབས་ཉར་ཚོགས་པས་ཟློག་པ།) ཡིག་ཆ། %s"
+
+msgid "Ignoring incremental Backupset (start_time: %s; needed: %s)"
+msgstr ""
+"འཕར་ཚད་གྲབས་ཉར་ཚོགས་སྣང་མེད་དུ་གཏོང་། (མགོ་རྩོམ་དུས་ཚོད།：%s "
+"མཇུག་སྒྲིལ་དུས་ཚོད།：%s)"
+
+msgid "Import of %s %s"
+msgstr "Python import %s %s"
+
+msgid "Incremental"
+msgstr "འཕར་ཚད།"
+
+msgid "Invalid data - %s hash mismatch for file:"
+msgstr "ནུས་མེད་ཀྱི་གཞི་གྲངས་ -  %s hash ཚད་དང་ཡིག་ཆ་ཆ་མི་མཉམ།："
+
+msgid "Last %s backup left a partial set, restarting."
+msgstr ""
+"ཉེ་ཆར %s གྲབས་ཉར་གྱིས་ཆ་མི་ཚང་བའི་གྲབས་ཉར་ཚོགས་ཤིག་ལྷག "
+"གྲབས་ཉར་མགོ་བསྐྱར་སློང་།"
+
+msgid "Last full backup date:"
+msgstr "ཐེངས་ཆེས་མཐའ་མའི་གྲབས་ཉར་དུས་ཚེས།："
+
+msgid "Last full backup date: none"
+msgstr "ཐེངས་ཆེས་མཐའ་མའི་གྲབས་ཉར་དུས་ཚེས།：མེད།"
+
+msgid "Last full backup is too old, forcing full backup"
+msgstr "ཐེངས་ཆེས་མཐའ་མའི་གྲབས་ཉར་དུས་བརྒལ། བཙན་ཤེད་ཀྱིས་ཆ་ཚང་གྲབས་ཉར།"
+
+msgid ""
+"Last selection expression:\n"
+"    %s\n"
+"only specifies that files be included.  Because the default is to\n"
+"include all files, the expression is redundant.  Exiting because this\n"
+"probably isn't what you meant."
+msgstr ""
+
+msgid "Local and Remote metadata are synchronized, no sync needed."
+msgstr ""
+"རང་ས་དང་རྒྱང་རིང་རྒྱུ་གཞི་གྲངས་གོམ་མཉམ་པ། ཡང་བསྐྱར་གོམ་མཉམ་བྱེད་མི་དགོས།"
+
+msgid "M %s"
+msgstr " %s བཟོ་བཅོས།"
+
+msgid "Main action: "
+msgstr "བཀོལ་སྤྱོད་གཙོ་བོ།： "
+
+msgid "Making directory %s"
+msgstr "དཀར་ཆག %s གསར་བཟོ།"
+
+msgid "Manifest hash: %s"
+msgstr "གསལ་ཐོའི་ hash ཚད།：%s"
+
+msgid "Manifests not equal because different volume numbers"
+msgstr "གསལ་ཐོར་མི་འདྲ་བའི་སྒྲིལ་གྲངས་ཚུད་པ།"
+
+msgid "Manifests not equal because hosts or directories differ"
+msgstr "གསལ་ཐོའི་གཙོ་འཁོར་ཡང་ན་དཀར་ཆག་མི་མཚུངས།"
+
+msgid "Manifests not equal because volume lists differ"
+msgstr "གསལ་ཐོའི་སྒྲིལ་རེའུ་མིག་མི་མཚུངས།"
+
+msgid ""
+"Max open files of %s is too low, should be >= 1024.\n"
+"Use 'ulimit -n 1024' or higher to correct.\n"
+msgstr ""
+
+msgid "MultiBackend: Could not load config file %s: %s "
+msgstr "རྒྱབ་སྟེགས་མང་པོ།：སྡེབ་སྒྲིག་ཡིག་ཆ་ %s：%s ཀློག་མི་ཐུབ།"
+
+msgid "MultiBackend: _put: write to store #%s (%s)"
+msgstr "རྒྱབ་སྟེགས་མང་པོ།：_put：རྒྱབ་སྟེགས་གསོག་འཇོག་ #%s། (%s)འབྲི་བ།"
+
+msgid "MultiBackend: combined list: %s"
+msgstr "རྒྱབ་སྟེགས་མང་པོ།：མཉམ་བསྲེས་རེའུ་མིག：%s"
+
+msgid "MultiBackend: failed to delete %s from %s"
+msgstr "རྒྱབ་སྟེགས་མང་པོ།： %s འདོར་བ་ཕམ་པ། ( %s ལས་འདོར་བ།)"
+
+msgid ""
+"MultiBackend: failed to delete %s. Tried all backing stores and none "
+"succeeded"
+msgstr ""
+"རྒྱབ་སྟེགས་མང་པོ： %s འདོར་བ་ཕམ་པ། "
+"རྒྱབ་སྟེགས་གསོག་འཇོག་ཚང་མ་ཚོད་ལྟ་བྱས་ཀྱང་ཕམ་པ།"
+
+msgid "MultiBackend: failed to get %s to %s from %s"
+msgstr "རྒྱབ་སྟེགས་མང་པོ།： %s ལས་ %s ལེན་པ་ཕམ་པ། ( %s ལས་ལེན་པ།)"
+
+msgid ""
+"MultiBackend: failed to get %s. Tried all backing stores and none succeeded"
+msgstr ""
+"རྒྱབ་སྟེགས་མང་པོ།： %s ལེན་པ་ཕམ་པ། "
+"རྒྱབ་སྟེགས་གསོག་འཇོག་ཚང་མ་ཚོད་ལྟ་བྱས་ཀྱང་ཕམ་པ།"
+
+msgid ""
+"MultiBackend: failed to write %s. Tried all backing stores and none "
+"succeeded"
+msgstr ""
+"རྒྱབ་སྟེགས་མང་པོ།：%s འབྲི་བ་ཕམ་པ། "
+"རྒྱབ་སྟེགས་གསོག་འཇོག་ཚང་མ་ཚོད་ལྟ་བྱས་ཀྱང་ཕམ་པ།"
+
+msgid ""
+"MultiBackend: failed to write to store #%s (%s), try #%s, Exception: %s"
+msgstr ""
+"རྒྱབ་སྟེགས་མང་པོ：རྒྱབ་སྟེགས་གསོག་འཇོག་ #%s (%s) འབྲི་བ་ཕམ་པ། #%sཚོད་ལྟ། "
+"འགལ་བ：%s"
+
+msgid "MultiBackend: list from %s: %s"
+msgstr "རྒྱབ་སྟེགས་མང་པོ།： %s ལས་འགྲེམས་པ།：%s"
+
+msgid "MultiBackend: set env %s = %s"
+msgstr "རྒྱབ་སྟེགས་མང་པོ།：ཁོར་ཡུག་འགྱུར་ཚད་ %s = %s སྒྲིག་འགོད།"
+
+msgid "MultiBackend: use store %s"
+msgstr "རྒྱབ་སྟེགས་མང་པོ།：རྒྱབ་སྟེགས་གསོག་འཇོག་ %s སྤྱོད་པ།"
+
+msgid "New file %s"
+msgstr "ཡིག་ཆ་གསར་བ། %s"
+
+msgid "No backup chains with active signatures found"
+msgstr "བྱེད་འགུལ་མིང་རྟགས་འགོད་པའི་གྲབས་ཉར་ཕྲེང་མ་རྙེད།"
+
+msgid "No extraneous files found, nothing deleted in cleanup."
+msgstr ""
+"འབྲེལ་མེད་ཀྱི་ཡིག་ཆ་མ་རྙེད། གཙང་བཤེར་ཐེངས་འདི་ལ་ཡིག་ཆ་གང་རུང་ཀྱང་འདོར་མེད།"
+
+msgid "No files found in archive - nothing restored."
+msgstr "ཉར་ཚགས་སུ་ཡིག་ཆ་མ་རྙེད - སླར་གསོ་གང་རུང་ཀྱང་བྱེད་མེད།"
+
+msgid "No old backup sets found, nothing deleted."
+msgstr "གྲབས་ཉར་རྙིང་པ་མ་རྙེད། ཡིག་ཆ་གང་རུང་ཀྱང་འདོར་མེད།"
+
+msgid "No orphaned or incomplete backup sets found."
+msgstr "ཁེར་རྐྱང་ཡང་ན་ཆ་མི་ཚང་བའི་གྲབས་ཉར་ཚོགས་མ་རྙེད།"
+
+msgid ""
+"No signature chain for the requested time.  Using oldest available chain, "
+"starting at time %s."
+msgstr ""
+"རེ་ཞུའི་དུས་ཚོད་ལ་མིང་རྟགས་འགོད་པའི་གྲབས་ཉར་ཕྲེང་མེད། དུས་ཚོད་ %s "
+"མགོ་རྩོམ་པའི་ཆེས་རྙིང་བའི་སྤྱོད་རུང་གྲབས་ཉར་ཕྲེང་སྤྱོད་པ།"
+
+msgid "No signatures found, switching to full backup."
+msgstr "མིང་རྟགས་འགོད་པ་མི་རྙེད། ཆ་ཚང་གི་གྲབས་ཉར་ལ་སྒྱུར།"
+
+msgid "Num volumes:"
+msgstr "སྒྲིལ་གྲངས།："
+
+msgid "Number of contained backup sets: %d"
+msgstr "འདུས་པའི་གྲབས་ཉར་ཚོགས་གྲངས་ཀ：%d"
+
+msgid "Other is not VolumeInfo"
+msgstr "Other ནི་ལུགས་མཐུན་སྒྲིལ་ཆ་འཕྲིན་མིན།"
+
+msgid "PASSPHRASE variable not set, asking user."
+msgstr "འགྱུར་ཚད་ PASSPHRASE སྒྲིག་འགོད་བྱེད་མེད། སྤྱོད་མཁན་ལ་འདྲི།"
+
+msgid "Patching %s"
+msgstr " %s ལ་ཕྱིར་འབྲི།"
+
+msgid "Preferring Backupset over previous one!"
+msgstr "ཐེངས་སྔོན་གྱི་གྲབས་ཉར་ཚོགས་སྤྱོད་པ།"
+
+msgid "Processed volume %d"
+msgstr "སྒྲིག་བཅད་ཀྱི་སྒྲིལ %d"
+
+msgid "Processed volume %d of %d"
+msgstr "སྒྲིལ %d སྒྲིག་གཅོད་བྱས། ཁྱོན་བསྡོམས་སྒྲིལ %d "
+
+msgid "PyDrive backend: multiple files called '%s'."
+msgstr "PyDrive རྒྱབ་སྟེགས།：ཡིག་ཆ་མང་པོ་འདྲེན་སྤྱོད %s"
+
+msgid ""
+"RESTART: Impossible backup state: manifest has %d vols, remote has %d vols.\n"
+"         Restart is impossible ... duplicity will clean off the last partial\n"
+"         backup then restart the backup from the beginning."
+msgstr ""
+
+msgid ""
+"RESTART: The first volume failed to upload before termination.\n"
+"         Restart is impossible...starting backup from beginning."
+msgstr ""
+
+msgid ""
+"RESTART: Volumes %d to %d failed to upload before termination.\n"
+"         Restarting backup at volume %d."
+msgstr ""
+
+msgid "Reading globbing filelist %s"
+msgstr "ཀུན་འཕྲོད་རྟགས་ཡིག་ཆ་རེའུ་མིག་ %s ཀློག་པ།"
+
+msgid "Reading results of '%s'"
+msgstr "“%s” ཀློག་པའི་མཐའ་འབྲས།"
+
+msgid "Registering (mkstemp) temporary file %s"
+msgstr "(mkstemp) གནས་སྐབས་ཡིག་ཆ་ %s ཐོ་འགོད།"
+
+msgid "Registering (mktemp) temporary file %s"
+msgstr "(mktemp) གནས་སྐབས་ཡིག་ཆ་ %s ཐོ་འགོད།"
+
+msgid "Releasing lockfile %s"
+msgstr "སྒྲོག་ཡིག་ཆ་ %s ལྷོད་པ།"
+
+msgid "Removing still remembered temporary file %s"
+msgstr "མ་ལེན་པའི་གནས་སྐབས་ཡིག་ཆ་ %s འདོར་བ།"
+
+msgid "Rerun command with --force option to actually delete."
+msgstr ""
+"--force "
+"འདེམས་ཚན་སྤྱད་ནས་བཀའ་བརྡ་ཡང་བསྐྱར་འཁོར་སྐྱོད་བྱས་ནས་འདོར་བ་ལག་བསྟར་བྱེད།"
+
+msgid "Restarting after volume %s, file %s, block %s"
+msgstr "སྒྲིལ %s ལས། ཡིག་ཆ་ %s རྡོག་ %s རྗེས་སུ་གྲབས་ཉར་མགོ་བསྐྱར་སློང་བྱེད།"
+
+msgid ""
+"Restarting backup, but current encryption settings do not match original "
+"settings"
+msgstr ""
+"གྲབས་ཉར་མགོ་བསྐྱར་སློང་བྱས་རྗེས། "
+"མིག་སྔ་གསང་སྡོམ་སྒྲིག་འགོད་དང་སྔོན་སྒྲིག་འགོད་ཆ་མི་མཉམ།"
+
+msgid ""
+"Restore destination directory %s already exists.\n"
+"Will not overwrite."
+msgstr ""
+
+msgid "Retype passphrase for signing key to confirm: "
+msgstr "ཡང་བསྐྱར་མིང་རྟགས་འགོད་པའི་གསང་ལྡེའི་གསང་ཨང་ནང་འཇུག་རོགས།： "
+
+msgid "Retype passphrase to confirm: "
+msgstr "ཡང་བསྐྱར་གསང་ཨང་ནང་འཇུག་རོགས： "
+
+msgid "Reuse configured PASSPHRASE as SIGN_PASSPHRASE"
+msgstr "SIGN_PASSPHRASE ཡིས་ PASSPHRASE ཡི་སྡེབ་སྒྲིག་མགོ་བསྐྱར་སློང་།"
+
+msgid "Reuse configured SIGN_PASSPHRASE as PASSPHRASE"
+msgstr "PASSPHRASE ཡིས་ SIGN_PASSPHRASE ཡི་སྡེབ་སྒྲིག་མགོ་བསྐྱར་སློང་།"
+
+msgid "Run duplicity again with the --force option to actually delete."
+msgstr ""
+" --force འདེམས་ཚན་སྤྱད་ནས་ duplicity "
+"འཁོར་སྐྱོད་ནས་འདོར་བའི་བཀོལ་སྤྱོད་ལག་བསྟར་བྱེད།"
+
+msgid ""
+"Running in 'ignore errors' mode due to %s; please re-consider if this was "
+"not intended"
+msgstr ""
+" %s བས། མིག་སྔར་བྱ་རིམ་“ནོར་འཁྲུལ་སྣང་མེད་གཏོང་”གི་རྣམ་པར་འཁོར་སྐྱོད། "
+"གཟབ་ནན་གྱིས་བསམ་བློ་གཏོང་རོགས།"
+
+msgid "Secondary chain %d of %d:"
+msgstr "ཨང་ %d རིམ་གྱི་ཕྲེང་། (སྤྱིར་བསྡོམས %d )："
+
+msgid "Selecting %s"
+msgstr "%s འདེམ་པ།"
+
+msgid ""
+"Selection options --exclude/--include\n"
+"currently work only when backing up,not restoring."
+msgstr ""
+
+msgid ""
+"Sign key should be an 8, 16 alt. 40 character hex string, like 'AA0E73D2'.\n"
+"Received '%s' instead."
+msgstr ""
+
+msgid "Skipping %s because of previous error"
+msgstr "སྔོན་གྱི་ནོར་འཁྲུལ་བས།  %s མཆོང་པ།"
+
+msgid "Skipping socket %s"
+msgstr "སྐོང་འཛུད་ཡིག་ %s མཆོང་པ།"
+
+msgid "Specified archive directory '%s' does not exist, or is not a directory"
+msgstr "བསྟན་པའི་ཉར་ཚགས་དཀར་ཆག་“%s”མེད་པ་ཡང་ན་ཡིག་ཁུག་གཅིག་མིན།"
+
+msgid "Symlink %%s points to %s, expected %s"
+msgstr "སྦྲེལ་མཐུད་མཉེན་མོ་ %%s ནི་ %s ལ་བསྟན།  %s ཡིན་དགོས།"
+
+msgid "Sync would copy the following from remote to local:"
+msgstr "གོམ་མཉམ་གྱིས་རྒྱང་རིང་ནས་གཤམ་གྱི་ནང་དོན་རང་སར་འབེབས་པ།："
+
+msgid "Sync would remove the following spurious local files:"
+msgstr "གོམ་མཉམ་གྱིས་གཤམ་གྱི་རང་སའི་ནུས་མེད་ཡིག་ཆ་འདོར་བ།："
+
+msgid "Synchronizing remote metadata to local cache..."
+msgstr "རྒྱང་རིང་རྒྱུའི་གཞི་གྲངས་རང་སའི་ལྷོད་གཏོང་དུ་གོམ་མཉམ་བྱེད་པ།..."
+
+msgid "Temp has %d available, backup will use approx %d."
+msgstr "གནས་སྐབས་བར་སྟོང་ལ་ %d ལྷག གྲབས་ཉར་ལ་ཕལ་ཆེར་ %d དགོས།"
+
+msgid "Temp space has %d available, backup needs approx %d."
+msgstr "གནས་སྐབས་བར་སྟོང་ལ་ %d ལྷག གྲབས་ཉར་ལ་ཕལ་ཆེར་ %d དགོས།"
+
+msgid "There are backup set(s) at time(s):"
+msgstr "གྲབས་ཉར་ཚོགས་ཡོད་པ།："
+
+msgid "These may be deleted by running duplicity with the \"cleanup\" command."
+msgstr ""
+
+msgid "Threading not available -- zombie processes may appear"
+msgstr "སྐུད་རིམ་སྤྱོད་མི་རུང་ -- ཤི་བའི་འཕེལ་རིམ་ཡོད་སྲིད།"
+
+msgid "Time:"
+msgstr "དུས་ཚོད།:"
+
+msgid "Total number of backup: %d"
+msgstr "གྲབས་ཉར་བསྡོམས་གྲངས།：%d"
+
+msgid "Total number of contained volumes: %d"
+msgstr "འདུས་པའི་སྒྲིལ་གྲངས།：%d"
+
+msgid "Touching %s"
+msgstr " %s གསར་བཟོ།"
+
+msgid "Type of backup set:"
+msgstr "གྲབས་ཉར་ཚོགས་ཀྱི་རིགས་གྲས།："
+
+msgid "Type of file change:"
+msgstr "ཡིག་ཆ་བཟོ་བཅོས་ཀྱི་རིགས་གྲས།："
+
+msgid "Unable to delete %s: %s"
+msgstr " %s：%s འདོར་མི་ཐུབ།"
+
+msgid "Unable to get free space on temp."
+msgstr "གནས་སྐབས་སྟོང་བའི་བར་སྟོང་རེ་ཞུ་མི་ཐུབ།"
+
+msgid "Unable to get max open files."
+msgstr "ཁ་འབྱེད་ཡིག་ཆ་གྲངས་ཀྱི་གོང་ཚད་ཐོབ་མི་ཐུབ།"
+
+msgid "User error detail: %s"
+msgstr "སྤྱོད་མཁན་ནོར་འཁྲུལ་གནས་ཚུལ་ཞིབ་ཕྲ：%s"
+
+msgid "Using archive dir: %s"
+msgstr "ཉར་ཚགས་དཀར་ཆག：%s སྤྱོད་པ།"
+
+msgid "Using backup name: %s"
+msgstr "གྲབས་ཉར་མིང་།：%sསྤྱོད་པ།"
+
+msgid "Using temporary directory %s"
+msgstr "གནས་སྐབས་དཀར་ཆག་ %sསྤྱོད་པ།"
+
+msgid "Verify complete: %s, %s."
+msgstr "ར་སྤྲོད།：%s，%s ལེགས་འགྲུབ།"
+
+msgid "Verify directory %s does not exist"
+msgstr "དག་བཤེར་དཀར་ཆག་ %s མེད་པ།"
+
+msgid "Volume numbers don't match"
+msgstr "སྒྲིལ་གྲངས་ཆ་མི་མཉམ།"
+
+msgid "Volume was signed by key %s, not %s"
+msgstr "སྒྲིལ་འདི་ནི་ %s དཔང་ཡིག་གིས་མིང་རྟགས་འགོད།  %s མིན།"
+
+msgid ""
+"Warning, discarding last backup set, because of missing signature file."
+msgstr "ཐ་ཚིག  མིང་འགོད་ཡིག་ཆ་ཆད་པས། གྲབས་ཉར་ཚོགས་ཆེས་མཐའ་མ་དེ་བསྐྱུར་བ།"
+
+msgid "Warning, found extra Volume identifier"
+msgstr "ཐ་ཚིག སྒྲིལ་མཚོན་རྟགས་ལྷག་མ་རྙེད་པ།"
+
+msgid ""
+"Warning, found incomplete backup sets, probably left from aborted session"
+msgstr "ཐ་ཚིག ཆ་ཚང་གི་གྲབས་ཉར་ཚོགས་རྙེད་པ། བར་གཅོད་ཀྱི་གླེང་པ་ལས་ཡོང་སྲིད།"
+
+msgid "Warning, found signatures but no corresponding backup files"
+msgstr "ཐ་ཚིག  འབྲེལ་ཡོད་གྲབས་ཉར་ཡིག་ཆའི་མིང་འགོད་རྙེད་པ།"
+
+msgid "Warning, found the following local orphaned signature file:"
+msgid_plural "Warning, found the following local orphaned signature files:"
+msgstr[0] "ཐ་ཚིག གཤམ་གྱི་ཁེར་རྐྱང་མིང་འགོད་ཡིག་ཆ་རྙེད་པ།："
+msgstr[1] "ཐ་ཚིག གཤམ་གྱི་ཁེར་རྐྱང་མིང་འགོད་ཡིག་ཆ་རྙེད་པ།："
+
+msgid "Warning, found the following orphaned backup file:"
+msgid_plural "Warning, found the following orphaned backup files:"
+msgstr[0] "ཐ་ཚིག  གཤམ་གྱི་བསྐྱུར་བའི་གྲབས་ཉར་ཡིག་ཆ་རྙེད་པ།："
+msgstr[1] "ཐ་ཚིག  གཤམ་གྱི་བསྐྱུར་བའི་གྲབས་ཉར་ཡིག་ཆ་རྙེད་པ།："
+
+msgid "Warning, found the following remote orphaned signature file:"
+msgid_plural "Warning, found the following remote orphaned signature files:"
+msgstr[0] "ཐ་ཚིག  གཤམ་གྱི་ཁེར་རྐྱང་གི་རྒྱང་རིང་མིང་འགོད་ཡིག་ཆ་རྙེད་པ།："
+msgstr[1] "ཐ་ཚིག  གཤམ་གྱི་ཁེར་རྐྱང་གི་རྒྱང་རིང་མིང་འགོད་ཡིག་ཆ་རྙེད་པ།："
+
+msgid "Warning: %s has negative mtime, treating as 0."
+msgstr "ཐ་ཚིག %s མོ་གྲངས་ mtime འདུས།  0 ལ་བཀོད།"
+
+msgid "Warning: %s invalid devnums (0x%X), treating as (0, 0)."
+msgstr "ཐ་ཚིག %s ནུས་མེད་ཀྱི་སྒྲིག་ཆས་ཨང་། (0x%X)  (0, 0) ལ་བཀོད།"
+
+msgid ""
+"Warning: Option %s is pending deprecation and will be removed in a future release.\n"
+"--include-filelist and --exclude-filelist now accept globbing characters and should be used instead."
+msgstr ""
+
+msgid ""
+"Warning: Option %s is pending deprecation and will be removed in a future release.\n"
+"On many GNU/Linux systems, stdin is represented by /dev/stdin and\n"
+"--include-filelist=/dev/stdin or --exclude-filelist=/dev/stdin could\n"
+"be used as a substitute."
+msgstr ""
+
+msgid ""
+"Warning: Option %s is pending deprecation and will be removed in a future release.\n"
+"Use of default filenames is strongly suggested."
+msgstr ""
+
+msgid "Warning: base %s doesn't exist, continuing"
+msgstr "ཐ་ཚིག རྩ་བའི་འགྲོ་ལམ་ %s མེད་པ། མུ་མཐུད་བྱེད་པ།"
+
+msgid ""
+"Warning: exclude-device-files is not the first selector.\n"
+"This may not be what you intended"
+msgstr ""
+
+msgid "Warning: oldindex %s >= newindex %s"
+msgstr "ཐ་ཚིག གསལ་བྱང་སྔོན་མ %s >= གསལ་བྱང་གསར་པ %s"
+
+msgid ""
+"When using symmetric encryption, the signing passphrase must equal the "
+"encryption passphrase."
+msgstr ""
+"དོ་མཉམ་གསང་སྡོམ་བྱེད་སྐབས། "
+"ངེས་པར་དུ་མཚུངས་པའི་ཐོ་འགོད་གསང་ཨང་དང་གསང་སྡོམ་གསང་ཨང་སྤྱོད།"
+
+msgid "Which can't be deleted because newer sets depend on them."
+msgstr "གྲབས་ཉར་ཚོགས་འདི་དག་གྲབས་ཉར་གསར་བས་བརྟེན་པ། འདོར་མི་ཉན།"
+
+msgid "Writing %s"
+msgstr "%s འབྲི་བ།"
+
+msgid "Writing %s of type %s"
+msgstr " %s འབྲི་བ། དེའི་རིགས་གྲས་ནི་ %s ཡིན།"
+
+msgid ""
+"a previously scheduled task has failed; propagating the result immediately"
+msgstr ""
+"སྔོན་དུ་བཀོད་གཏོང་བའི་ལས་འགན་ཞིག་ཕམ་པ། "
+"ལམ་སེང་ནོར་འཁྲུལ་མཐའ་འབྲས་ཀྱི་ཆ་འཕྲིན་ཕྱིར་ལོག"
+
+msgid "absolute_path"
+msgstr "བལྟོས་མེད་འགྲོ་ལམ།"
+
+msgid "account_id"
+msgstr " རྩིས་ཐོID"
+
+msgid "active workers = %d"
+msgstr "བྱེད་འགུལ་ལས་ཀའི་སྐུད་རིམ་ = %d"
+
+msgid "alias"
+msgstr "མིང་ལྷག"
+
+msgid "and %d incomplete backup set."
+msgid_plural "and %d incomplete backup sets."
+msgstr[0] "ད་དུང་ %d  ཆ་མི་ཚང་བའི་གྲབས་ཉར་ཚོགས།"
+msgstr[1] "ད་དུང་ %d  ཆ་མི་ཚང་བའི་གྲབས་ཉར་ཚོགས།"
+
+msgid "application_key"
+msgstr "Backblaze_B2的application_key"
+
+msgid "backup name"
+msgstr "གྲབས་ཉར་མིང་།"
+
+msgid "bucket_name"
+msgstr "S3 ཡི་bucket མིང་།"
+
+msgid "char"
+msgstr "ཡིག་རྟགས།"
+
+msgid "command"
+msgstr "བཀའ་བརྡ།"
+
+msgid "container_name"
+msgstr "སྣོད་ཆས་ཀྱི་མིང་།"
+
+msgid "count"
+msgstr "གྲངས་ཀ"
+
+msgid "directory"
+msgstr "དཀར་ཆག"
+
+msgid "end_index don't match"
+msgstr "མཇུག་སྒྲིལ་གསལ་བྱང་ཆ་མི་མཉམ།"
+
+msgid "file_descriptor"
+msgstr "ཡིག་ཆ་ཞིབ་བརྗོད་རྟགས།"
+
+msgid "filename"
+msgstr "ཡིག་ཆའི་མིང་།"
+
+msgid "gpg-key-id"
+msgstr "gpgདཔང་ཡིག་ཨང་གྲངས།"
+
+msgid "imap_mailbox"
+msgstr "imapཡིག་སྒམ།"
+
+msgid "inserting barrier"
+msgstr "གོམ་མཉམ་ཚེག་བར་འཇུག"
+
+msgid "instantiating at concurrency %d"
+msgstr " %d ཡི་སྐུད་རིམ་དངོས་དཔེ་ཅན་དུ་སྒྱུར།"
+
+msgid "local"
+msgstr "རང་ས།"
+
+msgid "module"
+msgstr "དཔེ་དུམ།"
+
+msgid "number"
+msgstr "ཨང་ཀི"
+
+msgid "options"
+msgstr "འདེམས་ཚན།"
+
+msgid "other.host"
+msgstr "other.host"
+
+msgid "password"
+msgstr "གསང་ཨང་།"
+
+msgid "path"
+msgstr "འགྲོ་ལམ།"
+
+msgid "pem formatted bundle of certificate authorities"
+msgstr "དཔང་ཡིག་ལས་ཁུངས་ཀྱི་ pem ཡིག་ཆ།"
+
+msgid "port"
+msgstr "མཐུད་ཁ།"
+
+msgid "prefix"
+msgstr "སྔོན་འཇུག"
+
+msgid "pyrax|cloudfiles"
+msgstr "pyrax|cloudfiles"
+
+msgid "regular_expression"
+msgstr "ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "relative_path"
+msgstr "བལྟོས་བཅས་འགྲོ་ལམ།"
+
+msgid "remote"
+msgstr "རྒྱང་རིང་།"
+
+msgid "running task synchronously (asynchronicity disabled)"
+msgstr "གོམ་མཉམ་བྱེད་སྟངས་ལྟར་ལས་འགན་འཁོར་སྐྱོད། (གོམ་འགལ་འགོག་པ།)"
+
+msgid "scheduling task for asynchronous execution"
+msgstr "ལས་འགན་བཀོད་གཏོང་བྱས་ནས་གོམ་འགལ་ལག་བསྟར་བྱེད།"
+
+msgid "seconds"
+msgstr "སྐར་ཆ།"
+
+msgid "shell_pattern"
+msgstr "shellརྣམ་པ།"
+
+msgid "some_dir"
+msgstr "འགྲོ་ལམ།"
+
+msgid "source_dir"
+msgstr "ཁུངས་འགྲོ་ལམ།"
+
+msgid "source_url"
+msgstr "ཁུངས་url"
+
+msgid "start_indicies don't match"
+msgstr "མགོ་རྩོམ་གསལ་བྱང་ཆ་མི་མཉམ།"
+
+msgid "target_dir"
+msgstr "དམིགས་ཚད་འགྲོ་ལམ།"
+
+msgid "target_url"
+msgstr "དམིགས་ཚད་url"
+
+msgid "task completed successfully"
+msgstr "ལས་འགན་ལེགས་འགྲུབ་ཚར་བ།"
+
+msgid "task execution done (success: %s)"
+msgstr "ལས་འགན་ལག་བསྟར་ཚར་བ། (མཇུག་འབྲས：%s)"
+
+msgid "time"
+msgstr "དུས་ཚོད།"
+
+msgid "user"
+msgstr "སྤྱོད་མཁན།"

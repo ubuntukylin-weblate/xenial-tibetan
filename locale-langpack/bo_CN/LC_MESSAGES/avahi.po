@@ -1,0 +1,568 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -D --browse-domains  Browse for browsing domains instead of services\n"
+"    -a --all             Show all services, regardless of the type\n"
+"    -d --domain=DOMAIN   The domain to browse in\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -t --terminate       Terminate after dumping a more or less complete list\n"
+"    -c --cache           Terminate after dumping all entries from the cache\n"
+"    -l --ignore-local    Ignore local services\n"
+"    -r --resolve         Resolve services found\n"
+"    -f --no-fail         Don't fail if the daemon is not available\n"
+"    -p --parsable        Output in parsable format\n"
+msgstr ""
+
+msgid ""
+"    -k --no-db-lookup    Don't lookup service types\n"
+"    -b --dump-db         Dump service type database\n"
+msgstr ""
+
+msgid ""
+"%s [options]\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -s --ssh             Browse SSH servers\n"
+"    -v --vnc             Browse VNC servers\n"
+"    -S --shell           Browse both SSH and VNC\n"
+"    -d --domain=DOMAIN   The domain to browse in\n"
+msgstr ""
+
+msgid ""
+"%s [options] %s <host name ...>\n"
+"%s [options] %s <address ... >\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -n --name            Resolve host name\n"
+"    -a --address         Resolve address\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -6                   Lookup IPv6 address\n"
+"    -4                   Lookup IPv4 address\n"
+msgstr ""
+
+msgid ""
+"%s [options] %s <name> <type> <port> [<txt ...>]\n"
+"%s [options] %s <host-name> <address>\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -s --service         Publish service\n"
+"    -a --address         Publish address\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -d --domain=DOMAIN   Domain to publish service in\n"
+"    -H --host=DOMAIN     Host where service resides\n"
+"       --subtype=SUBTYPE An additional subtype to register this service with\n"
+"    -R --no-reverse      Do not publish reverse entry with address\n"
+"    -f --no-fail         Don't fail if the daemon is not available\n"
+msgstr ""
+
+msgid ""
+"%s [options] <new host name>\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -v --verbose         Enable verbose mode\n"
+msgstr ""
+
+msgid ": All for now\n"
+msgstr ""
+
+msgid ": Cache exhausted\n"
+msgstr ""
+
+msgid "<i>No service currently selected.</i>"
+msgstr "<i>མིག་སྔར་བདམས་པའི་ཞབས་ཞུ་མེད།<i>"
+
+msgid "A NULL terminated list of service types to browse for"
+msgstr "NULLམཇུག་སྒྲིལ་བའི་ཞབས་ཞུ་རིགས་གྲས་རེའུ་མིག་མིག་བཤེར་ལ་བཀོལ།"
+
+msgid "Access denied"
+msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
+
+msgid "Address"
+msgstr "ཤག་གནས།ས་གནས།"
+
+msgid "Address family"
+msgstr "ཤག་གནས་ཀྱི་རིགས།"
+
+msgid "Address:"
+msgstr "གནས་ཡུལ།:"
+
+msgid "An unexpected D-Bus error occurred"
+msgstr "སྔོན་དཔག་མ་ཐུབ་པའི་D-Busནོར་འཁྲུལ་ཞིག་བྱུང་།"
+
+msgid "Avahi Discovery"
+msgstr "Avahiརྙེད་པ།"
+
+msgid "Avahi SSH Server Browser"
+msgstr ""
+
+msgid "Avahi VNC Server Browser"
+msgstr ""
+
+msgid "Avahi Zeroconf Browser"
+msgstr ""
+
+msgid "Avahi client failure: %s"
+msgstr "Avahi དུད་སྣེ་ཕམ་པ་%s"
+
+msgid "Avahi domain browser failure: %s"
+msgstr "Avahi ཁོངས་བཤར་ཆས་ཕམ་པ་%s"
+
+msgid "Avahi resolver failure: %s"
+msgstr "Avahi དབྱེ་ཞིབ་ཆས་ཕམ་པ་%s"
+
+msgid "Bad number of arguments\n"
+msgstr ""
+
+msgid "Bad state"
+msgstr "ནོར་འཁྲུལ་རྣམ་པ།"
+
+msgid "Browse Service Types"
+msgstr "ཞབས་ཞུ་རིགས་གྲས་བཤར་བ།"
+
+msgid "Browse for Zeroconf services available on your network"
+msgstr ""
+
+msgid "Browse for Zeroconf-enabled SSH Servers"
+msgstr ""
+
+msgid "Browse for Zeroconf-enabled VNC Servers"
+msgstr ""
+
+msgid "Browse service type list is empty!"
+msgstr "ཞབས་ཞུ་རིགས་གྲས་རེའུ་མིག་བཤར་ནས་སྟོང་པ་ཡིན།"
+
+msgid "Browsing for service type %s in domain %s failed: %s"
+msgstr "ཞབས་ཞུ་རིགས་གྲས་ %s ཁོངས་ %sབཤར་བ་ཕམ་པ།：%s"
+
+msgid "Browsing for services in domain <b>%s</b>:"
+msgstr "ཞབས་ཞུ་ཁོངས་བཤར་བ།<b>%s</b>："
+
+msgid "Browsing for services on <b>local network</b>:"
+msgstr "ཞབས་ཞུ་ <b>རང་གནས་དྲ་བ་བཤར་བ།</b>："
+
+msgid "Browsing..."
+msgstr "བཤར་བཞིན་པ།..."
+
+msgid "C_onnect"
+msgstr "འབྲེལ་མཐུད།(_O)"
+
+msgid "Canceled.\n"
+msgstr ""
+
+msgid "Change domain"
+msgstr "ཁོངས་བཅོས་པ།"
+
+msgid "Choose SSH server"
+msgstr " SSH ཞབས་ཞུ་ཆས་འདེམ་པ།"
+
+msgid "Choose Shell Server"
+msgstr ""
+
+msgid "Choose VNC server"
+msgstr ""
+
+msgid "Client failure, exiting: %s\n"
+msgstr ""
+
+msgid "Connecting to '%s' ...\n"
+msgstr ""
+
+msgid "DNS failure: FORMERR"
+msgstr "DNS ཕམ་པ།：FORMERR"
+
+msgid "DNS failure: NOTAUTH"
+msgstr ""
+
+msgid "DNS failure: NOTIMP"
+msgstr ""
+
+msgid "DNS failure: NOTZONE"
+msgstr ""
+
+msgid "DNS failure: NXDOMAIN"
+msgstr ""
+
+msgid "DNS failure: NXRRSET"
+msgstr ""
+
+msgid "DNS failure: REFUSED"
+msgstr ""
+
+msgid "DNS failure: SERVFAIL"
+msgstr ""
+
+msgid "DNS failure: YXDOMAIN"
+msgstr ""
+
+msgid "DNS failure: YXRRSET"
+msgstr ""
+
+msgid "Daemon connection failed"
+msgstr "Daemon འབྲེལ་མཐུད་ཕམ་པ་"
+
+msgid "Daemon not running"
+msgstr "Daemonའཁོར་སྐྱོད་བྱས་མེད།"
+
+msgid "Desktop"
+msgstr "ཅོག་ངོས།"
+
+msgid "Disconnected, reconnecting ...\n"
+msgstr ""
+
+msgid "Domain"
+msgstr "ཁོངས།"
+
+msgid "Domain Name:"
+msgstr "ཁོངས་མིང་།"
+
+msgid "E Ifce Prot %-*s %-20s Domain\n"
+msgstr ""
+
+msgid "E Ifce Prot Domain\n"
+msgstr ""
+
+msgid "Established under name '%s'\n"
+msgstr ""
+
+msgid "Failed to add address: %s\n"
+msgstr ""
+
+msgid "Failed to add service: %s\n"
+msgstr ""
+
+msgid "Failed to add subtype '%s': %s\n"
+msgstr ""
+
+msgid "Failed to connect to Avahi server: %s"
+msgstr "Avahi ཞབས་ཞུ་ཆས་འབྲེལ་བ་ཕམ་པ།：%s"
+
+msgid "Failed to create address resolver: %s\n"
+msgstr ""
+
+msgid "Failed to create browser for %s: %s"
+msgstr "%sལ་བཤར་ཆས་གསར་བཟོ་ཕམ་པ།：%s"
+
+msgid "Failed to create client object: %s\n"
+msgstr ""
+
+msgid "Failed to create domain browser: %s"
+msgstr "ཁོངས་བཤར་ཆས་གསར་བཟོ་ཕམ་པ།：%s"
+
+msgid "Failed to create entry group: %s\n"
+msgstr ""
+
+msgid "Failed to create host name resolver: %s\n"
+msgstr ""
+
+msgid "Failed to create resolver for %s of type %s in domain %s: %s"
+msgstr "རིགས་གྲས་ %sལ་ %sདབྱེ་ཞིབ་ཆས་ཁོངས་ %sགསར་བཟོ་ ཕམ་པ།：%s"
+
+msgid "Failed to create simple poll object.\n"
+msgstr ""
+
+msgid "Failed to parse address '%s'\n"
+msgstr ""
+
+msgid "Failed to parse port number: %s\n"
+msgstr ""
+
+msgid "Failed to query host name: %s\n"
+msgstr ""
+
+msgid "Failed to query version string: %s\n"
+msgstr ""
+
+msgid "Failed to read Avahi domain: %s"
+msgstr "Avahiཁོངས་ཀློག་པ་ཕམ་པ།：%s"
+
+msgid "Failed to register: %s\n"
+msgstr ""
+
+msgid "Failed to resolve address '%s': %s\n"
+msgstr ""
+
+msgid "Failed to resolve host name '%s': %s\n"
+msgstr ""
+
+msgid "Failed to resolve service '%s' of type '%s' in domain '%s': %s\n"
+msgstr ""
+
+msgid "Host Name"
+msgstr "གཙོ་འཁོར་གྱི་མིང་།"
+
+msgid "Host name conflict\n"
+msgstr ""
+
+msgid "Host name successfully changed to %s\n"
+msgstr ""
+
+msgid "Initializing..."
+msgstr "ཐོག་མར་ཅན་དུ་འགྱུར་བ།"
+
+msgid "Interface:"
+msgstr "མཐུད་ཁ།"
+
+msgid "Invalid DNS TTL"
+msgstr "ནུས་མེད་ཀྱི DNS TTL"
+
+msgid "Invalid DNS class"
+msgstr "ནུས་མེད་ཀྱི DNSརིགས།"
+
+msgid "Invalid DNS return code"
+msgstr "ནུས་མེད་ཀྱི DNS ཕྱིར་ལོག་ཚབ་ཨང་།"
+
+msgid "Invalid DNS type"
+msgstr "ནུས་མེད་ཀྱི  DNS རིགས་གྲས།"
+
+msgid "Invalid Error Code"
+msgstr "ནུས་མེད་ཀྱི་ནོར་འཁྲུལ་ཚབ་ཨང་།"
+
+msgid "Invalid RDATA"
+msgstr "ནུས་མེད་ཀྱི་་་་  RDATA"
+
+msgid "Invalid address"
+msgstr "ནུས་མེད་ཀྱི་ཤག་གནས།"
+
+msgid "Invalid argument"
+msgstr "ནུས་མེད་ཀྱི་ཞུགས་གྲངས།"
+
+msgid "Invalid configuration"
+msgstr "ནུས་མེད་ཀྱི་སྡེབ་སྒྲིག"
+
+msgid "Invalid domain name"
+msgstr "ནུས་མེད་ཀྱི་ཁོངས་མིང་།"
+
+msgid "Invalid flags"
+msgstr "ནུས་མེད་ཀྱི་གཏོགས་གཤིས་མཚོན་རྟགས།"
+
+msgid "Invalid host name"
+msgstr "ནུས་མེད་ཀྱི་གཙོ་འཁོར་མིང་།"
+
+msgid "Invalid interface index"
+msgstr "ནུས་མེད་ཀྱི་མཐུད་ཁའི་གསལ་བྱང་།"
+
+msgid "Invalid number of arguments, expecting exactly one.\n"
+msgstr ""
+
+msgid "Invalid operation"
+msgstr "ནུས་མེད་ཀྱི་བཀོལ་སྤྱོད།"
+
+msgid "Invalid packet"
+msgstr "ནུས་མེད་ཀྱི་གཞི་གྲངས་ཐུམ།"
+
+msgid "Invalid port number"
+msgstr "ནུས་མེད་ཀྱི་མཐུད་ཁའི་ཨང་།"
+
+msgid "Invalid protocol specification"
+msgstr "ནུས་མེད་ཀྱི་གྲོས་མཐུན་ཚད་གཞི།"
+
+msgid "Invalid record"
+msgstr "ནུས་མེད་ཀྱི་ཟིན་ཐོ།"
+
+msgid "Invalid record key"
+msgstr "ནུས་མེད་ཀྱི་ཟིན་ཐོའི་གསང་ལྡེ།"
+
+msgid "Invalid service name"
+msgstr "ནུས་མེད་ཀྱི་ཞབས་ཞུ་མིང་།"
+
+msgid "Invalid service subtype"
+msgstr "ནུས་མེད་ཀྱི་ཞབས་ཞུའི་བུ་རིགས་གྲས།"
+
+msgid "Invalid service type"
+msgstr "ནུས་མེད་ཀྱི་ཞབས་ཞུ་རིགས་གྲས།"
+
+msgid "Is empty"
+msgstr "སྟོང་པ་ཡིན།"
+
+msgid "Local name collision"
+msgstr "རང་གནས་མིང་འགལ་བ།"
+
+msgid "Location"
+msgstr "གནས་ས།"
+
+msgid "Memory exhausted"
+msgstr "ནང་གསོག་བཀོལ་ཚར།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Name collision, picking new name '%s'.\n"
+msgstr ""
+
+msgid "No command specified.\n"
+msgstr ""
+
+msgid "No suitable network protocol available"
+msgstr "འཚམ་པའི་དྲ་བའི་གྲོས་མཐུན་སྤྱོད་རུང་མེད།"
+
+msgid "Not found"
+msgstr "རྙེད་མ་བྱུང་།"
+
+msgid "Not permitted"
+msgstr "མི་ཆོག་པ།"
+
+msgid "Not supported"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "OS Error"
+msgstr "བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
+
+msgid "Operation failed"
+msgstr "བཀོལ་སྤྱོད་ཕམ་པ།"
+
+msgid "Port"
+msgstr "མཐུད་ཁ།"
+
+msgid "Resolve Service"
+msgstr "ཞབས་ཞུ་དབྱེ་ཞིབ།："
+
+msgid "Resolve Service Host Name"
+msgstr "ཞབས་ཞུའི་གཙོ་འཁོར་མིང་དབྱེ་ཞིབ།："
+
+msgid ""
+"Resolve the host name of the selected service automatically before returning"
+msgstr "ཕྱིར་འཁོར་སྔོན་དུ་བདམས་པའི་ཞབས་ཞུའི་གཙོ་འཁོར་མིང་དབྱེ་ཞིབ་བྱེད།"
+
+msgid "Resolve the selected service automatically before returning"
+msgstr "ཕྱིར་འཁོར་སྔོན་དུ་བདམས་པའི་ཞབས་ཞུ་དབྱེ་ཞིབ།"
+
+msgid "Resource record key is pattern"
+msgstr "ཐོན་ཁུངས་ཟིན་ཐོའི་གསང་ལྡེ་ནི་དངསོ་དཔེ་ཡིན།"
+
+msgid "Server version: %s; Host name: %s\n"
+msgstr ""
+
+msgid "Service Name"
+msgstr "ཞབས་ཞུའི་མིང་།"
+
+msgid "Service Name:"
+msgstr ""
+
+msgid "Service Type"
+msgstr "ཞབས་ཞུའི་རིགས་གྲས།"
+
+msgid "Service Type:"
+msgstr ""
+
+msgid "TXT"
+msgstr ""
+
+msgid "TXT Data"
+msgstr ""
+
+msgid "TXT Data:"
+msgstr "TXT གཞི་གྲངས།："
+
+msgid "Terminal"
+msgstr "མཐའ་སྣེ།"
+
+msgid "The IP port number of the resolved service"
+msgstr "ཞབས་ཞུའི་IPམཐུད་ཁའི་ཨང་དབྱེ་ཞིབ་བྱས་པ།"
+
+msgid "The TXT data of the resolved service"
+msgstr "ཞབས་ཞུའི་TXTགཞི་གྲངས་དབྱེ་ཞིབ་བྱས་པ།"
+
+msgid "The address family for host name resolution"
+msgstr "གཙོ་འཁོར་མིང་དབྱེ་ཞིབ་བྱ་བྱེད་ཤག་གནས་ཀྱི་རིགས།"
+
+msgid "The address of the resolved service"
+msgstr "ཞབས་ཞུའི་ཤག་གནས་དབྱེ་ཞིབ་བྱས་པ།"
+
+msgid "The domain to browse in, or NULL for the default domain"
+msgstr "ལྟ་དགོས་པའི་ཁོངས། ཡང་ན་NULLཡིས་སོར་བཞག་ཁོངས་མཚོན།"
+
+msgid "The host name of the resolved service"
+msgstr "ཞབས་ཞུའི་གཙོ་འཁོར་མིང་དབྱེ་ཞིབ་བྱས་པ།"
+
+msgid "The object passed in was not valid"
+msgstr "བརྒྱུད་པའི་བྱ་ཡུལ་ནུས་མེད།"
+
+msgid "The requested operation is invalid because redundant"
+msgstr "རེ་ཞུའི་བཀོལ་སྤྱོད་ནུས་མེད། དེ་ནི་རང་དྲགས་པའི་རྐྱེན་ཡིན།"
+
+msgid "The service name of the selected service"
+msgstr "བདམས་པའི་ཞབས་ཞུའི་ཞབས་ཞུ་མིང་།"
+
+msgid "The service type of the selected service"
+msgstr "བདམས་པའི་ཞབས་ཞུའི་ཞབས་ཞུ་རིགས་གྲས།"
+
+msgid "Timeout reached"
+msgstr "དུས་བརྒལ།"
+
+msgid "Too few arguments\n"
+msgstr ""
+
+msgid "Too many arguments\n"
+msgstr ""
+
+msgid "Too many clients"
+msgstr "དུད་སྣེ་མང་དྲགས།"
+
+msgid "Too many entries"
+msgstr "ས་བཅད་མང་དྲགས།"
+
+msgid "Too many objects"
+msgstr "བྱ་ཡུལ་མང་དྲགས།"
+
+msgid "Type"
+msgstr "རིགས་གྲས་"
+
+msgid "Version mismatch"
+msgstr "པར་གཞི་དོ་མི་མཉམ།"
+
+msgid "Waiting for daemon ...\n"
+msgstr ""
+
+msgid "_Cancel"
+msgstr "ལེན་པ། (_C)"
+
+msgid "_Domain..."
+msgstr "_ཁོངས..."
+
+msgid "_OK"
+msgstr "འགྲིག་པ།(_O)"
+
+msgid "avahi_domain_browser_new() failed: %s\n"
+msgstr ""
+
+msgid "avahi_service_browser_new() failed: %s\n"
+msgstr ""
+
+msgid "avahi_service_type_browser_new() failed: %s\n"
+msgstr ""
+
+msgid "empty"
+msgstr "སྟོང་པ་ཡིན།"
+
+msgid "execlp() failed: %s\n"
+msgstr ""
+
+msgid "n/a"
+msgstr "སྤྱོད་རུང་མིན་པ།"
+
+msgid "service_browser failed: %s\n"
+msgstr ""
+
+msgid "service_type_browser failed: %s\n"
+msgstr ""

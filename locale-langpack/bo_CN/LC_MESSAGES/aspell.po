@@ -1,0 +1,334 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"#######################################################################\n"
+"#\n"
+"# Filter: %s\n"
+"#   %s\n"
+"#\n"
+"# configured as follows:\n"
+"\n"
+msgstr ""
+
+msgid "  -?|usage         display a brief usage message"
+msgstr ""
+
+msgid "  -a|pipe          \"ispell -a\" compatibility mode"
+msgstr ""
+
+msgid "  -c|check <file>  to check a file"
+msgstr ""
+
+msgid "  -v|version       prints a version line"
+msgstr ""
+
+msgid "  [dump] dicts | filters | modes"
+msgstr ""
+
+msgid "  config <key>     prints the current value of an option"
+msgstr ""
+
+msgid "  conv <from> <to> [<norm-form>]"
+msgstr ""
+
+msgid "  help             display a detailed help message"
+msgstr ""
+
+msgid "  norm (<norm-map> | <from> <norm-map> <to>) [<norm-form>]"
+msgstr ""
+
+msgid " does not take any parameters."
+msgstr "ཞུགས་གྲངས་གང་རུང་འཁྱེར་མི་དགོས།"
+
+msgid "\"%mode:1\" error"
+msgstr ""
+
+msgid "# default: "
+msgstr "# སོར་བཞག "
+
+msgid "%file:1:"
+msgstr "%file:1:"
+
+msgid "<command> is one of:"
+msgstr "<བཀའ་བརྡ་>གཤམ་གྱི་གཅིག་ཡིན།"
+
+msgid "ASPELL_CONF env var"
+msgstr "ASPELL_CONF ཁོར་ཡུག་འགྱུར་ཚད།"
+
+msgid "Abort"
+msgstr "དོར་བ།"
+
+msgid "Add"
+msgstr "གསར་བཟོ།"
+
+msgid "Are you sure you want to abort (y/n)? "
+msgstr "ཁྱེད་ཀྱི་མཚམས་འཇོག་པ་གཏན་འཁེལ་ལམ།(y/n)？ "
+
+msgid "Aspell version does not match mode's requirement."
+msgstr "Aspell པར་གཞི་དང་རྣམ་པའི་རེ་འདུན་མི་ཚིམ།"
+
+msgid "Could not open the file \"%s\" for reading"
+msgstr ""
+
+msgid "Could not open the file \"%s\" for writing. File not saved."
+msgstr ""
+
+msgid "Error: "
+msgstr "ནོར་འཁྲུལ། "
+
+msgid "Error: %s\n"
+msgstr ""
+
+msgid "Error: You must specify at least %d parameters for \"%s\".\n"
+msgstr ""
+
+msgid "Exit"
+msgstr "ཕྱིར་འདོན།"
+
+msgid "Ignore"
+msgstr "སྣང་མེད།"
+
+msgid "Ignore all"
+msgstr "ཚང་མ་སྣང་མེད།"
+
+msgid "Invalid Input"
+msgstr "ནང་བཅུག་ནུས་མེད།"
+
+msgid "Invalid Option: %s"
+msgstr "ནུས་མེད་འདེམས་ཚན %s"
+
+msgid "Invalid UTF-8 sequence at position %ld."
+msgstr "གནས་ས%ldཡི་ UTF-8རིམ་པ་ནུས་མེད།"
+
+msgid "Only one file name may be specified."
+msgstr "ཡིག་ཆ་མིང་གཅིག་མ་གཏོགས་གཏན་འཁེལ་བྱས་མི་ཆོག"
+
+msgid "Operation Not Supported: %what:1"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་བཀོལ་སྤྱོད།%what:1"
+
+msgid "Replace"
+msgstr "བརྗེ་བ།"
+
+msgid "Replace all"
+msgstr "ཚང་མ་བརྗེ་བ།"
+
+msgid "Sorry that is an invalid choice!"
+msgstr "དགོངས་པ་མ་ཚོམ། བདམས་པ་འདི་ནུས་མེད།"
+
+msgid "Suggestion Time: %f\n"
+msgstr ""
+
+msgid "The condition \"%cond:1\" is invalid."
+msgstr ""
+
+msgid "The conversion from \"%encod:1\" to \"%encod2:2\" is not supported."
+msgstr ""
+
+msgid "The directory \"%dir:1\" can not be opened for reading."
+msgstr ""
+
+msgid "The encoding \"%encod:1\" is not known."
+msgstr ""
+
+msgid "The encoding \"%encod:1\" is not supported."
+msgstr ""
+
+msgid "The file \"%file:1\" can not be opened"
+msgstr ""
+
+msgid "The file \"%file:1\" can not be opened for reading."
+msgstr ""
+
+msgid "The file \"%file:1\" can not be opened for writing."
+msgstr ""
+
+msgid "The file \"%file:1\" is not in the proper format."
+msgstr ""
+
+msgid "The file name \"%file:1\" is invalid."
+msgstr ""
+
+msgid "The language \"%lang:1\" is not known."
+msgstr ""
+
+msgid "The language \"%lang:1\" is not supported."
+msgstr ""
+
+msgid "The method \"%what:1\" is unimplemented in \"%where:2\"."
+msgstr ""
+
+msgid "The string \"%str:1\" is invalid."
+msgstr ""
+
+msgid "The word \"%word:1\" is invalid."
+msgstr ""
+
+msgid "Unhandled Error: "
+msgstr "སྒྲིག་གཅོད་བྱེད་མི་ཐུབ་པའི་ནོར་འཁྲུལ། "
+
+msgid "Unknown Action: %s"
+msgstr "མི་ཤེས་བཀོལ་སྤྱོད་%s"
+
+msgid "Unknown mode: \"%mode:1\"."
+msgstr ""
+
+msgid "Usage: aspell [options] <command>"
+msgstr "སྤྱོད་སྟངས། aspell [འདེམས་ཚན་] <བཀའ་བརྡ་>"
+
+msgid "WARNING: Unable to enter Nroff mode: %s\n"
+msgstr ""
+
+msgid "You must specify a file name."
+msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་ཡིག་ཆ་མིང་གཅིག་གཏན་འཁེལ་བྱ་དགོས།"
+
+msgid "You must specify a parameter for \"%s\"."
+msgstr ""
+
+msgid "You must specify an action"
+msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་བཀོལ་སྤྱོད་ཅིག་གཏན་འཁེལ་བྱ་དགོས།"
+
+msgid "Yy"
+msgstr ""
+
+msgid "[options] is any of the following:"
+msgstr "[འདེམས་ཚན་]ནི་གཤམ་གྱི་གཅིག་ཡིན།"
+
+msgid "a number between 0 and 1"
+msgstr "0 ནས 1བར་གྱི་གྲངས་ཤིག"
+
+msgid "a positive integer"
+msgstr "ཕོ་ཧྲིལ་གྲངས།"
+
+msgid "add or removes a filter"
+msgstr "འཚག་ཆས་སྣོན་པའམ་འདོར་བ།"
+
+msgid "base name of the main dictionary to use"
+msgstr "ཚིག་མཛོད་གཙོ་བོའི་རྨང་མིང་བཀོལ་བ།"
+
+msgid "boolean"
+msgstr "པུར་རིགས།"
+
+msgid "check if words are valid"
+msgstr "ཐ་སྙད་ལ་ནུས་ཡོད་མེད་ཞིབ་བཤེར།"
+
+msgid "create a backup file by appending \".bak\""
+msgstr ""
+
+msgid "create dictionary aliases"
+msgstr "དཀར་ཆག་མིང་གཞན་གསར་བཟོ།"
+
+msgid "dlopen returned \"%return:1\"."
+msgstr ""
+
+msgid "either \"true\" or \"false\""
+msgstr ""
+
+msgid "enable warnings"
+msgstr "ཐ་ཚིག་རུང་བ། "
+
+msgid "enter Email mode."
+msgstr "སྦྲག་སྐུར་རྣམ་པར་འཇུག་པ།"
+
+msgid "enter HTML mode."
+msgstr "HTML རྣམ་པར་འཇུག་པ།"
+
+msgid "enter Nroff mode."
+msgstr "Nroff རྣམ་པར་འཇུག་པ།"
+
+msgid "enter TeX mode."
+msgstr "TeX རྣམ་པར་འཇུག་པ།"
+
+msgid "extra dictionaries to use"
+msgstr "ཕྱི་རོལ་ཚིག་མཛོད་བཀོལ་དགོས།"
+
+msgid "filter mode"
+msgstr "འཚག་པའི་རྣམ་པ།"
+
+msgid "ignore case when checking words"
+msgstr "ཐ་སྙད་ཞིབ་བཤེར་བྱེད་སྐབས་ཡིག་ཆེ་ཆུང་སྣང་མེད་གཏོང་།"
+
+msgid "ignore words <= n chars"
+msgstr " <= n ཡི་ཡིག་རྟགས་ཀྱི་ཚིག་སྣང་མེད་གཏོང་།"
+
+msgid "in the form \"<name> <value>\""
+msgstr ""
+
+msgid "integer"
+msgstr "ཧྲིལ་གྲངས།"
+
+msgid "language code"
+msgstr "སྐད་བརྡ་ཚབ་ཨང་།"
+
+msgid "list"
+msgstr "རེའུ་མིག"
+
+msgid "location for personal files"
+msgstr "མི་སྒེར་ཡིག་ཆའི་གནས་ས།"
+
+msgid "location of language data files"
+msgstr "སྐད་བརྡ་གཞི་གྲངས་ཡིག་ཆའི་གནས་ས།"
+
+msgid "location of main configuration file"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་གཙོ་བའི་གནས་ས།"
+
+msgid "location of the main word list"
+msgstr "ཐ་སྙད་རེའུ་མིག་གཙོ་བའི་གནས་ས།"
+
+msgid "main configuration file"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ་གཙོ་བོ།"
+
+msgid "mode for checking C++ comments and string literals"
+msgstr "C++མཆན་འགྲེལ་དང་ཡིག་རྟགས་ཕྲེང་རྣམ་པར་ཞིབ་བཤེར།"
+
+msgid "no longer used"
+msgstr "བེད་སྤྱོད་མི་བྱེད།"
+
+msgid "not a version number"
+msgstr "པར་གཞི་མ་རེད།"
+
+msgid "path(s) aspell looks for filters"
+msgstr "aspell འཚག་ཆས་ཀྱི་འགྲོ་ལམ་འཚོལ་བ།"
+
+msgid "personal configuration file"
+msgstr "མི་སྒེར་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "personal dictionary file name"
+msgstr "མི་སྒེར་ཚིག་མཛོད་ཡིག་ཆའི་མིང་།"
+
+msgid "prefix directory"
+msgstr "སྔོན་འཇུག་དཀར་ཆག"
+
+msgid "search order for modules"
+msgstr "འཚོལ་བཤེར་དཔེ་དུམ་གྱི་རིམ་པ།"
+
+msgid "set module name"
+msgstr "དཔེ་དུམ་གྱི་མིང་བཀོད་པ།"
+
+msgid "set the prefix based on executable location"
+msgstr "ལག་བསྟར་རུང་བའི་ཡིག་ཆའི་གནས་ས་ལྟར་སྔོན་འཇུག་བཀོད་པ།"
+
+msgid "skip invalid words"
+msgstr "ནུས་མེད་ཐ་སྙད་མཆོང་།"
+
+msgid "string"
+msgstr "ཡིག་རྟགས་ཕྲེང་།"
+
+msgid "suggestion mode"
+msgstr "གྲོས་འདོན་གྱི་རྣམ་པ།"
+
+msgid "use byte offsets instead of character offsets"
+msgstr "ཡིག་ཚིགས་སྤོ་ཚད་བཀོལ་བ་དང་ཡིག་རྟགས་སྤོ་ཚད་མིན།"

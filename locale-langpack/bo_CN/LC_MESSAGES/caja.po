@@ -1,0 +1,5424 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"\n"
+"Add connect to server mount"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Browse the file system with the file manager"
+msgstr ""
+
+msgid "  If you are operating files to an external device,"
+msgstr ""
+
+msgid " ("
+msgstr "\"། (\""
+
+msgid " (%'d"
+msgstr " (ཨང་%'d"
+
+msgid " (another copy)"
+msgstr "(བསྐྱར་མ་གཞན་ཞིག)"
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] "(ཚན་%'d འདུས།)"
+msgstr[1] "(ཚན་%'d འདུས།)"
+
+msgid " (containing a total of %'d item)"
+msgid_plural " (containing a total of %'d items)"
+msgstr[0] "(སྤྱིའི་ཚན %'d ཡོད།)"
+msgstr[1] "(སྤྱིའི་ཚན %'d ཡོད།)"
+
+msgid " (copy)"
+msgstr "(བསྐྱར་མ།)"
+
+msgid " (invalid Unicode)"
+msgstr "(ནུས་མེད་ཀྱི་ Unicode)"
+
+msgid "\"%s\" cannot open \"%s\" because \"%s\" cannot access files at \"%s\" locations."
+msgstr ""
+
+msgid "\"%s\" could not be found. Perhaps it has recently been deleted."
+msgstr ""
+
+msgid "\"%s\" is an executable text file."
+msgstr ""
+
+msgid "\"%s\" selected"
+msgstr ""
+
+msgid "\"%s\" will be copied if you select the Paste command"
+msgstr ""
+
+msgid "\"%s\" will be moved if you select the Paste command"
+msgstr ""
+
+msgid "%"
+msgstr ""
+
+msgid "%'d file left to delete"
+msgid_plural "%'d files left to delete"
+msgstr[0] "ད་དུང་ཡིག་ཆ %'d འདོར་རྒྱུ་ཡིན།"
+msgstr[1] "ད་དུང་ཡིག་ཆ %'d འདོར་རྒྱུ་ཡིན།"
+
+msgid "%'d file left to trash"
+msgid_plural "%'d files left to trash"
+msgstr[0] "ད་དུང་ཡིག་ཆ %'d སྙིགས་སྒམ་དུ་སྤོ་བ་ཡིན།"
+msgstr[1] "ད་དུང་ཡིག་ཆ %'d སྙིགས་སྒམ་དུ་སྤོ་བ་ཡིན།"
+
+msgid "%'d file operation active"
+msgid_plural "%'d file operations active"
+msgstr[0] "ཚན་ %'dཡི་ཡིག་ཆ་བཀོལ་སྤྱོད་སྒྲུབ་བཞིན་ཡོད།"
+msgstr[1] "ཚན་ %'dཡི་ཡིག་ཆ་བཀོལ་སྤྱོད་སྒྲུབ་བཞིན་ཡོད།"
+
+msgid "%'d folder selected"
+msgid_plural "%'d folders selected"
+msgstr[0] "ཡིག་ཁུག %'d བདམས་པ།"
+msgstr[1] "ཡིག་ཁུག %'d བདམས་པ།"
+
+msgid "%'d hour"
+msgid_plural "%'d hours"
+msgstr[0] "དུས་ཚོད་%'d "
+msgstr[1] "དུས་ཚོད་%'d "
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] "ཚན་%'d བདམས་པ།"
+msgstr[1] "ཚན་%'d བདམས་པ།"
+
+msgid "%'d item, with size %s"
+msgid_plural "%'d items, totalling %s"
+msgstr[0] "ཚན་%'dདང་། ཆེ་ཆུང་ %sཡིན།"
+msgstr[1] "ཚན་%'dདང་། ཆེ་ཆུང་ %sཡིན།"
+
+msgid "%'d minute"
+msgid_plural "%'d minutes"
+msgstr[0] "སྐར་མ་%'d"
+msgstr[1] "སྐར་མ་%'d"
+
+msgid "%'d other item selected"
+msgid_plural "%'d other items selected"
+msgstr[0] "ཡང་ཚན་ %'dབདམས་པ།"
+msgstr[1] "ཡང་ཚན་ %'dབདམས་པ།"
+
+msgid "%'d second"
+msgid_plural "%'d seconds"
+msgstr[0] "སྐར་ཆ་%'d"
+msgstr[1] "སྐར་ཆ་%'d"
+
+msgid "%'u file"
+msgid_plural "%'u files"
+msgstr[0] "ཡིག་ཆ་%'u "
+msgstr[1] "ཡིག་ཆ་%'u "
+
+msgid "%'u folder"
+msgid_plural "%'u folders"
+msgstr[0] "ཡིག་ཁུག་%'u "
+msgstr[1] "ཡིག་ཁུག་%'u "
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] "ཚན་%'u"
+msgstr[1] "ཚན་%'u"
+
+msgid "%A, %B %-d %Y at %-I:%M:%S %p"
+msgstr "%Yལོའི་ཟླ་%-mཚེས་%-dཉིན%A，%-H:%M:%S"
+
+msgid "%S of %S"
+msgstr "%S，བསྡོམས་པས་%S"
+
+msgid "%S of %S — %T left (%S/sec)"
+msgid_plural "%S of %S — %T left (%S/sec)"
+msgstr[0] "%S，བསྡོམས་པས་ %S -  %Tལྷག (སྐར་ཆ་%S/)"
+msgstr[1] "%S，བསྡོམས་པས་ %S -  %Tལྷག (སྐར་ཆ་%S/)"
+
+msgid "%T left"
+msgid_plural "%T left"
+msgstr[0] "%T ལྷག"
+msgstr[1] "%T ལྷག"
+
+msgid "%a, %b %-d %Y at %-I:%M %p"
+msgstr ""
+
+msgid "%a, %b %-d %Y at %-I:%M:%S %p"
+msgstr "%Yལོའི་ཟླ %-mཚེས་%-dཉིན%A，%-H:%M:%S"
+
+msgid "%b %-d %Y at %-I:%M %p"
+msgstr "%Yལོའི་ཟླ%-mཚེས་%-dཉིན，%H:%M"
+
+msgid "%b %-d %Y, %-I:%M %p"
+msgstr "%Yལོའི་ཟླ%-mཚེས་%-dཉིན，%H:%M"
+
+msgid "%m/%-d/%y, %-I:%M %p"
+msgstr ""
+
+msgid "%m/%d/%y"
+msgstr ""
+
+msgid "%s %'dnd link to"
+msgstr ""
+
+msgid "%s %'drd link to"
+msgstr "%1$s ཨང་ %2$'d མྱུར་འཇུག་བྱེད་སྟངས།"
+
+msgid "%s %'dst link to"
+msgstr "%1$s ཨང་ %2$'d མྱུར་འཇུག་བྱེད་སྟངས།"
+
+msgid "%s %'dth link to"
+msgstr ""
+
+msgid "%s (%'dnd copy)%s"
+msgstr "%s(བསྐྱར་མ།%'d)%s"
+
+msgid "%s (%'drd copy)%s"
+msgstr "%s(བསྐྱར་མ།%'d)%s"
+
+msgid "%s (%'dst copy)%s"
+msgstr ""
+
+msgid "%s (%'dth copy)%s"
+msgstr ""
+
+msgid "%s (%s bytes)"
+msgstr "%s(%s ཡིག་ཚིགས།)"
+
+msgid "%s (%s)"
+msgstr "%s(%s)"
+
+msgid "%s (another copy)%s"
+msgstr "%s(བསྐྱར་མ་གཞན་ཞིག)%s"
+
+msgid "%s (copy)%s"
+msgstr "%s(བསྐྱར་མ།)%s"
+
+msgid "%s - File Browser"
+msgstr "%s - ཡིག་ཆ་བཤར་ཆས།"
+
+msgid "%s Properties"
+msgstr "%s གཏོགས་གཤིས།"
+
+msgid "%s Visible Columns"
+msgstr "%s མཐོང་རུང་སྟར།"
+
+msgid "%s Volume"
+msgstr "%s པོད།"
+
+msgid "%s document"
+msgstr "%s ཡིག་ཚགས།"
+
+msgid "%s%s %'dnd link to"
+msgstr "%1$s(ཨང་ %3$'d མྱུར་འཇུག་བྱེད་སྟངས་)%2$s"
+
+msgid "%s%s %'drd link to"
+msgstr "%1$s(ཨང་ %3$'d མྱུར་འཇུག་བྱེད་སྟངས་)%2$s"
+
+msgid "%s%s %'dst link to"
+msgstr "%1$s(ཨང་ %3$'d མྱུར་འཇུག་བྱེད་སྟངས་)%2$s"
+
+msgid "%s%s %'dth link to"
+msgstr ""
+
+msgid "%s%s, %s"
+msgstr ""
+
+msgid "%s%s, %s, %s"
+msgstr ""
+
+msgid "%s's Home"
+msgstr "མི་སྒེར།"
+
+msgid "%s, %s"
+msgstr "%s，%s"
+
+msgid "%s, Free space: %s"
+msgstr "%s་བར་སྟོང་ལྷག་མ་%s"
+
+msgid "(Empty)"
+msgstr "(སྟོང་།)"
+
+msgid "(some contents unreadable)"
+msgstr "ནང་དོན་ཁ་ཤས་ཀློག་མི་ཐུབ།"
+
+msgid ", otherwise the device will be destroyed"
+msgstr ""
+
+msgid "00/00/00"
+msgstr ""
+
+msgid "00/00/00, 00:00 PM"
+msgstr ""
+
+msgid "1 GB"
+msgstr ""
+
+msgid "1 MB"
+msgstr ""
+
+msgid "10 MB"
+msgstr ""
+
+msgid "100 KB"
+msgstr ""
+
+msgid "100 MB"
+msgstr ""
+
+msgid "100%"
+msgstr "\"100%\""
+
+msgid "150%"
+msgstr ""
+
+msgid "2 GB"
+msgstr ""
+
+msgid "200%"
+msgstr ""
+
+msgid "3 MB"
+msgstr ""
+
+msgid "33%"
+msgstr ""
+
+msgid "4 GB"
+msgstr ""
+
+msgid "400%"
+msgstr ""
+
+msgid "5 MB"
+msgstr ""
+
+msgid "50%"
+msgstr ""
+
+msgid "500 KB"
+msgstr ""
+
+msgid "66%"
+msgstr ""
+
+msgid "<b>Available _Extensions:</b>"
+msgstr "<b>སྤྱོད་རུང་རྒྱ་སྐྱེད།(_E)：</b>"
+
+msgid "<b>Behavior</b>"
+msgstr "<b>སྤྱོད་པ།</b>"
+
+msgid "<b>Compact View Defaults</b>"
+msgstr "<b>ཚགས་དམ་པའི་མཐོང་རིས་སོར་བཞག་ཚད།</b>"
+
+msgid "<b>Date</b>"
+msgstr "<b>ཚེས་གྲངས།</b>"
+
+msgid "<b>Default View</b>"
+msgstr "<b>སོར་བཞག་མཐོང་རིས།</b>"
+
+msgid "<b>Executable Text Files</b>"
+msgstr "<b>ལག་བསྟར་རུང་བའི་ཡིག་རྐྱང་ཡིག་ཆ།</b>"
+
+msgid "<b>Folders</b>"
+msgstr "<b>ཡིག་ཁུག</b>"
+
+msgid "<b>Height:</b> %d pixel"
+msgid_plural "<b>Height:</b> %d pixels"
+msgstr[0] "<b>མཐོ་ཚད།</b> %d བརྙན་རྒྱུ།"
+msgstr[1] "<b>མཐོ་ཚད།</b> %d བརྙན་རྒྱུ།"
+
+msgid "<b>Icon Captions</b>"
+msgstr "<b>རིས་རྟགས་ཁ་བྱང་།</b>"
+
+msgid "<b>Icon View Defaults</b>"
+msgstr "<b>རིས་རྟགས་མཐོང་རིས་ཀྱི་སོར་བཞག་ཚད།</b>"
+
+msgid "<b>List Columns</b>"
+msgstr ""
+
+msgid "<b>List View Defaults</b>"
+msgstr "<b>རེའུ་མིག་མཐོང་རིས་སོར་བཞག་ཚད།</b>"
+
+msgid "<b>Media Handling</b>"
+msgstr "<b>བར་རྫས་སྒྲིག་གཅོད།</b>"
+
+msgid "<b>Other Media</b>"
+msgstr "<b>བར་རྫས་གཞན་དག</b>"
+
+msgid "<b>Other Previewable Files</b>"
+msgstr "<b>སྔོན་ལྟ་རུང་བའི་ཡིག་ཆ་གཞན་དག</b>"
+
+msgid "<b>Overall</b> _arrange items:"
+msgstr ""
+
+msgid "<b>Size</b>"
+msgstr "<b>ཆེ་ཆུང་།</b>"
+
+msgid "<b>Sound Files</b>"
+msgstr "<b>སྒྲ་ཡིག</b>"
+
+msgid "<b>Text Files</b>"
+msgstr "<b>ཡིག་རྐྱང་ཡིག་ཆ།</b>"
+
+msgid "<b>Trash</b>"
+msgstr "<b>སྙིགས་སྒམ།</b>"
+
+msgid "<b>Tree View Defaults</b>"
+msgstr "<b>སྡོང་འགྲེམས་མཐོང་རིས་ཀྱི་སོར་བཞག་ཚད།</b>"
+
+msgid "<b>Width:</b> %d pixel"
+msgid_plural "<b>Width:</b> %d pixels"
+msgstr[0] "<b>ཞེང་ཚད།</b> %d བརྙན་རྒྱུ།"
+msgstr[1] "<b>ཞེང་ཚད།</b> %d བརྙན་རྒྱུ།"
+
+msgid "<b>_Bookmarks</b>"
+msgstr "<b>དཔེ་བྱང་།(_B)</b>"
+
+msgid "<b>_Location</b>"
+msgstr "<b>གནས་ས།(_L)</b>"
+
+msgid "<b>_Name</b>"
+msgstr "<b>མིང་།(_N)</b>"
+
+msgid "<big><b>Error autorunning software</b></big>"
+msgstr "<big><b>མཉེན་ཆས་རང་འཁོར་ནོར་འཁྲུལ་བྱུང་།</b></big>"
+
+msgid ""
+"<big><b>This medium contains software intended to be automatically started. "
+"Would you like to run it?</b></big>"
+msgstr ""
+"<big><b>བར་རྫས་འདི་ལ་མཉེན་ཆས་རང་འཁོར་བྱེད་རྩིས་འདུས་པ། "
+"དེ་འཁོར་སྐྱོད་བྱ་འདོད་དམ།</b></big>"
+
+msgid ""
+"<p> Caja is the official file manager for the MATE desktop. It allows for "
+"browsing directories, as well as previewing files and launching applications"
+" associated with them. It is also responsible for handling the icons on the "
+"MATE desktop. It works on local and remote file systems. </p> <p> Caja is "
+"extensible through a plugin system, similar to that of GNOME Nautilus, of "
+"which Caja is a fork. </p>"
+msgstr ""
+
+msgid "? bytes"
+msgstr "? ཡིག་ཚིགས།"
+
+msgid "? items"
+msgstr "? ཚན།"
+
+msgid "A folder with the same name already exists in \"%s\"."
+msgstr ""
+
+msgid ""
+"A list of captions below an icon in the icon view and the desktop. The "
+"actual number of captions shown depends on the zoom level. Some possible "
+"values are: \"size\", \"type\", \"date_modified\", \"date_changed\", "
+"\"date_accessed\", \"owner\", \"group\", \"permissions\", "
+"\"octal_permissions\" and \"mime_type\"."
+msgstr ""
+
+msgid "A newer file with the same name already exists in \"%s\"."
+msgstr ""
+
+msgid "A newer folder with the same name already exists in \"%s\"."
+msgstr ""
+
+msgid ""
+"A string containing the saved geometry and coordinates string for navigation"
+" windows."
+msgstr ""
+"ཉར་བའི་ཕྱོགས་འཁྲིད་སྒེའུ་ཁུང་གི་དབྱིབས་དང་གནས་ཚད་འདུས་པའི་ཡིག་རྟགས་ཕྲེང་།"
+
+msgid ""
+"A string specifying how parts of overlong file names should be replaced by ellipses, depending on the zoom level. Each of the list entries is of the form \"Zoom Level:Integer\". For each specified zoom level, if the given integer is larger than 0, the file name will not exceed the given number of lines. If the integer is 0 or smaller, no limit is imposed on the specified zoom level. A default entry of the form \"Integer\" without any specified zoom level is also allowed. It defines the maximum number of lines for all other zoom levels. Examples: 0 - always display overlong file names; 3 - shorten file names if they exceed three lines; smallest:5,smaller:4,0 - shorten file names if they exceed five lines for zoom level \"smallest\". Shorten file names if they exceed four lines for zoom level \"smaller\". Do not shorten file names for other zoom levels.\n"
+"\n"
+"Available zoom levels: smallest (33%), smaller (50%), small (66%), standard (100%), large (150%), larger (200%), largest (400%)"
+msgstr ""
+
+msgid "A_ll columns have the same width"
+msgstr "སྟར་ཚང་མའི་ཞེང་ཚད་མཚུངས་པ་ཡིན།(_L)"
+
+msgid "About Extension"
+msgstr "རྒྱ་སྐྱེད་སྐོར།"
+
+msgid "Access files"
+msgstr "ལྟ་སྤྱོད་ཡིག་ཆ།"
+
+msgid "Access was denied."
+msgstr "ལྟ་སྤྱོད་འགོག་པ།"
+
+msgid "Access:"
+msgstr "ལྟ་སྤྱོད།："
+
+msgid "Accessed:"
+msgstr "ལྟ་སྤྱོད།："
+
+msgid "Acti_on:"
+msgstr "བྱ་སྤྱོད།(_O)："
+
+msgid "Activate next tab"
+msgstr "གདོང་འཛར་ངོས་རྗེས་མ་སྐུལ་སློང་བྱེད།"
+
+msgid "Activate previous tab"
+msgstr "གདོང་འཛར་སྔར་མ་བོ་སྐུལ་སློང་བྱེད།"
+
+msgid "Add Application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་སྣོན་པ།"
+
+msgid "Add Emblems..."
+msgstr "རྟགས་མ་སྣོན་པ།..."
+
+msgid "Add _bookmark"
+msgstr "དཔེ་བྱང་སྣོན་པ།(_B)"
+
+msgid "Add a bookmark for the current location to this menu"
+msgstr "འདེམས་བྱང་འདིར་མིག་སྔའི་གནས་སའི་དཔེ་བྱང་ཅིག་སྣོན།"
+
+msgid "Add a new criterion to this search"
+msgstr "འཚོལ་བཤེར་འདིར་ཆ་རྐྱེན་གསར་པ་སྣོན།"
+
+msgid "Add new..."
+msgstr "སྣོན་པ..."
+
+msgid "Advanced Search"
+msgstr "མཐོ་རིམ་འཚོལ་བཤེར།"
+
+msgid "All columns have same width"
+msgstr "སྟར་ཚང་མའི་ཞེང་ཚད་མཚུངས་པ་ཡིན།"
+
+msgid "All executable files in this folder will appear in the Scripts menu."
+msgstr "ཡིག་ཁུག་འདིའི་ལག་བསྟར་རུང་བའི་ཡིག་ཆ་ཚང་མ་ཞབས་དེབ་འདེམས་བྱང་དུ་མངོན་པ།"
+
+msgid ""
+"All executable files in this folder will appear in the Scripts menu. Choosing a script from the menu will run that script.\n"
+"\n"
+"When executed from a local folder, scripts will be passed the selected file names. When executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.\n"
+"\n"
+"In all cases, the following environment variables will be set by Caja, which the scripts may use:\n"
+"\n"
+"CAJA_SCRIPT_SELECTED_FILE_PATHS: newline-delimited paths for selected files (only if local)\n"
+"\n"
+"CAJA_SCRIPT_SELECTED_URIS: newline-delimited URIs for selected files\n"
+"\n"
+"CAJA_SCRIPT_CURRENT_URI: URI for current location\n"
+"\n"
+"CAJA_SCRIPT_WINDOW_GEOMETRY: position and size of current window\n"
+"\n"
+"CAJA_SCRIPT_NEXT_PANE_SELECTED_FILE_PATHS: newline-delimited paths for selected files in the inactive pane of a split-view window (only if local)\n"
+"\n"
+"CAJA_SCRIPT_NEXT_PANE_SELECTED_URIS: newline-delimited URIs for selected files in the inactive pane of a split-view window\n"
+"\n"
+"CAJA_SCRIPT_NEXT_PANE_CURRENT_URI: URI for current location in the inactive pane of a split-view window"
+msgstr ""
+
+msgid "All items in the Trash will be permanently deleted."
+msgstr "སྙིགས་སྒམ་ནང་གི་རྣམ་གྲངས་ཚང་མ་བརྟན་བསུབ་བྱེད།"
+
+msgid "Allow _executing file as program"
+msgstr "བྱ་རིམ་གྱིས་ཡིག་ཆ་ལག་བསྟར་ཆོག་པ་བྱེད།(_E)"
+
+msgid "Always"
+msgstr "ནམ་ཡང་།"
+
+msgid "Always use the location entry, instead of the pathbar"
+msgstr "རྒྱུན་དུ་གནས་སའི་ཚན་སྤྱོད་པ་དང་། འགྲོ་ལམ་སྡེ་མི་སྤྱོད།"
+
+msgid ""
+"An integer specifying how parts of overlong file names should be replaced by"
+" ellipses on the desktop. If the number is larger than 0, the file name will"
+" not exceed the given number of lines. If the number is 0 or smaller, no "
+"limit is imposed on the number of displayed lines."
+msgstr ""
+
+msgid "An invalid drag type was used."
+msgstr "ནུས་མེད་ཀྱི་འདྲུད་གཏོང་རིགས་གྲས་སྤྱད་པ།"
+
+msgid "An older file with the same name already exists in \"%s\"."
+msgstr ""
+
+msgid "An older folder with the same name already exists in \"%s\"."
+msgstr ""
+
+msgid "Another file with the same name already exists in \"%s\"."
+msgstr ""
+
+msgid "Another folder with the same name already exists in \"%s\"."
+msgstr ""
+
+msgid "Another link to %s"
+msgstr ""
+
+msgid "Another link to %s%s"
+msgstr "%s(མྱུར་འཇུག་བྱེད་སྟངས་གཞན་ཞིག)%s"
+
+msgid "Any"
+msgstr "གང་རུང་།"
+
+msgid "Aperture Value"
+msgstr "འོད་གོར་ཚད།"
+
+msgid "Apparition"
+msgstr "འཕྲུལ་སྣང་།"
+
+msgid "Apple Filing Protocol (AFP)"
+msgstr "ཀུ་ཤུའི་ཡིག་ཆའི་གྲོས་མཐུན།（AFP）"
+
+msgid "Application does not accept documents on command line"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས་མི་ལེན།"
+
+msgid "Apply Permissions to Enclosed Files"
+msgstr "འདུས་པའི་ཡིག་ཆར་དབང་ཚད་སྤྱོད་པ།"
+
+msgid "Apply this action to all files"
+msgstr "བྱ་སྤྱོད་འདི་ཡིག་ཆ་ཚང་མར་སྤྱོད་པ།"
+
+msgid "Are you sure you want to clear the list of locations you have visited?"
+msgstr ""
+"ཁྱེད་ཀྱིས་ "
+"Cajaཡིས་ཁྱེད་ཀྱི་ལྟ་སྤྱོད་བྱས་པའི་གནས་སརེའུ་མིག་གཙང་སེལ་བྱེད་འདོད་པ་གཏན་འཁེལ་ལམ"
+
+msgid "Are you sure you want to open all files?"
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཆ་ཚང་མ་ཁ་ཕྱེ་རྒྱུ་གཏན་འཁེལ་ལམ། "
+
+msgid "Are you sure you want to permanently delete \"%B\" from the trash?"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete \"%B\"?"
+msgstr ""
+
+msgid ""
+"Are you sure you want to permanently delete the %'d selected item from the "
+"trash?"
+msgid_plural ""
+"Are you sure you want to permanently delete the %'d selected items from the "
+"trash?"
+msgstr[0] ""
+"ཁྱེད་ཀྱིས་སྙིགས་སྒམ་ནས་བདམས་པའི་ ཚན་པ་%'d བརྟན་བསུབ་རྒྱུ་གཏན་འཁེལ་ལམ། "
+msgstr[1] ""
+"ཁྱེད་ཀྱིས་སྙིགས་སྒམ་ནས་བདམས་པའི་ ཚན་པ་%'d བརྟན་བསུབ་རྒྱུ་གཏན་འཁེལ་ལམ། "
+
+msgid "Are you sure you want to permanently delete the %'d selected item?"
+msgid_plural ""
+"Are you sure you want to permanently delete the %'d selected items?"
+msgstr[0] "ཁྱེད་ཀྱིས་་བདམས་པའི་ ཚན་པ་%'d བརྟན་བསུབ་རྒྱུ་གཏན་འཁེལ་ལམ། "
+msgstr[1] "ཁྱེད་ཀྱིས་་བདམས་པའི་ ཚན་པ་%'d བརྟན་བསུབ་རྒྱུ་གཏན་འཁེལ་ལམ། "
+
+msgid "Are you sure you want to permanently trash \"%B\" "
+msgstr ""
+
+msgid "Are you sure you want to permanently trash the %'d selected item?"
+msgid_plural ""
+"Are you sure you want to permanently trash the %'d selected items?"
+msgstr[0] ""
+"ཁྱེད་ཀྱིས་བདམས་པའི་རྣམ་གྲངས་ %'d སྙིགས་སྒམ་དུ་འཇོག་རྒྱུ་གཏན་འཁེལ་ལམ།"
+msgstr[1] ""
+"ཁྱེད་ཀྱིས་བདམས་པའི་རྣམ་གྲངས་ %'d སྙིགས་སྒམ་དུ་འཇོག་རྒྱུ་གཏན་འཁེལ་ལམ།"
+
+msgid "Arran_ge Items"
+msgstr "རྣམ་གྲངས་སྟར་སྒྲིག(_G)"
+
+msgid "Ask before _emptying the Trash or deleting files"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ་ཡང་ན་ཡིག་ཆ་འདོར་བའི་སྔོན་དུ་འདྲིས།(_E)"
+
+msgid "Ask what to do"
+msgstr "འདྲི་རྩད་བཀོལ་སྤྱོད།"
+
+msgid "Autorun Prompt"
+msgstr ""
+
+msgid "Azul"
+msgstr "ཉེན་རྟོག་པ།"
+
+msgid "B_rowse media when inserted"
+msgstr "བར་འཇུག་བྱེད་སྐབས་སུ་བར་རྫས་ལ་ལྟོས།(_R)"
+
+msgid "Back history"
+msgstr "ལོ་རྒྱུས་ཕྱིར་སློག"
+
+msgid "Background"
+msgstr "རྒྱབ་ལྗོངས།"
+
+msgid "Backgrounds and Emblems"
+msgstr "རྒྱབ་ལྗོངས་དང་རྟགས་མ།"
+
+msgid "Basic"
+msgstr "གཞི་རྩ།"
+
+msgid ""
+"Before running Caja, please create the following folder, or set permissions "
+"such that Caja can create it."
+msgstr ""
+" Cajaའཁོར་སྐྱོད་སྔོན་དུ། ཡིག་ཁུག་འདི་གསར་བཟོ་བྱེད། ཡང་ན་དབང་ཚད་སྤྲད་ནས་ "
+"Cajaཡིས་གསར་བཟོ་བྱ་རུ་འཇུག"
+
+msgid ""
+"Before running Caja, please create these folders, or set permissions such "
+"that Caja can create them."
+msgstr ""
+" Cajaའཁོར་སྐྱོད་སྔོན་དུ། ཡིག་ཁུག་འདི་དག་གསར་བཟོ་བྱེད། ཡང་ན་དབང་ཚད་སྤྲད་ནས་ "
+"Cajaཡིས་གསར་བཟོ་བྱ་རུ་འཇུག"
+
+msgid "Begin"
+msgstr "འགོ་ཚུགས་པ།"
+
+msgid "Behavior"
+msgstr "སྤྱོད་པ།"
+
+msgid "Black"
+msgstr "ནག་པོ།"
+
+msgid "Blue Ridge"
+msgstr "སྔོན་རིས།"
+
+msgid "Blue Rough"
+msgstr "རྩུབ་སྔོན།"
+
+msgid "Blue Type"
+msgstr "གཞི་སྔོན་གསལ་བྱེད།"
+
+msgid "Bookmark Name:"
+msgstr "དཔེ་བྱང་མིང་།"
+
+msgid "Bookmark for Nonexistent Location"
+msgstr "གནས་སའི་དཔེ་བྱང་མེད་པ།"
+
+msgid "Bookmarks"
+msgstr "དཔེ་རྟགས།"
+
+msgid "Browse Network"
+msgstr "དྲ་བ་མིག་བཤར།"
+
+msgid ""
+"Browse all local and remote disks and folders accessible from this computer"
+msgstr ""
+
+msgid "Browse bookmarked and local network locations"
+msgstr ""
+
+msgid "Browse in %'d New _Tab"
+msgid_plural "Browse in %'d New _Tabs"
+msgstr[0] " གདོང་འཛར་གསར་པ་%'d རུ་མིག་བཤར་བྱེད།(_T)"
+msgstr[1] " གདོང་འཛར་གསར་པ་%'d རུ་མིག་བཤར་བྱེད།(_T)"
+
+msgid "Browse in %'d New _Window"
+msgid_plural "Browse in %'d New _Windows"
+msgstr[0] " སྒེའུ་ཁུང་གསར་པ་%'d རུ་མིག་བཤར་བྱེད།(_W)"
+msgstr[1] " སྒེའུ་ཁུང་གསར་པ་%'d རུ་མིག་བཤར་བྱེད།(_W)"
+
+msgid "Browse in New _Tab"
+msgstr "གདོང་འཛར་གསར་བར་མིག་བཤར་བྱེད།(_T)"
+
+msgid "Browse in New _Window"
+msgstr "སྒེའུ་ཁུང་གསར་བར་མིག་བཤར་བྱེད།(_W)"
+
+msgid "Browse the contents of the network"
+msgstr "དྲ་བའི་དཀར་ཆག་མིག་བཤར་བྱེད།"
+
+msgid "Browse the file system with the file manager"
+msgstr ""
+
+msgid "Brushed Metal"
+msgstr "ལྕགས་རིགས་གཉེར་ཅན།"
+
+msgid "Bubble Gum"
+msgstr "ཁ་གཙང་ཐང་ཆུ།"
+
+msgid "Burlap"
+msgstr "སོ་རས་རགས་ཙམ།"
+
+msgid "By Access Date"
+msgstr "ཚེས་གྲངས་ལྟར་ལྟ་སྤྱོད།"
+
+msgid "By Emblems"
+msgstr "རྟགས་མ་ལྟར།"
+
+msgid "By Modification Date"
+msgstr "བཟོ་བཅོས་དུས་ཚོད་ལྟར།"
+
+msgid "By Modification _Date"
+msgstr "བཟོ་བཅོས་དུས་ཚོད་ལྟར།(_D)"
+
+msgid "By Name"
+msgstr "མིང་ལྟར།"
+
+msgid "By Path"
+msgstr "འགྲོ་ལམ་ལྟར།"
+
+msgid "By Size"
+msgstr "ཆེ་ཆུང་ལྟར།"
+
+msgid "By T_rash Time"
+msgstr "འདོར་བའི་དུས་ལྟར།(_R)"
+
+msgid "By Trashed Date"
+msgstr "སྙིགས་སྒམ་དུ་འཇོག་པའི་དུས་ལྟར།"
+
+msgid "By Type"
+msgstr "རིགས་གྲས་ལྟར།"
+
+msgid "By _Emblems"
+msgstr "རྟགས་མ་ལྟར།(_E)"
+
+msgid "By _Name"
+msgstr "མིང་ལྟར།(_N)"
+
+msgid "By _Size"
+msgstr "ཆེ་ཆུང་ལྟར།(_S)"
+
+msgid "By _Type"
+msgstr "རིགས་གྲས་ལྟར།(_T)"
+
+msgid "CD Burn"
+msgstr ""
+
+msgid "CD _Audio:"
+msgstr "སྒྲ་ཟློས། CD(_A)："
+
+msgid "C_ancel Remove"
+msgstr "འདོར་བ་ལེན་པ།(_A)"
+
+msgid "C_olors"
+msgstr "ཁ་དོག(_O)"
+
+msgid "C_onfigure Extension"
+msgstr "སྡེབ་སྒྲིག་རྒྱ་སྐྱེད།(_ )"
+
+msgid "C_onnect"
+msgstr "འབྲེལ་མཐུད།(_O)"
+
+msgid "Caja"
+msgstr ""
+
+msgid "Caja cannot handle \"%s\" locations."
+msgstr ""
+
+msgid "Caja cannot handle this kind of location."
+msgstr "Caja ཡིས་རིགས་གྲས་འདི་ལྟར་བུའི་གནས་ས་སྒྲིག་གཅོད་བྱ་མི་ཐུབ།"
+
+msgid "Caja could not create the following required folders: %s."
+msgstr "Caja ཡིས་གཤམ་གྱི་དགོས་པའི་ཡིག་ཁུག：%sགསར་བཟོ་མི་ཐུབ།"
+
+msgid "Caja could not create the required folder \"%s\"."
+msgstr ""
+
+msgid "Caja has no installed viewer capable of displaying the folder."
+msgstr "Caja ཡིག་ཁུག་མངོན་པའི་ལྟ་ཆས་སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid ""
+"Caja is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details."
+msgstr ""
+
+msgid ""
+"Caja is free software; you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version 2 of the License, or (at your option) any later "
+"version."
+msgstr ""
+
+msgid ""
+"Caja lets you organize files and folders, both on your computer and online."
+msgstr ""
+"Cajaཡིས་ཁྱེད་ལ་རང་འཁོར་དང་དྲ་བའི་སྟེང་གི་ཡིག་ཆ་དང་ཡིག་ཁུག་སྒྲིག་འཛུགས་བྱ་ཐུབ།"
+
+msgid "Caja uses the users home folder as the desktop"
+msgstr "Caja ཡིས་སྤྱོད་མཁན་གྱི་ཡིག་ཁུག་གཙོ་ཅོག་ངོས་བྱས་ནས་སྤྱོད་པ།"
+
+msgid "Caja will exit when last window destroyed."
+msgstr "Cajaཆེས་མཇུག་མའི་སྒེའུ་ཁུང་ཁ་བརྒྱབ་རྗེས་ཕྱིར་འདོན་པ་ཡིན།"
+
+msgid "Camera Brand"
+msgstr "པར་ཆས་ཀྱི་སྤུས་རྟགས།"
+
+msgid "Camera Model"
+msgstr "པར་ཆས་ཀྱི་རིགས།"
+
+msgid "Camouflage"
+msgstr "རྫུན།"
+
+msgid ""
+"Can't load the supported server method list.\n"
+"Please check your GVfs installation."
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "ཡིག་ཚགས་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Cancel Group Change?"
+msgstr "ཚོགས་པ་མིང་བཅོས་ལེན་ནམ།"
+
+msgid "Cancel Owner Change?"
+msgstr "བདག་པོ་བཟོ་བཅོས་ལེན་པ།"
+
+msgid "Cannot find the autorun program"
+msgstr "རང་འཁོར་གྱི་བྱ་རིམ་མི་རྙེད།"
+
+msgid "Cannot move file to trash, do you want to force delete immediately?"
+msgstr "ཡིག་ཆ་སྙིགས་སྒམ་དུ་སྤོ་མི་ཐུབ། ཁྱེད་ཀྱིས་བཙན་འདོར་བྱེད་དགོས་སམ"
+
+msgid "Capatity:"
+msgstr "ཤོང་ཚད།"
+
+msgid "Chalk"
+msgstr "ས་སྨྱུག"
+
+msgid "Change Desktop _Background"
+msgstr "ཅོག་ངོས་རྒྱབ་ལྗོངས་བཅོས་པ།(_B)"
+
+msgid "Change the behaviour and appearance of file manager windows"
+msgstr ""
+
+msgid "Change the visibility of this window's location bar"
+msgstr "སྒེའུ་ཁུང་འདིའི་གནས་ས་སྡེའི་མཐོང་རུང་རང་བཞིན་བཅོས་པ།"
+
+msgid "Change the visibility of this window's main toolbar"
+msgstr "སྒེའུ་ཁུང་འདིའི་ལག་ཆ་སྡེའི་མཐོང་རུང་རང་བཞིན་བཅོས་པ།"
+
+msgid "Change the visibility of this window's side pane"
+msgstr "སྒེའུ་ཁུང་འདི་ཟུར་སྡེའི་མཐོང་རུང་རང་བཞིན་བཅོས་པ།"
+
+msgid "Change the visibility of this window's statusbar"
+msgstr "སྒེའུ་ཁུང་འདི་རྣམ་པ་སྡེའི་མཐོང་རུང་རང་བཞིན་བཅོས་པ།"
+
+msgid "Charcoal"
+msgstr "སོལ་བ།"
+
+msgid ""
+"Check that the spelling is correct and that your proxy settings are correct."
+msgstr ""
+"སྦྱོར་འབྲི་དང་ལས་ཚབ་ཞབས་ཞུ་ཆས་བཀོད་པའི་ཡང་དག་རང་བཞིན་ལ་ཞིབ་བཤེར་བྱེད་རོགས།"
+
+msgid "Check that you have permission to delete the emblem."
+msgstr "ཁྱེད་ལ་རྟགས་མ་འདོར་བའི་དབང་ཚད་ཡོད་མིན་ཞིབ་བཤེར་བྱེད་རོགས།"
+
+msgid "Check that you have permission to delete the pattern."
+msgstr "ཁྱེད་ལ་པར་རིས་འདོར་བའི་དབང་ཚད་ཡོད་མིན་ཞིབ་བཤེར་བྱེད་རོགས།"
+
+msgid "Choose a program with which to open the selected item"
+msgstr "བདམས་པའི་རྣམ་གྲངས་ཁ་འབྱེད་བྱེད་བྱ་རིམ་འདེམས།"
+
+msgid "Choose another application with which to open the selected item"
+msgstr "བདམས་པའི་རྣམ་གྲངས་ཁ་འབྱེད་བྱེད་བྱ་རིམ་གཞན་ཞིག་འདེམས།"
+
+msgid ""
+"Choose the order of information to appear beneath icon names. More "
+"information will appear when zooming in closer."
+msgstr ""
+
+msgid "Choose the order of information to appear in the list view."
+msgstr "ཆ་འཕྲིན་རེའུ་མིག་མཐོང་རིས་སུ་མངོན་པའི་རིམ་པ་འདེམས།"
+
+msgid "Choose the order of information to appear in this folder:"
+msgstr "ཡིག་ཁུག་འདི་ནང་གི་མངོན་དགོས་པའི་ཆ་འཕྲིན་ལ་རིམ་པ་འདེམས།"
+
+msgid "Choose what application to launch."
+msgstr "འདྲེན་སྤྱོད་བྱ་དགོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་འདེམས།"
+
+msgid ""
+"Choose what happens when inserting media or connecting devices to the system"
+msgstr ""
+"བར་རྫས་བར་འཇུག་ཡང་ན་སྒྲིག་ཆས་རྒྱུད་ཁོངས་སུ་འབྲེལ་སྐབས་བཀོལ་སྤྱོད་གང་ལག་བསྟར་བྱེད་དགོས་པ་འདེམས།"
+
+msgid ""
+"Choosing a script from the menu will run that script with any selected items"
+" as input."
+msgstr ""
+"འདེམས་བྱང་འདིར་ཞབས་དེབ་ཞིག་བདམས་ན་བདམས་པའི་རྣམ་གྲངས་གང་རུང་ནང་འཇུག་བྱས་ནས་ཞབས་དེབ་དེ་ལག་བསྟར་བྱ།"
+
+msgid "Clea_r History"
+msgstr "ལོ་རྒྱུས་གཙང་སེལ།(_R)"
+
+msgid "Clear contents of Go menu and Back/Forward lists"
+msgstr ""
+"“སྤོ་བ”འདེམས་བྱང་དང་། "
+"“མདུན་སྐྱོད”ཡང་ན་“ཕྱིར་སྣུར”རེའུ་མིག་ནང་གི་ནང་དོན་གཙང་སེལ།"
+
+msgid "Click on a color to remove it"
+msgstr "ཁ་དོག་ལ་ཆིག་རྡེབ་ནས་འདོར་བ།"
+
+msgid "Click on a pattern to remove it"
+msgstr "རི་མོ་ལ་ཆིག་རྡེབ་ནས་འདོར་བ།"
+
+msgid "Click on an emblem to remove it"
+msgstr "རྟགས་མ་ལ་ཆིག་རྡེབ་ནས་འདོར་བ།"
+
+msgid "Clos_e All Folders"
+msgstr "ཡིག་ཁུག་ཚང་མ་ཁ་རྒྱག(_E)"
+
+msgid "Close"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "Close P_arent Folders"
+msgstr "ཕུའི་ཡིག་ཁུག་ཁ་རྒྱག(_A)"
+
+msgid "Close _All Windows"
+msgstr "སྒེའུ་ཁུང་ཚང་མ་ཁ་རྒྱག(_A)"
+
+msgid "Close all Navigation windows"
+msgstr "ཁ་ཕྱེ་བའི་ཕྱོགས་འཁྲིད་སྒེའུ་ཁུང་ཚང་མ་ཁ་རྒྱག"
+
+msgid "Close all folder windows"
+msgstr "ཡིག་ཁུག་སྒེའུ་ཁུང་ཚང་མ་ཁ་རྒྱག"
+
+msgid "Close tab"
+msgstr "གདོང་འཛར་ཁ་རྒྱག"
+
+msgid "Close the side pane"
+msgstr "ཟུར་སྡེ་ཁ་རྒྱག"
+
+msgid "Close this folder"
+msgstr "ཡིག་ཁུག་འདི་ཁ་རྒྱག"
+
+msgid "Close this folder's parents"
+msgstr "ཡིག་ཁུག་འདིའི་ཕའི་ཡིག་ཁུག་ཁ་རྒྱག"
+
+msgid "Collapse"
+msgstr "ལྟེབ།"
+
+msgid "Color _name:"
+msgstr "ཁ་དོག་གི་མིང་།(_N)："
+
+msgid "Color _value:"
+msgstr "ཁ་དོག་གི་ཚད(_V)："
+
+msgid ""
+"Color for the default folder background. Only used if background_set is "
+"true."
+msgstr ""
+"སོར་བཞག་ཡིག་ཁུག་རྒྱབ་ལྗོངས་ཀྱི་ཁ་དོག་background_setནི་trueལ་བཀོད་སྐབས་སྤྱོད་པ་ཡིན།"
+
+msgid "Colors:"
+msgstr "ཁ་དོག："
+
+msgid "Command"
+msgstr "བཀའ་བརྡ།"
+
+msgid "Comment"
+msgstr "དཔྱད་གཏམ།"
+
+msgid "Compact View"
+msgstr "ཚགས་དམ་མཐོང་རིས།"
+
+msgid "Compact _Layout"
+msgstr "ཚགས་དམ་སྒྲིག་གཞི།(_L)"
+
+msgid "Compress..."
+msgstr "བཙིར་གནོན..."
+
+msgid "Computer"
+msgstr "རྩིས་འཁོར།"
+
+msgid "Computer View"
+msgstr "རྩིས་འཁོར་གྱི་མཐོང་རིས།"
+
+msgid "Computer icon visible on desktop"
+msgstr "ཅོག་ངོས་སུ་རྩིས་འཁོར་རིས་རྟགས་མངོན་པ།"
+
+msgid "Concrete"
+msgstr "ཨར་འདམ།"
+
+msgid "Connect To This Server"
+msgstr "ཞབས་ཞུ་ཆས་འདི་ལ་འབྲེལ་མཐུད།"
+
+msgid "Connect to Server"
+msgstr "ཞབས་ཞུ་ཆས་ལ་འབྲེལ་མཐུད།"
+
+msgid "Connect to Server %s"
+msgstr ""
+
+msgid "Connect to _Server..."
+msgstr "ཞབས་ཞུ་ཆས་ལ་འབྲེལ་མཐུད།(_S)..."
+
+msgid "Connect to a remote computer or shared disk"
+msgstr "རྒྱང་རིང་རྩིས་འཁོར་ཡང་ན་མཉམ་སྤྱོད་སྡུད་སྡེར་ལ་འབྲེལ་མཐུད།"
+
+msgid "Connect to the drive associated with the open folder"
+msgstr "ཁ་ཕྱེ་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྐུལ་ཆས་ལ་འབྲེལ་མཐུད།"
+
+msgid "Connect to the selected drive"
+msgstr "བདམས་པའི་སྒྲིལ་ལ་འབྲེལ་མཐུད།"
+
+msgid "Connecting..."
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ། ..."
+
+msgid "Content View"
+msgstr "ནང་དོན་མཐོང་རིས།"
+
+msgid "Contents:"
+msgstr "ནང་དོན།："
+
+msgid "Continue"
+msgstr "མུ་མཐུད།"
+
+msgid "Cop_y to"
+msgstr "འདྲ་བཟོ་བྱེད་ས།(_Y)"
+
+msgid "Copy %d items to '%s'"
+msgstr "ཚན %d “%s”ལ་འདྲ་བཟོ་བྱེད།"
+
+msgid "Copy '%s' to '%s'"
+msgstr "%d “%s”ལ་འདྲ་བཟོ་བྱེད།"
+
+msgid "Copy _Anyway"
+msgstr "འདྲ་བཟོ་བྱེད་པ།(_A)"
+
+msgid "Copy the current selection to the desktop"
+msgstr "བདམས་པའི་ཡིག་ཆ་(ཁུག)ཅོག་ངོས་སུ་འདྲ་བཟོ་བྱེད།"
+
+msgid "Copy the current selection to the home folder"
+msgstr "བདམས་པའི་ཡིག་ཆ་(ཁུག)དཀར་ཆག་ཏུ་འདྲ་བཟོ་བྱེད།"
+
+msgid "Copy the current selection to the other pane in the window"
+msgstr "བདམས་པའི་ཡིག་ཆ་(ཁུག)སྒེའུ་ཁུང་འདིའི་དྲ་མ་གཞན་ཞིག་ཏུ་འདྲ་བཟོ་བྱེད།"
+
+msgid "Copy the selected text to the clipboard"
+msgstr "བདམས་པའི་ཡིག་རྐྱང་སྦྱར་པང་དུ་འདྲ་བཟོ་བྱེད།"
+
+msgid "Copying \"%B\" to \"%B\""
+msgstr ""
+
+msgid "Copying %'d file (in \"%B\") to \"%B\""
+msgid_plural "Copying %'d files (in \"%B\") to \"%B\""
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Copying %'d file to \"%B\""
+msgid_plural "Copying %'d files to \"%B\""
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Copying Files"
+msgstr "ཡིག་ཆ་འདྲ་ཕབ་བྱེད་བཞིན་པ།"
+
+msgid "Copyright"
+msgstr "པར་དབང་།"
+
+msgid ""
+"Copyright © 1999-2009 The Nautilus authors\n"
+"Copyright © 2011-2014 The Caja authors"
+msgstr ""
+
+msgid "Cork"
+msgstr "ཤིང་གི་ཁ་གཅོད།"
+
+msgid "Could not add application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་སྣོན་མི་ཐུབ།"
+
+msgid "Could not add application to the application database: %s"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ཉེར་སྤྱོད་བྱ་རིམ་གཞི་གྲངས་མཛོད：%sལ་སྣོན་མི་ཐུབ།"
+
+msgid "Could not determine original location of \"%s\" "
+msgstr ""
+
+msgid "Could not display \"%s\", because the host could not be found."
+msgstr ""
+
+msgid "Could not display \"%s\"."
+msgstr ""
+
+msgid "Could not find \"%s\"."
+msgstr ""
+
+msgid "Could not find '%s'"
+msgstr "“%s”མི་རྙེད།"
+
+msgid "Could not find application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་མི་རྙེད།"
+
+msgid "Could not remove application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འདོར་མི་ཐུབ།"
+
+msgid "Could not remove emblem with name '%s'."
+msgstr "མིང་“%s”ཡིན་པའི་རྟགས་མ་འདོར་མི་ཐུབ།"
+
+msgid "Could not remove files from the already existing folder %F."
+msgstr "གནས་ཡོད་པའི་ཡིག་ཁུག %Fནང་དུ་ཡིག་ཆ་འདོར་མི་ཐུབ།་"
+
+msgid "Could not remove the already existing file %F."
+msgstr "ཡོད་པའི་ཡིག་ཆ་ %Fའདོར་མི་ཐུབ།"
+
+msgid "Could not remove the already existing file with the same name in %F."
+msgstr "%F ནང་དུ་ཡོད་པའི་ཡིག་ཆ་མིང་འདྲ་བ་འདོར་མི་ཐུབ།"
+
+msgid "Could not remove the folder %B."
+msgstr "ཡིག་ཁུག %Bའདོར་མུ་ཐུབ།"
+
+msgid "Could not remove the source folder."
+msgstr "ཁུངས་ཡིག་ཁུག་འདོར་མི་ཐུབ།"
+
+msgid "Could not rename emblem with name '%s'."
+msgstr "མིང་“%s”ཡི་རྟགས་མ་མིང་བསྐྱར་འདོགས་བྱ་མི་ཐུབ།"
+
+msgid "Could not run application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འཁོར་སྐྱོད་བྱ་མི་ཐུབ།"
+
+msgid "Could not set application as the default: %s"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་སོར་བཞག་ཚད：%sལ་སྒྲིག་འགོད་བྱ་མི་ཐུབ།"
+
+msgid "Could not set as default application"
+msgstr "སོར་བཞག་ཉེར་སྤྱོད་བྱ་རིམ་ལ་སྒྲིག་འགོད་བྱ་མི་ཐུབ།"
+
+msgid "Count _number of items:"
+msgstr "རྣམ་གྲངས་ཀྱི་གྲངས་ཀ་བསྡོམས་རྩིས།(_N)："
+
+msgid "Countertop"
+msgstr "སྒྲོམ་སྟེགས།"
+
+msgid "Create Document from template \"%s\""
+msgstr ""
+
+msgid "Create L_auncher..."
+msgstr "སྒུལ་ཆས་གསར་བཟོ།(_A)..."
+
+msgid "Create _Document"
+msgstr "གསར་བཟོ།(_D)"
+
+msgid "Create _Folder"
+msgstr "ཡིག་ཁུག(_F)"
+
+msgid "Create a New Color:"
+msgstr "ཁ་དོག་གསར་བ་གསར་བཟོ།："
+
+msgid "Create a New Emblem"
+msgstr "རྟགས་མ་གསར་བ་གསར་བཟོ།"
+
+msgid "Create a new empty file inside this folder"
+msgstr "ཡིག་ཁུག་འདིའི་ནང་དུ་ཡིག་ཆ་སྟོང་བ་གསར་བཟོ།"
+
+msgid "Create a new empty folder inside this folder"
+msgstr "ཡིག་ཁུག་འདིའི་ནང་དུ་ཡིག་ཁུག་སྟོང་བ་གསར་འཛུགས་བྱེད་པ།"
+
+msgid "Create a new folder '%s'"
+msgstr "ཡིག་ཁུག་%sགསར་པ་ཞིག་བཟོ་དགོས།"
+
+msgid "Create a new launcher"
+msgstr "སྒུལ་ཆས་གསར་པ་བཟོ་བ།"
+
+msgid "Create a symbolic link for each selected item"
+msgstr "བདམས་པའི་རྣམ་གྲངས་སོ་སོར་མྱུར་འཇུག་བྱེད་སྟངས་གསར་བཟོ།"
+
+msgid "Create an empty file '%s'"
+msgstr "ཡིག་ཆ་སྟོང་པ་%sཞིག་གསར་བཟོ།"
+
+msgid "Create and delete files"
+msgstr "ཡིག་ཆ་གསར་བཟོ་དང་སུབ་པ།"
+
+msgid "Create link to '%s'"
+msgstr "“%s”ལ་སྟོན་པའི་སྦྲེལ་མཐུད་གསར་བཟོ།"
+
+msgid "Create links to %d items"
+msgstr "ཚན“%s”ལ་སྟོན་པའི་སྦྲེལ་མཐུད་གསར་བཟོ།"
+
+msgid "Create new file '%s' from template "
+msgstr "མ་དཔེ་ལས་ཡིག་ཆ་གསར་པ“%s”གསར་བཟོ།"
+
+msgid "Create the initial window with the given geometry."
+msgstr "སྤྲད་པའི་དབྱིབས་རྩིས་གཏོགས་གཤིས་ཀྱིས་ཐོག་མའི་སྒེའུ་ཁུང་གསར་བཟོ།"
+
+msgid "Created:"
+msgstr "གསར་བཟོ་དུས་"
+
+msgid "Creating Properties window."
+msgstr "གཏོགས་གཤིས་སྒེའུ་ཁུང་གསར་བཟོ།"
+
+msgid "Creating links in \"%B\""
+msgstr ""
+
+msgid "Creator"
+msgstr "གསར་བཟོ་མཁན།"
+
+msgid "Current Volume Label: %s"
+msgstr ""
+
+msgid "Current progress is %s%s"
+msgstr "མིག་སྔའི་འཕེལ་ཚད་ནི %s%sཡིན།"
+
+msgid "Cursor Position"
+msgstr "འོད་རྟགས་གནས་ས།"
+
+msgid "Custom Background"
+msgstr "རྒྱབ་ལྗོངས་མཚན་ཉིད་རང་འཇོག"
+
+msgid "Custom Side Pane Background Set"
+msgstr "ཟུར་སྡེའི་རྒྱབ་ལྗོངས་ཚོགས་མཚན་ཉིད་རང་འཇོག"
+
+msgid "Cut the selected text to the clipboard"
+msgstr "བདམས་པའི་ཡིག་རྐྱང་སྦྱར་པང་དུ་དྲས།"
+
+msgid "D_efault zoom level:"
+msgstr "སོར་བཞག་སྐྱེད་སྐྱུང་རིམ་པ།(_E)："
+
+msgid "D_elete Recent"
+msgstr "སྤྱོ་ཐོ་འདོར་བ།"
+
+msgid "D_uplicate"
+msgstr "རང་གནས་སུ་འདྲ་བཟོ།(_U)"
+
+msgid "Danube"
+msgstr "ཏུའོ་ནའོ་གཙང་པོ།"
+
+msgid "Dark Cork"
+msgstr "སེར་སྐྱ།"
+
+msgid "Dark MATE"
+msgstr "MATEནག་པོ།"
+
+msgid "Date Accessed"
+msgstr "ལྟ་སྤྱོད་ཀྱི་དུས་ཚེས།"
+
+msgid "Date Digitized"
+msgstr "ཨང་ཀི་ཅན་དུ་བསྒྱུར་བའི་ཚེས་གྲངས།"
+
+msgid "Date Format"
+msgstr "དུས་ཚེས་རྣམ་གཞག"
+
+msgid "Date Modified"
+msgstr "བཟོ་བཅོས་དུས་ཚོད།"
+
+msgid "Date Taken"
+msgstr "པར་ལེན་དུས་ཚོད།"
+
+msgid "Date when file was moved to the Trash"
+msgstr "ཡིག་ཆ་སྙིགས་སྒམ་དུ་སྤོ་བའི་དུས།"
+
+msgid "Decrease the view size"
+msgstr "མཐོང་རིས་ཀྱི་ཆེ་ཆུང་འཕྲི་བ།"
+
+msgid "Deep Teal"
+msgstr "ཆུ་ཟབ་བྱ་མདོག"
+
+msgid "Default"
+msgstr "སོར་བཞག"
+
+msgid "Default Background Color"
+msgstr "སོར་བཞག་རྒྱབ་ལྗོངས་མདོག"
+
+msgid "Default Background Filename"
+msgstr "སོར་བཞག་ཡིག་ཆའི་མིང་།"
+
+msgid "Default Side Pane Background Color"
+msgstr "སོར་བཞག་ཟུར་མཐའ་སྡེའི་རྒྱབ་ལྗོངས་མདོག"
+
+msgid "Default Side Pane Background Filename"
+msgstr "སོར་བཞག་ཟུར་མཐའ་སྡེའི་ཡིག་ཆའི་མིང་།"
+
+msgid "Default Thumbnail Icon Size"
+msgstr "སོར་བཞག་སྐུང་རིས་ཀྱི་ཆེ་ཆུང་།"
+
+msgid "Default _zoom level:"
+msgstr "སོར་བཞག་སྐྱེད་སྐྱུང་རིམ་པ།(_Z)："
+
+msgid "Default column order in the list view"
+msgstr "རེའུ་མིག་མཐོང་རིས་ཀྱི་སྤྱོད་པའི་སོར་བཞག་གི་རིམ་པ།"
+
+msgid "Default column order in the list view."
+msgstr "རེའུ་མིག་མཐོང་རིས་ཀྱི་སྤྱོད་པའི་སོར་བཞག་གི་རིམ་པ།"
+
+msgid "Default compact view zoom level"
+msgstr "སོར་བཞག་གི་མཐོང་རིས་སྐྱེད་སྐྱུང་རིམ་པ།"
+
+msgid "Default folder viewer"
+msgstr "སོར་བཞག་གི་ཡིག་ཁུག་ལྟ་ཆས།"
+
+msgid "Default icon zoom level"
+msgstr "སོར་བཞག་གི་རིས་རྟགས་སྐྱེད་སྐྱུང་རིམ་པ།"
+
+msgid "Default list of columns visible in the list view"
+msgstr "རེའུ་མིག་མཐོང་རིས་སུ་མཐོང་རུང་སྟར་གྱི་སོར་བཞག་རེའུ་མིག"
+
+msgid "Default list of columns visible in the list view."
+msgstr "རེའུ་མིག་མཐོང་རིས་སུ་མཐོང་རུང་སྟར་གྱི་སོར་བཞག་རེའུ་མིག"
+
+msgid "Default list zoom level"
+msgstr "སོར་བཞག་གི་རེའུ་མིག་སྐྱེད་སྐྱུང་རིམ་པ།"
+
+msgid "Default sort order"
+msgstr "སོར་བཞག་གི་རིམ་སྒྲིག་རིམ་པ།"
+
+msgid "Default zoom level used by the compact view."
+msgstr "ཚགས་དམ་མཐོང་རིས་ཀྱིས་སྤྱོད་པའི་སོར་བཞག་སྐྱེད་སྐྱུང་རིམ་པ།"
+
+msgid "Default zoom level used by the icon view."
+msgstr "རིས་རྟགསམཐོང་རིས་ཀྱིས་སྤྱོད་པའི་སོར་བཞག་སྐྱེད་སྐྱུང་རིམ་པ།"
+
+msgid "Default zoom level used by the list view."
+msgstr "རེའུ་མིག་མཐོང་རིས་ཀྱིས་སྤྱོད་པའི་སོར་བཞག་སྐྱེད་སྐྱུང་རིམ་པ།"
+
+msgid "Delete %d copied items"
+msgstr "་ འདྲ་བཟོའི་རྣམ་གྲངས་%d འདོར་བ།"
+
+msgid "Delete %d duplicated items"
+msgstr "བསྐྱར་ཟློས་ཀྱི་རྣམ་གྲངས་%d འདོར་བ།"
+
+msgid "Delete '%s'"
+msgstr "’%s‘འདོར་བ།"
+
+msgid "Delete _All"
+msgstr "ཚང་མ་འདོར་བ།(_A)"
+
+msgid "Delete all items in the Trash"
+msgstr "སྙིགས་སྒམ་ནང་གི་རྣམ་གྲངས་ཚང་མ་འདོར་བ།"
+
+msgid "Delete all selected items permanently"
+msgstr "བདམས་པའི་རྣམ་གྲངས་ཚང་མ་བརྟན་འདོར།"
+
+msgid "Delete each selected item, without moving to the Trash"
+msgstr "བདམས་པའི་རྣམ་གྲངས་སོ་སོ་འདོར་བ། སྙིགས་སྒམ་དུ་སྤོ་བ་མིན།"
+
+msgid "Delete link to '%s'"
+msgstr "“%s”ལ་བསྟན་པའི་སྦྲེལ་མཐུད་འདོར་བ།"
+
+msgid "Delete links to %d items"
+msgstr "ཚན%d ལ་བསྟན་པའི་སྦྲེལ་མཐུད་འདོར་བ།"
+
+msgid "Delete the open folder permanently"
+msgstr "ཁ་ཕྱེ་བའི་ཡིག་ཁུག་བརྟན་འདོར།"
+
+msgid "Delete this folder, without moving to the Trash"
+msgstr "ཡིག་ཁུག་འདི་འདོར་བ། སྙིགས་སྒམ་དུ་སྤོ་བ་མིན།"
+
+msgid "Deleting Files"
+msgstr "ཡིག་ཆ་འདོར་བཞིན་པ།"
+
+msgid "Deleting files"
+msgstr "ཡིག་ཆ་འདོར་བ།"
+
+msgid "Description"
+msgstr "ཞིབ་བརྗོད།"
+
+msgid "Desktop"
+msgstr "ཅོག་ངོས།"
+
+msgid "Desktop computer icon name"
+msgstr "ཅོག་ངོས་ཀྱི་རྩིས་འཁོར་རིས་རྟགས་ཀྱི་མིང་།"
+
+msgid "Desktop font"
+msgstr "ཅོག་ངོས་ཡིག་གཟུགས།"
+
+msgid "Desktop home icon name"
+msgstr "ཅོག་ངོས་ཡིག་ཁུག་གཙོའི་རིས་རྟགས་མིང་།"
+
+msgid "Desktop trash icon name"
+msgstr "ཅོག་ངོས་སྙིགས་སྒམ་གྱི་རིས་རྟགས་མིང་།"
+
+msgid "Details: "
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
+
+msgid "Detect media in the selected drive"
+msgstr "བདམས་པའི་སྐུལ་ཆས་ནང་གི་སྨྱན་གཟུགས་ཞིབ་བཤེར།"
+
+msgid "Device Rename"
+msgstr ""
+
+msgid "Devices"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "Differences..."
+msgstr "ཁྱད་པར།..."
+
+msgid "Disable connection to session manager"
+msgstr "གྲོས་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་བཀག"
+
+msgid "Disconnect the drive associated with the open folder"
+msgstr "ཁ་ཕྱེའི་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྐུལ་ཆས་ཀྱི་འབྲེལ་མཐུད་གཅོད་པ།"
+
+msgid "Disconnect the selected drive"
+msgstr "བདམས་པའི་སྒྲིལ་གྱི་འབྲེལ་མཐུད་གཅོད་པ།"
+
+msgid "Disk"
+msgstr "རང་སའི་སྲ་སྡེར།"
+
+msgid "Display"
+msgstr "མངོན་པ།"
+
+msgid "Display  drives and hardwares which connect the computer"
+msgstr "རྩིས་འཁོར་འདི་ལ་འབྲེལ་བའི་སྐུལ་ཆས་དང་སྲ་ཆས་མངོན་པ།"
+
+msgid "Display Caja help"
+msgstr " Caja རོགས་རམ་མངོན་པ།"
+
+msgid "Display a window that allows editing the bookmarks in this menu"
+msgstr "འདེམས་བྱང་འདིའི་དཔེ་བྱང་རྩོམ་སྒྲིག་བྱ་བྱེད་སྒེའུ་ཁུང་མངོན་པ།"
+
+msgid "Display credits for the creators of Caja"
+msgstr "Cajaཡི་མཛད་པ་མངོན་པ།"
+
+msgid "Display files which are removed"
+msgstr "སྤོ་བའི་ཡིག་ཆ་མངོན་པ།"
+
+msgid "Display icons in the opposite order"
+msgstr "ལྡོག་རིམ་གྱིས་རིས་རྟགས་མངོན་པ།"
+
+msgid ""
+"Display patterns, colors, and emblems that can be used to customize "
+"appearance"
+msgstr "ཕྱི་ཚུལ་བཀོད་པར་སྤྱོད་རུང་གི་རི་མོ་དང་། ཁ་དོག རྟགས་མ་མངོན་པ།"
+
+msgid "Display personal files"
+msgstr "མི་སྒེར་ཡིག་ཆ་མངོན་པ།"
+
+msgid "Display this location with the compact view."
+msgstr "ཚགས་དམ་མཐོང་རིས་ཀྱིས་གནས་ས་འདི་མངོན་པ།"
+
+msgid "Display this location with the icon view."
+msgstr "རིས་རྟགས་མཐོང་རིས་ཀྱིས་གནས་ས་འདི་མངོན་པ།"
+
+msgid "Display this location with the list view."
+msgstr "རེའུ་མིག་མཐོང་རིས་ཀྱིས་གནས་ས་འདི་མངོན་པ།"
+
+msgid "Do Nothing"
+msgstr "བཀོལ་སྤྱོད་མི་བྱེད།"
+
+msgid "Do _not Empty Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ་མ་བྱེད།(_N)"
+
+msgid ""
+"Do not manage the desktop (ignore the preference set in the preferences "
+"dialog)."
+msgstr ""
+"ཅོག་ངོས་དོ་དམ་མ་བྱེད།(འདེམས་ཚན་ཐོག་མ་གླེང་མོལ་ནང་བཀོད་པའི་ཐོག་མ་འདེམས་ཚན་སྣང་མེད་དུ་གཏོང་།)"
+
+msgid "Do you want to empty the trash before you unmount?"
+msgstr "ཁྱེད་ཀྱིས་བཤིག་འདོར་སྔོན་དུ་སྙིགས་སྒམ་གཙང་སེལ་བྱ་དགོས་སམ།"
+
+msgid ""
+"Do you want to remove any bookmarks with the non-existing location from your"
+" list?"
+msgstr "ཁྱེད་ཀྱིས་རེའུ་མིག་ཏུ་གནས་ས་འདིའི་དཔེ་བྱང་ཚང་མ་འདོར་དགོས་སམ།"
+
+msgid "Do you want to run \"%s\", or display its contents?"
+msgstr ""
+
+msgid "Do you want to view %d location?"
+msgid_plural "Do you want to view %d locations?"
+msgstr[0] "ཁྱེད་ཀྱིས་གནས་ས་ %d ལ་བལྟ་དགོས་སམ།"
+msgstr[1] "ཁྱེད་ཀྱིས་གནས་ས་ %d ལ་བལྟ་དགོས་སམ།"
+
+msgid "Documents"
+msgstr "ཡིག་ཚགས།"
+
+msgid "Domain Name:"
+msgstr "ཁོངས་མིང་།"
+
+msgid "Dots"
+msgstr "ཚེག་"
+
+msgid "Download location?"
+msgstr "ཕབ་པའི་གནས་ས།"
+
+msgid "Drag a color to an object to change it to that color"
+msgstr "ཁ་དོག་ཅིག་བྱ་ཡུལ་སྟེང་ལ་འདྲུད་དེ་དེའི་ཁ་དོག་དེ་ལྟར་བསྒྱུར།"
+
+msgid "Drag a pattern tile to an object to change it"
+msgstr "རི་མོ་ཞིག་བྱ་ཡུལ་སྟེང་ལ་འདྲུད་དེ་དེའི་རི་མོ་དེ་ལྟར་བསྒྱུར།"
+
+msgid "Drag an emblem to an object to add it to the object"
+msgstr "རྟགས་མ་ཞིག་བྱ་ཡུལ་སྟེང་ལ་འདྲུད་དེ་དེར་བྱ་ཡུལ་ལ་སྣོན།"
+
+msgid "Drag and drop is not supported."
+msgstr "འདྲུད་འཇོག་བཀོལ་སྤྱོད་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Drag and drop is only supported on local file systems."
+msgstr "འདྲུད་འཇོག་བཀོལ་སྤྱོད་ནི་རང་སའི་ཡིག་ཆའི་རྒྱུད་ཁོངས་སུ་བྱ་དགོས། "
+
+msgid "Duplicate '%s' in '%s'"
+msgstr "རང་སར་“%2$s”ཡི་“%1$s”འདྲ་བཟོ་བྱེད།"
+
+msgid "Duplicate each selected item"
+msgstr "བདམས་པའི་ཚན་སོ་སོ་འདྲ་བཟོ་བྱེད།"
+
+msgid "Duplicate of %d items in '%s'"
+msgstr "ས་དེར“%2$s”ནང་གི་ཚན་ %1$dའདྲ་བཟོ་བྱེད།"
+
+msgid "Duplicating \"%B\""
+msgstr ""
+
+msgid "Duplicating %'d file"
+msgid_plural "Duplicating %'d files"
+msgstr[0] "ཡིག་ཆ་%'dའདྲ་བཟོ་བྱེད།"
+msgstr[1] "ཡིག་ཆ་%'dའདྲ་བཟོ་བྱེད།"
+
+msgid "Duplicating %'d file (in \"%B\")"
+msgid_plural "Duplicating %'d files (in \"%B\")"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "E_mpty Recent"
+msgstr "ཉེ་ཆར་སྤྱོད་པའི་ཟིན་ཐོ་གཙང་སེལ་བྱེད།"
+
+msgid "E_mpty Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ་བྱེད།(_M)"
+
+msgid "E_xecute"
+msgstr "ལག་བསྟར།(_X)"
+
+msgid "E_xtra Pane"
+msgstr "ཟུར་བསྣན་དྲ་མ།(_X)"
+
+msgid "Eclipse"
+msgstr ""
+
+msgid "Edit"
+msgstr "རྩོམ་སྒྲིག"
+
+msgid "Edit Bookmarks"
+msgstr "དེབ་བྱང་རྩོམ་སྒྲིག་བྱེད།"
+
+msgid "Edit Caja preferences"
+msgstr "Caja ཡི་ཐོག་མའི་འདེམས་ཚན་རྩོམ་སྒྲིག་བྱེད།"
+
+msgid "Edit the saved search"
+msgstr "ཉར་བའི་འཚོལ་བཤེར་རྩོམ་སྒྲིག་བྱེད།"
+
+msgid "Eject the selected volume"
+msgstr "བདམས་པའི་སྒྲིལ་འཕར་ཐོན།"
+
+msgid "Eject the volume associated with the open folder"
+msgstr "ཁ་ཕྱེའི་ཡིག་ཁུག་འབྲེལ་བའི་སྒྲིལ་འཕར་ཐོན།"
+
+msgid "Eject the volume associated with this folder"
+msgstr "ཡིག་ཁུག་འདི་དང་འབྲེལ་བའི་སྒྲིལ་འཕར་ཐོན།"
+
+msgid "Emblems"
+msgstr "རྟགས་མ།"
+
+msgid "Emblems:"
+msgstr "རྟགས་མ།"
+
+msgid "Empty Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།"
+
+msgid "Empty _Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།(_T)"
+
+msgid "Empty all items from Trash?"
+msgstr "སྙིགས་སྒམ་ནང་གི་རྣམ་གྲངས་ཚང་མ་གཙང་སེལ་བྱ་དགོས་སམ།"
+
+msgid "Emptying Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ་བྱེད་པ།"
+
+msgid "Enables the classic Caja behavior, where all windows are browsers"
+msgstr "གསུང་རབ་ཀྱི་Cajaབྱ་སྤྱོད་སྤྱོད་པ། སྒེའུ་ཁུང་ཚང་མ་བཤར་ཆས་ཡིན།"
+
+msgid "Enqueue in SMPlayer"
+msgstr "བརྙན་ཟློས་གཏོང་ཆས་རུ་སྟར་དུ་སྣོན་པ།"
+
+msgid "Ensure"
+msgstr "གཏན་འཁེལ།"
+
+msgid ""
+"Enter a descriptive name next to each emblem.  This name will be used in "
+"other places to identify the emblem."
+msgstr ""
+"རྟགས་མའི་ཟུར་སོ་སོའི་ཞིབ་བརྗོད་ཅན་གྱི་མིང་ནང་འཇུག་བྱེད། "
+"མིང་འདི་གནས་ས་གཞན་དག་ཏུ་ངོས་འཛིན་རྟགས་མ་ལ་སྤྱོད་པ།"
+
+msgid ""
+"Enter a descriptive name next to the emblem.  This name will be used in "
+"other places to identify the emblem."
+msgstr ""
+"རྟགས་མའི་ཟུར་གྱི་ཞིབ་བརྗོད་ཅན་གྱི་མིང་ནང་འཇུག་བྱེད། "
+"མིང་འདི་གནས་ས་གཞན་དག་ཏུ་ངོས་འཛིན་རྟགས་མ་ལ་སྤྱོད་པ།"
+
+msgid "Enter a new name for the displayed emblem:"
+msgstr "མངོན་པའི་རྟགས་མའི་མིང་གསར་ནང་འཇུག："
+
+msgid "Envy"
+msgstr "ཡིད་སྨོན།"
+
+msgid "Erase"
+msgstr "འདོར་བ།"
+
+msgid "Erase the device will takes a long time,do you want to continue?"
+msgstr "སྒྲིག་ཆས་བསུབ་པའི་དུས་ཚོད་ཅུང་རིང་། མུ་མཐུད་དུ་བྱེད་དམ།"
+
+msgid "Erase(Need more time)"
+msgstr "བསུབ་པ།(དུས་ཚོད་དེ་ལས་མང་དགོས།)"
+
+msgid "Error starting autorun program: %s"
+msgstr "རང་འཁོར་བྱ་རིམ་མགོ་རྩོམ་ལ་ནོར་འཁྲུལ་བྱུང་།：%s"
+
+msgid "Error while copying \"%B\"."
+msgstr ""
+
+msgid "Error while copying to \"%B\"."
+msgstr ""
+
+msgid "Error while copying."
+msgstr "འདྲ་བཟོ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error while creating directory %B."
+msgstr "དཀར་ཆག་ %Bགསར་བཟོ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error while creating file %B."
+msgstr "ཡིག་ཆ་ %Bགསར་བཟོ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error while creating link to %B."
+msgstr " %B ལ་སྦྲེལ་མཐུད་གསར་བཟོ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error while deleting."
+msgstr "འདོར་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error while moving \"%B\"."
+msgstr ""
+
+msgid "Error while moving files to trash."
+msgstr "ཡིག་ཆ་སྙིགས་སྒམ་དུ་སྤོ་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error while moving."
+msgstr "སྤོ་བ་འབྱུང་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid ""
+"Error: %s\n"
+"Please select another viewer and try again."
+msgstr ""
+
+msgid "Examples: "
+msgstr "དཔེ་མཚོན།"
+
+msgid "Execute:"
+msgstr "ལག་བསྟར།"
+
+msgid "Expand"
+msgstr "བཀྲམ་པ།"
+
+msgid "Exposure Program"
+msgstr "འོད་འཕྲོའི་བྱ་རིམ།"
+
+msgid "Exposure Time"
+msgstr "འོད་འཕྲོའི་དུས་ཚོད།"
+
+msgid "Extension"
+msgstr "རྒྱ་སྐྱེད།"
+
+msgid "Extensions"
+msgstr "རྒྱ་སྐྱེད།"
+
+msgid "External-Disk"
+msgstr "ཕྱི་མཐུད་སྲ་སྡེར།"
+
+msgid "FILE"
+msgstr "ཡིག་ཆ།"
+
+msgid "FTP (with login)"
+msgstr "FTP (ཐོ་འགོད་དགོས།)"
+
+msgid "Failed to load image information"
+msgstr "པར་རིས་ཆ་འཕྲིན་ཕབ་འཇུག་ཕམ་པ།"
+
+msgid "Favorite"
+msgstr "བསྡུ་ཉར་ཁུག་མ།"
+
+msgid "Fibers"
+msgstr "འཐག་དངོས།"
+
+msgid "File Browser"
+msgstr "ཡིག་ཆའི་བཤར་ཆས།"
+
+msgid "File Management"
+msgstr "ཡིག་ཆ་དོ་དམ་ཆས།"
+
+msgid "File Management Preferences"
+msgstr "ཡིག་ཆ་དོ་དམ་ཐོག་འདེམས་ཚན།"
+
+msgid "File Manager"
+msgstr "ཡིག་ཆ་དོ་དམ་ཆས།"
+
+msgid "File Operations"
+msgstr "ཡིག་ཆ་བཀོལ་སྤྱོད།"
+
+msgid "File Permissions:"
+msgstr "ཡིག་ཆའི་དབང་ཚད།："
+
+msgid "File System"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས།"
+
+msgid "File System:"
+msgstr ""
+
+msgid "File Type"
+msgstr "ཡིག་ཆའི་རིགས་གྲས།"
+
+msgid "File conflict"
+msgstr "ཡིག་ཆ་འགལ་བ།"
+
+msgid "File is not a valid .desktop file"
+msgstr "ཡིག་ཆ་ནི .desktop ནུས་ལྡན་ཡིག་ཆ་མིན།"
+
+msgid "File manager for the MATE desktop environment"
+msgstr "MATE ཅོག་ངོས་ཁོར་ཡུག་གི་ཡིག་ཆ་དོ་དམ་ཆས།"
+
+msgid "File not found"
+msgstr ""
+
+msgid ""
+"Filename for the default side pane background. Only used if "
+"side_pane_background_set is true."
+msgstr ""
+"སོར་བཞག་མཐའ་ཟུར་སྡེའི་རྒྱབ་ལྗོངས་ཀྱི་ཡིག་ཆ།  side_pane_background_set ནི "
+"trueཡིན་སྐབས་ཁོ་ན་སྤྱོད།"
+
+msgid ""
+"Files in the folder \"%B\" cannot be copied because you do not have "
+"permissions to see them."
+msgstr ""
+
+msgid ""
+"Files in the folder \"%B\" cannot be deleted because you do not have "
+"permissions to see them."
+msgstr ""
+
+msgid ""
+"Files in the folder \"%B\" cannot be handled because you do not have "
+"permissions to see them."
+msgstr ""
+
+msgid "Filesystem type:"
+msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་རིགས་གྲས།："
+
+msgid "Find duplicate file"
+msgstr "ཡིག་ཆ་བསྐྱར་མ་ཞིབ་བཤེར།"
+
+msgid "Fire Engine"
+msgstr "མེ་གསོད་རླངས་འཁོར།"
+
+msgid "Flash Fired"
+msgstr "འོད་འཁྱུག་གློག་སྒྲོན།"
+
+msgid "Fleur De Lis"
+msgstr "མེ་ཏོག་བརྒྱ་འཛོམས།"
+
+msgid "Floral"
+msgstr "མེ་ཏོག་གི་དཔེ་རིས།"
+
+msgid "Focal Length"
+msgstr "མདོ་ཐག"
+
+msgid "Folder Permissions:"
+msgstr "ཡིག་ཁུག་གི་དབང་ཚད།："
+
+msgid "Folder access:"
+msgstr "ཡིག་ཁུག་ལྟ་སྤྱོད།："
+
+msgid "Folder:"
+msgstr "ཡིག་ཁུག："
+
+msgid ""
+"For users with mice that have \"Forward\" and \"Back\" buttons, this key "
+"will determine if any action is taken inside of Caja when either is pressed."
+msgstr ""
+
+msgid ""
+"For users with mice that have buttons for \"Forward\" and \"Back\", this key"
+" will set which button activates the \"Back\" command in a browser window. "
+"Possible values range between 6 and 14."
+msgstr ""
+
+msgid ""
+"For users with mice that have buttons for \"Forward\" and \"Back\", this key"
+" will set which button activates the \"Forward\" command in a browser "
+"window. Possible values range between 6 and 14."
+msgstr ""
+
+msgid "Format Volume"
+msgstr "སྒྲིལ་རྣམ་གཞག་ཅན་དུ་སྒྱུར།"
+
+msgid "Format the selected volume"
+msgstr "བདམས་པའི་སྒྲིལ་རྣམ་གཞག་ཅན་དུ་སྒྱུར།"
+
+msgid "Format the volume associated with the open folder"
+msgstr "ཁ་ཕྱེ་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྒྲིལ་རྣམ་གཞག་ཅན་དུ་སྒྱུར།"
+
+msgid "Format the volume associated with this folder"
+msgstr "ཡིག་ཁུག་འདི་དང་འབྲེལ་བའི་སྒྲིལ་རྣམ་གཞག་ཅན་དུ་སྒྱུར།"
+
+msgid "Formatting Options:"
+msgstr "འདེམས་ཚན་རྣམ་གཞག་ཅན་དུ་སྒྱུར།："
+
+msgid "Formatting is in progress, do you want to continue?"
+msgstr "རྣམ་གཞག་ཅན་དུ་སྒྱུར་བ། མུ་མཐུད་དུ་བྱ་དགོས་སམ།"
+
+msgid "Formatting is in progress, is it canceled?"
+msgstr "རྣམ་གཞག་ཅན་དུ་སྒྱུར་བ། ལེན་དགོས་སམ།"
+
+msgid ""
+"Formatting will delete all data,are you sure you want to format the device?"
+msgstr ""
+"ྣམ་གཞག་ཅན་དུ་སྒྱུར་བས་གཞི་གྲངས་ཚང་མ་འདོར་བ་ཡིན། མུ་མཐུད་དུ་བྱ་དགོས་སམ།"
+
+msgid "Forward history"
+msgstr "ལོ་རྒྱུས་མདུན་སྐྱོད།"
+
+msgid "Fossil"
+msgstr "འགྱུར་རྡོ།"
+
+msgid "Free space:"
+msgstr "བར་སྟོང་ལྷག་མ།："
+
+msgid "Free space: %s"
+msgstr "བར་སྟོང་ལྷག་མ།：%s"
+
+msgid "GB available space,total"
+msgstr "Gསྤྱོད་རུང་བསྡོམས་ན་"
+
+msgid "GEOMETRY"
+msgstr "དབྱིབས་རྩིས་གཏོགས་གཤིས།"
+
+msgid "Go"
+msgstr "འཚོལ་བ།"
+
+msgid "Go To:"
+msgstr "བསྒྱུར་ས།："
+
+msgid "Go to the location specified by this bookmark"
+msgstr "དཔེ་བྱང་འདིས་བསྟན་པའི་གནས་སར་སྒྱུར།"
+
+msgid "Go to the next visited location"
+msgstr "ལྟ་སྤྱོད་བྱས་པའི་ངོས་རྗེས་མར་སྒྱུར།"
+
+msgid "Go to the previous visited location"
+msgstr "ལྟ་སྤྱོད་བྱས་པའི་གནས་ས་སྔར་མ་བོར་སྒྱུར།"
+
+msgid "Go to the same location as in the extra pane"
+msgstr "ཟུར་སྣོན་སྒེའུ་ཁུང་གནས་ས་འདྲ་བར་སྒྱུར།"
+
+msgid "Granite"
+msgstr "རྡོ་རྡོ།"
+
+msgid "Grapefruit"
+msgstr "ཡའོ་མདོག"
+
+msgid "Green Weave"
+msgstr "ལྗང་མདོག་གི་འཐག་དངོས།"
+
+msgid "Group"
+msgstr "ཚོགས་པ།"
+
+msgid "Group:"
+msgstr "ཚོགས་པ།"
+
+msgid "History"
+msgstr "ལོ་རྒྱུས།"
+
+msgid "Home Folder"
+msgstr "ཡིག་ཁུག་གཙོ་བོ།"
+
+msgid "Home icon visible on desktop"
+msgstr "ཅོག་ངོས་སུ་ཡིག་ཁུག་གི་རིས་རྟགས་མངོན་པ།"
+
+msgid "Home-Desktop"
+msgstr "ཅོག་ངོས།"
+
+msgid "Home-Public"
+msgstr "སྤྱི་སྤྱོད།"
+
+msgid "Home-Templates"
+msgstr "མ་དཔེ།"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ISO Speed Rating"
+msgstr "ISO འགྲོས་ཚད་རིམ་པ།"
+
+msgid "I_nclude a Delete command that bypasses Trash"
+msgstr "སྙིགས་སྒམ་གཡོལ་བའི་འདོར་བའི་བཀའ་བརྡ་འདུས།(_N)"
+
+msgid "Ice"
+msgstr "གྲང་སྔོན།"
+
+msgid "Icon"
+msgstr "རིས་རྟགས"
+
+msgid "Icon View"
+msgstr "རིས་རྟགས་མཐོང་རིས།"
+
+msgid "Icon _Size"
+msgstr "རིས་རྟགས་ཆེ་ཆུང་།(_P)"
+
+msgid ""
+"If set to \"after-current-tab\", then new tabs are inserted after the "
+"current tab. If set to \"end\", then new tabs are appended to the end of the"
+" tab list."
+msgstr ""
+
+msgid ""
+"If set to true, Caja will only show folders in the tree side pane. Otherwise"
+" it will show both folders and files."
+msgstr ""
+
+msgid ""
+"If set to true, file sizes are shown using IEC (base 1024) units with "
+"\"KiB\" style suffixes, instead of default with SI units."
+msgstr ""
+
+msgid ""
+"If set to true, newly opened windows will have the location bar visible."
+msgstr "གལ་ཏེ་ trueལ་བཀོད་ན། ཁ་ཕྱེ་བའི་སྒེའུ་ཁུང་གསར་བས་གནས་ས་སྡེ་མངོན་པ།"
+
+msgid "If set to true, newly opened windows will have the side pane visible."
+msgstr "གལ་ཏེ་ trueལ་བཀོད་ན། ཁ་ཕྱེ་བའི་སྒེའུ་ཁུང་གསར་བས་མཐའ་ཟུར་སྡེ་མངོན་པ།"
+
+msgid "If set to true, newly opened windows will have the status bar visible."
+msgstr "གལ་ཏེ་ trueལ་བཀོད་ན། ཁ་ཕྱེ་བའི་སྒེའུ་ཁུང་གསར་བས་རྣམ་པ་སྡེ་མངོན་པ།"
+
+msgid "If set to true, newly opened windows will have toolbars visible."
+msgstr "གལ་ཏེ་ trueལ་བཀོད་ན། ཁ་ཕྱེ་བའི་སྒེའུ་ཁུང་གསར་བས་ལག་ཆ་སྡེ་མངོན་པ།"
+
+msgid ""
+"If set to true, then Caja browser windows will always use a textual input "
+"entry for the location toolbar, instead of the pathbar."
+msgstr ""
+
+msgid ""
+"If set to true, then Caja lets you edit and display file permissions in a "
+"more unix-like way, accessing some more esoteric options."
+msgstr ""
+
+msgid ""
+"If set to true, then Caja shows folders prior to showing files in the icon "
+"and list views."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན། "
+"Cajaཡིས་རིས་རྟགས་མཐོང་རིས་དང་རེའུ་མིག་མཐོང་རིས་སུ་ཡིག་ཁུག་ཡིག་ཆ་མདུན་དུ་མངོན།"
+
+msgid ""
+"If set to true, then Caja will ask for confirmation when you attempt to "
+"delete files, or empty the Trash."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན། "
+"Cajaཡིས་ཁྱེད་ཀྱིས་ཡིག་ཆ་བསུབ་བའམ་སྙིགས་སྒམ་གཙང་སེལ་སྐབས་སུ་གཏན་འཁེལ་རེ་ཞུ་བྱ་བ་ཡིན།"
+
+msgid ""
+"If set to true, then Caja will automatically mount media such as user-"
+"visible hard disks and removable media on start-up and media insertion."
+msgstr ""
+
+msgid ""
+"If set to true, then Caja will automatically open a folder when media is "
+"automounted. This only applies to media where no known x-content/* type was "
+"detected; for media where a known x-content type is detected, the user "
+"configurable action will be taken instead."
+msgstr ""
+
+msgid ""
+"If set to true, then Caja will exit when all windows are destroyed. This is "
+"the default setting. If set to false, it can be started without any window, "
+"so caja can serve as a daemon to monitor media automount, or similar tasks."
+msgstr ""
+
+msgid ""
+"If set to true, then Caja will have a feature allowing you to delete a file "
+"immediately and in-place, instead of moving it to the trash. This feature "
+"can be dangerous, so use caution."
+msgstr ""
+
+msgid ""
+"If set to true, then Caja will never prompt nor autorun/autostart programs "
+"when a medium is inserted."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན། "
+"Cajaཡིས་བར་རྫས་བར་འཇུག་བྱེད་སྐབས་བྱ་རིམ་རང་འཁོར་རམ་མགོ་རང་རྩོམ་གསལ་སྟོན་མི་བྱ།"
+
+msgid ""
+"If set to true, then Caja will use the user's home folder as the desktop. If"
+" it is false, then it will use ~/Desktop as the desktop."
+msgstr ""
+
+msgid ""
+"If set to true, then all Caja windows will be browser windows. This is how "
+"Nautilus used to behave before version 2.6, and some people prefer this "
+"behavior."
+msgstr ""
+
+msgid ""
+"If set to true, then hidden files are shown by default in the file manager. "
+"Hidden files are either dotfiles, listed in the folder's .hidden file or "
+"backup files ending with a tilde (~)."
+msgstr ""
+
+msgid "If set, wrap lines if the text becomes too wide."
+msgstr ""
+"གལ་ཏེ་འདེམས་ཚན་འདི་བདམས་ན། ཡིག་རྐྱང་ཞེང་ཆེ་དྲགས་སྐབས་སུ་ཕྲེང་རང་གཅོད་བྱ།"
+
+msgid ""
+"If this is set to true, an icon linking to the Network Servers view will be "
+"put on the desktop."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན།  "
+"ཅོག་ངོས་སུ་དྲ་བའི་ཞབས་ཞུ་ཆས་སུ་སྦྲེལ་བའི་རིས་རྟགས་ཤིག་འཇོག"
+
+msgid ""
+"If this is set to true, an icon linking to the computer location will be put"
+" on the desktop."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན།  "
+"ཅོག་ངོས་སུ་རྩིས་འཁོར་གྱི་གནས་སར་སྦྲེལ་བའི་རིས་རྟགས་ཤིག་འཇོག"
+
+msgid ""
+"If this is set to true, an icon linking to the home folder will be put on "
+"the desktop."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན།  ཅོག་ངོས་སུ་ཡིག་ཁུག་གཙོ་བོར་སྦྲེལ་བའི་རིས་རྟགས་ཤིག་འཇོག"
+
+msgid ""
+"If this is set to true, an icon linking to the trash will be put on the "
+"desktop."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན།  ཅོག་ངོས་སུ་སྙིགས་སྒམ་དུ་སྦྲེལ་བའི་རིས་རྟགས་ཤིག་འཇོག"
+
+msgid ""
+"If this is set to true, icons linking to mounted volumes will be put on the "
+"desktop."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན།  ཅོག་ངོས་སུ་བཀལ་བའི་སྒྲིལ་ལ་སྦྲེལ་བའི་རིས་རྟགས་ཤིག་འཇོག"
+
+msgid ""
+"If this preference is set, all columns in the compact view have the same "
+"width. Otherwise, the width of each column is determined seperately."
+msgstr ""
+
+msgid ""
+"If true, files in new windows will be sorted in reverse order. ie, if sorted"
+" by name, then instead of sorting the files from \"a\" to \"z\", they will "
+"be sorted from \"z\" to \"a\"; if sorted by size, instead of being "
+"incrementally they will be sorted decrementally."
+msgstr ""
+
+msgid "If true, icons will be laid out tighter by default in new windows."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན།  "
+"རིས་རྟགས་སྒེའུ་ཁུང་གསར་བར་སོར་བཞག་པའི་ཚགས་དམ་པའི་བཀོད་པས་མངོན་པ།"
+
+msgid ""
+"If true, labels will be placed beside icons rather than underneath them."
+msgstr ""
+"གལ་ཏེ་ trueལ་བཀོད་ན།  ཡི་གེའི་གདོང་འཛར་རིས་རྟགས་འགྲམ་དུ་ཕྱིར་འཇོག་པ་དང་། "
+"རིས་རྟགས་འོག་ཏུ་འཇོག་པ་མིན།"
+
+msgid "If you delete an item, it will be in trash."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་རྣམ་གྲངས་ཤིག་དོར་ན། རྣམ་གྲངས་འདི་སྙིགས་སྒམ་དུ་འཇོག་པ་ཡིན།"
+
+msgid "If you delete an item, it will be permanently lost."
+msgstr "གལ་ཏེ་ཁྱེད་ཀྱིས་རྣམ་གྲངས་ཤིག་དོར་ན། རྣམ་གྲངས་བོར་བ་ཡིན།"
+
+msgid ""
+"If you want to eject the volume, please use \"Eject\" in the popup menu of "
+"the volume."
+msgstr ""
+
+msgid ""
+"If you want to unmount the volume, please use \"Unmount Volume\" in the "
+"popup menu of the volume."
+msgstr ""
+
+msgid "Illustration"
+msgstr "འགྲེམས་སྟོན།"
+
+msgid "Image"
+msgstr "པར་རིས།"
+
+msgid "Image Type:"
+msgstr "པར་རིས་རིགས་གྲས།："
+
+msgid ""
+"Images over this size (in bytes) won't be thumbnailed. The purpose of this "
+"setting is to avoid thumbnailing large images that may take a long time to "
+"load or use lots of memory."
+msgstr ""
+
+msgid ""
+"In order to regain the free space on this volume the trash must be emptied. "
+"All trashed items on the volume will be permanently lost."
+msgstr ""
+
+msgid "Increase the view size"
+msgstr "མཐོང་རིས་ཆེ་ཆུང་སྣོན"
+
+msgid "Indigo"
+msgstr "མཐིང་མདོག"
+
+msgid "Information"
+msgstr "གསལ་བརྡ།"
+
+msgid "Input Methods"
+msgstr "ནང་འཇུག་ཐབས།"
+
+msgid "Join the queue and Priority execution"
+msgstr ""
+
+msgid "Justification"
+msgstr "ལེགས་སྒྲིག"
+
+msgid "Keep icons lined up on a grid"
+msgstr "རིས་རྟགས་རང་ཉར་ལྟར་སྙོམ།"
+
+msgid "Keep icons sorted by emblems in rows"
+msgstr "རྟགས་མ་ལྟར་རིས་རྟགས་སྒྲིག"
+
+msgid "Keep icons sorted by modification date in rows"
+msgstr "བཟོ་བཅོས་དུས་ཚོད་ལྟར་རིས་རྟགས་སྒྲིག"
+
+msgid "Keep icons sorted by name in rows"
+msgstr "མིང་ལྟར་རིས་རྟགས་སྒྲིག"
+
+msgid "Keep icons sorted by size in rows"
+msgstr "ཆེ་ཆུང་ལྟར་རིས་རྟགས་སྒྲིག"
+
+msgid "Keep icons sorted by trash time in rows"
+msgstr "དོར་བའི་དུས་ཚོད་ལྟར་རིས་རྟགས་སྒྲིག"
+
+msgid "Keep icons sorted by type in rows"
+msgstr "རིགས་གྲས་ལྟར་རིས་རྟགས་སྒྲིག"
+
+msgid "Keywords"
+msgstr "གནད་ཡིག"
+
+msgid "Last changed:"
+msgstr "བཟོ་བཅོས་མཇུག་མ།："
+
+msgid "Last modified:"
+msgstr "བཟོ་བཅོས་མཇུག་མ："
+
+msgid "Leaf"
+msgstr "ལྗང་མདོག་མ།"
+
+msgid "Leave icons wherever they are dropped"
+msgstr "རིས་རྟགས་འདྲུད་སར་ཞོག"
+
+msgid "Lemon"
+msgstr "ཉིང་མོང་མདོག"
+
+msgid "Less common media formats can be configured here"
+msgstr "རྒྱུན་མཐོང་མིན་པའི་བར་རྫས་རིགས་གྲས་འདིར་སྡེབ་སྒྲིག་བྱ་ཆོག"
+
+msgid "Line wrap"
+msgstr "ཕྲེང་རང་བརྗེ།"
+
+msgid "Link _name:"
+msgstr "སྦྲེལ་མཐུད་མིང་(_N)："
+
+msgid "Link target:"
+msgstr "སྦྲེལ་མཐུད་དམིགས་ཡུལ།："
+
+msgid "Link to %s"
+msgstr ""
+
+msgid "Link to %s%s"
+msgstr "%s(མྱུར་འཇུག་བྱེད་སྟངས།)%s"
+
+msgid "List Columns"
+msgstr "རེའུ་མིག"
+
+msgid "List View"
+msgstr "རེའུ་མིག་མཐོང་རིས།"
+
+msgid "List files only"
+msgstr "ཡིག་ཆ་ཁོ་ན་འགོད་ཐུབ།"
+
+msgid "List of extensions in disabled state."
+msgstr "བཀག་པའི་རྒྱ་སྐྱེད་རེའུ་མིག"
+
+msgid "List of possible captions on icons"
+msgstr "རིས་རྟགས་འདེམས་རུང་བའི་ཁ་བྱང་རེའུ་མིག"
+
+msgid ""
+"List of x-content/* types for which the user have chosen \"Do Nothing\" in "
+"the preference capplet. No prompt will be shown nor will any matching "
+"application be started on insertion of media matching these types."
+msgstr ""
+
+msgid ""
+"List of x-content/* types for which the user have chosen \"Open Folder\" in "
+"the preferences capplet. A folder window will be opened on insertion of "
+"media matching these types."
+msgstr ""
+
+msgid ""
+"List of x-content/* types for which the user have chosen to start an "
+"application in the preference capplet. The preferred application for the "
+"given type will be started on insertion on media matching these types."
+msgstr ""
+
+msgid "List of x-content/* types set to \"Do Nothing\""
+msgstr ""
+
+msgid "List of x-content/* types set to \"Open Folder\""
+msgstr ""
+
+msgid ""
+"List of x-content/* types where the preferred application will be launched"
+msgstr ""
+"འདྲེན་སྤྱོད་ཐོག་འདེམས་ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ x-content/* རིགས་གྲས་རེའུ་མིག"
+
+msgid "Listview Create _Document"
+msgstr "རེའུ་མིག་མཐོང་རིས་སུ་གསར་བཟོ།(_D)"
+
+msgid "Loading..."
+msgstr "ཕབ་འཇུག་བྱེད་པ..."
+
+msgid "Local Files Only"
+msgstr "རང་སའི་ཡིག་ཆ་ཁོ་ན།"
+
+msgid "Local Folder"
+msgstr "མིག་སྔའི་དཀར་ཆག་"
+
+msgid "Locate documents and folders on this computer by name or content"
+msgstr ""
+"མིང་ངམ་ཡང་ན་ནང་དོན་ལྟར་རྩིས་འཁོར་འདིའི་ཁྲོད་ཀྱི་ཡིག་ཚགས་དང་ཡིག་སྡེར་གནས་ངེས་ཀྱིས།"
+
+msgid "Location"
+msgstr "གནས་ས།"
+
+msgid "Location _Bar"
+msgstr "གནས་སའི་སྡེ།(_B)"
+
+msgid "Location:"
+msgstr "གནས་ས་"
+
+msgid "Lock the drive associated with the open folder"
+msgstr "ཁ་ཕྱེ་བའི་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྐུལ་ཆས་སྒྲོག་པ།"
+
+msgid "Lock the selected drive"
+msgstr "བདམ་པའི་སྐུལ་ཆས་སྒྲོག་པ།"
+
+msgid "MATE"
+msgstr "MATE"
+
+msgid "MATE Web Site"
+msgstr "MATE དྲ་ཚིགས།"
+
+msgid "MIME Type"
+msgstr "སྨྱན་གཟུགས་ཀྱི་རིགས།"
+
+msgid "%s (%s)"
+msgstr "%s(%s)"
+
+msgid "M_ove to"
+msgstr "སྤོ་གནས།(_O)"
+
+msgid "Ma_ke Link"
+msgid_plural "Ma_ke Links"
+msgstr[0] "མྱུར་འཇུག་བྱེད་སྟངས་བཟོ་བ།(_K)"
+msgstr[1] "མྱུར་འཇུག་བྱེད་སྟངས་བཟོ་བ།(_K)"
+
+msgid "Make a _Link"
+msgstr "སྦྲེལ་མཐུད་བཟོ་བ།(_L)"
+
+msgid "Make a permanent connection to this server"
+msgstr "ཞབས་ཞུ་ཆས་འདིར་བརྟན་སྦྲེལ་བྱེད།"
+
+msgid "Make the selected icon resizable"
+msgstr "བདམ་པའི་རིས་རྟགས་རྐྱོང་རུང་ཡོད་པ་བྱེད།"
+
+msgid "Making link to %'d file"
+msgid_plural "Making links to %'d files"
+msgstr[0] "ཡིག་ཆ %'dཡི་སྦྲེལ་མཐུད་བཟོ་བ།"
+msgstr[1] "ཡིག་ཆ %'dཡི་སྦྲེལ་མཐུད་བཟོ་བ།"
+
+msgid "Mango"
+msgstr "མང་ཀོ་མདོག"
+
+msgid "Manila Paper"
+msgstr "ལུའི་སུང་ཤོག"
+
+msgid "Mark as _Trusted"
+msgstr "ཡིད་རྟོན་ལ་བཀོད།(_T)"
+
+msgid "Maximum image size for thumbnailing"
+msgstr "སྐུང་རིས་ཀྱི་ཆེ་ཆུང་ཆེ་ཤོས།"
+
+msgid "Media"
+msgstr "བར་རྫས།"
+
+msgid "Merge"
+msgstr "ཟླ་སྒྲིལ།"
+
+msgid "Merge _All"
+msgstr "ཚང་མ་ཟླ་སྒྲིལ།(_A)"
+
+msgid "Merge folder \"%s\"?"
+msgstr ""
+
+msgid ""
+"Merging will ask for confirmation before replacing any files in the folder "
+"that conflict with the files being copied."
+msgstr "ཟླ་སྒྲིལ་ནི་འགལ་བ་ཡིག་ཆ་བརྗེ་སྐབས་སུ་གཏན་འཁེལ་རེ་ཞུ་བྱ་བ།"
+
+msgid "Metering Mode"
+msgstr "བར་ཐག་འཇལ་སྟངས།"
+
+msgid "Mo_ve to Trash"
+msgstr "སྙིགས་སྒམ་དུ་སྤོ།(_V)"
+
+msgid "Modification _Date"
+msgstr "བཟོ་བཅོས་དུས་ཚོད།："
+
+msgid "Modified:"
+msgstr "བཟོ་བཅོས་དུས་"
+
+msgid "Modify:"
+msgstr ""
+
+msgid "Mon, Oct 00 0000 at 00:00 PM"
+msgstr "0000ལོའི་ཟླ10ཚེས་0ཉིན། གཟའ་ཟླ་བ།00:00"
+
+msgid "Mon, Oct 00 0000 at 00:00:00 PM"
+msgstr "0000ལོའི་ཟླ10ཚེས་0ཉིན། གཟའ་ཟླ་བ།00:00"
+
+msgid "Moss Ridge"
+msgstr "སྔོ་དྲེག་ཐིག་རིས།"
+
+msgid "Mount and open %s"
+msgstr "%sའབེབས་ནས་ཁ་འབྱེད། "
+
+msgid "Mount the selected volume"
+msgstr "བདམས་པའི་སྒྲིལ་འགེལ་བ།"
+
+msgid "Mount the volume associated with the open folder"
+msgstr "ཁ་ཕྱེ་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྒྲིལ་འགེལ་བ།"
+
+msgid "Mount the volume associated with this folder"
+msgstr "ཡིག་ཁུག་འདིར་འབྲེལ་བའི་སྒྲིལ་འགེལ་བ།"
+
+msgid "Mouse button to activate the \"Back\" command in browser window"
+msgstr ""
+
+msgid "Mouse button to activate the \"Forward\" command in browser window"
+msgstr ""
+
+msgid "Movable-Disk"
+msgstr "སྤོ་རུང་གསོག་འཇོག་སྒྲིག་ཆས།"
+
+msgid "Move %d items back to '%s'"
+msgstr "ཚན %d“%s”ལ་ཕྱིར་སྤོ།"
+
+msgid "Move %d items back to trash"
+msgstr "ཚན %d སྙིགས་སྒམ་དུ་ཕྱིར་སྤོ།"
+
+msgid "Move %d items to '%s'"
+msgstr "ཚན%d “%s”ལ་སྤོ།"
+
+msgid "Move %d items to trash"
+msgstr "ཚན %dསྙིགས་སྒམ་དུ་སྤོ།"
+
+msgid "Move '%s' back to '%s'"
+msgstr "“%s”“%s”ལ་ཕྱིར་སྤོ།"
+
+msgid "Move '%s' back to trash"
+msgstr "“%s”སྙིགས་སྒམ་དུ་སྤོ།"
+
+msgid "Move '%s' to '%s'"
+msgstr "“%s”“%s”ལ་སྤོ།"
+
+msgid "Move '%s' to trash"
+msgstr "“%s”སྙིགས་སྒམ་དུ་སྤོ།"
+
+msgid "Move Dow_n"
+msgstr "མར་སྣུར།(_N)"
+
+msgid "Move Tab _Left"
+msgstr "གདོང་འཛར་གཡོན་སྤོ།(_L)"
+
+msgid "Move Tab _Right"
+msgstr "གདོང་འཛར་གཡས་སྤོ།(_R)"
+
+msgid "Move _Up"
+msgstr "གོང་སྣུར།(_U)"
+
+msgid "Move current tab to left"
+msgstr "མིག་སྔའི་གདོང་འཛར་གཡོན་སྤོ།"
+
+msgid "Move current tab to right"
+msgstr "མིག་སྔའི་གདོང་འཛར་གཡས་སྤོ།"
+
+msgid "Move each selected item to the Trash"
+msgstr "བདམས་པའི་རྣམ་གྲངས་སོ་སོ་སྙིགས་སྒམ་དུ་སྤོ།"
+
+msgid "Move focus to the other pane in a split view window"
+msgstr "འཕྲལ་གཅོད་མཐོང་རིས་སུ་མདོ་གནས་སྒེའུ་ཁུང་གཞན་ཞིག་ཏུ་སྤོ།"
+
+msgid "Move or copy files previously selected by a Cut or Copy command"
+msgstr ""
+"སྔོན་གྱི་དྲས་གཏུབ་ཡང་ན་འདྲ་བཟོ་བཀའ་བརྡ་བདམས་པའི་ཡིག་ཆ་སྤོ་བ་ཡང་ན་འདྲ་བཟོ་བྱེད།"
+
+msgid ""
+"Move or copy files previously selected by a Cut or Copy command into the "
+"selected folder"
+msgstr ""
+"སྔོན་གྱི་དྲས་གཏུབ་ཡང་ན་འདྲ་བཟོ་བཀའ་བརྡ་བདམས་པའི་ཡིག་ཆ་བདམས་པའི་ཡིག་ཁུག་ཏུ་སྤོ་བ་ཡང་ན་འདྲ་བཟོ་བྱེད།"
+
+msgid ""
+"Move or copy files previously selected by a Cut or Copy command into this "
+"folder"
+msgstr ""
+"སྔོན་གྱི་དྲས་གཏུབ་ཡང་ན་འདྲ་བཟོ་བཀའ་བརྡ་བདམས་པའི་ཡིག་ཆ་ཡིག་ཁུག་ཏུ་སྤོ་བ་ཡང་ན་འདྲ་བཟོ་བྱེད།"
+
+msgid "Move the current selection to the desktop"
+msgstr "བདམས་པའི་ཡིག་ཆ་(ཁུག)ཅོག་ངོས་སུ་སྤོ།"
+
+msgid "Move the current selection to the home folder"
+msgstr "བདམས་པའི་ཡིག་ཆ་(ཁུག)དཀར་ཆག་ཏུ་སྤོ།"
+
+msgid "Move the current selection to the other pane in the window"
+msgstr "བདམས་པའི་ཡིག་ཆ་(ཁུག)སྒེའུ་ཁུང་འདིའི་དྲ་མིག་གཞན་ཞིག་ཏུ་སྤོ་བ།"
+
+msgid "Move the open folder out of the trash to \"%s\""
+msgstr ""
+
+msgid "Move the open folder to the Trash"
+msgstr "ཁ་ཕྱེ་བའི་ཡིག་ཁུག་སྙིགས་སྒམ་དུ་རུ་སྤོ།"
+
+msgid "Move the selected file out of the trash"
+msgid_plural "Move the selected files out of the trash"
+msgstr[0] "བདམས་པའི་ཡིག་ཆ་སྙིགས་སྒམ་ལས་སྤོ།"
+msgstr[1] "བདམས་པའི་ཡིག་ཆ་སྙིགས་སྒམ་ལས་སྤོ།"
+
+msgid "Move the selected file out of the trash to \"%s\""
+msgid_plural "Move the selected files out of the trash to \"%s\""
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Move the selected folder out of the trash"
+msgid_plural "Move the selected folders out of the trash"
+msgstr[0] "བདམས་པའི་ཡིག་ཁུག་སྙིགས་སྒམ་ལས་སྤོ།"
+msgstr[1] "བདམས་པའི་ཡིག་ཁུག་སྙིགས་སྒམ་ལས་སྤོ།"
+
+msgid "Move the selected folder out of the trash to \"%s\""
+msgid_plural "Move the selected folders out of the trash to \"%s\""
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Move the selected item out of the trash"
+msgid_plural "Move the selected items out of the trash"
+msgstr[0] "བདམས་པའི་ཚན་སྙིགས་སྒམ་ལས་སྤོ།"
+msgstr[1] "བདམས་པའི་ཚན་སྙིགས་སྒམ་ལས་སྤོ།"
+
+msgid "Move the selected item out of the trash to \"%s\""
+msgid_plural "Move the selected items out of the trash to \"%s\""
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Move this folder to the Trash"
+msgstr "ཡིག་ཁུག་འདི་སྙིགས་སྒམ་ལ་སྤོ།"
+
+msgid "Moving \"%B\" to \"%B\""
+msgstr ""
+
+msgid "Moving %'d file (in \"%B\") to \"%B\""
+msgid_plural "Moving %'d files (in \"%B\") to \"%B\""
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Moving %'d file to \"%B\""
+msgid_plural "Moving %'d files to \"%B\""
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Moving Files"
+msgstr "ཡིག་ཆ་སྤོ་བ།"
+
+msgid "Moving files to trash"
+msgstr "ཡིག་ཆ་སྙིགས་སྒམ་དུ་སྤོ།"
+
+msgid "Mud"
+msgstr "འདམ་ཞོ།"
+
+msgid "Music"
+msgstr "རོལ་དབྱངས།"
+
+msgid "My Computer"
+msgstr "ངའི་གློག་ཀླད།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Network"
+msgstr "དྲ་བ།"
+
+msgid "Network Servers"
+msgstr "དྲ་བའི་ཞབས་ཞུ་ཆས།"
+
+msgid "Network Servers icon visible on the desktop"
+msgstr "ཅོག་ངོས་སྟེང་དུ་དྲ་བའི་ཞབས་ཞུ་ཆས་རིས་རྟགསམངོན་པ།"
+
+msgid "Network servers icon name"
+msgstr "དྲ་བའི་ཞབས་ཞུ་རིས་རྟགས་ཀྱི་མིང་།"
+
+msgid "Never"
+msgstr "གཏན་ནས་མི་བྱེད།"
+
+msgid "Never prompt or autorun/autostart programs when media are inserted"
+msgstr ""
+"བར་རྫས་ནང་འཇུག་སྐབས་སུ་བརྟན་ནས་གསལ་སྟོན་མི་བྱའམ་བྱ་རིམ་རང་འཁོར/མགོ་རང་རྩོམ་བྱེད།"
+
+msgid "New Volume Label: (limit 11 character ≈ tree chineses)"
+msgstr ""
+
+msgid "New _Folder"
+msgstr "ཡིག་ཁུག་གསར་བ།(_F)"
+
+msgid "New _Tab"
+msgstr ""
+
+msgid "New _Window"
+msgstr "སྒེའུ་ཁུང་གསར་བཟོ།(_W)"
+
+msgid "No applications found"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་མ་རྙེད།"
+
+msgid "No applications selected"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་བདམས་མེད།"
+
+msgid "No bookmarks defined"
+msgstr "དཔེ་བྱང་གང་རུང་ཡང་མཚན་ཉིད་བཞག་མེད།"
+
+msgid ""
+"No other actions are available to view this file. If you copy this file onto"
+" your computer, you may be able to open it."
+msgstr ""
+
+msgid ""
+"No other applications are available to view this file. If you copy this file"
+" onto your computer, you may be able to open it."
+msgstr ""
+
+msgid "No templates installed"
+msgstr "མ་དཔེ་སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "None of the files could be added as emblems."
+msgstr "ཡིག་ཆ་གང་རུང་གཅིག་ཀྱང་རྟགས་མ་ལྟར་སྣོན་མི་ཐུབ།"
+
+msgid "Normal Si_ze"
+msgstr "སྤྱིར་བཏང་ཆེ་ཆུང་།(_Z)"
+
+msgid "Not a launchable item"
+msgstr "བཀོལ་སྤྱོད་རུང་བའི་ཚན་པ་མིན།"
+
+msgid "Not allowed to set group"
+msgstr "ཚོ་བཀོད་མི་ཆོག"
+
+msgid "Not allowed to set owner"
+msgstr "བདག་པོ་བཀོད་མི་ཆོག"
+
+msgid "Not allowed to set permissions"
+msgstr "དབང་ཚད་བཀོད་མི་ཆོག"
+
+msgid ""
+"Note: After you only perform \"Pause\" or \"Join Queue\" operations when operating multiple files\n"
+"\t"
+msgstr ""
+
+msgid "Notes"
+msgstr "མཆན་འགྲེལ།"
+
+msgid ""
+"Notify:\n"
+"1. Save and close the open file about this device before renaming!\n"
+"2. Due to the difference of encoding format, the Chinese name for FAT32 format device may be confused on Windows!"
+msgstr ""
+
+msgid "Numbers"
+msgstr "ཨང་ཀི"
+
+msgid "Ocean Strips"
+msgstr "མཚོ་སྔོན་ཐིག་རིས།"
+
+msgid "Oct 00 0000 at 00:00 PM"
+msgstr ""
+
+msgid "Oct 00 0000, 00:00 PM"
+msgstr "0000ལོའི་ཟླ་0ཚེས་0ཉིན།00:00"
+
+msgid "Octal Permissions"
+msgstr "བརྒྱད་གོང་འགྲིལ་ལུགས་ཀྱི་དབང་ཚད།"
+
+msgid "Only create windows for explicitly specified URIs."
+msgstr "མངོན་པའི་བསྟན་པའི་ URIཁོ་ན་ལ་སྒེའུ་ཁུང་གསར་བཟོ།"
+
+msgid "Only show folders in the tree side pane"
+msgstr "སྡོང་འགྲེམས་མཐའ་ཟུར་སྡེ་ཁོ་ན་རུ་ཡིག་ཁུག་མངོན་པ།"
+
+msgid "Only supports burning function, click on the disc to burn and burn"
+msgstr ""
+
+msgid "Onyx"
+msgstr "ནོར་ནག"
+
+msgid "Open %s"
+msgstr " %sཁ་འབྱེད།"
+
+msgid "Open %s and other \"%s\" files with:"
+msgstr ""
+
+msgid "Open %s and other %s document with:"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འདིས་རིགས་ %s དང་“%s”ཡིན་པའི་ཡིག་ཆ་གཞན་ཁ་འབྱེད།"
+
+msgid "Open %s with:"
+msgstr "%s ཡི་ཁ་འབྱེད་བྱེད་སྟངས།："
+
+msgid "Open Failed, would you like to choose another action?"
+msgstr "ཁ་འབྱེད་ཕམ་པ། ཁྱེད་ཀྱིས་བཀོལ་སྤྱོད་གཞན་དག་འདེམས་དགོས་སམ།"
+
+msgid "Open Failed, would you like to choose another application?"
+msgstr "ཁ་འབྱེད་ཕམ་པ། ཁྱེད་ཀྱིས་བྱ་རིམ་གཞན་དག་འདེམས་དགོས་སམ།"
+
+msgid "Open File and Close window"
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ་དང་སྒེའུ་ཁུང་ཁ་རྒྱག"
+
+msgid "Open Folder"
+msgstr "ཡིག་ཁུག་ཁ་འབྱེད་བ།"
+
+msgid "Open Folder W_indow"
+msgstr "ཡིག་ཁུག་སྒེའུ་ཁུང་ཁ་འབྱེད།(_I)"
+
+msgid "Open Location"
+msgstr "གནས་ས་ཁ་འབྱེད།"
+
+msgid "Open Wit_h"
+msgstr "ཁ་འབྱེད་བྱེད་སྟངས།(_H)"
+
+msgid "Open With"
+msgstr "ཁ་འབྱེད་བྱེད་སྟངས་"
+
+msgid "Open With %s"
+msgstr " %sཡིས་ཁ་འབྱེད།"
+
+msgid "Open With Other _Application..."
+msgstr "བྱ་རིམ་གཞན་དག་གིས་ཁ་འབྱེད།(_A)..."
+
+msgid "Open _Location..."
+msgstr "གནས་ས་ཁ་འབྱེད།(_L)..."
+
+msgid "Open _Parent"
+msgstr "ཕའི་ཡིག་ཁུག་ཁ་འབྱེད།(_P)"
+
+msgid "Open a folder window for the displayed location"
+msgstr "མངོན་པའི་གནས་ས་ལ་ཡིག་ཁུག་སྒེའུ་ཁུང་གཞན་ཞིག་ཁ་འབྱེད།"
+
+msgid "Open all \"%s\" files with:"
+msgstr ""
+
+msgid "Open all %s documents with:"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འདིས་རིགས་“%s”ཡི་ཡིག་ཆ་ཚང་མ་ཁ་འབྱེད："
+
+msgid "Open all files of type \"%s\" with:"
+msgstr ""
+
+msgid "Open an extra folder view side-by-side"
+msgstr "ཟུར་སྣོན་ཡིག་ཁུག་ཁ་ཕྱེ་ནས་དྲ་མིག་གཉིས་བྱས་ནས་ལྟ།"
+
+msgid "Open another Caja window for the displayed location"
+msgstr "མངོན་པའི་གནས་ས་ལ་Caja སྒེའུ་ཁུང་གཞན་ཞིག་ཁ་འབྱེད།"
+
+msgid "Open another tab for the displayed location"
+msgstr "མངོན་པའི་གནས་ས་ལ་ Caja གདོང་འཛར་གཞན་ཞིག་ཁ་འབྱེད།"
+
+msgid "Open each _folder in its own window"
+msgstr "ཁེར་རྐྱང་གི་སྒེའུ་ཁུང་ལ་ཡིག་ཁུག་རེ་རེ་ཁ་འབྱེད།(_F)"
+
+msgid "Open each selected item in a folder window"
+msgstr "ཡིག་ཁུག་སྒེའུ་ཁུང་དུ་བདམས་པའི་རྣམ་གྲངས་སོ་སོ་ཁ་འབྱེད།"
+
+msgid "Open each selected item in a navigation window"
+msgstr "ཕྱོགས་འཁྲིད་སྒེའུ་ཁུང་དུ་བདམས་པའི་རྣམ་གྲངས་སོ་སོ་ཁ་འབྱེད།"
+
+msgid "Open each selected item in a new tab"
+msgstr "གདོང་འཛར་གསར་བར་བདམས་པའི་རྣམ་གྲངས་སོ་སོ་ཁ་འབྱེད།"
+
+msgid "Open in %'d New _Tab"
+msgid_plural "Open in %'d New _Tabs"
+msgstr[0] "གདོང་འཛར་གསར་བ་ %'d རུ་(_T)ཁ་འབྱེད།"
+msgstr[1] "གདོང་འཛར་གསར་བ་ %'d རུ་(_T)ཁ་འབྱེད།"
+
+msgid "Open in %'d New _Window"
+msgid_plural "Open in %'d New _Windows"
+msgstr[0] "སྒེའུ་ཁུང་གསར་བ་ %'d རུ་(_T)ཁ་འབྱེད།"
+msgstr[1] "སྒེའུ་ཁུང་གསར་བ་ %'d རུ་(_T)ཁ་འབྱེད།"
+
+msgid "Open in Navigation Window"
+msgstr "ཕྱོགས་འཁྲིད་སྒེའུ་ཁུང་དུ་ཁ་འབྱེད།"
+
+msgid "Open in New _Tab"
+msgstr "གདོང་འཛར་གསར་བར་ཁ་འབྱེད།(_T)"
+
+msgid "Open in New _Window"
+msgstr "སྒེའུ་ཁུང་གསར་པའི་ནང་དུ་འབྱེད།(_W)"
+
+msgid "Open in _Folder Window"
+msgstr "ཡིག་ཁུག་སྒེའུ་ཁུང་དུ་ཁ་འབྱེད།(_F)"
+
+msgid "Open parent location"
+msgstr "ཕའི་དཀར་ཆག་ཁ་འབྱེད།"
+
+msgid "Open parent location for the selected item"
+msgstr "བདམས་པའི་རྣམ་གྲངས་ཀྱི་ཕའི་དཀར་ཆག་ཁ་འབྱེད།"
+
+msgid "Open the contents of the File System"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས་དཀར་ཆག་ཁ་འབྱེད།"
+
+msgid "Open the contents of your desktop in a folder"
+msgstr "ཡིག་ཁུག་གཅིག་ཏུ་ཁྱེད་ཀྱི་ཅོག་ངོས་ཀྱི་ནང་དོན་ཁ་འབྱེད།"
+
+msgid "Open the parent folder"
+msgstr "ཕའི་ཡིག་ཁུག་ཁ་འབྱེད།"
+
+msgid "Open the recent"
+msgstr "ཉེ་ཆར་སྤྱད་པའི་རྣམ་གྲངས་ཁ་འབྱེད།"
+
+msgid "Open the selected item in this window"
+msgstr "སྒེའུ་ཁུང་འདིར་བདམས་པའི་རྣམ་གྲངས་ཁ་འབྱེད།"
+
+msgid "Open the trash"
+msgstr "སྙིགས་སྒམ་ཁ་འབྱེད།"
+
+msgid "Open this folder in a folder window"
+msgstr "ཡིག་ཁུག་སྒེའུ་ཁུང་དུ་ཡིག་ཁུག་འདི་ཁ་འབྱེད།"
+
+msgid "Open this folder in a navigation window"
+msgstr "ཕྱོགས་སྟོན་སྒེའུ་ཁུང་དུ་ཡིག་ཁུག་འདི་ཁ་འབྱེད།"
+
+msgid "Open this folder in a new tab"
+msgstr "གདོང་འཛར་གསར་བར་ཡིག་ཁུག་འདི་ཁ་འབྱེད།"
+
+msgid "Open with other Application..."
+msgstr "བྱ་རིམ་གཞན་དག་གིས་ཁ་འབྱེད།..."
+
+msgid "Open your personal folder"
+msgstr "ཁྱེད་ཀྱི་མི་སྒེར་ཡིག་ཁུག་ཁ་འབྱེད།"
+
+msgid "Open your personal templates folder"
+msgstr "ཁྱེད་ཀྱི་མི་སྒེར་མ་དཔེ་ཡིག་ཁུག་ཁ་འབྱེད།"
+
+msgid "Open your personal trash folder"
+msgstr "ཁྱེད་ཀྱི་མི་སྒེར་སྙིགས་སྒམ་ཡིག་ཁུག་ཁ་འབྱེད།"
+
+msgid "Opening \"%s\"."
+msgstr ""
+
+msgid "Opening %d item."
+msgid_plural "Opening %d items."
+msgstr[0] "ཚན་ %dཁ་འབྱེད།"
+msgstr[1] "ཚན་ %dཁ་འབྱེད།"
+
+msgid "Orange"
+msgstr "ཚ་ལུ་མའི་མདོག"
+
+msgid "Original Location"
+msgstr "གདོད་མའི་གནས་ས།"
+
+msgid "Original file"
+msgstr "གདོད་མའི་ཡིག་ཆ།"
+
+msgid "Original location of file before moved to the Trash"
+msgstr "ཡིག་ཆ་སྙིགས་སྒམ་སྔོན་གྱི་གདོད་མའི་གནས་སར་སྤོ།"
+
+msgid "Other"
+msgstr "གཞན་དག"
+
+msgid "Other Type..."
+msgstr ""
+
+msgid "Other _Application..."
+msgstr "བྱ་རིམ་གཞན་དག(_A)..."
+
+msgid "Others"
+msgstr "གཞན་དག"
+
+msgid "Others:"
+msgstr ""
+
+msgid "Owner"
+msgstr "བདག་པོ།"
+
+msgid "Owner:"
+msgstr "བདག་པོ།"
+
+msgid "Pale Blue"
+msgstr "སྔོ་སྐྱ།"
+
+msgid "Password:"
+msgstr "གསང་ཨང་།"
+
+msgid "Paste the text stored on the clipboard"
+msgstr "དྲས་པང་ནང་གི་ཡི་གེ་སྦྱར་བ།"
+
+msgid "Patterns:"
+msgstr "དཔེ་རིས།："
+
+msgid "Pause"
+msgstr "སྐབས་སྡོད།"
+
+msgid "Pdf / Postscript"
+msgstr "PDF/Postscབཞེས་pt"
+
+msgid "Perform a quick set of self-check tests."
+msgstr "རང་ལ་མགྱོགས་མྱུར་ཞིབ་བཤེར་ཚོད་ལྟ་ཚོ་གཅིག་ལག་བསྟར་བྱེད།"
+
+msgid "Perform or update the search"
+msgstr "འཚོལ་བཤེར་ལག་བསྟར་ཡང་ན་གསར་སྒྱུར།"
+
+msgid "Permissions"
+msgstr "དབང་ཚད།"
+
+msgid "Personal"
+msgstr "མི་སྒེར།"
+
+msgid "Picture"
+msgstr "པར་རིས།"
+
+msgid "Place:"
+msgstr ""
+
+msgid "Places"
+msgstr "གནས་ས།"
+
+msgid "Please check the spelling and try again."
+msgstr "སྦྱོར་འབྲི་ཞིབ་བཤེར་བྱས་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད། "
+
+msgid "Please choose a different emblem name."
+msgstr "དེ་ལ་མིང་མི་འདྲ་བ་ཞིག་འདེམས་རོགས། "
+
+msgid "Please drag just one image to set a custom icon."
+msgstr "པར་རིས་ཡིག་ཆ་ཞིག་ཁོ་ན་འདྲུད་ནས་རིས་རྟགས་ལ་རང་བཀོད་བྱས།"
+
+msgid "Please input valid text!"
+msgstr ""
+
+msgid "Please verify your user details."
+msgstr "ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་ཞིབ་ཕྲའི་ཆ་འཕྲིན་ལ་ཞིབ་དཔྱད་བྱེད་རོགས།"
+
+msgid ""
+"Possible values are \"single\" to launch files on a single click, or "
+"\"double\" to launch them on a double click."
+msgstr ""
+
+msgid "Prefere_nces"
+msgstr "ཐོག་མའི་འདེམས་ཚན།(_N)"
+
+msgid "Prepare the selected files to be copied with a Paste command"
+msgstr "བདམས་པའི་ཡིག་ཆ་སྦྱར་བའི་བཀའ་བརྡས་འདྲ་བཟོ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Prepare the selected files to be moved with a Paste command"
+msgstr "བདམས་པའི་ཡིག་ཆ་སྦྱར་བའི་བཀའ་བརྡས་སྤོ་བ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Prepare this folder to be copied with a Paste command"
+msgstr "བདམས་པའི་ཡིག་ཁུག་སྦྱར་བའི་བཀའ་བརྡས་འདྲ་བཟོ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Prepare this folder to be moved with a Paste command"
+msgstr "བདམས་པའི་ཡིག་ཁུག་སྦྱར་བའི་བཀའ་བརྡས་སྤོ་བ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Preparing"
+msgstr "གྲ་སྒྲིག་བྱེད་པ།"
+
+msgid "Preparing to Move to \"%B\""
+msgstr ""
+
+msgid "Preparing to copy %'d file (%S)"
+msgid_plural "Preparing to copy %'d files (%S)"
+msgstr[0] "ཡིག་ཆ་ %'d ་(%S)འདྲ་བཟོ་གྲ་སྒྲིག་བྱེད།"
+msgstr[1] "ཡིག་ཆ་ %'d ་(%S)འདྲ་བཟོ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Preparing to delete %'d file (%S)"
+msgid_plural "Preparing to delete %'d files (%S)"
+msgstr[0] "ཡིག་ཆ་ %'d ་(%S)འདོར་བ་གྲ་སྒྲིག་བྱེད།"
+msgstr[1] "ཡིག་ཆ་ %'d ་(%S)འདོར་བ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Preparing to move %'d file"
+msgid_plural "Preparing to move %'d files"
+msgstr[0] "ཡིག་ཆ %'d གྲ་སྒྲིག་བྱེད།"
+msgstr[1] "ཡིག་ཆ %'d གྲ་སྒྲིག་བྱེད།"
+
+msgid "Preparing to move %'d file (%S)"
+msgid_plural "Preparing to move %'d files (%S)"
+msgstr[0] "ཡིག་ཆ་ %'d ་(%S)སྤོ་བ་གྲ་སྒྲིག་བྱེད།"
+msgstr[1] "ཡིག་ཆ་ %'d ་(%S)སྤོ་བ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Preparing to trash %'d file"
+msgid_plural "Preparing to trash %'d files"
+msgstr[0] "ཡིག་ཆ་ %'d སྙིགས་སྒམ་དུ་སྤོ་བ་གྲ་སྒྲིག་བྱེད།"
+msgstr[1] "ཡིག་ཆ་ %'d སྙིགས་སྒམ་དུ་སྤོ་བ་གྲ་སྒྲིག་བྱེད།"
+
+msgid "Presentation"
+msgstr "འགྲེམས་སྟོན་ཟིན་བྲིས།"
+
+msgid "Preview"
+msgstr "སྔོན་ལྟ།"
+
+msgid "Preview _sound files:"
+msgstr "སྒྲ་ཟློས་ཡིག་ཆ་སྔོན་ཉན(_S)："
+
+msgid "Prohibit dragging data into a blank disc"
+msgstr ""
+
+msgid "Properties"
+msgstr "གཏོགས་གཤིས།"
+
+msgid "Public FTP"
+msgstr "ཡོངས་བསྒྲགས། FTP"
+
+msgid "Purple Marble"
+msgstr "རྡོ་ཀ་མ་རུ།"
+
+msgid "Put labels beside icons"
+msgstr "གདོང་འཛར་རིས་རྟགས་ཟུར་དུ་མངོན་པ།"
+
+msgid "Quit Caja."
+msgstr " Cajaཕྱིར་འདོན།Cajaལས་ཕྱིར་བུད། "
+
+msgid "Rating"
+msgstr "སྐར་གྲངས་དཔྱད་བསྡུར།"
+
+msgid "Re_name"
+msgstr "མིང་བསྐྱར་འདོགས།(_N)"
+
+msgid "Re_versed Order"
+msgstr "ལྡོག་རིམ།(_V)"
+
+msgid "Read and write"
+msgstr "ཀློག་བྲིས།"
+
+msgid "Read-only"
+msgstr "ཀློག་ཙམ།"
+
+msgid "Recent"
+msgstr "ཉེ་ཆར།"
+
+msgid "Record CD"
+msgstr "འོད་སྡེར་ཕབ་འཇུག"
+
+msgid "Redo"
+msgstr "བསྐྱར་ལས།"
+
+msgid "Redo change group of %d item"
+msgid_plural "Redo change group of %d items"
+msgstr[0] "ཚན %d ཡི་ཚོ་བཟོ་བཅོས་བསྐྱར་ལས།"
+msgstr[1] "ཚན %d ཡི་ཚོ་བཟོ་བཅོས་བསྐྱར་ལས།"
+
+msgid "Redo change owner of %d item"
+msgid_plural "Redo change owner of %d items"
+msgstr[0] "ཚན %d ཡི་བདག་པོ་བཟོ་བཅོས་བསྐྱར་ལས།"
+msgstr[1] "ཚན %d ཡི་བདག་པོ་བཟོ་བཅོས་བསྐྱར་ལས།"
+
+msgid "Redo change permissions of %d item"
+msgid_plural "Redo change permissions of %d items"
+msgstr[0] "ཚན %d ཡི་དབང་ཚད་བཟོ་བཅོས་བསྐྱར་ལས།"
+msgstr[1] "ཚན %d ཡི་དབང་ཚད་བཟོ་བཅོས་བསྐྱར་ལས།"
+
+msgid "Redo recursive change permissions of %d item"
+msgid_plural "Redo recursive change permissions of %d items"
+msgstr[0] "ཚན %d ཡི་དབང་ཚད་རིམ་ལོག་བསྐྱར་ལས།"
+msgstr[1] "ཚན %d ཡི་དབང་ཚད་རིམ་ལོག་བསྐྱར་ལས།"
+
+msgid "Redo the last undone action"
+msgstr "ཐེངས་སྔོན་མའི་དོར་བའི་བཀོལ་སྤྱོད་བསྐྱར་ལས།"
+
+msgid "Reload"
+msgstr "བསྐྱར་འཇུག"
+
+msgid "Reload the current location"
+msgstr "མིག་སྔའི་གནས་སུ་བསྐྱར་འཇུག"
+
+msgid "Remember this password"
+msgstr "གསང་ཨང་དེ་སེམས་ལ་ཟུངས།"
+
+msgid "Remote trans files"
+msgstr "རྒྱང་རིང་བརྒྱུད་གཏོང་།"
+
+msgid "Remove"
+msgstr "སྤོ་བ།"
+
+msgid "Remove this criterion from the search"
+msgstr "འཚོལ་བཤེར་ལས་ཆ་རྐྱེན་འདོར་བ།"
+
+msgid "Rename"
+msgstr "མིང་བསྐྱར་འདོགས།"
+
+msgid "Rename '%s' as '%s'"
+msgstr "“%s”མིང་བསྐྱར་འདོགས་ནི་“%s”བྱས།"
+
+msgid "Rename Emblem"
+msgstr "རྟགས་མ་མིང་བསྐྱར་འདོགས།"
+
+msgid "Rename selected item"
+msgstr "བདམས་པའི་རྣམ་གྲངས་མིང་བསྐྱར་འདོགས།"
+
+msgid "Rename..."
+msgstr "མིང་བསྐྱར་འདོགས།..."
+
+msgid "Renaming \"%s\" to \"%s\"."
+msgstr ""
+
+msgid "Replace"
+msgstr "བརྗེ་བ།"
+
+msgid "Replace _All"
+msgstr "ཚང་མ་བརྗེ་བ།(_A)"
+
+msgid "Replace file \"%s\"?"
+msgstr ""
+
+msgid "Replace folder \"%s\"?"
+msgstr ""
+
+msgid "Replace with"
+msgstr "བརྗེ་ས།"
+
+msgid "Replacing it will overwrite its content."
+msgstr "བརྗེ་བས་དེའི་ནང་དོན་ཁེབས་པ།"
+
+msgid "Replacing it will remove all files in the folder."
+msgstr "བརྗེ་བས་ཡིག་ཁུག་ནང་གི་ཡིག་ཆ་ཚང་མ་སྤོ་བ།"
+
+msgid "Reposition icons to better fit in the window and avoid overlapping"
+msgstr ""
+"རིས་རྟགས་གནང་བསྐྱར་ངེས་ཀྱིས་སྒེའུ་ཁུང་དུ་འཇོག་པ་ཇེ་བཟང་ཅིང་། བརྩེགས་པ་འགོད"
+
+msgid "Reset"
+msgstr "བསྐྱར་འཇོག"
+
+msgid "Reset View to _Defaults"
+msgstr "མཐོང་རིས་སོར་བཞག་ཚད་ལྟར་བསྐྱར་བཀོད།(_D)"
+
+msgid "Reset is a special image that cannot be deleted."
+msgstr "བསྐྱར་འཇོག་ནི་དམིགས་བསལ་གྱི་པར་རིས་ཡིན། འདོར་མི་ཐུབ།"
+
+msgid "Reset sorting order and zoom level to match preferences for this view"
+msgstr ""
+"རིམ་སྒྲིག་དང་སྐྱེད་སྐྱུང་རིམ་པ་བསྐྱར་འཇོག་ནས་མཐོང་རིས་དེའི་ཐོག་མའི་འདེམས་ཚན་ལ་འཚམ་དུ་འཇུག"
+
+msgid "Resize Icon..."
+msgstr "རིས་རྟགས་རྒྱ་བསྐྱེད...རིས་རྟགས་རྒྱ་བསྐྱེད་པ།"
+
+msgid "Restore"
+msgstr "ཕྱིར་ལོག"
+
+msgid "Restore %d items from trash"
+msgstr "སྙིགས་སྒམ་ལས་ཚན་ %dསླར་གསོ།"
+
+msgid "Restore '%s' from trash"
+msgstr "སྙིགས་སྒམ་ལས་“%s”སླར་གསོ།"
+
+msgid "Restore '%s' to '%s'"
+msgstr "“%s”“%s”ལ་སླར་གསོ།"
+
+msgid "Restore All Items"
+msgstr "རྣམ་གྲངས་ཚང་མ་ཕྱིར་ལོག"
+
+msgid "Restore Icon's Original Si_ze"
+msgstr "རིས་རྟགས་ཀྱི་ཐོག་མའི་ཆེ་ཆུང་སླར་གསོ།(_Z)"
+
+msgid "Restore Icons' Original Si_zes"
+msgstr "རིས་རྟགས་ཀྱི་ཐོག་མའི་ཆེ་ཆུང་སླར་གསོ།(_Z)"
+
+msgid "Restore Selected Items"
+msgstr "བདམས་པའི་རྣམ་གྲངས་ཕྱིར་ལོག"
+
+msgid "Restore all items to their original position"
+msgstr "རྣམ་གྲངས་ཚང་མ་ཐོག་མའི་གནས་སར་ཕྱིར་ལོག"
+
+msgid "Restore each selected icon to its original size"
+msgstr "བདམས་པའི་རིས་རྟགས་ཀྱི་ཐོག་མའི་ཆེ་ཆུང་སླར་གསོ།"
+
+msgid "Restore group of '%s' to '%s'"
+msgstr "“%s”ཡི་ཚོ་ “%s”ལ་སླར་གསོ།"
+
+msgid "Restore original permissions of '%s'"
+msgstr "“%s”ཡི་ཐོག་མའི་དབང་ཚད་སླར་གསོ།"
+
+msgid "Restore original permissions of items enclosed in '%s'"
+msgstr "“%s”ནང་དུ་འདུས་པའི་རྣམ་གྲངས་ཀྱི་ཐོག་མའི་དབང་ཚད་སླར་གསོ།"
+
+msgid "Restore owner of '%s' to '%s'"
+msgstr "“%s”ཡི་བདག་པོ་“%s”ལ་སླར་གསོ།"
+
+msgid "Restore selected items to their original position"
+msgstr "བདམས་པའི་རྣམ་གྲངས་ཐོག་མ་གནས་སར་ཕྱིར་ལོག"
+
+msgid "Resume"
+msgstr "སླར་གསོ།"
+
+msgid "Reverse sort order in new windows"
+msgstr "སྒེའུ་ཁུང་གསར་བར་ལྡོག་པའི་རིམ་སྒྲིག"
+
+msgid "Ridged Paper"
+msgstr "ཐིག་རིས་ཤོག་བུ།"
+
+msgid "Rough Paper"
+msgstr "རྩུབ་པོའི་ཤོག་བུ།"
+
+msgid "Ruby"
+msgstr "པད་མ་རཱ་གའི་མདོག"
+
+msgid "Run \"%s\" on any selected items"
+msgstr ""
+
+msgid "Run in _Terminal"
+msgstr "མཐའ་སྣེ་རུ་འཁོར་སྐྱོད།(_T)"
+
+msgid "Run or manage scripts from %s"
+msgstr "%s རུ་ཞབས་དཔེ་འཁོར་སྐྱོད་ཡང་ན་དོ་དམ་བྱེད།"
+
+msgid "SELinux Context"
+msgstr ""
+
+msgid "SELinux context:"
+msgstr "SELinux ཁོར་ཡུག："
+
+msgid "SSH"
+msgstr "SSH"
+
+msgid "S_how Search"
+msgstr "འཚོལ་བཤེར་མངོན་པ།(_H)"
+
+msgid "S_kip All"
+msgstr "ཚང་མ་མཆོང་།(_K)"
+
+msgid "S_witch to Other Pane"
+msgstr "སྒེའུ་ཁུང་གཞན་ཞིག་ཏུ་བརྗེ་བ།(_W)"
+
+msgid "Sa_me Location as Other Pane"
+msgstr "སྒེའུ་ཁུང་གཞན་ཞིག་དང་འདྲ་བའི་གནས་ས།(_M)"
+
+msgid "Sa_ve Search"
+msgstr "འཚོལ་བཤེར་ཉར་བ།(_V)"
+
+msgid "Sa_ve Search As..."
+msgstr "འཚོལ་བཤེར་གཞན་ཉར།(_V)..."
+
+msgid "Safely remove the drive associated with the open folder"
+msgstr "ཁ་ཕྱེའི་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྐུལ་ཆས་བདེ་འཇགས་ངང་སྤོ་བ།"
+
+msgid "Safely remove the selected drive"
+msgstr "བདེ་འཇགས་ངང་བདམས་པའི་སྒྲིལ་སྤོ་བ།"
+
+msgid "Save Search as"
+msgstr "འཚོལ་བཤེར་གཞན་ཉར།"
+
+msgid "Save the current search as a file"
+msgstr "མིག་སྔའི་འཚོལ་བཤེར་ཡིག་ཆ་ལྟར་གཞན་ཉར།"
+
+msgid "Save the edited search"
+msgstr "རྩོམ་སྒྲིག་བྱས་པའི་འཚོལ་བཤེར་ཉར་བ།"
+
+msgid "Saved search"
+msgstr "ཉར་བའི་འཚོལ་བཤེར།"
+
+msgid "Sea Foam"
+msgstr "རྒྱ་མདོག"
+
+msgid "Search"
+msgstr "འཚོལ་བ།"
+
+msgid "Search Folder"
+msgstr "ཡིག་ཁུག་འཚོལ་བཤེར།"
+
+msgid "Search _name:"
+msgstr "འཚོལ་བཤེར་མིང་།(_N)："
+
+msgid "Search documents and folders by name"
+msgstr "མིང་ལྟར་ཡིག་ཚགས་དང་ཡིག་ཁུག་འཚོལ་བཤེར།"
+
+msgid "Search for \"%s\""
+msgstr ""
+
+msgid "Search results"
+msgstr "བཤེར་འཚོལ་མཇུག་འབྲས།"
+
+msgid "Search:"
+msgstr "འཚོལ་བཤེར།："
+
+msgid "Secure WebDAV (HTTPS)"
+msgstr "བདེ་འཇགས WebDAV། (HTTPS)"
+
+msgid "Select All"
+msgstr "ཚང་མ་འདེམས།"
+
+msgid "Select Custom Icon"
+msgstr "རང་བཟོས་རིས་རྟགས་འདེམ་པ།"
+
+msgid "Select Folder to Save Search In"
+msgstr "འཚོལ་བྱེད་ཡིག་ཁུག་ཉར་བ་འདེམ་པ།"
+
+msgid "Select I_tems Matching..."
+msgstr "དོ་མཉམ་གྱི་རྣམ་གྲངས་འདེམ་པ།(_T)..."
+
+msgid "Select Items Matching"
+msgstr "དོ་མཉམ་གྱི་རྣམ་གྲངས་འདེམ་པ།"
+
+msgid "Select _All"
+msgstr "ཚང་མ་འདེམ་པ།(_A)"
+
+msgid "Select a Category:"
+msgstr "འདེམས་རིགས།："
+
+msgid "Select a Color to Add"
+msgstr "སྣོན་དགོས་པའི་ཁ་དོག་འདེམ་པ།"
+
+msgid "Select a new name for the _destination"
+msgstr "དམིགས་ཡུལ་ལ་མིང་གསར་འདེམ་པ།(_ )"
+
+msgid "Select all and only the items that are not currently selected"
+msgstr "བདམས་མེད་པའི་རྣམ་གྲངས་ཀུན་པོ་འདེམས།"
+
+msgid "Select all items in this window"
+msgstr "སྒེའུ་ཁུང་འདིའི་ནང་གི་རྣམ་གྲངས་ཚང་མ་འདེམས།"
+
+msgid "Select all the text in a text field"
+msgstr "ཡིག་རྐྱང་ཁོངས་ཀྱི་ཡིག་རྐྱང་ཚང་མ་འདེམས།"
+
+msgid "Select an Application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ཞིག་འདེམ་པ།"
+
+msgid "Select an Image File for the New Emblem"
+msgstr "རྟགས་མ་གསར་བའི་པར་རིས་ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select an Image File to Add as a Pattern"
+msgstr "རིས་རྟགས་ལ་སྣོན་དགོས་པའི་པར་རིས་ཡིག་ཆ་ཞིག་འདེམས།"
+
+msgid "Select an application to open %s and other files of type \"%s\""
+msgstr ""
+
+msgid "Select an application to view its description."
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ཞིག་བདམས་ནས་དེའི་ཞིབ་བརྗོད་ལ་བལྟ་བ།"
+
+msgid "Select folder to search in"
+msgstr "འཚོལ་བཤེར་གྱི་ཡིག་ཁུག་འདེམ་པ།"
+
+msgid ""
+"Select how to open \"%s\" and whether to perform this action in the future "
+"for other media of type \"%s\"."
+msgstr ""
+
+msgid "Select items in this window matching a given pattern"
+msgstr "སྤྲད་པའི་རྣམ་པ་ལྟར་སྒེའུ་ཁུང་ནང་གི་རྣམ་གྲངས་འདེམས།"
+
+msgid "Select the columns visible in this folder"
+msgstr "ཡིག་ཁུག་ཏུ་མཐོང་རུང་སྟར་འདེམས།"
+
+msgid "Select type"
+msgstr "རིགས་གྲས་འདེམས།"
+
+msgid "Selection Bound"
+msgstr "ཁྱབ་ཁོངས་འདེམས།"
+
+msgid "Send to USB Driver"
+msgstr ""
+
+msgid "Send to USB Driver _Shortcut"
+msgid_plural "Send to USB Driver _Shortcuts"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Send to desktop _Shortcut"
+msgid_plural "Send to desktop _Shortcuts"
+msgstr[0] "ཅོག་ངོས་ཀྱི་མྱུར་འཇུག་བྱེད་སྟངས་སུ་སྐྱེལ།(_K)"
+msgstr[1] "ཅོག་ངོས་ཀྱི་མྱུར་འཇུག་བྱེད་སྟངས་སུ་སྐྱེལ།(_K)"
+
+msgid "Send to desktop shortcut for each selected item"
+msgstr "བདམས་པའི་རྣམ་གྲངས་སོ་སོ་ལ་ཅོག་ངོས་མྱུར་འཇུག་བྱེད་སྟངས་བཟོ་བ།"
+
+msgid "Server Details"
+msgstr "ཞབས་ཞུ་ཆས་ཀྱི་གནས་ཚུལ་ཞིབ་ཕྲ།"
+
+msgid "Session management options:"
+msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན།"
+
+msgid "Set Permissions"
+msgstr ""
+
+msgid "Set Screen _Resolution"
+msgstr "བརྙན་ཡོལ་དབྱེ་འབྱེད་ཚད་སྒྲིག་འགོད།(_S)"
+
+msgid "Set _user ID"
+msgstr "སྤྱོད་མཁན་ Idསྒྲིག་འགོད།(_U)"
+
+msgid "Set as _Background"
+msgstr "རྒྱབ་ལྗོངས་ལ་སྒྲིག་འགོད།(_B)"
+
+msgid "Set as background for _all folders"
+msgstr "ཡིག་ཁུག་ཚང་མའི་རྒྱབ་ལྗོངས་ལ་སྒྲིག་འགོད།(_A)"
+
+msgid "Set as background for _this folder"
+msgstr "ཡིག་ཁུག་འདི་རྒྱབ་ལྗོངས་ལ་སྒྲིག་འགོད།(_T)"
+
+msgid "Set gro_up ID"
+msgstr "ཚོགས་པའི་ Idསྒྲིག་འགོད།(_U)"
+
+msgid "Set group of '%s' to '%s'"
+msgstr "ཚོགས་“%s”འདི་“%s”ལ་སྒྲིག་འགོད།"
+
+msgid "Set owner of '%s' to '%s'"
+msgstr "“%s”ཡི་བདག་པོ་“%s”ལ་སྒྲིག་འགོད།"
+
+msgid "Set permissions of '%s'"
+msgstr "“%s”ཡི་དབང་ཚད་སྒྲིག་འགོད།"
+
+msgid "Set permissions of items enclosed in '%s'"
+msgstr "“%s”རུ་འདུས་པའི་རྣམ་གྲངས་ཀྱི་དབང་ཚད་སྒྲིག་འགོད།"
+
+msgid "Set subfile permissions:"
+msgstr ""
+
+msgid "Set the zoom level of the current view"
+msgstr "མིག་སྔའི་མཐོང་རིས་ཀྱི་སྐྱེད་སྐྱུང་རིམ་པ་སྒྲིག་འགོད།"
+
+msgid "Sets the current folder permissions:"
+msgstr ""
+
+msgid "Setting permissions"
+msgstr "དབང་ཚད་སྒྲིག་འགོད།"
+
+msgid "Shale"
+msgstr "བྲག་རྡོ།"
+
+msgid "Share:"
+msgstr "མཉམ་སྤྱོད།："
+
+msgid "Show Emblems"
+msgstr "རྟགས་མ་མངོན་པ།"
+
+msgid "Show History"
+msgstr "ལོ་རྒྱུས་མངོན་པ།"
+
+msgid "Show Information"
+msgstr "ཆ་འཕྲིན་མངོན་པ།"
+
+msgid "Show Notes"
+msgstr "བརྗེད་ཐོ་མངོན་པ།"
+
+msgid "Show Places"
+msgstr "གནས་ས་མངོན་པ།"
+
+msgid "Show Tree"
+msgstr "སྡོང་འགྲེམས་མངོན་པ།"
+
+msgid "Show _Hidden Files"
+msgstr "སྦེད་པའི་ཡིག་ཆ་མངོན་པ།(_H)"
+
+msgid "Show _only folders"
+msgstr "ཡིག་ཁུག་ཁོ་ན་མངོན་པ།(_O)"
+
+msgid "Show _thumbnails:"
+msgstr "སྐུང་རིས་མངོན་པ།(_T)："
+
+msgid "Show a window that lets you set the screen resolution"
+msgstr "མངོན་པས་ཁྱེད་ཀྱིས་བརྙན་ཡོལ་གྱི་དབྱེ་འབྱེད་ཚད་བཀོད་ཆོག་པའི་སྒེའུ་ཁུང་།"
+
+msgid ""
+"Show a window that lets you set your desktop background's pattern or color"
+msgstr ""
+"མངོན་པས་ཁྱེད་ཀྱིས་ཅོག་ངོས་རྒྱབ་ལྗོངས་ཀྱི་རི་མོའང་ཁ་དོག་བཀོད་ཆོག་པའི་སྒེའུ་ཁུང་།"
+
+msgid "Show advanced permissions in the file property dialog"
+msgstr "ཡིག་ཆའི་གཏོགས་གཤིས་གླེང་སྒྲོམ་དུ་མཐོ་རིམ་དབང་ཚད་མངོན་པ།"
+
+msgid "Show folders first in windows"
+msgstr "སྒེའུ་ཁུང་དུ་སྔོན་དུ་ཡིག་ཁུག་མངོན་པ།"
+
+msgid "Show hidden and _backup files"
+msgstr "སྦེད་པ་དང་གྲབས་ཉར་གྱི་ཡིག་ཆ་མངོན་པ།(_B)"
+
+msgid "Show location bar in new windows"
+msgstr "སྒེའུ་ཁུང་གསར་བར་གནས་ས་སྡེ་མངོན་པ།"
+
+msgid "Show more _details"
+msgstr "གནས་ཚུལ་ཇེ་མང་མངོན་པ།"
+
+msgid "Show mounted volumes on the desktop"
+msgstr "ཅོག་ངོས་སུ་བཀར་བའི་སྒྲིལ་མངོན་པ།"
+
+msgid "Show search"
+msgstr "འཚོལ་བཤེར་མངོན་པ།"
+
+msgid "Show session management options"
+msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན་མངོན་པ།"
+
+msgid "Show side pane in new windows"
+msgstr "སྒེའུ་ཁུང་གསར་པར་མཐའ་ཟུར་སྡེ་མངོན་པ།"
+
+msgid "Show status bar in new windows"
+msgstr "སྒེའུ་ཁུང་གསར་པར་རྣམ་པའི་སྡེ་མངོན་པ།"
+
+msgid "Show te_xt in icons:"
+msgstr "རིས་རྟགས་སུ་ཡི་གེ་མངོན་པ།(_X)："
+
+msgid "Show the folder containing the scripts that appear in this menu"
+msgstr "འདེམས་བྱང་འདིར་ཐོན་པའི་ཞབས་དེབ་ཏུ་འདུས་པའི་ཡིག་ཁུག་མངོན་པ།"
+
+msgid "Show the package installer for unknown mime types"
+msgstr "མི་ཤེས་པའི་རིགས mimeལ་ཐུམ་སྒྲིག་འཇུག་བྱ་རིམ་མངོན་པ།"
+
+msgid "Show the version of the program."
+msgstr "བྱ་རིམ་གྱི་པར་གཞི་མངོན་པ།"
+
+msgid "Show toolbar in new windows"
+msgstr "སྒེའུ་ཁུང་གསར་པར་ལག་ཆ་སྡེ་མངོན་པ།"
+
+msgid "Side pane view"
+msgstr "མཐའ་ཟུར་སྡེའི་མཐོང་རིས།"
+
+msgid "Silver"
+msgstr "དངུལ་མདོག"
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Size:"
+msgstr "ཆེ་ཆུང་།："
+
+msgid "Sky"
+msgstr "མཐིང་མདོག"
+
+msgid "Sky Ridge"
+msgstr "ཐིག་རིས་མཐིང་མདོག"
+
+msgid "Slashes are not allowed in filenames"
+msgstr "ཡིག་ཆའི་མིང་དུ་གསེག་ཐིག་ཐོན་མི་ཉན།"
+
+msgid "Snow Ridge"
+msgstr "དཀར་ཐིག་རིས།"
+
+msgid "Software"
+msgstr "མཉེན་ཆས།"
+
+msgid "Some of the files could not be added as emblems."
+msgstr "ཡིག་ཆ་ཁ་ཤས་རྟགས་མ་ལ་སྣོན་མི་ཐུབ།"
+
+msgid "Sorry, but \"%s\" is not a usable image file."
+msgstr ""
+
+msgid "Sorry, but emblem %s could not be deleted."
+msgstr "དགོངས་དག རྟགས་མ %s འདོར་མི་ཐུབ།"
+
+msgid ""
+"Sorry, but emblem keywords can only contain letters, spaces and numbers."
+msgstr ""
+"དགོངས་དག རྟགས་མའི་གནད་ཡིག་ཏུ་གསལ་བྱེད་དང་། སྟོང་ཆ། "
+"ཨང་ཀི་མ་གཏོགས་ཚུགས་ཚུད་མི་ཆོག"
+
+msgid "Sorry, but pattern %s could not be deleted."
+msgstr "དགོངས་དག རི་མོ %sའདོར་མི་ཐུབ།"
+
+msgid "Sorry, but the pattern %s could not be installed."
+msgstr "དགོངས་དག རི་མོ %sསྒྲིག་འཇུག་བྱེད་མི་ཐུབ།"
+
+msgid "Sorry, but there is already an emblem named \"%s\"."
+msgstr ""
+
+msgid "Sorry, but you cannot execute commands from a remote site."
+msgstr ""
+"དགོངས་དག ཁྱེད་ཀྱིས་རྒྱང་རིང་གི་རྒྱུད་ཁོངས་ཀྱི་བཀའ་བརྡ་ལག་བསྟར་བྱེད་མི་ཐུབ།"
+
+msgid "Sorry, but you cannot replace the reset image."
+msgstr "དགོངས་དག ཁྱེད་ཀྱིས་པར་རིས་བརྗེ་ནས་བསྐྱར་སྒྲིག་བྱེད་མི་ཐུབ།"
+
+msgid "Sorry, but you must specify a non-blank keyword for the new emblem."
+msgstr ""
+"དགོངས་དག "
+"ཁྱེད་ཀྱིས་ངེས་པར་དུ་རྟགས་མ་གསར་བ་ལ་སྟོང་མིན་གྱི་གནད་ཡིག་ཅིག་གཏན་འཁེལ་བྱ་དགོས།"
+
+msgid "Sorry, but you must specify a non-blank name for the new color."
+msgstr ""
+"དགོངས་དག "
+"ཁྱེད་ཀྱིས་ངེས་པར་དུ་སྟོང་མིན་གྱི་མིང་ཅིག་བསྟན་ནས་ཁ་དོག་གསར་བཟོ་ལ་སྤྱོད།"
+
+msgid "Sorry, but you must specify an unused color name for the new color."
+msgstr ""
+"དགོངས་དག "
+"ཁྱེད་ཀྱིས་ངེས་པར་དུ་སྤྱད་མེད་ཀྱི་མིང་ཅིག་བསྟན་ནས་ཁ་དོག་གསར་བཟོ་ལ་སྤྱོད།"
+
+msgid "Sorry, could not change the group of \"%s\": %s"
+msgstr ""
+
+msgid "Sorry, could not change the owner of \"%s\": %s"
+msgstr ""
+
+msgid "Sorry, could not change the permissions of \"%s\": %s"
+msgstr ""
+
+msgid "Sorry, could not display all the contents of \"%s\": %s"
+msgstr ""
+
+msgid "Sorry, could not rename \"%s\" to \"%s\": %s"
+msgstr ""
+
+msgid "Sorry, unable to save custom emblem name."
+msgstr "དགོངས་དག རང་གིས་མཚན་ཉིད་བཞག་པའི་རྟགས་མའི་མིང་ཉར་མི་ཐུབ།"
+
+msgid "Sorry, unable to save custom emblem."
+msgstr "དགོངས་དག རང་གིས་མཚན་ཉིད་བཞག་པའི་རྟགས་མ་ཉར་མི་ཐུབ།"
+
+msgid "Sort _folders before files"
+msgstr "ཡིག་ཁུག་ཡིག་ཆ་མདུན་དུ་འཇོག(_F)"
+
+msgid "Special character(\\n\\/:*?\"<>) are not allowed in filenames"
+msgstr ""
+
+msgid "Special flags:"
+msgstr "དམིགས་བསལ་གྱི་མཚོན་རྟགས།："
+
+msgid "Specified group '%s' doesn't exist"
+msgstr "བསྟན་པའི་ཚོ་“%s”མེད་པ།"
+
+msgid "Specified owner '%s' doesn't exist"
+msgstr "བསྟན་པའི་བདག་པོ་“%s”མི་འདུག"
+
+msgid "Specify a location to open"
+msgstr "ཁ་འབྱེད་དགོས་པའི་གནས་ས་སྟོན།"
+
+msgid "Specify file containing saved configuration"
+msgstr "ཉར་བའི་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་ཚུད་པ་གཏན་འཁེལ།"
+
+msgid "Specify session management ID"
+msgstr "གྲོས་གླེང་དོ་དམ Idགཏན་འཁེལ།"
+
+msgid ""
+"Speed tradeoff for when to preview a sound file when mousing over a files "
+"icon. If set to \"always\" then always plays the sound, even if the file is "
+"on a remote server. If set to \"local-only\" then only plays previews on "
+"local file systems. If set to \"never\" then it never previews sound."
+msgstr ""
+
+msgid ""
+"Speed tradeoff for when to show a preview of text file contents in the "
+"file's icon. If set to \"always\" then always show previews, even if the "
+"folder is on a remote server. If set to \"local-only\" then only show "
+"previews for local file systems. If set to \"never\" then never bother to "
+"read preview data."
+msgstr ""
+
+msgid ""
+"Speed tradeoff for when to show an image file as a thumbnail. If set to "
+"\"always\" then always thumbnail, even if the folder is on a remote server. "
+"If set to \"local-only\" then only show thumbnails for local file systems. "
+"If set to \"never\" then never bother to thumbnail images, just use a "
+"generic icon."
+msgstr ""
+
+msgid ""
+"Speed tradeoff for when to show the number of items in a folder. If set to "
+"\"always\" then always show item counts, even if the folder is on a remote "
+"server. If set to \"local-only\" then only show counts for local file "
+"systems. If set to \"never\" then never bother to compute item counts."
+msgstr ""
+
+msgid "Spreadsheet"
+msgstr "གློག་རྡུལ་རེའུ་མིག"
+
+msgid "St_atusbar"
+msgstr "རྣམ་པའི་སྡེ(_A)"
+
+msgid "Start the drive associated with the open folder"
+msgstr "ཁ་ཕྱེ་ཡིག་ཁུག་འབྲེལ་བའི་སྒྲིལ་མགོ་རྩོམ།"
+
+msgid "Start the multi-disk drive associated with the open folder"
+msgstr "ཁ་ཕྱེ་ཡིག་ཁུག་འབྲེལ་བའི་སྡེར་མང་སྐུལ་ཆས་མགོ་རྩོམ།"
+
+msgid "Start the selected drive"
+msgstr "མགོ་རྩོམ་དུས་བདམས་པའི་སྒྲིལ།"
+
+msgid "Start the selected multi-disk drive"
+msgstr "བདམས་པའི་སྡུད་སྡེར་མང་པོའི་སྐུལ་ཆས་མགོ་རྩོམ།"
+
+msgid "Start the selected volume"
+msgstr "བདམས་པའི་སྒྲིལ་མགོ་རྩོམས།"
+
+msgid "Start the volume associated with the open folder"
+msgstr "ཁ་ཕྱེ་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྒྲིལ་མགོ་སློང་།"
+
+msgid "Start the volume associated with this folder"
+msgstr "ཡིག་ཁུག་འདི་དང་འབྲེལ་བའི་སྒྲིལ་མགོ་སློང་།"
+
+msgid "Starting %s"
+msgstr " %sམགོ་སློང་པ།"
+
+msgid "Stop loading the current location"
+msgstr "མིག་སྔའི་གནས་སར་ཕབ་འཇུག་མཚམས་འཇོག"
+
+msgid "Stop the multi-disk drive associated with the open folder"
+msgstr "ཁ་ཕྱེ་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྡུད་སྡེར་མང་པོའི་སྐུལ་ཆས་མཚམས་འཇོག"
+
+msgid "Stop the selected drive"
+msgstr "བདམས་པའི་སྒྲིལ་མཚམས་འཇོག"
+
+msgid "Stop the selected multi-disk drive"
+msgstr "བདམས་པའི་སྡུད་སྡེར་མང་པོའི་སྐུལ་ཆས་མཚམས་འཇོག"
+
+msgid "Stop the selected volume"
+msgstr "བདམས་པའི་སྒྲིལ་མཚམས་འཇོག"
+
+msgid "Stop the volume associated with the open folder"
+msgstr "ཁ་ཕྱེ་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྒྲིལ་མཚམས་འཇོག"
+
+msgid "Stop the volume associated with this folder"
+msgstr "ཡིག་ཁུག་འདི་དང་འབྲེལ་བའི་སྒྲིལ་མཚམས་འཇོག"
+
+msgid "Storage"
+msgstr "གསོག་འཇོག་བར་རྫས།"
+
+msgid "Stucco"
+msgstr "སྐྱ་འདམ།"
+
+msgid "Symbolic links only supported for local files"
+msgstr "མཚོན་རྟགས་སྦྲེལ་མཐུད་ཀྱིས་རང་སའི་ཡིག་ཆ་ཁོ་ན་ལ་རྒྱབ་སྐྱོར་བྱེད།"
+
+msgid "TB available space,total"
+msgstr "Tསྤྱོད་རུང་། སྤྱིར།"
+
+msgid "T_emplates"
+msgstr "མ་དཔེ།(_E)"
+
+msgid "Tangerine"
+msgstr "ཚ་ལུ་མའི་མདོག"
+
+msgid "Terracotta"
+msgstr "རྫ་ཆས།"
+
+msgid "Text"
+msgstr "ཞིབ་བརྗོད།"
+
+msgid "Text Ellipsis Limit"
+msgstr "ཡིག་རྐྱང་སྐུང་བའི་མུ་མཐའ།"
+
+msgid "Text File"
+msgstr "ཡིག་རྐྱང་ཡིག་ཆ།"
+
+msgid "Text is more than 11 characters long!"
+msgstr ""
+
+msgid "Text view:"
+msgstr "ཡིག་རྐྱང་མཐོང་རིས།："
+
+msgid "The %'d selected item will be copied if you select the Paste command"
+msgid_plural ""
+"The %'d selected items will be copied if you select the Paste command"
+msgstr[0] ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་སྦྱར་བའི་བཀའ་བརྡ་བདམས་ན། བདམས་པའི་རྣམ་གྲངས་%dའདྲ་བཟོ་བྱ།"
+msgstr[1] ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་སྦྱར་བའི་བཀའ་བརྡ་བདམས་ན། བདམས་པའི་རྣམ་གྲངས་%dའདྲ་བཟོ་བྱ།"
+
+msgid "The %'d selected item will be moved if you select the Paste command"
+msgid_plural ""
+"The %'d selected items will be moved if you select the Paste command"
+msgstr[0] ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་སྦྱར་བའི་བཀའ་བརྡ་བདམས་ན། བདམས་པའི་རྣམ་གྲངས་%dསྤོ་བ་བྱ།"
+msgstr[1] ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་སྦྱར་བའི་བཀའ་བརྡ་བདམས་ན། བདམས་པའི་རྣམ་གྲངས་%dསྤོ་བ་བྱ།"
+
+msgid "The Link \"%s\" is Broken."
+msgstr ""
+
+msgid "The Link \"%s\" is Broken. Move it to Trash?"
+msgstr ""
+
+msgid "The SELinux security context of the file."
+msgstr "ཡིག་ཆའི SELinux བདེ་འཇགས་ཁོར་ཡུག"
+
+msgid ""
+"The alignment of the lines in the text of the label relative to each other. "
+"This does NOT affect the alignment of the label within its allocation. See "
+"GtkMisc::xalign for that."
+msgstr ""
+
+msgid ""
+"The application launcher \"%s\" has not been marked as trusted. If you do "
+"not know the source of this file, launching it may be unsafe."
+msgstr ""
+
+msgid ""
+"The cache is being written. Do not remove the removable storage device. "
+"Otherwise, data will be lost."
+msgstr ""
+"ལྷོད་གསོག་ཏུ་འབྲི་བ། སྤོ་རུང་གསོག་འཇོག་སྒྲིག་ཆས་མ་འདོར། "
+"མིན་ན་གཞི་གྲངས་བོར་བ་ཡིན།"
+
+msgid "The color cannot be installed."
+msgstr "ཁ་དོག་འཇུག་མི་ཐུབ།"
+
+msgid "The compact view encountered an error while starting up."
+msgstr "ཚགས་དམ་མཐོང་རིས་མགོ་སློང་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "The compact view encountered an error."
+msgstr "ཚགས་དམ་མཐོང་རིས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "The current position of the insertion cursor in chars."
+msgstr "འཇུག་ཚེག་གི་མིག་སྔའི་གནས་ས། ཡིག་རྟགས་ཀྱིས་གྲངས་བགྲང་།"
+
+msgid "The date the file was accessed."
+msgstr "ཡིག་ཆ་ལྟ་སྤྱོད་ཀྱི་དུས།"
+
+msgid "The date the file was modified."
+msgstr "ཡིག་ཆ་བཟོ་བཅོས་ཀྱི་དུས།"
+
+msgid ""
+"The default action cannot open \"%s\" because it cannot access files at "
+"\"%s\" locations."
+msgstr ""
+
+msgid "The default size of an icon for a thumbnail in the icon view."
+msgstr "རིས་རྟགས་མཐོང་རིས་སུ་སྐུང་རིས་ཀྱི་སོར་བཞག་རིས་རྟགས་ཆེ་ཆུང་།"
+
+msgid ""
+"The default sort-order for items in the icon view. Possible values are "
+"\"name\", \"size\", \"type\", \"mtime\", and \"emblems\"."
+msgstr ""
+
+msgid "The default width of the side pane in new windows."
+msgstr "སྒེའུ་ཁུང་གསར་བའི་མཐའ་ཟུར་སྡེའི་སོར་བཞག་ཞེང་ཚད།"
+
+msgid "The desktop view encountered an error while starting up."
+msgstr "ཅོག་ངོས་མཐོང་རིས་མགོ་སློང་སྐབས་ནོར་འཁྲུལ་ལ་འཕྲད།"
+
+msgid "The desktop view encountered an error."
+msgstr "ཅོག་ངོས་མཐོང་རིས་ནོར་འཁྲུལ་ལ་འཕྲད།"
+
+msgid "The destination folder is inside the source folder."
+msgstr "དམིགས་ཡུལ་ཡིག་ཁུག་ཁུངས་ཡིག་ཁུག་ཏུ་གནས།"
+
+msgid "The destination is not a folder."
+msgstr "དམིགས་ཡུལ་གནས་ས་ནི་ཡིག་ཁུག་མིན།"
+
+msgid "The destination is read-only."
+msgstr "དམིགས་ཡུལ་ནི་ཀློག་ཙམ་ཡིན།"
+
+msgid "The dragged file does not appear to be a valid image."
+msgstr "འདྲུད་པའི་ཡིག་ཆ་ནི་ནུས་ལྡན་གྱི་པར་རིས་ལ་མི་འདྲ།"
+
+msgid "The emblem cannot be added."
+msgstr "རྟགས་མ་སྣོན་མི་ཐུབ།"
+
+msgid "The emblem cannot be installed."
+msgstr "རྟགས་མཚོན་སྒྲིག་འཇུག་བྱ་མི་ཐུབ། "
+
+msgid "The emblems do not appear to be valid images."
+msgstr "རྟགས་མ་ནི་ནུས་ལྡན་གྱི་པར་རིས་མི་འདྲ།"
+
+msgid ""
+"The file \"%B\" cannot be handled because you do not have permissions to "
+"read it."
+msgstr ""
+
+msgid ""
+"The file \"%B\" cannot be moved to the trash, force delete will cause the "
+"trash can't manage this file! do you want to force delete immediately?"
+msgstr ""
+
+msgid "The file '%s' does not appear to be a valid image."
+msgstr "ཡིག་ཆ་“%s”ནུས་ལྡན་གྱི་པར་རིས་ལ་མི་འདྲ།"
+
+msgid "The file is not an image."
+msgstr "ཡིག་ཆ་ནི་པར་རིས་མིན།"
+
+msgid ""
+"The file is occupied by the following process\n"
+"%s"
+msgstr ""
+
+msgid "The file is of an unknown type"
+msgstr "ཡིག་ཆ་ནི་མི་ཤེས་པའི་རིགས་གྲས་ཡིན།"
+
+msgid "The file that you dropped is not an image."
+msgstr "ཁྱེད་ཀྱིས་འདྲུད་པའི་ཡིག་ཆ་ནི་རང་སའི་ཡིག་ཆ་མིན།"
+
+msgid "The file that you dropped is not local."
+msgstr "ཁྱེད་ཀྱིས་འདྲུད་པའི་ཡིག་ཆ་ནི་རང་སའི་ཡིག་ཆ་མིན།"
+
+msgid ""
+"The folder \"%B\" cannot be copied because you do not have permissions to "
+"create it in the destination."
+msgstr ""
+
+msgid ""
+"The folder \"%B\" cannot be copied because you do not have permissions to "
+"read it."
+msgstr ""
+
+msgid ""
+"The folder \"%B\" cannot be deleted because you do not have permissions to "
+"read it."
+msgstr ""
+
+msgid ""
+"The folder \"%B\" cannot be handled because you do not have permissions to "
+"read it."
+msgstr ""
+
+msgid "The folder \"%s\" cannot be opened on \"%s\"."
+msgstr ""
+
+msgid "The folder contents could not be displayed."
+msgstr "ཡིག་ཁུག་ནང་དོན་མངོན་མི་ཐུབ།"
+
+msgid "The font description used for the icons on the desktop."
+msgstr "ཅོག་ངོས་སུ་རིས་རྟགས་ཞིབ་བརྗོད་སྤྱོད་པའི་ཡིག་གཟུགས།"
+
+msgid ""
+"The format of file dates. Possible values are \"locale\", \"iso\", and "
+"\"informal\"."
+msgstr ""
+
+msgid "The geometry string for a navigation window."
+msgstr "ཕྱོགས་ཁྲིད་སྒེའུ་ཁུང་གི་དབྱིབས་ཀྱི་ཡིག་རྟགས་ཕྲེང་།"
+
+msgid "The group could not be changed."
+msgstr "ཚོ་པ་བཅོས་མི་ཐུབ།"
+
+msgid "The group of the file."
+msgstr "ཡིག་ཆའི་ཚོ་ཁག"
+
+msgid "The history location doesn't exist."
+msgstr "ལོ་རྒྱུས་ཀྱི་གནས་ས་མེད་པ།"
+
+msgid "The icon view encountered an error while starting up."
+msgstr "རིས་རྟགས་མཐོང་རིས་མགོ་སློང་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "The icon view encountered an error."
+msgstr "རིས་རྟགས་མཐོང་རིས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "The item cannot be restored from trash"
+msgstr "རྣམ་གྲངས་སྙིགས་སྒམ་ལས་སླར་གསོ་མི་ཐུབ།"
+
+msgid "The item could not be renamed."
+msgstr "རྣམ་གྲངས་མིང་བསྐྱར་འདོགས་བྱ་མི་ཐུབ།"
+
+msgid "The list view encountered an error while starting up."
+msgstr "རེའུ་མིག་མཐོང་རིས་མགོ་སློང་སྐབས་སུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
+
+msgid "The list view encountered an error."
+msgstr "རེའུ་མིག་མཐོང་རིས་ནོར་འཁྲུལ་ལ་འཕྲད།"
+
+msgid "The location \"%s\" does not exist."
+msgstr ""
+
+msgid "The location cannot be displayed with this viewer."
+msgstr "གནས་ས་ལྟ་ཆས་ཀྱིས་མངོན་མི་ཐུབ།"
+
+msgid "The location is not a folder."
+msgstr "གནས་ས་ནི་ཡིག་ཁུག་མིན།"
+
+msgid "The location of the file."
+msgstr "ཡིག་ཆའི་གནས་ས།"
+
+msgid "The media contains digital photos."
+msgstr "བར་རྫས་སུ་ཨང་ཀིའི་འདྲ་པར་འདུས།"
+
+msgid "The media contains software."
+msgstr "བར་རྫས་ལ་མཉེན་ཆས་ཚུད། "
+
+msgid "The media has been detected as \"%s\"."
+msgstr ""
+
+msgid "The mime type of the file."
+msgstr "ཡིག་ཆའི MIME རིགས་གྲས།"
+
+msgid ""
+"The name \"%s\" is already used in this folder. Please use a different name."
+msgstr ""
+
+msgid ""
+"The name \"%s\" is not valid because it contains the special character "
+"\"\\/:*?\"<>\". Please use a different name."
+msgstr ""
+
+msgid "The name \"%s\" is not valid. Please use a different name."
+msgstr ""
+
+msgid "The name and icon of the file."
+msgstr "ཡིག་ཆའི་མིང་དང་རིས་རྟགས།"
+
+msgid "The owner could not be changed."
+msgstr "བདག་པོ་བསྒྱུར་མི་ཐུབ། "
+
+msgid "The owner of the file."
+msgstr "ཡིག་ཆའི་བདག་པོ། "
+
+msgid "The path is empty"
+msgstr "འགྲོ་ལམ་སྟོང་པ་རེད།"
+
+msgid "The permissions could not be changed."
+msgstr "དབང་ཆ་བཅོས་མི་ཐུབ། "
+
+msgid "The permissions of \"%s\" could not be determined."
+msgstr ""
+
+msgid "The permissions of the file, in octal notation."
+msgstr "ཡིག་ཆའི་དབང་ཚད་བརྒྱད་གོང་འགྲིལ་ལུགས་ཀྱིས་མངོན།"
+
+msgid "The permissions of the file."
+msgstr "ཡིག་ཆའི་དབང་ཚད། "
+
+msgid "The permissions of the selected file could not be determined."
+msgstr "བདམས་པའི་ཡིག་ཆའི་དབང་ཚད་གཏན་མི་འཁེལ།"
+
+msgid ""
+"The position of the opposite end of the selection from the cursor in chars."
+msgstr "གདམ་ཁུལ་སྣེ་གཞན་གྱི་གནས་ས་འོད་རྟགས་ནས་ཡིག་རྟགས་ལྟར་གྲངས་བགྲང་།"
+
+msgid "The selection rectangle"
+msgstr "གྲུ་བཞི་ནར་མོའི་འདེམས་ཁུལ།"
+
+msgid "The server at \"%s\" cannot be found."
+msgstr ""
+
+msgid "The side pane view to show in newly opened windows."
+msgstr "ཁ་གསར་བར་ཕྱེ་བའི་སྒེའུ་ཁུང་དུ་མཐའ་ཟུར་སྡེའི་མཐོང་རིས་མངོན།"
+
+msgid "The size of the file."
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་། "
+
+msgid ""
+"The software will run directly from the medium \"%s\". You should never run software that you don't trust.\n"
+"\n"
+"If in doubt, press Cancel."
+msgstr ""
+
+msgid "The source file would be overwritten by the destination."
+msgstr "ཁུངས་ཡིག་ཆ་དམིགས་ཡུལ་གྱིས་ཁེབས་སྲིད།"
+
+msgid "The target doesn't support symbolic links."
+msgstr "འདྲུད་པའི་དམིགས་ཡུལ་གྱིས་མཚོན་རྟགས་སྦྲེལ་མཐུད་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "The text of the label."
+msgstr "གདོང་འཛར་སྟེང་གི་ཡི་གེ"
+
+msgid "The type of the file."
+msgstr "ཡིག་ཆའི་རིགས། "
+
+msgid "There is %S available, but %S is required."
+msgstr "མིག་སྔར་S%ལས་མེད་མོད།འོན་ཀྱང་S%དགོས། "
+
+msgid "There is no \"%s\" in this folder. Perhaps it was just moved or deleted?"
+msgstr ""
+
+msgid "There is no application installed for %s files"
+msgstr "%s ཡིག་ཆ་རིགས་གྲས་ལ་ཉེར་སྤྱོད་བྱ་རིམ་སྒྲིག་འཇུག་བྱེད་མེད།"
+
+msgid ""
+"There is no application installed for %s files.\n"
+"Do you want to search for an application to open this file?"
+msgstr ""
+
+msgid "There is no files which you want"
+msgstr "འཚོལ་བཤེར་ཆ་རྐྱེན་དང་འཚམ་པའི་ཚན་པ་མེད།"
+
+msgid ""
+"There is not enough space on the destination. Try to remove files to make "
+"space."
+msgstr ""
+"དམིགས་ཚད་ཀྱི་གནས་སར་བར་སྟོང་འདང་ངེས་ཤིག་མེད། "
+"ཁྱོད་ཀྱིས་ཡིག་ཆ་འགའ་བསུབ་ནས་བར་སྟོང་ལྷོད་པར་་ཚོད་ལྟ་བྱེད་རོགས། "
+
+msgid "There is nothing on the clipboard to paste."
+msgstr "དྲས་པང་ནང་དུ་སྦྱར་ཆོག་པའི་དངོས་པོ་མེད། "
+
+msgid "There was an error copying the file into %F."
+msgstr "ཡིག་ཆ་ %Fལ་འདྲ་བཟོ་བྱེད་སྐབས་ནོར་བྱུང་།"
+
+msgid "There was an error creating the directory in %F."
+msgstr " %Fནང་དུ་དཀར་ཆག་གསར་བཟོ་བྱེད་སྐབས་ནོར་བྱུང་།"
+
+msgid "There was an error creating the folder \"%B\"."
+msgstr ""
+
+msgid "There was an error creating the symlink in %F."
+msgstr " %Fནང་དུ་མཚོན་རྟགས་འབྲེལ་བ་གསར་བཟོ་བྱེད་དུས་ནོར་བྱུང་།"
+
+msgid "There was an error deleting %B."
+msgstr " %B འདོར་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "There was an error displaying help."
+msgstr "རོགས་རམ་མངོན་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid ""
+"There was an error displaying help: \n"
+"%s"
+msgstr ""
+
+msgid "There was an error getting information about \"%B\"."
+msgstr ""
+
+msgid "There was an error getting information about the destination."
+msgstr "དམིགས་ཡུལ་སྐོར་གྱི་ཆ་འཕྲིན་ཐོབ་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid ""
+"There was an error getting information about the files in the folder \"%B\"."
+msgstr ""
+
+msgid "There was an error launching the application."
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་མགོ་སློང་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "There was an error moving the file into %F."
+msgstr "ཡིག་ཆ་ %Fལ་སྤོ་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "There was an error reading the folder \"%B\"."
+msgstr ""
+
+msgid "There was an internal error trying to search for applications:"
+msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་བཤེར་འཚོལ་ཚོད་ལྟ་བྱེད་སྐབས་ནང་ཁུལ་གྱི་ནོར་འཁྲུལ་བྱུང་།："
+
+msgid "These files are on a Photo CD."
+msgstr "ཡིག་ཆ་འདི་དག་འདྲ་པར CDརུ་གནས།"
+
+msgid "These files are on a Picture CD."
+msgstr "ཡིག་ཆ་འདི་དག་པར་རིས CDརུ་གནས།"
+
+msgid "These files are on a Super Video CD."
+msgstr "ཡིག་ཆ་འདི་དག་རིམ་འདས VCD འོད་སྡེར་དུ་གནས།"
+
+msgid "These files are on a Video CD."
+msgstr "འདི་དག་ VCD འོད་སྡེར་དུ་གནས།"
+
+msgid "These files are on a Video DVD."
+msgstr "ཡིག་ཆ་འདི་དག་ DVD འོད་སྡེར་དུ་གནས།"
+
+msgid "These files are on a digital audio player."
+msgstr "ཡིག་ཆ་འདི་དག་ནི་འཁྱེར་བདེའི་གླུ་དབྱངས་གཏོང་ཆས་སུ་གནས། "
+
+msgid "These files are on an Audio CD."
+msgstr "ཡིག་ཆ་འདི་དག་སྒྲ་ཟློས་CDསྟེང་དུ་ཡོད། "
+
+msgid "These files are on an Audio DVD."
+msgstr "ཡིག་ཆ་འདི་དག་སྒྲ་ཟློས་DVDསྟེང་དུ་ཡོད། "
+
+msgid "This drop target only supports local files."
+msgstr "འདྲུད་འཇོག་འདིས་རང་ས་ཁོ་ནའི་ཡིག་ཆར་རྒྱབ་སྐྱོར་བྱེད།"
+
+msgid "This file cannot be ejected"
+msgstr "ཡིག་ཆ་འདི་འཕར་ཐོན་བྱེད་མི་ཐུབ།"
+
+msgid "This file cannot be mounted"
+msgstr "ཡིག་ཆ་འདི་འགེལ་མི་ཐུབ།"
+
+msgid "This file cannot be started"
+msgstr "ཡིག་ཆ་འདི་མགོ་བརྩམ་མི་ཐུབ།"
+
+msgid "This file cannot be stopped"
+msgstr "ཡིག་ཆ་འདི་ཁ་རྒྱག་མི་ཐུབ།"
+
+msgid "This file cannot be unmounted"
+msgstr "ཡིག་ཆ་འདི་བཤིག་འདོར་བྱེད་མི་ཐུབ་པ།"
+
+msgid "This is disabled due to security considerations."
+msgstr "བདེ་འཇགས་ལ་བསམ་བློ་བཏང་ན།བྱེད་ནུས་འདི་བཀོལ་མི་ཆོག "
+
+msgid ""
+"This is probably because the emblem is a permanent one, and not one that you"
+" added yourself."
+msgstr "རྟགས་མ་འདི་ཡུན་བརྟན་ཡིན་སྲིད་པས། ཁྱེད་རང་གིས་སྣོན་པ་མིན།"
+
+msgid "This link cannot be used, because it has no target."
+msgstr "སྦྲེལ་མཐུད་འདི་བཀོལ་མི་ཐུབ།རྒྱུ་མཚན་ནི་དེ་ལ་དམིགས་ཡུལ་མེད། "
+
+msgid "This link cannot be used, because its target \"%s\" doesn't exist."
+msgstr ""
+
+msgid "This list contains the extensions that are currently de-activated."
+msgstr "རེའུ་མིག་འདིར་མིག་སྔའི་བཀག་པའི་རྒྱ་སྐྱེད་ཚུད་ཡོད།"
+
+msgid ""
+"This name can be set if you want a custom name for the computer icon on the "
+"desktop."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་ཅོག་ངོས་སྟེང་གི་རྩིས་འཁོར་རིས་རྟགས་ལ་མཚན་ཉིད་རང་འཇོག་གི་མིང་ཞིག་གཏན་འཁེལ་བྱེད་འདོད་ན།འདིར་འགོད་རོགས།"
+" "
+
+msgid ""
+"This name can be set if you want a custom name for the home icon on the "
+"desktop."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་ཅོག་ངོས་སྟེང་གི་ཡིག་ཁུག་གཙོའི་རིས་རྟགས་ལ་མཚན་ཉིད་རང་འཇོག་གི་མིང་ཞིག་གཏན་འཁེལ་བྱེད་འདོད་ན།འདིར་འགོད་རོགས།"
+" "
+
+msgid ""
+"This name can be set if you want a custom name for the network servers icon "
+"on the desktop."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་ཅོག་ངོས་སྟེང་གི་དྲ་བའི་ཞབས་ཞུ་ཆས་རིས་རྟགས་ལ་མཚན་ཉིད་རང་འཇོག་གི་མིང་ཞིག་གཏན་འཁེལ་བྱེད་འདོད་ན།འདིར་འགོད་རོགས།"
+" "
+
+msgid ""
+"This name can be set if you want a custom name for the trash icon on the "
+"desktop."
+msgstr ""
+"གལ་ཏེ་ཁྱེད་ཀྱིས་ཅོག་ངོས་སྟེང་གི་སྙིགས་སྒམ་གྱི་རིས་རྟགས་ལ་མཚན་ཉིད་རང་འཇོག་གི་མིང་ཞིག་གཏན་འཁེལ་བྱེད་འདོད་ན།འདིར་འགོད་རོགས།"
+" "
+
+msgid "This will open %'d separate tab."
+msgid_plural "This will open %'d separate tabs."
+msgstr[0] "འདིས་ཁེར་རྐྱང་གི་གདོང་འཛར་%'d ཁ་འབྱེད།"
+msgstr[1] "འདིས་ཁེར་རྐྱང་གི་གདོང་འཛར་%'d ཁ་འབྱེད།"
+
+msgid "This will open %'d separate window."
+msgid_plural "This will open %'d separate windows."
+msgstr[0] "འདིས་ཁེར་རྐྱང་གི་སྒེའུ་ཁུང་%'d ཁ་འབྱེད།"
+msgstr[1] "འདིས་ཁེར་རྐྱང་གི་སྒེའུ་ཁུང་%'d ཁ་འབྱེད།"
+
+msgid "This will open %d separate tab."
+msgid_plural "This will open %d separate tabs."
+msgstr[0] "འདིས་ཁེར་རྐྱང་གི་གདོང་འཛར་%'d ཁ་འབྱེད།"
+msgstr[1] "འདིས་ཁེར་རྐྱང་གི་གདོང་འཛར་%'d ཁ་འབྱེད།"
+
+msgid "This will open %d separate window."
+msgid_plural "This will open %d separate windows."
+msgstr[0] "འདིས་ཁེར་རྐྱང་གི་སྒེའུ་ཁུང་%'d ཁ་འབྱེད།"
+msgstr[1] "འདིས་ཁེར་རྐྱང་གི་སྒེའུ་ཁུང་%'d ཁ་འབྱེད།"
+
+msgid ""
+"To open non-local files copy them to a local folder and then drop them "
+"again."
+msgstr ""
+"རང་ས་མིན་པའི་ཡིག་ཆ་ཁ་འབྱེད་དགོས་ན། "
+"དེ་དག་རང་སའི་ཡིག་ཁུག་ཏུ་འདྲ་བཟོ་བྱས་ནས་དེ་དག་དེ་ལ་འདྲུད།"
+
+msgid ""
+"To open non-local files copy them to a local folder and then drop them "
+"again. The local files you dropped have already been opened."
+msgstr ""
+
+msgid "Toggle between button and text-based location bar"
+msgstr "མཐེབ་གནོན་ཚུལ་དང་ཡིག་རྐྱང་སྒྲོམ་ཚུལ་གྱི་ཤག་གནས་སྡེ་བར་བརྗེ་རེས་བྱེད།"
+
+msgid "Toggle the display of hidden files in the current window"
+msgstr "མིག་སྔའི་སྒེའུ་ཁུང་དུ་སྦེད་པའི་ཡིག་ཆ་མངོན་མིན་བར་དུ་བརྗེ།"
+
+msgid "Toggle using a tighter layout scheme"
+msgstr "ཚགས་ཇེ་དམ་གྱི་བཀོད་པའི་ཇུས་གཞི་བརྗེ་རེས་སྤྱོད་པ།"
+
+msgid "Toplevel files cannot be renamed"
+msgstr "རྩེར་སོན་རིམ་པའི་ཡིག་ཆ་མིང་བསྐྱར་འདོགས་བྱེད་མི་ཐུབ།"
+
+msgid "Total capacity:"
+msgstr "སྤྱིའི་ཤོང་ཚད།"
+
+msgid "Trash"
+msgstr "སྙིགས་སྒམ།"
+
+msgid "Trash icon visible on desktop"
+msgstr "ཅོག་ངོས་སུ་སྙིགས་སྒམ་གྱི་རིས་རྟགས་མངོན་པ།"
+
+msgid "Trashed On"
+msgstr "སྙིགས་སྒམ་དུ་ཞོག"
+
+msgid "Trashing Files"
+msgstr "ཡིག་ཆ་སྙིགས་སྒམ་དུ་སྤོ་བཞིན་ཡོད།"
+
+msgid "Tree"
+msgstr "སྡོང་འགྲེམས།"
+
+msgid "Try Again"
+msgstr "བསྐྱར་ཚོད།"
+
+msgid "Type"
+msgstr "རིགས་གྲས་"
+
+msgid "Type of click used to launch/open files"
+msgstr "ཡིག་ཆའི་ཆིག་རྡེབ་རིགས་གྲས་འདྲེན་སྤྱོད་/ཁ་འབྱེད་ལ་སྤྱོད།"
+
+msgid "Type:"
+msgstr "རིགས་གྲས།"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "U_nlock Drive"
+msgstr "སྒྲོག་གྲོལ་སྒུལ་འཁོར།(_N)"
+
+msgid "Unable to eject %V"
+msgstr ""
+
+msgid "Unable to eject %s"
+msgstr "%sའཕར་ཐོན་བྱ་མི་ཐུབ། "
+
+msgid "Unable to eject location"
+msgstr "གནས་ས་འཕར་ཐོན་བྱ་མི་ཐུབ།"
+
+msgid "Unable to mark launcher trusted (executable)"
+msgstr "སྐུལ་ཆས་ཡིད་རྟོན་རུང་བ་ལ་མཚོན་རྟགས་རྒྱག་མི་ཐུབ།(ལག་བསྟར་རུང་བ།)"
+
+msgid "Unable to mount %s"
+msgstr " %sའགེལ་མི་ཐུབ།"
+
+msgid "Unable to mount location"
+msgstr ""
+
+msgid "Unable to mount the location."
+msgstr "གནས་ས་འགེལ་མི་ཐུབ།"
+
+msgid "Unable to poll %s for media changes"
+msgstr "%s ཡི་བར་རྫས་བཅོས་པ་འཚོལ་མི་ཐུབ།"
+
+msgid "Unable to rename desktop file"
+msgstr "ཅོག་ངོས་ཡིག་ཆ་མིང་བསྐྱར་འདོགས་བྱེད་མི་ཐུབ།"
+
+msgid "Unable to rename desktop icon"
+msgstr "ཅོག་ངོས་རིས་རྟགས་མིང་བསྐྱར་འདོགས་བྱ་མི་ཐུབ།"
+
+msgid "Unable to search for application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འཚོལ་མི་ཐུབ།་"
+
+msgid "Unable to start %s"
+msgstr " %sམགོ་སློང་མི་ཐུབ།"
+
+msgid "Unable to start location"
+msgstr "གནས་ས་མགོ་སློང་མི་ཐུབ།"
+
+msgid "Unable to stop %s"
+msgstr "%sམཚམས་འཇོག་མི་ཐུབ།"
+
+msgid "Unable to stop drive"
+msgstr "སྐུལ་ཆས་མཚམས་འཇོག་མི་ཐུབ།"
+
+msgid "Unable to unmount %V"
+msgstr "%Vབཤིག་འདོར་བྱ་མི་ཐུབ། "
+
+msgid "Unable to unmount %s"
+msgstr "%sབཤིག་འདོར་བྱ་མི་ཐུབ།"
+
+msgid "Unable to unmount %s volume"
+msgstr "སྒྲིལ་%sབཤིག་འདོར་བྱ་མི་ཐུབ།"
+
+msgid "Unable to unmount location"
+msgstr "གནས་ས་བཤིག་འདོར་བྱ་མི་ཐུབ།"
+
+msgid "Undo"
+msgstr "འདོར་བ།"
+
+msgid "Undo change group of %d item"
+msgid_plural "Undo change group of %d items"
+msgstr[0] "ཚན་%dཡི་ཚོ་བཅོས་པ་ཕྱིར་འཐེན།"
+msgstr[1] "ཚན་%dཡི་ཚོ་བཅོས་པ་ཕྱིར་འཐེན།"
+
+msgid "Undo change owner of %d item"
+msgid_plural "Undo change owner of %d items"
+msgstr[0] "ཚན་%dཡི་བདག་པོ་བཅོས་པ་ཕྱིར་འཐེན།"
+msgstr[1] "ཚན་%dཡི་བདག་པོ་བཅོས་པ་ཕྱིར་འཐེན།"
+
+msgid "Undo change permissions of %d item"
+msgid_plural "Undo change permissions of %d items"
+msgstr[0] "ཚན་%dཡི་དབང་ཚད་བཅོས་པ་ཕྱིར་འཐེན།"
+msgstr[1] "ཚན་%dཡི་དབང་ཚད་བཅོས་པ་ཕྱིར་འཐེན།"
+
+msgid "Undo recursive change permissions of %d item"
+msgid_plural "Undo recursive change permissions of %d items"
+msgstr[0] "ཚན་%dཡི་དབང་ཚད་རིམ་ལོག་བཅོས་པ་ཕྱིར་འཐེན།"
+msgstr[1] "ཚན་%dཡི་དབང་ཚད་རིམ་ལོག་བཅོས་པ་ཕྱིར་འཐེན།"
+
+msgid "Undo the last action"
+msgstr "ཐེངས་སྔོན་གྱི་བཀོལ་སྤྱོད་ཕྱིར་འཐེན།"
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unlock the drive associated with the open folder"
+msgstr "ཁ་ཕྱེའི་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྐུལ་ཆས་སྒྲོག་ལེན་པ།"
+
+msgid "Unlock the selected drive"
+msgstr "བདམས་པའི་སྒྲིལ་སྒྲོག་སྒྲོལ།"
+
+msgid "Unmount the selected volume"
+msgstr "བདམས་པའི་སྒྲིལ་བཤིག་འདོན།"
+
+msgid "Unmount the volume associated with the open folder"
+msgstr "ཁ་ཕྱེའི་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྒྲིལ་བཤིག་འདོན།"
+
+msgid "Unmount the volume associated with this folder"
+msgstr "ཡིག་ཁུག་དང་འབྲེལ་བའི་སྒྲིལ་བཤིག་འདོན།"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "ཅོག་ངོས་ཡིག་ཆ་པར་གཞི་“%s”ངོས་འཛིན་མི་ཐུབ།"
+
+msgid "Unrecognized launch option: %d"
+msgstr "མགོ་སློང་འདེམས་ཚན་%dངོས་འཛིན་མི་ཐུབ།"
+
+msgid "Untrusted application launcher"
+msgstr "ཡིད་རྟོན་མེད་པའི་ཉེར་སྤྱོད་བྱ་རིམ་སྐུལ་ཆས།"
+
+msgid ""
+"Uri of the default folder background. Only used if background_set is true."
+msgstr ""
+"སོར་བཞག་ཡིག་ཁུག་རྒྱབ་ལྗོངས་ཀྱི་URI  "
+"background_setནི་trueཁོ་ན་ཡིན་སྐབས་སྤྱོད།"
+
+msgid ""
+"Uri of the default side pane background. Only used if "
+"side_pane_background_set is true."
+msgstr ""
+"སོར་བཞག་མཐའ་ཟུར་སྡེའི་རྒྱབ་ལྗོངས་ཀྱི་URI  "
+"side_pane_background_setནི་trueཁོ་ན་ཡིན་སྐབས་སྤྱོད།"
+
+msgid "Use \"%s\" to open the selected item"
+msgid_plural "Use \"%s\" to open the selected items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Use De_fault"
+msgstr "སོར་བཞག་ཚད་སྤྱོད།(_F)"
+
+msgid "Use _Default Background"
+msgstr "སོར་བཞག་རྒྱབ་ལྗོངས་སྤྱོད།(_D)"
+
+msgid "Use extra mouse button events in Caja' browser window"
+msgstr " Caja རགས་ལྟ་སྒེའུ་ཁུང་དུ་ཙིག་རྟགས་དོན་རྐྱེན་ལྷག་མ་སྤྱོད།"
+
+msgid "Use the normal view size"
+msgstr "སྤྱིར་བཏང་ཆེ་ཆུང་གི་མཐོང་རིས་སྤྱོད།"
+
+msgid "Use tighter layout in new windows"
+msgstr "གསར་བཟོའི་སྒེའུ་ཁུང་དུ་ཚགས་དམ་བཀོད་པ་སྤྱོད།"
+
+msgid "User Details"
+msgstr "སྤྱོད་མཁན་གྱི་ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+
+msgid "User Name:"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་།："
+
+msgid "Video"
+msgstr "བརྙན་ཟློས།"
+
+msgid "View <b>_new folders</b> using:"
+msgstr ""
+
+msgid "View of the current folder"
+msgstr "མིག་སྔའི་ཡིག་ཁུག་གི་མཐོང་རིས།"
+
+msgid "View or modify the properties of each selected item"
+msgstr "བདམས་པའི་རྣམ་གྲངས་སོ་སོའི་གཏོགས་གཤིས་ལ་ལྟར་བའམ་བཟོ་བཅོས་བྱེད་པ།"
+
+msgid "View or modify the properties of the open folder"
+msgstr "བདམས་པའི་ཡིག་ཁུག་གི་གཏོགས་གཤིས་ལ་ལྟར་བའམ་བཟོ་བཅོས་བྱེད་པ།"
+
+msgid "View or modify the properties of this folder"
+msgstr "ཡིག་ཁུག་འདིའི་གཏོགས་གཤིས་ལ་ལྟར་བའམ་བཟོ་བཅོས་བྱེད་པ།"
+
+msgid "Views"
+msgstr "མཐོང་རིས།"
+
+msgid "Violet"
+msgstr "ཙི་རོ་ལན་མདོག"
+
+msgid "Visible _Columns..."
+msgstr "མཐོང་རུང་སྟར་(_C)...དེའི་མཐོང་སྟངས།（C）"
+
+msgid "Volume Label:"
+msgstr "སྒྲིལ་རྟགས།："
+
+msgid "Volume:"
+msgstr "སྒྲ་ཚད།"
+
+msgid "Warning"
+msgstr "ཐ་ཚིག "
+
+msgid "Wavy White"
+msgstr "རླབས་རིས་དཀར་པོ།"
+
+msgid "WebDAV (HTTP)"
+msgstr "WebDAV(HTTP)"
+
+msgid "Wednesday, September 00 0000 at 00:00:00 PM"
+msgstr "0000ལོའི་ཟླ9ཚེས་0ཉིན། གཟའ་ལྷག་པ།00:00:00"
+
+msgid "What to do with executable text files when activated"
+msgstr "སྐུལ་སློང་བྱེད་སྐབས་ལག་བསྟར་ཡིག་རྐྱང་ཡིག་ཆ་ཇི་ལྟར་འཛིན་དགོས།"
+
+msgid ""
+"What to do with executable text files when they are activated (single or "
+"double clicked). Possible values are \"launch\" to launch them as programs, "
+"\"ask\" to ask what to do via a dialog, and \"display\" to display them as "
+"text files."
+msgstr ""
+
+msgid ""
+"When a folder is visited this viewer is used unless you have selected "
+"another view for that particular folder. Possible values are \"list-view\", "
+"\"icon-view\" and \"compact-view\"."
+msgstr ""
+
+msgid "When to show number of items in a folder"
+msgstr "ཡིག་ཁུག་ཏུ་རྣམ་གྲངས་གྲངས་ཇི་ལྟར་མངོན།"
+
+msgid "When to show preview text in icons"
+msgstr "དུས་ནམ་རིས་རྟགས་སུ་སྔོན་ལྟ་ཡི་གེ་མངོན་པ།"
+
+msgid "When to show thumbnails of image files"
+msgstr "དུས་ནམ་པར་རིས་ཡིག་ཆའི་སྐུང་རིས་མངོན་པ།"
+
+msgid "Where to position newly open tabs in browser windows."
+msgstr "བཤར་ཆས་སྒེའུ་ཁུང་དུ་ཁ་ཕྱེའི་གདོང་འཛར་ཇི་ལྟར་མངོན་པ།"
+
+msgid "Whether a custom default folder background has been set."
+msgstr "མཚན་ཉིད་རང་འཇོག་གི་སོར་བཞག་ཡིག་ཁུག་གི་རྒྱབ་ལྗོངས་བཀོད་ཡོད་མིན།"
+
+msgid "Whether a custom default side pane background has been set."
+msgstr "མཚན་ཉིད་རང་འཇོག་གི་སོར་བཞག་མཐའ་ཟུར་སྡེའི་རྒྱབ་ལྗོངས་བཀོད་ཡོད་མིན།"
+
+msgid "Whether the navigation window should be maximized by default."
+msgstr "སོར་བཞག་གི་ཕྱོགས་ཁྲིད་སྒེའུ་ཁུང་ཆེ་ཤོས་འཛིན་མིན།"
+
+msgid "Whether the navigation window should be maximized."
+msgstr "ཕྱོགས་ཁྲིད་སྒེའུ་ཁུང་ཆེ་ཤོས་འཛིན་མིན།"
+
+msgid "Whether to ask for confirmation when deleting files, or emptying Trash"
+msgstr ""
+"ཡིག་ཆ་འདོར་བའང་སྙིགས་སྒམ་གཙང་སེལ་བྱེད་དུས་གཏན་འཁེལ་རེ་ཞུ་བྱེད་དགོས་མིན།"
+
+msgid "Whether to automatically mount media"
+msgstr "བར་རྫས་རང་འགེལ་བྱེད་མིན།"
+
+msgid "Whether to automatically open a folder for automounted media"
+msgstr "རང་འགེལ་བྱེད་པའི་བར་རྫས་ལ་ཡིག་ཁུག་རང་འབྱེད་བྱེད་དགོས་མིན།"
+
+msgid "Whether to enable immediate deletion"
+msgstr "ལམ་སེང་འདོར་བ་མགོ་སློང་དགོས་མིན།"
+
+msgid "Whether to preview sounds when mousing over an icon"
+msgstr "ཙིག་རྟགས་རིས་རྟགས་སུ་སྟོན་སྐབས་སྒྲ་སྔོན་ལྟ་བྱེད་དགོས་མིན།"
+
+msgid "Whether to show file sizes with IEC units"
+msgstr "འཇལ་བྱེད་ IECབྱས་ནས་ཡིག་ཆའི་ཆེ་ཆུང་མངོན་དགོས་མིན།"
+
+msgid "Whether to show hidden files"
+msgstr "སྦེད་པའི་ཡིག་ཆ་མངོན་དགོས་མིན།"
+
+msgid ""
+"Whether to show the user a package installer dialog in case an unknown mime "
+"type is opened, in order to search for an application to handle it."
+msgstr ""
+
+msgid "White"
+msgstr "དཀར་པོ།"
+
+msgid "White Ribs"
+msgstr "ཟུར་ཐིག་དཀར་པོ།"
+
+msgid "Width of the side pane"
+msgstr "མཐའ་ཟུར་སྡེའི་ཞེང་ཚད།"
+
+msgid "Windows share"
+msgstr "Windowsམཉམ་སྤྱོད།"
+
+msgid "X"
+msgstr "X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "You are not the owner, so you cannot change these permissions."
+msgstr "ཁྱེད་རང་བདག་པོ་མ་རེད། དེ་བས་ཁྱེད་ཀྱིས་དེ་དག་གི་དབང་ཆ་བཅོས་མི་ཉན། "
+
+msgid "You can choose another view or go to a different location."
+msgstr "ཁྱེད་ཀྱིས་མཐོང་རིས་གཞན་དག་འདེམ་པའམ་གནས་ས་གཞན་ཞིག་ལ་སྤོ་ཆོག"
+
+msgid "You can download it or make a link to it."
+msgstr "ཁྱོད་ཀྱིས་གནས་འདི་ཕབ་ཆོག་ལ་ཡང་ན་དེར་བསྟན་པའི་སྦྲེལ་མཐུད་བཟོ་ཆོག "
+
+msgid "You can only use images as custom icons."
+msgstr "ཁྱེད་ཀྱིས་པར་རིས་ཡིག་ཆ་ཁོ་ན་སྤྱད་ནས་རང་གཏན་འཁེལ་གྱི་རིས་རྟགས་བྱ།"
+
+msgid "You can only use local images as custom icons."
+msgstr "ཁྱེད་ཀྱིས་རང་སའི་པར་རིས་ཡིག་ཆ་སྤྱད་ནས་རང་གཏན་འཁེལ་གྱི་རིས་རྟགས་བྱ།"
+
+msgid "You can stop this operation by clicking cancel."
+msgstr "ཁྱེད་ཀྱིས་ལེན་པ་ལ་ཆིག་རྡེབ་བྱས་ནས་བཀོལ་སྤྱོད་འདི་མཚམས་འཇོག་ཐུབ།"
+
+msgid "You cannot assign more than one custom icon at a time!"
+msgstr "ཁྱེད་ཀྱིས་ཐེངས་གཅིག་ལ་རིས་རྟགས་མང་པོ་གཏན་འཁེལ་བྱ་མི་ཐུབ།"
+
+msgid "You cannot assign more than one custom icon at a time."
+msgstr "ཁྱེད་ཀྱིས་ཐེངས་གཅིག་ལ་རིས་རྟགས་མང་པོ་གཏན་འཁེལ་བྱ་མི་ཐུབ།"
+
+msgid "You cannot copy a file over itself."
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཁུག་རང་ནང་དུ་འདྲ་བཟོ་བྱ་མི་ཐུབ།"
+
+msgid "You cannot copy a folder into itself."
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཁུག་རང་ནང་དུ་འདྲ་བཟོ་བྱ་མི་ཐུབ།"
+
+msgid "You cannot move a file over itself."
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཁུག་རང་ནང་དུ་སྤོ་མི་ཐུབ།"
+
+msgid "You cannot move a folder into itself."
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཁུག་རང་ནང་དུ་སྤོ་མི་ཐུབ།"
+
+msgid "You cannot move the volume \"%s\" to the trash."
+msgstr ""
+
+msgid "You do not have permissions to access the destination folder."
+msgstr "ཁྱེད་ལ་དམིགས་ཡུལ་ལྟ་སྤྱོད་ཀྱི་དབང་ཚད་མེད།"
+
+msgid "You do not have the permissions necessary to change the group of \"%s\"."
+msgstr ""
+
+msgid "You do not have the permissions necessary to rename \"%s\"."
+msgstr ""
+
+msgid "You do not have the permissions necessary to view the contents of \"%s\"."
+msgstr ""
+
+msgid "You have just inserted a Photo CD."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟ་འདྲ་པར་CDནང་དུ་བཅུག "
+
+msgid "You have just inserted a Picture CD."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟ་པར་རིས་CDནང་དུ་བཅུག "
+
+msgid "You have just inserted a Super Video CD."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟ་རིམ་འདས་VCDའོད་སྡེར་ནང་དུ་བཅུག "
+
+msgid "You have just inserted a Video CD."
+msgstr "ཁྱོད་ཀྱིས་ད་ལྟ་VCDའོད་སྡེར་བཅུག "
+
+msgid "You have just inserted a Video DVD."
+msgstr "ཁྱོད་ཀྱིས་ད་ལྟ་DVDའོད་སྡེར་ནང་དུ་བཅུག "
+
+msgid "You have just inserted a blank Blu-Ray disc."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟ་འོད་སྔོན་འོད་སྡེར་ནང་དུ་བཅུག "
+
+msgid "You have just inserted a blank CD."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟCDསྟོང་བ་ནང་དུ་བཅུག "
+
+msgid "You have just inserted a blank DVD."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟDVDསྟོང་བ་ནང་དུ་བཅུག "
+
+msgid "You have just inserted a blank HD DVD."
+msgstr "ཁྱོད་ཀྱིས་ད་ལྟHDDVDསྟོང་བ་བཅུག། "
+
+msgid "You have just inserted a digital audio player."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟ་འཁྱེར་བདེའི་གཞས་གཏོང་འཕྲུལ་ཆས་བཅུག"
+
+msgid "You have just inserted a medium with digital photos."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟ་ཨང་ཀིའི་འདྲ་པར་གྱི་བར་རྫས་ནང་དུ་བཅུག "
+
+msgid ""
+"You have just inserted a medium with software intended to be automatically "
+"started."
+msgstr "ཁྱེད་ཀྱིས་ད་ལྟ་ལམ་སེང་མགོ་རང་སློང་གི་མཉེན་ཆས་ཀྱི་བར་རྫས་ནང་དུ་བཅུག "
+
+msgid "You have just inserted a medium."
+msgstr "ཁྱོད་ཀྱིས་ད་ལྟ་བར་རྫས་ནང་དུ་བཅུག "
+
+msgid "You have just inserted an Audio CD."
+msgstr "ཁྱོད་ཀྱིས་ད་ལྟ་སྒྲ་ཟློས་CDནང་དུ་བཅུག "
+
+msgid "You have just inserted an Audio DVD."
+msgstr "ཁྱོད་ཀྱིས་ད་ལྟ་སྒྲ་ཟློས་DVDནང་དུ་བཅུག "
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" Caja; if not, write to the Free Software Foundation, Inc., 51 Franklin "
+"Street, Fifth Floor, Boston, MA 02110-1301 USA"
+msgstr ""
+
+msgid "Zoom"
+msgstr "སྐྱེད་སྐྱུང་།"
+
+msgid "Zoom In"
+msgstr "ཆེར་སྐྱེད།"
+
+msgid "Zoom Out"
+msgstr "ཆུང་སྐྱུང་།"
+
+msgid "Zoom _In"
+msgstr "ཆེར་སྐྱེད།(_I)"
+
+msgid "Zoom _Out"
+msgstr "ཆུང་སྐྱུང་།(_O)"
+
+msgid "Zoom to Default"
+msgstr "སོར་བཞག་ཚད་དུ་སྐྱེད་སྐྱུང་བྱེད།"
+
+msgid "[URI...]"
+msgstr "[URI...]"
+
+msgid "_About"
+msgstr "ཐད།(_A)"
+
+msgid "_About Extension"
+msgstr "རྒྱ་སྐྱེད་འབྲེལ་ཡོད།(_A)"
+
+msgid "_Add"
+msgstr "སྣོན་པ། (_A)"
+
+msgid "_Add Bookmark"
+msgstr "དཔེ་བྱང་སྣོན་པ། (_A)"
+
+msgid "_Add a New Color..."
+msgstr "ཁ་དོག་གསར་བ་སྣོན་པ།(_A)..."
+
+msgid "_Add a New Emblem..."
+msgstr "རྟགས་མ་གསར་བ་སྣོན་པ།(_A)..."
+
+msgid "_Add a New Pattern..."
+msgstr "དཔེ་རིས་གསར་བ་སྣོན་པ།(_A)..."
+
+msgid "_Add to the start menu"
+msgstr "མགོ་རྩོམ་འདེམས་བྱང་དུ་སྣོན་པ།"
+
+msgid "_Always perform this action"
+msgstr "རྟག་པར་དུ་བཀོལ་སྤྱོད་འདི་ལག་བསྟར་བྱེད།(_A)"
+
+msgid "_Ask each time"
+msgstr "ཐེངས་རེར་འདྲི་བ།(_A)"
+
+msgid "_Back"
+msgstr "ཕྱིར་ནུར།(_B)"
+
+msgid "_Backgrounds and Emblems..."
+msgstr "རྒྱབ་ལྗོངས་དང་རྟགས་མ།(_B)..."
+
+msgid "_Bookmarks"
+msgstr "དཔེ་བྱང་། (_B)"
+
+msgid "_Browse Folder"
+msgid_plural "_Browse Folders"
+msgstr[0] "ཡིག་ཁུག་རགས་ལྟ།(_B)"
+msgstr[1] "ཡིག་ཁུག་རགས་ལྟ།(_B)"
+
+msgid "_Browse..."
+msgstr "རགས་ལྟ།(_B)..."
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག(_C)"
+
+msgid "_Close Tab"
+msgstr "གདོང་འཛར་ཁ་རྒྱག(_C)"
+
+msgid "_Compact"
+msgstr "ཚགས་དམ།(_C)"
+
+msgid "_Computer"
+msgstr "ངའི་གློག་ཀླད།(_C)"
+
+msgid "_Connect"
+msgstr "འབྲེལ་མཐུད།(_C)"
+
+msgid "_Connect Drive"
+msgstr "འབྲེལ་མཐུད་སྐུལ་ཆས།(_C)"
+
+msgid "_Contents"
+msgstr "དཀར་ཆག(_C)"
+
+msgid "_Copy Here"
+msgstr "གནས་འདིར་འདྲ་བཟོ།(_C)"
+
+msgid "_DVD Video:"
+msgstr "_DVD བརྙན་ཟློས།："
+
+msgid "_Default zoom level:"
+msgstr "སོར་བཞག་སྐྱེད་སྐྱུང་གི་རིམ་པ།(_D)："
+
+msgid "_Delete"
+msgstr "འདོར་བ།"
+
+msgid "_Delete Permanently"
+msgstr "བརྟན་འདོར།(_D)"
+
+msgid "_Desktop"
+msgstr "ཅོག་ངོས།(_D)"
+
+msgid "_Detailed Icons"
+msgstr "རིས་རྟགས་ཞིབ་ཕྲ།(_D)"
+
+msgid "_Detect Media"
+msgstr "སྨྱན་གཟུགས་འདོར་བ།(_D)"
+
+msgid "_Disconnect"
+msgstr "གཅོད་པ།(_D)"
+
+msgid "_Disconnect Drive"
+msgstr "སྐུལ་ཆས་གཅོད་པ།(_D)"
+
+msgid "_Display"
+msgstr "མངོན་པ།(_D)"
+
+msgid "_Double click to open items"
+msgstr "ཉིས་རྡེབ་སྐབས་སུ་རྣམ་གྲངས་ཁ་འབྱེད།(_D)"
+
+msgid "_Download"
+msgstr "ཕབ་ལེན།(_D)"
+
+msgid "_Edit"
+msgstr "རྩོམ་སྒྲིག(_E)"
+
+msgid "_Edit Bookmarks..."
+msgstr "དཔེ་བྱང་རྩོམ་སྒྲིག(_E)..."
+
+msgid "_Eject"
+msgstr "འཕར་ཐོན།(_E)"
+
+msgid "_Emblems"
+msgstr "རྟགས་མ།(_E)"
+
+msgid "_Empty File"
+msgstr "ཡིག་རྐྱང་ཡིག་ཚགས།(_E)"
+
+msgid "_File"
+msgstr "ཡིག་ཆ།(_F)"
+
+msgid "_Folder:"
+msgstr "ཡིག་ཁུག(_F)："
+
+msgid "_Force Delete"
+msgstr "བཙན་འདོར།(_F)"
+
+msgid "_Format"
+msgstr "རྣམ་གཞག་ཅན་དུ་སྒྱུར།(_F)"
+
+msgid "_Format:"
+msgstr "རྣམ་གཞག(_F)："
+
+msgid "_Forward"
+msgstr "མདུན་སྐྱོད།(_F)"
+
+msgid "_Go"
+msgstr "སྒྱུར།(_G)"
+
+msgid "_Group:"
+msgstr "ཚོགས་ཚོ།(_G)："
+
+msgid "_Help"
+msgstr "རོགས་རམ།(_H)"
+
+msgid "_Home"
+msgstr "ཡིག་ཁུག་གཙོ།(_H)"
+
+msgid "_Home Folder"
+msgstr "ཡིག་ཁུག་གཙོ།(_H)"
+
+msgid "_Icons"
+msgstr "རིས་རྟགས།(_I)"
+
+msgid "_Image:"
+msgstr "པར་རིས།(_I)："
+
+msgid "_Invert Selection"
+msgstr "ལྡོག་འདེམས།(_I)"
+
+msgid "_Keep Aligned"
+msgstr "སྙོམས་སྒྲིག་རང་ཉར།(_K)"
+
+msgid "_Keyword:"
+msgstr "གནད་ཚིག(_K)："
+
+msgid "_Launch Anyway"
+msgstr "ད་དུང་མགོ་སློང་།(_L)"
+
+msgid "_Link Here"
+msgstr "གནས་འདིར་སྦྲེལ་མཐུད་གསར་བཟོ།(_L)"
+
+msgid "_List"
+msgstr "རེའུ་མིག(_L)"
+
+msgid "_Location..."
+msgstr ""
+
+msgid "_Location:"
+msgstr "གནས་ས(_L)："
+
+msgid "_Lock Drive"
+msgstr "སྐུལ་ཆས་སྒྲོག་པ།(_L)"
+
+msgid "_Main Toolbar"
+msgstr "ལག་ཆའི་སྡེ་གཙོ།(_M)"
+
+msgid "_Manually"
+msgstr "ལག་འགུལ།(_M)"
+
+msgid "_Merge"
+msgstr "ཟླ་སྒྲིལ།(_M)"
+
+msgid "_Mount"
+msgstr "འགེལ་བ།(_M)"
+
+msgid "_Move Here"
+msgstr "གནས་འདིར་སྤོ།(_M)"
+
+msgid "_Music Player:"
+msgstr "གླུ་གཞས་གཏོང་ཆས།(_M)："
+
+msgid "_Name:"
+msgid_plural "_Names:"
+msgstr[0] "མིང་།(_N)："
+msgstr[1] "མིང་།(_N)："
+
+msgid "_Network"
+msgstr "དྲ་བ།(_N)"
+
+msgid "_Never prompt or start programs on media insertion"
+msgstr "བར་རྫས་ནང་འཇུག་སྐབས་སུ་གསལ་སྟོན་ཡང་ན་བྱ་རིམ་མགོ་སློང་མི་བྱེད།(_N)"
+
+msgid "_New Tab"
+msgstr "གདོང་འཛར་ལྡེབ་གསར་བཟོ་མི་བྱེད།(_N)"
+
+msgid "_Next Tab"
+msgstr "གདོང་འཛར་ངོས་རྗེས་མ།(_N)"
+
+msgid "_Only for files smaller than:"
+msgstr "བསྟན་པའི་ཡིག་ཆའི་ཆེ་ཆུང་ལས་ཆུང་བ་ཁོ་ན་མངོན།(_O)："
+
+msgid "_Open"
+msgstr "ཁ་འབྱེད་། (_O)"
+
+msgid "_Open Scripts Folder"
+msgstr "ཞབས་དེབ་ཡིག་ཁུག་ཁ་འབྱེད།(_O)"
+
+msgid "_Open With %s"
+msgstr " %sསྤྱོད་ནས་ཁ་འབྱེད།(_O)"
+
+msgid "_Organize Desktop by Name"
+msgstr "མིང་ལྟར་ཅོག་ངོས་རྩ་འཛུགས།(_O)"
+
+msgid "_Organize by Name"
+msgstr "མིང་ལྟར་རྩ་འཛུགས།(_O)"
+
+msgid "_Other pane"
+msgstr "སྒེའུ་ཁུང་གཞན་ཞིག(_O)"
+
+msgid "_Owner:"
+msgstr "བདག་པོ།(_O)："
+
+msgid "_Paste Into Folder"
+msgstr "ཡིག་ཁུག་ལ་སྦྱར།(_P)"
+
+msgid "_Pattern:"
+msgstr "རྣམ་པ།(_P)："
+
+msgid "_Patterns"
+msgstr "དཔེ་རིས།(_P)"
+
+msgid "_Photos:"
+msgstr "འདྲ་པར།(_P)："
+
+msgid "_Places"
+msgstr "གནས་ས།(_P)"
+
+msgid "_Port:"
+msgstr "མཐུད་ཁ།(_P)："
+
+msgid "_Power On"
+msgstr "གློག་ཁུངས་འབྱེད།(_P)"
+
+msgid "_Previous Tab"
+msgstr "གདོང་འཛར་སྔར་མ་བོ།(_P)"
+
+msgid "_Properties"
+msgstr "གཏོགས་གཤིས།(_P)"
+
+msgid "_Read"
+msgstr "ཀློག་ལེན།(_R)"
+
+msgid "_Record CD"
+msgstr "འོད་སྡེར་ཕབ་བ།(_R)"
+
+msgid "_Redo"
+msgstr "བསྐྱར་ལས།(_R)"
+
+msgid "_Redo copy of %d item"
+msgid_plural "_Redo copy of %d items"
+msgstr[0] "ཚན་ %dའདྲ་བཟོ་བསྐྱར་ལས།(_R)"
+msgstr[1] "ཚན་ %dའདྲ་བཟོ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo create link to %d item"
+msgid_plural "_Redo create link to %d items"
+msgstr[0] "ཚན་ %dལ་བསྟན་པའི་སྦྲེལ་མཐུད་གསར་བཟོ་བསྐྱར་ལས།(_R)"
+msgstr[1] "ཚན་ %dལ་བསྟན་པའི་སྦྲེལ་མཐུད་གསར་བཟོ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo creation of %d folder"
+msgid_plural "_Redo creation of %d folders"
+msgstr[0] "ཡིག་ཁུག%d གསར་བཟོ་བསྐྱར་ལས།(_R)"
+msgstr[1] "ཡིག་ཁུག%d གསར་བཟོ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo creation of a file from template"
+msgstr "མ་དཔེ་ལས་ཡིག་ཆ་གསར་བཟོ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo creation of an empty file"
+msgstr "ཡིག་ཆ་སྟོང་བ་གསར་བཟོ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo delete of %d item"
+msgid_plural "_Redo delete of %d items"
+msgstr[0] "ཚན་%d འདོར་བ་བསྐྱར་ལས།(_R)"
+msgstr[1] "ཚན་%d འདོར་བ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo duplicate of %d item"
+msgid_plural "_Redo duplicate of %d items"
+msgstr[0] "རང་སར་ཚན %dའདྲ་བཟོ་བསྐྱར་ལས།(_R)"
+msgstr[1] "རང་སར་ཚན %dའདྲ་བཟོ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo move of %d item"
+msgid_plural "_Redo move of %d items"
+msgstr[0] "ཚན%dསྤོ་བ་བསྐྱར་ལས།(_R)"
+msgstr[1] "ཚན%dསྤོ་བ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo move to trash of %d item"
+msgid_plural "_Redo move to trash of %d items"
+msgstr[0] "ཚན %dསྙིགས་སྒམ་དུ་སྤོ་བ་བསྐྱར་ལས།(_R)"
+msgstr[1] "ཚན %dསྙིགས་སྒམ་དུ་སྤོ་བ་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo rename of %d item"
+msgid_plural "_Redo rename of %d items"
+msgstr[0] "ཚན%dམིང་བསྐྱར་འདོགས་བསྐྱར་ལས།(_R)"
+msgstr[1] "ཚན%dམིང་བསྐྱར་འདོགས་བསྐྱར་ལས།(_R)"
+
+msgid "_Redo restore from trash of %d item"
+msgid_plural "_Redo restore from trash of %d items"
+msgstr[0] "སྙིགས་སྒམ་ལས་ཚན་%dསླར་གསོ་བསྐྱར་ལས།(_R)"
+msgstr[1] "སྙིགས་སྒམ་ལས་ཚན་%dསླར་གསོ་བསྐྱར་ལས།(_R)"
+
+msgid "_Reload"
+msgstr " བསྐྱར་འགེལ།(_R)"
+
+msgid "_Remember this application for \"%s\" files"
+msgstr ""
+
+msgid "_Remember this application for %s documents"
+msgstr "%s རིགས་གྲས་ཡིག་ཆ་ཁ་འབྱེད་སྤྱོད་པའི་བྱ་རིམ་ཡིད་ལ་བཟུང་།(_R)"
+
+msgid "_Remove a Color..."
+msgstr "ཁ་དོག་འདོར་བ།(_R)..."
+
+msgid "_Remove a Pattern..."
+msgstr "རི་མོ་འདོར་བ།(_R)..."
+
+msgid "_Remove an Emblem..."
+msgstr "རྟགས་མ་འདོར་བ།(_R)..."
+
+msgid "_Remove..."
+msgstr "སྤོ་བ།(_R)..."
+
+msgid "_Rename..."
+msgstr "མིང་བསྐྱར་འདོགས།(_R)..."
+
+msgid "_Replace"
+msgstr "ཚབ་བརྗེ།(_R)"
+
+msgid "_Restore"
+msgstr "སླར་གསོ།(_R)"
+
+msgid "_Retry"
+msgstr "བསྐྱར་ཚོད།(_R)"
+
+msgid "_Run"
+msgstr "འཁོར་སྐྱོད།(_R)"
+
+msgid "_Run executable text files when they are opened"
+msgstr "ཁ་འབྱེད་སྐབས་སུ་ལག་བསྟར་རུང་བའི་ཡིག་རྐྱང་ཡིག་ཆ་འཁོར་སྐྱོད།(_R)"
+
+msgid "_Safely Remove Drive"
+msgstr "བདེ་འཇགས་ཀྱིས་སྐུལ་ཆས་འདོར་བ།(_S)"
+
+msgid "_Scripts"
+msgstr "ཞབས་དེབ།(_S)"
+
+msgid "_Search"
+msgstr "འཚོལ་བཤེར།(_S)"
+
+msgid "_Search for Files..."
+msgstr "ཡིག་ཆ་འཚོལ་བཤེར།(_S)..."
+
+msgid "_Search for:"
+msgstr "འཚོལ་བཤེར།(_S)："
+
+msgid "_Select Application"
+msgstr "བྱ་རིམ་འདེམ་པ།(_S)"
+
+msgid "_Server:"
+msgstr "ཞབས་ཞུ་ཆས།(_S)："
+
+msgid "_Show file sizes with IEC units"
+msgstr "འཇལ་བྱེད་IECཡིས་ཡིག་ཆའི་ཆེ་ཆུང་མངོན་པ།(_S "
+
+msgid "_Side Pane"
+msgstr "མཐའ་ཟུར་སྡེ།(_S)"
+
+msgid "_Single click to open items"
+msgstr "ཆིག་རྡེབ་སྐབས་སུ་རྣམ་གྲངས་ཁ་འབྱེད།(_S)"
+
+msgid "_Skip"
+msgstr "མཆོང་བ།(_S)"
+
+msgid "_Skip files"
+msgstr "ཡིག་ཆ་མཆོང་བ།(_S)"
+
+msgid "_Software:"
+msgstr "མཉེན་ཆས།(_S)："
+
+msgid "_Start"
+msgstr "མགོ་རྩོམ།(_S)："
+
+msgid "_Start Multi-disk Device"
+msgstr "སྡུད་སྡེར་མང་པོའི་སྒྲིག་ཆས་མགོ་སློང་།(_S)"
+
+msgid "_Start Multi-disk Drive"
+msgstr "སྡུད་སྡེར་མང་པོའི་སྐུལ་ཆས་མགོ་སློང་།(_S)"
+
+msgid "_Sticky"
+msgstr "ཟུར་འབྱར།(_S)"
+
+msgid "_Stop"
+msgstr "མཚམས་འཇོག(_S)"
+
+msgid "_Stop Multi-disk Device"
+msgstr "སྡུད་སྡེར་མང་པོ་སྒྲིག་ཆས་མཚམས་འཇོག(_S)"
+
+msgid "_Stop Multi-disk Drive"
+msgstr "སྡུད་སྡེར་མང་པོ་སྐུལ་ཆས་མཚམས་འཇོག(_S)"
+
+msgid "_Stop the drive associated with the open folder"
+msgstr "ཁ་ཕྱེའི་ཡིག་ཁུག་དང་འབྲེལ་བའི་སྐུལ་ཆས་མཚམས་འཇོག(_S)"
+
+msgid "_Tabs"
+msgstr "གདོང་འཛར།(_T)"
+
+msgid "_Text beside icons"
+msgstr "ཡི་གེ་ནི་རིས་རྟགས་ཟུར་དུ་ཡོད།(_T)"
+
+msgid "_Tool"
+msgstr "ལག་ཆ།(_T)"
+
+msgid "_Trash"
+msgstr "སྙིགས་སྒམ།(_T)"
+
+msgid "_Type:"
+msgstr "རིགས་གྲས།(_T)："
+
+msgid "_Undo"
+msgstr "ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo copy of %d item"
+msgid_plural "_Undo copy of %d items"
+msgstr[0] "ཚན %dའདྲ་བཟོ་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "ཚན %dའདྲ་བཟོ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo create link to %d item"
+msgid_plural "_Undo create link to %d items"
+msgstr[0] "ཚན%dསྟོན་པའི་སྦྲེལ་མཐུད་གསར་བཟོ་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "ཚན%dསྟོན་པའི་སྦྲེལ་མཐུད་གསར་བཟོ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo creation of %d folder"
+msgid_plural "_Undo creation of %d folders"
+msgstr[0] "ཡིག་ཁུག %dགསར་བཟོ་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "ཡིག་ཁུག %dགསར་བཟོ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo creation of a file from template"
+msgstr "མ་དཔེ་ལས་ཡིག་ཆ་གསར་བཟོ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo creation of an empty file"
+msgstr "ཡིག་ཆ་སྟོང་བ་གསར་བཟོ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo delete of %d item"
+msgid_plural "_Undo delete of %d items"
+msgstr[0] "ཚན་ %d འདོར་བ་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "ཚན་ %d འདོར་བ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo duplicate of %d item"
+msgid_plural "_Undo duplicate of %d items"
+msgstr[0] "རང་སར་ཚན་%d འདྲ་བཟོ་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "རང་སར་ཚན་%d འདྲ་བཟོ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo move of %d item"
+msgid_plural "_Undo move of %d items"
+msgstr[0] "ཚན %dསྤོ་བ་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "ཚན %dསྤོ་བ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo move to trash of %d item"
+msgid_plural "_Undo move to trash of %d items"
+msgstr[0] "ཚན %dསྙིགས་སྒམ་དུ་སྤོ་བ་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "ཚན %dསྙིགས་སྒམ་དུ་སྤོ་བ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo rename of %d item"
+msgid_plural "_Undo rename of %d items"
+msgstr[0] "ཚན %dམིང་བསྐྱར་འདོགས་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "ཚན %dམིང་བསྐྱར་འདོགས་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Undo restore from trash of %d item"
+msgid_plural "_Undo restore from trash of %d items"
+msgstr[0] "སྙིགས་སྒམ་ལས་ཚན་%dསླར་གསོ་ཕྱིར་འཐེན།(_U)"
+msgstr[1] "སྙིགས་སྒམ་ལས་ཚན་%dསླར་གསོ་ཕྱིར་འཐེན།(_U)"
+
+msgid "_Unlock Drive"
+msgstr "སྐུལ་ཆས་སྒྲོག་སྒྲོལ།(_U)"
+
+msgid "_Unmount"
+msgstr "བཤིག་འདོར།(_U)"
+
+msgid "_Up"
+msgstr "གོང་ཕྱོགས(_U)"
+
+msgid "_Use a custom command"
+msgstr "མཚན་ཉིད་རང་བཞག་གི་བཀའ་བརྡ་སྤྱོད།(_U)"
+
+msgid "_Use compact layout"
+msgstr "ཚགས་དམ་བཀོད་པ་སྤྱོད།(_U)"
+
+msgid "_View"
+msgstr "ལྟ་ཞིབ།(_V)"
+
+msgid "_View As"
+msgstr "བྱེད་སྟངས་ལྟ་ཞིབ།(_V)"
+
+msgid "_View executable text files when they are opened"
+msgstr "ཁ་འབྱེད་སྐབས་ལག་བསྟར་རུང་བའི་ཡིག་རྐྱང་ཡིག་ཆ་ལྟ་ཞིབ།(_V)"
+
+msgid "_Write"
+msgstr "འབྲི་བ།(_W)"
+
+msgid "_Zoom"
+msgstr "སྐྱེད་སྐྱུང་།(_Z)"
+
+msgid "access"
+msgstr "ལྟ་སྤྱོད།"
+
+msgid "approximately %'d hour"
+msgid_plural "approximately %'d hours"
+msgstr[0] "ཕལ་ཆེར་དུས་ཚོད %'d "
+msgstr[1] "ཕལ་ཆེར་དུས་ཚོད %'d "
+
+msgid "available space,total"
+msgstr "སྤྱོད་རུང་། སྤྱིར།"
+
+msgid "by Modification _Date"
+msgstr "བཟོ་བཅོས་དུས་ཚོད་ལྟར།(_D)"
+
+msgid "by T_rash Time"
+msgstr "འདོར་བའི་དུས་ཚོད་ལྟར།(_R)"
+
+msgid "by _Emblems"
+msgstr "རྟགས་མ་ལྟར།(_E)"
+
+msgid "by _Name"
+msgstr "མིང་ལྟར།(_N)"
+
+msgid "by _Size"
+msgstr "ཆེ་ཆུང་ལྟར།(_S)"
+
+msgid "by _Type"
+msgstr "རིགས་གྲས་ལྟར།(_T)"
+
+msgid "caja: %s cannot be used with URIs.\n"
+msgstr ""
+
+msgid "caja: --check cannot be used with other options.\n"
+msgstr ""
+
+msgid "caja: --geometry cannot be used with more than one URI.\n"
+msgstr ""
+
+msgid "caja: set erroneously as default application for '%s' content type.\n"
+msgstr ""
+
+msgid "can't find %s"
+msgstr " %sམི་རྙེད།"
+
+msgid "column"
+msgstr "སྟར།"
+
+msgid "computer:"
+msgstr "ངའི་གློག་ཀླད།"
+
+msgid "create/delete"
+msgstr "གསར་བཟོ་/འདོར་བ།"
+
+msgid "'Sans 10'"
+msgstr "'སྟེགས་མེད་ཐིག10'"
+
+msgid "do not pull out"
+msgstr ""
+
+msgid "dropped data"
+msgstr "བསྐྱུར་བའི་གཞི་གྲངས།"
+
+msgid "dropped text.txt"
+msgstr "text.txt ཡི་ལྷེབ་དུམ།"
+
+msgid "favorite:"
+msgstr "བསྡུ་ཉར་ཁུག་མ།"
+
+msgid "format %s"
+msgstr "%sརྣམ་གཞག་ཅན་དུ་སྒྱུར།"
+
+msgid "format %s volume"
+msgstr "སྒྲིལ%sརྣམ་གཞག་ཅན་དུ་སྒྱུར།"
+
+msgid "format failed!"
+msgstr "རྣམ་གཞག་ཅན་དུ་སྒྱུར་བ་ཕམ་པ།"
+
+msgid "format succeed!"
+msgstr "རྣམ་གཞག་ཅན་དུ་སྒྱུར་ཚར།"
+
+msgid "free"
+msgstr "ལྷག་མ།"
+
+msgid "icon view"
+msgstr "རིས་རྟགས་མཐོང་རིས།"
+
+msgid "link"
+msgstr "སྦྲེལ་མཐུད་"
+
+msgid "link (broken)"
+msgstr "སྦྲེལ་མཐུད་(ཆད་པ།)"
+
+msgid "list"
+msgstr "རེའུ་མིག"
+
+msgid "list view"
+msgstr "རེའུ་མིག་མཐོང་རིས།"
+
+msgid "loading..."
+msgstr "ཕབ་པ..."
+
+msgid "mount %s failed after rename!"
+msgstr ""
+
+msgid "nd copy)"
+msgstr "འདྲ་དེབ།)"
+
+msgid "network:"
+msgstr "དྲ་བ།"
+
+msgid "new file.txt"
+msgstr "ཡིག་ཆ་གསར་བ.txt"
+
+msgid "no "
+msgstr "མེད།"
+
+msgid "nothing"
+msgstr "མེད།"
+
+msgid "on the desktop"
+msgstr "ཅོག་ངོས་སྟེང་དུ་གནས།"
+
+msgid "open a browser window."
+msgstr "བཤར་ཆས་སྒེའུ་ཁུང་ཁ་འབྱེད།"
+
+msgid "paused"
+msgstr "སྐབས་བསྡད།"
+
+msgid "pausing"
+msgstr "སྐབས་སྡོད་པ།"
+
+msgid "pointing at \"%s\""
+msgstr ""
+
+msgid "program"
+msgstr "བྱ་རིམ།"
+
+msgid "queued"
+msgstr "རུ་སྟར་རུ།"
+
+msgid "queuing"
+msgstr "རུ་སྟར་རུ་སྣོན་པ།"
+
+msgid "rd copy)"
+msgstr "འདྲ་དེབ།)"
+
+msgid "read"
+msgstr "ཀློག་པ།"
+
+msgid "recent:"
+msgstr "ཉེ་ཆར།"
+
+msgid "st copy)"
+msgstr "འདྲ་དེབ།)"
+
+msgid "th copy)"
+msgstr ""
+
+msgid "today"
+msgstr "དེ་རིང་།"
+
+msgid "today at %-I:%M %p"
+msgstr "དེ་རིང་%H:%M"
+
+msgid "today at %-I:%M:%S %p"
+msgstr ""
+
+msgid "today at 00:00 PM"
+msgstr ""
+
+msgid "today at 00:00:00 PM"
+msgstr ""
+
+msgid "today, %-I:%M %p"
+msgstr "དེ་རིང་%H:%M"
+
+msgid "today, 00:00 PM"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "trash:"
+msgstr "སྙིགས་སྒམ།"
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "unknown MIME type"
+msgstr "མི་ཤེས་པའི་ MIME རིགས་གྲས།"
+
+msgid "unknown type"
+msgstr "མི་ཤེས་པའི་རིགས་གྲས།"
+
+msgid "unmount %s failed before rename!"
+msgstr ""
+
+msgid ""
+"unmount %s failed before rename! Please check whether there is terminal "
+"occupancy or other reasons!"
+msgstr ""
+
+msgid "unreadable"
+msgstr "ཀློག་མི་ཐུབ་པ།"
+
+msgid "untitled folder"
+msgstr "མིང་བཏགས་མེད་པའི་ཡིག་ཁུག"
+
+msgid "used"
+msgstr "སྤྱད་པ།"
+
+msgid "write"
+msgstr "འབྲི་བ།"
+
+msgid "yesterday"
+msgstr "ཁ་སང་།"
+
+msgid "yesterday at %-I:%M %p"
+msgstr "ཁ་སང་%H:%M"
+
+msgid "yesterday at %-I:%M:%S %p"
+msgstr ""
+
+msgid "yesterday at 00:00 PM"
+msgstr ""
+
+msgid "yesterday at 00:00:00 PM"
+msgstr ""
+
+msgid "yesterday, %-I:%M %p"
+msgstr "ཁ་སང་%H:%M"
+
+msgid "yesterday, 00:00 PM"
+msgstr ""

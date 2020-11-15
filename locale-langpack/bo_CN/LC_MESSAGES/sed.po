@@ -1,0 +1,298 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"If no -e, --expression, -f, or --file option is given, then the first\n"
+"non-option argument is taken as the sed script to interpret.  All\n"
+"remaining arguments are names of input files; if no input files are\n"
+"specified, then the standard input is read.\n"
+"\n"
+msgstr ""
+
+msgid "      --help     display this help and exit\n"
+msgstr ""
+
+msgid "      --version  output version information and exit\n"
+msgstr ""
+
+msgid ""
+"  --follow-symlinks\n"
+"                 follow symlinks when processing in place\n"
+msgstr ""
+
+msgid ""
+"  --posix\n"
+"                 disable all GNU extensions.\n"
+msgstr ""
+
+msgid ""
+"  -R, --regexp-perl\n"
+"                 use Perl 5's regular expressions syntax in the script.\n"
+msgstr ""
+
+msgid ""
+"  -b, --binary\n"
+"                 open files in binary mode (CR+LFs are not processed specially)\n"
+msgstr ""
+
+msgid ""
+"  -e script, --expression=script\n"
+"                 add the script to the commands to be executed\n"
+msgstr ""
+
+msgid ""
+"  -f script-file, --file=script-file\n"
+"                 add the contents of script-file to the commands to be executed\n"
+msgstr ""
+
+msgid ""
+"  -l N, --line-length=N\n"
+"                 specify the desired line-wrap length for the `l' command\n"
+msgstr ""
+
+msgid ""
+"  -n, --quiet, --silent\n"
+"                 suppress automatic printing of pattern space\n"
+msgstr ""
+
+msgid ""
+"  -r, --regexp-extended\n"
+"                 use extended regular expressions in the script.\n"
+msgstr ""
+
+msgid ""
+"  -s, --separate\n"
+"                 consider files as separate rather than as a single continuous\n"
+"                 long stream.\n"
+msgstr ""
+
+msgid ""
+"  -u, --unbuffered\n"
+"                 load minimal amounts of data from the input files and flush\n"
+"                 the output buffers more often\n"
+msgstr ""
+
+msgid "%s: -e expression #%lu, char %lu: %s\n"
+msgstr ""
+
+msgid "%s: can't read %s: %s\n"
+msgstr ""
+
+msgid "%s: file %s line %lu: %s\n"
+msgstr ""
+
+msgid ": doesn't want any addresses"
+msgstr ": གནས་ཡུལ་གང་ཡང་མི་དགོས་པ།"
+
+msgid ""
+"E-mail bug reports to: <%s>.\n"
+"Be sure to include the word ``%s'' somewhere in the ``Subject:'' field.\n"
+msgstr ""
+
+msgid ""
+"GNU sed home page: <http://www.gnu.org/software/sed/>.\n"
+"General help using GNU software: <http://www.gnu.org/gethelp/>.\n"
+msgstr ""
+
+msgid "Invalid back reference"
+msgstr ""
+
+msgid "Invalid character class name"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་རྟགས་རིགས་གྲས་མིང་།"
+
+msgid "Invalid collation character"
+msgstr ""
+
+msgid "Invalid content of \\{\\}"
+msgstr ""
+
+msgid "Invalid preceding regular expression"
+msgstr "ནུས་མེད་ཀྱི་མདུན་བཀོད་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Invalid range end"
+msgstr ""
+
+msgid "Invalid regular expression"
+msgstr "ནུས་མེད་ཀྱི་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Memory exhausted"
+msgstr "ནང་གསོག་བཀོལ་ཚར།"
+
+msgid "No match"
+msgstr "ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "No previous regular expression"
+msgstr ""
+
+msgid "Premature end of regular expression"
+msgstr ""
+
+msgid "Regular expression too big"
+msgstr ""
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Unmatched ( or \\("
+msgstr ""
+
+msgid "Unmatched ) or \\)"
+msgstr ""
+
+msgid "Unmatched [ or [^"
+msgstr ""
+
+msgid "Unmatched \\{"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... {script-only-if-no-other-script} [input-file]...\n"
+"\n"
+msgstr ""
+
+msgid "`e' command not supported"
+msgstr "“e”བཀའ་བརྡར་རྒྱབ་སྐྱོར་མེད་པ། "
+
+msgid "`}' doesn't want any addresses"
+msgstr "“}” གནས་ཡུལ་གང་ཡང་མི་དགོས་པ།"
+
+msgid "can't find label for jump to `%s'"
+msgstr "དམིགས་ཡུལ “%s” ཡིན་པའི་མཆོང་བར་གདོང་འཛར་རྙེད་ཐབས་བྲལ།"
+
+msgid "cannot remove %s: %s"
+msgstr "འབུད་ཐབས་བྲལ། %s：%s"
+
+msgid "cannot rename %s: %s"
+msgstr "མིང་བསྐྱར་འདོགས་མི་ཐུབ་པ། %s：%s"
+
+msgid "cannot specify modifiers on empty regexp"
+msgstr "ཚད་མཐུན་མཚོན་ཚུལ་སྟོང་པར་རྒྱན་དམིགས་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "cannot stat %s: %s"
+msgstr "%s ཡི་རྣམ་པ་ཐོབ་ཐབས་བྲལ།: %s"
+
+msgid "command only uses one address"
+msgstr "བཀའ་བརྡས་གནས་ཡུལ་ཞིག་ཁོ་ན་བེད་སྤྱད་པ།"
+
+msgid "comments don't accept any addresses"
+msgstr "མཆན་འགྲེལ་གྱིས་གནས་ཡུལ་གང་ཡང་དང་ལེན་མི་བྱེད་པ།"
+
+msgid "couldn't attach to %s: %s"
+msgstr "བསྡོམས་ཐབས་བྲལ། %s: %s"
+
+msgid "couldn't edit %s: is a terminal"
+msgstr "ཡིག་ཆར་རྩོམ་སྒྲིག་བྱེད་ཐབས་བྲལ།%s: དེ་ནི་མཐའ་སྣེ་ཞིག་ཡིན།"
+
+msgid "couldn't edit %s: not a regular file"
+msgstr "རྩོམ་སྒྲིག་བྱེད་ཐབས་བྲལ %s: ཡིག་ཆ་དཀྱུས་མ་མིན་པ།"
+
+msgid "couldn't follow symlink %s: %s"
+msgstr "མཉེན་པའི་སྦྲེལ་མཐུད་ལ་རྗེས་འབྲང་བྱེད་ཐབས་བྲལ། %s: %s"
+
+msgid "couldn't open file %s: %s"
+msgstr "ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ། %s: %s"
+
+msgid "couldn't open temporary file %s: %s"
+msgstr "གནས་སྐབས་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ། %s: %s"
+
+msgid "couldn't write %d item to %s: %s"
+msgid_plural "couldn't write %d items to %s: %s"
+msgstr[0] "རྣམ་གྲངས་གྲངས་ %d དེ %s ལ་འབྲི་ཐབས་བྲལ།:%s"
+msgstr[1] "རྣམ་གྲངས་གྲངས་ %d དེ %s ལ་འབྲི་ཐབས་བྲལ།:%s"
+
+msgid "delimiter character is not a single-byte character"
+msgstr "མཚམས་གཅོད་ཡིག་རྟགས་ནི་ཡིག་ཚིགས་རྐྱང་པའི་ཡིག་རྟགས་མིན།"
+
+msgid "error in subprocess"
+msgstr "བུ་འཕེལ་རིམ་ནོར་བ།"
+
+msgid "expected \\ after `a', `c' or `i'"
+msgstr ""
+
+msgid "expected newer version of sed"
+msgstr "པར་གཞི་དེ་བས་མཐོ་བའི་ sed དགོས།"
+
+msgid "extra characters after command"
+msgstr "བཀའ་བརྡའི་རྗེས་སུ་ལྷག་མའི་ཡིག་རྟགས་ཚུད་ཡོད་པ།"
+
+msgid "invalid reference \\%d on `s' command's RHS"
+msgstr ""
+
+msgid "invalid usage of +N or ~N as first address"
+msgstr " +N འམ་ཡང་ན ~N གནས་ཡུལ་ཨང་དང་པོར་རྩིས་མི་ཐུབ།"
+
+msgid "invalid usage of line address 0"
+msgstr "གནས་ཡུལ 0 ལུགས་འགལ་བེད་སྤྱད་པ།"
+
+msgid "missing command"
+msgstr "བཀའ་བརྡ་ལུས་པ།"
+
+msgid "multiple `!'s"
+msgstr "མང་བའི “!”"
+
+msgid "multiple `g' options to `s' command"
+msgstr "བཀའ་བརྡ ‘s’ ཡི་འདེམས་ཚན ‘g’ མང་པོ།"
+
+msgid "multiple `p' options to `s' command"
+msgstr "བཀའ་བརྡ ‘s’ ཡི་འདེམས་ཚན ‘p’ མང་པོ།"
+
+msgid "multiple number options to `s' command"
+msgstr "བཀའ་བརྡ ‘s’ ཡི་གྲངས་བྲིན་འདེམས་ཚན་མང་པོ།"
+
+msgid "no input files"
+msgstr "ནང་འཇུག་ཡིག་ཆ་མེད་པ།"
+
+msgid "no previous regular expression"
+msgstr "གོང་མའི་ཚད་མཐུན་མཚོན་ཚུལ་མེད་པ།"
+
+msgid "number option to `s' command may not be zero"
+msgstr "བཀའ་བརྡ་ ‘s’ ཡི་གྲངས་བྲིན་འདེམས་ཚན་ཀླད་ཀོར་ཡིན་མི་རུང་།"
+
+msgid "option `e' not supported"
+msgstr "འདེམས་ཚན་ “e” ལ་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "read error on %s: %s"
+msgstr "ཀློག་ལེན་ནོར་འཁྲུལ %s རུ་ཐོན་པ།: %s"
+
+msgid "strings for `y' command are different lengths"
+msgstr "བཀའ་བརྡ “y” ཡི་ཡིག་རྟགས་ཕྲེང་བའི་རིང་ཚད་མི་འདྲ་བ།"
+
+msgid "unexpected `,'"
+msgstr "ངེས་མེད་ཀྱི “,”"
+
+msgid "unexpected `}'"
+msgstr "ངེས་མེད་ཀྱི “}”"
+
+msgid "unknown command: `%c'"
+msgstr "ངེས་མེད་ཀྱི་བཀའ་བརྡ།：“%c”"
+
+msgid "unknown option to `s'"
+msgstr "“s” ཡི་ངེས་མེད་ཀྱི་འདེམས་ཚན།"
+
+msgid "unmatched `{'"
+msgstr "ཟླ་སྒྲིག་མེད་པའི “{”"
+
+msgid "unterminated `s' command"
+msgstr "མཇུག་སྒྲིལ་མེད་པའི་བཀའ་བརྡ་ “s”"
+
+msgid "unterminated `y' command"
+msgstr "མཇུག་སྒྲིལ་མེད་པའི་བཀའ་བརྡ་“y”"
+
+msgid "unterminated address regex"
+msgstr "མཇུག་སྒྲིལ་མེད་པའི་གནས་ཡུལ་གྱི་ཚད་མཐུན་མཚོན་ཚུལ།"

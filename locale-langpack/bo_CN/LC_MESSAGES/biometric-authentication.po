@@ -1,0 +1,1452 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "         Driver API(DRV_API): %d.%d.%d\n"
+msgstr ""
+
+msgid "    Application API(APP_API): %d.%d.%d\n"
+msgstr ""
+
+msgid "%s\n"
+msgstr ""
+
+msgid "%s %s -d DRIVER_ID"
+msgstr ""
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID"
+msgstr ""
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID -i INDEX"
+msgstr ""
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID -i INDEX -n NEW_NAME"
+msgstr ""
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID -n FEATURE_NAME"
+msgstr ""
+
+msgid "%s %s [-u USER_NAME] -d DRIVER_ID [-s INDEX_START] [-e INDEX_END]"
+msgstr ""
+
+msgid "%s Clean Result: Failed\n"
+msgstr ""
+
+msgid "%s Clean Result: Success\n"
+msgstr ""
+
+msgid "%s driver DRV_API version: %d.%d.%d\n"
+msgstr ""
+
+msgid "%s driver configure failed\n"
+msgstr ""
+
+msgid "(Left)"
+msgstr ""
+
+msgid "(Right)"
+msgstr ""
+
+msgid "A210 enroll success, enroll_id = %d\n"
+msgstr ""
+
+msgid "A210OpsResult[%d]: %s\n"
+msgstr ""
+
+msgid "A210RecvInfo: "
+msgstr ""
+
+msgid "A210SendInfo: "
+msgstr ""
+
+msgid ""
+"AES Key File (%s) does not Exist or has no Read Permission, use default "
+"key.\n"
+msgstr ""
+
+msgid "AES Key File is Enpty, use default Key.\n"
+msgstr ""
+
+msgid "AES Key is Enpty, use default Key.\n"
+msgstr ""
+
+msgid "Add driver"
+msgstr ""
+
+msgid "Adjust distance"
+msgstr ""
+
+msgid "All user"
+msgstr ""
+
+msgid "An error was encountered during capturing"
+msgstr ""
+
+msgid "An error was encountered during cleaning"
+msgstr ""
+
+msgid "An error was encountered during closing"
+msgstr ""
+
+msgid "An error was encountered during enrolling"
+msgstr ""
+
+msgid "An error was encountered during getting feature list"
+msgstr ""
+
+msgid "An error was encountered during identifying"
+msgstr ""
+
+msgid "An error was encountered during renaming"
+msgstr ""
+
+msgid "An error was encountered during searching"
+msgstr ""
+
+msgid "An error was encountered during the opening"
+msgstr ""
+
+msgid "An error was encountered during the operation"
+msgstr ""
+
+msgid "An error was encountered during verifying"
+msgstr ""
+
+msgid "Any"
+msgstr "གང་རུང་།"
+
+msgid ""
+"Because of the scanning image quality or finger pressure problem, the "
+"sampling failed, please remove the finger and retry"
+msgstr ""
+
+msgid "Biometric Type"
+msgstr ""
+
+msgid ""
+"Biometric authentication server is running, Do not restart it repeatedly\n"
+msgstr ""
+
+msgid "Biometric framework API version:\n"
+msgstr ""
+
+msgid "Biometric identification backend framework service is not started"
+msgstr ""
+
+msgid "Builtin commands: "
+msgstr ""
+
+msgid "BuiltinCommands"
+msgstr ""
+
+msgid "Bus Type"
+msgstr ""
+
+msgid "Can not get usb information\n"
+msgstr ""
+
+msgid "Can not open AES Key File: %s, use default key.\n"
+msgstr ""
+
+msgid "Can not open PID file: %s\n"
+msgstr ""
+
+msgid "Can not open serial"
+msgstr ""
+
+msgid "Can't Open Serial Port: %s\n"
+msgstr ""
+
+msgid "Can't create thread: %s\n"
+msgstr ""
+
+msgid "Cancel the operation success"
+msgstr ""
+
+msgid "Cannot operate device node: %s\n"
+msgstr ""
+
+msgid "Capture"
+msgstr ""
+
+msgid "Capture Result: %.*s\n"
+msgstr ""
+
+msgid "Capture Result: ERROR\n"
+msgstr ""
+
+msgid "Capture feature failed"
+msgstr ""
+
+msgid "Capture feature successful"
+msgstr ""
+
+msgid "Capture image failed"
+msgstr ""
+
+msgid "Capture image success"
+msgstr ""
+
+msgid "Capture operation timeout"
+msgstr ""
+
+msgid "Capture operation was interrupted by the user"
+msgstr ""
+
+msgid "Capture real-time template failed"
+msgstr ""
+
+msgid "Capture real-time template success"
+msgstr ""
+
+msgid "Capturing"
+msgstr ""
+
+msgid "Character string: %s\n"
+msgstr ""
+
+msgid "Check database format version ...\n"
+msgstr ""
+
+msgid "Clean"
+msgstr "གཙང་བཟོ།"
+
+msgid "Clean feature failed"
+msgstr ""
+
+msgid "Clean feature successful"
+msgstr ""
+
+msgid "Clean operation timeout"
+msgstr ""
+
+msgid "Clean operation was interrupted by the user"
+msgstr ""
+
+msgid "Cleaning"
+msgstr ""
+
+msgid ""
+"Client APP_API is newer than biometric identification framework service. "
+"Please upgrade framework service or degrade client.\n"
+msgstr ""
+
+msgid ""
+"Client APP_API is older than biometric identification framework service. "
+"Please degrade framework service or upgrade client.\n"
+msgstr ""
+
+msgid "Close"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "Close Device: %s\n"
+msgstr ""
+
+msgid "Close device completion"
+msgstr ""
+
+msgid "Close device failed"
+msgstr ""
+
+msgid "Closing"
+msgstr ""
+
+msgid "Collect finger vein characteristics error"
+msgstr ""
+
+msgid "Collect fingerprint characteristics error"
+msgstr ""
+
+msgid "Collecting finger vein characteristics, please press you finger"
+msgstr ""
+
+msgid ""
+"Collecting fingerprint characteristics, please keep your finger pressed"
+msgstr ""
+
+msgid "Collecting fingerprint characteristics, please press you finger"
+msgstr ""
+
+msgid "Come closer"
+msgstr ""
+
+msgid "Command: 0x%02X returns data checksum error\n"
+msgstr ""
+
+msgid "Common"
+msgstr "ཀུན་སྤྱོད།"
+
+msgid "Could not open device (driver %s)"
+msgstr ""
+
+msgid "Create Biometric Datebase Directory (%s) Error\n"
+msgstr ""
+
+msgid ""
+"Create Table %s:\n"
+"%s\n"
+msgstr ""
+
+msgid "Create Table '%s' Error: %s\n"
+msgstr ""
+
+msgid "Create UD650 algorithms library error[%d]\n"
+msgstr ""
+
+msgid "Current device list:"
+msgstr ""
+
+msgid "Current driver list:"
+msgstr ""
+
+msgid "Current send data: "
+msgstr ""
+
+msgid "Database format version is %d.%d.%d\n"
+msgstr ""
+
+msgid "Delete fingerprint failed\n"
+msgstr ""
+
+msgid "Delete the contrast space data error"
+msgstr ""
+
+msgid "Delete user %s template failed"
+msgstr ""
+
+msgid "Delete user %s template success"
+msgstr ""
+
+msgid "Detect %s device\n"
+msgstr ""
+
+msgid ""
+"Detected Compatibility issues: %s driver version is higher than biometric "
+"framework\n"
+msgstr ""
+
+msgid ""
+"Detected Compatibility issues: %s driver version is lower than biometric "
+"framework\n"
+msgstr ""
+
+msgid "Device"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "Device %s[%d] received interrupt request\n"
+msgstr ""
+
+msgid "Device BBC check error"
+msgstr ""
+
+msgid "Device Status: [%d]%s\n"
+msgstr ""
+
+msgid "Device and OS"
+msgstr ""
+
+msgid "Device attached: %04x:%04x\n"
+msgstr ""
+
+msgid "Device busy"
+msgstr ""
+
+msgid "Device detached: %04x:%04x\n"
+msgstr ""
+
+msgid "Device failed to open"
+msgstr ""
+
+msgid "Device idle"
+msgstr ""
+
+msgid "Device internal error"
+msgstr ""
+
+msgid "Device is disable"
+msgstr ""
+
+msgid "Device is disabled"
+msgstr ""
+
+msgid "Device is in an unknown status..."
+msgstr ""
+
+msgid "Device is in process"
+msgstr ""
+
+msgid "Device operates abnormally, hardware version does not match"
+msgstr ""
+
+msgid "Device returns unknown data and skips processing"
+msgstr ""
+
+msgid "Device started successfully! The current version is: v"
+msgstr ""
+
+msgid "Device unknown status code: %d\n"
+msgstr ""
+
+msgid ""
+"Didn't catch that, please center your finger on the sensor and try again."
+msgstr ""
+
+msgid "Disable"
+msgstr "སྤྱོད་འགོག"
+
+msgid "Disable driver"
+msgstr ""
+
+msgid "Don't squint"
+msgstr ""
+
+msgid "Driver %s does not exist\n"
+msgstr ""
+
+msgid ""
+"Driver %s does not exist, if you need to ignore the problem, use -i "
+"parameter\n"
+msgstr ""
+
+msgid "Driver %s initialization failed\n"
+msgstr ""
+
+msgid "Driver Full Name"
+msgstr ""
+
+msgid "Driver ID"
+msgstr ""
+
+msgid "Driver Name"
+msgstr ""
+
+msgid "Driver(or Device) ID"
+msgstr ""
+
+msgid "Driver1 [Driver2 ...]"
+msgstr ""
+
+msgid "DriverName DriverFilePath"
+msgstr ""
+
+msgid "DriverName Key"
+msgstr ""
+
+msgid "DriverName Key Value"
+msgstr ""
+
+msgid "Dynamic link library %s has been loaded\n"
+msgstr ""
+
+msgid "Eigen Type"
+msgstr ""
+
+msgid "Eigen Value"
+msgstr ""
+
+msgid "Eigen Vector"
+msgstr ""
+
+msgid "Enable"
+msgstr "སྤྱོད་པ།"
+
+msgid "Enable driver"
+msgstr ""
+
+msgid "End of Feature Index (default -1, means search all)"
+msgstr ""
+
+msgid "Enroll"
+msgstr ""
+
+msgid "Enroll Result: Fail\n"
+msgstr ""
+
+msgid "Enroll Result: Success\n"
+msgstr ""
+
+msgid "Enroll failed, ID: %s"
+msgstr ""
+
+msgid ""
+"Enroll failed: The feature was successfully sampled, but the encoding of the"
+" sampling feature could not be generated"
+msgstr ""
+
+msgid "Enroll feature failed"
+msgstr ""
+
+msgid "Enroll feature successful"
+msgstr ""
+
+msgid "Enroll operation timeout"
+msgstr ""
+
+msgid "Enroll operation was interrupted by the user"
+msgstr ""
+
+msgid "Enroll success"
+msgstr ""
+
+msgid "Enroll success, ID: %s"
+msgstr ""
+
+msgid "Enroll success, the user already exists, correct ID: %s"
+msgstr ""
+
+msgid "Enrolled ID: %d\n"
+msgstr ""
+
+msgid "Enrolling"
+msgstr ""
+
+msgid ""
+"Enrollment failed due to incomprehensible data. (Please use the same finger "
+"at different sampling stages of the same enroll)"
+msgstr ""
+
+msgid "Error getting device descriptor"
+msgstr ""
+
+msgid "Error parsing commandline options: %s\n"
+msgstr ""
+
+msgid "Error: Can not get device descriptor\n"
+msgstr ""
+
+msgid "Error: Can not register attach callback error\n"
+msgstr ""
+
+msgid "Error: Can not register detach callback error\n"
+msgstr ""
+
+msgid "Error: Failed to export object. Reason: %s\n"
+msgstr ""
+
+msgid "Error[%d]: %s\n"
+msgstr ""
+
+msgid "Face"
+msgstr ""
+
+msgid "Failed to call function %s\n"
+msgstr ""
+
+msgid "Failed to initialize libfprint\n"
+msgstr ""
+
+msgid "Failed to migrate data from the original table: %s\n"
+msgstr ""
+
+msgid "Failed to upgrade database format：version %d.%d.%d to %d.%d.%d\n"
+msgstr ""
+
+msgid "Failure to modify the owner and group of %s. ERROR[%d]: %s\n"
+msgstr ""
+
+msgid "Feature Index"
+msgstr ""
+
+msgid "Feature Name"
+msgstr ""
+
+msgid "Feature renaming is not complete, please try again"
+msgstr ""
+
+msgid "File length error"
+msgstr ""
+
+msgid "Find Table '%s' Error: %s\n"
+msgstr ""
+
+msgid "Find the following feature matching:\n"
+msgstr ""
+
+msgid "Find the specified features"
+msgstr ""
+
+msgid "Finger Print"
+msgstr "མཛུབ་རིས།"
+
+msgid "Finger Vein"
+msgstr ""
+
+msgid "Finger vein characteristics collected, please raise your finger"
+msgstr ""
+
+msgid "Fingerprint characteristics collected, please raise your finger"
+msgstr ""
+
+msgid ""
+"For the 2nd collection finger vein characteristics, please press you finger"
+msgstr ""
+
+msgid ""
+"For the 2nd collection fingerprint characteristics, please press you finger"
+msgstr ""
+
+msgid ""
+"For the 3rd collection finger vein characteristics, please press you finger"
+msgstr ""
+
+msgid ""
+"For the 3rd collection fingerprint characteristics, please press you finger"
+msgstr ""
+
+msgid ""
+"For the 4th collection finger vein characteristics, please press you finger"
+msgstr ""
+
+msgid ""
+"For the 4th collection fingerprint characteristics, please press you finger"
+msgstr ""
+
+msgid ""
+"For the 5th collection finger vein characteristics, please press you finger"
+msgstr ""
+
+msgid ""
+"For the 5th collection fingerprint characteristics, please press you finger"
+msgstr ""
+
+msgid "Forcibly overrides the existing key"
+msgstr ""
+
+msgid ""
+"Framework automatically assigns the free index '%d' to driver %s user %d\n"
+msgstr ""
+
+msgid "Function XG_DetectUsbDev is NULL\n"
+msgstr ""
+
+msgid "Function XG_OpenVeinDev is NULL\n"
+msgstr ""
+
+msgid "Generate fingerprint characteristics failed"
+msgstr ""
+
+msgid "Generate fingerprint template failed"
+msgstr "མཛུབ་རིས་མ་དཔེ་འགྲུབ་པ་ཕམ་པ།"
+
+msgid "Generate real-time template failed"
+msgstr ""
+
+msgid "Generate real-time template success"
+msgstr ""
+
+msgid "Get AES Key File Error[%d]: %s, use default Key.\n"
+msgstr ""
+
+msgid "Get R301 device parameter failed\n"
+msgstr ""
+
+msgid "Get UD650 algorithms library version error"
+msgstr ""
+
+msgid "Get UD650 driver library version error\n"
+msgstr ""
+
+msgid "Get USB Device List Error\n"
+msgstr ""
+
+msgid "Get basic parameters failed\n"
+msgstr ""
+
+msgid "Get data from the contrast space error"
+msgstr ""
+
+msgid "Get device status success, device operates normally"
+msgstr ""
+
+msgid "Get feature list completion"
+msgstr ""
+
+msgid "Get feature list failed"
+msgstr ""
+
+msgid "Get fingerprint characteristics failed\n"
+msgstr ""
+
+msgid "Get function %s handle error: %s\n"
+msgstr ""
+
+msgid "Get message failed\n"
+msgstr ""
+
+msgid "Get message header failed\n"
+msgstr ""
+
+msgid "Get serial attribute failed\n"
+msgstr ""
+
+msgid "Get user %s's template failed"
+msgstr ""
+
+msgid "Get user %s's template failed\n"
+msgstr ""
+
+msgid "Get user %s's template success"
+msgstr ""
+
+msgid "GetFeatureList"
+msgstr ""
+
+msgid "Gets the function '%s' error from UD650 driver: %s\n"
+msgstr ""
+
+msgid "Getting feature list"
+msgstr ""
+
+msgid "Hardware"
+msgstr "སྲ་ཆས།"
+
+msgid "Hardware level cancel success, device status: %d\n"
+msgstr ""
+
+msgid "ID: %s enroll failed, ret: 0x%02X"
+msgstr ""
+
+msgid "Identified ID: %d\n"
+msgstr ""
+
+msgid "Identify"
+msgstr ""
+
+msgid "Identify Result: No Match\n"
+msgstr ""
+
+msgid "Identify Result: UID = %d\n"
+msgstr ""
+
+msgid "Identify Type"
+msgstr ""
+
+msgid "Identify failed"
+msgstr ""
+
+msgid "Identify feature match"
+msgstr ""
+
+msgid "Identify feature no match"
+msgstr ""
+
+msgid "Identify operation timeout"
+msgstr ""
+
+msgid "Identify operation was interrupted by the user"
+msgstr ""
+
+msgid "Identify success"
+msgstr ""
+
+msgid "Identify success, ID: %s"
+msgstr ""
+
+msgid "Identifying"
+msgstr ""
+
+msgid "Ignore nonexistent drivers"
+msgstr ""
+
+msgid "Ignore this setting if the key already exists"
+msgstr ""
+
+msgid "Illegal data packets"
+msgstr ""
+
+msgid ""
+"Incompatible version of the database format: %d.%d.%d. Version required for "
+"the current framework: %d.%d.x"
+msgstr ""
+
+msgid "Init libusb Error\n"
+msgstr ""
+
+msgid "InitDBusCommunicationServer: Server started\n"
+msgstr ""
+
+msgid "Initial biometric recognition framework failed\n"
+msgstr ""
+
+msgid "Initialize UD650 algorithms library error"
+msgstr ""
+
+msgid "Initializing device ..."
+msgstr ""
+
+msgid "Input parameter error\n"
+msgstr ""
+
+msgid "Iris"
+msgstr ""
+
+msgid "Issue configuration parameter success"
+msgstr ""
+
+msgid "Issue template failed"
+msgstr ""
+
+msgid "Issue template success"
+msgstr ""
+
+msgid "Keep distance"
+msgstr ""
+
+msgid "Legal data packets"
+msgstr ""
+
+msgid "List of features found:"
+msgstr ""
+
+msgid "Load data to the contrast space error"
+msgstr ""
+
+msgid "Load finger vein characteristics to the contrast space error"
+msgstr ""
+
+msgid "Load the dynamic link library '%s' failed\n"
+msgstr ""
+
+msgid "Load the dynamic link library '%s' successful\n"
+msgstr ""
+
+msgid "Loaded Driver: %s\n"
+msgstr ""
+
+msgid "Loading the dynamic link library '%s'\n"
+msgstr ""
+
+msgid "Look at the mirror to the iris device"
+msgstr ""
+
+msgid "Look in the mirror"
+msgstr ""
+
+msgid "Matched ID:"
+msgstr ""
+
+msgid "Missing builtin command"
+msgstr ""
+
+msgid "Mix"
+msgstr "མཉམ་བསྲེས།"
+
+msgid "Mode setting error"
+msgstr ""
+
+msgid "New Feature Name"
+msgstr ""
+
+msgid "New thread created: %s\n"
+msgstr ""
+
+msgid "No %s finger vein device detected\n"
+msgstr ""
+
+msgid "No %s fingerprint device detected\n"
+msgstr ""
+
+msgid "No R301 finger print device detected\n"
+msgstr ""
+
+msgid "No define driver in [%s]\n"
+msgstr ""
+
+msgid "No permission to perform this operation"
+msgstr ""
+
+msgid "No specified features were found"
+msgstr ""
+
+msgid "No such device"
+msgstr ""
+
+msgid "No."
+msgstr ""
+
+msgid "No.%d processing end, ret = %d ...\n"
+msgstr ""
+
+msgid "No.%d processing starts ...\n"
+msgstr ""
+
+msgid "Not allowed to issue the interface internal command"
+msgstr ""
+
+msgid "OS"
+msgstr "རྒྱུད་ཁོངས།"
+
+msgid "Only add driver and Not enable driver"
+msgstr ""
+
+msgid "Open"
+msgstr "ཁ་འབྱེད།"
+
+msgid "Open R301 device failed\n"
+msgstr ""
+
+msgid "Open Result: %d\n"
+msgstr ""
+
+msgid "Open UD650 finger vein device error"
+msgstr ""
+
+msgid "Open device and create UD650 algorithms library successful\n"
+msgstr ""
+
+msgid "Open device completion"
+msgstr ""
+
+msgid "Open device failed"
+msgstr ""
+
+msgid "Open your eyes"
+msgstr ""
+
+msgid "Opening device"
+msgstr ""
+
+msgid "Operation failed"
+msgstr "བཀོལ་སྤྱོད་ཕམ་པ།"
+
+msgid "Operation is in an unknown status......"
+msgstr ""
+
+msgid "Operation successful"
+msgstr ""
+
+msgid "Operation timeout"
+msgstr "བཀོལ་སྤྱོད་དུས་བརྒལ།"
+
+msgid "Original Data"
+msgstr ""
+
+msgid "Other"
+msgstr "གཞན་དག"
+
+msgid "Out of memory"
+msgstr "ནང་གསོག་མི་འདང་བ།"
+
+msgid "PCIE"
+msgstr ""
+
+msgid "Parameter length error"
+msgstr ""
+
+msgid ""
+"Please place your finger again because of poor quality of the sample or "
+"other scanning problems"
+msgstr ""
+
+msgid "R301 device has insufficient storage space to record the fingerprint"
+msgstr ""
+
+msgid "R301 driver unload\n"
+msgstr ""
+
+msgid "R301 receive respond error\n"
+msgstr ""
+
+msgid "R301 send command error\n"
+msgstr ""
+
+msgid "R301 send data package error\n"
+msgstr ""
+
+msgid "R301GetFingerPrintData error: %s\n"
+msgstr ""
+
+msgid "R301RespondParse: Not a respond package\n"
+msgstr ""
+
+msgid "R301RespondParse: Respond package checksum error\n"
+msgstr ""
+
+msgid "R301RespondParse: Respond package length error\n"
+msgstr ""
+
+msgid "Read M1 card number success, card number: %X%X%X%X"
+msgstr ""
+
+msgid ""
+"Read the M1 card number failed, please check if the card is in the slot"
+msgstr ""
+
+msgid "Read user failed"
+msgstr ""
+
+msgid "Read user success, user list: %s"
+msgstr ""
+
+msgid "Receive download command failed\n"
+msgstr ""
+
+msgid "Receive the data of multiple packets, result = %d, ret = %d\n"
+msgstr ""
+
+msgid "Receiving %d bytes of data from a serial port: %s"
+msgstr ""
+
+msgid "Remove drive"
+msgstr ""
+
+msgid "Rename"
+msgstr "མིང་བསྐྱར་འདོགས།"
+
+msgid "Rename Table 'EIGEN_INFO' to 'EIGEN_INFO_VERSION_0_0_0' Error: %s\n"
+msgstr ""
+
+msgid "Rename feature failed"
+msgstr ""
+
+msgid "Rename feature successful"
+msgstr ""
+
+msgid "Renaming feature"
+msgstr ""
+
+msgid "Sample complete"
+msgstr ""
+
+msgid ""
+"Sample start, please press and lift your finger (Some devices need to swipe "
+"your finger)"
+msgstr ""
+
+msgid "Save fingerprint template failed"
+msgstr ""
+
+msgid "Search"
+msgstr "འཚོལ་བ།"
+
+msgid ""
+"Search from offset %d, index %d has been searched, global index %d(%d + "
+"%d)\n"
+msgstr ""
+
+msgid "Search operation timeout"
+msgstr ""
+
+msgid "Search operation was interrupted by the user"
+msgstr ""
+
+msgid "Searching"
+msgstr "འཚོལ་བཤེར་པ།"
+
+msgid "Send data package failed\n"
+msgstr ""
+
+msgid "Serial"
+msgstr "ཕྲེང་ཁ།"
+
+msgid "Serial port is not opened, please open it"
+msgstr ""
+
+msgid ""
+"Set Database Format(%d.%d.%d):\n"
+"%s\n"
+msgstr ""
+
+msgid "Set R301 device failed\n"
+msgstr ""
+
+msgid "Set R301 port[%s] file descriptor flag failed\n"
+msgstr ""
+
+msgid "Set UD650 security level error[%d]\n"
+msgstr ""
+
+msgid "Set port for R301 failed\n"
+msgstr ""
+
+msgid "Set security level error"
+msgstr ""
+
+msgid "Set serial failed\n"
+msgstr ""
+
+msgid "Set the key value of the specified driver"
+msgstr ""
+
+msgid "Show 'Biometric Type' fields"
+msgstr ""
+
+msgid "Show 'Driver Full Name' fields"
+msgstr ""
+
+msgid "Show 'Eigen Type' fields"
+msgstr ""
+
+msgid "Show 'Identify Type' fields"
+msgstr ""
+
+msgid "Show 'Storge Type' fields"
+msgstr ""
+
+msgid "Show 'Verify Type' fields"
+msgstr ""
+
+msgid "Show all fields (Highest priority)"
+msgstr ""
+
+msgid "Software"
+msgstr "མཉེན་ཆས།"
+
+msgid "Start of Feature Index (default 0)"
+msgstr ""
+
+msgid "Status"
+msgstr "རྣམ་པ།"
+
+msgid "Stop generating real-time template failed"
+msgstr ""
+
+msgid "Stop generating real-time template success"
+msgstr ""
+
+msgid "Storge Type"
+msgstr ""
+
+msgid "Switch mode failed"
+msgstr ""
+
+msgid ""
+"Switch mode success, current mode is card-read mode, please insert the IC "
+"card into the slot"
+msgstr ""
+
+msgid ""
+"Switch mode success, the current mode is local recognition mode, identify by"
+" the iris library that is stored in device"
+msgstr ""
+
+msgid "System level Clean Result: Failed\n"
+msgstr ""
+
+msgid "System level Clean Result: Success\n"
+msgstr ""
+
+msgid ""
+"System level cleaning of the specified range of biometric features (all "
+"drivers)\n"
+msgstr ""
+
+msgid "Template file or user ID length error"
+msgstr ""
+
+msgid "Terminating Verify operation"
+msgstr ""
+
+msgid "Terminating capture operation"
+msgstr ""
+
+msgid "Terminating clean operation"
+msgstr ""
+
+msgid "Terminating close operation"
+msgstr ""
+
+msgid "Terminating current operation"
+msgstr ""
+
+msgid "Terminating enroll operation"
+msgstr ""
+
+msgid "Terminating feature rename operation"
+msgstr ""
+
+msgid "Terminating get feature list operation"
+msgstr ""
+
+msgid "Terminating identify operation"
+msgstr ""
+
+msgid "Terminating open operation"
+msgstr ""
+
+msgid "Terminating search operation"
+msgstr ""
+
+msgid ""
+"The %d [%d/%d] sampling was successful, in the next sampling: please press "
+"and lift your finger (Some devices need to swipe your finger)"
+msgstr ""
+
+msgid ""
+"The %d feature has been searched(UID = %d, Index = %d, Index Name = %s), "
+"please press your finger to continue the search"
+msgstr ""
+
+msgid "The %dth sampling is successful and the eigenvalue is: %.32s\n"
+msgstr ""
+
+msgid "The %dth sampling is successful and the eigenvalue(Base64) is: %.*s\n"
+msgstr ""
+
+msgid "The Feature Index You Want To Delete (-1 means delete all)"
+msgstr ""
+
+msgid "The Feature Index that needs to be renamed"
+msgstr ""
+
+msgid ""
+"The PID information of the requester (%s) could not be obtained. Error: %s\n"
+msgstr ""
+
+msgid ""
+"The UID information of the requester (%s) could not be obtained. Error: %s\n"
+msgstr ""
+
+msgid ""
+"The abort operation failed and the current operation will continue in the "
+"background."
+msgstr ""
+
+msgid ""
+"The biometric authentication server failed to start, requiring administrator"
+" permission to start\n"
+msgstr ""
+
+msgid "The database format is compatible with the current framework\n"
+msgstr ""
+
+msgid "The device is busy, please try again later"
+msgstr ""
+
+msgid "The device may have to wait a while before being used."
+msgstr ""
+
+msgid "The device or driver does not support this operation"
+msgstr ""
+
+msgid "The eigenvalue(Base64) is: %.*s\n"
+msgstr ""
+
+msgid "The fingerprint template is being saved, please wait"
+msgstr ""
+
+msgid ""
+"The key already exists and is not forcibly overwritten, ignoring the setting operation\n"
+"If you want to ignore this error, use the \"-i\" parameter\n"
+msgstr ""
+
+msgid "The number of parameters is incorrect"
+msgstr ""
+
+msgid "The operation was interrupted by the user"
+msgstr ""
+
+msgid ""
+"The wait problem can be solved by restarting the biometrics backend "
+"framework service."
+msgstr ""
+
+msgid "There are %d feature samples to renaming failed, please try again\n"
+msgstr ""
+
+msgid "There is %d %s finger vein device detected\n"
+msgstr ""
+
+msgid "There is %d %s fingerprint device detected\n"
+msgstr ""
+
+msgid "There is an exception to write PID file: %s\n"
+msgstr ""
+
+msgid "This command does not need to issue data"
+msgstr ""
+
+msgid ""
+"This driver already exists, using the -f parameter if you need to override "
+"the configuration\n"
+msgstr ""
+
+msgid "Transport fingerprint template failed"
+msgstr ""
+
+msgid "UD650 driver library version: %s\n"
+msgstr ""
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Unable to allocate memory\n"
+msgstr ""
+
+msgid "Unable to find feature that require renaming\n"
+msgstr ""
+
+msgid "Unable to generate feature data, enroll failure"
+msgstr ""
+
+msgid "Unable to set database(%s) permissions. ERROR[%d]: %s\n"
+msgstr ""
+
+msgid "Unknown Builtin Commands: %s\n"
+msgstr ""
+
+msgid "Unknown command %s"
+msgstr ""
+
+msgid "Unknown error, error code: %d"
+msgstr ""
+
+msgid "Unload the dynamic link library '%s'\n"
+msgstr ""
+
+msgid "Unsupported commands"
+msgstr ""
+
+msgid "Update UUID=%s to database(UID=%d) ...\n"
+msgstr ""
+
+msgid "Update column \"UUID\" to Table \"%s\" Error: %s\n"
+msgstr ""
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update success"
+msgstr ""
+
+msgid "Upgrade database ...\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"  biometric-auth-client BuiltinCommands ...\n"
+"\n"
+"BuiltinCommands:\n"
+"  get-driver-list       Get Driver List\n"
+"  get-device-list       Get Device List\n"
+"  get-feature-list      Get Feature List\n"
+"  enroll                Enroll Feature\n"
+"  verify                Verify Feature\n"
+"  capture               Capture Feature\n"
+"  search                Search Feature\n"
+"  clean                 Clean Feature\n"
+"  rename                Rename Feature\n"
+"\n"
+"Options:\n"
+"  -h, --help            show this help message and exit\n"
+msgstr ""
+
+msgid "User ID"
+msgstr "སྤྱོད་མཁན་ངོ་རྟགས།"
+
+msgid "User ID length error"
+msgstr ""
+
+msgid "User Name"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་།"
+
+msgid "User Name (Default is current user: %s)"
+msgstr ""
+
+msgid "User Name (Not set to search for all users)"
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "Verify Result: Match\n"
+msgstr ""
+
+msgid "Verify Result: No Match\n"
+msgstr ""
+
+msgid "Verify Type"
+msgstr ""
+
+msgid "Verify feature match"
+msgstr ""
+
+msgid "Verify feature no match"
+msgstr ""
+
+msgid "Verify operation timeout"
+msgstr ""
+
+msgid "Verify operation was interrupted by the user"
+msgstr ""
+
+msgid "Verifying"
+msgstr ""
+
+msgid "Voice Print"
+msgstr ""
+
+msgid "When there is a driver of the same name, force to override it"
+msgstr ""
+
+msgid "Write configuration failure: %s\n"
+msgstr ""
+
+msgid "XG_OpenVeinDev ERROR[%d]\n"
+msgstr ""
+
+msgid "Your swipe was too short, please place your finger again."
+msgstr ""
+
+msgid "a210_ops_search return NULL, device status: %d\n"
+msgstr ""
+
+msgid "bio_conf_init failed\n"
+msgstr ""
+
+msgid ""
+"can't find \"bioconf\" struct, maybe someone forget use \"bio_conf_init()\" "
+"before\n"
+msgstr ""
+
+msgid "dlopen %s error: %s\n"
+msgstr ""
+
+msgid "failed to initialise libusb: %s\n"
+msgstr ""
+
+msgid "getFingerVeinData error: %s\n"
+msgstr ""
+
+msgid "libbiometric detected usb device(%s): %d\n"
+msgstr ""
+
+msgid "libusb_handle_events failed: %s\n"
+msgstr ""
+
+msgid "name_acquired_cb called, Acquired bus name: %s\n"
+msgstr ""
+
+msgid "name_lost_cb called, Error: Failed to connect to dbus\n"
+msgstr ""
+
+msgid "name_lost_cb called, Error: Failed to obtain bus name: %s\n"
+msgstr ""
+
+msgid "non-existent user"
+msgstr "སྤྱོད་མཁན་མི་འདུག"
+
+msgid "remove the key value of the specified driver"
+msgstr ""
+
+msgid "run called in the server\n"
+msgstr ""
+
+msgid ""
+"software level cancel success, dev_status = %d, StopFlag = %d, timeused = "
+"%d, timeout = %d\n"
+msgstr ""
+
+msgid "sqlite3 prepare err: %s\n"
+msgstr ""

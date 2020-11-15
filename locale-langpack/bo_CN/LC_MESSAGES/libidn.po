@@ -1,0 +1,220 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"      --allow-unassigned   Toggle IDNA AllowUnassigned flag (default off)\n"
+"      --usestd3asciirules  Toggle IDNA UseSTD3ASCIIRules flag (default off)\n"
+msgstr ""
+
+msgid ""
+"      --debug              Print debugging information\n"
+"      --quiet              Silent operation\n"
+msgstr ""
+
+msgid ""
+"      --no-tld             Don't check string for TLD specific rules\n"
+"                             Only for --idna-to-ascii and --idna-to-unicode\n"
+msgstr ""
+
+msgid ""
+"  -h, --help               Print help and exit\n"
+"  -V, --version            Print version and exit\n"
+msgstr ""
+
+msgid ""
+"  -n, --nfkc               Normalize string according to Unicode v3.2 NFKC\n"
+msgstr ""
+
+msgid ""
+"  -p, --profile=STRING     Use specified stringprep profile instead\n"
+"                             Valid stringprep profiles: `Nameprep',\n"
+"                             `iSCSI', `Nodeprep', `Resourceprep', \n"
+"                             `trace', `SASLprep'\n"
+msgstr ""
+
+msgid ""
+"  -s, --stringprep         Prepare string according to nameprep profile\n"
+"  -d, --punycode-decode    Decode Punycode\n"
+"  -e, --punycode-encode    Encode Punycode\n"
+"  -a, --idna-to-ascii      Convert to ACE according to IDNA (default mode)\n"
+"  -u, --idna-to-unicode    Convert from ACE according to IDNA\n"
+msgstr ""
+
+msgid "Cannot allocate memory"
+msgstr "ནང་གསོག་བགོ་བཤའ་རྒྱག་ཐབས་མེད།"
+
+msgid "Charset `%s'.\n"
+msgstr ""
+
+msgid "Code points prohibited by top-level domain"
+msgstr ""
+
+msgid ""
+"Command line interface to the internationalized domain name library.\n"
+"\n"
+"All strings are expected to be encoded in the preferred charset used\n"
+"by your locale.  Use `--debug' to find out what this charset is.  You\n"
+"can override the charset used by setting environment variable CHARSET.\n"
+"\n"
+"To process a string that starts with `-', for example `-foo', use `--'\n"
+"to signal the end of parameters, as in `idn --quiet -a -- -foo'.\n"
+"\n"
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr ""
+
+msgid "Conflicting bidirectional properties in input"
+msgstr ""
+
+msgid "Error in stringprep profile definition"
+msgstr ""
+
+msgid "Flag conflict with profile"
+msgstr ""
+
+msgid "Forbidden leading or trailing minus sign (`-')"
+msgstr ""
+
+msgid "Forbidden unassigned code points in input"
+msgstr ""
+
+msgid "Input already contain ACE prefix (`xn--')"
+msgstr ""
+
+msgid "Input does not start with ACE prefix (`xn--')"
+msgstr ""
+
+msgid ""
+"Internationalized Domain Name (IDN) convert STRINGS, or standard input.\n"
+"\n"
+msgstr ""
+
+msgid "Invalid input"
+msgstr ""
+
+msgid "Malformed bidirectional string"
+msgstr ""
+
+msgid "Missing input"
+msgstr ""
+
+msgid "No top-level domain found in input"
+msgstr ""
+
+msgid "Non-digit/letter/hyphen in input"
+msgstr ""
+
+msgid "Output would be too large or too small"
+msgstr ""
+
+msgid "Output would exceed the buffer space provided"
+msgstr ""
+
+msgid "Prohibited bidirectional code points in input"
+msgstr ""
+
+msgid "Prohibited code points in input"
+msgstr ""
+
+msgid "Punycode failed"
+msgstr ""
+
+msgid "String not idempotent under ToASCII"
+msgstr ""
+
+msgid "String not idempotent under Unicode NFKC normalization"
+msgstr ""
+
+msgid "String preparation failed"
+msgstr ""
+
+msgid "String size limit exceeded"
+msgstr ""
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "System dlopen failed"
+msgstr ""
+
+msgid "System iconv failed"
+msgstr ""
+
+msgid "Try `%s --help' for more information.\n"
+msgstr ""
+
+msgid ""
+"Type each input string on a line by itself, terminated by a newline "
+"character.\n"
+msgstr ""
+
+msgid "Unicode normalization failed (internal error)"
+msgstr ""
+
+msgid "Unknown error"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+
+msgid "Unknown profile"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [STRINGS]...\n"
+msgstr ""
+
+msgid "could not convert from %s to UTF-8"
+msgstr ""
+
+msgid "could not convert from UCS-4 to UTF-8"
+msgstr ""
+
+msgid "could not convert from UTF-8 to %s"
+msgstr ""
+
+msgid "could not convert from UTF-8 to UCS-4"
+msgstr ""
+
+msgid "could not do NFKC normalization"
+msgstr ""
+
+msgid "idna_to_ascii_4z: %s"
+msgstr ""
+
+msgid "idna_to_unicode_8z4z (TLD): %s"
+msgstr ""
+
+msgid "idna_to_unicode_8z4z: %s"
+msgstr ""
+
+msgid "input error"
+msgstr ""
+
+msgid "malloc"
+msgstr ""
+
+msgid "only one of -s, -e, -d, -a, -u or -n can be specified"
+msgstr ""
+
+msgid "punycode_decode: %s"
+msgstr ""
+
+msgid "punycode_encode: %s"
+msgstr ""
+
+msgid "stringprep_profile: %s"
+msgstr ""
+
+msgid "tld_check_4z (position %lu): %s"
+msgstr ""
+
+msgid "tld_check_4z: %s"
+msgstr ""

@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "       %s %s\n"
+msgstr ""
+
+msgid ""
+"  -n, --name=name         get the named extended attribute value\n"
+"  -d, --dump              get all extended attribute values\n"
+"  -e, --encoding=...      encode values (as 'text', 'hex' or 'base64')\n"
+"      --match=pattern     only get attributes with names matching pattern\n"
+"      --only-values       print the bare values only\n"
+"  -h, --no-dereference    do not dereference symbolic links\n"
+"      --absolute-names    don't strip leading '/' in pathnames\n"
+"  -R, --recursive         recurse into subdirectories\n"
+"  -L, --logical           logical walk, follow symbolic links\n"
+"  -P  --physical          physical walk, do not follow symbolic links\n"
+"      --version           print version and exit\n"
+"      --help              this help text\n"
+msgstr ""
+
+msgid ""
+"  -n, --name=name         set the value of the named extended attribute\n"
+"  -x, --remove=name       remove the named extended attribute\n"
+"  -v, --value=value       use value as the attribute value\n"
+"  -h, --no-dereference    do not dereference symbolic links\n"
+"      --restore=file      restore extended attributes\n"
+"      --version           print version and exit\n"
+"      --help              this help text\n"
+msgstr ""
+
+msgid "%s %s -- get extended attributes\n"
+msgstr ""
+
+msgid "%s %s -- set extended attributes\n"
+msgstr ""
+
+msgid "%s: %s: No filename found in line %d, aborting\n"
+msgstr ""
+
+msgid "%s: No filename found in line %d of standard input, aborting\n"
+msgstr ""
+
+msgid "%s: Removing leading '/' from absolute path names\n"
+msgstr ""
+
+msgid "%s: invalid regular expression \"%s\"\n"
+msgstr ""
+
+msgid "-V only allowed with -s\n"
+msgstr ""
+
+msgid "A filename to operate on is required\n"
+msgstr ""
+
+msgid "At least one of -s, -g, -r, or -l is required\n"
+msgstr ""
+
+msgid "Attribute \"%s\" had a %d byte value for %s:\n"
+msgstr ""
+
+msgid "Attribute \"%s\" has a %d byte value for %s\n"
+msgstr ""
+
+msgid "Attribute \"%s\" set to a %d byte value for %s:\n"
+msgstr ""
+
+msgid "Could not get \"%s\" for %s\n"
+msgstr ""
+
+msgid "Could not list \"%s\" for %s\n"
+msgstr ""
+
+msgid "Could not remove \"%s\" for %s\n"
+msgstr ""
+
+msgid "Could not set \"%s\" for %s\n"
+msgstr ""
+
+msgid "No such attribute"
+msgstr "གཏོགས་གཤིས་འདི་མེད།"
+
+msgid "Only one of -s, -g, -r, or -l allowed\n"
+msgstr ""
+
+msgid "Unrecognized option: %c\n"
+msgstr ""
+
+msgid "Usage: %s %s\n"
+msgstr ""
+
+msgid ""
+"Usage: %s %s\n"
+"       %s %s\n"
+"Try `%s --help' for more information.\n"
+msgstr ""
+
+msgid ""
+"Usage: %s %s\n"
+"Try `%s --help' for more information.\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [-LRSq] -s attrname [-V attrvalue] pathname  # set value\n"
+"       %s [-LRSq] -g attrname pathname                 # get value\n"
+"       %s [-LRSq] -r attrname pathname                 # remove attr\n"
+"       %s [-LRq]  -l pathname                          # list attrs \n"
+"      -s reads a value from stdin and -g writes a value to stdout\n"
+msgstr ""
+
+msgid "getting attribute %s of %s"
+msgstr "གཏོགས་གཤིས %sནི་ %sལས་ཐོབ།"
+
+msgid "listing attributes of %s"
+msgstr "%sཡི་གཏོགས་གཤིས་འགྲེམས།"
+
+msgid "setting attribute %s for %s"
+msgstr "གཏོགས་གཤིས %sནི་ %sལྟར་བཀོད།"
+
+msgid "setting attributes for %s"
+msgstr " %sལ་གཏོགས་གཤིས་བཀོད།"

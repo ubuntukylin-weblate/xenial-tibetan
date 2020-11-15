@@ -1,0 +1,1189 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%(detail)s"
+msgstr ""
+
+msgid "%(driver)s is not supported driver version"
+msgstr ""
+
+msgid ""
+"%(entity)s name cannot contain the following reserved characters: %(chars)s"
+msgstr ""
+
+msgid ""
+"%(event)s is not a valid notification event, must be one of: %(actions)s"
+msgstr ""
+
+msgid "%(host)s is not a trusted dashboard host"
+msgstr ""
+
+msgid "%(message)s %(amendment)s"
+msgstr ""
+
+msgid ""
+"%(mod_name)s doesn't provide database migrations. The migration repository "
+"path at %(path)s doesn't exist or isn't a directory."
+msgstr ""
+
+msgid "%(prior_role_id)s does not imply %(implied_role_id)s"
+msgstr ""
+
+msgid "%(property_name)s cannot be less than %(min_length)s characters."
+msgstr ""
+
+msgid "%(property_name)s is not a %(display_expected_type)s"
+msgstr ""
+
+msgid ""
+"%(property_name)s should not be greater than %(max_length)s characters."
+msgstr ""
+
+msgid "%(role_id)s cannot be an implied roles"
+msgstr ""
+
+msgid "%s cannot be empty."
+msgstr ""
+
+msgid "%s extension does not exist."
+msgstr ""
+
+msgid "%s field is required and cannot be empty"
+msgstr ""
+
+msgid "%s field(s) cannot be empty"
+msgstr ""
+
+msgid ""
+"%s for the LDAP identity backend has been deprecated in the Mitaka release "
+"in favor of read-only identity LDAP access. It will be removed in the \"O\" "
+"release."
+msgstr ""
+
+msgid "(Disable insecure_debug mode to suppress these details.)"
+msgstr ""
+
+msgid "--all option cannot be mixed with other options"
+msgstr ""
+
+msgid "A project-scoped token is required to produce a service catalog."
+msgstr ""
+
+msgid "Access token is expired"
+msgstr ""
+
+msgid "Access token not found"
+msgstr ""
+
+msgid "Additional authentications steps required."
+msgstr ""
+
+msgid "An unexpected error occurred when retrieving domain configs"
+msgstr ""
+
+msgid "An unexpected error occurred when trying to store %s"
+msgstr ""
+
+msgid "An unexpected error prevented the server from fulfilling your request."
+msgstr ""
+
+msgid ""
+"An unexpected error prevented the server from fulfilling your request: "
+"%(exception)s"
+msgstr ""
+
+msgid "An unhandled exception has occurred: Could not find metadata."
+msgstr ""
+
+msgid "At least one option must be provided"
+msgstr ""
+
+msgid ""
+"At least one option must be provided, use either --all or --domain-name"
+msgstr ""
+
+msgid "At least one role should be specified."
+msgstr ""
+
+msgid ""
+"Attempted automatic driver selection for assignment based upon "
+"[identity]\\driver option failed since driver %s is not found. Set "
+"[assignment]/driver to a valid driver in keystone config."
+msgstr ""
+
+msgid "Attempted to authenticate with an unsupported method."
+msgstr ""
+
+msgid ""
+"Attempting to use OS-FEDERATION token with V2 Identity Service, use V3 "
+"Authentication"
+msgstr ""
+
+msgid "Authentication plugin error."
+msgstr ""
+
+msgid ""
+"Backend `%(backend)s` is not a valid memcached backend. Valid backends: "
+"%(backend_list)s"
+msgstr ""
+
+msgid "Cannot authorize a request token with a token issued via delegation."
+msgstr ""
+
+msgid "Cannot change %(option_name)s %(attr)s"
+msgstr ""
+
+msgid "Cannot change Domain ID"
+msgstr ""
+
+msgid "Cannot change user ID"
+msgstr ""
+
+msgid "Cannot change user name"
+msgstr ""
+
+msgid "Cannot create an endpoint with an invalid URL: %(url)s"
+msgstr ""
+
+msgid "Cannot create project with parent: %(project_id)s"
+msgstr ""
+
+msgid ""
+"Cannot create project, since it specifies its owner as domain %(domain_id)s,"
+" but specifies a parent in a different domain (%(parent_domain_id)s)."
+msgstr ""
+
+msgid ""
+"Cannot create project, since its parent (%(domain_id)s) is acting as a "
+"domain, but project's specified parent_id (%(parent_id)s) does not match "
+"this domain_id."
+msgstr ""
+
+msgid "Cannot delete a domain that is enabled, please disable it first."
+msgstr ""
+
+msgid ""
+"Cannot delete project %(project_id)s since its subtree contains enabled "
+"projects."
+msgstr ""
+
+msgid ""
+"Cannot delete the project %s since it is not a leaf in the hierarchy. Use "
+"the cascade option if you want to delete a whole subtree."
+msgstr ""
+
+msgid ""
+"Cannot disable project %(project_id)s since its subtree contains enabled "
+"projects."
+msgstr ""
+
+msgid "Cannot enable project %s since it has disabled parents"
+msgstr ""
+
+msgid "Cannot list assignments sourced from groups and filtered by user ID."
+msgstr ""
+
+msgid "Cannot list request tokens with a token issued via delegation."
+msgstr ""
+
+msgid "Cannot open certificate %(cert_file)s. Reason: %(reason)s"
+msgstr ""
+
+msgid "Cannot remove role that has not been granted, %s"
+msgstr ""
+
+msgid ""
+"Cannot truncate a driver call without hints list as first parameter after "
+"self "
+msgstr ""
+
+msgid "Cannot update domain_id of a project that has children."
+msgstr ""
+
+msgid ""
+"Cannot use parents_as_list and parents_as_ids query params at the same time."
+msgstr ""
+
+msgid ""
+"Cannot use subtree_as_list and subtree_as_ids query params at the same time."
+msgstr ""
+
+msgid "Cascade update is only allowed for enabled attribute."
+msgstr ""
+
+msgid ""
+"Combining effective and group filter will always result in an empty list."
+msgstr ""
+
+msgid ""
+"Combining effective, domain and inherited filters will always result in an "
+"empty list."
+msgstr ""
+
+msgid "Config API entity at /domains/%s/config"
+msgstr ""
+
+msgid "Conflict occurred attempting to store %(type)s - %(details)s"
+msgstr ""
+
+msgid "Conflicting region IDs specified: \"%(url_id)s\" != \"%(ref_id)s\""
+msgstr ""
+
+msgid "Consumer not found"
+msgstr ""
+
+msgid ""
+"Could not change immutable attribute(s) '%(attributes)s' in target "
+"%(target)s"
+msgstr ""
+
+msgid ""
+"Could not determine Identity Provider ID. The configuration option "
+"%(issuer_attribute)s was not found in the request environment."
+msgstr ""
+
+msgid ""
+"Could not find %(group_or_option)s in domain configuration for domain "
+"%(domain_id)s"
+msgstr ""
+
+msgid "Could not find Endpoint Group: %(endpoint_group_id)s"
+msgstr ""
+
+msgid "Could not find Identity Provider identifier in environment"
+msgstr ""
+
+msgid "Could not find Identity Provider: %(idp_id)s"
+msgstr ""
+
+msgid "Could not find Service Provider: %(sp_id)s"
+msgstr ""
+
+msgid "Could not find credential: %(credential_id)s"
+msgstr ""
+
+msgid "Could not find domain: %(domain_id)s"
+msgstr ""
+
+msgid "Could not find endpoint: %(endpoint_id)s"
+msgstr ""
+
+msgid ""
+"Could not find federated protocol %(protocol_id)s for Identity Provider: "
+"%(idp_id)s"
+msgstr ""
+
+msgid "Could not find group: %(group_id)s"
+msgstr ""
+
+msgid "Could not find mapping: %(mapping_id)s"
+msgstr ""
+
+msgid "Could not find policy association"
+msgstr ""
+
+msgid "Could not find policy: %(policy_id)s"
+msgstr ""
+
+msgid "Could not find project: %(project_id)s"
+msgstr ""
+
+msgid "Could not find region: %(region_id)s"
+msgstr ""
+
+msgid ""
+"Could not find role assignment with role: %(role_id)s, user or group: "
+"%(actor_id)s, project or domain: %(target_id)s"
+msgstr ""
+
+msgid "Could not find role: %(role_id)s"
+msgstr ""
+
+msgid "Could not find service: %(service_id)s"
+msgstr ""
+
+msgid "Could not find token: %(token_id)s"
+msgstr ""
+
+msgid "Could not find trust: %(trust_id)s"
+msgstr ""
+
+msgid "Could not find user: %(user_id)s"
+msgstr ""
+
+msgid "Could not find version: %(version)s"
+msgstr ""
+
+msgid "Could not find: %(target)s"
+msgstr ""
+
+msgid ""
+"Could not map any federated user properties to identity values. Check debug "
+"logs or the mapping used for additional details."
+msgstr ""
+
+msgid ""
+"Could not map user while setting ephemeral user identity. Either mapping "
+"rules must specify user id/name or REMOTE_USER environment variable must be "
+"set."
+msgstr ""
+
+msgid "Could not validate the access token"
+msgstr ""
+
+msgid "Credential belongs to another user"
+msgstr ""
+
+msgid "Credential signature mismatch"
+msgstr ""
+
+msgid ""
+"Direct import of auth plugin %(name)r is deprecated as of Liberty in favor "
+"of its entrypoint from %(namespace)r and may be removed in N."
+msgstr ""
+
+msgid ""
+"Direct import of driver %(name)r is deprecated as of Liberty in favor of its"
+" entrypoint from %(namespace)r and may be removed in N."
+msgstr ""
+
+msgid ""
+"Disabling an entity where the 'enable' attribute is ignored by "
+"configuration."
+msgstr ""
+
+msgid "Domain (%s)"
+msgstr ""
+
+msgid "Domain cannot be named %s"
+msgstr ""
+
+msgid "Domain cannot have ID %s"
+msgstr ""
+
+msgid "Domain is disabled: %s"
+msgstr ""
+
+msgid "Domain name cannot contain reserved characters."
+msgstr ""
+
+msgid "Domain scoped token is not supported"
+msgstr ""
+
+msgid "Domain specific roles are not supported in the V8 role driver"
+msgstr ""
+
+msgid ""
+"Domain: %(domain)s already has a configuration defined - ignoring file: "
+"%(file)s."
+msgstr ""
+
+msgid "Duplicate Entry"
+msgstr "བསྐྱར་ཟློས་ཀྱི་ས་བཅད།"
+
+msgid "Duplicate ID, %s."
+msgstr ""
+
+msgid "Duplicate entry: %s"
+msgstr ""
+
+msgid "Duplicate name, %s."
+msgstr ""
+
+msgid "Duplicate remote ID: %s"
+msgstr ""
+
+msgid "EC2 access key not found."
+msgstr ""
+
+msgid "EC2 signature not supplied."
+msgstr ""
+
+msgid ""
+"Either --bootstrap-password argument or OS_BOOTSTRAP_PASSWORD must be set."
+msgstr ""
+
+msgid "Enabled field must be a boolean"
+msgstr ""
+
+msgid "Enabled field should be a boolean"
+msgstr ""
+
+msgid "Endpoint %(endpoint_id)s not found in project %(project_id)s"
+msgstr ""
+
+msgid "Endpoint Group Project Association not found"
+msgstr ""
+
+msgid "Ensure configuration option idp_entity_id is set."
+msgstr ""
+
+msgid "Ensure configuration option idp_sso_endpoint is set."
+msgstr ""
+
+msgid ""
+"Error parsing configuration file for domain: %(domain)s, file: %(file)s."
+msgstr ""
+
+msgid "Error while opening file %(path)s: %(err)s"
+msgstr ""
+
+msgid "Error while parsing line: '%(line)s': %(err)s"
+msgstr ""
+
+msgid "Error while parsing rules %(path)s: %(err)s"
+msgstr ""
+
+msgid "Error while reading metadata file, %(reason)s"
+msgstr ""
+
+msgid ""
+"Exceeded attempts to register domain %(domain)s to use the SQL driver, the "
+"last domain that appears to have had it is %(last_domain)s, giving up"
+msgstr ""
+
+msgid "Expected dict or list: %s"
+msgstr ""
+
+msgid ""
+"Expected signing certificates are not available on the server. Please check "
+"Keystone configuration."
+msgstr ""
+
+msgid ""
+"Expecting to find %(attribute)s in %(target)s - the server could not comply "
+"with the request since it is either malformed or otherwise incorrect. The "
+"client is assumed to be in error."
+msgstr ""
+
+msgid "Failed to start the %(name)s server"
+msgstr ""
+
+msgid "Failed to validate token"
+msgstr ""
+
+msgid "Federation token is expired"
+msgstr ""
+
+msgid ""
+"Field \"remaining_uses\" is set to %(value)s while it must not be set in "
+"order to redelegate a trust"
+msgstr ""
+
+msgid "Found invalid token: scoped to both project and domain."
+msgstr ""
+
+msgid "Group  %s not found in config"
+msgstr ""
+
+msgid "Group %(group)s is not supported for domain specific configurations"
+msgstr ""
+
+msgid ""
+"Group %(group_id)s returned by mapping %(mapping_id)s was not found in the "
+"backend."
+msgstr ""
+
+msgid ""
+"Group membership across backend boundaries is not allowed, group in question"
+" is %(group_id)s, user is %(user_id)s"
+msgstr ""
+
+msgid "ID attribute %(id_attr)s not found in LDAP object %(dn)s"
+msgstr ""
+
+msgid "Identity Provider %(idp)s is disabled"
+msgstr ""
+
+msgid ""
+"Incoming identity provider identifier not included among the accepted "
+"identifiers."
+msgstr ""
+
+msgid "Invalid EC2 signature."
+msgstr ""
+
+msgid "Invalid LDAP TLS certs option: %(option)s. Choose one of: %(options)s"
+msgstr ""
+
+msgid "Invalid LDAP TLS_AVAIL option: %s. TLS not available"
+msgstr ""
+
+msgid "Invalid LDAP deref option: %(option)s. Choose one of: %(options)s"
+msgstr ""
+
+msgid "Invalid LDAP scope: %(scope)s. Choose one of: %(options)s"
+msgstr ""
+
+msgid "Invalid TLS / LDAPS combination"
+msgstr ""
+
+msgid "Invalid audit info data type: %(data)s (%(type)s)"
+msgstr ""
+
+msgid "Invalid blob in credential"
+msgstr ""
+
+msgid ""
+"Invalid domain name: %(domain)s found in config file name: %(file)s - "
+"ignoring this file."
+msgstr ""
+
+msgid "Invalid domain specific configuration: %(reason)s"
+msgstr ""
+
+msgid "Invalid input for field '%(path)s'. The value is '%(value)s'."
+msgstr ""
+
+msgid "Invalid limit value"
+msgstr ""
+
+msgid ""
+"Invalid mix of entities for policy association - only Endpoint, Service or "
+"Region+Service allowed. Request was - Endpoint: %(endpoint_id)s, Service: "
+"%(service_id)s, Region: %(region_id)s"
+msgstr ""
+
+msgid ""
+"Invalid rule: %(identity_value)s. Both 'groups' and 'domain' keywords must "
+"be specified."
+msgstr ""
+
+msgid "Invalid signature"
+msgstr ""
+
+msgid "Invalid user / password"
+msgstr ""
+
+msgid "Invalid username or TOTP passcode"
+msgstr ""
+
+msgid "Invalid username or password"
+msgstr ""
+
+msgid "KVS region %s is already configured. Cannot reconfigure."
+msgstr ""
+
+msgid "Key Value Store not configured: %s"
+msgstr ""
+
+msgid "LDAP %s create"
+msgstr ""
+
+msgid "LDAP %s delete"
+msgstr ""
+
+msgid "LDAP %s update"
+msgstr ""
+
+msgid ""
+"Length of transformable resource id > 64, which is max allowed characters"
+msgstr ""
+
+msgid ""
+"Local section in mapping %(mapping_id)s refers to a remote match that "
+"doesn't exist (e.g. {0} in a local section)."
+msgstr ""
+
+msgid "Lock Timeout occurred for key, %(target)s"
+msgstr ""
+
+msgid "Lock key must match target key: %(lock)s != %(target)s"
+msgstr ""
+
+msgid "Malformed endpoint URL (%(endpoint)s), see ERROR log for details."
+msgstr ""
+
+msgid "Marker could not be found"
+msgstr ""
+
+msgid "Max hierarchy depth reached for %s branch."
+msgstr ""
+
+msgid "Maximum lock attempts on %s occurred."
+msgstr ""
+
+msgid "Member %(member)s is already a member of group %(group)s"
+msgstr ""
+
+msgid "Method not callable: %s"
+msgstr ""
+
+msgid "Missing entity ID from environment"
+msgstr ""
+
+msgid ""
+"Modifying \"redelegation_count\" upon redelegation is forbidden. Omitting "
+"this parameter is advised."
+msgstr ""
+
+msgid "Multiple domains are not supported"
+msgstr ""
+
+msgid "Must be called within an active lock context."
+msgstr ""
+
+msgid "Must specify either domain or project"
+msgstr ""
+
+msgid "Name field is required and cannot be empty"
+msgstr ""
+
+msgid "Neither Project Domain ID nor Project Domain Name was provided."
+msgstr ""
+
+msgid ""
+"No Authorization headers found, cannot proceed with OAuth related calls, if "
+"running under HTTPd or Apache, ensure WSGIPassAuthorization is set to On."
+msgstr ""
+
+msgid "No authenticated user"
+msgstr ""
+
+msgid ""
+"No encryption keys found; run keystone-manage fernet_setup to bootstrap one."
+msgstr ""
+
+msgid "No options specified"
+msgstr ""
+
+msgid "No policy is associated with endpoint %(endpoint_id)s."
+msgstr ""
+
+msgid "No remaining uses for trust: %(trust_id)s"
+msgstr ""
+
+msgid "No token in the request"
+msgstr ""
+
+msgid "Non-default domain is not supported"
+msgstr ""
+
+msgid "One of the trust agents is disabled or deleted"
+msgstr ""
+
+msgid ""
+"Option %(option)s found with no group specified while checking domain "
+"configuration request"
+msgstr ""
+
+msgid ""
+"Option %(option)s in group %(group)s is not supported for domain specific "
+"configurations"
+msgstr ""
+
+msgid "Project (%s)"
+msgstr ""
+
+msgid "Project ID not found: %(t_id)s"
+msgstr ""
+
+msgid "Project field is required and cannot be empty."
+msgstr ""
+
+msgid "Project is disabled: %s"
+msgstr ""
+
+msgid "Project name cannot contain reserved characters."
+msgstr ""
+
+msgid "Query string is not UTF-8 encoded"
+msgstr ""
+
+msgid ""
+"Reading the default for option %(option)s in group %(group)s is not "
+"supported"
+msgstr ""
+
+msgid "Redelegation allowed for delegated by trust only"
+msgstr ""
+
+msgid ""
+"Remaining redelegation depth of %(redelegation_depth)d out of allowed range "
+"of [0..%(max_count)d]"
+msgstr ""
+
+msgid ""
+"Remove admin_crud_extension from the paste pipeline, the admin_crud "
+"extension is now always available. Updatethe [pipeline:admin_api] section in"
+" keystone-paste.ini accordingly, as it will be removed in the O release."
+msgstr ""
+
+msgid ""
+"Remove endpoint_filter_extension from the paste pipeline, the endpoint "
+"filter extension is now always available. Update the [pipeline:api_v3] "
+"section in keystone-paste.ini accordingly as it will be removed in the O "
+"release."
+msgstr ""
+
+msgid ""
+"Remove federation_extension from the paste pipeline, the federation "
+"extension is now always available. Update the [pipeline:api_v3] section in "
+"keystone-paste.ini accordingly, as it will be removed in the O release."
+msgstr ""
+
+msgid ""
+"Remove oauth1_extension from the paste pipeline, the oauth1 extension is now"
+" always available. Update the [pipeline:api_v3] section in keystone-"
+"paste.ini accordingly, as it will be removed in the O release."
+msgstr ""
+
+msgid ""
+"Remove revoke_extension from the paste pipeline, the revoke extension is now"
+" always available. Update the [pipeline:api_v3] section in keystone-"
+"paste.ini accordingly, as it will be removed in the O release."
+msgstr ""
+
+msgid ""
+"Remove simple_cert from the paste pipeline, the PKI and PKIz token providers"
+" are now deprecated and simple_cert was only used insupport of these token "
+"providers. Update the [pipeline:api_v3] section in keystone-paste.ini "
+"accordingly, as it will be removed in the O release."
+msgstr ""
+
+msgid ""
+"Remove user_crud_extension from the paste pipeline, the user_crud extension "
+"is now always available. Updatethe [pipeline:public_api] section in "
+"keystone-paste.ini accordingly, as it will be removed in the O release."
+msgstr ""
+
+msgid "Request Token does not have an authorizing user id"
+msgstr ""
+
+msgid ""
+"Request attribute %(attribute)s must be less than or equal to %(size)i. The "
+"server could not comply with the request because the attribute size is "
+"invalid (too large). The client is assumed to be in error."
+msgstr ""
+
+msgid "Request must have an origin query parameter"
+msgstr ""
+
+msgid "Request token is expired"
+msgstr ""
+
+msgid "Request token not found"
+msgstr ""
+
+msgid "Requested expiration time is more than redelegated trust can provide"
+msgstr ""
+
+msgid ""
+"Requested redelegation depth of %(requested_count)d is greater than allowed "
+"%(max_count)d"
+msgstr ""
+
+msgid ""
+"Running keystone via eventlet is deprecated as of Kilo in favor of running "
+"in a WSGI server (e.g. mod_wsgi). Support for keystone under eventlet will "
+"be removed in the \"M\"-Release."
+msgstr ""
+
+msgid "Scoping to both domain and project is not allowed"
+msgstr ""
+
+msgid "Scoping to both domain and trust is not allowed"
+msgstr ""
+
+msgid "Scoping to both project and trust is not allowed"
+msgstr ""
+
+msgid "Service Provider %(sp)s is disabled"
+msgstr ""
+
+msgid "Some of requested roles are not in redelegated trust"
+msgstr ""
+
+msgid "Specify a domain or project, not both"
+msgstr ""
+
+msgid "Specify a user or group, not both"
+msgstr ""
+
+msgid "Specify one of domain or project"
+msgstr ""
+
+msgid "Specify one of user or group"
+msgstr ""
+
+msgid ""
+"String length exceeded.The length of string '%(string)s' exceeded the limit "
+"of column %(type)s(CHAR(%(length)d))."
+msgstr ""
+
+msgid "Tenant name cannot contain reserved characters."
+msgstr ""
+
+msgid ""
+"The %s extension has been moved into keystone core and as such its "
+"migrations are maintained by the main keystone database control. Use the "
+"command: keystone-manage db_sync"
+msgstr ""
+
+msgid ""
+"The 'expires_at' must not be before now. The server could not comply with "
+"the request since it is either malformed or otherwise incorrect. The client "
+"is assumed to be in error."
+msgstr ""
+
+msgid "The --all option cannot be used with the --domain-name option"
+msgstr ""
+
+msgid "The Keystone configuration file %(config_file)s could not be found."
+msgstr ""
+
+msgid ""
+"The Keystone domain-specific configuration has specified more than one SQL "
+"driver (only one is permitted): %(source)s."
+msgstr ""
+
+msgid "The action you have requested has not been implemented."
+msgstr ""
+
+msgid "The authenticated user should match the trustor."
+msgstr ""
+
+msgid ""
+"The certificates you requested are not available. It is likely that this "
+"server does not use PKI tokens otherwise this is the result of "
+"misconfiguration."
+msgstr ""
+
+msgid "The configured token provider does not support bind authentication."
+msgstr ""
+
+msgid "The creation of projects acting as domains is not allowed in v2."
+msgstr ""
+
+msgid ""
+"The password length must be less than or equal to %(size)i. The server could"
+" not comply with the request because the password is invalid."
+msgstr ""
+
+msgid "The request you have made requires authentication."
+msgstr ""
+
+msgid "The resource could not be found."
+msgstr ""
+
+msgid ""
+"The revoke call must not have both domain_id and project_id. This is a bug "
+"in the Keystone server. The current request is aborted."
+msgstr ""
+
+msgid "The service you have requested is no longer available on this server."
+msgstr ""
+
+msgid ""
+"The specified parent region %(parent_region_id)s would create a circular "
+"region hierarchy."
+msgstr ""
+
+msgid ""
+"The value of group %(group)s specified in the config should be a dictionary "
+"of options"
+msgstr ""
+
+msgid "There should not be any non-oauth parameters"
+msgstr ""
+
+msgid "This is not a recognized Fernet payload version: %s"
+msgstr ""
+
+msgid "This is not a recognized Fernet token %s"
+msgstr ""
+
+msgid ""
+"Timestamp not in expected format. The server could not comply with the "
+"request since it is either malformed or otherwise incorrect. The client is "
+"assumed to be in error."
+msgstr ""
+
+msgid ""
+"To get a more detailed information on this error, re-run this command for "
+"the specific domain, i.e.: keystone-manage domain_config_upload --domain-"
+"name %s"
+msgstr ""
+
+msgid "Token belongs to another user"
+msgstr ""
+
+msgid "Token does not belong to specified tenant."
+msgstr ""
+
+msgid "Token version is unrecognizable or unsupported."
+msgstr ""
+
+msgid "Trustee has no delegated roles."
+msgstr ""
+
+msgid "Trustor is disabled."
+msgstr ""
+
+msgid ""
+"Trying to update group %(group)s, so that, and only that, group must be "
+"specified in the config"
+msgstr ""
+
+msgid ""
+"Trying to update option %(option)s in group %(group)s, but config provided "
+"contains option %(option_other)s instead"
+msgstr ""
+
+msgid ""
+"Trying to update option %(option)s in group %(group)s, so that, and only "
+"that, option must be specified  in the config"
+msgstr ""
+
+msgid ""
+"Unable to access the keystone database, please check it is configured "
+"correctly."
+msgstr ""
+
+msgid "Unable to consume trust %(trust_id)s, unable to acquire lock."
+msgstr ""
+
+msgid ""
+"Unable to delete region %(region_id)s because it or its child regions have "
+"associated endpoints."
+msgstr ""
+
+msgid "Unable to downgrade schema"
+msgstr ""
+
+msgid "Unable to find valid groups while using mapping %(mapping_id)s"
+msgstr ""
+
+msgid "Unable to locate domain config directory: %s"
+msgstr ""
+
+msgid "Unable to lookup user %s"
+msgstr ""
+
+msgid ""
+"Unable to reconcile identity attribute %(attribute)s as it has conflicting "
+"values %(new)s and %(old)s"
+msgstr ""
+
+msgid ""
+"Unable to sign SAML assertion. It is likely that this server does not have "
+"xmlsec1 installed, or this is the result of misconfiguration. Reason "
+"%(reason)s"
+msgstr ""
+
+msgid "Unable to sign token."
+msgstr ""
+
+msgid "Unexpected assignment type encountered, %s"
+msgstr ""
+
+msgid ""
+"Unexpected combination of grant attributes - User: %(user_id)s, Group: "
+"%(group_id)s, Project: %(project_id)s, Domain: %(domain_id)s"
+msgstr ""
+
+msgid "Unexpected status requested for JSON Home response, %s"
+msgstr ""
+
+msgid "Unknown Target"
+msgstr ""
+
+msgid "Unknown domain '%(name)s' specified by --domain-name"
+msgstr ""
+
+msgid "Unknown token version %s"
+msgstr ""
+
+msgid "Unregistered dependency: %(name)s for %(targets)s"
+msgstr ""
+
+msgid "Update of `domain_id` is not allowed."
+msgstr ""
+
+msgid "Update of `is_domain` is not allowed."
+msgstr ""
+
+msgid "Update of `parent_id` is not allowed."
+msgstr ""
+
+msgid "Update of domain_id is only allowed for root projects."
+msgstr ""
+
+msgid "Update of domain_id of projects acting as domains is not allowed."
+msgstr ""
+
+msgid "Use a project scoped token when attempting to create a SAML assertion"
+msgstr ""
+
+msgid ""
+"Use of the identity driver config to automatically configure the same "
+"assignment driver has been deprecated, in the \"O\" release, the assignment "
+"driver will need to be expicitly configured if different than the default "
+"(SQL)."
+msgstr ""
+
+msgid "User %(u_id)s is unauthorized for tenant %(t_id)s"
+msgstr ""
+
+msgid "User %(user_id)s has no access to domain %(domain_id)s"
+msgstr ""
+
+msgid "User %(user_id)s has no access to project %(project_id)s"
+msgstr ""
+
+msgid "User %(user_id)s is already a member of group %(group_id)s"
+msgstr ""
+
+msgid "User '%(user_id)s' not found in group '%(group_id)s'"
+msgstr ""
+
+msgid "User IDs do not match"
+msgstr ""
+
+msgid ""
+"User auth cannot be built due to missing either user id, or user name with "
+"domain id, or user name with domain name."
+msgstr ""
+
+msgid "User is disabled: %s"
+msgstr ""
+
+msgid "User is not a member of the requested project"
+msgstr ""
+
+msgid "User is not a trustee."
+msgstr ""
+
+msgid "User not found"
+msgstr ""
+
+msgid "User not valid for tenant."
+msgstr ""
+
+msgid "User roles not supported: tenant_id required"
+msgstr ""
+
+msgid "User type %s not supported"
+msgstr ""
+
+msgid "You are not authorized to perform the requested action."
+msgstr ""
+
+msgid "You are not authorized to perform the requested action: %(action)s"
+msgstr ""
+
+msgid ""
+"You have tried to create a resource using the admin token. As this token is "
+"not within a domain you must explicitly include a domain for this resource "
+"to belong to."
+msgstr ""
+
+msgid "`key_mangler` functions must be callable."
+msgstr ""
+
+msgid "`key_mangler` option must be a function reference"
+msgstr ""
+
+msgid "any options"
+msgstr ""
+
+msgid "auth_type is not Negotiate"
+msgstr ""
+
+msgid "authorizing user does not have role required"
+msgstr ""
+
+msgid "cannot create a project in a branch containing a disabled project: %s"
+msgstr ""
+
+msgid ""
+"cannot delete an enabled project acting as a domain. Please disable the "
+"project %s first."
+msgstr ""
+
+msgid "group %(group)s"
+msgstr ""
+
+msgid ""
+"idp_contact_type must be one of: [technical, other, support, administrative "
+"or billing."
+msgstr ""
+
+msgid "invalid date format %s"
+msgstr ""
+
+msgid ""
+"it is not permitted to have two projects acting as domains with the same "
+"name: %s"
+msgstr ""
+
+msgid ""
+"it is not permitted to have two projects within a domain with the same name "
+": %s"
+msgstr ""
+
+msgid "only root projects are allowed to act as domains."
+msgstr ""
+
+msgid "option %(option)s in group %(group)s"
+msgstr ""
+
+msgid "provided consumer key does not match stored consumer key"
+msgstr ""
+
+msgid "provided request key does not match stored request key"
+msgstr ""
+
+msgid "provided verifier does not match stored verifier"
+msgstr ""
+
+msgid "remaining_uses must be a positive integer or null."
+msgstr ""
+
+msgid "remaining_uses must not be set if redelegation is allowed"
+msgstr ""
+
+msgid ""
+"request to update group %(group)s, but config provided contains group "
+"%(group_other)s instead"
+msgstr ""
+
+msgid "rescope a scoped token"
+msgstr ""
+
+msgid "role %s is not defined"
+msgstr ""
+
+msgid ""
+"scope.project.id must be specified if include_subtree is also specified"
+msgstr ""
+
+msgid "tls_cacertdir %s not found or is not a directory"
+msgstr ""
+
+msgid "tls_cacertfile %s not found or is not a file"
+msgstr ""
+
+msgid "token reference must be a KeystoneToken type, got: %s"
+msgstr ""
+
+msgid ""
+"update of domain_id is deprecated as of Mitaka and will be removed in O."
+msgstr ""
+
+msgid ""
+"validated expected to find %(param_name)r in function signature for "
+"%(func_name)r."
+msgstr ""

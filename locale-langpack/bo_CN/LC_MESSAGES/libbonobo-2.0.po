@@ -1,0 +1,342 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%s already in configuration file\n"
+msgstr ""
+
+msgid "An exception occurred '%s'"
+msgstr ""
+
+msgid "An unsupported action was attempted"
+msgstr ""
+
+msgid "An unsupported storage action was attempted"
+msgstr ""
+
+msgid "An unsupported stream action was attempted"
+msgstr ""
+
+msgid "Application unique name"
+msgstr ""
+
+msgid "Bonobo Activation options:"
+msgstr ""
+
+msgid "Bonobo Echo server factory"
+msgstr ""
+
+msgid "Bonobo Echo server sample program"
+msgstr ""
+
+msgid "Bonobo activation options"
+msgstr ""
+
+msgid "Bonobo-activation configuration file contains:\n"
+msgstr ""
+
+msgid "CORBA CosNaming service."
+msgstr ""
+
+msgid "Can't find symbol Bonobo_Plugin_info in `%s'"
+msgstr ""
+
+msgid "Cannot activate object from factory"
+msgstr ""
+
+msgid "Child process did not give an error message, unknown failure occurred"
+msgstr ""
+
+msgid "Command is insensitive"
+msgstr ""
+
+msgid "Could not create an instance of the sample echo component"
+msgstr ""
+
+msgid "Could not parse badly formed XML document %s"
+msgstr ""
+
+msgid "Could not save configuration file.\n"
+msgstr ""
+
+msgid "Couldn't find which child the server was listed in"
+msgstr ""
+
+msgid "Couldn't spawn a new process"
+msgstr ""
+
+msgid "Custom CORBA POA"
+msgstr ""
+
+msgid "DIRECTORY"
+msgstr "དཀར་ཆག"
+
+msgid "Directory to add to configuration file"
+msgstr ""
+
+msgid "Directory to read .server files from"
+msgstr ""
+
+msgid "Directory to remove from configuration file"
+msgstr ""
+
+msgid "Display directories in configuration file"
+msgstr ""
+
+msgid "Display path to configuration file"
+msgstr ""
+
+msgid "EOF from child process\n"
+msgstr ""
+
+msgid "EXPRESSION"
+msgstr "མཚོན་ཚུལ།"
+
+msgid "Echo component"
+msgstr ""
+
+msgid "Echo component factory"
+msgstr ""
+
+msgid "Error checking error; no exception"
+msgstr ""
+
+msgid "Exception activating '%s'"
+msgstr ""
+
+msgid "FD"
+msgstr "FD"
+
+msgid "Factory `%s' returned NIL for `%s'"
+msgstr ""
+
+msgid "Failed to activate '%s'"
+msgstr ""
+
+msgid "Failed to activate object"
+msgstr ""
+
+msgid "Failed to read from child process: %s\n"
+msgstr ""
+
+msgid "Failed to resolve, or extend '%s'"
+msgstr ""
+
+msgid "File descriptor to print IOR on"
+msgstr ""
+
+msgid "File descriptor to write IOR to"
+msgstr ""
+
+msgid "General activation error with no description"
+msgstr ""
+
+msgid "HTTP Moniker"
+msgstr ""
+
+msgid "I could not initialize Bonobo"
+msgstr ""
+
+msgid "IID to activate"
+msgstr ""
+
+msgid "IO Error"
+msgstr ""
+
+msgid "IO Error on storage"
+msgstr ""
+
+msgid "IO Error on stream"
+msgstr ""
+
+msgid "Invalid argument value"
+msgstr ""
+
+msgid "Moniker activation timed out"
+msgstr ""
+
+msgid "Moniker has an unknown moniker prefix"
+msgstr ""
+
+msgid "Moniker interface cannot be found"
+msgstr ""
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Name already exists in storage"
+msgstr ""
+
+msgid "Name service"
+msgstr ""
+
+msgid "No permission to access stream"
+msgstr ""
+
+msgid "No permission to do operation on storage"
+msgstr ""
+
+msgid "Not a valid Activation ID"
+msgstr ""
+
+msgid "Notification service"
+msgstr ""
+
+msgid "Notification service for activation"
+msgstr ""
+
+msgid "ORB IOR handling moniker"
+msgstr ""
+
+msgid "Object is not a storage"
+msgstr ""
+
+msgid "Object is not a stream"
+msgstr ""
+
+msgid "Object not found"
+msgstr ""
+
+msgid "Object not found in storage"
+msgstr ""
+
+msgid "PATH"
+msgstr "འགྲོ་ལམ།"
+
+msgid "POA"
+msgstr ""
+
+msgid "Please, make sure you have permissions to write to '%s'.\n"
+msgstr ""
+
+msgid "Prevent registering of server with OAF"
+msgstr ""
+
+msgid "Property '%s' has no value"
+msgstr ""
+
+msgid "Query expression to evaluate"
+msgstr ""
+
+msgid ""
+"Register as the user's activation server without locking.  Warning: this "
+"option can have dangerous side effects on the stability of the user's "
+"running session, and should only be used for debugging purposes"
+msgstr ""
+
+msgid "Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+
+msgid "Serve as an ActivationContext (default is as an ObjectDirectory only)"
+msgstr ""
+
+msgid "Shlib `%s' didn't contain `%s'"
+msgstr ""
+
+msgid "Show Bonobo Activation options"
+msgstr ""
+
+msgid "Standard Moniker factory"
+msgstr ""
+
+msgid "Storage is not empty"
+msgstr ""
+
+msgid "Successfully wrote configuration file.\n"
+msgstr ""
+
+msgid "Syntax error in object description"
+msgstr ""
+
+msgid "Syntax error within moniker"
+msgstr ""
+
+msgid ""
+"The Bonobo Activation configuration file was not read successfully. Please, "
+"check it is valid in: %s"
+msgstr ""
+
+msgid "Trying dir %s"
+msgstr ""
+
+msgid "Unknown command or verb"
+msgstr ""
+
+msgid "We don't handle activating shlib objects in a remote process yet"
+msgstr ""
+
+msgid "a NULL iid is not valid"
+msgstr ""
+
+msgid "config database backend failed "
+msgstr ""
+
+msgid ""
+"configuration file is:\n"
+"    %s\n"
+msgstr ""
+
+msgid "g_module_open of `%s' failed with `%s'"
+msgstr ""
+
+msgid "generic Oaf activation moniker"
+msgstr ""
+
+msgid "generic Oaf query moniker"
+msgstr ""
+
+msgid "generic factory 'new' moniker"
+msgstr ""
+
+msgid "generic item moniker"
+msgstr ""
+
+msgid "iid %s has a NULL location"
+msgstr ""
+
+msgid "iid %s has a NULL type"
+msgstr ""
+
+msgid "incorrect data type"
+msgstr ""
+
+msgid "invalid character '%c' in iid '%s'"
+msgstr ""
+
+msgid "invalid path to XML user interface element"
+msgstr ""
+
+msgid "malformed user interface XML description"
+msgstr ""
+
+msgid "property has invalid type"
+msgstr ""
+
+msgid "property is read only"
+msgstr ""
+
+msgid "property not found"
+msgstr ""
+
+msgid "stream MonikerExtender"
+msgstr ""
+
+msgid "stream not found"
+msgstr ""
+
+msgid "the requested UI attribute didn't exist"
+msgstr ""
+
+msgid "there is not a properly structured configuration file\n"
+msgstr ""

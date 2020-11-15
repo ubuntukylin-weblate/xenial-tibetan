@@ -1,0 +1,926 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "\tTry `%s --help' for a complete list of options.\n"
+msgstr ""
+
+msgid ""
+"   Source files groveled to make this file include:\n"
+"\n"
+msgstr ""
+
+msgid "  -b, --speech-friendly        be friendly to speech synthesizers."
+msgstr " -b, --speech-friendly        མཛའ་མཐུན་ངང་སྐད་གདངས་འདྲེས་གྲུབ་བྱེད་པ།"
+
+msgid ""
+" --silent            suppress warnings.\n"
+" --test              suppress updating of DIR-FILE.\n"
+" --version           display version information and exit."
+msgstr ""
+
+msgid " backward"
+msgstr "རྒྱབ་ཕྱོགས་སུ་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid " case-sensitively"
+msgstr "འབྲི་ཆེ་ཆུང་ལ་ཚོར་བ་རྣོ།"
+
+msgid "\"%s\" is invalid"
+msgstr ""
+
+msgid "\"%s\", line %u: "
+msgstr ""
+
+msgid "%c%s missing close brace"
+msgstr "%c%s ཆད་ལུས་ཁ་ཟུམ་གུག་རྟགས་ཁ་བཅད།"
+
+msgid "%c%s requires a name"
+msgstr "\"%c%s ལ་མིང་གཅིག་དགོས།"
+
+msgid "%s can be invoked via %s."
+msgstr "%s དེ་  %s C6120རྒྱུད་ནས་འདྲེན་སྤྱོད་བྱས་ཆོག"
+
+msgid "%s can only be invoked via %s."
+msgstr "%s དེ་  %s རྒྱུད་ནས་འདྲེན་སྤྱོད་བྱས་མི་ཆོག"
+
+msgid "%s is undefined."
+msgstr "%s མཚན་ཉིད་བཞག་མེད།"
+
+msgid "%s requires an argument: the formatter for %citem"
+msgstr "%s ལ་ཞུགས་གྲངས་ཤིག་དགོས།: %citem ཡི་རྣམ་གཞག་ཅན་གྱི་ཞུགས་གྲངས།"
+
+msgid "%s%s%s [%s]: "
+msgstr "%s%s%s [%s]:"
+
+msgid "%s: --footnote-style arg must be `separate' or `end', not `%s'.\n"
+msgstr ""
+
+msgid "%s: --paragraph-indent arg must be numeric/`none'/`asis', not `%s'.\n"
+msgstr ""
+
+msgid "%s: Specify the Info file only once.\n"
+msgstr ""
+
+msgid "%s: already have dir file: %s\n"
+msgstr ""
+
+msgid "%s: empty file"
+msgstr "%s：ཡིག་ཆ་སྟོང་པ།"
+
+msgid "%s: missing file argument.\n"
+msgstr ""
+
+msgid "---------- Footnotes ----------"
+msgstr " ---------- རྐང་མཆན། ----------"
+
+msgid "-----Info: (), lines ----, "
+msgstr " -----Info：()，ཕྲེང་། ----，"
+
+msgid "1...9       Pick the first...ninth item in this node's menu.\n"
+msgstr ""
+
+msgid "@%s not meaningful inside `@%s' block"
+msgstr "“@%2$s”དུམ་བུའི་ནང་ “@%1$s” ལ་དོན་སྙིང་མེད།"
+
+msgid "@%s not meaningful outside `@titlepage' and `@quotation' environments"
+msgstr ""
+"“@titlepage”དང་“@quotation”ཁོར་ཡུག་འགྱུར་ཚད་ལས་གཞན་དུ་ @%s ལ་དོན་སྙིང་མེད།"
+
+msgid "@image file `%s' unreadable: %s"
+msgstr "@image ཡིག་ཆ“%s”ཀློག་མི་ཐུབ།：%s"
+
+msgid "@image missing filename argument"
+msgstr " @image ཡིག་ཆའི་མིང་ཞུགས་གྲངས་ལུས་པ།"
+
+msgid ""
+"@strong{Note...} produces a spurious cross-reference in Info; reword to "
+"avoid that"
+msgstr ""
+"@strong{Note...} དེ་ Info "
+"ཡི་ནང་དུ་ཉེར་སྤྱོད་གསེབ་མ་རྫུན་མ་ཞིག་ཏུ་གྱུར་ཡོད་དེ་ཡང་བསྐྱར་བྲིས་པ་རྒྱུད་ནས་དོན་རྐྱེན་དེ་མི་འབྱུང་བར་བྱས་ཆོག"
+
+msgid "Accept (or force completion of) this line"
+msgstr "ཕྲེང་དེ་དང་ལེན།(ཡང་ན་བཙན་གྱིས་ལེགས་འགྲུབ་བྱེད་པ།)"
+
+msgid "Add or remove entries in INFO-FILE from the Info directory DIR-FILE."
+msgstr ""
+"དཀར་ཆག Info ནས་ DIR-FILE ཡི་ INFO-FILE ཡིག་ཆ་རུ་ཚན་པ་ཁ་སྣོན་དང་ཡང་ན་བསུབ་པ།"
+
+msgid "Add this digit to the current numeric argument"
+msgstr "གྲངས་ཀ་འདི་མིག་སྔའི་གྲངས་ཐང་གས་གྲངས་སུ་ཁ་སྣོན་བྱེད་པ།"
+
+msgid "Basic Info command keys\n"
+msgstr ""
+
+msgid "Building completions..."
+msgstr "གསབ་གསོ་གསར་འཛུགས་བྱེད་བཞིན་པ།..."
+
+msgid "Cancel current operation"
+msgstr "མིག་སྔའི་བཀོལ་སྤྱོད་དོར་བ།"
+
+msgid "Cancel or quit operation"
+msgstr "བཀོལ་སྤྱོད་དོར་བའམ་ཕྱིར་འབུད།"
+
+msgid "Cannot delete a permanent window"
+msgstr "ཡུན་རིང་སྒེའུ་ཁུང་བསུབ་ཐབས་མེད།"
+
+msgid "Cannot delete the last window."
+msgstr "ཆེས་རྗེས་མའི་སྒེའུ་ཁུང་བསུབ་ཐབས་མེད།"
+
+msgid "Cannot find a window!"
+msgstr "སྒེའུ་ཁུང་ཞིག་རྙེད་ཐབས་མེད།"
+
+msgid ""
+"Commands available in Info windows:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Commands available in the echo area:\n"
+"\n"
+msgstr ""
+
+msgid "Controls what happens when scrolling is requested at the end of a node"
+msgstr ""
+"ཚིགས་ཚེག་གི་མཇུག་ཏུ་ཚོད་འཛིན་བྱེད་སྐབས་འགྲིལ་མདའི་རེ་ཞུར་ཅི་ཞིག་འབྱུང་སྲིད་པ་མངོན་པ།"
+
+msgid "Controls whether scroll-behavior affects cursor movement commands"
+msgstr ""
+"འགུལ་སྤྱོད་ཚོད་འཛིན་བྱས་ན་འོད་རྟགས་སྒུལ་བདེ་བཀའ་བརྡ་ལ་ཤུགས་རྐྱེན་ཐེབས་མིན།"
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+
+msgid "Couldn't manipulate the file %s.\n"
+msgstr ""
+
+msgid "Delete all other windows"
+msgstr "སྒེའུ་ཁུང་གཞན་ཆ་ཚང་བསུབ་པ།"
+
+msgid "Delete the character behind the cursor"
+msgstr "འོད་རྟགས་རྗེས་ཀྱི་ཡིག་རྟགས་བསུབ་པ།"
+
+msgid "Delete the character under the cursor"
+msgstr ""
+
+msgid "Delete the current window"
+msgstr "མིག་སྔའི་སྒེའུ་ཁུང་བསུབ་པ།"
+
+msgid "Describe command: "
+msgstr "བཀའ་བརྡ་གསལ་བཤད།："
+
+msgid "Describe key: %s"
+msgstr "མཐེབ་གནོན་གསལ་བཤད།：%s"
+
+msgid "Describe variable: "
+msgstr "འགྱུར་ཚད་གསལ་བཤད།："
+
+msgid "Display help message"
+msgstr "རོགས་སྐྱོར་རེ་ཞུའི་བརྡ་འཕྲིན་མངོན་པ།"
+
+msgid "Divide the available screen space among the visible windows"
+msgstr "མཐོང་ཐུབ་པའི་སྒེའུ་ཁུང་བར་དུ་སྤྱོད་ཆོག་པའི་བརྙན་ཡོལ་བར་སྟོང་བགོ་བ།"
+
+msgid "END-INFO-DIR-ENTRY without matching START-INFO-DIR-ENTRY"
+msgstr "END-INFO-DIR-ENTRY  ཟླ་སྒྲིག་པའི་ START-INFO-DIR-ENTRY མེད།"
+
+msgid ""
+"Email bug reports to bug-texinfo@gnu.org,\n"
+"general questions and discussion to help-texinfo@gnu.org.\n"
+"Texinfo home page: http://www.gnu.org/software/texinfo/"
+msgstr ""
+
+msgid "Error in regular expression `%s': %s"
+msgstr "ཚད་ལྡན་མཚོན་ཚུལ་ “%s” ཡི་ནང་དུ་ནོར་འཁྲུལ་ཡོད།： %s"
+
+msgid "Explain the use of a variable"
+msgstr "འགྱུར་ཚད་ཀྱི་སྤྱོད་ཐབས་འགྲེལ་བཤད་བྱེད་པ།"
+
+msgid "Extra regular expression specified, ignoring `%s'"
+msgstr "ཚད་བརྒལ་བའི་ཚད་ལྡན་མཚོན་ཚུལ་དམིགས་བཙུགས་པས་ “%s” དེ་སྣང་མེད་དུ་བཞག"
+
+msgid "Failing "
+msgstr "ཕམ་པ།"
+
+msgid "Find Invocation node of [%s]: "
+msgstr "[%s] ཡི་འདྲེན་སྤྱོད་ཚིགས་ཚེག་འཚོལ་བ།："
+
+msgid "Find file: "
+msgstr "ཡིག་ཆ་འཚོལ་བ།："
+
+msgid "Find the node describing program invocation"
+msgstr "བྱ་རིམ་འདྲེན་སྤྱོད་གསལ་བཤད་ཀྱི་ཚིགས་ཚེག་འཚོལ་བ།"
+
+msgid "Finding index entries..."
+msgstr "གསལ་བྱང་ཚན་པ་བཤེར་འཚོལ་བྱེད་བཞིན་པ།..."
+
+msgid "Follow menus: "
+msgstr "འདེམས་བྱང་གི་རྗེས་འབྲངས།："
+
+msgid "Follow xref (%s): "
+msgstr "ཉེར་སྤྱོད་གསེབ་མའི་རྗེས་འབྲངས། (%s)："
+
+msgid "Follow xref: "
+msgstr "ཉེར་སྤྱོད་གསེབ་མའི་རྗེས་འབྲངས།:"
+
+msgid "Footnotes could not be displayed"
+msgstr "རྐང་མཆན་ཤར་ཐབས་མེད།"
+
+msgid "Get Manpage: "
+msgstr "man ལག་དེབ་ཐོབ་པ།："
+
+msgid "Goto node: "
+msgstr "ཚིགས་ཚེག་ཏུ་བསྒྱུར་བ།："
+
+msgid "Grovel all known info file's indices for a string and build a menu"
+msgstr ""
+"ངེས་ཟིན་པའི་ info "
+"ཡིག་ཆ་ཚང་མ་དང་འདྲི་རྩད་ཡིག་རྟགས་ཕྲེང་འདུས་པའི་གསལ་བྱང་ལེགས་སྒྲིག་བྱེད་པ་དང་ཆབ་ཅིག་འདེམས་བྱང་ཞིག་གསར་འཛུགས་བྱེད་པ།"
+
+msgid "Grow (or shrink) this window"
+msgstr "སྒེའུ་ཁུང་འདི་རྒྱ་སྐྱེད་པ། (ཡང་ན་སྐྱུང་པ།)"
+
+msgid "I-search backward: "
+msgstr "རྒྱབ་ཕྱོགས་སུ་བཤེར་ཚད་འཕར་བ།："
+
+msgid "I-search: "
+msgstr "བཤེར་ཚད་འཕར་བ།："
+
+msgid "Index entry: "
+msgstr "གསལ་བྱང་ཚན་པ།:"
+
+msgid "Insert a TAB character"
+msgstr "tab ཡིག་རྟགས་ཤིག་བར་འཇུག"
+
+msgid "Insert completion"
+msgstr "གསབ་སྣོན་བར་འཇུག"
+
+msgid "Insert next character verbatim"
+msgstr "ཐོག་མའི་དབྱིབས་བཞིན་ཡིག་རྟགས་རྗེས་མ་བར་འཇུག"
+
+msgid "Kill ring is empty"
+msgstr "དྲས་དེབ་སྟོང་པ་རེད།"
+
+msgid "Kill the word following the cursor"
+msgstr "འོད་རྟགས་རྗེས་ཀྱི་ཐ་སྙད་དྲས་གཏུབ།"
+
+msgid "Kill the word preceding the cursor"
+msgstr "འོད་རྟགས་གོང་གི་ཐ་སྙད་དྲས་གཏུབ།"
+
+msgid "Kill to the beginning of the line"
+msgstr "ཕྲེང་འདིའི་མགོའི་བར་དུ་དྲས་པ།"
+
+msgid "Kill to the end of the line"
+msgstr "ཕྲེང་འདིའི་མཇུག་གི་བར་དུ་དྲས་པ།"
+
+msgid "List possible completions"
+msgstr "སྲིད་པའི་ཁ་གསབ་རེ་རེ་བཞིན་བཀོད་པ།"
+
+msgid "Look up a string in the index for this file"
+msgstr "ཡིག་ཆ་འདིའི་གསལ་བྱང་དུ་ཡིག་རྟགས་ཕྲེང་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Make a window containing a menu of all of the currently visited nodes"
+msgstr ""
+"སྒེའུ་ཁུང་གཅིག་གི་ནང་དུ་མིག་སྔའི་འཚམས་འདྲིའི་ཚིགས་ཚེག་ཡོད་ཚད་འདུས་པའི་འདེམས་བྱང་འདུ་བར་བྱེད་པ།"
+
+msgid "Menu item (%s): "
+msgstr "འདེམས་བྱང་ཚན་པ། (%s)："
+
+msgid "Menu item: "
+msgstr "འདེམས་བྱང་ཚན་པ།："
+
+msgid "Move backward a character"
+msgstr "རྒྱབ་ཕྱོགས་སུ་ཡིག་རྟགས་གཅིག་སྤོ་བ།"
+
+msgid "Move backward a word"
+msgstr "རྒྱབ་ཕྱོགས་སུ་ཐ་སྙད་གཅིག་སྤོ་བ།"
+
+msgid "Move backwards or up through node structure"
+msgstr "ཚིགས་ཚེག་ཆགས་ཚུལ་ནང་དུ་རྒྱབ་ཕྱོགས་སམ་གོང་རིམ་དུ་སྤོ་བ།"
+
+msgid "Move down to the next line"
+msgstr "ཞོལ་ཕྱོགས་སུ་ཕྲེང་གཅིག་སྤོ་བ།"
+
+msgid "Move forward a character"
+msgstr "མདུན་ཕྱོགས་སུ་ཡིག་རྟགས་གཅིག་སྤོ་བ།"
+
+msgid "Move forward a word"
+msgstr "མདུན་ཕྱོགས་སུ་ཐ་སྙད་གཅིག་སྤོ་བ།"
+
+msgid "Move forwards or down through node structure"
+msgstr "ཚིགས་ཚེག་ཆགས་ཚུལ་ནང་དུ་མདུན་ཕྱོགས་སམ་ཞོལ་རིམ་དུ་སྤོ་བ།"
+
+msgid "Move the cursor to a specific line of the window"
+msgstr "འོད་རྟགས་སྒེའུ་ཁུང་གི་དམིགས་བཙུགས་ཕྲེང་དུ་སྤོ་བ།"
+
+msgid "Move to the end of the line"
+msgstr "ཕྲེང་གི་མཇུག་ཏུ་སྤོ་བ།"
+
+msgid "Move to the end of this line"
+msgstr "ཕྲེང་འདིའི་མཇུག་ཏུ་སྤོ་བ།"
+
+msgid "Move to the end of this node"
+msgstr "ཚིགས་ཚེག་འདིའི་མཇུགས་ཏུ་སྤོ་བ།"
+
+msgid "Move to the next cross reference"
+msgstr "ཉེར་སྤྱོད་གསབ་མ་རྗེས་མ་རུ་སྤོ་བ།"
+
+msgid "Move to the previous cross reference"
+msgstr "ཉེར་སྤྱོད་གསབ་མ་གོང་མ་རུ་སྤོ་བ།"
+
+msgid "Move to the start of the line"
+msgstr "ཕྲེང་གི་མགོ་རུ་སྤོ་བ།"
+
+msgid "Move to the start of this line"
+msgstr "ཕྲེང་འདིའི་མགོ་རུ་སྤོ་བ།"
+
+msgid "Move to the start of this node"
+msgstr "ཚིགས་ཚེག་འདིའི་མགོ་རུ་སྤོ་བ།"
+
+msgid "Move to the start of this node's menu"
+msgstr "ཚིགས་ཚེག་འདེམས་བྱང་འདིའི་མགོ་རུ་སྤོ་བ།"
+
+msgid "Move up to the previous line"
+msgstr "སྟེང་ཕྱོགས་ཕྲེང་གོང་མ་རུ་སྤོ་བ།"
+
+msgid "NUL character (\\000) not permitted"
+msgstr ""
+
+msgid "NUL character (^%c) not permitted"
+msgstr "ཆོག་མཆན་མ་ཐོབ་པའི་ཡིག་རྟགས་སྟོང་པ།(^%c)"
+
+msgid "No completions"
+msgstr "ཁ་གསབ་མེད།"
+
+msgid "No cross references in this node."
+msgstr "ཚིགས་ཚེག་འདིའི་ནང་ཉེར་སྤྱོད་གསབ་མ་མེད།"
+
+msgid "No dir file specified; try --help for more information."
+msgstr ""
+"དཀར་ཆག་ཡིག་ཆ་དམིགས་འཛུགས་བྱས་མེད་པས་ --help "
+"སྤྱོད་ཚོད་བྱས་ནས་ཆ་འཕྲིན་གང་མང་ཐོབ་པར་བྱེད་དགོས།"
+
+msgid "No footnotes in this node."
+msgstr "ཚིགས་ཚེག་འདིའི་ནང་རྐང་མཆན་མེད།"
+
+msgid "No indices found."
+msgstr "གསལ་བྱང་རྙེད་མ་བྱུང་།"
+
+msgid "No input file specified; try --help for more information."
+msgstr ""
+"ཕྱིར་འདྲེན་ཡིག་ཆ་དམིགས་འཛུགས་བྱས་མེད་པས་ --help "
+"སྤྱོད་ཚོད་བྱས་ནས་ཆ་འཕྲིན་གང་མང་ཐོབ་པར་བྱེད་དགོས།"
+
+msgid "No menu in this node."
+msgstr "ཚིགས་ཚེག་འདིའི་ནང་འདེམས་བྱང་མེད།"
+
+msgid "No more nodes within this document."
+msgstr "ཡིག་ཚགས་འདིའི་ནང་ཚིགས་ཚེག་གང་མང་མེད།"
+
+msgid "No previous index search string."
+msgstr "གསལ་བྱང་བཤེར་འཚོལ་ཡིག་རྟགས་ཕྲེང་གོང་མ་མེད།"
+
+msgid "No previous search string"
+msgstr "ཐེངས་གོང་མའི་ཡིག་རྟགས་ཕྲེང་བཤེར་འཚོལ་མེད།"
+
+msgid "Not complete"
+msgstr "ཁ་གསབ་བྱས་མེད།"
+
+msgid "Not enough room for a help window, please delete a window."
+msgstr ""
+"རོགས་སྐྱོར་སྒེའུ་ཁུང་དུ་སྤྱོད་པའི་བར་སྟོང་འདང་ཚོད་ཅིག་མེད་པས་སྒེའུ་ཁུང་གཅིག་བསུབ་རོགས།"
+
+msgid "Only @%s 10 or 11 is supported, not `%s'"
+msgstr "@%s 10 འམ་ཡང་ན་ 11 ཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད་པ་ལས “%s” མིན།"
+
+msgid "Only one window."
+msgstr "སྒེའུ་ཁུང་མ་གཏོགས་མེད།"
+
+msgid ""
+"Options for Info and plain text:\n"
+"      --disable-encoding      do not output accented and special characters\n"
+"                                in Info output based on @documentencoding.\n"
+"      --enable-encoding       override --disable-encoding (default).\n"
+"      --fill-column=NUM       break Info lines at NUM characters (default %d).\n"
+"      --footnote-style=STYLE  output footnotes in Info according to STYLE:\n"
+"                                `separate' to put them in their own node;\n"
+"                                `end' to put them at the end of the node, in\n"
+"                                which they are defined (this is the default).\n"
+"      --paragraph-indent=VAL  indent Info paragraphs by VAL spaces (default %d).\n"
+"                                If VAL is `none', do not indent; if VAL is\n"
+"                                `asis', preserve existing indentation.\n"
+"      --split-size=NUM        split Info files at size NUM (default %d).\n"
+msgstr ""
+
+msgid "Pipe the contents of this node through INFO_PRINT_COMMAND"
+msgstr ""
+"སྦུག་ལམ་རྒྱུད་ནས་ཚིགས་ཚེག་འདིའི་ནང་དོན་  INFO_PRINT_COMMAND "
+"རུ་ཕྱིར་འདྲེན་བྱེད་པ།"
+
+msgid "Point doesn't appear within this window's node!"
+msgstr "འོད་རྟགས་སྒེའུ་ཁུང་འདིའི་ཚིགས་ཚེག་ཏུ་ཐོན་མེད།"
+
+msgid "Print documentation for KEY"
+msgstr "KEY དང་འབྲེལ་ཡོད་ཀྱི་ཡིག་ཚགས་པར་འདེབས་པ།"
+
+msgid "Quit"
+msgstr "ཕྱིར་འདོན་པ།"
+
+msgid "Quit using Info"
+msgstr "Info ཕྱིར་འབུད།"
+
+msgid "Read a command name in the echo area and execute it"
+msgstr "ཕྱིར་མངོན་ཁུལ་དུ་བཀའ་བརྡའི་མིང་ཀློག་འཇུག་བྱེད་དང་དེ་ལག་བསྟར་བྱེད་པ།"
+
+msgid "Read a footnote or cross reference and select its node"
+msgstr "རྐང་མཆན་ནམ་ཉེར་སྤྱོད་གསབ་མ་ཀློག་པ་མ་ཟད་དེའི་ཚིགས་ཚེག་འདེམ་པ།"
+
+msgid "Read a list of menus starting from dir and follow them"
+msgstr ""
+"dir ནས་མགོ་བཙུགས་པའི་འདེམས་བྱང་གི་རེའུ་མིག་ཀློག་པ་མ་ཟད་དེ་དག་གི་རྗེས་འབྲང་བ།"
+
+msgid "Read a manpage reference and select it"
+msgstr "man ལག་དེབ་ཞིག་གི་ཉེར་སྤྱོད་ཀློག་པ་མ་ཟད་དེ་འདེམ་པ།"
+
+msgid "Read a menu item and select its node"
+msgstr "འདེམས་བྱང་ཚན་པ་ཀློག་པ་མ་ཟད་དེའི་ཚིགས་ཚེག་འདེམ་པ།"
+
+msgid "Read a node name and select it"
+msgstr "ཚིགས་ཚེག་མིང་ཀློག་པ་མ་ཟད་དེ་འདེམ་པ།"
+
+msgid "Read a string and search backward for it"
+msgstr "ཡིག་རྟགས་ཕྲེང་གཅིག་ཀློག་པ་མ་ཟད་རྒྱབ་ཕྱོགས་སུ་དེ་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Read a string and search for it"
+msgstr "ཡིག་རྟགས་ཕྲེང་གཅིག་ཀློག་པ་མ་ཟད་དེ་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Read a string and search for it case-sensitively"
+msgstr ""
+"ཡིག་རྟགས་ཕྲེང་གཅིག་ཀློག་པ་མ་ཟད་འབྲི་ཆེ་ཆུང་འཚོར་རྐྱེན་གྱི་བྱ་ཐབས་ཀྱིས་དེ་བཤེར་འཚོལ་བྱེད་པ།"
+
+msgid "Read the name of a file and select it"
+msgstr "ཡིག་ཆའི་མིང་ཀློག་པ་མ་ཟད་དེ་འདེམ་པ།"
+
+msgid "Read the name of an Info command and describe it"
+msgstr "Info བཀའ་བརྡའི་མིང་ཀློག་པ་མ་ཟད་དེ་གསལ་བཤད་བྱེད་པ།"
+
+msgid "Redraw the display"
+msgstr "མངོན་པ་བསྐྱར་འབྲི།"
+
+msgid "Regexp I-search backward: "
+msgstr "རྒྱབ་ཕྱོགས་སུ་ཚད་ལྡན་མཚན་ཚུལ་བཤེར་ཚད་འཕར་བ།:"
+
+msgid "Regexp I-search: "
+msgstr "ཚད་ལྡན་མཚན་ཚུལ་བཤེར་ཚད་འཕར་བ།:"
+
+msgid "Regexp search"
+msgstr "ཚད་ལྡན་མཚན་ཚུལ་འཚོལ་ཞིབ།"
+
+msgid "Repeat last search in the reverse direction"
+msgstr "ལྡོག་ཕྱོགས་སུ་ཆེས་རྗེས་མའི་བཤེར་འཚོལ་བསྐྱར་ཟློས་བྱེད་པ།"
+
+msgid "Repeat last search in the same direction"
+msgstr "ལྡོག་ཕྱོགས་སུ་ཆེས་རྗེས་མའི་བཤེར་འཚོལ་བསྐྱར་ཟློས་བྱེད་པ།"
+
+msgid "Resulting window would be too small."
+msgstr "མཇུག་འབྲས་སྒེའུ་ཁུང་ཆུང་དྲག་གི་རེད།"
+
+msgid "Run command bound to this key's lowercase variant"
+msgstr ""
+"མཐེབ་གནོན་འདིའི་ཆུང་འབྲི་པར་གཞིའི་་བཀའ་བརྡ་རུ་བསྡམས་བཅད་བྱས་པ་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "START-INFO-DIR-ENTRY without matching END-INFO-DIR-ENTRY"
+msgstr "\"START-INFO-DIR-ENTRY ལ་ཟླ་སྒྲིག་པའི་ END-INFO-DIR-ENTRY མེད།"
+
+msgid "Same as scroll-behaviour"
+msgstr "འགྲིལ་འཁོར་བྱ་སྤྱོད་དང་མཚུངས།"
+
+msgid "Scroll backward in this window"
+msgstr "སྒེའུ་ཁུང་འདིའི་ནང་དུ་རྒྱབ་ཕྱོགས་སུ་འགྲིལ་བ།"
+
+msgid "Scroll backward in this window and set default window size"
+msgstr ""
+"སྒེའུ་ཁུང་འདིའི་ནང་དུ་རྒྱབ་ཕྱོགས་སུ་འགྲིལ་བ་མ་ཟད་སོར་བཞག་སྒེའུ་ཁུང་ཆེ་ཆུང་དུ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Scroll backward in this window staying within node"
+msgstr "སྒེའུ་ཁུང་འདིའི་ནང་དུ་རྒྱབ་ཕྱོགས་སུ་འགྲིལ་བ། (ཚིགས་ཚེག་མི་གཏོལ།)"
+
+msgid ""
+"Scroll backward in this window staying within node and set default window "
+"size"
+msgstr ""
+"སྒེའུ་ཁུང་འདིའི་ནང་དུ་རྒྱབ་ཕྱོགས་སུ་འགྲིལ་བ། (ཚིགས་ཚེག་མི་གཏོལ།) "
+"མ་ཟད་སོར་བཞག་སྒེའུ་ཁུང་ཆེ་ཆུང་དུ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Scroll down by half screen size"
+msgstr "ཞོལ་ཕྱོགས་སུ་བརྙན་ཡོལ་ཕྱེད་ཀ་འགྲིལ་བ།"
+
+msgid "Scroll down by lines"
+msgstr "ཕྲེང་ལྟར་ཞོལ་ཕྱོགས་སུ་འགྲིལ་བ།"
+
+msgid "Scroll forward in this window"
+msgstr "སྒེའུ་ཁུང་འདིའི་ནང་དུ་མདུན་ཕྱོགས་སུ་འགྲིལ་བ།"
+
+msgid "Scroll forward in this window and set default window size"
+msgstr ""
+"སྒེའུ་ཁུང་འདིའི་ནང་དུ་མདུན་ཕྱོགས་སུ་འགྲིལ་བ་མ་ཟད་སོར་བཞག་སྒེའུ་ཁུང་ཆེ་ཆུང་དུ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Scroll forward in this window staying within node"
+msgstr "སྒེའུ་ཁུང་འདིའི་ནང་དུ་མདུན་ཕྱོགས་སུ་འགྲིལ་བ། (ཚིགས་ཚེག་མི་གཏོལ།)"
+
+msgid ""
+"Scroll forward in this window staying within node and set default window "
+"size"
+msgstr ""
+"སྒེའུ་ཁུང་འདིའི་ནང་དུ་མདུན་ཕྱོགས་སུ་འགྲིལ་བ། (ཚིགས་ཚེག་མི་གཏོལ།) "
+"མ་ཟད་སོར་བཞག་སྒེའུ་ཁུང་ཆེ་ཆུང་དུ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Scroll the completions window"
+msgstr "ཁ་གསབ་སྒེའུ་ཁུང་འགྲིལ་བ།"
+
+msgid "Scroll the other window"
+msgstr "སྒེའུ་ཁུང་གཞན་དག་འགྲིལ་བ།"
+
+msgid "Scroll the other window backward"
+msgstr "རྒྱབ་ཕྱོགས་སུ་སྒེའུ་ཁུང་གཞན་དག་འགྲིལ་བ།"
+
+msgid "Scroll up by half screen size"
+msgstr "སྟེང་ཕྱོགས་སུ་བརྙན་ཡོལ་ཕྱེད་ཀ་འགྲིལ་བ།"
+
+msgid "Scroll up by lines"
+msgstr "ཕྲེང་ལྟར་སྟེང་ཕྱོགས་སུ་འགྲིལ་བ།"
+
+msgid "Search"
+msgstr "འཚོལ་བ།"
+
+msgid "Search continued from the beginning of the document."
+msgstr "ཡིག་ཚགས་འདིའི་མགོ་ནས་བཟུང་མུ་མཐུད་དུ་འཚོལ་ཞིབ་བྱས།"
+
+msgid "Search continued from the end of the document."
+msgstr "ཡིག་ཚགས་ཀྱི་མཐིལ་ནས་མུ་མཐུད་དུ་འཚོལ་བ།"
+
+msgid "Search failed."
+msgstr "བཤེར་འཚོལ་ཕམ་པ།"
+
+msgid "Search interactively for a string as you type it"
+msgstr ""
+"ཁྱེད་ཀྱིས་ནང་འཇུག་བྱས་པའི་དུས་མཚུངས་སུ་སྤེལ་མའི་ཚུལ་གྱི་ཡིག་རྟགས་ཕྲེང་བཤེར་འཚོལ་བྱེས་ཡོད།"
+
+msgid "Searching subfile %s ..."
+msgstr "བུ་ཡིག་ཆ་བཤེར་འཚོལ་བྱེད་བཞིན་པ།  %s ..."
+
+msgid "Select a node which has been previously visited in a visible window"
+msgstr "མཐོང་ཐུབ་པའི་སྒེའུ་ཁུང་ཁྲོད་བཅར་འདྲི་བྱས་པའི་ཚིགས་ཚེག་ཅིག་འདེམ་པ།"
+
+msgid "Select reference or menu item appearing on this line"
+msgstr "ཕྲེང་འདིར་བྱུང་བའི་འདྲེན་སྤྱོད་དམ་ཡང་ན་འདེམས་ཚན་འདེམ་པ།"
+
+msgid "Select the Next node"
+msgstr "ཚིགས་ཚེག་རྗེས་མ་འདེམ་པ།"
+
+msgid "Select the Prev node"
+msgstr "ཚིགས་ཚེག་གོང་མ་འདེམ་པ།"
+
+msgid "Select the Up node"
+msgstr "ཚིགས་ཚེག་རིམ་པ་གོང་མ་འདེམ་པ།"
+
+msgid "Select the first node in this file"
+msgstr "ཡིག་ཆ་འདིའི་ཚིགས་ཚེག་དང་པོ་འདེམ་པ།"
+
+msgid "Select the last item in this node's menu"
+msgstr "ཚིགས་ཚེག་འདེམས་བྱང་འདིའི་ནང་གི་ཚན་པ་ཆེས་རྗེས་མ་འདེམ་པ།"
+
+msgid "Select the last node in this file"
+msgstr "ཡིག་ཆ་འདིའི་ཚིགས་ཚེག་ཆེས་རྗེས་མ་འདེམ་པ།"
+
+msgid "Select the most recently selected node"
+msgstr "ཉེ་ཆར་བདམས་པའི་ཚིགས་ཚེག་འདེམ་པ།"
+
+msgid "Select the next window"
+msgstr "སྒེའུ་ཁུང་རྗེས་མ་འདེམ་པ།"
+
+msgid "Select the previous window"
+msgstr "སྒེའུ་ཁུང་གོང་མ་འདེམ་པ།"
+
+msgid "Select this menu item"
+msgstr "འདེམས་བྱང་འདིའི་ལས་གཞི་འདེམ་པ།"
+
+msgid "Select visited node: "
+msgstr "བཅར་འདྲི་བྱས་ཟིན་པའི་ཚིགས་ཚེག་འདེམ་པ།："
+
+msgid "Set %s to value (%d): "
+msgstr "%s དེ་ཐང་ (%d) རུ་སྒྲིག་གཅོད་བྱེད་པ།："
+
+msgid "Set %s to value (%s): "
+msgstr "%s དེ་ཐང་(%s) རུ་སྒྲིག་གཅོད་བྱེད་པ།："
+
+msgid "Set screen height to (%d): "
+msgstr "བརྙན་ཡོལ་མཐོ་ཚད་(%d) ལ་སྒྲིག་འགོད་བྱེད་པ།："
+
+msgid "Set the height of the displayed window"
+msgstr "སྒེའུ་ཁུང་གི་མཐོ་ཚད་མངོན་པ་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Set the value of an Info variable"
+msgstr "Info འགྱུར་ཚད་ཀྱི་ཐང་སྒྲིག་འགོད་བྱེད་པ།"
+
+msgid "Set variable: "
+msgstr "འགྱུར་ཚད་སྒྲིག་འགོད།："
+
+msgid "Show the footnotes associated with this node in another window"
+msgstr ""
+"སྒེའུ་ཁུང་གཞན་ཞིག་གི་ནང་དུ་ཚིགས་ཚེག་འདིའི་འབྲེལ་ཡོད་ཀྱི་རྐང་མཆན་མངོན་པ།"
+
+msgid "Show what to type to execute a given command"
+msgstr "གཏན་འབེབས་བཀའ་བརྡ་ལག་བསྟར་བྱེད་པར་དགོས་བའི་མཐེབ་གནོན་་མངོན་པ།"
+
+msgid "Sole completion"
+msgstr ""
+
+msgid "Split the current window"
+msgstr "མིག་སྔའི་སྒེའུ་ཁུང་ཕྲལ་བ།"
+
+msgid "Start (or multiply by 4) the current numeric argument"
+msgstr "(ཡང་ན 4 ལྷག་པ།)མིག་སྔའི་གྲངས་ཐང་ཞུགས་གྲངས་ཕྱེ་བ།"
+
+msgid "The current search path is:\n"
+msgstr ""
+
+msgid ""
+"The following commands can only be invoked via %s:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"The following commands cannot be invoked at all:\n"
+"\n"
+msgstr ""
+
+msgid "The number lines to scroll when the cursor moves out of the window"
+msgstr "འོད་རྟགས་སྒེའུ་ཁུང་ནས་ཕྱིར་སྤོར་བ་ནི་འགྲིལ་བའི་ཕྲེང་གྲངས་རེད།"
+
+msgid "The reference disappeared! (%s)."
+msgstr "ཉེར་སྤྱོད་མེད་པར་གྱུར་སོང་། (%s)"
+
+msgid "This window has no additional nodes"
+msgstr "སྒེའུ་ཁུང་དེར་ཚིགས་ཚེག་ཟུར་སྣོན་བྱས་མེད།"
+
+msgid "Toggle the state of line wrapping in the current window"
+msgstr "མིག་སྔའི་སྒེའུ་ཁུང་ཁྲོད་ཕྲེང་གྲིལ་བའི་རྣམ་པ་བརྗེ་བ།"
+
+msgid "Toggle the usage of regular expressions in searches"
+msgstr "འཚོལ་ཞིབ་བརྗེ་སྐབས་ཚད་ལྡན་མཚོན་ཚུལ་གྱི་སྤྱོད་ཐབས།"
+
+msgid "Transpose characters at point"
+msgstr "འོད་རྟགས་གནས་སའི་ཡིག་རྟགས་ཀྱི་ཨང་རིམ་བརྗེ་བསྒྱུར།"
+
+msgid "Try --help for more information.\n"
+msgstr ""
+
+msgid "Try `%s --help' for more information.\n"
+msgstr ""
+
+msgid "Undefined command: %s"
+msgstr "མཚན་ཉིད་མ་བཞག་པའི་བཀའ་བརྡ།: %s"
+
+msgid "Unknown command (%s)."
+msgstr "ངེས་མེད་ཀྱི་བཀའ་བརྡ། (%s)"
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Usage: %s [OPTION]... TEXINFO-FILE...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [INFO-FILE [DIR-FILE]]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [MENU-ITEM...]\n"
+"\n"
+"Read documentation in Info format.\n"
+msgstr ""
+
+msgid "Using literal strings for searches."
+msgstr "སྤྱིར་བཏང་ཡིག་རྟགས་ཕྲེང་སྤྱད་ནས་འཚོལ་བ།"
+
+msgid "Using regular expressions for searches."
+msgstr "ཚད་ལྡན་མཚོན་ཚུལ་སྤྱད་ནས་འཚོལ་བ།"
+
+msgid "Visit as many menu items at once as possible"
+msgstr "འཕྲལ་མར་གང་མང་མང་གི་འདེམས་ཚན་ལ་བཅར་འདྲི་བྱེད་པ།"
+
+msgid ""
+"What to do when a scrolling command is issued at the end of the last node"
+msgstr ""
+"ཚིགས་ཚེག་ཆེས་རྗེས་མའི་རྔ་མ་རུ་འགྲིལ་བའི་རེ་ཞུ་ཐོན་དུས་ཅི་ཞིག་འབྱུང་མིན་ཚོད་འཛིན་བྱེད་པ།"
+
+msgid "When \"On\", Info accepts and displays ISO Latin characters"
+msgstr ""
+
+msgid "When \"On\", Info garbage collects files which had to be uncompressed"
+msgstr ""
+
+msgid "When \"On\", creating or deleting a window resizes other windows"
+msgstr ""
+
+msgid "When \"On\", errors cause the bell to ring"
+msgstr ""
+
+msgid "When \"On\", flash the screen instead of ringing the bell"
+msgstr ""
+
+msgid "When \"On\", footnotes appear and disappear automatically"
+msgstr ""
+
+msgid "When \"On\", the portion of the matched search string is highlighted"
+msgstr ""
+
+msgid "Where is command: "
+msgstr "བཀའ་བརྡ།:"
+
+msgid "Yank back a previous kill"
+msgstr "ཐེངས་སྔོན་མའི་དྲས་གཏུབ་སྦྱར་བ།"
+
+msgid "Yank back the contents of the last kill"
+msgstr "ཐེངས་ཆེས་རྗེས་མར་དྲས་པའི་ནང་དོན་སྦྱར་བ།"
+
+msgid "You are already at the first page of this node."
+msgstr "ཁྱེད་རང་ཚིགས་ཚེག་འདིའི་ཤོག་ངོས་དང་པོ་རུ་གནས་ཟིན།"
+
+msgid "You are already at the last page of this node."
+msgstr "ཁྱེད་རང་ཚིགས་ཚེག་འདིའི་ཤོག་ངོས་ཆེས་རྗེས་མ་རུ་གནས་ཟིན།"
+
+msgid "\\%-10[abort-key]  Cancel the current operation.\n"
+msgstr ""
+
+msgid "\\%-10[beginning-of-node]  Go to the beginning of this node.\n"
+msgstr ""
+
+msgid "\\%-10[end-of-node]  Go to the end of this node.\n"
+msgstr ""
+
+msgid "\\%-10[get-info-help-node]  Invoke the Info tutorial.\n"
+msgstr ""
+
+msgid "\\%-10[global-next-node]  Go to the next node in the document.\n"
+msgstr ""
+
+msgid "\\%-10[global-prev-node]  Go to the previous node in the document.\n"
+msgstr ""
+
+msgid "\\%-10[goto-node]  Go to a node specified by name.\n"
+msgstr ""
+
+msgid "\\%-10[history-node]  Go back to the last node seen in this window.\n"
+msgstr ""
+
+msgid ""
+"\\%-10[index-search]  Search for a specified string in the index, and\n"
+"              select the node referenced by the first entry found.\n"
+msgstr ""
+
+msgid "\\%-10[last-menu-item]  Pick the last item in this node's menu.\n"
+msgstr ""
+
+msgid "\\%-10[menu-item]  Pick a menu item specified by name.\n"
+msgstr ""
+
+msgid "\\%-10[move-to-next-xref]  Skip to the next hypertext link.\n"
+msgstr ""
+
+msgid "\\%-10[next-line]  Move down one line.\n"
+msgstr ""
+
+msgid "\\%-10[next-node]  Go to the next node on this level.\n"
+msgstr ""
+
+msgid "\\%-10[prev-line]  Move up one line.\n"
+msgstr ""
+
+msgid "\\%-10[prev-node]  Go to the previous node on this level.\n"
+msgstr ""
+
+msgid "\\%-10[quit-help]  Close this help window.\n"
+msgstr ""
+
+msgid "\\%-10[quit]  Quit Info altogether.\n"
+msgstr ""
+
+msgid "\\%-10[scroll-backward]  Scroll backward one screenful.\n"
+msgstr ""
+
+msgid "\\%-10[scroll-forward]  Scroll forward one screenful.\n"
+msgstr ""
+
+msgid "\\%-10[search-next]  Search for next occurrence.\n"
+msgstr ""
+
+msgid "\\%-10[search-previous]  Search for previous occurrence.\n"
+msgstr ""
+
+msgid "\\%-10[search]  Search forward for a specified string.\n"
+msgstr ""
+
+msgid ""
+"\\%-10[select-reference-this-line]  Follow the hypertext link under the "
+"cursor.\n"
+msgstr ""
+
+msgid "\\%-10[top-node]  Go to the top node of this document.\n"
+msgstr ""
+
+msgid "\\%-10[up-node]  Go up one level.\n"
+msgstr ""
+
+msgid "\\%-10[xref-item]  Follow a cross reference specified by name.\n"
+msgstr ""
+
+msgid "`@end' expected `%s', but saw `%s'"
+msgstr "“@end” ལ་ “%s” དགོས་མོད་ཡིན་ནའང་“%s” མཐོང་།"
+
+msgid "action name too long"
+msgstr "འགུལ་མིང་རིང་དྲགས།"
+
+msgid "excess command line argument `%s'"
+msgstr "མང་དྲགས་པའི་བཀའ་བརྡའི་ཕྲེང་ཞུགས་གྲངས།“%s”"
+
+msgid "extra characters following action `%s'"
+msgstr "འགུལ་སྟངས་ “%s” ཡི་རྗེས་སུ་ཚདགལས་བརྒལ་བའི་ཡིག་རྟགས་ཐོན།"
+
+msgid "here is the previous definition of `%s'"
+msgstr "འདི་ནི “%s” ཡི་སྔོན་གྱི་མཚན་ཉིད་ཡིན།"
+
+msgid "ignoring @tab outside of multitable"
+msgstr "གཞུང་མང་རེའུ་མིག་ཕྱི་ཡི @tab སྣང་མེད་དུ་བཞག་པ།"
+
+msgid "key sequence too long"
+msgstr "མཐེབ་གནོན་རིམ་སྟར་རིང་དྲགས་པ།"
+
+msgid "macro `%s' previously defined"
+msgstr "རགས་ “%s” སྔོན་ལ་མཚན་ཉིད་བཞག་ཟིན།"
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "missing `=' immediately after variable name"
+msgstr "འགུལ་ཚད་མིང་གི་རྗེས་སུ“=” ལུས་པ།"
+
+msgid "missing action name"
+msgstr "འགུལ་སྟངས་མིང་ལུས་པ"
+
+msgid "missing key sequence"
+msgstr "མཐེབ་གནོན་རིམ་པ་ལུས་པ།"
+
+msgid "missing variable name"
+msgstr "འགྱུར་ཚད་མིང་ལུས་པ།"
+
+msgid "no entries found for `%s'; nothing deleted"
+msgstr "“%s” དང་འབྲེལ་བའི་ཚན་པ་མི་རྙེད་པས་བསུབ་མེད།"
+
+msgid "no info dir entry in `%s'"
+msgstr "“%s”ཡི་ནང་དུ་  info དཀར་ཆག་ཚན་པ་མེད།"
+
+msgid ""
+"perhaps your @top node should be wrapped in @ifnottex rather than @ifinfo?"
+msgstr ""
+"ཁྱེད་ཀྱི་ @top ཚིགས་ཚེག་ཕལ་ཆེར་ @ifnottex རུ་འདུ་བ་ལས་  @ifinfo "
+"རུ་འདུ་བ་མ་ཡིན།"
+
+msgid "readline: Out of virtual memory!\n"
+msgstr ""
+
+msgid "regexp error: %s"
+msgstr "ཚད་ལྡན་མཚོན་ཚུལ་ནོར་འཁྲུལ།： %s"
+
+msgid "undefined flag: %s"
+msgstr "མཚན་ཉིད་མ་བཞག་པའི་ངོ་རྟགས།: %s"
+
+msgid "unknown action `%s'"
+msgstr "ངེས་མེད་ཀྱི་འགུལ་སྟངས། “%s”"
+
+msgid "unrecognized encoding name `%s'"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་སྒྲིག་ཨང་མིང་། “%s”"
+
+msgid "unreferenced node `%s'"
+msgstr "འདྲེན་སྤྱོད་མ་བྱས་པའི་ཚིགས་ཚེག “%s”"
+
+msgid "value too long"
+msgstr "ཐང་རིང་དྲགས།"
+
+msgid "variable name too long"
+msgstr "འགྱུར་ཚད་མིང་རིང་དྲགས།"

@@ -1,0 +1,299 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " "
+msgstr " "
+
+msgid "About"
+msgstr "འབྲེལ་ཡོད།"
+
+msgid "Add"
+msgstr "གསར་བཟོ།"
+
+msgid "Application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid "Browse"
+msgstr "མིག་བཤར།"
+
+msgid "Config"
+msgstr "སྡེབ་སྒྲིག"
+
+msgid "Configure..."
+msgstr "སྡེབ་སྒྲིག"
+
+msgid "Could not construct a property list for (%s)"
+msgstr "(%s)ལ་གཏོགས་གཤིས་རེའུ་མིག་འཛུགས་མི་ཆོག"
+
+msgid "Could not load %s"
+msgstr "%sཁུར་སྣོན་མི་ཆོག"
+
+msgid "Could not write property list for (%s)"
+msgstr "(%s)ལ་གཏོགས་གཤིས་རེའུ་མིག་ཏུ་འབྲི་མི་ཆོག"
+
+msgid "Could not write to %s"
+msgstr "བྲིས་ནས་%sལ་སླེབས་ཐབས་བྲལ་པ།"
+
+msgid "Could not write to (%s)"
+msgstr "བྲིས་ནས་(%s)ལ་སླེབས་ཐབས་བྲལ་པ།"
+
+msgid "Couldn't create pixmap from file: %s"
+msgstr "ཡིག་ཆའི་%sཡིས་བརྙན་རིས་རྟེན་འཕྲོ་ཡིག་ཆགསར་འཛུགས་བྱ་མ་ཐུབ།"
+
+msgid "Couldn't find pixmap file: %s"
+msgstr "བརྙན་རིས་རྟེན་འཕྲོ་ཡིག་ཆ་རྙེད་མ་ཐུབ།%s"
+
+msgid "Credits"
+msgstr "དམིགས་སུ་ཐུགས་རྗེ་ཆེ་ཞུ་རྒྱུ།"
+
+msgid "DSN"
+msgstr "DSN"
+
+msgid "Database System"
+msgstr "གཞི་གྲངས་མཛོད་ཀྱི་རྒྱུད་ཁོངས།"
+
+msgid "Description"
+msgstr "ཞིབ་བརྗོད།"
+
+msgid "Driver"
+msgstr "སྐུལ་སློང་བྱ་རིམ།"
+
+msgid "Driver Lib"
+msgstr "སྐུལ་བའི་བྱ་རིམ་གཞི་གྲངས་མཛོད།"
+
+msgid "Driver Manager"
+msgstr "སྐུལ་བའི་བྱ་རིམ་དོ་དམ་ཆས་"
+
+msgid "Drivers"
+msgstr "སྐུལ་སློང་བྱ་རིམ།"
+
+msgid "Enter a DSN name"
+msgstr "DSNཡི་མིང་ཞིག་ནང་འཇུག་བྱས།"
+
+msgid "FileUsage"
+msgstr "ཡིག་ཆ་བཀོལ་སྤྱོད་བྱེད་ཐབས།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "ODBCConfig"
+msgstr "ODBCསྡེབ་སྒྲིག"
+
+msgid "ODBCConfig - Credits"
+msgstr "gODBCསྡེབ་སྒྲིག-ལེགས་སྐྱེས་འབུལ་མཁན།"
+
+msgid "ODBCConfig - Database Systems"
+msgstr "ODBCསྡེབ་སྒྲིག-གཞི་གྲངས་མཛོད་ཀྱི་རྒྱུད་ཁོངས།"
+
+msgid "ODBCConfig - Drivers"
+msgstr "ODBCསྡེབ་སྒྲིག-སྐུལ་སློང་བྱ་རིམ།"
+
+msgid "ODBCConfig - odbc.ini"
+msgstr "ODBCསྡེབ་སྒྲིག-odbc.ini།"
+
+msgid "ODBCConfig - odbcinst.ini"
+msgstr "ODBCསྡེབ་སྒྲིག-odbcinst.ini"
+
+msgid ""
+"Open DataBase Connectivity (ODBC) was developed to be an Open and portable "
+"standard for accessing data. unixODBC implements this standard for "
+"Linux/UNIX."
+msgstr ""
+
+msgid ""
+"Perhaps the most common type of Database System today is an SQL Server\n"
+"\n"
+"SQL Servers with Heavy Functionality\n"
+"  ADABAS-D\n"
+"  Empress\n"
+"  Sybase - www.sybase.com\n"
+"  Oracle - www.oracle.com\n"
+"\n"
+"SQL Servers with Lite Functionality\n"
+"  MiniSQL\n"
+"  MySQL\n"
+"  Solid\n"
+"\n"
+"The Database System may be running on the local machine or on a remote machine. It may also store its information in a variety of ways. This does not matter to an ODBC application because the Driver Manager and the Driver provides a consistent interface to the Database System."
+msgstr ""
+
+msgid "Remove"
+msgstr "སྤོ་བ།"
+
+msgid "Select File"
+msgstr "ཡིག་ཆ་འདེམ་པ།"
+
+msgid "Select a DSN to Remove"
+msgstr "བསུབ་བྱའི་DSNའདེམས།"
+
+msgid "Select a DSN to configure"
+msgstr "སྡེབ་སྒྲིག་བྱེད་བྱའི་DSNའདེམས།"
+
+msgid "Select a driver to Use"
+msgstr "བཀོལ་སྤྱོད་བྱེད་བྱའི་སྐུལ་སློང་བྱ་རིམ་འདེམས།"
+
+msgid "Select a driver to configure"
+msgstr "སྡེབ་སྒྲིག་བྱེད་བྱའི་སྐུལ་སློང་བྱ་རིམ་འདེམས།"
+
+msgid "Select a driver to remove"
+msgstr "བསུབ་བྱའི་སྐུལ་སློང་བྱ་རིམ་འདེམས།"
+
+msgid "Select the DRIVER to use or Add a new one"
+msgstr ""
+"སྤྱད་བྱའི་སྐུལ་སློང་བྱ་རིམ་འདེམ་པའམ་ཡང་ན་སྐུལ་སློང་བྱ་རིམ་གསར་པ་ཁ་སྣོན་གྱིས།"
+
+msgid "Setup"
+msgstr "སྒྲིག་འཇུག"
+
+msgid "Setup Lib"
+msgstr "གཞི་གྲངས་མཛོད་སྒྲིག་འགོད།"
+
+msgid "System DSN"
+msgstr "རྒྱུད་ཁོངས་DSN"
+
+msgid ""
+"System data sources are shared among all users of this machine.These data "
+"sources may also be used by system services. Only the administrator can "
+"configure system data sources."
+msgstr ""
+
+msgid ""
+"The Application communicates with the Driver Manager using the standard ODBC calls.\n"
+"\n"
+"The application does not care; where the data is stored, how it is stored, or even how the system is configured to access the data.\n"
+"\n"
+"The Application only needs to know the data source name (DSN)\n"
+"\n"
+"The Application is not hard wired to a particular database system. This allows the user to select a different database system using the ODBCConfig Tool."
+msgstr ""
+
+msgid ""
+"The Driver Manager carries out a number of functions, such as:\n"
+"1. Resolve data source names via odbcinst lib)\n"
+"2. Loads any required drivers\n"
+"3. Calls the drivers exposed functions to communicate with the database. Some functionality, such as listing all Data Source, is only present in the Driver Manager or via odbcinst lib)."
+msgstr ""
+
+msgid ""
+"The ODBC Drivers contain code specific to a Database System and provides a set of callable functions to the Driver Manager.\n"
+"Drivers may implement some database functionality when it is required by ODBC and is not present in the Database System.\n"
+"Drivers may also translate data types.\n"
+"\n"
+"ODBC Drivers can be obtained from the Internet or directly from the Database vendor.\n"
+"\n"
+"Check http://www.unixodbc.org for drivers"
+msgstr ""
+
+msgid ""
+"These drivers facilitate communication between the Driver Manager and the "
+"data server. Many ODBC drivers  for Linux can be downloaded from the "
+"Internet while others are obtained from your database vendor."
+msgstr ""
+
+msgid ""
+"This is the main configuration file for ODBC.\n"
+"It contains Data Source configuration.\n"
+"\n"
+"It is used by the Driver Manager to determine, from a given Data Source Name, such things as the name of the Driver.\n"
+"\n"
+"It is a simple text file but is configured using the ODBCConfig tool.\n"
+"The User data sources are typically stored in ~/.odbc.ini while the System data sources are stored in /etc/odbc.ini\n"
+msgstr ""
+
+msgid ""
+"This is the program you are using now. This program allows the user to "
+"easily configure ODBC."
+msgstr ""
+"འདི་ནི་ཁྱོད་ཀྱིས་ད་ལྟ་སྤྱོད་བཞིན་པའི་བྱ་རིམ་རེད།བྱ་རིམ་འདི་སྤྱོད་མཁན་གྱིས་ལས་སླ་མོའི་སྒོ་ནས་ODBCསྡེབ་སྒྲིག་བྱེད་ཆོག"
+" "
+
+msgid "Trace File"
+msgstr "རྗེས་འདེད་ཡིག་ཆ།"
+
+msgid "Tracing"
+msgstr "རྗེས་འདེད།"
+
+msgid "Tracing On"
+msgstr "རྗེས་འདེད།"
+
+msgid ""
+"Tracing allows you to create logs of the calls to ODBC drivers. Great for support people, or to aid you in debugging applications.\n"
+"You must be 'root' to set"
+msgstr ""
+
+msgid "Unable to find a Driver line for this entry"
+msgstr "ས་བཅད་འདིར་སྐུལ་བའི་བྱ་རིམ་རྙེད་མ་ཐུབ།"
+
+msgid "User DSN"
+msgstr "སྤྱོད་མཁན་DSN"
+
+msgid ""
+"User data source configuration is stored in your home directory. This allows"
+" you configure data access without having to be system administrator"
+msgstr ""
+
+msgid "gODBCConfig - Add DSN"
+msgstr "gODBCསྡེབ་སྒྲིགDSNཁ་སྣོན་བྱེད།"
+
+msgid "gODBCConfig - Appication"
+msgstr "gODBCསྡེབ་སྒྲིག-བཀོལ་སྤྱོད་བྱ་རིམ།"
+
+msgid "gODBCConfig - Configure Driver"
+msgstr "gODBCསྡེབ་སྒྲིག་-སྡེབ་སྒྲིག་སྐུལ་བའི་བྱ་རིམ།"
+
+msgid "gODBCConfig - Driver Manager"
+msgstr "gODBCསྡེབ་སྒྲིག་-སྐུལ་བའི་བྱ་རིམ་དོ་དམ་ཆས།"
+
+msgid "gODBCConfig - New Driver"
+msgstr "gODBCསྡེབ་སྒྲིག་-སྐུལ་བའི་བྱ་རིམ་གསར་པ།"
+
+msgid "gODBCConfig - ODBC Data Source Administrator"
+msgstr "gODBCCསྡེབ་སྒྲིག་-ODBCགཞི་གྲངས་ཁུངས་ཀྱི་དོ་དམ་པ།"
+
+msgid "http://www.unixodbc.org"
+msgstr "http://www.unixodbc.org"
+
+msgid "odbc.ini"
+msgstr "odbc.ini"
+
+msgid "odbcinst.ini"
+msgstr "odbcins.ini"
+
+msgid ""
+"odbcinst.ini contains a list of all installed ODBC Drivers. Each entry also contains some information about the driver such as the file name(s) of the driver.\n"
+"\n"
+"An entry should be made when an ODBC driver is installed and removed when the driver is uninstalled. This can be done using ODBCConfig or the odbcinst command tool."
+msgstr ""
+
+msgid ""
+"unixODBC consists of the following components\n"
+"\n"
+"- Driver Manager\n"
+"- GUI Data Manager\n"
+"- GUI Config\n"
+"- Several Drivers and Driver Config libs\n"
+"- Driver Code Template\n"
+"- Driver Config Code Template\n"
+"- ODBCINST lib\n"
+"- odbcinst (command line tool for install scripts)\n"
+"- INI lib\n"
+"- LOG lib\n"
+"- LST lib\n"
+"- TRE lib\n"
+"- SQI lib\n"
+"- isql (command line tool for SQL)\n"
+"\n"
+"All code is released under GPL and the LGPL license.\n"
+msgstr ""

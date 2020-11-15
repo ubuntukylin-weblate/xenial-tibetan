@@ -1,0 +1,206 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\t%s\t\tFile: %s\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"-- Type space to continue -- \n"
+msgstr ""
+
+msgid ""
+"\n"
+"Commands are:\n"
+"\n"
+msgstr ""
+
+msgid "  -1\t\tcheck only first field in lines (delimiter = tabulator)\n"
+msgstr ""
+
+msgid "  -D\t\tshow available dictionaries\n"
+msgstr ""
+
+msgid "  -G\t\tprint only correct words or lines\n"
+msgstr ""
+
+msgid "  -H\t\tHTML input file format\n"
+msgstr ""
+
+msgid "  -P password\tset password for encrypted dictionaries\n"
+msgstr ""
+
+msgid "  -a\t\tIspell's pipe interface\n"
+msgstr ""
+
+msgid "  -d d[,d2,...]\tuse d (d2 etc.) dictionaries\n"
+msgstr ""
+
+msgid "  -h, --help\tdisplay this help and exit\n"
+msgstr ""
+
+msgid "  -i enc\tinput encoding\n"
+msgstr ""
+
+msgid "  -m \t\tanalyze the words of the input text\n"
+msgstr ""
+
+msgid "  -n\t\tnroff/troff input file format\n"
+msgstr ""
+
+msgid "  -p dict\tset dict custom dictionary\n"
+msgstr ""
+
+msgid "  -t\t\tTeX/LaTeX input file format\n"
+msgstr ""
+
+msgid "  -v, --version\tprint version number\n"
+msgstr ""
+
+msgid "  -vv\t\tprint Ispell compatible version number\n"
+msgstr ""
+
+msgid "0-n\tReplace with one of the suggested words.\n"
+msgstr ""
+
+msgid "?\tShow this help screen.\n"
+msgstr ""
+
+msgid "A\tAccept the word for the rest of this session.\n"
+msgstr ""
+
+msgid "AVAILABLE DICTIONARIES (path is not mandatory for -d option):\n"
+msgstr ""
+
+msgid "Are you sure you want to throw away your changes? "
+msgstr "ཁྱོད་ཀྱིས་བཟོ་བཅོས་བྱེད་མཚམས་འཇོག་རྒྱུ་གཏན་འཁེལ་ལམ།"
+
+msgid "Bug reports: http://hunspell.sourceforge.net\n"
+msgstr ""
+
+msgid "Can't open %s.\n"
+msgstr ""
+
+msgid "Cannot update personal dictionary."
+msgstr "སྒེར་གྱི་ཚིག་མཛོད་དུ་རིམ་སྤོར་བྱ་ཐབས་བྲལ།"
+
+msgid ""
+"Check spelling of each FILE. Without FILE, check standard input.\n"
+"\n"
+msgstr ""
+
+msgid "FORBIDDEN!"
+msgstr "གཏན་འགོག"
+
+msgid "Hunspell has been compiled without Ncurses user interface.\n"
+msgstr ""
+
+msgid "I\tAccept the word, and put it in your private dictionary.\n"
+msgstr ""
+
+msgid ""
+"LOADED DICTIONARY:\n"
+"%s\n"
+"%s\n"
+msgstr ""
+
+msgid "Line %d: %s -> "
+msgstr "ཕྲེང་། %d: %s ->"
+
+msgid "Model word (a similar dictionary word): "
+msgstr "Model word（ཚིག་མཛོད་ཀྱི་ཐ་སྙད་དང་འདྲ་བ་）"
+
+msgid "Model word must be in the dictionary. Press any key!"
+msgstr "Model wordངེས་པར་ཚིག་མཛོད་ནང་དུ་དགོས། མཐེབ་གང་རུང་ཞིག་ནོན།"
+
+msgid "New word (stem): "
+msgstr "ཐ་སྙད་གསར་བ།（ཚིག་སྙིང་།）"
+
+msgid "Q\tQuit immediately. Asks for confirmation. Leaves file unchanged.\n"
+msgstr ""
+
+msgid "R\tReplace the misspelled word completely.\n"
+msgstr ""
+
+msgid "Replace with: "
+msgstr "བརྗེ་བ།"
+
+msgid ""
+"SEARCH PATH:\n"
+"%s\n"
+msgstr ""
+
+msgid "Space\tAccept the word this time only.\n"
+msgstr ""
+
+msgid "U\tAccept and add lowercase version to private dictionary.\n"
+msgstr ""
+
+msgid "Usage: hunspell [OPTION]... [FILE]...\n"
+msgstr ""
+
+msgid ""
+"Whenever a word is found that is not in the dictionary\n"
+"it is printed on the first line of the screen.  If the dictionary\n"
+"contains any similar words, they are listed with a number\n"
+"next to each one.  You have the option of replacing the word\n"
+"completely, or choosing one of the suggested words.\n"
+msgstr ""
+
+msgid ""
+"X\tWrite the rest of this file, ignoring misspellings, and start next "
+"file.\n"
+msgstr ""
+
+msgid "^Z\tSuspend program. Restart with fg command.\n"
+msgstr ""
+
+msgid "a"
+msgstr "a"
+
+msgid "error - %s exceeds dictionary limit.\n"
+msgstr ""
+
+msgid "error - iconv_open: %s -> %s\n"
+msgstr ""
+
+msgid "error - iconv_open: UTF-8 -> %s\n"
+msgstr ""
+
+msgid "error - missing HOME variable\n"
+msgstr ""
+
+msgid "i"
+msgstr ""
+
+msgid "q"
+msgstr ""
+
+msgid "r"
+msgstr ""
+
+msgid "s"
+msgstr ""
+
+msgid "u"
+msgstr ""
+
+msgid "x"
+msgstr "དྲན་ཤེས།"
+
+msgid "y"
+msgstr "ཡིན།"

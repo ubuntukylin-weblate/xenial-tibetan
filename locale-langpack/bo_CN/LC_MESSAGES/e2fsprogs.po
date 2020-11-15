@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Bad block %u out of range; ignored.\n"
+msgstr ""
+
+msgid "Couldn't allocate block buffer (size=%d)\n"
+msgstr ""
+
+msgid "Error reading block %lu (%s).  "
+msgstr "རྡོག %lu (%s) ཀློག་པ་ནོར་འཁྲུལ་བྱུང་།  "
+
+msgid "Error writing block %lu (%s) while %s.  "
+msgstr "རྡོག་ %lu (%s) འབྲི་སྐབས་ནོར་འཁྲུལ་བྱུང་།  %s སྐབས། "
+
+msgid "Error writing block %lu (%s).  "
+msgstr "རྡོག་ %lu (%s) འབྲི་སྐབས་ནོར་འཁྲུལ་བྱུང་།  "
+
+msgid "Force rewrite"
+msgstr "བཙན་ཤེད་ཀྱིས་བསྐྱར་འབྲི།"
+
+msgid "Ignore error"
+msgstr "ནོར་འཁྲུལ་སྣང་མེད་དུ་གཏོང་།"
+
+msgid "Usage: %s [-F] [-I inode_buffer_blocks] device\n"
+msgstr ""
+
+msgid "empty dirblocks"
+msgstr "དཀར་ཆག་རྡོག་སྟོང་པ།"
+
+msgid "while reading in list of bad blocks from file"
+msgstr "ཡིག་ཆ་ལས་ངན་རྡོག་རེའུ་མིག་ཀློག་སྐབས།"
+
+msgid "while sanity checking the bad blocks inode"
+msgstr "ངན་རྡོག་ནང་གི་ inode ཚིགས་ཚེག་ཕྱོགས་ཡོངས་ནས་ཞིབ་བཤེར་བྱེད་སྐབས།"
+
+msgid "while trying popen '%s'"
+msgstr " '%s' ཁ་འབྱེད་ཚོད་ལྟར་བྱེད་སྐབས།"
+
+msgid "while trying to open %s"
+msgstr "%s ཁ་འབྱེད་ཚོད་ལྟར་བྱེད་སྐབས།"
+
+msgid "while updating bad block inode"
+msgstr "རྡོག་ཚིགས་ཚེག་གསར་སྒྱུར་བྱེད་སྐབས།"

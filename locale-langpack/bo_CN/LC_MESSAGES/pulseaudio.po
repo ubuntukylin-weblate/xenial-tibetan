@@ -1,0 +1,1965 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "\t\t\tPart of profile(s): %s"
+msgstr ""
+
+msgid ""
+"\t\t\tProperties:\n"
+"\t\t\t\t%s\n"
+msgstr ""
+
+msgid "\t\t%s: %s (sinks: %u, sources: %u, priority: %u, available: %s)\n"
+msgstr ""
+
+msgid "\tActive Port: %s\n"
+msgstr ""
+
+msgid "\tActive Profile: %s\n"
+msgstr ""
+
+msgid "\tFormats:\n"
+msgstr ""
+
+msgid "\tPorts:\n"
+msgstr ""
+
+msgid "\tProfiles:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  -h, --help                            Show this help\n"
+"      --version                         Show version\n"
+"\n"
+"  -s, --server=SERVER                   The name of the server to connect to\n"
+"  -n, --client-name=NAME                How to call this client on the server\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  -h, --help                            Show this help\n"
+"      --version                         Show version\n"
+"When no command is given pacmd starts in the interactive mode.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"The special names @DEFAULT_SINK@, @DEFAULT_SOURCE@ and @DEFAULT_MONITOR@\n"
+"can be used to specify the default sink, source and monitor.\n"
+msgstr ""
+
+msgid "### Read from configuration file: %s ###\n"
+msgstr ""
+
+msgid "#N"
+msgstr ""
+
+msgid "#N 1|0"
+msgstr ""
+
+msgid "#N 1|0|toggle"
+msgstr ""
+
+msgid "#N FORMATS"
+msgstr ""
+
+msgid "#N KEY=VALUE"
+msgstr ""
+
+msgid "#N SINK|SOURCE"
+msgstr ""
+
+msgid "#N VOLUME"
+msgstr ""
+
+msgid "#N VOLUME [VOLUME ...]"
+msgstr ""
+
+msgid "%0.1f GiB"
+msgstr ""
+
+msgid "%0.1f KiB"
+msgstr ""
+
+msgid "%0.1f MiB"
+msgstr ""
+
+msgid "%s %s\n"
+msgstr ""
+
+msgid "%s %uch %uHz"
+msgstr ""
+
+msgid "%s Input"
+msgstr ""
+
+msgid "%s Output"
+msgstr ""
+
+msgid ""
+"%s [-D display] [-S server] [-O sink] [-I source] [-c file]  [-d|-e|-i|-r]\n"
+"\n"
+" -d    Show current PulseAudio data attached to X11 display (default)\n"
+" -e    Export local PulseAudio data to X11 display\n"
+" -i    Import PulseAudio data from X11 display to local environment variables and cookie file.\n"
+" -r    Remove PulseAudio data from X11 display\n"
+msgstr ""
+
+msgid ""
+"%s [options]\n"
+"\n"
+"-h, --help                            Show this help\n"
+"-v, --verbose                         Print debug messages\n"
+"      --from-rate=SAMPLERATE          From sample rate in Hz (defaults to 44100)\n"
+"      --from-format=SAMPLEFORMAT      From sample type (defaults to s16le)\n"
+"      --from-channels=CHANNELS        From number of channels (defaults to 1)\n"
+"      --to-rate=SAMPLERATE            To sample rate in Hz (defaults to 44100)\n"
+"      --to-format=SAMPLEFORMAT        To sample type (defaults to s16le)\n"
+"      --to-channels=CHANNELS          To number of channels (defaults to 1)\n"
+"      --resample-method=METHOD        Resample method (defaults to auto)\n"
+"      --seconds=SECONDS               From stream duration (defaults to 60)\n"
+"\n"
+"If the formats are not specified, the test performs all formats combinations,\n"
+"back and forth.\n"
+"\n"
+"Sample type must be one of s16le, s16be, u8, float32le, float32be, ulaw, alaw,\n"
+"s24le, s24be, s24-32le, s24-32be, s32le, s32be (defaults to s16ne)\n"
+"\n"
+"See --dump-resample-methods for possible values of resample methods.\n"
+msgstr ""
+
+msgid ""
+"%s [options]\n"
+"\n"
+"COMMANDS:\n"
+"  -h, --help                            Show this help\n"
+"      --version                         Show version\n"
+"      --dump-conf                       Dump default configuration\n"
+"      --dump-modules                    Dump list of available modules\n"
+"      --dump-resample-methods           Dump available resample methods\n"
+"      --cleanup-shm                     Cleanup stale shared memory segments\n"
+"      --start                           Start the daemon if it is not running\n"
+"  -k  --kill                            Kill a running daemon\n"
+"      --check                           Check for a running daemon (only returns exit code)\n"
+"\n"
+"OPTIONS:\n"
+"      --system[=BOOL]                   Run as system-wide instance\n"
+"  -D, --daemonize[=BOOL]                Daemonize after startup\n"
+"      --fail[=BOOL]                     Quit when startup fails\n"
+"      --high-priority[=BOOL]            Try to set high nice level\n"
+"                                        (only available as root, when SUID or\n"
+"                                        with elevated RLIMIT_NICE)\n"
+"      --realtime[=BOOL]                 Try to enable realtime scheduling\n"
+"                                        (only available as root, when SUID or\n"
+"                                        with elevated RLIMIT_RTPRIO)\n"
+"      --disallow-module-loading[=BOOL]  Disallow module user requested module\n"
+"                                        loading/unloading after startup\n"
+"      --disallow-exit[=BOOL]            Disallow user requested exit\n"
+"      --exit-idle-time=SECS             Terminate the daemon when idle and this\n"
+"                                        time passed\n"
+"      --scache-idle-time=SECS           Unload autoloaded samples when idle and\n"
+"                                        this time passed\n"
+"      --log-level[=LEVEL]               Increase or set verbosity level\n"
+"  -v  --verbose                         Increase the verbosity level\n"
+"      --log-target={auto,syslog,stderr,file:PATH,newfile:PATH}\n"
+"                                        Specify the log target\n"
+"      --log-meta[=BOOL]                 Include code location in log messages\n"
+"      --log-time[=BOOL]                 Include timestamps in log messages\n"
+"      --log-backtrace=FRAMES            Include a backtrace in log messages\n"
+"  -p, --dl-search-path=PATH             Set the search path for dynamic shared\n"
+"                                        objects (plugins)\n"
+"      --resample-method=METHOD          Use the specified resampling method\n"
+"                                        (See --dump-resample-methods for\n"
+"                                        possible values)\n"
+"      --use-pid-file[=BOOL]             Create a PID file\n"
+"      --no-cpu-limit[=BOOL]             Do not install CPU load limiter on\n"
+"                                        platforms that support it.\n"
+"      --disable-shm[=BOOL]              Disable shared memory support.\n"
+"\n"
+"STARTUP SCRIPT:\n"
+"  -L, --load=\"MODULE ARGUMENTS\"         Load the specified plugin module with\n"
+"                                        the specified argument\n"
+"  -F, --file=FILENAME                   Run the specified script\n"
+"  -C                                    Open a command line on the running TTY\n"
+"                                        after startup\n"
+"\n"
+"  -n                                    Don't load default script file\n"
+msgstr ""
+
+msgid ""
+"%s [options]\n"
+"%s\n"
+"\n"
+"  -h, --help                            Show this help\n"
+"      --version                         Show version\n"
+"\n"
+"  -r, --record                          Create a connection for recording\n"
+"  -p, --playback                        Create a connection for playback\n"
+"\n"
+"  -v, --verbose                         Enable verbose operations\n"
+"\n"
+"  -s, --server=SERVER                   The name of the server to connect to\n"
+"  -d, --device=DEVICE                   The name of the sink/source to connect to\n"
+"  -n, --client-name=NAME                How to call this client on the server\n"
+"      --stream-name=NAME                How to call this stream on the server\n"
+"      --volume=VOLUME                   Specify the initial (linear) volume in range 0...65536\n"
+"      --rate=SAMPLERATE                 The sample rate in Hz (defaults to 44100)\n"
+"      --format=SAMPLEFORMAT             The sample type, one of s16le, s16be, u8, float32le,\n"
+"                                        float32be, ulaw, alaw, s32le, s32be, s24le, s24be,\n"
+"                                        s24-32le, s24-32be (defaults to s16ne)\n"
+"      --channels=CHANNELS               The number of channels, 1 for mono, 2 for stereo\n"
+"                                        (defaults to 2)\n"
+"      --channel-map=CHANNELMAP          Channel map to use instead of the default\n"
+"      --fix-format                      Take the sample format from the sink/source the stream is\n"
+"                                        being connected to.\n"
+"      --fix-rate                        Take the sampling rate from the sink/source the stream is\n"
+"                                        being connected to.\n"
+"      --fix-channels                    Take the number of channels and the channel map\n"
+"                                        from the sink/source the stream is being connected to.\n"
+"      --no-remix                        Don't upmix or downmix channels.\n"
+"      --no-remap                        Map channels by index instead of name.\n"
+"      --latency=BYTES                   Request the specified latency in bytes.\n"
+"      --process-time=BYTES              Request the specified process time per request in bytes.\n"
+"      --latency-msec=MSEC               Request the specified latency in msec.\n"
+"      --process-time-msec=MSEC          Request the specified process time per request in msec.\n"
+"      --property=PROPERTY=VALUE         Set the specified property to the specified value.\n"
+"      --raw                             Record/play raw PCM data.\n"
+"      --passthrough                     Passthrough data.\n"
+"      --file-format[=FFORMAT]           Record/play formatted PCM data.\n"
+"      --list-file-formats               List available file formats.\n"
+"      --monitor-stream=INDEX            Record from the sink input with index INDEX.\n"
+msgstr ""
+
+msgid ""
+"%s [options] ... \n"
+"\n"
+"  -h, --help                            Show this help\n"
+"      --version                         Show version\n"
+"  -s, --server=SERVER                   The name of the server to connect to\n"
+"\n"
+msgstr ""
+
+msgid "%u B"
+msgstr ""
+
+msgid "(invalid)"
+msgstr ""
+
+msgid "--daemonize expects boolean argument"
+msgstr ""
+
+msgid "--disable-shm expects boolean argument"
+msgstr ""
+
+msgid "--disallow-exit expects boolean argument"
+msgstr ""
+
+msgid "--disallow-module-loading expects boolean argument"
+msgstr ""
+
+msgid "--fail expects boolean argument"
+msgstr ""
+
+msgid "--high-priority expects boolean argument"
+msgstr ""
+
+msgid ""
+"--log-level expects log level argument (either numeric in range 0..4 or one "
+"of debug, info, notice, warn, error)."
+msgstr ""
+
+msgid "--log-meta expects boolean argument"
+msgstr ""
+
+msgid "--log-time expects boolean argument"
+msgstr ""
+
+msgid "--no-cpu-limit expects boolean argument"
+msgstr ""
+
+msgid "--realtime expects boolean argument"
+msgstr ""
+
+msgid "--start not supported for system instances."
+msgstr ""
+
+msgid "--system expects boolean argument"
+msgstr ""
+
+msgid "--use-pid-file expects boolean argument"
+msgstr ""
+
+msgid "1|0"
+msgstr ""
+
+msgid ""
+"ALSA woke us up to read new data from the device, but there was actually nothing to read!\n"
+"Most likely this is a bug in the ALSA driver '%s'. Please report this issue to the ALSA developers.\n"
+"We were woken up with POLLIN set -- however a subsequent snd_pcm_avail() returned 0 or another value < min_avail."
+msgstr ""
+
+msgid ""
+"ALSA woke us up to read new data from the device, but there was actually nothing to read.\n"
+"Most likely this is a bug in the ALSA driver '%s'. Please report this issue to the ALSA developers.\n"
+"We were woken up with POLLIN set -- however a subsequent snd_pcm_avail() returned 0 or another value < min_avail."
+msgstr ""
+
+msgid ""
+"ALSA woke us up to write new data to the device, but there was actually nothing to write!\n"
+"Most likely this is a bug in the ALSA driver '%s'. Please report this issue to the ALSA developers.\n"
+"We were woken up with POLLOUT set -- however a subsequent snd_pcm_avail() returned 0 or another value < min_avail."
+msgstr ""
+
+msgid ""
+"ALSA woke us up to write new data to the device, but there was actually nothing to write.\n"
+"Most likely this is a bug in the ALSA driver '%s'. Please report this issue to the ALSA developers.\n"
+"We were woken up with POLLOUT set -- however a subsequent snd_pcm_avail() returned 0 or another value < min_avail."
+msgstr ""
+
+msgid "Access denied"
+msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
+
+msgid "Allocated during whole lifetime: %u blocks containing %s bytes total.\n"
+msgstr ""
+
+msgid "Always keeps at least one sink loaded even if it's a null one"
+msgstr ""
+
+msgid "Amplifier"
+msgstr ""
+
+msgid "Analog Input"
+msgstr ""
+
+msgid "Analog Mono"
+msgstr ""
+
+msgid "Analog Mono Duplex"
+msgstr ""
+
+msgid "Analog Mono Output"
+msgstr ""
+
+msgid "Analog Output"
+msgstr ""
+
+msgid "Analog Stereo"
+msgstr ""
+
+msgid "Analog Stereo Duplex"
+msgstr ""
+
+msgid "Analog Surround 2.1"
+msgstr ""
+
+msgid "Analog Surround 3.0"
+msgstr ""
+
+msgid "Analog Surround 3.1"
+msgstr ""
+
+msgid "Analog Surround 4.0"
+msgstr ""
+
+msgid "Analog Surround 4.1"
+msgstr ""
+
+msgid "Analog Surround 5.0"
+msgstr ""
+
+msgid "Analog Surround 5.1"
+msgstr ""
+
+msgid "Analog Surround 6.0"
+msgstr ""
+
+msgid "Analog Surround 6.1"
+msgstr ""
+
+msgid "Analog Surround 7.0"
+msgstr ""
+
+msgid "Analog Surround 7.1"
+msgstr ""
+
+msgid "Audio on @HOSTNAME@"
+msgstr ""
+
+msgid "Author: %s\n"
+msgstr ""
+
+msgid "Automatic Gain Control"
+msgstr ""
+
+msgid "Auxiliary 0"
+msgstr ""
+
+msgid "Auxiliary 1"
+msgstr ""
+
+msgid "Auxiliary 10"
+msgstr ""
+
+msgid "Auxiliary 11"
+msgstr ""
+
+msgid "Auxiliary 12"
+msgstr ""
+
+msgid "Auxiliary 13"
+msgstr ""
+
+msgid "Auxiliary 14"
+msgstr ""
+
+msgid "Auxiliary 15"
+msgstr ""
+
+msgid "Auxiliary 16"
+msgstr ""
+
+msgid "Auxiliary 17"
+msgstr ""
+
+msgid "Auxiliary 18"
+msgstr ""
+
+msgid "Auxiliary 19"
+msgstr ""
+
+msgid "Auxiliary 2"
+msgstr ""
+
+msgid "Auxiliary 20"
+msgstr ""
+
+msgid "Auxiliary 21"
+msgstr ""
+
+msgid "Auxiliary 22"
+msgstr ""
+
+msgid "Auxiliary 23"
+msgstr ""
+
+msgid "Auxiliary 24"
+msgstr ""
+
+msgid "Auxiliary 25"
+msgstr ""
+
+msgid "Auxiliary 26"
+msgstr ""
+
+msgid "Auxiliary 27"
+msgstr ""
+
+msgid "Auxiliary 28"
+msgstr ""
+
+msgid "Auxiliary 29"
+msgstr ""
+
+msgid "Auxiliary 3"
+msgstr ""
+
+msgid "Auxiliary 30"
+msgstr ""
+
+msgid "Auxiliary 31"
+msgstr ""
+
+msgid "Auxiliary 4"
+msgstr ""
+
+msgid "Auxiliary 5"
+msgstr ""
+
+msgid "Auxiliary 6"
+msgstr ""
+
+msgid "Auxiliary 7"
+msgstr ""
+
+msgid "Auxiliary 8"
+msgstr ""
+
+msgid "Auxiliary 9"
+msgstr ""
+
+msgid "Bad state"
+msgstr "ནོར་འཁྲུལ་རྣམ་པ།"
+
+msgid "Bass Boost"
+msgstr ""
+
+msgid "Bluetooth Input"
+msgstr ""
+
+msgid "Bluetooth Output"
+msgstr ""
+
+msgid "Boost"
+msgstr "ཤུགས་ཆེ་རུ་གཏོང་བ།"
+
+msgid "Buffer metrics: maxlength=%u, fragsize=%u"
+msgstr ""
+
+msgid "Buffer metrics: maxlength=%u, tlength=%u, prebuf=%u, minreq=%u"
+msgstr ""
+
+msgid "Built-in Audio"
+msgstr ""
+
+msgid "CARD PROFILE"
+msgstr ""
+
+msgid "CARD-NAME|CARD-#N PORT OFFSET"
+msgstr ""
+
+msgid "Cannot access autospawn lock."
+msgstr ""
+
+msgid ""
+"Capture audio data from a PulseAudio sound server and write it to STDOUT or "
+"the specified file."
+msgstr ""
+
+msgid ""
+"Capture audio data from a PulseAudio sound server and write it to a file."
+msgstr ""
+
+msgid "Car"
+msgstr ""
+
+msgid ""
+"Card #%u\n"
+"\tName: %s\n"
+"\tDriver: %s\n"
+"\tOwner Module: %s\n"
+"\tProperties:\n"
+"\t\t%s\n"
+msgstr ""
+
+msgid "Channel map doesn't match sample specification"
+msgstr ""
+
+msgid ""
+"Client #%u\n"
+"\tDriver: %s\n"
+"\tOwner Module: %s\n"
+"\tProperties:\n"
+"\t\t%s\n"
+msgstr ""
+
+msgid "Client forked"
+msgstr ""
+
+msgid "Clocked NULL sink"
+msgstr ""
+
+msgid "Connected to device %s (index: %u, suspended: %s)."
+msgstr ""
+
+msgid "Connection established.%s"
+msgstr ""
+
+msgid "Connection failure: %s"
+msgstr ""
+
+msgid "Connection failure: %s\n"
+msgstr ""
+
+msgid "Connection refused"
+msgstr "འབྲེལ་མཐུད་ཁས་མ་བླངས་པ།"
+
+msgid "Connection terminated"
+msgstr ""
+
+msgid "Cookie: %s\n"
+msgstr ""
+
+msgid "Cork request stack is empty: corking stream"
+msgstr ""
+
+msgid "Cork request stack is empty: uncorking stream"
+msgstr ""
+
+msgid "Could not parse latency offset"
+msgstr ""
+
+msgid "Currently in use: %u blocks containing %s bytes total.\n"
+msgstr ""
+
+msgid "DEPRECATION WARNING: %s\n"
+msgstr ""
+
+msgid "Daemon not responding."
+msgstr ""
+
+msgid "Daemon startup failed."
+msgstr ""
+
+msgid "Daemon startup without any loaded modules, refusing to work."
+msgstr ""
+
+msgid "Description: %s\n"
+msgstr ""
+
+msgid "Device or resource busy"
+msgstr ""
+
+msgid "Digital Input (S/PDIF)"
+msgstr ""
+
+msgid "Digital Output (S/PDIF)"
+msgstr ""
+
+msgid "Digital Passthrough  (IEC958)"
+msgstr ""
+
+msgid "Digital Passthrough (S/PDIF)"
+msgstr ""
+
+msgid "Digital Stereo (HDMI)"
+msgstr ""
+
+msgid "Digital Stereo (IEC958)"
+msgstr ""
+
+msgid "Digital Stereo Duplex (IEC958)"
+msgstr ""
+
+msgid "Digital Surround 4.0 (IEC958/AC3)"
+msgstr ""
+
+msgid "Digital Surround 5.1 (HDMI)"
+msgstr ""
+
+msgid "Digital Surround 5.1 (IEC958/AC3)"
+msgstr ""
+
+msgid "Digital Surround 5.1 (IEC958/DTS)"
+msgstr ""
+
+msgid "Dock Microphone"
+msgstr ""
+
+msgid "Docking Station Input"
+msgstr ""
+
+msgid "Docking Station Line In"
+msgstr ""
+
+msgid "Docking Station Microphone"
+msgstr ""
+
+msgid "Draining connection to server."
+msgstr ""
+
+msgid "Dummy Output"
+msgstr ""
+
+msgid "Entity exists"
+msgstr ""
+
+msgid "Entity killed"
+msgstr ""
+
+msgid "Event '%s' on %s #%u\n"
+msgstr ""
+
+msgid "External Microphone"
+msgstr ""
+
+msgid "FILENAME SINK|#N"
+msgstr ""
+
+msgid "FILENAME [NAME]"
+msgstr ""
+
+msgid "FRAMES"
+msgstr ""
+
+msgid "Failed to acquire stdio."
+msgstr ""
+
+msgid "Failed to add bind-now-loader."
+msgstr ""
+
+msgid "Failed to allocate new dl loader."
+msgstr ""
+
+msgid "Failed to change GID: %s"
+msgstr ""
+
+msgid "Failed to change UID: %s"
+msgstr ""
+
+msgid "Failed to change group list: %s"
+msgstr ""
+
+msgid "Failed to create '%s': %s"
+msgstr "“%s”གསར་འཛུགས་ཕམ་པ།：%s"
+
+msgid "Failed to determine sample specification from file."
+msgstr ""
+
+msgid "Failed to drain stream: %s"
+msgstr ""
+
+msgid "Failed to find group '%s'."
+msgstr ""
+
+msgid "Failed to find original lt_dlopen loader."
+msgstr ""
+
+msgid "Failed to find user '%s'."
+msgstr ""
+
+msgid "Failed to generate sample specification for file."
+msgstr ""
+
+msgid "Failed to get FQDN.\n"
+msgstr ""
+
+msgid "Failed to get card information: %s"
+msgstr ""
+
+msgid "Failed to get client information: %s"
+msgstr ""
+
+msgid "Failed to get latency: %s"
+msgstr ""
+
+msgid "Failed to get machine ID"
+msgstr ""
+
+msgid "Failed to get module information: %s"
+msgstr ""
+
+msgid "Failed to get sample information: %s"
+msgstr ""
+
+msgid "Failed to get server information: %s"
+msgstr ""
+
+msgid "Failed to get sink information: %s"
+msgstr ""
+
+msgid "Failed to get sink input information: %s"
+msgstr ""
+
+msgid "Failed to get source information: %s"
+msgstr ""
+
+msgid "Failed to get source output information: %s"
+msgstr ""
+
+msgid "Failed to get statistics: %s"
+msgstr ""
+
+msgid "Failed to initialize daemon."
+msgstr ""
+
+msgid "Failed to kill PulseAudio daemon."
+msgstr ""
+
+msgid "Failed to kill daemon: %s"
+msgstr ""
+
+msgid "Failed to load cookie data\n"
+msgstr ""
+
+msgid "Failed to open audio file."
+msgstr ""
+
+msgid "Failed to open configuration file: %s"
+msgstr ""
+
+msgid "Failed to open module %s: %s"
+msgstr ""
+
+msgid "Failed to open sound file."
+msgstr ""
+
+msgid "Failed to open target file '%s'."
+msgstr ""
+
+msgid "Failed to parse command line."
+msgstr ""
+
+msgid "Failed to parse command line.\n"
+msgstr ""
+
+msgid "Failed to parse cookie data"
+msgstr ""
+
+msgid "Failed to parse cookie data\n"
+msgstr ""
+
+msgid "Failed to parse the argument for --monitor-stream"
+msgstr ""
+
+msgid "Failed to save cookie data\n"
+msgstr ""
+
+msgid "Failed to set format: invalid format string %s"
+msgstr ""
+
+msgid "Failed to set media name."
+msgstr ""
+
+msgid "Failed to set monitor stream: %s"
+msgstr ""
+
+msgid ""
+"Failed to set volume: You tried to set volumes for %d channels, whereas "
+"channel/s supported = %d\n"
+msgstr ""
+
+msgid "Failed to unload module: Module %s not loaded"
+msgstr ""
+
+msgid "Failed to upload sample: %s"
+msgstr ""
+
+msgid "Failure to resume: %s\n"
+msgstr ""
+
+msgid "Failure to suspend: %s\n"
+msgstr ""
+
+msgid "Failure: %s"
+msgstr ""
+
+msgid "Front Center"
+msgstr ""
+
+msgid "Front Left"
+msgstr "གཡོན་མདུན་ཕྱོགས་"
+
+msgid "Front Left-of-center"
+msgstr ""
+
+msgid "Front Microphone"
+msgstr ""
+
+msgid "Front Right"
+msgstr "གཡས་མདུན་ཕྱོགས"
+
+msgid "Front Right-of-center"
+msgstr ""
+
+msgid "GID of user '%s' and of group '%s' don't match."
+msgstr ""
+
+msgid "General Purpose Equalizer"
+msgstr ""
+
+msgid "Got EOF."
+msgstr ""
+
+msgid "Got SIGINT, exiting."
+msgstr ""
+
+msgid "Got SIGINT, exiting.\n"
+msgstr ""
+
+msgid "Got signal, exiting."
+msgstr ""
+
+msgid "HDMI / DisplayPort"
+msgstr ""
+
+msgid "Handsfree"
+msgstr ""
+
+msgid "Handsfree Gateway"
+msgstr ""
+
+msgid "Headphone"
+msgstr "མགོར་གྱོན་རྣམ་པའི་རྣ་ཉན།"
+
+msgid "Headphones"
+msgstr "ཉན་ཆས།"
+
+msgid "Headset"
+msgstr "རྣ་ཉན།"
+
+msgid "Headset Audio Gateway (HSP/HFP)"
+msgstr ""
+
+msgid "Headset Head Unit (HSP/HFP)"
+msgstr ""
+
+msgid "Headset Microphone"
+msgstr ""
+
+msgid "HiFi"
+msgstr ""
+
+msgid "High Fidelity Capture (A2DP Source)"
+msgstr ""
+
+msgid "High Fidelity Capture (A2DP)"
+msgstr ""
+
+msgid "High Fidelity Playback (A2DP Sink)"
+msgstr ""
+
+msgid "High Fidelity Playback (A2DP)"
+msgstr ""
+
+msgid "Home directory of user '%s' is not '%s', ignoring."
+msgstr ""
+
+msgid "Incompatible protocol version"
+msgstr ""
+
+msgid "Inconsistent volume specification.\n"
+msgstr ""
+
+msgid "Input"
+msgstr "ནང་འཇུག"
+
+msgid "Input Devices"
+msgstr "ནང་འཇུག་སྒྲིག་ཆས།"
+
+msgid "Input/Output error"
+msgstr ""
+
+msgid "Internal Microphone"
+msgstr ""
+
+msgid "Internal error"
+msgstr "ནང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+
+msgid "Invalid argument"
+msgstr "ནུས་མེད་ཀྱི་ཞུགས་གྲངས།"
+
+msgid "Invalid channel map '%s'"
+msgstr ""
+
+msgid "Invalid client name '%s'"
+msgstr ""
+
+msgid "Invalid latency specification '%s'"
+msgstr ""
+
+msgid "Invalid log target."
+msgstr ""
+
+msgid ""
+"Invalid log target: use either 'syslog', 'journal','stderr' or 'auto' or a "
+"valid file name 'file:<path>', 'newfile:<path>'."
+msgstr ""
+
+msgid ""
+"Invalid log target: use either 'syslog', 'stderr' or 'auto' or a valid file "
+"name 'file:<path>', 'newfile:<path>'."
+msgstr ""
+
+msgid "Invalid mute specification"
+msgstr ""
+
+msgid "Invalid number of volume specifications.\n"
+msgstr ""
+
+msgid "Invalid process time specification '%s'"
+msgstr ""
+
+msgid "Invalid property '%s'"
+msgstr ""
+
+msgid "Invalid resample method '%s'."
+msgstr ""
+
+msgid "Invalid sample specification"
+msgstr ""
+
+msgid "Invalid server"
+msgstr ""
+
+msgid "Invalid sink input index"
+msgstr ""
+
+msgid "Invalid sink input index specification"
+msgstr ""
+
+msgid "Invalid source output index"
+msgstr ""
+
+msgid "Invalid source output index specification"
+msgstr ""
+
+msgid "Invalid stream name '%s'"
+msgstr ""
+
+msgid "Invalid suspend specification."
+msgstr ""
+
+msgid "Invalid volume specification"
+msgstr ""
+
+msgid "LFE on Separate Mono Output"
+msgstr ""
+
+msgid "Line In"
+msgstr "སྐུད་ལམ་ནང་འཇུག"
+
+msgid "Line Out"
+msgstr "སྐུད་ལམ་ཕྱིར་འདོན།"
+
+msgid "Load Once: %s\n"
+msgstr ""
+
+msgid "Microphone"
+msgstr "སྐད་སྦུག"
+
+msgid "Missing implementation"
+msgstr ""
+
+msgid "Modem"
+msgstr "སྙོམ་སྒྲིག་སྒྲིག་འགྲོལ་ཆས།"
+
+msgid ""
+"Module #%u\n"
+"\tName: %s\n"
+"\tArgument: %s\n"
+"\tUsage counter: %s\n"
+"\tProperties:\n"
+"\t\t%s\n"
+msgstr ""
+
+msgid "Module initialization failed"
+msgstr ""
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Multichannel"
+msgstr ""
+
+msgid "Multichannel Duplex"
+msgstr ""
+
+msgid "Multichannel Input"
+msgstr ""
+
+msgid "Multichannel Output"
+msgstr ""
+
+msgid "NAME"
+msgstr "མིང་།"
+
+msgid "NAME FILENAME"
+msgstr ""
+
+msgid "NAME SINK|#N"
+msgstr ""
+
+msgid "NAME [ARGS ...]"
+msgstr ""
+
+msgid "NAME [SINK]"
+msgstr ""
+
+msgid "NAME|#N"
+msgstr ""
+
+msgid "NAME|#N 1|0"
+msgstr ""
+
+msgid "NAME|#N 1|0|toggle"
+msgstr ""
+
+msgid "NAME|#N KEY=VALUE"
+msgstr ""
+
+msgid "NAME|#N PORT"
+msgstr ""
+
+msgid "NAME|#N VOLUME"
+msgstr ""
+
+msgid "NAME|#N VOLUME [VOLUME ...]"
+msgstr ""
+
+msgid "NUMERIC-LEVEL"
+msgstr ""
+
+msgid "Name: %s\n"
+msgstr ""
+
+msgid "No Amplifier"
+msgstr ""
+
+msgid "No Automatic Gain Control"
+msgstr ""
+
+msgid "No Bass Boost"
+msgstr ""
+
+msgid "No Boost"
+msgstr ""
+
+msgid "No PulseAudio daemon running, or not running as session daemon."
+msgstr ""
+
+msgid "No authentication key"
+msgstr ""
+
+msgid "No data"
+msgstr "གཞི་གྲངས་མེད།"
+
+msgid "No module information available\n"
+msgstr ""
+
+msgid "No such entity"
+msgstr ""
+
+msgid "No such extension"
+msgstr ""
+
+msgid "No valid command specified."
+msgstr ""
+
+msgid "Not supported"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+
+msgid "Not yet implemented.\n"
+msgstr ""
+
+msgid "Null Output"
+msgstr ""
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid ""
+"OK, so you are running PA in system mode. Please note that you most likely shouldn't be doing that.\n"
+"If you do it nonetheless then it's your own fault if things don't work as expected.\n"
+"Please read http://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/WhatIsWrongWithSystemWide/ for an explanation why system mode is usually a bad idea."
+msgstr ""
+
+msgid "Obsolete functionality"
+msgstr ""
+
+msgid "Off"
+msgstr "ཁ་རྒྱག"
+
+msgid "On"
+msgstr "ཁ་ཕྱེ།"
+
+msgid ""
+"Opening a %s stream with sample specification '%s' and channel map '%s'."
+msgstr ""
+
+msgid "Output Devices"
+msgstr ""
+
+msgid "PATHNAME"
+msgstr ""
+
+msgid "Path: %s\n"
+msgstr ""
+
+msgid "Phone"
+msgstr "ལག་ཁྱེར།"
+
+msgid ""
+"Play back audio data from STDIN or the specified file on a PulseAudio sound "
+"server."
+msgstr ""
+
+msgid "Play back encoded audio files on a PulseAudio sound server."
+msgstr ""
+
+msgid "Playback stream drained."
+msgstr ""
+
+msgid "Please specify a sample file to load"
+msgstr ""
+
+msgid "Portable"
+msgstr ""
+
+msgid "Premature end of file"
+msgstr "ཡིག་ཆ་མཇུག་སྒྲིལ་སྔ་དྲགས་པ།"
+
+msgid "Protocol error"
+msgstr "གྲོས་ཆིངས་ནོར་འཁྲུལ།"
+
+msgid "PulseAudio Sound Server"
+msgstr ""
+
+msgid "PulseAudio Sound System"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Rear Center"
+msgstr ""
+
+msgid "Rear Left"
+msgstr "གཡོན་རྒྱབ་ཕྱོགས།"
+
+msgid "Rear Microphone"
+msgstr ""
+
+msgid "Rear Right"
+msgstr "གཡས་རྒྱབ་ཕྱོགས།"
+
+msgid "Received message for unknown extension '%s'"
+msgstr ""
+
+msgid "Root privileges required."
+msgstr ""
+
+msgid "Running in system mode, but --disallow-exit not set."
+msgstr ""
+
+msgid "Running in system mode, but --disallow-module-loading not set."
+msgstr ""
+
+msgid "Running in system mode, forcibly disabling SHM mode."
+msgstr ""
+
+msgid "Running in system mode, forcibly disabling exit idle time."
+msgstr ""
+
+msgid ""
+"Sample #%u\n"
+"\tName: %s\n"
+"\tSample Specification: %s\n"
+"\tChannel Map: %s\n"
+"\tVolume: %s\n"
+"\t        balance %0.2f\n"
+"\tDuration: %0.1fs\n"
+"\tSize: %s\n"
+"\tLazy: %s\n"
+"\tFilename: %s\n"
+"\tProperties:\n"
+"\t\t%s\n"
+msgstr ""
+
+msgid "Sample cache size: %s\n"
+msgstr ""
+
+msgid ""
+"Server String: %s\n"
+"Library Protocol Version: %u\n"
+"Server Protocol Version: %u\n"
+"Is Local: %s\n"
+"Client Index: %u\n"
+"Tile Size: %zu\n"
+msgstr ""
+
+msgid "Server: %s\n"
+msgstr ""
+
+msgid "Side Left"
+msgstr "གཡོན་ཕྱོགས།"
+
+msgid "Side Right"
+msgstr "གཡས་ཕྱོགས།"
+
+msgid ""
+"Sink #%u\n"
+"\tState: %s\n"
+"\tName: %s\n"
+"\tDescription: %s\n"
+"\tDriver: %s\n"
+"\tSample Specification: %s\n"
+"\tChannel Map: %s\n"
+"\tOwner Module: %u\n"
+"\tMute: %s\n"
+"\tVolume: %s\n"
+"\t        balance %0.2f\n"
+"\tBase Volume: %s\n"
+"\tMonitor Source: %s\n"
+"\tLatency: %0.0f usec, configured %0.0f usec\n"
+"\tFlags: %s%s%s%s%s%s%s\n"
+"\tProperties:\n"
+"\t\t%s\n"
+msgstr ""
+
+msgid ""
+"Sink Input #%u\n"
+"\tDriver: %s\n"
+"\tOwner Module: %s\n"
+"\tClient: %s\n"
+"\tSink: %u\n"
+"\tSample Specification: %s\n"
+"\tChannel Map: %s\n"
+"\tFormat: %s\n"
+"\tCorked: %s\n"
+"\tMute: %s\n"
+"\tVolume: %s\n"
+"\t        balance %0.2f\n"
+"\tBuffer Latency: %0.0f usec\n"
+"\tSink Latency: %0.0f usec\n"
+"\tResample method: %s\n"
+"\tProperties:\n"
+"\t\t%s\n"
+msgstr ""
+
+msgid "Sink: %s\n"
+msgstr ""
+
+msgid ""
+"Source #%u\n"
+"\tState: %s\n"
+"\tName: %s\n"
+"\tDescription: %s\n"
+"\tDriver: %s\n"
+"\tSample Specification: %s\n"
+"\tChannel Map: %s\n"
+"\tOwner Module: %u\n"
+"\tMute: %s\n"
+"\tVolume: %s\n"
+"\t        balance %0.2f\n"
+"\tBase Volume: %s\n"
+"\tMonitor of Sink: %s\n"
+"\tLatency: %0.0f usec, configured %0.0f usec\n"
+"\tFlags: %s%s%s%s%s%s\n"
+"\tProperties:\n"
+"\t\t%s\n"
+msgstr ""
+
+msgid ""
+"Source Output #%u\n"
+"\tDriver: %s\n"
+"\tOwner Module: %s\n"
+"\tClient: %s\n"
+"\tSource: %u\n"
+"\tSample Specification: %s\n"
+"\tChannel Map: %s\n"
+"\tFormat: %s\n"
+"\tCorked: %s\n"
+"\tMute: %s\n"
+"\tVolume: %s\n"
+"\t        balance %0.2f\n"
+"\tBuffer Latency: %0.0f usec\n"
+"\tSource Latency: %0.0f usec\n"
+"\tResample method: %s\n"
+"\tProperties:\n"
+"\t\t%s\n"
+msgstr ""
+
+msgid "Source: %s\n"
+msgstr ""
+
+msgid "Speaker"
+msgstr "སྒྲ་སྐྱེད་ཆས།"
+
+msgid "Speakers"
+msgstr "སྒྲ་སྐྱེད་ཆས།"
+
+msgid "Specify nothing, or one of: %s"
+msgstr ""
+
+msgid "Start the PulseAudio Sound System"
+msgstr ""
+
+msgid "Stereo"
+msgstr ""
+
+msgid "Stream buffer attributes changed.%s"
+msgstr ""
+
+msgid "Stream device resumed.%s"
+msgstr ""
+
+msgid "Stream device suspended.%s"
+msgstr ""
+
+msgid "Stream error: %s"
+msgstr ""
+
+msgid "Stream moved to device %s (%u, %ssuspended).%s"
+msgstr ""
+
+msgid "Stream overrun.%s"
+msgstr ""
+
+msgid "Stream started.%s"
+msgstr ""
+
+msgid "Stream successfully created."
+msgstr ""
+
+msgid "Stream underrun.%s"
+msgstr ""
+
+msgid "Subwoofer"
+msgstr "སྒྲ་དམན་སྒྱོགས།"
+
+msgid "Surround 4.0"
+msgstr "གདུབ་འཁྱིལ་སྒྲ།4.0"
+
+msgid "Surround 4.1"
+msgstr "གདུབ་འཁྱིལ་སྒྲ།4.1"
+
+msgid "Surround 5.0"
+msgstr "གདུབ་འཁྱིལ་སྒྲ།5.0"
+
+msgid "Surround 5.1"
+msgstr "གདུབ་འཁྱིལ་སྒྲ།5.1"
+
+msgid "Surround 7.1"
+msgstr "གདུབ་འཁྱིལ་སྒྲ།7.1"
+
+msgid ""
+"System mode refused for non-root user. Only starting the D-Bus server lookup"
+" service."
+msgstr ""
+
+msgid "System wide mode unsupported on this platform."
+msgstr ""
+
+msgid "TARGET"
+msgstr ""
+
+msgid "Telephony Duplex (HSP/HFP)"
+msgstr ""
+
+msgid ""
+"The specified default channel map has a different number of channels than "
+"the specified default number of channels."
+msgstr ""
+
+msgid ""
+"This program is not intended to be run as root (unless --system is "
+"specified)."
+msgstr ""
+
+msgid "Time: %0.3f sec; Latency: %0.0f usec."
+msgstr ""
+
+msgid "Timeout"
+msgstr "དུས་བརྒལ་དུས་ཚོད།"
+
+msgid "Too large"
+msgstr ""
+
+msgid "Too many arguments."
+msgstr ""
+
+msgid "Top Center"
+msgstr ""
+
+msgid "Top Front Center"
+msgstr ""
+
+msgid "Top Front Left"
+msgstr ""
+
+msgid "Top Front Right"
+msgstr ""
+
+msgid "Top Rear Center"
+msgstr ""
+
+msgid "Top Rear Left"
+msgstr ""
+
+msgid "Top Rear Right"
+msgstr ""
+
+msgid ""
+"Tried to open target file '%s', '%s.1', '%s.2' ... '%s.%d', but all failed."
+msgstr ""
+
+msgid "Tunnel for %s@%s"
+msgstr ""
+
+msgid "Tunnel to %s/%s"
+msgstr ""
+
+msgid "Unknown command"
+msgstr ""
+
+msgid "Unknown error code"
+msgstr ""
+
+msgid "Unknown file format %s."
+msgstr ""
+
+msgid "Usage: %s\n"
+msgstr ""
+
+msgid ""
+"User Name: %s\n"
+"Host Name: %s\n"
+"Server Name: %s\n"
+"Server Version: %s\n"
+"Default Sample Specification: %s\n"
+"Default Channel Map: %s\n"
+"Default Sink: %s\n"
+"Default Source: %s\n"
+"Cookie: %04x:%04x\n"
+msgstr ""
+
+msgid "User-configured server at %s, refusing to start/autospawn."
+msgstr ""
+
+msgid ""
+"User-configured server at %s, which appears to be local. Probing deeper."
+msgstr ""
+
+msgid "Using sample spec '%s', channel map '%s'."
+msgstr ""
+
+msgid "Version: %s\n"
+msgstr ""
+
+msgid "Video"
+msgstr "བརྙན་ཟློས།"
+
+msgid "Virtual LADSPA sink"
+msgstr ""
+
+msgid "Virtual surround sink"
+msgstr ""
+
+msgid "Volume outside permissible range.\n"
+msgstr ""
+
+msgid "WARNING: Child process terminated by signal %u\n"
+msgstr ""
+
+msgid "WARNING: Sound server is not local, not suspending.\n"
+msgstr ""
+
+msgid "Warning: Failed to determine channel map from file."
+msgstr ""
+
+msgid "Warning: Failed to determine sample specification from file."
+msgstr ""
+
+msgid "Warning: Received more uncork requests than cork requests."
+msgstr ""
+
+msgid "Warning: failed to write channel map to file."
+msgstr ""
+
+msgid ""
+"Warning: specified sample specification will be overwritten with "
+"specification from file."
+msgstr ""
+
+msgid ""
+"XDG_RUNTIME_DIR (%s) is not owned by us (uid %d), but by uid %d! (This could"
+" e g happen if you try to connect to a non-root PulseAudio as a root user, "
+"over the native protocol. Don't do that.)"
+msgstr ""
+
+msgid "You have to specify a card name/index and a profile name"
+msgstr ""
+
+msgid ""
+"You have to specify a card name/index, a port name and a latency offset"
+msgstr ""
+
+msgid "You have to specify a module index or name"
+msgstr ""
+
+msgid "You have to specify a module name and arguments."
+msgstr ""
+
+msgid "You have to specify a sample name to play"
+msgstr ""
+
+msgid "You have to specify a sample name to remove"
+msgstr ""
+
+msgid ""
+"You have to specify a sink index and a semicolon-separated list of supported"
+" formats"
+msgstr ""
+
+msgid ""
+"You have to specify a sink input index and a mute action (0, 1, or 'toggle')"
+msgstr ""
+
+msgid "You have to specify a sink input index and a sink"
+msgstr ""
+
+msgid "You have to specify a sink input index and a volume"
+msgstr ""
+
+msgid "You have to specify a sink name"
+msgstr ""
+
+msgid ""
+"You have to specify a sink name/index and a mute action (0, 1, or 'toggle')"
+msgstr ""
+
+msgid "You have to specify a sink name/index and a port name"
+msgstr ""
+
+msgid "You have to specify a sink name/index and a volume"
+msgstr ""
+
+msgid "You have to specify a source name"
+msgstr ""
+
+msgid ""
+"You have to specify a source name/index and a mute action (0, 1, or "
+"'toggle')"
+msgstr ""
+
+msgid "You have to specify a source name/index and a port name"
+msgstr ""
+
+msgid "You have to specify a source name/index and a volume"
+msgstr ""
+
+msgid ""
+"You have to specify a source output index and a mute action (0, 1, or "
+"'toggle')"
+msgstr ""
+
+msgid "You have to specify a source output index and a source"
+msgstr ""
+
+msgid "You have to specify a source output index and a volume"
+msgstr ""
+
+msgid ""
+"You may not specify more than one sink. You have to specify a boolean value."
+msgstr ""
+
+msgid ""
+"You may not specify more than one source. You have to specify a boolean "
+"value."
+msgstr ""
+
+msgid "[%s:%u] Invalid channel map '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid fragment size '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid log level '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid log target '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid nice level '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid number of fragments '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid resample method '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid rlimit '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid sample channels '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid sample format '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid sample rate '%s'."
+msgstr ""
+
+msgid "[%s:%u] Invalid server type '%s'."
+msgstr ""
+
+msgid "[TYPE]"
+msgstr ""
+
+msgid "[options]"
+msgstr ""
+
+msgid "autoclean=<automatically unload unused filters?>"
+msgstr ""
+
+msgid "bidirectional"
+msgstr "ཕྱོགས་གཉིས།"
+
+msgid "card"
+msgstr ""
+
+msgid "change"
+msgstr "བསྒྱུར་བ།"
+
+msgid "client"
+msgstr "མཁོ་མཁན།"
+
+msgid "connect(): %s"
+msgstr ""
+
+msgid "dup2(): %s"
+msgstr ""
+
+msgid "execvp(): %s\n"
+msgstr ""
+
+msgid "fork() failed: %s"
+msgstr ""
+
+msgid "fork(): %s"
+msgstr ""
+
+msgid "fork(): %s\n"
+msgstr ""
+
+msgid "input"
+msgstr "ནང་འདྲེན།"
+
+msgid "invalid"
+msgstr "ནུས་མེད།"
+
+msgid "io_new() failed."
+msgstr ""
+
+msgid "module"
+msgstr "དཔེ་དུམ།"
+
+msgid "n/a"
+msgstr "སྤྱོད་རུང་མིན་པ།"
+
+msgid "new"
+msgstr ""
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "not "
+msgstr ""
+
+msgid "open(): %s"
+msgstr ""
+
+msgid "output"
+msgstr "ཕྱིར་འདོན།"
+
+msgid "pa_context_connect() failed: %s"
+msgstr ""
+
+msgid "pa_context_new() failed."
+msgstr ""
+
+msgid "pa_context_new() failed.\n"
+msgstr ""
+
+msgid "pa_context_rttime_new() failed."
+msgstr ""
+
+msgid "pa_core_new() failed."
+msgstr ""
+
+msgid "pa_mainloop_new() failed."
+msgstr ""
+
+msgid "pa_mainloop_new() failed.\n"
+msgstr ""
+
+msgid "pa_mainloop_run() failed."
+msgstr ""
+
+msgid "pa_mainloop_run() failed.\n"
+msgstr ""
+
+msgid "pa_pid_file_create() failed."
+msgstr ""
+
+msgid "pa_stream_begin_write() failed: %s"
+msgstr ""
+
+msgid "pa_stream_connect_playback() failed: %s"
+msgstr ""
+
+msgid "pa_stream_connect_record() failed: %s"
+msgstr ""
+
+msgid "pa_stream_drain(): %s"
+msgstr ""
+
+msgid "pa_stream_get_buffer_attr() failed: %s"
+msgstr ""
+
+msgid "pa_stream_new() failed: %s"
+msgstr ""
+
+msgid "pa_stream_peek() failed: %s"
+msgstr ""
+
+msgid "pa_stream_update_timing_info() failed: %s"
+msgstr ""
+
+msgid "pa_stream_write() failed: %s"
+msgstr ""
+
+msgid ""
+"pacat %s\n"
+"Compiled with libpulse %s\n"
+"Linked with libpulse %s\n"
+msgstr ""
+
+msgid ""
+"pacmd %s\n"
+"Compiled with libpulse %s\n"
+"Linked with libpulse %s\n"
+msgstr ""
+
+msgid ""
+"pactl %s\n"
+"Compiled with libpulse %s\n"
+"Linked with libpulse %s\n"
+msgstr ""
+
+msgid ""
+"pasuspender %s\n"
+"Compiled with libpulse %s\n"
+"Linked with libpulse %s\n"
+msgstr ""
+
+msgid "pipe() failed: %s"
+msgstr ""
+
+msgid "playback"
+msgstr ""
+
+msgid "poll(): %s"
+msgstr ""
+
+msgid "read() failed: %s"
+msgstr ""
+
+msgid "read(): %s"
+msgstr ""
+
+msgid "recording"
+msgstr ""
+
+msgid "remove"
+msgstr "འདོར་བ།"
+
+msgid "sample-cache"
+msgstr ""
+
+msgid "server"
+msgstr "ཞབས་ཞུ་ཆས།"
+
+msgid "setsid() failed: %s"
+msgstr ""
+
+msgid "sink"
+msgstr ""
+
+msgid "sink-input"
+msgstr ""
+
+msgid ""
+"sink_name=<name for the sink> sink_properties=<properties for the sink> "
+"master=<name of sink to filter> format=<sample format> rate=<sample rate> "
+"channels=<number of channels> channel_map=<channel map> "
+"use_volume_sharing=<yes or no> force_flat_volume=<yes or no> "
+"hrir=/path/to/left_hrir.wav "
+msgstr ""
+
+msgid ""
+"sink_name=<name for the sink> sink_properties=<properties for the sink> "
+"master=<name of sink to filter> format=<sample format> rate=<sample rate> "
+"channels=<number of channels> channel_map=<input channel map> plugin=<ladspa"
+" plugin name> label=<ladspa plugin label> control=<comma separated list of "
+"input control values> input_ladspaport_map=<comma separated list of input "
+"LADSPA port names> output_ladspaport_map=<comma separated list of output "
+"LADSPA port names> "
+msgstr ""
+
+msgid ""
+"sink_name=<name of the sink> sink_properties=<properties for the sink> "
+"sink_master=<sink to connect to> format=<sample format> rate=<sample rate> "
+"channels=<number of channels> channel_map=<channel map> autoloaded=<set if "
+"this module is being loaded automatically> use_volume_sharing=<yes or no> "
+msgstr ""
+
+msgid ""
+"snd_pcm_avail() returned a value that is exceptionally large: %lu bytes (%lu ms).\n"
+"Most likely this is a bug in the ALSA driver '%s'. Please report this issue to the ALSA developers."
+msgstr ""
+
+msgid ""
+"snd_pcm_avail_delay() returned strange values: delay %lu is less than avail %lu.\n"
+"Most likely this is a bug in the ALSA driver '%s'. Please report this issue to the ALSA developers."
+msgstr ""
+
+msgid ""
+"snd_pcm_delay() returned a value that is exceptionally large: %li bytes (%s%lu ms).\n"
+"Most likely this is a bug in the ALSA driver '%s'. Please report this issue to the ALSA developers."
+msgstr ""
+
+msgid ""
+"snd_pcm_mmap_begin() returned a value that is exceptionally large: %lu bytes (%lu ms).\n"
+"Most likely this is a bug in the ALSA driver '%s'. Please report this issue to the ALSA developers."
+msgstr ""
+
+msgid "socket(PF_UNIX, SOCK_STREAM, 0): %s"
+msgstr ""
+
+msgid "source"
+msgstr "ཁུངས།"
+
+msgid "source-output"
+msgstr ""
+
+msgid ""
+"source_name=<name for the source> source_properties=<properties for the "
+"source> source_master=<name of source to filter> sink_name=<name for the "
+"sink> sink_properties=<properties for the sink> sink_master=<name of sink to"
+" filter> adjust_time=<how often to readjust rates in s> "
+"adjust_threshold=<how much drift to readjust after in ms> format=<sample "
+"format> rate=<sample rate> channels=<number of channels> "
+"channel_map=<channel map> aec_method=<implementation to use> "
+"aec_args=<parameters for the AEC engine> save_aec=<save AEC data in /tmp> "
+"autoloaded=<set if this module is being loaded automatically> "
+"use_volume_sharing=<yes or no> "
+msgstr ""
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "waitpid(): %s"
+msgstr ""
+
+msgid "wants to record audio."
+msgstr ""
+
+msgid "write() failed: %s"
+msgstr ""
+
+msgid "write(): %s"
+msgstr ""
+
+msgid "xcb_connect() failed"
+msgstr ""
+
+msgid "xcb_connection_has_error() returned true"
+msgstr ""
+
+msgid "yes"
+msgstr "ཡིན།"

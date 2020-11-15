@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"After the distances are calculated (including the indicator penalty) then "
+"all values above this max are dropped. This means that the history for those"
+" entries aren't looked up as well."
+msgstr ""
+
+msgid "Date"
+msgstr "དུས་ཚོད།"
+
+msgid "Device"
+msgstr "སྒྲིག་ཆས།"
+
+msgid ""
+"In order to have the application's menu items appear higher in the search "
+"results a slight penalty is given to the indicator menu items. This value "
+"represents the percentage of that penalty so a value of '50' is a 50% "
+"additional to the calculated distance."
+msgstr ""
+
+msgid "Messages"
+msgstr "གློག་ཡིག"
+
+msgid "Penalty applied if a character is dropped"
+msgstr "ཆད་ལུས་བྱུང་བའི་ཡིག་རྟགས་ལ་འདོན་སྤྲོད་བྱས་པའི་ཁ་གསབ་ཐང་།"
+
+msgid "Penalty applied if a character is dropped from the end"
+msgstr ""
+"ཡིག་ཕྲེང་གི་མཇུག་ཏུ་ཡིག་རྟགས་ཆད་ལུས་བྱུང་རིགས་ལ་མཁོ་འདོན་བྱས་པའི་ཁ་གསབ་ཐང་།"
+
+msgid "Penalty applied when the characters are not the same"
+msgstr ""
+"བཤེར་འཚོལ་ཡིག་ཕྲེང་དང་འདེམས་བྱང་གི་ནང་དོན་མི་མཐུན་པའི་གནས་ཚུལ་ལ་མཁོ་འདོན་བྱས་པའི་ཁ་གསབ་ཐང་།"
+
+msgid "Penalty for extra characters added to the search"
+msgstr "ཡིག་རྟགས་ལྷག་མ་ལ་མཁོ་འདོན་་བྱས་པའི་ཁ་གསབ་གྲངས་ཐང།"
+
+msgid "Sound"
+msgstr "སྒྲ་ནུས།"
+
+msgid "The highest distance value that is shown in the results"
+msgstr "མཇུག་འབྲས་ཁྲོད་དུ་བར་ཐག་གི་ཆེས་ཆེ་བའི་གྲངས་ཐང་མངོན་པ།"
+
+msgid ""
+"The penalty for each character dropped from the search string, as compared with the text of a menu item. This only applies to missing characters that are not at the end of the search term.\n"
+"\n"
+"This penalty would be applied if the user typed \"fle\" when searching against the menu item \"File\", for example."
+msgstr ""
+
+msgid ""
+"The penalty for each extra character in the search string that does not appear in the text of a menu item.\n"
+"\n"
+"This penalty would be applied if the user typed \"fiile\" when searching against the menu item \"File\", for example."
+msgstr ""
+
+msgid ""
+"The penalty for each missing character at the end of a search term.\n"
+"\n"
+"This penalty would be applied if the user typed \"fil\" when searching against the menu item \"File\", for example."
+msgstr ""
+
+msgid ""
+"The penalty for each substituted character in the search term.\n"
+"\n"
+"The penalty would be applied if the user typed \"fike\" when searching against the menu item \"File\", for example."
+msgstr ""
+
+msgid "The penalty given to a menu item being in an indicator"
+msgstr ""
+"སྣེ་སྟོན་རྣམ་གྲངས་ཁྲོད་ཀྱི་འདེམས་བྱང་རྣམ་གྲངས་ལ་མཁོ་འདོན་བྱས་པའི་ཁ་གསབ་ཐང་།"
+
+msgid "Untitled Indicator (%s)"
+msgstr "མིང་བཏགས་མེད་པའི་སྟོན་ཆས།(%s)"
+
+msgid "Users"
+msgstr "སྤྱོད་མཁན་གྱི ID"
+
+msgid ""
+"When the HUD executes operations it stores the execution in order to make "
+"the future results better. Some users could choose to not want this data to "
+"be stored. If that is the case they should disable this property."
+msgstr ""
+
+msgid "Whether to store usage data"
+msgstr "བེད་སྤྱོད་ཟིན་ཐོའི་གཞི་གྲངས་ཉར་ཚགས་བྱེད་མིན།"

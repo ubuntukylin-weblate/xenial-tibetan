@@ -1,0 +1,2346 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "\t%s %s but %s is to be installed"
+msgstr ""
+
+msgid "\t%s %s but it is not installable"
+msgstr ""
+
+msgid "\t%s but it is a virtual package"
+msgstr ""
+
+msgid "\t%s but it is not going to be installed"
+msgstr ""
+
+msgid ""
+"\n"
+"%s have to be downloaded"
+msgstr ""
+
+msgid ""
+"\n"
+"Completely removed the following packages:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Downgraded the following packages:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Installed the following packages:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Not all changes and updates succeeded. For further details of the failure, please expand the 'Details' panel below."
+msgstr ""
+
+msgid ""
+"\n"
+"Package %s has no available version, but exists in the database.\n"
+"This typically means that the package was mentioned in a dependency and never uploaded, has been obsoleted or is not available with the contents of sources.list\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Reinstalled the following packages:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Removed the following ESSENTIAL packages:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Removed the following packages:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Successfully applied all changes. You can close the window now."
+msgstr ""
+
+msgid ""
+"\n"
+"Successfully installed all packages of the current medium. To continue the installation with the next medium close this window."
+msgstr ""
+
+msgid ""
+"\n"
+"Upgraded the following packages:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"While installing package %s:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"While preparing for installation:\n"
+"\n"
+msgstr ""
+
+msgid " "
+msgstr " "
+
+msgid "    "
+msgstr "NaN"
+
+msgid " %s: %s %s but %s is to be installed"
+msgstr ""
+
+msgid " or"
+msgstr ""
+
+msgid "%d new package will be installed\n"
+msgid_plural "%d new packages will be installed\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d new package will be re-installed\n"
+msgid_plural "%d new packages will be re-installed\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d package is locked\n"
+msgid_plural "%d packages are locked\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d package will be <b>downgraded</b>\n"
+msgid_plural "%d packages will be <b>downgraded</b>\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d package will be held back and not upgraded\n"
+msgid_plural "%d packages will be held back and not upgraded\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d package will be removed\n"
+msgid_plural "%d packages will be removed\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d package will be upgraded\n"
+msgid_plural "%d packages will be upgraded\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
+"remove"
+msgstr ""
+
+msgid ""
+"%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
+"remove; %s will be freed"
+msgstr ""
+
+msgid ""
+"%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
+"remove; %s will be used"
+msgstr ""
+
+msgid "%s (%s)"
+msgstr "%s(%s)"
+
+msgid "%s Changelog"
+msgstr ""
+
+msgid "%s Properties"
+msgstr "%s གཏོགས་གཤིས།"
+
+msgid "%s of extra space will be freed"
+msgstr ""
+
+msgid "%s of extra space will be used"
+msgstr ""
+
+msgid "%s: %s but it is a virtual package"
+msgstr ""
+
+msgid "%s: %s but it is not going to be installed"
+msgstr ""
+
+msgid "(no vendor)"
+msgstr ""
+
+msgid "--add-cdrom Add a cdrom at startup (needs path for cdrom)\n"
+msgstr ""
+
+msgid "--ask-cdrom Ask for adding a cdrom and exit\n"
+msgstr ""
+
+msgid "--dist-upgrade-mode  Call DistUpgrade and display changes\n"
+msgstr ""
+
+msgid "--non-interactive Never prompt for user input\n"
+msgstr ""
+
+msgid "--task-window Open with task window\n"
+msgstr ""
+
+msgid "--test-me-harder  Run test in a loop\n"
+msgstr ""
+
+msgid "--update-at-startup  Call \"Reload\" on startup\n"
+msgstr ""
+
+msgid "--upgrade-mode  Call Upgrade and display changes\n"
+msgstr ""
+
+msgid "-f=? Give an alternative filter file\n"
+msgstr ""
+
+msgid "-h   This help text\n"
+msgstr ""
+
+msgid "-i=? Start with the initial Filter with given name\n"
+msgstr ""
+
+msgid "-r   Open in the repository screen\n"
+msgstr ""
+
+msgid ""
+"-t   Give an alternative main window title (e.g. hostname with `uname -n`)\n"
+msgstr ""
+
+msgid "<b>%s</b> (<b>essential</b>) will be removed\n"
+msgstr ""
+
+msgid "<b>%s</b> (version <i>%s</i>) will be installed\n"
+msgstr ""
+
+msgid "<b>%s</b> (version <i>%s</i>) will be re-installed\n"
+msgstr ""
+
+msgid "<b>%s</b> (version <i>%s</i>) will be upgraded to version <i>%s</i>\n"
+msgstr ""
+
+msgid "<b>%s</b> will be <b>downgraded</b>\n"
+msgstr ""
+
+msgid "<b>%s</b> will be removed\n"
+msgstr ""
+
+msgid "<b>%s</b> will be removed with configuration\n"
+msgstr ""
+
+msgid "<b>(ESSENTIAL) to be removed</b>"
+msgstr ""
+
+msgid ""
+"<b><big>Mark upgrades in a smart way?</big></b>\n"
+"\n"
+"The default upgrade method skips upgrades that would introduce conflicts or require installation of additional packages.\n"
+"\n"
+"The smart upgrade (dist-upgrade) attempts to resolve conflicts and to fulfil all dependencies of upgrades in a smart way.\n"
+"\n"
+"<b>Note:</b> The upgrades will be marked only. You still have to apply them afterwards."
+msgstr ""
+
+msgid ""
+"<b><big>Quit and discard marked changes?</big></b>\n"
+"\n"
+"There are still marked changes that have not yet been applied. They will get lost if you choose to quit 'Synaptic'."
+msgstr ""
+
+msgid "<b>Appearance</b>"
+msgstr ""
+
+msgid "<b>Applying Changes</b>"
+msgstr ""
+
+msgid "<b>Colors</b>"
+msgstr ""
+
+msgid "<b>Columns</b>"
+msgstr ""
+
+msgid "<b>Current</b>"
+msgstr ""
+
+msgid "<b>Fonts</b>"
+msgstr "<b>ཡིག་གཟུགས།</b>"
+
+msgid "<b>History files</b>"
+msgstr ""
+
+msgid "<b>Installed Version</b>"
+msgstr ""
+
+msgid "<b>Latest Available Version</b>"
+msgstr ""
+
+msgid "<b>Maintainer:</b>"
+msgstr "<b> སྲུང་སྐྱོབ་བྱེད་མཁན།：</b>"
+
+msgid "<b>Marked</b>"
+msgstr ""
+
+msgid "<b>Marking Changes</b>"
+msgstr ""
+
+msgid ""
+"<b>Note:</b> Changes are not applied instantly. At first you have to mark "
+"all changes and then apply them."
+msgstr ""
+
+msgid ""
+"<b>Note:</b> To install a version that is different from the default one, "
+"choose <b>Package -> Force Version...</b> from the menu."
+msgstr ""
+
+msgid "<b>Other</b>"
+msgstr ""
+
+msgid "<b>Package upgrade behavior (default distribution)</b>"
+msgstr ""
+
+msgid "<b>Package:</b>"
+msgstr ""
+
+msgid "<b>Priority:</b>"
+msgstr "<b> སྔོན་ཐོབ་རིམ་པ།：</b>"
+
+msgid "<b>Proxy Server</b>"
+msgstr ""
+
+msgid "<b>Section:</b>"
+msgstr "<b> སོ་སོར་འབྱེད་པ།：</b>"
+
+msgid "<b>Status:</b>"
+msgstr ""
+
+msgid "<b>Summary</b>"
+msgstr ""
+
+msgid "<b>Tags:</b>"
+msgstr ""
+
+msgid "<b>Temporary Files</b>"
+msgstr ""
+
+msgid "<b>Terminal Output:</b>"
+msgstr ""
+
+msgid ""
+"<b>The following icons are used to indicate the current status of a "
+"package:</b>"
+msgstr ""
+
+msgid "<b>To be DOWNGRADED</b>"
+msgstr ""
+
+msgid "<b>To be completely removed (including configuration files)</b>"
+msgstr ""
+
+msgid "<b>To be removed</b>"
+msgstr ""
+
+msgid "<b>Warning:</b> %d essential package will be removed\n"
+msgid_plural "<b>Warning:</b> %d essential packages will be removed\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"<big><b>Could not download all necessary package files</b></big>\n"
+"\n"
+"The version of the package that you want to install might be no longer available in the repository, or there may be problems with the source of the package. Reload the package list and check the source of the package (e.g. CD or network connection)."
+msgstr ""
+
+msgid ""
+"<big><b>Could not download all repository indexes</b></big>\n"
+"\n"
+"The repository may no longer be available or could not be contacted because of network problems. If available an older version of the failed index will be used. Otherwise the repository will be ignored. Check your network connection and ensure the repository address in the preferences is correct."
+msgstr ""
+
+msgid ""
+"<big><b>Enter the complete APT line of the repository that you want to add</b></big>\n"
+"\n"
+"The APT line contains the type, location and content of a repository, for example <i>\"deb http://ftp.debian.org sarge main\"</i>. You can find a detailed description of the syntax in the documentation."
+msgstr ""
+
+msgid "<i>Can't close while running</i>"
+msgstr ""
+
+msgid "<i>Finished</i>"
+msgstr ""
+
+msgid "<i>Preparing packages...</i>"
+msgstr ""
+
+msgid "<i>Running...</i>"
+msgstr ""
+
+msgid "<span size=\"large\" weight=\"bold\">Set an internal option</span>"
+msgstr ""
+
+msgid ""
+"<span size=\"large\" weight=\"bold\">These settings affect the core of your "
+"system. Consider any changes carefully.</span>"
+msgstr ""
+
+msgid ""
+"<span size=\"large\" weight=\"bold\">Which tasks should be performed by your computer?</span>\n"
+"\n"
+"These are preselected groups of packages to perform each task. If you select a task, the corresponding packages will be marked for installation."
+msgstr ""
+
+msgid "<span size=\"xx-large\" weight=\"bold\">Synaptic version</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"large\">Apply the following changes?</span>"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Could not mark all packages for installation or upgrade</span>\n"
+"\n"
+"The following packages have unresolvable dependencies. Make sure that all required repositories are added and enabled in the preferences."
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Enter a label for this CD-Rom</span>\n"
+"\n"
+"The label will be used if you want to install packages from this CD-Rom. It is recommended to also write the label on the CD-Rom to easily find it again.\n"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Enter the label of the CD-ROM</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Mark additional required changes?</span>"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Your package information is out of date</span>\n"
+"\n"
+"Your package information is older than 48 hours. There could be important security updates available. It is recommended to reload the package information regularly."
+msgstr ""
+
+msgid "A package failed to install.  Trying to recover:"
+msgstr ""
+
+msgid "AND"
+msgstr "དང་"
+
+msgid "APT line:"
+msgstr "APECཕྲེང་།"
+
+msgid ""
+"APT system reports:\n"
+"%s"
+msgstr ""
+
+msgid "A_pplication Font"
+msgstr ""
+
+msgid "A_pply Marked Changes"
+msgstr ""
+
+msgid "About Synaptic"
+msgstr ""
+
+msgid "Add"
+msgstr "གསར་བཟོ།"
+
+msgid "Add downloaded packages"
+msgstr ""
+
+msgid ""
+"Add packages downloaded with the \"Generate package download script\" "
+"feature to the system"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Alphabetic"
+msgstr ""
+
+msgid "Always Ask"
+msgstr ""
+
+msgid "Always prefer the highest version"
+msgstr ""
+
+msgid "Always prefer the installed version"
+msgstr ""
+
+msgid "Amateur Radio"
+msgstr ""
+
+msgid "An error occurred"
+msgstr "ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "An error occurred while saving configurations."
+msgstr ""
+
+msgid "Another synaptic is running"
+msgstr ""
+
+msgid "Apply"
+msgstr "ཉེར་སྤྱོད།"
+
+msgid "Apply all marked changes"
+msgstr ""
+
+msgid "Apply changes in a terminal window"
+msgstr ""
+
+msgid "Applying Changes"
+msgstr ""
+
+msgid "Applying marked changes. This may take a while..."
+msgstr ""
+
+msgid "Ask to confirm changes that also affect other packages"
+msgstr ""
+
+msgid "Ask to quit after the changes have been applied successfully"
+msgstr ""
+
+msgid "Authentication"
+msgstr "ཐོབ་ཐང་ཞིབ་བཤེར།"
+
+msgid "Authentication is required to run the Synaptic Package Manager"
+msgstr ""
+
+msgid "Automatic install"
+msgstr ""
+
+msgid "Automatic removable"
+msgstr ""
+
+msgid "Automatically"
+msgstr "རང་འགུལ།"
+
+msgid "Automatically close after the changes have been successfully applied"
+msgstr "བཀོལ་སྤྱོད་བཟོ་བཅོས་ལེགས་འགྲུབ་ཟིན་རྗེས་རང་འགུག་ངང་ཁ་རྒྱག་པ།"
+
+msgid "Automatically installed"
+msgstr ""
+
+msgid "Available versions:"
+msgstr ""
+
+msgid "Bad regular expression '%s' in ReducedView file."
+msgstr ""
+
+msgid "Base System"
+msgstr ""
+
+msgid "Binary (deb)"
+msgstr ""
+
+msgid "Boolean operator between property criterias:"
+msgstr ""
+
+msgid "Breaks"
+msgstr ""
+
+msgid "Broken"
+msgstr "སྐྱོན་ཡོད།"
+
+msgid "Broken dependencies"
+msgstr "སྐྱོན་ཤོར་བརྟེན་བྱའི་འབྲེལ་བ།"
+
+msgid "Broken:"
+msgstr ""
+
+msgid "Can't read %s"
+msgstr ""
+
+msgid "Can't write %s"
+msgstr ""
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Cannot find filename or size tag"
+msgstr ""
+
+msgid "Cannot read vendors.list file"
+msgstr ""
+
+msgid ""
+"Cannot start configuration tool!\n"
+"You have to install the required package 'libgnome2-perl'."
+msgstr ""
+
+msgid "Changes applied"
+msgstr ""
+
+msgid "Choose font"
+msgstr ""
+
+msgid "Choose the action from the context menu of the package."
+msgstr ""
+
+msgid "Cleaning package lists..."
+msgstr ""
+
+msgid "Click on the status icon to open a menu that contains all actions."
+msgstr ""
+
+msgid "Clicking on the status icon marks the most likely action"
+msgstr ""
+
+msgid "Close this dialog after the changes have been successfully applied"
+msgstr ""
+
+msgid "Color"
+msgstr "ཁ་མདོག"
+
+msgid "Color packages by their status"
+msgstr ""
+
+msgid "Color selection"
+msgstr "ཁ་དོག་གདམ་གསེས།"
+
+msgid "Colors"
+msgstr "ཁ་དོག"
+
+msgid "Columns and Fonts"
+msgstr ""
+
+msgid ""
+"Comma separated list of hosts and domains that will not be contacted through"
+" the proxy (e.g. localhost, 192.168.1.231, .net)"
+msgstr ""
+
+msgid "Common"
+msgstr "ཀུན་སྤྱོད།"
+
+msgid "Communication"
+msgstr ""
+
+msgid "Community Maintained (installed)"
+msgstr ""
+
+msgid "Complete changelog of the latest version:"
+msgstr ""
+
+msgid "Completely"
+msgstr ""
+
+msgid "Component"
+msgstr ""
+
+msgid "Conflicting packages"
+msgstr ""
+
+msgid "Conflicts"
+msgstr ""
+
+msgid "Consider recommended packages as dependencies"
+msgstr ""
+
+msgid "Converted From RPM by Alien"
+msgstr ""
+
+msgid "Copy"
+msgstr "འདྲ་བཟོ།"
+
+msgid "Copying package lists..."
+msgstr ""
+
+msgid ""
+"Could not apply changes!\n"
+"Fix broken packages first."
+msgstr ""
+
+msgid ""
+"Could not upgrade the system!\n"
+"Fix broken packages first."
+msgstr ""
+
+msgid "Couldn't identify disc."
+msgstr ""
+
+msgid "Credits"
+msgstr "དམིགས་སུ་ཐུགས་རྗེ་ཆེ་ཞུ་རྒྱུ།"
+
+msgid "Cross Platform"
+msgstr ""
+
+msgid "Ctrl-c pressed"
+msgstr ""
+
+msgid "Currently in broken policy state"
+msgstr ""
+
+msgid "Custom"
+msgstr "མཚན་ཉིད་རང་བཞག"
+
+msgid "Databases"
+msgstr "གཞི་གྲངས་ཀྱི་མཛོད།"
+
+msgid "Debtag support is enabled."
+msgstr ""
+
+msgid "Debug"
+msgstr "ཚོད་སྒྲིག"
+
+msgid "Default Upgrade"
+msgstr ""
+
+msgid "Delete _History files older than:"
+msgstr ""
+
+msgid "Delete all cache package files now."
+msgstr ""
+
+msgid "Dependants"
+msgstr ""
+
+msgid "Dependencies"
+msgstr ""
+
+msgid "Dependencies of the Latest Version"
+msgstr ""
+
+msgid "Dependency of"
+msgstr ""
+
+msgid "Dependent packages"
+msgstr ""
+
+msgid "Depends"
+msgstr "རགས་ལས་པ།"
+
+msgid "Description"
+msgstr "ཞིབ་བརྗོད།"
+
+msgid "Description %s"
+msgstr ""
+
+msgid "Description and Name"
+msgstr ""
+
+msgid "Details"
+msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+
+msgid "Development"
+msgstr "གསར་སྤེལ།"
+
+msgid "Difference between the files"
+msgstr ""
+
+msgid "Direct connection to the Internet"
+msgstr ""
+
+msgid "Disc Label"
+msgstr ""
+
+msgid "Disc label:"
+msgstr ""
+
+msgid "Disc not successfully scanned."
+msgstr ""
+
+msgid "Distribution"
+msgstr "འགྲེམས་སྤེལ་པར་གཞི།"
+
+msgid "Distribution:"
+msgstr ""
+
+msgid "Do you want to add another CD-ROM?"
+msgstr ""
+
+msgid "Do you want to continue, ignoring these packages?"
+msgstr ""
+
+msgid "Do you want to quit Synaptic?"
+msgstr ""
+
+msgid "Documentation"
+msgstr "ཡིག་ཚགས།"
+
+msgid "Documented by"
+msgstr ""
+
+msgid "Done"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Done!"
+msgstr "ལེགས་སྒྲུབ་བྱུང་བ། "
+
+msgid "Double click on the package name."
+msgstr ""
+
+msgid "Download"
+msgstr "ཕབ་ལེན།"
+
+msgid "Download Size"
+msgstr ""
+
+msgid "Download rate: %s/s - %s remaining"
+msgstr ""
+
+msgid "Download rate: ..."
+msgstr ""
+
+msgid "Download:"
+msgstr ""
+
+msgid "Downloading Changelog"
+msgstr "བསྒྱུར་བཅོས་ཉིན་ཐོ་ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Downloading Package Files"
+msgstr ""
+
+msgid "Downloading Package Information"
+msgstr ""
+
+msgid "Downloading file %li of %li"
+msgstr ""
+
+msgid "ERROR: Could not get password entry for superuser"
+msgstr ""
+
+msgid "ERROR: could not create configuration directory %s"
+msgstr ""
+
+msgid "ERROR: could not create log directory %s"
+msgstr ""
+
+msgid "ERROR: could not create state directory %s"
+msgstr ""
+
+msgid "ERROR: could not create tmp directory %s"
+msgstr ""
+
+msgid "ERROR: couldn't open %s for writing"
+msgstr ""
+
+msgid "Editors"
+msgstr "རྩོམ་སྒྲིག་ཆས།"
+
+msgid "Electronics"
+msgstr ""
+
+msgid "Email"
+msgstr "གློག་ཡིག"
+
+msgid "Embedded Devices"
+msgstr ""
+
+msgid "Empty disc name."
+msgstr ""
+
+msgid "Enabled"
+msgstr "སྤྱད་པ།"
+
+msgid "Enhances"
+msgstr "ཤུགས་ཆེ་རུ་གཏོང་བ།"
+
+msgid "Error failed to fork pty"
+msgstr ""
+
+msgid "Error in package %s"
+msgstr ""
+
+msgid "Error parsing file record"
+msgstr ""
+
+msgid ""
+"Essential packages will be removed.\n"
+"This may render your system unusable!\n"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Exclude selected sections"
+msgstr ""
+
+msgid "Excludes"
+msgstr ""
+
+msgid ""
+"Expression was found, please see the list on the left for matching entries."
+msgstr ""
+
+msgid "Extra output was generated during Package Manager operation"
+msgstr ""
+
+msgid "FTP proxy: "
+msgstr ""
+
+msgid "Failed"
+msgstr "ཕམ་པ།"
+
+msgid ""
+"Failed to fetch %s\n"
+"  %s\n"
+"\n"
+msgstr ""
+
+msgid "Failed to mark all available upgrades!"
+msgstr ""
+
+msgid "Failed to mount the cdrom."
+msgstr ""
+
+msgid "Failed to open %s.new"
+msgstr ""
+
+msgid "Failed to rename"
+msgstr ""
+
+msgid "Failed to rename %s.new to %s"
+msgstr ""
+
+msgid "Failed to reopen fd"
+msgstr ""
+
+msgid "Failed to resolve dependency problems!"
+msgstr ""
+
+msgid "Failed to stat %s%s"
+msgstr ""
+
+msgid "Field"
+msgstr "ཁོངས།"
+
+msgid "File"
+msgstr "ཡིག་ཆ།"
+
+msgid "Files"
+msgstr "ཡིག་ཆ།"
+
+msgid "Filters"
+msgstr "ཡིག་ཆ།"
+
+msgid "Find"
+msgstr "འཚོལ་བ།"
+
+msgid "FingerPrint"
+msgstr "མཛུབ་རིས།"
+
+msgid "Fonts"
+msgstr "ཡིག་གཟུགས།"
+
+msgid "For installation or upgrade"
+msgstr ""
+
+msgid "For removal"
+msgstr ""
+
+msgid "Force version:"
+msgstr ""
+
+msgid "Found %i packages"
+msgstr ""
+
+msgid "GNOME Desktop Environment"
+msgstr "GNOME ཅོག་ངོས་ཁོར་ཡུག"
+
+msgid "GNU R statistical system"
+msgstr ""
+
+msgid "Games and Amusement"
+msgstr "རྩེད་འཇོ་དང་རོལ་རྩེད།"
+
+msgid "General"
+msgstr "རྒྱུན་སྲོལ།"
+
+msgid ""
+"Generate a shell script so that you can download the selected packages on a "
+"different computer"
+msgstr ""
+
+msgid "Generate package download script"
+msgstr ""
+
+msgid "Get Changelog"
+msgstr ""
+
+msgid "Get Screenshot"
+msgstr ""
+
+msgid "Gnustep Desktop Environment"
+msgstr ""
+
+msgid "Graphics"
+msgstr "རིས་དབྱིབས།"
+
+msgid "HTTP authentication"
+msgstr ""
+
+msgid "HTTP proxy: "
+msgstr ""
+
+msgid "Haskell Programming Language"
+msgstr ""
+
+msgid "History"
+msgstr "ལོ་རྒྱུས།"
+
+msgid "History of installed, upgraded and removed software packages."
+msgstr ""
+
+msgid "Hit"
+msgstr ""
+
+msgid "Hold Current Version"
+msgstr ""
+
+msgid "IP address or host name of the ftp proxy server"
+msgstr ""
+
+msgid "IP address or host name of the http proxy server"
+msgstr ""
+
+msgid "Icon Legend"
+msgstr "རིས་རྟགས་གསལ་བཤད།"
+
+msgid "Icon _Legend"
+msgstr ""
+
+msgid "Identifying disc..."
+msgstr ""
+
+msgid "Ignore"
+msgstr "སྣང་མེད།"
+
+msgid "Ignoring invalid record(s) in sources.list file!"
+msgstr ""
+
+msgid "Include"
+msgstr "ཚུད་པ།"
+
+msgid "Include selected sections only"
+msgstr ""
+
+msgid "Includes"
+msgstr ""
+
+msgid "Insert a disc in the drive."
+msgstr ""
+
+msgid "Install, remove and upgrade software packages"
+msgstr ""
+
+msgid "Installed"
+msgstr "སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Installed (auto removable)"
+msgstr ""
+
+msgid "Installed (local or obsolete)"
+msgstr ""
+
+msgid "Installed (locked to the current version)"
+msgstr ""
+
+msgid "Installed (locked):"
+msgstr ""
+
+msgid "Installed (manual)"
+msgstr ""
+
+msgid "Installed (unsupported)"
+msgstr ""
+
+msgid "Installed (upgradable)"
+msgstr ""
+
+msgid "Installed Files"
+msgstr ""
+
+msgid "Installed Version"
+msgstr ""
+
+msgid "Installed packages that are up-to-date"
+msgstr ""
+
+msgid "Installed packages that are upgradable"
+msgstr ""
+
+msgid "Installed packages that are upgradable to a later upstream version"
+msgstr ""
+
+msgid "Installed:"
+msgstr ""
+
+msgid "Installing and removing software"
+msgstr ""
+
+msgid "Installing software"
+msgstr ""
+
+msgid "Internal Error, AllUpgrade broke stuff. Please report."
+msgstr ""
+
+msgid "Internal Error, non-zero counts"
+msgstr ""
+
+msgid "Internal error"
+msgstr "ནང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+
+msgid "Internal error opening cache (%d). Please report."
+msgstr ""
+
+msgid "Internationalization and localization"
+msgstr ""
+
+msgid "Interpreted Computer Languages"
+msgstr ""
+
+msgid "Invalid disc name!"
+msgstr ""
+
+msgid "Invalid record in the preferences file, no Package header"
+msgstr ""
+
+msgid "Java Programming Language"
+msgstr ""
+
+msgid "KDE Desktop Environment"
+msgstr ""
+
+msgid "Keep Configuration"
+msgstr ""
+
+msgid "Kernel and modules"
+msgstr ""
+
+msgid "Label:"
+msgstr "གདོང་འཛར།"
+
+msgid "Latest Version"
+msgstr ""
+
+msgid ""
+"Let synaptic pick the best version for you. If unsure use this option. "
+msgstr ""
+
+msgid "Libraries"
+msgstr "མཛོད།"
+
+msgid "Libraries - Development"
+msgstr ""
+
+msgid "Libraries - Old"
+msgstr ""
+
+msgid "Library packages that are no longer needed (deborphan is required)"
+msgstr ""
+
+msgid "Line %u too long in markings file."
+msgstr ""
+
+msgid "Lisp Programming Language"
+msgstr ""
+
+msgid "Local"
+msgstr "འཕྲུལ་ཆས་འདི།"
+
+msgid "Localization"
+msgstr ""
+
+msgid "Look in:"
+msgstr "འཚོལ་བཤེར།："
+
+msgid "Maintainer"
+msgstr ""
+
+msgid "Malformed line %u in markings file"
+msgstr ""
+
+msgid ""
+"Man page:\n"
+"Wybo Dekker <wybo@servalys.nl>\n"
+"Michael Vogt <mvo@debian.org>\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>\n"
+"\n"
+"Manual:\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>"
+msgstr ""
+
+msgid "Manual installed"
+msgstr ""
+
+msgid "Manual proxy configuration"
+msgstr ""
+
+msgid "Mark All Upgrades"
+msgstr ""
+
+msgid "Mark Packages by _Task..."
+msgstr ""
+
+msgid "Mark Recommended for Installation"
+msgstr ""
+
+msgid "Mark Suggested for Installation"
+msgstr ""
+
+msgid "Mark all possible upgrades"
+msgstr ""
+
+msgid "Mark for Co_mplete Removal"
+msgstr ""
+
+msgid "Mark for Complete Removal"
+msgstr ""
+
+msgid "Mark for Installation"
+msgstr ""
+
+msgid "Mark for R_einstallation"
+msgstr ""
+
+msgid "Mark for Reinstallation"
+msgstr ""
+
+msgid "Mark for Removal"
+msgstr ""
+
+msgid "Mark for Upgrade"
+msgstr ""
+
+msgid "Mark for _Installation"
+msgstr ""
+
+msgid "Mark for _Removal"
+msgstr ""
+
+msgid "Mark for _Upgrade"
+msgstr ""
+
+msgid "Marked Changes"
+msgstr ""
+
+msgid "Marked for complete removal"
+msgstr ""
+
+msgid "Marked for complete removal:"
+msgstr ""
+
+msgid "Marked for downgrade"
+msgstr ""
+
+msgid "Marked for downgrade:"
+msgstr ""
+
+msgid "Marked for installation"
+msgstr ""
+
+msgid "Marked for installation:"
+msgstr ""
+
+msgid "Marked for re-installation"
+msgstr ""
+
+msgid "Marked for reinstallation:"
+msgstr ""
+
+msgid "Marked for removal"
+msgstr ""
+
+msgid "Marked for removal:"
+msgstr ""
+
+msgid "Marked for upgrade"
+msgstr ""
+
+msgid "Marked for upgrade:"
+msgstr ""
+
+msgid "Marking all available upgrades..."
+msgstr ""
+
+msgid "Mathematics"
+msgstr "གྲངས་རིག་པ།"
+
+msgid "Meta Packages"
+msgstr ""
+
+msgid "Miscellaneous  - Graphical"
+msgstr ""
+
+msgid "Miscellaneous - Text Based"
+msgstr ""
+
+msgid "Missing Recommends"
+msgstr ""
+
+msgid "Mono/CLI Infrastructure"
+msgstr ""
+
+msgid "Mounting CD-ROM..."
+msgstr ""
+
+msgid "Move D_own"
+msgstr ""
+
+msgid "Move _Up"
+msgstr "གོང་སྣུར།(_U)"
+
+msgid "Multimedia"
+msgstr "སྨྱན་མང་གཟུགས།"
+
+msgid "N/A"
+msgstr "མི་འཚམ།"
+
+msgid "NOT AUTHENTICATED"
+msgstr ""
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Network"
+msgstr "དྲ་བ།"
+
+msgid "Networking"
+msgstr "དྲ་བ།"
+
+msgid "Never show this message again"
+msgstr ""
+
+msgid ""
+"Never upgrade to a new version automatically. Be _very_ careful with this "
+"option as you will not get security updates automatically! If you manually "
+"force a version the package version will follow the chosen distribution."
+msgstr ""
+
+msgid "New Filter %i"
+msgstr ""
+
+msgid "New in repository"
+msgstr ""
+
+msgid "New in repository:"
+msgstr ""
+
+msgid "Newsgroup"
+msgstr ""
+
+msgid "No package is selected.\n"
+msgstr ""
+
+msgid "No proxy for: "
+msgstr ""
+
+msgid "No valid records were found."
+msgstr ""
+
+msgid "Not found"
+msgstr "རྙེད་མ་བྱུང་།"
+
+msgid "Not installable"
+msgstr ""
+
+msgid "Not installed"
+msgstr "སྒྲིག་འཇུག་མེད།"
+
+msgid "Not installed (locked)"
+msgstr ""
+
+msgid "Not installed (locked):"
+msgstr ""
+
+msgid "Not installed (new in repository)"
+msgstr ""
+
+msgid "Not installed (residual config)"
+msgstr ""
+
+msgid "Not installed (unsupported)"
+msgstr ""
+
+msgid "Not installed packages"
+msgstr ""
+
+msgid "Not installed:"
+msgstr ""
+
+msgid "Not marked"
+msgstr ""
+
+msgid "Number of undo operations:"
+msgstr ""
+
+msgid "OCaml Programming Language"
+msgstr ""
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "OR"
+msgstr "ཡང་ན་"
+
+msgid "Obsoletes"
+msgstr "བེད་མེད་དུ་གཏོང་བ།"
+
+msgid "Only experts should use this."
+msgstr ""
+
+msgid "Open changes"
+msgstr ""
+
+msgid "Operator"
+msgstr ""
+
+msgid "Origin"
+msgstr "མ་ཚེག"
+
+msgid ""
+"Original author:\n"
+"Alfredo K. Kojima <kojima@windowmaker.org>\n"
+"\n"
+"Maintainers:\n"
+"Michael Vogt <mvo@debian.org>\n"
+"Gustavo Niemeyer <niemeyer@conectiva.com>\n"
+"Sebastian Heinlein <sebastian.heinlein@web.de>\n"
+"\n"
+"Contributors:\n"
+"Enrico Zini <enrico@debian.org>\n"
+"Panu Matilainen <pmatilai@welho.com>\n"
+"Sviatoslav Sviridov <svd@lintec.minsk.by>"
+msgstr ""
+
+msgid "Orphaned"
+msgstr ""
+
+msgid "PHP Programming Language"
+msgstr ""
+
+msgid "Package"
+msgstr "མཉེན་ཆས་ཐུམ་བུ།"
+
+msgid "Package Manager"
+msgstr ""
+
+msgid "Package Manager output"
+msgstr ""
+
+msgid "Package Name"
+msgstr ""
+
+msgid "Package changes"
+msgstr ""
+
+msgid "Package is supported"
+msgstr ""
+
+msgid "Package management software using apt."
+msgstr ""
+
+msgid "Package name"
+msgstr ""
+
+msgid "Package with Debconf"
+msgstr ""
+
+msgid "Packages that are new in the repository since that last \"Reload\""
+msgstr ""
+
+msgid "Packages that are not available in any repository"
+msgstr ""
+
+msgid "Packages that will be installed or upgraded"
+msgstr ""
+
+msgid "Packages that will be removed"
+msgstr ""
+
+msgid "Packages that will never be upgraded"
+msgstr ""
+
+msgid "Packages that won't be changed"
+msgstr ""
+
+msgid "Packages with broken dependencies"
+msgstr ""
+
+msgid "Password"
+msgstr "གསང་ཨང་།"
+
+msgid "Pattern"
+msgstr ""
+
+msgid "Perl Programming Language"
+msgstr ""
+
+msgid "Pinned"
+msgstr ""
+
+msgid "Please insert a disc in the drive."
+msgstr ""
+
+msgid ""
+"Please insert the disk labeled:\n"
+"%s\n"
+"in drive %s"
+msgstr ""
+
+msgid "Please select a directory"
+msgstr ""
+
+msgid "Policy broken"
+msgstr ""
+
+msgid "Port number of the ftp proxy server"
+msgstr ""
+
+msgid "Port number of the http proxy server"
+msgstr ""
+
+msgid "Port: "
+msgstr ""
+
+msgid "PreDepends"
+msgstr "སྔོན་རྟེན་སར།"
+
+msgid ""
+"Prefer package versions from the selected distribution when upgrading "
+"packages. If you manually force a version from a different distribution, the"
+" package version will follow that distribution until it enters the default "
+"distribution."
+msgstr ""
+
+msgid "Prefer versions from: "
+msgstr ""
+
+msgid "Preferences"
+msgstr "གཏོགས་གཤིས།"
+
+msgid "Preparing..."
+msgstr "སྟ་གོན་བྱེད་བཞིན་པ།..."
+
+msgid "Priority"
+msgstr "སྔོན་ཐོབ་རིམ་པ།"
+
+msgid "Properties"
+msgstr "གཏོགས་གཤིས།"
+
+msgid "Provided Packages"
+msgstr ""
+
+msgid "Provided packages"
+msgstr ""
+
+msgid "Provides"
+msgstr "མཁོ་འདོན།"
+
+msgid "Python Programming Language"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Quick Introduction"
+msgstr ""
+
+msgid "Quick filter"
+msgstr ""
+
+msgid "Rebuilding search index"
+msgstr ""
+
+msgid "Recommendations"
+msgstr "འོས་སྦྱོར།"
+
+msgid "Recommends"
+msgstr "འོས་སྦྱོར།"
+
+msgid "Reduced View"
+msgstr ""
+
+msgid "ReducedView"
+msgstr ""
+
+msgid "Registering disc..."
+msgstr ""
+
+msgid ""
+"Release files for some repositories could not be retrieved or authenticated."
+" Such repositories are being ignored."
+msgstr ""
+
+msgid "Reload"
+msgstr "བསྐྱར་འཇུག"
+
+msgid ""
+"Reload the package information to become informed about new, removed or "
+"upgraded software packages."
+msgstr ""
+
+msgid "Reloading outdated package information:"
+msgstr ""
+
+msgid "Reloading package information..."
+msgstr ""
+
+msgid "Remember my answer for future upgrades"
+msgstr ""
+
+msgid "Remember the answer"
+msgstr ""
+
+msgid "Removal of packages:"
+msgstr ""
+
+msgid "Remove"
+msgstr "སྤོ་བ།"
+
+msgid "Remove Including Orphaned Dependencies"
+msgstr ""
+
+msgid "Removed packages that have left configuration files on the system"
+msgstr ""
+
+msgid "Removing software"
+msgstr ""
+
+msgid ""
+"Replace configuration file\n"
+"'%s'?"
+msgstr ""
+
+msgid "Replaced packages"
+msgstr ""
+
+msgid "Replaces"
+msgstr ""
+
+msgid "Repositories"
+msgstr ""
+
+msgid "Repositories changed"
+msgstr ""
+
+msgid "Residual config"
+msgstr ""
+
+msgid "Restricted On Export"
+msgstr ""
+
+msgid "Return to the main screen"
+msgstr ""
+
+msgid "ReverseDepends"
+msgstr ""
+
+msgid "Ruby Programming Language"
+msgstr ""
+
+msgid "S"
+msgstr "རྣམ་པ།"
+
+msgid "S_earch Results"
+msgstr ""
+
+msgid "S_tatus"
+msgstr ""
+
+msgid "Save Markings _As..."
+msgstr ""
+
+msgid "Save changes"
+msgstr "བཟོ་བཅོས་ཉར་བ།"
+
+msgid "Save full state, not only changes"
+msgstr ""
+
+msgid "Save script"
+msgstr ""
+
+msgid "Scanning CD-ROM"
+msgstr "འོད་སྐུལ་བཤར་འབེབས་བྱེད་བཞིན་པ།"
+
+msgid "Scanning disc..."
+msgstr ""
+
+msgid "Science"
+msgstr "ཚན་རིག"
+
+msgid "Search"
+msgstr "འཚོལ་བ།"
+
+msgid "Search Filter"
+msgstr ""
+
+msgid "Search History"
+msgstr "བཤེར་འཚོལ་ལོ་རྒྱུས།"
+
+msgid "Search for packages"
+msgstr ""
+
+msgid "Search:"
+msgstr "འཚོལ་བཤེར།："
+
+msgid "Searching"
+msgstr "འཚོལ་བཤེར་པ།"
+
+msgid "Section"
+msgstr "ཆ་ཤས།"
+
+msgid "Section(s)"
+msgstr ""
+
+msgid "Section(s):"
+msgstr ""
+
+msgid "Sections"
+msgstr ""
+
+msgid "Select All"
+msgstr "ཚང་མ་འདེམས།"
+
+msgid "Select directory"
+msgstr ""
+
+msgid "Select the package and choose the action from the 'Package' menu."
+msgstr ""
+
+msgid "Select the version of %s that should be forced for installation"
+msgstr ""
+
+msgid "Setting markings..."
+msgstr ""
+
+msgid "Setup Vendors"
+msgstr ""
+
+msgid "Shells"
+msgstr ""
+
+msgid "Show package properties in the main window"
+msgstr ""
+
+msgid "Show this dialog at startup"
+msgstr ""
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Size:"
+msgstr "ཆེ་ཆུང་།："
+
+msgid "Smart Upgrade"
+msgstr ""
+
+msgid "Some of the packages could not be retrieved from the server(s).\n"
+msgstr ""
+
+msgid "Source (deb-src)"
+msgstr ""
+
+msgid "Starting help viewer..."
+msgstr ""
+
+msgid "Starting package configuration tool..."
+msgstr ""
+
+msgid "Starting package documentation viewer..."
+msgstr ""
+
+msgid "Stat failed for %s"
+msgstr ""
+
+msgid "Status"
+msgstr "རྣམ་པ།"
+
+msgid "Successfully fixed dependency problems"
+msgstr ""
+
+msgid "Successfully marked available upgrades"
+msgstr ""
+
+msgid "Suggestions"
+msgstr "གྲོས་འདོན།"
+
+msgid "Suggests"
+msgstr "གྲོས་འདོན།"
+
+msgid "Summary"
+msgstr "གནད་བསྡུས།"
+
+msgid "Supported"
+msgstr ""
+
+msgid "Synaptic"
+msgstr ""
+
+msgid "Synaptic Package Manager"
+msgstr ""
+
+msgid "Synaptic Package Manager "
+msgstr ""
+
+msgid "Syntax error in line %s"
+msgstr ""
+
+msgid "System Administration"
+msgstr "རྒྱུད་ཁོངས་དོ་དམ།"
+
+msgid "System upgrade:"
+msgstr ""
+
+msgid "Tags"
+msgstr "གདོང་འཛར།"
+
+msgid "Tasks"
+msgstr ""
+
+msgid "TeX Authoring"
+msgstr ""
+
+msgid "Text Be_side Icons"
+msgstr ""
+
+msgid "Text _Below Icons"
+msgstr ""
+
+msgid ""
+"The changelog contains information about the changes and closed bugs in each"
+" version of the package."
+msgstr ""
+
+msgid ""
+"The chosen action also affects other packages. The following changes are "
+"required in order to proceed."
+msgstr ""
+
+msgid ""
+"The configuration file %s was modified (by you or by a script). An updated "
+"version is shipped in this package. If you want to keep your current version"
+" say 'Keep'. Do you want to replace the current file and install the new "
+"package maintainers version? "
+msgstr ""
+
+msgid "The following details are provided:"
+msgstr ""
+
+msgid ""
+"The label will be used to identify the CD-ROM if you want to install "
+"packages from it later."
+msgstr ""
+
+msgid "The list of installed files is only available for installed packages"
+msgstr ""
+
+msgid ""
+"The list of sources could not be read.\n"
+"Go to the repository dialog to correct the problem."
+msgstr ""
+
+msgid ""
+"The marked changes are now being applied. This can take some time. Please "
+"wait."
+msgstr ""
+
+msgid "The package files will be downloaded, but not installed"
+msgstr ""
+
+msgid "The package lists or status file could not be parsed or opened."
+msgstr ""
+
+msgid ""
+"The package manager always selects the most applicable version available. If"
+" you force a different version from the default one, errors in the "
+"dependency handling can occur."
+msgstr ""
+
+msgid ""
+"The repositories will be checked for new, removed or upgraded software "
+"packages."
+msgstr ""
+
+msgid ""
+"The repository information has changed. You have to click on the \"Reload\" "
+"button for your changes to take effect"
+msgstr ""
+
+msgid ""
+"The software on your system is organized in so called <i>packages</i>. The "
+"package manager enables you to install, to upgrade or to remove software "
+"packages."
+msgstr ""
+
+msgid ""
+"There is another synaptic running in interactive mode. Please close it "
+"first. "
+msgstr ""
+
+msgid ""
+"There is another synaptic running in non-interactive mode. Please wait for "
+"it to finish first."
+msgstr ""
+
+msgid "This application is supported by the distribution"
+msgstr ""
+
+msgid "This behavior can be changed in the preferences later."
+msgstr ""
+
+msgid ""
+"This is your last opportunity to look through the list of marked changes "
+"before they are applied."
+msgstr ""
+
+msgid ""
+"This software is licensed under the terms of the GNU General Public License,"
+" Version 2"
+msgstr ""
+
+msgid ""
+"This usually means that another package management application (like apt-get"
+" or aptitude) is already running. Please close that application first."
+msgstr ""
+
+msgid ""
+"This will abort the operation and may leave the system in a broken state. "
+"Are you sure you want to do that?"
+msgstr ""
+
+msgid "To be downgraded"
+msgstr ""
+
+msgid "To be installed"
+msgstr ""
+
+msgid "To be kept"
+msgstr ""
+
+msgid "To be re-installed"
+msgstr ""
+
+msgid "To be removed"
+msgstr ""
+
+msgid "To be upgraded"
+msgstr ""
+
+msgid "Translated by"
+msgstr ""
+
+msgid "Trying to recover from package failure"
+msgstr ""
+
+msgid "Type"
+msgstr "རིགས་གྲས་"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URI:"
+msgstr ""
+
+msgid "U_nmark"
+msgstr ""
+
+msgid "U_nmark All"
+msgstr ""
+
+msgid "Unable to change to %s"
+msgstr ""
+
+msgid "Unable to correct dependencies"
+msgstr ""
+
+msgid "Unable to correct missing packages"
+msgstr ""
+
+msgid "Unable to create a tmp file"
+msgstr ""
+
+msgid "Unable to get exclusive lock"
+msgstr "གཞན་ཕུད་སྒྲོག་ཐོབ་ཐབས་མེད།"
+
+msgid ""
+"Unable to locate any package files. Perhaps this is not an APT enabled disc."
+msgstr ""
+
+msgid "Unable to lock the download directory"
+msgstr ""
+
+msgid "Unable to lock the list directory"
+msgstr ""
+
+msgid ""
+"Unable to mark upgrades\n"
+"Check your system for errors."
+msgstr ""
+
+msgid "Unable to read %s"
+msgstr "%s ཀློག་ཐབས་མེད།"
+
+msgid "Unable to read the cdrom database %s"
+msgstr ""
+
+msgid "Unchanged"
+msgstr ""
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unknown source type"
+msgstr ""
+
+msgid "Unmark"
+msgstr "མཚོན་རྟགས་མ་རྒྱག"
+
+msgid "Unmounting CD-ROM..."
+msgstr ""
+
+msgid "Upgradable"
+msgstr ""
+
+msgid "Upgradable (upstream)"
+msgstr ""
+
+msgid "Upgradable:"
+msgstr ""
+
+msgid "Usage: synaptic [options]\n"
+msgstr ""
+
+msgid "Use custom application font"
+msgstr ""
+
+msgid "Use custom terminal font"
+msgstr ""
+
+msgid "Username"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་།"
+
+msgid "Utilities"
+msgstr "ལག་ཆ།"
+
+msgid "Value:"
+msgstr ""
+
+msgid "Variable:"
+msgstr ""
+
+msgid "Vendor"
+msgstr "བཟོ་ཚོང་།"
+
+msgid "Vendor block %s is invalid"
+msgstr ""
+
+msgid ""
+"Vendors sign their packages to verify the origin and integrity of the "
+"packages. Disabling the verification is a security risk."
+msgstr ""
+
+msgid "Vendors..."
+msgstr ""
+
+msgid "Version"
+msgstr "པར་གཞི།"
+
+msgid "Version Control Systems"
+msgstr ""
+
+msgid "Version number"
+msgstr ""
+
+msgid "Version:"
+msgstr "པར་གཞི།："
+
+msgid "Versions"
+msgstr "པར་གཞི།"
+
+msgid "Video software"
+msgstr ""
+
+msgid "View package properties"
+msgstr ""
+
+msgid "Visible"
+msgstr "མཐོང་ཐུབ་པ།"
+
+msgid ""
+"Visit the home page at \n"
+"http://www.nongnu.org/synaptic/"
+msgstr ""
+
+msgid "Waiting for disc..."
+msgstr ""
+
+msgid "Warning"
+msgstr "ཐ་ཚིག "
+
+msgid "Web servers"
+msgstr ""
+
+msgid "Word Processing"
+msgstr ""
+
+msgid "World Wide Web"
+msgstr ""
+
+msgid "Writing sources list..."
+msgstr ""
+
+msgid "Written by"
+msgstr ""
+
+msgid "Xfce Desktop Environment"
+msgstr ""
+
+msgid ""
+"You are about to install software that <b>can't be authenticated</b>! Doing "
+"this could allow a malicious individual to damage or take control of your "
+"system."
+msgstr ""
+
+msgid ""
+"You are adding the \"universe\" component.\n"
+"\n"
+" Packages in this component are not supported. Are you sure?"
+msgstr ""
+
+msgid ""
+"You can mark packages for installation, upgrade or removal in several ways:"
+msgstr ""
+
+msgid ""
+"You have %d broken package on your system!\n"
+"\n"
+"Use the \"Broken\" filter to locate it."
+msgid_plural ""
+"You have %i broken packages on your system!\n"
+"\n"
+"Use the \"Broken\" filter to locate them."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"You have to install the package \"dwww\" to browse the documentation of a "
+"package"
+msgstr ""
+
+msgid ""
+"You should reload the package information regularly. Otherwise you could "
+"miss important security upgrades."
+msgstr ""
+
+msgid "Zope/Plone Environment"
+msgstr ""
+
+msgid "_About"
+msgstr "ཐད།(_A)"
+
+msgid "_Add CD-ROM..."
+msgstr ""
+
+msgid "_Add Repository"
+msgstr ""
+
+msgid "_Browse Documentation"
+msgstr ""
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག(_C)"
+
+msgid "_Configure..."
+msgstr ""
+
+msgid "_Contents"
+msgstr "དཀར་ཆག(_C)"
+
+msgid "_Custom Filters"
+msgstr ""
+
+msgid "_Default Upgrade"
+msgstr ""
+
+msgid "_Delete Cached Package Files"
+msgstr ""
+
+msgid "_Delete downloaded packages after installation"
+msgstr ""
+
+msgid "_Description"
+msgstr "ཞིབ་བརྗོད།(_D)"
+
+msgid "_Deselect All"
+msgstr ""
+
+msgid "_Download Changelog"
+msgstr ""
+
+msgid "_Download package files only"
+msgstr ""
+
+msgid "_Edit"
+msgstr "རྩོམ་སྒྲིག(_E)"
+
+msgid "_File"
+msgstr "ཡིག་ཆ།(_F)"
+
+msgid "_Filters"
+msgstr "འཚག་ཆས།(_F)"
+
+msgid "_Fix Broken Packages"
+msgstr ""
+
+msgid "_Force Version"
+msgstr ""
+
+msgid "_Force Version..."
+msgstr ""
+
+msgid "_Help"
+msgstr "རོགས་རམ།(_H)"
+
+msgid "_Hide"
+msgstr "སྦེད་པ།(_H)"
+
+msgid "_Hide Details"
+msgstr ""
+
+msgid "_History"
+msgstr ""
+
+msgid "_Icons Only"
+msgstr ""
+
+msgid "_Invert All"
+msgstr ""
+
+msgid "_Keep"
+msgstr "སྔར་རྣམ་སྲུང་བ།(_K)"
+
+msgid "_Keep history"
+msgstr ""
+
+msgid "_Leave all downloaded packages in the cache"
+msgstr ""
+
+msgid "_Lock Version"
+msgstr ""
+
+msgid "_Mark"
+msgstr ""
+
+msgid "_Mark All Upgrades..."
+msgstr ""
+
+msgid "_Only delete packages which are no longer available"
+msgstr ""
+
+msgid "_Package"
+msgstr ""
+
+msgid "_Properties"
+msgstr "གཏོགས་གཤིས།(_P)"
+
+msgid "_Quick Introduction"
+msgstr ""
+
+msgid "_Quit"
+msgstr "ཕྱིར་ཐོན།(_Q)"
+
+msgid "_Read Markings..."
+msgstr ""
+
+msgid "_Redo"
+msgstr "བསྐྱར་ལས།(_R)"
+
+msgid "_Reload"
+msgstr " བསྐྱར་འགེལ།(_R)"
+
+msgid "_Reload Package Information"
+msgstr ""
+
+msgid "_Replace"
+msgstr "ཚབ་བརྗེ།(_R)"
+
+msgid "_Repositories"
+msgstr ""
+
+msgid "_Save Markings"
+msgstr ""
+
+msgid "_Search"
+msgstr "འཚོལ་བཤེར།(_S)"
+
+msgid "_Search..."
+msgstr ""
+
+msgid "_Sections"
+msgstr ""
+
+msgid "_Select All"
+msgstr ""
+
+msgid "_Set Internal Option..."
+msgstr ""
+
+msgid "_Settings"
+msgstr "སྒྲིག་འགོད། (S)"
+
+msgid "_Show Details"
+msgstr ""
+
+msgid "_Smart Upgrade"
+msgstr ""
+
+msgid "_Terminal Font"
+msgstr ""
+
+msgid "_Text Only"
+msgstr ""
+
+msgid "_Toolbar"
+msgstr "ལག་ཆ་སྡེ།(_T)"
+
+msgid "_Undo"
+msgstr "ཕྱིར་འཐེན།(_U)"
+
+msgid "_Verify package signatures"
+msgstr ""
+
+msgid "bzip2 failed, perhaps the disk is full."
+msgstr ""
+
+msgid "contrib"
+msgstr ""
+
+msgid "couldn't open %s for writing"
+msgstr ""
+
+msgid "days"
+msgstr "ཉིན།"
+
+msgid "dist upgrade Failed"
+msgstr ""
+
+msgid "gzip failed, perhaps the disk is full."
+msgstr ""
+
+msgid "non free"
+msgstr ""
+
+msgid "or dependency"
+msgstr ""
+
+msgid "translators-credits"
+msgstr ""

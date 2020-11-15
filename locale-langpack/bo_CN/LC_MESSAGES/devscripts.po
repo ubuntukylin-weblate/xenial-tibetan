@@ -1,0 +1,107 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"$ annotate-output make\n"
+"21:41:21 I: Started make\n"
+"21:41:21 O: gcc -Wall program.c\n"
+"21:43:18 E: program.c: Couldn't compile, and took me ages to find out\n"
+"21:43:19 E: collect2: ld returned 1 exit status\n"
+"21:43:19 E: make: *** [all] Error 1\n"
+"21:43:19 I: Finished with exitcode 2\n"
+msgstr ""
+
+msgid "ANNOTATE-OUTPUT"
+msgstr ""
+
+msgid "ARCHPATH"
+msgstr ""
+
+msgid "AUTHOR"
+msgstr "རྩོམ་པ་པོ།"
+
+msgid "B<-h>, B<--help>"
+msgstr ""
+
+msgid ""
+"B<annotate-output> will execute the specified program, while prepending "
+"every line with the current time and O for stdout and E for stderr."
+msgstr ""
+
+msgid "B<archpath>"
+msgstr ""
+
+msgid "B<archpath> I<branch>"
+msgstr ""
+
+msgid "B<archpath> was written by"
+msgstr ""
+
+msgid "B<date>(1)"
+msgstr ""
+
+msgid "BUGS"
+msgstr "ཆད་སྐྱོན།"
+
+msgid "Colin Watson E<lt>cjwatson@debian.orgE<gt>."
+msgstr ""
+
+msgid "DEBIAN"
+msgstr ""
+
+msgid "DESCRIPTION"
+msgstr ""
+
+msgid "Debian Utilities"
+msgstr ""
+
+msgid "Display a help message and exit successfully."
+msgstr ""
+
+msgid "Do not send emails but print them to standard output."
+msgstr ""
+
+msgid "EXAMPLE"
+msgstr "དཔེ་མཚོན།"
+
+msgid "NAME"
+msgstr "མིང་།"
+
+msgid "OPTIONS"
+msgstr "འདེམས་ཚན།"
+
+msgid "SEE ALSO"
+msgstr "ཟུར་མཐོང་།"
+
+msgid "SUPPORT"
+msgstr ""
+
+msgid "SYNOPSIS"
+msgstr "གནད་བསྡུས།"
+
+msgid ""
+"Since stdout and stderr are processed in parallel, it can happen that some "
+"lines received on stdout will show up before later-printed stderr lines (and"
+" vice-versa)."
+msgstr ""
+
+msgid ""
+"This program is community-supported (meaning: you'll need to fix it "
+"yourself).  Patches are however appreciated, as is any feedback (positive or"
+" negative)."
+msgstr ""
+
+msgid "annotate-output - annotate program output with time and stream"
+msgstr ""

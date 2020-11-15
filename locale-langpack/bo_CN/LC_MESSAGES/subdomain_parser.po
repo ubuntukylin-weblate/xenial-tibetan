@@ -1,0 +1,215 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"!\n"
+"Ensure that it has been loaded.\n"
+msgstr ""
+
+msgid "%s: ASSERT: Invalid option: %d\n"
+msgstr ""
+
+msgid "%s: Could not allocate memory for subdomainbase mount point\n"
+msgstr ""
+
+msgid "%s: Errors found in combining rules postprocessing. Aborting.\n"
+msgstr ""
+
+msgid "%s: Errors found in file. Aborting.\n"
+msgstr ""
+
+msgid "%s: Failed to compile regex '%s' [original: '%s']\n"
+msgstr ""
+
+msgid "%s: Failed to compile regex '%s' [original: '%s'] - malloc failed\n"
+msgstr ""
+
+msgid "%s: Illegal open {, nesting groupings not allowed\n"
+msgstr ""
+
+msgid "%s: Internal buffer overflow detected, %d characters exceeded\n"
+msgstr ""
+
+msgid "%s: Regex grouping error: Invalid close }, no matching open { detected\n"
+msgstr ""
+
+msgid "%s: Regex grouping error: Invalid number of items between {}\n"
+msgstr ""
+
+msgid ""
+"%s: Sorry. You need root privileges to run this program.\n"
+"\n"
+msgstr ""
+
+msgid "%s: Unable to add \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to find "
+msgstr "%s: རྙེད་ཐབས་མེད།"
+
+msgid "%s: Unable to parse input line '%s'\n"
+msgstr ""
+
+msgid ""
+"%s: Unable to query modules - '%s'\n"
+"Either modules are disabled or your kernel is too old.\n"
+msgstr ""
+
+msgid "%s: Unable to remove \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to replace \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to write entire profile entry\n"
+msgstr ""
+
+msgid "%s: Unable to write to stdout\n"
+msgstr ""
+
+msgid ""
+"%s: Warning! You've set this program setuid root.\n"
+"Anybody who can run this program can update your AppArmor profiles.\n"
+"\n"
+msgstr ""
+
+msgid "%s: error near               "
+msgstr "%s: ནོར་འཁྲུལ་ཉེ་བ།"
+
+msgid "%s: error reason: '%s'\n"
+msgstr ""
+
+msgid "(ip_mode) Found unexpected character: '%s'"
+msgstr "(ip_mode) བློ་ཡུལ་ལས་འདས་པའི་ཡིག་རྟགས་རྙེད་པ།： '%s'"
+
+msgid "Addition succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "AppArmor parser error, line %d: %s\n"
+msgstr ""
+
+msgid "Assert: 'hat rule' returned NULL."
+msgstr "གསལ་བསྒྲགས། 'hat rule'ཡིས NULLལོག"
+
+msgid "Assert: `addresses' returned NULL."
+msgstr "གསལ་བསྒྲགས།：`addresses'དེ་ NULL ལ་ཕྱིར་ལོག་པ།"
+
+msgid "Assert: `netrule' returned NULL."
+msgstr "གསལ་བསྒྲགས།：`netrule'དེ་ NULL ལ་ཕྱིར་ལོག་པ།"
+
+msgid "Assert: `rule' returned NULL."
+msgstr "གསལ་བསྒྲགས། `rule'ཡིས་ NULLལོག"
+
+msgid "Bad write position\n"
+msgstr ""
+
+msgid "Couldn't copy profile Bad memory address\n"
+msgstr ""
+
+msgid "Couldn't merge entries. Out of Memory\n"
+msgstr ""
+
+msgid "ERROR in profile %s, failed to load\n"
+msgstr ""
+
+msgid "Error couldn't allocate temporary file\n"
+msgstr ""
+
+msgid "Error: Can't add directory %s to search path\n"
+msgstr ""
+
+msgid "Error: Could not allocate memory\n"
+msgstr ""
+
+msgid "Error: Out of Memory\n"
+msgstr ""
+
+msgid "Exec qualifier 'i' invalid, conflicting qualifier already specified"
+msgstr ""
+"Exec ཚད་བཀག་རྟགས་'i'ནུས་མེད། དེ་དང་འགལ་བའི་ཚད་བཀག་རྟགས་གཏན་འཁེལ་བྱས་ཡོད།"
+
+msgid "Exec qualifier 'i' must be followed by 'x'"
+msgstr "Exec ཚད་བཅད་རྟགས་'i' རྗེས་ལ་ངེས་པར་དུ་'x' འདེད་དགོས།"
+
+msgid "Found unexpected character: '%s'"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་རྟགས་མཐོང་།： '%s'"
+
+msgid "Memory allocation error."
+msgstr ""
+"ནང་གསོག་བགོད་པ་ནོར་འཁྲུལ།ནང་གསོག་བགོ་བཤའ་ནོར་འདུག "
+"༄༅།ཀྲུང་གོའི་གུང་ཁྲན་ཏང་གི་རྒྱལ་ཡོངས་འཐུས་མིའི་ཚོགས་ཆེན་ཐེངས་"
+
+msgid "Network entries can only have one FROM address."
+msgstr "དྲ་རྒྱ་ཚན་པ་རུ་FROM ཤག་གནས་གཅིག་ལས་ཡོད་མི་ཆོག"
+
+msgid "Network entries can only have one TO address."
+msgstr "དྲ་རྒྱ་ཚན་པ་རུ་ TO ཤག་གནས་གཅིག་ལས་ཡོད་མི་ཆོག"
+
+msgid "Out of memory\n"
+msgstr ""
+
+msgid "PANIC bad increment buffer %p pos %p ext %p size %d res %p\n"
+msgstr ""
+
+msgid "Permission denied\n"
+msgstr ""
+
+msgid "Profile already exists\n"
+msgstr ""
+
+msgid "Profile does not match signature\n"
+msgstr ""
+
+msgid "Profile doesn't conform to protocol\n"
+msgstr ""
+
+msgid "Profile doesn't exist\n"
+msgstr ""
+
+msgid "Removal succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "Replacement succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "Unable to open %s - %s\n"
+msgstr ""
+
+msgid "Unknown error\n"
+msgstr ""
+
+msgid "`%s' is not a valid ip address."
+msgstr "`%s' ནི་ནུས་ཡོད་ཀྱི IP ཤག་གནས་མིན།"
+
+msgid "`%s' is not a valid netmask."
+msgstr "`%s' ནི་ནུས་ཡོད་ཀྱི་དྲ་རྒྱ་གབ་ཨང་མིན།"
+
+msgid "`/%d' is not a valid netmask."
+msgstr "`/%d'ནི་ནུས་ཡོད་ཀྱི་དྲ་རྒྱ་གབ་ཨང་མིན།"
+
+msgid "missing an end of line character? (entry: %s)"
+msgstr "ཕྲེང་མཇུག་སྒྲིལ་ཡིག་རྟགས་མེད་དམ།（ཚན་%s）"
+
+msgid "ports must be between %d and %d"
+msgstr "སྣེ་ཁ་ངེས་པར་དུ %d དང་ %d བར་དུ་ཡོད་དགོས།"
+
+msgid "profile %s: has merged rule %s with multiple x modifiers\n"
+msgstr ""
+
+msgid "unable to create work area\n"
+msgstr ""
+
+msgid "unable to serialize profile %s\n"
+msgstr ""

@@ -1,0 +1,846 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Unless you are using bind or NIS for host lookups you can change the DNS\n"
+msgstr ""
+
+msgid "             compressed:%lu\n"
+msgstr ""
+
+msgid "          %s addr:%s "
+msgstr "%s ས་གནས།:%s"
+
+msgid "          [ mode { ipip | gre | sit } ] [ remote ADDR ] [ local ADDR ]\n"
+msgstr ""
+
+msgid "          collisions:%lu "
+msgstr ""
+
+msgid "          inet6 addr: %s/%d"
+msgstr ""
+
+msgid "        --numeric-hosts          don't resolve host names\n"
+msgstr ""
+
+msgid "        --numeric-ports          don't resolve port names\n"
+msgstr ""
+
+msgid "        --numeric-users          don't resolve user names\n"
+msgstr ""
+
+msgid "        -A, -p, --protocol       specify protocol family\n"
+msgstr ""
+
+msgid "        -D, --use-device         read <hwaddr> from given device\n"
+msgstr ""
+
+msgid ""
+"        -a                       display (all) hosts in alternative (BSD) "
+"style\n"
+msgstr ""
+
+msgid "        -d, --delete             delete a specified entry\n"
+msgstr ""
+
+msgid "        -e, --extend             display other/more information\n"
+msgstr ""
+
+msgid ""
+"        -f, --file               read new entries from file or from /etc/ethers\n"
+"\n"
+msgstr ""
+
+msgid "        -i, --device             specify network interface (e.g. eth0)\n"
+msgstr ""
+
+msgid "        -n, --numeric            don't resolve names\n"
+msgstr ""
+
+msgid "        -r, --route              display routing table\n"
+msgstr ""
+
+msgid "        -s, --set                set a new ARP entry\n"
+msgstr ""
+
+msgid "        -v, --verbose            be verbose\n"
+msgstr ""
+
+msgid ""
+"       domainname [-v] {nisdomain|-F file}   set NIS domainname (from "
+"file)\n"
+msgstr ""
+
+msgid ""
+"       hostname -V|--version|-h|--help       print info and exit\n"
+"\n"
+msgstr ""
+
+msgid ""
+"       hostname [-v]                         display hostname\n"
+"\n"
+msgstr ""
+
+msgid "       hostname [-v] [-d|-f|-s|-a|-i|-y|-n]  display formatted name\n"
+msgstr ""
+
+msgid ""
+"       iptunnel -V | --version\n"
+"\n"
+msgstr ""
+
+msgid "       netstat [-vnNcaeol] [<Socket> ...]\n"
+msgstr ""
+
+msgid ""
+"       netstat { [-veenNac] -i | [-cnNe] -M | -s }\n"
+"\n"
+msgstr ""
+
+msgid ""
+"       nodename [-v] {nodename|-F file}      set DECnet node name (from "
+"file)\n"
+msgstr ""
+
+msgid "       plipconfig -V | --version\n"
+msgstr ""
+
+msgid ""
+"       rarp -V                               display program version.\n"
+"\n"
+msgstr ""
+
+msgid "       rarp -d <hostname>                    delete entry from cache.\n"
+msgstr ""
+
+msgid ""
+"       rarp -f                               add entries from /etc/ethers.\n"
+msgstr ""
+
+msgid "       rarp [<HW>] -s <hostname> <hwaddr>    add entry to cache.\n"
+msgstr ""
+
+msgid ""
+"       route [-v] [-FC] {add|del|flush} ...  Modify routing table for AF.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"       route {-V|--version}                  Display version/author and exit.\n"
+"\n"
+msgstr ""
+
+msgid "     - no statistics available -"
+msgstr ""
+
+msgid ""
+"    -F, --file            read hostname or NIS domainname from given file\n"
+"\n"
+msgstr ""
+
+msgid "    -a, --alias           alias names\n"
+msgstr ""
+
+msgid "    -d, --domain          DNS domain name\n"
+msgstr ""
+
+msgid "    -f, --fqdn, --long    long host name (FQDN)\n"
+msgstr ""
+
+msgid "    -i, --ip-address      addresses for the hostname\n"
+msgstr ""
+
+msgid "    -n, --node            DECnet node name\n"
+msgstr ""
+
+msgid "    -s, --short           short host name\n"
+msgstr ""
+
+msgid "    -y, --yp, --nis       NIS/YP domainname\n"
+msgstr ""
+
+msgid ""
+"    dnsdomainname=hostname -d, {yp,nis,}domainname=hostname -y\n"
+"\n"
+msgstr ""
+
+msgid ""
+"   This command can read or set the hostname or the NIS domainname. You can\n"
+"   also read the DNS domain or the FQDN (fully qualified domain name).\n"
+"   Unless you are using bind or NIS for host lookups you can change the\n"
+"   FQDN (Fully Qualified Domain Name) and the DNS domain name (which is\n"
+"   part of the FQDN) in the /etc/hosts file.\n"
+msgstr ""
+
+msgid "  <AF>=Address family. Default: %s\n"
+msgstr ""
+
+msgid "  <AF>=Use '-6|-4' or '-A <af>' or '--<af>'; default: %s\n"
+msgstr ""
+
+msgid "  <AF>=Use '-A <af>' or '--<af>'; default: %s\n"
+msgstr ""
+
+msgid "  <HW>=Hardware Type.\n"
+msgstr ""
+
+msgid "  <HW>=Use '-H <hw>' to specify hardware address type. Default: %s\n"
+msgstr ""
+
+msgid ""
+"  <Socket>={-t|--tcp} {-u|--udp} {-w|--raw} {-x|--unix} --ax25 --ipx "
+"--netrom\n"
+msgstr ""
+
+msgid "  Checksum output packets.\n"
+msgstr ""
+
+msgid "  List of possible address families (which support routing):\n"
+msgstr ""
+
+msgid "  List of possible address families:\n"
+msgstr ""
+
+msgid "  List of possible hardware types (which support ARP):\n"
+msgstr ""
+
+msgid "  List of possible hardware types:\n"
+msgstr ""
+
+msgid "  [[-]broadcast [<address>]]  [[-]pointopoint [<address>]]\n"
+msgstr ""
+
+msgid "  [[-]dynamic]\n"
+msgstr ""
+
+msgid "  [[-]trailers]  [[-]arp]  [[-]allmulti]\n"
+msgstr ""
+
+msgid "  [add <address>[/<prefixlen>]]\n"
+msgstr ""
+
+msgid "  [del <address>[/<prefixlen>]]\n"
+msgstr ""
+
+msgid "  [hw <HW> <address>]  [metric <NN>]  [mtu <NN>]\n"
+msgstr ""
+
+msgid "  [mem_start <NN>]  [io_addr <NN>]  [irq <NN>]  [media <type>]\n"
+msgstr ""
+
+msgid "  [multicast]  [[-]promisc]\n"
+msgstr ""
+
+msgid "  [netmask <address>]  [dstaddr <address>]  [tunnel <address>]\n"
+msgstr ""
+
+msgid "  [outfill <NN>] [keepalive <NN>]\n"
+msgstr ""
+
+msgid "  [txqueuelen <NN>]\n"
+msgstr ""
+
+msgid ""
+"  [up|down] ...\n"
+"\n"
+msgstr ""
+
+msgid ""
+"  arp [-v]          [-i <if>] -d  <host> [pub]               <-Delete ARP "
+"entry\n"
+msgstr ""
+
+msgid ""
+"  arp [-v]   [<HW>] [-i <if>] -Ds <host> <if> [netmask <nm>] pub          <-''-\n"
+"\n"
+msgstr ""
+
+msgid ""
+"  arp [-v]   [<HW>] [-i <if>] -s  <host> <hwaddr> [temp]            <-Add "
+"entry\n"
+msgstr ""
+
+msgid ""
+"  arp [-vnD] [<HW>] [-i <if>] -f  [<filename>]            <-Add entry from "
+"file\n"
+msgstr ""
+
+msgid " Bcast:%s "
+msgstr "རྒྱང་བསྒྲགས།:%s"
+
+msgid " MTU:%d  Metric:%d"
+msgstr "MTU:%d  མཆོང་ཚེག་གྲངས།:%d"
+
+msgid " Mask:%s\n"
+msgstr ""
+
+msgid " P-t-P:%s "
+msgstr "ཚེག་ནས་ཚེག:%s"
+
+msgid " Path\n"
+msgstr ""
+
+msgid " User"
+msgstr "སྤྱོད་མཁན།"
+
+msgid "%-9.9s Link encap:%s  "
+msgstr "%-9.9s སྦྲེལ་ལམ་བཏུམ་པ:%s"
+
+msgid "%s (%s) -- no entry\n"
+msgstr ""
+
+msgid "%s (%s) at "
+msgstr "%s། (%s) གནས་པ།"
+
+msgid "%s: %s/ip  remote %s  local %s "
+msgstr "%s: %s/ip  རྒྱང་སྣེ། %s  རང་ས། %s \""
+
+msgid "%s: ERROR while getting interface flags: %s\n"
+msgstr ""
+
+msgid "%s: ERROR while testing interface flags: %s\n"
+msgstr ""
+
+msgid "%s: You can't change the DNS domain name with this command\n"
+msgstr ""
+
+msgid "%s: address family not supported!\n"
+msgstr ""
+
+msgid "%s: bad hardware address\n"
+msgstr ""
+
+msgid "%s: can't open `%s'\n"
+msgstr ""
+
+msgid "%s: error fetching interface information: %s\n"
+msgstr ""
+
+msgid "%s: hardware type not supported!\n"
+msgstr ""
+
+msgid "%s: invalid %s address.\n"
+msgstr ""
+
+msgid "%s: name too long\n"
+msgstr ""
+
+msgid "%s: you must be root to change the domain name\n"
+msgstr ""
+
+msgid "%s: you must be root to change the host name\n"
+msgstr ""
+
+msgid "%s: you must be root to change the node name\n"
+msgstr ""
+
+msgid "%u dropped because of missing route"
+msgstr "%u དོར་བ་ཡིན་རྒྱུ་མཚན་ནི་ལམ་འཚོལ་མེད་པས་སོ།"
+
+msgid "%u forwarded"
+msgstr "%u བརྒྱུད་སྐུར་བྱས་ཟིན།"
+
+msgid "%u outgoing packets dropped"
+msgstr "%u སྐུར་བའི་བརྡ་དོར་བྱུང་།"
+
+msgid "%u requests sent out"
+msgstr "%uརེ་ཞུ་སྐུར་ཟིན།"
+
+msgid "%u total packets received"
+msgstr "བསྡོམས་པས་གཞི་གྲངས་ཐུམ %uའབྱོར་བྱུུང་།"
+
+msgid "%u with invalid addresses"
+msgstr "%u ཡི་ཤག་གནས་ནུས་མེད་ཡིན།"
+
+msgid "%u with invalid headers"
+msgstr "%u ཡི་མགོ་ནུས་མེད་ཡིན།"
+
+msgid "%u with unknown protocol"
+msgstr "%uཡི་གྲོས་ཆིངས་ངེས་མེད་ཡིནཞ"
+
+msgid "(No info could be read for \"-p\": geteuid()=%d but you should be root.)\n"
+msgstr ""
+
+msgid ""
+"(Not all processes could be identified, non-owned process info\n"
+" will not be shown, you would have to be root to see it all.)\n"
+msgstr ""
+
+msgid "(auto)"
+msgstr "(རང་འགུལ།)"
+
+msgid "(incomplete)"
+msgstr "\"(incomplete)\""
+
+msgid "(only servers)"
+msgstr "(ཞབས་ཞུ་ཆས་ཁོ་ན།)"
+
+msgid "(servers and established)"
+msgstr "(ཞབས་ཞུ་ཆས་དང་འབྲེལ་མཐུད་བཙུགས་ཟིན་པའི)"
+
+msgid "(w/o servers)"
+msgstr "(w/o ཞབས་ཞུ་ཆས།)"
+
+msgid "16/4 Mbps Token Ring"
+msgstr "16/4 Mbps བཀའ་རྟགས་གདུབ།"
+
+msgid "16/4 Mbps Token Ring (New)"
+msgstr "16/4 Mbps བཀའ་རྟགས་གདུབ། (གསར་པ།)"
+
+msgid "<from_interface>"
+msgstr "<མཐུད་ཁ་ནས་འོང་བ་།>"
+
+msgid "<incomplete> "
+msgstr ""
+
+msgid "Active Internet connections "
+msgstr "Internetའབྲེལ་མཐུད་སྐུལ་སློང་།"
+
+msgid "Active NET/ROM sockets\n"
+msgstr ""
+
+msgid "Active UNIX domain sockets "
+msgstr "འཁྲུག་ཆ་དོད་པའི་UNIXཁོངས་མཐུད་ཡིག"
+
+msgid "Active X.25 sockets\n"
+msgstr ""
+
+msgid ""
+"Address                  HWtype  HWaddress           Flags Mask            "
+"Iface\n"
+msgstr ""
+
+msgid "Address deletion not supported on this system.\n"
+msgstr ""
+
+msgid "Bad address.\n"
+msgstr ""
+
+msgid "Base address:0x%x "
+msgstr "གཞི་རྩའི་ཤག་གནས།:0x%x"
+
+msgid "Broadcast tunnel requires a source address.\n"
+msgstr ""
+
+msgid "CLOSE"
+msgstr ""
+
+msgid "CLOSE_WAIT"
+msgstr ""
+
+msgid "CLOSING"
+msgstr ""
+
+msgid "CONN SENT"
+msgstr ""
+
+msgid "CONNECTED"
+msgstr "འབྲེལ་མཐུད་བྱས་ཟིན་པ།"
+
+msgid "CONNECTING"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
+
+msgid "DGRAM"
+msgstr "གཞི་གྲངས་ཚགས་པར།"
+
+msgid "DISC SENT"
+msgstr "DISC SENT"
+
+msgid "DISCONNECTING"
+msgstr "འབྲེལ་མཐུད་གཅོད་བཞིན་པ།"
+
+msgid "DMA chan:%x "
+msgstr "DMAབགྲོད་ལམ།:%x"
+
+msgid "Default TTL is %u"
+msgstr "སོར་བཞག་གི TTLགྲངས་ཐང་ནི %u"
+
+msgid ""
+"Destination     Gateway         Genmask         Flags Metric Ref    Use "
+"Iface\n"
+msgstr ""
+
+msgid "Don't know how to set addresses for family %d.\n"
+msgstr ""
+
+msgid "ESTAB"
+msgstr "འབྲེལ་མཐུད་བཙུགས་ཟིན་པའི།"
+
+msgid "ESTABLISHED"
+msgstr ""
+
+msgid "Entries: %d\tSkipped: %d\tFound: %d\n"
+msgstr ""
+
+msgid "Ethernet"
+msgstr "ཨེ་ཐེར་དྲ་རྒྱ།"
+
+msgid "FIN_WAIT1"
+msgstr ""
+
+msgid "FIN_WAIT2"
+msgstr ""
+
+msgid "Failed to get type of [%s]\n"
+msgstr ""
+
+msgid "HWaddr %s  "
+msgstr "སྲ་ཆས་ཤག་གནས། %s"
+
+msgid "ICMP input histogram:"
+msgstr "ICMPལོ་རྒྱུས་བསྡུ་ལེན།"
+
+msgid "ICMP output histogram:"
+msgstr "ICMPལོ་རྒྱུས་སྐུར་བ།"
+
+msgid "INET (IPv4) not configured in this system.\n"
+msgstr ""
+
+msgid "INET6 (IPv6) not configured in this system.\n"
+msgstr ""
+
+msgid "IPv6"
+msgstr ""
+
+msgid "IPv6-in-IPv4"
+msgstr ""
+
+msgid ""
+"Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR "
+"Flg\n"
+msgstr ""
+
+msgid ""
+"Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR   TX-OK TX-ERR TX-DRP TX-OVR "
+"Flg\n"
+msgstr ""
+
+msgid "Interface %s not initialized\n"
+msgstr ""
+
+msgid "Interrupt:%d "
+msgstr "ཆད་པ།:%d"
+
+msgid "IrLAP"
+msgstr ""
+
+msgid "Kernel IP routing cache\n"
+msgstr ""
+
+msgid "Kernel IP routing table\n"
+msgstr ""
+
+msgid "Kernel IPv6 routing table\n"
+msgstr ""
+
+msgid "LAST_ACK"
+msgstr ""
+
+msgid "LISTEN"
+msgstr ""
+
+msgid "LISTENING"
+msgstr ""
+
+msgid "Local Loopback"
+msgstr "རང་སའི་མཐའ་སྐོར།"
+
+msgid "Media:%s"
+msgstr "སྨྱན་བྱེད།:%s"
+
+msgid "No ARP entry for %s\n"
+msgstr ""
+
+msgid "No support for ECONET on this system.\n"
+msgstr ""
+
+msgid "No support for INET on this system.\n"
+msgstr ""
+
+msgid "No support for INET6 on this system.\n"
+msgstr ""
+
+msgid "Point-to-Point Protocol"
+msgstr "ཚེག་ནས་ཚེག་གཏོད་གྲོས་ཆིངས།"
+
+msgid "Problem reading data from %s\n"
+msgstr ""
+
+msgid "RAW"
+msgstr "RAW"
+
+msgid "RDM"
+msgstr ""
+
+msgid "RECOVERY"
+msgstr "སླར་གསོ།"
+
+msgid "RX bytes:%llu (%lu.%lu %s)  TX bytes:%llu (%lu.%lu %s)\n"
+msgstr ""
+
+msgid "RX packets:%llu errors:%lu dropped:%lu overruns:%lu frame:%lu\n"
+msgstr ""
+
+msgid "Resolving `%s' ...\n"
+msgstr ""
+
+msgid "Result: h_addr_list=`%s'\n"
+msgstr ""
+
+msgid "Result: h_aliases=`%s'\n"
+msgstr ""
+
+msgid "Result: h_name=`%s'\n"
+msgstr ""
+
+msgid "SEQPACKET"
+msgstr ""
+
+msgid "STREAM"
+msgstr "རྒྱུན།"
+
+msgid "SYN_RECV"
+msgstr ""
+
+msgid "SYN_SENT"
+msgstr ""
+
+msgid "Setting domainname to `%s'\n"
+msgstr ""
+
+msgid "Setting hostname to `%s'\n"
+msgstr ""
+
+msgid "Setting nodename to `%s'\n"
+msgstr ""
+
+msgid "TIME_WAIT"
+msgstr ""
+
+msgid "TX packets:%llu errors:%lu dropped:%lu overruns:%lu carrier:%lu\n"
+msgstr ""
+
+msgid "This kernel does not support RARP.\n"
+msgstr ""
+
+msgid "UNK."
+msgstr ""
+
+msgid "UNKNOWN"
+msgstr "མི་ཤེས།"
+
+msgid "UNSPEC"
+msgstr "དམིགས་འཛུགས་བྱས་མེད་པ།"
+
+msgid "Unknown media type.\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"  arp [-vn]  [<HW>] [-i <if>] [-a] [<hostname>]             <-Display ARP cache\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"  ifconfig [-a] [-v] [-s] <interface> [[<AF>] <address>]\n"
+msgstr ""
+
+msgid "Usage: hostname [-v] {hostname|-F file}      set hostname (from file)\n"
+msgstr ""
+
+msgid "Usage: iptunnel { add | change | del | show } [ NAME ]\n"
+msgstr ""
+
+msgid "Usage: plipconfig [-a] [-i] [-v] interface\n"
+msgstr ""
+
+msgid ""
+"Usage: route [-nNvee] [-FC] [<AF>]           List kernel routing tables\n"
+msgstr ""
+
+msgid ""
+"User       Dest       Source     Device  State        Vr/Vs    Send-Q  "
+"Recv-Q\n"
+msgstr ""
+
+msgid "WARNING: at least one error occured. (%d)\n"
+msgstr ""
+
+msgid "Warning: Interface %s still in ALLMULTI mode.\n"
+msgstr ""
+
+msgid "Warning: Interface %s still in BROADCAST mode.\n"
+msgstr ""
+
+msgid "Warning: Interface %s still in DYNAMIC mode.\n"
+msgstr ""
+
+msgid "Warning: Interface %s still in MULTICAST mode.\n"
+msgstr ""
+
+msgid "Warning: Interface %s still in POINTOPOINT mode.\n"
+msgstr ""
+
+msgid ""
+"Warning: Interface %s still in promisc mode... maybe other application is "
+"running?\n"
+msgstr ""
+
+msgid "[UNKNOWN]"
+msgstr "[ངེས་མེད།]"
+
+msgid "arp: %s: hardware type without ARP support.\n"
+msgstr ""
+
+msgid "arp: %s: kernel only supports 'inet'.\n"
+msgstr ""
+
+msgid "arp: %s: unknown address family.\n"
+msgstr ""
+
+msgid "arp: %s: unknown hardware type.\n"
+msgstr ""
+
+msgid "arp: -N not yet supported.\n"
+msgstr ""
+
+msgid "arp: cannot open etherfile %s !\n"
+msgstr ""
+
+msgid "arp: cannot set entry on line %u of etherfile %s !\n"
+msgstr ""
+
+msgid "arp: cant get HW-Address for `%s': %s.\n"
+msgstr ""
+
+msgid "arp: device `%s' has HW address %s `%s'.\n"
+msgstr ""
+
+msgid "arp: format error on line %u of etherfile %s !\n"
+msgstr ""
+
+msgid "arp: in %d entries no match found.\n"
+msgstr ""
+
+msgid "arp: invalid hardware address\n"
+msgstr ""
+
+msgid "arp: need hardware address\n"
+msgstr ""
+
+msgid "arp: need host name\n"
+msgstr ""
+
+msgid "arp: protocol type mismatch.\n"
+msgstr ""
+
+msgid "compressed:%lu "
+msgstr "སྡུད་སྒྲིལ།:%lu"
+
+msgid "destination unreachable: %u"
+msgstr "དམིགས་བྱའི་ཤག་གནས་ལ་སླེབས་མི་ཐུབ།：%u"
+
+msgid "disabled"
+msgstr "སྤྱོད་འགོག་ཟིན།"
+
+msgid "domain name (which is part of the FQDN) in the /etc/hosts file.\n"
+msgstr ""
+
+msgid "enabled"
+msgstr "བཀོལ་བ།"
+
+msgid "getdomainname()=`%s'\n"
+msgstr ""
+
+msgid "gethostname()=`%s'\n"
+msgstr ""
+
+msgid "getnodename()=`%s'\n"
+msgstr ""
+
+msgid "hw address type `%s' has no handler to set address. failed.\n"
+msgstr ""
+
+msgid "ifconfig: Cannot set address for this protocol family.\n"
+msgstr ""
+
+msgid "ifconfig: `--help' gives usage information.\n"
+msgstr ""
+
+msgid "ifconfig: option `%s' not recognised.\n"
+msgstr ""
+
+msgid "keepalive (%2.2f/%ld/%d)"
+msgstr "འབྲེལ་མཐུད་རྒྱུན་འཁྱོངས། (%2.2f/%ld/%d)"
+
+msgid "missing interface information"
+msgstr ""
+
+msgid "netmask %s "
+msgstr "དྲ་རྒྱའི་གབ་ཨང་། %s"
+
+msgid "netstat: unsupported address family %d !\n"
+msgstr ""
+
+msgid "no RARP entry for %s.\n"
+msgstr ""
+
+msgid "off (0.00/%ld/%d)"
+msgstr "ཁ་རྒྱབ། (0.00/%ld/%d)"
+
+msgid "on %s\n"
+msgstr ""
+
+msgid "on (%2.2f/%ld/%d)"
+msgstr "ཁ་ཕྱེ། (%2.2f/%ld/%d)"
+
+msgid "on%d (%2.2f/%ld/%d)"
+msgstr "%d། (%2.2f/%ld/%d) ལ"
+
+msgid "problem reading data from %s\n"
+msgstr ""
+
+msgid "rarp: %s: unknown hardware type.\n"
+msgstr ""
+
+msgid "rarp: %s: unknown host\n"
+msgstr ""
+
+msgid "rarp: cannot open file %s:%s.\n"
+msgstr ""
+
+msgid "rarp: cannot set entry from %s:%u\n"
+msgstr ""
+
+msgid "rarp: format error at %s:%u\n"
+msgstr ""
+
+msgid "timewait (%2.2f/%ld/%d)"
+msgstr "སྒུག་པ། (%2.2f/%ld/%d)"
+
+msgid "txqueuelen:%d "
+msgstr "བསྟར་པའི་རིང་ཚད་སྐྱེལ་གཏོང་།:%d"
+
+msgid "unkn-%d (%2.2f/%ld/%d)"
+msgstr "ངེས་མེད-%d། (%2.2f/%ld/%d)"
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid ""
+"usage: netstat [-veenNcCF] [<Af>] -r         netstat "
+"{-V|--version|-h|--help}\n"
+msgstr ""

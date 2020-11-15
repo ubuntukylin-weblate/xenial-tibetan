@@ -1,0 +1,2432 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "                                (only language C++)\n"
+msgstr ""
+
+msgid "                                (only languages C, C++, ObjectiveC)\n"
+msgstr ""
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala)\n"
+msgstr ""
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala, Desktop)\n"
+msgstr ""
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, Java,\n"
+"                                C#, awk, YCP, Tcl, Perl, PHP, GCC-source,\n"
+"                                Lua, JavaScript, Vala)\n"
+msgstr ""
+
+msgid "      --backup=CONTROL        make a backup of def.po\n"
+msgstr ""
+
+msgid "      --boost                 recognize Boost format strings\n"
+msgstr ""
+
+msgid ""
+"      --check-accelerators[=CHAR]  check presence of keyboard accelerators for\n"
+"                                menu items\n"
+msgstr ""
+
+msgid ""
+"      --check-domain          check for conflicts between domain directives\n"
+"                                and the --output-file option\n"
+msgstr ""
+
+msgid "      --check-format          check language dependent format strings\n"
+msgstr ""
+
+msgid ""
+"      --check-header          verify presence and contents of the header "
+"entry\n"
+msgstr ""
+
+msgid ""
+"      --check=NAME            perform syntax check on messages\n"
+"                                (ellipsis-unicode, space-ellipsis,\n"
+"                                 quote-unicode)\n"
+msgstr ""
+
+msgid "      --clear-fuzzy           set all messages non-'fuzzy'\n"
+msgstr ""
+
+msgid "      --clear-obsolete        set all messages non-obsolete\n"
+msgstr ""
+
+msgid ""
+"      --clear-previous        remove the \"previous msgid\" from all "
+"messages\n"
+msgstr ""
+
+msgid ""
+"      --color                 use colors and other text attributes always\n"
+"      --color=WHEN            use colors and other text attributes if WHEN.\n"
+"                              WHEN may be 'always', 'never', 'auto', or 'html'.\n"
+msgstr ""
+
+msgid "      --copyright-holder=STRING  set copyright holder in output\n"
+msgstr ""
+
+msgid "      --csharp                C# mode: generate a .NET .dll file\n"
+msgstr ""
+
+msgid "      --csharp                C# mode: input is a .NET .dll file\n"
+msgstr ""
+
+msgid ""
+"      --csharp-resources      C# resources mode: generate a .NET .resources "
+"file\n"
+msgstr ""
+
+msgid ""
+"      --csharp-resources      C# resources mode: input is a .NET .resources "
+"file\n"
+msgstr ""
+
+msgid ""
+"      --debug                 more detailed formatstring recognition "
+"result\n"
+msgstr ""
+
+msgid ""
+"      --desktop               Desktop Entry mode: generate a .desktop file\n"
+msgstr ""
+
+msgid ""
+"      --empty                 when removing 'fuzzy', also set msgstr empty\n"
+msgstr ""
+
+msgid ""
+"      --endianness=BYTEORDER  write out 32-bit numbers in the given byte order\n"
+"                                (big or little, default depends on platform)\n"
+msgstr ""
+
+msgid ""
+"      --escape                use C escapes in output, no extended chars\n"
+msgstr ""
+
+msgid ""
+"      --flag=WORD:ARG:FLAG    additional flag for strings inside the argument\n"
+"                              number ARG of keyword WORD\n"
+msgstr ""
+
+msgid "      --force-po              write PO file even if empty\n"
+msgstr ""
+
+msgid ""
+"      --foreign-user          omit FSF copyright in output for foreign "
+"user\n"
+msgstr ""
+
+msgid ""
+"      --from-code=NAME        encoding of input files\n"
+"                                (except for Python, Tcl, Glade)\n"
+msgstr ""
+
+msgid "      --fuzzy                 synonym for --only-fuzzy --clear-fuzzy\n"
+msgstr ""
+
+msgid ""
+"      --ignore-file=FILE.po   manipulate only entries not listed in "
+"FILE.po\n"
+msgstr ""
+
+msgid "      --indent                indented output style\n"
+msgstr ""
+
+msgid ""
+"      --java2                 like --java, and assume Java2 (JDK 1.2 or "
+"higher)\n"
+msgstr ""
+
+msgid "      --kde                   recognize KDE 4 format strings\n"
+msgstr ""
+
+msgid ""
+"      --keep-header           keep header entry unmodified, don't filter "
+"it\n"
+msgstr ""
+
+msgid "      --lang=CATALOGNAME      set 'Language' field in the header entry\n"
+msgstr ""
+
+msgid ""
+"      --msgid-bugs-address=EMAIL@ADDRESS  set report address for msgid "
+"bugs\n"
+msgstr ""
+
+msgid "      --no-escape             do not use C escapes in output (default)\n"
+msgstr ""
+
+msgid "      --no-fuzzy              remove 'fuzzy' marked messages\n"
+msgstr ""
+
+msgid ""
+"      --no-hash               binary file will not include the hash table\n"
+msgstr ""
+
+msgid "      --no-location           do not write '#: filename:line' lines\n"
+msgstr ""
+
+msgid "      --no-location           suppress '#: filename:line' lines\n"
+msgstr ""
+
+msgid "      --no-obsolete           remove obsolete #~ messages\n"
+msgstr ""
+
+msgid ""
+"      --no-translator         assume the PO file is automatically "
+"generated\n"
+msgstr ""
+
+msgid ""
+"      --no-wrap               do not break long message lines, longer than\n"
+"                              the output page width, into several lines\n"
+msgstr ""
+
+msgid ""
+"      --obsolete              synonym for --only-obsolete --clear-obsolete\n"
+msgstr ""
+
+msgid "      --omit-header           don't write header with 'msgid \"\"' entry\n"
+msgstr ""
+
+msgid ""
+"      --only-file=FILE.po     manipulate only entries listed in FILE.po\n"
+msgstr ""
+
+msgid "      --only-fuzzy            keep 'fuzzy' marked messages\n"
+msgstr ""
+
+msgid "      --only-obsolete         keep obsolete #~ messages\n"
+msgstr ""
+
+msgid "      --package-name=PACKAGE  set package name in output\n"
+msgstr ""
+
+msgid "      --package-version=VERSION  set package version in output\n"
+msgstr ""
+
+msgid ""
+"      --previous              keep previous msgids of translated messages\n"
+msgstr ""
+
+msgid ""
+"      --previous              when setting 'fuzzy', keep previous msgids\n"
+"                              of translated messages.\n"
+msgstr ""
+
+msgid "      --properties-output     write out a Java .properties file\n"
+msgstr ""
+
+msgid "      --qt                    Qt mode: generate a Qt .qm file\n"
+msgstr ""
+
+msgid "      --qt                    recognize Qt format strings\n"
+msgstr ""
+
+msgid ""
+"      --sentence-end=TYPE     type describing the end of sentence\n"
+"                                (single-space, which is the default, \n"
+"                                 or double-space)\n"
+msgstr ""
+
+msgid "      --set-fuzzy             set all messages 'fuzzy'\n"
+msgstr ""
+
+msgid "      --set-obsolete          set all messages obsolete\n"
+msgstr ""
+
+msgid "      --sort-by-file          sort output by file location\n"
+msgstr ""
+
+msgid "      --sort-output           generate sorted output\n"
+msgstr ""
+
+msgid ""
+"      --source                produce a .java file, instead of a .class "
+"file\n"
+msgstr ""
+
+msgid "      --statistics            print statistics about translations\n"
+msgstr ""
+
+msgid "      --strict                enable strict Uniforum mode\n"
+msgstr ""
+
+msgid "      --strict                strict Uniforum output style\n"
+msgstr ""
+
+msgid ""
+"      --strict                write out strict Uniforum conforming .po "
+"file\n"
+msgstr ""
+
+msgid "      --strict                write strict uniforum style\n"
+msgstr ""
+
+msgid ""
+"      --stringtable-input     input file is in NeXTstep/GNUstep .strings "
+"syntax\n"
+msgstr ""
+
+msgid ""
+"      --stringtable-input     input files are in NeXTstep/GNUstep .strings\n"
+"                              syntax\n"
+msgstr ""
+
+msgid ""
+"      --stringtable-output    write out a NeXTstep/GNUstep .strings file\n"
+msgstr ""
+
+msgid "      --style=STYLEFILE       specify CSS style rule file for --color\n"
+msgstr ""
+
+msgid "      --suffix=SUFFIX         override the usual backup suffix\n"
+msgstr ""
+
+msgid ""
+"      --tcl                   Tcl mode: generate a tcl/msgcat .msg file\n"
+msgstr ""
+
+msgid ""
+"      --tcl                   Tcl mode: input is a tcl/msgcat .msg file\n"
+msgstr ""
+
+msgid ""
+"      --translated            keep translated, remove untranslated "
+"messages\n"
+msgstr ""
+
+msgid ""
+"      --untranslated          keep untranslated, remove translated "
+"messages\n"
+msgstr ""
+
+msgid ""
+"      --use-first             use first available translation for each\n"
+"                              message, don't merge several translations\n"
+msgstr ""
+
+msgid "      --use-fuzzy             consider fuzzy entries\n"
+msgstr ""
+
+msgid "      --use-untranslated      consider untranslated entries\n"
+msgstr ""
+
+msgid ""
+"  --newline                   add a newline at the end of input and\n"
+"                                remove a newline from the end of output"
+msgstr ""
+
+msgid "  --newline                   add newline at the end of input\n"
+msgstr ""
+
+msgid "  --template=TEMPLATE         a .desktop file used as a template\n"
+msgstr ""
+
+msgid ""
+"  -<, --less-than=NUMBER      print messages with less than this many\n"
+"                              definitions, defaults to infinite if not set\n"
+msgstr ""
+
+msgid ""
+"  ->, --more-than=NUMBER      print messages with more than this many\n"
+"                              definitions, defaults to 0 if not set\n"
+msgstr ""
+
+msgid ""
+"  ->, --more-than=NUMBER      print messages with more than this many\n"
+"                              definitions, defaults to 1 if not set\n"
+msgstr ""
+
+msgid "  -C, --c++                   shorthand for --language=C++\n"
+msgstr ""
+
+msgid ""
+"  -C, --check-compatibility   check that GNU msgfmt behaves like X/Open "
+"msgfmt\n"
+msgstr ""
+
+msgid ""
+"  -C, --compendium=FILE       additional library of message translations,\n"
+"                              may be specified more than once\n"
+msgstr ""
+
+msgid ""
+"  -D, --directory=DIRECTORY   add DIRECTORY to list for input files search\n"
+msgstr ""
+
+msgid ""
+"  -E, --escape                use C escapes in output, no extended chars\n"
+msgstr ""
+
+msgid "  -F, --sort-by-file          sort output by file location\n"
+msgstr ""
+
+msgid ""
+"  -L, --language=NAME         recognise the specified language\n"
+"                                (C, C++, ObjectiveC, PO, Shell, Python, Lisp,\n"
+"                                EmacsLisp, librep, Scheme, Smalltalk, Java,\n"
+"                                JavaProperties, C#, awk, YCP, Tcl, Perl, PHP,\n"
+"                                GCC-source, NXStringTable, RST, Glade, Lua,\n"
+"                                JavaScript, Vala, Desktop)\n"
+msgstr ""
+
+msgid ""
+"  -M[STRING], --msgstr-suffix[=STRING]  use STRING or \"\" as suffix for msgstr\n"
+"                                values\n"
+msgstr ""
+
+msgid "  -N, --no-fuzzy-matching     do not use fuzzy matching\n"
+msgstr ""
+
+msgid "  -P, --properties-input      input file is in Java .properties syntax\n"
+msgstr ""
+
+msgid ""
+"  -P, --properties-input      input files are in Java .properties syntax\n"
+msgstr ""
+
+msgid "  -T, --trigraphs             understand ANSI C trigraphs for input\n"
+msgstr ""
+
+msgid ""
+"  -U, --update                update def.po,\n"
+"                              do nothing if def.po already up to date\n"
+msgstr ""
+
+msgid "  -V, --version               output version information and exit\n"
+msgstr ""
+
+msgid ""
+"  -a, --alignment=NUMBER      align strings to NUMBER bytes (default: %d)\n"
+msgstr ""
+
+msgid "  -a, --extract-all           extract all strings\n"
+msgstr ""
+
+msgid ""
+"  -c, --check                 perform all the checks implied by\n"
+"                                --check-format, --check-header, --check-domain\n"
+msgstr ""
+
+msgid ""
+"  -cTAG, --add-comments=TAG   place comment blocks starting with TAG and\n"
+"                                preceding keyword lines in output file\n"
+"  -c, --add-comments          place all comment blocks preceding keyword lines\n"
+"                                in output file\n"
+msgstr ""
+
+msgid ""
+"  -d DIRECTORY                base directory for locale dependent .dll "
+"files\n"
+msgstr ""
+
+msgid "  -d DIRECTORY                base directory of .msg message catalogs\n"
+msgstr ""
+
+msgid "  -d DIRECTORY                base directory of .po files\n"
+msgstr ""
+
+msgid ""
+"  -d DIRECTORY                base directory of classes directory "
+"hierarchy\n"
+msgstr ""
+
+msgid ""
+"  -d, --default-domain=NAME   use NAME.po for output (instead of "
+"messages.po)\n"
+msgstr ""
+
+msgid "  -d, --repeated              print only duplicates\n"
+msgstr ""
+
+msgid ""
+"  -e, --expression=SCRIPT     add SCRIPT to the commands to be executed\n"
+msgstr ""
+
+msgid "  -e, --no-escape             do not use C escapes in output (default)\n"
+msgstr ""
+
+msgid ""
+"  -f, --file=SCRIPTFILE       add the contents of SCRIPTFILE to the commands\n"
+"                                to be executed\n"
+msgstr ""
+
+msgid "  -f, --files-from=FILE       get list of input files from FILE\n"
+msgstr ""
+
+msgid ""
+"  -f, --fqdn, --long          long host name, includes fully qualified domain\n"
+"                                name, and aliases\n"
+msgstr ""
+
+msgid "  -f, --use-fuzzy             use fuzzy entries in output\n"
+msgstr ""
+
+msgid "  -h, --help                  display this help and exit\n"
+msgstr ""
+
+msgid "  -i, --indent                indented output style\n"
+msgstr ""
+
+msgid "  -i, --indent                write indented output style\n"
+msgstr ""
+
+msgid "  -i, --indent                write the .po file using indented style\n"
+msgstr ""
+
+msgid "  -i, --input=INPUTFILE       input PO file\n"
+msgstr ""
+
+msgid "  -i, --input=INPUTFILE       input POT file\n"
+msgstr ""
+
+msgid "  -i, --ip-address            addresses for the hostname\n"
+msgstr ""
+
+msgid ""
+"  -j, --java                  Java mode: generate a Java ResourceBundle "
+"class\n"
+msgstr ""
+
+msgid ""
+"  -j, --java                  Java mode: input is a Java ResourceBundle "
+"class\n"
+msgstr ""
+
+msgid "  -j, --join-existing         join messages with existing file\n"
+msgstr ""
+
+msgid ""
+"  -kWORD, --keyword=WORD      look for WORD as an additional keyword\n"
+"  -k, --keyword               do not to use default keywords\n"
+msgstr ""
+
+msgid "  -l, --locale=LL_CC          set target locale\n"
+msgstr ""
+
+msgid ""
+"  -l, --locale=LOCALE         locale name, either language or "
+"language_COUNTRY\n"
+msgstr ""
+
+msgid ""
+"  -m, --multi-domain          apply ref.pot to each of the domains in "
+"def.po\n"
+msgstr ""
+
+msgid ""
+"  -m[STRING], --msgstr-prefix[=STRING]  use STRING or \"\" as prefix for msgstr\n"
+"                                values\n"
+msgstr ""
+
+msgid ""
+"  -n, --add-location          generate '#: filename:line' lines (default)\n"
+msgstr ""
+
+msgid ""
+"  -n, --add-location          preserve '#: filename:line' lines (default)\n"
+msgstr ""
+
+msgid ""
+"  -n, --quiet, --silent       suppress automatic printing of pattern space\n"
+msgstr ""
+
+msgid "  -o, --output-file=FILE      write output to specified PO file\n"
+msgstr ""
+
+msgid "  -o, --output-file=FILE      write output to specified file\n"
+msgstr ""
+
+msgid "  -o, --output=FILE           write output to specified file\n"
+msgstr ""
+
+msgid ""
+"  -p, --output-dir=DIR        output files will be placed in directory DIR\n"
+msgstr ""
+
+msgid "  -p, --properties-output     write out a Java .properties file\n"
+msgstr ""
+
+msgid "  -q, --quiet, --silent       suppress progress indicators\n"
+msgstr ""
+
+msgid "  -r, --resource=RESOURCE     resource name\n"
+msgstr ""
+
+msgid "  -s, --short                 short host name\n"
+msgstr ""
+
+msgid "  -s, --sort-output           generate sorted output\n"
+msgstr ""
+
+msgid "  -t, --to-code=NAME          encoding for output\n"
+msgstr ""
+
+msgid ""
+"  -u, --unique                print only unique messages, discard "
+"duplicates\n"
+msgstr ""
+
+msgid ""
+"  -u, --unique                shorthand for --less-than=2, requests\n"
+"                              that only unique messages be printed\n"
+msgstr ""
+
+msgid "  -v, --verbose               increase verbosity level\n"
+msgstr ""
+
+msgid "  -w, --width=NUMBER          set output page width\n"
+msgstr ""
+
+msgid "  -x, --exclude-file=FILE.po  entries from FILE.po are not extracted\n"
+msgstr ""
+
+msgid "  FILE ...                    input .mo files\n"
+msgstr ""
+
+msgid "  INPUTFILE                   input PO file\n"
+msgstr ""
+
+msgid "  INPUTFILE                   input PO or POT file\n"
+msgstr ""
+
+msgid "  INPUTFILE ...               input files\n"
+msgstr ""
+
+msgid "  def.po                      translations\n"
+msgstr ""
+
+msgid "  def.po                      translations referring to old sources\n"
+msgstr ""
+
+msgid "  filename.po ...             input files\n"
+msgstr ""
+
+msgid "  ref.pot                     references to new sources\n"
+msgstr ""
+
+msgid "  ref.pot                     references to the sources\n"
+msgstr ""
+
+msgid " done.\n"
+msgstr ""
+
+msgid " failed.\n"
+msgstr ""
+
+msgid " timed out.\n"
+msgstr ""
+
+msgid "%d translated message"
+msgid_plural "%d translated messages"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s and %s are mutually exclusive"
+msgstr ""
+
+msgid "%s and %s are mutually exclusive in %s"
+msgstr ""
+
+msgid "%s and explicit file names are mutually exclusive"
+msgstr ""
+
+msgid "%s does not exist"
+msgstr ""
+
+msgid "%s exists but cannot read"
+msgstr ""
+
+msgid "%s is only valid with %s"
+msgstr ""
+
+msgid "%s is only valid with %s or %s"
+msgstr ""
+
+msgid "%s is only valid with %s, %s or %s"
+msgstr ""
+
+msgid "%s requires a \"--template template\" specification"
+msgstr ""
+
+msgid "%s requires a \"-d directory\" specification"
+msgstr ""
+
+msgid "%s requires a \"-l locale\" specification"
+msgstr ""
+
+msgid "%s requires a \"-o file\" specification"
+msgstr ""
+
+msgid "%s subprocess"
+msgstr "%s བུ་འཕེལ་རིམ།"
+
+msgid "%s subprocess I/O error"
+msgstr ""
+
+msgid "%s subprocess failed"
+msgstr "%sབུ་འཕེལ་རིམ་ཕམ་པ།"
+
+msgid "%s subprocess failed with exit code %d"
+msgstr ""
+
+msgid "%s subprocess got fatal signal %d"
+msgstr "%s བུ་འཕེལ་རིམ་གྱིས་བརྡ་རྟགས་ངན་དྲགས %dའབྱོར་བ།"
+
+msgid "%s subprocess terminated with exit code %d"
+msgstr ""
+
+msgid "%s%s: warning: "
+msgstr ""
+
+msgid "%s: "
+msgstr ""
+
+msgid "%s: error while converting from \"%s\" encoding to \"%s\" encoding"
+msgstr ""
+
+msgid "%s: input is not valid in \"%s\" encoding"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr "%s： འདེམས་ཚན “%s” ནི་གཏན་ཁེལ་མེད་ཕལ་ཆེར།："
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr ""
+
+msgid "%s: warning: source file contains fuzzy translation"
+msgstr ""
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code or through a comment\n"
+"as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+
+msgid "%s:%d: can't find string terminator \"%s\" anywhere before EOF"
+msgstr ""
+
+msgid "%s:%d: iconv failure"
+msgstr ""
+
+msgid "%s:%d: invalid interpolation (\"\\L\") of 8bit character \"%c\""
+msgstr ""
+
+msgid "%s:%d: invalid interpolation (\"\\U\") of 8bit character \"%c\""
+msgstr ""
+
+msgid "%s:%d: invalid interpolation (\"\\l\") of 8bit character \"%c\""
+msgstr ""
+
+msgid "%s:%d: invalid interpolation (\"\\u\") of 8bit character \"%c\""
+msgstr ""
+
+msgid "%s:%d: invalid string definition"
+msgstr ""
+
+msgid "%s:%d: invalid string expression"
+msgstr ""
+
+msgid "%s:%d: invalid variable interpolation at \"%c\""
+msgstr ""
+
+msgid "%s:%d: missing number after #"
+msgstr ""
+
+msgid "%s:%d: missing right brace on \\x{HEXNUMBER}"
+msgstr ""
+
+msgid "%s:%d: warning: %s is not allowed"
+msgstr ""
+
+msgid "%s:%d: warning: ')' found where '}' was expected"
+msgstr ""
+
+msgid "%s:%d: warning: '}' found where ')' was expected"
+msgstr ""
+
+msgid "%s:%d: warning: RegExp literal terminated too early"
+msgstr ""
+
+msgid "%s:%d: warning: invalid Unicode character"
+msgstr ""
+
+msgid "%s:%d: warning: lone surrogate U+%04X"
+msgstr ""
+
+msgid "%s:%d: warning: regular expression literal terminated too early"
+msgstr ""
+
+msgid "%s:%d: warning: unterminated XML markup"
+msgstr ""
+
+msgid "%s:%d: warning: unterminated character constant"
+msgstr ""
+
+msgid "%s:%d: warning: unterminated regular expression"
+msgstr ""
+
+msgid "%s:%d: warning: unterminated string"
+msgstr ""
+
+msgid "%s:%d: warning: unterminated string constant"
+msgstr ""
+
+msgid "%s:%d: warning: unterminated string literal"
+msgstr ""
+
+msgid ""
+"%s:%lu: warning: the syntax $\"...\" is deprecated due to security reasons; "
+"use eval_gettext instead"
+msgstr ""
+
+msgid ""
+"%sRead %ld old + %ld reference, merged %ld, fuzzied %ld, missing %ld, "
+"obsolete %ld.\n"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "'%s' does not use %%C but '%s' uses %%C"
+msgstr ""
+
+msgid "'%s' does not use %%m but '%s' uses %%m"
+msgstr ""
+
+msgid ""
+"'%s' format string with unnamed arguments cannot be properly localized:\n"
+"The translator cannot reorder the arguments.\n"
+"Please consider using a format string with named arguments,\n"
+"and a mapping instead of a tuple for the arguments.\n"
+msgstr ""
+
+msgid ""
+"'%s' is a simple format string, but '%s' is not: it contains an 'L' flag or "
+"a double-digit argument number"
+msgstr ""
+
+msgid "'%s' is not a valid %s format string, unlike '%s'. Reason: %s"
+msgstr ""
+
+msgid "'%s' is not a valid encoding name.  Using ASCII as fallback.\n"
+msgstr ""
+
+msgid "'%s' uses %%C but '%s' doesn't"
+msgstr ""
+
+msgid "'%s' uses %%m but '%s' doesn't"
+msgstr ""
+
+msgid "'domain %s' directive ignored"
+msgstr ""
+
+msgid "'msgid' and 'msgid_plural' entries do not both begin with '\\n'"
+msgstr ""
+
+msgid "'msgid' and 'msgid_plural' entries do not both end with '\\n'"
+msgstr ""
+
+msgid "'msgid' and 'msgstr' entries do not both begin with '\\n'"
+msgstr ""
+
+msgid "'msgid' and 'msgstr' entries do not both end with '\\n'"
+msgstr ""
+
+msgid "'msgid' and 'msgstr[%u]' entries do not both begin with '\\n'"
+msgstr ""
+
+msgid "'msgid' and 'msgstr[%u]' entries do not both end with '\\n'"
+msgstr ""
+
+msgid ", %d fuzzy translation"
+msgid_plural ", %d fuzzy translations"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ", %d untranslated message"
+msgid_plural ", %d untranslated messages"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"- Convert the translation catalog to %s using 'msgconv',\n"
+"  then apply '%s',\n"
+"  then convert back to %s using 'msgconv'.\n"
+msgstr ""
+
+msgid ""
+"- Set LC_ALL to a locale with encoding %s,\n"
+"  convert the translation catalog to %s using 'msgconv',\n"
+"  then apply '%s',\n"
+"  then convert back to %s using 'msgconv'.\n"
+msgstr ""
+
+msgid "- Set LC_ALL to a locale with encoding %s.\n"
+msgstr ""
+
+msgid "--join-existing cannot be used when output is written to stdout"
+msgstr ""
+
+msgid "...but this definition is similar"
+msgstr ""
+
+msgid "<stdin>"
+msgstr ""
+
+msgid "<unnamed>"
+msgstr "<མིང་བཏགས་མེད།>"
+
+msgid ""
+"A --flag argument doesn't have the <keyword>:<argnum>:[pass-]<flag> syntax: "
+"%s"
+msgstr ""
+
+msgid ""
+"A special builtin command called '0' outputs the translation, followed by a\n"
+"null byte.  The output of \"msgexec 0\" is suitable as input for \"xargs -0\".\n"
+msgstr ""
+
+msgid "ASCII double quote used instead of Unicode"
+msgstr ""
+
+msgid "ASCII ellipsis ('...') instead of Unicode"
+msgstr ""
+
+msgid "ASCII single quote used instead of Unicode"
+msgstr ""
+
+msgid ""
+"Although being used in a format string position, the %s is not a valid %s "
+"format string. Reason: %s\n"
+msgstr ""
+
+msgid ""
+"Although declared as such, the %s is not a valid %s format string. Reason: "
+"%s\n"
+msgstr ""
+
+msgid ""
+"Applies a command to all translations of a translation catalog.\n"
+"The COMMAND can be any program that reads a translation from standard\n"
+"input.  It is invoked once for each translation.  Its output becomes\n"
+"msgexec's output.  msgexec's return code is the maximum return code\n"
+"across all invocations.\n"
+msgstr ""
+
+msgid "Applies a filter to all translations of a translation catalog.\n"
+msgstr ""
+
+msgid "Attribute manipulation:\n"
+msgstr ""
+
+msgid "Bruno Haible"
+msgstr "Bruno Haible"
+
+msgid "By default the input files are assumed to be in ASCII.\n"
+msgstr ""
+
+msgid ""
+"By default the language is guessed depending on the input file name "
+"extension.\n"
+msgstr ""
+
+msgid "C# compiler not found, try installing pnet"
+msgstr ""
+
+msgid "C# virtual machine not found, try installing pnet"
+msgstr ""
+
+msgid ""
+"Cannot convert from \"%s\" to \"%s\". %s relies on iconv(), and iconv() does"
+" not support this conversion."
+msgstr ""
+
+msgid ""
+"Cannot convert from \"%s\" to \"%s\". %s relies on iconv(). This version was"
+" built without iconv()."
+msgstr ""
+
+msgid ""
+"Cannot output multiple translation domains into a single file with the "
+"specified output format."
+msgstr ""
+
+msgid ""
+"Cannot output multiple translation domains into a single file with the "
+"specified output format. Try using PO file syntax instead."
+msgstr ""
+
+msgid ""
+"Charset \"%s\" is not a portable encoding name.\n"
+"Message conversion to user's charset might not work.\n"
+msgstr ""
+
+msgid ""
+"Charset \"%s\" is not supported. %s relies on iconv(),\n"
+"and iconv() does not support \"%s\".\n"
+msgstr ""
+
+msgid ""
+"Charset \"%s\" is not supported. %s relies on iconv().\n"
+"This version was built without iconv().\n"
+msgstr ""
+
+msgid ""
+"Charset missing in header.\n"
+"Message conversion to user's charset will not work.\n"
+msgstr ""
+
+msgid "Choice of input file language:\n"
+msgstr ""
+
+msgid "Command input:\n"
+msgstr ""
+
+msgid ""
+"Compare two Uniforum style .po files to check that both contain the same\n"
+"set of msgid strings.  The def.po file is an existing PO file with the\n"
+"translations.  The ref.pot file is the last created PO file, or a PO Template\n"
+"file (generally created by xgettext).  This is useful for checking that\n"
+"you have translated each and every message in your program.  Where an exact\n"
+"match cannot be found, fuzzy matching is used to produce better diagnostics.\n"
+msgstr ""
+
+msgid ""
+"Concatenates and merges the specified PO files.\n"
+"Find messages which are common to two or more of the specified PO files.\n"
+"By using the --more-than option, greater commonality may be requested\n"
+"before messages are printed.  Conversely, the --less-than option may be\n"
+"used to specify less commonality before messages are printed (i.e.\n"
+"--less-than=2 will only print the unique messages).  Translations,\n"
+"comments, extracted comments, and file positions will be cumulated, except\n"
+"that if --use-first is specified, they will be taken from the first PO file\n"
+"to define them.\n"
+msgstr ""
+
+msgid "Continuing anyway, expect parse errors."
+msgstr ""
+
+msgid "Continuing anyway."
+msgstr ""
+
+msgid ""
+"Conversion from \"%s\" to \"%s\" introduces duplicates: some different "
+"msgids become equal."
+msgstr ""
+
+msgid ""
+"Conversion of file %s from %s encoding to %s encoding\n"
+"changes some msgids or msgctxts.\n"
+"Either change all msgids and msgctxts to be pure ASCII, or ensure they are\n"
+"UTF-8 encoded from the beginning, i.e. already in your source code files.\n"
+msgstr ""
+
+msgid "Conversion target:\n"
+msgstr ""
+
+msgid "Convert binary message catalog to Uniforum style .po file.\n"
+msgstr ""
+
+msgid "Converts a translation catalog to a different character encoding.\n"
+msgstr ""
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+
+msgid "Created %s.\n"
+msgstr ""
+
+msgid ""
+"Creates a new PO file, initializing the meta information with values from the\n"
+"user's environment.\n"
+msgstr ""
+
+msgid ""
+"Creates an English translation catalog.  The input file is the last\n"
+"created English PO file, or a PO Template file (generally created by\n"
+"xgettext).  Untranslated entries are assigned a translation that is\n"
+"identical to the msgid.\n"
+msgstr ""
+
+msgid "Danilo Segan"
+msgstr ""
+
+msgid "Desktop Entry mode options:\n"
+msgstr ""
+
+msgid ""
+"Empty msgid.  It is reserved by GNU gettext:\n"
+"gettext(\"\") returns the header entry with\n"
+"meta information, not the empty string.\n"
+msgstr ""
+
+msgid "English translations for %s package"
+msgstr ""
+
+msgid "Extract translatable strings from given input files.\n"
+msgstr ""
+
+msgid ""
+"Extracts all messages of a translation catalog that match a given pattern\n"
+"or belong to some given source files.\n"
+msgstr ""
+
+msgid ""
+"Fetches and outputs the contents of an URL.  If the URL cannot be accessed,\n"
+"the locally accessible FILE is used instead.\n"
+msgstr ""
+
+msgid "Filter input and output:\n"
+msgstr ""
+
+msgid ""
+"Filters the messages of a translation catalog according to their attributes,\n"
+"and manipulates the attributes.\n"
+msgstr ""
+
+msgid ""
+"Find messages which are common to two or more of the specified PO files.\n"
+"By using the --more-than option, greater commonality may be requested\n"
+"before messages are printed.  Conversely, the --less-than option may be\n"
+"used to specify less commonality before messages are printed (i.e.\n"
+"--less-than=2 will only print the unique messages).  Translations,\n"
+"comments and extracted comments will be preserved, but only from the first\n"
+"PO file to define them.  File positions from all PO files will be\n"
+"cumulated.\n"
+msgstr ""
+
+msgid "Found '~%c' without matching '~%c'."
+msgstr ""
+
+msgid ""
+"Found more than one .pot file.\n"
+"Please specify the input .pot file through the --input option.\n"
+msgstr ""
+
+msgid ""
+"Found no .pot file in the current directory.\n"
+"Please specify the input .pot file through the --input option.\n"
+msgstr ""
+
+msgid "Generate binary message catalog from textual translation description.\n"
+msgstr ""
+
+msgid "If input file is -, standard input is read.\n"
+msgstr ""
+
+msgid "If no input file is given or if it is -, standard input is read.\n"
+msgstr ""
+
+msgid ""
+"If no input file is given, the current directory is searched for the POT file.\n"
+"If it is -, standard input is read.\n"
+msgstr ""
+
+msgid ""
+"If no output file is given, it depends on the --locale option or the user's\n"
+"locale setting.  If it is -, the results are written to standard output.\n"
+msgstr ""
+
+msgid "If output file is -, output is written to standard output.\n"
+msgstr ""
+
+msgid "In the directive number %u, \"%s\" is not followed by a comma."
+msgstr ""
+
+msgid "In the directive number %u, '%c' cannot start a field name."
+msgstr ""
+
+msgid "In the directive number %u, '%c' cannot start a getattr argument."
+msgstr ""
+
+msgid "In the directive number %u, '%c' cannot start a getitem argument."
+msgstr ""
+
+msgid "In the directive number %u, '%c' is not followed by a digit."
+msgstr ""
+
+msgid "In the directive number %u, ',' is not followed by a number."
+msgstr ""
+
+msgid "In the directive number %u, '{' is not followed by an argument number."
+msgstr ""
+
+msgid ""
+"In the directive number %u, '~:[' is not followed by two clauses, separated "
+"by '~;'."
+msgstr ""
+
+msgid "In the directive number %u, '~;' is used in an invalid position."
+msgstr ""
+
+msgid ""
+"In the directive number %u, a choice contains a number that is not followed "
+"by '<', '#' or '%s'."
+msgstr ""
+
+msgid "In the directive number %u, a choice contains no number."
+msgstr ""
+
+msgid "In the directive number %u, a precision is not allowed before '%c'."
+msgstr ""
+
+msgid ""
+"In the directive number %u, a precision specification is not allowed before "
+"'%c'."
+msgstr ""
+
+msgid "In the directive number %u, both the @ and the : modifiers are given."
+msgstr ""
+
+msgid "In the directive number %u, flags are not allowed before '%c'."
+msgstr ""
+
+msgid ""
+"In the directive number %u, no more nesting is allowed in a format "
+"specifier."
+msgstr ""
+
+msgid ""
+"In the directive number %u, parameter %u is of type '%s' but a parameter of "
+"type '%s' is expected."
+msgstr ""
+
+msgid "In the directive number %u, the argument %d is negative."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the argument number 0 is not a positive integer."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the argument number for the precision must be "
+"equal to %u."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the argument number is not followed by a comma "
+"and one of \"%s\", \"%s\", \"%s\", \"%s\"."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the character '%c' is not a digit between 1 and "
+"9."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the character '%c' is not a valid conversion "
+"specifier."
+msgstr ""
+
+msgid "In the directive number %u, the flags combination is invalid."
+msgstr ""
+
+msgid "In the directive number %u, the precision specification is invalid."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the precision's argument number 0 is not a "
+"positive integer."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the size specifier is incompatible with the "
+"conversion specifier '%c'."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the substring \"%s\" is not a valid date/time "
+"style."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the substring \"%s\" is not a valid number "
+"style."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the token after '<' is not followed by '>'."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the token after '<' is not the name of a format "
+"specifier macro. The valid macro names are listed in ISO C 99 section 7.8.1."
+msgstr ""
+
+msgid ""
+"In the directive number %u, the width's argument number 0 is not a positive "
+"integer."
+msgstr ""
+
+msgid "In the directive number %u, there is an unterminated format directive."
+msgstr ""
+
+msgid ""
+"In the directive number %u, too many parameters are given; expected at most "
+"%u parameter."
+msgid_plural ""
+"In the directive number %u, too many parameters are given; expected at most "
+"%u parameters."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Informative output:\n"
+msgstr ""
+
+msgid "Input file interpretation:\n"
+msgstr ""
+
+msgid "Input file location in C# mode:\n"
+msgstr ""
+
+msgid "Input file location in Java mode:\n"
+msgstr ""
+
+msgid "Input file location in Tcl mode:\n"
+msgstr ""
+
+msgid "Input file location:\n"
+msgstr ""
+
+msgid "Input file syntax:\n"
+msgstr ""
+
+msgid ""
+"Input files contain messages in different encodings, %s and %s among others.\n"
+"Converting the output to UTF-8.\n"
+"To select a different output encoding, use the --to-code option.\n"
+msgstr ""
+
+msgid ""
+"Input files contain messages in different encodings, UTF-8 among others.\n"
+"Converting the output to UTF-8.\n"
+msgstr ""
+
+msgid ""
+"Installing GNU libiconv and then reinstalling GNU gettext\n"
+"would fix this problem.\n"
+msgstr ""
+
+msgid "Java compiler not found, try installing gcj or set $JAVAC"
+msgstr ""
+
+msgid "Java virtual machine not found, try installing gij or set $JAVA"
+msgstr ""
+
+msgid "Language specific options:\n"
+msgstr ""
+
+msgid ""
+"Locale charset \"%s\" is different from\n"
+"input file charset \"%s\".\n"
+"Output of '%s' might be incorrect.\n"
+"Possible workarounds are:\n"
+msgstr ""
+
+msgid ""
+"Locale charset \"%s\" is not a portable encoding name.\n"
+"Output of '%s' might be incorrect.\n"
+"A possible workaround is to set LC_ALL=C.\n"
+msgstr ""
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr ""
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+"Similarly for optional arguments.\n"
+msgstr ""
+
+msgid ""
+"Merges two Uniforum style .po files together.  The def.po file is an\n"
+"existing PO file with translations which will be taken over to the newly\n"
+"created file as long as they still match; comments will be preserved,\n"
+"but extracted comments and file positions will be discarded.  The ref.pot\n"
+"file is the last created PO file with up-to-date source references but\n"
+"old translations, or a PO Template file (generally created by xgettext);\n"
+"any translations or comments in the file will be discarded, however dot\n"
+"comments and file positions will be preserved.  Where an exact match\n"
+"cannot be found, fuzzy matching is used to produce better results.\n"
+msgstr ""
+
+msgid "Message selection:\n"
+msgstr ""
+
+msgid ""
+"Message selection:\n"
+"  [-N SOURCEFILE]... [-M DOMAINNAME]...\n"
+"  [-J MSGCTXT-PATTERN] [-K MSGID-PATTERN] [-T MSGSTR-PATTERN]\n"
+"  [-C COMMENT-PATTERN] [-X EXTRACTED-COMMENT-PATTERN]\n"
+"A message is selected if it comes from one of the specified source files,\n"
+"or if it comes from one of the specified domains,\n"
+"or if -J is given and its context (msgctxt) matches MSGCTXT-PATTERN,\n"
+"or if -K is given and its key (msgid or msgid_plural) matches MSGID-PATTERN,\n"
+"or if -T is given and its translation (msgstr) matches MSGSTR-PATTERN,\n"
+"or if -C is given and the translator's comment matches COMMENT-PATTERN,\n"
+"or if -X is given and the extracted comment matches EXTRACTED-COMMENT-PATTERN.\n"
+"\n"
+"When more than one selection criterion is specified, the set of selected\n"
+"messages is the union of the selected messages of each criterion.\n"
+"\n"
+"MSGCTXT-PATTERN or MSGID-PATTERN or MSGSTR-PATTERN or COMMENT-PATTERN or\n"
+"EXTRACTED-COMMENT-PATTERN syntax:\n"
+"  [-E | -F] [-e PATTERN | -f FILE]...\n"
+"PATTERNs are basic regular expressions by default, or extended regular\n"
+"expressions if -E is given, or fixed strings if -F is given.\n"
+"\n"
+"  -N, --location=SOURCEFILE   select messages extracted from SOURCEFILE\n"
+"  -M, --domain=DOMAINNAME     select messages belonging to domain DOMAINNAME\n"
+"  -J, --msgctxt               start of patterns for the msgctxt\n"
+"  -K, --msgid                 start of patterns for the msgid\n"
+"  -T, --msgstr                start of patterns for the msgstr\n"
+"  -C, --comment               start of patterns for the translator's comment\n"
+"  -X, --extracted-comment     start of patterns for the extracted comment\n"
+"  -E, --extended-regexp       PATTERN is an extended regular expression\n"
+"  -F, --fixed-strings         PATTERN is a set of newline-separated strings\n"
+"  -e, --regexp=PATTERN        use PATTERN as a regular expression\n"
+"  -f, --file=FILE             obtain PATTERN from FILE\n"
+"  -i, --ignore-case           ignore case distinctions\n"
+"  -v, --invert-match          output only the messages that do not match any\n"
+"                              selection criterion\n"
+msgstr ""
+
+msgid "Non-ASCII character at %s%s."
+msgstr ""
+
+msgid "Non-ASCII comment at or before %s%s."
+msgstr ""
+
+msgid "Non-ASCII string at %s%s."
+msgstr ""
+
+msgid "Operation mode:\n"
+msgstr ""
+
+msgid "Operation modifiers:\n"
+msgstr ""
+
+msgid "Output details:\n"
+msgstr ""
+
+msgid ""
+"Output file %s already exists.\n"
+"Please specify the locale through the --locale option or\n"
+"the output .po file through the --output-file option.\n"
+msgstr ""
+
+msgid "Output file location in C# mode:\n"
+msgstr ""
+
+msgid "Output file location in Java mode:\n"
+msgstr ""
+
+msgid "Output file location in Tcl mode:\n"
+msgstr ""
+
+msgid "Output file location in update mode:\n"
+msgstr ""
+
+msgid "Output file location:\n"
+msgstr ""
+
+msgid "Output format:\n"
+msgstr ""
+
+msgid "Peter Miller"
+msgstr ""
+
+msgid "Please specify the source encoding through --from-code\n"
+msgstr ""
+
+msgid ""
+"Please specify the source encoding through --from-code or through a comment\n"
+"as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+
+msgid "Please specify the source encoding through --from-code."
+msgstr ""
+
+msgid "Print the machine's hostname.\n"
+msgstr ""
+
+msgid "Recode Serbian text from Cyrillic to Latin script.\n"
+msgstr ""
+
+msgid "Report bugs to <bug-gnu-gettext@gnu.org>.\n"
+msgstr ""
+
+msgid "Retrieving %s..."
+msgstr ""
+
+msgid ""
+"The -l and -d options are mandatory.  The .dll file is located in a\n"
+"subdirectory of the specified directory whose name depends on the locale.\n"
+msgstr ""
+
+msgid ""
+"The -l and -d options are mandatory.  The .dll file is written in a\n"
+"subdirectory of the specified directory whose name depends on the locale.\n"
+msgstr ""
+
+msgid ""
+"The -l and -d options are mandatory.  The .msg file is located in the\n"
+"specified directory.\n"
+msgstr ""
+
+msgid ""
+"The -l and -d options are mandatory.  The .msg file is written in the\n"
+"specified directory.\n"
+msgstr ""
+
+msgid ""
+"The -l, -o, and --template options are mandatory.  If -D is specified, input\n"
+"files are read from the directory instead of the command line arguments.\n"
+msgstr ""
+
+msgid ""
+"The FILTER can be any program that reads a translation from standard input\n"
+"and writes a modified translation to standard output.\n"
+msgstr ""
+
+msgid ""
+"The backup suffix is '~', unless set with --suffix or the SIMPLE_BACKUP_SUFFIX\n"
+"environment variable.\n"
+msgstr ""
+
+msgid ""
+"The character that terminates the directive number %u is not a digit between"
+" 1 and 9."
+msgstr ""
+
+msgid ""
+"The character that terminates the directive number %u is not a valid "
+"conversion specifier."
+msgstr ""
+
+msgid ""
+"The class name is determined by appending the locale name to the resource name,\n"
+"separated with an underscore.  The -d option is mandatory.  The class is\n"
+"written under the specified directory.\n"
+msgstr ""
+
+msgid ""
+"The class name is determined by appending the locale name to the resource name,\n"
+"separated with an underscore.  The class is located using the CLASSPATH.\n"
+msgstr ""
+
+msgid "The default encoding is the current locale's encoding.\n"
+msgstr ""
+
+msgid ""
+"The directive number %u ends with an invalid character '%c' instead of '}'."
+msgstr ""
+
+msgid "The directive number %u ends with an invalid character instead of '}'."
+msgstr ""
+
+msgid "The directive number %u starts with | but does not end with |."
+msgstr ""
+
+msgid ""
+"The following msgctxt contains non-ASCII characters.\n"
+"This will cause problems to translators who use a character encoding\n"
+"different from yours. Consider using a pure ASCII msgctxt instead.\n"
+"%s\n"
+msgstr ""
+
+msgid ""
+"The following msgid contains non-ASCII characters.\n"
+"This will cause problems to translators who use a character encoding\n"
+"different from yours. Consider using a pure ASCII msgid instead.\n"
+"%s\n"
+msgstr ""
+
+msgid ""
+"The input text is read from standard input.  The converted text is output to\n"
+"standard output.\n"
+msgstr ""
+
+msgid ""
+"The new message catalog should contain your email address, so that users can\n"
+"give you feedback about the translations, and so that maintainers can contact\n"
+"you in case of unexpected technical problems.\n"
+msgstr ""
+
+msgid ""
+"The option --msgid-bugs-address was not specified.\n"
+"If you are using a 'Makevars' file, please specify\n"
+"the MSGID_BUGS_ADDRESS variable there; otherwise please\n"
+"specify an --msgid-bugs-address command line option.\n"
+msgstr ""
+
+msgid "The result is written back to def.po.\n"
+msgstr ""
+
+msgid ""
+"The results are written to standard output if no output file is specified\n"
+"or if it is -.\n"
+msgstr ""
+
+msgid "The string contains a lone '}' after directive number %u."
+msgstr ""
+
+msgid "The string ends in the middle of a directive."
+msgstr ""
+
+msgid ""
+"The string ends in the middle of a directive: found '{' without matching "
+"'}'."
+msgstr ""
+
+msgid "The string ends in the middle of a ~/.../ directive."
+msgstr ""
+
+msgid ""
+"The string refers to a shell variable whose value may be different inside "
+"shell functions."
+msgstr ""
+
+msgid "The string refers to a shell variable with a non-ASCII name."
+msgstr ""
+
+msgid "The string refers to a shell variable with an empty name."
+msgstr ""
+
+msgid ""
+"The string refers to a shell variable with complex shell brace syntax. This "
+"syntax is unsupported here due to security reasons."
+msgstr ""
+
+msgid ""
+"The string refers to argument number %u but ignores argument number %u."
+msgstr ""
+
+msgid ""
+"The string refers to argument number %u but ignores the arguments %u and %u."
+msgstr ""
+
+msgid "The string refers to argument number %u in incompatible ways."
+msgstr ""
+
+msgid ""
+"The string refers to arguments both through absolute argument numbers and "
+"through unnumbered argument specifications."
+msgstr ""
+
+msgid ""
+"The string refers to arguments both through argument names and through "
+"unnamed argument specifications."
+msgstr ""
+
+msgid "The string refers to some argument in incompatible ways."
+msgstr ""
+
+msgid "The string refers to the argument named '%s' in incompatible ways."
+msgstr ""
+
+msgid ""
+"The string starts in the middle of a directive: found '}' without matching "
+"'{'."
+msgstr ""
+
+msgid ""
+"The version control method may be selected via the --backup option or through\n"
+"the VERSION_CONTROL environment variable.  Here are the values:\n"
+"  none, off       never make backups (even if --backup is given)\n"
+"  numbered, t     make numbered backups\n"
+"  existing, nil   numbered if numbered backups exist, simple otherwise\n"
+"  simple, never   always make simple backups\n"
+msgstr ""
+
+msgid "Try '%s --help' for more information.\n"
+msgstr ""
+
+msgid "Try using the following, valid for %s:"
+msgstr ""
+
+msgid "Ulrich Drepper"
+msgstr "Ulrich Drepper"
+
+msgid ""
+"Unifies duplicate translations in a translation catalog.\n"
+"Finds duplicate translations of the same message ID.  Such duplicates are\n"
+"invalid input for other programs like msgfmt, msgmerge or msgcat.  By\n"
+"default, duplicates are merged together.  When using the --repeated option,\n"
+"only duplicates are output, and all other messages are discarded.  Comments\n"
+"and extracted comments will be cumulated, except that if --use-first is\n"
+"specified, they will be taken from the first translation.  File positions\n"
+"will be cumulated.  When using the --unique option, duplicates are discarded.\n"
+msgstr ""
+
+msgid "Unknown encoding \"%s\". Proceeding with ASCII instead."
+msgstr ""
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Usage: %s [OPTION]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] COMMAND [COMMAND-OPTION]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] FILTER [FILTER-OPTION]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] INPUTFILE\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] URL FILE\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] [FILE]...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] [INPUTFILE]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] [INPUTFILE]...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] def.po ref.pot\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] filename.po ...\n"
+msgstr ""
+
+msgid "Useful FILTER-OPTIONs when the FILTER is 'sed':\n"
+msgstr ""
+
+msgid "Valid arguments are:"
+msgstr "ནུས་ལྡན་གྱི་ཞུགས་གྲངས་ནི།："
+
+msgid "Written by %s and %s.\n"
+msgstr ""
+
+msgid "Written by %s.\n"
+msgstr ""
+
+msgid ""
+"You are in a language indifferent environment.  Please set\n"
+"your LANG environment variable, as described in the ABOUT-NLS\n"
+"file.  This is necessary so you can test your translations.\n"
+msgstr ""
+
+msgid "_open_osfhandle failed"
+msgstr "_open_osfhandle ཕམ་པ།"
+
+msgid "`"
+msgstr ""
+
+msgid "a format specification for argument %u doesn't exist in '%s'"
+msgstr ""
+
+msgid ""
+"a format specification for argument %u, as in '%s', doesn't exist in '%s'"
+msgstr ""
+
+msgid "a format specification for argument '%s' doesn't exist in '%s'"
+msgstr ""
+
+msgid ""
+"a format specification for argument '%s', as in '%s', doesn't exist in '%s'"
+msgstr ""
+
+msgid "a format specification for argument {%u} doesn't exist in '%s'"
+msgstr ""
+
+msgid ""
+"a format specification for argument {%u}, as in '%s', doesn't exist in '%s'"
+msgstr ""
+
+msgid ""
+"a format specification for arguments %u and %u doesn't exist in '%s', only "
+"one argument may be ignored"
+msgstr ""
+
+msgid "ambiguous argument %s for %s"
+msgstr ""
+
+msgid "ambiguous argument specification for keyword '%.*s'"
+msgstr ""
+
+msgid "at least one sed script must be specified"
+msgstr ""
+
+msgid "at least two files must be specified"
+msgstr ""
+
+msgid "at most one input file allowed"
+msgstr ""
+
+msgid "backup type"
+msgstr ""
+
+msgid "but header entry lacks a \"nplurals=INTEGER\" attribute"
+msgstr ""
+
+msgid "but header entry lacks a \"plural=EXPRESSION\" attribute"
+msgstr ""
+
+msgid "but some messages have one plural form"
+msgid_plural "but some messages have %lu plural forms"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "but some messages have only one plural form"
+msgid_plural "but some messages have only %lu plural forms"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "cannot create a temporary directory using template \"%s\""
+msgstr ""
+
+msgid "cannot create output file \"%s\""
+msgstr ""
+
+msgid "cannot create pipe"
+msgstr "སྦུག་ལམ་གསར་འཛུགས་བྱེད་མི་ཐུབ།"
+
+msgid "cannot find a temporary directory, try setting $TMPDIR"
+msgstr ""
+
+msgid "cannot open backup file %s for writing"
+msgstr "གྲབས་ཉར་ཡིག་ཆ་%sའབྲི་ཐབས་བྲལ།"
+
+msgid "cannot remove temporary directory %s"
+msgstr ""
+
+msgid "cannot remove temporary file %s"
+msgstr ""
+
+msgid "cannot restore fd %d: dup2 failed"
+msgstr "ཡིག་ཆའི་ཞིབ་བརྗོད་རྟགས%d：dup2བསྐྱར་གསོ་ཕམ་པ།"
+
+msgid "cannot set up nonblocking I/O to %s subprocess"
+msgstr ""
+
+msgid "communication with %s subprocess failed"
+msgstr ""
+
+msgid "compilation of C# class failed"
+msgstr ""
+
+msgid "compilation of C# class failed, please try --verbose"
+msgstr ""
+
+msgid "compilation of Java class failed, please try --verbose or set $JAVAC"
+msgstr ""
+
+msgid "compilation of Java class failed, please try to set $JAVAC"
+msgstr ""
+
+msgid "context mismatch between singular and plural form"
+msgstr ""
+
+msgid "context separator <EOT> within string"
+msgstr ""
+
+msgid "could not get host name"
+msgstr ""
+
+msgid "creation of threads failed"
+msgstr ""
+
+msgid ""
+"domain \"%s\" in input file '%s' doesn't contain a header entry with a "
+"charset specification"
+msgstr ""
+
+msgid "domain name \"%s\" not suitable as file name"
+msgstr ""
+
+msgid "domain name \"%s\" not suitable as file name: will use prefix"
+msgstr ""
+
+msgid "duplicate message definition"
+msgstr ""
+
+msgid "empty 'msgstr' entry ignored"
+msgstr ""
+
+msgid "end-of-file within string"
+msgstr ""
+
+msgid "end-of-line within string"
+msgstr ""
+
+msgid "error after reading \"%s\""
+msgstr ""
+
+msgid "error after reading %s"
+msgstr ""
+
+msgid "error reading \"%s\""
+msgstr ""
+
+msgid "error reading %s"
+msgstr ""
+
+msgid "error reading current directory"
+msgstr ""
+
+msgid "error while converting from \"%s\" encoding to \"%s\" encoding"
+msgstr ""
+
+msgid "error while opening \"%s\" for reading"
+msgstr ""
+
+msgid "error while opening \"%s\" for writing"
+msgstr ""
+
+msgid "error while opening %s for reading"
+msgstr ""
+
+msgid "error while parsing: %s"
+msgstr ""
+
+msgid "error while reading \"%s\""
+msgstr ""
+
+msgid "error while writing \"%s\" file"
+msgstr ""
+
+msgid "error while writing to %s subprocess"
+msgstr ""
+
+msgid "error writing %s"
+msgstr ""
+
+msgid "error writing stdout"
+msgstr ""
+
+msgid "exactly 2 input files required"
+msgstr ""
+
+msgid "exactly one input file required"
+msgstr ""
+
+msgid "expected two arguments"
+msgstr ""
+
+msgid "failed to create \"%s\""
+msgstr ""
+
+msgid "failed to create directory \"%s\""
+msgstr ""
+
+msgid "fdopen() failed"
+msgstr ""
+
+msgid "file \"%s\" contains a not NUL terminated string"
+msgstr ""
+
+msgid "file \"%s\" contains a not NUL terminated string, at %s"
+msgstr ""
+
+msgid "file \"%s\" is not in GNU .mo format"
+msgstr ""
+
+msgid "file \"%s\" is truncated"
+msgstr ""
+
+msgid "filter output is not terminated with a newline"
+msgstr ""
+
+msgid "first plural form has nonzero index"
+msgstr ""
+
+msgid "format specifications in '%s' and '%s' are not equivalent"
+msgstr ""
+
+msgid ""
+"format specifications in '%s' and '%s' for argument %u are not the same"
+msgstr ""
+
+msgid ""
+"format specifications in '%s' and '%s' for argument '%s' are not the same"
+msgstr ""
+
+msgid ""
+"format specifications in '%s' and '%s' for argument {%u} are not the same"
+msgstr ""
+
+msgid "format specifications in '%s' are not a subset of those in '%s'"
+msgstr ""
+
+msgid ""
+"format specifications in '%s' expect a mapping, those in '%s' expect a tuple"
+msgstr ""
+
+msgid ""
+"format specifications in '%s' expect a tuple, those in '%s' expect a mapping"
+msgstr ""
+
+msgid "found %d fatal error"
+msgid_plural "found %d fatal errors"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "fuzzy 'msgstr' entry ignored"
+msgstr ""
+
+msgid "header field '%s' missing in header\n"
+msgstr ""
+
+msgid "header field '%s' still has the initial default value\n"
+msgstr ""
+
+msgid "iconv failure"
+msgstr ""
+
+msgid "impossible selection criteria specified (%d < n < %d)"
+msgstr ""
+
+msgid "incomplete multibyte sequence"
+msgstr ""
+
+msgid "incomplete multibyte sequence at end of file"
+msgstr ""
+
+msgid "incomplete multibyte sequence at end of line"
+msgstr ""
+
+msgid "inconsistent use of #~"
+msgstr ""
+
+msgid ""
+"input file '%s' doesn't contain a header entry with a charset specification"
+msgstr ""
+
+msgid "input file doesn't contain a header entry with a charset specification"
+msgstr ""
+
+msgid "input is not valid in \"%s\" encoding"
+msgstr ""
+
+msgid "internationalized messages should not contain the '\\%c' escape sequence"
+msgstr ""
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s ཡི་ཞུགས་གྲངས་ %1$s ནུས་མེད།"
+
+msgid "invalid control sequence"
+msgstr ""
+
+msgid "invalid endianness: %s"
+msgstr ""
+
+msgid "invalid multibyte sequence"
+msgstr ""
+
+msgid "invalid nplurals value"
+msgstr ""
+
+msgid "invalid plural expression"
+msgstr ""
+
+msgid "invalid source_version argument to compile_java_class"
+msgstr ""
+
+msgid "invalid target_version argument to compile_java_class"
+msgstr ""
+
+msgid "keyword \"%s\" unknown"
+msgstr ""
+
+msgid "language '%s' unknown"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid ""
+"message catalog has context dependent translations\n"
+"but the C# .resources format doesn't support contexts\n"
+msgstr ""
+
+msgid ""
+"message catalog has context dependent translations\n"
+"but the Tcl message catalog format doesn't support contexts\n"
+msgstr ""
+
+msgid ""
+"message catalog has context dependent translations, but the output format "
+"does not support them."
+msgstr ""
+
+msgid ""
+"message catalog has msgctxt strings containing characters outside ISO-8859-1\n"
+"but the Qt message catalog format supports Unicode only in the translated\n"
+"strings, not in the context strings\n"
+msgstr ""
+
+msgid ""
+"message catalog has msgid strings containing characters outside ISO-8859-1\n"
+"but the Qt message catalog format supports Unicode only in the translated\n"
+"strings, not in the untranslated strings\n"
+msgstr ""
+
+msgid "message catalog has plural form translations"
+msgstr ""
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the C# .resources format doesn't support plural handling\n"
+msgstr ""
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the Qt message catalog format doesn't support plural handling\n"
+msgstr ""
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the Tcl message catalog format doesn't support plural handling\n"
+msgstr ""
+
+msgid ""
+"message catalog has plural form translations, but lacks a header entry with "
+"\"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\""
+msgstr ""
+
+msgid ""
+"message catalog has plural form translations, but the output format does not"
+" support them."
+msgstr ""
+
+msgid ""
+"message catalog has plural form translations, but the output format does not"
+" support them. Try generating a Java class using \"msgfmt --java\", instead "
+"of a properties file."
+msgstr ""
+
+msgid "missing 'msgid_plural' section"
+msgstr ""
+
+msgid "missing 'msgstr' section"
+msgstr ""
+
+msgid "missing 'msgstr[]' section"
+msgstr ""
+
+msgid "missing command name"
+msgstr ""
+
+msgid "missing filter name"
+msgstr ""
+
+msgid "msgstr has too many keyboard accelerator marks '%c'"
+msgstr ""
+
+msgid "msgstr lacks the keyboard accelerator mark '%c'"
+msgstr ""
+
+msgid "no input file given"
+msgstr ""
+
+msgid "no input file should be given if %s and %s are specified"
+msgstr ""
+
+msgid "no input files given"
+msgstr ""
+
+msgid "not a valid Java class name: %s"
+msgstr ""
+
+msgid "nplurals = %lu"
+msgstr ""
+
+msgid ""
+"nplurals = %lu but plural expression can produce values as large as %lu"
+msgstr ""
+
+msgid "number of format specifications in '%s' and '%s' does not match"
+msgstr ""
+
+msgid ""
+"option '%c' cannot be used before 'J' or 'K' or 'T' or 'C' or 'X' has been "
+"specified"
+msgstr ""
+
+msgid ""
+"plural expression can produce arithmetic exceptions, possibly division by "
+"zero"
+msgstr ""
+
+msgid "plural expression can produce division by zero"
+msgstr ""
+
+msgid "plural expression can produce integer overflow"
+msgstr ""
+
+msgid "plural expression can produce negative values"
+msgstr ""
+
+msgid "plural form has wrong index"
+msgstr ""
+
+msgid "plural handling is a GNU gettext extension"
+msgstr ""
+
+msgid "present charset \"%s\" is not a portable encoding name"
+msgstr ""
+
+msgid "preserving permissions for %s"
+msgstr " %sཡི་དབང་ཚད་ཉར་བཞིན་པ།"
+
+msgid "read from %s subprocess failed"
+msgstr ""
+
+msgid "sentence end type '%s' unknown"
+msgstr ""
+
+msgid "setting permissions for %s"
+msgstr "%s ཡི་དབང་ཚད་སྒྲིག་པ"
+
+msgid "space before ellipsis found in user visible strings"
+msgstr ""
+
+msgid "standard input"
+msgstr "ཚད་ལྡན་ནང་འཇུག"
+
+msgid "standard output"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན།"
+
+msgid "syntax check '%s' unknown"
+msgstr ""
+
+msgid "target charset \"%s\" is not a portable encoding name."
+msgstr ""
+
+msgid "the argument to %s should be a single punctuation character"
+msgstr ""
+
+msgid "this file may not contain domain directives"
+msgstr ""
+
+msgid "this is the location of the first definition"
+msgstr ""
+
+msgid "this message is untranslated"
+msgstr ""
+
+msgid "this message is used but not defined in %s"
+msgstr ""
+
+msgid "this message is used but not defined..."
+msgstr ""
+
+msgid "this message needs to be reviewed by the translator"
+msgstr ""
+
+msgid "this message should define plural forms"
+msgstr ""
+
+msgid "this message should not define plural forms"
+msgstr ""
+
+msgid "too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "too many errors, aborting"
+msgstr ""
+
+msgid "two different charsets \"%s\" and \"%s\" in input file"
+msgstr ""
+
+msgid "warning: "
+msgstr "ཐ་ཚིག"
+
+msgid "warning: PO file header fuzzy\n"
+msgstr ""
+
+msgid "warning: PO file header missing or invalid\n"
+msgstr ""
+
+msgid "warning: charset conversion will not work\n"
+msgstr ""
+
+msgid "warning: file '%s' extension '%s' is unknown; will try C"
+msgstr ""
+
+msgid "warning: invalid Unicode character"
+msgstr ""
+
+msgid "warning: invalid \\uxxxx syntax for Unicode character"
+msgstr ""
+
+msgid "warning: missing context for keyword '%.*s'"
+msgstr ""
+
+msgid "warning: missing context for plural argument of keyword '%.*s'"
+msgstr ""
+
+msgid "warning: older versions of msgfmt will give an error on this\n"
+msgstr ""
+
+msgid "warning: syntax error"
+msgstr ""
+
+msgid "warning: syntax error, expected ';' after string"
+msgstr ""
+
+msgid "warning: syntax error, expected '=' or ';' after string"
+msgstr ""
+
+msgid "warning: this message is not used"
+msgstr ""
+
+msgid "warning: unterminated key/value pair"
+msgstr ""
+
+msgid "warning: unterminated string"
+msgstr ""
+
+msgid "write error"
+msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+
+msgid "write to %s subprocess failed"
+msgstr ""
+
+msgid "write to stdout failed"
+msgstr ""
+
+msgid "xgettext cannot work without keywords to look for"
+msgstr ""
