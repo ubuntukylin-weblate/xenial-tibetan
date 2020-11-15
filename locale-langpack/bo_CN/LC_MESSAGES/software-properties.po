@@ -1,0 +1,587 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " "
+msgstr " "
+
+msgid "    "
+msgstr "NaN"
+
+msgid " More info: %s"
+msgstr "ཆ་འཕྲིན་དེ་ལས་མང་བ།： %s"
+
+msgid "%(count)d proprietary driver in use."
+msgid_plural "%(count)d proprietary drivers in use."
+msgstr[0] "ཆེད་སྤྱོད་སྐུལ་སློང་ %(count)d སྤྱོད་བཞིན་པའི་སྒང་ཡིན།"
+msgstr[1] "ཆེད་སྤྱོད་སྐུལ་སློང་ %(count)d སྤྱོད་བཞིན་པའི་སྒང་ཡིན།"
+
+msgid "%s (%s)"
+msgstr "%s(%s)"
+
+msgid "%s Software"
+msgstr "%s མཉེན་ཆས།"
+
+msgid "%s updates"
+msgstr "%s གསར་སྒྱུར།"
+
+msgid "'%s' distribution component disabled for all sources."
+msgstr ""
+"ཁུངས་ཚང་མར“%s” འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་སྤྱོད་མི་ཆོག་པ་བཟོས་ཡོད།"
+
+msgid "'%s' distribution component enabled for all sources."
+msgstr "ཁུངས་ཚང་མར“%s” འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་སྤྱོད་འགོ་ཚུགས་ཡོད།"
+
+msgid "'%s' distribution component is already disabled for all sources."
+msgstr ""
+"ཁུངས་ཚང་མར“%s” འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་སྤྱོད་མི་ཆོག་པ་བཟོས་ཟིན།"
+
+msgid "'%s' distribution component is already enabled for all sources."
+msgstr "ཁུངས་ཚང་མར“%s” འགྲེམས་སྤེལ་པར་གཞིའི་སྒྲིག་ལྷུ་སྤྱོད་འགོ་ཚུགས་ཟིན།"
+
+msgid "(Source Code)"
+msgstr "(ཁུངས་ཚབ་ཨང་།)"
+
+msgid ""
+"<b><big>Testing download servers</big></b>\n"
+"\n"
+"A series of tests will be performed to find the best mirror for your location."
+msgstr ""
+
+msgid ""
+"<b><big>The information about available software is out-of-date</big></b>\n"
+"\n"
+"To install software and updates from newly added or changed sources, you have to reload the information about available software.\n"
+"\n"
+"You need a working internet connection to continue."
+msgstr ""
+
+msgid "<b>Comment:</b>"
+msgstr "<b>མཆན་འགྲེལ།：</b>"
+
+msgid "<b>Components:</b>"
+msgstr "<b>སྒྲིག་ལྷུ།：</b>"
+
+msgid "<b>Distribution:</b>"
+msgstr "<b>འགྲེམ་སྤེལ་པར་གཞི།：</b>"
+
+msgid "<b>Downloadable from the Internet</b>"
+msgstr "<b>སྦྲེལ་དྲ་ནས་ཕབ་ལེན་བྱས་ཆོག：</b>"
+
+msgid "<b>Installable from CD-ROM/DVD</b>"
+msgstr "<b>འོད་སྐུལ་ནས་སྒྲིག་འཇུག་བྱས་ཆོག：</b>"
+
+msgid "<b>Trusted software providers</b>"
+msgstr "<b>ཡིད་རྟོན་རུང་བའི་མཉེན་ཆས་མཁོ་འདོན་མཁན།：</b>"
+
+msgid "<b>Type:</b>"
+msgstr "<b>རིགས་གྲས།：</b>"
+
+msgid "<b>URI:</b>"
+msgstr "<b>དྲ་གནས།：</b>"
+
+msgid ""
+"<big><b>Enter the complete APT line of the repository that you want to add "
+"as source</b></big>"
+msgstr ""
+"<big><b>ཁྱེད་ཀྱིས་ཁ་སྣོན་འདོད་པའི་ཁུངས་ནང་འཇུག་བྱོས། "
+"མཉེན་ཆས་མཛོད་འདིའི་APTརྣམ་གཞག་ཕྲེང་</b></big>ཆ་ཚང་།"
+
+msgid ""
+"<i>To improve the user experiece of Debian please take part in the popularity contest. If you do so the list of installed software and how often it was used will be collected and sent anonymously to the Debian project.\n"
+"\n"
+"The results are used to optimise the layout of the installation CDs."
+msgstr ""
+
+msgid ""
+"<i>To improve the user experience of Ubuntu please take part in the popularity contest. If you do so the list of installed software and how often it was used will be collected and sent anonymously to the Ubuntu project on a weekly basis.\n"
+"\n"
+"The results are used to improve the support for popular applications and to rank applications in the search results.</i>"
+msgstr ""
+
+msgid ""
+"<small>A proprietary driver has private code that Ubuntu developers can't "
+"review or improve. Security and other updates are dependent on the driver "
+"vendor.</small>"
+msgstr ""
+
+msgid "A new copy will be downloaded."
+msgstr "ཡང་བསྐྱར་ཕབ་ལེན་བྱེད་སྲིད།"
+
+msgid "APT line:"
+msgstr "APECཕྲེང་།"
+
+msgid "Active"
+msgstr "འགུལ་སྟངས།"
+
+msgid "Add Software Channels"
+msgstr "མཉེན་ཆས་ཟློས་ལམ་ཁ་སྣོན།"
+
+msgid "Add Volume..."
+msgstr "བམ་པོ་ཁ་སྣོན།"
+
+msgid "Add..."
+msgstr "སྣོན།..."
+
+msgid "Additional Drivers"
+msgstr "སྐུལ་སློང་ཟུར་སྣོན།"
+
+msgid "Allow downloading of the source packages from the repository"
+msgstr "མཛོད་ཁང་ནས་ཁུངས་ཀྱི་ཁུག་མ་ཕབ་ཆོག་པ།"
+
+msgid "An error occurred while searching for drivers."
+msgstr "སྐུལ་སློང་བཤེར་འཚོལ་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Applying changes..."
+msgstr "བཟོ་བཅོས་ཉེར་སྤྱོད་བྱེད་བཞིན་པ།"
+
+msgid "Assume yes to all queries"
+msgstr "གནད་དོན་ཚང་མར་ཡིན་ཞེས་པའི་ལན་གཏན་འཁེལ་བྱས་ཡོད།"
+
+msgid "Authentication"
+msgstr "ཐོབ་ཐང་ཞིབ་བཤེར།"
+
+msgid "Automatically check for updates:"
+msgstr "རང་འགུལ་ཞིབ་བཤེར་གསར་སྒྱུར།："
+
+msgid "Binary"
+msgstr "གཉིས་གོང་འགྲིལ་ལུགས་"
+
+msgid "CD Error"
+msgstr "འོད་སྡེར་ནོར་འཁྲུལ།"
+
+msgid "CD Name"
+msgstr "འོད་སྡེར་གྱི་མིང་།"
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Canceling..."
+msgstr "འདོར་བ།..."
+
+msgid "Choose _Server"
+msgstr "ཞབས་ཞུ་ཆས་འདེམ་པ།(_S)"
+
+msgid "Choose a Download Server"
+msgstr "ཕབ་ལེན་ཞབས་ཞུ་ཆས་འདེམ་པ།"
+
+msgid "Completed %s of %s tests"
+msgstr "%s ཚོད་རྒྱུགས་ལེགས་འགྲུབ་བྱུང་ཞིང་།བསྡོམས་པས་%s ཡོད།"
+
+msgid "Configure the sources for installable software and updates"
+msgstr ""
+
+msgid "Continue using a manually installed driver"
+msgstr "མུ་མཐུད་དུ་ལག་སྒུལ་གྱིས་སྒྲིག་འཇུག་བྱེད་པའི་སྐུལ་འདེད།"
+
+msgid "Could not find a suitable CD."
+msgstr "འོས་འཚམ་གྱི་CDརྙེད་མ་ཐུབ།"
+
+msgid "Daily"
+msgstr ""
+
+msgid "Developer Options"
+msgstr "གསར་སྤེལ་མཁན་གྱི་འདེམས་བྱང་།"
+
+msgid "Display every two weeks"
+msgstr "གཟའ་འཁོར་གཉིས་རེར་ཐེངས་གཅིག་འཆར་བ།"
+
+msgid "Display immediately"
+msgstr "འཕྲལ་མར་འཆར་བ།"
+
+msgid "Display weekly"
+msgstr "གཟའ་འཁོར་རེར་ཐེངས་གཅིག་འཆར་བ།"
+
+msgid "Do not use the device"
+msgstr "སྒྲིག་ཆས་བཀོལ་སྤྱོད་མི་བྱེད་པ།"
+
+msgid "Download and install automatically"
+msgstr "རང་འགུལ་ཕབ་ལེན་དང་སྒྲིག་འཇུག"
+
+msgid "Download automatically"
+msgstr "རང་འགུལ་ཕབ་ལེན།"
+
+msgid "Download from:"
+msgstr "ཕབ་ལེན་བྱ་ཡུལ།"
+
+msgid "Drivers;Repositories;Repository;PPA;"
+msgstr ""
+"Dedvers Repesitories） Repesitory PPA མཉེན་ཆས་དང་གསར་སྒྱུར། སྐུལ་བ། "
+"མཉེན་ཆས་མཛོད་ཁང་།"
+
+msgid "Edit Source"
+msgstr "རྩོམ་སྒྲིག་གི་ཁུངས།"
+
+msgid "Edit..."
+msgstr "རྩོམ་སྒྲིག..."
+
+msgid "Enable PPA with the given name"
+msgstr "དམིགས་འཛུགས་ཀྱི་མིང་ལ་བརྟེན་ནས་PPAསྤྱོད་རྒྱུ།"
+
+msgid "Enable the specified component of the distro's repositories"
+msgstr ""
+"འགྲེམས་སྤེལ་པར་གཞི་དེའི་མཉེན་ཆས་མཛོད་ཁང་གི་དམིགས་འཛུགས་སྒྲིག་ལྷུ་སྤྱོད་འགོ་རྩོམ།"
+
+msgid "Enter the complete APT line of the repository that you want to add."
+msgstr "ཁ་སྣོན་བྱེད་དགོས་པའི་མཉེན་ཆས་ཁུངས་ཀྱི་ཆ་ཚང་བའི་PTཕྲེང་ནང་འཇུག་བྱོས།"
+
+msgid "Error importing key"
+msgstr "གསང་ལྡེ་འདྲེན་འཇུག་ནོར་འཁྲུལ།"
+
+msgid "Error importing selected file"
+msgstr "ཡིག་ཆ་འདྲེན་འཇུག་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error removing the key"
+msgstr "གསང་ལྡེ་མིག་བསུབ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error scanning the CD"
+msgstr "བཤར་འབེབས་འོད་སྡེར་ནོར་འཁྲུལ།"
+
+msgid "Error: '%s' doesn't exist in a sourcelist file"
+msgstr "ནོར་འཁྲུལ།“%s”མཉེན་ཆས་ཁུངས་ཀྱི་རེའུ་མིག་གི་ཡིག་ཆར་མི་གནས་པ།"
+
+msgid "Error: '%s' invalid"
+msgstr "ནོར་འཁྲུལ།'%s' ནུས་མེད།"
+
+msgid "Error: must run as root"
+msgstr "ནོར་འཁྲུལ།ངེས་པར་དུ་ root ཐོབ་ཐང་སྤྱད་ནས་འཁོར་སྐྱོད་བྱེད་དགོས།"
+
+msgid "Error: need a repository as argument"
+msgstr "ནོར་འཁྲུལ། མཉེན་ཆས་མཛོད་ཁང་ཞིག་ཞུགས་གྲངས་བྱེད་དགོས།"
+
+msgid "Error: need a single repository as argument"
+msgstr "ནོར་འཁྲུལ། མཉེན་ཆས་ཁེར་རྐྱང་གི་མཛོད་ཁང་ཞུགས་གྲངས་བྱེད་དགོས།"
+
+msgid "Every %s days"
+msgstr "ཉིན་%sརེ།"
+
+msgid "Every two days"
+msgstr "ཉིན་གཉིས་རེ།"
+
+msgid "Every two weeks"
+msgstr "གཟའ་འཁོར་གཉིས་རེ།"
+
+msgid "For any new version"
+msgstr "པར་གཞི་གསར་པ་གང་རུང་ལ་སྤྱད་འཐུས།"
+
+msgid "For long-term support versions"
+msgstr "ཡུན་རིང་གི་རྒྱབ་སྐྱོར་པར་གཞི་སྤྱད་འཐུས།"
+
+msgid "Import key"
+msgstr "གསང་ལྡེ་འདྲེན་འཇུག"
+
+msgid "Import the public key from a trusted software provider"
+msgstr ""
+"ཡིད་རྟོན་རུང་བའི་མཉེན་ཆས་མཁོ་འདོན་བྱེད་མཁན་ནས་གསང་བའི་ལྡེ་མིག་འདྲེན་འཇུག་བྱེད་པ།"
+
+msgid ""
+"Include the type, location and components of the repository. Example: %s"
+msgstr "རིགས་དང་གནས་ཡུལ།རིགས་དབྱེ་འདུས་པ། དཔེར་ན།：%s"
+
+msgid "Insert Disk"
+msgstr "འོད་སྡེར་ནང་དུ་བཞག"
+
+msgid "Install software additionally or only from this source?"
+msgid_plural "Install software additionally or only from these sources?"
+msgstr[0] ""
+"ཟུར་སྣོན་མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད་དམ་ཡང་ན་འབྱུང་ཁུངས་དེ་དག་ཁོ་ན་ནས་སྒྲིག་འཇུག་བྱེད་དམ།"
+msgstr[1] ""
+"ཟུར་སྣོན་མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད་དམ་ཡང་ན་འབྱུང་ཁུངས་དེ་དག་ཁོ་ན་ནས་སྒྲིག་འཇུག་བྱེད་དམ།"
+
+msgid "Install updates from:"
+msgstr "གཤམ་གསལ་གྱི་གནས་ཡུལ་དུ་སྒྲིག་འཇུག་དང་གསར་སྒྱུར་བྱ་རྒྱུ།"
+
+msgid "Key"
+msgstr "གསང་ལྡེ།"
+
+msgid ""
+"Keys are used to authenticate the correct source of software and so protect "
+"your computer from malicious software"
+msgstr ""
+"གསང་ལྡེ་མཉེན་ཆས་ཀྱི་ཁུངས་ཀྱི་ཡང་དག་པའི་རང་བཞིན་ར་སྤྲོད་ལ་སྤྱད་ནས་ཁྱེད་རང་གི་རྩིས་འཁོར་དེ་ངན་སེམས་ཅན་གྱི་མཉེན་ཆས་དང་རྒྱང་རིང་དུ་གཏོང་དགོས།"
+
+msgid "Mirror"
+msgstr "ཤེལ་བརྙན།"
+
+msgid "Never"
+msgstr "གཏན་ནས་མི་བྱེད།"
+
+msgid "New mirror"
+msgstr "ཤེལ་བརྙན་གསར་པ།"
+
+msgid "No additional drivers available."
+msgstr "སྤྱོད་རུང་གི་ཟུར་སྣོན་སྐུལ་འདེད་མེད་པ།"
+
+msgid "No proprietary drivers are in use."
+msgstr "གཅིག་པུར་དབང་བའི་སྐུལ་འདེད་མ་བཀོལ་བ།"
+
+msgid "No suitable download server was found"
+msgstr "འོས་འཚམ་གྱི་ཕབ་ལེན་ཞབས་ཞུ་ཆས་རྙེད་མ་བྱུང་།"
+
+msgid ""
+"No update on repository change (useful if called from an external program)"
+msgstr ""
+"མཉེན་ཆས་མཛོད་ཁང་བཟོ་བཅོས་བྱས་རྗེས་གསར་སྒྱུར་བྱས་མེད་པ།（ཕྱིའི་བྱ་རིམ་འདོན་སྤྱོད་སྐབས་དགོས་མཁོ་ཡོད་པ།）"
+
+msgid "Notify me of a new Ubuntu version:"
+msgstr "པར་གཞི་གསར་པ་ཡོད་དུས་ང་ལ་བརྡ་ཐོ་གཏོང་རོགས།"
+
+msgid "Other Software"
+msgstr "མཉེན་ཆས་གཞན་དག"
+
+msgid "Other..."
+msgstr "གཞན..."
+
+msgid "Performs a connection test to find the best mirror for your location"
+msgstr ""
+"འབྲེལ་མཐུད་ཚོད་ལྟ་བྱས་པ་བརྒྱུད་ཡག་ཤོས་ཀྱི་ཤེལ་བརྙན་གཏན་འཁེལ་བྱ་རྒྱུ་ཡིན་པ།"
+
+msgid "Please check your Internet connection."
+msgstr "ཁྱེད་རང་གི་དྲ་སྦྲེལ་འབྲེལ་མཐུད་ལ་ཞིབ་བཤེར་གནང་རོགས།"
+
+msgid "Please enter a name for the disc"
+msgstr "འོད་སྡེར་འདིར་མིང་ཞིག་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "Please insert a disk in the drive:"
+msgstr "འོད་སྡེར་འོད་སྐུལ་འཇོག་རོགས།"
+
+msgid "Press [ENTER] to continue or ctrl-c to cancel adding it"
+msgstr "འབེབ་མཐེབ་མནན་ནས་མུ་མཐུད་དམ་ཡང་ན་Cedl+cཡིས་ཁ་སྣོན་འདོར་བ།"
+
+msgid "Press [ENTER] to continue or ctrl-c to cancel removing it"
+msgstr ""
+"[ENTER]མནན་ན་མུ་མཐུད་དུ་བཀོལ་སྤྱོད་བྱེད་པ་དང་། ctrl-c "
+"མནན་ནས་བསུབ་པའི་བཀོལ་སྤྱོད་འདོར་ཆོག"
+
+msgid "Print a lot of debug information to the command line"
+msgstr "“ཚོད་སྒྲིག་ཆ་འཕྲིན་མང་པོ་ཞིག་བཀའ་བརྡའི་ཕྲེང་དུ་ཕྱིར་འདོན།”"
+
+msgid "Print some debug information to the command line"
+msgstr "ཚོད་སྒྲིག་ཆ་འཕྲིན་བཀའ་བརྡའི་ཕྲེང་དུ་པར་འདེབས།"
+
+msgid ""
+"Proposed updates are only for testing updates and providing development "
+"feedback. Enabling this may introduce instability."
+msgstr ""
+
+msgid "Protocol:"
+msgstr "འཕྲིན་གཏོང་གྲོས་མཐུན།:"
+
+msgid "Re_vert"
+msgstr "སླར་གསོ། (_V)"
+
+msgid "Reload"
+msgstr "བསྐྱར་འཇུག"
+
+msgid "Restore _Defaults"
+msgstr "སོར་བཞག་གྲངས་ཐང་སླར་གསོ།(_D)"
+
+msgid "Restore the default keys of your distribution"
+msgstr "འགྲེམས་སྤེལ་པར་གཞིར་སྔོན་བཀོད་ཀྱི་གསང་བའི་ལྡེ་མིག་སླར་གསོ་བྱེད་པ།"
+
+msgid "Scanning CD-ROM"
+msgstr "འོད་སྐུལ་བཤར་འབེབས་བྱེད་བཞིན་པ།"
+
+msgid "Searching for available drivers..."
+msgstr "སྤྱོད་རུང་གི་སྐུལ་འདེད་འཚོལ་ཞིབ་བྱེད་བཞིན་པ།"
+
+msgid "Software & Updates"
+msgstr ""
+
+msgid "Software Sources"
+msgstr "མཉེན་ཆས་ཁུངས།"
+
+msgid "Source"
+msgstr "ཁུངས།"
+
+msgid "Source Code"
+msgstr "ཁུངས་ཀྱི་ཚབ་ཨང་།"
+
+msgid "Source code"
+msgstr "ཁུངས་ཚབ་ཨང་།"
+
+msgid ""
+"Submit the list of installed software and how often it is is used to the "
+"distribution project."
+msgstr ""
+"འགྲེམས་སྤེལ་རྣམ་པའི་རྣམ་གྲངས་ལ་རྒྱུད་ཁོངས་སྒྲིག་འཇུག་བྱེད་པའི་མཉེན་ཆས་རེའུ་མིག་དང་དེའི་བཀོལ་སྤྱོད་ཀྱི་ཟློས་ཕྱོད།"
+
+msgid "Testing Mirrors"
+msgstr "ཤེལ་བརྙན་ས་ཚུགས་ལ་ཚོད་ལྟ་བྱེད།"
+
+msgid ""
+"The --enable-component/-e command-line switch has been deprecated. Instead of 'software-properties-gtk -e multiverse' you can use \n"
+"'add-apt-repository multiverse'"
+msgstr ""
+
+msgid ""
+"The APT line includes the type, location and components of a repository, for"
+" example  '%s'."
+msgstr ""
+"MTTརྣམ་གཞག་ཕྲེང་དུ་མཉེན་ཆས་མཛོད་ཁང་གི་རིགས་དང་།འགྲོ་ལམ།སྒྲིག་ལྷུ།དཔེར་ན།“%s”ལྟ་བུ་ཚུད་ཡོད།"
+
+msgid "The file '%s' does not contain any valid software sources."
+msgstr "ཡིག་ཆ“%s”ཡི་ཁྲོད་དུ་སྤྱོད་རུང་གི་མཉེན་ཆས་ཀྱི་ཁུངས་ཅི་ཡང་མེད་པ།"
+
+msgid ""
+"The key you selected could not be removed. Please report this as a bug."
+msgstr ""
+"ཁྱེད་ཀྱིས་བདམས་པའི་གསང་བའི་ལྡེ་མིག་བསུབ་ཐབས་མེད། "
+"འདི་bugལ་རྩིས་ནས་གོང་སྤྲོད་གནང་རོགས།"
+
+msgid "The selected data may not be a GPG key file or it might be corrupt."
+msgstr ""
+"འདེམ་པའི་གཞི་གྲངས་ནི་ཕལ་ཆེར་GPGགསང་བའི་ལྡེ་མིག་ཅིག་མིན་པའམ་ཡང་ན་དེ་ལ་སྐྱོན་བྱུང་འདུག"
+
+msgid "The selected file may not be a GPG key file or it might be corrupt."
+msgstr "བདམས་པའི་ཡིག་ཆ་ནི་GPGགསང་ལྡེ་ཡིག་ཆ་མིན་པའམ་སྐྱོན་ཤོར་བ།"
+
+msgid "There are no sources to install software from"
+msgstr "སྤྱོད་རུང་གི་མཉེན་ཆས་ཁུངས་མེད་པ།"
+
+msgid "This device is not working."
+msgstr "སྒྲིག་ཆས་འདིས་ལས་ཀ་མི་བྱེད་པ།"
+
+msgid "This device is using a manually-installed driver."
+msgstr ""
+"སྒྲིག་ཆས་འདིས་ལག་འགུལ་གྱིས་སྒྲིག་འཇུག་བྱེད་པའི་སྐུལ་ཤུགས་བཀོལ་བཞིན་ཡོད།"
+
+msgid "This device is using an alternative driver."
+msgstr "སྒྲིག་ཆས་འདིས་གྲབས་འདེམ་སྒུལ་ཤུགས་བཀོལ་བཞིན་ཡོད།"
+
+msgid "This device is using the recommended driver."
+msgstr "སྒྲིག་ཆས་འདིས་འོས་སྦྱོར་གྱི་སྐུལ་འདེད་བཀོལ་བཞིན་ཡོད།"
+
+msgid "To change software repository settings, you need to authenticate."
+msgstr ""
+"མཉེན་ཆས་ཁུངས་ཀྱི་བཀོད་སྒྲིག་བཅོས་དགོས་ན། ཁྱེད་ཀྱི་ཐོབ་ཐང་ངོས་འཛིན་བྱ་དགོས།"
+
+msgid "To install from a CD-ROM or DVD, insert the medium into the drive."
+msgstr "འོད་སྐུལ་ནས་སྒྲིག་འཇུག་བྱེད་དགོས་པས་འོད་སྡེར་སྐུལ་ཆས་ནང་དུ་འཇོག་རོགས།"
+
+msgid "URL of keyserver"
+msgstr "གསང་བའི་ལྡེ་མིག་ཞབས་ཞུ་ཆས་སྦྲེལ་མཐུད།"
+
+msgid "URL of keyserver. Default: %default"
+msgstr "གསང་བའི་ལྡེ་མིག་ཞབས་ཞུ་འཕྲུལ་ཆས་URL སོར་བཞག：%default"
+
+msgid "Ubuntu Archive Automatic Signing Key (2012) <ftpmaster@ubuntu.com>"
+msgstr ""
+"Ubuntunམཉེན་ཆས་ཀྱི་ཁུངས་ཀྱིས་རང་འགུལ་ངང་གསང་བའི་ལྡེ་མིག་(2012) "
+"<ftpmaster@ubuntu.com>\"ལ་མིང་རྟགས་འགོད་ཐུབ།"
+
+msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+msgstr ""
+"Ubuntusམཉེན་ཆས་ཁུངས་ཀྱིས་རང་འགུལ་ངང་གསང་བའི་ལྡེ་མིག་<ftpmaster@ubuntu.com>\"ལ་མིང་རྟགས་འགོད་ཐུབ།"
+
+msgid "Ubuntu CD Image Automatic Signing Key (2012) <cdimage@ubuntu.com>"
+msgstr ""
+"Ubuntusའོད་སྡེར་སྣང་བརྙན་ལ་རང་འགུལ་ངང་གསང་བའི་ལྡེ་མིག་(2012) "
+"<cdimage@ubuntu.com>\"ལ་མིང་རྟགས་འགོད་ཐུབ།"
+
+msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+msgstr ""
+"Ubuntusའོད་སྡེར་གཟུགས་བརྙན་གྱིས་རང་འགུལ་ངང་གསང་བའི་ལྡེ་མིག་ལ་མིང་རྟགས་བཀོད་ཆོག<cdimage@ubuntu.com>\""
+
+msgid "Ubuntu Extras Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+msgstr ""
+"UbuntuExtrasམཉེན་ཆས་ཀྱི་འབྱུང་ཁུངས་ནས་རང་འགུལ་ངང་གསང་བའི་ལྡེ་མིག་ལ་མིང་རྟགས་འགོད་ཆོག<<cdimage@ubuntu.com>\""
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Update package cache after adding"
+msgstr "ཁ་སྣོན་བྱས་རྗེས་གསར་སྒྱུར་མཉེན་ཆས་ཁུག་མ་འགྱངས་གསོག"
+
+msgid "Updates"
+msgstr "གསར་སྒྱུར།"
+
+msgid "Using {}"
+msgstr "བཀོལ་སྤྱོད། {}"
+
+msgid "Using {} from {}"
+msgstr "བཀོལ་སྤྱོད།{} ནས་འོང་བ། {}"
+
+msgid "Weekly"
+msgstr "གཟའ་འཁོར་རེར།"
+
+msgid "When there are other updates:"
+msgstr "གསར་སྒྱུར་གཞན་དག་ཡོད་པའི་སྐབས་སུ།"
+
+msgid "When there are security updates:"
+msgstr "བདེ་འཇགས་གསར་སྒྱུར་ཡོད་པའི་སྐབས་སུ།"
+
+msgid "Win ID to act as a dialogue for"
+msgstr "WinIDཡིན་པའི་གླེང་སྒྲོམ།"
+
+msgid "Write Configuration"
+msgstr "སྒྲིག་འགོད་འབྲི་བ།"
+
+msgid ""
+"You can either add the following sources or replace your current sources by "
+"them. Only install software from trusted sources."
+msgstr ""
+"ཁྱེད་ཀྱིས་གཤམ་གྱི་ཁུངས་ཁ་སྣོན་ནམ་ཡང་ན་ཁྱེད་ཀྱི་མིག་སྔའི་ཁུངས་ལ་བརྗེ་ཆོག "
+"ཁྱེད་རང་གིས་ཡིད་རྟོན་རུང་བའི་ཁུངས་ཁོ་ནར་མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད་རོགས།"
+
+msgid "You need to restart the computer to complete the driver changes."
+msgstr "ཁྱེད་ཀྱིས་རྩིས་འཁོར་བསྐྱར་འབྱེད་བྱས་ནས་སྐུལ་འདེད་བཟོ་བཅོས་ཚར་བར་བྱོས།"
+
+msgid "Your local copy of the software catalog is out of date."
+msgstr "ཁྱེད་རང་གི་ས་གནས་དེ་གའི་མཉེན་ཆས་ཀྱི་ཆ་འཕྲིན་གསལ་བྱང་དང་དུས་ཡོལ།"
+
+msgid "_Add Source"
+msgstr "ཁུངས་ཁ་སྣོན།(_A)"
+
+msgid "_Add key from paste data"
+msgstr "དྲས་སྦྱར་པང་གི་གཞི་གྲངས་ཁྲོད་དུ་གསང་བའི་ལྡེ་མིག་བསྣན་པ།(_A)"
+
+msgid "_Apply Changes"
+msgstr "ཉེར་སྤྱོད་བཅོས་བསྒྱུར།(_A)"
+
+msgid "_Cancel"
+msgstr "ལེན་པ། (_C)"
+
+msgid "_Import Key File..."
+msgstr "གསང་ལྡེའི་ཡིག་ཆ་འདྲེན་འཇུག(_I)..."
+
+msgid "_Reload"
+msgstr " བསྐྱར་འགེལ།(_R)"
+
+msgid "_Replace"
+msgstr "ཚབ་བརྗེ།(_R)"
+
+msgid "_Restart..."
+msgstr "ཡང་བསྐྱར་འགོ་སློང་བ།(_R)..."
+
+msgid "_Select Best Server"
+msgstr "ཞབས་ཞུ་ཆས་ལེགས་ཤོས་འདེམ་པ།(_S)"
+
+msgid "data directory for UI files"
+msgstr "UIཡིག་ཆའི་གཞི་གྲངས་དཀར་ཆག"
+
+msgid "open source"
+msgstr "ཁུངས་འབྱེད།"
+
+msgid "proprietary"
+msgstr "ཆེད་དབང་།"
+
+msgid "remove repository from sources.list.d directory"
+msgstr "sources.list.d དཀར་ཆག་ནས་མཛོད་ཁང་དུ་འབུད་པ།”"
+
+msgid "{base_description} ({licence})"
+msgstr ""
+
+msgid "{base_description} ({licence}, tested)"
+msgstr ""

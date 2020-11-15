@@ -1,0 +1,265 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "A system log viewer for GNOME."
+msgstr "GNOME རྒྱུད་ཁོངས་ཉིན་ཐོའི་ལྟ་ཆས།"
+
+msgid "About System Log"
+msgstr "རྒྱུད་ཁོངས་ཉིན་ཐོའི་སྐོར།"
+
+msgid "Add new filter"
+msgstr "འཚག་ཆས་གསར་པ་སྣོན་པ།"
+
+msgid "Auto Scroll"
+msgstr "རང་འགུལ་འགྲིལ་བ།"
+
+msgid "Background:"
+msgstr "རྒྱབ་ལྗོངས།:"
+
+msgid "Can't read from \"%s\""
+msgstr ""
+
+msgid "Close"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "Copy"
+msgstr "འདྲ་བཟོ།"
+
+msgid "Could not open the following files:"
+msgstr "གཤམ་གྱི་ཡིག་ཆ་ཁ་ཕྱེ་མི་ཐུབ་པ།："
+
+msgid "Could not parse arguments"
+msgstr "ཞུགས་གྲངས་ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not register the application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ཐོ་འགོད་བྱེད་ཐབས་བྲལ།"
+
+msgid "Edit filter"
+msgstr "འཚག་ཆས་རྩོམ་སྒྲིག"
+
+msgid "Effect:"
+msgstr "འབྲས་བུ།:"
+
+msgid "Error while uncompressing the GZipped log. The file might be corrupt."
+msgstr ""
+"ཉིན་ཐོ Gzipped བསྡུས་འགྲོལ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ། "
+"ཡིག་ཆ་འདི་ཕལ་ཆེར་སྐྱོན་ཤོར་འདུག"
+
+msgid "Filter name is empty!"
+msgstr "འཚག་ཆས་མིང་སྟོང་པ་ཡིན་མི་ཆོག"
+
+msgid "Filter name may not contain the ':' character"
+msgstr "འཚག་ཆས་མིང་ལ་ཡིག་རྟགས “:” ཚུད་མི་ཆོག"
+
+msgid "Filters"
+msgstr "ཡིག་ཆ།"
+
+msgid "Find next occurrence of the search string"
+msgstr "འཚོལ་བཤེར་ཡིག་རྟགས་ཕྲེང་ཕྱིའི་ཐོན་ཐེངས་འཚོལ།"
+
+msgid "Find previous occurrence of the search string"
+msgstr "འཚོལ་བཤེར་ཡིག་རྟགས་ཕྲེང་སྔའི་ཐོན་ཐེངས་འཚོལ།"
+
+msgid "Foreground:"
+msgstr "མདུན་ལྗོངས།:"
+
+msgid "Height of the main window in pixels"
+msgstr "སྒེའུ་ཁུང་གཙོ་བོའི་མཐོ་ཚད། བརྙན་རྒྱུ་ཡིས་རྩིས་པ།"
+
+msgid "Help"
+msgstr "རོགས་རམ།"
+
+msgid "Hide"
+msgstr "སྦེད་པ།"
+
+msgid "Highlight"
+msgstr "མཐོ་གསལ།"
+
+msgid "Impossible to open the file %s"
+msgstr "ཡིག་ཆ %s ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "List of saved filters"
+msgstr "ཉར་ཚགས་ཟིན་པའི་འཚག་ཆས་ཀྱི་རེའུ་མིག"
+
+msgid "List of saved regexp filters"
+msgstr "ཚད་མཐུན་མཚོན་ཚུལ་གྱི་འཚག་ཆས་ཉར་ཚགས་བྱེད་པའི་རེའུ་མིག"
+
+msgid "Loading..."
+msgstr "ཕབ་འཇུག་བྱེད་པ..."
+
+msgid "Log file to open up on startup"
+msgstr "འགོ་སློང་སྐབས་ཁ་ཕྱེ་བའི་ཉིན་ཐོའི་ཡིག་ཆ།"
+
+msgid "Log files to open up on startup"
+msgstr "འགོ་སློང་སྐབས་ཁ་ཕྱེ་བའི་ཉིན་ཐོའི་ཡིག་ཆ།"
+
+msgid "Manage Filters..."
+msgstr "དོ་དམ་འཚག་ཆས།"
+
+msgid "No matches found"
+msgstr "ཟླ་སྒྲིག་གི་ཚན་པ་རྙེད་མེད་པ།"
+
+msgid "Normal Size"
+msgstr "གདོད་མའི་ཆེ་ཆུང་།"
+
+msgid "Open Log"
+msgstr "ཉིན་ཐོ་ཁ་ཕྱེ་བ།"
+
+msgid "Open..."
+msgstr "ཁ་ཕྱེ་བ།"
+
+msgid "Please specify either foreground or background color!"
+msgstr "མདུན་ལྗོངས་སམ་ཡང་ན་རྒྱབ་ལྗོངས་ཀྱི་ཁ་དོག་དམིགས་འཛུགས་གནང་དགོས།"
+
+msgid "Quit"
+msgstr "ཕྱིར་འདོན་པ།"
+
+msgid "Regular expression is empty!"
+msgstr "ཚད་མཐུན་མཚོན་ཚུལ་ནི་སྟོང་པ་ཡིན།"
+
+msgid "Regular expression is invalid: %s"
+msgstr "ནུས་མེད་ཀྱི་ཚད་མཐུན་མཚོན་ཚུལ།：%s"
+
+msgid "Search in \"%s\""
+msgstr ""
+
+msgid "Select All"
+msgstr "ཚང་མ་འདེམས།"
+
+msgid "Show Matches Only"
+msgstr "ཟླ་སྒྲིག་ཚན་པ་ཁོ་ན་མངོན་པ།"
+
+msgid "Show the version of the program."
+msgstr "བྱ་རིམ་གྱི་པར་གཞི་མངོན་པ།"
+
+msgid "Size of the font used to display the log"
+msgstr "ཉིན་ཐོ་མངོན་པར་སྤྱོད་པའི་ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་།"
+
+msgid ""
+"Specifies a list of log files to open up at startup. A default list is "
+"created by reading /etc/syslog.conf."
+msgstr ""
+
+msgid "Specifies the height of the log viewer main window in pixels."
+msgstr ""
+"དམིགས་འཛུགས་ཉིན་ཐོ་ལྟ་ཆས་ཀྱི་སྒེའུ་ཁུང་གཙོ་བོའི་མཐོ་ཚད། "
+"བརྙན་རྒྱུ་ཡིས་རྩིས་པ།"
+
+msgid ""
+"Specifies the log file displayed at startup. The default is either "
+"/var/adm/messages or /var/log/messages, depending on your operating system."
+msgstr ""
+
+msgid ""
+"Specifies the size of the fixed-width font used to display the log in the "
+"main tree view. The default is taken from the default terminal font size."
+msgstr ""
+
+msgid "Specifies the width of the log viewer main window in pixels."
+msgstr ""
+"དམིགས་འཛུགས་ཉིན་ཐོ་ལྟ་ཆས་ཀྱི་སྒེའུ་ཁུང་གཙོ་བོའི་ཞེང་ཚད། "
+"བརྙན་རྒྱུ་ཡིས་རྩིས་པ།"
+
+msgid "System Log"
+msgstr "རྒྱུད་ཁོངས་ཉིན་ཐོ།"
+
+msgid "The file is not a regular file or is not a text file."
+msgstr "ཡིག་ཆ་དེ་རྒྱུན་སྲོལ་གྱི་ཡིག་ཆའམ་ཡང་ན་ཡིག་རྐྱང་ཡིག་ཆ་ཞིག་མིན་པ།"
+
+msgid "There was an error displaying help: %s"
+msgstr "རོགས་རམ་མངོན་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།:%s"
+
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details."
+msgstr ""
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version."
+msgstr ""
+
+msgid "This version of System Log does not support GZipped logs."
+msgstr "རྒྱུད་ཁོངས་ཉིན་ཐོ་འདིའི་པར་གཞི་ཡིས Gzipped ཉིན་ཐོར་རྒྱབ་སྐྱོར་མེད་པ།"
+
+msgid "View or monitor system log files"
+msgstr "རྒྱུད་ཁོངས་ཉིན་ཐོའི་ཡིག་ཆར་ལྟ་བའམ་ཡང་ན་སོ་ལྟ་བྱེད་པ།"
+
+msgid "Width of the main window in pixels"
+msgstr "སྒེའུ་ཁུང་གཙོ་བོའི་ཞེང་ཚད། བརྙན་རྒྱུ་ཡིས་རྩིས་པ།"
+
+msgid "Wrapped"
+msgstr "ཕྲེང་འབེབས།"
+
+msgid "You don't have enough permissions to read the file."
+msgstr "ཡིག་ཆ་འདི་ཀློག་པར་འདང་ངེས་ཀྱི་དབང་ཚད་མེད་པ།"
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA"
+msgstr ""
+
+msgid "Zoom In"
+msgstr "ཆེར་སྐྱེད།"
+
+msgid "Zoom Out"
+msgstr "ཆུང་སྐྱུང་།"
+
+msgid "[URI...]"
+msgstr "[URI...]"
+
+msgid "_Add"
+msgstr "སྣོན་པ། (_A)"
+
+msgid "_Cancel"
+msgstr "ལེན་པ། (_C)"
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག(_C)"
+
+msgid "_Name:"
+msgstr "མིང་།(_N)："
+
+msgid "_Open"
+msgstr "ཁ་འབྱེད་། (_O)"
+
+msgid "_Properties"
+msgstr "གཏོགས་གཤིས།(_P)"
+
+msgid "_Regular Expression:"
+msgstr "ཚད་མཐུན་མཚོན་ཚུལ། (_R)："
+
+msgid "_Remove"
+msgstr "སྤོ་བ།(_R)"
+
+msgid "logs;debug;error;"
+msgstr "logs;debug;error; རྒྱུད་ཁོངས་ཉིན་ཐོ། ནོར་འཁྲུལ། ཚོད་སྒྲིག"
+
+msgid "today"
+msgstr "དེ་རིང་།"
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "updated"
+msgstr "གསར་སྒྱུར་བྱས་ཟིན།"
+
+msgid "yesterday"
+msgstr "ཁ་སང་།"

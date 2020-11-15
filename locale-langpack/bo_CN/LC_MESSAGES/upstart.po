@@ -1,0 +1,1260 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%s %s process (%d)"
+msgstr ""
+
+msgid "%s %s process (%d) became new process (%d)"
+msgstr ""
+
+msgid "%s %s process (%d) continued by %s signal"
+msgstr ""
+
+msgid "%s %s process (%d) continued by signal %d"
+msgstr ""
+
+msgid "%s %s process (%d) executable changed"
+msgstr ""
+
+msgid "%s %s process (%d) exited normally"
+msgstr ""
+
+msgid "%s %s process (%d) killed by %s signal"
+msgstr ""
+
+msgid "%s %s process (%d) killed by signal %d"
+msgstr ""
+
+msgid "%s %s process (%d) stopped by %s signal"
+msgstr ""
+
+msgid "%s %s process (%d) stopped by signal %d"
+msgstr ""
+
+msgid "%s %s process (%d) terminated with status %d"
+msgstr ""
+
+msgid "%s %s process ended, respawning"
+msgstr ""
+
+msgid "%s goal changed from %s to %s"
+msgstr ""
+
+msgid "%s respawning too fast, stopped"
+msgstr ""
+
+msgid "%s state changed from %s to %s"
+msgstr ""
+
+msgid "%s: --dest given without --system\n"
+msgstr ""
+
+msgid "%s: illegal hour value\n"
+msgstr ""
+
+msgid "%s: illegal minute value\n"
+msgstr ""
+
+msgid "%s: illegal runlevel: %s\n"
+msgstr ""
+
+msgid "%s: illegal time value\n"
+msgstr ""
+
+msgid "%s: missing D-Bus address\n"
+msgstr ""
+
+msgid "%s: missing address\n"
+msgstr ""
+
+msgid "%s: missing event name\n"
+msgstr ""
+
+msgid "%s: missing job name\n"
+msgstr ""
+
+msgid "%s: missing runlevel\n"
+msgstr ""
+
+msgid "%s: missing variable name\n"
+msgstr ""
+
+msgid "%s: missing variable value\n"
+msgstr ""
+
+msgid "%s: time expected\n"
+msgstr ""
+
+msgid "'start on' parse error"
+msgstr ""
+
+msgid "'stop on' parse error"
+msgstr ""
+
+msgid "(%s) at %d:%02d ..."
+msgstr ""
+
+msgid "Adds or updates variables in the job environment table."
+msgstr ""
+
+msgid "Another shutdown is already running"
+msgstr ""
+
+msgid "Application details"
+msgstr ""
+
+msgid "BUG"
+msgstr ""
+
+msgid "Both stateful and stateless re-execs failed"
+msgstr ""
+
+msgid "Bridge socket events into upstart"
+msgstr ""
+
+msgid "Bridge udev events into upstart"
+msgstr ""
+
+msgid "Bring the system down."
+msgstr ""
+
+msgid "Broadcast message from %s@%s"
+msgstr ""
+
+msgid ""
+"By default, upstart-socket-bridge does not detach from the console and "
+"remains in the foreground.  Use the --daemon option to have it detach."
+msgstr ""
+
+msgid ""
+"By default, upstart-udev-bridge does not detach from the console and remains"
+" in the foreground.  Use the --daemon option to have it detach."
+msgstr ""
+
+msgid "Calling shutdown"
+msgstr ""
+
+msgid "Cannot create directory"
+msgstr ""
+
+msgid "Cannot find pid of running shutdown"
+msgstr ""
+
+msgid "Caught %s, core dumped"
+msgstr ""
+
+msgid "Caught %s, unable to dump core"
+msgstr ""
+
+msgid "Change runlevel."
+msgstr ""
+
+msgid "Change the minimum priority of log messages from the init daemon."
+msgstr ""
+
+msgid "Check for unreachable jobs/event conditions."
+msgstr ""
+
+msgid "Clear events"
+msgstr ""
+
+msgid "Columns: time, event and environment"
+msgstr ""
+
+msgid "Configuration directory deleted"
+msgstr ""
+
+msgid "Connected to"
+msgstr ""
+
+msgid "Connection from private client"
+msgstr ""
+
+msgid "Copy"
+msgstr "འདྲ་བཟོ།"
+
+msgid "Could not connect to Upstart"
+msgstr "upstart\"དང་སྦྲེལ་མཐུད་བྱེད་ཐབས་བྲལ་།"
+
+msgid "Could not create JobAdded signal connection"
+msgstr ""
+
+msgid "Could not create JobRemoved signal connection"
+msgstr ""
+
+msgid "Could not create Upstart proxy"
+msgstr "upsartལས་ཚབ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not create epoll descriptor"
+msgstr ""
+
+msgid "Could not obtain job list"
+msgstr ""
+
+msgid "Could not send socket event"
+msgstr ""
+
+msgid "Couldn't set uid."
+msgstr ""
+
+msgid "Detach and run in the background"
+msgstr "ཁ་གྱེས་ནས་རྒྱབ་སྟེགས་སུ་འཁོར་སྐྱོད་བྱེད་པ།"
+
+msgid "Detected invalid serialisation data"
+msgstr ""
+
+msgid ""
+"Discards all changes make to the job environment table, setting it back to "
+"its default value."
+msgstr ""
+
+msgid "Discards variables from the job environment table."
+msgstr ""
+
+msgid "Disconnected from D-Bus %s bus"
+msgstr ""
+
+msgid "Disconnected from Upstart"
+msgstr "Upsartནས་སྦྲེལ་མཐུད་གཅོད་པ།"
+
+msgid "Disconnected from notified D-Bus bus"
+msgstr ""
+
+msgid "Display the value of a variable from the job environment table."
+msgstr ""
+
+msgid "Displays list of running Session Init sessions"
+msgstr ""
+
+msgid ""
+"Displays sorted list of variables and their values from the job environment "
+"table."
+msgstr ""
+
+msgid "Do not strip non-printable bytes from udev message data"
+msgstr ""
+
+msgid "EVENT [KEY=VALUE]..."
+msgstr ""
+
+msgid ""
+"EVENT is the name of an event the init daemon should emit, this may be "
+"followed by zero or more environment variables to be included in the "
+"event.\n"
+msgstr ""
+
+msgid "Emit an event."
+msgstr ""
+
+msgid "Env must be KEY=VALUE pairs"
+msgstr ""
+
+msgid "Environment"
+msgstr "ཁོར་ཡུག"
+
+msgid "Error emitting socket event"
+msgstr ""
+
+msgid "Error from epoll"
+msgstr ""
+
+msgid "Error saving file"
+msgstr "ཡིག་ཆ་ཉར་ཚགས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error while loading configuration file"
+msgstr ""
+
+msgid "Event"
+msgstr "དོན་རྐྱེན།"
+
+msgid "Event and environment"
+msgstr ""
+
+msgid "Event failed"
+msgstr ""
+
+msgid "Exit application"
+msgstr ""
+
+msgid "Expected event"
+msgstr ""
+
+msgid "Expected operator"
+msgstr ""
+
+msgid "Expected variable name before value"
+msgstr ""
+
+msgid "Failed to add log to unflushed queue"
+msgstr ""
+
+msgid "Failed to continue traced %s %s process (%d): %s"
+msgstr ""
+
+msgid "Failed to create pty - disabling logging for job"
+msgstr ""
+
+msgid "Failed to deliver signal to traced %s %s process (%d): %s"
+msgstr ""
+
+msgid "Failed to deserialise"
+msgstr ""
+
+msgid "Failed to detach traced %s %s process (%d): %s"
+msgstr ""
+
+msgid "Failed to generate serialisation data"
+msgstr ""
+
+msgid "Failed to obtain %s instance: %s"
+msgstr ""
+
+msgid "Failed to obtain child process id for %s %s process (%d): %s"
+msgstr ""
+
+msgid "Failed to open system console: %s"
+msgstr ""
+
+msgid "Failed to re-execute %s: %s"
+msgstr ""
+
+msgid "Failed to read serialisation data"
+msgstr ""
+
+msgid "Failed to release D-Bus name: %s"
+msgstr ""
+
+msgid "Failed to resolve deserialisation dependencies"
+msgstr ""
+
+msgid "Failed to send %s signal to %s %s process (%d): %s"
+msgstr ""
+
+msgid "Failed to serialise"
+msgstr ""
+
+msgid "Failed to set ptrace options for %s %s process (%d): %s"
+msgstr ""
+
+msgid "Failed to set security context"
+msgstr ""
+
+msgid "Failed to spawn %s %s process: %s"
+msgstr ""
+
+msgid "Failed to write serialisation data"
+msgstr ""
+
+msgid "Failed to write to log file"
+msgstr ""
+
+msgid "GUI modules not available - falling back to CLI"
+msgstr ""
+
+msgid "Generate warning for any unreachable events/jobs"
+msgstr ""
+
+msgid "Halt the system."
+msgstr "རྒྱུད་ཁོངས་སྒོ་རྒྱག་པ།"
+
+msgid "Halting"
+msgstr ""
+
+msgid "Handling %s event"
+msgstr ""
+
+msgid "Handling deletion of %s"
+msgstr ""
+
+msgid ""
+"If CONF specified, show configuration details for single job configuration, "
+"else show details for all jobs configurations.\n"
+msgstr ""
+
+msgid "Ignoring get env request from chroot session"
+msgstr ""
+
+msgid "Ignoring reset env request from chroot session"
+msgstr ""
+
+msgid "Ignoring restart request from chroot session"
+msgstr ""
+
+msgid "Ignoring session end request from chroot session"
+msgstr ""
+
+msgid "Ignoring set env request from chroot session"
+msgstr ""
+
+msgid "Ignoring stale session file"
+msgstr ""
+
+msgid "Ignoring state query from chroot session"
+msgstr ""
+
+msgid "Ignoring unset env request from chroot session"
+msgstr ""
+
+msgid "Illegal exit status, expected integer"
+msgstr ""
+
+msgid "Illegal file creation mask, expected octal integer"
+msgstr ""
+
+msgid "Illegal interval, expected number of seconds"
+msgstr ""
+
+msgid "Illegal limit, expected 'unlimited' or integer"
+msgstr ""
+
+msgid "Illegal nice value, expected -20 to 19"
+msgstr ""
+
+msgid "Illegal oom adjustment, expected -16 to 15 or 'never'"
+msgstr ""
+
+msgid "Illegal oom score adjustment, expected -999 to 1000 or 'never'"
+msgstr ""
+
+msgid "Illegal parameter"
+msgstr "ཁྲིམས་འགལ་ཞུགས་གྲངས།"
+
+msgid "Illegal signal status, expected integer"
+msgstr ""
+
+msgid "Index"
+msgstr "གསལ་བྱང"
+
+msgid "Inform Upstart of D-Bus address cgroup manager is available on."
+msgstr ""
+
+msgid "Inform Upstart of D-Bus address to connect to."
+msgstr ""
+
+msgid "Inform Upstart that disk is now writeable."
+msgstr ""
+
+msgid "Invalid job class"
+msgstr ""
+
+msgid "Invalid setgid group name does not exist"
+msgstr ""
+
+msgid "Invalid setuid user name does not exist"
+msgstr ""
+
+msgid "JOB"
+msgstr ""
+
+msgid "JOB [KEY=VALUE]..."
+msgstr ""
+
+msgid ""
+"JOB is the name of the job that is to be queried, this may be followed by "
+"zero or more environment variables to distguish between job instances.\n"
+msgstr ""
+
+msgid ""
+"JOB is the name of the job that is to be restarted, this may be followed by zero or more environment variables to be defined in the job after restarting.\n"
+"\n"
+"The environment also serves to distinguish between job instances, and thus decide which of multiple instances will be restarted."
+msgstr ""
+
+msgid ""
+"JOB is the name of the job that is to be sent the signal, this may be "
+"followed by zero or more environment variables to distinguish between job "
+"instances.\n"
+msgstr ""
+
+msgid ""
+"JOB is the name of the job that is to be started, this may be followed by zero or more environment variables to be defined in the new job.\n"
+"\n"
+"The environment may also serve to distinguish between job instances, and thus decide whether a new instance will be started or an error returned if an existing instance is already running."
+msgstr ""
+
+msgid ""
+"JOB is the name of the job that is to be stopped, this may be followed by zero or more environment variables to be passed to the job's pre-stop and post-stop processes.\n"
+"\n"
+"The environment also serves to distinguish between job instances, and thus decide which of multiple instances will be stopped."
+msgstr ""
+
+msgid "JOB is the name of the job which usage is to be shown.\n"
+msgstr ""
+
+msgid "Job"
+msgstr "ལས་བྱ།"
+
+msgid "Job cannot be started as cgroup manager not available: %s"
+msgstr ""
+
+msgid "Job failed to restart"
+msgstr ""
+
+msgid "Job failed to start"
+msgstr ""
+
+msgid "Job failed while stopping"
+msgstr ""
+
+msgid "Job has already been stopped: %s"
+msgstr ""
+
+msgid "Job is already running: %s"
+msgstr ""
+
+msgid "Job is not running: %s"
+msgstr ""
+
+msgid "Job may not be empty string"
+msgstr ""
+
+msgid ""
+"List all jobs and events which cannot be satisfied by currently available "
+"job configuration files."
+msgstr ""
+
+msgid "List all sessions."
+msgstr ""
+
+msgid "List known jobs."
+msgstr ""
+
+msgid "Loading configuration from %s"
+msgstr ""
+
+msgid "Mismatched braces"
+msgstr ""
+
+msgid "Mismatched parentheses"
+msgstr ""
+
+msgid "Name already taken"
+msgstr ""
+
+msgid "Name may not be empty string"
+msgstr ""
+
+msgid "Need to be root"
+msgstr ""
+
+msgid "No ConfSources present in state data"
+msgstr ""
+
+msgid "No control details present in state data"
+msgstr ""
+
+msgid "No events to save"
+msgstr ""
+
+msgid "No global job environment data present in state data"
+msgstr ""
+
+msgid "No such variable"
+msgstr ""
+
+msgid "Not being executed as init"
+msgstr ""
+
+msgid "Not connecting to %s bus"
+msgstr ""
+
+msgid "Not permissible to modify PID 1 job environment"
+msgstr ""
+
+msgid "Not permissible to notify D-Bus address for PID 1"
+msgstr ""
+
+msgid "Not running"
+msgstr ""
+
+msgid "Out of Memory"
+msgstr "ནང་གསོག་མི་འདང་བ།"
+
+msgid "Output previous and current runlevel."
+msgstr ""
+
+msgid ""
+"PRIORITY may be one of:\n"
+"  `debug' (messages useful for debugging upstart are logged, equivalent to --debug on kernel command-line);\n"
+"  `info' (messages about job goal and state changes, as well as event emissions are logged, equivalent to --verbose on the kernel command-line);\n"
+"  `message' (informational and debugging messages are suppressed, the default);   `warn' (ordinary messages are suppressed whilst still logging warnings and errors);\n"
+"  `error' (only errors are logged, equivalent to --quiet on the kernel command-line) or\n"
+"  `fatal' (only fatal errors are logged).\n"
+"\n"
+"Without arguments, this outputs the current log priority."
+msgstr ""
+
+msgid "Passing state from PID %d to parent"
+msgstr ""
+
+msgid "Pausing %s (%d) [pre-exec] for debug"
+msgstr ""
+
+msgid "Performing stateful re-exec"
+msgstr ""
+
+msgid "Power off the system."
+msgstr ""
+
+msgid "Powering off"
+msgstr ""
+
+msgid "Process management daemon."
+msgstr ""
+
+msgid "Query status of job."
+msgstr ""
+
+msgid "Quiesce %s sequence took %s%d second%s"
+msgstr ""
+
+msgid "Quiescing due to %s request"
+msgstr ""
+
+msgid ""
+"RUNLEVEL should be one of 0123456sS, where s and S are considered identical.\n"
+"\n"
+"RUNLEVEL may also be Q or q to instruct the init daemon to reload its configuration, this is rarely necessary since the daemon watches its configuration for changes.\n"
+"\n"
+"RUNLEVEL may be U or u to instruct the init daemon to re-execute itself, this is not recommended since Upstart does not currently preserve its state.\n"
+msgstr ""
+
+msgid "Re-executing %s"
+msgstr ""
+
+msgid "Reboot the system."
+msgstr "བསྐྱར་སློང་།"
+
+msgid "Rebooting"
+msgstr ""
+
+msgid "Rebooting with %s"
+msgstr ""
+
+msgid "Reconnecting to D-Bus %s bus"
+msgstr ""
+
+msgid "Reload the configuration of the init daemon."
+msgstr ""
+
+msgid "Reloading configuration"
+msgstr ""
+
+msgid "Remove one or more job environment variables."
+msgstr ""
+
+msgid "Request the version of the init daemon."
+msgstr ""
+
+msgid "Restart job."
+msgstr ""
+
+msgid "Restarting"
+msgstr ""
+
+msgid "Retrieve value of a job environment variable."
+msgstr ""
+
+msgid "Revert all job environment variable changes."
+msgstr ""
+
+msgid "Run to allow Upstart to provide cgroup stanza support."
+msgstr ""
+
+msgid "Run to allow Upstart to provide services over D-Bus."
+msgstr ""
+
+msgid ""
+"Run to ensure output from jobs ending before disk is writeable are flushed "
+"to disk."
+msgstr ""
+
+msgid "Save File"
+msgstr "ཡིག་ཆ་ཉར་བ།"
+
+msgid "Save events to default file"
+msgstr ""
+
+msgid "Save events to specified file"
+msgstr ""
+
+msgid "Send HUP signal to job."
+msgstr ""
+
+msgid "Sending %s signal to %s %s process (%d)"
+msgstr ""
+
+msgid "Set one or more job environment variables."
+msgstr ""
+
+msgid "Show all job environment variables."
+msgstr ""
+
+msgid "Show emits, start on and stop on details for job configurations."
+msgstr ""
+
+msgid "Show job usage message if available."
+msgstr ""
+
+msgid "Shutdown cancelled"
+msgstr ""
+
+msgid "Shutdown is not running"
+msgstr ""
+
+msgid "Start job."
+msgstr ""
+
+msgid "Stateful re-exec supported but stateless re-exec requested"
+msgstr ""
+
+msgid "Stop job."
+msgstr ""
+
+msgid "TIME [MESSAGE]"
+msgstr ""
+
+msgid ""
+"TIME may have different formats, the most common is simply the word 'now' which will bring the system down immediately.  Other valid formats are +m, where m is the number of minutes to wait until shutting down and hh:mm which specifies the time on the 24hr clock.\n"
+"\n"
+"Logged in users are warned by a message sent to their terminal, you may include an optional MESSAGE included with this.  Messages can be sent without actually bringing the system down by using the -k option.\n"
+"\n"
+"If TIME is given, the command will remain in the foreground until the shutdown occurs.  It can be cancelled by Control-C, or by another user using the -c option.\n"
+"\n"
+"The system is brought down into maintenance (single-user) mode by default, you can change this with either the -r or -h option which specify a reboot or system halt respectively.  The -h option can be further modified with -H or -P to specify whether to halt the system, or to power it off afterwards.  The default is left up to the shutdown scripts."
+msgstr ""
+
+msgid "Temporary process spawn error"
+msgstr ""
+
+msgid "The known jobs and their current status will be output."
+msgstr ""
+
+msgid "The log priority given was not recognised"
+msgstr ""
+
+msgid ""
+"The system /var/run/utmp file is used unless the alternate file UTMP is "
+"given.\n"
+msgstr ""
+
+msgid "The system is going down for halt NOW!"
+msgstr ""
+
+msgid "The system is going down for maintenance NOW!"
+msgstr ""
+
+msgid "The system is going down for power off NOW!"
+msgstr ""
+
+msgid "The system is going down for reboot NOW!"
+msgstr ""
+
+msgid ""
+"This command is intended to instruct the kernel to reboot or halt the "
+"system; when run without the -f option, or when in a system runlevel other "
+"than 0 or 6, it will actually execute /sbin/shutdown.\n"
+msgstr ""
+
+msgid ""
+"This daemon is normally executed by the kernel and given process id 1 to "
+"denote its special status.  When executed by a user process, it will "
+"actually run /sbin/telinit."
+msgstr ""
+
+msgid "Time"
+msgstr "དུས་ཚོད།"
+
+msgid "Unable to become daemon"
+msgstr "ལྟ་སྲུང་བྱ་རིམ་དུ་འགྱུར་ཐབས་བྲལ།"
+
+msgid "Unable to change directory"
+msgstr ""
+
+msgid "Unable to connect to Upstart"
+msgstr ""
+
+msgid "Unable to connect to session bus"
+msgstr ""
+
+msgid "Unable to connect to system bus"
+msgstr ""
+
+msgid "Unable to connect to the D-Bus %s bus: %s"
+msgstr ""
+
+msgid "Unable to create device"
+msgstr ""
+
+msgid "Unable to execute shutdown: %s"
+msgstr ""
+
+msgid "Unable to fork child-process to warn users: %s"
+msgstr ""
+
+msgid "Unable to initialize console as /dev/null"
+msgstr ""
+
+msgid "Unable to initialize console, will try /dev/null"
+msgstr ""
+
+msgid "Unable to listen for private connections"
+msgstr ""
+
+msgid "Unable to load configuration"
+msgstr ""
+
+msgid "Unable to mount /dev filesystem"
+msgstr ""
+
+msgid "Unable to mount /dev/pts filesystem"
+msgstr ""
+
+msgid "Unable to mount /proc filesystem"
+msgstr ""
+
+msgid "Unable to mount /sys filesystem"
+msgstr ""
+
+msgid "Unable to query session directory"
+msgstr ""
+
+msgid "Unable to register as subreaper"
+msgstr ""
+
+msgid "Unable to set default oom score"
+msgstr ""
+
+msgid "Unable to set root directory"
+msgstr ""
+
+msgid "Unable to setup standard file descriptors"
+msgstr ""
+
+msgid "Unable to watch configuration directory"
+msgstr ""
+
+msgid "Unable to watch configuration file"
+msgstr ""
+
+msgid "Unable to write pid file"
+msgstr ""
+
+msgid "Unknown instance: %s"
+msgstr ""
+
+msgid "Unknown job: %s"
+msgstr ""
+
+msgid "Unknown parameter"
+msgstr ""
+
+msgid "Upstart Event Monitor"
+msgstr ""
+
+msgid "Usage"
+msgstr "སྤྱོད་སྟངས།"
+
+msgid "VARIABLE"
+msgstr ""
+
+msgid "VARIABLE[=VALUE]"
+msgstr ""
+
+msgid "Variable may not be empty string"
+msgstr ""
+
+msgid "Version"
+msgstr "པར་གཞི།"
+
+msgid "WARNING"
+msgstr "ཐ་ཚིག "
+
+msgid "You do not have permission to emit an event"
+msgstr ""
+
+msgid "You do not have permission to end session"
+msgstr ""
+
+msgid "You do not have permission to modify job environment"
+msgstr ""
+
+msgid "You do not have permission to modify job: %s"
+msgstr ""
+
+msgid "You do not have permission to notify D-Bus address"
+msgstr ""
+
+msgid "You do not have permission to notify cgroup manager address"
+msgstr ""
+
+msgid "You do not have permission to notify disk is writeable"
+msgstr ""
+
+msgid "You do not have permission to query job environment"
+msgstr ""
+
+msgid "You do not have permission to reload configuration"
+msgstr ""
+
+msgid "You do not have permission to request restart"
+msgstr ""
+
+msgid "You do not have permission to request state"
+msgstr ""
+
+msgid "You do not have permission to set log priority"
+msgstr ""
+
+msgid "[CONF]"
+msgstr ""
+
+msgid "[PRIORITY]"
+msgstr ""
+
+msgid "[UTMP]"
+msgstr ""
+
+msgid "apply to global job environment table"
+msgstr ""
+
+msgid "attempt to write state file on every re-exec"
+msgstr ""
+
+msgid "cancel a running shutdown"
+msgstr ""
+
+msgid "cgroup manager address"
+msgstr ""
+
+msgid "cgroup manager not available"
+msgstr ""
+
+msgid "cgroup support not available"
+msgstr ""
+
+msgid "connect to Upstart via specified D-Bus route"
+msgstr ""
+
+msgid "console mode"
+msgstr ""
+
+msgid "control bus address"
+msgstr ""
+
+msgid "default value for console stanza"
+msgstr ""
+
+msgid "destination well-known name on D-Bus bus"
+msgstr ""
+
+msgid "disable job logging"
+msgstr ""
+
+msgid "do not connect to a D-Bus bus"
+msgstr ""
+
+msgid "do not emit any startup event (for testing)"
+msgstr ""
+
+msgid "do not replace the value of the variable if already set"
+msgstr ""
+
+msgid "do not support cgroups"
+msgstr ""
+
+msgid "do not wait for event to finish before exiting"
+msgstr ""
+
+msgid "do not wait for job to restart before exiting"
+msgstr ""
+
+msgid "do not wait for job to start before exiting"
+msgstr ""
+
+msgid "do not wait for job to stop before exiting"
+msgstr ""
+
+msgid "don't actually reboot or halt, just write wtmp record"
+msgstr ""
+
+msgid "don't sync before reboot or halt"
+msgstr ""
+
+msgid "enable chroot sessions"
+msgstr ""
+
+msgid ""
+"enumerate list of events and jobs causing job created from job config to "
+"start/stop"
+msgstr ""
+
+msgid "failed to demarshal D-Bus message"
+msgstr ""
+
+msgid "field separator to use for command-line output"
+msgstr ""
+
+msgid "flag a re-exec has occurred"
+msgstr ""
+
+msgid "force reboot or halt, don't call shutdown(8)"
+msgstr ""
+
+msgid "halt after shutdown (implies -h)"
+msgstr ""
+
+msgid "halt or power off after shutdown"
+msgstr ""
+
+msgid "ignore specified list of events (comma-separated)"
+msgstr ""
+
+msgid "instance 'stop on' parse error"
+msgstr ""
+
+msgid "invalid console type specified"
+msgstr ""
+
+msgid "jobs will not inherit environment of init"
+msgstr ""
+
+msgid "killed"
+msgstr ""
+
+msgid "logout"
+msgstr "ཕྱིར་ཐོན།"
+
+msgid "main"
+msgstr "གཙོ་བོ།"
+
+msgid "only send warnings, don't shutdown"
+msgstr ""
+
+msgid "post-start"
+msgstr ""
+
+msgid "post-starting"
+msgstr ""
+
+msgid "post-stop"
+msgstr ""
+
+msgid "post-stopping"
+msgstr ""
+
+msgid "power off after shutdown (implies -h)"
+msgstr ""
+
+msgid "pre-start"
+msgstr ""
+
+msgid "pre-starting"
+msgstr ""
+
+msgid "pre-stop"
+msgstr ""
+
+msgid "pre-stopping"
+msgstr ""
+
+msgid "reboot after shutdown"
+msgstr ""
+
+msgid "respawn"
+msgstr ""
+
+msgid "reverting to stateless re-exec"
+msgstr ""
+
+msgid "run in command-line mode"
+msgstr ""
+
+msgid "run in user mode (as used for user sessions)"
+msgstr ""
+
+msgid "running"
+msgstr "འཁོར་སྐྱོད་བྱེད་བཞིན་པ།"
+
+msgid "security"
+msgstr "བདེ་འཇགས།"
+
+msgid "security-spawning"
+msgstr ""
+
+msgid "set environment variable in the runlevel event"
+msgstr ""
+
+msgid "shutdown"
+msgstr "ཁ་རྒྱག"
+
+msgid "spawned"
+msgstr ""
+
+msgid "spawning"
+msgstr ""
+
+msgid "specify additional directory to load configuration files from"
+msgstr ""
+
+msgid "specify additional initial directory to load configuration files from"
+msgstr ""
+
+msgid "specify alternative directory to load configuration files from"
+msgstr ""
+
+msgid "specify alternative directory to store job output logs in"
+msgstr ""
+
+msgid "specify an alternative initial event (for testing)"
+msgstr ""
+
+msgid "specify file descriptor to read serialisation data from"
+msgstr ""
+
+msgid "start"
+msgstr "འགོ་རྩོམ།"
+
+msgid "start in user mode (as used for user sessions)"
+msgstr ""
+
+msgid "starting"
+msgstr "འགོ་སློང་བཞིན་པ།"
+
+msgid "stop"
+msgstr "མཚམས་འཇོག་པ།"
+
+msgid "stopping"
+msgstr "མཚམས་འཇོག་བཞིན་པ།"
+
+msgid "switch off the power when called as halt"
+msgstr ""
+
+msgid "unable to allocate memory: %s"
+msgstr ""
+
+msgid "unable to change root directory: %s"
+msgstr ""
+
+msgid "unable to change working directory: %s"
+msgstr ""
+
+msgid "unable to chown: %s"
+msgstr ""
+
+msgid "unable to clear CLOEXEC bit on log fd"
+msgstr ""
+
+msgid "unable to connect to CGManager: %s"
+msgstr ""
+
+msgid "unable to create session file"
+msgstr ""
+
+msgid "unable to enter cgroup: %s"
+msgstr ""
+
+msgid "unable to execute: %s"
+msgstr "ལག་བསྟར་བྱེད་ཐབས་བྲལ།：%s"
+
+msgid "unable to find setgid group"
+msgstr ""
+
+msgid "unable to find setuid user"
+msgstr ""
+
+msgid "unable to get ptsname: %s"
+msgstr ""
+
+msgid "unable to getgrgid: %s"
+msgstr ""
+
+msgid "unable to getgrnam: %s"
+msgstr ""
+
+msgid "unable to getpwnam: %s"
+msgstr ""
+
+msgid "unable to getpwuid: %s"
+msgstr ""
+
+msgid "unable to granpt: %s"
+msgstr ""
+
+msgid "unable to initgroups: %s"
+msgstr ""
+
+msgid "unable to mark cgroups for removal: %s"
+msgstr ""
+
+msgid "unable to modify signal handler: %s"
+msgstr ""
+
+msgid "unable to move script fd: %s"
+msgstr ""
+
+msgid "unable to open console: %s"
+msgstr ""
+
+msgid "unable to open pty slave: %s"
+msgstr ""
+
+msgid "unable to set \"%s\" resource limit: %s"
+msgstr ""
+
+msgid "unable to set oom adjustment: %s"
+msgstr ""
+
+msgid "unable to set priority: %s"
+msgstr ""
+
+msgid "unable to set trace: %s"
+msgstr ""
+
+msgid "unable to setgid: %s"
+msgstr ""
+
+msgid "unable to setuid: %s"
+msgstr ""
+
+msgid "unable to setup cgroup: %s"
+msgstr ""
+
+msgid "unable to switch security profile: %s"
+msgstr ""
+
+msgid "unable to unlockpt: %s"
+msgstr ""
+
+msgid "unable to write session file"
+msgstr ""
+
+msgid "unknown event"
+msgstr ""
+
+msgid "unknown job"
+msgstr ""
+
+msgid "use D-Bus session bus rather than system bus (for testing)"
+msgstr ""
+
+msgid "use D-Bus system bus to connect to init daemon"
+msgstr ""
+
+msgid "use existing D-Bus session bus to connect to init daemon (for testing)"
+msgstr ""
+
+msgid "waiting"
+msgstr ""

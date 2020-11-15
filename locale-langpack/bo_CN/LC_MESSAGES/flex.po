@@ -1,0 +1,537 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"\n"
+"********** beginning dump of nfa with start state %d\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"DFA Dump:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Equivalence Classes:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Meta-Equivalence Classes:\n"
+msgstr ""
+
+msgid ""
+"\n"
+" jam-transitions: EOF "
+msgstr ""
+
+msgid "  %d (%d saved) hash collisions, %d DFAs equal\n"
+msgstr ""
+
+msgid "  %d backing-up (non-accepting) states\n"
+msgstr ""
+
+msgid "  %d empty table entries\n"
+msgstr ""
+
+msgid "  %d epsilon states, %d double epsilon states\n"
+msgstr ""
+
+msgid "  %d protos created\n"
+msgstr ""
+
+msgid "  %d rules\n"
+msgstr ""
+
+msgid "  %d sets of reallocations needed\n"
+msgstr ""
+
+msgid "  %d state/nextstate pairs created\n"
+msgstr ""
+
+msgid "  %d table entries\n"
+msgstr ""
+
+msgid "  %d templates created, %d uses\n"
+msgstr ""
+
+msgid "  %d total table entries needed\n"
+msgstr ""
+
+msgid "  %d/%d (peak %d) nxt-chk entries created\n"
+msgstr ""
+
+msgid "  %d/%d (peak %d) template nxt-chk entries created\n"
+msgstr ""
+
+msgid "  %d/%d DFA states (%d words)\n"
+msgstr ""
+
+msgid "  %d/%d NFA states\n"
+msgstr ""
+
+msgid "  %d/%d base-def entries created\n"
+msgstr ""
+
+msgid "  %d/%d character classes needed %d/%d words of storage, %d reused\n"
+msgstr ""
+
+msgid "  %d/%d equivalence classes created\n"
+msgstr ""
+
+msgid "  %d/%d meta-equivalence classes created\n"
+msgstr ""
+
+msgid "  %d/%d start conditions\n"
+msgstr ""
+
+msgid "  %d/%d unique/duplicate transitions\n"
+msgstr ""
+
+msgid "  Beginning-of-line patterns used\n"
+msgstr ""
+
+msgid "  Compressed tables always back-up\n"
+msgstr ""
+
+msgid "  No backing up\n"
+msgstr ""
+
+msgid "  no character classes\n"
+msgstr ""
+
+msgid "  scanner options: -"
+msgstr "བཤར་འབེབས་ཆས་ཀྱི་འདེམས་ཚན།"
+
+msgid " and may be the actual source of other reported performance penalties\n"
+msgstr ""
+
+msgid " associated rule line numbers:"
+msgstr "འབྲེལ་ཡོད་ཀྱི་སྒྲིག་སྲོལ་ཨང་རིམ།"
+
+msgid " out-transitions: "
+msgstr "ཕྱི་ཕྱོགས་ཀྱི་བརྗེ་སྤོར།"
+
+msgid ""
+"%%option yylineno entails a performance penalty ONLY on rules that can match"
+" newline characters\n"
+msgstr ""
+
+msgid "%array incompatible with -+ option"
+msgstr "%array དང -+  འདེམས་ཚན་འཆམ་མཐུན་མིན་པ།"
+
+msgid "%d backing up (non-accepting) states.\n"
+msgstr ""
+
+msgid "%option yyclass only meaningful for C++ scanners"
+msgstr "%option yyclass ནི C++ བཤར་འབེབས་བྱ་རིམ་ཁོ་ནར་དོན་སྙིང་ལྡན།"
+
+msgid "%option yylineno cannot be used with REJECT"
+msgstr "%option yylineno དང REJECT མཉམ་དུ་སྤྱོད་མི་ཐུབ།"
+
+msgid "%s %s\n"
+msgstr ""
+
+msgid "%s version %s usage statistics:\n"
+msgstr ""
+
+msgid "%s: fatal internal error, %s\n"
+msgstr ""
+
+msgid "********** end of dump\n"
+msgstr ""
+
+msgid "*Something Weird* - tok: %d val: %d\n"
+msgstr ""
+
+msgid "-Cf and -CF are mutually exclusive"
+msgstr " -Cf དང -CF ནི་ཕན་ཚུན་ཕྱིར་འབུད་བྱེད་ཀྱི་ཡོད།"
+
+msgid "-Cf/-CF and -Cm don't make sense together"
+msgstr " -Cf/-CF དང -Cm མཉམ་སྤྱོད་བྱེད་སྐབས་དོན་སྙིང་ཅི་ཡང་མེད།"
+
+msgid "-Cf/-CF and -I are incompatible"
+msgstr " -Cf/-CFདང-I ནི་འཆམ་མིན་ཡིན།"
+
+msgid "-Cf/-CF are incompatible with lex-compatibility mode"
+msgstr " -Cf/-CF དང lex འཆམ་མཐུན་རྣམ་པ་ནི་འཆམ་མཐུན་མིན་པ་ཞིག་རེད།"
+
+msgid "-I (interactive) entails a minor performance penalty\n"
+msgstr ""
+
+msgid "-l AT&T lex compatibility option entails a large performance penalty\n"
+msgstr ""
+
+msgid "-s option given but default rule can be matched"
+msgstr ""
+" -s འདེམས་ཚན་གཏན་འཁེལ་བྱས་ཟིན་ནའང་སོར་བཞག་གི་སྒྲིག་སྲོལ་དང་མཐུན་པ་བྱེད་དགོས།"
+
+msgid "Allocation of buffer for line directive failed"
+msgstr "བར་ཁུལ་གྱི་བགོ་བྱའི་ཚད་དེ་གཞུང་བཀའ་བརྡ་རུ་འགོད་སྐབས་ཕམ་པ།"
+
+msgid "Allocation of buffer for m4 def failed"
+msgstr "བར་ཁུལ་གྱི་བགོ་བྱའི་ཚད་དེ m4 dF ལ་འགོད་སྐབས་ཕམ་པ།"
+
+msgid "Allocation of buffer for m4 undef failed"
+msgstr "བར་ཁུལ་གྱི་བགོ་བྱའི་ཚད་དེ m4 undef ལ་འགོད་སྐབས་ཕམ་པ།"
+
+msgid "Allocation of buffer to print string failed"
+msgstr "བར་ཁུལ་གྱི་བགོ་བྱའི་ཚད་དེ་ཡིག་ཕྲེང་པར་འདེབས་སྐབས་ཕམ་པ།"
+
+msgid "Can't use -+ with -CF option"
+msgstr "འདེམས་ཚན -+ དང +-CF མཉམ་དུ་བཀོལ་མི་ཐུབ།"
+
+msgid "Can't use -+ with -l option"
+msgstr "འདེམས་ཚན -+ དང -l མཉམ་དུ་བཀོལ་མི་ཐུབ།"
+
+msgid "Can't use --reentrant or --bison-bridge with -l option"
+msgstr "འདེམས་ཚན --reentrant ཡང་ན --bison-bridge དང -l མཉམ་དུ་བཀོལ་མི་ཐུབ།"
+
+msgid "Can't use -f or -F with -l option"
+msgstr "འདེམས་ཚན -f ཡང་ན -F དང -l མཉམ་དུ་བཀོལ་མི་ཐུབ།"
+
+msgid "Compressed tables always back up.\n"
+msgstr ""
+
+msgid "Could not write ecstbl"
+msgstr "ecstbl ལ་འབྲི་མི་ཐུབ།"
+
+msgid "Could not write eoltbl"
+msgstr ""
+
+msgid "Could not write ftbl"
+msgstr ""
+
+msgid "Could not write ssltbl"
+msgstr ""
+
+msgid "Could not write yyacc_tbl"
+msgstr ""
+
+msgid "Could not write yyacclist_tbl"
+msgstr ""
+
+msgid "Could not write yybase_tbl"
+msgstr ""
+
+msgid "Could not write yychk_tbl"
+msgstr ""
+
+msgid "Could not write yydef_tbl"
+msgstr ""
+
+msgid "Could not write yymeta_tbl"
+msgstr ""
+
+msgid "Could not write yynultrans_tbl"
+msgstr ""
+
+msgid "Could not write yynxt_tbl"
+msgstr ""
+
+msgid "Could not write yynxt_tbl[][]"
+msgstr ""
+
+msgid "Definition name too long\n"
+msgstr ""
+
+msgid "Definition value for {%s} too long\n"
+msgstr ""
+
+msgid "EOF encountered inside an action"
+msgstr "འགུལ་སྟངས་ནང་གི་ཡིག་ཆ་མཇུག་སྒྲིལ་བ།"
+
+msgid "EOF encountered inside pattern"
+msgstr "བཟོ་ལྟའི་ནང་དུ་ཡིག་ཆ་མཇུག་སྒྲིལ་བ་དང་འཕྲད་པ།"
+
+msgid "End Marker\n"
+msgstr ""
+
+msgid "Input line too long\n"
+msgstr ""
+
+msgid "Internal error. flexopts are malformed.\n"
+msgstr ""
+
+msgid "No backing up.\n"
+msgstr ""
+
+msgid "Option line too long\n"
+msgstr ""
+
+msgid "Options -+ and --reentrant are mutually exclusive."
+msgstr "འདེམས་ཚན -+ དང --reentrant ནི་ཕན་ཚུན་ཕྱིར་འབུད་བྱེད་པ་ཡིན།"
+
+msgid "REJECT cannot be used with -f or -F"
+msgstr "REJEJECT དང -f ཡང་ན -F མཉམ་དུ་བཀོལ་མི་ཐུབ།"
+
+msgid "REJECT entails a large performance penalty\n"
+msgstr ""
+
+msgid "State #%d is non-accepting -\n"
+msgstr ""
+
+msgid "Try `%s --help' for more information.\n"
+msgstr ""
+
+msgid "Unknown error=(%d)\n"
+msgstr ""
+
+msgid "Unmatched '{'"
+msgstr "ཆ་མི་འགྲིག་པ། 「{」"
+
+msgid "Unrecognized option `%s'\n"
+msgstr ""
+
+msgid "Usage: %s [OPTIONS] [FILE]...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTIONS]...\n"
+msgstr ""
+
+msgid "Variable trailing context rule at line %d\n"
+msgstr ""
+
+msgid "Variable trailing context rules entail a large performance penalty\n"
+msgstr ""
+
+msgid "[:^lower:] is ambiguous in case insensitive scanner"
+msgstr ""
+"འབྲི་ཆེ་ཆུང་མཐུན་མི་དགོས་པའི་བཤར་འབེབས་བྱ་རིམ་ཁྲོད། [:^lower:] "
+"ནི་གཉིས་མ་ཚོམ་ཡིན།"
+
+msgid "[:^upper:] ambiguous in case insensitive scanner"
+msgstr ""
+"འབྲི་ཆེ་ཆུང་མཐུན་མི་དགོས་པའི་བཤར་འབེབས་བྱ་རིམ་ཁྲོད། [:^upper:] "
+"ནི་གཉིས་མ་ཚོམ་ཡིན།"
+
+msgid "allocation of macro definition failed"
+msgstr "རགས་པའི་མཚན་ཉིད་བཞག་ནས་འགོད་སྐབས་སུ་ཕམ་པ།"
+
+msgid "allocation of sko_stack failed"
+msgstr "sko-sack ལ་འགོད་སྐབས་སུ་ཕམ་པ།"
+
+msgid "attempt to increase array size failed"
+msgstr "གྲངས་ཚོའི་ཆེ་ཆུང་སྣོན་པའི་སྐབས་ཕམ་པ།"
+
+msgid "bad <start condition>: %s"
+msgstr "ནོར་འཁྲུལ། <ཐོག་མའི་ཆ་རྐྱེན> %s"
+
+msgid "bad character '%s' detected in check_char()"
+msgstr "checkchar() ཡི་ནང་མི་འཚམ་པའི་ཡིག་རྟགས 「%s」མྱུལ་ཞིབ་ཚད་ལེན་ཐུབ་པ། "
+
+msgid "bad character class"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་རྟགས་རིགས།"
+
+msgid "bad character class expression: %s"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་རྟགས་རིགས་ཀྱི་མཚོན་ཚུལ་ནི %s ཡིན།"
+
+msgid "bad character inside {}'s"
+msgstr "འོས་འཚམ་མིན་པའི་ཡིག་རྟགས {} ནང་དུ། "
+
+msgid "bad character: %s"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་རྟགས། %s"
+
+msgid "bad iteration values"
+msgstr "མི་འཚམ་པའི་རིམ་འཇུག་གྲངས་ཐང།"
+
+msgid "bad line in skeleton file"
+msgstr "སྒྲོམ་གཞིའི་ཡིག་ཆའི་ནང་གི་ནོར་འཁྲུལ་ཕྲེང་།"
+
+msgid "bad start condition list"
+msgstr "ནོར་འཁྲུལ་གྱི་ཐོག་མའི་རྣམ་པའི་རེའུ་མིག"
+
+msgid "bad state type in mark_beginning_as_normal()"
+msgstr "mark_beginning_as_normal() ཡི་ནང་མི་འཚམ་པའི་རྣམ་པ་ནང་འཇུག་བྱས་ཡོད།"
+
+msgid "bad transition character detected in sympartition()"
+msgstr ""
+"sympartition() ཡི་ནང་ནས་ནོར་འཁྲུལ་གྱི་ཡིག་རྟགས་བརྗེ་འགྱུར་བཤེར་འཇལ་ཐུབ་པ།"
+
+msgid "bison bridge not supported for the C++ scanner."
+msgstr "ཟམ་འབྲེལ་ཆས bison ལ C++ བཤར་འབེབས་བྱ་རིམ་གྱི་རྒྱབ་སྐྱོར་མི་ཐོབ། "
+
+msgid "can't open %s"
+msgstr "%s ཁ་ཕྱེ་མི་ཐུབ་པ།"
+
+msgid "can't open skeleton file %s"
+msgstr "སྒྲོམ་གཞིའི་ཡིག་ཆ་ཁ་ཕྱེ་མི་ཐུབ་པ།"
+
+msgid "consistency check failed in epsclosure()"
+msgstr "epsclosure() ཡི་ནང་གི་གཅིག་མཐུན་རང་བཞིན་གྱི་ཞིབ་བཤེར་ཕམ་པ།"
+
+msgid "could not create %s"
+msgstr " %s གསར་འཛུགས་བྱེད་ཐབས་མེད།"
+
+msgid "could not create backing-up info file %s"
+msgstr "ཕྱིར་མྱུལ་ཆ་འཕྲིན་གྱི་ཡིག་ཆ %s གསར་འཛུགས་བྱེད་ཐབས་མེད།"
+
+msgid "could not create unique end-of-buffer state"
+msgstr "རྣམ་པ་གཅིག་པུའི end-of-buffer གསར་འཛུགས་བྱེད་ཐབས་མེད། "
+
+msgid "could not write tables header"
+msgstr "རེའུ་མིག་གི་མགོར་འབྲི་མི་ཐུབ།"
+
+msgid "dangerous trailing context"
+msgstr "བདེ་འཇགས་མིན་པའི་མཇུག་མཐའི་གོང་འོག་ཡི་གེ།"
+
+msgid "dynamic memory failure in copy_string()"
+msgstr "copystring() ཡི་ནང་གི་འགུལ་རྣམ་ནང་གསོག་ཕམ་པ།"
+
+msgid "empty machine in dupmachine()"
+msgstr "dupmachine() ཡི་ནང་འཕྲུལ་འཁོར་གཙང་སེལ་བྱེད་པ།"
+
+msgid "error closing backup file %s"
+msgstr "ཕྱིར་མྱུལ་ཡིག་ཆ %s ཁ་རྒྱག་པའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "error closing output file %s"
+msgstr "ཕྱིར་འདོན་ཡིག་ཆ %s ཁ་རྒྱག་པའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "error closing skeleton file %s"
+msgstr "སྒྲོམ་གཞིའི་ཡིག་ཆ %s ཁ་རྒྱག་པའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "error creating header file %s"
+msgstr "མགོ་མའི་ཡིག་ཆ %s གསར་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "error deleting output file %s"
+msgstr "ཕྱིར་འདོན་ཡིག་ཆ %s སུབ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "error writing backup file %s"
+msgstr "ཕྱིར་མྱུལ་ཡིག་ཆ %s འབྲི་བའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "error writing output file %s"
+msgstr "ཕྱིར་འདོན་ཡིག་ཆ %s འབྲི་བའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "fatal parse error"
+msgstr "དབྱེ་ཞིབ་ནོར་འཁྲུལ་ཆེན་པོ།"
+
+msgid "found too many transitions in mkxtion()"
+msgstr "mkxton ཡི་ནང་ནས་བརྗེ་སྤོར་མང་པོ་རྙེད་བྱུང་།"
+
+msgid "incomplete name definition"
+msgstr "ཆ་མི་ཚང་བའི་མིང་གི་མཚན་ཉིད།"
+
+msgid "input error reading skeleton file %s"
+msgstr "སྒྲོམ་གཞིའི་ཡིག་ཆ %s ཀློག་པའི་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "input rules are too complicated (>= %d NFA states)"
+msgstr "ནང་འཇུག་སྒྲིག་སྲོལ་ཧ་ཅང་རྙོག་འཛིང་ཆེ་བ ། (རྣམ་པ >= %d NFA)"
+
+msgid "iteration value must be positive"
+msgstr "རིམ་འཇུག་གྲངས་ཐང་ནི་ངེས་པར་དུ་ཕོ་གྲངས་ཡིན་དགོས།"
+
+msgid "malformed '%top' directive"
+msgstr "རྒྱུན་འགལ་བཀའ་བརྡ 「%top」"
+
+msgid "memory allocation failed in allocate_array()"
+msgstr "allooocatearray ཡི་ནང་གི་ནང་གསོག་སྡེབ་སྒྲིག་ཕམ་པ།"
+
+msgid "memory allocation failed in yy_flex_xmalloc()"
+msgstr "yy_flex_xmalloc() ཡི་ནང་གི་ནང་གསོག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "missing quote"
+msgstr "འདྲེན་རྟགས་ལུས་པ།"
+
+msgid "missing }"
+msgstr " } ལུས་པ།"
+
+msgid "name \"%s\" ridiculously long"
+msgstr ""
+
+msgid "name defined twice"
+msgstr "མིང་ལ་མཚན་ཉིད་ཐེངས་གཉིས་ལ་བཞག་པ།"
+
+msgid "negative range in character class"
+msgstr "ཡིག་རྟགས་ཀྱི་རིགས་སུ་མོ་ཐང་གི་ཁྱབ་ཁོངས་ཡོད།"
+
+msgid "option `%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "option `%s' is ambiguous\n"
+msgstr ""
+
+msgid "option `%s' requires an argument\n"
+msgstr ""
+
+msgid "premature EOF"
+msgstr "ཡིག་ཆའི་མཇུག་སྔ་མོར་ཐོན་པ།"
+
+msgid "rule cannot be matched"
+msgstr "སྒྲིག་སྲོལ་ཟླ་སྒྲིག་བྱེད་ཐབས་བྲལ།"
+
+msgid "scanner requires -8 flag to use the character %s"
+msgstr "བཤར་འབེབས་བྱ་རིམ་ལ་མཚོན་རྟགས 8 ཡིས་ཡིག་རྟགས %s སྤྱོད་དགོས།"
+
+msgid "start condition %s declared twice"
+msgstr "ཐོག་མའི་ཆ་རྐྱེན %s ལ་གསལ་བསྒྲགས་ཐེངས་གཉིས་བྱས།"
+
+msgid "state # %4d\t"
+msgstr ""
+
+msgid "state # %d accepts: "
+msgstr "རྣམ་པ  # %d དང་ལེན་བྱེད་པ།"
+
+msgid "state # %d accepts: [%d]\n"
+msgstr ""
+
+msgid "state # %d:\n"
+msgstr ""
+
+msgid "symbol table memory allocation failed"
+msgstr "མཚོན་རྟགས་རེའུ་མིག་ནང་གསོག་གི་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "the character range [%c-%c] is ambiguous in a case-insensitive scanner"
+msgstr ""
+"འབྲི་ཆེ་ཆུང་མཐུན་མི་དགོས་པའི་བཤར་འབེབས་བྱ་རིམ་་ཁྲོད། ཡིག་རྟགས་ཀྱི་ཁྱབ་ཁོངས "
+"[%c-%c] ནི་གཉིས་མ་ཚོམ་ཡིན"
+
+msgid "too many rules (> %d)!"
+msgstr "སྒྲིག་སྲོལ་མང་དྲགས་པ།"
+
+msgid "trailing context used twice"
+msgstr "མཇུག་གི་གོང་འོག་ཡི་གེར་ཐེངས་གཉིས་བཀོལ་ཟིན།"
+
+msgid "undefined definition {%s}"
+msgstr "མཚན་ཉིད་མ་བཞག་པའི་མཚན་ཉིད  {%s}"
+
+msgid "unknown -C option '%c'"
+msgstr "ངེས་མེད-C ཡི་འདེམས་ཚན “c%”"
+
+msgid "unknown error processing section 1"
+msgstr "ངེས་མེད་ཀྱི་ནོར་འཁྲུལ་ཐག་གཅོད་ཚིགས 1"
+
+msgid "unrecognized %%option: %s"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི %% ཡི་འདེམས་ཚན %s"
+
+msgid "unrecognized '%' directive"
+msgstr "དབྱེ་འབྱེད་བྱེད་ཐབས་མེད་པའི་བཀའ་བརྡ 「%」"
+
+msgid "unrecognized rule"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་སྒྲིག་སྲོལ།"
+
+msgid "variable trailing context rules cannot be used with -f or -F"
+msgstr ""
+"འགྱུར་ཚད་མཇུག་གི་གོང་འོག་ཡི་གེའི་སྒྲིག་སྲོལ་དང -f འམ་ཡང་ན -F "
+"མཉམ་དུ་སྤྱོད་མི་ཐུབ།"
+
+msgid "yymore() entails a minor performance penalty\n"
+msgstr ""

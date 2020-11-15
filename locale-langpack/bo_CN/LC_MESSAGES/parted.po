@@ -1,0 +1,1269 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Error: FPE_FLTDIV (Float: divide by zero)"
+msgstr ""
+
+msgid ""
+"\n"
+"Error: FPE_FLTINV (Float: invalid operation)"
+msgstr ""
+
+msgid ""
+"\n"
+"Error: FPE_FLTOVF (Float: overflow)"
+msgstr ""
+
+msgid ""
+"\n"
+"Error: FPE_FLTRES (Float: inexact result)"
+msgstr ""
+
+msgid ""
+"\n"
+"Error: FPE_INTDIV (Integer: divide by zero)"
+msgstr ""
+
+msgid ""
+"\n"
+"Error: FPE_INTOVF (Integer: overflow)"
+msgstr ""
+
+msgid ""
+"\n"
+"Error: ILL_BADSTK (Internal Stack Error)"
+msgstr ""
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Report bugs to <%s>.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"When no DEVICE is given, probe all partitions.\n"
+msgstr ""
+
+msgid "\"%s\" has invalid syntax for locations."
+msgstr ""
+
+msgid "%0.f%%\t(time left %.2d:%.2d)"
+msgstr ""
+
+msgid "%s  %s"
+msgstr ""
+
+msgid "%s  %s  %s"
+msgstr ""
+
+msgid "%s : Bad checksum on block %llu of type %s."
+msgstr ""
+
+msgid "%s : Didn't find rdb block, should never happen."
+msgstr ""
+
+msgid "%s : Failed to list bad blocks."
+msgstr ""
+
+msgid "%s : Failed to list boot blocks."
+msgstr ""
+
+msgid "%s : Failed to list file system blocks."
+msgstr ""
+
+msgid "%s : Failed to list partition blocks."
+msgstr ""
+
+msgid "%s : Loop detected at block %d."
+msgstr ""
+
+msgid "%s : The %s list seems bad at block %s."
+msgstr ""
+
+msgid "%s disk labels do not support extended partitions."
+msgstr ""
+
+msgid "%s disk labels don't support logical or extended partitions."
+msgstr ""
+
+msgid "%s during read on %s"
+msgstr ""
+
+msgid "%s during seek for read on %s"
+msgstr ""
+
+msgid "%s during seek for write on %s"
+msgstr ""
+
+msgid "%s during write on %s"
+msgstr ""
+
+msgid "%s has no extended partition (volume header partition)."
+msgstr ""
+
+msgid "%s is %dk, but it has %d clusters (%dk)."
+msgstr ""
+
+msgid "%s is too small for a Mac disk label!"
+msgstr ""
+
+msgid "%s trying to sync %s to disk"
+msgstr ""
+
+msgid "%s: unrecognised disk label"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid ""
+"A %s %s partition was found at %s -> %s.  Do you want to add it to the "
+"partition table?"
+msgstr ""
+
+msgid ""
+"A reference to an extent comes from a place it should not.  You should check"
+" the file system!"
+msgstr ""
+
+msgid "API version mismatch"
+msgstr ""
+
+msgid "ATARAID Controller"
+msgstr ""
+
+msgid "An error occurred during extent relocation."
+msgstr ""
+
+msgid "An error occurred while looking for the mandatory bad blocks file."
+msgstr ""
+
+msgid "An extent has not been relocated."
+msgstr ""
+
+msgid "Attempt to write sectors %ld-%ld outside of partition on %s."
+msgstr ""
+
+msgid "BIOS cylinder,head,sector geometry: %d,%d,%d.  Each cylinder is %s.\n"
+msgstr ""
+
+msgid ""
+"Bad FAT: cluster %d is cross-linked for %s.  You should run dosfsck or "
+"scandisk."
+msgstr ""
+
+msgid ""
+"Bad FAT: cluster %d outside file system in chain for %s.  You should run "
+"dosfsck or scandisk."
+msgstr ""
+
+msgid ""
+"Bad FAT: unterminated chain for %s.  You should run dosfsck or scandisk."
+msgstr ""
+
+msgid "Bad block list header checksum."
+msgstr ""
+
+msgid "Bad blocks could not be read."
+msgstr ""
+
+msgid "Bad blocks list could not be loaded."
+msgstr ""
+
+msgid "Bad directory entry for %s: first cluster is the end of file marker."
+msgstr ""
+
+msgid "Bad journal checksum."
+msgstr ""
+
+msgid ""
+"Both the primary and backup GPT tables are corrupt.  Try making a fresh "
+"table, and using Parted's rescue feature to recover partitions."
+msgstr ""
+
+msgid "Bug"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "COMMANDs:"
+msgstr "བཀའ་བརྡ།"
+
+msgid ""
+"Can't add a logical partition to %s, because there is no extended partition."
+msgstr ""
+
+msgid "Can't add another partition -- the partition map is too small!"
+msgstr ""
+
+msgid "Can't add another partition."
+msgstr ""
+
+msgid "Can't create any more partitions."
+msgstr ""
+
+msgid ""
+"Can't have a logical partition outside of the extended partition on %s."
+msgstr ""
+
+msgid "Can't have a partition outside the disk!"
+msgstr ""
+
+msgid "Can't have a primary partition inside an extended partition."
+msgstr ""
+
+msgid "Can't have logical partitions outside of the extended partition."
+msgstr ""
+
+msgid "Can't have more than one extended partition on %s."
+msgstr ""
+
+msgid "Can't have overlapping partitions."
+msgstr ""
+
+msgid "Can't write to %s, because it is opened read-only."
+msgstr ""
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Cannot get unit size for special unit 'COMPACT'."
+msgstr ""
+
+msgid ""
+"Changing the name of a root or swap partition will prevent Linux from "
+"recognising it as such."
+msgstr ""
+
+msgid "Checksum is wrong, indicating the partition table is corrupt."
+msgstr ""
+
+msgid ""
+"Cluster start delta = %d, which is not a multiple of the cluster size %d."
+msgstr ""
+
+msgid "Compaq Smart Array"
+msgstr ""
+
+msgid ""
+"Conflicting partition map entry sizes!  Entry 1 says it is %d, but entry %d "
+"says it is %d!"
+msgstr ""
+
+msgid "Corrupted Sun disk label detected."
+msgstr ""
+
+msgid "Could not cache the file system in memory."
+msgstr ""
+
+msgid "Could not detect file system."
+msgstr ""
+
+msgid ""
+"Could not determine sector size for %s: %s.\n"
+"Using the default sector size (%lld)."
+msgstr ""
+
+msgid "Could not find sector %lli of HFS+ file with CNID %X."
+msgstr ""
+
+msgid "Could not get identity of device %s - %s"
+msgstr ""
+
+msgid "Could not stat device %s - %s."
+msgstr ""
+
+msgid "Could not update the extent cache for HFS file with CNID %X."
+msgstr ""
+
+msgid "Could not update the extent cache for HFS+ file with CNID %X."
+msgstr ""
+
+msgid "DAC960 RAID controller"
+msgstr ""
+
+msgid "DEVICE is usually /dev/hda or /dev/sda\n"
+msgstr ""
+
+msgid "Data relocation has failed."
+msgstr ""
+
+msgid "Data relocation left some data at the end of the volume."
+msgstr ""
+
+msgid "Data relocation left some data in the end of the volume."
+msgstr ""
+
+msgid ""
+"Device %s has multiple (%d) logical sectors per physical sector.\n"
+"GNU Parted supports this EXPERIMENTALLY for some special disk label/file system combinations, e.g. GPT and ext2/3.\n"
+"Please consult the web site for up-to-date information."
+msgstr ""
+
+msgid "Disk %s: %s\n"
+msgstr ""
+
+msgid "Disk Image"
+msgstr "སྡུད་སྡེར་ཤེལ་བརྙན།"
+
+msgid "Disk is in use"
+msgstr ""
+
+msgid "End?"
+msgstr ""
+
+msgid "Error"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid ""
+"Error informing the kernel about modifications to partition %s -- %s.  This "
+"means Linux won't know about any changes you made to %s until you reboot -- "
+"so you shouldn't mount it or use it in any way before rebooting."
+msgstr ""
+
+msgid "Error initialising SCSI device %s - %s"
+msgstr ""
+
+msgid "Error opening %s: %s"
+msgstr ""
+
+msgid "Error while writing the compatibility part of the allocation file."
+msgstr ""
+
+msgid "Error writing to the root directory."
+msgstr ""
+
+msgid "Expecting a disk label type."
+msgstr ""
+
+msgid "Expecting a file system type."
+msgstr ""
+
+msgid "Expecting a partition number."
+msgstr ""
+
+msgid "Expecting a partition type."
+msgstr ""
+
+msgid "Extended partitions cannot be hidden on msdos disk labels."
+msgstr ""
+
+msgid ""
+"FAT %d media %x doesn't match the boot sector's media %x.  You should "
+"probably run scandisk."
+msgstr ""
+
+msgid "FAT boot sector says clusters are 0 sectors.  This is weird. "
+msgstr ""
+
+msgid "FAT boot sector says logical sector size is 0.  This is weird. "
+msgstr ""
+
+msgid "FAT boot sector says there are no FAT tables.  This is weird. "
+msgstr ""
+
+msgid "FLAG is one of: "
+msgstr ""
+
+msgid "FS-TYPE is one of: "
+msgstr ""
+
+msgid "Failed to write partition block at %d."
+msgstr ""
+
+msgid "Fatal"
+msgstr ""
+
+msgid "File system"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
+
+msgid ""
+"File system doesn't have expected sizes for Windows to like it.  Cluster "
+"size is %dk (%dk expected); number of clusters is %d (%d expected); size of "
+"FATs is %d sectors (%d expected)."
+msgstr ""
+
+msgid "File system has an invalid cluster size for a FAT file system."
+msgstr ""
+
+msgid "File system has an invalid number of FATs."
+msgstr ""
+
+msgid ""
+"File system has an invalid number of reserved sectors for a FAT file system."
+msgstr ""
+
+msgid "File system has an invalid sector size for a FAT file system."
+msgstr ""
+
+msgid "File system has an invalid signature for a FAT file system."
+msgstr ""
+
+msgid "File system is FAT12, which is unsupported."
+msgstr ""
+
+msgid ""
+"File system is reporting the free space as %d clusters, not %d clusters."
+msgstr ""
+
+msgid "File system type?"
+msgstr ""
+
+msgid "Fix"
+msgstr ""
+
+msgid "Flags"
+msgstr "རྟགས་མཚན།"
+
+msgid "Free Space"
+msgstr ""
+
+msgid ""
+"GNU Parted cannot resize this partition to this size.  We're working on it!"
+msgstr ""
+
+msgid ""
+"GNU Parted was miscompiled: the FAT boot sector should be 512 bytes.  FAT "
+"support will be disabled."
+msgstr ""
+
+msgid "Generic IDE"
+msgstr ""
+
+msgid "Generic SD/MMC Storage Card"
+msgstr ""
+
+msgid "I2O Controller"
+msgstr ""
+
+msgid "IBM S390 DASD drive"
+msgstr ""
+
+msgid ""
+"If you convert to FAT16, and MS Windows is installed on this partition, then"
+" you must re-install the MS Windows boot loader.  If you want to do this, "
+"you should consult the Parted manual (or your distribution's manual)."
+msgstr ""
+
+msgid ""
+"If you convert to FAT32, and MS Windows is installed on this partition, then"
+" you must re-install the MS Windows boot loader.  If you want to do this, "
+"you should consult the Parted manual (or your distribution's manual).  Also,"
+" converting to FAT32 will make the file system unreadable by MS DOS, MS "
+"Windows 95a, and MS Windows NT."
+msgstr ""
+
+msgid ""
+"If you leave your file system as FAT16, then you will have no problems."
+msgstr ""
+
+msgid ""
+"If you leave your file system as FAT32, then you will not introduce any new "
+"problems."
+msgstr ""
+
+msgid "Ignore"
+msgstr "སྣང་མེད།"
+
+msgid "Incorrect magic values in the journal header."
+msgstr ""
+
+msgid ""
+"Inform the operating system about partition table changes.\n"
+"\n"
+"  -d, --dry-run    do not actually inform the operating system\n"
+"  -s, --summary    print a summary of contents\n"
+"  -h, --help       display this help and exit\n"
+"  -v, --version    output version information and exit\n"
+msgstr ""
+
+msgid "Information"
+msgstr "གསལ་བརྡ།"
+
+msgid "Invalid back reference"
+msgstr ""
+
+msgid "Invalid character class name"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་རྟགས་རིགས་གྲས་མིང་།"
+
+msgid "Invalid collation character"
+msgstr ""
+
+msgid "Invalid content of \\{\\}"
+msgstr ""
+
+msgid "Invalid number."
+msgstr ""
+
+msgid "Invalid partition table - recursive partition on %s."
+msgstr ""
+
+msgid "Invalid partition table on %s -- wrong signature %x."
+msgstr ""
+
+msgid "Invalid partition table on %s."
+msgstr ""
+
+msgid "Invalid preceding regular expression"
+msgstr "ནུས་མེད་ཀྱི་མདུན་བཀོད་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Invalid range end"
+msgstr ""
+
+msgid "Invalid regular expression"
+msgstr "ནུས་མེད་ཀྱི་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Invalid signature %x for Mac disk labels."
+msgstr ""
+
+msgid ""
+"Invalid size of a transaction block while replaying the journal (%i bytes)."
+msgstr ""
+
+msgid ""
+"It seems there is an error in the HFS wrapper: the bad blocks file doesn't "
+"contain the embedded HFS+ volume."
+msgstr ""
+
+msgid "Journal size mismatch between journal info block and journal header."
+msgstr ""
+
+msgid ""
+"Journal stored outside of the volume are not supported.  Try to desactivate "
+"the journal and run Parted again."
+msgstr ""
+
+msgid "LABEL-TYPE is one of: "
+msgstr ""
+
+msgid "Linux device-mapper (%s)"
+msgstr ""
+
+msgid "Memory allocation failed"
+msgstr "ནང་གསོག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Memory exhausted"
+msgstr "ནང་གསོག་བཀོལ་ཚར།"
+
+msgid "NAME is any word you want\n"
+msgstr ""
+
+msgid ""
+"NUMBER is the partition number used by Linux.  On MS-DOS disk labels, the "
+"primary partitions number from 1 to 4, logical partitions from 5 onwards.\n"
+msgstr ""
+
+msgid "New device?"
+msgstr ""
+
+msgid "New disk label type?"
+msgstr ""
+
+msgid "New state?"
+msgstr ""
+
+msgid "No"
+msgstr "མིན།"
+
+msgid "No Implementation"
+msgstr ""
+
+msgid "No device found"
+msgstr "སྒྲིག་ཆས་མ་རྙེད་པ།"
+
+msgid "No match"
+msgstr "ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "No previous regular expression"
+msgstr ""
+
+msgid "No valid HFS[+X] signature has been found while opening."
+msgstr ""
+
+msgid "No valid partition map found."
+msgstr ""
+
+msgid "Number"
+msgstr "ཨང་རྟགས།"
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "OPTIONs:"
+msgstr "འདེམས་ཚན།："
+
+msgid "Only logical partitions can be a boot file."
+msgstr ""
+
+msgid "Only primary partitions can be root partitions."
+msgstr ""
+
+msgid "Only primary partitions can be swap partitions."
+msgstr ""
+
+msgid "Out of memory."
+msgstr ""
+
+msgid "PART-TYPE is one of: primary, logical, extended\n"
+msgstr ""
+
+msgid "Parted can't resize partitions managed by Windows Dynamic Disk."
+msgstr ""
+
+msgid ""
+"Parted can't use HFS file systems on disks with a sector size not equal to "
+"%d bytes."
+msgstr ""
+
+msgid "Partition %d has an invalid length of 0 bytes!"
+msgstr ""
+
+msgid "Partition %d has an invalid signature %x."
+msgstr ""
+
+msgid "Partition %d is %s, but the file system is %s."
+msgstr ""
+
+msgid ""
+"Partition %d isn't aligned to cylinder boundaries.  This is still "
+"unsupported."
+msgstr ""
+
+msgid "Partition Table: %s\n"
+msgstr ""
+
+msgid "Partition doesn't exist."
+msgstr ""
+
+msgid "Partition map has no partition map entry!"
+msgstr ""
+
+msgid "Partition name?"
+msgstr ""
+
+msgid "Partition number?"
+msgstr ""
+
+msgid "Partition too big/small for a %s file system."
+msgstr ""
+
+msgid "Partition type?"
+msgstr ""
+
+msgid "Partition(s) on %s are being used."
+msgstr ""
+
+msgid "Premature end of regular expression"
+msgstr ""
+
+msgid "Regular expression too big"
+msgstr ""
+
+msgid "Resizing the HFS+ volume has failed."
+msgstr ""
+
+msgid "Retry"
+msgstr "བསྐྱར་ཚོད།"
+
+msgid ""
+"START and END are disk locations, such as 4GB or 10%.  Negative values count"
+" from the end of the disk.  For example, -1s specifies exactly the last "
+"sector.\n"
+msgstr ""
+
+msgid "STATE is one of: on, off\n"
+msgstr ""
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Some header fields are not multiple of the sector size."
+msgstr ""
+
+msgid "Sorry, HFS cannot be resized that way yet."
+msgstr ""
+
+msgid "Sorry, HFS+ cannot be resized that way yet."
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start?"
+msgstr ""
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Sun disk label is full."
+msgstr ""
+
+msgid "Syntax error in config file"
+msgstr ""
+
+msgid ""
+"The FATs don't match.  If you don't know what this means, then select "
+"cancel, run scandisk on the file system, and then come back."
+msgstr ""
+
+msgid ""
+"The Whole Disk partition is the only available one left.  Generally, it is "
+"not a good idea to overwrite this partition with a real one.  Solaris may "
+"not be able to boot without it, and SILO (the sparc boot loader) appreciates"
+" it as well."
+msgstr ""
+
+msgid "The boot region doesn't start at the start of the partition."
+msgstr ""
+
+msgid "The data region doesn't start at the start of the partition."
+msgstr ""
+
+msgid ""
+"The disk CHS geometry (%d,%d,%d) reported by the operating system does not "
+"match the geometry stored on the disk label (%d,%d,%d)."
+msgstr ""
+
+msgid "The disk has %d cylinders, which is greater than the maximum of 65536."
+msgstr ""
+
+msgid "The disk label describes a disk bigger than %s."
+msgstr ""
+
+msgid ""
+"The driver descriptor says the physical block size is %d bytes, but Linux "
+"says it is %d bytes."
+msgstr ""
+
+msgid ""
+"The extents overflow file should not contain its own extents!  You should "
+"check the file system."
+msgstr ""
+
+msgid ""
+"The file %s is marked as a system file.  This means moving it could cause "
+"some programs to stop working."
+msgstr ""
+
+msgid ""
+"The file system can only be resized to this size by converting to FAT16."
+msgstr ""
+
+msgid ""
+"The file system can only be resized to this size by converting to FAT32."
+msgstr ""
+
+msgid "The file system contains errors."
+msgstr ""
+
+msgid "The file system is bigger than its volume!"
+msgstr ""
+
+msgid ""
+"The file system's CHS geometry is (%d, %d, %d), which is invalid.  The "
+"partition table's CHS geometry is (%d, %d, %d).  If you select Ignore, the "
+"file system's CHS geometry will be left unchanged.  If you select Fix, the "
+"file system's CHS geometry will be set to match the partition table's CHS "
+"geometry."
+msgstr ""
+
+msgid ""
+"The information sector has the wrong signature (%x).  Select cancel for now,"
+" and send in a bug report.  If you're desperate, it's probably safe to "
+"ignore."
+msgstr ""
+
+msgid ""
+"The journal is not empty.  Parted must replay the transactions before "
+"opening the file system.  This will modify the file system."
+msgstr ""
+
+msgid "The location %s is outside of the device %s."
+msgstr ""
+
+msgid "The maximum head value is %d."
+msgstr ""
+
+msgid "The maximum sector value is %d."
+msgstr ""
+
+msgid ""
+"The partition table cannot be re-read.  This means you need to reboot before"
+" mounting any modified partitions.  You also need to reinstall your boot "
+"loader before you reboot (which may require mounting modified partitions).  "
+"It is impossible do both things!  So you'll need to boot off a rescue disk, "
+"and reinstall your boot loader from the rescue disk.  Read section 4 of the "
+"Parted User documentation for more information."
+msgstr ""
+
+msgid ""
+"The partition table on %s cannot be re-read (%s).  This means the Hurd knows"
+" nothing about any modifications you made.  You should reboot your computer "
+"before doing anything with %s."
+msgstr ""
+
+msgid "The partition's boot region doesn't occupy the entire partition."
+msgstr ""
+
+msgid "The partition's data region doesn't occupy the entire partition."
+msgstr ""
+
+msgid ""
+"The primary GPT table is corrupt, but the backup appears OK, so that will be"
+" used."
+msgstr ""
+
+msgid ""
+"The sector size stored in the journal is not 512 bytes.  Parted only "
+"supports 512 bytes length sectors."
+msgstr ""
+
+msgid ""
+"The volume header or the master directory block has changed while replaying "
+"the journal.  You should restart Parted."
+msgstr ""
+
+msgid "There are no possible configurations for this FAT type."
+msgstr ""
+
+msgid ""
+"There's not enough room in the root directory for all of the files.  Either "
+"cancel, or ignore to lose the files."
+msgstr ""
+
+msgid "This HFS volume has no catalog file.  This is very unusual!"
+msgstr ""
+
+msgid "This HFS volume has no extents overflow file.  This is quite unusual!"
+msgstr ""
+
+msgid "This HFS+ volume has no catalog file.  This is very unusual!"
+msgstr ""
+
+msgid "This HFS+ volume has no extents overflow file.  This is quite unusual!"
+msgstr ""
+
+msgid ""
+"This file system has a logical sector size of %d.  GNU Parted is known not "
+"to work properly with sector sizes other than 512 bytes."
+msgstr ""
+
+msgid ""
+"This is not a real %s check.  This is going to extract special low level "
+"files for debugging purposes."
+msgstr ""
+
+msgid ""
+"This libparted doesn't have write support for %s.  Perhaps it was compiled "
+"read-only."
+msgstr ""
+
+msgid "Too many primary partitions"
+msgstr ""
+
+msgid "Too many primary partitions."
+msgstr ""
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Try `%s --help' for more information.\n"
+msgstr ""
+
+msgid ""
+"Trying to move an extent from block Ox%X to block Ox%X, but another one "
+"already exists at this position.  This should not happen!"
+msgstr ""
+
+msgid "Trying to read HFS file with CNID %X behind EOF."
+msgstr ""
+
+msgid "Trying to read HFS+ file with CNID %X behind EOF."
+msgstr ""
+
+msgid ""
+"Trying to register an extent starting at block 0x%X, but another one already"
+" exists at this position.  You should check the file system!"
+msgstr ""
+
+msgid "Trying to write HFS file with CNID %X behind EOF."
+msgstr ""
+
+msgid "Trying to write HFS+ file with CNID %X behind EOF."
+msgstr ""
+
+msgid "Type"
+msgstr "རིགས་གྲས་"
+
+msgid "UNIT is one of: "
+msgstr ""
+
+msgid "Unable to allocate a bsd disklabel slot."
+msgstr ""
+
+msgid "Unable to allocate a partition number."
+msgstr ""
+
+msgid "Unable to determine the size of %s (%s)."
+msgstr ""
+
+msgid "Unable to open %s read-write (%s).  %s has been opened read-only."
+msgstr ""
+
+msgid "Unable to open %s."
+msgstr ""
+
+msgid "Unable to probe store."
+msgstr ""
+
+msgid "Unable to satisfy all constraints on the partition."
+msgstr ""
+
+msgid "Unit?"
+msgstr ""
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unknown file system type \"%s\"."
+msgstr ""
+
+msgid "Unknown partition flag, %d."
+msgstr ""
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Unmatched ( or \\("
+msgstr ""
+
+msgid "Unmatched ) or \\)"
+msgstr ""
+
+msgid "Unmatched [ or [^"
+msgstr ""
+
+msgid "Unmatched \\{"
+msgstr ""
+
+msgid "Unsupported disk format"
+msgstr ""
+
+msgid "Unsupported disk type"
+msgstr ""
+
+msgid "Updating the HFS wrapper has failed."
+msgstr ""
+
+msgid "Usage: %s [OPTION] [DEVICE]...\n"
+msgstr ""
+
+msgid "User-Mode Linux UBD"
+msgstr ""
+
+msgid "Using %s\n"
+msgstr ""
+
+msgid "Version %d of HFS+ isn't supported."
+msgstr ""
+
+msgid "Version %d of HFSX isn't supported."
+msgstr ""
+
+msgid "Virtio Block Device"
+msgstr ""
+
+msgid "Volume label is corrupted"
+msgstr ""
+
+msgid "WARNING: You are not superuser.  Watch out for permissions.\n"
+msgstr ""
+
+msgid "Warning"
+msgstr "ཐ་ཚིག "
+
+msgid ""
+"Weird block size on device descriptor: %d bytes is not divisible by 512."
+msgstr ""
+
+msgid "Weird!  There are 2 partitions map entries!"
+msgstr ""
+
+msgid "Welcome to GNU Parted! Type 'help' to view a list of commands.\n"
+msgstr ""
+
+msgid "Would you like to use FAT32?"
+msgstr ""
+
+msgid "Written by %s and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr ""
+
+msgid "Written by %s.\n"
+msgstr ""
+
+msgid "Xen Virtual Block Device"
+msgstr ""
+
+msgid "Yes"
+msgstr "ཡིན།"
+
+msgid ""
+"You need %s of free disk space to shrink this partition to this size.  "
+"Currently, only %s is free."
+msgstr ""
+
+msgid ""
+"You should reinstall your boot loader before rebooting.  Read section 4 of "
+"the Parted User documentation for more information."
+msgstr ""
+
+msgid "^[nN]"
+msgstr ""
+
+msgid "^[yY]"
+msgstr ""
+
+msgid "`"
+msgstr ""
+
+msgid "bios_grub"
+msgstr ""
+
+msgid "boot"
+msgstr "མགོ་སློང་།"
+
+msgid "checking for bad blocks"
+msgstr ""
+
+msgid "displays the version"
+msgstr ""
+
+msgid "displays this help message"
+msgstr ""
+
+msgid "extended"
+msgstr ""
+
+msgid "fat_table_alloc_cluster: no free clusters"
+msgstr ""
+
+msgid "fat_table_get: cluster %ld outside file system"
+msgstr ""
+
+msgid "fat_table_set: cluster %ld outside file system"
+msgstr ""
+
+msgid "free"
+msgstr "ལྷག་མ།"
+
+msgid "help"
+msgstr "རོགས་རམ།"
+
+msgid "hidden"
+msgstr ""
+
+msgid "hp-service"
+msgstr ""
+
+msgid "ioctl() error"
+msgstr ""
+
+msgid "lba"
+msgstr ""
+
+msgid "logical"
+msgstr ""
+
+msgid "lvm"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "metadata"
+msgstr "རྒྱུའི་གཞི་གྲངས།"
+
+msgid "mklabel"
+msgstr ""
+
+msgid "mkpart"
+msgstr ""
+
+msgid "mkpart PART-TYPE [FS-TYPE] START END     make a partition"
+msgstr ""
+
+msgid "msftres"
+msgstr ""
+
+msgid "name"
+msgstr "མིང་།"
+
+msgid "name NUMBER NAME                         name partition NUMBER as NAME"
+msgstr ""
+
+msgid "never prompts for user intervention"
+msgstr ""
+
+msgid "off"
+msgstr "སྒོ་རྒྱག"
+
+msgid "on"
+msgstr "ཁ་འབྱེད་པ།"
+
+msgid "open error"
+msgstr ""
+
+msgid "palo"
+msgstr ""
+
+msgid "ped_device_new()  Unsupported device type"
+msgstr ""
+
+msgid "prep"
+msgstr ""
+
+msgid "primary"
+msgstr "གཙོ་བོ།"
+
+msgid "print"
+msgstr ""
+
+msgid "quit"
+msgstr ""
+
+msgid "quit                                     exit program"
+msgstr ""
+
+msgid "raid"
+msgstr ""
+
+msgid "read error"
+msgstr "ཀློག་ལནེ་ནོར་འཁྲུལ"
+
+msgid "rescue"
+msgstr ""
+
+msgid ""
+"rescue START END                         rescue a lost partition near START "
+"and END"
+msgstr ""
+
+msgid "resize"
+msgstr ""
+
+msgid "rm"
+msgstr ""
+
+msgid "rm NUMBER                                delete partition NUMBER"
+msgstr ""
+
+msgid "root"
+msgstr ""
+
+msgid "searching for file systems"
+msgstr ""
+
+msgid "seek error"
+msgstr "ནོར་འཁྲུལ་བཤེར་འཚོལ།"
+
+msgid "select"
+msgstr "འདེམ་པ།"
+
+msgid "select DEVICE                            choose the device to edit"
+msgstr ""
+
+msgid "set"
+msgstr "བཀོད་ཟིན།"
+
+msgid "shrinking"
+msgstr ""
+
+msgid "shrinking embedded HFS+ volume"
+msgstr ""
+
+msgid "swap"
+msgstr ""
+
+msgid "toggle"
+msgstr ""
+
+msgid ""
+"toggle [NUMBER [FLAG]]                   toggle the state of FLAG on "
+"partition NUMBER"
+msgstr ""
+
+msgid "unit"
+msgstr "འཇལ་བྱེད།"
+
+msgid "version"
+msgstr "པར་གཞི།"
+
+msgid "write error"
+msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+
+msgid "writing HFS+ Volume Header"
+msgstr ""

@@ -1,0 +1,1640 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"*This* tar defaults to:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Report bugs to: %s\n"
+msgstr ""
+
+msgid "  or: "
+msgstr "  ཡང་ན།: "
+
+msgid " !             Spawn a subshell\n"
+msgstr ""
+
+msgid " ?             Print this list\n"
+msgstr ""
+
+msgid " [OPTION...]"
+msgstr " [འདེམས་ཚན་...]"
+
+msgid " link to %s\n"
+msgstr ""
+
+msgid ""
+" n name        Give a new file name for the next (and subsequent) volume(s)\n"
+" q             Abort tar\n"
+" y or newline  Continue operation\n"
+msgstr ""
+
+msgid " unknown file type %s\n"
+msgstr ""
+
+msgid "%.*s: ARGP_HELP_FMT parameter must be positive"
+msgstr "%.*s: ARGP_HELP_FMT ཞུགས་གྲངས་ཚད་ངེས་པར་དུ་ཕོ་ཡིན་དགོས།"
+
+msgid "%.*s: ARGP_HELP_FMT parameter requires a value"
+msgstr "%.*s: ARGP_HELP_FMT ཞུགས་གྲངས་ཚད་ཅིག་དགོས།"
+
+msgid "%.*s: Unknown ARGP_HELP_FMT parameter"
+msgstr "%.*s: མི་ཤེས་པའི་ ARGP_HELP_FMT ཞུགས་གྲངས།"
+
+msgid "%s command failed"
+msgstr ""
+
+msgid "%s home page: <%s>\n"
+msgstr ""
+
+msgid "%s home page: <http://www.gnu.org/software/%s/>\n"
+msgstr ""
+
+msgid "%s is not continued on this volume"
+msgstr ""
+
+msgid ""
+"%s is possibly continued on this volume: header contains truncated name"
+msgstr ""
+
+msgid "%s is the wrong size (%s != %s + %s)"
+msgstr ""
+
+msgid "%s: Cannot %s"
+msgstr "%s: རྟེན་འབྱུང་གྲངས་%s ཕམ་པ།"
+
+msgid "%s: Cannot change mode to %s"
+msgstr "%s: རྣམ་པ་ %sལ་སྒྱུར་མི་ཐུབ།"
+
+msgid "%s: Cannot change ownership to uid %lu, gid %lu"
+msgstr "%s: བདག་དབང་སྤྱོད་མཁན་ID %luལ་བཅོས་མི་ཐུབ།  ཚོ་ID %lu"
+
+msgid "%s: Cannot create symlink to %s"
+msgstr "%s: སྦྲེལ་མཐུད་ %s ལ་གསར་བཟོ་བྱ་མི་ཐུབ།"
+
+msgid "%s: Cannot extract -- file is continued from another volume"
+msgstr ""
+
+msgid "%s: Cannot hard link to %s"
+msgstr "%s:  སྲ་སྦྲེལ་ %sལ་བྱ་མི་ཐུབ།"
+
+msgid "%s: Cannot remove"
+msgstr ""
+
+msgid "%s: Cannot rename to %s"
+msgstr ""
+
+msgid "%s: Cannot seek to %s"
+msgstr "%s: གནས་ %sལ་ངེས་མི་ཐུབ།"
+
+msgid "%s: Deleting %s\n"
+msgstr ""
+
+msgid "%s: Directory has been renamed"
+msgstr ""
+
+msgid "%s: Directory has been renamed from %s"
+msgstr ""
+
+msgid "%s: Directory is new"
+msgstr ""
+
+msgid "%s: Directory renamed before its status could be extracted"
+msgstr ""
+
+msgid "%s: File removed before we read it"
+msgstr ""
+
+msgid "%s: File shrank by %s byte"
+msgid_plural "%s: File shrank by %s bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s: File shrank by %s byte; padding with zeros"
+msgid_plural "%s: File shrank by %s bytes; padding with zeros"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s: Invalid archive format"
+msgstr ""
+
+msgid "%s: Not found in archive"
+msgstr ""
+
+msgid "%s: Not purging directory: unable to stat"
+msgstr ""
+
+msgid "%s: Omitting"
+msgstr ""
+
+msgid "%s: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%s: གནས %s རུ་ཡིག་ཚིགས་ཀློག་ནོར་འབྱུང་། (%lu ཡིག་ཚིགས་ཀློག་པ།)"
+msgstr[1] "%s: གནས %s རུ་ཡིག་ཚིགས་ཀློག་ནོར་འབྱུང་། (%lu ཡིག་ཚིགས་ཀློག་པ།)"
+
+msgid "%s: Required occurrence not found in archive"
+msgstr ""
+
+msgid "%s: Too many arguments\n"
+msgstr ""
+
+msgid "%s: Unexpected inconsistency when making directory"
+msgstr ""
+
+msgid "%s: Unknown file type '%c', diffed as normal file"
+msgstr ""
+
+msgid "%s: Unknown file type '%c', extracted as normal file"
+msgstr ""
+
+msgid "%s: Unknown file type; file ignored"
+msgstr ""
+
+msgid "%s: Volume label is too long (limit is %lu byte)"
+msgid_plural "%s: Volume label is too long (limit is %lu bytes)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s: Warning: Cannot %s"
+msgstr "%s: ཐ་ཚིག  རྟེན་འབྱུང་གྲངས་ %s ཕམ་པ།"
+
+msgid "%s: Warning: Cannot seek to %s"
+msgstr "%s: ཐ་ཚིག  གནས་ %sལ་ངེས་མི་ཐུབ།"
+
+msgid "%s: Warning: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Warning: Read error at byte %s, while reading %lu bytes"
+msgstr[0] ""
+"%s: ཐ་ཚིག   %s ཡིག་ཚིགས་སུ་ཀློག་པ་ནོར་འཁྲུལ་བྱུང་།( %lu ཡིག་ཚིགས་ཀློག་པ།)"
+msgstr[1] ""
+"%s: ཐ་ཚིག   %s ཡིག་ཚིགས་སུ་ཀློག་པ་ནོར་འཁྲུལ་བྱུང་།( %lu ཡིག་ཚིགས་ཀློག་པ།)"
+
+msgid "%s: Was unable to backup this file"
+msgstr ""
+
+msgid "%s: Wrote only %lu of %lu byte"
+msgid_plural "%s: Wrote only %lu of %lu bytes"
+msgstr[0] "%s: %lu ཡིག་ཚིགས་ཁོ་ན་འབྲི་བ། སྤྱིར་ཡིག་ཚིགས་ %lu "
+msgstr[1] "%s: %lu ཡིག་ཚིགས་ཁོ་ན་འབྲི་བ། སྤྱིར་ཡིག་ཚིགས་ %lu "
+
+msgid "%s: contains a cache directory tag %s; %s"
+msgstr ""
+
+msgid "%s: contains invalid volume number"
+msgstr ""
+
+msgid "%s: directory is on a different device: not purging"
+msgstr ""
+
+msgid "%s: door ignored"
+msgstr ""
+
+msgid "%s: file changed as we read it"
+msgstr ""
+
+msgid "%s: file is on a different filesystem; not dumped"
+msgstr ""
+
+msgid "%s: file is the archive; not dumped"
+msgstr ""
+
+msgid "%s: file is unchanged; not dumped"
+msgstr ""
+
+msgid "%s: file name is too long (cannot be split); not dumped"
+msgstr ""
+
+msgid "%s: file name is too long (max %d); not dumped"
+msgstr ""
+
+msgid "%s: file name read contains nul character"
+msgstr ""
+
+msgid ""
+"%s: file name too long to be stored in a GNU multivolume header, truncated"
+msgstr ""
+
+msgid "%s: implausibly old time stamp %s"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: link name is too long; not dumped"
+msgstr ""
+
+msgid "%s: not a valid timeout"
+msgstr ""
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: socket ignored"
+msgstr ""
+
+msgid "%s: time stamp %s is %s s in the future"
+msgstr ""
+
+msgid "%s: unknown checkpoint action"
+msgstr ""
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid "(PROGRAM ERROR) No version known!?"
+msgstr "(བྱ་རིམ་ནོར་འཁྲུལ་བྱུང་།)མི་ཤེས་པའི་པར་གཞི།"
+
+msgid "(PROGRAM ERROR) Option should have been recognized!?"
+msgstr "（བྱ་རིམ་ནོར་འཁྲུལ་བྱུང་།）འདེམས་ཚན་སྤྱིར་ངོས་འཛིན་བྱ་ཐུབ་དགོས།"
+
+msgid "(pipe)"
+msgstr ""
+
+msgid "--Continued at byte %s--\n"
+msgstr ""
+
+msgid "--Long Link--\n"
+msgstr ""
+
+msgid "--Long Name--\n"
+msgstr ""
+
+msgid "--Volume Header--\n"
+msgstr ""
+
+msgid "--atime-preserve='system' is not supported on this platform"
+msgstr ""
+
+msgid "--checkpoint value is not an integer"
+msgstr ""
+
+msgid "--level is meaningless without --listed-incremental"
+msgstr ""
+
+msgid "--occurrence is meaningless without a file list"
+msgstr ""
+
+msgid "--pax-option can be used only on POSIX archives"
+msgstr ""
+
+msgid "--stat requires file names"
+msgstr "--stat ཡིག་ཆའི་མིང་དགོས།"
+
+msgid "-T reads null-terminated names"
+msgstr "-T ཡིས་ NULL མིང་གི་མཇུག་རྫོགས་པ་ཀློག་པ།"
+
+msgid "-T reads null-terminated names, disable -C"
+msgstr ""
+
+msgid "A lone zero block at %s"
+msgstr ""
+
+msgid "ACTION"
+msgstr ""
+
+msgid "ARCHIVE"
+msgstr "ཡིག་ཚགས་ཡིག་ཆ།"
+
+msgid "ARGP_HELP_FMT: %s value is less than or equal to %s"
+msgstr "ARGP_HELP_FMT: %s ཡི་ཚད་%s ལས་ཆུང་ཡང་ན་མཚུངས་བ་ཡིན། "
+
+msgid "Append SIZE bytes to FILE. SIZE is given by previous --length option."
+msgstr ""
+"SIZE ཡི་རིང་ཚད་ཀྱི་ཡིག་ཚིགས་ FILEལ་སྣོན། SIZE ནི་སྔོན་གྱི་ --length "
+"འདེམས་ཚན་གྱིས་སྟོན་པ།"
+
+msgid "Archive base-256 value is out of %s range"
+msgstr ""
+
+msgid "Archive contains %.*s where numeric %s value expected"
+msgstr ""
+
+msgid "Archive contains file names with leading prefixes removed."
+msgstr ""
+
+msgid "Archive contains obsolescent base-64 headers"
+msgstr ""
+
+msgid "Archive contains transformed file names."
+msgstr ""
+
+msgid "Archive format selection:"
+msgstr ""
+
+msgid "Archive is compressed. Use %s option"
+msgstr ""
+
+msgid "Archive label mismatch"
+msgstr ""
+
+msgid "Archive not labeled to match %s"
+msgstr ""
+
+msgid "Archive octal value %.*s is out of %s range"
+msgstr ""
+
+msgid "Archive octal value %.*s is out of %s range; assuming two's complement"
+msgstr ""
+
+msgid "Archive signed base-64 string %s is out of %s range"
+msgstr ""
+
+msgid "Archive value %s is out of %s range %s..%s"
+msgstr ""
+
+msgid "At beginning of tape, quitting now"
+msgstr ""
+
+msgid "Attempting extraction of symbolic links as hard links"
+msgstr ""
+
+msgid "BLOCKS"
+msgstr ""
+
+msgid "BLOCKS x 512 bytes per record"
+msgstr ""
+
+msgid "Bad incremental file format"
+msgstr ""
+
+msgid "Blanks in header where numeric %s value expected"
+msgstr ""
+
+msgid "Byte count out of range"
+msgstr ""
+
+msgid "CHANGES"
+msgstr ""
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "CONTROL"
+msgstr ""
+
+msgid "Cannot backspace archive file; it may be unreadable without -i"
+msgstr ""
+
+msgid "Cannot concatenate compressed archives"
+msgstr ""
+
+msgid "Cannot connect to %s: resolve failed"
+msgstr " %sལ་འབྲེལ་མི་ཐུབ།：དབྱེ་ཞིབ་ཕམ་པ།"
+
+msgid "Cannot create temporary directory using template %s"
+msgstr ""
+
+msgid "Cannot execute remote shell"
+msgstr "རྒྱང་རིང་ shell ལག་བསྟར་བྱེད་མི་ཐུབ།"
+
+msgid "Cannot rename %s to %s"
+msgstr "%sམིང་བསྐྱར་དུ་བཏགས་ནས་%sཞེས་འབོད་ཐབས་མེད།"
+
+msgid "Cannot update compressed archives"
+msgstr ""
+
+msgid "Cannot use multi-volume compressed archives"
+msgstr ""
+
+msgid "Cannot verify compressed archives"
+msgstr ""
+
+msgid "Cannot verify multi-volume archives"
+msgstr ""
+
+msgid "Cannot verify stdin/stdout archive"
+msgstr ""
+
+msgid "Command dumped core\n"
+msgstr ""
+
+msgid "Command exited successfully\n"
+msgstr ""
+
+msgid "Command failed with status %d\n"
+msgstr ""
+
+msgid "Command stopped on signal %d\n"
+msgstr ""
+
+msgid "Command terminated\n"
+msgstr ""
+
+msgid "Command terminated on signal %d\n"
+msgstr ""
+
+msgid "Compatibility options:"
+msgstr ""
+
+msgid "Compression options:"
+msgstr ""
+
+msgid "Conflicting compression options"
+msgstr ""
+
+msgid "Contents differ"
+msgstr ""
+
+msgid "Could only read %lu of %lu byte"
+msgid_plural "Could only read %lu of %lu bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Cowardly refusing to create an empty archive"
+msgstr ""
+
+msgid "Create file of the given SIZE"
+msgstr "བསྟན་པའི་ཆེ་ཆུང་ནི་ SIZE ཡི་ཡིག་ཆ་བཟོ།"
+
+msgid "Creating directory:"
+msgstr ""
+
+msgid "Current %s is newer or same age"
+msgstr ""
+
+msgid "DATE"
+msgstr ""
+
+msgid "DATE-OR-FILE"
+msgstr ""
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Date sample file not found"
+msgstr ""
+
+msgid "Deleting non-header from archive"
+msgstr ""
+
+msgid "Device blocking:"
+msgstr ""
+
+msgid "Device number differs"
+msgstr ""
+
+msgid "Device selection and switching:"
+msgstr ""
+
+msgid "Display executed checkpoints and exit status of COMMAND"
+msgstr ""
+
+msgid "EOF where user reply was expected"
+msgstr ""
+
+msgid "EXPRESSION"
+msgstr "མཚོན་ཚུལ།"
+
+msgid "Error parsing number near `%s'"
+msgstr "“%s”ཉེ་བའི་དབྱེ་ཞིབ་ཨང་ཀི་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid ""
+"Execute ARGS. Useful with --checkpoint and one of --cut, --append, --touch, "
+"--unlink"
+msgstr ""
+
+msgid "Execute COMMAND"
+msgstr " COMMAND བཀའ་བརྡ་ལག་བསྟར།"
+
+msgid "Exiting with failure status due to previous errors"
+msgstr ""
+
+msgid "Extended header %s=%s is out of range %s..%s"
+msgstr ""
+
+msgid "Extended header length %*s is out of range"
+msgstr ""
+
+msgid "Extracting contiguous files as regular files"
+msgstr ""
+
+msgid "FILE"
+msgstr "ཡིག་ཆ།"
+
+msgid "FORMAT"
+msgstr "རྣམ་གཞག"
+
+msgid "FORMAT is one of the following:"
+msgstr ""
+
+msgid "File creation options:"
+msgstr "ཡིག་ཆ་གསར་བཟོ་འདེམས་ཚན།:"
+
+msgid "File name matching options (affect both exclude and include patterns):"
+msgstr ""
+
+msgid "File name not specified. Try again.\n"
+msgstr ""
+
+msgid "File name transformations:"
+msgstr ""
+
+msgid "File statistics options:"
+msgstr "ཡིག་ཆ་བསྡོམས་པའི་འདེམས་ཚན།:"
+
+msgid "File type differs"
+msgstr ""
+
+msgid "Fill the file with the given PATTERN. PATTERN is 'default' or 'zeros'"
+msgstr ""
+"བསྟན་པའི་ PATTERN རྣམ་པས་ཡིག་ཆ་ཁ་སྐོང་། PATTERN "
+"ནི་‘default’ཡང་ན་‘zeros’ཡིན་ཆོག"
+
+msgid "GNU features wanted on incompatible archive format"
+msgstr ""
+
+msgid "GNU format as per tar <= 1.12"
+msgstr ""
+
+msgid "GNU tar 1.13.x format"
+msgstr ""
+
+msgid "Garbage command"
+msgstr "གད་སྙིགས་བཀའ་བརྡ།"
+
+msgid "Garbage in ARGP_HELP_FMT: %s"
+msgstr "ཞུགས་གྲངས་ARGP_HELP_FMT ནང་དུ་བེད་མེད་ཆ་འཕྲིན།: %sའདུས།"
+
+msgid "General help using GNU software: <http://www.gnu.org/gethelp/>\n"
+msgstr ""
+
+msgid "Generate sparse file. Rest of the command line gives the file map."
+msgstr ""
+
+msgid "Generated keyword/value pair is too long (keyword=%s, length=%s)"
+msgstr ""
+
+msgid "Generating negative octal headers"
+msgstr ""
+
+msgid "Gid differs"
+msgstr ""
+
+msgid "Handling of file attributes:"
+msgstr ""
+
+msgid "Informative output:"
+msgstr ""
+
+msgid "Invalid byte count"
+msgstr ""
+
+msgid "Invalid device number"
+msgstr ""
+
+msgid "Invalid incremental level value"
+msgstr ""
+
+msgid "Invalid inode number"
+msgstr ""
+
+msgid "Invalid input. Type ? for help.\n"
+msgstr ""
+
+msgid "Invalid mode given on option"
+msgstr ""
+
+msgid "Invalid modification time (nanoseconds)"
+msgstr ""
+
+msgid "Invalid number"
+msgstr ""
+
+msgid "Invalid number of elements"
+msgstr ""
+
+msgid "Invalid operation code"
+msgstr ""
+
+msgid "Invalid record size"
+msgstr ""
+
+msgid "Invalid seek direction"
+msgstr ""
+
+msgid "Invalid seek offset"
+msgstr ""
+
+msgid "Invalid size: %s"
+msgstr "ནུས་མེད་ཀྱི་ཚད: %s"
+
+msgid "Invalid tape length"
+msgstr ""
+
+msgid "Invalid time stamp"
+msgstr ""
+
+msgid "Invalid value for record_size"
+msgstr ""
+
+msgid "KEYWORD"
+msgstr "གནད་ཡིག:"
+
+msgid "Keyword %s cannot be overridden"
+msgstr ""
+
+msgid "Keyword %s is unknown or not yet implemented"
+msgstr ""
+
+msgid "Local file selection:"
+msgstr ""
+
+msgid "MAJOR[.MINOR]"
+msgstr ""
+
+msgid "MEMBER-NAME"
+msgstr ""
+
+msgid "METHOD"
+msgstr ""
+
+msgid "Main operation mode:"
+msgstr "བཀོལ་སྤྱོད་གཙོ་བའི་རྣམ་པ།"
+
+msgid "Malformed density argument: %s"
+msgstr ""
+
+msgid "Malformed dumpdir: 'T' not preceeded by 'R'"
+msgstr ""
+
+msgid "Malformed dumpdir: 'X' duplicated"
+msgstr ""
+
+msgid "Malformed dumpdir: 'X' never used"
+msgstr ""
+
+msgid "Malformed dumpdir: empty name in 'R'"
+msgstr ""
+
+msgid "Malformed dumpdir: empty name in 'T'"
+msgstr ""
+
+msgid "Malformed dumpdir: expected '%c' but found %#3o"
+msgstr ""
+
+msgid "Malformed dumpdir: expected '%c' but found end of data"
+msgstr ""
+
+msgid "Malformed extended header: excess %s=%s"
+msgstr ""
+
+msgid "Malformed extended header: invalid %s: odd number of values"
+msgstr ""
+
+msgid "Malformed extended header: invalid %s: unexpected delimiter %c"
+msgstr ""
+
+msgid "Malformed extended header: invalid %s=%s"
+msgstr ""
+
+msgid "Malformed extended header: missing blank after length"
+msgstr ""
+
+msgid "Malformed extended header: missing equal sign"
+msgstr ""
+
+msgid "Malformed extended header: missing length"
+msgstr ""
+
+msgid "Malformed extended header: missing newline"
+msgstr ""
+
+msgid ""
+"Mandatory or optional arguments to long options are also mandatory or "
+"optional for any corresponding short options."
+msgstr ""
+"འདེམས་ཚན་རིང་བར་ངེས་པར་ཡང་ན་འདེམས་རུང་གི་ཞུགས་གྲངས་ནི་འདེམས་ཚན་ཐུང་བར་འཚམ་པ་ཡིན།"
+
+msgid "Manipulate a tape drive, accepting commands from a remote process"
+msgstr ""
+
+msgid "Missing links to %s."
+msgstr ""
+
+msgid "Missing record terminator"
+msgstr ""
+
+msgid "Mod time differs"
+msgstr ""
+
+msgid "Mode differs"
+msgstr ""
+
+msgid "More than one threshold date"
+msgstr ""
+
+msgid "NAME"
+msgstr "མིང་།"
+
+msgid "NUMBER"
+msgstr "ཤོག་ཨང།"
+
+msgid "NUMBER of bytes per record, multiple of 512"
+msgstr ""
+
+msgid "Negative size: %s"
+msgstr "མོ་ཚད།: %s"
+
+msgid "No archive name given"
+msgstr ""
+
+msgid "No new volume; exiting.\n"
+msgstr ""
+
+msgid "Not linked to %s"
+msgstr ""
+
+msgid "Number out of allowed range: %s"
+msgstr "གྲངས་ཚད་རུང་བའི་ཁྱབ་ཁོངས་བརྒལ་བ།: %s"
+
+msgid "OFFSET"
+msgstr "OFFSET"
+
+msgid "OPTION"
+msgstr ""
+
+msgid "Only one --to-command option allowed"
+msgstr ""
+
+msgid "Only one -C option is allowed with --listed-incremental"
+msgstr ""
+
+msgid "Operation modifiers:"
+msgstr ""
+
+msgid "Operation not supported"
+msgstr "བཀོལ་སྤྱོད་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Other options:"
+msgstr ""
+
+msgid "Overwrite control:"
+msgstr ""
+
+msgid "PATTERN"
+msgstr "PATTERN"
+
+msgid "POSIX 1003.1-1988 (ustar) format"
+msgstr ""
+
+msgid "POSIX 1003.1-2001 (pax) format"
+msgstr ""
+
+msgid "PROG"
+msgstr ""
+
+msgid "Packaged by %s\n"
+msgstr ""
+
+msgid "Packaged by %s (%s)\n"
+msgstr ""
+
+msgid "Pattern %s cannot be used"
+msgstr ""
+
+msgid "Pattern matching characters used in file names"
+msgstr ""
+
+msgid "Perform given action (see below) upon reaching checkpoint NUMBER"
+msgstr ""
+
+msgid "Premature eof"
+msgstr ""
+
+msgid "Prepare volume #%d for %s and hit return: "
+msgstr ""
+
+msgid "Print contents of struct stat for each given file. Default FORMAT is: "
+msgstr ""
+"བྱིན་པའི་ཡིག་ཆ་སོ་སོའི་ stat སྒྲིག་གཞིའི་ནང་དོན་པར་འདེབས་བྱེད། སོར་བཞག་གི་ "
+"FORMAT ནི།: "
+
+msgid "Read checkpoint %u"
+msgstr ""
+
+msgid "Read file names from FILE"
+msgstr "FILE ལས་ཡིག་ཆའི་མིང་ཀློག་པ།"
+
+msgid "Record size = %lu block"
+msgid_plural "Record size = %lu blocks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Record size must be a multiple of %d."
+msgstr ""
+
+msgid "Removing leading `%s' from hard link targets"
+msgstr "སྲ་སྦྲེལ་དམིགས་ཚད་དུ་སྔོན་འཇུག་“%s” འདོར་བ།"
+
+msgid "Removing leading `%s' from member names"
+msgstr "ཁོངས་མིར་སྔོན་འཇུག་“%s” འདོར་བ།"
+
+msgid "Renaming %s back to %s\n"
+msgstr ""
+
+msgid "Renaming %s to %s\n"
+msgstr ""
+
+msgid "Report %s bugs to: %s\n"
+msgstr ""
+
+msgid "Report bugs to %s.\n"
+msgstr ""
+
+msgid "SECS"
+msgstr "སྐར་ཆ།"
+
+msgid "SIGNAL"
+msgstr "བརྡ་རྟགས།"
+
+msgid "SIZE"
+msgstr "SIZE"
+
+msgid "STRING"
+msgstr "ཡིག་རྟགས་ཕྲེང་།"
+
+msgid "STYLE"
+msgstr ""
+
+msgid "Seek direction out of range"
+msgstr "གནས་ངེས་ཁ་ཕྱོགས་ཁྱབ་ཁོངས་ལས་བརྒལ།"
+
+msgid "Seek offset out of range"
+msgstr "གནས་ངེས་བཀོལ་སྤྱོད་ཀྱི་སྤོ་ཚད་ཁྱབ་ཁོངས་ལས་བརྒལ།"
+
+msgid "Seek to the given offset before writing data"
+msgstr "གཞི་གྲངས་མ་འབྲི་གོང་དུ་གནས་བསྟན་པའི་སྤོ་ཚད་ OFFSET ལ་ངེས།"
+
+msgid "Select output stream:"
+msgstr ""
+
+msgid "Set date for next --touch option"
+msgstr "ངོས་རྗེས་མ --touch འདེམས་ཚན་ལ་དུས་ཚེས་བཀོད་པ།"
+
+msgid "Size differs"
+msgstr ""
+
+msgid "Size of a block for sparse file"
+msgstr ""
+
+msgid "Skipping to next header"
+msgstr ""
+
+msgid "Substituting %s for unknown date format %s"
+msgstr ""
+
+msgid "Substituting `.' for empty hard link target"
+msgstr "སྲ་སྟོང་སྦྲེལ་མཐུད་དམིགས་ཚད་“.”བརྗེ་བ།"
+
+msgid "Substituting `.' for empty member name"
+msgstr "ཁོངས་མིའི་མིང་སྟོང་“.”བརྗེ་བ།"
+
+msgid "Symlink differs"
+msgstr ""
+
+msgid ""
+"Synchronous execution actions. These are executed when checkpoint number "
+"given by --checkpoint option is reached."
+msgstr ""
+
+msgid "Synchronous execution options:"
+msgstr "འགྲོས་མཉམ་ལག་བསྟར་འདེམས་ཚན།:"
+
+msgid "TEXT"
+msgstr "ཡི་གེ།"
+
+msgid ""
+"The --preserve option is deprecated, use --preserve-permissions --preserve-"
+"order instead"
+msgstr ""
+
+msgid "This does not look like a tar archive"
+msgstr ""
+
+msgid "This volume is out of sequence (%s - %s != %s)"
+msgstr ""
+
+msgid "Time stamp is out of allowed range"
+msgstr ""
+
+msgid "Too many errors, quitting"
+msgstr ""
+
+msgid "Total bytes read"
+msgstr ""
+
+msgid "Total bytes written"
+msgstr ""
+
+msgid ""
+"Truncate FILE to the size specified by previous --length option (or 0, if it"
+" is not given)"
+msgstr ""
+"FILE ནས་སྔོན་གྱི་ --length "
+"འདེམས་ཚན་གྱི་བསྟན་པའི་ཆེ་ཆུང་གཅོད་པ།(གལ་ཏེ་སྟོན་མེད་ན། ，སོར་བཞག་ 0)"
+
+msgid "Uid differs"
+msgstr ""
+
+msgid "Unaligned block (%lu byte) in archive"
+msgid_plural "Unaligned block (%lu bytes) in archive"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Unexpected EOF in archive"
+msgstr ""
+
+msgid "Unexpected EOF in snapshot file"
+msgstr ""
+
+msgid "Unexpected arguments"
+msgstr ""
+
+msgid "Unexpected long name header"
+msgstr ""
+
+msgid "Unknown date format"
+msgstr ""
+
+msgid "Unknown field `%s'"
+msgstr "མི་ཤེས་པའི་ཡིག་ཆ་གབ་ཨང་གནས་“%s”"
+
+msgid "Unknown signal name: %s"
+msgstr ""
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Unlink FILE"
+msgstr ""
+
+msgid "Update the access and modification times of FILE"
+msgstr " FILE ཡིག་ཆའི་ལྟ་སྤྱོད་དང་བཟོ་བཅོས་དུས་ཚོད་གསར་སྒྱུར།"
+
+msgid "Usage:"
+msgstr "སྤྱོད་སྟངས།："
+
+msgid ""
+"Use --wildcards to enable pattern matching, or --no-wildcards to suppress "
+"this warning"
+msgstr ""
+
+msgid ""
+"Using -C option inside file list is not allowed with --listed-incremental"
+msgstr ""
+
+msgid "VERIFY FAILURE: %d invalid header detected"
+msgid_plural "VERIFY FAILURE: %d invalid headers detected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Valid arguments are:"
+msgstr "ནུས་ལྡན་གྱི་ཞུགས་གྲངས་ནི།："
+
+msgid "Valid arguments for the --quoting-style option are:"
+msgstr ""
+
+msgid "Verification may fail to locate original files."
+msgstr ""
+
+msgid "Verify "
+msgstr ""
+
+msgid "Volume %s does not match %s"
+msgstr ""
+
+msgid "Volume length cannot be less than record size"
+msgstr ""
+
+msgid "Volume number overflow"
+msgstr ""
+
+msgid "WARNING: Archive is incomplete"
+msgstr ""
+
+msgid "Write checkpoint %u"
+msgstr ""
+
+msgid "Write to file NAME, instead of standard output"
+msgstr "ཡིག་ཆ་ NAMEའབྲི་བ། ཚད་ལྡན་ཕྱིར་འདོན་མིན་པ།"
+
+msgid "Written by %s and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr ""
+
+msgid "Written by %s.\n"
+msgstr ""
+
+msgid "[ARGS...]"
+msgstr ""
+
+msgid "[FILE]..."
+msgstr ""
+
+msgid "^[nN]"
+msgstr ""
+
+msgid "^[yY]"
+msgstr ""
+
+msgid "`"
+msgstr ""
+
+msgid "add given FILE to the archive (useful if its name starts with a dash)"
+msgstr ""
+
+msgid "additionally quote characters from STRING"
+msgstr ""
+
+msgid "always use numbers for user/group names"
+msgstr ""
+
+msgid "ambiguous argument %s for %s"
+msgstr ""
+
+msgid "append files to the end of an archive"
+msgstr ""
+
+msgid "append tar files to an archive"
+msgstr ""
+
+msgid ""
+"apply the user's umask when extracting permissions from the archive (default"
+" for ordinary users)"
+msgstr ""
+
+msgid "archive file is local even if it has a colon"
+msgstr ""
+
+msgid "archive is not seekable"
+msgstr ""
+
+msgid "archive is seekable"
+msgstr ""
+
+msgid "ask for confirmation for every action"
+msgstr ""
+
+msgid "attempt to verify the archive after writing it"
+msgstr ""
+
+msgid "avoid descending automatically in directories"
+msgstr ""
+
+msgid "backup before removal, choose version CONTROL"
+msgstr ""
+
+msgid ""
+"backup before removal, override usual suffix ('~' unless overridden by "
+"environment variable SIMPLE_BACKUP_SUFFIX)"
+msgstr ""
+
+msgid "block %s: "
+msgstr ""
+
+msgid "block %s: ** Block of NULs **\n"
+msgstr ""
+
+msgid "block %s: ** End of File **\n"
+msgstr ""
+
+msgid "cancel the effect of --delay-directory-restore option"
+msgstr ""
+
+msgid "cannot generate sparse files on standard output, use --file option"
+msgstr ""
+
+msgid "cannot open %s"
+msgstr ""
+
+msgid "cannot open `%s'"
+msgstr "“%s”ཁ་འབྱེད་མི་ཐུབ།"
+
+msgid "cannot seek"
+msgstr "གནས་ངེས་མི་ཐུབ།"
+
+msgid "cannot set time on `%s'"
+msgstr "“%s” ཡི་དུས་ཚོད་བཀོད་མི་ཐུབ།"
+
+msgid "cannot unlink `%s'"
+msgstr ""
+
+msgid "case sensitive matching (default)"
+msgstr ""
+
+msgid "change tape after writing NUMBER x 1024 bytes"
+msgstr ""
+
+msgid "change to directory DIR"
+msgstr ""
+
+msgid "check device numbers when creating incremental archives (default)"
+msgstr ""
+
+msgid "child process"
+msgstr "བུ་འཕེལ་རིམ།"
+
+msgid "compare date and time when data changed only"
+msgstr ""
+
+msgid "contents not dumped"
+msgstr ""
+
+msgid "control pax keywords"
+msgstr ""
+
+msgid "create a new archive"
+msgstr ""
+
+msgid "create archive of the given format"
+msgstr ""
+
+msgid ""
+"create archive with volume name TEXT; at list/extract time, use TEXT as a "
+"globbing pattern for volume name"
+msgstr ""
+
+msgid "create/list/extract multi-volume archive"
+msgstr ""
+
+msgid "created file is not sparse"
+msgstr ""
+
+msgid ""
+"delay setting modification times and permissions of extracted directories "
+"until the end of extraction"
+msgstr ""
+
+msgid "delete from the archive (not on mag tapes!)"
+msgstr ""
+
+msgid "directory not dumped"
+msgstr ""
+
+msgid "disable quoting for characters from STRING"
+msgstr ""
+
+msgid "disable the effect of the previous --null option"
+msgstr ""
+
+msgid "disable use of some potentially harmful options"
+msgstr ""
+
+msgid "display progress messages every NUMBERth record (default 10)"
+msgstr ""
+
+msgid "do not check device numbers when creating incremental archives"
+msgstr ""
+
+msgid "do not exit with nonzero on unreadable files"
+msgstr ""
+
+msgid "do not use archive suffix to determine the compression program"
+msgstr ""
+
+msgid "don't extract file modified time"
+msgstr ""
+
+msgid "don't replace existing files that are newer than their archive copies"
+msgstr ""
+
+msgid "dump level for created listed-incremental archive"
+msgstr ""
+
+msgid "empty hierarchies prior to extracting directory"
+msgstr ""
+
+msgid "exclude backup and lock files"
+msgstr ""
+
+msgid ""
+"exclude contents of directories containing CACHEDIR.TAG, except for the tag "
+"file itself"
+msgstr ""
+
+msgid ""
+"exclude contents of directories containing FILE, except for FILE itself"
+msgstr ""
+
+msgid "exclude directories containing CACHEDIR.TAG"
+msgstr ""
+
+msgid "exclude directories containing FILE"
+msgstr ""
+
+msgid "exclude everything under directories containing CACHEDIR.TAG"
+msgstr ""
+
+msgid "exclude everything under directories containing FILE"
+msgstr ""
+
+msgid "exclude files, given as a PATTERN"
+msgstr ""
+
+msgid "exclude patterns listed in FILE"
+msgstr ""
+
+msgid "exclude version control system directories"
+msgstr ""
+
+msgid "exec/tcp: Service not available"
+msgstr "exec/tcp：ཞབས་ཞུ་སྤྱོད་མི་རུང་།"
+
+msgid "execute ACTION on each checkpoint"
+msgstr ""
+
+msgid "extract files as yourself (default for ordinary users)"
+msgstr ""
+
+msgid "extract files from an archive"
+msgstr ""
+
+msgid "extract files to standard output"
+msgstr ""
+
+msgid "extract information about file permissions (default for superuser)"
+msgstr ""
+
+msgid "failed to return to initial working directory"
+msgstr ""
+
+msgid "file name contains null character"
+msgstr "ཡིག་ཆའི་མིང་དུ་ཡིག་རྟགས་སྟོང་པ་འདུས།"
+
+msgid "filter the archive through %s"
+msgstr ""
+
+msgid "filter through PROG (must accept -d)"
+msgstr ""
+
+msgid "find differences between archive and file system"
+msgstr ""
+
+msgid "follow hard links; archive and dump the files they refer to"
+msgstr ""
+
+msgid "follow symlinks; archive and dump the files they point to"
+msgstr ""
+
+msgid "force (symbolic) mode CHANGES for added files"
+msgstr ""
+
+msgid "force NAME as group for added files"
+msgstr ""
+
+msgid "force NAME as owner for added files"
+msgstr ""
+
+msgid ""
+"genfile manipulates data files for GNU paxutils test suite.\n"
+"OPTIONS are:\n"
+msgstr ""
+
+msgid "get names to extract or create from FILE"
+msgstr ""
+
+msgid "give a short usage message"
+msgstr "སླ་བསྡུས་ཀྱི་སྤྱོད་སྟངས་གསལ་བཤད་མངོན་པ།"
+
+msgid "give this help list"
+msgstr "རོགས་རམ་རེའུ་མིག་འདི་མངོན་པ།"
+
+msgid "handle new GNU-format incremental backup"
+msgstr ""
+
+msgid "handle old GNU-format incremental backup"
+msgstr ""
+
+msgid "handle sparse files efficiently"
+msgstr ""
+
+msgid "hang for SECS seconds (default 3600)"
+msgstr "SECS སྐར་ཆ་འགེལ་འཇོག (ཆད་ལྷག 3600)"
+
+msgid "ignore case"
+msgstr "འབྲི་ཆེ་ཆུང་སྣང་མེད་དུ་གཏོང་།"
+
+msgid "ignore exit codes of children"
+msgstr ""
+
+msgid "ignore zeroed blocks in archive (means EOF)"
+msgstr ""
+
+msgid "incorrect mask (near `%s')"
+msgstr "གབ་ཨང་མི་འགྲིག་པ།(“%s”ཉེ་བ།)"
+
+msgid "interprocess channel"
+msgstr ""
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s ཡི་ཞུགས་གྲངས་ %1$s ནུས་མེད།"
+
+msgid "keyword[[:]=value][,keyword[[:]=value]]..."
+msgstr ""
+
+msgid "list the contents of an archive"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "old V7 tar format"
+msgstr ""
+
+msgid "only append files newer than copy in archive"
+msgstr ""
+
+msgid "only store files newer than DATE-OR-FILE"
+msgstr ""
+
+msgid "overwrite existing files when extracting"
+msgstr ""
+
+msgid "overwrite metadata of existing directories when extracting (default)"
+msgstr ""
+
+msgid "patterns match file name start"
+msgstr ""
+
+msgid "pipe extracted files to another program"
+msgstr ""
+
+msgid ""
+"preserve access times on dumped files, either by restoring the times after "
+"reading (METHOD='replace'; default) or by not setting the times in the first"
+" place (METHOD='system')"
+msgstr ""
+
+msgid "preserve metadata of existing directories"
+msgstr ""
+
+msgid "print a message if not all links are dumped"
+msgstr ""
+
+msgid "print file modification times in UTC"
+msgstr ""
+
+msgid "print file time to its full resolution"
+msgstr ""
+
+msgid "print program version"
+msgstr "པར་འདེབས་བྱ་རིམ་པར་གཞི།"
+
+msgid ""
+"print total bytes after processing the archive; with an argument - print "
+"total bytes when this SIGNAL is delivered; Allowed signals are: SIGHUP, "
+"SIGQUIT, SIGINT, SIGUSR1 and SIGUSR2; the names without SIG prefix are also "
+"accepted"
+msgstr ""
+
+msgid ""
+"process only the NUMBERth occurrence of each file in the archive; this "
+"option is valid only in conjunction with one of the subcommands --delete, "
+"--diff, --extract or --list and when a list of files is given either on the "
+"command line or via the -T option; NUMBER defaults to 1"
+msgstr ""
+
+msgid "read"
+msgstr "ཀློག་པ།"
+
+msgid "reblock as we read (for 4.2BSD pipes)"
+msgstr ""
+
+msgid "recurse into directories (default)"
+msgstr ""
+
+msgid "remove each file prior to extracting over it"
+msgstr ""
+
+msgid "remove files after adding them to the archive"
+msgstr ""
+
+msgid "requested file length %lu, actual %lu"
+msgstr "ཡིག་ཆའི་རིང་ཚད་ཀྱི་རེ་བ་ནི་ %lu དང་། དངོས་སུ་%lu ཡིན།"
+
+msgid "rmtlseek not stopped at a record boundary"
+msgstr ""
+
+msgid "run script at end of each tape (implies -M)"
+msgstr ""
+
+msgid "same as --format=posix"
+msgstr ""
+
+msgid "same as --format=v7"
+msgstr ""
+
+msgid "same as both -p and -s"
+msgstr ""
+
+msgid "same as pax"
+msgstr ""
+
+msgid "send verbose output to FILE"
+msgstr ""
+
+msgid "set debug level"
+msgstr ""
+
+msgid "set debug output file name"
+msgstr ""
+
+msgid "set mtime for added files from DATE-OR-FILE"
+msgstr ""
+
+msgid "set name quoting style; see below for valid STYLE values"
+msgstr ""
+
+msgid "set the program name"
+msgstr "བྱ་རིམ་མིང་སྒྲིག་འགོད།"
+
+msgid "set version of the sparse format to use (implies --sparse)"
+msgstr ""
+
+msgid "show block number within archive with each message"
+msgstr ""
+
+msgid "show file or archive names after transformation"
+msgstr ""
+
+msgid "show tar defaults"
+msgstr ""
+
+msgid "specify drive and density"
+msgstr ""
+
+msgid "stat(%s) failed"
+msgstr ""
+
+msgid "stay in local file system when creating archive"
+msgstr ""
+
+msgid "stdin"
+msgstr "ཚད་ལྡན་ནང་འཇུག"
+
+msgid "stdout"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན།"
+
+msgid "strip NUMBER leading components from file names on extraction"
+msgstr ""
+
+msgid "test the archive volume label and exit"
+msgstr ""
+
+msgid "too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "treat non-zero exit codes of children as error"
+msgstr ""
+
+msgid ""
+"try extracting files with the same ownership as exists in the archive "
+"(default for superuser)"
+msgstr ""
+
+msgid "unable to record current working directory"
+msgstr ""
+
+msgid "use archive file or device ARCHIVE"
+msgstr ""
+
+msgid "use archive suffix to determine the compression program"
+msgstr ""
+
+msgid "use given rmt COMMAND instead of rmt"
+msgstr ""
+
+msgid "use remote COMMAND instead of rsh"
+msgstr ""
+
+msgid "use sed replace EXPRESSION to transform file names"
+msgstr ""
+
+msgid "use wildcards (default for exclusion)"
+msgstr ""
+
+msgid "use/update the volume number in FILE"
+msgstr ""
+
+msgid "value %s out of %s range %s..%s"
+msgstr ""
+
+msgid "value %s out of %s range %s..%s; substituting %s"
+msgstr ""
+
+msgid "verbatim string matching"
+msgstr ""
+
+msgid "verbosely list files processed"
+msgstr ""
+
+msgid "warning control"
+msgstr ""
+
+msgid ""
+"when creating, same as --old-archive; when extracting, same as --no-same-"
+"owner"
+msgstr ""
+
+msgid ""
+"when listing or extracting, list each directory that does not match search "
+"criteria"
+msgstr ""
+
+msgid "write"
+msgstr "འབྲི་བ།"
+
+msgid "write did not end on a block boundary"
+msgstr ""
+
+msgid "write error"
+msgstr "འབྲི་བ་ནོར་འཁྲུལ།"

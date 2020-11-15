@@ -1,0 +1,478 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "\n"
+msgstr ""
+
+msgid "                          emulate output (default %s)\n"
+msgstr ""
+
+msgid "                Record the cpu type\n"
+msgstr ""
+
+msgid ""
+"  --MD FILE               write dependency information in FILE (default "
+"none)\n"
+msgstr ""
+
+msgid "  --defsym SYM=VAL        define symbol SYM to given value\n"
+msgstr ""
+
+msgid "  --execstack             require executable stack for this object\n"
+msgstr ""
+
+msgid "  --fatal-warnings        treat warnings as errors\n"
+msgstr ""
+
+msgid "  --gdwarf-2              generate DWARF2 debugging information\n"
+msgstr ""
+
+msgid "  --gstabs                generate STABS debugging information\n"
+msgstr ""
+
+msgid ""
+"  --gstabs+               generate STABS debug info with GNU extensions\n"
+msgstr ""
+
+msgid "  --hash-size=<value>     set the hash table size close to <value>\n"
+msgstr ""
+
+msgid "  --help                  show this message and exit\n"
+msgstr ""
+
+msgid ""
+"  --itbl INSTTBL          extend instruction set to include instructions\n"
+"                          matching the specifications defined in file INSTTBL\n"
+msgstr ""
+
+msgid ""
+"  --listing-lhs-width     set the width in words of the output data column of\n"
+"                          the listing\n"
+msgstr ""
+
+msgid ""
+"  --listing-lhs-width2    set the width in words of the continuation lines\n"
+"                          of the output data column; ignored if smaller than\n"
+"                          the width of the first line\n"
+msgstr ""
+
+msgid ""
+"  --noexecstack           don't require executable stack for this object\n"
+msgstr ""
+
+msgid ""
+"  --reduce-memory-overheads \n"
+"                          prefer smaller memory use at the cost of longer\n"
+"                          assembly times\n"
+msgstr ""
+
+msgid "  --target-help           show target specific options\n"
+msgstr ""
+
+msgid ""
+"  --traditional-format    Use same format as native assembler when "
+"possible\n"
+msgstr ""
+
+msgid "  --version               print assembler version number and exit\n"
+msgstr ""
+
+msgid "  --warn                  don't suppress warnings\n"
+msgstr ""
+
+msgid "  -D                      produce assembler debugging messages\n"
+msgstr ""
+
+msgid ""
+"  -I DIR                  add DIR to search list for .include directives\n"
+msgstr ""
+
+msgid "  -J                      don't warn about signed overflow\n"
+msgstr ""
+
+msgid "  -L,--keep-locals        keep local symbols (e.g. starting with `L')\n"
+msgstr ""
+
+msgid ""
+"  -Q                      ignored\n"
+"  -V                      print assembler version number\n"
+msgstr ""
+
+msgid "  -R                      fold data section into text section\n"
+msgstr ""
+
+msgid "  -W  --no-warn           suppress warnings\n"
+msgstr ""
+
+msgid "  -X                      ignored\n"
+msgstr ""
+
+msgid "  -Z                      generate object file even after errors\n"
+msgstr ""
+
+msgid "  -f                      skip whitespace and comment preprocessing\n"
+msgstr ""
+
+msgid "  -g --gen-debug          generate debugging information\n"
+msgstr ""
+
+msgid "  -march=ms1-16-002         allow ms1-16-002 instructions (default)\n"
+msgstr ""
+
+msgid "  -march=ms1-16-003         allow ms1-16-003 instructions\n"
+msgstr ""
+
+msgid "  -march=ms1-64-001         allow ms1-64-001 instructions\n"
+msgstr ""
+
+msgid "  -nocpp                  ignored\n"
+msgstr ""
+
+msgid ""
+"  -o OBJFILE              name the object-file output OBJFILE (default "
+"a.out)\n"
+msgstr ""
+
+msgid "  -w                      ignored\n"
+msgstr ""
+
+msgid "  @FILE                   read options from FILE\n"
+msgstr ""
+
+msgid "!%s does not use a sequence number"
+msgstr "!%s ཡིས་རིམ་སྟར་ཨང་གྲངས་བེད་སྤྱོད་མི་བྱེད་པ།"
+
+msgid "\".else\" without matching \".if\""
+msgstr ""
+
+msgid "\".elseif\" after \".else\""
+msgstr ""
+
+msgid "\".elseif\" without matching \".if\""
+msgstr ""
+
+msgid "\".endif\" without \".if\""
+msgstr ""
+
+msgid "%s: data size %ld\n"
+msgstr ""
+
+msgid "%s: total time in assembly: %ld.%06ld\n"
+msgstr ""
+
+msgid "--hash-size needs a numeric argument"
+msgstr " --hash-size ལ་གྲངས་ཀའི་ཞུགས་གྲངས་ཤིག་དགོས།"
+
+msgid ".ifeqs syntax error"
+msgstr ".ifeqs ཡི་བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
+
+msgid ".loc outside of .text"
+msgstr " .loc དེ .text ཡི་ཕྱི་རོལ་དུ་ཡོད་པ།"
+
+msgid "0x%lx: \"%s\" type = %ld, class = %d, segment = %d\n"
+msgstr ""
+
+msgid "<unknown>"
+msgstr "<ངེས་མེད།>"
+
+msgid "Attempt to put an undefined symbol into set %s"
+msgstr ""
+"མཚན་ཉིད་མ་བཞག་པའི་རྟགས་དེ་ཚོགས་སྤྱི %s ཡི་ནང་དུ་བར་འཇུག་ཚོད་ལྟ་བྱེད་པ།"
+
+msgid "Bad register name"
+msgstr "ནོར་འཁྲུལ་གྱི་བཅོལ་ཆས་མིང་།"
+
+msgid "Bad sequence number: !%s!%s"
+msgstr "རིམ་ཨང་གྲངས་ངན་པ !%s!%s"
+
+msgid "Can't set GP value"
+msgstr "GP ཡི་བྲིན་ཐང་སྒྲིག་འགོད་བྱེད་མི་ཐུབ་པ།"
+
+msgid "Can't set register masks"
+msgstr "གནས་སྐབས་གསོག་ཆས་ཀྱི་གབ་ཨང་སྒྲིག་འགོད་བྱེད་མི་ཐུབ་པ།"
+
+msgid "Error: "
+msgstr "ནོར་འཁྲུལ། "
+
+msgid "Fatal error: "
+msgstr "ནོར་འཁྲུལ་ཚབ་ཆེན།"
+
+msgid "GNU assembler %s\n"
+msgstr ""
+
+msgid "GNU assembler version %s (%s) using BFD version %s\n"
+msgstr ""
+
+msgid "Ignoring changed section attributes for %s"
+msgstr "གཡབ་ཁུལ '%s' ཡི་གཏོགས་གཤིས་བཟོ་བཅོས་ལ་སྣང་མེད་བྱེད་པ།"
+
+msgid "Inserting \"%s\" into structure table failed: %s"
+msgstr ""
+
+msgid "Internal error!\n"
+msgstr ""
+
+msgid "Line numbers must be positive integers\n"
+msgstr ""
+
+msgid ""
+"Options:\n"
+"  -a[sub-option...]\t  turn on listings\n"
+"                      \t  Sub-options [default hls]:\n"
+"                      \t  c      omit false conditionals\n"
+"                      \t  d      omit debugging directives\n"
+"                      \t  g      include general info\n"
+"                      \t  h      include high-level source\n"
+"                      \t  l      include assembly\n"
+"                      \t  m      include macro expansions\n"
+"                      \t  n      omit forms processing\n"
+"                      \t  s      include symbols\n"
+"                      \t  =FILE  list to FILE (must be last sub-option)\n"
+msgstr ""
+
+msgid "Please report this bug.\n"
+msgstr ""
+
+msgid "Report bugs to %s\n"
+msgstr ""
+
+msgid "This assembler was configured for a target of `%s'.\n"
+msgstr ""
+
+msgid ""
+"This program is free software; you may redistribute it under the terms of\n"
+"the GNU General Public License version 3 or later.\n"
+"This program has absolutely no warranty.\n"
+msgstr ""
+
+msgid "Unrecognized or unsupported floating point constant"
+msgstr ""
+"ངོས་འཛིན་མི་ཐུབ་པའམ་ཡང་ན་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་གཡེང་ཚེག་གྲངས་ཀྱི་རྒྱུན་གྲངས།"
+
+msgid "Usage: %s [option...] [asmfile...]\n"
+msgstr ""
+
+msgid "Warning: "
+msgstr "ཐ་ཚིག："
+
+msgid "a reloc on this operand implies an overflow"
+msgstr "བཀོལ་སྤྱོད་གྲངས་འདིའི་སྟེང་གནས་བསྐྱར་ངེས་སྐབས་ཕྱིར་ལུད་ཞིག་ཐོན་པ།"
+
+msgid "alias = %s\n"
+msgstr ""
+
+msgid "bad .common segment %s"
+msgstr "ཆག་སྐྱོན .conmon ཡི་དུམ་བུ %s"
+
+msgid "bad defsym; format is --defsym name=value"
+msgstr "ནོར་འཕྲུལ་གྱི defsym ཡིན། རྣམ་གཞག་ནི --defsym name=value ཡིན།"
+
+msgid "bad format for ifc or ifnc"
+msgstr "ifc འམ་ཡང་ན ifnc ཡི་ནོར་འཁྲུལ་རྣམ་གཞག"
+
+msgid "bad string constant"
+msgstr "ནོར་འཁྲུལ་གྱི་ཡིག་རྟགས་ཕྲེང་བ་རྒྱུན་གྲངས།"
+
+msgid "bfd-target = %s\n"
+msgstr ""
+
+msgid "can't create group: %s"
+msgstr "ཚོ %s འཛུགས་མི་ཐུབ་པ།"
+
+msgid "cannot create floating-point number"
+msgstr "འཕྱོ་ཚེག་གྲངས་འབྱུང་མི་རུང་།"
+
+msgid "canonical = %s\n"
+msgstr ""
+
+msgid "cpu-type = %s\n"
+msgstr ""
+
+msgid "division by zero"
+msgstr ""
+
+msgid "emulations not handled in this configuration"
+msgstr "ལད་ཟློས་འཕྲུལ་འཁོར་སྡེབ་སྒྲིག་འདིའི་འོག་ཏུ་ཐག་གཅོད་བྱེད་ཀྱི་མེད།"
+
+msgid "end of file after a one-character quote; \\0 inserted"
+msgstr ""
+
+msgid "end of file in comment"
+msgstr "མཆན་འགྲེལ་གྱི་མཇུག་ཏུ་སླེབས་པ།"
+
+msgid "end of file in comment; newline inserted"
+msgstr "མཆན་འགྲེལ་གྱི་མཇུག་ཏུ་སླེབས་པས་ཕྲེང་གསར་བར་འཇུག་བྱ་དགོས།"
+
+msgid "end of file in escape character"
+msgstr "ཡིག་ཆ་ནི་དོན་སྒྱུར་རྟགས་ཀྱིས་མཇུག་སྒྲིལ་བ།"
+
+msgid "end of file in multiline comment"
+msgstr "ཡིག་ཆ་དེ་ཕྲེང་མང་མཆན་འགྲེལ་དུ་མཇུག་སྒྲིལ་བ།"
+
+msgid "end of file in string; '%c' inserted"
+msgstr "ཡིག་རྟགས་ཕྲེང་བ་ཡི་མཇུག་ཏུ་སླེབས་པ། '%c' བར་འཇུག་བྱེད་པ།"
+
+msgid "end of file not at end of a line; newline inserted"
+msgstr "ཡིག་ཆ་མཇུག་སྒྲིལ་བ། ཕྲེང་མཇུག་མིན་པ། ཕྲེང་གསར་བར་འཇུག་བྱོས།"
+
+msgid "expected expression"
+msgstr "མཚོན་ཚུལ་དགོས་པ།"
+
+msgid "expression too complex"
+msgstr "མཚོན་ཚུལ་ཧ་ཅང་རྙོག་འཛིང་ཆེ་བ།"
+
+msgid "failed to read instruction table %s\n"
+msgstr ""
+
+msgid "failed to set up debugging information: %s"
+msgstr "ཚོད་སྒྲིག་ཆ་འཕྲིན་འགྲུབ་སྐབས་ཕམ་པ།"
+
+msgid "format = %s\n"
+msgstr ""
+
+msgid "here is the start of the unterminated conditional"
+msgstr "འདི་ནི་མཇུག་བསྒྲིལ་མེད་པའི་ཆ་རྐྱེན་མཚོན་ཚུལ་གྱི་མགོ་བརྩམས་ས་རེད།"
+
+msgid "illegal operand"
+msgstr "ལུགས་འགལ་བཀོལ་སྤྱོད་གྲངས།"
+
+msgid "immediate out of range"
+msgstr "འཕྲལ་གྲངས་བར་མཚམས་ལས་བརྒལ་བ།"
+
+msgid "immediate value"
+msgstr "འཕྲལ་གྲངས།"
+
+msgid "immediate value is out of range"
+msgstr "འཕྲལ་གྲངས་མཚམས་བརྒལ།"
+
+msgid "immediate value out of range"
+msgstr "འཕྲལ་གྲངས་བར་མཚམས་ལས་བརྒལ་བ།"
+
+msgid "invalid address"
+msgstr "ནུས་མེད་ཤག་གནས།"
+
+msgid "invalid addressing mode"
+msgstr "ནུས་མེད་ཤག་འཚོལ་རྣམ་པ།"
+
+msgid "invalid identifier for \".ifdef\""
+msgstr ""
+
+msgid "invalid listing option `%c'"
+msgstr "ནུས་མེད་ཀྱི་དཔེར་འཇོག་འདེམས་ཚན '%c'"
+
+msgid "invalid mode"
+msgstr "ནུས་མེད་ཀྱི་དབང་ཚད་རྣམ་པ།"
+
+msgid "invalid number"
+msgstr ""
+
+msgid "invalid register name"
+msgstr "ནུས་མེད་ཀྱི་བཅོལ་ཆས་མིང་།"
+
+msgid "invalid shift operator"
+msgstr "ནུས་མེད་ཀྱི་གནས་སྤོའི་བཀོལ་སྤྱོད་རྟགས།"
+
+msgid "mismatched .eb"
+msgstr "ཟླ་སྒྲིག་མེད་པ.ed"
+
+msgid "missing ']'"
+msgstr "]' མི་འདང་བ།"
+
+msgid "missing .func"
+msgstr ""
+
+msgid "missing `)'"
+msgstr ""
+
+msgid "missing `]'"
+msgstr ""
+
+msgid "missing close quote; (assumed)"
+msgstr "མཇུག་གི་འདྲེན་རྟགས་མི་འདང་བ། (ཆ་བཞག་ན）"
+
+msgid "missing emulation mode name"
+msgstr "འདྲ་བཟོ་རྣམ་པའི་མིང་མི་འདང་བ།"
+
+msgid "missing name"
+msgstr "མིང་མི་འདང་བ།"
+
+msgid "missing operand"
+msgstr "བཀོལ་སྤྱོད་གྲངས་མི་འདང་བ།"
+
+msgid "multiple emulation names specified"
+msgstr "ལད་ཟློས་ཀྱི་མིང་མང་པོ་ཞིག་མཁོ་སྤྲོད་བྱས་པ།"
+
+msgid "no file name following -t option"
+msgstr "འདེམས་ཚན -t ཡི་རྗེས་ལ་ཡིག་ཆའི་མིང་མེད་པ།"
+
+msgid "non-constant expression in \".elseif\" statement"
+msgstr ""
+
+msgid "non-constant expression in \".if\" statement"
+msgstr ""
+
+msgid "offset not a multiple of 4"
+msgstr "ཡོ་སྤོ་ཚད་དེ 4 ཡི་ལྡབ་གྲངས་མ་རེད།"
+
+msgid "operand mask overflow"
+msgstr "བཀོལ་སྤྱོད་གྲངས་ཀྱི་གབ་ཨང་ཕྱིར་ལུད་པ།"
+
+msgid "relocation is not supported"
+msgstr "ཡང་བསྐྱར་སྡེབ་སྒྲིག་ལ་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་མེད་པ།"
+
+msgid "shift operator expected"
+msgstr "སྔོན་དཔག་གི་གནས་སྤོ་བཀོལ་སྤྱོད་རྟགས།"
+
+msgid "syntax error"
+msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
+
+msgid "too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "too many fixups"
+msgstr "གཏན་འཇགས་གྲངས་ཐང་མང་དྲགས་པ།"
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "unknown constraint `%c'"
+msgstr "ངེས་མེད་ཀྱི་འཆིང་གཅུན ‘%c’"
+
+msgid "unknown escape '\\%c' in string; ignored"
+msgstr ""
+
+msgid "unknown section attribute '%c'"
+msgstr "མི་ཤེས་པའི་གཡབ་ཁུལ་གྱི་གཏོགས་གཤིས།"
+
+msgid "unrecognized emulation name `%s'"
+msgstr "ངོས་འཛིན་མ་བྱས་པའི་རེར་འགོད་གྲངས་བྲིན ‘%s’"
+
+msgid "unrecognized option -%c%s"
+msgstr "ནུས་མེད་ཀྱི་འདེམས་ཚན -%c%s"
+
+msgid "unrecognized section attribute"
+msgstr "ངེས་མེད་ཀྱི་གཡབ་ཁུལ་གྱི་གཏོགས་གཤིས།"
+
+msgid "unrecognized section type"
+msgstr "ངེས་མེད་ཀྱི་དུམ་བུའི་རིགས་གྲས།"
+
+msgid "unrecognized symbol type \"%s\""
+msgstr ""
+
+msgid "unresolved expression that must be resolved"
+msgstr "མཚན་ཉིད་མ་བཞག་པའི་མཚོན་ཚུལ་ལ་ངེས་པར་དུ་སྔོན་ལ་མཚན་ཉིད་འཇོག་དགོས།"
+
+msgid "unsupported section attribute '%c'"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་གཡབ་ཁུལ '%c' ཡི་གཏོགས་གཤིས།"

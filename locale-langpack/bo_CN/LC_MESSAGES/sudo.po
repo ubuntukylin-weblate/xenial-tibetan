@@ -1,0 +1,523 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Options:\n"
+msgstr ""
+
+msgid ""
+"%s - edit files as another user\n"
+"\n"
+msgstr ""
+
+msgid ""
+"%s - execute a command as another user\n"
+"\n"
+msgstr ""
+
+msgid "%s changed labels"
+msgstr ""
+
+msgid "%s is group writable"
+msgstr ""
+
+msgid "%s is not a regular file"
+msgstr "%s རྒྱུན་ལྡན་ཡིག་ཆ་མིན།"
+
+msgid "%s is not a valid context"
+msgstr ""
+
+msgid "%s is owned by uid %u, should be %u"
+msgstr "%s དེ་སྤྱོད་མཁན ID %u རུ་གཏོགས་ཏེ་  %u ཡིན།"
+
+msgid "%s is world writable"
+msgstr "%s མི་སུས་ཀྱང་བྲིས་ཆོག"
+
+msgid "%s left unmodified"
+msgstr ""
+
+msgid "%s must be only be writable by owner"
+msgstr ""
+
+msgid "%s must be owned by uid %d"
+msgstr ""
+
+msgid "%s must be owned by uid %d and have the setuid bit set"
+msgstr ""
+
+msgid "%s unchanged"
+msgstr ""
+
+msgid "%s%s: %s"
+msgstr ""
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "%s: %s\n"
+msgstr ""
+
+msgid "%s: %s: %s\n"
+msgstr ""
+
+msgid "%s: not a regular file"
+msgstr ""
+
+msgid "%s: short write"
+msgstr ""
+
+msgid "Configure options: %s\n"
+msgstr ""
+
+msgid ""
+"Only one of the -e, -h, -i, -K, -l, -s, -v or -V options may be specified"
+msgstr ""
+
+msgid "Sudo version %s\n"
+msgstr ""
+
+msgid "Unknown signal"
+msgstr ""
+
+msgid "close all file descriptors >= num"
+msgstr ""
+
+msgid "contents of edit session left in %s"
+msgstr ""
+
+msgid "could not bind to default resource pool for project \"%s\""
+msgstr ""
+
+msgid "could not join project \"%s\""
+msgstr ""
+
+msgid "create SELinux security context with specified role"
+msgstr ""
+
+msgid "create SELinux security context with specified type"
+msgstr ""
+
+msgid "display help message and exit"
+msgstr ""
+
+msgid "display version information and exit"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་མངོན་པ་དང་ཆབས་གཅིག་ཕྱིར་འཐེན་བྱེད་པ།"
+
+msgid "edit files instead of running a command"
+msgstr ""
+
+msgid ""
+"effective uid is not %d, is %s on a file system with the 'nosuid' option set"
+" or an NFS file system without root privileges?"
+msgstr ""
+
+msgid "effective uid is not %d, is sudo installed setuid root?"
+msgstr ""
+
+msgid "error in %s, line %d while loading plugin `%s'"
+msgstr ""
+
+msgid "error in event loop"
+msgstr ""
+
+msgid "error initializing I/O plugin %s"
+msgstr ""
+
+msgid "error reading from pipe"
+msgstr ""
+
+msgid "error reading from signal pipe"
+msgstr ""
+
+msgid "error reading from socketpair"
+msgstr ""
+
+msgid "failed to get old_context"
+msgstr ""
+
+msgid "failed to set new role %s"
+msgstr ""
+
+msgid "failed to set new type %s"
+msgstr ""
+
+msgid "fatal error, unable to load plugins"
+msgstr ""
+
+msgid "ignoring duplicate I/O plugin `%s' in %s, line %d"
+msgstr ""
+
+msgid "ignoring duplicate policy plugin `%s' in %s, line %d"
+msgstr ""
+
+msgid "ignoring policy plugin `%s' in %s, line %d"
+msgstr ""
+
+msgid "in list mode, display privileges for user"
+msgstr ""
+
+msgid "incompatible plugin major version %d (expected %d) found in %s"
+msgstr ""
+
+msgid "internal error, %s overflow"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ་བྱུང་སྟེ %s་ལུད་པ།"
+
+msgid "internal error, tried to ecalloc(0)"
+msgstr ""
+
+msgid "internal error, tried to emalloc(0)"
+msgstr ""
+
+msgid "internal error, tried to emalloc2(0)"
+msgstr ""
+
+msgid "internal error, tried to erealloc(0)"
+msgstr ""
+
+msgid "internal error, tried to erealloc3(0)"
+msgstr ""
+
+msgid "internal error, tried to erecalloc(0)"
+msgstr ""
+
+msgid "invalid max groups `%s' in %s, line %d"
+msgstr ""
+
+msgid "invalid value"
+msgstr ""
+
+msgid "invalidate timestamp file"
+msgstr ""
+
+msgid ""
+"list user's privileges or check a specific command; use twice for longer "
+"format"
+msgstr ""
+
+msgid "load_interfaces: overflow detected"
+msgstr ""
+
+msgid "no askpass program specified, try setting SUDO_ASKPASS"
+msgstr ""
+
+msgid "no resource pool accepting default bindings exists for project \"%s\""
+msgstr ""
+
+msgid "no tty present and no askpass program specified"
+msgstr ""
+
+msgid "non-interactive mode, no prompts are used"
+msgstr ""
+
+msgid "only a single policy plugin may be specified"
+msgstr ""
+
+msgid "plugin error: missing file list for sudoedit"
+msgstr ""
+
+msgid "policy plugin %s does not include a check_policy method"
+msgstr ""
+
+msgid "policy plugin %s does not support listing privileges"
+msgstr ""
+
+msgid "policy plugin %s does not support the -k/-K options"
+msgstr ""
+
+msgid "policy plugin %s does not support the -v option"
+msgstr ""
+
+msgid "policy plugin %s is missing the `check_policy' method"
+msgstr ""
+
+msgid "policy plugin failed session initialization"
+msgstr ""
+
+msgid "preserve group vector instead of setting to target's"
+msgstr ""
+
+msgid "preserve user environment when running command"
+msgstr ""
+
+msgid "read password from standard input"
+msgstr ""
+
+msgid "remove timestamp file completely"
+msgstr ""
+
+msgid "requires at least one argument"
+msgstr ""
+
+msgid "resource control limit has been reached"
+msgstr ""
+
+msgid "run command (or edit file) as specified user name or ID"
+msgstr ""
+
+msgid "run command as the specified group name or ID"
+msgstr ""
+
+msgid "run command in the background"
+msgstr ""
+
+msgid "run command on host (if supported by plugin)"
+msgstr ""
+
+msgid "run command with the specified BSD login class"
+msgstr ""
+
+msgid "run login shell as the target user; a command may also be specified"
+msgstr ""
+
+msgid "run shell as the target user; a command may also be specified"
+msgstr ""
+
+msgid "set HOME variable to target user's home dir"
+msgstr ""
+
+msgid "setproject failed for project \"%s\""
+msgstr ""
+
+msgid "specified resource pool does not exist for project \"%s\""
+msgstr ""
+
+msgid "stop processing command line arguments"
+msgstr ""
+
+msgid "sudoedit is not supported on this platform"
+msgstr ""
+
+msgid "the `-A' and `-S' options may not be used together"
+msgstr ""
+
+msgid "the `-E' option is not valid in edit mode"
+msgstr ""
+
+msgid "the `-U' option may only be used with the `-l' option"
+msgstr ""
+
+msgid "the argument to -C must be a number greater than or equal to 3"
+msgstr ""
+
+msgid "the invoking task is final"
+msgstr ""
+
+msgid "unable to add event to queue"
+msgstr ""
+
+msgid "unable to allocate pty"
+msgstr ""
+
+msgid "unable to change directory to %s"
+msgstr ""
+
+msgid "unable to change root to %s"
+msgstr ""
+
+msgid "unable to change to runas uid (%u, %u)"
+msgstr ""
+
+msgid "unable to change uid to root (%u)"
+msgstr ""
+
+msgid "unable to create pipe"
+msgstr ""
+
+msgid "unable to create sockets"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ།"
+
+msgid "unable to determine enforcing mode."
+msgstr ""
+
+msgid "unable to dup2 stdin"
+msgstr ""
+
+msgid "unable to execute %s"
+msgstr "%sལག་བསྟར་བྱ་ཐབས་བྲལ།"
+
+msgid "unable to fgetfilecon %s"
+msgstr ""
+
+msgid "unable to find symbol `%s' in %s"
+msgstr ""
+
+msgid "unable to fork"
+msgstr "fork ལག་བསྟར་བྱེད་ཐབས་མེད།"
+
+msgid "unable to get current tty context, not relabeling tty"
+msgstr ""
+
+msgid "unable to get default type for role %s"
+msgstr ""
+
+msgid "unable to get group vector"
+msgstr ""
+
+msgid "unable to get new tty context, not relabeling tty"
+msgstr ""
+
+msgid "unable to initialize policy plugin"
+msgstr ""
+
+msgid "unable to load %s: %s"
+msgstr "%s ཁུར་སྣོན་བྱེད་ཐབས་མེད།：%s"
+
+msgid "unable to open %s"
+msgstr ""
+
+msgid "unable to open %s, not relabeling tty"
+msgstr ""
+
+msgid "unable to open audit system"
+msgstr ""
+
+msgid "unable to open socket"
+msgstr ""
+
+msgid "unable to open userdb"
+msgstr ""
+
+msgid "unable to read temporary file"
+msgstr ""
+
+msgid "unable to remove PRIV_PROC_EXEC from PRIV_LIMIT"
+msgstr ""
+
+msgid "unable to restore context for %s"
+msgstr ""
+
+msgid "unable to restore registry"
+msgstr ""
+
+msgid "unable to restore stdin"
+msgstr ""
+
+msgid "unable to restore tty label"
+msgstr ""
+
+msgid "unable to run %s"
+msgstr "%s ལག་བསྟར་བྱེད་ཐབས་མེད།"
+
+msgid "unable to save stdin"
+msgstr ""
+
+msgid "unable to send audit message"
+msgstr ""
+
+msgid "unable to set controlling tty"
+msgstr ""
+
+msgid "unable to set effective gid to runas gid %u"
+msgstr ""
+
+msgid "unable to set exec context to %s"
+msgstr ""
+
+msgid "unable to set gid to %u"
+msgstr ""
+
+msgid "unable to set gid to runas gid %u"
+msgstr ""
+
+msgid "unable to set key creation context to %s"
+msgstr ""
+
+msgid "unable to set new tty context"
+msgstr ""
+
+msgid "unable to set process priority"
+msgstr ""
+
+msgid "unable to set supplementary group IDs"
+msgstr ""
+
+msgid "unable to set terminal to raw mode"
+msgstr "མཐས་སྣེ་གདོད་མའི་རྣམ་པ་རུ་སྒྲིག་འགོད་བྱེད་ཐབས་མེད།"
+
+msgid "unable to set tty context to %s"
+msgstr ""
+
+msgid "unable to set uid to %u"
+msgstr ""
+
+msgid "unable to set user context"
+msgstr ""
+
+msgid "unable to stat %s"
+msgstr "stat %s བྱེད་ཐབས་མེད།"
+
+msgid "unable to switch to registry \"%s\" for %s"
+msgstr ""
+
+msgid "unable to write to %s"
+msgstr ""
+
+msgid "unexpected child termination condition: %d"
+msgstr ""
+
+msgid "unexpected reply type on backchannel: %d"
+msgstr ""
+
+msgid "unexpected sudo mode 0x%x"
+msgstr ""
+
+msgid "unknown login class %s"
+msgstr ""
+
+msgid "unknown policy type %d found in %s"
+msgstr ""
+
+msgid "unknown uid %u: who are you?"
+msgstr ""
+
+msgid "unsupported group source `%s' in %s, line %d"
+msgstr ""
+
+msgid "update user's timestamp without running a command"
+msgstr ""
+
+msgid "use a helper program for password prompting"
+msgstr ""
+
+msgid "use specified BSD authentication type"
+msgstr ""
+
+msgid "use the specified password prompt"
+msgstr ""
+
+msgid "user \"%s\" is not a member of project \"%s\""
+msgstr ""
+
+msgid "value too large"
+msgstr ""
+
+msgid "value too small"
+msgstr ""
+
+msgid "warning, resource control assignment failed for project \"%s\""
+msgstr ""
+
+msgid "you may not specify both the `-i' and `-E' options"
+msgstr ""
+
+msgid "you may not specify both the `-i' and `-s' options"
+msgstr ""
+
+msgid "you may not specify environment variables in edit mode"
+msgstr ""
+
+msgid "you must specify a role for type %s"
+msgstr ""

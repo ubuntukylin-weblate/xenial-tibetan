@@ -1,0 +1,640 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+" flushes a range of bytes in the current memory mapping\n"
+"\n"
+" Writes all modified copies of pages over the specified range (or entire\n"
+" mapping if no range specified) to their backing storage locations.  Also,\n"
+" optionally invalidates so that subsequent references to the pages will be\n"
+" obtained from their backing storage locations (instead of cached copies).\n"
+" -a -- perform asynchronous writes (MS_ASYNC)\n"
+" -i -- invalidate mapped pages (MS_INVALIDATE)\n"
+" -s -- perform synchronous writes (MS_SYNC)\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+" maps a range within the current file into memory\n"
+"\n"
+" Example:\n"
+" 'mmap -rw 0 1m' - maps one megabyte from the start of the current file\n"
+"\n"
+" Memory maps a range of a file for subsequent use by other xfs_io commands.\n"
+" With no arguments, mmap shows the current mappings.  The current mapping\n"
+" can be set by using the single argument form (mapping number or address).\n"
+" If two arguments are specified (a range), a new mapping is created and the\n"
+" following options are available:\n"
+" -r -- map with PROT_READ protection\n"
+" -w -- map with PROT_WRITE protection\n"
+" -x -- map with PROT_EXEC protection\n"
+" If no protection mode is specified, all are used by default.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Use 'help commandname' for extended help.\n"
+msgstr ""
+
+msgid "    %*.*o Unwritten preallocated extent\n"
+msgstr ""
+
+msgid " %lld blocks\n"
+msgstr ""
+
+msgid " FLAG Values:\n"
+msgstr ""
+
+msgid " at offset %lld\n"
+msgstr ""
+
+msgid "%s version %s\n"
+msgstr ""
+
+msgid "%s:  could not write to logfile \"%s\".\n"
+msgstr ""
+
+msgid "%s:  lseek64 error on target %d \"%s\" at offset %lld\n"
+msgstr ""
+
+msgid "%s:  lseek64 failure at offset %lld\n"
+msgstr ""
+
+msgid "%s:  offset was probably %lld\n"
+msgstr ""
+
+msgid "%s:  thread %d died unexpectedly, target \"%s\" incomplete\n"
+msgstr ""
+
+msgid "%s:  write error on target %d \"%s\" at offset %lld\n"
+msgstr ""
+
+msgid "%s: %s appears to contain a partition table (%s).\n"
+msgstr ""
+
+msgid "%s: %s appears to contain an existing filesystem (%s).\n"
+msgstr ""
+
+msgid "%s: XFS_IOC_FSGEOMETRY xfsctl failed: %s\n"
+msgstr ""
+
+msgid "%s: XFS_IOC_FSGROWFSDATA xfsctl failed: %s\n"
+msgstr ""
+
+msgid "%s: XFS_IOC_FSGROWFSLOG xfsctl failed: %s\n"
+msgstr ""
+
+msgid "%s: XFS_IOC_FSGROWFSRT xfsctl failed: %s\n"
+msgstr ""
+
+msgid "%s: bad chattr command, not +/-X\n"
+msgstr ""
+
+msgid "%s: bad format string %s\n"
+msgstr ""
+
+msgid "%s: cannot allocate space for file\n"
+msgstr ""
+
+msgid "%s: cannot determine geometry of filesystem mounted at %s: %s\n"
+msgstr ""
+
+msgid "%s: cannot freeze filesystem at %s: %s\n"
+msgstr ""
+
+msgid "%s: cannot open %s: %s\n"
+msgstr ""
+
+msgid "%s: cannot read attrs on \"%s\": %s\n"
+msgstr ""
+
+msgid "%s: cannot realloc %d bytes\n"
+msgstr ""
+
+msgid "%s: cannot unfreeze filesystem mounted at %s: %s\n"
+msgstr ""
+
+msgid "%s: failed to access data device for %s\n"
+msgstr ""
+
+msgid "%s: failed to access external log for %s\n"
+msgstr ""
+
+msgid "%s: failed to access realtime device for %s\n"
+msgstr ""
+
+msgid "%s: failed to open %s: %s\n"
+msgstr ""
+
+msgid "%s: growfs operation in progress already\n"
+msgstr ""
+
+msgid "%s: log growth not supported yet\n"
+msgstr ""
+
+msgid "%s: malloc of %d bytes failed.\n"
+msgstr ""
+
+msgid "%s: no extents\n"
+msgstr ""
+
+msgid "%s: premature EOF in prototype file\n"
+msgstr ""
+
+msgid "%s: proto file %s premature EOF\n"
+msgstr ""
+
+msgid "%s: read failed on %s: %s\n"
+msgstr ""
+
+msgid "%s: realtime growth not implemented\n"
+msgstr ""
+
+msgid "%s: specified file [\"%s\"] is not on an XFS filesystem\n"
+msgstr ""
+
+msgid "%s: unknown flag\n"
+msgstr ""
+
+msgid ",append-only"
+msgstr "  ཁ་སྣོན་ཁ་ན་ལས་མི་ཆོག"
+
+msgid ",real-time"
+msgstr "  དུས་ཐོག"
+
+msgid "0x%lx  %lu pages (%llu : %lu)\n"
+msgstr ""
+
+msgid "Aborting XFS copy - no more targets.\n"
+msgstr ""
+
+msgid "Aborting XFS copy - reason"
+msgstr " XFSའདྲ་ཕབ་མཇུག་སྒྲིལ།－རྒྱུ་རྐྱེན།"
+
+msgid "Aborting XFS copy -- logfile error -- reason: %s\n"
+msgstr ""
+
+msgid "Aborting target %d - reason"
+msgstr " དམིགས་འབེན་སྒྲིག་ཆས་ %dམཇུག་སྒྲིལ། - རྒྱུ་རྐྱེན།"
+
+msgid "All copies completed.\n"
+msgstr ""
+
+msgid "Allocation of the realtime bitmap failed"
+msgstr " དུས་ཐོག་ཚིགས་ཚེག་གནས་རིས་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Allocation of the realtime summary failed"
+msgstr " དུས་ཐོག་ཚིགས་ཚེག་གནད་བསྡུས་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Check logfile \"%s\" for more details\n"
+msgstr ""
+
+msgid "Completion of the realtime bitmap failed"
+msgstr " ལེགས་གྲུབ།དུས་ཐོག་ཚིགས་ཚེག་གནས་རིས་གསར་འཛུགས་བྱ་རྩིས་སྐབས་ཕམ་པ།"
+
+msgid "Completion of the realtime summary failed"
+msgstr " ལེགས་གྲུབ།དུས་ཐོག་ཚིགས་ཚེག་གནད་བསྡུས་གསར་འཛུགས་བྱ་རྩིས་སྐབས་ཕམ་པ།"
+
+msgid "Directory creation failed"
+msgstr " དཀར་ཆག་གསར་འཛུགས་ཕམ་པ།"
+
+msgid "Due to stripe alignment, the internal log size (%lld) is too large.\n"
+msgstr ""
+
+msgid "Error completing the realtime space"
+msgstr " དུས་ཐོག་བར་སྟོང་གསར་འཛུགས་བྱ་རྩིས་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error encountered creating file from prototype file"
+msgstr " དཔེ་མཚོན་ཡིག་ཆ་ནས་དངོས་ཡོད་ཡིག་ཆ་གསར་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error initializing the realtime space"
+msgstr " དུས་ཐོག་བར་སྟོང་འགོ་སྒྲིག་ལ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Inode allocation failed"
+msgstr " ཚིགས་ཚེག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Inode pre-allocation failed"
+msgstr " ཚིགས་ཚེག་སྔོན་བགོད་ཕམ་པ།"
+
+msgid "Must fit within an allocation group.\n"
+msgstr ""
+
+msgid "Pre-allocated file creation failed"
+msgstr "སྔོན་བགོས་ཡིག་ཆ་གསར་འཛུགས་ཕམ་པ།"
+
+msgid "Realtime bitmap inode allocation failed"
+msgstr "དུས་ཐོག་ཚིགས་ཚེག་གནས་རིས་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Realtime summary inode allocation failed"
+msgstr "དུས་ཐོག་ཚིགས་ཚེག་གནད་བསྡུས་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "See \"%s\" for more details.\n"
+msgstr ""
+
+msgid "[-adlpv] [-n nx]"
+msgstr ""
+
+msgid "[-ais] [off len]"
+msgstr ""
+
+msgid "[-dnrsw] [off len]"
+msgstr ""
+
+msgid "[-drsw] [off len]"
+msgstr ""
+
+msgid "[-f]"
+msgstr ""
+
+msgid "[-r] [-S seed] [off len]"
+msgstr ""
+
+msgid "[-r] [off len]"
+msgstr ""
+
+msgid "[-v]"
+msgstr ""
+
+msgid "[N]"
+msgstr ""
+
+msgid "[N] | [-rwx] [off len]"
+msgstr ""
+
+msgid "[blocks]"
+msgstr " [དུམ་བུའི་གྲངས།]"
+
+msgid "[command]"
+msgstr " [བཀའ་བརྡ།]"
+
+msgid "[off len]"
+msgstr " [ཡོ་སྤོར་རིང་ཚད།]"
+
+msgid "[tag ...]"
+msgstr " [མཚོན་རྟགས། ...]"
+
+msgid "advisory commands for sections of a file"
+msgstr "ཡིག་ཆ་ཁག་བགོས་བརྡ་ཁྱབ་བཀའ་བརྡ།"
+
+msgid "allocates zeroed space for part of a file"
+msgstr "ཡིག་ཚིགས་ཀླད་ཀོར་གྱི་བར་སྟོང་ཡིག་ཆའི་དུམ་ལ་བགོས་པ།"
+
+msgid "assert error:  buf->length = %d, buf->size = %d\n"
+msgstr ""
+
+msgid "available reserved blocks = %llu\n"
+msgstr ""
+
+msgid "bad argument count %d to %s, expected %d arguments\n"
+msgstr ""
+
+msgid "bad argument count %d to %s, expected at least %d arguments\n"
+msgstr ""
+
+msgid "bad argument count %d to %s, expected between %d and %d arguments\n"
+msgstr ""
+
+msgid "block device"
+msgstr ""
+
+msgid "both data su and data sw options must be specified\n"
+msgstr ""
+
+msgid "both data sunit and data swidth options must be specified\n"
+msgstr ""
+
+msgid "calls fdatasync(2) to flush the files in-core data to disk"
+msgstr ""
+" fdatasync(2) "
+"འདོན་སྤྱོད་ཀྱིས་ལྟེ་བར་བཅའ་སྡོད་བྱས་པའི་ཡིག་ཆའི་གཞི་གྲངས་ཚང་མ་སྡུད་སྡེར་དུ་བཀོལ་སྤྱོད་དང་གོམ་མཉམ་བཟོས།"
+
+msgid "calls fsync(2) to flush all in-core file state to disk"
+msgstr ""
+" fsync(2) "
+"འདོན་སྤྱོད་ཀྱིས་ལྟེ་བར་བཅའ་སྡོད་བྱས་པའི་ཡིག་ཆའི་གཞི་གྲངས་ཚང་མ་སྡུད་སྡེར་དུ་བཀོལ་སྤྱོད་དང་གོམ་མཉམ་བཟོས།"
+
+msgid "cannot reserve space"
+msgstr " བར་སྟོང་གསོག་འཇོག་བྱ་ཐབས་བྲལ།"
+
+msgid "change extended inode flags on the currently open file"
+msgstr ""
+"མིག་སྔར་ཁ་ཕྱེས་པའི་ཡིག་ཆའི་ཚིགས་ཚེག་རྒྱ་སྐྱེད་གཏོགས་གཤིས་མཚོན་རྟགས་བསྒྱུར།"
+
+msgid "char device"
+msgstr " ཡིག་རྟགས་སྒྲིག་ཆས།"
+
+msgid "close the current open file"
+msgstr " མིག་སྔར་ཁ་ཕྱེ་བའི་ཡིག་ཆའི་ཁ་རྒྱག་པ།"
+
+msgid "command \"%s\" not found\n"
+msgstr ""
+
+msgid "command %s not found\n"
+msgstr ""
+
+msgid "data blocks changed from %lld to %lld\n"
+msgstr ""
+
+msgid "data size %lld too large, maximum is %lld\n"
+msgstr ""
+
+msgid "data size %lld too small, old size is %lld\n"
+msgstr ""
+
+msgid "data size unchanged, skipping\n"
+msgstr ""
+
+msgid "data stripe width (%d) must be a multiple of the data stripe unit (%d)\n"
+msgstr ""
+
+msgid "data su must be a multiple of the sector size (%d)\n"
+msgstr ""
+
+msgid "data su/sw must not be used in conjunction with data sunit/swidth\n"
+msgstr ""
+
+msgid "data sunit/swidth must not be used in conjunction with data su/sw\n"
+msgstr ""
+
+msgid "direct"
+msgstr " ཐད་ཀར་ལྟ་སྤྱོད།"
+
+msgid "directory"
+msgstr "དཀར་ཆག"
+
+msgid "directory create error"
+msgstr " དཀར་ཆག་གསར་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "directory createname error"
+msgstr " དཀར་ཆག་མིང་གསར་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "error allocating space for a file"
+msgstr " ཡིག་ཆར་བར་སྟོང་བགོ་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "error reserving space for a file"
+msgstr " ཡིག་ཆར་བར་སྟོང་གསོག་འཇོག་འཆར་འགོད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "exit the program"
+msgstr "བྱ་རིམ་ཕྱིར་འབུད།"
+
+msgid "external"
+msgstr ""
+
+msgid "fifo"
+msgstr ""
+
+msgid "find mapping pages that are memory resident"
+msgstr "ནང་གསོག་ཏུ་རྒྱུན་སྡོད་བྱེད་པའི་རྟེན་འཕྲོ་ལྡེབ་ངོས་འཚོལ་བ།"
+
+msgid "flush a region in the current memory mapping"
+msgstr ""
+"མིག་སྔའི་ནང་གསོག་རྟེན་འཕྲོ་ལས་གཏན་འཁེལ་བའི་ཁྱབ་ཁོངས་གཞི་གྲངས་གསར་འདོན།"
+
+msgid "foreign"
+msgstr " ཕྱི་རོལ།"
+
+msgid "foreign file active, %s command is for XFS filesystems only\n"
+msgstr ""
+
+msgid "frees reserved space associated with part of a file"
+msgstr "ཡིག་ཆའི་དུམ་བུ་དང་འབྲེལ་བ་ཡོད་པའི་གྲབས་གསོག་བར་སྟོང་གློད་པ།"
+
+msgid "frees space associated with part of a file"
+msgstr "“ཡིག་ཆའི་དུམ་བུ་དང་འབྲེལ་བ་ཡོད་པའི་ཆ་ཤས་བར་སྟོང་གློད་པ།”"
+
+msgid "freeze filesystem of current file"
+msgstr " དམིགས་འཛུགས་ཡིག་ཆའི་རྒྱུད་ཁོངས་ཀྱི་ལྟ་སྤྱོད་ཁ་སྦྱར།"
+
+msgid "get and/or set count of reserved filesystem blocks"
+msgstr ""
+" ཐོབ་ལེན་དང་/ཡང་ན་ཡིག་ཆའི་རྒྱུད་ཁོངས་གྲབས་གསོག་དུམ་གྱི་གྲངས་སྒྲིག་འགོད།"
+
+msgid "give advice about use of memory"
+msgstr "ནང་གསོག་བེད་སྤྱོད་བྱེད་ཚུལ་གྱི་བརྡ་ཁྱབ་སྤྲོད།"
+
+msgid "help for one or all commands"
+msgstr "བཀའ་བརྡ་གཅིག་གམ་ཡོད་ཚད་ཀྱི་རོགས་རམ།"
+
+msgid "inject errors into a filesystem"
+msgstr " ཡིག་ཆའི་རྒྱུད་ཁོངས་སུ་ནོར་འཁྲུལ་ལྡུག་པ།"
+
+msgid "inode max pct unchanged, skipping\n"
+msgstr ""
+
+msgid "inode max percent changed from %d to %d\n"
+msgstr ""
+
+msgid "internal"
+msgstr ""
+
+msgid "list current open files and memory mappings"
+msgstr " མིག་སྔར་ཁ་ཕྱེ་ཟིན་པའི་ཡིག་ཆ་དང་ནང་གསོག་རྟེན་འཕྲོ་སྟར་ཏུ་སྒྲིག"
+
+msgid "list extended inode flags set on the currently open file"
+msgstr ""
+" "
+"མིག་སྔར་ཁ་ཕྱེ་ཟིན་པའི་ཡིག་ཆའི་ཚིགས་ཚེག་རྒྱ་སྐྱེད་གཏོགས་གཤིས་མཚོན་རྟགས་སྟར་ཏུ་སྒྲིག"
+
+msgid "log blocks changed from %d to %d\n"
+msgstr ""
+
+msgid "log changed from %s to %s\n"
+msgstr ""
+
+msgid "log size unchanged, skipping\n"
+msgstr ""
+
+msgid "log su should not be used in conjunction with log sunit\n"
+msgstr ""
+
+msgid "log sunit should not be used in conjunction with log su\n"
+msgstr ""
+
+msgid "lseek64 error"
+msgstr " lseek64 ནོར་འཁྲུལ།"
+
+msgid "mmap a range in the current file, show mappings"
+msgstr ""
+" "
+"མིག་སྔའི་ཡིག་ཆའི་ཁྲོད་ཁྱབ་ཁོངས་གཞི་གྲངས་ངེས་ཅན་ཞིག་རྟེན་འཕྲོ་དང་སྦྲགས་འཆར་བ།"
+
+msgid "need at least %lld allocation groups\n"
+msgstr ""
+
+msgid "need at most %lld allocation groups\n"
+msgstr ""
+
+msgid "no files are open, try 'help open'\n"
+msgstr ""
+
+msgid "no mapped regions, try 'help mmap'\n"
+msgstr ""
+
+msgid "no such tag -- %s\n"
+msgstr ""
+
+msgid "non-direct"
+msgstr " ཐད་ཀར་ལྟ་སྤྱོད་མིན་པ།"
+
+msgid "non-numeric argument -- %s\n"
+msgstr ""
+
+msgid "non-numeric bsize -- %s\n"
+msgstr ""
+
+msgid "non-numeric extsize argument -- %s\n"
+msgstr ""
+
+msgid "non-numeric length argument -- %s\n"
+msgstr ""
+
+msgid "non-numeric mode -- %s\n"
+msgstr ""
+
+msgid "non-numeric offset argument -- %s\n"
+msgstr ""
+
+msgid "non-numeric seed -- %s\n"
+msgstr ""
+
+msgid "non-numeric skip -- %s\n"
+msgstr ""
+
+msgid "non-numeric truncate argument -- %s\n"
+msgstr ""
+
+msgid "non-sync"
+msgstr " གོམ་མཉམ་མིན་པ།"
+
+msgid "none"
+msgstr "མེད།"
+
+msgid "off"
+msgstr "སྒོ་རྒྱག"
+
+msgid "off len"
+msgstr "ཡོ་སྤོར་རིང་ཚད།"
+
+msgid "offset (%lld) is before start of mapping (%lld)\n"
+msgstr ""
+
+msgid "offset (%lld) is beyond end of mapping (%lld)\n"
+msgstr ""
+
+msgid "offset address (%p) is not page aligned\n"
+msgstr ""
+
+msgid "open the file specified by path"
+msgstr " དམིགས་འཛུགས་འགྲོ་ལམ་གྱིས་གནས་ངེས་བྱས་པའི་ཡིག་ཆའི་ཁ་ཕྱེས།"
+
+msgid "print block mapping for an XFS file"
+msgstr ""
+"  XFS ཡིག་ཆའི་རྒྱུད་ཁོངས་སྟེང་གི་ཡིག་ཆའི་དུམ་གྱི་རྟེན་འཕྲོ་ཕྱིར་གཏོང་།"
+
+msgid "range (%lld:%lld) is beyond mapping (%lld:%ld)\n"
+msgstr ""
+
+msgid "read-only"
+msgstr "ཀློག་ཙམ།"
+
+msgid "read-write"
+msgstr "ཀློག་རུང་འབྲི་ཆོག"
+
+msgid "reads a number of bytes at a specified offset"
+msgstr ""
+" དམིགས་འཛུགས་བྱས་པའི་ཡོ་སྤོར་གནས་ནས་ཡིག་ཚིགས་གཞི་གྲངས་ཚོ་གཅིག་ཀློག་ལེན་བྱོས།"
+
+msgid "reads data from a region in the current memory mapping"
+msgstr ""
+" "
+"མིག་སྔའི་ནང་གསོག་རྟེན་འཕྲོའི་ཁྲོད་ཁུལ་ཁོངས་ཁྱབ་ཁོངས་ཤིག་དམིགས་འཛུགས་དང་སྦྲགས་ཀློག་དགོས།"
+
+msgid "realtime blocks changed from %lld to %lld\n"
+msgstr ""
+
+msgid "realtime extent size changed from %d to %d\n"
+msgstr ""
+
+msgid "realtime size %lld too large, maximum is %lld\n"
+msgstr ""
+
+msgid "realtime size %lld too small, old size is %lld\n"
+msgstr ""
+
+msgid "realtime size unchanged, skipping\n"
+msgstr ""
+
+msgid "regular file"
+msgstr ""
+
+msgid "reserved blocks = %llu\n"
+msgstr ""
+
+msgid "reserves space associated with part of a file"
+msgstr " ཡིག་ཆའི་དུམ་དང་འབྲེལ་ཡོད་ཀྱི་བར་སྟོང་གྲབས་གསོག"
+
+msgid "s"
+msgstr ""
+
+msgid "shuts down the filesystem where the current file resides"
+msgstr " མིག་སྔའི་ཡིག་ཆར་རྒྱུན་སྡོད་ཀྱི་ཡིག་ཆའི་རྒྱུད་ཁོངས་ཁ་རྒྱག་པ།"
+
+msgid "socket"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ"
+
+msgid "statistics on the currently open file"
+msgstr " མིག་སྔར་ཁ་ཕྱེ་བའི་ཡིག་ཆའི་རྣམ་པ་སྡོམ་རྩིས།"
+
+msgid "statistics on the filesystem of the currently open file"
+msgstr ""
+" "
+"མིག་སྔར་ཁ་ཕྱེ་བའི་ཡིག་ཆ་གཏོགས་ཡུལ་གྱི་ཡིག་ཆའི་རྒྱུད་ཁོངས་ཀྱི་རྣམ་པ་སྡོམ་རྩིས།"
+
+msgid "symbolic link"
+msgstr "མཚོན་རྟགས་སྦྲེལ་མཐུད།"
+
+msgid "sync"
+msgstr "གོམ་མཉམ།"
+
+msgid "too few allocation groups for size = %lld\n"
+msgstr ""
+
+msgid "too many allocation groups for size = %lld\n"
+msgstr ""
+
+msgid "truncates the current file at the given offset"
+msgstr " སྤྲད་པའི་ཡོ་སྤོར་གནས་སུ་མིག་སྔའི་ཡིག་ཆ་གཏུབ་པ།"
+
+msgid "unfreeze filesystem of current file"
+msgstr " དམིགས་འཛུགས་ཡིག་ཆའི་རྒྱུད་ཁོངས་ཀྱི་ལྟ་སྤྱོད་དམ་འབྱེད།"
+
+msgid "unmaps the current memory mapping"
+msgstr " མིག་སྔའི་ནང་གསོག་རྟེན་འཕྲོ་འཐེན་པ།"
+
+msgid "write error"
+msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+
+msgid "writes a number of bytes at a specified offset"
+msgstr " དམིགས་འཛུགས་བྱས་པའི་ཡོ་སྤོར་གནས་སུ་ཡིག་ཚིགས་གཞི་གྲངས་ཚོ་གཅིག་ཕྲིས།"
+
+msgid "writes data into a region in the current memory mapping"
+msgstr ""
+" མིག་སྔའི་ནང་གསོག་རྟེན་འཕྲོ་རུ་ཁུལ་ཁོངས་ཁྱབ་ཁོངས་ཀྱི་གཞི་གྲངས་ཤིག་ཕྲིས།"
+
+msgid "xfs"
+msgstr ""

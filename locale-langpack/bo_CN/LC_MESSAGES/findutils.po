@@ -1,0 +1,781 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Execution of xargs will continue now, and it will try to read its input and run commands; if this is not what you wanted to happen, please type the end-of-file keystroke.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Report bugs to <bug-findutils@gnu.org>.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"actions: -delete -print0 -printf FORMAT -fprintf FILE FORMAT -print \n"
+"      -fprint0 FILE -fprint FILE -ls -fls FILE -prune -quit\n"
+"      -exec COMMAND ; -exec COMMAND {} + -ok COMMAND ;\n"
+"      -execdir COMMAND ; -execdir COMMAND {} + -okdir COMMAND ;\n"
+msgstr ""
+
+msgid ""
+"\n"
+"default path is the current directory; default expression is -print\n"
+"expression may consist of: operators, options, tests, and actions:\n"
+msgstr ""
+
+msgid "      -context CONTEXT\n"
+msgstr ""
+
+msgid ""
+"%s is an slocate database of unsupported security level %d; skipping it."
+msgstr ""
+"%s ནི་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་བདེ་འཇགས་རིམ་པ %d ཡི་གཞི་གྲངས་མཛོད slocate ཡིན།"
+" མཆོང་བ།"
+
+msgid ""
+"%s is an slocate database.  Support for these is new, expect problems for "
+"now."
+msgstr ""
+
+msgid "%s is an slocate database.  Turning on the '-e' option."
+msgstr "%s ནི་གཞི་གྲངས་མཛོད slocate ཡིན། འདེམས་ཚན ‘-e’ ཁ་ཕྱེ་བ།"
+
+msgid "%s is not the name of a known user"
+msgstr "སྤྱོད་མཁན་མིང་ %s ངེས་མེད།"
+
+msgid "%s is not the name of an existing group"
+msgstr "%s ནི་གནས་པའི་སྤྱོད་མཁན་ཚོ་ཡི་མིང་མ་རེད།"
+
+msgid ""
+"%s is not the name of an existing group and it does not look like a numeric "
+"group ID because it has the unexpected suffix %s"
+msgstr ""
+
+msgid "%s terminated by signal %d"
+msgstr "%s ནི་བརྡ་རྟགས %d ཡིས་མཇུག་སྒྲིལ་བ།"
+
+msgid ""
+"%s%s changed during execution of %s (old device number %ld, new device "
+"number %ld, file system type is %s) [ref %ld]"
+msgstr ""
+
+msgid "%s: exited with status 255; aborting"
+msgstr "%s：ནི་རྣམ་པ 255 ཡི་ཐོག་ནས་ཕྱིར་འཐེན་པ། བར་མཚམས་འཇོག་པ།"
+
+msgid "%s: invalid number for -%c option\n"
+msgstr ""
+
+msgid "%s: stopped by signal %d"
+msgstr "%s： ནི་བརྡ་རྟགས %d ཡིས་རྐྱེན་པས་མཚམས་འཇོག་དགོས།"
+
+msgid "%s: terminated by signal %d"
+msgstr "%s： ནི་བརྡ་རྟགས %d ཡིས་རྐྱེན་པས་མཚམས་འཇོག་དགོས།"
+
+msgid "%s: value for -%c option should be >= %ld\n"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "< %s ... %s > ? "
+msgstr "\"< %s ... %s > ? \""
+
+msgid "All Filenames: %s\n"
+msgstr ""
+
+msgid "Arguments to -type should contain only one letter"
+msgstr " -type ཡི་ཞུགས་གྲངས་ནང་དུ་གསལ་བྱེད་ཁོ་ན་ཚུད་དགོས།"
+
+msgid "Cannot close standard input"
+msgstr "ཚད་ལྡན་གྱི་ནང་འཇུག་ཁ་རྒྱག་མི་ཐུབ་པ།"
+
+msgid "Cannot obtain birth time of file %s"
+msgstr "ཡིག་ཆ %s ཡི་སྐྱེད་འགྲུབ་དུས་ཚོད་ཐོབ་མི་ཐུབ་པ།"
+
+msgid "Cannot open input file %s"
+msgstr "ཡིག་ཆ་ནང་འཇུག་གི་ཁ་ཕྱེ་ཐབས་བྲལ། %"
+
+msgid "Cannot read list of mounted devices."
+msgstr "འདེགས་འགེལ་སྒྲིག་ཆས་ཀྱི་རེའུ་མིག་ཀློག་མི་ཐུབ། "
+
+msgid "Cannot read mounted file system list"
+msgstr "འདེགས་འགེལ་ཡིག་ཆའི་རྒྱུད་ཁོངས་ཀྱི་རེའུ་མིག་ཀློག་མི་ཐུབ་པ།"
+
+msgid "Cannot set SIGUSR1 signal handler"
+msgstr "SIGUSR1 ཡི་བརྡ་རྟགས་ཚིག་ཡུ་སྒྲིག་འགོད་བྱེད་ཐབས་མེད།"
+
+msgid "Cannot set SIGUSR2 signal handler"
+msgstr ""
+
+msgid "Compression ratio %4.2f%% (higher is better)\n"
+msgstr ""
+
+msgid "Compression ratio is undefined\n"
+msgstr ""
+
+msgid "Database %s is in the %s format.\n"
+msgstr ""
+
+msgid "Empty argument to the -D option."
+msgstr " -D འདེམས་ཚན་གྱི་ཞུགས་གྲངས་རེའུ་མིག་ནི་སྟོང་པ་ཡིན།"
+
+msgid "Environment variable %s is not set to a valid decimal number"
+msgstr ""
+"ཁོར་ཡུག་འགྱུར་ཚད %s དེ་ནུས་ལྡན་གྱི་བཅུ་གོང་འགྲིལ་ལུགས་གྲངས་སུ་སྒྲིག་མེད།"
+
+msgid "Eric B. Decker"
+msgstr "\"Eric B. Decker\""
+
+msgid "Expected a positive decimal integer argument to %s, but got %s"
+msgstr ""
+" %s ལ་བཅུ་གོང་འགྲིལ་ལུགས་ཀྱི་ཕོ་ཧྲིལ་གྲངས་ཤིག་གིས་ཞུགས་གྲངས་རྩིས་མོད། "
+"འོན་ཀྱང %s བེད་སྤྱོད་བྱས་ཡོད།"
+
+msgid "Expected an integer: %s"
+msgstr "%s ཧྲིལ་གྲངས་ཞིག་དགོས།"
+
+msgid "Failed to fully drop privileges"
+msgstr "ཁྱད་དབང་རྦད་དེ་འདོར་ཐབས་མེད།"
+
+msgid "Failed to safely change directory into %s"
+msgstr "བདེ་འཇགས་ཀྱི་བཟོ་བཅོས་དེ་དཀར་ཆག %s ལ་བྱ་ཐབས་མེད་པ།"
+
+msgid "Failed to save working directory in order to run a command on %s"
+msgstr ""
+" %s ཡི་སྟེང་བཀའ་བརྡ་འཁོར་སྐྱོད་ཀྱི་ཆེད་དུ་ལས་ཀའི་དཀར་ཆག་ཉར་ཚགས་བྱེད་ཐབས་མེད།"
+
+msgid "Failed to write to standard output"
+msgstr "ཚད་ལྡན་གྱི་ཕྱིར་འདོན་འབྲི་ཐབས་མེད།"
+
+msgid "Features enabled: "
+msgstr "ཕྱེ་བའི་ཁྱད་ཆོས།"
+
+msgid ""
+"File descriptor %d will leak; please report this as a bug, remembering to "
+"include a detailed description of the simplest way to reproduce this "
+"problem."
+msgstr ""
+
+msgid ""
+"File names have a cumulative length of %s bytes.\n"
+"Of those file names,\n"
+"\n"
+"\t%s contain whitespace, \n"
+"\t%s contain newline characters, \n"
+"\tand %s contain characters with the high bit set.\n"
+msgstr ""
+
+msgid ""
+"File system loop detected; %s is part of the same file system loop as %s."
+msgstr ""
+"ཡིག་ཆའི་རྒྱུད་ཁོངས་འཁོར་སྐྱོད་འཚོལ་ཞིབ་ཐུབ་པ། %s ནི %s "
+"དང་མཚུངས་པའི་ཡིག་ཆའི་རྒྱུད་ཁོངས་འཁོར་སྐྱོད་ཀྱི་ཆ་ཤས་ཤིག་རེད།"
+
+msgid ""
+"Filesystem loop detected; %s has the same device number and inode as a "
+"directory which is %d level higher in the file system hierarchy"
+msgid_plural ""
+"Filesystem loop detected; %s has the same device number and inode as a "
+"directory which is %d levels higher in the file system hierarchy"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "I cannot figure out how to interpret %s as a date or time"
+msgstr "%s དེ་ཚེས་གྲངས་སམ་དུས་ཚོད་ལ་འགྲེལ་བཤད་བྱེད་པ་རྙེད་མི་ཐུབ།"
+
+msgid "Ignoring unrecognised debug flag %s"
+msgstr "དབྱེ་འབྱེད་མི་ཐུབ་པའི་ཚོད་སྒྲིག་བཀོད་རྟགས %s སྣང་མེད་དུ་བཞག་པ།"
+
+msgid "In %s the %s must appear by itself, but you specified %s"
+msgstr ""
+"%s ནང %s ཡིས་སོར་བཞག་རང་འདོན་སྤྱོད་བྱེད་མོད། འོན་ཀྱང་ཁྱེད་ཀྱིས %s "
+"དམིགས་འཛུགས་བྱས་ཡོད།"
+
+msgid "Invalid argument %s for option --max-database-age"
+msgstr ""
+
+msgid "Invalid argument %s to -used"
+msgstr ""
+
+msgid "Invalid argument `%s%s' to -size"
+msgstr ""
+
+msgid "Invalid escape sequence %s in input delimiter specification."
+msgstr ""
+"ནང་འཇུག་གི་བར་གཅོད་མཚན་ཉིད་ནང་དུ་ནུས་མེད་ཀྱི་དོན་སྒྱུར་རིམ་སྟར། %s ཡོད་པ།"
+
+msgid ""
+"Invalid escape sequence %s in input delimiter specification; character "
+"values must not exceed %lo."
+msgstr ""
+"ནང་འཇུག་གི་བར་གཅོད་མཚན་ཉིད་ནང་དུ་ནུས་མེད་ཀྱི་དོན་སྒྱུར་རིམ་སྟར། %s ཡོད་པ། "
+"ཡིག་རྟགས་ཀྱི་གྲངས་ཐང་དེ %lo ལས་བརྒལ་མི་ཆོག "
+
+msgid ""
+"Invalid escape sequence %s in input delimiter specification; character "
+"values must not exceed %lx."
+msgstr ""
+
+msgid ""
+"Invalid escape sequence %s in input delimiter specification; trailing "
+"characters %s not recognised."
+msgstr ""
+"ནང་འཇུག་གི་བར་གཅོད་མཚན་ཉིད་ནང་དུ་ནུས་མེད་ཀྱི་དོན་སྒྱུར་རིམ་སྟར། %s ཡོད་པ། "
+"ངོས་འཛིན་མི་ཐུབ་པའི་རྗེས་མཐུད་ཡིག་རྟགས %s"
+
+msgid ""
+"Invalid input delimiter specification %s: the delimiter must be either a "
+"single character or an escape sequence starting with \\."
+msgstr ""
+
+msgid "Invalid optimisation level %s"
+msgstr "ནུས་མེད་ཀྱི་ལེགས་སྒྱུར་རིམ་པ། %s"
+
+msgid "James Youngman"
+msgstr ""
+
+msgid "Kevin Dalley"
+msgstr ""
+
+msgid "Locate database size: %s byte\n"
+msgid_plural "Locate database size: %s bytes\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Matching Filenames: %s\n"
+msgstr ""
+
+msgid "Old-format locate database %s is too short to be valid"
+msgstr "རྣམ་གཞག་རྙིང་པའི་གཞི་གྲངས་མཛོད loocate ཡི %s ཧ་ཅང་ཐུང་བས་ནུས་མེད་ཡིན།"
+
+msgid "Only one instance of {} is supported with -exec%s ... +"
+msgstr " -exec%s ... + ཡིས་དངོས་དཔེ {} གཅིག་ཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད་པ་ཡིན།"
+
+msgid ""
+"Optimisation level %lu is too high.  If you want to find files very quickly,"
+" consider using GNU locate."
+msgstr ""
+"ལེགས་སྒྱུར་རིམ་པ %lu ཧ་ཅང་མཐོ་བས། གལ་ཏེ་ཁྱོད་ཀྱིས་མྱུར་དུ་ཡིག་ཆ་རྙེད་འདོད་ན།"
+" GNU locate སྤྱོད་པར་བསམ་གཞིགས་བྱོས།"
+
+msgid "Please specify a decimal number immediately after -O"
+msgstr ""
+"འདེམས་ཚན -O ཡི་རྗེས་སུ་འཕྲལ་མར་བཅུ་གོང་འགྲིལ་ལུགས་གྲངས་ཤིག་དམིགས་འཛུགས་བྱོས།"
+
+msgid ""
+"Report (and track progress on fixing) bugs via the findutils bug-reporting\n"
+"page at http://savannah.gnu.org/ or, if you have no web access, by sending\n"
+"email to <bug-findutils@gnu.org>."
+msgstr ""
+
+msgid "Security level %s has unexpected suffix %s."
+msgstr "བདེ་འཇགས་རིམ་པ %s ལ་སྔོན་དཔག་མིན་པའི་མིང་མཐའ  %s ཡོད། "
+
+msgid "Security level %s is outside the convertible range."
+msgstr "བདེ་འཇགས་རིམ་པའི་s%བརྗེ་སྤོར་ཐུབ་པའི་ཁྱབ་ཁོངས་ལས་བརྒལ་བ།"
+
+msgid ""
+"Some filenames may have been filtered out, so we cannot compute the "
+"compression ratio.\n"
+msgstr ""
+
+msgid ""
+"Symbolic link %s is part of a loop in the directory hierarchy; we have "
+"already visited the directory to which it points."
+msgstr ""
+
+msgid "The %s test needs an argument"
+msgstr "%s ཚོད་ལེན་བྱེད་པར་ཞུགས་གྲངས་དགོས།"
+
+msgid "The -O option must be immediately followed by a decimal integer"
+msgstr ""
+
+msgid ""
+"The -delete action automatically turns on -depth, but -prune does nothing "
+"when -depth is in effect.  If you want to carry on anyway, just explicitly "
+"use the -depth option."
+msgstr ""
+
+msgid ""
+"The -show-control-chars option takes a single argument which must be "
+"'literal' or 'safe'"
+msgstr ""
+
+msgid "The argument for option --max-database-age must not be empty"
+msgstr ""
+
+msgid "The argument to -user should not be empty"
+msgstr ""
+
+msgid ""
+"The current directory is included in the PATH environment variable, which is"
+" insecure in combination with the %s action of find.  Please remove the "
+"current directory from your $PATH (that is, remove \".\", doubled colons, or"
+" leading or trailing colons)"
+msgstr ""
+
+msgid "The database has big-endian machine-word encoding.\n"
+msgstr ""
+
+msgid "The database has little-endian machine-word encoding.\n"
+msgstr ""
+
+msgid "The database machine-word encoding order is not obvious.\n"
+msgstr ""
+
+msgid "The environment is too large for exec()."
+msgstr "exec() ལ་མཚོན་ན་ཁོར་ཡུག་ཆེ་དྲགས་འདུག"
+
+msgid ""
+"The environment variable FIND_BLOCK_SIZE is not supported, the only thing "
+"that affects the block size is the POSIXLY_CORRECT environment variable"
+msgstr ""
+
+msgid ""
+"The relative path %s is included in the PATH environment variable, which is "
+"insecure in combination with the %s action of find.  Please remove that "
+"entry from $PATH"
+msgstr ""
+
+msgid "This system does not provide a way to find the birth time of a file."
+msgstr ""
+"རྒྱུད་ཁོངས་འདིས་ཡིག་ཆ་འཚོལ་བའི་དུས་ཚོད་འགྲུབ་པའི་ཐབས་ལམ་མཁོ་འདོན་བྱས་མེད། "
+
+msgid "Unexpected suffix %s on %s"
+msgstr "%2$s ཡི་ནང་སྔོན་དཔག་མིན་པའི་མིང་མཐའ %1$s ཡོད་པ།"
+
+msgid "Unknown argument to -type: %c"
+msgstr " -type ཡི་ཞུགས་གྲངས %c ངེས་མེད།"
+
+msgid "Unknown regular expression type %s; valid types are %s."
+msgstr ""
+"ངེས་མེད་ཀྱི་ཚད་མཐུན་མཚོན་ཚུལ་གྱི་རིགས་གྲས %s ཡིན་པ་དང་། "
+"ཁྲིམས་མཐུན་གྱི་རིགས་གྲས་ནི %s ཡིན།"
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid ""
+"Usage: %s [--version | --help]\n"
+"or     %s most_common_bigrams < file-list > locate-database\n"
+msgstr ""
+
+msgid "Usage: %s [-0 | --null] [--version] [--help]\n"
+msgstr ""
+
+msgid "Usage: %s [-H] [-L] [-P] [-Olevel] [-D "
+msgstr ""
+
+msgid ""
+"Usage: %s [-d path | --database=path] [-e | -E | --[non-]existing]\n"
+"      [-i | --ignore-case] [-w | --wholename] [-b | --basename] \n"
+"      [--limit=N | -l N] [-S | --statistics] [-0 | --null] [-c | --count]\n"
+"      [-P | -H | --nofollow] [-L | --follow] [-m | --mmap] [-s | --stdio]\n"
+"      [-A | --all] [-p | --print] [-r | --regex] [--regextype=TYPE]\n"
+"      [--max-database-age D] [--version] [--help]\n"
+"      pattern...\n"
+msgstr ""
+
+msgid "Valid arguments are:"
+msgstr "ནུས་ལྡན་གྱི་ཞུགས་གྲངས་ནི།："
+
+msgid "WARNING: Lost track of %lu child processes"
+msgstr "ཉེན་བརྡ། བུ་འཕེལ་རིམ %lu ཡི་རྗེས་ཤུལ་ཤོར་བ།"
+
+msgid ""
+"WARNING: a NUL character occurred in the input.  It cannot be passed through"
+" in the argument list.  Did you mean to use the --null option?"
+msgstr ""
+
+msgid "WARNING: cannot determine birth time of file %s"
+msgstr "ཉེན་བརྡ། ཡིག་ཆ %s ཡི་འགྲུབ་པའི་དུས་ཚོད་གཏན་འཁེལ་བྱེད་ཐབས་མེད།"
+
+msgid "WARNING: file %s appears to have mode 0000"
+msgstr "ཉེན་བརྡ། ཡིག་ཆ %s ཡི་དབང་ཚད་ལ་ཕར་བལྟས་ན 000000 ཡིན།"
+
+msgid "WARNING: file system %s has recently been mounted."
+msgstr "ཉེན་བརྡ། ཡིག་ཆའི་རྒྱུད་ཁོངས %s དེ་ཉེ་དུས་འདེགས་འགེལ་བྱས་འདུག"
+
+msgid "WARNING: file system %s has recently been unmounted."
+msgstr "ཉེན་བརྡ། ཡིག་ཆའི་རྒྱུད་ཁོངས %s དེ་ཉེ་དུས་འབེབས་འདུག"
+
+msgid "WARNING: locate database %s was built with a different byte order"
+msgstr ""
+"ཉེན་བརྡ། གཞི་གྲངས་མཛོད locate དེ་ཡིག་ཚིགས་མི་འདྲ་བའི་གོ་རིམ་ལྟར་བཙུགས་དགོས།"
+
+msgid ""
+"Warning: %s will be run at least once.  If you do not want that to happen, "
+"then press the interrupt keystroke.\n"
+msgstr ""
+
+msgid ""
+"You may not use {} within the utility name for -execdir and -okdir, because "
+"this is a potential security problem."
+msgstr ""
+"ཁྱེད་ཀྱིས -execdir དང -okdir ཡི་ནང་དུ {} སྤྱོད་མི་ཆོག གང་ལགས་ཤེ་ན། "
+"འདིས་མངོན་མེད་ཀྱི་བདེ་འཇགས་གནད་དོན་བཟོ་སྲིད་པས་རེད། "
+
+msgid "You need to specify a security level as a decimal integer."
+msgstr ""
+"ཁྱེད་ཀྱིས་བཅུ་གོང་འགྲིལ་ལུགས་ཀྱི་ཧྲིལ་གྲངས་ཀྱིས་བདེ་འཇགས་རིམ་པ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས།"
+
+msgid ""
+"You specified the -E option, but that option cannot be used with slocate-"
+"format databases with a non-zero security level.  No results will be "
+"generated for this database.\n"
+msgstr ""
+
+msgid "] [path...] [expression]\n"
+msgstr ""
+
+msgid "^[nN]"
+msgstr ""
+
+msgid "^[yY]"
+msgstr ""
+
+msgid "`"
+msgstr ""
+
+msgid "ambiguous argument %s for %s"
+msgstr ""
+
+msgid "argument line too long"
+msgstr "ཞུགས་གྲངས་ཕྲེང་རིང་དྲགས་པ།"
+
+msgid "argument list too long"
+msgstr "ཞུགས་གྲངས་རེའུ་མིག་རིང་དྲགས་པ།"
+
+msgid "argument to -group is empty, but should be a group name"
+msgstr ""
+" -group ཡི་ཞུགས་གྲངས་རེའུ་མིག་ནི་སྟོང་པ་ཡིན་མོད། "
+"འོན་ཀྱང་སྤྱོད་མཁན་ཚོ་ཡི་མིང་སྤྲོད་དགོས།"
+
+msgid "arithmetic overflow when trying to calculate the end of today"
+msgstr ""
+"ཉིན་འདིར་མཇུག་སྒྲིལ་བའི་དུས་ཚོད་རྩིས་རྒྱག་པའི་ཚོད་ལྟ་བྱེད་སྐབས་སུ་ཨང་རྩིས་ལུད་སོང་།"
+
+msgid "arithmetic overflow while converting %s days to a number of seconds"
+msgstr "ཉིན་ %s  དེ་སྐར་ཆའི་གྲངས་ཕབ་རྩིས་སྐབས་སུ་ཨང་རྩིས་ལུད་སོང་།"
+
+msgid "can't call exec() due to argument size restrictions"
+msgstr "ཞུགས་གྲངས་ཁ་གྲངས་ཀྱི་ཚོད་འཛིན་དབང exec() འདོན་སྤྱོད་མི་ཐུབ་པ།"
+
+msgid "cannot delete %s"
+msgstr " %sའདོར་མི་ཐུབ།"
+
+msgid "cannot fit single argument within argument list size limit"
+msgstr ""
+"ཞུགས་གྲངས་རེའུ་མིག་གི་ཆེ་ཆུང་ཚོད་འཛིན་ནང་དུ་ཞུགས་གྲངས་སྣ་གཅིག་འཚམ་པོར་སྡེབ་མི་ཐུབ།"
+
+msgid "cannot fork"
+msgstr "fork བྱེད་ཐབས་བྲལ།"
+
+msgid "cannot search %s"
+msgstr "%s འཚོལ་ཞིབ་བྱེད་ཐབས་བྲལ།"
+
+msgid "cannot stat current directory"
+msgstr "མིག་སྔའི་དཀར་ཆག་ལ Sat བྱེད་ཐབས་བྲལ།"
+
+msgid "command too long"
+msgstr "བཀའ་བརྡ་རིང་དྲགས་པ།"
+
+msgid "could not create pipe before fork"
+msgstr "རྗེས་གྲུབ་བུ་འཕེལ་རིམ་གྱི་སྔོན་དུ་སྦུག་ལམ་བཟོ་ཐབས་བྲལ།"
+
+msgid "days"
+msgstr "ཉིན།"
+
+msgid "double"
+msgstr "ཆ།"
+
+msgid "environment is too large for exec"
+msgstr "exec ལ་མཚོན་ན་ཁོར་ཡུག་ཆེ་དྲགས་འདུག"
+
+msgid "error closing file"
+msgstr ""
+
+msgid "error reading a word from %s"
+msgstr "%s ཡི་ནང་ནས་ཐ་སྙད་ཀློག་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "error waiting for %s"
+msgstr "%s སྒུག་དུས་ནོར་འཁྲུལ་ཐོན་པ།"
+
+msgid "error waiting for child process"
+msgstr "བུ་འཕེལ་རིམ་སྒུག་སྐབས་ནོར་འཁྲུལ་ཤོར་བ།"
+
+msgid "error: %s at end of format string"
+msgstr "ནོར་འཁྲུལ།  %s དེ་རྣམ་གཞག་ཡིག་རྟགས་ཕྲེང་གི་མཇུག་ཏུ་ཡོད།"
+
+msgid "error: the format directive `%%%c' is reserved for future use"
+msgstr ""
+"ནོར་འཁྲུལ། རྣམ་གཞག་བཀའ་བརྡ ‘%%%c’ ནི་འབྱུང་འགྱུར་ལ་བཞག་ནས་བེད་སྤྱོད་པ་ཡིན།"
+
+msgid "expected an expression after '%s'"
+msgstr "%s’ ཡི་རྗེས་སུ་མཚོན་ཚུལ་ཞིག་དགོས།"
+
+msgid "expected an expression between '%s' and ')'"
+msgstr "‘%s’ དང ‘)’ ཡི་བར་དུ་མཚོན་ཚུལ་ཞིག་དགོས།"
+
+msgid "failed to drop group privileges"
+msgstr "ཚོ་ཡི་ཁྱད་དབང་འདོར་ཐབས་མེད།"
+
+msgid "failed to drop setgid privileges"
+msgstr "setgid ཡི་ཁྱད་དབང་འདོར་ཐབས་མེད།"
+
+msgid "failed to drop setuid privileges"
+msgstr "setgid ཡི་ཁྱད་དབང་འདོར་ཐབས་མེད།"
+
+msgid "failed to open /dev/tty for reading"
+msgstr "ཀློག་པར་སྤྱོད་པའི /dev/tty ཁ་ཕྱེ་མི་ཐུབ།"
+
+msgid "failed to restore working directory after searching %s"
+msgstr " %s འཚོལ་ཞིབ་བྱས་རྗེས་ལས་ཀའི་དཀར་ཆག་སླར་གསོ་བྱེད་ཐབས་བྲལ།"
+
+msgid "failed to return to initial working directory"
+msgstr ""
+
+msgid "failed to return to parent directory"
+msgstr "གོང་རིམ་གྱི་དཀར་ཆག་ཏུ་ཕྱིར་ལོག་མི་ཐུབ།"
+
+msgid "failed to set environment variable %s"
+msgstr "ཁོར་ཡུག་འགྱུར་ཚད %s སྒྲིག་འགོད་མི་ཐུབ།"
+
+msgid "failed to unset environment variable %s"
+msgstr "ཁོར་ཡུག་འགྱུར་ཚད %s འདོར་མི་ཐུབ།"
+
+msgid "getfilecon failed: %s"
+msgstr "getfilecon ཕམ་པ %s"
+
+msgid "invalid -size type `%c'"
+msgstr "ནུས་མེད་ཀྱི -size རིགས་གྲས “c%”"
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s ཡི་ཞུགས་གྲངས་ %1$s ནུས་མེད།"
+
+msgid "invalid argument `%s' to `%s'"
+msgstr "“%2$s” ཡི་ནུས་མེད་ཞུགས་གྲངས “%1$s”"
+
+msgid "invalid expression"
+msgstr "ལུགས་འགལ་མཚོན་ཚུལ།"
+
+msgid ""
+"invalid expression; I was expecting to find a ')' somewhere but did not see "
+"one."
+msgstr ""
+"ལུགས་འགལ་མཚོན་ཚུལ། "
+"ངས་མ་གཞིར་གནས་ག་གེ་མོ་ཞིག་ནས‘)’，འཚོལ་ཐུབ་པའི་རེ་བ་བྱས་ཡོད། "
+"འོན་ཀྱང་རྙེད་མ་བྱུང་།"
+
+msgid "invalid expression; empty parentheses are not allowed."
+msgstr "ལུགས་འགལ་མཚོན་ཚུལ། སྒོར་རྟགས་སྟོང་པ་བཀོལ་མི་ཆོག "
+
+msgid ""
+"invalid expression; expected to find a ')' but didn't see one.  Perhaps you "
+"need an extra predicate after '%s'"
+msgstr ""
+"ལུགས་འགལ་མཚོན་ཚུལ།  ‘)’ དགོས་ཀྱང་རྙེད་མ་བྱུང་། གཅིག་བྱས་ན་ཁྱེད་རང་གིས ‘%s’ "
+"ཡི་རྗེས་སུ་དེ་ལས་ལྷག་པའི་ཁྲུན་གཅོད་སྣོན་དགོས།"
+
+msgid "invalid expression; you have too many ')'"
+msgstr "ལུགས་འགལ་མཚོན་ཚུལ། ཁྱེད་རང་གིས་ཧ་ཅང་མང་པོ་བེད་སྤྱོད་བྱས་འདུག"
+
+msgid ""
+"invalid expression; you have used a binary operator '%s' with nothing before"
+" it."
+msgstr ""
+"ལུགས་འགལ་མཚོན་ཚུལ། ཁྱེད་ཀྱིས་རྒྱུ་གཉིས་བཀོལ་སྤྱོད་རྟགས ‘%s’ "
+"ཡི་སྔོན་ལ་དངོས་པོ་ཅི་ཡང་ཁྱེར་མེད། "
+
+msgid "invalid mode %s"
+msgstr ""
+
+msgid "invalid null argument to -size"
+msgstr " -size ཡི་ཞུགས་གྲངས null ནི་ནུས་མེད་ཡིན།"
+
+msgid "invalid predicate -context: SELinux is not enabled."
+msgstr ""
+" -context ཡི་ནང་གི་ཡིག་རྐྱང་ནང་དོན་ལུགས་འགལ་ཡིན་ཏེ SELinux ཁ་ཕྱེ་མེད། "
+
+msgid "invalid predicate `%s'"
+msgstr "ནུས་མེད་ཀྱི་ཞིབ་བརྗོད `%s' "
+
+msgid "locate database %s contains a filename longer than locate can handle"
+msgstr ""
+"locate ཡི་གཞི་གྲངས་མཛོད %s ཡི་ནང locate "
+"ལས་ཐག་གཅོད་ཐུབ་པའི་ཆེས་རིང་བའི་ཡིག་ཆའི་མིང་ཞིག་ཡོད།"
+
+msgid "locate database %s is corrupt or invalid"
+msgstr "locate ཡི་གཞི་གྲངས་མཛོད %s ལ་སྐྱོན་ཤོར་བའམ་ཡང་ན་ནུས་པ་མེད་པ།"
+
+msgid ""
+"locate database %s looks like an slocate database but it seems to have "
+"security level %c, which GNU findutils does not currently support"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "missing argument to `%s'"
+msgstr "ཞུགས་གྲངས “%s” ཆད་པ།"
+
+msgid "oops -- invalid default insertion of and!"
+msgstr "ཀྭ་ཡེ། ནུས་མེད་ཀྱི་སོར་བཞག་བར་འཇུག"
+
+msgid "oops -- invalid expression type (%d)!"
+msgstr "ཀྭ་ཡེ། ནུས་མེད་ཀྱི་མཚོན་ཚུལ་རིགས་གྲས། (%d)"
+
+msgid "oops -- invalid expression type!"
+msgstr "ཀྭ་ཡེ། ནུས་མེད་ཀྱི་མཚོན་ཚུལ་རིགས་གྲས། "
+
+msgid ""
+"operators (decreasing precedence; -and is implicit where no others are given):\n"
+"      ( EXPR )   ! EXPR   -not EXPR   EXPR1 -a EXPR2   EXPR1 -and EXPR2\n"
+"      EXPR1 -o EXPR2   EXPR1 -or EXPR2   EXPR1 , EXPR2\n"
+msgstr ""
+
+msgid "option --%s may not be set to a value which includes `='"
+msgstr "འདེམས་ཚན --%s དེ `=' ཡི་གྲངས་བྲིན་ལ་སྒྲིག་འགོད་མི་བྱེད་པ།"
+
+msgid "paths must precede expression: %s"
+msgstr "བརྒྱུད་ལམ %s དེ་ངེས་པར་དུ་མཚོན་ཚུལ་གོང་དུ་གནས་དགོས།"
+
+msgid ""
+"positional options (always true): -daystart -follow -regextype\n"
+"\n"
+"normal options (always true, specified before other expressions):\n"
+"      -depth --help -maxdepth LEVELS -mindepth LEVELS -mount -noleaf\n"
+"      --version -xdev -ignore_readdir_race -noignore_readdir_race\n"
+msgstr ""
+
+msgid "sanity check of the fnmatch() library function failed."
+msgstr "མཛོད་ཀྱི་རྟེན་འབྱུང་གྲངས fnmatch() ཡི་འཐུས་ཚང་རང་བཞིན་བཤེར་འཇལ་ཕམ་པ།"
+
+msgid "single"
+msgstr "ཡ།"
+
+msgid "slocate security level %ld is unsupported."
+msgstr "slocate ཡི་བདེ་འཇགས་རིམ་པ %ld ལ་རྒྱབ་སྐྱོར་མི་བྱེད། "
+
+msgid "standard error"
+msgstr "ཚད་ལྡན་གྱི་ནོར་འཁྲུལ།"
+
+msgid "standard output"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན།"
+
+msgid ""
+"tests (N can be +N or -N or N): -amin N -anewer FILE -atime N -cmin N\n"
+"      -cnewer FILE -ctime N -empty -false -fstype TYPE -gid N -group NAME\n"
+"      -ilname PATTERN -iname PATTERN -inum N -iwholename PATTERN -iregex PATTERN\n"
+"      -links N -lname PATTERN -mmin N -mtime N -name PATTERN -newer FILE"
+msgstr ""
+
+msgid "time system call failed"
+msgstr "དུས་ཚོད་རྒྱུད་ཁོངས་འདོན་སྤྱོད་ཕམ་པ།"
+
+msgid "unable to allocate memory"
+msgstr "ནང་གསོག་བགོ་བཤའ་རྒྱག་ཐབས་མེད།"
+
+msgid "unable to record current working directory"
+msgstr ""
+
+msgid "unexpected EOF in %s"
+msgstr "%s ཡི་ནང་སྔོན་དཔག་མིན་པའི EOF ཡོད།"
+
+msgid "unexpected extra predicate"
+msgstr "སྔོན་དཔག་མིན་པའི་ནུས་མེད་ཚིག་ཐག་གཅོད་པ།"
+
+msgid "unexpected extra predicate '%s'"
+msgstr "སྔོན་དཔག་མིན་པའི་ནུས་མེད་ཚིག་ཐག་གཅོད་པ “%s”"
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "unknown predicate `%s'"
+msgstr "ངེས་མེད་ཀྱི་ཚིག་ཐག་གཅོད་པ “%s”"
+
+msgid ""
+"unmatched %s quote; by default quotes are special to xargs unless you use "
+"the -0 option"
+msgstr ""
+
+msgid "warning: -%s %s will not match anything because it ends with /."
+msgstr "ཉེན་བརྡ། -%s ལ %s དེ / ཡིས་མཇུག་བསྡུས་པས་ནང་དོན་གང་ལ་ཡང་ཟླ་སྒྲིག་མེད།"
+
+msgid ""
+"warning: Unix filenames usually don't contain slashes (though pathnames do)."
+"  That means that '%s %s' will probably evaluate to false all the time on "
+"this system.  You might find the '-wholename' test more useful, or perhaps "
+"'-samefile'.  Alternatively, if you are using GNU grep, you could use 'find "
+"... -print0 | grep -FzZ %s'."
+msgstr ""
+
+msgid "warning: database %s is more than %d %s old (actual age is %.1f %s)"
+msgstr ""
+"ཉེན་བརྡ། གཞི་གྲངས་མཛོད “%s” དེ %d %s ལས་ཀྱང་རྙིང་བ་འདུག (དོན་དངོས་དུས་ཚོད་ནི"
+" %.1f %s ཡིན)"
+
+msgid ""
+"warning: format directive `%%%c' should be followed by another character"
+msgstr ""
+"ཉེན་བརྡ། རྣམ་གཞག་གི་བཀའ་བརྡ `%%%c' ཡི་རྗེས་སུ་ཡིག་རྟགས་ཤིག་འབྲངས་དགོས།"
+
+msgid "warning: not following the symbolic link %s"
+msgstr "ཉེན་བརྡ། ཡིག་རྟགས་སྦྲེལ་མཐུད %s དཔྱད་འཚོལ་བྱེད་ཐབས་མེད།"
+
+msgid ""
+"warning: the -d option is deprecated; please use -depth instead, because the"
+" latter is a POSIX-compliant feature."
+msgstr ""
+
+msgid "warning: the locate database can only be read from stdin once."
+msgstr ""
+"ཉེན་བརྡ། གཞི་གྲངས་མཛོད loocate "
+"ཡིས་ཚད་ལྡན་གྱི་ནང་འཇུག་ནས་ཀློག་ལེན་ཐེངས་གཅིག་ཁོ་ན་བྱེད་ཐུབ་པ་ཡིན།"
+
+msgid ""
+"warning: there is no entry in the predicate evaluation cost table for "
+"predicate %s; please report this as a bug"
+msgstr ""
+
+msgid "warning: unrecognized escape `\\%c'"
+msgstr ""
+
+msgid "warning: unrecognized format directive `%%%c'"
+msgstr "ཉེན་བརྡ། ངོས་འཛིན་མི་ཐུབ་པའི་རྣམ་གཞག་གི་བཀའ་བརྡ “%%%c”"
+
+msgid "warning: value %ld for -s option is too large, using %ld instead"
+msgstr "ཉེན་བརྡ། འདེམས་ཚན -s ཡི་གྲངས་ཐང %ld ཆེ་དྲགས་པས། %ld ཡིས་ཚབ་བྱེད་དགོས།"
+
+msgid ""
+"warning: you have specified a mode pattern %s (which is equivalent to /000)."
+" The meaning of -perm /000 has now been changed to be consistent with -perm "
+"-000; that is, while it used to match no files, it now matches all files."
+msgstr ""
+
+msgid ""
+"warning: you have specified the %s option after a non-option argument %s, "
+"but options are not positional (%s affects tests specified before it as well"
+" as those specified after it).  Please specify options before other "
+"arguments.\n"
+msgstr ""
+
+msgid "write error"
+msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+
+msgid "you have too many ')'"
+msgstr "ཁྱེད་ཀྱིས ‘)’ ཧ་ཅང་མང་པོ་བེད་སྤྱོད་བྱས་འདུག"

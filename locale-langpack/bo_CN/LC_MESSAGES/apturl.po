@@ -1,0 +1,126 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Can not deal with protocol '%s' "
+msgstr "གྲོས་ཆིངས་སྒྲིག་གཅོད་བྱེད་མི་ཐུབ།“%s”"
+
+msgid "Can not install '%s' (%s) "
+msgstr "“%s”(%s) སྒྲིག་འཇུག་བྱེད་མི་ཐུབ།"
+
+msgid "Could not find package '%s'."
+msgstr "མཉེན་ཆས་ཐུམ་“%s”རྙེད་མི་ཐུབ།"
+
+msgid "Description"
+msgstr "ཞིབ་བརྗོད།"
+
+msgid "Do you want to enable the following software channel: '%s'?"
+msgstr "ཁྱེད་ཀྱིས་མཉེན་ཆས་འཕྲིན་ལམ་“%s”བཀོལ་དགོས་སམ།"
+
+msgid "Do you want to install package '%s'?"
+msgstr "ཁྱེད་ཀྱིས་མཉེན་ཆས་ཐུམ་“%s”བྱ་པ་ཡིན་ནམ།"
+
+msgid "Enable additional components"
+msgstr "ཟུར་སྣོན་སྒྲིག་ལྷུ་བཀོལ་བ།"
+
+msgid "Enable additional software channel"
+msgstr "ཟུར་སྣོན་མཉེན་ཆས་འཕྲིན་ལམ་"
+
+msgid "Enabling '%s' failed"
+msgstr "“%s”བཀོལ་བ་ཕམ་པ།"
+
+msgid "Enabling channel '%s' failed"
+msgstr "འཕྲིན་ལམ་“%s”བཀོལ་བ་ཕམ་པ།"
+
+msgid "Exception '%s'"
+msgstr "མ་གཏོགས་“%s”"
+
+msgid "Install additional software?"
+msgstr "ཟུར་སྣོན་མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད་དམ།"
+
+msgid "Invalid /etc/apt/sources.list file"
+msgstr "ནུས་མེད་ཀྱི་/etc/apt/sources.list ཡིག་ཆ།"
+
+msgid "Invalid url: '%s' given, exiting"
+msgstr "ནོར་འཁྲུལ་གྱི་དྲ་བ། “%s”ནང་འཇུག་སྟེ། ཕྱིར་འདོན།"
+
+msgid "Need a url to continue, exiting"
+msgstr "མུ་མཐུད་དུ་དྲ་གནས་ཤིག་དགོས། ཉེར་སྤྱོད་བྱ་རིམ་ཕྱིར་འདོན་པ།"
+
+msgid "No ':' in the uri"
+msgstr " URIནང་དུ་“:”མེད།"
+
+msgid "Non whitelist char in the uri"
+msgstr " URIནང་དུ་མིང་དཀར་ཡིག་རྟགས་མེད།"
+
+msgid "Package '%s' is already installed"
+msgstr "མཉེན་ཆས་ཐུམ་“%s”སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Package '%s' is virtual."
+msgstr "མཉེན་ཆས་ཐུམ་“%s”ནི་ཟོལ་ཐུམ་ཡིན།"
+
+msgid "Package '%s' requests minimal version '%s', but only '%s' is available"
+msgstr ""
+"མཉེན་ཆས་ཐུམ་“%s”ལ་དགོས་པའི་པར་གཞི་དམའ་ཤོས་ནི“%s”དང་། "
+"འོན་ཀྱང་“%s”མ་གཏོགས་སྤྱོད་རུང་མེད།"
+
+msgid "Run the command in a terminal"
+msgstr "མཐའ་སྣེར་བཀའ་བརྡ་འཁོར་སྐྱོད་བྱེད།"
+
+msgid "Software index is broken"
+msgstr "མཉེན་ཆས་གསལ་བྱང་ལ་སྐྱོན་བྱུང་།"
+
+msgid "The channel '%s' is not known"
+msgstr "འཕྲིན་ལམ་“%s”མི་ཤེས།"
+
+msgid "The command used to handle \"apt\" URLs, if enabled."
+msgstr ""
+
+msgid "The handler for \"apt\" URLs"
+msgstr ""
+
+msgid ""
+"This is a major failure of your software management system. Please check for"
+" broken packages with synaptic, check the file permissions and correctness "
+"of the file '/etc/apt/sources.list' and reload the software information "
+"with: 'sudo apt-get update' and 'sudo apt-get install -f'."
+msgstr ""
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"apt\" "
+"URLs."
+msgstr ""
+
+msgid ""
+"True if the command used to handle this type of URL should be run in a "
+"terminal."
+msgstr "Trueཚབ་པའི་URLཡི་སྒྲིག་གཅོད་བྱ་རིམ་ནི་མཐའ་སྣེ་རུ་འཁོར་སྐྱོད་བྱ་དགོས།"
+
+msgid "Unknown channel '%s'"
+msgstr "མི་ཤེས་པའི་འཕྲིན་ལམ་“%s”"
+
+msgid "Url string '%s' too long"
+msgstr "ཤག་གནས་ཡིག་རྟགས་ཕྲེང་ '%s' རིང་དྲགས།"
+
+msgid "User requested interrupt."
+msgstr "སྤྱོད་མཁན་བར་ཆད།"
+
+msgid "Whether the specified command should handle \"apt\" URLs"
+msgstr ""
+
+msgid "Whitespace in key=value"
+msgstr "key=value ནང་གི་སྟོང་ཆ།"
+
+msgid "_Install"
+msgstr "སྒྲིག་འཇུག་(_I)"

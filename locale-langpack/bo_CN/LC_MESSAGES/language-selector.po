@@ -1,0 +1,244 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%(INSTALL)d to install"
+msgid_plural "%(INSTALL)d to install"
+msgstr[0] " %(INSTALL)d སྒྲིག་འཇུག་བྱ་རྒྱུ།"
+msgstr[1] " %(INSTALL)d སྒྲིག་འཇུག་བྱ་རྒྱུ།"
+
+msgid "%(REMOVE)d to remove"
+msgid_plural "%(REMOVE)d to remove"
+msgstr[0] " %(REMOVE)d སྤོ་འཐེན་བྱ་རྒྱུ།"
+msgstr[1] " %(REMOVE)d སྤོ་འཐེན་བྱ་རྒྱུ།"
+
+msgid "%s, %s"
+msgstr "%s，%s"
+
+msgid "<b>Example</b>"
+msgstr "<b>མིག་དཔེ།</b>"
+
+msgid ""
+"<big><b>Checking available language support</b></big>\n"
+"\n"
+"The availability of translations or writing aids can differ between languages."
+msgstr ""
+
+msgid ""
+"<small><b>Drag languages to arrange them in order of preference.</b>\n"
+"Changes take effect next time you log in.</small>"
+msgstr ""
+
+msgid "<small>Changes take effect next time you log in.</small>"
+msgstr ""
+"smallབཟོ་བཅོས་བྱས་ན་ཁྱེད་རང་ཐེངས་རྗེས་མར་ཐོ་འགོད་བྱེད་སྐབས་ནུས་པ་ཐོན་གྱི་རེད།"
+" (small）ལས་དམའ།"
+
+msgid ""
+"<small>Use the same format choice for startup and the login screen.</small>"
+msgstr ""
+"smallསྒོ་ཕྱེ་པ་དང་ཐོ་འགོད་མཐུད་མཚམས་ཀྱི་རྣམ་པ་གཅིག་འདྲ་རེད། (small）ལས་དམའ།"
+
+msgid ""
+"<small>Use the same language choices for startup and the login "
+"screen.</small>"
+msgstr ""
+"smallའགོ་རྩོམ་པའམ་ཐོ་འགོད་མཐུད་མཚམས་སུ་སྐད་རིགས་གཅིག་འདྲ་སྤྱོད་པ། "
+"(small）ལས་དམའ།"
+
+msgid "Apply System-Wide"
+msgstr "རྒྱུད་ཁོངས་ཧྲིལ་བོར་བཀོལ་སྤྱོད།"
+
+msgid "Chinese (simplified)"
+msgstr "རྒྱ་ཡིག(ཟོར་ཡང་གཟུགས།)"
+
+msgid "Chinese (traditional)"
+msgstr "རྒྱ་ཡིག(ཟོར་ཡང་མ་ཡིན་པ།)"
+
+msgid "Configure multiple and native language support on your system"
+msgstr ""
+
+msgid "Could not install the full language support"
+msgstr "ཆ་ཚང་བའི་སྐད་བརྡའི་རྒྱབ་སྐྱོར་སྒྲིག་འཇུག་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not install the selected language support"
+msgstr "བདམས་ཟིན་པའི་སྐད་བརྡའི་རྒྱབ་སྐྱོར་སྒྲིག་འཇུག་བྱེད་ཐབས་བྲལ།"
+
+msgid "Currency:"
+msgstr "དངུལ་ལོར།"
+
+msgid "Date:"
+msgstr ""
+
+msgid "Details"
+msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+
+msgid "Display numbers, dates and currency amounts in the usual format for:"
+msgstr "གྲངས་ཀ་མངོན་པར།ཚེས་གྲངས་དང་དངུལ་ལོར་གྲངས་འབོར་གྱི་རྣམ་བཞག"
+
+msgid ""
+"Failed to apply the '%s' format\n"
+"choice. The examples may show up if you\n"
+"close and re-open Language Support."
+msgstr ""
+
+msgid "Failed to authorize to install packages."
+msgstr "སྒྲིག་འཇུག་ཐུམ་ར་སྤྲོད་ཕམ་པ།"
+
+msgid ""
+"If you need to type in languages, which require more complex input methods than just a simple key to letter mapping, you may want to enable this function.\n"
+"For example, you will need this function for typing Chinese, Japanese, Korean or Vietnamese.\n"
+"The recommended value for Ubuntu is \"IBus\".\n"
+"If you want to use alternative input method systems, install the corresponding packages first and then choose the desired system here."
+msgstr ""
+
+msgid "Incomplete Language Support"
+msgstr "ཆ་ཚང་མིན་པའི་སྐད་བརྡའི་རྒྱབ་སྐྱོར།"
+
+msgid "Install / Remove Languages..."
+msgstr "སྐད་བརྡ་ཁ་སྣོན་ནམ་འཕྲི་དོར།"
+
+msgid "Installed"
+msgstr "སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid "Installed Languages"
+msgstr "སྒྲིག་འཇུག་བྱས་ཟིན་པའི་སྐད་བརྡ།"
+
+msgid ""
+"It is impossible to install or remove any software. Please use the package "
+"manager \"Synaptic\" or run \"sudo apt-get install -f\" in a terminal to fix"
+" this issue at first."
+msgstr ""
+
+msgid "Keyboard input method system:"
+msgstr "མཐེབ་གཞོང་འཇུག་ཐབས་རྒྱུད་ཁོངས།"
+
+msgid "Language"
+msgstr "སྐད་བརྡ།"
+
+msgid "Language Support"
+msgstr "སྐད་བརྡའི་རྒྱབ་སྐྱོར།"
+
+msgid "Language for menus and windows:"
+msgstr "འདེམས་བྱང་དང་སྒེའུ་ཁུང་གི་སྐད་བརྡ།"
+
+msgid "No language information available"
+msgstr "སྤྱོད་གོ་ཆོད་པའི་སྐད་བརྡའི་ཆ་འཕྲིན།"
+
+msgid "Number:"
+msgstr "སྒྲིག་ཨང་།："
+
+msgid "Regional Formats"
+msgstr "ས་ཁུལ་གྱི་རྣམ་གཞག"
+
+msgid "Session Restart Required"
+msgstr "གླེང་མོལ་བསྐྱར་སློང་བྱ་དགོས།"
+
+msgid "Set system default language"
+msgstr "རྒྱུད་ཁོངས་སོར་བཞག་སྐད་བརྡ་སྒྲིག་འགོད།"
+
+msgid "Software database is broken"
+msgstr "མཉེན་ཆས་གཞི་གྲངས་མཛོད་ལ་སྐྱོན་ཤོར་བ།"
+
+msgid ""
+"Some translations or writing aids available for your chosen languages are "
+"not installed yet. Do you want to install them now?"
+msgstr ""
+"ཁྱེད་ཀྱིས་བདམས་པའི་སྐད་བརྡ་དེའི་ལོ་ཙཱ་དང་རྩོམ་འབྲི་རོགས་རམ་ཁག་ཅིག་ད་རུང་སྒྲིག་འཇུག་བྱས་མེད།"
+" ཁྱེད་ཀྱིས་ད་ལྟ་སྒྲིག་འཇུག་བྱེད་འདོད་དམ།"
+
+msgid "System policy prevented setting default language"
+msgstr "རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་སོར་བཞག་སྐད་བརྡ་སྒྲིག་འགོད་བཀག་པ།"
+
+msgid ""
+"The language support files for your selected language seem to be incomplete."
+" You can install the missing components by clicking on \"Run this action "
+"now\" and follow the instructions. An active internet connection is "
+"required. If you would like to do this at a later time, please use Language "
+"Support instead (click the icon at the very right of the top bar and select "
+"\"System Settings... -> Language Support\")."
+msgstr ""
+
+msgid "The language support is not installed completely"
+msgstr "སྐད་བརྡའི་རྒྱབ་སྐྱོར་སྒྲིག་འཇུག་ཆ་ཚང་མེད།"
+
+msgid "The new language settings will take effect once you have logged out."
+msgstr ""
+"ཁྱེད་རང་གི་རྩིས་ཐོ་ནས་བསུབ་རྗེས་སྐད་བརྡ་གསར་པའི་སྒྲིག་སྒྲིག་འགོད་གཞི་ནས་ནུས་པ་ཐོན་གྱི་རེད།"
+
+msgid ""
+"The system does not have information about the available languages yet. Do "
+"you want to perform a network update to get them now? "
+msgstr ""
+
+msgid ""
+"This is perhaps a bug of this application. Please file a bug report at "
+"https://bugs.launchpad.net/ubuntu/+source/language-selector/+filebug"
+msgstr ""
+
+msgid ""
+"This setting only affects the language your desktop and applications are displayed in. It does not set the system environment, like currency or date format settings. For that, use the settings in the Regional Formats tab.\n"
+"The order of the values displayed here decides which translations to use for your desktop. If translations for the first language are not available, the next one in this list will be tried. The last entry of this list is always \"English\".\n"
+"Every entry below \"English\" will be ignored."
+msgstr ""
+
+msgid ""
+"This will set the system environment like shown below and will also affect the preferred paper format and other region specific settings.\n"
+"If you want to display the desktop in a different language than this, please select it in the \"Language\" tab.\n"
+"Hence you should set this to a sensible value for the region in which you are located."
+msgstr ""
+
+msgid ""
+"Usually this is related to an error in your software archive or software "
+"manager. Check your preferences in Software Sources (click the icon at the "
+"very right of the top bar and select \"System Settings... -> Software "
+"Sources\")."
+msgstr ""
+
+msgid ""
+"When a language is installed, individual users can choose it in their "
+"Language settings."
+msgstr ""
+"སྐད་བརྡ་ག་གེ་མོ་ཞིག་སྒྲིག་འཇུག་བྱས་རྗེས།སྤྱོད་མཁན་གྱིས་ཁོ་ཚོའི་སྐད་བརྡའི་སྒྲིག་འགོད་ཁྲོད་ནས་གདམ་གསེས་བྱས་ཆོག"
+
+msgid "_Install"
+msgstr "སྒྲིག་འཇུག་(_I)"
+
+msgid "_Remind Me Later"
+msgstr "ཅུང་ཙམ་འགོར་རྗེས་དྲན་སྐུལ།(_R)"
+
+msgid "_Update"
+msgstr "གསར་སྒྱུར།(_U)"
+
+msgid "alternative datadir"
+msgstr "འདེམས་རུང་བའི་གཞི་གྲངས་ཡིག་ཁུག"
+
+msgid "check for the given package(s) only -- separate packagenames by comma"
+msgstr ""
+"སྤྲད་པའི་མཉེན་ཆས་ཐུམ་ཁོ་ན་ཞིབ་བཤེར་བྱེད་པ།--དབྱིན་ཡིག་གི་མཚམས་རྟགས་ཀྱིས་ཐུམ་མིང་གི་བར་འབྱེད་པ།"
+
+msgid "don't verify installed language support"
+msgstr "སྒྲིག་འཇུག་བྱས་ཟིན་པའི་སྐད་བརྡའི་རྒྱབ་སྐྱོར་ར་སྤྲོད་མི་བྱེད།"
+
+msgid "none"
+msgstr "མེད།"
+
+msgid "output all available language support packages for all languages"
+msgstr "སྐད་བརྡ་ཡོངས་ཀྱི་ཕྱིར་འདོན་ལ་སྤྱོད་རུང་བའི་སྐད་བརྡའི་རྒྱབ་སྐྱོར་ཐུམ།"
+
+msgid "show installed packages as well as missing ones"
+msgstr "དུས་མཉམ་དུ་སྒྲིག་འཇུག་བྱས་ཟིན་པ་དང་ཆད་པའི་མཉེན་ཆས་ཐུམ་མངོན།"
+
+msgid "target language code"
+msgstr "དམིགས་བྱའི་སྐད་བརྡའི་ཚབ་རྟགས།"

@@ -1,0 +1,515 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " or "
+msgstr " ཡང་ན། "
+
+msgid "%s's remote desktop on %s"
+msgstr "%s ནི་ %s ཡི་རྒྱང་རིང་ཅོག་ངོས་སུ་ཡོད།"
+
+msgid "'%s' disconnected"
+msgstr "“%s”འབྲེལ་མཐུད་མཚམས་བཅད་ཟིན།"
+
+msgid "'%s' is remotely controlling your desktop."
+msgstr "“%s”རྒྱང་ནས་ཁྱེད་ཀྱི་ཅོག་ངོས་ཚོད་འཛིན་བྱེད་བཞིན་པ།"
+
+msgid "'%s' rejected the desktop sharing invitation."
+msgstr "“%s”ཅོག་ངོས་མཉམ་སྤྱོད་གདན་ཞུ་དང་ལེན་མ་བྱས་པ།"
+
+msgid "- Updates Vino password"
+msgstr "- Vino གསང་ཨང་གསར་བསྒྱུར།"
+
+msgid "- VNC Server for GNOME"
+msgstr "- GNOME ཡི་ VNC ཞབས་ཞུ་ཆས།"
+
+msgid "A user on the computer '%s' is remotely controlling your desktop."
+msgstr ""
+"རྩིས་འཁོར་“%s”སྟེང་གནས་པའི་སྤྱོད་མཁན་གྱིས་ཁྱེད་རང་གི་ཅོག་ངོས་ལ་རྒྱང་ནས་ཚོད་འཛིན་བྱེད་བཞིན་པ།"
+
+msgid "A user on the computer '%s' is remotely viewing your desktop."
+msgstr ""
+"རྩིས་འཁོར་“%s”སྟེང་གནས་པའི་སྤྱོད་མཁན་གྱིས་ཁྱེད་རང་གི་ཅོག་ངོས་ལ་རྒྱང་ནས་ལྟ་སྤྱོད་བྱེད་བཞིན་པ།"
+
+msgid ""
+"A user on the computer '%s' is trying to remotely view or control your "
+"desktop."
+msgstr ""
+"རྩིས་འཁོར་“%s”སྟེང་གི་སྤྱོད་མཁན་ཞིག་གིས་ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་རྒྱང་ནས་ལྟ་སྤྱོད་དམ་ཚོད་འཛིན་བྱེད་པར་ཚོད་ལྟ་བྱེད་བཞིན་པ།"
+
+msgid "Al_ways"
+msgstr "རྟག་པར་(_W)"
+
+msgid "All remote users will be disconnected. Are you sure?"
+msgstr ""
+"རྒྱང་རིང་གི་སྤྱོད་མཁན་ཡོངས་ཀྱི་བྲེལ་མཐུད་མཚམས་གཅོད་པར་འགྱུར། "
+"ཁྱེད་ཀྱིས་གཏན་ཁེལ་ལམ།"
+
+msgid "Allow other users to _view your desktop"
+msgstr "མི་གཞན་གྱིས་ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ལྟ་ཆོག་པ།(_V)"
+
+msgid "Allowed authentication methods"
+msgstr "རུང་བའི་ར་སྤྲོད་ཐབས་ལམ།"
+
+msgid "Alternative port number"
+msgstr "སྣེ་ཁའི་ཨང་ཚབ་བྱེད།"
+
+msgid "An error has occurred:"
+msgstr "ནོར་འཁྲུལ་ཞིག་བྱུང་བ།："
+
+msgid "Another user is controlling your desktop"
+msgstr "གཞན་གྱིས་ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ཚོད་འཛིན་བྱེད་བཞིན་པ།"
+
+msgid "Another user is viewing your desktop"
+msgstr "མི་གཞན་དག་གིས་ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ལྲ་བཞིན་འདུག"
+
+msgid "Application does not accept documents on command line"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས་མི་ལེན།"
+
+msgid "Are you sure you want to disconnect '%s'?"
+msgstr "ཁྱེད་ཀྱིས་“%s”ཡི་འབྲེལ་མཐུད་མཚམས་གཅོད་པ་གཏན་འཁེལ་ལམ།"
+
+msgid "Are you sure you want to disconnect all clients?"
+msgstr "ཁྱེད་ཀྱིས་སྤྱོད་མཁན་ཡོངས་ཀྱི་འབྲེལ་མཐུད་མཚམས་གཅོད་པ་གཏན་འཁེལ་ལམ།"
+
+msgid "Automatically _configure UPnP router to open and forward ports"
+msgstr ""
+" UPnP ལམ་འཚོལ་ཆས་སྒོ་འབྱེད་དང་བརྒྱུད་བསྐུར་སྣེ་ཁ་རང་འགུལ་སྡེབ་སྒྲིག(_C)"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "ཡིག་ཚགས་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
+
+msgid "Cancelled"
+msgstr "ལེན་པ།"
+
+msgid "Changing Vino password.\n"
+msgstr ""
+
+msgid "Checking the connectivity of this machine..."
+msgstr "རྩིས་འཁོར་འདིའི་དྲ་སྦྲེལ་རྣམ་པ་་ཞིབ་བཤེར་བྱེད་བཞིན་པ།..."
+
+msgid "Choose how other users can remotely view your desktop"
+msgstr ""
+
+msgid "Desktop Sharing"
+msgstr "ཅོག་ངོས་མཉམ་སྤྱོད།"
+
+msgid "Desktop Sharing Preferences"
+msgstr "ཅོག་ངོས་མཉམ་སྤྱོད་སྔོན་འདེམས་ཚན་པ།"
+
+msgid "Desktop sharing is enabled"
+msgstr "ཅོག་ངོས་མཉམ་སྤྱོད་འགོ་བསླངས་ཟིན།"
+
+msgid "Disable connection to session manager"
+msgstr "གྲོས་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་བཀག"
+
+msgid "Disconnect"
+msgstr "འབྲེལ་མཐུད་མཚམས་གཅོད་པ།"
+
+msgid "Disconnect %s"
+msgstr "འབྲེལ་མཐུད་མཚམས་གཅོད་པ་ %s"
+
+msgid "Disconnect all"
+msgstr "འབྲེལ་མཐུད་ཡོངས་ཀྱི་མཚམས་གཅོད་པ།"
+
+msgid "E-mail address to which the remote desktop URL should be sent"
+msgstr ""
+"རྒྱང་རིང་ཅོག་ངོས་ URL ཤག་གནས་ཀྱི་གློག་རྡུལ་ཡིག་སྒམ་ཤག་གནས་སྐྱེལ་གཏོང་།"
+
+msgid ""
+"ERROR: Maximum length of password is %d character. Please, re-enter the "
+"password."
+msgid_plural ""
+"ERROR: Maximum length of password is %d characters. Please, re-enter the "
+"password."
+msgstr[0] ""
+"ནོར་འཁྲུལ།： གསང་ཨང་ཆེས་རིང་ན་ཡིག་རྟགས་ %d ཡིན། ཡང་བསྐྱར་གསང་ཨང་ནང་འཇུག་བྱོས།"
+msgstr[1] ""
+"ནོར་འཁྲུལ།： གསང་ཨང་ཆེས་རིང་ན་ཡིག་རྟགས་ %d ཡིན། ཡང་བསྐྱར་གསང་ཨང་ནང་འཇུག་བྱོས།"
+
+msgid "ERROR: You do not have enough permissions to change Vino password.\n"
+msgstr ""
+
+msgid "Enable remote access to the desktop"
+msgstr "རྒྱང་རིང་ནས་ཅོག་ངོས་ལ་ལྟ་སྤྱོད་རུང་བ།"
+
+msgid "Enter new Vino password: "
+msgstr "Vino གསང་ཨང་གསར་པ་ནང་འཇུག་བྱོས།："
+
+msgid "Error displaying help"
+msgstr "རོགས་རམ་བྱེད་སྐབས་ཀྱི་ནོར་འཁྲུལ་འཆར་བ།"
+
+msgid "Error displaying preferences"
+msgstr "སྔོན་འདེམས་ཚན་པ་འཆར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Error initializing libnotify\n"
+msgstr ""
+
+msgid "Error while displaying notification bubble: %s\n"
+msgstr ""
+
+msgid "FILE"
+msgstr "ཡིག་ཆ།"
+
+msgid "Failed to open connection to bus: %s\n"
+msgstr ""
+
+msgid "File is not a valid .desktop file"
+msgstr "ཡིག་ཆ་ནི .desktop ནུས་ལྡན་ཡིག་ཆ་མིན།"
+
+msgid "GNOME Desktop Sharing"
+msgstr "GNOME ཅོག་ངོས་མཉམ་སྤྱོད།"
+
+msgid "GNOME Desktop Sharing Server"
+msgstr "GNOME ཅོག་ངོས་མཉམ་སྤྱོད་ཞབས་ཞུ་ཆས།"
+
+msgid "ID"
+msgstr "ID"
+
+msgid ""
+"If not set, the server will listen on all network interfaces.\n"
+"\n"
+"Set this if you want to accept connections only from some specific network interface. For example, eth0, wifi0, lo and so on."
+msgstr ""
+
+msgid ""
+"If true, allows remote access to the desktop via the RFB protocol. Users on "
+"remote machines may then connect to the desktop using a VNC viewer."
+msgstr ""
+
+msgid ""
+"If true, do not use the XDamage extension of X.org. This extension does not "
+"work properly on some video drivers when using 3D effects. Disabling it will"
+" make Vino work in these environments, with slower rendering as a side "
+"effect."
+msgstr ""
+
+msgid ""
+"If true, remote users accessing the desktop are not allowed access until the"
+" user on the host machine approves the connection. Recommended especially "
+"when access is not password protected."
+msgstr ""
+
+msgid ""
+"If true, remote users accessing the desktop are only allowed to view the "
+"desktop. Remote users will not be able to use the mouse or keyboard."
+msgstr ""
+
+msgid ""
+"If true, remote users accessing the desktop are required to support "
+"encryption. It is highly recommended that you use a client which supports "
+"encryption unless the intervening network is trusted."
+msgstr ""
+
+msgid ""
+"If true, request that a UPnP-capable router should forward and open the port"
+" used by Vino."
+msgstr ""
+"གལ་ཏེ་ trueཡིན་ན། UPnP-capable ལམ་འཚོལ་ཆས་ལ་ "
+"Vinoབརྒྱུད་བསྐུར་རམ་བེད་སྤྱད་ནས་སྣེ་ཁ་ཁ་ཕྱེ་བའི་རེ་བ་འདོན།"
+
+msgid "If true, show a notification when a user connects to the system."
+msgstr ""
+"གལ་ཏེ་ trueཡིན་ན། "
+"སྤྱོད་མཁན་གྱིས་རྒྱུད་ཁོངས་དང་འབྲེལ་མཐུད་བྱེད་པའི་ཚེ་བརྡ་ཐོའི་ཆ་འཕྲིན་འཆར་བ།"
+
+msgid ""
+"If true, the screen will be locked after the last remote client disconnects."
+msgstr ""
+"གལ་ཏེ་ trueཡིན་ན། "
+"བརྙན་ཡོལ་ཆེས་མཇུག་མཐའི་རྒྱང་རིང་མཁོ་མཁན་གྱི་འབྲེལ་མཐུད་བཅད་རྗེས་དམིགས་འཛིན་བྱ་སྲིད།"
+
+msgid ""
+"If true, the server will listen on another port, instead of the default "
+"(5900). The port must be specified in the 'alternative-port' key."
+msgstr ""
+
+msgid ""
+"Licensed under the GNU General Public License Version 2\n"
+"\n"
+"Vino is free software; you can redistribute it and/or\n"
+"modify it under the terms of the GNU General Public License\n"
+"as published by the Free Software Foundation; either version 2\n"
+"of the License, or (at your option) any later version.\n"
+"\n"
+"Vino is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program; if not, write to the Free Software\n"
+"Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA\n"
+"02110-1301, USA.\n"
+msgstr ""
+
+msgid "Listen on an alternative port"
+msgstr "ཕག་ཉན་ཚབ་བྱེད་སྣེ་ཁ།"
+
+msgid ""
+"Lists the authentication methods with which remote users may access the desktop.\n"
+"\n"
+"There are two possible authentication methods; \"vnc\" causes the remote user to be prompted for a password (the password is specified by the vnc-password key) before connecting and \"none\" which allows any remote user to connect."
+msgstr ""
+
+msgid "Lock the screen when last user disconnect"
+msgstr ""
+"སྤྱོད་མཁན་ཆེས་རྗེས་མས་འབྲེལ་མཐུད་མཚམས་གཅོད་སྐབས་བརྙན་ཡོལ་དམིགས་འཛིན་བྱེད་པ།"
+
+msgid "Network interface for listening"
+msgstr "ཕག་ཉན་ལ་སྤྱད་བྱའི་དྲ་རྒྱའི་མཐུད་ཁ།"
+
+msgid "Nobody can access your desktop."
+msgstr "ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ལྟ་སྤྱོད་བྱེད་ཐུབ་པའི་མི་མེད།"
+
+msgid "Not a launchable item"
+msgstr "བཀོལ་སྤྱོད་རུང་བའི་ཚན་པ་མིན།"
+
+msgid "Notify on connect"
+msgstr "འབྲེལ་མཐུད་སྐབས་སྣེ་སྟོན།"
+
+msgid "One person is connected"
+msgid_plural "%d people are connected"
+msgstr[0] "སྤྱོད་མཁན་%d ཡིས་འབྲེལ་མཐུད་བྱས་ཟིན།"
+msgstr[1] "སྤྱོད་མཁན་%d ཡིས་འབྲེལ་མཐུད་བྱས་ཟིན།"
+
+msgid "One person is viewing your desktop"
+msgid_plural "%d people are viewing your desktop"
+msgstr[0] "མི་%d ཡིས་ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ལྟ་བཞིན་པ།"
+msgstr[1] "མི་%d ཡིས་ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ལྟ་བཞིན་པ།"
+
+msgid "Only allow remote users to view the desktop"
+msgstr "རྒྱང་རིང་སྤྱོད་མཁན་ཁོ་ནས་ཅོག་ངོས་ལ་ལྟ་ཆོག་པ།"
+
+msgid "Others can access your computer using the address %s."
+msgstr ""
+"མི་གཞན་གྱིས་ཤག་གནས %sའདི་སྤྱད་ནས་ཁྱེད་ཀྱི་རྩིས་འཁོར་ལ་ལྟ་སྤྱོད་བྱ་རུང་བ།"
+
+msgid "Password required for \"vnc\" authentication"
+msgstr ""
+
+msgid "Prompt the user before completing a connection"
+msgstr "འབྲེལ་མཐུད་ལེགས་གྲུབ་སྔོན་སྤྱོད་མཁན་ལ་སྣེ་སྟོན་བྱེད་པ།"
+
+msgid "Received signal %d, exiting."
+msgstr "བརྡ་རྟགས་ %dའབྱོར་བ། ཕྱིར་འབུད་བཞིན་པ།"
+
+msgid "Remote desktop sharing password"
+msgstr "རྒྱང་རིང་ཅོག་ངོས་མཉམ་སྤྱོད་གསང་ཨང་།："
+
+msgid "Remote users are able to control your mouse and keyboard"
+msgstr ""
+"རྒྱང་རིང་སྤྱོད་མཁན་གྱིས་ཁྱེད་ཀྱི་ཙིག་རྟགས་དང་མཐེབ་གཞོང་ཚོད་འཛིན་ཐུབ་པ།"
+
+msgid "Require encryption"
+msgstr "གསང་སྡོམ་བྱེད་དགོས།"
+
+msgid "Retype new Vino password: "
+msgstr " Vino གསང་ཨང་གསར་པ་ཡང་བསྐྱར་ཐེངས་གཅིག་ནང་འཇུག་བྱེད་རོགས།："
+
+msgid ""
+"Run 'vino-passwd --help' to see a full list of available command line "
+"options"
+msgstr ""
+" “vino-passwd "
+"--help”འཁོར་སྐྱོད་བྱས་ནས་སྤྱོད་རུང་བཀའ་བརྡ་ཕྲེང་གི་འདེམས་ཚན་གྱི་རེའུ་མིག་ཧྲིལ་པོར་ལྟ་བ།"
+
+msgid ""
+"Run 'vino-server --help' to see a full list of available command line "
+"options"
+msgstr ""
+" “vino-passwd "
+"--help”འཁོར་སྐྱོད་བྱས་ནས་སྤྱོད་རུང་བཀའ་བརྡ་ཕྲེང་གི་འདེམས་ཚན་གྱི་རེའུ་མིག་ཧྲིལ་པོར་ལྟ་བ།"
+
+msgid "Screen"
+msgstr "བརྙན་ཡོལ།"
+
+msgid "Security"
+msgstr "བདེ་འཇགས།"
+
+msgid "Session management options:"
+msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན།"
+
+msgid "Share my desktop information"
+msgstr "བདག་གི་ཅོག་ངོས་ཆ་འཕྲིན་མཉམ་སྤྱོད།"
+
+msgid "Share your desktop with other users"
+msgstr "ཁྱེད་ཀྱི་ཅོག་ངོས་མི་གཞན་དག་དང་མཉམ་སྤྱོད་བྱེད་པ།"
+
+msgid "Sharing"
+msgstr "མཉམ་སྤྱོད།"
+
+msgid "Show Notification Area Icon"
+msgstr "བརྡ་ཐོ་ཁུལ་གྱི་རིས་རྟགས་འཆར་བ།"
+
+msgid "Show Vino version"
+msgstr " Vino པར་གཞི་འཆར་བ།"
+
+msgid "Show session management options"
+msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན་མངོན་པ།"
+
+msgid "Some of these preferences are locked down"
+msgstr "སྔོན་འདེམས་ཚན་པ་ཁ་ཅིག་དམིགས་འཛིན་བྱས་ཟིན།"
+
+msgid "Sorry, passwords do not match.\n"
+msgstr ""
+
+msgid "Specify file containing saved configuration"
+msgstr "ཉར་བའི་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་ཚུད་པ་གཏན་འཁེལ།"
+
+msgid "Specify session management ID"
+msgstr "གྲོས་གླེང་དོ་དམ Idགཏན་འཁེལ།"
+
+msgid "Start in tube mode, for the ‘Share my Desktop’ feature"
+msgstr ""
+"“བདག་གི་ཅོག་ངོས་མཉམ་སྤྱོད་”བྱེད་ནུས་སྤྱོད་སྐབས་Tube "
+"རྣམ་པའི་ཁྲོད་འགོ་སློང་དགོས།"
+
+msgid "Starting %s"
+msgstr " %sམགོ་སློང་པ།"
+
+msgid ""
+"The password which the remote user will be prompted for if the \"vnc\" authentication method is used. The password specified by the key is base64 encoded.\n"
+"\n"
+"The special value of 'keyring' (which is not valid base64) means that the password is stored in the GNOME keyring."
+msgstr ""
+
+msgid ""
+"The port which the server will listen to if the 'use-alternative-port' key "
+"is set to true. Valid values are in the range of 5000 to 50000."
+msgstr ""
+
+msgid "The remote user '%s' will be disconnected. Are you sure?"
+msgstr ""
+"རྒྱང་རིང་སྤྱོད་མཁན་“%s”ཡི་འབྲེལ་མཐུད་གཅོད་པར་འགྱུར། ཁྱེད་ཀྱིས་གཏན་ཁེལ་ལམ།"
+
+msgid "The remote user from '%s' will be disconnected. Are you sure?"
+msgstr ""
+"“%s”ནས་འོང་པའི་རྒྱང་རིང་སྤྱོད་མཁན་གྱི་འབྲེལ་མཐུད་གཅོད་པར་འགྱུར། "
+"ཁྱེད་ཀྱིས་གཏན་ཁེལ་ལམ།"
+
+msgid "The router must have the UPnP feature enabled"
+msgstr "ལམ་འཚོལ་ཆས་ཀྱིས་ངེས་པར་དུ་UPnPབྱེད་ནུས་སྤྱོད་འགོ་རྩོམ་དགོས།"
+
+msgid "The screen on which to display the prompt"
+msgstr "སྣེ་སྟོན་ཆ་འཕྲིན་གྱི་བརྙན་ཡོལ་འཆར་བ།"
+
+msgid ""
+"There was an error displaying help:\n"
+"%s"
+msgstr ""
+
+msgid "There was an error showing the URL \"%s\""
+msgstr ""
+
+msgid ""
+"This key controls the behavior of the status icon. There are three options: "
+"\"always\" - the icon will always be present; \"client\" - the icon will "
+"only be present when someone is connected (this is the default behavior); "
+"\"never\" - the icon will not be present."
+msgstr ""
+
+msgid ""
+"This key specifies the e-mail address to which the remote desktop URL should"
+" be sent if the user clicks on the URL in the Desktop Sharing preferences "
+"dialog."
+msgstr ""
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "ཅོག་ངོས་ཡིག་ཆ་པར་གཞི་“%s”ངོས་འཛིན་མི་ཐུབ།"
+
+msgid "Unrecognized launch option: %d"
+msgstr "མགོ་སློང་འདེམས་ཚན་%dངོས་འཛིན་མི་ཐུབ།"
+
+msgid "VINO Version %s\n"
+msgstr ""
+
+msgid "Waiting for '%s' to connect to the screen."
+msgstr "“%s”བརྙན་ཡོལ་ལ་མཐུད་པར་ངང་སྒུགས།"
+
+msgid "When the status icon should be shown"
+msgstr "རྣམ་པའི་རིས་རྟགས་ག་དུས་འཆར་བ།"
+
+msgid ""
+"When true, disable the desktop background and replace it with a single block"
+" of color when a user successfully connects."
+msgstr ""
+"གལ་ཏེ་ trueཡིན་ན། "
+"སྤྱོད་མཁན་གྱི་འབྲེལ་མཐུད་ལེགས་གྲུབ་བྱུང་ཚེ་རང་འགུལ་ངང་ཅོག་ངོས་རྒྱབ་ལྗོངས་མདོག་རྐྱང་བར་བརྗེ་སྲིད།"
+
+msgid "Whether a UPnP router should be used to forward and open ports"
+msgstr " UPnP ལམ་འཚོལ་ཆས་སྤྱད་ནས་སྣེ་ཁ་བརྒྱུད་བསྐུར་དང་སྒོ་འབྱེད་བྱེད་མིན།"
+
+msgid "Whether to disable the desktop background when a user is connected"
+msgstr "སྤྱོད་མཁན་འབྲེལ་མཐུད་བྱས་ཚེ།ཅོག་ངོས་རྒྱབ་ལྗོངས་འགོག་སྤྱོད་བྱེད་མིན།"
+
+msgid "Whether we should disable the XDamage extension of X.org"
+msgstr "ང་ཚོས་ X.org ཡི་ XDamage རྒྱ་སྐྱེད་འགོག་སྤྱོད་བྱེད་འོས་མིན།"
+
+msgid ""
+"Your XServer does not support the XTest extension - remote desktop access "
+"will be view-only\n"
+msgstr ""
+
+msgid "Your desktop is only reachable over the local network."
+msgstr ""
+"ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་རང་སའི་དྲ་རྒྱའི་ཁྲོད་ཁོ་ན་ལས་ལྟ་སྤྱོད་བྱེད་མི་རུང་།"
+
+msgid "Your desktop will be shared"
+msgstr "ཁྱེད་ཀྱི་ཅོག་ངོས་མཉམ་སྤྱོད་བྱེད་པར་འགྱུར།"
+
+msgid "_About"
+msgstr "ཐད།(_A)"
+
+msgid "_Allow"
+msgstr "རུང་བ།(_A)"
+
+msgid "_Allow other users to control your desktop"
+msgstr "སྤྱོད་མཁན་གཞན་པས་ཁྱེད་ཀྱི་ཅོག་ངོས་ལ་ཚོད་འཛིན་རུང་བ།(_A)"
+
+msgid "_Help"
+msgstr "རོགས་རམ།(_H)"
+
+msgid "_Never"
+msgstr "གཏན་ཏུ་མིན།(_N)"
+
+msgid "_Only when someone is connected"
+msgstr "མི་གཞན་གྱིས་འབྲེལ་མཐུད་བྱས་ཚེ་ཁོ་ནར་(_O)"
+
+msgid "_Preferences"
+msgstr "སྒྲིག་འགོད།(_P)"
+
+msgid "_Refuse"
+msgstr "ཟློག་པ།(_R)"
+
+msgid "_Require the user to enter this password:"
+msgstr "རྒྱང་རིང་སྤྱོད་མཁན་ལ་གསང་ཨང་འདི་ནང་འཇུག་བྱེད་པའི་རེ་བ་འདོན་པ།(_R)："
+
+msgid "_You must confirm each access to this machine"
+msgstr "ངེས་པར་དུ་འཕྲུལ་ཆས་འདིར་ལྟ་སྤྱོད་བྱེད་ཐེངས་རེར་གཏན་འཁེལ་བྱ་དགོས།（_Y）"
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "vino-mdns:showusername"
+msgstr "0"
+
+msgid "vino-passwd: password unchanged.\n"
+msgstr ""
+
+msgid "vino-passwd: password updated successfully.\n"
+msgstr ""
+
+msgid "vnc;share;remote;"
+msgstr "vnc;share;remote;ཅོག་ངོས་མཉམ་སྤྱོད།;"

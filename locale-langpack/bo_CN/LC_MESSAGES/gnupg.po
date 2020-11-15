@@ -1,0 +1,4026 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Enter the user ID.  End with an empty line: "
+msgstr ""
+
+msgid ""
+"\n"
+"Not enough random bytes available.  Please do some other work to give\n"
+"the OS a chance to collect more entropy! (Need %d more bytes)\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Pick an image to use for your photo ID.  The image must be a JPEG file.\n"
+"Remember that the image is stored within your public key.  If you use a\n"
+"very large picture, your key will become very large as well!\n"
+"Keeping the image close to 240x288 is a good size to use.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Supported algorithms:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"You need a user ID to identify your key; the software constructs the user ID\n"
+"from the Real Name, Comment and Email Address in this form:\n"
+"    \"Heinrich Heine (Der Dichter) <heinrichh@duesseldorf.de>\"\n"
+"\n"
+msgstr ""
+
+msgid "                aka \"%s\""
+msgstr ""
+
+msgid "               using %s key %s\n"
+msgstr ""
+
+msgid "              imported: %lu"
+msgstr ""
+
+msgid "             unchanged: %lu\n"
+msgstr ""
+
+msgid "           new subkeys: %lu\n"
+msgstr ""
+
+msgid "          new user IDs: %lu\n"
+msgstr ""
+
+msgid "          not imported: %lu\n"
+msgstr ""
+
+msgid "          w/o user IDs: %lu\n"
+msgstr ""
+
+msgid "         \"%s\": preference for cipher algorithm %s\n"
+msgstr ""
+
+msgid "         \"%s\": preference for compression algorithm %s\n"
+msgstr ""
+
+msgid "         \"%s\": preference for digest algorithm %s\n"
+msgstr ""
+
+msgid "         (subkey on main key ID %s)"
+msgstr ""
+
+msgid "         It is not certain that the signature belongs to the owner.\n"
+msgstr ""
+
+msgid "         The signature is probably a FORGERY.\n"
+msgstr ""
+
+msgid ""
+"         There is no indication that the signature belongs to the owner.\n"
+msgstr ""
+
+msgid "         This could mean that the signature is forged.\n"
+msgstr ""
+
+msgid "         algorithms on these user IDs:\n"
+msgstr ""
+
+msgid "        new signatures: %lu\n"
+msgstr ""
+
+msgid "      \"%s\"\n"
+msgstr ""
+
+msgid "      Card serial no. ="
+msgstr ""
+
+msgid "      Key fingerprint ="
+msgstr ""
+
+msgid "      Subkey fingerprint:"
+msgstr ""
+
+msgid "      secret keys read: %lu\n"
+msgstr ""
+
+msgid "      skipped new keys: %lu\n"
+msgstr ""
+
+msgid "      user IDs cleaned: %lu\n"
+msgstr ""
+
+msgid "     Subkey fingerprint:"
+msgstr ""
+
+msgid "    signatures cleaned: %lu\n"
+msgstr ""
+
+msgid "   (%c) Finished\n"
+msgstr ""
+
+msgid "   (%c) Toggle the authenticate capability\n"
+msgstr ""
+
+msgid "   (%c) Toggle the encrypt capability\n"
+msgstr ""
+
+msgid "   (%c) Toggle the sign capability\n"
+msgstr ""
+
+msgid "   (%d) DSA (set your own capabilities)\n"
+msgstr ""
+
+msgid "   (%d) DSA (sign only)\n"
+msgstr ""
+
+msgid "   (%d) Elgamal (encrypt only)\n"
+msgstr ""
+
+msgid "   (%d) RSA (encrypt only)\n"
+msgstr ""
+
+msgid "   (%d) RSA (set your own capabilities)\n"
+msgstr ""
+
+msgid "   (%d) RSA (sign only)\n"
+msgstr ""
+
+msgid "   (0) I will not answer.%s\n"
+msgstr ""
+
+msgid "   (1) I have not checked at all.%s\n"
+msgstr ""
+
+msgid "   (1) Signature key\n"
+msgstr ""
+
+msgid "   (2) Encryption key\n"
+msgstr ""
+
+msgid "   (2) I have done casual checking.%s\n"
+msgstr ""
+
+msgid "   (3) Authentication key\n"
+msgstr ""
+
+msgid "   (3) I have done very careful checking.%s\n"
+msgstr ""
+
+msgid "   new key revocations: %lu\n"
+msgstr ""
+
+msgid "  %d = I do NOT trust\n"
+msgstr ""
+
+msgid "  %d = I don't know or won't say\n"
+msgstr ""
+
+msgid "  %d = I trust fully\n"
+msgstr ""
+
+msgid "  %d = I trust marginally\n"
+msgstr ""
+
+msgid "  %d = I trust ultimately\n"
+msgstr ""
+
+msgid "  Unable to sign.\n"
+msgstr ""
+
+msgid "  aka \"%s\"\n"
+msgstr ""
+
+msgid "  m = back to the main menu\n"
+msgstr ""
+
+msgid "  q = quit\n"
+msgstr ""
+
+msgid "  s = skip this key\n"
+msgstr ""
+
+msgid "  secret keys imported: %lu\n"
+msgstr ""
+
+msgid " (main key ID %s)"
+msgstr ""
+
+msgid " (non-exportable)"
+msgstr ""
+
+msgid " (non-revocable)"
+msgstr ""
+
+msgid " Primary key fingerprint:"
+msgstr ""
+
+msgid " secret keys unchanged: %lu\n"
+msgstr ""
+
+msgid "\"%s\" not a key ID: skipping\n"
+msgstr ""
+
+msgid "\"%s\" was already locally signed by key %s\n"
+msgstr ""
+
+msgid "\"%s\" was already signed by key %s\n"
+msgstr ""
+
+msgid ""
+"# List of assigned trustvalues, created %s\n"
+"# (Use \"gpg --import-ownertrust\" to restore them)\n"
+msgstr ""
+
+msgid "%d Admin PIN attempts remaining before card is permanently locked\n"
+msgstr ""
+
+msgid "%d bad signatures\n"
+msgstr ""
+
+msgid "%d keys processed (%d validity counts cleared)\n"
+msgstr ""
+
+msgid "%d marginal(s) needed, %d complete(s) needed, %s trust model\n"
+msgstr ""
+
+msgid "%d signatures not checked due to errors\n"
+msgstr ""
+
+msgid "%d signatures not checked due to missing keys\n"
+msgstr ""
+
+msgid "%d user IDs without valid self-signatures detected\n"
+msgstr ""
+
+msgid "%lu keys cached (%lu signatures)\n"
+msgstr ""
+
+msgid "%lu keys cached so far (%lu signatures)\n"
+msgstr ""
+
+msgid "%lu keys processed so far\n"
+msgstr ""
+
+msgid "%s ...\n"
+msgstr ""
+
+msgid "%s does not support handler version %d\n"
+msgstr ""
+
+msgid "%s does not yet work with %s\n"
+msgstr ""
+
+msgid "%s encrypted data\n"
+msgstr ""
+
+msgid "%s encrypted session key\n"
+msgstr ""
+
+msgid "%s encryption will be used\n"
+msgstr ""
+
+msgid "%s is the new one\n"
+msgstr ""
+
+msgid "%s is the unchanged one\n"
+msgstr ""
+
+msgid "%s keys may be between %u and %u bits long.\n"
+msgstr ""
+
+msgid "%s keysizes must be in the range %u-%u\n"
+msgstr ""
+
+msgid "%s makes no sense with %s!\n"
+msgstr ""
+
+msgid "%s not allowed with %s!\n"
+msgstr ""
+
+msgid "%s signature, digest algorithm %s\n"
+msgstr ""
+
+msgid "%s.\n"
+msgstr ""
+
+msgid "%s/%s encrypted for: \"%s\"\n"
+msgstr ""
+
+msgid "%s/%s signature from: \"%s\"\n"
+msgstr ""
+
+msgid "%s: There is limited assurance this key belongs to the named user\n"
+msgstr ""
+
+msgid "%s: There is no assurance this key belongs to the named user\n"
+msgstr ""
+
+msgid "%s: directory does not exist!\n"
+msgstr ""
+
+msgid "%s: error reading free record: %s\n"
+msgstr ""
+
+msgid "%s: error reading version record: %s\n"
+msgstr ""
+
+msgid "%s: error updating version record: %s\n"
+msgstr ""
+
+msgid "%s: error writing dir record: %s\n"
+msgstr ""
+
+msgid "%s: error writing version record: %s\n"
+msgstr ""
+
+msgid "%s: failed to append a record: %s\n"
+msgstr ""
+
+msgid "%s: failed to create hashtable: %s\n"
+msgstr ""
+
+msgid "%s: failed to create version record: %s"
+msgstr ""
+
+msgid "%s: failed to zero a record: %s\n"
+msgstr ""
+
+msgid "%s: invalid file version %d\n"
+msgstr ""
+
+msgid "%s: invalid trustdb\n"
+msgstr ""
+
+msgid "%s: invalid trustdb created\n"
+msgstr ""
+
+msgid "%s: keyring created\n"
+msgstr ""
+
+msgid "%s: not a trustdb file\n"
+msgstr ""
+
+msgid "%s: skipped: %s\n"
+msgstr ""
+
+msgid "%s: skipped: public key already present\n"
+msgstr ""
+
+msgid "%s: skipped: public key is disabled\n"
+msgstr ""
+
+msgid "%s: trustdb created\n"
+msgstr ""
+
+msgid "%s: unknown suffix\n"
+msgstr ""
+
+msgid "%s: version record with recnum %lu\n"
+msgstr ""
+
+msgid "%s:%d: deprecated option \"%s\"\n"
+msgstr ""
+
+msgid "%s:%d: invalid auto-key-locate list\n"
+msgstr ""
+
+msgid "%s:%d: invalid export options\n"
+msgstr ""
+
+msgid "%s:%d: invalid import options\n"
+msgstr ""
+
+msgid "%s:%d: invalid keyserver options\n"
+msgstr ""
+
+msgid "%s:%d: invalid list options\n"
+msgstr ""
+
+msgid "%s:%d: invalid verify options\n"
+msgstr ""
+
+msgid "%u-bit %s key, ID %s, created %s"
+msgstr ""
+
+msgid "(No description given)\n"
+msgstr ""
+
+msgid "(Probably you want to select %d here)\n"
+msgstr ""
+
+msgid "(This is a sensitive revocation key)\n"
+msgstr ""
+
+msgid "(sensitive)"
+msgstr ""
+
+msgid "(unless you specify the key by fingerprint)\n"
+msgstr ""
+
+msgid "(you may have used the wrong program for this task)\n"
+msgstr ""
+
+msgid ""
+"* The `sign' command may be prefixed with an `l' for local signatures (lsign),\n"
+"  a `t' for trust signatures (tsign), an `nr' for non-revocable signatures\n"
+"  (nrsign), or any combination thereof (ltsign, tnrsign, etc.).\n"
+msgstr ""
+
+msgid "--clearsign [filename]"
+msgstr ""
+
+msgid "--decrypt [filename]"
+msgstr ""
+
+msgid "--edit-key user-id [commands]"
+msgstr ""
+
+msgid "--encrypt [filename]"
+msgstr ""
+
+msgid "--lsign-key user-id"
+msgstr ""
+
+msgid "--output doesn't work for this command\n"
+msgstr ""
+
+msgid "--sign --encrypt [filename]"
+msgstr ""
+
+msgid "--sign --symmetric [filename]"
+msgstr ""
+
+msgid "--sign [filename]"
+msgstr ""
+
+msgid "--sign-key user-id"
+msgstr ""
+
+msgid "--store [filename]"
+msgstr ""
+
+msgid "--symmetric --encrypt [filename]"
+msgstr ""
+
+msgid "--symmetric --sign --encrypt [filename]"
+msgstr ""
+
+msgid "--symmetric [filename]"
+msgstr ""
+
+msgid "-k[v][v][v][c] [user-id] [keyring]"
+msgstr ""
+
+msgid "... this is a bug (%s:%d:%s)\n"
+msgstr ""
+
+msgid "1 bad signature\n"
+msgstr ""
+
+msgid "1 signature not checked due to a missing key\n"
+msgstr ""
+
+msgid "1 signature not checked due to an error\n"
+msgstr ""
+
+msgid "1 user ID without valid self-signature detected\n"
+msgstr ""
+
+msgid "10 translator see trustdb.c:uid_trust_string_fixed"
+msgstr ""
+
+msgid ""
+"@\n"
+"(See the man page for a complete listing of all commands and options)\n"
+msgstr ""
+
+msgid ""
+"@\n"
+"Examples:\n"
+"\n"
+" -se -r Bob [file]          sign and encrypt for user Bob\n"
+" --clearsign [file]         make a clear text signature\n"
+" --detach-sign [file]       make a detached signature\n"
+" --list-keys [names]        show keys\n"
+" --fingerprint [names]      show fingerprints\n"
+msgstr ""
+
+msgid ""
+"@\n"
+"Options:\n"
+" "
+msgstr ""
+
+msgid ""
+"@Commands:\n"
+" "
+msgstr ""
+
+msgid "ASCII armored output forced.\n"
+msgstr ""
+
+msgid "Admin commands are allowed\n"
+msgstr ""
+
+msgid "Admin commands are not allowed\n"
+msgstr ""
+
+msgid "Admin-only command\n"
+msgstr ""
+
+msgid "Answer \"yes\" (or just \"y\") if it is okay to generate the sub key."
+msgstr ""
+
+msgid "Answer \"yes\" if it is okay to delete the subkey"
+msgstr ""
+
+msgid "Answer \"yes\" if it is okay to overwrite the file"
+msgstr ""
+
+msgid ""
+"Answer \"yes\" if you really want to delete this user ID.\n"
+"All certificates are then also lost!"
+msgstr ""
+
+msgid "Answer \"yes\" if you want to sign ALL the user IDs"
+msgstr ""
+
+msgid "Answer \"yes\" or \"no\""
+msgstr ""
+
+msgid ""
+"Are you sure that you want to sign this key with your\n"
+"key \"%s\" (%s)\n"
+msgstr ""
+
+msgid "Are you sure you still want to add it? (y/N) "
+msgstr ""
+
+msgid "Are you sure you still want to revoke it? (y/N) "
+msgstr ""
+
+msgid "Are you sure you still want to sign it? (y/N) "
+msgstr ""
+
+msgid ""
+"Are you sure you want to appoint this key as a designated revoker? (y/N) "
+msgstr ""
+
+msgid "Are you sure you want to delete it? (y/N) "
+msgstr ""
+
+msgid "Are you sure you want to replace it? (y/N) "
+msgstr ""
+
+msgid "Are you sure you want to use it? (y/N) "
+msgstr ""
+
+msgid "Authenticate"
+msgstr "ར་སྤྲོད།"
+
+msgid "BAD signature from \"%s\""
+msgstr ""
+
+msgid "CA fingerprint: "
+msgstr ""
+
+msgid "CRC error; %06lX - %06lX\n"
+msgstr ""
+
+msgid "Can't check signature: %s\n"
+msgstr ""
+
+msgid "Can't edit this key: %s\n"
+msgstr ""
+
+msgid "Can't open `%s': %s\n"
+msgstr ""
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Cardholder's given name: "
+msgstr ""
+
+msgid "Cardholder's surname: "
+msgstr ""
+
+msgid "Certificates leading to an ultimately trusted key:\n"
+msgstr ""
+
+msgid "Certify"
+msgstr "དཔང་ཡིག"
+
+msgid "Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? "
+msgstr ""
+
+msgid "Change (N)ame, (C)omment, (E)mail or (Q)uit? "
+msgstr ""
+
+msgid ""
+"Change the preferences of all user IDs (or just of the selected ones)\n"
+"to the current list of preferences.  The timestamp of all affected\n"
+"self-signatures will be advanced by one second.\n"
+msgstr ""
+
+msgid "Changing expiration time for a subkey.\n"
+msgstr ""
+
+msgid "Changing expiration time for the primary key.\n"
+msgstr ""
+
+msgid "Cipher: "
+msgstr ""
+
+msgid "Command expects a filename argument\n"
+msgstr ""
+
+msgid "Comment: "
+msgstr ""
+
+msgid "Compression: "
+msgstr ""
+
+msgid "Create a designated revocation certificate for this key? (y/N) "
+msgstr ""
+
+msgid "Create a revocation certificate for this key? (y/N) "
+msgstr ""
+
+msgid "Create a revocation certificate for this signature? (y/N) "
+msgstr ""
+
+msgid "Critical preferred keyserver: "
+msgstr ""
+
+msgid "Critical signature notation: "
+msgstr ""
+
+msgid "Critical signature policy: "
+msgstr ""
+
+msgid "Current allowed actions: "
+msgstr ""
+
+msgid "Current recipients:\n"
+msgstr ""
+
+msgid "DSA key %s requires a %u bit or larger hash\n"
+msgstr ""
+
+msgid "DSA key %s uses an unsafe (%u bit) hash\n"
+msgstr ""
+
+msgid "DSA requires the hash length to be a multiple of 8 bits\n"
+msgstr ""
+
+msgid "Delete this good signature? (y/N/q)"
+msgstr ""
+
+msgid "Delete this invalid signature? (y/N/q)"
+msgstr ""
+
+msgid "Delete this key from the keyring? (y/N) "
+msgstr ""
+
+msgid "Delete this unknown signature? (y/N/q)"
+msgstr ""
+
+msgid "Deleted %d signature.\n"
+msgstr ""
+
+msgid "Deleted %d signatures.\n"
+msgstr ""
+
+msgid "Detached signature.\n"
+msgstr ""
+
+msgid "Digest: "
+msgstr ""
+
+msgid "Displaying %s photo ID of size %ld for key %s (uid %d)\n"
+msgstr ""
+
+msgid "Do you really want to delete the selected keys? (y/N) "
+msgstr ""
+
+msgid "Do you really want to delete this key? (y/N) "
+msgstr ""
+
+msgid "Do you really want to do this? (y/N) "
+msgstr ""
+
+msgid "Do you really want to revoke the entire key? (y/N) "
+msgstr ""
+
+msgid "Do you really want to revoke the selected subkeys? (y/N) "
+msgstr ""
+
+msgid "Do you really want to revoke this subkey? (y/N) "
+msgstr ""
+
+msgid "Do you really want to set this key to ultimate trust? (y/N) "
+msgstr ""
+
+msgid ""
+"Do you want to issue a new signature to replace the expired one? (y/N) "
+msgstr ""
+
+msgid "Do you want to promote it to a full exportable signature? (y/N) "
+msgstr ""
+
+msgid "Do you want to promote it to an OpenPGP self-signature? (y/N) "
+msgstr ""
+
+msgid "Do you want to sign it again anyway? (y/N) "
+msgstr ""
+
+msgid "Do you want your signature to expire at the same time? (Y/n) "
+msgstr ""
+
+msgid "ERROR: "
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "Email address: "
+msgstr ""
+
+msgid "Encrypt"
+msgstr "གསང་སྡོམ།"
+
+msgid "Enter Admin PIN: "
+msgstr ""
+
+msgid "Enter JPEG filename for photo ID: "
+msgstr ""
+
+msgid "Enter New Admin PIN: "
+msgstr ""
+
+msgid "Enter New PIN: "
+msgstr ""
+
+msgid "Enter PIN: "
+msgstr ""
+
+msgid "Enter an optional description; end it with an empty line:\n"
+msgstr ""
+
+msgid "Enter new filename"
+msgstr ""
+
+msgid "Enter number(s), N)ext, or Q)uit > "
+msgstr ""
+
+msgid "Enter passphrase\n"
+msgstr ""
+
+msgid "Enter passphrase: "
+msgstr ""
+
+msgid "Enter the name of the key holder"
+msgstr ""
+
+msgid ""
+"Enter the new passphrase for this secret key.\n"
+"\n"
+msgstr ""
+
+msgid "Enter the notation: "
+msgstr ""
+
+msgid ""
+"Enter the required value as shown in the prompt.\n"
+"It is possible to enter a ISO date (YYYY-MM-DD) but you won't\n"
+"get a good error response - instead the system tries to interpret\n"
+"the given value as an interval."
+msgstr ""
+
+msgid "Enter the size of the key"
+msgstr ""
+
+msgid ""
+"Enter the user ID of the addressee to whom you want to send the message."
+msgstr ""
+
+msgid "Enter the user ID of the designated revoker: "
+msgstr ""
+
+msgid "Enter your preferred keyserver URL: "
+msgstr ""
+
+msgid "Error reading backup key from `%s': %s\n"
+msgstr ""
+
+msgid "Error: Combined name too long (limit is %d characters).\n"
+msgstr ""
+
+msgid "Error: Double spaces are not allowed.\n"
+msgstr ""
+
+msgid "Error: Login data too long (limit is %d characters).\n"
+msgstr ""
+
+msgid "Error: Only plain ASCII is currently allowed.\n"
+msgstr ""
+
+msgid "Error: Private DO too long (limit is %d characters).\n"
+msgstr ""
+
+msgid "Error: The \"<\" character may not be used.\n"
+msgstr ""
+
+msgid "Error: URL too long (limit is %d characters).\n"
+msgstr ""
+
+msgid "Error: invalid characters in preference string.\n"
+msgstr ""
+
+msgid "Error: invalid formatted fingerprint.\n"
+msgstr ""
+
+msgid "Error: invalid length of preference string.\n"
+msgstr ""
+
+msgid "Error: invalid response.\n"
+msgstr ""
+
+msgid "Expired signature from \"%s\""
+msgstr ""
+
+msgid "Features: "
+msgstr ""
+
+msgid "File `%s' exists. "
+msgstr ""
+
+msgid "Give the name of the file to which the signature applies"
+msgstr ""
+
+msgid "Go ahead and type your message ...\n"
+msgstr ""
+
+msgid "Good signature from \"%s\""
+msgstr ""
+
+msgid "Hash: "
+msgstr ""
+
+msgid "Hint: Select the user IDs to sign\n"
+msgstr ""
+
+msgid "Hit return when ready or enter 'c' to cancel: "
+msgstr ""
+
+msgid ""
+"How carefully have you verified the key you are about to sign actually belongs\n"
+"to the person named above?  If you don't know what to answer, enter \"0\".\n"
+msgstr ""
+
+msgid ""
+"How much do you trust that this key actually belongs to the named user?\n"
+msgstr ""
+
+msgid "I have checked this key casually.\n"
+msgstr ""
+
+msgid "I have checked this key very carefully.\n"
+msgstr ""
+
+msgid "I have not checked this key at all.\n"
+msgstr ""
+
+msgid "IDEA cipher unavailable, optimistically attempting to use %s instead\n"
+msgstr ""
+
+msgid ""
+"If you like, you can enter a text describing why you issue this\n"
+"revocation certificate.  Please keep this text concise.\n"
+"An empty line ends the text.\n"
+msgstr ""
+
+msgid "If you want to use this untrusted key anyway, answer \"yes\"."
+msgstr ""
+
+msgid ""
+"In general it is not a good idea to use the same key for signing and\n"
+"encryption.  This algorithm should only be used in certain domains.\n"
+"Please consult your security expert first."
+msgstr ""
+
+msgid "Invalid character in comment\n"
+msgstr ""
+
+msgid "Invalid character in name\n"
+msgstr ""
+
+msgid "Invalid command  (try \"help\")\n"
+msgstr ""
+
+msgid "Invalid key %s made valid by --allow-non-selfsigned-uid\n"
+msgstr ""
+
+msgid "Invalid passphrase; please try again"
+msgstr ""
+
+msgid "Invalid selection.\n"
+msgstr ""
+
+msgid "Is this correct? (y/N) "
+msgstr ""
+
+msgid "Is this okay? (y/N) "
+msgstr ""
+
+msgid "Is this photo correct (y/N/q)? "
+msgstr ""
+
+msgid ""
+"It is NOT certain that the key belongs to the person named\n"
+"in the user ID.  If you *really* know what you are doing,\n"
+"you may answer the next question with yes.\n"
+msgstr ""
+
+msgid ""
+"It's up to you to assign a value here; this value will never be exported\n"
+"to any 3rd party.  We need it to implement the web-of-trust; it has nothing\n"
+"to do with the (implicitly created) web-of-certificates."
+msgstr ""
+
+msgid "Key %s is already revoked.\n"
+msgstr ""
+
+msgid "Key available at: "
+msgstr ""
+
+msgid "Key does not expire at all\n"
+msgstr ""
+
+msgid "Key expires at %s\n"
+msgstr ""
+
+msgid "Key generation canceled.\n"
+msgstr ""
+
+msgid "Key generation failed: %s\n"
+msgstr ""
+
+msgid "Key has been compromised"
+msgstr ""
+
+msgid "Key has only stub or on-card key items - no passphrase to change.\n"
+msgstr ""
+
+msgid "Key is no longer used"
+msgstr "གསང་ལྡེ་མི་སྤྱོད་པ།"
+
+msgid "Key is protected.\n"
+msgstr ""
+
+msgid "Key is revoked."
+msgstr ""
+
+msgid "Key is superseded"
+msgstr ""
+
+msgid "Key is valid for? (0) "
+msgstr ""
+
+msgid "Key not changed so no update needed.\n"
+msgstr ""
+
+msgid "Keyring"
+msgstr ""
+
+msgid "Keyserver no-modify"
+msgstr ""
+
+msgid "Language preferences: "
+msgstr ""
+
+msgid "Login data (account name): "
+msgstr ""
+
+msgid "Make off-card backup of encryption key? (Y/n) "
+msgstr ""
+
+msgid ""
+"N  to change the name.\n"
+"C  to change the comment.\n"
+"E  to change the email address.\n"
+"O  to continue with key generation.\n"
+"Q  to quit the key generation."
+msgstr ""
+
+msgid "NOTE: %s is not available in this version\n"
+msgstr ""
+
+msgid "NOTE: %s is not for normal use!\n"
+msgstr ""
+
+msgid "NOTE: This key is not protected!\n"
+msgstr ""
+
+msgid "NOTE: a key's S/N does not match the card's one\n"
+msgstr ""
+
+msgid "NOTE: backup of card key saved to `%s'\n"
+msgstr ""
+
+msgid "NOTE: creating subkeys for v3 keys is not OpenPGP compliant\n"
+msgstr ""
+
+msgid "NOTE: key has been revoked"
+msgstr ""
+
+msgid "NOTE: no default option file `%s'\n"
+msgstr ""
+
+msgid "NOTE: old default options file `%s' ignored\n"
+msgstr ""
+
+msgid "NOTE: primary key is online and stored on card\n"
+msgstr ""
+
+msgid "NOTE: secondary key is online and stored on card\n"
+msgstr ""
+
+msgid "NOTE: secret key %s expired at %s\n"
+msgstr ""
+
+msgid "NOTE: sender requested \"for-your-eyes-only\"\n"
+msgstr ""
+
+msgid "NOTE: signature key %s expired %s\n"
+msgstr ""
+
+msgid "NOTE: simple S2K mode (0) is strongly discouraged\n"
+msgstr ""
+
+msgid "NOTE: trustdb not writable\n"
+msgstr ""
+
+msgid "Name may not start with a digit\n"
+msgstr ""
+
+msgid "Name must be at least 5 characters long\n"
+msgstr ""
+
+msgid "Need the secret key to do this.\n"
+msgstr ""
+
+msgid "NnCcEeOoQq"
+msgstr ""
+
+msgid "No corresponding signature in secret ring\n"
+msgstr ""
+
+msgid "No help available"
+msgstr ""
+
+msgid "No help available for `%s'"
+msgstr ""
+
+msgid "No reason specified"
+msgstr ""
+
+msgid "No subkey with index %d\n"
+msgstr ""
+
+msgid "No such user ID.\n"
+msgstr ""
+
+msgid "No trust value assigned to:\n"
+msgstr ""
+
+msgid "No user ID with hash %s\n"
+msgstr ""
+
+msgid "No user ID with index %d\n"
+msgstr ""
+
+msgid "Not a valid email address\n"
+msgstr ""
+
+msgid "Notations: "
+msgstr ""
+
+msgid ""
+"Note that this key cannot be used for encryption.  You may want to use\n"
+"the command \"--edit-key\" to generate a subkey for this purpose.\n"
+msgstr ""
+
+msgid "Note: Signer's address `%s' does not match DNS entry\n"
+msgstr ""
+
+msgid "Note: This key has been disabled.\n"
+msgstr ""
+
+msgid "Note: This key has expired!\n"
+msgstr ""
+
+msgid "Note: Verified signer's address is `%s'\n"
+msgstr ""
+
+msgid "Nothing deleted.\n"
+msgstr ""
+
+msgid "Nothing to sign with key %s\n"
+msgstr ""
+
+msgid "OpenPGP card no. %s detected\n"
+msgstr ""
+
+msgid "OpenPGP card not available: %s\n"
+msgstr ""
+
+msgid "Overwrite? (y/N) "
+msgstr ""
+
+msgid "Owner trust may not be set while using a user provided trust database\n"
+msgstr ""
+
+msgid "PIN callback returned error: %s\n"
+msgstr ""
+
+msgid "PIN for CHV%d is too short; minimum length is %d\n"
+msgstr ""
+
+msgid "PIN not correctly repeated; try again"
+msgstr ""
+
+msgid "Please correct the error first\n"
+msgstr ""
+
+msgid ""
+"Please decide how far you trust this user to correctly verify other users' keys\n"
+"(by looking at passports, checking fingerprints from different sources, etc.)\n"
+msgstr ""
+
+msgid "Please don't put the email address into the real name or the comment\n"
+msgstr ""
+
+msgid "Please enter a domain to restrict this signature, or enter for none.\n"
+msgstr ""
+
+msgid ""
+"Please enter a new filename. If you just hit RETURN the default\n"
+"file (which is shown in brackets) will be used."
+msgstr ""
+
+msgid "Please enter an optional comment"
+msgstr ""
+
+msgid "Please enter name of data file: "
+msgstr ""
+
+msgid ""
+"Please enter the depth of this trust signature.\n"
+"A depth greater than 1 allows the key you are signing to make\n"
+"trust signatures on your behalf.\n"
+msgstr ""
+
+msgid "Please enter the passphrase; this is a secret sentence \n"
+msgstr ""
+
+msgid "Please fix this possible security flaw\n"
+msgstr ""
+
+msgid "Please insert the card and hit return or enter 'c' to cancel: "
+msgstr ""
+
+msgid ""
+"Please note that the factory settings of the PINs are\n"
+"   PIN = `%s'     Admin PIN = `%s'\n"
+"You should change them using the command --change-pin\n"
+msgstr ""
+
+msgid ""
+"Please note that the shown key validity is not necessarily correct\n"
+"unless you restart the program.\n"
+msgstr ""
+
+msgid "Please remove selections from the secret keys.\n"
+msgstr ""
+
+msgid ""
+"Please remove the current card and insert the one with serial number:\n"
+"   %.*s\n"
+msgstr ""
+
+msgid "Please repeat the last passphrase, so you are sure what you typed in."
+msgstr ""
+
+msgid "Please report bugs to <gnupg-bugs@gnu.org>.\n"
+msgstr ""
+
+msgid "Please select at most one subkey.\n"
+msgstr ""
+
+msgid "Please select exactly one user ID.\n"
+msgstr ""
+
+msgid "Please select the reason for the revocation:\n"
+msgstr ""
+
+msgid "Please select the type of key to generate:\n"
+msgstr ""
+
+msgid "Please select what kind of key you want:\n"
+msgstr ""
+
+msgid "Please select where to store the key:\n"
+msgstr ""
+
+msgid ""
+"Please specify how long the key should be valid.\n"
+"         0 = key does not expire\n"
+"      <n>  = key expires in n days\n"
+"      <n>w = key expires in n weeks\n"
+"      <n>m = key expires in n months\n"
+"      <n>y = key expires in n years\n"
+msgstr ""
+
+msgid ""
+"Please specify how long the signature should be valid.\n"
+"         0 = signature does not expire\n"
+"      <n>  = signature expires in n days\n"
+"      <n>w = signature expires in n weeks\n"
+"      <n>m = signature expires in n months\n"
+"      <n>y = signature expires in n years\n"
+msgstr ""
+
+msgid "Please use the command \"toggle\" first.\n"
+msgstr ""
+
+msgid ""
+"Please wait, entropy is being gathered. Do some work if it would\n"
+"keep you from getting bored, because it will improve the quality\n"
+"of the entropy.\n"
+msgstr ""
+
+msgid "Possible actions for a %s key: "
+msgstr ""
+
+msgid "Preferred keyserver: "
+msgstr ""
+
+msgid "Primary key fingerprint:"
+msgstr "གསང་ལྡེ་གཙོ་བའི་མཛུབ་རིས།: "
+
+msgid "Private DO data: "
+msgstr ""
+
+msgid "Proceed? (y/N) "
+msgstr ""
+
+msgid "Pubkey: "
+msgstr ""
+
+msgid "Public key is disabled.\n"
+msgstr ""
+
+msgid "Quit without saving? (y/N) "
+msgstr ""
+
+msgid "RSA modulus missing or not of size %d bits\n"
+msgstr ""
+
+msgid "RSA prime %s missing or not of size %d bits\n"
+msgstr ""
+
+msgid "RSA public exponent missing or larger than %d bits\n"
+msgstr ""
+
+msgid "Real name: "
+msgstr ""
+
+msgid "Really create the revocation certificates? (y/N) "
+msgstr ""
+
+msgid "Really create? (y/N) "
+msgstr ""
+
+msgid "Really delete this self-signature? (y/N)"
+msgstr ""
+
+msgid "Really move the primary key? (y/N) "
+msgstr ""
+
+msgid "Really remove all selected user IDs? (y/N) "
+msgstr ""
+
+msgid "Really remove this user ID? (y/N) "
+msgstr ""
+
+msgid "Really revoke all selected user IDs? (y/N) "
+msgstr ""
+
+msgid "Really revoke this user ID? (y/N) "
+msgstr ""
+
+msgid "Really sign all user IDs? (y/N) "
+msgstr ""
+
+msgid "Really sign? (y/N) "
+msgstr ""
+
+msgid "Really update the preferences for the selected user IDs? (y/N) "
+msgstr ""
+
+msgid "Really update the preferences? (y/N) "
+msgstr ""
+
+msgid "Reason for revocation: %s\n"
+msgstr ""
+
+msgid "Repeat passphrase\n"
+msgstr ""
+
+msgid "Repeat passphrase: "
+msgstr ""
+
+msgid "Repeat this PIN: "
+msgstr ""
+
+msgid "Replace existing key? (y/N) "
+msgstr ""
+
+msgid "Replace existing keys? (y/N) "
+msgstr ""
+
+msgid "Requested keysize is %u bits\n"
+msgstr ""
+
+msgid "Revocation certificate created.\n"
+msgstr ""
+
+msgid ""
+"Revocation certificate created.\n"
+"\n"
+"Please move it to a medium which you can hide away; if Mallory gets\n"
+"access to this certificate he can use it to make your key unusable.\n"
+"It is smart to print this certificate and store it away, just in case\n"
+"your media become unreadable.  But have some caution:  The print system of\n"
+"your machine might store the data and make it available to others!\n"
+msgstr ""
+
+msgid "Save changes? (y/N) "
+msgstr ""
+
+msgid "Secret key is available.\n"
+msgstr ""
+
+msgid "Secret parts of primary key are not available.\n"
+msgstr ""
+
+msgid "Secret parts of primary key are stored on-card.\n"
+msgstr ""
+
+msgid ""
+"Select the algorithm to use.\n"
+"\n"
+"DSA (aka DSS) is the Digital Signature Algorithm and can only be used\n"
+"for signatures.\n"
+"\n"
+"Elgamal is an encrypt-only algorithm.\n"
+"\n"
+"RSA may be used for signatures or encryption.\n"
+"\n"
+"The first (primary) key must always be a key which is capable of signing."
+msgstr ""
+
+msgid "Set preference list to:\n"
+msgstr ""
+
+msgid "Sex ((M)ale, (F)emale or space): "
+msgstr ""
+
+msgid "Sign"
+msgstr "མིང་རྟགས་འགོད་པ།"
+
+msgid "Sign it? (y/N) "
+msgstr ""
+
+msgid "Signature does not expire at all\n"
+msgstr ""
+
+msgid "Signature expired %s\n"
+msgstr ""
+
+msgid "Signature expires %s\n"
+msgstr ""
+
+msgid "Signature expires at %s\n"
+msgstr ""
+
+msgid "Signature is valid for? (%s) "
+msgstr ""
+
+msgid "Signature made %s\n"
+msgstr ""
+
+msgid "Signature made %s using %s key ID %s\n"
+msgstr ""
+
+msgid "Signature notation: "
+msgstr ""
+
+msgid "Signature policy: "
+msgstr ""
+
+msgid "SsEeAaQq"
+msgstr ""
+
+msgid "Subkey %s is already revoked.\n"
+msgstr ""
+
+msgid ""
+"Syntax: gpg [options] [files]\n"
+"Sign, check, encrypt or decrypt\n"
+"Default operation depends on the input data\n"
+msgstr ""
+
+msgid ""
+"The minimum trust level for this key is: %s\n"
+"\n"
+msgstr ""
+
+msgid ""
+"The random number generator is only a kludge to let\n"
+"it run - it is in no way a strong RNG!\n"
+"\n"
+"DON'T USE ANY DATA GENERATED BY THIS PROGRAM!!\n"
+"\n"
+msgstr ""
+
+msgid ""
+"The self-signature on \"%s\"\n"
+"is a PGP 2.x-style signature.\n"
+msgstr ""
+
+msgid ""
+"The signature is not valid.  It does make sense to remove it from\n"
+"your keyring."
+msgstr ""
+
+msgid "The signature will be marked as non-exportable.\n"
+msgstr ""
+
+msgid "The signature will be marked as non-revocable.\n"
+msgstr ""
+
+msgid "There are no preferences on a PGP 2.x-style user ID.\n"
+msgstr ""
+
+msgid "This JPEG is really large (%d bytes) !\n"
+msgstr ""
+
+msgid "This command is not allowed while in %s mode.\n"
+msgstr ""
+
+msgid "This is a secret key! - really delete? (y/N) "
+msgstr ""
+
+msgid ""
+"This is a signature which binds the user ID to the key. It is\n"
+"usually not a good idea to remove such a signature.  Actually\n"
+"GnuPG might not be able to use this key anymore.  So do this\n"
+"only if this self-signature is for some reason not valid and\n"
+"a second one is available."
+msgstr ""
+
+msgid ""
+"This is a valid signature on the key; you normally don't want\n"
+"to delete this signature because it may be important to establish a\n"
+"trust connection to the key or another key certified by this key."
+msgstr ""
+
+msgid "This key belongs to us\n"
+msgstr ""
+
+msgid "This key has been disabled"
+msgstr "གསང་ལྡེ་འདི་སྤྱོད་འགོག་ཟིན།"
+
+msgid "This key has expired!"
+msgstr ""
+
+msgid "This key is due to expire on %s.\n"
+msgstr ""
+
+msgid "This key is not protected.\n"
+msgstr ""
+
+msgid "This key may be revoked by %s key %s"
+msgstr ""
+
+msgid "This key probably belongs to the named user\n"
+msgstr ""
+
+msgid "This key was revoked on %s by %s key %s\n"
+msgstr ""
+
+msgid ""
+"This signature can't be checked because you don't have the\n"
+"corresponding key.  You should postpone its deletion until you\n"
+"know which key was used because this signing key might establish\n"
+"a trust connection through another already certified key."
+msgstr ""
+
+msgid "This signature expired on %s.\n"
+msgstr ""
+
+msgid "This will be a self-signature.\n"
+msgstr ""
+
+msgid "This would make the key unusable in PGP 2.x.\n"
+msgstr ""
+
+msgid "To be revoked by:\n"
+msgstr ""
+
+msgid ""
+"To build the Web-of-Trust, GnuPG needs to know which keys are\n"
+"ultimately trusted - those are usually the keys for which you have\n"
+"access to the secret key.  Answer \"yes\" to set this key to\n"
+"ultimately trusted\n"
+msgstr ""
+
+msgid "Total number processed: %lu\n"
+msgstr ""
+
+msgid "URL to retrieve public key: "
+msgstr ""
+
+msgid "Uncompressed"
+msgstr ""
+
+msgid "Unknown signature type `%s'\n"
+msgstr ""
+
+msgid "Usage: gpg [options] [files] (-h for help)"
+msgstr ""
+
+msgid "Usage: gpgv [options] [files] (-h for help)"
+msgstr ""
+
+msgid "Use this key anyway? (y/N) "
+msgstr ""
+
+msgid "User ID \"%s\" compacted: %s\n"
+msgstr ""
+
+msgid "User ID \"%s\" is expired."
+msgstr ""
+
+msgid "User ID \"%s\" is not self-signed."
+msgstr ""
+
+msgid "User ID \"%s\" is revoked."
+msgstr ""
+
+msgid "User ID \"%s\" is signable.  "
+msgstr ""
+
+msgid "User ID \"%s\": %d signature removed\n"
+msgstr ""
+
+msgid "User ID \"%s\": %d signatures removed\n"
+msgstr ""
+
+msgid "User ID \"%s\": already clean\n"
+msgstr ""
+
+msgid "User ID \"%s\": already minimized\n"
+msgstr ""
+
+msgid "User ID is no longer valid"
+msgstr ""
+
+msgid "WARNING: "
+msgstr "ཉེན་བརྡ།"
+
+msgid "WARNING: \"%s\" is a deprecated command - do not use it\n"
+msgstr ""
+
+msgid "WARNING: \"%s\" is a deprecated option\n"
+msgstr ""
+
+msgid "WARNING: %s overrides %s\n"
+msgstr ""
+
+msgid "WARNING: 2 files with confidential information exists.\n"
+msgstr ""
+
+msgid "WARNING: Elgamal sign+encrypt keys are deprecated\n"
+msgstr ""
+
+msgid ""
+"WARNING: This is a PGP 2.x-style key.  Adding a designated revoker may cause\n"
+"         some versions of PGP to reject this key.\n"
+msgstr ""
+
+msgid ""
+"WARNING: This is a PGP2-style key.  Adding a photo ID may cause some versions\n"
+"         of PGP to reject this key.\n"
+msgstr ""
+
+msgid "WARNING: This key has been revoked by its designated revoker!\n"
+msgstr ""
+
+msgid "WARNING: This key has been revoked by its owner!\n"
+msgstr ""
+
+msgid "WARNING: This key is not certified with a trusted signature!\n"
+msgstr ""
+
+msgid ""
+"WARNING: This key is not certified with sufficiently trusted signatures!\n"
+msgstr ""
+
+msgid "WARNING: This subkey has been revoked by its owner!\n"
+msgstr ""
+
+msgid "WARNING: Using untrusted key!\n"
+msgstr ""
+
+msgid "WARNING: We do NOT trust this key!\n"
+msgstr ""
+
+msgid "WARNING: Weak key detected - please change passphrase again.\n"
+msgstr ""
+
+msgid "WARNING: `%s' is an empty file\n"
+msgstr ""
+
+msgid "WARNING: a user ID signature is dated %d seconds in the future\n"
+msgstr ""
+
+msgid "WARNING: appointing a key as a designated revoker cannot be undone!\n"
+msgstr ""
+
+msgid "WARNING: cipher algorithm %s not found in recipient preferences\n"
+msgstr ""
+
+msgid "WARNING: digest algorithm %s is deprecated\n"
+msgstr ""
+
+msgid "WARNING: encrypted message has been manipulated!\n"
+msgstr ""
+
+msgid ""
+"WARNING: forcing compression algorithm %s (%d) violates recipient "
+"preferences\n"
+msgstr ""
+
+msgid ""
+"WARNING: forcing digest algorithm %s (%d) violates recipient preferences\n"
+msgstr ""
+
+msgid ""
+"WARNING: forcing symmetric cipher %s (%d) violates recipient preferences\n"
+msgstr ""
+
+msgid "WARNING: invalid size of random_seed file - not used\n"
+msgstr ""
+
+msgid "WARNING: key %s contains preferences for unavailable\n"
+msgstr ""
+
+msgid "WARNING: key %s may be revoked: fetching revocation key %s\n"
+msgstr ""
+
+msgid "WARNING: key %s may be revoked: revocation key %s not present.\n"
+msgstr ""
+
+msgid "WARNING: keyserver handler from a different version of GnuPG (%s)\n"
+msgstr ""
+
+msgid "WARNING: keyserver option `%s' is not used on this platform\n"
+msgstr ""
+
+msgid ""
+"WARNING: message was encrypted with a weak key in the symmetric cipher.\n"
+msgstr ""
+
+msgid "WARNING: message was not integrity protected\n"
+msgstr ""
+
+msgid "WARNING: multiple plaintexts seen\n"
+msgstr ""
+
+msgid ""
+"WARNING: multiple signatures detected.  Only the first will be checked.\n"
+msgstr ""
+
+msgid ""
+"WARNING: no user ID has been marked as primary.  This command may\n"
+"              cause a different user ID to become the assumed primary.\n"
+msgstr ""
+
+msgid "WARNING: nothing exported\n"
+msgstr ""
+
+msgid "WARNING: options in `%s' are not yet active during this run\n"
+msgstr ""
+
+msgid "WARNING: potentially insecure symmetrically encrypted session key\n"
+msgstr ""
+
+msgid "WARNING: program may create a core file!\n"
+msgstr ""
+
+msgid "WARNING: recipients (-r) given without using public key encryption\n"
+msgstr ""
+
+msgid "WARNING: secret key %s does not have a simple SK checksum\n"
+msgstr ""
+
+msgid "WARNING: signature digest conflict in message\n"
+msgstr ""
+
+msgid "WARNING: signing subkey %s has an invalid cross-certification\n"
+msgstr ""
+
+msgid "WARNING: signing subkey %s is not cross-certified\n"
+msgstr ""
+
+msgid "WARNING: the signature will not be marked as non-exportable.\n"
+msgstr ""
+
+msgid "WARNING: the signature will not be marked as non-revocable.\n"
+msgstr ""
+
+msgid "WARNING: this key might be revoked (revocation key not present)\n"
+msgstr ""
+
+msgid "WARNING: unable to %%-expand notation (too large).  Using unexpanded.\n"
+msgstr ""
+
+msgid ""
+"WARNING: unable to %%-expand policy URL (too large).  Using unexpanded.\n"
+msgstr ""
+
+msgid ""
+"WARNING: unable to %%-expand preferred keyserver URL (too large).  Using "
+"unexpanded.\n"
+msgstr ""
+
+msgid "WARNING: unable to fetch URI %s: %s\n"
+msgstr ""
+
+msgid "WARNING: unable to parse URI %s\n"
+msgstr ""
+
+msgid "WARNING: unable to refresh key %s via %s: %s\n"
+msgstr ""
+
+msgid "WARNING: unable to remove temp directory `%s': %s\n"
+msgstr ""
+
+msgid "WARNING: unable to remove tempfile (%s) `%s': %s\n"
+msgstr ""
+
+msgid ""
+"WARNING: unsafe enclosing directory ownership on configuration file `%s'\n"
+msgstr ""
+
+msgid "WARNING: unsafe enclosing directory ownership on homedir `%s'\n"
+msgstr ""
+
+msgid ""
+"WARNING: unsafe enclosing directory permissions on configuration file `%s'\n"
+msgstr ""
+
+msgid "WARNING: unsafe enclosing directory permissions on homedir `%s'\n"
+msgstr ""
+
+msgid "WARNING: unsafe ownership on configuration file `%s'\n"
+msgstr ""
+
+msgid "WARNING: unsafe ownership on homedir `%s'\n"
+msgstr ""
+
+msgid "WARNING: unsafe permissions on configuration file `%s'\n"
+msgstr ""
+
+msgid "WARNING: unsafe permissions on homedir `%s'\n"
+msgstr ""
+
+msgid "WARNING: using experimental cipher algorithm %s\n"
+msgstr ""
+
+msgid "WARNING: using experimental digest algorithm %s\n"
+msgstr ""
+
+msgid "WARNING: using experimental public key algorithm %s\n"
+msgstr ""
+
+msgid "WARNING: using insecure memory!\n"
+msgstr ""
+
+msgid "WARNING: using insecure random number generator!!\n"
+msgstr ""
+
+msgid ""
+"We need to generate a lot of random bytes. It is a good idea to perform\n"
+"some other action (type on the keyboard, move the mouse, utilize the\n"
+"disks) during the prime generation; this gives the random number\n"
+"generator a better chance to gain enough entropy.\n"
+msgstr ""
+
+msgid "What keysize do you want? (%u) "
+msgstr ""
+
+msgid ""
+"When you sign a user ID on a key, you should first verify that the key\n"
+"belongs to the person named in the user ID.  It is useful for others to\n"
+"know how carefully you verified this.\n"
+"\n"
+"\"0\" means you make no particular claim as to how carefully you verified the\n"
+"    key.\n"
+"\n"
+"\"1\" means you believe the key is owned by the person who claims to own it\n"
+"    but you could not, or did not verify the key at all.  This is useful for\n"
+"    a \"persona\" verification, where you sign the key of a pseudonymous user.\n"
+"\n"
+"\"2\" means you did casual verification of the key.  For example, this could\n"
+"    mean that you verified the key fingerprint and checked the user ID on the\n"
+"    key against a photo ID.\n"
+"\n"
+"\"3\" means you did extensive verification of the key.  For example, this could\n"
+"    mean that you verified the key fingerprint with the owner of the key in\n"
+"    person, and that you checked, by means of a hard to forge document with a\n"
+"    photo ID (such as a passport) that the name of the key owner matches the\n"
+"    name in the user ID on the key, and finally that you verified (by exchange\n"
+"    of email) that the email address on the key belongs to the key owner.\n"
+"\n"
+"Note that the examples given above for levels 2 and 3 are *only* examples.\n"
+"In the end, it is up to you to decide just what \"casual\" and \"extensive\"\n"
+"mean to you when you sign other keys.\n"
+"\n"
+"If you don't know what the right answer is, answer \"0\"."
+msgstr ""
+
+msgid "You are about to revoke these signatures:\n"
+msgstr ""
+
+msgid "You are using the `%s' character set.\n"
+msgstr ""
+
+msgid "You can't change the expiration date of a v3 key\n"
+msgstr ""
+
+msgid "You can't delete the last user ID!\n"
+msgstr ""
+
+msgid "You did not specify a user ID. (you may use \"-r\")\n"
+msgstr ""
+
+msgid ""
+"You don't want a passphrase - this is probably a *bad* idea!\n"
+"\n"
+msgstr ""
+
+msgid ""
+"You don't want a passphrase - this is probably a *bad* idea!\n"
+"I will do it anyway.  You can change your passphrase at any time,\n"
+"using this program with the option \"--edit-key\".\n"
+"\n"
+msgstr ""
+
+msgid "You have signed these user IDs on key %s:\n"
+msgstr ""
+
+msgid "You may not add a designated revoker to a PGP 2.x-style key.\n"
+msgstr ""
+
+msgid "You may not add a photo ID to a PGP2-style key.\n"
+msgstr ""
+
+msgid ""
+"You may not make an OpenPGP signature on a PGP 2.x key while in --pgp2 "
+"mode.\n"
+msgstr ""
+
+msgid "You must select at least one key.\n"
+msgstr ""
+
+msgid "You must select at least one user ID.\n"
+msgstr ""
+
+msgid "You must select exactly one key.\n"
+msgstr ""
+
+msgid ""
+"You need a Passphrase to protect your secret key.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"You need a passphrase to unlock the secret key for\n"
+"user: \"%s\"\n"
+msgstr ""
+
+msgid ""
+"You need a passphrase to unlock the secret key for user:\n"
+"\"%.*s\"\n"
+"%u-bit %s key, ID %s, created %s%s\n"
+msgstr ""
+
+msgid ""
+"You selected this USER-ID:\n"
+"    \"%s\"\n"
+"\n"
+msgstr ""
+
+msgid ""
+"You should specify a reason for the certification.  Depending on the\n"
+"context you have the ability to choose from this list:\n"
+"  \"Key has been compromised\"\n"
+"      Use this if you have a reason to believe that unauthorized persons\n"
+"      got access to your secret key.\n"
+"  \"Key is superseded\"\n"
+"      Use this if you have replaced this key with a newer one.\n"
+"  \"Key is no longer used\"\n"
+"      Use this if you have retired this key.\n"
+"  \"User ID is no longer valid\"\n"
+"      Use this to state that the user ID should not longer be used;\n"
+"      this is normally used to mark an email address invalid.\n"
+msgstr ""
+
+msgid ""
+"Your current signature on \"%s\"\n"
+"has expired.\n"
+msgstr ""
+
+msgid ""
+"Your current signature on \"%s\"\n"
+"is a local signature.\n"
+msgstr ""
+
+msgid "Your decision? "
+msgstr ""
+
+msgid "Your selection? "
+msgstr ""
+
+msgid "Your selection? (enter `?' for more information): "
+msgstr ""
+
+msgid ""
+"Your system can't display dates beyond 2038.\n"
+"However, it will be correctly handled up to 2106.\n"
+msgstr ""
+
+msgid "[  full  ]"
+msgstr ""
+
+msgid "[  undef ]"
+msgstr ""
+
+msgid "[ expired]"
+msgstr "[དུས་ཡོལ་ཟིན།]"
+
+msgid "[ revoked]"
+msgstr "[ཕྱིར་བསྡུས་ཟིན།]"
+
+msgid "[ unknown]"
+msgstr "ངེས་མེད།"
+
+msgid "[User ID not found]"
+msgstr ""
+
+msgid "[filename]"
+msgstr ""
+
+msgid "[marginal]"
+msgstr ""
+
+msgid "[not set]"
+msgstr ""
+
+msgid "[revocation]"
+msgstr ""
+
+msgid "[self-signature]"
+msgstr ""
+
+msgid "[ultimate]"
+msgstr ""
+
+msgid "[uncertain]"
+msgstr ""
+
+msgid "`%s' already compressed\n"
+msgstr ""
+
+msgid "`%s' is not a JPEG file\n"
+msgstr ""
+
+msgid "`%s' is not a regular file - ignored\n"
+msgstr ""
+
+msgid "`%s' is not a valid character set\n"
+msgstr ""
+
+msgid "`%s' is not a valid long keyID\n"
+msgstr ""
+
+msgid "`%s' is not a valid signature expiration\n"
+msgstr ""
+
+msgid "about to export an unprotected subkey\n"
+msgstr ""
+
+msgid "access to admin commands is not configured\n"
+msgstr ""
+
+msgid "action `%s' not supported with keyserver scheme `%s'\n"
+msgstr ""
+
+msgid "add a key to a smartcard"
+msgstr ""
+
+msgid "add a photo ID"
+msgstr ""
+
+msgid "add a revocation key"
+msgstr ""
+
+msgid "add a subkey"
+msgstr ""
+
+msgid "add a user ID"
+msgstr ""
+
+msgid "ambiguous option `%s'\n"
+msgstr ""
+
+msgid "anonymous recipient; trying secret key %s ...\n"
+msgstr ""
+
+msgid "armor header: "
+msgstr ""
+
+msgid "armor: %s\n"
+msgstr ""
+
+msgid "assuming %s encrypted data\n"
+msgstr ""
+
+msgid "assuming bad signature from key %s due to an unknown critical bit\n"
+msgstr ""
+
+msgid "assuming signed data in `%s'\n"
+msgstr ""
+
+msgid "automatically retrieve keys when verifying signatures"
+msgstr ""
+
+msgid "automatically retrieved `%s' via %s\n"
+msgstr ""
+
+msgid "bad MPI"
+msgstr ""
+
+msgid "bad URI"
+msgstr ""
+
+msgid "bad certificate"
+msgstr ""
+
+msgid "bad key"
+msgstr ""
+
+msgid "bad passphrase"
+msgstr ""
+
+msgid "bad public key"
+msgstr ""
+
+msgid "bad secret key"
+msgstr ""
+
+msgid "bad signature"
+msgstr ""
+
+msgid "be somewhat more quiet"
+msgstr ""
+
+msgid "binary"
+msgstr "གཉིས་གོང་འགྲིལ་ལུགས།"
+
+msgid "build_packet failed: %s\n"
+msgstr ""
+
+msgid "cC"
+msgstr ""
+
+msgid "caching keyring `%s'\n"
+msgstr ""
+
+msgid "can't access %s - invalid OpenPGP card?\n"
+msgstr ""
+
+msgid "can't access `%s': %s\n"
+msgstr ""
+
+msgid "can't close `%s': %s\n"
+msgstr ""
+
+msgid "can't connect to `%s': %s\n"
+msgstr ""
+
+msgid "can't create `%s': %s\n"
+msgstr ""
+
+msgid "can't create backup file `%s': %s\n"
+msgstr ""
+
+msgid "can't create directory `%s': %s\n"
+msgstr ""
+
+msgid "can't create lock for `%s'\n"
+msgstr ""
+
+msgid "can't disable core dumps: %s\n"
+msgstr ""
+
+msgid "can't do this in batch mode\n"
+msgstr ""
+
+msgid "can't do this in batch mode without \"--yes\"\n"
+msgstr ""
+
+msgid "can't gen prime with pbits=%u qbits=%u\n"
+msgstr ""
+
+msgid "can't generate a prime with less than %d bits\n"
+msgstr ""
+
+msgid "can't handle public key algorithm %d\n"
+msgstr ""
+
+msgid "can't handle text lines longer than %d characters\n"
+msgstr ""
+
+msgid "can't handle this ambiguous signature data\n"
+msgstr ""
+
+msgid "can't lock `%s'\n"
+msgstr ""
+
+msgid "can't lock `%s': %s\n"
+msgstr ""
+
+msgid "can't open `%s'\n"
+msgstr ""
+
+msgid "can't open `%s': %s\n"
+msgstr ""
+
+msgid "can't open signed data `%s'\n"
+msgstr ""
+
+msgid "can't open the keyring"
+msgstr ""
+
+msgid "can't query passphrase in batch mode\n"
+msgstr ""
+
+msgid "can't read `%s': %s\n"
+msgstr ""
+
+msgid "can't stat `%s': %s\n"
+msgstr ""
+
+msgid "can't use a symmetric ESK packet due to the S2K mode\n"
+msgstr ""
+
+msgid "can't write `%s': %s\n"
+msgstr ""
+
+msgid "canceled"
+msgstr "ལེན་པ།"
+
+msgid "cancelled by user\n"
+msgstr ""
+
+msgid "cancel|cancel"
+msgstr ""
+
+msgid "cannot appoint a PGP 2.x style key as a designated revoker\n"
+msgstr ""
+
+msgid "cannot avoid weak key for symmetric cipher; tried %d times!\n"
+msgstr ""
+
+msgid "card does not support digest algorithm %s\n"
+msgstr ""
+
+msgid "card is permanently locked!\n"
+msgstr ""
+
+msgid "card reader not available\n"
+msgstr ""
+
+msgid "card-no: "
+msgstr ""
+
+msgid "change URL to retrieve key"
+msgstr ""
+
+msgid "change a CA fingerprint"
+msgstr ""
+
+msgid "change a card's PIN"
+msgstr ""
+
+msgid "change card holder's name"
+msgstr ""
+
+msgid "change card holder's sex"
+msgstr ""
+
+msgid "change data on a card"
+msgstr ""
+
+msgid "change the expiration date for the key or selected subkeys"
+msgstr ""
+
+msgid "change the language preferences"
+msgstr ""
+
+msgid "change the login name"
+msgstr ""
+
+msgid "change the ownertrust"
+msgstr ""
+
+msgid "change the passphrase"
+msgstr "གསང་ཨང་བཟོ་བཅོས།"
+
+msgid "check signatures"
+msgstr ""
+
+msgid "checking created signature failed: %s\n"
+msgstr ""
+
+msgid "checking the trustdb\n"
+msgstr ""
+
+msgid "checksum error"
+msgstr ""
+
+msgid "cipher algorithm %d%s is unknown or disabled\n"
+msgstr ""
+
+msgid "colon missing"
+msgstr ""
+
+msgid "compact unusable user IDs and remove all signatures from key"
+msgstr ""
+
+msgid "compact unusable user IDs and remove unusable signatures from key"
+msgstr ""
+
+msgid "completes-needed must be greater than 0\n"
+msgstr ""
+
+msgid "conflicting commands\n"
+msgstr ""
+
+msgid "could not parse keyserver URL\n"
+msgstr ""
+
+msgid "create a public key when importing a secret key"
+msgstr ""
+
+msgid "create ascii armored output"
+msgstr ""
+
+msgid "created: %s"
+msgstr ""
+
+msgid "creation timestamp missing\n"
+msgstr ""
+
+msgid "data not saved; use option \"--output\" to save it\n"
+msgstr ""
+
+msgid "dearmoring failed: %s\n"
+msgstr ""
+
+msgid "decrypt data (default)"
+msgstr ""
+
+msgid "decryption failed: %s\n"
+msgstr ""
+
+msgid "decryption okay\n"
+msgstr ""
+
+msgid "delete selected subkeys"
+msgstr ""
+
+msgid "delete selected user IDs"
+msgstr ""
+
+msgid "delete signatures from the selected user IDs"
+msgstr ""
+
+msgid "deleting keyblock failed: %s\n"
+msgstr ""
+
+msgid ""
+"depth: %d  valid: %3d  signed: %3d  trust: %d-, %dq, %dn, %dm, %df, %du\n"
+msgstr ""
+
+msgid "directory `%s' created\n"
+msgstr ""
+
+msgid "disable key"
+msgstr ""
+
+msgid "disabled"
+msgstr "སྤྱོད་འགོག་ཟིན།"
+
+msgid "display photo IDs during key listings"
+msgstr ""
+
+msgid "display photo IDs during signature verification"
+msgstr ""
+
+msgid "do not delete temporary files after using them"
+msgstr ""
+
+msgid "do not make any changes"
+msgstr ""
+
+msgid "do not update the trustdb after import"
+msgstr ""
+
+msgid "elevate the trust of signatures with valid PKA data"
+msgstr ""
+
+msgid "enable key"
+msgstr ""
+
+msgid "enarmoring failed: %s\n"
+msgstr ""
+
+msgid "encrypt data"
+msgstr ""
+
+msgid "encrypted with %lu passphrases\n"
+msgstr ""
+
+msgid "encrypted with %s key, ID %s\n"
+msgstr ""
+
+msgid "encrypted with %u-bit %s key, ID %s, created %s\n"
+msgstr ""
+
+msgid "encrypted with 1 passphrase\n"
+msgstr ""
+
+msgid "encrypted with unknown algorithm %d\n"
+msgstr ""
+
+msgid "encrypting a message in --pgp2 mode requires the IDEA cipher\n"
+msgstr ""
+
+msgid "encryption only with symmetric cipher"
+msgstr ""
+
+msgid "error creating `%s': %s\n"
+msgstr ""
+
+msgid "error creating keyring `%s': %s\n"
+msgstr ""
+
+msgid "error creating passphrase: %s\n"
+msgstr ""
+
+msgid "error finding trust record in `%s': %s\n"
+msgstr ""
+
+msgid "error getting current key info: %s\n"
+msgstr ""
+
+msgid "error getting new PIN: %s\n"
+msgstr ""
+
+msgid "error in `%s': %s\n"
+msgstr ""
+
+msgid "error in trailer line\n"
+msgstr ""
+
+msgid "error reading `%s': %s\n"
+msgstr ""
+
+msgid "error reading application data\n"
+msgstr ""
+
+msgid "error reading fingerprint DO\n"
+msgstr ""
+
+msgid "error reading keyblock: %s\n"
+msgstr ""
+
+msgid "error reading secret keyblock \"%s\": %s\n"
+msgstr ""
+
+msgid "error retrieving CHV status from card\n"
+msgstr ""
+
+msgid "error writing keyring `%s': %s\n"
+msgstr ""
+
+msgid "error writing public keyring `%s': %s\n"
+msgstr ""
+
+msgid "error writing secret keyring `%s': %s\n"
+msgstr ""
+
+msgid "existing key will be replaced\n"
+msgstr ""
+
+msgid "expired"
+msgstr "དུས་ཚོད་ཡོལ་ཟིན་པ།"
+
+msgid "expired: %s"
+msgstr ""
+
+msgid "expires: %s"
+msgstr ""
+
+msgid "export attribute user IDs (generally photo IDs)"
+msgstr ""
+
+msgid "export keys"
+msgstr ""
+
+msgid "export keys to a key server"
+msgstr ""
+
+msgid "export revocation keys marked as \"sensitive\""
+msgstr ""
+
+msgid "export signatures that are marked as local-only"
+msgstr ""
+
+msgid "exporting secret keys not allowed\n"
+msgstr ""
+
+msgid "external keyserver calls are not supported in this build\n"
+msgstr ""
+
+msgid ""
+"external program calls are disabled due to unsafe options file permissions\n"
+msgstr ""
+
+msgid "failed to initialize the TrustDB: %s\n"
+msgstr ""
+
+msgid "failed to rebuild keyring cache: %s\n"
+msgstr ""
+
+msgid "failed to store the creation date: %s\n"
+msgstr ""
+
+msgid "failed to store the fingerprint: %s\n"
+msgstr ""
+
+msgid "failed to store the key: %s\n"
+msgstr ""
+
+msgid "failed to unprotect the subkey: %s\n"
+msgstr ""
+
+msgid "female"
+msgstr "བུད་མེད།"
+
+msgid "fetch the key specified in the card URL"
+msgstr ""
+
+msgid "file close error"
+msgstr "ཡིག་ཆ་ཁ་རྒྱག་པའི་ནོར་འཁྲུལ།"
+
+msgid "file create error"
+msgstr ""
+
+msgid "file delete error"
+msgstr ""
+
+msgid "file exists"
+msgstr "ཡིག་ཆ་གནས་ཟིན་པ།"
+
+msgid "file open error"
+msgstr ""
+
+msgid "file read error"
+msgstr ""
+
+msgid "file rename error"
+msgstr ""
+
+msgid "file write error"
+msgstr "ཡིག་ཆ་འབྲི་འཇུག་ནོར་འཁྲུལ།"
+
+msgid "flag the selected user ID as primary"
+msgstr ""
+
+msgid "forced"
+msgstr ""
+
+msgid "forcing symmetric cipher %s (%d) violates recipient preferences\n"
+msgstr ""
+
+msgid "fstat of `%s' failed in %s: %s\n"
+msgstr ""
+
+msgid "fstat(%d) failed in %s: %s\n"
+msgstr ""
+
+msgid "full"
+msgstr "ཆ་ཚང།"
+
+msgid "general error"
+msgstr ""
+
+msgid "generate PGP 2.x compatible messages"
+msgstr ""
+
+msgid "generate a new key pair"
+msgstr ""
+
+msgid "generate a revocation certificate"
+msgstr ""
+
+msgid "generate new keys"
+msgstr ""
+
+msgid "generating key failed\n"
+msgstr ""
+
+msgid "generating new key\n"
+msgstr ""
+
+msgid "generating the deprecated 16-bit checksum for secret key protection\n"
+msgstr ""
+
+msgid "gpg-agent is not available in this session\n"
+msgstr ""
+
+msgid "gpg-agent protocol version %d is not supported\n"
+msgstr ""
+
+msgid "honor the PKA record set on a key when retrieving keys"
+msgstr ""
+
+msgid "honor the preferred keyserver URL set on the key"
+msgstr ""
+
+msgid "iImMqQsS"
+msgstr ""
+
+msgid "import keys from a key server"
+msgstr ""
+
+msgid "import signatures that are marked as local-only"
+msgstr ""
+
+msgid "import/merge keys"
+msgstr ""
+
+msgid "importing secret keys not allowed\n"
+msgstr ""
+
+msgid "include revoked keys in search results"
+msgstr ""
+
+msgid "include subkeys when searching by key ID"
+msgstr ""
+
+msgid "input line %u too long or missing LF\n"
+msgstr ""
+
+msgid "input line longer than %d characters\n"
+msgstr ""
+
+msgid "invalid"
+msgstr "ནུས་མེད།"
+
+msgid "invalid S2K mode; must be 0, 1 or 3\n"
+msgstr ""
+
+msgid "invalid argument"
+msgstr "ནུས་མེད་ཀྱི་ཞུགས་གྲངས།"
+
+msgid "invalid armor"
+msgstr ""
+
+msgid "invalid armor header: "
+msgstr ""
+
+msgid "invalid armor: line longer than %d characters\n"
+msgstr ""
+
+msgid "invalid auto-key-locate list\n"
+msgstr ""
+
+msgid "invalid clearsig header\n"
+msgstr ""
+
+msgid "invalid dash escaped line: "
+msgstr ""
+
+msgid "invalid default preferences\n"
+msgstr ""
+
+msgid "invalid default-cert-level; must be 0, 1, 2, or 3\n"
+msgstr ""
+
+msgid "invalid export options\n"
+msgstr ""
+
+msgid "invalid fingerprint"
+msgstr ""
+
+msgid "invalid hash algorithm `%s'\n"
+msgstr ""
+
+msgid "invalid import options\n"
+msgstr ""
+
+msgid "invalid item `%s' in preference string\n"
+msgstr ""
+
+msgid "invalid keyring"
+msgstr ""
+
+msgid "invalid keyserver options\n"
+msgstr ""
+
+msgid "invalid keyserver protocol (us %d!=handler %d)\n"
+msgstr ""
+
+msgid "invalid list options\n"
+msgstr ""
+
+msgid "invalid min-cert-level; must be 1, 2, or 3\n"
+msgstr ""
+
+msgid "invalid packet"
+msgstr ""
+
+msgid "invalid passphrase"
+msgstr ""
+
+msgid "invalid personal cipher preferences\n"
+msgstr ""
+
+msgid "invalid personal compress preferences\n"
+msgstr ""
+
+msgid "invalid personal digest preferences\n"
+msgstr ""
+
+msgid "invalid radix64 character %02X skipped\n"
+msgstr ""
+
+msgid "invalid root packet detected in proc_tree()\n"
+msgstr ""
+
+msgid "invalid structure of OpenPGP card (DO 0x93)\n"
+msgstr ""
+
+msgid "invalid value\n"
+msgstr ""
+
+msgid "invalid verify options\n"
+msgstr ""
+
+msgid "it is strongly suggested that you update your preferences and\n"
+msgstr ""
+
+msgid "key \"%s\" not found on keyserver\n"
+msgstr ""
+
+msgid "key \"%s\" not found: %s\n"
+msgstr ""
+
+msgid "key %s has no user IDs\n"
+msgstr ""
+
+msgid "key %s marked as ultimately trusted\n"
+msgstr ""
+
+msgid "key %s occurs more than once in the trustdb\n"
+msgstr ""
+
+msgid ""
+"key %s was created %lu second in the future (time warp or clock problem)\n"
+msgstr ""
+
+msgid ""
+"key %s was created %lu seconds in the future (time warp or clock problem)\n"
+msgstr ""
+
+msgid "key %s: \"%s\" %d new signatures\n"
+msgstr ""
+
+msgid "key %s: \"%s\" %d new subkeys\n"
+msgstr ""
+
+msgid "key %s: \"%s\" %d new user IDs\n"
+msgstr ""
+
+msgid "key %s: \"%s\" %d signature cleaned\n"
+msgstr ""
+
+msgid "key %s: \"%s\" %d signatures cleaned\n"
+msgstr ""
+
+msgid "key %s: \"%s\" %d user ID cleaned\n"
+msgstr ""
+
+msgid "key %s: \"%s\" %d user IDs cleaned\n"
+msgstr ""
+
+msgid "key %s: \"%s\" 1 new signature\n"
+msgstr ""
+
+msgid "key %s: \"%s\" 1 new subkey\n"
+msgstr ""
+
+msgid "key %s: \"%s\" 1 new user ID\n"
+msgstr ""
+
+msgid "key %s: \"%s\" not changed\n"
+msgstr ""
+
+msgid "key %s: \"%s\" revocation certificate added\n"
+msgstr ""
+
+msgid "key %s: \"%s\" revocation certificate imported\n"
+msgstr ""
+
+msgid "key %s: PGP 2.x style key - skipped\n"
+msgstr ""
+
+msgid "key %s: PKS subkey corruption repaired\n"
+msgstr ""
+
+msgid "key %s: accepted as trusted key\n"
+msgstr ""
+
+msgid "key %s: accepted non self-signed user ID \"%s\"\n"
+msgstr ""
+
+msgid "key %s: already in secret keyring\n"
+msgstr ""
+
+msgid "key %s: can't locate original keyblock: %s\n"
+msgstr ""
+
+msgid "key %s: can't read original keyblock: %s\n"
+msgstr ""
+
+msgid "key %s: direct key signature added\n"
+msgstr ""
+
+msgid "key %s: doesn't match our copy\n"
+msgstr ""
+
+msgid "key %s: duplicated user ID detected - merged\n"
+msgstr ""
+
+msgid "key %s: invalid revocation certificate: %s - rejected\n"
+msgstr ""
+
+msgid "key %s: invalid revocation certificate: %s - skipped\n"
+msgstr ""
+
+msgid "key %s: invalid self-signature on user ID \"%s\"\n"
+msgstr ""
+
+msgid "key %s: invalid subkey binding\n"
+msgstr ""
+
+msgid "key %s: invalid subkey revocation\n"
+msgstr ""
+
+msgid "key %s: key material on-card - skipped\n"
+msgstr ""
+
+msgid "key %s: new key - skipped\n"
+msgstr ""
+
+msgid "key %s: no public key - can't apply revocation certificate\n"
+msgstr ""
+
+msgid "key %s: no public key for trusted key - skipped\n"
+msgstr ""
+
+msgid "key %s: no subkey for key binding\n"
+msgstr ""
+
+msgid "key %s: no subkey for key revocation\n"
+msgstr ""
+
+msgid "key %s: no subkey for subkey binding signature\n"
+msgstr ""
+
+msgid "key %s: no subkey for subkey revocation signature\n"
+msgstr ""
+
+msgid "key %s: no user ID\n"
+msgstr ""
+
+msgid "key %s: no user ID for signature\n"
+msgstr ""
+
+msgid "key %s: no valid user IDs\n"
+msgstr ""
+
+msgid "key %s: non exportable signature (class 0x%02X) - skipped\n"
+msgstr ""
+
+msgid "key %s: not protected - skipped\n"
+msgstr ""
+
+msgid "key %s: public key \"%s\" imported\n"
+msgstr ""
+
+msgid "key %s: public key not found: %s\n"
+msgstr ""
+
+msgid "key %s: removed multiple subkey binding\n"
+msgstr ""
+
+msgid "key %s: removed multiple subkey revocation\n"
+msgstr ""
+
+msgid "key %s: revocation certificate at wrong place - skipped\n"
+msgstr ""
+
+msgid "key %s: secret key imported\n"
+msgstr ""
+
+msgid "key %s: secret key not found: %s\n"
+msgstr ""
+
+msgid "key %s: secret key with invalid cipher %d - skipped\n"
+msgstr ""
+
+msgid "key %s: secret key without public key - skipped\n"
+msgstr ""
+
+msgid "key %s: skipped subkey\n"
+msgstr ""
+
+msgid "key %s: skipped user ID \"%s\"\n"
+msgstr ""
+
+msgid "key %s: subkey signature in wrong place - skipped\n"
+msgstr ""
+
+msgid "key %s: unexpected signature class (0x%02X) - skipped\n"
+msgstr ""
+
+msgid "key %s: unsupported public key algorithm\n"
+msgstr ""
+
+msgid "key %s: unsupported public key algorithm on user ID \"%s\"\n"
+msgstr ""
+
+msgid "key already exists\n"
+msgstr ""
+
+msgid "key export failed: %s\n"
+msgstr ""
+
+msgid "key generation completed (%d seconds)\n"
+msgstr ""
+
+msgid "key has been created %lu second in future (time warp or clock problem)\n"
+msgstr ""
+
+msgid ""
+"key has been created %lu seconds in future (time warp or clock problem)\n"
+msgstr ""
+
+msgid "key is not flagged as insecure - can't use it with the faked RNG!\n"
+msgstr ""
+
+msgid "key not found on keyserver\n"
+msgstr ""
+
+msgid "key operation not possible: %s\n"
+msgstr ""
+
+msgid "keyblock resource `%s': %s\n"
+msgstr ""
+
+msgid "keyring `%s' created\n"
+msgstr ""
+
+msgid "keyserver communications error: %s\n"
+msgstr ""
+
+msgid "keyserver did not send VERSION\n"
+msgstr ""
+
+msgid "keyserver error"
+msgstr ""
+
+msgid "keyserver internal error\n"
+msgstr ""
+
+msgid "keyserver receive failed: %s\n"
+msgstr ""
+
+msgid "keyserver refresh failed: %s\n"
+msgstr ""
+
+msgid "keyserver search failed: %s\n"
+msgstr ""
+
+msgid "keyserver send failed: %s\n"
+msgstr ""
+
+msgid "keyserver timed out\n"
+msgstr ""
+
+msgid "keysize invalid; using %u bits\n"
+msgstr ""
+
+msgid "keysize rounded up to %u bits\n"
+msgstr ""
+
+msgid "line too long"
+msgstr ""
+
+msgid "list all available data"
+msgstr ""
+
+msgid "list and check key signatures"
+msgstr ""
+
+msgid "list key and user IDs"
+msgstr ""
+
+msgid "list keys"
+msgstr ""
+
+msgid "list keys and fingerprints"
+msgstr ""
+
+msgid "list keys and signatures"
+msgstr ""
+
+msgid "list preferences (expert)"
+msgstr ""
+
+msgid "list preferences (verbose)"
+msgstr ""
+
+msgid "list secret keys"
+msgstr ""
+
+msgid "make a detached signature"
+msgstr ""
+
+msgid "make timestamp conflicts only a warning"
+msgstr ""
+
+msgid "make_keysig_packet failed: %s\n"
+msgstr ""
+
+msgid "male"
+msgstr "ཕོ།"
+
+msgid "malformed CRC\n"
+msgstr ""
+
+msgid "malformed GPG_AGENT_INFO environment variable\n"
+msgstr ""
+
+msgid "malformed user id"
+msgstr ""
+
+msgid "marginal"
+msgstr ""
+
+msgid "marginals-needed must be greater than 1\n"
+msgstr ""
+
+msgid "max-cert-depth must be in the range from 1 to 255\n"
+msgstr ""
+
+msgid "menu to change or unblock the PIN"
+msgstr ""
+
+msgid "move a backup key to a smartcard"
+msgstr ""
+
+msgid "move a key to a smartcard"
+msgstr ""
+
+msgid "moving a key signature to the correct place\n"
+msgstr ""
+
+msgid "nN"
+msgstr ""
+
+msgid "nested clear text signatures\n"
+msgstr ""
+
+msgid "network error"
+msgstr "དྲ་རྒྱའི་ནོར་འཁྲུལ"
+
+msgid "never"
+msgstr "བརྟན་ནས།"
+
+msgid "never     "
+msgstr ""
+
+msgid "new configuration file `%s' created\n"
+msgstr ""
+
+msgid "next trustdb check due at %s\n"
+msgstr ""
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "no = sign found in group definition `%s'\n"
+msgstr ""
+
+msgid "no card"
+msgstr ""
+
+msgid "no corresponding public key: %s\n"
+msgstr ""
+
+msgid "no data"
+msgstr "གཞི་གྲངས་མེད།"
+
+msgid "no default secret keyring: %s\n"
+msgstr ""
+
+msgid "no entropy gathering module detected\n"
+msgstr ""
+
+msgid "no handler for keyserver scheme `%s'\n"
+msgstr ""
+
+msgid "no keyserver action!\n"
+msgstr ""
+
+msgid "no keyserver known (use option --keyserver)\n"
+msgstr ""
+
+msgid "no need for a trustdb check\n"
+msgstr ""
+
+msgid "no need for a trustdb check with `%s' trust model\n"
+msgstr ""
+
+msgid "no need for a trustdb update with `%s' trust model\n"
+msgstr ""
+
+msgid "no photo viewer set\n"
+msgstr ""
+
+msgid "no remote program execution supported\n"
+msgstr ""
+
+msgid "no revocation keys found for \"%s\"\n"
+msgstr ""
+
+msgid "no secret key\n"
+msgstr ""
+
+msgid "no secret subkey for public subkey %s - ignoring\n"
+msgstr ""
+
+msgid "no signature found\n"
+msgstr ""
+
+msgid "no signed data\n"
+msgstr ""
+
+msgid "no such user id"
+msgstr ""
+
+msgid "no ultimately trusted keys found\n"
+msgstr ""
+
+msgid "no valid OpenPGP data found.\n"
+msgstr ""
+
+msgid "no valid addressees\n"
+msgstr ""
+
+msgid "no writable keyring found: %s\n"
+msgstr ""
+
+msgid "no writable public keyring found: %s\n"
+msgstr ""
+
+msgid "no writable secret keyring found: %s\n"
+msgstr ""
+
+msgid "not a detached signature\n"
+msgstr ""
+
+msgid "not an OpenPGP card"
+msgstr ""
+
+msgid "not encrypted"
+msgstr ""
+
+msgid "not forced"
+msgstr ""
+
+msgid "not processed"
+msgstr ""
+
+msgid "not supported"
+msgstr ""
+
+msgid "note: random_seed file is empty\n"
+msgstr ""
+
+msgid "note: random_seed file not updated\n"
+msgstr ""
+
+msgid "oO"
+msgstr ""
+
+msgid "okay, we are the anonymous recipient.\n"
+msgstr ""
+
+msgid "okay|okay"
+msgstr ""
+
+msgid "old encoding of the DEK is not supported\n"
+msgstr ""
+
+msgid "old style (PGP 2.x) signature\n"
+msgstr ""
+
+msgid "only accept updates to existing keys"
+msgstr ""
+
+msgid "operation is not possible without initialized secure memory\n"
+msgstr ""
+
+msgid "option file `%s': %s\n"
+msgstr ""
+
+msgid "original file name='%.*s'\n"
+msgstr ""
+
+msgid "ownertrust information cleared\n"
+msgstr ""
+
+msgid "ownertrust value missing"
+msgstr ""
+
+msgid "passphrase generated with unknown digest algorithm %d\n"
+msgstr ""
+
+msgid "passphrase not correctly repeated; try again"
+msgstr ""
+
+msgid "please do a --check-trustdb\n"
+msgstr ""
+
+msgid "please enter an optional but highly suggested email address"
+msgstr ""
+
+msgid "please see %s for more information\n"
+msgstr ""
+
+msgid ""
+"please see http://www.gnupg.org/documentation/faqs.html for more "
+"information\n"
+msgstr ""
+
+msgid "please use \"%s%s\" instead\n"
+msgstr ""
+
+msgid "please wait while key is being generated ...\n"
+msgstr ""
+
+msgid "preference `%s' duplicated\n"
+msgstr ""
+
+msgid "premature eof (in CRC)\n"
+msgstr ""
+
+msgid "premature eof (in trailer)\n"
+msgstr ""
+
+msgid "premature eof (no CRC)\n"
+msgstr ""
+
+msgid "print the card status"
+msgstr ""
+
+msgid "problem handling encrypted packet\n"
+msgstr ""
+
+msgid "problem with the agent - disabling agent use\n"
+msgstr ""
+
+msgid "prompt before overwriting"
+msgstr ""
+
+msgid "protection algorithm %d%s is not supported\n"
+msgstr ""
+
+msgid "protection digest %d is not supported\n"
+msgstr ""
+
+msgid "public and secret key created and signed.\n"
+msgstr ""
+
+msgid "public key %s is %lu second newer than the signature\n"
+msgstr ""
+
+msgid "public key %s is %lu seconds newer than the signature\n"
+msgstr ""
+
+msgid "public key %s not found: %s\n"
+msgstr ""
+
+msgid "public key decryption failed: %s\n"
+msgstr ""
+
+msgid "public key does not match secret key!\n"
+msgstr ""
+
+msgid "public key encrypted data: good DEK\n"
+msgstr ""
+
+msgid "public key is %s\n"
+msgstr ""
+
+msgid "public key not found"
+msgstr ""
+
+msgid "public key of ultimately trusted key %s not found\n"
+msgstr ""
+
+msgid "qQ"
+msgstr ""
+
+msgid "quit"
+msgstr ""
+
+msgid "quit this menu"
+msgstr ""
+
+msgid ""
+"quoted printable character in armor - probably a buggy MTA has been used\n"
+msgstr ""
+
+msgid "re-distribute this key to avoid potential algorithm mismatch problems\n"
+msgstr ""
+
+msgid "read error in `%s': %s\n"
+msgstr ""
+
+msgid "reading from `%s'\n"
+msgstr ""
+
+msgid "reading options from `%s'\n"
+msgstr ""
+
+msgid "reading public key failed: %s\n"
+msgstr ""
+
+msgid "reading stdin ...\n"
+msgstr ""
+
+msgid "reason for revocation: "
+msgstr ""
+
+msgid "refreshing %d keys from %s\n"
+msgstr ""
+
+msgid "refreshing 1 key from %s\n"
+msgstr ""
+
+msgid "remove as much as possible from key after import"
+msgstr ""
+
+msgid "remove as much as possible from key during export"
+msgstr ""
+
+msgid "remove keys from the public keyring"
+msgstr ""
+
+msgid "remove keys from the secret keyring"
+msgstr ""
+
+msgid "remove the passphrase from exported subkeys"
+msgstr ""
+
+msgid "remove unusable parts from key after import"
+msgstr ""
+
+msgid "remove unusable parts from key during export"
+msgstr ""
+
+msgid "renaming `%s' to `%s' failed: %s\n"
+msgstr ""
+
+msgid "repair damage from the pks keyserver during import"
+msgstr ""
+
+msgid "requesting key %s from %s\n"
+msgstr ""
+
+msgid "requesting key %s from %s server %s\n"
+msgstr ""
+
+msgid "resource limit"
+msgstr ""
+
+msgid "response does not contain the RSA modulus\n"
+msgstr ""
+
+msgid "response does not contain the RSA public exponent\n"
+msgstr ""
+
+msgid "response does not contain the public key data\n"
+msgstr ""
+
+msgid "revocation comment: "
+msgstr ""
+
+msgid "revoke key or selected subkeys"
+msgstr ""
+
+msgid "revoke selected user IDs"
+msgstr ""
+
+msgid "revoke signatures on the selected user IDs"
+msgstr ""
+
+msgid "revoked"
+msgstr "རྩིས་མེད་བཏང་ཟིན་པ།"
+
+msgid "revoked by your key %s on %s\n"
+msgstr ""
+
+msgid "revoked: %s"
+msgstr ""
+
+msgid "rounded up to %u bits\n"
+msgstr ""
+
+msgid "save and quit"
+msgstr ""
+
+msgid "search for keys on a key server"
+msgstr ""
+
+msgid "searching for \"%s\" from %s\n"
+msgstr ""
+
+msgid "searching for \"%s\" from %s server %s\n"
+msgstr ""
+
+msgid "searching for names from %s\n"
+msgstr ""
+
+msgid "searching for names from %s server %s\n"
+msgstr ""
+
+msgid "secret key \"%s\" not found: %s\n"
+msgstr ""
+
+msgid "secret key already stored on a card\n"
+msgstr ""
+
+msgid "secret key not available"
+msgstr ""
+
+msgid "secret key parts are not available\n"
+msgstr ""
+
+msgid "secret parts of key are not available\n"
+msgstr ""
+
+msgid "select subkey N"
+msgstr ""
+
+msgid "select user ID N"
+msgstr ""
+
+msgid "selected certification digest algorithm is invalid\n"
+msgstr ""
+
+msgid "selected cipher algorithm is invalid\n"
+msgstr ""
+
+msgid "selected compression algorithm is invalid\n"
+msgstr ""
+
+msgid "selected digest algorithm is invalid\n"
+msgstr ""
+
+msgid "selecting openpgp failed: %s\n"
+msgstr ""
+
+msgid "sending key %s to %s\n"
+msgstr ""
+
+msgid "sending key %s to %s server %s\n"
+msgstr ""
+
+msgid "set a notation for the selected user IDs"
+msgstr ""
+
+msgid "set preference list for the selected user IDs"
+msgstr ""
+
+msgid "set the preferred keyserver URL for the selected user IDs"
+msgstr ""
+
+msgid "show IETF standard notations during signature listings"
+msgstr ""
+
+msgid "show IETF standard notations during signature verification"
+msgstr ""
+
+msgid "show admin commands"
+msgstr ""
+
+msgid "show all notations during signature listings"
+msgstr ""
+
+msgid "show all notations during signature verification"
+msgstr ""
+
+msgid "show expiration dates during signature listings"
+msgstr ""
+
+msgid "show key fingerprint"
+msgstr ""
+
+msgid "show only the primary user ID in signature verification"
+msgstr ""
+
+msgid "show policy URLs during signature listings"
+msgstr ""
+
+msgid "show policy URLs during signature verification"
+msgstr ""
+
+msgid "show preferred keyserver URLs during signature listings"
+msgstr ""
+
+msgid "show preferred keyserver URLs during signature verification"
+msgstr ""
+
+msgid "show revoked and expired subkeys in key listings"
+msgstr ""
+
+msgid "show revoked and expired user IDs in key listings"
+msgstr ""
+
+msgid "show revoked and expired user IDs in signature verification"
+msgstr ""
+
+msgid "show selected photo IDs"
+msgstr ""
+
+msgid "show the keyring name in key listings"
+msgstr ""
+
+msgid "show this help"
+msgstr ""
+
+msgid "show user ID validity during key listings"
+msgstr ""
+
+msgid "show user ID validity during signature verification"
+msgstr ""
+
+msgid "show user-supplied notations during signature listings"
+msgstr ""
+
+msgid "show user-supplied notations during signature verification"
+msgstr ""
+
+msgid "sign a key"
+msgstr ""
+
+msgid "sign a key locally"
+msgstr ""
+
+msgid "sign or edit a key"
+msgstr ""
+
+msgid "sign selected user IDs [* see below for related commands]"
+msgstr ""
+
+msgid "sign selected user IDs locally"
+msgstr ""
+
+msgid "sign selected user IDs with a non-revocable signature"
+msgstr ""
+
+msgid "sign selected user IDs with a trust signature"
+msgstr ""
+
+msgid "signature verification suppressed\n"
+msgstr ""
+
+msgid "signatures created so far: %lu\n"
+msgstr ""
+
+msgid "signed by your key %s on %s%s%s\n"
+msgstr ""
+
+msgid "signing failed: %s\n"
+msgstr ""
+
+msgid "signing subkey %s is already cross-certified\n"
+msgstr ""
+
+msgid "signing:"
+msgstr ""
+
+msgid "skipped \"%s\": %s\n"
+msgstr ""
+
+msgid "skipped \"%s\": duplicated\n"
+msgstr ""
+
+msgid "skipped: public key already set\n"
+msgstr ""
+
+msgid "skipped: public key already set as default recipient\n"
+msgstr ""
+
+msgid "skipped: secret key already present\n"
+msgstr ""
+
+msgid "skipping block of type %d\n"
+msgstr ""
+
+msgid "skipping v3 self-signature on user ID \"%s\"\n"
+msgstr ""
+
+msgid "standalone revocation - use \"gpg --import\" to apply\n"
+msgstr ""
+
+msgid "standalone signature of class 0x%02x\n"
+msgstr ""
+
+msgid "storing key onto card failed: %s\n"
+msgstr ""
+
+msgid "subkey %s does not sign and so does not need to be cross-certified\n"
+msgstr ""
+
+msgid "subpacket of type %d has critical bit set\n"
+msgstr ""
+
+msgid "symmetric encryption of `%s' failed: %s\n"
+msgstr ""
+
+msgid "system error while calling external program: %s\n"
+msgstr ""
+
+msgid "take the keys from this keyring"
+msgstr ""
+
+msgid "textmode"
+msgstr "ཡིག་དེབ་རྣམ་པ།"
+
+msgid "the given certification policy URL is invalid\n"
+msgstr ""
+
+msgid "the given preferred keyserver URL is invalid\n"
+msgstr ""
+
+msgid "the given signature policy URL is invalid\n"
+msgstr ""
+
+msgid ""
+"the signature could not be verified.\n"
+"Please remember that the signature file (.sig or .asc)\n"
+"should be the first file given on the command line.\n"
+msgstr ""
+
+msgid "there is a secret key for public key \"%s\"!\n"
+msgstr ""
+
+msgid ""
+"this is a PGP generated Elgamal key which is not secure for signatures!"
+msgstr ""
+
+msgid "this key has already been designated as a revoker\n"
+msgstr ""
+
+msgid "this may be caused by a missing self-signature\n"
+msgstr ""
+
+msgid "this message may not be usable by %s\n"
+msgstr ""
+
+msgid "this platform requires temporary files when calling external programs\n"
+msgstr ""
+
+msgid "timestamp conflict"
+msgstr ""
+
+msgid "toggle between the secret and public key listings"
+msgstr ""
+
+msgid "toggle the signature force PIN flag"
+msgstr ""
+
+msgid "too many cipher preferences\n"
+msgstr ""
+
+msgid "too many compression preferences\n"
+msgstr ""
+
+msgid "too many digest preferences\n"
+msgstr ""
+
+msgid "too many entries in pk cache - disabled\n"
+msgstr ""
+
+msgid "trust database error"
+msgstr ""
+
+msgid "trust record %lu is not of requested type %d\n"
+msgstr ""
+
+msgid "trust record %lu, req type %d: read failed: %s\n"
+msgstr ""
+
+msgid "trust record %lu, type %d: write failed: %s\n"
+msgstr ""
+
+msgid "trust: %s"
+msgstr ""
+
+msgid "trustdb rec %lu: lseek failed: %s\n"
+msgstr ""
+
+msgid "trustdb rec %lu: write failed (n=%d): %s\n"
+msgstr ""
+
+msgid "trustdb transaction too large\n"
+msgstr ""
+
+msgid "trustdb: lseek failed: %s\n"
+msgstr ""
+
+msgid "trustdb: read failed (n=%d): %s\n"
+msgstr ""
+
+msgid "trustdb: sync failed: %s\n"
+msgstr ""
+
+msgid "trustlevel adjusted to FULL due to valid PKA info\n"
+msgstr ""
+
+msgid "trustlevel adjusted to NEVER due to bad PKA info\n"
+msgstr ""
+
+msgid "ultimate"
+msgstr ""
+
+msgid "unable to display photo ID!\n"
+msgstr ""
+
+msgid "unable to execute external program\n"
+msgstr ""
+
+msgid "unable to execute program `%s': %s\n"
+msgstr ""
+
+msgid "unable to execute shell `%s': %s\n"
+msgstr ""
+
+msgid "unable to open JPEG file `%s': %s\n"
+msgstr ""
+
+msgid "unable to read external program response: %s\n"
+msgstr ""
+
+msgid "unable to set exec-path to %s\n"
+msgstr ""
+
+msgid "unable to update trustdb version record: write failed: %s\n"
+msgstr ""
+
+msgid ""
+"unable to use the IDEA cipher for all of the keys you are encrypting to.\n"
+msgstr ""
+
+msgid "unable to use unknown trust model (%d) - assuming %s trust model\n"
+msgstr ""
+
+msgid "uncompressed|none"
+msgstr ""
+
+msgid "undefined"
+msgstr "མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "unexpected armor: "
+msgstr ""
+
+msgid "unexpected data"
+msgstr ""
+
+msgid "unimplemented cipher algorithm"
+msgstr ""
+
+msgid "unimplemented pubkey algorithm"
+msgstr ""
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "unknown armor header: "
+msgstr ""
+
+msgid "unknown cipher algorithm"
+msgstr ""
+
+msgid "unknown compress algorithm"
+msgstr ""
+
+msgid "unknown configuration item `%s'\n"
+msgstr ""
+
+msgid "unknown default recipient \"%s\"\n"
+msgstr ""
+
+msgid "unknown digest algorithm"
+msgstr ""
+
+msgid "unknown key protection algorithm\n"
+msgstr ""
+
+msgid "unknown option `%s'\n"
+msgstr ""
+
+msgid "unknown packet type"
+msgstr ""
+
+msgid "unknown protection algorithm\n"
+msgstr ""
+
+msgid "unknown pubkey algorithm"
+msgstr ""
+
+msgid "unknown signature class"
+msgstr ""
+
+msgid "unknown version"
+msgstr "མི་ཤེས་པའི་པར་གཞི།"
+
+msgid "unnatural exit of external program\n"
+msgstr ""
+
+msgid "unspecified"
+msgstr "མཚན་ཉིད་བཞག་མེད་པ།"
+
+msgid "unsupported URI"
+msgstr ""
+
+msgid "unusable pubkey algorithm"
+msgstr ""
+
+msgid "unusable public key"
+msgstr ""
+
+msgid "unusable secret key"
+msgstr ""
+
+msgid "update all keys from a keyserver"
+msgstr ""
+
+msgid "update failed: %s\n"
+msgstr ""
+
+msgid "update secret failed: %s\n"
+msgstr ""
+
+msgid "update the trust database"
+msgstr ""
+
+msgid "usage: %s"
+msgstr ""
+
+msgid "usage: gpg [options] "
+msgstr ""
+
+msgid "use as output file"
+msgstr ""
+
+msgid "use canonical text mode"
+msgstr ""
+
+msgid "use option \"--delete-secret-keys\" to delete it first.\n"
+msgstr ""
+
+msgid "use strict OpenPGP behavior"
+msgstr ""
+
+msgid "use temporary files to pass data to keyserver helpers"
+msgstr ""
+
+msgid "use this user-id to sign or decrypt"
+msgstr ""
+
+msgid "user ID \"%s\" is already revoked\n"
+msgstr ""
+
+msgid "user ID: \"%s\"\n"
+msgstr ""
+
+msgid "using %s trust model\n"
+msgstr ""
+
+msgid "using cipher %s\n"
+msgstr ""
+
+msgid "using subkey %s instead of primary key %s\n"
+msgstr ""
+
+msgid "validate signatures with PKA data"
+msgstr ""
+
+msgid "validity: %s"
+msgstr ""
+
+msgid "verbose"
+msgstr ""
+
+msgid "verification of Admin PIN is currently prohibited through this command\n"
+msgstr ""
+
+msgid "verify CHV%d failed: %s\n"
+msgstr ""
+
+msgid "verify a signature"
+msgstr ""
+
+msgid "verify the PIN and list all data"
+msgstr ""
+
+msgid "waiting for lock on `%s'...\n"
+msgstr ""
+
+msgid "weak key"
+msgstr ""
+
+msgid "weak key created - retrying\n"
+msgstr ""
+
+msgid "weird size for an encrypted session key (%d)\n"
+msgstr ""
+
+msgid "will not run with insecure memory due to %s\n"
+msgstr ""
+
+msgid "writing direct signature\n"
+msgstr ""
+
+msgid "writing key binding signature\n"
+msgstr ""
+
+msgid "writing public key to `%s'\n"
+msgstr ""
+
+msgid "writing secret key stub to `%s'\n"
+msgstr ""
+
+msgid "writing secret key to `%s'\n"
+msgstr ""
+
+msgid "writing self signature\n"
+msgstr ""
+
+msgid "writing to `%s'\n"
+msgstr ""
+
+msgid "writing to stdout\n"
+msgstr ""
+
+msgid "wrong secret key used"
+msgstr ""
+
+msgid "yY"
+msgstr ""
+
+msgid "yes"
+msgstr "ཡིན།"
+
+msgid "you can only clearsign with PGP 2.x style keys while in --pgp2 mode\n"
+msgstr ""
+
+msgid "you can only detach-sign with PGP 2.x style keys while in --pgp2 mode\n"
+msgstr ""
+
+msgid "you can only encrypt to RSA keys of 2048 bits or less in --pgp2 mode\n"
+msgstr ""
+
+msgid "you can only make detached or clear signatures while in --pgp2 mode\n"
+msgstr ""
+
+msgid "you can update your preferences with: gpg --edit-key %s updpref save\n"
+msgstr ""
+
+msgid "you can't sign and encrypt at the same time while in --pgp2 mode\n"
+msgstr ""
+
+msgid "you cannot appoint a key as its own designated revoker\n"
+msgstr ""
+
+msgid "you cannot use --symmetric --encrypt while in %s mode\n"
+msgstr ""
+
+msgid "you cannot use --symmetric --encrypt with --s2k-mode 0\n"
+msgstr ""
+
+msgid "you cannot use --symmetric --sign --encrypt while in %s mode\n"
+msgstr ""
+
+msgid "you cannot use --symmetric --sign --encrypt with --s2k-mode 0\n"
+msgstr ""
+
+msgid "you found a bug ... (%s:%d)\n"
+msgstr ""
+
+msgid "you may not use %s while in %s mode\n"
+msgstr ""
+
+msgid "you may not use cipher algorithm `%s' while in %s mode\n"
+msgstr ""
+
+msgid "you may not use compression algorithm `%s' while in %s mode\n"
+msgstr ""
+
+msgid "you may not use digest algorithm `%s' while in %s mode\n"
+msgstr ""
+
+msgid "you must use files (and not a pipe) when working with --pgp2 enabled.\n"
+msgstr ""
+
+msgid "|AN|New Admin PIN"
+msgstr ""
+
+msgid "|FD|write status info to this FD"
+msgstr ""
+
+msgid "|NAME|encrypt for NAME"
+msgstr ""
+
+msgid "|N|New PIN"
+msgstr ""
+
+msgid "|N|set compress level N (0 disables)"
+msgstr ""
+
+msgid "|[file]|make a clear text signature"
+msgstr ""
+
+msgid "|[file]|make a signature"
+msgstr ""
+
+msgid "|algo [files]|print message digests"
+msgstr ""
+
+msgid "||Please enter the PIN%%0A[sigs done: %lu]"
+msgstr ""

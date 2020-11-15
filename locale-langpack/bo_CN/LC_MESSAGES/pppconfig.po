@@ -1,0 +1,535 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Enter the IP number for your primary nameserver."
+msgstr ""
+
+msgid ""
+"\n"
+"No such user as %s. "
+msgstr ""
+
+msgid "                     Add a ppp user"
+msgstr ""
+
+msgid " Authentication Method for %s"
+msgstr ""
+
+msgid "\"Advanced Settings for %s\""
+msgstr ""
+
+msgid "\"GNU/Linux PPP Configuration Utility\""
+msgstr ""
+
+msgid "\"Properties of %s\""
+msgstr ""
+
+msgid "%s Authentication method"
+msgstr ""
+
+msgid "%s Change DNS"
+msgstr ""
+
+msgid "%s Change remotename "
+msgstr ""
+
+msgid "%s Connect response"
+msgstr ""
+
+msgid "%s Default route state"
+msgstr ""
+
+msgid "%s ISP password"
+msgstr ""
+
+msgid "%s ISP user name"
+msgstr ""
+
+msgid "%s Idle timeout "
+msgstr ""
+
+msgid "%s Login prompt"
+msgstr ""
+
+msgid "%s Modem com port"
+msgstr ""
+
+msgid "%s Modem init string"
+msgstr ""
+
+msgid "%s Password prompt"
+msgstr ""
+
+msgid "%s Port speed"
+msgstr ""
+
+msgid "%s Post-login chat "
+msgstr ""
+
+msgid "%s Pre-login chat"
+msgstr ""
+
+msgid "%s Set ip addresses"
+msgstr ""
+
+msgid "%s Telephone number"
+msgstr ""
+
+msgid "%s Turn debugging on or off"
+msgstr ""
+
+msgid "%s Turn demand dialing on or off"
+msgstr ""
+
+msgid "%s Turn persist on or off"
+msgstr ""
+
+msgid "%s does not exist.\n"
+msgstr ""
+
+msgid "Ack String"
+msgstr ""
+
+msgid "Add User "
+msgstr ""
+
+msgid "Advanced Options"
+msgstr "མཐོ་རིམ་འདེམས་ཚན།"
+
+msgid ""
+"Answer 'yes' to have the port your modem is on identified automatically.  It"
+" will take several seconds to test each serial port.  Answer 'no' if you "
+"would rather enter the serial port yourself"
+msgstr ""
+
+msgid ""
+"Below is a list of all the serial ports that appear to have hardware that "
+"can be used for ppp.  One that seems to have a modem on it has been "
+"preselected.  If no modem was found 'Manual' was preselected.  To accept the"
+" preselection just hit TAB and then ENTER.  Use the up and down arrow keys "
+"to move among the selections, and press the spacebar to select one.  When "
+"you are finished, use TAB to select <OK> and ENTER to move on to the next "
+"item. "
+msgstr ""
+
+msgid "Can't close RDR in child: "
+msgstr ""
+
+msgid "Can't close RDR in parent: "
+msgstr ""
+
+msgid "Can't close WTR in parent: "
+msgstr ""
+
+msgid "Can't lock %s.\n"
+msgstr ""
+
+msgid "Can't open %s.\n"
+msgstr ""
+
+msgid "Can't probe while pppd is running."
+msgstr ""
+
+msgid "Can't redirect stderr: "
+msgstr ""
+
+msgid "Change a connection"
+msgstr ""
+
+msgid "Change the connection named %s"
+msgstr ""
+
+msgid "Choose Modem Config Method"
+msgstr ""
+
+msgid ""
+"Choose a method.  'Static' means that the same nameservers will be used "
+"every time this provider is used.  You will be asked for the nameserver "
+"numbers in the next screen.  'Dynamic' means that pppd will automatically "
+"get the nameserver numbers each time you connect to this provider.  'None' "
+"means that DNS will be handled by other means, such as BIND (named) or "
+"manual editing of /etc/resolv.conf.  Select 'None' if you do not want "
+"/etc/resolv.conf to be changed when you connect to this provider.  Use the "
+"up and down arrow keys to move among the selections, and press the spacebar "
+"to select one.  When you are finished, use TAB to select <OK> and ENTER to "
+"move on to the next item."
+msgstr ""
+
+msgid "Configure Nameservers (DNS)"
+msgstr ""
+
+msgid "Connection Exists"
+msgstr ""
+
+msgid "Couldn't open %s.\n"
+msgstr ""
+
+msgid "Couldn't print to %s.\n"
+msgstr ""
+
+msgid "Couldn't rename %s.\n"
+msgstr ""
+
+msgid "Create Connection"
+msgstr ""
+
+msgid "Create a connection"
+msgstr ""
+
+msgid "Create a connection named %s"
+msgstr ""
+
+msgid "Crypto Handshake Auth Protocol"
+msgstr ""
+
+msgid "DNS will be handled by other means"
+msgstr ""
+
+msgid "Debug Command"
+msgstr ""
+
+msgid "Debugging is presently disabled."
+msgstr ""
+
+msgid "Debugging is presently enabled."
+msgstr ""
+
+msgid "Default Route"
+msgstr ""
+
+msgid "Delete a Connection"
+msgstr ""
+
+msgid "Delete a connection"
+msgstr ""
+
+msgid "Demand Command"
+msgstr ""
+
+msgid "Disable default route"
+msgstr ""
+
+msgid "Do you wish to quit without saving your changes?"
+msgstr ""
+
+msgid "Enable default route"
+msgstr ""
+
+msgid ""
+"Enabling default routing tells your system that the way to reach hosts to "
+"which it is not directly connected is via your ISP.  This is almost "
+"certainly what you want.  Use the up and down arrow keys to move among the "
+"selections, and press  the spacebar to select one.  When you are finished, "
+"use TAB to select <OK> and ENTER to move on to the next item."
+msgstr ""
+
+msgid ""
+"Enter modem initialization string.  The default value is ATZ, which tells "
+"the modem to use it's default settings.  As most modems are shipped from the"
+" factory with default settings that are appropriate for ppp, I suggest you "
+"not change this."
+msgstr ""
+
+msgid "Enter the IP number for your secondary nameserver (if any)."
+msgstr ""
+
+msgid ""
+"Enter the name you wish to use to refer to this isp.  You will probably want"
+" to give the default name of 'provider' to your primary isp.  That way, you "
+"can dial it by just giving the command 'pon'.  Give each additional isp a "
+"unique name.  For example, you might call your employer 'theoffice' and your"
+" university 'theschool'.  Then you can connect to your isp with 'pon', your "
+"office with 'pon theoffice', and your university with 'pon theschool'.  "
+"Note: the name must contain no spaces."
+msgstr ""
+
+msgid ""
+"Enter the number to dial.  Don't include any dashes.  See your modem manual "
+"if you need to do anything unusual like dialing through a PBX."
+msgstr ""
+
+msgid "Enter the password your ISP gave you."
+msgstr ""
+
+msgid "Enter the port by hand. "
+msgstr ""
+
+msgid ""
+"Enter the port your modem is on. \n"
+"/dev/ttyS0 is COM1 in DOS. \n"
+"/dev/ttyS1 is COM2 in DOS. \n"
+"/dev/ttyS2 is COM3 in DOS. \n"
+"/dev/ttyS3 is COM4 in DOS. \n"
+"/dev/ttyS1 is the most common.  Note that this must be typed exactly as shown.  Capitalization is important: ttyS1 is not the same as ttys1."
+msgstr ""
+
+msgid ""
+"Enter the text of connect acknowledgement, if any.  This string will be sent"
+" when the CONNECT string is received from the modem.  Unless you know for "
+"sure that your ISP requires such an acknowledgement you should leave this as"
+" a null string: that is, ''.\n"
+msgstr ""
+
+msgid ""
+"Enter the text of the login prompt.  Chat will send your username in "
+"response.  The most common prompts are login: and username:.  Sometimes the "
+"first letter is capitalized and so we leave it off and match the rest of the"
+" word.  Sometimes the colon is omitted.  If you aren't sure, try ogin:."
+msgstr ""
+
+msgid ""
+"Enter the text of the password prompt.  Chat will send your password in "
+"response. The most common prompt is password:.  Sometimes the first letter "
+"is capitalized and so we leave it off and match the last part of the word."
+msgstr ""
+
+msgid "Enter the username given to you by your ISP."
+msgstr ""
+
+msgid ""
+"Enter the username of a user who you want to be able to start and stop ppp."
+"  She will be able to start any connection.  To remove a user run the "
+"program vigr and remove the user from the dip group. "
+msgstr ""
+
+msgid ""
+"Enter your modem port speed (e.g. 9600, 19200, 38400, 57600, 115200).  I "
+"suggest that you leave it at 115200."
+msgstr ""
+
+msgid "Exec failed: "
+msgstr ""
+
+msgid "Exit this utility"
+msgstr ""
+
+msgid "Finish and save files"
+msgstr ""
+
+msgid "Finished"
+msgstr "ལེགས་འགྲུབ་པ།"
+
+msgid ""
+"Finished configuring connection and writing changed files.  The chat strings"
+" for connecting to the ISP are in /etc/chatscripts/%s, while the options for"
+" pppd are in /etc/ppp/peers/%s.  You may edit these files by hand if you "
+"wish.  You will now have an opportunity to exit the program, configure "
+"another connection, or revise this or another one."
+msgstr ""
+
+msgid "IP Numbers"
+msgstr "IP གནས་ཡུལ།"
+
+msgid "IP number"
+msgstr "གནས་ཡུལ IP"
+
+msgid "Idle Timeout"
+msgstr ""
+
+msgid ""
+"If you want this PPP link to shut down automatically when it has been idle "
+"for a certain number of seconds, put that number here.  Leave this blank if "
+"you want no idle shutdown at all."
+msgstr ""
+
+msgid "Internal error: "
+msgstr ""
+
+msgid "Internal error: no such thing as %s, "
+msgstr ""
+
+msgid "Login Prompt"
+msgstr ""
+
+msgid "Main Menu"
+msgstr "འདེམས་བྱང་གཙོ་བོ།"
+
+msgid "Manually Select Modem Port"
+msgstr ""
+
+msgid "Modem Initialization"
+msgstr ""
+
+msgid "No UI\n"
+msgstr ""
+
+msgid "No connections to change."
+msgstr ""
+
+msgid "No connections to delete."
+msgstr ""
+
+msgid "Password"
+msgstr "གསང་ཨང་།"
+
+msgid "Password Prompt"
+msgstr ""
+
+msgid "Peer Authentication Protocol"
+msgstr ""
+
+msgid "Persist Command"
+msgstr ""
+
+msgid "Phone Number"
+msgstr "ཁ་པར་ཨང་གྲངས།"
+
+msgid ""
+"Please select the authentication method for this connection.  PAP is the "
+"method most often used in Windows 95, so if your ISP supports the NT or "
+"Win95 dial up client, try PAP.  The method is now set to %s."
+msgstr ""
+
+msgid ""
+"Please select the property you wish to modify, select \"Cancel\" to go back "
+"to start over, or select \"Finished\" to write out the changed files."
+msgstr ""
+
+msgid "Post-Login"
+msgstr ""
+
+msgid "Pre-Login"
+msgstr ""
+
+msgid "Probing %s"
+msgstr ""
+
+msgid "Provider Name"
+msgstr ""
+
+msgid "Pulse or Tone"
+msgstr ""
+
+msgid "Quit"
+msgstr "ཕྱིར་འདོན་པ།"
+
+msgid "Remotename"
+msgstr ""
+
+msgid "Return to Previous Menu"
+msgstr ""
+
+msgid "Return to previous menu"
+msgstr ""
+
+msgid "Select Modem Port"
+msgstr ""
+
+msgid "Select a Connection"
+msgstr ""
+
+msgid "Select connection to change."
+msgstr ""
+
+msgid "Select connection to delete."
+msgstr ""
+
+msgid ""
+"Select method of dialing.  Since almost everyone has touch-tone, you should "
+"leave the dialing method set to tone unless you are sure you need pulse.  "
+"Use the up and down arrow keys to move among the selections, and press the "
+"spacebar to select one.  When you are finished, use TAB to select <OK> and "
+"ENTER to move on to the next item."
+msgstr ""
+
+msgid "Selecting YES will enable debugging.  Selecting NO will disable it. %s"
+msgstr ""
+
+msgid ""
+"Selecting YES will enable persist mode.  Selecting NO will disable it.  This"
+" will cause pppd to keep trying until it connects and to try to reconnect if"
+" the connection goes down.  Persist is incompatible with demand dialing: "
+"enabling demand will disable persist.  Persist is presently %s."
+msgstr ""
+
+msgid "Speed"
+msgstr "མྱུར་ཚད།"
+
+msgid "This connection exists.  Do you want to overwrite it?"
+msgstr ""
+
+msgid ""
+"This is the PPP configuration utility.  It does not connect to your isp: "
+"just configures ppp so that you can do so with a utility such as pon.  It "
+"will ask for the username, password, and phone number that your ISP gave "
+"you.  If your ISP uses PAP or CHAP, that is all you need.  If you must use a"
+" chat script, you will need to know how your ISP prompts for your username "
+"and password.  If you do not know what your ISP uses, try PAP.  Use the up "
+"and down arrow keys to move around the menus.  Hit ENTER to select an item."
+"  Use the TAB key to move from the menu to <OK> to <CANCEL> and back.  To "
+"move on to the next menu go to <OK> and hit ENTER. To go back to the "
+"previous menu go to <CANCEL> and hit enter."
+msgstr ""
+
+msgid ""
+"This menu allows you to change some of the more obscure settings.  Select "
+"the setting you wish to change, and select \"Previous\" when you are done. "
+"Use the arrow keys to scroll the list."
+msgstr ""
+
+msgid "Use \"chat\" for login:/password: authentication"
+msgstr ""
+
+msgid "Use dynamic DNS"
+msgstr ""
+
+msgid "Use static DNS"
+msgstr ""
+
+msgid "User Name"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་།"
+
+msgid "Write files and return to main menu."
+msgstr ""
+
+msgid "You must be root to run this program.\n"
+msgstr ""
+
+msgid ""
+"You probably do not need to change this.  It is initially '' \\d\\c which "
+"tells chat to expect nothing, wait one second, and send nothing.  This gives"
+" your isp time to get ppp started.  If your isp requires any additional "
+"input after you have logged in you should put it here.  This may be a "
+"program name like ppp as a response to a menu prompt.  If you need to make "
+"an entry, make the first entry the prompt you expect and the second the "
+"required response.  Example: your isp sends 'Protocol' and expect you to "
+"respond with 'ppp'.  You would put 'otocol ppp' (without the quotes) here.  "
+"Fields must be separated by white space.  You can have more than one expect-"
+"send pair."
+msgstr ""
+
+msgid ""
+"You probably do not need to put anything here.  Enter any additional input "
+"your isp requires before you log in.  If you need to make an entry, make the"
+" first entry the prompt you expect and the second the required response.  "
+"Example: your isp sends 'Server:' and expect you to respond with "
+"'trilobite'.  You would put 'erver trilobite' (without the quotes) here.  "
+"All entries must be separated by white space.  You can have more than one "
+"expect-send pair."
+msgstr ""
+
+msgid ""
+"You probably don't want to change this.  Pppd uses the remotename as well as"
+" the username to find the right password in the secrets file.  The default "
+"remotename is the provider name.  This allows you to use the same username "
+"with different providers.  To disable the remotename option give a blank "
+"remotename.  The remotename option will be omitted from the provider file "
+"and a line with a * instead of a remotename will be put in the secrets file."
+msgstr ""
+
+msgid "cannot fork: "
+msgstr ""

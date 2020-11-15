@@ -1,0 +1,4669 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"Error: nmcli terminated by signal %s (%d)\n"
+msgstr ""
+
+msgid "  Address successfully added: %s\n"
+msgstr ""
+
+msgid "  Warning: address already present: %s\n"
+msgstr ""
+
+msgid "  Warning: ignoring garbage at the end: '%s'\n"
+msgstr ""
+
+msgid "# Created by NetworkManager\n"
+msgstr ""
+
+msgid ""
+"# Merged from %s\n"
+"\n"
+msgstr ""
+
+msgid "%d (default)"
+msgstr "%d། (སོར་བཞག)"
+
+msgid "%d (disabled)"
+msgstr "%d། (འགོག་སྤྱོད)"
+
+msgid "%d (enabled, prefer public IP)"
+msgstr "%d། (སྤྱོད་འགོ་བརྩམས་ཟིན། སྤྱིའི IP སྔོན་འགྲོ)"
+
+msgid "%d (enabled, prefer temporary IP)"
+msgstr "%d། (སྤྱོད་འགོ་བརྩམས་ཟིན། སྐབས་ཐོག IP སྔོན་འགྲོ)"
+
+msgid "%d (key)"
+msgstr "%d། (key)"
+
+msgid "%d (no)"
+msgstr "%d། (མིན)"
+
+msgid "%d (passphrase)"
+msgstr "%d། (གསང་ཨང་།)"
+
+msgid "%d (unknown)"
+msgstr "%d། (ངེས་མེད།)"
+
+msgid "%d (yes)"
+msgstr "%d། (ཡིན)"
+
+msgid "%d. DNS server address is invalid"
+msgstr "%d。DNS ཞབས་ཞུ་ཆས་ཀྱི་ཤག་གནས་ནུས་མེད་རེད།"
+
+msgid "%d. IP address has 'label' property with invalid type"
+msgstr "%d。IP ཤག་གནས་ནུས་མེད་རིགས་རྣམ་གྱི “lable”(གདོང་འཛར)གཏོགས་གཤིས།"
+
+msgid "%d. IP address has invalid label '%s'"
+msgstr "%d。IP ཤག་གནས་ལ་ནུས་མེད་ཀྱི་གདོང་འཛར་ཡོད། “%s”"
+
+msgid "%d. IP address is invalid"
+msgstr "%d。IP ཤག་གནས་ནུས་མེད།"
+
+msgid "%d. IPv4 address has invalid prefix"
+msgstr "%d。IPv4 ཤག་གནས་སྔོན་འཇུག་ནུས་མེད།"
+
+msgid "%d. IPv4 address is invalid"
+msgstr "%d。IPv4 ཤག་གནས་ནུས་མེད།"
+
+msgid "%d. IPv6 address has invalid prefix"
+msgstr "\"%d。IPv6 ཤག་གནས་ལ་ས་མེདཀྱི་སྔོན་འཇུག་ཡོད།"
+
+msgid "%d. IPv6 address is invalid"
+msgstr "%d。IPv6 ཤག་གནས་ནུས་མེད།"
+
+msgid "%d. route cannot be a default route"
+msgstr "%d。སོར་བཞག་ལམ་འཚོལ་ཡིན་མི་ཆོག"
+
+msgid "%d. route has invalid prefix"
+msgstr "%d。ལམ་འཚོལ་སྔོན་འཇུག་ནུས་མེད།"
+
+msgid "%d. route is invalid"
+msgstr "%d。ལམ་འཚོལ་ནུས་མེད།"
+
+msgid "%s Network"
+msgstr "%s དྲ་རྒྱ།"
+
+msgid "%s is already running (pid %ld)\n"
+msgstr ""
+
+msgid "%s is incompatible with static WEP keys"
+msgstr "%s འགུལ་མེད WEP གསང་ལྡེ་དང་འཆམ་མཐུན་མིན།"
+
+msgid "%s.  Please use --help to see a list of valid options.\n"
+msgstr ""
+
+msgid "%u MHz"
+msgstr "%u MHz"
+
+msgid "%u Mb/s"
+msgstr "%u Mb/s"
+
+msgid "%u Mbit/s"
+msgstr "%u Mbit/s"
+
+msgid "'%d' is not a valid channel"
+msgstr "%d' ནུས་མེད་ཀྱི་རྒྱུ་ལམ་ཡིན།"
+
+msgid "'%d' is not a valid value for the property (should be <= %d)"
+msgstr "%d' ནུས་མེད་ཀྱི་གཏོགས་གཤིས་གྲངས་ཐང་ཡིན།(སྤྱིར་ཡིན་ན <= %d)"
+
+msgid "'%d' is not valid; use <%d-%d>"
+msgstr "%d' ནུས་མེད། སྤྱོད་པ། <%d-%d>"
+
+msgid "'%d' is out of valid range <128-16384>"
+msgstr "%d' ཁྱབ་ཁོངས་ལས་བརྒལ་བ། <128-16384>"
+
+msgid "'%d' value is out of range <0-3>"
+msgstr "%d' ཁྱབ་ཁོངས་ལས་བརྒལ་བ། <0-3>"
+
+msgid "'%ld' is not a valid channel"
+msgstr "“%ld” ནུས་མེད་ཀྱི་རྒྱུ་ལམ་ཡིན།"
+
+msgid "'%lld' is not valid; use <%lld-%lld>"
+msgstr "“%lld” ནུས་མེད། སྤྱོད་པ།  <%lld-%lld>"
+
+msgid "'%s' can only be used with '%s=%s' (WEP)"
+msgstr "%s'  '%s=%s' ཁོ་ནར་མཉམ་སྡེབ་བྱས་ནས་སྤྱོད་ཆོག(WEP)"
+
+msgid "'%s' connection requires '%s' or '%s' setting"
+msgstr "“%s” འབྲེལ་མཐུད་བྱེད་པར “%s” དང་ཡང་ན “%s” སྒྲིག་བཀོད་དགོས།"
+
+msgid "'%s' connections require '%s' in this property"
+msgstr "“%s” འབྲེལ་མཐུད་བྱེད་པར་གཏོགས་གཤིས་འདིའི་ནང་ “%s”ཡོད་དགོས།"
+
+msgid "'%s' contains invalid char(s) (use [A-Za-z._-])"
+msgstr "%s' ནུས་མེད་ཡིག་རྟགས་འདུས། (སྤྱོད་པ། [A-Za-z._-])"
+
+msgid "'%s' has to be alone"
+msgstr "“%s” ངེས་པར་དུ་ཁེར་རྐྱང་དུ་གནས་དགོས།"
+
+msgid "'%s' is ambiguous (%s x %s)"
+msgstr "%s' དོན་མང་ཡོད།(%s x %s)"
+
+msgid "'%s' is neither an UUID nor an interface name"
+msgstr "%s'  UUID མིན་ལ་མཐུད་ཁའི་མིང་ཡང་མིན།"
+
+msgid "'%s' is not a DCB app priority"
+msgstr "%s'  DCB བཀོལ་སྤྱོད་སྔོན་ཐོབ་རིམ་པ་མིན།"
+
+msgid "'%s' is not a VPN connection profile"
+msgstr "%s'  VPN འབྲེལ་མཐུད་སྡེབ་སྒྲིག་ཡིག་ཆ་མིན།"
+
+msgid "'%s' is not a name of any exiting profile"
+msgstr "“%s”སྡེབ་སྒྲིག་ཡིག་ཆའི་མིང་མངོན་པ་གང་ཡང་མིན།"
+
+msgid "'%s' is not a number"
+msgstr "%s' གྲངས་ཀ་ཞིག་མིན།"
+
+msgid "'%s' is not a valid DCB flag"
+msgstr "%s' ནུས་མེད་ཀྱི DCB མཚོན་རྟགས་ཡིན།"
+
+msgid "'%s' is not a valid Ethernet MAC"
+msgstr "%s' ནུས་མེད་ཀྱི་ཨེ་ཐེར་དྲ་རྒྱ MAC ཤག་གནས་ཡིན།"
+
+msgid "'%s' is not a valid Ethernet port value"
+msgstr "%s' ནུས་མེད་ཀྱི་ཨེ་ཐེར་དྲ་རྒྱ་སྣེ་ཁ་གྲངས་ཐང་ཡིན།"
+
+msgid "'%s' is not a valid IBoIP P_Key"
+msgstr "%s' ནུས་མེད་ཀྱི IBoIP P_Key ཡིན།"
+
+msgid "'%s' is not a valid IPv4 address for '%s' option"
+msgstr "%2$s' འདེམས་ཚན་ལ་མཚོན་ན། '%1$s' ནི་ནུས་མེད་ཀྱི IPv4 ཤག་གནས་ཡིན།"
+
+msgid "'%s' is not a valid InfiniBand MAC"
+msgstr "%s' ནུས་མེད་ཀྱི InfiniBand MAC ཤག་གནས་ཡིན།"
+
+msgid "'%s' is not a valid MAC"
+msgstr "%s' ནུས་མེད་ཀྱི MAC ཤག་གནས་ཡིན།"
+
+msgid "'%s' is not a valid MAC address"
+msgstr "%s' ནུས་མེད་ཀྱི MAC ཤག་གནས་ཡིན།"
+
+msgid "'%s' is not a valid PSK"
+msgstr "%s' ནུས་མེད་ཀྱི PSKཡིན།"
+
+msgid "'%s' is not a valid UUID"
+msgstr "%s' ནུས་མེད་ཀྱི UUIDཡིན།"
+
+msgid "'%s' is not a valid Wi-Fi mode"
+msgstr "%s' ནུས་མེད་ཀྱི Wi-Fi རྣམ་པ་ཡིན།"
+
+msgid "'%s' is not a valid band"
+msgstr "%s' ནུས་མེད་ཀྱི་ཟློས་དུམ་ཡིན།"
+
+msgid "'%s' is not a valid channel"
+msgstr "%s' ནུས་མེད་ཀྱི་རྒྱུ་ལམ་ཡིན།"
+
+msgid "'%s' is not a valid channel; use <1-13>"
+msgstr "%s' ནུས་མེད་ཀྱི་རྒྱུ་ལམཡིན།  <1-13> སྤྱོད་པ།"
+
+msgid "'%s' is not a valid duplex value"
+msgstr "%s' ནུས་མེད་ཀྱི་བསྐྱར་སྤྱོད་གྲངས་ཐང་ཡིན།"
+
+msgid "'%s' is not a valid flag number; use <0-%d>"
+msgstr "%s' ནུས་མེད་ཀྱི་མཚོན་རྟགས་ཨང་ཡིན།  <0-%d> སྤྱོད་པ།"
+
+msgid "'%s' is not a valid hex character"
+msgstr "%s' ནུས་མེད་ཀྱི་བཅུ་དྲུག་གོང་འགྲིལ་ལུགས་ཡིག་རྟགས་ཡིན།"
+
+msgid "'%s' is not a valid interface name"
+msgstr "%s' ནུས་མེད་ཀྱི་མཐུད་ཁའི་མིང་ཡིན།"
+
+msgid "'%s' is not a valid interface name for '%s' option"
+msgstr "%2$s' འདེམས་ཚན་ལ་མཚོན་ན། '%1$s' ནི་ནུས་མེད་ཀྱི་མཐུད་ཁའི་མིང་ཡིན།"
+
+msgid "'%s' is not a valid number (or out of range)"
+msgstr "%s' ནུས་མེད་ཀྱི་གྲངས་ཐང་ཡིན། (ཡང་ན་ཁྱབ་ཀོངས་ལས་བརྒལ།)"
+
+msgid "'%s' is not a valid team configuration or file name."
+msgstr "%s' ནུས་མེད་ཁྱུ་ཚོ་སྒྲིག་འགོད་དང་ཡང་ན་ཡིག་ཆའི་མིང་ཡིན།"
+
+msgid "'%s' is not a valid value for '%s'"
+msgstr "%2$s' ལ་མཚོན་ན '%1$s' ནི་ནུས་མེད་གྲངས་ཐང་ཡིན།"
+
+msgid "'%s' is not a valid value for the property"
+msgstr "%s' གཏོགས་གཤིས་འདིར་མཚོན་ན་ནུས་ལྡན་གྲངས་ཐང་མིན།"
+
+msgid "'%s' is not a valid value; use -1, 0 or 1"
+msgstr "“%s” ནུས་ལྡན་གྲངས་ཐང་མིན།  -1、0 ཡང་ན 1 སྤྱོད་པ།"
+
+msgid "'%s' is not valid"
+msgstr "“%s” ནུས་མེད།"
+
+msgid "'%s' is not valid (the format is: ip[/prefix] [next-hop] [metric])"
+msgstr "“%s” ནུས་མེད། (རྣམ་གཞག་ནི：ip[/prefix] [next-hop] [metric])"
+
+msgid "'%s' is not valid master; use ifname or connection UUID"
+msgstr ""
+"%s' ནུས་མེད་ཀྱི་འབྲེལ་མཐུད་གཙོ་བོ་ཡིན།   ifname ཡང་ན་འབྲེལ་མཐུད་ཀྱི UUID "
+"སྤྱོད་པ།"
+
+msgid "'%s' is not valid; 2 or 3 strings should be provided"
+msgstr "“%s” ནུས་མེད།   ཡིག་རྟགས་ཕྲེང་བ 2 དང་ཡང་ན 3 མཁོ་འདོན་བྱེད་དགོས།"
+
+msgid "'%s' is not valid; use 0, 1, or 2"
+msgstr "“%s” ནུས་མེད།  0, 1, ཡང་ན 2སྤྱོད་པ།"
+
+msgid "'%s' is not valid; use <option>=<value>"
+msgstr "“%s” ནུས་མེད།   <option>=<value> སྤྱོད་པ།"
+
+msgid "'%s' is not valid; use [%s] or [%s]"
+msgstr "“%s” ནུས་མེད།  [%s]ཡང་ན[%s]སྤྱོད་པ།"
+
+msgid "'%s' is not valid; use [e, o, n]"
+msgstr "“%s” ནུས་མེད།  [e, o, n]སྤྱོད་པ།"
+
+msgid "'%s' length is invalid (should be 5 or 6 digits)"
+msgstr "“%s” རིང་ཚད་ནུས་མེད། (གནས་གྲངས 5 ཡང་ན 6 ཡིན་དགོས།)"
+
+msgid "'%s' not a number between 0 and %u (inclusive)"
+msgstr "“%s”  0 དང་ %u། (འདུས་པ) བར་གྱི་གྲངས་ཀ་ཞིག་མིན།"
+
+msgid "'%s' not a number between 0 and %u (inclusive) or %u"
+msgstr "“%s”  0 དང་ %u། (འདུས་པ) བར་གྱི་གྲངས་ཀ་ཞིག་དང་ཡང་ན %uམིན།"
+
+msgid "'%s' not among [%s]"
+msgstr "“%s”  [%s] ནང་དུ་མེད།"
+
+msgid "'%s' not among [0 (unknown), 1 (key), 2 (passphrase)]"
+msgstr "“%s”  [0(ངེས་མེད) 1(གསང་ལྡེ) 2(གསང་ཨང་)] ནང་དུ་མེད།"
+
+msgid ""
+"'%s' not compatible with %s '%s', please change the key or set the right %s "
+"first."
+msgstr ""
+"“%s”  %s “%s” དང་འཆམ་མཐུན་མིན།  གསང་ལྡེ་བཟོ་བཅོས་དང་ཡང་ན་ཡང་དག་པའི %s "
+"དབང་ཚད་སྒྲིག་བཀོད་བྱེད་རོགས།"
+
+msgid "'%s' option is empty"
+msgstr "“%s” འདེམས་ཚན་སྟོང་པ་ཡིན།"
+
+msgid "'%s' option is only valid for '%s=%s'"
+msgstr "“%s” འདེམས་ཚན་གྱིས “%s=%s” ཁོ་ནར་ནུས་པ་ཡོད།"
+
+msgid "'%s' option is only valid with mode '%s'"
+msgstr "“%s” འདེམས་ཚན་རྣམ་པ “%s” ཁོ་ནར་ནུས་པ་ཡོད།"
+
+msgid "'%s' option requires '%s' option to be set"
+msgstr "“%s” འདེམས་ཚན་ལ “%s” འདེམས་ཚན་སྒྲིག་བཀོད་བྱེད་དགོས།"
+
+msgid "'%s' option should be string"
+msgstr "“%s” འདེམས་ཚན་ནི་ཡིག་རྟགས་ཕྲེང་བ་ཡིན་དགོས།"
+
+msgid "'%s' requires setting '%s' property"
+msgstr "“%s”  “%s” གཏོགས་གཤིས་སྒྲིག་བཀོད་བྱེད་དགོས།"
+
+msgid "'%s' security requires '%s' setting presence"
+msgstr "“%s”བདེ་འཇག་ལ “%s” ་སྒྲིག་བཀོད་ཡོད་དགོས།"
+
+msgid "'%s' security requires '%s=%s'"
+msgstr "“%s” ཡི་བདེ་འཇག་ལ '%s=%s'དགོས།"
+
+msgid "'%s' value doesn't match '%s=%s'"
+msgstr "“%s” གྲངས་ཐང་དང་ “%s=%s” ཟླ་སྒྲིག་མིན།"
+
+msgid "'%s=%s' is incompatible with '%s > 0'"
+msgstr "“%s=%s” དང་ “%s > 0” འཆམ་མཐུན་མིན།"
+
+msgid "'%s=%s' is not a valid configuration for '%s'"
+msgstr "“%s=%s” ནི  “%s” ཡི་ནུས་ཡོད་སྒྲིག་འགོད་མིན།"
+
+msgid "'%u' is not valid; use <%u-%u>"
+msgstr "“%u” ནུས་མེད།  <%u-%u>སྤྱོད་པ།"
+
+msgid "(%s): Invalid IID %s\n"
+msgstr ""
+
+msgid "(No custom routes)"
+msgstr "(ལམ་འཚོལ་གཏན་སྲོལ་མེད་པ།)"
+
+msgid "(No support for dynamic-wep yet...)"
+msgstr "(འགུལ་རྣམ wep...རྒྱབ་སྐྱོར་མི་བྱེད།)"
+
+msgid "(No support for wpa-enterprise yet...)"
+msgstr "( wpa-enterprise...རྒྱབ་སྐྱོར་མི་བྱེད།)"
+
+msgid "(default)"
+msgstr "(སོར་བཞག)"
+
+msgid "(none)"
+msgstr "(མེད།)"
+
+msgid "(not available)"
+msgstr "(སྤྱོད་མི་རུང་།)"
+
+msgid "(unknown error)"
+msgstr "(ངེས་མེད་ནོར་འཁྲུལ།)"
+
+msgid "(unknown)"
+msgstr "(ངེས་མེད)"
+
+msgid "*"
+msgstr "\"*\""
+
+msgid ", neither a valid setting name"
+msgstr "ནུས་ཡོད་ཀྱི་སྒྲིག་འགོད་མིང་མེད།"
+
+msgid ""
+"---[ Main menu ]---\n"
+"goto     [<setting> | <prop>]        :: go to a setting or property\n"
+"remove   <setting>[.<prop>] | <prop> :: remove setting or reset property value\n"
+"set      [<setting>.<prop> <value>]  :: set property value\n"
+"describe [<setting>.<prop>]          :: describe property\n"
+"print    [all | <setting>[.<prop>]]  :: print the connection\n"
+"verify   [all | fix]                 :: verify the connection\n"
+"save     [persistent|temporary]      :: save the connection\n"
+"activate [<ifname>] [/<ap>|<nsp>]    :: activate the connection\n"
+"back                                 :: go one level up (back)\n"
+"help/?   [<command>]                 :: print this help\n"
+"nmcli    <conf-option> <value>       :: nmcli configuration\n"
+"quit                                 :: exit nmcli\n"
+msgstr ""
+
+msgid ""
+"---[ Property menu ]---\n"
+"set      [<value>]               :: set new value\n"
+"add      [<value>]               :: add new option to the property\n"
+"change                           :: change current value\n"
+"remove   [<index> | <option>]    :: delete the value\n"
+"describe                         :: describe property\n"
+"print    [setting | connection]  :: print property (setting/connection) value(s)\n"
+"back                             :: go to upper level\n"
+"help/?   [<command>]             :: print this help or command description\n"
+"quit                             :: exit nmcli\n"
+msgstr ""
+
+msgid "-1 (unset)"
+msgstr " -1། (སྒྲིག་འགོད་བྱས་མེད།)"
+
+msgid "0"
+msgstr "0"
+
+msgid "0 (NONE)"
+msgstr ""
+
+msgid "0 (disabled)"
+msgstr "0། (འགོག་སྤྱོད)"
+
+msgid "0 (none)"
+msgstr ""
+
+msgid "1024"
+msgstr ""
+
+msgid "2GHZ"
+msgstr ""
+
+msgid "5GHZ"
+msgstr ""
+
+msgid "661e8cd0-b618-46b8-9dc9-31a52baaa16b"
+msgstr ""
+
+msgid "802.1X"
+msgstr ""
+
+msgid "802.1X supplicant configuration failed"
+msgstr "802.1X མཁོ་མཁན་སྡེབ་སྒྲིག་ཕམ་པ།"
+
+msgid "802.1X supplicant disconnected"
+msgstr "802.1X མཁོ་མཁན་འབྲེལ་མཐུད་བཅད་པ།"
+
+msgid "802.1X supplicant failed"
+msgstr "802.1X མཁོ་མཁན་རེ་ཞུ་ཕམ་པ།"
+
+msgid "802.1X supplicant took too long to authenticate"
+msgstr "802.1X མཁོ་མཁན་ར་སྤྲོད་དུས་བརྒལ།"
+
+msgid "802.1x setting requires 'wpa-eap' key management"
+msgstr "802.1x སྒྲིག་འགོད་ལ “WPA-EAP” གསང་ལྡེ་དོ་དམ་དགོས།"
+
+msgid "802.3ad"
+msgstr ""
+
+msgid "<hidden>"
+msgstr "<གབ་པ།>"
+
+msgid "===| nmcli interactive connection editor |==="
+msgstr " ===| nmcli སྤེལ་མའི་ཚུལ་གྱི་འབྲེལ་མཐུད་རྩོམ་སྒྲིག་ཆས། |==="
+
+msgid "A (5 GHz)"
+msgstr ""
+
+msgid ""
+"A connection with a '%s' setting must have the slave-type set to '%s'. "
+"Instead it is '%s'"
+msgstr ""
+"“%s” "
+"སྒྲིག་འགོད་ཀྱི་འབྲེལ་མཐུད་སྤྱོད་ན་ངེས་པར་དུ་ཁོངས་གཏོགས་རིགས་རྣམ“%s”ལ་སྒྲིག་འགོད་བྱེད་དགོས།"
+" དེ་ལས་ལྡོག་ན་དེ་ནི “%s”ཡིན།"
+
+msgid "A dependency of the connection failed"
+msgstr "འབྲེལ་མཐུད་ཀྱི་བརྟེན་འབྲེལ་ཕམ་པ།"
+
+msgid "A password is required to connect to '%s'."
+msgstr "%s' ལ་འབྲེལ་མཐུད་བྱེད་ན་གསང་ཨང་དགོས།"
+
+msgid "A problem with the RFC 2684 Ethernet over ADSL bridge"
+msgstr "ཨེ་ཐེར་དྲ་རྒྱ RFC 2684 ADSL ཟམ་མཐུད་རྣམ་པ་ནོར་སོང་།"
+
+msgid "A secondary connection of the base connection failed"
+msgstr "གཞི་རྩའི་འབྲེལ་མཐུད་ཀྱི་རམ་འདེགས་འབྲེལ་མཐུད་ཕམ་པ།"
+
+msgid "ACTIVE"
+msgstr "འཁྲུག་པོ།"
+
+msgid "ACTIVE-PATH"
+msgstr "བྱ་བྱེད་བརྒྱུད་ལམ།"
+
+msgid "ADDRESS"
+msgstr "ཤག་གནས།"
+
+msgid "ADHOC"
+msgstr ""
+
+msgid "ADSL"
+msgstr ""
+
+msgid "ADSL connection"
+msgstr "ADSL འབྲེལ་མཐུད།"
+
+msgid "AP"
+msgstr ""
+
+msgid "APN: "
+msgstr ""
+
+msgid "ARP"
+msgstr ""
+
+msgid "ARP targets"
+msgstr "ARPདམིགས་ཚད།"
+
+msgid "AUTOCONNECT"
+msgstr "རང་འགུལ་འབྲེལ་མཐུད།"
+
+msgid "AUTOCONNECT-PRIORITY"
+msgstr "རང་འགུལ་འབྲེལ་མཐུད་སྔོན་ཐོབ།"
+
+msgid "AVAILABLE-CONNECTION-PATHS"
+msgstr "སྤྱོད་རུང་མཐུད་ལམ།"
+
+msgid "AVAILABLE-CONNECTIONS"
+msgstr "སྤྱོད་རུང་འབྲེལ་མཐུད།"
+
+msgid "Access Point"
+msgstr "ཚ་གནད་ལྟ་སྤྱོད།"
+
+msgid "Access point does not support 802.1x but setting requires it"
+msgstr "མཐུད་ས་ཡིས 802.1xརྒྱབ་སྐྱོར་མི་བྱེད། འོན་ཀྱང་སྒྲིག་འགོད་ལ་དེ་དགོས།"
+
+msgid "Access point does not support PSK but setting requires it"
+msgstr "མཐུད་ས་ཡིསPSKརྒྱབ་སྐྱོར་མི་བྱེད། འོན་ཀྱང་སྒྲིག་འགོད་ལ་དེ་དགོས།"
+
+msgid "Access point is unencrypted but setting specifies security"
+msgstr ""
+"མཐུད་ས་ལ་གསང་སྡོམ་མི་བྱེད། "
+"འོན་ཀྱང་སྒྲིག་འགོད་ཀྱིས་བདེ་འཇག་སྒྲིག་འགོད་དམིགས་འཛུགས་བྱས་ཡོད།"
+
+msgid ""
+"Access point mode is Ad-Hoc but setting requires Infrastructure security"
+msgstr ""
+"མཐུད་སའི་རྣམ་པ་ནི Ad-Hoc ཡིན། "
+"འོན་ཀྱང་སྒྲིག་འགོད་ལ་རྨང་གཞི་དགོས་ཆས་བདེ་འཇག་དགོས།"
+
+msgid "Activate"
+msgstr "སྐུལ་སློང་།"
+
+msgid "Activate a connection"
+msgstr "འབྲེལ་མཐུད་སྐུལ་སློང་།"
+
+msgid "Activate connection details"
+msgstr "བྱེད་སྒོ་འབྲེལ་མཐུད་གནས་ཚུལ་ཞིབ་ཕྲ།"
+
+msgid "Activation failed"
+msgstr "སྐུལ་སློང་ཕམ་པ།"
+
+msgid "Active Backup"
+msgstr "གྲབས་ཉར་འཁྲུག་པོ།"
+
+msgid "Active connection could not be attached to the device"
+msgstr "བྱེད་སྒོ་འབྲེལ་མཐུད་སྒྲིག་ཆས་སུ་འབྲེལ་མཐུད་བྱེད་ཐབས་མེད།"
+
+msgid "Active connection removed before it was initialized"
+msgstr "དེའི་འགོ་སྒྲིག་པའི་སྔོན་ལ་བྱེད་སྒོ་འབྲེལ་མཐུད་སུབ་དགོས།"
+
+msgid "Ad-Hoc"
+msgstr ""
+
+msgid "Ad-Hoc Network"
+msgstr "Ad-Hoc དྲ་རྒྱ།"
+
+msgid "Ad-Hoc mode is incompatible with 802.1x security"
+msgstr "Ad-Hoc རྣམ་པ་དང་ 802.1x བདེ་འཇག་འཆམ་མཐུན་མིན།"
+
+msgid "Ad-Hoc mode is incompatible with LEAP security"
+msgstr "Ad-Hoc རྣམ་པ་དང་ LEAP བདེ་འཐག་འཆམ་མཐུན་མིན།"
+
+msgid "Ad-Hoc mode requires 'open' authentication"
+msgstr "Ad-Hoc རྣམ་པ་ལ “open” ར་སྤྲོད་དགོས།"
+
+msgid "Adaptive Load Balancing (alb)"
+msgstr "ཁུར་པོ་དོ་མཉམ་རང་འཚམ། (alb)"
+
+msgid "Adaptive Transmit Load Balancing (tlb)"
+msgstr "སྐྱེལ་འདྲེན་ཁུར་པོ་དོ་མཉམ་རང་འཚམ། ། (tlb)"
+
+msgid "Add"
+msgstr "གསར་བཟོ།"
+
+msgid "Add..."
+msgstr "སྣོན།..."
+
+msgid "Adding a new '%s' connection"
+msgstr "འབྲེལ་མཐུད་གསར་པ་ཁ་སྣོན། “%s”"
+
+msgid "Addresses"
+msgstr "ཤག་གནས།"
+
+msgid "Aging time"
+msgstr "རྒས་འགྱུར་དུས་ཚོད།"
+
+msgid "Allow BSD data compression"
+msgstr "BSD གཞི་གྲངས་སྡུད་སྒྲིལ་ཆོག་པ།"
+
+msgid "Allow Deflate data compression"
+msgstr "གཞི་གྲངས་སྡུད་སྒྲིལ་ཆོག་པ།"
+
+msgid "Allow control of network connections"
+msgstr "ཚོད་འཛིན་དྲ་རྒྱ་འབྲེལ་མཐུད་ཆོག་པ།"
+
+msgid "Allowed authentication methods:"
+msgstr "རུང་བའི་ར་སྤྲོད་བྱ་ཐབས།："
+
+msgid "Allowed values for '%s' property: %s\n"
+msgstr ""
+
+msgid "An authentication session is already underway."
+msgstr "ཐོབ་ཐང་ར་སྤྲོད་གཏམ་གླེང་སྤེལ་བཞིན་པ།"
+
+msgid "An http(s) address for checking internet connectivity"
+msgstr "དྲ་རྒྱ་འབྲེལ་མཐུད་རང་བཞིན་གྱི  http(s) ཤག་གནས་ཞིབ་བཤེར་བྱེད་པ།"
+
+msgid "An interface name and UUID are required\n"
+msgstr ""
+
+msgid "Are you sure you want to delete the connection '%s'?"
+msgstr "ཁྱེད་ཀྱིས་འབྲེལ་མཐུད “%s” བསུབ་རྒྱུ་གཏན་འཁེལ་ཡིན་ནམ།"
+
+msgid "Ask for this password every time"
+msgstr "ནམ་ཡང་གསང་ཨང་འདི་འདྲི་རྩད་བྱེད་པ།"
+
+msgid "Authentication"
+msgstr "ཐོབ་ཐང་ཞིབ་བཤེར།"
+
+msgid "Authentication error: %s\n"
+msgstr ""
+
+msgid "Authentication message: %s\n"
+msgstr ""
+
+msgid "Authentication required by wireless network"
+msgstr "སྐུད་མེད་དྲ་རྒྱར་ར་སྤྲོད་དགོས།"
+
+msgid "AutoIP service error"
+msgstr "AutoIPཞབས་ཞུ་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "AutoIP service failed"
+msgstr "AutoIPཞབས་ཞུ་ཕམ་པ།"
+
+msgid "AutoIP service failed to start"
+msgstr "AutoIPཞབས་ཞུ་མགོ་སློང་ཕམ་པ།"
+
+msgid "Automatic"
+msgstr "རང་འགུལ།"
+
+msgid "Automatic (DHCP-only)"
+msgstr "རང་འགུལ། (DHCPཁོ་ན་རྒྱུད་པ)"
+
+msgid "Automatically connect"
+msgstr "རང་འགུལ་འབྲེལ་མཐུད།"
+
+msgid "Available properties: %s\n"
+msgstr ""
+
+msgid "Available settings: %s\n"
+msgstr ""
+
+msgid "Available to all users"
+msgstr "སྤྱོད་མཁན་ཚང་མར་སྤྱོད་རུང་།"
+
+msgid "B/G (2.4 GHz)"
+msgstr ""
+
+msgid "BANNER"
+msgstr "འཕྲེད་འགེལ་སྦྱར་ཡིག"
+
+msgid "BARS"
+msgstr ""
+
+msgid "BLUETOOTH"
+msgstr "སོ་སྔོན།"
+
+msgid "BOND"
+msgstr ""
+
+msgid "BRIDGE"
+msgstr "དྲ་ཟམ།"
+
+msgid "BRIDGE PORT"
+msgstr "ཟམ་མཐུད་སྣེ་ཁ།"
+
+msgid "BSID"
+msgstr ""
+
+msgid "BSSID"
+msgstr ""
+
+msgid "Bluetooth"
+msgstr "སོ་སྔོན།"
+
+msgid "Bluetooth device address: "
+msgstr "སོ་སྔོན་སྒྲིག་ཆས་ཤག་གནས།："
+
+msgid "Bluetooth type %s"
+msgstr "སོ་སྔོན་རིགས་རྣམ %s"
+
+msgid "Bond"
+msgstr "བསྡམས་བཅད།"
+
+msgid "Bond connection"
+msgstr "བསྡམས་བཅད་འབྲེལ་མཐུད།"
+
+msgid "Bond connection %d"
+msgstr "བསྡམས་བཅད་འབྲེལ་མཐུད %d"
+
+msgid "Bonding arp-interval [0]: "
+msgstr "བསྡམས་བཅད arp-interval [0]："
+
+msgid "Bonding arp-ip-target [none]: "
+msgstr "བསྡམས་བཅད arp-ip-target [མེད]："
+
+msgid "Bonding downdelay [0]: "
+msgstr "བསྡམས་བཅད downdelay [0]："
+
+msgid "Bonding miimon [100]: "
+msgstr "བསྡམས་བཅད miimon [100]："
+
+msgid "Bonding mode [balance-rr]: "
+msgstr "བསྡམས་བཅདརྣམ་པ [balance-rr]："
+
+msgid "Bonding monitoring mode %s"
+msgstr "བསྡམས་བཅད་ལྟ་འཛིན་རྣམ་པ %s"
+
+msgid "Bonding primary interface [none]: "
+msgstr "བསྡམས་བཅད་མཐུད་ཁ་གཙོ་བོ [མེད]："
+
+msgid "Bonding updelay [0]: "
+msgstr "བསྡམས་བཅད updelay [0]："
+
+msgid "Bridge"
+msgstr "ཟམ་མཐུད།"
+
+msgid "Bridge connection"
+msgstr "ཟམ་མཐུད།"
+
+msgid "Bridge connection %d"
+msgstr "ཟམ་མཐུད་འབྲེལ་མཐུད %d"
+
+msgid "Bridge port STP path cost [100]: "
+msgstr "ཟམ་མཐུད་སྣེ་ཁ STP བགྲོད་ལམ་འགྲོ་སོང་། [100]："
+
+msgid "Bridge port priority [32]: "
+msgstr "ཟམ་མཐུད་སྣེ་ཁ་སྔོན་རིམ། [32]："
+
+msgid "Broadcast"
+msgstr "རྒྱང་བསྒྲགས།"
+
+msgid "CA certificate must be in X.509 format"
+msgstr "CA དཔང་ཡིག་ངེས་པར་དུ X.509 རྣམ་གཞག་ཡིན་དགོས།"
+
+msgid "CAPABILITIES"
+msgstr "བྱེད་ནུས།"
+
+msgid "CARRIER"
+msgstr "ཐེག་རླབས།"
+
+msgid "CARRIER-DETECT"
+msgstr "ཐེག་རླབས་བཤེར་འཇལ།"
+
+msgid "CCMP"
+msgstr ""
+
+msgid "CDMA connection"
+msgstr "CDMA འབྲེལ་མཐུད།"
+
+msgid "CFG"
+msgstr ""
+
+msgid "CHAN"
+msgstr ""
+
+msgid "CHAP"
+msgstr ""
+
+msgid "CINR"
+msgstr ""
+
+msgid "CON-PATH"
+msgstr ""
+
+msgid "CON-UUID"
+msgstr ""
+
+msgid "CONNECTION"
+msgstr "འབྲེལ་མཐུད།"
+
+msgid "CONNECTIONS"
+msgstr "འབྲེལ་མཐུད།"
+
+msgid "CONNECTIVITY"
+msgstr "འབྲེལ་མཐུད་རང་བཞིན།"
+
+msgid "CTR-FREQ"
+msgstr ""
+
+msgid "Caller did not specify D-Bus path for object"
+msgstr ""
+"ལྟ་སྤྱོད་མཁན་གྱིསD-Busབགྲོད་ལམ་དང་ཡང་ན་ཁ་གཏད་ས་དམིགས་འཛུགས་བྱེད་མི་ཐུབ་པ།"
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Cannot create '%s': %s"
+msgstr "གསར་འཛུགས་བྱེད་ཐབས་མེད། “%s”: %s"
+
+msgid "Cannot set '%s' without '%s'"
+msgstr " “%2$s”མེད།  “%1$s”སྒྲིག་འགོད་བྱེད་ཐབས་མེད།"
+
+msgid "Carrier/link changed"
+msgstr "རླབས་ཐེག་/འབྲེལ་མཐུད་བཟོ་བཅོས་བྱས་ཟིན།"
+
+msgid "Channel"
+msgstr "ཟློས་ལམ།"
+
+msgid "Cloned MAC [none]: "
+msgstr "འདྲ་ཕབ་བྱས་པའི MAC [མེད]："
+
+msgid "Cloned MAC address"
+msgstr "MAC ཤག་གནས་རྒྱུད་བཤུས།"
+
+msgid "Closing %s failed: %s\n"
+msgstr ""
+
+msgid "Config directory location"
+msgstr "དཀར་ཆག་གནས་ཡུལ་སྡེབ་སྒྲིག"
+
+msgid "Config file location"
+msgstr "ཡིག་ཆ་གནས་ཡུལ་སྡེབ་སྒྲིག"
+
+msgid "Connected"
+msgstr "འབྲེལ་མཐུད་བྱས་ཟིན།"
+
+msgid "Connecting..."
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ། ..."
+
+msgid "Connection '%s' (%s) successfully added.\n"
+msgstr ""
+
+msgid "Connection '%s' (%s) successfully deleted.\n"
+msgstr ""
+
+msgid "Connection '%s' (%s) successfully modified.\n"
+msgstr ""
+
+msgid "Connection '%s' (%s) successfully saved.\n"
+msgstr ""
+
+msgid "Connection '%s' (%s) successfully updated.\n"
+msgstr ""
+
+msgid "Connection '%s' successfully deactivated (D-Bus active path: %s)\n"
+msgstr ""
+
+msgid "Connection (name, UUID, or path): "
+msgstr "འབྲེལ་མཐུད(མིང་ UUID ཡང་ན་བགྲོད་ལམ།)："
+
+msgid "Connection UUID"
+msgstr "UUIDའབྲེལ་མཐུད།"
+
+msgid "Connection is already active"
+msgstr "འཁྲུག་ཆ་དོད་པའི་འབྲེལ་མཐུད་ཡིན།"
+
+msgid "Connection profile details"
+msgstr "འབྲེལ་མཐུད་སྡེབ་སྒྲིག་གནས་ཚུལ་ཞིབ་ཕྲ།"
+
+msgid "Connection removed before it was initialized"
+msgstr "དེ་འགོ་སྒྲིགབྱེད་པའི་སྔོན་ལ་འབྲེལ་མཐུད་སུབ་པ།"
+
+msgid "Connection sharing via a protected WiFi network"
+msgstr "སྲུང་སྐྱོབ་ཐོབ་པའི WiFi དྲ་རྒྱ་རྒྱུད་ནས་འབྲེལ་མཐུད་མཉམ་སྤྱོད་བྱེད་པ།"
+
+msgid "Connection sharing via an open WiFi network"
+msgstr "ཡོངས་བསྒྲགས WiFi དྲ་རྒྱ་རྒྱུད་ནས་འབྲེལ་མཐུད་མཉམ་སྤྱོད་བྱེད་པ།"
+
+msgid "Connection successfully activated (D-Bus active path: %s)\n"
+msgstr ""
+
+msgid ""
+"Connection successfully activated (master waiting for slaves) (D-Bus active "
+"path: %s)\n"
+msgstr ""
+
+msgid "Connection type: "
+msgstr "འབྲེལ་མཐུད་རིགས་རྣམ།："
+
+msgid "Connection with UUID '%s' created and activated on device '%s'\n"
+msgstr ""
+
+msgid "Connection(s) (name, UUID, or path): "
+msgstr "འབྲེལ་མཐུད(མིང་། UUID ཡང་ན་བགྲོད་ལམ།)："
+
+msgid "Connectivity"
+msgstr "འབྲེལ་མཐུད་རང་བཞིན།"
+
+msgid "Could not activate connection: %s"
+msgstr "འབྲེལ་མཐུད་སྐུལ་སློང་བྱེད་ཐབས་མེད།： %s"
+
+msgid "Could not contact NetworkManager: %s.\n"
+msgstr ""
+
+msgid "Could not create editor for connection '%s' of type '%s'."
+msgstr ""
+"འབྲེལ་མཐུད '%s'། ('%s'རིགས་རྣམ）ལ་རྩོམ་སྒྲིག་ཆས་གསར་འཛུགས་བྱེད་ཐབས་མེད།"
+
+msgid "Could not create editor for invalid connection '%s'."
+msgstr "ནུས་མེད་ཀྱི་འབྲེལ་མཐུད '%s' ལ་རྩོམ་སྒྲིག་ཆས་གསར་འཛུགས་བྱེད་ཐབས་མེད།"
+
+msgid "Could not create temporary file: %s"
+msgstr "གནས་སྐབས་ཡིག་ཆ་གསར་འཛུགས་བྱེད་མི་ཐུབ།：%s"
+
+msgid "Could not daemonize: %s [error %u]\n"
+msgstr ""
+
+msgid "Could not decode private key."
+msgstr "སྒེར་ལྡེ་ཨང་དགྲོལ་བྱེད་ཐབས་མེད།"
+
+msgid "Could not delete connection '%s': %s"
+msgstr "འབྲེལ་མཐུད“%s”：%s བསུབ་ཐབས་མེད།"
+
+msgid "Could not find \"%s\" binary"
+msgstr ""
+
+msgid "Could not generate random data."
+msgstr "སྐབས་བསྟུན་གཞི་གྲངས་འགྲུབ་མི་ཐུབ།"
+
+msgid "Could not load file '%s'\n"
+msgstr ""
+
+msgid "Could not parse arguments"
+msgstr "ཞུགས་གྲངས་ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ།"
+
+msgid "Could not re-read file: %s"
+msgstr "ཡིག་ཆ་བསྐྱར་དུ་ཀློག་ཐབས་མེད།： %s"
+
+msgid "Couldn't convert password to UCS2: %d"
+msgstr "གསང་ཨང་ USC2 རྣམ་པ་རུ་སྒྱུར་ཐབས་མེད།：%d"
+
+msgid "Couldn't decode PKCS#12 file: %d"
+msgstr "PKCS#12 ཡིག་ཆ་ཨང་དགྲོལ་བྱེད་ཐབས་མེད།：%d"
+
+msgid "Couldn't decode PKCS#12 file: %s"
+msgstr "PKCS#12 ཡིག་ཆ་ཨང་དགྲོལ་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Couldn't decode PKCS#8 file: %s"
+msgstr "PKCS#8 ཡིག་ཆ་ཨང་དགྲོལ་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Couldn't decode certificate: %d"
+msgstr "དཔང་ཡིག་ཨང་དགྲོལ་བྱེད་ཐབས་མེད།：%d"
+
+msgid "Couldn't decode certificate: %s"
+msgstr "དཔང་ཡིག་ཨང་དགྲོལ་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Couldn't initialize PKCS#12 decoder: %d"
+msgstr "PKCS#12 ཨང་དགྲོལ་ཆས་འགོ་སྒྲིག་བྱེད་ཐབས་མེད།：%d"
+
+msgid "Couldn't initialize PKCS#12 decoder: %s"
+msgstr "PKCS#12  ཨང་དགྲོལ་ཆས་འགོ་སྒྲིག་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Couldn't initialize PKCS#8 decoder: %s"
+msgstr "PKCS#8 ཨང་དགྲོལ་ཆས་འགོ་སྒྲིག་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Couldn't verify PKCS#12 file: %d"
+msgstr "PKCS#12  ཡིག་ཆ་དག་བཤེར་བྱེད་ཐབས་མེད།：%d"
+
+msgid "Couldn't verify PKCS#12 file: %s"
+msgstr "PKCS#12 ཡིག་ཆ་དག་བཤེར་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Create"
+msgstr "གསར་བཟོ།"
+
+msgid "Current DHCPv4 address"
+msgstr "མིག་སྔའི DHCPv4 ཤག་གནས།"
+
+msgid "Current nmcli configuration:\n"
+msgstr ""
+
+msgid "DBUS-PATH"
+msgstr ""
+
+msgid "DCB or FCoE setup failed"
+msgstr ""
+"གཞི་གྲངས་ལྟེ་གནས་ཀྱི་ཟམ་པའམ་ཡང་ན་ཨེ་ཐེར་དྲ་རྒྱ་འོད་སྐུད་རྒྱུ་ལམ་སྒྲིག་འགོད་ཕམ་པ།"
+
+msgid "DEFAULT"
+msgstr "སོར་བཞག"
+
+msgid "DEFAULT6"
+msgstr ""
+
+msgid "DEVICE"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "DEVICES"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "DHCP anycast MAC address [none]: "
+msgstr "DHCPསྐུལ་གཏོང་MACཤག་གནས་[མེད]"
+
+msgid "DHCP client error"
+msgstr "DHCP མཁོ་མཁན་ནོར་འཁྲུལ།"
+
+msgid "DHCP client failed"
+msgstr "DHCP མཁོ་མཁན་འབྲེལ་མཐུད་ཕམ་པ།"
+
+msgid "DHCP client failed to start"
+msgstr "DHCP མཁོ་མཁན་འགོ་སློང་ཕམ་པ།"
+
+msgid "DHCP4"
+msgstr ""
+
+msgid "DHCP6"
+msgstr ""
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS servers"
+msgstr "ཞབས་ཞུ་ཆས་ DNS "
+
+msgid "DOMAIN"
+msgstr ""
+
+msgid "DOMAINS"
+msgstr "ཁོངས།"
+
+msgid "DRIVER"
+msgstr "སྐུལ་སློང་བྱ་རིམ།"
+
+msgid "DRIVER-VERSION"
+msgstr "སྐུལ་སློང་པར་གཞི།"
+
+msgid "DSL"
+msgstr ""
+
+msgid "DSL authentication"
+msgstr "DSL ར་སྤྲོད།"
+
+msgid "DSL connection %d"
+msgstr "DSL འབྲེལ་མཐུད %d"
+
+msgid "DUN connection must include a GSM or CDMA setting"
+msgstr "DUN འབྲེལ་མཐུད་ལ་ངེས་པར་དུ  GSM ཡང་ན CDMA སྒྲིག་འགོད་འདུ་དགོས།"
+
+msgid "DUN requested, but Bluetooth device does not support DUN"
+msgstr "DUN རེ་ཞུ་བྱས་ཀྱང་སོ་སྔོན་སྒྲིག་ཆས་ཀྱིས་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Datagram"
+msgstr "གཞི་གྲངས་ཚགས་ཡིག"
+
+msgid "Deactivate"
+msgstr "མཚམས་བཞག"
+
+msgid "Delete"
+msgstr "འདོར་བ།"
+
+msgid "Destination"
+msgstr "དམིགས་ས།"
+
+msgid ""
+"Detect a slave connection with '%s' set and a port type '%s'. '%s' should be"
+" set to '%s'"
+msgstr ""
+"ཁོངས་གཏོགས་འབྲེལ་མཐུད  “%s” སྒྲིག་འགོད་དང་ “%s” "
+"སྣེ་ཁའི་རིགས་རྣམ་སྤྱད་པ་བཤེར་འཇལ་བྱས། “%s” དེ “%s”ལ་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid "Device"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "Device '%s' has been connected.\n"
+msgstr ""
+
+msgid "Device '%s' successfully activated with '%s'.\n"
+msgstr ""
+
+msgid "Device '%s' successfully disconnected.\n"
+msgstr ""
+
+msgid "Device '%s' successfully removed.\n"
+msgstr ""
+
+msgid "Device details"
+msgstr "སྒྲིག་ཆས་ཀྱི་གནས་ཚུལ་ཞིབ་ཕྲ།"
+
+msgid "Device disconnected by user or client"
+msgstr "\"སྒྲིག་ཆས་སྤྱོད་མཁན་དང་ཡང་ན་མཁོ་མཁན་གྱིས་འབྲེལ་མཐུད་གཅོད།"
+
+msgid "Device is now managed"
+msgstr "སྒྲིག་ཆས་ཚབ་གཉེར་བྱས་ཟིན་པ།"
+
+msgid "Device is now unmanaged"
+msgstr "སྒྲིག་ཆས་གཞན་དུ་སྤོས་ཟིན་པ།"
+
+msgid "Disabled"
+msgstr "བཀག་པ།"
+
+msgid "Disconnected by D-Bus"
+msgstr "D-Bus ཡིས་གཅོད་པ།"
+
+msgid "Do you also want to clear '%s'? [yes]: "
+msgstr "ཁྱེད་ཀྱིས་ཀྱང་ “%s”གཙང་སེལ་བྱེད་འདོད་དམ། [ཡིན]："
+
+msgid "Do you also want to set '%s' to '%s'? [yes]: "
+msgstr "ཁྱེད་ཀྱིས་ཀྱང་“%s” ཞེས་པ་དེ “%s” རུ་སྒྲིག་འགོད་བྱེད་འདོད་དམ།[ཡིན]："
+
+msgid "Do you want to add IP addresses? %s"
+msgstr "ཁྱེད་ཀྱིས IPཤག་གནས་ཁ་སྣོན་བྱེད་འདོད་དམ། %s"
+
+msgid "Do you want to provide it? %s"
+msgid_plural "Do you want to provide them? %s"
+msgstr[0] "ཁྱེད་ཀྱིས %s མཁོ་འདོན་བྱེད་འདོད་དམ།"
+msgstr[1] "ཁྱེད་ཀྱིས %s མཁོ་འདོན་བྱེད་འདོད་དམ།"
+
+msgid "Do you want to remove them? [yes] "
+msgstr "ཁྱོད་ཀྱིས་དེ་ཚོ་བསུབ་འདོད་དམ། [ཡིན]"
+
+msgid "Doesn't look like a PEM private key file."
+msgstr "PEM སྒེར་ལྡེ་ཡིག་ཆ་ཞིག་དང་མི་འདྲ།"
+
+msgid "Don't become a daemon"
+msgstr "ལྟ་སྲུང་གི་འཕེལ་རིམ་དུ་མི་འགྱུར་བར་བྱ་དགོས།"
+
+msgid "Don't become a daemon, and log to stderr"
+msgstr ""
+"ལྟ་སྲུང་གི་འཕེལ་རིམ་དུ་མི་འགྱུར་བར་བྱེད་དགོས་པ་མ་ཟད།ཉིན་ཐོ་Sderrལ་ཟིན་ཐོ་བཀོད།"
+
+msgid "Don't print anything"
+msgstr "ཆ་འཕྲིན་གང་ཡང་མི་དཔར།"
+
+msgid "Dynamic WEP (802.1x)"
+msgstr "འགུལ་རྣམ WEP། (802.1x)"
+
+msgid "Dynamic WEP requires 'ieee8021x' key management"
+msgstr "འགུལ་རྣམ WEP ལ “ieee8021x” གསང་ལྡེ་དོ་དམ་དགོས།"
+
+msgid "Dynamic WEP requires 'open' authentication"
+msgstr "འགུལ་རྣམ WEP ལ “open” ར་སྤྲོད་དགོས།"
+
+msgid "Dynamic WEP requires an 802.1x setting"
+msgstr "འགུལ་རྣམ WEP ཡིས 802.1x ལ་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid "EAP"
+msgstr ""
+
+msgid "ETHERNET"
+msgstr "ཨེ་ཐེར་དྲ་རྒྱ།"
+
+msgid "Edit '%s' value: "
+msgstr "“%s” གྲངས་ཐང་རྩོམ་སྒྲིག："
+
+msgid "Edit Connection"
+msgstr "འབྲེལ་མཐུད་རྩོམ་སྒྲིག"
+
+msgid "Edit a connection"
+msgstr "འབྲེལ་མཐུད་རྩོམ་སྒྲིག"
+
+msgid "Edit..."
+msgstr "རྩོམ་སྒྲིག..."
+
+msgid "Editing existing '%s' connection: '%s'"
+msgstr "ད་ཡོད་ཀྱི “%s” འབྲེལ་མཐུད་རྩོམ་སྒྲིག：“%s”"
+
+msgid "Editor failed with signal %d"
+msgstr "རྩོམ་སྒྲིག་ཆས་ཕམ་སོང་། བརྡ་རྟགས་ནི  %d"
+
+msgid "Editor failed with status %d"
+msgstr "རྩོམ་སྒྲིག་ཆས་ཕམ་སོང་། རྣམ་པ་ནི  %d"
+
+msgid "Editor failed: %s"
+msgstr "རྩོམ་སྒྲིག་ཆས་ཕམ་སོང་།: %s"
+
+msgid "Egress priority maps [none]: "
+msgstr "Egress སྔོན་ཐོབ་རིམ་རྟེན་འཕྲོ། [མེད]："
+
+msgid "Enable STP %s"
+msgstr "སྤྱོད་འགོ་རྩོམ་པ། STP %s"
+
+msgid "Enable STP (Spanning Tree Protocol)"
+msgstr "སྤྱོད་འགོ་རྩོམ་པ། STP། (རྒྱ་སྐྱེད་སྡོང་བོའི་གྲོས་ཆིངས།)"
+
+msgid "Enable or disable WiFi devices"
+msgstr "WiFi སྒྲིག་ཆས་སྤྱོད་འགོ་རྩོམ་པའམ་འགོག་སྤྱོད།"
+
+msgid "Enable or disable WiMAX mobile broadband devices"
+msgstr "WIMAX སྒུལ་བདེའི་དྲ་ཆེན་སྒྲིག་ཆས་སྤྱོད་འགོ་རྩོམ་པའམ་འགོག་སྤྱོད།"
+
+msgid "Enable or disable mobile broadband devices"
+msgstr "སྒུལ་བདེའི་དྲ་ཆེན་སྒྲིག་ཆས་སྤྱོད་འགོ་རྩོམ་པའམ་འགོག་སྤྱོད།"
+
+msgid "Enable or disable system networking"
+msgstr "རྒྱུད་ཁོངས་དྲ་རྒྱ་སྤྱོད་འགོ་རྩོམ་པའམ་འགོག་སྤྱོད།"
+
+msgid "Enter '%s' value: "
+msgstr "“%s” གྲངས་ཐང་ནང་འཇུག："
+
+msgid ""
+"Enter a list of IPv4 addresses formatted as:\n"
+"  ip[/prefix], ip[/prefix],...\n"
+"Missing prefix is regarded as prefix of 32.\n"
+"\n"
+"Example: 192.168.1.5/24, 10.0.0.11/24\n"
+msgstr ""
+
+msgid ""
+"Enter a list of IPv4 addresses of DNS servers.\n"
+"\n"
+"Example: 8.8.8.8, 8.8.4.4\n"
+msgstr ""
+
+msgid ""
+"Enter a list of IPv4 routes formatted as:\n"
+"  ip[/prefix] [next-hop] [metric],...\n"
+"\n"
+"Missing prefix is regarded as a prefix of 32.\n"
+"Missing next-hop is regarded as 0.0.0.0.\n"
+"Missing metric means default (NM/kernel will set a default value).\n"
+"\n"
+"Examples: 192.168.2.0/24 192.168.2.1 3, 10.1.0.0/16 10.0.0.254\n"
+"          10.1.2.0/24\n"
+msgstr ""
+
+msgid ""
+"Enter a list of IPv6 addresses formatted as:\n"
+"  ip[/prefix], ip[/prefix],...\n"
+"Missing prefix is regarded as prefix of 128.\n"
+"\n"
+"Example: 2607:f0d0:1002:51::4/64, 1050:0:0:0:5:600:300c:326b\n"
+msgstr ""
+
+msgid ""
+"Enter a list of IPv6 addresses of DNS servers.  If the IPv6 configuration method is 'auto' these DNS servers are appended to those (if any) returned by automatic configuration.  DNS servers cannot be used with the 'shared' or 'link-local' IPv6 configuration methods, as there is no upstream network. In all other IPv6 configuration methods, these DNS servers are used as the only DNS servers for this connection.\n"
+"\n"
+"Example: 2607:f0d0:1002:51::4, 2607:f0d0:1002:51::1\n"
+msgstr ""
+
+msgid ""
+"Enter a list of IPv6 routes formatted as:\n"
+"  ip[/prefix] [next-hop] [metric],...\n"
+"\n"
+"Missing prefix is regarded as a prefix of 128.\n"
+"Missing next-hop is regarded as \"::\".\n"
+"Missing metric means default (NM/kernel will set a default value).\n"
+"\n"
+"Examples: 2001:db8:beef:2::/64 2001:db8:beef::2, 2001:db8:beef:3::/64 2001:db8:beef::3 2\n"
+"          abbe::/64 55\n"
+msgstr ""
+
+msgid ""
+"Enter a list of S/390 options formatted as:\n"
+"  option = <value>, option = <value>,...\n"
+"Valid options are: %s\n"
+msgstr ""
+
+msgid ""
+"Enter a list of bonding options formatted as:\n"
+"  option = <value>, option = <value>,... \n"
+"Valid options are: %s\n"
+"'mode' can be provided as a name or a number:\n"
+"balance-rr    = 0\n"
+"active-backup = 1\n"
+"balance-xor   = 2\n"
+"broadcast     = 3\n"
+"802.3ad       = 4\n"
+"balance-tlb   = 5\n"
+"balance-alb   = 6\n"
+"\n"
+"Example: mode=2,miimon=120\n"
+msgstr ""
+
+msgid ""
+"Enter a list of subchannels (comma or space separated).\n"
+"\n"
+"Example: 0.0.0e20 0.0.0e21 0.0.0e22\n"
+msgstr ""
+
+msgid ""
+"Enter a list of user permissions. This is a list of user names formatted as:\n"
+"  [user:]<user name 1>, [user:]<user name 2>,...\n"
+"The items can be separated by commas or spaces.\n"
+"\n"
+"Example: alice bob charlie\n"
+msgstr ""
+
+msgid ""
+"Enter bytes as a list of hexadecimal values.\n"
+"Two formats are accepted:\n"
+"(a) a string of hexadecimal digits, where each two digits represent one byte\n"
+"(b) space-separated list of bytes written as hexadecimal digits (with optional 0x/0X prefix, and optional leading 0).\n"
+"\n"
+"Examples: ab0455a6ea3a74C2\n"
+"          ab 4 55 0xa6 ea 3a 74 C2\n"
+msgstr ""
+
+msgid "Enter connection type: "
+msgstr "འབྲེལ་མཐུད་རིགས་རྣམ་ནང་འཇུག："
+
+msgid ""
+"Enter file path to CA certificate (optionally prefixed with file://).\n"
+"  [file://]<file path>\n"
+"Note that nmcli does not support specifying certificates as raw blob data.\n"
+"Example: /home/cimrman/cacert.crt\n"
+msgstr ""
+
+msgid ""
+"Enter file path to CA certificate for inner authentication (optionally prefixed\n"
+"with file://).\n"
+"  [file://]<file path>\n"
+"Note that nmcli does not support specifying certificates as raw blob data.\n"
+"Example: /home/cimrman/ca-zweite-phase.crt\n"
+msgstr ""
+
+msgid ""
+"Enter file path to client certificate (optionally prefixed with file://).\n"
+"  [file://]<file path>\n"
+"Note that nmcli does not support specifying certificates as raw blob data.\n"
+"Example: /home/cimrman/jara.crt\n"
+msgstr ""
+
+msgid ""
+"Enter file path to client certificate for inner authentication (optionally prefixed\n"
+"with file://).\n"
+"  [file://]<file path>\n"
+"Note that nmcli does not support specifying certificates as raw blob data.\n"
+"Example: /home/cimrman/jara-zweite-phase.crt\n"
+msgstr ""
+
+msgid ""
+"Enter path to a private key and the key password (if not set yet):\n"
+"  [file://]<file path> [<password>]\n"
+"Note that nmcli does not support specifying private key as raw blob data.\n"
+"Example: /home/cimrman/jara-priv-key Dardanely\n"
+msgstr ""
+
+msgid ""
+"Enter secondary connections that should be activated when this connection is\n"
+"activated. Connections can be specified either by UUID or ID (name). nmcli\n"
+"transparently translates names to UUIDs. Note that NetworkManager only supports\n"
+"VPNs as secondary connections at the moment.\n"
+"The items can be separated by commas or spaces.\n"
+"\n"
+"Example: private-openvpn, fe6ba5d8-c2fc-4aae-b2e3-97efddd8d9a7\n"
+msgstr ""
+
+msgid ""
+"Enter the type of WEP keys. The accepted values are: 0 or unknown, 1 or key,"
+" and 2 or passphrase.\n"
+msgstr ""
+
+msgid "Error converting IP4 address '0x%X' to text form"
+msgstr "IP4 ཤག་གནས “0x%X” ཡིག་རྐྱང་རྣམ་གཞག་ལ་བསྒྱར་དུས་ནོར་བ།"
+
+msgid "Error converting IP6 address '%s' to text form"
+msgstr "\"IP6 ཤག་གནས “%s” ཡིག་རྐྱང་རྣམ་གཞག་ལ་བསྒྱར་དུས་ནོར་བ།"
+
+msgid "Error in configuration file: %s.\n"
+msgstr ""
+
+msgid "Error initializing certificate data: %s"
+msgstr "འགོ་སྒྲིག་དཔང་ཡིག་གཞི་གྲངས་ནོར་འཁྲུལ།：%s"
+
+msgid "Error updating secrets for %s: %s\n"
+msgstr ""
+
+msgid "Error: "
+msgstr "ནོར་འཁྲུལ། "
+
+msgid "Error: %s\n"
+msgstr ""
+
+msgid "Error: %s - no such connection profile."
+msgstr "ནོར་འཁྲུལ།：%s - འབྲེལ་མཐུད་སྡེབ་སྒྲིག་ཡིག་ཆ་འདི་ལྟ་བུ་མེད།"
+
+msgid "Error: %s argument is missing."
+msgstr "ནོར་འཁྲུལ།： %s ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Error: %s properties, nor it is a setting name.\n"
+msgstr ""
+
+msgid "Error: %s."
+msgstr "ནོར་འཁྲུལ།： %s"
+
+msgid "Error: %s: %s."
+msgstr "ནོར་འཁྲུལ།： %s：%s"
+
+msgid "Error: '%s' argument is missing."
+msgstr "ནོར་འཁྲུལ།： '%s' ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Error: '%s' is not a valid connection type."
+msgstr "ནོར་འཁྲུལ།： “%s” ནུས་ཡོད་ཀྱི་འབྲེལ་མཐུད་རིགས་རྣམ་མིན།"
+
+msgid "Error: '%s' is not a valid monitoring mode; use '%s' or '%s'.\n"
+msgstr ""
+
+msgid "Error: '%s' is not a valid timeout for '%s' option."
+msgstr "ནོར་འཁྲུལ།： “%s” ནི “%s” འདེམས་ཚན་གྱི་ནུས་མེད་དུས་བརྒལ་ཡིན།"
+
+msgid "Error: '%s' is not an active connection.\n"
+msgstr ""
+
+msgid "Error: '%s' is not valid 'connection' command."
+msgstr "ནོར་འཁྲུལ།： “%s” ནི་ནུས་མེད་ཀྱི “connection” བཀའ་ཞིག་ཡིན།"
+
+msgid "Error: '%s' is not valid argument for '%s' option."
+msgstr "ནོར་འཁྲུལ།： “%s” ནི “%s” འདེམས་ཚན་གྱི་ནུས་ཡོད་དུས་བརྒལ་ཡིན།"
+
+msgid "Error: '%s' setting not present in the connection\n"
+msgstr ""
+
+msgid "Error: '%s': '%s' is not a valid %s %s."
+msgstr "ནོར་འཁྲུལ།： '%s': '%s' ནུས་ཡོད་ཀྱི %s %s ཞིག་མིན།"
+
+msgid "Error: '%s': '%s' is not a valid %s MAC address."
+msgstr "ནོར་འཁྲུལ།： “%s”：“%s” ནི་ནུས་མེད་ཀྱི %s MAC ཤག་གནས་ཡིན།"
+
+msgid "Error: '%s': '%s' is not valid; %s "
+msgstr "ནོར་འཁྲུལ།： “%s”：“%s” ནུས་མེད། %s"
+
+msgid "Error: '%s': '%s' is not valid; use <%u-%u>."
+msgstr "ནོར་འཁྲུལ།： “%s”：“%s” ནུས་མེད།  <%u-%u>སྤྱོད་པ།"
+
+msgid "Error: '--fields' value '%s' is not valid here (allowed field: %s)"
+msgstr "ནོར་འཁྲུལ།： “--fields” གྲངས་ཐང་། “%s” ནུས་མེད། (རུང་བའི་ཡིག་དུམ།：%s)"
+
+msgid "Error: 'addr' is required."
+msgstr "ནོར་འཁྲུལ།： “addr” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'ageing-time': '%s' is not a valid number <0-1000000>.\n"
+msgstr ""
+
+msgid "Error: 'agent' command '%s' is not valid."
+msgstr "ནོར་འཁྲུལ།： “agent” བཀའ་བརྡ “%s” ནུས་མེད།"
+
+msgid "Error: 'apn' is required."
+msgstr "ནོར་འཁྲུལ།： “apn” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'arp-interval': '%s' is not a valid number <0-%u>.\n"
+msgstr ""
+
+msgid "Error: 'autoconnect': %s."
+msgstr "ནོར་འཁྲུལ།： “རང་འགུལ་འབྲེལ་མཐུད།”：%s"
+
+msgid "Error: 'bt-type': '%s' is not a valid bluetooth type.\n"
+msgstr ""
+
+msgid "Error: 'bt-type': '%s' not valid; use [%s, %s (%s), %s]."
+msgstr "ནོར་འཁྲུལ།： “bt-type”：“%s” ནུས་མེད།  [%s，%s། (%s)，%s]སྤྱོད་པ།"
+
+msgid "Error: 'channel': '%s' is not a valid number <1-13>.\n"
+msgstr ""
+
+msgid "Error: 'channel': '%s' is not valid; use <1-13>."
+msgstr "ནོར་འཁྲུལ།： “channel”：“%s” ནུས་མེད；使用 <1-13>。\""
+
+msgid "Error: 'connection show': %s"
+msgstr "ནོར་འཁྲུལ།： “connection show”：%s"
+
+msgid "Error: 'dev' command '%s' is not valid."
+msgstr "ནོར་འཁྲུལ།： “dev” བཀའ་བརྡ “%s” ནུས་མེད།"
+
+msgid "Error: 'dev' is required."
+msgstr "ནོར་འཁྲུལ།： “dev” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'dev': '%s' is neither UUID, interface name, nor MAC."
+msgstr "ནོར་འཁྲུལ།： “dev”：“%s”  UUIDམཐུད་ཁའི་མིང་མིན་ལ MAC ཤག་གནས་ཡང་མིན།"
+
+msgid "Error: 'device show': %s"
+msgstr "ནོར་འཁྲུལ།： “device show”།：%s"
+
+msgid "Error: 'device status': %s"
+msgstr "ནོར་འཁྲུལ།： “device status”：%s"
+
+msgid "Error: 'device wifi' command '%s' is not valid."
+msgstr "ནོར་འཁྲུལ།： “device wifi” བཀའ་བརྡ “%s” ནུས་མེད།"
+
+msgid "Error: 'device wifi': %s"
+msgstr "ནོར་འཁྲུལ།： “device wifi”：“%s”"
+
+msgid "Error: 'downdelay': '%s' is not a valid number <0-%u>.\n"
+msgstr ""
+
+msgid "Error: 'flags': '%s' is not valid; use <0-7>."
+msgstr "ནོར་འཁྲུལ།： “flags”：“%s” ནུས་མེད།   <0-7> སྤྱོད་རོགས།"
+
+msgid "Error: 'forward-delay': '%s' is not a valid number <2-30>.\n"
+msgstr ""
+
+msgid "Error: 'general logging': %s"
+msgstr "ནོར་འཁྲུལ།： “general logging”：%s"
+
+msgid "Error: 'general permissions': %s"
+msgstr "ནོར་འཁྲུལ།： “general permissions”： %s"
+
+msgid "Error: 'general' command '%s' is not valid."
+msgstr "ནོར་འཁྲུལ།： 'general' བཀའ་བརྡ '%s' +C1072ནུས་མེད།"
+
+msgid "Error: 'hairpin': %s."
+msgstr "ནོར་འཁྲུལ།： “hairpin”：%s"
+
+msgid "Error: 'hairpin': %s.\n"
+msgstr ""
+
+msgid "Error: 'hello-time': '%s' is not a valid number <1-10>.\n"
+msgstr ""
+
+msgid "Error: 'id' is required."
+msgstr "ནོར་འཁྲུལ།： “id” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'ifname' argument is required."
+msgstr "ནོར་འཁྲུལ།： “ifname” ཞུགས་གྲངས་ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'ifname': '%s' is not a valid interface nor '*'."
+msgstr "ནོར་འཁྲུལ།： “ifname”：“%s” ནུས་ཡོད་ཀྱི་མཐུད་ཁམིན་ལ “*”ཡང་མིན།"
+
+msgid "Error: 'lacp_rate': '%s' is invalid ('slow' or 'fast').\n"
+msgstr ""
+
+msgid "Error: 'master' is required."
+msgstr "ནོར་འཁྲུལ།： “master” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'max-age': '%s' is not a valid number <6-40>.\n"
+msgstr ""
+
+msgid "Error: 'miimon': '%s' is not a valid number <0-%u>.\n"
+msgstr ""
+
+msgid "Error: 'mode': %s."
+msgstr "ནོར་འཁྲུལ།： “mode”：%s"
+
+msgid "Error: 'mtu': '%s' is not a valid MTU."
+msgstr "ནོར་འཁྲུལ།：  “mtu”：“%s” ནུས་ཡོད་ཀྱི MTU མིན།"
+
+msgid "Error: 'networking connectivity' command '%s' is not valid."
+msgstr "ནོར་འཁྲུལ།： “networking connectivity” བཀའ་བརྡ “%s” ནུས་མེད།"
+
+msgid "Error: 'networking' command '%s' is not valid."
+msgstr "ནོར་འཁྲུལ།： “networking” བཀའ་བརྡ “%s” ནུས་མེད།"
+
+msgid "Error: 'nsp' is required."
+msgstr "ནོར་འཁྲུལ།： “nsp” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'p-key' is mandatory when 'parent' is specified.\n"
+msgstr ""
+
+msgid "Error: 'p-key': '%s' is not a valid InfiniBand P_KEY."
+msgstr "ནོར་འཁྲུལ།： “p-key”：“%s” ནུས་ཡོད་ཀྱི InfiniBand P_KEYམིན།"
+
+msgid "Error: 'parent': '%s' is not a valid interface name."
+msgstr "ནོར་འཁྲུལ།： “parent”：“%s” ནི་ནུས་མེད་ཀྱི་མཐུད་ཁའི་མིང་ཡིན།"
+
+msgid "Error: 'parent': not valid without 'p-key'."
+msgstr "ནོར་འཁྲུལ།： “parent”： “p-key” དགོས།"
+
+msgid "Error: 'primary': '%s' is not a valid interface name."
+msgstr "ནོར་འཁྲུལ།： “primary”：“%s” ནི་ནུས་མེད་ཀྱི་མཐུད་ཁའི་མིང་ཡིན།"
+
+msgid "Error: 'primary': '%s' is not a valid interface name.\n"
+msgstr ""
+
+msgid "Error: 'priority': '%s' is not a valid number <0-%d>.\n"
+msgstr ""
+
+msgid "Error: 'radio' command '%s' is not valid."
+msgstr "ནོར་འཁྲུལ།： “radio” བཀའ་བརྡ “%s” ནུས་མེད།"
+
+msgid "Error: 'save': %s."
+msgstr "ནོར་འཁྲུལ།： “save”：%s"
+
+msgid "Error: 'ssid' is required."
+msgstr "ནོར་འཁྲུལ།： “ssid” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'stp': %s."
+msgstr "ནོར་འཁྲུལ།： “stp”：%s"
+
+msgid "Error: 'stp': %s.\n"
+msgstr ""
+
+msgid "Error: 'type' argument is required."
+msgstr "ནོར་འཁྲུལ།： “type” ཞུགས་གྲངས་ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'updelay': '%s' is not a valid number <0-%u>.\n"
+msgstr ""
+
+msgid "Error: 'username' is required."
+msgstr "ནོར་འཁྲུལ།： “username” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: 'vpn-type' is required."
+msgstr "ནོར་འཁྲུལ།： “vpn-type” ནི་ངེས་པར་དུ་ཡིན་དགོས།"
+
+msgid "Error: <setting>.<property> argument is missing."
+msgstr "ནོར་འཁྲུལ།： <setting>.<property> ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Error: Access point with bssid '%s' not found."
+msgstr "ནོར་འཁྲུལ།： bssid “%s” ཡི་མཐུད་ཚེག་རྙེད་མེད།"
+
+msgid "Error: Argument '%s' was expected, but '%s' provided."
+msgstr ""
+"ནོར་འཁྲུལ།： སྔོན་དཔག་རྟར་ན “%s” ཞུགས་གྲངས་ཡིན་མོད། འོན་ཀྱང་ “%s” "
+"ཡིས་མཁོ་འདོན་བྱེད།"
+
+msgid "Error: BSSID to connect to (%s) differs from bssid argument (%s)."
+msgstr ""
+"ནོར་འཁྲུལ།：། (%s) BSSID ལ་འབྲེལ་མཐུད་བྱས་པའི་ཞུགས་གྲངས་དང་དམིགས་བཙུགས་པའི "
+"bssid ཞུགས་གྲངས། (%s)གཅིག་གྱུར་མིན།"
+
+msgid "Error: Cannot activate connection: %s.\n"
+msgstr ""
+
+msgid "Error: Connection '%s' does not exist."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད '%s' མེད།"
+
+msgid "Error: Connection activation failed."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་སྐུལ་སློང་ཕམ་པ།"
+
+msgid "Error: Connection activation failed.\n"
+msgstr ""
+
+msgid "Error: Connection activation failed: %s"
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་སྐུལ་སློང་ཕམ་པ།：%s"
+
+msgid "Error: Connection activation failed: %s."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་སྐུལ་སློང་ཕམ་པ།：%s"
+
+msgid "Error: Connection activation failed: (%d) %s.\n"
+msgstr ""
+
+msgid "Error: Connection deletion failed: %s"
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་བསུབ་པ་ཕམ་པ།：%s"
+
+msgid "Error: Could not create NMClient object: %s."
+msgstr "ནོར་འཁྲུལ།： NMClient བྱ་ཡུལ་གསར་འཛུགས་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Error: Device '%s' (%s) deletion failed: %s\n"
+msgstr ""
+
+msgid "Error: Device '%s' (%s) disconnecting failed: %s\n"
+msgstr ""
+
+msgid "Error: Device '%s' is not a Wi-Fi device."
+msgstr "ནོར་འཁྲུལ།： “%s”   Wi-Fi སྒྲིག་ཆས་མིན།"
+
+msgid "Error: Device '%s' not found."
+msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས '%s'རྙེད་མེད།"
+
+msgid "Error: Device '%s' not found.\n"
+msgstr ""
+
+msgid ""
+"Error: Device '%s' was not recognized as a Wi-Fi device, check "
+"NetworkManager Wi-Fi plugin."
+msgstr ""
+
+msgid "Error: Device activation failed: %s"
+msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་སྐུལ་སློང་ཕམ་པ།：%s"
+
+msgid "Error: Device activation failed: device was disconnected"
+msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་སྐུལ་སློང་ཕམ་པ།：སྒྲིག་ཆས་འབྲེལ་མཐུད་བཅད་པ།"
+
+msgid "Error: Failed to activate '%s' (%s) connection: %s\n"
+msgstr ""
+
+msgid "Error: Failed to add '%s' connection: %s"
+msgstr "ནོར་འཁྲུལ།： '%s' འབྲེལ་མཐུད་ཁ་སྣོན་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Error: Failed to add/activate new connection: %s"
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་གསར་པ་ཁ་གསབ/སྐུལ་སློང་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Error: Failed to add/activate new connection: Unknown error"
+msgstr ""
+"ནོར་འཁྲུལ།：འབྲེལ་མཐུད་གསར་པ་ཁ་གསབ/སྐུལ་སློང་བྱེད་ཐབས་མེད།：ངེས་མེད་ནོར་འཁྲུལ།"
+
+msgid "Error: Failed to modify connection '%s': %s"
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་བཅོས་བསྒྱུར་བྱེད་ཐབས་མེད། '%s': %s"
+
+msgid "Error: Failed to save '%s' (%s) connection: %s\n"
+msgstr ""
+
+msgid "Error: IPv4 gateway specified without IPv4 addresses"
+msgstr "ནོར་འཁྲུལ།：  IPv4 དྲ་སྟེམ་དམིགས་འཛུགས་བྱས་པ་ལས IPv4 ཤག་གནས་མེད།"
+
+msgid "Error: IPv6 gateway specified without IPv6 addresses"
+msgstr "ནོར་འཁྲུལ།：  IPv6 དྲ་སྟེམ་དམིགས་འཛུགས་བྱས་པ་ལས IPv6 ཤག་གནས་མེད།"
+
+msgid "Error: Invalid IPv4 gateway '%s'"
+msgstr "ནོར་འཁྲུལ།： IPv4 དྲ་སྟེམ་ནུས་མེད། '%s'"
+
+msgid "Error: Invalid IPv6 gateway '%s'"
+msgstr "ནོར་འཁྲུལ།： IPv6 དྲ་སཏེམ་ནུས་མེད། '%s'"
+
+msgid "Error: NetworkManager is not running."
+msgstr "ནོར་འཁྲུལ།： NetworkManager འཁོར་སྐྱོད་བྱས་མེད།"
+
+msgid "Error: No Wi-Fi device found."
+msgstr "ནོར་འཁྲུལ།：  Wi-Fi སྒྲིག་ཆས་མ་རྙེད།"
+
+msgid "Error: No access point with BSSID '%s' found."
+msgstr "ནོར་འཁྲུལ།：  BSSID ཡིས “%s” མཐུད་ཚེག་མ་རྙེད།"
+
+msgid "Error: No arguments provided."
+msgstr "ནོར་འཁྲུལ།： ཞུགས་གྲངས་འདོན་སྤྲོད་མ་བྱས།"
+
+msgid "Error: No connection specified."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་དམིགས་འཛུགས་བྱས་མེད་པ།"
+
+msgid "Error: No interface specified."
+msgstr "ནོར་འཁྲུལ།： མཐུད་ཁ་དམིགས་འཛུགས་བྱས་མེད།"
+
+msgid "Error: No network with SSID '%s' found."
+msgstr "ནོར་འཁྲུལ།：  SSID ཡིས “%s” དྲ་རྒྱ་ཡོད་པ་མ་རྙེད།"
+
+msgid "Error: Object '%s' is unknown, try 'nmcli help'."
+msgstr "ནོར་འཁྲུལ།： བྱ་ཡུལ “%s” ངེས་མེད།  “nmcli help”ཚོད་ལྟ་བྱོས།"
+
+msgid "Error: Option '%s' is unknown, try 'nmcli -help'."
+msgstr "ནོར་འཁྲུལ།： འདེམས་ཚན '%s' ངེས་མེད།  'nmcli -help'ཚོད་ལྟ་བྱོས།"
+
+msgid "Error: Option '--pretty' is mutually exclusive with '--terse'."
+msgstr "ནོར་འཁྲུལ།： འདེམས་ཚན “--pretty” དང་  “--terse” ཕན་ཚུན་ཕྱིར་ཕུད།"
+
+msgid "Error: Option '--pretty' is specified the second time."
+msgstr "ནོར་འཁྲུལ།： དམིགས་འཛུགས་ཐེངས་གཉིས་པའི་འདེམས་ཚན། “--pretty”"
+
+msgid "Error: Option '--terse' is mutually exclusive with '--pretty'."
+msgstr "ནོར་འཁྲུལ།： འདེམས་ཚན “--terse” དང་ “--pretty” ཕན་ཚུན་ཕྱིར་ཕུད།"
+
+msgid "Error: Option '--terse' is specified the second time."
+msgstr "ནོར་འཁྲུལ།： དམིགས་འཛུགས་ཐེངས་གཉིས་པའི་འདེམས་ཚན། “--terse”。\""
+
+msgid "Error: Parameter '%s' is neither SSID nor BSSID."
+msgstr "ནོར་འཁྲུལ།： ཞུགས་གྲངས “%s” ནི SSID མིན་ལ BSSIDཡང་མིན།"
+
+msgid "Error: SSID or BSSID are missing."
+msgstr "ནོར་འཁྲུལ།： SSID དང་ཡང་ན BSSID ཆད་པ།"
+
+msgid "Error: Timeout %d sec expired."
+msgstr "ནོར་འཁྲུལ།： དུས་བརྒལ་སྐར་ཆ %d དུས་ཡོལ།"
+
+msgid "Error: Unexpected argument '%s'"
+msgstr "ནོར་འཁྲུལ།： ངེས་མེད་ཞུགས་གྲངས། “%s”"
+
+msgid "Error: Unknown connection '%s'."
+msgstr "ནོར་འཁྲུལ།： ངེས་མེད་འབྲེལ་མཐུད། “%s”"
+
+msgid "Error: bssid argument value '%s' is not a valid BSSID."
+msgstr ""
+"ནོར་འཁྲུལ།： དམིགས་འཙུགས་པའི bssid ཞུགས་གྲངས “%s” ནི་ནུས་མེད་ཀྱི BSSIDཡིན།"
+
+msgid "Error: cannot delete unknown connection(s): %s."
+msgstr "ནོར་འཁྲུལ།： ངེས་མེད་འབྲེལ་མཐུད་བསུབ་ཐབས་མེད།：%s"
+
+msgid "Error: connection ID is missing."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད ID ཆད་པ།"
+
+msgid "Error: connection is not saved. Type 'save' first.\n"
+msgstr ""
+
+msgid "Error: connection is not valid: %s\n"
+msgstr ""
+
+msgid "Error: connection verification failed: %s\n"
+msgstr ""
+
+msgid "Error: extra argument not allowed: '%s'."
+msgstr "ནོར་འཁྲུལ།： ཚད་བརྒལ་གྱི་ཞུགས་གྲངས་བྱེད་མི་འོས་པ།:'%s'。\""
+
+msgid "Error: failed to load connection: %s."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་ཁུར་སྣོན་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Error: failed to modify %s.%s: %s."
+msgstr "ནོར་འཁྲུལ།： %s.%s བཟོ་བཅོས་ཕམ་པ།： %s"
+
+msgid "Error: failed to reload connections: %s."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་བསྐྱར་ལེན་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Error: failed to remove a value from %s.%s: %s."
+msgstr "ནོར་འཁྲུལ།： %s.%s ནས་གྲངས་ཐང་སྤོ་སྒྱུར་ཕམ་པ།：%s"
+
+msgid "Error: failed to remove value of '%s': %s\n"
+msgstr ""
+
+msgid "Error: failed to set '%s' property: %s\n"
+msgstr ""
+
+msgid "Error: failed to set hostname: %s"
+msgstr ""
+
+msgid "Error: failed to set logging: %s"
+msgstr "ནོར་འཁྲུལ།： ཉིན་ཐོ་སྒྲིག་འགོད་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Error: fields for '%s' options are missing."
+msgstr "ནོར་འཁྲུལ།：  '%s' འདེམས་ཚན་ཡིག་དུམ་ཆད་པ།"
+
+msgid "Error: invalid '%s' argument: '%s' (use on/off)."
+msgstr "ནོར་འཁྲུལ།： ནུས་མེད་ཀྱི '%s' ཞུགས་གྲངས།：'%s'( on/off སྤྱོད་པ།)"
+
+msgid "Error: invalid <setting>.<property> '%s'."
+msgstr "ནོར་འཁྲུལ།： ནུས་མེད་ཀྱི <setting>.<property>'%s'"
+
+msgid "Error: invalid argument '%s'\n"
+msgstr ""
+
+msgid "Error: invalid connection type; %s\n"
+msgstr ""
+
+msgid "Error: invalid connection type; %s."
+msgstr "ནོར་འཁྲུལ།： ནུས་མེད་ཀྱི་འབྲེལ་མཐུད་རིགས་རྣམ། %s"
+
+msgid "Error: invalid extra argument '%s'."
+msgstr "ནོར་འཁྲུལ།： ནུས་མེད་ཀྱི་ཚད་བརྒལ་ཞུགས་གྲངས། '%s'"
+
+msgid "Error: invalid gateway address '%s'\n"
+msgstr ""
+
+msgid "Error: invalid or not allowed setting '%s': %s."
+msgstr "ནོར་འཁྲུལ།： ནུས་མེད་ཡང་ན་མི་རུང་བའི་སྒྲིག་འགོད། “%s”: %s"
+
+msgid "Error: invalid property '%s': %s."
+msgstr "ནོར་འཁྲུལ།： ནུས་མེད་གཏོགས་གཤིས།：“%s”：%s"
+
+msgid "Error: invalid property: %s\n"
+msgstr ""
+
+msgid "Error: invalid property: %s%s\n"
+msgstr ""
+
+msgid "Error: invalid property: %s, neither a valid setting name.\n"
+msgstr ""
+
+msgid "Error: invalid setting argument '%s'; valid are [%s]\n"
+msgstr ""
+
+msgid "Error: invalid setting name; %s\n"
+msgstr ""
+
+msgid "Error: missing argument for '%s' option."
+msgstr "ནོར་འཁྲུལ།： '%s' འདེམས་ཚན་ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Error: missing setting for '%s' property\n"
+msgstr ""
+
+msgid "Error: multiple IPv4 gateways specified"
+msgstr "ནོར་འཁྲུལ།：  IPv4 དྲ་སྟེམ་མང་པོ་དམིགས་འཛུགས་བྱེད་པ།"
+
+msgid "Error: multiple IPv6 gateways specified"
+msgstr "ནོར་འཁྲུལ།：  IPv6  དྲ་སྟེམ་མང་པོ་དམིགས་འཛུགས་བྱས་པ།"
+
+msgid ""
+"Error: nmcli (%s) and NetworkManager (%s) versions don't match. Force "
+"execution using --nocheck, but the results are unpredictable."
+msgstr ""
+
+msgid "Error: no active connection provided."
+msgstr "ནོར་འཁྲུལ།： འཁྲུག་ཆ་དོད་པའི་འབྲེལ་མཐུད་མཁོ་འདོན་བྱས་མེད།"
+
+msgid "Error: no argument given; valid are [%s]\n"
+msgstr ""
+
+msgid "Error: no connection provided."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་མཁོ་འདོན་བྱས་མེད།"
+
+msgid "Error: no setting selected; valid are [%s]\n"
+msgstr ""
+
+msgid "Error: no valid device provided."
+msgstr "ནོར་འཁྲུལ།： ནུས་ཡོད་ཀྱི་སྒྲིག་ཆས་འདོན་སྤྲོད་བྱས་མེད།"
+
+msgid "Error: not all active connections found."
+msgstr "ནོར་འཁྲུལ།： འཁྲུག་ཆ་དོད་པའི་འབྲེལ་མཐུད་ཚང་མ་རྙེད་མ་བྱུང་།"
+
+msgid "Error: not all connections deleted."
+msgstr "ནོར་འཁྲུལ།： འབྲེལ་མཐུད་ཚང་མ་སུབ་པ་མ་རེད།"
+
+msgid "Error: not all devices deleted."
+msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་ཚང་མ་སུབ་པ་མ་རེད།"
+
+msgid "Error: not all devices disconnected."
+msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་ཚང་མ་སྦྲེལ་མཐུད་གཅོད་པ་མ་རེད།"
+
+msgid "Error: not all devices found."
+msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་ཚང་མ་རྙེད་མ་བྱུང་།"
+
+msgid "Error: only one of 'id', uuid, or 'path' can be provided."
+msgstr ""
+"ནོར་འཁྲུལ།： “id”，uuid，ཡང་ན  “path” ཚན་པ་གཅིག་མ་གཏོགས་མཁོ་འདོན་མི་བྱེད།"
+
+msgid "Error: only these fields are allowed: %s"
+msgstr "ནོར་འཁྲུལ།： ཁོངས་འདི་དག་ཁོ་ན་རུང་བ།：%s"
+
+msgid "Error: polkit agent initialization failed: %s"
+msgstr "ནོར་འཁྲུལ།： polkit ལས་ཚབ་འགོ་སྒྲིག་ཕམ་པ། %s"
+
+msgid "Error: property %s\n"
+msgstr ""
+
+msgid "Error: save-confirmation: %s\n"
+msgstr ""
+
+msgid "Error: secret agent initialization failed"
+msgstr "ནོར་འཁྲུལ།： secret ལས་ཚབ་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Error: setting '%s' is mandatory and cannot be removed.\n"
+msgstr ""
+
+msgid "Error: show-secrets: %s\n"
+msgstr ""
+
+msgid "Error: status-line: %s\n"
+msgstr ""
+
+msgid "Error: unknown connection '%s'\n"
+msgstr ""
+
+msgid "Error: unknown setting '%s'\n"
+msgstr ""
+
+msgid "Error: unknown setting: '%s'\n"
+msgstr ""
+
+msgid "Error: value for '%s' argument is required."
+msgstr "ནོར་འཁྲུལ།：  “%s” ཞུགས་གྲངས་ཐང་དགོས།"
+
+msgid "Error: value for '%s' is missing."
+msgstr "ནོར་འཁྲུལ།： “%s” གྲངས་ཐང་ཆད་པ།"
+
+msgid ""
+"Error: wep-key-type argument value '%s' is invalid, use 'key' or 'phrase'."
+msgstr ""
+"ནོར་འཁྲུལ།： “%s” ནུས་ཡོད་ཀྱི wep-key-type ཞུགས་གྲངས་མིན།   “key”དང་ཡང་ན "
+"“phrase”སྤྱོད་རོགས།"
+
+msgid "Ethernet"
+msgstr "ཨེ་ཐེར་དྲ་རྒྱ།"
+
+msgid "Ethernet connection %d"
+msgstr "ཨེ་ཐེར་དྲ་རྒྱ་འབྲེལ་མཐུད། %d"
+
+msgid "Ethernet device"
+msgstr "ཨེ་ཐེར་དྲ་རྒྱ་སྒྲིག་ཆས།"
+
+msgid "Exit immediately if NetworkManager is not running or connecting"
+msgstr ""
+"\"NetworkManager "
+"འཁོར་སྐྱོད་མ་བྱས་པའམ་ཡང་ན་འབྲེལ་མཐུད་མ་བྱས་སྐབས་འཕྲལ་མར་ཕྱིར་འཐེན་བྱོས།"
+
+msgid "FIRMWARE-MISSING"
+msgstr "བརྟན་ཆས་བོར་བ།"
+
+msgid "FIRMWARE-VERSION"
+msgstr "བརྟན་བཟོའི་པར་གཞི།"
+
+msgid "FREQ"
+msgstr "ཟློས་ཕྱོད།"
+
+msgid "Failed to convert '%s' value '%s' to uint"
+msgstr "%s' ཡི་གྲངས་ཐང་ '%s' ནི uint རིགས་རྣམ་ལ་བསྒྱུར་བ་ཕམ་པ།"
+
+msgid "Failed to create signal handling thread: %d\n"
+msgstr ""
+
+msgid "Failed to decode PKCS#8 private key."
+msgstr "PKCS#8 གསང་ལྡེ་ཨང་དགྲོལ་བྱེད་ཐབས་མེད།"
+
+msgid "Failed to decode certificate."
+msgstr "དཔང་ཡིག་ཨང་དགྲོལ་བྱེད་ཐབས་མེད།"
+
+msgid "Failed to decrypt the private key."
+msgstr "སྒེར་ལྡེ་གསང་དགྲོལ་ཕམ་པ།"
+
+msgid "Failed to decrypt the private key: %d."
+msgstr "སྒེར་ལྡེ་གསང་དགྲོལ་ཕམ་པ།：%d"
+
+msgid "Failed to decrypt the private key: decrypted data too large."
+msgstr "སྒེར་ལྡེ་གསང་དགྲོལ་ཕམ་པ།：གསང་དགྲོལ་གཞི་གྲངས་ཆ་དྲགས།"
+
+msgid "Failed to decrypt the private key: unexpected padding length."
+msgstr "སྒེར་ལྡེ་གསང་དགྲོལ་ཕམ་པ།：བསམ་ཡུལ་ལས་འདས་པའི་ཁ་སྐོང་གི་རིང་ཚད།"
+
+msgid "Failed to determine AP security information"
+msgstr "APབདེ་འཇགས་ཆ་འཕྲིན་གཏན་འཁེལ་བྱེད་མ་ཐུབ་པ།"
+
+msgid "Failed to encrypt: %d."
+msgstr "གསང་སྡོམ་ཕམ་པ།：%d"
+
+msgid "Failed to finalize decryption of the private key: %d."
+msgstr "སྒེར་ལྡེ་གསང་དགྲོལ་མཇུག་སྒྲིལ་ཕམ་པ།：%d"
+
+msgid "Failed to find expected PKCS#8 end tag '%s'."
+msgstr "སྔོན་དཔག་གི PKCS#8 མཇུག་སྒྲིལ་མཚོན་རྟགས “%s”རྙེད་ཐབས་མེད།"
+
+msgid "Failed to find expected PKCS#8 start tag."
+msgstr "སྔོན་དཔག་གི PKCS#8 མགོ་འཛུགས་མཚོན་རྟགས་རྙེད་ཐབས་མེད།"
+
+msgid "Failed to find interface index for %s (%s)\n"
+msgstr ""
+
+msgid "Failed to initialize the MD5 context: %d."
+msgstr "MD5 ཁོར་ཡུག་འགོ་སྒྲིག་ཕམ་པ།：%d"
+
+msgid "Failed to initialize the crypto engine."
+msgstr "སྒུལ་ཤུགས་གསང་སྡོམ་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Failed to initialize the crypto engine: %d."
+msgstr "སྒུལ་ཤུགས་གསང་སྡོམ་འགོ་སྒྲིག་ཕམ་པ།：%d"
+
+msgid "Failed to initialize the decryption cipher slot."
+msgstr "རྩིས་རྒྱག་འཇུག་ཤུར་གསང་དགྲོལ་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Failed to initialize the decryption context."
+msgstr "ཁོར་ཡུག་གསང་དགྲོལ་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Failed to initialize the encryption cipher slot."
+msgstr "རྩིས་རྒྱག་འཇུག་ཤུར་གསང་སྡོམ་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Failed to initialize the encryption context."
+msgstr "ནང་དོན་གསང་སྡོམ་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Failed to register with the requested network"
+msgstr "རེ་ཞུ་བྱས་པའི་དྲ་རྒྱའི་སྟེང་དུ་ཐོ་འགོད་བྱེད་ཐབས་མེད།"
+
+msgid "Failed to select the specified APN"
+msgstr "དམིགས་བཙུགས་པའི APNའདེམས་ཐབས་མེད།"
+
+msgid "Failed to set IV for decryption."
+msgstr "གསང་དགྲོལ་སྒྲིག་འགོད་འགོ་སྒྲིག་ཕྱོགས་ཚད་ཕམ་པ།"
+
+msgid "Failed to set IV for encryption."
+msgstr "གསང་སྡོམ་སྒྲིག་འགོད IV ཕམ་པ།"
+
+msgid "Failed to set signal mask: %d\n"
+msgstr ""
+
+msgid "Failed to set symmetric key for decryption."
+msgstr "གསང་དགྲོལ་སྒྲིག་འགོད་ཆ་འགྲིག་གསང་ལྡེ་ཕམ་པ།"
+
+msgid "Failed to set symmetric key for encryption."
+msgstr "གསང་སྡོམ་སྒྲིག་འགོད་ཆ་འགྲིག་གསང་ལྡེ་ཕམ་པ།"
+
+msgid "Forward delay"
+msgstr ""
+
+msgid "Forward delay [15]: "
+msgstr "བརྒྱུད་སྐུར་ཕྱིར་འགྱངས།[15]："
+
+msgid "GATEWAY"
+msgstr "དྲ་སྟེམ།"
+
+msgid "GENERAL"
+msgstr "རྒྱུན་སྲོལ།"
+
+msgid "GROUP"
+msgstr ""
+
+msgid "GSM Modem's SIM PIN required"
+msgstr "GSMསྒྲིག་སྦྱོར་འདུམ་འགྲིག་ཆས་ལ་SIM PINཨང་དགོས།"
+
+msgid "GSM Modem's SIM PUK required"
+msgstr "GSMསྒྲིག་སྦྱོར་འདུམ་སྒྲིག་ཆས་ལ་SIM PUKཨང་དགོས།"
+
+msgid "GSM Modem's SIM card not inserted"
+msgstr "GSMསྒྲིག་སྦྱོར་འདུམ་འགྲིག་འཕྲུལ་ཆས་ལ་SIMབྱང་བུ་བཙུགས་མེད་པ།"
+
+msgid "GSM Modem's SIM wrong"
+msgstr "GSMསྒྲིག་སྦྱོར་འདུམ་སྒྲིག་ཆས་SIMནོར་འཁྲུལ།"
+
+msgid "GSM connection"
+msgstr "GSM འབྲེལ་མཐུད།"
+
+msgid "GSM mobile broadband connection requires a 'gsm' setting"
+msgstr "GSM སྒྭལ་བདེ་དྲ་ཆེན་འབྲེལ་མཐུད་ལ “gsm” སྒྲིག་འགོད་དགོས།"
+
+msgid "GVRP, "
+msgstr ""
+
+msgid "Gateway"
+msgstr "དྲ་སྟེམ།"
+
+msgid "HWADDR"
+msgstr "སྲ་ཆས་ཤག་གནས།"
+
+msgid "Hairpin %s"
+msgstr "བསྐྱར་འཕར་བརྒྱུད་སྐུར། %s"
+
+msgid "Hairpin mode"
+msgstr "ཧྥ་ཁཱ་རྣམ་པ།"
+
+msgid "Hello time"
+msgstr "འཚམས་འདྲི་དུས་ཚོད།"
+
+msgid "Hello time [2]: "
+msgstr ""
+
+msgid "Hex-encoded DHCPv4 client ID"
+msgstr "བཅུ་དྲུག་གོང་འགྲིལ་ལུགས་སྒྲིག་ཨང་གི DHCPv4 མཁོ་མཁན་ ID"
+
+msgid "Hex-encoded Interface Identifier"
+msgstr "བཅུ་དྲུག་གོང་འགྲིལ་ལུགས་སྒྲིག་ཨང་གི་མཐུད་ཁ་ངོ་རྟགས།"
+
+msgid "Hide"
+msgstr "སྦེད་པ།"
+
+msgid "Hostname"
+msgstr "གཙོ་འཁོར་མིང་།"
+
+msgid "Hostname to send to DHCP server"
+msgstr "གཙོ་འཁོར་མིང DHCP ཞབས་ཞུ་ཆས་ལ་་སྐྱེལ་གཏོང་བྱེད་པ།"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "INFINIBAND"
+msgstr ""
+
+msgid ""
+"IP configuration could not be reserved (no available address, timeout, etc.)"
+msgstr ""
+"IP སྒྲིག་འགོད་ཉར་ཚགས་བྱེད་མི་ཐུབ། (ནུས་མེད་ཤག་གནས། དང་ལེན་དུས་བརྒལ་སོགས།)"
+
+msgid "IP-IFACE"
+msgstr ""
+
+msgid "IP4"
+msgstr ""
+
+msgid "IP6"
+msgstr ""
+
+msgid "IPv4 CONFIGURATION"
+msgstr "IPv4 སྡེབ་སྒྲིག"
+
+msgid "IPv4 address (IP[/plen]) [none]: "
+msgstr "IPv4 ཤག་གནས། (IP[/plen]) [མེད]："
+
+msgid "IPv4 gateway [none]: "
+msgstr "IPv4 དྲ་སྟེམ [མེད]："
+
+msgid "IPv6 CONFIGURATION"
+msgstr "IPv6 སྒྲིག་འགོད།"
+
+msgid "IPv6 address (IP[/plen]) [none]: "
+msgstr "IPv6 ཤག་གནས། (IP[/plen]) [མེད]："
+
+msgid "IPv6 gateway [none]: "
+msgstr "IPv6 དྲ་སྟེམ [མེད]："
+
+msgid "IS-SOFTWARE"
+msgstr "མཉེན་ཆས་ཡིན་ནམ།"
+
+msgid "IV contains non-hexadecimal digits."
+msgstr "འགོ་སྒྲིག་ཕྱོགས་ཚད་ནང་དུ་བཅུ་དྲུག་གོང་འགྲིལ་ལུགས་གྲངས་ཀ་མ་ཡིན་པ་འདུ།"
+
+msgid "IV must be an even number of bytes in length."
+msgstr "འགོ་སྒྲིག་ཕྱོགས་ཚད་རིང་ཚད་ངེས་པར་ཏུ་ཆ་གྲངས་ཡིག་ཚིགས་ཡིན་དགོས།"
+
+msgid "Identity"
+msgstr "མཚོན་རྟགས།"
+
+msgid ""
+"If you are creating a VPN, and the VPN connection you wish to create does "
+"not appear in the list, you may not have the correct VPN plugin installed."
+msgstr ""
+
+msgid "Ignore"
+msgstr "སྣང་མེད།"
+
+msgid "Ignoring unrecognized log domain(s) '%s' from config files.\n"
+msgstr ""
+
+msgid "Ignoring unrecognized log domain(s) '%s' passed on command line.\n"
+msgstr ""
+
+msgid "InfiniBand"
+msgstr ""
+
+msgid "InfiniBand P_Key connection did not specify parent interface name"
+msgstr "InfiniBand P_Key འབྲེལ་མཐུད་མའི་མཐུད་ཁའི་མིང་གཏན་འཁེལ་བྱས་མེད།"
+
+msgid "InfiniBand connection"
+msgstr "InfiniBand འབྲེལ་མཐུད།"
+
+msgid "InfiniBand connection %d"
+msgstr "InfiniBand འབྲེལ་མཐུད %d"
+
+msgid "InfiniBand device does not support connected mode"
+msgstr ""
+"མྱུར་བགྲོད་དྲ་སྦྲེལ་སྒྲིག་ཆས་ཀྱིས་སྦྲེལ་མཐུད་བྱས་ཟིན་པའི་རྣམ་པར་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་མེད།"
+
+msgid "InfiniBand transport mode"
+msgstr "InfiniBand རྒྱུད་གཏོང་རྣམ་པ།"
+
+msgid "Infra"
+msgstr ""
+
+msgid "Ingress priority maps [none]: "
+msgstr "\"Ingress སྔོན་ཐོབ་རིམ་པའི་རྟེན་འཕྲོ། [མེད]："
+
+msgid "Interface name [*]: "
+msgstr "མཐུད་ཁའི་མིང་། [*]："
+
+msgid "Interface(s): "
+msgstr "མཐུད་ཁ།："
+
+msgid "Interface: "
+msgstr "མཐུད་ཁ།："
+
+msgid "Invalid IPv4 address '%s'"
+msgstr "ནུས་མེད་ཀྱི IPv4 ཤག་གནས “%s”"
+
+msgid "Invalid IPv4 address prefix '%u'"
+msgstr "ནུས་མེད་ཀྱི IPv4 ཤག་གནས་སྔོན་འཇུག “%u”"
+
+msgid "Invalid IV length (must be at least %d)."
+msgstr "ནུས་མེད་ཀྱི་འགོ་སྒྲིག་ཕྱོགས་ཚད་རིང་ཚད། (མ་མཐའ་ཡང་ %dཡིན།)"
+
+msgid "Invalid IV length (must be at least %zd)."
+msgstr "\"ནུས་མེད་འགོ་སྒྲིག་ཕྱོགས་ཚད་རིང་ཚད། (མ་མཐའ་ཡང་ %zdཡིན།)"
+
+msgid "Invalid configuration option '%s'; allowed [%s]\n"
+msgstr ""
+
+msgid "Invalid device Bluetooth address."
+msgstr "ནུས་མེད་ཀྱི་སྒྲིག་ཆས་སོ་སྔོན་ཤག་གནས།"
+
+msgid "Invalid device MAC address."
+msgstr "ནུས་མེད་ཀྱི་སྒྲིག་ཆས MAC ཤག་གནས།"
+
+msgid "Invalid option.  Please use --help to see a list of valid options."
+msgstr "ནུས་མེད་འདེམས་ཚན།   --help སྤྱད་ནས་ནུས་ཡོད་འདེམས་ཚན་རེའུ་མིག་ལྟ་རོགས།"
+
+msgid "Invalid routing metric '%s'"
+msgstr "ནུས་མེད་ཀྱི་ལམ་འཚོལ་ཚད་འཇལ་བ། “%s”"
+
+msgid "Invalid verify option: %s\n"
+msgstr ""
+
+msgid "JSON configuration"
+msgstr "JSON སྡེབ་སྒྲིག"
+
+msgid "Key"
+msgstr "གསང་ལྡེ།"
+
+msgid "LACP rate ('slow' or 'fast') [slow]: "
+msgstr "LACP ཚད། (“དལ”ཡང་ན“མགྱོགས”) [དལ]："
+
+msgid "LEAP"
+msgstr ""
+
+msgid "LEAP authentication is incompatible with 802.1x setting"
+msgstr "LEAPར་སྤྲོད་དང་ 802.1x སྒྲིག་འགོད་འཆམ་མཐུན་མིན།"
+
+msgid "LEAP authentication is incompatible with Ad-Hoc mode"
+msgstr "LEAP ར་སྤྲོད་དང་ Ad-Hoc རྣམ་པ་འཆམ་མཐུན་མིན།"
+
+msgid "LEAP authentication requires IEEE 802.1x key management"
+msgstr "LEAP ར་སྤྲོད་ལ IEEE 802.1x གསང་ལྡེ་དོ་དམ་དགོས།"
+
+msgid "LEAP authentication requires a LEAP username"
+msgstr "LEAP ར་སྤྲོད་ལ LEAP སྤྱོད་མཁན་མིང་དགོས།"
+
+msgid "LEAP username requires 'leap' authentication"
+msgstr "\"LEAP སྤྱོད་མཁན་མིང་ལ “leap” ར་སྤྲོད་དགོས།"
+
+msgid "LEVEL"
+msgstr "རིམ་པ།"
+
+msgid "LOOSE_BINDING, "
+msgstr ""
+
+msgid "Link down delay"
+msgstr "འཕྲེང་ཞོལ་མ་སྦྲེལ་མཐུད་འགོར་འགྱངས།"
+
+msgid "Link monitoring"
+msgstr "སྦྲེལ་ལམ་ལྟ་འཛིན།"
+
+msgid "Link up delay"
+msgstr "འཕྲེང་གོང་མ་སྦྲེལ་མཐུད་འགོར་འགྱངས།"
+
+msgid "Link-Local"
+msgstr "སྦྲེལ་ལམ་རང་ས།"
+
+msgid "List of plugins separated by ','"
+msgstr "བསྒར་ལྷུ་རེའུ་མིག“,”ཡིས་བགོ་བ།"
+
+msgid "Log domains separated by ',': any combination of [%s]"
+msgstr "ཉིན་ཐོ་ཁོངས་སྤྱོད་པ། མཚམས་གཅོད།：[%s] ཡི་གང་འདོད་སྡེབ་སྒྲིག"
+
+msgid "Log level: one of [%s]"
+msgstr "ཉིན་ཐོའི་རིམ་པ།：[%s] ཡ་གྱལ་གཅིག"
+
+msgid "MAC [none]: "
+msgstr "MAC [མེད]："
+
+msgid "MAC address ageing time [300]: "
+msgstr "MAC ཤག་གནས་རྒས་འགྱུར་དུས་ཚོད། [300]："
+
+msgid "MASTER-PATH"
+msgstr ""
+
+msgid "MII (recommended)"
+msgstr "\"MII(མཚམས་སྦྱོར།)"
+
+msgid "MODE"
+msgstr "བཟོ་དབྱིབས།"
+
+msgid "MSCHAP"
+msgstr ""
+
+msgid "MSCHAPv2"
+msgstr ""
+
+msgid "MTU"
+msgstr "བརྒྱུད་གཏོང་སྡེ་ཚན་ཆ་ཤོས།(MTU)"
+
+msgid "MTU [auto]: "
+msgstr "MTU [རང་འགུལ།]："
+
+msgid "Make all warnings fatal"
+msgstr "ཐ་ཚིག་ཡོད་ཚད་ནོར་འཁྲུལ་ཆེན་པོར་བརྩི་བ།"
+
+msgid "Malformed PEM file: DEK-Info was not the second tag."
+msgstr "PEM ཡིག་ཆ་རྣམ་གཞག་ནོར་འཁྲུལ།：DEK-Info མཚོན་རྟགས་ཨང་གཉིས་པ་མིན།"
+
+msgid "Malformed PEM file: Proc-Type was not first tag."
+msgstr "PEM ཡིག་ཆ་རྣམ་གཞག་ནོར་འཁྲུལ།：Proc-Type མཚོན་རྟགས་ཨང་དང་པོ་་མིན།"
+
+msgid "Malformed PEM file: invalid format of IV in DEK-Info tag."
+msgstr ""
+"PEM ཡིག་ཆ་རྣམ་གཞག་ནོར་འཁྲུལ།： DEK-Info གདོང་འཛར་ནང་ IV རྣམ་གཞག་ནུས་མེད་ཡིན།"
+
+msgid "Malformed PEM file: no IV found in DEK-Info tag."
+msgstr "PEM ཡིག་ཆ་རྣམ་གཞག་ནོར་འཁྲུལ།： DEK-Info གདོང་འཛར་ནང་IV རྙེད་མ་བྱུང་།"
+
+msgid "Malformed PEM file: unknown Proc-Type tag '%s'."
+msgstr "PEM ཡིག་ཆ་རྣམ་གཞག་ནོར་འཁྲུལ།：ངེས་མེད་ཀྱི Proc-Type མཚོན་རྟགས། “%s”"
+
+msgid "Malformed PEM file: unknown private key cipher '%s'."
+msgstr "PEM ཡིག་ཆ་རྣམ་གཞག་ནོར་འཁྲུལ།：ངེས་མེད་ཀྱི་སྒེར་ཡོད་གསང་ལྡེ། “%s”"
+
+msgid "Manual"
+msgstr "ལག་སྒུལ།"
+
+msgid "Max age"
+msgstr "ཚེ་རིང་ཤོས།"
+
+msgid "Max age [20]: "
+msgstr ""
+
+msgid "Mesh"
+msgstr "དྲ་མིག"
+
+msgid "Metric"
+msgstr "དབང་ཆ་གཙོ་བོར་འཛིན་པ།"
+
+msgid "Mobile Broadband"
+msgstr "སྒུལ་བདེའི་དྲ་ཆེན།"
+
+msgid "Mobile broadband connection %d"
+msgstr "སྒུལ་བདེའི་དྲ་ཆེན་འབྲེལ་མཐུད། %d"
+
+msgid "Mobile broadband network password"
+msgstr "སྒུལ་བདེའི་དྲ་ཆེན་དྲ་རྒྱགསང་ཨང་།"
+
+msgid "Mode"
+msgstr "རྣམ་པ།"
+
+msgid "Mode %s"
+msgstr "རྣམ་པ %s"
+
+msgid "Modem failed or no longer available"
+msgstr "སྙོམ་སྒྲིག་སྒྲིག་འགྲོལ་ཆས་ནོར་འཁྲུལ་ཡིན་པའམ་ཡང་ན་སྤྱོད་མི་རུང་བ།"
+
+msgid "Modem initialization failed"
+msgstr "སྙོམ་སྒྲིག་སྒྲིག་འགྲོལ་ཆས་འགོ་སྒྲིག་ཕམ་པ།"
+
+msgid "Modem now ready and available"
+msgstr "སྙོམ་སྒྲིག་སྒྲིག་འགྲོལ་ཆས་ཚགས་སུ་ཚུད་པ་མ་ཟད་སྤྱོད་རུང་བ།"
+
+msgid "ModemManager is unavailable"
+msgstr "ModemManager སྤྱོད་མི་རུང་བ།"
+
+msgid "Modify network connections for all users"
+msgstr "སྤྱོད་མཁན་ཚང་མའི་དྲ་རྒྱ་འབྲེལ་མཐུད་བསྒྱུར་བ།"
+
+msgid "Modify persistent system hostname"
+msgstr "རྒྱུད་ཁོངས་ཀྱི་སྔར་ཡོད་གཙོ་འཁོར་མིང་བསྒྱུར་བ།"
+
+msgid "Modify personal network connections"
+msgstr "མི་སྒེར་དྲ་རྒྱ་འབྲེལ་མཐུད་བསྒྱུར་བ།"
+
+msgid "Monitoring connection activation (press any key to continue)\n"
+msgstr ""
+
+msgid "Monitoring frequency"
+msgstr "ཟློས་ཕྱོད་ལྟ་འཛིན།"
+
+msgid "Must specify a P_Key if specifying parent"
+msgstr "གལ་ཏེ་ཕ་དམིགས་འཛུགས་བྱེད་ན་ངེས་པར་དུ P_Key གཅིག་དམིགས་འཛུགས་བྱོས།"
+
+msgid "N/A"
+msgstr "མི་འཚམ།"
+
+msgid "NAME"
+msgstr "མིང་།"
+
+msgid "NETWORKING"
+msgstr "དྲ་བ།"
+
+msgid "NM-MANAGED"
+msgstr "NM ཡིས་དོ་དམ་བྱེད་པ།"
+
+msgid "NM-TYPE"
+msgstr ""
+
+msgid "NSP"
+msgstr ""
+
+msgid "Necessary firmware for the device may be missing"
+msgstr "སྒྲིག་ཆས་ལ་དགོས་ངེས་ཀྱི་བརྟན་ཆས་མེད།"
+
+msgid "Network name"
+msgstr "དྲ་རྒྱའི་མིང་།"
+
+msgid "Network registration denied"
+msgstr "དྲ་རྒྱའི་ཐོ་འགོད་དང་ལེན་མ་བྱས།"
+
+msgid "Network registration timed out"
+msgstr "དྲ་རྒྱའི་ཐོ་འགོད་དུས་བརྒལ།"
+
+msgid "NetworkManager TUI"
+msgstr "NetworkManagerཡིག་དེབ་འཆར་ངོས།"
+
+msgid "NetworkManager active profiles"
+msgstr "\"NetworkManager བྱེད་སྒོ་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "NetworkManager connection profiles"
+msgstr "NetworkManager འབྲེལ་མཐུད་སྡེབ་སྒྲིག"
+
+msgid "NetworkManager is not running."
+msgstr "དྲ་རྒྱའི་དོ་དམ་ཆས་འཁོར་སྐྱོད་བྱས་མེད།"
+
+msgid "NetworkManager logging"
+msgstr "NetworkManagerཉིན་ཐོ།"
+
+msgid ""
+"NetworkManager monitors all network connections and automatically\n"
+"chooses the best connection to use.  It also allows the user to\n"
+"specify wireless access points which wireless cards in the computer\n"
+"should associate with."
+msgstr ""
+
+msgid "NetworkManager needs to turn off networks"
+msgstr "NetworkManager དྲ་རྒྱ་སྒོ་རྒྱག་དགོས།"
+
+msgid "NetworkManager permissions"
+msgstr "NetworkManagrདབང་ཚད།"
+
+msgid "NetworkManager status"
+msgstr "དྲ་རྒྱའི་དོ་དམ་ཆས་ཀྱི་རྣམ་པ།"
+
+msgid "NetworkManager went to sleep"
+msgstr "དྲ་རྒྱའི་དོ་དམ་ཆས་གཉིད་གསོ།"
+
+msgid "Networking"
+msgstr "དྲ་བ།"
+
+msgid "Never use this network for default route"
+msgstr "གཏན་ནས་དྲ་རྒྱ་འདི་སོར་བཞག་ལམ་འཚོལ་དུ་མིན་བྱེད།"
+
+msgid "New Connection"
+msgstr "འབྲེལ་མཐུད་གསར་འཛུགས།"
+
+msgid "New connection activation was enqueued"
+msgstr "འབྲེལ་མཐུད་སྐུལ་སློང་གསར་པ་རུ་སྟར་ནང་ཞུགས་པ།"
+
+msgid "Next Hop"
+msgstr "མར་གཅིག་མཆོང་།"
+
+msgid "No carrier could be established"
+msgstr "ཐེག་རླབས་འཛུགས་མི་ཐུབ།"
+
+msgid "No custom routes are defined."
+msgstr "མཚན་ཉིད་རང་འཇོག་མེད་པའི་ལམ་འཚོལ།"
+
+msgid "No dial tone"
+msgstr "ཨང་འབོད་སྒྲ་མེད།"
+
+msgid "No reason given"
+msgstr "རྒྱུ་རྐྱེན་གསལ་བཤད་མ་བྱས་པ།"
+
+msgid "No service name specified"
+msgstr "ཞབས་ཞུའི་མིང་དམིགས་འཛུགས་མ་བྱས་པ།"
+
+msgid "No such connection '%s'"
+msgstr "འབྲེལ་མཐུད་འདི་མེད“%s”"
+
+msgid "Not searching for networks"
+msgstr "དྲ་རྒྱ་བཤེར་འཚོལ་མི་བྱེད།"
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "OLPC Mesh"
+msgstr ""
+
+msgid "OLPC Mesh channel [1]: "
+msgstr "OLPC Mesh རྒྱུ་ལམ [1]："
+
+msgid "OPTION"
+msgstr ""
+
+msgid "One custom route"
+msgid_plural "%d custom routes"
+msgstr[0] "%d གཏན་སྲོལ་ལམ་འཚོལ།"
+msgstr[1] "%d གཏན་སྲོལ་ལམ་འཚོལ།"
+
+msgid "Open System"
+msgstr "སྒོ་འབྱེད་རྣམ་པའི་རྒྱུད་ཁོངས།"
+
+msgid "Opening %s failed: %s\n"
+msgstr ""
+
+msgid "Option '--terse' requires specific '--fields' option values , not '%s'"
+msgstr "འདེམས་ཚན “--terse” ལ་དམིགས་བསལ “--fields” འདེམས་ཚན་ཐང་དགོས།  “%s”མིན།"
+
+msgid "Option '--terse' requires specifying '--fields'"
+msgstr "འདེམས་ཚན “--terse” ལ  “--fields”དམིགས་འཛུགས་རེ་བ་ཡོད།"
+
+msgid "PAN connection"
+msgstr "PAN འབྲེལ་མཐུད།"
+
+msgid "PAN connections cannot specify GSM, CDMA, or serial settings"
+msgstr ""
+"\"PAN འབྲེལ་མཐུད་ཀྱིས  GSM、CDMA "
+"ཡང་ན་ཕྲེང་སྒྲིག་འགོད་དམིགས་འཛུགས་བྱེད་ཐབས་མེད།"
+
+msgid "PAN requested, but Bluetooth device does not support NAP"
+msgstr "PAN དགོས་མོད་འོན་ཀྱང་སོ་སྔོན་སྒྲིག་ཆས་ཀྱིསNAPརྒྱབ་སྐྱོར ་མིན་བྱེད།"
+
+msgid "PAP"
+msgstr ""
+
+msgid "PARENT"
+msgstr "ཕ།"
+
+msgid "PCI"
+msgstr ""
+
+msgid "PEM certificate had no end tag '%s'."
+msgstr "PEM དཔང་ཡིག་ལ་མཚམས་བཞག་མཚོན་རྟགས་མེད། “%s"
+
+msgid "PEM certificate had no start tag '%s'."
+msgstr "PEM  དཔང་ཡིག་ལ་འགོ་འཇུག་མཚོན་རྟགས་མེད།  “%s”"
+
+msgid "PEM key file had no end tag '%s'."
+msgstr "PEM གསང་ལྡེ་ཡིག་ཆ་མཇུག་སྒྲིལ་མཚོན་རྟགས་མེད།“%s”"
+
+msgid "PERMISSION"
+msgstr "དབང་ཚད།"
+
+msgid "PHYS-PORT-ID"
+msgstr "དངོས་ལུགས་མཐུད་ཁ ID"
+
+msgid "PIN"
+msgstr ""
+
+msgid "PIN check failed"
+msgstr "PIN ཞིབ་བཤེར་གྲོས་འཆམ་བྱུང་མེད།"
+
+msgid "PIN code is needed for the mobile broadband device"
+msgstr "སྒུལ་བདེའི་དྲ་ཆེན་སྒྲིག་ཆས་ལ PIN ཨང་རྟགས་དགོས།"
+
+msgid "PIN code required"
+msgstr "PIN ཨང་རྟགས་དགོས།"
+
+msgid "PPP CONFIGURATION"
+msgstr "PPP སྡེབ་སྒྲིག"
+
+msgid "PPP failed"
+msgstr "PPP ཕམ་པ།"
+
+msgid "PPP service disconnected"
+msgstr "PPP ཞབས་ཞུ་བཅད་ཟིན།"
+
+msgid "PPP service failed to start"
+msgstr "PPP ཞབས་ཞུ་འགོ་སློང་ཕམ་པ།"
+
+msgid "PPPoE"
+msgstr "PPPoE"
+
+msgid "PPPoE connection"
+msgstr "PPPoE འབྲེལ་མཐུད།"
+
+msgid "PPPoE username: "
+msgstr "PPPoE སྤྱོད་མཁན་མིང་།："
+
+msgid "PRODUCT"
+msgstr "ཐོན་རྫས།"
+
+msgid "P_KEY [none]: "
+msgstr "P_KEY [མེད]："
+
+msgid "Parent"
+msgstr "རིམ་པ་གོང་མ།"
+
+msgid "Parent interface [none]: "
+msgstr "ཕའི་མཐུད་ཁ [མེད]："
+
+msgid "Password"
+msgstr "གསང་ཨང་།"
+
+msgid "Password [none]: "
+msgstr "གསང་ཨང་ [མེད]："
+
+msgid "Password must be UTF-8"
+msgstr "གསང་ཨང་ངེས་པར་དུ UTF-8 སྒྲིག་ཨང་ཡིན་དགོས།"
+
+msgid "Password provided, but key was not encrypted."
+msgstr "གསང་ཨང་མཁོ་འདོན་བྱས་ཡོད། ཡིན་ནའང་གསང་ལྡེ་ལ་གསང་སྡོམ་མི་བྱེད།"
+
+msgid "Password: "
+msgstr "གསང་ཨང་།"
+
+msgid ""
+"Passwords or encryption keys are required to access the wireless network "
+"'%s'."
+msgstr "གསང་ཨང་དང་ཡང་ན་གསང་ལྡེ་ཡིས་སྐུད་མེད་དྲ་རྒྱ་འདྲི་རྩད་བྱེད་དགོས། “%s”"
+
+msgid "Path cost"
+msgstr "འགྲོ་ལམ་འགྲོ་གྲོན།"
+
+msgid "Please select an option"
+msgstr "འདེམས་ཚན་ཞིག་འདེམས་རོགས།"
+
+msgid "Prefix"
+msgstr "སྔོན་འཇུག"
+
+msgid "Press <Enter> to finish adding addresses.\n"
+msgstr ""
+
+msgid "Primary"
+msgstr "བདག་པོ།"
+
+msgid "Print NetworkManager version and exit"
+msgstr "NetworkManager ཕྱིར་འདོན་པ་དང་ཕྱིར་འབུད་པ།"
+
+msgid "Priority"
+msgstr "སྔོན་ཐོབ་རིམ་པ།"
+
+msgid "Private key cipher '%s' was unknown."
+msgstr "སྒེར་ལྡེ་གསང་སྡོམ་རྩི་ཐབས “%s” ངེས་མེད།"
+
+msgid "Private key password"
+msgstr "སྒེར་ལྡེ་གསང་ཨང་།"
+
+msgid "Profile name"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆའི་མིང་།"
+
+msgid "Property name? "
+msgstr "གཏོགས་གཤིས་མིང་ཡིན་ནམ།"
+
+msgid ""
+"Put NetworkManager to sleep or wake it up (should only be used by system "
+"power management)"
+msgstr ""
+"འགེལ་འཇོག་གམ་སློང་བ། NetworkManager། "
+"(རྒྱུད་ཁོངས་གློག་ཁུངས་དོ་དམ་ཁོ་ནར་སྤྱོད་པ།)"
+
+msgid "Quit"
+msgstr "ཕྱིར་འདོན་པ།"
+
+msgid "Quit after initial configuration"
+msgstr "འགོ་སྒྲིག་སྡེབ་སྒྲིག་བྱས་རྗེས་ཕྱིར་འབུད།"
+
+msgid "RATE"
+msgstr "ཟློས་ཕྱོད།"
+
+msgid "READONLY"
+msgstr "ཀློག་ཙམ།"
+
+msgid "REASON"
+msgstr "རྒྱུ་མཚན།"
+
+msgid "REORDER_HEADERS, "
+msgstr ""
+
+msgid "ROUTE"
+msgstr ""
+
+msgid "RSN-FLAGS"
+msgstr "RSN-མཚོན་རྟགས།"
+
+msgid "RSSI"
+msgstr ""
+
+msgid "RUNNING"
+msgstr "འཁོར་སྐྱོད་བྱེད་བཞིན་པ།"
+
+msgid "Radio switches"
+msgstr "སྐུད་མེད་གློག་གི་འཕྲོ་ཟློས་བསད་སྤར།"
+
+msgid "Remove"
+msgstr "སྤོ་བ།"
+
+msgid "Require 128-bit encryption"
+msgstr "གྲངས་གནས 128 ལ་གསང་སྡོམ་བྱེད་པའི་རེ་བ་ཡོད།"
+
+msgid "Require IPv4 addressing for this connection"
+msgstr "འབྲེལ་མཐུད་འདིར IPv4 ཤག་གནས་དགོས།"
+
+msgid "Require IPv6 addressing for this connection"
+msgstr "འབྲེལ་མཐུད་འདིར IPv6 ཤག་གནས་དགོས།"
+
+msgid "Round-robin"
+msgstr "རེས་འཁོར།"
+
+msgid "Route priority for IPv4"
+msgstr "IPv4 ལམ་འཚོལ་སྔོན་ཐོབ་རིམ་པ།"
+
+msgid "Route priority for IPv6"
+msgstr "IPv6 ལམ་འཚོལ་སྔོན་ཐོབ་རིམ་པ།"
+
+msgid "Routing"
+msgstr "ལམ་འཚོལ།"
+
+msgid "SECURITY"
+msgstr "བདེ་འཇགས་རང་བཞིན།"
+
+msgid "SIGNAL"
+msgstr "བརྡ་རྟགས།"
+
+msgid "SIM PIN was incorrect"
+msgstr "SIM PINཨང་ཡང་མི་དག་པ།"
+
+msgid "SLAVES"
+msgstr "ནས"
+
+msgid "SPEC-OBJECT"
+msgstr "SPECབྱ་ཡུལ།"
+
+msgid "SPEED"
+msgstr "མགྱོགས་ཚད།"
+
+msgid "SSID"
+msgstr ""
+
+msgid "SSID length is out of range <1-32> bytes"
+msgstr "SSID རིང་ཚད་ <1-32> ཡིག་ཚིགས་ཀྱི་ཁྱབ་ཁོངས་ལས་བརྒལ་བ།"
+
+msgid "SSID or BSSID: "
+msgstr "SSID ཡང་ན BSSID："
+
+msgid "SSID-HEX"
+msgstr ""
+
+msgid "SSID: "
+msgstr ""
+
+msgid "STARTUP"
+msgstr "འགོ་སློང་།"
+
+msgid "STATE"
+msgstr "རྣམ་པ།"
+
+msgid "STP priority [32768]: "
+msgstr "STP སྔོན་ཐོབ་རིམ་པ [32768]："
+
+msgid ""
+"Saving the connection with 'autoconnect=yes'. That might result in an immediate activation of the connection.\n"
+"Do you still want to save? %s"
+msgstr ""
+
+msgid "Search domains"
+msgstr "ཁུལ་ཁོངས་བཤེར་འཚོལ།"
+
+msgid "Secret flags property '%s' not found"
+msgstr "Secret མཚོན་རྟགས་གཏོགས་གཤིས “%s” རྙེད་མ་བྱུང་།"
+
+msgid "Secrets were required, but not provided"
+msgstr "དཔང་རྟགས་ར་སྤྲོད་བྱེད་དགོས་མོད་འོན་ཀྱང་མཁོ་འདོན་བྱས་མེད།"
+
+msgid "Security"
+msgstr "བདེ་འཇགས།"
+
+msgid "Select the type of connection you wish to create."
+msgstr "གསར་འཛུགས་བྱེད་འདོད་པའི་འབྲེལ་མཐུད་རིགས་རྣམ་འདེམ་པ།"
+
+msgid "Select the type of slave connection you wish to add."
+msgstr "ཁྱེད་རང་ཞུགས་འདོད་པའི་འབྲེལ་མཐུད་རིགས་རྣམ་འདེམས་རོགས།"
+
+msgid "Select..."
+msgstr "འདེམ་པ།...འདེམ་པ།"
+
+msgid "Send PPP echo packets"
+msgstr "PPP བྲག་ཅའི་ཁུག་སྐྱེལ་གཏོང་།"
+
+msgid "Service"
+msgstr "ཞབས་ཞུ།"
+
+msgid "Service [none]: "
+msgstr "ཞབས་ཞུ [མེད]："
+
+msgid "Set Hostname"
+msgstr "གཙོ་འཁོར་མིང་སྒྲིག་འགོད།"
+
+msgid "Set hostname to '%s'"
+msgstr "གཙོ་འཁོར་མིང་ “%s”ལ་སྒྲིག་འགོད་བྱས་ཟིན།"
+
+msgid "Set system hostname"
+msgstr "རྒྱུད་ཁོངས་གཙོ་འཁོར་མིང་སྒྲིག་འགོད།"
+
+msgid "Setting '%s' is not present in the connection.\n"
+msgstr ""
+
+msgid "Setting name? "
+msgstr "མིང་སྒྲིག་འགོད་བྱེད་དམ།"
+
+msgid "Shared"
+msgstr "མཉམ་སྤྱོད་བྱས་ཟིན་པ།"
+
+msgid "Shared Key"
+msgstr "གསང་ལྡེ་མཉམ་སྤྱོད།"
+
+msgid "Shared connection service failed"
+msgstr "འབྲེལ་མཐུད་ཞབས་ཞུ་མཉམ་སྤྱོད་ཕམ་པ།"
+
+msgid "Shared connection service failed to start"
+msgstr "འབྲེལ་མཐུད་ཞབས་ཞུ་འགོ་སློང་མཉམ་སྤྱོད་ཕམ་པ།"
+
+msgid "Show"
+msgstr "མངོན་པ།"
+
+msgid "Show password"
+msgstr "གསང་ཨང་འཆར་བ།"
+
+msgid "Slave connections need a valid '%s' property"
+msgstr "ཕྱོགས་གཏོགས་འབྲེལ་མཐུད་ལ་ནུས་ཡོད་ཀྱི '%s' གཏོགས་གཤིས་ཤིག་དགོས།"
+
+msgid "Slaves"
+msgstr "ཕྱོགས་གཏོགས།"
+
+msgid "Specify the location of a PID file"
+msgstr "PID ཡིག་ཆའི་གནས་ཤིག་དམིགས་འཛུགས་བྱེད་པ།"
+
+msgid "State file for no-auto-default devices"
+msgstr "རང་འགུལ་སོར་བཞག་སྒྲིག་ཆས་མ་ཡིན་པའི་རྣམ་པའི་ཡིག་ཆ།"
+
+msgid "State file location"
+msgstr "རྣམ་པའི་ཡིག་ཆའི་གནས་ས།"
+
+msgid "Status of devices"
+msgstr "སྒྲིག་ཆས་ཀྱི་རྣམ་པ།"
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "System"
+msgstr "རྒྱུད་ཁོངས།"
+
+msgid "System policy prevents control of network connections"
+msgstr "རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་དྲ་རྒྱ་འབྲེལ་མཐུད་ལ་བཀག་འགོག་བྱས།"
+
+msgid "System policy prevents enabling or disabling WiFi devices"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས WiFi "
+"སྒྲིག་ཆས་སྤྱོད་འགོ་རྩོམ་པའམ་འགོག་སྤྱོད་བཀག་འགོག་བྱས།"
+
+msgid ""
+"System policy prevents enabling or disabling WiMAX mobile broadband devices"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས WiMAX "
+"སྒུལ་བདེའི་དྲ་ཆེན་སྒྲིག་ཆས་ཁ་ཕྱེ་པའམ་འགོག་སྤྱོད་བཀག་འགོག་བྱས།"
+
+msgid "System policy prevents enabling or disabling mobile broadband devices"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་སྒུལ་བདེའི་དྲ་ཆེན་སྒྲིག་ཆས་སྤྱོད་འགོ་རྩོམ་པའམ་འགོག་སྤྱོད་བཀག་འགོག་བྱས།"
+
+msgid "System policy prevents enabling or disabling system networking"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་རྒྱུད་ཁོངས་དྲ་རྒྱ་སྤྱོད་འགོ་རྩོམ་པའམ་འགོག་སྤྱོད་བཀག་འགོག་བྱས།"
+
+msgid "System policy prevents modification of network settings for all users"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་སྤྱོད་མཁན་ཚང་མའི་དྲ་རྒྱ་སྒྲིག་འགོད་བཟོ་བཅོས་བཀག་འགོག་བྱས།"
+
+msgid "System policy prevents modification of personal network settings"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་སྒེར་གྱི་དྲ་རྒྱ་སྒྲིག་འགོད་བཟོ་བཅོས་བཀག་འགོག་བྱས།"
+
+msgid "System policy prevents modification of the persistent system hostname"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་རྒྱུད་ཁོངས་སྔར་ཡོད་གཙོ་འཁོར་མིང་བཟོ་བཅོས་བཀག་འགོག་བྱས།"
+
+msgid "System policy prevents putting NetworkManager to sleep or waking it up"
+msgstr "རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས NetworkManager བཀལ་བའམ་སད་འབོད་བཀག་འགོག་བྱས།"
+
+msgid ""
+"System policy prevents sharing connections via a protected WiFi network"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་སྲུང་སྐྱོབ་ཐོབ་པའི WiFi "
+"དྲ་རྒྱ་མཉམ་སྤྱོད་འབྲེལ་མཐུད་སྤྱོད་པ་བཀག་འགོག་བྱས།"
+
+msgid "System policy prevents sharing connections via an open WiFi network"
+msgstr ""
+"རྒྱུད་ཁོངས་ཐབས་ཇུས་ཀྱིས་ཡོངས་བསྒྲགས་ཀྱི WiFi "
+"དྲ་རྒྱ་མཉམ་སྤྱོད་འབྲེལ་མཐུད་སྤྱོད་པ་བཀག་འགོག་བྱས།"
+
+msgid "TEAM"
+msgstr "ཚོགས་པ།"
+
+msgid "TEAM PORT"
+msgstr "ཁྱུ་ཚོ་སྣེ་ཁ།"
+
+msgid "TIMESTAMP"
+msgstr "དུས་ཐམ།"
+
+msgid "TIMESTAMP-REAL"
+msgstr "དུས་ཚོད་དངོས་ཀྱི་ཐམ་པ།"
+
+msgid "TKIP"
+msgstr "TKIP"
+
+msgid "TX-POW"
+msgstr "TX-POW"
+
+msgid "TYPE"
+msgstr "རིགས་གྲས།"
+
+msgid "Team"
+msgstr "བསྡམས་བཅད(Team རྣམ་པ)"
+
+msgid "Team JSON configuration [none]: "
+msgstr "ཁྱུ་ཚོ JSON སྡེབ་སྒྲིག [མེད]："
+
+msgid "Team connection"
+msgstr "ཁྱུ་ཚོ་འབྲེལ་མཐུད།"
+
+msgid "Team connection %d"
+msgstr "ཁྱུ་ཚོ་འབྲེལ་མཐུད %d"
+
+msgid "The Bluetooth addresses of the device and the connection didn't match."
+msgstr "སྒྲིག་ཆས་ཁྱི་སོ་སྔོན་ཤག་གནསདང་འབྲེལ་མཐུད་ཟླ་སྒྲིག་མིན།"
+
+msgid "The Bluetooth connection failed or timed out"
+msgstr "སོ་སྔོན་འབྲེལ་མཐུད་ཕམ་པའམ་དུས་བརྒལ།"
+
+msgid "The IP configuration is no longer valid"
+msgstr "IP སྒྲིག་འགོད་ནུས་པ་ཤོར་ཟིན།"
+
+msgid "The MACs of the device and the connection didn't match."
+msgstr "སྒྲིག་ཆས་ཀྱི MAC ཤག་གནས་དང་འབྲེལ་མཐུད་ཟླ་སྒྲིག་མིན།"
+
+msgid "The VLAN identifiers of the device and the connection didn't match."
+msgstr "VLAN སྒྲིག་ཆས་མཚོན་རྟགས་དང་འབྲེལ་མཐུད་ཟླ་སྒྲིག་མིན།"
+
+msgid "The Wi-Fi network could not be found"
+msgstr "Wi-Fi དྲ་རྒྱ་རྙེད་མ་བྱུང་།"
+
+msgid "The connection did not specify an interface name."
+msgstr "མཐུད་ཁའི་མིང་དམིགས་བཙུགས་མེད་པ་འབྲེལ་མཐུད་བྱེད་པ།"
+
+msgid "The connection is not saved. Do you really want to quit? %s"
+msgstr ""
+"འབྲེལ་མཐུད་ཉར་ཚགས་བྱས་མེད་དམ།   ཁྱེད་རང་དངོས་གནས་ཕྱིར་འབུད་རྒྱུ་ཡིན་ནམ།  %s"
+
+msgid ""
+"The connection profile has been removed from another client. You may type "
+"'save' in the main menu to restore it.\n"
+msgstr ""
+
+msgid ""
+"The connection profile has been removed from another client. You may type "
+"'save' to restore it.\n"
+msgstr ""
+
+msgid "The connection was not a Bluetooth connection."
+msgstr "འབྲེལ་མཐུད་འདི་སོ་སྔོན་འབྲེལ་མཐུད་མིན།"
+
+msgid "The connection was not a VLAN connection."
+msgstr "འབྲེལ་མཐུད་འདི་ VLAN འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not a Wi-Fi connection."
+msgstr "འབྲེལ་མཐུད་འདི་ Wi-Fi འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not a WiMAX connection."
+msgstr "འབྲེལ་མཐུད་འདི་ WiMAX འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not a bond connection."
+msgstr "འབྲེལ་མཐུད་འདི་བསྡམས་བཅད་འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not a bridge connection."
+msgstr "འབྲེལ་མཐུད་འདི་ཟམ་མཐུད་འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not a generic connection."
+msgstr "འབྲེལ་མཐུད་འདི་སྤྱི་སྤྱོད་འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not a modem connection."
+msgstr "འབྲེལ་མཐུད་འདི་སྙོམ་སྒྲིག་ཆས་འབྲེལ་མཐུད་ཀྱི་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not a team connection."
+msgstr "འབྲེལ་མཐུད་འདི་ཁྱུ་ཚོ་འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not a valid modem connection."
+msgstr ""
+"འབྲེལ་མཐུད་འདི་ནུས་ཡོད་ཀྱི་སྙོམ་སྒྲིག་ཆས་འབྲེལ་མཐུད་ཀྱི་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not an ADSL connection."
+msgstr "འབྲེལ་མཐུད་འདི་ ADSL འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not an Ethernet or PPPoE connection."
+msgstr ""
+"འབྲེལ་མཐུད་འདི་ཨེ་ཐེར་དྲ་རྒྱའམ་ཡང་ན PPPoE འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not an InfiniBand connection."
+msgstr "འབྲེལ་མཐུད་འདི་ InfiniBand འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not an OLPC Mesh connection."
+msgstr "འབྲེལ་མཐུད་འདི་OLPC དྲ་མིག་འབྲེལ་མཐུད་ཅིག་མིན།"
+
+msgid "The connection was not valid: %s"
+msgstr "འབྲེལ་མཐུད་འདི་ནུས་མེད་ཡིན།：%s"
+
+msgid "The device could not be readied for configuration"
+msgstr "སྒྲིག་ཆས་ཀྱིས་སྡེབ་སྒྲིག་སྟ་གོན་བྱས་མེད།"
+
+msgid ""
+"The device is lacking Bluetooth capabilities required by the connection."
+msgstr "སྒྲིག་ཆས་འདིར་འབྲེལ་མཐུད་ལ་མཁོ་བའི་སོ་སྔོན་བྱེད་ནུས་ཆད་པ།"
+
+msgid "The device is lacking WPA capabilities required by the connection."
+msgstr "སྒྲིག་ཆས་འདིར་འབྲེལ་མཐུད་ལ་མཁོ་བའི WPA བྱེད་ནུས་ཆད་པ།"
+
+msgid ""
+"The device is lacking WPA2/RSN capabilities required by the connection."
+msgstr "སྒྲིག་ཆས་འདིར་འབྲེལ་མཐུད་ལ་མཁོ་བའི WPA2/RSN བྱེད་ནུས་ཆད་པ།"
+
+msgid "The device is lacking capabilities required by the connection."
+msgstr "སྒྲིག་ཆས་འདིར་འབྲེལ་མཐུད་ལམཁོ་བའི་བྱེད་ནུས་ཆད་པ།"
+
+msgid "The device parent's management changed"
+msgstr "སྒྲིག་ཆས་དོ་དམ་ལ་བཟོ་བཅོས་བརྒྱབ་ཟིན་པ།"
+
+msgid "The device was removed"
+msgstr "སྒྲིག་ཆས་ཕྱིར་ཕུད་ཟིན་པ།"
+
+msgid "The device's active connection disappeared"
+msgstr "སྒྲིག་ཆས་འདིའི་འཁྲུག་ཆ་དོད་པའི་འབྲེལ་མཐུད་བོར་བ།"
+
+msgid "The device's existing connection was assumed"
+msgstr "སྒྲིག་ཆས་ཀྱི་མིག་སྔའི་འབྲེལ་མཐུད་དམིགས་འཛུགས་བྱས་ཟིན་པ།"
+
+msgid "The device's parent changed"
+msgstr "སྒྲིག་ཆས་བཟོ་བཅོས་བྱས་ཟིན་པ།"
+
+msgid "The dialing attempt failed"
+msgstr "ཨང་འབོད་ཚོད་ལྟ་ཕམ་པ།"
+
+msgid "The dialing request timed out"
+msgstr "ཨང་འབོད་རེ་ཞུའི་དུས་བརྒལ།"
+
+msgid "The error cannot be fixed automatically.\n"
+msgstr ""
+
+msgid "The expected start of the response"
+msgstr "དང་ལེན་གྱི་སྔོན་དཔག་འགོ་སློང་བ།"
+
+msgid "The hardware address of the device and the connection didn't match."
+msgstr "སྒྲིག་ཆས་ཀྱི་སྲ་ཆས་ཤག་གནས་དང་འབྲེལ་མཐུད་ཟླ་སྒྲིག་མིན།"
+
+msgid "The interface names of the device and the connection didn't match."
+msgstr "སྒྲིག་ཆས་ཀྱི་མཐུད་ཁའི་མིང་དང་འབྲེལ་མཐུད་ཟླ་སྒྲིག་མིན།"
+
+msgid "The interface to manage"
+msgstr "མཐུད་ཁ་དོ་དམ།"
+
+msgid "The interval between connectivity checks (in seconds)"
+msgstr ""
+"འབྲེལ་མཐུད་རང་བཞིན་བཤེར་འཇལ་གྱི་བར་ཆོད་དུས་ཚོད། (སྐར་ཆ་འཇལ་བྱེད་བྱེད་པ།)"
+
+msgid "The line is busy"
+msgstr "སྐུད་ལམ་བྲེལ་བ།"
+
+msgid "The modem could not be found"
+msgstr "སྙོམ་སྒྲིག་འདུམ་འགྲིག་ཆས་རྙེད་མ་བྱུང་།"
+
+msgid "The supplicant is now available"
+msgstr "མཁོ་མཁན་ད་ལྟ་སྤྱོད་རུང་།"
+
+msgid "There is %d optional argument for '%s' connection type.\n"
+msgid_plural "There are %d optional arguments for '%s' connection type.\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Time to wait for a connection, in seconds (without the option, default value"
+" is 30)"
+msgstr ""
+"སྒུག་པའི་དྭས་ཚོད་འབྲེལ་མཐུད། སྐར་ཆ་འཇལ་བྱེད་བྱེད་པ།(སོར་བཞག་སྒྲིག་འགོད་ནི "
+"30)"
+
+msgid "Transport mode"
+msgstr "བརྒྱུད་གཏོང་རྣམ་པ།"
+
+msgid "Transport mode %s"
+msgstr "བརྒྱུད་གཏོང་རྣམ་པ།  %s"
+
+msgid "Type 'describe [<setting>.<prop>]' for detailed property description."
+msgstr "“describe [<setting>.<prop>]” ནང་འཇུག ཞིབ་ཚགས་ཀྱི་གཏོགས་གཤིས་གསལ་བཤད།"
+
+msgid "Type 'help' or '?' for available commands."
+msgstr "help' དང་ཡང་ན '?' ནང་འཇུག་བྱས་ནས་སྤྱོད་རུང་བཀའ་བརྡ་འཆར་བ།"
+
+msgid "UDI"
+msgstr ""
+
+msgid "USB"
+msgstr "USB"
+
+msgid "USERNAME"
+msgstr ""
+
+msgid "UUID"
+msgstr ""
+
+msgid "Unable to add new connection: %s"
+msgstr "འབྲེལ་མཐུད་གསར་པ་ཁ་སྣོན་བྱེད་ཐབས་མེད།: %s"
+
+msgid "Unable to delete connection: %s"
+msgstr "འབྲེལ་མཐུད་བསུབ་ཐབས་མེད།: %s"
+
+msgid "Unable to determine private key type."
+msgstr "སྒེར་ལྡེ་རིགས་རྣམ་གཏན་འཁེལ་བྱེད་ཐབས་མེད།"
+
+msgid "Unable to save connection: %s"
+msgstr "འབྲེལ་མཐུད་ཉར་ཚགས་བྱེད་ཐབས་མེད།：%s"
+
+msgid "Unable to set hostname: %s"
+msgstr "གཙོ་འཁོར་མིང་སྒྲིག་འགོད་བྱེད་ཐབས་མེད།: %s"
+
+msgid "Unexpected amount of data after encrypting."
+msgstr "གསང་སྡོམ་བྱས་རྗེས་ཀྱི་བསམ་ཡུལ་ལས་འདས་པའི་གཞི་གྲངས་ཚད།"
+
+msgid "Unexpected failure to normalize the connection"
+msgstr "ཚད་གཞི་ཅན་གྱི་འབྲེལ་མཐུད་བསམ་ཡུལ་ལས་འདས་པའི་ཕམ་པ།"
+
+msgid "Unexpected failure to verify the connection"
+msgstr "འབྲེལ་མཐུད་ར་སྤྲོད་བསམ་ཡུལ་ལས་འདས་པའི་ཕམ་པ།"
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unknown command argument: '%s'\n"
+msgstr ""
+
+msgid "Unknown command: '%s'\n"
+msgstr ""
+
+msgid "Unknown error"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+
+msgid "Unknown log domain '%s'"
+msgstr "ངེས་མེད་ཉིན་ཐོ་ཁོངས། '%s'"
+
+msgid "Unknown log level '%s'"
+msgstr "ངེས་མེད་ཉིན་ཐོ་རིམ་པ། '%s'"
+
+msgid "Unknown parameter: %s\n"
+msgstr ""
+
+msgid "Unknown slave type '%s'"
+msgstr "ངེས་མེད་ཀྱི་ཁོངས་གཏོགས་རིགས་རྣམ '%s'"
+
+msgid "Unknown/unhandled Bluetooth connection type"
+msgstr "ངེས་མེད/ཐག་བཅད་མེད་པའི་སོ་སྔོན་འབྲེལ་མཐུད་རིགས་རྣམ།"
+
+msgid "Usage"
+msgstr "སྤྱོད་སྟངས།"
+
+msgid ""
+"Usage: nmcli agent all { help }\n"
+"\n"
+"Runs nmcli as both NetworkManager secret and a polkit agent.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli agent polkit { help }\n"
+"\n"
+"Registers nmcli as a polkit action for the user session.\n"
+"When a polkit daemon requires an authorization, nmcli asks the user and gives\n"
+"the response back to polkit.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli agent secret { help }\n"
+"\n"
+"Runs nmcli as NetworkManager secret agent. When NetworkManager requires\n"
+"a password it asks registered agents for it. This command keeps nmcli running\n"
+"and if a password is required asks the user for it.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli agent { COMMAND | help }\n"
+"\n"
+"COMMAND := { secret | polkit | all }\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli connection delete { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [id | uuid | path] <ID>\n"
+"\n"
+"Delete a connection profile.\n"
+"The profile is identified by its name, UUID or D-Bus path.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli connection down { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [id | uuid | path | apath] <ID> ...\n"
+"\n"
+"Deactivate a connection from a device (without preventing the device from\n"
+"further auto-activation). The profile to deactivate is identified by its name,\n"
+"UUID or D-Bus path.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli connection edit { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [id | uuid | path] <ID>\n"
+"\n"
+"Edit an existing connection profile in an interactive editor.\n"
+"The profile is identified by its name, UUID or D-Bus path\n"
+"\n"
+"ARGUMENTS := [type <new connection type>] [con-name <new connection name>]\n"
+"\n"
+"Add a new connection profile in an interactive editor.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli connection load { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := <filename> [<filename>...]\n"
+"\n"
+"Load/reload one or more connection files from disk. Use this after manually\n"
+"editing a connection file to ensure that NetworkManager is aware of its latest\n"
+"state.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli connection modify { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [id | uuid | path] <ID> ([+|-]<setting>.<property> <value>)+\n"
+"\n"
+"Modify one or more properties of the connection profile.\n"
+"The profile is identified by its name, UUID or D-Bus path. For multi-valued\n"
+"properties you can use optional '+' or '-' prefix to the property name.\n"
+"The '+' sign allows appending items instead of overwriting the whole value.\n"
+"The '-' sign allows removing selected items instead of the whole value.\n"
+"\n"
+"Examples:\n"
+"nmcli con mod home-wifi wifi.ssid rakosnicek\n"
+"nmcli con mod em1-1 ipv4.method manual ipv4.addr \"192.168.1.2/24, 10.10.1.5/8\"\n"
+"nmcli con mod em1-1 +ipv4.dns 8.8.4.4\n"
+"nmcli con mod em1-1 -ipv4.dns 1\n"
+"nmcli con mod em1-1 -ipv6.addr \"abbe::cafe/56\"\n"
+"nmcli con mod bond0 +bond.options mii=500\n"
+"nmcli con mod bond0 -bond.options downdelay\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli connection reload { help }\n"
+"\n"
+"Reload all connection files from disk.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli connection up { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [id | uuid | path] <ID> [ifname <ifname>] [ap <BSSID>] [nsp <name>] [passwd-file <file with passwords>]\n"
+"\n"
+"Activate a connection on a device. The profile to activate is identified by its\n"
+"name, UUID or D-Bus path.\n"
+"\n"
+"ARGUMENTS := ifname <ifname> [ap <BSSID>] [nsp <name>] [passwd-file <file with passwords>]\n"
+"\n"
+"Activate a device with a connection. The connection profile is selected\n"
+"automatically by NetworkManager.\n"
+"\n"
+"ifname      - specifies the device to active the connection on\n"
+"ap          - specifies AP to connect to (only valid for Wi-Fi)\n"
+"nsp         - specifies NSP to connect to (only valid for WiMAX)\n"
+"passwd-file - file with password(s) required to activate the connection\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli device connect { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := <ifname>\n"
+"\n"
+"Connect the device.\n"
+"NetworkManager will try to find a suitable connection that will be activated.\n"
+"It will also consider connections that are not set to auto-connect.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli device delete { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := <ifname> ...\n"
+"\n"
+"Delete the software devices.\n"
+"The command removes the interfaces. It only works for software devices\n"
+"(like bonds, bridges, etc.). Hardware devices cannot be deleted by the\n"
+"command.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli device disconnect { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := <ifname> ...\n"
+"\n"
+"Disconnect devices.\n"
+"The command disconnects the device and prevents it from auto-activating\n"
+"further connections without user/manual intervention.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli device show { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [<ifname>]\n"
+"\n"
+"Show details of device(s).\n"
+"The command lists details for all devices, or for a given device.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli device status { help }\n"
+"\n"
+"Show status for all devices.\n"
+"By default, the following columns are shown:\n"
+" DEVICE     - interface name\n"
+" TYPE       - device type\n"
+" STATE      - device state\n"
+" CONNECTION - connection activated on device (if any)\n"
+"Displayed columns can be changed using '--fields' global option. 'status' is\n"
+"the default command, which means 'nmcli device' calls 'nmcli device status'.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli general hostname { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [<hostname>]\n"
+"\n"
+"Get or change persistent system hostname.\n"
+"With no arguments, this prints currently configured hostname. When you pass\n"
+"a hostname, NetworkManager will set it as the new persistent system hostname.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli general logging { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [level <log level>] [domains <log domains>]\n"
+"\n"
+"Get or change NetworkManager logging level and domains.\n"
+"Without any argument current logging level and domains are shown. In order to\n"
+"change logging state, provide level and/or domain. Please refer to the man page\n"
+"for the list of possible logging domains.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli general permissions { help }\n"
+"\n"
+"Show caller permissions for authenticated operations.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli general status { help }\n"
+"\n"
+"Show overall status of NetworkManager.\n"
+"'status' is the default action, which means 'nmcli gen' calls 'nmcli gen status'\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli general { COMMAND | help }\n"
+"\n"
+"COMMAND := { status | hostname | permissions | logging }\n"
+"\n"
+"  status\n"
+"\n"
+"  hostname [<hostname>]\n"
+"\n"
+"  permissions\n"
+"\n"
+"  logging [level <log level>] [domains <log domains>]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli networking connectivity { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [check]\n"
+"\n"
+"Get network connectivity state.\n"
+"The optional 'check' argument makes NetworkManager re-check the connectivity.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli networking off { help }\n"
+"\n"
+"Switch networking off.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli networking on { help }\n"
+"\n"
+"Switch networking on.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli networking { COMMAND | help }\n"
+"\n"
+"COMMAND := { [ on | off | connectivity ] }\n"
+"\n"
+"  on\n"
+"\n"
+"  off\n"
+"\n"
+"  connectivity [check]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli radio all { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [on | off]\n"
+"\n"
+"Get status of all radio switches, or turn them on/off.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli radio wifi { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [on | off]\n"
+"\n"
+"Get status of Wi-Fi radio switch, or turn it on/off.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: nmcli radio wwan { ARGUMENTS | help }\n"
+"\n"
+"ARGUMENTS := [on | off]\n"
+"\n"
+"Get status of mobile broadband radio switch, or turn it on/off.\n"
+"\n"
+msgstr ""
+
+msgid "Use TCP header compression"
+msgstr "TCP ཚགས་པར་འགོ་སྡུད་སྒྲིལ་སྤྱོད་པ།"
+
+msgid "Use an IPv6 temporary privacy address"
+msgstr "IPv6 གནས་སྐབས་སྒེར་ཡོད་ཤག་གནས་སྤྱོད་པ།"
+
+msgid "Use point-to-point encryption (MPPE)"
+msgstr "ཚེག་ནས་ཚེག་གསང་སྡོམ ། (MPPE) སྤྱོད་པ།"
+
+msgid "Use stateful MPPE"
+msgstr "རྣམ་པ MPPE སྤྱོད་པ།"
+
+msgid "Username"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་།"
+
+msgid "Username [none]: "
+msgstr "སྤྱོད་མཁན་མིང་། [མེད]："
+
+msgid "VALUE"
+msgstr "ཚད།"
+
+msgid "VENDOR"
+msgstr "བཟོ་ཚོང་བ།"
+
+msgid "VERSION"
+msgstr "པར་གཞི།"
+
+msgid "VLAN"
+msgstr ""
+
+msgid "VLAN connection"
+msgstr "VLAN འབྲེལ་མཐུད།"
+
+msgid "VLAN connection %d"
+msgstr "\"VLAN འབྲེལ་མཐུད %d\""
+
+msgid "VLAN flags (<0-7>) [none]: "
+msgstr "VLAN མཚོན་རྟགས། (<0-7>) [མེད]："
+
+msgid "VLAN id"
+msgstr ""
+
+msgid "VLAN parent device or connection UUID: "
+msgstr "VLAN སྒྲིག་ཆས་སམ་འབྲེལ་མཐུད UUID："
+
+msgid "VPN"
+msgstr ""
+
+msgid "VPN connected"
+msgstr "VPN འབྲེལ་མཐུད་བྱས་ཟིན།"
+
+msgid "VPN connecting"
+msgstr "VPN འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
+
+msgid "VPN connecting (getting IP configuration)"
+msgstr "VPN འབྲེལ་མཐུད་བྱེད་བཞིན་པ།( IP སྡེབ་སྒྲིག་ཐོབ་པ།)"
+
+msgid "VPN connecting (need authentication)"
+msgstr "VPN འབྲེལ་མཐུད་བྱེད་བཞིན་པ།(ར་སྤྲོད་དགོས།)"
+
+msgid "VPN connecting (prepare)"
+msgstr "VPN འབྲེལ་མཐུད་བྱེད་བཞིན་པ།(སྟ་གོན)"
+
+msgid "VPN connection"
+msgstr "VPN འབྲེལ་མཐུད།"
+
+msgid "VPN connection %d"
+msgstr "VPN འབྲེལ་མཐུད %d"
+
+msgid "VPN connection failed"
+msgstr "VPN འབྲེལ་མཐུད་ཕམ་པ།"
+
+msgid "VPN connection successfully activated (D-Bus active path: %s)\n"
+msgstr ""
+
+msgid "VPN disconnected"
+msgstr "VPN འབྲེལ་མཐུད་གཅོད་པ།"
+
+msgid "VPN type: "
+msgstr "VPN རིགས་རྣམ།："
+
+msgid "VPN-STATE"
+msgstr ""
+
+msgid "Valid connection types: %s\n"
+msgstr ""
+
+msgid "Verify connection: %s\n"
+msgstr ""
+
+msgid "Verify setting '%s': %s\n"
+msgstr ""
+
+msgid "WEP"
+msgstr ""
+
+msgid "WEP 128-bit Passphrase"
+msgstr "WEP 128 གསང་ཨང་།"
+
+msgid "WEP 40/128-bit Key (Hex or ASCII)"
+msgstr "WEP 40/128 གསང་ལྡེ(Hex ཡང་ན ASCII)"
+
+msgid "WEP index"
+msgstr "WEP གསལ་བྱང་།"
+
+msgid "1 (Default)"
+msgstr "1། (སོར་བཞག)"
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "WEP key index set to '%d'\n"
+msgstr ""
+
+msgid "WEP key is guessed to be of '%s'\n"
+msgstr ""
+
+msgid "WI-FI"
+msgstr ""
+
+msgid "WIFI"
+msgstr ""
+
+msgid "WIFI-HW"
+msgstr "WIFI སྲ་ཆས།"
+
+msgid "WIFI-PROPERTIES"
+msgstr "WIFI གཏོགས་གཤིས།"
+
+msgid "WIMAX"
+msgstr "WIMAX"
+
+msgid "WIMAX-HW"
+msgstr "WIMAX སྲ་ཆས།"
+
+msgid "WIMAX-PROPERTIES"
+msgstr "WIMAX གཏོགས་གཤིས།"
+
+msgid "WINS"
+msgstr ""
+
+msgid "WIRED-PROPERTIES"
+msgstr "སྐུད་ཡོད་འབྲེལ་མཐུདགཏོགས་གཤིས"
+
+msgid "WPA"
+msgstr ""
+
+msgid "WPA & WPA2 Enterprise"
+msgstr "WPAདང་WPA2ཁེ་ལས་རིམ་པ།"
+
+msgid "WPA & WPA2 Personal"
+msgstr "WPAདང་WPA2མི་སྒེར་རིམ་པ།"
+
+msgid "WPA authentication is incompatible with Shared Key authentication"
+msgstr "WPA ཐོབ་ཐང་ར་སྤྲོད་དང་གསང་ལྡེ་མཉམ་སྤྱོད་ར་སྤྲོད་འཆམ་མཐུན་མིན།"
+
+msgid ""
+"WPA authentication is incompatible with non-EAP (original) LEAP or Dynamic "
+"WEP"
+msgstr ""
+"WPA ཐོབ་ཐང་ར་སྤྲོད་དང་ EAP། (གདོད་མ) LEAP མ་ཡིན་པའམ་ཡང་ན་འགུལ་རྣམ  WEP "
+"འཆམ་མཐུན་མིན།"
+
+msgid "WPA-EAP authentication requires an 802.1x setting"
+msgstr "WPA-EAP ཐོབ་ཐང་ར་སྤྲོད་ལ  802.1x སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid "WPA-EAP requires 'open' authentication"
+msgstr "WPA-EAP ལ  “open” ར་སྤྲོད་བྱེད་དགོས།"
+
+msgid "WPA-FLAGS"
+msgstr "WPA-མཚོན་རྟགས།"
+
+msgid "WPA-PSK authentication is incompatible with 802.1x"
+msgstr "WPA-PSK ཐོབ་ཐང་ར་སྤྲོད་དང་  802.1x འཆམ་མཐུན་མིན།"
+
+msgid "WPA-PSK requires 'open' authentication"
+msgstr "WPA-PSK ལ“སྒོ་འབྱེུད”ར་སྤྲོད་དགོས།"
+
+msgid "WPA1"
+msgstr ""
+
+msgid "WPA2"
+msgstr ""
+
+msgid "WWAN"
+msgstr ""
+
+msgid "WWAN radio switch"
+msgstr "WWANསྐུད་མེད་གློག་གི་འཕྲོ་ཟློས་བསད་སྤར།"
+
+msgid "WWAN-HW"
+msgstr "\"WWAN སྲ་ཆས།"
+
+msgid "Wait for NetworkManager startup instead of a connection"
+msgstr ""
+"NetworkManager "
+"འགོ་སློང་ལ་སྒུག་པ་ལས་འབྲེལ་མཐུད་ག་གེ་མོ་ཞིག་གི་འགོ་སློང་ལ་སྒྭག་པ་མིན།"
+
+msgid ""
+"Waits for NetworkManager to finish activating startup network connections."
+msgstr ""
+"NetworkManager "
+"དྲ་རྒྱ་འབྲེལ་མཐུད་ཀྱི་སྐུལ་སློང་འགོ་སློང་ལེགས་འགྲུབ་ཡོང་བར་སྒུག་པ།"
+
+msgid "Warning: %s is not an UUID of any existing connection profile\n"
+msgstr ""
+
+msgid ""
+"Warning: %s.%s set to '%s', but it might be ignored in infrastructure mode\n"
+msgstr ""
+
+msgid ""
+"Warning: '%s' is not compatible with '%s' type, please change or delete the "
+"key.\n"
+msgstr ""
+
+msgid "Warning: '%s' sum is higher than all flags => all flags set\n"
+msgstr ""
+
+msgid "Warning: 'vpn-type': %s not known.\n"
+msgstr ""
+
+msgid "Warning: argument '%s' is duplicated.\n"
+msgstr ""
+
+msgid ""
+"Warning: changes will have no effect until '%s' includes 1 (enabled)\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Warning: editing existing connection '%s'; 'con-name' argument is ignored\n"
+msgstr ""
+
+msgid "Warning: editing existing connection '%s'; 'type' argument is ignored\n"
+msgstr ""
+
+msgid "Warning: master='%s' doesn't refer to any existing profile.\n"
+msgstr ""
+
+msgid ""
+"Warning: nmcli (%s) and NetworkManager (%s) versions don't match. Use "
+"--nocheck to suppress the warning.\n"
+msgstr ""
+
+msgid ""
+"Warning: only one mapping at a time is supported; taking the first one "
+"(%s)\n"
+msgstr ""
+
+msgid ""
+"Warning: password for '%s' not given in 'passwd-file' and nmcli cannot ask "
+"without '--ask' option.\n"
+msgstr ""
+
+msgid "Warning: polkit agent initialization failed: %s\n"
+msgstr ""
+
+msgid "Warning: setting %s.%s requires removing ipv4 and ipv6 settings\n"
+msgstr ""
+
+msgid "Whether DHCPv4 must be successful"
+msgstr "DHCPv4ངེས་པར་དུ་ལེགས་འགྲུབ་བྱེད་དགོས་མིན།"
+
+msgid "Whether SLAAC must be successful"
+msgstr "SLACངེས་པར་དུ་ལེགས་འགྲུབ་བྱེད་དགོས་མིན།"
+
+msgid "Whether to manage IPv6 SLAAC"
+msgstr "IPv6 SLACདོ་དམ་བྱེད་མིན།"
+
+msgid "Wi-Fi"
+msgstr ""
+
+msgid "Automatic"
+msgstr "རང་འགུལ།"
+
+msgid "Client"
+msgstr "མཁོ་མཁན།"
+
+msgid "Wi-Fi connection %d"
+msgstr "Wi-Fi འབྲེལ་མཐུད %d"
+
+msgid "Wi-Fi mode"
+msgstr "Wi-Fi རྣམ་པ།"
+
+msgid "Wi-Fi radio switch"
+msgstr "Wi-Fi སྐུད་མེད་གློག་གི་འཕྲོ་ཟློས་བསད་སྤར།"
+
+msgid "Wi-Fi scan list"
+msgstr "Wi-Fi བཤར་འབེབས་རེའུ་མིག"
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "WiMAX"
+msgstr ""
+
+msgid "WiMAX NSP name: "
+msgstr "WiMAX NSP མིང་།："
+
+msgid "Wired"
+msgstr "སྐུད་ལྡན་འབྲེལ་མཐུད།"
+
+msgid "Wired 802.1X authentication"
+msgstr "སྐུད་ཡོད་ 802.1X ར་སྤྲོད།"
+
+msgid "Wired connection"
+msgstr "སྐུད་ཡོད་འབྲེལ་མཐུད།"
+
+msgid "Wired connection %d"
+msgstr "སྐུད་ཡོད་འབྲེལ་མཐུད %d"
+
+msgid "Writing to %s failed: %s\n"
+msgstr ""
+
+msgid "XOR"
+msgstr "ཐ་དད་ཡང་ན།"
+
+msgid "You may edit the following properties: %s\n"
+msgstr ""
+
+msgid "You may edit the following settings: %s\n"
+msgstr ""
+
+msgid "You may try running 'verify fix' to fix errors.\n"
+msgstr ""
+
+msgid "You must be root to run %s!\n"
+msgstr ""
+
+msgid "ZONE"
+msgstr ""
+
+msgid "[ Type: %s | Name: %s | UUID: %s | Dirty: %s | Temp: %s ]\n"
+msgstr ""
+
+msgid "['%s' setting values]\n"
+msgstr ""
+
+msgid "[NM property description]"
+msgstr "[NM གཏོགས་གཤིས་ཞིབ་བརྗོད།]"
+
+msgid "[nmcli specific description]"
+msgstr "[nmcliདམིགས་བསལ་ཞིབ་བརྗོད]"
+
+msgid "a connection using '%s' authentication cannot use WPA key management"
+msgstr ""
+"“%s” ར་སྤྲོད་ཀྱི་འབྲེལ་མཐུད་སྤྱད་པ་ཞིག་གིས WPA གསང་ལྡེ་དོ་དམ་སྤྱོད་ཐབས་མེད།"
+
+msgid ""
+"activate [<ifname>] [/<ap>|<nsp>]  :: activate the connection\n"
+"\n"
+"Activates the connection.\n"
+"\n"
+"Available options:\n"
+"<ifname>    - device the connection will be activated on\n"
+"/<ap>|<nsp> - AP (Wi-Fi) or NSP (WiMAX) (prepend with / when <ifname> is not specified)\n"
+msgstr ""
+
+msgid "activated"
+msgstr "སྐུལ་སློང་བྱས་ཟིན་པ།"
+
+msgid "activating"
+msgstr "སྐུལ་སློང་བྱེད་བཞིན་པ།"
+
+msgid ""
+"add [<value>]  :: append new value to the property\n"
+"\n"
+"This command adds provided <value> to this property, if the property is of a container type. For single-valued properties the property value is replaced (same as 'set').\n"
+msgstr ""
+
+msgid "advertise, "
+msgstr "བརྡ་ཁྱབ།"
+
+msgid "agent-owned, "
+msgstr "ཡོད་ཚབ་ཚབ་བྱེད།"
+
+msgid "asleep"
+msgstr "མལ་གསོ།"
+
+msgid "auth"
+msgstr "དབང་སྐུར།"
+
+msgid "auto"
+msgstr "རང་འགུལ།"
+
+msgid ""
+"back  :: go to upper menu level\n"
+"\n"
+msgstr ""
+
+msgid "bandwidth percentages must total 100%%"
+msgstr "ཞེང་ཚད་ཀྱི་བརྒྱ་ཆའི་བསྡུར་ཚད་བསྡོམས་འབོར་ངེས་པར་དུ་ 100%% ཡིན་དགོས།"
+
+msgid "barbar"
+msgstr "barbar"
+
+msgid "binary data missing"
+msgstr "གཉིས་གོང་འགྲིལ་ལུགས་གཞི་གྲངས་ཆད་པ།"
+
+msgid "bluetooth"
+msgstr "སོ་སྔོན།"
+
+msgid "bond"
+msgstr "བསྡམས་བཅད།"
+
+msgid "bridge"
+msgstr "དྲ་ཟམ།"
+
+msgid "bridge-slave"
+msgstr "ཕྱོགས་གཏོགས་ཟམ་མཐུད།"
+
+msgid "bytes"
+msgstr "ཡིག་ཚིགས།"
+
+msgid "can't set property of type '%s' from value of type '%s'"
+msgstr ""
+"རིགས་རྣམ “%s” ཡི་གཏོགས་གཤིས་སྒྲིག་འགོད་བྱེད་ཐབས་མེད། (ཁོངས་གཏོགས་རིགས་རྣམ་ནི"
+" “%s” ཡི་གྲངས་ཐང་ཡིན།)"
+
+msgid "certificate is invalid: %s"
+msgstr "དཔང་ཡིག་ནུས་མེད།：%s"
+
+msgid "certificate or key file '%s' does not exist"
+msgstr "དཔང་ཡིག་གམ་གསང་ལྡེ་ཡིག་ཆ “%s” མེད།"
+
+msgid ""
+"change  :: change current value\n"
+"\n"
+"Displays current value and allows editing it.\n"
+msgstr ""
+
+msgid "connected"
+msgstr "འབྲེལ་མཐུད་ཟིན་པ།"
+
+msgid "connected (local only)"
+msgstr "འབྲེལ་མཐུད་བྱས་ཟིན་པ། (རང་ས་ཁོ་ན།)"
+
+msgid "connected (site only)"
+msgstr "འབྲེལ་མཐུད་བྱས་ཟིན་པ། (དྲ་ཚིགས་ཁོ་ན།)"
+
+msgid "connecting"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
+
+msgid "connecting (checking IP connectivity)"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ། (IP འབྲེལ་མཐུད་ཞིབ་བཤེར།)"
+
+msgid "connecting (configuring)"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ། (སྡེབ་སྒྲིག)"
+
+msgid "connecting (getting IP configuration)"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།(IP སྡེབ་སྒྲིག་ཐོབ་པ། )"
+
+msgid "connecting (need authentication)"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ། (ར་སྤྲོད་དགོས་པ།)"
+
+msgid "connecting (prepare)"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ།(སྟ་གོན།)"
+
+msgid "connecting (starting secondary connections)"
+msgstr "འབྲེལ་མཐུད་བྱེད་བཞིན་པ། (འགོ་སློང་རམ་འདེགས་འབྲེལ་མཐུད)"
+
+msgid "connection"
+msgstr "འབྲེལ་མཐུད།"
+
+msgid "connection does not match access point"
+msgstr "འབྲེལ་མཐུད་མཐུད་སྣེ་རུ་ཟླ་སྒྲིག་མིན།"
+
+msgid "connection does not match device"
+msgstr "འབྲེལ་མཐུད་སྒྲིག་ཆས་སུ་ཟླ་སྒྲིག་མིན།"
+
+msgid "connection failed"
+msgstr "འབྲེལ་མཐུད་ཕམ་པ།"
+
+msgid "%s %d"
+msgstr "%s %d"
+
+msgid "connection type '%s' is not valid"
+msgstr "འབྲེལ་མཐུད་རིགས་རྣམ “%s” ནུས་མེད།"
+
+msgid "data missing"
+msgstr "གཞི་གྲངས་ཆད་པ།"
+
+msgid "deactivated"
+msgstr "སྤྱོད་འགོག་ཟིན།"
+
+msgid "deactivating"
+msgstr "འགོག་སྤྱོད་བྱེད་བཞིན་པ།"
+
+msgid "default"
+msgstr "སོར་བཞག"
+
+msgid "default route cannot be added (NetworkManager handles it by itself)"
+msgstr "སོར་བཞག་ལམ་འཚོལ（NetworkManager ཡིས་རང་སྤྱོད།）ཁ་སྣོན་བྱེད་ཐབས་མེད།"
+
+msgid "deprecated semicolon at the end of value %s: '%s'"
+msgstr "%s གྲངས་ཐང་གི་མཇུག་ལ་གཅོད་རྟགས་སྤྱོད་རྒྱུ་རྒྱབ་སྐྱོར་མི་བྱེད།: “%s”"
+
+msgid ""
+"describe  :: describe property\n"
+"\n"
+"Shows property description. You can consult nm-settings(5) manual page to see all NM settings and properties.\n"
+msgstr ""
+
+msgid ""
+"describe [<setting>.<prop>]  :: describe property\n"
+"\n"
+"Shows property description. You can consult nm-settings(5) manual page to see all NM settings and properties.\n"
+msgstr ""
+
+msgid "device '%s' not compatible with connection '%s'"
+msgstr "སྒྲིག་ཆས “%s” དང་འབྲེལ་མཐུད “%s” འཆམ་མཐུན་མིན།"
+
+msgid "disabled"
+msgstr "སྤྱོད་འགོག་ཟིན།"
+
+msgid "disconnected"
+msgstr "བཅད་ཟིན་པ།"
+
+msgid "disconnecting"
+msgstr "བཅད་ཟིན་པ།"
+
+msgid "don't know how to get the property value"
+msgstr "གཏོགས་གཤིས་གྲངས་ཐང་ཇི་ལྟར་ཐོབ་པ་མི་ཤེས།"
+
+msgid "element invalid"
+msgstr "གཞི་རྒྱུ་ནུས་མེད།"
+
+msgid "enabled"
+msgstr "བཀོལ་བ།"
+
+msgid "enabled, "
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན།"
+
+msgid "error loading setting value: %s"
+msgstr "སྒྲིག་ཐང་ཀློག་པ་ནོར་བ།：%s"
+
+msgid "eth0"
+msgstr ""
+
+msgid "ethernet"
+msgstr "ཨེ་ཐེར་དྲ་རྒྱ།"
+
+msgid "failed to convert value '%s' to uint"
+msgstr "%s' གྲངས་ཐང་ uint རིགས་རྣམ་ལ་བསྒྱུར་བ་ཕམ་པ།"
+
+msgid "failed to read passwd-file '%s': %s"
+msgstr "passwd-file ཀློག་འདོན་ཕམ་པ།  '%s': %s"
+
+msgid "field '%s' has to be alone"
+msgstr "ཡིག་དུམ '%s' ངེས་པར་དུ་ཁེར་རྐྱང་ཡིན་དགོས།"
+
+msgid "file:// URI is empty"
+msgstr "file:// URI སྟོང་པ་ཡིན།"
+
+msgid "file:// URI is not valid UTF-8"
+msgstr "file:// URI ནི་ནུས་མེད་ཀྱི UTF-8 སྒྲིག་ཨང་ཡིན།"
+
+msgid "file:// URI not NUL terminated"
+msgstr "file:// URI ནི NUL མཇུག་བསྡུས་མིན།"
+
+msgid "flags are invalid"
+msgstr "མཚོན་རྟགས་གནས་ནུས་མེད།"
+
+msgid "flags invalid"
+msgstr "ངོ་རྟགས་ནུས་མེད།"
+
+msgid "flags invalid - disabled"
+msgstr "ངོ་རྟགས་ནུས་མེད - འགོག་སྤྱོད་བྱས་ཟིན།"
+
+msgid "full"
+msgstr "ཆ་ཚང།"
+
+msgid "garbage at the end of value %s: '%s'"
+msgstr "གྲངས་ཐང་ %s ཡི་མཇུག་ཏུ་གད་སྙིགས་ཡོད།：'%s'"
+
+msgid "gateway cannot be set if there are no addresses configured"
+msgstr "གལ་ཏེ་སྡེབ་སྒྲིག་པའི་ཤག་གནས་མེད་ན་དྲ་སྟེམ་སྒྲིག་འགོད་བྱེད་ཐབསས་མེད།"
+
+msgid "gateway is invalid"
+msgstr "དྲ་སྟེམ་ནུས་མེད།"
+
+msgid ""
+"goto <setting>[.<prop>] | <prop>  :: enter setting/property for editing\n"
+"\n"
+"This command enters into a setting or property for editing it.\n"
+"\n"
+"Examples: nmcli> goto connection\n"
+"          nmcli connection> goto secondaries\n"
+"          nmcli> goto ipv4.addresses\n"
+msgstr ""
+
+msgid "has to match '%s' property for PKCS#12"
+msgstr "ངེས་པར་དུ PKCS#12 ཡི '%s' གཏོགས་གཤིས་ཟླ་སྒྲིག་བྱེད་དགོས།"
+
+msgid ""
+"help/? [<command>]  :: help for nmcli commands\n"
+"\n"
+msgstr ""
+
+msgid ""
+"help/? [<command>]  :: help for the nmcli commands\n"
+"\n"
+msgstr ""
+
+msgid "ignoring invalid %s address: %s"
+msgstr "ནུས་མེད་ཀྱི %s ཤག་གནས་སྣང་མེད་དུ་འཇོག་པ།：%s\""
+
+msgid "ignoring invalid %s route: %s"
+msgstr "ནུས་མེད་ཀྱི %s ལམ་འཚོལ་སྣང་མེད་དུ་འཇོག་པ།：%s\""
+
+msgid "ignoring invalid DNS server IPv4 address '%s'"
+msgstr "ནུས་མེད་ཀྱི་ DNS ཞབས་ཞུ་ཆས IPv4 ཤག་གནས་སྣང་མེད་དུ་འཇོག་པ། '%s'"
+
+msgid "ignoring invalid DNS server IPv6 address '%s'"
+msgstr "ནུས་མེད་ཀྱི DNS ཞབས་ཞུ་ཆས IPv6 ཤག་གནས་སྣང་མེད་དུ་འཇོག་པ། '%s'"
+
+msgid "ignoring invalid MAC address"
+msgstr "ནུས་མེད་ཀྱི MAC ཤག་གནས་སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "ignoring invalid SSID"
+msgstr "ནུས་མེད་ཀྱི SSID སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "ignoring invalid binary property"
+msgstr "ནུས་མེད་ཀྱི་གཉིས་གོང་འགྲིལ་ལུགས་གཏོགས་གཤིས་སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "ignoring invalid byte element '%d' (not between 0 and 255 inclusive)"
+msgstr ""
+"ནུས་མེད་ཡིག་ཚིགས་གཞི་རྒྱུ '%d'(0 ནས 255 བར་ན་མེད་པ།)སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "ignoring invalid gateway '%s' for %s route"
+msgstr "%2$s ལམ་འཚོལ་ལ་ནུས་མེད་དྲ་སྟེམ “%1$s”སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "ignoring invalid number '%s'"
+msgstr "ནུས་མེད་ཀྱི་གྲངས་ཀ '%s'སྣང་མེད་དུ་འཇོག་པ"
+
+msgid "ignoring invalid raw password"
+msgstr "ནུས་མེད་ཀྱི་གདོད་མའི་གསང་ཨང་སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "ignoring missing number"
+msgstr "ཆད་པའི་གྲངས་ཀ་སྣང་མེད་དུ་འཇོག་པ།"
+
+msgid "index '%d' is not in range <0-%d>"
+msgstr "གསལ་བྱང་ “%d” དེ  <0-%d> ཡི་ཁྱབ་ཁོངས་སུ་མེད།"
+
+msgid "index '%d' is not in the range of <0-%d>"
+msgstr "གསལ་བྱང་ “%d” དེ  <0-%d> ཡི་ཁྱབ་ཁོངས་སུ་མེད།"
+
+msgid "index '%s' is not valid"
+msgstr "གསལ་བྱང་ “%s” ནུས་མེད།"
+
+msgid ""
+"interface name of software infiniband device must be '%s' or unset (instead "
+"it is '%s')"
+msgstr ""
+"མཉེན་ཆས infiniband སྒྲིག་ཆས་མཐུད་ཁའི་མིང་ངེས་པར་དུ  '%s' དང་ཡང་ན unset "
+"ཡིན་དགོས། (ད་ལྟའི '%s'ཡིན་མི་ཆོག)"
+
+msgid "invalid '%s' or its value '%s'"
+msgstr "ནུས་མེད་ཀྱི '%s' དང་ཡང་ན་དེའི་གྲངས་ཐང་ '%s'"
+
+msgid "invalid IP address: %s"
+msgstr "ནུས་མེད་ཀྱི IP ཤག་གནས།：%s"
+
+msgid "invalid IPv4 address '%s'"
+msgstr "ནུས་མེད་ཀྱི IPv4 ཤག་གནས། '%s'"
+
+msgid "invalid IPv6 address '%s'"
+msgstr "ནུས་མེད་ཀྱི IPv6 ཤག་གནས། %s"
+
+msgid "invalid VPN secrets"
+msgstr "ནུས་མེད VPN གསང་སྡོམ།"
+
+msgid "invalid certificate format"
+msgstr "ནུས་མེད་ཀྱི་དཔང་ཡིག་རྣམ་གཞག"
+
+msgid "invalid char value (%i)"
+msgstr "ནུས་མེད་ཡིག་རྟགས་ཐང་། (%i)"
+
+msgid "invalid field '%s'; allowed fields: %s"
+msgstr "ནུས་མེད་ཁོངས “%s”  རུང་བའི་ཁོངས།：%s"
+
+msgid "invalid field '%s'; allowed fields: %s and %s, or %s,%s"
+msgstr ""
+"ནུས་མེད་ཀྱི་ཡིག་དུམ “%s”  རུང་བའི་ཡིག་དུམ་ལ：%s དང་  %s，ཡང་ན  %s འདུས། %s"
+
+msgid "invalid gateway address '%s'"
+msgstr "ནུས་མེད་ཀནཡི་དྲ་སྟེམ་ཤག་གནས། “%s”"
+
+msgid "invalid int64 value (%s)"
+msgstr "int64 ཐང་ནུས་མེད། (%s)"
+
+msgid "invalid key/cert value"
+msgstr "ནུས་མེད་ཀྱི་གསང་ལྡེ/དཔང་ཡིག་ཐང་།"
+
+msgid "invalid key/cert value data:;base64, is not base64"
+msgstr "ནུས་མེད་ཀྱི་གསང་ལྡེ/དཔང་ཡིག་ཐང་གཞི་གྲངས།:;base64， base64མིན།"
+
+msgid "invalid key/cert value data:;base64,file://"
+msgstr "ནུས་མེད་ཀྱི་གསང་ལྡེ/དཔང་ཡིག་ཐང་གཞི་གྲངས།:;base64，file://"
+
+msgid "invalid key/cert value is not a valid blob"
+msgstr "ནུས་མེད་ཀྱི་ key/cert ཐང་ནི་ནུས་མེད་ཀྱི blob ཡིན།"
+
+msgid "invalid key/cert value path \"%s\""
+msgstr ""
+
+msgid "invalid metric '%s'"
+msgstr ""
+
+msgid "invalid negative value (%i)"
+msgstr "ནུས་མེད་ཀྱི་བུན་ཐང་། (%i)"
+
+msgid "invalid option '%s'"
+msgstr "འདེམས་ཚན་ནུས་མེད། “%s”"
+
+msgid "invalid option '%s' or its value '%s'"
+msgstr "འདེམས་ཚན “%s” ཡང་ན་དེའི་ཐང་ “%s” ནུས་མེད།"
+
+msgid "invalid parity value '%s'"
+msgstr "ནུས་མེད་ཀྱི་ཆ་ཡ་དག་བཤེར་ཐང་། “%s”"
+
+msgid "invalid phase2 private key"
+msgstr "ནུས་མེད་ཀྱི་དུས་རིམ་གཉིས་པའི་སྒེར་ལྡེ།"
+
+msgid "invalid prefix '%s'; <1-%d> allowed"
+msgstr "ནུས་མེད་ཀྱི་སྔོན་འཇུག '%s'   <1-%d>ཁོ་ན་རུང་བ།"
+
+msgid "invalid prefix length for %s '%s', defaulting to %d"
+msgstr "\"%s “%s” ནུས་མེད་སྔོན་འཇུག་རིང་ཚད། སོར་བཞག་ནི %d ཡིན།"
+
+msgid "invalid priority map '%s'"
+msgstr "ནུས་མེད་ཀྱི་སྔོན་རིམ་རྟེན་འཕྲོ། “%s”"
+
+msgid "invalid private key"
+msgstr "ནུས་མེད་ཀྱི་སྒེར་ལྡེ།"
+
+msgid "invalid route: %s"
+msgstr "ནུས་མེད་ཀྱི་ལམ་འཚོལ།：%s"
+
+msgid "invalid setting name '%s'"
+msgstr "སྒྲིག་འགོད་མིང་ནུས་མེད། “%s”"
+
+msgid "invalid setting name in 'password' entry '%s'"
+msgstr "“password” ས་བཅད “%s” ནང་སྒྲིག་འགོད་མིང་ནུས་མེད་ཡིན།"
+
+msgid "is not a valid MAC address"
+msgstr "ནུས་ཡོད་ཀྱི MAC ཤག་གནས་ཤིག་མིན།"
+
+msgid "limited"
+msgstr ""
+
+msgid "%s %s"
+msgstr "\"%s %s\""
+
+msgid "mandatory option '%s' is missing"
+msgstr "ངེས་པར་དུ་དགོས་པའི་འདེམས་ཚན “%s” ཆད་པ།"
+
+msgid "ms"
+msgstr "ཧའོ་མིའོ།"
+
+msgid "missing colon in 'password' entry '%s'"
+msgstr "“password” ས་བཅད '%s' འདྲེན་རྟགས་མི་འདང་བ།"
+
+msgid "missing dot in 'password' entry '%s'"
+msgstr "“password” ས་བཅད '%s' ཚེག་མི་འདང་བ།"
+
+msgid "missing name, try one of [%s]"
+msgstr "མིང་མི་འདང་བས [%s] ཚོད་ལྟ་བྱ་རོགས།"
+
+msgid "missing option"
+msgstr "ཆད་ཤོར་གྱི་འདེམས་ཚན།"
+
+msgid "missing prefix length for %s '%s', defaulting to %d"
+msgstr "\"%s '%s' སྔོན་འཇུག་རིང་ཚད་མི་འདང་། སོར་བཞག་ནི  %d ཡིན།"
+
+msgid "missing setting"
+msgstr "སྒྲིག་འགོད་མི་འདང་།"
+
+msgid "mobile broadband"
+msgstr "སྒུལ་བདེའི་དྲ་ཆེན།"
+
+msgid "mtu for transport mode '%s' can be at most %d but it is %d"
+msgstr "\"རྒྱུད་གཏོང་རྣམ་པ '%s' ཡི mtu དེ  %dཡིན་ཆོག འོན་ཀྱང་དེ %d ཡིན།"
+
+msgid "must contain 8 comma-separated numbers"
+msgstr "ངེས་པར་དུ་ཚེག་འབྲིང 8 ཀྱིས་བཅད་པའི་གྲངས་ཀ་འདུ་དགོས།"
+
+msgid "neither a valid connection nor device given"
+msgstr "འབྲེལ་མཐུད་ནུས་མེད་དམ་ཡང་ན་སྒྲིག་ཆས་སྤྲད་ཐག་བཅད་མེད།"
+
+msgid "never"
+msgstr "བརྟན་ནས།"
+
+msgid "new hostname"
+msgstr "གཙོ་འཁོར་མིང་གསར་པ།"
+
+msgid ""
+"nm-iface-helper is a small, standalone process that manages a single network"
+" interface."
+msgstr ""
+"nm-iface-helper ནི་ཆུང་ཞིང་ཁེར་རྐྱང་གི་འཕེལ་རིམ་ཞིག་ཡིན། "
+"ཁེར་རྐྱང་གི་དྲ་རྒྱ་མཐུད་ཁ་དོ་དམ་བྱེད་པར་ཤྤྱོད་ཡིན།"
+
+msgid ""
+"nmcli can accepts both direct JSON configuration data and a file name containing the configuration. In the latter case the file is read and the contents is put into this property.\n"
+"\n"
+"Examples: set team.config { \"device\": \"team0\", \"runner\": {\"name\": \"roundrobin\"}, \"ports\": {\"eth1\": {}, \"eth2\": {}} }\n"
+"          set team.config /etc/my-team.conf\n"
+msgstr ""
+
+msgid "nmcli successfully registered as a NetworkManager's secret agent.\n"
+msgstr ""
+
+msgid "nmcli successfully registered as a polkit agent.\n"
+msgstr ""
+
+msgid "nmcli tool, version %s\n"
+msgstr ""
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "no active connection on device '%s'"
+msgstr "སྒྲིག་ཆས “%s” སྟེང་འཁྲུག་ཆ་དོད་པའི་འབྲེལ་མཐུད་མེད།"
+
+msgid "no active connection or device"
+msgstr "འཁྲུག་ཆ་དོད་པའི་འབྲེལ་མཐུད་དམ་ཡང་ན་སྒྲིག་ཆས་མེད།"
+
+msgid "no device found for connection '%s'"
+msgstr "འབྲེལ་མཐུད “%s” ལ་སྤྱོད་ཆོག་པའི་སྒྲིག་ཆས་རྙེད་མ་བྱུང་།"
+
+msgid "no item to remove"
+msgstr "བསུབ་དགོས་པའི་ཚན་པ་མེད།"
+
+msgid "no priority to remove"
+msgstr "སྔོན་རིམ་བསུབ་དགོས་པ་མེད།"
+
+msgid "no valid VPN secrets"
+msgstr "ནུས་ཡོད་ཀྱི VPN གསང་སྡོམ་མེད།"
+
+msgid "none"
+msgstr "མེད།"
+
+msgid "not a secret property"
+msgstr "གསང་བའི་གཏོགས་གཤིས་མེད།"
+
+msgid "not a valid interface name"
+msgstr "ནུས་ཡོད་ཀྱི་མཐུད་ཁའི་མིང་ཞིག་མིན།"
+
+msgid "not required, "
+msgstr "རེ་ཞུ་མི་བྱེད།"
+
+msgid "not saved, "
+msgstr "ཉར་ཚགས་བྱས་མེད།"
+
+msgid "off"
+msgstr "སྒོ་རྒྱག"
+
+msgid "on"
+msgstr "ཁ་འབྱེད་པ།"
+
+msgid "only one of '%s' and '%s' can be set"
+msgstr "“%s” དང་ཡང་ན “%s” ལས་གཅིག་ཁོ་ན་སྒྲིག་འགོད་བྱེད་ཆོག་པ།"
+
+msgid "portal"
+msgstr "portal"
+
+msgid "preparing"
+msgstr "གྲ་སྒྲིག་བྱེད་བཞིན་པ།"
+
+msgid ""
+"print [all]  :: print setting or connection values\n"
+"\n"
+"Shows current property or the whole connection.\n"
+"\n"
+"Example: nmcli ipv4> print all\n"
+msgstr ""
+
+msgid ""
+"print [property|setting|connection]  :: print property (setting, connection) value(s)\n"
+"\n"
+"Shows property value. Providing an argument you can also display values for the whole setting or connection.\n"
+msgstr ""
+
+msgid "priority '%s' is not valid (<0-%ld>)"
+msgstr "སྔོན་རིམ “%s” ནུས་མེད །(<0-%ld>)"
+
+msgid "private key password not provided"
+msgstr "སྒེར་ལྡེ་གསང་ཨང་མཁོ་འདོན་བྱས་མེད།"
+
+msgid "property invalid"
+msgstr "གཏོགས་གཤིས་ནུས་མེད།"
+
+msgid "property invalid (not enabled)"
+msgstr "གཏོགས་གཤིས་ནུས་མེད།(སྤྱོད་འགོ་བརྩམས་མེད།)"
+
+msgid "property is empty"
+msgstr "གཏོགས་གཤིས་སྟོང་པ་ཡིན།"
+
+msgid "property is invalid"
+msgstr "གཏོགས་གཤིས་ནུས་མེད།"
+
+msgid "property is missing"
+msgstr "གཏོགས་གཤིས་ཆད་པ།"
+
+msgid "property is not specified and neither is '%s:%s'"
+msgstr "གཏོགས་གཤིས་དམིགས་འཛུགས་བྱས་མེད་པ་མ་ཟད “%s:%s”ཡང་མིན།"
+
+msgid "property missing"
+msgstr "གཏོགས་གཤིས་ཆད་པ།"
+
+msgid "property type should be set to '%s'"
+msgstr "གཏོགས་གཤིས་རིགས་རྣམ “%s”ལ་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid "property value '%s' is empty or too long (>64)"
+msgstr "གཏོགས་གཤིས་ཐང་ “%s” སྟོང་པའམ་རིང་དྲགས། (>64)"
+
+msgid ""
+"quit  :: exit nmcli\n"
+"\n"
+"This command exits nmcli. When the connection being edited is not saved, the user is asked to confirm the action.\n"
+msgstr ""
+
+msgid ""
+"remove <setting>[.<prop>]  :: remove setting or reset property value\n"
+"\n"
+"This command removes an entire setting from the connection, or if a property\n"
+"is given, resets that property to the default value.\n"
+"\n"
+"Examples: nmcli> remove wifi-sec\n"
+"          nmcli> remove eth.mtu\n"
+msgstr ""
+
+msgid ""
+"remove [<value>|<index>|<option name>]  :: delete the value\n"
+"\n"
+"Removes the property value. For single-valued properties, this sets the\n"
+"property back to its default value. For container-type properties, this removes\n"
+"all the values of that property, or you can specify an argument to remove just\n"
+"a single item or option. The argument is either a value or index of the item to\n"
+"remove, or an option name (for properties with named options).\n"
+"\n"
+"Examples: nmcli ipv4.dns> remove 8.8.8.8\n"
+"          nmcli ipv4.dns> remove 2\n"
+"          nmcli bond.options> remove downdelay\n"
+"\n"
+msgstr ""
+
+msgid "requires '%s' or '%s' setting"
+msgstr " “%s” ཡང་ན “%s” སྒྲིག་འགོད་དགོས།"
+
+msgid "requires presence of '%s' setting in the connection"
+msgstr "འབྲེལ་མཐུད་ནང་དུ “%s” སྒྲིག་འགོད་ཡོད་དགོས།"
+
+msgid "requires setting '%s' property"
+msgstr "“%s” གཏོགས་གཤིས་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid "running"
+msgstr "འཁོར་སྐྱོད་བྱེད་བཞིན་པ།"
+
+msgid ""
+"save [persistent|temporary]  :: save the connection\n"
+"\n"
+"Sends the connection profile to NetworkManager that either will save it\n"
+"persistently, or will only keep it in memory. 'save' without an argument\n"
+"means 'save persistent'.\n"
+"Note that once you save the profile persistently those settings are saved\n"
+"across reboot or restart. Subsequent changes can also be temporary or\n"
+"persistent, but any temporary changes will not persist across reboot or\n"
+"restart. If you want to fully remove the persistent connection, the connection\n"
+"profile must be deleted.\n"
+msgstr ""
+
+msgid "seconds"
+msgstr "སྐར་ཆ།"
+
+msgid "secret flags property not found"
+msgstr "secret མཚོན་རྟགས་གཏོགས་གཤིས་རྙེད་མ་བྱུང་།"
+
+msgid "secret is not of correct type"
+msgstr "secret རིགས་རྣམ་ཡང་དག་མིན།"
+
+msgid "secret is not set"
+msgstr "secretསྒྲིག་འགོད་བྱས་མེད།"
+
+msgid "secret not found"
+msgstr "secret རྙེད་མ་བྱུང་།"
+
+msgid "secret value was empty"
+msgstr "secret ཐང་སྟོང་པ་ཡིན།"
+
+msgid "secret was empty"
+msgstr "secret སྟོང་པ་ཡིན།"
+
+msgid ""
+"set [<setting>.<prop> <value>]  :: set property value\n"
+"\n"
+"This command sets property value.\n"
+"\n"
+"Example: nmcli> set con.id My connection\n"
+msgstr ""
+
+msgid ""
+"set [<value>]  :: set new value\n"
+"\n"
+"This command sets provided <value> to this property\n"
+msgstr ""
+
+msgid "setting contained a secret with an empty name"
+msgstr "སྒྲིག་འགོད་ལ secret གཅིག་འདུས་མོད་འོན་ཀྱང་མིང་སྟོང་པ་ཡིན།"
+
+msgid "setting is required for non-slave connections"
+msgstr "ཕྱོགས་གཏོགས་འབྲེལ་མཐུད་མ་ཡིན་པའི་ནང་དུ་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid "setting not allowed in slave connection"
+msgstr "ཕྱོགས་གཏོགས་འབྲེལ་མཐུད་ནང་དུ་སྒྲིག་འགོད་བྱེད་མི་རུང་བ།"
+
+msgid "setting not found"
+msgstr "སྒྲིག་འགོད་རྙེད་མ་བྱུང་།"
+
+msgid "setting required for connection of type '%s'"
+msgstr "“%s”རིགས་རྣམ་གྱི་འབྲེལ་མཐུད་སྒྲིག་འགོད་བྱེད་དགོས།"
+
+msgid "setting this property requires non-zero '%s' property"
+msgstr ""
+"གཏོགས་གཤིས་འདི་སྒྲིག་འགོད་བྱེད་པར་ཀླད་ཀོར་མ་ཡིན་པའི  “%s” གཏོགས་གཤིས་དགོས།"
+
+msgid "slave-type '%s' requires a '%s' setting in the connection"
+msgstr "འབྲེལ་མཐུད་དུ་ཕྱོགས་གཏོགས་རིགས་རྣམ '%s' ལ '%s' སྒྲིག་འགོད་དགོས།"
+
+msgid "started"
+msgstr "འགོ་སློང་ཟིན་པ།"
+
+msgid "starting"
+msgstr "འགོ་སློང་བཞིན་པ།"
+
+msgid "sum not 100%"
+msgstr "བསྡོམས་འབོར 100% ཟིན་མེད།"
+
+msgid "team"
+msgstr "ཚོགས་པ།"
+
+msgid "team-slave"
+msgstr ""
+
+msgid "teamd control failed"
+msgstr "teamdཚོད་འཛིན་ཕམ་པ།"
+
+msgid "the VPN service did not start in time"
+msgstr "VPN འབྲེལ་མཐུད་དུས་ལྟར་འགོ་སློང་མེད།"
+
+msgid "the VPN service failed to start"
+msgstr "VPN ཞབས་ཞུ་འགོ་སློང་ཕམ་པ།"
+
+msgid "the VPN service returned invalid configuration"
+msgstr "VPN ཞབས་ཞུ་ནུས་མེད་སྡེབ་སྒྲིག་ལ་ཕྱིར་ལོག"
+
+msgid "the VPN service stopped unexpectedly"
+msgstr "VPNཞབས་ཞུ་བསམ་ཡུལ་ལས་འདས་པའི་མཚམས་བཞག"
+
+msgid "the base network connection was interrupted"
+msgstr "གཞི་ཚེག་དྲ་རྒྱ་འབྲེལ་མཐུད་བཅད་པ།"
+
+msgid "the connection attempt timed out"
+msgstr "འབྲེལ་མཐུད་ཚོད་ལྟ་དུས་བརྒལ་བ།"
+
+msgid "the connection was removed"
+msgstr "འབྲེལ་མཐུད་སུབ་པ།"
+
+msgid "the property can't be changed"
+msgstr "གཏོགས་གཤིས་ཐང་བསྒྱུར་མི་ཆོག"
+
+msgid "the property doesn't contain \"phase2\" alternative subject match '%s'"
+msgstr ""
+
+msgid "the property doesn't contain DNS search domain '%s'"
+msgstr "གཏོགས་གཤིས་འདིར DNS བཤེར་འཚོལ་ཁོངས “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain DNS server '%s'"
+msgstr "གཏོགས་གཤིས་འདིར DNS ཞབས་ཞུ་ཆས “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain EAP method '%s'"
+msgstr "གཏོགས་གཤིས་འདིར EAP བྱེད་ཐབས “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain IP address '%s'"
+msgstr "གཏོགས་གཤིས་འདིར IP ཤག་གནས “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain MAC address '%s'"
+msgstr "གཏོགས་གཤིས་འདིརMAC ཤག་གནས “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain UUID '%s'"
+msgstr "གཏོགས་གཤིས་འདིར UUID “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain alternative subject match '%s'"
+msgstr "གཏོགས་གཤིས་འདིར“%s” ཟླ་སྒྲིག་པའི་བརྗོད་བྱ་གཙོ་བོ་གཞན་འདུས་མེད།"
+
+msgid "the property doesn't contain mapping '%s'"
+msgstr "གཏོགས་གཤིས་འདིར་རྟེན་འཕྲོ “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain permission '%s'"
+msgstr "གཏོགས་གཤིས་འདིར་དབང་ཚད “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain protocol '%s'"
+msgstr "གཏོགས་གཤིས་འདིར་གྲོས་ཆིངས “%s”འདུས་མེད།"
+
+msgid "the property doesn't contain route '%s'"
+msgstr "གཏོགས་གཤིས་འདིར་ལམ་འཚོལ “%s”འདུས་མེད།"
+
+msgid ""
+"the second component of route ('%s') is neither a next hop address nor a "
+"metric"
+msgstr ""
+"ལམ་འཚོལ་གྱི་གྲུབ་ཆ་གཉིས་པ། (“%s”) "
+"ནི་ཤག་གནས་རྗེས་མར་གཅིག་མཆོང་པ་མིན་ལ་ཚད་འཇལ་ཐང་ཡང་མིན།"
+
+msgid "the user was disconnected"
+msgstr "སྤྱོད་མཁན་གྱིས་འབྲེལ་མཐུད་བཅད་ཟིན།"
+
+msgid "the value '%s' is not a valid UUID"
+msgstr "“%s” ཡི་གྲངས་ཐང་ནི་ནུས་ཡོད་ཀྱི UUIDམིན།"
+
+msgid "this property cannot be empty for '%s=%s'"
+msgstr "“%s=%s” ཡི་གཏོགས་གཤིས་འདི་སྟོང་པ་ཡིན་མི་ཆོག"
+
+msgid "this property is not allowed for '%s=%s'"
+msgstr "“%s=%s” གཏོགས་གཤིས་འདི་མི་རུང་།"
+
+msgid "too large FLAGS property '%s' (%llu)"
+msgstr "FLAGS གཏོགས་གཤིས '%s' (%llu) ཆེ་དྲགས།"
+
+msgid "unavailable"
+msgstr "སྤྱོད་མི་རུང་།"
+
+msgid "unexpected character '%c' for %s: '%s' (position %td)"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་རྟགས '%c' (%s): '%s' (གནས་ས %td)"
+
+msgid "unexpected character '%c' for address %s: '%s' (position %td)"
+msgstr "བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་རྟགས '%c'(ཤག་གནས %s): '%s' (གནས་ས %td)"
+
+msgid "unexpected character '%c' in prefix length for %s: '%s' (position %td)"
+msgstr ""
+"བསམ་ཡུལ་ལས་འདས་པའི་ཡིག་རྟགས '%c'( %s ཡི་སྔོན་འཇུག་རིང་ཚད་དུ་ཡོད།): "
+"'%s'(གནས་ས %td)"
+
+msgid "unhandled setting property type '%s'"
+msgstr "སྒྲིག་གཅོད་མ་བྱས་པའི་སྒྲིག་འགོདགཏོགས་གཤིས་རིགས་རྣམ '%s'"
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "unknown device '%s'."
+msgstr "ངེས་མེད་སྒྲིག་ཆས། '%s'"
+
+msgid "unknown reason"
+msgstr "ངེས་མེད་ཀྱི་རྒྱུ་རྐྱེན།"
+
+msgid "unknown setting name"
+msgstr "ངེས་མེད་ཀྱི་སྒྲིག་འགོད་མིང་།"
+
+msgid "unmanaged"
+msgstr "དོ་དམ་བྱས་མེད།"
+
+msgid "use 'goto <setting>' first, or 'describe <setting>.<property>'\n"
+msgstr ""
+
+msgid "use 'goto <setting>' first, or 'set <setting>.<property>'\n"
+msgstr ""
+
+msgid "value '%d' is out of range <%d-%d>"
+msgstr "ཐང་ '%d' ཁྱབ་ཁོངས་ལས་བརྒལ། <%d-%d>"
+
+msgid ""
+"verify [all | fix]  :: verify setting or connection validity\n"
+"\n"
+"Verifies whether the setting or connection is valid and can be saved later.\n"
+"It indicates invalid values on error. Some errors may be fixed automatically\n"
+"by 'fix' option.\n"
+"\n"
+"Examples: nmcli> verify\n"
+"          nmcli> verify fix\n"
+"          nmcli bond> verify\n"
+msgstr ""
+
+msgid "willing, "
+msgstr ""
+
+msgid "wrong type; should be a list of strings."
+msgstr "ནོར་འཁྲུལ་རིགས་རྣམ་ཡིག་རྟགས་འཕྲེང་རེའུ་མིག་ཅིག་ཡིནདགོས།"
+
+msgid "yes"
+msgstr "ཡིན།"

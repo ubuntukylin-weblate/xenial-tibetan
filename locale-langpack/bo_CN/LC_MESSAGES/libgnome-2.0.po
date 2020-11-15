@@ -1,0 +1,943 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+
+msgid ""
+"A list with names of the first window manager workspaces. This key has been "
+"deprecated since GNOME 2.12."
+msgstr ""
+
+msgid ""
+"Acceleration multiplier for mouse motion. A value of -1 is the system "
+"default."
+msgstr ""
+
+msgid "Allow postponing of breaks"
+msgstr "དུས་འགྱངས་མཚམས་ཆད་བྱེད་ཆོག"
+
+msgid "App ID"
+msgstr ""
+
+msgid "App version"
+msgstr ""
+
+msgid "Application options"
+msgstr ""
+
+msgid ""
+"Argument used to execute programs in the terminal defined by the 'exec' key."
+msgstr ""
+
+msgid "Basename of the default theme used by gtk+."
+msgstr "gtk+སྤྱད་པའི་བརྗོད་སྙིང་གི་རྨང་མིང་། "
+
+msgid "Beep when a modifier is pressed."
+msgstr "རྒྱན་མཐེབ་གནོན་སྐབས་་“སྦི”་སྒྲ་གྲགས་པ།"
+
+msgid "Bonobo Support"
+msgstr ""
+
+msgid "Bonobo activation Support"
+msgstr ""
+
+msgid "Break time"
+msgstr ""
+
+msgid "Browser needs terminal"
+msgstr "བཤར་ཆས་ལ་མཐའ་སྣེ་དགོས།"
+
+msgid "Browser understands remote"
+msgstr "བཤར་ཆས་ཀྱིས་རྒྱང་རིང་བཀའ་བརྡར་གོ་བ་ལོན་པ།"
+
+msgid "Buttons Have Icons"
+msgstr "མཐེབ་གནོན་ལ་རིས་རྟགས་ལྡན་པ།"
+
+msgid "Calendar needs terminal"
+msgstr "ལོ་རྩིས་ལ་མཐའ་སྣེ་དགོས།"
+
+msgid "Can Change Accels"
+msgstr "མྱུར་མཐེབ་བསྒྱུར་ཆོག"
+
+msgid "Cannot find a terminal, using xterm, even if it may not work"
+msgstr ""
+
+msgid "Choose menu item"
+msgstr ""
+
+msgid "Click on command button"
+msgstr ""
+
+msgid "Color Shading Type"
+msgstr "མདོག་རིམ་འགྱུར་རིགས་གྲས།"
+
+msgid "Configuration prefix where GNOME was installed"
+msgstr ""
+
+msgid "Configuration prefix where this application was installed"
+msgstr ""
+
+msgid "Could not create gnome accelerators directory `%s': %s\n"
+msgstr ""
+
+msgid "Could not create per-user gnome configuration directory `%s': %s\n"
+msgstr ""
+
+msgid ""
+"Could not set mode 0700 on private per-user gnome configuration directory "
+"`%s': %s\n"
+msgstr ""
+
+msgid "Could not stat private per-user gnome configuration directory `%s': %s\n"
+msgstr ""
+
+msgid "Create Directories"
+msgstr "དཀར་ཆག་བཟོ་བ།"
+
+msgid "Create standard GNOME directories on startup"
+msgstr ""
+
+msgid "Cursor Blink"
+msgstr "འོད་རྟགས་འཚེར་བ།"
+
+msgid "Cursor Blink Time"
+msgstr "འོད་རྟགས་འཕྲོ་བའི་དུས་ཚོད།"
+
+msgid "Cursor font"
+msgstr "འོད་རྟགས་ཡིག་གཟུགས།"
+
+msgid "Cursor size"
+msgstr "འོད་རྟགས་ཀྱི་ཆེ་ཆུང་།"
+
+msgid "Cursor theme"
+msgstr "འོད་རྟགས་ཀྱི་བརྗོད་གཞི།"
+
+msgid ""
+"Cursor theme name. Used only by Xservers that support Xcursor, such as "
+"XFree86 4.3 and later."
+msgstr ""
+
+msgid "Data prefix where GNOME was installed"
+msgstr ""
+
+msgid "Data prefix where this application was installed"
+msgstr ""
+
+msgid "Default Background"
+msgstr ""
+
+msgid "Default browser"
+msgstr "སོར་བཞག་བཤར་ཆས།"
+
+msgid "Default browser for all URLs."
+msgstr "URLཡོངས་ཀྱི་སོར་བཞག་བཤར་ཆས།"
+
+msgid "Default calendar"
+msgstr "སོར་བཞག་ལོ་ཐོ།"
+
+msgid "Default calendar application"
+msgstr ""
+
+msgid "Default font"
+msgstr "སོར་བཞག་ཡིག་གཟུགས།"
+
+msgid "Default mixer device"
+msgstr "སོར་བཞག་སྒྲ་བསྲེས་སྒྲིག་ཆས།"
+
+msgid "Default mixer tracks"
+msgstr "སོར་བཞག་སྒྲ་བསྲེས་སྒྲིག་ཆས་ཀྱི་སྒྲ་ལམ།"
+
+msgid "Default tasks"
+msgstr "སོར་བཞག་ལས་འགན།"
+
+msgid "Default tasks application"
+msgstr "སོར་བཞག་ལས་འགན་ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid ""
+"Determines how the image set by wallpaper_filename is rendered. Possible "
+"values are \"none\", \"wallpaper\", \"centered\", \"scaled\", \"stretched\","
+" \"zoom\", \"spanned\"."
+msgstr ""
+
+msgid "Disable URL and MIME type handlers"
+msgstr " URL དང་ MIME རིགས་ཀྱི་སྒྲིག་གཅོད་ཆས་སྤྱོད་མི་ཆོག"
+
+msgid "Disable all external thumbnailers"
+msgstr "ཕྱིའི་བསྡུས་རིས་བྱ་རིམ་ཡོད་ཚད་བཀོལ་མི་ཆོག།"
+
+msgid "Disable command line"
+msgstr "བཀའ་བརྡའི་ཕྲེང་སྤྱད་མི་ཆོག"
+
+msgid "Disable if two keys are pressed at the same time."
+msgstr ""
+
+msgid "Disable lock screen"
+msgstr "བརྙན་ཡོལ་དམིགས་འཛིན་སྤྱད་མི་ཆོག"
+
+msgid "Disable print setup"
+msgstr "པར་འདེབས་སྒྲིག་འགོད་སྤྱད་མི་ཆོག"
+
+msgid "Disable printing"
+msgstr "པར་འདེབས་སྤྱད་མི་ཆོག"
+
+msgid "Disable saving files to disk"
+msgstr "ཡིག་ཆ་སྡུད་སྡེར་ནང་ཉར་ཚགས་བྱེད་པ་སྤྱད་མི་ཆོག"
+
+msgid "Disable sound server usage"
+msgstr ""
+
+msgid "Disable user switching"
+msgstr "སྤྱོད་མཁན་བརྗེ་བ་སྤྱད་མི་ཆོག"
+
+msgid "Distance before a drag is started."
+msgstr ""
+
+msgid ""
+"Distance in pixels the pointer must move before accelerated mouse motion is "
+"activated. A value of -1 is the system default."
+msgstr ""
+"ཙིག་རྟགས་འགུལ་སྐྱོད་མགྱོགས་སུ་མ་བཏང་གོང་ཙིག་རྟགས་ངེས་པར་དུ་སྒུལ་བདེའི་བརྙན་རྒྱུའི་གྲངས་རྟགས་དགོས།"
+" རྒྱུད་ཁོངས་གི་སོར་བཞག་ཐང་ནི་-1ཡིན།"
+
+msgid ""
+"Do not accept a key as being pressed unless held for @delay milliseconds."
+msgstr ""
+
+msgid "Document font"
+msgstr "ཡིག་ཚགས་ཡིག་གཟུགས།"
+
+msgid "Double Click Time"
+msgstr "ཉིས་རྡེབ་དུས་ཚོད།"
+
+msgid "Drag Threshold"
+msgstr "འདྲུད་སྒུལ་མཚམས་ཐང་།"
+
+msgid "Draw Desktop Background"
+msgstr "ཅོག་ངོས་ཀྱི་རྒྱབ་ལྗོངས་འབྲི་བ།"
+
+msgid "Dynamic modules to load"
+msgstr ""
+
+msgid "Enable Accessibility"
+msgstr ""
+
+msgid "Enable Animations"
+msgstr "འགུལ་རིས་འགོ་སློང་།"
+
+msgid "Enable ESD"
+msgstr ""
+
+msgid "Enable Sound"
+msgstr ""
+
+msgid "Enable sound on startup"
+msgstr ""
+
+msgid "Enable sound server startup."
+msgstr "འགོ་སློང་སྐབས་སྐད་སྒྲའི་ཞབས་ཞུ་ཆས་སྤྱོད་འགོ་རྩོམ་པ།"
+
+msgid "Enable sound server usage"
+msgstr ""
+
+msgid "Error message"
+msgstr " ནོར་འཁྲུལ་བརྡ་འཕྲིན།"
+
+msgid "Error showing url: %s\n"
+msgstr ""
+
+msgid "Espeaker"
+msgstr ""
+
+msgid "Exec Arguments"
+msgstr "Execཞུགས་གྲངས།"
+
+msgid "Extra Moniker factory"
+msgstr ""
+
+msgid "Fallback window manager (deprecated)"
+msgstr ""
+
+msgid ""
+"Fallback window manager if user window manager can't be found. This key has "
+"been deprecated since GNOME 2.12."
+msgstr ""
+
+msgid "File Icon Theme"
+msgstr "ཡིག་ཆའི་རིས་རྟགས་བརྗོད་སྙིང།"
+
+msgid "File name of the bell sound to be played."
+msgstr "གཏོང་བྱའི་དྲིལ་སྒྲའི་ཡིག་ཆའི་མིང་།"
+
+msgid "File to use for the background image."
+msgstr "རྒྱབ་ལྗོངས་པར་རིས་ལ་སྤྱད་པའི་ཡིག་ཆ།"
+
+msgid ""
+"Font name of the cursor. If unset, the default font is used. This value is "
+"only propagated to the X server start of each session, so changing it mid-"
+"session won't have an effect until the next time you log in."
+msgstr ""
+
+msgid "GConf moniker"
+msgstr ""
+
+msgid "GNOME App Datadir"
+msgstr ""
+
+msgid "GNOME App Libdir"
+msgstr ""
+
+msgid "GNOME App Prefix"
+msgstr ""
+
+msgid "GNOME App Sysconfdir"
+msgstr ""
+
+msgid "GNOME Datadir"
+msgstr ""
+
+msgid "GNOME GConf Support"
+msgstr ""
+
+msgid "GNOME Libdir"
+msgstr ""
+
+msgid "GNOME Library"
+msgstr ""
+
+msgid "GNOME Prefix"
+msgstr ""
+
+msgid "GNOME Sysconfdir"
+msgstr ""
+
+msgid "GNOME Virtual Filesystem"
+msgstr ""
+
+msgid "GNOME path"
+msgstr ""
+
+msgid ""
+"GNOME to start preferred Mobility assistive technology application during "
+"login."
+msgstr ""
+
+msgid ""
+"GNOME to start preferred Visual assistive technology application during "
+"login."
+msgstr ""
+
+msgid "GOption Context"
+msgstr ""
+
+msgid "GTK IM Module"
+msgstr "GTKའཇུག་ཐབས་དཔེ་དུམ།"
+
+msgid "GTK IM Preedit Style"
+msgstr "GTKའཇུག་ཐབས་ཀྱི་སྔོན་བསྒྲིགས་རྣམ་པ།"
+
+msgid "GTK IM Status Style"
+msgstr "GTKའཇུག་ཐབས་རྣམ་པའི་རྣམ་པ།"
+
+msgid "Gtk+ Theme"
+msgstr "Gtk+བརྗོད་སྙིང།"
+
+msgid "HOSTNAME:PORT"
+msgstr ""
+
+msgid "Have GNOME draw the desktop background."
+msgstr ""
+
+msgid "Help document %s/%s not found"
+msgstr ""
+
+msgid "Help options"
+msgstr "རོགས་རམ་འདེམས་ཚན།"
+
+msgid ""
+"Highlights the current location of the pointer when the Control key is "
+"pressed and released."
+msgstr ""
+"Comlམཐེབ་མནན་ཏེ་གློད་སྐབས།ཙིག་རྟགས་ཀྱི་སྟོན་ཁབ་ཀྱི་མིག་སྔའི་གནས་བབ་གསལ་པོར་མངོན་ཡོད།"
+
+msgid "Host:port on which the sound server to use is running"
+msgstr ""
+
+msgid "How long to accelerate in milliseconds"
+msgstr "ཧའོ་སྐར་ཆ་ག་ཚོད་ཀྱི་རྗེས་སུ་འགྲོས་སྣོན་བྱེད་འགོ་ཚུགས་པ།"
+
+msgid "How many milliseconds it takes to go from 0 to maximum speed."
+msgstr "ཧའོ་སྐར་ཆ་ཅི་ཙམ་བརྒྱུད་དེ་མྱུར་ཚད་མཐོ་ཤོས་སུ་སླེབས་པ། "
+
+msgid ""
+"How many milliseconds to wait before mouse movement keys start to operate."
+msgstr ""
+"ཧའོ་སྐར་ཆ་ཅི་ཙམ་སྒུག་རྗེས་ཙིག་རྟགས་སྒུལ་མཐེབ་ཀྱིས་ལས་ཀ་བྱེད་འགོ་ཚུགས་པ། "
+
+msgid "How many pixels per second to move at the maximum speed."
+msgstr "ཆེས་མགྱོགས་པའི་སྐབས་སུ་སྐར་ཆ་རེ་ལ་བརྙན་རྒྱུ་ག་ཚོད་རེ་སྤོ་བ། "
+
+msgid "How to connect to esd"
+msgstr ""
+
+msgid ""
+"How to shade the background color. Possible values are \"horizontal-"
+"gradient\", \"vertical-gradient\", and \"solid\"."
+msgstr ""
+
+msgid "Human readable name"
+msgstr ""
+
+msgid "Human readable name of this application"
+msgstr ""
+
+msgid "ID string to use for this application"
+msgstr ""
+
+msgid "Icon Theme"
+msgstr "རིས་རྟགས་བརྗོད་སྙིང།"
+
+msgid "Icon theme to use for the panel, nautilus etc."
+msgstr "ངོས་པང་དང་nautilusསོགས་ཀྱི་རིས་རྟགས་བརྗོད་གཞི། "
+
+msgid "Ignore multiple presses of the _same_ key within @delay milliseconds."
+msgstr ""
+
+msgid "Informational message"
+msgstr ""
+
+msgid "Initial delay in milliseconds"
+msgstr "ཐོག་མའི་ཕྱིར་འགྱངས།(ཧའོ་སྐར་ཆ།)"
+
+msgid "Input feedback sounds"
+msgstr "ཚུར་ལན་སྐད་འཇུག"
+
+msgid "Key %s not found in configuration"
+msgstr ""
+
+msgid "Keyboard Bell Custom Filename"
+msgstr "རང་གིས་མཚན་ཉིད་བཞག་པའི་མཐེབ་གཞོང་གི་སྒྲ་དང་ཡིག་ཆའི་མིང་།"
+
+msgid "Keyboard shortcut to open the menu bars."
+msgstr "འདེམས་བྱང་ཚན་བྱང་གི་མཐེབ་གཞོང་མྱུར་མཐེབ་ཕྱེ་བ།"
+
+msgid "Left or Top color when drawing gradients, or the solid color."
+msgstr ""
+"རིམ་འགྱུར་སྐབས་གཡོན་ངོས་སམ་གཡས་ངོས་ཀྱི་ཁ་དོག་འབྲི་བ། ཡང་ན་མདོག་གཙང་མ། "
+
+msgid "Length of a double click."
+msgstr ""
+
+msgid "Length of the cursor blink cycle, in milliseconds."
+msgstr "འོད་འཚེར་འོད་རྟགས་ཀྱི་འཁོར་ཡུན།སྡེ་ཚན་ནི་ཧའོ་སྐར་ཆ་ཡིན། "
+
+msgid "Library prefix where GNOME was installed"
+msgstr ""
+
+msgid "Library prefix where this application was installed"
+msgstr ""
+
+msgid ""
+"List of assistive technology applications to start when logging into the "
+"GNOME desktop."
+msgstr ""
+
+msgid "Locate Pointer"
+msgstr "གནས་ངེས་སྟོན་ཁབ།"
+
+msgid "Log in"
+msgstr "ཐོ་འགོད།"
+
+msgid "Log out"
+msgstr "ཐོ་ཁོངས་ནས་སུབ་པ།"
+
+msgid "MODULE1,MODULE2,..."
+msgstr ""
+
+msgid ""
+"Maximum age for thumbnails in the cache, in days. Set to -1 to disable "
+"cleaning."
+msgstr ""
+"འགྱངས་གསོག་ཁྲོད་ཀྱི་བསྡུས་རིས་ཉར་ཚགས་ཉིན་གྲངས་-1 "
+"ཏུ་སྒྲིག་ཏེ་དུས་བརྒལ་གཙང་སེལ་བཀག་སྡོམ་བྱེད་དགོས། "
+
+msgid ""
+"Maximum size of the thumbnail cache, in megabytes. Set to -1 to disable "
+"cleaning."
+msgstr ""
+"བསྡུས་རིས་ལྷོད་གསོག་གི་ཆེས་ཆེ་བའི་ཚད་གཞི། རྩིས་གཞི་ནི་ MBཡིན།-1 "
+"ཏུ་སྒྲིག་ཏེ་ཚད་རྒལ་གཙང་སེལ་བཀག་སྡོམ་བྱེད་དགོས། "
+
+msgid "Menubar Detachable"
+msgstr "འདེམས་བྱང་སྡེཁ་བྲལ་ཆོག་པ།"
+
+msgid "Menubar accelerator"
+msgstr "འདེམས་བྱང་སྡེ་མྱུར་མཐེབ།"
+
+msgid "Menus Have Icons"
+msgstr "འདེམས་བྱང་ལ་རིས་རྟགས་ལྡན་པ།"
+
+msgid "Menus Have Tearoff"
+msgstr "འདེམས་བྱང་ལ་དབྱེ་ཐིག་ལྡན་པ།"
+
+msgid "Minimum interval in milliseconds"
+msgstr "ཆེས་ཆུང་བར་ཐག(ཧའོ་སྐར་ཆ།)"
+
+msgid "Miscellaneous message"
+msgstr ""
+
+msgid "Module for GtkFileChooser"
+msgstr ""
+
+msgid ""
+"Module to use as the filesystem model for the GtkFileChooser widget. "
+"Possible values are \"gio\", \"gnome-vfs\" and \"gtk+\"."
+msgstr ""
+
+msgid "Monospace font"
+msgstr "ཞེང་མཚུངས་ཡིག་གཟུགས།"
+
+msgid "Motion Threshold"
+msgstr "ལུས་རྩལ་མཚམས་ཐང་།"
+
+msgid "Mouse button orientation"
+msgstr "ཙིག་རྟགས་མཐེབ་གནོན་ཁ་ཕྱོགས།"
+
+msgid ""
+"Name of a monospaced (fixed-width) font for use in locations like terminals."
+msgstr "མཐའ་སྣེར་བཀོལ་བའི་ཞེང་མཚུངས་ཡིག་གཟུགས་ཀྱི་མིང་། "
+
+msgid "Name of the GTK+ input method Preedit Style used by gtk+."
+msgstr "gtk+GTK+འཇུག་ཐབས་སྔོན་བཀོད་སྒྲིག་གཅོད་རྣམ་པའི་མིང་། "
+
+msgid "Name of the GTK+ input method Status Style used by gtk+."
+msgstr "gtk+GTK+འཇུག་ཐབས་རྣམ་པའི་མིང་། "
+
+msgid "Name of the default font used by gtk+."
+msgstr "gtk+བཀོལ་བའི་ཡིག་གཟུགས་ཀྱི་མིང་། "
+
+msgid "Name of the default font used for reading documents."
+msgstr "ཀློག་པར་བཀོལ་བའི་ཡིག་གཟུགས། "
+
+msgid "Name of the input method module used by GTK+."
+msgstr "GTK+ཡིས་སྤྱད་པའི་སོར་བཞག་འཇུག་ཐབས་དཔེ་དུམ་ཀྱི་མིང་། "
+
+msgid "Names of the workspaces (deprecated)"
+msgstr ""
+
+msgid "Number of minutes of typing time before break mode starts."
+msgstr "མཚམས་བཅད་རྣམ་པ་འགོ་མ་ཚུགས་གོང་གི་ཆེས་ཉུང་བའི་ཡི་གེ་གཏགས་པའི་དུས་ཚོད།"
+
+msgid "Number of minutes that the typing break should last."
+msgstr "ཡིག་གཏགས་མཚམས་བཅད་ཀྱིས་རྒྱུན་འཁྱོངས་འོས་པའི་སྐར་མའི་གྲངས།"
+
+msgid "Opacity with which to draw the background picture."
+msgstr "རྒྱབ་ལྗོངས་དཔེ་རིས་འབྲི་བར་བཀོལ་བའི་གསལ་ཚད། "
+
+msgid "Path in which to look for installed files"
+msgstr ""
+
+msgid "Picture Filename"
+msgstr "པར་རིས་ཡིག་ཆའི་མིང་།"
+
+msgid "Picture Opacity"
+msgstr "པར་རིས་ཀྱི་གསལ་ཚད།"
+
+msgid "Picture Options"
+msgstr "པར་རིས་འདེམས་བྱང་།"
+
+msgid "Pixels per seconds"
+msgstr "སྐར་ཆ་རེའི་བརྙན་རྒྱུའི་གྲངས།"
+
+msgid "Popt Context"
+msgstr ""
+
+msgid "Popt Flags"
+msgstr ""
+
+msgid "Popt Table"
+msgstr ""
+
+msgid "Preferred Mobility assistive technology application"
+msgstr ""
+
+msgid ""
+"Preferred Mobility assistive technology application to be used for login, "
+"menu, or command line."
+msgstr ""
+
+msgid "Preferred Visual assistive technology application"
+msgstr "སྔོན་འདེམས་ཀྱི་མཐོང་ཚོར་རམ་འདེགས་ལག་རྩལ་ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid ""
+"Preferred Visual assistive technology application be used for login, menu, "
+"or command line."
+msgstr ""
+
+msgid "Prefix where GNOME was installed"
+msgstr ""
+
+msgid "Prefix where this application was installed"
+msgstr ""
+
+msgid "Prevent running any URL or MIME type handler applications."
+msgstr ""
+"URLའམ་MIEརིགས་གང་རུང་གི་སྒྲིག་གཅོད་ཆས་ཀྱི་ཉེར་སྤྱོད་བྱ་རིམ་འཁོར་སྐྱོད་བཀག་འགོག"
+
+msgid ""
+"Prevent the user from accessing the terminal or specifying a command line to"
+" be executed. For example, this would disable access to the panel's \"Run "
+"Application\" dialog."
+msgstr ""
+
+msgid ""
+"Prevent the user from modifying print settings. For example, this would "
+"disable access to all applications' \"Print Setup\" dialogs."
+msgstr ""
+
+msgid ""
+"Prevent the user from printing. For example, this would disable access to "
+"all applications' \"Print\" dialogs."
+msgstr ""
+
+msgid ""
+"Prevent the user from saving files to disk. For example, this would disable "
+"access to all applications' \"Save as\" dialogs."
+msgstr ""
+
+msgid ""
+"Prevent the user from switching to another account while his session is "
+"active."
+msgstr ""
+"སྤྱོད་མཁན་གྱིས་རང་གི་གླེང་མོལའི་བྱ་འགུལ་ལ་ཞུགས་དུས་རྩིས་ཐོ་གཞན་ཞིག་ལ་བརྗེ་བར་བཀག་འགོག་བྱེད་པ།"
+" "
+
+msgid "Prevent the user to lock his screen."
+msgstr "སྤྱོད་མཁན་གྱིས་རང་ཉིད་ཀྱི་བརྙན་ཡོལ་དམིགས་འཛིན་ལ་བཀག་འགོག་བྱེད་པ། "
+
+msgid "Primary Color"
+msgstr "རྩ་བའི་ཁ་དོག"
+
+msgid "Question dialog"
+msgstr ""
+
+msgid "Remember NumLock state"
+msgstr ""
+
+msgid ""
+"Right or Bottom color when drawing gradients, not used for solid color."
+msgstr ""
+"རིམ་འགྱུར་སྐབས་ཀྱི་གཡས་སམ་འོག་གི་ཁ་དོག་འབྲི་བ།ཁ་དོག་ལྷད་མེད་འབྲི་དུས་བཀོལ་སྤྱོད་མི་བྱེད།"
+" "
+
+msgid "Secondary Color"
+msgstr "ཕལ་མདོག"
+
+msgid "Select check box"
+msgstr ""
+
+msgid ""
+"Set to true to disable all external thumbnailer programs, independent on "
+"whether they are independently disabled/enabled."
+msgstr ""
+"true ལ་སྒྲིག་ནས་ཕྱི་རོལ་གྱི་བསྡུས་བྱ་རིམ་ཡོད་ཚད་སྤྱོད་མི་ཆོག་པར་བྱས་ཡོད་དེ། "
+"དེ་དག་ཁེར་རྐྱང་དུ་སྤྱོད་ཆོག་མིན་ལ་མི་ལྟ་བརསྤྱོད་འགོག་/འགོ་རྩོམ།"
+
+msgid "Show GNOME options"
+msgstr ""
+
+msgid "Show the 'Input Methods' menu"
+msgstr "འཇུག་ཐབས་འདེམས་བྱང་འཆར་བ།"
+
+msgid "Show the 'Unicode Control Character' menu"
+msgstr "UnicoIIཚོད་འཛིན་ཡིག་རྟགས་ཀྱི་འདེམས་བྱང་མངོན་པ།"
+
+msgid "Single Click"
+msgstr "ཆིག་རྡེབ།"
+
+msgid "Single click to open icons."
+msgstr ""
+
+msgid "Size of icons in toolbars, either \"small-toolbar\" or \"large-toolbar\"."
+msgstr ""
+
+msgid "Size of the cursor referenced by cursor_theme."
+msgstr "cursor-themeཡིས་འདྲེན་སྤྱོད་བྱས་པའི་འོད་རྟགས་ཀྱི་ཆེ་ཆུང་།"
+
+msgid "Sound theme name"
+msgstr "སྐད་ཀྱི་བརྗོད་གཞིའི་མིང་།"
+
+msgid "Sounds for events"
+msgstr "དོན་རྐྱེན་གྱི་སྒྲ།"
+
+msgid "Start preferred Mobility assistive technology application"
+msgstr ""
+"སྤྱོད་འགོ་ཚུགས་པའི་སྔོན་འདེམས་འགུལ་སྐྱོད་རམ་འདེགས་ལག་རྩལ་ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid "Start preferred Visual assistive technology application"
+msgstr ""
+"སྤྱོད་འགོ་ཚུགས་པའི་སྔོན་འདེམས་མཐོང་ཚོར་རམ་འདེགས་ལག་རྩལ་ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid "Startup Assistive Technology Applications"
+msgstr "འགོ་འཛུགས་རམ་འདེགས་ལག་རྩལ་ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid "Status Bar on Right"
+msgstr ""
+
+msgid "Swap left and right mouse buttons for left-handed mice."
+msgstr "གཡོན་ལག་པར་གོམས་ཕྱིར་ཙིག་རྟགས་ཀྱི་གཡས་གཡོན་མཐེབ་བརྗེ་བ། "
+
+msgid "System events"
+msgstr ""
+
+msgid "Tasks needs terminal"
+msgstr "ལས་འགན་ལ་མཐའ་སྣེ་དགོས།"
+
+msgid "Terminal application"
+msgstr "མཐའ་སྣེའི་ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid "Terminal program to use when starting applications that require one."
+msgstr "མཐའ་སྣེའི་བཀོལ་སྤྱོད་བྱ་རིམ་དགོས་དུས་བཀོལ་བའི་མཐའ་སྣེའི་བྱ་རིམ།"
+
+msgid "The XDG sound theme to use for event sounds."
+msgstr "དོན་རྐྱེན་སྐད་ལ་སྤྱོད་པའི་XDGསྐད་ཀྱི་བརྗོད་གཞི། "
+
+msgid "The default action does not support this protocol."
+msgstr ""
+
+msgid "The default mixer device used by the multimedia key bindings."
+msgstr ""
+"སྨྱན་མང་མཐེབ་གནོན་སྦྲེལ་བར་སྤྱོད་པའི་སོར་བཞག་སྒྲ་འདྲེས་ཆས་ཀྱི་སྒྲིག་ཆས།"
+
+msgid "The default mixer tracks used by the multimedia key bindings."
+msgstr "སྨྱན་མང་མཐེབ་གནོན་སྦྲེལ་བར་སྤྱོད་པའི་སོར་བཞག་སྒྲ་འདྲེས་ཆས་ཀྱི་སྒྲ་ལམ།"
+
+msgid "The flags to use for popt"
+msgstr ""
+
+msgid "The goption context pointer that GnomeProgram is using"
+msgstr ""
+
+msgid "The host \"%s\" could not be found."
+msgstr ""
+
+msgid "The host could not be found."
+msgstr ""
+
+msgid "The location or file could not be found."
+msgstr ""
+
+msgid "The login has failed."
+msgstr ""
+
+msgid "The number of workspaces (deprecated)"
+msgstr ""
+
+msgid ""
+"The number of workspaces the window manager should use This key has been "
+"deprecated since GNOME 2.12."
+msgstr ""
+
+msgid "The popt context pointer that GnomeProgram is using"
+msgstr ""
+
+msgid "The request was cancelled."
+msgstr ""
+
+msgid "The specified location is invalid."
+msgstr ""
+
+msgid "The table of options for popt"
+msgstr ""
+
+msgid "Theme used for displaying file icons."
+msgstr "ཡིག་ཆའི་རིས་རྟགས་འཆར་བར་སྤྱོད་པའི་བརྗོད་གཞི།"
+
+msgid "There is no default action associated with this location."
+msgstr ""
+
+msgid ""
+"There was an error launching the default action command associated with this"
+" location."
+msgstr ""
+
+msgid ""
+"There was an error parsing the default action command associated with this "
+"location."
+msgstr ""
+
+msgid "Toolbar Detachable"
+msgstr "ལག་ཆའི་སྡེ་དབྲལ་ཆོག་པ།"
+
+msgid "Toolbar Icon Size"
+msgstr "ལག་ཆའི་སྡེ་གྱི་མཐེབ་གནོན་ཆེ་ཆུང་།"
+
+msgid "Toolbar Style"
+msgstr "ལག་ཆའི་སྡེ་གྱི་རྣམ་པ།"
+
+msgid "Toolbar Style. Valid values are \"both\", \"both-horiz\", \"icons\", and \"text\"."
+msgstr ""
+
+msgid "Type time"
+msgstr "ཡིག་གཏགས་དུས་ཚོད།"
+
+msgid "Unable to find doc_id %s in the help path"
+msgstr ""
+
+msgid "Unable to find help paths %s or %s. Please check your installation"
+msgstr ""
+
+msgid "Unable to find the GNOME_FILE_DOMAIN_APP_HELP domain"
+msgstr ""
+
+msgid "Unable to find the GNOME_FILE_DOMAIN_HELP domain."
+msgstr ""
+
+msgid ""
+"Unable to find the help files in either %s or %s.  Please check your "
+"installation"
+msgstr ""
+
+msgid ""
+"Unable to show help as %s is not a directory.  Please check your "
+"installation."
+msgstr ""
+
+msgid "Unknown internal error while displaying this location."
+msgstr ""
+
+msgid "Unknown type"
+msgstr "མི་ཤེས་པའི་རིགས་གྲས།"
+
+msgid "Use Custom Font"
+msgstr "མཚན་ཉིད་རང་འཇོག་ཡིག་གཟུགས་བཀོལ་བ།"
+
+msgid "User interface events"
+msgstr ""
+
+msgid "User window manager (deprecated)"
+msgstr ""
+
+msgid "Version of this application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འདི་ཡི་པར་གཞི།"
+
+msgid "Warning message"
+msgstr ""
+
+msgid ""
+"When set to true, GNOME will remember the state of the NumLock LED between "
+"sessions."
+msgstr ""
+
+msgid "Whether Applications should have accessibility support."
+msgstr ""
+
+msgid ""
+"Whether animations should be displayed. Note: This is a global key, it "
+"changes the behaviour of the window manager, the panel etc."
+msgstr ""
+"འགུལ་རིས་འཆར་རམ། "
+"མཆན།འདི་ནི་ཁྱོན་ཡོངས་ཀྱི་མཐེབ་གནོན་ཞིག་ཡིན་ཞིང་།དེས་སྒེའུ་ཁུང་དོ་དམ་ཆས་དང་ངོས་པང་སོགས་ཀྱི་བྱ་སྤྱོད་བསྒྱུར་སྲིད།"
+" "
+
+msgid "Whether buttons may display an icon in addition to the button text."
+msgstr "མཐེབ་གནོན་ཡིག་ཆའི་འགྲམ་ནས་རིས་རྟགས་མངོན་ཐུབ་བམ། "
+
+msgid "Whether menus may display an icon next to a menu entry."
+msgstr "འདེམས་བྱང་ཚན་པའི་འགྲམ་དུ་རིས་རྟགས་མངོན་ཐུབ་བམ། "
+
+msgid "Whether menus should have a tearoff."
+msgstr "འདེམས་བྱང་ལས་དབྱེ་མཚམས་མངོན་མིན། "
+
+msgid "Whether or not keyboard locking is enabled"
+msgstr ""
+
+msgid "Whether or not keyboard locking is enabled."
+msgstr "མཐེབ་གཞོང་གིས་དམིགས་འཛུགས་བྱེད་ཆོག་གམ།"
+
+msgid "Whether or not the typing break screen can be postponed."
+msgstr "ཡིག་གཏགས་ནར་འགྱང་བྱས་ན་འགྲིག་གམ།"
+
+msgid ""
+"Whether the context menus of entries and text views should offer to change "
+"the input method."
+msgstr ""
+"ནང་འཇུག་ཚོད་འཛིན་དང་ཡིག་དེབ་མཐོང་རིས་ཁྲོད་ཀྱི་ཁོར་ཡུག་འདེམས་བྱང་གིས་འཇུག་ཐབས་བཟོ་བཅོས་བྱེད་པའི་འདེམ་བྱང་འདོན་སྤྲོད་བྱེད་མིན།"
+" "
+
+msgid ""
+"Whether the context menus of entries and text views should offer to insert "
+"control characters."
+msgstr ""
+"ནང་འཇུག་ཚོད་འཛིན་དང་ཡིག་དེབ་མཐོང་རིས་ཁྲོད་ཀྱི་ཁོར་ཡུག་འདེམས་བྱང་གིས་ཚོད་འཛིན་ཡིག་རྟགས་ཀྱི་འདེམ་བྱང་འདོན་སྤྲོད་བྱེད་མིན་།"
+" "
+
+msgid "Whether the cursor should blink."
+msgstr "འོད་རྟགས་འོད་འཚེར་མིན། "
+
+msgid "Whether the default browser needs a terminal to run."
+msgstr ""
+
+msgid "Whether the default browser understands netscape remote."
+msgstr ""
+"སོར་བཞག་བཤར་ཆས་ཀྱིས་netscapeརྒྱང་རིང་ཚོད་འཛིན་གྱི་བཀའ་བརྡ་ལ་རྒྱུས་ལོན་ཐུབ་མིན།"
+
+msgid "Whether the default calendar application needs a terminal to run"
+msgstr ""
+"སོར་བཞག་གི་ལོ་ཐོའི་ཉེར་སྤྱོད་བྱ་རིམ་དེ་མཐའ་སྣེས་འཁོར་སྐྱོད་བྱེད་དགོས་མིན།"
+
+msgid "Whether the default tasks application needs a terminal to run"
+msgstr ""
+"སོར་བཞག་ལས་འགན་གྱི་ཉེར་སྤྱོད་བྱ་རིམ་དེ་མཐའ་སྣེས་འཁོར་སྐྱོད་བྱེད་དགོས་མིན།"
+
+msgid "Whether the user can detach menubars and move them around."
+msgstr "སྤྱོད་མཁན་གྱིས་འདེམས་བྱང་སྡེ་ཁ་བྲལ་བའམ་གང་སར་སྤོ་ཆོག་མིན། "
+
+msgid "Whether the user can detach toolbars and move them around."
+msgstr "བེད་སྤྱོད་མཁན་གྱིས་ལག་ཆ་སྡེ་ཁ་བྲལ་ནས་གང་སར་སྤོས་ན་ཆོག་གམ། "
+
+msgid ""
+"Whether the user can dynamically type a new accelerator when positioned over"
+" an active menuitem."
+msgstr ""
+"སྤྱོད་མཁན་གྱིས་བྱ་འགུལ་གྱི་འདེམས་བྱང་ཚན་པ་གནས་ངེས་བྱུང་རྗེས་འགུལ་རྣམ་གྱིས་མྱུར་མཐེབ་གསར་བ་ནང་འཇུག་བྱེད་ཆོག་མིན།"
+" "
+
+msgid "Whether to display a status bar meter on the right."
+msgstr "གཡས་ཕྱོགས་སུ་རྣམ་པའི་སྡེའི་སྣེ་སྟོན་འཆར་མིན།"
+
+msgid "Whether to play sounds on input events."
+msgstr "ནང་འཇུག་གི་དོན་རྐྱེན་ཁྲོད་དུ་སྐད་གཏོང་ངམ། "
+
+msgid "Whether to play sounds on user events."
+msgstr "བེད་སྤྱོད་མཁན་གྱི་དོན་རྐྱེན་ཁྲོད་དུ་སྒྲ་གཏོང་ཐུབ་མིན། "
+
+msgid "Whether to use a custom font in gtk+ applications."
+msgstr "gtk+བྱ་རིམ་ཁྲོད་དུ་མཚན་ཉིད་རང་འཇོག་ཡིག་གཟུགས་བཀོལ་མིན།"
+
+msgid ""
+"Window manager to try first. This key has been deprecated since GNOME 2.12."
+msgstr ""
+
+msgid "config indirect moniker"
+msgstr ""
+
+msgid "minimum interval in milliseconds"
+msgstr ""
+
+msgid "possible values are \"on\", \"off\", and \"custom\"."
+msgstr ""

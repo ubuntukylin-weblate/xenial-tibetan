@@ -1,0 +1,4727 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+" Tasks are groups of packages which provide an easy way to select a predefined set of packages for a particular purpose."
+msgstr ""
+
+msgid ""
+"\n"
+" These packages have not yet been classified in debtags, or the debtags database is not present (installing debtags may correct this problem)."
+msgstr ""
+
+msgid ""
+"\n"
+"Current library versions:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Dependency information will be shown.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Dependency information will not be shown.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Size changes will be shown.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Size changes will not be shown.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Versions will be shown.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Versions will not be shown.\n"
+"\n"
+msgstr ""
+
+msgid "                  This aptitude does not have Super Cow Powers.\n"
+msgstr ""
+
+msgid "       aptitude [options] <action> ..."
+msgstr ""
+
+msgid "    %s in %d %s"
+msgstr ""
+
+msgid "    ++   --> ENQUEUING\n"
+msgstr ""
+
+msgid "    ++   --> ENQUEUING %s Provides %s\n"
+msgstr ""
+
+msgid "    ++   --> skipping conflict\n"
+msgstr ""
+
+msgid "    ++   --> skipping, not a conflict\n"
+msgstr ""
+
+msgid "    ++   --> skipping, not relevant according to params\n"
+msgstr ""
+
+msgid "    ++   --> skipping, parent is not the selected version\n"
+msgstr ""
+
+msgid "    ++   --> skipping, the dep is satisfied by the current version\n"
+msgstr ""
+
+msgid "    ++   --> skipping, version check failed\n"
+msgstr ""
+
+msgid "    ++ Examining %F\n"
+msgstr ""
+
+msgid "  %S*%N %s [version %s]%n"
+msgstr ""
+
+msgid ""
+"  Actions (if none is specified, aptitude will enter interactive mode):\n"
+"\n"
+msgstr ""
+
+msgid "  Apt version: %s\n"
+msgstr ""
+
+msgid "  Gtk+ support disabled.\n"
+msgstr ""
+
+msgid "  Gtk+ version %d.%d.%d\n"
+msgstr ""
+
+msgid "  Gtk-- version %d.%d.%d\n"
+msgstr ""
+
+msgid "  NCurses version %s\n"
+msgstr ""
+
+msgid "  NCurses version: %s\n"
+msgstr ""
+
+msgid "  NCurses version: Unknown\n"
+msgstr ""
+
+msgid "  Options:\n"
+msgstr ""
+
+msgid "  Qt support disabled.\n"
+msgstr ""
+
+msgid "  apt version %d.%d.%d\n"
+msgstr ""
+
+msgid "  cwidget version: %s\n"
+msgstr ""
+
+msgid "  libsigc++ version: %s\n"
+msgstr ""
+
+msgid " (provided by %F)"
+msgstr ""
+
+msgid " --gui          Use the GTK GUI even if disabled in the configuration.\n"
+msgstr ""
+
+msgid " --no-gui       Do not use the GTK GUI even if available.\n"
+msgstr ""
+
+msgid ""
+" --no-qt        Do not use the Qt GUI even if enabled in the "
+"configuration.\n"
+msgstr ""
+
+msgid " --qt           Use the Qt GUI.\n"
+msgstr ""
+
+msgid ""
+" -D             Show the dependencies of automatically changed packages.\n"
+msgstr ""
+
+msgid ""
+" -F format      Specify a format for displaying search results; see the "
+"manual.\n"
+msgstr ""
+
+msgid ""
+" -O order       Specify how search results should be sorted; see the "
+"manual.\n"
+msgstr ""
+
+msgid " -S fname       Read the aptitude extended status info from fname.\n"
+msgstr ""
+
+msgid " -V             Show which versions of packages are to be installed.\n"
+msgstr ""
+
+msgid " -Z             Show the change in installed size of each package.\n"
+msgstr ""
+
+msgid ""
+" -d             Only download packages, do not install or remove anything.\n"
+msgstr ""
+
+msgid " -f             Aggressively try to fix broken packages.\n"
+msgstr ""
+
+msgid " -h             This help text.\n"
+msgstr ""
+
+msgid " -i             Perform an install run on startup.\n"
+msgstr ""
+
+msgid " -o key=val     Directly set the configuration option named 'key'.\n"
+msgstr ""
+
+msgid ""
+" -q             In command-line mode, suppress the incremental progress\n"
+"                indicators.\n"
+msgstr ""
+
+msgid " -s             Simulate actions, but do not actually perform them.\n"
+msgstr ""
+
+msgid ""
+" -t [release]   Set the release from which packages should be installed.\n"
+msgstr ""
+
+msgid " -u             Download new package lists on startup.\n"
+msgstr ""
+
+msgid ""
+" -v             Display extra information. (may be supplied multiple "
+"times).\n"
+msgstr ""
+
+msgid ""
+" -w width       Specify the display width for formatting search results.\n"
+msgstr ""
+
+msgid ""
+" -y             Assume that the answer to simple yes/no questions is "
+"'yes'.\n"
+msgstr ""
+
+msgid " [ %i%% ]"
+msgstr ""
+
+msgid " [ %i%% ] (%sB/s, %s remaining)"
+msgstr ""
+
+msgid " [ %i%% ] (stalled)"
+msgstr ""
+
+msgid " [Working]"
+msgstr ""
+
+msgid " [held]"
+msgstr ""
+
+msgid " autoclean    - Erase old downloaded package files.\n"
+msgstr ""
+
+msgid " build-dep    - Install the build-dependencies of packages.\n"
+msgstr ""
+
+msgid " changelog    - View a package's changelog.\n"
+msgstr ""
+
+msgid " clean        - Erase downloaded package files.\n"
+msgstr ""
+
+msgid " download     - Download the .deb file for a package.\n"
+msgstr ""
+
+msgid ""
+" forbid-version - Forbid aptitude from upgrading to a specific package "
+"version.\n"
+msgstr ""
+
+msgid " forget-new   - Forget what packages are \"new\".\n"
+msgstr ""
+
+msgid ""
+" full-upgrade - Perform an upgrade, possibly installing and removing "
+"packages.\n"
+msgstr ""
+
+msgid " hold         - Place packages on hold.\n"
+msgstr ""
+
+msgid " install      - Install/upgrade packages.\n"
+msgstr ""
+
+msgid " markauto     - Mark packages as having been automatically installed.\n"
+msgstr ""
+
+msgid " or"
+msgstr ""
+
+msgid " or "
+msgstr " ཡང་ན། "
+
+msgid " purge        - Remove packages and their configuration files.\n"
+msgstr ""
+
+msgid ""
+" reinstall    - Download and (possibly) reinstall a currently installed "
+"package.\n"
+msgstr ""
+
+msgid " remove       - Remove packages.\n"
+msgstr ""
+
+msgid " safe-upgrade - Perform a safe upgrade.\n"
+msgstr ""
+
+msgid " search       - Search for a package by name and/or expression.\n"
+msgstr ""
+
+msgid " show         - Display detailed information about a package.\n"
+msgstr ""
+
+msgid " unhold       - Cancel a hold command for a package.\n"
+msgstr ""
+
+msgid " unmarkauto   - Mark packages as having been manually installed.\n"
+msgstr ""
+
+msgid " update       - Download lists of new/upgradable packages.\n"
+msgstr ""
+
+msgid ""
+" why-not      - Show the manually installed packages that lead to a conflict\n"
+"                with the given package, or why one or more packages would\n"
+"                lead to a conflict with the given package if installed.\n"
+msgstr ""
+
+msgid ""
+"\"%s\" exists in the package database, but it is not a\n"
+"real package and no package provides it.\n"
+msgstr ""
+
+msgid "\"%s\" is a virtual package provided by:\n"
+msgstr ""
+
+msgid "#Broken"
+msgstr ""
+
+msgid "#Broken: %ld"
+msgstr ""
+
+msgid ""
+"%B%s%b cannot be upgraded now, but if it could be, it would still be held at"
+" version %B%s%b."
+msgstr ""
+
+msgid ""
+"%B%s%b could be upgraded to version %B%s%b, but it is being held at version "
+"%B%s%b."
+msgstr ""
+
+msgid "%B%s%b is currently installed."
+msgstr ""
+
+msgid "%B%s%b is not currently installed."
+msgstr ""
+
+msgid "%B%s%b is only partly installed; its installation will be completed."
+msgstr ""
+
+msgid ""
+"%B%s%b was installed automatically;  it is being removed because all of the "
+"packages which depend upon it are being removed:"
+msgstr ""
+
+msgid ""
+"%B%s%b will be automatically installed to satisfy the following "
+"dependencies:"
+msgstr ""
+
+msgid "%B%s%b will be automatically removed because of dependency errors:"
+msgstr ""
+
+msgid "%B%s%b will be downgraded."
+msgstr ""
+
+msgid "%B%s%b will be installed."
+msgstr ""
+
+msgid "%B%s%b will be re-installed."
+msgstr ""
+
+msgid "%B%s%b will be removed."
+msgstr ""
+
+msgid "%B%s%b will be upgraded from version %B%s%b to version %B%s%b."
+msgstr ""
+
+msgid "%B%s%b will not be upgraded to the forbidden version %B%s%b."
+msgstr ""
+
+msgid ""
+"%B%s%b will not be upgraded to version %B%s%b, to avoid breaking the "
+"following dependencies:"
+msgstr ""
+
+msgid "%BChoice:%b  "
+msgstr ""
+
+msgid "%BDefault:%b "
+msgstr ""
+
+msgid "%BDowngrade%b the following packages:%n"
+msgstr ""
+
+msgid "%BInstall%b the following packages:%n"
+msgstr ""
+
+msgid "%BKeep%b the following packages at their current version:%n"
+msgstr ""
+
+msgid "%BOption:%b  "
+msgstr ""
+
+msgid "%BRemove%b the following packages:%n"
+msgstr ""
+
+msgid "%BUpgrade%b the following packages:%n"
+msgstr ""
+
+msgid "%BValue:%b   "
+msgstr ""
+
+msgid ""
+"%BWARNING%b: untrusted versions of the following packages will be "
+"installed!%n%nUntrusted packages could %Bcompromise your system's "
+"security%b.  You should only proceed with the installation if you are "
+"certain that this is what you want to do.%n%n"
+msgstr ""
+
+msgid "%F%s %F %F"
+msgstr ""
+
+msgid ""
+"%F: This version of %s is from an %Buntrusted source%b!  Installing this "
+"package could allow a malicious individual to damage or take control of your"
+" system."
+msgstr ""
+
+msgid "%d available upgrade:"
+msgid_plural "%d available upgrades:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d downgrade"
+msgid_plural "%d downgrades"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d install"
+msgid_plural "%d installs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d keep"
+msgid_plural "%d keeps"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d package is broken"
+msgid_plural "%d packages are broken."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d package to install"
+msgid_plural "%d packages to install"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d package to remove"
+msgid_plural "%d packages to remove"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d removal"
+msgid_plural "%d removals"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d upgrade"
+msgid_plural "%d upgrades"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%i/%i mines  %d %s"
+msgstr ""
+
+msgid "%ls: Apply"
+msgstr ""
+
+msgid "%ls: Examine"
+msgstr ""
+
+msgid "%ls: Next"
+msgstr ""
+
+msgid "%ls: Previous"
+msgstr ""
+
+msgid "%lu downgraded, "
+msgstr ""
+
+msgid "%lu packages upgraded, %lu newly installed, "
+msgstr ""
+
+msgid "%lu reinstalled, "
+msgstr ""
+
+msgid "%lu to remove and %lu not upgraded.\n"
+msgstr ""
+
+msgid "%n%nSome files were not downloaded successfully."
+msgstr ""
+
+msgid "%s %s compiled at %s %s\n"
+msgstr ""
+
+msgid "%s breaks %s"
+msgstr ""
+
+msgid "%s changes"
+msgstr ""
+
+msgid "%s conflicts with %s"
+msgstr ""
+
+msgid "%s conflicts with %s [provided by %s %s]"
+msgstr ""
+
+msgid "%s depends upon %s"
+msgstr ""
+
+msgid "%s deps"
+msgstr ""
+
+msgid "%s downgrade"
+msgid_plural "%s downgrades"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s has no version named \"%s\""
+msgstr ""
+
+msgid "%s info"
+msgstr ""
+
+msgid "%s install"
+msgid_plural "%s installs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s is a virtual package provided by:\n"
+msgstr ""
+
+msgid "%s is already installed at the requested version (%s)\n"
+msgstr ""
+
+msgid ""
+"%s is an essential package!%n%nAre you sure you want to remove it?%nType "
+"'%s' if you are."
+msgstr ""
+
+msgid "%s is being installed automatically."
+msgstr ""
+
+msgid "%s is being installed manually."
+msgstr ""
+
+msgid "%s is not an official Debian package, cannot display its changelog."
+msgstr ""
+
+msgid "%s is not currently installed, so it will not be reinstalled.\n"
+msgstr ""
+
+msgid "%s is not currently installed, so it will not be upgraded.\n"
+msgstr ""
+
+msgid "%s is readable but not writable; unable to write configuration file."
+msgstr ""
+
+msgid "%s keep"
+msgid_plural "%s keeps"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s obsoletes %s"
+msgstr ""
+
+msgid "%s pre-depends upon %s"
+msgstr ""
+
+msgid "%s recommends %s"
+msgstr ""
+
+msgid "%s remove"
+msgid_plural "%s removes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s replaces %s"
+msgstr ""
+
+msgid "%s reverse deps"
+msgstr ""
+
+msgid "%s suggests %s"
+msgstr ""
+
+msgid "%s unresolved recommendation"
+msgid_plural "%s unresolved recommendations"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s upgrade"
+msgid_plural "%s upgrades"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s versions"
+msgstr ""
+
+msgid "%s was installed automatically."
+msgstr ""
+
+msgid "%s was installed manually."
+msgstr ""
+
+msgid "%s%s; will be downgraded [%s -> %s]"
+msgstr ""
+
+msgid "%s%s; will be installed"
+msgstr ""
+
+msgid "%s%s; will be installed automatically"
+msgstr ""
+
+msgid "%s%s; will be upgraded [%s -> %s]"
+msgstr ""
+
+msgid "%s: %lu/%lu, %sB/s"
+msgstr ""
+
+msgid "%s: %lu/%lu, stalled"
+msgstr ""
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "%s: %sB of %sB at %sB/s, %s remaining"
+msgstr ""
+
+msgid "%s: %sB of %sB, stalled"
+msgstr ""
+
+msgid "%s: %sB/s"
+msgstr ""
+
+msgid "%s: Unable to accept a connection: %s"
+msgstr ""
+
+msgid "%s: Unable to create a Unix-domain socket: %s"
+msgstr ""
+
+msgid ""
+"%s: this command requires at least one argument (the package to query).\n"
+msgstr ""
+
+msgid "%s: too few arguments; expected at least a tag name and a package.\n"
+msgstr ""
+
+msgid "%s; version %s will be installed"
+msgstr ""
+
+msgid "%s; version %s will be installed automatically"
+msgstr ""
+
+msgid "%s; will be purged"
+msgstr ""
+
+msgid "%s; will be purged because nothing depends on it"
+msgstr ""
+
+msgid "%s; will be removed"
+msgstr ""
+
+msgid "%s; will be removed because nothing depends on it"
+msgstr ""
+
+msgid "%sB of disk space will be freed\n"
+msgstr ""
+
+msgid "%sB of disk space will be used\n"
+msgstr ""
+
+msgid "&File"
+msgstr "ཡིག་ཆ། (&F)"
+
+msgid "&Help"
+msgstr "རོགས་རམ། (&H)"
+
+msgid "&Packages"
+msgstr ""
+
+msgid "'&BD' to install the build-dependencies of a package."
+msgstr ""
+
+msgid "'&M' to mark packages as automatically installed"
+msgstr ""
+
+msgid "'&m' to mark packages as manually installed"
+msgstr ""
+
+msgid "'+' to install packages"
+msgstr ""
+
+msgid ""
+"'+M' to install packages and immediately flag them as automatically "
+"installed"
+msgstr ""
+
+msgid "'-' to remove packages"
+msgstr ""
+
+msgid ""
+"':' to keep packages in their current state without placing them on hold"
+msgstr ""
+
+msgid "'=' to place packages on hold"
+msgstr ""
+
+msgid "'_' to purge packages"
+msgstr ""
+
+msgid "'a': the package was automatically installed or removed."
+msgstr ""
+
+msgid ""
+"'b': some of the package's dependencies are violated by the proposed "
+"changes."
+msgstr ""
+
+msgid "'p': the package will be purged in addition to being removed."
+msgstr ""
+
+msgid "'u': the package is being removed because it is unused."
+msgstr ""
+
+msgid "(more info...)"
+msgstr ""
+
+msgid ""
+"*** ERROR: search aborted by fatal exception.  You may continue\n"
+"           searching, but some solutions will be unreachable."
+msgstr ""
+
+msgid "*** No more solutions available ***"
+msgstr ""
+
+msgid ""
+"*** WARNING ***   Ignoring these trust violations because\n"
+"                  %s::CmdLine::Ignore-Trust-Violations is 'true'!\n"
+msgstr ""
+
+msgid ""
+"*** WARNING ***   Ignoring these trust violations because\n"
+"                  APT::Get::AllowUnauthenticated is 'true'!\n"
+msgstr ""
+
+msgid "--group-by|archive"
+msgstr ""
+
+msgid "--group-by|auto"
+msgstr ""
+
+msgid "--group-by|none"
+msgstr ""
+
+msgid "--group-by|package"
+msgstr ""
+
+msgid "--group-by|source-package"
+msgstr ""
+
+msgid "--group-by|source-version"
+msgstr ""
+
+msgid "--show-package-names|always"
+msgstr ""
+
+msgid "--show-package-names|auto"
+msgstr ""
+
+msgid "--show-package-names|never"
+msgstr ""
+
+msgid "-> Leave the dependency \"%s recommends %s\" unresolved."
+msgstr ""
+
+msgid "-o requires an argument of the form key=value, got %s\n"
+msgstr ""
+
+msgid ""
+"-u, -i, and --clean-on-startup may not be specified in command-line mode "
+"(eg, with 'install')"
+msgstr ""
+
+msgid "-u, -i, and --clean-on-startup may not be specified with a command"
+msgstr ""
+
+msgid "<N/A>"
+msgstr ""
+
+msgid "<NULL>"
+msgstr ""
+
+msgid "<aptitude: internal parse error: missing terminal apostrophe>"
+msgstr ""
+
+msgid "<aptitude: internal parse error: no apostrophe>"
+msgstr ""
+
+msgid "<b>Available Upgrades:</b>"
+msgstr ""
+
+msgid "<b>Cancel</b> the installation of %s"
+msgstr ""
+
+msgid "<b>Downgrade</b> %s to version %s"
+msgstr ""
+
+msgid "<b>End at these packages:</b>"
+msgstr ""
+
+msgid "<b>Install</b> %s %s"
+msgstr ""
+
+msgid "<b>Keep</b> %s at version %s"
+msgstr ""
+
+msgid "<b>Remove</b> %s"
+msgstr ""
+
+msgid "<b>Solutions</b>"
+msgstr ""
+
+msgid "<b>Start at these packages:</b>"
+msgstr ""
+
+msgid "<b>Status of selected action</b>"
+msgstr ""
+
+msgid "<b>Upgrade</b> %s to version %s"
+msgstr ""
+
+msgid "<b>View Mode</b>"
+msgstr ""
+
+msgid "<b>cancel</b> the installation of %s"
+msgstr ""
+
+msgid "<b>downgrade</b> %s to version %s"
+msgstr ""
+
+msgid "<b>install</b> %s %s"
+msgstr ""
+
+msgid "<b>keep</b> %s at version %s"
+msgstr ""
+
+msgid "<b>remove</b> %s"
+msgstr ""
+
+msgid "<b>upgrade</b> %s to version %s"
+msgstr ""
+
+msgid "<none>"
+msgstr "<མེད།>"
+
+msgid "<span size=\"xx-large\">Versions:</span>"
+msgstr ""
+
+msgid "????????"
+msgstr ""
+
+msgid "A package-list update or install run is already taking place."
+msgstr ""
+
+msgid "A terminal running dpkg will appear here."
+msgstr ""
+
+msgid "Abandoning all efforts to resolve these dependencies."
+msgstr ""
+
+msgid ""
+"Abandoning automatic dependency resolution and reverting to manual "
+"resolution."
+msgstr ""
+
+msgid "Abort"
+msgstr "དོར་བ།"
+
+msgid "Abort Installation"
+msgstr ""
+
+msgid "Abort instead of overriding the warning|No"
+msgstr ""
+
+msgid "Abort.\n"
+msgstr ""
+
+msgid "Accept this solution? [Y/n/q/?] "
+msgstr ""
+
+msgid "Accepted"
+msgstr "དང་ལེན།"
+
+msgid "Accessing index"
+msgstr ""
+
+msgid "Action"
+msgstr "འགུལ་སྟངས།"
+
+msgid "Action \"%s\""
+msgstr ""
+
+msgid "Actions"
+msgstr "འགུལ་སྟངས།"
+
+msgid "Adding user tag \"%s\" to the package \"%s\".\n"
+msgstr ""
+
+msgid ""
+"Adjustments will cause the current solution to be discarded and recalculated"
+" as necessary."
+msgstr ""
+
+msgid "Advance to the next item after changing the state of a package"
+msgstr ""
+
+msgid "After unpacking %sB will be freed.\n"
+msgstr ""
+
+msgid "After unpacking %sB will be used.\n"
+msgstr ""
+
+msgid "All Packages"
+msgstr ""
+
+msgid "All right, you win.\n"
+msgstr ""
+
+msgid "Allow dependency resolutions that break holds or forbids"
+msgstr ""
+
+msgid ""
+"Allow solutions containing this action, but do not prefer them to other "
+"solutions."
+msgid_plural ""
+"Allow solutions containing these actions, but do not prefer them to other "
+"solutions."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Allowing the installation of %s version %s (%s)"
+msgstr ""
+
+msgid "Allowing the removal of %s"
+msgstr ""
+
+msgid "Allowing this recommendation to be ignored: %s"
+msgstr ""
+
+msgid "Already downloaded"
+msgstr ""
+
+msgid "Always"
+msgstr "ནམ་ཡང་།"
+
+msgid "Always obeying this recommendation: %s"
+msgstr ""
+
+msgid ""
+"Always prefer this action over alternatives that have not been accepted."
+msgid_plural ""
+"Always prefer these actions over alternatives that have not been accepted."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Always wait for the user to confirm the download before proceeding with the "
+"installation."
+msgstr ""
+
+msgid "Apply"
+msgstr "ཉེར་སྤྱོད།"
+
+msgid "Apply ^Solution"
+msgstr ""
+
+msgid "Apply a filter to the package list"
+msgstr ""
+
+msgid "Apply changes"
+msgstr ""
+
+msgid "Apply these settings to all active package lists."
+msgstr ""
+
+msgid "Applying changes..."
+msgstr "བཟོ་བཅོས་ཉེར་སྤྱོད་བྱེད་བཞིན་པ།"
+
+msgid ""
+"Aptitude %s%n%nCopyright 2000-2008 Daniel Burrows.%n%naptitude comes with "
+"%BABSOLUTELY NO WARRANTY%b; for details see 'license' in the Help menu.  "
+"This is free software, and you are welcome to redistribute it under certain "
+"conditions; see 'license' for details."
+msgstr ""
+
+msgid "Aptitude Package Manager"
+msgstr ""
+
+msgid "Architecture: "
+msgstr ""
+
+msgid "Archive"
+msgstr "ཉར་ཚགས།"
+
+msgid "Archive %s:"
+msgstr ""
+
+msgid ""
+"Arrange the actions of the current solution so that actions that are of the same type are placed together (for instance, all the actions that remove packages).\n"
+"\n"
+"This is the default view mode."
+msgstr ""
+
+msgid "Asking whether to replace the configuration file %s"
+msgstr ""
+
+msgid "Attempt to start a download thread twice!"
+msgstr ""
+
+msgid "Audit ^Recommendations"
+msgstr ""
+
+msgid "Auto"
+msgstr "རང་འགུལ།"
+
+msgid "Automatically fix broken packages before installing or removing"
+msgstr ""
+
+msgid "Automatically installed"
+msgstr ""
+
+msgid "Automatically resolve dependencies of a package when it is selected"
+msgstr ""
+
+msgid "Automatically show why packages are broken"
+msgstr ""
+
+msgid "Automatically upgrade installed packages"
+msgstr ""
+
+msgid "Available upgrades:"
+msgstr ""
+
+msgid "Available versions of %s"
+msgstr ""
+
+msgid "BROKEN"
+msgstr ""
+
+msgid ""
+"Backtrace:\n"
+"%s\n"
+msgstr ""
+
+msgid "Bad action character '%c'\n"
+msgstr ""
+
+msgid "Bad number in format string: %ls"
+msgstr ""
+
+msgid "Bad passthrough setting '%s' (use 'passthrough' or 'nopassthrough')"
+msgstr ""
+
+msgid "Bad section name '%s' (use 'none', 'topdir', 'subdir', or 'subdirs')"
+msgstr ""
+
+msgid "Badly formed expression: expected '|', got '%c'"
+msgstr ""
+
+msgid "Become root"
+msgstr ""
+
+msgid "Breaks"
+msgstr ""
+
+msgid "Broken packages"
+msgstr "ཆག་སྐྱོན་ཤོར་བའི་མཉེན་ཁུག"
+
+msgid "Browse"
+msgstr "མིག་བཤར།"
+
+msgid "Browse packages using Debtags data"
+msgstr ""
+
+msgid "Building tag database"
+msgstr ""
+
+msgid "Building view"
+msgstr ""
+
+msgid ""
+"By default, the limit of each package view will be set to the value "
+"specified by this option.  See the aptitude user's manual for detailed "
+"information about searches."
+msgstr ""
+
+msgid "C^ycle Package Information"
+msgstr ""
+
+msgid "Cache reloading, please wait..."
+msgstr ""
+
+msgid "Calculate the next solution that has not yet been generated."
+msgstr ""
+
+msgid "Calculating upgrade..."
+msgstr ""
+
+msgid "Can't decode multibyte string after \"%ls\""
+msgstr ""
+
+msgid "Can't decode wide-character string after \"%s\""
+msgstr ""
+
+msgid "Can't execute sensible-pager, is this a working Debian system?"
+msgstr ""
+
+msgid "Can't find a package named \"%s\""
+msgstr ""
+
+msgid "Can't open Aptitude extended state file"
+msgstr ""
+
+msgid "Can't search for \"\""
+msgstr ""
+
+msgid "Canc^el pending actions"
+msgstr ""
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Cancel all pending installations, removals, holds, and upgrades."
+msgstr ""
+
+msgid "Cancel any action on the selected package"
+msgstr ""
+
+msgid ""
+"Cancel any action on the selected package, and protect it from future "
+"upgrades"
+msgstr ""
+
+msgid "Cancel any actions on %s."
+msgstr ""
+
+msgid "Cancel the downgrade of %s."
+msgstr ""
+
+msgid "Cancel the installation of %F"
+msgstr ""
+
+msgid "Cancel the installation of %s"
+msgstr ""
+
+msgid "Cancel the installation of %s."
+msgstr ""
+
+msgid "Cancel the purge of %s."
+msgstr ""
+
+msgid "Cancel the reinstallation of %s."
+msgstr ""
+
+msgid "Cancel the removal of %F"
+msgstr ""
+
+msgid "Cancel the removal of %s"
+msgstr ""
+
+msgid "Cancel the removal of %s."
+msgstr ""
+
+msgid "Cancel the upgrade of %s."
+msgstr ""
+
+msgid ""
+"Canceling the installation of %s is preferred over all un-accepted "
+"alternatives."
+msgstr ""
+
+msgid "Canceling the installation of %s is rejected."
+msgstr ""
+
+msgid ""
+"Canceling the removal of %s is preferred over all un-accepted alternatives."
+msgstr ""
+
+msgid "Canceling the removal of %s is rejected."
+msgstr ""
+
+msgid "CandVer"
+msgstr ""
+
+msgid "Candidate"
+msgstr ""
+
+msgid "Cannot open Aptitude state file"
+msgstr ""
+
+msgid "Change media"
+msgstr ""
+
+msgid "Change miscellaneous program settings"
+msgstr ""
+
+msgid "Change the behavior of aptitude"
+msgstr ""
+
+msgid "Change the settings which affect how package dependencies are handled"
+msgstr ""
+
+msgid "Change the settings which affect the user interface"
+msgstr ""
+
+msgid "Change which columns are visible in the currently active view."
+msgstr ""
+
+msgid "Changelog"
+msgstr "ཉིན་ཐོ་བསྒྱུར་བ།"
+
+msgid "Changelog download failed: %s"
+msgstr ""
+
+msgid "Changelog of %s"
+msgstr ""
+
+msgid "Check for new versions of packages"
+msgstr ""
+
+msgid "Checking for updates"
+msgstr ""
+
+msgid "Choose difficulty level"
+msgstr ""
+
+msgid "Clean ^obsolete files"
+msgstr ""
+
+msgid ""
+"Cleaning the package cache requires administrative privileges, which you "
+"currently do not have.  Would you like to change to the root account?"
+msgstr ""
+
+msgid "Cleaning while a download is in progress is not allowed"
+msgstr ""
+
+msgid "Close"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "Close this display"
+msgstr ""
+
+msgid "Closing the last view exits the program"
+msgstr ""
+
+msgid "Columns of \"%s\":"
+msgstr ""
+
+msgid "Commands:"
+msgstr "བཀའ་བརྡ།"
+
+msgid "Comparing %s to %s..."
+msgstr ""
+
+msgid "Compiled against:\n"
+msgstr ""
+
+msgid "Compiler: g++ %s\n"
+msgstr ""
+
+msgid "Completed"
+msgstr "ལེགས་འགྲུབ་བྱུང་བ།"
+
+msgid "Completed with errors"
+msgstr ""
+
+msgid "Compressed Size: "
+msgstr ""
+
+msgid "Config files"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "Configuration files and data remain"
+msgstr ""
+
+msgid "Configure aptitude."
+msgstr ""
+
+msgid "Conflicts"
+msgstr ""
+
+msgid "Continue"
+msgstr "མུ་མཐུད།"
+
+msgid "Could not load game from %s"
+msgstr ""
+
+msgid ""
+"Could not lock the cache file; this usually means that dpkg or another apt "
+"tool is already installing packages.  Opening in read-only mode; any changes"
+" you make to the states of packages will NOT be preserved!"
+msgstr ""
+
+msgid "Could not open file \"%s\""
+msgstr ""
+
+msgid ""
+"Could not regain the system lock!  (Perhaps another apt or dpkg is running?)"
+msgstr ""
+
+msgid "Couldn't clean out list directories"
+msgstr ""
+
+msgid "Couldn't cw::util::transcode column definition"
+msgstr ""
+
+msgid "Couldn't find a changelog for %s"
+msgstr ""
+
+msgid ""
+"Couldn't find any package matching \"%s\".  However, the following\n"
+"packages contain \"%s\" in their description:\n"
+msgstr ""
+
+msgid "Couldn't find any package whose name or description matched \"%s\"\n"
+msgstr ""
+
+msgid ""
+"Couldn't find package \"%s\".  However, the following\n"
+"packages contain \"%s\" in their name:\n"
+msgstr ""
+
+msgid "Couldn't parse column definition"
+msgstr ""
+
+msgid "Couldn't parse layout: No column format specified for static item"
+msgstr ""
+
+msgid "Couldn't parse layout: encoding error in column descriptor"
+msgstr ""
+
+msgid "Couldn't parse layout: no height specified"
+msgstr ""
+
+msgid "Couldn't parse layout: no row number specified"
+msgstr ""
+
+msgid "Couldn't parse layout: no width specified"
+msgstr ""
+
+msgid "Couldn't parse layout: unknown view item type \"%s\""
+msgstr ""
+
+msgid "Couldn't read list of package sources"
+msgstr ""
+
+msgid "Couldn't read list of sources"
+msgstr ""
+
+msgid "Couldn't read source list"
+msgstr ""
+
+msgid "Couldn't rebuild package cache"
+msgstr ""
+
+msgid "Couldn't write state file"
+msgstr ""
+
+msgid "Create a new default package view"
+msgstr ""
+
+msgid "Current"
+msgstr "མིག་སྔར།"
+
+msgid "Current status"
+msgstr "མིག་སྔའི་རྣམ་པ།"
+
+msgid "Current status: %F."
+msgstr ""
+
+msgid "Custom"
+msgstr "མཚན་ཉིད་རང་བཞག"
+
+msgid ""
+"Cycle through the modes of the package information area: it can show the "
+"package's long description, a summary of its dependency status, or an "
+"analysis of why the package is required."
+msgstr ""
+
+msgid "DL Size: %sB"
+msgstr ""
+
+msgid "DONE"
+msgstr "ལེགས་འགྲུབ་"
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "DebSz"
+msgstr ""
+
+msgid "Del %s %s [%sB]\n"
+msgstr ""
+
+msgid "Del %s* %spartial/*\n"
+msgstr ""
+
+msgid "Delete package files which can no longer be downloaded"
+msgstr ""
+
+msgid "Delete package files which were previously downloaded"
+msgstr ""
+
+msgid "Deleting downloaded files"
+msgstr ""
+
+msgid "Deleting obsolete downloaded files"
+msgstr ""
+
+msgid ""
+"Deleting obsolete files requires administrative privileges, which you "
+"currently do not have.  Would you like to change to the root account?"
+msgstr ""
+
+msgid "Dependencies"
+msgstr ""
+
+msgid "Dependencies of %s"
+msgstr ""
+
+msgid "Dependency handling"
+msgstr ""
+
+msgid "Dependency resolution disabled."
+msgstr ""
+
+msgid "Depends"
+msgstr "རགས་ལས་པ།"
+
+msgid "DependsOnly"
+msgstr ""
+
+msgid "Description"
+msgstr "ཞིབ་བརྗོད།"
+
+msgid "Description: "
+msgstr ""
+
+msgid "Development"
+msgstr "གསར་སྤེལ།"
+
+msgid ""
+"Didn't I already tell you that there are no Easter Eggs in this program?\n"
+msgstr ""
+
+msgid "DiskUsage"
+msgstr ""
+
+msgid "Display a preview of what will be done before doing it"
+msgstr ""
+
+msgid "Display flat view instead of default view on startup"
+msgstr ""
+
+msgid "Display more information about the selected package"
+msgstr ""
+
+msgid "Display some available commands at the top of the screen"
+msgstr ""
+
+msgid "Display tabs for the available views"
+msgstr ""
+
+msgid "Display tabs for the information area"
+msgstr ""
+
+msgid "Display the Debian changelog of the selected package"
+msgstr ""
+
+msgid "Display the information area by default"
+msgstr ""
+
+msgid ""
+"Do not display a warning when the first change is made in read-only mode"
+msgstr ""
+
+msgid ""
+"Do you want to apply these changes?\n"
+"You can also modify the files by hand, then click \"No\"."
+msgstr ""
+
+msgid "Do you want to continue? [Y/n/?] "
+msgstr ""
+
+msgid "Do you want to ignore this warning and proceed anyway?\n"
+msgstr ""
+
+msgid "Don't become root"
+msgstr ""
+
+msgid "Don't hold %s at its current version."
+msgstr ""
+
+msgid "Done"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Done applying changes!"
+msgstr ""
+
+msgid "Downgrade"
+msgstr "རིམ་འབེབས།"
+
+msgid "Downgrade %F [%s (%s) -> %s (%s)]"
+msgstr ""
+
+msgid "Downgrade %s [<big>%s</big> (%s) -> <big>%s</big> (%s)]"
+msgstr ""
+
+msgid "Downgrade the following packages:"
+msgstr ""
+
+msgid "Downgrade to %s version %s"
+msgstr ""
+
+msgid ""
+"Downgrading %s to version %s is preferred over all un-accepted alternatives."
+msgstr ""
+
+msgid "Downgrading %s to version %s is rejected."
+msgstr ""
+
+msgid "Download"
+msgstr "ཕབ་ལེན།"
+
+msgid "Download already running."
+msgstr ""
+
+msgid "Download size: %sB."
+msgstr ""
+
+msgid "DownloadSize"
+msgstr ""
+
+msgid "Downloaded %sB in %s (%sB/s)."
+msgstr ""
+
+msgid "Downloaded package files have been deleted"
+msgstr ""
+
+msgid "Downloading packages"
+msgstr "མཉེན་ཆས་ཐུམ་བུ་ཕབ་ལེན་བྱེད་བཞིན་པ།"
+
+msgid "Downloading the changelog of %s"
+msgstr ""
+
+msgid "Downloading the changelog of %s version %s..."
+msgstr ""
+
+msgid "Downloading... "
+msgstr ""
+
+msgid "E:"
+msgstr ""
+
+msgid "E: The autoclean command takes no arguments\n"
+msgstr ""
+
+msgid "E: The clean command takes no arguments\n"
+msgstr ""
+
+msgid "E: The forget-new command takes no arguments\n"
+msgstr ""
+
+msgid "E: The update command takes no arguments\n"
+msgstr ""
+
+msgid "ERR"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "ERROR"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "E_dit"
+msgstr ""
+
+msgid "Easy"
+msgstr ""
+
+msgid "Edit Columns..."
+msgstr ""
+
+msgid "Editing \"%ls\": "
+msgstr ""
+
+msgid "Editing the columns of \"%s\""
+msgstr ""
+
+msgid "Encoding of README|ISO_8859-1"
+msgstr ""
+
+msgid "Encoding of help.txt|UTF-8"
+msgstr "UTF-8"
+
+msgid "Encoding of mine-help.txt|UTF-8"
+msgstr ""
+
+msgid "End-user"
+msgstr ""
+
+msgid ""
+"Enter \"a %s\" to cease requiring that new solutions include this action if "
+"possible."
+msgstr ""
+
+msgid ""
+"Enter \"a %s\" to require that new solutions include this action if "
+"possible."
+msgstr ""
+
+msgid "Enter \"r %s\" to allow this action to appear in new solutions."
+msgstr ""
+
+msgid "Enter \"r %s\" to prevent this action from appearing in new solutions."
+msgstr ""
+
+msgid ""
+"Enter a package management command (such as '+ package' to install a "
+"package), 'R' to attempt automatic dependency resolution or 'N' to abort."
+msgstr ""
+
+msgid "Enter a search and click \"Find\" to display packages."
+msgstr ""
+
+msgid "Enter the filename to load: "
+msgstr ""
+
+msgid "Enter the filename to save: "
+msgstr ""
+
+msgid "Enter the new package grouping mechanism for this display: "
+msgstr ""
+
+msgid "Enter the new package sorting mechanism for this display: "
+msgstr ""
+
+msgid "Enter the new package tree limit: "
+msgstr ""
+
+msgid "Er, there aren't any errors, this shouldn't have happened.."
+msgstr ""
+
+msgid "Err"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "Error generating local time (%s)"
+msgstr ""
+
+msgid "Error in dependency resolver: %s"
+msgstr ""
+
+msgid "Error in package %s"
+msgstr ""
+
+msgid ""
+"Error parsing a user-tag for the package %s: unexpected end-of-line "
+"following %s."
+msgstr ""
+
+msgid "Error while dumping resolver state"
+msgstr ""
+
+msgid "Error writing resolver state to %s"
+msgstr ""
+
+msgid "Error writing state file"
+msgstr ""
+
+msgid "Errors"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "Essential: "
+msgstr ""
+
+msgid "Examine the currently selected solution to the dependency problems."
+msgstr ""
+
+msgid "Exit the program"
+msgstr ""
+
+msgid "Expected %s"
+msgstr ""
+
+msgid "Expected %s, but got '%c'."
+msgstr ""
+
+msgid "Expected %s, but got EOF."
+msgstr ""
+
+msgid "Expected '%c', got '%c'."
+msgstr ""
+
+msgid "Expected '%s', but got '%s'."
+msgstr ""
+
+msgid "Expected '%s', but got EOF."
+msgstr ""
+
+msgid "Expected ',' or '(', got '%c'"
+msgstr ""
+
+msgid "Expected ',', '%c', or '('; got '%c'"
+msgstr ""
+
+msgid "Expected '{', ')', or ',' following '||', got '%s'"
+msgstr ""
+
+msgid "Expected EOF, got '%c'."
+msgstr ""
+
+msgid "Expected a number after -q=\n"
+msgstr ""
+
+msgid "Expected a number after -q=, got %s\n"
+msgstr ""
+
+msgid "Expected a version or \"%s\" after \"%s\""
+msgstr ""
+
+msgid "Expected an integer following '-', got EOF."
+msgstr ""
+
+msgid "Expected an integer, got '%c'."
+msgstr ""
+
+msgid "Expected an integer, got EOF."
+msgstr ""
+
+msgid "Expected any character, but got EOF."
+msgstr ""
+
+msgid "Expected at least one package/version pair following '%c'"
+msgstr ""
+
+msgid "Expected policy identifier, got '%c'"
+msgstr ""
+
+msgid "Explore the available packages."
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "Failed"
+msgstr "ཕམ་པ།"
+
+msgid "Failed to download changelogs: %s"
+msgstr ""
+
+msgid "Failed to download changelogs: unexpected exception."
+msgstr ""
+
+msgid "Failed to download the changelog of %s: %s"
+msgstr ""
+
+msgid "Failed to download the changelog: %s"
+msgstr ""
+
+msgid "Failed to fetch %s: %s"
+msgstr ""
+
+msgid "Failure closing directory \"%s\""
+msgstr ""
+
+msgid "False"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid ""
+"Fatal error in dependency resolver.  You can continue searching, but some solutions might be impossible to generate.\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "Fatal error in resolver"
+msgstr ""
+
+msgid "Fetched %sB in %s (%sB/s)"
+msgstr ""
+
+msgid "File to log actions into"
+msgstr ""
+
+msgid "File to write resolver state to: "
+msgstr ""
+
+msgid "Filename: "
+msgstr ""
+
+msgid "Files"
+msgstr "ཡིག་ཆ།"
+
+msgid "Files list is only available for installed packages."
+msgstr ""
+
+msgid "Filtering packages"
+msgstr ""
+
+msgid "Finalize and apply your changes to the system."
+msgstr ""
+
+msgid "Finalizing view"
+msgstr ""
+
+msgid "Find"
+msgstr "འཚོལ་བ།"
+
+msgid "Find Again ^Backwards"
+msgstr ""
+
+msgid "Find ^Again"
+msgstr ""
+
+msgid "Find ^Broken"
+msgstr ""
+
+msgid "Find a new solution"
+msgstr ""
+
+msgid "Find chains of dependencies linking one package to another."
+msgstr ""
+
+msgid "Find dependency chains: end"
+msgstr ""
+
+msgid "Find dependency chains: results"
+msgstr ""
+
+msgid "Find dependency chains: start"
+msgstr ""
+
+msgid "Find the next package with unsatisfied dependencies"
+msgstr ""
+
+msgid "Find:"
+msgstr "འཚོལ།"
+
+msgid "Fix Manually"
+msgstr ""
+
+msgid "Fixing upgrade manually:"
+msgstr ""
+
+msgid ""
+"Flag the currently selected package and its configuration files for removal"
+msgstr ""
+
+msgid "Flag the currently selected package for installation or upgrade"
+msgstr ""
+
+msgid "Flag the currently selected package for removal"
+msgstr ""
+
+msgid ""
+"Forbid the candidate version of the selected package from being installed; "
+"newer versions of the package will be installed as usual"
+msgstr ""
+
+msgid "Forbidden version"
+msgstr ""
+
+msgid "Forget which packages are \"new\""
+msgstr ""
+
+msgid ""
+"Forget which packages are \"new\" whenever packages are installed or removed"
+msgstr ""
+
+msgid "Forget which packages are \"new\" whenever the package lists are updated"
+msgstr ""
+
+msgid "Freed %sB of disk space\n"
+msgstr ""
+
+msgid "Get:"
+msgstr ""
+
+msgid "Go"
+msgstr "འཚོལ་བ།"
+
+msgid "Go ahead and ignore the warning|Yes"
+msgstr ""
+
+msgid "Group by action type"
+msgstr ""
+
+msgid "Group by dependency"
+msgstr ""
+
+msgid "HN too long"
+msgstr ""
+
+msgid "HOLD"
+msgstr "རྒྱུན་འཁྱོངས།"
+
+msgid "HOLD, DEPENDENCIES"
+msgstr ""
+
+msgid "Half-configured"
+msgstr ""
+
+msgid "Half-installed"
+msgstr ""
+
+msgid "Hard"
+msgstr "དཀའ་ངལ།"
+
+msgid "Hardware Support"
+msgstr ""
+
+msgid "Height of board: "
+msgstr ""
+
+msgid "Help"
+msgstr "རོགས་རམ།"
+
+msgid "Hide the menu bar when it is not being used"
+msgstr ""
+
+msgid "Hit"
+msgstr ""
+
+msgid "Hold"
+msgstr "རྒྱུན་འཁྱོངས།"
+
+msgid "Hold %s at its current version."
+msgstr ""
+
+msgid "Hold (don't upgrade)"
+msgstr ""
+
+msgid "Homepage: "
+msgstr ""
+
+msgid "How to treat the selected action"
+msgid_plural "How to treat the selected actions"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "I am aware that this is a very bad idea"
+msgstr ""
+
+msgid ""
+"I want to resolve dependencies, but no dependency resolver was created."
+msgstr ""
+
+msgid ""
+"I wasn't able to locate a file for the %s package. This might mean you need "
+"to manually fix this package. (due to missing arch)"
+msgstr ""
+
+msgid "INSTALL"
+msgstr "སྒྲིག་འཇུག"
+
+msgid "INSTALL, DEPENDENCIES"
+msgstr ""
+
+msgid "I^nformation"
+msgstr ""
+
+msgid "Icons showing the current and future status of this package."
+msgstr ""
+
+msgid ""
+"If this option is %Bnot%b enabled, aptitude will display a warning when you "
+"modify the state of a package if you do not have permissions to apply the "
+"change to the system."
+msgstr ""
+
+msgid ""
+"If this option is enabled and \"automatically resolve dependencies\" is also enabled, aptitude will attempt to install the recommendations of newly installed packages in addition to their outright dependencies.  Suggestions will not be automatically installed.\n"
+"If this option is enabled and \"Remove unused packages automatically\" is enabled, packages that are recommended by an installed package will not be automatically removed."
+msgstr ""
+
+msgid ""
+"If this option is enabled, a brief summary of some of the most important "
+"aptitude commands will appear beneath the menu bar."
+msgstr ""
+
+msgid ""
+"If this option is enabled, and you perform an install run while some "
+"packages are broken, aptitude will automatically apply the current "
+"suggestion of the problem resolver.  Otherwise, aptitude will prompt you for"
+" a solution to the broken dependencies."
+msgstr ""
+
+msgid ""
+"If this option is enabled, aptitude will display the status of ongoing "
+"downloads at the bottom of the screen, rather than opening a new view."
+msgstr ""
+
+msgid ""
+"If this option is enabled, aptitude will not terminate until you confirm "
+"that you really want to quit."
+msgstr ""
+
+msgid ""
+"If this option is enabled, aptitude will perform searches within the package"
+" list as you type them.  This is convenient, but may slow the program down, "
+"particularly on older computers."
+msgstr ""
+
+msgid ""
+"If this option is enabled, aptitude will stop running when all views "
+"(package lists, package details, etc) have been closed.  Otherwise, aptitude"
+" will continue running until you select 'Quit' from the Actions menu."
+msgstr ""
+
+msgid ""
+"If this option is enabled, aptitude will use a simple heuristic to "
+"immediately resolve the dependencies of each package you flag for "
+"installation.  This is much faster than the built-in dependency resolver, "
+"but may produce suboptimal results or fail entirely in some scenarios."
+msgstr ""
+
+msgid ""
+"If this option is enabled, aptitude will warn you when you attempt to "
+"perform an action which you do not have permission to do: for instance, "
+"installing packages as a non-root user.  You will be given the option to log"
+" in as root and perform the action with root privileges."
+msgstr ""
+
+msgid ""
+"If this option is enabled, packages that are automatically installed and that no manually installed package depends on will be removed from the system.  Cancelling the removal will flag the package as manually installed.\n"
+"If this option is enabled and \"Install recommended packages automatically\" is enabled, automatically installed packages will not be removed if any installed package recommends them."
+msgstr ""
+
+msgid ""
+"If this option is enabled, prompts will be displayed in a single line at the"
+" bottom of the screen.  If not, prompts will be displayed as pop-up dialog "
+"boxes."
+msgstr ""
+
+msgid ""
+"If this option is enabled, tabs will appear at the top of the information "
+"area (the pane at the bottom of the screen) listing the different displays "
+"of information that can be viewed there."
+msgstr ""
+
+msgid ""
+"If this option is enabled, tabs will appear at the top of the screen listing"
+" the currently opened views."
+msgstr ""
+
+msgid ""
+"If this option is enabled, the information area (the pane at the bottom of "
+"the screen) in the package list will be visible when the program starts; "
+"otherwise, it will be initially hidden."
+msgstr ""
+
+msgid ""
+"If this option is enabled, the menu bar will only appear when it has been "
+"activated by pressing the menu key."
+msgstr ""
+
+msgid ""
+"If this option is enabled, then aptitude will clear the list of new packages"
+" after you perform an install run or install or remove packages from the "
+"command-line."
+msgstr ""
+
+msgid ""
+"If this option is enabled, then aptitude will clear the list of new packages"
+" after you update the package lists (e.g., by pressing 'u')."
+msgstr ""
+
+msgid ""
+"If this option is enabled, then highlighting a package that has broken "
+"dependencies will automatically display the dependencies that are "
+"unfulfilled in the lower pane of the display."
+msgstr ""
+
+msgid ""
+"If this option is enabled, then on startup, aptitude will select all "
+"upgradable packages for upgrade."
+msgstr ""
+
+msgid ""
+"If this option is enabled, then performing an action on a package (for "
+"instance, installing or removing it) will move the selection to the next "
+"package in the list."
+msgstr ""
+
+msgid ""
+"If this option is enabled, then the first view displayed on startup will be "
+"a flat view instead of the default view."
+msgstr ""
+
+msgid ""
+"If this option is enabled, then when you ask aptitude to perform an install "
+"run, it will first display a summary of the actions it is going to perform."
+msgstr ""
+
+msgid ""
+"If this option is enabled, then whenever aptitude solves a dependency problem, it will consider modifying held packages, or installing forbidden package versions.  With this option disabled, these solutions will be rejected by default.\n"
+"NOTE: At present, this restriction only applies to situations in which aptitude's dependency resolver (the red bar at the bottom of the screen) is activated.  aptitude will still break holds when automatically installing the dependencies of a package that has just been selected for installation or upgrade, due to apt bug #470035."
+msgstr ""
+
+msgid ""
+"If you select a package, an explanation of its current state will appear in "
+"this space."
+msgstr ""
+
+msgid ""
+"If you select a package, an explanation of why it should be installed or "
+"removed will appear in this space."
+msgstr ""
+
+msgid "Ign"
+msgstr "སྣང་མེད་དུ་གཏོང་།"
+
+msgid "Ignore solutions containing this action."
+msgid_plural "Ignore solutions containing these actions."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Ignored"
+msgstr "སྣང་མེད་དུ་བཞག་ཟིན།"
+
+msgid "Ignoring invalid keybinding \"%s\" -> \"%s\""
+msgstr ""
+
+msgid "Ignoring this recommendation: %s"
+msgstr ""
+
+msgid "Imp"
+msgstr "ནང་འདྲེན།"
+
+msgid ""
+"In the list of actions to be performed, some packages will be followed by "
+"one or more characters enclosed in braces; for instance: \"aptitude{u}\".  "
+"These characters provide extra information about the package's state, and "
+"can include any combination of the following:"
+msgstr ""
+
+msgid "Incremental"
+msgstr "འཕར་ཚད།"
+
+msgid "Info"
+msgstr "ཆ་འཕྲིན།"
+
+msgid "Information about %s"
+msgstr ""
+
+msgid "Initializing package states"
+msgstr ""
+
+msgid "InstSz"
+msgstr ""
+
+msgid "InstVer"
+msgstr "སྒྲིག་འཇུག་པར་གཞི།"
+
+msgid "Install"
+msgstr "སྒྲིག་འཇུག"
+
+msgid "Install %F [%s (%s)]"
+msgstr ""
+
+msgid "Install %s [<big>%s</big> (%s)]"
+msgstr ""
+
+msgid "Install %s version %s"
+msgstr ""
+
+msgid "Install recommended packages automatically"
+msgstr ""
+
+msgid "Install the following packages:"
+msgstr ""
+
+msgid "Install(%s provides %s)"
+msgstr ""
+
+msgid "Install(%s)"
+msgstr ""
+
+msgid "Install/Remove"
+msgstr ""
+
+msgid "Install/Upgrade"
+msgstr ""
+
+msgid "InstallNotCurrent"
+msgstr ""
+
+msgid "Installed"
+msgstr "སྒྲིག་འཇུག་བྱས་ཟིན།"
+
+msgid ""
+"Installed Packages\n"
+" These packages are currently installed on your computer."
+msgstr ""
+
+msgid "Installing %s %s (%s)"
+msgstr ""
+
+msgid ""
+"Installing %s version %s is preferred over all un-accepted alternatives."
+msgstr ""
+
+msgid "Installing %s version %s is rejected."
+msgstr ""
+
+msgid ""
+"Installing/removing packages requires administrative privileges, which you "
+"currently do not have.  Would you like to change to the root account?"
+msgstr ""
+
+msgid "Insufficient privileges."
+msgstr ""
+
+msgid "Internal Error, Ordering didn't finish"
+msgstr ""
+
+msgid "Internal error encountered while calculating an upgrade: %s"
+msgstr ""
+
+msgid "Internal error: Default column string is unparsable"
+msgstr ""
+
+msgid "Internal error: couldn't generate list of packages to download"
+msgstr ""
+
+msgid "Internal error: invalid value %i passed to cmdline_find_ver!\n"
+msgstr ""
+
+msgid "Internal error: the temporary socket name \"%s\" is too long!"
+msgstr ""
+
+msgid "Internal error: unexpected null solution."
+msgstr ""
+
+msgid ""
+"Interrupting this process could leave your system in an inconsistent state."
+"  Are you sure you want to stop applying your changes?"
+msgstr ""
+
+msgid ""
+"Invalid \"why\" summary mode \"%s\": expected \"no-summary\", \"first-"
+"package\", \"first-package-and-type\", \"all-packages\", or \"all-packages-"
+"with-dep-versions\"."
+msgstr ""
+
+msgid "Invalid Get-Root-Command; it should start with su: or sudo:"
+msgstr ""
+
+msgid "Invalid Get-Root-Command; it should start with su: or sudo:, not %s:"
+msgstr ""
+
+msgid "Invalid entry in keybinding group: \"%s\""
+msgstr ""
+
+msgid "Invalid entry in style definition group: \"%s\""
+msgstr ""
+
+msgid ""
+"Invalid hint \"%s\": expected a component name and a number, but found "
+"nothing."
+msgstr ""
+
+msgid "Invalid hint \"%s\": expected a level, but found nothing."
+msgstr ""
+
+msgid "Invalid hint \"%s\": expected a target, but found nothing."
+msgstr ""
+
+msgid "Invalid hint \"%s\": expected an action, but found nothing."
+msgstr ""
+
+msgid ""
+"Invalid hint \"%s\": expected the numeric value following the component "
+"name, but found nothing."
+msgstr ""
+
+msgid "Invalid hint \"%s\": invalid target: %s"
+msgstr ""
+
+msgid "Invalid hint \"%s\": the action \"%s\" should be \"approve\", \"reject\", or a number."
+msgstr ""
+
+msgid "Invalid hint \"%s\": the numeric component \"%s\" cannot be parsed."
+msgstr ""
+
+msgid "Invalid hint \"%s\": trailing junk after the version."
+msgstr ""
+
+msgid "Invalid integer: \"%s\"."
+msgstr ""
+
+msgid "Invalid logger name \"%s\"."
+msgstr ""
+
+msgid "Invalid mine count; please enter a positive integer"
+msgstr ""
+
+msgid "Invalid operation %s"
+msgstr ""
+
+msgid ""
+"Invalid package grouping mode \"%s\" (should be \"auto\", \"none\", "
+"\"package\", or \"source-package\")"
+msgstr ""
+
+msgid ""
+"Invalid package names display mode \"%s\" (should be \"never\", \"auto\", or"
+" \"always\")."
+msgstr ""
+
+msgid "Invalid response.  Please enter a valid command or '?' for help.\n"
+msgstr ""
+
+msgid "Invalid response.  Please enter an integer between 1 and %d."
+msgstr ""
+
+msgid "Invalid response; please enter 'y' or 'n'."
+msgstr ""
+
+msgid "Invalid response; please enter one of the following commands:"
+msgstr ""
+
+msgid ""
+"Invalid safety level \"%s\" (not \"discard\", \"maximum\", \"minimum\", or "
+"an integer)."
+msgstr ""
+
+msgid "Invalid sorting policy type '%s'"
+msgstr ""
+
+msgid "Invalid tagless entry in style definition group: \"%s\""
+msgstr ""
+
+msgid "Invalid zero-length sorting policy name"
+msgstr ""
+
+msgid ""
+"It appears that a previous version of aptitude left files behind in %s.  "
+"These files are probably useless and safe to delete.%n%nDo you want to "
+"remove this directory and all its contents?  If you select \"No\", you will "
+"not see this message again."
+msgstr ""
+
+msgid "Keep"
+msgstr ""
+
+msgid "Keep %F at version %s (%s)"
+msgstr ""
+
+msgid "Keep %s at version <big>%s</big> (%s)"
+msgstr ""
+
+msgid "Keep the following packages at their current version:"
+msgstr ""
+
+msgid "Keep the following packages:"
+msgstr ""
+
+msgid "Keep your computer up-to-date."
+msgstr ""
+
+msgid ""
+"Keeping %s at version %s is preferred over all un-accepted alternatives."
+msgstr ""
+
+msgid "Keeping %s at version %s is rejected."
+msgstr ""
+
+msgid "Leave %ls unresolved."
+msgstr ""
+
+msgid "Leave %s unresolved"
+msgstr ""
+
+msgid "Leave the following dependencies unresolved:"
+msgstr ""
+
+msgid "Leave the following recommendations unresolved:"
+msgstr ""
+
+msgid "Leaving %ls unresolved is preferred over all un-accepted alternatives."
+msgstr ""
+
+msgid "Leaving %ls unresolved is rejected."
+msgstr ""
+
+msgid "License"
+msgstr "ཆོག་མཆན་དཔང་ཡིག"
+
+msgid "List Update"
+msgstr ""
+
+msgid "Loading cache"
+msgstr "སྐབས་གསོག་ནང་འཇུག་བྱེད་བཞིན་པ།"
+
+msgid "Localization"
+msgstr ""
+
+msgid "Localized defaults|"
+msgstr ""
+
+msgid "Localized file|README"
+msgstr ""
+
+msgid "Localized file|help.txt"
+msgstr ""
+
+msgid "LongAction"
+msgstr ""
+
+msgid "LongState"
+msgstr ""
+
+msgid "Lost"
+msgstr ""
+
+msgid "MD5sum: "
+msgstr ""
+
+msgid "Maintainer"
+msgstr ""
+
+msgid "Maintainer: "
+msgstr ""
+
+msgid "Make this the default for new package lists."
+msgstr ""
+
+msgid "Manage Filters"
+msgstr "འཚག་ཆས་དོ་དམ།"
+
+msgid "Manual"
+msgstr "ལག་སྒུལ།"
+
+msgid "Mark %s as automatically installed."
+msgstr ""
+
+msgid "Mark %s as manually installed."
+msgstr ""
+
+msgid "Mark Up^gradable"
+msgstr ""
+
+msgid "Mark ^Auto"
+msgstr ""
+
+msgid "Mark ^Manual"
+msgstr ""
+
+msgid "Mark all upgradable packages which are not held for upgrade"
+msgstr ""
+
+msgid ""
+"Mark the selected package as having been automatically installed; it will "
+"automatically be removed if no other packages depend on it"
+msgstr ""
+
+msgid ""
+"Mark the selected package as having been manually installed; it will not be "
+"removed unless you manually remove it"
+msgstr ""
+
+msgid "Match index %ls is too large; available groups are (%s)"
+msgstr ""
+
+msgid "Match indices must be 1 or greater, not \"%s\""
+msgstr ""
+
+msgid "Match pattern ends unexpectedly (expected '%c')."
+msgstr ""
+
+msgid ""
+"Media change: Please insert the disc labeled '%s' into the drive '%s' and "
+"press [Enter]."
+msgstr ""
+
+msgid "Medium"
+msgstr "འབྲིང་རིམ།"
+
+msgid "Minesweeper"
+msgstr "ས་འོག་འབར་མདེལ་མེད་པ་བཟོ་བ།"
+
+msgid "Miscellaneous"
+msgstr "ཚན་གཞན།"
+
+msgid "N/A"
+msgstr "མི་འཚམ།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Name and Description"
+msgstr ""
+
+msgid "Need to get %sB of archives. "
+msgstr ""
+
+msgid "Need to get %sB/%sB of archives. "
+msgstr ""
+
+msgid "Never"
+msgstr "གཏན་ནས་མི་བྱེད།"
+
+msgid "Never display this message again."
+msgstr ""
+
+msgid ""
+"Never wait for the user after downloading packages: always begin the "
+"installation immediately."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New Package ^View"
+msgstr ""
+
+msgid ""
+"New Packages\n"
+" These packages have been added to Debian since the last time you cleared the list of \"new\" packages (choose \"Forget new packages\" from the Actions menu to empty this list)."
+msgstr ""
+
+msgid "New ^Debtags Browser"
+msgstr ""
+
+msgid "New ^Flat Package List"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "Next"
+msgstr "གཞས་ཕྱི་མ།"
+
+msgid "No broken packages."
+msgstr ""
+
+msgid "No candidate version found for %s\n"
+msgstr ""
+
+msgid "No comma following tag name \"%s\".\n"
+msgstr ""
+
+msgid "No current or candidate version found for %s\n"
+msgstr ""
+
+msgid "No dependency chain found."
+msgstr ""
+
+msgid "No dependency solution was found."
+msgstr ""
+
+msgid ""
+"No downloadable files for %s version %s; perhaps it is a local or obsolete "
+"package?"
+msgstr ""
+
+msgid "No longer ignoring this recommendation: %s"
+msgstr ""
+
+msgid "No longer requiring the installation of %s version %s (%s)"
+msgstr ""
+
+msgid "No longer requiring the removal of %s"
+msgstr ""
+
+msgid "No more solutions."
+msgstr ""
+
+msgid ""
+"No new changelog entries; it looks like you installed a locally compiled "
+"version of this package."
+msgstr ""
+
+msgid ""
+"No new changelog entries; this is likely due to a binary-only upload of this"
+" package."
+msgstr ""
+
+msgid "No package named \"%s\" exists."
+msgstr ""
+
+msgid "No packages are broken."
+msgstr ""
+
+msgid "No packages are scheduled to be installed, removed, or upgraded."
+msgstr ""
+
+msgid "No packages found -- enter the package names on the line after 'c'.\n"
+msgstr ""
+
+msgid ""
+"No packages found -- enter zero or more roots of the search followed by the "
+"package to justify.\n"
+msgstr ""
+
+msgid "No packages matched \"%s\"."
+msgstr ""
+
+msgid "No packages matched the pattern \"%ls\"."
+msgstr ""
+
+msgid "No packages to show -- enter the package names on the line after 'i'.\n"
+msgstr ""
+
+msgid "No packages were selected by the given search pattern; nothing to do.\n"
+msgstr ""
+
+msgid ""
+"No packages will be installed, removed or upgraded.  Some packages could be "
+"upgraded, but you have not chosen to upgrade them.  Type \"U\" to prepare an"
+" upgrade."
+msgstr ""
+
+msgid "No packages will be installed, upgraded, or removed.\n"
+msgstr ""
+
+msgid "No preference"
+msgstr "ཐོག་མའི་འདེམས་ཚན།"
+
+msgid "No resolution found."
+msgstr ""
+
+msgid "No solution found within the allotted time.  Try harder? [Y/n] "
+msgstr ""
+
+msgid "No solution to these dependency problems exists!"
+msgstr ""
+
+msgid "No solutions yet."
+msgstr ""
+
+msgid "No solutions."
+msgstr ""
+
+msgid "No such package \"%s\""
+msgstr ""
+
+msgid "No upgrades are available."
+msgstr ""
+
+msgid "Not Installed"
+msgstr ""
+
+msgid ""
+"Not Installed Packages\n"
+" These packages are not installed on your computer."
+msgstr ""
+
+msgid "Not available"
+msgstr "སྤྱོད་མི་རུང་།"
+
+msgid "Not implemented"
+msgstr ""
+
+msgid "Not installed"
+msgstr "སྒྲིག་འཇུག་མེད།"
+
+msgid ""
+"Note: \"%s\", providing the virtual package\n"
+"      \"%s\", is already going to be installed.\n"
+msgstr ""
+
+msgid ""
+"Note: \"%s\", providing the virtual package\n"
+"      \"%s\", is already installed.\n"
+msgstr ""
+
+msgid ""
+"Note: selecting \"%s\" instead of the\n"
+"      virtual package \"%s\"\n"
+msgstr ""
+
+msgid "Note: selecting the task \"%s: %s\" for installation\n"
+msgstr ""
+
+msgid "Number of mines: "
+msgstr ""
+
+msgid ""
+"Obsolete and Locally Created Packages\n"
+" These packages are currently installed on your computer, but they are not available from any apt source.  They may be obsolete and removed from the archive, or you may have built a private version of them yourself."
+msgstr ""
+
+msgid ""
+"Obsolete downloaded package files have been deleted, freeing %sB of disk "
+"space."
+msgstr ""
+
+msgid "Obsoletes"
+msgstr "བེད་མེད་དུ་གཏོང་བ།"
+
+msgid "Ok"
+msgstr "གཏན་འཁེལ།"
+
+msgid "Okay, okay, if I give you an Easter Egg, will you go away?\n"
+msgstr ""
+
+msgid "Online Help"
+msgstr "སྐུད་ཐོག་རོགས་རམ།"
+
+msgid ""
+"Only one of --auto-clean-on-startup, --clean-on-startup, -i, and -u may be "
+"specified\n"
+msgstr ""
+
+msgid "Opt"
+msgstr "འདེམས་རུང་།"
+
+msgid "Options"
+msgstr "འདེམས་ཚན།"
+
+msgid "Package"
+msgstr "མཉེན་ཆས་ཐུམ་བུ།"
+
+msgid "Package %s is not installed, cannot forbid an upgrade\n"
+msgstr ""
+
+msgid "Package %s is not installed, so it will not be removed\n"
+msgstr ""
+
+msgid "Package %s is not upgradable, cannot forbid an upgrade\n"
+msgstr ""
+
+msgid "Package %s:"
+msgstr ""
+
+msgid "Package Download"
+msgstr ""
+
+msgid "Package information: dependency list"
+msgstr ""
+
+msgid "Package information: version list"
+msgstr ""
+
+msgid "Package names provided by %s"
+msgstr ""
+
+msgid "Package: "
+msgstr ""
+
+msgid "Packages"
+msgstr "མཉེན་ཆས་ཁུག་མ།"
+
+msgid ""
+"Packages being automatically held in their current state\n"
+" These packages could be upgraded, but they have been kept in their current state to avoid breaking dependencies."
+msgstr ""
+
+msgid ""
+"Packages being automatically installed to satisfy dependencies\n"
+" These packages are being installed because they are required by another package you have chosen for installation."
+msgstr ""
+
+msgid ""
+"Packages being deleted due to unsatisfied dependencies\n"
+" These packages are being deleted because one or more of their dependencies is no longer available, or because another package conflicts with them."
+msgstr ""
+
+msgid ""
+"Packages being held back\n"
+" These packages could be upgraded, but you have asked for them to be held at their current version."
+msgstr ""
+
+msgid ""
+"Packages being removed because they are no longer used\n"
+" These packages are being deleted because they were automatically installed to fulfill dependencies, and the planned action will result in no installed package declaring an 'important' dependency on them.\n"
+msgstr ""
+
+msgid "Packages depending on %s"
+msgstr ""
+
+msgid ""
+"Packages matching this search pattern will always be treated as if an "
+"installed package depends on them: they will never be targeted for removal "
+"as unused packages."
+msgstr ""
+
+msgid "Packages requiring %s:"
+msgstr ""
+
+msgid ""
+"Packages that are partially installed\n"
+" These packages are not fully installed and configured; an attempt will be made to complete their installation."
+msgstr ""
+
+msgid "Packages that should never be automatically removed"
+msgstr ""
+
+msgid ""
+"Packages to be downgraded\n"
+" An older version of these packages than is currently installed will be installed."
+msgstr ""
+
+msgid ""
+"Packages to be installed\n"
+" These packages have been manually selected for installation on your computer."
+msgstr ""
+
+msgid ""
+"Packages to be reinstalled\n"
+" These packages will be reinstalled."
+msgstr ""
+
+msgid ""
+"Packages to be removed\n"
+" These packages have been manually selected for removal."
+msgstr ""
+
+msgid ""
+"Packages to be upgraded\n"
+" These packages will be upgraded to a newer version."
+msgstr ""
+
+msgid ""
+"Packages which are recommended by other packages\n"
+" These packages are not strictly required, but they may be necessary to provide full functionality in some other programs that you are installing or upgrading."
+msgstr ""
+
+msgid ""
+"Packages which are suggested by other packages\n"
+" These packages are not required in order to make your system function properly, but they may provide enhanced functionality for some programs that you are currently installing."
+msgstr ""
+
+msgid "Packages which depend on %s"
+msgstr ""
+
+msgid ""
+"Packages with unsatisfied dependencies\n"
+" The dependency requirements of these packages will be unmet after the install is complete.\n"
+" .\n"
+" The presence of this tree probably indicates that something is broken, either on your system or in the Debian archive."
+msgstr ""
+
+msgid "Packages: "
+msgstr ""
+
+msgid "Parse error"
+msgstr "ནོར་འཁྲུལ་ཞིབ་འགྲེལ།"
+
+msgid "Parsing the changelog of %s version %s..."
+msgstr ""
+
+msgid "Pause after downloading files"
+msgstr ""
+
+msgid "Perform Changes"
+msgstr ""
+
+msgid "Perform all pending installs and removals"
+msgstr ""
+
+msgid "Perform the actions contained in the currently selected solution."
+msgstr ""
+
+msgid ""
+"Perform the actions in the currently selected solution and close this tab."
+msgstr ""
+
+msgid ""
+"Placeholder label for the explanation that two conffiles are being compared.\n"
+"This text should not appear in the program."
+msgstr ""
+
+msgid "Please insert the disc labeled \"%s\" into the drive \"%s\""
+msgstr ""
+
+msgid "Please wait; reloading cache..."
+msgstr ""
+
+msgid "Popcon"
+msgstr ""
+
+msgid "PreDepends"
+msgstr "སྔོན་རྟེན་སར།"
+
+msgid "Preferences"
+msgstr "གཏོགས་གཤིས།"
+
+msgid "Preparing to download changelogs"
+msgstr ""
+
+msgid "Preparing to download the changelog of %s"
+msgstr ""
+
+msgid "Preparing to download the changelog of %s version %s."
+msgstr ""
+
+msgid ""
+"Press \"%s\" to install <span size='large'>%d</span> upgrade out of <span "
+"size='large'>%d</span>."
+msgid_plural ""
+"Press \"%s\" to install <span size='large'>%d</span> upgrades out of <span "
+"size='large'>%d</span>."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Press \"%s\" to manually attempt to install the remaining <span "
+"size='large'>%d</span> upgrade."
+msgid_plural ""
+"Press \"%s\" to manually attempt to install the remaining <span "
+"size='large'>%d</span> upgrades."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Press Return to continue."
+msgstr ""
+
+msgid "Preview"
+msgstr "སྔོན་ལྟ།"
+
+msgid "Preview of package installation"
+msgstr ""
+
+msgid "Preview: "
+msgstr ""
+
+msgid "Previous"
+msgstr "གཞས་སྔ་མ།"
+
+msgid "Priority"
+msgstr "སྔོན་ཐོབ་རིམ་པ།"
+
+msgid "Priority %s"
+msgstr ""
+
+msgid "Priority: "
+msgstr ""
+
+msgid "ProgName"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
+
+msgid "ProgVer"
+msgstr "བྱ་རིམ་པར་གཞི།"
+
+msgid "Progress"
+msgstr "འཕེལ་ཚད།"
+
+msgid "Prompt for confirmation at exit"
+msgstr ""
+
+msgid "Provided by"
+msgstr ""
+
+msgid "Provides"
+msgstr "མཁོ་འདོན།"
+
+msgid "Provides: cannot be broken"
+msgstr ""
+
+msgid "Purge"
+msgstr "གཙང་བཤེར།"
+
+msgid "Purge %s"
+msgstr ""
+
+msgid "RC"
+msgstr ""
+
+msgid "REINSTALL"
+msgstr "【ཡང་བསྐྱར་སྒྲིག་འཇུག】"
+
+msgid "REMOVE"
+msgstr "བཤིག་འདོར།"
+
+msgid "REMOVE, DEPENDENCIES"
+msgstr ""
+
+msgid "REMOVE, NOT USED"
+msgstr ""
+
+msgid "Ran out of time while trying to find a solution."
+msgstr ""
+
+msgid ""
+"Ran out of time while trying to resolve dependencies (press \"%s\" to try "
+"harder)"
+msgstr ""
+
+msgid "Read the full user's manual of aptitude"
+msgstr ""
+
+msgid "Reading extended state information"
+msgstr ""
+
+msgid "Reading task descriptions"
+msgstr ""
+
+msgid "Really Continue"
+msgstr ""
+
+msgid "Really discard your personal settings and reload the defaults?"
+msgstr ""
+
+msgid "Really quit Aptitude?"
+msgstr ""
+
+msgid "Recommendations"
+msgstr "འོས་སྦྱོར།"
+
+msgid "Recommended Packages"
+msgstr ""
+
+msgid "Recommends"
+msgstr "འོས་སྦྱོར།"
+
+msgid "Reconfiguring %s\n"
+msgstr ""
+
+msgid "Reinstall"
+msgstr "ཡང་བསྐྱར་སྒྲིག་འཇུག"
+
+msgid "Reject Breaking ^Holds"
+msgstr ""
+
+msgid ""
+"Reject all actions that would change the state of held packages or install "
+"forbidden versions"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "Rejecting the installation of %s version %s (%s)"
+msgstr ""
+
+msgid "Rejecting the removal of %s"
+msgstr ""
+
+msgid "Related Dependencies"
+msgstr ""
+
+msgid "Reload the package cache"
+msgstr ""
+
+msgid "Remove"
+msgstr "སྤོ་བ།"
+
+msgid "Remove %F [%s (%s)]"
+msgstr ""
+
+msgid "Remove %s"
+msgstr "%s འབུད་པ།"
+
+msgid "Remove %s [<big>%s</big> (%s)]"
+msgstr ""
+
+msgid "Remove and purge configuration/data"
+msgstr ""
+
+msgid "Remove obsolete package files after downloading new package lists"
+msgstr ""
+
+msgid "Remove the filter from the package list"
+msgstr ""
+
+msgid "Remove the following packages:"
+msgstr ""
+
+msgid "Remove unused packages automatically"
+msgstr ""
+
+msgid "Remove(%s provides %s)"
+msgstr ""
+
+msgid "Remove(%s)"
+msgstr ""
+
+msgid "Removing %s"
+msgstr " %sབཤིག་པ།"
+
+msgid "Removing %s is preferred over all un-accepted alternatives."
+msgstr ""
+
+msgid "Removing %s is rejected."
+msgstr ""
+
+msgid "Removing user tag \"%s\" from the package \"%s\".\n"
+msgstr ""
+
+msgid "Repeat the last search"
+msgstr ""
+
+msgid "Repeat the last search in the opposite direction"
+msgstr ""
+
+msgid ""
+"Replace configuration file\n"
+"'%s'?"
+msgstr ""
+
+msgid "Replaces"
+msgstr ""
+
+msgid "Reporting a bug in %s:\n"
+msgstr ""
+
+msgid "Req"
+msgstr ""
+
+msgid "Requiring the installation of %s version %s (%s)"
+msgstr ""
+
+msgid "Requiring the removal of %s"
+msgstr ""
+
+msgid "Reset all settings to the system defaults"
+msgstr ""
+
+msgid "Resolve Dependencies"
+msgstr ""
+
+msgid "Resolve Upgrade Manually"
+msgstr ""
+
+msgid "Resolve dependencies"
+msgstr ""
+
+msgid "Resolve these dependencies by hand? [N/+/-/_/:/?] "
+msgstr ""
+
+msgid "Resolver"
+msgstr ""
+
+msgid "Resolver state successfully written!"
+msgstr ""
+
+msgid "Resolving dependencies..."
+msgstr ""
+
+msgid "Restart the program as root; your settings will be preserved"
+msgstr ""
+
+msgid "Screenshot"
+msgstr " ཡོལ་གཏུབ།"
+
+msgid "Search"
+msgstr "འཚོལ་བ།"
+
+msgid "Search backwards"
+msgstr ""
+
+msgid "Search backwards for: "
+msgstr ""
+
+msgid "Search for packages."
+msgstr ""
+
+msgid "Search for solutions to unsatisfied dependencies"
+msgstr ""
+
+msgid "Search for: "
+msgstr ""
+
+msgid "Search forwards"
+msgstr ""
+
+msgid "Search:"
+msgstr "འཚོལ་བཤེར།："
+
+msgid "Searching..."
+msgstr ""
+
+msgid "Section"
+msgstr "ཆ་ཤས།"
+
+msgid "Section: "
+msgstr ""
+
+msgid ""
+"Security Updates\n"
+" Security updates for these packages are available from security.debian.org."
+msgstr ""
+
+msgid "Select one or more starting packages and an ending package to search."
+msgstr ""
+
+msgid "Select the first solution to the dependency problems."
+msgstr ""
+
+msgid ""
+"Select the last solution to the dependency problems that has been generated "
+"so far."
+msgstr ""
+
+msgid "Select the next solution to the dependency problems."
+msgstr ""
+
+msgid "Select the previous solution to the dependency problems."
+msgstr ""
+
+msgid "Select the version of %s that should be used: "
+msgstr ""
+
+msgid "Selected Package"
+msgstr ""
+
+msgid "Selected status"
+msgstr ""
+
+msgid "Servers"
+msgstr "ཞབས་ཞུ་ཆས།"
+
+msgid "Set as automatic"
+msgstr ""
+
+msgid "Set as manual"
+msgstr ""
+
+msgid "Setup custom game"
+msgstr ""
+
+msgid "Short Description"
+msgstr ""
+
+msgid "Show "
+msgstr ""
+
+msgid "Show broken packages"
+msgstr ""
+
+msgid "Show partial search results (incremental search)"
+msgstr ""
+
+msgid ""
+"Show the order in which the actions in the current solution were performed "
+"and the dependency that triggered each action."
+msgstr ""
+
+msgid "Show:"
+msgstr "མངོན་པ།"
+
+msgid "Skipping this solution, I've already seen it.\n"
+msgstr ""
+
+msgid "Solution %s of %s."
+msgstr ""
+
+msgid "Some dependencies of %B%s%b are not satisfied:"
+msgstr ""
+
+msgid "Some packages were broken and have been fixed:"
+msgstr ""
+
+msgid "Source Package: "
+msgstr ""
+
+msgid "Source package %s:"
+msgstr ""
+
+msgid "Source: "
+msgstr ""
+
+msgid "Starting search with parameters %ls\n"
+msgstr ""
+
+msgid "State"
+msgstr "རྣམ་པ།"
+
+msgid "Status"
+msgstr "རྣམ་པ།"
+
+msgid "Std"
+msgstr "ཚད་ལྡན།"
+
+msgid "Stop it!\n"
+msgstr ""
+
+msgid ""
+"Subprocess exited with an error -- did you type your password correctly?"
+msgstr ""
+
+msgid "Suggest %F"
+msgstr ""
+
+msgid "Suggest keeping all packages at their current version."
+msgstr ""
+
+msgid "Suggests"
+msgstr "གྲོས་འདོན།"
+
+msgid "TAGLESS PACKAGES"
+msgstr ""
+
+msgid "Tag"
+msgstr "གདོང་འཛར།"
+
+msgid "Tags"
+msgstr "གདོང་འཛར།"
+
+msgid "Tags of %s:\n"
+msgstr ""
+
+msgid "Tasks"
+msgstr ""
+
+msgid "Terminal policy '%s' should be the last policy in the list"
+msgstr ""
+
+msgid ""
+"The ?%s term must be used in a \"wide\" context (a top-level context, or a "
+"context enclosed by ?%s)."
+msgstr ""
+
+msgid "The apt cache file is not available; cannot auto-clean."
+msgstr ""
+
+msgid "The board height must be a positive integer"
+msgstr ""
+
+msgid "The board width must be a positive integer"
+msgstr ""
+
+msgid "The changelog is empty."
+msgstr ""
+
+msgid ""
+"The configuration file %s was modified (by you or by a script). An updated "
+"version is shipped in this package. If you want to keep your current "
+"version, choose 'No'. Do you want to replace the current file and install "
+"the new package maintainers version? "
+msgstr ""
+
+msgid "The default color may only be used as a background."
+msgstr ""
+
+msgid "The default display-limit for package views"
+msgstr ""
+
+msgid "The default grouping method for package views"
+msgstr ""
+
+msgid "The display format for package views"
+msgstr ""
+
+msgid "The display format for the header line"
+msgstr ""
+
+msgid "The display format for the status line"
+msgstr ""
+
+msgid "The download is still in progress.  Should it be canceled?"
+msgstr ""
+
+msgid "The following ESSENTIAL packages will be BROKEN by this action:\n"
+msgstr ""
+
+msgid "The following ESSENTIAL packages will be REMOVED!\n"
+msgstr ""
+
+msgid "The following NEW packages will be automatically installed:"
+msgstr ""
+
+msgid "The following NEW packages will be installed:"
+msgstr ""
+
+msgid "The following actions will resolve these dependencies:"
+msgstr ""
+
+msgid "The following actions will resolve this dependency:"
+msgstr ""
+
+msgid "The following commands are available:"
+msgstr ""
+
+msgid "The following packages are BROKEN:"
+msgstr ""
+
+msgid "The following packages are RECOMMENDED but will NOT be installed:\n"
+msgstr ""
+
+msgid "The following packages are SUGGESTED but will NOT be installed:\n"
+msgstr ""
+
+msgid "The following packages are unused and will be REMOVED:"
+msgstr ""
+
+msgid ""
+"The following packages conflict with %B%s%b and will be broken by its "
+"installation:"
+msgstr ""
+
+msgid ""
+"The following packages conflict with %B%s%b, or depend on a version of it "
+"which is not going to be installed."
+msgstr ""
+
+msgid "The following packages conflict with %B%s%b:"
+msgstr ""
+
+msgid ""
+"The following packages conflict with version %B%s%b of %B%s%b, and will be "
+"broken if it is %s."
+msgstr ""
+
+msgid "The following packages depend on %B%s%b and are broken:"
+msgstr ""
+
+msgid ""
+"The following packages depend on %B%s%b and will be broken by its removal:"
+msgstr ""
+
+msgid ""
+"The following packages depend on a version of %B%s%b other than the "
+"currently installed version of %B%s%b, or conflict with the currently "
+"installed version:"
+msgstr ""
+
+msgid ""
+"The following packages depend on a version of %B%s%b other than the "
+"currently installed version of %B%s%b:"
+msgstr ""
+
+msgid ""
+"The following packages depend on a version of %B%s%b which is not going to "
+"be installed."
+msgstr ""
+
+msgid ""
+"The following packages depend on the currently installed version of %B%s%b "
+"(%B%s%b), or conflict with the version it will be %s to (%B%s%b), and will "
+"be broken if it is %s."
+msgstr ""
+
+msgid ""
+"The following packages depend on version %B%s%b of %B%s%b, and will be "
+"broken if it is %s."
+msgstr ""
+
+msgid "The following packages have been automatically kept back:"
+msgstr ""
+
+msgid "The following packages have been kept back:"
+msgstr ""
+
+msgid "The following packages have unmet dependencies:\n"
+msgstr ""
+
+msgid "The following packages will be DOWNGRADED:"
+msgstr ""
+
+msgid "The following packages will be REINSTALLED:"
+msgstr ""
+
+msgid "The following packages will be REMOVED:"
+msgstr ""
+
+msgid "The following packages will be automatically REMOVED:"
+msgstr ""
+
+msgid "The following packages will be upgraded:"
+msgstr ""
+
+msgid "The following partially installed packages will be configured:"
+msgstr ""
+
+msgid "The list of sources could not be read."
+msgstr ""
+
+msgid "The maximum cost value was exceeded."
+msgstr ""
+
+msgid "The name and description of the package."
+msgstr ""
+
+msgid "The package archives that contain this version."
+msgstr ""
+
+msgid "The package cache is not available."
+msgstr ""
+
+msgid ""
+"The package cache is not available; unable to download and install packages."
+msgstr ""
+
+msgid ""
+"The package index files are corrupted. No Filename: field for package %s."
+msgstr ""
+
+msgid "The package lists or status file could not be parsed or opened."
+msgstr ""
+
+msgid "The version %s is available in the following archives:"
+msgstr ""
+
+msgid "The version number of the package."
+msgstr ""
+
+msgid "There are no Easter Eggs in this program.\n"
+msgstr ""
+
+msgid "There is %d newly obsolete package."
+msgid_plural "There are %d newly obsolete packages."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "There is %d newly obsolete package: "
+msgid_plural "There are %d newly obsolete packages: "
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "There really are no Easter Eggs in this program.\n"
+msgstr ""
+
+msgid ""
+"This action is currently approved; it will be selected whenever possible."
+msgstr ""
+
+msgid ""
+"This action is currently rejected; it will not appear in new solutions."
+msgstr ""
+
+msgid "This action was selected because %ls."
+msgstr ""
+
+msgid "This feature is not implemented, yet."
+msgstr ""
+
+msgid ""
+"This file list pertains to the currently installed version \"%s\", not the "
+"selected version \"%s\"."
+msgstr ""
+
+msgid "This group contains %d package."
+msgid_plural "This group contains %d packages."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"This option controls how aptitude formats lines of the package list.  See "
+"the aptitude user's manual for information on how to specify a display "
+"format."
+msgstr ""
+
+msgid ""
+"This option controls how aptitude formats the header line (the line above "
+"the package list).  See the aptitude user's manual for information on how to"
+" specify a display format."
+msgstr ""
+
+msgid ""
+"This option controls how aptitude formats the status line (the line between "
+"the package list and the lower pane).  See the aptitude user's manual for "
+"information on how to specify a display format."
+msgstr ""
+
+msgid ""
+"This option controls how aptitude organizes the package list.  See the "
+"aptitude user's manual for information on how to specify a grouping method."
+msgstr ""
+
+msgid ""
+"This option controls whether aptitude will wait for confirmation after a "
+"download before it goes ahead and installs packages."
+msgstr ""
+
+msgid "To continue, enter \"%s\"; to abort, enter \"%s\": "
+msgstr ""
+
+msgid "To continue, type the phrase \"%s\":\n"
+msgstr ""
+
+msgid "To view a solution, select it from the list to the right."
+msgstr ""
+
+msgid "Toggle ^Approved"
+msgstr ""
+
+msgid "Toggle ^Rejected"
+msgstr ""
+
+msgid "Toggle automatic status"
+msgstr ""
+
+msgid "Toggle whether the currently selected action is approved."
+msgstr ""
+
+msgid "Toggle whether the currently selected action is rejected."
+msgstr ""
+
+msgid "Total Progress: "
+msgstr ""
+
+msgid "Triggers awaited"
+msgstr ""
+
+msgid "Triggers pending"
+msgstr ""
+
+msgid "True"
+msgstr "ཡང་དག་པ།"
+
+msgid "UI options"
+msgstr ""
+
+msgid "UNAVAILABLE"
+msgstr "སྤྱོད་རུང་མིན་པ།"
+
+msgid "UNCONFIGURED"
+msgstr ""
+
+msgid "UNSATISFIED"
+msgstr ""
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL to use to download changelogs"
+msgstr ""
+
+msgid "Unable to calculate an upgrade."
+msgstr ""
+
+msgid ""
+"Unable to calculate an upgrade.  Press \"%s\" to manually search for a "
+"solution."
+msgstr ""
+
+msgid "Unable to correct dependencies, some packages cannot be installed"
+msgstr ""
+
+msgid "Unable to correct for unavailable packages"
+msgstr ""
+
+msgid "Unable to create temporary filename from prefix \"%s\""
+msgstr ""
+
+msgid "Unable to create the output file: child exited with status %d."
+msgstr ""
+
+msgid "Unable to create the output file: child killed by signal %d."
+msgstr ""
+
+msgid "Unable to create truncated cache: %s."
+msgstr ""
+
+msgid "Unable to find a reason to install %s.\n"
+msgstr ""
+
+msgid "Unable to find a reason to remove %s.\n"
+msgstr ""
+
+msgid "Unable to find a solution to apply."
+msgstr ""
+
+msgid "Unable to find a version \"%s\" for the package \"%s\"\n"
+msgstr ""
+
+msgid "Unable to find an archive \"%s\" for the package \"%s\"\n"
+msgstr ""
+
+msgid "Unable to find the source package for \"%s\".\n"
+msgstr ""
+
+msgid "Unable to fork: %s"
+msgstr ""
+
+msgid "Unable to list files in \"%s\""
+msgstr ""
+
+msgid "Unable to load the user interface definition file %s/aptitude.glade."
+msgstr ""
+
+msgid "Unable to locate package %s"
+msgstr ""
+
+msgid "Unable to open %ls"
+msgstr ""
+
+msgid "Unable to open %s for writing"
+msgstr ""
+
+msgid "Unable to open %s to log actions"
+msgstr ""
+
+msgid "Unable to parse pattern %s"
+msgstr ""
+
+msgid "Unable to parse pattern after \"%s\""
+msgstr ""
+
+msgid "Unable to parse pattern at '%s'"
+msgstr ""
+
+msgid "Unable to parse some match patterns."
+msgstr ""
+
+msgid "Unable to remove \"%s\""
+msgstr ""
+
+msgid "Unable to remove directory \"%s\""
+msgstr ""
+
+msgid ""
+"Unable to remove the old temporary directory; you should remove %s by hand."
+msgstr ""
+
+msgid "Unable to replace %s with new configuration file"
+msgstr ""
+
+msgid ""
+"Unable to resolve dependencies for the upgrade because the resolver timed out.\n"
+"  You may be able to solve this problem by increasing\n"
+"  Aptitude::ProblemResolver::StepLimit (currently %d)."
+msgstr ""
+
+msgid "Unable to resolve dependencies for the upgrade: %s"
+msgstr ""
+
+msgid "Unable to resolve dependencies for the upgrade: no solution found."
+msgstr ""
+
+msgid "Unable to resolve dependencies!  Giving up..."
+msgstr ""
+
+msgid "Unable to resolve dependencies."
+msgstr ""
+
+msgid ""
+"Unable to safely resolve dependencies, try running with --full-resolver.\n"
+msgstr ""
+
+msgid "Unable to satisfy the build-depends: %s.\n"
+msgstr ""
+
+msgid "Unable to stat \"%s\""
+msgstr ""
+
+msgid "Unable to stat %s."
+msgstr ""
+
+msgid "Unable to transcode package display format after \"%ls\""
+msgstr ""
+
+msgid "Uncaught exception: %s\n"
+msgstr ""
+
+msgid "Uncompressed Size: "
+msgstr ""
+
+msgid "Undo"
+msgstr "འདོར་བ།"
+
+msgid "Undo the last package operation or group of operations"
+msgstr ""
+
+msgid "Unexpected %s"
+msgstr ""
+
+msgid "Unexpected ')'"
+msgstr ""
+
+msgid "Unexpected empty expression"
+msgstr ""
+
+msgid "Unexpected end-of-file on standard input"
+msgstr ""
+
+msgid "Unexpected pattern argument following \"keep-all\""
+msgstr ""
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unknown action type: %s"
+msgstr ""
+
+msgid "Unknown alignment type '%s'"
+msgstr ""
+
+msgid "Unknown command \"%s\"\n"
+msgstr ""
+
+msgid "Unknown dependency type: %s"
+msgstr ""
+
+msgid "Unknown grouping policy \"%s\""
+msgstr ""
+
+msgid ""
+"Unknown log level name \"%s\" (expected \"trace\", \"debug\", \"info\", "
+"\"warn\", \"error\", \"fatal\", or \"off\")."
+msgstr ""
+
+msgid "Unknown pattern type: %c"
+msgstr ""
+
+msgid "Unknown priority %s"
+msgstr ""
+
+msgid "Unknown style attribute %s"
+msgstr ""
+
+msgid "Unknown term type: \"%s\"."
+msgstr ""
+
+msgid "Unknown version selection, something is very wrong."
+msgstr ""
+
+msgid "Unmatched '('"
+msgstr ""
+
+msgid "Unmatched '(' in sorting policy description"
+msgstr ""
+
+msgid "Unpacked"
+msgstr ""
+
+msgid "Unrecognized attribute name \"%s\""
+msgstr ""
+
+msgid "Unrecognized color name \"%s\""
+msgstr ""
+
+msgid "Unrecognized input.  Enter either \"%s\" or \"%s\".\n"
+msgstr ""
+
+msgid "Unrecognized tasks"
+msgstr ""
+
+msgid "Unsatisfied dependencies"
+msgstr ""
+
+msgid "Unterminated '\"' in the user-tags list of the package %s."
+msgstr ""
+
+msgid "Unterminated literal string after %s"
+msgstr ""
+
+msgid "Update"
+msgstr "གསར་སྒྱུར།"
+
+msgid "Update %s?"
+msgstr ""
+
+msgid "Updating package lists"
+msgstr ""
+
+msgid ""
+"Updating the package lists requires administrative privileges, which you "
+"currently do not have.  Would you like to change to the root account?"
+msgstr ""
+
+msgid ""
+"Upgradable Packages\n"
+" A newer version of these packages is available."
+msgstr ""
+
+msgid "Upgrade"
+msgstr "རིམ་སྤེལ།"
+
+msgid "Upgrade %F [%s (%s) -> %s (%s)]"
+msgstr ""
+
+msgid "Upgrade %s [<big>%s</big> (%s) -> <big>%s</big> (%s)]"
+msgstr ""
+
+msgid "Upgrade Summary"
+msgstr ""
+
+msgid "Upgrade the following packages:"
+msgstr ""
+
+msgid "Upgrade to %s version %s"
+msgstr ""
+
+msgid ""
+"Upgrading %s to version %s is preferred over all un-accepted alternatives."
+msgstr ""
+
+msgid "Upgrading %s to version %s is rejected."
+msgstr ""
+
+msgid "Usage: aptitude [-S fname] [-u|-i]"
+msgstr ""
+
+msgid "Use a 'status-line' download indicator for all downloads"
+msgstr ""
+
+msgid "Use a minibuffer-style prompt when possible"
+msgstr ""
+
+msgid "User Tags"
+msgstr ""
+
+msgid "User's Manual"
+msgstr ""
+
+msgid "User's ^Manual"
+msgstr ""
+
+msgid "Version"
+msgstr "པར་གཞི།"
+
+msgid "Version: "
+msgstr ""
+
+msgid "Versions of %s"
+msgstr ""
+
+msgid "View Details"
+msgstr ""
+
+msgid "View a brief introduction to aptitude"
+msgstr ""
+
+msgid "View a list of frequently asked questions"
+msgstr ""
+
+msgid "View all the packages on the system in a single uncategorized list"
+msgstr ""
+
+msgid "View and/or adjust the actions that will be performed"
+msgstr ""
+
+msgid "View available packages and choose actions to perform"
+msgstr ""
+
+msgid "View changes"
+msgstr ""
+
+msgid ""
+"View errors that have occurred in the apt system since the program was "
+"started."
+msgstr ""
+
+msgid "View information about this program"
+msgstr ""
+
+msgid "View next display"
+msgstr ""
+
+msgid "View packages that it is recommended that you install"
+msgstr ""
+
+msgid ""
+"View packages which it is recommended that you install, but which are not "
+"currently installed."
+msgstr ""
+
+msgid "View previous display"
+msgstr ""
+
+msgid "View the detailed program manual"
+msgstr ""
+
+msgid "View the differences\t"
+msgstr ""
+
+msgid "View the important changes made in each version of "
+msgstr ""
+
+msgid "View the important changes made in each version of %s"
+msgstr ""
+
+msgid "View the list of changes made to this Debian package."
+msgstr ""
+
+msgid "View the on-line help"
+msgstr ""
+
+msgid "View the package which will be affected by the selected action"
+msgstr ""
+
+msgid "View the progress of the package download"
+msgstr ""
+
+msgid "View the progress of the package list update"
+msgstr ""
+
+msgid "View the terms under which you may copy and distribute aptitude"
+msgstr ""
+
+msgid "Views"
+msgstr "མཐོང་རིས།"
+
+msgid "Virtual"
+msgstr "རྟོག་བཟོ།"
+
+msgid ""
+"Virtual Packages\n"
+" These packages do not exist; they are names other packages use to require or provide some functionality."
+msgstr ""
+
+msgid "Virtual package"
+msgstr ""
+
+msgid "Visible?"
+msgstr ""
+
+msgid "W:"
+msgstr ""
+
+msgid "WARNING"
+msgstr "ཐ་ཚིག "
+
+msgid ""
+"WARNING: Performing this action will probably cause your system to break!\n"
+"         Do NOT continue unless you know EXACTLY what you are doing!\n"
+msgstr ""
+
+msgid ""
+"WARNING: the package cache is opened in read-only mode!  This change and all"
+" subsequent changes will not be saved unless you stop all other running apt-"
+"based programs and select \"Become root\" from the Actions menu."
+msgstr ""
+
+msgid ""
+"WARNING: untrusted versions of the following packages will be installed!\n"
+"\n"
+"Untrusted packages could compromise your system's security.\n"
+"You should only proceed with the installation if you are certain that\n"
+"this is what you want to do.\n"
+"\n"
+msgstr ""
+
+msgid "WEIRDNESS: unknown option code received\n"
+msgstr ""
+
+msgid ""
+"Wait for confirmation if an error occurred during the download.  If there "
+"were no errors, begin installing packages immediately."
+msgstr ""
+
+msgid "Warn when attempting to perform a privileged action as a non-root user"
+msgstr ""
+
+msgid "Waste time trying to find mines"
+msgstr ""
+
+msgid "What is it?  It's an elephant being eaten by a snake, of course.\n"
+msgstr ""
+
+msgid "When an error occurs"
+msgstr ""
+
+msgid ""
+"When you install or remove packages, a summary of what aptitude does will be"
+" written to this file.  If the first character of the file name is a pipe "
+"character ('%B|%b'), the remainder of the name will be interpreted as a "
+"shell command that is to receive the log on standard input."
+msgstr ""
+
+msgid "Whether the package is automatically installed."
+msgstr ""
+
+msgid "Why Installed"
+msgstr ""
+
+msgid "Width of board: "
+msgstr ""
+
+msgid "Will free %sB of disk space"
+msgstr ""
+
+msgid "Will install %li packages, and remove %li packages.\n"
+msgstr ""
+
+msgid ""
+"Will not remove %s; you should examine the files in it and remove them by "
+"hand."
+msgstr ""
+
+msgid "Will use %sB of disk space"
+msgstr ""
+
+msgid "Won"
+msgstr ""
+
+msgid "Would download/install/remove packages.\n"
+msgstr ""
+
+msgid "Would forget what packages are new\n"
+msgstr ""
+
+msgid "Would free %sB of disk space\n"
+msgstr ""
+
+msgid ""
+"Would resolve dependencies, but dependency resolution is disabled.\n"
+"   (%s::ProblemResolver::StepLimit = 0)\n"
+msgstr ""
+
+msgid "Writing extended state information"
+msgstr ""
+
+msgid "Xtr"
+msgstr "ལྷག་མ།"
+
+msgid "Yes, I am aware this is a very bad idea"
+msgstr ""
+
+msgid "You already are root!"
+msgstr ""
+
+msgid ""
+"You are not root and I cannot find any way to become root.  To reconfigure "
+"this package, install the menu package, the login package, or run aptitude "
+"as root."
+msgstr ""
+
+msgid "You can only specify a package archive with an 'install' command.\n"
+msgstr ""
+
+msgid ""
+"You can only specify a package version with an 'install' command or a "
+"'forbid-version' command.\n"
+msgstr ""
+
+msgid "You can only view changelogs of official Debian packages."
+msgstr ""
+
+msgid ""
+"You can only view changelogs of official Debian packages; %s is from %s."
+msgstr ""
+
+msgid ""
+"You can only view changelogs of official Debian packages; the origin of %s "
+"is unknown."
+msgstr ""
+
+msgid "You cannot specify both an archive and a version for a package\n"
+msgstr ""
+
+msgid "You have won."
+msgstr ""
+
+msgid "You lose!"
+msgstr ""
+
+msgid ""
+"You may also specify modification to the actions which will be taken.  To do"
+" so, type an action character followed by one or more package names (or "
+"patterns).  The action will be applied to all the packages that you list.  "
+"The following actions are available:"
+msgstr ""
+
+msgid ""
+"You may not modify the state of any package while a download is underway."
+msgstr ""
+
+msgid ""
+"You may want to update the package lists to correct these missing files"
+msgstr ""
+
+msgid "You must be root to update the package lists."
+msgstr ""
+
+msgid "You must choose one to install.\n"
+msgstr ""
+
+msgid "[ ERR] %s"
+msgstr ""
+
+msgid "[%d(%d)/...] Resolving dependencies"
+msgstr ""
+
+msgid "[%s] %s\n"
+msgstr ""
+
+msgid "[%s] dpkg process complete.\n"
+msgstr ""
+
+msgid "[%s] dpkg process complete; there are more packages left to process.\n"
+msgstr ""
+
+msgid "[%s] dpkg process failed.\n"
+msgstr ""
+
+msgid "[%s] dpkg process starting...\n"
+msgstr ""
+
+msgid "[Downloaded]"
+msgstr ""
+
+msgid "[ERROR]"
+msgstr ""
+
+msgid "[Hit]"
+msgstr ""
+
+msgid "[IGNORED]"
+msgstr ""
+
+msgid "[Working]"
+msgstr ""
+
+msgid "^About"
+msgstr ""
+
+msgid "^Become root"
+msgstr ""
+
+msgid "^Changelog"
+msgstr ""
+
+msgid "^Clean package cache"
+msgstr ""
+
+msgid "^Close"
+msgstr ""
+
+msgid "^Dependency handling"
+msgstr ""
+
+msgid "^Examine Solution"
+msgstr ""
+
+msgid "^FAQ"
+msgstr ""
+
+msgid "^Find"
+msgstr ""
+
+msgid "^Find Backwards"
+msgstr ""
+
+msgid "^First Solution"
+msgstr ""
+
+msgid "^Forbid Version"
+msgstr ""
+
+msgid "^Forget new packages"
+msgstr ""
+
+msgid "^Help"
+msgstr ""
+
+msgid "^Hold"
+msgstr ""
+
+msgid "^Install"
+msgstr ""
+
+msgid "^Install/remove packages"
+msgstr ""
+
+msgid "^Keep"
+msgstr ""
+
+msgid "^Last Solution"
+msgstr ""
+
+msgid "^License"
+msgstr ""
+
+msgid "^Limit Display"
+msgstr ""
+
+msgid "^Miscellaneous"
+msgstr ""
+
+msgid "^News"
+msgstr ""
+
+msgid "^Next"
+msgstr ""
+
+msgid "^Next Solution"
+msgstr ""
+
+msgid "^Play Minesweeper"
+msgstr ""
+
+msgid "^Preferences"
+msgstr ""
+
+msgid "^Prev"
+msgstr ""
+
+msgid "^Previous Solution"
+msgstr ""
+
+msgid "^Purge"
+msgstr ""
+
+msgid "^Quit"
+msgstr ""
+
+msgid "^Reload package cache"
+msgstr ""
+
+msgid "^Remove"
+msgstr ""
+
+msgid "^Revert options"
+msgstr ""
+
+msgid "^UI options"
+msgstr ""
+
+msgid "^Un-Limit Display"
+msgstr ""
+
+msgid "^Update package list"
+msgstr ""
+
+msgid "^View Target"
+msgstr ""
+
+msgid "_File"
+msgstr "ཡིག་ཆ།(_F)"
+
+msgid "_Help"
+msgstr "རོགས་རམ།(_H)"
+
+msgid "_Package"
+msgstr ""
+
+msgid "_View"
+msgstr "ལྟ་ཞིབ།(_V)"
+
+msgid "abort and quit"
+msgstr ""
+
+msgid ""
+"abort automatic dependency resolution; resolve dependencies by hand instead"
+msgstr ""
+
+msgid ""
+"accept the given package versions; display only solutions in which they "
+"occur.  Enter UNINST instead of a version to accept removing the package.  "
+"ID is the integer printed to the left of the action."
+msgstr ""
+
+msgid "accept the proposed changes"
+msgstr ""
+
+msgid "adjust the state of the listed packages, where ACTION is one of:"
+msgstr ""
+
+msgid "all"
+msgstr "ཚང་མ།"
+
+msgid "all-packages"
+msgstr ""
+
+msgid "all-packages-with-dep-versions"
+msgstr ""
+
+msgid "allow_choices"
+msgstr ""
+
+msgid "any character"
+msgstr ""
+
+msgid "anything"
+msgstr "གང་རུང་།"
+
+msgid ""
+"aptitude failed to find a solution to these dependencies.  You can solve "
+"them yourself by hand or type 'n' to quit."
+msgstr ""
+
+msgid "awaiting trigger processing"
+msgstr ""
+
+msgid "awaiting trigger processing by other package(s)"
+msgstr ""
+
+msgid "breaks"
+msgstr ""
+
+msgid "broken"
+msgstr "སྐྱོན་ཤོར་བ།"
+
+msgid "but %s is installed and it is kept back."
+msgstr ""
+
+msgid "but %s is installed."
+msgstr ""
+
+msgid "but %s is to be installed."
+msgstr ""
+
+msgid "but it is not going to be installed."
+msgstr ""
+
+msgid "but it is not installable."
+msgstr ""
+
+msgid "c: %F"
+msgstr ""
+
+msgid "config-files"
+msgstr "ཡིག་ཆ་སྡེབ་སྒྲིག"
+
+msgid "conflicts with"
+msgstr ""
+
+msgid "continue with the installation"
+msgstr ""
+
+msgid "couldn't replace %s with %s"
+msgstr ""
+
+msgid "d: %F"
+msgstr ""
+
+msgid "debug"
+msgstr "ཚོད་སྒྲིག"
+
+msgid "delete"
+msgstr "འདོར་བ།"
+
+msgid "dep_level"
+msgstr ""
+
+msgid "depends on"
+msgstr "རགས་ལས་པ།"
+
+msgid ""
+"display information about the action labeled ID from the solution.  The "
+"label is the integer printed to the left of the action."
+msgstr ""
+
+msgid "downgraded"
+msgstr "ཕབ་ལེན་བྱས་ཟིན།"
+
+msgid "download: you must specify at least one package to download\n"
+msgstr ""
+
+msgid "e: %F"
+msgstr ""
+
+msgid "enter the full visual interface"
+msgstr ""
+
+msgid "error"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "examine the solution in the visual user interface"
+msgstr ""
+
+msgid ""
+"extract-cache-entries: at least one argument is required (the directory\n"
+"to which to write files).\n"
+msgstr ""
+
+msgid "failed to remove %s"
+msgstr " %sའདོར་མི་ཐུབ།"
+
+msgid "failed to rename %s to %s"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "fatal"
+msgstr "སྲོག་འཕྲད་ནོར་འཁྲུལ།"
+
+msgid "first-package"
+msgstr ""
+
+msgid "first-package-and-type"
+msgstr ""
+
+msgid "forbidden upgrade"
+msgstr ""
+
+msgid "give up and quit the program"
+msgstr ""
+
+msgid "half-config"
+msgstr ""
+
+msgid "half-install"
+msgstr ""
+
+msgid "hold"
+msgstr ""
+
+msgid "i: %F"
+msgstr ""
+
+msgid "iconv of %s failed.\n"
+msgstr ""
+
+msgid "info"
+msgstr "ཆ་འཕྲིན།"
+
+msgid "install"
+msgstr "སྒྲིག་འཇུག"
+
+msgid "installed"
+msgstr "སྒྲིག་འཇུག་བྱས།"
+
+msgid "installed locally"
+msgstr ""
+
+msgid "leave %s unresolved"
+msgstr ""
+
+msgid "legacy"
+msgstr ""
+
+msgid "log report"
+msgstr ""
+
+msgid "main"
+msgstr "གཙོ་བོ།"
+
+msgid "make_package_view: bad argument!"
+msgstr ""
+
+msgid ""
+"make_package_view: error in arguments -- bad column list for static item"
+msgstr ""
+
+msgid "make_package_view: error in arguments -- two main widgets??"
+msgstr ""
+
+msgid "make_package_view: no main widget found"
+msgstr ""
+
+msgid "mine-help.txt"
+msgstr ""
+
+msgid "move to the next solution"
+msgstr ""
+
+msgid "move to the previous solution"
+msgstr ""
+
+msgid "n: %F"
+msgstr ""
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "no-summary"
+msgstr ""
+
+msgid "no_key"
+msgstr ""
+
+msgid "none"
+msgstr "མེད།"
+
+msgid "not a real package"
+msgstr ""
+
+msgid "not installed"
+msgstr "སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "not installed (configuration files remain)"
+msgstr ""
+
+msgid "obsoletes"
+msgstr "དུས་ཚོད་ཡོལ་བ།"
+
+msgid "off"
+msgstr "སྒོ་རྒྱག"
+
+msgid "open: %d; closed: %d; defer: %d; conflict: %d"
+msgstr ""
+
+msgid "open: %zd; closed: %zd; defer: %zd; conflict: %zd"
+msgstr ""
+
+msgid "partially configured"
+msgstr ""
+
+msgid "partially installed"
+msgstr "ཆ་ཤས་སྒྲིག་འཇུག"
+
+msgid "popcon"
+msgstr ""
+
+msgid "pre-depends on"
+msgstr "སྔོན་རྟེན་སར།"
+
+msgid "purge"
+msgstr "གཙང་སེལ།"
+
+msgid "purged"
+msgstr "གཙང་སེལ།"
+
+msgid "r: %F"
+msgstr ""
+
+msgid "recommends"
+msgstr "འོས་སྦྱོར།"
+
+msgid "reinstall"
+msgstr "ཡང་བསྐྱར་སྒྲིག་འཇུག"
+
+msgid ""
+"reject the given package versions; don't display any solutions in which they"
+" occur.  Enter UNINST instead of a version to reject removing the package.  "
+"ID is the integer printed to the left of the action."
+msgstr ""
+
+msgid "reject the proposed changes and search for another solution"
+msgstr ""
+
+msgid "replaces"
+msgstr "ཚབ་བྱེད་པ།"
+
+msgid "run the automatic dependency resolver to fix the broken dependencies."
+msgstr ""
+
+msgid "s: %F"
+msgstr ""
+
+msgid "search: You must provide at least one search term\n"
+msgstr ""
+
+msgid "second"
+msgstr "སྐར་ཆ།"
+
+msgid "seconds"
+msgstr "སྐར་ཆ།"
+
+msgid ""
+"show information about one or more packages; the package names should follow"
+" the 'i'"
+msgstr ""
+
+msgid ""
+"show the Debian changelogs of one or more packages; the package names should"
+" follow the 'c'"
+msgstr ""
+
+msgid "suggests"
+msgstr "བསམ་འཆར།"
+
+msgid "tags"
+msgstr "གདོང་འཛར།"
+
+msgid ""
+"toggle between the contents of the solution and an explanation of the "
+"solution"
+msgstr ""
+
+msgid "toggle the display of changes in package sizes"
+msgstr ""
+
+msgid "toggle the display of dependency information"
+msgstr ""
+
+msgid "toggle the display of version numbers"
+msgstr ""
+
+msgid "trace"
+msgstr "རྗེས་འདེད།"
+
+msgid "triggers-awaited"
+msgstr ""
+
+msgid "triggers-pending"
+msgstr ""
+
+msgid "true"
+msgstr ""
+
+msgid ""
+"try to find a reason for installing a single package, or explain why "
+"installing one package should lead to installing another package."
+msgstr ""
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "unpacked"
+msgstr ""
+
+msgid "upgrade"
+msgstr "རིམ་སྤར།"
+
+msgid "upgraded"
+msgstr ""
+
+msgid "v: %F"
+msgstr ""
+
+msgid "version_selection"
+msgstr ""
+
+msgid "versions: You must provide at least one package selector\n"
+msgstr ""
+
+msgid "virtual"
+msgstr "རྟོག་བཟོ།"
+
+msgid "w: %F"
+msgstr ""
+
+msgid "warn"
+msgstr "ཐ་ཚིག "
+
+msgid "y: %F"
+msgstr ""
+
+msgid "yes"
+msgstr "ཡིན།"

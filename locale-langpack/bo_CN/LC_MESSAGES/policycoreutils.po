@@ -1,0 +1,2527 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"SELinux Distribution fcontext Equivalence \n"
+msgstr ""
+
+msgid ""
+"\n"
+"SELinux Local fcontext Equivalence \n"
+msgstr ""
+
+msgid "%s changed labels.\n"
+msgstr ""
+
+msgid "%s is already in %s"
+msgstr ""
+
+msgid "%s is not a valid context\n"
+msgstr ""
+
+msgid "%s is not in %s"
+msgstr ""
+
+msgid "%s must be a directory"
+msgstr ""
+
+msgid "%s!  Could not get current context for %s, not relabeling tty.\n"
+msgstr ""
+
+msgid "%s!  Could not get new context for %s, not relabeling tty.\n"
+msgstr ""
+
+msgid "%s!  Could not set new context for %s\n"
+msgstr ""
+
+msgid "%s:  Can't load policy and enforcing mode requested:  %s\n"
+msgstr ""
+
+msgid "%s:  Can't load policy:  %s\n"
+msgstr ""
+
+msgid "%s:  Policy is already loaded and initial load requested\n"
+msgstr ""
+
+msgid "******************** IMPORTANT ***********************\n"
+msgstr ""
+
+msgid "..."
+msgstr "\"...\""
+
+msgid "600-1024"
+msgstr ""
+
+msgid "<b>Add booleans from the %s policy:</b>"
+msgstr ""
+
+msgid "<b>Add files/directories that %s manages</b>"
+msgstr ""
+
+msgid "<b>Applications</b>"
+msgstr ""
+
+msgid "<b>Enter name of application or user role:</b>"
+msgstr ""
+
+msgid "<b>Enter network ports that %s binds on:</b>"
+msgstr ""
+
+msgid "<b>Login Users</b>"
+msgstr ""
+
+msgid "<b>Root Users</b>"
+msgstr ""
+
+msgid "<b>Select additional roles for %s:</b>"
+msgstr ""
+
+msgid "<b>Select common application traits for %s:</b>"
+msgstr ""
+
+msgid "<b>Select domains that %s will administer:</b>"
+msgstr ""
+
+msgid "<b>Select existing role to modify:</b>"
+msgstr ""
+
+msgid "<b>Select network ports that %s connects to:</b>"
+msgstr ""
+
+msgid "<b>Select roles that %s will transition to:</b>"
+msgstr ""
+
+msgid ""
+"<b>Select the policy type for the application or user role you want to "
+"confine:</b>"
+msgstr ""
+
+msgid "<b>Select the user_roles that will transition to %s:</b>"
+msgstr ""
+
+msgid "<b>Select:</b>"
+msgstr ""
+
+msgid "<b>TCP Ports</b>"
+msgstr ""
+
+msgid "<b>UDP Ports</b>"
+msgstr ""
+
+msgid "<b>Which directory you will generate the %s policy?</b>"
+msgstr ""
+
+msgid "Add"
+msgstr "གསར་བཟོ།"
+
+msgid "Add %s"
+msgstr ""
+
+msgid "Add Booleans Dialog"
+msgstr ""
+
+msgid "Add File Context"
+msgstr ""
+
+msgid "Add Network Port"
+msgstr ""
+
+msgid "Add SELinux Login Mapping"
+msgstr ""
+
+msgid "Add SELinux Network Ports"
+msgstr ""
+
+msgid "Add SELinux User"
+msgstr ""
+
+msgid "Add SELinux User Mapping"
+msgstr ""
+
+msgid "Add User"
+msgstr ""
+
+msgid "Add/Remove booleans used by the %s domain"
+msgstr ""
+
+msgid "Addr %s is defined in policy, cannot be deleted"
+msgstr ""
+
+msgid "Addr %s is not defined"
+msgstr ""
+
+msgid "Admin User Role"
+msgstr ""
+
+msgid "Administrator Login User Role"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All domains"
+msgstr ""
+
+msgid "Allow %s to call bindresvport with 0. Binding to port 600-1024"
+msgstr ""
+
+msgid ""
+"Allow ABRT to modify public files used for public file transfer services."
+msgstr ""
+
+msgid ""
+"Allow ABRT to run in abrt_handle_event_t domain to handle ABRT event scripts"
+msgstr ""
+
+msgid "Allow Apache to communicate with avahi service via dbus"
+msgstr ""
+
+msgid "Allow Apache to execute tmp content."
+msgstr ""
+
+msgid ""
+"Allow Apache to modify public files used for public file transfer services. "
+"Directories/Files must be labeled public_content_rw_t."
+msgstr ""
+
+msgid "Allow Apache to query NS records"
+msgstr ""
+
+msgid "Allow Apache to run in stickshift mode, not transition to passenger"
+msgstr ""
+
+msgid "Allow Apache to use mod_auth_ntlm_winbind"
+msgstr ""
+
+msgid "Allow Apache to use mod_auth_pam"
+msgstr ""
+
+msgid ""
+"Allow HTTPD scripts and modules to connect to cobbler over the network."
+msgstr ""
+
+msgid ""
+"Allow HTTPD scripts and modules to connect to databases over the network."
+msgstr ""
+
+msgid "Allow HTTPD scripts and modules to connect to the network using TCP."
+msgstr ""
+
+msgid "Allow HTTPD to connect to port 80 for graceful shutdown"
+msgstr ""
+
+msgid ""
+"Allow HTTPD to run SSI executables in the same domain as system CGI scripts."
+msgstr ""
+
+msgid "Allow Puppet client to manage all file types."
+msgstr ""
+
+msgid "Allow Puppet master to use connect to MySQL and PostgreSQL database"
+msgstr ""
+
+msgid ""
+"Allow ZoneMinder to modify public files used for public file transfer "
+"services."
+msgstr ""
+
+msgid "Allow a user to login as an unconfined domain"
+msgstr ""
+
+msgid "Allow all daemons the ability to read/write terminals"
+msgstr ""
+
+msgid "Allow all daemons to use tcp wrappers."
+msgstr ""
+
+msgid "Allow all daemons to write corefiles to /"
+msgstr ""
+
+msgid "Allow all domains to execute in fips_mode"
+msgstr ""
+
+msgid "Allow all domains to have the kernel load modules"
+msgstr ""
+
+msgid "Allow all domains to use other domains file descriptors"
+msgstr ""
+
+msgid ""
+"Allow all unconfined executables to use libraries requiring text relocation "
+"that are not labeled textrel_shlib_t"
+msgstr ""
+
+msgid "Allow antivirus programs to read non security files on a system"
+msgstr ""
+
+msgid "Allow any files/directories to be exported read/only via NFS."
+msgstr ""
+
+msgid "Allow any files/directories to be exported read/write via NFS."
+msgstr ""
+
+msgid ""
+"Allow apache scripts to write to public content, directories/files must be "
+"labeled public_rw_content_t."
+msgstr ""
+
+msgid "Allow auditadm to exec content"
+msgstr ""
+
+msgid ""
+"Allow cluster administrative cluster domains memcheck-amd64- to use "
+"executable memory"
+msgstr ""
+
+msgid ""
+"Allow cluster administrative domains to connect to the network using TCP."
+msgstr ""
+
+msgid "Allow cluster administrative domains to manage all files on a system."
+msgstr ""
+
+msgid "Allow confined applications to run with kerberos."
+msgstr ""
+
+msgid "Allow confined applications to use nscd shared memory."
+msgstr ""
+
+msgid ""
+"Allow confined users the ability to execute the ping and traceroute "
+"commands."
+msgstr ""
+
+msgid "Allow confined virtual guests to interact with rawip sockets"
+msgstr ""
+
+msgid "Allow confined virtual guests to interact with the sanlock"
+msgstr ""
+
+msgid "Allow confined virtual guests to interact with the xserver"
+msgstr ""
+
+msgid "Allow confined virtual guests to manage cifs files"
+msgstr ""
+
+msgid "Allow confined virtual guests to manage nfs files"
+msgstr ""
+
+msgid "Allow confined virtual guests to read fuse files"
+msgstr ""
+
+msgid ""
+"Allow confined virtual guests to use executable memory and executable stack"
+msgstr ""
+
+msgid ""
+"Allow confined virtual guests to use serial/parallel communication ports"
+msgstr ""
+
+msgid "Allow confined virtual guests to use usb devices"
+msgstr ""
+
+msgid "Allow confined web browsers to read home directory content"
+msgstr ""
+
+msgid "Allow database admins to execute DML statement"
+msgstr ""
+
+msgid "Allow dhcpc client applications to execute iptables commands"
+msgstr ""
+
+msgid ""
+"Allow glusterfsd to modify public files used for public file transfer "
+"services.  Files/Directories must be labeled public_content_rw_t."
+msgstr ""
+
+msgid "Allow glusterfsd to share any file/directory read only."
+msgstr ""
+
+msgid "Allow glusterfsd to share any file/directory read/write."
+msgstr ""
+
+msgid ""
+"Allow gpg web domain to modify public files used for public file transfer "
+"services."
+msgstr ""
+
+msgid "Allow guest to exec content"
+msgstr ""
+
+msgid "Allow http daemon to check spam"
+msgstr ""
+
+msgid "Allow http daemon to connect to zabbix"
+msgstr ""
+
+msgid "Allow http daemon to send mail"
+msgstr ""
+
+msgid "Allow httpd cgi support"
+msgstr ""
+
+msgid "Allow httpd daemon to change its resource limits"
+msgstr ""
+
+msgid "Allow httpd processes to manage IPA content"
+msgstr ""
+
+msgid "Allow httpd scripts and modules execmem/execstack"
+msgstr ""
+
+msgid "Allow httpd to access FUSE file systems"
+msgstr ""
+
+msgid "Allow httpd to access cifs file systems"
+msgstr ""
+
+msgid "Allow httpd to access nfs file systems"
+msgstr ""
+
+msgid "Allow httpd to access openstack ports"
+msgstr ""
+
+msgid ""
+"Allow httpd to act as a FTP client connecting to the ftp port and ephemeral "
+"ports"
+msgstr ""
+
+msgid "Allow httpd to act as a FTP server by listening on the ftp port."
+msgstr ""
+
+msgid "Allow httpd to act as a relay"
+msgstr ""
+
+msgid "Allow httpd to connect to memcache server"
+msgstr ""
+
+msgid "Allow httpd to connect to the ldap port"
+msgstr ""
+
+msgid "Allow httpd to read home directories"
+msgstr ""
+
+msgid "Allow httpd to read user content"
+msgstr ""
+
+msgid "Allow httpd to run gpg"
+msgstr ""
+
+msgid "Allow httpd to use built in scripting (usually php)"
+msgstr ""
+
+msgid "Allow ksmtuned to use cifs/Samba file systems"
+msgstr ""
+
+msgid "Allow ksmtuned to use nfs file systems"
+msgstr ""
+
+msgid "Allow logging in and using the system from /dev/console."
+msgstr ""
+
+msgid "Allow mailman to access FUSE file systems"
+msgstr ""
+
+msgid "Allow mock to read files in home directories."
+msgstr ""
+
+msgid "Allow mozilla plugin domain to connect to the network using TCP."
+msgstr ""
+
+msgid "Allow mysqld to connect to all ports"
+msgstr ""
+
+msgid ""
+"Allow nfs servers to modify public files used for public file transfer "
+"services.  Files/Directories must be labeled public_content_rw_t."
+msgstr ""
+
+msgid "Allow openshift to lockdown app"
+msgstr ""
+
+msgid "Allow piranha-lvs domain to connect to the network using TCP."
+msgstr ""
+
+msgid "Allow polipo to connect to all ports > 1023"
+msgstr ""
+
+msgid "Allow postfix_local domain full write access to mail_spool directories"
+msgstr ""
+
+msgid "Allow postgresql to use ssh and rsync for point-in-time recovery"
+msgstr ""
+
+msgid "Allow pppd to be run for a regular user"
+msgstr ""
+
+msgid "Allow pppd to load kernel modules for certain modems"
+msgstr ""
+
+msgid "Allow racoon to read shadow"
+msgstr ""
+
+msgid "Allow regular users direct dri device access"
+msgstr ""
+
+msgid "Allow rsync server to manage all files/directories on the system."
+msgstr ""
+
+msgid "Allow rsync to export any files/directories read only."
+msgstr ""
+
+msgid ""
+"Allow rsync to modify public files used for public file transfer services.  "
+"Files/Directories must be labeled public_content_rw_t."
+msgstr ""
+
+msgid "Allow rsync to run as a client"
+msgstr ""
+
+msgid "Allow samba to act as a portmapper"
+msgstr ""
+
+msgid ""
+"Allow samba to act as the domain controller, add users, groups and change "
+"passwords."
+msgstr ""
+
+msgid "Allow samba to create new home directories (e.g. via PAM)"
+msgstr ""
+
+msgid "Allow samba to export NFS volumes."
+msgstr ""
+
+msgid "Allow samba to export ntfs/fusefs volumes."
+msgstr ""
+
+msgid ""
+"Allow samba to modify public files used for public file transfer services.  "
+"Files/Directories must be labeled public_content_rw_t."
+msgstr ""
+
+msgid "Allow samba to run unconfined scripts"
+msgstr ""
+
+msgid "Allow samba to share any file/directory read only."
+msgstr ""
+
+msgid "Allow samba to share any file/directory read/write."
+msgstr ""
+
+msgid "Allow samba to share users home directories."
+msgstr ""
+
+msgid "Allow sanlock to manage cifs files"
+msgstr ""
+
+msgid "Allow sanlock to manage nfs files"
+msgstr ""
+
+msgid "Allow sanlock to read/write fuse files"
+msgstr ""
+
+msgid "Allow sasl to read shadow"
+msgstr ""
+
+msgid "Allow secadm to exec content"
+msgstr ""
+
+msgid "Allow sge to access nfs file systems."
+msgstr ""
+
+msgid "Allow sge to connect to the network using any TCP port"
+msgstr ""
+
+msgid "Allow spamd to read/write user home directories."
+msgstr ""
+
+msgid "Allow ssh logins as sysadm_r:sysadm_t"
+msgstr ""
+
+msgid ""
+"Allow ssh with chroot env to read and write files in the user home "
+"directories"
+msgstr ""
+
+msgid "Allow staff to exec content"
+msgstr ""
+
+msgid "Allow sysadm to exec content"
+msgstr ""
+
+msgid "Allow syslogd daemon to send mail"
+msgstr ""
+
+msgid "Allow syslogd the ability to read/write terminals"
+msgstr ""
+
+msgid ""
+"Allow system cron jobs to relabel filesystem for restoring file contexts."
+msgstr ""
+
+msgid "Allow system to run with NIS"
+msgstr ""
+
+msgid ""
+"Allow tftp to modify public files used for public file transfer services."
+msgstr ""
+
+msgid "Allow tftp to read and write files in the user home directories"
+msgstr ""
+
+msgid ""
+"Allow the Irssi IRC Client to connect to any port, and to bind to any "
+"unreserved port."
+msgstr ""
+
+msgid ""
+"Allow the Telepathy connection managers to connect to any generic TCP port."
+msgstr ""
+
+msgid ""
+"Allow the Telepathy connection managers to connect to any network port."
+msgstr ""
+
+msgid "Allow the graphical login program to execute bootloader"
+msgstr ""
+
+msgid ""
+"Allow the graphical login program to login directly as sysadm_r:sysadm_t"
+msgstr ""
+
+msgid "Allow tor to act as a relay"
+msgstr ""
+
+msgid "Allow transmit client label to foreign database"
+msgstr ""
+
+msgid ""
+"Allow unconfined executables to make their heap memory executable.  Doing "
+"this is a really bad idea. Probably indicates a badly coded executable, but "
+"could indicate an attack. This executable should be reported in bugzilla"
+msgstr ""
+
+msgid ""
+"Allow unconfined executables to make their stack executable.  This should "
+"never, ever be necessary. Probably indicates a badly coded executable, but "
+"could indicate an attack. This executable should be reported in bugzilla"
+msgstr ""
+
+msgid ""
+"Allow unconfined users to transition to the Mozilla plugin domain when "
+"running xulrunner plugin-container."
+msgstr ""
+
+msgid "Allow unprivileged users to execute DDL statement"
+msgstr ""
+
+msgid "Allow unprivledged user to create and transition to svirt domains."
+msgstr ""
+
+msgid ""
+"Allow usage of the gpg-agent --write-env-file option. This also allows gpg-"
+"agent to manage user files."
+msgstr ""
+
+msgid "Allow user  to use ssh chroot environment."
+msgstr ""
+
+msgid "Allow user music sharing"
+msgstr ""
+
+msgid "Allow user spamassassin clients to use the network."
+msgstr ""
+
+msgid "Allow user to exec content"
+msgstr ""
+
+msgid ""
+"Allow user to r/w files on filesystems that do not have extended attributes "
+"(FAT, CDROM, FLOPPY)"
+msgstr ""
+
+msgid "Allow users to connect to PostgreSQL"
+msgstr ""
+
+msgid "Allow users to connect to the local mysql server"
+msgstr ""
+
+msgid "Allow users to login using a radius server"
+msgstr ""
+
+msgid "Allow users to login using a yubikey  server"
+msgstr ""
+
+msgid ""
+"Allow users to resolve user passwd entries directly from ldap rather then "
+"using a sssd server"
+msgstr ""
+
+msgid ""
+"Allow users to run TCP servers (bind to ports and accept connection from the"
+" same domain and outside users)  disabling this forces FTP passive mode and "
+"may change other protocols."
+msgstr ""
+
+msgid "Allow xen to manage nfs files"
+msgstr ""
+
+msgid ""
+"Allow xend to run blktapctrl/tapdisk. Not required if using dedicated "
+"logical volumes for disk images."
+msgstr ""
+
+msgid "Allow xend to run qemu-dm. Not required if using paravirt and no vfb."
+msgstr ""
+
+msgid "Allow xguest to exec content"
+msgstr ""
+
+msgid "Allow xguest to use blue tooth devices"
+msgstr ""
+
+msgid ""
+"Allow xguest users to configure Network Manager and connect to apache ports"
+msgstr ""
+
+msgid "Allow xguest users to mount removable media"
+msgstr ""
+
+msgid "Allow zebra daemon to write it configuration files"
+msgstr ""
+
+msgid "Allows %s to bind to any udp port"
+msgstr ""
+
+msgid "Allows %s to bind to any udp ports > 1024"
+msgstr ""
+
+msgid "Allows %s to connect to any tcp port"
+msgstr ""
+
+msgid "Allows %s to connect to any udp port"
+msgstr ""
+
+msgid "Allows XServer to execute writable memory"
+msgstr ""
+
+msgid "Allows clients to write to the X server shared memory segments."
+msgstr ""
+
+msgid "Alternate SELinux policy, defaults to /sys/fs/selinux/policy"
+msgstr ""
+
+msgid "Alternate root directory, defaults to /"
+msgstr ""
+
+msgid "Application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid "Are you sure you want to delete %s '%s'?"
+msgstr ""
+
+msgid "Bad format %s: Record %s"
+msgstr ""
+
+msgid "Boolean"
+msgstr ""
+
+msgid "Boolean %s is defined in policy, cannot be deleted"
+msgstr ""
+
+msgid "Boolean %s is not defined"
+msgstr ""
+
+msgid "Boolean Name"
+msgstr ""
+
+msgid ""
+"Boolean to determine whether the system permits loading policy, setting "
+"enforcing mode, and changing boolean values.  Set this to true and you have "
+"to reboot to set it back."
+msgstr ""
+
+msgid "Builtin Permissive Types"
+msgstr ""
+
+msgid "Can not combine +/- with other types of categories"
+msgstr ""
+
+msgid "Can not have multiple sensitivities"
+msgstr ""
+
+msgid "Can not modify sensitivity levels using '+' on %s"
+msgstr ""
+
+msgid "Cannot find your entry in the shadow passwd file.\n"
+msgstr ""
+
+msgid "Cannot read policy store."
+msgstr ""
+
+msgid "Change process mode to enforcing"
+msgstr ""
+
+msgid "Change process mode to permissive."
+msgstr ""
+
+msgid ""
+"Changing the policy type will cause a relabel of the entire file system on "
+"the next boot. Relabeling takes a long time depending on the size of the "
+"file system.  Do you wish to continue?"
+msgstr ""
+
+msgid ""
+"Changing to SELinux disabled requires a reboot.  It is not recommended.  If "
+"you later decide to turn SELinux back on, the system will be required to "
+"relabel.  If you just want to see if SELinux is causing a problem on your "
+"system, you can go to permissive mode which will only log errors and not "
+"enforce SELinux policy.  Permissive mode does not require a reboot    Do you"
+" wish to continue?"
+msgstr ""
+
+msgid ""
+"Changing to SELinux enabled will cause a relabel of the entire file system "
+"on the next boot. Relabeling takes a long time depending on the size of the "
+"file system.  Do you wish to continue?"
+msgstr ""
+
+msgid "Command required for this type of policy"
+msgstr ""
+
+msgid "Configue SELinux"
+msgstr ""
+
+msgid "Confined Root Administrator Role"
+msgstr ""
+
+msgid "Context"
+msgstr "ཁོར་ཡུག"
+
+msgid ""
+"Control the ability to mmap a low area of the address space, as configured "
+"by /proc/sys/kernel/mmap_min_addr."
+msgstr ""
+
+msgid ""
+"Copyright (c)2006 Red Hat, Inc.\n"
+"Copyright (c) 2006 Dan Walsh <dwalsh@redhat.com>"
+msgstr ""
+
+msgid "Could not add SELinux user %s"
+msgstr ""
+
+msgid "Could not add addr %s"
+msgstr ""
+
+msgid "Could not add file context for %s"
+msgstr ""
+
+msgid "Could not add interface %s"
+msgstr ""
+
+msgid "Could not add login mapping for %s"
+msgstr ""
+
+msgid "Could not add port %s/%s"
+msgstr ""
+
+msgid "Could not add prefix %s for %s"
+msgstr ""
+
+msgid "Could not add role %s for %s"
+msgstr ""
+
+msgid "Could not check if SELinux user %s is defined"
+msgstr ""
+
+msgid "Could not check if addr %s is defined"
+msgstr ""
+
+msgid "Could not check if boolean %s is defined"
+msgstr ""
+
+msgid "Could not check if file context for %s is defined"
+msgstr ""
+
+msgid "Could not check if interface %s is defined"
+msgstr ""
+
+msgid "Could not check if login mapping for %s is defined"
+msgstr ""
+
+msgid "Could not check if port %s/%s is defined"
+msgstr ""
+
+msgid "Could not close descriptors.\n"
+msgstr ""
+
+msgid "Could not commit semanage transaction"
+msgstr ""
+
+msgid "Could not create SELinux user for %s"
+msgstr ""
+
+msgid "Could not create a key for %s"
+msgstr ""
+
+msgid "Could not create a key for %s/%s"
+msgstr ""
+
+msgid "Could not create addr for %s"
+msgstr ""
+
+msgid "Could not create context for %s"
+msgstr ""
+
+msgid "Could not create context for %s/%s"
+msgstr ""
+
+msgid "Could not create file context for %s"
+msgstr ""
+
+msgid "Could not create interface for %s"
+msgstr ""
+
+msgid "Could not create key for %s"
+msgstr ""
+
+msgid "Could not create login mapping for %s"
+msgstr ""
+
+msgid "Could not create port for %s/%s"
+msgstr ""
+
+msgid "Could not create semanage handle"
+msgstr ""
+
+msgid "Could not delete SELinux user %s"
+msgstr ""
+
+msgid "Could not delete addr %s"
+msgstr ""
+
+msgid "Could not delete all interface  mappings"
+msgstr ""
+
+msgid "Could not delete boolean %s"
+msgstr ""
+
+msgid "Could not delete file context for %s"
+msgstr ""
+
+msgid "Could not delete interface %s"
+msgstr ""
+
+msgid "Could not delete login mapping for %s"
+msgstr ""
+
+msgid "Could not delete port %s/%s"
+msgstr ""
+
+msgid "Could not delete the file context %s"
+msgstr ""
+
+msgid "Could not delete the port %s"
+msgstr ""
+
+msgid "Could not deleteall node mappings"
+msgstr ""
+
+msgid "Could not determine enforcing mode.\n"
+msgstr ""
+
+msgid "Could not disable module %s (remove failed)"
+msgstr ""
+
+msgid "Could not enable module %s (remove failed)"
+msgstr ""
+
+msgid "Could not establish semanage connection"
+msgstr ""
+
+msgid "Could not extract key for %s"
+msgstr ""
+
+msgid "Could not list SELinux modules"
+msgstr ""
+
+msgid "Could not list SELinux users"
+msgstr ""
+
+msgid "Could not list addrs"
+msgstr ""
+
+msgid "Could not list booleans"
+msgstr ""
+
+msgid "Could not list file contexts"
+msgstr ""
+
+msgid "Could not list interfaces"
+msgstr ""
+
+msgid "Could not list local file contexts"
+msgstr ""
+
+msgid "Could not list login mappings"
+msgstr ""
+
+msgid "Could not list ports"
+msgstr ""
+
+msgid "Could not list roles for user %s"
+msgstr ""
+
+msgid "Could not list the file contexts"
+msgstr ""
+
+msgid "Could not list the ports"
+msgstr ""
+
+msgid "Could not modify SELinux user %s"
+msgstr ""
+
+msgid "Could not modify addr %s"
+msgstr ""
+
+msgid "Could not modify boolean %s"
+msgstr ""
+
+msgid "Could not modify file context for %s"
+msgstr ""
+
+msgid "Could not modify interface %s"
+msgstr ""
+
+msgid "Could not modify login mapping for %s"
+msgstr ""
+
+msgid "Could not modify port %s/%s"
+msgstr ""
+
+msgid "Could not open file %s\n"
+msgstr ""
+
+msgid "Could not query addr %s"
+msgstr ""
+
+msgid "Could not query file context %s"
+msgstr ""
+
+msgid "Could not query file context for %s"
+msgstr ""
+
+msgid "Could not query interface %s"
+msgstr ""
+
+msgid "Could not query port %s/%s"
+msgstr ""
+
+msgid "Could not query seuser for %s"
+msgstr ""
+
+msgid "Could not query user for %s"
+msgstr ""
+
+msgid "Could not remove module %s (remove failed)"
+msgstr ""
+
+msgid "Could not remove permissive domain %s (remove failed)"
+msgstr ""
+
+msgid "Could not set MLS level for %s"
+msgstr ""
+
+msgid "Could not set MLS range for %s"
+msgstr ""
+
+msgid "Could not set SELinux user for %s"
+msgstr ""
+
+msgid "Could not set active value of boolean %s"
+msgstr ""
+
+msgid "Could not set addr context for %s"
+msgstr ""
+
+msgid "Could not set exec context to %s.\n"
+msgstr ""
+
+msgid "Could not set file context for %s"
+msgstr ""
+
+msgid "Could not set interface context for %s"
+msgstr ""
+
+msgid "Could not set mask for %s"
+msgstr ""
+
+msgid "Could not set message context for %s"
+msgstr ""
+
+msgid "Could not set mls fields in addr context for %s"
+msgstr ""
+
+msgid "Could not set mls fields in file context for %s"
+msgstr ""
+
+msgid "Could not set mls fields in interface context for %s"
+msgstr ""
+
+msgid "Could not set mls fields in port context for %s/%s"
+msgstr ""
+
+msgid "Could not set name for %s"
+msgstr ""
+
+msgid "Could not set permissive domain %s (module installation failed)"
+msgstr ""
+
+msgid "Could not set port context for %s/%s"
+msgstr ""
+
+msgid "Could not set role in addr context for %s"
+msgstr ""
+
+msgid "Could not set role in file context for %s"
+msgstr ""
+
+msgid "Could not set role in interface context for %s"
+msgstr ""
+
+msgid "Could not set role in port context for %s/%s"
+msgstr ""
+
+msgid "Could not set type in addr context for %s"
+msgstr ""
+
+msgid "Could not set type in file context for %s"
+msgstr ""
+
+msgid "Could not set type in interface context for %s"
+msgstr ""
+
+msgid "Could not set type in port context for %s/%s"
+msgstr ""
+
+msgid "Could not set user in addr context for %s"
+msgstr ""
+
+msgid "Could not set user in file context for %s"
+msgstr ""
+
+msgid "Could not set user in interface context for %s"
+msgstr ""
+
+msgid "Could not set user in port context for %s/%s"
+msgstr ""
+
+msgid "Could not start semanage transaction"
+msgstr ""
+
+msgid "Could not test MLS enabled status"
+msgstr ""
+
+msgid "Couldn't get default type.\n"
+msgstr ""
+
+msgid "Create/Manipulate temporary files in /tmp"
+msgstr ""
+
+msgid "Current Enforcing Mode"
+msgstr ""
+
+msgid "Customized"
+msgstr "མཚན་ཉིད་རང་འཇོག"
+
+msgid "Customized Permissive Types"
+msgstr ""
+
+msgid "DBUS System Daemon"
+msgstr ""
+
+msgid "Default"
+msgstr "སོར་བཞག"
+
+msgid "Delete %s"
+msgstr "%s འདོར་བ།"
+
+msgid "Delete File Context"
+msgstr ""
+
+msgid "Delete Network Port"
+msgstr ""
+
+msgid "Delete SELinux User Mapping"
+msgstr ""
+
+msgid "Delete User"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
+
+msgid ""
+"Deny user domains applications to map a memory region as both executable and"
+" writable, this is dangerous and the executable should be reported in "
+"bugzilla"
+msgstr ""
+
+msgid "Description"
+msgstr "ཞིབ་བརྗོད།"
+
+msgid "Desktop Login User Role"
+msgstr ""
+
+msgid "Determine whether Bind can bind tcp socket to http ports."
+msgstr ""
+
+msgid ""
+"Determine whether Bind can write to master zone files. Generally this is "
+"used for dynamic DNS or zone transfers."
+msgstr ""
+
+msgid "Determine whether Cobbler can access cifs file systems."
+msgstr ""
+
+msgid "Determine whether Cobbler can access nfs file systems."
+msgstr ""
+
+msgid "Determine whether Cobbler can connect to the network using TCP."
+msgstr ""
+
+msgid ""
+"Determine whether Cobbler can modify public files used for public file "
+"transfer services."
+msgstr ""
+
+msgid "Determine whether Condor can connect to the network using TCP."
+msgstr ""
+
+msgid "Determine whether DHCP daemon can use LDAP backends."
+msgstr ""
+
+msgid "Determine whether Git CGI can access cifs file systems."
+msgstr ""
+
+msgid "Determine whether Git CGI can access nfs file systems."
+msgstr ""
+
+msgid "Determine whether Git CGI can search home directories."
+msgstr ""
+
+msgid ""
+"Determine whether Git session daemon can bind TCP sockets to all unreserved "
+"ports."
+msgstr ""
+
+msgid "Determine whether Git system daemon can access cifs file systems."
+msgstr ""
+
+msgid "Determine whether Git system daemon can access nfs file systems."
+msgstr ""
+
+msgid "Determine whether Git system daemon can search home directories."
+msgstr ""
+
+msgid "Determine whether Gitosis can send mail."
+msgstr ""
+
+msgid "Determine whether Polipo can access nfs file systems."
+msgstr ""
+
+msgid ""
+"Determine whether Polipo session daemon can bind tcp sockets to all "
+"unreserved ports."
+msgstr ""
+
+msgid ""
+"Determine whether attempts by vbetool to mmap low regions should be silently"
+" blocked."
+msgstr ""
+
+msgid ""
+"Determine whether attempts by wine to mmap low regions should be silently "
+"blocked."
+msgstr ""
+
+msgid "Determine whether awstats can purge httpd log files."
+msgstr ""
+
+msgid ""
+"Determine whether calling user domains can execute Git daemon in the "
+"git_session_t domain."
+msgstr ""
+
+msgid ""
+"Determine whether calling user domains can execute Polipo daemon in the "
+"polipo_session_t domain."
+msgstr ""
+
+msgid "Determine whether can antivirus programs use JIT compiler."
+msgstr ""
+
+msgid ""
+"Determine whether cdrecord can read various content. nfs, samba, removable "
+"devices, user temp and untrusted content files"
+msgstr ""
+
+msgid "Determine whether collectd can connect to the network using TCP."
+msgstr ""
+
+msgid "Determine whether cvs can read shadow password files."
+msgstr ""
+
+msgid "Determine whether dbadm can manage generic user files."
+msgstr ""
+
+msgid "Determine whether dbadm can read generic user files."
+msgstr ""
+
+msgid ""
+"Determine whether entropyd can use audio devices as the source for the "
+"entropy feeds."
+msgstr ""
+
+msgid "Determine whether exim can connect to databases."
+msgstr ""
+
+msgid ""
+"Determine whether exim can create, read, write, and delete generic user "
+"content files."
+msgstr ""
+
+msgid "Determine whether exim can read generic user content files."
+msgstr ""
+
+msgid "Determine whether fenced can connect to the TCP network."
+msgstr ""
+
+msgid "Determine whether fenced can use ssh."
+msgstr ""
+
+msgid ""
+"Determine whether ftpd can bind to all unreserved ports for passive mode."
+msgstr ""
+
+msgid "Determine whether ftpd can connect to all unreserved ports."
+msgstr ""
+
+msgid "Determine whether ftpd can connect to databases over the TCP network."
+msgstr ""
+
+msgid ""
+"Determine whether ftpd can login to local users and can read and write all "
+"files on the system, governed by DAC."
+msgstr ""
+
+msgid ""
+"Determine whether ftpd can modify public files used for public file transfer"
+" services. Directories/Files must be labeled public_content_rw_t."
+msgstr ""
+
+msgid ""
+"Determine whether ftpd can read and write files in user home directories."
+msgstr ""
+
+msgid ""
+"Determine whether ftpd can use CIFS used for public file transfer services."
+msgstr ""
+
+msgid ""
+"Determine whether ftpd can use NFS used for public file transfer services."
+msgstr ""
+
+msgid "Determine whether icecast can listen on and connect to any TCP port."
+msgstr ""
+
+msgid ""
+"Determine whether irc clients can listen on and connect to any unreserved "
+"TCP ports."
+msgstr ""
+
+msgid "Determine whether mcelog can execute scripts."
+msgstr ""
+
+msgid "Determine whether mcelog can use all the user ttys."
+msgstr ""
+
+msgid "Determine whether mcelog supports client mode."
+msgstr ""
+
+msgid "Determine whether mcelog supports server mode."
+msgstr ""
+
+msgid "Determine whether mpd can traverse user home directories."
+msgstr ""
+
+msgid "Determine whether mpd can use cifs file systems."
+msgstr ""
+
+msgid "Determine whether mpd can use nfs file systems."
+msgstr ""
+
+msgid "Determine whether mplayer can make its stack executable."
+msgstr ""
+
+msgid "Determine whether openvpn can read generic user home content files."
+msgstr ""
+
+msgid "Determine whether polipo can access cifs file systems."
+msgstr ""
+
+msgid "Determine whether privoxy can connect to all tcp ports."
+msgstr ""
+
+msgid ""
+"Determine whether sftpd can modify public files used for public file "
+"transfer services. Directories/Files must be labeled public_content_rw_t."
+msgstr ""
+
+msgid ""
+"Determine whether sftpd can read and write files in user ssh home "
+"directories."
+msgstr ""
+
+msgid ""
+"Determine whether sftpd-can login to local users and read and write all "
+"files on the system, governed by DAC."
+msgstr ""
+
+msgid ""
+"Determine whether sftpd-can read and write files in user home directories."
+msgstr ""
+
+msgid "Determine whether smartmon can support devices on 3ware controllers."
+msgstr ""
+
+msgid "Determine whether squid can connect to all TCP ports."
+msgstr ""
+
+msgid "Determine whether squid can run as a transparent proxy."
+msgstr ""
+
+msgid "Determine whether to support lpd server."
+msgstr ""
+
+msgid "Determine whether tor can bind tcp sockets to all unreserved ports."
+msgstr ""
+
+msgid "Determine whether varnishd can use the full TCP network."
+msgstr ""
+
+msgid "Determine whether webadm can manage generic user files."
+msgstr ""
+
+msgid "Determine whether webadm can read generic user files."
+msgstr ""
+
+msgid "Determine whether zabbix can connect to all TCP ports"
+msgstr ""
+
+msgid "Disable Audit"
+msgstr ""
+
+msgid "Disable kernel module loading."
+msgstr ""
+
+msgid "Disabled"
+msgstr "བཀག་པ།"
+
+msgid ""
+"Disabled\n"
+"Permissive\n"
+"Enforcing\n"
+msgstr ""
+
+msgid "Domain name(s) of man pages to be created"
+msgstr ""
+
+msgid "Edit Network Port"
+msgstr ""
+
+msgid "Enable Audit"
+msgstr ""
+
+msgid "Enable extra rules in the cron domain to support fcron."
+msgstr ""
+
+msgid "Enable polyinstantiated directory support."
+msgstr ""
+
+msgid "Enable reading of urandom for all domains."
+msgstr ""
+
+msgid ""
+"Enable/Disable additional audit rules, that are normally not reported in the"
+" log files."
+msgstr ""
+
+msgid "Enforcing"
+msgstr ""
+
+msgid "Enter SELinux user(s) which will transition to this domain"
+msgstr ""
+
+msgid ""
+"Enter a comma separated list of tcp ports or ranges of ports that %s "
+"connects to. Example: 612, 650-660"
+msgstr ""
+
+msgid ""
+"Enter a comma separated list of udp ports or ranges of ports that %s binds "
+"to. Example: 612, 650-660"
+msgstr ""
+
+msgid ""
+"Enter a comma separated list of udp ports or ranges of ports that %s "
+"connects to. Example: 612, 650-660"
+msgstr ""
+
+msgid "Enter complete path for executable to be confined."
+msgstr ""
+
+msgid ""
+"Enter complete path to init script used to start the confined application."
+msgstr ""
+
+msgid "Enter domain type which you will be extending"
+msgstr ""
+
+msgid "Enter unique name for the confined application or user role."
+msgstr ""
+
+msgid "Equivalence class for %s already exists"
+msgstr ""
+
+msgid "Equivalence class for %s does not exists"
+msgstr ""
+
+msgid "Error allocating memory.\n"
+msgstr ""
+
+msgid "Error allocating shell's argv0.\n"
+msgstr ""
+
+msgid "Error changing uid, aborting.\n"
+msgstr ""
+
+msgid "Error connecting to audit system.\n"
+msgstr ""
+
+msgid "Error resetting KEEPCAPS, aborting\n"
+msgstr ""
+
+msgid "Error sending audit message.\n"
+msgstr ""
+
+msgid "Error!  Could not clear O_NONBLOCK on %s\n"
+msgstr ""
+
+msgid "Error!  Could not open %s.\n"
+msgstr ""
+
+msgid "Error!  Shell is not valid.\n"
+msgstr ""
+
+msgid "Error: multiple levels specified\n"
+msgstr ""
+
+msgid "Error: multiple roles specified\n"
+msgstr ""
+
+msgid "Error: multiple types specified\n"
+msgstr ""
+
+msgid "Error: you are not allowed to change levels on a non secure terminal \n"
+msgstr ""
+
+msgid "Executable"
+msgstr ""
+
+msgid "Existing Domain Type"
+msgstr ""
+
+msgid "Existing User Roles"
+msgstr ""
+
+msgid "Existing_User"
+msgstr ""
+
+msgid "Failed to close tty properly\n"
+msgstr ""
+
+msgid "Failed to drop capabilities %m\n"
+msgstr ""
+
+msgid "Failed to read %s policy file"
+msgstr ""
+
+msgid "Failed to send audit message"
+msgstr ""
+
+msgid "Failed to transition to namespace\n"
+msgstr ""
+
+msgid ""
+"File\n"
+"Specification"
+msgstr ""
+
+msgid ""
+"File\n"
+"Type"
+msgstr ""
+
+msgid "File Contexts file"
+msgstr ""
+
+msgid "File Labeling"
+msgstr ""
+
+msgid "File Specification"
+msgstr ""
+
+msgid "File Type"
+msgstr "ཡིག་ཆའི་རིགས་གྲས།"
+
+msgid "File context for %s is defined in policy, cannot be deleted"
+msgstr ""
+
+msgid "File context for %s is not defined"
+msgstr ""
+
+msgid "File spec %s conflicts with equivalency rule '%s %s'"
+msgstr ""
+
+msgid ""
+"File spec %s conflicts with equivalency rule '%s %s'; Try adding '%s' "
+"instead"
+msgstr ""
+
+msgid "File specification can not include spaces"
+msgstr ""
+
+msgid ""
+"Files/Directories which the %s \"manages\". Pid Files, Log Files, /var/lib "
+"Files ..."
+msgstr ""
+
+msgid "Filter"
+msgstr "གནད་ཡིག"
+
+msgid "GPL"
+msgstr ""
+
+msgid "Generate '%s' policy"
+msgstr ""
+
+msgid "Generate '%s' policy "
+msgstr ""
+
+msgid "Generate HTML man pages structure for selected SELinux man page"
+msgstr ""
+
+msgid "Generate SELinux Policy module template"
+msgstr ""
+
+msgid "Generate SELinux man pages"
+msgstr ""
+
+msgid "Generate new policy module"
+msgstr ""
+
+msgid "Group View"
+msgstr ""
+
+msgid "Init script"
+msgstr ""
+
+msgid "Interacts with the terminal"
+msgstr ""
+
+msgid "Interface %s is defined in policy, cannot be deleted"
+msgstr ""
+
+msgid "Interface %s is not defined"
+msgstr ""
+
+msgid "Interface file"
+msgstr ""
+
+msgid "Internet Services Daemon"
+msgstr ""
+
+msgid "Internet Services Daemon (inetd)"
+msgstr ""
+
+msgid "Internet Services Daemon are daemons started by xinetd"
+msgstr ""
+
+msgid "Invalid Port"
+msgstr ""
+
+msgid "Invalid file specification"
+msgstr ""
+
+msgid "Labeling"
+msgstr ""
+
+msgid "Linux Group %s does not exist"
+msgstr ""
+
+msgid "Linux User %s does not exist"
+msgstr ""
+
+msgid "List SELinux Policy interfaces"
+msgstr ""
+
+msgid "List View"
+msgstr "རེའུ་མིག་མཐོང་རིས།"
+
+msgid "Load Policy Module"
+msgstr ""
+
+msgid "Load policy module"
+msgstr ""
+
+msgid ""
+"Login\n"
+"Name"
+msgstr ""
+
+msgid "Login '%s' is required"
+msgstr ""
+
+msgid "Login Name"
+msgstr ""
+
+msgid "Login mapping for %s is defined in policy, cannot be deleted"
+msgstr ""
+
+msgid "Login mapping for %s is not defined"
+msgstr ""
+
+msgid "MCS Level"
+msgstr ""
+
+msgid "MCS Range"
+msgstr ""
+
+msgid "MLS"
+msgstr ""
+
+msgid "MLS/"
+msgstr ""
+
+msgid ""
+"MLS/\n"
+"MCS Range"
+msgstr ""
+
+msgid ""
+"MLS/MCS\n"
+"Level"
+msgstr ""
+
+msgid "MLS/MCS Range"
+msgstr ""
+
+msgid "Minimal Terminal Login User Role"
+msgstr ""
+
+msgid "Minimal Terminal User Role"
+msgstr ""
+
+msgid "Minimal X Windows Login User Role"
+msgstr ""
+
+msgid "Minimal X Windows User Role"
+msgstr ""
+
+msgid "Modify %s"
+msgstr " %s བཟོ་བཅོས།"
+
+msgid "Modify File Context"
+msgstr ""
+
+msgid "Modify SELinux User Mapping"
+msgstr ""
+
+msgid "Modify User"
+msgstr ""
+
+msgid "Modify an existing login user record."
+msgstr ""
+
+msgid ""
+"Module %s.pp already loaded in current policy.\n"
+"Do you want to continue?"
+msgstr ""
+
+msgid "Module Name"
+msgstr ""
+
+msgid "Module information for a new type"
+msgstr ""
+
+msgid "Modules Name"
+msgstr ""
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid ""
+"Name must be alpha numberic with no spaces. Consider using option \"-n "
+"MODULENAME\""
+msgstr ""
+
+msgid ""
+"Network\n"
+"Bind tab"
+msgstr ""
+
+msgid "Network Port"
+msgstr ""
+
+msgid "No SELinux Policy installed"
+msgstr ""
+
+msgid "No context in file %s\n"
+msgstr ""
+
+msgid "Node Address is required"
+msgstr ""
+
+msgid "Not yet implemented"
+msgstr ""
+
+msgid "Only Daemon apps can use an init script.."
+msgstr ""
+
+msgid "Options Error %s "
+msgstr ""
+
+msgid "Out of memory!\n"
+msgstr ""
+
+msgid "Password:"
+msgstr "གསང་ཨང་།"
+
+msgid "Permissive"
+msgstr ""
+
+msgid "Policy Directory"
+msgstr ""
+
+msgid "Policy Module"
+msgstr ""
+
+msgid "Policy types which require a command"
+msgstr ""
+
+msgid "Port"
+msgstr "མཐུད་ཁ།"
+
+msgid "Port %s/%s already defined"
+msgstr ""
+
+msgid "Port %s/%s is defined in policy, cannot be deleted"
+msgstr ""
+
+msgid "Port %s/%s is not defined"
+msgstr ""
+
+msgid "Port Number"
+msgstr ""
+
+msgid "Port is required"
+msgstr ""
+
+msgid "Port number \"%s\" is not valid.  0 < PORT_NUMBER < 65536 "
+msgstr ""
+
+msgid "Ports must be numbers or ranges of numbers from 1 to %d "
+msgstr ""
+
+msgid "Prefix"
+msgstr "སྔོན་འཇུག"
+
+msgid "Process Domain"
+msgstr ""
+
+msgid "Proto"
+msgstr "གྲོས་མཐུན།"
+
+msgid "Protocol"
+msgstr "འཕྲིན་གཏོང་གྲོས་མཐུན།"
+
+msgid "Protocol udp or tcp is required"
+msgstr ""
+
+msgid "Query SELinux policy network information"
+msgstr ""
+
+msgid "Red Hat 2007"
+msgstr ""
+
+msgid "Relabel on next reboot."
+msgstr ""
+
+msgid "Remove loadable policy module"
+msgstr ""
+
+msgid "Requires at least one category"
+msgstr ""
+
+msgid "Requires prefix or roles"
+msgstr ""
+
+msgid "Requires prefix, roles, level or range"
+msgstr ""
+
+msgid "Requires setype"
+msgstr ""
+
+msgid "Requires setype or serange"
+msgstr ""
+
+msgid "Requires setype, serange or seuser"
+msgstr ""
+
+msgid "Requires seuser or serange"
+msgstr ""
+
+msgid "Revert boolean setting to system default"
+msgstr ""
+
+msgid "Role"
+msgstr "འཁྲབ་བྱའི་མི་སྣ།"
+
+msgid "Root Admin User Role"
+msgstr ""
+
+msgid ""
+"SELinux\n"
+"User"
+msgstr ""
+
+msgid "SELinux Administration"
+msgstr ""
+
+msgid "SELinux Interface"
+msgstr ""
+
+msgid "SELinux Policy Generation Tool"
+msgstr ""
+
+msgid ""
+"SELinux Port\n"
+"Type"
+msgstr ""
+
+msgid "SELinux Port Type"
+msgstr ""
+
+msgid "SELinux Roles"
+msgstr ""
+
+msgid "SELinux Type"
+msgstr ""
+
+msgid "SELinux Type is required"
+msgstr ""
+
+msgid "SELinux User"
+msgstr ""
+
+msgid "SELinux boolean"
+msgstr ""
+
+msgid "SELinux fcontext"
+msgstr ""
+
+msgid "SELinux node type is required"
+msgstr ""
+
+msgid "SELinux policy is not managed or store cannot be accessed."
+msgstr ""
+
+msgid "SELinux user %s is defined in policy, cannot be deleted"
+msgstr ""
+
+msgid "SELinux user %s is not defined"
+msgstr ""
+
+msgid "SELinux user '%s' is required"
+msgstr ""
+
+msgid "Sandbox"
+msgstr ""
+
+msgid "Select Management Object"
+msgstr ""
+
+msgid "Select Ports"
+msgstr ""
+
+msgid ""
+"Select Root Administrator User Role, if this user will be used to administer"
+" the machine while running as root.  This user will not be able to login to "
+"the system directly."
+msgstr ""
+
+msgid "Select applications domains that %s will transition to."
+msgstr ""
+
+msgid "Select directory to generate policy files in"
+msgstr ""
+
+msgid "Select directory(s) that the confined application owns and writes into"
+msgstr ""
+
+msgid "Select executable file to be confined."
+msgstr ""
+
+msgid "Select file(s) that confined application creates or writes"
+msgstr ""
+
+msgid ""
+"Select if you wish to relabel then entire file system on next reboot.  "
+"Relabeling can take a very long time, depending on the size of the system.  "
+"If you are changing policy types or going from disabled to enforcing, a "
+"relabel is required."
+msgstr ""
+
+msgid "Select init script file to be confined."
+msgstr ""
+
+msgid "Select the domains that you would like this user administer."
+msgstr ""
+
+msgid "Select the user roles that will transiton to the %s domain."
+msgstr ""
+
+msgid ""
+"Select the user roles that will transiton to this applications domains."
+msgstr ""
+
+msgid ""
+"Selinux\n"
+"File Type"
+msgstr ""
+
+msgid "Semanage transaction already in progress"
+msgstr ""
+
+msgid "Semanage transaction not in progress"
+msgstr ""
+
+msgid "Sends audit messages"
+msgstr ""
+
+msgid "Sends email"
+msgstr ""
+
+msgid "Service"
+msgstr "ཞབས་ཞུ།"
+
+msgid "Setup Script"
+msgstr ""
+
+msgid "Show ports defined for this SELinux type"
+msgstr ""
+
+msgid "Sorry, -l may be used with SELinux MLS support.\n"
+msgstr ""
+
+msgid "Sorry, newrole failed to drop capabilities\n"
+msgstr ""
+
+msgid "Sorry, newrole may be used only on a SELinux kernel.\n"
+msgstr ""
+
+msgid "Sorry, run_init may be used only on a SELinux kernel.\n"
+msgstr ""
+
+msgid "Source Domain"
+msgstr ""
+
+msgid "Spec file"
+msgstr ""
+
+msgid "Standard Init Daemon"
+msgstr ""
+
+msgid ""
+"Standard Init Daemon are daemons started on boot via init scripts.  Usually "
+"requires a script in /etc/rc.d/init.d"
+msgstr ""
+
+msgid "State"
+msgstr "རྣམ་པ།"
+
+msgid "Status"
+msgstr "རྣམ་པ།"
+
+msgid "Support NFS home directories"
+msgstr ""
+
+msgid "Support SAMBA home directories"
+msgstr ""
+
+msgid "Support X userspace object manager"
+msgstr ""
+
+msgid "Support ecryptfs home directories"
+msgstr ""
+
+msgid "Support fusefs home directories"
+msgstr ""
+
+msgid "System Default Enforcing Mode"
+msgstr ""
+
+msgid "System Default Policy Type: "
+msgstr ""
+
+msgid "Target Domain"
+msgstr ""
+
+msgid ""
+"This user can login to a machine via X or terminal.  By default this user "
+"will have no setuid, no networking, no sudo, no su"
+msgstr ""
+
+msgid ""
+"This user will login to a machine only via a terminal or remote login.  By "
+"default this user will have  no setuid, no networking, no su, no sudo."
+msgstr ""
+
+msgid "To make this policy package active, execute:"
+msgstr ""
+
+msgid "Toggle between Customized and All Booleans"
+msgstr ""
+
+msgid "Toggle between Customized and All Ports"
+msgstr ""
+
+msgid "Toggle between all and customized file context"
+msgstr ""
+
+msgid "Type %s is invalid, must be a file or device type"
+msgstr ""
+
+msgid "Type %s is invalid, must be a node type"
+msgstr ""
+
+msgid "Type %s is invalid, must be a port type"
+msgstr ""
+
+msgid ""
+"Type %s_t already defined in current policy.\n"
+"Do you want to continue?"
+msgstr ""
+
+msgid "Type Enforcement file"
+msgstr ""
+
+msgid "Type field required"
+msgstr ""
+
+msgid "Type is required"
+msgstr ""
+
+msgid ""
+"USAGE: run_init <script> <args ...>\n"
+"  where: <script> is the name of the init script to run,\n"
+"         <args ...> are the arguments to that script."
+msgstr ""
+
+msgid "USER Types automatically get a tmp type"
+msgstr ""
+
+msgid "Unable to allocate memory for new_context"
+msgstr ""
+
+msgid "Unable to clear environment\n"
+msgstr ""
+
+msgid "Unable to obtain empty signal set\n"
+msgstr ""
+
+msgid "Unable to restore the environment, aborting\n"
+msgstr ""
+
+msgid "Unable to restore tty label...\n"
+msgstr ""
+
+msgid "Unable to set SIGHUP handler\n"
+msgstr ""
+
+msgid "Unify HTTPD handling of all content files."
+msgstr ""
+
+msgid ""
+"Unify HTTPD to communicate with the terminal. Needed for entering the "
+"passphrase for certificates at the terminal."
+msgstr ""
+
+msgid "Unknown or missing protocol"
+msgstr ""
+
+msgid "Unreserved Ports (>1024)"
+msgstr ""
+
+msgid "Usage %s -L"
+msgstr ""
+
+msgid "Usage %s -L -l user"
+msgstr ""
+
+msgid "Usage %s -d File ..."
+msgstr ""
+
+msgid "Usage %s -l -d user ..."
+msgstr ""
+
+msgid "Usage %s -l CATEGORY user ..."
+msgstr ""
+
+msgid "Usage %s -l [[+|-]CATEGORY],...]q user ..."
+msgstr ""
+
+msgid "Usage %s CATEGORY File ..."
+msgstr ""
+
+msgid "Usage %s [[+|-]CATEGORY],...]q File ..."
+msgstr ""
+
+msgid "Use -- to end option list.  For example"
+msgstr ""
+
+msgid "User Application"
+msgstr ""
+
+msgid ""
+"User Application are any application that you would like to confine that is "
+"started by a user"
+msgstr ""
+
+msgid "User Mapping"
+msgstr ""
+
+msgid "User Role"
+msgstr ""
+
+msgid "User Role types can not be assigned executables."
+msgstr ""
+
+msgid ""
+"User with full networking, no setuid applications without transition, no su,"
+" can sudo to Root Administration Roles"
+msgstr ""
+
+msgid ""
+"User with full networking, no setuid applications without transition, no "
+"sudo, no su."
+msgstr ""
+
+msgid "Uses Pam for authentication"
+msgstr ""
+
+msgid "Uses dbus"
+msgstr ""
+
+msgid "Uses nsswitch or getpw* calls"
+msgstr ""
+
+msgid "Valid Types:\n"
+msgstr ""
+
+msgid "Verify Name"
+msgstr ""
+
+msgid "Version"
+msgstr "པར་གཞི།"
+
+msgid "Warning!  Could not retrieve tty information.\n"
+msgstr ""
+
+msgid "Warning! Could not restore context for %s\n"
+msgstr ""
+
+msgid "Web Application/Script (CGI)"
+msgstr ""
+
+msgid ""
+"Web Applications/Script (CGI) CGI scripts started by the web server (apache)"
+msgstr ""
+
+msgid "Writes syslog messages\t"
+msgstr ""
+
+msgid ""
+"You must add a name made up of letters and numbers and containing no spaces."
+msgstr ""
+
+msgid "You must add at least one role for %s"
+msgstr ""
+
+msgid "You must enter a executable"
+msgstr ""
+
+msgid "You must enter a valid policy type"
+msgstr ""
+
+msgid "You must enter the executable path for your confined process"
+msgstr ""
+
+msgid "You must select a user"
+msgstr ""
+
+msgid "You must specify one of the following values: %s"
+msgstr ""
+
+msgid ""
+"You need to define a new type which ends with: \n"
+" %s"
+msgstr ""
+
+msgid "_Delete"
+msgstr "འདོར་བ།"
+
+msgid "_Properties"
+msgstr "གཏོགས་གཤིས།(_P)"
+
+msgid "all"
+msgstr "ཚང་མ།"
+
+msgid ""
+"all files\n"
+"regular file\n"
+"directory\n"
+"character device\n"
+"block device\n"
+"socket\n"
+"symbolic link\n"
+"named pipe\n"
+msgstr ""
+
+msgid "allow host key based authentication"
+msgstr ""
+
+msgid "allow staff user to create and transition to svirt domains."
+msgstr ""
+
+msgid ""
+"allow unconfined users to transition to the chrome sandbox domains when "
+"running chrome-sandbox"
+msgstr ""
+
+msgid "authentication failed.\n"
+msgstr ""
+
+msgid "boolean to get description"
+msgstr ""
+
+msgid "cannot find valid entry in the passwd file.\n"
+msgstr ""
+
+msgid "chcat -- -CompanyConfidential /docs/businessplan.odt"
+msgstr ""
+
+msgid "chcat -l +CompanyConfidential juser"
+msgstr ""
+
+msgid "commands"
+msgstr "བཀའ་བརྡ།"
+
+msgid ""
+"disallow programs, such as newrole, from transitioning to administrative "
+"user domains."
+msgstr ""
+
+msgid "dontaudit requires either 'on' or 'off'"
+msgstr ""
+
+msgid "error on reading PAM service configuration.\n"
+msgstr ""
+
+msgid "executable to confine"
+msgstr ""
+
+msgid "failed to build new range with level %s\n"
+msgstr ""
+
+msgid "failed to convert new context to string\n"
+msgstr ""
+
+msgid "failed to exec shell\n"
+msgstr ""
+
+msgid "failed to get account information\n"
+msgstr ""
+
+msgid "failed to get new context.\n"
+msgstr ""
+
+msgid "failed to get old_context.\n"
+msgstr ""
+
+msgid "failed to initialize PAM\n"
+msgstr ""
+
+msgid "failed to set PAM_TTY\n"
+msgstr ""
+
+msgid "failed to set new range %s\n"
+msgstr ""
+
+msgid "failed to set new role %s\n"
+msgstr ""
+
+msgid "failed to set new type %s\n"
+msgstr ""
+
+msgid "get all booleans descriptions"
+msgstr ""
+
+msgid "getpass cannot open /dev/tty\n"
+msgstr ""
+
+msgid "label37"
+msgstr ""
+
+msgid "label38"
+msgstr ""
+
+msgid "label39"
+msgstr ""
+
+msgid "label41"
+msgstr ""
+
+msgid "label42"
+msgstr ""
+
+msgid "label44"
+msgstr ""
+
+msgid "label50"
+msgstr ""
+
+msgid "label59"
+msgstr ""
+
+msgid "list all SELinux port types"
+msgstr ""
+
+msgid "manage_krb5_rcache must be a boolean value "
+msgstr ""
+
+msgid "name of policy to generate"
+msgstr ""
+
+msgid "name of the OS for man pages"
+msgstr ""
+
+msgid "newrole:  %s:  error on line %lu.\n"
+msgstr ""
+
+msgid "newrole: failure forking: %s"
+msgstr ""
+
+msgid "newrole: incorrect password for %s\n"
+msgstr ""
+
+msgid "newrole: service name configuration hashtable overflow\n"
+msgstr ""
+
+msgid "off"
+msgstr "སྒོ་རྒྱག"
+
+msgid "on"
+msgstr "ཁ་འབྱེད་པ།"
+
+msgid "path in which the generated SELinux man pages will be stored"
+msgstr ""
+
+msgid "path in which the generated policy files will be stored"
+msgstr ""
+
+msgid "path to which the confined processes will need to write"
+msgstr ""
+
+msgid "query SELinux Policy to see description of booleans"
+msgstr ""
+
+msgid ""
+"query SELinux Policy to see how a source process domain can transition to "
+"the target process domain"
+msgstr ""
+
+msgid "query SELinux policy to see if domains can communicate with each other"
+msgstr ""
+
+msgid "role tab"
+msgstr ""
+
+msgid "run_init: incorrect password for %s\n"
+msgstr ""
+
+msgid "sepolicy generate: error: one of the arguments %s is required"
+msgstr ""
+
+msgid "show SELinux type related to the port"
+msgstr ""
+
+msgid "show ports to which this domain can bind and/or connect"
+msgstr ""
+
+msgid "source process domain"
+msgstr ""
+
+msgid "system-config-selinux"
+msgstr ""
+
+msgid "target process domain"
+msgstr ""
+
+msgid ""
+"transition \n"
+"role tab"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "type"
+msgstr "རིགས་གྲས།"
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "usage:  %s [-qi]\n"
+msgstr ""
+
+msgid "use_kerberos must be a boolean value "
+msgstr ""
+
+msgid "use_resolve must be a boolean value "
+msgstr ""
+
+msgid "use_syslog must be a boolean value "
+msgstr ""

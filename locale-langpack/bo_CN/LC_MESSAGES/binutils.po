@@ -1,0 +1,3078 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "\tUnknown version.\n"
+msgstr ""
+
+msgid "\t[Abbrev Number: %ld"
+msgstr ""
+
+msgid "\tcodepage settings are ignored.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Symbols from %s:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Symbols from %s[%s]:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Undefined symbols from %s:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Undefined symbols from %s[%s]:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"      [Requesting program interpreter: %s]"
+msgstr ""
+
+msgid ""
+"\n"
+"    Address            Length\n"
+msgstr ""
+
+msgid ""
+"\n"
+"    Address    Length\n"
+msgstr ""
+
+msgid ""
+"\n"
+"    Offset\tName\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  Start of program headers:          "
+msgstr ""
+
+msgid ""
+"\n"
+" Opcodes:\n"
+msgstr ""
+
+msgid ""
+"\n"
+" The Directory Table (offset 0x%lx):\n"
+msgstr ""
+
+msgid ""
+"\n"
+" The Directory Table is empty.\n"
+msgstr ""
+
+msgid ""
+"\n"
+" The File Name Table (offset 0x%lx):\n"
+msgstr ""
+
+msgid ""
+"\n"
+" The File Name Table is empty.\n"
+msgstr ""
+
+msgid ""
+"\n"
+" The following switches are optional:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"%s:     file format %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Address table:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Archive index:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"CU table:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Dynamic info segment at offset 0x%lx contains %d entries:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Elf file type is %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"File: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Hex dump of section '%s':\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Image relocs\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Program Headers:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Relocation section "
+msgstr ""
+
+msgid ""
+"\n"
+"Section '%s' contains %d entries:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Section '%s' has no data to dump.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Section '%s' has no debugging data.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Section Header:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Section Headers:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"TU table:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"The %s section is empty.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"There are %d program headers, starting at offset "
+msgstr ""
+
+msgid ""
+"\n"
+"There are no dynamic relocations in this file.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"There are no program headers in this file.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"There are no relocations in this file.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"There are no sections in this file.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Unwind section "
+msgstr ""
+
+msgid ""
+"\n"
+"Version symbols section '%s' contains %d entries:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"start address 0x"
+msgstr ""
+
+msgid ""
+"        possible <machine>: arm[_interwork], i386, mcore[-elf]{-le|-be}, "
+"ppc, thumb\n"
+msgstr ""
+
+msgid "       %s -M [<mri-script]\n"
+msgstr ""
+
+msgid "       Flags\n"
+msgstr ""
+
+msgid "       Size              EntSize          Flags  Link  Info  Align\n"
+msgstr ""
+
+msgid "       Size              EntSize          Info              Align\n"
+msgstr ""
+
+msgid "       Type              Address          Offset            Link\n"
+msgstr ""
+
+msgid ""
+"      --add-stdcall-underscore Add underscores to stdcall symbols in "
+"interface library.\n"
+msgstr ""
+
+msgid "      --exclude-symbols <list> Don't export <list>\n"
+msgstr ""
+
+msgid "      --export-all-symbols   Export all symbols to .def\n"
+msgstr ""
+
+msgid "      --no-default-excludes  Clear default exclude symbols\n"
+msgstr ""
+
+msgid "      --no-export-all-symbols  Only export listed symbols\n"
+msgstr ""
+
+msgid "     --yydebug                 Turn on parser debugging\n"
+msgstr ""
+
+msgid ""
+"    Offset             Info             Type               Symbol's Value  "
+"Symbol's Name\n"
+msgstr ""
+
+msgid ""
+"    Offset             Info             Type               Symbol's Value  "
+"Symbol's Name + Addend\n"
+msgstr ""
+
+msgid "    Offset   Begin    End      Expression\n"
+msgstr ""
+
+msgid "   --add-stdcall-alias    Add aliases without @<n>\n"
+msgstr ""
+
+msgid "   --as <name>            Use <name> for assembler\n"
+msgstr ""
+
+msgid "   --base-file <basefile> Read linker generated base file\n"
+msgstr ""
+
+msgid "   --def <deffile>        Name input .def file\n"
+msgstr ""
+
+msgid "   --dllname <name>       Name of input dll to put into output lib.\n"
+msgstr ""
+
+msgid "   --dlltool-name <dlltool> Defaults to \"dlltool\"\n"
+msgstr ""
+
+msgid "   --driver-flags <flags> Override default ld flags\n"
+msgstr ""
+
+msgid "   --driver-name <driver> Defaults to \"gcc\"\n"
+msgstr ""
+
+msgid "   --dry-run              Show what needs to be run\n"
+msgstr ""
+
+msgid "   --entry <entry>        Specify alternate DLL entry point\n"
+msgstr ""
+
+msgid "   --exclude-symbols <list> Exclude <list> from .def\n"
+msgstr ""
+
+msgid "   --export-all-symbols     Export all symbols to .def\n"
+msgstr ""
+
+msgid "   --image-base <base>    Specify image base address\n"
+msgstr ""
+
+msgid "   --implib <outname>     Synonym for --output-lib\n"
+msgstr ""
+
+msgid "   --machine <machine>\n"
+msgstr ""
+
+msgid "   --mno-cygwin           Create Mingw DLL\n"
+msgstr ""
+
+msgid "   --no-default-excludes    Zap default exclude symbols\n"
+msgstr ""
+
+msgid "   --no-export-all-symbols  Only export .drectve symbols\n"
+msgstr ""
+
+msgid "   --no-idata4           Don't generate idata$4 section\n"
+msgstr ""
+
+msgid "   --no-idata5           Don't generate idata$5 section\n"
+msgstr ""
+
+msgid "   --nodelete             Keep temp files.\n"
+msgstr ""
+
+msgid "   --output-def <deffile> Name output .def file\n"
+msgstr ""
+
+msgid "   --output-exp <outname> Generate export file.\n"
+msgstr ""
+
+msgid "   --output-lib <outname> Generate input library.\n"
+msgstr ""
+
+msgid "   --quiet, -q            Work quietly\n"
+msgstr ""
+
+msgid "   --target <machine>     i386-cygwin32 or i386-mingw32\n"
+msgstr ""
+
+msgid "   --verbose, -v          Verbose\n"
+msgstr ""
+
+msgid "   --version              Print dllwrap version\n"
+msgstr ""
+
+msgid "   -A --add-stdcall-alias    Add aliases without @<n>.\n"
+msgstr ""
+
+msgid ""
+"   -C --compat-implib        Create backward compatible import library.\n"
+msgstr ""
+
+msgid ""
+"   -D --dllname <name>       Name of input dll to put into interface lib.\n"
+msgstr ""
+
+msgid "   -F --linker-flags <flags> Pass <flags> to the linker.\n"
+msgstr ""
+
+msgid "   -L --linker <name>        Use <name> as the linker.\n"
+msgstr ""
+
+msgid ""
+"   -M --mcore-elf <outname>  Process mcore-elf object files into "
+"<outname>.\n"
+msgstr ""
+
+msgid "   -S --as <name>            Use <name> for assembler.\n"
+msgstr ""
+
+msgid "   -U                     Add underscores to .lib\n"
+msgstr ""
+
+msgid ""
+"   -U --add-underscore       Add underscores to all symbols in interface "
+"library.\n"
+msgstr ""
+
+msgid "   -V --version              Display the program version.\n"
+msgstr ""
+
+msgid "   -a --add-indirect         Add dll indirects to export file.\n"
+msgstr ""
+
+msgid "   -b --base-file <basefile> Read linker generated base file.\n"
+msgstr ""
+
+msgid "   -c --no-idata5            Don't generate idata$5 section.\n"
+msgstr ""
+
+msgid "   -d --input-def <deffile>  Name of .def file to be read in.\n"
+msgstr ""
+
+msgid "   -e --output-exp <outname> Generate an export file.\n"
+msgstr ""
+
+msgid "   -f --as-flags <flags>     Pass <flags> to the assembler.\n"
+msgstr ""
+
+msgid "   -h --help                 Display this information.\n"
+msgstr ""
+
+msgid "   -k                     Kill @<n> from exported names\n"
+msgstr ""
+
+msgid "   -k --kill-at              Kill @<n> from exported names.\n"
+msgstr ""
+
+msgid "   -l --output-lib <outname> Generate an interface library.\n"
+msgstr ""
+
+msgid ""
+"   -m --machine <machine>    Create as DLL for <machine>.  [default: %s]\n"
+msgstr ""
+
+msgid ""
+"   -n --no-delete            Keep temp files (repeat for extra "
+"preservation).\n"
+msgstr ""
+
+msgid "   -p --ext-prefix-alias <prefix> Add aliases with <prefix>.\n"
+msgstr ""
+
+msgid "   -v --verbose              Be verbose.\n"
+msgstr ""
+
+msgid "   -x --no-idata4            Don't generate idata$4 section.\n"
+msgstr ""
+
+msgid "   -y --output-delaylib <outname> Create a delay-import library.\n"
+msgstr ""
+
+msgid "   -z --output-def <deffile> Name of .def file to be created.\n"
+msgstr ""
+
+msgid "   0 (*local*)    "
+msgstr ""
+
+msgid "   1 (*global*)   "
+msgstr ""
+
+msgid "   @<file>                   Read options from <file>.\n"
+msgstr ""
+
+msgid "   @<file>                Read options from <file>\n"
+msgstr ""
+
+msgid "   Abbrev Offset: 0x%s\n"
+msgstr ""
+
+msgid "   Length:        0x%s (%s)\n"
+msgstr ""
+
+msgid "   Pointer Size:  %d\n"
+msgstr ""
+
+msgid "   Signature:     0x%s\n"
+msgstr ""
+
+msgid "   Type Offset:   0x%s\n"
+msgstr ""
+
+msgid "   Version:       %d\n"
+msgstr ""
+
+msgid "  %#06x:   Name index: %lx"
+msgstr ""
+
+msgid "  %#06x:   Name: %s"
+msgstr ""
+
+msgid "  %#06x: Parent %d, name index: %ld\n"
+msgstr ""
+
+msgid "  %#06x: Parent %d: %s\n"
+msgstr ""
+
+msgid "  %#06x: Version: %d"
+msgstr ""
+
+msgid "  (Unknown inline attribute value: %s)"
+msgstr ""
+
+msgid "  --plugin <name>              Load the specified plugin\n"
+msgstr ""
+
+msgid "  --plugin <p> - load the specified plugin\n"
+msgstr ""
+
+msgid "  --target=BFDNAME - specify the target object format as BFDNAME\n"
+msgstr ""
+
+msgid ""
+"  -D                           Use zero for symbol map timestamp\n"
+"  -U                           Use actual symbol map timestamp (default)\n"
+msgstr ""
+
+msgid ""
+"  -D                           Use zero for symbol map timestamp (default)\n"
+"  -U                           Use an actual symbol map timestamp\n"
+msgstr ""
+
+msgid ""
+"  -H --help                    Print this help message\n"
+"  -v --verbose                 Verbose - tells you what it's doing\n"
+"  -V --version                 Print version information\n"
+msgstr ""
+
+msgid ""
+"  -b, --target=BFDNAME           Specify the target object format as BFDNAME\n"
+"  -m, --architecture=MACHINE     Specify the target architecture as MACHINE\n"
+"  -j, --section=NAME             Only display information for section NAME\n"
+"  -M, --disassembler-options=OPT Pass text OPT on to the disassembler\n"
+"  -EB --endian=big               Assume big endian format when disassembling\n"
+"  -EL --endian=little            Assume little endian format when disassembling\n"
+"      --file-start-context       Include context from start of file (with -S)\n"
+"  -I, --include=DIR              Add DIR to search list for source files\n"
+"  -l, --line-numbers             Include line numbers and filenames in output\n"
+"  -F, --file-offsets             Include file offsets when displaying information\n"
+"  -C, --demangle[=STYLE]         Decode mangled/processed symbol names\n"
+"                                  The STYLE, if specified, can be `auto', `gnu',\n"
+"                                  `lucid', `arm', `hp', `edg', `gnu-v3', `java'\n"
+"                                  or `gnat'\n"
+"  -w, --wide                     Format output for more than 80 columns\n"
+"  -z, --disassemble-zeroes       Do not skip blocks of zeroes when disassembling\n"
+"      --start-address=ADDR       Only process data whose address is >= ADDR\n"
+"      --stop-address=ADDR        Only process data whose address is <= ADDR\n"
+"      --prefix-addresses         Print complete address alongside disassembly\n"
+"      --[no-]show-raw-insn       Display hex alongside symbolic disassembly\n"
+"      --insn-width=WIDTH         Display WIDTH bytes on a single line for -d\n"
+"      --adjust-vma=OFFSET        Add OFFSET to all displayed section addresses\n"
+"      --special-syms             Include special symbols in symbol dumps\n"
+"      --prefix=PREFIX            Add PREFIX to absolute paths for -S\n"
+"      --prefix-strip=LEVEL       Strip initial directory names for -S\n"
+msgstr ""
+
+msgid ""
+"  -r                           Ignored for compatibility with rc\n"
+"  @<file>                      Read options from <file>\n"
+"  -h --help                    Print this help message\n"
+"  -V --version                 Print version information\n"
+msgstr ""
+
+msgid ""
+"  -t                           Update the archive's symbol map timestamp\n"
+"  -h --help                    Print this help message\n"
+"  -v --version                 Print version information\n"
+msgstr ""
+
+msgid "  @<file>      - read options from <file>\n"
+msgstr ""
+
+msgid "  ABI Version:                       %d\n"
+msgstr ""
+
+msgid "  Addr: 0x"
+msgstr ""
+
+msgid "  Class:                             %s\n"
+msgstr ""
+
+msgid "  Cnt: %d\n"
+msgstr ""
+
+msgid "  Compilation Unit @ offset 0x%s:\n"
+msgstr ""
+
+msgid "  Copy\n"
+msgstr ""
+
+msgid "  DWARF Version:               %d\n"
+msgstr ""
+
+msgid "  Data:                              %s\n"
+msgstr ""
+
+msgid "  Entry\tDir\tTime\tSize\tName\n"
+msgstr ""
+
+msgid "  Entry point address:               "
+msgstr ""
+
+msgid "  Extended opcode %d: "
+msgstr ""
+
+msgid "  File: %lx"
+msgstr ""
+
+msgid "  File: %s"
+msgstr ""
+
+msgid "  Flags"
+msgstr ""
+
+msgid "  Flags:                             0x%lx%s\n"
+msgstr ""
+
+msgid "  Flags: %s  Version: %d\n"
+msgstr ""
+
+msgid "  For compilation unit at offset 0x%s:\n"
+msgstr ""
+
+msgid "  Generic options:\n"
+msgstr ""
+
+msgid "  Initial value of 'is_stmt':  %d\n"
+msgstr ""
+
+msgid "  Length:                              %ld\n"
+msgstr ""
+
+msgid "  Length:                      %ld\n"
+msgstr ""
+
+msgid "  Length:                   %ld\n"
+msgstr ""
+
+msgid "  Line Base:                   %d\n"
+msgstr ""
+
+msgid "  Line Range:                  %d\n"
+msgstr ""
+
+msgid "  Machine:                           %s\n"
+msgstr ""
+
+msgid "  Magic:   "
+msgstr ""
+
+msgid "  Maximum Ops per Instruction: %d\n"
+msgstr ""
+
+msgid "  Minimum Instruction Length:  %d\n"
+msgstr ""
+
+msgid "  No emulation specific options\n"
+msgstr ""
+
+msgid "  Number of section headers:         %ld"
+msgstr ""
+
+msgid "  OS/ABI:                            %s\n"
+msgstr ""
+
+msgid ""
+"  Offset          Info           Type           Sym. Value    Sym. Name\n"
+msgstr ""
+
+msgid ""
+"  Offset          Info           Type           Sym. Value    Sym. Name + "
+"Addend\n"
+msgstr ""
+
+msgid "  Offset into .debug_info:  0x%lx\n"
+msgstr ""
+
+msgid "  Offset into .debug_line:     0x%lx\n"
+msgstr ""
+
+msgid "  Offset size:                 %d\n"
+msgstr ""
+
+msgid "  Offset table\n"
+msgstr ""
+
+msgid "  Offset:                      0x%lx\n"
+msgstr ""
+
+msgid "  Opcode %d has %d args\n"
+msgstr ""
+
+msgid "  Opcode Base:                 %d\n"
+msgstr ""
+
+msgid "  Options for %s:\n"
+msgstr ""
+
+msgid "  Options passed to DLLTOOL:\n"
+msgstr ""
+
+msgid "  Pointer Size:             %d\n"
+msgstr ""
+
+msgid "  Prologue Length:             %d\n"
+msgstr ""
+
+msgid "  Rest are passed unmodified to the language driver\n"
+msgstr ""
+
+msgid "  Section header string table index: %ld"
+msgstr ""
+
+msgid "  Segment Sections...\n"
+msgstr ""
+
+msgid "  Segment Size:             %d\n"
+msgstr ""
+
+msgid "  Set ISA to %lu\n"
+msgstr ""
+
+msgid "  Set ISA to %s\n"
+msgstr ""
+
+msgid "  Set basic block\n"
+msgstr ""
+
+msgid "  Set column to %s\n"
+msgstr ""
+
+msgid "  Set epilogue_begin to true\n"
+msgstr ""
+
+msgid "  Set is_stmt to %s\n"
+msgstr ""
+
+msgid "  Set prologue_end to true\n"
+msgstr ""
+
+msgid "  Size of area in .debug_info section: %ld\n"
+msgstr ""
+
+msgid "  Size of program headers:           %ld (bytes)\n"
+msgstr ""
+
+msgid "  Size of section headers:           %ld (bytes)\n"
+msgstr ""
+
+msgid "  Size of this header:               %ld (bytes)\n"
+msgstr ""
+
+msgid "  Size table\n"
+msgstr ""
+
+msgid "  Tag        Type                         Name/Value\n"
+msgstr ""
+
+msgid "  Type:                              %s\n"
+msgstr ""
+
+msgid "  Unhandled magic\n"
+msgstr ""
+
+msgid "  Unsupported version\n"
+msgstr ""
+
+msgid "  Version:                             %d\n"
+msgstr ""
+
+msgid "  Version:                           %d %s\n"
+msgstr ""
+
+msgid "  Version:                           0x%lx\n"
+msgstr ""
+
+msgid "  Version:                     %d\n"
+msgstr ""
+
+msgid "  Version:                  %d\n"
+msgstr ""
+
+msgid "  [-X32]       - ignores 64 bit objects\n"
+msgstr ""
+
+msgid "  [-X32_64]    - accepts 32 and 64 bit objects\n"
+msgstr ""
+
+msgid "  [-X64]       - ignores 32 bit objects\n"
+msgstr ""
+
+msgid "  [-g]         - 32 bit small archive\n"
+msgstr ""
+
+msgid "  [D]          - use zero for timestamps and uids/gids\n"
+msgstr ""
+
+msgid "  [D]          - use zero for timestamps and uids/gids (default)\n"
+msgstr ""
+
+msgid "  [N]          - use instance [count] of name\n"
+msgstr ""
+
+msgid "  [Nr] Name\n"
+msgstr ""
+
+msgid "  [Nr] Name              Type             Address           Offset\n"
+msgstr ""
+
+msgid "  [P]          - use full path names when matching\n"
+msgstr ""
+
+msgid "  [S]          - do not build a symbol table\n"
+msgstr ""
+
+msgid "  [T]          - make a thin archive\n"
+msgstr ""
+
+msgid "  [U]          - use actual timestamps and uids/gids\n"
+msgstr ""
+
+msgid "  [U]          - use actual timestamps and uids/gids (default)\n"
+msgstr ""
+
+msgid "  [V]          - display the version number\n"
+msgstr ""
+
+msgid "  [a]          - put file(s) after [member-name]\n"
+msgstr ""
+
+msgid "  [b]          - put file(s) before [member-name] (same as [i])\n"
+msgstr ""
+
+msgid "  [c]          - do not warn if the library had to be created\n"
+msgstr ""
+
+msgid "  [f]          - truncate inserted file names\n"
+msgstr ""
+
+msgid "  [o]          - preserve original dates\n"
+msgstr ""
+
+msgid "  [s]          - create an archive index (cf. ranlib)\n"
+msgstr ""
+
+msgid ""
+"  [u]          - only replace files that are newer than current archive "
+"contents\n"
+msgstr ""
+
+msgid "  [v]          - be verbose\n"
+msgstr ""
+
+msgid "  d            - delete file(s) from the archive\n"
+msgstr ""
+
+msgid "  m[ab]        - move file(s) in the archive\n"
+msgstr ""
+
+msgid "  p            - print file(s) found in the archive\n"
+msgstr ""
+
+msgid "  q[f]         - quick append file(s) to the archive\n"
+msgstr ""
+
+msgid ""
+"  r[ab][f][u]  - replace existing or insert new file(s) into the archive\n"
+msgstr ""
+
+msgid "  s            - act as ranlib\n"
+msgstr ""
+
+msgid "  t            - display contents of archive\n"
+msgstr ""
+
+msgid "  x[o]         - extract file(s) from the archive\n"
+msgstr ""
+
+msgid " %s byte block: "
+msgstr ""
+
+msgid " (indexed string: 0x%s): %s"
+msgstr ""
+
+msgid " (indirect string, offset: 0x%s): %s"
+msgstr ""
+
+msgid " (inlined by) "
+msgstr ""
+
+msgid " (location list)"
+msgstr ""
+
+msgid " (start == end)"
+msgstr ""
+
+msgid " (start > end)"
+msgstr ""
+
+msgid " <%d><%lx>: Abbrev Number: %lu"
+msgstr ""
+
+msgid " <%d><%lx>: Abbrev Number: 0\n"
+msgstr ""
+
+msgid " Addr: "
+msgstr ""
+
+msgid " Addr: 0x"
+msgstr ""
+
+msgid " At least one of the following switches must be given:\n"
+msgstr ""
+
+msgid " Convert addresses into line number/file name pairs.\n"
+msgstr ""
+
+msgid " Convert an object file into a NetWare Loadable Module\n"
+msgstr ""
+
+msgid " Copies a binary file, possibly transforming it in the process\n"
+msgstr ""
+
+msgid " DW_MACINFO_define - lineno : %d macro : %s\n"
+msgstr ""
+
+msgid " DW_MACINFO_end_file\n"
+msgstr ""
+
+msgid " DW_MACINFO_start_file - lineno: %d filenum: %d\n"
+msgstr ""
+
+msgid " DW_MACINFO_undef - lineno : %d macro : %s\n"
+msgstr ""
+
+msgid " DW_MACINFO_vendor_ext - constant : %d string : %s\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_define - lineno : %d macro : %s\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_define_indirect - lineno : %d macro : %s\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_define_indirect_alt - lineno : %d macro offset : 0x%lx\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_end_file\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_start_file - lineno: %d filenum: %d\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_start_file - lineno: %d filenum: %d filename: %s%s%s\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_undef - lineno : %d macro : %s\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_undef_indirect - lineno : %d macro : %s\n"
+msgstr ""
+
+msgid " DW_MACRO_GNU_undef_indirect_alt - lineno : %d macro offset : 0x%lx\n"
+msgstr ""
+
+msgid " Display information about the contents of ELF format files\n"
+msgstr ""
+
+msgid " Display information from object <file(s)>.\n"
+msgstr ""
+
+msgid " Display printable strings in [file(s)] (stdin by default)\n"
+msgstr ""
+
+msgid " Displays the sizes of sections inside binary files\n"
+msgstr ""
+
+msgid " Generate an index to speed access to archives\n"
+msgstr ""
+
+msgid ""
+" If no addresses are specified on the command line, they will be read from "
+"stdin\n"
+msgstr ""
+
+msgid " If no input file(s) are specified, a.out is assumed\n"
+msgstr ""
+
+msgid " Line Number Statements:\n"
+msgstr ""
+
+msgid " List symbols in [file(s)] (a.out by default).\n"
+msgstr ""
+
+msgid " No Line Number Statements.\n"
+msgstr ""
+
+msgid " None\n"
+msgstr ""
+
+msgid " Offset     Info    Type                Sym. Value  Symbol's Name\n"
+msgstr ""
+
+msgid ""
+" Offset     Info    Type                Sym. Value  Symbol's Name + Addend\n"
+msgstr ""
+
+msgid " Offset     Info    Type            Sym.Value  Sym. Name\n"
+msgstr ""
+
+msgid " Offset     Info    Type            Sym.Value  Sym. Name + Addend\n"
+msgstr ""
+
+msgid " Print a human readable interpretation of a COFF object file\n"
+msgstr ""
+
+msgid " Removes symbols and sections from files\n"
+msgstr ""
+
+msgid " The options are:\n"
+msgstr ""
+
+msgid ""
+" The options are:\n"
+"  -h --help        Display this information\n"
+"  -v --version     Print the program's version number\n"
+msgstr ""
+
+msgid ""
+" The options are:\n"
+"  @<file>                      Read options from <file>\n"
+msgstr ""
+
+msgid ""
+" The options are:\n"
+"  @<file>                Read options from <file>\n"
+"  -a --addresses         Show addresses\n"
+"  -b --target=<bfdname>  Set the binary file format\n"
+"  -e --exe=<executable>  Set the input file name (default is a.out)\n"
+"  -i --inlines           Unwind inlined functions\n"
+"  -j --section=<name>    Read section-relative offsets instead of addresses\n"
+"  -p --pretty-print      Make the output easier to read for humans\n"
+"  -s --basenames         Strip directory names\n"
+"  -f --functions         Show function names\n"
+"  -C --demangle[=style]  Demangle function names\n"
+"  -h --help              Display this information\n"
+"  -v --version           Display the program's version\n"
+"\n"
+msgstr ""
+
+msgid ""
+" The options are:\n"
+"  @<file>                Read options from <file>\n"
+"  -h --help              Display this information\n"
+"  -v --version           Display the program's version\n"
+"\n"
+msgstr ""
+
+msgid " Update the ELF header of ELF files\n"
+msgstr ""
+
+msgid " [without DW_AT_frame_base]"
+msgstr ""
+
+msgid " at "
+msgstr ""
+
+msgid " at offset 0x%lx contains %lu entries:\n"
+msgstr ""
+
+msgid " bad symbol index: %08lx"
+msgstr ""
+
+msgid " command specific modifiers:\n"
+msgstr ""
+
+msgid " commands:\n"
+msgstr ""
+
+msgid " cpusubtype: %08lx\n"
+msgstr ""
+
+msgid " cputype   : %08lx (%s)\n"
+msgstr ""
+
+msgid " emulation options: \n"
+msgstr ""
+
+msgid " filetype  : %08lx (%s)\n"
+msgstr ""
+
+msgid " flags     : %08lx ("
+msgstr ""
+
+msgid " generic modifiers:\n"
+msgstr ""
+
+msgid " magic     : %08lx\n"
+msgstr ""
+
+msgid " ncmds     : %08lx (%lu)\n"
+msgstr ""
+
+msgid " optional:\n"
+msgstr ""
+
+msgid " program interpreter"
+msgstr ""
+
+msgid " reserved  : %08x\n"
+msgstr ""
+
+msgid " sizeofcmds: %08lx\n"
+msgstr ""
+
+msgid "#lines %d "
+msgstr ""
+
+msgid "#sources %d"
+msgstr ""
+
+msgid "%08x: <unknown>"
+msgstr ""
+
+msgid "%ld: unexpected .ef\n"
+msgstr ""
+
+msgid "%lu\n"
+msgstr ""
+
+msgid "%s exited with status %d"
+msgstr ""
+
+msgid "%s has no archive index\n"
+msgstr ""
+
+msgid "%s is not a library"
+msgstr ""
+
+msgid "%s is not a valid archive"
+msgstr ""
+
+msgid "%s: %s: address out of bounds"
+msgstr ""
+
+msgid "%s: Can't open input archive %s\n"
+msgstr ""
+
+msgid "%s: Can't open output archive %s\n"
+msgstr ""
+
+msgid "%s: Error: "
+msgstr "%s：ནོར་འཁྲུལ།："
+
+msgid "%s: Failed to read ELF header\n"
+msgstr ""
+
+msgid "%s: Failed to read file header\n"
+msgstr ""
+
+msgid "%s: Matching formats:"
+msgstr ""
+
+msgid "%s: Multiple redefinition of symbol \"%s\""
+msgstr ""
+
+msgid "%s: Path components stripped from image name, '%s'."
+msgstr ""
+
+msgid "%s: Symbol \"%s\" is target of more than one redefinition"
+msgstr ""
+
+msgid "%s: Warning: "
+msgstr "%sཐ་ཚིག"
+
+msgid "%s: bad archive file name\n"
+msgstr ""
+
+msgid "%s: bad number: %s"
+msgstr ""
+
+msgid "%s: can't find module file %s\n"
+msgstr ""
+
+msgid "%s: can't open file %s\n"
+msgstr ""
+
+msgid "%s: cannot find section %s"
+msgstr ""
+
+msgid "%s: cannot get addresses from archive"
+msgstr ""
+
+msgid "%s: cannot set time: %s"
+msgstr ""
+
+msgid "%s: execution of %s failed: "
+msgstr ""
+
+msgid "%s: failed to read archive header\n"
+msgstr ""
+
+msgid "%s: failed to read archive header following archive index\n"
+msgstr ""
+
+msgid "%s: failed to read archive index\n"
+msgstr ""
+
+msgid "%s: failed to read archive index symbol table\n"
+msgstr ""
+
+msgid "%s: failed to seek to first archive header\n"
+msgstr ""
+
+msgid "%s: failed to seek to next archive header\n"
+msgstr ""
+
+msgid "%s: failed to skip archive symbol table\n"
+msgstr ""
+
+msgid "%s: file %s is not an archive\n"
+msgstr ""
+
+msgid "%s: fread failed"
+msgstr ""
+
+msgid "%s: invalid output format"
+msgstr ""
+
+msgid "%s: invalid radix"
+msgstr ""
+
+msgid "%s: no archive map to update"
+msgstr ""
+
+msgid "%s: no open archive\n"
+msgstr ""
+
+msgid "%s: no open output archive\n"
+msgstr ""
+
+msgid "%s: no output archive specified yet\n"
+msgstr ""
+
+msgid "%s: no recognized debugging information"
+msgstr ""
+
+msgid "%s: no resource section"
+msgstr ""
+
+msgid "%s: no symbols"
+msgstr ""
+
+msgid "%s: not a dynamic object"
+msgstr ""
+
+msgid "%s: printing debugging information failed"
+msgstr ""
+
+msgid "%s: read of %lu returned %lu"
+msgstr ""
+
+msgid "%s: read: %s"
+msgstr ""
+
+msgid "%s: supported architectures:"
+msgstr ""
+
+msgid "%s: supported formats:"
+msgstr ""
+
+msgid "%s: supported targets:"
+msgstr "%sརྒྱབ་སྐྱོར་གྱི་དམིགས་འབེན།"
+
+msgid "%s: the archive has an index but no symbols\n"
+msgstr ""
+
+msgid "%s: the archive index is empty\n"
+msgstr ""
+
+msgid ""
+"%s: the archive index is supposed to have %ld entries of %d bytes, but the "
+"size is only %ld\n"
+msgstr ""
+
+msgid "%s: unexpected EOF"
+msgstr ""
+
+msgid "%s: warning: "
+msgstr "%s：ཐ་ཚིག："
+
+msgid "%s: warning: shared libraries can not have uninitialized data"
+msgstr ""
+
+msgid "%s: warning: unknown size for field `%s' in struct"
+msgstr ""
+
+msgid "%s:%d: Ignoring rubbish found on this line"
+msgstr ""
+
+msgid "%s:%d: garbage found at end of line"
+msgstr ""
+
+msgid "'%s'"
+msgstr ""
+
+msgid "'%s': No such file"
+msgstr ""
+
+msgid "(Unknown location op)"
+msgstr ""
+
+msgid "(Unknown: %s)"
+msgstr ""
+
+msgid "(User defined location op)"
+msgstr ""
+
+msgid "(base address)\n"
+msgstr ""
+
+msgid "(declared as inline and inlined)"
+msgstr ""
+
+msgid "(declared as inline but ignored)"
+msgstr ""
+
+msgid "(inlined)"
+msgstr ""
+
+msgid "(not inlined)"
+msgstr ""
+
+msgid "(undefined)"
+msgstr ""
+
+msgid "(unknown accessibility)"
+msgstr ""
+
+msgid "(unknown case)"
+msgstr ""
+
+msgid "(unknown convention)"
+msgstr ""
+
+msgid "(unknown type)"
+msgstr ""
+
+msgid "(unknown virtuality)"
+msgstr ""
+
+msgid "(unknown visibility)"
+msgstr ""
+
+msgid "(user defined type)"
+msgstr ""
+
+msgid "(user defined)"
+msgstr ""
+
+msgid ")\n"
+msgstr ""
+
+msgid "*invalid*"
+msgstr ""
+
+msgid "*undefined*"
+msgstr ""
+
+msgid ", unknown ABI"
+msgstr ""
+
+msgid ", unknown CPU"
+msgstr ""
+
+msgid ", unknown ISA"
+msgstr ""
+
+msgid ".debug_abbrev section not zero terminated\n"
+msgstr ""
+
+msgid "16-byte\n"
+msgstr ""
+
+msgid "2 bytes\n"
+msgstr ""
+
+msgid "2's complement, big endian"
+msgstr ""
+
+msgid "2's complement, little endian"
+msgstr ""
+
+msgid "4 bytes\n"
+msgstr ""
+
+msgid ": duplicate value\n"
+msgstr ""
+
+msgid ": expected to be a directory\n"
+msgstr ""
+
+msgid ": expected to be a leaf\n"
+msgstr ""
+
+msgid ": unknown"
+msgstr ""
+
+msgid "<End of list>\n"
+msgstr ""
+
+msgid "<OS specific>: %d"
+msgstr ""
+
+msgid "<corrupt string table index: %3ld>"
+msgstr ""
+
+msgid "<corrupt>"
+msgstr ""
+
+msgid "<index offset is too big>"
+msgstr ""
+
+msgid "<indirect index offset is too big>"
+msgstr ""
+
+msgid "<no .debug_addr section>"
+msgstr ""
+
+msgid "<no .debug_str section>"
+msgstr ""
+
+msgid "<no .debug_str.dwo section>"
+msgstr ""
+
+msgid "<no .debug_str_offsets section>"
+msgstr ""
+
+msgid "<no .debug_str_offsets.dwo section>"
+msgstr ""
+
+msgid "<offset is too big>"
+msgstr ""
+
+msgid "<processor specific>: %d"
+msgstr ""
+
+msgid "<string table index: %3ld>"
+msgstr ""
+
+msgid "<unknown: %lx>"
+msgstr ""
+
+msgid "<unknown: %x>"
+msgstr ""
+
+msgid "<unknown>"
+msgstr "<ངེས་མེད།>"
+
+msgid "<unknown>: %d"
+msgstr ""
+
+msgid "<unknown>: %lx"
+msgstr ""
+
+msgid "<unknown>: %x"
+msgstr ""
+
+msgid "Added exports to output file"
+msgstr ""
+
+msgid "Adding exports to output file"
+msgstr ""
+
+msgid "Address"
+msgstr "ཤག་གནས།ས་གནས།"
+
+msgid "Any\n"
+msgstr ""
+
+msgid "Auxiliary library"
+msgstr ""
+
+msgid "BCD float type not supported"
+msgstr ""
+
+msgid "BFD header file version %s\n"
+msgstr ""
+
+msgid "Bad stab: %s\n"
+msgstr ""
+
+msgid "C++ base class not defined"
+msgstr ""
+
+msgid "C++ base class not found in container"
+msgstr ""
+
+msgid "C++ data member not found in container"
+msgstr ""
+
+msgid "C++ object has no fields"
+msgstr ""
+
+msgid "C++ reference is not pointer"
+msgstr ""
+
+msgid "C++ reference not found"
+msgstr ""
+
+msgid "C++ static virtual method"
+msgstr ""
+
+msgid "CORE (Core file)"
+msgstr ""
+
+msgid "Can't create .lib file: %s: %s"
+msgstr ""
+
+msgid "Can't have LIBRARY and NAME"
+msgstr ""
+
+msgid "Can't open .lib file: %s: %s"
+msgstr ""
+
+msgid "Can't open def file: %s"
+msgstr ""
+
+msgid "Can't open file %s\n"
+msgstr ""
+
+msgid "Cannot produce mcore-elf dll from archive file: %s"
+msgstr ""
+
+msgid "Configuration file"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid ""
+"Contents of %s section:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Contents of the %s section:\n"
+"\n"
+msgstr ""
+
+msgid "Convert a COFF object file into a SYSROFF object file\n"
+msgstr ""
+
+msgid "Copyright 2014 Free Software Foundation, Inc.\n"
+msgstr ""
+
+msgid "Corrupt file name table entry\n"
+msgstr ""
+
+msgid "Couldn't get demangled builtin type\n"
+msgstr ""
+
+msgid "Created lib file"
+msgstr ""
+
+msgid "Creating library file: %s"
+msgstr ""
+
+msgid "Creating stub file: %s"
+msgstr ""
+
+msgid "Current open archive is %s\n"
+msgstr ""
+
+msgid "DERIVED TYPE"
+msgstr ""
+
+msgid "DLLTOOL name    : %s\n"
+msgstr ""
+
+msgid "DLLTOOL options : %s\n"
+msgstr ""
+
+msgid "DRIVER name     : %s\n"
+msgstr ""
+
+msgid "DRIVER options  : %s\n"
+msgstr ""
+
+msgid "DW_FORM_data8 is unsupported when sizeof (dwarf_vma) != 8\n"
+msgstr ""
+
+msgid "DYN (Shared object file)"
+msgstr ""
+
+msgid ""
+"Decoded dump of debug contents of section %s:\n"
+"\n"
+msgstr ""
+
+msgid "Deleting temporary base file %s"
+msgstr ""
+
+msgid "Deleting temporary def file %s"
+msgstr ""
+
+msgid "Deleting temporary exp file %s"
+msgstr ""
+
+msgid "Demangled name is not a function\n"
+msgstr ""
+
+msgid "Displaying the debug contents of section %s is not yet supported.\n"
+msgstr ""
+
+msgid "Don't know about relocations on this machine architecture\n"
+msgstr ""
+
+msgid "Done reading %s"
+msgstr ""
+
+msgid "Dynamic symbols:\n"
+msgstr ""
+
+msgid "ELF Header:\n"
+msgstr ""
+
+msgid "EXEC (Executable file)"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid ""
+"End of Sequence\n"
+"\n"
+msgstr ""
+
+msgid "Entry point "
+msgstr ""
+
+msgid "Error, duplicate EXPORT with ordinals: %s"
+msgstr ""
+
+msgid "Excluding symbol: %s"
+msgstr ""
+
+msgid "Execution of %s failed"
+msgstr ""
+
+msgid ""
+"FORMAT is one of rc, res, or coff, and is deduced from the file name\n"
+"extension if not specified.  A single file name is an input file.\n"
+"No input-file is stdin, default rc.  No output-file is stdout, default rc.\n"
+msgstr ""
+
+msgid "Failed to print demangled template\n"
+msgstr ""
+
+msgid "File contains multiple dynamic string tables\n"
+msgstr ""
+
+msgid "File contains multiple dynamic symbol tables\n"
+msgstr ""
+
+msgid "File header:\n"
+msgstr ""
+
+msgid "File name                            Line number    Starting address\n"
+msgstr ""
+
+msgid "Filter library"
+msgstr ""
+
+msgid "Flags:"
+msgstr ""
+
+msgid "GOT A %x\n"
+msgstr ""
+
+msgid "Generated exports file"
+msgstr ""
+
+msgid "Generating export file: %s"
+msgstr ""
+
+msgid "Generic\n"
+msgstr ""
+
+msgid "Hard float\n"
+msgstr ""
+
+msgid "Hard float (MIPS32r2 64-bit FPU)\n"
+msgstr ""
+
+msgid "Hard float (double precision)\n"
+msgstr ""
+
+msgid "Hard float (single precision)\n"
+msgstr ""
+
+msgid "Hard or soft float\n"
+msgstr ""
+
+msgid "IEEE numeric overflow: 0x"
+msgstr ""
+
+msgid "IEEE string length overflow: %u\n"
+msgstr ""
+
+msgid "IEEE unsupported complex type size %u\n"
+msgstr ""
+
+msgid "IEEE unsupported float type size %u\n"
+msgstr ""
+
+msgid "IEEE unsupported integer type size %u\n"
+msgstr ""
+
+msgid "In archive %s:\n"
+msgstr ""
+
+msgid "Internal error: DWARF version is not 2, 3 or 4.\n"
+msgstr ""
+
+msgid "Internal error: Unknown machine type: %d"
+msgstr ""
+
+msgid "Invalid option '-%c'\n"
+msgstr ""
+
+msgid "Keeping temporary base file %s"
+msgstr ""
+
+msgid "Keeping temporary def file %s"
+msgstr ""
+
+msgid "Keeping temporary exp file %s"
+msgstr ""
+
+msgid "LIBRARY: %s base: %x"
+msgstr ""
+
+msgid "List of blocks "
+msgstr ""
+
+msgid "List of source files"
+msgstr ""
+
+msgid "List of symbols"
+msgstr ""
+
+msgid "MODULE***\n"
+msgstr ""
+
+msgid "Mach-O header:\n"
+msgstr ""
+
+msgid "Machine '%s' not supported"
+msgstr ""
+
+msgid "Memory\n"
+msgstr ""
+
+msgid "Memory section %s+%x"
+msgstr ""
+
+msgid "Multiple renames of section %s"
+msgstr ""
+
+msgid "Must provide at least one of -o or --dllname options"
+msgstr ""
+
+msgid "NAME: %s base: %x"
+msgstr ""
+
+msgid "NONE (None)"
+msgstr ""
+
+msgid "NT_ARCH (architecture)"
+msgstr ""
+
+msgid "NT_FPREGS (floating point registers)"
+msgstr ""
+
+msgid "NT_FPREGSET (floating point registers)"
+msgstr ""
+
+msgid "NT_LWPSINFO (lwpsinfo_t structure)"
+msgstr ""
+
+msgid "NT_LWPSTATUS (lwpstatus_t structure)"
+msgstr ""
+
+msgid "NT_PRPSINFO (prpsinfo structure)"
+msgstr ""
+
+msgid "NT_PRSTATUS (prstatus structure)"
+msgstr ""
+
+msgid "NT_PRXFPREG (user_xfpregs structure)"
+msgstr ""
+
+msgid "NT_PSINFO (psinfo structure)"
+msgstr ""
+
+msgid "NT_PSTATUS (pstatus structure)"
+msgstr ""
+
+msgid "NT_TASKSTRUCT (task structure)"
+msgstr ""
+
+msgid "NT_VERSION (version)"
+msgstr ""
+
+msgid "NT_WIN32PSTATUS (win32_pstatus structure)"
+msgstr ""
+
+msgid "N_LBRAC not within function\n"
+msgstr ""
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Name index: %ld\n"
+msgstr ""
+
+msgid "Name: %s\n"
+msgstr ""
+
+msgid "NetBSD procinfo structure"
+msgstr ""
+
+msgid ""
+"No %s section present\n"
+"\n"
+msgstr ""
+
+msgid "No entry %s in archive.\n"
+msgstr ""
+
+msgid "No filename following the -fo option.\n"
+msgstr ""
+
+msgid "No location lists in .debug_info section!\n"
+msgstr ""
+
+msgid "No mangling for \"%s\"\n"
+msgstr ""
+
+msgid "No member named `%s'\n"
+msgstr ""
+
+msgid "No note segments present in the core file.\n"
+msgstr ""
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "None\n"
+msgstr ""
+
+msgid "Not an ELF file - it has the wrong magic bytes at the start\n"
+msgstr ""
+
+msgid "Not enough memory for a debug info array of %u entries"
+msgstr ""
+
+msgid "Not needed object: [%s]\n"
+msgstr ""
+
+msgid "Not used\n"
+msgstr ""
+
+msgid "Nothing to do.\n"
+msgstr ""
+
+msgid "OS Specific: (%x)"
+msgstr ""
+
+msgid "Offset 0x%lx is bigger than .debug_loc section size.\n"
+msgstr ""
+
+msgid "Only -X 32_64 is supported"
+msgstr ""
+
+msgid "Only DWARF 2 and 3 aranges are currently supported.\n"
+msgstr ""
+
+msgid "Only DWARF 2 and 3 pubnames are currently supported\n"
+msgstr ""
+
+msgid "Only DWARF version 2, 3 and 4 line info is currently supported.\n"
+msgstr ""
+
+msgid "Opened temporary file: %s"
+msgstr ""
+
+msgid "Operating System specific: %lx"
+msgstr ""
+
+msgid ""
+"Option -I is deprecated for setting the input format, please use -J "
+"instead.\n"
+msgstr ""
+
+msgid "Out of memory\n"
+msgstr ""
+
+msgid "PT_GETFPREGS (fpreg structure)"
+msgstr ""
+
+msgid "PT_GETREGS (reg structure)"
+msgstr ""
+
+msgid "Pascal file name not supported"
+msgstr ""
+
+msgid "Path components stripped from dllname, '%s'."
+msgstr ""
+
+msgid "Print a human readable interpretation of a SYSROFF object file\n"
+msgstr ""
+
+msgid "Processed def file"
+msgstr ""
+
+msgid "Processed definitions"
+msgstr ""
+
+msgid "Processing def file: %s"
+msgstr ""
+
+msgid "Processing definitions"
+msgstr ""
+
+msgid "Processor Specific: %lx"
+msgstr ""
+
+msgid "Processor Specific: (%x)"
+msgstr ""
+
+msgid "REL (Relocatable file)"
+msgstr ""
+
+msgid ""
+"Raw dump of debug contents of section %s:\n"
+"\n"
+msgstr ""
+
+msgid "Refuse to unwind"
+msgstr ""
+
+msgid "Register %d"
+msgstr ""
+
+msgid "Report bugs to %s\n"
+msgstr ""
+
+msgid "Report bugs to %s.\n"
+msgstr ""
+
+msgid "SUM IS %x\n"
+msgstr ""
+
+msgid "SYMBOL INFO"
+msgstr ""
+
+msgid "Scanning object file %s"
+msgstr ""
+
+msgid "Sections:\n"
+msgstr ""
+
+msgid "Seg Offset           Type                             SymVec DataType\n"
+msgstr ""
+
+msgid "Segments and Sections:\n"
+msgstr ""
+
+msgid "Shared library: [%s]"
+msgstr ""
+
+msgid "Single-precision hard float\n"
+msgstr ""
+
+msgid "Skipping unexpected relocation type %s\n"
+msgstr ""
+
+msgid "Soft float\n"
+msgstr ""
+
+msgid "Source file %s"
+msgstr ""
+
+msgid "Standalone App"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Sucking in info from %s section in %s"
+msgstr ""
+
+msgid "Supported architectures:"
+msgstr ""
+
+msgid "Supported targets:"
+msgstr ""
+
+msgid "Syntax error in def file %s:%d"
+msgstr ""
+
+msgid "TOC:\n"
+msgstr ""
+
+msgid "The address table data in version 3 may be wrong.\n"
+msgstr ""
+
+msgid "The line info appears to be corrupt - the section is too small\n"
+msgstr ""
+
+msgid "There are %d section headers, starting at offset 0x%lx:\n"
+msgstr ""
+
+msgid "There is a hole [0x%lx - 0x%lx] in .debug_loc section.\n"
+msgstr ""
+
+msgid "There is an overlap [0x%lx - 0x%lx] in .debug_loc section.\n"
+msgstr ""
+
+msgid ""
+"This instance of readelf has been built without support for a\n"
+"64 bit data type and so it cannot read 64 bit ELF files.\n"
+msgstr ""
+
+msgid ""
+"This program is free software; you may redistribute it under the terms of\n"
+"the GNU General Public License version 3 or (at your option) any later version.\n"
+"This program has absolutely no warranty.\n"
+msgstr ""
+
+msgid "Too many N_RBRACs\n"
+msgstr ""
+
+msgid "Tried file: %s"
+msgstr ""
+
+msgid "True\n"
+msgstr ""
+
+msgid "Type"
+msgstr "རིགས་གྲས་"
+
+msgid "Type file number %d out of range\n"
+msgstr ""
+
+msgid "Type index number %d out of range\n"
+msgstr ""
+
+msgid "UNKNOWN (%u): length %d\n"
+msgstr ""
+
+msgid "UNKNOWN: "
+msgstr ""
+
+msgid "Unable to determine dll name for `%s' (not an import library?)"
+msgstr ""
+
+msgid "Unable to determine the length of the dynamic string table\n"
+msgstr ""
+
+msgid "Unable to determine the number of symbols to load\n"
+msgstr ""
+
+msgid "Unable to find program interpreter name\n"
+msgstr ""
+
+msgid ""
+"Unable to load/parse the .debug_info section, so cannot interpret the %s "
+"section.\n"
+msgstr ""
+
+msgid "Unable to locate %s section!\n"
+msgstr ""
+
+msgid "Unable to open base-file: %s"
+msgstr ""
+
+msgid "Unable to open object file: %s: %s"
+msgstr ""
+
+msgid "Unable to open temporary assembler file: %s"
+msgstr ""
+
+msgid "Unable to read in dynamic data\n"
+msgstr ""
+
+msgid "Unable to seek to end of file\n"
+msgstr ""
+
+msgid "Undefined N_EXCL"
+msgstr ""
+
+msgid "Undefined symbol"
+msgstr ""
+
+msgid "Unexpected demangled varargs\n"
+msgstr ""
+
+msgid "Unexpected type in v3 arglist demangling\n"
+msgstr ""
+
+msgid "Unhandled data length: %d\n"
+msgstr ""
+
+msgid "Unknown AT value: %lx"
+msgstr ""
+
+msgid "Unknown FORM value: %lx"
+msgstr ""
+
+msgid "Unknown TAG value: %lx"
+msgstr ""
+
+msgid "Unknown note type: (0x%08x)"
+msgstr ""
+
+msgid "Unrecognized XCOFF type %d\n"
+msgstr ""
+
+msgid "Unrecognized debug option '%s'\n"
+msgstr ""
+
+msgid "Unrecognized debug section: %s\n"
+msgstr ""
+
+msgid "Unrecognized demangle component %d\n"
+msgstr ""
+
+msgid "Unrecognized form: %lu\n"
+msgstr ""
+
+msgid "Usage %s <option(s)> <object-file(s)>\n"
+msgstr ""
+
+msgid "Usage: %s <option(s)> <file(s)>\n"
+msgstr ""
+
+msgid "Usage: %s <option(s)> in-file(s)\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [emulation options] [-]{dmpqrstx}[abcDfilMNoPsSTuvV] [--plugin "
+"<name>] [member-name] [count] archive-file file...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [emulation options] [-]{dmpqrstx}[abcDfilMNoPsSTuvV] [member-name]"
+" [count] archive-file file...\n"
+msgstr ""
+
+msgid "Usage: %s [option(s)] [addr(s)]\n"
+msgstr ""
+
+msgid "Usage: %s [option(s)] [file(s)]\n"
+msgstr ""
+
+msgid "Usage: %s [option(s)] [in-file [out-file]]\n"
+msgstr ""
+
+msgid "Usage: %s [option(s)] [input-file] [output-file]\n"
+msgstr ""
+
+msgid "Usage: %s [option(s)] in-file\n"
+msgstr ""
+
+msgid "Usage: %s [option(s)] in-file [out-file]\n"
+msgstr ""
+
+msgid "Usage: %s [options] archive\n"
+msgstr ""
+
+msgid "Usage: readelf <option(s)> elf-file(s)\n"
+msgstr ""
+
+msgid "Using `%s'\n"
+msgstr ""
+
+msgid "Using file: %s"
+msgstr ""
+
+msgid "Using popen to read preprocessor output\n"
+msgstr ""
+
+msgid "Using temporary file `%s' to read preprocessor output\n"
+msgstr ""
+
+msgid "VERSION %d.%d\n"
+msgstr ""
+
+msgid "Value for `N' must be positive."
+msgstr ""
+
+msgid "Version %ld\n"
+msgstr ""
+
+msgid "Version 4 does not support case insensitive lookups.\n"
+msgstr ""
+
+msgid "Version 5 does not include inlined functions.\n"
+msgstr ""
+
+msgid "Version 6 does not include symbol attributes.\n"
+msgstr ""
+
+msgid "Visible"
+msgstr "མཐོང་ཐུབ་པ།"
+
+msgid "WANTED %x!!\n"
+msgstr ""
+
+msgid "Warning, ignoring duplicate EXPORT %s %d,%d"
+msgstr ""
+
+msgid "Warning: %s: %s\n"
+msgstr ""
+
+msgid "Warning: '%s' is not an ordinary file"
+msgstr ""
+
+msgid "Warning: changing type size from %d to %d\n"
+msgstr ""
+
+msgid "Warning: could not locate '%s'.  reason: %s"
+msgstr ""
+
+msgid "Warning: truncating gap-fill from 0x%s to 0x%x"
+msgstr ""
+
+msgid "Where"
+msgstr "ནས་འོང་བ།"
+
+msgid "[%3u] 0x%lx - 0x%lx\n"
+msgstr ""
+
+msgid "[%3u] 0x%lx 0x%lx "
+msgstr ""
+
+msgid "`N' is only meaningful with the `x' and `d' options."
+msgstr ""
+
+msgid "`u' is not meaningful with the `D' option."
+msgstr ""
+
+msgid "`u' is only meaningful with the `r' option."
+msgstr ""
+
+msgid "`u' modifier ignored since `D' is the default (see `U')"
+msgstr ""
+
+msgid "`x' cannot be used on thin archives."
+msgstr ""
+
+msgid "accelerator"
+msgstr ""
+
+msgid "architecture %s unknown"
+msgstr ""
+
+msgid "architecture: %s, "
+msgstr ""
+
+msgid "arguments"
+msgstr "ཞུགས་གྲངས།"
+
+msgid "bad ATN65 record"
+msgstr ""
+
+msgid "bad C++ field bit pos or size"
+msgstr ""
+
+msgid "bad dynamic symbol\n"
+msgstr ""
+
+msgid "bad format for %s"
+msgstr ""
+
+msgid "bad mangled name `%s'\n"
+msgstr ""
+
+msgid "bad misc record"
+msgstr ""
+
+msgid "bad type for C++ method function"
+msgstr ""
+
+msgid "bfd_coff_get_auxent failed: %s"
+msgstr ""
+
+msgid "bfd_coff_get_syment failed: %s"
+msgstr ""
+
+msgid "bfd_open failed open stub file: %s: %s"
+msgstr ""
+
+msgid "bfd_open failed reopen stub file: %s: %s"
+msgstr ""
+
+msgid "big endian"
+msgstr ""
+
+msgid "blocks"
+msgstr "དུམ་བུ།"
+
+msgid "blocks left on stack at end"
+msgstr ""
+
+msgid "byte number must be non-negative"
+msgstr ""
+
+msgid "can not determine type of file `%s'; use the -J option"
+msgstr ""
+
+msgid "can't execute `%s': %s"
+msgstr ""
+
+msgid "can't get BFD_RELOC_RVA relocation type"
+msgstr ""
+
+msgid "can't open %s `%s': %s"
+msgstr ""
+
+msgid "can't open `%s' for output: %s"
+msgstr ""
+
+msgid "can't open temporary file `%s': %s"
+msgstr ""
+
+msgid "can't popen `%s': %s"
+msgstr ""
+
+msgid "can't redirect stdout: `%s': %s"
+msgstr ""
+
+msgid "can't set BFD default target to `%s': %s"
+msgstr ""
+
+msgid "cannot delete %s: %s"
+msgstr " %s：%s འདོར་མི་ཐུབ།"
+
+msgid "cannot open '%s': %s"
+msgstr ""
+
+msgid "cannot open input file %s"
+msgstr "ནང་འཇུག་ཡིག་ཆ %s ཁ་ཕྱེ་མི་ཐུབ།"
+
+msgid "cannot open: %s: %s"
+msgstr ""
+
+msgid "code"
+msgstr "སྒྲིག་ཨང་།"
+
+msgid "conflict"
+msgstr ""
+
+msgid "const/volatile indicator missing"
+msgstr ""
+
+msgid "corrupt attribute\n"
+msgstr ""
+
+msgid "corrupt tag\n"
+msgstr ""
+
+msgid "couldn't open symbol redefinition file %s (error: %s)"
+msgstr ""
+
+msgid "creating %s"
+msgstr "གསར་འཛུགས་བྱེད་བཞིན་པ། %s"
+
+msgid "cursor"
+msgstr ""
+
+msgid "cursor file `%s' does not contain cursor data"
+msgstr ""
+
+msgid "custom section"
+msgstr ""
+
+msgid "data entry"
+msgstr ""
+
+msgid "data size %ld"
+msgstr ""
+
+msgid "debug_add_to_current_namespace: no current file"
+msgstr ""
+
+msgid "debug_end_block: attempt to close top level block"
+msgstr ""
+
+msgid "debug_end_block: no current block"
+msgstr ""
+
+msgid "debug_end_common_block: not implemented"
+msgstr ""
+
+msgid "debug_end_function: no current function"
+msgstr ""
+
+msgid "debug_end_function: some blocks were not closed"
+msgstr ""
+
+msgid "debug_find_named_type: no current compilation unit"
+msgstr ""
+
+msgid "debug_get_real_type: circular debug information for %s\n"
+msgstr ""
+
+msgid "debug_make_undefined_type: unsupported kind"
+msgstr ""
+
+msgid "debug_name_type: no current file"
+msgstr ""
+
+msgid "debug_record_function: no debug_set_filename call"
+msgstr ""
+
+msgid "debug_record_label: not implemented"
+msgstr ""
+
+msgid "debug_record_line: no current unit"
+msgstr ""
+
+msgid "debug_record_parameter: no current function"
+msgstr ""
+
+msgid "debug_record_variable: no current file"
+msgstr ""
+
+msgid "debug_start_block: no current block"
+msgstr ""
+
+msgid "debug_start_common_block: not implemented"
+msgstr ""
+
+msgid "debug_start_source: no debug_set_filename call"
+msgstr ""
+
+msgid "debug_tag_type: extra tag attempted"
+msgstr ""
+
+msgid "debug_tag_type: no current file"
+msgstr ""
+
+msgid "debug_write_type: illegal type encountered"
+msgstr ""
+
+msgid "define new File Table entry\n"
+msgstr ""
+
+msgid "dialog control"
+msgstr ""
+
+msgid "dialog control data"
+msgstr ""
+
+msgid "dialog control end"
+msgstr ""
+
+msgid "dialog header"
+msgstr ""
+
+msgid "dialogex control"
+msgstr ""
+
+msgid "directory"
+msgstr "དཀར་ཆག"
+
+msgid "directory entry name"
+msgstr ""
+
+msgid "dwo_id"
+msgstr ""
+
+msgid "dynamic string table"
+msgstr ""
+
+msgid "dynamic strings"
+msgstr ""
+
+msgid "endianness unknown"
+msgstr ""
+
+msgid "enum definition"
+msgstr ""
+
+msgid "error: %s both copied and removed"
+msgstr ""
+
+msgid "expression stack mismatch"
+msgstr ""
+
+msgid "expression stack overflow"
+msgstr ""
+
+msgid "expression stack underflow"
+msgstr ""
+
+msgid "failed to open temporary head file: %s"
+msgstr ""
+
+msgid "failed to open temporary head file: %s: %s"
+msgstr ""
+
+msgid "failed to open temporary tail file: %s"
+msgstr ""
+
+msgid "failed to open temporary tail file: %s: %s"
+msgstr ""
+
+msgid "failed to read the number of entries from base file"
+msgstr ""
+
+msgid "filename required for COFF input"
+msgstr ""
+
+msgid "filename required for COFF output"
+msgstr ""
+
+msgid "flags 0x%08x:\n"
+msgstr ""
+
+msgid "fontdir"
+msgstr ""
+
+msgid "fontdir device name"
+msgstr ""
+
+msgid "fontdir header"
+msgstr ""
+
+msgid "function"
+msgstr "རྟེན་འབྱུང་གྲངས།"
+
+msgid "function returning"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "global"
+msgstr "ཁྱོན་ཡོངས།"
+
+msgid "group cursor"
+msgstr ""
+
+msgid "group cursor header"
+msgstr ""
+
+msgid "group icon"
+msgstr ""
+
+msgid "group icon header"
+msgstr ""
+
+msgid "help section"
+msgstr ""
+
+msgid "icon file `%s' does not contain icon data"
+msgstr ""
+
+msgid "illegal type index"
+msgstr ""
+
+msgid "illegal variable index"
+msgstr ""
+
+msgid "input and output files must be different"
+msgstr ""
+
+msgid "input file does not seems to be UFT16.\n"
+msgstr ""
+
+msgid "input file named both on command line and with INPUT"
+msgstr ""
+
+msgid "internal error -- this option not implemented"
+msgstr ""
+
+msgid "internal stat error on %s"
+msgstr ""
+
+msgid "invalid argument to --format: %s"
+msgstr ""
+
+msgid "invalid codepage specified.\n"
+msgstr ""
+
+msgid "invalid integer argument %s"
+msgstr ""
+
+msgid "invalid minimum string length %d"
+msgstr ""
+
+msgid "invalid number"
+msgstr ""
+
+msgid "invalid option -f\n"
+msgstr ""
+
+msgid "invalid string length"
+msgstr ""
+
+msgid "length %d ["
+msgstr ""
+
+msgid "little endian"
+msgstr ""
+
+msgid "make .bss section"
+msgstr ""
+
+msgid "make .nlmsections section"
+msgstr ""
+
+msgid "menu header"
+msgstr ""
+
+msgid "menuex header"
+msgstr ""
+
+msgid "menuex offset"
+msgstr ""
+
+msgid "menuitem"
+msgstr "འདེམས་བྱང་ཚན་པ།"
+
+msgid "menuitem header"
+msgstr ""
+
+msgid "message section"
+msgstr ""
+
+msgid "missing index type"
+msgstr ""
+
+msgid "missing required ASN"
+msgstr ""
+
+msgid "missing required ATN65"
+msgstr ""
+
+msgid "module section"
+msgstr ""
+
+msgid "more than one dynamic segment\n"
+msgstr ""
+
+msgid "named directory entry"
+msgstr ""
+
+msgid "named resource"
+msgstr ""
+
+msgid "named subdirectory"
+msgstr ""
+
+msgid "no argument types in mangled string\n"
+msgstr ""
+
+msgid "no entry %s in archive\n"
+msgstr ""
+
+msgid "no entry %s in archive %s!"
+msgstr ""
+
+msgid ""
+"no export definition file provided.\n"
+"Creating one, but that may not be what you want"
+msgstr ""
+
+msgid "no info"
+msgstr ""
+
+msgid "no input file"
+msgstr "ནང་འཇུག་ཡིག་ཆ་མེད།"
+
+msgid "no input file specified"
+msgstr ""
+
+msgid "no name for output file"
+msgstr ""
+
+msgid "no operation specified"
+msgstr ""
+
+msgid "no resources"
+msgstr ""
+
+msgid "no symbols\n"
+msgstr ""
+
+msgid "none"
+msgstr "མེད།"
+
+msgid "notes"
+msgstr "མཆན་འགྲེལ།"
+
+msgid "null terminated unicode string"
+msgstr ""
+
+msgid "numeric overflow"
+msgstr ""
+
+msgid "offset: %s "
+msgstr ""
+
+msgid "options"
+msgstr "འདེམས་ཚན།"
+
+msgid "parse_coff_type: Bad type code 0x%x"
+msgstr ""
+
+msgid "pointer to"
+msgstr ""
+
+msgid "program headers"
+msgstr ""
+
+msgid "pwait returns: %s"
+msgstr ""
+
+msgid "reference parameter is not a pointer"
+msgstr ""
+
+msgid "resource ID"
+msgstr ""
+
+msgid "resource data"
+msgstr ""
+
+msgid "resource data size"
+msgstr ""
+
+msgid "resource type unknown"
+msgstr ""
+
+msgid "rpc section"
+msgstr ""
+
+msgid "run: %s %s"
+msgstr ""
+
+msgid "s"
+msgstr ""
+
+msgid "section data"
+msgstr ""
+
+msgid "section definition at %x size %x\n"
+msgstr ""
+
+msgid "section headers"
+msgstr ""
+
+msgid "set .bss vma"
+msgstr ""
+
+msgid "set .data size"
+msgstr ""
+
+msgid "set .nlmsection contents"
+msgstr ""
+
+msgid "set .nlmsections size"
+msgstr ""
+
+msgid "set Address to 0x%s\n"
+msgstr ""
+
+msgid "set section alignment"
+msgstr ""
+
+msgid "set section flags"
+msgstr ""
+
+msgid "set section size"
+msgstr ""
+
+msgid "set start address"
+msgstr ""
+
+msgid "shared section"
+msgstr ""
+
+msgid "signature"
+msgstr "མིང་རྟགས་འགོད་པ།"
+
+msgid "size %d "
+msgstr ""
+
+msgid "size: %s "
+msgstr ""
+
+msgid "sorry - this program has been built without plugin support\n"
+msgstr ""
+
+msgid "stab_int_type: bad size %u"
+msgstr ""
+
+msgid "stack overflow"
+msgstr ""
+
+msgid "stack underflow"
+msgstr ""
+
+msgid "stat failed on bitmap file `%s': %s"
+msgstr ""
+
+msgid "static"
+msgstr ""
+
+msgid "string table"
+msgstr ""
+
+msgid "string_hash_lookup failed: %s"
+msgstr ""
+
+msgid "stringtable string"
+msgstr ""
+
+msgid "stringtable string length"
+msgstr ""
+
+msgid "structure definition"
+msgstr ""
+
+msgid "stub section sizes"
+msgstr ""
+
+msgid "subprocess got fatal signal %d"
+msgstr ""
+
+msgid "supported flags: %s"
+msgstr ""
+
+msgid "symbol information"
+msgstr ""
+
+msgid "symbols"
+msgstr "མཚོན་རྟགས།"
+
+msgid "two different operation options specified"
+msgstr ""
+
+msgid "type"
+msgstr "རིགས་གྲས།"
+
+msgid "unable to open output file %s"
+msgstr ""
+
+msgid "undefined C++ object"
+msgstr ""
+
+msgid "undefined C++ vtable"
+msgstr ""
+
+msgid "undefined variable in ATN"
+msgstr ""
+
+msgid "undefined variable in TY"
+msgstr ""
+
+msgid "unexpected DIALOGEX version %d"
+msgstr ""
+
+msgid "unexpected end of debugging information"
+msgstr ""
+
+msgid "unexpected fixed version info version %lu"
+msgstr ""
+
+msgid "unexpected fixed version signature %lu"
+msgstr ""
+
+msgid "unexpected group cursor type %d"
+msgstr ""
+
+msgid "unexpected group icon type %d"
+msgstr ""
+
+msgid "unexpected number"
+msgstr ""
+
+msgid "unexpected record type"
+msgstr ""
+
+msgid "unexpected string in C++ misc"
+msgstr ""
+
+msgid "unexpected version string"
+msgstr ""
+
+msgid "unexpected version type %d"
+msgstr ""
+
+msgid "unknown"
+msgstr "མི་ཤེས།"
+
+msgid "unknown ATN type"
+msgstr ""
+
+msgid "unknown BB type"
+msgstr ""
+
+msgid "unknown C++ encoded name"
+msgstr ""
+
+msgid "unknown C++ visibility"
+msgstr ""
+
+msgid "unknown TY code"
+msgstr ""
+
+msgid "unknown builtin type"
+msgstr ""
+
+msgid "unknown demangling style `%s'"
+msgstr ""
+
+msgid "unknown format type `%s'"
+msgstr ""
+
+msgid "unknown magic"
+msgstr ""
+
+msgid "unknown section"
+msgstr ""
+
+msgid "unknown virtual character for baseclass"
+msgstr ""
+
+msgid "unknown visibility character for baseclass"
+msgstr ""
+
+msgid "unknown visibility character for field"
+msgstr ""
+
+msgid "unnamed $vb type"
+msgstr ""
+
+msgid "unrecognized --endian type `%s'"
+msgstr ""
+
+msgid "unrecognized -E option"
+msgstr ""
+
+msgid "unrecognized C++ abbreviation"
+msgstr ""
+
+msgid "unrecognized C++ default type"
+msgstr ""
+
+msgid "unrecognized C++ misc record"
+msgstr ""
+
+msgid "unrecognized C++ object spec"
+msgstr ""
+
+msgid "unrecognized C++ reference type"
+msgstr ""
+
+msgid "unrecognized cross reference type"
+msgstr ""
+
+msgid "unrecognized section flag `%s'"
+msgstr ""
+
+msgid "unrecognized: %-7lx"
+msgstr ""
+
+msgid "unsupported ATN11"
+msgstr ""
+
+msgid "unsupported ATN12"
+msgstr ""
+
+msgid "unsupported C++ object type"
+msgstr ""
+
+msgid "unsupported IEEE expression operator"
+msgstr ""
+
+msgid "unsupported menu version %d"
+msgstr ""
+
+msgid "unsupported qualifier"
+msgstr ""
+
+msgid "unused5"
+msgstr ""
+
+msgid "unused6"
+msgstr ""
+
+msgid "unused7"
+msgstr ""
+
+msgid "unwind data"
+msgstr ""
+
+msgid "unwind info"
+msgstr ""
+
+msgid "user defined: "
+msgstr ""
+
+msgid "variable"
+msgstr "གཟུགས་འགྱུར།"
+
+msgid "version data"
+msgstr ""
+
+msgid "version def"
+msgstr ""
+
+msgid "version def aux"
+msgstr ""
+
+msgid "version definition section"
+msgstr ""
+
+msgid "version length %d does not match resource length %lu"
+msgstr ""
+
+msgid "version need"
+msgstr ""
+
+msgid "version string table"
+msgstr ""
+
+msgid "version symbol data"
+msgstr ""
+
+msgid "wait: %s"
+msgstr ""
+
+msgid "warning: CHECK procedure %s not defined"
+msgstr ""
+
+msgid "warning: EXIT procedure %s not defined"
+msgstr ""
+
+msgid "warning: No version number given"
+msgstr ""
+
+msgid "warning: START procedure %s not defined"
+msgstr ""
+
+msgid "warning: input and output formats are not compatible"
+msgstr ""
+
+msgid "warning: symbol %s imported but not in import list"
+msgstr ""
+
+msgid "writing stub"
+msgstr ""
+
+msgid "| <unknown>"
+msgstr ""

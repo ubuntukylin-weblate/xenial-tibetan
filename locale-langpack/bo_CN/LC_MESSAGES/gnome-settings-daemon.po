@@ -1,0 +1,1643 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%i %s %i %s"
+msgstr "\"%i %s %i %s\""
+
+msgid "%i hour"
+msgid_plural "%i hours"
+msgstr[0] "དུས་ཚོད་%i"
+msgstr[1] "དུས་ཚོད་%i"
+
+msgid "%i minute"
+msgid_plural "%i minutes"
+msgstr[0] "སྐར་མ་%i"
+msgstr[1] "སྐར་མ་%i"
+
+msgid "%s of UPS backup power remaining"
+msgstr ""
+
+msgid "%u Input"
+msgid_plural "%u Inputs"
+msgstr[0] "%u ནང་འཇུག"
+msgstr[1] "%u ནང་འཇུག"
+
+msgid "%u Output"
+msgid_plural "%u Outputs"
+msgstr[0] "\"%u ཕྱིར་འདོན།"
+msgstr[1] "\"%u ཕྱིར་འདོན།"
+
+msgid ""
+"'clone' will display the same thing on all monitors, 'dock' will switch off "
+"the internal monitor, 'do-nothing' will use the default Xorg behaviour "
+"(extend the desktop in recent versions). The default, 'follow-lid', will "
+"choose between 'do-nothing' and 'dock' depending on whether the lid is "
+"(respectively) open or closed."
+msgstr ""
+
+msgid "(Esc to cancel)"
+msgstr ""
+
+msgid "(press any key to exit)"
+msgstr ""
+
+msgid ""
+"A list of strings representing the GTK+ modules that will be loaded, usually"
+" in addition to conditional and forcibly disabled ones."
+msgstr ""
+
+msgid ""
+"A list of strings representing the GTK+ modules that will not be loaded, "
+"even if enabled by default in their configuration."
+msgstr ""
+
+msgid ""
+"A list of strings representing the plugins that are allowed to be loaded "
+"(default: 'all'). The plugins still need to be marked as active to get "
+"loaded. This is only evaluated on startup."
+msgstr ""
+
+msgid "A previous update was unfinished."
+msgstr ""
+
+msgid "A software update is available."
+msgid_plural "Software updates are available."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "A transaction that cannot be interrupted is running"
+msgstr ""
+
+msgid "Accessibility Keyboard"
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་མཐེབ་གཞོང་།"
+
+msgid "Accessibility keyboard plugin"
+msgstr "གཞོགས་འདེགས་བྱེད་ནུས་མཐེབ་གཞོང་བསྒར་ལྷུ།"
+
+msgid "Accessibility settings"
+msgstr ""
+
+msgid "Accessibility settings plugin"
+msgstr ""
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "Send Keystroke %s"
+msgstr ""
+
+msgid "Show On-Screen Help"
+msgstr ""
+
+msgid "Switch Monitor"
+msgstr ""
+
+msgid "Activation of this plugin"
+msgstr ""
+
+msgid ""
+"Additional firmware is required to make hardware in this computer function "
+"correctly."
+msgstr ""
+
+msgid "Additional firmware required"
+msgstr ""
+
+msgid "Additional software was installed"
+msgstr ""
+
+msgid "An important OS update failed to be installed."
+msgstr ""
+
+msgid "An important OS update has been installed."
+msgid_plural "Important OS updates have been installed."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "An important software update is available"
+msgid_plural "Important software updates are available"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "An offline update was requested but no packages required updating."
+msgstr ""
+
+msgid "An update failed to install correctly."
+msgstr ""
+
+msgid "An update was not signed in the correct way."
+msgstr ""
+
+msgid "Antialiasing"
+msgstr "མུ་འགྲམ་འཇམ་སྙོམས།"
+
+msgid "Approximately %s of remaining UPS backup power (%.0f%%)"
+msgstr ""
+
+msgid ""
+"Approximately %s of remaining UPS power (%.0f%%). Restore AC power to your "
+"computer to avoid losing data."
+msgstr ""
+
+msgid "Approximately %s remaining (%.0f%%)"
+msgstr ""
+
+msgid "Ask the user if additional firmware should be installed"
+msgstr ""
+
+msgid ""
+"Ask the user if additional firmware should be installed if it is available."
+msgstr ""
+
+msgid "Attached computer battery low"
+msgstr "འབྲེལ་མཐུད་ཀྱི་རྩིས་འཁོར་གློག་སྨན་ཀྱི་གློག་ཚད་དམའ་བ།"
+
+msgid "Attached computer is low in power (%.0f%%)"
+msgstr ""
+
+msgid ""
+"Attached computer is very low in power (%.0f%%). The device will soon "
+"shutdown if not charged."
+msgstr ""
+
+msgid "Authentication is required to modify the OLED image for a Wacom tablet"
+msgstr ""
+
+msgid "Authentication is required to modify the laptop brightness"
+msgstr ""
+
+msgid "Authentication is required to modify the lit LED for a Wacom tablet"
+msgstr ""
+
+msgid "Automatic hibernation"
+msgstr ""
+
+msgid "Automatic logout"
+msgstr ""
+
+msgid "Automatic suspend"
+msgstr ""
+
+msgid "Automatically download updates in the background without confirmation"
+msgstr ""
+
+msgid ""
+"Automatically download updates in the background without confirmation. "
+"Updates will be auto-downloaded when using wired network connnections, and "
+"mobile broadband if 'connection-use-mobile' is enabled."
+msgstr ""
+
+msgid ""
+"Automatically prunes thumbnail caches and other transient files, and warns "
+"about low disk space"
+msgstr ""
+
+msgid "Automatically update timezone"
+msgstr "དུས་ཁུལ་རང་འགུལ་གསར་སྒྱུར།"
+
+msgid "Battery Status"
+msgstr ""
+
+msgid "Battery critically low"
+msgstr ""
+
+msgid "Battery is critically low"
+msgstr ""
+
+msgid "Battery is low"
+msgstr "གློག་རྫས་ཀྱི་གློག་ཚད་དམའ་བ།"
+
+msgid "Battery low"
+msgstr "གློག་རྫས་ཀྱི་གློག་ཚད་དམའ་བ།"
+
+msgid "Binding"
+msgstr "བསྡམས་བཅད།"
+
+msgid "Binding for the custom binding"
+msgstr ""
+
+msgid "Binding for the magnifier to zoom in"
+msgstr ""
+
+msgid "Binding for the magnifier to zoom out"
+msgstr ""
+
+msgid "Binding to copy a screenshot of a window to clipboard."
+msgstr ""
+
+msgid "Binding to copy a screenshot of an area to clipboard."
+msgstr ""
+
+msgid "Binding to copy a screenshot to clipboard."
+msgstr ""
+
+msgid "Binding to decrease the text size"
+msgstr ""
+
+msgid "Binding to eject an optical disc."
+msgstr "འོད་སྡེར་ཕྱིར་གཏོང་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to increase the text size"
+msgstr ""
+
+msgid "Binding to launch GNOME settings."
+msgstr ""
+
+msgid "Binding to launch the calculator."
+msgstr "རྩིས་ཆས་འདོན་སྤྱོད་བྱེད་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the email client."
+msgstr "གློག་རྡུལ་སྦྲག་རྫས་མཁོ་མཁན་གྱི་དུད་སྣེ་འདོན་སྤྱོད་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the help browser."
+msgstr "རོགས་རམ་བཤར་ཆས་འདོན་སྤྱོད་བྱེད་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the media player."
+msgstr "སྨྱན་གཟུགས་གཏོང་ཆས་འདོན་སྤྱོད་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the search tool."
+msgstr "འཚོལ་ཞིབ་ལག་ཆ་འདོན་སྤྱོད་བྱེད་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to launch the terminal."
+msgstr ""
+
+msgid "Binding to launch the web browser."
+msgstr ""
+
+msgid "Binding to lock the screen."
+msgstr "བརྙན་ཡོལ་ལ་ཟྭ་རྒྱག་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to log out."
+msgstr "ཐོ་ཁོངས་ནས་བསུབ་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to lower the system volume."
+msgstr "རྒྱུད་ཁོངས་གི་སྐད་ཆུང་དུ་གཏོང་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to mute the system volume."
+msgstr "རྒྱུད་ཁོངས་སྒྲ་མེད་བཟོ་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to open the Home folder."
+msgstr "ཡིག་ཁུག་གཙོ་བོའི་ཁ་ཕྱེ་བྱེད་མཐེབ་་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to pause playback."
+msgstr "གཏོང་མཚམས་འཇོག་པའི་མཐེབ་་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to raise the system volume."
+msgstr "རྒྱུད་ཁོངས་གི་སྐད་ཇེ་མཐོར་འགྲོ་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to show the on-screen keyboard"
+msgstr ""
+
+msgid "Binding to show the screen magnifier"
+msgstr ""
+
+msgid "Binding to skip to next track."
+msgstr "སྒྲ་ལམ་རྗེས་མར་མཆོངས་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to skip to previous track."
+msgstr "སྒྲ་ལམ་གོང་མར་མཆོངས་བའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to start playback (or toggle play/pause)."
+msgstr ""
+"བསྐྱར་གཏོང་འགོ་རྩོམ་པའམ་བརྗེ་བ་དང་། གཏོང་བའམ་སྐབས་འཇོག་གི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to start the screen reader"
+msgstr ""
+
+msgid "Binding to stop playback."
+msgstr "བསྐྱར་གཏོང་འཇོག་མཚམས་འཇོག་པའི་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to switch the video output device."
+msgstr ""
+
+msgid "Binding to take a screenshot of a window."
+msgstr "སྒེའུ་ཁུང་བཅད་ནས་པར་བཅད་ལེན་བྱེད་པའི་མྱུར་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to take a screenshot of an area."
+msgstr "ཁུལ་ཁོངས་གཅིག་གི་པར་བཅད་ལེན་བྱེད་པའི་མྱུར་མཐེབ་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to take a screenshot."
+msgstr "པར་བཅད་ལེན་བྱེད་པའི་མྱུར་མཐེབ་་བཀྱིག་སྦྲེལ།"
+
+msgid "Binding to toggle the interface contrast"
+msgstr ""
+
+msgid "Bottom Button #%d"
+msgstr ""
+
+msgid "Brightness Down"
+msgstr ""
+
+msgid "Brightness Up"
+msgstr ""
+
+msgid "Button label for OLED display."
+msgstr ""
+
+msgid "Cell phone battery low"
+msgstr "ལག་ཐོགས་ཁ་པར་གྱི་གློག་སྨན་ཀྱི་གློག་ཚད་དམའ་བ།"
+
+msgid "Cell phone is low in power (%.0f%%)"
+msgstr ""
+
+msgid ""
+"Cell phone is very low in power (%.0f%%). This device will soon stop "
+"functioning if not charged."
+msgstr ""
+
+msgid "Check for updates when running on battery power"
+msgstr ""
+
+msgid "Check for updates when running on battery power."
+msgstr ""
+
+msgid "Clipboard"
+msgstr "དྲས་སྦྱར་པང་།"
+
+msgid "Clipboard plugin"
+msgstr "དྲས་སྦྱར་ངོས་པང་བསྒར་ལྷུ།"
+
+msgid "Color"
+msgstr "ཁ་མདོག"
+
+msgid "Color calibration device added"
+msgstr ""
+
+msgid "Color calibration device removed"
+msgstr ""
+
+msgid "Color plugin"
+msgstr ""
+
+msgid "Command"
+msgstr "བཀའ་བརྡ།"
+
+msgid ""
+"Command to be run when a device is added or removed. An exit value of 1 "
+"means that the device will not be handled further by gnome-settings-daemon."
+msgstr ""
+
+msgid "Command to run when the binding is invoked"
+msgstr ""
+
+msgid "Computer will hibernate very soon unless it is plugged in."
+msgstr ""
+
+msgid "Computer will shutdown very soon unless it is plugged in."
+msgstr ""
+
+msgid "Computer will suspend very soon because of inactivity."
+msgstr ""
+
+msgid "Configuring new printer"
+msgstr ""
+
+msgid "Copy a screenshot of a window to clipboard"
+msgstr ""
+
+msgid "Copy a screenshot of an area to clipboard"
+msgstr ""
+
+msgid "Copy a screenshot to clipboard"
+msgstr ""
+
+msgid "Could not refresh the screen information: %s"
+msgstr "བརྙན་ཡོལ་གྱི་ཆ་འཕྲིན་%s གསར་འདོན་བྱེད་ཐབས་བྲལ།"
+
+msgid "Cover open"
+msgstr ""
+
+msgid "Custom keybindings"
+msgstr ""
+
+msgid "Date & Time Settings"
+msgstr ""
+
+msgid "Date and Time"
+msgstr "ཟླ་ཚེས་དང་དུས་ཚོད།"
+
+msgid "Decrease text size"
+msgstr ""
+
+msgid "Detailed errors from the package manager follow:"
+msgstr ""
+
+msgid "Device hotplug custom command"
+msgstr ""
+
+msgid "Devices that should be ignored"
+msgstr ""
+
+msgid ""
+"Devices that should be ignored, separated by commas. These can include '*' "
+"and '?' characters."
+msgstr ""
+
+msgid "Disabled"
+msgstr "བཀག་པ།"
+
+msgid "Disk space"
+msgstr ""
+
+msgid "Distance before a drag is started."
+msgstr ""
+
+msgid "Distribution upgrades available"
+msgstr ""
+
+msgid "Done"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Door open"
+msgstr ""
+
+msgid "Double click time"
+msgstr "ཉིས་རྡེབ་དུས་ཚོད།"
+
+msgid "Drag threshold"
+msgstr ""
+
+msgid "Dummy"
+msgstr ""
+
+msgid "Dummy plugin"
+msgstr ""
+
+msgid ""
+"EDID information of monitor to map tablet to. Must be in the format [vendor,"
+" product, serial]. [\"\",\"\",\"\"] disables mapping."
+msgstr ""
+
+msgid "Edit"
+msgstr "རྩོམ་སྒྲིག"
+
+msgid "Eject"
+msgstr "སྒོར་བུད།"
+
+msgid "Empty Trash"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།"
+
+msgid "Enable debugging code"
+msgstr "ཚབ་ཨང་ཚོད་སྒྲིག་ཁ་འབྱེད།"
+
+msgid "Enable this to move the cursor when the user touches the tablet."
+msgstr ""
+
+msgid "Enable this to only report stylus events when the tip is pressed."
+msgstr ""
+
+msgid ""
+"Enable this to restrict the Wacom tablet area to match the aspect ratio of "
+"the output."
+msgstr ""
+
+msgid "Enable this to set the tablet to absolute mode."
+msgstr ""
+
+msgid "Examine"
+msgstr ""
+
+msgid "Exit after a time (for debugging)"
+msgstr "དུས་ཚོད་ངེས་ཅན་ཞིག་གི་རྗེས་སུ་ཕྱིར་འབུད་པ།(ཚོད་སྒྲིག་ལ་སྤྱོད་པ)"
+
+msgid "Failed To Update"
+msgstr ""
+
+msgid "File for default configuration for RandR"
+msgstr "RandRསོར་བཞག་སྡེབ་སྒྲིག་ཡིག་ཆ།"
+
+msgid "Firmware files that should not be searched for"
+msgstr ""
+
+msgid ""
+"Firmware files that should not be searched for, separated by commas. These "
+"can include '*' and '?' characters."
+msgstr ""
+
+msgid "Forward"
+msgstr "བརྒྱུད་སྐུར།"
+
+msgid "Free percentage notify threshold"
+msgstr "འཕྲད་ཐོན་བརྡ་ཐོའི་དམའ་ཤོས་ཀྱི་སྤྱོད་རུང་བརྒྱ་ཆའི་གྲངས།"
+
+msgid "Free space notify threshold"
+msgstr ""
+
+msgid "GNOME Settings Daemon"
+msgstr ""
+
+msgid "GNOME Settings Daemon Color Plugin"
+msgstr ""
+
+msgid "Hibernate"
+msgstr "མལ་གསོ།"
+
+msgid ""
+"Highlights the current location of the pointer when the Control key is "
+"pressed and released."
+msgstr ""
+"Comlམཐེབ་མནན་ཏེ་གློད་སྐབས།ཙིག་རྟགས་ཀྱི་སྟོན་ཁབ་ཀྱི་མིག་སྔའི་གནས་བབ་གསལ་པོར་མངོན་ཡོད།"
+
+msgid "Hinting"
+msgstr "ཕྲན་སྒྲིག"
+
+msgid "Home folder"
+msgstr "ཡིག་ཁུག་གཙོ་བོ།"
+
+msgid "Housekeeping"
+msgstr ""
+
+msgid "How often to check for distribution upgrades"
+msgstr ""
+
+msgid "How often to check for distribution upgrades. Value is in seconds."
+msgstr ""
+
+msgid "How often to check for updates"
+msgstr ""
+
+msgid ""
+"How often to check for updates. Value is in seconds. This is a maximum "
+"amount of time that can pass between a security update being published, and "
+"the update being automatically installed or the user notified."
+msgstr ""
+
+msgid "How often to notify the user that non-critical updates are available"
+msgstr ""
+
+msgid "How often to refresh the package cache"
+msgstr ""
+
+msgid "How often to refresh the package cache. Value is in seconds."
+msgstr ""
+
+msgid ""
+"How often to tell the user there are non-critical updates. Value is in "
+"seconds. Security update notifications are always shown after the check for "
+"updates, but non-critical notifications should be shown a lot less "
+"frequently."
+msgstr ""
+
+msgid ""
+"If time based notifications should be used. If set to false, then the "
+"percentage change is used instead, which may fix a broken ACPI BIOS."
+msgstr ""
+
+msgid "If we should show the recalled battery warning for a broken battery"
+msgstr ""
+
+msgid ""
+"If we should show the recalled battery warning for a broken battery. Set "
+"this to false only if you know your battery is okay."
+msgstr ""
+
+msgid "Ignore"
+msgstr "སྣང་མེད།"
+
+msgid "Ignore devices"
+msgstr ""
+
+msgid "Increase text size"
+msgstr ""
+
+msgid "Install firmware"
+msgstr ""
+
+msgid "Install updates"
+msgstr ""
+
+msgid "Key combination for the custom action"
+msgstr ""
+
+msgid "Key combinations for a touchring or touchstrip custom action"
+msgstr ""
+
+msgid "Keyboard"
+msgstr "མཐེབ་གཞོང་།"
+
+msgid "Keyboard Brightness Down"
+msgstr ""
+
+msgid "Keyboard Brightness Toggle"
+msgstr ""
+
+msgid "Keyboard Brightness Up"
+msgstr ""
+
+msgid "Keyboard battery low"
+msgstr ""
+
+msgid "Keyboard plugin"
+msgstr "མཐེབ་གཞོང་བསྒར་ལྷུ།"
+
+msgid "Label will be rendered to OLED display belonging to the button"
+msgstr ""
+
+msgid "Laptop battery critically low"
+msgstr ""
+
+msgid "Laptop battery low"
+msgstr "དེབ་ཟིན་གློག་སྣུམ་གྱི་གློག་ཚད་དམའ།"
+
+msgid "Launch calculator"
+msgstr "རྩིས་ཆས་འགོ་སློང་།"
+
+msgid "Launch email client"
+msgstr "གློག་རྡུལ་སྦྲག་རྫས་ཀྱི་དུད་སྣེ་འགོ་སློང་།"
+
+msgid "Launch help browser"
+msgstr "རོགས་རམ་བཤར་ཆས་འགོ་སློང་།"
+
+msgid "Launch media player"
+msgstr "སྨྱན་གཟུགས་གཏོང་ཆས་འགོ་སློང་།"
+
+msgid "Launch settings"
+msgstr ""
+
+msgid "Launch terminal"
+msgstr ""
+
+msgid "Launch web browser"
+msgstr ""
+
+msgid "Leave Off"
+msgstr ""
+
+msgid "Leave On"
+msgstr ""
+
+msgid "Left Button #%d"
+msgstr ""
+
+msgid "Left Ring"
+msgstr ""
+
+msgid "Left Ring Mode #%d"
+msgstr ""
+
+msgid "Left Touchring Mode Switch"
+msgstr ""
+
+msgid "Left Touchstrip"
+msgstr ""
+
+msgid "Left Touchstrip Mode #%d"
+msgstr ""
+
+msgid "Left Touchstrip Mode Switch"
+msgstr ""
+
+msgid "Length of a double click in milliseconds."
+msgstr ""
+
+msgid "Lid has been closed"
+msgstr ""
+
+msgid "Lid has been opened"
+msgstr ""
+
+msgid "List of custom keybindings"
+msgstr ""
+
+msgid "List of explicitly disabled GTK+ modules"
+msgstr ""
+
+msgid "List of explicitly enabled GTK+ modules"
+msgstr ""
+
+msgid "List of plugins that are allowed to be loaded"
+msgstr ""
+
+msgid "Lock Screen"
+msgstr ""
+
+msgid "Lock screen"
+msgstr "བརྙན་ཡོལ་དམིགས་འཛུགས།"
+
+msgid "Log out"
+msgstr "ཐོ་ཁོངས་ནས་སུབ་པ།"
+
+msgid "Low Disk Space"
+msgstr "སྡུད་སྡེར་བར་སྟོང་མི་འདང་།"
+
+msgid "Low Disk Space on “%s”"
+msgstr ""
+
+msgid "Magnifier zoom in"
+msgstr ""
+
+msgid "Magnifier zoom out"
+msgstr ""
+
+msgid "Manage X Settings"
+msgstr "དོ་དམ་Xསྒྲིག་འགོད།"
+
+msgid "Marker supply low"
+msgstr ""
+
+msgid "Media keys"
+msgstr "སྨྱན་གཟུགས་མཐེབ།"
+
+msgid "Media keys plugin"
+msgstr "སྨྱན་གཟུགས་མཐེབ་ཀྱི་བསྒར་ལྷུ།"
+
+msgid "Media player battery low"
+msgstr ""
+
+msgid "Media player is low in power (%.0f%%)"
+msgstr ""
+
+msgid ""
+"Media player is very low in power (%.0f%%). This device will soon stop "
+"functioning if not charged."
+msgstr ""
+
+msgid "Microphone Mute"
+msgstr ""
+
+msgid "Minimum notify period for repeated warnings"
+msgstr ""
+
+msgid "Missing printer driver"
+msgstr ""
+
+msgid "Mode %d: %s"
+msgstr ""
+
+msgid "Mode Switch #%d"
+msgstr ""
+
+msgid "Modify the OLED image for a Wacom tablet"
+msgstr ""
+
+msgid "Modify the laptop brightness"
+msgstr ""
+
+msgid "Modify the lit LED for a Wacom tablet"
+msgstr ""
+
+msgid "More information"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
+
+msgid "Mount paths to ignore"
+msgstr "སྣང་མེད་དུ་བསྐྱུར་བྱའི་འགེལ་ལམ།"
+
+msgid "Mouse"
+msgstr "ཙིག་མདའ།"
+
+msgid "Mouse battery low"
+msgstr ""
+
+msgid "Mouse plugin"
+msgstr "ཙིག་རྟགས་བསྒར་ལྷུ།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Name of the custom binding"
+msgstr ""
+
+msgid "Network access was required but not available."
+msgstr ""
+
+msgid "New shortcut…"
+msgstr ""
+
+msgid "Next track"
+msgstr "གཞས་གཞུག་མ།"
+
+msgid "No driver for this printer."
+msgstr ""
+
+msgid "No printer driver for %s."
+msgstr ""
+
+msgid "No space was left on the drive."
+msgstr ""
+
+msgid "Not Now"
+msgstr ""
+
+msgid "Notify the user when distribution upgrades are available"
+msgstr ""
+
+msgid "Notify the user when distribution upgrades are available."
+msgstr ""
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "On AC power"
+msgstr ""
+
+msgid "On battery power"
+msgstr ""
+
+msgid "On which connections the service is enabled"
+msgstr ""
+
+msgid "Orientation"
+msgstr "ཁ་ཕྱོགས།"
+
+msgid "Orientation Lock"
+msgstr ""
+
+msgid "Orientation plugin"
+msgstr ""
+
+msgid "Out of a marker supply"
+msgstr ""
+
+msgid "Out of paper"
+msgstr "ཤོག་བུ་ཆད་པ།"
+
+msgid "PDA battery low"
+msgstr ""
+
+msgid "PDA is low in power (%.0f%%)"
+msgstr ""
+
+msgid ""
+"PDA is very low in power (%.0f%%). This device will soon stop functioning if"
+" not charged."
+msgstr ""
+
+msgid "Paper low"
+msgstr ""
+
+msgid "Pause playback"
+msgstr "གཏོང་བ་སྐབས་སྡོད།"
+
+msgid "Percentage action is taken"
+msgstr ""
+
+msgid "Percentage considered critical"
+msgstr ""
+
+msgid "Percentage considered low"
+msgstr ""
+
+msgid ""
+"Percentage free space threshold for initial warning of low disk space. If "
+"the percentage free space drops below this, a warning will be shown."
+msgstr ""
+
+msgid "Play (or play/pause)"
+msgstr "གཏོང་བ།(གཏོང་བ/སྐབས་འཇོག)"
+
+msgid "Please wait..."
+msgstr "ཅུང་ཙམ་སྒུག"
+
+msgid "Power"
+msgstr ""
+
+msgid "Power Off"
+msgstr ""
+
+msgid "Power plugin"
+msgstr ""
+
+msgid "Previous track"
+msgstr "གཞས་སྔོན་མ་བོ།"
+
+msgid "Print-notifications"
+msgstr ""
+
+msgid "Print-notifications plugin"
+msgstr ""
+
+msgid "Printer '%s' has no toner left."
+msgstr ""
+
+msgid "Printer '%s' is currently off-line."
+msgstr ""
+
+msgid "Printer '%s' is low on a marker supply."
+msgstr ""
+
+msgid "Printer '%s' is low on paper."
+msgstr ""
+
+msgid "Printer '%s' is low on toner."
+msgstr ""
+
+msgid "Printer '%s' is out of a marker supply."
+msgstr ""
+
+msgid "Printer '%s' is out of paper."
+msgstr ""
+
+msgid "Printer '%s': '%s'."
+msgstr ""
+
+msgid "Printer added"
+msgstr "པར་འདེབས་བསྣན་པ།"
+
+msgid "Printer configuration error"
+msgstr "པར་འཁོར་སྡེབ་སྒྲིག་ནོར་འཁྲུལ།"
+
+msgid "Printer error"
+msgstr "པར་འཁོར་ནོར་འཁྲུལ།"
+
+msgid "Printer off-line"
+msgstr ""
+
+msgid "Printer report"
+msgstr "པར་འཁོར་སྙན་ཞུ།"
+
+msgid "Printer warning"
+msgstr "པར་འཁོར་ཐ་ཚིག"
+
+msgid "Printers"
+msgstr "པར་འཁོར།"
+
+msgid "Priority to use for this plugin"
+msgstr ""
+
+msgid "Priority to use for this plugin in gnome-settings-daemon startup queue"
+msgstr ""
+
+msgid "Proxy FreeDesktop screensaver inhibition to gnome-session"
+msgstr ""
+
+msgid "Push a button to configure"
+msgstr ""
+
+msgid "Quiet Volume Down"
+msgstr ""
+
+msgid "Quiet Volume Mute"
+msgstr ""
+
+msgid "Quiet Volume Up"
+msgstr ""
+
+msgid "RGBA order"
+msgstr "RGBAགོ་རིམ།"
+
+msgid "Random Play"
+msgstr ""
+
+msgid "Recalibrate now"
+msgstr ""
+
+msgid "Recalibration required"
+msgstr ""
+
+msgid "Record a short video of the screen"
+msgstr ""
+
+msgid "Repeat"
+msgstr "རེས་འཁོར་གྱིས་གཏོང་བ།"
+
+msgid "Replace existing daemon"
+msgstr ""
+
+msgid "Rewind"
+msgstr "ཕྱིར་འཁོར།"
+
+msgid "Rfkill"
+msgstr ""
+
+msgid "Rfkill plugin"
+msgstr ""
+
+msgid "Right Button #%d"
+msgstr ""
+
+msgid "Right Ring"
+msgstr ""
+
+msgid "Right Ring Mode #%d"
+msgstr ""
+
+msgid "Right Touchring Mode Switch"
+msgstr ""
+
+msgid "Right Touchstrip"
+msgstr ""
+
+msgid "Right Touchstrip Mode #%d"
+msgstr ""
+
+msgid "Right Touchstrip Mode Switch"
+msgstr ""
+
+msgid "Rotate Screen"
+msgstr ""
+
+msgid "Screencast from %d %t.webm"
+msgstr ""
+
+msgid "Screensaver Proxy"
+msgstr ""
+
+msgid "Screenshot from %s"
+msgstr ""
+
+msgid "Screenshot taken"
+msgstr "པར་བཅད་ཟིན།"
+
+msgid "Search"
+msgstr "འཚོལ་བ།"
+
+msgid ""
+"Set this to 'none', 'cw' for 90 degree clockwise, 'half' for 180 degree, and"
+" 'ccw' for 90 degree counterclockwise."
+msgstr ""
+
+msgid ""
+"Set this to one of \"none\", \"lock-screen\", or \"force-logout\". The "
+"action will get performed when the smartcard used for log in is removed."
+msgstr ""
+
+msgid "Set this to the logical button mapping."
+msgstr ""
+
+msgid ""
+"Set this to the pressure value at which a stylus click event is generated."
+msgstr ""
+
+msgid ""
+"Set this to the pressure value at which an eraser click event is generated."
+msgstr ""
+
+msgid "Set this to x1, y1 and x2, y2 of the area usable by the tools."
+msgstr ""
+
+msgid ""
+"Set this to x1, y1 and x2, y2 of the pressure curve applied to the eraser."
+msgstr ""
+
+msgid ""
+"Set this to x1, y1 and x2, y2 of the pressure curve applied to the stylus."
+msgstr ""
+
+msgid "Set up screen size and rotation settings"
+msgstr "བརྙན་ཡོལ་ཆེ་ཆུང་དང་འཁྱིལ་འཁོར་སྒྲིག་འགོད།"
+
+msgid "Settings"
+msgstr "སྒྲིག་འགོད།"
+
+msgid "Show details"
+msgstr "ཞིབ་ཆ་མངོན་པ།"
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Slow Keys Turned Off"
+msgstr ""
+
+msgid "Slow Keys Turned On"
+msgstr ""
+
+msgid "Smartcard"
+msgstr ""
+
+msgid "Smartcard plugin"
+msgstr ""
+
+msgid "Smartcard removal action"
+msgstr "རིག་ནུས་ཁཱ་སྤོ་སེལ་བྱེད་སྟངས།"
+
+msgid "Software Update Installed"
+msgid_plural "Software Updates Installed"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Software Updates"
+msgstr "མཉེན་ཆས་གསར་བསྒྱུར།"
+
+msgid "Software Updates Failed"
+msgstr "མཉེན་ཆས་གསར་སྒྱུར་ཕམ་པ།"
+
+msgid "Sound"
+msgstr "སྒྲ་ནུས།"
+
+msgid "Sound Sample Cache plugin"
+msgstr ""
+
+msgid "Specify a list of mount paths to ignore when they run low on space."
+msgstr ""
+"དམིགས་འཛུགས་ཀྱི་མཁྲེགས་སྡེར་བར་སྟོང་དུ་འཁོར་སྐྱོད་བྱེད་སྐབས་སྣང་མེད་དུ་བཞག་པའི་བཀར་འགེལ་འགྲོ་ལམ་རྩིས་ཁྲ་བཟོ་དམིགས་འཛུགས།"
+
+msgid ""
+"Specify a time in minutes. Subsequent warnings for a volume will not appear "
+"more often than this period."
+msgstr ""
+"སྐར་མ་རེ་རྩིས་གཞི་རེར་བྱས་ནས་དུས་ཚོད་ག་གེ་མོ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས། "
+"འཁོར་ཡུན་འདིའི་ནང་དུ་ཐེངས་མང་པོར་པོད་ག་གེ་མོ་ཞིག་གི་རྗེས་མཐུད་ཀྱི་ཉེན་བརྡ་མངོན་མི་སྲིད།"
+
+msgid ""
+"Specify an amount in GB. If the amount of free space is more than this, no "
+"warning will be shown."
+msgstr ""
+"GBསྡེ་ཚན་བྱས་ཏེ་གྲངས་ཚད་ག་གེ་མོ་ཞིག་དམིགས་འཛུགས་བྱེད་དགོས། "
+"གལ་ཏེ་བཀོལ་ཆོག་པའི་བར་སྟོང་དེ་ལས་བརྒལ་ན།ཐ་ཚིག་མི་སྒྲོག"
+
+msgid ""
+"Specify the percentage that the free disk space should reduce by before "
+"issuing a subsequent warning."
+msgstr ""
+"རྒྱུན་མཐུད་ཀྱི་ཉེན་བརྡ་ཞིག་ཁྱབ་བསྒྲགས་མ་བྱས་སྔོན་དུ།ཉུང་འཕྲི་བྱེད་དགོས་པའི་མཁྲེགས་སྡེར་བར་སྟོང་གི་བརྒྱ་ཆའི་བསྡུར་གྲངས་དམིགས་འཛུགས་བྱོས།"
+
+msgid "Sticky Keys Turned Off"
+msgstr ""
+
+msgid "Sticky Keys Turned On"
+msgstr ""
+
+msgid "Stop playback"
+msgstr "གཏོང་མཚམས་འཇོག་པ།"
+
+msgid "Subsequent free space percentage notify threshold"
+msgstr ""
+"འཕྲད་ཐོན་བརྡ་ཐོའི་ཆེས་དམའ་བའི་རྗེས་མཐུད་སྤྱོད་རུང་བར་སྟོང་བརྒྱ་ཆའི་ཚད།"
+
+msgid "Suspend"
+msgstr "འགེལ་འཇོག"
+
+msgid "System Sounds"
+msgstr "རྒྱུད་ཁོངས་སྐད་སྒྲ།"
+
+msgid "Tablet battery low"
+msgstr ""
+
+msgid "Tablet is low in power (%.0f%%)"
+msgstr ""
+
+msgid ""
+"Tablet is very low in power (%.0f%%). This device will soon stop functioning"
+" if not charged."
+msgstr ""
+
+msgid "Take a screenshot"
+msgstr ""
+
+msgid "Take a screenshot of a window"
+msgstr ""
+
+msgid "Take a screenshot of an area"
+msgstr "ཁུལ་ཁོངས་གཅིག་གི་པར་བཅད་ལེན་བྱོས།"
+
+msgid "The \"%s\" tablet may not work as expected."
+msgstr ""
+
+msgid ""
+"The XRandR plugin will look for a default configuration in the file "
+"specified by this key. This is similar to the ~/.config/monitors.xml that "
+"normally gets stored in users' home directories. If a user does not have "
+"such a file, or has one that does not match the user's setup of monitors, "
+"then the file specified by this key will be used instead."
+msgstr ""
+
+msgid ""
+"The battery is below the critical level and this computer is about to "
+"hibernate."
+msgstr ""
+
+msgid ""
+"The battery is below the critical level and this computer is about to "
+"shutdown."
+msgstr ""
+
+msgid "The cover is open on printer '%s'."
+msgstr ""
+
+msgid "The display '%s' should be recalibrated soon."
+msgstr ""
+
+msgid "The door is open on printer '%s'."
+msgstr ""
+
+msgid "The duration a display profile is valid"
+msgstr ""
+
+msgid "The duration a printer profile is valid"
+msgstr ""
+
+msgid "The filenames on removable media that designate it a software source."
+msgstr ""
+
+msgid ""
+"The keyboard shortcut generated when the button is pressed for custom "
+"actions."
+msgstr ""
+
+msgid ""
+"The keyboard shortcuts generated when a touchring or touchstrip is used for "
+"custom actions (up followed by down)."
+msgstr ""
+
+msgid ""
+"The last time we notified the user about non-critical updates. Value is in "
+"seconds since the epoch, or zero for never."
+msgstr ""
+
+msgid "The last time we told the user about non-critical notifications"
+msgstr ""
+
+msgid ""
+"The list of NetworkManager connections (each one represented with its UUID) "
+"on which this service is enabled and started."
+msgstr ""
+
+msgid "The offline update failed in an unexpected way."
+msgstr ""
+
+msgid ""
+"The order of subpixel elements on an LCD screen; only used when antialiasing"
+" is set to \"rgba\". Possible values are: \"rgb\" for red on left (most "
+"common), \"bgr\" for blue on left, \"vrgb\" for red on top, \"vbgr\" for red"
+" on bottom."
+msgstr ""
+
+msgid ""
+"The percentage of the battery when it is considered critical. Only valid "
+"when use-time-for-policy is false."
+msgstr ""
+
+msgid ""
+"The percentage of the battery when it is considered low. Only valid when "
+"use-time-for-policy is false."
+msgstr ""
+
+msgid ""
+"The percentage of the battery when the critical action is performed. Only "
+"valid when use-time-for-policy is false."
+msgstr ""
+
+msgid "The printer '%s' should be recalibrated soon."
+msgstr ""
+
+msgid ""
+"The time remaining in seconds of the battery when critical action is taken. "
+"Only valid when use-time-for-policy is true."
+msgstr ""
+
+msgid ""
+"The time remaining in seconds of the battery when it is considered critical."
+" Only valid when use-time-for-policy is true."
+msgstr ""
+
+msgid ""
+"The time remaining in seconds of the battery when it is considered low. Only"
+" valid when use-time-for-policy is true."
+msgstr ""
+
+msgid "The time remaining when action is taken"
+msgstr ""
+
+msgid "The time remaining when critical"
+msgstr ""
+
+msgid "The time remaining when low"
+msgstr ""
+
+msgid "The type of action triggered by the button being pressed."
+msgstr ""
+
+msgid ""
+"The type of antialiasing to use when rendering fonts. Possible values are: "
+"\"none\" for no antialiasing, \"grayscale\" for standard grayscale "
+"antialiasing, and \"rgba\" for subpixel antialiasing (LCD screens only)."
+msgstr ""
+
+msgid ""
+"The type of hinting to use when rendering fonts. Possible values are: "
+"\"none\" for no hinting, \"slight\" for basic, \"medium\" for moderate, and "
+"\"full\" for maximum hinting (may cause distortion of letter forms)."
+msgstr ""
+
+msgid "The update could not be completed."
+msgstr ""
+
+msgid "The update was cancelled."
+msgstr ""
+
+msgid "The volume “%s” has only %s disk space remaining."
+msgstr ""
+
+msgid ""
+"The volume “%s” has only %s disk space remaining.  You may free up some "
+"space by emptying the trash."
+msgstr ""
+
+msgid "There is a missing print filter for printer '%s'."
+msgstr ""
+
+msgid "There is a problem on printer '%s'."
+msgstr ""
+
+msgid "This computer has only %s disk space remaining."
+msgstr ""
+
+msgid ""
+"This computer has only %s disk space remaining.  You may free up some space "
+"by emptying the trash."
+msgstr ""
+
+msgid ""
+"This is the number of days after which the display color profile is "
+"considered invalid."
+msgstr ""
+
+msgid ""
+"This is the number of days after which the printer color profile is "
+"considered invalid."
+msgstr ""
+
+msgid "Time Zone Updated to %s (%s)"
+msgstr ""
+
+msgid "Toggle contrast"
+msgstr ""
+
+msgid "Toggle magnifier"
+msgstr "ཆེ་ཤེལ་བརྗེ་བ།"
+
+msgid "Toggle on-screen keyboard"
+msgstr "བརྙན་ཡོལ་སྟེང་གི་མཐེབ་གཞོང་བརྗེ་བ།"
+
+msgid "Toggle screen reader"
+msgstr "བརྙན་ཡོལ་ཀློག་འདོན་ཆས་བརྗེ་བ།"
+
+msgid "Toner empty"
+msgstr ""
+
+msgid "Toner low"
+msgstr ""
+
+msgid "Top Button #%d"
+msgstr ""
+
+msgid "Touchpad Off"
+msgstr ""
+
+msgid "Touchpad On"
+msgstr ""
+
+msgid "Touchpad toggle"
+msgstr "རེག་པང་གི་གློག་སྒོ།"
+
+msgid "Try again"
+msgstr "ཡང་བསྐྱར་ཚོད་ལེན།"
+
+msgid "Turn Off"
+msgstr "ཁ་རྒྱག"
+
+msgid "Turn On"
+msgstr "ཁ་འབྱེད།"
+
+msgid "UPS Discharging"
+msgstr "UPSཡིས་གློག་གཏོང་བཞིན་པ།"
+
+msgid "UPS critically low"
+msgstr ""
+
+msgid ""
+"UPS is below the critical level and this computer is about to hibernate."
+msgstr ""
+
+msgid ""
+"UPS is below the critical level and this computer is about to shutdown."
+msgstr ""
+
+msgid "UPS low"
+msgstr "UPSགློག་ཚད་དམའ་བ།"
+
+msgid "UTC%:::z"
+msgstr ""
+
+msgid "Unable to access software updates"
+msgstr ""
+
+msgid "Unable to capture a screenshot"
+msgstr "བརྙན་རིས་གཅོད་ལེན་མི་ཐུབ་པ།"
+
+msgid "Universal Access"
+msgstr ""
+
+msgid "Unknown Tablet Connected"
+msgstr ""
+
+msgid "Unknown amount of UPS backup power remaining"
+msgstr ""
+
+msgid "Unknown time"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
+
+msgid "Update"
+msgid_plural "Updates"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Updates"
+msgstr "གསར་སྒྱུར།"
+
+msgid "Updates plugin"
+msgstr ""
+
+msgid "Use mobile broadband connections"
+msgstr ""
+
+msgid ""
+"Use mobile broadband connections such as GSM and CDMA to check for updates."
+msgstr ""
+
+msgid "User was not logged in with smartcard."
+msgstr ""
+
+msgid "Video Out"
+msgstr ""
+
+msgid "Video output"
+msgstr ""
+
+msgid "Volume down"
+msgstr "སྒྲ་ཚད་དམའ་རུ་གཏོང་།"
+
+msgid "Volume mute"
+msgstr "སྒྲ་མེད།"
+
+msgid "Volume up"
+msgstr "སྒྲ་ཚད་མཐོན་པོར་གཏོང་།"
+
+msgid "Wacom"
+msgstr ""
+
+msgid "Wacom Settings"
+msgstr ""
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "Send Keystroke"
+msgstr ""
+
+msgid "Show On-Screen Help"
+msgstr ""
+
+msgid "Switch Monitor"
+msgstr ""
+
+msgid "Wacom button action type"
+msgstr ""
+
+msgid "Wacom display mapping"
+msgstr ""
+
+msgid "Wacom eraser button mapping"
+msgstr ""
+
+msgid "Wacom eraser pressure curve"
+msgstr ""
+
+msgid "Wacom eraser pressure threshold"
+msgstr ""
+
+msgid "Wacom plugin"
+msgstr ""
+
+msgid "Wacom stylus absolute mode"
+msgstr ""
+
+msgid "Wacom stylus button mapping"
+msgstr ""
+
+msgid "Wacom stylus pressure curve"
+msgstr ""
+
+msgid "Wacom stylus pressure threshold"
+msgstr ""
+
+msgid "Wacom tablet PC feature"
+msgstr ""
+
+msgid "Wacom tablet area"
+msgstr ""
+
+msgid "Wacom tablet aspect ratio"
+msgstr ""
+
+msgid "Wacom tablet rotation"
+msgstr ""
+
+msgid "Wacom touch feature"
+msgstr ""
+
+msgid ""
+"When removable media is inserted, it is checked to see if it contains any "
+"important filenames in the root directory. If the filename matches, then an "
+"updates check is performed. This allows post-install disks to be used to "
+"update running systems."
+msgstr ""
+
+msgid "Whether the tablet's orientation is locked, or rotated automatically."
+msgstr ""
+
+msgid "Whether this plugin would be activated by gnome-settings-daemon or not"
+msgstr ""
+
+msgid "Whether to turn off specific monitors after boot"
+msgstr ""
+
+msgid "Whether to use time-based notifications"
+msgstr "དུས་ཚོད་ལ་གཞིགས་པའི་བརྡ་ཐོ་བཀོལ་སྤྱོད་བྱེད་མིན།"
+
+msgid "Wireless keyboard is low in power (%.0f%%)"
+msgstr ""
+
+msgid ""
+"Wireless keyboard is very low in power (%.0f%%). This device will soon stop "
+"functioning if not charged."
+msgstr ""
+
+msgid "Wireless mouse is low in power (%.0f%%)"
+msgstr ""
+
+msgid ""
+"Wireless mouse is very low in power (%.0f%%). This device will soon stop "
+"functioning if not charged."
+msgstr ""
+
+msgid "X Settings"
+msgstr "Xསྒྲིག་འགོད།"
+
+msgid "XRandR"
+msgstr "XRandR"
+
+msgid ""
+"You just held down the Shift key for 8 seconds.  This is the shortcut for "
+"the Slow Keys feature, which affects the way your keyboard works."
+msgstr ""
+
+msgid ""
+"You just pressed the Shift key 5 times in a row.  This is the shortcut for "
+"the Sticky Keys feature, which affects the way your keyboard works."
+msgstr ""
+
+msgid ""
+"You just pressed two keys at once, or pressed the Shift key 5 times in a "
+"row.  This turns off the Sticky Keys feature, which affects the way your "
+"keyboard works."
+msgstr ""
+
+msgid ""
+"You will need to remove and then reinsert the hardware before it will work "
+"correctly."
+msgstr ""
+
+msgid ""
+"You will need to restart this computer before the hardware will work "
+"correctly."
+msgstr ""
+
+msgid "You will soon log out because of inactivity."
+msgstr ""
+
+msgid "Your hardware has been set up and is now ready to use."
+msgstr ""
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ཆུ་ཚོད།"
+msgstr[1] "ཆུ་ཚོད།"
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "སྐར་མ།"
+msgstr[1] "སྐར་མ།"
+
+msgid "\"%s\" on %s"
+msgstr ""
+
+msgid "Printing"
+msgstr "པར་འདེབས།"
+
+msgid "Printing aborted"
+msgstr ""
+
+msgid "Printing canceled"
+msgstr ""
+
+msgid "Printing completed"
+msgstr ""
+
+msgid "Printing stopped"
+msgstr ""

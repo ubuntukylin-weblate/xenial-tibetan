@@ -1,0 +1,391 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%s died from signal %s"
+msgstr ""
+
+msgid "%s does not exist"
+msgstr ""
+
+msgid "%s failed with unknown exit code %d"
+msgstr ""
+
+msgid "%s gave error exit status %s"
+msgstr ""
+
+msgid "%s is not a compression level"
+msgstr ""
+
+msgid "%s is not a plain file"
+msgstr ""
+
+msgid "%s is not a supported compression"
+msgstr ""
+
+msgid "%s is not a supported variable name"
+msgstr ""
+
+msgid "%s(l%s): %s"
+msgstr ""
+
+msgid ""
+"%s(l%s): %s\n"
+"LINE: %s"
+msgstr ""
+
+msgid "(Use -d flag to override.)"
+msgstr ""
+
+msgid "-s%s option overrides earlier -s%s option"
+msgstr ""
+
+msgid ".orig directory name %s is not <package>-<upstreamversion> (wanted %s)"
+msgstr ""
+
+msgid "Debian %s version %s.\n"
+msgstr ""
+
+msgid "bad line in substvars file %s at line %d"
+msgstr ""
+
+msgid "badly formatted heading line"
+msgstr ""
+
+msgid "badly formatted trailer line"
+msgstr ""
+
+msgid "badly formed line in files list file, line %d"
+msgstr ""
+
+msgid "binary file contents changed"
+msgstr ""
+
+msgid "can't parse dependency %s"
+msgstr ""
+
+msgid "cannot change timestamp for %s"
+msgstr ""
+
+msgid "cannot combine %s and %s"
+msgstr ""
+
+msgid "cannot make %s executable"
+msgstr ""
+
+msgid "cannot open %s"
+msgstr ""
+
+msgid "cannot open file %s"
+msgstr "ཡིག་ཆ %s ཁ་ཕྱེ་མི་ཐུབ་པ།"
+
+msgid "cannot read %s"
+msgstr "%s ཀློག་ཐབས་མེད།"
+
+msgid "cannot read link %s"
+msgstr ""
+
+msgid "cannot stat %s"
+msgstr ""
+
+msgid "cannot stat directory %s (before removal)"
+msgstr ""
+
+msgid "cannot stat file %s"
+msgstr ""
+
+msgid "cannot write %s"
+msgstr "%s་འབྲི་ཐབས་མེད།"
+
+msgid "continued value line not in field"
+msgstr ""
+
+msgid "could not verify signature on %s since gpg isn't installed"
+msgstr ""
+
+msgid "device or socket is not allowed"
+msgstr ""
+
+msgid "diff on %s"
+msgstr ""
+
+msgid "directory"
+msgstr "དཀར་ཆག"
+
+msgid "directory argument %s is not a directory"
+msgstr ""
+
+msgid "diversions involved - output may be incorrect"
+msgstr ""
+
+msgid "dpkg-genchanges"
+msgstr ""
+
+msgid "duplicate files list entry for file %s (line %d)"
+msgstr ""
+
+msgid "error"
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "error occurred while parsing %s"
+msgstr ""
+
+msgid "executable mode %04o of '%s' will not be represented in diff"
+msgstr ""
+
+msgid "extracting unsigned source package (%s)"
+msgstr ""
+
+msgid "failed to rename newly-extracted %s to %s"
+msgstr ""
+
+msgid "failed to rename saved %s to %s"
+msgstr ""
+
+msgid "failed to verify signature on %s"
+msgstr ""
+
+msgid ""
+"fakeroot not found, either install the fakeroot\n"
+"package, specify a command with the -r option, or run this as root"
+msgstr ""
+
+msgid "file %s has no final newline (either original or modified version)"
+msgstr ""
+
+msgid "filename, section and priority may contain no whitespace"
+msgstr ""
+
+msgid "format parser %s not executable"
+msgstr ""
+
+msgid "found blank line where expected %s"
+msgstr ""
+
+msgid "found change data where expected %s"
+msgstr ""
+
+msgid "found start of entry where expected %s"
+msgstr ""
+
+msgid "found trailer where expected %s"
+msgstr ""
+
+msgid "full upload (original source is included)"
+msgstr ""
+
+msgid "gain-root-commmand '%s' not found"
+msgstr ""
+
+msgid "general section of control info file"
+msgstr ""
+
+msgid "host architecture"
+msgstr ""
+
+msgid "ignoring -sd option for native Debian package"
+msgstr ""
+
+msgid "ignoring deletion of directory %s"
+msgstr ""
+
+msgid "ignoring deletion of symlink %s"
+msgstr ""
+
+msgid "ignoring duplicate override entry for %s at line %d"
+msgstr ""
+
+msgid "ignoring duplicate source override entry for %s at line %d"
+msgstr ""
+
+msgid "ignoring override entry for %s, invalid priority %s"
+msgstr ""
+
+msgid "including full source code in upload"
+msgstr ""
+
+msgid "install new files list file"
+msgstr ""
+
+msgid "invalid override entry at line %d (%d fields)"
+msgstr ""
+
+msgid "invalid source override entry at line %d (%d fields)"
+msgstr ""
+
+msgid "line with unknown format (not field-colon-value)"
+msgstr ""
+
+msgid "missing Priority for source files"
+msgstr ""
+
+msgid "missing Section for binary package %s; using '-'"
+msgstr ""
+
+msgid "missing Section for source files"
+msgstr ""
+
+msgid "missing critical source control field %s"
+msgstr ""
+
+msgid "missing information for critical output field %s"
+msgstr ""
+
+msgid "missing information for output field %s"
+msgstr ""
+
+msgid "must specify package since control info has many (%s)"
+msgstr ""
+
+msgid "native package with .orig.tar"
+msgstr ""
+
+msgid "need at least one executable"
+msgstr ""
+
+msgid "need exactly a filename, section and priority"
+msgstr ""
+
+msgid "newly created empty file '%s' will not be represented in diff"
+msgstr ""
+
+msgid "no binary packages specified in %s"
+msgstr ""
+
+msgid "no tarfile in Files field"
+msgstr ""
+
+msgid "nonexistent"
+msgstr ""
+
+msgid "not including original source code in upload"
+msgstr ""
+
+msgid ""
+"orig argument is empty (means no orig, no diff) but source handling style "
+"-s%s wants something"
+msgstr ""
+
+msgid ""
+"orig argument is packed but source handling style -s%s calls for unpacked "
+"(.orig/)"
+msgstr ""
+
+msgid "output format %s not supported"
+msgstr "ཕྱིར་འདྲེན་རྣམ་གཞག་རྒྱབ་སྐྱོར་མི་བྱེད། %s"
+
+msgid "package %s has priority %s in control file but %s in files list"
+msgstr ""
+
+msgid "package %s has section %s in control file but %s in files list"
+msgstr ""
+
+msgid "package %s in control file but not in files list"
+msgstr ""
+
+msgid "package %s listed in files list but not in control info"
+msgstr ""
+
+msgid "package %s not in control info"
+msgstr ""
+
+msgid "package's section of control info file"
+msgstr ""
+
+msgid "parsed version of changelog"
+msgstr ""
+
+msgid "pipe for %s"
+msgstr ""
+
+msgid "plain file"
+msgstr "ཡིག་རྐྱང་ཡིག་ཆ།"
+
+msgid "remove patch backup file %s"
+msgstr ""
+
+msgid "repeated key-value %s"
+msgstr "བསྐྱར་ཟློས་ཀྱི་མཐེབ་ཐང་། %s"
+
+msgid "source changed by"
+msgstr ""
+
+msgid "source handling style -s%s not allowed with -b"
+msgstr ""
+
+msgid "source handling style -s%s not allowed with -x"
+msgstr ""
+
+msgid "source package"
+msgstr ""
+
+msgid "source package has two conflicting values - %s and %s"
+msgstr ""
+
+msgid "source version"
+msgstr ""
+
+msgid "symlink to %s"
+msgstr ""
+
+msgid "syntax error in %s at line %d: %s"
+msgstr ""
+
+msgid "tail of %s"
+msgstr ""
+
+msgid "unable to determine %s"
+msgstr ""
+
+msgid "unable to keep orig directory (already exists)"
+msgstr ""
+
+msgid "unknown Debian architecture %s, you must specify GNU system type, too"
+msgstr ""
+
+msgid "unknown GNU system type %s, you must specify Debian architecture, too"
+msgstr ""
+
+msgid "unknown default GNU system type for Debian architecture %s"
+msgstr ""
+
+msgid "unknown information field '%s' in input data in %s"
+msgstr ""
+
+msgid "unknown option or argument %s"
+msgstr ""
+
+msgid "unknown output from dpkg --search: '%s'"
+msgstr ""
+
+msgid "unknown substitution variable ${%s}"
+msgstr ""
+
+msgid "unpack target exists: %s"
+msgstr ""
+
+msgid "using a gain-root-command while being root"
+msgstr ""
+
+msgid "warning"
+msgstr "ཐ་ཚིག "
+
+msgid "write diversion info to stderr"
+msgstr ""
+
+msgid "write error on control data"
+msgstr ""
+
+msgid "write original source message"
+msgstr ""

@@ -1,0 +1,4341 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  ( EXPRESSION )               EXPRESSION is true\n"
+"  ! EXPRESSION                 EXPRESSION is false\n"
+"  EXPRESSION1 -a EXPRESSION2   both EXPRESSION1 and EXPRESSION2 are true\n"
+"  EXPRESSION1 -o EXPRESSION2   either EXPRESSION1 or EXPRESSION2 is true\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  --check-order     check that the input is correctly sorted, even\n"
+"                      if all input lines are pairable\n"
+"  --nocheck-order   do not check that the input is correctly sorted\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  -1              suppress column 1 (lines unique to FILE1)\n"
+"  -2              suppress column 2 (lines unique to FILE2)\n"
+"  -3              suppress column 3 (lines that appear in both files)\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  -a, --all         same as -b -d --login -p -r -t -T -u\n"
+"  -b, --boot        time of last system boot\n"
+"  -d, --dead        print dead processes\n"
+"  -H, --heading     print line of column headings\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  -b FILE     FILE exists and is block special\n"
+"  -c FILE     FILE exists and is character special\n"
+"  -d FILE     FILE exists and is a directory\n"
+"  -e FILE     FILE exists\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  -l              produce long format output for the specified USERs\n"
+"  -b              omit the user's home directory and shell in long format\n"
+"  -h              omit the user's project file in long format\n"
+"  -p              omit the user's plan file in long format\n"
+"  -s              do short format output, this is the default\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  -n STRING            the length of STRING is nonzero\n"
+"  STRING               equivalent to -n STRING\n"
+"  -z STRING            the length of STRING is zero\n"
+"  STRING1 = STRING2    the strings are equal\n"
+"  STRING1 != STRING2   the strings are not equal\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  ARG1 * ARG2       arithmetic product of ARG1 and ARG2\n"
+"  ARG1 / ARG2       arithmetic quotient of ARG1 divided by ARG2\n"
+"  ARG1 % ARG2       arithmetic remainder of ARG1 divided by ARG2\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  ARG1 + ARG2       arithmetic sum of ARG1 and ARG2\n"
+"  ARG1 - ARG2       arithmetic difference of ARG1 and ARG2\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  ARG1 < ARG2       ARG1 is less than ARG2\n"
+"  ARG1 <= ARG2      ARG1 is less than or equal to ARG2\n"
+"  ARG1 = ARG2       ARG1 is equal to ARG2\n"
+"  ARG1 != ARG2      ARG1 is unequal to ARG2\n"
+"  ARG1 >= ARG2      ARG1 is greater than or equal to ARG2\n"
+"  ARG1 > ARG2       ARG1 is greater than ARG2\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  FILE1 -ef FILE2   FILE1 and FILE2 have the same device and inode numbers\n"
+"  FILE1 -nt FILE2   FILE1 is newer (modification date) than FILE2\n"
+"  FILE1 -ot FILE2   FILE1 is older than FILE2\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  INTEGER1 -eq INTEGER2   INTEGER1 is equal to INTEGER2\n"
+"  INTEGER1 -ge INTEGER2   INTEGER1 is greater than or equal to INTEGER2\n"
+"  INTEGER1 -gt INTEGER2   INTEGER1 is greater than INTEGER2\n"
+"  INTEGER1 -le INTEGER2   INTEGER1 is less than or equal to INTEGER2\n"
+"  INTEGER1 -lt INTEGER2   INTEGER1 is less than INTEGER2\n"
+"  INTEGER1 -ne INTEGER2   INTEGER1 is not equal to INTEGER2\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  STRING : REGEXP   anchored pattern match of REGEXP in STRING\n"
+"\n"
+"  match STRING REGEXP        same as STRING : REGEXP\n"
+"  substr STRING POS LENGTH   substring of STRING, POS counted from 1\n"
+"  index STRING CHARS         index in STRING where any CHARS is found, or 0\n"
+"  length STRING              length of STRING\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  a         number all lines\n"
+"  t         number only nonempty lines\n"
+"  n         number no lines\n"
+"  pBRE      number only lines that contain a match for the basic regular\n"
+"            expression, BRE\n"
+"\n"
+"FORMAT is one of:\n"
+"\n"
+"  ln   left justified, no leading zeros\n"
+"  rn   right justified, no leading zeros\n"
+"  rz   right justified, leading zeros\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  b      create a block (buffered) special file\n"
+"  c, u   create a character (unbuffered) special file\n"
+"  p      create a FIFO\n"
+msgstr ""
+
+msgid ""
+"\n"
+"# users=%lu\n"
+msgstr ""
+
+msgid ""
+"\n"
+"A field is a run of blanks (usually spaces and/or TABs), then non-blank\n"
+"characters.  Fields are skipped before chars.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"A mere - implies -i.  If no COMMAND, print the resulting environment.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"After any flags comes an optional field width, as a decimal number;\n"
+"then an optional modifier, which is either\n"
+"E to use the locale's alternate representations if available, or\n"
+"O to use the locale's alternate numeric symbols if available.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"An omitted EXPRESSION defaults to false.  Otherwise,\n"
+"EXPRESSION is true or false and sets exit status.  It is one of:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"As a special case, cp makes a backup of SOURCE when the force and backup\n"
+"options are given and SOURCE and DEST are the same name for an existing,\n"
+"regular file.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Beware that many operators need to be escaped or quoted for shells.\n"
+"Comparisons are arithmetic if both ARGs are numbers, else lexicographical.\n"
+"Pattern matches return the string matched between \\( and \\) or null; if\n"
+"\\( and \\) are not used, they return the number of characters matched or 0.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Both MAJOR and MINOR must be specified when TYPE is b, c, or u, and they\n"
+"must be omitted when TYPE is p.  If MAJOR or MINOR begins with 0x or 0X,\n"
+"it is interpreted as hexadecimal; otherwise, if it begins with 0, as octal;\n"
+"otherwise, as decimal.  TYPE may be:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"By default, rm does not remove directories.  Use the --recursive (-r or -R)\n"
+"option to remove each listed directory, too, along with all of its contents.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"By default, selects -v1 -i1 -l1 -sTAB -w6 -nrn -hn -bt -fn.  CC are\n"
+"two delimiter characters for separating logical pages, a missing\n"
+"second character implies :.  Type \\\\ for \\.  STYLE is one of:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"By default, sparse SOURCE files are detected by a crude heuristic and the\n"
+"corresponding DEST file is made sparse as well.  That is the behavior\n"
+"selected by --sparse=auto.  Specify --sparse=always to create a sparse DEST\n"
+"file whenever the SOURCE file contains a long enough sequence of zero bytes.\n"
+"Use --sparse=never to inhibit creation of sparse files.\n"
+"\n"
+"When --reflink[=always] is specified, perform a lightweight copy, where the\n"
+"data blocks are copied only when modified.  If this is not possible the copy\n"
+"fails, or if --reflink=auto is specified, fall back to a standard copy.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Display values are in units of the first available SIZE from --block-size,\n"
+"and the %s_BLOCK_SIZE, BLOCK_SIZE and BLOCKSIZE environment variables.\n"
+"Otherwise, units default to 1024 bytes (or 512 if POSIXLY_CORRECT is set).\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Each FLAG symbol may be:\n"
+"\n"
+"  append    append mode (makes sense only for output; conv=notrunc suggested)\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Examples:\n"
+"  %s -12 file1 file2  Print only lines present in both file1 and file2.\n"
+"  %s -3 file1 file2  Print lines in file1 not in file2, and vice versa.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Examples:\n"
+"  %s f - g  Output f's contents, then standard input, then g's contents.\n"
+"  %s        Copy standard input to standard output.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Examples:\n"
+"  %s root /u        Change the owner of /u to \"root\".\n"
+"  %s root:staff /u  Likewise, but also change its group to \"staff\".\n"
+"  %s -hR root /u    Change the owner of /u and subfiles to \"root\".\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Examples:\n"
+"  %s staff /u      Change the group of /u to \"staff\".\n"
+"  %s -hR staff /u  Change the group of /u and subfiles to \"staff\".\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Except for -h and -L, all FILE-related tests dereference symbolic links.\n"
+"Beware that parentheses need to be escaped (e.g., by backslashes) for shells.\n"
+"INTEGER may also be -l STRING, which evaluates to the length of STRING.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Exit status is 0 if EXPRESSION is neither null nor 0, 1 if EXPRESSION is null\n"
+"or 0, 2 if EXPRESSION is syntactically invalid, and 3 if an error occurred.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Exit status:\n"
+" 0  if OK,\n"
+" 1  if minor problems (e.g., cannot access subdirectory),\n"
+" 2  if serious trouble (e.g., cannot access command-line argument).\n"
+msgstr ""
+
+msgid ""
+"\n"
+"FORMAT controls the output as in C printf.  Interpreted sequences are:\n"
+"\n"
+"  \\\"      double quote\n"
+msgstr ""
+
+msgid ""
+"\n"
+"FORMAT controls the output.  Interpreted sequences are:\n"
+"\n"
+"  %%   a literal %\n"
+"  %a   locale's abbreviated weekday name (e.g., Sun)\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Handle the tty line connected to standard input.  Without arguments,\n"
+"prints baud rate, line discipline, and deviations from stty sane.  In\n"
+"settings, CHAR is taken literally, or coded as in ^c, 0x37, 0177 or\n"
+"127; special values ^- or undef used to disable special characters.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"If -e is in effect, the following sequences are recognized:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"If first and second call formats both apply, the second format is assumed\n"
+"if the last operand begins with + or (if there are 2 operands) a digit.\n"
+"An OFFSET operand means -j OFFSET.  LABEL is the pseudo-address\n"
+"at first byte printed, incremented when dump is progressing.\n"
+"For OFFSET and LABEL, a 0x or 0X prefix indicates hexadecimal;\n"
+"suffixes may be . for octal and b for multiply by 512.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"NOTE: [ honors the --help and --version options, but test does not.\n"
+"test treats each of those as it treats any other nonempty STRING.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"NOTE: your shell may have its own version of %s, which usually supersedes\n"
+"the version described here.  Please refer to your shell's documentation\n"
+"for details about the options it supports.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Note that if you use rm to remove a file, it might be possible to recover\n"
+"some of its contents, given sufficient expertise and/or time.  For greater\n"
+"assurance that the contents are truly unrecoverable, consider using shred.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Note that the -d and -t options accept different time-date formats.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Optional - before SETTING indicates negation.  An * marks non-POSIX\n"
+"settings.  The underlying system defines which settings are available.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Otherwise MODE is a number which may be followed by one of the following:\n"
+"KB 1000, K 1024, MB 1000*1000, M 1024*1024, and so on for G, T, P, E, Z, Y.\n"
+"In this case the corresponding stream will be fully buffered with the buffer\n"
+"size set to MODE bytes.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Print the value of EXPRESSION to standard output.  A blank line below\n"
+"separates increasing precedence groups.  EXPRESSION may be:\n"
+"\n"
+"  ARG1 | ARG2       ARG1 if it is neither null nor 0, otherwise ARG2\n"
+"\n"
+"  ARG1 & ARG2       ARG1 if neither argument is null or 0, otherwise 0\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Report bugs to: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"SETs are specified as strings of characters.  Most represent themselves.\n"
+"Interpreted sequences are:\n"
+"\n"
+"  \\NNN            character with octal value NNN (1 to 3 octal digits)\n"
+"  \\\\              backslash\n"
+"  \\a              audible BEL\n"
+"  \\b              backspace\n"
+"  \\f              form feed\n"
+"  \\n              new line\n"
+"  \\r              return\n"
+"  \\t              horizontal tab\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Use one, and only one of -b, -c or -f.  Each LIST is made up of one\n"
+"range, or many ranges separated by commas.  Selected input is written\n"
+"in the same order that it is read, and is written exactly once.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Using color to distinguish file types is disabled both by default and\n"
+"with --color=never.  With --color=auto, ls emits color codes only when\n"
+"standard output is connected to a terminal.  The LS_COLORS environment\n"
+"variable can change the settings.  Use the dircolors command to set it.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"With no FILE, or when FILE is -, read standard input.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"With no options, produce three-column output.  Column one contains\n"
+"lines unique to FILE1, column two contains lines unique to FILE2,\n"
+"and column three contains lines common to both files.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Without any OPTION, print some useful set of identified information.\n"
+msgstr ""
+
+msgid "        ???"
+msgstr ""
+
+msgid ""
+"      --backup[=CONTROL]       make a backup of each existing destination file\n"
+"  -b                           like --backup but does not accept an argument\n"
+"  -f, --force                  do not prompt before overwriting\n"
+"  -i, --interactive            prompt before overwrite\n"
+"  -n, --no-clobber             do not overwrite an existing file\n"
+"If you specify more than one of -i, -f, -n, only the final one takes effect.\n"
+msgstr ""
+
+msgid ""
+"      --backup[=CONTROL]      make a backup of each existing destination file\n"
+"  -b                          like --backup but does not accept an argument\n"
+"  -d, -F, --directory         allow the superuser to attempt to hard link\n"
+"                                directories (note: will probably fail due to\n"
+"                                system restrictions, even for the superuser)\n"
+"  -f, --force                 remove existing destination files\n"
+msgstr ""
+
+msgid ""
+"      --backup[=CONTROL]  make a backup of each existing destination file\n"
+"  -b                  like --backup but does not accept an argument\n"
+"  -c                  (ignored)\n"
+"  -C, --compare       compare each pair of source and destination files, and\n"
+"                        in some cases, do not modify the destination at all\n"
+"  -d, --directory     treat all arguments as directory names; create all\n"
+"                        components of the specified directories\n"
+msgstr ""
+
+msgid ""
+"      --batch-size=NMERGE   merge at most NMERGE inputs at once;\n"
+"                            for more use temp files\n"
+msgstr ""
+
+msgid ""
+"      --complement        complement the set of selected bytes, characters\n"
+"                            or fields\n"
+msgstr ""
+
+msgid ""
+"      --debug               annotate the part of the line used to sort,\n"
+"                              and warn about questionable usage to stderr\n"
+"      --files0-from=F       read input from the files specified by\n"
+"                            NUL-terminated names in file F;\n"
+"                            If F is - then read names from standard input\n"
+msgstr ""
+
+msgid ""
+"      --from=CURRENT_OWNER:CURRENT_GROUP\n"
+"                         change the owner and/or group of each file only if\n"
+"                         its current owner and/or group match those specified\n"
+"                         here.  Either may be omitted, in which case a match\n"
+"                         is not required for the omitted attribute\n"
+msgstr ""
+
+msgid "      --help     display this help and exit\n"
+msgstr ""
+
+msgid ""
+"      --lookup      attempt to canonicalize hostnames via DNS\n"
+"  -m                only hostname and user associated with stdin\n"
+"  -p, --process     print active processes spawned by init\n"
+msgstr ""
+
+msgid ""
+"      --no-preserve=ATTR_LIST  don't preserve the specified attributes\n"
+"      --parents                use full source file name under DIRECTORY\n"
+msgstr ""
+
+msgid ""
+"      --one-file-system  when removing a hierarchy recursively, skip any\n"
+"                          directory that is on a file system different from\n"
+"                          that of the corresponding command line argument\n"
+msgstr ""
+
+msgid ""
+"      --sort=WORD             sort according to WORD:\n"
+"                                general-numeric -g, human-numeric -h, month -M,\n"
+"                                numeric -n, random -R, version -V\n"
+"  -V, --version-sort          natural sort of (version) numbers within text\n"
+"\n"
+msgstr ""
+
+msgid ""
+"      --sparse=WHEN            control creation of sparse files. See below\n"
+"      --strip-trailing-slashes  remove any trailing slashes from each SOURCE\n"
+"                                 argument\n"
+msgstr ""
+
+msgid ""
+"      --strip-trailing-slashes  remove any trailing slashes from each SOURCE\n"
+"                                 argument\n"
+"  -S, --suffix=SUFFIX          override the usual backup suffix\n"
+msgstr ""
+
+msgid ""
+"      --verbose           print a diagnostic just before each\n"
+"                            output file is opened\n"
+msgstr ""
+
+msgid "      --version  output version information and exit\n"
+msgstr ""
+
+msgid ""
+"     --all       print the number of installed processors\n"
+"     --ignore=N  if possible, exclude N processing units\n"
+msgstr ""
+
+msgid ""
+"   oddp          same as parenb parodd cs7\n"
+"   -oddp         same as -parenb cs8\n"
+"   [-]parity     same as [-]evenp\n"
+"   pass8         same as -parenb -istrip cs8\n"
+"   -pass8        same as parenb istrip cs7\n"
+msgstr ""
+
+msgid ""
+"  %A   locale's full weekday name (e.g., Sunday)\n"
+"  %b   locale's abbreviated month name (e.g., Jan)\n"
+"  %B   locale's full month name (e.g., January)\n"
+"  %c   locale's date and time (e.g., Thu Mar  3 23:05:25 2005)\n"
+msgstr ""
+
+msgid ""
+"  %C   century; like %Y, except omit last two digits (e.g., 20)\n"
+"  %d   day of month (e.g., 01)\n"
+"  %D   date; same as %m/%d/%y\n"
+"  %e   day of month, space padded; same as %_d\n"
+msgstr ""
+
+msgid ""
+"  %F   full date; same as %Y-%m-%d\n"
+"  %g   last two digits of year of ISO week number (see %G)\n"
+"  %G   year of ISO week number (see %V); normally useful only with %V\n"
+msgstr ""
+
+msgid ""
+"  %S   second (00..60)\n"
+"  %t   a tab\n"
+"  %T   time; same as %H:%M:%S\n"
+"  %u   day of week (1..7); 1 is Monday\n"
+msgstr ""
+
+msgid ""
+"  %U   week number of year, with Sunday as first day of week (00..53)\n"
+"  %V   ISO week number, with Monday as first day of week (01..53)\n"
+"  %w   day of week (0..6); 0 is Sunday\n"
+"  %W   week number of year, with Monday as first day of week (00..53)\n"
+msgstr ""
+
+msgid ""
+"  %h   same as %b\n"
+"  %H   hour (00..23)\n"
+"  %I   hour (01..12)\n"
+"  %j   day of year (001..366)\n"
+msgstr ""
+
+msgid ""
+"  %n   a newline\n"
+"  %N   nanoseconds (000000000..999999999)\n"
+"  %p   locale's equivalent of either AM or PM; blank if not known\n"
+"  %P   like %p, but lower case\n"
+"  %r   locale's 12-hour clock time (e.g., 11:11:04 PM)\n"
+"  %R   24-hour hour and minute; same as %H:%M\n"
+"  %s   seconds since 1970-01-01 00:00:00 UTC\n"
+msgstr ""
+
+msgid ""
+"  %x   locale's date representation (e.g., 12/31/99)\n"
+"  %X   locale's time representation (e.g., 23:13:48)\n"
+"  %y   last two digits of year (00..99)\n"
+"  %Y   year\n"
+msgstr ""
+
+msgid ""
+"  %z   +hhmm numeric time zone (e.g., -0400)\n"
+"  %:z  +hh:mm numeric time zone (e.g., -04:00)\n"
+"  %::z  +hh:mm:ss numeric time zone (e.g., -04:00:00)\n"
+"  %:::z  numeric time zone with : to necessary precision (e.g., -04, +05:30)\n"
+"  %Z   alphabetic time zone abbreviation (e.g., EDT)\n"
+"\n"
+"By default, date pads numeric fields with zeroes.\n"
+msgstr ""
+
+msgid ""
+"  +FIRST_PAGE[:LAST_PAGE], --pages=FIRST_PAGE[:LAST_PAGE]\n"
+"                    begin [stop] printing with page FIRST_[LAST_]PAGE\n"
+"  -COLUMN, --columns=COLUMN\n"
+"                    output COLUMN columns and print columns down,\n"
+"                    unless -a is used. Balance number of lines in the\n"
+"                    columns on each page\n"
+msgstr ""
+
+msgid "  --output-delimiter=STR  separate columns with STR\n"
+msgstr ""
+
+msgid ""
+"  -D, --date-format=FORMAT\n"
+"                    use FORMAT for the header date\n"
+"  -e[CHAR[WIDTH]], --expand-tabs[=CHAR[WIDTH]]\n"
+"                    expand input CHARs (TABs) to tab WIDTH (8)\n"
+"  -F, -f, --form-feed\n"
+"                    use form feeds instead of newlines to separate pages\n"
+"                    (by a 3-line page header with -F or a 5-line header\n"
+"                    and trailer without -F)\n"
+msgstr ""
+
+msgid ""
+"  -L FILE     FILE exists and is a symbolic link (same as -h)\n"
+"  -O FILE     FILE exists and is owned by the effective user ID\n"
+"  -p FILE     FILE exists and is a named pipe\n"
+"  -r FILE     FILE exists and read permission is granted\n"
+"  -s FILE     FILE exists and has a size greater than zero\n"
+msgstr ""
+
+msgid ""
+"  -L, --logical   use PWD from environment, even if it contains symlinks\n"
+"  -P, --physical  avoid all symlinks\n"
+msgstr ""
+
+msgid ""
+"  -R, -r, --recursive          copy directories recursively\n"
+"      --reflink[=WHEN]         control clone/CoW copies. See below\n"
+"      --remove-destination     remove each existing destination file before\n"
+"                                 attempting to open it (contrast with --force)\n"
+msgstr ""
+
+msgid ""
+"  -S FILE     FILE exists and is a socket\n"
+"  -t FD       file descriptor FD is opened on a terminal\n"
+"  -u FILE     FILE exists and its set-user-ID bit is set\n"
+"  -w FILE     FILE exists and write permission is granted\n"
+"  -x FILE     FILE exists and execute (or search) permission is granted\n"
+msgstr ""
+
+msgid ""
+"  -T, --omit-pagination\n"
+"                    omit page headers and trailers, eliminate any pagination\n"
+"                    by form feeds set in input files\n"
+"  -v, --show-nonprinting\n"
+"                    use octal backslash notation\n"
+"  -w, --width=PAGE_WIDTH\n"
+"                    set page width to PAGE_WIDTH (72) characters for\n"
+"                    multiple text-column output only, -s[char] turns off (72)\n"
+msgstr ""
+
+msgid ""
+"  -T, -w, --mesg    add user's message status as +, - or ?\n"
+"  -u, --users       list users logged in\n"
+"      --message     same as -T\n"
+"      --writable    same as -T\n"
+msgstr ""
+
+msgid ""
+"  -W, --page-width=PAGE_WIDTH\n"
+"                    set page width to PAGE_WIDTH (72) characters always,\n"
+"                    truncate lines, except -J option is set, no interference\n"
+"                    with -S or -s\n"
+msgstr ""
+
+msgid ""
+"  -W, --word-regexp=REGEXP       use REGEXP to match each keyword\n"
+"  -b, --break-file=FILE          word break characters in this FILE\n"
+"  -f, --ignore-case              fold lower case to upper case for sorting\n"
+"  -g, --gap-size=NUMBER          gap size in columns between output fields\n"
+"  -i, --ignore-file=FILE         read ignore word list from FILE\n"
+"  -o, --only-file=FILE           read only word list from this FILE\n"
+msgstr ""
+
+msgid ""
+"  -a                     change only the access time\n"
+"  -c, --no-create        do not create any files\n"
+"  -d, --date=STRING      parse STRING and use it instead of current time\n"
+"  -f                     (ignored)\n"
+msgstr ""
+
+msgid ""
+"  -a, --across      print columns across rather than down, used together\n"
+"                    with -COLUMN\n"
+"  -c, --show-control-chars\n"
+"                    use hat notation (^G) and octal backslash notation\n"
+"  -d, --double-space\n"
+"                    double space the output\n"
+msgstr ""
+
+msgid ""
+"  -a, --all                  do not ignore entries starting with .\n"
+"  -A, --almost-all           do not list implied . and ..\n"
+"      --author               with -l, print the author of each file\n"
+"  -b, --escape               print C-style escapes for nongraphic characters\n"
+msgstr ""
+
+msgid ""
+"  -a, --all        convert all blanks, instead of just initial blanks\n"
+"      --first-only  convert only leading sequences of blanks (overrides -a)\n"
+"  -t, --tabs=N     have tabs N characters apart instead of 8 (enables -a)\n"
+"  -t, --tabs=LIST  use comma separated LIST of tab positions (enables -a)\n"
+msgstr ""
+
+msgid ""
+"  -a, --archive                same as -dR --preserve=all\n"
+"      --attributes-only        don't copy the file data, just the attributes\n"
+"      --backup[=CONTROL]       make a backup of each existing destination file\n"
+"  -b                           like --backup but does not accept an argument\n"
+"      --copy-contents          copy contents of special files when recursive\n"
+"  -d                           same as --no-dereference --preserve=links\n"
+msgstr ""
+
+msgid ""
+"  -b, --before             attach the separator before instead of after\n"
+"  -r, --regex              interpret the separator as a regular expression\n"
+"  -s, --separator=STRING   use STRING as the separator instead of newline\n"
+msgstr ""
+
+msgid ""
+"  -b, --body-numbering=STYLE      use STYLE for numbering body lines\n"
+"  -d, --section-delimiter=CC      use CC for separating logical pages\n"
+"  -f, --footer-numbering=STYLE    use STYLE for numbering footer lines\n"
+msgstr ""
+
+msgid ""
+"  -b, --bytes         count bytes rather than columns\n"
+"  -s, --spaces        break at spaces\n"
+"  -w, --width=WIDTH   use WIDTH columns instead of 80\n"
+msgstr ""
+
+msgid ""
+"  -b, --bytes=LIST        select only these bytes\n"
+"  -c, --characters=LIST   select only these characters\n"
+"  -d, --delimiter=DELIM   use DELIM instead of TAB for field delimiter\n"
+msgstr ""
+
+msgid ""
+"  -b, --ignore-leading-blanks  ignore leading blanks\n"
+"  -d, --dictionary-order      consider only blanks and alphanumeric characters\n"
+"  -f, --ignore-case           fold lower case to upper case characters\n"
+msgstr ""
+
+msgid "  -c, --check          read %s sums from the FILEs and check them\n"
+msgstr ""
+
+msgid ""
+"  -c, --check, --check=diagnose-first  check for sorted input; do not sort\n"
+"  -C, --check=quiet, --check=silent  like -c, but do not report first bad line\n"
+"      --compress-program=PROG  compress temporaries with PROG;\n"
+"                              decompress them with PROG -d\n"
+msgstr ""
+
+msgid ""
+"  -c, --crown-margin        preserve indentation of first two lines\n"
+"  -p, --prefix=STRING       reformat only lines beginning with STRING,\n"
+"                              reattaching the prefix to reformatted lines\n"
+"  -s, --split-only          split long lines, but do not refill\n"
+msgstr ""
+
+msgid "  -c, --no-create        do not create any files\n"
+msgstr ""
+
+msgid ""
+"  -d, --decode          decode data\n"
+"  -i, --ignore-garbage  when decoding, ignore non-alphabet characters\n"
+"  -w, --wrap=COLS       wrap encoded lines after COLS character (default 76).\n"
+"                          Use 0 to disable line wrapping\n"
+"\n"
+msgstr ""
+
+msgid ""
+"  -d, --delimiters=LIST   reuse characters from LIST instead of TABs\n"
+"  -s, --serial            paste one file at a time instead of in parallel\n"
+msgstr ""
+
+msgid ""
+"  -d, --directory     create a directory, not a file\n"
+"  -u, --dry-run       do not create anything; merely print a name (unsafe)\n"
+"  -q, --quiet         suppress diagnostics about file/dir-creation failure\n"
+msgstr ""
+
+msgid ""
+"  -e             enable interpretation of backslash escapes\n"
+"  -E             disable interpretation of backslash escapes (default)\n"
+msgstr ""
+
+msgid ""
+"  -e             enable interpretation of backslash escapes (default)\n"
+"  -E             disable interpretation of backslash escapes\n"
+msgstr ""
+
+msgid ""
+"  -f              omit the line of column headings in short format\n"
+"  -w              omit the user's full name in short format\n"
+"  -i              omit the user's full name and remote host in short format\n"
+"  -q              omit the user's full name, remote host and idle time\n"
+"                  in short format\n"
+msgstr ""
+
+msgid ""
+"  -f   same as -t fF, select floats\n"
+"  -i   same as -t dI, select decimal ints\n"
+"  -l   same as -t dL, select decimal longs\n"
+"  -o   same as -t o2, select octal 2-byte units\n"
+"  -s   same as -t d2, select decimal 2-byte units\n"
+"  -x   same as -t x2, select hexadecimal 2-byte units\n"
+msgstr ""
+
+msgid ""
+"  -f FILE     FILE exists and is a regular file\n"
+"  -g FILE     FILE exists and is set-group-ID\n"
+"  -G FILE     FILE exists and is owned by the effective group ID\n"
+"  -h FILE     FILE exists and is a symbolic link (same as -L)\n"
+"  -k FILE     FILE exists and has its sticky bit set\n"
+msgstr ""
+
+msgid ""
+"  -f, --canonicalize            canonicalize by following every symlink in\n"
+"                                every component of the given name recursively;\n"
+"                                all but the last component must exist\n"
+"  -e, --canonicalize-existing   canonicalize by following every symlink in\n"
+"                                every component of the given name recursively,\n"
+"                                all components must exist\n"
+msgstr ""
+
+msgid ""
+"  -f, --fields=LIST       select only these fields;  also print any line\n"
+"                            that contains no delimiter character, unless\n"
+"                            the -s option is specified\n"
+"  -n                      (ignored)\n"
+msgstr ""
+
+msgid ""
+"  -f, --force    change permissions to allow writing if necessary\n"
+"  -n, --iterations=N  overwrite N times instead of the default (%d)\n"
+"      --random-source=FILE  get random bytes from FILE\n"
+"  -s, --size=N   shred this many bytes (suffixes like K, M, G accepted)\n"
+msgstr ""
+
+msgid "  -g                         like -l, but do not list owner\n"
+msgstr ""
+
+msgid ""
+"  -h, --header-numbering=STYLE    use STYLE for numbering header lines\n"
+"  -i, --line-increment=NUMBER     line number increment at each line\n"
+"  -l, --join-blank-lines=NUMBER   group of NUMBER empty lines counted as one\n"
+"  -n, --number-format=FORMAT      insert line numbers according to FORMAT\n"
+"  -p, --no-renumber               do not reset line numbers at logical pages\n"
+"  -s, --number-separator=STRING   add STRING after (possible) line number\n"
+msgstr ""
+
+msgid ""
+"  -h, --header=HEADER\n"
+"                    use a centered HEADER instead of filename in page header,\n"
+"                    -h \"\" prints a blank line, don't use -h\"\"\n"
+"  -i[CHAR[WIDTH]], --output-tabs[=CHAR[WIDTH]]\n"
+"                    replace spaces with CHARs (TABs) to tab WIDTH (8)\n"
+"  -J, --join-lines  merge full lines, turns off -W line truncation, no column\n"
+"                    alignment, --sep-string[=STRING] sets separators\n"
+msgstr ""
+
+msgid ""
+"  -h, --human-numeric-sort    compare human readable numbers (e.g., 2K 1G)\n"
+msgstr ""
+
+msgid ""
+"  -h, --no-dereference   affect each symbolic link instead of any referenced\n"
+"                         file (useful only on systems that can change the\n"
+"                         timestamps of a symlink)\n"
+"  -m                     change only the modification time\n"
+msgstr ""
+
+msgid ""
+"  -i, --initial       do not convert tabs after non blanks\n"
+"  -t, --tabs=NUMBER   have tabs NUMBER characters apart, not 8\n"
+msgstr ""
+
+msgid ""
+"  -i, --inodes          list inode information instead of block usage\n"
+"  -k                    like --block-size=1K\n"
+"  -l, --local           limit listing to local file systems\n"
+"      --no-sync         do not invoke sync before getting usage info (default)\n"
+msgstr ""
+
+msgid ""
+"  -i, --input=MODE   adjust standard input stream buffering\n"
+"  -o, --output=MODE  adjust standard output stream buffering\n"
+"  -e, --error=MODE   adjust standard error stream buffering\n"
+msgstr ""
+
+msgid ""
+"  -l                         use a long listing format\n"
+"  -L, --dereference          when showing file information for a symbolic\n"
+"                               link, show information for the file the link\n"
+"                               references rather than for the link itself\n"
+"  -m                         fill width with a comma separated list of entries\n"
+msgstr ""
+
+msgid "  -l, --login       print system login processes\n"
+msgstr ""
+
+msgid ""
+"  -m, --mode=MODE    set file permission bits to MODE, not a=rw - umask\n"
+msgstr ""
+
+msgid ""
+"  -n, --digits=DIGITS        use specified number of digits instead of 2\n"
+"  -s, --quiet, --silent      do not print counts of output file sizes\n"
+"  -z, --elide-empty-files    remove empty output files\n"
+msgstr ""
+
+msgid ""
+"  -n, --no-clobber             do not overwrite an existing file (overrides\n"
+"                                 a previous -i option)\n"
+"  -P, --no-dereference         never follow symbolic links in SOURCE\n"
+msgstr ""
+
+msgid ""
+"  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs\n"
+"  -N, --literal              print raw entry names (don't treat e.g. control\n"
+"                               characters specially)\n"
+"  -o                         like -l, but do not list group information\n"
+"  -p, --indicator-style=slash\n"
+"                             append / indicator to directories\n"
+msgstr ""
+
+msgid ""
+"  -n[SEP[DIGITS]], --number-lines[=SEP[DIGITS]]\n"
+"                    number lines, use DIGITS (5) digits, then SEP (TAB),\n"
+"                    default counting starts with 1st line of input file\n"
+"  -N, --first-line-number=NUMBER\n"
+"                    start counting with NUMBER at 1st line of first\n"
+"                    page printed (see +FIRST_PAGE)\n"
+msgstr ""
+
+msgid ""
+"  -o, --indent=MARGIN\n"
+"                    offset each line with MARGIN (zero) spaces, do not\n"
+"                    affect -w or -W, MARGIN will be added to PAGE_WIDTH\n"
+"  -r, --no-file-warnings\n"
+"                    omit warning when a file cannot be opened\n"
+msgstr ""
+
+msgid ""
+"  -o, --io-blocks        treat SIZE as number of IO blocks instead of "
+"bytes\n"
+msgstr ""
+
+msgid ""
+"  -o, --output=FILE         write result to FILE instead of standard output\n"
+"  -s, --stable              stabilize sort by disabling last-resort comparison\n"
+"  -S, --buffer-size=SIZE    use SIZE for main memory buffer\n"
+msgstr ""
+
+msgid ""
+"  -p                           same as --preserve=mode,ownership,timestamps\n"
+"      --preserve[=ATTR_LIST]   preserve the specified attributes (default:\n"
+"                                 mode,ownership,timestamps), if possible\n"
+"                                 additional attributes: context, links, xattr,\n"
+"                                 all\n"
+msgstr ""
+
+msgid ""
+"  -p, --preserve-timestamps   apply access/modification times of SOURCE files\n"
+"                        to corresponding destination files\n"
+"  -s, --strip         strip symbol tables\n"
+"      --strip-program=PROGRAM  program used to strip binaries\n"
+"  -S, --suffix=SUFFIX  override the usual backup suffix\n"
+"  -t, --target-directory=DIRECTORY  copy all SOURCE arguments into DIRECTORY\n"
+"  -T, --no-target-directory  treat DEST as a normal file\n"
+"  -v, --verbose       print the name of each directory as it is created\n"
+msgstr ""
+
+msgid ""
+"  -q, --count       all login names and number of users logged on\n"
+"  -r, --runlevel    print current runlevel\n"
+"  -s, --short       print only name, line, and time (default)\n"
+"  -t, --time        print last system clock change\n"
+msgstr ""
+
+msgid ""
+"  -q, --quiet, --silent    never print headers giving file names\n"
+"  -v, --verbose            always print headers giving file names\n"
+msgstr ""
+
+msgid ""
+"  -r, --references               first field of each line is a reference\n"
+"  -t, --typeset-mode               - not implemented -\n"
+"  -w, --width=NUMBER             output width in columns, reference excluded\n"
+msgstr ""
+
+msgid ""
+"  -r, --reverse              reverse order while sorting\n"
+"  -R, --recursive            list subdirectories recursively\n"
+"  -s, --size                 print the allocated size of each file, in blocks\n"
+msgstr ""
+
+msgid ""
+"  -s, --only-delimited    do not print lines not containing delimiters\n"
+"      --output-delimiter=STRING  use STRING as the output delimiter\n"
+"                            the default is to use the input delimiter\n"
+msgstr ""
+
+msgid ""
+"  -s, --signal=SIGNAL, -SIGNAL\n"
+"                   specify the name or number of the signal to be sent\n"
+"  -l, --list       list signal names, or convert signal names to/from numbers\n"
+"  -t, --table      print a table of signal information\n"
+msgstr ""
+
+msgid ""
+"  -s, --symbolic-link          make symbolic links instead of copying\n"
+"  -S, --suffix=SUFFIX          override the usual backup suffix\n"
+"  -t, --target-directory=DIRECTORY  copy all SOURCE arguments into DIRECTORY\n"
+"  -T, --no-target-directory    treat DEST as a normal file\n"
+msgstr ""
+
+msgid ""
+"  -t                       equivalent to -vT\n"
+"  -T, --show-tabs          display TAB characters as ^I\n"
+"  -u                       (ignored)\n"
+"  -v, --show-nonprinting   use ^ and M- notation, except for LFD and TAB\n"
+msgstr ""
+
+msgid ""
+"  -t, --field-separator=SEP  use SEP instead of non-blank to blank transition\n"
+"  -T, --temporary-directory=DIR  use DIR for temporaries, not $TMPDIR or %s;\n"
+"                              multiple options specify multiple directories\n"
+"      --parallel=N          change the number of sorts run concurrently to N\n"
+"  -u, --unique              with -c, check for strict ordering;\n"
+"                              without -c, output only the first of an equal run\n"
+msgstr ""
+
+msgid ""
+"  -t, --tabs=LIST     use comma separated list of explicit tab positions\n"
+msgstr ""
+
+msgid ""
+"  -t, --text           read in text mode (default if reading tty stdin)\n"
+msgstr ""
+
+msgid "  -t, --text           read in text mode (default)\n"
+msgstr ""
+
+msgid ""
+"  -u, --update                 copy only when the SOURCE file is newer\n"
+"                                 than the destination file or when the\n"
+"                                 destination file is missing\n"
+"  -v, --verbose                explain what is being done\n"
+"  -x, --one-file-system        stay on this file system\n"
+msgstr ""
+
+msgid ""
+"  -v FILENUM        like -a FILENUM, but suppress joined output lines\n"
+"  -1 FIELD          join on this FIELD of file 1\n"
+"  -2 FIELD          join on this FIELD of file 2\n"
+"  --check-order     check that the input is correctly sorted, even\n"
+"                      if all input lines are pairable\n"
+"  --nocheck-order   do not check that the input is correctly sorted\n"
+"  --header          treat the first line in each file as field headers,\n"
+"                      print them without trying to pair them\n"
+msgstr ""
+
+msgid ""
+"  -v, --starting-line-number=NUMBER  first line number on each logical page\n"
+"  -w, --number-width=NUMBER       use NUMBER columns for line numbers\n"
+msgstr ""
+
+msgid "  -w, --check-chars=N   compare no more than N characters in lines\n"
+msgstr ""
+
+msgid ""
+"  File: \"%n\"\n"
+"    ID: %-8i Namelen: %-7l Type: %T\n"
+"Block size: %-10s Fundamental block size: %S\n"
+"Blocks: Total: %-10b Free: %-10f Available: %a\n"
+"Inodes: Total: %-10c Free: %d\n"
+msgstr ""
+
+msgid ""
+"  File: %N\n"
+"  Size: %-10s\tBlocks: %-10b IO Block: %-6o %F\n"
+msgstr ""
+
+msgid ""
+"  Processes in\n"
+"an uninterruptible sleep state also contribute to the load average.\n"
+msgstr ""
+
+msgid ""
+"  [:graph:]       all printable characters, not including space\n"
+"  [:lower:]       all lower case letters\n"
+"  [:print:]       all printable characters, including space\n"
+"  [:punct:]       all punctuation characters\n"
+"  [:space:]       all horizontal or vertical whitespace\n"
+"  [:upper:]       all upper case letters\n"
+"  [:xdigit:]      all hexadecimal digits\n"
+"  [=CHAR=]        all characters which are equivalent to CHAR\n"
+msgstr ""
+
+msgid ""
+"  \\0NNN   byte with octal value NNN (1 to 3 digits)\n"
+"  \\xHH    byte with hexadecimal value HH (1 to 2 digits)\n"
+msgstr ""
+
+msgid ""
+"  \\NNN    byte with octal value NNN (1 to 3 digits)\n"
+"  \\xHH    byte with hexadecimal value HH (1 to 2 digits)\n"
+"  \\uHHHH  Unicode (ISO/IEC 10646) character with hex value HHHH (4 digits)\n"
+"  \\UHHHHHHHH  Unicode character with hex value HHHHHHHH (8 digits)\n"
+msgstr ""
+
+msgid ""
+"  \\\\      backslash\n"
+"  \\a      alert (BEL)\n"
+"  \\b      backspace\n"
+"  \\c      produce no further output\n"
+"  \\e      escape\n"
+"  \\f      form feed\n"
+"  \\n      new line\n"
+"  \\r      carriage return\n"
+"  \\t      horizontal tab\n"
+"  \\v      vertical tab\n"
+msgstr ""
+
+msgid ""
+"  \\v              vertical tab\n"
+"  CHAR1-CHAR2     all characters from CHAR1 to CHAR2 in ascending order\n"
+"  [CHAR*]         in SET2, copies of CHAR until length of SET1\n"
+"  [CHAR*REPEAT]   REPEAT copies of CHAR, REPEAT octal if starting with 0\n"
+"  [:alnum:]       all letters and digits\n"
+"  [:alpha:]       all letters\n"
+"  [:blank:]       all horizontal whitespace\n"
+"  [:cntrl:]       all control characters\n"
+"  [:digit:]       all digits\n"
+msgstr ""
+
+msgid "  binary    use binary I/O for data\n"
+msgstr ""
+
+msgid "  cio       use concurrent I/O for data\n"
+msgstr ""
+
+msgid ""
+"  d[SIZE]    signed decimal, SIZE bytes per integer\n"
+"  f[SIZE]    floating point, SIZE bytes per integer\n"
+"  o[SIZE]    octal, SIZE bytes per integer\n"
+"  u[SIZE]    unsigned decimal, SIZE bytes per integer\n"
+"  x[SIZE]    hexadecimal, SIZE bytes per integer\n"
+msgstr ""
+
+msgid "  direct    use direct I/O for data\n"
+msgstr ""
+
+msgid "  directory  fail unless a directory\n"
+msgstr ""
+
+msgid "  dsync     use synchronized I/O for data\n"
+msgstr ""
+
+msgid ""
+"  excl      fail if the output file already exists\n"
+"  nocreat   do not create the output file\n"
+"  notrunc   do not truncate the output file\n"
+"  noerror   continue after read errors\n"
+"  fdatasync  physically write output file data before finishing\n"
+"  fsync     likewise, but also write metadata\n"
+msgstr ""
+
+msgid "  fullblock  accumulate full blocks of input (iflag only)\n"
+msgstr ""
+
+msgid "  noatime   do not update access time\n"
+msgstr ""
+
+msgid "  noctty    do not assign controlling terminal from file\n"
+msgstr ""
+
+msgid "  nofollow  do not follow symlinks\n"
+msgstr ""
+
+msgid "  nolinks   fail if multiply-linked\n"
+msgstr ""
+
+msgid "  nonblock  use non-blocking I/O\n"
+msgstr ""
+
+msgid ""
+"  none, off       never make backups (even if --backup is given)\n"
+"  numbered, t     make numbered backups\n"
+"  existing, nil   numbered if numbered backups exist, simple otherwise\n"
+"  simple, never   always make simple backups\n"
+msgstr ""
+
+msgid "  sync      likewise, but also for metadata\n"
+msgstr ""
+
+msgid "  text      use text I/O for data\n"
+msgstr ""
+
+msgid " %H:%M%P  "
+msgstr ""
+
+msgid " (backup: %s)"
+msgstr ""
+
+msgid " * [-]iutf8      assume input characters are UTF-8 encoded\n"
+msgstr ""
+
+msgid " ??:????  "
+msgstr ""
+
+msgid " TTY"
+msgstr ""
+
+msgid " context=%s"
+msgstr ""
+
+msgid " groups="
+msgstr ""
+
+msgid " old "
+msgstr ""
+
+msgid " on repetition %s\n"
+msgstr ""
+
+msgid "%.*s: invalid conversion specification"
+msgstr ""
+
+msgid "%b %e  %Y"
+msgstr ""
+
+msgid "%b %e %H:%M"
+msgstr ""
+
+msgid "%lu user"
+msgid_plural "%lu users"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s (for regexp %s)"
+msgstr ""
+
+msgid "%s -> %s (unbackup)\n"
+msgstr ""
+
+msgid "%s [-d] terminated abnormally"
+msgstr ""
+
+msgid "%s and %s are the same file"
+msgstr ""
+
+msgid "%s exists but is not a directory"
+msgstr ""
+
+msgid "%s has become accessible"
+msgstr ""
+
+msgid "%s has become inaccessible"
+msgstr ""
+
+msgid "%s has been replaced with a remote file. giving up on this name"
+msgstr ""
+
+msgid "%s has been replaced with an untailable file; giving up on this name"
+msgstr ""
+
+msgid "%s has unknown file type"
+msgstr ""
+
+msgid "%s has unusable, apparently negative size"
+msgstr ""
+
+msgid "%s home page: <%s>\n"
+msgstr ""
+
+msgid "%s home page: <http://www.gnu.org/software/%s/>\n"
+msgstr ""
+
+msgid "%s is not a valid positive integer"
+msgstr ""
+
+msgid "%s is too large"
+msgstr ""
+
+msgid "%s may be used only on a SELinux kernel"
+msgstr ""
+
+msgid "%s was specified but %s was not"
+msgstr ""
+
+msgid "%s%s argument '%s' too large"
+msgstr ""
+
+msgid "%s-%s"
+msgstr "%s-%s"
+
+msgid "%s: %s: line number out of range"
+msgstr ""
+
+msgid "%s: %s: match not found"
+msgstr ""
+
+msgid "%s: %s:%s: disorder: "
+msgstr ""
+
+msgid "%s: binary operator expected"
+msgstr ""
+
+msgid "%s: can make relative symbolic links only in current directory"
+msgstr ""
+
+msgid "%s: cannot change nonblocking mode"
+msgstr ""
+
+msgid "%s: cannot determine file size"
+msgstr ""
+
+msgid "%s: cannot follow end of this type of file; giving up on this name"
+msgstr ""
+
+msgid "%s: cannot overwrite directory"
+msgstr ""
+
+msgid "%s: cannot rewind"
+msgstr ""
+
+msgid "%s: cannot seek"
+msgstr ""
+
+msgid "%s: cannot seek to end-relative offset %s"
+msgstr ""
+
+msgid "%s: cannot seek to offset %s"
+msgstr ""
+
+msgid "%s: cannot seek to relative offset %s"
+msgstr ""
+
+msgid "%s: cannot shred append-only file descriptor"
+msgstr ""
+
+msgid "%s: cannot skip"
+msgstr ""
+
+msgid "%s: cannot skip to specified offset"
+msgstr ""
+
+msgid "%s: couldn't reset non-blocking mode"
+msgstr ""
+
+msgid "%s: descend into directory %s? "
+msgstr ""
+
+msgid "%s: descend into write-protected directory %s? "
+msgstr ""
+
+msgid "%s: end of file"
+msgstr ""
+
+msgid "%s: equivalence class operand must be a single character"
+msgstr ""
+
+msgid "%s: error truncating"
+msgstr ""
+
+msgid "%s: error writing at offset %s"
+msgstr ""
+
+msgid "%s: expected a numeric value"
+msgstr ""
+
+msgid "%s: failed to close"
+msgstr ""
+
+msgid "%s: failed to get extents info"
+msgstr ""
+
+msgid "%s: failed to open for writing"
+msgstr ""
+
+msgid "%s: failed to remove"
+msgstr ""
+
+msgid "%s: fcntl failed"
+msgstr ""
+
+msgid "%s: fdatasync failed"
+msgstr ""
+
+msgid "%s: file has negative size"
+msgstr ""
+
+msgid "%s: file has shrunk too much"
+msgstr ""
+
+msgid "%s: file too large"
+msgstr ""
+
+msgid "%s: file too long"
+msgstr ""
+
+msgid "%s: file truncated"
+msgstr ""
+
+msgid "%s: fstat failed"
+msgstr ""
+
+msgid "%s: fsync failed"
+msgstr ""
+
+msgid "%s: hard link not allowed for directory"
+msgstr ""
+
+msgid "%s: input contains a loop:"
+msgstr ""
+
+msgid "%s: input contains an odd number of tokens"
+msgstr ""
+
+msgid "%s: input file is output file"
+msgstr ""
+
+msgid "%s: integer expected after delimiter"
+msgstr ""
+
+msgid "%s: invalid count at start of %s"
+msgstr ""
+
+msgid "%s: invalid directive"
+msgstr ""
+
+msgid "%s: invalid field specification %s"
+msgstr ""
+
+msgid "%s: invalid file type"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: invalid pattern"
+msgstr ""
+
+msgid "%s: invalid process id"
+msgstr ""
+
+msgid "%s: invalid regular expression: %s"
+msgstr ""
+
+msgid "%s: invalid signal"
+msgstr ""
+
+msgid "%s: line number must be greater than zero"
+msgstr ""
+
+msgid "%s: line number out of range"
+msgstr ""
+
+msgid "%s: lseek failed"
+msgstr ""
+
+msgid "%s: multiple signals specified"
+msgstr ""
+
+msgid "%s: new permissions are %s, not %s"
+msgstr ""
+
+msgid "%s: no properly formatted %s checksum lines found"
+msgstr ""
+
+msgid "%s: no size information for this device"
+msgstr ""
+
+msgid "%s: not listing already-listed directory"
+msgstr ""
+
+msgid "%s: number of bytes is too large"
+msgstr ""
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: overwrite %s? "
+msgstr ""
+
+msgid "%s: pass %lu/%lu (%s)..."
+msgstr ""
+
+msgid "%s: pass %lu/%lu (%s)...%s"
+msgstr ""
+
+msgid "%s: pass %lu/%lu (%s)...%s/%s %d%%"
+msgstr ""
+
+msgid "%s: read error"
+msgstr ""
+
+msgid "%s: remove %s %s? "
+msgstr ""
+
+msgid "%s: remove write-protected %s %s? "
+msgstr ""
+
+msgid "%s: removed"
+msgstr ""
+
+msgid "%s: removing"
+msgstr ""
+
+msgid "%s: renamed to %s"
+msgstr ""
+
+msgid "%s: replace %s? "
+msgstr ""
+
+msgid "%s: seek failed"
+msgstr ""
+
+msgid "%s: too many checksum lines"
+msgstr ""
+
+msgid "%s: unable to determine maximum file name length"
+msgstr ""
+
+msgid "%s: unable to perform all requested operations"
+msgstr ""
+
+msgid "%s: unary operator expected"
+msgstr ""
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr ""
+
+msgid "%s: unwritable %s (mode %04lo, %s); try anyway? "
+msgstr ""
+
+msgid "%s: value not completely converted"
+msgstr ""
+
+msgid "%s: write error"
+msgstr ""
+
+msgid "%s: write failed"
+msgstr ""
+
+msgid "%s:%lu: invalid line;  missing second token"
+msgstr ""
+
+msgid "%s:%lu: invalid zero-length file name"
+msgstr ""
+
+msgid "%s:%lu: unrecognized keyword %s"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid ""
+"* file systems that cache in temporary locations, such as NFS\n"
+"version 3 clients\n"
+"\n"
+"* compressed file systems\n"
+"\n"
+msgstr ""
+
+msgid ""
+"* log-structured or journaled file systems, such as those supplied with\n"
+"AIX and Solaris (and JFS, ReiserFS, XFS, Ext3, etc.)\n"
+"\n"
+"* file systems that write redundant data and carry on even if some writes\n"
+"fail, such as RAID-based file systems\n"
+"\n"
+"* file systems that make snapshots, such as Network Appliance's NFS server\n"
+"\n"
+msgstr ""
+
+msgid ",  load average: %.2f"
+msgstr ""
+
+msgid "--%s argument %s too large"
+msgstr ""
+
+msgid "--context (-Z) works only on an SELinux-enabled kernel"
+msgstr ""
+
+msgid "--reflink can be used only with --sparse=auto"
+msgstr ""
+
+msgid "--tag does not support --text mode"
+msgstr ""
+
+msgid "-R --dereference requires either -H or -L"
+msgstr ""
+
+msgid "-R -h requires -P"
+msgstr ""
+
+msgid "-ef does not accept -l"
+msgstr ""
+
+msgid "-nt does not accept -l"
+msgstr ""
+
+msgid "-ot does not accept -l"
+msgstr ""
+
+msgid "<internal>"
+msgstr ""
+
+msgid "???\n"
+msgstr ""
+
+msgid "?????"
+msgstr ""
+
+msgid "Aborted"
+msgstr "མཚམས་བཞག་པ།"
+
+msgid ""
+"Access: %x\n"
+"Modify: %y\n"
+"Change: %z\n"
+" Birth: %w\n"
+msgstr ""
+
+msgid "Access: (%04a/%10.10A)  Uid: (%5u/%8U)   Gid: (%5g/%8G)\n"
+msgstr ""
+
+msgid "Address family for hostname not supported"
+msgstr ""
+
+msgid "Alarm clock"
+msgstr ""
+
+msgid "All requests done"
+msgstr ""
+
+msgid "Argument buffer too small"
+msgstr ""
+
+msgid "Arnold Robbins"
+msgstr ""
+
+msgid "Avail"
+msgstr "སྤྱོད་རུང་།"
+
+msgid "Available"
+msgstr "སྤྱོད་རུང་།"
+
+msgid "Bad system call"
+msgstr ""
+
+msgid "Bad value for ai_flags"
+msgstr ""
+
+msgid "Brian Fox"
+msgstr ""
+
+msgid "Broken pipe"
+msgstr ""
+
+msgid "Bus error"
+msgstr ""
+
+msgid ""
+"CAUTION: Note that shred relies on a very important assumption:\n"
+"that the file system overwrites data in place.  This is the traditional\n"
+"way to do things, but many modern file system designs do not satisfy this\n"
+"assumption.  The following are examples of file systems on which shred is\n"
+"not effective, or is not guaranteed to be effective in all file system modes:\n"
+"\n"
+msgstr ""
+
+msgid "COMMENT"
+msgstr "མཆན་འགྲེལ།"
+
+msgid "CPU time limit exceeded"
+msgstr ""
+
+msgid ""
+"Call the link function to create a link named FILE2 to an existing FILE1.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Call the unlink function to remove the specified FILE.\n"
+"\n"
+msgstr ""
+
+msgid "Capacity"
+msgstr "བགོ་སྐལ།"
+
+msgid "Chet Ramey"
+msgstr ""
+
+msgid "Child exited"
+msgstr ""
+
+msgid "Colin Plumb"
+msgstr ""
+
+msgid "Compare sorted files FILE1 and FILE2 line by line.\n"
+msgstr ""
+
+msgid "Context: %C\n"
+msgstr ""
+
+msgid "Continued"
+msgstr ""
+
+msgid ""
+"Copy standard input to each FILE, and also to standard output.\n"
+"\n"
+"  -a, --append              append to the given FILEs, do not overwrite\n"
+"  -i, --ignore-interrupts   ignore interrupt signals\n"
+msgstr ""
+
+msgid "David M. Ihnat"
+msgstr ""
+
+msgid "David MacKenzie"
+msgstr ""
+
+msgid "David Madore"
+msgstr ""
+
+msgid "Device: %Dh/%dd\tInode: %-10i  Links: %-5h Device type: %t,%T\n"
+msgstr ""
+
+msgid "Device: %Dh/%dd\tInode: %-10i  Links: %h\n"
+msgstr ""
+
+msgid ""
+"Diagnose invalid or unportable file names.\n"
+"\n"
+"  -p                  check for most POSIX systems\n"
+"  -P                  check for empty names and leading \"-\"\n"
+"      --portability   check for all POSIX systems (equivalent to -p -P)\n"
+msgstr ""
+
+msgid "Directory: "
+msgstr ""
+
+msgid "Dmitry V. Levin"
+msgstr ""
+
+msgid "EMT trap"
+msgstr ""
+
+msgid "EXIT"
+msgstr "ཕྱིར་འདོན།"
+
+msgid ""
+"Echo the STRING(s) to standard output.\n"
+"\n"
+"  -n             do not output the trailing newline\n"
+msgstr ""
+
+msgid "Eric Blake"
+msgstr ""
+
+msgid "Exit with a status code indicating failure."
+msgstr ""
+
+msgid "Exit with a status code indicating success."
+msgstr ""
+
+msgid ""
+"Exit with the status determined by EXPRESSION.\n"
+"\n"
+msgstr ""
+
+msgid "F. Pinard"
+msgstr ""
+
+msgid "FAILED"
+msgstr "ཕམ་པ།"
+
+msgid "FIXME: unknown"
+msgstr ""
+
+msgid "Fifos do not have major and minor device numbers."
+msgstr ""
+
+msgid "File"
+msgstr "ཡིག་ཆ།"
+
+msgid "File size limit exceeded"
+msgstr ""
+
+msgid "Filesystem"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
+
+msgid "Floating point exception"
+msgstr "འཕྱོ་ཚེག་གྲངས་རྒྱུན་འགལ།"
+
+msgid "General help using GNU software: <http://www.gnu.org/gethelp/>\n"
+msgstr ""
+
+msgid "Giuseppe Scrivano"
+msgstr ""
+
+msgid "H. Peter Anvin"
+msgstr ""
+
+msgid "Hangup"
+msgstr ""
+
+msgid "I/O possible"
+msgstr ""
+
+msgid "IDLE"
+msgstr ""
+
+msgid "IFree"
+msgstr ""
+
+msgid "IUse%"
+msgstr ""
+
+msgid "IUsed"
+msgstr ""
+
+msgid "Ian Lance Taylor"
+msgstr ""
+
+msgid "Idle"
+msgstr "ཁོམ་པ།"
+
+msgid ""
+"If FILE is not specified, use %s.  %s as FILE is common.\n"
+"\n"
+msgstr ""
+
+msgid "Illegal instruction"
+msgstr ""
+
+msgid ""
+"In addition, file system backups and remote mirrors may contain copies\n"
+"of the file that cannot be removed, and that will allow a shredded file\n"
+"to be recovered later.\n"
+msgstr ""
+
+msgid "In real life: "
+msgstr ""
+
+msgid ""
+"In the case of ext3 file systems, the above disclaimer applies\n"
+"(and shred is thus of limited effectiveness) only in data=journal mode,\n"
+"which journals file data in addition to just metadata.  In both the\n"
+"data=ordered (default) and data=writeback modes, shred works as usual.\n"
+"Ext3 journaling modes can be changed by adding the data=something option\n"
+"to the mount options for a particular file system in the /etc/fstab file,\n"
+"as documented in the mount man page (man mount).\n"
+"\n"
+msgstr ""
+
+msgid "Infinity B"
+msgstr ""
+
+msgid "Information request"
+msgstr ""
+
+msgid "Inodes"
+msgstr "\"Inode\""
+
+msgid "Interrupt"
+msgstr "བར་གཅོད།"
+
+msgid "Interrupted by a signal"
+msgstr ""
+
+msgid "Invalid back reference"
+msgstr ""
+
+msgid "Invalid character class name"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་རྟགས་རིགས་གྲས་མིང་།"
+
+msgid "Invalid collation character"
+msgstr ""
+
+msgid "Invalid content of \\{\\}"
+msgstr ""
+
+msgid "Invalid preceding regular expression"
+msgstr "ནུས་མེད་ཀྱི་མདུན་བཀོད་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "Invalid range end"
+msgstr ""
+
+msgid "Invalid regular expression"
+msgstr "ནུས་མེད་ཀྱི་ཚད་མཐུན་མཚོན་ཚུལ།"
+
+msgid "James Youngman"
+msgstr ""
+
+msgid "Jay Lepreau"
+msgstr ""
+
+msgid "Jim Kingdon"
+msgstr ""
+
+msgid "Jim Meyering"
+msgstr ""
+
+msgid "Joseph Arceneaux"
+msgstr ""
+
+msgid "Kaveh Ghazi"
+msgstr ""
+
+msgid "Kayvan Aghaiepour"
+msgstr ""
+
+msgid "Kevin Braunsdorf"
+msgstr ""
+
+msgid "Killed"
+msgstr ""
+
+msgid "LINE"
+msgstr "སྐུད་ལམ།"
+
+msgid "LOGIN"
+msgstr "ཐོ་འགོད།"
+
+msgid "Login"
+msgstr "ཐོ་འགོད།"
+
+msgid "Login name: "
+msgstr ""
+
+msgid "Mark Kettenis"
+msgstr ""
+
+msgid "Matthew Bradburn"
+msgstr ""
+
+msgid "Memory allocation failure"
+msgstr "ནང་གསོག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Memory exhausted"
+msgstr "ནང་གསོག་བཀོལ་ཚར།"
+
+msgid "Michael Meskes"
+msgstr ""
+
+msgid "Michael Stone"
+msgstr ""
+
+msgid "Mike Haertel"
+msgstr ""
+
+msgid "Mike Parker"
+msgstr ""
+
+msgid "Mounted on"
+msgstr "འགེལ་གནས།"
+
+msgid "NAME"
+msgstr "མིང་།"
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Name or service not known"
+msgstr ""
+
+msgid "No address associated with hostname"
+msgstr ""
+
+msgid "No match"
+msgstr "ཟླ་སྒྲིག་མེད་པ།"
+
+msgid "No previous regular expression"
+msgstr ""
+
+msgid "Non-recoverable failure in name resolution"
+msgstr ""
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "Only one string may be given when deleting without squeezing repeats."
+msgstr ""
+
+msgid ""
+"Ordering options:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Other options:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Output commands to set the LS_COLORS environment variable.\n"
+"\n"
+"Determine format of output:\n"
+"  -b, --sh, --bourne-shell    output Bourne shell code to set LS_COLORS\n"
+"  -c, --csh, --c-shell        output C shell code to set LS_COLORS\n"
+"  -p, --print-database        output defaults\n"
+msgstr ""
+
+msgid ""
+"Output platform dependent limits in a format useful for shell scripts.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Output who is currently logged in according to FILE.\n"
+"If FILE is not specified, use %s.  %s as FILE is common.\n"
+"\n"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "Packaged by %s\n"
+msgstr ""
+
+msgid "Packaged by %s (%s)\n"
+msgstr ""
+
+msgid "Padraig Brady"
+msgstr ""
+
+msgid "Parameter string not correctly encoded"
+msgstr ""
+
+msgid "Paul Eggert"
+msgstr ""
+
+msgid "Paul Rubin"
+msgstr ""
+
+msgid "Pete TerMaat"
+msgstr ""
+
+msgid "Plan:\n"
+msgstr ""
+
+msgid "Power failure"
+msgstr ""
+
+msgid "Premature end of regular expression"
+msgstr ""
+
+msgid ""
+"Print ARGUMENT(s) according to FORMAT, or execute according to OPTION:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Print CRC checksum and byte counts of each FILE.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Print certain system information.  With no OPTION, same as -s.\n"
+"\n"
+"  -a, --all                print all information, in the following order,\n"
+"                             except omit -p and -i if unknown:\n"
+"  -s, --kernel-name        print the kernel name\n"
+"  -n, --nodename           print the network node hostname\n"
+"  -r, --kernel-release     print the kernel release\n"
+msgstr ""
+
+msgid ""
+"Print group memberships for each USERNAME or, if no USERNAME is specified, for\n"
+"the current process (which may differ if the groups database has changed).\n"
+msgstr ""
+
+msgid "Print information about users who are currently logged in.\n"
+msgstr ""
+
+msgid ""
+"Print machine architecture.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Print the current time, the length of time the system has been up,\n"
+"the number of users on the system, and the average number of jobs\n"
+"in the run queue over the last 1, 5 and 15 minutes."
+msgstr ""
+
+msgid ""
+"Print the file name of the terminal connected to standard input.\n"
+"\n"
+"  -s, --silent, --quiet   print nothing, only return an exit status\n"
+msgstr ""
+
+msgid ""
+"Print the full filename of the current working directory.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Print the name of the current user.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Print the number of processing units available to the current process,\n"
+"which may be less than the number of online processors\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Print the prime factors of each specified integer NUMBER.  If none\n"
+"are specified on the command line, read them from standard input.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Print the user name associated with the current effective user ID.\n"
+"Same as id -un.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Print value of a symbolic link or canonical file name\n"
+"\n"
+msgstr ""
+
+msgid "Processing request in progress"
+msgstr ""
+
+msgid "Profiling timer expired"
+msgstr ""
+
+msgid "Project: "
+msgstr ""
+
+msgid "Q. Frank Xia"
+msgstr ""
+
+msgid "Quit"
+msgstr "ཕྱིར་འདོན་པ།"
+
+msgid "Randy Smith"
+msgstr ""
+
+msgid "Real-time signal %d"
+msgstr ""
+
+msgid "Regular expression too big"
+msgstr ""
+
+msgid ""
+"Remove the DIRECTORY(ies), if they are empty.\n"
+"\n"
+"      --ignore-fail-on-non-empty\n"
+"                  ignore each failure that is solely because a directory\n"
+"                    is non-empty\n"
+msgstr ""
+
+msgid "Report %s bugs to: %s\n"
+msgstr ""
+
+msgid "Report %s translation bugs to <http://translationproject.org/team/>\n"
+msgstr ""
+
+msgid "Request canceled"
+msgstr ""
+
+msgid "Request not canceled"
+msgstr ""
+
+msgid "Resource lost"
+msgstr ""
+
+msgid "Richard M. Stallman"
+msgstr ""
+
+msgid "Richard Mlynarik"
+msgstr ""
+
+msgid "Roland Huebner"
+msgstr ""
+
+msgid "Roland McGrath"
+msgstr ""
+
+msgid "Ross Paterson"
+msgstr ""
+
+msgid ""
+"Run COMMAND with root directory set to NEWROOT.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Run COMMAND, ignoring hangup signals.\n"
+"\n"
+msgstr ""
+
+msgid "Russell Coker"
+msgstr ""
+
+msgid "Scott Bartram"
+msgstr ""
+
+msgid "Scott Miller"
+msgstr ""
+
+msgid "Segmentation fault"
+msgstr ""
+
+msgid "Servname not supported for ai_socktype"
+msgstr ""
+
+msgid "Set LC_ALL='C' to work around the problem."
+msgstr ""
+
+msgid "Shell: "
+msgstr ""
+
+msgid "Simon Josefsson"
+msgstr ""
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Special files require major and minor device numbers."
+msgstr ""
+
+msgid "Stack fault"
+msgstr ""
+
+msgid "Start COMMAND, and kill it if still running after DURATION.\n"
+msgstr ""
+
+msgid "Stopped"
+msgstr "མཚམས་བཞག"
+
+msgid "Stopped (signal)"
+msgstr ""
+
+msgid "Stopped (tty input)"
+msgstr ""
+
+msgid "Stopped (tty output)"
+msgstr ""
+
+msgid "Stuart Kemp"
+msgstr ""
+
+msgid "Success"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "System error"
+msgstr "རྒྱུད་ཁོངས་ནོར་འཁྲུལ།"
+
+msgid "TIME"
+msgstr "དུས་ཚོད།"
+
+msgid "Temporary failure in name resolution"
+msgstr ""
+
+msgid "Terminated"
+msgstr ""
+
+msgid "The strings compared were %s and %s."
+msgstr ""
+
+msgid "Torbjorn Granlund"
+msgstr "Torbjorn Granlund"
+
+msgid "Trace/breakpoint trap"
+msgstr ""
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Two strings must be given when both deleting and squeezing repeats."
+msgstr ""
+
+msgid "Two strings must be given when translating."
+msgstr ""
+
+msgid "Type"
+msgstr "རིགས་གྲས་"
+
+msgid "Ulrich Drepper"
+msgstr "Ulrich Drepper"
+
+msgid "Unknown error"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+
+msgid "Unknown signal %d"
+msgstr ""
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Unmatched ( or \\("
+msgstr ""
+
+msgid "Unmatched ) or \\)"
+msgstr ""
+
+msgid "Unmatched [ or [^"
+msgstr ""
+
+msgid "Unmatched \\{"
+msgstr ""
+
+msgid "Urgent I/O condition"
+msgstr ""
+
+msgid "Usage: %s\n"
+msgstr ""
+
+msgid ""
+"Usage: %s COMMAND [ARG]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: %s CONTEXT COMMAND [args]\n"
+"  or:  %s [ -c ] [-u USER] [-r ROLE] [-t TYPE] [-l RANGE] COMMAND [args]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s EXPRESSION\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: %s FILE\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: %s FILE1 FILE2\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: %s FORMAT [ARGUMENT]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: %s NAME [SUFFIX]\n"
+"  or:  %s OPTION... NAME...\n"
+msgstr ""
+
+msgid "Usage: %s OPTION... COMMAND\n"
+msgstr ""
+
+msgid "Usage: %s OPTION... FILE...\n"
+msgstr ""
+
+msgid "Usage: %s OPTION... [FILE]...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [-F DEVICE | --file=DEVICE] [SETTING]...\n"
+"  or:  %s [-F DEVICE | --file=DEVICE] [-a|--all]\n"
+"  or:  %s [-F DEVICE | --file=DEVICE] [-g|--save]\n"
+msgstr ""
+
+msgid "Usage: %s [-WIDTH] [OPTION]... [FILE]...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [-s SIGNAL | -SIGNAL] PID...\n"
+"  or:  %s -l [SIGNAL]...\n"
+"  or:  %s -t [SIGNAL]...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [FILE]...\n"
+"  or:  %s [OPTION]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [NAME]\n"
+"  or:  %s OPTION\n"
+"Print or set the hostname of the current system.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [NUMBER]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPERAND]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]\n"
+"Print the numeric identifier (in hexadecimal) for the current host.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION] DURATION COMMAND [ARG]...\n"
+"  or:  %s [OPTION]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] NAME...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION] NEWROOT [COMMAND [ARG]...]\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] [COMMAND [ARG]...]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION] [FILE]...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... CONTEXT FILE...\n"
+"  or:  %s [OPTION]... [-u USER] [-r ROLE] [-l RANGE] [-t TYPE] FILE...\n"
+"  or:  %s [OPTION]... --reference=RFILE FILE...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... DIRECTORY...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... FILE PATTERN...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... FILE...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... FILE1 FILE2\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... GROUP FILE...\n"
+"  or:  %s [OPTION]... --reference=RFILE FILE...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... LAST\n"
+"  or:  %s [OPTION]... FIRST LAST\n"
+"  or:  %s [OPTION]... FIRST INCREMENT LAST\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... MODE[,MODE]... FILE...\n"
+"  or:  %s [OPTION]... OCTAL-MODE FILE...\n"
+"  or:  %s [OPTION]... --reference=RFILE FILE...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... NAME TYPE [MAJOR MINOR]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... NAME...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... SET1 [SET2]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [ FILE | ARG1 ARG2 ]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [+FORMAT]\n"
+"  or:  %s [-u|--utc|--universal] [MMDDhhmm[[CC]YY][.ss]]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [-T] SOURCE DEST\n"
+"  or:  %s [OPTION]... SOURCE... DIRECTORY\n"
+"  or:  %s [OPTION]... -t DIRECTORY SOURCE...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [-T] SOURCE DEST\n"
+"  or:  %s [OPTION]... SOURCE... DIRECTORY\n"
+"  or:  %s [OPTION]... -t DIRECTORY SOURCE...\n"
+"  or:  %s [OPTION]... -d DIRECTORY...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [-T] TARGET LINK_NAME   (1st form)\n"
+"  or:  %s [OPTION]... TARGET                  (2nd form)\n"
+"  or:  %s [OPTION]... TARGET... DIRECTORY     (3rd form)\n"
+"  or:  %s [OPTION]... -t DIRECTORY TARGET...  (4th form)\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [-] [NAME=VALUE]... [COMMAND [ARG]...]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [FILE]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [FILE]\n"
+"  or:  %s -e [OPTION]... [ARG]...\n"
+"  or:  %s -i LO-HI [OPTION]...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [FILE]...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [FILE]...\n"
+"  or:  %s [-abcdfilosx]... [FILE] [[+]OFFSET[.][b]]\n"
+"  or:  %s --traditional [OPTION]... [FILE] [[+]OFFSET[.][b] [+][LABEL][.][b]]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [FILE]...\n"
+"  or:  %s [OPTION]... --files0-from=F\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [INPUT [OUTPUT]]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [INPUT]...   (without -G)\n"
+"  or:  %s -G [OPTION]... [INPUT [OUTPUT]]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [OWNER][:[GROUP]] FILE...\n"
+"  or:  %s [OPTION]... --reference=RFILE FILE...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [TEMPLATE]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [USERNAME]...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [USER]...\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [VARIABLE]...\n"
+"Print the values of the specified environment VARIABLE(s).\n"
+"If no VARIABLE is specified, print name and value pairs for them all.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [SHORT-OPTION]... [STRING]...\n"
+"  or:  %s LONG-OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [STRING]...\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [ignored command line arguments]\n"
+"  or:  %s OPTION\n"
+msgstr ""
+
+msgid ""
+"Usage: test EXPRESSION\n"
+"  or:  test\n"
+"  or:  [ EXPRESSION ]\n"
+"  or:  [ ]\n"
+"  or:  [ OPTION\n"
+msgstr ""
+
+msgid "Use%"
+msgstr ""
+
+msgid "Used"
+msgstr "སྤྱད་ཚར།"
+
+msgid "User defined signal 1"
+msgstr ""
+
+msgid "User defined signal 2"
+msgstr ""
+
+msgid "Valid arguments are:"
+msgstr "ནུས་ལྡན་གྱི་ཞུགས་གྲངས་ནི།："
+
+msgid "Valid arguments are:\n"
+msgstr ""
+
+msgid "Virtual timer expired"
+msgstr ""
+
+msgid ""
+"WARNING: Circular directory structure.\n"
+"This almost certainly means that you have a corrupted file system.\n"
+"NOTIFY YOUR SYSTEM MANAGER.\n"
+"The following directory is part of the cycle:\n"
+"  %s\n"
+msgstr ""
+
+msgid ""
+"WARNING: ignoring --preserve-context; this kernel is not SELinux-enabled"
+msgstr ""
+
+msgid ""
+"WARNING: ignoring --strip-program option as -s option was not specified"
+msgstr ""
+
+msgid "Warning: "
+msgstr "ཐ་ཚིག："
+
+msgid "When"
+msgstr "ནས"
+
+msgid "Where"
+msgstr "ནས་འོང་བ།"
+
+msgid "Window changed"
+msgstr ""
+
+msgid ""
+"With --follow (-f), tail defaults to following the file descriptor, which\n"
+"means that even if a tail'ed file is renamed, tail will continue to track\n"
+"its end.  This default behavior is not desirable when you really want to\n"
+"track the actual name of the file, not the file descriptor (e.g., log\n"
+"rotation).  Use --follow=name in that case.  That causes tail to track the\n"
+"named file in a way that accommodates renaming, removal and creation.\n"
+msgstr ""
+
+msgid "Written by %s and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr ""
+
+msgid "Written by %s.\n"
+msgstr ""
+
+msgid "[=c=] expressions may not appear in string2 when translating"
+msgstr ""
+
+msgid "^ no match for key\n"
+msgstr ""
+
+msgid "^[nN]"
+msgstr ""
+
+msgid "^[yY]"
+msgstr ""
+
+msgid "`"
+msgstr ""
+
+msgid "a command must be given with an adjustment"
+msgstr ""
+
+msgid "ai_family not supported"
+msgstr ""
+
+msgid "ai_socktype not supported"
+msgstr ""
+
+msgid "ambiguous argument %s for %s"
+msgstr ""
+
+msgid "an input delimiter may be specified only when operating on fields"
+msgstr ""
+
+msgid "appending output to %s"
+msgstr ""
+
+msgid "backing up %s would destroy source;  %s not copied"
+msgstr ""
+
+msgid "backing up %s would destroy source;  %s not moved"
+msgstr ""
+
+msgid "backup type"
+msgstr ""
+
+msgid "block special file"
+msgstr ""
+
+msgid "block special files not supported"
+msgstr ""
+
+msgid "blocks"
+msgstr "དུམ་བུ།"
+
+msgid "both files cannot be standard input"
+msgstr ""
+
+msgid "can't apply partial context to unlabeled file %s"
+msgstr ""
+
+msgid "can't get process context"
+msgstr ""
+
+msgid "cannot access %s"
+msgstr ""
+
+msgid "cannot backup %s"
+msgstr ""
+
+msgid "cannot both summarize and show all entries"
+msgstr ""
+
+msgid "cannot change ownership of %s"
+msgstr ""
+
+msgid "cannot change permissions of %s"
+msgstr ""
+
+msgid "cannot change root directory to %s"
+msgstr ""
+
+msgid "cannot change to directory %s"
+msgstr ""
+
+msgid "cannot chdir to root directory"
+msgstr ""
+
+msgid "cannot combine --target-directory (-t) and --no-target-directory (-T)"
+msgstr ""
+
+msgid "cannot combine --target-directory and --no-target-directory"
+msgstr ""
+
+msgid "cannot combine -e and -i options"
+msgstr ""
+
+msgid "cannot combine any two of {ascii,ebcdic,ibm}"
+msgstr ""
+
+msgid "cannot combine block and unblock"
+msgstr ""
+
+msgid "cannot combine direct and nocache"
+msgstr ""
+
+msgid "cannot combine excl and nocreat"
+msgstr ""
+
+msgid "cannot combine lcase and ucase"
+msgstr ""
+
+msgid "cannot combine mode and --reference options"
+msgstr ""
+
+msgid "cannot combine signal with -l or -t"
+msgstr ""
+
+msgid "cannot compare file names %s and %s"
+msgstr ""
+
+msgid "cannot convert U+%04X to local character set"
+msgstr ""
+
+msgid "cannot convert U+%04X to local character set: %s"
+msgstr ""
+
+msgid "cannot copy a directory, %s, into itself, %s"
+msgstr ""
+
+msgid "cannot copy cyclic symbolic link %s"
+msgstr ""
+
+msgid "cannot create directory %s"
+msgstr ""
+
+msgid "cannot create fifo %s"
+msgstr ""
+
+msgid "cannot create hard link %s to %s"
+msgstr ""
+
+msgid "cannot create link %s to %s"
+msgstr ""
+
+msgid "cannot create regular file %s"
+msgstr ""
+
+msgid "cannot create special file %s"
+msgstr ""
+
+msgid "cannot create symbolic link %s"
+msgstr ""
+
+msgid "cannot create symbolic link %s to %s"
+msgstr ""
+
+msgid "cannot create temporary file in %s"
+msgstr ""
+
+msgid "cannot dereference %s"
+msgstr ""
+
+msgid "cannot determine device and inode of %s"
+msgstr ""
+
+msgid "cannot determine hostname"
+msgstr ""
+
+msgid "cannot determine location of %s. reverting to polling"
+msgstr ""
+
+msgid "cannot do ioctl on %s"
+msgstr ""
+
+msgid "cannot find name for group ID %lu"
+msgstr ""
+
+msgid "cannot find name for user ID %lu"
+msgstr ""
+
+msgid "cannot follow %s by name"
+msgstr ""
+
+msgid "cannot fstat %s"
+msgstr ""
+
+msgid "cannot get current directory"
+msgstr ""
+
+msgid "cannot get niceness"
+msgstr ""
+
+msgid "cannot get system name"
+msgstr ""
+
+msgid "cannot get the size of %s"
+msgstr ""
+
+msgid "cannot lseek %s"
+msgstr ""
+
+msgid "cannot make both hard and symbolic links"
+msgstr ""
+
+msgid "cannot make directory %s"
+msgstr ""
+
+msgid "cannot move %s to %s"
+msgstr ""
+
+msgid "cannot move %s to a subdirectory of itself, %s"
+msgstr ""
+
+msgid "cannot move directory onto non-directory: %s -> %s"
+msgstr ""
+
+msgid "cannot open %s for reading"
+msgstr ""
+
+msgid "cannot open %s for writing"
+msgstr ""
+
+msgid "cannot open directory %s"
+msgstr ""
+
+msgid "cannot operate on dangling symlink %s"
+msgstr ""
+
+msgid "cannot overwrite directory %s with non-directory"
+msgstr ""
+
+msgid "cannot overwrite non-directory %s with directory %s"
+msgstr ""
+
+msgid "cannot perform formatted output"
+msgstr ""
+
+msgid "cannot preserve extended attributes, cp is built without xattr support"
+msgstr ""
+
+msgid "cannot preserve security context without an SELinux-enabled kernel"
+msgstr ""
+
+msgid "cannot print \"only\" of more than one choice"
+msgstr ""
+
+msgid "cannot print only names or real IDs in default format"
+msgstr ""
+
+msgid "cannot print security context when user specified"
+msgstr ""
+
+msgid "cannot read directory %s"
+msgstr ""
+
+msgid "cannot read file names from %s"
+msgstr ""
+
+msgid "cannot read file system information for %s"
+msgstr ""
+
+msgid "cannot read realtime clock"
+msgstr ""
+
+msgid "cannot read symbolic link %s"
+msgstr ""
+
+msgid "cannot read table of mounted file systems"
+msgstr ""
+
+msgid "cannot remove %s"
+msgstr ""
+
+msgid "cannot run %s"
+msgstr ""
+
+msgid "cannot set %s"
+msgstr ""
+
+msgid "cannot set date"
+msgstr ""
+
+msgid "cannot set hostname; this system lacks the functionality"
+msgstr ""
+
+msgid "cannot set name to %s"
+msgstr ""
+
+msgid "cannot set niceness"
+msgstr ""
+
+msgid "cannot set permissions of %s"
+msgstr ""
+
+msgid "cannot set time stamps for %s"
+msgstr ""
+
+msgid "cannot skip past end of combined input"
+msgstr ""
+
+msgid "cannot specify --null (-0) with command"
+msgstr ""
+
+msgid "cannot specify both printing across and printing in parallel"
+msgstr ""
+
+msgid "cannot specify number of columns when printing in parallel"
+msgstr ""
+
+msgid "cannot specify times from more than one source"
+msgstr ""
+
+msgid "cannot split in more than one way"
+msgstr ""
+
+msgid "cannot stat %s"
+msgstr ""
+
+msgid "cannot stat current directory (now %s)"
+msgstr ""
+
+msgid "cannot stat standard input"
+msgstr ""
+
+msgid "cannot touch %s"
+msgstr ""
+
+msgid "cannot un-backup %s"
+msgstr ""
+
+msgid "cannot unlink %s"
+msgstr ""
+
+msgid "cannot unset %s"
+msgstr "%s དོར་ཐབས་བྲལ།"
+
+msgid "cannot watch %s"
+msgstr ""
+
+msgid "cannot watch parent directory of %s"
+msgstr ""
+
+msgid "cannot work around kernel bug after all"
+msgstr ""
+
+msgid "changing group of %s"
+msgstr ""
+
+msgid "changing ownership of %s"
+msgstr ""
+
+msgid "changing permissions of %s"
+msgstr ""
+
+msgid "changing security context of %s\n"
+msgstr ""
+
+msgid "character offset is zero"
+msgstr ""
+
+msgid "character out of range"
+msgstr ""
+
+msgid "character special file"
+msgstr ""
+
+msgid "character special files not supported"
+msgstr ""
+
+msgid "clearing permissions for %s"
+msgstr ""
+
+msgid "clock change"
+msgstr ""
+
+msgid "close failed"
+msgstr ""
+
+msgid "closing %s (fd=%d)"
+msgstr ""
+
+msgid "closing directory %s"
+msgstr ""
+
+msgid "closing input file %s"
+msgstr ""
+
+msgid "closing output file %s"
+msgstr ""
+
+msgid "closing standard input"
+msgstr ""
+
+msgid "compatibility mode supports at most one file"
+msgstr ""
+
+msgid "conflicting empty-field replacement strings"
+msgstr ""
+
+msgid "conflicting security context specifiers given"
+msgstr ""
+
+msgid "could not set buffering of %s to mode %s\n"
+msgstr ""
+
+msgid "couldn't create process for %s -d"
+msgstr ""
+
+msgid "couldn't create temporary file"
+msgstr ""
+
+msgid "couldn't find directory entry in %s with matching i-node"
+msgstr ""
+
+msgid "couldn't get boot time"
+msgstr ""
+
+msgid "created directory %s"
+msgstr ""
+
+msgid "creating directory %s"
+msgstr ""
+
+msgid "creating file %s\n"
+msgstr ""
+
+msgid "delimiter list ends with an unescaped backslash: %s"
+msgstr ""
+
+msgid "directory"
+msgstr "དཀར་ཆག"
+
+msgid "division by zero"
+msgstr ""
+
+msgid "empty file name"
+msgstr ""
+
+msgid "empty tab"
+msgstr ""
+
+msgid "error closing file"
+msgstr ""
+
+msgid "error in regular expression matcher"
+msgstr ""
+
+msgid "error in regular expression search"
+msgstr ""
+
+msgid "error initializing month strings"
+msgstr ""
+
+msgid "error monitoring inotify event"
+msgstr ""
+
+msgid "error reading %s"
+msgstr ""
+
+msgid "error reading inotify event"
+msgstr ""
+
+msgid "error waiting for command"
+msgstr ""
+
+msgid "error writing %s"
+msgstr ""
+
+msgid "exit="
+msgstr ""
+
+msgid "extra argument %s"
+msgstr ""
+
+msgid "extra operand %s"
+msgstr ""
+
+msgid "extra operand %s not allowed with -%c"
+msgstr ""
+
+msgid "failed to canonicalize %s"
+msgstr ""
+
+msgid "failed to change context of %s to %s"
+msgstr ""
+
+msgid "failed to change group of %s to %s\n"
+msgstr ""
+
+msgid "failed to change ownership of %s\n"
+msgstr ""
+
+msgid "failed to change ownership of %s to %s\n"
+msgstr ""
+
+msgid "failed to chdir to %s"
+msgstr ""
+
+msgid "failed to compute a new context"
+msgstr ""
+
+msgid "failed to create directory via template %s"
+msgstr ""
+
+msgid "failed to create file via template %s"
+msgstr ""
+
+msgid "failed to create hard link %s"
+msgstr ""
+
+msgid "failed to create hard link %s => %s"
+msgstr ""
+
+msgid "failed to create hard link to %.0s%s"
+msgstr ""
+
+msgid "failed to create security context: %s"
+msgstr ""
+
+msgid "failed to create symbolic link %s"
+msgstr ""
+
+msgid "failed to create symbolic link %s -> %s"
+msgstr ""
+
+msgid "failed to discard cache for: %s"
+msgstr ""
+
+msgid "failed to extend %s"
+msgstr ""
+
+msgid "failed to find %s"
+msgstr ""
+
+msgid "failed to get attributes of %s"
+msgstr ""
+
+msgid "failed to get current context"
+msgstr ""
+
+msgid "failed to get groups for the current process"
+msgstr ""
+
+msgid "failed to get groups for user %s"
+msgstr ""
+
+msgid "failed to get security context of %s"
+msgstr ""
+
+msgid "failed to lookup file %s"
+msgstr ""
+
+msgid "failed to open %s"
+msgstr ""
+
+msgid "failed to preserve authorship for %s"
+msgstr ""
+
+msgid "failed to preserve ownership for %s"
+msgstr ""
+
+msgid "failed to preserve permissions for %s"
+msgstr ""
+
+msgid "failed to preserve times for %s"
+msgstr ""
+
+msgid "failed to redirect standard error"
+msgstr ""
+
+msgid "failed to remove %s"
+msgstr " %sའདོར་མི་ཐུབ།"
+
+msgid "failed to remove directory %s"
+msgstr ""
+
+msgid "failed to render standard input unusable"
+msgstr ""
+
+msgid "failed to reopen %s with mode %s"
+msgstr ""
+
+msgid "failed to restore the default file creation context"
+msgstr ""
+
+msgid "failed to return to initial working directory"
+msgstr ""
+
+msgid "failed to run command %s"
+msgstr ""
+
+msgid "failed to set %s security context component to %s"
+msgstr ""
+
+msgid "failed to set default file creation context to %s"
+msgstr ""
+
+msgid "failed to set group-ID"
+msgstr ""
+
+msgid "failed to set the copy of stderr to close on exec"
+msgstr ""
+
+msgid "failed to set user-ID"
+msgstr ""
+
+msgid "failed to stat %s"
+msgstr ""
+
+msgid "failed to turn off O_DIRECT: %s"
+msgstr ""
+
+msgid "failed to update the environment with %s"
+msgstr ""
+
+msgid "fdatasync failed for %s"
+msgstr ""
+
+msgid "fflush failed"
+msgstr ""
+
+msgid "field number %s is too large"
+msgstr ""
+
+msgid "field number is zero"
+msgstr ""
+
+msgid "fifo"
+msgstr ""
+
+msgid "file %d is not in sorted order"
+msgstr ""
+
+msgid "file operands cannot be combined with --files0-from"
+msgstr ""
+
+msgid "file operands cannot be combined with --print-database (-p)"
+msgstr ""
+
+msgid "file system type %s both selected and excluded"
+msgstr ""
+
+msgid "fork system call failed"
+msgstr ""
+
+msgid "format %s ends in %%"
+msgstr ""
+
+msgid "format %s has no %% directive"
+msgstr ""
+
+msgid "format %s has too many %% directives"
+msgstr ""
+
+msgid "format %s has unknown %%%c directive"
+msgstr ""
+
+msgid "format string may not be specified when printing equal width strings"
+msgstr ""
+
+msgid "fsync failed for %s"
+msgstr ""
+
+msgid "fts_close failed"
+msgstr ""
+
+msgid "fts_read failed"
+msgstr ""
+
+msgid "fts_read failed: %s"
+msgstr ""
+
+msgid "getting new attributes of %s"
+msgstr ""
+
+msgid "group of %s retained as %s\n"
+msgstr ""
+
+msgid "iconv function not available"
+msgstr ""
+
+msgid "iconv function not usable"
+msgstr ""
+
+msgid "id="
+msgstr ""
+
+msgid "ignoring input"
+msgstr ""
+
+msgid "ignoring input and appending output to %s"
+msgstr ""
+
+msgid "ignoring input and redirecting stderr to stdout"
+msgstr ""
+
+msgid "ignoring invalid tab size in environment variable TABSIZE: %s"
+msgstr ""
+
+msgid "ignoring invalid value of environment variable QUOTING_STYLE: %s"
+msgstr ""
+
+msgid "ignoring invalid width in environment variable COLUMNS: %s"
+msgstr ""
+
+msgid "ignoring non-option arguments"
+msgstr ""
+
+msgid "incompatible join fields %lu, %lu"
+msgstr ""
+
+msgid "incompatible tabs"
+msgstr ""
+
+msgid "inotify cannot be used, reverting to polling"
+msgstr ""
+
+msgid "inotify resources exhausted"
+msgstr ""
+
+msgid "input disappeared"
+msgstr ""
+
+msgid "input line is too long"
+msgstr ""
+
+msgid "inter-device move failed: %s to %s; unable to remove target"
+msgstr ""
+
+msgid "invalid %s%s argument '%s'"
+msgstr ""
+
+msgid "invalid --%s argument %s"
+msgstr ""
+
+msgid "invalid adjustment %s"
+msgstr ""
+
+msgid "invalid argument %s"
+msgstr ""
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s ཡི་ཞུགས་གྲངས་ %1$s ནུས་མེད།"
+
+msgid "invalid body numbering style: %s"
+msgstr ""
+
+msgid "invalid buffering mode %s for %s\n"
+msgstr ""
+
+msgid "invalid character class %s"
+msgstr ""
+
+msgid "invalid context: %s"
+msgstr ""
+
+msgid "invalid conversion"
+msgstr ""
+
+msgid "invalid conversion specifier in suffix: %c"
+msgstr ""
+
+msgid "invalid conversion specifier in suffix: \\%.3o"
+msgstr ""
+
+msgid "invalid date %s"
+msgstr ""
+
+msgid "invalid date format %s"
+msgstr ""
+
+msgid "invalid decreasing range"
+msgstr ""
+
+msgid "invalid device %s %s"
+msgstr ""
+
+msgid "invalid device type %s"
+msgstr ""
+
+msgid "invalid field number: %s"
+msgstr ""
+
+msgid "invalid field specifier: %s"
+msgstr ""
+
+msgid "invalid field width: %s"
+msgstr ""
+
+msgid "invalid file number in field spec: %s"
+msgstr ""
+
+msgid "invalid flags in conversion specification: %%%c%c"
+msgstr ""
+
+msgid "invalid floating point argument: %s"
+msgstr ""
+
+msgid "invalid footer numbering style: %s"
+msgstr ""
+
+msgid "invalid gap width: %s"
+msgstr ""
+
+msgid "invalid group"
+msgstr "ནུས་མེད་ཀྱི་ཚོ།"
+
+msgid "invalid group %s"
+msgstr ""
+
+msgid "invalid group list %s"
+msgstr ""
+
+msgid "invalid group: %s"
+msgstr ""
+
+msgid "invalid header numbering style: %s"
+msgstr ""
+
+msgid "invalid input"
+msgstr ""
+
+msgid "invalid input flag"
+msgstr ""
+
+msgid "invalid integer %s"
+msgstr ""
+
+msgid "invalid line discipline %s"
+msgstr ""
+
+msgid "invalid line numbering format: %s"
+msgstr ""
+
+msgid "invalid line width: %s"
+msgstr ""
+
+msgid "invalid major device number %s"
+msgstr ""
+
+msgid "invalid maximum depth %s"
+msgstr ""
+
+msgid "invalid minor device number %s"
+msgstr ""
+
+msgid "invalid mode"
+msgstr "ནུས་མེད་ཀྱི་དབང་ཚད་རྣམ་པ།"
+
+msgid "invalid mode %s"
+msgstr ""
+
+msgid "invalid mode: %s"
+msgstr ""
+
+msgid "invalid number at field start"
+msgstr ""
+
+msgid "invalid number of bytes"
+msgstr ""
+
+msgid "invalid number of bytes to compare"
+msgstr ""
+
+msgid "invalid number of bytes to skip"
+msgstr ""
+
+msgid "invalid number of fields to skip"
+msgstr ""
+
+msgid "invalid number of lines"
+msgstr ""
+
+msgid "invalid option -- %c"
+msgstr ""
+
+msgid ""
+"invalid option -- %c; -WIDTH is recognized only when it is the first\n"
+"option; use -w N instead"
+msgstr ""
+
+msgid "invalid output flag"
+msgstr ""
+
+msgid "invalid page range %s"
+msgstr ""
+
+msgid "invalid precision: %s"
+msgstr ""
+
+msgid "invalid range with no endpoint: -"
+msgstr ""
+
+msgid "invalid repeat count %s in [c*n] construct"
+msgstr ""
+
+msgid "invalid spec"
+msgstr ""
+
+msgid "invalid suffix %s, contains directory separator"
+msgstr ""
+
+msgid "invalid suffix in %s%s argument '%s'"
+msgstr ""
+
+msgid "invalid template, %s, contains directory separator"
+msgstr ""
+
+msgid "invalid template, %s; with --tmpdir, it may not be absolute"
+msgstr ""
+
+msgid "invalid time interval %s"
+msgstr ""
+
+msgid "invalid time style format %s"
+msgstr ""
+
+msgid "invalid trailing option -- %c"
+msgstr ""
+
+msgid "invalid type string %s"
+msgstr ""
+
+msgid ""
+"invalid type string %s;\n"
+"this system doesn't provide a %lu-byte floating point type"
+msgstr ""
+
+msgid ""
+"invalid type string %s;\n"
+"this system doesn't provide a %lu-byte integral type"
+msgstr ""
+
+msgid "invalid universal character name \\%c%0*x"
+msgstr ""
+
+msgid "invalid user"
+msgstr "ནུས་མེད་ཀྱི་སྤྱོད་མཁན།"
+
+msgid "invalid user %s"
+msgstr ""
+
+msgid "invalid zero-length file name"
+msgstr ""
+
+msgid "it is dangerous to operate recursively on %s"
+msgstr ""
+
+msgid "it is dangerous to operate recursively on %s (same as %s)"
+msgstr ""
+
+msgid "key %lu has zero width and will be ignored"
+msgstr ""
+
+msgid "key %lu is numeric and spans multiple fields"
+msgstr ""
+
+msgid "last="
+msgstr ""
+
+msgid "limit %lu exceeded by length %lu of file name %s"
+msgstr ""
+
+msgid "limit %lu exceeded by length %lu of file name component %s"
+msgstr ""
+
+msgid "line buffering stdin is meaningless"
+msgstr ""
+
+msgid "line count option -%s%c... is too large"
+msgstr ""
+
+msgid "line number %s is smaller than preceding line number, %s"
+msgstr ""
+
+msgid "line number overflow"
+msgstr "འཕྲེད་ཨང་ལུད་པ།"
+
+msgid "maximum --%s argument with current rlimit is %s"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "message queue"
+msgstr "བརྡ་འཕྲིན་རུ་སྟར།"
+
+msgid "minimum --%s argument is %s"
+msgstr ""
+
+msgid "misaligned [:upper:] and/or [:lower:] construct"
+msgstr ""
+
+msgid "missing %% conversion specification in suffix"
+msgstr ""
+
+msgid "missing argument after %s"
+msgstr ""
+
+msgid "missing argument to %s"
+msgstr ""
+
+msgid "missing conversion specifier in suffix"
+msgstr ""
+
+msgid "missing destination file operand after %s"
+msgstr ""
+
+msgid "missing file operand"
+msgstr ""
+
+msgid "missing hexadecimal number in escape"
+msgstr ""
+
+msgid "missing list of fields"
+msgstr ""
+
+msgid "missing operand"
+msgstr "བཀོལ་སྤྱོད་གྲངས་མི་འདང་བ།"
+
+msgid "missing operand after %s"
+msgstr ""
+
+msgid "mode must specify only file permission bits"
+msgstr ""
+
+msgid "mode of %s retained as %04lo (%s)\n"
+msgstr ""
+
+msgid "multi-character tab %s"
+msgstr ""
+
+msgid "multiple -i options specified"
+msgstr ""
+
+msgid "multiple -l or -t options specified"
+msgstr ""
+
+msgid "multiple compress programs specified"
+msgstr ""
+
+msgid "multiple levelranges"
+msgstr ""
+
+msgid "multiple output files specified"
+msgstr ""
+
+msgid "multiple output formats specified"
+msgstr ""
+
+msgid "multiple random sources specified"
+msgstr ""
+
+msgid "multiple relative modifiers specified"
+msgstr ""
+
+msgid "multiple roles"
+msgstr ""
+
+msgid "multiple target directories specified"
+msgstr ""
+
+msgid "multiple types"
+msgstr ""
+
+msgid "multiple users"
+msgstr ""
+
+msgid "multiplexed block special file"
+msgstr ""
+
+msgid "multiplexed character special file"
+msgstr ""
+
+msgid "multiplexed file"
+msgstr ""
+
+msgid "neither symbolic link %s nor referent has been changed\n"
+msgstr ""
+
+msgid "network special file"
+msgstr ""
+
+msgid "no SHELL environment variable, and no shell type option given"
+msgstr ""
+
+msgid "no change to ownership of %s\n"
+msgstr ""
+
+msgid "no command specified"
+msgstr ""
+
+msgid "no file systems processed"
+msgstr ""
+
+msgid "no files remaining"
+msgstr ""
+
+msgid "no group specified for unknown uid: %d"
+msgstr ""
+
+msgid "no input from %s"
+msgstr ""
+
+msgid "no login name"
+msgstr ""
+
+msgid "no process ID specified"
+msgstr ""
+
+msgid "no type may be specified when dumping strings"
+msgstr ""
+
+msgid "no username specified; at least one must be specified when using -l"
+msgstr ""
+
+msgid "non-integer argument"
+msgstr ""
+
+msgid "nonportable character %s in file name %s"
+msgstr ""
+
+msgid "not a tty"
+msgstr ""
+
+msgid "not writing through dangling symlink %s"
+msgstr ""
+
+msgid "number in parallel must be nonzero"
+msgstr ""
+
+msgid "offset overflow while reading file %s"
+msgstr ""
+
+msgid "omitting directory %s"
+msgstr ""
+
+msgid "only one [c*] repeat construct may appear in string2"
+msgstr ""
+
+msgid "only one device may be specified"
+msgstr ""
+
+msgid "only one type of list may be specified"
+msgstr ""
+
+msgid "open failed"
+msgstr "ཁ་ཕྱེ་བ་ཕམ་པ།"
+
+msgid "option used in invalid context -- %c"
+msgstr ""
+
+msgid "options --backup and --no-clobber are mutually exclusive"
+msgstr ""
+
+msgid ""
+"options --compare (-C) and --preserve-timestamps are mutually exclusive"
+msgstr ""
+
+msgid "options --compare (-C) and --strip are mutually exclusive"
+msgstr ""
+
+msgid "output file suffixes exhausted"
+msgstr ""
+
+msgid "overflow extending size of file %s"
+msgstr ""
+
+msgid "overflow rounding up size of file %s"
+msgstr ""
+
+msgid "ownership of %s retained\n"
+msgstr ""
+
+msgid "ownership of %s retained as %s\n"
+msgstr ""
+
+msgid "page number overflow"
+msgstr ""
+
+msgid "page width too narrow"
+msgstr ""
+
+msgid "port"
+msgstr "མཐུད་ཁ།"
+
+msgid "preserving permissions for %s"
+msgstr " %sཡི་དབང་ཚད་ཉར་བཞིན་པ།"
+
+msgid "preserving times for %s"
+msgstr ""
+
+msgid "printing all duplicated lines and repeat counts is meaningless"
+msgstr ""
+
+msgid "read error"
+msgstr "ཀློག་ལནེ་ནོར་འཁྲུལ"
+
+msgid "read failed"
+msgstr ""
+
+msgid "reading directory %s"
+msgstr ""
+
+msgid "record too large"
+msgstr ""
+
+msgid "redirecting stderr to stdout"
+msgstr ""
+
+msgid "regular empty file"
+msgstr ""
+
+msgid "regular file"
+msgstr ""
+
+msgid "removed %s\n"
+msgstr ""
+
+msgid "removing directory, %s"
+msgstr ""
+
+msgid "run-level"
+msgstr "འཁོར་སྐྱོད་རིམ་པ།"
+
+msgid "semaphore"
+msgstr "བརྡ་རྟགས་ཚད།"
+
+msgid "separator cannot be empty"
+msgstr ""
+
+msgid "set LC_ALL='C' to work around the problem"
+msgstr ""
+
+msgid "setting flags for %s"
+msgstr ""
+
+msgid "setting permissions for %s"
+msgstr "%s ཡི་དབང་ཚད་སྒྲིག་པ"
+
+msgid "setting times of %s"
+msgstr ""
+
+msgid "shared memory object"
+msgstr ""
+
+msgid "skip-bytes + read-bytes is too large"
+msgstr ""
+
+msgid "skipping %s, since it's on a different device"
+msgstr ""
+
+msgid "skipping file %s, as it was replaced while being copied"
+msgstr ""
+
+msgid "socket"
+msgstr "འབྲེལ་འཛུགས་ཡི་གེ"
+
+msgid "standard error"
+msgstr "ཚད་ལྡན་གྱི་ནོར་འཁྲུལ།"
+
+msgid "standard input"
+msgstr "ཚད་ལྡན་ནང་འཇུག"
+
+msgid "standard input is closed"
+msgstr "ཚད་ལྡན་ནང་འཇུག་ཁ་བརྒྱབས་པ།"
+
+msgid "standard output"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན།"
+
+msgid "stat failed"
+msgstr ""
+
+msgid "stderr"
+msgstr "ཚད་ལྡན་གྱི་ནོར་འཁྲུལ།"
+
+msgid "stdin"
+msgstr "ཚད་ལྡན་ནང་འཇུག"
+
+msgid "stdout"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན།"
+
+msgid "stray character in field spec"
+msgstr ""
+
+msgid "string comparison failed"
+msgstr ""
+
+msgid "string transformation failed"
+msgstr ""
+
+msgid "strip process terminated abnormally"
+msgstr ""
+
+msgid ""
+"suppressing non-delimited lines makes sense\n"
+"\tonly when operating on fields"
+msgstr ""
+
+msgid "symbolic link"
+msgstr "མཚོན་རྟགས་སྦྲེལ་མཐུད།"
+
+msgid "syntax error"
+msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ།"
+
+msgid "system boot"
+msgstr ""
+
+msgid "tab size cannot be 0"
+msgstr ""
+
+msgid "tab size contains invalid character(s): %s"
+msgstr ""
+
+msgid "tab sizes must be ascending"
+msgstr ""
+
+msgid "tab stop is too large %s"
+msgstr ""
+
+msgid "tab stop value is too large"
+msgstr ""
+
+msgid "tabs are too far apart"
+msgstr ""
+
+msgid "target %s is not a directory"
+msgstr ""
+
+msgid "target directory not allowed when installing a directory"
+msgstr ""
+
+msgid "term="
+msgstr ""
+
+msgid "test and/or ["
+msgstr ""
+
+msgid ""
+"the --binary and --text options are meaningless when verifying checksums"
+msgstr ""
+
+msgid ""
+"the --compare (-C) option is ignored when you specify a mode with non-"
+"permission bits"
+msgstr ""
+
+msgid "the --quiet option is meaningful only when verifying checksums"
+msgstr ""
+
+msgid "the --status option is meaningful only when verifying checksums"
+msgstr ""
+
+msgid "the --tag option is meaningless when verifying checksums"
+msgstr ""
+
+msgid "the --warn option is meaningful only when verifying checksums"
+msgstr ""
+
+msgid "the [c*] construct may appear in string2 only when translating"
+msgstr ""
+
+msgid "the [c*] repeat construct may not appear in string1"
+msgstr ""
+
+msgid "the delimiter must be a single character"
+msgstr ""
+
+msgid ""
+"the options for verbose and stty-readable output styles are\n"
+"mutually exclusive"
+msgstr ""
+
+msgid ""
+"the options to output dircolors' internal database and\n"
+"to select a shell syntax are mutually exclusive"
+msgstr ""
+
+msgid "the options to print and set the time may not be used together"
+msgstr ""
+
+msgid "the options to specify dates for printing are mutually exclusive"
+msgstr ""
+
+msgid "the strings compared were %s and %s"
+msgstr ""
+
+msgid "the strip option may not be used when installing a directory"
+msgstr ""
+
+msgid "the untransformed string was %s"
+msgstr ""
+
+msgid "time %s is out of range"
+msgstr ""
+
+msgid "too few X's in template %s"
+msgstr ""
+
+msgid "too many %% conversion specifications in suffix"
+msgstr ""
+
+msgid "too many characters in set"
+msgstr ""
+
+msgid "too many repeated lines"
+msgstr ""
+
+msgid "too many templates"
+msgstr ""
+
+msgid "total"
+msgstr "སྤྱིའི་སྤྱོད་ཚད།"
+
+msgid "traversal failed: %s"
+msgstr ""
+
+msgid "typed memory object"
+msgstr ""
+
+msgid "unable to display error message"
+msgstr ""
+
+msgid "unable to record current working directory"
+msgstr ""
+
+msgid "unable to set security context %s"
+msgstr ""
+
+msgid ""
+"unexpected failure: fts_info=%d: %s\n"
+"please report to %s"
+msgstr ""
+
+msgid "unknown status from command (0x%X)"
+msgstr ""
+
+msgid "unknown stream"
+msgstr ""
+
+msgid "unparsable value for LS_COLORS environment variable"
+msgstr ""
+
+msgid "unrecognized operand %s"
+msgstr ""
+
+msgid "unrecognized prefix: %s"
+msgstr ""
+
+msgid "up %ld day %2d:%02d,  "
+msgid_plural "up %ld days %2d:%02d,  "
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "up ???? days ??:??,  "
+msgstr ""
+
+msgid "use --no-preserve-root to override this failsafe"
+msgstr ""
+
+msgid "using %s sorting rules"
+msgstr ""
+
+msgid "using %s to denote standard input does not work in file system mode"
+msgstr ""
+
+msgid "using simple byte comparison"
+msgstr ""
+
+msgid "waiting for %s [-d]"
+msgstr ""
+
+msgid "waiting for strip"
+msgstr ""
+
+msgid ""
+"warning: %s: character(s) following character constant have been ignored"
+msgstr ""
+
+msgid "warning: %s: failed to change context to %s"
+msgstr ""
+
+msgid "warning: --pid=PID is not supported on this system"
+msgstr ""
+
+msgid "warning: PID ignored; --pid=PID is useful only when following"
+msgstr ""
+
+msgid "warning: an unescaped backslash at end of string is not portable"
+msgstr ""
+
+msgid "warning: backslash at end of format"
+msgstr ""
+
+msgid "warning: cannot remove: %s"
+msgstr ""
+
+msgid "warning: following standard input indefinitely is ineffective"
+msgstr ""
+
+msgid "warning: ignoring excess arguments, starting with %s"
+msgstr ""
+
+msgid "warning: invalid file offset after failed read"
+msgstr ""
+
+msgid "warning: invalid width %lu; using %d instead"
+msgstr ""
+
+msgid "warning: line number %s is the same as preceding line number"
+msgstr ""
+
+msgid "warning: source file %s specified more than once"
+msgstr ""
+
+msgid "warning: summarizing conflicts with --max-depth=%lu"
+msgstr ""
+
+msgid "warning: summarizing is the same as using --max-depth=0"
+msgstr ""
+
+msgid ""
+"warning: the ambiguous octal escape \\%c%c%c is being\n"
+"\tinterpreted as the 2-byte sequence \\0%c%c, %c"
+msgstr ""
+
+msgid ""
+"warning: working around lseek kernel bug for file (%s)\n"
+"  of mt_type=0x%0lx -- see <sys/mtio.h> for the list of types"
+msgstr ""
+
+msgid "weird file"
+msgstr ""
+
+msgid "when not truncating set1, string2 must be non-empty"
+msgstr ""
+
+msgid "when reading file names from stdin, no file name of %s allowed"
+msgstr ""
+
+msgid "when specifying an output style, modes may not be set"
+msgstr ""
+
+msgid ""
+"when translating with complemented character classes,\n"
+"string2 must map all characters in the domain to one"
+msgstr ""
+
+msgid ""
+"when translating with string1 longer than string2,\n"
+"the latter string must not end with a character class"
+msgstr ""
+
+msgid "will not copy %s through just-created symlink %s"
+msgstr ""
+
+msgid "will not create hard link %s to directory %s"
+msgstr ""
+
+msgid "will not overwrite just-created %s with %s"
+msgstr ""
+
+msgid "with --parents, the destination must be a directory"
+msgstr ""
+
+msgid "with --suffix, template %s must end in X"
+msgstr ""
+
+msgid "write error"
+msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+
+msgid "write error for %s"
+msgstr ""
+
+msgid "write failed"
+msgstr "འབྲི་བ་ཕམ་པ།"
+
+msgid "writing to %s"
+msgstr ""
+
+msgid "you must specify -c, -t, -u, -l, -r, or context"
+msgstr ""
+
+msgid "you must specify a list of bytes, characters, or fields"
+msgstr ""
+
+msgid "you must specify a relative %s with %s"
+msgstr ""
+
+msgid "you must specify either %s or %s"
+msgstr ""

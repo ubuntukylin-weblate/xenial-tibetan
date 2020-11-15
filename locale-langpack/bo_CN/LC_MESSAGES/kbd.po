@@ -1,0 +1,912 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\t\t\t    interpret character action codes to be from the\n"
+"\t\t\t    specified character set\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Escaped scancodes e0 xx (hex)\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Changed %d %s and %d %s.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Press any keys - Ctrl-D will terminate this program\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Recognized modifier names and their column numbers:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"The following synonyms are recognized:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"usage: dumpkeys [options...]\n"
+"\n"
+"valid options are:\n"
+"\n"
+"\t-h --help\t    display this help text\n"
+"\t-i --short-info\t    display information about keyboard driver\n"
+"\t-l --long-info\t    display above and symbols known to loadkeys\n"
+"\t-n --numeric\t    display keytable in hexadecimal notation\n"
+"\t-f --full-table\t    don't use short-hand notations, one row per keycode\n"
+"\t-1 --separate-lines one line per (modifier,keycode) pair\n"
+"\t   --funcs-only\t    display only the function key strings\n"
+"\t   --keys-only\t    display only key bindings\n"
+"\t   --compose-only   display only compose key combinations\n"
+"\t-c --charset="
+msgstr ""
+
+msgid "    FAILED"
+msgstr "ཕམ་པ།"
+
+msgid "# not alt_is_meta: on keymap %d key %d is bound to"
+msgstr ""
+"#  alt_is_meta:མ་ཡིན། %d མཐེབ་དེ་སྦྲེལ་བའི་མཐེབ་རྟེན་འཕྲོ་ %d "
+"ཡི་སྟེང་དུ་ཡོད།"
+
+msgid "%-15s for %s\n"
+msgstr ""
+
+msgid "%s from %s\n"
+msgstr ""
+
+msgid ""
+"%s version %s\n"
+"\n"
+"Usage: %s [options]\n"
+"\n"
+"Valid options are:\n"
+"\n"
+"\t-h --help            display this help text\n"
+"\t-V --version         display program version\n"
+"\t-n --next-available  display number of next unallocated VT\n"
+msgstr ""
+
+msgid "%s: %s: Warning: line too long\n"
+msgstr ""
+
+msgid "%s: 0: illegal VT number\n"
+msgstr ""
+
+msgid "%s: Bad Unicode range corresponding to font position range 0x%x-0x%x\n"
+msgstr ""
+
+msgid "%s: Bad call of readpsffont\n"
+msgstr ""
+
+msgid "%s: Bad end of range (0x%lx)\n"
+msgstr ""
+
+msgid "%s: Bad end of range (0x%x)\n"
+msgstr ""
+
+msgid "%s: Bad input line: %s\n"
+msgstr ""
+
+msgid "%s: Bad magic number on %s\n"
+msgstr ""
+
+msgid ""
+"%s: Corresponding to a range of font positions, there should be a Unicode "
+"range\n"
+msgstr ""
+
+msgid "%s: Error reading input font"
+msgstr "%s:ཀློག་འདོན་ནང་འཇུག་ཡིག་གཟུགས་ནོར་བ།"
+
+msgid "%s: Glyph number (0x%lx) past end of font\n"
+msgstr ""
+
+msgid "%s: Glyph number (0x%x) larger than font length\n"
+msgstr ""
+
+msgid "%s: Input file: bad input length (%d)\n"
+msgstr ""
+
+msgid "%s: Input file: trailing garbage\n"
+msgstr ""
+
+msgid ""
+"%s: Unicode range U+%x-U+%x not of the same length as font position range "
+"0x%x-0x%x\n"
+msgstr ""
+
+msgid "%s: Unsupported psf file mode (%d)\n"
+msgstr ""
+
+msgid "%s: Unsupported psf version (%d)\n"
+msgstr ""
+
+msgid "%s: VT 1 is the console and cannot be deallocated\n"
+msgstr ""
+
+msgid "%s: Warning: line too long\n"
+msgstr ""
+
+msgid "%s: addfunc called with bad func %d\n"
+msgstr ""
+
+msgid "%s: addfunc: func_buf overflow\n"
+msgstr ""
+
+msgid "%s: background will look funny\n"
+msgstr ""
+
+msgid "%s: bad utf8\n"
+msgstr ""
+
+msgid "%s: bug in do_loadtable\n"
+msgstr ""
+
+msgid "%s: cannot deallocate or clear keymap\n"
+msgstr ""
+
+msgid "%s: cannot find any keymaps?\n"
+msgstr ""
+
+msgid "%s: could not deallocate console %d\n"
+msgstr ""
+
+msgid "%s: could not deallocate keymap %d\n"
+msgstr ""
+
+msgid "%s: deallocating all unused consoles failed\n"
+msgstr ""
+
+msgid "%s: error setting keyboard mode\n"
+msgstr ""
+
+msgid "%s: font position 32 is nonblank\n"
+msgstr ""
+
+msgid "%s: input font does not have an index\n"
+msgstr ""
+
+msgid ""
+"%s: not loading empty unimap\n"
+"(if you insist: use option -f to override)\n"
+msgstr ""
+
+msgid "%s: out of memory\n"
+msgstr ""
+
+msgid "%s: out of memory?\n"
+msgstr ""
+
+msgid "%s: plain map not allocated? very strange ...\n"
+msgstr ""
+
+msgid "%s: psf file with unknown magic\n"
+msgstr ""
+
+msgid "%s: short ucs2 unicode table\n"
+msgstr ""
+
+msgid "%s: short unicode table\n"
+msgstr ""
+
+msgid "%s: short utf8 unicode table\n"
+msgstr ""
+
+msgid "%s: trailing junk (%s) ignored\n"
+msgstr ""
+
+msgid "%s: unknown option\n"
+msgstr ""
+
+msgid "%s: unknown utf8 error\n"
+msgstr ""
+
+msgid "%s: wiped it\n"
+msgstr ""
+
+msgid "%s: zero input character size?\n"
+msgstr ""
+
+msgid "%s: zero input font length?\n"
+msgstr ""
+
+msgid "'%s' is not a function key symbol"
+msgstr "%s:བྱེད་ལས་མཐེབ་ཀྱི་མཚོན་རྟགས་ཤིག་མ་རེད།"
+
+msgid "(No change in compose definitions.)\n"
+msgstr ""
+
+msgid "0 is an error; for 1-88 (0x01-0x58) scancode equals keycode\n"
+msgstr ""
+
+msgid "?UNKNOWN?"
+msgstr "?ངེས་མེད་ཀྱི་?"
+
+msgid "Appended Unicode map\n"
+msgstr ""
+
+msgid "Bad character height %d\n"
+msgstr ""
+
+msgid "Bad character width %d\n"
+msgstr ""
+
+msgid "Bad input file size\n"
+msgstr ""
+
+msgid "Bad input line: %s\n"
+msgstr ""
+
+msgid "Cannot find %s\n"
+msgstr ""
+
+msgid "Cannot find %s font\n"
+msgstr ""
+
+msgid "Cannot find default font\n"
+msgstr ""
+
+msgid "Cannot open /dev/port"
+msgstr "/dev/portཁ་ཕྱེ་ཐབས་བྲལ་བ།"
+
+msgid "Cannot open font file %s\n"
+msgstr ""
+
+msgid "Cannot read console map\n"
+msgstr ""
+
+msgid "Cannot stat map file"
+msgstr "རྟེན་འཕྲོ་ཡིག་ཆ་stat བྱེད་ཐབས་བྲལ་བ།"
+
+msgid "Cannot write font file"
+msgstr "ཡིག་གཟུགས་ཡིག་ཆ་འབྲི་ཐབས་བྲལ་བ།"
+
+msgid "Cannot write font file header"
+msgstr "ཡིག་གཟུགས་ཡིག་ཆའི་མགོ་ཁུལ་འབྲི་ཐབས་བྲལ་བ།"
+
+msgid "Character count: %d\n"
+msgstr ""
+
+msgid "Couldn't get a file descriptor referring to the console\n"
+msgstr ""
+
+msgid "Couldn't open %s\n"
+msgstr ""
+
+msgid "Couldn't read VTNO: "
+msgstr "VTཨང་འདོན་ཐབས་བྲལ་བ།"
+
+msgid "Current default flags:  "
+msgstr "མིག་སྔའི་སོར་བཞག་མཚོན་རྟགས།"
+
+msgid "Current flags:          "
+msgstr "མིག་སྔའི་མཚོན་རྟགས།"
+
+msgid "Current leds:           "
+msgstr "མིག་སྔའི་LED"
+
+msgid "Error opening /dev/kbd.\n"
+msgstr ""
+
+msgid "Error parsing symbolic map from `%s', line %d\n"
+msgstr ""
+
+msgid "Error reading %s\n"
+msgstr ""
+
+msgid "Error reading current flags setting. Maybe you are not on the console?\n"
+msgstr ""
+
+msgid "Error reading current led setting from /dev/kbd.\n"
+msgstr ""
+
+msgid "Error reading current led setting. Maybe stdin is not a VT?\n"
+msgstr ""
+
+msgid "Error reading current setting. Maybe stdin is not a VT?\n"
+msgstr ""
+
+msgid "Error reading map from file `%s'\n"
+msgstr ""
+
+msgid "Error resetting ledmode\n"
+msgstr ""
+
+msgid "Error writing map to file\n"
+msgstr ""
+
+msgid "Error writing screendump\n"
+msgstr ""
+
+msgid "Font height    : %d\n"
+msgstr ""
+
+msgid "Font width     : %d\n"
+msgstr ""
+
+msgid "Found nothing to save\n"
+msgstr ""
+
+msgid "Hmm - a font from restorefont? Using the first half.\n"
+msgstr ""
+
+msgid "Invalid number of lines\n"
+msgstr ""
+
+msgid "KDGKBENT error at index %d in table %d\n"
+msgstr ""
+
+msgid "KDGKBENT error at index 0 in table %d\n"
+msgstr ""
+
+msgid "KDGKBSENT failed at index %d: "
+msgstr "KDGKBSENTགསལ་བྱང་གི་%dནས་ཕམ་པ།"
+
+msgid "KIOCGLED unavailable?\n"
+msgstr ""
+
+msgid "KIOCSLED unavailable?\n"
+msgstr ""
+
+msgid "Keymap %d: Permission denied\n"
+msgstr ""
+
+msgid "Loaded %d compose %s.\n"
+msgstr ""
+
+msgid "Loading %d-char %dx%d (%d) font\n"
+msgstr ""
+
+msgid "Loading %d-char %dx%d (%d) font from file %s\n"
+msgstr ""
+
+msgid "Loading %d-char %dx%d font\n"
+msgstr ""
+
+msgid "Loading %d-char %dx%d font from file %s\n"
+msgstr ""
+
+msgid "Loading %s\n"
+msgstr ""
+
+msgid "Loading Unicode mapping table...\n"
+msgstr ""
+
+msgid "Loading binary direct-to-font screen map from file %s\n"
+msgstr ""
+
+msgid "Loading binary unicode screen map from file %s\n"
+msgstr ""
+
+msgid "Loading symbolic screen map from file %s\n"
+msgstr ""
+
+msgid "Loading unicode map from file %s\n"
+msgstr ""
+
+msgid "Meta key gives Esc prefix\n"
+msgstr ""
+
+msgid "Meta key sets high order bit\n"
+msgstr ""
+
+msgid "New default flags:    "
+msgstr "སོར་བཞག་མཚོན་རྟགས་གསར་པ།"
+
+msgid "New flags:            "
+msgstr "མཚོན་རྟགས་གསར་པ།"
+
+msgid "New leds:             "
+msgstr "LEDགསར་པ།"
+
+msgid "No final newline in combine file\n"
+msgstr ""
+
+msgid "Old #scanlines: %d  New #scanlines: %d  Character height: %d\n"
+msgstr ""
+
+msgid "Old default flags:    "
+msgstr "སོར་བཞག་མཚོན་རྟགས་རྙིང་པ།"
+
+msgid "Old flags:            "
+msgstr "མཚོན་རྟགས་རྙིང་པ།"
+
+msgid "Old leds:             "
+msgstr "LEDརྙིང་པ།"
+
+msgid "Old mode: %dx%d  New mode: %dx%d\n"
+msgstr ""
+
+msgid "Plain scancodes xx (hex) versus keycodes (dec)\n"
+msgstr ""
+
+msgid "Read %d-char %dx%d font from file %s\n"
+msgstr ""
+
+msgid "Reading font file %s\n"
+msgstr ""
+
+msgid "Saved %d-char %dx%d font file on %s\n"
+msgstr ""
+
+msgid "Saved screen map in `%s'\n"
+msgstr ""
+
+msgid "Saved unicode map on `%s'\n"
+msgstr ""
+
+msgid ""
+"Showing %d-char font\n"
+"\n"
+msgstr ""
+
+msgid "Strange ... screen is both %dx%d and %dx%d ??\n"
+msgstr ""
+
+msgid "Strange mode for Meta key?\n"
+msgstr ""
+
+msgid ""
+"Symbols recognized by %s:\n"
+"(numeric value, symbol)\n"
+"\n"
+msgstr ""
+
+msgid "The keyboard is in Unicode (UTF-8) mode\n"
+msgstr ""
+
+msgid "The keyboard is in mediumraw (keycode) mode\n"
+msgstr ""
+
+msgid "The keyboard is in raw (scancode) mode\n"
+msgstr ""
+
+msgid "The keyboard is in some unknown mode\n"
+msgstr ""
+
+msgid "The keyboard is in the default (ASCII) mode\n"
+msgstr ""
+
+msgid ""
+"This file contains 3 fonts: 8x8, 8x14 and 8x16. Please indicate\n"
+"using an option -8 or -14 or -16 which one you want loaded.\n"
+msgstr ""
+
+msgid "Too many files to combine\n"
+msgstr ""
+
+msgid "Typematic Rate set to %.1f cps (delay = %d ms)\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"\t%s [-C console] [-o map.orig]\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"\t%s [-i infont] [-o outfont] [-it intable] [-ot outtable] [-nt]\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"\t%s [-s] [-C console]\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"\t%s infont [outtable]\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"\t%s infont intable outfont\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"\t%s infont outfont\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"\tsetleds [-v] [-L] [-D] [-F] [[+|-][ num | caps | scroll %s]]\n"
+"Thus,\n"
+"\tsetleds +caps -num\n"
+"will set CapsLock, clear NumLock and leave ScrollLock unchanged.\n"
+"The settings before and after the change (if any) are reported\n"
+"when the -v option is given or when no change is requested.\n"
+"Normally, setleds influences the vt flag settings\n"
+"(and these are usually reflected in the leds).\n"
+"With -L, setleds only sets the leds, and leaves the flags alone.\n"
+"With -D, setleds sets both the flags and the default flags, so\n"
+"that a subsequent reset will not change the flags.\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"\tsetmetamode [ metabit | meta | bit | escprefix | esc | prefix ]\n"
+"Each vt has his own copy of this bit. Use\n"
+"\tsetmetamode [arg] < /dev/ttyn\n"
+"to change the settings of another vt.\n"
+"The setting before and after the change are reported.\n"
+msgstr ""
+
+msgid "Usage: kbdrate [-V] [-s] [-r rate] [-d delay]\n"
+msgstr ""
+
+msgid ""
+"Usage: setfont [write-options] [-<N>] [newfont..] [-m consolemap] [-u unicodemap]\n"
+"  write-options (take place before file loading):\n"
+"    -o  <filename>  Write current font to <filename>\n"
+"    -O  <filename>  Write current font and unicode map to <filename>\n"
+"    -om <filename>  Write current consolemap to <filename>\n"
+"    -ou <filename>  Write current unicodemap to <filename>\n"
+"If no newfont and no -[o|O|om|ou|m|u] option is given,\n"
+"a default font is loaded:\n"
+"    setfont         Load font \"default[.gz]\"\n"
+"    setfont -<N>    Load font \"default8x<N>[.gz]\"\n"
+"The -<N> option selects a font from a codepage that contains three fonts:\n"
+"    setfont -{8|14|16} codepage.cp[.gz]   Load 8x<N> font from codepage.cp\n"
+"Explicitly (with -m or -u) or implicitly (in the fontfile) given mappings\n"
+"will be loaded and, in the case of consolemaps, activated.\n"
+"    -h<N>      (no space) Override font height.\n"
+"    -m <fn>    Load console screen map.\n"
+"    -u <fn>    Load font unicode map.\n"
+"    -m none    Suppress loading and activation of a screen map.\n"
+"    -u none    Suppress loading of a unicode map.\n"
+"    -v         Be verbose.\n"
+"    -C <cons>  Indicate console device to be used.\n"
+"    -V         Print version and exit.\n"
+"Files are loaded from the current directory or %s/*/.\n"
+msgstr ""
+
+msgid "When loading several fonts, all must be psf fonts - %s isn't\n"
+msgstr ""
+
+msgid "When loading several fonts, all must have the same height\n"
+msgstr ""
+
+msgid "When loading several fonts, all must have the same width\n"
+msgstr ""
+
+msgid "You asked for font size %d, but only 8, 14, 16 are possible here.\n"
+msgstr ""
+
+msgid ""
+"[ if you are trying this under X, it might not work\n"
+"since the X server is also reading /dev/console ]\n"
+msgstr ""
+
+msgid "adding map %d violates explicit keymaps line"
+msgstr "རྟེན་འཕྲོད་ %d ཁུར་སྣོན་དེ་འཆར་མཐེབ་རྟེན་འཕྲོའི་ཕྲེང་དང་འགལ་ཡོད།"
+
+msgid "addkey called with bad index %d"
+msgstr "addkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་གསལ་བྱང་བཀོལ་འདུག%d"
+
+msgid "addkey called with bad keycode %d"
+msgstr "addkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་མཐེབ་ཨང་བཀོལ་འདུག%d"
+
+msgid "addkey called with bad table %d"
+msgstr "addkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་རེའུ་མིག་བཀོལ་འདུག%d"
+
+msgid "addmap called with bad index %d"
+msgstr "addkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་གསལ་བྱང་བཀོལ་འདུག%d"
+
+msgid "appendunicode: illegal unicode %u\n"
+msgstr ""
+
+msgid "assuming iso-8859-1 %s\n"
+msgstr ""
+
+msgid "assuming iso-8859-15 %s\n"
+msgstr ""
+
+msgid "assuming iso-8859-2 %s\n"
+msgstr ""
+
+msgid "assuming iso-8859-3 %s\n"
+msgstr ""
+
+msgid "assuming iso-8859-4 %s\n"
+msgstr ""
+
+msgid "bug: getfont called with count<256\n"
+msgstr ""
+
+msgid "bug: getfont using GIO_FONT needs buf.\n"
+msgstr ""
+
+msgid "cannot change translation table\n"
+msgstr ""
+
+msgid "cannot open file %s\n"
+msgstr ""
+
+msgid "cannot open include file %s"
+msgstr "%sའདུས་པའི་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་བྲལ།"
+
+msgid "caught signal %d, cleaning up...\n"
+msgstr ""
+
+msgid "code outside bounds"
+msgstr "མཐའ་མཚམས་ཕྱིའི་མཐེབ་ཨང་།"
+
+msgid "compose table overflow\n"
+msgstr ""
+
+msgid "couldn't read %s\n"
+msgstr ""
+
+msgid "couldn't read %s, and cannot ioctl dump\n"
+msgstr ""
+
+msgid "deallocate keymap %d\n"
+msgstr ""
+
+msgid "definition"
+msgstr "མཚན་ཉིད།"
+
+msgid "definitions"
+msgstr "མཚན་ཉིད།"
+
+msgid "dumpkeys version %s"
+msgstr "dumpkeysཔར་གཞི།%s"
+
+msgid "entries"
+msgstr "བྱ་ར།"
+
+msgid "entry"
+msgstr "ནང་འཇུག"
+
+msgid "error executing  %s\n"
+msgstr ""
+
+msgid "error reading scancode"
+msgstr "བཤར་འབེབས་ཨང་ཀློག་འདོན་ནོར་འཁྲུལ།"
+
+msgid "even number of arguments expected"
+msgstr "ཆ་གྲངས་ཀྱི་ཞུགས་གྲངས་ཤིག་ནང་འཇུག་བྱེད་རོགས།"
+
+msgid "failed to bind key %d to value %d\n"
+msgstr ""
+
+msgid "failed to bind string '%s' to function %s\n"
+msgstr ""
+
+msgid "failed to clear string %s\n"
+msgstr ""
+
+msgid "failed to get keycode for scancode 0x%x\n"
+msgstr ""
+
+msgid "failed to restore original translation table\n"
+msgstr ""
+
+msgid "failed to restore original unimap\n"
+msgstr ""
+
+msgid "failed to set scancode %x to keycode %d\n"
+msgstr ""
+
+msgid "for 1-%d (0x01-0x%02x) scancode equals keycode\n"
+msgstr ""
+
+msgid "impossible error in do_constant"
+msgstr "do_constant ཡི་ཁྲོད་དུ་འབྱུང་མི་སྲིད་པའི་ནོར་འཁྲུལ་བྱུང་བ་རེད།"
+
+msgid "impossible: not meta?\n"
+msgstr ""
+
+msgid "includes are nested too deeply"
+msgstr "འདུས་པའི་ཡིག་ཆའི་སྐོང་ཛུད་ཟབ་དྲགས་པ།"
+
+msgid "kb mode was %s\n"
+msgstr ""
+
+msgid "kbd_mode: error reading keyboard mode\n"
+msgstr ""
+
+msgid "key"
+msgstr "མཐེབ་གནོན།"
+
+msgid "key bindings not changed\n"
+msgstr ""
+
+msgid "keycode %3d %s\n"
+msgstr ""
+
+msgid "keycode %d, table %d = %d%s\n"
+msgstr ""
+
+msgid "keycode range supported by kernel:           1 - %d\n"
+msgstr ""
+
+msgid "keys"
+msgstr "མཐེབ།"
+
+msgid "killkey called with bad index %d"
+msgstr "killkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་གསལ་བྱང་%dབཀོལ་བ།"
+
+msgid "killkey called with bad table %d"
+msgstr "killkeyའདྲེན་སྤྱོད་བྱེད་དུས་ནོར་འཁྲུལ་གྱི་རེའུ་མིག་%dབཀོལ་བ།"
+
+msgid "loadkeys: don't know how to compose for %s\n"
+msgstr ""
+
+msgid "mapscrn: cannot open map file _%s_\n"
+msgstr ""
+
+msgid "max nr of compose definitions: %d\n"
+msgstr ""
+
+msgid "max number of actions bindable to a key:         %d\n"
+msgstr ""
+
+msgid "new state:    "
+msgstr "རྣམ་པ་གསར་པ།"
+
+msgid "nr of compose definitions in actual use: %d\n"
+msgstr ""
+
+msgid "number of function keys supported by kernel: %d\n"
+msgstr ""
+
+msgid "number of keymaps in actual use:                 %d\n"
+msgstr ""
+
+msgid "of which %d dynamically allocated\n"
+msgstr ""
+
+msgid "off"
+msgstr "སྒོ་རྒྱག"
+
+msgid "old state:    "
+msgstr "རྣམ་པརྙིང་པ།"
+
+msgid "on "
+msgstr "ཁ་ཕྱེས་པ།"
+
+msgid "press"
+msgstr " གནོན་པ།"
+
+msgid "press any key (program terminates 10s after last keypress)...\n"
+msgstr ""
+
+msgid "ranges of action codes supported by kernel:\n"
+msgstr ""
+
+msgid "release"
+msgstr "གྲོལ་གཏོང་།"
+
+msgid ""
+"resizecons:\n"
+"call is:  resizecons COLSxROWS  or:  resizecons COLS ROWS\n"
+"or: resizecons -lines ROWS, with ROWS one of 25, 28, 30, 34, 36, 40, 44, 50, 60\n"
+msgstr ""
+
+msgid "resizecons: cannot find videomode file %s\n"
+msgstr ""
+
+msgid "resizecons: cannot get I/O permissions.\n"
+msgstr ""
+
+msgid ""
+"resizecons: don't forget to change TERM (maybe to con%dx%d or linux-%dx%d)\n"
+msgstr ""
+
+msgid "resizecons: the command `%s' failed\n"
+msgstr ""
+
+msgid ""
+"setfont: cannot both restore from character ROM and from file. Font "
+"unchanged.\n"
+msgstr ""
+
+msgid "setfont: too many input files\n"
+msgstr ""
+
+msgid ""
+"showkey version %s\n"
+"\n"
+"usage: showkey [options...]\n"
+"\n"
+"valid options are:\n"
+"\n"
+"\t-h --help\tdisplay this help text\n"
+"\t-a --ascii\tdisplay the decimal/octal/hex values of the keys\n"
+"\t-s --scancodes\tdisplay only the raw scan-codes\n"
+"\t-k --keycodes\tdisplay only the interpreted keycodes (default)\n"
+msgstr ""
+
+msgid "string"
+msgstr "ཡིག་རྟགས་ཕྲེང་།"
+
+msgid "strings"
+msgstr "ཡིག་རྟགས་ཕྲེང་གྲངས།"
+
+msgid "switching to %s\n"
+msgstr ""
+
+msgid "syntax error in map file\n"
+msgstr ""
+
+msgid "too many (%d) entries on one line"
+msgstr "ཕྲེང་གཅིག་གི་སྟེང་དུ་གནས་པའི་བྱ་ར་། ( %d 个) ཧ་ཅང་མང་པོ།"
+
+msgid "too many compose definitions\n"
+msgstr ""
+
+msgid "too many key definitions on one line"
+msgstr "ཐིག་ཕྲེང་གཅིག་གི་སྟེང་དུ་མཐེབ་ཀྱི་མཚན་ཉིད་མང་པོ་འདུག"
+
+msgid "unknown charset %s - ignoring charset request\n"
+msgstr ""
+
+msgid "unknown keysym '%s'\n"
+msgstr ""
+
+msgid ""
+"unrecognized argument: _%s_\n"
+"\n"
+msgstr ""
+
+msgid "usage: %s\n"
+msgstr ""
+
+msgid "usage: %s [-v] [-o map.orig] map-file\n"
+msgstr ""
+
+msgid "usage: chvt N\n"
+msgstr ""
+
+msgid "usage: getkeycodes\n"
+msgstr ""
+
+msgid "usage: kbd_mode [-a|-u|-k|-s] [-C device]\n"
+msgstr ""
+
+msgid "usage: screendump [n]\n"
+msgstr ""
+
+msgid ""
+"usage: setkeycode scancode keycode ...\n"
+" (where scancode is either xx or e0xx, given in hexadecimal,\n"
+"  and keycode is given in decimal)\n"
+msgstr ""
+
+msgid ""
+"usage: showconsolefont -V|--version\n"
+"       showconsolefont [-C tty] [-v] [-i]\n"
+"(probably after loading a font with `setfont font')\n"
+"\n"
+"Valid options are:\n"
+" -C tty   Device to read the font from. Default: current tty.\n"
+" -v       Be more verbose.\n"
+" -i       Don't print out the font table, just show\n"
+"          ROWSxCOLSxCOUNT and exit.\n"
+msgstr ""

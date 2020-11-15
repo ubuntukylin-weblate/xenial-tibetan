@@ -1,0 +1,2901 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "  COMMAND   The (optional) command to explain\n"
+msgstr ""
+
+msgid "  FILE      An elf file (a binary or a shared library)\n"
+msgstr ""
+
+msgid ""
+"  FILE      An elf file (a binary or a shared library)\n"
+"            or a compiled resource file\n"
+msgstr ""
+
+msgid "  KEY       The (optional) key within the schema\n"
+msgstr ""
+
+msgid "  KEY       The key within the schema\n"
+msgstr ""
+
+msgid "  PATH      A resource path\n"
+msgstr ""
+
+msgid "  PATH      An (optional) resource path (may be partial)\n"
+msgstr ""
+
+msgid ""
+"  SCHEMA    The name of the schema\n"
+"  PATH      The path, for relocatable schemas\n"
+msgstr ""
+
+msgid "  SCHEMADIR A directory to search for additional schemas\n"
+msgstr ""
+
+msgid "  SECTION   An (optional) elf section name\n"
+msgstr ""
+
+msgid "  VALUE     The value to set\n"
+msgstr ""
+
+msgid " (invalid encoding)"
+msgstr ""
+
+msgid " and --strict was specified; exiting.\n"
+msgstr ""
+
+msgid "%.1f EB"
+msgstr ""
+
+msgid "%.1f EiB"
+msgstr ""
+
+msgid "%.1f GB"
+msgstr "%.1f GB"
+
+msgid "%.1f GiB"
+msgstr ""
+
+msgid "%.1f KB"
+msgstr "%.1f KB"
+
+msgid "%.1f KiB"
+msgstr ""
+
+msgid "%.1f MB"
+msgstr "%.1f MB"
+
+msgid "%.1f MiB"
+msgstr ""
+
+msgid "%.1f PB"
+msgstr ""
+
+msgid "%.1f PiB"
+msgstr ""
+
+msgid "%.1f TB"
+msgstr ""
+
+msgid "%.1f TiB"
+msgstr "\"%.1f TiB\""
+
+msgid "%.1f kB"
+msgstr "\"%.1f KB\""
+
+msgid "%s byte"
+msgid_plural "%s bytes"
+msgstr[0] "ཡིག་ཚིགས %s"
+msgstr[1] "ཡིག་ཚིགས %s"
+
+msgid ""
+"%s command requires an application id to directly follow\n"
+"\n"
+msgstr ""
+
+msgid "%s filetype"
+msgstr ""
+
+msgid "%s type"
+msgstr ""
+
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] "%u ཡིག་ཚིགས།"
+msgstr[1] "%u ཡིག་ཚིགས།"
+
+msgid ""
+"'%s' is not a valid character following a '<' character; it may not begin an"
+" element name"
+msgstr ""
+
+msgid ""
+"'%s' is not a valid character following the characters '</'; '%s' may not "
+"begin an element name"
+msgstr ""
+
+msgid ""
+"'%s' is not a valid character following the close element name '%s'; the "
+"allowed character is '>'"
+msgstr ""
+
+msgid "'%s' is not a valid name"
+msgstr ""
+
+msgid "'%s' is not a valid name: '%c'"
+msgstr ""
+
+msgid ""
+"'%s' takes no arguments\n"
+"\n"
+msgstr ""
+
+msgid "(*MARK) must have an argument"
+msgstr ""
+
+msgid "(*VERB) not recognized"
+msgstr ""
+
+msgid "(?R or (?[+-]digits must be followed by )"
+msgstr ""
+
+msgid "(Additionally, releasing the lock for '%s' also failed: %s) "
+msgstr ""
+
+msgid "(Type any character to close this window)\n"
+msgstr ""
+
+msgid ") without opening ("
+msgstr ""
+
+msgid "--strict was specified; exiting.\n"
+msgstr ""
+
+msgid "; ignoring override for this key.\n"
+msgstr ""
+
+msgid "<%s id='%s'> already specified"
+msgstr ""
+
+msgid "<%s id='%s'> not (yet) defined."
+msgstr ""
+
+msgid "<child name='%s'> already specified"
+msgstr ""
+
+msgid "<key name='%s'> already specified"
+msgstr ""
+
+msgid ""
+"<key name='%s'> shadows <key name='%s'> in <schema id='%s'>; use <override> "
+"to modify value"
+msgstr ""
+
+msgid "<override name='%s'> already specified"
+msgstr ""
+
+msgid "<override> given but schema isn't extending anything"
+msgstr ""
+
+msgid ""
+"<schema id='%s' list-of='%s'> extends <schema id='%s' list-of='%s'> but '%s'"
+" does not extend '%s'"
+msgstr ""
+
+msgid "<schema id='%s'> already specified"
+msgstr ""
+
+msgid "<schema id='%s'> extends not yet existing schema '%s'"
+msgstr ""
+
+msgid ""
+"<schema id='%s'> is a list, extending <schema id='%s'> which is not a list"
+msgstr ""
+
+msgid "<schema id='%s'> is list of not yet existing schema '%s'"
+msgstr ""
+
+msgid "A bookmark for URI '%s' already exists"
+msgstr ""
+
+msgid "A subtree is already exported for %s"
+msgstr ""
+
+msgid "ACTION"
+msgstr ""
+
+msgid "APPID"
+msgstr ""
+
+msgid "APPID ACTION [PARAMETER]"
+msgstr ""
+
+msgid "APPID [FILE...]"
+msgstr ""
+
+msgid "Abort on any errors in schemas"
+msgstr ""
+
+msgid "Abstract UNIX domain socket addresses not supported on this system"
+msgstr ""
+
+msgid "Abstract name space not supported"
+msgstr ""
+
+msgid "Activate an action"
+msgstr ""
+
+msgid "Added socket is closed"
+msgstr ""
+
+msgid ""
+"Address '%s' is invalid (need exactly one of path, tmpdir or abstract keys)"
+msgstr ""
+
+msgid "Address element '%s' does not contain a colon (:)"
+msgstr ""
+
+msgid "Address has bits set beyond prefix length"
+msgstr ""
+
+msgid "Address to listen on"
+msgstr ""
+
+msgid ""
+"Amount of memory required to process the write is larger than available "
+"address space"
+msgstr ""
+
+msgid "An object is already exported for the interface %s at %s"
+msgstr ""
+
+msgid "Application Options:"
+msgstr ""
+
+msgid "Application identifier in D-Bus format (eg: org.example.viewer)"
+msgstr ""
+
+msgid "Application information lacks an identifier"
+msgstr ""
+
+msgid "Arguments:\n"
+msgstr ""
+
+msgid "Attribute '%s' of element '%s' not found"
+msgstr ""
+
+msgid "Attribute value must be non-NULL"
+msgstr ""
+
+msgid "Backup file creation failed"
+msgstr ""
+
+msgid "Bad HTTP proxy reply"
+msgstr ""
+
+msgid "C identifier name used for the generated source code"
+msgstr ""
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "Can not be a list of a schema with a path"
+msgstr ""
+
+msgid "Can not extend a schema with a path"
+msgstr ""
+
+msgid "Can't copy directory over directory"
+msgstr ""
+
+msgid "Can't copy over directory"
+msgstr ""
+
+msgid "Can't copy special file"
+msgstr ""
+
+msgid "Can't create user MIME configuration folder %s: %s"
+msgstr ""
+
+msgid "Can't create user application configuration folder %s: %s"
+msgstr ""
+
+msgid "Can't create user desktop file %s"
+msgstr ""
+
+msgid "Can't do a raw read in g_io_channel_read_line_string"
+msgstr ""
+
+msgid "Can't do a raw read in g_io_channel_read_to_end"
+msgstr ""
+
+msgid "Can't handle the supplied version of the icon encoding"
+msgstr ""
+
+msgid "Can't handle version %d of GEmblem encoding"
+msgstr ""
+
+msgid "Can't handle version %d of GEmblemedIcon encoding"
+msgstr ""
+
+msgid "Can't handle version %d of GFileIcon encoding"
+msgstr ""
+
+msgid "Can't handle version %d of GThemedIcon encoding"
+msgstr ""
+
+msgid "Can't move directory over directory"
+msgstr ""
+
+msgid "Can't open directory"
+msgstr ""
+
+msgid "Can't recursively copy directory"
+msgstr ""
+
+msgid "Can't rename file, filename already exists"
+msgstr ""
+
+msgid "Can't rename root directory"
+msgstr ""
+
+msgid "Cancellable initialization not supported"
+msgstr "བར་ཆད་རུང་བའི་ཐོག་མ་ཅན་དུ་སྒྱུར་བར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Cancelled via GDBusAuthObserver::authorize-authenticated-peer"
+msgstr ""
+
+msgid "Cannot convert fallback '%s' to codeset '%s'"
+msgstr ""
+
+msgid "Cannot decrypt PEM-encoded private key"
+msgstr ""
+
+msgid "Cannot deserialize message: "
+msgstr ""
+
+msgid ""
+"Cannot determine bus address because the DBUS_STARTER_BUS_TYPE environment "
+"variable is not set"
+msgstr ""
+
+msgid ""
+"Cannot determine bus address from DBUS_STARTER_BUS_TYPE environment variable"
+" - unknown value '%s'"
+msgstr ""
+
+msgid "Cannot determine session bus address (not implemented for this OS)"
+msgstr ""
+
+msgid ""
+"Cannot invoke method; proxy is for a well-known name without an owner and "
+"proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag"
+msgstr ""
+
+msgid "Cannot listen on unsupported transport '%s'"
+msgstr ""
+
+msgid "Cannot parse double value '%s' for %s"
+msgstr ""
+
+msgid "Cannot parse integer value '%s' for %s"
+msgstr ""
+
+msgid "Cannot serialize message: "
+msgstr ""
+
+msgid "Cannot set permissions on symlinks"
+msgstr ""
+
+msgid "Cannot spawn a message bus when setuid"
+msgstr ""
+
+msgid "Cannot spawn a message bus without a machine-id: "
+msgstr ""
+
+msgid "Cannot specify nonce file when creating a server"
+msgstr ""
+
+msgid "Cannot truncate GBufferedInputStream"
+msgstr ""
+
+msgid "Cannot truncate GMemoryInputStream"
+msgstr ""
+
+msgid "Cannot use datagram operations on a non-datagram socket."
+msgstr ""
+
+msgid "Cannot use datagram operations on a socket with a timeout set."
+msgstr ""
+
+msgid "Channel terminates in a partial character"
+msgstr ""
+
+msgid "Character out of range for UTF-16"
+msgstr ""
+
+msgid "Character out of range for UTF-8"
+msgstr ""
+
+msgid "Character reference '%-.*s' does not encode a permitted character"
+msgstr ""
+
+msgid ""
+"Character reference did not end with a semicolon; most likely you used an "
+"ampersand character without intending to start an entity - escape ampersand "
+"as &amp;"
+msgstr ""
+
+msgid "Check if KEY is writable"
+msgstr ""
+
+msgid "Child process exited abnormally"
+msgstr ""
+
+msgid "Child process exited with code %ld"
+msgstr ""
+
+msgid "Child process killed by signal %ld"
+msgstr ""
+
+msgid "Child process stopped by signal %ld"
+msgstr ""
+
+msgid "Commands:\n"
+msgstr ""
+
+msgid ""
+"Commands:\n"
+"  help         Shows this information\n"
+"  introspect   Introspect a remote object\n"
+"  monitor      Monitor a remote object\n"
+"  call         Invoke a method on a remote object\n"
+"  emit         Emit a signal\n"
+"\n"
+"Use \"%s COMMAND --help\" to get help on each command.\n"
+msgstr ""
+
+msgid ""
+"Compile a resource specification into a resource file.\n"
+"Resource specification files have the extension .gresource.xml,\n"
+"and the resource file have the extension called .gresource."
+msgstr ""
+
+msgid ""
+"Compile all GSettings schema files into a schema cache.\n"
+"Schema files are required to have the extension .gschema.xml,\n"
+"and the cache file is called gschemas.compiled."
+msgstr ""
+
+msgid "Connect to given D-Bus address"
+msgstr ""
+
+msgid "Connect to the session bus"
+msgstr ""
+
+msgid "Connect to the system bus"
+msgstr ""
+
+msgid "Connection Endpoint Options:"
+msgstr ""
+
+msgid "Connection in progress"
+msgstr "འབྲེལ་པ།"
+
+msgid "Connection refused through SOCKSv5 proxy."
+msgstr ""
+
+msgid "Connection through SOCKSv4 server was rejected"
+msgstr ""
+
+msgid "Containing mount does not exist"
+msgstr ""
+
+msgid "Conversion from character set '%s' to '%s' is not supported"
+msgstr ""
+
+msgid "Copy (reflink/clone) between mounts is not supported"
+msgstr ""
+
+msgid "Copy (reflink/clone) is not supported or didn't work"
+msgstr ""
+
+msgid "Copy (reflink/clone) is not supported or invalid"
+msgstr ""
+
+msgid "Could not allocate %lu byte to read file \"%s\""
+msgid_plural "Could not allocate %lu bytes to read file \"%s\""
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Could not connect to %s: "
+msgstr ""
+
+msgid "Could not connect to proxy server %s: "
+msgstr ""
+
+msgid "Could not connect: "
+msgstr ""
+
+msgid "Could not create network monitor: "
+msgstr ""
+
+msgid "Could not create network monitor: %s"
+msgstr ""
+
+msgid "Could not determine the disk usage of %s: %s"
+msgstr ""
+
+msgid "Could not get network status: "
+msgstr ""
+
+msgid "Could not load schemas from %s: %s\n"
+msgstr ""
+
+msgid "Could not open converter from '%s' to '%s'"
+msgstr ""
+
+msgid "Could not open converter from '%s' to '%s': %s"
+msgstr ""
+
+msgid "Could not parse '%s' as IP address mask"
+msgstr ""
+
+msgid "Could not parse PEM-encoded certificate"
+msgstr ""
+
+msgid "Could not parse PEM-encoded private key"
+msgstr ""
+
+msgid "Credentials spoofing is not possible on this OS"
+msgstr ""
+
+msgid "Custom definition for %s"
+msgstr ""
+
+msgid "DEFINE group contains more than one branch"
+msgstr ""
+
+msgid "DIRECTORY"
+msgstr "དཀར་ཆག"
+
+msgid "DTLS support is not available"
+msgstr ""
+
+msgid "Desktop file didn't specify Exec field"
+msgstr ""
+
+msgid "Destination name to introspect"
+msgstr ""
+
+msgid "Destination name to invoke method on"
+msgstr ""
+
+msgid "Destination name to monitor"
+msgstr ""
+
+msgid "Didn't find cookie with id %d in the keyring at '%s'"
+msgstr ""
+
+msgid "Do not enforce key name restrictions"
+msgstr ""
+
+msgid "Do not write the gschema.compiled file"
+msgstr ""
+
+msgid ""
+"Document ended unexpectedly after the equals sign following an attribute "
+"name; no attribute value"
+msgstr ""
+
+msgid "Document ended unexpectedly inside a comment or processing instruction"
+msgstr ""
+
+msgid "Document ended unexpectedly inside an attribute name"
+msgstr ""
+
+msgid "Document ended unexpectedly inside an element name"
+msgstr ""
+
+msgid "Document ended unexpectedly inside an element-opening tag."
+msgstr ""
+
+msgid "Document ended unexpectedly inside the close tag for element '%s'"
+msgstr ""
+
+msgid "Document ended unexpectedly just after an open angle bracket '<'"
+msgstr ""
+
+msgid "Document ended unexpectedly while inside an attribute value"
+msgstr ""
+
+msgid ""
+"Document ended unexpectedly with elements still open - '%s' was the last "
+"element opened"
+msgstr ""
+
+msgid ""
+"Document ended unexpectedly, expected to see a close angle bracket ending "
+"the tag <%s/>"
+msgstr ""
+
+msgid "Document must begin with an element (e.g. <book>)"
+msgstr ""
+
+msgid "Document was empty or contained only whitespace"
+msgstr ""
+
+msgid "Don't automatically create and register resource"
+msgstr ""
+
+msgid "Don't export functions; declare them G_GNUC_INTERNAL"
+msgstr ""
+
+msgid "Double value '%s' for %s out of range"
+msgstr ""
+
+msgid "ERROR message: REPLY_SERIAL or ERROR_NAME header field is missing"
+msgstr ""
+
+msgid "Element '%s' was closed, but the currently open element is '%s'"
+msgstr ""
+
+msgid "Element '%s' was closed, no element is currently open"
+msgstr ""
+
+msgid "Element <%s> not allowed at the top level"
+msgstr ""
+
+msgid "Element <%s> not allowed at toplevel"
+msgstr ""
+
+msgid "Element <%s> not allowed inside <%s>"
+msgstr ""
+
+msgid "Emit a signal."
+msgstr ""
+
+msgid ""
+"Empty entity '&;' seen; valid entities are: &amp; &quot; &lt; &gt; &apos;"
+msgstr ""
+
+msgid "Empty path given.\n"
+msgstr ""
+
+msgid "Empty schema name given\n"
+msgstr ""
+
+msgid ""
+"Encountered array of length %u byte. Maximum length is 2<<26 bytes (64 MiB)."
+msgid_plural ""
+"Encountered array of length %u bytes. Maximum length is 2<<26 bytes (64 "
+"MiB)."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Encountered array of type 'a%c', expected to have a length a multiple of %u "
+"bytes, but found to be %u bytes in length"
+msgstr ""
+
+msgid "Enter GApplication service mode (use from D-Bus service files)"
+msgstr ""
+
+msgid ""
+"Entity did not end with a semicolon; most likely you used an ampersand "
+"character without intending to start an entity - escape ampersand as &amp;"
+msgstr ""
+
+msgid "Entity name '%-.*s' is not known"
+msgstr ""
+
+msgid "Enumerator is closed"
+msgstr ""
+
+msgid "Error accepting connection: %s"
+msgstr ""
+
+msgid "Error auto-launching: "
+msgstr ""
+
+msgid "Error binding to address: %s"
+msgstr ""
+
+msgid "Error calling StartServiceByName for %s: "
+msgstr ""
+
+msgid "Error checking if SO_PASSCRED is enabled for socket: %s"
+msgstr ""
+
+msgid "Error closing (unlinked) lock file '%s': %s"
+msgstr ""
+
+msgid "Error closing file descriptor: %s"
+msgstr ""
+
+msgid "Error closing file: %s"
+msgstr ""
+
+msgid "Error closing handle: %s"
+msgstr ""
+
+msgid "Error closing socket: %s"
+msgstr ""
+
+msgid "Error compressing file %s"
+msgstr ""
+
+msgid "Error connecting: %s\n"
+msgstr ""
+
+msgid "Error creating backup copy: %s"
+msgstr ""
+
+msgid "Error creating directory '%s': %s"
+msgstr ""
+
+msgid "Error creating directory: %s"
+msgstr ""
+
+msgid "Error creating lock file '%s': %s"
+msgstr ""
+
+msgid "Error deleting stale lock file '%s': %s"
+msgstr ""
+
+msgid ""
+"Error deserializing GVariant with type string '%s' from the D-Bus wire "
+"format"
+msgstr ""
+
+msgid "Error during conversion: %s"
+msgstr ""
+
+msgid "Error enabling SO_PASSCRED: %s"
+msgstr ""
+
+msgid "Error flushing connection: %s\n"
+msgstr ""
+
+msgid "Error getting filesystem info: %s"
+msgstr ""
+
+msgid "Error in address '%s' - the family attribute is malformed"
+msgstr ""
+
+msgid "Error in address '%s' - the host attribute is missing or malformed"
+msgstr ""
+
+msgid ""
+"Error in address '%s' - the noncefile attribute is missing or malformed"
+msgstr ""
+
+msgid "Error in address '%s' - the port attribute is malformed"
+msgstr ""
+
+msgid "Error in address '%s' - the port attribute is missing or malformed"
+msgstr ""
+
+msgid ""
+"Error in address '%s' - the unix transport requires exactly one of the keys "
+"'path' or 'abstract' to be set"
+msgstr ""
+
+msgid "Error joining multicast group: %s"
+msgstr ""
+
+msgid "Error leaving multicast group: %s"
+msgstr ""
+
+msgid "Error making symbolic link: %s"
+msgstr ""
+
+msgid "Error moving file: %s"
+msgstr ""
+
+msgid "Error on line %d char %d: "
+msgstr ""
+
+msgid "Error on line %d: %s"
+msgstr ""
+
+msgid "Error opening directory '%s': %s"
+msgstr ""
+
+msgid "Error opening file '%s': %s"
+msgstr ""
+
+msgid "Error opening file: %s"
+msgstr ""
+
+msgid "Error opening keyring '%s' for reading: "
+msgstr ""
+
+msgid "Error opening keyring '%s' for writing: "
+msgstr ""
+
+msgid "Error opening nonce file '%s': %s"
+msgstr ""
+
+msgid "Error parsing introspection XML: %s\n"
+msgstr ""
+
+msgid "Error parsing option %s"
+msgstr ""
+
+msgid "Error parsing parameter %d of type '%s': %s\n"
+msgstr ""
+
+msgid "Error parsing parameter %d: %s\n"
+msgstr ""
+
+msgid "Error reading file %s: %s"
+msgstr ""
+
+msgid "Error reading file '%s': %s"
+msgstr ""
+
+msgid "Error reading from file descriptor: %s"
+msgstr ""
+
+msgid "Error reading from file: %s"
+msgstr ""
+
+msgid "Error reading from handle: %s"
+msgstr ""
+
+msgid "Error reading from nonce file '%s', expected 16 bytes, got %d"
+msgstr ""
+
+msgid "Error reading from nonce file '%s': %s"
+msgstr ""
+
+msgid "Error receiving data: %s"
+msgstr ""
+
+msgid "Error receiving message: %s"
+msgstr ""
+
+msgid "Error removing file: %s"
+msgstr ""
+
+msgid "Error removing old backup link: %s"
+msgstr ""
+
+msgid "Error removing old file: %s"
+msgstr ""
+
+msgid "Error removing target file: %s"
+msgstr ""
+
+msgid "Error renaming file: %s"
+msgstr ""
+
+msgid "Error renaming temporary file: %s"
+msgstr ""
+
+msgid "Error resolving '%s'"
+msgstr ""
+
+msgid "Error resolving '%s': %s"
+msgstr ""
+
+msgid "Error return with body of type '%s'"
+msgstr ""
+
+msgid "Error return with empty body"
+msgstr ""
+
+msgid "Error reverse-resolving '%s': %s"
+msgstr ""
+
+msgid "Error seeking in file: %s"
+msgstr ""
+
+msgid "Error sending credentials: "
+msgstr ""
+
+msgid "Error sending data: %s"
+msgstr ""
+
+msgid "Error sending message: %s"
+msgstr ""
+
+msgid ""
+"Error serializing GVariant with type string '%s' to the D-Bus wire format"
+msgstr ""
+
+msgid "Error setting SELinux context: %s"
+msgstr ""
+
+msgid "Error setting extended attribute '%s': %s"
+msgstr ""
+
+msgid "Error setting modification or access time: %s"
+msgstr ""
+
+msgid "Error setting owner: %s"
+msgstr ""
+
+msgid "Error setting permissions: %s"
+msgstr ""
+
+msgid "Error setting property '%s': Expected type '%s' but got '%s'"
+msgstr ""
+
+msgid "Error setting symlink: %s"
+msgstr ""
+
+msgid "Error setting symlink: file is not a symlink"
+msgstr ""
+
+msgid "Error spawning command line '%s': "
+msgstr ""
+
+msgid "Error splicing file: %s"
+msgstr ""
+
+msgid "Error trashing file: %s"
+msgstr ""
+
+msgid "Error truncating file: %s"
+msgstr ""
+
+msgid ""
+"Error unescaping key or value in Key/Value pair %d, '%s', in address element"
+" '%s'"
+msgstr ""
+
+msgid "Error unlinking lock file '%s': %s"
+msgstr ""
+
+msgid "Error when getting information for directory '%s': %s"
+msgstr ""
+
+msgid "Error when getting information for file '%s': %s"
+msgstr ""
+
+msgid "Error when getting information for file descriptor: %s"
+msgstr ""
+
+msgid "Error while compiling regular expression %s at char %d: %s"
+msgstr ""
+
+msgid "Error while disabling SO_PASSCRED: %s"
+msgstr ""
+
+msgid "Error while matching regular expression %s: %s"
+msgstr ""
+
+msgid "Error while optimizing regular expression %s: %s"
+msgstr ""
+
+msgid "Error while parsing replacement text \"%s\" at char %lu: %s"
+msgstr ""
+
+msgid "Error writing contents of nonce file '%s' to stream:"
+msgstr ""
+
+msgid "Error writing nonce file at '%s': %s"
+msgstr ""
+
+msgid "Error writing to file descriptor: %s"
+msgstr ""
+
+msgid "Error writing to file: %s"
+msgstr ""
+
+msgid "Error writing to handle: %s"
+msgstr ""
+
+msgid "Error: %s\n"
+msgstr ""
+
+msgid "Error: %s is not a valid bus name\n"
+msgstr ""
+
+msgid "Error: %s is not a valid interface name\n"
+msgstr ""
+
+msgid "Error: %s is not a valid member name\n"
+msgstr ""
+
+msgid "Error: %s is not a valid name\n"
+msgstr ""
+
+msgid "Error: %s is not a valid object path\n"
+msgstr ""
+
+msgid "Error: %s is not a valid unique bus name.\n"
+msgstr ""
+
+msgid "Error: Destination is not specified\n"
+msgstr ""
+
+msgid "Error: Method name '%s' is invalid\n"
+msgstr ""
+
+msgid "Error: Method name is not specified\n"
+msgstr ""
+
+msgid "Error: Object path is not specified\n"
+msgstr ""
+
+msgid "Error: object path not specified.\n"
+msgstr ""
+
+msgid "Error: signal must be the fully-qualified name.\n"
+msgstr ""
+
+msgid "Error: signal not specified.\n"
+msgstr ""
+
+msgid ""
+"Exhausted all available authentication mechanisms (tried: %s) (available: "
+"%s)"
+msgstr ""
+
+msgid "Existing file '%s' could not be removed: g_unlink() failed: %s"
+msgstr ""
+
+msgid "Expected NUL byte after the string '%s' but found byte %d"
+msgstr ""
+
+msgid "Expected a GEmblem for GEmblemedIcon"
+msgstr ""
+
+msgid ""
+"Expected valid UTF-8 string but found invalid bytes at byte offset %d "
+"(length of string is %d). The valid UTF-8 string up until that point was "
+"'%s'"
+msgstr ""
+
+msgid "Expecting 1 control message, got %d"
+msgid_plural "Expecting 1 control message, got %d"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Expecting one fd, but got %d\n"
+msgid_plural "Expecting one fd, but got %d\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Expecting to read a single byte for receiving credentials but read zero "
+"bytes"
+msgstr ""
+
+msgid "Extract a resource file to stdout"
+msgstr ""
+
+msgid "FILE"
+msgstr "ཡིག་ཆ།"
+
+msgid "FILE PATH"
+msgstr ""
+
+msgid "FILE [PATH]"
+msgstr ""
+
+msgid "Failed to allocate memory"
+msgstr "ནང་གསོག་བགོ་བཤའ་ཕམ་པ།"
+
+msgid "Failed to change to directory '%s' (%s)"
+msgstr ""
+
+msgid "Failed to create file '%s': %s"
+msgstr ""
+
+msgid "Failed to create pipe for communicating with child process (%s)"
+msgstr ""
+
+msgid "Failed to create temp file: %s"
+msgstr ""
+
+msgid "Failed to execute child process \"%s\" (%s)"
+msgstr ""
+
+msgid "Failed to execute child process (%s)"
+msgstr ""
+
+msgid "Failed to execute helper program (%s)"
+msgstr ""
+
+msgid "Failed to expand exec line '%s' with URI '%s'"
+msgstr ""
+
+msgid "Failed to fork (%s)"
+msgstr ""
+
+msgid "Failed to fork child process (%s)"
+msgstr ""
+
+msgid "Failed to get attributes of file '%s%s%s%s': fstat() failed: %s"
+msgstr ""
+
+msgid "Failed to get attributes of file '%s': fstat() failed: %s"
+msgstr ""
+
+msgid "Failed to locate '%s' in any source directory"
+msgstr ""
+
+msgid "Failed to locate '%s' in current directory"
+msgstr ""
+
+msgid "Failed to map %s%s%s%s: mmap() failed: %s"
+msgstr ""
+
+msgid "Failed to open file '%s': %s"
+msgstr "ཡིག་ཆ “%s” ཁ་ཕྱེ་བ་ཕམ་པ།：%s"
+
+msgid "Failed to open file '%s': fdopen() failed: %s"
+msgstr ""
+
+msgid "Failed to open file '%s': open() failed: %s"
+msgstr ""
+
+msgid ""
+"Failed to parse '%-.*s', which should have been a digit inside a character "
+"reference (&#234; for example) - perhaps the digit is too large"
+msgstr ""
+
+msgid "Failed to read data from child process"
+msgstr ""
+
+msgid "Failed to read data from child process (%s)"
+msgstr ""
+
+msgid "Failed to read enough data from child pid pipe (%s)"
+msgstr ""
+
+msgid "Failed to read from child pipe (%s)"
+msgstr ""
+
+msgid "Failed to read from file '%s': %s"
+msgstr ""
+
+msgid "Failed to read the symbolic link '%s': %s"
+msgstr ""
+
+msgid "Failed to redirect output or input of child process (%s)"
+msgstr ""
+
+msgid "Failed to rename file '%s' to '%s': g_rename() failed: %s"
+msgstr ""
+
+msgid "Failed to resize memory output stream"
+msgstr ""
+
+msgid "Failed to write file '%s': fsync() failed: %s"
+msgstr ""
+
+msgid "Failed to write file '%s': write() failed: %s"
+msgstr ""
+
+msgid "File \"%s\" is too large"
+msgstr ""
+
+msgid "File %s appears multiple times in the resource"
+msgstr ""
+
+msgid "File enumerator has outstanding operation"
+msgstr ""
+
+msgid "File enumerator is already closed"
+msgstr ""
+
+msgid "File names cannot contain '%c'"
+msgstr ""
+
+msgid "Filesystem does not support symbolic links"
+msgstr ""
+
+msgid "Filesystem root"
+msgstr ""
+
+msgid ""
+"First token of line %d of the keyring at '%s' with content '%s' is malformed"
+msgstr ""
+
+msgid "GApplication options"
+msgstr ""
+
+msgid "GCredentials does not contain a process ID on this OS"
+msgstr ""
+
+msgid "GCredentials is not implemented on this OS"
+msgstr ""
+
+msgid "%H:%M:%S"
+msgstr "\"%H:%M:%S\""
+
+msgid "%I:%M:%S %p"
+msgstr ""
+
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr ""
+
+msgid "%m/%d/%y"
+msgstr ""
+
+msgid "AM"
+msgstr "སྔ་དྲོ།"
+
+msgid "PM"
+msgstr "ཕྱི་དྲོ།"
+
+msgid "GSocketControlMessage not supported on Windows"
+msgstr ""
+
+msgid "Generate dependency list"
+msgstr ""
+
+msgid ""
+"Generate output in the format selected for by the target filename extension"
+msgstr ""
+
+msgid "Generate source header"
+msgstr ""
+
+msgid "Generate sourcecode used to link in the resource file into your code"
+msgstr ""
+
+msgid "Get the value of KEY"
+msgstr ""
+
+msgid "HTTP proxy authentication failed"
+msgstr ""
+
+msgid "HTTP proxy authentication required"
+msgstr ""
+
+msgid "HTTP proxy connection failed: %i"
+msgstr ""
+
+msgid "HTTP proxy connection not allowed"
+msgstr ""
+
+msgid "HTTP proxy server closed connection unexpectedly."
+msgstr ""
+
+msgid "Help Options:"
+msgstr ""
+
+msgid "Host unreachable"
+msgstr "གཙོ་འཁོར་ལ་འབྲེལ་མཐུད་བྱེད་ཐབས་མེད།"
+
+msgid "Host unreachable through SOCKSv5 server."
+msgstr ""
+
+msgid "Hostname '%s' contains '[' but not ']'"
+msgstr ""
+
+msgid "Hostname '%s' is too long for SOCKSv4 protocol"
+msgstr ""
+
+msgid "Hostname '%s' is too long for SOCKSv5 protocol"
+msgstr ""
+
+msgid "Ignored, for compat with GTestDbus"
+msgstr ""
+
+msgid "Ignoring override for this key.\n"
+msgstr ""
+
+msgid "Ignoring this file.\n"
+msgstr ""
+
+msgid "Incomplete multibyte sequence in input"
+msgstr ""
+
+msgid "Input stream doesn't implement read"
+msgstr ""
+
+msgid "Input stream doesn't implement seek"
+msgstr ""
+
+msgid "Integer value '%s' for %s out of range"
+msgstr ""
+
+msgid "Integer value '%s' out of range"
+msgstr ""
+
+msgid "Internal SOCKSv5 proxy server error."
+msgstr ""
+
+msgid "Internal error: %s"
+msgstr ""
+
+msgid "Introspect a remote object."
+msgstr ""
+
+msgid "Introspect children"
+msgstr ""
+
+msgid "Invalid GSeekType supplied"
+msgstr ""
+
+msgid "Invalid UTF-8 encoded text in name - not valid '%s'"
+msgstr ""
+
+msgid "Invalid attribute type (byte string expected)"
+msgstr ""
+
+msgid "Invalid attribute type (string expected)"
+msgstr ""
+
+msgid "Invalid attribute type (uint32 expected)"
+msgstr ""
+
+msgid "Invalid attribute type (uint64 expected)"
+msgstr ""
+
+msgid "Invalid byte sequence in conversion input"
+msgstr ""
+
+msgid "Invalid compressed data"
+msgstr "ནུས་མེད་ཀྱི་སྡུད་སྒྲིལ་གཞི་གྲངས།"
+
+msgid ""
+"Invalid endianness value. Expected 0x6c ('l') or 0x42 ('B') but found value "
+"0x%02x"
+msgstr ""
+
+msgid "Invalid extended attribute name"
+msgstr ""
+
+msgid "Invalid filename"
+msgstr "ཡིག་ཆའི་མིང་ནུས་མེད།"
+
+msgid "Invalid filename %s"
+msgstr ""
+
+msgid "Invalid group name: %s"
+msgstr ""
+
+msgid "Invalid hostname"
+msgstr "ནུས་མེད་ཀྱི་གཙོ་འཁོར་མིང་།"
+
+msgid "Invalid key name: %s"
+msgstr ""
+
+msgid "Invalid major protocol version. Expected 1 but found %d"
+msgstr ""
+
+msgid "Invalid object, not initialized"
+msgstr ""
+
+msgid "Invalid program name: %s"
+msgstr ""
+
+msgid "Invalid seek request"
+msgstr "ནུས་མེད་ཀྱི་གནས་ངེས་རེ་ཞུ།"
+
+msgid "Invalid sequence in conversion input"
+msgstr ""
+
+msgid "Invalid socket, initialization failed due to: %s"
+msgstr ""
+
+msgid "Invalid socket, not initialized"
+msgstr ""
+
+msgid "Invalid string in argument vector at %d: %s"
+msgstr ""
+
+msgid "Invalid string in environment: %s"
+msgstr ""
+
+msgid "Invalid symlink value given"
+msgstr ""
+
+msgid "Invalid working directory: %s"
+msgstr ""
+
+msgid "Invoke a method on a remote object."
+msgstr ""
+
+msgid "Invoke an action on the application"
+msgstr ""
+
+msgid "Key '%s' in group '%s' has value '%s' where %s was expected"
+msgstr ""
+
+msgid "Key file contains escape character at end of line"
+msgstr ""
+
+msgid "Key file contains invalid escape sequence '%s'"
+msgstr ""
+
+msgid ""
+"Key file contains key '%s' in group '%s' which has a value that cannot be "
+"interpreted."
+msgstr ""
+
+msgid ""
+"Key file contains key '%s' which has a value that cannot be interpreted."
+msgstr ""
+
+msgid "Key file contains key '%s' with value '%s' which is not UTF-8"
+msgstr ""
+
+msgid ""
+"Key file contains line '%s' which is not a key-value pair, group, or comment"
+msgstr ""
+
+msgid "Key file contains unsupported encoding '%s'"
+msgstr ""
+
+msgid "Key file does not have group '%s'"
+msgstr ""
+
+msgid "Key file does not have key '%s' in group '%s'"
+msgstr ""
+
+msgid "Key file does not start with a group"
+msgstr ""
+
+msgid ""
+"Key/Value pair %d, '%s', in address element '%s' does not contain an equal "
+"sign"
+msgstr ""
+
+msgid "Launch an application"
+msgstr ""
+
+msgid "Launch the application (with optional files to open)"
+msgstr ""
+
+msgid "Leftover unconverted data in read buffer"
+msgstr ""
+
+msgid "Length %u is too long for address"
+msgstr ""
+
+msgid "Line %d of the keyring at '%s' with content '%s' is malformed"
+msgstr ""
+
+msgid "List applications"
+msgstr ""
+
+msgid "List available actions"
+msgstr ""
+
+msgid ""
+"List keys and values, recursively\n"
+"If no SCHEMA is given, list all keys\n"
+msgstr ""
+
+msgid ""
+"List resources\n"
+"If SECTION is given, only list resources in this section\n"
+"If PATH is given, only list matching resources"
+msgstr ""
+
+msgid ""
+"List resources with details\n"
+"If SECTION is given, only list resources in this section\n"
+"If PATH is given, only list matching resources\n"
+"Details include the section, size and compression"
+msgstr ""
+
+msgid "List sections containing resources in an elf FILE"
+msgstr ""
+
+msgid "List static actions for an application (from .desktop file)"
+msgstr ""
+
+msgid "List the children of SCHEMA"
+msgstr ""
+
+msgid "List the installed (non-relocatable) schemas"
+msgstr ""
+
+msgid "List the installed D-Bus activatable applications (by .desktop files)"
+msgstr ""
+
+msgid "List the installed relocatable schemas"
+msgstr ""
+
+msgid "List the keys in SCHEMA"
+msgstr ""
+
+msgid "Listener is already closed"
+msgstr ""
+
+msgid "METHOD_CALL message: PATH or MEMBER header field is missing"
+msgstr ""
+
+msgid "METHOD_RETURN message: REPLY_SERIAL header field is missing"
+msgstr ""
+
+msgid "Malformed input data for GFileIcon"
+msgstr ""
+
+msgid "Malformed number of tokens (%d) in GEmblem encoding"
+msgstr ""
+
+msgid "Malformed number of tokens (%d) in GEmblemedIcon encoding"
+msgstr ""
+
+msgid "Malformed version number: %s"
+msgstr ""
+
+msgid "Meaningless key/value pair combination in address entry '%s'"
+msgstr ""
+
+msgid "Memory output stream not resizable"
+msgstr ""
+
+msgid "Message body has signature '%s' but there is no signature header"
+msgstr ""
+
+msgid ""
+"Message body has type signature '%s' but signature in the header field is "
+"'%s'"
+msgstr ""
+
+msgid "Message body is empty but signature in the header field is '(%s)'"
+msgstr ""
+
+msgid ""
+"Message has %d file descriptors but the header field indicates %d file "
+"descriptors"
+msgstr ""
+
+msgid "Method '%s' on interface '%s' with signature '%s' does not exist"
+msgstr ""
+
+msgid "Method '%s' returned type '%s', but expected '%s'"
+msgstr ""
+
+msgid "Method and interface name"
+msgstr ""
+
+msgid "Missing argument for %s"
+msgstr ""
+
+msgid ""
+"Monitor KEY for changes.\n"
+"If no KEY is specified, monitor all keys in SCHEMA.\n"
+"Use ^C to stop monitoring.\n"
+msgstr ""
+
+msgid "Monitor a remote object."
+msgstr ""
+
+msgid "Move between mounts not supported"
+msgstr ""
+
+msgid "Multiple connection endpoints specified"
+msgstr ""
+
+msgid "Need more input"
+msgstr ""
+
+msgid "Network unreachable"
+msgstr "འབྲེལ་མཐུད་མི་ཐུབ་པའི་དྲ་རྒྱ།"
+
+msgid "Network unreachable through SOCKSv5 proxy."
+msgstr ""
+
+msgid "NetworkManager version too old"
+msgstr ""
+
+msgid "No DNS record of the requested type for '%s'"
+msgstr ""
+
+msgid "No MIME type defined in the bookmark for URI '%s'"
+msgstr ""
+
+msgid "No PEM-encoded certificate found"
+msgstr ""
+
+msgid "No PEM-encoded private key found"
+msgstr ""
+
+msgid "No address specified"
+msgstr ""
+
+msgid "No application is registered as handling this file"
+msgstr ""
+
+msgid "No application with name '%s' registered a bookmark for '%s'"
+msgstr ""
+
+msgid "No bookmark found for URI '%s'"
+msgstr ""
+
+msgid "No connection endpoint specified"
+msgstr ""
+
+msgid "No groups set in bookmark for URI '%s'"
+msgstr ""
+
+msgid "No private flag has been defined in bookmark for URI '%s'"
+msgstr ""
+
+msgid "No schema files found: "
+msgstr ""
+
+msgid "No schemas installed\n"
+msgstr ""
+
+msgid "No signature header in message but the message body is %u byte"
+msgid_plural "No signature header in message but the message body is %u bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "No such interface"
+msgstr ""
+
+msgid "No such interface '%s'"
+msgstr ""
+
+msgid "No such interface '%s' on object at path %s"
+msgstr ""
+
+msgid ""
+"No such interface 'org.freedesktop.DBus.Properties' on object at path %s"
+msgstr ""
+
+msgid "No such key '%s'\n"
+msgstr ""
+
+msgid "No such key '%s' in schema '%s' as specified in override file '%s'"
+msgstr ""
+
+msgid "No such method '%s'"
+msgstr ""
+
+msgid "No such property '%s'"
+msgstr ""
+
+msgid "No such schema '%s'\n"
+msgstr ""
+
+msgid "No support for source-specific multicast"
+msgstr ""
+
+msgid "No type for class name %s"
+msgstr ""
+
+msgid "No valid addresses were found"
+msgstr ""
+
+msgid "No valid bookmark file found in data dirs"
+msgstr ""
+
+msgid "Not a regular file"
+msgstr "སྤྱིར་བཏང་གི་ཡིག་ཆ་མིན་པ།"
+
+msgid "Not enough memory"
+msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
+
+msgid "Not enough space for socket address"
+msgstr ""
+
+msgid "Not enough space in destination"
+msgstr ""
+
+msgid "Not expecting control message, but got %d"
+msgstr ""
+
+msgid "Object path to emit signal on"
+msgstr ""
+
+msgid "Object path to introspect"
+msgstr ""
+
+msgid "Object path to invoke method on"
+msgstr ""
+
+msgid "Object path to monitor"
+msgstr ""
+
+msgid ""
+"Odd character '%s', expected a '=' after attribute name '%s' of element '%s'"
+msgstr ""
+
+msgid ""
+"Odd character '%s', expected a '>' character to end the empty-element tag "
+"'%s'"
+msgstr ""
+
+msgid ""
+"Odd character '%s', expected a '>' or '/' character to end the start tag of "
+"element '%s', or optionally an attribute; perhaps you used an invalid "
+"character in an attribute name"
+msgstr ""
+
+msgid ""
+"Odd character '%s', expected an open quote mark after the equals sign when "
+"giving value for attribute '%s' of element '%s'"
+msgstr ""
+
+msgid "Only one <%s> element allowed inside <%s>"
+msgstr ""
+
+msgid "Only print properties"
+msgstr ""
+
+msgid "Operation not supported"
+msgstr "བཀོལ་སྤྱོད་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "Operation was cancelled"
+msgstr "བཀོལ་སྤྱོད་དོར་བ།"
+
+msgid "Optional destination for signal (unique name)"
+msgstr ""
+
+msgid "Optional parameter to the action invocation, in GVariant format"
+msgstr ""
+
+msgid "Optional relative or absolute filenames, or URIs to open"
+msgstr ""
+
+msgid "Options specifying the connection endpoint"
+msgstr ""
+
+msgid "Options:"
+msgstr "འདེམ་བྱང་།："
+
+msgid "Output stream doesn't implement write"
+msgstr ""
+
+msgid "Override the application's ID"
+msgstr ""
+
+msgid "PARAMETER"
+msgstr ""
+
+msgid "PATH"
+msgstr "འགྲོ་ལམ།"
+
+msgid "PCRE library is compiled with incompatible options"
+msgstr ""
+
+msgid "PCRE library is compiled without UTF8 properties support"
+msgstr ""
+
+msgid "PCRE library is compiled without UTF8 support"
+msgstr ""
+
+msgid "POSIX collating elements are not supported"
+msgstr ""
+
+msgid "POSIX named classes are supported only within a class"
+msgstr ""
+
+msgid "Parsed value '%s' for variant is not a valid D-Bus signature"
+msgstr ""
+
+msgid "Parsed value '%s' is not a valid D-Bus object path"
+msgstr ""
+
+msgid "Parsed value '%s' is not a valid D-Bus signature"
+msgstr ""
+
+msgid "Parsed value '%s' is not a valid D-Bus signature (for body)"
+msgstr ""
+
+msgid "Partial character sequence at end of input"
+msgstr ""
+
+msgid "Path must begin with a slash (/)\n"
+msgstr ""
+
+msgid "Path must end with a slash (/)\n"
+msgstr ""
+
+msgid "Path must not contain two adjacent slashes (//)\n"
+msgstr ""
+
+msgid ""
+"Permissions on directory '%s' are malformed. Expected mode 0700, got 0%o"
+msgstr ""
+
+msgid "Print XML"
+msgstr ""
+
+msgid "Print address"
+msgstr ""
+
+msgid "Print address in shell mode"
+msgstr ""
+
+msgid "Print help"
+msgstr ""
+
+msgid "Print version"
+msgstr "པར་གཞི་མངོན་པ།"
+
+msgid "Print version information and exit"
+msgstr "པར་གཞི་ཆ་འཕྲིན་པར་འདེབས་བྱས་ནས་ཕྱིར་འདོན།"
+
+msgid "Property '%s' is not readable"
+msgstr ""
+
+msgid "Property '%s' is not writable"
+msgstr ""
+
+msgid "Proxy protocol '%s' is not supported."
+msgstr ""
+
+msgid "Proxying over a non-TCP connection is not supported."
+msgstr ""
+
+msgid "Query the range of valid values for KEY"
+msgstr ""
+
+msgid "Quoted text doesn't begin with a quotation mark"
+msgstr ""
+
+msgid "Received invalid fd"
+msgstr ""
+
+msgid "Requested seek before the beginning of the stream"
+msgstr ""
+
+msgid "Requested seek beyond the end of the stream"
+msgstr ""
+
+msgid "Reset KEY to its default value"
+msgstr ""
+
+msgid "Reset all keys in SCHEMA to their defaults"
+msgstr ""
+
+msgid "Run a dbus service"
+msgstr ""
+
+msgid "SCHEMA[:PATH]"
+msgstr ""
+
+msgid "SCHEMA[:PATH] KEY"
+msgstr ""
+
+msgid "SCHEMA[:PATH] KEY VALUE"
+msgstr ""
+
+msgid "SCHEMA[:PATH] [KEY]"
+msgstr ""
+
+msgid "SECTION"
+msgstr ""
+
+msgid "SELinux context must be non-NULL"
+msgstr ""
+
+msgid "SELinux is not enabled on this system"
+msgstr ""
+
+msgid "SIGNAL message: PATH, INTERFACE or MEMBER header field is missing"
+msgstr ""
+
+msgid ""
+"SIGNAL message: The INTERFACE header field is using the reserved value "
+"org.freedesktop.DBus.Local"
+msgstr ""
+
+msgid ""
+"SIGNAL message: The PATH header field is using the reserved value "
+"/org/freedesktop/DBus/Local"
+msgstr ""
+
+msgid "SOCKSv4 does not support IPv6 address '%s'"
+msgstr ""
+
+msgid "SOCKSv5 authentication failed due to wrong username or password."
+msgstr ""
+
+msgid "SOCKSv5 connection not allowed by ruleset."
+msgstr ""
+
+msgid "SOCKSv5 proxy does not support 'connect' command."
+msgstr ""
+
+msgid "SOCKSv5 proxy does not support provided address type."
+msgstr ""
+
+msgid "Schema '%s' is not relocatable (path must not be specified)\n"
+msgstr ""
+
+msgid "Schema '%s' is relocatable (path must be specified)\n"
+msgstr ""
+
+msgid ""
+"Second token of line %d of the keyring at '%s' with content '%s' is "
+"malformed"
+msgstr ""
+
+msgid "Seek not supported on base stream"
+msgstr ""
+
+msgid "Seek not supported on stream"
+msgstr ""
+
+msgid "Session dbus not running, and autolaunch failed"
+msgstr ""
+
+msgid "Set the value of KEY to VALUE"
+msgstr ""
+
+msgid "Setting attribute %s not supported"
+msgstr ""
+
+msgid ""
+"Several password entered have been incorrect, and your access will be locked"
+" out after further failures."
+msgstr ""
+
+msgid "Show GApplication options"
+msgstr ""
+
+msgid "Show all help options"
+msgstr ""
+
+msgid "Show help options"
+msgstr ""
+
+msgid "Signal and interface name"
+msgstr ""
+
+msgid "Signature header with signature '%s' found but message body is empty"
+msgstr ""
+
+msgid "Socket I/O timed out"
+msgstr ""
+
+msgid "Socket is already closed"
+msgstr ""
+
+msgid "Source stream is already closed"
+msgstr ""
+
+msgid "Splice not supported"
+msgstr ""
+
+msgid "Stream doesn't support query_info"
+msgstr ""
+
+msgid "Stream has outstanding operation"
+msgstr ""
+
+msgid "Stream is already closed"
+msgstr "རྒྱུན་ཁ་རྒྱག"
+
+msgid "Symbolic links not supported"
+msgstr ""
+
+msgid "TLS support is not available"
+msgstr ""
+
+msgid "Target file exists"
+msgstr ""
+
+msgid "Target file is a directory"
+msgstr ""
+
+msgid "Target file is not a regular file"
+msgstr ""
+
+msgid "Template '%s' doesn't contain XXXXXX"
+msgstr ""
+
+msgid "Template '%s' invalid, should not contain a '%s'"
+msgstr ""
+
+msgid "Temporarily unable to resolve '%s'"
+msgstr ""
+
+msgid "Text ended before matching quote was found for %c. (The text was '%s')"
+msgstr ""
+
+msgid "Text ended just after a '\\' character. (The text was '%s')"
+msgstr ""
+
+msgid "Text was empty (or contained only whitespace)"
+msgstr ""
+
+msgid ""
+"The SOCKSv5 proxy requires an authentication method that is not supported by"
+" GLib."
+msgstr ""
+
+msgid "The SOCKSv5 proxy requires authentication."
+msgstr ""
+
+msgid "The SOCKSv5 proxy server uses unknown address type."
+msgstr ""
+
+msgid "The URI '%s' contains invalidly escaped characters"
+msgstr ""
+
+msgid "The URI '%s' is invalid"
+msgstr ""
+
+msgid "The URI '%s' is not an absolute URI using the \"file\" scheme"
+msgstr ""
+
+msgid "The action name to invoke"
+msgstr ""
+
+msgid "The command to print detailed help for"
+msgstr ""
+
+msgid "The connection is closed"
+msgstr ""
+
+msgid ""
+"The directories where files are to be read from (default to current "
+"directory)"
+msgstr ""
+
+msgid "The file was externally modified"
+msgstr ""
+
+msgid "The given address is empty"
+msgstr ""
+
+msgid "The hostname of the URI '%s' is invalid"
+msgstr ""
+
+msgid "The key is not writable\n"
+msgstr ""
+
+msgid "The local file URI '%s' may not include a '#'"
+msgstr ""
+
+msgid "The password entered is incorrect."
+msgstr ""
+
+msgid "The pathname '%s' is not an absolute path"
+msgstr ""
+
+msgid "The provided value is outside of the valid range\n"
+msgstr ""
+
+msgid "The resource at '%s' does not exist"
+msgstr ""
+
+msgid "The resource at '%s' failed to decompress"
+msgstr ""
+
+msgid "The resource at '%s' is not a directory"
+msgstr ""
+
+msgid "The server is not a SOCKSv4 proxy server."
+msgstr ""
+
+msgid "The server is not a SOCKSv5 proxy server."
+msgstr ""
+
+msgid "The string '%s' is not a valid D-Bus GUID"
+msgstr ""
+
+msgid "There is no GCredentials support for your platform"
+msgstr ""
+
+msgid "This entire file has been ignored.\n"
+msgstr ""
+
+msgid ""
+"This is the last chance to enter the password correctly before your access "
+"is locked out."
+msgstr ""
+
+msgid "Timeout in seconds"
+msgstr ""
+
+msgid "Timeout was reached"
+msgstr ""
+
+msgid "Too large count value passed to %s"
+msgstr ""
+
+msgid "Trash not supported"
+msgstr ""
+
+msgid "Truncate not allowed on input stream"
+msgstr ""
+
+msgid "Truncate not supported on base stream"
+msgstr ""
+
+msgid "Truncate not supported on stream"
+msgstr ""
+
+msgid "Type %s does not implement from_tokens() on the GIcon interface"
+msgstr ""
+
+msgid "Type %s does not implement the GIcon interface"
+msgstr ""
+
+msgid "Type %s is not classed"
+msgstr ""
+
+msgid "Type of message, '%s', does not match expected type '%s'"
+msgstr ""
+
+msgid "Unable to create socket: %s"
+msgstr ""
+
+msgid "Unable to create trash dir %s: %s"
+msgstr ""
+
+msgid "Unable to create trashing info file: %s"
+msgstr ""
+
+msgid "Unable to find default local file monitor type"
+msgstr ""
+
+msgid "Unable to find or create trash directory"
+msgstr ""
+
+msgid "Unable to find terminal required for application"
+msgstr ""
+
+msgid "Unable to find toplevel directory for trash"
+msgstr ""
+
+msgid "Unable to get Hardware profile: %s"
+msgstr ""
+
+msgid "Unable to get pending error: "
+msgstr ""
+
+msgid "Unable to load /var/lib/dbus/machine-id or /etc/machine-id: "
+msgstr ""
+
+msgid "Unable to read socket credentials: %s"
+msgstr ""
+
+msgid "Unable to retrieve property %s.%s"
+msgstr ""
+
+msgid "Unable to set property %s.%s"
+msgstr ""
+
+msgid "Unable to shutdown socket: %s"
+msgstr ""
+
+msgid "Unable to trash file: %s"
+msgstr ""
+
+msgid "Unexpected attribute '%s' for element '%s'"
+msgstr ""
+
+msgid "Unexpected early end-of-stream"
+msgstr ""
+
+msgid ""
+"Unexpected error in g_io_channel_win32_poll() reading data from a child "
+"process"
+msgstr ""
+
+msgid "Unexpected error in select() reading data from a child process (%s)"
+msgstr ""
+
+msgid "Unexpected error in waitpid() (%s)"
+msgstr ""
+
+msgid "Unexpected lack of content trying to (safely) read a line"
+msgstr ""
+
+msgid "Unexpected lack of content trying to read a line"
+msgstr ""
+
+msgid "Unexpected reply %d from StartServiceByName(\"%s\") method"
+msgstr ""
+
+msgid "Unexpected tag '%s' inside '%s'"
+msgstr ""
+
+msgid "Unexpected tag '%s', tag '%s' expected"
+msgstr ""
+
+msgid "Unexpected type of ancillary data"
+msgstr ""
+
+msgid "Unknown SOCKSv5 proxy error."
+msgstr ""
+
+msgid "Unknown bus type %d"
+msgstr ""
+
+msgid ""
+"Unknown command %s\n"
+"\n"
+msgstr ""
+
+msgid "Unknown error executing child process \"%s\""
+msgstr ""
+
+msgid "Unknown error on connect"
+msgstr ""
+
+msgid "Unknown family was specified"
+msgstr ""
+
+msgid "Unknown option %s"
+msgstr "ངེས་མེད་འདེམས་ཚན %s"
+
+msgid "Unknown or unsupported transport '%s' for address '%s'"
+msgstr ""
+
+msgid "Unknown processing option \"%s\""
+msgstr ""
+
+msgid "Unknown protocol was specified"
+msgstr ""
+
+msgid "Unknown type"
+msgstr "མི་ཤེས་པའི་རིགས་གྲས།"
+
+msgid "Unmatched quotation mark in command line or other shell-quoted text"
+msgstr ""
+
+msgid "Unnamed"
+msgstr "མིང་བཏགས་མེད་པ།"
+
+msgid ""
+"Unsupported flags encountered when constructing a client-side connection"
+msgstr ""
+
+msgid "Unsupported key '%s' in address entry '%s'"
+msgstr ""
+
+msgid "Unsupported socket address"
+msgstr ""
+
+msgid "Usage:"
+msgstr "སྤྱོད་སྟངས།："
+
+msgid "Usage:\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"  gresource %s%s%s %s\n"
+"\n"
+"%s\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"  gresource [--section SECTION] COMMAND [ARGS...]\n"
+"\n"
+"Commands:\n"
+"  help                      Show this information\n"
+"  sections                  List resource sections\n"
+"  list                      List resources\n"
+"  details                   List resources with details\n"
+"  extract                   Extract a resource\n"
+"\n"
+"Use 'gresource help COMMAND' to get detailed help.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"  gsettings --version\n"
+"  gsettings [--schemadir SCHEMADIR] COMMAND [ARGS...]\n"
+"\n"
+"Commands:\n"
+"  help                      Show this information\n"
+"  list-schemas              List installed schemas\n"
+"  list-relocatable-schemas  List relocatable schemas\n"
+"  list-keys                 List keys in a schema\n"
+"  list-children             List children of a schema\n"
+"  list-recursively          List keys and values, recursively\n"
+"  range                     Queries the range of a key\n"
+"  get                       Get the value of a key\n"
+"  set                       Set the value of a key\n"
+"  reset                     Reset the value of a key\n"
+"  reset-recursively         Reset all values in a given schema\n"
+"  writable                  Check if a key is writable\n"
+"  monitor                   Watch for changes\n"
+"\n"
+"Use 'gsettings help COMMAND' to get detailed help.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"  gsettings [--schemadir SCHEMADIR] %s %s\n"
+"\n"
+"%s\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Use '%s help COMMAND' to get detailed help.\n"
+"\n"
+msgstr ""
+
+msgid "Username is too long for SOCKSv4 protocol"
+msgstr ""
+
+msgid "Username or password is too long for SOCKSv5 protocol."
+msgstr ""
+
+msgid "Valid key file could not be found in search dirs"
+msgstr ""
+
+msgid "Value '%s' cannot be interpreted as a boolean."
+msgstr ""
+
+msgid "Value '%s' cannot be interpreted as a float number."
+msgstr ""
+
+msgid "Value '%s' cannot be interpreted as a number."
+msgstr ""
+
+msgid "Waiting for socket condition: %s"
+msgstr ""
+
+msgid "Wanted to read %lu byte but only got %lu"
+msgid_plural "Wanted to read %lu bytes but only got %lu"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Warning: According to introspection data, interface '%s' does not exist\n"
+msgstr ""
+
+msgid ""
+"Warning: According to introspection data, method '%s' does not exist on "
+"interface '%s'\n"
+msgstr ""
+
+msgid "Wrong args\n"
+msgstr ""
+
+msgid "Wrong number of tokens (%d)"
+msgstr ""
+
+msgid "You should give exactly one directory name\n"
+msgstr ""
+
+msgid "You should give exactly one file name\n"
+msgstr ""
+
+msgid "[ARGS...]"
+msgstr ""
+
+msgid "[COMMAND]"
+msgstr ""
+
+msgid "[OPTION...]"
+msgstr "[འདེམས་བྱང་།...]"
+
+msgid "[PATH]"
+msgstr "[PATH]"
+
+msgid "[SCHEMA[:PATH]]"
+msgstr ""
+
+msgid "\\ at end of pattern"
+msgstr ""
+
+msgid "\\C not allowed in lookbehind assertion"
+msgstr ""
+
+msgid "\\N is not supported in a class"
+msgstr ""
+
+msgid "\\c at end of pattern"
+msgstr ""
+
+msgid "\\c must be followed by an ASCII character"
+msgstr ""
+
+msgid ""
+"\\g is not followed by a braced, angle-bracketed, or quoted name or number, "
+"or by a plain number"
+msgstr ""
+
+msgid "\\k is not followed by a braced, angle-bracketed, or quoted name"
+msgstr ""
+
+msgid "] is an invalid data character in JavaScript compatibility mode"
+msgstr ""
+
+msgid "a numbered reference must not be zero"
+msgstr ""
+
+msgid "a path, if given, must begin and end with a slash"
+msgstr ""
+
+msgid "Apr"
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "Dec"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "Mar"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Nov"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Sun"
+msgstr "ཉིན།"
+
+msgid "Thu"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "action name must be given after application id\n"
+msgstr ""
+
+msgid "actions accept a maximum of one parameter\n"
+msgstr ""
+
+msgid "an argument is not allowed for (*ACCEPT), (*FAIL), or (*COMMIT)"
+msgstr ""
+
+msgid "assertion expected after (?("
+msgstr ""
+
+msgid "back references as conditions are not supported for partial matching"
+msgstr ""
+
+msgid "backtracking limit reached"
+msgstr ""
+
+msgid "bad offset"
+msgstr ""
+
+msgid "cannot add keys to a 'list-of' schema"
+msgstr ""
+
+msgid "character value in \\u.... sequence is too large"
+msgstr ""
+
+msgid "character value in \\x{...} sequence is too large"
+msgstr ""
+
+msgid "code overflow"
+msgstr ""
+
+msgid "conditional group contains more than two branches"
+msgstr ""
+
+msgid "corrupted object"
+msgstr ""
+
+msgid "could not get local address: %s"
+msgstr ""
+
+msgid "could not get remote address: %s"
+msgstr ""
+
+msgid "could not listen: %s"
+msgstr ""
+
+msgid "creating GSocket from fd: %s"
+msgstr ""
+
+msgid "different names for subpatterns of the same number are not allowed"
+msgstr ""
+
+msgid "digit expected"
+msgstr ""
+
+msgid "digit expected after (?+"
+msgstr ""
+
+msgid "doing nothing.\n"
+msgstr ""
+
+msgid "drive doesn't implement eject"
+msgstr ""
+
+msgid "drive doesn't implement eject or eject_with_operation"
+msgstr ""
+
+msgid "drive doesn't implement polling for media"
+msgstr ""
+
+msgid "drive doesn't implement start"
+msgstr ""
+
+msgid "drive doesn't implement stop"
+msgstr ""
+
+msgid "empty names are not permitted"
+msgstr ""
+
+msgid "error parsing action parameter: %s\n"
+msgstr ""
+
+msgid ""
+"error parsing key '%s' in schema '%s' as specified in override file '%s': "
+"%s."
+msgstr ""
+
+msgid "error sending %s message to application: %s\n"
+msgstr ""
+
+msgid "escapes \\L, \\l, \\N{name}, \\U, and \\u are not supported"
+msgstr ""
+
+msgid ""
+"exactly one of 'type', 'enum' or 'flags' must be specified as an attribute "
+"to <key>"
+msgstr ""
+
+msgid "failed to get memory"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "Friday"
+msgstr "པ་སངས།"
+
+msgid "Monday"
+msgstr "གཟའ་ཟླ་བ།"
+
+msgid "Saturday"
+msgstr "གཟའ་སྤེན་པ།"
+
+msgid "Sunday"
+msgstr "གཟའ་ཉི་མ།"
+
+msgid "Thursday"
+msgstr "གཟའ་ཕུར་བུ།"
+
+msgid "Tuesday"
+msgstr "གཟའ་མིག་དམར།"
+
+msgid "Wednesday"
+msgstr "གཟའ་ལྷག་པ།"
+
+msgid "g_socket_get_credentials not implemented for this OS"
+msgstr ""
+
+msgid "hexadecimal digit expected"
+msgstr ""
+
+msgid "hexadecimal digit or '}' expected"
+msgstr ""
+
+msgid "illegal symbolic reference"
+msgstr ""
+
+msgid "inconsistent NEWLINE options"
+msgstr ""
+
+msgid "internal error"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
+
+msgid "internal error or corrupted object"
+msgstr ""
+
+msgid "invalid GVariant type string '%s'"
+msgstr ""
+
+msgid ""
+"invalid action name: '%s'\n"
+"action names must consist of only alphanumerics, '-' and '.'\n"
+msgstr ""
+
+msgid "invalid application id: '%s'\n"
+msgstr ""
+
+msgid "invalid combination of newline flags"
+msgstr ""
+
+msgid "invalid condition (?(0)"
+msgstr ""
+
+msgid "invalid escape sequence in character class"
+msgstr ""
+
+msgid ""
+"invalid name '%s': invalid character '%c'; only lowercase letters, numbers "
+"and hyphen ('-') are permitted."
+msgstr ""
+
+msgid "invalid name '%s': maximum length is 1024"
+msgstr ""
+
+msgid "invalid name '%s': names must begin with a lowercase letter"
+msgstr ""
+
+msgid "invalid name '%s': the last character may not be a hyphen ('-')."
+msgstr ""
+
+msgid "invalid name '%s': two successive hyphens ('--') are not permitted."
+msgstr ""
+
+msgid "list-actions command takes only the application id"
+msgstr ""
+
+msgid "lookbehind assertion is not fixed length"
+msgstr ""
+
+msgid "malformed \\P or \\p sequence"
+msgstr ""
+
+msgid "malformed number or name after (?("
+msgstr ""
+
+msgid "missing '<' in symbolic reference"
+msgstr ""
+
+msgid "missing ) after comment"
+msgstr ""
+
+msgid "missing subpattern name after (?&"
+msgstr ""
+
+msgid "missing terminating )"
+msgstr ""
+
+msgid "missing terminating ] for character class"
+msgstr ""
+
+msgid "missing terminator in subpattern name"
+msgstr ""
+
+msgid "mount doesn't implement \"eject\""
+msgstr ""
+
+msgid "mount doesn't implement \"eject\" or \"eject_with_operation\""
+msgstr ""
+
+msgid "mount doesn't implement \"remount\""
+msgstr ""
+
+msgid "mount doesn't implement \"unmount\""
+msgstr ""
+
+msgid "mount doesn't implement \"unmount\" or \"unmount_with_operation\""
+msgstr ""
+
+msgid "mount doesn't implement content type guessing"
+msgstr ""
+
+msgid "mount doesn't implement synchronous content type guessing"
+msgstr ""
+
+msgid "name is too long in (*MARK), (*PRUNE), (*SKIP), or (*THEN)"
+msgstr ""
+
+msgid "name of the output file"
+msgstr ""
+
+msgid "no <key name='%s'> to override"
+msgstr ""
+
+msgid "nothing to repeat"
+msgstr ""
+
+msgid "number is too big"
+msgstr ""
+
+msgid "number too big in {} quantifier"
+msgstr ""
+
+msgid "numbers out of order in {} quantifier"
+msgstr ""
+
+msgid "octal value is greater than \\377"
+msgstr ""
+
+msgid "out of memory"
+msgstr "ནང་གསོག་མི་འདང་།"
+
+msgid "overran compiling workspace"
+msgstr ""
+
+msgid ""
+"override for key '%s' in schema '%s' in override file '%s' is not in the "
+"list of valid choices"
+msgstr ""
+
+msgid ""
+"override for key '%s' in schema '%s' in override file '%s' is outside the "
+"range given in the schema"
+msgstr ""
+
+msgid "previously-checked referenced subpattern not found"
+msgstr ""
+
+msgid "range out of order in character class"
+msgstr ""
+
+msgid "recursion limit reached"
+msgstr ""
+
+msgid "recursion loop"
+msgstr ""
+
+msgid "recursive call could loop indefinitely"
+msgstr ""
+
+msgid "reference to non-existent subpattern"
+msgstr ""
+
+msgid "regular expression is too large"
+msgstr ""
+
+msgid "removed existing output file.\n"
+msgstr ""
+
+msgid "short utf8"
+msgstr ""
+
+msgid "stray final '\\'"
+msgstr ""
+
+msgid "subpattern name is too long (maximum 32 characters)"
+msgstr ""
+
+msgid "symlink must be non-NULL"
+msgstr ""
+
+msgid "text may not appear inside <%s>"
+msgstr ""
+
+msgid "the path of a list must end with ':/'"
+msgstr ""
+
+msgid "the pattern contains items not supported for partial matching"
+msgstr ""
+
+msgid "too many forward references"
+msgstr ""
+
+msgid "too many named subpatterns (maximum 10,000)"
+msgstr ""
+
+msgid "two named subpatterns have the same name"
+msgstr ""
+
+msgid "type is INVALID"
+msgstr ""
+
+msgid "unable to connect to D-Bus: %s\n"
+msgstr ""
+
+msgid "unable to find desktop file for application %s\n"
+msgstr ""
+
+msgid "unexpected repeat"
+msgstr ""
+
+msgid "unfinished symbolic reference"
+msgstr ""
+
+msgid "unknown POSIX class name"
+msgstr ""
+
+msgid "unknown error"
+msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+
+msgid "unknown escape sequence"
+msgstr ""
+
+msgid "unknown property name after \\P or \\p"
+msgstr ""
+
+msgid ""
+"unrecognised command: %s\n"
+"\n"
+msgstr ""
+
+msgid "unrecognized character after (? or (?-"
+msgstr ""
+
+msgid "unrecognized character after (?<"
+msgstr ""
+
+msgid "unrecognized character after (?P"
+msgstr ""
+
+msgid "unrecognized character following \\"
+msgstr ""
+
+msgid "volume doesn't implement eject"
+msgstr ""
+
+msgid "volume doesn't implement eject or eject_with_operation"
+msgstr ""
+
+msgid "volume doesn't implement mount"
+msgstr ""
+
+msgid "where to store the gschemas.compiled file"
+msgstr ""
+
+msgid "zero-length symbolic reference"
+msgstr ""

@@ -1,0 +1,260 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Add wire outlines for all geometry"
+msgstr "གཟུགས་དབྱིབས་ཡོད་ཚད་ལ་ཐིག་སྒྲོམ་སྣོན་དགོས།"
+
+msgid "Add wire outlines for all rectangular geometry"
+msgstr "གྲུ་བཞི་ནར་མོའི་དབྱིབས་ཡོད་ཚད་ལ་ཐིག་ཕྱིའི་སྒྲོམ་སྣོན་དགོས།"
+
+msgid "Additional environment variables:"
+msgstr "ཟུར་སྣོན་ཁོར་ཡུག་འགྱུར་ཚད།："
+
+msgid "Cogl Options"
+msgstr "Cogl འདེམས་ཚན།"
+
+msgid "Cogl Specialist"
+msgstr "Cogl ཆེད་མཁས།"
+
+msgid "Cogl Tracing"
+msgstr "Cogl རྗེས་འདེད།"
+
+msgid "Cogl debugging flags to set"
+msgstr "བཀོད་དགོས་པའི་ Cogl ཚོད་ལེན་འདེམས་ཚན།"
+
+msgid "Cogl debugging flags to unset"
+msgstr "བསུབ་དགོས་པའི་ Cogl ཚོད་ལེན་འདེམས་ཚན།"
+
+msgid "CoglObject references"
+msgstr "CoglObject འདྲེན་སྤྱོད།"
+
+msgid "Comma-separated list of GL extensions to pretend are disabled"
+msgstr "ཐོར་ཚེག་བཀལ་བའི་བརྫུན་བཟོ་(pretend) GL རྒྱ་སྐྱེད་རེའུ་མིག་བཀག་པ།"
+
+msgid "Debug CoglBlendString parsing"
+msgstr " CoglBlendString ཞིབ་འགྲེལ་ཚོད་སྒྲིག"
+
+msgid "Debug offscreen support"
+msgstr "རྒྱབ་ཀྱི་(offscreen)རྒྱབ་སྐྱོར་ཚོད་སྒྲིག"
+
+msgid "Debug ref counting issues for CoglObjects"
+msgstr "CoglObjects ཡི་འདྲེན་སྤྱོད་གྲངས་བགྲང་གནད་དོན་ཚོད་སྒྲིག"
+
+msgid "Debug texture atlas management"
+msgstr "ཁྲ་རིས་ atlas དོ་དམ་ཚོད་སྒྲིག"
+
+msgid "Disable GL Pixel Buffers"
+msgstr "GL བརྙན་རྒྱུའི་ལྷོད་གསོག་འགོག་པ།"
+
+msgid "Disable GL Vertex Buffers"
+msgstr " GL Vertex ལྷོད་གཏོང་འགོག་པ།"
+
+msgid "Disable GLSL"
+msgstr " GLSLའགོག་པ།"
+
+msgid "Disable Journal batching"
+msgstr "ཉིན་ཐོ་སྡེབ་སྒྲིག་འགོག་པ།"
+
+msgid "Disable arbfp"
+msgstr " arbfpའགོག་པ།"
+
+msgid "Disable batching of geometry in the Cogl Journal."
+msgstr "Cogl ཉིན་ཐོར་དབྱིབས་རྩིས་སྡེབ་སྒྲིག་འགོག་པ།"
+
+msgid "Disable blending"
+msgstr "མཉམ་བསྲེས་འགོག་པ།"
+
+msgid "Disable fallback caches for arbfp and glsl programs"
+msgstr " arbfp དང་ glsl བྱ་རིམ་གྱི་རྗེས་གྲབས་ལྷོད་གསོག་འགོག་པ།"
+
+msgid "Disable fixed"
+msgstr "བརྟན་ངེས་(fixed)འགོག་པ།"
+
+msgid "Disable non-power-of-two textures"
+msgstr "(གྲངས་ཀ)2 མིན་ཕོབ་ཀྱི་རིས་དབྱིབས་འགོག་པ།"
+
+msgid ""
+"Disable optimization for reading 1px for simple scenes of opaque rectangles"
+msgstr ""
+"དྭངས་གསལ་གྲུ་བཞི་ནར་མོའི་ལས་ལྗོངས་སུ་ཁེར་རྐྱང་བརྙན་རྒྱུ་ཀློག་པའི་བཀོལ་སྤྱོད་ཀྱི་ལེགས་སྒྱུར་འགོག་པ།"
+
+msgid "Disable program caches"
+msgstr "བྱ་རིམ་ལྷོད་གསོག་འགོག་པ།"
+
+msgid "Disable read pixel optimization"
+msgstr "བརྙན་རྒྱུ་ཀློག་པའི་ལེགས་སྒྱུར་འགོག་པ།"
+
+msgid "Disable sharing the texture atlas between text and images"
+msgstr "ཡིག་རྐྱང་དང་དཔེ་རིས་བར་གྱི་རིས་ཁྲ Atlas མཉམ་སྤྱོད་འགོག་པ།"
+
+msgid "Disable software clipping"
+msgstr "མཉེན་ཆས་དྲས་འབྲེག་འགོག་པ།"
+
+msgid "Disable software rect transform"
+msgstr "མཉེན་ཆས་གྲུ་བཞི་མར་མོས་བརྗེ་འགྱུར་འགོག་པ།"
+
+msgid "Disable texture atlasing"
+msgstr "རིས་ཁྲ་སྙོམས་སྒྱུར་འགོག་པ།"
+
+msgid "Disable texturing"
+msgstr "རིས་དབྱིབས་འགོག་པ།"
+
+msgid "Disable texturing any primitives"
+msgstr "གཞི་རྒྱུ་གང་རུང་གིས་རིས་དབྱིབས་སྤྱོད་པ།"
+
+msgid "Disable use of ARB fragment programs"
+msgstr " ARB ཕྲལ་གཅོད་བྱ་རིམ་འགོག་པ།"
+
+msgid "Disable use of GLSL"
+msgstr "GLSLསྤྱོད་པ་འགོག་པ།"
+
+msgid "Disable use of OpenGL pixel buffer objects"
+msgstr "OpenGL བརྙན་རྒྱུའི་ལྷོད་གསོག་བྱ་ཡུལ་འགོག་པ།"
+
+msgid "Disable use of OpenGL vertex buffer objects"
+msgstr " OpenGL རྩེ་གནས་ཀྱི་ལྷོད་གསོག་བྱ་ཡུལ་འགོག་པ།"
+
+msgid "Disable use of blending"
+msgstr "མཉམ་བསྲེས་སྤྱོད་པ་འགོག་པ།"
+
+msgid "Disable use of texture atlasing"
+msgstr "རིས་དབྱིབས་སྙོམས་པ་སྤྱོད་པ་འགོག་པ།"
+
+msgid "Disable use of the fixed function pipeline backend"
+msgstr "བརྟན་པའི་(fixed)རྟེན་འབྱུང་གྲངས་སྦུག་ལམ་མཇུག་སྣེ་སྤྱོད་པ་འགོག་པ།"
+
+msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgstr " Cogl མཉེན་ཆས་སུ་གྲུབ་བཞི་ནར་མོ་ལ་ལ་གཅོག་པའི་ཚོད་ལྟ་འགོག་པ།"
+
+msgid "Dump atlas images"
+msgstr "Atlas པར་རིས་སྤོ་གསོག"
+
+msgid "Dump texture atlas changes to an image file"
+msgstr "རིས་དབྱིབས་Atlas པར་རིས་ཡིག་ཆ་ལ་བཅོས་སྤོ་བྱེད།"
+
+msgid "Enables all non-behavioural debug options"
+msgstr "བྱ་སྤྱོད་མིན་པའི་ཚོད་སྒྲིག་འདེམས་ཚན་ཚང་མ་མགོ་སློང་།"
+
+msgid "Logs information about how Cogl is implementing clipping"
+msgstr " Cogl ཡིས་ཇི་ལྟར་གཅོད་པའི་འབྲེལ་ཡོད་ཆ་འཕྲིན་ཐོ་འགོད།"
+
+msgid ""
+"Makes Cogl think that the GL driver doesn't support NPOT textures so that it"
+" will create sliced textures or textures with waste instead."
+msgstr ""
+
+msgid "Outline rectangles"
+msgstr "གྲུ་བཞི་ནར་མོ་གསལ་དུ་མངོན།"
+
+msgid "Override the GL version that Cogl will assume the driver supports"
+msgstr " Cogl ཡིས་སྐུལ་ཆས་རྒྱབ་སྐྱོར་འདྲ་བའི་ GL པར་གཞི་འགེབས་པ།"
+
+msgid "Root Cause"
+msgstr "རྩ་བའི་དམིགས་ཚད།"
+
+msgid "Show Cogl options"
+msgstr "Cogl འདེམས་ཚན་མངོན་པ།"
+
+msgid "Show generated ARBfp/GLSL source code"
+msgstr "མངོན་གྲུབ་ཀྱིས་ARBfp/GLSL ཁུངས་ཚབ་ཨང་།"
+
+msgid "Show how geometry is being batched in the journal"
+msgstr "དབྱིབས་རྩིས་གཟུགས་ཉིན་ཐོའི་ནང་དུ་སྒྲིག་གཅོད་ཀྱི་གནས་ཚུལ་མངོན་པ།"
+
+msgid "Show source"
+msgstr "ཁུངས་ཚབ་ཨང་མངོན་པ།"
+
+msgid "Show wireframes"
+msgstr "སྒྲོན་ཐིག་མངོན་པ།"
+
+msgid "Special debug values:"
+msgstr "དམིགས་བསལ་གྱི་ཚོད་སྒྲིག་ཚད："
+
+msgid "Supported debug values:"
+msgstr "རྒྱབ་སྐྱོར་གྱི་ཚོད་སྒྲིག་ཚད："
+
+msgid "Trace Atlas Textures"
+msgstr "Atlas རིས་དབྱིབས་རྗེས་འདེད།"
+
+msgid "Trace Batching"
+msgstr "སྡེབ་སྒྲིག་རྗེས་འདེད།"
+
+msgid "Trace Blend Strings"
+msgstr "མཉམ་བསྲེས་ཡིག་རྟགས་ཕྲེང་རྗེས་འདེད།"
+
+msgid "Trace CoglTexturePixmap backend"
+msgstr "CoglTexturePixmap མཇུག་སྣེ་རྗེས་འདེད།"
+
+msgid "Trace Journal"
+msgstr "ཉིན་ཐོ་རྗེས་འདེད།"
+
+msgid "Trace Misc Drawing"
+msgstr "བསྲེས་འབྲི་རྗེས་འདེད།"
+
+msgid "Trace Pango Renderer"
+msgstr " Pango རྒྱན་ཆས་རྗེས་འདེད།"
+
+msgid "Trace Texture Slicing"
+msgstr "རིས་དབྱིབས་ལེབ་གཅོད་རྗེས་འདེད།"
+
+msgid "Trace all matrix manipulation"
+msgstr "གྲུ་བཞི་ནར་མོའི་བཀོལ་སྤྱོད་རྗེས་འདེད།"
+
+msgid "Trace clipping"
+msgstr "གཅོད་འབྲེག་རྗེས་འདེད།"
+
+msgid "Trace matrices"
+msgstr "གྲུ་བཞི་ནར་མོ་རྗེས་འདེད།"
+
+msgid "Trace offscreen support"
+msgstr "རྒྱབ་ཏུ་(offscreen)རྒྱབ་སྐྱོར་རྗེས་འདེད།"
+
+msgid "Trace performance concerns"
+msgstr "ནུས་གཤིས་གནད་དོན་རྗེས་འདེད།"
+
+msgid "Trace some OpenGL"
+msgstr " OpenGLལ་ལ་རྗེས་འདེད།"
+
+msgid "Trace some misc drawing operations"
+msgstr "བསྲེས་འབྲི་བཀོལ་སྤྱོད་ལ་ལ་རྗེས་འདེད།"
+
+msgid "Trace the Cogl Pango renderer"
+msgstr "Cogl Pango རྒྱན་ཆས་རྗེས་འདེད།"
+
+msgid "Trace the Cogl texture pixmap backend"
+msgstr " Cogl རིས་དབྱིབས་ pixmap མཇུག་སྣེ་རྗེས་འདེད།"
+
+msgid "Traces some select OpenGL calls"
+msgstr "འདེམ་པ་ལ་ལའི་OpenGL ཡི་ཚོད་སྒྲིག་རྗེས་འདེད།"
+
+msgid "Tries to highlight sub-optimal Cogl usage."
+msgstr "ལེགས་མིན་ Cogl སྤྱོད་པ་མངོན་གསལ་ཚོད་ལྟ།"
+
+msgid "Use the GPU to transform rectangular geometry"
+msgstr " GPU ཡིས་གྲུབ་བཞི་ནར་མོ་སྒྱུར་བར་སྤྱོད་པ།"
+
+msgid "View all the geometry passing through the journal"
+msgstr "ཉིན་ཐོ་ལྟར་བརྒྱུད་པའི་དབྱིབས་རྩིས་གཟུགས་ལ་ལྟ་བ།"
+
+msgid "Visualize"
+msgstr "མཐོང་རུང་ཅན་དུ་སྒྱུར།"
+
+msgid ""
+"When this is set the glyph cache will always use a separate texture for its "
+"atlas. Otherwise it will try to share the atlas with images."
+msgstr ""
+
+msgid "debug the creation of texture slices"
+msgstr "རིས་དབྱིབས་ལེབ་གཅོད་ཚོད་སྒྲིག་གསར་བཟོ།"

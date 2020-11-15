@@ -1,0 +1,858 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+
+msgid "  or: "
+msgstr "  ཡང་ན།: "
+
+msgid " [OPTION...]"
+msgstr " [འདེམས་ཚན་...]"
+
+msgid "%.*s: ARGP_HELP_FMT parameter must be positive"
+msgstr "%.*s: ARGP_HELP_FMT ཞུགས་གྲངས་ཚད་ངེས་པར་དུ་ཕོ་ཡིན་དགོས།"
+
+msgid "%.*s: ARGP_HELP_FMT parameter requires a value"
+msgstr "%.*s: ARGP_HELP_FMT ཞུགས་གྲངས་ཚད་ཅིག་དགོས།"
+
+msgid "%.*s: Unknown ARGP_HELP_FMT parameter"
+msgstr "%.*s: མི་ཤེས་པའི་ ARGP_HELP_FMT ཞུགས་གྲངས།"
+
+msgid "%lu block\n"
+msgid_plural "%lu blocks\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s is meaningless with %s"
+msgstr "%s དང %s མཉམ་དུ་གནས་སྐབས་དོན་སྙིང་མེད།"
+
+msgid "%s is not a character special file"
+msgstr "%s ནི་ཡིག་རྟགས་སྒྲིག་ཆས་ཡིག་ཆ་མིན།"
+
+msgid "%s is not a directory"
+msgstr "%s དཀར་ཆག་མིན།"
+
+msgid "%s linked to %s"
+msgstr "%s འདི %s ལ་འབྲེལ།"
+
+msgid "%s not created: newer or same age version exists"
+msgstr " %sགསར་བཟོ་བྱས་མེད།：གསར་སྒྱུར་བྱས་པ་ཡང་ན་འདྲ་བའི་པར་གཞི་གསར་བ་ཡོད་པ།"
+
+msgid "%s not dumped: not a regular file"
+msgstr "%s ཕྱིར་འདོན་མེད：སྤྱིར་བཏང་གི་ཡིག་ཆ་མིན།"
+
+msgid "%s: Cannot %s"
+msgstr "%s: རྟེན་འབྱུང་གྲངས་%s ཕམ་པ།"
+
+msgid "%s: Cannot change mode to %s"
+msgstr "%s: རྣམ་པ་ %sལ་སྒྱུར་མི་ཐུབ།"
+
+msgid "%s: Cannot change ownership to uid %lu, gid %lu"
+msgstr "%s: བདག་དབང་སྤྱོད་མཁན་ID %luལ་བཅོས་མི་ཐུབ།  ཚོ་ID %lu"
+
+msgid "%s: Cannot create symlink to %s"
+msgstr "%s: སྦྲེལ་མཐུད་ %s ལ་གསར་བཟོ་བྱ་མི་ཐུབ།"
+
+msgid "%s: Cannot hard link to %s"
+msgstr "%s:  སྲ་སྦྲེལ་ %sལ་བྱ་མི་ཐུབ།"
+
+msgid "%s: Cannot seek to %s"
+msgstr "%s: གནས་ %sལ་ངེས་མི་ཐུབ།"
+
+msgid "%s: Cannot symlink to %s"
+msgstr "%s: ལ་ %sའབྲེལ་མི་ཐུབ།"
+
+msgid "%s: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%s: གནས %s རུ་ཡིག་ཚིགས་ཀློག་ནོར་འབྱུང་། (%lu ཡིག་ཚིགས་ཀློག་པ།)"
+msgstr[1] "%s: གནས %s རུ་ཡིག་ཚིགས་ཀློག་ནོར་འབྱུང་། (%lu ཡིག་ཚིགས་ཀློག་པ།)"
+
+msgid "%s: Too many arguments\n"
+msgstr ""
+
+msgid "%s: Warning: Cannot %s"
+msgstr "%s: ཐ་ཚིག  རྟེན་འབྱུང་གྲངས་ %s ཕམ་པ།"
+
+msgid "%s: Warning: Cannot seek to %s"
+msgstr "%s: ཐ་ཚིག  གནས་ %sལ་ངེས་མི་ཐུབ།"
+
+msgid "%s: Warning: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Warning: Read error at byte %s, while reading %lu bytes"
+msgstr[0] ""
+"%s: ཐ་ཚིག   %s ཡིག་ཚིགས་སུ་ཀློག་པ་ནོར་འཁྲུལ་བྱུང་།( %lu ཡིག་ཚིགས་ཀློག་པ།)"
+msgstr[1] ""
+"%s: ཐ་ཚིག   %s ཡིག་ཚིགས་སུ་ཀློག་པ་ནོར་འཁྲུལ་བྱུང་།( %lu ཡིག་ཚིགས་ཀློག་པ།)"
+
+msgid "%s: Wrote only %lu of %lu byte"
+msgid_plural "%s: Wrote only %lu of %lu bytes"
+msgstr[0] "%s: %lu ཡིག་ཚིགས་ཁོ་ན་འབྲི་བ། སྤྱིར་ཡིག་ཚིགས་ %lu "
+msgstr[1] "%s: %lu ཡིག་ཚིགས་ཁོ་ན་འབྲི་བ། སྤྱིར་ཡིག་ཚིགས་ %lu "
+
+msgid "%s: checksum error (0x%lx, should be 0x%lx)"
+msgstr "%s: དག་བཤེར་ནོར་འཁྲུལ། (0x%lx   0x%lxཡིན་དགོས།)"
+
+msgid "%s: field width not sufficient for storing %s"
+msgstr "%s: ཁོངས་ཀྱི་ཞེང་ཚད་ལས་ %s ཉར་མི་ཐུབ།"
+
+msgid "%s: file name too long"
+msgstr "%s：ཡིག་ཆ་མིང་རིང་དྲགས།"
+
+msgid "%s: rmtclose failed"
+msgstr "%s: rmtclose ཕམ་པ།"
+
+msgid "%s: rmtioctl failed"
+msgstr ""
+
+msgid "%s: rmtopen failed"
+msgstr ""
+
+msgid "%s: symbolic link too long"
+msgstr "%s：མཚོན་རྟགས་འབྲེལ་མཐུད་རིང་དྲགས།"
+
+msgid "%s: truncating %s"
+msgstr "%s: བཅད་པ %s"
+
+msgid "%s: truncating inode number"
+msgstr "%s: གཅོད་པའི་ཨང་ inode "
+
+msgid "%s: unknown file type"
+msgstr "%s：མི་ཤེས་པའི་ཡིག་ཆ་རིགས་གྲས།"
+
+msgid "'"
+msgstr ""
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid "(PROGRAM ERROR) No version known!?"
+msgstr "(བྱ་རིམ་ནོར་འཁྲུལ་བྱུང་།)མི་ཤེས་པའི་པར་གཞི།"
+
+msgid "(PROGRAM ERROR) Option should have been recognized!?"
+msgstr "（བྱ་རིམ་ནོར་འཁྲུལ་བྱུང་།）འདེམས་ཚན་སྤྱིར་ངོས་འཛིན་བྱ་ཐུབ་དགོས།"
+
+msgid ""
+"--append is used but no archive file name is given (use -F or -O options)"
+msgstr ""
+" --append ཡོད་ཀྱང་ཐུམ་ཡིག་ཆའི་མིང་སྟོན་མེད། ( -F ཡང་ན་ -O འདེམས་ཚན་སྤྱོད་པ།)"
+
+msgid "--no-preserve-owner cannot be used with --owner"
+msgstr "--no-preserve-owner དང་ --owner མཉམ་དུ་སྤྱོད་མི་ཐུབ།"
+
+msgid "--owner cannot be used with --no-preserve-owner"
+msgstr "--owner དང་ --no-preserve-owner མཉམ་དུ་སྤྱོད་མི་ཐུབ།"
+
+msgid "--stat requires file names"
+msgstr "--stat ཡིག་ཆའི་མིང་དགོས།"
+
+msgid "-F can be used only with --create or --extract"
+msgstr "-F དང་ --create ཡང་ན་ --extract ཁོ་ན་ལ་མཉམ་དུ་སྤྱོད་དགོས།"
+
+msgid "-T reads null-terminated names"
+msgstr "-T ཡིས་ NULL མིང་གི་མཇུག་རྫོགས་པ་ཀློག་པ།"
+
+msgid ""
+"A list of filenames is terminated by a null character instead of a newline"
+msgstr ""
+"ཡིག་ཆའི་མིང་རེའུ་མིག་གིས་ཕྲལ་རྟགས་ལ་NULL "
+"སྤྱོད་པ་དང་ཕྲེང་བརྗེ་བྱ་སྤྱོད་མིན་པ།"
+
+msgid "ARGP_HELP_FMT: %s value is less than or equal to %s"
+msgstr "ARGP_HELP_FMT: %s ཡི་ཚད་%s ལས་ཆུང་ཡང་ན་མཚུངས་བ་ཡིན། "
+
+msgid "Append SIZE bytes to FILE. SIZE is given by previous --length option."
+msgstr ""
+"SIZE ཡི་རིང་ཚད་ཀྱི་ཡིག་ཚིགས་ FILEལ་སྣོན། SIZE ནི་སྔོན་གྱི་ --length "
+"འདེམས་ཚན་གྱིས་སྟོན་པ།"
+
+msgid "Append to an existing archive."
+msgstr "ཡོད་པའི་ཡིག་ཚགས་ཡིག་ཆ་རུ་སྣོན་པ།"
+
+msgid "Archive file is local, even if its name contains colons"
+msgstr "ཐུམ་ཡིག་ཆ་ནི་རང་གནས་ཀྱི་ཡིན། མིང་ནང་དུ་ལྷག་བཅས་ཀྱི་རྟགས་ཡོད་ཀྱང་།"
+
+msgid ""
+"Archive filename to use instead of standard input. Optional USER and HOST "
+"specify the user and host names in case of a remote archive"
+msgstr ""
+
+msgid ""
+"Archive filename to use instead of standard output. Optional USER and HOST "
+"specify the user and host names in case of a remote archive"
+msgstr ""
+"ཐུམ་ཡིག་ཆའི་མིང་སྤྱོད་ཀྱང་ཚད་ལྡན་ཕྱིར་འདོན་མིན།  "
+"གལ་ཏེ་ཡིག་ཆ་རྒྱང་རིང་གི་འཕྲུལ་ཆས་དུ་ཡོད་ན། སྤྱོད་མཁན་དང་གཙོ་འཁོར་སྟོན་པ།"
+
+msgid ""
+"Archive format is not specified in copy-pass mode (use --format option)"
+msgstr ""
+"copy-pass རྣམ་པར་ཐུམ་གྱི་རྣམ་གཞག་སྟོན་མེད། ( --format འདེམས་ཚན་སྤྱོད་པ།)"
+
+msgid "Archive format multiply defined"
+msgstr "ཐུམ་རྣམ་གཞག་ཐེངས་མང་སྟོན་པ།"
+
+msgid "Archive value %.*s is out of range"
+msgstr "ཉར་ཚགས་ཀྱི་ཚད་ %.*s ཁྱབ་ཁོངས་བརྒལ།"
+
+msgid "BLOCK-SIZE"
+msgstr "BLOCK-SIZE"
+
+msgid "Both -I and -F are used in copy-in mode"
+msgstr "-I དང་ -F ཚང་མ copy-in རྣམ་པ་ལ་སྤྱོད།"
+
+msgid "Both -O and -F are used in copy-out mode"
+msgstr "-O དང -F ཚང་མ copy-out རྣམ་པ་ལ་སྤྱོད།"
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "Cannot connect to %s: resolve failed"
+msgstr " %sལ་འབྲེལ་མི་ཐུབ།：དབྱེ་ཞིབ་ཕམ་པ།"
+
+msgid "Cannot execute remote shell"
+msgstr "རྒྱང་རིང་ shell ལག་བསྟར་བྱེད་མི་ཐུབ།"
+
+msgid "Cannot open %s"
+msgstr "%s ཁ་འབྱེད་མི་ཐུབ། "
+
+msgid "Command exited successfully\n"
+msgstr ""
+
+msgid "Command failed with status %d\n"
+msgstr ""
+
+msgid "Command stopped on signal %d\n"
+msgstr ""
+
+msgid "Command terminated\n"
+msgstr ""
+
+msgid "Command terminated on signal %d\n"
+msgstr ""
+
+msgid ""
+"Control warning display. Currently FLAG is one of 'none', 'truncate', 'all'."
+" Multiple options accumulate."
+msgstr ""
+
+msgid "Create all files relative to the current directory"
+msgstr "མིག་སྔ་དཀར་ཆག་ལ་བལྟོས་ནས་ཡིག་ཆ་ཚང་མ་གསར་བཟོ་བྱེད།"
+
+msgid "Create file of the given SIZE"
+msgstr "བསྟན་པའི་ཆེ་ཆུང་ནི་ SIZE ཡི་ཡིག་ཆ་བཟོ།"
+
+msgid "Create leading directories where needed"
+msgstr "དགོས་དུས་དཀར་ཆག་གསར་བཟོ་བྱེད།"
+
+msgid "Create the archive (run in copy-out mode)"
+msgstr "ཐུམ་གསར་བཟོ། ( copy-out རྣམ་པ་འཁོར་སྐྱོད།)"
+
+msgid "Creating intermediate directory `%s'"
+msgstr "བར་སྦྱོར་དཀར་ཆག་“%s”བཟོ།"
+
+msgid ""
+"Dereference  symbolic  links  (copy  the files that they point to instead of"
+" copying the links)."
+msgstr ""
+"མཚོན་རྟགས་སྦྲེལ་མཐུད་རྗེས་འདེད། "
+"(མཚོན་རྟགས་སྦྲེལ་མཐུད་བསྟན་པའི་ཡིག་ཆ་འདྲ་བཟོ་དང་སྦྲེལ་མཐུད་ཁོ་རང་མིན།)"
+
+msgid "Do not change the ownership of the files"
+msgstr "ཡིག་ཆའི་བདག་དབང་མི་བསྒྱུར།"
+
+msgid "Do not print the number of blocks copied"
+msgstr "འདྲ་བཟོས་རྡོག་གྲངས་པར་འདེབས་མ་བྱེད།"
+
+msgid "Do not strip file system prefix components from the file names"
+msgstr "ཡིག་ཆའི་མིང་དུ་ཡིག་ཆ་རྒྱུད་ཁོངས་ཀྱི་སྔོན་འཇུག་མི་འདོར།"
+
+msgid "Enable debugging info"
+msgstr "ཚོད་སྒྲིག་ཆ་འཕྲིན་མགོ་སློང་།"
+
+msgid "Error parsing number near `%s'"
+msgstr "“%s”ཉེ་བའི་དབྱེ་ཞིབ་ཨང་ཀི་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Execute COMMAND"
+msgstr " COMMAND བཀའ་བརྡ་ལག་བསྟར།"
+
+msgid "Extract files from an archive (run in copy-in mode)"
+msgstr "ཐུམ་དུ་ཡིག་ཆ་ལེན་པ། ( copy-in རྣམ་པ་འཁོར་སྐྱོད།)"
+
+msgid "Extract files to standard output"
+msgstr "ཡིག་ཆ་ཚད་ལྡན་ཕྱིར་འདོན་དུ་ལེན།"
+
+msgid "FILE"
+msgstr "ཡིག་ཆ།"
+
+msgid "FLAG"
+msgstr ""
+
+msgid "FORMAT"
+msgstr "རྣམ་གཞག"
+
+msgid "File %s shrunk by %s byte, padding with zeros"
+msgid_plural "File %s shrunk by %s bytes, padding with zeros"
+msgstr[0] "ཡིག་ཆ་ %sཡིག་ཚིགས་ %s ཉུང་དུ་བཏང་ནས་ 0 ཡིས་ཁ་གསབ།"
+msgstr[1] "ཡིག་ཆ་ %sཡིག་ཚིགས་ %s ཉུང་དུ་བཏང་ནས་ 0 ཡིས་ཁ་གསབ།"
+
+msgid "File %s was modified while being copied"
+msgstr "ཡིག་ཆ་ %s འདྲ་བཟོ་བྱེད་སྐབས་བཅོས་པ།"
+
+msgid "File creation options:"
+msgstr "ཡིག་ཆ་གསར་བཟོ་འདེམས་ཚན།:"
+
+msgid "File statistics options:"
+msgstr "ཡིག་ཆ་བསྡོམས་པའི་འདེམས་ཚན།:"
+
+msgid "Fill the file with the given PATTERN. PATTERN is 'default' or 'zeros'"
+msgstr ""
+"བསྟན་པའི་ PATTERN རྣམ་པས་ཡིག་ཆ་ཁ་སྐོང་། PATTERN "
+"ནི་‘default’ཡང་ན་‘zeros’ཡིན་ཆོག"
+
+msgid "Found end of tape.  Load next tape and press RETURN. "
+msgstr "སྒྲ་ཐག་ཚར་བ། སྒྲ་ཐག་འཕྲོར་མ་བོ་བཅུག་ནས་ RETURN གནོན།"
+
+msgid "Found end of tape.  To continue, type device/file name when ready.\n"
+msgstr ""
+
+msgid ""
+"GNU `cpio' copies files to and from archives\n"
+"\n"
+"Examples:\n"
+"  # Copy files named in name-list to the archive\n"
+"  cpio -o < name-list [> archive]\n"
+"  # Extract files from the archive\n"
+"  cpio -i [< archive]\n"
+"  # Copy files named in name-list to destination-directory\n"
+"  cpio -p destination-directory < name-list\n"
+msgstr ""
+
+msgid "Garbage command"
+msgstr "གད་སྙིགས་བཀའ་བརྡ།"
+
+msgid "Garbage in ARGP_HELP_FMT: %s"
+msgstr "ཞུགས་གྲངས་ARGP_HELP_FMT ནང་དུ་བེད་མེད་ཆ་འཕྲིན།: %sའདུས།"
+
+msgid "In the verbose table of contents listing, show numeric UID and GID"
+msgstr "ནང་དོན་རེའུ་མིག་གི་ཞིབ་ཕྲའི་རེའུ་མིག་ཏུ། ཨང་ཀིའི་ UID དང་ GID མངོན།"
+
+msgid "Interactively rename files"
+msgstr "སྤེལ་རེས་ཅན་གྱི་མིང་བསྐྱར་འདོགས་ཡིག་ཆ།"
+
+msgid "Invalid size: %s"
+msgstr "ནུས་མེད་ཀྱི་ཚད: %s"
+
+msgid "Invalid value for --warning option: %s"
+msgstr "--warning འདེམས་ཚན་གྱི་ལུགས་དང་མི་མཐུན་པའི་ཚད: %s"
+
+msgid "Link files instead of copying them, when  possible"
+msgstr "རུང་དུས་ཡིག་ཆ་སྦྲེལ་ཡང་ཡིག་ཆ་འདྲ་བཟོ་མིན།"
+
+msgid "Main operation mode:"
+msgstr "བཀོལ་སྤྱོད་གཙོ་བའི་རྣམ་པ།"
+
+msgid "Malformed number %.*s"
+msgstr "ཡ་མ་གཟུགས་ཨང་ཀི %.*s"
+
+msgid ""
+"Mandatory or optional arguments to long options are also mandatory or "
+"optional for any corresponding short options."
+msgstr ""
+"འདེམས་ཚན་རིང་བར་ངེས་པར་ཡང་ན་འདེམས་རུང་གི་ཞུགས་གྲངས་ནི་འདེམས་ཚན་ཐུང་བར་འཚམ་པ་ཡིན།"
+
+msgid "Mode already defined"
+msgstr "རྣམ་པ་གཏན་འཁེལ་ཚར།"
+
+msgid "NAME"
+msgstr "མིང་།"
+
+msgid "NUMBER"
+msgstr "ཤོག་ཨང།"
+
+msgid "Negative size: %s"
+msgstr "མོ་ཚད།: %s"
+
+msgid "Not enough arguments"
+msgstr "ཞུགས་གྲངས་མི་འདང་།"
+
+msgid "Number out of allowed range: %s"
+msgstr "གྲངས་ཚད་རུང་བའི་ཁྱབ་ཁོངས་བརྒལ་བ།: %s"
+
+msgid "OFFSET"
+msgstr "OFFSET"
+
+msgid "Only copy files that do not match any of the given patterns"
+msgstr "ཆ་མི་མཉམ་བྱིན་པའི་རྣམ་པ་གང་རུང་གི་ཡིག་ཆ་ཁོ་ན་འདྲ་ཕབ་བྱེད་པ།"
+
+msgid "Operation modifiers valid in any mode:"
+msgstr "རྣམ་པ་ཚང་མའི་འདེམས་ཚན་ལ་ཉེར་སྤྱོད་པ།:"
+
+msgid "Operation modifiers valid in copy-in and copy-out modes:"
+msgstr "copy-in དང་ copy-out རྣམ་པའི་འདེམས་ཚན་ལ་ཉེར་སྤྱོད།:"
+
+msgid "Operation modifiers valid in copy-in and copy-pass modes:"
+msgstr ""
+
+msgid "Operation modifiers valid in copy-out and copy-pass modes:"
+msgstr ""
+
+msgid "Operation modifiers valid only in copy-in mode:"
+msgstr "བཀའ་བརྡ་རྒྱན་པ་ copy-in རྣམ་པ་ཁོ་ནར་ནུས་ཡོད།:"
+
+msgid "Operation modifiers valid only in copy-out mode:"
+msgstr "copy-out རྣམ་པའི་འདེམས་ཚན་ཉེར་སྤྱོད།"
+
+msgid "Operation modifiers valid only in copy-pass mode:"
+msgstr " copy-pass རྣམ་པའི་འདེམས་ཚན་ཉེར་སྤྱོད།:"
+
+msgid "PATTERN"
+msgstr "PATTERN"
+
+msgid "Packaged by %s\n"
+msgstr ""
+
+msgid "Packaged by %s (%s)\n"
+msgstr ""
+
+msgid "Print STRING when the end of a volume of the backup media is reached"
+msgstr "གྲབས་ཉར་བར་རྫས་ཀྱི་མཇུག་མཐར་སླེབས་དུས་ STRINGཔར་འདེབས་བྱེད།"
+
+msgid "Print a \".\" for each file processed"
+msgstr ""
+
+msgid "Print a table of contents of the input"
+msgstr "ནང་བཅུག་ནང་དོན་རེའུ་མིག་པར་འདེབས།"
+
+msgid "Print contents of struct stat for each given file. Default FORMAT is: "
+msgstr ""
+"བྱིན་པའི་ཡིག་ཆ་སོ་སོའི་ stat སྒྲིག་གཞིའི་ནང་དོན་པར་འདེབས་བྱེད། སོར་བཞག་གི་ "
+"FORMAT ནི།: "
+
+msgid ""
+"Read additional patterns specifying filenames to extract or list from FILE"
+msgstr ""
+" FILE "
+"ལས་ལྷག་མའི་སྟོན་པའི་ལེན་པ་ཡང་ན་རེའུ་མིག་གི་ཡིག་ཆའི་མིང་གི་རྣམ་པ་ཀློག་པ།"
+
+msgid "Read error at byte %lld in file %s, padding with zeros"
+msgstr "ཡིག་ཆ་ %2$s ཡི་ %1$lld རུ་ཀློག་པ་ནོར་འཁྲུལ་བྱུང་།  0 ཡིས་ཁ་གསབ།"
+
+msgid "Read file names from FILE"
+msgstr "FILE ལས་ཡིག་ཆའི་མིང་ཀློག་པ།"
+
+msgid "Removing leading `%s' from hard link targets"
+msgstr "སྲ་སྦྲེལ་དམིགས་ཚད་དུ་སྔོན་འཇུག་“%s” འདོར་བ།"
+
+msgid "Removing leading `%s' from member names"
+msgstr "ཁོངས་མིར་སྔོན་འཇུག་“%s” འདོར་བ།"
+
+msgid "Replace all files unconditionally"
+msgstr "ཆ་རྐྱེན་མེད་པའི་ཡིག་ཆ་ཚང་མ་འགེབས།"
+
+msgid "Report bugs to %s.\n"
+msgstr ""
+
+msgid "Reset the access times of files after reading them"
+msgstr "ཡིག་ཆ་བཀླགས་རྗེས་ཡིག་ཆའི་ལྟ་སྤྱོད་དུས་ཚོད་སླར་གསོ།"
+
+msgid "Retain previous file modification times when creating files"
+msgstr "ཡིག་ཆ་གསར་བཟོ་བྱེད་སྐབས་སྔོན་གྱི་ཡིག་ཆའི་བཟོ་བཅོས་དུས་ཚོད་ཞོག"
+
+msgid "Run in copy-pass mode"
+msgstr "copy-pass རྣམ་པ་འཁོར་སྐྱོད་བྱེད།"
+
+msgid "SECS"
+msgstr "སྐར་ཆ།"
+
+msgid "SIZE"
+msgstr "SIZE"
+
+msgid "STRING"
+msgstr "ཡིག་རྟགས་ཕྲེང་།"
+
+msgid "Seek direction out of range"
+msgstr "གནས་ངེས་ཁ་ཕྱོགས་ཁྱབ་ཁོངས་ལས་བརྒལ།"
+
+msgid "Seek offset out of range"
+msgstr "གནས་ངེས་བཀོལ་སྤྱོད་ཀྱི་སྤོ་ཚད་ཁྱབ་ཁོངས་ལས་བརྒལ།"
+
+msgid "Seek to the given offset before writing data"
+msgstr "གཞི་གྲངས་མ་འབྲི་གོང་དུ་གནས་བསྟན་པའི་སྤོ་ཚད་ OFFSET ལ་ངེས།"
+
+msgid "Set date for next --touch option"
+msgstr "ངོས་རྗེས་མ --touch འདེམས་ཚན་ལ་དུས་ཚེས་བཀོད་པ།"
+
+msgid "Set the I/O block size to 5120 bytes"
+msgstr "I/O རྡོག་གི་ཆེ་ཆུང་ 5120 ཡིག་ཚིགས་ལ་བཀོད་པ།"
+
+msgid "Set the I/O block size to BLOCK-SIZE * 512 bytes"
+msgstr "I/O རྡོག་གི་ཆེ་ཆུང་ BLOCK-SIZE * 512 ཡིག་ཚིགས་ལ་བཀོད་པ།"
+
+msgid "Set the I/O block size to the given NUMBER of bytes"
+msgstr "I/O རྡོག་གི་ཆེ་ཆུང་ནི་བསྟན་པའི་ NUMBER ཡིག་ཚིགས་ལ་བཀོད་པ།"
+
+msgid ""
+"Set the ownership of all files created to the specified USER and/or GROUP"
+msgstr "ཡིག་ཆ་ཚང་མའི་བདག་དབང་ཆ་འཕྲིན་བསྟན་པའི་སྤྱོད་མཁན་དང་/ཡང་ན་ཚོ་ལ་བཀོད་པ།"
+
+msgid "Substituting `.' for empty hard link target"
+msgstr "སྲ་སྟོང་སྦྲེལ་མཐུད་དམིགས་ཚད་“.”བརྗེ་བ།"
+
+msgid "Substituting `.' for empty member name"
+msgstr "ཁོངས་མིའི་མིང་སྟོང་“.”བརྗེ་བ།"
+
+msgid ""
+"Swap both halfwords of words and bytes of halfwords in the data. Equivalent "
+"to -sS"
+msgstr ""
+"གཞི་གྲངས་སུ་ཡིག་རེའི་ཡིག་ཕྱེད་གཉིས་དང་ཡིག་ཕྱེད་གཉིས་རེའི་ཡིག་ཚིགས་གཉིས་བརྗེ་རེས་བྱེད།"
+"  -sSདང་ཀུན་མཚུངས་ཡིན།"
+
+msgid "Swap the bytes of each halfword in the files"
+msgstr "ཡིག་ཆར་ཡིག་ཕྱེད་རེའི་ཡིག་ཚིགས་གཉིས་བརྗེ་བ།"
+
+msgid "Swap the halfwords of each word (4 bytes) in the files"
+msgstr "ཡིག་ཆར་ཡིག་(ཡིག་ཚིགས་4)རེའི་ཡིག་ཕྱེད་གཉིས་བརྗེ་བ།"
+
+msgid "Synchronous execution options:"
+msgstr "འགྲོས་མཉམ་ལག་བསྟར་འདེམས་ཚན།:"
+
+msgid "To continue, type device/file name when ready.\n"
+msgstr ""
+
+msgid "Too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid ""
+"Truncate FILE to the size specified by previous --length option (or 0, if it"
+" is not given)"
+msgstr ""
+"FILE ནས་སྔོན་གྱི་ --length "
+"འདེམས་ཚན་གྱི་བསྟན་པའི་ཆེ་ཆུང་གཅོད་པ།(གལ་ཏེ་སྟོན་མེད་ན། ，སོར་བཞག་ 0)"
+
+msgid "Try `%s --help' or `%s --usage' for more information.\n"
+msgstr ""
+
+msgid "Unknown date format"
+msgstr ""
+
+msgid "Unknown field `%s'"
+msgstr "མི་ཤེས་པའི་ཡིག་ཆ་གབ་ཨང་གནས་“%s”"
+
+msgid "Unknown system error"
+msgstr "མི་ཤེས་པའི་རྒྱུད་ཁོངས་ཀྱི་ནོར་འཁྲུལ།"
+
+msgid "Update the access and modification times of FILE"
+msgstr " FILE ཡིག་ཆའི་ལྟ་སྤྱོད་དང་བཟོ་བཅོས་དུས་ཚོད་གསར་སྒྱུར།"
+
+msgid "Usage:"
+msgstr "སྤྱོད་སྟངས།："
+
+msgid "Use given archive FORMAT"
+msgstr "བསྟན་པའི་ཐུམ་རྣམ་གཞག་སྤྱོད་པ།"
+
+msgid "Use remote COMMAND instead of rsh"
+msgstr "COMMAND ཡིས་rshཚབ་བརྗེ།"
+
+msgid "Use the old portable (ASCII) archive format"
+msgstr "རྙིང་ཞིང་སྤོ་རུང་། (ASCII) ཐུམ་གྱི་རྣམ་གཞག་སྤྱོད་པ།"
+
+msgid ""
+"Use this FILE-NAME instead of standard input or output. Optional USER and "
+"HOST specify the user and host names in case of a remote archive"
+msgstr ""
+
+msgid "Valid arguments are:"
+msgstr "ནུས་ལྡན་གྱི་ཞུགས་གྲངས་ནི།："
+
+msgid "Verbosely list the files processed"
+msgstr "སྒྲིག་གཅོད་བྱས་པའི་ཡིག་ཆ་ཞིབ་ཕྲས་འགྲེམས་པ།"
+
+msgid ""
+"When reading a CRC format archive, only verify the CRC's of each file in the"
+" archive, don't actually extract the files"
+msgstr ""
+"CRC རྣམ་གཞག་གི་ཐུམ་ཀློག་སྐབས་སུ། ཐུམ་རེ་རེའི་ཡིག་ཆའི་ CRC "
+"ལ་ཞིབ་བཤེར་བྱེད་པ་དང་། ཡིག་ཆ་ལེན་པ་མིན།"
+
+msgid "Write files with large blocks of zeros as sparse files"
+msgstr "ཀླད་ཀོར་མང་པོ་འདུས་པའི་ཡིག་ཆ་ཐར་ཐོར་ཡིག་ཆ་ལྟར་འབྲི་བ།"
+
+msgid "Write to file NAME, instead of standard output"
+msgstr "ཡིག་ཆ་ NAMEའབྲི་བ། ཚད་ལྡན་ཕྱིར་འདོན་མིན་པ།"
+
+msgid "Written by %s and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr ""
+
+msgid "Written by %s.\n"
+msgstr ""
+
+msgid ""
+"You must specify one of -oipt options.\n"
+"Try `%s --help' or `%s --usage' for more information.\n"
+msgstr ""
+
+msgid "[USER][:.][GROUP]"
+msgstr "[སྤྱོད་མཁན་][:.][ཚོ]"
+
+msgid "[[USER@]HOST:]FILE-NAME"
+msgstr "[[སྤྱོད་མཁན་@]གཙོ་འཁོར:]ཡིག་ཆའི་མིང་།"
+
+msgid "[destination-directory]"
+msgstr "[དམིགས་ཚད་དཀར་ཆག]"
+
+msgid "`"
+msgstr ""
+
+msgid "`%s' exists but is not a directory"
+msgstr "“%s” ཡོད་ཀྱང་དཀར་ཆག་མིན།"
+
+msgid "ambiguous argument %s for %s"
+msgstr ""
+
+msgid "blank line ignored"
+msgstr "ཕྲེང་སྟོང་སྣང་མེད་དུ་གཏོང་།"
+
+msgid "cannot get the login group of a numeric UID"
+msgstr "ཨང་ཀི UID ཡི་ཐོ་འགོད་ཚོ་ཐོབ་མི་ཐུབ།"
+
+msgid "cannot link %s to %s"
+msgstr " %s འདི་ %s ལ་འབྲེལ་མི་ཐུབ།"
+
+msgid "cannot make directory `%s'"
+msgstr "དཀར་ཆག་“%s”གསར་བཟོ་མི་ཐུབ།"
+
+msgid "cannot open `%s'"
+msgstr "“%s”ཁ་འབྱེད་མི་ཐུབ།"
+
+msgid "cannot read checksum for %s"
+msgstr " %s ལ་དག་བཤེར་སྡོམ་ཀློག་མི་ཐུབ།"
+
+msgid "cannot remove current %s"
+msgstr "མིག་སྔ་ %sའདོར་མི་ཐུབ།"
+
+msgid "cannot seek"
+msgstr "གནས་ངེས་མི་ཐུབ།"
+
+msgid "cannot seek on output"
+msgstr "ཕྱིར་འདོན་དུ་ seek བཀོལ་སྤྱོད་ལག་བསྟར་བྱ་མི་ཐུབ།"
+
+msgid "cannot set time on `%s'"
+msgstr "“%s” ཡི་དུས་ཚོད་བཀོད་མི་ཐུབ།"
+
+msgid "cannot swap bytes of %s: odd number of bytes"
+msgstr " %s ཡི་ཡིག་ཚིགས་བརྗེ་མི་ཐུབ: ཡིག་ཚིགས་ཚད་རྒྱུན་འགལ།"
+
+msgid "cannot swap halfwords of %s: odd number of halfwords"
+msgstr " %s ཡི་ཡིག་ཕྱེད་བརྗེ་མི་ཐུབ: ཡིག་ཕྱེད་ཚད་རྒྱུན་འགལ།"
+
+msgid "device major number"
+msgstr "སྒྲིག་ཆས་གཙོའི་ཨང་།"
+
+msgid "device minor number"
+msgstr "སྒྲིག་ཆས་ཕལ་བའི་ཨང་།"
+
+msgid "device number"
+msgstr "སྒྲིག་ཆས་ཨང་།"
+
+msgid "error closing archive"
+msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཁ་རྒྱག་ལ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "exec/tcp: Service not available"
+msgstr "exec/tcp：ཞབས་ཞུ་སྤྱོད་མི་རུང་།"
+
+msgid "failed to return to initial working directory"
+msgstr ""
+
+msgid "file mode"
+msgstr "ཡིག་ཆའི་རྣམ་པ།"
+
+msgid "file name contains null character"
+msgstr "ཡིག་ཆའི་མིང་དུ་ཡིག་རྟགས་སྟོང་པ་འདུས།"
+
+msgid "file size"
+msgstr "ཡིག་ཆའི་ཆེ་ཆུང་།"
+
+msgid ""
+"genfile manipulates data files for GNU paxutils test suite.\n"
+"OPTIONS are:\n"
+msgstr ""
+
+msgid "gid"
+msgstr "ཚོའི ID"
+
+msgid "give a short usage message"
+msgstr "སླ་བསྡུས་ཀྱི་སྤྱོད་སྟངས་གསལ་བཤད་མངོན་པ།"
+
+msgid "give this help list"
+msgstr "རོགས་རམ་རེའུ་མིག་འདི་མངོན་པ།"
+
+msgid "hang for SECS seconds (default 3600)"
+msgstr "SECS སྐར་ཆ་འགེལ་འཇོག (ཆད་ལྷག 3600)"
+
+msgid "incorrect mask (near `%s')"
+msgstr "གབ་ཨང་མི་འགྲིག་པ།(“%s”ཉེ་བ།)"
+
+msgid "inode number"
+msgstr "inodeཨང་།"
+
+msgid "internal error: tape descriptor changed from %d to %d"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།：སྡུད་ཐགས་ཀྱི་ཞིབ་བརྗོད་རྟགས་ %d ནས་ %d ལ་བཅོས།"
+
+msgid ""
+"invalid archive format `%s'; valid formats are:\n"
+"crc newc odc bin ustar tar (all-caps also recognized)"
+msgstr ""
+
+msgid "invalid argument %s for %s"
+msgstr "%2$s ཡི་ཞུགས་གྲངས་ %1$s ནུས་མེད།"
+
+msgid "invalid block size"
+msgstr "ནུས་མེད་ཀྱི་རྡོག་གི་ཆེ་ཆུང་།"
+
+msgid "invalid group"
+msgstr "ནུས་མེད་ཀྱི་ཚོ།"
+
+msgid "invalid header: checksum error"
+msgstr "ནུས་མེད་ཀྱི་མགོ：དག་བཤེར་སྡོམ་ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "invalid user"
+msgstr "ནུས་མེད་ཀྱི་སྤྱོད་མཁན།"
+
+msgid "memory exhausted"
+msgstr "ནང་གསོག་ཟད་པ།"
+
+msgid "modification time"
+msgstr "བཟོ་བཅོས་དུས་ཚོད།"
+
+msgid "name size"
+msgstr "མིང་གི་ཆེ་ཆུང་།"
+
+msgid "no tape device specified"
+msgstr "སྡུད་ཐགས་སྒྲིག་ཆས་བྱིན་མེད།"
+
+msgid "number of links"
+msgstr "སྦྲེལ་མཐུད་གྲངས་ཀ"
+
+msgid "premature end of archive"
+msgstr "ཡིག་ཚགས་རྒྱུན་འགལ་མཚམས་འཇོག"
+
+msgid "premature end of file"
+msgstr "ཡིག་ཆ་རྒྱུན་འགལ་མཚམས་འཇོག"
+
+msgid "print program version"
+msgstr "པར་འདེབས་བྱ་རིམ་པར་གཞི།"
+
+msgid "rdev"
+msgstr "rdev"
+
+msgid "rdev major"
+msgstr "rdev སྒྲིག་ཆས་གཙོ་བའི་ཨང་།"
+
+msgid "rdev minor"
+msgstr "rdev སྒྲིག་ཆས་ཕལ་བའི་ཨང་།"
+
+msgid "read error"
+msgstr "ཀློག་ལནེ་ནོར་འཁྲུལ"
+
+msgid "rename %s -> "
+msgstr " %s མིང་བསྐྱར་འདོགས་ནས། -> "
+
+msgid "requested file length %lu, actual %lu"
+msgstr "ཡིག་ཆའི་རིང་ཚད་ཀྱི་རེ་བ་ནི་ %lu དང་། དངོས་སུ་%lu ཡིན།"
+
+msgid "set the program name"
+msgstr "བྱ་རིམ་མིང་སྒྲིག་འགོད།"
+
+msgid "standard input is closed"
+msgstr "ཚད་ལྡན་ནང་འཇུག་ཁ་བརྒྱབས་པ།"
+
+msgid "standard output is closed"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན་ཁ་བརྒྱབས་པ།"
+
+msgid "stdin"
+msgstr "ཚད་ལྡན་ནང་འཇུག"
+
+msgid "stdout"
+msgstr "ཚད་ལྡན་ཕྱིར་འདོན།"
+
+msgid "too many arguments"
+msgstr "ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "uid"
+msgstr "སྤྱོད་མཁན་ID"
+
+msgid "unable to record current working directory"
+msgstr ""
+
+msgid "virtual memory exhausted"
+msgstr "རྟོག་བཟོས་ཀྱི་ནང་གསོག་ཟད་ཚར།"
+
+msgid "warning: archive header has reverse byte-order"
+msgstr "ཐ་ཚིག ཡིག་ཚགས་མགོ་ནི་ལྡོག་ཕྱོགས་ཡིག་ཚིགས་རིམ་པ་ཡིན།"
+
+msgid "warning: skipped %ld byte of junk"
+msgid_plural "warning: skipped %ld bytes of junk"
+msgstr[0] "ཐ་ཚིག  ཡིག་ཚིགས་སྟོང་པ་ %ld མཆོང་བ།"
+msgstr[1] "ཐ་ཚིག  ཡིག་ཚིགས་སྟོང་པ་ %ld མཆོང་བ།"
+
+msgid "write error"
+msgstr "འབྲི་བ་ནོར་འཁྲུལ།"

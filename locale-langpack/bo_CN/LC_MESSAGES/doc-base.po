@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "(using `%s' as the root directory)"
+msgstr "(“%s” ནི་རྩ་བའི་དཀར་ཆག་ལ་སྤྱོད།)"
+
+msgid "Arguments missing for `%s'."
+msgstr "”%s“ཞུགས་གྲངས་ཆད་པ།"
+
+msgid "Cannot open file `%s' for reading: %s."
+msgstr "ཡིག་ཆ་“%s”：%sཀློག་མི་ཐུབ། "
+
+msgid "Cannot read file `%s': %s."
+msgstr "ཡིག་ཆ་“%s”：%sཀློག་མི་ཐུབ། "
+
+msgid "Cannot rename file `%s' to `%s': %s."
+msgstr "ཡིག་ཆ་”%s“为”%s“：%s མིང་བསྐྱར་འདོགས་མི་ཐུབ།"
+
+msgid "Cannot save file `%s': %s."
+msgstr "ཡིག་ཆ་”%s“：%sཉར་མི་ཐུབ།"
+
+msgid "Contents of file `%s':"
+msgstr "ཡིག་ཆ་“%s”ཡི་ནང་དོན།："
+
+msgid "Error in %s: %s."
+msgstr "%s ནང་གི་ནོར་འཁྲུལ།：%s"
+
+msgid "File `%s' not yet parsed."
+msgstr "ཡིག་ཆ་“%s”དབྱེ་ཞིབ་བྱས་མེད།"
+
+msgid "Needs to be root for this operation."
+msgstr "བཀོལ་སྤྱོད་འདི་ལག་བསྟར་བྱ་དགོས་ན་ root དབང་ཚད་དགོས།"
+
+msgid ""
+"Note: `install-docs --verbose --check file_name' may give more details about"
+" the above error."
+msgid_plural ""
+"Note: `install-docs --verbose --check file_name' may give more details about"
+" the above errors."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Saving `%s' (%d)."
+msgstr "ཉར་བ།”%s\\“(%d) "
+
+msgid "Too many arguments for `%s'."
+msgstr "”%s“ཡི་ཞུགས་གྲངས་མང་དྲགས།"
+
+msgid "Unknown flag (%s, %s)."
+msgstr "མི་ཤེས་པའི་མཚོན་རྟགས།(%s, %s)"
+
+msgid "Warning in %s: %s."
+msgstr "%s ནང་གི་ཐ་ཚིག %s"
+
+msgid "`%s' requires exactly one argument."
+msgstr "”%s“ཏག་ཏག་ཞུགས་གྲངས་གཅིག་དགོས།"
+
+msgid "`%s', line %d"
+msgstr "“%s”，ཕྲེང་ཨང་ %d ་"
+
+msgid "control field `%s' already defined"
+msgstr "ཚོད་འཛིན་ཡིག་དུམ་ “%s” མཚན་ཉིད་བཞག་པ།"
+
+msgid "field `%s' cannot consist of multi lines"
+msgstr "ཡིག་དུམ་“%s”རུ་ཕྲེང་མང་ཚུད་མི་ཉན།"
+
+msgid "field `%s' in incorrect section (missing empty line before the field?)"
+msgstr ""
+"ཡིག་དུམ་“%s”གནས་ས་ཡང་དག་མིན་པར་ཡོད། (ཡིག་དུམ་སྔོན་དུ་སྟོང་ཕྲེང་ཆད་དམ།)"
+
+msgid "format `%s' already defined"
+msgstr "“%s”རྣམ་གཞག་མཚན་ཉིད་བཞག་པ།"
+
+msgid "format `%s' is not supported"
+msgstr "“%s”རྣམ་གཞག་རྒྱབ་སྐྱོར་མི་བྱེད།"
+
+msgid "invalid value of `Document' field"
+msgstr "“Document”ཡིག་དུམ་གྱི་ཚད་ནུས་མེད།"
+
+msgid "line in field `%s' seems not to be UTF-8 encoded, recoding"
+msgstr ""
+"“%s”ཡིག་དུམ་གནས་པའི་ཕྲེང་ཕལ་ཆེར་ UTF-8 སྒྲིག་ཨང་མིན། ཡང་བསྐྱར་སྒྲིག་ཨང་བྱེད།"
+
+msgid "syntax error - no field specified"
+msgstr "བརྡ་སྤྲོད་ནོར་འཁྲུལ་ - ཡིག་དུམ་སྟོན་མེད།"
+
+msgid "syntax error in control file: %s"
+msgstr "ཚོད་འཛིན་ཡིག་ཆ་ནང་གི་བརྡ་སྤྲོད་ནོར་འཁྲུལ།：%s"
+
+msgid "the first line does not contain valid `Document' field"
+msgstr "ཕྲེང་དང་པོར་ནུས་ལྡན་གྱི་“Document”ཡིག་དུམ་ཚུད་མེད།"
+
+msgid "unknown section: `%s'"
+msgstr "མི་ཤེས་པའི་ཆ་ཤས།： “%s”"
+
+msgid "unrecognised control field `%s'"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་ཚོད་འཛིན་ཡིག་དུམ་“%s”"
+
+msgid "unsupported doc-base file version: %s"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་ doc-base ཡིག་ཆ་པར་གཞི།：%s"
+
+msgid "value of `%s' not specified"
+msgstr "“%s” ཡི་ཚད་བསྟན་མེད།"

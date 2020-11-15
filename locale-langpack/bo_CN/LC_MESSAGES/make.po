@@ -1,0 +1,732 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"# %u implicit rules, %u"
+msgstr ""
+
+msgid ""
+"\n"
+"# %u pattern-specific variable values"
+msgstr ""
+
+msgid ""
+"\n"
+"# Directories\n"
+msgstr ""
+
+msgid ""
+"\n"
+"# Files"
+msgstr ""
+
+msgid ""
+"\n"
+"# Finished Make data base on %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"# Implicit Rules"
+msgstr ""
+
+msgid ""
+"\n"
+"# Make data base, printed on %s"
+msgstr ""
+
+msgid ""
+"\n"
+"# No implicit rules."
+msgstr ""
+
+msgid ""
+"\n"
+"# No pattern-specific variable values."
+msgstr ""
+
+msgid ""
+"\n"
+"# Pattern-specific Variable Values"
+msgstr ""
+
+msgid ""
+"\n"
+"# VPATH Search Paths\n"
+msgstr ""
+
+msgid ""
+"\n"
+"# Variables\n"
+msgstr ""
+
+msgid ""
+"\n"
+"# files hash-table stats:\n"
+"# "
+msgstr ""
+
+msgid ""
+"\n"
+"Counted %d args in failed launch\n"
+msgstr ""
+
+msgid ""
+"\n"
+"This program built for %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"This program built for %s (%s)\n"
+msgstr ""
+
+msgid ""
+"  --debug[=FLAGS]             Print various types of debugging "
+"information.\n"
+msgstr ""
+
+msgid ""
+"  --no-print-directory        Turn off -w, even if it was turned on "
+"implicitly.\n"
+msgstr ""
+
+msgid ""
+"  --warn-undefined-variables  Warn when an undefined variable is "
+"referenced.\n"
+msgstr ""
+
+msgid "  -B, --always-make           Unconditionally make all targets.\n"
+msgstr ""
+
+msgid ""
+"  -C DIRECTORY, --directory=DIRECTORY\n"
+"                              Change to DIRECTORY before doing anything.\n"
+msgstr ""
+
+msgid ""
+"  -I DIRECTORY, --include-dir=DIRECTORY\n"
+"                              Search DIRECTORY for included makefiles.\n"
+msgstr ""
+
+msgid ""
+"  -L, --check-symlink-times   Use the latest mtime between symlinks and "
+"target.\n"
+msgstr ""
+
+msgid "  -R, --no-builtin-variables  Disable the built-in variable settings.\n"
+msgstr ""
+
+msgid ""
+"  -S, --no-keep-going, --stop\n"
+"                              Turns off -k.\n"
+msgstr ""
+
+msgid ""
+"  -W FILE, --what-if=FILE, --new-file=FILE, --assume-new=FILE\n"
+"                              Consider FILE to be infinitely new.\n"
+msgstr ""
+
+msgid "  -b, -m                      Ignored for compatibility.\n"
+msgstr ""
+
+msgid "  -d                          Print lots of debugging information.\n"
+msgstr ""
+
+msgid ""
+"  -e, --environment-overrides\n"
+"                              Environment variables override makefiles.\n"
+msgstr ""
+
+msgid ""
+"  -f FILE, --file=FILE, --makefile=FILE\n"
+"                              Read FILE as a makefile.\n"
+msgstr ""
+
+msgid "  -h, --help                  Print this message and exit.\n"
+msgstr ""
+
+msgid ""
+"  -j [N], --jobs[=N]          Allow N jobs at once; infinite jobs with no "
+"arg.\n"
+msgstr ""
+
+msgid ""
+"  -k, --keep-going            Keep going when some targets can't be made.\n"
+msgstr ""
+
+msgid ""
+"  -l [N], --load-average[=N], --max-load[=N]\n"
+"                              Don't start multiple jobs unless load is below N.\n"
+msgstr ""
+
+msgid ""
+"  -o FILE, --old-file=FILE, --assume-old=FILE\n"
+"                              Consider FILE to be very old and don't remake it.\n"
+msgstr ""
+
+msgid "  -p, --print-data-base       Print make's internal database.\n"
+msgstr ""
+
+msgid "  -r, --no-builtin-rules      Disable the built-in implicit rules.\n"
+msgstr ""
+
+msgid "  -t, --touch                 Touch targets instead of remaking them.\n"
+msgstr ""
+
+msgid ""
+"  -v, --version               Print the version number of make and exit.\n"
+msgstr ""
+
+msgid "  -w, --print-directory       Print the current directory.\n"
+msgstr ""
+
+msgid "  Date %s"
+msgstr ""
+
+msgid "  uid = %d, gid = %d, mode = 0%o.\n"
+msgstr ""
+
+msgid " (built-in):"
+msgstr ""
+
+msgid " (core dumped)"
+msgstr ""
+
+msgid " (don't care)"
+msgstr ""
+
+msgid " (name might be truncated)"
+msgstr ""
+
+msgid " (no default goal)"
+msgstr ""
+
+msgid " (no ~ expansion)"
+msgstr ""
+
+msgid " (remote)"
+msgstr ""
+
+msgid " (search path)"
+msgstr ""
+
+msgid " files, "
+msgstr ""
+
+msgid " impossibilities"
+msgstr ""
+
+msgid " impossibilities in %lu directories.\n"
+msgstr ""
+
+msgid " so far."
+msgstr ""
+
+msgid " terminal."
+msgstr ""
+
+msgid "#  A default, MAKEFILES, or -include/sinclude makefile."
+msgstr ""
+
+msgid "#  Also makes:"
+msgstr ""
+
+msgid "#  Failed to be updated."
+msgstr ""
+
+msgid "#  File does not exist."
+msgstr ""
+
+msgid "#  File has been updated."
+msgstr ""
+
+msgid "#  File has not been updated."
+msgstr ""
+
+msgid "#  File is an intermediate prerequisite."
+msgstr ""
+
+msgid "#  File is very old."
+msgstr ""
+
+msgid "#  Implicit rule search has been done."
+msgstr ""
+
+msgid "#  Implicit rule search has not been done."
+msgstr ""
+
+msgid "#  Last modified %s\n"
+msgstr ""
+
+msgid "#  Modification time never checked."
+msgstr ""
+
+msgid "#  Needs to be updated (-q is set)."
+msgstr ""
+
+msgid "#  Phony target (prerequisite of .PHONY)."
+msgstr ""
+
+msgid "#  Precious file (prerequisite of .PRECIOUS)."
+msgstr ""
+
+msgid "#  Successfully updated."
+msgstr ""
+
+msgid "# %s (device %d, inode [%d,%d,%d]): "
+msgstr ""
+
+msgid "# %s (device %d, inode [%d,%d,%d]): could not be opened.\n"
+msgstr ""
+
+msgid "# %s (device %ld, inode %ld): "
+msgstr ""
+
+msgid "# %s (device %ld, inode %ld): could not be opened.\n"
+msgstr ""
+
+msgid "# %s (key %s, mtime %d): "
+msgstr ""
+
+msgid "# %s (key %s, mtime %d): could not be opened.\n"
+msgstr ""
+
+msgid "# %s: could not be stat'd.\n"
+msgstr ""
+
+msgid "# Not a target:"
+msgstr ""
+
+msgid "# variable set hash-table stats:\n"
+msgstr ""
+
+msgid "%s (line %d) Bad shell context (!unixy && !batch_mode_shell)\n"
+msgstr ""
+
+msgid "%s is suspending for 30 seconds..."
+msgstr ""
+
+msgid "%s%s: %s"
+msgstr ""
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "%s: Command not found"
+msgstr ""
+
+msgid "%s: Entering an unknown directory\n"
+msgstr ""
+
+msgid "%s: Leaving an unknown directory\n"
+msgstr ""
+
+msgid "%s: Shell program not found"
+msgstr ""
+
+msgid "%s: Timestamp out of range; substituting %s"
+msgstr ""
+
+msgid "%s: illegal option -- %c\n"
+msgstr ""
+
+msgid "%s: invalid option -- %c\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- %c\n"
+msgstr ""
+
+msgid "%s: user %lu (real %lu), group %lu (real %lu)\n"
+msgstr ""
+
+msgid "%s[%u]: Entering an unknown directory\n"
+msgstr ""
+
+msgid "%s[%u]: Leaving an unknown directory\n"
+msgstr ""
+
+msgid "*** Break.\n"
+msgstr ""
+
+msgid "*** Waiting for unfinished jobs...."
+msgstr ""
+
+msgid "-warning, you may have to re-enable CTRL-Y handling from DCL.\n"
+msgstr ""
+
+msgid ".  Stop.\n"
+msgstr ""
+
+msgid ".DEFAULT_GOAL contains more than one target"
+msgstr ""
+
+msgid "Aborted"
+msgstr "མཚམས་བཞག་པ།"
+
+msgid "Alarm clock"
+msgstr ""
+
+msgid "Avoiding implicit rule recursion.\n"
+msgstr ""
+
+msgid "BUILTIN CD %s\n"
+msgstr ""
+
+msgid "BUILTIN [%s][%s]\n"
+msgstr ""
+
+msgid "Bad system call"
+msgstr ""
+
+msgid "Broken pipe"
+msgstr ""
+
+msgid "Bus error"
+msgstr ""
+
+msgid "CPU time limit exceeded"
+msgstr ""
+
+msgid "Cannot create a temporary file\n"
+msgstr ""
+
+msgid "Child access"
+msgstr ""
+
+msgid "Child exited"
+msgstr ""
+
+msgid "Circular %s <- %s dependency dropped."
+msgstr ""
+
+msgid "Cleaning up temp batch file %s\n"
+msgstr ""
+
+msgid "Cleaning up temporary batch file %s\n"
+msgstr ""
+
+msgid "Collisions=%ld/%ld=%.0f%%"
+msgstr ""
+
+msgid "Continued"
+msgstr ""
+
+msgid "Could not restore stdin\n"
+msgstr ""
+
+msgid "Could not restore stdout\n"
+msgstr ""
+
+msgid "Couldn't change back to original directory."
+msgstr ""
+
+msgid "CreatePipe() failed (e=%ld)\n"
+msgstr ""
+
+msgid "Creating temporary batch file %s\n"
+msgstr ""
+
+msgid "Current time"
+msgstr ""
+
+msgid "Customs won't export: %s\n"
+msgstr ""
+
+msgid "Danger signal"
+msgstr ""
+
+msgid "EMT trap"
+msgstr ""
+
+msgid "Error spawning, %d\n"
+msgstr ""
+
+msgid "Error, empty command\n"
+msgstr ""
+
+msgid "Executing %s instead\n"
+msgstr ""
+
+msgid "File size limit exceeded"
+msgstr ""
+
+msgid "Floating point co-processor not available"
+msgstr ""
+
+msgid "Floating point exception"
+msgstr "འཕྱོ་ཚེག་གྲངས་རྒྱུན་འགལ།"
+
+msgid "Hangup"
+msgstr ""
+
+msgid "I/O possible"
+msgstr ""
+
+msgid "IOT trap"
+msgstr ""
+
+msgid "Illegal Instruction"
+msgstr ""
+
+msgid "Information request"
+msgstr ""
+
+msgid "Initialized access"
+msgstr ""
+
+msgid "Interrupt"
+msgstr "བར་གཅོད།"
+
+msgid "Killed"
+msgstr ""
+
+msgid "Load=%ld/%ld=%.0f%%, "
+msgstr ""
+
+msgid "Make access"
+msgstr ""
+
+msgid "Makefile from standard input specified twice."
+msgstr ""
+
+msgid "Malformed target-specific variable definition"
+msgstr ""
+
+msgid "No"
+msgstr "མིན།"
+
+msgid "No targets"
+msgstr ""
+
+msgid "No targets specified and no makefile found"
+msgstr ""
+
+msgid "Options:\n"
+msgstr ""
+
+msgid "Parallel jobs (-j) are not supported on this platform."
+msgstr ""
+
+msgid "Power failure"
+msgstr ""
+
+msgid "Profiling timer expired"
+msgstr ""
+
+msgid "Quit"
+msgstr "ཕྱིར་འདོན་པ།"
+
+msgid "Re-executing[%u]:"
+msgstr ""
+
+msgid "Reading makefiles...\n"
+msgstr ""
+
+msgid "Redirected error to %s\n"
+msgstr ""
+
+msgid "Redirected input from %s\n"
+msgstr ""
+
+msgid "Redirected output to %s\n"
+msgstr ""
+
+msgid "Rehash=%d, "
+msgstr ""
+
+msgid "Removing intermediate files...\n"
+msgstr ""
+
+msgid "Report bugs to <bug-make@gnu.org>\n"
+msgstr ""
+
+msgid "Resetting to single job (-j1) mode."
+msgstr ""
+
+msgid "Resource lost"
+msgstr ""
+
+msgid "SIGPHONE"
+msgstr ""
+
+msgid "SIGWIND"
+msgstr ""
+
+msgid "Segmentation fault"
+msgstr ""
+
+msgid "Stopped"
+msgstr "མཚམས་བཞག"
+
+msgid "Stopped (signal)"
+msgstr ""
+
+msgid "Stopped (tty input)"
+msgstr ""
+
+msgid "Stopped (tty output)"
+msgstr ""
+
+msgid "Symbolic links not supported: disabling -L."
+msgstr ""
+
+msgid "Terminated"
+msgstr ""
+
+msgid "Trace/breakpoint trap"
+msgstr ""
+
+msgid "Unknown builtin command '%s'\n"
+msgstr ""
+
+msgid "Unknown error %d"
+msgstr ""
+
+msgid "Updating goal targets....\n"
+msgstr ""
+
+msgid "Updating makefiles....\n"
+msgstr ""
+
+msgid "Urgent I/O condition"
+msgstr ""
+
+msgid "Usage: %s [options] [target] ...\n"
+msgstr ""
+
+msgid "User access"
+msgstr "སྤྱོད་མཁན་གྱི་དབང་ཚད།"
+
+msgid "User defined signal 1"
+msgstr ""
+
+msgid "User defined signal 2"
+msgstr ""
+
+msgid "Virtual timer expired"
+msgstr ""
+
+msgid "Warning: Empty redirection\n"
+msgstr ""
+
+msgid "Window changed"
+msgstr ""
+
+msgid "automatic"
+msgstr "རང་འགུལ།"
+
+msgid "cannot enforce load limit: "
+msgstr ""
+
+msgid "cannot enforce load limits on this operating system"
+msgstr ""
+
+msgid "command line"
+msgstr "བཀའ་བརྡའི་ཕྲེང་།"
+
+msgid "creating jobs pipe"
+msgstr ""
+
+msgid "default"
+msgstr "སོར་བཞག"
+
+msgid "done sleep(30). Continuing.\n"
+msgstr ""
+
+msgid "dup jobserver"
+msgstr ""
+
+msgid "empty string invalid as file name"
+msgstr ""
+
+msgid "empty variable name"
+msgstr ""
+
+msgid "environment"
+msgstr "ཁོར་ཡུག"
+
+msgid "environment under -e"
+msgstr ""
+
+msgid "fopen (temporary file)"
+msgstr ""
+
+msgid "fwrite (temporary file)"
+msgstr ""
+
+msgid "init jobserver pipe"
+msgstr ""
+
+msgid "invalid syntax in conditional"
+msgstr ""
+
+msgid "makefile"
+msgstr ""
+
+msgid "missing target pattern"
+msgstr ""
+
+msgid "mixed implicit and normal rules"
+msgstr ""
+
+msgid "mixed implicit and static pattern rules"
+msgstr ""
+
+msgid "multiple target patterns"
+msgstr ""
+
+msgid "no"
+msgstr "མིན།"
+
+msgid "no more file handles: could not duplicate stdin\n"
+msgstr ""
+
+msgid "no more file handles: could not duplicate stdout\n"
+msgstr ""
+
+msgid "process_easy() failed to launch process (e=%ld)\n"
+msgstr ""
+
+msgid "read jobs pipe"
+msgstr ""
+
+msgid "spawnvpe: environment space might be exhausted"
+msgstr ""
+
+msgid "touch archive member is not available on VMS"
+msgstr ""
+
+msgid "unknown signal"
+msgstr ""
+
+msgid "unlink (temporary file): "
+msgstr ""
+
+msgid "unterminated variable reference"
+msgstr ""
+
+msgid "warning:  Clock skew detected.  Your build may be incomplete."
+msgstr ""
+
+msgid "warning: -jN forced in submake: disabling jobserver mode."
+msgstr ""
+
+msgid "warning: NUL character seen; rest of line ignored"
+msgstr ""
+
+msgid "write jobserver"
+msgstr ""

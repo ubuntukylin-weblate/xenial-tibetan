@@ -1,0 +1,2029 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid ""
+"\n"
+"\n"
+"RPM build errors:\n"
+msgstr ""
+
+msgid " (MISSING KEYS:"
+msgstr ""
+
+msgid " (UNTRUSTED KEYS:"
+msgstr ""
+
+msgid " failed - "
+msgstr ""
+
+msgid " on file "
+msgstr ""
+
+msgid "! only on numbers\n"
+msgstr ""
+
+msgid "\"%s\" specifies multiple packages:\n"
+msgstr ""
+
+msgid "%%changelog entries must start with *\n"
+msgstr ""
+
+msgid "%%changelog not in descending chronological order\n"
+msgstr ""
+
+msgid "%%dev glob not permitted: %s\n"
+msgstr ""
+
+msgid "%%patch without corresponding \"Patch:\" tag\n"
+msgstr ""
+
+msgid "%%semodule requires a file path\n"
+msgstr ""
+
+msgid "%%{buildroot} can not be \"/\"\n"
+msgstr ""
+
+msgid "%%{buildroot} couldn't be empty\n"
+msgstr ""
+
+msgid "%3d<%*s(empty)\n"
+msgstr ""
+
+msgid "%3d>%*s(empty)"
+msgstr ""
+
+msgid "%a %b %d %Y"
+msgstr ""
+
+msgid "%c"
+msgstr ""
+
+msgid "%s %d defined multiple times\n"
+msgstr ""
+
+msgid "%s %s: remove failed: %s\n"
+msgstr ""
+
+msgid "%s already contains identical signature, skipping\n"
+msgstr ""
+
+msgid "%s cannot be installed\n"
+msgstr ""
+
+msgid "%s conflicts with %s%s"
+msgstr ""
+
+msgid "%s created as %s\n"
+msgstr ""
+
+msgid "%s error(%d) from %s: %s\n"
+msgstr ""
+
+msgid "%s error(%d): %s\n"
+msgstr ""
+
+msgid "%s failed: %x\n"
+msgstr ""
+
+msgid "%s field must be present in package: %s\n"
+msgstr ""
+
+msgid "%s has invalid numeric value, skipped\n"
+msgstr ""
+
+msgid "%s has too large or too small integer value, skipped\n"
+msgstr ""
+
+msgid "%s has too large or too small long value, skipped\n"
+msgstr ""
+
+msgid "%s is a Delta RPM and cannot be directly installed\n"
+msgstr ""
+
+msgid "%s is needed by %s%s"
+msgstr ""
+
+msgid "%s is obsoleted by %s%s"
+msgstr ""
+
+msgid "%s saved as %s\n"
+msgstr ""
+
+msgid "%s scriptlet failed, exit status %d\n"
+msgstr ""
+
+msgid "%s scriptlet failed, signal %d\n"
+msgstr ""
+
+msgid "%s scriptlet failed, waitpid(%d) rc %d: %s\n"
+msgstr ""
+
+msgid "%s: %s\n"
+msgstr ""
+
+msgid "%s: %s: %s\n"
+msgstr ""
+
+msgid "%s: Fflush failed: %s\n"
+msgstr ""
+
+msgid "%s: Fread failed: %s\n"
+msgstr ""
+
+msgid "%s: Fwrite failed: %s\n"
+msgstr ""
+
+msgid "%s: can't load unknown tag (%d).\n"
+msgstr ""
+
+msgid "%s: cannot read header at 0x%x\n"
+msgstr ""
+
+msgid "%s: chroot directory not set\n"
+msgstr ""
+
+msgid "%s: failed to encode\n"
+msgstr ""
+
+msgid "%s: headerRead failed: %s\n"
+msgstr ""
+
+msgid "%s: import read failed(%d).\n"
+msgstr ""
+
+msgid "%s: key %d import failed.\n"
+msgstr ""
+
+msgid "%s: key %d not an armored public key.\n"
+msgstr ""
+
+msgid "%s: line: %s\n"
+msgstr ""
+
+msgid "%s: not an armored public key.\n"
+msgstr ""
+
+msgid "%s: not an rpm package (or package manifest)\n"
+msgstr ""
+
+msgid "%s: not an rpm package (or package manifest): %s\n"
+msgstr ""
+
+msgid "%s: open failed: %s\n"
+msgstr ""
+
+msgid "%s: option table misconfigured (%d)\n"
+msgstr ""
+
+msgid "%s: public key read failed.\n"
+msgstr ""
+
+msgid "%s: read manifest failed: %s\n"
+msgstr ""
+
+msgid "%s: reading of public key failed.\n"
+msgstr ""
+
+msgid "%s: regcomp failed: %s\n"
+msgstr ""
+
+msgid "%s: regexec failed: %s\n"
+msgstr ""
+
+msgid "%s: rpmReadSignature failed: %s"
+msgstr ""
+
+msgid "%s: rpmWriteSignature failed: %s\n"
+msgstr ""
+
+msgid "%s: writeLead failed: %s\n"
+msgstr ""
+
+msgid "%s:%d: Got a %%else with no %%if\n"
+msgstr ""
+
+msgid "%s:%d: Got a %%endif with no %%if\n"
+msgstr ""
+
+msgid "&& and || not suported for strings\n"
+msgstr ""
+
+msgid "'EXPR'"
+msgstr ""
+
+msgid "'MACRO EXPR'"
+msgstr ""
+
+msgid "(contains no files)\n"
+msgstr ""
+
+msgid "(installed) "
+msgstr ""
+
+msgid "(invalid type)"
+msgstr ""
+
+msgid "(invalid xml type)"
+msgstr ""
+
+msgid "(no error)"
+msgstr ""
+
+msgid "(no state)    "
+msgstr ""
+
+msgid "(none)"
+msgstr "(མེད།)"
+
+msgid "(not a blob)"
+msgstr ""
+
+msgid "(not a number)"
+msgstr ""
+
+msgid "(not a string)"
+msgstr ""
+
+msgid "(not an OpenPGP signature)"
+msgstr ""
+
+msgid "(not base64)"
+msgstr ""
+
+msgid "(unknown %3d) "
+msgstr ""
+
+msgid "(unknown)"
+msgstr "(ངེས་མེད)"
+
+msgid ")"
+msgstr "）"
+
+msgid ") "
+msgstr ""
+
+msgid "* / not suported for strings\n"
+msgstr ""
+
+msgid "- not suported for strings\n"
+msgstr ""
+
+msgid "- only on numbers\n"
+msgstr ""
+
+msgid "--allfiles may only be specified during package installation"
+msgstr ""
+
+msgid "--allmatches may only be specified during package erasure"
+msgstr ""
+
+msgid "--excludedocs may only be specified during package installation"
+msgstr ""
+
+msgid ""
+"--hash (-h) may only be specified during package installation and erasure"
+msgstr ""
+
+msgid "--ignorearch may only be specified during package installation"
+msgstr ""
+
+msgid "--ignoreos may only be specified during package installation"
+msgstr ""
+
+msgid "--ignoresize may only be specified during package installation"
+msgstr ""
+
+msgid "--includedocs may only be specified during package installation"
+msgstr ""
+
+msgid "--justdb may only be specified during package installation and erasure"
+msgstr ""
+
+msgid ""
+"--nodeps may only be specified during package installation, erasure, and "
+"verification"
+msgstr ""
+
+msgid ""
+"--percent may only be specified during package installation and erasure"
+msgstr ""
+
+msgid "--prefix may only be used when installing new packages"
+msgstr ""
+
+msgid ""
+"--relocate and --excludepath may only be used when installing new packages"
+msgstr ""
+
+msgid "--replacepkgs may only be specified during package installation"
+msgstr ""
+
+msgid "--test may only be specified during package installation and erasure"
+msgstr ""
+
+msgid "<FILE:...>"
+msgstr ""
+
+msgid "<dir>"
+msgstr ""
+
+msgid "<lua> scriptlet support not built in\n"
+msgstr ""
+
+msgid "<old>=<new>"
+msgstr ""
+
+msgid "<package>+"
+msgstr ""
+
+msgid "<packagefile>+"
+msgstr ""
+
+msgid "<path>"
+msgstr ""
+
+msgid "<source package>"
+msgstr ""
+
+msgid "<specfile>"
+msgstr ""
+
+msgid "<tarball>"
+msgstr ""
+
+msgid "======================== active %d empty %d\n"
+msgstr ""
+
+msgid "A %% is followed by an unparseable macro\n"
+msgstr ""
+
+msgid "Arch dependent binaries in noarch package\n"
+msgstr ""
+
+msgid "Architecture is excluded: %s\n"
+msgstr ""
+
+msgid "Architecture is not included: %s\n"
+msgstr ""
+
+msgid "Archive file not in header"
+msgstr ""
+
+msgid "Bad CSA data\n"
+msgstr ""
+
+msgid "Bad arch/os number: %s (%s:%d)\n"
+msgstr ""
+
+msgid "Bad dirmode spec: %s(%s)\n"
+msgstr ""
+
+msgid "Bad exit status from %s (%s)\n"
+msgstr ""
+
+msgid "Bad file: %s: %s\n"
+msgstr ""
+
+msgid "Bad magic"
+msgstr ""
+
+msgid "Bad mode spec: %s(%s)\n"
+msgstr ""
+
+msgid "Bad owner/group: %s\n"
+msgstr ""
+
+msgid "Bad package specification: %s\n"
+msgstr ""
+
+msgid "Bad source: %s: %s\n"
+msgstr ""
+
+msgid "Bad syntax: %s(%s)\n"
+msgstr ""
+
+msgid "Bad/unreadable  header"
+msgstr ""
+
+msgid "Base modules '%s' and '%s' have overlapping types\n"
+msgstr ""
+
+msgid "Binaries arch (%d) not matching the package arch (%d).\n"
+msgstr ""
+
+msgid "Build options with [ <specfile> | <tarball> | <source package> ]:"
+msgstr ""
+
+msgid "Building for target %s\n"
+msgstr ""
+
+msgid "Building target platforms: %s\n"
+msgstr ""
+
+msgid "CMD"
+msgstr ""
+
+msgid "Cannot sign RPM v3 packages\n"
+msgstr ""
+
+msgid "Checking for unpackaged file(s): %s\n"
+msgstr ""
+
+msgid "Cleaning up / removing...\n"
+msgstr ""
+
+msgid "Common options for all rpm modes and executables:"
+msgstr ""
+
+msgid "Conversion of %s to long integer failed.\n"
+msgstr ""
+
+msgid "Copyright (C) 1998-2002 - Red Hat, Inc.\n"
+msgstr ""
+
+msgid "Could not canonicalize hostname: %s\n"
+msgstr ""
+
+msgid "Could not exec %s: %s\n"
+msgstr ""
+
+msgid "Could not generate output filename for package %s: %s\n"
+msgstr ""
+
+msgid "Could not open %%files file %s: %m\n"
+msgstr ""
+
+msgid "Could not open %s file: %s\n"
+msgstr ""
+
+msgid "Could not open %s: %s\n"
+msgstr ""
+
+msgid "Couldn't create pipe for %s: %m\n"
+msgstr ""
+
+msgid "Couldn't create pipe for signing: %m"
+msgstr ""
+
+msgid "Couldn't create temporary file for %s: %s\n"
+msgstr ""
+
+msgid "Couldn't download %s\n"
+msgstr ""
+
+msgid "Couldn't exec %s: %s\n"
+msgstr ""
+
+msgid "Couldn't fork %s: %s\n"
+msgstr ""
+
+msgid "DIRECTORY"
+msgstr "དཀར་ཆག"
+
+msgid "Database options:"
+msgstr ""
+
+msgid "Digest mismatch"
+msgstr ""
+
+msgid "Directory not found by glob: %s\n"
+msgstr ""
+
+msgid "Directory not found: %s\n"
+msgstr ""
+
+msgid "Downloading %s to %s\n"
+msgstr ""
+
+msgid "Duplicate %s entries in package: %s\n"
+msgstr ""
+
+msgid "Duplicate locale %s in %%lang(%s)\n"
+msgstr ""
+
+msgid "Empty file classifier\n"
+msgstr ""
+
+msgid "Enter pass phrase: "
+msgstr ""
+
+msgid "Error executing scriptlet %s (%s)\n"
+msgstr ""
+
+msgid "Error parsing %%setup: %s\n"
+msgstr ""
+
+msgid "Error parsing %s: %s\n"
+msgstr ""
+
+msgid "Error parsing tag field: %s\n"
+msgstr ""
+
+msgid "Error reading %%files file %s: %m\n"
+msgstr ""
+
+msgid "Exec of %s failed (%s): %s\n"
+msgstr ""
+
+msgid "Executing \"%s\":\n"
+msgstr ""
+
+msgid "Executing(%s): %s\n"
+msgstr ""
+
+msgid "Execution of \"%s\" failed.\n"
+msgstr ""
+
+msgid "Failed build dependencies:\n"
+msgstr ""
+
+msgid "Failed dependencies:\n"
+msgstr ""
+
+msgid "Failed to determine a policy name: %s\n"
+msgstr ""
+
+msgid "Failed to dlopen %s %s\n"
+msgstr ""
+
+msgid "Failed to encode policy file: %s\n"
+msgstr ""
+
+msgid "Failed to find %s:\n"
+msgstr ""
+
+msgid "Failed to get policies from header\n"
+msgstr ""
+
+msgid "Failed to open tar pipe: %m\n"
+msgstr ""
+
+msgid "Failed to read  policy file: %s\n"
+msgstr ""
+
+msgid "Failed to read auxiliary vector, /proc not mounted?\n"
+msgstr ""
+
+msgid "Failed to read spec file from %s\n"
+msgstr ""
+
+msgid "Failed to rename %s to %s: %m\n"
+msgstr ""
+
+msgid "Failed to resolve symbol %s: %s\n"
+msgstr ""
+
+msgid "File %s does not appear to be a specfile.\n"
+msgstr ""
+
+msgid "File %s is not a regular file.\n"
+msgstr ""
+
+msgid "File %s is smaller than %u bytes\n"
+msgstr ""
+
+msgid "File %s: %s\n"
+msgstr ""
+
+msgid "File capability support not built in\n"
+msgstr ""
+
+msgid "File listed twice: %s\n"
+msgstr ""
+
+msgid "File must begin with \"/\": %s\n"
+msgstr ""
+
+msgid "File needs leading \"/\": %s\n"
+msgstr ""
+
+msgid "File not found by glob: %s\n"
+msgstr ""
+
+msgid "File not found: %s\n"
+msgstr ""
+
+msgid "File too large for archive"
+msgstr ""
+
+msgid "Finding  %s: %s\n"
+msgstr ""
+
+msgid "Fread failed: %s"
+msgstr ""
+
+msgid "Header "
+msgstr ""
+
+msgid "Header SHA1 digest:"
+msgstr ""
+
+msgid "Header size too big"
+msgstr ""
+
+msgid "Ignoring invalid regex %s\n"
+msgstr ""
+
+msgid "Incomplete default line at %s:%d\n"
+msgstr ""
+
+msgid "Install/Upgrade/Erase options:"
+msgstr ""
+
+msgid ""
+"Installed (but unpackaged) file(s) found:\n"
+"%s"
+msgstr ""
+
+msgid "Installing %s\n"
+msgstr ""
+
+msgid "Internal error"
+msgstr "ནང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+
+msgid "Internal error: Bogus tag %d\n"
+msgstr ""
+
+msgid "Invalid %s token: %s\n"
+msgstr ""
+
+msgid "Invalid capability: %s\n"
+msgstr ""
+
+msgid "Invalid date %u"
+msgstr ""
+
+msgid "Invalid patch number %s: %s\n"
+msgstr ""
+
+msgid "Keyring options:"
+msgstr ""
+
+msgid "MACRO"
+msgstr ""
+
+msgid "MD5 digest:"
+msgstr ""
+
+msgid "Macro %%%s defined but not used within scope\n"
+msgstr ""
+
+msgid "Macro %%%s failed to expand\n"
+msgstr ""
+
+msgid "Macro %%%s has empty body\n"
+msgstr ""
+
+msgid "Macro %%%s has illegal name (%%define)\n"
+msgstr ""
+
+msgid "Macro %%%s has illegal name (%%undefine)\n"
+msgstr ""
+
+msgid "Macro %%%s has unterminated body\n"
+msgstr ""
+
+msgid "Macro %%%s has unterminated opts\n"
+msgstr ""
+
+msgid "Macro %%%s needs whitespace before body\n"
+msgstr ""
+
+msgid "Missing %s in %s %s\n"
+msgstr ""
+
+msgid "Missing '(' in %s %s\n"
+msgstr ""
+
+msgid "Missing ')' in %s(%s\n"
+msgstr ""
+
+msgid "Missing file(s)"
+msgstr "ཡིག་ཆ་བོར་བ།"
+
+msgid "Missing module path in line: %s\n"
+msgstr ""
+
+msgid "Missing rpmlib features for %s:\n"
+msgstr ""
+
+msgid "More than one file on a line: %s\n"
+msgstr ""
+
+msgid "NO "
+msgstr ""
+
+msgid "NOT OK"
+msgstr ""
+
+msgid "No \"Source:\" tag in the spec file\n"
+msgstr ""
+
+msgid "No compatible architectures found for build\n"
+msgstr ""
+
+msgid "No file attributes configured\n"
+msgstr ""
+
+msgid "No patch number %u\n"
+msgstr ""
+
+msgid "No source number %u\n"
+msgstr ""
+
+msgid "Non-white space follows %s(): %s\n"
+msgstr ""
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "OS is excluded: %s\n"
+msgstr ""
+
+msgid "OS is not included: %s\n"
+msgstr ""
+
+msgid "Package already exists: %s\n"
+msgstr ""
+
+msgid "Package check \"%s\" failed.\n"
+msgstr ""
+
+msgid "Package has no %%description: %s\n"
+msgstr ""
+
+msgid "Pass phrase check failed or gpg key expired\n"
+msgstr ""
+
+msgid "Pass phrase is good.\n"
+msgstr ""
+
+msgid "Please contact %s\n"
+msgstr ""
+
+msgid "Plugin %s not loaded\n"
+msgstr ""
+
+msgid "Policy module '%s' duplicated with overlapping types\n"
+msgstr ""
+
+msgid "PreReq:, Provides:, and Obsoletes: dependencies support versions."
+msgstr ""
+
+msgid "Preparing packages..."
+msgstr ""
+
+msgid "Preparing..."
+msgstr "སྟ་གོན་བྱེད་བཞིན་པ།..."
+
+msgid "Processing files: %s\n"
+msgstr ""
+
+msgid "Processing policies: %s\n"
+msgstr ""
+
+msgid "Query options (with -q or --query):"
+msgstr ""
+
+msgid "Query/Verify package selection options:"
+msgstr ""
+
+msgid "ROOT"
+msgstr ""
+
+msgid "RPM version %s\n"
+msgstr ""
+
+msgid "Recognition of file \"%s\" failed: mode %06o %s\n"
+msgstr ""
+
+msgid "Retrieving %s\n"
+msgstr ""
+
+msgid "Signature options:"
+msgstr ""
+
+msgid "Spec options:"
+msgstr ""
+
+msgid "Symlink points to BuildRoot: %s -> %s\n"
+msgstr ""
+
+msgid ""
+"This program may be freely redistributed under the terms of the GNU GPL\n"
+msgstr ""
+
+msgid "Too many args in data line at %s:%d\n"
+msgstr ""
+
+msgid "Too many args in default line at %s:%d\n"
+msgstr ""
+
+msgid "Too many arguments in line: %s\n"
+msgstr ""
+
+msgid ""
+"Too many levels of recursion in macro expansion. It is likely caused by "
+"recursive macro declaration.\n"
+msgstr ""
+
+msgid "Unable to change root directory: %m\n"
+msgstr ""
+
+msgid "Unable to create immutable header region.\n"
+msgstr ""
+
+msgid "Unable to open %s for reading: %m.\n"
+msgstr ""
+
+msgid "Unable to open %s: %s\n"
+msgstr ""
+
+msgid "Unable to open current directory: %m\n"
+msgstr ""
+
+msgid "Unable to open icon %s: %s\n"
+msgstr ""
+
+msgid "Unable to open spec file %s: %s\n"
+msgstr ""
+
+msgid "Unable to open stream: %s\n"
+msgstr ""
+
+msgid "Unable to open temp file: %s\n"
+msgstr ""
+
+msgid "Unable to read icon %s: %s\n"
+msgstr ""
+
+msgid "Unable to reload signature header.\n"
+msgstr ""
+
+msgid "Unable to restore current directory: %m"
+msgstr ""
+
+msgid "Unable to restore root directory: %m\n"
+msgstr ""
+
+msgid "Unable to write package: %s\n"
+msgstr ""
+
+msgid "Unable to write temp header\n"
+msgstr ""
+
+msgid "Unknown file digest algorithm %u, falling back to MD5\n"
+msgstr ""
+
+msgid "Unknown file type"
+msgstr "ངེས་མེད་ཀྱི་ཡིག་ཆའི་རིགས་གྲས།"
+
+msgid "Unknown format"
+msgstr ""
+
+msgid "Unknown icon type: %s\n"
+msgstr ""
+
+msgid "Unknown option %c in %s(%s)\n"
+msgstr ""
+
+msgid "Unknown payload compression: %s\n"
+msgstr ""
+
+msgid "Unknown system: %s\n"
+msgstr ""
+
+msgid "Unsatisfied dependencies for %s:\n"
+msgstr ""
+
+msgid "Unsupported PGP hash algorithm %u\n"
+msgstr ""
+
+msgid "Unsupported PGP pubkey algorithm %u\n"
+msgstr ""
+
+msgid "Unsupported PGP signature\n"
+msgstr ""
+
+msgid "Unterminated %c: %s\n"
+msgstr ""
+
+msgid "Unusual locale length: \"%s\" in %%lang(%s)\n"
+msgstr ""
+
+msgid "Updating / installing...\n"
+msgstr ""
+
+msgid "V%d %s/%s %s, key ID %s"
+msgstr ""
+
+msgid "Verify options (with -V or --verify):"
+msgstr ""
+
+msgid "Verify signature: BAD PARAMETERS (%d %p %d %p %p)"
+msgstr ""
+
+msgid "Version required"
+msgstr ""
+
+msgid "Versioned file name not permitted"
+msgstr ""
+
+msgid "Wrote: %s\n"
+msgstr ""
+
+msgid "YES"
+msgstr "ཡིན།"
+
+msgid "You must set \"%%_gpg_name\" in your macro file\n"
+msgstr ""
+
+msgid "[none]"
+msgstr ""
+
+msgid "a hardlink file set may be installed without being complete."
+msgstr ""
+
+msgid "argument is not an RPM package\n"
+msgstr ""
+
+msgid "arguments to --prefix must begin with a /"
+msgstr ""
+
+msgid "arguments to --root (-r) must begin with a /"
+msgstr ""
+
+msgid "array iterator used with different sized arrays"
+msgstr ""
+
+msgid "bad date in %%changelog: %s\n"
+msgstr ""
+
+msgid "bad format"
+msgstr ""
+
+msgid "bad operator"
+msgstr ""
+
+msgid "bad option '%s' at %s:%d\n"
+msgstr ""
+
+msgid "bogus date in %%changelog: %s\n"
+msgstr ""
+
+msgid "build binary package from <source package>"
+msgstr ""
+
+msgid "build binary package only from <specfile>"
+msgstr ""
+
+msgid "build binary package only from <tarball>"
+msgstr ""
+
+msgid "build source and binary packages from <specfile>"
+msgstr ""
+
+msgid "build source and binary packages from <tarball>"
+msgstr ""
+
+msgid "build source package only from <specfile>"
+msgstr ""
+
+msgid "build source package only from <tarball>"
+msgstr ""
+
+msgid "build through %build (%prep, then compile) from <specfile>"
+msgstr ""
+
+msgid "build through %build (%prep, then compile) from <tarball>"
+msgstr ""
+
+msgid ""
+"build through %install (%prep, %build, then install) from <source package>"
+msgstr ""
+
+msgid "build through %install (%prep, %build, then install) from <specfile>"
+msgstr ""
+
+msgid "build through %install (%prep, %build, then install) from <tarball>"
+msgstr ""
+
+msgid "build through %prep (unpack sources and apply patches) from <specfile>"
+msgstr ""
+
+msgid "build through %prep (unpack sources and apply patches) from <tarball>"
+msgstr ""
+
+msgid "buildroot already specified, ignoring %s\n"
+msgstr ""
+
+msgid "cannot add record originally at %u\n"
+msgstr ""
+
+msgid "cannot create %s: %s\n"
+msgstr ""
+
+msgid "cannot get %s lock on %s/%s\n"
+msgstr ""
+
+msgid "cannot open %s at %s:%d: %m\n"
+msgstr ""
+
+msgid "cannot open %s: %s\n"
+msgstr ""
+
+msgid "cannot open Packages database in %s\n"
+msgstr ""
+
+msgid "cannot re-open payload: %s\n"
+msgstr ""
+
+msgid "cannot use --prefix with --relocate or --excludepath"
+msgstr ""
+
+msgid "create archive failed on file %s: %s\n"
+msgstr ""
+
+msgid "create archive failed: %s\n"
+msgstr ""
+
+msgid "creating a pipe for --pipe failed: %m\n"
+msgstr ""
+
+msgid "debug file state machine"
+msgstr ""
+
+msgid "debug payload file state machine"
+msgstr ""
+
+msgid "debug rpmio I/O"
+msgstr ""
+
+msgid "define MACRO with value EXPR"
+msgstr ""
+
+msgid "delete package signatures"
+msgstr ""
+
+msgid "different"
+msgstr ""
+
+msgid "directory"
+msgstr "དཀར་ཆག"
+
+msgid "display final rpmrc and macro configuration"
+msgstr ""
+
+msgid "display known query tags"
+msgstr ""
+
+msgid "display the states of the listed files"
+msgstr ""
+
+msgid "do not accept i18N msgstr's from specfile"
+msgstr ""
+
+msgid "do not execute %%post scriptlet (if any)"
+msgstr ""
+
+msgid "do not execute %%postun scriptlet (if any)"
+msgstr ""
+
+msgid "do not execute %%pre scriptlet (if any)"
+msgstr ""
+
+msgid "do not execute %%preun scriptlet (if any)"
+msgstr ""
+
+msgid "do not execute %check stage of the build"
+msgstr ""
+
+msgid "do not execute %clean stage of the build"
+msgstr ""
+
+msgid "do not execute any %%triggerin scriptlet(s)"
+msgstr ""
+
+msgid "do not execute any %%triggerpostun scriptlet(s)"
+msgstr ""
+
+msgid "do not execute any %%triggerprein scriptlet(s)"
+msgstr ""
+
+msgid "do not execute any %%triggerun scriptlet(s)"
+msgstr ""
+
+msgid "do not execute any scriptlet(s) triggered by this package"
+msgstr ""
+
+msgid "do not execute any stages of the build"
+msgstr ""
+
+msgid "do not execute package scriptlet(s)"
+msgstr ""
+
+msgid "do not glob arguments"
+msgstr ""
+
+msgid "do not install configuration files"
+msgstr ""
+
+msgid "do not install documentation"
+msgstr ""
+
+msgid "do not process non-package files as manifests"
+msgstr ""
+
+msgid "do not reorder package installation to satisfy dependencies"
+msgstr ""
+
+msgid "do not verify build dependencies"
+msgstr ""
+
+msgid "do not verify package dependencies"
+msgstr ""
+
+msgid "don't check disk space before installing"
+msgstr ""
+
+msgid "don't execute verify script(s)"
+msgstr ""
+
+msgid "don't import, but tell if it would work or not"
+msgstr ""
+
+msgid "don't install file security contexts"
+msgstr ""
+
+msgid "don't install, but tell if it would work or not"
+msgstr ""
+
+msgid "don't verify capabilities of files"
+msgstr ""
+
+msgid "don't verify database header(s) when retrieved"
+msgstr ""
+
+msgid "don't verify digest of files"
+msgstr ""
+
+msgid "don't verify digest of files (obsolete)"
+msgstr ""
+
+msgid "don't verify file security contexts"
+msgstr ""
+
+msgid "don't verify files in package"
+msgstr ""
+
+msgid "don't verify group of files"
+msgstr ""
+
+msgid "don't verify header+payload signature"
+msgstr ""
+
+msgid "don't verify mode of files"
+msgstr ""
+
+msgid "don't verify modification time of files"
+msgstr ""
+
+msgid "don't verify owner of files"
+msgstr ""
+
+msgid "don't verify package architecture"
+msgstr ""
+
+msgid "don't verify package dependencies"
+msgstr ""
+
+msgid "don't verify package digest(s)"
+msgstr ""
+
+msgid "don't verify package operating system"
+msgstr ""
+
+msgid "don't verify package signature(s)"
+msgstr ""
+
+msgid "don't verify size of files"
+msgstr ""
+
+msgid "don't verify symlink path of files"
+msgstr ""
+
+msgid "dump basic file information"
+msgstr ""
+
+msgid "empty tag format"
+msgstr ""
+
+msgid "empty tag name"
+msgstr ""
+
+msgid "erase"
+msgstr "འདོར་བ།"
+
+msgid "erase (uninstall) package"
+msgstr ""
+
+msgid "error creating temporary file %s: %m\n"
+msgstr ""
+
+msgid "error reading from file %s\n"
+msgstr ""
+
+msgid "error reading header from package\n"
+msgstr ""
+
+msgid "error: "
+msgstr "ནོར་འཁྲུལ།"
+
+msgid "exclude paths must begin with a /"
+msgstr ""
+
+msgid "exclusive"
+msgstr ""
+
+msgid "exec failed\n"
+msgstr ""
+
+msgid "extra '(' in package label: %s\n"
+msgstr ""
+
+msgid "failed"
+msgstr " ཕམ་པ།"
+
+msgid "failed to create directory"
+msgstr ""
+
+msgid "failed to create directory %s: %s\n"
+msgstr ""
+
+msgid "failed to load macro file %s"
+msgstr ""
+
+msgid "failed to rebuild database: original database remains in place\n"
+msgstr ""
+
+msgid "failed to remove directory %s: %s\n"
+msgstr ""
+
+msgid "failed to replace old database with new database!\n"
+msgstr ""
+
+msgid "failed to stat %s: %m\n"
+msgstr ""
+
+msgid "failed to write all data to %s: %s\n"
+msgstr ""
+
+msgid "fatal error: "
+msgstr "ནོར་འཁྲུལ་ཚབ་ཆེན།"
+
+msgid "file"
+msgstr "ཡིག་ཆ།"
+
+msgid "file %s conflicts between attempted installs of %s and %s"
+msgstr ""
+
+msgid "file %s is not owned by any package\n"
+msgstr ""
+
+msgid "file %s: %s\n"
+msgstr ""
+
+msgid "files may only be relocated during package installation"
+msgstr ""
+
+msgid "generate package header(s) compatible with (legacy) rpm v3 packaging"
+msgstr ""
+
+msgid "gpg exec failed (%d)\n"
+msgstr ""
+
+msgid "gpg failed to write signature\n"
+msgstr ""
+
+msgid "group %s does not contain any packages\n"
+msgstr ""
+
+msgid "group %s does not exist - using root\n"
+msgstr ""
+
+msgid "header tags are always sorted after being loaded."
+msgstr ""
+
+msgid "ignore ExcludeArch: directives from spec file"
+msgstr ""
+
+msgid "ignore file conflicts between packages"
+msgstr ""
+
+msgid "illegal _docdir_fmt %s: %s\n"
+msgstr ""
+
+msgid "illegal signature type"
+msgstr ""
+
+msgid "import an armored public key"
+msgstr ""
+
+msgid "incomplete %%changelog entry\n"
+msgstr ""
+
+msgid "incorrect format: %s\n"
+msgstr ""
+
+msgid "initialize database"
+msgstr ""
+
+msgid "install"
+msgstr "སྒྲིག་འཇུག"
+
+msgid ""
+"install all files, even configurations which might otherwise be skipped"
+msgstr ""
+
+msgid "install documentation"
+msgstr ""
+
+msgid "install package(s)"
+msgstr ""
+
+msgid "internal support for lua scripts."
+msgstr ""
+
+msgid "invalid dependency"
+msgstr ""
+
+msgid "invalid field width"
+msgstr ""
+
+msgid "invalid index type %x on %s/%s\n"
+msgstr ""
+
+msgid "invalid package number: %s\n"
+msgstr ""
+
+msgid "invalid syntax in lua file: %s\n"
+msgstr ""
+
+msgid "invalid syntax in lua script: %s\n"
+msgstr ""
+
+msgid "invalid syntax in lua scriptlet: %s\n"
+msgstr ""
+
+msgid "line %d: %s\n"
+msgstr ""
+
+msgid "line %d: %s is deprecated: %s\n"
+msgstr ""
+
+msgid "line %d: %s: %s\n"
+msgstr ""
+
+msgid "line %d: Bad %%setup option %s: %s\n"
+msgstr ""
+
+msgid "line %d: Bad %s number: %s\n"
+msgstr ""
+
+msgid "line %d: Bad %s: qualifiers: %s\n"
+msgstr ""
+
+msgid "line %d: Bad BuildArchitecture format: %s\n"
+msgstr ""
+
+msgid "line %d: Bad arg to %%setup: %s\n"
+msgstr ""
+
+msgid "line %d: Bad no%s number: %u\n"
+msgstr ""
+
+msgid "line %d: Bad number: %s\n"
+msgstr ""
+
+msgid "line %d: Bad option %s: %s\n"
+msgstr ""
+
+msgid "line %d: Docdir must begin with '/': %s\n"
+msgstr ""
+
+msgid "line %d: Empty tag: %s\n"
+msgstr ""
+
+msgid "line %d: Epoch field must be an unsigned number: %s\n"
+msgstr ""
+
+msgid "line %d: Error parsing %%description: %s\n"
+msgstr ""
+
+msgid "line %d: Error parsing %%files: %s\n"
+msgstr ""
+
+msgid "line %d: Error parsing %%policies: %s\n"
+msgstr ""
+
+msgid "line %d: Error parsing %s: %s\n"
+msgstr ""
+
+msgid "line %d: Illegal char '%c' in: %s\n"
+msgstr ""
+
+msgid "line %d: Illegal char in: %s\n"
+msgstr ""
+
+msgid "line %d: Illegal sequence \"..\" in: %s\n"
+msgstr ""
+
+msgid "line %d: Malformed tag: %s\n"
+msgstr ""
+
+msgid "line %d: Only noarch subpackages are supported: %s\n"
+msgstr ""
+
+msgid "line %d: Package does not exist: %s\n"
+msgstr ""
+
+msgid "line %d: Prefixes must not end with \"/\": %s\n"
+msgstr ""
+
+msgid "line %d: Second %s\n"
+msgstr ""
+
+msgid "line %d: Tag takes single token only: %s\n"
+msgstr ""
+
+msgid "line %d: Too many names: %s\n"
+msgstr ""
+
+msgid "line %d: Unclosed %%if\n"
+msgstr ""
+
+msgid "line %d: Unknown tag: %s\n"
+msgstr ""
+
+msgid "line %d: internal script must end with '>': %s\n"
+msgstr ""
+
+msgid "line %d: script program must begin with '/': %s\n"
+msgstr ""
+
+msgid "line %d: second %%prep\n"
+msgstr ""
+
+msgid "line %d: second %s\n"
+msgstr ""
+
+msgid "line %d: triggers must have --: %s\n"
+msgstr ""
+
+msgid "line %d: unsupported internal script: %s\n"
+msgstr ""
+
+msgid "line: %s\n"
+msgstr ""
+
+msgid "list all configuration files"
+msgstr ""
+
+msgid "list all documentation files"
+msgstr ""
+
+msgid "list all license files"
+msgstr ""
+
+msgid "list files in package"
+msgstr ""
+
+msgid "list keys from RPM keyring"
+msgstr ""
+
+msgid "lua hook failed: %s\n"
+msgstr ""
+
+msgid "lua script failed: %s\n"
+msgstr ""
+
+msgid "magic_load failed: %s\n"
+msgstr ""
+
+msgid "magic_open(0x%x) failed: %s\n"
+msgstr ""
+
+msgid "malformed %s: %s\n"
+msgstr ""
+
+msgid "memory alloc (%u bytes) returned NULL.\n"
+msgstr ""
+
+msgid "miFreeHeader: skipping"
+msgstr ""
+
+msgid "missing"
+msgstr ""
+
+msgid "missing   %c %s"
+msgstr ""
+
+msgid "missing '(' in package label: %s\n"
+msgstr ""
+
+msgid "missing ')' in package label: %s\n"
+msgstr ""
+
+msgid "missing ':' (found 0x%02x) at %s:%d\n"
+msgstr ""
+
+msgid "missing architecture name at %s:%d\n"
+msgstr ""
+
+msgid "missing argument for %s at %s:%d\n"
+msgstr ""
+
+msgid "missing name in %%changelog\n"
+msgstr ""
+
+msgid "missing second ':' at %s:%d\n"
+msgstr ""
+
+msgid "missing { after %"
+msgstr ""
+
+msgid "missing } after %{"
+msgstr ""
+
+msgid "net shared"
+msgstr ""
+
+msgid "net shared    "
+msgstr ""
+
+msgid "no arguments given"
+msgstr ""
+
+msgid "no arguments given for parse"
+msgstr ""
+
+msgid "no arguments given for query"
+msgstr ""
+
+msgid "no arguments given for verify"
+msgstr ""
+
+msgid "no dbpath has been set"
+msgstr ""
+
+msgid "no dbpath has been set\n"
+msgstr ""
+
+msgid "no description in %%changelog\n"
+msgstr ""
+
+msgid "no package matches %s: %s\n"
+msgstr ""
+
+msgid "no package provides %s\n"
+msgstr ""
+
+msgid "no package requires %s\n"
+msgstr ""
+
+msgid "no package triggers %s\n"
+msgstr ""
+
+msgid "no packages given for erase"
+msgstr ""
+
+msgid "no packages given for install"
+msgstr ""
+
+msgid "no state"
+msgstr ""
+
+msgid "normal"
+msgstr "རྒྱུན་ལྡན།"
+
+msgid "normal        "
+msgstr ""
+
+msgid "not an rpm package"
+msgstr ""
+
+msgid "not an rpm package\n"
+msgstr ""
+
+msgid "not installed"
+msgstr "སྒྲིག་འཇུག་བྱས་མེད།"
+
+msgid "not installed "
+msgstr ""
+
+msgid "one type of query/verify may be performed at a time"
+msgstr ""
+
+msgid "only installation and upgrading may be forced"
+msgstr ""
+
+msgid "only one major mode may be specified"
+msgstr ""
+
+msgid "only one of --excludedocs and --includedocs may be specified"
+msgstr ""
+
+msgid "open of %s failed: %s\n"
+msgstr ""
+
+msgid "operate on binary rpms generated by spec (default)"
+msgstr ""
+
+msgid "operate on source rpm generated by spec"
+msgstr ""
+
+msgid "override build root"
+msgstr ""
+
+msgid "override target platform"
+msgstr ""
+
+msgid "package %s (which is newer than %s) is already installed"
+msgstr ""
+
+msgid "package %s is already installed"
+msgstr ""
+
+msgid "package %s is intended for a %s architecture"
+msgstr ""
+
+msgid "package %s is intended for a %s operating system"
+msgstr ""
+
+msgid "package %s is not installed\n"
+msgstr ""
+
+msgid "package %s is not relocatable\n"
+msgstr ""
+
+msgid "package %s was already added, replacing with %s\n"
+msgstr ""
+
+msgid "package %s was already added, skipping %s\n"
+msgstr ""
+
+msgid "package has neither file owner or id lists\n"
+msgstr ""
+
+msgid "package has not file owner/group lists\n"
+msgstr ""
+
+msgid "package name-version-release is not implicitly provided."
+msgstr ""
+
+msgid "package payload can be compressed using bzip2."
+msgstr ""
+
+msgid "package payload can be compressed using lzma."
+msgstr ""
+
+msgid "package payload can be compressed using xz."
+msgstr ""
+
+msgid "package payload file(s) have \"./\" prefix."
+msgstr ""
+
+msgid "package scriptlets may access the rpm database while installing."
+msgstr ""
+
+msgid "parse error in expression\n"
+msgstr ""
+
+msgid "parse spec file(s) to stdout"
+msgstr ""
+
+msgid "path %s in package %s is not relocatable"
+msgstr ""
+
+msgid "predefine MACRO with value EXPR"
+msgstr ""
+
+msgid "print dependency loops as warning"
+msgstr ""
+
+msgid "print hash marks as package installs (good with -v)"
+msgstr ""
+
+msgid "print macro expansion of EXPR"
+msgstr ""
+
+msgid "print percentages as package installs"
+msgstr ""
+
+msgid "print the version of rpm being used"
+msgstr ""
+
+msgid "provide less detailed output"
+msgstr ""
+
+msgid "provide more detailed output"
+msgstr ""
+
+msgid "query of specfile %s failed, can't parse\n"
+msgstr ""
+
+msgid "query spec file(s)"
+msgstr ""
+
+msgid "query/verify a header instance"
+msgstr ""
+
+msgid "query/verify a package file"
+msgstr ""
+
+msgid "query/verify all packages"
+msgstr ""
+
+msgid "query/verify package(s) in group"
+msgstr ""
+
+msgid "query/verify package(s) owning file"
+msgstr ""
+
+msgid "query/verify package(s) with header identifier"
+msgstr ""
+
+msgid "query/verify package(s) with package identifier"
+msgstr ""
+
+msgid "query/verify the package(s) which provide a dependency"
+msgstr ""
+
+msgid "query/verify the package(s) which require a dependency"
+msgstr ""
+
+msgid "read <FILE:...> instead of default file(s)"
+msgstr ""
+
+msgid "read failed: %s (%d)\n"
+msgstr ""
+
+msgid "reading symlink %s failed: %s\n"
+msgstr ""
+
+msgid "rebuild database inverted lists from installed package headers"
+msgstr ""
+
+msgid "record %u could not be read\n"
+msgstr ""
+
+msgid "reinstall if the package is already present"
+msgstr ""
+
+msgid "reinstall package(s)"
+msgstr ""
+
+msgid "relocate files from path <old> to <new>"
+msgstr ""
+
+msgid "relocate files in non-relocatable package"
+msgstr ""
+
+msgid "relocate the package to <dir>, if relocatable"
+msgstr ""
+
+msgid "relocations must begin with a /"
+msgstr ""
+
+msgid "relocations must contain a ="
+msgstr ""
+
+msgid "relocations must have a / following the ="
+msgstr ""
+
+msgid ""
+"remove all packages which match <package> (normally an error is generated if"
+" <package> specified multiple packages)"
+msgstr ""
+
+msgid "remove build tree when done"
+msgstr ""
+
+msgid "remove sources when done"
+msgstr ""
+
+msgid "remove specfile when done"
+msgstr ""
+
+msgid "replace files in %s with files from %s to recover"
+msgstr ""
+
+msgid "replaced"
+msgstr ""
+
+msgid "replaced      "
+msgstr ""
+
+msgid "replacing %s failed: %s\n"
+msgstr ""
+
+msgid "rpm checksig mode"
+msgstr ""
+
+msgid "rpm query mode"
+msgstr ""
+
+msgid "rpm verify mode"
+msgstr ""
+
+msgid "rpmMkTemp failed\n"
+msgstr ""
+
+msgid "rpmdbNextIterator: skipping"
+msgstr ""
+
+msgid ""
+"script disabling options may only be specified during package installation "
+"and erasure"
+msgstr ""
+
+msgid "send stdout to CMD"
+msgstr ""
+
+msgid "shared"
+msgstr "མཉམ་སྤྱོད་བྱས་ཟིན་པ།"
+
+msgid "short hand for --replacepkgs --replacefiles"
+msgstr ""
+
+msgid "sigh load: BAD"
+msgstr ""
+
+msgid "sigh sigSize(%zd): BAD, fstat(2) failed"
+msgstr ""
+
+msgid "sign package(s)"
+msgstr ""
+
+msgid "sign package(s) (identical to --addsign)"
+msgstr ""
+
+msgid "skip %%ghost files"
+msgstr ""
+
+msgid "skip files with leading component <path> "
+msgstr ""
+
+msgid "skip straight to specified stage (only for c,i)"
+msgstr ""
+
+msgid "skipped"
+msgstr ""
+
+msgid "skipping %s - transfer failed\n"
+msgstr ""
+
+msgid "source package contains no .spec file\n"
+msgstr ""
+
+msgid "source package expected, binary found\n"
+msgstr ""
+
+msgid "support files larger than 4GB"
+msgstr ""
+
+msgid "syntax error in expression\n"
+msgstr ""
+
+msgid "syntax error while parsing &&\n"
+msgstr ""
+
+msgid "syntax error while parsing ==\n"
+msgstr ""
+
+msgid "syntax error while parsing ||\n"
+msgstr ""
+
+msgid "the scriptlet interpreter can use arguments from header."
+msgstr ""
+
+msgid "transaction"
+msgstr "ལས་དོན།"
+
+msgid ""
+"trigger disabling options may only be specified during package installation "
+"and erasure"
+msgstr ""
+
+msgid "types must match\n"
+msgstr ""
+
+msgid "unable to read the signature\n"
+msgstr ""
+
+msgid "undefine MACRO"
+msgstr ""
+
+msgid "unexpected ]"
+msgstr ""
+
+msgid "unexpected query flags"
+msgstr ""
+
+msgid "unexpected query format"
+msgstr ""
+
+msgid "unexpected query source"
+msgstr ""
+
+msgid "unexpected }"
+msgstr ""
+
+msgid "unknown error %d encountered while manipulating package %s"
+msgstr ""
+
+msgid "unknown state"
+msgstr ""
+
+msgid "unknown tag"
+msgstr ""
+
+msgid "unknown tag: \"%s\"\n"
+msgstr ""
+
+msgid "unmatched (\n"
+msgstr ""
+
+msgid "unpacking of archive failed%s%s: %s\n"
+msgstr ""
+
+msgid "unrecognized db option: \"%s\" ignored.\n"
+msgstr ""
+
+msgid "unsupported RPM package version"
+msgstr ""
+
+msgid "update the database, but do not modify the filesystem"
+msgstr ""
+
+msgid "upgrade package(s)"
+msgstr "མཉེན་ཆས་ཐུམ་རིམ་སྤེལ།"
+
+msgid "upgrade package(s) if already installed"
+msgstr ""
+
+msgid ""
+"upgrade to an old version of the package (--force on upgrades does this "
+"automatically)"
+msgstr ""
+
+msgid "use ROOT as top level directory"
+msgstr ""
+
+msgid "use database in DIRECTORY"
+msgstr ""
+
+msgid "use the following query format"
+msgstr ""
+
+msgid "user %s does not exist - using root\n"
+msgstr ""
+
+msgid "verify %files section from <specfile>"
+msgstr ""
+
+msgid "verify %files section from <tarball>"
+msgstr ""
+
+msgid "verify database files"
+msgstr ""
+
+msgid "verify package signature(s)"
+msgstr ""
+
+msgid "waiting for %s lock on %s\n"
+msgstr ""
+
+msgid "warning: "
+msgstr "ཐ་ཚིག"
+
+msgid "wrong color"
+msgstr ""
+
+msgid "wrong color   "
+msgstr ""
+
+msgid "} expected in expression"
+msgstr ""

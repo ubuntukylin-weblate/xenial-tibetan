@@ -1,0 +1,2134 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%.0f° C / %.0f° F"
+msgstr ""
+
+msgid ""
+"%2.1f%% (%s) of the data on the device “%s” was unreadable and replaced with"
+" zeroes in the created disk image file. This typically happens if the medium"
+" is scratched or if there is physical damage to the drive"
+msgstr ""
+
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "ཉིན།%d"
+msgstr[1] "ཉིན།%d"
+
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "དུས་ཚོད%d"
+msgstr[1] "དུས་ཚོད%d"
+
+msgid "%d milli-second"
+msgid_plural "%d milli-seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "སྐར་མ%d"
+msgstr[1] "སྐར་མ%d"
+
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "ཟླ།%d"
+msgstr[1] "ཟླ།%d"
+
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "སྐར་ཆ %d "
+msgstr[1] "སྐར་ཆ %d "
+
+msgid "%d sector"
+msgid_plural "%d sectors"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "ལོ།%d"
+msgstr[1] "ལོ།%d"
+
+msgid "%s (%s)"
+msgstr "%s(%s)"
+
+msgid "%s (Read-Only)"
+msgstr "%s( ཀློག་ཙམ། )"
+
+msgid "%s ago"
+msgstr ""
+
+msgid "%s of %s – %s"
+msgstr ""
+
+msgid "%s unreadable (replaced with zeroes)"
+msgstr ""
+
+msgid "%s when decompressed"
+msgstr ""
+
+msgid "%s — %s free (%.1f%% full)"
+msgstr ""
+
+msgid "%s: %2.1f%%"
+msgstr ""
+
+msgid "%u sample"
+msgid_plural "%u samples"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "(None)"
+msgstr "(མེད།)"
+
+msgid "--format-device must be specified when using --xid\n"
+msgstr ""
+
+msgid "--format-device must be used together with --block-device\n"
+msgstr ""
+
+msgid "/etc/crypttab configuration data is malformed"
+msgstr ""
+
+msgid "10 minutes"
+msgstr "སྐར་མ་10"
+
+msgid "15 minutes"
+msgstr ""
+
+msgid "3 hours"
+msgstr "ཆུ་ཚོད།3"
+
+msgid "5 minutes"
+msgstr "སྐར་མ།5"
+
+msgid ""
+"<b>Tip</b>: If you are planning to recycle, sell or give away your old "
+"computer or disk, you should use a more thorough erase type to keep your "
+"private information from falling into the wrong hands"
+msgstr ""
+
+msgid ""
+"<b>WARNING</b>: The Secure Erase command may take a very long time to "
+"complete, can’t be canceled and may not work properly with some hardware. In"
+" the worst case, your drive may be rendered unusable or your system may "
+"crash or lock up. Before proceeding, please read the article about <a "
+"href='https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase'>ATA Secure "
+"Erase</a> and make sure you understand the risks"
+msgstr ""
+
+msgid "A file named “%s” already exists.  Do you want to replace it?"
+msgstr ""
+
+msgid ""
+"A flag used by the Platform bootloader to determine where the OS should be "
+"loaded from. Sometimes the partition with this flag set is referred to as "
+"the <i>active</i> partition"
+msgstr ""
+
+msgid "AAM Level"
+msgstr ""
+
+msgid "APM Level"
+msgstr ""
+
+msgid "ATA Enhanced Secure Erase"
+msgstr ""
+
+msgid "ATA Secure Erase"
+msgstr "ATA བདེ་འཇགས་སུབ་པ།"
+
+msgid "ATA Secure Erase / Enhanced Secure Erase"
+msgstr ""
+
+msgid "A_PM"
+msgstr ""
+
+msgid "Access Time"
+msgstr ""
+
+msgid "Activate selected swap partition"
+msgstr ""
+
+msgid "Activation of this plugin"
+msgstr ""
+
+msgid "Additional partition options"
+msgstr ""
+
+msgid ""
+"Aggressive spin-down may wear out the drive faster than anticipated. Please "
+"check the “Start/Stop Count” SMART attribute from time to time"
+msgstr ""
+
+msgid "Airflow Temperature"
+msgstr ""
+
+msgid "Airflow temperature of the drive"
+msgstr ""
+
+msgid "All Files"
+msgstr "ཡིག་ཆ་ཚང་མ།"
+
+msgid ""
+"All data on the disk will be lost but may still be recoverable by data "
+"recovery services"
+msgstr ""
+
+msgid ""
+"All data on the disk will be overwritten and will likely not be recoverable "
+"by data recovery services"
+msgstr ""
+
+msgid "All data on the partition will be lost"
+msgstr ""
+
+msgid ""
+"All data on the selected disks will be lost but may still be recoverable by "
+"data recovery services"
+msgstr ""
+
+msgid ""
+"All data on the selected disks will be overwritten and will likely not be "
+"recoverable by data recovery services"
+msgstr ""
+
+msgid ""
+"All data on the volume will be lost but may still be recoverable by data "
+"recovery services"
+msgstr ""
+
+msgid ""
+"All data on the volume will be overwritten and will likely not be "
+"recoverable by data recovery services"
+msgstr ""
+
+msgid "All existing data will be lost"
+msgstr ""
+
+msgid "Allocating Disk Image"
+msgstr ""
+
+msgid "Allow writing to the image"
+msgstr ""
+
+msgid "Amount of high current used to spin up the drive"
+msgstr ""
+
+msgid "Amplitude of heads trembling (GMR-head) in running mode"
+msgstr ""
+
+msgid "An error occurred"
+msgstr "ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "An error occurred when trying to put the drive into standby mode"
+msgstr ""
+
+msgid "An error occurred when trying to toggle whether SMART is enabled"
+msgstr ""
+
+msgid "An error occurred when trying to wake up the drive from standby mode"
+msgstr ""
+
+msgid "Apply Advanced Power Management Settings"
+msgstr ""
+
+msgid "Apply Automatic Acoustic Management Settings"
+msgstr ""
+
+msgid "Apply Standby Timeout Settings"
+msgstr ""
+
+msgid "Apply Write Cache Settings"
+msgstr ""
+
+msgid "Approximately %s"
+msgstr ""
+
+msgid "Are you sure you want to delete the partition?"
+msgstr ""
+
+msgid "Are you sure you want to erase the disks?"
+msgstr ""
+
+msgid "Are you sure you want to format the disk?"
+msgstr ""
+
+msgid "Are you sure you want to format the volume?"
+msgstr ""
+
+msgid "Are you sure you want to power off the drives?"
+msgstr ""
+
+msgid "Are you sure you want to write the disk image to the device?"
+msgstr ""
+
+msgid "Assessment"
+msgstr ""
+
+msgid "At least %s"
+msgstr ""
+
+msgid "Attach Disk _Image…"
+msgstr ""
+
+msgid "Attach and mount one or more disk image files."
+msgstr ""
+
+msgid "Attribute"
+msgstr "ས་བཅད"
+
+msgid "Auto-clear"
+msgstr ""
+
+msgid "Average Access Time"
+msgstr ""
+
+msgid "Average Read Rate"
+msgstr ""
+
+msgid "Average Write Rate"
+msgstr ""
+
+msgid "Average efficiency of operations while positioning"
+msgstr ""
+
+msgid "Average efficiency of the disk"
+msgstr ""
+
+msgid "Backing File"
+msgstr ""
+
+msgid "Benchmark"
+msgstr ""
+
+msgid "Benchmark Disk…"
+msgstr ""
+
+msgid "Benchmark Partition…"
+msgstr ""
+
+msgid "Benchmark Settings"
+msgstr ""
+
+msgid ""
+"Benchmarking involves measuring the transfer rate on various area of the "
+"device as well as measuring how long it takes to seek from one random area "
+"to another. Please back up important data before using the write benchmark."
+msgstr ""
+
+msgid ""
+"Benchmarking the write-rate of a disk requires exclusive access to the disk (e.g. the disk or its partitions cannot be mounted or in use) and involves reading data and then writing it back. As a result, the contents of the disk is not changed.\n"
+"\n"
+"If not checked, the write-part of the benchmark will not be done but on the other hand exclusive access to the device is not needed (e.g. the disk or device can be in use)."
+msgstr ""
+
+msgid "Block device is empty"
+msgstr ""
+
+msgid "C_hange"
+msgstr "བཟོ་བཅོས། (_H)"
+
+msgid "C_onfirm Passphrase"
+msgstr ""
+
+msgid "C_reate"
+msgstr "གསར་བཟོ།(_R)"
+
+msgid "Calibration Retry Count"
+msgstr ""
+
+msgid ""
+"Cannot create a new partition. There are already four primary partitions."
+msgstr ""
+
+msgid "Cannot open `%s' - maybe the volume isn't mounted?"
+msgstr ""
+
+msgid "Cannot restore image of size 0"
+msgstr ""
+
+msgid "Change Filesystem Label"
+msgstr ""
+
+msgid "Change Passphrase"
+msgstr "གསང་ཨང་བསྒྱུར་བ།"
+
+msgid "Change Passphrase…"
+msgstr ""
+
+msgid ""
+"Changing the passphrase for this device, will also update the passphrase "
+"referenced by the <i>/etc/crypttab</i> file"
+msgstr ""
+
+msgid "Check this box to see the passphrases entered above"
+msgstr ""
+
+msgid "Click to force re-reading SMART data from the hard disk"
+msgstr ""
+
+msgid "Click to start a SMART self-test"
+msgstr ""
+
+msgid "Click to stop the SMART self-test currently in progress"
+msgstr ""
+
+msgid "Click to toggle whether SMART is enabled for the hard disk"
+msgstr ""
+
+msgid "Compatible with Linux systems"
+msgstr ""
+
+msgid "Compatible with all systems and devices"
+msgstr ""
+
+msgid "Compatible with modern systems and hard disks > 2TB"
+msgstr ""
+
+msgid "Compatible with most systems"
+msgstr ""
+
+msgid "Confirm passphrase entered above"
+msgstr ""
+
+msgid "Connected to another seat"
+msgstr ""
+
+msgid "Contents"
+msgstr "ནང་དོན།"
+
+msgid "Conveyance"
+msgstr "བརྒྱུད་གཏོང་།"
+
+msgid ""
+"Copyright © 2008-2013 Red Hat, Inc.\n"
+"Copyright © 2008-2013 David Zeuthen"
+msgstr ""
+
+msgid ""
+"Count of remapped sectors. When the hard drive finds a "
+"read/write/verification error, it marks the sector as “reallocated” and "
+"transfers data to a special reserved area (spare area)"
+msgstr ""
+
+msgid "Create Disk Image"
+msgstr ""
+
+msgid "Create Disk Image…"
+msgstr ""
+
+msgid "Create Partition"
+msgstr "བགོ་ཁུལ་གསར་འཛུགས།"
+
+msgid "Create Partition Image…"
+msgstr ""
+
+msgid "Create partition in unallocated space"
+msgstr ""
+
+msgid "Creating Disk Image"
+msgstr ""
+
+msgid "Curr_ent Passphrase"
+msgstr ""
+
+msgid "Current Pending Sector Count"
+msgstr ""
+
+msgid "Current internal temperature of the drive"
+msgstr ""
+
+msgid "Custom"
+msgstr "མཚན་ཉིད་རང་བཞག"
+
+msgid "DISK IS LIKELY TO FAIL SOON"
+msgstr ""
+
+msgid "Data Address Mark Errors"
+msgstr ""
+
+msgid "Deactivate selected swap partition"
+msgstr ""
+
+msgid "Default location for the Create/Restore disk image dialogs"
+msgstr ""
+
+msgid ""
+"Default location for the Create/Restore disk image dialogs. If blank the "
+"~/Documents folder is used."
+msgstr ""
+
+msgid "Delete selected partition"
+msgstr ""
+
+msgid "Destination"
+msgstr "དམིགས་ས།"
+
+msgid "Detach this loop device"
+msgstr ""
+
+msgid "Device"
+msgstr "སྒྲིག་ཆས།"
+
+msgid "Device is size 0"
+msgstr ""
+
+msgid "Disable Write Cache"
+msgstr ""
+
+msgid "Disk Drives"
+msgstr ""
+
+msgid "Disk Image Mounter"
+msgstr ""
+
+msgid "Disk Image Writer"
+msgstr ""
+
+msgid "Disk Image of %s (%s).img"
+msgstr ""
+
+msgid "Disk Images (*.img, *.img.xz, *.iso)"
+msgstr ""
+
+msgid "Disk Images (*.img, *.iso)"
+msgstr ""
+
+msgid "Disk Shift"
+msgstr ""
+
+msgid "Disk image copying complete"
+msgstr ""
+
+msgid "Disk image read error"
+msgstr ""
+
+msgid "Disk is OK"
+msgstr ""
+
+msgid "Disk is OK, one attribute failed in the past"
+msgid_plural "Disk is OK, %d attributes failed in the past"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Disk is OK, one bad sector"
+msgid_plural "Disk is OK, %d bad sectors"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Disk is OK, one failing attribute is failing"
+msgid_plural "Disk is OK, %d attributes are failing"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Disk management utility for GNOME"
+msgstr ""
+
+msgid "Disk or Device"
+msgstr ""
+
+msgid "Disks"
+msgstr "སྡུད་སྡེར།"
+
+msgid "Disks Problem Monitor"
+msgstr ""
+
+msgid ""
+"Disks provides an easy way to inspect, format, partition, and configure "
+"disks and block devices."
+msgstr ""
+
+msgid "Display _Name"
+msgstr ""
+
+msgid "Don’t overwrite existing data"
+msgstr ""
+
+msgid "Drive Settings"
+msgstr ""
+
+msgid "Drive Settings…"
+msgstr ""
+
+msgid "Drive’s seek performance during offline operations"
+msgstr ""
+
+msgid "Edit Encryption Options…"
+msgstr ""
+
+msgid "Edit Filesystem…"
+msgstr ""
+
+msgid "Edit Mount Options…"
+msgstr ""
+
+msgid "Edit Partition"
+msgstr ""
+
+msgid "Edit Partition…"
+msgstr ""
+
+msgid "Eject this disk"
+msgstr ""
+
+msgid "Empty"
+msgstr "སྟོང་བ།"
+
+msgid "Enable Write Cache"
+msgstr ""
+
+msgid "Encrypted, compatible with Linux systems"
+msgstr ""
+
+msgid "Encryption Options"
+msgstr ""
+
+msgid "Endurance Remaining"
+msgstr ""
+
+msgid "Enter Standby After"
+msgstr ""
+
+msgid "Enter current passphrase used to protect the data"
+msgstr ""
+
+msgid "Enter filesystem type"
+msgstr ""
+
+msgid "Enter new passphrase used to protect the data"
+msgstr ""
+
+msgid "Enter passphrase to unlock"
+msgstr ""
+
+msgid "Enter passphrase used to protect the data"
+msgstr ""
+
+msgid "Erase Multiple Disks"
+msgstr ""
+
+msgid "Erase _Type"
+msgstr ""
+
+msgid "Error aborting SMART self-test"
+msgstr ""
+
+msgid "Error adding /etc/crypttab entry"
+msgstr ""
+
+msgid "Error adding new /etc/fstab entry"
+msgstr ""
+
+msgid "Error allocating space for disk image file: "
+msgstr ""
+
+msgid "Error attaching disk image"
+msgstr ""
+
+msgid "Error attaching disk image: %s (%s, %d)"
+msgstr ""
+
+msgid "Error canceling job"
+msgstr ""
+
+msgid "Error changing passphrase"
+msgstr ""
+
+msgid "Error connecting to udisks daemon: %s (%s, %d)"
+msgstr ""
+
+msgid "Error creating disk image"
+msgstr ""
+
+msgid "Error creating partition"
+msgstr ""
+
+msgid "Error deleting loop device"
+msgstr ""
+
+msgid "Error deleting partition"
+msgstr ""
+
+msgid "Error determining size of device: "
+msgstr ""
+
+msgid "Error determining size of file"
+msgstr ""
+
+msgid "Error ejecting media"
+msgstr ""
+
+msgid "Error erasing device %s"
+msgstr ""
+
+msgid "Error formatting disk"
+msgstr ""
+
+msgid "Error formatting partition"
+msgstr ""
+
+msgid "Error formatting volume"
+msgstr ""
+
+msgid "Error locking device"
+msgstr ""
+
+msgid "Error locking encrypted device"
+msgstr ""
+
+msgid "Error looking up block device for %s"
+msgstr ""
+
+msgid "Error mounting filesystem"
+msgstr ""
+
+msgid "Error opening %s: %s"
+msgstr ""
+
+msgid "Error opening `%s': %m"
+msgstr ""
+
+msgid "Error opening file for reading"
+msgstr ""
+
+msgid "Error opening file for writing"
+msgstr ""
+
+msgid "Error powering off drive"
+msgstr ""
+
+msgid "Error refreshing SMART data"
+msgstr ""
+
+msgid "Error removing /etc/crypttab entry"
+msgstr ""
+
+msgid "Error removing old /etc/fstab entry"
+msgstr ""
+
+msgid "Error restoring disk image"
+msgstr ""
+
+msgid "Error retrieving configuration data"
+msgstr ""
+
+msgid "Error setting autoclear flag"
+msgstr ""
+
+msgid "Error setting configuration"
+msgstr ""
+
+msgid "Error setting label"
+msgstr ""
+
+msgid "Error setting partition flags"
+msgstr ""
+
+msgid "Error setting partition name"
+msgstr ""
+
+msgid "Error setting partition type"
+msgstr ""
+
+msgid "Error starting SMART self-test"
+msgstr ""
+
+msgid "Error starting swap"
+msgstr ""
+
+msgid "Error stopping swap"
+msgstr ""
+
+msgid "Error unlocking encrypted device"
+msgstr ""
+
+msgid "Error unmounting filesystem"
+msgstr ""
+
+msgid "Error updating /etc/crypttab"
+msgstr ""
+
+msgid "Error updating /etc/crypttab entry"
+msgstr ""
+
+msgid "Error updating /etc/fstab entry"
+msgstr ""
+
+msgid "Ext4"
+msgstr ""
+
+msgid "Extended"
+msgstr "རྒྱ་སྐྱེད།"
+
+msgid "Extended partition"
+msgstr ""
+
+msgid "FAILING"
+msgstr "ཕམ་པ།"
+
+msgid "FAT"
+msgstr ""
+
+msgid "F_ilesystem"
+msgstr ""
+
+msgid "Failed in the past"
+msgstr ""
+
+msgid "File does not appear to be XZ compressed"
+msgstr ""
+
+msgid "Filesystem _Type"
+msgstr ""
+
+msgid "Flags"
+msgstr "རྟགས་མཚན།"
+
+msgid "Flying Height"
+msgstr ""
+
+msgid "For example, “My Files” or “Backup Data”"
+msgstr ""
+
+msgid "For logical partitions"
+msgstr ""
+
+msgid "Format Disk"
+msgstr "སྡུད་སྡེར་རྣམ་པར་འཇོག་པ།"
+
+msgid "Format Disk…"
+msgstr ""
+
+msgid "Format Partition…"
+msgstr ""
+
+msgid "Format Volume"
+msgstr "སྒྲིལ་རྣམ་གཞག་ཅན་དུ་སྒྱུར།"
+
+msgid "Format selected device"
+msgstr ""
+
+msgid "Free Space _Following"
+msgstr ""
+
+msgid "Frequency of errors while positioning"
+msgstr ""
+
+msgid "Frequency of errors while reading from the disk"
+msgstr ""
+
+msgid ""
+"Frequency of errors while reading raw data from the disk. A non-zero value "
+"indicates a problem with either the disk surface or read/write heads"
+msgstr ""
+
+msgid "Frequency of mistakes as a result of impact loads"
+msgstr ""
+
+msgid "G-sense Error Rate"
+msgstr ""
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GMR Head Amplitude"
+msgstr ""
+
+msgid "GNOME Disks"
+msgstr ""
+
+msgid "GPT"
+msgstr ""
+
+msgid "General time for loading in a drive"
+msgstr ""
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "Good Block Rate"
+msgstr ""
+
+msgid "Hardware ECC Recovered"
+msgstr ""
+
+msgid "Head Flying Hours"
+msgstr ""
+
+msgid "Height of heads above the disk surface"
+msgstr ""
+
+msgid "Hide from _Firmware"
+msgstr ""
+
+msgid "High Fly Writes"
+msgstr ""
+
+msgid "ID"
+msgstr "ID"
+
+msgid "I_dentify As"
+msgstr ""
+
+msgid "Icon Na_me"
+msgstr ""
+
+msgid "If Available, Slow"
+msgstr ""
+
+msgid ""
+"If checked, additional authorization is required to mount the device "
+"[x-udisks-auth]"
+msgstr ""
+
+msgid ""
+"If checked, additional authorization is required to unlock the device "
+"[x-udisks-auth]"
+msgstr ""
+
+msgid ""
+"If checked, the device is always shown in the user interface no matter what "
+"its directory is [x-gvfs-show]"
+msgstr ""
+
+msgid "If checked, the device will be mounted at startup [!noauto]"
+msgstr ""
+
+msgid "If checked, the device will be unlocked at startup [!noauto]"
+msgstr ""
+
+msgid ""
+"If checked, the loop device will be read-only. This is useful if you don’t "
+"want the underlying file to be modified"
+msgstr ""
+
+msgid ""
+"If checked, the mount will be read-only. This is useful if you don't want "
+"the underlying disk image to be modified"
+msgstr ""
+
+msgid ""
+"If set, the name of the icon to use in the device in the user interface "
+"[x-gvfs-icon=]"
+msgstr ""
+
+msgid ""
+"If set, the name of the symbolic icon to use in the device in the user "
+"interface [x-gvfs-symbolic-icon=]"
+msgstr ""
+
+msgid ""
+"If set, the name to use for the device in the user interface [x-gvfs-name=]"
+msgstr ""
+
+msgid "Image Size"
+msgstr "བརྙན་རིས་ཆེ་ཆུང་།"
+
+msgid "Image to Restore"
+msgstr ""
+
+msgid "Internal error"
+msgstr "ནང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+
+msgid "Invalid compressed data"
+msgstr "ནུས་མེད་ཀྱི་སྡུད་སྒྲིལ་གཞི་གྲངས།"
+
+msgid "Job"
+msgstr "ལས་བྱ།"
+
+msgid "KiB"
+msgstr "KB"
+
+msgid "LUKS + Ext4"
+msgstr ""
+
+msgid "Last Benchmarked"
+msgstr ""
+
+msgid ""
+"Legacy BIOS Bootable. This is equivalent to Master Boot Record "
+"<i>bootable</i> flag. It is normally only used for GPT partitions on MBR "
+"systems"
+msgstr ""
+
+msgid "Legacy BIOS _Bootable"
+msgstr ""
+
+msgid "Load Friction"
+msgstr ""
+
+msgid "Load on drive caused by friction in mechanical parts of the store"
+msgstr ""
+
+msgid "Load-in Time"
+msgstr ""
+
+msgid "Load/Unload Cycle Count"
+msgstr ""
+
+msgid "Load/Unload Retry Count"
+msgstr ""
+
+msgid "Loaded Hours"
+msgstr ""
+
+msgid ""
+"Loading on drive caused by numerous recurrences of operations, like reading,"
+" recording, positioning of heads, etc"
+msgstr ""
+
+msgid "Location"
+msgstr "གནས་ས།"
+
+msgid "Lock selected encrypted partition"
+msgstr ""
+
+msgid "Loop device is empty"
+msgstr ""
+
+msgid "Loud (Fast)"
+msgstr ""
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MBR / DOS"
+msgstr ""
+
+msgid "Manage Drives and Media"
+msgstr ""
+
+msgid "Margin of a channel while reading data."
+msgstr ""
+
+msgid "Matches any device with the given label"
+msgstr ""
+
+msgid ""
+"Matches partition %u of any device connected at the given port or address"
+msgstr ""
+
+msgid "Matches partition %u of the device with the given vital product data"
+msgstr ""
+
+msgid "Matches the device with the given UUID"
+msgstr ""
+
+msgid "Matches the given device"
+msgstr ""
+
+msgid ""
+"Matches the whole disk of any device connected at the given port or address"
+msgstr ""
+
+msgid "Matches the whole disk of the device with the given vital product data"
+msgstr ""
+
+msgid "Media"
+msgstr "བར་རྫས།"
+
+msgid "MiB"
+msgstr ""
+
+msgid "Model"
+msgstr "བཟོ་དབྱིབས།"
+
+msgid "Mount Disk Images"
+msgstr ""
+
+msgid "Mount Opt_ions"
+msgstr ""
+
+msgid "Mount Options"
+msgstr ""
+
+msgid "Mount _Point"
+msgstr ""
+
+msgid "Mount at _startup"
+msgstr ""
+
+msgid "Mount selected partition"
+msgstr ""
+
+msgid "N/A"
+msgstr "མི་འཚམ།"
+
+msgid "NTFS"
+msgstr ""
+
+msgid "Name"
+msgstr "མིང་།"
+
+msgid "Need more input"
+msgstr ""
+
+msgid "Never"
+msgstr "གཏན་ནས་མི་བྱེད།"
+
+msgid "New _Passphrase"
+msgstr ""
+
+msgid "No Media"
+msgstr ""
+
+msgid "No description for attribute %d"
+msgstr ""
+
+msgid "No partitioning"
+msgstr ""
+
+msgid "None"
+msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+
+msgid "Normalized"
+msgstr "ཚད་ལྡན་ཅན།"
+
+msgid "Not enough memory"
+msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
+
+msgid "Number of CRC errors during UDMA mode"
+msgstr ""
+
+msgid "Number of Data Address Mark (DAM) errors (or) vendor-specific"
+msgstr ""
+
+msgid "Number of ECC errors"
+msgstr ""
+
+msgid "Number of ECC on-the-fly errors"
+msgstr ""
+
+msgid "Number of S_amples"
+msgstr ""
+
+msgid "Number of Sampl_es"
+msgstr ""
+
+msgid "Number of Thermal Asperity Rate errors"
+msgstr ""
+
+msgid "Number of attempts to calibrate the device"
+msgstr ""
+
+msgid ""
+"Number of available reserved blocks as a percentage of the total number of "
+"reserved blocks"
+msgstr ""
+
+msgid "Number of buzz routines to spin up the drive"
+msgstr ""
+
+msgid "Number of cycles into landing zone position"
+msgstr ""
+
+msgid ""
+"Number of errors as a result of impact loads as detected by a shock sensor"
+msgstr ""
+
+msgid "Number of errors corrected by software ECC"
+msgstr ""
+
+msgid "Number of errors that could not be recovered using hardware ECC"
+msgstr ""
+
+msgid "Number of errors while reading from a disk"
+msgstr ""
+
+msgid ""
+"Number of errors while writing to disk (or) multi-zone error rate (or) "
+"flying-height"
+msgstr ""
+
+msgid "Number of hours elapsed in the power-on state"
+msgstr ""
+
+msgid "Number of hours in general operational state"
+msgstr ""
+
+msgid "Number of off-track errors"
+msgstr ""
+
+msgid ""
+"Number of physical erase cycles completed on the drive as a percentage of "
+"the maximum physical erase cycles the drive supports"
+msgstr ""
+
+msgid "Number of power-off or emergency retract cycles"
+msgstr ""
+
+msgid "Number of power-off retract events"
+msgstr ""
+
+msgid "Number of power-on events"
+msgstr ""
+
+msgid ""
+"Number of remapping operations. The raw value of this attribute shows the "
+"total number of (successful and unsuccessful) attempts to transfer data from"
+" reallocated sectors to a spare area"
+msgstr ""
+
+msgid "Number of retry attempts to spin up"
+msgstr ""
+
+msgid ""
+"Number of samples. Bigger number produces a more accurate picture of access "
+"time patterns but takes more time."
+msgstr ""
+
+msgid ""
+"Number of samples. Bigger number produces more smooth graphs but the "
+"benchmark will take more time."
+msgstr ""
+
+msgid ""
+"Number of sectors waiting to be remapped. If the sector waiting to be "
+"remapped is subsequently written or read successfully, this value is "
+"decreased and the sector is not remapped. Read errors on the sector will not"
+" remap the sector, it will only be remapped on a failed write attempt"
+msgstr ""
+
+msgid "Number of spindle start/stop cycles"
+msgstr ""
+
+msgid ""
+"Number of times a recording head is flying outside its normal operating "
+"range"
+msgstr ""
+
+msgid "Number of uncorrectable ECC errors"
+msgstr ""
+
+msgid "OK"
+msgstr "གཏན་འཁེལ"
+
+msgid "Offline"
+msgstr "སྐུད་བྲལ།"
+
+msgid "Offline Seek Performance"
+msgstr ""
+
+msgid "Old-Age"
+msgstr ""
+
+msgid "Online"
+msgstr "དྲ་ལམ་ན་ཡོད།"
+
+msgid ""
+"Only the passphrase referenced by the <i>/etc/crypttab</i> file will be "
+"changed. To change the on-disk passphrase, use <i>Change Passphrase…</i>"
+msgstr ""
+
+msgid "Opt_ions"
+msgstr ""
+
+msgid "Options to use when unlocking the device"
+msgstr ""
+
+msgid "Other Devices"
+msgstr "སྒྲིག་ཆས་གཞན་དག"
+
+msgid "Overall Assessment"
+msgstr ""
+
+msgid "Overwrite existing data with zeroes"
+msgstr ""
+
+msgid "PB"
+msgstr ""
+
+msgid "Parent window XID for the format dialog"
+msgstr ""
+
+msgid "Partition Type"
+msgstr ""
+
+msgid "Partition _Size"
+msgstr ""
+
+msgid "Partitioning"
+msgstr ""
+
+msgid "Passphrase File"
+msgstr ""
+
+msgid ""
+"Passphrase of the device or empty to request from user when setting up the "
+"device"
+msgstr ""
+
+msgid "Fair"
+msgstr "འབྲིང་།"
+
+msgid "Good"
+msgstr "བཟང་།"
+
+msgid "Strong"
+msgstr "དྲག་པོ།"
+
+msgid "Weak"
+msgstr "ཞན་པ།"
+
+msgid "Perform Better"
+msgstr ""
+
+msgid "Perform _write-benchmark"
+msgstr ""
+
+msgid ""
+"Performance is increased by enabling write caching, but leaves the system "
+"susceptible to data loss in the event of a power failure"
+msgstr ""
+
+msgid "PiB"
+msgstr ""
+
+msgid "Power Cycle Count"
+msgstr ""
+
+msgid "Power Off…"
+msgstr ""
+
+msgid "Power off this disk"
+msgstr ""
+
+msgid "Power-On Hours"
+msgstr ""
+
+msgid "Power-off Retract Count"
+msgstr ""
+
+msgid "Powered On"
+msgstr ""
+
+msgid "Pre-Fail"
+msgstr ""
+
+msgid "Priority to use for this plugin"
+msgstr ""
+
+msgid "Priority to use for this plugin in gnome-settings-daemon startup queue"
+msgstr ""
+
+msgid "Quantity efforts of the rotating moment of a drive"
+msgstr ""
+
+msgid "Quick"
+msgstr "མགྱོགས་མྱུར།"
+
+msgid "Quiet (Slow)"
+msgstr ""
+
+msgid "Read Channel Margin"
+msgstr ""
+
+msgid "Read Error Rate"
+msgstr ""
+
+msgid "Read Error Retry Rate"
+msgstr ""
+
+msgid "Reallocated Sector Count"
+msgstr ""
+
+msgid "Reallocation Count"
+msgstr ""
+
+msgid "Reported Uncorrectable Errors"
+msgstr ""
+
+msgid "Require additional authori_zation to mount"
+msgstr ""
+
+msgid "Require additional authori_zation to unlock"
+msgstr ""
+
+msgid "Restore Disk Image"
+msgstr ""
+
+msgid "Restore Disk Image…"
+msgstr ""
+
+msgid "Restore Partition Image…"
+msgstr ""
+
+msgid "Restore disk image"
+msgstr ""
+
+msgid "Restoring Disk Image"
+msgstr ""
+
+msgid "Run Out Cancel"
+msgstr ""
+
+msgid "SELF-TEST FAILED"
+msgstr ""
+
+msgid "SMART Data & Self-Tests"
+msgstr ""
+
+msgid "SMART Data & Self-Tests…"
+msgstr ""
+
+msgid "SMART _Attributes"
+msgstr ""
+
+msgid "SMART is not enabled"
+msgstr ""
+
+msgid "SMART is not supported"
+msgstr ""
+
+msgid "S_etting"
+msgstr ""
+
+msgid "S_ymbolic Icon Name"
+msgstr ""
+
+msgid "Sample S_ize (MiB)"
+msgstr ""
+
+msgid "Sample Size"
+msgstr ""
+
+msgid "Save Power"
+msgstr ""
+
+msgid "Save in _Folder"
+msgstr ""
+
+msgid "Seek Error Rate"
+msgstr ""
+
+msgid "Seek Timer Performance"
+msgstr ""
+
+msgid "Select Disk Image to Attach"
+msgstr ""
+
+msgid "Select Disk Image to Restore"
+msgstr ""
+
+msgid "Select Disk Image(s) to Mount"
+msgstr ""
+
+msgid "Select a Folder"
+msgstr ""
+
+msgid "Select a device"
+msgstr ""
+
+msgid "Select device"
+msgstr "སྒྲིག་ཆས་འདེམ་པ།"
+
+msgid "Self-assessment"
+msgstr ""
+
+msgid "Self-test Result"
+msgstr ""
+
+msgid "Self-test in progress"
+msgstr ""
+
+msgid "Serial Number"
+msgstr "རིམ་སྟར་ཨང་རྟགས།"
+
+msgid "Set up _read-only loop device"
+msgstr ""
+
+msgid "Set up _read-only mount"
+msgstr ""
+
+msgid ""
+"Shift of disk is possible as a result of strong shock loading in the store, "
+"as a result of falling (or) temperature"
+msgstr ""
+
+msgid "Sho_w Passphrases"
+msgstr ""
+
+msgid "Sho_w in user interface"
+msgstr ""
+
+msgid "Sho_w passphrase"
+msgstr ""
+
+msgid "Short"
+msgstr "ཐུང་བ།"
+
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+msgid "Slow"
+msgstr "དལ།"
+
+msgid "Soft ECC correction"
+msgstr ""
+
+msgid "Soft Read Error Rate"
+msgstr ""
+
+msgid "Soft read error rate"
+msgstr ""
+
+msgid "Source"
+msgstr "ཁུངས།"
+
+msgid "Spin Buzz"
+msgstr ""
+
+msgid "Spin High Current"
+msgstr ""
+
+msgid "Spinup Retry Count"
+msgstr ""
+
+msgid "Spinup Time"
+msgstr ""
+
+msgid "Standby Now"
+msgstr ""
+
+msgid "Start/Stop Count"
+msgstr ""
+
+msgid ""
+"Switch off <i>Automatic Encryption Options</i> to manage encryption options "
+"and passphrase for the device. The options correspond to an entry in the "
+"<b>/etc/crypttab</b> file"
+msgstr ""
+
+msgid ""
+"Switch off <i>Automatic Mount Options</i> to manage mount point and mount "
+"options for the device. The options correspond to an entry in the "
+"<b>/etc/fstab</b> file"
+msgstr ""
+
+msgid "TB"
+msgstr ""
+
+msgid "Temperature"
+msgstr "དྲོད་ཚད།"
+
+msgid "Temperature of the drive"
+msgstr ""
+
+msgid ""
+"The <b>special device file</b> - use symlinks in the <b>/dev/disk</b> "
+"hierarchy to control the scope of the entry"
+msgstr ""
+
+msgid ""
+"The custom filesystem type to create e.g. <i>btrfs</i>, <i>xfs</i> or "
+"<i>swap</i>"
+msgstr ""
+
+msgid "The custom filesystem type to create e.g. btrfs, xfs or swap"
+msgstr ""
+
+msgid "The directory to mount the device in"
+msgstr ""
+
+msgid "The disk image is %s bigger than the target device"
+msgstr ""
+
+msgid "The disk image is %s smaller than the target device"
+msgstr ""
+
+msgid "The encryption passphrase was retrieved from the keyring"
+msgstr ""
+
+msgid ""
+"The file already exists in “%s”.  Replacing it will overwrite its contents."
+msgstr ""
+
+msgid "The filesystem type to use"
+msgstr ""
+
+msgid "The free space following the partition, in megabytes"
+msgstr ""
+
+msgid "The mount options stored in the <b>/etc/fstab</b> file"
+msgstr ""
+
+msgid ""
+"The name to use for the filesystem. This is useful if you want to refer to "
+"the device via a symlink in the /dev/disk/by-label directory"
+msgstr ""
+
+msgid ""
+"The name to use for the filesystem. This is useful if you want to refer to "
+"the device via a symlink in the <b>/dev/disk/by-label</b> directory"
+msgstr ""
+
+msgid ""
+"The name to use for the unlocked device - the device is set up as the name "
+"prefixed with <b>/dev/mapper</b>/"
+msgstr ""
+
+msgid ""
+"The number of MiB (1048576 bytes) to read/write for each sample. Big sample "
+"sizes tend to produce more accurate benchmarks at the cost of the benchmark "
+"taking more time."
+msgstr ""
+
+msgid ""
+"The partition name (up to 36 unicode characters). This is useful if you want"
+" to refer to the device via a symlink in the <b>/dev/disk/by-partlabel</b> "
+"directory"
+msgstr ""
+
+msgid "The partition type as a 8-bit unsigned integer"
+msgstr ""
+
+msgid "The partition type represented as a 32-bit <i>GUID</i>"
+msgstr ""
+
+msgid "The size of the partition to create, in megabytes"
+msgstr ""
+
+msgid ""
+"The special device file - use symlinks in the /dev/disk hierarchy to control"
+" the scope of the entry"
+msgstr ""
+
+msgid "The strength of the passphrase"
+msgstr ""
+
+msgid ""
+"The system may not work correctly if this entry is modified or removed."
+msgstr ""
+
+msgid ""
+"The total number of uncorrectable errors when reading/writing a sector. A "
+"rise in the value of this attribute indicates defects of the disk surface "
+"and/or problems in the mechanical subsystem"
+msgstr ""
+
+msgid "Thermal Asperity Rate"
+msgstr ""
+
+msgid "This is the last primary partition that can be created."
+msgstr ""
+
+msgid ""
+"This operation will prepare the system for the following drives to be "
+"powered down and removed."
+msgstr ""
+
+msgid "Threshold"
+msgstr "མཚམས་ཐང་།"
+
+msgid "Threshold exceeded"
+msgstr ""
+
+msgid "Threshold not exceeded"
+msgstr ""
+
+msgid "Throughput Performance"
+msgstr ""
+
+msgid "TiB"
+msgstr ""
+
+msgid "Time needed to spin up the disk"
+msgstr ""
+
+msgid "Time while head is positioning"
+msgstr ""
+
+msgid "Torque Amplification Count"
+msgstr ""
+
+msgid "Total number of load cycles"
+msgstr ""
+
+msgid "Transfer Rate"
+msgstr ""
+
+msgid "Turn on to configure AAM at startup and when the disk is connected"
+msgstr ""
+
+msgid "Turn on to configure APM at startup and when the disk is connected"
+msgstr ""
+
+msgid ""
+"Turn on to configure Standby Timeout at startup and when the disk is "
+"connected"
+msgstr ""
+
+msgid ""
+"Turn on to configure Write Cache setting at startup and when the disk is "
+"connected"
+msgstr ""
+
+msgid "Type"
+msgstr "རིགས་གྲས་"
+
+msgid "UDMA CRC Error Rate"
+msgstr ""
+
+msgid "Unallocated Space"
+msgstr ""
+
+msgid "Uncorrectable ECC Count"
+msgstr ""
+
+msgid "Uncorrectable Sector Count"
+msgstr ""
+
+msgid "Unlock selected encrypted partition"
+msgstr ""
+
+msgid "Unmount selected partition"
+msgstr ""
+
+msgid "Unrecoverable read errors while creating disk image"
+msgstr ""
+
+msgid "Updated"
+msgstr "གསར་སྒྱུར།"
+
+msgid "Updates"
+msgstr "གསར་སྒྱུར།"
+
+msgid ""
+"Used to indicate that the partition and its contents are required for the "
+"OS/Platform to function. Special care should be taken to not delete or "
+"overwrite the contents"
+msgstr ""
+
+msgid ""
+"Using Disks, you can view SMART data, manage RAID devices, benchmark "
+"physical disks, and image USB sticks. Tasks are executed in the background, "
+"even after the application has been closed by the user."
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Vendor Recommended"
+msgstr ""
+
+msgid "View, modify and configure disks and media"
+msgstr ""
+
+msgid "Volumes Grid"
+msgstr ""
+
+msgid "Wake-Up from Standby"
+msgstr ""
+
+msgid "Warns about problems with disks and storage devices"
+msgstr ""
+
+msgid "Whether this plugin would be activated by gnome-settings-daemon or not"
+msgstr ""
+
+msgid "Will be created"
+msgstr ""
+
+msgid "Will be deleted"
+msgstr ""
+
+msgid "World Wide Name"
+msgstr ""
+
+msgid "Worst"
+msgstr ""
+
+msgid "Wr_ite Cache"
+msgstr ""
+
+msgid "Write Disk Images to Devices"
+msgstr ""
+
+msgid "Write Error Rate"
+msgstr ""
+
+msgid "_AAM"
+msgstr ""
+
+msgid "_Abort Benchmark"
+msgstr ""
+
+msgid "_About"
+msgstr "ཐད།(_A)"
+
+msgid "_Attach"
+msgstr "ཟུར་སྣོན།(_A)"
+
+msgid "_Automatic Encryption Options"
+msgstr ""
+
+msgid "_Automatic Mount Options"
+msgstr ""
+
+msgid "_Bootable"
+msgstr ""
+
+msgid "_Cancel"
+msgstr "ལེན་པ། (_C)"
+
+msgid "_Delete"
+msgstr "འདོར་བ།"
+
+msgid "_Delete Disk Image File"
+msgstr ""
+
+msgid "_Destination"
+msgstr ""
+
+msgid "_Erase"
+msgstr ""
+
+msgid "_Erase…"
+msgstr ""
+
+msgid "_Format"
+msgstr "རྣམ་གཞག་ཅན་དུ་སྒྱུར།(_F)"
+
+msgid "_Format…"
+msgstr ""
+
+msgid "_Help"
+msgstr "རོགས་རམ།(_H)"
+
+msgid "_Image to Restore"
+msgstr ""
+
+msgid "_Label"
+msgstr ""
+
+msgid "_Mount"
+msgstr "འགེལ་བ།(_M)"
+
+msgid "_Name"
+msgstr ""
+
+msgid "_Partitioning"
+msgstr ""
+
+msgid "_Passphrase"
+msgstr ""
+
+msgid "_Power Off"
+msgstr ""
+
+msgid "_Quit"
+msgstr "ཕྱིར་ཐོན།(_Q)"
+
+msgid "_Replace"
+msgstr "ཚབ་བརྗེ།(_R)"
+
+msgid "_Restore"
+msgstr "སླར་གསོ།(_R)"
+
+msgid "_Standby"
+msgstr ""
+
+msgid "_Start Benchmarking…"
+msgstr ""
+
+msgid "_Start Benchmark…"
+msgstr ""
+
+msgid "_Start Creating…"
+msgstr ""
+
+msgid "_Start Restoring…"
+msgstr ""
+
+msgid "_Start Self-test"
+msgstr ""
+
+msgid "_Stop Self-test"
+msgstr ""
+
+msgid "_System Partition"
+msgstr ""
+
+msgid "_Type"
+msgstr "རིགས་གྲས།(_T)："
+
+msgid "_Unlock"
+msgstr "སྒྲོག་གྲོལ། (_U)\""
+
+msgid "_Unlock at startup"
+msgstr ""
+
+msgid "_Volumes"
+msgstr ""
+
+msgid "0 (Disabled)"
+msgstr "0། (འགོག་སྤྱོད)"
+
+msgid "<Ctrl>E"
+msgstr ""
+
+msgid "<Ctrl>F"
+msgstr ""
+
+msgid "<Ctrl>S"
+msgstr ""
+
+msgid "<Shift><Ctrl>F"
+msgstr ""
+
+msgid "<Shift>F10"
+msgstr ""
+
+msgid "F10"
+msgstr ""
+
+msgid "%d (Spin-down not permitted)"
+msgstr ""
+
+msgid "%d (Spin-down permitted)"
+msgstr ""
+
+msgid "255 (Disabled)"
+msgstr ""
+
+msgid "%.2f msec"
+msgstr ""
+
+msgid "%3g ms"
+msgstr ""
+
+msgid "%d MB/s"
+msgstr ""
+
+msgid "%s/s"
+msgstr "\"%s/s\""
+
+msgid "%s (%s ago)"
+msgstr ""
+
+msgid "Measuring access time (%2.1f%% complete)…"
+msgstr ""
+
+msgid "Measuring transfer rate (%2.1f%% complete)…"
+msgstr ""
+
+msgid "No benchmark data available"
+msgstr ""
+
+msgid "Opening Device…"
+msgstr ""
+
+msgid "An error occurred"
+msgstr "ནོར་འཁྲུལ་བྱུང་།"
+
+msgid "Error getting page size: %m\n"
+msgstr ""
+
+msgid "Error getting size of device: %m"
+msgstr ""
+
+msgid "Error pre-reading %lld bytes from offset %lld"
+msgstr ""
+
+msgid "Error pre-reading %s from offset %s"
+msgstr ""
+
+msgid "Error reading %lld bytes from offset %lld"
+msgstr ""
+
+msgid "Error reading %s from offset %s"
+msgstr ""
+
+msgid "Error seeking to offset %lld"
+msgstr ""
+
+msgid "Error seeking to offset %lld: %m"
+msgstr ""
+
+msgid "Error seeking to offset %s"
+msgstr ""
+
+msgid "Error syncing (at offset %lld): %m"
+msgstr ""
+
+msgid "Error writing %lld bytes at offset %lld: %m"
+msgstr ""
+
+msgid "Expected to write %lld bytes, only wrote %lld: %m"
+msgstr ""
+
+msgid "bytes"
+msgstr "ཡིག་ཚིགས།"
+
+msgid "Affected Devices"
+msgstr ""
+
+msgid "Copying device to disk image"
+msgstr ""
+
+msgid ""
+"disk;drive;volume;harddisk;hdd;disc;cdrom;dvd;partition;iso;image;backup;restore;benchmark;raid;luks;encryption;S.M.A.R.T.;smart;"
+msgstr ""
+
+msgid "Less than a minute"
+msgstr ""
+
+msgid "%s and %s"
+msgstr "\"%s %s\""
+
+msgid "%s and %s"
+msgstr "\"%s %s\""
+
+msgid "%s and %s"
+msgstr "\"%s %s\""
+
+msgid "%s and %s"
+msgstr "\"%s %s\""
+
+msgid "%s"
+msgstr ""
+
+msgid "%s, %s and %s"
+msgstr ""
+
+msgid "%s"
+msgstr ""
+
+msgid ""
+"gnome-disk-utility %s\n"
+"UDisks %s (built against %d.%d.%d)"
+msgstr ""
+
+msgid "%s remaining"
+msgstr ""
+
+msgid "%s remaining (%s/sec)"
+msgstr ""
+
+msgid "kB"
+msgstr "kB"
+
+msgid "A hard disk is likely to fail soon."
+msgstr ""
+
+msgid "Examine"
+msgstr ""
+
+msgid "Hard Disk Problems Detected"
+msgstr ""
+
+msgid "Unknown"
+msgstr "མི་ཤེས།"
+
+msgid "Unknown (%s)"
+msgstr "ངེས་མེད། (%s)"
+
+msgid "Copying disk image to device"
+msgstr ""
+
+msgid "Last self-test completed successfully"
+msgstr ""
+
+msgid "Last self-test did not complete"
+msgstr ""
+
+msgid "Last self-test failed"
+msgstr ""
+
+msgid "Last self-test failed (electrical)"
+msgstr ""
+
+msgid "Last self-test failed (handling)"
+msgstr ""
+
+msgid "Last self-test failed (read)"
+msgstr ""
+
+msgid "Last self-test failed (servo)"
+msgstr ""
+
+msgid "Last self-test was aborted"
+msgstr ""
+
+msgid "Last self-test was interrupted"
+msgstr ""
+
+msgid "Self-test in progress — %d%% remaining"
+msgstr ""
+
+msgid "Unknown (%s)"
+msgstr "ངེས་མེད། (%s)"
+
+msgid "Never"
+msgstr "གཏན་ནས་མི་བྱེད།"
+
+msgid "Reserved"
+msgstr "སོར་བཞག"
+
+msgid "Vendor-defined"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "Filesystem Root"
+msgstr ""
+
+msgid "Mounted at %s"
+msgstr ""
+
+msgid "Not Mounted"
+msgstr ""
+
+msgid "Locked"
+msgstr "སྒྲོག་ཟིན།"
+
+msgid "Unlocked"
+msgstr ""
+
+msgid "Active"
+msgstr "འགུལ་སྟངས།"
+
+msgid "Not Active"
+msgstr "སྐུལ་སློང་མ་བྱས།"
+
+msgid "%s — %s"
+msgstr ""
+
+msgid "Extended Partition"
+msgstr ""
+
+msgid "Extended Partition"
+msgstr ""
+
+msgid "Filesystem"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
+
+msgid "Free Space"
+msgstr ""
+
+msgid "Partition %u"
+msgstr ""
+
+msgid "Partition %u: %s"
+msgstr ""
+
+msgid "Swap"
+msgstr ""
+
+msgid "← Spindown"
+msgstr ""
