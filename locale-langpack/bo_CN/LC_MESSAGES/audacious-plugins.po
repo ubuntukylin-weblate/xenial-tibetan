@@ -31,8 +31,8 @@ msgstr ""
 
 msgid "%d channel"
 msgid_plural "%d channels"
-msgstr[0] "སྒྲ་ལམ་%d"
-msgstr[1] "སྒྲ་ལམ་%d"
+msgstr[0] "%dསྒྲ་ལམ།"
+msgstr[1] "%dསྒྲ་ལམ།"
 
 msgid "%d kbps"
 msgstr "%d kbps"
@@ -57,7 +57,7 @@ msgid "%s - Audacious"
 msgstr "%s - གླུ་གཞས་གཏོང་ཆས།"
 
 msgid "%s Settings"
-msgstr "%s བཀོད་པ།"
+msgstr "%s སྒྲིག་འགོད།"
 
 msgid "(%d hidden)"
 msgid_plural "(%d hidden)"
@@ -92,7 +92,7 @@ msgid "16 kHz:"
 msgstr ""
 
 msgid "16-bit"
-msgstr "16 གནས།"
+msgstr "16གནས།"
 
 msgid "176.4 kHz:"
 msgstr ""
@@ -143,13 +143,13 @@ msgid "63 Hz"
 msgstr "63 ཧོ་ཙི།"
 
 msgid "8 kHz"
-msgstr "8000 ཧོ་ཙི།"
+msgstr "ཕབ་འཇུག"
 
 msgid "8 kHz:"
 msgstr ""
 
 msgid "8-bit"
-msgstr "8 གནས།"
+msgstr "8གནས།"
 
 msgid "88.2 kHz:"
 msgstr ""
@@ -164,7 +164,7 @@ msgid "<b>Action:</b>"
 msgstr "<b>བྱ་སྤྱོད།</b>"
 
 msgid "<b>Advanced</b>"
-msgstr "<b>མཐོ་རིམ་སྒྲིག་འགོད།</b>"
+msgstr "<b>མཐོ་རིམ།</b>"
 
 msgid "<b>Analyzer</b>"
 msgstr "<b>དབྱེ་ཞིབ་ཆས།</b>"
@@ -182,7 +182,7 @@ msgid "<b>Color</b>"
 msgstr "<b>ཁ་དོག</b>"
 
 msgid "<b>Commands</b>"
-msgstr "<b>བཀའ་བརྡ།</b>"
+msgstr "<b>བཀའ་བརྡ་</b>"
 
 msgid "<b>Compression</b>"
 msgstr "<b>བཙིར་གནོན།</b>"
@@ -206,7 +206,7 @@ msgid "<b>Device</b>"
 msgstr "<b>སྒྲིག་ཆས།</b>"
 
 msgid "<b>Echo</b>"
-msgstr "<b>སྒྲ་ལངས།</b>"
+msgstr "<b>བྲག་ཅ</b>"
 
 msgid "<b>Emulation</b>"
 msgstr "<b>འདྲ་བཟོ།</b>"
@@ -317,10 +317,10 @@ msgid "<span font_desc='%s'>音乐播放器 OSD</span>"
 msgstr "<span font_desc='%s'>གླུ་གཞས་གཏོང་ཆས OSD</span>"
 
 msgid "<span size=\"smaller\"> MIDI Comments and Lyrics </span>"
-msgstr ""
+msgstr "<span size=\\smaller\"> MIDIཟུར་མཆན་དང་གླུ་ཚིག</span>\""
 
 msgid "<span size=\"smaller\"> MIDI Info </span>"
-msgstr ""
+msgstr "<span size=\\smaller\"> MIDI ཆ་འཕྲིན་ </span>\""
 
 msgid ""
 "<span size='small'>Parameters passed to the shell should be encapsulated in "
@@ -427,7 +427,7 @@ msgid "Add CD"
 msgstr "CDསྣོན་པ།"
 
 msgid "Add Files"
-msgstr "ཡིག་ཆ་སྣོན"
+msgstr "ཡིག་ཆ་སྣོན་པ།"
 
 msgid "Add Files ..."
 msgstr "ཡིག་ཆ་སྣོན་པ། ..."
@@ -481,7 +481,7 @@ msgid "Always show tabs"
 msgstr "རྒྱུན་དུ་གདོང་འཛར་ལྡེབ་མངོན་པ།"
 
 msgid "Analyzer"
-msgstr "དབྱེ་ཞིབ་ཆས།"
+msgstr "ཞིབ་འགྲེལ་ཆས།"
 
 msgid "Animation"
 msgstr "འགུལ་རིས།"
@@ -496,7 +496,7 @@ msgid "Artist"
 msgstr "སྒྱུ་རྩལ་པ།"
 
 msgid "Artist:"
-msgstr "སྒྱུ་རྩལ་པ།"
+msgstr "སྒྱུ་རྩལ་པ།："
 
 msgid "Audacious"
 msgstr ""
@@ -613,7 +613,7 @@ msgid "BPM:"
 msgstr "སྐར་མ་རེར་འགྲོས་ལྡབ། "
 
 msgid "B_Only"
-msgstr "རྐྱང་གཞས་རེས་འཁོར།"
+msgstr "གཞས་རྐྱང་རེས་འཁོར།"
 
 msgid "Balance: %d%% left"
 msgstr "དོ་མཉམ། གཡོན།%d%% "
@@ -653,7 +653,7 @@ msgid "Binding mouse buttons"
 msgstr "ཙིག་མཐེབ་བསྡམ་པ།"
 
 msgid "Bitrate"
-msgstr "བསྡུར་ཚད།"
+msgstr "པི་ཐི་ཕྱོད།"
 
 msgid "Bitrate (kbps):"
 msgstr "ཨང་ཚད།（kbps）"
@@ -665,7 +665,7 @@ msgid "Blur Scope"
 msgstr "རབ་རིབ་ཁྱབ་ཁོངས།"
 
 msgid "Buffering ..."
-msgstr "ལྷོད་གཏོང་པ..."
+msgstr "ལྷོད་གཏོང་བྱེད་སྒང་།"
 
 msgid "By Al_bum"
 msgstr "ཆེད་སྒྲིག་ལྟར།(_b)"
@@ -722,7 +722,7 @@ msgid "By _Custom Title"
 msgstr "རང་གིས་མཚན་ཉིད་བཞག་པའི་ཁ་བྱང་ལྟར།(_C)"
 
 msgid "By _File Name"
-msgstr "ཡིག་ཆའི་མིང་ལྟར།(_F)"
+msgstr "ཡིག་ཆ་མིང་ལྟར། (_F)"
 
 msgid "By _File Path"
 msgstr "ཡིག་ཆའི་ལམ་བུ།(_F)"
@@ -740,7 +740,7 @@ msgid "C_heck Permission"
 msgstr "ཞིབ་བཤེར་དབང་ཚད།(_C)"
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Cannot read start/end LSN for track %d."
 msgstr "སྒྲ་ཟློས་%dམགོ་བརྩམས་པའམ་མཇུག་རྫོགསLSNཆ་འཕྲིན་ཀློག་མི་ཐུབ། "
@@ -755,7 +755,7 @@ msgid "Change volume"
 msgstr "སྒྲ་ཚད་ལེགས་སྒྲིག"
 
 msgid "Channel Mixer"
-msgstr "རྒྱུ་ལམ་མཉམ་བསྲེས་ཆས།"
+msgstr "རྒྱུ་ལམ་གྱི་མཉམ་བསྲེས་ཆས།"
 
 msgid ""
 "Channel Mixer Plugin for Audacious\n"
@@ -829,13 +829,13 @@ msgid "Composite manager not required for fake transparency"
 msgstr "དྭངས་གསལ་རྫུན་མ་ལ་མཉམ་བསྲེས་དོ་དམ་རྒྱབ་སྐྱོར་མི་དགོས།"
 
 msgid "Compression ratio:"
-msgstr "བཙིར་གནོན་ཕྱོད།"
+msgstr "སྡུད་སྒྲིལ་ཚད།"
 
 msgid "Concave Rectangle"
 msgstr "ཀོང་ཟུར་གྲུ་བཞི་ནར་མོ།"
 
 msgid "Configure"
-msgstr "སྒྲིག་འགོད།"
+msgstr " སྒྲིག་འགོད།"
 
 msgid "Connecting to lyrics.wikia.com ..."
 msgstr "lyrics.Wikia.comལ་སྦྲེལ་བ།"
@@ -850,7 +850,7 @@ msgid ""
 msgstr ""
 
 msgid "Copy"
-msgstr "འདྲ་བཟོ།"
+msgstr "འདྲ་ཕབ།"
 
 msgid ""
 "Copyright (C) 2007-2012 Calin Crisan <ccrisan@gmail.com> and others.\n"
@@ -881,13 +881,13 @@ msgid "CoreAudio output"
 msgstr "CoreAudioཕྱིར་འདོན།"
 
 msgid "Could not create directory (%s): %s\n"
-msgstr ""
+msgstr "དཀར་ཆག་(%s)：%sབཟོ་མི་ཐུབ།\n"
 
 msgid "Create a new playlist with matching entries"
 msgstr "ས་བཅད་མཐུན་པའི་གཏོང་བའི་རེའུ་མིག་གསར་པ་བཟོ།"
 
 msgid "Crossfade"
-msgstr "སླ་བ།"
+msgstr "ཉུང་གཏོང་།"
 
 msgid ""
 "Crossfade Plugin for Audacious\n"
@@ -933,7 +933,7 @@ msgid "Day"
 msgstr "ཚེས་གྲངས།"
 
 msgid "Days"
-msgstr "དུས་ཚེས།"
+msgstr "ཚེས་གྲངས།"
 
 msgid "Decoration"
 msgstr "རྒྱན་ཆས།"
@@ -957,13 +957,13 @@ msgid "Delay:"
 msgstr "ཕྱིར་འགྱངས།"
 
 msgid "Delete"
-msgstr "འདོར་བ།"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
 
 msgid "Delete Auto Preset ..."
 msgstr "སྔོན་གྱི་རང་འགོད་འདོར་བ། ..."
 
 msgid "Delete Files"
-msgstr "ཡིག་ཆ་འདོར་བ།"
+msgstr "ཡིག་ཆ་བསུབ་པ།"
 
 msgid "Delete Preset ..."
 msgstr "སྔོན་བཀོད་འདོར་བ། ..."
@@ -999,7 +999,7 @@ msgid "Device (blank for default):"
 msgstr "སྒྲིག་ཆས།(སོར་བཞག་སྟོང་པ་རེད།)："
 
 msgid "Disable"
-msgstr "སྤྱོད་འགོག"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Disable 'Always On Top'"
 msgstr "“སྟེང་བཞག་སྒེའུ་ཁུང”སྤྱོད་འགོག"
@@ -1041,7 +1041,7 @@ msgid "Dock at Top"
 msgstr "ངོས་པང་སྟེང་དུ་ཡོད།"
 
 msgid "Document Open"
-msgstr "ཡིག་ཆ་ཁ་འབྱེད།"
+msgstr " ཡིག་ཆའི་ཁ་འབྱེད་པ།"
 
 msgid ""
 "Don't worry. Your scrobbles are saved on your computer.\n"
@@ -1049,7 +1049,7 @@ msgid ""
 msgstr ""
 
 msgid "Dots"
-msgstr "ཚེག་"
+msgstr "ཚེག"
 
 msgid "Double Size"
 msgstr "ལྡབ་གཉིས་ཀྱི་ཆེ་ཆུང་།"
@@ -1094,7 +1094,7 @@ msgid "Emulate filter"
 msgstr "འདྲ་བཟོ་འཚག་ཆས།"
 
 msgid "Enable"
-msgstr "སྤྱོད་པ།"
+msgstr "སྤྱོད་འགོ་འཛུགས་པ།"
 
 msgid "Enable 'Always On Top'"
 msgstr "“སྟེང་བཞག་སྒེའུ་ཁུང་”སྤྱོད་པ།"
@@ -1124,13 +1124,13 @@ msgid "Enforce strict ISO compliance"
 msgstr "བཙན་པོས་ISOགཏན་སྲུང་བྱེད་པ།"
 
 msgid "Entries"
-msgstr "ས་བཅད།"
+msgstr "ས་བཅད"
 
 msgid "Entry number"
-msgstr "རིམ་ཨང་།"
+msgstr " རིམ་ཨང་།"
 
 msgid "Error"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Error connecting to MMS server"
 msgstr " MMS ཞབས་ཞུ་ལ་འབྲེལ་བ་ནོར་འཁྲུལ་བྱུང་།"
@@ -1241,10 +1241,10 @@ msgid "File Info Box"
 msgstr "ཡིག་ཆའི་ཆ་འཕྲིན།"
 
 msgid "File Name:"
-msgstr "ཡིག་ཆའི་མིང་།："
+msgstr "ཡིག་ཆ་མིང་།:"
 
 msgid "File name"
-msgstr "ཡིག་ཆའི་མིང་།"
+msgstr " ཡིག་ཆའི་མིང་།"
 
 msgid "File path"
 msgstr "ཡིག་ཆའི་འགྲོ་ལམ།"
@@ -1268,6 +1268,8 @@ msgid ""
 "For better crossfading, enable\n"
 "the Silence Removal effect."
 msgstr ""
+"དལ་ཐོན་སྔར་ལས་ཡག་པོས་ལས་སྒྲུབ་པའི་ཆེད་དུ། "
+"འཇགས་སྒྲ་མགོ་བསླངས་ནས་དམིགས་བསལ་ནུས་པ་ལེན།"
 
 msgid "Force addition of version 2 tag"
 msgstr "བཙན་ཤེད་ཀྱིས་V2གདོང་འཛར་སྣོན།"
@@ -1282,7 +1284,7 @@ msgid "Frame Parameters:"
 msgstr "ལྷེབ་མའི་ཞུགས་གྲངས།"
 
 msgid "Friday"
-msgstr "པ་སངས།"
+msgstr "གཟའ་པ་སངས།"
 
 msgid "GIO Plugin"
 msgstr "GIOབསྒར་ལྷུ།"
@@ -1309,13 +1311,13 @@ msgid "Game Console Music Decoder"
 msgstr "རོལ་རྩེད་ཆས་ཀྱི་གླུ་དབྱངས་ཨང་འགྲོལ་ཆས།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Generate file name from:"
 msgstr "ཡིག་ཆའི་མིང་གྲུབ་ཚུལ་གྱི་འབྱུང་ཁུངས།"
 
 msgid "Genre"
-msgstr "ཕྱོགས་ཁ།"
+msgstr "ཉམས་འགྱུར།"
 
 msgid ""
 "Global Hotkey Plugin\n"
@@ -1335,13 +1337,13 @@ msgid "Global Hotkeys"
 msgstr "ཁྱོན་ཡོངས་ཚ་མཐེབ།"
 
 msgid "Go Backward"
-msgstr "གཞས་སྔོན་མ།"
+msgstr "གཞས་གོང་མ།"
 
 msgid "Go Forward"
-msgstr "གཞས་གཞུག་མ།"
+msgstr "གཞས་རྗེས་མ།"
 
 msgid "Help"
-msgstr "རོགས་རམ།"
+msgstr " རོགས་རམ།"
 
 msgid "High"
 msgstr "མཐོ།"
@@ -1368,7 +1370,7 @@ msgid "Ignore subtunes shorter than:"
 msgstr "སྣང་མེད་གཏོང་བའི་subtunesཐུང་བ་"
 
 msgid "Import Playlist ..."
-msgstr "གཏོང་བའི་རེའུ་མིག་ནང་འདྲེན།"
+msgstr "གཏོང་བའི་རེའུ་མིག་འདྲེན་པ།"
 
 msgid "Import Winamp Presets"
 msgstr " WinAMP སྔོན་བཀོད་ནང་འདྲེན།"
@@ -1403,6 +1405,7 @@ msgid ""
 "\n"
 "Do you want to continue?"
 msgstr ""
+"ཙིག་རྟགས་ཀྱི་མཐེབ་གཙོ་སྦྲེལ་བ་འོས་སྦྱོར་བྱེད་མེད། མུ་མཐུད་བྱེད་དགོས་སམ"
 
 msgid "JACK Output"
 msgstr "JAKཕྱིར་འདོན།"
@@ -1431,6 +1434,8 @@ msgstr "མཆོང་ས་ཡིག་ཆ།"
 
 msgid "Keep this window open and click 'Check Permission' again.\n"
 msgstr ""
+"སྒེའུ་ཁུང་འདི་རྒྱུན་སྲུང་བྱེད།  "
+"'དབང་ཚད་ཞིབ་བཤེར་'ལ་ཡང་བསྐྱར་ཆིག་རྡེབ་བྱེད།\n"
 
 msgid "LADSPA Host"
 msgstr "LADSPAགཙོ་འཁོར།"
@@ -1456,7 +1461,7 @@ msgid "Library"
 msgstr ""
 
 msgid "Line"
-msgstr "ཐིག"
+msgstr "སྐུད་ལམ།"
 
 msgid "Linear (fast)"
 msgstr "ཐིག་གཤིས། (མགྱོགས་མྱུར།)"
@@ -1603,7 +1608,7 @@ msgid "N_o Playlist Advance"
 msgstr "གཞས་ངོས་རྗེས་མ་རང་གཏོང་འགོག(_o)"
 
 msgid "Name:"
-msgstr "མིང་།"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid "Nearest (fastest)"
 msgstr "ཆེས་ཉེ་བ། (ཆེས་མགྱོགས་པ།)"
@@ -1624,7 +1629,7 @@ msgid "Next Playlist"
 msgstr "གཏོང་བའི་རེའུ་མིག་ངོས་རྗེས་མ།"
 
 msgid "Next track"
-msgstr "གཞས་གཞུག་མ།"
+msgstr "གཞས་རྗེས་མ།"
 
 msgid "No Playlist Advance"
 msgstr "གཞས་གཞུག་མ་རང་གཏོང་འགོག"
@@ -1642,10 +1647,10 @@ msgid "Noise reduction"
 msgstr "འཛེར་སྒྲ་ཇེ་ཉུང་དུ་གཏོང་བ།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Normal"
-msgstr "སྤྱིར་བཏང་།"
+msgstr "དཀྱུས་མ།"
 
 msgid "OK. Scrobbling for user: %s"
 msgstr "འགྲུབ་སོང་། སྤྱོད་མཁན་ལ་%s Scedble"
@@ -1664,10 +1669,10 @@ msgid ""
 msgstr ""
 
 msgid "O_nly"
-msgstr "གླུ་རྐྱང་རེས་འཁོར། "
+msgstr "གཞས་རྐྱང་རེས་འཁོར།"
 
 msgid "Off"
-msgstr "ཁ་རྒྱག"
+msgstr "ཁ་རྒྱག་པ།"
 
 msgid "Ogg Vorbis Decoder"
 msgstr "Ogg Vorbis ཨང་འགྲོལ་ཆས།"
@@ -1676,7 +1681,7 @@ msgid "Omit Xing VBR header"
 msgstr "Xing VBRམགོ་སྣང་མེད།"
 
 msgid "On"
-msgstr "ཁ་ཕྱེ།"
+msgstr "ཁ་འབྱེད།"
 
 msgid "On All Workspaces"
 msgstr "ལས་ཁུལ་ཡོངས་མཐོང་ཐུབ།"
@@ -1697,10 +1702,10 @@ msgid "Only add v2 tag"
 msgstr "v2གདོང་འཛར་ཁོ་ན་སྣོན།"
 
 msgid "Only signed 16-bit, native endian audio is supported.\n"
-msgstr ""
+msgstr "རང་སའི་གནས་16སྣེ་རིམ་སྒྲ་ཟློས་ཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད།\n"
 
 msgid "Open Files"
-msgstr "ཡིག་ཆ་ཁ་འབྱེད།"
+msgstr " ཡིག་ཆའི་ཁ་འབྱེད་པ།"
 
 msgid "Open Files ..."
 msgstr "ཡིག་ཆ་ཁ་ཕྱེ་བ། ..."
@@ -1812,16 +1817,16 @@ msgid "Paus_e"
 msgstr "སྐབས་སྡོད།(_e)"
 
 msgid "Pause"
-msgstr "སྐབས་སྡོད།"
+msgstr " སྐབས་འཇོག"
 
 msgid "Pause Off"
 msgstr "གཏོང་བ་སླར་གསོ།"
 
 msgid "Pause On"
-msgstr "གཏོང་བ་སྐབས་སྡོད།གཏོང་མཚམས་འཇོག་པ།"
+msgstr "གཏོང་བ་སྐབས་སྡོད།"
 
 msgid "Pause/Resume"
-msgstr "སྐབས་སྡོད།/མུ་མཐུད།"
+msgstr "གནས་སྐབས་མཚམས་འཇོག་/མུ་མཐུད་།"
 
 msgid "Peak falloff:"
 msgstr "ཚད་རྩེ་འགྲིལ་བའི་འགྲོས་ཚད།"
@@ -1836,10 +1841,10 @@ msgid "Pitch:"
 msgstr "སྒྲ་གདངས།"
 
 msgid "Placement"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Play"
-msgstr "སྒྲགས་གཏོང་།"
+msgstr " བསྒྲགས་གཏོང་།"
 
 msgid "Play Amiga MODs"
 msgstr "Amiga MOD ཡིག་ཆ་གཏོང་བ།"
@@ -1848,16 +1853,16 @@ msgid "Play CD"
 msgstr "CDགཏོང་བ།"
 
 msgid "Play Start/Play Pause"
-msgstr "གཏོང་བ/སྐབས་སྡོད།"
+msgstr "གཏོང་བ།/སྐབས་འཇོག"
 
 msgid "Play Stop"
-msgstr "མཚམས་འཇོག"
+msgstr "མཚམས་འཇོག་པ།"
 
 msgid "Play/Resume"
 msgstr "གཏོང་བ/མུ་མཐུད།"
 
 msgid "Playback"
-msgstr "གཏོང་བ།"
+msgstr " བསྒྲགས་གཏོང་།"
 
 msgid "Playback Start"
 msgstr "གཏོང་མགོ་བརྩམ།"
@@ -1866,7 +1871,7 @@ msgid "Player:"
 msgstr "གཏོང་ཆས།"
 
 msgid "Playlist"
-msgstr "གཏོང་བའི་རེའུ་མིགཁྱབ་གཏོང་རེའུ་མིག"
+msgstr "གཏོང་བའི་རེའུ་མིག"
 
 msgid "Playlist (optional)"
 msgstr "གཏོང་བའི་རེའུ་མིག(འདེམས་རུང་།)"
@@ -1896,13 +1901,13 @@ msgid "Port:"
 msgstr "མཐུད་ཁ།"
 
 msgid "Position"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Pre_vious"
 msgstr "གཞས་སྔོན་མ།(_v)"
 
 msgid "Preamp"
-msgstr "མདུན་བཞག་ཆེར་སྐྱེད།"
+msgstr "མདུན་བཞག་ཆེར་སྐྱེད་ཆས།"
 
 msgid "Prepend track number to file name"
 msgstr "ཡིག་ཆའི་སྔོན་དུ་སྒྲ་ལམ་ཨང་སྣོན།"
@@ -1917,6 +1922,8 @@ msgid ""
 "Press a key combination inside a text field.\n"
 "You can also bind mouse buttons."
 msgstr ""
+"ཡིག་རྐྱང་ཁུལ་དུ་སྡོམ་དགོས་པའི་འདུས་མཐེབ་གནོན་རོགས། "
+"ཁྱེད་ཀྱིས་ཙིག་རྟགས་ཀྱི་མཐེབ་ཀྱང་སྡོམ་ཐུབ།"
 
 msgid "Previous"
 msgstr "གཞས་སྔ་མ།"
@@ -1925,7 +1932,7 @@ msgid "Previous Playlist"
 msgstr "གཏོང་བའི་རེའུ་མིག་སྔོན་མ་བོ།"
 
 msgid "Previous track"
-msgstr "གཞས་སྔོན་མ་བོ།"
+msgstr "གཞས་གོང་མ།"
 
 msgid "PulseAudio Output"
 msgstr "PulseAudioཕྱིར་འདོན།"
@@ -1945,7 +1952,7 @@ msgid "QtMultimedia Output"
 msgstr "QtMultmediaཕྱིར་འདོན།"
 
 msgid "Quality"
-msgstr "སྤུས་ཚད།"
+msgstr "སྒྲ་རྒྱུ།"
 
 msgid "Quality level (0 - 10):"
 msgstr "སྤུས་ཚད་རིམ་པ།(0-10)："
@@ -1969,7 +1976,7 @@ msgid "Quiet after:"
 msgstr "འཇགས་སྒྲའི་དུས་ཚོད།："
 
 msgid "Quit"
-msgstr "ཕྱིར་འདོན་པ།"
+msgstr " ཕྱིར་འབུད།"
 
 msgid "R_everse Order"
 msgstr "ལྡོག་རིམ།(_e)"
@@ -2014,7 +2021,7 @@ msgid "Remo_ve"
 msgstr "གཏོང་བའི་རེའུ་མིག་འདོར་བ། (_v)"
 
 msgid "Remove All"
-msgstr "གཙང་སེལ།"
+msgstr "དྭངས་གསལ།"
 
 msgid "Remove Duplicates"
 msgstr "བསྐྱར་ཟློས་ཀྱི་དོན་ཚན་བསུབ་པ།"
@@ -2111,13 +2118,13 @@ msgid ""
 msgstr ""
 
 msgid "Sample rate:"
-msgstr "དཔེ་བསྡུ་ཚད།"
+msgstr "དཔེ་སྒྲུག་ཚད།："
 
 msgid "Saturday"
 msgstr "གཟའ་སྤེན་པ།"
 
 msgid "Save"
-msgstr "ཉར་བ།"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
 
 msgid "Save Auto Preset ..."
 msgstr "རང་འཇུག་སྔོན་བཀོད་ཉར་བ། ..."
@@ -2180,7 +2187,7 @@ msgid "Se_ttings ..."
 msgstr "སྒྲིག་འགོད།...(_t)"
 
 msgid "Search"
-msgstr "འཚོལ་བ།"
+msgstr "བཤེར་འཚོལ།"
 
 msgid "Search Library"
 msgstr "བཤེར་འཚོལ་མཛོད།"
@@ -2204,7 +2211,7 @@ msgid "Seek to %d:%-2.2d / %d:%-2.2d"
 msgstr "འཚོལ་བྱ། %d:%-2.2d/%d:%-2.2d"
 
 msgid "Select All"
-msgstr "ཚང་མ་འདེམས།"
+msgstr "ཡོད་ཚད་འདེམ་པ།"
 
 msgid "Select None"
 msgstr "བདམས་པ་ལེན་པ།"
@@ -2229,10 +2236,10 @@ msgid "Select playlist font:"
 msgstr "གཏོང་བའི་རེའུ་མིག་གི་ཡིག་གཟུགས་འདེམ་པ།"
 
 msgid "Server:"
-msgstr "ཞབས་ཞུ་ཆས།"
+msgstr "ཞབས་ཞུ་ཆས།："
 
 msgid "Services"
-msgstr "ཞབས་ཞུ།"
+msgstr " ཞབས་ཞུ།"
 
 msgid "Set A-B Repeat"
 msgstr "གནས་A-Bརེས་འཁོར་འགོད་པ།"
@@ -2253,7 +2260,7 @@ msgid "Set minimum playback time:"
 msgstr "གཏོང་བའི་དུས་ཚོད་ཆེ་ཤོག་བཀོལ།"
 
 msgid "Settings"
-msgstr "སྒྲིག་འགོད།"
+msgstr " སྒྲིག་འགོད།"
 
 msgid "Settings ..."
 msgstr "སྒྲིག་འགོད། ..."
@@ -2412,13 +2419,13 @@ msgid "Speed and Pitch"
 msgstr "འགྲོས་ཚད་དང་སྒྲ་གདངས།"
 
 msgid "Speed:"
-msgstr "འགྲོས་ཚད།："
+msgstr "མྱུར་ཚད།："
 
 msgid "Spline (good)"
 msgstr "དཔེ་ཟློས། (ཅུང་བཟང་།)"
 
 msgid "Start at"
-msgstr "འགོ་ཚུགས་དུས།"
+msgstr "ནས་འགོ་ཚུགས།"
 
 msgid "Status Icon"
 msgstr "རྣམ་པའི་རིས་རྟགས།"
@@ -2437,16 +2444,16 @@ msgid "Stereo"
 msgstr ""
 
 msgid "Stop"
-msgstr "停止མཚམས་འཇོག"
+msgstr "མཚམས་འཇོག་པ།"
 
 msgid "Stop A_fter This Song"
 msgstr "གླུ་དབྱངས་འདིའི་རྗེས་ལ་མཚམས་བཞག"
 
 msgid "Stop After This Song"
-msgstr ""
+msgstr "གླུ་དབྱངས་འདིའི་རྗེས་ལ་མཚམས་བཞག"
 
 msgid "Stopped"
-msgstr "མཚམས་བཞག"
+msgstr "མཚམས་བཞག་ཟིན།"
 
 msgid "Stopping after song."
 msgstr "ལེགས་གྲུབ་བྱུང་རྗེས་མཚམས་འཇོག་དགོས།"
@@ -2455,7 +2462,7 @@ msgid "Strictly enforce minimum bitrate"
 msgstr "ཨང་ཚད་ཆུང་ཤོས་ལག་བསྟར་ནན་པོ་བྱེད་དགོས།"
 
 msgid "Style:"
-msgstr "བཟོ་ལྟ།"
+msgstr "པར་རིས་འཇོག་སྟངས།"
 
 msgid "Sunday"
 msgstr "གཟའ་ཉི་མ།"
@@ -2479,7 +2486,7 @@ msgid "Test"
 msgstr "ཚོད་ལེན།"
 
 msgid "Text"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཡིག་དེབ།"
 
 msgid ""
 "The JACK server requires a sample rate of %d Hz, but Audacious is playing at"
@@ -2519,7 +2526,7 @@ msgid ""
 msgstr ""
 
 msgid "Threshold:"
-msgstr "མཚམས་ཐང་།"
+msgstr "མཚམས་ཐང་།:"
 
 msgid "Thursday"
 msgstr "གཟའ་ཕུར་བུ།"
@@ -2556,13 +2563,13 @@ msgid "Timing (ms)"
 msgstr "དུས་འགྱངས།(ms)"
 
 msgid "Title"
-msgstr "ཁ་བྱང་།"
+msgstr " ཁ་བྱང་།"
 
 msgid "Title Change"
 msgstr "ཁ་བྱང་བསྒྱུར་བ།"
 
 msgid "Title:"
-msgstr "ཁ་བྱང་།"
+msgstr "ཁ་བྱང་།:"
 
 msgid ""
 "Title: %t\n"
@@ -2582,6 +2589,8 @@ msgid ""
 "To import your music library into Audacious, choose a folder and then click "
 "the \"refresh\" icon."
 msgstr ""
+"ཁྱེད་ཀྱི་གླུ་གཞས་མཛོད་གླུ་གཞས་གཏོང་ཆས་སུ་འདྲེན་དགོས་ན། ཡིག་ཁུག་ཅིག་བདམས་ནས། "
+"“གསར་སྒྱུར་”རིས་རྟགས་ལ་ཆིག་རྡེབ་བྱེད།"
 
 msgid "To repeat forever, set the repeat count to -1."
 msgstr "བརྟན་དུ་བསྐྱར་གཏོང་བྱ་དགོས་ན། བསྐྱར་ཟློས་གྲངས་བགྲང་ -1ལ་བཀོད།"
@@ -2605,7 +2614,7 @@ msgid "Tone Generator: "
 msgstr "སྒྲ་གདངས་སྐྱེད་གྲུབ་ཆས།: "
 
 msgid "Too many redirects"
-msgstr "ཕྱོགས་བསྐྱར་ངེས་མང་དྲག་པ།"
+msgstr "ཡང་བསྐྱར་ཕྱོགས་ངེས་མང་དྲགས་པ།"
 
 msgid "Track"
 msgstr "སྒྲ་ལམ།"
@@ -2645,7 +2654,7 @@ msgid "Tuesday"
 msgstr "གཟའ་མིག་དམར།"
 
 msgid "Type:"
-msgstr "རིགས་གྲས།"
+msgstr "རིགས་གྲས།:"
 
 msgid "Unable to fetch %s"
 msgstr "%sཕྱིར་ལེན་མི་ཐུབ།"
@@ -2717,7 +2726,7 @@ msgid "View"
 msgstr "ཕྱི་ཚུལ།"
 
 msgid "Visualization"
-msgstr "མཐོང་རུང་ཅན་གྱི་ཕན་འབྲས།"
+msgstr "རྟོག་བཟོས་ཕན་འབྲས།"
 
 msgid "Visualization type:"
 msgstr "མཐོང་རུང་ཅན་གྱི་རིགས།"
@@ -2765,7 +2774,7 @@ msgid "Volume _Up"
 msgstr "སྒྲ་ཚད་མཐོན་པོར་གཏོང་།"
 
 msgid "Volume down"
-msgstr "སྒྲ་ཚད་དམའ་རུ་གཏོང་།"
+msgstr "སྐད་ཆུང་དུ་གཏོང་བ།"
 
 msgid "Volume up"
 msgstr "སྒྲ་ཚད་མཐོན་པོར་གཏོང་།"
@@ -2801,13 +2810,13 @@ msgid "Winamp Classic Interface"
 msgstr "Winamp གསུང་རབ་འཆར་ངོས"
 
 msgid "Working ..."
-msgstr "ལས་བཞིན་པ་ ..."
+msgstr "ལས་བཞིན་པ།..."
 
 msgid "XML Shareable Playlists (XSPF)"
 msgstr "མཉམ་སྤྱོད་རུང་པའི་XMLགཏོང་བའི་རེའུ་མིག（XSPF）"
 
 msgid "Year"
-msgstr "ལོ་འཁོར།"
+msgstr " ལོ་ཚིགས།"
 
 msgid ""
 "You can use the following format strings which will be substituted before calling the command (not all are useful for the end-of-playlist command):\n"
@@ -2828,12 +2837,14 @@ msgstr ""
 msgid ""
 "You need to allow Audacious to scrobble tracks to your Last.fm account.\n"
 msgstr ""
+"ཁྱེད་ཀྱིས་གླུ་གཞས་གཏོང་ཆས་ལ Scrobbleཁྱོད་ཀྱི་རྩིས་ཐོLast.fm "
+"ཡི་གླུ་གཞས་ཆོག་པ་བྱེད།\n"
 
 msgid "Your reminder for today is..."
 msgstr "ཁྱོད་ཀྱི་དེ་རིང་གི་དྲན་ཐོ།……"
 
 msgid "_Add"
-msgstr "སྣོན་པ། (_A)"
+msgstr "སྣོན་པ། (A)"
 
 msgid "_Add Files ..."
 msgstr "ཡིག་ཆ་སྣོན་པ།(_A)"
@@ -2845,22 +2856,22 @@ msgid "_Add to Playlist"
 msgstr "གཏོང་བའི་རེའུ་མིག་ཏུ་སྣོན་པ།(_A)"
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Clear Repeat Points"
 msgstr "རེས་འཁོར་ཚེག་སེལ་བ།(_C)"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Copy"
-msgstr "འདྲ་བཟོ།(_C)"
+msgstr "འདྲ་པར།(_C)"
 
 msgid "_Create Playlist"
 msgstr "གཏོང་བའི་རེའུ་མིག་གསར་བཟོ།(_C)"
 
 msgid "_Delete"
-msgstr "འདོར་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "_Equalizer"
 msgstr "སྙོམས་ཆས།(_E)"
@@ -2869,7 +2880,7 @@ msgid "_Export ..."
 msgstr "ཕྱིར་འདྲེན།..(_E)"
 
 msgid "_File"
-msgstr "ཡིག་ཆ།(_F)"
+msgstr "ཡིག་ཆ། (_F)"
 
 msgid "_Import ..."
 msgstr "ནང་འདྲེན་...(_I)"
@@ -2881,16 +2892,16 @@ msgid "_Log Inspector ..."
 msgstr "ཉིན་ཐོ་ལྟ་རྟོག(_L) ..."
 
 msgid "_New"
-msgstr "གསར་བཟོ།(_N)"
+msgstr "གསར་འཛུགས།(_N)"
 
 msgid "_Next"
 msgstr "གཞས་ངོས་རྗེས་མ།(_N)"
 
 msgid "_OK"
-msgstr "འགྲིག་པ།(_O)"
+msgstr "གཏན་འཁེལ།"
 
 msgid "_Open"
-msgstr "ཁ་འབྱེད་། (_O)"
+msgstr "ཁ་འབྱེད།(O)"
 
 msgid "_Open Containing Folder"
 msgstr "ཁོངས་གཏོགས་ཡིག་ཁུག་ཁ་འབྱེད། (_O)"
@@ -2923,16 +2934,16 @@ msgid "_Queue/Unqueue"
 msgstr "རུ་འཇུག／རུ་འདོན།(_Q)"
 
 msgid "_Quit"
-msgstr "ཕྱིར་ཐོན།(_Q)"
+msgstr "ཕྱིར་འབུད། (_Q)"
 
 msgid "_Random Order"
-msgstr "སྐབས་བསྟུན།(_R)"
+msgstr "སྐབས་བསྟུན། (_R)"
 
 msgid "_Refresh"
-msgstr "གསར་སྒྱུར།(_R)"
+msgstr "གསར་འདོན།(_R)"
 
 msgid "_Remove"
-msgstr "སྤོ་བ།(_R)"
+msgstr "སྤོ་བ།（R)"
 
 msgid "_Rename ..."
 msgstr "མིང་བསྐྱར་འདོགས།...(_R)"
@@ -2953,10 +2964,10 @@ msgid "_Sort"
 msgstr "རིམ་སྒྲིག(_S)"
 
 msgid "_Stop"
-msgstr "མཚམས་འཇོག(_S)"
+msgstr "མཚམས་འཇོག (_S)"
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "_Visualizations ..."
 msgstr "རྟོག་བཟོས་ཐོབ་འབྲས།... (_V)"
@@ -2965,7 +2976,7 @@ msgid "all monitors"
 msgstr "འཆར་ཆས་ཚང་མ།"
 
 msgid "audacious"
-msgstr "གླུ་དབྱངས་གཏོང་ཆས།"
+msgstr "གླུ་གཞས་གཏོང་ཆས།"
 
 msgid "by"
 msgstr " -"
@@ -2974,7 +2985,7 @@ msgid "dB"
 msgstr ""
 
 msgid "enable"
-msgstr "བཀོལ་བ།"
+msgstr "སྤྱོད་འགོ་འཛུགས་པ།"
 
 msgid "h"
 msgstr "ཚེག"
@@ -2998,10 +3009,10 @@ msgid "monitor %i"
 msgstr "འཆར་ཆས།%i"
 
 msgid "mono"
-msgstr "སྒྲ་ལམ་གཅིག་ཅན།"
+msgstr "སྒྲ་ལམ་རྐྱང་མ།"
 
 msgid "ms"
-msgstr "ཧའོ་མིའོ།"
+msgstr "ཧའོ་སྐར་ཆ།"
 
 msgid "note numbers"
 msgstr "སྒྲ་རྟགས་ཀྱི་ཨང་ཀི།"
@@ -3010,7 +3021,7 @@ msgid "of this genre"
 msgstr "ཁྱད་ཆོས་འདི་ལ་གཏོགས།"
 
 msgid "on"
-msgstr "ཁ་འབྱེད་པ།"
+msgstr "ཡོད།"
 
 msgid "seconds"
 msgstr "སྐར་ཆ།"

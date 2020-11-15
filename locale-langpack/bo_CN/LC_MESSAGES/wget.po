@@ -877,7 +877,7 @@ msgid "%s: illegal option -- `-n%c'\n"
 msgstr ""
 
 msgid "%s: invalid option -- '%c'\n"
-msgstr ""
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
 
 msgid "%s: missing URL\n"
 msgstr ""
@@ -888,31 +888,31 @@ msgid ""
 msgstr ""
 
 msgid "%s: option '%c%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '%s' is ambiguous\n"
-msgstr ""
+msgstr "%s： འདེམས་ཚན “%s” ནི་གསལ་པོ་མེད་པ། \n"
 
 msgid "%s: option '%s' is ambiguous; possibilities:"
 msgstr "%s： འདེམས་ཚན “%s” ནི་གཏན་ཁེལ་མེད་ཕལ་ཆེར།："
 
 msgid "%s: option '--%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '--%s' requires an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
 
 msgid "%s: option '-W %s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
 
 msgid "%s: option '-W %s' is ambiguous\n"
 msgstr ""
 
 msgid "%s: option '-W %s' requires an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
 
 msgid "%s: option requires an argument -- '%c'\n"
-msgstr ""
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
 
 msgid "%s: unable to resolve bind address %s; disabling bind.\n"
 msgstr ""
@@ -924,10 +924,10 @@ msgid "%s: unknown/unsupported file type.\n"
 msgstr ""
 
 msgid "%s: unrecognized option '%c%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
 
 msgid "%s: unrecognized option '--%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
 
 msgid "'"
 msgstr ""
@@ -1191,7 +1191,7 @@ msgid "Download:\n"
 msgstr ""
 
 msgid "ERROR"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "ERROR: Cannot open directory %s.\n"
 msgstr ""
@@ -1822,7 +1822,7 @@ msgid "Unknown authentication scheme.\n"
 msgstr ""
 
 msgid "Unknown error"
-msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+msgstr "གསང་ཨང་རྙོག་འཛིང་ཚད་བླང་བྱ་དང་མི་མཐུན་པ།"
 
 msgid "Unknown host"
 msgstr ""
@@ -1894,7 +1894,7 @@ msgid ""
 msgstr ""
 
 msgid "WARNING"
-msgstr "ཐ་ཚིག "
+msgstr " ཐ་ཚིག"
 
 msgid ""
 "WARNING: combining -O with -r or -p will mean that all downloaded content\n"
@@ -1987,7 +1987,7 @@ msgid ""
 msgstr ""
 
 msgid "done.\n"
-msgstr ""
+msgstr "ལེགས་འགྲུབ།\n"
 
 msgid "done.  "
 msgstr ""

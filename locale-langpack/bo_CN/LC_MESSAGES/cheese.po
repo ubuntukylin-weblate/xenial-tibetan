@@ -32,13 +32,13 @@ msgstr[0] "ཁྱེད་ཀྱིས་དངོས་གནས་ཡིག་
 msgstr[1] "ཁྱེད་ཀྱིས་དངོས་གནས་ཡིག་ཆ་%d འདོར་འདོད་དམ།"
 
 msgid "Brightness"
-msgstr "དཀར་ཚད།"
+msgstr "གསལ་ཚད།"
 
 msgid "Burst"
 msgstr "བསྟུད་མར་པར་ལེན།"
 
 msgid "Burst mode"
-msgstr "བསྟུད་མར་པར་ལེན་རྣམ་པ།"
+msgstr "བསྟུད་མར་པར་ལེན་པའི་རྣམ་པ།"
 
 msgid "Camera device string indicator"
 msgstr "པར་ཆས་སྒྲིག་ཆས་ཡིག་རྟགས་ཕྲེང་སྟོན་ཆས།"
@@ -76,7 +76,7 @@ msgid "Could not move %s to trash"
 msgstr " %sསྙིགས་སྒམ་དུ་སྤོ་མི་ཐུབ།"
 
 msgid "Could not open %s"
-msgstr " %sཁ་འབྱེད་མི་ཐུབ།"
+msgstr "%s ཁ་ཕྱེ་ཐབས་མེད།"
 
 msgid "Could not save %s"
 msgstr " %sཉར་མི་ཐུབ།"
@@ -91,17 +91,19 @@ msgid ""
 "Defines the path where the photos are stored. If empty, \"XDG_PHOTO/Webcam\""
 " will be used."
 msgstr ""
+"འདྲ་པར་ཉར་བའི་འགྲོ་ལམ་སྟོད། གལ་ཏེ་སྟོང་བ་ཡིན་ན། “XDG_PHOTO/Webcam”སྤྱོད།"
 
 msgid ""
 "Defines the path where the videos are stored. If empty, \"XDG_VIDEO/Webcam\""
 " will be used."
 msgstr ""
+"བརྙན་ཟློས་ཉར་བའི་འགྲོ་ལམ་སྟོད། གལ་ཏེ་སྟོང་བ་ཡིན་ན།“XDG_VIDEO/Webcam”སྤྱོད།"
 
 msgid "Delay between photos (seconds)"
 msgstr "འདྲ་པར་ཕྱིར་འགྱངས།(སྐར་ཆ།)"
 
 msgid "Delete"
-msgstr "འདོར་བ།"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
 
 msgid "Device"
 msgstr "སྒྲིག་ཆས།"
@@ -122,7 +124,7 @@ msgid "Fire flash before taking a photo"
 msgstr "པར་ལེན་པའི་སྔོན་དུ་འོད་འཚེར་བ།"
 
 msgid "Hue"
-msgstr "ཚོན་མདོག"
+msgstr "ཚོས་གཞི།"
 
 msgid "If you delete an item, it will be permanently lost"
 msgid_plural "If you delete the items, they will be permanently lost"
@@ -130,7 +132,7 @@ msgstr[0] "གལ་ཏེ་ཁྱེད་ཀྱིས་རྣམ་གྲང
 msgstr[1] "གལ་ཏེ་ཁྱེད་ཀྱིས་རྣམ་གྲངས་འདི་དག་འདོར་ན། དེ་དག་ཡལ་བ་ཡིན།"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Image brightness"
 msgstr "བརྙན་རིས་དཀར་ཚད།"
@@ -181,7 +183,7 @@ msgid "One or more needed GStreamer elements are missing: "
 msgstr "GStreamer གཞི་རྒྱུ་གཅིག་གམ་མང་པོ་མི་འདང་།： "
 
 msgid "Open"
-msgstr "ཁ་འབྱེད།"
+msgstr "ཁ་ཕྱེ་བ།"
 
 msgid "Output version information and exit"
 msgstr "རྩིས་ཐེམ་གྱི་ཆ་འཕྲིན་ཕྱིར་གཏོང་ནས་ཕྱིར་ཐོན།"
@@ -211,7 +213,7 @@ msgid "Photo width"
 msgstr "འདྲ་པར་ཞེང་ཚད།"
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Record a Video"
 msgstr "བརྙན་ཕབ།"
@@ -226,13 +228,13 @@ msgid "Saturation"
 msgstr "ཚད་ལོངས་ཚད།"
 
 msgid "Save"
-msgstr "ཉར་བ།"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
 
 msgid "Save File"
-msgstr "ཡིག་ཆ་ཉར་བ།"
+msgstr "ཡིག་ཆ་ཉར་ཚགས།"
 
 msgid "Save _As…"
-msgstr "གཞན་ཉར།(_A)..."
+msgstr "གཞན་དུ་བཅོལ་བ།(_A)..."
 
 msgid "Set to true to fire a flash before taking a photo"
 msgstr "གལ་ཏེ་པར་ལེན་དུས་འོད་འཚེར་འདོད་ན། trueལ་བཀོད་རོགས།"
@@ -331,19 +333,19 @@ msgid ""
 msgstr ""
 
 msgid "Unknown device"
-msgstr "མི་ཤེས་པའི་སྒྲིག་ཆས།"
+msgstr "ངེས་མེད་ཀྱི་སྒྲིག་ཆས།"
 
 msgid "Use a countdown"
 msgstr "དུས་ཚོད་ལྡོག་རྩིས་སྤྱོད་པ།"
 
 msgid "Video"
-msgstr "བརྙན་ཟློས།"
+msgstr " བརྙན་ཟློས།"
 
 msgid "Video height"
 msgstr "བརྙན་ཟློས་ཀྱི་མཐོ་ཚད།"
 
 msgid "Video mode"
-msgstr "བརྙན་ཟློས་ཀྱི་རྣམ་པ།"
+msgstr "བརྙན་ཟློས་རྣམ་པ།"
 
 msgid "Video path"
 msgstr "བརྙན་ཟློས་ཀྱི་འགྲོ་ལམ།"
@@ -364,34 +366,34 @@ msgid "Webcam in use"
 msgstr "བརྙན་མིག་བཀོལ་སྤྱོད་བྱེད་བཞིན་ཡོད།"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Countdown"
 msgstr "དུས་ལྡོག་རྩིས།(_C)"
 
 msgid "_Delete"
-msgstr "འདོར་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "_Effects"
 msgstr "ཐོབ་འབྲས(_E)"
 
 msgid "_Fullscreen"
-msgstr "ཡོལ་ཧྲིལ།(_F)"
+msgstr "བརྙན་ཡོལ་ཧྲིལ་པོ།(_F)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Quit"
-msgstr "ཕྱིར་ཐོན།(_Q)"
+msgstr "ཕྱིར་འབུད། (_Q)"
 
 msgid "_Select"
-msgstr "འདེམ་པ།(_S)"
+msgstr "འདེམ་པ། (_S)"
 
 msgid "_Take Another Picture"
 msgstr "ཡང་པར་གཅིག་ལེན།(_T)"

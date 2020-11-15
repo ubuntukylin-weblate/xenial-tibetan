@@ -35,10 +35,10 @@ msgid "%s: Bad number given to --reset=\n"
 msgstr ""
 
 msgid "%s: Can't reset all users to non-zero\n"
-msgstr ""
+msgstr "%s: སྤྱོད་མཁན་ཚང་མ་བསྐྱར་དུ་ཀླད་ཀོར་མིན་པར་སྡེབ་སྒྲིག་བྱེད་ཐབས་བྲལ།\n"
 
 msgid "%s: Unrecognised option %s\n"
-msgstr ""
+msgstr "%s: དབྱེ་འབྱེད་མ་ཐུབ་པའི་འདེམ་བྱང་། %s\n"
 
 msgid "%s: [--file rooted-filename] [--user username] [--reset[=n]] [--quiet]\n"
 msgstr ""
@@ -53,10 +53,10 @@ msgid "(current) UNIX password: "
 msgstr "（མིག་སྔར།）UNIXགསང་ཨང་།"
 
 msgid "...Sorry, your time is up!\n"
-msgstr ""
+msgstr "...དགོངས་པ་མ་ཚོམ།ཁྱེད་རང་གི་དུས་ཚོད་རྫོགས་ཚར་འདུག\n"
 
 msgid "...Time is running out...\n"
-msgstr ""
+msgstr "..དུས་ཚོད་རྫོགས་ལ་ཉེ།....\n"
 
 msgid "Access granted (last access was %ld seconds ago)."
 msgstr "ལྟ་སྤྱོད་བྱས་ཆོག (ཐེངས་སྔོན་མའི་ལྟ་སྤྱོད་ནི་སྐར་ཆ་ %ld ཡི་སྔོན）"
@@ -115,7 +115,7 @@ msgid "Changing STRESS password for %s."
 msgstr "s%ཆེད་STRESSགསང་ཨང་བཟོ་བཅོས་བྱེད་པ།"
 
 msgid "Changing password for %s."
-msgstr "%sཡི་གསང་ཨང་བཟོ་བཅོས།"
+msgstr "s%ཆེད་STRESSགསང་ཨང་བཟོ་བཅོས་བྱེད་པ།"
 
 msgid "Conversation error"
 msgstr "བརྗེ་སྤོར་ནོར་འཁྲུལ།"
@@ -130,7 +130,7 @@ msgid "Critical error - immediate abort"
 msgstr "ནོར་འཁྲུལ་ཚབས་ཆེན། འཕྲལ་མར་མཚམས་འཇོག་དགོས།"
 
 msgid "Default Security Context %s\n"
-msgstr ""
+msgstr "སོར་བཞག་བདེ་འཇགས་རང་བཞིན་ཁོར་ཡུག%satn"
 
 msgid "Enter new STRESS password: "
 msgstr "STRESSགསང་ཨང་གསར་པ་ནང་འཇུག"
@@ -168,6 +168,8 @@ msgstr "ཐེངས་སྔོན་མའི་ཐོ་འགོད།：%s%
 
 msgid "Login           Failures Latest failure     From\n"
 msgstr ""
+"\"Login           Failures Latest failure     From\n"
+"\""
 
 msgid "Memory buffer error"
 msgstr "ནང་གསོག་ལྷོད་གཏོང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
@@ -182,7 +184,7 @@ msgid "New %s%spassword: "
 msgstr "%sགསང་ཨང་གསར་པ།"
 
 msgid "No default type for role %s\n"
-msgstr ""
+msgstr "འཁྲབ་བྱའི་མི་སྣ་མེད་པའི%s སོར་བཞག་རིགས་གྲས།\n"
 
 msgid "No mail."
 msgstr "ཡིག་ཟམ་མེད།"
@@ -212,7 +214,7 @@ msgid "Password: "
 msgstr "གསང་ཨང་།"
 
 msgid "Permission denied"
-msgstr ""
+msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
 
 msgid "Retype %s"
 msgstr " %sབསྐྱར་འཇུག་བྱོས།"
@@ -275,7 +277,7 @@ msgid "Unknown PAM error"
 msgstr "ངེས་མེད་ཀྱི་PAMནོར་འཁྲུལ།"
 
 msgid "Unknown error"
-msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+msgstr "གསང་ཨང་རྙོག་འཛིང་ཚད་བླང་བྱ་དང་མི་མཐུན་པ།"
 
 msgid "Unknown user"
 msgstr "ངེས་མེད་ཀྱི་སྤྱོད་མཁན།"
@@ -359,7 +361,7 @@ msgid "contains too many same characters consecutively"
 msgstr "རྒྱུན་མཐུད་གཅིག་མཚུངས་ཀྱི་ཡིག་རྟགས་མང་དྲགས་པ།"
 
 msgid "erroneous conversation (%d)\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ་གྱི་བརྗེ་སྤོར་འདུག(%d)\n"
 
 msgid "failed to initialize PAM\n"
 msgstr ""
@@ -374,7 +376,7 @@ msgid "is rotated"
 msgstr "གསང་ཨང་རྙིང་པའི་འཁོར་སྐྱོད་ཡིན།"
 
 msgid "is the same as the old one"
-msgstr "གསང་ཨང་རྙིང་པ་དང་མཚུངས་པ།"
+msgstr "གསང་ཨང་གསར་པ་དང་གསང་ཨང་རྙིང་པ་གཅིག་པ་རེད།"
 
 msgid "is too similar to the old one"
 msgstr "གསང་ཨང་རྙིང་པ་དང་འདྲ་དྲགས་པ།"
@@ -386,13 +388,13 @@ msgid "level:"
 msgstr "རིམ་པ།"
 
 msgid "login:"
-msgstr "ཐོ་འགོད།"
+msgstr "ཐོ་འགོད།:"
 
 msgid "login: failure forking: %m"
 msgstr "ཐོ་འགོད།བུའི་འཕེལ་རིམ་གསར་འཛུགས་ཕམ་པ།"
 
 msgid "memory allocation error"
-msgstr "ནང་གསོག་བགོད་པ་ནོར་འཁྲུལ་བྱུང་།"
+msgstr "ནང་གསོག་བགོ་བ་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "not enough character classes"
 msgstr "ཡིག་རྟགས་ཀྱི་རིགས་དབྱེ་འདང་ངེས་ཤིག་མེད།"

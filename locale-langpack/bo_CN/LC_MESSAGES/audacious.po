@@ -20,8 +20,8 @@ msgstr ""
 
 msgid "%d channel"
 msgid_plural "%d channels"
-msgstr[0] "སྒྲ་ལམ་%d"
-msgstr[1] "སྒྲ་ལམ་%d"
+msgstr[0] "%dསྒྲ་ལམ།"
+msgstr[1] "%dསྒྲ་ལམ།"
 
 msgid "%d file found"
 msgid_plural "%d files found"
@@ -32,7 +32,7 @@ msgid "%d kb/s"
 msgstr ""
 
 msgid "%s Settings"
-msgstr "%s བཀོད་པ།"
+msgstr "%s སྒྲིག་འགོད།"
 
 msgid "(character encoding error)"
 msgstr "(ཡིག་རྟགས་སྒྲིག་ཨང་ནོར་འཁྲུལ།)"
@@ -68,19 +68,19 @@ msgid "63 Hz"
 msgstr "63 ཧོ་ཙི།"
 
 msgid "8 kHz"
-msgstr "8000 ཧོ་ཙི།"
+msgstr "ཕབ་འཇུག"
 
 msgid "<b>Adjust Levels</b>"
 msgstr "<b>ལེགས་སྒྲིག་ཞེང་ཚད།</b>"
 
 msgid "<b>Advanced</b>"
-msgstr "<b>མཐོ་རིམ་སྒྲིག་འགོད།</b>"
+msgstr "<b>མཐོ་རིམ།</b>"
 
 msgid "<b>Album Art</b>"
 msgstr "<b>ཆེད་སྒྲིག་གི་མདུན་ཤོག</b>"
 
 msgid "<b>Behavior</b>"
-msgstr "<b>སྤྱོད་པ།</b>"
+msgstr "<b>བྱ་སྤྱོད།</b>"
 
 msgid "<b>Compatibility</b>"
 msgstr "<b>འཆམ་མཐུན་རང་བཞིན།</b>"
@@ -89,7 +89,7 @@ msgid "<b>Interface Settings</b>"
 msgstr "<b>འཆར་ངོས་བཀོད་པ།</b>"
 
 msgid "<b>Network Settings</b>"
-msgstr "<b>དྲ་བ་བཀོད་པ།</b>"
+msgstr "<b>དྲ་བ་སྒྲིག་བཀོད།</b>"
 
 msgid "<b>Output Settings</b>"
 msgstr "<b>ཕྱིར་འདོན་བཀོད་པ།</b>"
@@ -122,7 +122,7 @@ msgid "ARTIST [ ALBUM ] - TRACK. TITLE"
 msgstr "སྒྱུ་རྩལ་བ།[ཆེད་སྒྲིག] - རོལ་དབྱངས་ཨང་གྲངས། ཁ་བྱང་།"
 
 msgid "About %s"
-msgstr " %sཡི་སྐོར།"
+msgstr "%sཡི་སྐོར།"
 
 msgid "About Audacious"
 msgstr "གླུ་དབྱངས་གཏོང་ཆས་ཀྱི་སྐོར།"
@@ -134,10 +134,10 @@ msgid "Acid Rock"
 msgstr "སྐྱུར་གཤིས་འདར་ཡོམ།"
 
 msgid "Add"
-msgstr "གསར་བཟོ།"
+msgstr "རྩིག་ཤོག་ཁ་སྣོན།"
 
 msgid "Add Files"
-msgstr "ཡིག་ཆ་སྣོན"
+msgstr "ཡིག་ཆ་སྣོན་པ།"
 
 msgid "Add Folder"
 msgstr "ཡིག་ཁུག་སྣོན"
@@ -176,7 +176,7 @@ msgid "Appearance"
 msgstr "ཕྱི་ཚུལ།"
 
 msgid "Arabic"
-msgstr "ཨ་རབ་ཀྱི་སྐད་ཆ།"
+msgstr "ཨ་རབ་ཀྱི་སྐད།"
 
 msgid "Artist"
 msgstr "སྒྱུ་རྩལ་པ།"
@@ -200,7 +200,7 @@ msgid "Auto character encoding detector for:"
 msgstr "གཤམ་གྱི་སྒྲིག་ཨང་རང་བཤེར་བྱེད།"
 
 msgid "Baltic"
-msgstr "པའོ་ལའོ་ཡི་སྐད་ཆ།"
+msgstr "པའོ་ལའོ་ཡི་སྐད།"
 
 msgid "Bebop"
 msgstr "པའོ་ཕུ་རྗེ་སི་རོལ་མོ།"
@@ -209,7 +209,7 @@ msgid "Bit depth:"
 msgstr "གནས་ཟབ།"
 
 msgid "Bitrate"
-msgstr "བསྡུར་ཚད།"
+msgstr "པི་ཐི་ཕྱོད།"
 
 msgid "Bitrate:"
 msgstr "པི་ཐེ་ཕྱོད།"
@@ -233,7 +233,7 @@ msgid "Cannot save %s: unsupported file name extension."
 msgstr " %sཉར་མི་ཐུབ། ཡིག་ཆའི་རྒྱ་སྐྱེད་མིང་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "Category"
-msgstr "རིགས།"
+msgstr "རིགས་དབྱེ།"
 
 msgid "Chamber Music"
 msgstr "ནང་གི་རོལ་དབྱངས།"
@@ -275,7 +275,7 @@ msgid "Credits"
 msgstr "དམིགས་སུ་ཐུགས་རྗེ་ཆེ་ཞུ་རྒྱུ།"
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "Custom string:"
 msgstr "ཡིག་རྟགས་རང་གཏན།"
@@ -287,7 +287,7 @@ msgid "Death Metal"
 msgstr "ཤི་བའི་ལྕགས་རིགས།"
 
 msgid "Debug"
-msgstr "ཚོད་སྒྲིག"
+msgstr " ཚོད་སྒྲིག"
 
 msgid "Disco"
 msgstr "ཏི་སི་ཁོ།"
@@ -308,7 +308,7 @@ msgid "Easy Listening"
 msgstr "འཇམ་སྙན་རོལ་མོ།"
 
 msgid "Effect"
-msgstr "སྒྲ་ཕྱོད།"
+msgstr "སྒྲ་ཚད།"
 
 msgid "Enable Replay Gain"
 msgstr "གཏོང་བའི་ཁེ་འཕར་བཀོལ་བ།"
@@ -317,7 +317,7 @@ msgid "Enable proxy usage"
 msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས་བཀོལ་བ།"
 
 msgid "Enter URL:"
-msgstr "ཤག་གནས་ནང་འཇུག"
+msgstr "གནས་ཡུལ་ནང་འཇུག"
 
 msgid "Enter time (minutes:seconds):"
 msgstr "དུས་ཚོད་། (སྐར་མ:སྐར་ཆ)ནང་འཇུག"
@@ -326,7 +326,7 @@ msgid "Equalizer"
 msgstr "དོ་སྙོམ་ཆས།"
 
 msgid "Error"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Error loading plugin"
 msgstr "བསྒར་ལྷུ་སྣོན་པའི་ནོར་འཁྲུལ།"
@@ -352,13 +352,13 @@ msgid "File format not recognized"
 msgstr "མི་ཤེས་པའི་ཡིག་ཆ་རྣམ་གཞག་"
 
 msgid "File name"
-msgstr "ཡིག་ཆའི་མིང་།"
+msgstr " ཡིག་ཆའི་མིང་།"
 
 msgid "File path"
 msgstr "ཡིག་ཆའི་འགྲོ་ལམ།"
 
 msgid "Filename"
-msgstr "ཡིག་ཆའི་མིང་།"
+msgstr " ཡིག་ཆའི་མིང་།"
 
 msgid "Filter: "
 msgstr "འཚག་ཆས།"
@@ -373,7 +373,7 @@ msgid "Format:"
 msgstr "རྣམ་གཞག"
 
 msgid "Function"
-msgstr "བྱེད་ལས།"
+msgstr "བྱེད་ནུས།"
 
 msgid "Funk"
 msgstr "ཕན་ཁེ།"
@@ -382,16 +382,16 @@ msgid "Gangsta Rap"
 msgstr "ཇག་གླུ།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Genre"
-msgstr "ཕྱོགས་ཁ།"
+msgstr "ཉམས་འགྱུར།"
 
 msgid "Gospel"
 msgstr "གསུང་རབ་རོལ་དབྱངས།"
 
 msgid "Greek"
-msgstr "ཞི་ལའི་སྐད་ཆ།"
+msgstr " ཀུ་རུ་སིའི་སྐད།"
 
 msgid "Grunge"
 msgstr "གད་སྙིགས་འདར་འགྲིལ་རོལ་དབྱངས།"
@@ -403,7 +403,7 @@ msgid "Heavy Metal"
 msgstr "ལྕགས་རིགས་ལྕི་བ།"
 
 msgid "Hebrew"
-msgstr "ཞི་པོ་ལའེ་སྐད་ཆ།"
+msgstr "ཞི་པོ་ལའེ་སྐད།"
 
 msgid "Hip-hop"
 msgstr "ཧེ་ཧ་རོལ་དབྱངས།"
@@ -415,7 +415,7 @@ msgid "Import Playlist"
 msgstr "གཏོང་བའི་རེའུ་མིག་འདྲེན་པ།"
 
 msgid "Info"
-msgstr "ཆ་འཕྲིན།"
+msgstr " ཆ་འཕྲིན།"
 
 msgid "Input"
 msgstr "ནང་འཇུག"
@@ -436,7 +436,7 @@ msgid "Invalid file name"
 msgstr "ནུས་མེད་ཀྱི་ཡིག་ཆའི་མིང་།"
 
 msgid "Japanese"
-msgstr "ཉི་ཧོང་སྐད།"
+msgstr " ཉི་ཧོང་གི་སྐད།"
 
 msgid "Jazz"
 msgstr "རྗེ་སི་རོལ་མོ།"
@@ -463,10 +463,10 @@ msgid "Level"
 msgstr "རིམ་པ།"
 
 msgid "License"
-msgstr "ཆོག་མཆན་དཔང་ཡིག"
+msgstr "ཆོག་འཐུས་ལག་ཁྱེར།"
 
 msgid "Line"
-msgstr "ཐིག"
+msgstr "སྐུད་ལམ།"
 
 msgid "Log Inspector"
 msgstr "ཉིན་ཐོའི་ལྟ་རྟོག་ཆས།"
@@ -475,13 +475,13 @@ msgid "Log Level:"
 msgstr "ཉིན་ཐོའི་རིམ་པ།"
 
 msgid "MIME Type"
-msgstr "སྨྱན་གཟུགས་ཀྱི་རིགས།"
+msgstr "སྨྱན་གཟུགས་རིགས།"
 
 msgid "Message"
 msgstr "བརྡ་འཕྲིན།"
 
 msgid "Metadata"
-msgstr "རྒྱུ་གཞི་གྲངས།"
+msgstr "རྒྱུའི་གཞི་གྲངས།"
 
 msgid "Metal"
 msgstr "ལྕགས་རིགས།"
@@ -490,10 +490,10 @@ msgid "Mono"
 msgstr "Mono"
 
 msgid "N/A"
-msgstr "མི་འཚམ།"
+msgstr "nan"
 
 msgid "Network"
-msgstr "དྲ་བ།"
+msgstr "དྲ་རྒྱ།"
 
 msgid "New Age"
 msgstr "དུས་རབས་གསར་པ།"
@@ -505,25 +505,25 @@ msgid "New Wave"
 msgstr "རྦ་རླབས་གསར་པ།"
 
 msgid "No info available for %s.\n"
-msgstr ""
+msgstr "%sདང་འབྲེལ་བ་ཡོད་པའི་ཆ་འཕྲིན་རྙེད་མ་བྱུང་།\n"
 
 msgid "Noise"
 msgstr "འཛེར་སྒྲ་རོལ་དབྱངས།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Now Playing"
 msgstr "གཏོང་བཞིན་པ།"
 
 msgid "Open"
-msgstr "ཁ་འབྱེད།"
+msgstr "ཁ་ཕྱེ་བ།"
 
 msgid "Open Files"
-msgstr "ཡིག་ཆ་ཁ་འབྱེད།"
+msgstr " ཡིག་ཆའི་ཁ་འབྱེད་པ།"
 
 msgid "Open Folder"
-msgstr "ཡིག་ཁུག་ཁ་འབྱེད་བ།"
+msgstr "ཡིག་ཁུག་ཁ་ཕྱེ་བ།"
 
 msgid "Open URL"
 msgstr "URLཁ་ཕྱེ་བ།"
@@ -550,7 +550,7 @@ msgid "Performer"
 msgstr "རོལ་ཆས་བཀྲོལ་བ།"
 
 msgid "Playlist"
-msgstr "གཏོང་བའི་རེའུ་མིགཁྱབ་གཏོང་རེའུ་མིག"
+msgstr "གཏོང་བའི་རེའུ་མིག"
 
 msgid "Plugins"
 msgstr "བསྒར་ལྷུ།"
@@ -559,7 +559,7 @@ msgid "Plugins ..."
 msgstr "བསྒར་ལྷུ།"
 
 msgid "Polish"
-msgstr "པོ་ལན་སྐད་ཡིག"
+msgstr " ཕོ་ལན་སྐད།"
 
 msgid "Pop"
 msgstr "དར་བ།"
@@ -568,7 +568,7 @@ msgid "Popup delay (tenths of a second):"
 msgstr "རྡུང་བ་ཕྱི་འགྱངས། (སྐར་ཆ་བཅུ་ཆ་གཅིག)"
 
 msgid "Preamp"
-msgstr "མདུན་བཞག་ཆེར་སྐྱེད།"
+msgstr "མདུན་བཞག་ཆེར་སྐྱེད་ཆས།"
 
 msgid "Prevent clipping (recommended)"
 msgstr "ཅོར་སྒྲ་འགོག་པ།（འོས་སྦྱོར།）"
@@ -595,7 +595,7 @@ msgid "Punk Rock"
 msgstr "ཕང་ཁེའི་རོལ་དབྱངས།"
 
 msgid "Quality"
-msgstr "སྤུས་ཚད།"
+msgstr "སྒྲ་རྒྱུ།"
 
 msgid "Quality:"
 msgstr "སྒྲ་སྤུས།"
@@ -640,7 +640,7 @@ msgid "Run in Qt mode"
 msgstr "Qtརྣམ་པས་འཁོར་སྐྱོད་བྱེད་པ།"
 
 msgid "Russian"
-msgstr "ཨུ་རུ་སུའི་སྐད་ཡིག"
+msgstr "ཨུ་རུ་སུའི་སྐད།"
 
 msgid "Save error"
 msgstr "ཉར་ཚགས་ནོར་འཁྲུལ།"
@@ -679,7 +679,7 @@ msgid "Show time scale for current song"
 msgstr "གཏོང་མཚམས་འཇོག་པ།"
 
 msgid "Show version"
-msgstr "པར་གཞི་མངོན་བ།"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་འཆར་བ།"
 
 msgid "Ska"
 msgstr "སི་ཁ།"
@@ -715,7 +715,7 @@ msgid "Swing"
 msgstr "རོལ་ཆ་གཏོང་བ།"
 
 msgid "TITLE"
-msgstr "ཁ་བྱང་།"
+msgstr " ཁ་བྱང་།"
 
 msgid "Taiwanese"
 msgstr "ཐའེ་དབན་གྱི་སྐད་ཆ།"
@@ -734,7 +734,7 @@ msgstr ""
 "གཏོང་བའི་རེའུ་མིག་གནས་སྐབས་སུ་ཉར་མི་ཐུབ།"
 
 msgid "Title"
-msgstr "ཁ་བྱང་།"
+msgstr " ཁ་བྱང་།"
 
 msgid "Title format:"
 msgstr "ཁ་བྱང་གི་བཟོ་ལྟ།"
@@ -758,7 +758,7 @@ msgid "Trip-hop"
 msgstr "ཡུལ་སྐོར་རོལ་དབྱངས།"
 
 msgid "Turkish"
-msgstr "ཐུར་ཁེའི་སྐད་ཆ།"
+msgstr "ཐུར་ཁེའི་སྐད།"
 
 msgid "Un_queue"
 msgstr "སྟར་ཐོན།(_q)"
@@ -767,10 +767,10 @@ msgid "Unknown URI scheme"
 msgstr "མི་ཤེས་པའི་ URI རིས་ཁྲ།"
 
 msgid "Unknown option: %s\n"
-msgstr ""
+msgstr "མི་ཤེས་པའི་འདེམས་ཚན།%s\n"
 
 msgid "Unknown option: -%c\n"
-msgstr ""
+msgstr "མི་ཤེས་པའི་འདེམས་ཚན། -%c\n"
 
 msgid "Unknown playback error"
 msgstr "མི་ཤེས་པའི་གཏོང་བའི་ནོར་འཁྲུལ།"
@@ -778,7 +778,7 @@ msgstr "མི་ཤེས་པའི་གཏོང་བའི་ནོར་
 msgid ""
 "Usage: audacious [OPTION] ... [FILE] ...\n"
 "\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས། audacious [འདེམས་ཚན།] ... [ཡིག་ཆ།] ...\n"
 
 msgid "Use authentication with proxy"
 msgstr "ལས་ཚབ་ཞབས་ཞུ་ཆས་ཀྱི་རེ་འདུན་ར་སྤྲོད།"
@@ -787,31 +787,31 @@ msgid "Use software volume control (not recommended)"
 msgstr "མཉེན་སྒྲ་ཚད་ཚོད་འཛིན་བཀོལ་བ།（འོས་སྦྱོར་མིན།）"
 
 msgid "Visualization"
-msgstr "མཐོང་རུང་ཅན་གྱི་ཕན་འབྲས།"
+msgstr "རྟོག་བཟོས་ཕན་འབྲས།"
 
 msgid "Warning"
-msgstr "ཐ་ཚིག "
+msgstr " ཐ་ཚིག"
 
 msgid "What would you like to call this playlist?"
 msgstr "ཁྱེད་ཀྱིས་གཏོང་བའི་རེའུ་མིག་འདི་ཇི་ལྟར་འབོད་པའི་རེ་བ་ཡོད།"
 
 msgid "Working ..."
-msgstr "ལས་བཞིན་པ་ ..."
+msgstr "ལས་བཞིན་པ།..."
 
 msgid "Year"
-msgstr "ལོ་འཁོར།"
+msgstr " ལོ་ཚིགས།"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Add"
-msgstr "སྣོན་པ། (_A)"
+msgstr "སྣོན་པ། (A)"
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Don’t ask again"
 msgstr "མི་འདྲི་བ། (D)"
@@ -835,7 +835,7 @@ msgid "_Next"
 msgstr "གཞས་ངོས་རྗེས་མ།(_N)"
 
 msgid "_Open"
-msgstr "ཁ་འབྱེད་། (_O)"
+msgstr "ཁ་འབྱེད།(O)"
 
 msgid "_Overwrite"
 msgstr "བཀབ།(O)"
@@ -847,7 +847,7 @@ msgid "_Queue"
 msgstr "རུ་འཇུག(_Q)"
 
 msgid "_Remove"
-msgstr "སྤོ་བ།(_R)"
+msgstr "སྤོ་བ།（R)"
 
 msgid "_Rename"
 msgstr "མིང་བསྐྱར་འདོགས།(_R)"
@@ -865,13 +865,13 @@ msgid "_Unqueue"
 msgstr "རུ་སྟར་ལས་འདོར། (U)"
 
 msgid "audacious"
-msgstr "གླུ་དབྱངས་གཏོང་ཆས།"
+msgstr "གླུ་གཞས་གཏོང་ཆས།"
 
 msgid "dB"
 msgstr ""
 
 msgid "ms"
-msgstr "ཧའོ་མིའོ།"
+msgstr "ཧའོ་སྐར་ཆ།"
 
 msgid "music file"
 msgstr "སྒྲ་ཟློས་ཡིག་ཆ་"

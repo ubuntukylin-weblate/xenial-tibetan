@@ -20,7 +20,7 @@ msgid "%s Loop Device"
 msgstr "%s ཕྱིར་སྐོར་སྒྲིག་ཆས།"
 
 msgid "Apple Partition Map"
-msgstr "Apple བགོ་ཁུལ་རྟེན་འཕྲོ།"
+msgstr "Appleཁུལ་བགོས་རྟེན་འཕྲོ།"
 
 msgid "Authentication is required to abort a SMART self-test on $(drive)"
 msgstr "$(drive) SMART རང་བཤེར་མཚམས་འཇོག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
@@ -309,7 +309,7 @@ msgid "Authentication is required to wake up $(drive) from standby mode"
 msgstr "སྒུག་པའི་རྣམ་པ་ནས་ $(drive) གཉིད་དཀྲོག་པར་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས།"
 
 msgid "Block Device"
-msgstr "དུམ་བུ་སྒྲིག་ཆས།"
+msgstr " དུམ་བུའི་སྒྲིག་ཆས།"
 
 msgid "Cancel job"
 msgstr "ལས་འགན་དོར་བ།"
@@ -327,7 +327,7 @@ msgid "Delete loop devices"
 msgstr "ཕྱིར་སྐོར་སྒྲིག་ཆས་བསུབ་པ།"
 
 msgid "Eject media"
-msgstr "སྨྱན་གཟུགས་ཕྱིར་གཏོང་བ།"
+msgstr "སྨྱན་གཟུགས་ཕྱིར་གཏོང་།"
 
 msgid "Eject media from a drive attached to another seat"
 msgstr "ཤུར་གཞན་ཞིག་ཏུ་སྦྲེལ་བའི་སྐུལ་སློང་ཆས་ནང་གི་སྨྱན་གཟུགས་ཕྱིར་གཏོང་བ།"
@@ -489,19 +489,19 @@ msgid "%s Card Reader"
 msgstr "%s ཁཱ་ཀློག་ཆས།"
 
 msgid "%s Drive"
-msgstr "%s སྒུལ་ཆས།"
+msgstr "%s སྐུལ་སློང་ཆས།"
 
 msgid "%s Disk"
 msgstr "%s སྡུད་སྡེར།"
 
 msgid "%s Drive"
-msgstr "%s སྒུལ་ཆས།"
+msgstr "%s སྐུལ་སློང་ཆས།"
 
 msgid "%s %s Drive"
 msgstr "%s %s སྐུལ་སློང་ཆས།"
 
 msgid "%s Drive"
-msgstr "%s སྒུལ་ཆས།"
+msgstr "%s སྐུལ་སློང་ཆས།"
 
 msgid "%s Card"
 msgstr "%s ཁཱ།"
@@ -609,7 +609,7 @@ msgid "UDF (version %s)"
 msgstr "UDF(པར་གཞི %s)"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unknown (%s %s)"
 msgstr "ངེས་མེད། (%s %s)"
@@ -663,10 +663,10 @@ msgid "exFAT (version %s)"
 msgstr "exFAT (པར་གཞི  %s)"
 
 msgid "Drive"
-msgstr "སྒུལ་ཆས།"
+msgstr "སྐུལ་སློང་ཆས།"
 
 msgid "Hidden"
-msgstr "སྦེད་པ།"
+msgstr "གབ་པ།"
 
 msgid "Legacy BIOS Bootable"
 msgstr "རྣམ་རྙིང་ BIOS འགོ་སློང་རུང་།"
@@ -690,7 +690,7 @@ msgid "Adding Device to Array"
 msgstr "སྒྲིག་ཆས་གྲམ་སྟར་དུ་ཁ་སྣོན་པ།"
 
 msgid "Cleaning Up"
-msgstr ""
+msgstr "གཙང་སེལ།"
 
 msgid "Creating Filesystem"
 msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས་གསར་འཛུགས"
@@ -912,7 +912,7 @@ msgid "Zip"
 msgstr ""
 
 msgid "%s (%s)"
-msgstr "%s(%s)"
+msgstr "%s (%s)"
 
 msgid "%s — %s (%s)"
 msgstr ""
@@ -963,7 +963,7 @@ msgid "Apple Label"
 msgstr "Apple ངོ་རྟགས་ཁུལ།"
 
 msgid "Apple Partition Map"
-msgstr "Apple བགོ་ཁུལ་རྟེན་འཕྲོ།"
+msgstr "Appleཁུལ་བགོས་རྟེན་འཕྲོ།"
 
 msgid "Apple RAID"
 msgstr ""
@@ -1020,7 +1020,7 @@ msgid "EFI System"
 msgstr "EFI རྒྱུད་ཁོངས།"
 
 msgid "Empty"
-msgstr "སྟོང་བ།"
+msgstr "སྟོང་པ།"
 
 msgid "Extended"
 msgstr "རྒྱ་སྐྱེད།"
@@ -1269,10 +1269,10 @@ msgid "ZFS"
 msgstr ""
 
 msgid "%s (%s)"
-msgstr "%s(%s)"
+msgstr "%s (%s)"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Generic"
 msgstr "ཀུན་སྤྱོད།"
@@ -1287,7 +1287,7 @@ msgid "Other"
 msgstr "གཞན་དག"
 
 msgid "Windows"
-msgstr "སྒེའུ་ཁུང་།"
+msgstr " སྒེའུ་ཁུང་།"
 
 msgid "Unknown (%s)"
 msgstr "ངེས་མེད། (%s)"

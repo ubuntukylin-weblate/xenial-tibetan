@@ -61,7 +61,7 @@ msgid "About"
 msgstr "འབྲེལ་ཡོད།"
 
 msgid "All selection"
-msgstr "ཀུན་འདེམས།"
+msgstr "ཡོངས་འདེམས།"
 
 msgid "An upgrade of an Android compatible package has been detected"
 msgstr ""
@@ -74,7 +74,7 @@ msgid "Automatically restart the update manager in three seconds"
 msgstr "དོ་དམ་ཆས་གསར་སྒྱུར་སྐར་ཆ་གསུམ་གྱི་རྗེས་སུ་རང་འགུལ་ངང་བསྐྱར་སྒུལ་བྱེད།"
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Click the Cancel button,"
 msgstr "འདོར་མཐེབ་ནོན།"
@@ -142,7 +142,7 @@ msgid "Installing crucial update."
 msgstr "འགག་རྩའི་གསར་སྒྱུར་སྒྲིག་འཇུག་བྱེད་བཞིན་ཡོད་།"
 
 msgid "Installing..."
-msgstr "སྒྲིག་འཇུག་བྱེད་བཞིན་པ།……"
+msgstr "སྒྲིག་འཇུག་བྱེད་བཞིན་པ།..."
 
 msgid "KB, downloaded"
 msgstr "KBཕབ་ལེན་བྱས་ཟིན།"
@@ -151,7 +151,7 @@ msgid "KB,totality nums"
 msgstr "KBསྤྱིའི་གྲངས་ཚད་ནི།"
 
 msgid "Kylin Update Manager"
-msgstr "ཆི་ལིན་གྱིས་དོ་དམ་ཆས་གསར་བསྒྱུར།"
+msgstr "ཆི་ལིན་གྱིས་དོ་དམ་ཆས་གསར་དུ་བསྒྱུར།"
 
 msgid "Kylin Update Manager "
 msgstr "ཆི་ལིན་གྱིས་དོ་དམ་ཆས་གསར་དུ་བསྒྱུར།"
@@ -200,7 +200,7 @@ msgid "No upgrade media available, Program Quit."
 msgstr "སྤྱོད་རུང་གི་རིམ་སྤོར་སྨྱན་གཟུགས་མེད་ན་བྱ་རིམ་ཕྱིར་འཐེན་བྱེད་པ།"
 
 msgid "OK"
-msgstr "གཏན་འཁེལ"
+msgstr " གཏན་འཁེལ།"
 
 msgid "Ordinary and Important update successed..."
 msgstr "སྤྱིར་བཏང་དང་གལ་ཆེའི་གསར་སྒྱུར་ལེགས་གྲུབ།"
@@ -265,7 +265,7 @@ msgid "The network is blocked"
 msgstr ""
 
 msgid "There are"
-msgstr "ཡོད་པ།"
+msgstr "ཡོད།"
 
 msgid "Time"
 msgstr "དུས་ཚོད།"
@@ -274,13 +274,13 @@ msgid "Timing start"
 msgstr ""
 
 msgid "Ubuntu Kylin Official website"
-msgstr ""
+msgstr "གཡུ་ཆི་ལིན་གཞུང་དྲ།"
 
 msgid "Unable to get changelog due to installation failure"
 msgstr ""
 
 msgid "Update"
-msgstr "གསར་སྒྱུར།"
+msgstr "གསར་བསྒྱུར།"
 
 msgid "Update Description: "
 msgstr "གསར་སྒྱུར་ཞིབ་བརྗོད།"
@@ -329,7 +329,7 @@ msgid "Updating, Please wait."
 msgstr "གསར་སྒྱུར་བྱེད་བཞིན་ཡོད། ཏོག་ཙམ་སྒུག་རོགས།"
 
 msgid "Upgrade"
-msgstr "རིམ་སྤེལ།"
+msgstr "རིམ་སྤར།"
 
 msgid "Upgrading Update Manager."
 msgstr "དོ་དམ་འཕྲུལ་ཆས་རིམ་སྤོར་གསར་སྒྱུར་བྱེད་བཞིན་པ།"
@@ -353,7 +353,7 @@ msgid "dbus service starting..."
 msgstr "dbusཞབས་ཞུ་འགོ་སློང་བཞིན་ཡོད།"
 
 msgid "download"
-msgstr "ཕབ་ལེན།"
+msgstr " ཕབ་ལེན།"
 
 msgid "download cancel"
 msgstr "ཕབ་ལེན་དོར་བ།"
@@ -456,7 +456,7 @@ msgid "update"
 msgstr "ཁུངས་གསར་བསྒྱུར།"
 
 msgid "update details"
-msgstr "གསར་སྒྱུར་གནས་ཚུལ་ཞིབ་ཕྲ།"
+msgstr "གསར་བསྒྱུར་གནས་ཚུལ་ཞིབ་ཕྲ།"
 
 msgid "update failed"
 msgstr ""
@@ -481,3 +481,36 @@ msgstr ""
 
 msgid "没有需要更新的程序"
 msgstr ""
+
+msgid " entries, Size "
+msgstr "ཚན་པ་དང་མཉམ་བཟུང་སྡུད་སྡེར།"
+
+msgid "Boot automatic detection"
+msgstr "ཁ་ཕྱེ་བའི་རང་འགུལ་ཞིབ་བཤེར་ཚད་ལེན།"
+
+msgid "Daily timing detection"
+msgstr "ཉིན་རེའི་དུས་ཆད་བཤེར་འཇལ།"
+
+msgid "Download Process: "
+msgstr "ཕབ་ལེན་བྱེད་ཚད།"
+
+msgid "Install Details: "
+msgstr "སྒྲིག་འཇུག་གི་གནས་ཚུལ་ཞིབ་ཕྲ།"
+
+msgid "Install Process: "
+msgstr "སྒྲིག་འཇུག་བྱེད་ཚད།"
+
+msgid "Select one entry at least."
+msgstr "ཁྱོད་ཀྱིས་མ་མཐའ་ཡང་གསར་བསྒྱུར་ཞིག་འདེམ་དགོས།"
+
+msgid "Updating"
+msgstr "གསར་སྒྱུར་བྱེད་བཞིན་པ།"
+
+msgid "about"
+msgstr "འབྲེལ་ཡོད།"
+
+msgid "entries, Size: "
+msgstr "རྣམ་གྲངས། ཆེ་ཆུང་།"
+
+msgid "setting"
+msgstr " སྒྲིག་འགོད།"

@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "\thost  unmatched"
-msgstr ""
+msgstr "\tགཙོ་འཁོར་ཟླ་སྒྲིག་མིན།"
 
 msgid ""
 "\n"
@@ -87,13 +87,13 @@ msgid ""
 msgstr ""
 
 msgid "    Commands:\n"
-msgstr ""
+msgstr "བཀའ་བརྡ།：\n"
 
 msgid "    Options: "
 msgstr "འདེམས་ཚན།："
 
 msgid "    Order: %s\n"
-msgstr ""
+msgstr "གོ་རིམ།：%s\n"
 
 msgid "    RunAsGroups: "
 msgstr "RunAs ཚོ།："
@@ -131,19 +131,21 @@ msgid "%s exists but is not a directory (0%o)"
 msgstr "%s གནས་ཡོད་མོད་འོན་ཀྱང་དཀར་ཆག་མིན།(0%o)"
 
 msgid "%s grammar version %d\n"
-msgstr ""
+msgstr "%s བརད་སྤྲོད་པར་གཞི།  %d\n"
 
 msgid "%s is group writable"
-msgstr ""
+msgstr "%s ཚོ་འབྲི་བྱས་ཆོག"
 
 msgid "%s is not a regular file"
 msgstr "%s རྒྱུན་ལྡན་ཡིག་ཆ་མིན།"
 
 msgid "%s is not allowed to run sudo on %s.  This incident will be reported.\n"
 msgstr ""
+"%s དེས %s སྟེང་ "
+"sudoའཁོར་སྐྱོད་བྱེད་པའི་དབང་ཆ་མེད་དེ་དོན་འདི་སྙན་ཞུ་བྱ་བ་ཡིན། \n"
 
 msgid "%s is not in the sudoers file.  This incident will be reported.\n"
-msgstr ""
+msgstr "%s དེ་ sudoers ཡིག་ཆ་རུ་མེད་དེ་དོན་འདི་སྙན་ཞུ་བྱ་བ་ཡིན། \n"
 
 msgid "%s is owned by gid %u, should be %u"
 msgstr "%s དེ་ཚོ ID %u རུ་གཏོགས་ཏེ་ %u ཡིན།"
@@ -155,7 +157,7 @@ msgid "%s is world writable"
 msgstr "%s མི་སུས་ཀྱང་བྲིས་ཆོག"
 
 msgid "%s must be owned by uid %d"
-msgstr ""
+msgstr "%s ངེས་པར་དུ་སྤྱོད་མཁན་ ID %d གཏོགས་དགོས།"
 
 msgid "%s must only be writable by owner"
 msgstr "%s ངེས་པར་དུ་བདག་པོ་ཁོ་ནས་བྲིས་ཆོག་པ་དགོས།"
@@ -164,10 +166,10 @@ msgid "%s requires an argument"
 msgstr "%s ལ་ཞུགས་གྲངས་དགོས།"
 
 msgid "%s unchanged"
-msgstr ""
+msgstr "%s བཟོ་བཅོས་བྱས་མེད།"
 
 msgid "%s version %s\n"
-msgstr ""
+msgstr " %s པར་གཞི།%s\n"
 
 msgid "%s/%.2s/%.2s/%.2s/timing: %s"
 msgstr "\"%s/%.2s/%.2s/%.2s/ དུས་རིམ།:%s"
@@ -185,7 +187,7 @@ msgid "%s: Cannot verify TGT! Possible attack!: %s"
 msgstr "%s：དམིགས་ཡུལ་ར་སྤྲོད་བྱེད་ཐབས་མེད་དེ་ཕལ་ཆེར་རྒོལ་བ་ཐེབས་འདུག།：%s"
 
 msgid "%s: bad permissions, should be mode 0%o\n"
-msgstr ""
+msgstr "%s：དབང་ཚད་ཡང་དག་མིན་ཏེ་རྣམ་པ་ནི 0%o ཡིན་དགོས། \n"
 
 msgid "%s: command not found"
 msgstr ""
@@ -201,7 +203,7 @@ msgid "%s: invalid log file"
 msgstr "%s：ནུས་མེད་ཀྱི་ཉིན་ཐོ་ཡིག་ཆ།"
 
 msgid "%s: parsed OK\n"
-msgstr ""
+msgstr "%s：དབྱེ་ཞིབ་ཡང་དག \n"
 
 msgid "%s: read error"
 msgstr ""
@@ -246,7 +248,7 @@ msgid "%s: user field is missing"
 msgstr "%s：སྤྱོད་མཁན་ཡིག་དུམ་ཆད་པ།"
 
 msgid "%s: wrong owner (uid, gid) should be (%u, %u)\n"
-msgstr ""
+msgstr "%s：ནོར་འཁྲུལ་གྱི་བདག་པོ། (uid, gid) དེ། (%u, %u) ཡིན་དགོས། \n"
 
 msgid "%u incorrect password attempt"
 msgid_plural "%u incorrect password attempts"
@@ -260,6 +262,8 @@ msgid ""
 "Account expired or PAM config lacks an \"account\" section for sudo, contact"
 " your system administrator"
 msgstr ""
+"རྩིས་ཐོ་དུས་ཡོལ་བའམ་ཡང་ན  PAM སྡེབ་སྒྲིག་ལ  sudoཡིས་སྤཡད་པའི "
+"“account”ཚན་པ་ཆད་པས་ཁྱེད་ཀྱི་རྒྱུད་ཁོངས་དོ་དམ་པ་འབྲེལ་བ་བྱོས།"
 
 msgid "Account or password is expired, reset your password and try again"
 msgstr ""
@@ -409,7 +413,7 @@ msgid "Length at which to wrap log file lines (0 for no wrap): %u"
 msgstr "ཉིན་ཐོ་ཡིག་ཆ་ཕྲེང་ལྟེབ་ཀྱི་རིང་ཚད།(0 ཕྲེང་ལྟེབ་མི་བྱེད།)：%u"
 
 msgid "Local IP address and netmask pairs:\n"
-msgstr ""
+msgstr "རང་གནས་IP ཤག་གནས་དང་དྲ་རྒྱ་གབ་ཨང་འགྲིག：\n"
 
 msgid "Locale to use while parsing sudoers: %s"
 msgstr "sudoers དབྱེ་ཞིབ་བྱེད་སྐབས་སྤྱོད་པའི་ཁུལ་ཁོངས་སྒྲིག་འགོད།：%s"
@@ -432,7 +436,7 @@ msgid "Log user's input for the command being run"
 msgstr "སྤྱོད་མཁན་གྱིས་ལག་བསྟར་བྱས་པའི་བཀའ་བརྡའི་ནང་གི་ནང་འཇུག་ཐོ་འགོད་པ།"
 
 msgid "Matching Defaults entries for %s on %s:\n"
-msgstr ""
+msgstr " %2$s སྟེང་ %1$s ཡི་སོར་བཞག་ས་བཅད་ཟླ་སྒྲིག་བྱེད་པ།：\n"
 
 msgid "Maximum I/O log sequence number: %u"
 msgstr "I/O ཉིན་ཐོའི་སྟར་གྲངས་ཆེ་ཤོས།：%u"
@@ -525,7 +529,7 @@ msgid "Put OTP prompt on its own line"
 msgstr "OPT གསལ་བརྡ་ཁེར་རྐྱང་གི་ཕྲེང་དུ་འཇོག་པ།"
 
 msgid "Replaying sudo session: %s\n"
-msgstr ""
+msgstr "sudo གཏམ་གླེང་བསྐྱར་སྟོན།：%s\n"
 
 msgid "Require fully-qualified hostnames in the sudoers file"
 msgstr ""
@@ -545,7 +549,7 @@ msgid "Run commands on a pty in the background"
 msgstr "རྒྱབ་སྟེགས་ཀྱི་མཐའ་སྣེ་རྫུས་མའི་ཐོག་འཁོར་སྐྱོད་བཀའ།"
 
 msgid "Runas and Command-specific defaults for %s:\n"
-msgstr ""
+msgstr "%s Runas དང་བཀའ་བརྡ་དམིགས་བཙུགས་ཀྱི་སོར་བཞག་ཐང་།:\n"
 
 msgid "SELinux role to use in the new security context: %s"
 msgstr "བདེ་འཇགས་ཀྱི་ཁོར་ཡུག་གསར་པའི་ནང་སྤྱོད་པའི SELinux འཁྲབ་བྱ།：%s"
@@ -602,15 +606,16 @@ msgstr ""
 
 msgid "Sorry, user %s may not run sudo on %s.\n"
 msgstr ""
+"དགོངས་པ་མ་ཚོམ། སྤྱོད་མཁན %s དེས %s ཡི་སྟེང་དུ sudo འཁོར་སྐྱོད་བྱས་མི་ཆོག \n"
 
 msgid "Subject line for mail messages: %s"
 msgstr "སྦྲག་ཡིག་ཆ་འཕྲིན་གྱི་བརྗོད་བྱ་གཙོ་བོའི་ཕྲེང་།：%s"
 
 msgid "Sudoers file grammar version %d\n"
-msgstr ""
+msgstr "Sudoers ཡིག་ཆའི་བརྡ་སྤྲོད་པར་གཞི། %d\n"
 
 msgid "Sudoers policy plugin version %s\n"
-msgstr ""
+msgstr "Sudoers ཐབས་ཇུས་བསྒར་ལྷུ་པར་གཞི། %s\n"
 
 msgid "Syslog facility if syslog is being used for logging: %s"
 msgstr ""
@@ -654,10 +659,10 @@ msgstr ""
 "ཡང་དག་པ་དེ་ཙམ་མིན་ཡང་ཡིག་ཆའི་རྒྱུད་ཁོངས་ལ་བཅར་འདྲི་མི་བྱེད་པའི་ཅུང་མྱུར་སྡེབ་བྱ་ཐབས་སྤྱོད་པ།"
 
 msgid "User %s is not allowed to run sudo on %s.\n"
-msgstr ""
+msgstr "སྤྱོད་མཁན %s ཡིས %s སྟེང་ sudo འཁོར་སྐྱོད་བྱེད་པའི་དབང་ཆ་མེད། \n"
 
 msgid "User %s may run the following commands on %s:\n"
-msgstr ""
+msgstr "སྤྱོད་མཁན %s ཡིས %s སྟེང་གཤམ་གསལ་བཀའ་བརྡ་འཁོར་སྐྱོད་བྱས་ཆོག：\n"
 
 msgid "User ID locked for SecurID Authentication"
 msgstr "SecurID ར་སྤྲོད་བྱེད་ཆེད་སྤྱོད་མཁན ID གཏན་འཁེལ་བྱས་ཟིན།"
@@ -682,6 +687,8 @@ msgstr "ཐ་ཚིག：%s “%s” སྤྱད་མེད།"
 
 msgid "Warning: your terminal is too small to properly replay the log.\n"
 msgstr ""
+"ཐ་ཚིག：ཁྱེད་ཀྱི་མཐའ་སྣེའི་ཆེ་ཆུང་ཆུང་དྲགས་པས་ཉིན་ཐོ་རྒྱུན་ལྡན་ལྟར་གཏོང་མི་ཐུབ།"
+" \n"
 
 msgid "What now? "
 msgstr "ད་ལྟ་ག་རེ་བྱེད་དམ།"
@@ -705,13 +712,13 @@ msgid "account validation failure, is your account locked?"
 msgstr "རྩིས་ཐོ་ར་སྤྲོད་ཕམ་སོང་། ཁྱེད་ཀྱི་རྩིས་ཐོ་སྒྲོག་ཡོད་དམ།"
 
 msgid "ambiguous expression \"%s\""
-msgstr ""
+msgstr "གོ་དོན་ལོགས་གར་ཡོད་པའི་བརྗོད་སྟངས།“%s”"
 
 msgid "audit_failure message too long"
 msgstr "audit_failure(ཞིབ་བཤེར་ཕམ་པ།)བརྡ་འཕྲིན་རིང་དྲགས།"
 
 msgid "authentication failure"
-msgstr "བདེན་དཔང་ར་སྤྲོད་ཕམ་པ།"
+msgstr "ར་སྤྲོད་ཕམ་པ།"
 
 msgid ""
 "authentication server error:\n"
@@ -728,10 +735,10 @@ msgid "command not allowed"
 msgstr "བཀའ་བརྡ་འགོག་སྤྱོད།"
 
 msgid "command too long"
-msgstr "བཀའ་བརྡ་རིང་དྲགས་པ།"
+msgstr "བཀའ་བརྡ་རིང་དྲགས།"
 
 msgid "could not parse date \"%s\""
-msgstr ""
+msgstr "ཚེས་གྲངས་དབྱེ་ཞིབ་བྱེད་ཐབས་མེད། “%s”"
 
 msgid "digest for %s (%s) is not in %s form"
 msgstr "%s(%s) ཡི་གནད་བསྡུས་ནི %s རྣམ་པ་མིན།"
@@ -757,10 +764,10 @@ msgid "ignoring time stamp from the future"
 msgstr "སྔོན་ལ་ཤོར་བའི་དུས་ཐམ་སྣང་མེད་དུ་འཇོག་པ།"
 
 msgid "illegal trailing \"!\""
-msgstr ""
+msgstr "ཁྲིམས་འགལ་གྱི་མཇུག་སྒྲིལ་ཡིག་རྟགས། “!”"
 
 msgid "illegal trailing \"or\""
-msgstr ""
+msgstr "ཁྲིམས་འགལ་གྱི་མཇུག་སྒྲིལ་ཡིག་རྟགས། “or”"
 
 msgid "internal error, %s overflow"
 msgstr "ནང་ཁུལ་ནོར་འཁྲུལ་བྱུང་སྟེ %s་ལུད་པ།"
@@ -802,10 +809,10 @@ msgid "invalid username length for SecurID"
 msgstr "SecurID ཡི་སྤྱོད་མཁན་མིང་རིང་ཚད་ནུས་མེད་ཡིན།"
 
 msgid "ldap.conf path: %s\n"
-msgstr ""
+msgstr "ldap.conf འགྲོ་ལམ།：%s\n"
 
 msgid "ldap.secret path: %s\n"
-msgstr ""
+msgstr "ldap.secret འགྲོ་ལམ།：%s\n"
 
 msgid "lecture status path too long: %s/%s"
 msgstr "(lecture)རྣམ་པའི་འགྲོ་ལམཤིས་ཚིག་རིང་དྲགས།:%s/%s"
@@ -829,7 +836,7 @@ msgid "no value specified for `%s'"
 msgstr "“%s”ལ་གྲངས་ཐང་དམིགས་འཛུགས་བྱས་མེད།"
 
 msgid "nsswitch path: %s\n"
-msgstr ""
+msgstr "nsswitch འགྲོ་ལམ།：%s\n"
 
 msgid "only root can use `-c %s'"
 msgstr "root ཁོ་ནས“-c %s”སྤྱད་ཆོག་པ་ཡིན།"
@@ -841,13 +848,13 @@ msgid "parse error in %s"
 msgstr "%s ཁྲོད་དབྱེ་ཞིབ་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "parse error in %s\n"
-msgstr ""
+msgstr "%s ཁྲོད་དབྱེ་ཞིབ་ནོར་འཁྲུལ་བྱུང་། \n"
 
 msgid "parse error in %s near line %d"
 msgstr "%s ཁྲོད་ཕྲེང་ %d ཡི་ཉེ་འགྲམ་དུ་དབྱེ་ཞིབ་ནོར་འཁྲུལ་ཡོད།"
 
 msgid "parse error in %s near line %d\n"
-msgstr ""
+msgstr "%s ཁྲོད་ཕྲེང་ %d ཡི་ཉེ་འགྲམ་དུ་དབྱེ་ཞིབ་ནོར་འཁྲུལ་ཡོད། \n"
 
 msgid "perm stack overflow"
 msgstr "དབང་ཚད་དོས་ཁང་ཡར་ལུད་པ།"
@@ -979,7 +986,7 @@ msgid "unable to contact the SecurID server"
 msgstr "SecurID ཞབས་ཞུ་ཆས་ལ་འབྲེལ་བ་བྱེད་ཐབས་མེད།"
 
 msgid "unable to create %s"
-msgstr " %s གསར་འཛུགས་བྱེད་ཐབས་མེད།"
+msgstr "གསར་འཛུགས་བྱེད་ཐབས་མེད།  %s"
 
 msgid "unable to dup stdin: %m"
 msgstr "dup stdin བྱེད་ཐབས་མེད།：%m"
@@ -991,10 +998,10 @@ msgid "unable to execute %s: %m"
 msgstr "%s ལག་བསྟར་བྱེད་ཐབས་མེད།:%m"
 
 msgid "unable to find symbol \"%s\" in %s"
-msgstr ""
+msgstr "%s ཁྲོད་དུ་མཚོན་རྟགས་རྙེད་ཐབས་མེད། “%s”"
 
 msgid "unable to find symbol \"group_plugin\" in %s"
-msgstr ""
+msgstr "%s ཁྲོད་དུ་མཚོན་རྟགས “group_plugin” རྙེད་ཐབས་མེད།"
 
 msgid "unable to fork"
 msgstr "fork ལག་བསྟར་བྱེད་ཐབས་མེད།"
@@ -1050,13 +1057,13 @@ msgid "unable to mix ldap and ldaps URIs"
 msgstr "ldap དང་ ldaps URI མཉམ་བསྲེས་བྱེད་མེད།"
 
 msgid "unable to mkdir %s"
-msgstr ""
+msgstr "དཀར་ཆག་གསར་འཛུགས་བྱེད་ཐབས་མེད། %s"
 
 msgid "unable to open %s"
 msgstr ""
 
 msgid "unable to open audit system"
-msgstr ""
+msgstr "ཞིབ་བཤེར་རྒྱུད་ཁོངས་ཁ་ཕྱེ་ཐབས་མེད།"
 
 msgid "unable to open log file: %s: %s"
 msgstr "ཉིན་ཐོ་ཡིག་ཆ་ཁ་ཕྱེ་ཐབས་མེད།：%s：%s"
@@ -1093,10 +1100,10 @@ msgid "unable to resolve host %s"
 msgstr "གཙོ་འཁོར་དབྱེ་ཞིབ་བྱེད་ཐབས་མེད།：%s"
 
 msgid "unable to run %s"
-msgstr "%s ལག་བསྟར་བྱེད་ཐབས་མེད།"
+msgstr "%s འཁོར་སྐྱོད་བྱེད་ཐབས་མེད།"
 
 msgid "unable to send audit message"
-msgstr ""
+msgstr "ཞིབ་བཤེར་བརྡ་འཕྲིན་སྐྱེལ་གཏོང་བྱེད་ཐབས་མེད།"
 
 msgid "unable to set (uid, gid) of %s to (%u, %u)"
 msgstr "%s ཡི་ (uid, gid) དེ་(%u, %u) ལ་སྒྲིག་འགོད་བྱེད་ཐབས་མེད།"
@@ -1117,7 +1124,7 @@ msgid "unable to truncate time stamp file to %lld bytes"
 msgstr "དུས་ཐམ་ཡིག་ཆ་%lld ཡིག་ཚིགས་སུ་གཏོང་ཐབས་མེད།"
 
 msgid "unable to write to %s"
-msgstr ""
+msgstr "%s་འབྲི་ཐབས་མེད།"
 
 msgid "unabled to parse temporary file (%s), unknown error"
 msgstr "གནས་སྐབས་ཡིག་ཆ(%s)དབྱེད་ཞིབ་བྱེད་ཐབས་མེད།  ངེས་མེད་ནོར་འཁྲུལ།"
@@ -1135,7 +1142,7 @@ msgid "unknown login class: %s"
 msgstr "ངེས་མེད་ཀྱི་ཐོ་འཇུག་རིགས།：%s"
 
 msgid "unknown search term \"%s\""
-msgstr ""
+msgstr "ངེས་མེད་ཀྱི་བཤེར་འཚོལ་ཐ་སྙད།“%s”"
 
 msgid "unknown search type %d"
 msgstr "ངེས་མེད་ཀྱི་བཤེར་འཚོལ་རིགས་རྣམ། %d"
@@ -1159,10 +1166,10 @@ msgid "unsupported digest type %d for %s"
 msgstr "%2$s ཡི་གནད་བསྡུས་རིགས་རྣམ %1$d རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "usage: %s [-h] [-d dir] -l [search expression]\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས།：%s [-h] [-d དཀར་ཆག] -l [བཤེར་འཚོལ་མཚོན་ཚུལ]\n"
 
 msgid "usage: %s [-h] [-d dir] [-m num] [-s num] ID\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས།：%s [-h] [-d དཀར་ཆག] [-m གྲངས་ཐང་] [-s གྲངས་ཐང་] ID\n"
 
 msgid "user NOT authorized on host"
 msgstr "སྤྱོད་མཁན་ལ་གཙོ་འཁོར་སྟེང་གི་དབང་ཆ་ཐོབ་མེད།"
@@ -1180,7 +1187,7 @@ msgid "values for `%s' must start with a '/'"
 msgstr "\"“%s”ཡི་ཐང་ངེས་པར་དུ“/”གིས་མགོ་རྩོམ་དགོས།"
 
 msgid "write error"
-msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+msgstr " འབྲི་འཇུག་ནོར་འཁྲུལ།"
 
 msgid "you are not permitted to use the -C option"
 msgstr "ཁྱེད་ལ -C འདེམས་ཚན་སྤྱོད་པའི་དབང་ཆ་མེད།"

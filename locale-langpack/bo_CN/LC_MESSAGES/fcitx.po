@@ -42,10 +42,10 @@ msgid "&Batch Edit"
 msgstr "སྡེབ་ཀྱི་རྩོམ་སྒྲིག(&B)"
 
 msgid "&Close"
-msgstr "ཁ་རྒྱག(&C)"
+msgstr "ཁ་རྒྱག་པ།(&C)"
 
 msgid "&Delete"
-msgstr "འདོར་བ།(&D)"
+msgstr "སུབ་པ། (&D)"
 
 msgid "&Import"
 msgstr "འདྲེན་པ།(&I)"
@@ -145,7 +145,7 @@ msgid "Active Tray Icon"
 msgstr "བྱེད་འགུལ་ནང་འཇུག་ཐབས་ཀྱི་རིས་རྟགས།"
 
 msgid "Add Extra space when selecting a candidate word"
-msgstr "གདམ་བྱའི་ཚིག་འདེབས་སྐབས་སུ་སྟོང་ཆ་ལྷག་མ་ནང་འཇུག་དགོས།"
+msgstr "གདམ་བྱའི་ཚིག་འདེམས་སྐབས་སྟོང་ཆ་ལྷག་མ་ནང་འཇུག"
 
 msgid "Add File"
 msgstr "ཡིག་ཆ་སྣོན་པ།"
@@ -190,7 +190,7 @@ msgid "AdjustNo"
 msgstr "ལེགས་སྒྲིག་མི་བྱེད།"
 
 msgid "All"
-msgstr ""
+msgstr "ཚང་མ།"
 
 msgid "All found Gtk ${1} immodule files exist."
 msgstr "རྙེད་པའི་Gtk ${1} ནང་འཇུག་ཐབས་དཔེ་དུམ་ཡིག་ཆ་ཚང་མ་ཡོད་པ།"
@@ -411,10 +411,10 @@ msgid "Cannot remove system file"
 msgstr "རྒྱུད་ཁོངས་ཡིག་ཆ་སྤོ་མི་ཐུབ།"
 
 msgid "Category"
-msgstr "རིགས།"
+msgstr "རིགས་དབྱེ།"
 
 msgid "Center"
-msgstr "བར"
+msgstr "དཀྱིལ་སྒྲིག"
 
 msgid "CenterLeft"
 msgstr "དཀྱིལ་ནས་གཡོན་བརྟེན།"
@@ -467,7 +467,7 @@ msgid "Clear local input method"
 msgstr "ཆ་ཤས་ནང་འཇུག་ཐབས་གཙང་སེལ།"
 
 msgid "Clipboard"
-msgstr "དྲས་སྦྱར་པང་།"
+msgstr "དྲས་སྦྱར་ངོས་པང།"
 
 msgid "Close virtual keyboard"
 msgstr "རྟོག་བཟོས་མཐེབ་གཞོང་ཁ་རྒྱག"
@@ -482,7 +482,7 @@ msgid "Code is "
 msgstr "སྒྲིག་ཨང་ནི། "
 
 msgid "CodeTable"
-msgstr "ཨང་སྒྲིག་རེའུ་མིག"
+msgstr "ཨང་ཀིའི་རེའུ་མིག"
 
 msgid "Color of Cursor"
 msgstr "འོད་རྟགས་ཁ་དོག"
@@ -525,7 +525,7 @@ msgid "Configuration:"
 msgstr "སྡེབ་སྒྲིག："
 
 msgid "Configure"
-msgstr "སྒྲིག་འགོད།"
+msgstr " སྒྲིག་འགོད།"
 
 msgid "Configure Current Input Method"
 msgstr "མིག་སྔའི་ནང་འཇུག་ཐབས་སྡེབ་སྒྲིག"
@@ -534,7 +534,7 @@ msgid "Configure group name error: line %d"
 msgstr "སྡེབ་སྒྲིག་ཚོ་མིང་ནོར་འཁྲུལ།： ཕྲེང་ %d "
 
 msgid "Confirm deletion"
-msgstr "འདོར་བ་གཏན་འཁེལ།"
+msgstr "སུབ་པ་གཏན་ཁེལ།"
 
 msgid "Conveniently Input English or User-Defined Simple Table"
 msgstr ""
@@ -544,7 +544,7 @@ msgid "Convert Simplified Chinese To Traditional Chinese"
 msgstr "རྒྱ་ཡིག་བསྡུས་གཟུགས་རྒྱ་ཡིག་དཀའ་གཟུགས་སུ་བསྒྱུར།"
 
 msgid "Copy"
-msgstr "འདྲ་བཟོ།"
+msgstr "འདྲ་ཕབ།"
 
 msgid "Create new file"
 msgstr "ཡིག་ཆ་གསར་པ་བཟོ་བ།"
@@ -580,7 +580,7 @@ msgid "Current value of ${1} is ${2} (${3})."
 msgstr "${1} ཡི་མིག་སྔའི་ཚད་ནི་ ${2}། (${3})ཡིན།"
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "Custom switch key"
 msgstr "བརྗེ་མཐེབ་མཚན་ཉིད་རང་འཇོག"
@@ -604,7 +604,7 @@ msgid "Default Input Method State"
 msgstr "སོར་བཞག་ནང་འཇུག་ཐབས་རྣམ་པ།"
 
 msgid "Default Shuangpin Schema"
-msgstr "སོར་བཞག་གཉིས་སྒྲིག་ཇུས་གཞི།"
+msgstr "སོར་བཞག་ཉིས་སྒྲིག་ཇུས་གཞི།"
 
 msgid "Default Spell Hint Backends Order"
 msgstr "འབྲི་སྟངས་གསལ་སྟོན་སོར་བཞག་གིས་སྤྱོད་པའི་མཇུག་སྣེ་རིམ་པ།"
@@ -619,7 +619,7 @@ msgid "Dependency"
 msgstr "རྟེན་པ།"
 
 msgid "Description of Skin"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཞིབ་བརྗོད།"
 
 msgid "Desktop Environment:"
 msgstr "ཅོག་ངོས་ཁོར་ཡུག:"
@@ -643,7 +643,7 @@ msgid "Disable addon %s, dependency %s cannot be satisfied."
 msgstr "བསྒར་ལྷུ %s འགོག་པ། རྟེན་ས་ %s མི་འཚིམ།"
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Do not commit preedit text when unfocus a window"
 msgstr "སྒེའུ་ཁུང་གི་མདོ་ཚེག་བོར་སྐབས་སྔོན་རྩོམ་སྒྲིག་ཡིག་རྐྱང་མི་འདོན་པ།"
@@ -684,16 +684,16 @@ msgid "E&xport"
 msgstr "ཕྱིར་འདོན།(&X)"
 
 msgid "Empty"
-msgstr "སྟོང་བ།"
+msgstr "སྟོང་པ།"
 
 msgid "Enable"
-msgstr "སྤྱོད་པ།"
+msgstr "སྤྱོད་འགོ་འཛུགས་པ།"
 
 msgid "Enable Hotkey to scroll Between Input Method"
 msgstr "ནང་འཇུག་ཐབས་བརྗེ་རེས་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Enabled"
-msgstr "སྤྱད་པ།"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "Enabled state for im"
 msgstr "ནང་འཇུག་ཐབས་སྤྱོད་པའི་རྣམ་པ།"
@@ -729,7 +729,7 @@ msgid "Environment variable ${1} is not set."
 msgstr "ཁོར་ཡུག་འགྱུར་ཚད་ ${1} བཀོད་མེད།"
 
 msgid "Environment variable ${1} is set to \"${2}\" correctly."
-msgstr ""
+msgstr "ཁོར་ཡུག་འགྱུར་ཚད་ ${1}ཡང་དག་གིས་ \\${2}\".ལ་བཀོད།\""
 
 msgid "Environment variable ${1} is set to ${2}."
 msgstr "ཁོར་ཡུག་འགྱུར་ཚད་ ${1} ནི་ ${2} ལ་བཀོད།"
@@ -774,7 +774,7 @@ msgid "Exec"
 msgstr ""
 
 msgid "Exit"
-msgstr "ཕྱིར་འདོན།"
+msgstr " ཕྱིར་འབུད།"
 
 msgid "Extra key for trigger input method"
 msgstr "ནང་འཇུག་ཐབས་སྐུལ་སློང་མྱུར་མཐེབ་ལྷག་མ།"
@@ -868,7 +868,7 @@ msgid "Font Locale to display"
 msgstr "ཡིག་གཟུགས་ཁུལ་ཁོངས།"
 
 msgid "Font Size"
-msgstr "ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་།"
+msgstr "ཡིག་གཟུགས་ཆེ་ཆུང་།"
 
 msgid "Font sizes respect dpi setting"
 msgstr "ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་dpi སྒྲིག་འགོད་སྲུང་།"
@@ -895,7 +895,7 @@ msgid "Found ${1} enabled user interface addons:"
 msgstr "མགོ་རྩོམ་པའི་སྤྱོད་མཁན་འཆར་ངོས་བསྒར་ལྷུ ${1} རྙེད་པ།:"
 
 msgid "Found ${1} fcitx process:"
-msgstr " fcitx འཕེལ་རིམ་ ${1} རྙེད་པ།:"
+msgstr " fcitx འཕེལ་རིམ་${1} རྙེད་པ།:"
 
 msgid "Found ${1} fcitx processes:"
 msgstr " fcitx འཕེལ་རིམ་${1} རྙེད་པ།:"
@@ -1016,7 +1016,7 @@ msgid "Grave"
 msgstr "ལྡོག་འདྲེན་རྟགས།"
 
 msgid "Greek"
-msgstr "ཞི་ལའི་སྐད་ཆ།"
+msgstr " ཀུ་རུ་སིའི་སྐད།"
 
 msgid "Gtk ${1} immodule file ${2} does not exist."
 msgstr "Gtk ${1} ནང་འཇུག་ཐབས་དཔེ་དུམ་ཡིག་ཆ་ ${2} མེད།"
@@ -1034,22 +1034,22 @@ msgid "Hall of Shame for Linux IME Support"
 msgstr "Linux ནང་འཇུག་ཐབས་ཀྱིས་ངོ་ཚ་ཁང་རྒྱབ་སྐྱོར།"
 
 msgid "Hide"
-msgstr "སྦེད་པ།"
+msgstr "གབ་པ།"
 
 msgid "Hide when tray icon is available"
 msgstr "འདེགས་སྡེར་རིས་རྟགས་སྤྱོད་རུང་སྐབས་སུ་སྦེད་པ།"
 
 msgid "Hiragana"
-msgstr "ལེབ་རྫུན་མིང་།"
+msgstr "དཀྱུས་མིང་།"
 
 msgid "Home:"
 msgstr "དཀར་ཆག་གཙོ་བོ།："
 
 msgid "Horizontal"
-msgstr "ཆུ་ངོས།"
+msgstr "ཆུ་སྙོམས།"
 
 msgid "Hotkey"
-msgstr "མྱུར་མཐེབ།"
+msgstr "ཚ་མཐེབ།"
 
 msgid "Hotkey for Inputing Character From Phrase"
 msgstr "ཚིག་གིས་ཡི་གེ་གཏན་འཁེལ།"
@@ -1126,7 +1126,7 @@ msgid "Inctive Tray Icon"
 msgstr "བྱེད་འགུལ་མིན་པའི་ནང་འཇུག་ཐབས་རིས་རྟགས།"
 
 msgid "Index"
-msgstr "གསལ་བྱང"
+msgstr " གསལ་བྱང་།"
 
 msgid "Input Font Size"
 msgstr "ནང་འཇུག་ཡིག་གཟུགས་ཆེ་ཆུང་།"
@@ -1135,7 +1135,7 @@ msgid "Input Message Color"
 msgstr "ནང་འཇུག་ཆ་འཕྲིན་གྱི་ཁ་དོག"
 
 msgid "Input Method"
-msgstr "ནང་འཇུག་བྱེད་ཐབས།"
+msgstr "འཇུག་ཐབས།"
 
 msgid "Input Method Configuration"
 msgstr "ནང་འཇུག་ཐབས་སྡེབ་སྒྲིག"
@@ -1159,7 +1159,7 @@ msgid "Input method selector"
 msgstr "ནང་འཇུག་ཐབས་འདེམས་ཆས།"
 
 msgid "InputMethod"
-msgstr "ནང་འཇུག་ཐབས།"
+msgstr "འཇུག་ཐབས།"
 
 msgid "Installer Script for Fcitx Skin"
 msgstr ""
@@ -1177,7 +1177,7 @@ msgid "Invalid entry line @ line %d %s"
 msgstr "ལུགས་འགལ་མཐེབ་ཚད་ཨང་ཕྲེང་ %dརུ་ཐོན: %s"
 
 msgid "Invalid filename"
-msgstr "ཡིག་ཆའི་མིང་ནུས་མེད།"
+msgstr "ཡིག་ཆའི་མིང་ནུས་མེད་ཡིན།"
 
 msgid "Invalid group name line @ line %d %s"
 msgstr "ལུགས་འགལ་ཚོ་མིང་ཨང་ཕྲེང་ %d རུ་ཐོན: %s"
@@ -1186,7 +1186,7 @@ msgid "Invalid item ${1} in im list."
 msgstr "ནང་འཇུག་ཐབས་རེའུ་མིག་ཏུ་ནུས་མེད་ཀྱི་རྣམ་གྲངས།： ${1}."
 
 msgid "Katakana"
-msgstr "ལེབ་རྫུན་མིང་།"
+msgstr "མིང་རྫུན་མ།"
 
 msgid ""
 "Keep current buffer when there is no match item and input length is equal "
@@ -1195,7 +1195,7 @@ msgstr ""
 "མིག་སྔར་ཟླ་སྒྲིག་ཚན་མེད་ཅིང་ནང་འཇུག་རིང་ཚད་སྒྲིག་ཨང་དང་མཚུངས་སྐབས་མིག་སྔའི་ནང་འཇུག་ལྷོད་གཏོང་ཁུལ་ཉར་བ།"
 
 msgid "Key"
-msgstr "གསང་ལྡེ།"
+msgstr "གནད་འགག"
 
 msgid "Key Color On Virutal Keyboard"
 msgstr "མཐེབ་གཞོང་མཉེན་མའི་ཡི་གེའི་ཁ་དོག"
@@ -1204,10 +1204,10 @@ msgid "Keyboard"
 msgstr "མཐེབ་གཞོང་།"
 
 msgid "Keyboard Layout"
-msgstr "མཐེབ་གཞོང་གི་བཀོད་པ།"
+msgstr "མཐེབ་གཞོང་བཀོད་པ།"
 
 msgid "Keyboard Layout to be used"
-msgstr "མཐེབ་གཞོང་གི་བཀོད་པ།"
+msgstr "མཐེབ་གཞོང་བཀོད་པ།"
 
 msgid "Keyboard Layout:"
 msgstr "མཐེབ་གཞོང་གི་བཀོད་པ།"
@@ -1228,7 +1228,7 @@ msgid "Kimpanel process:"
 msgstr "Kimpanel འཕེལ་རིམ:"
 
 msgid "L_ALT"
-msgstr "གཡོན་Alt"
+msgstr " གཡོན། Alt"
 
 msgid "L_CTRL"
 msgstr "གཡོན་Coml"
@@ -1252,7 +1252,7 @@ msgid "Latin punctuations are used."
 msgstr "ཟུར་ཕྱེད་ཚེག་རྟགས་སྤྱོད་པ།"
 
 msgid "Left"
-msgstr "དུས་འཁོར་ལྡོག་ཕྱོགས།"
+msgstr "གཡོན།"
 
 msgid "Left Super"
 msgstr "གཡོན Super"
@@ -1393,7 +1393,7 @@ msgid "Myspell"
 msgstr ""
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name that can be display in UI"
 msgstr "སྤྱོད་མཁན་འཆར་ངོས་སུ་མངོན་པའི་མིང་།"
@@ -1405,7 +1405,7 @@ msgid "Next Candidate Word"
 msgstr "གདམ་བྱའི་ཚིག་ངོས་རྗེས་མ།"
 
 msgid "Next Page"
-msgstr "ཤོག་ངོས་རྗེས་མ།"
+msgstr " ཤོག་ངོས་རྗེས་མ།"
 
 msgid "Next Page Icon"
 msgstr "ཤོག་ངོས་རྗེས་མའི་རིས་རྟགས།"
@@ -1432,7 +1432,7 @@ msgid "Non-comment doesn't belongs to any group @ %d %s"
 msgstr "མཆན་འགྲེལ་མིན་པ་ཚོ་གང་རུང་ལ་མི་གཏོགས། @ %d %s"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Not Set"
 msgstr "བཀོད་མེད།"
@@ -1480,7 +1480,7 @@ msgid "Override the skin font size"
 msgstr "པགས་པ་བཀབ་པའི་ཡིག་ཨང་སྒྲིག་འགོད།"
 
 msgid "Parent"
-msgstr "རིམ་པ་གོང་མ།"
+msgstr "གཏོགས་པའི་ཟུར་སྣོན་སྒྲིག་ལྷུ།"
 
 msgid "PerProgram"
 msgstr "བྱ་རིམ་ལྟར།"
@@ -1564,7 +1564,7 @@ msgid "Press number to make word in frequent list"
 msgstr "ཨང་ཀི་གནོན་ནས་རྒྱུན་སྤྱོད་ཡི་གེའི་རེའུ་མིག་ཏུ་སྣོན།"
 
 msgid "Prev Page"
-msgstr "ཤོག་ངོས་གོང་མ།"
+msgstr " ཤོག་ངོས་གོང་མ།"
 
 msgid "Prev Page Icon"
 msgstr "ཤོག་ངོས་གོང་མའི་རིས་རྟགས་"
@@ -1638,7 +1638,7 @@ msgid "Quwei Input Method for Fcitx"
 msgstr "Fcitx ཡི་ཁུལ་གནས་ནང་འཇུག་ཐབས།"
 
 msgid "R_ALT"
-msgstr "གཡས་ Alt"
+msgstr " གཡས། Alt"
 
 msgid "R_CTRL"
 msgstr "གཡས་Ctrl"
@@ -1659,7 +1659,7 @@ msgid "Remind:"
 msgstr "དྲན་སྐུལ།："
 
 msgid "Remind: "
-msgstr "དྲན་སྐུལ།： "
+msgstr "དྲན་སྐུལ།："
 
 msgid "Remote"
 msgstr "རྒྱང་རིང་འདྲེན་སྤྱོད།"
@@ -1689,7 +1689,7 @@ msgid "Restart"
 msgstr "བསྐྱར་སློང་།"
 
 msgid "Right"
-msgstr "གཡས་ཕྱོགས།"
+msgstr "གཡས།"
 
 msgid "Right Super"
 msgstr "གཡས། Super"
@@ -1714,7 +1714,7 @@ msgid "Running as root:"
 msgstr "དོ་དམ་པས་འཁོར་སྐྱོད།："
 
 msgid "Russian"
-msgstr "ཨུ་རུ་སུའི་སྐད་ཡིག"
+msgstr "ཨུ་རུ་སུའི་སྐད།"
 
 msgid "SHIFT Both"
 msgstr "ཟུར་གཉིས་ Shift"
@@ -1726,7 +1726,7 @@ msgid "Save Auto Phrase"
 msgstr "རང་འགྲུབ་ཚིག་ཉར་བ།"
 
 msgid "Save Changes"
-msgstr "བསྒྱུར་བཅོས་ཉར་ཚགས།"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
 
 msgid "Save Clipboard History To File"
 msgstr "དྲས་སྦྱར་པང་ལོ་རྒྱུས་ཉར་ནས་ཡིག་ཆ་བྱ།"
@@ -1809,7 +1809,7 @@ msgid "Simple Pinyin support for Fcitx"
 msgstr "Fcitx ཡི་སླ་བའི་སྒྲ་སྦྱོར་རྒྱབ་སྐྱོར།"
 
 msgid "Simplified Chinese"
-msgstr "རྒྱ་ཡིག་བསྡུས་མ།"
+msgstr "ཚུགས་གསར་རྒྱ་ཡིག"
 
 msgid "Simplified Chinese To Traditional Chinese"
 msgstr "བསྡུས་དཀའ་བརྗེ་རེས།"
@@ -1955,7 +1955,7 @@ msgid "Switching Virtual Keyboard"
 msgstr "རྟོག་བཟོས་མཐེབ་གཞོང་བརྗེ་བ།"
 
 msgid "Symbol"
-msgstr "རྟགས།"
+msgstr "མཚོན་རྟགས།"
 
 msgid "Symbol File"
 msgstr "མཚོན་རྟགས་ཡིག་ཆ།"
@@ -2019,7 +2019,7 @@ msgid "Toggle Half/Full width Character"
 msgstr "ཟུར་ཕྱེད/ཡོངས་ཡིག་རྟགས་བརྗེ་བ།"
 
 msgid "Toggle Input Method"
-msgstr "ནང་འཇུག་ཐབས་བརྗེ་བ།"
+msgstr "འཇུག་ཐབས་བརྗེ་བ།"
 
 msgid "Toggle Remind"
 msgstr "དྲན་སྐུལ་བརྗེ་བ།"
@@ -2043,13 +2043,13 @@ msgid "TopCenter"
 msgstr "ཀླད་ཕྱོགས་དཀྱིལ་སྒྲིག"
 
 msgid "TopLeft"
-msgstr "གཡོན་གོང་ཟུར།"
+msgstr "གཡོན་ཟུར་དབྱིབས།"
 
 msgid "TopRight"
-msgstr "གཡས་གོང་ཟུར།"
+msgstr "གཡས་སྟེང་ཟུར།"
 
 msgid "Traditional Chinese"
-msgstr "དཀའ་གཟུགས་རྒྱ་ཡིག"
+msgstr "ཚུགས་རྙིང་རྒྱ་ཡིག"
 
 msgid "Traditional Chinese Translate Engine"
 msgstr "བསྡུས་དཀའ་བརྗེ་བྱེད་སྒུལ་ཤུགས།"
@@ -2058,7 +2058,7 @@ msgid "Traditional Chinese is enabled."
 msgstr "དཀའ་གཟུགས་རྒྱ་ཡིག་སྤྱོད་པ།"
 
 msgid "TraditionalChinese"
-msgstr "དཀའ་གཟུགས་རྒྱ་ཡིག"
+msgstr "ཚུགས་རྙིང་རྒྱ་ཡིག"
 
 msgid "Treating abbreviated Pinyin as English"
 msgstr "བསྡུས་འབྲི་དབྱིན་ཡིག་ལ་བརྩི།"
@@ -2073,13 +2073,13 @@ msgid "Trigger Key for QuickPhrase"
 msgstr "མྱུར་འཇུག་གི་འཕྲད་ཐོན་མཐེབ།"
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "Type half width Punc After a Number"
 msgstr "ཨང་ཀིའི་རྗེས་སུ་ཟུར་ཕྱེད་མཚོན་རྟགས་ཐོན།"
 
 msgid "UI"
-msgstr "འཆར་ངོས།"
+msgstr "མཚམས་ངོས།"
 
 msgid "UI: bad ui"
 msgstr "འཆར་ངོས: གནད་དོན་ཡོད་པའི་འཆར་ངོས།"
@@ -2183,7 +2183,7 @@ msgid "Version Line:"
 msgstr "པར་གཞི་ཕྲེང་།:"
 
 msgid "Vertical"
-msgstr "གཞུང་དྲང་།"
+msgstr "དྲང་འཕྱངས།"
 
 msgid "Vertical Candidate Word List"
 msgstr "གཞུང་སྒྲིག་གདམ་བྱའི་ཚིག་རེའུ་མིག"
@@ -2268,6 +2268,8 @@ msgid ""
 "Xim server name: \"${1}\" is different from that set in the environment "
 "variable: \"${2}\"."
 msgstr ""
+"ཞབས་ཞུའི་མིང་། Xim： \"${1}\" དང་ཁོར་ཡུག་འགྱུར་ཚད་ནང་སྒྲིག་འགོད་བྱས་པའི་གྲངས "
+"\"${2}\" གཅིག་མཚུང་མིན།"
 
 msgid ""
 "You are probably logging in as ${1} or using ${2} to run this script. This "
@@ -2290,6 +2292,8 @@ msgid ""
 "You have a keyboard input method \"${1}\" correctly added as your default "
 "input method."
 msgstr ""
+"ཁྱེད་ཀྱིས་ཡང་དག་པའི་སྒོ་ནས་མཐེབ་གཞོང་འཇུག་ཐབས \"${1}\" "
+"སོར་བཞག་ལ་སྒྲིག་འགོད་ཟིན།"
 
 msgid "You may have trouble using fcitx in ${1} programs."
 msgstr ""

@@ -20,8 +20,8 @@ msgstr[1] "%u ནང་འཇུག"
 
 msgid "%u Output"
 msgid_plural "%u Outputs"
-msgstr[0] "\"%u ཕྱིར་འདོན།"
-msgstr[1] "\"%u ཕྱིར་འདོན།"
+msgstr[0] "%u ཕྱིར་གཏོང་།"
+msgstr[1] "%u ཕྱིར་གཏོང་།"
 
 msgid "Accessibility"
 msgstr "རམ་འདེགས་བྱེད་ནུས།"
@@ -33,7 +33,7 @@ msgid "Accessibility keyboard plugin"
 msgstr "གཞོགས་འདེགས་བྱེད་ནུས་མཐེབ་གཞོང་བསྒར་ལྷུ།"
 
 msgid "Activate"
-msgstr "སྐུལ་སློང་།"
+msgstr " སྐུལ་སློང་།"
 
 msgid "Activation of this plugin"
 msgstr ""
@@ -133,7 +133,7 @@ msgid "Change system time zone"
 msgstr "རྒྱུད་ཁོངས་དུས་ཁུལ་བསྒྱུར་བཅོས།"
 
 msgid "Clipboard"
-msgstr "དྲས་སྦྱར་པང་།"
+msgstr "དྲས་སྦྱར་ངོས་པང།"
 
 msgid "Clipboard plugin"
 msgstr "དྲས་སྦྱར་ངོས་པང་བསྒར་ལྷུ།"
@@ -191,16 +191,16 @@ msgid "DPI"
 msgstr "DPI"
 
 msgid "Deactivate"
-msgstr "མཚམས་བཞག"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Desktop"
-msgstr "ཅོག་ངོས།"
+msgstr " ཅོག་ངོས།"
 
 msgid "Disable touchpad while typing"
 msgstr "ནང་འཇུག་སྐབས་རེག་པང་སྤྱད་མི་ཆོག"
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Do not touch monitor configuration"
 msgstr "འཆར་ཆས་སྡེབ་སྒྲིག་ལ་བཟོ་བཅོས་རྒྱག་མི་དགོས།"
@@ -325,7 +325,7 @@ msgid ""
 msgstr ""
 
 msgid "Ignore"
-msgstr "སྣང་མེད།"
+msgstr "སྣང་མེད་དུ་བཞག"
 
 msgid "Key binding (%s) is incomplete"
 msgstr "མཐེབ་སྦྲེལ་(%s)ཆ་མི་ཚང་བ།"
@@ -364,16 +364,16 @@ msgid "Launch web browser"
 msgstr ""
 
 msgid "Left"
-msgstr "དུས་འཁོར་ལྡོག་ཕྱོགས།"
+msgstr "གཡོན།"
 
 msgid "Lock screen"
-msgstr "བརྙན་ཡོལ་དམིགས་འཛུགས།"
+msgstr "བརྙན་ཡོལ་ལ་ཟྭ་བརྒྱབ་པ།"
 
 msgid "Log out"
-msgstr "ཐོ་ཁོངས་ནས་སུབ་པ།"
+msgstr "ཐོ་ཁོངས་ནས་བསུབ་པ།"
 
 msgid "Low Disk Space"
-msgstr "སྡུད་སྡེར་བར་སྟོང་མི་འདང་།"
+msgstr "སྡུད་སྡེར་བར་སྟོང་མི་འདང་བ།"
 
 msgid "MATE Settings Daemon"
 msgstr "MATEཡིས་ལྟ་སྲུང་བྱ་རིམ་སྡེབ་སྒྲིག་འགོད།"
@@ -406,7 +406,7 @@ msgid "Mount paths to ignore"
 msgstr "སྣང་མེད་དུ་བསྐྱུར་བྱའི་འགེལ་ལམ།"
 
 msgid "Mouse"
-msgstr "ཙིག་མདའ།"
+msgstr "ཙིག་རྟགས།"
 
 msgid "Mouse Preferences"
 msgstr "ཙིག་རྟགས་ཀྱི་སྔོན་འདེམས་ཚན་པ།"
@@ -429,10 +429,10 @@ msgid "NSS security system could not be initialized"
 msgstr "NSSབདེ་འཇགས་རྒྱུད་ཁོངས་འགོ་སྒྲིག་བྱ་ཐབས་བྲལ།"
 
 msgid "Next track"
-msgstr "གཞས་གཞུག་མ།"
+msgstr "གཞས་རྗེས་མ།"
 
 msgid "Normal"
-msgstr "སྤྱིར་བཏང་།"
+msgstr "དཀྱུས་མ།"
 
 msgid "On-screen keyboard"
 msgstr "བརྙན་ཡོལ་མཐེབ་གཞོང་།"
@@ -464,7 +464,7 @@ msgid "Press and _hold keys to accept them (Slow Keys)"
 msgstr "ཁྱོད་ཀྱིས་མཐེབ་གནོན་མནན་ནས་དལ་མཐེབ（_H)དང་ལེན་བྱེད་དགོས།"
 
 msgid "Previous track"
-msgstr "གཞས་སྔོན་མ་བོ།"
+msgstr "གཞས་གོང་མ།"
 
 msgid "Priority to use for this plugin"
 msgstr ""
@@ -488,25 +488,25 @@ msgid "Removing item %lu of %lu"
 msgstr "ད་ལྟ་ %lu རྣམ་གྲངས་བསུབ་བཞིན་ཡོད་པ་དང་།ཁྱོན་བསྡོམས་%lu"
 
 msgid "Removing: %s"
-msgstr "ད་ལྟ་བསུབ་བཞིན་པ།：%s"
+msgstr "ད་ལྟ་བསུབ་བཞིན་པ།：%s\""
 
 msgid "Replace the current daemon"
 msgstr "མིག་སྔའི་ལྟ་སྲུང་བྱ་རིམ་གྱི་ཚབ་བྱེད་དགོས།"
 
 msgid "Right"
-msgstr "གཡས་ཕྱོགས།"
+msgstr "གཡས།"
 
 msgid "Rotation not supported"
 msgstr "འཁྱིལ་འཁོར་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
 
 msgid "Screen magnifier"
-msgstr "བརྙན་ཡོལ་སྐྱེད་ཤེལ།"
+msgstr "བརྙན་ཡོལ་ཆེ་ཤེལ།"
 
 msgid "Screen reader"
 msgstr "བརྙན་ཡོལ་ཀློག་ཆས།"
 
 msgid "Search"
-msgstr "འཚོལ་བ།"
+msgstr "བཤེར་འཚོལ།"
 
 msgid "Select the touchpad scroll method"
 msgstr "པང་རེག་འགྲིལ་ཐབས་འདེམས།"
@@ -554,7 +554,7 @@ msgid "Show _Current Layout"
 msgstr "མིག་སྔའི་བཀོད་པ（_C）འཆར་བ།"
 
 msgid "Shutdown"
-msgstr "སྒོ་རྒྱག་པ།"
+msgstr "ཁ་རྒྱག"
 
 msgid "Slot ID"
 msgstr "ཤུར་གྱི་ ID"
@@ -569,7 +569,7 @@ msgid "Smartcard removal action"
 msgstr "རིག་ནུས་ཁཱ་སྤོ་སེལ་བྱེད་སྟངས།"
 
 msgid "Sound"
-msgstr "སྒྲ་ནུས།"
+msgstr "སྒྲ།"
 
 msgid "Specify a list of mount paths to ignore when they run low on space."
 msgstr ""
@@ -675,10 +675,10 @@ msgid ""
 msgstr ""
 
 msgid "The volume \"%s\" has only %s disk space remaining."
-msgstr ""
+msgstr "པོད།  \"%s\" སྲ་སྡེར་བར་སྟོང་ %s ལས་ལྷག་མེད།"
 
 msgid "There was an error displaying help: %s"
-msgstr "རོགས་རམ་མངོན་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།:%s"
+msgstr "རོགས་རམ་བྱེད་སྐབས་བྱུང་བའི་ནོར་འཁྲུལ་འཆར་བ།：%s"
 
 msgid "This computer has only %s disk space remaining."
 msgstr ""
@@ -708,7 +708,7 @@ msgid "Toggle screen reader"
 msgstr "བརྙན་ཡོལ་ཀློག་འདོན་ཆས་བརྗེ་བ།"
 
 msgid "Toggle touchpad"
-msgstr ""
+msgstr "རེག་པང་གི་གློག་སྒོ།"
 
 msgid "Trying to switch the monitor configuration anyway."
 msgstr "འཆར་ཆས་ཀྱི་སྡེབ་སྒྲིག་བསྒྱུར་བར་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།"
@@ -762,7 +762,7 @@ msgid ""
 msgstr ""
 
 msgid "Volume down"
-msgstr "སྒྲ་ཚད་དམའ་རུ་གཏོང་།"
+msgstr "སྐད་ཆུང་དུ་གཏོང་བ།"
 
 msgid "Volume mute"
 msgstr "སྒྲ་མེད།"
@@ -881,7 +881,7 @@ msgstr ""
 "རིག་ནུས་གཱ་ཡི་དོན་རྐྱེན་སྒུག་སྐབས་བསམ་ཡུལ་ལས་འདས་པའི་ནོར་འཁྲུལ་ལ་འཕྲད་པ།"
 
 msgid "name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "no suitable smartcard driver could be found"
 msgstr "འོས་འཚམ་གྱི་རིག་ལྡན་བྱང་བུའི་སྐུལ་བྱེད་རྙེད་ཐབས་བྲལ།"

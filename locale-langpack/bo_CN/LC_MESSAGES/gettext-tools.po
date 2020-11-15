@@ -420,7 +420,7 @@ msgid ""
 msgstr ""
 
 msgid "  -V, --version               output version information and exit\n"
-msgstr ""
+msgstr " -V, --version པར་གཞི་ཕྱིར་འདོན་བྱས་ནས་ཕྱིར་འཐེན་པ། \n"
 
 msgid ""
 "  -a, --alignment=NUMBER      align strings to NUMBER bytes (default: %d)\n"
@@ -489,7 +489,7 @@ msgid "  -f, --use-fuzzy             use fuzzy entries in output\n"
 msgstr ""
 
 msgid "  -h, --help                  display this help and exit\n"
-msgstr ""
+msgstr " -h, --help རོགས་རམ་མངོན་ནས་ཕྱིར་འཐེན་པ། \n"
 
 msgid "  -i, --indent                indented output style\n"
 msgstr ""
@@ -715,40 +715,40 @@ msgid "%s: input is not valid in \"%s\" encoding"
 msgstr ""
 
 msgid "%s: invalid option -- '%c'\n"
-msgstr ""
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
 
 msgid "%s: option '%c%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '%s' is ambiguous\n"
-msgstr ""
+msgstr "%s： འདེམས་ཚན “%s” ནི་གསལ་པོ་མེད་པ། \n"
 
 msgid "%s: option '%s' is ambiguous; possibilities:"
 msgstr "%s： འདེམས་ཚན “%s” ནི་གཏན་ཁེལ་མེད་ཕལ་ཆེར།："
 
 msgid "%s: option '--%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '--%s' requires an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
 
 msgid "%s: option '-W %s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
 
 msgid "%s: option '-W %s' is ambiguous\n"
 msgstr ""
 
 msgid "%s: option '-W %s' requires an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
 
 msgid "%s: option requires an argument -- '%c'\n"
-msgstr ""
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
 
 msgid "%s: unrecognized option '%c%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
 
 msgid "%s: unrecognized option '--%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
 
 msgid "%s: warning: source file contains fuzzy translation"
 msgstr ""
@@ -1406,7 +1406,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Informative output:\n"
-msgstr ""
+msgstr "ཆ་འཕྲིན་རང་བཞིན་གྱི་ཕྱིར་འདོན།：\n"
 
 msgid "Input file interpretation:\n"
 msgstr ""
@@ -1466,7 +1466,7 @@ msgstr ""
 
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too.\n"
-msgstr ""
+msgstr "འདེམས་ཚན་རིང་བོའི་བཙན་ཤེད་ཞུགས་གྲངས་ནི་འདེམས་ཚན་ཐུང་བ་ལ་བཙན་ཤེད་ཡིན།\n"
 
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too.\n"
@@ -1536,7 +1536,7 @@ msgid "Non-ASCII string at %s%s."
 msgstr ""
 
 msgid "Operation mode:\n"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་རྣམ་པ།：\n"
 
 msgid "Operation modifiers:\n"
 msgstr ""
@@ -1589,7 +1589,7 @@ msgid "Recode Serbian text from Cyrillic to Latin script.\n"
 msgstr ""
 
 msgid "Report bugs to <bug-gnu-gettext@gnu.org>.\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ་དེ <bug-gnu-gettext@gnu.org> ལ་སྙན་ཞུ་བྱེད་པ། \n"
 
 msgid "Retrieving %s..."
 msgstr ""
@@ -1775,7 +1775,7 @@ msgid ""
 msgstr ""
 
 msgid "Try '%s --help' for more information.\n"
-msgstr ""
+msgstr "“%s --help” ལ་ཚོད་ལྟ་བྱས་ནས་མང་བའི་ཆ་འཕྲིན་ཐོབ་པ། \n"
 
 msgid "Try using the following, valid for %s:"
 msgstr ""
@@ -1816,7 +1816,7 @@ msgid "Usage: %s [OPTION] URL FILE\n"
 msgstr ""
 
 msgid "Usage: %s [OPTION] [FILE]...\n"
-msgstr ""
+msgstr "སྤྱོད་སྟངས %s [འདེམས་ཚན][ཡིག་ཆ] \n"
 
 msgid "Usage: %s [OPTION] [INPUTFILE]\n"
 msgstr ""
@@ -2022,7 +2022,7 @@ msgid "error while parsing: %s"
 msgstr ""
 
 msgid "error while reading \"%s\""
-msgstr ""
+msgstr "“%s” ཀློག་ལེན་སྐབས་ནོར་འཁྲུལ་ཐོན་པ།"
 
 msgid "error while writing \"%s\" file"
 msgstr ""
@@ -2420,7 +2420,7 @@ msgid "warning: unterminated string"
 msgstr ""
 
 msgid "write error"
-msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+msgstr " འབྲི་འཇུག་ནོར་འཁྲུལ།"
 
 msgid "write to %s subprocess failed"
 msgstr ""

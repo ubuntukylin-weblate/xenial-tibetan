@@ -93,7 +93,7 @@ msgid "Can't record audio fast enough"
 msgstr "མགྱོགས་ངེས་པར་སྒྲ་ཕབ་ཐབས་བྲལ།"
 
 msgid "Clock lost, selecting a new one\n"
-msgstr ""
+msgstr "ཆུ་ཚོད་བོར་ཟིན་།གསར་པ་ཞིག་འདེམས།\n"
 
 msgid "Configured audiosink %s is not working."
 msgstr "སྡེབ་སྒྲིག་རྗེས་ཀྱི་audiesinkཡི་%s ཡིས་བྱ་བ་བསྒྲུབ་ཐབས་བྲལ། "
@@ -110,7 +110,7 @@ msgid "Could not change playback rate to %.2f"
 msgstr "བསྐྱར་གཏོང་མྱུར་ཚད་དེ་%.2fརུ་བསྒྱུར་ཐབས་བྲལ།"
 
 msgid "Could not create \"uridecodebin\" element."
-msgstr ""
+msgstr "uridecodebinསྒྲིག་ལྷུ་གསར་འཛུགས་བྱེད་ཐབས་བྲལ། "
 
 msgid "Could not determine type of stream"
 msgstr "རྒྱུན་ཐག་མི་ཆོད་པའི་རིགས་གྲས།"
@@ -157,7 +157,7 @@ msgid "Could not open device for recording in stereo mode."
 msgstr "ལངས་གཟུགས་སྒྲ་རྣམ་པས་སྒྲིག་ཆས་ཁ་ཕྱེ་ནས་སྒྲ་ཕབ་ཐབས་བྲལ། "
 
 msgid "Could not read CD."
-msgstr "CDཀློག་ཐབས་བྲལ། "
+msgstr "CDཀློག་ལེན་བྱ་ཐབས་བྲལ།"
 
 msgid "Could not seek CD."
 msgstr "CDབཤེར་འཚོལ་བྱེད་ཐབས་བྲལ། "
@@ -202,7 +202,7 @@ msgstr ""
 "སྒྲ་ཟློས་སྒྲིག་ཆས་ནས་ནང་འཇུག་གི་ནོར་འཁྲུལ། སྒྲིག་ཆས་འབྲེལ་མཐུད་བཅད་ཟིན། "
 
 msgid "Error while sending data to \"%s:%d\"."
-msgstr ""
+msgstr "གཞི་གྲངས་བསྐུར་ནས་%s:%dལ་སླེབས་སྐབས་ནོར་འཁྲུལ་བྱུང་། "
 
 msgid "FFMpeg v1"
 msgstr "FFMpeg v1"
@@ -241,10 +241,10 @@ msgid "Interactive mode - keyboard controls:"
 msgstr "སྤེལ་རེས་བྱེད་སྟངས་-མཐེབ་གཞོང་ཚོད་འཛིན།"
 
 msgid "Internal data stream error."
-msgstr "ནང་ཁུལ་གཞི་གྲངས་རྒྱུན་གྱི་ནོར་འཁྲུལ། "
+msgstr "ནང་ཁུལ་གྱི་གཞི་གྲངས་རྒྱུན་ནོར་བ།"
 
 msgid "Invalid URI \"%s\"."
-msgstr ""
+msgstr "གོ་མི་ཆོད་པའི་URI%s "
 
 msgid "Kate subtitle format"
 msgstr "Kateཡིག་བརྙན་རྣམ་གཞག"
@@ -288,7 +288,7 @@ msgid "MusicBrainz track ID"
 msgstr "MuicBrainzསྒྲ་ལམID"
 
 msgid "No URI handler implemented for \"%s\"."
-msgstr ""
+msgstr "%sཡི་URIསྒྲིག་གཅོད་ཆས་མངོན་འགྱུར་མ་བྱུང་། "
 
 msgid "No URI specified to play from."
 msgstr "གཏོང་དགོས་པའི་URIདམིགས་འཛུགས་མ་བྱས་པ། "
@@ -301,12 +301,14 @@ msgstr "སྐད་ཤུགས་ཚོད་འཛིན་མ་རྙེད
 
 msgid "Now playing %s\n"
 msgstr ""
+"%s\n"
+"གཏོང་བཞིན་པའི་སྒང་ཡིན།"
 
 msgid "Output status information and property notifications"
-msgstr "ཕྱིར་གཏོང་རྣམ་པའི་ཆ་འཕྲིན་དང་ངོ་བོའི་བརྡ་ཐོ།"
+msgstr "རྣམ་པའི་ཆ་འཕྲིན་དང་གཏོགས་གཤིས་བརྡ་ཐོ་ཕྱིར་འདོན།"
 
 msgid "Paused"
-msgstr "སྐབས་འཇོག"
+msgstr " སྐབས་འཇོག"
 
 msgid "Playback rate: %.2f"
 msgstr "བསྐྱར་གཏོང་འགྲོས་ཚད།%.2f"
@@ -318,10 +320,10 @@ msgid "Plugin or element of unknown type"
 msgstr "ངེས་མེད་ཀྱི་རིགས་ཀྱི་བསྒར་ལྷུའམ་སྒྲིག་ལྷུ།"
 
 msgid "Press 'k' to see a list of keyboard shortcuts.\n"
-msgstr ""
+msgstr "kམཐེབ་མནན་ནས་མཐེབ་གཞོང་མྱུར་མཐེབ་རེའུ་མིག་མངོན་ཏུ་འཇུག་པ། \n"
 
 msgid "Print version information and exit"
-msgstr "པར་གཞི་ཆ་འཕྲིན་པར་འདེབས་བྱས་ནས་ཕྱིར་འདོན།"
+msgstr "པར་གཞིའི་ཆ་འཕྲིན་པར་འདེབས་དང་འབྲེལ་ཕྱིར་འཐེན་བྱེད་པ།"
 
 msgid "QTtext subtitle format"
 msgstr "QTtextཡིག་བརྙན་རྣམ་གཞག"
@@ -363,7 +365,7 @@ msgid "The autoaudiosink element is missing."
 msgstr "autovideosink སྒྲིག་ལྷུ་ཆད་པ། "
 
 msgid "The autoaudiosink element is not working."
-msgstr "autovideosinkསྒྲིག་ལྷུ་ཡིས་བྱ་བ་བསྒྲུབ་ཐབས་བྲལ། "
+msgstr "autovideosinkསྒྲིག་ལྷུ་ཡིས་བྱ་བ་བསྒྲུབ་ཐབས་བྲལ།  "
 
 msgid "The autovideosink element is missing."
 msgstr "autovideosink སྒྲིག་ལྷུ་ཆད་པ། "
@@ -588,10 +590,10 @@ msgid "quit"
 msgstr ""
 
 msgid "seek backward"
-msgstr "ཕྱིར་ནུར།"
+msgstr "ཕྱི་བཤོལ།"
 
 msgid "seek forward"
-msgstr "མདུན་སྐྱོད།"
+msgstr " མདུན་སྐྱོད།"
 
 msgid "seek to beginning"
 msgstr "འགོ་ཚུགས་སར་གནས་ཐིག་དམིགས་འཛུགས་བྱེད།"

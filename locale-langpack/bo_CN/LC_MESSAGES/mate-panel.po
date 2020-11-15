@@ -14,13 +14,13 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "    "
-msgstr "NaN"
+msgstr "nan"
 
 msgid "\"%s\" has quit unexpectedly"
-msgstr ""
+msgstr "“%s”རྒྱུན་ལྡན་མིན་པའི་ཕྱིར་འཐེན།"
 
 msgid "%1$s\t%2$s"
-msgstr ""
+msgstr "\"%1$s\t%2$s\""
 
 msgid ""
 "%1$s\n"
@@ -208,7 +208,7 @@ msgid "Allow workspace _wrap around in switcher"
 msgstr "བརྗེ་ཆས་སུ་ལས་ཁུལ་ལྟག་ལོག་བྱེད་རུང་བ། （_W）"
 
 msgid "An unknown error occurred while trying to open \"%s\"."
-msgstr ""
+msgstr "%sཡི་སྒོ་འབྱེད་པའི་ཚོད་ལྟ་བྱེད་སྐབས་ངེས་མེད་ཀྱི་ནོར་འཁྲུལ་བྱུང་བ།"
 
 msgid "And many, many others..."
 msgstr "གཞན་མང་པོ་ཞིག"
@@ -259,7 +259,7 @@ msgid "Background _image:"
 msgstr "རྒྱབ་ལྗོངས་རི་མོ།(_I)："
 
 msgid "Background color"
-msgstr "རྒྱབ་ལྗོངས་ཀྱི་མདོག"
+msgstr "རྒྱབ་ལྗོངས་མདོག"
 
 msgid "Background color opacity"
 msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་ནང་གསལ་མིན་པ།"
@@ -271,7 +271,7 @@ msgid "Background type"
 msgstr "རྒྱབ་ལྗོངས་རིགས་གྲས།"
 
 msgid "Bookmarks"
-msgstr "དཔེ་རྟགས།"
+msgstr " དཔེ་འཛར།"
 
 msgid "Bottom Centered Panel"
 msgstr "གཤམ་གྱི་དཀྱིལ་སྒྲིག་ངོས་པང།"
@@ -401,7 +401,7 @@ msgid "Clock Preferences"
 msgstr "ཆུ་ཚོད་སྔོན་འདེམ་ཚན་པ།"
 
 msgid "Co_lor:"
-msgstr "ཁ་དོག (_L)："
+msgstr "ཁ་དོག(_L)："
 
 msgid "Co_mmand to run when clicked:"
 msgstr "གནོན་དུས་ལག་བསྟར་བྱེད་པའི་བཀའ།(_M)："
@@ -452,7 +452,7 @@ msgid "Could not convert '%s' from UTF-8"
 msgstr "UTF-8ནས%sརུ་བརྗེ་ཐབས་བྲལ་པ།"
 
 msgid "Could not display help document"
-msgstr "རོགས་རམ་ཡིག་ཚགས་མངོན་མི་ཐུབ་པ།"
+msgstr "རོགས་རམ་ཡིག་ཚགས་འཆར་མི་ཐུབ་པ།"
 
 msgid "Could not display help document '%s'"
 msgstr "རོགས་རམ་ཡིག་ཚགས་%sའཆར་ཐབས་བྲལ།"
@@ -476,7 +476,7 @@ msgid "Could not open location '%s'"
 msgstr "གནས་%sཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "Could not open recently used document \"%s\""
-msgstr ""
+msgstr "ཉེ་ཆར་སྤྱོད་མྱོང་བའི་ཡིག་ཚགས་%sཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "Could not run command '%s'"
 msgstr "བཀའ་བརྡ་%sའཁོར་སྐྱོད་བྱེད་ཐབས་བྲལ།"
@@ -497,7 +497,7 @@ msgid "Create Launcher"
 msgstr "སྒུལ་ཆས་གསར་འཛུགས།"
 
 msgid "Create a new launcher"
-msgstr "སྒུལ་ཆས་གསར་པ་བཟོ་བ།"
+msgstr "སྒུལ་ཆས་གསར་པ་གསར་འཛུགས།"
 
 msgid "Create new file in the given directory"
 msgstr "གཏན་འབེབས་བྱས་པའི་དཀར་ཆག་ནང་ཡིག་ཆ་གསར་པ་བཟོ་ཐབས་བྲལ་བ།"
@@ -538,7 +538,7 @@ msgid "Delete this panel?"
 msgstr "ངོས་འདི་བསུབ་བམ།"
 
 msgid "Desktop"
-msgstr "ཅོག་ངོས།"
+msgstr " ཅོག་ངོས།"
 
 msgid "Directory Properties"
 msgstr "དཀར་ཆག་གི་གཏོགས་གཤིས།"
@@ -547,10 +547,10 @@ msgid "Disable Force Quit"
 msgstr "བཙན་ཤེད་ཀྱིས་ཕྱིར་འབུད་དུ་འཇུག་མི་ཆོག"
 
 msgid "Disable connection to session manager"
-msgstr "གྲོས་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་བཀག"
+msgstr "གཏམ་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་འགོག་སྤྱོད།"
 
 msgid "Display"
-msgstr "མངོན་པ།"
+msgstr "འཆར་ཆས།"
 
 msgid "Display a swimming fish or another animated creature"
 msgstr "རོལ་རྩེད་ཀྱི་ཉ་ཆུང་ཝང་ཏ་དང་ཡང་ན་འགུལ་རིས་གཞན་པའི་གཟུགས་བརྙན་འཆར་བ།"
@@ -593,18 +593,19 @@ msgstr "གབ་པའི་མཐེབ་གནོན་ཐོག་གི་
 
 msgid "Enable autocompletion in \"Run Application\" dialog"
 msgstr ""
+"འཁོར་སྐྱོད་ཉེར་སྤྱོད་བྱ་རིམགླེང་སྒྲོམ་ཁྲོད་ཀྱི་རང་འགུལ་གསབ་ཚགས་སྤྱོད་པ།"
 
 msgid "Enable hide buttons"
 msgstr "སྐུང་བའི་མཐེབ་གནོན་སྤྱོད་པ།"
 
 msgid "Enable program list in \"Run Application\" dialog"
-msgstr ""
+msgstr "འཁོར་སྐྱོད་ཉེར་སྤྱོད་བྱ་རིམ་གླེང་སྒྲོམ་ནང་གི་བྱ་རིམ་རེའུ་མིག་སྤྱོད་པ།"
 
 msgid "Enable tooltips"
 msgstr "ཡོ་བྱད་སྣེ་སྟོན་སྤྱོད་པ།"
 
 msgid "Error"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Error displaying help document"
 msgstr "རོགས་རམ་ཡིག་ཚགས་འཆར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
@@ -617,6 +618,7 @@ msgstr "གནས་ཀྱི་རེའུ་མིག་འགྲེམ་པ
 
 msgid "Expand program list in \"Run Application\" dialog"
 msgstr ""
+"འཁོར་སྐྱོད་ཉེར་སྤྱོད་བྱ་རིམགླེང་སྒྲོམ་ཁྲོད་ཀྱི་བྱ་རིམ་རེའུ་མིག་རྒྱ་སྐྱེད།"
 
 msgid "Expand to occupy entire screen width"
 msgstr "བརྙན་ཡོལ་ཡོངས་སུ་ཟིན་པའི་ཞེང་ཚད་རྒྱ་སྐྱེད།"
@@ -635,6 +637,8 @@ msgstr "སྒེའུ་ཁུང་ཕྱོགས་སྟོན་འབྲ
 
 msgid "Failed to load %s: %s\n"
 msgstr ""
+"\" %s ནང་འཇུག།：%s\n"
+"ཕམ་པ།"
 
 msgid "Failed to load applet %s"
 msgstr "བྱ་རིམ་ཆུང་ངུ་%sནང་འཇུག་ཕམ་པ།"
@@ -646,13 +650,13 @@ msgid "Failed to set the system timezone"
 msgstr "རྒྱུད་ཁོངས་དུས་ཁུལ་སྒྲིག་འགོད་ཕམ་པ།"
 
 msgid "File System"
-msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས།"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
 
 msgid "File is not a valid .desktop file"
-msgstr "ཡིག་ཆ་ནི .desktop ནུས་ལྡན་ཡིག་ཆ་མིན།"
+msgstr "ཡིག་ཆ་གོ་ཆོད་མིན་པ། desktopཡིག་ཆ།"
 
 msgid "Find an _item to add to \"%s\":"
-msgstr ""
+msgstr "“%s”རུ་སྣོན་བྱའི་རྣམ་གྲངས་ཚོལ།(_I)："
 
 msgid "Find an _item to add to the drawer:"
 msgstr "འཐེན་སྒམ་དུ་སྣོན་བྱའི་རྣམ་གྲངས་ཚོལ།(_I)："
@@ -685,7 +689,7 @@ msgid "From Whence That Stupid Fish Came"
 msgstr "གླེན་སྐུག་ཉ་ཆུང་ཆུང་གི་འབྱུང་ཁུངས།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Get the current time and date"
 msgstr "ཆུ་ཚོད་ལས་མིག་སྔའི་དུས་ཚོད་དང་ཚེས་གྲངས་འཆར་བ།"
@@ -709,7 +713,7 @@ msgid "Highlight launchers on mouseover"
 msgstr "ཙིག་རྟགས་ལྡིང་འཁོར་བྱེད་སྐབས་སྒུལ་སྒུལ་ཆས་མངོན་གསལ་དོད་པོས་འཆར་བ།"
 
 msgid "History for \"Run Application\" dialog"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་གླེང་སྒྲོམ་ལོ་རྒྱུས་འཁོར་སྐྱོད།"
 
 msgid "Home Folder"
 msgstr "ཡིག་ཁུག་གཙོ་བོ།"
@@ -762,6 +766,7 @@ msgstr ""
 msgid ""
 "If true, autocompletion in the \"Run Application\" dialog is made available."
 msgstr ""
+"གལ་ཏེ་trueཡིན་ན།འཁོར་སྐྱོད་ཉེར་སྤྱོད་བྱ་རིམ་གླེང་སྒྲོམ་ནང་གི་རང་འགུལ་ཁ་གསབ་ནུས་པ་ཆ་ཚང་སྤྱོད་ཀྱི་ཡོད།"
 
 msgid ""
 "If true, buttons will be placed on each side of the panel which may be used "
@@ -955,7 +960,7 @@ msgid "Image Background Details"
 msgstr "རྒྱབ་ལྗོངས་བརྙན་རིས་ཀྱི་ཞིབ་ཆ།"
 
 msgid "Images"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid ""
 "In a Xinerama setup, you may have panels on each individual monitor. This "
@@ -967,6 +972,8 @@ msgstr "གནས་ཡུལ་དེ་ལྟོས་བཅས་ཀྱི་
 
 msgid "Key %s is not set, cannot load launcher\n"
 msgstr ""
+"མཐེབ་གནོན་%sསྒྲིག་འགོད་བྱེད་མི་འདུག སྒུལ་ཆས་\n"
+"འགེལ་ཐབས་བྲལ།"
 
 msgid "Killer GEGLs from Outer Space"
 msgstr "ཕྱིའི་བར་སྣང་ནས་GEGLབསད་པ།"
@@ -1023,10 +1030,10 @@ msgstr ""
 "མིང་ངམ་ཡང་ན་ནང་དོན་ལྟར་རྩིས་འཁོར་འདིའི་ཁྲོད་ཀྱི་ཡིག་ཚགས་དང་ཡིག་སྡེར་གནས་ངེས་ཀྱིས།"
 
 msgid "Location"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Locations"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Lock Screen"
 msgstr ""
@@ -1041,7 +1048,7 @@ msgid "Log Out %s..."
 msgstr "ཐོ་ཁོངས་ནས་སུབ་པ།%s..."
 
 msgid "Log Out..."
-msgstr "ཐོ་ཁོངས་ནས་སུབ་པ།"
+msgstr "ཐོ་ཁོངས་ནས་བསུབ་པ།"
 
 msgid "Log out %s of this session to log in as a different user"
 msgstr ""
@@ -1061,7 +1068,7 @@ msgid "Medium-150%"
 msgstr "འབྲིང་།150%"
 
 msgid "Menu Bar"
-msgstr "ཚལ་རིགས་ཀྱི་ཚན།"
+msgstr "འདེམས་བྱང་སྡེ།"
 
 msgid "Menu content path"
 msgstr "འདེམས་བྱང་ཁོར་ཡུག་གི་འགྲོ་ལམ།"
@@ -1077,13 +1084,15 @@ msgid "Name to identify panel"
 msgstr "ངོས་པང་དེའི་མིང་གི་ངོ་རྟགས་སུ་སྤྱོད་པ།"
 
 msgid "Network"
-msgstr "དྲ་བ།"
+msgstr "དྲ་རྒྱ།"
 
 msgid "Network Places"
 msgstr "དྲ་རྒྱའི་གནས་ཡུལ།"
 
 msgid "No URI provided for panel launcher desktop file\n"
 msgstr ""
+"ངོས་པང་སྒུལ་ཆས་ཀྱི་desktopཡིག་ཆའི་URI\n"
+"སྤྲད་མེད་པ།"
 
 msgid "No URL was specified."
 msgstr "URLདམིགས་འཛིན་བྱས་མེད།"
@@ -1096,7 +1105,7 @@ msgid "North"
 msgstr "བྱང་།"
 
 msgid "Not a launchable item"
-msgstr "བཀོལ་སྤྱོད་རུང་བའི་ཚན་པ་མིན།"
+msgstr "འདོན་སྤྱོད་རུང་བའི་ཚན་པ་མ་རེད།"
 
 msgid "Notification Area"
 msgstr "བརྡ་ཐོའི་ཁུལ་ཁོངས།"
@@ -1123,16 +1132,16 @@ msgid "Open the contents of your desktop in a folder"
 msgstr "ཡིག་ཁུག་གཅིག་ཏུ་ཁྱེད་ཀྱི་ཅོག་ངོས་ཀྱི་ནང་དོན་ཁ་འབྱེད།"
 
 msgid "Open your personal folder"
-msgstr "ཁྱེད་ཀྱི་མི་སྒེར་ཡིག་ཁུག་ཁ་འབྱེད།"
+msgstr "ཁྱེད་རང་གི་མི་སྒེར་གྱི་ཡིག་ཁུག་ཁ་ཕྱེ་རོགས།"
 
 msgid "Bottom"
-msgstr "ཞབས་ཁུལ།"
+msgstr "ཞབས་ཆ།"
 
 msgid "Left"
-msgstr "དུས་འཁོར་ལྡོག་ཕྱོགས།"
+msgstr "གཡོན།"
 
 msgid "Right"
-msgstr "གཡས་ཕྱོགས།"
+msgstr "གཡས།"
 
 msgid "Top"
 msgstr "རྩེ་ཆ།"
@@ -1190,13 +1199,13 @@ msgid "Pause per frame"
 msgstr "ལྡེབ་རེར་སྐབས་འཇོག།"
 
 msgid "Paused"
-msgstr "སྐབས་འཇོག"
+msgstr " སྐབས་འཇོག"
 
 msgid "Pick a color"
 msgstr "ཁ་དོག་འདེམ་པ།"
 
 msgid "Places"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Please logout the system to reload the applet!"
 msgstr "རྒྱུད་ཁོངས་བསུབ་ནས་བསྒར་ལྷུ་འདི་བསྐྱར་དུ་ཁུར་སྣོན་གྱིས།"
@@ -1282,10 +1291,10 @@ msgid "S_tyle:"
 msgstr "བཟོ་ལྟ།(_T)："
 
 msgid "Search"
-msgstr "འཚོལ་བ།"
+msgstr "བཤེར་འཚོལ།"
 
 msgid "Search for Files..."
-msgstr "ཡིག་ཆ་འཚོལ་བཤེར།"
+msgstr "འཚོལ་བཤེར་ཡིག་ཆ།"
 
 msgid "Select an animation"
 msgstr "འགུལ་རིས་འདེམ་པ།"
@@ -1303,10 +1312,10 @@ msgid "Separator"
 msgstr "མཚམས་གཅོད་རྟགས།"
 
 msgid "Session management options:"
-msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན།"
+msgstr "གླེང་མོལ་དོ་དམ་འདེམ་བྱང་།"
 
 msgid "Set System Time"
-msgstr "རྒྱུད་ཁོངས་སྒྲིག་འགོད་དུས་ཚོད།"
+msgstr "རྒྱུད་ཁོངས་དུས་ཚོད་སྒྲིག་འགོད།"
 
 msgid "Set System Time..."
 msgstr "རྒྱུད་ཁོངས་སྒྲིག་འགོད་དུས་ཚོད།..."
@@ -1371,7 +1380,7 @@ msgid "Show seco_nds"
 msgstr "སྐར་ཆ་འཆར་བ།(_N)"
 
 msgid "Show session management options"
-msgstr "གྲོས་གླེང་དོ་དམ་འདེམས་ཚན་མངོན་པ།"
+msgstr "གླེང་མོལ་དོ་དམ་འདེམས་བྱང་འཆར་བ།"
 
 msgid "Show temperature in clock"
 msgstr "ཆུ་ཚོད་ཐོག་དྲོད་ཚད་འཆར་བ།"
@@ -1398,13 +1407,13 @@ msgid "Show workspace _names in switcher"
 msgstr "བརྗེ་སྤོར་ཆས་སུ་ལས་ཀའི་ཁུལ་གྱི་མིང་འཆར་བ།"
 
 msgid "Shut Down..."
-msgstr "སྒོ་རྒྱག་པ།"
+msgstr "ཁ་རྒྱག"
 
 msgid "Shut down the computer"
 msgstr "རྩིས་འཁོར་སྒོ་རྒྱག་པ།"
 
 msgid "Large"
-msgstr "ཆེ་བ།"
+msgstr "ཆེ།"
 
 msgid "Medium"
 msgstr "འབྲིང་རིམ།"
@@ -1475,10 +1484,10 @@ msgid "Specify an applet IID to load"
 msgstr "བྱ་རིམ་ཆུང་ངུའི་IIDནང་འགེལ་དམིགས་འཛུགས་བྱེད་པ།"
 
 msgid "Specify file containing saved configuration"
-msgstr "ཉར་བའི་སྡེབ་སྒྲིག་གི་ཡིག་ཆ་ཚུད་པ་གཏན་འཁེལ།"
+msgstr "ཉར་ཚགས་བྱས་ཟིན་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ་འདུས་པ་དམིགས་འཛུགས།"
 
 msgid "Specify session management ID"
-msgstr "གྲོས་གླེང་དོ་དམ Idགཏན་འཁེལ།"
+msgstr "གླེང་མོལ་དོ་དམ་IDདམིགས་འཛུགས།"
 
 msgid ""
 "Specify the initial orientation of the applet (top, bottom, left or right)"
@@ -1489,13 +1498,13 @@ msgid "Specify the initial size of the applet (xx-small, medium, large etc.)"
 msgstr "བྱ་རིམ་ཆུང་ངུའི་ཐོག་མའི་ཆེ་ཆུང་དམིགས་འཛུགས།(ཆུང་། འབྲིང་། ཆེ་སོགས།)"
 
 msgid "Speed unit"
-msgstr "མྱུར་ཚད་སྡེ་ཚན།"
+msgstr "མྱུར་ཚད་ཀྱི་སྡེ་ཚན།"
 
 msgid "St_retch"
 msgstr "རྐྱོང་འཐེན།(_R)"
 
 msgid "Starting %s"
-msgstr " %sམགོ་སློང་པ།"
+msgstr " %sའགོ་སློང་བཞིན་པ།"
 
 msgid "Stretch image to panel"
 msgstr "བརྙན་རིས་འཐེན་ནས་ངོས་པང་དུ་བསྲིངས་པ།"
@@ -1525,7 +1534,7 @@ msgid "Taskbar background transparent"
 msgstr "ལས་འགན་སྡེ་རྒྱབ་ལྗོངས་ནང་གསལ།"
 
 msgid "Temperature unit"
-msgstr "དྲོད་ཚད་སྡེ་ཚན།"
+msgstr "དྲོད་ཚད་ཀྱི་སྡེ་ཚན།"
 
 msgid "Test applet utility"
 msgstr "བྱ་རིམ་ཆུང་ངུའི་ལག་ཆ་ཚོད་ལྟ།"
@@ -1590,6 +1599,8 @@ msgid ""
 "The identifier of the panel attached to this drawer. This key is only "
 "relevant if the object_type key is \"drawer-object\"."
 msgstr ""
+"འཐེན་སྒམ་དེའི་ངོས་སུ་འབྱར་བའི་ངོ་རྟགས། "
+"སྒྲིག་འདིའི་བྱ་ཡུལ་གྱི་རིགས་ནི་འཐེན་སྒམ་གྱི་རིགས་ཡིན་དུས་ད་གཟོད་ནུས་པ་ཡོད།"
 
 msgid "The identifier of the toplevel panel which contains this object."
 msgstr "བྱ་ཡུལ་དེའི་སྟེང་གི་ངོས་པང་ངོ་རྟགས་འདུས་པ།"
@@ -1666,7 +1677,7 @@ msgid ""
 msgstr ""
 
 msgid "The panel encountered a problem while loading \"%s\"."
-msgstr ""
+msgstr "ངོས་པང་ནང་འགེལ་“%s”སྐབས་གནད་དོན་ལ་འཕྲད་པ།"
 
 msgid ""
 "The path from which the menu contents is contructed. This key is only "
@@ -1721,6 +1732,7 @@ msgstr ""
 
 msgid "This is the list of commands used in \"Run Application\" dialog."
 msgstr ""
+"འདི་ནི་འཁོར་སྐྱོད་ཉེར་སྤྱོད་བྱ་རིམ་གླེང་སྒྲོམ་ནང་སྤྱོད་མྱོང་བའི་བཀའ་བརྡའི་རེའུ་མིག་རེད།"
 
 msgid ""
 "This key specifies how many rows (for horizontal layout) or columns (for "
@@ -1797,6 +1809,7 @@ msgstr "བྱ་ཡུལ་གྱི་རྩེ་རིམ་ངོས་པ
 
 msgid "URI list dropped on run dialog had wrong format (%d) or length (%d)\n"
 msgstr ""
+"འཁོར་སྐྱོད་ཀྱིས་གླེང་སྒྲོམ་སྟེང་གི་URIརེའུ་མིག་རྣམ་གཞག་(%d)གམ་ཡང་ན་རིང་ཚད(%d)ཡི་འདྲུད་གཏོང་མི་འགྲིག་པ།\n"
 
 msgid ""
 "Unable to execute '%s'\n"
@@ -1811,10 +1824,12 @@ msgid "Unable to locate the command to execute"
 msgstr "ལག་བསྟར་བྱེད་བྱའི་བཀའ་རྙེད་མ་བྱུང་།"
 
 msgid "Unable to mount %s"
-msgstr " %sའགེལ་མི་ཐུབ།"
+msgstr "%sའགེལ་ཐབས་བྲལ་བ།"
 
 msgid "Unable to open desktop file %s for panel launcher%s%s\n"
 msgstr ""
+"ངོས་པང་སྒུལ་ཆས་ཀྱི་desktop ཡིག་ཆའི་ %s%s%s\n"
+"ཁ་འབྱེད་ཐབས་བྲལབ།"
 
 msgid ""
 "Unable to read from '%s'\n"
@@ -1832,13 +1847,13 @@ msgid "Unable to scan %s for media changes"
 msgstr "བར་རྫས་འགྱུར་ལྡོག་བྱུང་བའི་རྐྱེན་གྱིས་བཤར་འབེབས་བྱེད་ཐབས་བྲལ།"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unrecognized desktop file Version '%s'"
-msgstr "ཅོག་ངོས་ཡིག་ཆ་པར་གཞི་“%s”ངོས་འཛིན་མི་ཐུབ།"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་ཅོག་ངོས་ཡིག་ཆ་པར་གཞི་“%s”"
 
 msgid "Unrecognized launch option: %d"
-msgstr "མགོ་སློང་འདེམས་ཚན་%dངོས་འཛིན་མི་ཐུབ།"
+msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་མགོ་སློང་འདེམས་ཚན།：%d"
 
 msgid "Use custom icon for object's button"
 msgstr "བྱ་ཡུལ་མཐེབ་གནོན་གྱིས་མཚན་ཉིད་རང་བཞག་རིས་རྟགས།"
@@ -1971,7 +1986,7 @@ msgid "_24 hour format"
 msgstr "ཆུ་ཚོད་24་ཡི་རྣམ་གཞག"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_About Kylin"
 msgstr "དགུ་ཚིགས་ཆི་ལིན་སྐོར་གྱི།（_A）"
@@ -2001,10 +2016,10 @@ msgid "_Autohide"
 msgstr "རང་སྦས།（A）"
 
 msgid "_Browse..."
-msgstr "རགས་ལྟ།(_B)..."
+msgstr "མིག་བཤེར།(_B)..."
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Delete This Panel"
 msgstr "ངོས་པང་དེ་བསུབ་པ།(_D)"
@@ -2025,10 +2040,10 @@ msgid "_Force quit"
 msgstr "བཙན་ཤེད་ཕྱིར་འཐེན།(_F)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Icon:"
-msgstr "རིས་རྟགས། (_I)："
+msgstr "པར་རྟགས།(_I)："
 
 msgid "_Launch"
 msgstr ""
@@ -2037,13 +2052,13 @@ msgid "_Location Name:"
 msgstr "གནས་ཀྱི་མིང་།(_L)："
 
 msgid "_Location:"
-msgstr "གནས་ས(_L)："
+msgstr "གནས་ཡུལ།(_L)："
 
 msgid "_Lock Screen"
 msgstr "བརྙན་ཡོལ་ཟྭ་རྒྱག།(_L)"
 
 msgid "_Move"
-msgstr "སྤོ་བ། (_M)"
+msgstr "སྤོ་བ།(_M)"
 
 msgid "_Name of fish:"
 msgstr "ཉ་ཆུང་གི་མིང་།(_N)："
@@ -2076,10 +2091,10 @@ msgid "_Pressure unit:"
 msgstr "རླུང་གནོན་སྡེ་ཚན།(_P)："
 
 msgid "_Properties"
-msgstr "གཏོགས་གཤིས།(_P)"
+msgstr "གཏོགས་གཤིས། (_P)"
 
 msgid "_Reload"
-msgstr " བསྐྱར་འགེལ།(_R)"
+msgstr "བསྐྱར་འགེལ།(_R)"
 
 msgid "_Remove From Panel"
 msgstr "ལས་འགན་སྡེ་ནས་བསུབ་པ།(_R)"
@@ -2094,7 +2109,7 @@ msgid "_Run"
 msgstr "འཁོར་སྐྱོད།(_R)"
 
 msgid "_Scale"
-msgstr "སྐྱེད་སྐྱུང་། (_S)"
+msgstr "སྐྱེད་སྐྱུང་།(_S)"
 
 msgid "_Set System Time"
 msgstr "རྒྱུད་ཁོངས་དུས་ཚོད་སྒྲིག་འགོད།(_S)"
@@ -2103,19 +2118,19 @@ msgid "_Settings"
 msgstr "སྒྲིག་འགོད། (S)"
 
 msgid "_Size:"
-msgstr "ཆེ་ཆུང་། (_S)："
+msgstr "ཆེ་ཆུང་།(_S)："
 
 msgid "_Speak again"
 msgstr "ཡང་བསྐྱར་ཐེངས་གཅིག་ཤོད།(_S)"
 
 msgid "_Temperature unit:"
-msgstr "དྲོད་ཚད་སྡེ་ཚན།(_T)："
+msgstr "དྲོད་ཚད་ཀྱི་སྡེ་ཚན།(_T)："
 
 msgid "_Tile"
 msgstr "སྙོམས་འདིང་།(_T)"
 
 msgid "_Time:"
-msgstr "དུས་ཚོད། (_T)："
+msgstr "དུས་ཚོད།(_T)："
 
 msgid "_Timezone:"
 msgstr "དུས་ཁུལ།(_T)："
@@ -2124,16 +2139,16 @@ msgid "_Total frames in animation:"
 msgstr "འགུལ་རིས་ཀྱི་སྤྱིའི་ལྡེབ་གྲངས།(_T)："
 
 msgid "_Type:"
-msgstr "རིགས་གྲས།(_T)："
+msgstr "རིགས་རྣམ། (_T)："
 
 msgid "_Visibility unit:"
-msgstr "མཐོང་ཚད་སྡེ་ཚན།(_V)："
+msgstr "མཐོང་ཚད་ཀྱི་སྡེ་ཚན།(_V)："
 
 msgid "_Wind speed unit:"
-msgstr "རླུང་གི་མྱུར་ཚད་སྡེ་ཚན།(_W)："
+msgstr "རླུང་གི་མྱུར་ཚད་ཀྱི་སྡེ་ཚན།(_W)："
 
 msgid "columns"
-msgstr "གཞུང་།"
+msgstr " གཞུང་སྟར།"
 
 msgid "file"
 msgstr "ཡིག་ཆ།"
@@ -2148,7 +2163,7 @@ msgid "pixels"
 msgstr "བརྙན་རྒྱུ།"
 
 msgid "rows"
-msgstr "འཕྲེད།"
+msgstr "ཕྲེང་།"
 
 msgid "seconds"
 msgstr "སྐར་ཆ།"

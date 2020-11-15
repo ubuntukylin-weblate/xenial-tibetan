@@ -364,7 +364,7 @@ msgid "Executing dpkg failed. Are you root?"
 msgstr ""
 
 msgid "Failed"
-msgstr "ཕམ་པ།"
+msgstr " ཕམ་པ།"
 
 msgid "Failed to create IPC pipe to subprocess"
 msgstr "བུ་འཕེལ་རིམ་མདོང་ལམ་ IPCབཟོ་མི་ཐུབ།"
@@ -446,7 +446,7 @@ msgid "Internal Error, AutoRemover broke stuff"
 msgstr ""
 
 msgid "Internal error"
-msgstr "ནང་ཁུལ་གྱི་ནོར་འཁྲུལ།"
+msgstr "ནང་ཁུལ་ནོར་འཁྲུལ།"
 
 msgid "Internal error, InstallPackages was called with broken packages!"
 msgstr ""
@@ -823,7 +823,7 @@ msgid "The following packages have been kept back:"
 msgstr ""
 
 msgid "The following packages have unmet dependencies:"
-msgstr ""
+msgstr "གཤམ་གྱི་མཉེན་ཆས་ཐུམ་མི་ཚིམ་པའི་བརྟེན་འབྲེལ།："
 
 msgid "The following packages will be DOWNGRADED:"
 msgstr ""
@@ -1174,19 +1174,19 @@ msgid "but %s is installed"
 msgstr "འོན་ཀྱང་%s སྒྲིག་འཇུག་བྱས་ཟིན།"
 
 msgid "but %s is to be installed"
-msgstr ""
+msgstr "འོན་ཀྱང་%sསྒྲིག་སྦྱོར་བྱ་བ།"
 
 msgid "but it is a virtual package"
 msgstr "འོན་ཀྱང་དེ་ནི་རྟོག་བཟོའི་མཉེན་ཆས་ཐུམ་ཡིན།"
 
 msgid "but it is not going to be installed"
-msgstr ""
+msgstr "འོན་ཀྱང་%sསྒྲིག་སྦྱོར་བྱེད་ཐབས་མེད།"
 
 msgid "but it is not installable"
 msgstr ""
 
 msgid "but it is not installed"
-msgstr ""
+msgstr "འོན་ཀྱང་%s སྒྲིག་འཇུག་བྱས་མེད།"
 
 msgid "concatenate files, with automatic decompression"
 msgstr ""
@@ -1207,7 +1207,7 @@ msgid "getaddrinfo was unable to get a listening socket"
 msgstr ""
 
 msgid "install packages"
-msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག"
+msgstr "མཉེན་ཆས་ཐུམ་སྒྲིག་སྦྱོར།"
 
 msgid "list packages based on package names"
 msgstr ""
@@ -1222,7 +1222,7 @@ msgid "or errors caused by missing dependencies. This is OK, only the errors"
 msgstr ""
 
 msgid "remove packages"
-msgstr "མཉེན་ཆས་ཐུམ་སྤོ་བ།"
+msgstr "མཉེན་ཆས་ཐུམ་བུ་འབུད་པ།"
 
 msgid "search in package descriptions"
 msgstr ""
@@ -1234,7 +1234,7 @@ msgid "show the active configuration setting"
 msgstr ""
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"
 
 msgid "update list of available packages"
 msgstr ""

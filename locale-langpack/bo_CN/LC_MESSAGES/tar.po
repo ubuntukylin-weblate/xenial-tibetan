@@ -68,7 +68,7 @@ msgid "%s command failed"
 msgstr ""
 
 msgid "%s home page: <%s>\n"
-msgstr ""
+msgstr " %s ཡི་གཙོ་ངོས།：<%s>\n"
 
 msgid "%s home page: <http://www.gnu.org/software/%s/>\n"
 msgstr ""
@@ -240,7 +240,7 @@ msgid "%s: implausibly old time stamp %s"
 msgstr ""
 
 msgid "%s: invalid option -- '%c'\n"
-msgstr ""
+msgstr "%s：ནུས་མེད་ཀྱི་འདེམས་ཚན། -- “%c”\n"
 
 msgid "%s: link name is too long; not dumped"
 msgstr ""
@@ -249,25 +249,25 @@ msgid "%s: not a valid timeout"
 msgstr ""
 
 msgid "%s: option '%c%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“%c%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '--%s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མ་ཆོག\n"
 
 msgid "%s: option '--%s' requires an argument\n"
-msgstr ""
+msgstr "%s：“--%s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མི་དགོས།\n"
 
 msgid "%s: option '-W %s' doesn't allow an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་ཡོད་མི་ཆོག\n"
 
 msgid "%s: option '-W %s' is ambiguous\n"
 msgstr ""
 
 msgid "%s: option '-W %s' requires an argument\n"
-msgstr ""
+msgstr "%s：“-W %s”འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་མ་གཏོགས་མ་དགོས།\n"
 
 msgid "%s: option requires an argument -- '%c'\n"
-msgstr ""
+msgstr "%s：འདེམས་ཚན་ལ་ཞུགས་གྲངས་གཅིག་དགོས། -- “%c”\n"
 
 msgid "%s: socket ignored"
 msgstr ""
@@ -279,10 +279,10 @@ msgid "%s: unknown checkpoint action"
 msgstr ""
 
 msgid "%s: unrecognized option '%c%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “%c%s” \n"
 
 msgid "%s: unrecognized option '--%s'\n"
-msgstr ""
+msgstr "%s： ངོས་འཛིན་མི་ཐུབ་པའི་འདེམས་ཚན། “--%s”\n"
 
 msgid "'"
 msgstr ""
@@ -458,13 +458,13 @@ msgid "Command dumped core\n"
 msgstr ""
 
 msgid "Command exited successfully\n"
-msgstr ""
+msgstr "བཀའ་བརྡ་ཕྱིར་འདོན་ལེགས་འགྲུབ།\n"
 
 msgid "Command failed with status %d\n"
 msgstr ""
 
 msgid "Command stopped on signal %d\n"
-msgstr ""
+msgstr "བཀའ་བརྡ་ནི་བརྡ་རྟགས་ %d ཡིས་མཚམས་འཇོག་པ།\n"
 
 msgid "Command terminated\n"
 msgstr ""
@@ -677,7 +677,7 @@ msgid "Invalid value for record_size"
 msgstr ""
 
 msgid "KEYWORD"
-msgstr "གནད་ཡིག:"
+msgstr "གནད་ཡིག"
 
 msgid "Keyword %s cannot be overridden"
 msgstr ""
@@ -773,7 +773,7 @@ msgid "More than one threshold date"
 msgstr ""
 
 msgid "NAME"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "NUMBER"
 msgstr "ཤོག་ཨང།"
@@ -800,7 +800,7 @@ msgid "OFFSET"
 msgstr "OFFSET"
 
 msgid "OPTION"
-msgstr ""
+msgstr "འདེམས་ཚན།"
 
 msgid "Only one --to-command option allowed"
 msgstr ""
@@ -821,7 +821,7 @@ msgid "Overwrite control:"
 msgstr ""
 
 msgid "PATTERN"
-msgstr "PATTERN"
+msgstr "དཔེ་དབྱིབས།"
 
 msgid "POSIX 1003.1-1988 (ustar) format"
 msgstr ""
@@ -891,13 +891,13 @@ msgid "Report bugs to %s.\n"
 msgstr ""
 
 msgid "SECS"
-msgstr "སྐར་ཆ།"
+msgstr "སྐར་ཆའི་གྲངས།"
 
 msgid "SIGNAL"
 msgstr "བརྡ་རྟགས།"
 
 msgid "SIZE"
-msgstr "SIZE"
+msgstr "ཆེ་ཆུང་།"
 
 msgid "STRING"
 msgstr "ཡིག་རྟགས་ཕྲེང་།"
@@ -950,7 +950,7 @@ msgid "Synchronous execution options:"
 msgstr "འགྲོས་མཉམ་ལག་བསྟར་འདེམས་ཚན།:"
 
 msgid "TEXT"
-msgstr "ཡི་གེ།"
+msgstr "ཡི་གེ"
 
 msgid ""
 "The --preserve option is deprecated, use --preserve-permissions --preserve-"
@@ -1197,7 +1197,7 @@ msgid "cannot open %s"
 msgstr ""
 
 msgid "cannot open `%s'"
-msgstr "“%s”ཁ་འབྱེད་མི་ཐུབ།"
+msgstr "“%s” ཁ་ཕྱེ་ཐབས་བྲལ།"
 
 msgid "cannot seek"
 msgstr "གནས་ངེས་མི་ཐུབ།"
@@ -1637,4 +1637,4 @@ msgid "write did not end on a block boundary"
 msgstr ""
 
 msgid "write error"
-msgstr "འབྲི་བ་ནོར་འཁྲུལ།"
+msgstr " འབྲི་འཇུག་ནོར་འཁྲུལ།"

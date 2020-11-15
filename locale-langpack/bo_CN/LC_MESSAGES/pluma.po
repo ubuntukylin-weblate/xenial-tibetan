@@ -14,13 +14,13 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "    "
-msgstr "NaN"
+msgstr "nan"
 
 msgid "  Ln %d, Col %d"
 msgstr "ཕྲེང་། %d   སྟར། %d"
 
 msgid "\"%s\" not found"
-msgstr ""
+msgstr "“%s”རྙེད་མ་བྱུང་།"
 
 msgid "%d/%m/%Y %H:%M:%S"
 msgstr "%Y/%m/%d %H:%M:%S"
@@ -47,10 +47,10 @@ msgstr ""
 "མཐེབ་འཇུག་བྱས་པའི་གནས་ས་ཡང་དག་ཡིན་མིན་ཞིབ་བཤེར་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་རོགས།"
 
 msgid "%s: invalid encoding.\n"
-msgstr ""
+msgstr "%s：ནུས་མེད་ཀྱི་སྒྲིག་ཨང་། \n"
 
 msgid "(Empty)"
-msgstr "(སྟོང་།)"
+msgstr "(སྟོང་པ།)"
 
 msgid "(correct spelling)"
 msgstr "(ཡང་དག་པའི་སྦྱོར་འབྲི།)"
@@ -88,7 +88,7 @@ msgid "Abbreviated form"
 msgstr "བསྡུས་འབྲི་རྣམ་གཞག"
 
 msgid "Abbreviation"
-msgstr "བསྡུས་མིང་།"
+msgstr "བསྡུས་འབྲི།"
 
 msgid "About pluma"
 msgstr "ཡིག་རྐྱང་རྩོམ་སྒྲིག་ཆས་ཀྱི་སྐོར།"
@@ -100,7 +100,7 @@ msgid "Above"
 msgstr "ཡན་ཆད།"
 
 msgid "Ac_tivate All"
-msgstr "ཚང་མ་སྐུལ་སློང་།(_T)"
+msgstr "ཚང་མ་སྐུལ་སློང་། (_T)"
 
 msgid "Accessibility key character"
 msgstr "རམ་འདེགས་ཡིག་རྟགས།"
@@ -118,7 +118,7 @@ msgid "Activate previous document"
 msgstr "ཡིག་ཚགས་གོང་མ་སྐུལ་སློང་བྱེད་པ།"
 
 msgid "Activation"
-msgstr "སྐུལ་སློང་།"
+msgstr " སྐུལ་སློང་།"
 
 msgid "Active _Plugins:"
 msgstr "བྱེད་འགུལ་བསྒར་ལྷུ།(_P)："
@@ -145,7 +145,7 @@ msgid "Add w_ord"
 msgstr "ཐ་སྙད་ཁ་སྣོན་བྱེད་པ། (_O)"
 
 msgid "Align"
-msgstr "སྙོམ་པ།"
+msgstr "སྙོམ་སྒྲིག"
 
 msgid "Alignment character"
 msgstr "ཡིག་རྟགས་སྙོམ་སྒྲིག"
@@ -229,7 +229,7 @@ msgid "Applet class file code (deprecated)"
 msgstr "བྱ་རིམ་ཆུང་ངུའི་རིགས་ཀྱི་ཡིག་ཆའི་ཚབ་ཨང་།(དོར་ཟིན)"
 
 msgid "Arabic"
-msgstr "ཨ་རབ་ཀྱི་སྐད་ཆ།"
+msgstr "ཨ་རབ་ཀྱི་སྐད།"
 
 msgid "Are you sure you want to permanently delete \"%s\"?"
 msgstr ""
@@ -238,7 +238,7 @@ msgid "Are you sure you want to permanently delete the selected files?"
 msgstr ""
 
 msgid "Armenian"
-msgstr "ཡ་མེ་ཉི་ཡའི་སྐད།"
+msgstr "ཨར་མེ་ཉི་ཡའི་སྐད།"
 
 msgid "Array"
 msgstr "གྲངས་ཚོ།"
@@ -253,7 +253,7 @@ msgid "Automatic Indentation"
 msgstr "རང་འགུལ་འཁུམ་འཐེན།"
 
 msgid "Automatic indent"
-msgstr "རང་སྐུང་།"
+msgstr "རང་འགུལ་འཁུམ་འཐེན།"
 
 msgid "Automatically Detected"
 msgstr "རང་འགུལ་བཤེར་འཇལ།"
@@ -280,7 +280,7 @@ msgid "Axis related headers"
 msgstr "མདའ་དང་འབྲེལ་ཡོད་ཀྱི་ལྡེབ་ཐོད།"
 
 msgid "Background color"
-msgstr "རྒྱབ་ལྗོངས་ཀྱི་མདོག"
+msgstr "རྒྱབ་ལྗོངས་མདོག"
 
 msgid "Background color (deprecated)"
 msgstr "རྒྱབ་ལྗོངས་ཁ་དོག(དོར་ཟིན།)"
@@ -292,7 +292,7 @@ msgid "Background texture tile (deprecated)"
 msgstr "རྒྱབ་ལྗོངས་ཀྱི་རིས་དབྱིབས་སྙོམ་འདིང་།(དོར་ཟིན།)"
 
 msgid "Baltic"
-msgstr "པའོ་ལའོ་ཡི་སྐད་ཆ།"
+msgstr "པའོ་ལའོ་ཡི་སྐད།"
 
 msgid "Base URI"
 msgstr "རྨང་གཞི། URI"
@@ -319,10 +319,10 @@ msgid "Body Font for Printing"
 msgstr ""
 
 msgid "Bold"
-msgstr "སྦོ་གཟུགས།"
+msgstr "སྦོས་གཟུགས།"
 
 msgid "Bookmarks"
-msgstr "དཔེ་རྟགས།"
+msgstr " དཔེ་འཛར།"
 
 msgid "Border"
 msgstr "མཐའ་མཚམས།"
@@ -373,7 +373,7 @@ msgid "C_onfigure"
 msgstr "སྡེབ་སྒྲིག(_O)"
 
 msgid "C_onfigure Plugin"
-msgstr "སྡེབ་སྒྲིག་བསྒར་ལྷུ།(_O)"
+msgstr "བསྒར་ལྷུ་སྡེབ་སྒྲིག (_O)"
 
 msgid ""
 "Cannot move file to trash, do you\n"
@@ -391,13 +391,13 @@ msgid "Celtic"
 msgstr "ཁའེ་ཨེར་ཐེའི་སྐད།"
 
 msgid "Center"
-msgstr "བར"
+msgstr "དཀྱིལ་སྒྲིག"
 
 msgid "Center (deprecated)"
 msgstr "དཀྱིལ་སྒྲིག(དོར་ཟིན།)"
 
 msgid "Central European"
-msgstr "ཡོ་རོབ་དཀྱིལ་མ།"
+msgstr "ཡོ་རོབ་བར་མ།"
 
 msgid "Ch_aracter Encoding:"
 msgstr "ཡིག་རྟགས་སྒྲིག་ཨང་། (_A)："
@@ -480,7 +480,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Changes to document \"%s\" will be permanently lost."
-msgstr ""
+msgstr "ཡིག་ཚགས“%s”ལ་བྱས་པའི་བཟོ་བཅོས་གཏན་དུ་བོར་ངེས།"
 
 msgid "Character Encodings"
 msgstr "ཡིག་རྟགས་སྒྲིག་ཨང་།"
@@ -498,7 +498,7 @@ msgid "Characters (with spaces)"
 msgstr ""
 
 msgid "Check Spelling"
-msgstr "འབྲི་ཚུལ་ཞིབ་བཤེར།"
+msgstr "སྦྱོར་འབྲི་ཞིབ་བཤེར།"
 
 msgid "Check _Word"
 msgstr "ཐ་སྙད་ཞིབ་བཤེར། (_W)"
@@ -507,13 +507,13 @@ msgid "Check for latest version of pluma"
 msgstr "པར་གཞི་གསར་པ་ཞིབ་བཤེར།"
 
 msgid "Check spelling"
-msgstr "ཚེག་རྡར་ཞིབ་བཤེར།"
+msgstr "སྦྱོར་འབྲི་ཞིབ་བཤེར།"
 
 msgid "Check the current document for incorrect spelling"
 msgstr "མིག་སྔའི་ཡིག་ཚགས་ཀྱི་སྦྱོར་འབྲི་ནོར་འཁྲུལ་ཞིབ་བཤེར།"
 
 msgid "Check update"
-msgstr "བཟོ་བཅོས་ཞིབ་བཤེར།"
+msgstr "གསར་བསྒྱུར་ཞིབ་བཤེར།"
 
 msgid "Checked (state)"
 msgstr "བདམས་ཟིན་པ། (རྣམ་པ།)"
@@ -525,10 +525,10 @@ msgid "Checks the spelling of the current document."
 msgstr "མིག་སྔའི་ཡིག་ཚགས་ཀྱི་སྦྱོར་འབྲི་ཞིབ་བཤེར།"
 
 msgid "Chinese Simplified"
-msgstr "རྒྱ་ཡིག་ཟོར་ཡང་གཟུགས།"
+msgstr "ཚུགས་གསར་རྒྱ་ཡིག"
 
 msgid "Chinese Traditional"
-msgstr "རྒྱ་ཡིག་རྙོག་དྲའི་གཟུགས།"
+msgstr "ཚུགས་རྙིང་རྒྱ་ཡིག"
 
 msgid "Citation"
 msgstr "འདྲེན་སྤྱོད།"
@@ -564,7 +564,7 @@ msgid "Close print preview"
 msgstr "པར་འདེབས་སྔོན་ལྟ་ཁ་རྒྱག་པ།"
 
 msgid "Close the current file"
-msgstr "མིག་སྔའི་ཡིག་ཆའི་ཁ་རྒྱག་པ།"
+msgstr "མིག་སྔའི་ཡིག་ཆ་ཁ་རྒྱག་པ།"
 
 msgid "Code content type"
 msgstr "ཚབ་ཨང་ནང་དོན་རིགས་རྣམ།"
@@ -585,7 +585,7 @@ msgid "Column span"
 msgstr "སྟར་ལས་བརྒལ་བ།"
 
 msgid "Columns"
-msgstr "གཞུང་སྟར།"
+msgstr " གཞུང་སྟར།"
 
 msgid "Comment"
 msgstr "དཔྱད་གཏམ།"
@@ -621,7 +621,7 @@ msgid "Coordinates"
 msgstr "གནས་ཚད།"
 
 msgid "Copy the selection"
-msgstr "བདམས་པའི་ནང་དོན་འདྲ་བཟོ།"
+msgstr "བདམས་ཟིན་པའི་ནང་དོན་འདྲ་ཕབ།"
 
 msgid "Could not create a backup file while saving %s"
 msgstr " %s ཉར་ཚགས་བྱེད་སྐབས་གྲབས་ཉར་ཡིག་ཆ་གསར་འཛུགས་བྱེད་ཐབས་མེད།"
@@ -648,7 +648,7 @@ msgid "Could not open the file %s."
 msgstr "ཡིག་ཆ་ %s ཁ་ཕྱེ་ཐབས་མེད།"
 
 msgid "Could not remove color scheme \"%s\"."
-msgstr ""
+msgstr "ཚོན་སྡེབ་ཇུས་གཞི “%s”བསུབ་ཐབས་མེད།"
 
 msgid "Could not revert the file %s."
 msgstr "ཡིག་ཆ %s སོར་ལོག་བྱེད་ཐབས་མེད།"
@@ -715,7 +715,7 @@ msgid "Cyrillic"
 msgstr ""
 
 msgid "Cyrillic/Russian"
-msgstr "ཞི་ལི་ཨར་གྱི་སྐད་/ཨུ་རུ་སིའི་སྐད།"
+msgstr "ཞི་ལི་ཨར་གྱི་སྐད།/ཨུ་རུ་སིའི་སྐད།"
 
 msgid "Cyrillic/Ukrainian"
 msgstr "ཞི་ལི་ཨར་གྱི་སྐད།/ཡུག་རེན་གྱི་སྐད།"
@@ -781,7 +781,7 @@ msgid "Disable syntax highlighting"
 msgstr "བརྡ་སྤྲོད་འབུར་ཐོན་མངོན་པ་འགོག་སྤྱོད་བྱེད་པ།"
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Display Line Numbers"
 msgstr "ཕྲེང་རྟགས་མངོན་པ།"
@@ -818,7 +818,7 @@ msgid "Docum_ents with unsaved changes:"
 msgstr ""
 
 msgid "Document"
-msgstr "ཡིག་ཚགས།"
+msgstr " ཡིག་ཚགས།"
 
 msgid "Document Statistics"
 msgstr "ཡིག་ཚགས་བསྡོམས་རྩིས།"
@@ -839,16 +839,16 @@ msgid "Document type"
 msgstr "ཡིག་ཚགས་རིགས་རྣམ།"
 
 msgid "Documents"
-msgstr "ཡིག་ཚགས།"
+msgstr " ཡིག་ཚགས།"
 
 msgid "Done."
-msgstr "ལེགས་འགྲུབ་བྱུང་བ།"
+msgstr "ལེགས་འགྲུབ།"
 
 msgid "ENCODING"
 msgstr "སྒྲིག་ཨང་།"
 
 msgid "E_ncodings shown in menu:"
-msgstr "འདེམས་བྱང་ནང་ཤར་བའི་སྒྲིག་ཨང་།（_N)།"
+msgstr "འདེམས་བྱང་དུ་མངོན་པའི་སྒྲིག་ཨང་། (_N)："
 
 msgid "Easy file access from the side pane"
 msgstr "གཞོགས་སྒྲོམ་ནས་དད་ལྷོད་ངང་ཡིག་ཆ་བཅར་འདྲི་བྱེད་པ།"
@@ -884,7 +884,7 @@ msgid "Emphasis"
 msgstr "ནན་བཤད།"
 
 msgid "Empty"
-msgstr "སྟོང་བ།"
+msgstr "སྟོང་པ།"
 
 msgid "Enable Restore of Remote Locations"
 msgstr ""
@@ -899,7 +899,7 @@ msgid "Enable text _wrapping"
 msgstr ""
 
 msgid "Enabled"
-msgstr "སྤྱད་པ།"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "Encode type"
 msgstr "སྒྲིག་ཨང་རིགས་རྣམ།"
@@ -917,7 +917,7 @@ msgid "Error reverting file %s"
 msgstr "ཡིག་ཆ་ %s སོར་ལོག་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "Error saving file %s"
-msgstr "ཡིག་ཆ %s ཉར་ཚགས་བྱེད་པར་ནོར་འཁྲུལ་ཐོན་པ།"
+msgstr "ཡིག་ཆ་ %s ཉར་ཚགས་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "Execute a custom command and put its output in a new document"
 msgstr ""
@@ -946,7 +946,7 @@ msgid "Export successfully completed"
 msgstr "ཕྱིར་འདྲེན་ལེགས་འགྲུབ་བྱུང་བ།"
 
 msgid "External Tools"
-msgstr "ཕྱིའི་ལག་ཆ།"
+msgstr "ཕྱི་རོག་ལག་ཆ།"
 
 msgid "External Tools Manager"
 msgstr "ཕྱིའི་ལག་ཆའི་དོ་དམ་ཆས།"
@@ -958,10 +958,10 @@ msgid "External tools"
 msgstr "ཕྱི་རོག་ལག་ཆ།"
 
 msgid "Figure"
-msgstr "རིས་དབྱིབས།"
+msgstr "རི་མོ།"
 
 msgid "File \"%s\" does not exist"
-msgstr ""
+msgstr "ཡིག་ཆ“%s”གནས་མེད།"
 
 msgid "File \"%s\" is not a valid snippets archive"
 msgstr ""
@@ -970,7 +970,7 @@ msgid "File \"%s\" is not a valid snippets file"
 msgstr ""
 
 msgid "File Browser"
-msgstr "ཡིག་ཆའི་བཤར་ཆས།"
+msgstr "ཡིག་ཆ་མིག་བཤར་ཆས།"
 
 msgid "File Browser Filter Mode"
 msgstr "ཡིག་ཆ་མིག་བཤར་ཆས་འཚག་སྟངས།"
@@ -994,7 +994,7 @@ msgid "File Saving"
 msgstr "ཡིག་ཆ་ཉར་ཚགས།"
 
 msgid "File System"
-msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས།"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
 
 msgid "File input"
 msgstr "ཡིག་ཆ་ནང་འཇུག"
@@ -1003,13 +1003,13 @@ msgid "File: %s"
 msgstr "ཡིག་ཆ།：%s"
 
 msgid "Find"
-msgstr "འཚོལ་བ།"
+msgstr "འཚོལ་ཞིབ།"
 
 msgid "Find Ne_xt"
-msgstr "ངོས་རྗེས་མ་འཚོལ།(_X)"
+msgstr "རྗེས་མ་འཚོལ་ཞིབ།(_X)"
 
 msgid "Find Pre_vious"
-msgstr "སྔར་མ་བོ་འཚོལ།(_V)"
+msgstr "གོང་མ་འཚོལ་ཞིབ།(_V)"
 
 msgid "Font"
 msgstr "ཡིག་གཟུགས།"
@@ -1128,7 +1128,7 @@ msgid "Generic span"
 msgstr "ཀུན་སྤྱོད་ span"
 
 msgid "Georgian"
-msgstr "ཀི་ལོ་ཇི་ཡའི་སྐད།"
+msgstr "འཇོར་ཇི་ཡའི་སྐད།"
 
 msgid "Get statistical information on the current document"
 msgstr "མིག་སྔའི་ཡིག་ཚགས་ཀྱི་་བསྡོམས་རྩིས་ཆ་འཕྲིན་ཐོབ་པ།"
@@ -1158,7 +1158,7 @@ msgid "Go to the previous visited location"
 msgstr "ལྟ་སྤྱོད་བྱས་པའི་གནས་ས་སྔར་མ་བོར་སྒྱུར།"
 
 msgid "Greek"
-msgstr "ཞི་ལའི་སྐད་ཆ།"
+msgstr " ཀུ་རུ་སིའི་སྐད།"
 
 msgid "Greek alpha"
 msgstr ""
@@ -1242,7 +1242,7 @@ msgid "Header cell IDs"
 msgstr "རེའུ་མིག་མགོའི་རྐྱང་སྡེ་དྲ་མིག ID"
 
 msgid "Heading"
-msgstr "ཁ་བྱང་།"
+msgstr " ཁ་བྱང་།"
 
 msgid "Heading 1"
 msgstr ""
@@ -1263,10 +1263,10 @@ msgid "Heading 6"
 msgstr ""
 
 msgid "Hebrew"
-msgstr "ཞི་པོ་ལའེ་སྐད་ཆ།"
+msgstr "ཞི་པོ་ལའེ་སྐད།"
 
 msgid "Hebrew Visual"
-msgstr "ལྟ་རུང་ཞི་པོ་ལའེ་ཡི་སྐད།"
+msgstr "བལྟ་རུང་ཞི་པོ་ལའེ་སྐད།"
 
 msgid "Height"
 msgstr "མཐོ་ཚད།"
@@ -1287,10 +1287,10 @@ msgid "Highlight matching _bracket"
 msgstr "ཟླ་སྒྲིག་པའི་གུག་རྟགས་འབུར་ཐོན་མངོན་པ། (_B)"
 
 msgid "History for \"replace with\" entries"
-msgstr ""
+msgstr "ལོ་རྒྱུས་ཟིན་ཐོ་བརྗེ་བ།"
 
 msgid "History for \"search for\" entries"
-msgstr ""
+msgstr "ལོ་རྒྱུས་ཟིན་ཐོ་འཚོལ་བ།"
 
 msgid "Horizontal rule"
 msgstr "ཆུ་སྙོམས་ཐིག"
@@ -1397,7 +1397,7 @@ msgid "Ignore _All"
 msgstr "ཚང་མ་སྣང་མེད་དུ་བཞག་པ། (_A)"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Image map"
 msgstr "བརྙན་རིས་རྟེན་འཕྲོ།"
@@ -1475,13 +1475,13 @@ msgid "Italic text"
 msgstr "གསེག་གཟུགས་ཡི་གེ།"
 
 msgid "Item"
-msgstr "རྣམ་གྲངས།"
+msgstr " རྣམ་གྲངས།"
 
 msgid "Item with label"
 msgstr "གདོང་འཛར་ཡོད་པའི་ལས་གཞི།"
 
 msgid "Japanese"
-msgstr "ཉི་ཧོང་སྐད།"
+msgstr " ཉི་ཧོང་གི་སྐད།"
 
 msgid "Java applet"
 msgstr "Java བྱ་རིམ་ཆུང་ངུ།"
@@ -1576,10 +1576,10 @@ msgid ""
 msgstr ""
 
 msgid "List of entries in \"replace with\" textbox."
-msgstr ""
+msgstr "ཡིག་རྐྱང་སྒྲོམ་གྱི་ཟིན་ཐོར་ཚབ་བརྗེ་བྱ་བའི་རེའུ་མིག"
 
 msgid "List of entries in \"search for\" textbox."
-msgstr ""
+msgstr "ཡིག་རྐྱང་སྒྲོམ་གྱི་ཟིན་ཐོ་རེའུ་མིག་བཤེར་འཚོལ་བྱེད་པ།"
 
 msgid "List of supported character sets"
 msgstr "དང་ལེན་བྱས་ཆོག་པའི་ཡིག་རྟགས་ཚོགས་བཀོད་པ།"
@@ -1647,7 +1647,7 @@ msgid "Match _Entire Word Only"
 msgstr "ཐ་སྙད་ཆ་ཚང་ཁོ་ན་ཟླ་སྒྲིག (_E)"
 
 msgid "Match _entire word only"
-msgstr "ཐ་སྙད་ཧྲིལ་བོར་ཟླ་སྒྲིག(_E)"
+msgstr "ཐ་སྙད་ཆ་ཚང་ཟླ་སྒྲིག (_E)"
 
 msgid "Maths (display)"
 msgstr "གྲངས་རིགས། (མངོན་པ།)"
@@ -1668,6 +1668,8 @@ msgid ""
 "Maximum number of actions that pluma will be able to undo or redo. Use "
 "\"-1\" for unlimited number of actions."
 msgstr ""
+"\"pluma འདོར་བའམ་བསྐྱར་བཟོ་བཀོལ་སྤྱོད་ཀྱི་ཐེངས་གྲངས་མང་ཤོས་ཏེ། "
+"“-1”སྤྱད་ནས་ཚད་མེད་པ་མཚོན་པ།"
 
 msgid "Media-independent link"
 msgstr "སྨྱན་གཟུགས་ཀྱི་སྦྲེལ་མཐུད་ལས་ལོགས་སུ་བཀར་བ།"
@@ -1700,10 +1702,10 @@ msgid "Multiple"
 msgstr "མང་པོ།"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name:"
-msgstr "མིང་།"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid "Named property value"
 msgstr "གཏོགས་གཤིས་ཐང་མིང་བཏགས་པ།"
@@ -1769,12 +1771,14 @@ msgid "Note"
 msgstr "ཟིན་བྲིས།"
 
 msgid "Nothing"
-msgstr "མེད།"
+msgstr " མེད།"
 
 msgid ""
 "Number of minutes after which pluma will automatically save modified files. "
 "This will only take effect if the \"Autosave\" option is turned on."
 msgstr ""
+"ཡིག་ཆ་བཟོ་བཅོས་བྱས་རྗེས་རང་འགུལ་ཉར་ཚགས་ཀྱི་དུས་ལ་སླེབས་ངེས་ཏེ། "
+"“རང་འགུལ་ཉར་ཚགས”འདེམས་ཚན་ཁ་ཕྱེ་རྗེས་ད་གཟོད་ནུས་པ་དེ་ཡོད།"
 
 msgid "OVR"
 msgstr ""
@@ -1846,19 +1850,19 @@ msgid "OnUnload event"
 msgstr ""
 
 msgid "Open"
-msgstr "ཁ་འབྱེད།"
+msgstr "ཁ་ཕྱེ་བ།"
 
 msgid "Open '%s'"
 msgstr "%sཁ་ཕྱེ་བ།"
 
 msgid "Open Files"
-msgstr "ཡིག་ཆ་ཁ་འབྱེད།"
+msgstr " ཡིག་ཆའི་ཁ་འབྱེད་པ།"
 
 msgid "Open With Tree View"
 msgstr ""
 
 msgid "Open a file"
-msgstr "ཡིག་ཆ་ཞིག་ཁ་འབྱེད།"
+msgstr "ཡིག་ཆ་གཅིག་གི་ཁ་ཕྱེ་བ།"
 
 msgid "Open a recently used file"
 msgstr "ཉེ་ཆར་སྤྱད་མྱོང་བའི་ཡིག་ཆ་ཁ་ཕྱེ་བ།"
@@ -1876,7 +1880,7 @@ msgid "Open terminal here"
 msgstr ""
 
 msgid "Open the parent folder"
-msgstr "ཕའི་ཡིག་ཁུག་ཁ་འབྱེད།"
+msgstr "ཕའི་ཡིག་ཆའི་ཁུག་མ་ཁ་ཕྱེ་བ།"
 
 msgid "Open the pluma manual"
 msgstr "plumaལག་དེབ་ཁ་ཕྱེ་བ།"
@@ -1944,7 +1948,7 @@ msgid "Paragraph style"
 msgstr "དུམ་མཚམས་རྣམ་པ།"
 
 msgid "Paste the clipboard"
-msgstr "དྲས་པང་གི་ནང་དོན་སྦྱར་བ།"
+msgstr "དྲས་པང་ནང་གི་ནང་དོན་སྦྱར་བ།"
 
 msgid "Pick the editor font"
 msgstr "རྩོམ་སྒྲིག་ཆས་ཡིག་གཟུགས་འདེམ་པ།"
@@ -1971,13 +1975,13 @@ msgid "Pluma"
 msgstr ""
 
 msgid "Pluma Preferences"
-msgstr "ཐོག་མའི་འདེམས་ཚན་"
+msgstr "འདེམས་ཚན་ཐོག་མ།"
 
 msgid "Pr_eferences"
-msgstr "དང་ཐོག་འདེམས་ཚན།(_P)"
+msgstr "སྔོན་འདེམས་ཚན་པ།(_P)"
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Preformatted listing"
 msgstr "སྔོན་རྣམ་གཞག་ཅན་གྱི་རེའུ་མིག"
@@ -2040,10 +2044,10 @@ msgstr ""
 "མཐེབ་འཇུག་བྱེད་མི་དགོས་པར་རྒྱུན་སྤྱོད་བཀོད་རྟགས/ཡིག་རྟགས་ཕྲེང་སྟབས་བདེ་ངང་ཡིག་ཚགས་གསབ་འཇུག་བྱེད་པའི་ཐབས་ཤིག་མཁོ་འདོན་བྱེད་པ།"
 
 msgid "Push button"
-msgstr ""
+msgstr "མཐེབ་གནོན།"
 
 msgid "Python Console"
-msgstr "འཛིན་སྟེགས Python "
+msgstr "Python ཚོད་འཛིན་སྟེགས།"
 
 msgid "Question"
 msgstr "གནད་དོན།"
@@ -2061,7 +2065,7 @@ msgid "Quickly open files"
 msgstr "མགྱོགས་མྱུར་ངང་ཡིག་ཆ་ཁ་ཕྱེ་བ།"
 
 msgid "Quit the program"
-msgstr "བྱ་རིམ་ཕྱིར་འཐེན།"
+msgstr " བྱ་རིམ་ཕྱིར་འབུད།"
 
 msgid "Quote"
 msgstr "འདྲེན་ཡིག"
@@ -2085,7 +2089,7 @@ msgid "ReadOnly text and password"
 msgstr "ཀློག་ཙམ་ཡི་གེ་དང་གསང་ཨང་།"
 
 msgid "Redo the last undone action"
-msgstr "ཐེངས་སྔོན་མའི་དོར་བའི་བཀོལ་སྤྱོད་བསྐྱར་ལས།"
+msgstr "ཐེངས་སྔོན་མར་དོར་བའི་བཀོལ་སྤྱོད་ཡང་བསྐྱར་བཟོ་བ།"
 
 msgid "Reduced spacing"
 msgstr "བར་ཐག་ཐུང་དུ་གཏོང་བ།"
@@ -2142,7 +2146,7 @@ msgid "Revert selected snippet"
 msgstr ""
 
 msgid "Revert to a saved version of the file"
-msgstr "ཉར་ཚགས་བྱས་ཟིན་པའི་ཡིག་ཆར་སླར་གསོ་བྱེད་པ།"
+msgstr "ཉར་ཚགས་བྱས་ཟིན་པའི་ཡིག་ཆ་ལ་སོར་ཉར།"
 
 msgid "Revert unsaved changes to document '%s'?"
 msgstr ""
@@ -2157,7 +2161,7 @@ msgid "Reverting the document '%s'…"
 msgstr "ཡིག་ཚགས“%s” སོར་ལོག་བྱེད་བཞིན་པ།..."
 
 msgid "Right Margin"
-msgstr "གཡས་མཐའི་ཐག"
+msgstr "གཡས་མཐའ་ཐག"
 
 msgid "Right Margin Position"
 msgstr ""
@@ -2175,10 +2179,10 @@ msgid "Rulings between rows and columns"
 msgstr "ཕྲང་བསྟར་བརྐོས་ཚད།"
 
 msgid "Run \"make\" in the document directory"
-msgstr ""
+msgstr "ཡིག་ཚགས་དཀར་ཆག་ཁྲོད “make”འཁོར་སྐྱོད་བྱེད་པ།"
 
 msgid "Run command"
-msgstr "བཀའ་བརྡ་འཁོར་སྐྱོད།།"
+msgstr "བཀའ་བརྡ་འཁོར་སྐྱོད་བྱེད་པ།"
 
 msgid "Running tool:"
 msgstr "ལག་ཆ་འཁོར་སྐྱོད་བྱེད་པ།："
@@ -2202,19 +2206,19 @@ msgid "Sample program output, scripts"
 msgstr "དཔེ་མཚོན་བྱ་རིམ་ཕྱིར་འདོན་ཏེ་འཁྲབ་གཞུང་།"
 
 msgid "Save"
-msgstr "ཉར་བ།"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
 
 msgid "Save As…"
 msgstr "གཞན་ཉར།..."
 
 msgid "Save _As..."
-msgstr "གཞན་ཉར་(_A)..."
+msgstr "གཞན་དུ་བཅོལ་བ།(_A)..."
 
 msgid "Save all open files"
 msgstr "ཁ་ཕྱེ་ཟིན་པའི་ཡིག་ཆ་ཡོད་ཚད་ཉར་ཚགས་བྱེད་པ།"
 
 msgid "Save changes to document \"%s\" before closing?"
-msgstr ""
+msgstr "ཁ་མ་བརྒྱབ་གོང་སྔོན་ལ་བཟོ་བཅོས་ཡིག་ཚགས \"%s\" རུ་ཉར་ཚགས་བྱེད་དམ།"
 
 msgid "Save the current file"
 msgstr "མིག་སྔའི་ཡིག་ཆ་ཉར་ཚགས།"
@@ -2247,10 +2251,10 @@ msgid "Scrollbar"
 msgstr "འདེད་མ།"
 
 msgid "Search"
-msgstr "འཚོལ་བ།"
+msgstr "བཤེར་འཚོལ།"
 
 msgid "Search _backwards"
-msgstr "ལྡོག་པའི་བཤེར་འཚོལ།(_B)"
+msgstr "ལྡོག་ཕྱོགས་བཤེར་འཚོལ། (_B)"
 
 msgid "Search backwards for the same text"
 msgstr "ལྡོག་ཕྱོགས་བཤེར་འཚོལ་དང་མཚུངས་པའི་ཡི་གེ།"
@@ -2325,7 +2329,7 @@ msgid "Sets whether to enable restoring of remote locations."
 msgstr ""
 
 msgid "Shape"
-msgstr "དབྱིབས།"
+msgstr "བཟོ་ལྟ།"
 
 msgid "Shell Output"
 msgstr "Shell ཕྱིར་འདྲེན།"
@@ -2364,7 +2368,7 @@ msgid "Show or hide the toolbar in the current window"
 msgstr "མིག་སྔའི་སྒེའུ་ཁུང་ཁྲོད་ལག་ཆའི་སྡེ་མངོན་པའམ་སྦེད་པ།"
 
 msgid "Show the application's version"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་པར་གཞི་མངོན་པ།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་པར་གཞི་མངོན་པ།"
 
 msgid "Show the next page"
 msgstr "ཤོག་ངོས་རྗེས་མ་མངོན་པ།"
@@ -2376,7 +2380,7 @@ msgid "Side Pane is Visible"
 msgstr "ཟུར་མཐའི་སྡེ་མཐོང་ཐུབ།"
 
 msgid "Side _Pane"
-msgstr "ཟུར་སྡེ(_P)"
+msgstr "ཟུར་མཐའི་སྡེ། (_P)"
 
 msgid "Single line prompt"
 msgstr "རྐྱང་ཕྲེང་གསལ་བརྡ།"
@@ -2427,10 +2431,10 @@ msgid "Sorts a document or selected text."
 msgstr ""
 
 msgid "Sound"
-msgstr "སྒྲ་ནུས།"
+msgstr "སྒྲ།"
 
 msgid "Source"
-msgstr "ཁུངས།"
+msgstr "འབྱུང་ཁུངས།"
 
 msgid "South European"
 msgstr "ཡོ་རོབ་ལྷོ་མ།"
@@ -2519,7 +2523,7 @@ msgid "Starting sequence number (deprecated)"
 msgstr "ཐོག་མའི་རིམ་སྟར་ཨང་རྟགས།(དོར་ཟིན།)"
 
 msgid "Status Bar is Visible"
-msgstr "རྣམ་པའི་ཚན་བྱིང་མཐོང་ཐུབ་པ།"
+msgstr "རྣམ་པའི་སྡེ་མཐོང་ཐུབ།"
 
 msgid "Stopped."
 msgstr "མཚམས་བཞག་ཟིན།"
@@ -2561,7 +2565,7 @@ msgid "Subscript"
 msgstr "ཞབས་རྟགས།"
 
 msgid "Suggestions"
-msgstr "གྲོས་འདོན།"
+msgstr "བསམ་འཆར།"
 
 msgid "Superscript"
 msgstr "གོང་རྟགས།"
@@ -2636,7 +2640,7 @@ msgid "Tab Size"
 msgstr ""
 
 msgid "Tab Stops"
-msgstr ""
+msgstr "རེའུ་མིག་བཟོ་རྟགས།"
 
 msgid "Tab Width"
 msgstr ""
@@ -2672,7 +2676,7 @@ msgid "Table header cell"
 msgstr "རེའུ་མིག་མགོའི་གཞི་རྒྱུ།"
 
 msgid "Table row"
-msgstr "རེའུ་མིག་འཕྲེད་"
+msgstr "རེའུ་མིག་ཕྲེང་།"
 
 msgid "Table summary"
 msgstr "རེའུ་མིག་རགས་ལྟ།"
@@ -2705,16 +2709,16 @@ msgid "Teletype or monospace text style"
 msgstr "གློག་སྤྲིང་ཡང་ན་ཞེང་མཚུངས་ཡི་གེའི་བཟོ་ལྟ།"
 
 msgid "Text"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཡིག་དེབ།"
 
 msgid "Text Editor"
-msgstr "ཡིག་རྐྱང་རྩོམ་སྒྲིག་ཆས།"
+msgstr "ཡིག་དེབ་རྩོམ་སྒྲིག་ཆས།"
 
 msgid "Text Wrapping"
 msgstr ""
 
 msgid "Text color"
-msgstr "ཡིག་རྐྱང་ཁ་དོག"
+msgstr "ཡིག་དེབ་ཁ་དོག"
 
 msgid "Text color (deprecated)"
 msgstr "ཡིག་དེབ་ཁ་དོག(བརླགས་པ།)"
@@ -2754,7 +2758,7 @@ msgid "The document is empty."
 msgstr "ཡིག་ཚགས་སྟོང་པ་ཡིན།"
 
 msgid "The file \"%s\" cannot be moved to the trash."
-msgstr ""
+msgstr "ཡིག་ཆ་“%s”སྙིགས་སྒམ་དུ་སྤོ་མི་ཐུབ།"
 
 msgid "The file \"%s\" is read-only."
 msgstr ""
@@ -2887,7 +2891,7 @@ msgid ""
 msgstr ""
 
 msgid "Title"
-msgstr "ཁ་བྱང་།"
+msgstr " ཁ་བྱང་།"
 
 msgid "Toolbar Buttons Style"
 msgstr "ལག་ཆའི་སྡེ་མཐེབ་གནོན་གྱི་རྣམ་པ།"
@@ -2899,7 +2903,7 @@ msgid "Top margin in pixels"
 msgstr "བརྙན་རྒྱུས་རྩིས་བའི་གོང་མཐའི་ཐག"
 
 msgid "Turkish"
-msgstr "ཐུར་ཁེའི་སྐད་ཆ།"
+msgstr "ཐུར་ཁེའི་སྐད།"
 
 msgid "Type a new accelerator"
 msgstr ""
@@ -2914,7 +2918,7 @@ msgid "Type a new shortcut, or press Backspace to clear"
 msgstr ""
 
 msgid "Typeface bold"
-msgstr "རགས་གཟུགས།"
+msgstr "སྦོས་གཟུགས།"
 
 msgid "Typeface italic"
 msgstr "དབྱི་ཐ་ལིའི་གསེག་གཟུགས།"
@@ -2926,7 +2930,7 @@ msgid "Typeface type"
 msgstr "ཡིག་བཏགས་འཕྲུལ་ཆས་ཀྱི་ཡིག་གཟུགས།"
 
 msgid "URL"
-msgstr "URL"
+msgstr " URL"
 
 msgid "Unable to find the object '%s' inside file %s."
 msgstr ""
@@ -2941,7 +2945,7 @@ msgid "Underlined text style"
 msgstr "འོག་ཐིག་ཡི་གེའི་བཟོ་ལྟ།"
 
 msgid "Undo the last action"
-msgstr "ཐེངས་སྔོན་གྱི་བཀོལ་སྤྱོད་ཕྱིར་འཐེན།"
+msgstr "ཐེངས་སྔོན་གྱི་བཀོལ་སྤྱོད་ལེན་པ།"
 
 msgid "Unexpected error: %s"
 msgstr "མ་བསམ་པའི་ནོར་འཁྲུལ་བྱུང་།：%s"
@@ -2956,7 +2960,7 @@ msgid "Unix/Linux"
 msgstr ""
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unordered list"
 msgstr "རིམ་མེད་རིམ་སྟར།"
@@ -2989,7 +2993,7 @@ msgid "User dictionary:"
 msgstr ""
 
 msgid "Value"
-msgstr ""
+msgstr "ཐང་།"
 
 msgid "Value interpretation"
 msgstr "ཚད་ཀྱི་འགྲེལ་བཤད།"
@@ -3010,7 +3014,7 @@ msgid "Vertical space (deprecated)"
 msgstr "དྲང་འཕྱང་བར་ཐག་(བསྐྱུར་བ།)"
 
 msgid "Vietnamese"
-msgstr "ཝེ་ཐེ་ནམ་གྱི་སྐད།"
+msgstr " ཡོ་ནན་སྐད།"
 
 msgid "View"
 msgstr "ཕྱི་ཚུལ།"
@@ -3105,10 +3109,10 @@ msgid ""
 msgstr ""
 
 msgid "Width"
-msgstr "ཞེང་ཚད།"
+msgstr " ཞེང་ཚད།"
 
 msgid "Windows"
-msgstr "སྒེའུ་ཁུང་།"
+msgstr " སྒེའུ་ཁུང་།"
 
 msgid "Words"
 msgstr "ཐ་སྙད་གྲངས།"
@@ -3176,13 +3180,13 @@ msgid "[FILE...]"
 msgstr "[ཡིག་ཆ།...]"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_About Plugin"
 msgstr "བསྒར་ལྷུ་འབྲེལ་ཡོད།(_A)"
 
 msgid "_Add"
-msgstr "སྣོན་པ། (_A)"
+msgstr "སྣོན་པ། (A)"
 
 msgid "_Add..."
 msgstr ""
@@ -3218,13 +3222,13 @@ msgid "_Close Preview"
 msgstr "སྔོན་ལྟ་ཁ་རྒྱག(_C)"
 
 msgid "_Contents"
-msgstr "དཀར་ཆག(_C)"
+msgstr "དཀར་ཆག (_C)"
 
 msgid "_Deactivate All"
 msgstr "ཚང་མ་སྤྱོད་འགོག(_D)"
 
 msgid "_Delete"
-msgstr "འདོར་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "_Description"
 msgstr "ཞིབ་བརྗོད།(_D)"
@@ -3236,7 +3240,7 @@ msgid "_Document Statistics"
 msgstr "ཡིག་ཚགས་བསྡོམས་རྩིས།(_D)"
 
 msgid "_Documents"
-msgstr "ཡིག་ཚགས། (_D)"
+msgstr "ཡིག་ཚགས།(_D)"
 
 msgid "_Download"
 msgstr "ཕབ་ལེན།(_D)"
@@ -3245,7 +3249,7 @@ msgid "_Drop targets:"
 msgstr "དམིགས་ཚད་འདྲུད་གཏོང་།(_D)："
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_Edit:"
 msgstr ""
@@ -3254,28 +3258,28 @@ msgid "_Enable automatic indentation"
 msgstr "རང་སྐུམ་སྤྱོད་པ།(_E)"
 
 msgid "_Encoding"
-msgstr "ཨང་སྒྲིག(_E)"
+msgstr "སྒྲིག་ཨང་།(_E)"
 
 msgid "_Error color:"
 msgstr "ནོར་པའི་ཁ་དོག(_E)："
 
 msgid "_File"
-msgstr "ཡིག་ཆ།(_F)"
+msgstr "ཡིག་ཆ། (_F)"
 
 msgid "_Filter"
 msgstr "འཚག་པ།(_F)"
 
 msgid "_Find..."
-msgstr "འཚོལ་བ།(_F)"
+msgstr "བཤེར་འཚོལ།(_F)..."
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Highlight Mode"
 msgstr "མངོན་གསལ་དོད་པོས་མངོན་པའི་རྣམ་པ།(_H)"
 
 msgid "_Ignore"
-msgstr "སྣང་མེད། (_I)"
+msgstr "སྣང་མེད་དུ་གཏོང་།(_I)"
 
 msgid "_Ignore All"
 msgstr "ཚང་མ་སྣང་མེད་དུ་གཏོང་།(_I)"
@@ -3293,7 +3297,7 @@ msgid "_Input:"
 msgstr "ནང་འཇུག(_I)："
 
 msgid "_Insert"
-msgstr "བར་འཇུག (_I)"
+msgstr "བར་འཇུག(_I)"
 
 msgid "_Invert Case"
 msgstr "འབྲི་ཆེ་ཆང་ལྡོག་སྒྱུར།(_I)"
@@ -3302,7 +3306,7 @@ msgid "_Line numbers:"
 msgstr "ཕྲེང་ཨང་།(_L)："
 
 msgid "_Match Case"
-msgstr "བྲིས་ཆེ་ཆུང་དབྱེ་བ།(_M)"
+msgstr "འབྲི་ཆེ་ཆུང་དབྱེ་བ།(_M)"
 
 msgid "_Match Filename"
 msgstr "ཡིག་ཆའི་མིང་ཟླ་སྒྲིག(_M)"
@@ -3349,7 +3353,7 @@ msgid "_Parse escape sequences (e.g. \\n)"
 msgstr ""
 
 msgid "_Preview"
-msgstr "སྔོན་ལྟ། (_P)"
+msgstr "སྔོན་ལྟ།(_P)"
 
 msgid "_Previous Document"
 msgstr "ཡིག་ཚགས་ངོས་གོང་མ།(_P)"
@@ -3364,13 +3368,13 @@ msgid "_Prompt for a format"
 msgstr "སྤྱོད་རུང་གི་རྣམ་བཞག་གསལ་སྟོན།(_P)"
 
 msgid "_Reload"
-msgstr " བསྐྱར་འགེལ།(_R)"
+msgstr "བསྐྱར་འགེལ།(_R)"
 
 msgid "_Rename"
 msgstr "མིང་བསྐྱར་འདོགས།(_R)"
 
 msgid "_Replace"
-msgstr "ཚབ་བརྗེ།(_R)"
+msgstr " ཚབ་བརྗེ།(_R)"
 
 msgid "_Replace..."
 msgstr ""
@@ -3385,7 +3389,7 @@ msgid "_Reverse order"
 msgstr ""
 
 msgid "_Revert"
-msgstr "བརྟན་ནས་མ་མངོན།"
+msgstr "བརྟན་དུ་མི་མངོན།"
 
 msgid "_Right margin at column:"
 msgstr "གཡས་མཐའ་ཐག་ནས་སྟར།(_R)："
@@ -3397,7 +3401,7 @@ msgid "_Save:"
 msgstr "ཉར།(_S)："
 
 msgid "_Search"
-msgstr "འཚོལ་བཤེར།(_S)"
+msgstr "བཤེར་འཚོལ།(_S)"
 
 msgid "_Search for: "
 msgstr "འཚོལ་བཤེར།(_S)："
@@ -3418,7 +3422,7 @@ msgid "_Spelling Suggestions..."
 msgstr "ཚེག་རྡར་གྲོས་འདོན།(_S)..."
 
 msgid "_Statusbar"
-msgstr "རྣམ་པའི་སྡེ།(_S)"
+msgstr "རྣམ་སྡེ། (_S)"
 
 msgid "_Suggestions:"
 msgstr "གྲོས་འདོན།(_S)："
@@ -3433,16 +3437,16 @@ msgid "_Title Case"
 msgstr ""
 
 msgid "_Toolbar"
-msgstr "ལག་ཆ་སྡེ།(_T)"
+msgstr "ལག་ཆའི་སྡེ། (_T)"
 
 msgid "_Tools"
-msgstr "ལག་ཆ།(_T)"
+msgstr " ལག་ཆ།(_T)"
 
 msgid "_Tools:"
 msgstr ""
 
 msgid "_Update"
-msgstr "གསར་སྒྱུར།(_U)"
+msgstr "གསར་སྒྱུར། (_U)"
 
 msgid "_Use custom format"
 msgstr "རང་གི་གཏན་འཁེལ་གྱི་རྣམ་བཞག་སྤྱོད།(_U)"
@@ -3451,13 +3455,13 @@ msgid "_Use the system fixed width font (%s)"
 msgstr "རྒྱུད་ཁོངས་ཞེང་མཚུངས་ཡིག་གཟུགས་སྤྱོད་པ།(_U)(%s)"
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "_View Folder"
 msgstr "ཡིག་ཁུག་ལྟ་བ།(_V)"
 
 msgid "_Wrap Around"
-msgstr "ཡིག་ཚགས་ཀྱི་འགོར་ཕྱིར་ལོག་རྗེས་མུ་མཐུད་དུ་འཚོལ་བཤེར།(_W)"
+msgstr "ཡིག་ཚགས་མགོར་ལོག་ནས་མུ་མཐུད་དུ་འཚོལ་བཤེར་བྱེད།(_W)"
 
 msgid "_Wrap around"
 msgstr ""
@@ -3484,7 +3488,7 @@ msgid "descendant-or-self"
 msgstr ""
 
 msgid "directory"
-msgstr "དཀར་ཆག"
+msgstr " དཀར་ཆག"
 
 msgid "file"
 msgstr "ཡིག་ཆ།"
@@ -3496,7 +3500,7 @@ msgid "following-sibling"
 msgstr ""
 
 msgid "%s (%s)"
-msgstr "%s(%s)"
+msgstr "%s (%s)"
 
 msgid "Default"
 msgstr "སོར་བཞག"
@@ -3517,7 +3521,7 @@ msgid "parent"
 msgstr ""
 
 msgid "pluma Text Editor"
-msgstr "ཡིག་རྐྱང་རྩོམ་སྒྲིག་ཆས།"
+msgstr "ཡིག་དེབ་རྩོམ་སྒྲིག་ཆས།"
 
 msgid "pluma cannot find the file. Perhaps it has recently been deleted."
 msgstr "plumaཡིས་ཡིག་ཆ་མི་རྙེད། ཕལ་ཆེར་དེ་བསུབ་པ།"
@@ -3576,3 +3580,15 @@ msgstr ""
 
 msgid "word"
 msgstr "ཐ་སྙད།"
+
+msgid "Select the _language of the current document."
+msgstr "མིག་སྔའི་ཡིག་ཆའི་སྐད་བརྡ་འདེམ་པ། (_L)"
+
+msgid "Set _Language..."
+msgstr "སྒྲིག་འགོད་སྐད་བརྡ། (_L)..."
+
+msgid "Set language"
+msgstr "སྒྲིག་འགོད་སྐད་བརྡ།"
+
+msgid "Set the language of the current document"
+msgstr "མིག་སྔའི་ཡིག་ཆའི་སྐད་བརྡ་སྒྲིག་འགོད་བྱེད་པ།"

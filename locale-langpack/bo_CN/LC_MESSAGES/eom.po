@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid " (invalid Unicode)"
-msgstr "(ནུས་མེད་ཀྱི་ Unicode)"
+msgstr "\"། (ཕན་མེད་གྱི་ Unicode)\""
 
 msgid "%.1f (35mm film)"
 msgstr "%.1f(35mmགློག་བརྙན་སྤྱིན་ཤོག）"
@@ -23,7 +23,7 @@ msgid "%.1f (lens)"
 msgstr "%.1f (ཤེལ་སྒོ།)"
 
 msgid "%a, %d %B %Y"
-msgstr "%Yལོའི་ཟླ་%mཚེས་%dཉིན།%A"
+msgstr "%Y ལོའི་ཟླ་%mཚེས་%d ཉིན།%A"
 
 msgid "%a, %d %B %Y  %X"
 msgstr "%Yལོའི་ཟླ་%mཚེས་%dཉིན།%X"
@@ -68,7 +68,7 @@ msgid "About this application"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འདིའི་སྐོར།"
 
 msgid "Ac_tivate All"
-msgstr "ཚང་མ་སྐུལ་སློང་།(_T)"
+msgstr "ཚང་མ་སྐུལ་སློང་། (_T)"
 
 msgid "Activate fullscreen mode with double-click"
 msgstr "ཉིས་རྡེབ་ཀྱིས་བརྙན་ཡོལ་རྣམ་པ་མགོ་སློང་།"
@@ -83,7 +83,7 @@ msgid "All Files"
 msgstr "ཡིག་ཆ་ཚང་མ།"
 
 msgid "All Images"
-msgstr "པར་རིས་ཚང་མ།"
+msgstr "བརྙན་རིས་ཚང་མ།"
 
 msgid "Allow zoom greater than 100% initially"
 msgstr "ཆེར་སྐྱེད་ནས་སྔོན་གྱི་ཆེ་ཆུང་ལས་བརྒལ།"
@@ -121,7 +121,7 @@ msgid "At least two file names are equal."
 msgstr ""
 
 msgid "Author:"
-msgstr "རྩོམ་པ་པོ།"
+msgstr "རྩོམ་པ་པོ།："
 
 msgid "Automatic orientation"
 msgstr "ཁ་ཕྱོགས་རང་སྒྲིག"
@@ -130,7 +130,7 @@ msgid "Background"
 msgstr "རྒྱབ་ལྗོངས།"
 
 msgid "Background Color"
-msgstr "རྒྱབ་ལྗོངས་ཁ་དོག"
+msgstr "རྒྱབ་ལྗོངས་མདོག"
 
 msgid "Both"
 msgstr "ཕྱོགས་གཉིས།"
@@ -148,13 +148,13 @@ msgid "C_onfigure"
 msgstr "སྡེབ་སྒྲིག(_O)"
 
 msgid "C_onfigure Plugin"
-msgstr "སྡེབ་སྒྲིག་བསྒར་ལྷུ།(_O)"
+msgstr "བསྒར་ལྷུ་སྡེབ་སྒྲིག (_O)"
 
 msgid "Camera"
 msgstr ""
 
 msgid "Camera Model:"
-msgstr "པར་ཆས་ཀྱི་བཟོ་དབྱིབས།"
+msgstr "པར་ཆས་བཟོ་རྟགས།:"
 
 msgid ""
 "Changes the visibility of the image collection pane in the current window"
@@ -179,7 +179,7 @@ msgid "Close main window without asking to save changes."
 msgstr ""
 
 msgid "Close window"
-msgstr "སྒེའུ་ཁུང་ཁ་རྒྱག"
+msgstr " སྒེའུ་ཁུང་ཁ་རྒྱག་པ།"
 
 msgid "Collection"
 msgstr "ཉར་ཚགས།"
@@ -191,7 +191,7 @@ msgid "Copy the selected image to the clipboard"
 msgstr "བདམས་པའི་པར་རིས་དྲས་གཅོད་པང་དུ་འདྲ་བཟོ།"
 
 msgid "Copyright:"
-msgstr "པར་དབང་།："
+msgstr "པར་དབང་།:"
 
 msgid "Could not display help for Eye of MATE"
 msgstr "MATE ཡི་མིག་གི་རོགས་རམ་མངོན་མི་ཐུབ།"
@@ -227,7 +227,7 @@ msgid "Destination folder:"
 msgstr "དམིགས་ཚད་དཀར་ཆག："
 
 msgid "Details"
-msgstr "ཞིབ་ཕྲའི་ཆ་འཕྲིན།"
+msgstr "ཆ་འཕྲིན་ཞིབ་ཕྲ།"
 
 msgid ""
 "Determines how transparency should be indicated. Valid values are checked, "
@@ -254,7 +254,7 @@ msgid "Edit the current image using %s"
 msgstr " %s སྤྱད་ནས་མིག་སྔའི་པར་རིས་རྩོམ་སྒྲིག"
 
 msgid "Enabled"
-msgstr "སྤྱད་པ།"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "Enlarge the image"
 msgstr "པར་རིས་ཆེར་སྐྱེད།"
@@ -302,7 +302,7 @@ msgid "File format is unknown or unsupported"
 msgstr "ཡིག་ཆའི་རྣམ་གཞག་མི་ཤེས་པའམ་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "Filename format:"
-msgstr "ཡིག་ཆའི་མིང་གི་རྣམ་པ།"
+msgstr "ཡིག་ཆའི་མིང་གི་རྣམ་གཞག："
 
 msgid "Fit"
 msgstr "འཚམ་པ།"
@@ -311,22 +311,22 @@ msgid "Fit the image to the window"
 msgstr "པར་རིས་སྒེའུ་ཁུང་འཚམ་པར་བྱེད།"
 
 msgid "Flash:"
-msgstr "འོད་འཁྱུག་པ།："
+msgstr "འཁྱུག་འོད་གློག"
 
 msgid "Flip _Horizontal"
-msgstr "ཆུ་ངོས་ལྟར་སློག་པ།"
+msgstr "ཆུ་སྙོམས་སློག་པ། (_H)"
 
 msgid "Flip _Vertical"
-msgstr "དྲང་འཕྱང་ལྟར་སློག་པ།(_V)"
+msgstr "དྲང་འཕྱང་སློག་པ། (_V)"
 
 msgid "Focal Length:"
-msgstr "མདོ་ཐག："
+msgstr "མདོ་ཐག"
 
 msgid "Fullscreen with double-click"
 msgstr "ཉིས་རྡེབ་ཀྱིས་བརྙན་ངོས་བརྗེ་བ།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Go to a random image of the collection"
 msgstr "རིས་ཚོགས་ཀྱི་པར་རིས་ངོས་རྗེས་མར་སྤོ།"
@@ -350,7 +350,7 @@ msgid "Help on this application"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་འདིའི་རོགས་རམ་སྐོར།"
 
 msgid "Horizontal"
-msgstr "ཆུ་ངོས།"
+msgstr "ཆུ་སྙོམས།"
 
 msgid "ISO Speed Rating:"
 msgstr ""
@@ -402,7 +402,7 @@ msgid "If you don't save, your changes will be lost."
 msgstr "གལ་ཏེ་མ་ཉར་ན། ཁྱེད་ཀྱི་བཟོ་བཅོས་བོར་བ་ཡིན།"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Image Data"
 msgstr "པར་རིས་གཞི་གྲངས།"
@@ -411,10 +411,10 @@ msgid "Image Enhancements"
 msgstr "པར་རིས་དྲག་སྒྱུར།"
 
 msgid "Image Properties"
-msgstr "པར་རིས་ཀྱི་གཏོགས་གཤིས།"
+msgstr "བརྙན་རིས་གཏོགས་གཤིས།"
 
 msgid "Image Settings"
-msgstr "པར་རིས་ཀྱི་སྒྲིག་འགོད།"
+msgstr "བརྙན་རིས་སྒྲིག་འགོད།"
 
 msgid "Image Taking Conditions"
 msgstr "པར་རིས་ཐོབ་པའི་ཆ་རྐྱེན།"
@@ -432,7 +432,7 @@ msgid "Image loading failed."
 msgstr ""
 
 msgid "In"
-msgstr "ཆེར་སྐྱེད།"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Inches"
 msgstr "དབྱིན་ཚུན།"
@@ -444,7 +444,7 @@ msgid "Keywords:"
 msgstr "གནད་ཚིག"
 
 msgid "Left"
-msgstr "དུས་འཁོར་ལྡོག་ཕྱོགས།"
+msgstr "གཡོན།"
 
 msgid ""
 "List of active plugins. It doesn't contain the \"Location\" of the active "
@@ -453,7 +453,7 @@ msgid ""
 msgstr ""
 
 msgid "Location:"
-msgstr "གནས་ས་"
+msgstr "གནས་ས།:"
 
 msgid "Loop through the image sequence"
 msgstr "པར་རིས་རིམ་ལྟར་རེས་འཁོར་གཏོང་བ།"
@@ -465,7 +465,7 @@ msgid "Hi_de"
 msgstr "སྦེད་པ།(_D)"
 
 msgid "Metadata"
-msgstr "རྒྱུ་གཞི་གྲངས།"
+msgstr "རྒྱུའི་གཞི་གྲངས།"
 
 msgid "Metering Mode:"
 msgstr ""
@@ -489,7 +489,7 @@ msgid "Move to _Trash"
 msgstr "སྙིགས་སྒམ་དུ་སྤོ།(_T)"
 
 msgid "Name:"
-msgstr "མིང་།"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid "Next"
 msgstr "གཞས་ཕྱི་མ།"
@@ -501,13 +501,13 @@ msgid "No images found in '%s'."
 msgstr "“%s”ནང་པར་རིས་མེད། "
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Normal"
-msgstr "སྤྱིར་བཏང་།"
+msgstr "དཀྱུས་མ།"
 
 msgid "Open Folder"
-msgstr "ཡིག་ཁུག་ཁ་འབྱེད་བ།"
+msgstr "ཡིག་ཁུག་ཁ་ཕྱེ་བ།"
 
 msgid "Open Image"
 msgstr "པར་རིས་ཁ་འབྱེད།(_O)"
@@ -516,7 +516,7 @@ msgid "Open _with"
 msgstr "ཁ་འབྱེད་སྟངས།(_W)"
 
 msgid "Open a file"
-msgstr "ཡིག་ཆ་ཞིག་ཁ་འབྱེད།"
+msgstr "ཡིག་ཆ་གཅིག་གི་ཁ་ཕྱེ་བ།"
 
 msgid "Open in fullscreen mode"
 msgstr "བརྙན་ཡོངས་རྣམ་པར་ཁ་འབྱེད།"
@@ -528,7 +528,7 @@ msgid "Open the selected image with a different application"
 msgstr "མི་འདྲ་བའི་ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་བདམས་པའི་པར་རིས་ཁ་འབྱེད།"
 
 msgid "Opening image \"%s\""
-msgstr ""
+msgstr "པར་རིས“%s”ཁ་འབྱེད་པ།"
 
 msgid "Options"
 msgstr "འདེམས་ཚན།"
@@ -537,7 +537,7 @@ msgid "Other"
 msgstr "གཞན་དག"
 
 msgid "Out"
-msgstr "ཆུང་སྐྱུང་།"
+msgstr "ཆུང་བསྡུ།"
 
 msgid "Page Setup"
 msgstr "ཤོག་ངོས་སྒྲིག་འགོད།"
@@ -558,10 +558,10 @@ msgid "Plugins"
 msgstr "བསྒར་ལྷུ།"
 
 msgid "Position"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Prefere_nces"
-msgstr "ཐོག་མའི་འདེམས་ཚན།(_N)"
+msgstr "འདེམས་ཚན་ཐོག་མ།(_N)"
 
 msgid "Preferences for Eye of MATE"
 msgstr "MATE ཡི་མིག་གི་དང་ཐོག་འདེམས་ཚན།"
@@ -603,7 +603,7 @@ msgid "Replace spaces with underscores"
 msgstr "སྟོང་ཆ་འོག་ཐིག་ཏུ་བརྗེ་བ།"
 
 msgid "Right"
-msgstr "གཡས་ཕྱོགས།"
+msgstr "གཡས།"
 
 msgid "Rotate Counterc_lockwise"
 msgstr "གཡོན་སྐོར།(_L)"
@@ -616,8 +616,8 @@ msgstr ""
 
 msgid "Run '%s --help' to see a full list of available command line options."
 msgstr ""
-"“%s --help” "
-"འཁོར་སྐྱོད་ནས་སྤྱོད་རུང་བཀའ་བརྡ་ཕྲེང་འདེམས་ཚན་གྱི་ཆ་ཚང་རེའུ་མིག་ལ་ལྟ།"
+"“%s "
+"--help”འཁོར་སྐྱོད་བྱས་ནས་སྤྱོད་རུང་བཀའ་བརྡའི་འདེམ་ཚན་གྱི་རེའུ་མིག་ཆ་ཚང་ལ་ལྟ་དགོས།"
 
 msgid "Running in fullscreen mode"
 msgstr "བརྙན་ཡོངས་རྣམ་པར་འཁོར་སྐྱོད།"
@@ -629,25 +629,25 @@ msgid "S_lideshow"
 msgstr "སྒྲོན་བརྙན་ར་ཤེལ། (_L)"
 
 msgid "Save As"
-msgstr "གཞན་ཉར།"
+msgstr "གཞན་དུ་བཅོལ་བ།"
 
 msgid "Save Image"
-msgstr "པར་རིས་ཉར་བ།"
+msgstr " བརྙན་རིས་ཉར་ཚགས།"
 
 msgid "Save _As…"
-msgstr "གཞན་ཉར།(_A)..."
+msgstr "གཞན་དུ་བཅོལ་བ།(_A)..."
 
 msgid "Save changes in currently selected images"
 msgstr "བཟོ་བཅོས་མིག་སྔའི་བདམས་པའི་པར་རིས་སུ་ཉར།"
 
 msgid "Save changes to image \"%s\" before closing?"
-msgstr ""
+msgstr "མ་རྒྱག་གོང་དུ་བཟོ་བཅོས་པར་རིས“%s” རུ་ཉར།"
 
 msgid "Save the selected images with a different name"
 msgstr "མིང་མི་འདྲ་བྱས་ནས་བདམས་པའི་པར་རིས་ཉར།"
 
 msgid "Saving image \"%s\" (%u/%u)"
-msgstr ""
+msgstr "པར་རིས“%s”ཉར། (ཨང་%u སྤྱིར་%u)"
 
 msgid "Saving image locally…"
 msgstr "རང་སའི་པར་རིས་ཉར་བ།..."
@@ -668,7 +668,7 @@ msgid "Set the selected image as the desktop background"
 msgstr "བདམས་པའི་པར་རིས་ཅོག་ངོས་རྒྱབ་ལྗོངས་ལ་བཀོད།"
 
 msgid "Show the application's version"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་པར་གཞི་མངོན་པ།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་པར་གཞི་མངོན་པ།"
 
 msgid "Show the current image in fullscreen mode"
 msgstr "བརྙན་ཡོངས་རྣམ་པར་མིག་སྔའི་པར་རིས་མངོན་པ།"
@@ -704,7 +704,7 @@ msgid "Shrink the image"
 msgstr ""
 
 msgid "Side _Pane"
-msgstr "ཟུར་སྡེ(_P)"
+msgstr "ཟུར་མཐའི་སྡེ། (_P)"
 
 msgid "Simple image viewer"
 msgstr "པར་རིས་ལྟ་ཆས་སྟབས་བདེ།"
@@ -736,7 +736,7 @@ msgid "Start counter at:"
 msgstr "གྲངས་བགྲང་མགོ་རྩོམ།："
 
 msgid "T_oolbar"
-msgstr "ལག་ཆ་སྡེ(_O)"
+msgstr "ལག་ཆའི་སྡེ།(_O)"
 
 msgid "Tag"
 msgstr "གདོང་འཛར།"
@@ -812,7 +812,7 @@ msgid "To:"
 msgstr "འབྱོར་མཁན།"
 
 msgid "Toolbar Editor"
-msgstr "ལག་ཆ་སྡེ་རྩོམ་སྒྲིག་ཆས།"
+msgstr "ལག་ཆ་སྡེའི་རྩོམ་སྒྲིག་ཆས།"
 
 msgid "Transformation failed."
 msgstr ""
@@ -833,25 +833,25 @@ msgid "Trash images without asking"
 msgstr "པར་རིས་སྙིགས་སྒམ་དུ་སྤོ་ཞིང་མ་འདྲི།"
 
 msgid "Type:"
-msgstr "རིགས་གྲས།"
+msgstr "རིགས་གྲས།:"
 
 msgid "Undo the last change in the image"
 msgstr "ཐེངས་སྔོན་པར་རིས་ཀྱི་བཟོ་བཅོས་ལེན་པ།"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Use \"%s\" to open the selected image"
-msgstr ""
+msgstr "“%s”སྤྱད་ནས་བདམས་པའི་པར་རིས་ཁ་འབྱེད།"
 
 msgid "Use a custom background color"
 msgstr "རང་གིས་གཏན་འཁེལ་གྱི་རྒྱབ་ལྗོངས་ཁ་དོག་སྤྱོད་པ།"
 
 msgid "Value"
-msgstr ""
+msgstr "ཐང་།"
 
 msgid "Vertical"
-msgstr "གཞུང་དྲང་།"
+msgstr "དྲང་འཕྱངས།"
 
 msgid ""
 "Whether the file chooser should show the user's pictures folder if no images"
@@ -917,16 +917,16 @@ msgid ""
 msgstr ""
 
 msgid "Zoom _Out"
-msgstr "ཆུང་སྐྱུང་།(_O)"
+msgstr "ཆུང་བསྡུ།(_O)"
 
 msgid "Zoom multiplier"
 msgstr "སྐྱེད་སྐྱུང་བསྡུར་ཚད།"
 
 msgid "[FILE…]"
-msgstr "[ཡིག་ཆ་...]"
+msgstr "[ཡིག་ཆ།...]"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_About Plugin"
 msgstr "བསྒར་ལྷུ་འབྲེལ་ཡོད།(_A)"
@@ -938,46 +938,46 @@ msgid "_Best Fit"
 msgstr "ངོས་ཚད་འཚམ་པ།(_B)"
 
 msgid "_Bottom:"
-msgstr "གཤམ་དུ(_B)："
+msgstr "འོག (_B)："
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Contents"
-msgstr "དཀར་ཆག(_C)"
+msgstr "དཀར་ཆག (_C)"
 
 msgid "_Copy"
-msgstr "འདྲ་བཟོ།(_C)"
+msgstr "འདྲ་པར།(_C)"
 
 msgid "_Deactivate All"
 msgstr "ཚང་མ་སྤྱོད་འགོག(_D)"
 
 msgid "_Delete Toolbar"
-msgstr "ལག་ཆ་སྡེ་འདོར་བ།(_D)"
+msgstr "ལག་ཆའི་སྡེ་འདོར་བ།(_D)"
 
 msgid "_Do not ask again during this session"
 msgstr "གཏམ་གླེང་འདིའི་དུས་སུ་མ་འདྲི།(_D)"
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_First Image"
 msgstr "པར་རིས་དང་པོ།(_F)"
 
 msgid "_Fullscreen"
-msgstr "ཡོལ་ཧྲིལ།(_F)"
+msgstr "བརྙན་ཡོལ་ཧྲིལ་པོ།(_F)"
 
 msgid "_Go"
-msgstr "སྒྱུར།(_G)"
+msgstr "བསྒྱུར་བ།(_G)"
 
 msgid "_Height:"
 msgstr "མཐོ་ཚད།(_H)："
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Image"
-msgstr "པར་རིས།(_I)"
+msgstr "བརྙན་རིས། (_I)"
 
 msgid "_Image Collection"
 msgstr "རིས་ཚོགས།(_I)"
@@ -986,13 +986,13 @@ msgid "_Last Image"
 msgstr "པར་རིས་མཐའ་མ་བོ།(_L)"
 
 msgid "_Left:"
-msgstr "གཡོན།(_L)："
+msgstr "གཡོན། (_L)："
 
 msgid "_Loop sequence"
 msgstr "རེས་འཁོར།(_L)"
 
 msgid "_Move on Toolbar"
-msgstr "ལག་ཆ་སྡེ་རུ་སྤོར།(_M)"
+msgstr "ལག་ཆའི་སྡེར་སྤོ་བ།(_M)"
 
 msgid "_Next"
 msgstr "གཞས་ངོས་རྗེས་མ།(_N)"
@@ -1001,7 +1001,7 @@ msgid "_Next Image"
 msgstr "པར་རིས་རྗེས་མ།(_N)"
 
 msgid "_Normal Size"
-msgstr "རྒྱུན་ལྡན་གྱི་ཆེ་ཆུང་།(_N)"
+msgstr "རྒྱུན་ལྡན་གྱི་ཆེ་ཆུང་།(N)"
 
 msgid "_Open Background Settings"
 msgstr "ཅོག་ངོས་རྒྱབ་ལྗོངས་སྒྲིག་འགོད་ཁ་འབྱེད།(_O)"
@@ -1016,7 +1016,7 @@ msgid "_Previous Image"
 msgstr "པར་རིས་གོང་མ།(_P)"
 
 msgid "_Print…"
-msgstr "པར་འདེབས(_P)..."
+msgstr "པར་འདེབས།(_P)..."
 
 msgid "_Random Image"
 msgstr "སྐབས་བསྟུན་པར་རིས།(_R)"
@@ -1025,7 +1025,7 @@ msgid "_Random sequence"
 msgstr "སྐབས་བསྟུན་རིམ་པ།/(_R)"
 
 msgid "_Reload"
-msgstr " བསྐྱར་འགེལ།(_R)"
+msgstr "བསྐྱར་འགེལ།(_R)"
 
 msgid "_Remove from Toolbar"
 msgstr "ལག་ཆ་སྡེ་ནས་འདོར་བ།(_R)"
@@ -1037,7 +1037,7 @@ msgid "_Retry"
 msgstr "བསྐྱར་ཚོད།(_R)"
 
 msgid "_Right:"
-msgstr "གཡས།(_R)："
+msgstr "གཡས། (_R)："
 
 msgid "_Rotate Clockwise"
 msgstr "གཡས་སྐོར།(_R)"
@@ -1049,31 +1049,31 @@ msgid "_Scaling:"
 msgstr "སྐྱེད་སྐྱུང་།(_S)："
 
 msgid "_Statusbar"
-msgstr "རྣམ་པའི་སྡེ།(_S)"
+msgstr "རྣམ་སྡེ། (_S)"
 
 msgid "_Switch image after:"
 msgstr "པར་རིས་བརྗེ་བའི་དུས་ཚོད།(_S)："
 
 msgid "_Toolbar"
-msgstr "ལག་ཆ་སྡེ།(_T)"
+msgstr "ལག་ཆའི་སྡེ། (_T)"
 
 msgid "_Tools"
-msgstr "ལག་ཆ།(_T)"
+msgstr " ལག་ཆ།(_T)"
 
 msgid "_Top:"
-msgstr "གོང་།(_T)："
+msgstr "སྟེང་། (_T)："
 
 msgid "_Undo"
-msgstr "ཕྱིར་འཐེན།(_U)"
+msgstr "འདོར་བ།(_U)"
 
 msgid "_Unit:"
 msgstr "འཇལ་བྱེད།(_U)："
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "_Width:"
-msgstr "ཞེང་ཚད།(_W)："
+msgstr "ཞེང་ཚད་(_W)："
 
 msgid "_Zoom In"
 msgstr "ཆེར་སྐྱེད།(_Z)"

@@ -64,10 +64,10 @@ msgid "Call from %s to %s %s"
 msgstr "%s ཡིས%sལ་འབོད་པ་%sསླེབས་འདུག"
 
 msgid "Cannot create audio pipeline. %s.\n"
-msgstr ""
+msgstr "སྒྲ་ཟློས་དུང་ལམ་%sགསར་བཟོ་བྱེད་མི་ཐུབ།\n"
 
 msgid "Cannot find audio element %s.\n"
-msgstr ""
+msgstr "སྒྲ་ཟློས་གཞི་རྒྱུ%sརྙེད་མེད།\n"
 
 msgid ""
 "Cannot start file browser.\n"
@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 
 msgid "Cannot start reading from the stream/pipeline.\n"
-msgstr ""
+msgstr "སྒྲ་ཟློས་རྒྱུན/མདོང་ལམ་ཐིག་ནས་གཞི་གྲངས་ཀློག་མི་ཐུབ། \n"
 
 msgid ""
 "Cannot start the internet browser.\n"
@@ -84,15 +84,17 @@ msgstr ""
 
 msgid "Cannot write to file \"%s\".\n"
 msgstr ""
+"ཡིག་ཆ་འབྲི་མི་ཐུབ།\\%s\"\n"
+"\""
 
 msgid "Command:"
-msgstr "བཀའ་བརྡ།："
+msgstr "བཀའ་ལག་བསྟར།"
 
 msgid "Continue recording"
 msgstr "མུ་མཐུད་དུ་ཕབ་པ།"
 
 msgid "Delete"
-msgstr "འདོར་བ།"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
 
 msgid "Device settings"
 msgstr "སྒྲིག་ཆས་སྒྲིག་འགོད།"
@@ -109,7 +111,7 @@ msgid "File:"
 msgstr "ཡིག་ཆ།"
 
 msgid "Filename format:"
-msgstr "ཡིག་ཆའི་མིང་གི་རྣམ་པ།"
+msgstr "ཡིག་ཆའི་མིང་གི་རྣམ་གཞག："
 
 msgid "Folder name:"
 msgstr "ཡིག་ཁུག་གི་མིང་།"
@@ -118,7 +120,7 @@ msgid "Format:"
 msgstr "རྣམ་གཞག"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Hide window"
 msgstr "སྒེའུ་ཁུང་གབ་པ།"
@@ -164,7 +166,7 @@ msgid "Print program name and version."
 msgstr "པར་འདེབས་བྱ་རིམ་མིང་དང་པར་གཞི།"
 
 msgid "Quit"
-msgstr "ཕྱིར་འདོན་པ།"
+msgstr " ཕྱིར་འབུད།"
 
 msgid "Record ringing sound for Skype."
 msgstr "Skype དྲིལ་བརྡ་ཕབ་པ།"
@@ -179,13 +181,13 @@ msgid "Recording devices for %s:"
 msgstr "%s སྒྲིག་ཆས་ཀྱི་སྒྲ་ཕབ།"
 
 msgid "Reset"
-msgstr "བསྐྱར་འཇོག"
+msgstr "བསྐྱར་སྒྲིག"
 
 msgid "Reset all settings and restart audio-recorder."
 msgstr "བཀོད་པ་ཚང་མ་བསྐྱར་འགོད་བྱས་ཅིང་ཉེར་སྤྱོད་འདི་མགོ་རང་སློང་བྱེད།"
 
 msgid "Save"
-msgstr "ཉར་བ།"
+msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
 
 msgid "Select Directory"
 msgstr "དཀར་ཆག་འདེམ་པ།"
@@ -259,12 +261,14 @@ msgid ""
 "This product is released under terms of GPL, GNU GENERAL PUBLIC LICENSE "
 "v3.\n"
 msgstr ""
+"ཐོན་རྫས་འདིས་GPLགྲོས་མཐུན་དང་GNUསྤྱི་སྤྱོད་སྤྱི་པའི་གྲོས་མཐུན་པར་གཞི་གསུམ་པར་བརྩི་སྲུང་བྱས།"
+" "
 
 msgid "Timer."
 msgstr "དུས་བགྲང་ཆས།"
 
 msgid "Title:"
-msgstr "ཁ་བྱང་།"
+msgstr "ཁ་བྱང་།:"
 
 msgid "Unnamed"
 msgstr "མིང་བཏགས་མེད་པ།"
@@ -273,10 +277,10 @@ msgid "User defined audio source"
 msgstr "སྤྱོད་མཁན་གྱིས་སྒྲ་ཟློས་ཁུངས་རང་ངེས་བྱེད།"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_OK"
-msgstr "འགྲིག་པ།(_O)"
+msgstr "གཏན་འཁེལ།"
 
 msgid "_Quit"
-msgstr "ཕྱིར་ཐོན།(_Q)"
+msgstr "ཕྱིར་འབུད། (_Q)"

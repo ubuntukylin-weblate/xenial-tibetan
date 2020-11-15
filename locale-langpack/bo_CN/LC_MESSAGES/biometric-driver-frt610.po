@@ -65,7 +65,7 @@ msgid "Other errors"
 msgstr "ནོར་འཁྲུལ་གཞན་དག"
 
 msgid "Out of memory"
-msgstr "ནང་གསོག་མི་འདང་བ།"
+msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
 
 msgid "Parameter error"
 msgstr "ཞུགས་གྲངས་ནོར་འཁྲུལ།"
@@ -98,20 +98,21 @@ msgid "Unknown state"
 msgstr "ངེས་མེད་ཀྱི་རྣམ་པ།"
 
 msgid "[%d] Sample[%d] -> Sample[%d], similarity = %d\n"
-msgstr ""
+msgstr "[%d] དཔེ་བསྡུ།[%d] -> དཔེ་བསྡུ།[%d], འདྲ་མཚུངས་ཚད། = %d\n"
 
 msgid "[%s] No.%d device information: %s\n"
-msgstr ""
+msgstr "[%s] ཨང%d ཡི་སྒྲིག་ཆས་ཀྱི་ཆ་འཕྲིན།：%s\n"
 
 msgid "[%s] SecurityLevel is not set. Use default values: %d\n"
-msgstr ""
+msgstr "[%s] SecurityLevel（བདེ་འཇགས་རིམ་པ།）སོར་བཞག་ཚད་སྤྱོད་རྒྱུ་བཀོད་མེད།：%d\n"
 
 msgid "[%s] Similarity = %d (UID:%d, INDEX[%d]:%s, SNO:%d)\n"
-msgstr ""
+msgstr "[%s] འདྲ་མཚུངས་ཚད། = %d། (UID:%d, INDEX[%d]:%s, SNO:%d)\n"
 
 msgid ""
 "[%s] Threshold (Similarity Threshold) is not set. Use default values: %d\n"
 msgstr ""
+"[%s] Threshold（འདྲ་མཚུངས་ཚད་ཀྱི་མཚམས་ཚད།）སོར་བཞག་ཚད།：%dསྤྱོད་པ་བཀོད་མེད།\n"
 
 msgid "[1/3] fingerprint is being sampled. Please press your finger"
 msgstr "[1/3] 正མཛུབ་རིས་ཀྱི་མ་དཔེ་འཚོལ་བཞིན་ཡོད་པས།མཛུབ་མོས་གནོན་རོགས།"

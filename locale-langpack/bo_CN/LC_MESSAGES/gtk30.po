@@ -113,10 +113,10 @@ msgid "About"
 msgstr "འབྲེལ་ཡོད།"
 
 msgid "About %s"
-msgstr " %sཡི་སྐོར།"
+msgstr "%sཡི་སྐོར།"
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Invalid"
 msgstr "ནུས་མེད།"
@@ -158,7 +158,7 @@ msgid "Creates a widget in which the contents of the cell can be edited"
 msgstr ""
 
 msgid "Customizes the color"
-msgstr "ཁ་དོག་གཏན་འཁེལ་རང་བྱེད།"
+msgstr "རང་བཟོས་ཁ་དོག"
 
 msgid "Dismisses the slider"
 msgstr ""
@@ -182,13 +182,13 @@ msgid "Toggles the switch"
 msgstr ""
 
 msgid "Activate"
-msgstr "སྐུལ་སློང་།"
+msgstr " སྐུལ་སློང་།"
 
 msgid "Click"
 msgstr ""
 
 msgid "Customize"
-msgstr "རང་བཟོས། (_C)"
+msgstr "མཚན་ཉིད་རང་འཇོག(_C)"
 
 msgid "Dismiss"
 msgstr "ཟློག་པ།"
@@ -203,7 +203,7 @@ msgid "Popup"
 msgstr "འཕར་ཐོན་སྒེའུ་ཁུང་།"
 
 msgid "Press"
-msgstr "གནོན་པ།"
+msgstr "མར་གནོན།"
 
 msgid "Select"
 msgstr "འདེམ་པ།"
@@ -212,10 +212,10 @@ msgid "Toggle"
 msgstr "བསད་སྤར།"
 
 msgid "Actions"
-msgstr "འགུལ་སྟངས།"
+msgstr "བཀོལ་སྤྱོད།"
 
 msgid "Activate"
-msgstr "སྐུལ་སློང་།"
+msgstr " སྐུལ་སློང་།"
 
 msgid "Add Cover Page"
 msgstr ""
@@ -227,10 +227,10 @@ msgid "Add a new bookmark"
 msgstr ""
 
 msgid "Address"
-msgstr "ཤག་གནས།ས་གནས།"
+msgstr " ཤག་གནས།"
 
 msgid "Adjusts the volume"
-msgstr ""
+msgstr "སྒྲ་ཚད་ལེགས་སྒྲིག"
 
 msgid "Advanced"
 msgstr "མཐོ་རིམ།"
@@ -296,7 +296,7 @@ msgid "Attribute mapping"
 msgstr ""
 
 msgid "Authentication"
-msgstr "ཐོབ་ཐང་ཞིབ་བཤེར།"
+msgstr "གསལ་འབྱེད་ར་སྤྲོད།"
 
 msgid "Authentication is required on %s"
 msgstr ""
@@ -392,7 +392,7 @@ msgid "Buildable ID"
 msgstr ""
 
 msgid "CLASS"
-msgstr ""
+msgstr "རིགས།"
 
 msgid "COLORS"
 msgstr "ཁ་དོག"
@@ -407,7 +407,7 @@ msgid "C_ollate"
 msgstr ""
 
 msgid "C_redits"
-msgstr "བཀའ་དྲིན་ཞུ་བ།(_R)"
+msgstr "བཀའ་དྲིན་ཞུ་བ།（R）"
 
 msgid "C_urrent Page"
 msgstr ""
@@ -434,7 +434,7 @@ msgid "Cance_l"
 msgstr ""
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Cannot change to folder because it is not local"
 msgstr ""
@@ -511,10 +511,10 @@ msgid "Collect Statistics"
 msgstr ""
 
 msgid "Color"
-msgstr "ཁ་མདོག"
+msgstr "ཁ་དོག"
 
 msgid "S"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "V"
 msgstr ""
@@ -544,7 +544,7 @@ msgid "H"
 msgstr "མཐོ།"
 
 msgid "Hue"
-msgstr "ཚོན་མདོག"
+msgstr "ཚོས་གཞི།"
 
 msgid "Color management unavailable"
 msgstr ""
@@ -682,7 +682,7 @@ msgid "Connect As"
 msgstr ""
 
 msgid "Connect to Server"
-msgstr "ཞབས་ཞུ་ཆས་ལ་འབྲེལ་མཐུད།"
+msgstr "ཞབས་ཞུ་ཆས་ལ་སྦྲེལ།"
 
 msgid "Connect to _Server"
 msgstr ""
@@ -703,10 +703,10 @@ msgid "Copie_s:"
 msgstr ""
 
 msgid "Copies"
-msgstr "\"། (འདྲ་བཤུས།)\""
+msgstr "འདྲ་བཤུས།"
 
 msgid "Copy"
-msgstr "འདྲ་བཟོ།"
+msgstr "འདྲ་ཕབ།"
 
 msgid "Copy URL"
 msgstr ""
@@ -736,7 +736,7 @@ msgid "Could not rename %s back to %s: %s.\n"
 msgstr ""
 
 msgid "Could not rename %s to %s: %s\n"
-msgstr ""
+msgstr "%sལ་བསྐྱར་དུ་%sམིང་%sའདོགས་ཐབས་བྲལ་པ།: %s\n"
 
 msgid "Could not rename %s to %s: %s, removing %s then.\n"
 msgstr ""
@@ -793,7 +793,7 @@ msgid "Cursor Theme"
 msgstr "འོད་རྟགས་ཀྱི་བརྗོད་གཞི།"
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "Custom %s×%s"
 msgstr ""
@@ -844,7 +844,7 @@ msgid "Defined at: %p (%s)"
 msgstr ""
 
 msgid "Desktop"
-msgstr "ཅོག་ངོས།"
+msgstr " ཅོག་ངོས།"
 
 msgid ""
 "Dialog is locked.\n"
@@ -860,13 +860,13 @@ msgid "Disable this custom CSS"
 msgstr ""
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Disconnect"
 msgstr "འབྲེལ་མཐུད་མཚམས་གཅོད་པ།"
 
 msgid "Display"
-msgstr "མངོན་པ།"
+msgstr "འཆར་ཆས།"
 
 msgid "Do use the Wintab API [default]"
 msgstr ""
@@ -914,13 +914,13 @@ msgid "Embed GhostScript fonts only"
 msgstr ""
 
 msgid "Empty"
-msgstr "སྟོང་བ།"
+msgstr "སྟོང་པ།"
 
 msgid "Enable statistics with GOBJECT_DEBUG=instance-count"
 msgstr ""
 
 msgid "Enabled"
-msgstr "སྤྱད་པ།"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "Enter Location"
 msgstr ""
@@ -935,7 +935,7 @@ msgid "Enter server address…"
 msgstr ""
 
 msgid "Error"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Error creating print preview"
 msgstr ""
@@ -989,7 +989,7 @@ msgid "File"
 msgstr "ཡིག་ཆ།"
 
 msgid "File System"
-msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས།"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
 
 msgid "File System Root"
 msgstr ""
@@ -1013,7 +1013,7 @@ msgid "Files"
 msgstr "ཡིག་ཆ།"
 
 msgid "Finishing"
-msgstr "ལེགས་འགྲུབ།"
+msgstr "ལེགས་གྲུབ།"
 
 msgid "Focus Widget"
 msgstr ""
@@ -1118,7 +1118,7 @@ msgid "GTK+ Options"
 msgstr ""
 
 msgid "GTK+ Theme"
-msgstr "GTK+བརྗོད་སྙིང།"
+msgstr "Gtk+བརྗོད་སྙིང།"
 
 msgid "GTK+ Version"
 msgstr ""
@@ -1130,7 +1130,7 @@ msgid "GTK+ debugging flags to unset"
 msgstr ""
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Gestures"
 msgstr ""
@@ -1160,25 +1160,25 @@ msgid "Hold the job until it is explicitly released"
 msgstr ""
 
 msgid "Home"
-msgstr "དཀར་ཆག་གཙོ་བོ།"
+msgstr "ཚོད་འཛིན་ངོས་པང་ཀྱི་གཙོ་ངོས།"
 
 msgid "Horizontal"
-msgstr "ཆུ་ངོས།"
+msgstr "ཆུ་སྙོམས།"
 
 msgid "Hue"
-msgstr "ཚོན་མདོག"
+msgstr "ཚོས་གཞི།"
 
 msgid "ID"
 msgstr "ID"
 
 msgid "Icon"
-msgstr "རིས་རྟགས"
+msgstr "རིས་རྟགས།"
 
 msgid "Icon '%s' not present in theme %s"
 msgstr ""
 
 msgid "Icon Theme"
-msgstr "རིས་རྟགས་བརྗོད་སྙིང།"
+msgstr "རིས་རྟགས་བརྗོད་སྙིང་།"
 
 msgid "If you delete an item, it will be permanently lost."
 msgstr "གལ་ཏེ་ཁྱེད་ཀྱིས་རྣམ་གྲངས་ཤིག་དོར་ན། རྣམ་གྲངས་བོར་བ་ཡིན།"
@@ -1187,7 +1187,7 @@ msgid "Ignore hidden"
 msgstr ""
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Image Quality"
 msgstr ""
@@ -1199,7 +1199,7 @@ msgid "Increases the volume"
 msgstr "སྐད་ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Information"
-msgstr "གསལ་བརྡ།"
+msgstr " ཆ་འཕྲིན།"
 
 msgid "Intensity of the color."
 msgstr ""
@@ -1270,19 +1270,19 @@ msgid "Left to right, top to bottom"
 msgstr ""
 
 msgid "Left-to-Right"
-msgstr ""
+msgstr "གཡོན་ནས་གཡས་བར།"
 
 msgid "License"
-msgstr "ཆོག་མཆན་དཔང་ཡིག"
+msgstr "ཆོག་འཐུས་ལག་ཁྱེར།"
 
 msgid "Load additional GTK+ modules"
 msgstr ""
 
 msgid "Location"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Lock"
-msgstr "སྒྲོག་པ།"
+msgstr "དམིགས་འཛིན།"
 
 msgid "Long Edge (Standard)"
 msgstr ""
@@ -1329,25 +1329,25 @@ msgid "Medium"
 msgstr "འབྲིང་རིམ།"
 
 msgid "Menu"
-msgstr "འདེམས་བྱང་།"
+msgstr " འདེམས་བྱང་།"
 
 msgid "Minimize"
 msgstr ""
 
 msgid "Miscellaneous"
-msgstr "ཚན་གཞན།"
+msgstr "སྣ་མང་།"
 
 msgid "Mnemonic Label"
 msgstr ""
 
 msgid "Mode"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Model:"
 msgstr ""
 
 msgid "Modified"
-msgstr "བཅོས་པ།"
+msgstr "བཅོས་ཟིན།"
 
 msgid "Mount and open “%s”"
 msgstr ""
@@ -1356,13 +1356,13 @@ msgid "Muted"
 msgstr "སྒྲ་མེད།"
 
 msgid "NAME"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Name:"
-msgstr "མིང་།"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid "Need user intervention"
 msgstr ""
@@ -1448,7 +1448,7 @@ msgid "No theme index file.\n"
 msgstr ""
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Not a valid icon cache: %s\n"
 msgstr ""
@@ -1457,7 +1457,7 @@ msgid "Not a valid page setup file"
 msgstr ""
 
 msgid "Not available"
-msgstr "སྤྱོད་མི་རུང་།"
+msgstr " སྤྱོད་མི་རུང་བ།"
 
 msgid "Not enough free memory"
 msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
@@ -1501,7 +1501,7 @@ msgid "One Sided"
 msgstr "རྐྱང་ངོས།"
 
 msgid "Online"
-msgstr "དྲ་ལམ་ན་ཡོད།"
+msgstr "དྲ་ལམ་ན་ཡོད་པ།"
 
 msgid "Op_acity:"
 msgstr "མི་གསལ་ཚད། (_A)："
@@ -1513,7 +1513,7 @@ msgid "Open in New _Tab"
 msgstr "གདོང་འཛར་གསར་བར་ཁ་འབྱེད།(_T)"
 
 msgid "Open in New _Window"
-msgstr "སྒེའུ་ཁུང་གསར་པའི་ནང་དུ་འབྱེད།(_W)"
+msgstr "སྒེའུ་ཁུང་གསར་བར་ཁ་འབྱེད།(_W)"
 
 msgid "Open the contents of the file system"
 msgstr ""
@@ -1525,7 +1525,7 @@ msgid "Open the trash"
 msgstr "སྙིགས་སྒམ་ཁ་འབྱེད།"
 
 msgid "Open your personal folder"
-msgstr "ཁྱེད་ཀྱི་མི་སྒེར་ཡིག་ཁུག་ཁ་འབྱེད།"
+msgstr "ཁྱེད་རང་གི་མི་སྒེར་གྱི་ཡིག་ཁུག་ཁ་ཕྱེ་རོགས།"
 
 msgid "OpenGL context creation failed"
 msgstr ""
@@ -1650,10 +1650,10 @@ msgid "Paste"
 msgstr "སྦྱར་བ།"
 
 msgid "Path"
-msgstr "འགྲོ་ལམ་འགྲོ་ལམ།"
+msgstr "འགྲོ་ལམ།"
 
 msgid "Paused"
-msgstr "སྐབས་འཇོག"
+msgstr " སྐབས་འཇོག"
 
 msgid "Paused; Rejecting Jobs"
 msgstr ""
@@ -1680,7 +1680,7 @@ msgid "Pre_view"
 msgstr "སྔོན་ལྟ། (_V)"
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "མཐོ་རིམ།"
 
 msgid "Prefix"
 msgstr "སྔོན་འཇུག"
@@ -1878,7 +1878,7 @@ msgid "Right to left, top to bottom"
 msgstr ""
 
 msgid "Right-to-Left"
-msgstr ""
+msgstr "གཡས་ནས་གཡོན་བར།"
 
 msgid "SVG"
 msgstr ""
@@ -1908,13 +1908,13 @@ msgid "Se_lection"
 msgstr ""
 
 msgid "Search"
-msgstr "འཚོལ་བ།"
+msgstr "བཤེར་འཚོལ།"
 
 msgid "Search font name"
 msgstr ""
 
 msgid "Searching"
-msgstr "འཚོལ་བཤེར་པ།"
+msgstr "བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
 
 msgid "Searching for network locations"
 msgstr ""
@@ -1938,13 +1938,13 @@ msgid "Select a Color"
 msgstr "ཁ་དོག་འདེམ་པ།"
 
 msgid "Select a File"
-msgstr "ཡིག་ཆ་འདེམ་པ།"
+msgstr " ཡིག་ཆ་འདེམ་པ།"
 
 msgid "Select a filename"
-msgstr "ཡིག་ཆ་འདེམ་པ།"
+msgstr " ཡིག་ཆ་འདེམ་པ།"
 
 msgid "Select all"
-msgstr "ཀུན་འདེམས།"
+msgstr "ཡོངས་འདེམས།"
 
 msgid "Select an Object"
 msgstr ""
@@ -1980,7 +1980,7 @@ msgid ""
 msgstr ""
 
 msgid "Services"
-msgstr "ཞབས་ཞུ།"
+msgstr " ཞབས་ཞུ།"
 
 msgid "Setting is hardcoded by GTK_TEST_TOUCHSCREEN"
 msgstr ""
@@ -2010,7 +2010,7 @@ msgid "Show Pixel Cache"
 msgstr ""
 
 msgid "Show _Hidden Files"
-msgstr "སྦེད་པའི་ཡིག་ཆ་མངོན་པ།(_H)"
+msgstr "གབ་སྦས་ཡིག་ཆ་མངོན་པ། (_H)"
 
 msgid "Show _Private Resources"
 msgstr ""
@@ -2086,22 +2086,22 @@ msgid "Standard"
 msgstr "ཚད་གཞི།"
 
 msgid "Starting %s"
-msgstr " %sམགོ་སློང་པ།"
+msgstr " %sའགོ་སློང་བཞིན་པ།"
 
 msgid "State"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Statistics"
 msgstr "བསྡོམས་རྩིས།"
 
 msgid "Status"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Best _Fit"
 msgstr ""
 
 msgid "C_onnect"
-msgstr "འབྲེལ་མཐུད།(_O)"
+msgstr "འབྲེལ་མཐུད(_O)"
 
 msgid "Cu_t"
 msgstr "དྲས་གཏུབ།(_t)"
@@ -2110,7 +2110,7 @@ msgid "Decrease Indent"
 msgstr ""
 
 msgid "Error"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Find and _Replace"
 msgstr ""
@@ -2119,7 +2119,7 @@ msgid "Increase Indent"
 msgstr ""
 
 msgid "Information"
-msgstr "གསལ་བརྡ།"
+msgstr " ཆ་འཕྲིན།"
 
 msgid "Landscape"
 msgstr "འཕྲེད་ཕྱོགས།"
@@ -2149,22 +2149,22 @@ msgid "Select _All"
 msgstr "ཚང་མ་འདེམ་པ།(_A)"
 
 msgid "Warning"
-msgstr "ཐ་ཚིག "
+msgstr " ཐ་ཚིག"
 
 msgid "Zoom _In"
 msgstr "ཆེར་སྐྱེད།(_I)"
 
 msgid "Zoom _Out"
-msgstr "ཆུང་སྐྱུང་།(_O)"
+msgstr "ཆུང་བསྡུ།(_O)"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_Add"
-msgstr "སྣོན་པ། (_A)"
+msgstr "སྣོན་པ། (A)"
 
 msgid "_Apply"
-msgstr "ཉེར་སྤྱོད། (_A)"
+msgstr "ཉེར་སྤྱོད།(_A)"
 
 msgid "_Ascending"
 msgstr "རིམ་འཕར། (_A)..."
@@ -2176,28 +2176,28 @@ msgid "_CD-ROM"
 msgstr ""
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Center"
 msgstr "དཀྱིལ་སྒྲིག (_C)"
 
 msgid "_Clear"
-msgstr "གཙང་སེལ། (_C)"
+msgstr "གཙང་སེལ།(_C)"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Color"
-msgstr "ཁ་དོག(_C)"
+msgstr "ཁ་དོག (_C)"
 
 msgid "_Convert"
 msgstr "བརྗེ་སྤོར། (_C)"
 
 msgid "_Copy"
-msgstr "འདྲ་བཟོ།(_C)"
+msgstr "འདྲ་པར།(_C)"
 
 msgid "_Delete"
-msgstr "འདོར་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "_Descending"
 msgstr "རིམ་འབེབས། (_D)"
@@ -2209,13 +2209,13 @@ msgid "_Disconnect"
 msgstr "གཅོད་པ།(_D)"
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_Execute"
 msgstr ""
 
 msgid "_File"
-msgstr "ཡིག་ཆ།(_F)"
+msgstr "ཡིག་ཆ། (_F)"
 
 msgid "_Fill"
 msgstr ""
@@ -2227,16 +2227,16 @@ msgid "_Floppy"
 msgstr ""
 
 msgid "_Font"
-msgstr "ཡིག་གཟུགས། (_F)"
+msgstr " ཡིག་གཟུགས།(_F)"
 
 msgid "_Fullscreen"
-msgstr "ཡོལ་ཧྲིལ།(_F)"
+msgstr "བརྙན་ཡོལ་ཧྲིལ་པོ།(_F)"
 
 msgid "_Hard Disk"
 msgstr "སྲ་ཆས།(_H)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Home"
 msgstr "ཡིག་ཁུག་གཙོ།(_H)"
@@ -2260,22 +2260,22 @@ msgid "_Left"
 msgstr "གཡོན། (_L)"
 
 msgid "_Network"
-msgstr "དྲ་བ།(_N)"
+msgstr "དྲ་རྒྱ།(_N)"
 
 msgid "_New"
-msgstr "གསར་བཟོ།(_N)"
+msgstr "གསར་འཛུགས།(_N)"
 
 msgid "_No"
 msgstr ""
 
 msgid "_Normal Size"
-msgstr "རྒྱུན་ལྡན་གྱི་ཆེ་ཆུང་།(_N)"
+msgstr "རྒྱུན་ལྡན་གྱི་ཆེ་ཆུང་།(N)"
 
 msgid "_OK"
-msgstr "འགྲིག་པ།(_O)"
+msgstr "གཏན་འཁེལ།"
 
 msgid "_Open"
-msgstr "ཁ་འབྱེད་། (_O)"
+msgstr "ཁ་འབྱེད།(O)"
 
 msgid "_Paste"
 msgstr "སྦྱར་བ།(_P)"
@@ -2287,22 +2287,22 @@ msgid "_Print"
 msgstr "པར་འདེབས།(_P)"
 
 msgid "_Properties"
-msgstr "གཏོགས་གཤིས།(_P)"
+msgstr "གཏོགས་གཤིས། (_P)"
 
 msgid "_Quit"
-msgstr "ཕྱིར་ཐོན།(_Q)"
+msgstr "ཕྱིར་འབུད། (_Q)"
 
 msgid "_Redo"
-msgstr "བསྐྱར་ལས།(_R)"
+msgstr "བསྐྱར་བཟོ།(_R)"
 
 msgid "_Refresh"
-msgstr "གསར་སྒྱུར།(_R)"
+msgstr "གསར་འདོན།(_R)"
 
 msgid "_Remove"
-msgstr "སྤོ་བ།(_R)"
+msgstr "སྤོ་བ།（R)"
 
 msgid "_Revert"
-msgstr "བརྟན་ནས་མ་མངོན།"
+msgstr "བརྟན་དུ་མི་མངོན།"
 
 msgid "_Right"
 msgstr "གཡས། (_R)"
@@ -2314,7 +2314,7 @@ msgid "_Spell Check"
 msgstr ""
 
 msgid "_Stop"
-msgstr "མཚམས་འཇོག(_S)"
+msgstr "མཚམས་འཇོག (_S)"
 
 msgid "_Strikethrough"
 msgstr ""
@@ -2326,7 +2326,7 @@ msgid "_Underline"
 msgstr ""
 
 msgid "_Undo"
-msgstr "ཕྱིར་འཐེན།(_U)"
+msgstr "འདོར་བ།(_U)"
 
 msgid "_Yes"
 msgstr ""
@@ -2353,7 +2353,7 @@ msgid "_Record"
 msgstr ""
 
 msgid "_Stop"
-msgstr "མཚམས་འཇོག(_S)"
+msgstr "མཚམས་འཇོག (_S)"
 
 msgid "_Back"
 msgstr "ཕྱིར་ནུར།(_B)"
@@ -2362,7 +2362,7 @@ msgid "_Bottom"
 msgstr ""
 
 msgid "_Down"
-msgstr "ཐུར་དུ་(_D)"
+msgstr "ཐུར་དུ(_D)"
 
 msgid "_First"
 msgstr ""
@@ -2377,7 +2377,7 @@ msgid "_Top"
 msgstr ""
 
 msgid "_Up"
-msgstr "གོང་ཕྱོགས(_U)"
+msgstr "གྱེན་དུ།(_U)"
 
 msgid "Style Classes"
 msgstr ""
@@ -2570,13 +2570,13 @@ msgid "Two Sided"
 msgstr ""
 
 msgid "Type"
-msgstr "རིགས་གྲས་"
+msgstr " རིགས་རྣམ།"
 
 msgid "Type name of new folder"
 msgstr ""
 
 msgid "Type:"
-msgstr "རིགས་གྲས།"
+msgstr "རིགས་གྲས།:"
 
 msgid "Unable to access location"
 msgstr ""
@@ -2618,7 +2618,7 @@ msgid "Unable to unmount “%s”"
 msgstr ""
 
 msgid "Unavailable"
-msgstr "སྤྱོད་མི་རུང་བ།"
+msgstr " སྤྱོད་མི་རུང་བ།"
 
 msgid "Unclassified"
 msgstr "རིགས་བཀལ་མེད།"
@@ -2633,7 +2633,7 @@ msgid "Unexpected start tag '%s' on line %d char %d"
 msgstr ""
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Unknown Application (PID %d)"
 msgstr ""
@@ -2648,7 +2648,7 @@ msgid "Unlock"
 msgstr "སྒྲོག་འགྲོལ།"
 
 msgid "Unmount"
-msgstr "བཤིག་འདོར།"
+msgstr "བཤིག་དོར།"
 
 msgid "Unnamed section"
 msgstr ""
@@ -2681,16 +2681,16 @@ msgid ""
 msgstr ""
 
 msgid "Username:"
-msgstr "སྤྱོད་མཁན་གྱི་མིང་"
+msgstr "སྤྱོད་མཁན་མིང་།:"
 
 msgid "Validate existing icon cache"
 msgstr ""
 
 msgid "Value"
-msgstr ""
+msgstr "ཐང་།"
 
 msgid "Vertical"
-msgstr "གཞུང་དྲང་།"
+msgstr "དྲང་འཕྱངས།"
 
 msgid "Visual"
 msgstr "མཐོང་རུང་ཅན་དུ་སྒྱུར།"
@@ -2705,7 +2705,7 @@ msgid "Volume Up"
 msgstr "སྒྲ་ཚད་མཐོན་པོར་གཏོང་།"
 
 msgid "Warning"
-msgstr "ཐ་ཚིག "
+msgstr " ཐ་ཚིག"
 
 msgid "Website"
 msgstr "དྲ་ཚིགས།"
@@ -2717,7 +2717,7 @@ msgid "Window scaling"
 msgstr ""
 
 msgid "X display to use"
-msgstr "བེད་སྤྱོད་གཏོང་བྱའི་Xའཆར་བ།"
+msgstr "བེད་སྤྱོད་གཏོང་བྱའི་Xམངོན་འཆར།"
 
 msgid "XSettings"
 msgstr ""
@@ -2778,7 +2778,7 @@ msgid "_Anonymous"
 msgstr ""
 
 msgid "_Apply"
-msgstr "ཉེར་སྤྱོད། (_A)"
+msgstr "ཉེར་སྤྱོད།(_A)"
 
 msgid "_Back"
 msgstr "ཕྱིར་ནུར།(_B)"
@@ -2790,25 +2790,25 @@ msgid "_Blue:"
 msgstr "སྔོན་པོ། (_B)："
 
 msgid "_Bottom:"
-msgstr "གཤམ་དུ(_B)："
+msgstr "འོག (_B)："
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Clear List"
 msgstr ""
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Connect"
-msgstr "འབྲེལ་མཐུད།(_C)"
+msgstr "སྦྲེལ་མཐུད།(_C)"
 
 msgid "_Connect Drive"
 msgstr "འབྲེལ་མཐུད་སྐུལ་ཆས།(_C)"
 
 msgid "_Copy"
-msgstr "འདྲ་བཟོ།(_C)"
+msgstr "འདྲ་པར།(_C)"
 
 msgid "_Copy Location"
 msgstr ""
@@ -2817,7 +2817,7 @@ msgid "_Create"
 msgstr "གསར་བཟོ། (_C)"
 
 msgid "_Delete"
-msgstr "འདོར་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "_Detect Media"
 msgstr "སྨྱན་གཟུགས་འདོར་བ།(_D)"
@@ -2829,10 +2829,10 @@ msgid "_Disconnect Drive"
 msgstr "སྐུལ་ཆས་གཅོད་པ།(_D)"
 
 msgid "_Domain"
-msgstr "ཁོངས།(_D)"
+msgstr "ཁུལ་ཁོངས། (_D)"
 
 msgid "_Eject"
-msgstr "འཕར་ཐོན།(_E)"
+msgstr "ཕྱིར་འཕར། (_E)"
 
 msgid "_End Process"
 msgstr "འཕེལ་རིམ་མཇུག་བསྒྲིལ།(_E)"
@@ -2847,7 +2847,7 @@ msgid "_Finish"
 msgstr ""
 
 msgid "_Format for:"
-msgstr "རྣམ་གཞག (_F)："
+msgstr "རྣམ་པ།(_F)："
 
 msgid "_Green:"
 msgstr "ལྗང་ཁུ། (_G)："
@@ -2856,13 +2856,13 @@ msgid "_Height:"
 msgstr "མཐོ་ཚད།(_H)："
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Hue:"
-msgstr "ཚོས་གཞི། (_H)："
+msgstr "ཚོན་མདངས། (_H)："
 
 msgid "_Left:"
-msgstr "གཡོན།(_L)："
+msgstr "གཡོན། (_L)："
 
 msgid "_License"
 msgstr "ཆོག་མཆན་གྲོས་མཐུན།(_L)"
@@ -2892,16 +2892,16 @@ msgid "_Now"
 msgstr ""
 
 msgid "_OK"
-msgstr "འགྲིག་པ།(_O)"
+msgstr "གཏན་འཁེལ།"
 
 msgid "_Only print:"
 msgstr ""
 
 msgid "_Open"
-msgstr "ཁ་འབྱེད་། (_O)"
+msgstr "ཁ་འབྱེད།(O)"
 
 msgid "_Open Link"
-msgstr "སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
+msgstr " སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
 
 msgid "_Open With File Manager"
 msgstr ""
@@ -2919,7 +2919,7 @@ msgid "_Paper size:"
 msgstr ""
 
 msgid "_Password"
-msgstr "གསང་ཨང་།(_P)"
+msgstr "གསང་ཨང་། (_P)"
 
 msgid "_Paste"
 msgstr "སྦྱར་བ།(_P)"
@@ -2937,10 +2937,10 @@ msgid "_Red:"
 msgstr "དམར་པོ། (_R)："
 
 msgid "_Remember password"
-msgstr "གསང་ཨང་ཡིད་དུ་འཛིན།(_R)"
+msgstr " གསང་ཨང་བློར་ངེས།(_R)"
 
 msgid "_Remove"
-msgstr "སྤོ་བ།(_R)"
+msgstr "སྤོ་བ།（R)"
 
 msgid "_Remove From List"
 msgstr "རེའུ་མིག་ནང་ནས་བསུབ་པ།"
@@ -2949,13 +2949,13 @@ msgid "_Rename"
 msgstr "མིང་བསྐྱར་འདོགས།(_R)"
 
 msgid "_Replace"
-msgstr "ཚབ་བརྗེ།(_R)"
+msgstr " ཚབ་བརྗེ།(_R)"
 
 msgid "_Reverse"
 msgstr ""
 
 msgid "_Right:"
-msgstr "གཡས།(_R)："
+msgstr "གཡས། (_R)："
 
 msgid "_Safely Remove Drive"
 msgstr "བདེ་འཇགས་ཀྱིས་སྐུལ་ཆས་འདོར་བ།(_S)"
@@ -2967,7 +2967,7 @@ msgid "_Save color here"
 msgstr "འདིར་ཁ་དོག་ཉར་ཚགས་ཀྱིས།（_S）"
 
 msgid "_Select"
-msgstr "འདེམ་པ།(_S)"
+msgstr "འདེམ་པ། (_S)"
 
 msgid "_Start"
 msgstr "མགོ་རྩོམ།(_S)："
@@ -2976,7 +2976,7 @@ msgid "_Start Multi-disk Device"
 msgstr "སྡུད་སྡེར་མང་པོའི་སྒྲིག་ཆས་མགོ་སློང་།(_S)"
 
 msgid "_Stop"
-msgstr "མཚམས་འཇོག(_S)"
+msgstr "མཚམས་འཇོག (_S)"
 
 msgid "_Stop Multi-disk Device"
 msgstr "སྡུད་སྡེར་མང་པོ་སྒྲིག་ཆས་མཚམས་འཇོག(_S)"
@@ -2985,13 +2985,13 @@ msgid "_Style:"
 msgstr "བཟོ་ལྟ། (_S)："
 
 msgid "_Top:"
-msgstr "གོང་།(_T)："
+msgstr "སྟེང་། (_T)："
 
 msgid "_Unlock Device"
 msgstr ""
 
 msgid "_Unmount"
-msgstr "བཤིག་འདོར།(_U)"
+msgstr "ལེན་པ།(_U)"
 
 msgid "_Username"
 msgstr "སྤྱོད་མཁན་མིང་།(_U)"
@@ -3006,7 +3006,7 @@ msgid "_Visit File"
 msgstr ""
 
 msgid "_Width:"
-msgstr "ཞེང་ཚད།(_W)："
+msgstr "ཞེང་ཚད་(_W)："
 
 msgid "_Yes"
 msgstr ""
@@ -3069,7 +3069,7 @@ msgid "Multipress"
 msgstr ""
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Simple"
 msgstr "སྟབས་བདེ།"
@@ -3141,7 +3141,7 @@ msgid "AudioStop"
 msgstr ""
 
 msgid "Back"
-msgstr "ཕྱིར་འཐེན།"
+msgstr "ཕྱི་བཤོལ།"
 
 msgid "BackSpace"
 msgstr ""
@@ -3153,25 +3153,25 @@ msgid "Battery"
 msgstr "གློག་རྫས།"
 
 msgid "Begin"
-msgstr "འགོ་ཚུགས་པ།"
+msgstr "མགོ་རྩོམ།"
 
 msgid "Ctrl"
 msgstr "Coml"
 
 msgid "Delete"
-msgstr "འདོར་བ།"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
 
 msgid "Display"
-msgstr "མངོན་པ།"
+msgstr "འཆར་ཆས།"
 
 msgid "Down"
-msgstr "འོག"
+msgstr "ཞོལ།"
 
 msgid "End"
 msgstr ""
 
 msgid "Escape"
-msgstr "ཕྱིར་འདོན།"
+msgstr " ཕྱིར་འབུད།"
 
 msgid "Forward"
 msgstr "བརྒྱུད་སྐུར།"
@@ -3180,13 +3180,13 @@ msgid "Hibernate"
 msgstr "མལ་གསོ།"
 
 msgid "Home"
-msgstr "དཀར་ཆག་གཙོ་བོ།"
+msgstr "ཚོད་འཛིན་ངོས་པང་ཀྱི་གཙོ་ངོས།"
 
 msgid "Hyper"
 msgstr "Hyper"
 
 msgid "Insert"
-msgstr "བར་འཇུག་"
+msgstr "བར་འཇུག"
 
 msgid "KP_Begin"
 msgstr ""
@@ -3246,7 +3246,7 @@ msgid "Launch1"
 msgstr ""
 
 msgid "Left"
-msgstr "དུས་འཁོར་ལྡོག་ཕྱོགས།"
+msgstr "གཡོན།"
 
 msgid "Meta"
 msgstr "Meta"
@@ -3270,7 +3270,7 @@ msgid "Page_Up"
 msgstr ""
 
 msgid "Pause"
-msgstr "སྐབས་སྡོད།"
+msgstr " སྐབས་འཇོག"
 
 msgid "Print"
 msgstr "པར་འདེབས།"
@@ -3279,7 +3279,7 @@ msgid "Return"
 msgstr "འབེབས་པ།"
 
 msgid "Right"
-msgstr "གཡས་ཕྱོགས།"
+msgstr "གཡས།"
 
 msgid "ScreenSaver"
 msgstr ""
@@ -3291,13 +3291,13 @@ msgid "Shift"
 msgstr "Shift"
 
 msgid "Sleep"
-msgstr ""
+msgstr "མལ་གསོ།"
 
 msgid "Space"
 msgstr "བར་སྟོང་།"
 
 msgid "Super"
-msgstr "\"Super\""
+msgstr "Super"
 
 msgid "Suspend"
 msgstr "འགེལ་འཇོག"
@@ -3921,13 +3921,13 @@ msgid "you6 Envelope"
 msgstr ""
 
 msgid "paused"
-msgstr "སྐབས་བསྡད།"
+msgstr "སྐབས་འཇོག་བྱས་ཟིན།"
 
 msgid "Blocking on issue"
 msgstr ""
 
 msgid "Finished"
-msgstr "ལེགས་འགྲུབ་པ།"
+msgstr "ལེགས་གྲུབ།"
 
 msgid "Finished with error"
 msgstr ""
@@ -3948,7 +3948,7 @@ msgid "Sending data"
 msgstr ""
 
 msgid "Waiting"
-msgstr "སྒུག་པ།"
+msgstr "སྒུག་བཞིན་པ།"
 
 msgid "printer offline"
 msgstr ""
@@ -3981,10 +3981,10 @@ msgid "Short Edge (Flip)"
 msgstr "ཐུང་མཐའ།（ཕྱིར་སྐོར།）"
 
 msgid "OFF"
-msgstr "ཁ་རྒྱག"
+msgstr "ཁ་རྒྱག་པ།"
 
 msgid "ON"
-msgstr "ཁ་འབྱེད།ཁ་ཕྱེ་བ།"
+msgstr "ཁ་ཕྱེ་བ།"
 
 msgid "test-output.%s"
 msgstr ""
@@ -3993,10 +3993,10 @@ msgid "Spinner"
 msgstr ""
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"
 
 msgid "%d %%"
 msgstr ""

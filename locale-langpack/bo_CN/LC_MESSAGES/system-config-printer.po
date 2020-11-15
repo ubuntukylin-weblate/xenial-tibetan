@@ -191,7 +191,7 @@ msgid "<span weight=\"bold\" size=\"larger\">Choose Class Members</span>"
 msgstr ""
 
 msgid "<span weight=\"bold\" size=\"larger\">Choose Driver</span>"
-msgstr ""
+msgstr "<span weight=\"bold\" size=\"larger\">སྐུལ་སློང་བྱ་རིམ་འདེམ་པ།</span>"
 
 msgid "<span weight=\"bold\" size=\"larger\">Connecting to CUPS server</span>"
 msgstr ""
@@ -200,13 +200,13 @@ msgid "<span weight=\"bold\" size=\"larger\">Describe Printer</span>"
 msgstr ""
 
 msgid "<span weight=\"bold\" size=\"larger\">Existing Settings</span>"
-msgstr ""
+msgstr "<span weight=\"bold\" size=\"larger\">ད་ཡོད་སྒྲིག་འགོད།</span>"
 
 msgid "<span weight=\"bold\" size=\"larger\">Installable Options</span>"
-msgstr ""
+msgstr "<span weight=\"bold\" size=\"larger\">སྒྲིག་འཇུག་བྱས་རུང་པའི་འདེམས་ཚན།</span>"
 
 msgid "<span weight=\"bold\" size=\"larger\">Select Device</span>"
-msgstr ""
+msgstr "<span weight=\"bold\" size=\"larger\">སྒྲིག་ཆས་འདེམ་པ།</span>"
 
 msgid "A CUPS configuration tool."
 msgstr "CUPS པར་འཁོར་སྡེབ་སྒྲིག་ལག་ཆ།"
@@ -227,7 +227,7 @@ msgid "Abort job"
 msgstr "ལས་འགན་མཚམས་འཇོག་པ།"
 
 msgid "Aborted"
-msgstr "མཚམས་བཞག་པ།"
+msgstr "མཚམས་བཞག་ཟིན།"
 
 msgid "About"
 msgstr "འབྲེལ་ཡོད།"
@@ -239,7 +239,7 @@ msgid "Access Control"
 msgstr "འཚམས་འདྲི་ཚོད་འཛིན།"
 
 msgid "Add"
-msgstr "གསར་བཟོ།"
+msgstr "རྩིག་ཤོག་ཁ་སྣོན།"
 
 msgid "Add or Remove Members"
 msgstr "ཁོངས་མིའི་ཁ་སྣོན་དང་ཡང་ན་བསུབ་པ།"
@@ -293,7 +293,7 @@ msgid "Authenticated"
 msgstr "ར་སྤྲོད་བྱས་ཟིན།"
 
 msgid "Authentication"
-msgstr "ཐོབ་ཐང་ཞིབ་བཤེར།"
+msgstr "གསལ་འབྱེད་ར་སྤྲོད།"
 
 msgid "Authentication (%s)"
 msgstr "ཐོབ་ཐང་ར་སྤྲོད། (%s)"
@@ -332,7 +332,7 @@ msgid "Bind (top)"
 msgstr "དེབ་སྦྱོར།（སྟེང་།）"
 
 msgid "Bluetooth"
-msgstr "སོ་སྔོན།"
+msgstr "སོ་སྔོན་པོ།"
 
 msgid "Booklet maker"
 msgstr "དཀར་ཆག་འགྲུབ་ཆས།"
@@ -350,7 +350,7 @@ msgid "Brightness:"
 msgstr "གསལ་ཚད།："
 
 msgid "Browse..."
-msgstr "རགས་ལྟ།"
+msgstr "རགས་ལྟ།..."
 
 msgid "Busy"
 msgstr "བྲེལ་བ།"
@@ -392,7 +392,7 @@ msgid "Cancel selected jobs"
 msgstr "ལས་འགན་འདེམ་པ་དོར་བ།"
 
 msgid "Canceled"
-msgstr "ལེན་པ།མེད་པར་བཟོ་བ།"
+msgstr " དོར་བ།"
 
 msgid "Cannot Rename"
 msgstr "མིང་ཡང་བསྐྱར་འདོགས་མི་ཐུབ།"
@@ -431,7 +431,7 @@ msgid "Choose a different CUPS server"
 msgstr "CUPS ཞབས་ཞུ་ཆས་གཞན་ཞིག་འདེམ་པ།"
 
 msgid "Class"
-msgstr "རིགས་གྲས།"
+msgstr "རིགས་ཁག"
 
 msgid "Class Members"
 msgstr "ཁོངས་མིའི་རིགས།"
@@ -464,7 +464,7 @@ msgid "Comments..."
 msgstr "མཆན་འགྲེལ།…"
 
 msgid "Completed"
-msgstr "ལེགས་འགྲུབ་བྱུང་བ།"
+msgstr "ལེགས་འགྲུབ་བྱུང་ཟིན།"
 
 msgid "Completed jobs will no longer be available for re-printing."
 msgstr "ལེགས་འགྲུབ་བྱུང་ཟིན་པའི་ལས་ཀ་ཡང་བསྐྱར་མར་མི་འདེབས།"
@@ -473,7 +473,7 @@ msgid "Confidential"
 msgstr "གསང་བ།"
 
 msgid "Configure"
-msgstr "སྒྲིག་འགོད།"
+msgstr " སྒྲིག་འགོད།"
 
 msgid "Configure printer queues"
 msgstr "པར་འཁོར་རུ་ཁག་སྡེབ་སྒྲིག"
@@ -497,7 +497,7 @@ msgid "Connected to %s"
 msgstr " %sལ་འབྲེལ་ཟིན།"
 
 msgid "Connecting to CUPS server"
-msgstr "CUPS ཞབས་ཞུ་ཆས་འབྲེལ་མཐུད་བྱེད་བཞིན་པ།"
+msgstr "འབྲེལ་མཐུད到 CUPS ཞབས་ཞུ་ཆས།"
 
 msgid "Connection"
 msgstr "འབྲེལ་མཐུད།"
@@ -521,7 +521,7 @@ msgid "Cover open"
 msgstr ""
 
 msgid "Custom"
-msgstr "མཚན་ཉིད་རང་བཞག"
+msgstr "མཚན་ཉིད་རང་འཇོག"
 
 msgid "DTR/DSR (Hardware)"
 msgstr "\"DTR/DSR（སྲ་ཆས）\""
@@ -530,7 +530,7 @@ msgid "Data Bits"
 msgstr "གཞི་གྲངས་པི་ཐེ།"
 
 msgid "Database error"
-msgstr "གཞི་གྲངས་མཛོད་ཀྱི་ནོར་འཁྲུལ།"
+msgstr "གཞི་གྲངས་མཛོད་ནོར་འཁྲུལ།"
 
 msgid "Daytime"
 msgstr "ཉིན་མོ།"
@@ -563,7 +563,7 @@ msgid "Deny printing for everyone except these users:"
 msgstr "སྤྱོད་འདི་དག་ཕུད་པའི་སྤྱོད་མཁན་པར་འདེབས་ཚང་མ་དང་ལེན་མི་བྱེད་པ།："
 
 msgid "Description"
-msgstr "ཞིབ་བརྗོད།"
+msgstr " ཞིབ་བརྗོད།"
 
 msgid "Description:"
 msgstr ""
@@ -615,7 +615,7 @@ msgstr ""
 "ཁྱེད་ཀྱིས་པར་འཁོར་འདི་རྒྱུད་ཁོངས་ཁྱབ་ཁོངས་ནང་གི་སོར་བཞག་པར་འཁོར་ཏུ་སྒྲིག་འགོད་བྱེད་འདོད་དམ།"
 
 msgid "Document"
-msgstr "ཡིག་ཚགས།"
+msgstr " ཡིག་ཚགས།"
 
 msgid "Document Print Status (%s)"
 msgstr "ཡིག་ཚགས་པར་འདེབས་རྣམ་པ། (%s)"
@@ -645,7 +645,7 @@ msgid "Downloadable drivers"
 msgstr "ཕབ་ལེན་བྱས་ཆོག་པའི་སྐུལ་སློང་བྱ་རིམ།"
 
 msgid "Draft"
-msgstr "མ་ཟིན།"
+msgstr "རགས་བྲིས།"
 
 msgid "Draft (auto-detect-paper type)"
 msgstr "རགས་བྲིས།  (རང་འགུལ་གྱིས་ཤོག་བུའི་རིགས་རྣམ་བརྟག་བཤེར་བྱེད་པ།)"
@@ -681,7 +681,7 @@ msgid "Edge stitch (top)"
 msgstr "མཐའ་ཐིག（སྟེང་།）"
 
 msgid "Empty"
-msgstr "སྟོང་བ།"
+msgstr "སྟོང་པ།"
 
 msgid "Enable Debugging"
 msgstr "སྤྱོད་འགོ་རྩོམ་པ་ཚོད་སྒྲིག"
@@ -692,7 +692,7 @@ msgid ""
 msgstr ""
 
 msgid "Enabled"
-msgstr "སྤྱད་པ།"
+msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "Ending Banner:"
 msgstr "ཁ་བྱང་མཇུག་བསྒྲིལ་བ།："
@@ -707,7 +707,7 @@ msgid "Envelope feeder"
 msgstr "ཡིག་སྐོགས་ཤོག་བུ་སྟེགས།"
 
 msgid "Error"
-msgstr "ནོར་འཁྲུལ།"
+msgstr " ནོར་འཁྲུལ།"
 
 msgid "Error Policy:"
 msgstr "ནོར་འཁྲུལ་ཐབས་ཇུས།："
@@ -741,7 +741,7 @@ msgid "Fax"
 msgstr "བརྙན་སྐྱེལ།"
 
 msgid "Find"
-msgstr "འཚོལ་བ།"
+msgstr "འཚོལ་ཞིབ།"
 
 msgid "Find Network Printer"
 msgstr "དྲ་རྒྱའི་པར་འཁོར་འཚོལ་ཞིབ་བྱེད་པ།"
@@ -784,7 +784,7 @@ msgid "Gathering information"
 msgstr "ཆ་འཕྲིན་འཚོལ་བསྡུ།"
 
 msgid "General"
-msgstr "རྒྱུན་སྲོལ།"
+msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Graphics:"
 msgstr "རིས་དབྱིབས།："
@@ -880,7 +880,7 @@ msgid "Indefinite"
 msgstr "གཏན་འཁེལ་བྱས་མེད་པ།"
 
 msgid "Information"
-msgstr "གསལ་བརྡ།"
+msgstr " ཆ་འཕྲིན།"
 
 msgid "Ink empty"
 msgstr "སྣག་སྒམ་སྟོང་པ།"
@@ -956,7 +956,7 @@ msgid "LPD"
 msgstr ""
 
 msgid "LPD/LPR Host or Printer"
-msgstr "LPD/LPR གཙོ་འཁོརཡང་ན་པར་འཁོར།"
+msgstr "LPD/LPR གཙོ་འཁོར་རམ་པར་འཁོར།"
 
 msgid "LPD/LPR queue"
 msgstr ""
@@ -1001,10 +1001,10 @@ msgid "Locally connected printer"
 msgstr "རང་སའི་འབྲེལ་མཐུད་ཀྱི་པར་འཁོར།"
 
 msgid "Location"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "Location:"
-msgstr "གནས་ས་"
+msgstr "གནས་ས།:"
 
 msgid "Long edge (standard)"
 msgstr "མཐའ་རིང་། (ཚད་ལྡན།)"
@@ -1028,7 +1028,7 @@ msgid "Manual feeder"
 msgstr "ལག་སྒུལ་ཤོག་གསོ་ཆས།"
 
 msgid "Manufacturer"
-msgstr "བཟོ་སྐྲུན་མཁན།"
+msgstr "བཟོ་སྐྲུན་པ།"
 
 msgid "Manufacturer / Model"
 msgstr "བཟོ་སྐྲུན་པ། / ཁྱད་རྟགས།"
@@ -1064,19 +1064,19 @@ msgid "Missing printer driver"
 msgstr ""
 
 msgid "Models"
-msgstr "བཟོ་དབྱིབས།"
+msgstr "ཁྱད་རྟགས།"
 
 msgid "More"
-msgstr "དེ་ལས་མང་།"
+msgstr "དེ་ལས་མང་བ།"
 
 msgid "Multi-purpose tray"
 msgstr "ནུས་མང་ཤུར་བུ།"
 
 msgid "Name"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "Network"
-msgstr "དྲ་བ།"
+msgstr "དྲ་རྒྱ།"
 
 msgid "Network Printer"
 msgstr "དྲ་རྒྱའི་པར་འཁོར།"
@@ -1144,10 +1144,10 @@ msgid "No, I do not accept this license"
 msgstr "མིན། ངས་ཆོག་འཐུས་ལག་ཁྱེར་འདི་དང་ལེན་བྱེད་ཀྱི་མིན།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Normal"
-msgstr "སྤྱིར་བཏང་།"
+msgstr "དཀྱུས་མ།"
 
 msgid "Normal (auto-detect-paper type)"
 msgstr "སྤྱི་སྤྱོད། (རང་འགུལ་གྱིས་ཤོག་བུའི་རིགས་རྣམ་བརྟག་བཤེར་བྱེད་པ།)"
@@ -1188,7 +1188,7 @@ msgid "Odd"
 msgstr "ཡ་གྲངས།"
 
 msgid "Off"
-msgstr "ཁ་རྒྱག"
+msgstr "ཁ་རྒྱག་པ།"
 
 msgid "One-sided"
 msgstr "རྐྱང་ངོས།"
@@ -1200,7 +1200,7 @@ msgid "Operation Policy:"
 msgstr "བཀོལ་སྤྱོད་ཐབས་ཇུས།："
 
 msgid "Operation canceled"
-msgstr "བཀོལ་སྤྱོད་དོར་བ།"
+msgstr "བཀོལ་སྤྱོད་དོར་ཟིན།"
 
 msgid "Option '%s' has value '%s' and cannot be edited."
 msgstr "འདེམས་ཚན '%s' ཡི་ཐང་ནི '%s' ཡིན་མ་ཟད་བཟོ་བཅོས་བྱས་མི་ཆོག"
@@ -1355,7 +1355,7 @@ msgid "Print Share Verified"
 msgstr "མཉམ་སྤྱོད་གཏན་འཁེལ་པར་འདེབས།"
 
 msgid "Print Test Page"
-msgstr "ཚོད་ལྟ་ངོས་པར་འདེབས།"
+msgstr "ཚོད་ལྟའི་ཤོག་ངོས་པར་བཏབ།"
 
 msgid "Print job page size:"
 msgstr "ལས་འགན་ཤོག་ངོས་ཆེ་ཆུང་པར་བཏབ།："
@@ -1470,7 +1470,7 @@ msgstr ""
 "རྩིས་འཁོར་རུ་ཞབས་ཞུ་འདི་འགོ་སློང་བའམ་ཞབས་ཞུ་ཆས་གཞན་ཞིག་ལ་འབྲེལ་མཐུད་བྱེད་དགོས།"
 
 msgid "Printing troubleshooter"
-msgstr "སྐྱོན་སེལ་པར་འདེབས།"
+msgstr "དཔར་སྐྱོན་སེལ་བ།"
 
 msgid "Printout mode"
 msgstr "ཕྱིར་འདྲེན་རྣམ་པ་པར་འདེབས།"
@@ -1554,7 +1554,7 @@ msgid "Remote CUPS printer via DNS-SD"
 msgstr "DNS-SD འབྲེལ་མཐུད་རྒྱུད་པའི་རྒྱང་རིང་ CUPS པར་འཁོར།"
 
 msgid "Remove"
-msgstr "སྤོ་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "Renaming will lose history"
 msgstr "བསྐྱར་དུ་མིང་བཏགས་ན་ཟིན་ཐོ་ཚང་མ་བརླག་རྒྱུ་རེད།"
@@ -1569,7 +1569,7 @@ msgid "Require _encryption"
 msgstr "གསང་སྡོམ་བྱེད་དགོས།(_E)"
 
 msgid "Reset"
-msgstr "བསྐྱར་འཇོག"
+msgstr "བསྐྱར་སྒྲིག"
 
 msgid "Resolution, quality, ink type, media type"
 msgstr "འབྱེད་ཕྱོད།  སྤུས་ཚད། སྣག་ཚའི་རིགས་རྣམ། བར་རྫས་རིགས་རྣམ།"
@@ -1581,7 +1581,7 @@ msgid "Retrieve selected jobs"
 msgstr "འདེམ་པའི་ལས་འགན་བཤེར་འཚོལ།"
 
 msgid "Retry"
-msgstr "བསྐྱར་ཚོད།"
+msgstr "ཡང་བསྐྱར་ཚོད་ལེན།"
 
 msgid "Retry current job"
 msgstr "མིག་སྔའི་ལས་འགན་ཡང་བསྐྱར་ཚོད་ལེན།"
@@ -1623,7 +1623,7 @@ msgid "Saturation:"
 msgstr "ཚད་ལོངས་ཚད།："
 
 msgid "Save File"
-msgstr "ཡིག་ཆ་ཉར་བ།"
+msgstr "ཡིག་ཆ་ཉར་ཚགས།"
 
 msgid "Save _debugging information for troubleshooting"
 msgstr "ཆག་སྐྱོན་སེལ་ཆེད་ནོར་འཁྲུལ་བྱུང་བའི་ཆ་འཕྲིན་སོར་འཇོག་བྱེད་པ།(_D)"
@@ -1638,13 +1638,13 @@ msgid "Scanning..."
 msgstr "ད་ལྟ་བཤར་འབེབས་བྱེད་བཞིན་པ།"
 
 msgid "Search"
-msgstr "འཚོལ་བ།"
+msgstr "བཤེར་འཚོལ།"
 
 msgid "Search for a printer driver to download"
 msgstr "ཕབ་ལེན་བྱེད་དགོས་པའི་པར་འཁོར་སྐུལ་སློང་བྱ་རིམ་བཤེར་འཚོལ་བྱེད་པ།"
 
 msgid "Searching"
-msgstr "འཚོལ་བཤེར་པ།"
+msgstr "བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
 
 msgid "Searching for drivers"
 msgstr "སྐུལ་སློང་བྱ་རིམ་བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
@@ -1707,13 +1707,13 @@ msgid "Set authentication details now"
 msgstr "ད་ལྟ་ར་སྤྲོད་ཞིབ་ཆ་སྒྲིག་བཀོད།"
 
 msgid "Settings"
-msgstr "སྒྲིག་འགོད།"
+msgstr " སྒྲིག་འགོད།"
 
 msgid "Share"
-msgstr "མཉམ་སྤྱོད།"
+msgstr " མཉམ་སྤྱོད།"
 
 msgid "Shared"
-msgstr "མཉམ་སྤྱོད་བྱས་ཟིན་པ།"
+msgstr " མཉམ་སྤྱོད།"
 
 msgid ""
 "Shared printers are not available to other people unless the 'Publish shared"
@@ -1725,7 +1725,7 @@ msgid "Short edge (flip)"
 msgstr "ཐུང་མཐའ། (སློག་པ།)"
 
 msgid "Short name for this printer such as \"laserjet\""
-msgstr ""
+msgstr "པར་འཁོར་བསྡུས་མིང་ལ་དཔེར་ན“laserjet”"
 
 msgid "Show _completed jobs"
 msgstr "ལེགས་འགྲུབ་བྱུང་ཟིན་པའི་ལས་འགན་མངོན་པ།(_C)"
@@ -1785,7 +1785,7 @@ msgid "Starting Banner:"
 msgstr "འགོ་སློང་ཁ་བྱང་།："
 
 msgid "Status"
-msgstr "རྣམ་པ།"
+msgstr " རྣམ་པ།"
 
 msgid "Status Messages"
 msgstr "རྣམ་པའི་ཆ་འཕྲིན།"
@@ -1794,7 +1794,7 @@ msgid "Stop printer"
 msgstr "པར་འཁོར་མཚམས་འཇོག"
 
 msgid "Stopped"
-msgstr "མཚམས་བཞག"
+msgstr "མཚམས་བཞག་ཟིན།"
 
 msgid "Submitted"
 msgstr "གོང་སྤྲོད་བྱས་ཟིན་པ།"
@@ -2100,7 +2100,7 @@ msgid "Unclassified"
 msgstr "རིགས་བཀལ་མེད།"
 
 msgid "Unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
 
 msgid "Upgrade required"
 msgstr "རིམ་པ་སྤོར་དགོས།"
@@ -2112,13 +2112,13 @@ msgid "Use the new PPD (Postscript Printer Description) as is."
 msgstr "PPD གསར་བ་སྤྱོད་པ། (Postscript པར་འཁོར་ཞིབ་བརྗོད།）"
 
 msgid "User"
-msgstr "སྤྱོད་མཁན་ID"
+msgstr "སྤྱོད་མཁན་གྱིID"
 
 msgid "Username:"
-msgstr "སྤྱོད་མཁན་གྱི་མིང་"
+msgstr "སྤྱོད་མཁན་མིང་།:"
 
 msgid "Users"
-msgstr "སྤྱོད་མཁན་གྱི ID"
+msgstr "སྤྱོད་མཁན ID"
 
 msgid ""
 "Usually print servers broadcast their queues. Specify print servers below to"
@@ -2127,7 +2127,7 @@ msgstr ""
 "རྒྱུན་ལྡན་དུ་པར་འཁོར་ཞབས་ཞུ་ཆས་ཀྱིས་དེའི་རུ་སྟར་ཁྱབ་བསྒྲགས་བྱེད་ལ་གཤམ་གྱི་པར་འཁོར་ཞབས་ཞུ་ཆས་དུས་ལྟར་རུ་སྟར་ལ་འདྲི་རྩད་བྱེད་པར་དམིགས་འཛུགས་བྱེད།"
 
 msgid "Value"
-msgstr ""
+msgstr "ཐང་།"
 
 msgid "View Print _Queue"
 msgstr "པར་འཁོར་རུ་སྟར་ལྟ་ཞིབ། (_Q)"
@@ -2185,7 +2185,7 @@ msgid "_Back"
 msgstr "ཕྱིར་ནུར།(_B)"
 
 msgid "_Cancel"
-msgstr "ལེན་པ། (_C)"
+msgstr " དོར་བ།"
 
 msgid "_Class"
 msgstr "རིགས་དབྱེ།(_C)"
@@ -2206,7 +2206,7 @@ msgid "_Create class"
 msgstr "རིགས་དབྱེ་གསར་འཛུགས།(_C)"
 
 msgid "_Delete"
-msgstr "འདོར་བ།"
+msgstr "བསུབ་པ།"
 
 msgid "_Diagnose"
 msgstr "བརྟག་དཔྱད།(_D)"
@@ -2215,7 +2215,7 @@ msgid "_Discovered Printers"
 msgstr "རྙེད་ཟིན་པའི་པར་འཁོར།(_D)"
 
 msgid "_Duplicate"
-msgstr "འདྲ་ཕབ། (_D)"
+msgstr "འདྲ་ཕབ།(_D)"
 
 msgid "_Filter:"
 msgstr "འཚག་ཆས།(_F)："
@@ -2224,22 +2224,22 @@ msgid "_Forward"
 msgstr "མདུན་སྐྱོད།(_F)"
 
 msgid "_Help"
-msgstr "རོགས་རམ།(_H)"
+msgstr " རོགས་རམ།(_H)"
 
 msgid "_Hide"
-msgstr "སྦེད་པ།(_H)"
+msgstr "གབ་པ།(_H)"
 
 msgid "_Hold"
 msgstr "རྒྱུན་སྲུང་།(_H)"
 
 msgid "_Install"
-msgstr "སྒྲིག་འཇུག་(_I)"
+msgstr "སྒྲིག་འཇུག(_I)"
 
 msgid "_Move To"
 msgstr "སྤོར།(_M)"
 
 msgid "_New"
-msgstr "གསར་བཟོ།(_N)"
+msgstr "གསར་འཛུགས།(_N)"
 
 msgid "_OK"
 msgstr "འགྲིག་པ།(_O)"
@@ -2255,7 +2255,7 @@ msgid "_Quit"
 msgstr "ཕྱིར་ཐོན།(_Q)"
 
 msgid "_Refresh"
-msgstr "གསར་སྒྱུར།(_R)"
+msgstr "གསར་འདོན།(_R)"
 
 msgid "_Release"
 msgstr "གཏོང་བ།(_R)"
@@ -2264,10 +2264,10 @@ msgid "_Rename"
 msgstr "མིང་བསྐྱར་འདོགས།(_R)"
 
 msgid "_Search"
-msgstr "འཚོལ་བཤེར།(_S)"
+msgstr "བཤེར་འཚོལ།(_S)"
 
 msgid "_Server"
-msgstr "ཞབས་ཞུ་ཆས།(_S)"
+msgstr "ཞབས་ཞུ་ཆས(_S)"
 
 msgid "_Settings..."
 msgstr "སྒྲིག་འགོད(_S)…"
@@ -2285,7 +2285,7 @@ msgid "_Verify..."
 msgstr "ར་སྤྲོད་བྱེད་བཞིན་པ།(_V)…"
 
 msgid "_View"
-msgstr "ལྟ་ཞིབ།(_V)"
+msgstr "ལྟ་ཞིབ། (_V)"
 
 msgid "_View Attributes"
 msgstr "གཏོགས་གཤིས་ལྟ་ཞིབ།(_V)"
@@ -2324,13 +2324,13 @@ msgid "deleting printer %s"
 msgstr "པར་འཁོར་ %s བསུབ་བཞིན་པ།"
 
 msgid "disabled"
-msgstr "སྤྱོད་འགོག་ཟིན།"
+msgstr "འགོག་སྤྱོད་བྱས་ཟིན།"
 
 msgid "fetching PPD"
 msgstr "fetching PPD"
 
 msgid "fetching PPDs"
-msgstr "PPDལེན་བཞིན་ཡོད།"
+msgstr "fetching PPD"
 
 msgid "fetching device list"
 msgstr "སྒྲིག་ཆས་རེའུ་མིག་འཚོལ་ཞིབ་བྱེད་བཞིན་ཡོད།"
@@ -2345,7 +2345,7 @@ msgid "last week"
 msgstr "གཟའ་འཁོར་སྔོན་མ།"
 
 msgid "license"
-msgstr "ཆོག་མཆན་དཔང་ཡིག།"
+msgstr "ཆོག་འཐུས་ལག་ཁྱེར།"
 
 msgid "make and model"
 msgstr "བཟོ་སྐྲུན་པ་དང་ཁྱད་རྟགས།"
@@ -2360,10 +2360,10 @@ msgid "modifying server settings"
 msgstr "ཞབས་ཞུ་ཆས་སྒྲིག་འགོད་བཟོ་བཅོས་བྱེད་བཞིན་པ།"
 
 msgid "move left"
-msgstr ""
+msgstr "གཡོན་སྤོ།"
 
 msgid "move right"
-msgstr ""
+msgstr "གཡས་སྤོ།"
 
 msgid "my jobs"
 msgstr "ངའི་ལས་འགན།"
@@ -2421,3 +2421,24 @@ msgstr "སྤྱོད་མཁན།"
 
 msgid "yesterday"
 msgstr "ཁ་སང་།"
+
+msgid "Apply"
+msgstr " གཏན་འཁེལ།"
+
+msgid "Back"
+msgstr "ཕྱི་བཤོལ།"
+
+msgid "Cancel"
+msgstr " དོར་བ།"
+
+msgid "Delete"
+msgstr "སྤྱོད་མཁན་བསུབ་པ།"
+
+msgid "Forward"
+msgstr "བརྒྱུད་སྐུར།"
+
+msgid "OK"
+msgstr " གཏན་འཁེལ།"
+
+msgid "Quit"
+msgstr " ཕྱིར་འབུད།"

@@ -17,7 +17,7 @@ msgid " (invalid encoding)"
 msgstr ""
 
 msgid "%.1f GB"
-msgstr "%.1f GB"
+msgstr "\"%.1f GB\""
 
 msgid "%.1f MB"
 msgstr "%.1f MB"
@@ -29,7 +29,7 @@ msgid "%s"
 msgstr ""
 
 msgid "%s (%s)"
-msgstr "%s(%s)"
+msgstr "%s (%s)"
 
 msgid "%s (jailbreak)"
 msgstr ""
@@ -41,7 +41,7 @@ msgid "%s Camera"
 msgstr ""
 
 msgid "%s Drive"
-msgstr "%s སྒུལ་ཆས།"
+msgstr "%s སྐུལ་སློང་ཆས།"
 
 msgid "%s Encrypted"
 msgstr ""
@@ -158,7 +158,7 @@ msgid "Audio CD File System Service"
 msgstr ""
 
 msgid "Audio Disc"
-msgstr "སྒྲ་ཟློས CD"
+msgstr "སྒྲ་ཟློས་CD"
 
 msgid "Audio Player"
 msgstr ""
@@ -254,7 +254,7 @@ msgid "Blu-ray-RE"
 msgstr ""
 
 msgid "Burn"
-msgstr "གཏིང་ཟབ་ཏུ་གཏོང་བ།"
+msgstr "གཏིང་ཟབ།"
 
 msgid "CD-R"
 msgstr "འབྲི་རུང་འོད་སྡེར།"
@@ -366,7 +366,7 @@ msgid "Can't write to directory"
 msgstr ""
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr " དོར་བ།"
 
 msgid "Cancel Login"
 msgstr "ཐོ་འགོད་དོར་བ།"
@@ -447,7 +447,7 @@ msgid "Could not find enclosing mount"
 msgstr ""
 
 msgid "Could not parse response"
-msgstr ""
+msgstr "དང་ལེན་ཆ་འཕྲིན་ལ་ཞིབ་འགྲེལ་བྱེད་ཐབས་བྲལ།"
 
 msgid "Couldn't find matching udev device."
 msgstr ""
@@ -582,7 +582,7 @@ msgid "Empty response"
 msgstr ""
 
 msgid "Empty the trash"
-msgstr "ཕྱིར་བསྡུའི་ས་ཚིགས་གཙང་སེལ།"
+msgstr "སྙིགས་སྒམ་གཙང་སེལ།"
 
 msgid "Enable debug output."
 msgstr ""
@@ -778,10 +778,10 @@ msgid "Error writing file"
 msgstr ""
 
 msgid "Error: %s"
-msgstr "ནོར་འཁྲུལ། %s"
+msgstr "ནོར་འཁྲུལ།： %s"
 
 msgid "Error: %s\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།：%s\n"
 
 msgid "Etag not available\n"
 msgstr ""
@@ -825,13 +825,13 @@ msgid "Failed to set '%s' as the default handler for '%s': %s\n"
 msgstr ""
 
 msgid "Failure"
-msgstr "ཕམ་པ།"
+msgstr " ཕམ་པ།"
 
 msgid "File Sharing"
 msgstr ""
 
 msgid "File System"
-msgstr "ཡིག་ཆ་རྒྱུད་ཁོངས།"
+msgstr "ཡིག་ཆའི་རྒྱུད་ཁོངས།"
 
 msgid "File doesn't exist"
 msgstr ""
@@ -1001,7 +1001,7 @@ msgid "Invalid file info format"
 msgstr ""
 
 msgid "Invalid filename"
-msgstr "ཡིག་ཆའི་མིང་ནུས་མེད།"
+msgstr "ཡིག་ཆའི་མིང་ནུས་མེད་ཡིན།"
 
 msgid "Invalid filename %s"
 msgstr ""
@@ -1028,10 +1028,10 @@ msgid "Keep with file when moved"
 msgstr ""
 
 msgid "LOCATION"
-msgstr "གནས་ས།"
+msgstr "ས་གནས།"
 
 msgid "List"
-msgstr "རེའུ་མིག་རེའུ་མིག"
+msgstr "རེའུ་མིག"
 
 msgid "List contents of directories in a tree-like format."
 msgstr ""
@@ -1067,7 +1067,7 @@ msgid "Login dialog cancelled"
 msgstr ""
 
 msgid "MIMETYPE"
-msgstr ""
+msgstr "MIME རིགས་གྲས།"
 
 msgid "MO Disc"
 msgstr ""
@@ -1145,7 +1145,7 @@ msgid "Name already exists"
 msgstr "མིང་གནས་ཡོད་པ།"
 
 msgid "Network"
-msgstr "དྲ་བ།"
+msgstr "དྲ་རྒྱ།"
 
 msgid "Network Location Monitor"
 msgstr ""
@@ -1235,7 +1235,7 @@ msgid "Not enough space on volume"
 msgstr ""
 
 msgid "Not supported"
-msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པ།"
+msgstr "རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "Not supported (not same directory)"
 msgstr ""
@@ -1313,7 +1313,7 @@ msgid "Password required for share %s on %s"
 msgstr ""
 
 msgid "Permission denied"
-msgstr ""
+msgstr "ལྟ་སྤྱོད་ཟློག་པ།"
 
 msgid "Permission denied."
 msgstr ""
@@ -1384,7 +1384,7 @@ msgid "SD/MMC Drive"
 msgstr "SD/MMC སྒུལ་ཆས།"
 
 msgid "SOURCE"
-msgstr "ཁུངས།"
+msgstr "འབྱུང་ཁུངས།"
 
 msgid "Seek not supported on stream"
 msgstr ""
@@ -1408,7 +1408,7 @@ msgid "Show extra information"
 msgstr ""
 
 msgid "Show hidden files"
-msgstr "སྦེད་པའི་ཡིག་ཆ་མངོན་པ།"
+msgstr "སྦས་པའི་ཡིག་ཆ་མངོན་པ།"
 
 msgid "Show information about locations."
 msgstr ""
@@ -1449,7 +1449,7 @@ msgid "Symlinks not supported by backend"
 msgstr ""
 
 msgid "TYPE"
-msgstr "རིགས་གྲས།"
+msgstr " རིགས་རྣམ།"
 
 msgid "Tape Drive"
 msgstr ""
@@ -1601,7 +1601,7 @@ msgid "Timed out when logging in"
 msgstr ""
 
 msgid "Too many arguments\n"
-msgstr ""
+msgstr "ཞུགས་གྲངས་མང་དྲགས།\n"
 
 msgid "Too many authentication failures"
 msgstr ""
@@ -1720,10 +1720,10 @@ msgid "Unhandled libimobiledevice error (%d)"
 msgstr ""
 
 msgid "Unknown error."
-msgstr "མི་ཤེས་པའི་ནོར་འཁྲུལ། "
+msgstr " ངེས་མེད་ནོར་འཁྲུལ།"
 
 msgid "Unmount"
-msgstr "བཤིག་འདོར།"
+msgstr "བཤིག་དོར།"
 
 msgid "Unmount Anyway"
 msgstr ""
@@ -1764,7 +1764,7 @@ msgid "Use an anonymous user when authenticating"
 msgstr ""
 
 msgid "VALUE"
-msgstr "ཚད།"
+msgstr "ཐང་།"
 
 msgid "Value not specified\n"
 msgstr ""
@@ -1849,7 +1849,7 @@ msgid "cdda mount on %s"
 msgstr ""
 
 msgid "directory"
-msgstr "དཀར་ཆག"
+msgstr " དཀར་ཆག"
 
 msgid "display name: %s\n"
 msgstr ""
@@ -1903,7 +1903,7 @@ msgid "name: %s\n"
 msgstr ""
 
 msgid "regular"
-msgstr "རྒྱུན་དུ།"
+msgstr "རྒྱུན་སྲོལ།"
 
 msgid "shortcut"
 msgstr ""
@@ -1921,10 +1921,16 @@ msgid "type: %s\n"
 msgstr ""
 
 msgid "unknown"
-msgstr "མི་ཤེས།"
+msgstr "ངེས་མེད།"
 
 msgid "uri: %s\n"
 msgstr ""
 
 msgid "values must be string or list of strings"
 msgstr ""
+
+msgid "Desktop"
+msgstr " ཅོག་ངོས།"
+
+msgid "Favorite"
+msgstr "བསྡུ་ཉར་ཁུག་མ།"

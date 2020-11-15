@@ -74,7 +74,7 @@ msgid "Bottom Neighbor: %s\n"
 msgstr ""
 
 msgid "CLASS"
-msgstr ""
+msgstr "རིགས།"
 
 msgid ""
 "Cannot change the workspace layout on the screen: the layout is already "
@@ -143,7 +143,7 @@ msgid "Click to switch to \"%s\""
 msgstr ""
 
 msgid "Close the window"
-msgstr "སྒེའུ་ཁུང་སྒོ་རྒྱག་པ།"
+msgstr " སྒེའུ་ཁུང་ཁ་རྒྱག་པ།"
 
 msgid "Conflicting options are present: --%s and --%s\n"
 msgstr ""
@@ -304,22 +304,22 @@ msgid "Make the window visible on the current workspace only"
 msgstr ""
 
 msgid "Maximize horizontally the window"
-msgstr "སྒེའུ་ཁུང་ཆུ་སྙོམས་སུ་ཆེས་ཆེར་སྐྱེད།"
+msgstr "སྒེའུ་ཁུང་ཆུ་སྙོམས་ཆེས་ཆེར་བསྐྱེད།"
 
 msgid "Maximize the window"
 msgstr "སྒེའུ་ཁུང་ཆེས་ཆེར་སྐྱེད།"
 
 msgid "Maximize vertically the window"
-msgstr "སྒེའུ་ཁུང་དྲང་འཕྱང་དུ་ཆེས་ཆེར་སྐྱེད།"
+msgstr "སྒེའུ་ཁུང་དྲང་དཕྱང་ཆེས་ཆེར་བསྐྱེད།"
 
 msgid "Mi_nimize"
-msgstr "ཆེས་ཆུང་བསྡུ།"
+msgstr "ཆེས་ཆུང་སྒྱུར།"
 
 msgid "Mi_nimize All"
 msgstr ""
 
 msgid "Minimize the window"
-msgstr "སྒེའུ་ཁུང་ཆེས་ཆུང་བསྡུ།"
+msgstr "སྒེའུ་ཁུང་ཆུང་སྒྱུར།"
 
 msgid "Move the viewport of the current workspace to X coordinate X"
 msgstr ""
@@ -331,7 +331,7 @@ msgid "Move the window to workspace NUMBER (first workspace is 0)"
 msgstr ""
 
 msgid "Move to Another _Workspace"
-msgstr "ལས་ཁུལ་གཞན་དུ་སྤོར་སྒུལ།(_W)"
+msgstr "ལས་ཁུལ་གཞན་ཞིག་ཏུ་སྤོར་བ།(_W)"
 
 msgid "Move to Workspace R_ight"
 msgstr ""
@@ -346,7 +346,7 @@ msgid "Move to Workspace _Up"
 msgstr ""
 
 msgid "NAME"
-msgstr "མིང་།"
+msgstr " མིང་།"
 
 msgid "NUMBER"
 msgstr "ཤོག་ཨང།"
@@ -424,7 +424,7 @@ msgid "Session ID: %s\n"
 msgstr ""
 
 msgid "Shade the window"
-msgstr "སྒེའུ་ཁུང་ཡར་འདྲིལ།"
+msgstr "སྒེའུ་ཁུང་ཡར་འདྲིལ་བ།"
 
 msgid "Show options to list windows or workspaces"
 msgstr ""
@@ -439,7 +439,7 @@ msgid "Show options to modify properties of a workspace"
 msgstr ""
 
 msgid "Show the desktop"
-msgstr ""
+msgstr "ཅོག་ངོས་འཆར་བ།"
 
 msgid "Show workspace names instead of workspace contents"
 msgstr ""
@@ -463,7 +463,7 @@ msgid "Stop showing the desktop"
 msgstr ""
 
 msgid "TYPE"
-msgstr "རིགས་གྲས།"
+msgstr " རིགས་རྣམ།"
 
 msgid "Tool to switch between visible windows"
 msgstr ""
@@ -549,7 +549,7 @@ msgid "Window cannot be moved to workspace %d: the workspace does not exist\n"
 msgstr ""
 
 msgid "Workspace %d"
-msgstr "ལས་ཁུལ།%d"
+msgstr "ལས་ཁུལ། %d"
 
 msgid "Workspace %s%d"
 msgstr "ལས་ཁུལ།%s%d"
@@ -588,22 +588,22 @@ msgid "Y"
 msgstr "Y"
 
 msgid "_Always on Visible Workspace"
-msgstr "རྟག་ཏུ་མཐོང་ཐུབ་པའི་ལས་ཁུལ་དུ་ཡོད་པ།(_A)"
+msgstr "ནམ་ཞར་མཐོང་ཐུབ་པའི་ལས་ཁུལ་དུ་ཡོད་པ།(_A)"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག(_C)"
+msgstr "ཁ་རྒྱག (C)"
 
 msgid "_Close All"
 msgstr "ཚང་མ་ཁ་རྒྱག(_C)"
 
 msgid "_Move"
-msgstr "སྤོ་བ། (_M)"
+msgstr "སྤོ་བ།(_M)"
 
 msgid "_Only on This Workspace"
 msgstr ""
 
 msgid "_Resize"
-msgstr "ཆེ་ཆུང་སྒྱུར་བ།(_R)"
+msgstr "ཆེ་ཆུང་བསྒྱུར་བ།(_R)"
 
 msgid "_Unmaximize All"
 msgstr ""
@@ -624,10 +624,10 @@ msgid "change workspace"
 msgstr ""
 
 msgid "close"
-msgstr "ཁ་རྒྱག"
+msgstr "ཁ་རྒྱག་པ།"
 
 msgid "desktop"
-msgstr "ཅོག་ངོས།"
+msgstr " ཅོག་ངོས།"
 
 msgid "dialog window"
 msgstr ""
@@ -639,7 +639,7 @@ msgid "false"
 msgstr ""
 
 msgid "fullscreen"
-msgstr "བརྙན་ཡོལ་ཡོངས་རྫོགས།"
+msgstr "ཡོལ་ཡོངས།"
 
 msgid "make above"
 msgstr ""
@@ -714,7 +714,7 @@ msgid "splash screen"
 msgstr ""
 
 msgid "none"
-msgstr "མེད།"
+msgstr " མེད།"
 
 msgid "stick"
 msgstr ""
@@ -762,7 +762,7 @@ msgid "utility window"
 msgstr ""
 
 msgid "none"
-msgstr "མེད།"
+msgstr " མེད།"
 
 msgid "none"
-msgstr "མེད།"
+msgstr " མེད།"

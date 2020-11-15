@@ -74,19 +74,19 @@ msgid "%s plug-in needs an alpha channel"
 msgstr "བསྒར་ལྷུ %s ལ alpha རྒྱུ་ལམ་ཞིག་དགོས།"
 
 msgid "(Empty)"
-msgstr "(སྟོང་།)"
+msgstr "(སྟོང་པ།)"
 
 msgid "(invalid UTF-8 string)"
 msgstr "( ནུས་མེད་ཀྱི་ཡིག་རྟགས་ཕྲེང་བ UTF-8 )"
 
 msgid "Add Alpha Channel"
-msgstr "རྒྱུ་ལམ Alpha སྣོན་པ།"
+msgstr "རྒྱུ་ལམ Alpha སྣོན་པ། "
 
 msgid "Additional Information"
 msgstr "ཟུར་སྣོན་ཆ་འཕྲིན།"
 
 msgid "All files (*.*)"
-msgstr "ཡིག་ཆ་ཚང་མ།"
+msgstr "ཡིག་ཆ་ཚང་མ། (*.*)"
 
 msgid "Alpha"
 msgstr "Alpha"
@@ -95,10 +95,10 @@ msgid "Anchor"
 msgstr "གཏན་འཇགས།"
 
 msgid "Apply Layer Masks"
-msgstr "རིས་རིམ་སོག་ལེབ་བཀོལ་སྤྱོད་བྱེད་པ།"
+msgstr "རིས་རིམ་སོག་ལེབ་བཀོལ་སྤྱོད།"
 
 msgid "Author:"
-msgstr "རྩོམ་པ་པོ།"
+msgstr "རྩོམ་པ་པོ།："
 
 msgid "Blac_k"
 msgstr "ནག་པོ། (_K)"
@@ -211,7 +211,7 @@ msgid "Cannot expand ${%s}"
 msgstr "རྒྱ་སྐྱེད་བྱེད་མི་ཐུབ་པ ${%s}"
 
 msgid "Channel:"
-msgstr "རྒྱུ་ལམ།"
+msgstr "རྒྱུ་ལམ།："
 
 msgid "Check Size"
 msgstr "དྲ་མིག་ཆེ་ཆུང་།"
@@ -281,7 +281,7 @@ msgid "Convert to RGB"
 msgstr "RGB ལ་བརྗེ་བ།"
 
 msgid "Copyright:"
-msgstr "པར་དབང་།："
+msgstr "པར་དབང་།:"
 
 msgid "Could not create '%s': %s"
 msgstr "“%s”：%s བཟོ་མི་ཐུབ་པ།"
@@ -299,10 +299,10 @@ msgid "Cr_op"
 msgstr "དྲས་གཏུབ། (_O)"
 
 msgid "Current:"
-msgstr "མིག་སྔར།"
+msgstr "མིག་སྔ།:"
 
 msgid "Cyan"
-msgstr "སྔོ་ནག"
+msgstr "སྔོན་པོ།"
 
 msgid "Date:"
 msgstr ""
@@ -369,7 +369,7 @@ msgid "Failed to create thumbnail folder '%s'."
 msgstr "བསྡུས་རིས་ཀྱི་ཡིག་ཁུག “%s” བཟོ་ཐབས་བྲལ།"
 
 msgid "Flatten Image"
-msgstr "སྙོམས་པོའི་བརྙན་རིས།"
+msgstr "བརྙན་རིས་སྙོམས་པ།"
 
 msgid "Folder"
 msgstr "ཡིག་ཁུག"
@@ -421,7 +421,7 @@ msgid "Horiz. Wheel Turn Forward"
 msgstr "ཆུ་སྙོམས་འཁོར་ལོ་མདུན་དུ་འཁོར།"
 
 msgid "Hue"
-msgstr "ཚོན་མདོག"
+msgstr "ཚོས་གཞི།"
 
 msgid "ICC color profile (*.icc, *.icm)"
 msgstr "ICC ཚོན་མདོག་སྡེབ་སྒྲིག་ཡིག་ཆ། ( *.icc, *.icm )"
@@ -469,7 +469,7 @@ msgid "Magenta"
 msgstr ""
 
 msgid "Megabytes"
-msgstr "mb"
+msgstr "MB"
 
 msgid "Merge Visible Layers"
 msgstr "མཐོང་རུང་རིས་རིམ་མཉམ་སྒྲིལ།"
@@ -490,7 +490,7 @@ msgid "Monitor profile:"
 msgstr "འཆར་ཆས་སྡེབ་སྒྲིག་ཡིག་ཆ།："
 
 msgid "More..."
-msgstr "དེ་ལས་མང་བ།..."
+msgstr "དེ་བས་མང་བ།"
 
 msgid "No device configured"
 msgstr "སྒྲིག་ཆས་ལ་སྡེབ་སྒྲིག་བྱས་མེད་པ།"
@@ -502,7 +502,7 @@ msgid "No matches for your query"
 msgstr "ཁྱེད་ཀྱི་འདྲི་རྩད་ལ་ཟླ་སྒྲིག་ཚན་པ་མེད་པ།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Not loaded"
 msgstr "ཁུར་སྣོན་བྱས་མེད་པ།"
@@ -541,7 +541,7 @@ msgid "POV %d Y View"
 msgstr "POV %d Y མཐོང་རིས།"
 
 msgid "Page %d"
-msgstr "ཤོག་ངོས %d "
+msgstr "ཤོག་ཨང་། %d"
 
 msgid "Palette Selection"
 msgstr "ཚོན་གཞོང་འདེམ་པ།"
@@ -601,7 +601,7 @@ msgid "Search term invalid or incomplete"
 msgstr "བཤེར་འཚོལ་ཆ་རྐྱེན་ནུས་པ་མེད་པའམ་ཡང་ན་ཆ་ཚང་མིན་པ།"
 
 msgid "Searching"
-msgstr "འཚོལ་བཤེར་པ།"
+msgstr "བཤེར་འཚོལ་བྱེད་བཞིན་པ།"
 
 msgid "Searching by author"
 msgstr "རྩོམ་པ་པོར་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
@@ -619,7 +619,7 @@ msgid "Searching by help"
 msgstr "རོགས་རམ་ལ་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
 
 msgid "Searching by name"
-msgstr "མིང་ལ་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
+msgstr "མིང་ལྟར་བཤེར་འཚོལ།"
 
 msgid "Searching by type"
 msgstr "རིགས་གྲས་ལ་གཞིགས་ནས་བཤེར་འཚོལ་བྱེད་པ།"
@@ -629,7 +629,7 @@ msgstr ""
 "གྲུབ་པའི་སྐབས་བསྟུན་གྲངས་དེ་སྐབས་བསྟུན་གྲངས་སྐྱེད་སྒྲུབ་ཆས་ཀྱི་ས་བོན་ལ་རྩིས་བ།"
 
 msgid "Select File"
-msgstr "ཡིག་ཆ་འདེམ་པ།"
+msgstr " ཡིག་ཆ་འདེམ་པ།"
 
 msgid "Select Folder"
 msgstr "ཡིག་ཁུག་འདེམ་པ།"
@@ -725,9 +725,12 @@ msgid ""
 "Use this value for random number generator seed - this allows you to repeat "
 "a given \"random\" operation"
 msgstr ""
+"གྲངས་བྲིན་འདི་བེད་སྤྱད་དེ་སྐབས་བསྟུན་གྲངས་ལ་རྩིས་ནས་ས་བོན་སྐྱེད་སྒྲུབ་བྱེད་པ།"
+" - འདིས་ཁྱེད་ལ་དམིགས་འཛུགས་བྱས་པའི “ སྐབས་བསྟུན "
+"”བཀོལ་སྤྱོད་ཞིག་བསྐྱར་ཟློས་བྱས་ཆོག"
 
 msgid "Value"
-msgstr ""
+msgstr "ཐང་།"
 
 msgid "Visible"
 msgstr "མཐོང་ཐུབ་པ།"
@@ -761,7 +764,7 @@ msgstr ""
 "པར་འདེམས་ལད་ཟློས་ཀྱིས་དམིགས་འབེན་ཚོན་མདོག་བར་སྟོང་གི་མཚོན་མི་ཐུབ་པའི་ཁ་དོག་ལ་རྟགས་བཀོད་པ།"
 
 msgid "Writable"
-msgstr "འབྲི་རུང་བ།"
+msgstr "འབྲི་རུང་།"
 
 msgid "X Axis Tilt Away"
 msgstr "X མདའ་ཕྱེ་བ།"
@@ -832,34 +835,34 @@ msgid "Z Move Up"
 msgstr "Z གོང་སྤོ།"
 
 msgid "_Background Color"
-msgstr "རྒྱབ་ལྗོངས་ཀྱི་མདོག (_B)"
+msgstr "རྒྱབ་ལྗོངས་ཁ་དོག (_B)"
 
 msgid "_Black Point Compensation"
-msgstr "ནག་ཐིག་ཁ་གསབ། (_B)"
+msgstr "ནག་ཚེག་ཁ་གསབ། (_B)"
 
 msgid "_Browse..."
-msgstr "རགས་ལྟ།(_B)..."
+msgstr "མིག་བཤེར།(_B)..."
 
 msgid "_C"
 msgstr "_C"
 
 msgid "_Duplicate"
-msgstr "འདྲ་ཕབ། (_D)"
+msgstr "འདྲ་ཕབ།(_D)"
 
 msgid "_Edit"
-msgstr "རྩོམ་སྒྲིག(_E)"
+msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_Export"
 msgstr "ཕྱིར་འདྲེན།(E)"
 
 msgid "_Foreground Color"
-msgstr "མདུན་ལྗོངས། (_F)"
+msgstr "མདུན་ལྗོངས་ཁ་དོག (_F)"
 
 msgid "_Gamma:"
-msgstr "_Gamma："
+msgstr " _Gamma："
 
 msgid "_Ignore"
-msgstr "སྣང་མེད། (_I)"
+msgstr "སྣང་མེད་དུ་གཏོང་།(_I)"
 
 msgid "_Intent:"
 msgstr "དམིགས་འབེན། (_I)："
@@ -874,37 +877,37 @@ msgid "_New Seed"
 msgstr "ས་བོན་གསར་པ། (_N)"
 
 msgid "_Preview"
-msgstr "སྔོན་ལྟ། (_P)"
+msgstr "སྔོན་ལྟ།(_P)"
 
 msgid "_Profile:"
-msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ། (_P)："
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆ།(_P)："
 
 msgid "_Randomize"
 msgstr "སྐབས་བསྟུན། (_R)"
 
 msgid "_Reset"
-msgstr "བསྐྱར་སྒྲིག (_R)"
+msgstr "བསྐྱར་བཀོད། (_R)"
 
 msgid "_Resize"
-msgstr "ཆེ་ཆུང་སྒྱུར་བ།(_R)"
+msgstr "ཆེ་ཆུང་བསྒྱུར་བ།(_R)"
 
 msgid "_Rotate"
-msgstr "སྐོར་བ།(_R)"
+msgstr "འཁྱིལ་འཁོར། (_R)"
 
 msgid "_Scale"
-msgstr "སྐྱེད་སྐྱུང་། (_S)"
+msgstr "སྐྱེད་སྐྱུང་།(_S)"
 
 msgid "_Search:"
-msgstr "བཤེར་འཚོལ། (_S)："
+msgstr "འཚོལ་བཤེར།(_S)："
 
 msgid "_Shear"
 msgstr "གཅོད་འགྱུར། (_S)"
 
 msgid "_Stroke"
-msgstr "ཡིག་བྲིས། (_S)"
+msgstr "བྲིས། (_S)"
 
 msgid "_Transform"
-msgstr "བརྗེ་འགྱུར། (_T)"
+msgstr "བརྗེ་བསྒྱུར། (_T)"
 
 msgid "_White"
 msgstr "དཀར་པོ། (_W)"
@@ -949,10 +952,10 @@ msgid "FG to BG (HSV)"
 msgstr "མདུན་ལྗོངས་ནས་རྒྱབ་ལྗོངས། (HSV)"
 
 msgid "FG to BG (RGB)"
-msgstr "མདུན་ལྗོངས་ནས་རྒྱབ་ལྗོངས། (RGB)"
+msgstr "མདུན་ལྗོངས་ནས་རྒྱབ་ལྗོངས་བར། ( RGB )"
 
 msgid "FG to transparent"
-msgstr "མདུན་ལྗོངས་ནས་ནང་གསལ།"
+msgstr "མདུན་ལྗོངས་ནས་ནང་གསལ་བར།"
 
 msgid "BG color fill"
 msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་ཁ་སྐོང་།"
@@ -1015,13 +1018,13 @@ msgid "Green"
 msgstr "ལྗང་མདོག"
 
 msgid "Indexed"
-msgstr "གསལ་བྱང་།"
+msgstr " གསལ་བྱང་།"
 
 msgid "Red"
 msgstr "དམར་པོ།"
 
 msgid "Large"
-msgstr "ཆེ་བ།"
+msgstr "ཆེ།"
 
 msgid "Medium"
 msgstr "འབྲིང་རིམ།"
@@ -1048,7 +1051,7 @@ msgid "White only"
 msgstr "དཀར་པོ་ཁོ་ན།"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Pattern"
 msgstr ""
@@ -1105,7 +1108,7 @@ msgid "Luminosity"
 msgstr "འོད་འཕྲོ་ཚད།"
 
 msgid "Burn"
-msgstr "གཏིང་ཟབ་ཏུ་གཏོང་བ།"
+msgstr "གཏིང་ཟབ།"
 
 msgid "Dodge"
 msgstr "ཉུང་འཕྲི།"
@@ -1175,7 +1178,7 @@ msgid "Solid"
 msgstr "ཚོན་རྡོག"
 
 msgid "Image file"
-msgstr "པར་རིས་ཡིག་ཆ།"
+msgstr "བརྙན་རིས་ཡིག་ཆ།"
 
 msgid "Inline pixbuf"
 msgstr "འཛུད་འཇུག pixbuf"
@@ -1190,7 +1193,7 @@ msgid "Indexed color"
 msgstr "གསལ་བྱང་ཁ་དོག"
 
 msgid "RGB color"
-msgstr "RGB ཁ་དོག"
+msgstr "RGBམདོག"
 
 msgid "Grayscale"
 msgstr "སྐྱ་ཚད།"
@@ -1199,7 +1202,7 @@ msgid "Grayscale-alpha"
 msgstr "སྐྱ་ཚད -alpha"
 
 msgid "Indexed"
-msgstr "གསལ་བྱང་།"
+msgstr " གསལ་བྱང་།"
 
 msgid "Indexed-alpha"
 msgstr "གསལ་བྱང་ཁ་དོག -alpha"
@@ -1211,13 +1214,13 @@ msgid "RGB-alpha"
 msgstr "RGB-alpha"
 
 msgid "Disabled"
-msgstr "བཀག་པ།"
+msgstr "འགོག་སྤྱོད།"
 
 msgid "Screen"
 msgstr "བརྙན་ཡོལ།"
 
 msgid "Window"
-msgstr "སྒེའུ་ཁུང་།"
+msgstr " སྒེའུ་ཁུང་།"
 
 msgid "Cubic"
 msgstr "རང་སུམ་སྒྱུར།"
@@ -1226,7 +1229,7 @@ msgid "Linear"
 msgstr "ཐིག་གཤིས།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Sinc (Lanczos3)"
 msgstr "དྲང་རྒྱུད། (Lanczos3)"
@@ -1241,7 +1244,7 @@ msgid "invalid value '%s' for token %s"
 msgstr "%2$s ཡི་གྲངས་བྲིན “%1$s” དེ་ནུས་མེད་ཡིན།"
 
 msgid "Images"
-msgstr "པར་རིས།"
+msgstr "བརྙན་རིས།"
 
 msgid "Layers"
 msgstr "རིམ་པ།"
@@ -1265,13 +1268,13 @@ msgid "Temporary Procedure"
 msgstr "གནས་སྐབས་བརྒྱུད་རིམ།"
 
 msgid "percent"
-msgstr "བརྒྱ་ཆའི་བསྡུར་ཚད།"
+msgstr " བརྒྱ་ཆའི་བསྡུར།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Sawtooth wave"
 msgstr "སོག་ལེའི་རླབས།"
@@ -1310,7 +1313,7 @@ msgid "Medium"
 msgstr "འབྲིང་རིམ།"
 
 msgid "None"
-msgstr "བདེ་འཇགས་སྲུང་སྐྱོང་མེད་པ།"
+msgstr " མེད།"
 
 msgid "Slight"
 msgstr "ཕྲན་བུ།"
@@ -1328,7 +1331,7 @@ msgid "Right justified"
 msgstr "གཡས་སྙོམ།"
 
 msgid "Highlights"
-msgstr "མཐོ་གསལ།"
+msgstr "མདངས་ཆེན།"
 
 msgid "Midtones"
 msgstr "གཏིང་ཟབ་ཚད་འབྲིང་བ།"
@@ -1346,7 +1349,7 @@ msgid "Adjust"
 msgstr "ལེགས་སྒྲིག"
 
 msgid "Clip"
-msgstr "དྲས།"
+msgstr "དྲས་གཏུབ།"
 
 msgid "Crop to result"
 msgstr "མཇུག་འབྲས་ལ་དྲས་གཏུབ།"
@@ -1355,13 +1358,13 @@ msgid "Crop with aspect"
 msgstr "བསྡུར་ཚད་ལྟར་དྲས་གཏུབ།"
 
 msgid "value for token %s is not a valid UTF-8 string"
-msgstr "%s ཡི་གྲངས་བྲིན་དེ་ནི་ནུས་ལྡན་གྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་མིན།"
+msgstr "%s ཡི་གྲངས་བྲིན་དེ་ནུས་ལྡན་གྱི UTF-8 ཡིག་རྟགས་ཕྲེང་བ་མིན།"
 
 msgid "while parsing token '%s': %s"
 msgstr "“%s” ལ་ཞིབ་འགྲེལ་སྐབས།：%s"
 
 msgid "Zoom in"
-msgstr "ཆེར་སྐྱེད།"
+msgstr "ཇེ་ཆེར་གཏོང་བ།"
 
 msgid "Zoom out"
-msgstr "ཆུང་སྐྱུང་།"
+msgstr "ཆུང་བསྡུ།"
