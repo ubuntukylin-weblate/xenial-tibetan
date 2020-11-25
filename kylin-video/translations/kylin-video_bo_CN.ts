@@ -5,23 +5,23 @@
     <name>PrefPerformance</name>
     <message>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation>KB</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>རླངས་འཁོར།</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད།</translation>
     </message>
     <message>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་ལེན།</translation>
     </message>
     <message>
         <source>Threads for decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨང་འགྲོལ་སྐུད་རིམ།</translation>
     </message>
     <message>
         <source>Auto: it tries to automatically enable hardware decoding using the first available method.</source>
@@ -29,11 +29,11 @@
     </message>
     <message>
         <source>Decode</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨང་འགྲོལ།</translation>
     </message>
     <message>
         <source>Available options:</source>
-        <translation type="unfinished"></translation>
+        <translation>འདེམས་ཆོག་པའི་ཚན་པ།:</translation>
     </message>
     <message>
         <source>vaapi-copy: it copies video back into system RAM. For Intel GPUs only.</source>
@@ -41,15 +41,15 @@
     </message>
     <message>
         <source>Hardware decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་ཆས་ཨང་འགྲོལ།</translation>
     </message>
     <message>
         <source>This option only works with mpv.</source>
-        <translation type="unfinished"></translation>
+        <translation>འདེམ་བྱང་འདི་mpvཁོ་ནར་འཚམ།</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>གཤིས་ནུས།</translation>
     </message>
     <message>
         <source>vdpau: for the vdpau and opengl video outputs.</source>
