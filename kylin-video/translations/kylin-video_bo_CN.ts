@@ -1231,147 +1231,147 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>དབྱིན་ཏིའི་སྐད།</translation>
     </message>
     <message>
         <source>Irish</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨེའར་ལན་སྐད།</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀའོ་མན་སྐད།</translation>
     </message>
     <message>
         <source>Kongo</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀང་གོའི་སྐད།</translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation type="unfinished"></translation>
+        <translation>ལ་ཏིང་སྐད།</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལའི་སྐད།</translation>
     </message>
     <message>
         <source>Maori</source>
-        <translation type="unfinished"></translation>
+        <translation>མའོ་ལིའི་སྐད།</translation>
     </message>
     <message>
         <source>Nauru</source>
-        <translation type="unfinished"></translation>
+        <translation>ནའོ་ལུའི་སྐད།</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨའོ་ལི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Oromo</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨའོ་ལོ་མོའི་སྐད།</translation>
     </message>
     <message>
         <source>Sango</source>
-        <translation type="unfinished"></translation>
+        <translation>སང་ཀའི་སྐད།</translation>
     </message>
     <message>
         <source>Rundi</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅི་ལུང་དིའི་སྐད།</translation>
     </message>
     <message>
         <source>Shona</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧྲའོ་ནའི་སྐད།</translation>
     </message>
     <message>
         <source>Sotho</source>
-        <translation type="unfinished"></translation>
+        <translation>ནན་སོ་ཐོ་ཡི་སྐད།</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐ་ཅི་ཁེའི་སྐད།</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐའི་མིར་སྐད།</translation>
     </message>
     <message>
         <source>UTF-8</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8</translation>
     </message>
     <message>
         <source>Tatar</source>
-        <translation type="unfinished"></translation>
+        <translation>ཏ་ཏའི་སྐད།</translation>
     </message>
     <message>
         <source>Swati</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་ཝ་ཐའི་སྐད།</translation>
     </message>
     <message>
         <source>Tonga</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐང་ཅའི་སྐད།</translation>
     </message>
     <message>
         <source>Inupiaq</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡི་ནུ་བི་ཁའི་སྐད།</translation>
     </message>
     <message>
         <source>Venda</source>
-        <translation type="unfinished"></translation>
+        <translation>ཝན་དའི་སྐད།</translation>
     </message>
     <message>
         <source>Uzbek</source>
-        <translation type="unfinished"></translation>
+        <translation>ཝུའུ་ཙི་པེའེ་ཁའི་སྐད།</translation>
     </message>
     <message>
         <source>Welsh</source>
-        <translation type="unfinished"></translation>
+        <translation>ཝེར་ཧྲིའི་སྐད།</translation>
     </message>
     <message>
         <source>Wolof</source>
-        <translation type="unfinished"></translation>
+        <translation>ཝོ་ལོ་ཧྥུའི་སྐད།</translation>
     </message>
     <message>
         <source>Xhosa</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁོ་སའི་སྐད།</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation type="unfinished"></translation>
+        <translation>ཤི་ལིར་ཡི་གེ།</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>དབྱི་ཏ་ལིའི་སྐད།</translation>
     </message>
     <message>
         <source>Ukrainian, Belarusian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཝུའུ་ཁི་ལན་གྱི་སྐད།  ཨུ་རུ་སུ་དཀར་པོ།</translation>
     </message>
     <message>
         <source>Dzongkha</source>
-        <translation type="unfinished"></translation>
+        <translation>རྫོང་ཁའི་སྐད།</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་ན་ཏའི་སྐད།</translation>
     </message>
     <message>
         <source>Abkhazian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨ་པུ་ཧ་ཤི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Kirghiz</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅིའར་ཅི་སིའི་སྐད།</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨར་པ་ཉི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྷ་ཐོ་ཝེ་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལ་ཡ་ལ་མོའི་སྐད།</translation>
     </message>
     <message>
         <source>Moldavian</source>
