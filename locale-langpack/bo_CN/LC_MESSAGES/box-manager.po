@@ -1,0 +1,445 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Kylin file protection box"
+msgstr ""
+
+msgid "about"
+msgstr ""
+
+msgid "Operating environment: kylin (V10)"
+msgstr ""
+
+msgid "Secure kernel (3.0.0) and above"
+msgstr ""
+
+msgid "Protective box kit (3.0.8) and above"
+msgstr ""
+
+msgid "Software version: %1"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Yes"
+msgstr "ཡིན།"
+
+msgid "No"
+msgstr "མིན།"
+
+msgid "Personal creation"
+msgstr ""
+
+msgid "Shared by others"
+msgstr ""
+
+msgid "%1 Shared"
+msgstr ""
+
+msgid "Created by myself"
+msgstr ""
+
+msgid "File protection box"
+msgstr ""
+
+msgid ""
+"Provide data security protection, support isolation hiding, encryption "
+"protection and sharing of personal data"
+msgstr ""
+
+msgid "All protective boxes"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Delete"
+msgstr "འདོར་བ།"
+
+msgid "Password setting"
+msgstr ""
+
+msgid "Sharing settings"
+msgstr ""
+
+msgid "Millet porridge: Kylin"
+msgstr ""
+
+msgid "Shared"
+msgstr "མཉམ་སྤྱོད་བྱས་ཟིན་པ།"
+
+msgid "Encrypted"
+msgstr "གསང་བསྡམས།"
+
+msgid "Please select the protective box to be deleted! "
+msgstr ""
+
+msgid "Unable to delete, please unmount the protective box first \"%1\" !"
+msgstr ""
+
+msgid ""
+"The protection box is encrypted, please enter the password for "
+"authentication"
+msgstr ""
+
+msgid ""
+"The delete operation is irreversible, are you sure to delete the protective "
+"box \"%1\" ?"
+msgstr ""
+
+msgid "Protective box \"%1\" failed to delete: %2"
+msgstr ""
+
+msgid "Please select the protective box that requires password setting !"
+msgstr ""
+
+msgid "Please select the protective box that requires password setting ! "
+msgstr ""
+
+msgid ""
+"Unable to set the password, please unmount the protection box first \"%1\" !"
+msgstr ""
+
+msgid "Please select the protective box that needs to be shared! "
+msgstr ""
+
+msgid "Unable to set up sharing, please unmount the protection box first \"%1\" !"
+msgstr ""
+
+msgid "Failed to load shared user list! "
+msgstr ""
+
+msgid "Protective box: %1 (from %2)"
+msgstr ""
+
+msgid "Protective box: %1"
+msgstr ""
+
+msgid "Mounted"
+msgstr ""
+
+msgid "Protective box: %1 item"
+msgstr ""
+
+msgid "Please select the protective box to be mounted! "
+msgstr ""
+
+msgid "Please select the protective box to be Unmount! "
+msgstr ""
+
+msgid "Protective box \"%1\" Unmount failed: %2"
+msgstr ""
+
+msgid "Please select the protective box that needs to be renamed! "
+msgstr ""
+
+msgid "Unable to rename operation, please unmount protective box first \"%1\" !"
+msgstr ""
+
+msgid ""
+"The current system does not support kylin file protection box related "
+"functions"
+msgstr ""
+
+msgid "Invalid username"
+msgstr ""
+
+msgid "Username is too long"
+msgstr ""
+
+msgid "Kylin file protection box system environment is not initialized"
+msgstr ""
+
+msgid "The system configuration is corrupted"
+msgstr ""
+
+msgid "System configuration failed"
+msgstr ""
+
+msgid "The protection box configuration is damaged"
+msgstr ""
+
+msgid "Password length exceeds limit"
+msgstr ""
+
+msgid "The current system does not support encryption"
+msgstr ""
+
+msgid "The protective box is mounted"
+msgstr ""
+
+msgid "The protective box is decrypted"
+msgstr ""
+
+msgid "Failed to delete protective box"
+msgstr ""
+
+msgid "Failed to mount the protection box"
+msgstr ""
+
+msgid "Data restore failed"
+msgstr ""
+
+msgid "Protection box unmount failed"
+msgstr ""
+
+msgid "The protective box is not mounted"
+msgstr ""
+
+msgid "The protection box is not encrypted"
+msgstr ""
+
+msgid "Wrong password"
+msgstr "གསང་ཨང་ནོར་འཁྲུལ།"
+
+msgid "Invalid protection box name"
+msgstr ""
+
+msgid "Unknown mistake"
+msgstr ""
+
+msgid "name"
+msgstr "མིང་།"
+
+msgid "Whether to encrypt"
+msgstr ""
+
+msgid "Whether to share"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "           name"
+msgstr ""
+
+msgid "  Whether to encrypt"
+msgstr ""
+
+msgid "  Whether to share"
+msgstr ""
+
+msgid "  Owner"
+msgstr ""
+
+msgid "Change password settings"
+msgstr ""
+
+msgid "Change method: "
+msgstr ""
+
+msgid "Change Password"
+msgstr "གསང་ཨང་བཟོ་བཅོས།"
+
+msgid "Unprotect"
+msgstr ""
+
+msgid "Current password"
+msgstr ""
+
+msgid "New password"
+msgstr ""
+
+msgid "New key confirmation"
+msgstr ""
+
+msgid "Confirm"
+msgstr "གཏན་འཁེལ།"
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid ""
+"The protection box whose password needs to be changed is not selected, "
+"please select and modify again!  "
+msgstr ""
+
+msgid "The original password cannot be empty"
+msgstr ""
+
+msgid "New password cannot be empty"
+msgstr ""
+
+msgid "New password confirmation cannot be empty"
+msgstr ""
+
+msgid "The new password does not match the confirmed password"
+msgstr ""
+
+msgid "Protective box \"%1\" Password modification failed: %2"
+msgstr ""
+
+msgid "Confirm password cannot be empty"
+msgstr ""
+
+msgid "Protective box \"%1\" Password unlock failed: %2"
+msgstr ""
+
+msgid "Create a protective box"
+msgstr ""
+
+msgid "Path"
+msgstr "འགྲོ་ལམ་འགྲོ་ལམ།"
+
+msgid "Password"
+msgstr "གསང་ཨང་།"
+
+msgid "Confirm password"
+msgstr ""
+
+msgid "The name of the protective box cannot be empty"
+msgstr ""
+
+msgid "The password cannot be empty"
+msgstr ""
+
+msgid ""
+"The password format does not match the requirements/npassword require: The "
+"password is 6-18 digits long and can only contain letters, Numbers, and "
+"underscores"
+msgstr ""
+
+msgid "Confirm that the password cannot be empty"
+msgstr ""
+
+msgid "The password and the confirmation password are inconsistent"
+msgstr ""
+
+msgid "Failed to create protective box: %1"
+msgstr ""
+
+msgid "Create password"
+msgstr ""
+
+msgid "Create a protection box password"
+msgstr ""
+
+msgid "Protective box \"%1\" Failed to create password: %2"
+msgstr ""
+
+msgid ""
+"The current system does not support Kylin file protection box related "
+"functions! "
+msgstr ""
+
+msgid "Failed to initialize Kylin file protection box module! "
+msgstr ""
+
+msgid "Don't run boxadm using su, sudo! "
+msgstr ""
+
+msgid "Ask"
+msgstr "དྲི་བ།"
+
+msgid "Prompt"
+msgstr ""
+
+msgid "Warning"
+msgstr "ཐ་ཚིག "
+
+msgid "Complete"
+msgstr "ལེགས་འགྲུབ།"
+
+msgid "Password authentication"
+msgstr ""
+
+msgid "Mounting protection box"
+msgstr ""
+
+msgid "protection box: %1"
+msgstr ""
+
+msgid "Password cannot be empty"
+msgstr ""
+
+msgid ""
+"Password authentication failed, please confirm the password and re-"
+"authenticate"
+msgstr ""
+
+msgid "Failed to mount the protection box, please check: %1"
+msgstr ""
+
+msgid "For \"%1\"Set sharing permissions"
+msgstr ""
+
+msgid "application"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ།"
+
+msgid "Protection box \"%1\" Failed to set sharing permissions! "
+msgstr ""
+
+msgid ""
+"Protection box \"%1\" Some user permissions failed to share, please share "
+"again! "
+msgstr ""
+
+msgid "Protection box \"%1\" Successfully set sharing permissions! "
+msgstr ""
+
+msgid "Read only"
+msgstr "ཀློག་ཙམ།"
+
+msgid "Read and write"
+msgstr "ཀློག་བྲིས།"
+
+msgid "Rename"
+msgstr "མིང་བསྐྱར་འདོགས།"
+
+msgid "For\"%1\"Rename the protective box"
+msgstr ""
+
+msgid "New name"
+msgstr ""
+
+msgid "Password validation"
+msgstr ""
+
+msgid "The new name of the protective box cannot be empty"
+msgstr ""
+
+msgid "The password of the protection box cannot be empty"
+msgstr ""
+
+msgid "Protection box \"%1\" Rename failed: %2"
+msgstr ""
+
+msgid "Mount"
+msgstr ""
+
+msgid "Unmount"
+msgstr "བཤིག་འདོར།"
+
+msgid "Close"
+msgstr "ཁ་རྒྱག་པ།"
+
+msgid "Minimize"
+msgstr ""
+
+msgid "Menu"
+msgstr "འདེམས་བྱང་།"
+
+msgid "Return"
+msgstr "འབེབས་པ།"
+
+msgid "Help manual"
+msgstr ""
+
+msgid "Rename the protective box"
+msgstr ""
+
+msgid "About"
+msgstr "འབྲེལ་ཡོད།"
