@@ -1,0 +1,1308 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubuntu Xenial Tibetan\n"
+"Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
+"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Account lock, display configuration for login information"
+msgstr ""
+
+msgid "Defaults"
+msgstr "སོར་བཞག"
+
+msgid "Apply"
+msgstr "ཉེར་སྤྱོད།"
+
+msgid ""
+"Update account lock and login information shows that the configuration "
+"failed, please check ！"
+msgstr ""
+
+msgid ""
+"Update account lock and login information shows that the configuration "
+"failed, please check"
+msgstr ""
+
+msgid "Account lock Settings"
+msgstr ""
+
+msgid "Enable account locking"
+msgstr ""
+
+msgid "Threshold number of consecutive password errors (3-16 times):"
+msgstr ""
+
+msgid "Account lockdown time:"
+msgstr ""
+
+msgid "Login information display (console only):"
+msgstr ""
+
+msgid "Display last login information:"
+msgstr ""
+
+msgid "Display history login failure information:"
+msgstr ""
+
+msgid "     5minute"
+msgstr ""
+
+msgid "     10 minute"
+msgstr ""
+
+msgid "     30 minute"
+msgstr ""
+
+msgid "     1hour"
+msgstr ""
+
+msgid "     3 hour"
+msgstr ""
+
+msgid "     24 hour"
+msgstr ""
+
+msgid "     15day"
+msgstr ""
+
+msgid "     30day"
+msgstr ""
+
+msgid "     60day"
+msgstr ""
+
+msgid "     forever"
+msgstr ""
+
+msgid "Acount security"
+msgstr ""
+
+msgid "Protect account and login security"
+msgstr ""
+
+msgid "Login authentication mode"
+msgstr ""
+
+msgid "Current use : password authentication"
+msgstr ""
+
+msgid "Account password security"
+msgstr ""
+
+msgid ""
+"Configuration of account password strength, account locking, login "
+"information display and other functions"
+msgstr ""
+
+msgid "Password strength configuration"
+msgstr ""
+
+msgid ""
+"The password should be at least 8 bits and contain at least 3 uppercase "
+"characters, lowercase characters, Numbers and symbols"
+msgstr ""
+
+msgid ""
+"Password must have at least 6 characters, including at least 2 of lowercase "
+"letters, uppercase letters, Numbers and symbols"
+msgstr ""
+
+msgid "Unlimited"
+msgstr "ཚད་མེད་པ།"
+
+msgid "Setting password strength according to needed"
+msgstr ""
+
+msgid "Choose biometric authentication"
+msgstr ""
+
+msgid "Middle level"
+msgstr ""
+
+msgid "Low level"
+msgstr ""
+
+msgid "Self-define"
+msgstr ""
+
+msgid "Account lock, login information display configuration"
+msgstr ""
+
+msgid "Password strength check function is disabled, unlimited"
+msgstr ""
+
+msgid "The minimum password length %1\n"
+msgstr ""
+
+msgid "Password contains at least %1 characters\n"
+msgstr ""
+
+msgid "Password contains at least %1 lowercase characters\n"
+msgstr ""
+
+msgid "Password contains at least %1 numeric characters\n"
+msgstr ""
+
+msgid "Password contains at least %1 other characters\n"
+msgstr ""
+
+msgid "Password ban containning username\n"
+msgstr ""
+
+msgid "Password prohibits the use of palindrome\n"
+msgstr ""
+
+msgid "Enable check for password similarity \n"
+msgstr ""
+
+msgid "Enable password dictionary\n"
+msgstr ""
+
+msgid "Password expiry date% 1 day\n"
+msgstr ""
+
+msgid "password expiry date  forever\n"
+msgstr ""
+
+msgid "The same character can appear continuously %1 times at most\n"
+msgstr ""
+
+msgid ""
+"The maximum continuous sequence length of characters of the same type is "
+"%1\n"
+msgstr ""
+
+msgid ""
+"Characters of the same type are allowed to appear consecutively at most %1 \n"
+"times \n"
+msgstr ""
+
+msgid ""
+"If you fail to set a high-level password check strategy, the system will "
+"continue to use the original password check strategy to protect system "
+"security！"
+msgstr ""
+
+msgid ""
+"If the middle-level password check strategy fails to be set, the system will"
+" continue to use the original password check strategy to protect system "
+"security！"
+msgstr ""
+
+msgid ""
+"Setting a low-level password check strategy fails, the system will continue "
+"to use the original password check strategy to protect system security！"
+msgstr ""
+
+msgid "Add application network control"
+msgstr ""
+
+msgid "Add application networking controls"
+msgstr ""
+
+msgid "Name (Required)"
+msgstr ""
+
+msgid "Path (required)"
+msgstr ""
+
+msgid "Application icon"
+msgstr ""
+
+msgid "Control strategy"
+msgstr ""
+
+msgid "Cancel"
+msgstr "ལེན་པ།"
+
+msgid "Sure"
+msgstr ""
+
+msgid "The application name cannot be empty!"
+msgstr ""
+
+msgid "The application path cannot be empty!"
+msgstr ""
+
+msgid "The application path does not exist, please add it again!"
+msgstr ""
+
+msgid "The application name already exists, please re-enter!"
+msgstr ""
+
+msgid "The application already exists in the control list!"
+msgstr ""
+
+msgid "Failed to add application network control project!"
+msgstr ""
+
+msgid "Choose a connected application"
+msgstr ""
+
+msgid "Select program icon"
+msgstr ""
+
+msgid "The file path does not exist, please select again!"
+msgstr ""
+
+msgid "The selected file is not an executable file, please select again!"
+msgstr ""
+
+msgid "Add other applications"
+msgstr ""
+
+msgid "Program name"
+msgstr "བྱ་རིམ་གྱི་མིང་།"
+
+msgid "service"
+msgstr ""
+
+msgid "Application network control"
+msgstr ""
+
+msgid "Please enter name of search application "
+msgstr ""
+
+msgid "Failed to delete controlled application!"
+msgstr ""
+
+msgid "The script file does not exist!"
+msgstr ""
+
+msgid "run ksc-defender-deamon  failed"
+msgstr ""
+
+msgid "uncompliant"
+msgstr ""
+
+msgid "high"
+msgstr "མཐོ།"
+
+msgid "middle"
+msgstr ""
+
+msgid "compliant"
+msgstr ""
+
+msgid "  Security Baseline class"
+msgstr ""
+
+msgid "  Security baseline item"
+msgstr ""
+
+msgid "  result"
+msgstr ""
+
+msgid ""
+"uncompliant item<font style='font-size:16px;color:green;'>%1</font>item"
+msgstr ""
+
+msgid "<font style='font-size:16px;'>start scanning...</font>"
+msgstr ""
+
+msgid "<font style='font-size:32px;'>start scanning...</font>"
+msgstr ""
+
+msgid "See detail"
+msgstr ""
+
+msgid "Cancel scan"
+msgstr ""
+
+msgid "Completed scan"
+msgstr ""
+
+msgid ""
+"Statistics on the number of high-risk configuration security baseline items"
+msgstr ""
+
+msgid ""
+"Statistics on the number of middle-risk configuration security baseline "
+"items"
+msgstr ""
+
+msgid ""
+"Statistics on the number of low-risk configuration security baseline items"
+msgstr ""
+
+msgid "Program error! Reason for error: file opening failed!"
+msgstr ""
+
+msgid ""
+"The scan has not been completed. After canceling the scan, you will return "
+"to the baseline scan homepage!"
+msgstr ""
+
+msgid ""
+"<font style='font-size:18px;'>uncompliant item</font>  <font style='font-"
+"size:18px;color:rgb(%1);'>%2</font>  <font style='font-"
+"size:18px;'>item</font>"
+msgstr ""
+
+msgid "<font style='font-size:32px;'>Scan complete</font>"
+msgstr ""
+
+msgid "The computer has non-compliance items and faces hidden dangers"
+msgstr ""
+
+msgid "Scanning is complete, no non-conformities have been found"
+msgstr ""
+
+msgid "Program error! Cause of error: Script file execution failed!"
+msgstr ""
+
+msgid "<font style='color:rgb(107,142,235);'>Click to view</font>"
+msgstr ""
+
+msgid "<font style='color:rgb(61,107,229);'>Click to view</font>"
+msgstr ""
+
+msgid "<font style='color:rgb(65,95,196);'>Click to view</font>"
+msgstr ""
+
+msgid ""
+"<font style='font-size:16px;color:rgb(61,107,229);'>Scan time：%1</font>"
+msgstr ""
+
+msgid "tip"
+msgstr ""
+
+msgid "Tip"
+msgstr ""
+
+msgid "Scanning not complete，it will be return home page if cancel scan ！"
+msgstr ""
+
+msgid "Continue"
+msgstr "མུ་མཐུད།"
+
+msgid "<font style='font-size:14px;'><strong>tip</strong></font>"
+msgstr ""
+
+msgid "continue"
+msgstr "ཡང་བསྐྱར་བཤར་འབེབས།"
+
+msgid "sure"
+msgstr ""
+
+msgid "setting filewall by self-define "
+msgstr ""
+
+msgid "Firewall custom Settings"
+msgstr ""
+
+msgid ""
+"You can define which services in the zone are trusted here. All hosts and "
+"networks that can be connected to connections, interfaces, and sources bound"
+" to this zone, and can access trusted services"
+msgstr ""
+
+msgid "Manage the protocols and ports that the service needs to access"
+msgstr ""
+
+msgid "protocol"
+msgstr ""
+
+msgid "port"
+msgstr "མཐུད་ཁ།"
+
+msgid "Add service"
+msgstr ""
+
+msgid "Add item"
+msgstr ""
+
+msgid "delete service"
+msgstr ""
+
+msgid "delete item"
+msgstr ""
+
+msgid "Edit service"
+msgstr ""
+
+msgid "Edit item"
+msgstr ""
+
+msgid "Restore default services"
+msgstr ""
+
+msgid "search"
+msgstr "བཤེར་འཚོལ།"
+
+msgid "Please choosing a service that you need to delete！"
+msgstr ""
+
+msgid "Failed to delecte  selected firewall`s service！"
+msgstr ""
+
+msgid "Please select service that needed edited and modified！"
+msgstr ""
+
+msgid "Failed to disable the selected firewall sercive!"
+msgstr ""
+
+msgid ""
+"Failed to obtain the selected firewall service configuration information!"
+msgstr ""
+
+msgid ""
+"Please select the service that needs to add protocol and port configuration "
+"first!"
+msgstr ""
+
+msgid "Please disable the selected firewall service first!"
+msgstr ""
+
+msgid ""
+"Please select the service that needs to delete the protocol and port "
+"configuration first!"
+msgstr ""
+
+msgid "Please select the protocol and port configuration to be deleted first!"
+msgstr ""
+
+msgid ""
+"Failed to delete the protocol and port configuration items of the selected "
+"firewall service!"
+msgstr ""
+
+msgid ""
+"Please select the service that needs to modify the protocol and port "
+"configuration first!"
+msgstr ""
+
+msgid ""
+"Please select the protocol and port configuration to be modified first!"
+msgstr ""
+
+msgid "Failed to restore the default service!"
+msgstr ""
+
+msgid "Add protocol, port"
+msgstr ""
+
+msgid "Protocol"
+msgstr "འཕྲིན་གཏོང་གྲོས་མཐུན།"
+
+msgid "Port"
+msgstr "མཐུད་ཁ།"
+
+msgid "Input format example：6237 OR 6237-6601"
+msgstr ""
+
+msgid "The protocol does not support port configuration"
+msgstr ""
+
+msgid "The agreement name cannot be empty!"
+msgstr ""
+
+msgid "The system does not support this agreement temporarily!"
+msgstr ""
+
+msgid "The port configuration format is illegal, please check and reset!"
+msgstr ""
+
+msgid ""
+"The current protocol and port configuration already exist, please check and "
+"reset!"
+msgstr ""
+
+msgid "Failed to add protocol and port configuration!"
+msgstr ""
+
+msgid "Edit protocol, port"
+msgstr ""
+
+msgid "The protocol name cannot be empty!"
+msgstr ""
+
+msgid "Failed to modify the protocol and port configuration!"
+msgstr ""
+
+msgid "Input format example ：6237 OR 6237-6601"
+msgstr ""
+
+msgid "Basic service settings"
+msgstr ""
+
+msgid "Name（required）"
+msgstr ""
+
+msgid "Version"
+msgstr "པར་གཞི།"
+
+msgid "Summary"
+msgstr "གནད་བསྡུས།"
+
+msgid "Detailed introduction"
+msgstr ""
+
+msgid "Add protocol and port"
+msgstr ""
+
+msgid "The service name cannot be empty!"
+msgstr ""
+
+msgid "The service already exists!"
+msgstr ""
+
+msgid "Protocol name cannot be empty！"
+msgstr ""
+
+msgid "The system does not support the protocol temporarily"
+msgstr ""
+
+msgid "Failed to add firewall control service!"
+msgstr ""
+
+msgid "he service name cannot be empty!"
+msgstr ""
+
+msgid "Application execution control"
+msgstr ""
+
+msgid "Application installation and execution control"
+msgstr ""
+
+msgid "Check application integrity"
+msgstr ""
+
+msgid ""
+"Kylin’s  built-in security mechanism checks the integrity of the application"
+" and helps protect the integrity of the system’s operating environment"
+msgstr ""
+
+msgid "Prevention"
+msgstr ""
+
+msgid "Warm"
+msgstr ""
+
+msgid "Closed"
+msgstr "ཁ་ཟུམ།"
+
+msgid "Turn off the security function that checks program integrity"
+msgstr ""
+
+msgid "Add, update, and delete application benchmarks"
+msgstr ""
+
+msgid "Check application source"
+msgstr ""
+
+msgid ""
+"Check the compliance of the application. The application installed using "
+"legal and compliant sources can effectively protect the stability of the "
+"system. If the application is unauthenticated, after enabling the built-in "
+"security function of Kylin, the execution permission of the application will"
+" be checked"
+msgstr ""
+
+msgid "All source"
+msgstr ""
+
+msgid "But if the app is from an uncertified source, please notify me"
+msgstr ""
+
+msgid "Address randomization"
+msgstr ""
+
+msgid ""
+"The system has built-in address space randomization function by default, and"
+" supports address randomization of shared libraries, heap, stack, MMAP, and "
+"VDSO to help protect the system from attacks"
+msgstr ""
+
+msgid "Certified legal source"
+msgstr ""
+
+msgid "Executing control state switching..."
+msgstr ""
+
+msgid "Executing control state switching,Prohibit closing!"
+msgstr ""
+
+msgid "Cannot enable Kylin security mechanism"
+msgstr ""
+
+msgid ""
+"Failed to set application integrity check policy, the system will continue "
+"to use the original policy to protect system security"
+msgstr ""
+
+msgid "Executing control state switching ..."
+msgstr ""
+
+msgid "Executing control state switching，prohibit closing!"
+msgstr ""
+
+msgid "Failed to set system application source detection level!"
+msgstr ""
+
+msgid "Failed to set system application source detection level！"
+msgstr ""
+
+msgid ""
+"No documents that meet the requirements are found, please select to add "
+"again!"
+msgstr ""
+
+msgid "Authorization failed, adding is prohibited!"
+msgstr ""
+
+msgid "KYSEC security mechanism is not enabled, it is forbidden to add!"
+msgstr ""
+
+msgid "Database exception, adding whitelist record failed!"
+msgstr ""
+
+msgid "%1 :Failed to get file mark!"
+msgstr ""
+
+msgid "%1 :Failed to set file mark!"
+msgstr ""
+
+msgid "Invalid parameter, failed to add whitelist record!"
+msgstr ""
+
+msgid "%1 :Failed to get list of files to be added!"
+msgstr ""
+
+msgid "%1 :File attribute abnormal!"
+msgstr ""
+
+msgid "Unknown error, failed to add whitelist!"
+msgstr ""
+
+msgid "Please select the record to be decertified!"
+msgstr ""
+
+msgid ""
+"Authorization authentication fails, it is forbidden to cancel "
+"authentication!"
+msgstr ""
+
+msgid ""
+"KYSEC security mechanism is not enabled, it is forbidden to de-authenticate!"
+msgstr ""
+
+msgid "Database exception, de-authentication failed!"
+msgstr ""
+
+msgid "Invalid parameter, de-authentication failed!"
+msgstr ""
+
+msgid "%1 :Failed to obtain the list of documents to be decertified!"
+msgstr ""
+
+msgid "Unknown error, decertification failed!"
+msgstr ""
+
+msgid "Application benchmark value management"
+msgstr ""
+
+msgid ""
+"Management applications, dynamic library benchmark values, applications and "
+"dynamic libraries whose integrity is destroyed or not certified are not "
+"allowed to run or load directly"
+msgstr ""
+
+msgid "Add"
+msgstr "གསར་བཟོ།"
+
+msgid "Update"
+msgstr "གསར་སྒྱུར།"
+
+msgid "Decertification"
+msgstr ""
+
+msgid "Enter search content"
+msgstr ""
+
+msgid "<font color = #696969 >%1 tampered with record rows in total</font>"
+msgstr ""
+
+msgid "<font color = #696969 > line</font>"
+msgstr ""
+
+msgid "Add execution control whitelist"
+msgstr ""
+
+msgid "File adding..."
+msgstr ""
+
+msgid "Whitelist file parsing and adding, prohibit closing!"
+msgstr ""
+
+msgid "Record updating..."
+msgstr ""
+
+msgid "Whitelist file updating, it is prohibited to close!"
+msgstr ""
+
+msgid "The certification status is being cancelled..."
+msgstr ""
+
+msgid ""
+"The KYSEC certification protection of the file is being cancelled. It is "
+"forbidden to close!"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "executable programs"
+msgstr ""
+
+msgid "shared libraries"
+msgstr ""
+
+msgid "certified"
+msgstr ""
+
+msgid "system certified"
+msgstr ""
+
+msgid "uncertified"
+msgstr ""
+
+msgid "tampered"
+msgstr ""
+
+msgid ""
+"File path: %1\n"
+"Summary value: %21"
+msgstr ""
+
+msgid "file path"
+msgstr ""
+
+msgid "file type"
+msgstr ""
+
+msgid "current status"
+msgstr ""
+
+msgid "Prompt information"
+msgstr "གསལ་སྟོན་ཆ་འཕྲིན།"
+
+msgid "Authorization failed, update is prohibited!"
+msgstr ""
+
+msgid "KYSEC security mechanism is not enabled, update is prohibited!"
+msgstr ""
+
+msgid "The database is abnormal and the whitelist record update failed!"
+msgstr ""
+
+msgid "Invalid parameter, failed to update whitelist record!"
+msgstr ""
+
+msgid "%1 :Failed to get the list of files to be updated!"
+msgstr ""
+
+msgid "Unknown error, failed to update whitelist record!"
+msgstr ""
+
+msgid "System Security Overview"
+msgstr ""
+
+msgid ""
+"Understand the current security of the system and take necessary setting "
+"actions"
+msgstr ""
+
+msgid "Real-time protection to help the system avoid threats"
+msgstr ""
+
+msgid "Account security"
+msgstr ""
+
+msgid "Network protection"
+msgstr ""
+
+msgid "Protect system network environment security"
+msgstr ""
+
+msgid "Application installation and execution protection"
+msgstr ""
+
+msgid "Baseline scan"
+msgstr ""
+
+msgid "Real-time scanning to identify risks"
+msgstr ""
+
+msgid "TextLabel"
+msgstr ""
+
+msgid "remind"
+msgstr ""
+
+msgid "query"
+msgstr ""
+
+msgid "error messenge"
+msgstr ""
+
+msgid "Home-page"
+msgstr ""
+
+msgid ""
+"Provide default network protection strategies and application networking "
+"management and control to maintain the security of the system network "
+"environment"
+msgstr ""
+
+msgid "Firewall"
+msgstr "མེ་འགོག་གྱང་།"
+
+msgid ""
+"Provide default network access permission strategy to build a safe and "
+"reliable network environment"
+msgstr ""
+
+msgid "Public network"
+msgstr ""
+
+msgid "Network configuration suitable for public areas"
+msgstr ""
+
+msgid "Office network"
+msgstr ""
+
+msgid "Network configuration suitable for home and office workspace"
+msgstr ""
+
+msgid "Custom configuration"
+msgstr ""
+
+msgid "For advanced administrator users"
+msgstr ""
+
+msgid ""
+"Turn off the firewall, suitable for network configuration in a trusted "
+"environment, allowing all network connections"
+msgstr ""
+
+msgid "Application networking"
+msgstr ""
+
+msgid "Control whether applications and services can actively network"
+msgstr ""
+
+msgid "Ban"
+msgstr "བཀག་པ།"
+
+msgid ""
+"Turn off the application networking control function, all applications and "
+"services can be actively connected to the Internet"
+msgstr ""
+
+msgid "Add and delete apps that allow networking"
+msgstr ""
+
+msgid ""
+"Fail to set the system firewall protection level , the system will continue "
+"to use the original firewall protection level to protect system security!  "
+msgstr ""
+
+msgid " Switching network management and control status..."
+msgstr ""
+
+msgid ""
+"Network management and control status is switching, it is prohibited to "
+"close!"
+msgstr ""
+
+msgid " Failed to enable Kylin security mechanism"
+msgstr ""
+
+msgid ""
+"Failed to set the application network control level, the system will "
+"continue to use the original level to protect the system security"
+msgstr ""
+
+msgid "Switching network management and control status..."
+msgstr ""
+
+msgid ""
+"Network management and control status is switching, it is prohibited to "
+"close!!"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Example"
+msgstr "དཔེ་མཚོན།"
+
+msgid "Password dictionary"
+msgstr ""
+
+msgid "Password"
+msgstr "གསང་ཨང་།"
+
+msgid "Exit search"
+msgstr ""
+
+msgid "Please entrying search content"
+msgstr ""
+
+msgid "Example:"
+msgstr "དཔེར་ན།"
+
+msgid "close pop dialog\n"
+msgstr ""
+
+msgid "Password strength setting"
+msgstr ""
+
+msgid "Setting  password strength"
+msgstr ""
+
+msgid "Default"
+msgstr "སོར་བཞག"
+
+msgid ""
+"Failed to update the password strength check configuration, please check!"
+msgstr ""
+
+msgid "Enable password strength check"
+msgstr ""
+
+msgid "Password character control"
+msgstr ""
+
+msgid "Minimum password length"
+msgstr ""
+
+msgid "The password contains at least the type of characters"
+msgstr ""
+
+msgid "Minimum number of uppercase letters"
+msgstr ""
+
+msgid "Minimum number of lowercase letters"
+msgstr ""
+
+msgid "Minimum number of numeric characters"
+msgstr ""
+
+msgid "Minimum number of other characters"
+msgstr ""
+
+msgid "Password advanced settings"
+msgstr ""
+
+msgid "Passwords must not contain usernames"
+msgstr ""
+
+msgid "Enable palindrome checking"
+msgstr ""
+
+msgid "Enable similarity check"
+msgstr ""
+
+msgid "Enable password dictionary"
+msgstr ""
+
+msgid "Password dictionary:"
+msgstr ""
+
+msgid "Password valid time:"
+msgstr ""
+
+msgid "Number of password history records kept"
+msgstr ""
+
+msgid "Password continuous character control"
+msgstr ""
+
+msgid "Maximum number of consecutive occurrences of the same character"
+msgstr ""
+
+msgid "Maximum number of consecutive characters of the same type"
+msgstr ""
+
+msgid "Maximum consecutive occurrences of characters of the same type"
+msgstr ""
+
+msgid "Minimum：1，maximum：4"
+msgstr ""
+
+msgid ""
+"Character types include four types of uppercase letters, lowercase letters, "
+"numbers and other characters"
+msgstr ""
+
+msgid ""
+"A palindrome refers to a sequence of characters that is the same both in "
+"front and back. Once enabled, the system will not be able to set a password "
+"containing this type of character sequence"
+msgstr ""
+
+msgid ""
+"For example, if the password is \"abcdcba\", the password sequence is the "
+"same for both positive and negative reading, and the password is the "
+"palindrome password"
+msgstr ""
+
+msgid ""
+"Similarity password means that the new password is the original password, "
+"only the case is changed or the password is translated from the original "
+"password. After enabling, the system cannot set the password"
+msgstr ""
+
+msgid ""
+"After enabling, if the original password \"abcd1234\", the new password "
+"\"ABCD1234\" will not be set successfully"
+msgstr ""
+
+msgid ""
+"The password dictionary includes many passwords that people habitually set. "
+"When enabled, the system will prohibit the setting of passwords in the "
+"dictionary to strengthen password security"
+msgstr ""
+
+msgid ""
+"The maximum number of consecutive occurrences of the same character in the "
+"password. After exceeding, the password cannot be set successfully"
+msgstr ""
+
+msgid ""
+"The maximum number of consecutive sequences of characters of the same type, "
+"after exceeding, the password cannot be set successfully"
+msgstr ""
+
+msgid ""
+"For example, the number of consecutive sequences of \"123\" and \"def\" is "
+"3, and the number of consecutive sequences of \"abe\" is 2"
+msgstr ""
+
+msgid ""
+"The maximum number of consecutive occurrences of various types of characters"
+" allowed in the password, after exceeding, the password cannot be set "
+"successfully"
+msgstr ""
+
+msgid ""
+"The sum of the minimum number of various characters exceeds the minimum "
+"length of the current password, the minimum length of the password has been "
+"updated"
+msgstr ""
+
+msgid ""
+"The sum of the minimum number of character types exceeds the limit of the "
+"current password minimum number of characters. The minimum number of "
+"characters in the password has been updated"
+msgstr ""
+
+msgid "warning"
+msgstr "ཐ་ཚིག "
+
+msgid ""
+"The minimum password length is less than the sum of the minimum number of "
+"various passwords, which does not meet the setting conditions"
+msgstr ""
+
+msgid ""
+"The minimum number of password categories is less than the minimum number of"
+" password control categories, and the minimum number control of some "
+"password categories is cleared"
+msgstr ""
+
+msgid "normal"
+msgstr "རྒྱུན་ལྡན།"
+
+msgid "Safe mode switching"
+msgstr ""
+
+msgid "Switch system security mode"
+msgstr ""
+
+msgid "default"
+msgstr "སོར་བཞག"
+
+msgid "Strict mode"
+msgstr ""
+
+msgid "customize"
+msgstr ""
+
+msgid "Select the need to enable the security module"
+msgstr ""
+
+msgid "Kylin Security"
+msgstr ""
+
+msgid "Separation of powers"
+msgstr ""
+
+msgid "SELinux"
+msgstr ""
+
+msgid "targeted"
+msgstr ""
+
+msgid "ukmls"
+msgstr ""
+
+msgid "Apparmor"
+msgstr ""
+
+msgid "Safe and Trusted Components"
+msgstr ""
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Memory"
+msgstr "དྲན་ཤེས།"
+
+msgid "firmware"
+msgstr ""
+
+msgid "trusted plugin"
+msgstr ""
+
+msgid "Baseline class"
+msgstr ""
+
+msgid "Virus defense"
+msgstr ""
+
+msgid "Look"
+msgstr "ཕྱི་ཚུལ།"
+
+msgid "Virus defense "
+msgstr ""
+
+msgid "     90day"
+msgstr ""
+
+msgid "     120day"
+msgstr ""
+
+msgid ""
+"When set to 3 times, the password \"9527ab_b\" will not be set successfully "
+"because the numeric characters appear 4 times in a row"
+msgstr ""
+
+msgid "QIANXIN Antivirus Software V8"
+msgstr ""
+
+msgid ""
+"Virus database update failed, please try again or open the app to use "
+"offline update"
+msgstr ""
+
+msgid "Open the application"
+msgstr ""
+
+msgid "Virus database update"
+msgstr ""
+
+msgid "Scan now"
+msgstr ""
+
+msgid "Update authorization"
+msgstr ""
+
+msgid "Current to-do items:"
+msgstr ""
+
+msgid "the state of Virus defense"
+msgstr ""
+
+msgid "The state of  Software update "
+msgstr ""
+
+msgid " Nothing to do"
+msgstr ""
+
+msgid "No virus threat found"
+msgstr ""
+
+msgid "No update available"
+msgstr ""
+
+msgid ""
+"There is a new version of the virus database, please upgrade immediately"
+msgstr ""
+
+msgid ""
+"It is recommended to perform scan tasks regularly to ensure system security"
+msgstr ""
+
+msgid "This scan found %d threats, which have been successfully dealt with"
+msgstr ""
+
+msgid "This scan found %d threats, please deal with them as soon as possible"
+msgstr ""
+
+msgid "If a threat is detected, a full scan is recommended immediately"
+msgstr ""
+
+msgid "QIANXIN Antivirus Software V8-%1"
+msgstr ""
+
+msgid ""
+"Technical support provided by Qi'AnXin Technology corporation Co., Ltd."
+msgstr ""
+
+msgid "unauthorized"
+msgstr ""
+
+msgid "kylin-ksc-defender"
+msgstr ""
+
+msgid "Security center"
+msgstr ""
+
+msgid "Home page"
+msgstr ""
+
+msgid "Applied executive control"
+msgstr ""
+
+msgid "closed"
+msgstr ""
+
+msgid "Default mode"
+msgstr ""
+
+msgid "self-defined"
+msgstr ""
+
+msgid "System safety mode switch..."
+msgstr ""
+
+msgid "System security mode switch, do not close!"
+msgstr ""
+
+msgid ""
+"Switch system security mode successfully, restart the system after effective"
+msgstr ""
+
+msgid "Failed to switch system security mode"
+msgstr ""
+
+msgid "executable"
+msgstr ""
+
+msgid "kernel module"
+msgstr ""
+
+msgid "Other files"
+msgstr ""

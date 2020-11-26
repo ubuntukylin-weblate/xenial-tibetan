@@ -1,0 +1,600 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-25 19:49+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: AboutDialog.cpp:13 AboutDialog.cpp:43 BoxManage.cpp:58 BoxManage.cpp:75
+#: ChangeBoxLockedDialog.cpp:9 CreateBoxDialog.cpp:10
+#: CreateBoxLockedDialog.cpp:10 MessageBox.cpp:8 PasswordAuthenticDialog.cpp:11
+#: PrivilegeSharedBoxDialog.cpp:14 RenameBoxDialog.cpp:9
+msgid "Kylin file protection box"
+msgstr "麒麟文件保护箱"
+
+#: AboutDialog.cpp:34
+msgid "about"
+msgstr "关于"
+
+#: AboutDialog.cpp:52
+msgid "Operating environment: kylin (V10)"
+msgstr "运行环境: 银河麒麟操作系统 (V10)"
+
+#: AboutDialog.cpp:61
+msgid "Secure kernel (3.0.0) and above"
+msgstr "安全内核 (3.0.0) 以上"
+
+#: AboutDialog.cpp:70
+msgid "Protective box kit (3.0.8) and above"
+msgstr "保护箱套件 (3.0.8) 以上"
+
+#: AboutDialog.cpp:79
+msgid "Software version: %1"
+msgstr "软件版本: %1"
+
+#: BoxFilterDialog.cpp:59
+msgid "All"
+msgstr "全部"
+
+#: BoxFilterDialog.cpp:65 BoxItemDelegate.cpp:92 BoxItemDelegate.cpp:97
+msgid "Yes"
+msgstr "是"
+
+#: BoxFilterDialog.cpp:71 BoxItemDelegate.cpp:94 BoxItemDelegate.cpp:99
+msgid "No"
+msgstr "否"
+
+#: BoxFilterDialog.cpp:77
+msgid "Personal creation"
+msgstr "个人创建"
+
+#: BoxFilterDialog.cpp:78
+msgid "Shared by others"
+msgstr "他人共享"
+
+#: BoxItemDelegate.cpp:102
+msgid "%1 Shared"
+msgstr "%1 共享"
+
+#: BoxItemDelegate.cpp:104
+msgid "Created by myself"
+msgstr "本人创建"
+
+#: BoxManage.cpp:79
+msgid "File protection box"
+msgstr "文件保护箱"
+
+#: BoxManage.cpp:87
+msgid ""
+"Provide data security protection, support isolation hiding, encryption "
+"protection and sharing of personal data"
+msgstr "提供数据安全保护，支持个人数据的隔离隐藏、加密保护和共享功能"
+
+#: BoxManage.cpp:98
+msgid "All protective boxes"
+msgstr "全部保护箱"
+
+#: BoxManage.cpp:110
+msgid "New"
+msgstr "新建"
+
+#: BoxManage.cpp:120 RightButtonMenu.cpp:141
+msgid "Delete"
+msgstr "删除"
+
+#: BoxManage.cpp:131 ChangeBoxLockedDialog.cpp:38 RightButtonMenu.cpp:142
+msgid "Password setting"
+msgstr "密码设置"
+
+#: BoxManage.cpp:142 PrivilegeSharedBoxDialog.cpp:18
+msgid "Sharing settings"
+msgstr "共享设置"
+
+#: BoxManage.cpp:223
+msgid "Millet porridge: Kylin"
+msgstr "小米粥:"
+
+#: BoxManage.cpp:228 RightButtonMenu.cpp:139
+msgid "Shared"
+msgstr "已共享"
+
+#: BoxManage.cpp:238 BoxManage.cpp:904
+msgid "Encrypted"
+msgstr "已加密"
+
+#: BoxManage.cpp:577 BoxManage.cpp:587
+msgid "Please select the protective box to be deleted! "
+msgstr "请选择要删除的保险箱!"
+
+#: BoxManage.cpp:597
+msgid "Unable to delete, please unmount the protective box first \"%1\" !"
+msgstr "无法删除，请先卸载保护箱 “%1” !"
+
+#: BoxManage.cpp:601 BoxManage.cpp:715 BoxManage.cpp:948
+msgid ""
+"The protection box is encrypted, please enter the password for authentication"
+msgstr "保护箱已加密，请输入密码认证"
+
+#: BoxManage.cpp:608
+msgid ""
+"The delete operation is irreversible, are you sure to delete the protective "
+"box \"%1\" ?"
+msgstr "删除操作不可逆，是否确认删除保护箱 “%1” ?"
+
+#: BoxManage.cpp:615
+msgid "Protective box \"%1\" failed to delete: %2"
+msgstr "保护箱 “%1” 删除失败:"
+
+#: BoxManage.cpp:638
+msgid "Please select the protective box that requires password setting !"
+msgstr "请选择需要进行密码设置的保护箱！"
+
+#: BoxManage.cpp:648
+msgid "Please select the protective box that requires password setting ! "
+msgstr "请选择需要进行密码设置的保护箱！"
+
+#: BoxManage.cpp:656
+msgid ""
+"Unable to set the password, please unmount the protection box first \"%1\" !"
+msgstr "无法进行密码设置，请先卸载保护箱 “%1” !"
+
+#: BoxManage.cpp:691 BoxManage.cpp:701
+msgid "Please select the protective box that needs to be shared! "
+msgstr "请选择需要进行共享设置的保护箱! "
+
+#: BoxManage.cpp:709
+msgid ""
+"Unable to set up sharing, please unmount the protection box first \"%1\" !"
+msgstr "无法进行共享设置，请先卸载保护箱 “%1” !"
+
+#: BoxManage.cpp:726
+msgid "Failed to load shared user list! "
+msgstr "加载共享用户列表失败！"
+
+#: BoxManage.cpp:887
+msgid "Protective box: %1 (from %2)"
+msgstr "保护箱：%1 (来自 %2)"
+
+#: BoxManage.cpp:892 ChangeBoxLockedDialog.cpp:50 CreateBoxLockedDialog.cpp:49
+msgid "Protective box: %1"
+msgstr "保护箱：%1"
+
+#: BoxManage.cpp:899
+msgid "Mounted"
+msgstr "已挂载"
+
+#: BoxManage.cpp:910 BoxManage.cpp:917
+msgid "Protective box: %1 item"
+msgstr "保护箱：%1 项"
+
+#: BoxManage.cpp:930 BoxManage.cpp:940
+msgid "Please select the protective box to be mounted! "
+msgstr "请选择需要挂载的保护箱！"
+
+#: BoxManage.cpp:975 BoxManage.cpp:985
+msgid "Please select the protective box to be Unmount! "
+msgstr "请选择需要卸载的保护箱! "
+
+#: BoxManage.cpp:994
+msgid "Protective box \"%1\" Unmount failed: %2"
+msgstr "保护箱 “%1” 卸载失败：%2"
+
+#: BoxManage.cpp:1014 BoxManage.cpp:1024
+msgid "Please select the protective box that needs to be renamed! "
+msgstr "请选择需要重命名的保护箱"
+
+#: BoxManage.cpp:1032
+msgid ""
+"Unable to rename operation, please unmount protective box first \"%1\" !"
+msgstr "无法进行重命名操作，请先卸载保护箱 “%1” !"
+
+#: BoxManagerProxy.cpp:395
+msgid ""
+"The current system does not support kylin file protection box related "
+"functions"
+msgstr "当前系统不支持麒麟文件保护箱相关功能"
+
+#: BoxManagerProxy.cpp:397 BoxManagerProxy.cpp:431
+msgid "Invalid username"
+msgstr "无效用户名"
+
+#: BoxManagerProxy.cpp:399
+msgid "Username is too long"
+msgstr "用户名太长"
+
+#: BoxManagerProxy.cpp:401
+msgid "Kylin file protection box system environment is not initialized"
+msgstr "麒麟文件保护箱系统环境未初始化"
+
+#: BoxManagerProxy.cpp:403
+msgid "The system configuration is corrupted"
+msgstr "系统配置已损坏"
+
+#: BoxManagerProxy.cpp:405
+msgid "System configuration failed"
+msgstr "系统配置失败"
+
+#: BoxManagerProxy.cpp:407
+msgid "The protection box configuration is damaged"
+msgstr "保护箱配置已损坏"
+
+#: BoxManagerProxy.cpp:409
+msgid "Password length exceeds limit"
+msgstr "密码长度超出限制"
+
+#: BoxManagerProxy.cpp:411
+msgid "The current system does not support encryption"
+msgstr "当前系统不支持加密功能"
+
+#: BoxManagerProxy.cpp:413 BoxManagerProxy.cpp:429
+msgid "The protective box is mounted"
+msgstr "保护箱已挂载"
+
+#: BoxManagerProxy.cpp:415
+msgid "The protective box is decrypted"
+msgstr "保护箱已解密"
+
+#: BoxManagerProxy.cpp:417
+msgid "Failed to delete protective box"
+msgstr "删除保护箱失败"
+
+#: BoxManagerProxy.cpp:419
+msgid "Failed to mount the protection box"
+msgstr "保护箱挂载失败"
+
+#: BoxManagerProxy.cpp:421
+msgid "Data restore failed"
+msgstr "数据还原失败"
+
+#: BoxManagerProxy.cpp:423
+msgid "Protection box unmount failed"
+msgstr "保护箱卸载失败"
+
+#: BoxManagerProxy.cpp:425
+msgid "The protective box is not mounted"
+msgstr "保护箱未挂载"
+
+#: BoxManagerProxy.cpp:427
+msgid "The protection box is not encrypted"
+msgstr "保护箱未加密"
+
+#: BoxManagerProxy.cpp:433
+msgid "Wrong password"
+msgstr "密码错误"
+
+#: BoxManagerProxy.cpp:435 BoxManagerProxy.cpp:437
+msgid "Invalid protection box name"
+msgstr "无效保护箱名称"
+
+#: BoxManagerProxy.cpp:439
+msgid "Unknown mistake"
+msgstr "未知错误"
+
+#: BoxTabelHeaderView.cpp:22 CreateBoxDialog.cpp:51
+msgid "name"
+msgstr "名称"
+
+#: BoxTabelHeaderView.cpp:25 CreateBoxDialog.cpp:96
+msgid "Whether to encrypt"
+msgstr "是否加密"
+
+#: BoxTabelHeaderView.cpp:30
+msgid "Whether to share"
+msgstr "是否共享"
+
+#: BoxTabelHeaderView.cpp:35
+msgid "From"
+msgstr "来自于"
+
+#: BoxTableModel.cpp:64
+msgid "           name"
+msgstr "         名称"
+
+#: BoxTableModel.cpp:66
+msgid "  Whether to encrypt"
+msgstr "  是否加密"
+
+#: BoxTableModel.cpp:68
+msgid "  Whether to share"
+msgstr "  是否共享"
+
+#: BoxTableModel.cpp:70
+msgid "  Owner"
+msgstr "  拥有者"
+
+#: ChangeBoxLockedDialog.cpp:40
+msgid "Change password settings"
+msgstr "更改密码设置"
+
+#: ChangeBoxLockedDialog.cpp:62
+msgid "Change method: "
+msgstr "更改方式: "
+
+#: ChangeBoxLockedDialog.cpp:69
+msgid "Change Password"
+msgstr "修改密码"
+
+#: ChangeBoxLockedDialog.cpp:73
+msgid "Unprotect"
+msgstr "解除保护"
+
+#: ChangeBoxLockedDialog.cpp:84
+msgid "Current password"
+msgstr "当前密码"
+
+#: ChangeBoxLockedDialog.cpp:105
+msgid "New password"
+msgstr "新密码"
+
+#: ChangeBoxLockedDialog.cpp:127
+msgid "New key confirmation"
+msgstr "新密码确认"
+
+#: ChangeBoxLockedDialog.cpp:161 CreateBoxDialog.cpp:166
+#: CreateBoxLockedDialog.cpp:119 MessageBox.cpp:129
+#: PasswordAuthenticDialog.cpp:115 RenameBoxDialog.cpp:105
+msgid "Confirm"
+msgstr "确认"
+
+#: ChangeBoxLockedDialog.cpp:167 CreateBoxDialog.cpp:172
+#: CreateBoxLockedDialog.cpp:125 MessageBox.cpp:138
+#: PasswordAuthenticDialog.cpp:121 PrivilegeSharedBoxDialog.cpp:87
+#: RenameBoxDialog.cpp:111
+msgid "Cancel"
+msgstr "取消"
+
+#: ChangeBoxLockedDialog.cpp:293
+msgid ""
+"The protection box whose password needs to be changed is not selected, "
+"please select and modify again!  "
+msgstr "未选定须修改密码的保护箱，请选择后重新修改！"
+
+#: ChangeBoxLockedDialog.cpp:299
+msgid "The original password cannot be empty"
+msgstr "原密码不可为空"
+
+#: ChangeBoxLockedDialog.cpp:306
+msgid "New password cannot be empty"
+msgstr "新密码不可为空"
+
+#: ChangeBoxLockedDialog.cpp:313
+msgid "New password confirmation cannot be empty"
+msgstr "新密码确认不可为空"
+
+#: ChangeBoxLockedDialog.cpp:320
+msgid "The new password does not match the confirmed password"
+msgstr "新密码与确认密码不一致"
+
+#: ChangeBoxLockedDialog.cpp:336
+msgid "Protective box \"%1\" Password modification failed: %2"
+msgstr "保护箱 “%1” 密码修改失败: %2 "
+
+#: ChangeBoxLockedDialog.cpp:347
+msgid "Confirm password cannot be empty"
+msgstr "确认密码不可为空"
+
+#: ChangeBoxLockedDialog.cpp:355
+msgid "Protective box \"%1\" Password unlock failed: %2"
+msgstr "保护箱 “%1” 密码解除失败: %2"
+
+#: CreateBoxDialog.cpp:39 CreateBoxDialog.cpp:41
+msgid "Create a protective box"
+msgstr "创建保护箱"
+
+#: CreateBoxDialog.cpp:71
+msgid "Path"
+msgstr "路径"
+
+#: CreateBoxDialog.cpp:109 CreateBoxLockedDialog.cpp:61
+#: PasswordAuthenticDialog.cpp:80
+msgid "Password"
+msgstr "密码"
+
+#: CreateBoxDialog.cpp:131 CreateBoxLockedDialog.cpp:84
+msgid "Confirm password"
+msgstr "确认密码"
+
+#: CreateBoxDialog.cpp:251
+msgid "The name of the protective box cannot be empty"
+msgstr "保护箱名称不可为空"
+
+#: CreateBoxDialog.cpp:260 CreateBoxLockedDialog.cpp:175
+msgid "The password cannot be empty"
+msgstr "密码不可为空"
+
+#: CreateBoxDialog.cpp:268
+msgid ""
+"The password format does not match the requirements/npassword require: The "
+"password is 6-18 digits long and can only contain letters, Numbers, and "
+"underscores"
+msgstr "密码格式与要求不符/n密码要求：密码长度6-18位，只能包含字母、数字和下划线"
+
+#: CreateBoxDialog.cpp:275 CreateBoxLockedDialog.cpp:183
+msgid "Confirm that the password cannot be empty"
+msgstr "确认密码不可为空"
+
+#: CreateBoxDialog.cpp:282 CreateBoxLockedDialog.cpp:190
+msgid "The password and the confirmation password are inconsistent"
+msgstr "密码和确认密码不一致"
+
+#: CreateBoxDialog.cpp:295
+msgid "Failed to create protective box: %1"
+msgstr "创建保护箱失败: %1"
+
+#: CreateBoxLockedDialog.cpp:37
+msgid "Create password"
+msgstr "创建密码"
+
+#: CreateBoxLockedDialog.cpp:39
+msgid "Create a protection box password"
+msgstr "创建保护箱密码"
+
+#: CreateBoxLockedDialog.cpp:206
+msgid "Protective box \"%1\" Failed to create password: %2"
+msgstr "保护箱 “%1” 创建密码失败: %2 "
+
+#: main.cpp:74
+msgid ""
+"The current system does not support Kylin file protection box related "
+"functions! "
+msgstr "当前系统不支持麒麟文件保护箱相关功能"
+
+#: main.cpp:82
+msgid "Failed to initialize Kylin file protection box module! "
+msgstr "初始化麒麟文件保护箱模块失败"
+
+#: main.cpp:89
+msgid "Don't run boxadm using su, sudo! "
+msgstr "请勿使用su、sudo运行麒麟文件保护箱"
+
+#: MessageBox.cpp:32
+msgid "Ask"
+msgstr "询问"
+
+#: MessageBox.cpp:42
+msgid "Prompt"
+msgstr "提示"
+
+#: MessageBox.cpp:51
+msgid "Warning"
+msgstr "警告"
+
+#: MessageBox.cpp:60
+msgid "Complete"
+msgstr "完成"
+
+#: PasswordAuthenticDialog.cpp:54
+msgid "Password authentication"
+msgstr "密码认证"
+
+#: PasswordAuthenticDialog.cpp:56
+msgid "Mounting protection box"
+msgstr "保护箱挂载"
+
+#: PasswordAuthenticDialog.cpp:68
+msgid "protection box: %1"
+msgstr "保护箱: %1"
+
+#: PasswordAuthenticDialog.cpp:169
+msgid "Password cannot be empty"
+msgstr "密码不可为空"
+
+#: PasswordAuthenticDialog.cpp:181 RenameBoxDialog.cpp:182
+msgid ""
+"Password authentication failed, please confirm the password and re-"
+"authenticate"
+msgstr "密码认证失败，请确认密码后重新认证"
+
+#: PasswordAuthenticDialog.cpp:192
+msgid "Failed to mount the protection box, please check: %1"
+msgstr "保护箱挂载失败，请检查: %1"
+
+#: PrivilegeSharedBoxDialog.cpp:45
+msgid "For \"%1\"Set sharing permissions"
+msgstr "为“%1”设置共享权限"
+
+#: PrivilegeSharedBoxDialog.cpp:81
+msgid "application"
+msgstr "应用"
+
+#: PrivilegeSharedBoxDialog.cpp:207
+msgid "Protection box \"%1\" Failed to set sharing permissions! "
+msgstr "保护箱 “%1” 设置共享权限失败! "
+
+#: PrivilegeSharedBoxDialog.cpp:213
+msgid ""
+"Protection box \"%1\" Some user permissions failed to share, please share "
+"again! "
+msgstr "保护箱 “%1” 部分用户权限共享失败，请重新共享! "
+
+#: PrivilegeSharedBoxDialog.cpp:218
+msgid "Protection box \"%1\" Successfully set sharing permissions! "
+msgstr "保护箱 “%1” 设置共享权限成功! "
+
+#: PrivilegeSharedItemDelegate.cpp:35 PrivilegeSharedItemDelegate.cpp:37
+msgid "Read only"
+msgstr "仅读取"
+
+#: PrivilegeSharedItemDelegate.cpp:43 PrivilegeSharedItemDelegate.cpp:45
+msgid "Read and write"
+msgstr "可读写"
+
+#: RenameBoxDialog.cpp:36 RightButtonMenu.cpp:140
+msgid "Rename"
+msgstr "重命名"
+
+#: RenameBoxDialog.cpp:38
+msgid "For\"%1\"Rename the protective box"
+msgstr "为\"%1\"保护箱重命名"
+
+#: RenameBoxDialog.cpp:48
+msgid "New name"
+msgstr "新名称"
+
+#: RenameBoxDialog.cpp:70
+msgid "Password validation"
+msgstr "密码验证"
+
+#: RenameBoxDialog.cpp:165
+msgid "The new name of the protective box cannot be empty"
+msgstr "保护箱新名称不可为空"
+
+#: RenameBoxDialog.cpp:174
+msgid "The password of the protection box cannot be empty"
+msgstr "保护箱密码不可为空"
+
+#: RenameBoxDialog.cpp:191
+msgid "Protection box \"%1\" Rename failed: %2"
+msgstr "保护箱 “%1” 重命名失败: %2"
+
+#: RightButtonMenu.cpp:137
+msgid "Mount"
+msgstr "挂载"
+
+#: RightButtonMenu.cpp:138
+msgid "Unmount"
+msgstr "卸载"
+
+#: TitleBar.cpp:139
+msgid "Close"
+msgstr "关闭"
+
+#: TitleBar.cpp:145
+msgid "Minimize"
+msgstr "最小化"
+
+#: TitleBar.cpp:151
+msgid "Menu"
+msgstr "菜单"
+
+#: TitleBar.cpp:157
+msgid "Return"
+msgstr "返回"
+
+#: MainMenu.cpp:23
+msgid "Help manual"
+msgstr "帮助手册"
+
+#: RenameBoxDialog.cpp:11
+msgid "Rename the protective box"
+msgstr "重命名保护箱"
+
+#: MainMenu.cpp:24
+msgid "About"
+msgstr "关于"
+
+
+
+
