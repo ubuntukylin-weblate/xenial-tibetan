@@ -59,7 +59,7 @@
     <message>
         <location filename="chatwidget.ui" line="264"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>དོར་བ།</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="361"/>
@@ -103,7 +103,7 @@
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="67"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="79"/>
@@ -141,12 +141,12 @@
     <message>
         <location filename="qml/dukto/TabBar.qml" line="60"/>
         <source>Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེ་ཆར།</translation>
     </message>
     <message>
         <location filename="qml/dukto/TabBar.qml" line="82"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>འབྲེལ་ཡོད།</translation>
     </message>
 </context>
 <context>
@@ -164,7 +164,7 @@
     <message>
         <location filename="qml/dukto/ToolBar.qml" line="123"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་འགོད།</translation>
     </message>
 </context>
 </TS>
