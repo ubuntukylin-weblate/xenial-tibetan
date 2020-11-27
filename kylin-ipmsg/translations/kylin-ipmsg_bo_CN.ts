@@ -64,7 +64,7 @@
     <message>
         <location filename="chatwidget.ui" line="361"/>
         <source>Receiving files...</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་དང་ལེན་བྱེད་སྒང་།</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="459"/>
