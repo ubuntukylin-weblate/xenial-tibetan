@@ -69,12 +69,12 @@
     <message>
         <location filename="chatwidget.ui" line="459"/>
         <source>Change nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟུར་མཆན་བཟོ་བཅོས།</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="478"/>
         <source>Confirm change</source>
-        <translation type="unfinished"></translation>
+        <translation>བཟོ་བཅོས་ངོས་ལེན།</translation>
     </message>
 </context>
 <context>
@@ -82,7 +82,7 @@
     <message>
         <location filename="qml/dukto/IpPage.qml" line="104"/>
         <source>Your IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ཀྱིIPས་གནས</translation>
     </message>
 </context>
 <context>
@@ -90,12 +90,12 @@
     <message>
         <location filename="qml/dukto/RecentPage.qml" line="48"/>
         <source>Sorry, there is nothing yet...</source>
-        <translation type="unfinished"></translation>
+        <translation>དགོངས་དག ཁྱེད་ལ་འཕྲིན་ཐུང་གང་ཡང་འབྱོར་མ་སོང་།</translation>
     </message>
     <message>
         <location filename="qml/dukto/RecentPage.qml" line="125"/>
         <source>Recent </source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེ་ལམ་གླེང་མོལ། </translation>
     </message>
 </context>
 <context>
@@ -103,32 +103,32 @@
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="67"/>
         <source>Settings</source>
-        <translation>སྒྲིག་འགོད།</translation>
+        <translation>འདེམས་བྱང་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="79"/>
         <source>File Receive Path</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཉར་ཚགས་དཀར་ཆག</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="120"/>
         <source>Change Path</source>
-        <translation type="unfinished"></translation>
+        <translation>དཀར་ཆག་བཅོས་སྒྱུར།</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="131"/>
         <source>Theme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྗོད་དོན་ཁ་མདོག</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="234"/>
         <source>User Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན་ལག་དེབ།</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="245"/>
         <source>View Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྟ་བཤེར་ལག་དེབ།</translation>
     </message>
 </context>
 <context>
@@ -136,7 +136,7 @@
     <message>
         <location filename="qml/dukto/TabBar.qml" line="39"/>
         <source>Buddy</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲོགས་མཆེད།</translation>
     </message>
     <message>
         <location filename="qml/dukto/TabBar.qml" line="60"/>
@@ -154,12 +154,12 @@
     <message>
         <location filename="qml/dukto/ToolBar.qml" line="71"/>
         <source>Received Files</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་དང་ལེན་བྱས།</translation>
     </message>
     <message>
         <location filename="qml/dukto/ToolBar.qml" line="98"/>
         <source>My IP Addr</source>
-        <translation type="unfinished"></translation>
+        <translation>ངའི་IPས་གནས།</translation>
     </message>
     <message>
         <location filename="qml/dukto/ToolBar.qml" line="123"/>
