@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>འབྲེལ་ཡོད།</translation>
     </message>
     <message>
         <source>Code website:</source>
@@ -136,7 +136,7 @@
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱས་རྗེས་འབུལ་མཁན།</translation>
     </message>
     <message>
         <source>Developer&apos;s personal home page:</source>
