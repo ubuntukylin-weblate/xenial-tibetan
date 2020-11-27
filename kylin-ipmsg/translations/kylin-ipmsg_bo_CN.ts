@@ -6,22 +6,22 @@
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="44"/>
         <source>Kylin Ipmsg</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་འཕྲིན་སྐྱེལ།</translation>
     </message>
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="66"/>
         <source>Provide text chat and file transfer function with no server. </source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་འདིས་ཁྱབ་ཆུང་དྲ་བའི་ནང་རོལ་གྱི་ཡི་གེའི་གླེང་མོལ་དང་ཡིག་ཆ་སྐྱེལ་འདྲེན་བྱེད་པའི་ནུས་པ་འདོན་སྤྲོད་བྱས་རྐྱེན་ཞབས་ཞུ་ཆས་མི་དགོས། </translation>
     </message>
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="67"/>
         <source>Mult person concurrency. </source>
-        <translation type="unfinished"></translation>
+        <translation>མི་མང་པོས་དུས་མཉམ་དུ་སྤྱད་ཆོག་པ་དང་སྐུར་ལེན་མཉམ་བགྲོད་བྱ་ཆོག </translation>
     </message>
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="68"/>
         <source>The UI resources comes from Dukto</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ངོས་རྒྱུ་ཆ་ནི་ཨང་རྗེན་མཉེན་ཆསDuktoལས་བྱུང་བ་ཡིན།</translation>
     </message>
 </context>
 <context>
@@ -29,32 +29,32 @@
     <message>
         <location filename="chatwidget.ui" line="14"/>
         <source>Kylin Ipmsg</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་འཕྲིན་སྐྱེལ།</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="36"/>
         <source>Send Text (Enter)</source>
-        <translation type="unfinished"></translation>
+        <translation>འཕྲིན་ཐུང་སྐུར།(Enter)</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="49"/>
         <source>Send Files</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་སྐུར་བ།</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="62"/>
         <source>Send Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཁུག་སྐུར་བ།</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="80"/>
         <source>Chat Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>འཕྲིན་ཐུང་འཆར་ངོས།</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="251"/>
         <source>Sending files...</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་སྐུར་བའི་སྒང་།</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="264"/>
