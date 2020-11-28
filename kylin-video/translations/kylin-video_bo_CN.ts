@@ -2469,7 +2469,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ངེས་མེད།</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
