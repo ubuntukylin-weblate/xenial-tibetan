@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>འབྲེལ་ཡོད།</translation>
     </message>
     <message>
         <source>Code website:</source>
@@ -136,7 +136,7 @@
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱས་རྗེས་འབུལ་མཁན།</translation>
     </message>
     <message>
         <source>Developer&apos;s personal home page:</source>
@@ -1343,7 +1343,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Ukrainian, Belarusian</source>
-        <translation>ཝུའུ་ཁི་ལན་གྱི་སྐད།  ཨུ་རུ་སུ་དཀར་པོ།</translation>
+        <translation>ཝུའུ་ཁི་ལན་གྱི་སྐད།ཨུ་རུ་སུ་དཀར་པོ།</translation>
     </message>
     <message>
         <source>Dzongkha</source>
@@ -1375,27 +1375,27 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Moldavian</source>
-        <translation type="unfinished"></translation>
+        <translation>མོར་ཏ་ཝེ་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Kurdish</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁུར་ཏའི་སྐད།</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>པའོ་ཅ་ལི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Lingala</source>
-        <translation type="unfinished"></translation>
+        <translation>ལིན་ཅ་ལའི་སྐད།</translation>
     </message>
     <message>
         <source>Maltese</source>
-        <translation type="unfinished"></translation>
+        <translation>མའར་ཐའི་སྐད།</translation>
     </message>
     <message>
         <source>Marathi</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལ་ཏིའི་སྐད།</translation>
     </message>
     <message>
         <source>Limburgan</source>
@@ -2469,7 +2469,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ངེས་མེད།</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>

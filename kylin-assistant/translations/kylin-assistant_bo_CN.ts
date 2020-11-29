@@ -6,48 +6,49 @@
     <message>
         <location filename="../aboutdialog.cpp" line="36"/>
         <source>About us</source>
-        <translation type="unfinished"></translation>
+        <translation>ང་ཚོ་དང་འབྲེལ་ཡོད།</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="86"/>
         <source>Kylin Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་ལག་རོགས།</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="92"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>འབྲེལ་ཡོད།</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
         <source>Contributor</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱས་རྗེས་འབུལ་མཁན།</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="129"/>
         <source>Maintainer:
 tang guang &lt;tangguang@kylinos.cn&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲུང་སྐྱོང་མཁན་ནི།
+tang guang &lt;tangguang@kylinos.cn&gt;</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="130"/>
         <source>&lt;p style=&apos;text-indent:15px&apos;&gt;Kylin Assistant is a powerful system supporting software which is developed by Kylin team. Mainly for the naive user, it can help users manage the system. At present, It provides system junk scanning and cleaning, viewing the system hardware and software information, task manager, and some other functions.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;text-indent:15px&apos;&gt;ཆི་ལིན་ལག་རོགས་ཞེས་པ་ནི་ཆི་ལིན་ཚོགས་པས་གསར་སྤེལ་བྱས་པའི་ནུས་པ་ཧ་ཅང་ཆེ་བའི་མ་ལག་གཞོགས་འདེགས་མཉེན་ཆས་ཤིག་ཡིན་ལ། གཙོ་བོ་དམའ་རིམ་བཀོལ་མཁན་ལ་བ་གཏད་ནས་བཀོལ་མཁན་གྱིས་མ་ལག་མདོ་དམ་བྱེད་པར་རོགས་རམ་བྱ་ཐུབ། མིག་སྔར་མ་ལག་གད་སྙིགས་བཤེར་འབེབས་དང་གཙང་སེལ། མ་ལག་སྲ་མཉེན་ཆས་ཆ་འཕྲིན་ལྟ་ཞིབ་དང་། མ་ལག་ཕྱོགས་ཡོངས་ནས་ཆེད་བཟོ་དང་ལས་འགན་དོ་དམ་ཆས་སོགས་ནུས་པ་ལྡན།&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="131"/>
         <source>&lt;p style=&apos;text-indent:15px&apos;&gt;The software is still under development. Please visit  kylin-assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;text-indent:15px&apos;&gt;ནུས་པ་རེ་རེ་ད་དུང་འཐུས་ཚང་དུ་གཏོང་བཞིན་ཡོད་ལ། ནུས་པ་དེ་ལས་མང་བ་མུ་མཐུད་དུ་གསར་སྤེལ་བྱ་རྒྱུ་ཡིན་པས་ཀུན་གྱིསUbuntu Kylinགཞུང་ཕྱོགས་དྲ་བར་ཡིད་འཇོག་འཚལ།</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="131"/>
         <source> for more information. Welcome everyone to join with us.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> ས་གནས། མཉེན་ཆས་གྱི་ད་ལྟའི་འཕེལ་ཚད་ལ་རྒྱུས་ལོན་བྱས་ནས་གནད་དོན་ཕྱིར་སློག་པ་དང་། རྒྱ་ཆེའི་བཀོལ་མཁན་དང་དགའ་ཞེན་མཁན་ལྷན་རྒྱས་མཉམ་དུ་ཞུགས་པར་དགའ་བསུ་ཞུ།</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="152"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒོ་རྒྱག</translation>
     </message>
 </context>
 <context>
@@ -55,7 +56,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/alertdialog.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -64,23 +65,23 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../boxwidget.cpp" line="155"/>
         <location filename="../boxwidget.cpp" line="157"/>
         <source>Kylin Software Center</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་མཉེན་ཆས་ཚོང་ཁང་།</translation>
     </message>
     <message>
         <location filename="../boxwidget.cpp" line="171"/>
         <location filename="../boxwidget.cpp" line="173"/>
         <source>systemmonitor</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་ལྟ་རྟོག་ཆས།</translation>
     </message>
     <message>
         <location filename="../boxwidget.cpp" line="237"/>
         <source>No software center was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་ལྟེ་གནས་རྙེད་མ་བྱུང་།！</translation>
     </message>
     <message>
         <location filename="../boxwidget.cpp" line="264"/>
         <source>No systemmonitor was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་ལྟ་རྟོག་ཆས་རྙེད་མ་བྱུང་།！</translation>
     </message>
 </context>
 <context>
@@ -88,12 +89,12 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/chartwidget.cpp" line="70"/>
         <source>two minute</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་གཉིས།</translation>
     </message>
     <message>
         <location filename="../../component/chartwidget.cpp" line="71"/>
         <source>one minute</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་གང་།</translation>
     </message>
 </context>
 <context>
@@ -101,7 +102,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/cleansubgroup.cpp" line="52"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>མཚན་ཉིད་རང་འགོད།</translation>
     </message>
 </context>
 <context>
@@ -110,132 +111,132 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="93"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="328"/>
         <source>Computer scan in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཀླད་བཤེར་འབེབས་བྱེད་བཞིན་པའི་སྒང་།...</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>དོར་བ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="120"/>
         <source>Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐེབ་གཅིག་གིས་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="138"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="151"/>
         <source>Return</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱིར་ལོག་པ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="197"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="325"/>
         <source>System cache</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་བར་འདུམ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="204"/>
         <source>Clear package、thumbnails and browser cache</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་ཁུག་མ་དང་རགས་བསྡུས་རི་མོ། ལྟ་བཤེར་ཆས་ཀྱི་བར་འདུམ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="210"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="257"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>གནས་ཚུལ་ཞིབ་རྒྱས།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="243"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="327"/>
         <source>Cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Cookies</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="251"/>
         <source>Clear internet、games、shopping history, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་བ་དང་རོལ་རྩེད། ཉོ་ཚོང་གི་ཟིན་ཐོ་གཙང་སེལ།etc.</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="290"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="326"/>
         <source>Historical trace</source>
-        <translation type="unfinished"></translation>
+        <translation>ལོ་རྒྱུས་རྗེས་ཤུལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="297"/>
         <source>Clear browser and system usage traces</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྟ་བཤེར་ཆས་དང་མ་ལག་བཀོལ་བའི་རྗེས་ཤུལ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="451"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="834"/>
         <source>Computer cleanup in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཀླད་གཙང་སེལ་བྱེད་སྒང་།...</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="589"/>
         <source> historical use traces</source>
-        <translation type="unfinished"></translation>
+        <translation> ལོ་རྒྱུས་གྱི་བཀོལ་བའི་རྗེས་ཤུལ་ཨང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="596"/>
         <source>Cleanable cookie </source>
-        <translation type="unfinished"></translation>
+        <translation>cookieགཙང་སེལ། </translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="596"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="743"/>
         <source> items</source>
-        <translation type="unfinished"></translation>
+        <translation> འདེམས་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="604"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="606"/>
         <source>Cleanable cache </source>
-        <translation type="unfinished"></translation>
+        <translation>བར་འདུམ་སེལ་རུང་། </translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="615"/>
         <source>There&apos;s nothing to clean up.</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱ་མི་དགོས།.</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="621"/>
         <source>Complete!</source>
-        <translation type="unfinished"></translation>
+        <translation>བཤེར་འབེབས་ལེགས་འགྲུབ!</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="698"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="699"/>
         <source>Cleanable Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>བར་འདུམ་གཙང་སེལ་རུང་བ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="705"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="706"/>
         <source>Cleanable Cookie</source>
-        <translation type="unfinished"></translation>
+        <translation>Cookieགཙང་སེལ་རུང་བ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="729"/>
         <source>Clear </source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ </translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="729"/>
         <source> historical traces</source>
-        <translation type="unfinished"></translation>
+        <translation> ལོ་རྒྱུས་ཟིན་ཐོ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="743"/>
         <source>Clear cookie </source>
-        <translation type="unfinished"></translation>
+        <translation>cookieགཙང་སེལ། </translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="757"/>
         <source>Clear cache </source>
-        <translation type="unfinished"></translation>
+        <translation>བར་འདུམ་གཙང་སེལ། </translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="848"/>
@@ -245,33 +246,33 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="958"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="959"/>
         <source>Cleaning up......</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱེད་སྒང་།......</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="864"/>
         <source>Clearance completed!</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱས་ཚར！</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="942"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="943"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="944"/>
         <source>Cleaning up</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱེད་སྒང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="947"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="948"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="949"/>
         <source>Cleaning up..</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱེད་སྒང་།..</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="952"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="953"/>
         <location filename="../../cleaner/cleandetailveiw.cpp" line="954"/>
         <source>Cleaning up....</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱེད་སྒང་།......</translation>
     </message>
 </context>
 <context>
@@ -279,120 +280,120 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="39"/>
         <source>No garbage</source>
-        <translation type="unfinished"></translation>
+        <translation>གད་སྙིགས་རྙེད་མ་བྱུང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="484"/>
         <source>Apt Cache count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ap བར་འདུམ་བསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="536"/>
         <source>Software Cache count:</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་ལྟེ་གནས་ཀྱི་བར་འདུམ་བསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="587"/>
         <source>Thumbnails Cache Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>རགས་བསྡུས་རི་མོའི་བར་འདུམ་བསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="638"/>
         <source>Firefox Cache Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefox ལྟ་བཤེར་ཆས་ཀྱི་བར་འདུམ་བསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="687"/>
         <source>Chromium Cache Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromiumལྟ་བཤེར་ཆས་ཀྱི་བར་འདུམ་བསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="740"/>
         <source>Firefox Cookies Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefox Cookiesབསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="790"/>
         <source>Chromium Cookies Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium Cookies བསྡོམས་གྲངས་ནི:</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="839"/>
         <source>Firefox History Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefox ལོ་རྒྱུས་ཟིན་ཐོའི་བསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="875"/>
         <source>Chromium History Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium ལོ་རྒྱུས་ཟིན་ཐོའི་བསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="912"/>
         <source>System History Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་གི་ལོ་རྒྱུས་རྗེས་ཤུལ་་བསྡོམས་གྲངས་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="951"/>
         <source>Command history size:</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀའ་བརྡའི་ལོ་རྒྱུས་ཟིན་ཐོའི་ཆེ་ཆུང་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="991"/>
         <source>Debug log:</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚོད་ལེན་ཉིན་ཐོ་ནི：</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1187"/>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1188"/>
         <source>Apt Cache Clean Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Aptབར་འདུམ་གཙང་སེལ་འདེམས་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1210"/>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1211"/>
         <source>Software Cache Clean Items</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་ལྟེ་གནས་ཀྱི་བར་འདུམ་གཙང་སེལ་འདེམས་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1232"/>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1233"/>
         <source>Thumbnails Cache Clean Items</source>
-        <translation type="unfinished"></translation>
+        <translation>རགས་བསྡུས་རི་མོའི་བར་འདུམ་གཙང་སེལ་འདེམས་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1253"/>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1254"/>
         <source>Firefox Cache Clean Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefox བར་འདུམ་གཙང་སེལ་འདེམས་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1274"/>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1275"/>
         <source>Chromium Cache Clean Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium བར་འདུམ་གཙང་སེལ་འདེམས་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1295"/>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1296"/>
         <source>Firefox Cookies Clean Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefox Cookies གཙང་སེལ་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1317"/>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1318"/>
         <source>Chromium Cookies Clean Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium Cookiesགཙང་སེལ་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1360"/>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1361"/>
         <source>Debug log Items</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚོད་ལེན་ཉིན་ཐོའི་བྱང་བུ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanerdetailwidget.cpp" line="1420"/>
         <source>Clean args is empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་ཞུགས་གྲངས་མེད་པར་བྱེད་པ！</translation>
     </message>
 </context>
 <context>
@@ -400,134 +401,134 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="61"/>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་བར་འདུམ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="67"/>
         <source>Clear package、thumbnails and browser cache</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་ཁུག་མ་དང་རགས་བསྡུས་རི་མོ། ལྟ་བཤེར་ཆས་བར་འདུམ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="99"/>
         <source>Cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Cookies</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="104"/>
         <source>Clear internet、games、shopping history, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་བ་དང་རོལ་རྩེད། ཉོ་ཚོང་གི་ཟིན་ཐོ་གཙང་སེལ།etc.</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="136"/>
         <source>Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>ལོ་རྒྱུས་རྗེས་ཤུལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="141"/>
         <source>Clear browser and system usage traces</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྟ་བཤེར་ཆས་དང་མ་ལག་བཀོལ་བའི་རྗེས་ཤུལ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="155"/>
         <source>Start Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་མགོ་ཚུགས།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="163"/>
         <source>Cleanup Package Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་ཁུག་མ་བར་འདུམ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="163"/>
         <source>Cleanup Software Center Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་ལྟེ་གནས་བར་འདུམ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="163"/>
         <source>Cleanup Thumbnails Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>རགས་བསྡུས་རི་མོའི་བར་འདུམ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="163"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="430"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="453"/>
         <source>Cleanup FireFox Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>མེ་ཝ་ལྟ་བཤེར་ཆས་ཀྱི་བར་འདུམ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="163"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="382"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="405"/>
         <source>Cleanup Chromium Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromiumབར་འདུམ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="165"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="437"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="460"/>
         <source>Cleanup the Cookies saving in Firefox</source>
-        <translation type="unfinished"></translation>
+        <translation>མེ་ཝ་ལྟ་བཤེར་ཆས་ཀྱིCookies་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="165"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="389"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="412"/>
         <source>Cleanup the Cookies saving in Chromium</source>
-        <translation type="unfinished"></translation>
+        <translation>ChromiumཡིCookies གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="167"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="444"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="467"/>
         <source>Clean up the Firefox Internet records</source>
-        <translation type="unfinished"></translation>
+        <translation>མེ་ཝའི་ལྟ་སྤྱོད་ཟིན་ཐོ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="167"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="396"/>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="419"/>
         <source>Clean up the Chromium Internet records</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium ལྟ་སྤྱོད་ཟིན་ཐོ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="167"/>
         <source>Clean up the recently opened documents records</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེ་ལམ་སྒོ་ཕྱེ་བའི་ཡིག་ཆའི་ཟིན་ཐོ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="167"/>
         <source>Delete the command history</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀའ་བརྡའི་ལོ་རྒྱུས་ཟིན་ཐོ་བསུབ་པ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="167"/>
         <source>Delete the debug logs</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚོད་ལེན་ཉིན་ཐོ་བསུབ་པ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="200"/>
         <source>Cleanup makes computers safer.</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུན་དུ་གཙང་སེལ་བྱས་ན། གློག་ཀླད་མགྱོགས་ལ་བདེ་འཇགས་ཡིན།.</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="357"/>
         <source>Scan args is empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>བཤེར་འབེབས་ཞུགས་གྲངས་ནི་སྟོང་བ་ཡིན！</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="488"/>
         <source>Cache Items</source>
-        <translation type="unfinished"></translation>
+        <translation>བར་འདུམ་འདེམས་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="513"/>
         <source>Cookies Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Itemsའདེམས་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="533"/>
         <source>Trace Items</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྟ་སྤྱོད་རྗེས་ཤུལ་འདེམས་བྱང་།</translation>
     </message>
 </context>
 <context>
@@ -535,47 +536,47 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="36"/>
         <source>Whether to apply?</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེར་སྤྱོད་བྱེད་མིན།?</translation>
     </message>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="119"/>
         <source>Current average CPU core frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའིCPU ཡི་ལྟེ་བའི་ཆ་སྙོམས་མ་ཟློས།</translation>
     </message>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="133"/>
         <source>CPU Management Strategy :</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU དོ་དམ་ཇུས་གཞི། :</translation>
     </message>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="146"/>
         <source>performance</source>
-        <translation type="unfinished"></translation>
+        <translation>གཤིས་ནུས་རྣམ་པ།</translation>
     </message>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="159"/>
         <source>powersave</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་གྲོན་རྣམ་པ།</translation>
     </message>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="172"/>
         <source>userspace</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན་རང་བཟོ།</translation>
     </message>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="219"/>
         <source>Current Frequency Adjustable Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་ཟློས་ཕྱོད་མཐོ་དམའ་བསྒྱུར་བའི་ཁོངས་ནི:</translation>
     </message>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="230"/>
         <source>CPU FM Note: There are some risks associated with the CPU FM function,please use caution! The computer needs to be restarted when the FM is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>CPUཡི་ཟློས་ཕྱོད་བརྗེ་བའི་གསལ་བཤད་ནི། CPUཟློས་ཕྱོད་བརྗེ་བའི་ནུས་པ་ལ་ཉེན་ཁ་ངེས་ཅན་ལྡན་པས་ཡིད་གཟབ་གནང་རོགས！ཟློས་ཕྱོད་བརྗེས་རྗེས་རྩིས་འཁོར་བསྐྱར་སློང་བྱ་དགོས།</translation>
     </message>
     <message>
         <location filename="../../component/cpufmwidget.cpp" line="242"/>
         <source>apply</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེར་སྤྱོད།</translation>
     </message>
 </context>
 <context>
@@ -583,27 +584,27 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="258"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་གཅོད་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="264"/>
         <source>Occupancy rate</source>
-        <translation type="unfinished"></translation>
+        <translation>བདག་བཟུང་ཕྱོད།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="270"/>
         <source>Idle rate</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁོམ་ལོང་ཕྱོད།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="276"/>
         <source>The running time of system</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་འཁོར་སྐྱོད་དུས་ཚོད།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="282"/>
         <source>The idle time of system</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་ཁོམ་ལོང་དུས་ཚོད།</translation>
     </message>
 </context>
 <context>
@@ -611,17 +612,17 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/drivepagewidget.cpp" line="86"/>
         <source>Immediately available driver information</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔར་འཆར་ཐུབ་པའི་སྐུལ་འགུལ་ཆ་འཕྲིན་མེད།</translation>
     </message>
     <message>
         <location filename="../../component/drivepagewidget.cpp" line="149"/>
         <source>Total, section </source>
-        <translation type="unfinished"></translation>
+        <translation>བསྡོམས་གྲངས། </translation>
     </message>
     <message>
         <location filename="../../component/drivepagewidget.cpp" line="149"/>
         <source> drivers</source>
-        <translation type="unfinished"></translation>
+        <translation> སྐུལ་འགུལ་ཆས།</translation>
     </message>
     <message>
         <location filename="../../component/drivepagewidget.cpp" line="159"/>
@@ -630,12 +631,12 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../component/drivepagewidget.cpp" line="187"/>
         <location filename="../../component/drivepagewidget.cpp" line="191"/>
         <source>MotherBoard</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་པང་འདེད་སྐུལ།</translation>
     </message>
     <message>
         <location filename="../../component/drivepagewidget.cpp" line="163"/>
         <source>Graphics-Card</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་བྱང་སྐུལ་འདེད།</translation>
     </message>
     <message>
         <location filename="../../component/drivepagewidget.cpp" line="175"/>
@@ -643,18 +644,18 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../component/drivepagewidget.cpp" line="199"/>
         <location filename="../../component/drivepagewidget.cpp" line="208"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུལ་འདེད་གཞན་པ།</translation>
     </message>
     <message>
         <location filename="../../component/drivepagewidget.cpp" line="179"/>
         <location filename="../../component/drivepagewidget.cpp" line="203"/>
         <source>Wired-Network-Card</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུད་ཡོད་དྲ་བྱང་སྐུལ་འདེད།</translation>
     </message>
     <message>
         <location filename="../../component/drivepagewidget.cpp" line="195"/>
         <source>Sound-Card</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་བྱང་སྐུལ་འདེད།</translation>
     </message>
 </context>
 <context>
@@ -662,7 +663,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../drivewidget.cpp" line="63"/>
         <source>All Drivers</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུལ་འདེད་ཚང་མ།</translation>
     </message>
 </context>
 <context>
@@ -670,100 +671,100 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../setting/energywidget.cpp" line="225"/>
         <source>CPU FM mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU ཟློས་བརྗེ་རྣམ་པ་ནི：</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="236"/>
         <source>Ondemand</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འགུལ་ཟློས་བརྗེ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="246"/>
         <source>Powersave</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་གྲོན་རྣམ་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="256"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>གཤིས་ནུས་རྣམ་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="444"/>
         <source>Adjust gamma</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁཱ་མ་ཐང་ལེགས་སྒྲིག</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="445"/>
         <source>Adjust brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཡོལ་གསལ་ཚད་ལེགས་སྒྲིག</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="446"/>
         <source>Time before session is considered idle</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་ཡུན་འདིའི་ནང་དུ་གྲགས་འགུལ་མེད་ན་བརྙན་ཡོལ་སྒོ་རྒྱག</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="447"/>
         <source>Lock screen</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཡོལ་ཟྭ་རྒྱག་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="448"/>
         <source>Lock delay</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་འགྱངས་ཟྭ་རྒྱག</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="449"/>
         <source>Battery critical low action</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྫས་ཚབས་ཆེན་མི་འདང་བའི་དུས།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="450"/>
         <source>Laptop lid close action on battery</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྫས་བཀོལ་ནས་ཁ་ལེབ་བརྒྱབ་དུས།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="451"/>
         <source>Laptop lid close action on AC</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཁུངས་བཀོལ་ནས་ཁ་ལེབ་རྒྱག་དུས།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="452"/>
         <source>Sleep timeout PC when on battery</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྫས་བཀོལ་རོགས། དུས་ཚོད་འདི་ཡོལ་རྗེས་གློག་ཀླད་གཉིས་ཁུག་པའི་རྣམ་པར་འགྲོ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="453"/>
         <source>Sleep timeout PC when on AC</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཁུངས་བཀོལ་རོགས། དུས་ཚོད་འདི་ཡོལ་རྗེས་གློག་ཀླད་གཉིད་ཁུག་པའི་རྣམ་པར་འགྲོ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="454"/>
         <source>Sleep timeout display when on battery</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྫས་བཀོལ་རོགས། དུས་ཚོད་འདི་ཡོལ་རྗེསབརྙན་ཡོལ་གཉིད་་ཁུག་པའི་རྣམ་པར་འགྲོ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="455"/>
         <source>Sleep timeout display when on AC</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཁུངས་བཀོལ་རོགས། དུས་ཚོད་འདི་ཡོལ་རྗེས་བརྙན་ཡོག་གཉིད་ཁུག་པའི་རྣམ་པར་འགྲོ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="456"/>
         <location filename="../../setting/energywidget.cpp" line="458"/>
         <location filename="../../setting/energywidget.cpp" line="460"/>
         <source>suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐབས་འགེལ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="457"/>
         <source>shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཁུངས་རྒྱག་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="459"/>
         <location filename="../../setting/energywidget.cpp" line="461"/>
         <source>nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་གཅོད་མི་བྱེད།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="677"/>
@@ -773,7 +774,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/energywidget.cpp" line="822"/>
         <location filename="../../setting/energywidget.cpp" line="844"/>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་ལྔ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="677"/>
@@ -783,7 +784,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/energywidget.cpp" line="822"/>
         <location filename="../../setting/energywidget.cpp" line="844"/>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་བཅུ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="677"/>
@@ -791,7 +792,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/energywidget.cpp" line="822"/>
         <location filename="../../setting/energywidget.cpp" line="844"/>
         <source>20 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་ཉི་ཤུ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="677"/>
@@ -801,7 +802,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/energywidget.cpp" line="822"/>
         <location filename="../../setting/energywidget.cpp" line="844"/>
         <source>Half an hour</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་སུམ་ཅུ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="677"/>
@@ -811,7 +812,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/energywidget.cpp" line="822"/>
         <location filename="../../setting/energywidget.cpp" line="844"/>
         <source>1 hour</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་ཚོད་གཅིག</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="677"/>
@@ -819,7 +820,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/energywidget.cpp" line="822"/>
         <location filename="../../setting/energywidget.cpp" line="844"/>
         <source>2 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་ཚོད་གཉིས།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="677"/>
@@ -828,35 +829,35 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/energywidget.cpp" line="822"/>
         <location filename="../../setting/energywidget.cpp" line="844"/>
         <source>never</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་ནས་མི་བྱེད།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="737"/>
         <location filename="../../setting/energywidget.cpp" line="772"/>
         <source>1 minute</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་གང་།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="737"/>
         <location filename="../../setting/energywidget.cpp" line="772"/>
         <source>2 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་གཉིས།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="737"/>
         <location filename="../../setting/energywidget.cpp" line="772"/>
         <source>3 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་མ་གསུམ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="772"/>
         <source>30 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐར་ཆ་སུམ་ཅུ།</translation>
     </message>
     <message>
         <location filename="../../setting/energywidget.cpp" line="772"/>
         <source>Turn off the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཡོལ་སྒོ་རྒྱག</translation>
     </message>
 </context>
 <context>
@@ -865,7 +866,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../component/fanwidget.cpp" line="102"/>
         <location filename="../../component/fanwidget.cpp" line="194"/>
         <source>The fan is working fine, averaging </source>
-        <translation type="unfinished"></translation>
+        <translation>རླུང་གཡང་འཁོར་སྐྱོད་རྒྱུན་ལྡན་ཡིན་ལ། ཆ་སྙོམས་ </translation>
     </message>
     <message>
         <location filename="../../component/fanwidget.cpp" line="102"/>
@@ -875,24 +876,24 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../component/fanwidget.cpp" line="195"/>
         <location filename="../../component/fanwidget.cpp" line="201"/>
         <source> rpm/s</source>
-        <translation type="unfinished"></translation>
+        <translation> rpm/s</translation>
     </message>
     <message>
         <location filename="../../component/fanwidget.cpp" line="111"/>
         <location filename="../../component/fanwidget.cpp" line="195"/>
         <source>Maximum </source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་མཐོ </translation>
     </message>
     <message>
         <location filename="../../component/fanwidget.cpp" line="111"/>
         <location filename="../../component/fanwidget.cpp" line="195"/>
         <source> rpm/s, minimum </source>
-        <translation type="unfinished"></translation>
+        <translation> rpm/s,ཆེས་དམའ </translation>
     </message>
     <message>
         <location filename="../../component/fanwidget.cpp" line="151"/>
         <source>current speed</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་འཁོར་ཚད།</translation>
     </message>
 </context>
 <context>
@@ -900,37 +901,37 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../setting/filemanagerwidget.cpp" line="239"/>
         <source>Display entry location</source>
-        <translation type="unfinished"></translation>
+        <translation>འཇུག་ལམ་ནང་འདྲེན་སྒྲོམ་གྱིས་འཇུག་ལམ་བྱང་བུའི་ཚབ་བྱེད་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/filemanagerwidget.cpp" line="240"/>
         <source>Automatically mount media</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འགུལ་འགེལ་འཇུག་སྨྱན་གཟུགས།</translation>
     </message>
     <message>
         <location filename="../../setting/filemanagerwidget.cpp" line="241"/>
         <source>Automatically open a folder</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འགུལ་གྱིས་ཡིག་ཆ་ཁུག་སྒོ་འབྱེད་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/filemanagerwidget.cpp" line="242"/>
         <source>Prompt autorun programs</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འགུལ་འཁོར་སྐྱོད་ཀྱི་བྱ་རིམ་གསལ་འདེབས།</translation>
     </message>
     <message>
         <location filename="../../setting/filemanagerwidget.cpp" line="243"/>
         <source>Thumbnail icon size (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>རགས་བསྡུས་རི་མོ་རིས་རྟགས་ཁྲི་ཚུན（རིས་རྒྱུ）</translation>
     </message>
     <message>
         <location filename="../../setting/filemanagerwidget.cpp" line="244"/>
         <source>Thumbnail cache time (days)</source>
-        <translation type="unfinished"></translation>
+        <translation>རགས་བསྡུས་རི་མོའི་བར་འདུམ་དུས་ཚོད (ཉིན་གྲངས)</translation>
     </message>
     <message>
         <location filename="../../setting/filemanagerwidget.cpp" line="245"/>
         <source>Maximum thumbnail cache size (MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་ཆེའི་རགས་བསྡུས་རི་མོའི་བར་འདུམ་ཁྲི་ཚུན (MB)</translation>
     </message>
 </context>
 <context>
@@ -938,7 +939,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../plugins/systemmonitor/filesystemdialog.cpp" line="60"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>གསར་བཅོས།</translation>
     </message>
 </context>
 <context>
@@ -947,44 +948,44 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="49"/>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="355"/>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="49"/>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="355"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>དཀར་ཆག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="49"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>རིགས་གྲས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="49"/>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>བསྡོམས་གྲངས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="49"/>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁོམ་དུས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="49"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་ཆོག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="49"/>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="355"/>
         <source>Used</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་ཟིན་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/filesystemlistwidget.cpp" line="433"/>
         <source>No File System Info</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་མ་ལག་གི་ཆ་འཕྲིན་རྙེད་མ་བྱུང་།</translation>
     </message>
 </context>
 <context>
@@ -996,47 +997,47 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/fontwidget.cpp" line="87"/>
         <location filename="../../setting/fontwidget.cpp" line="88"/>
         <source>Click here to change font</source>
-        <translation type="unfinished"></translation>
+        <translation>འདི་རུ་གནན་ནས་ཡིག་གཟུགས་བརྗེ།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="279"/>
         <source>Default Font</source>
-        <translation type="unfinished"></translation>
+        <translation>སོར་བཞག་ཡིག་གཟུགས།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="280"/>
         <source>Desktop Font</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅོག་ངོས་ཡིག་གཟུགས།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="281"/>
         <source>Monospace Font</source>
-        <translation type="unfinished"></translation>
+        <translation>ཞེང་མཚུངས་ཡིག་གཟུགས།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="282"/>
         <source>Document Font</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཚགས་ཡིག་གཟུགས།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="283"/>
         <source>Titlebar Font</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་བྱང་ཚན་པའི་ཡིག་གཟུགས།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="284"/>
         <source>Global Font Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀུན་ཁྱབ་ཡིག་གཟུགས་ཆུང་བསྡུ།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="285"/>
         <source>Hinting</source>
-        <translation type="unfinished"></translation>
+        <translation>འཇམ་འདྲེད།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="286"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>སོག་ལེའི་ཁ་ལྡོག་མ།</translation>
     </message>
     <message>
         <location filename="../../setting/fontwidget.cpp" line="287"/>
@@ -1045,7 +1046,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../../setting/fontwidget.cpp" line="290"/>
         <location filename="../../setting/fontwidget.cpp" line="291"/>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>སོར་འཇོག་སླར་གསོ།</translation>
     </message>
 </context>
 <context>
@@ -1053,22 +1054,22 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/generaldialog.cpp" line="64"/>
         <source>Remind</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིད་འཇོག</translation>
     </message>
     <message>
         <location filename="../../component/generaldialog.cpp" line="71"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེན་བརྡ།</translation>
     </message>
     <message>
         <location filename="../../component/generaldialog.cpp" line="85"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>དོར་བ།</translation>
     </message>
     <message>
         <location filename="../../component/generaldialog.cpp" line="100"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ།</translation>
     </message>
 </context>
 <context>
@@ -1076,32 +1077,32 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../setting/iconwidget.cpp" line="212"/>
         <source>Icon theme</source>
-        <translation type="unfinished"></translation>
+        <translation>རིས་རྟགས་བརྗོད་དོན།</translation>
     </message>
     <message>
         <location filename="../../setting/iconwidget.cpp" line="214"/>
         <source>Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>རྩིས་འཁོར།</translation>
     </message>
     <message>
         <location filename="../../setting/iconwidget.cpp" line="215"/>
         <source>Home Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན་དཀར་ཆག་དང་པོ།</translation>
     </message>
     <message>
         <location filename="../../setting/iconwidget.cpp" line="216"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་རྒྱ།</translation>
     </message>
     <message>
         <location filename="../../setting/iconwidget.cpp" line="217"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>གད་སྙིགས་སྒམ།</translation>
     </message>
     <message>
         <location filename="../../setting/iconwidget.cpp" line="218"/>
         <source>Mounted Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>འགེལ་འཇུག་སྤྱིན།</translation>
     </message>
 </context>
 <context>
@@ -1109,142 +1110,142 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../infowidget.cpp" line="106"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅོག་ངོས་ཁོར་ཡུག</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="116"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་གཅོད་ཆས།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="124"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="132"/>
         <source>Board</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་པང་།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="140"/>
         <source>HD</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་སྡེར།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="148"/>
         <source>NIC</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་གཱ</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="156"/>
         <source>Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>མངོན་འཆར།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="164"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་གཱ</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="172"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་འདྲེན་སྒྲིག་ཆས།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="180"/>
         <source>Battery</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྗས།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="188"/>
         <source>Sensor</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་ཆས་ཚོར་ཆས།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="275"/>
         <source>Computer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཀླད་མདོར་བསྟན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="329"/>
         <source>Desktop Info</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅོག་ངོས་ཁོར་ཡུག་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="364"/>
         <source>CPU Info</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་གཅོད་ཆས་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="405"/>
         <source>Memory Info</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག་བྱང་བུའི་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="447"/>
         <source>Memory Info %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག་ཆ་འཕྲིན %1</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="480"/>
         <source>Board Info</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་པང་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="525"/>
         <source>HardWare Info</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་སྡེར་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="567"/>
         <source>HardWare Info %1</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་སྡེར་ཆ་འཕྲིན%1</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="620"/>
         <source>NIC Info</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་གཱ་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="666"/>
         <source>NIC Info %1</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་གཱ་ཆ་འཕྲིན %1</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="710"/>
         <source>Monitor Info</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ཆས་དང་འཆར་གཱའི་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="750"/>
         <source>Monitor Info %1</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆས་ཆས་དང་འཆར་གཱའི་ཆ་འཕྲིན %1</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="794"/>
         <source>Audio Info</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་གཱའི་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="834"/>
         <source>Audio Info %1</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་གཱའི་ཆ་འཕྲིན%1</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="870"/>
         <source>Input Info</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་འདྲེན་སྒྲིག་ཆས་ཆ་འཕྲིན</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="914"/>
         <source>Battery Info</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྗས་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="1045"/>
         <source>Driver Info</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུལ་འདེད་ཆ་འཕྲིན།</translation>
     </message>
 </context>
 <context>
@@ -1252,52 +1253,52 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="48"/>
         <source>Font Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་གཟུགས་ཁ་བརྡའི་སྒྲོམ།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="274"/>
         <source>Current Font</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་སྔའི་ཡིག་གཟུགས།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="275"/>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་གཟུགས།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="276"/>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱད་ཆོས།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="277"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེ་ཆུང་།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="278"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐོང་རིས།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="279"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="280"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>དོར་བ།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="305"/>
         <source>Tips</source>
-        <translation type="unfinished"></translation>
+        <translation>གསལ་འདེབས།</translation>
     </message>
     <message>
         <location filename="../../component/kylinfontdialog.cpp" line="306"/>
         <source>You haven&apos;t change the font, please choose the font!</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ཀྱིས་ཡིག་གཟུགས་བརྗེས་མེད་པས། བརྗེ་བྱའི་ཡིག་གཟུགས་འདེམས་རོགས!</translation>
     </message>
 </context>
 <context>
@@ -1305,22 +1306,22 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/kylinmenu.cpp" line="206"/>
         <source>Check and update</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྟ་བཤེར་གསར་བརྗེ།</translation>
     </message>
     <message>
         <location filename="../../component/kylinmenu.cpp" line="207"/>
         <source>Forum Help</source>
-        <translation type="unfinished"></translation>
+        <translation>གླེང་སྟེགས་རོགས་ཞུ།</translation>
     </message>
     <message>
         <location filename="../../component/kylinmenu.cpp" line="208"/>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>གནད་དོན་ཕྱིར་སློག</translation>
     </message>
     <message>
         <location filename="../../component/kylinmenu.cpp" line="209"/>
         <source>About us</source>
-        <translation type="unfinished"></translation>
+        <translation>ང་ཚོ་དང་འབྲེལ་ཡོད།</translation>
     </message>
 </context>
 <context>
@@ -1328,12 +1329,12 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
     <message>
         <location filename="../../component/kylinswitcher.cpp" line="82"/>
         <source>ON</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒོ་ཕྱེ་ཟིན།</translation>
     </message>
     <message>
         <location filename="../../component/kylinswitcher.cpp" line="91"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒོ་བརྒྱབ་ཟིན།</translation>
     </message>
 </context>
 <context>
@@ -1343,19 +1344,21 @@ tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <location filename="../listwidget.cpp" line="145"/>
         <source>Local 
 System</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་གི་
+མ་ལག</translation>
     </message>
     <message>
         <location filename="../listwidget.cpp" line="66"/>
         <location filename="../listwidget.cpp" line="141"/>
         <source>Hardware 
 Information</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་ཆས
+ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../listwidget.cpp" line="171"/>
         <source>Computer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཀླད་མདོར་བསྟན།</translation>
     </message>
 </context>
 <context>
@@ -1363,37 +1366,37 @@ Information</source>
     <message>
         <location filename="../mainbottomwidget.cpp" line="216"/>
         <source>Current Version Number</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་པར་ཨང་།</translation>
     </message>
     <message>
         <location filename="../mainbottomwidget.cpp" line="217"/>
         <source>Update to the lastest version, make it work better</source>
-        <translation type="unfinished"></translation>
+        <translation>པར་གཞི་གསར་ཤོས་ཡིན་རྐྱེན་མཉེན་ཆས་ལྷག་ཏུ་བཀོལ་བདེ།</translation>
     </message>
     <message>
         <location filename="../mainbottomwidget.cpp" line="218"/>
         <source>updating on the backend</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱབ་རོལ་ན་རབས་བརྗེ་བཞིན་ཡོད།</translation>
     </message>
     <message>
         <location filename="../mainbottomwidget.cpp" line="219"/>
         <source>Common toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡོ་བྱད་སྒམ།</translation>
     </message>
     <message>
         <location filename="../mainbottomwidget.cpp" line="220"/>
         <source>Fast and practical, making the system more personalized</source>
-        <translation type="unfinished"></translation>
+        <translation>སྔར་བས་མགྱོགས་ལ་བཟང་བས་མ་ལག་ལ་རང་གཤིས་ལྡན།</translation>
     </message>
     <message>
         <location filename="../mainbottomwidget.cpp" line="239"/>
         <source>Upgrade is complete</source>
-        <translation type="unfinished"></translation>
+        <translation>རབས་བརྗེས་ཚར།</translation>
     </message>
     <message>
         <location filename="../mainbottomwidget.cpp" line="241"/>
         <source>Updating on the backend</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱབ་རོལ་ན་རབས་བརྗེ་བཞིན་པའི་སྒང་།</translation>
     </message>
 </context>
 <context>
@@ -1402,38 +1405,38 @@ Information</source>
         <location filename="../maintopwidget.cpp" line="71"/>
         <location filename="../maintopwidget.cpp" line="692"/>
         <source>The lastest cleanup time is </source>
-        <translation type="unfinished"></translation>
+        <translation>ཐེངས་སྔོན་མའི་གཙང་སེལ་དུས་ཚོད་ནི། </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="77"/>
         <location filename="../maintopwidget.cpp" line="830"/>
         <source>The lastest scan time is </source>
-        <translation type="unfinished"></translation>
+        <translation>ཐེངས་སྔོན་མའི་བཤེར་འབེབས་དུས་ཚོད་ནི། </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="81"/>
         <source>You have not implemented the one key scan and clean-up operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ཀྱིས་མཐེབ་གཅིག་བཤེར་འབེབས་དང་མཐེབ་གཅིག་གཙང་སེལ་བྱས་མེད།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="192"/>
         <source>Kylin Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་ལག་རོགས།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="388"/>
         <source>Scans</source>
-        <translation type="unfinished"></translation>
+        <translation>བཤེར་འབེབས།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="389"/>
         <source>Cleans up</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="390"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱིར་ལྡོག</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="391"/>
@@ -1441,152 +1444,152 @@ Information</source>
         <location filename="../maintopwidget.cpp" line="523"/>
         <location filename="../maintopwidget.cpp" line="786"/>
         <source>Scanning......</source>
-        <translation type="unfinished"></translation>
+        <translation>བཤེར་འབེབས་བྱེད་སྒང་།......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="394"/>
         <source>Quick clean up system trash, saving disk space and improving the system efficiency!</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐེབ་གཅིག་གིས་མ་ལག་གད་སྙིགས་གཙང་སེལ་བྱས་ནས་ཁྱེད་ལ་སྡུད་སྡེར་བར་སྟོང་གྲོན་ཆུང་བྱས་ཡོད་སྟབས། མ་ལག་འཁོར་སྐྱོད་སྔར་བས་ནུས་ཕྱོད་ལྡན!</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="395"/>
         <source>Scan Over</source>
-        <translation type="unfinished"></translation>
+        <translation>བཤར་འབེབས་བྱས་ཚར།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="398"/>
         <source>Cleans up history and caches</source>
-        <translation type="unfinished"></translation>
+        <translation>ལོ་རྒྱུས་ཟིན་ཐོ་དང་མ་ལག་བར་འདུམ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="415"/>
         <source>Clean OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱས་ཚར།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="421"/>
         <source>Cleaning: </source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱེད་བཞིན་པ: </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="425"/>
         <source>, Percent is: </source>
-        <translation type="unfinished"></translation>
+        <translation>,བསྒྲུབ་ཚད་ནི: </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="425"/>
         <source>%, Status is: </source>
-        <translation type="unfinished"></translation>
+        <translation>%, རྣམ་པ་ནི: </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="434"/>
         <source>Clean Firefox history......</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefox ཡི་ལོ་རྒྱུས་ཟིན་ཐོ་གཙང་སེལ......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="438"/>
         <source>Clean Chromium history......</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium ལོ་རྒྱུས་ཟིན་ཐོ་གཙང་སེལ......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="442"/>
         <source>Clean system history......</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་ལོ་རྒྱུས་རྗེས་ཤུལ་གཙང་སེལ......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="447"/>
         <source>Clean apt......</source>
-        <translation type="unfinished"></translation>
+        <translation>aptགཙང་སེལ......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="451"/>
         <source>Start clean apt......</source>
-        <translation type="unfinished"></translation>
+        <translation>aptགཙང་སེལ་བྱ་མགོ་བརྩམས......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="456"/>
         <source>Clean Firefox Cookie:</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefox ཡི་Cookieགཙང་སེལ:</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="460"/>
         <source>Clean Chromium Cookie:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium ཡི་Cookieགཙང་སེལ:</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="468"/>
         <location filename="../maintopwidget.cpp" line="553"/>
         <source> does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation> གནས་མེད།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="473"/>
         <source>Chromium Browser is running......</source>
-        <translation type="unfinished"></translation>
+        <translation>Browser འཁོར་སྐྱོད་བྱེད་བཞིན་པའི་སྒང་......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="481"/>
         <source>Cache Scan OK</source>
-        <translation type="unfinished"></translation>
+        <translation>བར་འདུམ་བཤེར་འབེབས་བྱས་ཚར།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="485"/>
         <source>Cookies Scan OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Cookies བཤེར་འབེབས་བྱས་ཚར།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="489"/>
         <source>History Scan OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ལོ་རྒྱུས་ཟིན་ཐོ་བཤེར་འབེབས་བྱས་ཚར།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="493"/>
         <source>Packages Scan OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁུག་མ་བཤེར་འབེབས་བྱས་ཚར།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="537"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>ནོར་འཁྲུལ: </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="540"/>
         <source>Firefox Browser does not be installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefox ལྟ་བཤེར་ཆས་ནང་འཇུག་བྱས་མེད།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="544"/>
         <source>Chromium Browser does not be installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium རགས་ལྟ་ཆས་ནང་འཇུག་བྱས་མེད།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="548"/>
         <source>Chromium Browser is running</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromiumརགས་ལྟ་ཆས་འཁོར་སྐྱོད་བྱེད་སྒང་།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="570"/>
         <source>Scanning:</source>
-        <translation type="unfinished"></translation>
+        <translation>བཤེར་འབེབས་སྒང་།:</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="587"/>
         <location filename="../maintopwidget.cpp" line="591"/>
         <location filename="../maintopwidget.cpp" line="602"/>
         <source> history trace; </source>
-        <translation type="unfinished"></translation>
+        <translation> ལོ་རྒྱུས་རྗེས་ཤུལ; </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="587"/>
         <location filename="../maintopwidget.cpp" line="612"/>
         <source> browser cookies.</source>
-        <translation type="unfinished"></translation>
+        <translation> རགས་ལྟ་ཆས་ཀྱི་cookies</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="591"/>
         <location filename="../maintopwidget.cpp" line="616"/>
         <source> browser cookies; </source>
-        <translation type="unfinished"></translation>
+        <translation> རགས་ལྟ་ཆས་ཀྱི་Cookies； </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="591"/>
@@ -1594,118 +1597,118 @@ Information</source>
         <location filename="../maintopwidget.cpp" line="616"/>
         <location filename="../maintopwidget.cpp" line="627"/>
         <source> garbage.</source>
-        <translation type="unfinished"></translation>
+        <translation> གད་སྙིགས།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="598"/>
         <source> history trace.</source>
-        <translation type="unfinished"></translation>
+        <translation> ལོ་རྒྱུས་རྗེས་ཤུལ</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="632"/>
         <source>No garbage.</source>
-        <translation type="unfinished"></translation>
+        <translation>གད་སྙིགས་བཤེར་འབེབས་བྱས་མ་སོང་།</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="677"/>
         <source>Cleaning......</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་སྒང་།......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="681"/>
         <source>Garbage Cleanup OK......</source>
-        <translation type="unfinished"></translation>
+        <translation>གད་སྙིགས་གཙང་སེལ་བྱས་ཚར......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="684"/>
         <source>History Cleanup OK......</source>
-        <translation type="unfinished"></translation>
+        <translation>ལོ་རྒྱུས་ཟིན་ཐོ་གཙང་སེལ་བྱས་ཚར......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="687"/>
         <source>Cookies Cleanup OK......</source>
-        <translation type="unfinished"></translation>
+        <translation>Cookies གཙང་སེལ་བྱས་ཚར......</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="693"/>
         <source>Cleanup Cookies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cookies གཙང་སེལ་བྱས:</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="693"/>
         <source>; Garbage:</source>
-        <translation type="unfinished"></translation>
+        <translation>; གད་སྙིགས:</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="693"/>
         <source>; Historical records:</source>
-        <translation type="unfinished"></translation>
+        <translation>; ལོ་རྒྱུས་ཟིན་ཐོ:</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="725"/>
         <source>Cleaning up history trace of Firefox...</source>
-        <translation type="unfinished"></translation>
+        <translation>རགས་ལྟ་ཆས་ཀྱི་ལོ་རྒྱུས་ཟིན་ཐོ་གཙང་སེལ་བྱེད་སྒང་།...</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="728"/>
         <source>Firefox history trace had been cleared!</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefoxརགས་ལྟ་ཆས་ཀྱི་ལོ་རྒྱུས་རྗེས་ཤུལ་གཙང་སེལ་བྱས་ཚར!</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="733"/>
         <source>Cleaning up history trace of Chromium...</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromiumརགས་ལྟ་ཆས་ཀྱི་ལོ་རྒྱུས་རྗེས་ཤུལ་གཙང་སེལ་བྱེད་སྒང་...</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="736"/>
         <source>Chromium history trace had been cleared!</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromiumརགས་ལྟ་ཆས་ཀྱི་ལོ་རྒྱུས་རྗེས་ཤུལ་གཙང་སེལ་བྱས་ཚར!</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="741"/>
         <source>Cleaning up Cookies of Firefox...</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefoxརགས་ལྟ་ཆས་ཀྱི་གཙང་སེལ་བྱེད་སྒང་།...</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="744"/>
         <source>Firefox Cookies had been cleared!</source>
-        <translation type="unfinished"></translation>
+        <translation>Firefoxརགས་ལྟ་ཆས་ཀྱི་Cookiesགཙང་སེལ་བྱས་ཚར!</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="749"/>
         <source>Cleaning up Cookies of Chromium...</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromiumརགས་ལྟ་ཆས་ཀྱི་Cookies གཙང་སེལ་བྱེད་སྒང་།...</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="752"/>
         <source>Chromium Cookies had been cleared!</source>
-        <translation type="unfinished"></translation>
+        <translation>Chromium རགས་ལྟ་ཆས་ཀྱིCookiesགཙང་སེལ་བྱས་ཚར!</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="757"/>
         <source>Apt cache had been cleared!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aptབར་འདུམ་གཙང་སེལ་བྱས་ཚར!</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="760"/>
         <source>Cleaning up Apt cache: </source>
-        <translation type="unfinished"></translation>
+        <translation>Apt བར་འདུམ་གཙང་སེལ་བྱེད་སྒང་།: </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="765"/>
         <source>Software Center cache had been cleared!</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་ལྟེ་གནས་བར་འདུམ་གཙང་སེལ་བྱས་ཚར!</translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="768"/>
         <source>Cleaning up Software Center cache: </source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་ལྟེ་གནས་བར་འདུམ་གཙང་སེལ་བྱེད་སྒང་།: </translation>
     </message>
     <message>
         <location filename="../maintopwidget.cpp" line="815"/>
         <location filename="../maintopwidget.cpp" line="869"/>
         <source>Ready to Cleanup......</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱ་གྲབས......</translation>
     </message>
 </context>
 <context>
@@ -1713,7 +1716,7 @@ Information</source>
     <message>
         <location filename="../mainwindow.cpp" line="99"/>
         <source>Kylin Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་ལག་རོགས།</translation>
     </message>
 </context>
 <context>
@@ -1721,30 +1724,30 @@ Information</source>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="140"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="141"/>
         <source>Swap</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྗེ་རེས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="146"/>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="147"/>
         <source>Used(Percent)</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་ཟིན་པ།(བརྒྱ་ཆའི་སྡུར)</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="148"/>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="149"/>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>བསྡོམས་ཚད</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="155"/>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="156"/>
         <source>%1(%2%)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1(%2%)</translation>
     </message>
 </context>
 <context>
@@ -1752,7 +1755,7 @@ Information</source>
     <message>
         <location filename="../../plugins/systemmonitor/memorywidget.cpp" line="18"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག</translation>
     </message>
 </context>
 <context>
@@ -1760,52 +1763,52 @@ Information</source>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="289"/>
         <source>Launcher icon size</source>
-        <translation type="unfinished"></translation>
+        <translation>འགོ་སློང་ཆས་ཀྱི་རིས་རྟགས་ཁྲི་ཚུན།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="290"/>
         <source>Launcher hide mode</source>
-        <translation type="unfinished"></translation>
+        <translation>འགོ་སློང་ཆས་རང་འགུལ་སྒོས་སྦས་སྐུང་།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="291"/>
         <source>Display desktop icon</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅོག་ངོས་རིས་རྟགས་མངོན་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="292"/>
         <source>Launcher Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>འགོ་སློང་ཆས་ཀྱི་དྭངས་ཚད།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="293"/>
         <source>Icon Background</source>
-        <translation type="unfinished"></translation>
+        <translation>རིས་རྟགས་རྒྱབ་ལྗོངས།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="294"/>
         <source>Top panel icon size</source>
-        <translation type="unfinished"></translation>
+        <translation>རྩེ་མོའི་ངོས་པང་རིས་རྟགས་ཆེ་ཆུང་།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="295"/>
         <source>Top panel auto hide</source>
-        <translation type="unfinished"></translation>
+        <translation>རྩེ་མོའི་ངོས་པང་རང་འགུལ་སྦས་སྐུང་།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="296"/>
         <source>Bottom panel icon size</source>
-        <translation type="unfinished"></translation>
+        <translation>འོག་ཞབས་ཀྱི་ངོས་པང་རིས་རྟགས་ཆེ་ཆུང་།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="297"/>
         <source>Bottom panel auto hide</source>
-        <translation type="unfinished"></translation>
+        <translation>འོག་ཞབས་ངོས་པང་རང་འགུལ་སྦས་སྐུང་།</translation>
     </message>
     <message>
         <location filename="../../setting/menuwidget.cpp" line="298"/>
         <source>Launcher position</source>
-        <translation type="unfinished"></translation>
+        <translation>འགོ་སློང་ཆས་ཀྱི་གནས་ས།</translation>
     </message>
 </context>
 <context>
@@ -1813,32 +1816,32 @@ Information</source>
     <message>
         <location filename="../middlewidget.cpp" line="99"/>
         <source>Kylin Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་ལག་རོགས།</translation>
     </message>
     <message>
         <location filename="../middlewidget.cpp" line="184"/>
         <source>Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཀླད་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../middlewidget.cpp" line="190"/>
         <source>Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>གཤིས་ནུས་ལྟ་ཚོད།</translation>
     </message>
     <message>
         <location filename="../middlewidget.cpp" line="195"/>
         <source>Drive</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུལ་འདེད་དོ་དམ།</translation>
     </message>
     <message>
         <location filename="../middlewidget.cpp" line="195"/>
         <source>Sysinfo</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འཁོར་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../middlewidget.cpp" line="195"/>
         <source>Toolkits</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡོ་བྱད་སྣ་འཛོམས།</translation>
     </message>
 </context>
 <context>
@@ -1846,32 +1849,32 @@ Information</source>
     <message>
         <location filename="../../plugins/systemmonitor/monitortitlewidget.cpp" line="242"/>
         <source>Kylin System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་མ་ལག་ལྟ་རྟོག་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/monitortitlewidget.cpp" line="340"/>
         <source>Processes</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/monitortitlewidget.cpp" line="344"/>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐོན་ཁུངས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/monitortitlewidget.cpp" line="348"/>
         <source>File Systems</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་མ་ལག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/monitortitlewidget.cpp" line="399"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>འདོར་བ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/monitortitlewidget.cpp" line="413"/>
         <source>Enter the relevant info of process</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་འདྲེན་བྱེད་རིམ་གྱི་འབྲེལ་ཡོད་ཆ་འཕྲིན།</translation>
     </message>
 </context>
 <context>
@@ -1879,17 +1882,17 @@ Information</source>
     <message>
         <location filename="../monitorwidget.cpp" line="53"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་ཆས་དྲོད་ཚད།</translation>
     </message>
     <message>
         <location filename="../monitorwidget.cpp" line="63"/>
         <source>Fan Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>རླུང་གཡབ་འཁོར་ཚད།</translation>
     </message>
     <message>
         <location filename="../monitorwidget.cpp" line="72"/>
         <source>CPU FM</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU ཟློས་བརྗེ</translation>
     </message>
 </context>
 <context>
@@ -1897,22 +1900,22 @@ Information</source>
     <message>
         <location filename="../../setting/mousewidget.cpp" line="106"/>
         <source>Mouse Pointer Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>ཙིག་རྟགས་སྟོན་མདའི་བརྗོད་དོན།</translation>
     </message>
     <message>
         <location filename="../../setting/mousewidget.cpp" line="107"/>
         <source>Cursor Pointer Size</source>
-        <translation type="unfinished"></translation>
+        <translation>འོད་རྟགས་སྟོན་མདའ་ཆེ་ཆུང་།</translation>
     </message>
     <message>
         <location filename="../../setting/mousewidget.cpp" line="108"/>
         <source>Small Size</source>
-        <translation type="unfinished"></translation>
+        <translation>རྟགས་ཆུང་།</translation>
     </message>
     <message>
         <location filename="../../setting/mousewidget.cpp" line="109"/>
         <source>Big Size</source>
-        <translation type="unfinished"></translation>
+        <translation>རྟགས་ཆེན།</translation>
     </message>
 </context>
 <context>
@@ -1920,32 +1923,32 @@ Information</source>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="111"/>
         <source>Receive</source>
-        <translation type="unfinished"></translation>
+        <translation>དང་ལེན།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="112"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུར</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="274"/>
         <source>Receiving</source>
-        <translation type="unfinished"></translation>
+        <translation>དང་ལེན་བྱེད་སྒང་།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="275"/>
         <source>Sending</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུར་བཞིན་པའི་སྒང་།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="276"/>
         <source>Total Received</source>
-        <translation type="unfinished"></translation>
+        <translation>དང་ལེན་བྱས་ཚར་བ་བསྡོམས་རྩིས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="277"/>
         <source>Total Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>བསྡོམས་པས་སྐུར་ཟིན་པ།</translation>
     </message>
 </context>
 <context>
@@ -1953,7 +1956,7 @@ Information</source>
     <message>
         <location filename="../../plugins/systemmonitor/networkwidget.cpp" line="38"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་རྒྱ།</translation>
     </message>
 </context>
 <context>
@@ -1961,52 +1964,52 @@ Information</source>
     <message>
         <location filename="../optimizedwidget.cpp" line="47"/>
         <source>Optimization makes computers faster.</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུན་དུ་འགྲོས་ཚད་བསྣན་ན། གློག་ཀླད་འཁོར་སྐྱོད་མྱུར་བ་བྱ་དང་མཚུངས།.</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="52"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>དོར་བ།</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="66"/>
         <source>Optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐེབ་གཅིག་ལེགས་བཅོས།</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="113"/>
         <source>Boot up</source>
-        <translation type="unfinished"></translation>
+        <translation>འཁོར་སྒོ་ཕྱེ་ནས་འགོ་སློང་།</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="117"/>
         <source>Optimize boot-up software</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒོ་འབྱེད་འགོ་སློང་མཉེན་ཆས་ལེགས་བཅོས།</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="134"/>
         <source>System acceleration</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་ཇེ་མགྱོགས།</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="138"/>
         <source>Optimize system and memory settings</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་ལེགས་བཅོས་དང་ནང་གསོག་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="155"/>
         <source>Software acceleration</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་བང་སྣོན།</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="159"/>
         <source>Log out of software not in use</source>
-        <translation type="unfinished"></translation>
+        <translation>གནས་སྐབས་མི་བཀོལ་བའི་མཉེན་ཆས་ཕྱིར་འབུད།</translation>
     </message>
     <message>
         <location filename="../optimizedwidget.cpp" line="174"/>
         <source>Accelerate now</source>
-        <translation type="unfinished"></translation>
+        <translation>ལམ་སེང་བང་སྣོན།</translation>
     </message>
 </context>
 <context>
@@ -2014,82 +2017,82 @@ Information</source>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="354"/>
         <source>Dash background blur type</source>
-        <translation type="unfinished"></translation>
+        <translation>འཚོལ་སྒྲོམ་རྒྱབ་ལྗོངས་རབ་རིབ་རིགས་གྲས།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="355"/>
         <source>Panel Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་པང་དྭངས་ཚད།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="356"/>
         <source>Date &amp; time format</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟླ་ཚེས་དུས་ཚོད་རྣམ་བཞག</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="357"/>
         <source>Display seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ཡུན་སྐར་ཆའི་གྲངས།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="358"/>
         <source>Display week</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ཡུན་གཟའ་འཁོར།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="359"/>
         <source>Display the date</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ཡུན་ཟླ་ཚེས།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="360"/>
         <source>Display battery icon</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྫས་རིས་རྟགས་མངོན་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="361"/>
         <source>Display battery percentage</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྫས་ཀྱི་བརྒྱ་ཆའི་སྡུར་འཆར་བ།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="362"/>
         <source>Display battery remaining time</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྫས་ཀྱི་གློག་ཚད་དུས་ཚོད་འཆར་བ།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="364"/>
         <source>Smart blur</source>
-        <translation type="unfinished"></translation>
+        <translation>འགུལ་ལྡན་རབ་རིབ།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="365"/>
         <source>Static blur</source>
-        <translation type="unfinished"></translation>
+        <translation>འཇགས་རྣམ་རབ་རིབ།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="366"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>རབ་རིབ་མིན།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="368"/>
         <source>Show applications</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེར་སྤྱོད་བྱ་རིམ་འཆར་བ།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="369"/>
         <source>Show system</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་འཆར་བ།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="370"/>
         <source>Show icon</source>
-        <translation type="unfinished"></translation>
+        <translation>རིས་རྟགས་འཆར་བ།</translation>
     </message>
     <message>
         <location filename="../../setting/panelwidget.cpp" line="371"/>
         <source>Show places</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ས།</translation>
     </message>
 </context>
 <context>
@@ -2097,17 +2100,17 @@ Information</source>
     <message>
         <location filename="../../plugins/systemmonitor/processcategory.cpp" line="37"/>
         <source>Active Processes</source>
-        <translation type="unfinished"></translation>
+        <translation>འགུལ་ལྡན་བྱེད་རིམ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processcategory.cpp" line="40"/>
         <source>My Processes</source>
-        <translation type="unfinished"></translation>
+        <translation>ངའི་བྱེད་རིམ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processcategory.cpp" line="43"/>
         <source>All Processes</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་ཡོད་ཚད།</translation>
     </message>
 </context>
 <context>
@@ -2117,87 +2120,89 @@ Information</source>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="160"/>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="175"/>
         <source>End process</source>
-        <translation type="unfinished"></translation>
+        <translation>མཇུག་སྒྲིལ་བྱེད་རིམ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="157"/>
         <source>Ending a process may destroy data, break the session or introduce a security risk. Only unresponsive processes should be ended.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་མཇུག་སྒྲིལ་ན་གཞི་གྲངས་གཏོར་བརླག་དང་གླེང་མོལ་མཚམས་འཇོག་སྲིད་ལ། བདེ་འཇགས་ཉེན་ཚབས་སློང་ངེས་ཡིན། ཁྱེད་ཀྱིས་ཨ་ལན་མེད་པའི་བྱེད་རིམ་མཇུག་སྒྲིལ་ན་ལེགས།
+ཁྱེད་ཀྱིས་དངོས་གནས་མུ་མཐུད་དུ་འདི་ལྟར་བྱ་རྒྱུ་ཡིན་ནམ།?</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="159"/>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="165"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>དོར་བ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="163"/>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="166"/>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="177"/>
         <source>Kill process</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་གསོད་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="163"/>
         <source>Killing a process may destroy data, break the session or introduce a security risk. Only unresponsive processes should be killed.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་གསོད་ན་གཞི་གྲངས་གཏོར་བརླག་དང་གླེང་མོལ་མཚམས་འཇོག་སྲིད་ལ། བདེ་འཇགས་ཉེན་ཚབས་སློང་ངེས་ཡིན། ཁྱེད་ཀྱིས་ཨ་ལན་མེད་པའི་བྱེད་རིམ་བསད་ན་ལེགས།
+ཁྱེད་ཀྱིས་དངོས་གནས་མུ་མཐུད་དུ་འདི་ལྟར་བྱ་རྒྱུ་ཡིན་ནམ།?</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="171"/>
         <source>Stop process</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་མཚམས་འཇོག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="173"/>
         <source>Continue process</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་མུ་རུ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="191"/>
         <source>Very High</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧ་ཅང་མཐོ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="192"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐོ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="193"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>སྤྱིར་བཏང་།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="194"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>དམའ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="195"/>
         <source>Very Low</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧ་ཅང་དམའ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="196"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་བཟོས་མཚན་ཉིད།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="201"/>
         <source>Change Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>སྔོན་ཐོབ་རིམ་པར་འགྱུར་ལྡོག་གཏོང་བ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="203"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏོགས་གཤིས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processdialog.cpp" line="336"/>
         <source>Change Priority of Process %1 (PID: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ%1 (PID: %2)ཡི་སྔོན་ཐོབ་རིམ་པ་བཟོ་བཅོས།</translation>
     </message>
 </context>
 <context>
@@ -2205,28 +2210,28 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/systemmonitor/processlistitem.cpp" line="83"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>མཚམས་བཞག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistitem.cpp" line="85"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>མཚམས་འཇོག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistitem.cpp" line="87"/>
         <source>Zombie</source>
-        <translation type="unfinished"></translation>
+        <translation>རེངས་ཤི</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistitem.cpp" line="89"/>
         <source>No response</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚོར་བ་མེད་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistitem.cpp" line="91"/>
         <location filename="../../plugins/systemmonitor/processlistitem.cpp" line="93"/>
         <source>Uninterruptible</source>
-        <translation type="unfinished"></translation>
+        <translation>མཚམས་འཇོག་མི་རུང་།</translation>
     </message>
 </context>
 <context>
@@ -2235,49 +2240,49 @@ Are you sure to continue?</source>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="57"/>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="745"/>
         <source>Process Name</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་མིང་།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="57"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="57"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>རྣམ་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="57"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་གཅོད་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="57"/>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="57"/>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="745"/>
         <source>Command Line</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀའ་བརྡའི་ཕྲེང་།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="57"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="57"/>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="745"/>
         <source>Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>སྔོན་ཐོབ་རིམ་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processlistwidget.cpp" line="823"/>
         <source>No search result</source>
-        <translation type="unfinished"></translation>
+        <translation>འཚོལ་འབྲས་མེད།</translation>
     </message>
 </context>
 <context>
@@ -2285,12 +2290,12 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/systemmonitor/processmanager.cpp" line="48"/>
         <source>System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་ལྟ་རྟོག་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/processmanager.cpp" line="53"/>
         <source>Help user to kill process</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན་ལ་རོགས་བྱས་ནས་བྱེད་རིམ་དོ་དམ།</translation>
     </message>
 </context>
 <context>
@@ -2298,7 +2303,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/systemmonitor/propertiesdialog.cpp" line="128"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ།</translation>
     </message>
 </context>
 <context>
@@ -2307,7 +2312,7 @@ Are you sure to continue?</source>
         <location filename="../../info/infoitemline.cpp" line="29"/>
         <location filename="../../info/infoitemline.cpp" line="195"/>
         <source>Audio Model</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་བྱང་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="31"/>
@@ -2319,7 +2324,7 @@ Are you sure to continue?</source>
         <location filename="../../info/infoitemline.cpp" line="326"/>
         <location filename="../../info/infoitemline.cpp" line="374"/>
         <source>Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>གསར་བཟོ་བ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="33"/>
@@ -2328,12 +2333,12 @@ Are you sure to continue?</source>
         <location filename="../../info/infoitemline.cpp" line="305"/>
         <location filename="../../info/infoitemline.cpp" line="378"/>
         <source>Bus Address</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་སྐུད་ས་གནས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="35"/>
         <source>Audio Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་བྱང་སྐུལ་འདེད</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="38"/>
@@ -2341,43 +2346,43 @@ Are you sure to continue?</source>
         <location filename="../../info/infoitemline.cpp" line="227"/>
         <location filename="../../info/infoitemline.cpp" line="289"/>
         <source>Device Name</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་ཆས་མིང་།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="40"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>འགྲེམ་སྤེལ་བ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="81"/>
         <location filename="../../info/infoitemline.cpp" line="328"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="83"/>
         <source>Technology</source>
-        <translation type="unfinished"></translation>
+        <translation>ལག་རྩལ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="85"/>
         <source>Voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་གནོན</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="87"/>
         <source>Energy Designed</source>
-        <translation type="unfinished"></translation>
+        <translation>ནུས་ཚད་ཇུས་འགོད</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="89"/>
         <source>Energy Full</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་ལོངས་ནུས་ཚད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="91"/>
         <source>Energy Now</source>
-        <translation type="unfinished"></translation>
+        <translation>ནུས་ཚད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="93"/>
@@ -2389,882 +2394,882 @@ Are you sure to continue?</source>
         <location filename="../../info/infoitemline.cpp" line="309"/>
         <location filename="../../info/infoitemline.cpp" line="332"/>
         <source>Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>རིམ་སྟར་གྲངས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="96"/>
         <source>Motherboard Model</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་པང་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="98"/>
         <source>Motherboard Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་པང་བཟོ་པ་པོ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="102"/>
         <source>BIOS Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>BIOSབཟོ་པ་པོ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="104"/>
         <source>BIOS Version</source>
-        <translation type="unfinished"></translation>
+        <translation>BIOSཔར་གཞི།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="106"/>
         <source>Release Date</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱབ་སྒྲོག་དུས་ཚོད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="109"/>
         <source>CD-ROM Model</source>
-        <translation type="unfinished"></translation>
+        <translation>འོད་སྐུལ་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="115"/>
         <location filename="../../info/infoitemline.cpp" line="229"/>
         <source>Firmware Version</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་བྱད་པར་གཞི</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="120"/>
         <location filename="../../info/infoitemline.cpp" line="168"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་གཅོད་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="126"/>
         <source>Socket/Slot</source>
-        <translation type="unfinished"></translation>
+        <translation>འཇུག་གདན/འཇུག་ཤུར</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="128"/>
         <source>Maximum Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་ཆེའི་མ་ཟློས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="130"/>
         <source>Current Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་མ་ཟློས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="132"/>
         <source>FSB</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་མ་སྐུད</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="134"/>
         <source>Core Number</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྟེ་བའི་ཁ་གྲངས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="136"/>
         <source>Core Online Number</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་ལམ་ལྟེ་བའི་གྲངས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="138"/>
         <source>Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉིང་རེའི་སྐུད་རིམ་གྲངས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="140"/>
         <source>L1 Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>རིམ་པ་དང་པོའི་བར་འདུམ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="142"/>
         <source>L2 Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>རིམ་པ་གཉིས་པའི་བར་གསོག</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="148"/>
         <source>phytium</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧྥིན་ཐིན</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="150"/>
         <source>huawei</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧྭ་ཝེ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="152"/>
         <source>hygon</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧེ་ཀོང</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="154"/>
         <source>zhaoxin</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀྲའོ་ཞིན</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="156"/>
         <source>loongson</source>
-        <translation type="unfinished"></translation>
+        <translation>ལོང་ཞིན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="158"/>
         <source>4 cores</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉིང ༤</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="160"/>
         <source>4 thread/core</source>
-        <translation type="unfinished"></translation>
+        <translation>༤ སྐུད་རིམ/ཉིང</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="162"/>
         <location filename="../infowidget.cpp" line="426"/>
         <source>Wrong info from firmware</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་ལྷུ་ཡི་ཡང་དག་ཆ་འཕྲིན་འདོན་སྤྲོད་བྱས་མེད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="166"/>
         <source>Desktop Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅོག་ངོས་ཁོར་ཡུག</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="170"/>
         <source>Host Name</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འཁོར་མིང་།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="172"/>
         <source>Memory Capacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག་ཤོང་ཚད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="174"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན་བཀའ་བརྡའི་འགྲེལ་བཤད་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="176"/>
         <source>Distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>འགྲེམ་སྤེལ་པར་མ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="178"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐད་བརྡ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="180"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="182"/>
         <source>Home Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན་གྱི་མ་ལྡན་དཀར་ཆག</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="185"/>
         <source>Host bridge</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ཟམ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="187"/>
         <source>VGA Model</source>
-        <translation type="unfinished"></translation>
+        <translation>VGAཀུན་རུང་ཚོད་འཛིན་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="189"/>
         <source>USB Model</source>
-        <translation type="unfinished"></translation>
+        <translation>USBཚོད་འཛིན་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="191"/>
         <source>Communication Model</source>
-        <translation type="unfinished"></translation>
+        <translation>འཕྲིན་གཏོང་ཚོད་འཛིན་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="193"/>
         <source>Ethernet Model</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨིན་ཐིར་དྲ་ཚོད་འཛིན་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="197"/>
         <source>PCI bridge</source>
-        <translation type="unfinished"></translation>
+        <translation>PCIཟམ་པ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="199"/>
         <source>ISA bridge</source>
-        <translation type="unfinished"></translation>
+        <translation>ISA ཟམ་པ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="201"/>
         <source>SATA Model</source>
-        <translation type="unfinished"></translation>
+        <translation>SATAཚོད་འཛིན་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="203"/>
         <source>SMBus</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་དོ་དམ་མ་སྐུད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="205"/>
         <source>System peripheral</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་ཕྱི་སྐོར</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="207"/>
         <source>Driver in use</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་བའི་སྐུལ་འདེད་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="209"/>
         <source>existing drivers</source>
-        <translation type="unfinished"></translation>
+        <translation>འདེམས་རུང་གི་སྐུལ་འདེད་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="211"/>
         <source>IDE interface</source>
-        <translation type="unfinished"></translation>
+        <translation>IDEམཐུད་སྒོ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="213"/>
         <source>SP controller</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྡ་རྟགས་སྒྲིག་གཅོད་ཚོད་འཛིན་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="215"/>
         <source>Network controller</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་རྒྱ་ཚོད་འཛིན་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="217"/>
         <source>Multimedia audio controller</source>
-        <translation type="unfinished"></translation>
+        <translation>སྨྱན་མང་གཟུགས་སྒྲ་ཟློས་ཚོད་འཛིན་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="221"/>
         <source>HDD Model</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་སྡེར་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="223"/>
         <source>HDD Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་སྡེར་བཟོ་གྲྭ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="225"/>
         <source>HDD Capacity</source>
-        <translation type="unfinished"></translation>
+        <translation>སྲ་སྡེར་ཤོང་ཚད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="234"/>
         <source>Slot Number</source>
-        <translation type="unfinished"></translation>
+        <translation>འཇུག་ཤུར་གྲངས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="236"/>
         <source>Memory Model</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="242"/>
         <source>Memory Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག་ཆེ་ཆུུང་།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="244"/>
         <source>Data Width</source>
-        <translation type="unfinished"></translation>
+        <translation>གཞི་གྲངས་ཞེང་ཚད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="246"/>
         <source>Memory Info</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག་གི་ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="249"/>
         <source>Graphics Card Model</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་བྱང་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="251"/>
         <source>Current Graphics Card</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་འཆར་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="253"/>
         <source>Graphics Card Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་བྱང་བཟོ་གྲྭ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="255"/>
         <source>Graphics Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་བྱང་སྐུལ་འདེད</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="259"/>
         <source>Gamma</source>
-        <translation type="unfinished"></translation>
+        <translation>གཱ་མ་ཐང་།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="261"/>
         <source>Screen Size(inch)</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཡོལ་ཁྲི་ཚུན(དབྱིན་ཚུན།)</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="263"/>
         <source>Max Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་ཆེའི་ཡོལ་གསལ་ཕྱོད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="265"/>
         <source>Current Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་མཐུད་སྒོ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="267"/>
         <source>Monitor Model</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ཆས་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="269"/>
         <source>Visual Area</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐོང་རུང་རྒྱ་ཁྱོན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="271"/>
         <source>Support Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུན་འཁྱོངས་མཐུད་སྒོ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="273"/>
         <source>Monitor Manufacturers</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ཆས་བཟོ་གྲྭ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="275"/>
         <source>Date of production/Week</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐོན་སྐྱེད་ཟླ་ཚེས/གཟའ་འཁོར</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="277"/>
         <source>Date of production/Year</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐོན་སྐྱེད་ཟླ་ཚེས/ལོ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="283"/>
         <source>NIC Model</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་བྱང་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="285"/>
         <source>NIC Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་བྱང་སྐུལ་འདེད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="291"/>
         <location filename="../../info/infoitemline.cpp" line="311"/>
         <source>IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP ས་གནས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="293"/>
         <source>Mac Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac སྡོད་གནས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="295"/>
         <source>Connection Status</source>
-        <translation type="unfinished"></translation>
+        <translation>སྦྲེལ་མཐུད་རྣམ་པ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="297"/>
         <source>Max Bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་ཆེའི་ཐགས་ཞེང་།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="301"/>
         <source>WLan NIC Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུད་མེད་དྲ་བྱང་སྐུལ་ཆས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="303"/>
         <source>WLan NIC Model</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་བྱང་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="307"/>
         <source>Device Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་ཆས་ཀྱི་མིང་།：</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="313"/>
         <source>VNIC</source>
-        <translation type="unfinished"></translation>
+        <translation>རྟོག་བཟོ་དྲ་བྱང་།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="316"/>
         <source>NetType</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་བྱང་རིགས་གྲས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="319"/>
         <source>Ethernet interface</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨིན་ཐིར་དྲའི་མཐུད་སྒོ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="322"/>
         <source>Wireless interface</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐུད་མེད་དྲའི་མཐུད་སྒོ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="330"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཀླད་པར་གཞི</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="334"/>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འཁོར་མིང་།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="336"/>
         <source>Running Time</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུན་མཐུད་འཁོར་སྐྱོད་དུས་ཚོད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="338"/>
         <source>OS Types</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་སྤྱོད་མ་ལག་རིགས་གྲས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="340"/>
         <source>OS Version</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་སྤྱོད་མ་ལག་པར་གཞི།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="342"/>
         <source>Kernel Bit</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ལག་གནས་གྲངས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="344"/>
         <source>Kernel Version</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་ཉིང་པར་གཞི།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="346"/>
         <source>Kernel Arch</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་ཉིང་ཆགས་ཚུལ</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="348"/>
         <source>32bit</source>
-        <translation type="unfinished"></translation>
+        <translation>༣༢གནས</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="350"/>
         <source>64bit</source>
-        <translation type="unfinished"></translation>
+        <translation>༦༤གནས</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="352"/>
         <source>YHKylin community</source>
-        <translation type="unfinished"></translation>
+        <translation>དགུ་ཚིགས་ཆི་ལིན་ཚོགས་ར་པར་མ།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="355"/>
         <source>Memory reference voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག་དཔྱད་གཞིའི་གློག་གནོན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="357"/>
         <source>SATA controller voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>SATA ཚོད་འཛིན་ཆས་གློག་གནོན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="359"/>
         <source>Memory voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག་གློག་གནོན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="361"/>
         <source>CPU pin voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU ཕིན་གློག་གནོན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="363"/>
         <source>Bridge voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟམ་ལེབ་གློག་གནོན།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="365"/>
         <source>CPU core voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU ཉིང་གློག་གནོན</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="367"/>
         <source>CPU temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU དྲོད་ཚད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="369"/>
         <source>Motherboard temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་པང་དྲོད་ཚད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="371"/>
         <source>CPU fan speed</source>
-        <translation type="unfinished"></translation>
+        <translation>CPUརླུང་གཡབ་འཁོར་ཚད།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="376"/>
         <source>Dev Type</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་ཆས་རིགས་གྲས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="380"/>
         <source>InputVersion</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་འདྲེན་སྒྲིག་ཆས་པར་གཞི།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="382"/>
         <source>Capabilities</source>
-        <translation type="unfinished"></translation>
+        <translation>རྩོལ་ནུས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="384"/>
         <source>InputProduct</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་འདྲེན་སྒྲིག་ཆས་གཤིས་རྟགས།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="386"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་སྦྱོར།</translation>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="388"/>
         <source>Physical ID</source>
-        <translation type="unfinished"></translation>
+        <translation>IDརྟགས།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="30"/>
         <source>ThemeSetting</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྗོད་དོན་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="33"/>
         <source>IconSetting</source>
-        <translation type="unfinished"></translation>
+        <translation>རིས་རྟགས་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="36"/>
         <source>MousePointer</source>
-        <translation type="unfinished"></translation>
+        <translation>ཙིག་རྟགས་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="39"/>
         <source>SoundEffect</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་ནུས་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="42"/>
         <source>Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་པང་།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="45"/>
         <source>StartMenu</source>
-        <translation type="unfinished"></translation>
+        <translation>འགོ་སློང་ཚལ་ཐོ</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="48"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒེའུ་ཁུང་།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="51"/>
         <source>FontSetting</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་གཟུགས་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="54"/>
         <source>Touchpad</source>
-        <translation type="unfinished"></translation>
+        <translation>རེག་བྱའི་པང་།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="57"/>
         <source>Energy saving</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་གྲོན་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../../setting/settingdelegate.cpp" line="60"/>
         <source>File manager</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་དོ་དམ་ཆས།</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="168"/>
         <source>app is already running!</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེར་སྤྱོད་བྱ་རིམ་འཁོར་སྐྱོད་བྱེད་སྒང་།!</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="65"/>
         <source>Choose the theme what you want</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ལ་དགོས་པའི་བརྗོད་དོན་དེ་འདེམས་རོགས།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="66"/>
         <source>Set the desktop icon theme and the visibility of desktop icons</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅོག་ངོས་རིས་རྟགས་བརྗོད་དོན་དང་ཅོག་ངོས་རིས་རྟགས་ཀྱི་མཐོང་རུང་རང་བཞིན་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="67"/>
         <source>Replace the theme and size of the mouse pointer, and theme change need to restart system</source>
-        <translation type="unfinished"></translation>
+        <translation>ཙིག་རྟགས་སྟོན་མདའི་བརྗོད་དོན་དང་ཆེ་ཆུང་བཟོ་བཅོས། བརྗོད་དོན་བསྒྱུར་ན་མ་ལག་བསྐྱར་སློང་བྱས་རྗེས་བཀོལ་ཆོག</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="68"/>
         <source>Set the sound theme you want</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ལ་དགོས་པའི་སྒྲ་ཟློས་བརྗོད་དོན་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="69"/>
         <source>Setting the panel mode of auto hide and icon size</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་པང་རང་འགུལ་སྦས་སྐུང་རྣམ་པ་དང་ངོས་པང་རིས་རྟགས་ཆེ་ཆུང་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="70"/>
         <source>Manage display of the start menu</source>
-        <translation type="unfinished"></translation>
+        <translation>འགོ་སློང་ཚལ་ཐོའི་འཆར་མངོན་དོ་དམ།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="71"/>
         <source>Window Manager settings</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒེའུ་ཁུང་དོ་དམ་ཆས་སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="72"/>
         <source>According to personal preferences to set the system default font, click the  &apos;Restore&apos; button, can be restored to the state before the font settings</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་གིས་འདོད་མཐུན་ལྟར་མ་ལག་ཡིག་གཟུགས་འདེམས་ཆོག་པ་དང་། ＂སོར་བཞག་སླར་ལོག་＂མཐེབ་གཅུས་གནོན་ནས་ལྟོས་ཟླའི་ཡིག་གཟུགས་ནི་སྒྲིག་འགོད་སྔོན་གྱི་རྣམ་པར་སླར་ལོག་བྱས་ཆོག</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="73"/>
         <source>Setting the relevant properties of your touchpad,make the operation more convenient</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ཀྱི་མཛུབ་སྐུལ་པང་གི་འབྲེལ་ཡོད་སྒྲིག་འགོད་ལེགས་སྒྲིག་བྱས་ན་བཀོལ་སྤྱོད་ལྷག་ཏུ་སྟབས་བདེ་ཡིན།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="74"/>
         <source>Save energy to let the computer longer standby time</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཚད་གྲོན་ཆུང་བྱས་ན་གློག་ཀླད་ཀྱི་ལས་ཡུན་ཇེ་རིང་དུ་འགྲོ།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="75"/>
         <source>Manage the file manager. Tips: if the thumbnail&apos;s cache time or size is set to -1, it will not be checked</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་དོ་དམ་ཆས་དོ་དམ། དོ་སྣང་བྱ་དགོས་ས་ནི། གལ་ཏེ་རགས་བསྡུས་རི་མོའི་བར་གསོག་དུས་ཡུན་ནམ་ཡང་ན་ཁྲི་ཚུན་ནི-1རུ་བསྒྱུར་ན། རགས་བསྡུས་རི་མོ་གཙང་སེལ་མི་བྱེད།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="41"/>
         <source>%1hours</source>
-        <translation type="unfinished"></translation>
+        <translation>%1ཆུ་ཚོད</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="43"/>
         <source>%1hour</source>
-        <translation type="unfinished"></translation>
+        <translation>%1ཆུ་ཚོད</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="45"/>
         <source>%1minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1སྐར་མ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="47"/>
         <source>%1minute</source>
-        <translation type="unfinished"></translation>
+        <translation>%1སྐར་མ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="49"/>
         <source>%1seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>%1སྐར་ཆ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="51"/>
         <source>%1second</source>
-        <translation type="unfinished"></translation>
+        <translation>%1སྐར་ཆ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="56"/>
         <source>%1day</source>
-        <translation type="unfinished"></translation>
+        <translation>%1ཉིན</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/cpuratewidget.cpp" line="58"/>
         <source>%1days</source>
-        <translation type="unfinished"></translation>
+        <translation>%1ཉིན</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="24"/>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="50"/>
         <source>byte</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཚུགས</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="27"/>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="56"/>
         <source>bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཚུགས</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="34"/>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="66"/>
         <source>KiB</source>
-        <translation type="unfinished"></translation>
+        <translation>KB</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="37"/>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="72"/>
         <source>MiB</source>
-        <translation type="unfinished"></translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="40"/>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="78"/>
         <source>GiB</source>
-        <translation type="unfinished"></translation>
+        <translation>GiB</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/memorycircle.cpp" line="43"/>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="84"/>
         <source>TiB</source>
-        <translation type="unfinished"></translation>
+        <translation>TiB</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="52"/>
         <source>byte/s</source>
-        <translation type="unfinished"></translation>
+        <translation>byte/s</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="58"/>
         <source>bytes/s</source>
-        <translation type="unfinished"></translation>
+        <translation>bytes/s</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="68"/>
         <source>KiB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>KiB/s</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="74"/>
         <source>MiB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>MiB/སྐར་ཆ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="80"/>
         <source>GiB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>GiB/སྐར་ཆ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/networkflow.cpp" line="86"/>
         <source>TiB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>TiB/སྐར་ཆ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/propertiesdialog.cpp" line="154"/>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན་གྱི་མིང་ནི:</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/propertiesdialog.cpp" line="154"/>
         <source>Process name:</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་མིང་ནི:</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/propertiesdialog.cpp" line="154"/>
         <source>Command line:</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀའ་བརྡའི་ཕྲེང:</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/propertiesdialog.cpp" line="154"/>
         <source>CPU Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU དུས་ཚོད:</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/propertiesdialog.cpp" line="154"/>
         <source>Started Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>མགོ་ཚུགས་ས་ནི:</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="207"/>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>འཁོར་སྐྱོད་སྒང་།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="211"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>མཚམས་བཞག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="215"/>
         <source>Zombie</source>
-        <translation type="unfinished"></translation>
+        <translation>རེངས་ཤི</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="219"/>
         <source>Uninterruptible</source>
-        <translation type="unfinished"></translation>
+        <translation>མཚམས་བཅས་མི་རུང་།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="223"/>
         <source>Sleeping</source>
-        <translation type="unfinished"></translation>
+        <translation>གཉིད་ཁུགས་པའི་སྒང་།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="233"/>
         <source>Very High</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧ་ཅང་མཐོ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="235"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐོ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="237"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐོ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="239"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>དམའ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="241"/>
         <source>Very Low</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧ་ཅང་དམའ</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="247"/>
         <source>Very High Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧ་ཅང་མཐོ་བའི་སྔོན་ཐོབ་རིམ་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="249"/>
         <source>High Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐོ་བའི་སྔོན་ཐོབ་རིམ་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="251"/>
         <source>Normal Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>སྤྱིར་བཏང་སྔོན་ཐོབ་རིམ་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="253"/>
         <source>Low Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>དམའ་བའི་སྔོན་ཐོབ་རིམ་པ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/util.cpp" line="255"/>
         <source>Very Low Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧ་ཅང་དམའ་བའི་སྔོན་ཐོབ་རིམ་པ།</translation>
     </message>
 </context>
 <context>
@@ -3272,7 +3277,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../component/quibo.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -3280,27 +3285,27 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/systemmonitor/renicedialog.cpp" line="55"/>
         <source>Nice value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Niceགྲངས་ཐང:</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/renicedialog.cpp" line="77"/>
         <source>Note:</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲན་ཐོ:</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/renicedialog.cpp" line="81"/>
         <source>The priority of a process is given by its nice value. A lower nice value corresponds to a higher priority.</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་རིམ་གྱི་སྔོན་ཐོབ་རིམ་པ་ནི་དེའི་niceགྲངས་ཐང་གིས་གཏན་འཁེལ་བྱས། ཅུང་དམའ་བའི་niceགྲངས་ཐང་ནི་ཅུང་མཐོ་བའི་སྔོན་ཐོབ་རིམ་པ་དང་ལྟོས་ཟླ་ཡིན།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/renicedialog.cpp" line="93"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>དོར་བ།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/renicedialog.cpp" line="98"/>
         <source>Change Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>སྔོན་ཐོབ་རིམ་པ་འགྱུར་བ།</translation>
     </message>
 </context>
 <context>
@@ -3308,17 +3313,17 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/systemmonitor/resourcescategory.cpp" line="37"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་གཅོད་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/resourcescategory.cpp" line="39"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>ནང་གསོག</translation>
     </message>
     <message>
         <location filename="../../plugins/systemmonitor/resourcescategory.cpp" line="41"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་རྒྱ།</translation>
     </message>
 </context>
 <context>
@@ -3328,7 +3333,7 @@ Are you sure to continue?</source>
         <location filename="../../component/selectlistwidget.cpp" line="68"/>
         <location filename="../../component/selectlistwidget.cpp" line="153"/>
         <source>Clean Items:</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་བྱང་:</translation>
     </message>
 </context>
 <context>
@@ -3336,64 +3341,64 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="33"/>
         <source>Kylin Shred Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་ཡིག་ཆ་སིལ་གཏོང་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="44"/>
         <source>Shred Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་ཡིག་ཆ་སིལ་གཏོར་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="148"/>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="305"/>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="345"/>
         <source>No select any file which need to be shredded</source>
-        <translation type="unfinished"></translation>
+        <translation>སིལ་གཏོར་བྱ་རྒྱུའི་ཡིག་ཆ་འདེམས་མེད།</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="149"/>
         <source>Shred File</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་སིལ་གཏོར།</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="150"/>
         <source>Deselect</source>
-        <translation type="unfinished"></translation>
+        <translation>འདེམས་བྱ་དོར་བ།</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="151"/>
         <source>Note: The file shredding process cannot be cancelled, please operate with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>དོ་སྣང་དོན་ཚན།ཡིག་ཆ་སིལ་གཏོར་གོ་རིམ་ནི་འདོར་མི་ཆོག ཁྱེད་ཀྱིས་གཟབ་གཟབ་གནང་རོགས!</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="152"/>
         <source>Shattering...</source>
-        <translation type="unfinished"></translation>
+        <translation>སིལ་གཏོར་སྒང་།...</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="254"/>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་གདམ་གསེས</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="254"/>
         <source>All Files(*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཚང་མ(*)</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="281"/>
         <source>Select file!</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་གདམ་གསེས!</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="304"/>
         <source>Shred successfully!</source>
-        <translation type="unfinished"></translation>
+        <translation>སིལ་གཏོར་ལེགས་འགྲུབ!</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shreddialog.cpp" line="315"/>
         <source>Shred failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>སིལ་གཏོར་མ་འགྲུབ!</translation>
     </message>
 </context>
 <context>
@@ -3401,12 +3406,12 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/shredmanager/shredmanager.cpp" line="50"/>
         <source>Shred Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་སིལ་གཏོར་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/shredmanager/shredmanager.cpp" line="55"/>
         <source>Delete files makes it unable to recover</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་གཏིང་ནས་བསུབ་ན་སླར་གསོ་བྱ་ཐབས་མེད།</translation>
     </message>
 </context>
 <context>
@@ -3414,22 +3419,22 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../setting/soundwidget.cpp" line="136"/>
         <source>Sound theme</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐད་སྒྲའི་བརྗོད་དོན།</translation>
     </message>
     <message>
         <location filename="../../setting/soundwidget.cpp" line="137"/>
         <source>Login tone</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐོ་འགོད་གསལ་འདེབས་སྒྲ།</translation>
     </message>
     <message>
         <location filename="../../setting/soundwidget.cpp" line="138"/>
         <source>Event sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>དོན་རྐྱེན་སྒྲ།</translation>
     </message>
     <message>
         <location filename="../../setting/soundwidget.cpp" line="139"/>
         <source>Input feedback sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱིར་སློག་སྒྲ་ནང་འདྲེན།</translation>
     </message>
 </context>
 <context>
@@ -3437,12 +3442,12 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/startupmanager/startupmanager.cpp" line="59"/>
         <source>Startup Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>འགོ་སློང་ལེ་ཚན་དོ་དམ་ཆས།</translation>
     </message>
     <message>
         <location filename="../../plugins/startupmanager/startupmanager.cpp" line="64"/>
         <source>Help user to manager application startup items</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་མཁན་ལ་རོགས་བྱས་ནས་ཉེར་སྤྱོད་བྱ་རིམ་འཁོར་འགོ་སློང་བའི་ལེ་ཚན་དོ་དམ་བྱེད་པ།</translation>
     </message>
 </context>
 <context>
@@ -3450,7 +3455,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/startupmanager/startuptitlewidget.cpp" line="95"/>
         <source>Kylin Startup Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་འགོ་སློང་ཚན་པའི་དོ་དམ་ཆས།</translation>
     </message>
 </context>
 <context>
@@ -3458,7 +3463,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/startupmanager/startupwidget.cpp" line="73"/>
         <source>Kylin Startup Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་འགོ་སློང་ཚན་པའི་དོ་དམ་ཆས།</translation>
     </message>
 </context>
 <context>
@@ -3467,12 +3472,12 @@ Are you sure to continue?</source>
         <location filename="../../plugins/startupmanager/startupworker.cpp" line="375"/>
         <location filename="../../plugins/startupmanager/startupworker.cpp" line="407"/>
         <source>No description</source>
-        <translation type="unfinished"></translation>
+        <translation>ཞིབ་བརྗོད་མེད།</translation>
     </message>
     <message>
         <location filename="../../plugins/startupmanager/startupworker.cpp" line="402"/>
         <source>No name</source>
-        <translation type="unfinished"></translation>
+        <translation>མིང་མེད།</translation>
     </message>
 </context>
 <context>
@@ -3480,7 +3485,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../plugins/systemmonitor/systemmonitor.cpp" line="50"/>
         <source>Kylin System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་མ་ལག་ལྟ་རྟོག་ཆས།</translation>
     </message>
 </context>
 <context>
@@ -3488,7 +3493,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../component/temperature.cpp" line="105"/>
         <source>Normal temperature, good heat dissipation.</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔར་སྲ་ཆས་སོ་སོའི་དྲོད་ཚད་སྤྱིའི་ཆ་ནས་རྒྱུན་ལྡན་ཡིན་པས། ཚ་ཐོར་གནས་ཚུལ་ཅུང་ལེགས.</translation>
     </message>
 </context>
 <context>
@@ -3496,7 +3501,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../setting/themewidget.cpp" line="41"/>
         <source>Please choose theme which you need</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ཀྱི་བརྗོད་དོན་འདེམས་རོགས།</translation>
     </message>
 </context>
 <context>
@@ -3504,17 +3509,17 @@ Are you sure to continue?</source>
     <message>
         <location filename="../topbasewidget.cpp" line="230"/>
         <source>There may be a mistake.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕལ་ཆེར་ནོར་འཁྲུལ་བྱུང་བ་འདྲ.</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="246"/>
         <source>Kylin Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་ལག་རོགས།</translation>
     </message>
     <message>
         <location filename="../topbasewidget.cpp" line="334"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱིར་ལོག</translation>
     </message>
 </context>
 <context>
@@ -3522,47 +3527,47 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="195"/>
         <source>Enable touchpad</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་འབྱེད་ཁ་རྒྱག་མཛུབ་ཁྲིད་པང་།</translation>
     </message>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="196"/>
         <source>Enable horizontal scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>མཛུབ་ཁྲིད་པང་གི་འཕྲེད་ཕྱོགས་འགྲིལ་འགུལ།</translation>
     </message>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="197"/>
         <source>Scrollbar type</source>
-        <translation type="unfinished"></translation>
+        <translation>འགྲིལ་འགུལ་དུམ་བུའི་རིགས་གྲས།</translation>
     </message>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="198"/>
         <source>Touchpad scrolling mode</source>
-        <translation type="unfinished"></translation>
+        <translation>མཛུབ་ཁྲིད་པང་གི་འགྲིལ་འགུལ་རྣམ་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="199"/>
         <source>Features Type</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐུན་མིན་རིགས་གྲས།</translation>
     </message>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="200"/>
         <source>Standard Type</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚད་ལྡན་རིགས་གྲས།</translation>
     </message>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="201"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>མི་བཀོལ་བ།</translation>
     </message>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="202"/>
         <source>Edge Scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐའ་མཚམས་འགྲིལ་འགུལ</translation>
     </message>
     <message>
         <location filename="../../setting/touchpadwidget.cpp" line="203"/>
         <source>Two-finger Scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>མཛུབ་གཉིས་འགྲིལ་འགུལ།</translation>
     </message>
 </context>
 <context>
@@ -3570,42 +3575,42 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../setting/windowwidget.cpp" line="186"/>
         <source>Arrangement of buttons on the titlebar</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་བྱང་ཚན་པའི་མཐེབ་གཅུས་བཀོད་སྒྲིག</translation>
     </message>
     <message>
         <location filename="../../setting/windowwidget.cpp" line="187"/>
         <source>Menu with icons</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚལ་ཐོ་བྱང་བུའི་འགྲམ་དུ་རིས་རྟགས་མངོན་པ།</translation>
     </message>
     <message>
         <location filename="../../setting/windowwidget.cpp" line="188"/>
         <source>Titlebar mouse wheel action</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་བྱང་ཚན་པའི་ཙིག་རྟགས་འགྲིལ་འགུལ་འགུལ་སྤྱོད།</translation>
     </message>
     <message>
         <location filename="../../setting/windowwidget.cpp" line="189"/>
         <source>Titlebar double-click action</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་བྱང་ཚན་པར་གཉིས་རྡེབ་བྱ་སྤྱོད།</translation>
     </message>
     <message>
         <location filename="../../setting/windowwidget.cpp" line="190"/>
         <source>Titlebar middle-click action</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་བྱང་ཚན་པའི་བར་རྡེབ་བྱ་སྤྱོད།</translation>
     </message>
     <message>
         <location filename="../../setting/windowwidget.cpp" line="191"/>
         <source>Titlebar right-click action</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་བྱང་ཚན་པའི་གཡས་རྡེབ་བྱ་སྤྱོད།</translation>
     </message>
     <message>
         <location filename="../../setting/windowwidget.cpp" line="192"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>གཡོན་ཕྱོགས།</translation>
     </message>
     <message>
         <location filename="../../setting/windowwidget.cpp" line="193"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>གཡས་ཕྱོགས།</translation>
     </message>
 </context>
 </TS>
