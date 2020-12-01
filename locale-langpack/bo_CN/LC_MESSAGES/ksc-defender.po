@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-28 15:45+0000\n"
+"PO-Revision-Date: 2020-12-01 09:59+0000\n"
 "Last-Translator: 头旦才让 <atou2008@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/ksc-defender/bo_CN/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Weblate 4.3.1\n"
 
 msgid "Account lock, display configuration for login information"
-msgstr ""
+msgstr "རྩིས་ཁྲ་ཟྭ་རྒྱག་པ་དང་ཐོ་འགོད་ཆ་འཕྲིན་འཆར་བ་སྒྲིག་འགོད།"
 
 msgid "Defaults"
 msgstr "སོར་བཞག"
@@ -28,376 +28,405 @@ msgid ""
 "Update account lock and login information shows that the configuration "
 "failed, please check ！"
 msgstr ""
+"རྩིས་ཁྲ་ཟྭ་རྒྱག་པ་རབས་བརྗེ་དང་ཐོ་འགོད་ཆ་འཕྲིན་འཆར་བ་སྒྲིག་འགོད་ལེགས་འགྲུབ་མ་བ"
+"ྱུང་བས། བརྟག་དཔྱད་གནང་རོགས ！"
 
 msgid ""
 "Update account lock and login information shows that the configuration "
 "failed, please check"
 msgstr ""
+"རྩིས་ཁྲ་ཟྭ་རྒྱག་པ་རབས་བརྗེ་དང་ཐོ་འགོད་ཆ་འཕྲིན་འཆར་བ་སྒྲིག་འགོད་ལེགས་འགྲུབ་མ་བ"
+"ྱུང་བས། བརྟག་དཔྱད་གནང་རོགས།"
 
 msgid "Account lock Settings"
-msgstr ""
+msgstr "རྩིས་ཁྲ་ཟྭ་རྒྱག་སྒྲིག་འགོད།"
 
 msgid "Enable account locking"
-msgstr ""
+msgstr "རྩིས་ཁྲ་ཟྭ་རྒྱག་ནུས་པ་སྒོ་འབྱེད།"
 
 msgid "Threshold number of consecutive password errors (3-16 times):"
-msgstr ""
+msgstr "གསང་གྲངས་མུ་རུ་ནོར་ཐེངས་ཁྱབ་ཁོངས་གྲངས (ཐེངས3-16 ):"
 
 msgid "Account lockdown time:"
-msgstr ""
+msgstr "རྩིས་ཁྲ་ཟྭ་རྒྱག་དུས་ཚོད:"
 
 msgid "Login information display (console only):"
-msgstr ""
+msgstr "ཐོ་འགོད་ཆ་འཕྲིན་འཆར་བ (ཚོད་འཛིན་སྟེགས་བུ་ཁོ་ན):"
 
 msgid "Display last login information:"
-msgstr ""
+msgstr "ཐེངས་སྔོན་མའི་ཐོ་འགོད་ཆ་འཕྲིན་ཤར་བ:"
 
 msgid "Display history login failure information:"
-msgstr ""
+msgstr "ཐོ་འགོད་བྱས་ཟིན་པའི་ཕམ་ཉེས་ཆ་འཕྲིན་ཤར་བ:"
 
 msgid "     5minute"
-msgstr ""
+msgstr "     སྐར་མ་༥"
 
 msgid "     10 minute"
-msgstr ""
+msgstr "     སྐར་མ༡༠"
 
 msgid "     30 minute"
-msgstr ""
+msgstr "     སྐར་མ་༣༠"
 
 msgid "     1hour"
-msgstr ""
+msgstr "     དུས་ཚོད་གཅིག"
 
 msgid "     3 hour"
-msgstr ""
+msgstr "     དུས་ཚོད་གསུམ་"
 
 msgid "     24 hour"
-msgstr ""
+msgstr "     དུས་ཚོད་ཉེར་བཞི"
 
 msgid "     15day"
-msgstr ""
+msgstr "     ཉིན་༡༥"
 
 msgid "     30day"
-msgstr ""
+msgstr "     ཉིན་༣༠"
 
 msgid "     60day"
-msgstr ""
+msgstr "     ཉིན་༦༠"
 
 msgid "     forever"
-msgstr ""
+msgstr "     དུས་གཏན་དུ"
 
 msgid "Acount security"
-msgstr ""
+msgstr "རྩིས་ཁྲ་བདེ་འཇགས"
 
 msgid "Protect account and login security"
-msgstr ""
+msgstr "རྩིས་ཁྲ་དང་ཐོ་འགོད་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྲུང་སྐྱོང་བྱེད་པ།"
 
 msgid "Login authentication mode"
-msgstr ""
+msgstr "ཐོ་འགོད་དཔང་སྤྲོད་རྣམ་པ།"
 
 msgid "Current use : password authentication"
-msgstr ""
+msgstr "མིག་སྔར་བཀོལ་བཞིན་པ་ནི་གསང་གྲངས་དཔང་སྤྲོད་ཡིན།"
 
 msgid "Account password security"
-msgstr ""
+msgstr "རྩིས་ཁྲ་གསང་གྲངས་བདེ་འཇགས"
 
 msgid ""
 "Configuration of account password strength, account locking, login "
 "information display and other functions"
 msgstr ""
+"རྩིས་ཁྲའི་གསང་གྲངས་ཀྱི་ངར་ཚད་དང་ཟྭ་རྒྱག་པ། "
+"ཐོ་འགོད་ཆ་འཕྲིན་འཆར་བ་སོགས་ཀྱི་ནུས་པ་སྒྲིག་འགོད།"
 
 msgid "Password strength configuration"
-msgstr ""
+msgstr "གསང་གྲངས་ངར་ཚད་སྒྲིག་འགོད།"
 
 msgid ""
 "The password should be at least 8 bits and contain at least 3 uppercase "
 "characters, lowercase characters, Numbers and symbols"
 msgstr ""
+"གསང་གྲངས་ལ་མ་མཐའ་ཡང་གནས་གྲངས་༨དགོས་པ་དང་། དེར་ཡིག་ཆེན་དང་ཡིག་ཆུང་། གྲངས་ཀ། "
+"མཚོན་རྟགས་བཅས་ལས་གསུམ་ཚང་དགོས།"
 
 msgid ""
 "Password must have at least 6 characters, including at least 2 of lowercase "
 "letters, uppercase letters, Numbers and symbols"
 msgstr ""
+"གསང་གྲངས་ལ་མ་མཐའ་ཡང་གནས་གྲངས༦དགོས་པ་དང་། དེར་ཡིག་ཆེན་དང་ཡིག་ཆུང་། གྲངས་ཀ། "
+"མཚོན་རྟགས་བཅས་ལས་གཉིས་ཚང་དགོས།"
 
 msgid "Unlimited"
 msgstr "ཚད་མེད་པ།"
 
 msgid "Setting password strength according to needed"
-msgstr ""
+msgstr "དགོས་མཁོ་ལྟར་གསང་གྲངས་ངར་ཚད་སྒྲིག་འགོད།"
 
 msgid "Choose biometric authentication"
-msgstr ""
+msgstr "སྐྱེ་དངོས་ངོས་འཛིན་དཔང་སྤྲོད་འདེམ་པ།"
 
 msgid "Middle level"
-msgstr ""
+msgstr "འབྲིང་རིམ།"
 
 msgid "Low level"
-msgstr ""
+msgstr "དམའ་རིམ།"
 
 msgid "Self-define"
-msgstr ""
+msgstr "རང་འགོད་མཚན་ཉིད།"
 
 msgid "Account lock, login information display configuration"
-msgstr ""
+msgstr "རྩིས་ཁྲའི་ཟྭ་རྒྱག་པ། ཐོ་འགོད་ཆ་འཕྲིན་འཆར་བ་སོགས་ཀྱི་ནུས་པ་སྒྲིག་འགོད།"
 
 msgid "Password strength check function is disabled, unlimited"
-msgstr ""
+msgstr "གསང་གྲངས་ངར་ཚད་ཀྱི་ལྟ་ཞིབ་ནུས་སྒོ་བརྒྱབ་ཟིན་པས། བཀག་རྒྱ་མེད།"
 
 msgid "The minimum password length %1\n"
-msgstr ""
+msgstr "གསང་གྲངས་ཀྱི་ཆེས་ཆུང་བའི་རིང་ཚད %1\n"
 
 msgid "Password contains at least %1 characters\n"
-msgstr ""
+msgstr "གསང་གྲངས་ལ་མ་མཐའ་ཡང་ཡིག་རྟགས %1་ཚུད།\n"
 
 msgid "Password contains at least %1 lowercase characters\n"
-msgstr ""
+msgstr "གསང་གྲངས་ལ་མ་མཐའ་ཡང་ཡིག་ཆུང་ %1་ཚུད།\n"
 
 msgid "Password contains at least %1 numeric characters\n"
-msgstr ""
+msgstr "གསང་གྲངས་ལ་མ་མཐའ་ཡང་ཨང་ཀི %1་ཚུད།\n"
 
 msgid "Password contains at least %1 other characters\n"
-msgstr ""
+msgstr "གསང་གྲངས་ལ་མ་མཐའ་ཡང་ཡིག་རྟགས་གཞན་པ%1་ཚུད།\n"
 
 msgid "Password ban containning username\n"
-msgstr ""
+msgstr "གསང་གྲངས་ལ་བཀོལ་མཁན་མིང་སྤྱད་མི་ཆོག\n"
 
 msgid "Password prohibits the use of palindrome\n"
-msgstr ""
+msgstr "གསང་གྲངས་ལ་ཕྱིར་ལྡོག་ཡི་གེ་བཀོལ་མི་ཆོག\n"
 
 msgid "Enable check for password similarity \n"
-msgstr ""
+msgstr "གསང་གྲངས་གཅིག་མཚུངས་ལ་ལྟ་བའི་སྒོ་འབྱེད་པ། \n"
 
 msgid "Enable password dictionary\n"
-msgstr ""
+msgstr "གསང་གྲངས་དག་ཡིག་སྒོ་འབྱེད\n"
 
 msgid "Password expiry date% 1 day\n"
-msgstr ""
+msgstr "གསང་གྲངས་གོ་ཆོད་དུས་ཡུན་ནི་ཉིན%1\n"
 
 msgid "password expiry date  forever\n"
-msgstr ""
+msgstr "གསང་གྲངས་གོ་ཆོད་དུས་ཡུན་ལ་ཚད་བཀག་མེད\n"
 
 msgid "The same character can appear continuously %1 times at most\n"
-msgstr ""
+msgstr "ཡིག་རྟགས་གཅིག་མཚུངས་མུ་མཐུད་འཆར་ཐེངས་ཆེས་མང་ན%1ཡིན\n"
 
 msgid ""
 "The maximum continuous sequence length of characters of the same type is "
 "%1\n"
 msgstr ""
+"རིགས་གྲས་གཅིག་མཐུན་གྱི་ཡིག་རྟགས་རྒྱུན་མཐུད་ཕྲེང་སྟར་རིང་ཚད་ཆེས་ཆེ་བ་ནི%1\n"
 
 msgid ""
 "Characters of the same type are allowed to appear consecutively at most %1 \n"
 "times \n"
 msgstr ""
+"རིགས་མཐུན་ཡིག་རྟགས་མུ་མཐུད་འབྱུང་ཐེངས་ཆེས་མང་ན%1\n"
+"ཐེངས \n"
 
 msgid ""
 "If you fail to set a high-level password check strategy, the system will "
 "continue to use the original password check strategy to protect system "
 "security！"
 msgstr ""
+"རིམ་པ་མཐོ་བའི་གསང་གྲངས་ཞིབ་བཤེར་ཇུས་གཞི་སྒྲིག་འགོད་ལེགས་འགྲུབ་མ་བྱུང་བས། མ་ལག"
+"་གིས་སྔར་བཞིན་གདོད་མི་གསང་གྲངས་ཞིབ་བཤེར་ཇུས་གཞི་བཀོལ་ནས་མ་ལག་གི་བདེ་འཇགས་སྲུང"
+"་སྐྱོབ་བྱེད！"
 
 msgid ""
 "If the middle-level password check strategy fails to be set, the system will"
 " continue to use the original password check strategy to protect system "
 "security！"
 msgstr ""
+"འབྲིང་རིམ་་གསང་གྲངས་ཞིབ་བཤེར་ཇུས་གཞི་སྒྲིག་འགོད་ལེགས་འགྲུབ་མ་བྱུང་བས། མ་ལག་གི"
+"ས་སྔར་བཞིན་གདོད་མི་གསང་གྲངས་ཞིབ་བཤེར་ཇུས་གཞི་བཀོལ་ནས་མ་ལག་གི་བདེ་འཇགས་སྲུང་སྐ"
+"ྱོབ་བྱེད！"
 
 msgid ""
 "Setting a low-level password check strategy fails, the system will continue "
 "to use the original password check strategy to protect system security！"
 msgstr ""
+"དམའ་རིམ་་གསང་གྲངས་ཞིབ་བཤེར་ཇུས་གཞི་སྒྲིག་འགོད་ལེགས་འགྲུབ་མ་བྱུང་བས། མ་ལག་གིས་"
+"སྔར་བཞིན་གདོད་མི་གསང་གྲངས་ཞིབ་བཤེར་ཇུས་གཞི་བཀོལ་ནས་མ་ལག་གི་བདེ་འཇགས་སྲུང་སྐྱོ"
+"བ་བྱེད！"
 
 msgid "Add application network control"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་དྲ་རྒྱའི་ཚོད་འཛིན་སྣོན་པ།"
 
 msgid "Add application networking controls"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་དྲ་སྦྲེལ་ཚོད་འཛིན་སྣོན་པ།"
 
 msgid "Name (Required)"
-msgstr ""
+msgstr "མིང (ངེས་པར་འབྲི་དགོས)"
 
 msgid "Path (required)"
-msgstr ""
+msgstr "ལམ་ཐིག (ངེས་པར་འབྲི་དགོས)"
 
 msgid "Application icon"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་རིས་རྟགས།"
 
 msgid "Control strategy"
-msgstr ""
+msgstr "བདག་འཛིན་ཇུས་གཞི"
 
 msgid "Cancel"
 msgstr "ལེན་པ།"
 
 msgid "Sure"
-msgstr ""
+msgstr "གཏན་འཁེལ"
 
 msgid "The application name cannot be empty!"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་མིང་ནི་སྟོང་པ་ཡིན་མི་རུང་།!"
 
 msgid "The application path cannot be empty!"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ནི་ལམ་ཐིག་སྟོང་པ་ཡིན་མི་རུང་།!"
 
 msgid "The application path does not exist, please add it again!"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ལམ་ཐིག་མེད་པས་ཡང་བསྐྱར་སྣོན་རོགས!"
 
 msgid "The application name already exists, please re-enter!"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་མིང་འདི་ཡོད་པས་ཡང་བསྐྱར་སྣོན་རོགས!"
 
 msgid "The application already exists in the control list!"
-msgstr ""
+msgstr "ཚོད་འཛིན་མིང་ཐོ་རུ་ཉེར་སྤྱོད་བྱ་རིམ་འདི་ཡོད!"
 
 msgid "Failed to add application network control project!"
 msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་སྣོན་པའི་དྲ་སྦྲེལ་བདག་འཛིན་རྣམ་གྲངས་ལེགས་འགྲུབ་མ་བྱུང་།!"
 
 msgid "Choose a connected application"
-msgstr ""
+msgstr "སྦྲེལ་ཟིན་པའི་ཉེར་སྤྱོད་བྱ་རིམ་འདེམས་པ།"
 
 msgid "Select program icon"
-msgstr ""
+msgstr "བྱ་རིམ་རིས་རྟགས་འདེམས་པ།"
 
 msgid "The file path does not exist, please select again!"
-msgstr ""
+msgstr "ཡིག་ཆའི་ལམ་ཐིག་མེད་པས་ཡང་བསྐྱར་འདེམས་རོགས།!"
 
 msgid "The selected file is not an executable file, please select again!"
-msgstr ""
+msgstr "གདམ་པའི་ཡིག་ཆ་ནི་བསྟར་རུང་གི་ཡིག་ཆ་མིན་པས་ཡང་བསྐྱར་འདེམས་རོགས!"
 
 msgid "Add other applications"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་གཞན་པ་སྣོན་པ།"
 
 msgid "Program name"
 msgstr "བྱ་རིམ་གྱི་མིང་།"
 
 msgid "service"
-msgstr ""
+msgstr "ཞངས་ཞུ།"
 
 msgid "Application network control"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་དྲ་རྒྱའི་ཚོད་འཛིན།"
 
 msgid "Please enter name of search application "
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་འཚོལ་བྱའི་ཉེར་སྤྱོད་མིང་གཏག་རོགས། "
 
 msgid "Failed to delete controlled application!"
-msgstr ""
+msgstr "བདག་འཛིན་ཐོབ་པའི་ཉེར་སྤྱོད་བྱ་རིམ་བསུབ་མ་ཐུབ!"
 
 msgid "The script file does not exist!"
-msgstr ""
+msgstr "གཞི་ཡིག་ཡིག་ཆ་མེད!"
 
 msgid "run ksc-defender-deamon  failed"
-msgstr ""
+msgstr "འཁོར་སྐྱོད་ལེགས་འགྲུབ་མ་བྱུང་།"
 
 msgid "uncompliant"
-msgstr ""
+msgstr "མི་འཚམ"
 
 msgid "high"
 msgstr "མཐོ།"
 
 msgid "middle"
-msgstr ""
+msgstr "འབྲིང"
 
 msgid "compliant"
-msgstr ""
+msgstr "འཚམ"
 
 msgid "  Security Baseline class"
-msgstr ""
+msgstr "  བདེ་འཇགས་རྨང་ཐིག་རིགས།"
 
 msgid "  Security baseline item"
-msgstr ""
+msgstr "  བདེ་འཇགས་རྨང་ཐིག་ཚན་པ།"
 
 msgid "  result"
-msgstr ""
+msgstr "  མཇུག་འབྲས།"
 
 msgid ""
 "uncompliant item<font style='font-size:16px;color:green;'>%1</font>item"
-msgstr ""
+msgstr "མི་འཚམ་པའི་སྡེ <font style='font-size:16px;color:green;'>%1</font>སྡེ"
 
 msgid "<font style='font-size:16px;'>start scanning...</font>"
-msgstr ""
+msgstr "<font style='font-size:16px;'>བཤེར་འབེབས་འགོ་རྩོམ...2</font>"
 
 msgid "<font style='font-size:32px;'>start scanning...</font>"
-msgstr ""
+msgstr "<font style='font-size:32px;'>བཤེར་འབེབས་འགོ་རྩོམ...</font>"
 
 msgid "See detail"
-msgstr ""
+msgstr "གནས་ཚུལ་ཞིབ་རྒྱས་ལ་ལྟ་བ།"
 
 msgid "Cancel scan"
-msgstr ""
+msgstr "བཤེར་འབེབས་དོར་བ།"
 
 msgid "Completed scan"
-msgstr ""
+msgstr "བཤེར་འབེབས་བྱས་ཚར།"
 
 msgid ""
 "Statistics on the number of high-risk configuration security baseline items"
-msgstr ""
+msgstr "ཉེན་མཐོའི་སྒྲིག་བཀོད་བདེ་འཇགས་རྨང་ཐིག་ཚན་པའི་ཁ་གྲངས་བསྡོམས་རྩིས།"
 
 msgid ""
 "Statistics on the number of middle-risk configuration security baseline "
 "items"
-msgstr ""
+msgstr "ཉེན་འབྲིང་སྒྲིག་བཀོད་བདེ་འཇགས་རྨང་ཐིག་ཚན་པའི་ཁ་གྲངས་བསྡོམས་རྩིས།"
 
 msgid ""
 "Statistics on the number of low-risk configuration security baseline items"
-msgstr ""
+msgstr "ཉེན་དམའི་སྒྲིག་བཀོད་བདེ་འཇགས་རྨང་ཐིག་ཚན་པའི་ཁ་གྲངས་བསྡོམས་རྩིས།"
 
 msgid "Program error! Reason for error: file opening failed!"
-msgstr ""
+msgstr "བྱ་རིམ་ནོར་སོང!ནོར་རྐྱེན་ནི་ཡིག་ཆ་སྒོ་འབྱེད་ལེགས་འགྲུབ་མ་བྱུང་བས་ཡིན།!"
 
 msgid ""
 "The scan has not been completed. After canceling the scan, you will return "
 "to the baseline scan homepage!"
 msgstr ""
+"བཤེར་འབེབས་ད་དུང་ཚར་མེད། "
+"བཤེར་འབེབས་དོར་རྗེས་རྨང་ཐིག་བཤེར་འབེབས་ཀྱི་མགོ་ངོས་ལ་ཕྱིར་ལོག!"
 
 msgid ""
 "<font style='font-size:18px;'>uncompliant item</font>  <font style='font-"
 "size:18px;color:rgb(%1);'>%2</font>  <font style='font-"
 "size:18px;'>item</font>"
 msgstr ""
+"<font style='font-size:18px;'>མི་འཚམ་པའི་སྡེ</font>  <font style='font-"
+"size:18px;color:rgb(%1);'>%2</font>  <font style='font-size:18px;'>སྡེ</font>"
 
 msgid "<font style='font-size:32px;'>Scan complete</font>"
-msgstr ""
+msgstr "<font style='font-size:32px;'>བཤེར་འབེབས་བྱས་ཚར</font>"
 
 msgid "The computer has non-compliance items and faces hidden dangers"
-msgstr ""
+msgstr "གློག་ཀླད་ལ་མི་འཚམ་པའི་སྡེ་ཡོད་པས་བདེ་འཇགས་ཉེན་ཁ་གནས།"
 
 msgid "Scanning is complete, no non-conformities have been found"
-msgstr ""
+msgstr "བཤེར་འབེབས་བྱས་ཚར། མི་འཚམ་པའི་སྡེ་རྙེད་མ་བྱུང་།"
 
 msgid "Program error! Cause of error: Script file execution failed!"
-msgstr ""
+msgstr "བྱ་རིམ་ནོར་བ། ནོར་རྐྱེན་ནི་གཞི་ཡིག་ཡིག་ཆ་ལག་བསྟར་ལེགས་འགྲུབ་མ་བྱུང་།!"
 
 msgid "<font style='color:rgb(107,142,235);'>Click to view</font>"
-msgstr ""
+msgstr "<font style='color:rgb(107,142,235);'>གནན་ནས་ཞིབ་ལྟ </font>"
 
 msgid "<font style='color:rgb(61,107,229);'>Click to view</font>"
-msgstr ""
+msgstr "<font style='color:rgb(61,107,229);'>གནན་ནས་ཞིབ་ལྟ</font>"
 
 msgid "<font style='color:rgb(65,95,196);'>Click to view</font>"
-msgstr ""
+msgstr "<font style='color:rgb(65,95,196);'>གནན་ནས་ཞིབ་ལྟ</font>"
 
 msgid ""
 "<font style='font-size:16px;color:rgb(61,107,229);'>Scan time：%1</font>"
 msgstr ""
+"<font style='font-size:16px;color:rgb(61,107,229);'>བཤེར་འབེབས་དུས་ཚོད "
+"：%1</font>"
 
 msgid "tip"
-msgstr ""
+msgstr "གསལ་འདེབས།"
 
 msgid "Tip"
-msgstr ""
+msgstr "གསལ་འདེབས།"
 
 msgid "Scanning not complete，it will be return home page if cancel scan ！"
-msgstr ""
+msgstr "བཤེར་འབེབས་ད་དུང་ཚར་མེད། བཤེར་འབེབས་དོར་རྗེས་མགོ་ངོས་ལ་ཕྱིར་ལོག!"
 
 msgid "Continue"
 msgstr "མུ་མཐུད།"
 
 msgid "<font style='font-size:14px;'><strong>tip</strong></font>"
-msgstr ""
+msgstr "<font style='font-size:14px;'><strong>གསལ་འདེབས</strong></font>"
 
 msgid "continue"
 msgstr "ཡང་བསྐྱར་བཤར་འབེབས།"
 
 msgid "sure"
-msgstr ""
+msgstr "གཏན་འཁེལ"
 
 msgid "setting filewall by self-define "
-msgstr ""
+msgstr "མེ་འགོག་མཁར་རང་འགོད་མཚན་ཉིད་སྒྲིག་འགོད། "
 
 msgid "Firewall custom Settings"
 msgstr ""
