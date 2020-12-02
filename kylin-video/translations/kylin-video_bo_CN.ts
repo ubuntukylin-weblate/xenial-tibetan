@@ -97,22 +97,22 @@
     </message>
     <message>
         <source>Cache for local files:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ས་གནས་དེ་གའི་ཡིག་ཆ་གསོག་ཉར་བྱེད་པ།</translation>
     </message>
 </context>
 <context>
     <name>AboutDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Kylin Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེའུ་ལེན་སྒྲ་སྙན།</translation>
     </message>
     <message>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>པར་དེབ། %1</translation>
     </message>
     <message>
         <source>About</source>
@@ -120,19 +120,19 @@
     </message>
     <message>
         <source>Code website:</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚབ་ཨང་མངག་བཅོལ་དོ་དམ།</translation>
     </message>
     <message>
         <source>Kylin Video is developed on the basis of %1, is a graphical interface for %2 and %3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ཆེའུ་ལེན་སྒྲ་སྙན་ནི%1རྨང་གཞིའི་སྟེང་གསར་སྤེལ་དང%2དང་%3ཡི་དབྱིབས་རིས་མདུན་སྣེ།</translation>
     </message>
     <message>
         <source>Links:</source>
-        <translation type="unfinished"></translation>
+        <translation>སྦྲེལ་མཐུད་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Playback engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏོང་བྱེད་སྒུལ་འཕྲུལ།</translation>
     </message>
     <message>
         <source>Contributor</source>
@@ -140,34 +140,34 @@
     </message>
     <message>
         <source>Developer&apos;s personal home page:</source>
-        <translation type="unfinished"></translation>
+        <translation>གསར་གཏོད་པའི་སྒེར་གྱི་གཙོ་ངོས།</translation>
     </message>
     <message>
         <source>Using Qt %1 (compiled with Qt %2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt%1 ནི（Qt%2བཀོལ་དེ་སྒྲིག་སྒྱུར་བྱེད་པ）བཀོལ་སྤྱོད་བྱེད་བཞིན་པའི་སྒང་ཡིན།</translation>
     </message>
 </context>
 <context>
     <name>ActionsEditor</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>མིང་།</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"></translation>
+        <translation>གསལ་འདེབས་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ནོར་འཁྲུལ།</translation>
     </message>
     <message>
         <source>kylin-video</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེའུ་ལེན་སྒྲ་སྙན།</translation>
     </message>
     <message>
         <source>The file couldn&apos;t be saved</source>
