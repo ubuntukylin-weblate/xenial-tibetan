@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-01 09:59+0000\n"
+"PO-Revision-Date: 2020-12-03 13:04+0000\n"
 "Last-Translator: 头旦才让 <atou2008@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/ksc-defender/bo_CN/>\n"
@@ -246,7 +246,7 @@ msgid "Control strategy"
 msgstr "བདག་འཛིན་ཇུས་གཞི"
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr "འདོེར་བ།"
 
 msgid "Sure"
 msgstr "གཏན་འཁེལ"
@@ -429,98 +429,111 @@ msgid "setting filewall by self-define "
 msgstr "མེ་འགོག་མཁར་རང་འགོད་མཚན་ཉིད་སྒྲིག་འགོད། "
 
 msgid "Firewall custom Settings"
-msgstr ""
+msgstr "མེ་འགོག་གྱང་རང་བཟོས་སྒྲིག་འགོད"
 
 msgid ""
 "You can define which services in the zone are trusted here. All hosts and "
 "networks that can be connected to connections, interfaces, and sources bound"
 " to this zone, and can access trusted services"
 msgstr ""
+"འདི་ནས་ཁྱབ་ཁོངས་ནང་གི་ཞབས་ཞུ་དེ་དག་ནི་ཡིད་རྟོན་རུང་བ་ཡིན་པའི་མཚན་ཉིད་བཞག་ཆོག "
+"ཁྱབ་ཁོངས་འདི་དང་བཏགས་པའི་སྦྲེལ་མཐུད་དང་མཐུད་སྒོ་སོགས་ཀྱི་གཙོ་འཁོར་ཚང་མ་དང་དྲ་"
+"རྒྱ།དེ་མིན་ལྟ་སྤྱོད་རུང་བའི་ཡིད་རུང་ཞབས་ཞུ།"
 
 msgid "Manage the protocols and ports that the service needs to access"
-msgstr ""
+msgstr "ཞབས་ཞུ་དོ་དམ་བྱེད་པར་ལྟ་སྤྱོད་དགོས་པའི་གྲོས་ཆོད་དང་མཐུད་སྒོ།"
 
 msgid "protocol"
-msgstr ""
+msgstr "གྲོས་ཆོད"
 
 msgid "port"
 msgstr "མཐུད་ཁ།"
 
 msgid "Add service"
-msgstr ""
+msgstr "ཞབས་ཞུ་ཁ་སྣོན"
 
 msgid "Add item"
-msgstr ""
+msgstr "ལེ་ཚན་ཁ་སྣོན"
 
 msgid "delete service"
-msgstr ""
+msgstr "ཞབས་ཞུ་བསུབ་པ"
 
 msgid "delete item"
-msgstr ""
+msgstr "ལེ་ཚན་བསུབ་པ།"
 
 msgid "Edit service"
-msgstr ""
+msgstr "ཞབས་ཞུ་རྩོམ་སྒྲིག"
 
 msgid "Edit item"
-msgstr ""
+msgstr "ལེ་ཚན་རྩོམ་སྒྲིག"
 
 msgid "Restore default services"
-msgstr ""
+msgstr "རང་ལེན་ཞབས་ཞུ་སོར་ཆུད"
 
 msgid "search"
 msgstr "བཤེར་འཚོལ།"
 
 msgid "Please choosing a service that you need to delete！"
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་སྔོན་ལ་བསུབ་དགོསཔའི་ཞབས་ཞུ་འདེམས་རོགས！"
 
 msgid "Failed to delecte  selected firewall`s service！"
-msgstr ""
+msgstr "མེ་འགོག་གྱང་ཞབས་ཞུ་བསུབ་མ་ཐུབ！"
 
 msgid "Please select service that needed edited and modified！"
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་སྔོན་ལ་རྩོམ་སྒྲིག་བཟོ་བཅོས་རྒྱག་བྱའི་ཞབས་ཞུ་འདེམས་རོགས！"
 
 msgid "Failed to disable the selected firewall sercive!"
-msgstr ""
+msgstr "འདེམས་ཟིན་པའི་མེ་འགོག་གྱང་ཞབས་ཞུ་མཚམས་འཇོག་མ་ཐུབ!"
 
 msgid ""
 "Failed to obtain the selected firewall service configuration information!"
-msgstr ""
+msgstr "འདེམས་ཟིན་པའི་མེ་འགོག་གྱང་གི་ཞབས་ཞུ་སྒྲིག་བཀོད་ཆ་འཕྲིན་ལེན་མ་ཐུབ!"
 
 msgid ""
 "Please select the service that needs to add protocol and port configuration "
 "first!"
 msgstr ""
+"ཁྱེད་ཀྱིས་གྲོས་གཞི་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་སྣོན་དགོས་པའི་ཞབས་ཞུ་འདེམས་རོགས!"
 
 msgid "Please disable the selected firewall service first!"
-msgstr ""
+msgstr "འདེམས་ཟིན་པའི་མེ་འགོག་གྱང་ཞབས་ཞུ་མཚམས་འཇོག་རོགས!"
 
 msgid ""
 "Please select the service that needs to delete the protocol and port "
 "configuration first!"
 msgstr ""
+"ཁྱེད་ཀྱིས་སྔོན་ལ་གྲོས་གཞི་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་བསུབ་དགོསཔའི་ཞབས་ཞུ་འདེམས་རོ"
+"གས!"
 
 msgid "Please select the protocol and port configuration to be deleted first!"
 msgstr ""
+"ཁྱེད་ཀྱིས་སྔོན་ལ་བསུབ་དགོས་པའི་གྲོས་ཆོད་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་འདེམས་རོགས!"
 
 msgid ""
 "Failed to delete the protocol and port configuration items of the selected "
 "firewall service!"
 msgstr ""
+"འདེམས་ཟིན་པའི་མེ་འགོག་གྱང་ཞབས་ཞུའི་གྲོས་ཆོད་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་ཚན་པ་བསུབ་"
+"མ་ཐུབ!"
 
 msgid ""
 "Please select the service that needs to modify the protocol and port "
 "configuration first!"
 msgstr ""
+"ཁྱེད་ཀྱིས་སྔོན་ལ་གྲོས་ཆོད་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་བཟོ་བཅོས་བྱ་དགོསཔའི་ཞབས་ཞུ་འ"
+"དེམས་རོགས!"
 
 msgid ""
 "Please select the protocol and port configuration to be modified first!"
 msgstr ""
+"ཁྱེད་ཀྱིས་སྔོན་ལ་བཟོ་བཅོས་བྱ་དགོས་པའི་གྲོས་ཆོད་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་འདེམས་ར"
+"ོགས!"
 
 msgid "Failed to restore the default service!"
-msgstr ""
+msgstr "རང་ལེན་ཞབས་ཞུ་སོར་ཆུད་མ་ཐུབ!"
 
 msgid "Add protocol, port"
-msgstr ""
+msgstr "གྲོས་ཆོད་དང་མཐུད་སྒོ་སྣོན་པ"
 
 msgid "Protocol"
 msgstr "འཕྲིན་གཏོང་གྲོས་མཐུན།"
@@ -529,45 +542,48 @@ msgid "Port"
 msgstr "མཐུད་ཁ།"
 
 msgid "Input format example：6237 OR 6237-6601"
-msgstr ""
+msgstr "ནང་འདྲེན་རྣམ་བཞག་དཔེ་བརྗོད：6237 OR 6237-6601"
 
 msgid "The protocol does not support port configuration"
-msgstr ""
+msgstr "སྒྲིག་སྲོལ་འདིས་མཐུད་སྒོ་སྒྲིག་བཀོད་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "The agreement name cannot be empty!"
-msgstr ""
+msgstr "གྲོས་ཆོས་མིང་ནི་སྟོང་བ་ཡིན་མི་རུང་།!"
 
 msgid "The system does not support this agreement temporarily!"
-msgstr ""
+msgstr "མ་ལག་གིས་གནས་སྐབས་སུ་གྲོས་ཆོས་འདི་རྒྱབ་སྐྱོར་མི་བྱེད!"
 
 msgid "The port configuration format is illegal, please check and reset!"
 msgstr ""
+"མཐུད་སྒོ་སྒྲིག་བཀོད་ཁྲིམས་འགལ་ཡིན་པས་ཞིབ་བཤེར་བྱས་རྗེས་ཡང་བསྐྱར་སྒྲིག་འགོད་བྱ"
+"་རོགས!"
 
 msgid ""
 "The current protocol and port configuration already exist, please check and "
 "reset!"
 msgstr ""
+"མིག་སྔའི་གྲོས་ཆོད་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་ཡོད་པས་ཡང་བསྐྱར་སྒྲིག་འགོད་བྱ་རོགས!"
 
 msgid "Failed to add protocol and port configuration!"
-msgstr ""
+msgstr "གྲོས་ཆོས་ཁ་སྣོན་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་ལེགས་འགྲུབ་མ་བྱུང་།!"
 
 msgid "Edit protocol, port"
-msgstr ""
+msgstr "གྲོས་ཆོད་དང་མཐུད་སྒོ་རྩོམ་སྒྲིག"
 
 msgid "The protocol name cannot be empty!"
-msgstr ""
+msgstr "གྲོས་ཆོད་མིང་ནི་སྟོང་པ་ཡིན་མི་རུང་།!"
 
 msgid "Failed to modify the protocol and port configuration!"
-msgstr ""
+msgstr "གྲོས་ཆོད་བཟོ་བཅོས་དང་མཐུད་སྒོ་སྒྲིག་བཀོད་ལེགས་འགྲུབ་མ་བྱུང་།!"
 
 msgid "Input format example ：6237 OR 6237-6601"
-msgstr ""
+msgstr "ནང་འདྲེན་རྣམ་བཞག་དཔེ་བརྗོད ：6237 OR 6237-6601"
 
 msgid "Basic service settings"
-msgstr ""
+msgstr "རྨང་གཞིའི་ཞབས་ཞུ་སྒྲིག་འགོད།"
 
 msgid "Name（required）"
-msgstr ""
+msgstr "མིང（ངེས་པར་འབྲི་དགོས）"
 
 msgid "Version"
 msgstr "པར་གཞི།"
@@ -576,60 +592,64 @@ msgid "Summary"
 msgstr "གནད་བསྡུས།"
 
 msgid "Detailed introduction"
-msgstr ""
+msgstr "ཞིབ་ཕྲའི་གནས་ཚུལ་ངོ་སྤྲོད།"
 
 msgid "Add protocol and port"
-msgstr ""
+msgstr "གྲོས་ཆོད་དང་མཐུད་སྒོ་ཁ་སྣོན།"
 
 msgid "The service name cannot be empty!"
-msgstr ""
+msgstr "ཞབས་ཞུ་མིང་ནི་སྟོང་པ་ཡིན་མི་རུང་།!"
 
 msgid "The service already exists!"
-msgstr ""
+msgstr "ཞབས་ཞུ་འདི་ཡོད།!"
 
 msgid "Protocol name cannot be empty！"
-msgstr ""
+msgstr "གྲོས་ཆོད་མིང་སྟོང་པ་ཡིན་མི་རུང་།!"
 
 msgid "The system does not support the protocol temporarily"
-msgstr ""
+msgstr "མ་ལག་གིས་གནས་སྐབས་སུ་ཞབས་ཞུ་འདིར་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "Failed to add firewall control service!"
-msgstr ""
+msgstr "མེ་འགོག་བདག་འཛིན་ཞབས་ཞུ་སྣོན་མ་ཐུབ།!"
 
 msgid "he service name cannot be empty!"
-msgstr ""
+msgstr "ཞབས་ཞུའི་མིང་སྟོང་པ་ཡིན་མི་རུང་།!"
 
 msgid "Application execution control"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་ལག་བསྟར་ཚོད་འཛིན"
 
 msgid "Application installation and execution control"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ནང་འཇུག་དང་ལག་བསྟར་ཚོད་འཛིན"
 
 msgid "Check application integrity"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ཆ་ཚང་རང་བཞིན་ལ་ཞིབ་བཤེར།"
 
 msgid ""
 "Kylin’s  built-in security mechanism checks the integrity of the application"
 " and helps protect the integrity of the system’s operating environment"
 msgstr ""
+"ཆི་ལིན་ནང་བཀོད་བདེ་འཇགས་ཕུང་བོ་ཡིས་ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ཆ་ཚང་རང་བཞིན་ལ་ཞིབ་བཤ"
+"ེར་བྱེད་པ་དང་། "
+"མ་ལག་འཁོར་སྐྱོད་ཁོར་ཡུག་གི་ཆ་ཚང་རང་བཞིན་སྲུང་སྐྱོང་བྱེད་པར་རོགས་རམ་བྱེད།"
 
 msgid "Prevention"
-msgstr ""
+msgstr "བཀག་འགོག"
 
 msgid "Warm"
-msgstr ""
+msgstr "ཉེན་བརྡ།"
 
 msgid "Closed"
 msgstr "ཁ་ཟུམ།"
 
 msgid "Turn off the security function that checks program integrity"
 msgstr ""
+"བྱ་རིམ་གྱི་ཆ་ཚང་རང་བཞིན་ལ་ཞིབ་བཤེར་བྱེད་པའི་བདེ་འཇགས་རྩོལ་ནུས་སྒོ་རྒྱག་པ།"
 
 msgid "Add, update, and delete application benchmarks"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་རྨང་ཚད་ཐང་སྣོན་པ་དང་གསར་བརྗེ་བསུབ་པ།"
 
 msgid "Check application source"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ཡོང་ཁུངས་ཞིབ་བཤེར།"
 
 msgid ""
 "Check the compliance of the application. The application installed using "
@@ -638,262 +658,284 @@ msgid ""
 "security function of Kylin, the execution permission of the application will"
 " be checked"
 msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ལུགས་མཐུན་རང་བཞིན་ཞིབ་བཤེར་དང་། ཡོང་ཁུངས་ལུགས་མཐུན་ཡིན་པ"
+"འི་བྱ་རིམ་གྱིས་ནུས་ལྡན་སྒོས་མ་ལག་གི་བརྟན་བརླིང་རང་བཞིན་སྲུང་སྐྱོང་བྱ་ཐུབ་པ་དང"
+"་། གལ་ཏེ་ཉེར་སྤྱོད་ལ་དཔང་སྤྲོད་མེད་ན། "
+"ཆི་ལིན་ནང་བཀོད་བདེ་འཇགས་རྩོལ་ནུས་ཀྱི་སྒོ་ཕྱེ་རྗེས། "
+"ཉེར་སྤྱོད་ཀྱི་ལག་བསྟར་དབང་ཆ་ཞིབ་བཤེར་བྱ།"
 
 msgid "All source"
-msgstr ""
+msgstr "ཡོང་ཁུངས་གང་རུང་།"
 
 msgid "But if the app is from an uncertified source, please notify me"
 msgstr ""
+"འོན་ཀྱང་། གལ་ཏེ་ཉེར་སྤྱོད་ནི་དཔང་སྤྲོད་མེད་པར་བྱུང་ན། ང་ལ་བརྡ་གཏོང་རོགས།"
 
 msgid "Address randomization"
-msgstr ""
+msgstr "སྡོད་གནས་གང་འཕྲོད་ཅན།"
 
 msgid ""
 "The system has built-in address space randomization function by default, and"
 " supports address randomization of shared libraries, heap, stack, MMAP, and "
 "VDSO to help protect the system from attacks"
 msgstr ""
+"མ་ལག་གིས་རང་ལེན་སྒོས་སྡོད་གནས་བར་སྟོང་གང་འཕྲོད་ཅན་ནང་བཀོད་བྱས་ཡོད་པ་དང་། "
+"མཉམ་སྤྱོད་མཛོད་དང་ཕུང་བོ། དོས། "
+"དེ་བཞིན་ཡི་སྡོད་གནས་གང་འཕྲོད་ཅན་ལ་རྒྱབ་སྐྱོར་བྱས་ཡོད་པས། "
+"མ་ལག་སྲུང་སྐྱོབ་ལ་རོགས་རམ་བྱས་པས་རྒོལ་རྡུང་མི་ཐེབས་པ་བྱས་ཡོད།"
 
 msgid "Certified legal source"
-msgstr ""
+msgstr "དཔང་སྤྲོད་ཐོབ་པའི་ཁྲིམས་མཐུན་ཡོང་ཁུངས།"
 
 msgid "Executing control state switching..."
-msgstr ""
+msgstr "ལག་བསྟར་ཚོད་འཛིན་རྣམ་པ་བརྗེ་བཞིན་པའི་སྒང་།..."
 
 msgid "Executing control state switching,Prohibit closing!"
-msgstr ""
+msgstr "ལག་བསྟར་ཚོད་འཛིན་རྣམ་པ་བརྗེ་བཞིན་པའི་སྒང་།སྒོ་རྒྱག་མི་ཆོག!"
 
 msgid "Cannot enable Kylin security mechanism"
-msgstr ""
+msgstr "ཆི་ལིན་བདེ་འཇགས་ཕུང་བོ་སྒོ་འབྱེད་མ་ཐུབ།"
 
 msgid ""
 "Failed to set application integrity check policy, the system will continue "
 "to use the original policy to protect system security"
 msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ཆ་ཚང་རང་བཞིན་སྒྲིག་འགོད་ཞིབ་བཤེར་ཇུས་གཞི་ལེགས་འགྲུབ་མ་བྱ"
+"ུང་བས། "
+"མ་ལག་གིས་མུ་མཐུད་དུ་ཐོག་མའི་ཇུས་གཞི་བཀོལ་ནས་མ་ལག་བདེ་འཇགས་སྲུང་སྐྱོབ་བྱ།"
 
 msgid "Executing control state switching ..."
-msgstr ""
+msgstr "ལག་བསྟར་ཚོད་འཛིན་རྣམ་པ་བརྗེ་སྒང ..."
 
 msgid "Executing control state switching，prohibit closing!"
-msgstr ""
+msgstr "ལག་བསྟར་ཚོད་འཛིན་རྣམ་པ་བརྗེ་སྒང་། སྒོ་རྒྱག་མི་ཆོག!"
 
 msgid "Failed to set system application source detection level!"
-msgstr ""
+msgstr "མ་ལག་ཉེར་སྤྱོད་ཡོང་ཁུངས་ཞིབ་བཤེར་རིམ་པ་སྒྲིག་འགོད་བྱ་མ་ཐུབ།!"
 
 msgid "Failed to set system application source detection level！"
-msgstr ""
+msgstr "མ་ལག་ཉེར་སྤྱོད་ཡོང་ཁུངས་ཞིབ་བཤེར་རིམ་པ་སྒྲིག་འགོད་བྱ་མ་ཐུབ།!"
 
 msgid ""
 "No documents that meet the requirements are found, please select to add "
 "again!"
-msgstr ""
+msgstr "ཆ་རྐྱེན་དང་འཚམ་པའི་ཡིག་ཆ་མ་རྙེད་པས་ཡང་བསྐྱར་འདེམས་ནས་སྣོན་རོགས!"
 
 msgid "Authorization failed, adding is prohibited!"
-msgstr ""
+msgstr "དབང་ཐོང་དཔང་སྤྲོད་ལེགས་འགྲུབ་མ་བྱུང་བས་སྣོན་མི་ཆོག!"
 
 msgid "KYSEC security mechanism is not enabled, it is forbidden to add!"
-msgstr ""
+msgstr "KYSECབདེ་འཇགས་ཕུང་བོ་སྒོ་ཕྱེ་མེད་པས་སྣོན་མི་ཆོག!"
 
 msgid "Database exception, adding whitelist record failed!"
-msgstr ""
+msgstr "གཞི་གྲངས་མཛོད་རྒྱུན་འགལ་ཡིན་པས། རྒྱུན་བཀོལ་མིང་སྣོན་མ་ཐུབ།!"
 
 msgid "%1 :Failed to get file mark!"
-msgstr ""
+msgstr "ཡིག་ཆའི་མཚོན་རྟགས་ལེན་མ་ཐུབ!"
 
 msgid "%1 :Failed to set file mark!"
-msgstr ""
+msgstr "%1 :ཡིག་ཆ་མཚོན་རྟགས་སྒྲིག་བཀོད་མ་ཐུབ!"
 
 msgid "Invalid parameter, failed to add whitelist record!"
-msgstr ""
+msgstr "ཞུགས་གྲངས་ནུས་མེད་ཡིན་པས། མིང་ཐོ་དཀར་པོའི་ཟིན་ཐོ་སྣོན་མ་ཐུབ།!"
 
 msgid "%1 :Failed to get list of files to be added!"
-msgstr ""
+msgstr "%1 :སྣོན་བྱའི་ཡིག་ཆ་ཕྲེང་སྟར་ལེན་མ་ཐུབ!"
 
 msgid "%1 :File attribute abnormal!"
-msgstr ""
+msgstr "%1 :ཡིག་ཆའི་གཏོགས་གཤིས་རྒྱུན་འགལ!"
 
 msgid "Unknown error, failed to add whitelist!"
-msgstr ""
+msgstr "མ་ཤེས་པའི་ནོར་འཁྲུལ། མིང་ཐོང་དཀར་པོ་སྣོན་མ་ཐུབ!"
 
 msgid "Please select the record to be decertified!"
-msgstr ""
+msgstr "དཔང་སྤྲོད་འདོར་དགོས་པའི་ཟིན་ཐོ་འདེམས་རོགས!"
 
 msgid ""
 "Authorization authentication fails, it is forbidden to cancel "
 "authentication!"
-msgstr ""
+msgstr "དབང་ཐོབ་དཔང་སྤྲོད་མ་ཐུབ། དཔང་སྤྲོད་འདོར་མི་ཆོག!"
 
 msgid ""
 "KYSEC security mechanism is not enabled, it is forbidden to de-authenticate!"
-msgstr ""
+msgstr "KYSEC བདེ་འཇགས་ཕུང་བོ་སྒོ་ཕྱེ་མེད། དཔང་སྤྲོད་འདོར་མི་ཆོག!"
 
 msgid "Database exception, de-authentication failed!"
-msgstr ""
+msgstr "གཞི་གྲངས་མཛོད་རྒྱུན་འགལ། དཔང་སྤྲོད་འདོར་མི་ཆོག!"
 
 msgid "Invalid parameter, de-authentication failed!"
-msgstr ""
+msgstr "ཞུགས་གྲངས་ནུས་མེད་ཡིན་པས་དཔང་སྤྲོད་འདོར་མི་ཆོག!"
 
 msgid "%1 :Failed to obtain the list of documents to be decertified!"
-msgstr ""
+msgstr "%1 :དཔང་སྤྲོད་སྤངས་པར་སྒུག་པའི་ཡིག་ཆའི་ཕྲེང་སྟར་ལེན་མ་ཐུབ!"
 
 msgid "Unknown error, decertification failed!"
-msgstr ""
+msgstr "མ་ཤེས་པའི་ནོར་འཁྲུལ། དཔང་སྤྲོད་འདོར་མ་ཐུབ!"
 
 msgid "Application benchmark value management"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་རྨང་ཚད་ཐང་དོ་དམ།"
 
 msgid ""
 "Management applications, dynamic library benchmark values, applications and "
 "dynamic libraries whose integrity is destroyed or not certified are not "
 "allowed to run or load directly"
 msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་དོ་དམ་དང་འགུལ་ལྡན་མཛོད་ཀྱི་རྨང་ཚད་ཐང་། ཆ་ཚང་སྒོས་གཏོར་བརླག་བ"
+"ཏང་ཟིན་པ་འམ་ཡང་ན་དཔང་སྤྲོད་མེད་པའི་ཉེར་སྤྱོད་བྱ་རིམ་དང་འགུལ་རྣམ་མཛོད་ཐད་ཀར་འཁ"
+"ོར་སྐྱོད་དང་སྣོན་འཇུག་བྱེད་དུ་མི་འཇུག"
 
 msgid "Add"
-msgstr "གསར་བཟོ།"
+msgstr "ཁ་སྣོན"
 
 msgid "Update"
 msgstr "གསར་སྒྱུར།"
 
 msgid "Decertification"
-msgstr ""
+msgstr "དཔང་སྤྲོད་འདོར་བ"
 
 msgid "Enter search content"
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་འཚོལ་བྱའི་ནང་དོན་གཏག་རོགས"
 
 msgid "<font color = #696969 >%1 tampered with record rows in total</font>"
-msgstr ""
+msgstr "<font color = #696969 >བསྡོམས  %1ཤར་ཟིན་ཐོ། བཟོ་བཅོས་བྱས</font>"
 
 msgid "<font color = #696969 > line</font>"
-msgstr ""
+msgstr "<font color = #696969 > འཕྲེད་ཤར</font>"
 
 msgid "Add execution control whitelist"
-msgstr ""
+msgstr "ལག་བསྟར་ཚོད་འཛིན་མིང་ཐོ་དཀར་པོ་སྣོན་པ"
 
 msgid "File adding..."
-msgstr ""
+msgstr "ཡིག་ཆ་སྣོན་བཞིན་པའི་སྒང་།..."
 
 msgid "Whitelist file parsing and adding, prohibit closing!"
-msgstr ""
+msgstr "མིང་ཐོ་དཀར་པོའི་ཡིག་ཆ་ཞིབ་འགྲེལ་སྣོན་བཞིན་པས་སྒོ་རྒྱག་མི་ཆོག!"
 
 msgid "Record updating..."
-msgstr ""
+msgstr "ཟིན་ཐོ་གསར་སྒྱུར་བྱེད་སྒང་..."
 
 msgid "Whitelist file updating, it is prohibited to close!"
-msgstr ""
+msgstr "མིང་ཐོ་དཀར་པོ་ཡིག་ཆ་གསར་སྒྱུར་བྱེད་བཞིན་པས་སྒོ་རྒྱག་མི་ཆོག!"
 
 msgid "The certification status is being cancelled..."
-msgstr ""
+msgstr "དཔང་སྤྲོད་རྣམ་པ་འདོར་བཞིན་པའི་སྒང་..."
 
 msgid ""
 "The KYSEC certification protection of the file is being cancelled. It is "
 "forbidden to close!"
-msgstr ""
+msgstr "ཡིག་ཆKYSECདཔང་སྤྲོད་སྲུང་སྐྱོང་འདོར་སྒང་ཡིན་པས་སྒོ་རྒྱག་མི་ཆོག!"
 
 msgid "All"
 msgstr "མཉེན་ཆས་ཚང་མ།"
 
 msgid "executable programs"
-msgstr ""
+msgstr "ལག་བསྟར་རུང་བའི་བྱ་རིམ"
 
 msgid "shared libraries"
-msgstr ""
+msgstr "མཉམ་སྤྱོད་མཛོད།"
 
 msgid "certified"
-msgstr ""
+msgstr "དཔང་སྤྲོད"
 
 msgid "system certified"
-msgstr ""
+msgstr "མ་ལག་དཔང་སྤྲོད"
 
 msgid "uncertified"
-msgstr ""
+msgstr "དཔང་སྤྲོད་བྱས་མེད"
 
 msgid "tampered"
-msgstr ""
+msgstr "གཟས་བཅོས་བྱས།"
 
 msgid ""
 "File path: %1\n"
 "Summary value: %21"
 msgstr ""
+"ཡིག་ཆའི་ལམ་ཐིག: %1\n"
+"གནད་བསྡུས་ཐང: %21"
 
 msgid "file path"
-msgstr ""
+msgstr "ཡིག་ཆའི་ལམ་ཐིག"
 
 msgid "file type"
-msgstr ""
+msgstr "ཡིག་ཆའི་རིགས་གྲས"
 
 msgid "current status"
-msgstr ""
+msgstr "མིག་སྔའི་རྣམ་པ"
 
 msgid "Prompt information"
-msgstr "གསལ་སྟོན་ཆ་འཕྲིན།"
+msgstr "གསལ་འདེབས་ཆ་འཕྲིན།"
 
 msgid "Authorization failed, update is prohibited!"
-msgstr ""
+msgstr "དབང་ཐོབ་དཔང་སྤྲོད་མ་ཐུབ་པས་གསར་སྒྱུར་བྱ་མི་ཆོག!"
 
 msgid "KYSEC security mechanism is not enabled, update is prohibited!"
-msgstr ""
+msgstr "KYSECབདེ་འཇགས་ཕུང་བོ་སྒོ་ཕྱེ་མེད་པས་གསར་སྒྱུར་བྱ་མི་ཆོག!"
 
 msgid "The database is abnormal and the whitelist record update failed!"
-msgstr ""
+msgstr "གཞི་གྲངས་མཛོད་རྒྱུན་འགལ་བྱུང་བས་ཡིད་རྟོན་མིང་ཐོ་གསར་སྒྱུར་བྱ་མ་ཐུབ།!"
 
 msgid "Invalid parameter, failed to update whitelist record!"
-msgstr ""
+msgstr "ཞུགས་གྲངས་ནུས་མེད་ཡིན་པས་ཡིད་རྟོན་མིང་ཐོ་གསར་སྒྱུར་བྱ་མ་ཐུབ།!"
 
 msgid "%1 :Failed to get the list of files to be updated!"
-msgstr ""
+msgstr "%1 :གསར་སྒྱུར་དགོས་པའི་ཡིག་ཆའི་ཕྲེང་བ་ལེན་མ་ཐུབ!"
 
 msgid "Unknown error, failed to update whitelist record!"
-msgstr ""
+msgstr "མ་ཤེས་པའི་ནོར་འཁྲུལ། ཡིད་རྟོན་མིང་ཐོ་གསར་སྒྱུར་བྱ་མ་ཐུབ།!"
 
 msgid "System Security Overview"
-msgstr ""
+msgstr "མ་ལག་བདེ་འཇགས་མདོར་བསྟན།"
 
 msgid ""
 "Understand the current security of the system and take necessary setting "
 "actions"
 msgstr ""
+"མ་ལག་གི་མིག་སྔའི་བདེ་འཇགས་རང་བཞིན་ལ་རྒྱུས་ལོན་བྱས་ནས་དགོས་ངེས་ཀྱི་སྒྲིག་བཀོད་"
+"བྱ་སྤྱོད་སྤེལ་བ།"
 
 msgid "Real-time protection to help the system avoid threats"
-msgstr ""
+msgstr "དུས་ཐོག་འགེབས་སྲུང་བྱས་ནས་མ་ལག་ལ་འཇིགས་སྐུལ་མི་ཐེབས་པ་བྱེད་པ།"
 
 msgid "Account security"
-msgstr ""
+msgstr "རྩིས་ཁྲའི་བདེ་འཇགས"
 
 msgid "Network protection"
-msgstr ""
+msgstr "དྲ་རྒྱ་སྲུང་སྐྱོང་།"
 
 msgid "Protect system network environment security"
-msgstr ""
+msgstr "མ་ལག་གི་དྲ་རྒྱའི་ཁོར་ཡུག་བདེ་འཇགས་སྲུང་སྐྱོབ།"
 
 msgid "Application installation and execution protection"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ནང་འཇུག་དང་ལག་བསྟར་སྲུང་སྐྱོབ།"
 
 msgid "Baseline scan"
-msgstr ""
+msgstr "རྨང་ཐིག་བཤེར་འབེབས།"
 
 msgid "Real-time scanning to identify risks"
-msgstr ""
+msgstr "དུས་ཐོག་བཤེར་འབེབས་བྱས་ནས་ཉེན་ཁ་བསྔོགས་པ།"
 
 msgid "TextLabel"
-msgstr ""
+msgstr "ཡིག་རྐྱང་ཕྲེང་བ།"
 
 msgid "remind"
-msgstr ""
+msgstr "གསལ་འདེབས།"
 
 msgid "query"
-msgstr ""
+msgstr "རྩད་འདྲི"
 
 msgid "error messenge"
-msgstr ""
+msgstr "ནོར་བའི་ཆ་འཕྲིན།"
 
 msgid "Home-page"
-msgstr ""
+msgstr "མགོ་ཤོག"
 
 msgid ""
 "Provide default network protection strategies and application networking "
 "management and control to maintain the security of the system network "
 "environment"
 msgstr ""
+"རང་ལེན་གྱི་དྲ་རྒྱའི་འགེབས་སྲུང་ཇུས་གཞི་དང་ཉེར་སྤྱོད་བྱ་རིམ་དྲ་སྦྲེལ་བདག་འཛིན་"
+"མཁོ་སྤྲོད་བྱས་ནས་མ་ལག་དྲ་རྒྱའི་ཁོར་ཡུག་བདེ་འཇགས་བརྟན་སྲུང་བྱ།"
 
 msgid "Firewall"
 msgstr "མེ་འགོག་གྱང་།"
@@ -902,35 +944,39 @@ msgid ""
 "Provide default network access permission strategy to build a safe and "
 "reliable network environment"
 msgstr ""
+"རང་ལེན་གྱི་དྲ་རྒྱ་ལྟ་སྤྱོད་ཆོག་མཆན་ཇུས་གཞི་འདོན་སྤྲོད་བྱས་ནས་བདེ་འཇགས་ཡིད་རྟོ"
+"ན་གྱི་དྲ་རྒྱའི་ཁོར་ཡུག་འཛུགས་པ།"
 
 msgid "Public network"
-msgstr ""
+msgstr "སྤྱི་སྤྱོད་དྲ་རྒྱ།"
 
 msgid "Network configuration suitable for public areas"
-msgstr ""
+msgstr "སྤྱི་སྤྱོད་ས་ཁོངས་སུ་འཚམ་པའི་དྲ་རྒྱ་སྒྲིག་འགོད།"
 
 msgid "Office network"
-msgstr ""
+msgstr "གཞུང་ལས་དྲ་རྒྱ།"
 
 msgid "Network configuration suitable for home and office workspace"
-msgstr ""
+msgstr "ཁྱིམ་ཚང་དང་གཞུང་ལས་ཁུལ་ལ་འཚམ་པའི་དྲ་རྒྱ་སྒྲིག་འགོད།"
 
 msgid "Custom configuration"
-msgstr ""
+msgstr "རང་བཀོད་སྒྲིག་འགོད"
 
 msgid "For advanced administrator users"
-msgstr ""
+msgstr "མཐོ་རིམ་དོདམ་པར་འཚམ་པ།"
 
 msgid ""
 "Turn off the firewall, suitable for network configuration in a trusted "
 "environment, allowing all network connections"
 msgstr ""
+"མེ་འགོག་གྱང་ཁ་བརྒྱབ་པ་དང་། ཡིད་རྟོན་ཁོར་ཡུག་གི་དྲ་རྒྱའི་སྒྲིག་འགོད་དང་འཚམ་པས་"
+"དྲ་རྒྱ་སྦྲེལ་ཡོངས་རྫོགས་བྱ་ཐུབ།"
 
 msgid "Application networking"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དྲ་འབྲེལ།"
 
 msgid "Control whether applications and services can actively network"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དང་ཞབས་ཞུ་ཚོད་འཛིན་བྱས་ན་རང་འགུལ་གྱིས་དྲ་འབྲེལ་ཐུབ་བམ།"
 
 msgid "Ban"
 msgstr "བཀག་པ།"
@@ -939,68 +985,75 @@ msgid ""
 "Turn off the application networking control function, all applications and "
 "services can be actively connected to the Internet"
 msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་གྱི་དྲ་འབྲེལ་ཚོད་འཛིན་ནུསཔ་སྒོ་བརྒྱབ་ན་ཉེར་སྤྱོད་དང་ཞབས་ཞུ་ཚ"
+"ང་མས་རང་འགུལ་གྱིས་དྲ་འབྲེལ་བྱུང་ཐུབ།"
 
 msgid "Add and delete apps that allow networking"
-msgstr ""
+msgstr "དྲ་འབྲེལ་ཆོག་པའི་ཉེར་སྤྱོད་ཁ་སྣོན་དང་བསུབ་པ།"
 
 msgid ""
 "Fail to set the system firewall protection level , the system will continue "
 "to use the original firewall protection level to protect system security!  "
 msgstr ""
+"མ་ལག་གི་མེ་འགོག་གྱང་གི་འགེབས་སྲུང་རིམ་པ་སྒྲིག་བཀོད་བྱས་མ་ཐུབ་པས། མ་ལག་གིས་མུ་"
+"མཐུད་དུ་སྔར་གྱི་མེ་འགོག་གྱང་གི་འགེབས་སྲུང་རིམ་པ་བཀོལ་ནས་མ་ལག་གི་བདེ་འཇགས་སྲུང"
+"་སྐྱོབ་བྱ!  "
 
 msgid " Switching network management and control status..."
-msgstr ""
+msgstr " དྲ་རྒྱའི་བདག་འཛིན་རྣམ་པ་བརྗེ་བཞིན་པའི་སྒང..."
 
 msgid ""
 "Network management and control status is switching, it is prohibited to "
 "close!"
-msgstr ""
+msgstr "དྲ་རྒྱའི་བདག་འཛིན་རྣམ་པ་བརྗེ་བཞིན་པའི་སྒང་ཡིན་པས་སྒོ་རྒྱག་མི་ཆོག!"
 
 msgid " Failed to enable Kylin security mechanism"
-msgstr ""
+msgstr " ཆི་ལིན་བདེ་འཇགས་ཕུང་བོ་ཁ་ཕྱེ་མ་ཐུབ།"
 
 msgid ""
 "Failed to set the application network control level, the system will "
 "continue to use the original level to protect the system security"
 msgstr ""
+"ཉེར་སྤྱོད་བྱ་རིམ་གྱི་འགེབས་སྲུང་རིམ་པ་སྒྲིག་བཀོད་བྱས་མ་ཐུབ་པས། མ་ལག་གིས་མུ་མཐ"
+"ུད་དུ་སྔར་གྱི་འགེབས་སྲུང་རིམ་པ་བཀོལ་ནས་མ་ལག་གི་བདེ་འཇགས་སྲུང་སྐྱོབ་བྱ"
 
 msgid "Switching network management and control status..."
-msgstr ""
+msgstr "དྲ་རྒྱའི་བདག་འཛིན་རྣམ་པ་བརྗེ་བཞིན་པའི་སྒང..."
 
 msgid ""
 "Network management and control status is switching, it is prohibited to "
 "close!!"
-msgstr ""
+msgstr "དྲ་རྒྱའི་བདག་འཛིན་རྣམ་པ་བརྗེ་བཞིན་པའི་སྒང་ཡིན་པས་སྒོ་རྒྱག་མི་ཆོག!"
 
 msgid "Description:"
-msgstr ""
+msgstr "གསལ་བཤད།:"
 
 msgid "Example"
 msgstr "དཔེ་མཚོན།"
 
 msgid "Password dictionary"
-msgstr ""
+msgstr "གསང་གྲངས་དག་ཡིག"
 
 msgid "Password"
 msgstr "གསང་ཨང་།"
 
 msgid "Exit search"
-msgstr ""
+msgstr "འཚོལ་བཤེར་ལས་ཕྱིར་འབུད"
 
 msgid "Please entrying search content"
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་འཚོལ་བྱའི་ནང་དོན་གཏག་རོགས།"
 
 msgid "Example:"
-msgstr "དཔེར་ན།"
+msgstr "དཔེར་བརྗོད:"
 
 msgid "close pop dialog\n"
-msgstr ""
+msgstr "ལྡེམ་སྒེའུ་སྒོ་རྒྱག\n"
 
 msgid "Password strength setting"
-msgstr ""
+msgstr "གསང་གྲངས་ཀྱི་རྫོངས་སྒྲིག་འགོད"
 
 msgid "Setting  password strength"
-msgstr ""
+msgstr "གསང་གྲངས་ཀྱི་རྫོངས་སྒྲིག་འགོད"
 
 msgid "Default"
 msgstr "སོར་བཞག"
@@ -1008,192 +1061,225 @@ msgstr "སོར་བཞག"
 msgid ""
 "Failed to update the password strength check configuration, please check!"
 msgstr ""
+"གསང་གྲངས་ཀྱི་རྫོངས་ཞིབ་བཤེར་གསར་སྒྱུར་བྱེད་མ་ཐུབ་པས་ཁྱེད་ཀྱིས་བསྐྱར་དུ་ཞིབ་བཤ"
+"ེར་བྱ་རོགས!"
 
 msgid "Enable password strength check"
-msgstr ""
+msgstr "གསང་གྲངས་དྲག་ཚད་ལ་ལྟ་བའི་སྒོ་འབྱེད་པ།"
 
 msgid "Password character control"
-msgstr ""
+msgstr "གསང་གྲངས་ཡིག་རྟགས་ཚོད་འཛིན"
 
 msgid "Minimum password length"
-msgstr ""
+msgstr "གསང་གྲངས་ཀྱི་ཆེས་ཆུང་བའི་རིང་ཚད།"
 
 msgid "The password contains at least the type of characters"
-msgstr ""
+msgstr "གསང་གྲངས་སུ་མ་མཐའ་ཡང་ཚུད་དགོས་པའི་ཡིག་རྟགས་རིགས།"
 
 msgid "Minimum number of uppercase letters"
-msgstr ""
+msgstr "ཡིག་ཆེན་གསལ་བྱེད་ཀྱི་ཆེས་ཆུང་གྲངས་ཚད།"
 
 msgid "Minimum number of lowercase letters"
-msgstr ""
+msgstr "ཡིག་ཆུང་གསལ་བྱེད་ཀྱི་ཆེས་ཆུང་གྲངས་ཚད།"
 
 msgid "Minimum number of numeric characters"
-msgstr ""
+msgstr "ཨང་ཀིའི་ཆེས་ཆུང་གྲངས་ཚད།"
 
 msgid "Minimum number of other characters"
-msgstr ""
+msgstr "ཡིག་རྟགས་གཞན་པའི་ཆེས་ཆུང་གྲངས་ཚད།"
 
 msgid "Password advanced settings"
-msgstr ""
+msgstr "གསང་གྲངས་ཀྱི་མཐོ་རིམ་སྒྲིག་འགོད"
 
 msgid "Passwords must not contain usernames"
-msgstr ""
+msgstr "གསང་གྲངས་སུ་བཀོལ་མཁན་མིང་བཀོལ་མི་རུང་།"
 
 msgid "Enable palindrome checking"
-msgstr ""
+msgstr "ལྡོག་རུང་ཡི་གེའི་ཞིབ་བཤེར་ཁ་འབྱེད་པ།"
 
 msgid "Enable similarity check"
-msgstr ""
+msgstr "ཉེ་མཚུངས་རང་བཞིན་གྱི་ཞིབ་བཤེར་ཁ་འབྱེད་པ།"
 
 msgid "Enable password dictionary"
-msgstr ""
+msgstr "གསང་གྲངས་དག་ཡིག་གི་ཁ་འབྱེད་པ།"
 
 msgid "Password dictionary:"
-msgstr ""
+msgstr "གསང་གྲངས་དག་ཡིག："
 
 msgid "Password valid time:"
-msgstr ""
+msgstr "གསང་གྲངས་ཀྱི་གོ་ཆོད་དུས་ཡུན་："
 
 msgid "Number of password history records kept"
-msgstr ""
+msgstr "གསང་གྲངས་ཀྱི་ལོ་རྒྱུས་ཟིན་ཐོ་སོར་ཉར་བྱེད་པའི་ཁ་གྲངས།"
 
 msgid "Password continuous character control"
-msgstr ""
+msgstr "གསང་གྲངས་རྒྱུན་མཐུད་ཡིག་རྟགས་ཚོད་འཛིན།"
 
 msgid "Maximum number of consecutive occurrences of the same character"
-msgstr ""
+msgstr "ཡིག་རྟགས་གཅིག་རྒྱུན་མཐུད་དུ་བྱུང་བའི་ཆེས་ཆེའི་ཐེངས་གྲངས།"
 
 msgid "Maximum number of consecutive characters of the same type"
-msgstr ""
+msgstr "རིགས་མཐུན་ཡིག་རྟགས་ཕྲེང་བ་རྒྱུན་མཐུད་ཀྱི་ཆེས་ཆེའི་ཐེངས་གྲངས།"
 
 msgid "Maximum consecutive occurrences of characters of the same type"
-msgstr ""
+msgstr "རིགས་མཐུན་ཡིག་རྟགས་རྒྱུན་མཐུད་བྱུང་ཐེངས་ཆེས་ཆེ་བ།"
 
 msgid "Minimum：1，maximum：4"
-msgstr ""
+msgstr "ཆེས་ཆུང་གྲངས་ཐང：1，ཆེས་ཆེ་གྲངས་ཐང：4"
 
 msgid ""
 "Character types include four types of uppercase letters, lowercase letters, "
 "numbers and other characters"
 msgstr ""
+"ཡིག་རྟགས་རིགས་ལ་ཡིག་ཆེན་གསལ་བྱེད་དང་ཡིག་ཆུང་གསལ་བྱེད། ཨང་ཀི། "
+"ཡིག་རྟགས་གཞན་བཅས་དབྱེ་བ་བཞི་ཡོད།"
 
 msgid ""
 "A palindrome refers to a sequence of characters that is the same both in "
 "front and back. Once enabled, the system will not be able to set a password "
 "containing this type of character sequence"
 msgstr ""
+"ལྡོག་རུང་ཡི་གེ་ཞེས་པ་ནི་དྲང་ཀློག་དང་ལྡོག་ཀློག་གང་བྱས་ཀྱང་ཡིག་རྟགས་ཕྲེང་བ་གཅིག"
+"་འདྲ་ཡིན་པ་ལ་ཟེར། ཁ་ཕྱེ་རྗེས། "
+"མ་ལག་གིས་ཡིག་རྟགས་ཕྲེང་བ་འདི་འདྲ་འདུས་པའི་གསང་གྲངས་སྒྲིག་འགོད་མི་བྱེད།"
 
 msgid ""
 "For example, if the password is \"abcdcba\", the password sequence is the "
 "same for both positive and negative reading, and the password is the "
 "palindrome password"
 msgstr ""
+"དཔེར་ན་གསང་གྲངས\"abcdcba\"ཡིན་ན། གསང་གྲངས་ཕྲེང་བའི་དྲང་ཀློག་དང་ལྡོག་ཀློག་ཚང་མ"
+"་གཅིག་འདྲ་ཡིན་པས་གསང་གྲངས་འདི་ནི་ལྡོག་རུང་གསང་གྲངས་ཡིན།"
 
 msgid ""
 "Similarity password means that the new password is the original password, "
 "only the case is changed or the password is translated from the original "
 "password. After enabling, the system cannot set the password"
 msgstr ""
+"ཉེ་མཚུངས་གསང་གྲངས་ཞེས་པ་ནི་སྔར་གྱི་གསང་གྲངས་ཀྱི་ཡིག་ཆེན་ཡིག་ཆུང་བསྒྱུར་བའམ་ཡང"
+"་ན་སྔར་གྱི་གསང་གྲངས་གཞུང་སྤོ་བྱས་ནས་ཐོབ་པའི་གསང་གྲངས་ཡིན། "
+"ཁ་ཕྱེ་རྗེས་མ་ལག་གིས་གསང་གྲངས་འདི་རིགས་བཞག་མི་ཆོག"
 
 msgid ""
 "After enabling, if the original password \"abcd1234\", the new password "
 "\"ABCD1234\" will not be set successfully"
 msgstr ""
+"ཁ་ཕྱེ་རྗེས། གལ་ཏེ་སྔར་གྱི་གསང་གྲངས\"abcd1234\"ཡིན་ན། གསང་གྲངས་གསར་པ\"ABCD1234"
+"\"འཇོག་མི་ཐུབ།"
 
 msgid ""
 "The password dictionary includes many passwords that people habitually set. "
 "When enabled, the system will prohibit the setting of passwords in the "
 "dictionary to strengthen password security"
 msgstr ""
+"གསང་གྲངས་དག་ཡིག་གི་ནང་དུ་མིང་མང་པོའི་རྒྱུན་བཀོལ་གྱི་གསང་གྲངས་འདུས་ཡོད་པ་དང་། "
+"ཁ་ཕྱེ་རྗེས་མ་ལག་གིས་གསང་གྲངས་དག་ཡིག་ནང་གི་གསང་གྲངས་འཇོག་ཏུ་མི་འཇུག་པས་གསང་གྲང"
+"ས་ཀྱི་བདེ་འཇགས་རང་བཞིན་ཇེ་མཐོར་གཏོང་ཐུབ།"
 
 msgid ""
 "The maximum number of consecutive occurrences of the same character in the "
 "password. After exceeding, the password cannot be set successfully"
 msgstr ""
+"ཡིག་རྟགས་གཅིག་པ་ཞིག་གསང་གྲངས་ནང་དུ་རྒྱུན་མཐུད་བྱུང་བའི་ཐེངས་གྲངས་ཆེས་ཆེ་བ་ལས་"
+"བརྒལ་ན་གསང་གྲངས་འདི་འདྲ་འཇོག་མི་ནུས།"
 
 msgid ""
 "The maximum number of consecutive sequences of characters of the same type, "
 "after exceeding, the password cannot be set successfully"
 msgstr ""
+"རིགས་མཐུན་ཡིག་རྟགས་ཀྱི་ཆེས་ཆེའི་རྒྱུན་མཐུད་ཕྲེང་བའི་གྲངས་ལས་བརྒལ་ན་གསང་གྲངས་འ"
+"ཇོག་མི་ཐུབ།"
 
 msgid ""
 "For example, the number of consecutive sequences of \"123\" and \"def\" is "
 "3, and the number of consecutive sequences of \"abe\" is 2"
 msgstr ""
+"དཔེར་ན\"123\"དང\"def\"ཡི་རྒྱུན་མཐུད་ཕྲེང་བའི་གྲངས་ཚད་ནི3ཡིན་པ་དང་། \"abe\"ཡ"
+"ི་་རྒྱུན་མཐུད་ཕྲེང་བའི་གྲངས་ཚད་ནི2ཡིན།"
 
 msgid ""
 "The maximum number of consecutive occurrences of various types of characters"
 " allowed in the password, after exceeding, the password cannot be set "
 "successfully"
 msgstr ""
+"རིགས་སོ་སོའི་ཡིག་རྟགས་གསང་གྲངས་ཀྱི་རྒྱུན་མཐུད་ཆེས་ཆེའི་བྱུང་ཐེངས་ལས་བརྒལ་ན་གས"
+"ལ་གྲངས་འཇོག་མི་ཐུབ།"
 
 msgid ""
 "The sum of the minimum number of various characters exceeds the minimum "
 "length of the current password, the minimum length of the password has been "
 "updated"
 msgstr ""
+"རིགས་སོ་སོའི་ཡིག་རྟགས་ཀྱི་ཆེས་ཆུང་གྲངས་ཚད་ཀྱི་བསྡོམས་ནི་མིག་སྔའི་གསང་གྲངས་ཀྱི"
+"་ཆེས་ཆུང་རིང་ཚད་ལས་བརྒལ་སོང་ན་གསང་གྲངས་ཀྱི་ཆེས་ཆུང་རིང་ཚད་གསར་སྒྱུར་བྱས་ཚར།"
 
 msgid ""
 "The sum of the minimum number of character types exceeds the limit of the "
 "current password minimum number of characters. The minimum number of "
 "characters in the password has been updated"
 msgstr ""
+"ཡིག་རྟགས་ཀྱི་ཆེས་ཆུང་གྲངས་ཚད་ཚད་བཀག་རིགས་ཀྱི་བསྡོམས་ནི་མིག་སྔའི་གསང་གྲངས་ལས་བ"
+"རྒལ་སོང་ན། གསང་གྲངས་ཆེས་ཉུང་ཡིག་རྟགས་རིགས་ཀྱི་གྲངས་ཚད་གསར་སྒྱུར་བྱས་ཚར།"
 
 msgid "warning"
-msgstr "ཐ་ཚིག "
+msgstr "ཉེན་བརྡ"
 
 msgid ""
 "The minimum password length is less than the sum of the minimum number of "
 "various passwords, which does not meet the setting conditions"
 msgstr ""
+"གསང་གྲངས་ཀྱི་ཆེས་ཆུང་བའི་རིང་ཚད་ནི་རིགས་སོ་སོའི་གསང་གྲངས་ཀྱི་ཆེས་ཆུང་གྲངས་ཚད་"
+"ཀྱི་བསྡོམས་ལས་ཆུང་ན་ཆ་རྐྱེན་དང་མི་འཚམ།"
 
 msgid ""
 "The minimum number of password categories is less than the minimum number of"
 " password control categories, and the minimum number control of some "
 "password categories is cleared"
 msgstr ""
+"གསང་གྲངས་ཀྱི་ཆེས་ཆུང་བའི་རིགས་དབྱེ་གྲངས་ཚད་ནི་གསང་གྲངས་སོ་སོ་ལས་ཆུང་ན། "
+"གསང་གྲངས་ཁག་གཅིག་གི་རིགས་དབྱེའི་ཆེས་ཆུང་གྲངས་ཚད་ཚོད་འཛིན་མེད་པར་གཏོང་།"
 
 msgid "normal"
 msgstr "རྒྱུན་ལྡན།"
 
 msgid "Safe mode switching"
-msgstr ""
+msgstr "བདེ་འཇགས་རྣམ་པ་བརྗེ་སྒྱུར།"
 
 msgid "Switch system security mode"
-msgstr ""
+msgstr "མ་ལག་གི་བདེ་འཇགས་རྣམ་པ་བརྗེ་སྒྱུར།"
 
 msgid "default"
 msgstr "སོར་བཞག"
 
 msgid "Strict mode"
-msgstr ""
+msgstr "གཟབ་ནན་རྣམ་པ།"
 
 msgid "customize"
-msgstr ""
+msgstr "རང་བཀོད།"
 
 msgid "Select the need to enable the security module"
-msgstr ""
+msgstr "བདེ་འཇགས་དུམ་ཚན་སྒོ་འབྱེད་དགོས་པ་འདེམས་པ།"
 
 msgid "Kylin Security"
-msgstr ""
+msgstr "ཆི་ལིན་བདེ་འཇགས།"
 
 msgid "Separation of powers"
-msgstr ""
+msgstr "དབང་གསུམ་དོ་ཟླ།"
 
 msgid "SELinux"
-msgstr ""
+msgstr "བདེ་མཐོའི་Linux"
 
 msgid "targeted"
-msgstr ""
+msgstr "ཁ་གཏད་རང་བཞིན།"
 
 msgid "ukmls"
-msgstr ""
+msgstr "དབྱིན་ཇིmls"
 
 msgid "Apparmor"
-msgstr ""
+msgstr "དཔྱད་ཆས"
 
 msgid "Safe and Trusted Components"
-msgstr ""
+msgstr "བདེ་འཇགས་ཡིད་རྟོན་བྱད་ཆས།"
 
 msgid "CPU"
 msgstr "CPU"
@@ -1202,138 +1288,144 @@ msgid "Memory"
 msgstr "དྲན་ཤེས།"
 
 msgid "firmware"
-msgstr ""
+msgstr "སྲ་ལྷུ"
 
 msgid "trusted plugin"
-msgstr ""
+msgstr "ཡིད་རྟོན་འཇུག་ལྷུ"
 
 msgid "Baseline class"
-msgstr ""
+msgstr "རྨང་ཐིག་རིགས།"
 
 msgid "Virus defense"
-msgstr ""
+msgstr "ནང་དུག་འགེབས་སྲུང་།"
 
 msgid "Look"
 msgstr "ཕྱི་ཚུལ།"
 
 msgid "Virus defense "
-msgstr ""
+msgstr "ནང་དུག་འགེབས་སྲུང་། "
 
 msgid "     90day"
-msgstr ""
+msgstr "     ཉིན་༩༠"
 
 msgid "     120day"
-msgstr ""
+msgstr "     ཉིན༡༢༠"
 
 msgid ""
 "When set to 3 times, the password \"9527ab_b\" will not be set successfully "
 "because the numeric characters appear 4 times in a row"
 msgstr ""
+"ཐེངས་གསུམ་ཡིན་པ་བྱས་ན། གསང་གྲངས\"9527ab_b\"ར"
+"ུ་་ཨང་ཀི་རྒྱུན་མཐུན་བྱུང་ཐེངས་བཞི་ཡོད་པས་གསང་གྲངས་འཇོག་མི་ནུས།"
 
 msgid "QIANXIN Antivirus Software V8"
-msgstr ""
+msgstr "ཆི་ཨན་ཡིད་སྲུང་ནང་དུག་མཉེན་ཆསV8"
 
 msgid ""
 "Virus database update failed, please try again or open the app to use "
 "offline update"
 msgstr ""
+"ནད་དུག་མཛོད་གསར་སྒྱུར་མི་ཐུབ་པས། ཁྱེད་ཀྱིས་བསྐྱར་དུ་ཚོད་ལེན་ནམ་ཡང་ན་ཉེར་སྤྱོད"
+"་ཁ་ཕྱེས་ནས་དྲ་མེད་རིམ་སྤར་བཀོལ་རོགས།"
 
 msgid "Open the application"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་ཁ་འབྱེད་པ།"
 
 msgid "Virus database update"
-msgstr ""
+msgstr "ལམ་སེང་བཤེར་འབེབས།"
 
 msgid "Scan now"
-msgstr ""
+msgstr "ལམ་སེང་བཤེར་འབེབས།"
 
 msgid "Update authorization"
-msgstr ""
+msgstr "གསར་སྒྱུར་དབང་ཐོབ།"
 
 msgid "Current to-do items:"
-msgstr ""
+msgstr "མིག་སྔའི་བསྒྲུབ་བྱའི་དོན་ཚན:"
 
 msgid "the state of Virus defense"
-msgstr ""
+msgstr "ནང་དུག་འགོག་སྲུང་རྣམ་པ།"
 
 msgid "The state of  Software update "
-msgstr ""
+msgstr "མཉེན་ཆས་གསར་སྒྱུར་གནས་ཚུལ: "
 
 msgid " Nothing to do"
-msgstr ""
+msgstr " ལས་མི་དགོས།"
 
 msgid "No virus threat found"
-msgstr ""
+msgstr "ནད་དུག་འཇིགས་ཉེན་མེད།"
 
 msgid "No update available"
-msgstr ""
+msgstr "བཀོལ་རུང་གི་གསར་སྒྱུར་མེད།"
 
 msgid ""
 "There is a new version of the virus database, please upgrade immediately"
-msgstr ""
+msgstr "ནང་དུག་མཛོད་ལ་པར་གཞི་གསར་པ་འདུག་པས་མྱུར་དུ་རིམ་སྤར་གནང་རོགས།"
 
 msgid ""
 "It is recommended to perform scan tasks regularly to ensure system security"
-msgstr ""
+msgstr "དུས་ལྟར་བཤེར་འབེབས་བྱེད་རྒྱུ་གལ། དེ་ལྟར་ན་མ་ལག་བདེ་འཇགས་ཡིན།"
 
 msgid "This scan found %d threats, which have been successfully dealt with"
-msgstr ""
+msgstr "ཐེངས་འདིའི་བཤེར་འབེབས་ལས་འཇིགས་ཉིན་%dརྙེད་བྱུང་བས། སྒྲིག་གཅོད་བྱས་ཚར།"
 
 msgid "This scan found %d threats, please deal with them as soon as possible"
 msgstr ""
+"ཐེངས་འདིའི་བཤེར་འབེབས་ལས་འཇིགས་ཉིན་%dརྙེད་བྱུང་བས། "
+"སྐུ་ཉིད་ནས་མྱུང་དུ་སྒྲིག་གཅོད་མཛད་རོགས།"
 
 msgid "If a threat is detected, a full scan is recommended immediately"
-msgstr ""
+msgstr "འཇིགས་ཉེན་མཐོང་སོང་པས། ལམ་སེང་སྡུར་སྡེར་ཡོངས་ལ་བཤེར་འབེབས་བྱེད་རོགས།"
 
 msgid "QIANXIN Antivirus Software V8-%1"
-msgstr ""
+msgstr "ཆི་ཨན་ཡིད་སྲུང་དུག་འགོག་མཉེན་ཆསV8-%1"
 
 msgid ""
 "Technical support provided by Qi'AnXin Technology corporation Co., Ltd."
-msgstr ""
+msgstr "ལག་རྩལ་སྣེ་ཁྲིད་པ་ནི་ཆི་ཨན་ཞིན་ལག་རྩལ་ཚད་ཡོད་ཀུང་སི་ཡིན།."
 
 msgid "unauthorized"
-msgstr ""
+msgstr "དབང་ཐོབ་མེད།"
 
 msgid "kylin-ksc-defender"
-msgstr ""
+msgstr "ཆི་ལིནkscསྲུང་དམག"
 
 msgid "Security center"
-msgstr ""
+msgstr "བདེ་འཇགས་ལྟེ་གནས"
 
 msgid "Home page"
-msgstr ""
+msgstr "མགོ་ཤོག"
 
 msgid "Applied executive control"
-msgstr ""
+msgstr "ཉེར་སྤྱོད་ལག་བསྟར་ཚོད་འཛིན།"
 
 msgid "closed"
-msgstr ""
+msgstr "སྒོ་བརྒྱབ་ཟིན།"
 
 msgid "Default mode"
-msgstr ""
+msgstr "རང་ལེན་རྣམ་པ།"
 
 msgid "self-defined"
-msgstr ""
+msgstr "རང་བཟོས་མཚན་ཉིད།"
 
 msgid "System safety mode switch..."
-msgstr ""
+msgstr "མ་ལག་གི་བདེ་འཇགས་རྣམ་པ་བརྗེ་བཞིན་པའི་སྒང..."
 
 msgid "System security mode switch, do not close!"
-msgstr ""
+msgstr "མ་ལག་གི་བདེ་འཇགས་རྣམ་པ་བརྗེ་བཞིན་པའི་སྒང་ཡིན་པས་སྒོ་རྒྱག་མི་ཆོག!"
 
 msgid ""
 "Switch system security mode successfully, restart the system after effective"
-msgstr ""
+msgstr "མ་ལག་གི་བདེ་འཇགས་རྣམ་པ་བརྗེས་ཟིན་པས་མ་ལག་བསྐྱར་སློང་བྱས་ན་ནུས་པ་འབྱུང་།"
 
 msgid "Failed to switch system security mode"
-msgstr ""
+msgstr "མ་ལག་གི་བདེ་འཇགས་རྣམ་པ་བརྗེ་མ་ཐུབ།"
 
 msgid "executable"
-msgstr ""
+msgstr "ལག་བསྟར་རུང་བའི་བྱ་རིམ།"
 
 msgid "kernel module"
-msgstr ""
+msgstr "ནང་ཉིང་དཔེ་དུམ།"
 
 msgid "Other files"
-msgstr ""
+msgstr "ཡིག་ཆ་གཞན།"
