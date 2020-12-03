@@ -4,49 +4,49 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="../aboutdialog.cpp" line="36"/>
+        <location filename="../aboutdialog.cpp" line="44"/>
         <source>About us</source>
         <translation>ང་ཚོ་དང་འབྲེལ་ཡོད།</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="86"/>
+        <location filename="../aboutdialog.cpp" line="94"/>
         <source>Kylin Assistant</source>
         <translation>ཆི་ལིན་ལག་རོགས།</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="92"/>
+        <location filename="../aboutdialog.cpp" line="100"/>
         <source>About</source>
         <translation>འབྲེལ་ཡོད།</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="95"/>
+        <location filename="../aboutdialog.cpp" line="103"/>
         <source>Contributor</source>
         <translation>བྱས་རྗེས་འབུལ་མཁན།</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="129"/>
+        <location filename="../aboutdialog.cpp" line="137"/>
         <source>Maintainer:
 tang guang &lt;tangguang@kylinos.cn&gt;</source>
         <translation>སྲུང་སྐྱོང་མཁན་ནི།
 tang guang &lt;tangguang@kylinos.cn&gt;</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="130"/>
+        <location filename="../aboutdialog.cpp" line="138"/>
         <source>&lt;p style=&apos;text-indent:15px&apos;&gt;Kylin Assistant is a powerful system supporting software which is developed by Kylin team. Mainly for the naive user, it can help users manage the system. At present, It provides system junk scanning and cleaning, viewing the system hardware and software information, task manager, and some other functions.&lt;/p&gt;</source>
         <translation>&lt;p style=&apos;text-indent:15px&apos;&gt;ཆི་ལིན་ལག་རོགས་ཞེས་པ་ནི་ཆི་ལིན་ཚོགས་པས་གསར་སྤེལ་བྱས་པའི་ནུས་པ་ཧ་ཅང་ཆེ་བའི་མ་ལག་གཞོགས་འདེགས་མཉེན་ཆས་ཤིག་ཡིན་ལ། གཙོ་བོ་དམའ་རིམ་བཀོལ་མཁན་ལ་བ་གཏད་ནས་བཀོལ་མཁན་གྱིས་མ་ལག་མདོ་དམ་བྱེད་པར་རོགས་རམ་བྱ་ཐུབ། མིག་སྔར་མ་ལག་གད་སྙིགས་བཤེར་འབེབས་དང་གཙང་སེལ། མ་ལག་སྲ་མཉེན་ཆས་ཆ་འཕྲིན་ལྟ་ཞིབ་དང་། མ་ལག་ཕྱོགས་ཡོངས་ནས་ཆེད་བཟོ་དང་ལས་འགན་དོ་དམ་ཆས་སོགས་ནུས་པ་ལྡན།&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="131"/>
+        <location filename="../aboutdialog.cpp" line="139"/>
         <source>&lt;p style=&apos;text-indent:15px&apos;&gt;The software is still under development. Please visit  kylin-assistant</source>
         <translation>&lt;p style=&apos;text-indent:15px&apos;&gt;ནུས་པ་རེ་རེ་ད་དུང་འཐུས་ཚང་དུ་གཏོང་བཞིན་ཡོད་ལ། ནུས་པ་དེ་ལས་མང་བ་མུ་མཐུད་དུ་གསར་སྤེལ་བྱ་རྒྱུ་ཡིན་པས་ཀུན་གྱིསUbuntu Kylinགཞུང་ཕྱོགས་དྲ་བར་ཡིད་འཇོག་འཚལ།</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="131"/>
+        <location filename="../aboutdialog.cpp" line="139"/>
         <source> for more information. Welcome everyone to join with us.&lt;/p&gt;</source>
         <translation> ས་གནས། མཉེན་ཆས་གྱི་ད་ལྟའི་འཕེལ་ཚད་ལ་རྒྱུས་ལོན་བྱས་ནས་གནད་དོན་ཕྱིར་སློག་པ་དང་། རྒྱ་ཆེའི་བཀོལ་མཁན་དང་དགའ་ཞེན་མཁན་ལྷན་རྒྱས་མཉམ་དུ་ཞུགས་པར་དགའ་བསུ་ཞུ།</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="152"/>
+        <location filename="../aboutdialog.cpp" line="160"/>
         <source>Close</source>
         <translation>སྒོ་རྒྱག</translation>
     </message>
@@ -450,43 +450,43 @@ tang guang &lt;tangguang@kylinos.cn&gt;</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="163"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="430"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="453"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="432"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="455"/>
         <source>Cleanup FireFox Cache</source>
         <translation>མེ་ཝ་ལྟ་བཤེར་ཆས་ཀྱི་བར་འདུམ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="163"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="382"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="405"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="384"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="407"/>
         <source>Cleanup Chromium Cache</source>
         <translation>Chromiumབར་འདུམ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="165"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="437"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="460"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="439"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="462"/>
         <source>Cleanup the Cookies saving in Firefox</source>
         <translation>མེ་ཝ་ལྟ་བཤེར་ཆས་ཀྱིCookies་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="165"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="389"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="412"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="391"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="414"/>
         <source>Cleanup the Cookies saving in Chromium</source>
         <translation>ChromiumཡིCookies གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="167"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="444"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="467"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="446"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="469"/>
         <source>Clean up the Firefox Internet records</source>
         <translation>མེ་ཝའི་ལྟ་སྤྱོད་ཟིན་ཐོ་གཙང་སེལ།</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="167"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="396"/>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="419"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="398"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="421"/>
         <source>Clean up the Chromium Internet records</source>
         <translation>Chromium ལྟ་སྤྱོད་ཟིན་ཐོ་གཙང་སེལ།</translation>
     </message>
@@ -511,22 +511,22 @@ tang guang &lt;tangguang@kylinos.cn&gt;</translation>
         <translation>རྒྱུན་དུ་གཙང་སེལ་བྱས་ན། གློག་ཀླད་མགྱོགས་ལ་བདེ་འཇགས་ཡིན།.</translation>
     </message>
     <message>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="357"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="359"/>
         <source>Scan args is empty!</source>
         <translation>བཤེར་འབེབས་ཞུགས་གྲངས་ནི་སྟོང་བ་ཡིན！</translation>
     </message>
     <message>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="488"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="490"/>
         <source>Cache Items</source>
         <translation>བར་འདུམ་འདེམས་བྱང་།</translation>
     </message>
     <message>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="513"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="515"/>
         <source>Cookies Items</source>
         <translation>Itemsའདེམས་བྱང་།</translation>
     </message>
     <message>
-        <location filename="../../cleaner/cleanermainwidget.cpp" line="533"/>
+        <location filename="../../cleaner/cleanermainwidget.cpp" line="535"/>
         <source>Trace Items</source>
         <translation>ལྟ་སྤྱོད་རྗེས་ཤུལ་འདེམས་བྱང་།</translation>
     </message>
@@ -1108,142 +1108,162 @@ tang guang &lt;tangguang@kylinos.cn&gt;</translation>
 <context>
     <name>InfoWidget</name>
     <message>
-        <location filename="../infowidget.cpp" line="106"/>
+        <location filename="../infowidget.cpp" line="108"/>
         <source>Desktop</source>
         <translation>ཅོག་ངོས་ཁོར་ཡུག</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="116"/>
+        <location filename="../infowidget.cpp" line="118"/>
         <source>CPU</source>
         <translation>སྒྲིག་གཅོད་ཆས།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="124"/>
+        <location filename="../infowidget.cpp" line="126"/>
         <source>Memory</source>
         <translation>ནང་གསོག</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="132"/>
+        <location filename="../infowidget.cpp" line="134"/>
         <source>Board</source>
         <translation>མ་པང་།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="140"/>
+        <location filename="../infowidget.cpp" line="142"/>
         <source>HD</source>
         <translation>སྲ་སྡེར།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="148"/>
+        <location filename="../infowidget.cpp" line="150"/>
         <source>NIC</source>
         <translation>དྲ་གཱ</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="156"/>
+        <location filename="../infowidget.cpp" line="158"/>
         <source>Monitor</source>
         <translation>མངོན་འཆར།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="164"/>
+        <location filename="../infowidget.cpp" line="166"/>
         <source>Audio</source>
         <translation>སྒྲ་གཱ</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="172"/>
+        <location filename="../infowidget.cpp" line="174"/>
         <source>Input</source>
         <translation>ནང་འདྲེན་སྒྲིག་ཆས།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="180"/>
+        <location filename="../infowidget.cpp" line="182"/>
+        <source>Communication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../infowidget.cpp" line="190"/>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../infowidget.cpp" line="198"/>
         <source>Battery</source>
         <translation>གློག་རྗས།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="188"/>
+        <location filename="../infowidget.cpp" line="206"/>
         <source>Sensor</source>
         <translation>སྲ་ཆས་ཚོར་ཆས།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="275"/>
+        <location filename="../infowidget.cpp" line="332"/>
         <source>Computer Info</source>
         <translation>གློག་ཀླད་མདོར་བསྟན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="329"/>
+        <location filename="../infowidget.cpp" line="386"/>
         <source>Desktop Info</source>
         <translation>ཅོག་ངོས་ཁོར་ཡུག་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="364"/>
+        <location filename="../infowidget.cpp" line="421"/>
         <source>CPU Info</source>
         <translation>སྒྲིག་གཅོད་ཆས་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="405"/>
+        <location filename="../infowidget.cpp" line="462"/>
         <source>Memory Info</source>
         <translation>ནང་གསོག་བྱང་བུའི་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="447"/>
+        <location filename="../infowidget.cpp" line="504"/>
         <source>Memory Info %1</source>
         <translation>ནང་གསོག་ཆ་འཕྲིན %1</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="480"/>
+        <location filename="../infowidget.cpp" line="537"/>
         <source>Board Info</source>
         <translation>མ་པང་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="525"/>
+        <location filename="../infowidget.cpp" line="582"/>
         <source>HardWare Info</source>
         <translation>སྲ་སྡེར་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="567"/>
+        <location filename="../infowidget.cpp" line="624"/>
         <source>HardWare Info %1</source>
         <translation>སྲ་སྡེར་ཆ་འཕྲིན%1</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="620"/>
+        <location filename="../infowidget.cpp" line="677"/>
         <source>NIC Info</source>
         <translation>དྲ་གཱ་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="666"/>
+        <location filename="../infowidget.cpp" line="723"/>
         <source>NIC Info %1</source>
         <translation>དྲ་གཱ་ཆ་འཕྲིན %1</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="710"/>
+        <location filename="../infowidget.cpp" line="767"/>
         <source>Monitor Info</source>
         <translation>འཆར་ཆས་དང་འཆར་གཱའི་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="750"/>
+        <location filename="../infowidget.cpp" line="807"/>
         <source>Monitor Info %1</source>
         <translation>འཆས་ཆས་དང་འཆར་གཱའི་ཆ་འཕྲིན %1</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="794"/>
+        <location filename="../infowidget.cpp" line="851"/>
         <source>Audio Info</source>
         <translation>སྒྲ་གཱའི་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="834"/>
+        <location filename="../infowidget.cpp" line="891"/>
         <source>Audio Info %1</source>
         <translation>སྒྲ་གཱའི་ཆ་འཕྲིན%1</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="870"/>
+        <location filename="../infowidget.cpp" line="927"/>
         <source>Input Info</source>
         <translation>ནང་འདྲེན་སྒྲིག་ཆས་ཆ་འཕྲིན</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="914"/>
+        <location filename="../infowidget.cpp" line="958"/>
+        <source>Communication Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../infowidget.cpp" line="989"/>
+        <source>Multimedia Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../infowidget.cpp" line="1033"/>
         <source>Battery Info</source>
         <translation>གློག་རྗས་ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../infowidget.cpp" line="1045"/>
+        <location filename="../infowidget.cpp" line="1174"/>
         <source>Driver Info</source>
         <translation>སྐུལ་འདེད་ཆ་འཕྲིན།</translation>
     </message>
@@ -1340,23 +1360,23 @@ tang guang &lt;tangguang@kylinos.cn&gt;</translation>
 <context>
     <name>MListwidget</name>
     <message>
-        <location filename="../listwidget.cpp" line="59"/>
-        <location filename="../listwidget.cpp" line="145"/>
+        <location filename="../listwidget.cpp" line="73"/>
+        <location filename="../listwidget.cpp" line="159"/>
         <source>Local 
 System</source>
         <translation>རང་གི་
 མ་ལག</translation>
     </message>
     <message>
-        <location filename="../listwidget.cpp" line="66"/>
-        <location filename="../listwidget.cpp" line="141"/>
+        <location filename="../listwidget.cpp" line="80"/>
+        <location filename="../listwidget.cpp" line="155"/>
         <source>Hardware 
 Information</source>
         <translation>སྲ་ཆས
 ཆ་འཕྲིན།</translation>
     </message>
     <message>
-        <location filename="../listwidget.cpp" line="171"/>
+        <location filename="../listwidget.cpp" line="185"/>
         <source>Computer Info</source>
         <translation>གློག་ཀླད་མདོར་བསྟན།</translation>
     </message>
@@ -1714,7 +1734,7 @@ Information</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../mainwindow.cpp" line="99"/>
+        <location filename="../mainwindow.cpp" line="102"/>
         <source>Kylin Assistant</source>
         <translation>ཆི་ལིན་ལག་རོགས།</translation>
     </message>
@@ -2520,7 +2540,7 @@ Are you sure to continue?</source>
     </message>
     <message>
         <location filename="../../info/infoitemline.cpp" line="162"/>
-        <location filename="../infowidget.cpp" line="426"/>
+        <location filename="../infowidget.cpp" line="483"/>
         <source>Wrong info from firmware</source>
         <translation>སྲ་ལྷུ་ཡི་ཡང་དག་ཆ་འཕྲིན་འདོན་སྤྲོད་བྱས་མེད།</translation>
     </message>
@@ -3331,7 +3351,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../component/selectlistwidget.cpp" line="51"/>
         <location filename="../../component/selectlistwidget.cpp" line="68"/>
-        <location filename="../../component/selectlistwidget.cpp" line="153"/>
+        <location filename="../../component/selectlistwidget.cpp" line="154"/>
         <source>Clean Items:</source>
         <translation>གཙང་སེལ་བྱང་:</translation>
     </message>
