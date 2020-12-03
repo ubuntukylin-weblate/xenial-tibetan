@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-28 15:45+0000\n"
+"PO-Revision-Date: 2020-12-03 13:04+0000\n"
 "Last-Translator: 头旦才让 <atou2008@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/box-manager/bo_CN/>\n"
@@ -16,22 +16,22 @@ msgstr ""
 "X-Generator: Weblate 4.3.1\n"
 
 msgid "Kylin file protection box"
-msgstr ""
+msgstr "ཆི་ལིན་ཡིག་ཆ་སྲུང་སྐྱོང་སྒམ།"
 
 msgid "about"
-msgstr ""
+msgstr "འབྲེལ་ཡོད།"
 
 msgid "Operating environment: kylin (V10)"
-msgstr ""
+msgstr "འཁོར་སྐྱོད་ཁོར་ཡུག་ནི་དགུ་ཚིགས་ཆི་ལིན་བཀོལ་སྤྱོད་མ་ལག (V10)་ཡིན།"
 
 msgid "Secure kernel (3.0.0) and above"
-msgstr ""
+msgstr "བདེ་འཇགས་ནང་ཉིང (3.0.0)ཡན"
 
 msgid "Protective box kit (3.0.8) and above"
-msgstr ""
+msgstr "སྲུང་སྐྱོབ་སྒམ་ཕྲེང་(3.0.8) ཡན"
 
 msgid "Software version: %1"
-msgstr ""
+msgstr "མཉེན་ཆས་པང་གཞི: %1"
 
 msgid "All"
 msgstr "མཉེན་ཆས་ཚང་མ།"
@@ -43,42 +43,44 @@ msgid "No"
 msgstr "མིན།"
 
 msgid "Personal creation"
-msgstr ""
+msgstr "སྒེར་གྱིས་འཛུགས་པ"
 
 msgid "Shared by others"
-msgstr ""
+msgstr "གཞན་ལ་མཉམ་སྤྱོད།"
 
 msgid "%1 Shared"
-msgstr ""
+msgstr "%1མཉམ་སྤྱོད"
 
 msgid "Created by myself"
-msgstr ""
+msgstr "རང་གིས་འཛུགས་པ།"
 
 msgid "File protection box"
-msgstr ""
+msgstr "ཡིག་ཆ་སྲུང་སྐྱོབ་སྒམ"
 
 msgid ""
 "Provide data security protection, support isolation hiding, encryption "
 "protection and sharing of personal data"
 msgstr ""
+"གཞི་གྲངས་བདེ་འཇགས་སྲུང་སྐྱོབ་མཁོ་འདོན་བྱས་ནས་རང་གི་གཞི་གྲངས་ཀྱི་ལོགས་བཀར་སྦས་"
+"སྐུང་དང་། གསང་རྒྱ་སྲུང་སྐྱོབ། མཉམ་སྤྱོད་ནུས་པར་སྲུང་སྐྱོབ་བྱེད།"
 
 msgid "All protective boxes"
-msgstr ""
+msgstr "ཡིག་ཆ་སྒ་ཚང་མ།"
 
 msgid "New"
-msgstr ""
+msgstr "གསར་འཛུགས།"
 
 msgid "Delete"
 msgstr "འདོར་བ།"
 
 msgid "Password setting"
-msgstr ""
+msgstr "གསང་གྲངས་སྒྲིག་འགོད།"
 
 msgid "Sharing settings"
-msgstr ""
+msgstr "མཉམ་སྤྱོད་སྒྲིག་འགོད།"
 
 msgid "Millet porridge: Kylin"
-msgstr ""
+msgstr "འབྲས་སེར:ཆི་ལིན"
 
 msgid "Shared"
 msgstr "མཉམ་སྤྱོད་བྱས་ཟིན་པ།"
@@ -87,80 +89,84 @@ msgid "Encrypted"
 msgstr "གསང་བསྡམས།"
 
 msgid "Please select the protective box to be deleted! "
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་བསུབ་དགོས་པའི་ཉེན་སྲུང་སྒམ་འདེམས་རོགས།! "
 
 msgid "Unable to delete, please unmount the protective box first \"%1\" !"
-msgstr ""
+msgstr "བསུམ་མི་ཐུབ། ཁྱེད་ཀྱིས་སྔོན་སྲུང་སྐྱོབ་སྒམ \"%1\"་ལྷུ་གཏོང་གནང་རོགས།!"
 
 msgid ""
 "The protection box is encrypted, please enter the password for "
 "authentication"
-msgstr ""
+msgstr "སྲུང་སྐྱོབ་སྒམ་ལ་གསང་རྒྱ་བཏབ། ཁྱེད་ཀྱིས་གསང་གྲངས་དཔང་སྤྲོད་གནང་རོགས།"
 
 msgid ""
 "The delete operation is irreversible, are you sure to delete the protective "
 "box \"%1\" ?"
-msgstr ""
+msgstr "བསུབ་པ་ཕྱིར་ལྡོག་མེད། སྲུང་སྐྱོབ་སྒམ་\"%1\" བསུབ་ཁོ་ཐག་ཡིན་ནམ?"
 
 msgid "Protective box \"%1\" failed to delete: %2"
-msgstr ""
+msgstr "སྲུང་སྐྱོབ་སྒམ\"%1\" བསུབ་མ་ཐུབ།"
 
 msgid "Please select the protective box that requires password setting !"
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་གསང་གྲངས་འགོད་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས!"
 
 msgid "Please select the protective box that requires password setting ! "
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་གསང་གྲངས་འགོད་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས! "
 
 msgid ""
 "Unable to set the password, please unmount the protection box first \"%1\" !"
-msgstr ""
+msgstr "གསང་གྲངས་འཇོག་མི་ཐུབ་པས། སྔོན་ལ་སྲུང་སྐྱོབ་སྒམ\"%1\"ལྷུ་གཏོང་གནང་རོགས !"
 
 msgid "Please select the protective box that needs to be shared! "
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་མཉམ་སྤྱོད་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས! "
 
 msgid "Unable to set up sharing, please unmount the protection box first \"%1\" !"
 msgstr ""
+"མཉམ་སྤྱོད་བྱ་ཐབས་མེད་པས་སྔོན་ལ་སྲུང་སྐྱོབ་སྒམ་ \"%1\" ལྷུ་གཏོར་གནང་རོགས!"
 
 msgid "Failed to load shared user list! "
-msgstr ""
+msgstr "མཉམ་སྤྱོད་བཀོལ་མཁན་སྡེ་སྣོན་འཇུག་བྱ་མ་ཐུབ! "
 
 msgid "Protective box: %1 (from %2)"
-msgstr ""
+msgstr "སྲུང་སྐྱོབ་སྒམ: %1 (ཡོང་ས %2)"
 
 msgid "Protective box: %1"
-msgstr ""
+msgstr "སྲུང་སྐྱོབ་སྒམ: %1"
 
 msgid "Mounted"
-msgstr ""
+msgstr "འགེལ་འཇུག་བྱས།"
 
 msgid "Protective box: %1 item"
-msgstr ""
+msgstr "སྲུང་སྐྱོབ་སྒམ: %1སྡེ"
 
 msgid "Please select the protective box to be mounted! "
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་འགེལ་འཇུག་གི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས! "
 
 msgid "Please select the protective box to be Unmount! "
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་ལྷུ་གཏོར་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས! "
 
 msgid "Protective box \"%1\" Unmount failed: %2"
-msgstr ""
+msgstr "སྲུང་སྐྱོབ་སྒམ \"%1\"ལྷུ་གཏོང་མ་ཐུབ: %2"
 
 msgid "Please select the protective box that needs to be renamed! "
-msgstr ""
+msgstr "ཁྱེད་ཀྱིས་མིང་འདོགས་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས། "
 
 msgid "Unable to rename operation, please unmount protective box first \"%1\" !"
 msgstr ""
+"ཡང་བསྐྱར་མིང་འདོགས་མི་ཐུབ་པས་སྔོན་ལ་སྲུང་སྐྱོབ་སྒམ་\"%1\"ལྷུ་གཏོར་གནང་རོགས !"
 
 msgid ""
 "The current system does not support kylin file protection box related "
 "functions"
 msgstr ""
+"མིག་སྔའི་མ་ལག་གིས་ཆི་ལིན་ཡིག་ཆ་སྲུང་སྐྱོབ་སྒམ་གྱི་འབྲེལ་ཡོད་ནུས་པ་རྒྱབ་སྐྱོར་"
+"མི་བྱེད།"
 
 msgid "Invalid username"
-msgstr ""
+msgstr "ནུས་མེད་བཀོལ་མཁན་མིང་།"
 
 msgid "Username is too long"
-msgstr ""
+msgstr "བཀོལ་མཁན་མིང་རིང་དྲགས།"
 
 msgid "Kylin file protection box system environment is not initialized"
 msgstr ""
@@ -262,7 +268,7 @@ msgid "Confirm"
 msgstr "གཏན་འཁེལ།"
 
 msgid "Cancel"
-msgstr "ལེན་པ།"
+msgstr "འདོེར་བ།"
 
 msgid ""
 "The protection box whose password needs to be changed is not selected, "
