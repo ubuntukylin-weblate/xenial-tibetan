@@ -53,43 +53,43 @@
     </message>
     <message>
         <source>vdpau: for the vdpau and opengl video outputs.</source>
-        <translation type="unfinished"></translation>
+        <translation>vdpau,vdpauདང་དེ་བཞིན་penglལས་མངོན་པར་གཞིགས་ནས་ཕྱིར་འདོན་བྱ་དགོས།</translation>
     </message>
     <message>
         <source>vaapi: for the opengl and vaapi video outputs. For Intel GPUs only.</source>
-        <translation type="unfinished"></translation>
+        <translation>vaapi，pengl，vapiབརྙན་ལམ་ཕྱིར་འདོན་ལ་བཀོལ་བ། Intel GPUཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་ཡོད།</translation>
     </message>
     <message>
         <source>None: only software decoding will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>དེ་མེད།མཉེན་པས་བཀྲོལ་བ།</translation>
     </message>
     <message>
         <source>Sets the number of threads to use for decoding. Only for MPEG-1/2 and H.264</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་འགོད་བྱེད་པར་ཨང་གྲངས་འགྲོལ་བའི་སྐུད་པ་གྲངས་སྤྱོད་དགོས། MPEG-1/2དང་H.64ཁོ་ནར་སྤྱད་འཐུས།</translation>
     </message>
     <message>
         <source>Cache for streams:</source>
-        <translation type="unfinished"></translation>
+        <translation>བཞུར་བའི་ལྷོད་གསོག</translation>
     </message>
     <message>
         <source>This option specifies how much memory (in kBytes) to use when precaching a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>འདེམ་བྱང་འདིས་སྔོན་དུ་ཉར་བའི་ཡིག་ཆ་གཏན་འཁེལ་བྱེད་སྐབས།ནང་གསོག་ག་ཚོད་བཀོལ་དགོས།（KBརྩིས་གཞི་བྱས།）</translation>
     </message>
     <message>
         <source>Sets the hardware video decoding API. If hardware decoding is not possible, software decoding will be used instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>མཁྲེགས་ཆས་ཀྱི་ཨང་གྲངས་APIབསྒྲིགས་པ། གལ་ཏེ་སྲ་འབྱེད་མ་ཐུབ་ན།མཉེན་འབྱེད་བཀོལ་སྲིད།</translation>
     </message>
     <message>
         <source>Threads for decoding (MPEG-1/2 and H.264 only):</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨང་འགྲོལ་སྐུད་རིམ།（MPEG-1/2དང་H.264）</translation>
     </message>
     <message>
         <source>Cache for files</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་སའི་ཡིག་ཆ་ལྷོད་གསོག</translation>
     </message>
     <message>
         <source>Cache for streams</source>
-        <translation type="unfinished"></translation>
+        <translation>བཞུར་བའི་ལྷོད་གསོག་</translation>
     </message>
     <message>
         <source>This option specifies how much memory (in kBytes) to use when precaching a URL.</source>
