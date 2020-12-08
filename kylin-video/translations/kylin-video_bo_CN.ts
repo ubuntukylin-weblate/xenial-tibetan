@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>This option specifies how much memory (in kBytes) to use when precaching a URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>འདེམ་བྱང་འདིས་URLསྔོན་གསོག་བྱེད་སྐབས།ནང་གསོག་ག་ཚོད་སྤྱོད་དགོས།（KBརྩིས་གཞི་བྱས།）</translation>
     </message>
     <message>
         <source>Cache for local files:</source>
@@ -171,353 +171,354 @@
     </message>
     <message>
         <source>The file couldn&apos;t be saved</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་དེ་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ</translation>
     </message>
     <message>
         <source>Confirm overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀབ་ཡོད་མེད་གཏན་འཁེལ་བྱེད་དགོས།</translation>
     </message>
     <message>
         <source>The file couldn&apos;t be loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་དེ་སྣོན་ཐུབ་ཀྱི་མི་འདུག</translation>
     </message>
     <message>
         <source>The shortcut key already exists. Do you want to override it?</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་མཐེབ་གནས་ཡོད།  བཀབ་ཡོད་དམ།</translation>
     </message>
     <message>
         <source>The file %1 already exists.
 Do you want to overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་བརྒྱ་ཆ་1ཟིན་ཡོད། 
+ཁྱེད་ཀྱིས་བཀབ་འདོད་དམ།</translation>
     </message>
     <message>
         <source>Choose a filename</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆའི་མིང་ཞིག་འདེམས་དགོས།</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>ཞིབ་བརྗོད།</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation type="unfinished"></translation>
+        <translation>མཐེབ་ཀྱི་ཡིག་ཆ།</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་མཐེབ།</translation>
     </message>
     <message>
         <source>Choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཞིག་བདམས་དགོས།</translation>
     </message>
 </context>
 <context>
     <name>AudioDelayDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ།</translation>
     </message>
     <message>
         <source>Audio delay</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་ཕྱིར་འགྱངས།</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
     <message>
         <source>Audio delay (in milliseconds):</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་ཕྱིར་འགྱངས།（སྐར་ཆ།）</translation>
     </message>
 </context>
 <context>
     <name>ErrorDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>icon</source>
-        <translation type="unfinished"></translation>
+        <translation>icon</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ནོར་འཁྲུལ།</translation>
     </message>
     <message>
         <source>MPlayer Error</source>
-        <translation type="unfinished"></translation>
+        <translation>MPlayer ནོར་འཁྲུལ།</translation>
     </message>
     <message>
         <source>Oops, something wrong happened</source>
-        <translation type="unfinished"></translation>
+        <translation>ནོར་འདུག</translation>
     </message>
     <message>
         <source>Show log</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉིན་ཐོ་མངོན་པར་གཞིགས།</translation>
     </message>
     <message>
         <source>Hide log</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉིན་ཐོ་སྦས་ཡོད།</translation>
     </message>
 </context>
 <context>
     <name>FilePropertiesDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེར་སྤྱོད།</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>བསྐྱར་འཇོག</translation>
     </message>
     <message>
         <source>Audio codec</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་ཨང་སྒྲིག་ཆས།</translation>
     </message>
     <message>
         <source>Video codec</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཟློས་ཨང་སྒྲིག་ཆས།</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>བསྐྱར་འཇོག(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Select the demuxer that will be used for this file:</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་འདིར་བཀོལ་པའི་འགྲེལ་བཤད་བསྐྱར་བཀོལ་ཆས་འདེམས་དགོས།(&amp;S)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོ་བོ།</translation>
     </message>
     <message>
         <source>&amp;Select the audio codec:</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་ཨང་སྒྲིག་ཆས་འདེམས་པ།(&amp;S)</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <source>&amp;Select the video codec:</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཟློས་ཨང་སྒྲིག་ཆས་འདེམ་པ།(&amp;S)</translation>
     </message>
     <message>
         <source>Demuxer</source>
-        <translation type="unfinished"></translation>
+        <translation>བསྐྱར་བཀོལ་ཆས།</translation>
     </message>
     <message>
         <source>Kylin Video - Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་སྒྲ་བརྙན་—སྒྲིག་འགོད།</translation>
     </message>
 </context>
 <context>
     <name>HelpDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>རོགས་རམ།</translation>
     </message>
     <message>
         <source>Kylin Video - Help</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་སྒྲ་བརྙན—རོགས་རམ།</translation>
     </message>
     <message>
         <source>Supported formats</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱབ་སྐྱོར་རྣམ་གཞག</translation>
     </message>
 </context>
 <context>
     <name>InputURL</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་ཚུགས།</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
     <message>
         <source>Enter URL</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་ཚུགས་ནང་འཇུག།</translation>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེར་སྤྱོད།</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས།</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཟློས།</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>གཤིས་ནུས།</translation>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་བརྙན།</translation>
     </message>
     <message>
         <source>ScreenShot</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཡོལ་བཅད་རིས།</translation>
     </message>
     <message>
         <source>Kylin Video - Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་སྒྲ་བརྙན་-སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <source>Preference</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་འགོད།</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུན་སྲོལ།</translation>
     </message>
     <message>
         <source>Shortcut Key</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་མཐེབ།</translation>
     </message>
 </context>
 <context>
     <name>ShortcutGetter</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ།</translation>
     </message>
     <message>
         <source>Press the key combination you want to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་རང་གི་འདོད་པ་ལྟར་སྡེབ་སྒྲིག་མཐེབ་གཞུང་བགོ་བཤའ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
     <message>
         <source>Modify shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་མཐེབ་བཟོ་བཅོས།</translation>
     </message>
     <message>
         <source>Capture keystrokes</source>
-        <translation type="unfinished"></translation>
+        <translation>འཛིན་པའི་མཐེབ་གནོན།</translation>
     </message>
     <message>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>འཛིན་པ།</translation>
     </message>
     <message>
         <source>Remove shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>སྤོ་སེལ་མྱུར་མཐེབ།</translation>
     </message>
     <message>
         <source>Add shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་མཐེབ་ཁ་སྣོན་བྱེད་པ།</translation>
     </message>
 </context>
 <context>
     <name>TimeDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>གནས་ངེས་འཛིན་པ།</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">j</translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
     <message>
         <source>Jump to:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">མཆོང་ནས་འདི་ལྟ་སྟེ།</translation>
     </message>
 </context>
 <context>
     <name>MessageDialog</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>མིན།</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>རེད།</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
 </context>
 <context>
     <name>TristateCombo</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>མིན།</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>རེད།</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འགུལ།</translation>
     </message>
 </context>
 <context>
     <name>PoweroffDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་འཁེལ་བྱེད་པ།</translation>
     </message>
     <message>
         <source>The computer will shut down in %1 seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་ཀླད་སྐར་ཆ་1%ནང་སྒོ་རྒྱག་སྲིད།</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
     <message>
         <source>Press &lt;b&gt;Cancel&lt;/b&gt; to abort shutdown.</source>
@@ -528,123 +529,123 @@ Do you want to overwrite?</source>
     <name>MainWindow</name>
     <message>
         <source>+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>+%1</translation>
     </message>
     <message>
         <source>-%1</source>
-        <translation type="unfinished"></translation>
+        <translation>+%1</translation>
     </message>
     <message>
         <source>&amp;OSD</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཡོལ་འཆར་བ།(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Off</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒོ་རྒྱག་པ།(&amp;O)</translation>
     </message>
     <message>
         <source>A:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>A:%1</translation>
     </message>
     <message>
         <source>B:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>B:%1</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>རོགས་རམ།</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>རྗེས་མ།</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་འབྱེད།</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱིར་འབུད།</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>མཚམས་འཇོག་པ།</translation>
     </message>
     <message>
         <source>Kylin Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་བརྙན་སྒྲ།</translation>
     </message>
     <message>
         <source>&amp;Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འགུལ།(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ལམ་རྐྱང་པ།(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་མེད(&amp;M)</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས།</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཟློས།</translation>
     </message>
     <message>
         <source>Mirr&amp;or image</source>
-        <translation type="unfinished"></translation>
+        <translation>མེ་ལོང་བརྙན་རིས།</translation>
     </message>
     <message>
         <source>(This warning won&apos;t be displayed anymore)</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེན་བརྡ་དེ་མི་ཤར་བ།</translation>
     </message>
     <message>
         <source>&amp;Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>སྤྱོད་མི་ཆོག་པ།(&amp;D)</translation>
     </message>
     <message>
         <source>Rotate by 90 degrees &amp;clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>གཡོན་དུ་ཏུའུ་90འཁོར་བ།</translation>
     </message>
     <message>
         <source>Kylin Video - Subtitle delay</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིའི་གཟུགས་སྒྲ་-ཡིག་བརྙན་ཕྱིར་འགྱངས།</translation>
     </message>
     <message>
         <source>&amp;Right channel</source>
-        <translation type="unfinished"></translation>
+        <translation>གཡས་སྒྲ་ལམ།(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Karaoke</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁཱ་ར་OK(&amp;K)</translation>
     </message>
     <message>
         <source>Kylin Video - Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་སྒྲ་བརྙན་ - གནས་ངེས་འཛིན་བྱེད་པ།</translation>
     </message>
     <message>
         <source>Video filters are disabled when using vdpau</source>
-        <translation type="unfinished"></translation>
+        <translation>VDPAUསྤྱོད་སྐབས་སྤྱོད་མི་ཆོག་པའི་བརྙན་ལམ་འཚག་ཆས་།</translation>
     </message>
     <message>
         <source>Fli&amp;p image</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་རིས་སློག་པ།(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Jump to...</source>
-        <translation type="unfinished"></translation>
+        <translation>མཆོང་བ།(&amp;J)</translation>
     </message>
     <message>
         <source>Jump to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1སྟེང་མཆོང་བ།</translation>
     </message>
     <message>
         <source>PlayList</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱབ་གཏོང་རེའུ་མིག</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
