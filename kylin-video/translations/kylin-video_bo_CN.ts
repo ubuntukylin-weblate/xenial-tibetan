@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>Using Qt %1 (compiled with Qt %2)</source>
-        <translation type="unfinished">Qt%1 ནི（Qt%2བཀོལ་དེ་སྒྲིག་སྒྱུར་བྱེད་པ）བཀོལ་སྤྱོད་བྱེད་བཞིན་པའི་སྒང་ཡིན།</translation>
+        <translation>Qt%1 ནི（Qt%2བཀོལ་དེ་སྒྲིག་སྒྱུར་བྱེད་པ）བཀོལ་སྤྱོད་བྱེད་བཞིན་པའི་སྒང་ཡིན།</translation>
     </message>
 </context>
 <context>
@@ -469,7 +469,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Jump to:</source>
-        <translation type="unfinished">མཆོང་ནས་འདི་ལྟ་སྟེ།</translation>
+        <translation>མཆོང་ནས་འདི་ལྟ་སྟེ།</translation>
     </message>
 </context>
 <context>
@@ -522,7 +522,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Press &lt;b&gt;Cancel&lt;/b&gt; to abort shutdown.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;འདོར་བ&lt;/b&gt; གནན་ནས་སྒོ་རྒྱག་པ་གཡོལ་བ།.</translation>
     </message>
 </context>
 <context>
