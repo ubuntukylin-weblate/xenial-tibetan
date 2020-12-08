@@ -1,17 +1,19 @@
-#
+# 头旦才让 <atou2008@qq.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
-"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"PO-Revision-Date: 2020-12-09 01:36+0000\n"
+"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
+"xenial-tibetan/udisks2/bo_CN/>\n"
 "Language: bo_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.3.1\n"
 
 msgid "%s Block Device"
 msgstr "%s དུམ་བུ་སྒྲིག་ཆས།"
@@ -452,7 +454,6 @@ msgstr "སྤྱོད་མཁན་གཞན་གྱིས་འགེལ་
 msgid "Update SMART data"
 msgstr "SMART གཞི་གྲངས་གསར་བསྒྱུར།"
 
-
 msgid "%s (%s bytes)"
 msgstr "%s(%s ཡིག་ཚིགས།)"
 
@@ -474,7 +475,6 @@ msgstr "%s མཁྲེགས་སྡེར།"
 msgid "Hard Disk"
 msgstr "མཁྲེགས་སྡེར།"
 
-
 msgid "Disk"
 msgstr "རང་སའི་སྲ་སྡེར།"
 
@@ -484,10 +484,8 @@ msgstr "འགོ་སློང་རུང་།"
 msgid "%s Card Reader"
 msgstr "%s ཁཱ་ཀློག་ཆས།"
 
-
 msgid "%s Disk"
 msgstr "%s སྡུད་སྡེར།"
-
 
 msgid "%s %s Drive"
 msgstr "%s %s སྐུལ་སློང་ཆས།"
@@ -601,7 +599,7 @@ msgid "UDF (version %s)"
 msgstr "UDF(པར་གཞི %s)"
 
 msgid "Unknown"
-msgstr "ངེས་མེད་ཀྱི་དུས་ཚོད།"
+msgstr "མི་ཤེས།"
 
 msgid "Unknown (%s %s)"
 msgstr "ངེས་མེད། (%s %s)"
@@ -774,10 +772,8 @@ msgstr ""
 msgid "RAID-6 Array"
 msgstr ""
 
-
 msgid "Flash"
 msgstr "འོད་འཁྱུག་གློག་སྒྲོན།"
-
 
 msgid "Jaz"
 msgstr ""
@@ -806,8 +802,6 @@ msgstr ""
 msgid "BD-ROM"
 msgstr ""
 
-
-
 msgid "CD-R"
 msgstr "འབྲི་རུང་འོད་སྡེར།"
 
@@ -816,8 +810,6 @@ msgstr "ཀློག་ཙམ་འོད་སྡེར།"
 
 msgid "CD-RW"
 msgstr "བསྐྱར་འབྲི་རུང་བའི་འོད་སྡེར།"
-
-
 
 msgid "DVD+R"
 msgstr "DVD+R(འབྲི་རུང་།)"
@@ -840,17 +832,14 @@ msgstr "DVD-RAM(ཀློག་ཙམ།)"
 msgid "DVD-RW"
 msgstr "DVD-RW(བསྐྱར་འབྲི་བྱ་རུང་།)"
 
-
 msgid "Floppy"
 msgstr "མཉེན་སྡེར།"
-
 
 msgid "HDDVD-R"
 msgstr ""
 
 msgid "HDDVD-RW"
 msgstr ""
-
 
 msgid "MMC"
 msgstr ""
@@ -864,7 +853,6 @@ msgstr ""
 msgid "MRW-W"
 msgstr ""
 
-
 msgid "SD"
 msgstr ""
 
@@ -874,16 +862,11 @@ msgstr ""
 msgid "SDXC"
 msgstr ""
 
-
 msgid "Thumb"
 msgstr "Uསྡེར།"
 
-
-
-
 msgid "%s — %s [%s] (%s)"
 msgstr ""
-
 
 msgid "%s"
 msgstr ""
@@ -923,7 +906,6 @@ msgstr ""
 
 msgid "Apple Label"
 msgstr "Apple ངོ་རྟགས་ཁུལ།"
-
 
 msgid "Apple RAID"
 msgstr ""
@@ -1065,7 +1047,6 @@ msgstr "W95 FAT32སྦེད་པ།"
 
 msgid "Hidden W95 FAT32 (LBA)"
 msgstr "W95 FAT32(LBA)སྦེད་པ།"
-
 
 msgid "Linux Extended"
 msgstr "Linux རྒྱ་སྐྱེད།"
@@ -1223,10 +1204,8 @@ msgstr ""
 msgid "W95 FAT32 (LBA)"
 msgstr ""
 
-
 msgid "%s (%s)"
 msgstr "%s (%s)"
-
 
 msgid "Generic"
 msgstr "ཀུན་སྤྱོད།"
@@ -1234,10 +1213,8 @@ msgstr "ཀུན་སྤྱོད།"
 msgid "Linux"
 msgstr "Linux"
 
-
 msgid "Other"
 msgstr "གཞན་དག"
 
 msgid "Windows"
 msgstr " སྒེའུ་ཁུང་།"
-
