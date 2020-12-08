@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Auto: it tries to automatically enable hardware decoding using the first available method.</source>
-        <translation type="unfinished"></translation>
+        <translation>རང་འགུལ: རང་འགུལ་གྱིས་བཀོལ་ཐུབ་པའི་སྲ་གཏོར་རྣམ་པ་རིགས་དང་པོ་བཀོལ་བ.</translation>
     </message>
     <message>
         <source>Decode</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>vaapi-copy: it copies video back into system RAM. For Intel GPUs only.</source>
-        <translation type="unfinished"></translation>
+        <translation>vaapi-copy: བརྙན་ཟློས་ནི་མ་ལག་གི་ནང་གསོག་ཏུ་མཁོ་ཕབ་བྱེད་པ། Intel GPUམ་གཏོགས་རྒྱབ་སྐྱོར་མི་བྱེད།.</translation>
     </message>
     <message>
         <source>Hardware decoding</source>
