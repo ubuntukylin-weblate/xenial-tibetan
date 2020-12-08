@@ -1188,43 +1188,43 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Pali</source>
-        <translation type="unfinished"></translation>
+        <translation>པ་ལི་སྐད།</translation>
     </message>
     <message>
         <source>Sami</source>
-        <translation type="unfinished"></translation>
+        <translation>པེ་ས་མི་སྐད།</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐེ་ལན་ཊའི་སྐད།</translation>
     </message>
     <message>
         <source>Urdu</source>
-        <translation type="unfinished"></translation>
+        <translation>ཝུའུ་ཨེར་ཏུའུ་སྐད།</translation>
     </message>
     <message>
         <source>Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>ཙུའུ་ལུའུ་སྐད།</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅེ་ཁི་སྐད།</translation>
     </message>
     <message>
         <source>Dutch</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧོ་ལན་གྱི་སྐད་</translation>
     </message>
     <message>
         <source>Ganda</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀན་ཏའི་སྐད།</translation>
     </message>
     <message>
         <source>Fulah</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧྥུ་ལན་གྱི་སྐད།</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀེ་རི་སེའི་སྐད།</translation>
     </message>
     <message>
         <source>Hausa</source>
@@ -1400,59 +1400,59 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Limburgan</source>
-        <translation type="unfinished"></translation>
+        <translation>ལིན་པའོ་སྐད་</translation>
     </message>
     <message>
         <source>Traditional Chinese charset</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྡ་རྙིང་རྒྱ་ཡིག་ཡིག་ཚོགས།</translation>
     </message>
     <message>
         <source>Baltic</source>
-        <translation type="unfinished"></translation>
+        <translation>པོ་ལོ་ཏེ་ཧའེ་སྐད་</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨ་རབ་ཀྱི་སྐད།</translation>
     </message>
     <message>
         <source>Basque</source>
-        <translation type="unfinished"></translation>
+        <translation>པ་སི་ཁེའི་སྐད་</translation>
     </message>
     <message>
         <source>Avaric</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨ་ཝར་སྐད་</translation>
     </message>
     <message>
         <source>Bihari</source>
-        <translation type="unfinished"></translation>
+        <translation>པི་ཧར་སྐད།</translation>
     </message>
     <message>
         <source>Aymara</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨེ་མ་ལའི་སྐད་</translation>
     </message>
     <message>
         <source>Breton</source>
-        <translation type="unfinished"></translation>
+        <translation>པུའུ་ལེ་ཐ་ཉི་སྐད་</translation>
     </message>
     <message>
         <source>Celtic</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁའེ་ཨེར་ཐི་སྐད་།</translation>
     </message>
     <message>
         <source>Church</source>
-        <translation type="unfinished"></translation>
+        <translation>གནའ་བོའི་ཆོས་ཚོགས་སི་ལ་ཧྥུ་སྐད་</translation>
     </message>
     <message>
         <source>Sundanese</source>
-        <translation type="unfinished"></translation>
+        <translation>ཤུན་ཐའི་སྐད།</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>ཏན་མའེ་སྐད།</translation>
     </message>
     <message>
         <source>Ndebele</source>
-        <translation type="unfinished"></translation>
+        <translation>པེ་ཨིན་ཏི་པེ་ལེའི་སྐད།</translation>
     </message>
     <message>
         <source>Divehi</source>
@@ -1556,43 +1556,43 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Arabic Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨ་རབ་སྐད་Windows</translation>
     </message>
     <message>
         <source>Sindhi</source>
-        <translation type="unfinished"></translation>
+        <translation>ཤིན་དའི་སྐད</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་ལོ་ཝ་ཁེའི་སྐད་</translation>
     </message>
     <message>
         <source>Somali</source>
-        <translation type="unfinished"></translation>
+        <translation>སོ་མ་ལིའི་སྐད་</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐེ་ལུའུ་ཀུའུ་སྐད་</translation>
     </message>
     <message>
         <source>Tsonga</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚུང་ཅ་ཡི་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Tswana</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚེ་བ་ནག་སྐད</translation>
     </message>
     <message>
         <source>Uighur</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡུ་གུར་སྐད</translation>
     </message>
     <message>
         <source>Slavic/Central European Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་ལ་ཧྥུ་སྐད་/ཡོ་རོབ་དཀྱིལ་མའི་Windows</translation>
     </message>
     <message>
         <source>Yoruba</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡོ་ལུ་པའི་སྐད་</translation>
     </message>
     <message>
         <source>Zhuang</source>
@@ -1600,15 +1600,15 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Volapük</source>
-        <translation type="unfinished"></translation>
+        <translation>ཝོ་ལ་ཕོ་ཁི་སྐད་</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>རོ་མ་ཉི་ཡའི་སྐད་</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧིན་རྡུ་ཉི་ཞི་ཡའི་སྐད་།</translation>
     </message>
     <message>
         <source>Panjabi</source>
