@@ -673,143 +673,143 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>རིས་ངོས་བསྡུར་བ།</translation>
     </message>
     <message>
         <source>Subtitle &amp;visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་རས་མཐོང་རུང་རང་བཞིན(&amp;V)</translation>
     </message>
     <message>
         <source>%1 Error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1ནོར་བ།</translation>
     </message>
     <message>
         <source>Please check the %1 path in preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ཀྱིས་ཐོག་མའི་འདེམས་བྱང་ནང་གི་ལམ་ཐིག %1་ལ་ལྟ་རོགས.</translation>
     </message>
     <message>
         <source>Load...</source>
-        <translation type="unfinished"></translation>
+        <translation>སྣོན་འཇུག...</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཡོལ་གང་བོ།</translation>
     </message>
     <message>
         <source>Double speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྡབ་གཉིས་ཀྱི་མྱུར་ཚད།</translation>
     </message>
     <message>
         <source>Rotate by 90 degrees counterclock&amp;wise</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་ལྡོག་མདའ་སྐོར་བ་ཏུའུ90་འཁོར་བ།ཤ(&amp;W)</translation>
     </message>
     <message>
         <source>Recent files</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེ་ལམ་གྱི་ཡིག་ཆ</translation>
     </message>
     <message>
         <source>S&amp;tay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་གོང་མ(&amp;T)</translation>
     </message>
     <message>
         <source>Open Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>འཆར་ངོས་གཙོ་བོ་འབྱེད་པ།</translation>
     </message>
     <message>
         <source>The screenshot folder does not exist!</source>
-        <translation type="unfinished"></translation>
+        <translation>རིས་དྲས་ཡིག་ཁུག་མེད!</translation>
     </message>
     <message>
         <source>Open screenshots folder</source>
-        <translation type="unfinished"></translation>
+        <translation>རིས་དྲས་ཡིག་ཁུག་འབྱེད་པ།</translation>
     </message>
     <message>
         <source>Show times with &amp;milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧའོ་སྨི་ལྟར་དུས་ཚོད་འཆར་བ།</translation>
     </message>
     <message>
         <source>Rotate by 90 degrees counterclockwise and &amp;flip</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་ལྡོག་མདའ་སྐོར་བ་ཏུའུ90་འཁོར་བ་དང་སློག་འཁོར(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;6.1 Surround</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;6.1 དཀྱིལ་འཁོར་སྒྲ(&amp;6)</translation>
     </message>
     <message>
         <source>&amp;5.1 Surround</source>
-        <translation type="unfinished"></translation>
+        <translation>5.1 དཀྱིལ་འཁོར་སྒྲ(&amp;5)</translation>
     </message>
     <message>
         <source>View &amp;info and properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>སྨྱན་གཟུགས་ཆ་འཕྲིན(&amp;I)...</translation>
     </message>
     <message>
         <source>&amp;7.1 Surround</source>
-        <translation type="unfinished"></translation>
+        <translation>7.1 དཀྱིལ་འཁོར་སྒྲ(&amp;7)</translation>
     </message>
     <message>
         <source>Error detected</source>
-        <translation type="unfinished"></translation>
+        <translation>ནོར་འཁྲུལ་རྙེད།</translation>
     </message>
     <message>
         <source>Please, update your MPlayer.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་ཀྱི་ MPlayerརབས་བརྗེ་རོགས།.</translation>
     </message>
     <message>
         <source>Random play</source>
-        <translation type="unfinished"></translation>
+        <translation>རིམ་མེད་སྒྲ་གཏོང་།</translation>
     </message>
     <message>
         <source>Show &amp;info on OSD</source>
-        <translation type="unfinished"></translation>
+        <translation>OSDནང་ནས་ཆ་འཕྲིན་ཤར་བ(&amp;i)</translation>
     </message>
     <message>
         <source>Failed to add files!</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་སྣོན་མ་ཐུབ!</translation>
     </message>
     <message>
         <source>&amp;4.0 Surround</source>
-        <translation type="unfinished"></translation>
+        <translation>4.0 དཀྱིལ་འཁོར་སྒྲ(&amp;4)</translation>
     </message>
     <message>
         <source>Volume +</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཚད +</translation>
     </message>
     <message>
         <source>Volume -</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཚད-</translation>
     </message>
     <message>
         <source>List loop play</source>
-        <translation type="unfinished"></translation>
+        <translation>རེའུ་མིག་རེས་འཁོར་གཏོང་བ།</translation>
     </message>
     <message>
         <source>&amp;Rotate by 90 degrees clockwise and flip</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་བསྟུན་མདའ་སྐོར་བ་ཏུའུ90་འཁོར་བ་དང་སློག་འཁོར(&amp;R)</translation>
     </message>
     <message>
         <source>About &amp;Kylin Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་བརྙན་སྒྲ་དང་འབྲེལ་ཡོད།</translation>
     </message>
     <message>
         <source>&amp;Load external file...</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱི་རོལ་ཡིག་ཆ་སྣོན་འཇུག(&amp;L)...</translation>
     </message>
     <message>
         <source>&apos;%1&apos; was not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; རྙེད་མ་བྱུང་།!</translation>
     </message>
     <message>
         <source>Volume + Seek + &amp;Timer</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཚད+གནས་ངེས+དུས་བརྩི་ཆས(&amp;T)</translation>
     </message>
     <message>
         <source>U&amp;nload</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱི་རོལ་ཡིག་ཆ་ལྷུ་གཏོར(&amp;N)</translation>
     </message>
     <message>
         <source>Re&amp;verse</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྡོག་པར(&amp;v)</translation>
     </message>
     <message>
         <source>Reset audio equalizer</source>
