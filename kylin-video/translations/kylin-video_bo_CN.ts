@@ -653,23 +653,23 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་ནས་མི་བྱེད་པ།(&amp;N)</translation>
     </message>
     <message>
         <source>&lt;empty&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>〈སྟོང་པ〉</translation>
     </message>
     <message>
         <source>&amp;Left channel</source>
-        <translation type="unfinished"></translation>
+        <translation>གཡོན་སྒྲ་ལམ།(&amp;L)</translation>
     </message>
     <message>
         <source>Delete the list of recent files?</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་ཉེ་བའི་ཡིག་ཆའི་རེའུ་མིག་བསུབ་དགོས་སམ།</translation>
     </message>
     <message>
         <source>Unfortunately this video can&apos;t be played.</source>
-        <translation type="unfinished"></translation>
+        <translation>དགོངས་པ་མ་འཚོམས།བརྙན་འདི་གཏོང་མི་ཆོག</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
