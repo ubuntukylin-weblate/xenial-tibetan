@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Auto</source>
-        <translation>རླངས་འཁོར།</translation>
+        <translation>རང་འགུལ།</translation>
     </message>
     <message>
         <source>None</source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Cache</source>
-        <translation>མྱུར་ལེན།</translation>
+        <translation>ཉར་ཚགས།</translation>
     </message>
     <message>
         <source>Threads for decoding</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Cache for local files:</source>
-        <translation type="unfinished">ས་གནས་དེ་གའི་ཡིག་ཆ་གསོག་ཉར་བྱེད་པ།</translation>
+        <translation>ས་གནས་དེ་གའི་ཡིག་ཆ་གསོག་ཉར་བྱེད་པ།</translation>
     </message>
 </context>
 <context>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Kylin Video is developed on the basis of %1, is a graphical interface for %2 and %3.</source>
-        <translation type="unfinished">ཆེའུ་ལེན་སྒྲ་སྙན་ནི%1རྨང་གཞིའི་སྟེང་གསར་སྤེལ་དང%2དང་%3ཡི་དབྱིབས་རིས་མདུན་སྣེ།</translation>
+        <translation>ཆེའུ་ལེན་སྒྲ་སྙན་ནི%1རྨང་གཞིའི་སྟེང་གསར་སྤེལ་དང%2དང་%3ཡི་དབྱིབས་རིས་མདུན་སྣེ།</translation>
     </message>
     <message>
         <source>Links:</source>
@@ -533,7 +533,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>-%1</source>
-        <translation>+%1</translation>
+        <translation>-%1</translation>
     </message>
     <message>
         <source>&amp;OSD</source>
