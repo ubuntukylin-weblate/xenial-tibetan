@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="bo_CN">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -579,7 +579,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/messagedialog.ui" line="233"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>མེད་པར་བཟོ་བ།</translation>
     </message>
 </context>
 <context>
