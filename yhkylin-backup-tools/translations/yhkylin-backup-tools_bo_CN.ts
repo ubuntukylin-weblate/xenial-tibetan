@@ -6,32 +6,32 @@
     <message>
         <location filename="backupmanagement.ui" line="32"/>
         <source>DataBackupDirsDialog</source>
-        <translation type="unfinished"></translation>
+        <translation>DataBackupDirsDialog</translation>
     </message>
     <message>
         <location filename="backupmanagement.ui" line="93"/>
         <source>Unnecessary data backups can be deleted. Please refer to Log Records for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱོད་ཀྱིས་མི་དགོས་པའི་གྲབས་ཉར་སུབ་ཆོག  ཞིབ་ཕྲའི་གནས་ཚུལ་བཀོལ་སྤྱོད་ཉིན་ཐོར་དཔེ་བལྟ་རོགས།</translation>
     </message>
     <message>
         <location filename="backupmanagement.ui" line="118"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - Data Backup Management&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།-གཞི་གྲངས་གྲབས་ཉར་དོ་དམ&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="backupmanagement.ui" line="176"/>
         <source>Operation Time</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་སྤྱོད་དུས་ཚོད།</translation>
     </message>
     <message>
         <location filename="backupmanagement.ui" line="181"/>
         <source>UUID</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་འཛིན་ཨང་།</translation>
     </message>
     <message>
         <location filename="backupmanagement.ui" line="186"/>
         <source>Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་སྤྱོད།</translation>
     </message>
 </context>
 <context>
@@ -39,7 +39,7 @@
     <message>
         <location filename="databackupdirs.ui" line="32"/>
         <source>DataBackupDirsDialog</source>
-        <translation type="unfinished"></translation>
+        <translation>DataBackupDirsDialog</translation>
     </message>
     <message>
         <location filename="databackupdirs.ui" line="116"/>
@@ -59,37 +59,52 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/media/*&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/var/lib/udisks2/*&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/tmp/*&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/backup&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/boot/efi&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/dev&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/etc/.bootinfo&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/ghost&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/mnt/*&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/proc&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/run&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/sys&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/media/*&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/var/lib/udisks2/*&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/tmp/*&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="databackupdirs.ui" line="151"/>
         <source>Excluded by this tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་ལས་དེའི་འོག་ནས་སྣང་མེད་དུ་བཞག</translation>
     </message>
     <message>
         <location filename="databackupdirs.ui" line="169"/>
         <source>Input directories or files.</source>
-        <translation type="unfinished"></translation>
+        <translation>དཀར་ཆག་ནང་འཇུག་དང་ཡང་ན་ཡིག་ཆའི་མིང་།</translation>
     </message>
     <message>
         <location filename="databackupdirs.ui" line="248"/>
         <source>Comment (no more than 100 characters)</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟུར་མཆན།（རྒྱ་ཡིག་དང་དབྱིན་ཡིག་གི་ཡིག་རྟགས་ཚད་100）</translation>
     </message>
     <message>
         <location filename="databackupdirs.ui" line="266"/>
         <source>      Please input your directories or files which will be backuped. But the tool  will neglect the left. </source>
-        <translation type="unfinished"></translation>
+        <translation>      ཁྱོད་ཀྱིས་གྲབས་ཉར་བསམ་པའི་གཞི་གྲངས་དཀར་ཆག་གམ་ཡིག་ཆའི་མིང་འབྲི་རོགས། བྱེད་ལས་འདིའི་འོག་ཏུ་གཡོན་ཕྱོགས་ཀྱི་དཀར་ཆག་ཁྲོད་ཀྱི་རྒྱུད་ཁོངས་ཡིག་ཆ་དང་དཀར་ཆག་སྣང་མེད་དུ་འཇོག་སྲིད། </translation>
     </message>
     <message>
         <location filename="databackupdirs.ui" line="291"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - New Data Backup&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།-་གཞི་གྲངས་གྲབས་ཉར་གསར་སྐྲུན།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="databackupdirs.cpp" line="54"/>
         <source>You can input a sentence for this backup.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐེངས་འདིའི་གྲབས་ཉར་ལ་ཚིག་གཅིག་གི་གསལ་བཤད་ནང་འཇུག་གནང་རོགས།</translation>
     </message>
 </context>
 <context>
@@ -97,7 +112,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="databackuplist.ui" line="29"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>གླེང་སྒྲོམ།</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="124"/>
@@ -106,57 +121,61 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;Data Backup Information&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;གཞི་གྲངས་གྲབས་ཉར་ཆ་འཕྲིན་རེའུ་མིག&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="269"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲིག་ཨང་།</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="274"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་མིང་།</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="279"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་དུས་ཚོད།</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="284"/>
         <source>UUID</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་འཛིན་ཨང་།</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="289"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="292"/>
         <source>new comment</source>
-        <translation type="unfinished"></translation>
+        <translation>དཔྱད་མཆན་གསར་འཛུགས།</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="295"/>
         <source>time</source>
-        <translation type="unfinished"></translation>
+        <translation>དུས་ཚོད།</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="298"/>
         <source>path</source>
-        <translation type="unfinished"></translation>
+        <translation>འགྲོ་ལམ།</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="303"/>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="databackuplist.ui" line="306"/>
         <source>New item</source>
-        <translation type="unfinished"></translation>
+        <translation>རྣམ་གྲངས་གསར་འཛུགས།</translation>
     </message>
 </context>
 <context>
@@ -164,17 +183,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="dataincbackupdirs.ui" line="32"/>
         <source>DataIncBackupDirsDialog</source>
-        <translation type="unfinished"></translation>
+        <translation>DataIncBackupDirsDialog</translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.ui" line="67"/>
         <source>Directories or files in old backup.</source>
-        <translation type="unfinished"></translation>
+        <translation>ལོ་རྒྱུས་གྲབས་ཉར།</translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.ui" line="124"/>
         <source>Excluded by this tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་ལས་དེའི་འོག་རང་འགུལ་ངང་སྣང་མེད་དུ་བཞག</translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.ui" line="159"/>
@@ -195,32 +214,48 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/media/*&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/var/lib/udisks2/*&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/tmp/*&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/data&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/backup&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/boot/efi&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/dev&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/etc/.bootinfo&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/ghost&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/mnt/*&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/proc&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/run&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/sys&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/media/*&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/var/lib/udisks2/*&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;;&quot;&gt;/tmp/*&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.ui" line="234"/>
         <source>Input directories or files.</source>
-        <translation type="unfinished"></translation>
+        <translation>དཀར་ཆག་ནང་འཇུག་དང་ཡང་ན་ཡིག་ཆའི་མིང་།</translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.ui" line="254"/>
         <source>Comment (no more than 100 characters)</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟུར་མཆན།（རྒྱ་ཡིག་དང་དབྱིན་ཡིག་གི་ཡིག་རྟགས་ཚད་100）</translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - Update Data Backup&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།-གཞི་གྲངས་འཕར་ཚད་གྲབས་ཉར།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.ui" line="372"/>
         <source>      Please input the directories or files to be backuped. The tool  will consider those in old backup but neglect the left. </source>
-        <translation type="unfinished"></translation>
+        <translation>      ཁྱེད་ཀྱིས་གཡས་ཕྱོགས་ཀྱི་གཏན་འཁེལ་སྒྲོམ་བུའི་ནང་དུ་གྲབས་ཉར་བྱ་འདོད་པའི་དཀར་ཆག་གམ་ཡིག་ཆ་བཞག་ན།བྱེད་ནུས་དེའི་འོག་ཏུ་ལོ་རྒྱུས་ཀྱི་གྲབས་ཉར་ལ་བསམ་བློ་གཏོང་སྲིད་པ་མ་ཟད།གཡོན་ཕྱོགས་ཀྱི་དཀར་ཆག་ཁྲོད་ཀྱི་རྒྱུད་ཁོངས་ཡིག་ཆ་དང་དཀར་ཆག་ལ་སྣང་མེད་བྱེད་སྲིད། </translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.cpp" line="34"/>
         <source>You can input a sentence for this backup.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐེངས་འདིའི་གྲབས་ཉར་ལ་ཚིག་གཅིག་གི་གསལ་བཤད་ནང་འཇུག་གནང་རོགས།</translation>
     </message>
 </context>
 <context>
@@ -228,22 +263,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="deletedialog.ui" line="17"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>གླེང་སྒྲོམ།</translation>
     </message>
     <message>
         <location filename="deletedialog.ui" line="71"/>
         <source>System Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུད་ཁོངས་སྣེ་སྟོན།</translation>
     </message>
     <message>
         <location filename="deletedialog.ui" line="145"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="deletedialog.ui" line="167"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>
@@ -251,27 +286,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="exclude.ui" line="32"/>
         <source>ExcludeDialog</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟུར་མཆན། （རྒྱ་ཡིག་དང་དབྱིན་ཡིག་གི་ཡིག་རྟགས་ཚད100）</translation>
     </message>
     <message>
         <location filename="exclude.ui" line="99"/>
         <source>Ignore directories or files.</source>
-        <translation type="unfinished"></translation>
+        <translation>སྤྱོད་མཁན་དམིགས་འཛུགས་སྣང་མེད།</translation>
     </message>
     <message>
         <location filename="exclude.ui" line="178"/>
         <source>Comment (no more than 100 characters)</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟུར་མཆན།（རྒྱ་ཡིག་དང་དབྱིན་ཡིག་གི་ཡིག་རྟགས་ཚད་100）</translation>
     </message>
     <message>
         <location filename="exclude.ui" line="196"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12px; color:#383838;&quot;&gt;The following directories and files will be neglected. &lt;br/&gt;For example, the data partition won&apos;t be considered if you input &apos;/data&apos; or &apos;/data/*&apos;. &apos;/data&apos; ignores the directory itself, its subdirectories and files while &apos;/data/*&apos; only ignores its subdirectories and files.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12px; color:#383838;&quot;&gt;གྲབས་ཉར་སོར་ལོག་བྱེད་པའི་གོ་རིམ་ཁྲོད་དུ་སྣང་མེད་བྱེད་བསམ་པའི་དཀར་ཆག་དང་ཡིག་ཆ་དག་ནང་འཇུག་བྱེད་རོགས།གལ་ཏེ་མེད་ན་ནང་འཇུག་མི་བྱེད། &lt;br/&gt;དཔེར་ན། ནང་འཇུག&apos;/data&apos; ཡང་ན་ &apos;/data/*&apos;，དེ་མིན་གཞི་གྲངས་ཁུལ་ལག་སྣང་མེད་བཞག&apos;/data&apos;དཀར་ཆག་དེའི་རང་ངོས་དང་དེའི་ཡན་ལག་དཀར་ཆག་དང་ཡིག་ཆ་སྣང་མེད་དུ་བཞག  &apos;/data/*&apos;གྱིས་དེའི་ཡན་ལག་དཀར་ཆག་དང་ཡིག་ཆ་སྣང་མེད་དུ་བཞག&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="exclude.ui" line="221"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - New System Backup&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།-རྒྱུད་ཁོངས་གྲབས་ཉར་གསར་འཛུགས།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -279,22 +314,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="ghostbackupdialog.ui" line="17"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>གླེང་སྒྲོམ།</translation>
     </message>
     <message>
         <location filename="ghostbackupdialog.ui" line="71"/>
         <source>System Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུད་ཁོངས་སྣེ་སྟོན།</translation>
     </message>
     <message>
         <location filename="ghostbackupdialog.ui" line="142"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ghostbackupdialog.ui" line="167"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>
@@ -302,65 +337,65 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="maindialog.ui" line="40"/>
         <source>Backup and Recovery</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="148"/>
         <source> Backup and Recovery</source>
-        <translation type="unfinished"></translation>
+        <translation> ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="161"/>
         <source>You can create multiple backup copies, and select one to restore or delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱོད་ཀྱིས་གྲབས་ཉར་མང་པོ་ཞིག་བསྐྲུན་ཆོག   དགོས་མཁོ་ལ་གཞིགས་ནས་སོར་ལོག་དང་ཡང་ན་དེའི་ཁྲོད་ཀྱི་གཅིག་སུབ་ཀྱང་ཆོག</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="174"/>
         <source>Note: do not use removable storage devices, such as u disks.</source>
-        <translation type="unfinished"></translation>
+        <translation>གཟབ་རྒྱུ།：སྤོ་རུང་གསོག་ཆས་ཡོད་ཚད་འབུད་རོགས་གནང་། དཔེར་ན།Uསྡེར་སོགས།</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="304"/>
         <location filename="maindialog.ui" line="713"/>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་དོ་དམ།</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="317"/>
         <location filename="maindialog.ui" line="631"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14px; color:#b2b2b2;&quot;&gt;Create a restore point&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14px; color:#b2b2b2;&quot;&gt;སོར་ལོག་གནས་གསར་བཟོ།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="346"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18px;&quot;&gt;New System Backup&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18px;&quot;&gt;རྒྱུད་ཁོངས་གྲབས་ཉར་གསར་འཛུགས།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="375"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:17px;&quot;&gt;Update System Backup&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:17px;&quot;&gt;རྒྱུད་ཁོངས་འཕར་ཚད་གྲབས་ཉར།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="401"/>
         <location filename="maindialog.ui" line="657"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14px; color:#b2b2b2;&quot;&gt;Overwrite a restore point&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14px; color:#b2b2b2;&quot;&gt;སྔོན་གྱི་སོར་ལོག་གནས་ཁེབས་པ།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="426"/>
         <source>This is used for whole system backup</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་ལས་དེ་སྤྱད་ནས་རྒྱུད་ཁོངས་ཡོངས་གྲབས་ཉར་བྱེད་པ།</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="454"/>
         <source>This is used for whole system restore</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་ལས་དེ་སྤྱད་ནས་རྒྱུད་ཁོངས་ཡོངས་སོར་ལོག་བྱེད་པ།</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="498"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14px; color:#b2b2b2;&quot;&gt;A perfect recovery to a previous backup&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14px; color:#b2b2b2;&quot;&gt;བདེ་ལེགས་ངང་གྲབས་ཉར་བྱས་ཟིན་པའི་རྒྱུད་ཁོངས་སོར་ལོག་བྱེད་པ།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="527"/>
@@ -1050,93 +1085,93 @@ p, li { white-space: pre-wrap; }
         <location filename="databackuplist.cpp" line="278"/>
         <location filename="targetlistdialog.cpp" line="265"/>
         <source>backup unfinished</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་ཕམ་པ།</translation>
     </message>
     <message>
         <location filename="databackuplist.cpp" line="280"/>
         <location filename="targetlistdialog.cpp" line="267"/>
         <source>backup failed</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་ཕམ་པ།</translation>
     </message>
     <message>
         <location filename="dataincbackupdirs.cpp" line="144"/>
         <source>You input nothing. Do you want to use the same as the old backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱོད་ཀྱིས་ནང་འཇུག་བྱས་མི་འདུག  ལོ་རྒྱུས་གྲབས་ཉར་ཁྲོད་ཀྱི་དཀར་ཆག་དང་ཡིག་ཆ་བཀོལ་སྤྱོད་བྱེད་དམ།</translation>
     </message>
     <message>
         <location filename="deletedialog.cpp" line="16"/>
         <source>Please wait while data is being removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་གནས་གསུབ་པ།</translation>
     </message>
     <message>
         <location filename="deletedialog.cpp" line="23"/>
         <source>Removing backup point...</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་གནས་བསུབ་བཞིན་ཡོད།</translation>
     </message>
     <message>
         <location filename="deletedialog.cpp" line="49"/>
         <source>Deleting backup successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་སུབ་པ་ཟིན།</translation>
     </message>
     <message>
         <location filename="deletedialog.cpp" line="55"/>
         <source>Failed to delete backup.</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་སུབ་ཐུབ་མ་སོང་།</translation>
     </message>
     <message>
         <location filename="excludedialog.cpp" line="40"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - New System Backup&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།-རྒྱུད་ཁོངས་གྲབས་ཉར་གསར་འཛུགས།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="excludedialog.cpp" line="42"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - Update System Backup&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།-རྒྱུད་ཁོངས་འཕར་ཚད་གྲབས་ཉར།&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="excludedialog.cpp" line="44"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - Restore System&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ།-རྒྱུད་ཁོངས་རྡང་གཅིག་སོར་ལོག&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ghostbackupdialog.cpp" line="15"/>
         <source>Making ghost image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ghostཤེལ་བརྙན་སྒྲིག་བཟོ།</translation>
     </message>
     <message>
         <location filename="ghostbackupdialog.cpp" line="22"/>
         <source>Please wait while the ghost image file &apos;%1&apos; is being made.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅུང་ཙམ་སྒུག་རོགས་གནང་།ཤེལ་བརྙན་ཡིག་ཆ་སྒྲིག་བཟོ་བྱེད་བཞིན་ཡོད།&apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="ghostbackupdialog.cpp" line="48"/>
         <source>Making ghost image file successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཤེལ་བརྙན་ཡིག་ཆ་སྒྲིག་བཟོ་བྱས་ཟིན།</translation>
     </message>
     <message>
         <location filename="ghostbackupdialog.cpp" line="54"/>
         <source>Failed to make ghost image file.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཤེལ་བརྙན་ཡིག་ཆ་སྒྲིག་བཟོ་ཕམ་པ།</translation>
     </message>
     <message>
         <location filename="main.cpp" line="306"/>
         <source>Can not find &apos;kybackup&apos; in cmdline.</source>
-        <translation type="unfinished"></translation>
+        <translation>cmdlineཁྲོད་དུ་&apos;kybackup&apos;རྙེད་མ་བྱུང་།</translation>
     </message>
     <message>
         <location filename="main.cpp" line="341"/>
         <source>This tool can only be used by manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ་དོ་དམ་པ་ཁོ་ནས་བཀོལ་སྤྱོད་བྱེད་དགོས།</translation>
     </message>
     <message>
         <location filename="main.cpp" line="353"/>
         <source>Another kybackup exists, you can not start it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ལིན་གྲབས་ཉར་སོར་ལོག་ལག་ཆ་འགོ་སློང་ཟིན།</translation>
     </message>
     <message>
         <location filename="main.cpp" line="362"/>
         <source>Another process exists for making an image file, you can not start it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>འཕེལ་རིམ་གཞན་ཞིག་གིས་ཤེལ་བརྙན་ཡིག་ཆ་བཟོ་བཞིན་འདུག  ཅུང་ཙམ་འགོར་རྗེས་ལག་ཆ་འདི་བཀོལ་རོགས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="296"/>
@@ -1144,13 +1179,13 @@ p, li { white-space: pre-wrap; }
         <location filename="maindialog.cpp" line="1073"/>
         <location filename="maindialog.cpp" line="1179"/>
         <source>Cannot find the backup partition or the configuration in this partition.</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་སོར་ལོག་ཁུལ་ལག་དང་ཡང་ན་དེ་དང་མཚུངས་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ་རྙེད་མ་བྱུང་།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="308"/>
         <location filename="maindialog.cpp" line="434"/>
         <source>The file %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ%1མི་གནས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="386"/>
@@ -1158,77 +1193,77 @@ p, li { white-space: pre-wrap; }
         <location filename="maindialog.cpp" line="411"/>
         <location filename="maindialog.cpp" line="418"/>
         <source>Please check if the backup partition exists which can be created when you install the Operating System and select it.</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་སོར་ལོག་ཁུལ་ལག་གནས་ཡོད་མེད་ལ་ཞིབ་བཤེར་བྱེད་རོགས།བཀོལ་སྤྱོད་རྒྱུད་ཁོངས་སྒྲིག་འཇུག་བྱེད་སྐབས་ངེས་པར་དུ་གྲབས་ཉར་སོར་ལོག་ཁུལ་ལག་གསར་འཛུགས་འདེམ་བྱང་འདེམས་ནས་ཁུལ་ལག་འདི་གསར་འཛུགས་བྱེད་དགོས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="483"/>
         <source>Unable to mount the backup partition, please umount it firstly before start this tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>mountཁུལ་ལག་གྲབས་ཉར་སོར་ལོག་ལེགས་གྲུབ་མ་བྱུང་། མཉེན་ཆས་འགོ་སློང་སྔོན་ལ་མི་གཞན་པས་བཀོལ་སྤྱོད་བྱས་རྗེས་བཤིག་འདོན་བྱས་མེད་པ་གཏན་འཁེལ་བྱ་དགོས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="705"/>
         <source>Operation Time</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་སྤྱོད་དུས་ཚོད།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="705"/>
         <source>Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་སྤྱོད།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="705"/>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟུར་མཆན།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="803"/>
         <source>new system backup</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུད་ཁོངས་གྲབས་ཉར་གསར་འཛུགས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="804"/>
         <source>udpate system backup</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུད་ཁོངས་འཕར་ཚད་གྲབས་ཉར།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="805"/>
         <source>restore system</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུད་ཁོངས་སོར་ལོག</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="806"/>
         <source>retaining user data</source>
-        <translation type="unfinished"></translation>
+        <translation>སྤྱོད་མཁན་གྱི་གཞི་གྲངས་སོར་ལོག་སོར་བཞག</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="808"/>
         <source>new data backup</source>
-        <translation type="unfinished"></translation>
+        <translation>གཞི་གྲངས་གྲབས་ཉར་གསར་འཛུགས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="809"/>
         <source>update data backup</source>
-        <translation type="unfinished"></translation>
+        <translation>གཞི་གྲངས་འཕར་ཚད་གྲབས་ཉར།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="810"/>
         <source>restore data</source>
-        <translation type="unfinished"></translation>
+        <translation>གཞི་གྲངས་སོར་ལོག</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="844"/>
         <source>Please install a package using &apos;sudo apt-get install squashfs-tools&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀའ་བརྡ་&apos;sudo apt-get install squashfs-tools&apos;བཀོལ་སྤྱོད་བྱས་ནས་ཆད་ཤོར་ཐུམ་སྒྲིག་འཇུག་གནང་རོགས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="860"/>
         <source>No useful backups and the ghost image file can not be made.</source>
-        <translation type="unfinished"></translation>
+        <translation>ནུས་ལྡན་གྱི་གྲབས་ཉར་མེད་པས།ཤེལ་བརྙན་ཡིག་ཆ་བཟོ་མི་ཐུབ།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="999"/>
         <source>Found that couldn&apos;t restore system, please check your environment!</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་རྒྱུད་ཁོངས་སོར་ལོག་བཀོལ་སྤྱོད་བྱེད་ཐབས་མེད་པས། རྒྱུད་ཁོངས་གྱི་ཁོར་ཡུག་ལ་ཞིབ་བཤེར་བྱེད་རོགས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1007"/>
@@ -1239,65 +1274,65 @@ p, li { white-space: pre-wrap; }
         <location filename="maindialog.cpp" line="2086"/>
         <location filename="maindialog.cpp" line="2192"/>
         <source>The configuration files can not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>སྡེབ་སྒྲིག་ཡིག་ཆ་རྙེད་མ་བྱུང་།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1028"/>
         <location filename="maindialog.cpp" line="1160"/>
         <source>No useful backups and the system recovery can not be started.</source>
-        <translation type="unfinished"></translation>
+        <translation>ནུས་ལྡན་གྱི་གྲབས་ཉར་མེད་པས།རྒྱུད་ཁོངས་སོར་ལོག་བྱེད་མི་ཐུབ།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1041"/>
         <source>Found that couldn&apos;t backup system, please check your environment!</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་རྒྱུད་ཁོངས་སོར་ལོག་བཀོལ་སྤྱོད་བྱེད་ཐབས་མེད་པས། རྒྱུད་ཁོངས་གྱི་ཁོར་ཡུག་ལ་ཞིབ་བཤེར་བྱེད་རོགས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1107"/>
         <location filename="maindialog.cpp" line="1224"/>
         <source>No backup and the incremental backup can not be started.</source>
-        <translation type="unfinished"></translation>
+        <translation>གྲབས་ཉར་ཅི་ཡང་མེད་པས།འཕར་ཚད་གྲབས་ཉར་བྱེད་ཐབས་མེད།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1114"/>
         <location filename="maindialog.cpp" line="1231"/>
         <source>Please select one to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱེད་ལས་གཅིག་བདམས་རྗེས་མུ་མཐུད་སྤྱོད་རོགས།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1280"/>
         <source>No useful backups and the data recovery can not be started.</source>
-        <translation type="unfinished"></translation>
+        <translation>ནུས་ལྡན་གྲབས་ཉར་མེད་པས།གཞི་གྲངས་སོར་ལོག་བཀོལ་སྤྱོད་བྱེད་ཐབས་མེད།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1308"/>
         <source>Failed to mount the /backup partition.</source>
-        <translation type="unfinished"></translation>
+        <translation>mountཁུལ་ལག་གྲབས་ཉར་སོར་ལོག་བྱེད་ཐབས་མེད།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1370"/>
         <source>The first backup for factory state can not be backuped again.</source>
-        <translation type="unfinished"></translation>
+        <translation>བཟོ་གྲྭ་ནས་ཐོན་པའི་གྲབས་ཉར་ལ་འཕར་ཚད་གྲབས་ཉར་བྱས་མི་ཆོག</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1397"/>
         <source>Do you restore to the first backup for factory state?</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱོད་ཀྱིས་བཟོ་གྲྭ་ནས་ཐོན་པའི་རྣམ་པ་ལ་སླར་གསོ་བྱེད་འདོད་དམ།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1418"/>
         <source>Please wait while other data is being backuped or restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅུང་ཙམ་སྒུག་རོགས་གནང་། རྒྱུད་ཁོངས་ཁྲོད་དུ་གྲབས་ཉར་སོར་ལོག་བཀོལ་སྤྱོད་གཅིག་ཡོད།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1426"/>
         <source>Please wait while other data is being removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅུང་ཙམ་སྒུག་རོགས་གནང་།རྒྱུད་ཁོངས་ཀྱི་གྲབས་ཉར་སུབ་བཞིན་ཡོད།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1434"/>
         <source>Please wait while another image file is being made.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅུང་ཙམ་སྒུག་རོགས་གནང་།རྒྱུད་ཁོངས་ཁྲོད་ཤེལ་བརྙན་ཡིག་ཆ་གཅིག་བཟོ་བཞིན་ཡོད།</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="1455"/>
