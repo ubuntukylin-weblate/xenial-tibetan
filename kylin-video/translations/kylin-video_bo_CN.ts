@@ -813,27 +813,27 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Reset audio equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་སྙོམ་ཆས་བསྐྱར་འཇོག</translation>
     </message>
     <message>
         <source>Half speed</source>
-        <translation type="unfinished"></translation>
+        <translation>འགྲོས་ཕྱེད།</translation>
     </message>
     <message>
         <source>Volume + Seek + Timer + T&amp;otal time</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཚད།+གནས་ངེས།+དུས་བགྲང་ཆས།+སྤྱིའི་དུས་ཚོད།(&amp;O)</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>སྔ་མ།</translation>
     </message>
     <message>
         <source>Playlists</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏོང་བའི་རེའུ་མིག</translation>
     </message>
     <message>
         <source>Exit code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱིར་འབུད་ཚབ་ཨང་།: %1</translation>
     </message>
     <message>
         <source>Information</source>
