@@ -6,22 +6,22 @@
     <message>
         <location filename="../src/aboutdialog.ui" line="26"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>གླེང་སྒྲོམ།</translation>
     </message>
     <message>
         <location filename="../src/aboutdialog.ui" line="93"/>
         <source>Biometric Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐྱེ་དངོས་ཁྱད་རྟགས་དོ་དམ་ལག་ཆ།</translation>
     </message>
     <message>
         <location filename="../src/aboutdialog.ui" line="151"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>འབྲེལ་ཡོད།</translation>
     </message>
     <message>
         <location filename="../src/aboutdialog.ui" line="196"/>
         <source>Contributor</source>
-        <translation type="unfinished"></translation>
+        <translation>བྱས་རྗེས་འབུལ་མཁན།</translation>
     </message>
     <message>
         <location filename="../src/aboutdialog.ui" line="278"/>
