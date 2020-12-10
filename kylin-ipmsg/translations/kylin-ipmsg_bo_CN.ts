@@ -76,6 +76,151 @@
         <source>Confirm change</source>
         <translation>བཟོ་བཅོས་ངོས་ལེན།</translation>
     </message>
+    <message>
+        <location filename="chatwidget.cpp" line="167"/>
+        <location filename="chatwidget.cpp" line="289"/>
+        <source>The Remote IP Addr</source>
+        <oldsource>Please input the remote IP address</oldsource>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.ui" line="14"/>
+        <location filename="chatwidget.cpp" line="196"/>
+        <location filename="chatwidget.cpp" line="293"/>
+        <source>Kylin Ipmsg</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="301"/>
+        <location filename="chatwidget.cpp" line="657"/>
+        <source>Me</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="313"/>
+        <source>file sent out</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="318"/>
+        <source>dir sent out</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="360"/>
+        <source>This is your Ip Addr</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="381"/>
+        <location filename="chatwidget.cpp" line="416"/>
+        <source>IP already exist in buddies</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="391"/>
+        <source>Illegal IP address</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="535"/>
+        <source>Remoter has stoped the transfer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="567"/>
+        <source>pls choose files to send</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="593"/>
+        <source>pls choose dir to send</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="609"/>
+        <source>pls do not send empty dir</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="663"/>
+        <source>transmission canceled</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="785"/>
+        <source>conn failed, try again later</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="793"/>
+        <source>transmission error</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="chatwidget.cpp" line="798"/>
+        <source>connecting...</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>DuktoWindow</name>
+    <message>
+        <location filename="duktowindow.cpp" line="10"/>
+        <source>Kylin Ipmsg</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>GuiBehind</name>
+    <message>
+        <location filename="guibehind.cpp" line="19"/>
+        <source> (You)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="guibehind.cpp" line="21"/>
+        <source>Use IP Address</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Received file</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>files</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>size</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Open directory</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Received folder</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <source>Total size</source>
+        <translation type="obsolete"></translation>
+    </message>
+    <message>
+        <location filename="guibehind.cpp" line="21"/>
+        <source>Contact with parent network</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="guibehind.cpp" line="397"/>
+        <source>Change folder</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>IpPage</name>
