@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-10 09:47+0000\n"
+"PO-Revision-Date: 2020-12-12 02:12+0000\n"
 "Last-Translator: rzdj <1046447973@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/kylin-control-center/bo_CN/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "           Text Editor:"
 msgstr "ཡིག་དེབ་རྩོམ་སྒྲིག་ཆས།"
@@ -1906,6 +1906,8 @@ msgid ""
 "if you want to delete the %s user, belonging to the user's desktop, "
 "documents, favorites, music, pictures and video folder will be deleted!"
 msgstr ""
+"གལ་ཏེ་སྤྱོད་མཁན་ %s བསུབ་དགོས་ན།སྤྱོད་མཁན་དེའི་ཅོག་ངོས་དང་།ཡིག་ཚགས།བསྡུ་ཉར་ཁུ"
+"ག་མ།རོལ་དབྱངས།པར་རིས།བརྙན་ལམ་ཡིག་ཁུག་བཅས་ཀྱི་ནང་དོན་ཚང་མ་བསུབ་ངེས་ཡིན།།"
 
 msgid "is the same as the old one"
 msgstr "གསང་ཨང་གསར་པ་དང་གསང་ཨང་རྙིང་པ་གཅིག་པ་རེད།"
@@ -2003,19 +2005,19 @@ msgid "network card "
 msgstr "དྲ་བྱང་།"
 
 msgid "network invalid, function maybe problem"
-msgstr ""
+msgstr "དྲ་རྒྱ་རྒྱུན་འགལ།གོམ་མཉམ་བྱེད་ལས་སྤྱོད་མི་ཐུབ།"
 
 msgid "open palindrome check"
-msgstr ""
+msgstr "ཡིག་ལོག་ཞིབ་བཤེར་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "open passwd dict check"
-msgstr ""
+msgstr "གསང་ཨང་ཚིག་མཛོད་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "open similar check"
-msgstr ""
+msgstr "ཉེ་འདྲ་རང་བཞིན་ཞིབ་བཤེར་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "open user name check"
-msgstr ""
+msgstr "གསང་ཨང་ནང་དུ་སྤྱོད་མཁན་གྱི་མིང་ཚུད་མི་ཆོག"
 
 msgid "package list"
 msgstr "སྒྲིག་འཇུག་བྱས་ཟིན་པའི་ཐུམ་རིམ།"
@@ -2059,10 +2061,10 @@ msgid "select picture"
 msgstr "པར་རིས་འདེམ་པ།"
 
 msgid "show icon when battery c_harge"
-msgstr ""
+msgstr "གློག་སྨན་ཁོ་ན་སྤྱོད་སྐབས་རིས་རྟགས་འཆར་བ།(H)"
 
 msgid "show icon when battery p_resent"
-msgstr ""
+msgstr "གློག་སྨན་ཡོད་སྐབས་རིས་རྟགས་འཆར་བ།(R)"
 
 msgid "small(S) --100%(default)"
 msgstr "ཅུང་ཆུང་།（S）-100%(སོར་བཞག)"
@@ -2135,16 +2137,16 @@ msgid "%d Hz"
 msgstr ""
 
 msgid "%d x %d"
-msgstr ""
+msgstr "%d x %d"
 
 msgid "Could not detect displays"
 msgstr ""
 
 msgid "不能获取屏幕信息"
-msgstr ""
+msgstr "བརྙན་ཡོལ་ཆ་འཕྲིན་ཐོབ་མི་ཐུབ།"
 
 msgid "label"
-msgstr ""
+msgstr "label"
 
 msgid "Copying files"
 msgstr ""
@@ -2168,21 +2170,20 @@ msgid "Copying file: %u of %u"
 msgstr ""
 
 msgid "%i %s %i %s"
-msgstr ""
+msgstr "%i %s %i %s"
 
 msgid "PDA"
 msgid_plural "PDAs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "PDAs"
 
 msgid "%s %s %s"
-msgstr ""
+msgstr "%s %s %s"
 
 msgid "%s %s"
-msgstr ""
+msgstr "%s %s"
 
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgid "Could not load the main interface"
 msgstr "འཆར་ཆས་ཀྱི་སྡེབ་སྒྲིག་ཉར་ཚགས་བྱེད་ཐབས་བྲལ།"
@@ -2231,16 +2232,16 @@ msgid "With the network time synchronization"
 msgstr "དྲ་རྒྱའི་དུས་ཚོད་དང་གོམ་མཚུངས།"
 
 msgid "-"
-msgstr ""
+msgstr "-"
 
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgid ":"
 msgstr ":"
 
 msgid "CPU："
-msgstr ""
+msgstr "CPU："
 
 msgid "C_hoose a device for sound input:"
 msgstr "སྒྲ་འཇུག་སྒྲིག་ཆས་འདེམ་པ།(_H):"
