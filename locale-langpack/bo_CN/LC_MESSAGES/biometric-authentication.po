@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-11 03:37+0000\n"
+"PO-Revision-Date: 2020-12-12 02:12+0000\n"
 "Last-Translator: rzdj <1046447973@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/biometric-authentication/bo_CN/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "         Driver API(DRV_API): %d.%d.%d\n"
 msgstr "         འདེད་སྐུལ།API(DRV_API)：%d.%d.%d\n"
@@ -36,95 +36,101 @@ msgstr "%s %s [-u སྤྱོད་མཁན་མིང་།] -d འདེད
 
 msgid "%s %s [-u USER_NAME] -d DRIVER_ID -i INDEX -n NEW_NAME"
 msgstr ""
+"%s %s [-u སྤྱོད་མཁན་མིང་།] -d འདེད་སྐུལ།ID -i གསལ་བང་། -n "
+"ཁྱད་རྟགས་གསར་པའི་མིང་།"
 
 msgid "%s %s [-u USER_NAME] -d DRIVER_ID -n FEATURE_NAME"
-msgstr ""
+msgstr "%s %s [-u སྤྱོད་མཁན་མིང་།] -d འདེད་སྐུལ།ID -n ཁྱད་རྟགས་མིང་།"
 
 msgid "%s %s [-u USER_NAME] -d DRIVER_ID [-s INDEX_START] [-e INDEX_END]"
 msgstr ""
+"%s %s [-u སྤྱོད་མཁན་མིང་།] -d འདེད་སྐུལ།ID [-s མགོ་བརྩམས་པའི་གསལ་བང་།] [-e "
+"མཇུག་རྫོགས་པའི་གསལ་བང་།]"
 
 msgid "%s Clean Result: Failed\n"
-msgstr ""
+msgstr "%s གཙང་སེལ་མཇུག་འབྲས།：ཕམ་པ།\n"
 
 msgid "%s Clean Result: Success\n"
-msgstr ""
+msgstr "%s གཙང་སེལ་མཇུག་འབྲས།：ལེགས་འགྲུབ།\n"
 
 msgid "%s driver DRV_API version: %d.%d.%d\n"
-msgstr ""
+msgstr "%s འདེད་སྐུལ། DRV_APIཔར་གཞི།：%d.%d.%d\n"
 
 msgid "%s driver configure failed\n"
-msgstr ""
+msgstr "%s འདེད་སྐུལ་སྡེབ་སྒྲིག་ཕམ་པ།\n"
 
 msgid "(Left)"
-msgstr ""
+msgstr "(གཡོན།)"
 
 msgid "(Right)"
-msgstr ""
+msgstr "(གཡས།)"
 
 msgid "A210 enroll success, enroll_id = %d\n"
-msgstr ""
+msgstr "A210 ཕབ་འཇུག་ལེགས་འགྲུབ། enroll_id = %d\n"
 
 msgid "A210OpsResult[%d]: %s\n"
-msgstr ""
+msgstr "A210བཀོལ་སྤྱོད་མཇུག་འབྲས།[%d]：%s\n"
 
 msgid "A210RecvInfo: "
-msgstr ""
+msgstr "A210ཆ་འཕྲིན་བསྡུ་ལེན་བྱེད་པ།： "
 
 msgid "A210SendInfo: "
-msgstr ""
+msgstr "A210ཆ་འཕྲིན་བསྐུར་བ།： "
 
 msgid ""
 "AES Key File (%s) does not Exist or has no Read Permission, use default "
 "key.\n"
 msgstr ""
+"AESགསང་ལྡེའི་ཡིག་ཆ(%s)་མེད་པའམ་ཡང་ན་ཀློག་མི་ཆོག་པའི་དབང་ཚད་འདུག "
+"སོར་བཞག་གསང་ལྡེ་སྤྱོད་རོགས།\n"
 
 msgid "AES Key File is Enpty, use default Key.\n"
-msgstr ""
+msgstr "AESགསང་ལྡེའི་ཡིག་ཆ་སྟོབ་བ་རེད།སོར་བཞག་Keyསྤྱོད་རོགས།\n"
 
 msgid "AES Key is Enpty, use default Key.\n"
-msgstr ""
+msgstr "AESགསང་ལྡེ་སྟོང་བ་རེད། སོར་བཞག་གསང་ལྡེ་སྤྱོད་རོགས།\n"
 
 msgid "Add driver"
-msgstr ""
+msgstr "འདེད་སྐུལ་ཁ་སྣོན།"
 
 msgid "Adjust distance"
-msgstr ""
+msgstr "བར་ཐག་ལེགས་སྒྲིག་བྱེད་རོགས།"
 
 msgid "All user"
-msgstr ""
+msgstr "སྤྱོད་མཁན་ཡོངས།"
 
 msgid "An error was encountered during capturing"
-msgstr ""
+msgstr "འཛིན་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "An error was encountered during cleaning"
-msgstr ""
+msgstr "གཙང་སེལ་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད་།"
 
 msgid "An error was encountered during closing"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁ་རྒྱག་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "An error was encountered during enrolling"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ཕབ་འཇུག་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "An error was encountered during getting feature list"
-msgstr ""
+msgstr "ཁྱད་རྟགས་རེའུ་མིག་ཐོབ་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "An error was encountered during identifying"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ངོས་འཛིན་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "An error was encountered during renaming"
-msgstr ""
+msgstr "ཁྱད་རྟགས་མིང་བསྐྱར་འདོགས་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "An error was encountered during searching"
-msgstr ""
+msgstr "བཤེར་འཚོལ་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "An error was encountered during the opening"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁ་ཕྱེ་བའི་བརྒྱུད་རིམ་ཁྲོད་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "An error was encountered during the operation"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "An error was encountered during verifying"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ར་སྤྲོད་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ནོར་འཁྲུལ་ལ་འཕྲད།"
 
 msgid "Any"
 msgstr "གང་རུང་།"
