@@ -48,7 +48,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</translation>
     <message>
         <location filename="../aboutdialog.cpp" line="160"/>
         <source>Close</source>
-        <translation>སྒོ་རྒྱག</translation>
+        <translation>ཁ་རྒྱག</translation>
     </message>
 </context>
 <context>
