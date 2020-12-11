@@ -1,12 +1,11 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
-# rzdj <1046447973@qq.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 09:01+0000\n"
-"Last-Translator: rzdj <1046447973@qq.com>\n"
+"PO-Revision-Date: 2020-12-03 13:04+0000\n"
+"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/ksc-defender/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -138,10 +137,13 @@ msgstr "དགོས་མཁོ་ལྟར་གསང་གྲངས་ངར
 msgid "Choose biometric authentication"
 msgstr "སྐྱེ་དངོས་ངོས་འཛིན་དཔང་སྤྲོད་འདེམ་པ།"
 
-msgid "Middle level"
+msgid "High-level"
+msgstr "མཐོ།་རིམ།"
+
+msgid "Middle-level"
 msgstr "འབྲིང་རིམ།"
 
-msgid "Low level"
+msgid "Low-level"
 msgstr "དམའ་རིམ།"
 
 msgid "Self-define"
@@ -158,6 +160,9 @@ msgstr "གསང་གྲངས་ཀྱི་ཆེས་ཆུང་བའི
 
 msgid "Password contains at least %1 characters\n"
 msgstr "གསང་གྲངས་ལ་མ་མཐའ་ཡང་ཡིག་རྟགས %1་ཚུད།\n"
+
+msgid "Password contains at least %1 uppercase characters\n"
+msgstr "密码最少包含%1个大写字符 \n"
 
 msgid "Password contains at least %1 lowercase characters\n"
 msgstr "གསང་གྲངས་ལ་མ་མཐའ་ཡང་ཡིག་ཆུང་ %1་ཚུད།\n"
@@ -235,10 +240,10 @@ msgid "Add application networking controls"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་དྲ་སྦྲེལ་ཚོད་འཛིན་སྣོན་པ།"
 
 msgid "Name (Required)"
-msgstr "མིང (ངེས་པར་འབྲི་དགོས)"
+msgstr "མིང"
 
 msgid "Path (required)"
-msgstr "ལམ་ཐིག (ངེས་པར་འབྲི་དགོས)"
+msgstr "ལམ་ཐིག "
 
 msgid "Application icon"
 msgstr "ཉེར་སྤྱོད་རིས་རྟགས།"
@@ -247,9 +252,9 @@ msgid "Control strategy"
 msgstr "བདག་འཛིན་ཇུས་གཞི"
 
 msgid "Cancel"
-msgstr "འདོར་བ།"
+msgstr "འདོེར་བ།"
 
-msgid "Sure"
+msgid "Confirm"
 msgstr "གཏན་འཁེལ"
 
 msgid "The application name cannot be empty!"
@@ -300,6 +305,17 @@ msgstr "ཁྱེད་ཀྱིས་འཚོལ་བྱའི་ཉེར་
 
 msgid "Failed to delete controlled application!"
 msgstr "བདག་འཛིན་ཐོབ་པའི་ཉེར་སྤྱོད་བྱ་རིམ་བསུབ་མ་ཐུབ!"
+msgid "Baseline scan, identify risks"
+msgstr "基线扫描 , 找出风险"
+
+msgid "Protect your computer in real time"
+msgstr "实时保护你的电脑"
+
+msgid "Start scanning"
+msgstr "开始扫描"
+
+msgid "Click to view"
+msgstr "点击查看"
 
 msgid "The script file does not exist!"
 msgstr "གཞི་ཡིག་ཡིག་ཆ་མེད!"
@@ -571,6 +587,9 @@ msgstr "གྲོས་ཆོས་ཁ་སྣོན་དང་མཐུད་
 msgid "Edit protocol, port"
 msgstr "གྲོས་ཆོད་དང་མཐུད་སྒོ་རྩོམ་སྒྲིག"
 
+msgid "Edit protocol and port"
+msgstr "གྲོས་ཆོད་དང་མཐུད་སྒོ་རྩོམ་སྒྲིག"
+
 msgid "The protocol name cannot be empty!"
 msgstr "གྲོས་ཆོད་མིང་ནི་སྟོང་པ་ཡིན་མི་རུང་།!"
 
@@ -626,20 +645,26 @@ msgid "Check application integrity"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ཆ་ཚང་རང་བཞིན་ལ་ཞིབ་བཤེར།"
 
 msgid ""
-"Kylin’s  built-in security mechanism checks the integrity of the application"
-" and helps protect the integrity of the system’s operating environment"
+"Kylin built-in security mechanism checks the integrity of the application "
+"and helps protect the integrity of the system  operating environment"
 msgstr ""
 "ཆི་ལིན་ནང་བཀོད་བདེ་འཇགས་ཕུང་བོ་ཡིས་ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ཆ་ཚང་རང་བཞིན་ལ་ཞིབ་བཤ"
 "ེར་བྱེད་པ་དང་། "
 "མ་ལག་འཁོར་སྐྱོད་ཁོར་ཡུག་གི་ཆ་ཚང་རང་བཞིན་སྲུང་སྐྱོང་བྱེད་པར་རོགས་རམ་བྱེད།"
 
-msgid "Prevention"
+msgid "Prevent"
 msgstr "བཀག་འགོག"
+
+msgid "Prevent application excute which integrity destroyed or come from external sources such as USB or network..."
+msgstr "阻止完整性已破坏或通过网络、U盘等外部来源进来的程序执行"
 
 msgid "Warm"
 msgstr "ཉེན་བརྡ།"
 
-msgid "Closed"
+msgid "Notify and let you decide whether to allow application excute which from external sources or integrity destroyed"
+msgstr "通知并由您决定是否允许外部来源或完整性已破坏的程序执行"
+
+msgid "Close"
 msgstr "ཁ་ཟུམ།"
 
 msgid "Turn off the security function that checks program integrity"
@@ -772,7 +797,6 @@ msgstr "%1 :དཔང་སྤྲོད་སྤངས་པར་སྒུག�
 
 msgid "Unknown error, decertification failed!"
 msgstr "མ་ཤེས་པའི་ནོར་འཁྲུལ། དཔང་སྤྲོད་འདོར་མ་ཐུབ!"
-
 msgid "Application benchmark value management"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་རྨང་ཚད་ཐང་དོ་དམ།"
 
@@ -786,7 +810,7 @@ msgstr ""
 "ོར་སྐྱོད་དང་སྣོན་འཇུག་བྱེད་དུ་མི་འཇུག"
 
 msgid "Add"
-msgstr "ཁ་སྣོན།"
+msgstr "ཁ་སྣོན"
 
 msgid "Update"
 msgstr "གསར་སྒྱུར།"
@@ -797,10 +821,10 @@ msgstr "དཔང་སྤྲོད་འདོར་བ"
 msgid "Enter search content"
 msgstr "ཁྱེད་ཀྱིས་འཚོལ་བྱའི་ནང་དོན་གཏག་རོགས"
 
-msgid "<font color = #696969 >%1 tampered with record rows in total</font>"
-msgstr "<font color = #696969 >བསྡོམས  %1ཤར་ཟིན་ཐོ། བཟོ་བཅོས་བྱས</font>"
+msgid "<font color = #696969>%1 tampered with record rows in total</font>"
+msgstr "<font color = #696969 >བསྡོམས  %1 ཤར་ཟིན་ཐོ། བཟོ་བཅོས་བྱས </font>"
 
-msgid "<font color = #696969 > line</font>"
+msgid "<font color = #696969> line</font>"
 msgstr "<font color = #696969 > འཕྲེད་ཤར</font>"
 
 msgid "Add execution control whitelist"
@@ -821,6 +845,9 @@ msgstr "མིང་ཐོ་དཀར་པོ་ཡིག་ཆ་གསར་
 msgid "The certification status is being cancelled..."
 msgstr "དཔང་སྤྲོད་རྣམ་པ་འདོར་བཞིན་པའི་སྒང་..."
 
+msgid "can not resolve the unauthorized program!"
+msgstr "未认证的程序不能进行解除认证操作!"
+
 msgid ""
 "The KYSEC certification protection of the file is being cancelled. It is "
 "forbidden to close!"
@@ -829,11 +856,14 @@ msgstr "ཡིག་ཆKYSECདཔང་སྤྲོད་སྲུང་སྐ�
 msgid "All"
 msgstr "མཉེན་ཆས་ཚང་མ།"
 
-msgid "executable programs"
+msgid "application"
 msgstr "ལག་བསྟར་རུང་བའི་བྱ་རིམ"
 
-msgid "shared libraries"
+msgid "library"
 msgstr "མཉམ་སྤྱོད་མཛོད།"
+
+msgid "script"
+msgstr "可执行脚本"
 
 msgid "certified"
 msgstr "དཔང་སྤྲོད"
@@ -899,6 +929,8 @@ msgstr "དུས་ཐོག་འགེབས་སྲུང་བྱས་ན
 
 msgid "Account security"
 msgstr "རྩིས་ཁྲའི་བདེ་འཇགས"
+msgid "Failed to create 3adm users!"
+msgstr "创建三权分立系统用户失败!"
 
 msgid "Network protection"
 msgstr "དྲ་རྒྱ་སྲུང་སྐྱོང་།"
@@ -948,19 +980,19 @@ msgstr ""
 "རང་ལེན་གྱི་དྲ་རྒྱ་ལྟ་སྤྱོད་ཆོག་མཆན་ཇུས་གཞི་འདོན་སྤྲོད་བྱས་ནས་བདེ་འཇགས་ཡིད་རྟོ"
 "ན་གྱི་དྲ་རྒྱའི་ཁོར་ཡུག་འཛུགས་པ།"
 
-msgid "Public network"
+msgid "Public"
 msgstr "སྤྱི་སྤྱོད་དྲ་རྒྱ།"
 
 msgid "Network configuration suitable for public areas"
 msgstr "སྤྱི་སྤྱོད་ས་ཁོངས་སུ་འཚམ་པའི་དྲ་རྒྱ་སྒྲིག་འགོད།"
 
-msgid "Office network"
+msgid "Office"
 msgstr "གཞུང་ལས་དྲ་རྒྱ།"
 
 msgid "Network configuration suitable for home and office workspace"
 msgstr "ཁྱིམ་ཚང་དང་གཞུང་ལས་ཁུལ་ལ་འཚམ་པའི་དྲ་རྒྱ་སྒྲིག་འགོད།"
 
-msgid "Custom configuration"
+msgid "Custom"
 msgstr "རང་བཀོད་སྒྲིག་འགོད"
 
 msgid "For advanced administrator users"
@@ -979,8 +1011,22 @@ msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དྲ་འབྲེ
 msgid "Control whether applications and services can actively network"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དང་ཞབས་ཞུ་ཚོད་འཛིན་བྱས་ན་རང་འགུལ་གྱིས་དྲ་འབྲེལ་ཐུབ་བམ།"
 
+msgid "Allow"
+msgstr "允许"
+
+msgid "Enquiry"
+msgstr "询问"
+
 msgid "Ban"
 msgstr "བཀག་པ།"
+msgid "Forbid unauthorized applications and services connect network"
+msgstr "禁止未授权应用和服务联网"
+
+msgid "Announce me when unauthorized applications and services connect network"
+msgstr "当有未授权应用联网时,请告诉我"
+
+msgid "Kylin security has been enabled. It will take effect after restart"
+msgstr "麒麟安全机制已启用，重启系统后生效"
 
 msgid ""
 "Turn off the application networking control function, all applications and "
@@ -1056,8 +1102,8 @@ msgstr "གསང་གྲངས་ཀྱི་རྫོངས་སྒྲིག
 msgid "Setting  password strength"
 msgstr "གསང་གྲངས་ཀྱི་རྫོངས་སྒྲིག་འགོད"
 
-msgid "Default"
-msgstr "སོར་བཞག"
+#msgid "Default"
+#msgstr "སོར་བཞག"
 
 msgid ""
 "Failed to update the password strength check configuration, please check!"
@@ -1246,19 +1292,19 @@ msgstr "རྒྱུན་ལྡན།"
 msgid "Safe mode switching"
 msgstr "བདེ་འཇགས་རྣམ་པ་བརྗེ་སྒྱུར།"
 
-msgid "Switch system security mode"
+msgid "Switch security mode"
 msgstr "མ་ལག་གི་བདེ་འཇགས་རྣམ་པ་བརྗེ་སྒྱུར།"
 
-msgid "default"
-msgstr "སོར་བཞག"
+#msgid "Default"
+#msgstr "སོར་བཞག"
 
-msgid "Strict mode"
+msgid "Strict"
 msgstr "གཟབ་ནན་རྣམ་པ།"
 
-msgid "customize"
+msgid "Customize"
 msgstr "རང་བཀོད།"
 
-msgid "Select the need to enable the security module"
+msgid "Select the security module"
 msgstr "བདེ་འཇགས་དུམ་ཚན་སྒོ་འབྱེད་དགོས་པ་འདེམས་པ།"
 
 msgid "Kylin Security"
@@ -1375,8 +1421,15 @@ msgstr ""
 "ཐེངས་འདིའི་བཤེར་འབེབས་ལས་འཇིགས་ཉིན་%dརྙེད་བྱུང་བས། "
 "སྐུ་ཉིད་ནས་མྱུང་དུ་སྒྲིག་གཅོད་མཛད་རོགས།"
 
+
 msgid "If a threat is detected, a full scan is recommended immediately"
 msgstr "འཇིགས་ཉེན་མཐོང་སོང་པས། ལམ་སེང་སྡུར་སྡེར་ཡོངས་ལ་བཤེར་འབེབས་བྱེད་རོགས།"
+
+msgid "This function has been limited, please update the authorization to use"
+msgstr "该功能已受限，请更新授权后使用"
+
+msgid "The authorization is about to expire, please update the authorization as soon as possible"
+msgstr "授权已到期，请尽快更新授权"
 
 msgid "QIANXIN Antivirus Software V8-%1"
 msgstr "ཆི་ཨན་ཡིད་སྲུང་དུག་འགོག་མཉེན་ཆསV8-%1"
@@ -1400,13 +1453,13 @@ msgstr "མགོ་ཤོག"
 msgid "Applied executive control"
 msgstr "ཉེར་སྤྱོད་ལག་བསྟར་ཚོད་འཛིན།"
 
-msgid "closed"
+msgid "Closed"
 msgstr "སྒོ་བརྒྱབ་ཟིན།"
 
-msgid "Default mode"
+msgid "Default"
 msgstr "རང་ལེན་རྣམ་པ།"
 
-msgid "self-defined"
+msgid "Custimize"
 msgstr "རང་བཟོས་མཚན་ཉིད།"
 
 msgid "System safety mode switch..."
@@ -1430,3 +1483,45 @@ msgstr "ནང་ཉིང་དཔེ་དུམ།"
 
 msgid "Other files"
 msgstr "ཡིག་ཆ་གཞན།"
+
+msgid "<font style='font-size:14px;'>Last scan did not match </font><font style='font-size:14px;color:%1;'>%2</font><font style='font-size:14px;'> item</font>，"
+msgstr "<font style='font-size:14px;'>上次扫描不符合 </font><font style='font-size:14px;color:%1;'>%2</font><font style='font-size:14px;'> 项</font>，"
+
+msgid "Unkonw"
+msgstr "未知"
+
+msgid "System service"
+msgstr "系统服务"
+
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Internet service"
+msgstr "网络服务"
+
+msgid "Password Setting"
+msgstr "密码设置"
+
+msgid "Password: "
+msgstr "密码: "
+
+msgid "User: root"
+msgstr "用户: root"
+
+msgid "User: secadm"
+msgstr "用户: secadm"
+
+msgid "User: auditadm"
+msgstr "用户: auditadm"
+
+msgid "Please input password for root!"
+msgstr "请输入root用户密码!"
+
+msgid "Please input password for secadm!"
+msgstr "请输入secadm用户密码!"
+
+msgid "Please input password for auditadm!"
+msgstr "请输入auditadm用户密码!"
+
+msgid "No."
+msgstr "序号"

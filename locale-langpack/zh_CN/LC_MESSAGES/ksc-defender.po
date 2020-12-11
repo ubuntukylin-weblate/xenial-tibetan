@@ -12,26 +12,20 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: zh_CN\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_dialog.cpp:16
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_dialog.cpp:17
 msgid "Account lock, display configuration for login information"
 msgstr "账户锁定、登录信息显示配置"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_dialog.cpp:49
 msgid "Defaults"
 msgstr "默认"
 
-#: ../ksc-defe.nder/ksc_accountlock_logininfo_cfg_dialog.cpp:50
-#: ../ksc-defender/ksc_psw_check_cfg_dialog.cpp:25
 msgid "Apply"
 msgstr "应用"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_dialog.cpp:72
 msgid ""
 "Update account lock and login information shows that the configuration "
 "failed, please check ！"
@@ -41,821 +35,592 @@ msgid "Update account lock and login information shows that the configuration "
 "failed, please check"
 msgstr "更新账户锁定及登录信息显示配置失败，请检查"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:18
 msgid "Account lock Settings"
 msgstr "账户锁定设置"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:19
 msgid "Enable account locking"
 msgstr "启用账户锁定功能"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:20
 msgid "Threshold number of consecutive password errors (3-16 times):"
 msgstr "密码连续错误次数阈值(3-16次)："
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:21
 msgid "Account lockdown time:"
 msgstr "账户锁定时间："
 
-
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:22
 msgid "Login information display (console only):"
 msgstr "登录信息显示(仅限控制台):"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:23
 msgid "Display last login information:"
 msgstr "显示上次登录信息："
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:24
 msgid "Display history login failure information:"
 msgstr "显示历史登录失败信息："
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:132
 msgid "     5minute"
 msgstr "  5分钟"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:132
 msgid "     10 minute"
 msgstr "   10分钟"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:132
 msgid "     30 minute"
 msgstr "    30分钟"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:132
 msgid "     1hour"
 msgstr "    1 小时"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:132
 msgid "     3 hour"
 msgstr "   3小时"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:132
 msgid "     24 hour"
 msgstr "   24小时"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:133
 msgid "     15day"
 msgstr "    15天"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:58
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:133
 msgid "     30day"
 msgstr "    30天"
 
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:133
 msgid "     60day"
 msgstr "   60天"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:5
-#: ../ksc-defender/ksc_accountlock_logininfo_cfg_item_widget.cpp:133
 msgid "     forever"
 msgstr "   永久"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:32
 msgid "Acount security"
 msgstr "账户安全"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:32
-#: ../ksc-defender/ksc_main_page_widget.cpp:60
 msgid "Protect account and login security"
 msgstr "保护账户和登录的安全性"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:40
 msgid "Login authentication mode"
 msgstr "登录认证方式"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:41
 msgid "Current use : password authentication"
 msgstr "当前使用的是：密码认证 "
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:43
 msgid "Account password security"
 msgstr "账户密码安全 "
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:44
 msgid ""
 "Configuration of account password strength, account locking, login "
 "information display and other functions"
 msgstr "对账户密码强度、账户锁定、登录信息显示等功能的配置"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:45
 msgid "Password strength configuration"
 msgstr "密码强度配置"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:53
-msgid ""
-"The password should be at least 8 bits and contain at least 3 uppercase "
+msgid "The password should be at least 8 bits and contain at least 3 uppercase "
 "characters, lowercase characters, Numbers and symbols"
 msgstr "密码至少8位，至少包含大写字符、小写字符、数字、符号中的3种"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:54
 msgid ""
 "Password must have at least 6 characters, including at least 2 of lowercase "
 "letters, uppercase letters, Numbers and symbols"
 msgstr "密码至少6位，至少包含小写字母、大写字母、数字、符号中的2种"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:55
-#: ../ksc-defender/ksc_account_sec_widget.cpp:67
 msgid "Unlimited"
 msgstr "无限制"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:56
 msgid "Setting password strength according to needed"
 msgstr "根据需要设置密码强度"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:60
 msgid "Choose biometric authentication"
 msgstr "选择生物识别认证"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:68
-msgid "Middle level"
+msgid "High-level"
+msgstr "高级"
+
+msgid "Middle-level"
 msgstr "中级"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:69
-msgid "Low level"
+msgid "Low-level"
 msgstr "低级"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:70
 msgid "Self-define"
 msgstr "自定义"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:71
 msgid "Account lock, login information display configuration"
 msgstr "账户锁定、登录信息显示配置"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:226
 msgid "Password strength check function is disabled, unlimited"
 msgstr "已禁用密码强度检查功能，无限制 "
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:230
+msgid "The minimum password length does not meet the requirements!"
+msgstr "密码最小长度不符合要求，请检查! "
+
 msgid "The minimum password length %1\n"
 msgstr "密码最小长度 %1\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:232
 msgid "Password contains at least %1 characters\n"
-msgstr "密码最少包含%l个字符\n"
+msgstr "密码最少包含%1个字符\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:236
+msgid "Password contains at least %1 uppercase characters\n"
+msgstr "密码最少包含%1个大写字符 \n"
+
 msgid "Password contains at least %1 lowercase characters\n"
-msgstr "密码最少包含%l个小写字符 \n"
+msgstr "密码最少包含%1个小写字符 \n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:238
 msgid "Password contains at least %1 numeric characters\n"
 msgstr "密码至少包含%1个数字字符\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:240
 msgid "Password contains at least %1 other characters\n"
 msgstr "密码至少包含%1个其他字符\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:242
 msgid "Password ban containning username\n"
 msgstr "密码禁止包含用户名\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:244
 msgid "Password prohibits the use of palindrome\n"
 msgstr "密码禁止使用回文\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:246
 msgid "Enable check for password similarity \n"
 msgstr "启用密码相似性检查\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:248
 msgid "Enable password dictionary\n"
 msgstr "启用密码字典 \n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:250
 msgid "Password expiry date% 1 day\n"
 msgstr "密码有效期限 %1 天   \n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:252
 msgid "password expiry date  forever\n"
 msgstr "密码有效期无限制 \n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:254
 msgid "The same character can appear continuously %1 times at most\n"
 msgstr "同一字符最多允许连续出现 %1 次\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:256
 msgid ""
 "The maximum continuous sequence length of characters of the same type is %1\n"
 msgstr "同类型字符最大连续序列长度为  %1\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:258
 msgid ""
-"Characters of the same type are allowed to appear consecutively at most %1 \n"
-"times \n"
-msgstr "同类型字符最多允许连续出现%1次 \n"
+"Characters of the same type are allowed to appear consecutively at most %1 times\n"
+msgstr "同类型字符最多允许连续出现%1次\n"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:281
 msgid ""
 "If you fail to set a high-level password check strategy, the system will "
 "continue to use the original password check strategy to protect system "
 "security！"
 msgstr "设置高等级密码检查策略失败，系统将继续采用原密码检查策略，保护系统安全"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:299
 msgid ""
 "If the middle-level password check strategy fails to be set, the system will "
 "continue to use the original password check strategy to protect system "
 "security！"
 msgstr "设置中等级密码检查策略失败，系统将继续采用原密码检查策略，保护系统安全"
 
-#: ../ksc-defender/ksc_account_sec_widget.cpp:323
 msgid ""
 "Setting a low-level password check strategy fails, the system will continue "
 "to use the original password check strategy to protect system security！"
 msgstr "设置底等级密码检查策略失败，系统将继续采用原密码检查策略，保护系统安全"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:26
 msgid "Add application network control"
 msgstr "添加应用程序网络控制"
 
-#. setAttribute(Qt::WA_TransparentForMouseEvents);
-#. setMouseTracking(true);
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:30
 msgid "Add application networking controls"
 msgstr "添加应用程序联网管控"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:31
 msgid "Name (Required)"
 msgstr "名称（必填）"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:32
 msgid "Path (required)"
 msgstr "路径（必填）"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:33
 msgid "Application icon"
 msgstr "应用图标 "
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:34
 msgid "Control strategy"
 msgstr "管控策略"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:35
-#: ../ksc-defender/ksc_baseline_qmessagebox.cpp:23
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:25
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:25
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:27
-#: ../ksc-defender/ksc_message_box.cpp:25
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:31
 msgid "Cancel"
 msgstr "取消"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:36
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:26
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:26
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:35
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:28
-#: ../ksc-defender/ksc_message_box.cpp:26
-#: ../ksc-defender/ksc_passwd_dictionary_browser_dialog.cpp:21
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:32
-msgid "Sure"
+msgid "Confirm"
 msgstr "确认"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:208
 msgid "The application name cannot be empty!"
 msgstr "应用程序名称不可以为空 "
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:215
 msgid "The application path cannot be empty!"
 msgstr "应用程序路径不可以为空！"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:221
 msgid "The application path does not exist, please add it again!"
 msgstr "应用程序路径不存在，请重新添加！"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:228
 msgid "The application name already exists, please re-enter!"
 msgstr "应用程序名称已经存在，请重新输入!"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:234
 msgid "The application already exists in the control list!"
 msgstr "应用程序在控制名单已经存在!"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:248
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:256
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:267
 msgid "Failed to add application network control project!"
 msgstr "添加应用程序联网管控项目失败！"
 
-#. dialog.setAcceptMode(QFileDialog::AcceptOpen);
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:285
 msgid "Choose a connected application"
 msgstr "Choose a connected application"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_dialog.cpp:302
 msgid "Select program icon"
 msgstr "选择程序图标 "
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_filedialog.cpp:64
 msgid "The file path does not exist, please select again!"
 msgstr "文件路径不存在，请重新选择！"
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_filedialog.cpp:70
 msgid "The selected file is not an executable file, please select again!"
-msgstr "所选文件非可执行文件，请重新选择！ "
+msgstr "所选文件非应用程序文件，请重新选择！ "
 
-#: ../ksc-defender/ksc_application_network_ctrl_add_widget.cpp:18
 msgid "Add other applications"
 msgstr "添加其他应用 "
 
-#: ../ksc-defender/ksc_application_network_ctrl_item_widget.cpp:22
 msgid "Program name"
 msgstr "项目名称"
 
-#: ../ksc-defender/ksc_application_network_ctrl_item_widget.cpp:23
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:31
-#: ../ksc-defender/ksc_custom_firewall_service_tablemodel.cpp:67
 msgid "service"
 msgstr "服务"
 
-#: ../ksc-defender/ksc_application_netwrok_ctrl_dialog.cpp:34
-#: ../ksc-defender/ksc_application_netwrok_ctrl_dialog.cpp:38
 msgid "Application network control"
 msgstr "应用程序网络控制"
 
-#: ../ksc-defender/ksc_application_netwrok_ctrl_dialog.cpp:130
 msgid "Please enter name of search application "
 msgstr "请输入搜索应用名称 "
 
-#: ../ksc-defender/ksc_application_netwrok_ctrl_dialog.cpp:379
 msgid "Failed to delete controlled application!"
 msgstr "删除受管控应用程序失败！"
 
-#: ../ksc-defender/ksc_baseline_ctrl_thread.cpp:43
+msgid "Baseline scan, identify risks"
+msgstr "基线扫描 , 找出风险"
+
+msgid "Protect your computer in real time"
+msgstr "实时保护你的电脑"
+
+msgid "Start scanning"
+msgstr "开始扫描"
+
+msgid "Click to view"
+msgstr "点击查看"
+
 msgid "The script file does not exist!"
 msgstr "脚本文件不存在！"
 
-#: ../ksc-defender/ksc_baseline_ctrl_thread.cpp:52
 msgid "run ksc-defender-deamon  failed"
 msgstr "未成功运行"
 
-#: ../ksc-defender/ksc_baseline_ctrl_thread.cpp:56
 msgid "uncompliant"
 msgstr "不符合"
 
-#: ../ksc-defender/ksc_baseline_ctrl_thread.cpp:58
 msgid "high"
 msgstr "高"
 
-#: ../ksc-defender/ksc_baseline_ctrl_thread.cpp:60
 msgid "middle"
 msgstr "中"
 
-#: ../ksc-defender/ksc_baseline_ctrl_thread.cpp:66
 msgid "compliant"
 msgstr "符合"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:74
 msgid "  Security Baseline class"
 msgstr "安全基线类"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:75
 msgid "  Security baseline item"
 msgstr "安全基线项"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:76
 msgid "  result"
 msgstr "结果 " 
 
-#. 进度条等初始化
-#. 初始化不合格项
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:154
 msgid "uncompliant item<font style='font-size:16px;color:green;'>%1</font>item"
 msgstr "不符合项 <font style='font-size:16px;color:green;'>%1</font>项 "
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:158
 msgid "<font style='font-size:16px;'>start scanning...</font>"
 msgstr "<font style='font-size:16px;'>开始扫描</font>"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:159
 msgid "<font style='font-size:32px;'>start scanning...</font>"
 msgstr "<font style='font-size:32px;'>开始扫描</font>"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:161
 msgid "See detail"
 msgstr "查看详情"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:162
 msgid "Cancel scan"
 msgstr "取消扫描"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:163
 msgid "Completed scan"
 msgstr "扫描完成"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:166
 msgid ""
 "Statistics on the number of high-risk configuration security baseline items"
 msgstr "高危配置安全基线项数量统计"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:167
 msgid ""
 "Statistics on the number of middle-risk configuration security baseline items"
 msgstr "中危配置安全基线项数量统计 "
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:168
 msgid ""
 "Statistics on the number of low-risk configuration security baseline items"
 msgstr "低危配置安全基线项数量统计"
 
-#. 设置ksc_baseline_qmessageBox1窗口弹出位置
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:196
-msgid "Program error! Reason for error: file opening failed!"
-msgstr "程序错误！错误原因：文件打开失败！"
-
-#. 设置ksc_baseline_qmessageBox1窗口弹出位置
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:212
 msgid ""
 "The scan has not been completed. After canceling the scan, you will return "
 "to the baseline scan homepage!"
 msgstr "扫描尚未完成，取消扫描后将返回基线扫描首页！"
 
-#. 数据实时加载到UI
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:247
 msgid ""
 "<font style='font-size:18px;'>uncompliant item</font>  <font style='font-"
 "size:18px;color:rgb(%1);'>%2</font>  <font style='font-size:18px;'>item</"
 "font>"
 msgstr "<font style='font-size:18px;'>不符合项 </font>  <font style='font-size:18px;color:rgb(%1);'>%2</font>  <font style='font-size:18px;'>项</font>"
 
-#. 扫描完成
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:266
 msgid "<font style='font-size:32px;'>Scan complete</font>"
 msgstr "<font style='font-size:32px;'>扫描完成</font>"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:268
 msgid "The computer has non-compliance items and faces hidden dangers"
 msgstr "电脑存在不符合项，面临隐患"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:271
 msgid "Scanning is complete, no non-conformities have been found"
 msgstr "扫描完成,不符合项未发现"
 
-#. 设置ksc_baseline_qmessageBox1窗口弹出位置
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:309
 msgid "Program error! Cause of error: Script file execution failed!"
 msgstr "程序错误！错误原因：脚本文件执行失败！"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:354
 msgid "<font style='color:rgb(107,142,235);'>Click to view</font>"
 msgstr "<font style='color:rgb(107,142,235);'>点击查看 </font>"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:359
 msgid "<font style='color:rgb(61,107,229);'>Click to view</font>"
 msgstr "<font style='color:rgb(61,107,229);'>点击查看</font>"
 
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:364
 msgid "<font style='color:rgb(65,95,196);'>Click to view</font>"
 msgstr "<font style='color:rgb(65,95,196);'>点击查看</font>"
 
-
-#: ../ksc-defender/ksc_baseline_ctrl_widget.cpp:446
 msgid ""
 "<font style='font-size:16px;color:rgb(61,107,229);'>Scan time：%1</font>"
 msgstr "<font style='font-size:16px;color:rgb(61,107,229);'>扫描时间 ：%1</font>"
 
-#: ../ksc-defender/ksc_baseline_qmessagebox.cpp:17
-#: ../ksc-defender/ksc_message_box.cpp:46
-#: ../ksc-defender/ksc_message_box.cpp:48
 msgid "tip"
 msgstr "提示"
 
-#. 窗口框隐藏
-#. 设置窗体模态，要求该窗体没有父类，
-#: ../ksc-defender/ksc_baseline_qmessagebox.cpp:21
 msgid "Tip"
 msgstr "提示"
 
-#: ../ksc-defender/ksc_baseline_qmessagebox.cpp:22
 msgid "Scanning not complete，it will be return home page if cancel scan ！"
 msgstr "扫描尚未完成，取消扫描后将返回首页"
 
-#: ../ksc-defender/ksc_baseline_qmessagebox.cpp:24
 msgid "Continue"
 msgstr "继续"
 
-#: ../ksc-defender/ksc_baseline_qmessagebox.cpp:52
 msgid "<font style='font-size:14px;'><strong>tip</strong></font>"
 msgstr "<font style='font-size:14px;'><strong>提示</strong></font>"
 
-#: ../ksc-defender/ksc_baseline_qmessagebox.cpp:79
 msgid "continue"
 msgstr "继续"
 
-#: ../ksc-defender/ksc_baseline_qmessagebox.cpp:84
 msgid "sure"
 msgstr "确定"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:25
 msgid "setting filewall by self-define "
 msgstr "防火墙自定义设置 "
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:29
 msgid "Firewall custom Settings"
 msgstr "防火墙自定义设置 "
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:30
 msgid ""
 "You can define which services in the zone are trusted here. All hosts and "
 "networks that can be connected to connections, interfaces, and sources bound "
 "to this zone, and can access trusted services"
 msgstr "可以在这里定义区域中那些服务是可信的。可连接至绑定到这个区域的连接、接口和源的所有主机和网络以及可访问可信服务  "
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:32
 msgid "Manage the protocols and ports that the service needs to access"
 msgstr "管理服务需要访问的协议和端口"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:33
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_tablemodel.cpp:95
 msgid "protocol"
 msgstr "协议"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:34
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_tablemodel.cpp:93
 msgid "port"
 msgstr "端口"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:81
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:23
 msgid "Add service"
 msgstr "添加服务"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:85
 msgid "Add item"
 msgstr "添加条目"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:90
 msgid "delete service"
 msgstr "删除服务"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:94
 msgid "delete item"
 msgstr "删除条目"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:99
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:15
 msgid "Edit service"
 msgstr "编辑服务"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:103
 msgid "Edit item"
 msgstr "编辑条目"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:107
 msgid "Restore default services"
 msgstr "还原默认服务"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:147
-#: ../ksc-defender/ksc_passwd_dictionary_browser_dialog.cpp:63
 msgid "search"
 msgstr "搜索"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:221
 msgid "Please choosing a service that you need to delete！"
 msgstr "请先选中需要删除的服务！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:238
 msgid "Failed to delecte  selected firewall`s service！"
 msgstr "删除所选防火墙服务失败！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:255
 msgid "Please select service that needed edited and modified！"
 msgstr "请先选中需要编辑修改的服务！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:230
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:264
 msgid "Failed to disable the selected firewall sercive!"
 msgstr "停用所选防火墙服务失败！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:273
 msgid ""
 "Failed to obtain the selected firewall service configuration information!"
 msgstr "获取所选防火墙服务配置信息失败！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:292
 msgid ""
 "Please select the service that needs to add protocol and port configuration "
 "first!"
 msgstr "请先选中需要添加协议、端口配置的服务！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:299
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:330
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:373
 msgid "Please disable the selected firewall service first!"
 msgstr "请先停用所选防火墙服务！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:323
 msgid ""
 "Please select the service that needs to delete the protocol and port "
 "configuration first!"
 msgstr "请先选中需要删除协议、端口配置的服务！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:337
 msgid "Please select the protocol and port configuration to be deleted first!"
 msgstr "请先选中需要删除的协议、端口配置！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:351
 msgid ""
 "Failed to delete the protocol and port configuration items of the selected "
 "firewall service!"
 msgstr "删除所选防火墙服务的协议、端口配置项失败！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:366
 msgid ""
 "Please select the service that needs to modify the protocol and port "
 "configuration first!"
 msgstr "请先选中需要修改协议、端口配置的服务！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:380
 msgid "Please select the protocol and port configuration to be modified first!"
 msgstr "请先选中需要修改的协议、端口配置！"
 
-#: ../ksc-defender/ksc_custom_firewall_cfg_dialog.cpp:406
 msgid "Failed to restore the default service!"
 msgstr "还原默认服务失败！"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:19
 msgid "Add protocol, port"
 msgstr "添加协议、端口 "
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:23
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:23
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:32
+msgid "Add protocol and port"
+msgstr "添加协议和端口 "
+
 msgid "Protocol"
 msgstr "协议"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:24
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:24
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:33
 msgid "Port"
 msgstr "端口 "
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:67
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:93
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:67
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:88
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:213
 msgid "Input format example：6237 OR 6237-6601"
 msgstr "输入格式示例 ：6237 OR 6237-6601"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:87
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:61
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:207
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:125
 msgid "The protocol does not support port configuration"
 msgstr "该规约不支持端口配置"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:112
 msgid "The agreement name cannot be empty!"
 msgstr "协议名称不可以为空！"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:118
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:87
 msgid "The system does not support this agreement temporarily!"
 msgstr "系统暂时不支持该协议！"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:128
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:134
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:97
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:103
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:144
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:150
 msgid "The port configuration format is illegal, please check and reset!"
 msgstr "端口配置格式非法，请检查后重新设置！"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:145
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:120
 msgid ""
 "The current protocol and port configuration already exist, please check and "
 "reset!"
 msgstr "当前协议、端口配置已存在，请检查后重新设置！"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_add_dialog.cpp:161
 msgid "Failed to add protocol and port configuration!"
 msgstr "添加协议、端口配置失败！"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:19
 msgid "Edit protocol, port"
 msgstr "编辑协议、端口"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:81
+msgid "Edit protocol and port"
+msgstr "编辑协议和端口"
+
 msgid "The protocol name cannot be empty!"
 msgstr "协议名称不可以为空！"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:140
 msgid "Failed to modify the protocol and port configuration!"
 msgstr "修改协议、端口配置失败！"
 
-#: ../ksc-defender/ksc_custom_firewall_protocol_port_edit_dialog.cpp:174
 msgid "Input format example ：6237 OR 6237-6601"
 msgstr "输入格式示例 ：6237 OR 6237-6601"
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:26
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:22
 msgid "Basic service settings"
 msgstr "基础服务设置 "
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:27
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:23
 msgid "Name（required）"
 msgstr "名称（必填）"
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:28
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:24
 msgid "Version"
 msgstr "版本"
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:29
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:25
 msgid "Summary"
 msgstr "概要"
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:30
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:26
 msgid "Detailed introduction"
 msgstr "细节介绍"
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:31
-msgid "Add protocol and port"
-msgstr "添加协议和端口"
-
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:116
-msgid "The service name cannot be empty!"
-msgstr "服务名称不可以为空！"
-
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:122
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:86
 msgid "The service already exists!"
 msgstr "该服务已存在！"
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:128
 msgid "Protocol name cannot be empty！"
 msgstr "协议名称不可以为空 "
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:134
 msgid "The system does not support the protocol temporarily"
 msgstr "系统暂时不支持该协议"
 
-#: ../ksc-defender/ksc_custom_firewall_service_add_dialog.cpp:194
 msgid "Failed to add firewall control service!"
 msgstr "添加防火墙管控服务失败！"
 
-#: ../ksc-defender/ksc_custom_firewall_service_edit_dialog.cpp:78
 msgid "he service name cannot be empty!"
 msgstr "服务名称不可以为空！"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:38
-#: ../ksc-defender/ksc_main_page_widget.cpp:80
-#: ../ksc-defender/ksc_module_func_title_widget.cpp:16
 msgid "Application execution control"
 msgstr "应用执行控制"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:38
 msgid "Application installation and execution control"
 msgstr "应用程序的安装和执行控制"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:60
 msgid "Check application integrity"
 msgstr "检查应用程序完整性 "
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:61
 msgid ""
-"Kylin’s  built-in security mechanism checks the integrity of the application "
-"and helps protect the integrity of the system’s operating environment"
+"Kylin built-in security mechanism checks the integrity of the application "
+"and helps protect the integrity of the system  operating environment"
 msgstr "麒麟内置安全机制检查应用程序的完整性，帮助保护系统运行环境的完整性"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:63
-msgid "Prevention"
+msgid "Prevent"
 msgstr "阻止"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:64
-#: ../ksc-defender/ksc_net_protect_widget.cpp:72
+msgid "Prevent application excute which integrity destroyed or come from external sources such as USB or network..."
+msgstr "阻止完整性已破坏或通过网络、U盘等外部来源进来的程序执行"
+
 msgid "Warm"
 msgstr "警告"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:65
-#: ../ksc-defender/ksc_net_protect_widget.cpp:67
-#: ../ksc-defender/ksc_net_protect_widget.cpp:73
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:23
-msgid "Closed"
+msgid "Notify and let you decide whether to allow application excute which from external sources or integrity destroyed"
+msgstr "通知并由您决定是否允许外部来源或完整性已破坏的程序执行"
+
+msgid "Close"
 msgstr "关闭"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:66
 msgid "Turn off the security function that checks program integrity"
 msgstr "关闭检查程序完整性的安全功能"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:67
 msgid "Add, update, and delete application benchmarks"
 msgstr "添加、更新、删除应用程序基准值 "
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:68
 msgid "Check application source"
 msgstr "检查应用程序来源"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:70
 msgid ""
 "Check the compliance of the application. The application installed using "
 "legal and compliant sources can effectively protect the stability of the "
@@ -864,993 +629,767 @@ msgid ""
 "be checked"
 msgstr "检查应用程序的合规性，使用合法合规来源安装的应用可以有效保护系统稳定性，如果应用是未认证的，启用麒麟内置安全功能后，将会检查应用的执行权限 "
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:71
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:72
 msgid "All source"
 msgstr "任何来源"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:73
 msgid "But if the app is from an uncertified source, please notify me"
 msgstr "但如果应用是来自未认证的来源，请通知我"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:74
 msgid "Address randomization"
 msgstr "地址随机化"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:75
 msgid ""
 "The system has built-in address space randomization function by default, and "
 "supports address randomization of shared libraries, heap, stack, MMAP, and "
 "VDSO to help protect the system from attacks"
 msgstr "系统默认已内置地址空间随机化功能，支持对共享库、堆、栈、MMAP以及VDSO的地址随机化，帮助保护系统免受攻击"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:76
 msgid "Certified legal source"
 msgstr "通过认证的合法来源 "
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:324
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:445
 msgid "Executing control state switching..."
 msgstr "执行控制状态切换中 ..."
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:324
 msgid "Executing control state switching,Prohibit closing!"
 msgstr "执行控制状态切换中，禁止关闭 "
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:331
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:390
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:452
 msgid "Cannot enable Kylin security mechanism"
 msgstr "启用麒麟安全机制失败"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:333
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:392
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:454
 msgid ""
 "Failed to set application integrity check policy, the system will continue "
 "to use the original policy to protect system security"
 msgstr "设置应用程序完整性检查策略失败，系统将继续使用原策略保护系统安全"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:383
 msgid "Executing control state switching ..."
 msgstr "执行控制状态切换中"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:383
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:445
 msgid "Executing control state switching，prohibit closing!"
 msgstr "执行控制状态切换中，禁止关闭"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:499
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:509
 msgid "Failed to set system application source detection level!"
 msgstr "设置系统应用来源检测等级失败！"
 
-#: ../ksc-defender/ksc_exec_ctrl_widget.cpp:519
 msgid "Failed to set system application source detection level！"
 msgstr "设置系统应用来源检测等级失败！"
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:36
 msgid ""
 "No documents that meet the requirements are found, please select to add "
 "again!"
 msgstr "未发现符合要求文件,请重新选择添加! "
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:52
 msgid "Authorization failed, adding is prohibited!"
 msgstr "授权认证失败,禁止添加 "
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:55
 msgid "KYSEC security mechanism is not enabled, it is forbidden to add!"
 msgstr "KYSEC安全机制未启用,禁止添加 "
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:58
 msgid "Database exception, adding whitelist record failed!"
 msgstr "数据库异常,添加白名单记录失败"
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:61
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:56
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:55
 msgid "%1 :Failed to get file mark!"
 msgstr "获取文件标记失败"
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:64
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:59
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:58
 msgid "%1 :Failed to set file mark!"
 msgstr "%1 :设置文件标记失败 "
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:67
 msgid "Invalid parameter, failed to add whitelist record!"
 msgstr "无效参数，添加白名单记录失败! "
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:70
 msgid "%1 :Failed to get list of files to be added!"
 msgstr "%1 :获取待添加文件列表失败"
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:73
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:68
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:67
 msgid "%1 :File attribute abnormal!"
 msgstr "%1 :文件属性异常 "
 
-#: ../ksc-defender/ksc_exectl_cfg_add_process_dialog.cpp:76
 msgid "Unknown error, failed to add whitelist!"
 msgstr "未知错误,添加白名单失败 "
 
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:29
 msgid "Please select the record to be decertified!"
 msgstr "请选择需要解除认证的记录"
 
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:47
 msgid ""
 "Authorization authentication fails, it is forbidden to cancel authentication!"
 msgstr "授权认证失败,禁止解除认证!"
 
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:50
 msgid ""
 "KYSEC security mechanism is not enabled, it is forbidden to de-authenticate!"
 msgstr "KYSEC安全机制未启用,禁止解除认证!  "
 
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:53
 msgid "Database exception, de-authentication failed!"
 msgstr "数据库异常,解除认证失败!"
 
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:62
 msgid "Invalid parameter, de-authentication failed!"
 msgstr "无效参数，解除认证失败  "
 
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:65
 msgid "%1 :Failed to obtain the list of documents to be decertified!"
 msgstr "%1 :获取待解除认证文件列表失败"
 
-#: ../ksc-defender/ksc_exectl_cfg_delete_process_dialog.cpp:71
 msgid "Unknown error, decertification failed!"
 msgstr "未知错误,解除认证失败!"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:24
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:27
+msgid "<font color = #696969>%1 tampered with record rows in total</font>"
+msgstr "<font color = #696969>共 %1 行记录，被篡改 "
+
+msgid "<font color = #FF0000>%1</font>"
+msgstr "<font color = #FF0000>%1</font>"
+
+msgid "<font color = #696969> line</font>"
+msgstr "<font color = #696969> 行</font>"
+
 msgid "Application benchmark value management"
 msgstr "应用程序基准值管理"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:28
 msgid ""
 "Management applications, dynamic library benchmark values, applications and "
 "dynamic libraries whose integrity is destroyed or not certified are not "
 "allowed to run or load directly"
 msgstr "管理应用程序、动态库基准值，完整性被破坏或未被认证的应用程序和动态库不允许直接运行、加载"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:29
 msgid "Add"
 msgstr "添加"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:30
 msgid "Update"
 msgstr "更新"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:31
 msgid "Decertification"
 msgstr "解除认证"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:115
 msgid "Enter search content"
 msgstr "请输入搜索内容"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:194
-msgid "<font color = #696969 >%1 tampered with record rows in total</font>"
-msgstr "<font color = #696969 >共  %1  行记录，被篡改</font>"
-
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:196
-msgid "<font color = #696969 > line</font>"
-msgstr "<font color = #696969 > 行</font>"
-
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:217
 msgid "Add execution control whitelist"
 msgstr "添加执行控制白名单 "
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:223
 msgid "File adding..."
 msgstr "文件添加中..."
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:223
 msgid "Whitelist file parsing and adding, prohibit closing!"
 msgstr "白名单文件解析添加中,禁止关闭!"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:256
 msgid "Record updating..."
 msgstr "记录更新中..."
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:256
 msgid "Whitelist file updating, it is prohibited to close!"
 msgstr "白名单文件更新中,禁止关闭!"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:283
 msgid "The certification status is being cancelled..."
 msgstr ":认证状态解除中..."
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:283
+msgid "can not resolve the unauthorized program!"
+msgstr "未认证的程序不能进行解除认证操作!"
+
 msgid ""
 "The KYSEC certification protection of the file is being cancelled. It is "
 "forbidden to close!"
 msgstr "解除文件KYSEC认证保护中,禁止关闭!"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:320
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:336
 msgid "All"
 msgstr "全部"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:320 ../ksc-defender/main.cpp:79
-msgid "executable programs"
+msgid "application"
 msgstr "可执行程序"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:320 ../ksc-defender/main.cpp:78
-msgid "shared libraries"
+msgid "library"
 msgstr "共享库"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:336 ../ksc-defender/main.cpp:84
-msgid "certified"
-msgstr "认证"
+msgid "script"
+msgstr "可执行脚本"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:336 ../ksc-defender/main.cpp:85
+msgid "certified"
+msgstr "已认证"
+
 msgid "system certified"
 msgstr "系统认证"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:336 ../ksc-defender/main.cpp:86
 msgid "uncertified"
 msgstr "未认证"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:336 ../ksc-defender/main.cpp:87
 msgid "tampered"
 msgstr "被篡改"
 
-#: ../ksc-defender/ksc_exectl_cfg_dialog.cpp:407
 msgid ""
 "File path: %1\n"
 "Summary value: %21"
 msgstr "文件路径：%1\n摘要值：%21"
 
-#: ../ksc-defender/ksc_exectl_cfg_headerview.cpp:53
 msgid "file path"
 msgstr "文件路径"
 
-#: ../ksc-defender/ksc_exectl_cfg_headerview.cpp:57
 msgid "file type"
 msgstr "文件类型"
 
-#: ../ksc-defender/ksc_exectl_cfg_headerview.cpp:62
 msgid "current status"
 msgstr "当前状态"
 
-#: ../ksc-defender/ksc_exectl_cfg_process_dialog.cpp:32
-#: ../ksc-defender/ksc_message_box.cpp:24
 msgid "Prompt information"
 msgstr "提示信息"
 
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:46
 msgid "Authorization failed, update is prohibited!"
 msgstr "授权认证失败,禁止更新!"
 
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:49
 msgid "KYSEC security mechanism is not enabled, update is prohibited!"
 msgstr "KYSEC安全机制未启用,禁止更新!"
 
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:52
 msgid "The database is abnormal and the whitelist record update failed!"
 msgstr "数据库异常,更新白名单记录失败!"
 
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:61
 msgid "Invalid parameter, failed to update whitelist record!"
 msgstr "无效参数，更新白名单记录失败!"
 
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:64
 msgid "%1 :Failed to get the list of files to be updated!"
 msgstr "%1 :获取待更新文件列表失败"
 
-#: ../ksc-defender/ksc_exectl_cfg_update_process_dialog.cpp:70
 msgid "Unknown error, failed to update whitelist record!"
 msgstr "未知错误,更新白名单记录失败! "
 
-#: ../ksc-defender/ksc_main_page_widget.cpp:20
 msgid "System Security Overview"
 msgstr "系统安全概况"
 
-#: ../ksc-defender/ksc_main_page_widget.cpp:21
 msgid ""
 "Understand the current security of the system and take necessary setting "
 "actions"
 msgstr "了解系统当前的安全性，并可采取必要的设置操作"
 
-
-
-#: ../ksc-defender/ksc_main_page_widget.cpp:50
 msgid "Real-time protection to help the system avoid threats"
 msgstr "实时防护 帮助系统免受威胁"
 
-#: ../ksc-defender/ksc_main_page_widget.cpp:60
-#: ../ksc-defender/kylin_security_center.cpp:181
 msgid "Account security"
 msgstr "账户安全"
 
-#: ../ksc-defender/ksc_main_page_widget.cpp:70
-#: ../ksc-defender/ksc_net_protect_widget.cpp:34
-#: ../ksc-defender/kylin_security_center.cpp:184
+msgid "Failed to create 3adm users!"
+msgstr "创建三权分立系统用户失败!"
+
 msgid "Network protection"
 msgstr "网络保护"
 
-#: ../ksc-defender/ksc_main_page_widget.cpp:70
 msgid "Protect system network environment security"
 msgstr "保护系统网络环境安全"
 
-#: ../ksc-defender/ksc_main_page_widget.cpp:80
-#: ../ksc-defender/ksc_module_func_title_widget.cpp:17
 msgid "Application installation and execution protection"
 msgstr "应用程序的安装和执行保护"
 
-#. add by yss
-#: ../ksc-defender/ksc_main_page_widget.cpp:91
-#: ../ksc-defender/kylin_security_center.cpp:191
 msgid "Baseline scan"
 msgstr "基线扫描"
 
-#: ../ksc-defender/ksc_main_page_widget.cpp:91
 msgid "Real-time scanning to identify risks"
 msgstr "实时扫描 找出风险"
 
-#: ../ksc-defender/ksc_message_box.cpp:27
-#: ../ksc-defender/ksc_module_func_widget.cpp:21
-#: ../ksc-defender/ksc_module_func_widget.cpp:22
-#: ../ksc-defender/ksc_pam_tip_dialog.cpp:43
 msgid "TextLabel"
-msgstr "TextLabel"
+msgstr "消息提示"
 
-#: ../ksc-defender/ksc_message_box.cpp:54
-#: ../ksc-defender/ksc_message_box.cpp:56
 msgid "remind"
 msgstr "提醒"
 
-#: ../ksc-defender/ksc_message_box.cpp:62
-#: ../ksc-defender/ksc_message_box.cpp:64
 msgid "query"
 msgstr "询问"
 
-#: ../ksc-defender/ksc_message_box.cpp:70
-#: ../ksc-defender/ksc_message_box.cpp:72
 msgid "error messenge"
 msgstr "错误信息"
 
-#: ../ksc-defender/ksc_module_btn_widget.cpp:20
 msgid "Home-page"
 msgstr "首页"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:35
 msgid ""
 "Provide default network protection strategies and application networking "
 "management and control to maintain the security of the system network "
 "environment"
 msgstr "提供默认的网络防护策略和应用程序联网管控，维护系统网络环境安全"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:59
 msgid "Firewall"
 msgstr "防火墙"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:60
 msgid ""
 "Provide default network access permission strategy to build a safe and "
 "reliable network environment"
 msgstr "提供默认网络访问许可策略，构筑安全可靠网络环境"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:61
-msgid "Public network"
+msgid "Public"
 msgstr "公共网络"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:62
 msgid "Network configuration suitable for public areas"
 msgstr "适用于公共区域的网络配置"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:63
-msgid "Office network"
+msgid "Office"
 msgstr "办公网络"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:64
 msgid "Network configuration suitable for home and office workspace"
 msgstr "适用于家庭和办公工作区的网络配置"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:65
-msgid "Custom configuration"
+msgid "Custom"
 msgstr "自定义配置"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:66
 msgid "For advanced administrator users"
 msgstr "适用于高级管理员用户"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:68
 msgid ""
 "Turn off the firewall, suitable for network configuration in a trusted "
 "environment, allowing all network connections"
 msgstr "关闭防火墙，适用于可信任环境的网络配置，允许所有网络连接"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:69
 msgid "Application networking"
 msgstr "应用程序联网 "
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:70
 msgid "Control whether applications and services can actively network"
 msgstr "控制应用程序和服务是否可以主动联网"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:71
 msgid "Ban"
 msgstr "禁止"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:74
+msgid "Forbid unauthorized applications and services connect network"
+msgstr "禁止未授权应用和服务联网"
+
+msgid "Announce me when unauthorized applications and services connect network"
+msgstr "当有未授权应用联网时,请告诉我"
+
+msgid "Kylin security has been enabled. It will take effect after restart"
+msgstr "麒麟安全机制已启用，重启系统后生效"
+
 msgid ""
 "Turn off the application networking control function, all applications and "
 "services can be actively connected to the Internet"
 msgstr "关闭应用程序联网控制功能，所有应用和服务均能主动联网"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:75
 msgid "Add and delete apps that allow networking"
 msgstr "添加、删除允许联网的应用"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:315
-#: ../ksc-defender/ksc_net_protect_widget.cpp:326
-#: ../ksc-defender/ksc_net_protect_widget.cpp:337
-#: ../ksc-defender/ksc_net_protect_widget.cpp:562
 msgid ""
 "Fail to set the system firewall protection level , the system will continue "
 "to use the original firewall protection level to protect system security!  "
 msgstr "设置系统防火墙防护等级失败，系统将继续采用原防火墙防护等级保护系统安全！"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:356
 msgid " Switching network management and control status..."
 msgstr "网络管控状态切换中..."
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:356
-#: ../ksc-defender/ksc_net_protect_widget.cpp:417
 msgid ""
 "Network management and control status is switching, it is prohibited to "
 "close!"
 msgstr "网络管控状态切换中,禁止关闭!        Switching network management and control status..."
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:363
-#: ../ksc-defender/ksc_net_protect_widget.cpp:424
-#: ../ksc-defender/ksc_net_protect_widget.cpp:484
 msgid " Failed to enable Kylin security mechanism"
 msgstr "启用麒麟安全机制失败"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:365
-#: ../ksc-defender/ksc_net_protect_widget.cpp:426
-#: ../ksc-defender/ksc_net_protect_widget.cpp:486
 msgid ""
 "Failed to set the application network control level, the system will "
 "continue to use the original level to protect the system security"
 msgstr "设置应用程序网络管控等级失败，系统将继续使用原等级保护系统安全"
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:417
-#: ../ksc-defender/ksc_net_protect_widget.cpp:477
 msgid "Switching network management and control status..."
 msgstr "网络管控状态切换中..."
 
-#: ../ksc-defender/ksc_net_protect_widget.cpp:477
 msgid ""
 "Network management and control status is switching, it is prohibited to "
 "close!!"
 msgstr "网络管控状态切换中,禁止关闭!"
 
-#: ../ksc-defender/ksc_pam_tip_dialog.cpp:40
-#: ../ksc-defender/ksc_pop_arrow_dialog.cpp:37
-#: ../ksc-defender/ksc_pop_arrow_dialog.cpp:51
 msgid "Description:"
 msgstr "说明"
 
-#: ../ksc-defender/ksc_pam_tip_dialog.cpp:42
 msgid "Example"
 msgstr "示例"
 
-#: ../ksc-defender/ksc_passwd_dictionary_browser_dialog.cpp:18
-#: ../ksc-defender/ksc_passwd_dictionary_browser_dialog.cpp:19
 msgid "Password dictionary"
 msgstr "密码字典"
 
-#: ../ksc-defender/ksc_passwd_dictionary_browser_dialog.cpp:20
-#: ../ksc-defender/ksc_passwd_dictionary_tablemodel.cpp:63
 msgid "Password"
 msgstr "密码"
 
-#: ../ksc-defender/ksc_passwd_dictionary_browser_dialog.cpp:69
 msgid "Exit search"
 msgstr "退出搜索"
 
-#: ../ksc-defender/ksc_passwd_dictionary_browser_dialog.cpp:70
 msgid "Please entrying search content"
 msgstr "请输入搜索内容 "
 
-#: ../ksc-defender/ksc_pop_arrow_dialog.cpp:44
 msgid "Example:"
 msgstr "示例："
 
-#: ../ksc-defender/ksc_pop_arrow_dialog.cpp:184
-#, c-format
 msgid "close pop dialog\n"
 msgstr "关闭弹窗\n"
 
-#: ../ksc-defender/ksc_psw_check_cfg_dialog.cpp:19
 msgid "Password strength setting"
 msgstr "密码强度设置 "
 
-#. setMouseTracking(true);
-#. setAttribute(Qt::WA_TransparentForMouseEvents);
-#: ../ksc-defender/ksc_psw_check_cfg_dialog.cpp:23
 msgid "Setting  password strength"
 msgstr "密码强度设置"
 
-#: ../ksc-defender/ksc_psw_check_cfg_dialog.cpp:24
-#: ../ksc-defender/kylin_security_center.cpp:53
-msgid "Default"
+msgid "Default Setting"
 msgstr "默认配置"
 
-#: ../ksc-defender/ksc_psw_check_cfg_dialog.cpp:74
 msgid ""
 "Failed to update the password strength check configuration, please check!"
 msgstr "更新密码强度检查配置失败，请检查"
 
-#. set gettext
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:35
 msgid "Enable password strength check"
 msgstr "启用密码强度检查"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:36
 msgid "Password character control"
 msgstr "密码字符控制"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:37
 msgid "Minimum password length"
 msgstr "密码最小长度"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:38
 msgid "The password contains at least the type of characters"
 msgstr "密码中至少包含字符种类"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:39
 msgid "Minimum number of uppercase letters"
 msgstr "大写字母最小数量"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:40
 msgid "Minimum number of lowercase letters"
 msgstr "小写字母最小数量"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:41
 msgid "Minimum number of numeric characters"
 msgstr "数字字符最小数量"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:42
 msgid "Minimum number of other characters"
 msgstr "其他字符最小数量"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:43
 msgid "Password advanced settings"
 msgstr "密码高级设置	"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:44
 msgid "Passwords must not contain usernames"
 msgstr "密码中禁止包含用户名"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:45
 msgid "Enable palindrome checking"
 msgstr "启用回文检查"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:46
 msgid "Enable similarity check"
 msgstr "启用相似性检查"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:47
 msgid "Enable password dictionary"
 msgstr "启用密码字典"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:48
 msgid "Password dictionary:"
 msgstr "密码字典："
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:49
 msgid "Password valid time:"
 msgstr "密码有效时间："
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:50
 msgid "Number of password history records kept"
 msgstr "保留密码历史记录个数"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:51
 msgid "Password continuous character control"
 msgstr "密码连续字符控制"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:52
 msgid "Maximum number of consecutive occurrences of the same character"
 msgstr "同一字符连续出现最大次数"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:53
 msgid "Maximum number of consecutive characters of the same type"
 msgstr "同类型字符序列连续最大次数"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:54
 msgid "Maximum consecutive occurrences of characters of the same type"
 msgstr "同类型字符连续出现最大次数"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:208
 msgid "Minimum：1，maximum：4"
 msgstr "最小值：1，最大值  ：4"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:549
 msgid ""
 "Character types include four types of uppercase letters, lowercase letters, "
 "numbers and other characters"
 msgstr "字符种类包括大写字母、小写字母、数字和其他字符四类"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:552
 msgid ""
 "A palindrome refers to a sequence of characters that is the same both in "
 "front and back. Once enabled, the system will not be able to set a password "
 "containing this type of character sequence"
 msgstr "回文是指正读反读均相同的字符序列。启用后，系统将不能设置包含该类型字符序列的密码"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:553
 msgid ""
 "For example, if the password is \"abcdcba\", the password sequence is the "
 "same for both positive and negative reading, and the password is the "
 "palindrome password"
 msgstr "如密码\"abcdcba\"，密码序列正读、反读均一致，该密码即为回文密码  "
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:556
 msgid ""
 "Similarity password means that the new password is the original password, "
 "only the case is changed or the password is translated from the original "
 "password. After enabling, the system cannot set the password"
 msgstr "相似性密码指新密码为原密码仅改变大小写或由原密码平移得到的密码，启用后，系统不能设置该密码"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:557
 msgid ""
 "After enabling, if the original password \"abcd1234\", the new password "
 "\"ABCD1234\" will not be set successfully"
 msgstr "启用后，若原密码\"abcd1234\", 新密码\"ABCD1234\"将不能设置成功"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:560
 msgid ""
 "The password dictionary includes many passwords that people habitually set. "
 "When enabled, the system will prohibit the setting of passwords in the "
 "dictionary to strengthen password security"
 msgstr "密码字典里包括许多人们习惯性设置的密码,启用后，系统将禁止设置字典中存在的密码，加强密码安全性"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:563
 msgid ""
 "The maximum number of consecutive occurrences of the same character in the "
 "password. After exceeding, the password cannot be set successfully"
 msgstr "同一个字符在密码中允许连续出现的最大次数，超出后，密码将不能设置成功"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:566
 msgid ""
 "The maximum number of consecutive sequences of characters of the same type, "
 "after exceeding, the password cannot be set successfully"
 msgstr "同类型字符最大连续序列数量，超出后，密码将不能设置成功"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:567
 msgid ""
 "For example, the number of consecutive sequences of \"123\" and \"def\" is "
 "3, and the number of consecutive sequences of \"abe\" is 2"
 msgstr "如\"123\"、\"def\"的连续序列数量为3，\"abe\"的连续序列数量为2"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:570
 msgid ""
 "The maximum number of consecutive occurrences of various types of characters "
 "allowed in the password, after exceeding, the password cannot be set "
 "successfully"
-msgstr "各种类型字符在密码中允许连续出现的最大次数，超出后，密码将不能设置成功"
+msgstr "各种类型字符在密码中允许连续出现的上次扫描不符合最大次数，超出后，密码将不能设置成功"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:617
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:627
 msgid ""
 "The sum of the minimum number of various characters exceeds the minimum "
 "length of the current password, the minimum length of the password has been "
 "updated"
 msgstr "各类字符最小数量之和超出当前密码最小长度，密码最小长度已更新"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:618
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:640
 msgid ""
 "The sum of the minimum number of character types exceeds the limit of the "
 "current password minimum number of characters. The minimum number of "
 "characters in the password has been updated"
 msgstr "字符最小数量限制种类之和超出当前密码最少字符种类数量限制，密码最少字符种类数量已更新"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:621
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:632
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:643
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:688
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:713
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:855
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:864
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:873
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:882
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:917
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:926
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:935
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:944
 msgid "warning"
 msgstr "警告"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:684
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:710
 msgid ""
 "The minimum password length is less than the sum of the minimum number of "
 "various passwords, which does not meet the setting conditions"
 msgstr "密码最小长度小于各类密码最小数量之和，不满足设置条件 "
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:848
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:910
 msgid ""
 "The minimum number of password categories is less than the minimum number of "
 "password control categories, and the minimum number control of some password "
 "categories is cleared"
 msgstr "密码最小类别数量小于密码各类别字符最小控制类别数量，部分密码类别最小数量控制被清零"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:954
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:986
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:1018
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:1050
 msgid "normal"
 msgstr "正常"
 
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:16
 msgid "Safe mode switching"
 msgstr "安全模式切换 "
 
-#. setgettext
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:19
-msgid "Switch system security mode"
+msgid "Switch security mode"
 msgstr "切换系统安全模式"
 
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:20
-msgid "default"
-msgstr "默认"
-
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:21
-msgid "Strict mode"
-msgstr "严格模式"
-
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:22
-msgid "customize"
-msgstr "自定义"
-
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:24
-msgid "Select the need to enable the security module"
+msgid "Select the security module"
 msgstr "选择需要启用安全模块"
 
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:25
 msgid "Kylin Security"
 msgstr "麒麟安全"
 
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:26
 msgid "Separation of powers"
 msgstr "三权分立"
 
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:27
 msgid "SELinux"
 msgstr "SElinux"
 
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:28
 msgid "targeted"
 msgstr "targeted"
 
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:29
 msgid "ukmls"
 msgstr "ukmls"
 
-#: ../ksc-defender/ksc_security_switch_dialog.cpp:30
 msgid "Apparmor"
 msgstr "Apparmor"
 
-#. set gettext
-#: ../ksc-defender/ksc_trusted_security_component_widget.cpp:22
 msgid "Safe and Trusted Components"
 msgstr "安全可信组件"
 
-#: ../ksc-defender/ksc_trusted_security_component_widget.cpp:23
 msgid "CPU"
 msgstr "CPU"
 
-#: ../ksc-defender/ksc_trusted_security_component_widget.cpp:24
 msgid "Memory"
 msgstr "内存"
 
-#: ../ksc-defender/ksc_trusted_security_component_widget.cpp:25
 msgid "firmware"
 msgstr "固件"
 
-#: ../ksc-defender/ksc_trusted_security_component_widget.cpp:26
 msgid "trusted plugin"
 msgstr "可信插件"
 
-
-#: ../ksc-defender/form.cpp:15
 msgid "Baseline class"
 msgstr "基线类"
 
-#. set gettext
-
-#: ../ksc-defender/ksc_main_page_widget.cpp:50
-#: ../ksc-defender/form.cpp:15
-#: ../ksc-defender/kylin_security_center.cpp:178
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:25
 msgid "Virus defense"
 msgstr "病毒防护"
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:55
-msgid "Look"
-msgstr "查看"
 
 msgid "Virus defense "
 msgstr "病毒防护"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:58
 msgid "     90day"
 msgstr "    90天"
 
-#: ../ksc-defender/ksc_psw_check_cfg_item_widget.cpp:58
 msgid "     120day"
 msgstr "    120天"
 
-
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:26
 msgid ""
 "When set to 3 times, the password \"9527ab_b\" will not"
 " be set successfully because the numeric characters appear 4 times "
 "in a row"
 msgstr "当设置为3次时，密码\"9527ab_b\"由于数字类字符连续出现4次，将不能设置成功"
 
-
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:32
 msgid "QIANXIN Antivirus Software V8"
 msgstr "奇安信防病毒软件V8"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:34
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:385
 msgid ""
 "Virus database update failed, please try again or open the app to use "
 "offline update"
 msgstr "病毒库更新失败，请重试或打开应用使用离线升级"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:35
 msgid "Open the application"
 msgstr "打开应用"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:36
 msgid "Virus database update"
-msgstr "立即扫描"
+msgstr "病毒库更新"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:37
 msgid "Scan now"
 msgstr "立即扫描"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:38
 msgid "Update authorization"
 msgstr "更新授权 "
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:116
 msgid "Current to-do items:"
 msgstr "当前待办事项"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:123
 msgid "the state of Virus defense"
 msgstr "病毒防护状态 "
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:130
 msgid "The state of  Software update "
 msgstr "软件更新情况："
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:162
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:439
 msgid " Nothing to do"
 msgstr "不需要操作"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:175
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:476
 msgid "No virus threat found"
 msgstr "未发现病毒威胁:"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:178
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:347
 msgid "No update available"
 msgstr "无可用更新"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:367
 msgid ""
 "There is a new version of the virus database, please upgrade immediately"
 msgstr "病毒库有新的版本，请立即升级"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:453
 msgid ""
 "It is recommended to perform scan tasks regularly to ensure system security"
 msgstr "建议定期执行扫描任务，保障系统安全"
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:501
-#, c-format
 msgid "This scan found %d threats, which have been successfully dealt with"
 msgstr "本次扫描发现  %d  个威胁，已处理成功 "
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:522
-#, c-format
 msgid "This scan found %d threats, please deal with them as soon as possible"
 msgstr "本次扫描发现  %d  个威胁，请尽快处理 "
 
-#: ../ksc-defender/ksc_virus_protect_func_widget.cpp:545
 msgid "If a threat is detected, a full scan is recommended immediately"
 msgstr "发现威胁，建议立即执行全盘扫描任务"
 
-#: ../ksc-defender/ksc_virus_protect_software_proxy.cpp:29
+msgid "This function has been limited, please update the authorization to use"
+msgstr "该功能已受限，请更新授权后使用"
+
+msgid "The authorization is about to expire, please update the authorization as soon as possible"
+msgstr "授权已到期，请尽快更新授权"
+
 msgid "QIANXIN Antivirus Software V8-%1"
 msgstr "奇安信防病毒软件V8- %1"
 
-#: ../ksc-defender/ksc_virus_protect_widget.cpp:30
 msgid "Technical support provided by Qi'AnXin Technology corporation Co., Ltd."
 msgstr "技术支持由奇安信技术有限公司提供"
 
-#: ../ksc-defender/ksc_virus_software_logo_label.cpp:30
 msgid "unauthorized"
 msgstr "未授权"
 
-#. setAttribute(Qt::WA_TranslucentBackground, true);
-#: ../ksc-defender/kylin_security_center.cpp:49
 msgid "kylin-ksc-defender"
 msgstr "kylin-ksc-defender"
 
-#: ../ksc-defender/kylin_security_center.cpp:50
-#: ../ksc-defender/kylin_security_center.cpp:52
 msgid "Security center"
 msgstr "安全中心 "
 
-#: ../ksc-defender/kylin_security_center.cpp:175
 msgid "Home page"
 msgstr "首页"
 
-
-
-#: ../ksc-defender/kylin_security_center.cpp:187
 msgid "Applied executive control"
 msgstr "应用执行控制"
 
-#: ../ksc-defender/kylin_security_center.cpp:238
-#: ../ksc-defender/kylin_security_center.cpp:247
-msgid "closed"
+msgid "Closed"
 msgstr "已关闭"
 
-#: ../ksc-defender/kylin_security_center.cpp:244
-msgid "Default mode"
+msgid "Default"
 msgstr "默认模式"
 
-#: ../ksc-defender/kylin_security_center.cpp:250
-msgid "self-defined"
+msgid "Customize"
 msgstr "自定义"
 
-#: ../ksc-defender/kylin_security_center.cpp:462
+msgid "Strict"
+msgstr "严格模式"
+
 msgid "System safety mode switch..."
 msgstr "系统安全模式切换中..."
 
-#: ../ksc-defender/kylin_security_center.cpp:462
 msgid "System security mode switch, do not close!"
 msgstr "系统安全模式切换中,禁止关闭!"
 
-#: ../ksc-defender/kylin_security_center.cpp:466
 msgid ""
 "Switch system security mode successfully, restart the system after effective"
 msgstr "切换系统安全模式成功，重启系统后生效"
 
-#: ../ksc-defender/kylin_security_center.cpp:468
 msgid "Failed to switch system security mode"
 msgstr "切换系统安全模式失败"
 
-#: ../ksc-defender/main.cpp:77
 msgid "executable"
 msgstr "可执行程序"
 
-#: ../ksc-defender/main.cpp:80
 msgid "kernel module"
 msgstr "内核模块"
 
-#: ../ksc-defender/main.cpp:81
 msgid "Other files"
 msgstr "其他文件"
+
+msgid "<font style='font-size:14px;'>Last scan did not match </font><font style='font-size:14px;color:%1;'>%2</font><font style='font-size:14px;'> item</font>，"
+msgstr "<font style='font-size:14px;'>上次扫描不符合 </font><font style='font-size:14px;color:%1;'>%2</font><font style='font-size:14px;'> 项</font>，"
+
+msgid "Allow"
+msgstr "允许"
+
+msgid "Enquiry"
+msgstr "询问"
+
+msgid "Unkonw"
+msgstr "未知"
+
+msgid "System service"
+msgstr "系统服务"
+
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Internet service"
+msgstr "网络服务"
+
+msgid "Password Setting"
+msgstr "密码设置"
+
+msgid "Password: "
+msgstr "密码: "
+
+msgid "User: root"
+msgstr "用户: root"
+
+msgid "User: secadm"
+msgstr "用户: secadm"
+
+msgid "User: auditadm"
+msgstr "用户: auditadm"
+
+msgid "Please input password for root!"
+msgstr "请输入root用户密码!"
+
+msgid "Please input password for secadm!"
+msgstr "请输入secadm用户密码!"
+
+msgid "Please input password for auditadm!"
+msgstr "请输入auditadm用户密码!"
+
+msgid "No."
+msgstr "序号"
+
