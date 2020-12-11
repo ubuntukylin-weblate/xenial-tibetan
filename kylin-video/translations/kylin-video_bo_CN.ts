@@ -1732,551 +1732,551 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨར་མེ་ནི་ཡའི་སྐད་</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་རེ་ཤེ་ཡའི་སྐད་</translation>
     </message>
     <message>
         <source>Bokmål</source>
-        <translation type="unfinished"></translation>
+        <translation>པོ་ཁེ་མར་གྱི་སྐད་</translation>
     </message>
     <message>
         <source>Romansh</source>
-        <translation type="unfinished"></translation>
+        <translation>རོ་མན་ཧྲི་སྐད།</translation>
     </message>
     <message>
         <source>Bosnian</source>
-        <translation type="unfinished"></translation>
+        <translation>པོ་སི་ནི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Interlingua</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱལ་སྤྱིའི་སྐད་A།</translation>
     </message>
     <message>
         <source>Interlingue</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱལ་སྤྱིའི་སྐད་ཀྱི་E།</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>ཅ་ཐའེ་ལུའོ་ཉི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>སར་པི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Burmese</source>
-        <translation type="unfinished"></translation>
+        <translation>འབར་མའི་སྐད།</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨུ་རུ་སུའི་སྐད།</translation>
     </message>
     <message>
         <source>Norwegian</source>
-        <translation type="unfinished"></translation>
+        <translation>བཙན་གཏམ།</translation>
     </message>
     <message>
         <source>Chechen</source>
-        <translation type="unfinished"></translation>
+        <translation>བློན་ཆེན་གྱི་གཏམ།</translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱ་སྐད</translation>
     </message>
     <message>
         <source>Sichuan</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་ཁྲོན་གྱི་དབྱི་སྐད།</translation>
     </message>
     <message>
         <source>Chuvash</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྲུའུ་ཝ་ཧྲེའི་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"></translation>
+        <translation>ཙིན་ཅ་ལོའི་སྐད།</translation>
     </message>
     <message>
         <source>Japanese charsets</source>
-        <translation type="unfinished"></translation>
+        <translation>མཇར་མན་སྐད་ཀྱི་ཡིག་རྟགས་ཚོགས</translation>
     </message>
     <message>
         <source>Slovene</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་ལོ་ཝེ་ཉི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་ཕེན་གྱི་སྐད།</translation>
     </message>
     <message>
         <source>Cornish</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁང་ཨོལ་སྐད།</translation>
     </message>
     <message>
         <source>Tagalog</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐ་ཅ་རོ་སྐད།</translation>
     </message>
     <message>
         <source>Assamese</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨ་ས་མུ་སྐད།</translation>
     </message>
     <message>
         <source>Ossetian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨོ་སེ་ཐི་སྐད།</translation>
     </message>
     <message>
         <source>Old Baltic charset</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕོ་རོལ་རྙིང་པའི་རྒྱ་མཚོའི་ཡིག་རྟགས་ཚོགས།</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨེ་སོ་ནི་ཡའི་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Swahili</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་པ་ཞི་ལི་སྐད།</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>སུའེ་ཏེན་གྱི་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation type="unfinished"></translation>
+        <translation>བོད་སྐད།</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡོ་ནན་གྱི་སྐད།</translation>
     </message>
     <message>
         <source>Kuanyama</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁོན་ཡ་མ་སྐད།</translation>
     </message>
     <message>
         <source>Macedonian</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ཆི་ཏུན་གྱི་སྐད་།</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕོར་ཐིའུ་ཀལ་གྱི་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐུར་ཁེའི་སྐད།</translation>
     </message>
     <message>
         <source>Turkmen</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐུའུ་ཅུའེ་མན་གྱི་སྐད་།</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀུའུ་ཅི་ལ་ཐི་སྐད་</translation>
     </message>
     <message>
         <source>Icelandic</source>
-        <translation type="unfinished"></translation>
+        <translation>པིང་ཏའོ་སྐད།</translation>
     </message>
     <message>
         <source>Inuktitut</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུ་ཉིའུ་ཐེ་ཚིག</translation>
     </message>
     <message>
         <source>Thai charset</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐེ་སྐད་ཡིག་རྟགས་ཚོགས</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>དབྱིན་ཡིག</translation>
     </message>
     <message>
         <source>Unicode</source>
-        <translation type="unfinished"></translation>
+        <translation>Unicode</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"></translation>
+        <translation>འཇོར་ཇི་ཡའི་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧྥ་ལོ་སྐད།</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧྥེན་ལན་སྐད་</translation>
     </message>
     <message>
         <source>South-Eastern European</source>
-        <translation type="unfinished"></translation>
+        <translation>ཤར་ལྷོ་ཡོ་རོབ།</translation>
     </message>
     <message>
         <source>Walloon</source>
-        <translation type="unfinished"></translation>
+        <translation>ཝ་ལུང་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Frisian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧྥུ་ལི་ཞི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Western European Languages with Euro</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡོ་རོབ་ནུབ་མ།</translation>
     </message>
     <message>
         <source>Cyrillic Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>ཞི་ལི་ཨེར་ཡིག་ཆ་Windows</translation>
     </message>
     <message>
         <source>Marshallese</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ཧྲའོ་ཨེར་གྱི་སྐད་།</translation>
     </message>
     <message>
         <source>Haitian</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧའེ་ཏིའི་ཁེ་ལི་ཨའོ་ཨེར་གྱི་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Chamorro</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྲ་མོ་རོ་ཡི་སྐད།</translation>
     </message>
     <message>
         <source>Norwegian Nynorsk</source>
-        <translation type="unfinished"></translation>
+        <translation>ནའེ་ནོ་སི་ཁི་ཝེ་སྐད།</translation>
     </message>
     <message>
         <source>Guarani</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀྭ་ལ་ཉིའི་སྐད</translation>
     </message>
     <message>
         <source>Esperanto, Galician, Maltese, Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>འཛམ་གླིང་གི་སྐད།ཅ་ལི་ཞི་ཡ།མར་ཐ།ཐུར་ཁེ།</translation>
     </message>
     <message>
         <source>Chichewa</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེ་ཆེན་ཝའི་སྐད་</translation>
     </message>
     <message>
         <source>Korean charset</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྲའོ་ཞན་སྐད་ཀྱི་ཡིག་རྟགས་ཚོགས།</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>ལི་ཐུ་ཝན་གྱི་སྐད།</translation>
     </message>
     <message>
         <source>Slavic/Central European Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་ལ་ཧྥུ་སྐད་/ཡོ་རོབ་བར་མ།</translation>
     </message>
     <message>
         <source>Tigrinya</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐི་ཀི་རི་ནི་ཡའི་སྐད།</translation>
     </message>
     <message>
         <source>Yiddish</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡེས་ཏས་ཞོན་སྐད།</translation>
     </message>
 </context>
 <context>
     <name>PrefGeneral</name>
     <message>
         <source>MPV</source>
-        <translation type="unfinished"></translation>
+        <translation>MPV</translation>
     </message>
     <message>
         <source>If you change the playback engine to MPV, please restart Kylin Video.</source>
-        <translation type="unfinished"></translation>
+        <translation>གལ་ཏེ་ཁྱོད་ཀྱིས་ཁ་པར་བརྗེ་སྟེ་གཏོང MPVཡིན་ན།ཁྱོད་ཀྱིས་བསྐྱར་དུ་ཆི་ལིན་གློག་བརྙན་གྱི་སྒྲ་ལེན་རོགས།</translation>
     </message>
     <message>
         <source>MPlayer</source>
-        <translation type="unfinished"></translation>
+        <translation>MPlayer</translation>
     </message>
     <message>
         <source>Pause when minimized</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་ཆུང་བ་ཅན་སྐབས་འཇོག</translation>
     </message>
     <message>
         <source>If this option is enabled, the file will be paused when the main window is hidden. When the window is restored, playback will be resumed.</source>
-        <translation type="unfinished"></translation>
+        <translation>གལ་ཏེ་འདེམ་བྱང་འདི་བཀོལ་ན་སྒེའུ་ཁུང་གཙོ་བོ་སྦས་བའི་རྣམ་པ་ཡིན་སྐབས།ཡིག་ཆ་གནས་སྐབས་མཚམས་འཇོག་རྒྱུ་རེད། སྒེའུ་ཁུང་སླར་གསོ་བྱེད་སྐབས།བསྐྱར་དུ་ཁྱབ་གཏོང་བྱ་དགོས།</translation>
     </message>
     <message>
         <source>Preview when the video is playing</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ལམ་སྟོན་སྐབས་སྔོན་ལ་བལྟོས།</translation>
     </message>
     <message>
         <source>Playback engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒུལ་བྱེད་འཕྲུལ་འཁོར་གཏོང་བ་</translation>
     </message>
     <message>
         <source>Preview when video is playing</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ལམ་སྟོན་སྐབས་སྔོན་ལ་བལྟོས།</translation>
     </message>
     <message>
         <source>If you change the playback engine to MPlayer, please restart Kylin Video.</source>
-        <translation type="unfinished"></translation>
+        <translation>གལ་ཏེ་ཁྱོད་ཀྱིས་བརྗེ་གཏོང་གི་སྒུལ་བྱེད་འཕྲུལ་འཁོར་ནི་MPlayerདང་།བསྐྱར་སྒུལ་རོགས་</translation>
     </message>
     <message>
         <source>If this option is enabled, the video preview will be displayed when the mouse is placed on the progress bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>གལ་ཏེ་འདེམ་བྱང་གི་ཁ་ཕྱེས་ཚེ།ཙིག་རྟགས་མྱུར་ཚད་ཀྱི་སྟེང་དུ་འཇོག་སྐབས།བརྙན་མཐོང་གི་སྔོན་མཐོང་རི་མོ་འཆར་ཐུབ་</translation>
     </message>
 </context>
 <context>
     <name>AudioEqualizer</name>
     <message>
         <source>Pop</source>
-        <translation type="unfinished"></translation>
+        <translation>དར་ཁྱབ་</translation>
     </message>
     <message>
         <source>Ska</source>
-        <translation type="unfinished"></translation>
+        <translation>སི་ཁ་</translation>
     </message>
     <message>
         <source>Club</source>
-        <translation type="unfinished"></translation>
+        <translation>སྤྲོ་སྐྱིད་ཁང་</translation>
     </message>
     <message>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁོད་སྙོམས།</translation>
     </message>
     <message>
         <source>Live</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡུལ་དངོས་</translation>
     </message>
     <message>
         <source>Rock</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡོམ་འགུལ་</translation>
     </message>
     <message>
         <source>Soft</source>
-        <translation type="unfinished"></translation>
+        <translation>འཇམ་པོ།</translation>
     </message>
     <message>
         <source>%1 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Hz</translation>
     </message>
     <message>
         <source>Dance</source>
-        <translation type="unfinished"></translation>
+        <translation>རོལ་དབྱངས།</translation>
     </message>
     <message>
         <source>Party</source>
-        <translation type="unfinished"></translation>
+        <translation>སྤྲོ་སྤྲོད།</translation>
     </message>
     <message>
         <source>Audio Equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་སྙོམ་ཆས་</translation>
     </message>
     <message>
         <source>Set all controls to zero.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚོད་འཛིན་ཚང་མ་ཐིག་ཏུ་བཙུགས་</translation>
     </message>
     <message>
         <source>Full bass and treble</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྗིད་བརྒལ་སྒྲ་དམའ།</translation>
     </message>
     <message>
         <source>%1 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kHz</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>ཉེར་སྤྱོད། (&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒོ་རྒྱག་པ།སྒོ་རྒྱག་པ། (&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>བསྐྱར་འཇོག (&amp;R)</translation>
     </message>
     <message>
         <source>Full bass</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་གདངས་དམའ་པོ།</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>མཚན་ཉིད་རང་འཇོག་</translation>
     </message>
     <message>
         <source>Reggae</source>
-        <translation type="unfinished"></translation>
+        <translation>ལེ་ཀའེ་ཞབས་བྲོའི་རོལ་དབྱངས།</translation>
     </message>
     <message>
         <source>Techno</source>
-        <translation type="unfinished"></translation>
+        <translation>གློག་རྡུལ་ཞབས་བྲོའི་རོལ་དབྱངས་</translation>
     </message>
     <message>
         <source>Use the current values as default values for new videos.</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་གྲངས་ཐང་དེ་བརྙན་ཐུང་གསར་བའི་སོར་བཞག་གྲངས་ཐང་དུ་བཀོལ་</translation>
     </message>
     <message>
         <source>Full treble</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚད་བརྒལ་སྒྲ་མཐོན་པོ།</translation>
     </message>
     <message>
         <source>Classical</source>
-        <translation type="unfinished"></translation>
+        <translation>གནའ་རབས།</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <source>&amp;Set as default values</source>
-        <translation type="unfinished"></translation>
+        <translation>སོར་བཞག་གྲངས་ཐང་(&amp;S)</translation>
     </message>
     <message>
         <source>The current values have been stored to be used as default.</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔའི་གྲངས་ཐང་དེ་གསོག་ཉར་བྱས་ཡོད་པ་དེ་ངེས་གཏན་ཐང་བྱས་ནས་བཀོལ་སྤྱོད་བྱེད་བཞིན་ཡོད</translation>
     </message>
     <message>
         <source>Headphones</source>
-        <translation type="unfinished"></translation>
+        <translation>རྣ་ཉན་</translation>
     </message>
     <message>
         <source>&amp;Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>མིག་སྔར། (&amp;P)</translation>
     </message>
     <message>
         <source>Soft rock</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡང་ཡོམ་འགུལ་</translation>
     </message>
     <message>
         <source>Large hall</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚོམས་ཆེན་</translation>
     </message>
 </context>
 <context>
     <name>PrefAudio</name>
     <message>
         <source>Channels by default</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁོག་ནས་ཁས་ལེན་པའི་སྒྲ་ལམ།</translation>
     </message>
     <message>
         <source>Check this option to use the software mixer, instead of using the sound card mixer.</source>
-        <translation type="unfinished"></translation>
+        <translation>དེ་ནི་གཉེན་ཆས་ཀྱིས་སྒྲ་བསྲེས་ཆས་བཀོལ་བ་ལས་སྒྲ་བྱང་སྐད་བསྲེས་ཆས་བཀོལ་བ་མིན་</translation>
     </message>
     <message>
         <source>Channels by default:</source>
-        <translation type="unfinished"></translation>
+        <translation>ལྐོག་ནས་ཁས་ལེན་པའི་སྐད་སྒྲ་</translation>
     </message>
     <message>
         <source>Gradually adjusts the A/V sync based on audio delay measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་ཕྱིར་འགྱངས་ཀྱི་ཚད་འཇལ་གྲངས་ཐང་ལ་གཞིགས་ནས་རིམ་བཞིན་A/Vདུས་མཉམ་དུ་ལེགས་སྒྲིག་བྱེད་དགོས་</translation>
     </message>
     <message>
         <source>7 (6.1 Surround)</source>
-        <translation type="unfinished"></translation>
+        <translation>7 (6.1 བདུན།མཐའ་བསྐོར་སྒྲ། )</translation>
     </message>
     <message>
         <source>6 (5.1 Surround)</source>
-        <translation type="unfinished"></translation>
+        <translation>6  5.1 བདུན།མཐའ་བསྐོར་སྒྲ་</translation>
     </message>
     <message>
         <source>Software volume control</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་བེད་སྤྱོད་སྒྲ་ཚད་ཚོད་འཛིན།</translation>
     </message>
     <message>
         <source>%1 is the recommended one. Try to avoid %2 and %3, they are slow and can have an impact on performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>འོས་སྦྱོར་བེད་སྤྱོད་བརྒྱ་ཆ་གཅིག གང་ཐུབ་ཀྱིས་2%དང་3%ལ་གཡོལ་ཐབས་བྱེད་དགོས། དེ་དག་གི་མྱུར་ཚད་ཧ་ཅང་དལ་བ་མ་ཟད།གཤིས་ནུས་ལའང་ཤུགས་རྐྱེན་ཐེབས་སྲིད་</translation>
     </message>
     <message>
         <source>Volume normalization by default</source>
-        <translation type="unfinished"></translation>
+        <translation>སོར་བཞག་སྒྲ་ཚད་ལྡན།</translation>
     </message>
     <message>
         <source>Sets the maximum amplification level in percent (default: 110). A value of 200 will allow you to adjust the volume up to a maximum of double the current level. With values below 100 the initial volume (which is 100%) will be above the maximum, which e.g. the OSD cannot display correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེས་ཆེ་བའི་ཇེ་ཆེར་གཏོང་རིམ་གྱི་བརྒྱ་ཆའི་བསྡུར་ཚད་དེའི་རིན་གོང་ནི་༢༠༠སྐབས་ཁྱེད་རང་ལ་ལེགས་སྒྲིག་བྱེད་པའི་སྐད་ཆེ་ཤོས་དེ་མིག་སྔའི་རིམ་པའི་ལྡབ་གཉིས་རེད། དུས་དེར་དཔེར་ན་OSD(འཆར་གཞི）ཡང་དག་ངང་མངོན་མི་ཐུབ།</translation>
     </message>
     <message>
         <source>Select the audio output driver.</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་ཕྱིར་འདོན་གྱི་འདེམས་</translation>
     </message>
     <message>
         <source>8 (7.1 Surround)</source>
-        <translation type="unfinished"></translation>
+        <translation>8 (7.1བསྐོར་སྒྲ།)</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>གོམ་མཉམ</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཚད་</translation>
     </message>
     <message>
         <source>If this option is checked, the same volume will be used for all files you play. If the option is not checked each file uses its own volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>གལ་ཏེ་འདེམ་བྱང་འདི་འདེམ་ན་ཁྱེད་ཀྱིས་གཏོང་བའི་ཡིག་ཆ་ཡོད་ཚད་ལ་གཅིག་མཚུངས་ཀྱི་སྒྲ་ཚད་བཀོལ་ངེས། གལ་ཏེ་གདམས་ཚན་འདི་མ་བཅད་པར་བཅད་འདེམས་དང་།ཡིག་ཆ་རེ་རེ་ལ་རང་ཉིད་ཀྱི་སྒྲ་སྐད་བཀོལ་དགོས་</translation>
     </message>
     <message>
         <source>Output driver:</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱིར་གཏོང་སྐུལ་འདེད</translation>
     </message>
     <message>
         <source>Requests the number of playback channels. MPlayer asks the decoder to decode the audio into as many channels as specified. Then it is up to the decoder to fulfill the requirement. This is usually only important when playing videos with AC3 audio (like DVDs). In that case liba52 does the decoding by default and correctly downmixes the audio into the requested number of channels. &lt;b&gt;Note&lt;/b&gt;: This option is honored by codecs (AC3 only), filters (surround) and audio output drivers (OSS at least).</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་གཏོང་བའི་གྲངས་ཚད་གཏན་འཁེལ་བྱེད་པ། MPlayerཨང་འགྲོལ་ཆས་ཀྱིས་སྒྲ་འགྲོལ་ཆས་དེ་སྒྲ་ག་ཚོད་ལ་བསྒྱུར་དགོས་པ་དང་།དེ་ནས་ཨང་སྒྲིག་ཆས་ཀྱིས་དགོས་མཁོ་འདི་མངོན་འགྱུར་བྱ་དགོས་ཚུལ་བཤད།  སྤྱིར་བཏང་དུAA 3སྒྲ་ཟློས་（དཔེར་ནDVD）ལྡན་པའི་བརྙན་འཕྲིན་གཏོང་སྐབས་ད་གཟོད་བཀོལ་སྤྱོད་བྱེད། གནས་ཚུལ་དེའི་འོག་ཏུ་བཀོལ་སྤྱོད་liba52ཨང་འགྲོལ་བའི་ཁས་བླངས། (b)&gt;མཉམ་འཇོག་བྱེད་དགོས།འདེམ་བྱང་འདི་ལ་ཨང་སྒྲིག་དང་།འཚག་ཆས་དང་སྒྲ་ཟློས་ཕྱིར་འདོན་（OSSདང་དེ་ལས་མཐོ་བ）བཅས་གསུམ་གྱིས་ཡིད་ཚིམས་པར་བྱེད་དགོས་</translation>
     </message>
     <message>
         <source>Audio output driver</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས་ཕྱིར་འདོན་སྐུལ་འདེད།</translation>
     </message>
     <message>
         <source>Global volume</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱོན་ཡོངས་སྒྲ་ཚད་</translation>
     </message>
     <message>
         <source>2 (Stereo)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 (སྒྲ་དངོས་སྣང་། )</translation>
     </message>
     <message>
         <source>Use software volume control</source>
-        <translation type="unfinished"></translation>
+        <translation>མཉེན་ཆས་བེད་སྤྱོད་སྒྲ་ཚད་ཚོད་འཛིན།</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏན་ཁེལ</translation>
     </message>
     <message>
         <source>This option also applies for the mute control.</source>
-        <translation type="unfinished"></translation>
+        <translation>གདམས་ཚན་འདི་ཡང་སྒྲ་མེད་ཀྱི་ཚོད་འཛིན་ལ་འཚམ་</translation>
     </message>
     <message>
         <source>Maximizes the volume without distorting the sound.</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་མེད་སྒྲ་དངོས་ཤོར་ཆེས་ཆེའི་སྒྲ་</translation>
     </message>
     <message>
         <source>Factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>རྐྱེན་</translation>
     </message>
     <message>
         <source>Max. Amplification</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐྱེད་ཕྱོད་ཆེ་ཤོས་</translation>
     </message>
     <message>
         <source>Audio/video auto synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཟློས/བརྙན་ཟློས་རང་འགུལ་གོམ་མཉམ་</translation>
     </message>
     <message>
         <source>Max. Amplification:</source>
-        <translation type="unfinished"></translation>
+        <translation>སྐྱེད་ཕྱོད་ཆེ་ཤོས་ནི་</translation>
     </message>
     <message>
         <source>4 (4.0 Surround)</source>
-        <translation type="unfinished"></translation>
+        <translation>4 (4.0སྐོར་སྒྲ། )</translation>
     </message>
 </context>
 <context>
     <name>MPVProcess</name>
     <message>
         <source>the &apos;%1&apos; filter is not supported by mpv</source>
-        <translation type="unfinished"></translation>
+        <translation>mpvཡིས་1%འཚག་ཆས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་</translation>
     </message>
     <message>
         <source>Estimated:</source>
-        <translation type="unfinished"></translation>
+        <translation>ཚོད་དཔག་བྱེད་རྒྱུར་</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ།</translation>
     </message>
     <message>
         <source>Bitrate:</source>
