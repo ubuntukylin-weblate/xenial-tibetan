@@ -941,35 +941,35 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>&amp;Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>ལངས་གཟུགས་སྒྲ་(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་ཡོལ་བཅད་རིས་(&amp;S)</translation>
     </message>
     <message>
         <source>Speed +4%</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་ཚད་+4%</translation>
     </message>
     <message>
         <source>Speed +1%</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་ཚད་-+1%</translation>
     </message>
     <message>
         <source>Speed -4%</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་ཚད་-4%</translation>
     </message>
     <message>
         <source>Speed -1%</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་ཚད་-1%</translation>
     </message>
     <message>
         <source>Subtitle delay (in milliseconds):</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་བརྙན་ཕྱིར་འགྱངས།（ཧའོ་སྐར་ཆ།）:</translation>
     </message>
     <message>
         <source>Set dela&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>(&amp;Y)...</translation>
     </message>
     <message>
         <source>Order play</source>
