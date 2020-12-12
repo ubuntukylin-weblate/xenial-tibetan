@@ -933,7 +933,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>&amp;Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>འཁོར་བ་</translation>
     </message>
     <message>
         <source>&amp;URL...</source>
