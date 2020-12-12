@@ -969,222 +969,223 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Set dela&amp;y...</source>
-        <translation>(&amp;Y)...</translation>
+        <translation>སྒྲིག་འཛུགས་ཕྱིར་འགྱངས།(&amp;Y)...</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>གོ་རིམ་ཁྱབ་གཏོང་</translation>
     </message>
     <message>
         <source>&amp;Jump to:</source>
-        <translation type="unfinished"></translation>
+        <translation>མཆོང་ནས་(&amp;J):</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>གསར་འཛུགས་</translation>
     </message>
     <message>
         <source>Subtitles onl&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་བརྙན་ཁོ་ན་(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>འཚག་ཆས་(&amp;F)</translation>
     </message>
     <message>
         <source>Warning - Using old MPlayer</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐ་ཚིག་-སྤྱད་བཞིན་ཡོད་།དུས་ལས་ཡོལ་པའི་MPlayer།</translation>
     </message>
     <message>
         <source>%1 failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>1%གི་སྒོ་འབྱེད་ཕམ་པར་གྱུར།</translation>
     </message>
     <message>
         <source>Play control</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱབ་གཏོང་ཚོད་འཛིན།</translation>
     </message>
     <message>
         <source>%1 has finished unexpectedly.</source>
-        <translation type="unfinished"></translation>
+        <translation>1%བསམ་ཡུལ་ལས་འདས་པའི་མཇུག་སྒྲིལ།</translation>
     </message>
     <message>
         <source>Confirm deletion - Kylin Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་འཛིན་སུབ་པ་-ཆི་ལིན་གློག་བརྙན་སྒྲ་</translation>
     </message>
     <message>
         <source>Frame rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྙན་རིས་འཁྱིལ་འཁོར་</translation>
     </message>
     <message>
         <source>%1 has crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>བརྒྱ་ཆ་གཅིག་རྩ་ཐོར་དུ་ཕྱིན་འདུག</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཡོད་ཚད་</translation>
     </message>
     <message>
         <source>&amp;Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ལམ།(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Headphone optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>རྣ་ཉན་ལེགས་སུ་གཏོང་བ།</translation>
     </message>
     <message>
         <source>See the log for more info.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆ་འཕྲིན་དེ་བས་མང་བ་ཉིན་ཐོར་གཟིགས་རོགས།</translation>
     </message>
     <message>
         <source>Choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཞིག་བདམས་།</translation>
     </message>
     <message>
         <source>Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>དཀར་ཆག</translation>
     </message>
 </context>
 <context>
     <name>Playlist</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>སྣོན་པ་</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>གཙང་སེལ་</translation>
     </message>
     <message>
         <source>Reached the top of the playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>རེའུ་མིག་གི་རྩེ་ལ་སླེབས་ཟིན་།</translation>
     </message>
     <message>
         <source>Confirm remove</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་འཛིན་སྤོ་བ།</translation>
     </message>
     <message>
         <source>You&apos;re about to empty the playlist.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆིང་ཁུང་གིས་བསྟན་པའི་རེའུ་མིག</translation>
     </message>
     <message>
         <source>PlayList</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱབ་གཏོང་རེའུ་མིག</translation>
     </message>
     <message>
         <source>Reached the end of the playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱབ་གཏོང་རེའུ་མིག་གི་མཐིལ་དུ་སླེབས་ཟིན་།</translation>
     </message>
     <message>
         <source>This action cannot be undone. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀོལ་སྤྱོད་འདི་ཕྱིར་འཐེན་བྱེད་མི་ཆོག ཁྱེད་རང་གི་མུ་མཐུད་པ་གཏན་འཁེལ་བ་འདུག་གས།</translation>
     </message>
     <message>
         <source>Confirm overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>བཀབ་ཡོད་མེད་གཏན་འཁེལ་བྱེད་དགོས།</translation>
     </message>
     <message>
         <source>Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་རང་གི་མུ་མཐུད་པ་གཏན་འཁེལ་བ་འདུག་གས།</translation>
     </message>
     <message>
         <source>Playlist is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱབ་གཏོང་རེའུ་མིག་སྟོང་པ་རེད།</translation>
     </message>
     <message>
         <source>The file %1 already exists.
 Do you want to overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་བརྒྱ་ཆ་1ཟིན་ཡོད། 
+ཁྱེད་ཀྱིས་བཀབ་འདོད་དམ།</translation>
     </message>
     <message>
         <source>Choose a filename</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཞིག་བདམས་ནས་མིང་།</translation>
     </message>
     <message>
         <source>Confirm deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་འཛིན་སུབ་པ་།</translation>
     </message>
     <message>
         <source>You&apos;re about to Delete the files from your drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱེད་རང་གི་མཁྲེགས་ཆས་ནས་ཡིག་ཆ་སུབ་ཀྱི་རེད།</translation>
     </message>
     <message>
         <source>Playlists</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁྱབ་གཏོང་རེའུ་མིག</translation>
     </message>
     <message>
         <source>Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁ་སྣོན་ཡིག་ཆ།</translation>
     </message>
     <message>
         <source>Confirm remove all</source>
-        <translation type="unfinished"></translation>
+        <translation>ངོས་འཛིན་སྤོ་སེལ་ཡིག་ཆ་ཡོངས་རྫོགས་</translation>
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>སྨྱན་མང་</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>དཀར་ཆག་ཞིག་བདམས་།</translation>
     </message>
     <message>
         <source>You&apos;re about to remove the file from the playlist.</source>
-        <translation type="unfinished"></translation>
+        <translation>རེའུ་མིག་ནང་ནས་ཡིག་ཆ་མེད་པར་བཟོས།</translation>
     </message>
     <message>
         <source>Select one or more files to open</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཞིག་བདམས་པའམ་ཡང་ན་མང་པོ་ཞིག་ཁ་ཕྱེ་དགོས་།</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཡོད་ཚད་</translation>
     </message>
 </context>
 <context>
     <name>Languages</name>
     <message>
         <source>Ewe</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨེ་ཝེ་སྐད།</translation>
     </message>
     <message>
         <source>Ido</source>
-        <translation type="unfinished"></translation>
+        <translation>དབྱི་ཏུའོ་སྐད་།</translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"></translation>
+        <translation>ལོ་སི་སྐད།</translation>
     </message>
     <message>
         <source>Twi</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆི་ཝེའི་སྐད་</translation>
     </message>
     <message>
         <source>Afar</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨ་ཧྥར་སྐད་</translation>
     </message>
     <message>
         <source>Akan</source>
-        <translation type="unfinished"></translation>
+        <translation>ཨ་ཁན་སྐད་</translation>
     </message>
     <message>
         <source>Cree</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁི་ལི་སྐད།</translation>
     </message>
     <message>
         <source>Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>ཞི་ལི་མོ་ཐུའུ་སྐད་།</translation>
     </message>
     <message>
         <source>Igbo</source>
-        <translation type="unfinished"></translation>
+        <translation>དབྱི་པོ་སྐད།</translation>
     </message>
     <message>
         <source>Komi</source>
-        <translation type="unfinished"></translation>
+        <translation>ཁོ་མི་སྐད།</translation>
     </message>
     <message>
         <source>Manx</source>
-        <translation type="unfinished"></translation>
+        <translation>མ་ཨེན་གླིང་ཕྲན་གྱི་སྐད་ཆ།</translation>
     </message>
     <message>
         <source>Pali</source>
