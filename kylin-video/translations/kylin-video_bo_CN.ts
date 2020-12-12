@@ -837,51 +837,51 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Information</source>
-        <translation></translation>
+        <translation type="unfinished">ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <source>The version of MPlayer (%1) installed on your system is obsolete. kylin-video can&apos;t work well with it: some options won&apos;t work, subtitle selection may fail...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ཁྱེད་རང་གི་མ་ལག་སྟེང་སྒྲིག་སྦྱོར་བྱས་པའིMPlayer（1%）པར་གཞི་དེ་དུས་ལས་ཡོལ་འདུག ཆི་ལིན་གྱི་སྒྲ་བརྙན་རྒྱུན་ལྡན་ལྟར་འཁོར་སྐྱོད་བྱེད་མི་ཐུབ།འདེམ་བྱ་ཁ་ཤས་རྒྱུན་ལྡན་ལྟར་བྱ་བ་བྱེད་མི་ཐུབ་པས།ཡིག་བརྙན་འདེམ་པའི་ནུས་པ་ཤོར་འགྲོ།</translation>
     </message>
     <message>
         <source>Volume &amp;normalization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">སྒྲ་ཚད་ཚད་ལྡན་ཅན་(&amp;N)</translation>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ཡིག་བརྙན།</translation>
     </message>
     <message>
         <source>&amp;Extrastereo</source>
-        <translation type="unfinished"></translation>
+        <translation>ཟུར་སྣོན་ལངས་གཟུགས་སྒྲ་(&amp;E)</translation>
     </message>
     <message>
         <source>Size &amp;+</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེ་ཆུང་། &amp;+</translation>
     </message>
     <message>
         <source>Size &amp;-</source>
-        <translation type="unfinished"></translation>
+        <translation>ཆེ་ཆུང་&amp;-</translation>
     </message>
     <message>
         <source>While &amp;playing</source>
-        <translation type="unfinished"></translation>
+        <translation>རྩིས་གཏོང་སྐབས་།(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Always</source>
-        <translation type="unfinished"></translation>
+        <translation>ཐོག་མཐའ་བར་གསུམ་(&amp;A)</translation>
     </message>
     <message>
         <source>The server returned &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>ཞབས་ཞུ་ཆས་ཕྱིར་ལོག1%</translation>
     </message>
     <message>
         <source>&amp;Stereo mode</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་དངོས་སྣང་རྣམ་པ་(&amp;S)</translation>
     </message>
     <message>
         <source>Open &amp;File...</source>
-        <translation type="unfinished"></translation>
+        <translation>ཡིག་ཆ་ཁ་འབྱེད་(&amp;F)...</translation>
     </message>
     <message>
         <source>Delay +</source>
@@ -889,47 +889,47 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Delay -</source>
-        <translation type="unfinished"></translation>
+        <translation>ཕྱིར་འགྱངས་</translation>
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>སྨྱན་མང་</translation>
     </message>
     <message>
         <source>Volume + &amp;Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>སྒྲ་ཚད་+གནས་ངེས།</translation>
     </message>
     <message>
         <source>Normal speed</source>
-        <translation type="unfinished"></translation>
+        <translation>རྒྱུན་ལྡན་འགྲོས་ཚད།</translation>
     </message>
     <message>
         <source>Forward and rewind</source>
-        <translation type="unfinished"></translation>
+        <translation>མགྱོགས་པོར་སོང་།</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>དཀར་ཆག་ཞིག་བདམས་།</translation>
     </message>
     <message>
         <source>Play Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏོང་བའི་འགྲོས་ཚད།</translation>
     </message>
     <message>
         <source>Speed +10%</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་ཚད་+10%</translation>
     </message>
     <message>
         <source>Speed -10%</source>
-        <translation type="unfinished"></translation>
+        <translation>མྱུར་ཚད་-10%</translation>
     </message>
     <message>
         <source>Play order</source>
-        <translation type="unfinished"></translation>
+        <translation>གཏོང་རིམ།</translation>
     </message>
     <message>
         <source>E&amp;qualizer</source>
-        <translation type="unfinished"></translation>
+        <translation>སྙོམ་ཆས་(&amp;Q)</translation>
     </message>
     <message>
         <source>&amp;Rotate</source>
@@ -937,7 +937,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>&amp;URL...</source>
-        <translation type="unfinished"></translation>
+        <translation>དྲ་ཚུགས་།</translation>
     </message>
     <message>
         <source>&amp;Stereo</source>
