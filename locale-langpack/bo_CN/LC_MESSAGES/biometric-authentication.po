@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-12 02:12+0000\n"
+"PO-Revision-Date: 2020-12-15 04:58+0000\n"
 "Last-Translator: rzdj <1046447973@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/biometric-authentication/bo_CN/>\n"
@@ -139,511 +139,547 @@ msgid ""
 "Because of the scanning image quality or finger pressure problem, the "
 "sampling failed, please remove the finger and retry"
 msgstr ""
+"བཤར་འབེབས་བརྙན་གྲུབ་ཀྱི་སྤུས་ཚད་དང་ཡང་ན་མཛུབ་མོ་གནོན་ཤུགས་ཀྱི་གནད་དོན་དབང་གིས"
+"་དཔེ་སྒྲུག་ཕམ་པ། མཛུབ་མོ་སྤོས་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་ཞིག་རོགས།"
 
 msgid "Biometric Type"
-msgstr ""
+msgstr "སྐྱེ་དངོས་ཁྱད་རྟགས་རིགས།"
 
 msgid ""
 "Biometric authentication server is running, Do not restart it repeatedly\n"
 msgstr ""
+"སྐྱེ་དངོས་ཁྱད་རྟགས་ར་སྤྲོད་ཞབས་ཞུ་འཁོར་སྐྱོད་བྱེད་བཞིན་ཡོད། "
+"བསྐྱར་སློང་མ་བྱེད་རོགས།\n"
 
 msgid "Biometric framework API version:\n"
-msgstr ""
+msgstr "སྐྱེ་དངོས་ཁྱད་རྟགས་དབྱེ་འབྱེད་སྒྲོམ་གཞི་APIཔར་གཞི། ：\n"
 
 msgid "Biometric identification backend framework service is not started"
 msgstr ""
+"སྐྱེ་དངོས་ཁྱད་རྟགས་དབྱེ་འབྱེད་མཇུག་སྣེ་སྒྲོམ་གཞིའི་ཞབས་ཞུ་སྤེལ་འགོ་སློང་མེད་པ"
+"།"
 
 msgid "Builtin commands: "
-msgstr ""
+msgstr "ནང་སྒྲིག་བཀའ་བརྡ།： "
 
 msgid "BuiltinCommands"
-msgstr ""
+msgstr "ནང་སྒྲིག་བཀའ་བརྡ།"
 
 msgid "Bus Type"
-msgstr ""
+msgstr "མ་སྐུད་རིགས།"
 
 msgid "Can not get usb information\n"
-msgstr ""
+msgstr "USBའབྲེལ་ཡོད་ཆ་འཕྲིན་ལེན་མི་ཐུབ།\n"
 
 msgid "Can not open AES Key File: %s, use default key.\n"
 msgstr ""
+"AESགསང་ལྡེའི་ཡིག་ཆ་ཁ་ཕྱེ་མི་ཐུབ།：%sསོར་བཞག་གསང་ལྡེ་བཀོལ་སྣྱོད་བྱེད་རོགས།\n"
 
 msgid "Can not open PID file: %s\n"
-msgstr ""
+msgstr "PIDཡིག་ཆ་ཁ་ཕྱེ་མི་ཐུབ། ：%s\n"
 
 msgid "Can not open serial"
-msgstr ""
+msgstr "ཕྲེང་སྒོ་ཁ་འབྱེད་མི་ཐུབ།"
 
 msgid "Can't Open Serial Port: %s\n"
-msgstr ""
+msgstr "ཕྲེང་སྒོ་ཁ་འབྱེད་མི་ཐུབ།：%s\n"
 
 msgid "Can't create thread: %s\n"
-msgstr ""
+msgstr "སྐུད་རིམ་གསར་བཟོ་བྱེད་མི་ཐུབ།\n"
 
 msgid "Cancel the operation success"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་དོར་བ་ལེགས་འགྲུབ་བྱུང་།"
 
 msgid "Cannot operate device node: %s\n"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཚིགས་ཚེག་བཀོལ་སྤྱོད་བྱེད་ཐབས་མེད།\n"
 
 msgid "Capture"
-msgstr ""
+msgstr "ཟིན་པ།"
 
 msgid "Capture Result: %.*s\n"
-msgstr ""
+msgstr "ཟིན་པའི་མཇུག་འབྲས།：％。* s\n"
 
 msgid "Capture Result: ERROR\n"
-msgstr ""
+msgstr "ཟིན་པའི་མཇུག་འབྲས།：ནོར་འཁྲུལ།\n"
 
 msgid "Capture feature failed"
-msgstr ""
+msgstr "ཁྱད་རྟགས་འཛིན་བཟུང་ཕམ་པ།"
 
 msgid "Capture feature successful"
-msgstr ""
+msgstr "ཁྱད་རྟགས་འཛིན་བཟུང་ལེགས་འགྲུབ་བྱུང་།"
 
 msgid "Capture image failed"
-msgstr ""
+msgstr "བརྙན་རིས་འཛིན་བཟུང་ཕམ་པ།"
 
 msgid "Capture image success"
-msgstr ""
+msgstr "བརྙན་རིས་འཛིན་བཟུང་ལེགས་འགྲུབ་བྱུང་།"
 
 msgid "Capture operation timeout"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་འཛིན་བཟུང་དུས་བརྒལ་བ།"
 
 msgid "Capture operation was interrupted by the user"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་འཛིན་བཟུང་སྤྱོད་མཁན་གྱིས་མཇུག་སྒྲིལ།"
 
 msgid "Capture real-time template failed"
-msgstr ""
+msgstr "དུས་ཐོག་མ་དཔེ་འཛིན་བཟུང་ཕམ་པ།"
 
 msgid "Capture real-time template success"
-msgstr ""
+msgstr "དུས་ཐོག་མ་དཔེ་འཛིན་བཟུང་ལེགས་འགྲུབ་བྱུང་།"
 
 msgid "Capturing"
-msgstr ""
+msgstr "ཁྱད་རྟགས་འཛིན་བཟུང་བྱེད་བཞིན་ཡོད།"
 
 msgid "Character string: %s\n"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ཡིག་རྟགས་ཕྲེང་བ།：%s\n"
 
 msgid "Check database format version ...\n"
-msgstr ""
+msgstr "གཞི་གྲངས་མཛོད་རྣམ་གཞག་པར་གཞི་ཞིབ་བཤེར།\n"
 
 msgid "Clean"
 msgstr "གཙང་སེལ།"
 
 msgid "Clean feature failed"
-msgstr ""
+msgstr "ཁྱད་རྟགས་གཙང་སེལ་ཕམ་པ།"
 
 msgid "Clean feature successful"
-msgstr ""
+msgstr "ཁྱད་རྟགས་གཙང་སེལ་ལེགས་གྲུབ་བྱུང་།"
 
 msgid "Clean operation timeout"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་གཙང་སེལ་དུས་བརྒལ་བ།"
 
 msgid "Clean operation was interrupted by the user"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་གཙང་སེལ་སྤྱོད་མཁན་གྱིས་མཇུག་སྒྲིལ།"
 
 msgid "Cleaning"
-msgstr ""
+msgstr "ཁྱད་རྟགས་གཞི་གྲངས་ལེགས་སྒྲིག་བྱེད་བཞིན་ཡོད།"
 
 msgid ""
 "Client APP_API is newer than biometric identification framework service. "
 "Please upgrade framework service or degrade client.\n"
 msgstr ""
+"མཁོ་མཁན་སྣེའི་APP_APIསྐྱེ་དངོས་ཁྱད་རྟགས་ངོས་འཛིན་སྒྲོམ་གཞི་ཞབས་ཞུ་ལས་གསར་པས། "
+"སྒྲོམ་གཞིའི་ཞབས་ཞུ་རིམ་སྤོར་དང་ཡང་ན་མཁོ་མཁན་སྣེའི་རིམ་པ་གཅོག་པ།\n"
 
 msgid ""
 "Client APP_API is older than biometric identification framework service. "
 "Please degrade framework service or upgrade client.\n"
 msgstr ""
+"མཁོ་མཁན་སྣེའི་APP_APIསྐྱེ་དངོས་ཁྱད་རྟགས་ངོས་འཛིན་སྒྲོམ་གཞི་ཞབས་ཞུ་ལས་རྙིང་པས།"
+" སྒྲོམ་གཞིའི་ཞབས་ཞུ་རིམ་སྤོར་དང་ཡང་ན་མཁོ་མཁན་སྣེ་རིམ་སྤོར་བྱེད་རོགས།\n"
 
 msgid "Close"
 msgstr "ཁ་རྒྱག་པ།"
 
 msgid "Close Device: %s\n"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁ་རྒྱག་པ།：％s\n"
 
 msgid "Close device completion"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁ་བརྒྱབ་ཚར།"
 
 msgid "Close device failed"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁ་རྒྱག་མ་ཐུབ།"
 
 msgid "Closing"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁ་རྒྱག་བཞིན་ཡོད།"
 
 msgid "Collect finger vein characteristics error"
-msgstr ""
+msgstr "མཛུབ་མོའི་སྡོད་རྩ་སྒྲུག་པར་རྟགས་ནོར་འཁྲུལ་བྱུང་འདུག"
 
 msgid "Collect fingerprint characteristics error"
-msgstr ""
+msgstr "མཛུབ་རིས་ཁྱད་རྟགས་སྒྲུག་པར་ནོར་འཁྲུལ་བྱུང་འདུག"
 
 msgid "Collecting finger vein characteristics, please press you finger"
-msgstr ""
+msgstr "མཛུབ་མོའི་སྡོད་རྩ་ཆ་འཕྲིན་སྒྲུག་བཞིན་ཡོད།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid ""
 "Collecting fingerprint characteristics, please keep your finger pressed"
-msgstr ""
+msgstr "མཛུབ་རིས་སྒྲུག་བཞིན་ཡོད་།མཛུབ་མོ་གནོན་པའི་རྣམ་པ་རྒྱུན་འཁྱོངས་བྱེད་རོགས།"
 
 msgid "Collecting fingerprint characteristics, please press you finger"
-msgstr ""
+msgstr "མཛུབ་རིས་ཀྱི་ཆ་འཕྲིན་སྒྲུག་བཞིན་ཡོད།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid "Come closer"
-msgstr ""
+msgstr "ཉེ་བར་བྱེད་རོགས།"
 
 msgid "Command: 0x%02X returns data checksum error\n"
-msgstr ""
+msgstr "བཀའ་བརྡ།:0x%02X གཞི་གྲངས་དག་བཤེར་དང་ནོར་འཁྲུལ་ཕྱིར་ལོག\n"
 
 msgid "Common"
 msgstr "ཀུན་སྤྱོད།"
 
 msgid "Could not open device (driver %s)"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁ་ཕྱེ་ཐུབ་མ་སོང་།（འདེད་སྐུལ། %s）"
 
 msgid "Create Biometric Datebase Directory (%s) Error\n"
 msgstr ""
+"སྐྱེ་དངོས་ཁྱད་རྟགས་ངོས་འཛིན་གཞི་གྲངས་མཛོད་གསོག་འཇོག་དཀར་ཆག་(%s)གསར་བཟོ་མི་ཐུབ"
+"།\n"
 
 msgid ""
 "Create Table %s:\n"
 "%s\n"
 msgstr ""
+"གསར་བཟོ་རེའུ་མིག  %s：\n"
+"%s\n"
 
 msgid "Create Table '%s' Error: %s\n"
-msgstr ""
+msgstr "གསར་བཟོ་རེའུ་མིག'%s' ནོར་འཁྲུལ།：%s\n"
 
 msgid "Create UD650 algorithms library error[%d]\n"
-msgstr ""
+msgstr "UD650རྩི་ཐབས་མཛོད་གསར་བཟོ་ནོར་འཁྲུལ་བྱུང་། [％d]\n"
 
 msgid "Current device list:"
-msgstr ""
+msgstr "མིག་སྔའི་སྒྲིག་ཆས་རེའུ་མིག："
 
 msgid "Current driver list:"
-msgstr ""
+msgstr "མིག་སྔའི་འདེད་སྐུལ་རེའུ་མིག："
 
 msgid "Current send data: "
-msgstr ""
+msgstr "མིག་སྔའི་གཞི་གྲངས་བསྐུར་བ།： "
 
 msgid "Database format version is %d.%d.%d\n"
-msgstr ""
+msgstr "གཞི་གྲངས་མཛོད་ཀྱི་རྣམ་གཞག་པར་གཞི།％d  ％d  ％d\n"
 
 msgid "Delete fingerprint failed\n"
-msgstr ""
+msgstr "མཛུབ་རིས་སུབ་མ་ཐུབ།\n"
 
 msgid "Delete the contrast space data error"
-msgstr ""
+msgstr "སྡུར་བའི་བར་སྟོང་གཞི་གྲངས་སུབ་དུས་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "Delete user %s template failed"
-msgstr ""
+msgstr "%s སྤྱོད་མཁན་དཔེ་པང་སུབ་དུས་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "Delete user %s template success"
-msgstr ""
+msgstr "%s སྤྱོད་མཁན་དཔེ་པང་སུབ་པ་ལེགས་གྲུབ་འཁྲུལ་བྱུང་།"
 
 msgid "Detect %s device\n"
-msgstr ""
+msgstr "སྒྲིག་ཆས་%s བཤེར་འཇལ།\n"
 
 msgid ""
 "Detected Compatibility issues: %s driver version is higher than biometric "
 "framework\n"
 msgstr ""
+"འཆམ་མཐུན་རང་བཞིན་གྱི་གནད་དོན་བཤེར་འཇལ་བྱས་ཟིན།：%sའདེད་སྐུལ་གྱི་པར་གཞི་དེ་སྐྱེ"
+"་དངོས་ཁྱད་རྟགས་ངོས་འཛིན་སྒྲོམ་གཞི་ལས་མཐོ་བ།\n"
 
 msgid ""
 "Detected Compatibility issues: %s driver version is lower than biometric "
 "framework\n"
 msgstr ""
+"འཆམ་མཐུན་རང་བཞིན་གྱི་གནད་དོན་བཤེར་འཇལ་བྱས་ཟིན།：%sའདེད་སྐུལ་གྱི་པར་གཞི་དེ་སྐྱེ"
+"་དངོས་ཁྱད་རྟགས་ངོས་འཛིན་སྒྲོམ་གཞི་ལས་དམའ་བ།\n"
 
 msgid "Device"
 msgstr "སྒྲིག་ཆས།"
 
 msgid "Device %s[%d] received interrupt request\n"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ %s[%d]བར་གཅོད་རེ་ཞུ་འབྱོར།\n"
 
 msgid "Device BBC check error"
-msgstr ""
+msgstr "སྒྲིག་ཆས་BBCདག་བཤེར་ནོར་འཁྲུལ།"
 
 msgid "Device Status: [%d]%s\n"
-msgstr ""
+msgstr "སྒྲིག་ཆས་རྣམ་པ།：[%d]%s\n"
 
 msgid "Device and OS"
-msgstr ""
+msgstr "སྒྲིག་ཆས་དང་རྒྱུད་ཁོངས།"
 
 msgid "Device attached: %04x:%04x\n"
-msgstr ""
+msgstr "སྒྲིག་ཆས་བར་འཇུག：%04x:%04x\n"
 
 msgid "Device busy"
-msgstr ""
+msgstr "སྒྲིག་ཆས་བྲེལ་ཆེ།"
 
 msgid "Device detached: %04x:%04x\n"
-msgstr ""
+msgstr "སྒྲིག་ཆས་བཀོག་པ། ：%04x:%04x\n"
 
 msgid "Device failed to open"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁ་འབྱེད་ནོར་འཁྲུལ།"
 
 msgid "Device idle"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཁོམ་པ།"
 
 msgid "Device internal error"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ནང་ཁུལ་ནོར་འཁྲུལ།"
 
 msgid "Device is disable"
-msgstr ""
+msgstr "སྒྲིག་ཆས་སྤྱོད་མི་ཆོག"
 
 msgid "Device is disabled"
-msgstr ""
+msgstr "སྒྲིག་ཆས་སྤྱོད་མི་ཆོག"
 
 msgid "Device is in an unknown status..."
-msgstr ""
+msgstr "སྒྲིག་ཆས་མི་ཤེས་མེད་པའི་རྣམ་པར་གནས།"
 
 msgid "Device is in process"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཐག་གཅོད་བྱེད་བཞིན་པའི་སྒང་།"
 
 msgid "Device operates abnormally, hardware version does not match"
-msgstr ""
+msgstr "སྒྲིག་ཆས་རྒྱུན་འགལ།སྲ་ཆས་པར་གཞི་མི་འཚམ།"
 
 msgid "Device returns unknown data and skips processing"
-msgstr ""
+msgstr "སྒྲིག་ཆས་ཡིས་མ་ཤེས་པའི་གཞི་གྲངས་ཕྱིར་ལོག སྒྲིག་གཅོད་མི་བྱེད།"
 
 msgid "Device started successfully! The current version is: v"
-msgstr ""
+msgstr "སྒྲིག་ཆས་འགོ་སློང་ལེགས་གྲུབ་བྱུང་།མིག་སྔའི་པར་གཞི་མི：v"
 
 msgid "Device unknown status code: %d\n"
-msgstr ""
+msgstr "སྒྲིག་ཆས་མ་ཤེས་པའི་རྣམ་པའི་ཨང་།：%d\n"
 
 msgid ""
 "Didn't catch that, please center your finger on the sensor and try again."
-msgstr ""
+msgstr "མཛུབ་མོ་སྒྲིག་ཆས་ལས་ཡོ་བས་དཔེ་སྒྲུག་མ་ཐུབ།མཛུབ་མོ་ཡང་བསྐྱར་འཇོག་རོགས།"
 
 msgid "Disable"
 msgstr "འགོག་སྤྱོད།"
 
 msgid "Disable driver"
-msgstr ""
+msgstr "འདེད་སྐུལ་སྤྱོད་མི་ཆོག"
 
 msgid "Don't squint"
-msgstr ""
+msgstr "གསེག་ལྟ་མ་བྱེད་རོགས།"
 
 msgid "Driver %s does not exist\n"
-msgstr ""
+msgstr "འདེད་སྐུལ་%s མི་གནས།\n"
 
 msgid ""
 "Driver %s does not exist, if you need to ignore the problem, use -i "
 "parameter\n"
 msgstr ""
+"འདེད་སྐུལ་%s "
+"མི་གནས།གལ་ཏེ་གནད་དོན་དེ་སྣང་མེད་དུ་བཞག་དགོས་ན།ཞུགས་གྲངས་-iསྤྱོད་རོགས།\n"
 
 msgid "Driver %s initialization failed\n"
-msgstr ""
+msgstr "འདེད་སྐུལ་ %s འགོ་སྒྲིག་ཕམ་པ།\n"
 
 msgid "Driver Full Name"
-msgstr ""
+msgstr "འདེད་སྐུལ་མིང་ཡོངས།"
 
 msgid "Driver ID"
-msgstr ""
+msgstr "འདེད་སྐུལID"
 
 msgid "Driver Name"
-msgstr ""
+msgstr "འདེད་སྐུལ་མིང་།"
 
 msgid "Driver(or Device) ID"
-msgstr ""
+msgstr "འདེད་སྐུལ།（ཡང་ན་སྒྲིག་ཆས།）ID"
 
 msgid "Driver1 [Driver2 ...]"
-msgstr ""
+msgstr "འདེད་སྐུལ1 [འདེད་སྐུལ2 ...]"
 
 msgid "DriverName DriverFilePath"
-msgstr ""
+msgstr "འདེད་སྐུལ་མིང་།འདེད་སྐུལ་ཡིག་ཆའི་འགྲོ་ལམ།"
 
 msgid "DriverName Key"
-msgstr ""
+msgstr "འདེད་སྐུལ་མིང་།རྡང་མིང་།"
 
 msgid "DriverName Key Value"
-msgstr ""
+msgstr "འདེད་སྐུལ་མིང་།རྡང་མིང་།རྡང་ཐང་།"
 
 msgid "Dynamic link library %s has been loaded\n"
-msgstr ""
+msgstr "འགུལ་རྣམ་སྦྲེལ་མཐུད་མཛོད་ %s ཁུར་སྣོན་བྱས་ཟིན།\n"
 
 msgid "Eigen Type"
-msgstr ""
+msgstr "ཁྱད་རྟགས་རིགས།"
 
 msgid "Eigen Value"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ཐང་།"
 
 msgid "Eigen Vector"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ཕྱོགས་ཚད།"
 
 msgid "Enable"
 msgstr "སྤྱོད་འགོ་འཛུགས་པ།"
 
 msgid "Enable driver"
-msgstr ""
+msgstr "འདེད་སྐུལ་སྤྱོད་པ།"
 
 msgid "End of Feature Index (default -1, means search all)"
 msgstr ""
+"མཇུག་རྫོགས་པའི་ཁྱད་རྟགས་གསལ་བང་།（སོར་གཞག་གྲངས-1 "
+"ཡིས་ཁྱད་རྟགས་ཡོད་ཚད་འཚོལ་བཤེར་མཚོན།）"
 
 msgid "Enroll"
-msgstr ""
+msgstr "ཕབ་འཇུག"
 
 msgid "Enroll Result: Fail\n"
-msgstr ""
+msgstr "ཕབ་འཇུག་མཇུག་འབྲས།：ཕམ་པ།\n"
 
 msgid "Enroll Result: Success\n"
-msgstr ""
+msgstr "ཕབ་འཇུག་མཇུག་འབྲས།：ལེགས་གྲུབ།\n"
 
 msgid "Enroll failed, ID: %s"
-msgstr ""
+msgstr "ཕབ་འཇུག་ནོར་འཁྲུལ།ID: %s"
 
 msgid ""
 "Enroll failed: The feature was successfully sampled, but the encoding of the"
 " sampling feature could not be generated"
 msgstr ""
+"ཕབ་འཇུག་ཕམ་པ།：ཁྱད་རྟགས་དཔེ་སྒྲུག་ལེགས་གྲུབ་བྱུང་མོད།འོན་ཀྱང་དཔེ་སྒྲུག་ཁྱད་རྟག"
+"ས་གྲུབ་པའི་སྒྲིག་ཨང་འགྲུབ་ཐབས་མེད།"
 
 msgid "Enroll feature failed"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ཕབ་འཇུག་ཕམ་པ།"
 
 msgid "Enroll feature successful"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ཕབ་འཇུག་ལེགས་གྲུབ་བྱུང་།"
 
 msgid "Enroll operation timeout"
-msgstr ""
+msgstr "ཁྱད་རྟགས་བཀོལ་སྤྱོད་དུས་བརྒལ།"
 
 msgid "Enroll operation was interrupted by the user"
-msgstr ""
+msgstr "བཀོལ་སྤྱོད་ཕབ་འཇུག་སྤྱོད་མཁན་གྱིས་བར་བཅད།"
 
 msgid "Enroll success"
-msgstr ""
+msgstr "ཕབ་འཇུག་ལེགས་གྲུབ་བྱུང་།"
 
 msgid "Enroll success, ID: %s"
-msgstr ""
+msgstr "ཕབ་འཇུག་ལེགས་གྲུབ་བྱུང་།ID: %s"
 
 msgid "Enroll success, the user already exists, correct ID: %s"
-msgstr ""
+msgstr "ཕབ་འཇུག་ལེགས་གྲུབ་བྱུང་།སྤྱོད་མཁན་གནས་ཡོད།སྲོང་བ།ID: %s"
 
 msgid "Enrolled ID: %d\n"
-msgstr ""
+msgstr "ཕབ་འཇུག་བྱས་པའི་ID: %d\n"
 
 msgid "Enrolling"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ཕབ་འཇུག་བྱེད་བཞིན་ཡོད།"
 
 msgid ""
 "Enrollment failed due to incomprehensible data. (Please use the same finger "
 "at different sampling stages of the same enroll)"
 msgstr ""
+"དཔེ་སྒྲུག་གཞི་གྲངས་ལ་གོ་བ་ལེན་མ་ཐུབ་པས་ཕབ་འཇུག་ཕམ་པར་གྱུར།（ཐེངས་གཅིག་ཕབ་འཇུག་"
+"བྱས་པའི་དུས་རིམ་མི་འདྲ་བར་མཛུབ་མོ་གཅིག་འདྲ་སྤྱོད་རོགས།）"
 
 msgid "Error getting device descriptor"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།：ཐོབ་ཐབས་བྲལ་བའི་སྒྲིག་ཆས་ཞིབ་བརྗོད་རྟགས།"
 
 msgid "Error parsing commandline options: %s\n"
-msgstr ""
+msgstr "བཀའ་ཕྲེང་འདེམས་ཚན་ཞིབ་འགྲེལ་ནོར་འཁྲུལ།：%s\n"
 
 msgid "Error: Can not get device descriptor\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།：ཐོབ་ཐབས་བྲལ་བའི་སྒྲིག་ཆས་ཞིབ་བརྗོད་རྟགས།\n"
 
 msgid "Error: Can not register attach callback error\n"
 msgstr ""
+"ནོར་འཁྲུལ།： attch ཐོ་འགོད་མི་ཐུབ།རྟེན་འབྱུང་གྲངས་ཕྱིར་འདོན་སྤྱོད་བྱེད་པ།\n"
 
 msgid "Error: Can not register detach callback error\n"
 msgstr ""
+"ནོར་འཁྲུལ།： detachཐོ་འགོད་མི་ཐུབ།རྟེན་འབྱུང་གྲངས་ཕྱིར་འདོན་སྤྱོད་བྱེད་པ།\n"
 
 msgid "Error: Failed to export object. Reason: %s\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།：བྱ་ཡུལ་ཕྱིར་འདྲེན་ཕམ་པ། རྒྱུ་རྐྱེན།：%s\n"
 
 msgid "Error[%d]: %s\n"
-msgstr ""
+msgstr "ནོར་འཁྲུལ།[%d]：%s\n"
 
 msgid "Face"
-msgstr ""
+msgstr "མིའི་གདོང་།"
 
 msgid "Failed to call function %s\n"
-msgstr ""
+msgstr "རྟེན་འབྱུང་གྲངས་%sའདོན་སྤྱོད་ཕམ་པ།\n"
 
 msgid "Failed to initialize libfprint\n"
-msgstr ""
+msgstr "libfprint འགོ་སྒྲིག་ཕམ་པ།\n"
 
 msgid "Failed to migrate data from the original table: %s\n"
-msgstr ""
+msgstr "ཐོག་མའི་གཞི་གྲངས་རེའུ་མིག་ནང་ནས་གཞི་གྲངས་སྤོ་བ་ཕམ་པ།：%s\n"
 
 msgid "Failed to upgrade database format：version %d.%d.%d to %d.%d.%d\n"
-msgstr ""
+msgstr "གཞི་གྲངས་མཛོད་ཀྱི་རྣམ་གཞག་རིམ་སྤོར་ཕམ་པ།：པར་གཞི། %d.%d.%d ནས %d.%d.%d\n"
 
 msgid "Failure to modify the owner and group of %s. ERROR[%d]: %s\n"
 msgstr ""
+"%sཁོངས་གཏོགས་གཙོ་བོ་དང་ཁོངས་གཏོགས་ཚོགས་བཟོ་བཅོས་ཕམ་པ། ནོར་འཁྲུལ།[%d]：%s\n"
 
 msgid "Feature Index"
-msgstr ""
+msgstr "ཁྱད་རྟགས་གསལ་བང་།"
 
 msgid "Feature Name"
-msgstr ""
+msgstr "ཁྱད་རྟགས་མིང་།"
 
 msgid "Feature renaming is not complete, please try again"
-msgstr ""
+msgstr "ཁྱད་རྟགས་མིང་བསྐྱར་འདོགས་ཆ་མི་ཚང་བས།ཡང་བསྐྱར་ཚོད་ལྟ་ཞིག་བྱེད་རོགས།"
 
 msgid "File length error"
-msgstr ""
+msgstr "ཡིག་ཆའི་རིང་ཚད་ནོར་འཁྲུལ།"
 
 msgid "Find Table '%s' Error: %s\n"
-msgstr ""
+msgstr "འཚོལ་ཞིབ་རེའུ་མིག'%s' ནོར་འཁྲུལ：%s\n"
 
 msgid "Find the following feature matching:\n"
-msgstr ""
+msgstr "གཤམ་གྱི་ཟླ་སྒྲིག་གི་ཁྱད་རྟགས་རྙེད་སོང་།：\n"
 
 msgid "Find the specified features"
-msgstr ""
+msgstr "དམིགས་འཛུགས་བྱས་པའི་ཁྱད་རྟགས་རྙེད་སོང་།"
 
 msgid "Finger Print"
 msgstr "མཛུབ་རིས།"
 
 msgid "Finger Vein"
-msgstr ""
+msgstr "མཛུབ་མོའི་སྡོད་རྩ།"
 
 msgid "Finger vein characteristics collected, please raise your finger"
-msgstr ""
+msgstr "མཛུབ་མོའི་སྡོད་རྩའི་ཆ་འཕྲིན་དཔེ་སྒྲུག་བྱས་ཟིན།མཛུབ་མོ་ཡར་འཇོག་རོགས།"
 
 msgid "Fingerprint characteristics collected, please raise your finger"
-msgstr ""
+msgstr "མཛུབ་རིས་ཆ་འཕྲིན་དཔེ་སྒྲུག་བྱས་ཟིན།མཛུབ་མོ་ཡར་འཇོག་རོགས།"
 
 msgid ""
 "For the 2nd collection finger vein characteristics, please press you finger"
 msgstr ""
+"མཛུབ་མོའི་སྡོད་རྩའི་ཆ་འཕྲིན་ཐེངས་གཉིས་པ་དཔེ་སྒྲུག་བྱེད་པ།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid ""
 "For the 2nd collection fingerprint characteristics, please press you finger"
-msgstr ""
+msgstr "མཛུབ་རིས་ཆ་འཕྲིན་ཐེངས་གཉིས་པ་དཔེ་སྒྲུག་བྱེད་པ།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid ""
 "For the 3rd collection finger vein characteristics, please press you finger"
 msgstr ""
+"མཛུབ་མོའི་སྡོད་རྩའི་ཆ་འཕྲིན་ཐེངས་གསུམ་པ་དཔེ་སྒྲུག་བྱེད་པ།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid ""
 "For the 3rd collection fingerprint characteristics, please press you finger"
-msgstr ""
+msgstr "མཛུབ་རིས་ཆ་འཕྲིན་ཐེངས་གསུམ་པ་དཔེ་སྒྲུག་བྱེད་པ།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid ""
 "For the 4th collection finger vein characteristics, please press you finger"
 msgstr ""
+"མཛུབ་མོའི་སྡོད་རྩའི་ཆ་འཕྲིན་ཐེངས་བཞི་བ་དཔེ་སྒྲུག་བྱེད་པ།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid ""
 "For the 4th collection fingerprint characteristics, please press you finger"
-msgstr ""
+msgstr "མཛུབ་རིས་ཆ་འཕྲིན་ཐེངས་བཞི་བ་དཔེ་སྒྲུག་བྱེད་པ།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid ""
 "For the 5th collection finger vein characteristics, please press you finger"
 msgstr ""
+"མཛུབ་མོའི་སྡོད་རྩའི་ཆ་འཕྲིན་ཐེངས་ལྔ་བ་དཔེ་སྒྲུག་བྱེད་པ།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid ""
 "For the 5th collection fingerprint characteristics, please press you finger"
-msgstr ""
+msgstr "མཛུབ་རིས་ཆ་འཕྲིན་ཐེངས་ལྔ་བ་དཔེ་སྒྲུག་བྱེད་པ།མཛུབ་མོ་སྣོན་རོགས།"
 
 msgid "Forcibly overrides the existing key"
-msgstr ""
+msgstr "གནས་པའི་མཐེབ་ལ་བཙན་འགེབས་བྱེད་པ།"
 
 msgid ""
 "Framework automatically assigns the free index '%d' to driver %s user %d\n"
 msgstr ""
+"སྒྲོམ་གཞི་རང་འགུལ་ངང་ཁོམ་ལོང་བྱུང་བའི་གསལ་བང་བགོ་བཤའ།（འདེད་སྐུལ%s "
+"སྤྱོད་མཁན་གྱི་ %dབགོས།）\n"
 
 msgid "Function XG_DetectUsbDev is NULL\n"
-msgstr ""
+msgstr "XG_DetectUsbDevརྟེན་འབྱུང་གྲངས་མི་གནས།\n"
 
 msgid "Function XG_OpenVeinDev is NULL\n"
-msgstr ""
+msgstr "XG_OpenVeinDevརྟེན་འབྱུང་གྲངས་མི་གནས།\n"
 
 msgid "Generate fingerprint characteristics failed"
-msgstr ""
+msgstr "མཛུབ་རིས་ཁྱད་རྟགས་གྲུབ་པར་ཕམ་པ།"
 
 msgid "Generate fingerprint template failed"
 msgstr "མཛུབ་རིས་མ་དཔེ་འགྲུབ་པ་ཕམ་པ།"
