@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-15 04:58+0000\n"
+"PO-Revision-Date: 2020-12-16 04:28+0000\n"
 "Last-Translator: rzdj <1046447973@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/biometric-authentication/bo_CN/>\n"
@@ -685,159 +685,161 @@ msgid "Generate fingerprint template failed"
 msgstr "མཛུབ་རིས་མ་དཔེ་འགྲུབ་པ་ཕམ་པ།"
 
 msgid "Generate real-time template failed"
-msgstr ""
+msgstr "དུས་ཐོག་དཔེ་པང་འབྱུང་བར་ཕམ་པ།"
 
 msgid "Generate real-time template success"
-msgstr ""
+msgstr "དུས་ཐོག་དཔེ་པང་འབྱུང་བར་ལེགས་གྲུབ་བྱུང་།"
 
 msgid "Get AES Key File Error[%d]: %s, use default Key.\n"
-msgstr ""
+msgstr "AESགསང་ལྡེ་ཡིག་ཆ་ཐོབ་པར་ནོར་འཁྲུལ། [%d]：%sསོར་བཞག་གསང་ལྡེ་སྤྱོད་པ།\n"
 
 msgid "Get R301 device parameter failed\n"
-msgstr ""
+msgstr "R301སྒྲིག་ཆས་ཞུགས་གྲངས་ཐོབ་ཐུབ་མ་སོང་།\n"
 
 msgid "Get UD650 algorithms library version error"
-msgstr ""
+msgstr "UD650རྩི་ཐབས་མཛོད་པར་གཞི་ནོར་འདུག"
 
 msgid "Get UD650 driver library version error\n"
-msgstr ""
+msgstr "UD650འདེད་སྐུལ་མཛོད་པར་གཞི་ནོར་འཁྲུལ་བྱུང་།\n"
 
 msgid "Get USB Device List Error\n"
-msgstr ""
+msgstr "USBསྒྲིག་ཆས་རེའུ་མིག་ཐོབ་ཐུབ་མ་སོང་།\n"
 
 msgid "Get basic parameters failed\n"
-msgstr ""
+msgstr "གཞི་རྩའི་ཞུགས་གྲངས་ཐོབ་ཐུབ་མ་སོང་།\n"
 
 msgid "Get data from the contrast space error"
-msgstr ""
+msgstr "བསྡུར་བའི་བར་སྟོང་གཞི་གྲངས་ནོར་འདུག"
 
 msgid "Get device status success, device operates normally"
-msgstr ""
+msgstr "ཐོབ་པའི་རྣམ་པ་ལེགས་གྲུབ་བྱུང་།སྒྲིག་ཆས་ལས་དོན་རྒྱུན་ལྡན།"
 
 msgid "Get feature list completion"
-msgstr ""
+msgstr "ཁྱད་རྟགས་རེའུ་མིག་ཐོབ་ཟིན།"
 
 msgid "Get feature list failed"
-msgstr ""
+msgstr "ཁྱད་རྟགས་རེའུ་མིག་ཐོབ་ཐུབ་མ་སོང་།"
 
 msgid "Get fingerprint characteristics failed\n"
-msgstr ""
+msgstr "མཛུབ་རིས་ཁྱད་རྟགས་ཐོབ་མ་སོང་།\n"
 
 msgid "Get function %s handle error: %s\n"
-msgstr ""
+msgstr "རྟེན་འབྱུང་གྲངས་ %sཡི་ཚིག་སྣེ་ཐོབ་ཐུབ་མ་སོང་།：%s\n"
 
 msgid "Get message failed\n"
-msgstr ""
+msgstr "ཚགས་ཡིག་ཐོབ་ཐུབ་མ་སོང་།\n"
 
 msgid "Get message header failed\n"
-msgstr ""
+msgstr "ཚགས་ཡིག་མགོ་ཐོབ་ཐུབ་མ་སོང་།\n"
 
 msgid "Get serial attribute failed\n"
-msgstr ""
+msgstr "ཕྲེང་ཁའི་གཏོགས་གཤིས་ཐོབ་ཐུབ་མ་སོང་།\n"
 
 msgid "Get user %s's template failed"
-msgstr ""
+msgstr "སྤྱོད་མཁན་%s་ཡི་དཔེ་པང་ཐོབ་ཐུབ་མ་སོང་།"
 
 msgid "Get user %s's template failed\n"
-msgstr ""
+msgstr "སྤྱོད་མཁན་%s་ཡི་དཔེ་པང་ཐོབ་ཐུབ་མ་སོང་།\n"
 
 msgid "Get user %s's template success"
-msgstr ""
+msgstr "སྤྱོད་མཁན་%sཡི་དཔེ་པང་ཐོབ་ཟིན།"
 
 msgid "GetFeatureList"
-msgstr ""
+msgstr "ཁྱད་རྟགས་རེའུ་མིག་ཐོབ་པ།"
 
 msgid "Gets the function '%s' error from UD650 driver: %s\n"
-msgstr ""
+msgstr "UD650འདེད་སྐུལ་ནས་རྟེན་འབྱུང་གྲངས་ '%s' ཐོབ་ཐུབ་མ་སོང་།：%s\n"
 
 msgid "Getting feature list"
-msgstr ""
+msgstr "ཁྱད་རྟགས་རེའུ་མིག་འཐོབ་བཞིན་ཡོད།"
 
 msgid "Hardware"
 msgstr "སྲ་ཆས།"
 
 msgid "Hardware level cancel success, device status: %d\n"
-msgstr ""
+msgstr "འདོར་བ་ལེགས་གྲུབ་བྱུང་།སྒྲིག་ཆས་རྣམ་པ་ནི།：%d\n"
 
 msgid "ID: %s enroll failed, ret: 0x%02X"
-msgstr ""
+msgstr "ID: %s ཕབ་འཇུག་ནོར་འཁྲུལ།ཕྱིར་ལོག་ཐང་གྲངས།：0x%02X"
 
 msgid "Identified ID: %d\n"
-msgstr ""
+msgstr "ངོས་འཛིན་ཟིན་པའི་ID: %d\n"
 
 msgid "Identify"
-msgstr ""
+msgstr "ངོས་འཛིན།"
 
 msgid "Identify Result: No Match\n"
-msgstr ""
+msgstr "ངོས་འཛིན་མཇུག་འབྲས།：ཟླ་སྒྲིག་མིན་པ།\n"
 
 msgid "Identify Result: UID = %d\n"
-msgstr ""
+msgstr "ངོས་འཛིན་མཇུག་འབྲས།：UID = %d\n"
 
 msgid "Identify Type"
-msgstr ""
+msgstr "ངོས་འཛིན་རིགས།"
 
 msgid "Identify failed"
-msgstr ""
+msgstr "ངོས་འཛིན་ཕམ་པ།"
 
 msgid "Identify feature match"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ངོས་འཛིན་ཟླ་སྒྲིག"
 
 msgid "Identify feature no match"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ངོས་འཛིན་ཟླ་སྒྲིག་མིན་པ།"
 
 msgid "Identify operation timeout"
-msgstr ""
+msgstr "ངོས་འཛིན་བཀོལ་སྤྱོད་དུས་བརྒལ།"
 
 msgid "Identify operation was interrupted by the user"
-msgstr ""
+msgstr "ངོས་འཛིན་བཀོལ་སྤྱོད་སྤྱོད་མཁན་གྱིས་མཇུག་སྒྲིལ།"
 
 msgid "Identify success"
-msgstr ""
+msgstr "ངོས་འཛིན་ལེགས་གྲུབ་བྱུང་།"
 
 msgid "Identify success, ID: %s"
-msgstr ""
+msgstr "ངོས་འཛིན་ལེགས་གྲུབ་བྱུང་།ID: %s"
 
 msgid "Identifying"
-msgstr ""
+msgstr "ཁྱད་རྟགས་ངོས་འཛིན་བྱེད་བཞིན་ཡོད།"
 
 msgid "Ignore nonexistent drivers"
-msgstr ""
+msgstr "མི་གནས་པའི་འདེད་སྐུལ་དོ་སྣང་བྱེད་མི་དགོས།"
 
 msgid "Ignore this setting if the key already exists"
-msgstr ""
+msgstr "གལ་ཏེ་མཐེབ་ཡོད་ན།སྒྲིག་འགོད་སྣང་མེད་དུ་བཞག"
 
 msgid "Illegal data packets"
-msgstr ""
+msgstr "མི་མཐུན་པའི་གཞི་གྲངས་ཐུམ།"
 
 msgid ""
 "Incompatible version of the database format: %d.%d.%d. Version required for "
 "the current framework: %d.%d.x"
 msgstr ""
+"འཆམ་མཐུན་མིན་པའི་གཞི་གྲངས་མཛོད་པར་གཞི།：%d.%d.%dམིག་སྔའི་རྟགས་སྒྲོམ་ལ་%d.%d.x "
+"པར་གཞི་དགོས།"
 
 msgid "Init libusb Error\n"
-msgstr ""
+msgstr "libusbམཛོད་འགོ་སྒྲིག་མ་ཐུབ་པ།\n"
 
 msgid "InitDBusCommunicationServer: Server started\n"
-msgstr ""
+msgstr "InitDBusCommunicationServer：ཞབས་ཞུའི་སྣེ་འགོ་སློང་།\n"
 
 msgid "Initial biometric recognition framework failed\n"
-msgstr ""
+msgstr "སྐྱེ་དངོས་ཁྱད་རྟགས་ངོས་འཛིན་སྒྲོམ་གཞི་འགོ་སྒྲིག་མ་ཐུབ་པ།\n"
 
 msgid "Initialize UD650 algorithms library error"
-msgstr ""
+msgstr "UD650རྩི་ཐབས་མཛོད་འགོ་སྒྲིག་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "Initializing device ..."
-msgstr ""
+msgstr "སྒྲིག་ཆས་འགོ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
 
 msgid "Input parameter error\n"
-msgstr ""
+msgstr "ཞུགས་གྲངས་ཕབ་འཇུག་ནོར་འཁྲུལ་བྱུང་།\n"
 
 msgid "Iris"
-msgstr ""
+msgstr "འཇའ་སྐྱི།"
 
 msgid "Issue configuration parameter success"
-msgstr ""
+msgstr "གཤམ་བསྒྲགས་བཀོད་སྒྲིག་ཞུགས་གྲངས་ལེགས་གྲུབ་བྱུང་།"
 
 msgid "Issue template failed"
 msgstr ""
