@@ -837,19 +837,19 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">ཆ་འཕྲིན།</translation>
+        <translation>ཆ་འཕྲིན།</translation>
     </message>
     <message>
         <source>The version of MPlayer (%1) installed on your system is obsolete. kylin-video can&apos;t work well with it: some options won&apos;t work, subtitle selection may fail...</source>
-        <translation type="unfinished">ཁྱེད་རང་གི་མ་ལག་སྟེང་སྒྲིག་སྦྱོར་བྱས་པའིMPlayer（1%）པར་གཞི་དེ་དུས་ལས་ཡོལ་འདུག ཆི་ལིན་གྱི་སྒྲ་བརྙན་རྒྱུན་ལྡན་ལྟར་འཁོར་སྐྱོད་བྱེད་མི་ཐུབ།འདེམ་བྱ་ཁ་ཤས་རྒྱུན་ལྡན་ལྟར་བྱ་བ་བྱེད་མི་ཐུབ་པས།ཡིག་བརྙན་འདེམ་པའི་ནུས་པ་ཤོར་འགྲོ།</translation>
+        <translation>ཁྱེད་རང་གི་མ་ལག་སྟེང་སྒྲིག་སྦྱོར་བྱས་པའིMPlayer（1%）པར་གཞི་དེ་དུས་ལས་ཡོལ་འདུག ཆི་ལིན་གྱི་སྒྲ་བརྙན་རྒྱུན་ལྡན་ལྟར་འཁོར་སྐྱོད་བྱེད་མི་ཐུབ།འདེམ་བྱ་ཁ་ཤས་རྒྱུན་ལྡན་ལྟར་བྱ་བ་བྱེད་མི་ཐུབ་པས།ཡིག་བརྙན་འདེམ་པའི་ནུས་པ་ཤོར་འགྲོ།</translation>
     </message>
     <message>
         <source>Volume &amp;normalization</source>
-        <translation type="unfinished">སྒྲ་ཚད་ཚད་ལྡན་ཅན་(&amp;N)</translation>
+        <translation>སྒྲ་ཚད་ཚད་ལྡན་ཅན་(&amp;N)</translation>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">ཡིག་བརྙན།</translation>
+        <translation>ཡིག་བརྙན།</translation>
     </message>
     <message>
         <source>&amp;Extrastereo</source>
@@ -885,7 +885,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Delay +</source>
-        <translation type="unfinished"></translation>
+        <translation>འགོར་འགྱངས+</translation>
     </message>
     <message>
         <source>Delay -</source>
@@ -1229,7 +1229,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Hausa</source>
-        <translation type="unfinished"></translation>
+        <translation>ཧོ་ས་སྐད།</translation>
     </message>
     <message>
         <source>Hindi</source>
@@ -1597,7 +1597,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Zhuang</source>
-        <translation type="unfinished"></translation>
+        <translation>ཀྲོང་སྐད།</translation>
     </message>
     <message>
         <source>Volapük</source>
@@ -2376,7 +2376,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">ཡིག་བརྙན།</translation>
+        <translation>ཡིག་བརྙན།</translation>
     </message>
     <message>
         <source>Select the encoding which will be used for subtitle files by default.</source>
@@ -2570,7 +2570,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>This table allows you to change the key shortcuts of most available actions. Double click or press enter on a item, or press the &lt;b&gt;Change shortcut&lt;/b&gt; button to enter in the &lt;i&gt;Modify shortcut&lt;/i&gt; dialog. There are two ways to change a shortcut: if the &lt;b&gt;Capture&lt;/b&gt; button is on then just press the new key or combination of keys that you want to assign for the action (unfortunately this doesn&apos;t work for all keys). If the &lt;b&gt;Capture&lt;/b&gt; button is off then you could enter the full name of the key.</source>
-        <translation type="unfinished">རེའུ་མིག་འདིས་ཁྱེད་ཀྱིས་ད་ཡོད་འགུལ་སྟངས་མང་ཆེ་བའི་མྱུར་མཐེབ་བཟོ་བཅོས་བྱེད་དུ་བཅུག རྣམ་གྲངས་གཅིག་གི་ཐོག་ཉིས་རྡེབ་བྱེད་པའམ་ཡང་ན་ཕྱིར་ལྡོག་པ།ཡང་ན་མྱུར་མཐེབ་(/b)ལྟར་བཟོ་བཅོས་བྱས་པ།མྱུར་མཐེབ་（/b)ཡི་མཐེབ་གནོན་བཅོས་ན་འགྲིག་གི་རེད།）(/i)&gt;བཟོ་བཅོས་བྱས་ནས་མྱུར་མཐེབ་（/i&gt;གླེང་སྒྲོམ་ལ་བཟོ་བཅོས་བྱེད་དགོས། བྱེད་ཐབས་གཉིས་སྤྱད་ནས་མྱུར་མཐེབ་བཟོ་བཅོས་བྱེད་དགོས།གལ་ཏེ་(b)ཡི་མཐེབ་གནོན་བཟུང་བའི&gt;མཐེབ་གནོན་སྤྱད་ཟིན་ན།ཁྱེད་རང་གིས་དེ་སྤྱད་པའི་མཐེབ་གནོན་གསར་པའམ་ཡང་ན་སྡེབ་སྒྲིག་མཐེབ་（བློ་ཕམ་པ་ཞིག་ལ་དེ་ནི་མཐེབ་གནོན་ཡོད་ཚད་ལ་སྤྱད་ན་མི་འཚམས）ལྟར་བྱེད་དགོས། གལ་ཏེ་b&gt;འཛིན་པའི་&lt;/b&gt;མཐེབ་གནོན་སྒོ་རྒྱག་དགོས་བྱུང་ན།ཁྱོད་ཀྱིས་མཐེབ་གནོན་གྱི་མིང་ཆ་ཚང་ནང་འཇུག་བྱས་ཆོག</translation>
+        <translation>རེའུ་མིག་འདིས་ཁྱེད་ཀྱིས་ད་ཡོད་འགུལ་སྟངས་མང་ཆེ་བའི་མྱུར་མཐེབ་བཟོ་བཅོས་བྱེད་དུ་བཅུག རྣམ་གྲངས་གཅིག་གི་ཐོག་ཉིས་རྡེབ་བྱེད་པའམ་ཡང་ན་ཕྱིར་ལྡོག་པ།ཡང་ན་མྱུར་མཐེབ་(/b)ལྟར་བཟོ་བཅོས་བྱས་པ།མྱུར་མཐེབ་（/b)ཡི་མཐེབ་གནོན་བཅོས་ན་འགྲིག་གི་རེད།）(/i)&gt;བཟོ་བཅོས་བྱས་ནས་མྱུར་མཐེབ་（/i&gt;གླེང་སྒྲོམ་ལ་བཟོ་བཅོས་བྱེད་དགོས། བྱེད་ཐབས་གཉིས་སྤྱད་ནས་མྱུར་མཐེབ་བཟོ་བཅོས་བྱེད་དགོས།གལ་ཏེ་(b)ཡི་མཐེབ་གནོན་བཟུང་བའི&gt;མཐེབ་གནོན་སྤྱད་ཟིན་ན།ཁྱེད་རང་གིས་དེ་སྤྱད་པའི་མཐེབ་གནོན་གསར་པའམ་ཡང་ན་སྡེབ་སྒྲིག་མཐེབ་（བློ་ཕམ་པ་ཞིག་ལ་དེ་ནི་མཐེབ་གནོན་ཡོད་ཚད་ལ་སྤྱད་ན་མི་འཚམས）ལྟར་བྱེད་དགོས། གལ་ཏེ་b&gt;འཛིན་པའི་&lt;/b&gt;མཐེབ་གནོན་སྒོ་རྒྱག་དགོས་བྱུང་ན།ཁྱོད་ཀྱིས་མཐེབ་གནོན་གྱི་མིང་ཆ་ཚང་ནང་འཇུག་བྱས་ཆོག</translation>
     </message>
     <message>
         <source>Shortcut Key</source>
