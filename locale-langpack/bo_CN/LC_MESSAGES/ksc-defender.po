@@ -1,11 +1,12 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
+# rzdj <1046447973@qq.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-03 13:04+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2020-12-17 04:58+0000\n"
+"Last-Translator: rzdj <1046447973@qq.com>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/ksc-defender/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "Account lock, display configuration for login information"
 msgstr "རྩིས་ཁྲ་ཟྭ་རྒྱག་པ་དང་ཐོ་འགོད་ཆ་འཕྲིན་འཆར་བ་སྒྲིག་འགོད།"
@@ -305,6 +306,7 @@ msgstr "ཁྱེད་ཀྱིས་འཚོལ་བྱའི་ཉེར་
 
 msgid "Failed to delete controlled application!"
 msgstr "བདག་འཛིན་ཐོབ་པའི་ཉེར་སྤྱོད་བྱ་རིམ་བསུབ་མ་ཐུབ!"
+
 msgid "Baseline scan, identify risks"
 msgstr "基线扫描 , 找出风险"
 
@@ -797,6 +799,7 @@ msgstr "%1 :དཔང་སྤྲོད་སྤངས་པར་སྒུག�
 
 msgid "Unknown error, decertification failed!"
 msgstr "མ་ཤེས་པའི་ནོར་འཁྲུལ། དཔང་སྤྲོད་འདོར་མ་ཐུབ!"
+
 msgid "Application benchmark value management"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་རྨང་ཚད་ཐང་དོ་དམ།"
 
@@ -929,6 +932,7 @@ msgstr "དུས་ཐོག་འགེབས་སྲུང་བྱས་ན
 
 msgid "Account security"
 msgstr "རྩིས་ཁྲའི་བདེ་འཇགས"
+
 msgid "Failed to create 3adm users!"
 msgstr "创建三权分立系统用户失败!"
 
@@ -1019,6 +1023,7 @@ msgstr "询问"
 
 msgid "Ban"
 msgstr "བཀག་པ།"
+
 msgid "Forbid unauthorized applications and services connect network"
 msgstr "禁止未授权应用和服务联网"
 
@@ -1104,7 +1109,6 @@ msgstr "གསང་གྲངས་ཀྱི་རྫོངས་སྒྲིག
 
 #msgid "Default"
 #msgstr "སོར་བཞག"
-
 msgid ""
 "Failed to update the password strength check configuration, please check!"
 msgstr ""
@@ -1297,7 +1301,6 @@ msgstr "མ་ལག་གི་བདེ་འཇགས་རྣམ་པ་བ
 
 #msgid "Default"
 #msgstr "སོར་བཞག"
-
 msgid "Strict"
 msgstr "གཟབ་ནན་རྣམ་པ།"
 
@@ -1421,7 +1424,6 @@ msgstr ""
 "ཐེངས་འདིའི་བཤེར་འབེབས་ལས་འཇིགས་ཉིན་%dརྙེད་བྱུང་བས། "
 "སྐུ་ཉིད་ནས་མྱུང་དུ་སྒྲིག་གཅོད་མཛད་རོགས།"
 
-
 msgid "If a threat is detected, a full scan is recommended immediately"
 msgstr "འཇིགས་ཉེན་མཐོང་སོང་པས། ལམ་སེང་སྡུར་སྡེར་ཡོངས་ལ་བཤེར་འབེབས་བྱེད་རོགས།"
 
@@ -1524,4 +1526,4 @@ msgid "Please input password for auditadm!"
 msgstr "请输入auditadm用户密码!"
 
 msgid "No."
-msgstr "序号"
+msgstr "No."
