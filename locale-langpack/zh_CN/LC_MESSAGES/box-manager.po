@@ -12,7 +12,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: zh_CN\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -31,6 +31,10 @@ msgstr "关于"
 #: AboutDialog.cpp:52
 msgid "Operating environment: kylin (V10)"
 msgstr "运行环境: 银河麒麟操作系统 (V10)"
+
+#: AboutDialog.cpp:52
+msgid "Operating environment: kylin (V10.1)"
+msgstr "运行环境: 银河麒麟操作系统 (V10.1)"
 
 #: AboutDialog.cpp:61
 msgid "Secure kernel (3.0.0) and above"
@@ -83,8 +87,12 @@ msgid ""
 msgstr "提供数据安全保护，支持个人数据的隔离隐藏、加密保护和共享功能"
 
 #: BoxManage.cpp:98
-msgid "All protective boxes"
-msgstr "全部保护箱"
+msgid "My Boxes"
+msgstr "我的保护箱"
+
+#:PublicBoxListWidget.cpp:180
+msgid "Shared Boxes"
+msgstr "共享给我的保护箱"
 
 #: BoxManage.cpp:110
 msgid "New"
@@ -108,7 +116,7 @@ msgstr "小米粥:"
 
 #: BoxManage.cpp:228 RightButtonMenu.cpp:139
 msgid "Shared"
-msgstr "已共享"
+msgstr "共享"
 
 #: BoxManage.cpp:238 BoxManage.cpp:904
 msgid "Encrypted"
@@ -119,8 +127,8 @@ msgid "Please select the protective box to be deleted! "
 msgstr "请选择要删除的保险箱!"
 
 #: BoxManage.cpp:597
-msgid "Unable to delete, please unmount the protective box first \"%1\" !"
-msgstr "无法删除，请先卸载保护箱 “%1” !"
+msgid "Unable to delete, please unlock the protective box first \"%1\" !"
+msgstr "无法删除，请先解锁保护箱 “%1” !"
 
 #: BoxManage.cpp:601 BoxManage.cpp:715 BoxManage.cpp:948
 msgid ""
@@ -147,8 +155,8 @@ msgstr "请选择需要进行密码设置的保护箱！"
 
 #: BoxManage.cpp:656
 msgid ""
-"Unable to set the password, please unmount the protection box first \"%1\" !"
-msgstr "无法进行密码设置，请先卸载保护箱 “%1” !"
+"Unable to set the password, please unlock the protection box first \"%1\" !"
+msgstr "无法进行密码设置，请先解锁保护箱 “%1” !"
 
 #: BoxManage.cpp:691 BoxManage.cpp:701
 msgid "Please select the protective box that needs to be shared! "
@@ -156,8 +164,8 @@ msgstr "请选择需要进行共享设置的保护箱! "
 
 #: BoxManage.cpp:709
 msgid ""
-"Unable to set up sharing, please unmount the protection box first \"%1\" !"
-msgstr "无法进行共享设置，请先卸载保护箱 “%1” !"
+"Unable to set up sharing, please unlock the protection box first \"%1\" !"
+msgstr "无法进行共享设置，请先解锁保护箱 “%1” !"
 
 #: BoxManage.cpp:726
 msgid "Failed to load shared user list! "
@@ -172,33 +180,37 @@ msgid "Protective box: %1"
 msgstr "保护箱：%1"
 
 #: BoxManage.cpp:899
-msgid "Mounted"
-msgstr "已挂载"
+msgid "UnLocked"
+msgstr "已解锁"
 
 #: BoxManage.cpp:910 BoxManage.cpp:917
 msgid "Protective box: %1 item"
 msgstr "保护箱：%1 项"
 
 #: BoxManage.cpp:930 BoxManage.cpp:940
-msgid "Please select the protective box to be mounted! "
-msgstr "请选择需要挂载的保护箱！"
+msgid "Please select the protective box to be locked! "
+msgstr "请选择需要锁定的保护箱！"
 
 #: BoxManage.cpp:975 BoxManage.cpp:985
-msgid "Please select the protective box to be Unmount! "
-msgstr "请选择需要卸载的保护箱! "
+msgid "Please select the protective box to be unlock! "
+msgstr "请选择需要解锁的保护箱! "
 
 #: BoxManage.cpp:994
-msgid "Protective box \"%1\" Unmount failed: %2"
-msgstr "保护箱 “%1” 卸载失败：%2"
+msgid "Protective box \"%1\" Locked failed: %2"
+msgstr "保护箱 “%1” 锁定失败：%2"
 
 #: BoxManage.cpp:1014 BoxManage.cpp:1024
 msgid "Please select the protective box that needs to be renamed! "
 msgstr "请选择需要重命名的保护箱"
 
+#: BoxManage.cpp:1082 BoxManage.cpp:1092
+msgid "Please select the protective box to be Locked! "
+msgstr "请选择需要锁定的保护箱"
+
 #: BoxManage.cpp:1032
 msgid ""
-"Unable to rename operation, please unmount protective box first \"%1\" !"
-msgstr "无法进行重命名操作，请先卸载保护箱 “%1” !"
+"Unable to rename operation, please unlock protective box first \"%1\" !"
+msgstr "无法进行重命名操作，请先解锁保护箱 “%1” !"
 
 #: BoxManagerProxy.cpp:395
 msgid ""
@@ -239,8 +251,8 @@ msgid "The current system does not support encryption"
 msgstr "当前系统不支持加密功能"
 
 #: BoxManagerProxy.cpp:413 BoxManagerProxy.cpp:429
-msgid "The protective box is mounted"
-msgstr "保护箱已挂载"
+msgid "The protective box is unlocked"
+msgstr "保护箱已解锁"
 
 #: BoxManagerProxy.cpp:415
 msgid "The protective box is decrypted"
@@ -251,20 +263,20 @@ msgid "Failed to delete protective box"
 msgstr "删除保护箱失败"
 
 #: BoxManagerProxy.cpp:419
-msgid "Failed to mount the protection box"
-msgstr "保护箱挂载失败"
+msgid "Failed to unlock the protection box"
+msgstr "保护箱解锁失败"
 
 #: BoxManagerProxy.cpp:421
 msgid "Data restore failed"
 msgstr "数据还原失败"
 
 #: BoxManagerProxy.cpp:423
-msgid "Protection box unmount failed"
-msgstr "保护箱卸载失败"
+msgid "Protection box unlock failed"
+msgstr "保护箱解锁失败"
 
 #: BoxManagerProxy.cpp:425
-msgid "The protective box is not mounted"
-msgstr "保护箱未挂载"
+msgid "The protective box is not unlock"
+msgstr "保护箱未解锁"
 
 #: BoxManagerProxy.cpp:427
 msgid "The protection box is not encrypted"
@@ -480,8 +492,8 @@ msgid "Password authentication"
 msgstr "密码认证"
 
 #: PasswordAuthenticDialog.cpp:56
-msgid "Mounting protection box"
-msgstr "保护箱挂载"
+msgid "Unlocking protection box"
+msgstr "解锁保护箱"
 
 #: PasswordAuthenticDialog.cpp:68
 msgid "protection box: %1"
@@ -498,8 +510,8 @@ msgid ""
 msgstr "密码认证失败，请确认密码后重新认证"
 
 #: PasswordAuthenticDialog.cpp:192
-msgid "Failed to mount the protection box, please check: %1"
-msgstr "保护箱挂载失败，请检查: %1"
+msgid "Failed to unlocked the protection box, please check: %1"
+msgstr "保护箱解锁失败，请检查: %1"
 
 #: PrivilegeSharedBoxDialog.cpp:45
 msgid "For \"%1\"Set sharing permissions"
@@ -560,12 +572,12 @@ msgid "Protection box \"%1\" Rename failed: %2"
 msgstr "保护箱 “%1” 重命名失败: %2"
 
 #: RightButtonMenu.cpp:137
-msgid "Mount"
-msgstr "挂载"
+msgid "Unlock"
+msgstr "解锁"
 
 #: RightButtonMenu.cpp:138
-msgid "Unmount"
-msgstr "卸载"
+msgid "Locked"
+msgstr "锁定"
 
 #: TitleBar.cpp:139
 msgid "Close"
@@ -595,6 +607,23 @@ msgstr "重命名保护箱"
 msgid "About"
 msgstr "关于"
 
+#:ShowScrillLabel.cpp:90
+msgid "Warm reminder that the file protection box can be deleted, confidentially set, and shared in the locked state"
+msgstr "已锁定状态可对文件保护箱进行删除、保密设置、共享设置"
 
+#:ShowScrillLabel.cpp:91
+msgid "In the unlocked state, you can add, modify, and delete files in the file protection box"
+msgstr "未锁定状态可在文件保护箱内进行文件新增、修改、删除等功能"
 
+#:ShowScrillLabel.cpp:92
+msgid "Password setting can be reset"
+msgstr "密码设置可进行密码重置操作"
+
+#:ShowScrillLabel.cpp:93
+msgid "Sharing settings can be configured to read and write permissions for other users"
+msgstr "共享设置可对其他用户进行读、写权限配置"
+
+#:ShowScrillLabel.cpp:93
+msgid "Tips:"
+msgstr "温馨提示:"
 

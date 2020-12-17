@@ -65,6 +65,12 @@ msgstr ""
 "གཞི་གྲངས་བདེ་འཇགས་སྲུང་སྐྱོབ་མཁོ་འདོན་བྱས་ནས་རང་གི་གཞི་གྲངས་ཀྱི་ལོགས་བཀར་སྦས་"
 "སྐུང་དང་། གསང་རྒྱ་སྲུང་སྐྱོབ། མཉམ་སྤྱོད་ནུས་པར་སྲུང་སྐྱོབ་བྱེད།"
 
+msgid "My Boxes"
+msgstr "我的保护箱"
+
+msgid "Shared Boxes"
+msgstr "共享给我的保护箱"
+
 msgid "All protective boxes"
 msgstr "ཡིག་ཆ་སྒ་ཚང་མ།"
 
@@ -92,7 +98,7 @@ msgstr "གསང་བསྡམས།"
 msgid "Please select the protective box to be deleted! "
 msgstr "ཁྱེད་ཀྱིས་བསུབ་དགོས་པའི་ཉེན་སྲུང་སྒམ་འདེམས་རོགས།! "
 
-msgid "Unable to delete, please unmount the protective box first \"%1\" !"
+msgid "Unable to delete, please unlock the protective box first \"%1\" !"
 msgstr "བསུམ་མི་ཐུབ། ཁྱེད་ཀྱིས་སྔོན་སྲུང་སྐྱོབ་སྒམ \"%1\"་ལྷུ་གཏོང་གནང་རོགས།!"
 
 msgid ""
@@ -115,13 +121,13 @@ msgid "Please select the protective box that requires password setting ! "
 msgstr "ཁྱེད་ཀྱིས་གསང་གྲངས་འགོད་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས! "
 
 msgid ""
-"Unable to set the password, please unmount the protection box first \"%1\" !"
+"Unable to set the password, please unlock the protection box first \"%1\" !"
 msgstr "གསང་གྲངས་འཇོག་མི་ཐུབ་པས། སྔོན་ལ་སྲུང་སྐྱོབ་སྒམ\"%1\"ལྷུ་གཏོང་གནང་རོགས !"
 
 msgid "Please select the protective box that needs to be shared! "
 msgstr "ཁྱེད་ཀྱིས་མཉམ་སྤྱོད་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས! "
 
-msgid "Unable to set up sharing, please unmount the protection box first \"%1\" !"
+msgid "Unable to set up sharing, please unlock the protection box first \"%1\" !"
 msgstr ""
 "མཉམ་སྤྱོད་བྱ་ཐབས་མེད་པས་སྔོན་ལ་སྲུང་སྐྱོབ་སྒམ་ \"%1\" ལྷུ་གཏོར་གནང་རོགས!"
 
@@ -134,25 +140,29 @@ msgstr "སྲུང་སྐྱོབ་སྒམ: %1 (ཡོང་ས %2)"
 msgid "Protective box: %1"
 msgstr "སྲུང་སྐྱོབ་སྒམ: %1"
 
-msgid "Mounted"
+msgid "UnLocked"
 msgstr "འགེལ་འཇུག་བྱས།"
 
 msgid "Protective box: %1 item"
 msgstr "སྲུང་སྐྱོབ་སྒམ: %1སྡེ"
 
-msgid "Please select the protective box to be mounted! "
+msgid "Please select the protective box to be locked! "
 msgstr "ཁྱེད་ཀྱིས་འགེལ་འཇུག་གི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས! "
 
-msgid "Please select the protective box to be Unmount! "
+msgid "Please select the protective box to be unlock! "
 msgstr "ཁྱེད་ཀྱིས་ལྷུ་གཏོར་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས! "
 
-msgid "Protective box \"%1\" Unmount failed: %2"
+msgid "Protective box \"%1\" Locked failed: %2"
 msgstr "སྲུང་སྐྱོབ་སྒམ \"%1\"ལྷུ་གཏོང་མ་ཐུབ: %2"
 
 msgid "Please select the protective box that needs to be renamed! "
 msgstr "ཁྱེད་ཀྱིས་མིང་འདོགས་དགོས་པའི་སྲུང་སྐྱོབ་སྒམ་འདེམས་རོགས། "
 
-msgid "Unable to rename operation, please unmount protective box first \"%1\" !"
+msgid "Please select the protective box to be Locked! "
+msgstr "请选择需要锁定的保护箱"
+
+
+msgid "Unable to rename operation, please unlock protective box first \"%1\" !"
 msgstr ""
 "ཡང་བསྐྱར་མིང་འདོགས་མི་ཐུབ་པས་སྔོན་ལ་སྲུང་སྐྱོབ་སྒམ་\"%1\"ལྷུ་གཏོར་གནང་རོགས !"
 
@@ -187,7 +197,7 @@ msgstr "གསང་གྲངས་ཀྱི་རིང་ཐུང་ཚད་
 msgid "The current system does not support encryption"
 msgstr "མིག་སྔའི་མ་ལག་གིས་གསང་རྒྱ་ནུས་པ་འདོན་མི་ཐུབ།"
 
-msgid "The protective box is mounted"
+msgid "The protective box is unlocked"
 msgstr "སྲུང་སྐྱོབ་སྒམ་འགེལ་འཇུག་བྱས་ཚར།"
 
 msgid "The protective box is decrypted"
@@ -196,16 +206,16 @@ msgstr "སྲུང་སྐྱོབ་སྒམ་གསར་གཏོར་
 msgid "Failed to delete protective box"
 msgstr "སྲུང་སྐྱོབ་སྒམ་བསུབ་མ་ཐུབ།"
 
-msgid "Failed to mount the protection box"
+msgid "Failed to unlock the protection box"
 msgstr "སྲུང་སྐྱོབ་སྒམ་འགེལ་འཇུག་མ་ཐུབ།"
 
 msgid "Data restore failed"
 msgstr "གཞི་གྲངས་སོར་ཆུད་མ་ཐུབ།"
 
-msgid "Protection box unmount failed"
+msgid "Protection box unlock failed"
 msgstr "སྲུང་སྐྱོབ་སྒམ་འགེལ་འཇུག་མ་ཐུབ།"
 
-msgid "The protective box is not mounted"
+msgid "The protective box is not unlock"
 msgstr "སྲུང་སྐྱོབ་སྒམ་འགེལ་འཇུག་མ་ཐུབ།"
 
 msgid "The protection box is not encrypted"
@@ -373,7 +383,7 @@ msgstr "ལེགས་འགྲུབ།"
 msgid "Password authentication"
 msgstr "གསང་གྲངས་དཔང་སྤྲོད།"
 
-msgid "Mounting protection box"
+msgid "Unlocking protection box"
 msgstr "སྲུང་སྐྱོབ་སྒམ་འགེལ་འཇུག"
 
 msgid "protection box: %1"
@@ -389,7 +399,7 @@ msgstr ""
 "གསང་གྲངས་དཔང་སྤྲོད་མ་ཐུབ། "
 "གསང་གྲངས་གཏན་འཁེལ་བྱས་རྗེས་ཡང་བསྐྱར་དཔང་སྤྲོད་གནང་རོགས།"
 
-msgid "Failed to mount the protection box, please check: %1"
+msgid "Failed to unlocked the protection box, please check: %1"
 msgstr "སྲུང་སྐྱོབ་སྒམ་འགེལ་འཇུག་མ་ཐུབ་པས་ཞིབ་བཤེར་བྱ་རོགས: %1"
 
 msgid "For \"%1\"Set sharing permissions"
@@ -438,10 +448,10 @@ msgstr "སྲུང་སྐྱོབ་སྒམ་གྱི་གསང་ག
 msgid "Protection box \"%1\" Rename failed: %2"
 msgstr "སྲུང་སྐྱོང་སྒམ\"%1\"་ལ་མིང་བསྐྱར་བཀོད་མ་ཐུབ: %2"
 
-msgid "Mount"
+msgid "Unlock"
 msgstr "འགེལ་འཇུག"
 
-msgid "Unmount"
+msgid "Locked"
 msgstr "ལྷུ་གཏོར།"
 
 msgid "Close"
@@ -464,3 +474,18 @@ msgstr "སྲུང་སྐྱོབ་སྒམ་མིང་བསྐྱར
 
 msgid "About"
 msgstr "འབྲེལ་ཡོད།"
+
+msgid "Warm reminder that the file protection box can be deleted, confidentially set, and shared in the locked state"
+msgstr "已锁定状态可对文件保护箱进行删除、保密设置、共享设置"
+
+msgid "In the unlocked state, you can add, modify, and delete files in the file protection box"
+msgstr "未锁定状态可在文件保护箱内进行文件新增、修改、删除等功能"
+
+msgid "Password setting can be reset"
+msgstr "密码设置可进行密码重置操作"
+
+msgid "Sharing settings can be configured to read and write permissions for other users"
+msgstr "共享设置可对其他用户进行读、写权限配置"
+
+msgid "Tips:"
+msgstr "温馨提示:"
