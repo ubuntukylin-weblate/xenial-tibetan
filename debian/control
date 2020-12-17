@@ -1,0 +1,19 @@
+Source: kylin-langpack-bo-cn
+Section: translations
+Priority: optional
+Maintainer: Burgess Chang <open@brsvh.org>
+Build-Depends-Indep: gettext, qttools5-dev-tools
+Build-Depends: debhelper (>= 10)
+Standards-Version: 0.1.1
+
+Package: kylin-language-pack-bo-cn-base
+Architecture: all
+Pre-Depends: dpkg (>= 1.16.1), ${misc:Pre-Depends}
+Depends: ${misc:Depends}
+Description: translation update for language English.
+
+Package: kylin-language-pack-bo-cn-extra
+Architecture: all
+Pre-Depends: dpkg (>= 1.16.1), ${misc:Pre-Depends}
+Depends: ${misc:Depends}
+Description: translation update for language English.
