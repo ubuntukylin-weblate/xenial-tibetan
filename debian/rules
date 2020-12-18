@@ -7,10 +7,11 @@ build:
 
 clean:
 	make clean
+	dh_clean
 
 binary: 
-	make install DESTDIR=debian/kylin-language-pack-bo-cn-base
-	make install DESTDIR=debian/kylin-language-pack-bo-cn-extra
+	make install-mo DESTDIR=debian/kylin-language-pack-bo-cn-base PREFIX=/usr
+	make install-qm DESTDIR=debian/kylin-language-pack-bo-cn-extra PREFIX=/usr
 	dh_makeshlibs
 	dh_gencontrol
 	dh_builddeb
