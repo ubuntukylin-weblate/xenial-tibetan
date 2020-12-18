@@ -16,6 +16,6 @@ jobs:
       - name: Install dependiences
         run: |
           sudo apt update
-          sudo apt install python3-polib
+          sudo apt install python3-polib qttools5-dev-tools
       - name: build
         run: make all
