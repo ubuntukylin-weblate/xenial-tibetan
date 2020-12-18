@@ -1,35 +1,16 @@
 #!/usr/bin/make -f
 
 QT_SELECT=5
-PKGDIR=$(shell pwd)
-LOCALE_BO_CN=$(shell pwd)/locale-langpack/bo_CN/LC_MESSAGES
 
 build:
-	dh_testdir
+	make all
 
 clean:
-	dh_testdir
-	dh_testroot
-	dh_clean
+	make clean
 
-binary-arch:
-
-binary-indep:
-	dh_testdir
-	dh_testroot
-	
-	find $(LOCALE_BO_CN) -type f -name "*.po" -exec sh -c "N='{}'; msgfmt -o \$${N%.po}.mo \$$N" \;
-	find $(PKGDIR) -type f -name "*bo_CN.ts" -exec sh -c "N='{}'; lconvert -o \$${N%.po}.qm -i \$$N" \;
-
-	dh_installdocs -i
-	dh_installchangelogs -i
-	dh_compress -i
-	dh_fixperms -i
-	dh_installdeb -i
-	dh_gencontrol -i
-	dh_md5sums -i
-	dh_builddeb -i -- -Z xz
-
-binary: binary-arch binary-indep
-
-.PHONY: build build-arch build-indep clean binary-indep binary-arch binary
+binary: 
+	make install DESTDIR=debian/kylin-language-pack-bo-cn-base
+	make install DESTDIR=debian/kylin-language-pack-bo-cn-extra
+	dh_makeshlibs
+	dh_gencontrol
+	dh_builddeb

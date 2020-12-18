@@ -2,9 +2,15 @@ Source: kylin-langpack-bo-cn
 Section: translations
 Priority: optional
 Maintainer: Burgess Chang <open@brsvh.org>
-Build-Depends-Indep: gettext, qttools5-dev-tools
-Build-Depends: debhelper (>= 10)
-Standards-Version: 0.1.1
+Build-Depends: debhelper (>= 9),
+               dh-python,
+               python3-dev,
+               python3-distutils-extra,
+               python3-setuptools,
+               python3-polib,
+               gettext,
+               qttools5-dev-tools,
+Standards-Version: 3.9.2
 
 Package: kylin-language-pack-bo-cn-base
 Architecture: all
