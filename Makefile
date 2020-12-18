@@ -44,7 +44,7 @@ install-qm: $(QM_FILES)
 	install -m 644 ukui-biometric-manager/translations/ukui-biometric-manager_bo_CN.qm $(DESTDIR)$(PREFIX)/share/ukui-biometric-manager/translations/
 	install -d $(DESTDIR)$(PREFIX)/share/kylin-video/translations/
 	install -m 644 kylin-video/translations/kylin-video_bo_CN.qm $(DESTDIR)$(PREFIX)/share/kylin-video/translations/
-	install -d $(DESTDIR)$(PREFIX)/yhkylin-backup-tools/translations/
+	install -d $(DESTDIR)$(PREFIX)/share/yhkylin-backup-tools/translations/
 	install -m 644 yhkylin-backup-tools/translations/yhkylin-backup-tools_bo_CN.qm $(DESTDIR)$(PREFIX)/share/yhkylin-backup-tools/translations/
 
 install: install-mo install-qm
