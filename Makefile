@@ -1,6 +1,5 @@
 DESTDIR ?=
 PREFIX ?=
-INSPATH := $(DESTDIR)$(PREFIX)
 
 PO_FILES = $(shell find locale-langpack/bo_CN/LC_MESSAGES -type f -name "*.po")
 MO_FILES = $(PO_FILES:.po=.mo)
@@ -37,15 +36,15 @@ install-mo: $(MO_FILES)
 	install -m 644 $(MO_FILES) $(DESTDIR)$(PREFIX)/share/locale-langpack/bo_CN/LC_MESSAGES/
 
 install-qm: $(QM_FILES)
-	install -d $(DESTDIR)$(PREFIX)/kylin-assistant/translations/
-	install -m 644 kylin-assistant/translations/kylin-assistant_bo_CN.qm $(DESTDIR)$(PREFIX)/kylin-assistant/translations/
-	install -d $(DESTDIR)$(PREFIX)/kylin-ipmsg/translations/
-	install -m 644 kylin-ipmsg/translations/kylin-ipmsg_bo_CN.qm $(DESTDIR)$(PREFIX)/kylin-ipmsg/translations/
-	install -d $(DESTDIR)$(PREFIX)/ukui-biometric-manager/translations/
-	install -m 644 ukui-biometric-manager/translations/ukui-biometric-manager_bo_CN.qm $(DESTDIR)$(PREFIX)/ukui-biometric-manager/translations/
-	install -d $(DESTDIR)$(PREFIX)/kylin-video/translations/
-	install -m 644 kylin-video/translations/kylin-video_bo_CN.qm $(DESTDIR)$(PREFIX)/kylin-video/translations/
+	install -d $(DESTDIR)$(PREFIX)/share/kylin-assistant/translations/
+	install -m 644 kylin-assistant/translations/kylin-assistant_bo_CN.qm $(DESTDIR)$(PREFIX)/share/kylin-assistant/translations/
+	install -d $(DESTDIR)$(PREFIX)/share/kylin-ipmsg/translations/
+	install -m 644 kylin-ipmsg/translations/kylin-ipmsg_bo_CN.qm $(DESTDIR)$(PREFIX)/share/kylin-ipmsg/translations/
+	install -d $(DESTDIR)$(PREFIX)/share/ukui-biometric-manager/translations/
+	install -m 644 ukui-biometric-manager/translations/ukui-biometric-manager_bo_CN.qm $(DESTDIR)$(PREFIX)/share/ukui-biometric-manager/translations/
+	install -d $(DESTDIR)$(PREFIX)/share/kylin-video/translations/
+	install -m 644 kylin-video/translations/kylin-video_bo_CN.qm $(DESTDIR)$(PREFIX)/share/kylin-video/translations/
 	install -d $(DESTDIR)$(PREFIX)/yhkylin-backup-tools/translations/
-	install -m 644 yhkylin-backup-tools/translations/yhkylin-backup-tools_bo_CN.qm $(DESTDIR)$(PREFIX)/yhkylin-backup-tools/translations/
+	install -m 644 yhkylin-backup-tools/translations/yhkylin-backup-tools_bo_CN.qm $(DESTDIR)$(PREFIX)/share/yhkylin-backup-tools/translations/
 
 install: install-mo install-qm
