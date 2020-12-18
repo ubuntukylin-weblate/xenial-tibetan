@@ -1,10 +1,10 @@
+import sys
 from pathlib import Path
 
 from polib import pofile
-from typer import run
 
 
-def main(directory: str):
+def main(directory):
     source_directory = Path(directory)
     if source_directory.is_dir():
         for source in source_directory.glob("*.po"):
@@ -14,4 +14,4 @@ def main(directory: str):
 
 
 if __name__ == '__main__':
-    run(main)
+    main(sys.argv[1])
