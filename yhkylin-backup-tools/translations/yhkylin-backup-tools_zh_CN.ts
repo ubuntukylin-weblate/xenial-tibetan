@@ -1494,7 +1494,7 @@ p, li { white-space: pre-wrap; }
         <location filename="maindialog.cpp" line="1967"/>
         <location filename="maindialog.cpp" line="2150"/>
         <source>Can not start the process of full restore.</source>
-        <translation>无法启动一键还原进程</translation>
+        <translation>无法启动མཐེབ་གཅིག་སོར་ལོག进程</translation>
     </message>
     <message>
         <location filename="maindialog.cpp" line="2053"/>
@@ -1913,7 +1913,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="timeelapsedialog.cpp" line="31"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - New Recovery&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;麒麟备份还原工具 - 一键还原&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;麒麟备份还原工具 - མཐེབ་གཅིག་སོར་ལོག&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="timeelapsedialog.cpp" line="33"/>
@@ -2044,7 +2044,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="excludedialog.cpp" line="44"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;Backup and Recovery - Restore System&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;麒麟备份还原工具 - 一键还原系统&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:12pt; color:#ffffff;&quot;&gt;麒麟备份还原工具 - མཐེབ་གཅིག་སོར་ལོག系统&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
