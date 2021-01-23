@@ -1,13 +1,14 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 09:01+0000\n"
-"Last-Translator: rzdj <1046447973@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/blueman/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -15,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "%(service)s on %(device)s"
 msgstr "%(device)s ཡི་ %(service)s"
@@ -111,7 +112,7 @@ msgid "<b>Device added successfuly, but failed to connect</b>"
 msgstr "<b>སྒྲིག་ཆས་སྣོན་པ་ལེགས་འགྲུབ་ཀྱང་། འབྲེལ་མཐུད་ཕམ་པ།</b>"
 
 msgid "<b>Disconnect:</b>"
-msgstr "<b>འབྲེལ་མཐུད་གཅོད་པ།</b>"
+msgstr "<b>འབྲེལ་མཐུད་དྲས་རྒྱག་པ།</b>"
 
 msgid "<b>Downloaded:</b>"
 msgstr "<b>ཕབ་པ།：</b>"
@@ -498,7 +499,7 @@ msgid "Dialup Settings"
 msgstr "ཨང་འབོད་སྒྲིག་བཀོད།"
 
 msgid "Disconnecting..."
-msgstr "འབྲེལ་མཐུད་གཅོད་པ་..."
+msgstr "འབྲེལ་མཐུད་དྲས་རྒྱག་པ་..."
 
 msgid "Discoverable timeout"
 msgstr "འཚོལ་བ་དུས་བརྒལ།"
@@ -573,7 +574,7 @@ msgid "Finished"
 msgstr "ལེགས་གྲུབ།"
 
 msgid "Forcefully disconnect the device"
-msgstr "བཙན་གཅོད།"
+msgstr "བཙན་དྲས་རྒྱག།"
 
 msgid "GSM Settings"
 msgstr "GSMསྒྲིག་འགོད།"
@@ -755,7 +756,7 @@ msgid "Poor"
 msgstr "ཞན།"
 
 msgid "Proceed Without Pairing"
-msgstr "ཆ་སྒྲིག་མ་བྱེད་པའི་སྒྲིག་གཅོད།"
+msgstr "ཆ་སྒྲིག་མ་བྱེད་པའི་སྒྲིག་དྲས་རྒྱག།"
 
 msgid "Provides DBus API for other Blueman components"
 msgstr " Bluemanསྒྲིག་ལྷུ་གཞན་དག་ལ་DBus APIམཁོ་འདོན་བྱེད།"
@@ -781,7 +782,8 @@ msgstr ""
 msgid ""
 "Provides a menu item that contains last used connections for quick access"
 msgstr ""
-"སྔོན་སྤྱོད་པའི་འབྲེལ་མཐུད་ཀྱི་འདེམས་བྱང་ཚན་ཞིག་མཁོ་འདོན་བྱས་ནས་མགྱོགས་མྱུར་ངང་ལྟ་སྤྱོད་བྱེད།"
+"སྔོན་སྤྱོད་པའི་འབྲེལ་མཐུད་ཀྱི་འདེམས་བྱང་ཚན་ཞིག་མཁོ་འདོན་བྱས་ནས་མགྱོགས།མྱུར་ངང"
+"་ལྟ་སྤྱོད་བྱེད།"
 
 msgid "Provides basic support for connecting to the internet via DUN profile."
 msgstr ""
@@ -954,7 +956,7 @@ msgstr "ཁུངས་འཚམ་སྒྲིག་ཆས། ཤག་གན�
 msgid ""
 "Standard SPP profile connection handler, allows executing custom actions"
 msgstr ""
-"ཚད་ལྡན་གྱི་SPP སྡེབ་སྒྲིག་འབྲེལ་མཐུད་སྒྲིག་གཅོད་ཆས། "
+"ཚད་ལྡན་གྱི་SPP སྡེབ་སྒྲིག་འབྲེལ་མཐུད་སྒྲིག་དྲས་རྒྱག་ཆས། "
 "རང་གི་མཚན་ཉིད་བཞག་པའི་འགུལ་སྟངས་ལག་བསྟར་བྱེད་ཆོག"
 
 msgid "Start configuration assistant for this device"
@@ -1079,7 +1081,7 @@ msgid "_Devices"
 msgstr "སྒྲིག་ཆས།(_D)"
 
 msgid "_Disconnect"
-msgstr "གཅོད་པ།(_D)"
+msgstr "དྲས་རྒྱག་པ།(_D)"
 
 msgid "_Exit"
 msgstr "ཕྱིར་འདོན།(_E)"
