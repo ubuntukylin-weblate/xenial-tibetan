@@ -1,12 +1,13 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 09:01+0000\n"
-"Last-Translator: rzdj <1046447973@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/apport/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "%prog <report number>"
 msgstr "%prog <སྙན་ཞུའི་ཨང་>"
@@ -494,7 +495,7 @@ msgid "The symptom \"%s\" is not known."
 msgstr ""
 
 msgid "There is not enough disk space available to process this report."
-msgstr "སྙན་ཞུ་སྒྲིག་གཅོད་བྱེད་པའི་སྡུད་སྡེར་བར་སྟོང་འདང་བ་མེད།"
+msgstr "སྙན་ཞུ་སྒྲིག་དྲས་རྒྱག་བྱེད་པའི་སྡུད་སྡེར་བར་སྟོང་འདང་བ་མེད།"
 
 msgid "This is a directory."
 msgstr "འདི་ནི་དཀར་ཆག་ཅིག་རེད།"
@@ -524,7 +525,7 @@ msgid ""
 msgstr "གནད་དོན་སྙན་ཞུ་འདི་སྒྲིག་འཇུག་ཡང་བྱེད་མི་དགོས་པའི་བྱ་རིམ་ལ་འཚམ།"
 
 msgid "This problem report is damaged and cannot be processed."
-msgstr "གནད་དོན་སྙན་ཞུ་འདི་ཆག་སྐྱོན་བྱུང་། སྒྲིག་གཅོད་བྱ་མི་ཐུབ།"
+msgstr "གནད་དོན་སྙན་ཞུ་འདི་ཆག་སྐྱོན་བྱུང་། སྒྲིག་དྲས་རྒྱག་བྱ་མི་ཐུབ།"
 
 msgid ""
 "This problem was already reported in the bug report displayed in the web "
@@ -637,7 +638,8 @@ msgstr ""
 
 msgid "Your system does not have enough memory to process this crash report."
 msgstr ""
-"ཁྱེད་ཀྱིས་རྒྱུད་ཁོངས་ལ་ཐོར་ཞིག་འདི་སྒྲིག་གཅོད་ཀྱི་སྙན་ཞུའི་འདང་ངེས་ཀྱིས་ནང་གསོག་མེད།"
+"ཁྱེད་ཀྱིས་རྒྱུད་ཁོངས་ལ་ཐོར་ཞིག་འདི་སྒྲིག་དྲས་རྒྱག་ཀྱི་སྙན་ཞུའི་འདང་ངེས་ཀྱིས་ན"
+"ང་གསོག་མེད།"
 
 msgid "Your system might become unstable now and might need to be restarted."
 msgstr ""
