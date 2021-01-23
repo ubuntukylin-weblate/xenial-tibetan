@@ -1,17 +1,19 @@
-#
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
-"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
+"Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
+"xenial-tibetan/duplicity/bo_CN/>\n"
 "Language: bo_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid ""
 "\n"
@@ -231,7 +233,7 @@ msgid "Error '%s' patching %s"
 msgstr "ནོར་འཁྲུལ་“%s” མིག་སྔར་ %s ཕྱིར་འབྲི།"
 
 msgid "Error '%s' processing %s"
-msgstr "ནོར་འཁྲུལ་ %s ( %s སྒྲིག་གཅོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།)"
+msgstr "ནོར་འཁྲུལ་ %s ( %s སྒྲིག་དྲས་རྒྱག་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།)"
 
 msgid "Error accessing possibly locked file %s"
 msgstr "སྒྲོག་སྲིད་པའི་ཡིག་ཆ་ %s ལྟ་སྤྱོད་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་།"
@@ -573,7 +575,7 @@ msgid "Processed volume %d"
 msgstr "སྒྲིག་བཅད་ཀྱི་སྒྲིལ %d"
 
 msgid "Processed volume %d of %d"
-msgstr "སྒྲིལ %d སྒྲིག་གཅོད་བྱས། ཁྱོན་བསྡོམས་སྒྲིལ %d "
+msgstr "སྒྲིལ %d སྒྲིག་དྲས་རྒྱག་བྱས། ཁྱོན་བསྡོམས་སྒྲིལ %d"
 
 msgid "PyDrive backend: multiple files called '%s'."
 msgstr "PyDrive རྒྱབ་སྟེགས།：ཡིག་ཆ་མང་པོ་འདྲེན་སྤྱོད %s"
@@ -768,7 +770,7 @@ msgstr "ཐ་ཚིག སྒྲིལ་མཚོན་རྟགས་ལྷ�
 
 msgid ""
 "Warning, found incomplete backup sets, probably left from aborted session"
-msgstr "ཐ་ཚིག ཆ་ཚང་གི་གྲབས་ཉར་ཚོགས་རྙེད་པ། བར་གཅོད་ཀྱི་གླེང་པ་ལས་ཡོང་སྲིད།"
+msgstr "ཐ་ཚིག ཆ་ཚང་གི་གྲབས་ཉར་ཚོགས་རྙེད་པ། བར་དྲས་རྒྱག་ཀྱི་གླེང་པ་ལས་ཡོང་སྲིད།"
 
 msgid "Warning, found signatures but no corresponding backup files"
 msgstr "ཐ་ཚིག  འབྲེལ་ཡོད་གྲབས་ཉར་ཡིག་ཆའི་མིང་འགོད་རྙེད་པ།"
