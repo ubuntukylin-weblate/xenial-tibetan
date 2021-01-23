@@ -2,13 +2,14 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
 # liumin <liumin@kylinos.cn>, 2021.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-01-21 09:58+0000\n"
-"Last-Translator: liumin <liumin@kylinos.cn>\n"
+"PO-Revision-Date: 2021-01-23 07:59+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/file-roller/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -33,7 +34,7 @@ msgid "%s Properties"
 msgstr "%s གཏོགས་གཤིས།"
 
 msgid "- Create and modify an archive"
-msgstr "- ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ་དང་བཟོ་བཅོས།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་གསར་བཟོ་དང་བཟོ་བཅོས་བྱས་ཟིན།"
 
 msgid ""
 "A file named \"%s\" already exists.\n"
@@ -51,7 +52,7 @@ msgid ""
 msgstr ""
 
 msgid "ARCHIVE"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ།"
 
 msgid "Actions"
 msgstr "འགུལ་སྟངས།"
@@ -63,10 +64,13 @@ msgid "Add Files"
 msgstr "ཡིག་ཆ་སྣོན"
 
 msgid "Add files asking the name of the archive and quit the program"
-msgstr "ཡིག་ཆ་སྣོན་པ། ཡིག་ཚགས་ཡིག་ཆའི་མིང་འདྲི་བ། དེ་འཕྲོར་བྱ་རིམ་ཕྱིར་འདོན།"
+msgstr ""
+"ཡིག་ཆ་སྣོན་པ་དང་། ཡིག་ཚགས།་ཡིག་ཆའི་མིང་འདྲི་རྩད་བྱས་རྗེས་ཕྱིར་འཐེན་བྱེད་དགོས།"
 
 msgid "Add files to the specified archive and quit the program"
-msgstr "ཡིག་ཆ་བསྟན་པའི་ཡིག་ཚགས་ཡིག་ཆར་སྣོན་པ། དེའི་འཕྲོར་བྱ་རིམ་ཕྱིར་འདོན།"
+msgstr ""
+"ཡིག་ཆ་དེ་དམིགས་འཛུགས་བྱས་པའི་ཡིག་ཚགས།་ཡིག་ཆའི་ནང་དུ་བསྣན་རྗེས། "
+"བྱ་རིམ་ཕྱིར་འཐེན་བྱེད་དགོས།"
 
 msgid "Add only if _newer"
 msgstr "ཡིག་ཆ་གསར་བ་ཁོ་ན་སྣོན་པ།(_N)"
@@ -78,7 +82,7 @@ msgid "Adding the files to \"%s\""
 msgstr ""
 
 msgid "All archives"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཚང་མ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཚང་མ།"
 
 msgid "All files"
 msgstr "ཡིག་ཆ་ཚང་མ།"
@@ -87,25 +91,25 @@ msgid "An archive manager for GNOME."
 msgstr "GNOME ཡི་ཡིག་ཚགས་དོ་དམ་ཆས།"
 
 msgid "An error occurred while adding files to the archive."
-msgstr "ཡིག་ཆ་ཡིག་ཚགས་ཡིག་ཆར་སྣོན་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་།"
+msgstr "ཡིག་ཆ་དེ་ཡིག་ཚགས།་ཡིག་ཆའི་ནང་སྣོན་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while deleting files from the archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ལས་ཡིག་ཆ་འདོར་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆའི་ནང་ནས་ཡིག་ཆ་ཞིག་སུབ་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while extracting files."
 msgstr "ཡིག་ཆ་བཙིར་གནོན་སྒྲོལ་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "An error occurred while loading the archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་འཇུག་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་འཇུག་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while renaming the files."
 msgstr "ཡིག་ཆར་མིང་བསྐྱར་འདོགས་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while saving the archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཉར་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཉར་ཚགས་བྱེད་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while testing archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཚོད་ལེན་བྱེད་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཚོད་ལེན་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while updating the files."
 msgstr "ཡིག་ཆ་གསར་བསྒྱུར་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
@@ -117,7 +121,7 @@ msgid "Another file with the same name already exists in \"%s\"."
 msgstr ""
 
 msgid "Archive Manager"
-msgstr "ཡིག་ཚགས་དོ་དམ་ཆས།"
+msgstr "ཡིག་ཚགས།་དོ་དམ་ཆས།"
 
 msgid ""
 "Archive Manager (also known as File Roller) is the default GNOME application"
@@ -131,13 +135,13 @@ msgstr ""
 "གཤམ་གསལ་ལྟར་"
 
 msgid "Archive not found"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་མ་རྙེད།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་མ་རྙེད།"
 
 msgid "Archive size:"
-msgstr "ཡིག་ཚགས་ཡིག་ཆའི་ཆེ་ཆུང་།："
+msgstr "ཡིག་ཚགས།་ཡིག་ཆའི་ཆེ་ཆུང་།"
 
 msgid "Archive type not supported."
-msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་ཡིག་ཚགས་ཡིག་ཆའི་རིགས་གྲས།"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ཡིག་ཚགས།་ཡིག་ཆའི་རིགས།"
 
 msgid "C_ommand Line Output:"
 msgstr "བཀའ་བརྡ་ཕྱིར་འདོན། (_O)"
@@ -168,7 +172,7 @@ msgid ""
 "very-fast, fast, normal, maximum."
 msgstr ""
 "ཡིག་ཚགས་ཡིག་ཆའི་ནང་ཡིག་ཆ་སྣོན་པའི་སྐབས་སུ་སྤྱོད་པའི་སྡུད་སྒྲིལ་ཚད། "
-"དེ་ནི་ཧ་ཅང་མགྱོགས་པ་དང་། མགྱོགས་པ། རྒྱུན་ལྡན། ཆེས་ཆེ་བ་བཅས་ཡིན།"
+"དེ་ནི་ཧ་ཅང་མགྱོགས།པ་དང་། མགྱོགས།པ། རྒྱུན་ལྡན། ཆེས་ཆེ་བ་བཅས་ཡིན།"
 
 msgid "Compression ratio:"
 msgstr "བཙིར་གནོན་ཕྱོད།"
@@ -195,16 +199,16 @@ msgid "Copyright © 2001–2014 Free Software Foundation, Inc."
 msgstr "པར་དབང་། © 2001-2010 རང་མོས་མཉེན་ཆས་ཐེབས་རྩ་ལྷན་ཚོགས།"
 
 msgid "Could not add the files to the archive"
-msgstr "ཡིག་ཆ་ཡིག་ཚགས་ཡིག་ཆར་སྣོན་མི་ཐུབ།"
+msgstr "ཡིག་ཆ་དག་ཡིག་ཚགས།་ཡིག་ཆ་ཡི་ནང་དུ་སྣོན་ཐབས་བྲལ་བ།"
 
 msgid "Could not create the archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་བཟོ་ཐབས་བྲལ་བ།"
 
 msgid "Could not create the destination folder: %s."
 msgstr "དམིགས་ཡུལ་ཡིག་ཁུག：%sགསར་བཟོ་མི་ཐུབ།"
 
 msgid "Could not delete the old archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་རྙིང་པ་གསར་བཟོ་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་རྙིང་པ་སུབ་ཐབས་བྲལ་བ།"
 
 msgid "Could not display help"
 msgstr "རོགས་རམ་མངོན་མི་ཐུབ།"
@@ -234,16 +238,16 @@ msgid "Could not rename the folder"
 msgstr "ཡིག་ཁུག་མིང་བསྐྱར་འདོགས་བྱེད་མི་ཐུབ།"
 
 msgid "Could not save the archive \"%s\""
-msgstr ""
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ “%s” ཉར་ཚགས་བྱེད་ཐབས་བྲལ་བ།"
 
 msgid "Create _Archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ།(_A)"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ། གསར་བཟོ།(_A)"
 
 msgid "Create _Folder"
 msgstr "ཡིག་ཁུག(_F)"
 
 msgid "Create a compressed archive with the selected objects"
-msgstr "བདམས་པའི་བྱ་ཡུལ་སྤྱད་ནས་བཙིར་གནོན་གྱི་ཡིག་ཚགས་ཤིག་གསར་བཟོ།"
+msgstr "བདམས་པའི་བྱ་ཡུལ་གྱིས་སྡུད་སྒྲིལ་ཡིག་ཚགས།་ཤིག་བཟོ་བ།"
 
 msgid "Create and modify an archive"
 msgstr ""
@@ -276,7 +280,7 @@ msgid "Delete"
 msgstr "བསུབ་པ།"
 
 msgid "Deleting files from archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ལས་ཡིག་ཆ་འདོར་བ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཡི་ནང་ནས་ཡིག་ཆ་སུབ་པ།"
 
 msgid "Deleting the files from \"%s\""
 msgstr ""
@@ -324,10 +328,11 @@ msgid ""
 "Do you want to add this file to the current archive or open it as a new "
 "archive?"
 msgstr ""
-"ཁྱེད་ཀྱིས་ཡིག་ཆ་འདི་མིག་སྔའི་ཡིག་ཚགས་ཡིག་ཆ་རུ་སྣོན་པའམ་ཁ་ཕྱེ་ནས་ཡིག་ཚགས་ཡིག་ཆ་གསར་བ་བྱེད།"
+"ཁྱེད་ཀྱིས་ཡིག་ཆ་འདི་མིག་སྔའི་ཡིག་ཚགས།་ཡིག་ཆ་ཡི་ནང་དུ་སྣོན་པའམ་ཡང་ན་ཡིག་ཚགས།་ཡ"
+"ིག་ཆ་གསར་པར་ཁ་ཕྱེ་འདོད་དམ།"
 
 msgid "Do you want to create a new archive with these files?"
-msgstr "ཁྱེད་ཀྱིས་ཡིག་ཆ་འདི་དག་འདུས་པའི་ཡིག་ཚགས་ཡིག་ཆ་གསར་བ་གསར་བཟོ་འདོད་དམ།"
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཆ་དེ་དག་ཚུད་པའི་ཡིག་ཚགས།་ཡིག་ཆ་གསར་པ་བཟོ་འདོད་ཡོད་དམ།"
 
 msgid "E_xclude files:"
 msgstr "ཡིག་ཆ་འབུད་པ།(_X)："
@@ -360,20 +365,20 @@ msgstr ""
 
 msgid "Extract archives to the specified folder and quit the program"
 msgstr ""
-"ཡིག་ཚགས་ཡིག་ཆ་བསྟན་པའི་ཡིག་ཁུག་ཏུ་བཙིར་སྒྲོལ། དེའི་འཕྲོར་བྱ་རིམ་ཕྱིར་འདོན།"
+"ཡིག་ཚགས།་ཡིག་ཆ་བསྟན་པའི་ཡིག་ཁུག་ཏུ་བཙིར་སྒྲོལ། དེའི་འཕྲོར་བྱ་རིམ་ཕྱིར་འདོན།"
 
 msgid ""
 "Extract the contents of the archives in the archive folder and quit the "
 "program"
 msgstr ""
-"ཡིག་ཚགས་ཡིག་ཆའི་ནང་དོན་ཡིག་ཚགས་ཡིག་ཁུག་ཏུ་བཙིར་སྒྲོལ། "
+"ཡིག་ཚགས།་ཡིག་ཆའི་ནང་དོན་ཡིག་ཚགས།་ཡིག་ཁུག་ཏུ་བཙིར་སྒྲོལ། "
 "དེའི་འཕྲོར་བྱ་རིམ་ཕྱིར་འདོན།"
 
 msgid "Extract the selected archive"
-msgstr "བདམས་པའི་ཡིག་ཚགས་ཡིག་ཆ་བཙིར་སྒྲོལ།"
+msgstr "བདམས་པའི་ཡིག་ཚགས།་ཡིག་ཆ་བཙིར་སྒྲོལ།"
 
 msgid "Extract the selected archive to the current position"
-msgstr "བདམས་པའི་ཡིག་ཚགས་ཡིག་ཆ་མིག་སྔ་གནས་སར་བཙིར་སྒྲོལ།"
+msgstr "བདམས་པའི་ཡིག་ཚགས།་ཡིག་ཆ་མིག་སྔ་གནས་སར་བཙིར་སྒྲོལ།"
 
 msgid "Extracting \"%s\""
 msgstr ""
@@ -522,7 +527,7 @@ msgid "Reading \"%s\""
 msgstr ""
 
 msgid "Recompressing archive"
-msgstr "ཡིག་ཆ་ཡང་བསྐྱར་ཡིག་ཚགས།"
+msgstr "ཡིག་ཚགས།་བསྐྱར་དུ་འཇོག་པ།"
 
 msgid "Recreate the folders stored in the archive"
 msgstr "ཡིག་ཚགས་ནང་གི་ཡིག་ཁུག་གསར་བརྗེ།"
@@ -579,7 +584,7 @@ msgid "Sort type"
 msgstr "སྟར་པའི་རིགས་གྲས།"
 
 msgid "Split into _volumes of"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཕྲལ་དེ།(_V)"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཕྲལ་བ།"
 
 msgid "Start as a service"
 msgstr "ཞབས་ཞུ་འགོ་སློང་།"
@@ -620,16 +625,16 @@ msgstr ""
 "ཉེར་སྤྱོད་བྱ་རིམ་བཤེར་འཚོལ་ཚོད་ལྟ་བྱེད་སྐབས་ནང་ཁུལ་གྱི་ནོར་འཁྲུལ་བྱུང་།："
 
 msgid "This archive type cannot be modified"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་རིགས་གྲས་འདི་བཟོ་བཅོས་བྱེད་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆའི་རིགས་འདི་ལ་བཟོ་བཅོས་བྱེད་ཐབས་བྲལ།"
 
 msgid "Type:"
 msgstr "རིགས་གྲས།"
 
 msgid "Update the file \"%s\" in the archive \"%s\"?"
-msgstr ""
+msgstr "ཡིག་ཚགས།་“%2$s”ནང་གི་ཡིག་ཆ་“%1$s”གསར་སྒྱུར།"
 
 msgid "Update the files in the archive \"%s\"?"
-msgstr ""
+msgstr "ཡིག་ཚགས།་“%s”ནང་གི་ཡིག་ཆ་གསར་སྒྱུར།"
 
 msgid "Updating the files in \"%s\""
 msgstr ""
@@ -679,15 +684,15 @@ msgid "Wrong password."
 msgstr "གསང་ཨང་ནོར་འདུག "
 
 msgid "You can't add an archive to itself."
-msgstr "ཁྱེད་ཀྱིས་ཡིག་ཚགས་ཡིག་ཆ་ཁོ་རང་དུ་སྣོན་མི་ཐུབ།"
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཚགས།་ཡིག་ཆ་རང་ཉིད་ལ་སྣོན་ཐབས་བྲལ།"
 
 msgid "You don't have permission to create an archive in this folder"
-msgstr "ཁྱེད་ལ་ཡིག་ཁུག་འདིའི་ནང་དུ་ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ་བའི་དབང་ཚད་མེད།"
+msgstr "ཁྱེད་ལ་ཡིག་ཁུག་འདིའི་ནང་ཡིག་ཚགས།་ཡིག་ཆ་བཟོ་བའི་དབང་ཆ་མེད།"
 
 msgid ""
 "You don't have the right permissions to extract archives in the folder "
 "\"%s\""
-msgstr ""
+msgstr "ཁྱེད་ལ་ཡིག་ཚགས།་ཡིག་ཆ་བཙིར་གནོན་ཡིག་ཁུག“%s”རུ་འགྲོལ་བའི་དབང་ཚད་མེད།"
 
 msgid "You don't have the right permissions to read files from folder \"%s\""
 msgstr ""
@@ -696,7 +701,7 @@ msgid "You don't have the right permissions."
 msgstr "ཁྱེད་ལ་ཡང་དག་གི་དབང་ཚད་མེད།"
 
 msgid "You have to specify an archive name."
-msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་ཡིག་ཚགས་ཡིག་ཆའི་མིང་སྟོན་དགོས།"
+msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་ཡིག་ཚགས།་ཡིག་ཆའི་མིང་དམིགས་འཛུགས་བྱེད་དགོས།"
 
 msgid "[read only]"
 msgstr "[ཀློག་ཙམ]"
@@ -798,7 +803,7 @@ msgid "_Open With…"
 msgstr "ཁ་འབྱེད་སྟངས། (_O) ..."
 
 msgid "_Open the Archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཁ་འབྱེད།(_O)"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཁ་ཕྱེ་བ། (_O)"
 
 msgid "_Open…"
 msgstr "ཁ་འབྱེད།(_O)..."
