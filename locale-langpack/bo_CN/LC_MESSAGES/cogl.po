@@ -1,17 +1,19 @@
-#
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
-"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
+"Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
+"xenial-tibetan/cogl/bo_CN/>\n"
 "Language: bo_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "Add wire outlines for all geometry"
 msgstr "གཟུགས་དབྱིབས་ཡོད་ཚད་ལ་ཐིག་སྒྲོམ་སྣོན་དགོས།"
@@ -115,7 +117,7 @@ msgid "Disable texturing any primitives"
 msgstr "གཞི་རྒྱུ་གང་རུང་གིས་རིས་དབྱིབས་སྤྱོད་པ།"
 
 msgid "Disable use of ARB fragment programs"
-msgstr " ARB ཕྲལ་གཅོད་བྱ་རིམ་འགོག་པ།"
+msgstr "ARB ཕྲལ་དྲས་རྒྱག་བྱ་རིམ་འགོག་པ།"
 
 msgid "Disable use of GLSL"
 msgstr "GLSLསྤྱོད་པ་འགོག་པ།"
@@ -139,16 +141,16 @@ msgid "Disables Cogl's attempts to clip some rectangles in software."
 msgstr " Cogl མཉེན་ཆས་སུ་གྲུབ་བཞི་ནར་མོ་ལ་ལ་གཅོག་པའི་ཚོད་ལྟ་འགོག་པ།"
 
 msgid "Dump atlas images"
-msgstr "Atlas པར་རིས་སྤོ་གསོག"
+msgstr "Atlas པར་རིས།་སྤོ་གསོག"
 
 msgid "Dump texture atlas changes to an image file"
-msgstr "རིས་དབྱིབས་Atlas པར་རིས་ཡིག་ཆ་ལ་བཅོས་སྤོ་བྱེད།"
+msgstr "རིས་དབྱིབས་Atlas པར་རིས།་ཡིག་ཆ་ལ་བཅོས་སྤོ་བྱེད།"
 
 msgid "Enables all non-behavioural debug options"
 msgstr "བྱ་སྤྱོད་མིན་པའི་ཚོད་སྒྲིག་འདེམས་ཚན་ཚང་མ་མགོ་སློང་།"
 
 msgid "Logs information about how Cogl is implementing clipping"
-msgstr " Cogl ཡིས་ཇི་ལྟར་གཅོད་པའི་འབྲེལ་ཡོད་ཆ་འཕྲིན་ཐོ་འགོད།"
+msgstr "Cogl ཡིས་ཇི་ལྟར་དྲས་རྒྱག་པའི་འབྲེལ་ཡོད་ཆ་འཕྲིན་ཐོ་འགོད།"
 
 msgid ""
 "Makes Cogl think that the GL driver doesn't support NPOT textures so that it"
@@ -171,7 +173,7 @@ msgid "Show generated ARBfp/GLSL source code"
 msgstr "མངོན་གྲུབ་ཀྱིས་ARBfp/GLSL ཁུངས་ཚབ་ཨང་།"
 
 msgid "Show how geometry is being batched in the journal"
-msgstr "དབྱིབས་རྩིས་གཟུགས་ཉིན་ཐོའི་ནང་དུ་སྒྲིག་གཅོད་ཀྱི་གནས་ཚུལ་མངོན་པ།"
+msgstr "དབྱིབས་རྩིས་གཟུགས་ཉིན་ཐོའི་ནང་དུ་སྒྲིག་དྲས་རྒྱག་ཀྱི་གནས་ཚུལ་མངོན་པ།"
 
 msgid "Show source"
 msgstr "ཁུངས་ཚབ་ཨང་མངོན་པ།"
@@ -207,13 +209,13 @@ msgid "Trace Pango Renderer"
 msgstr " Pango རྒྱན་ཆས་རྗེས་འདེད།"
 
 msgid "Trace Texture Slicing"
-msgstr "རིས་དབྱིབས་ལེབ་གཅོད་རྗེས་འདེད།"
+msgstr "རིས་དབྱིབས་ལེབ་དྲས་རྒྱག་རྗེས་འདེད།"
 
 msgid "Trace all matrix manipulation"
 msgstr "གྲུ་བཞི་ནར་མོའི་བཀོལ་སྤྱོད་རྗེས་འདེད།"
 
 msgid "Trace clipping"
-msgstr "གཅོད་འབྲེག་རྗེས་འདེད།"
+msgstr "དྲས་རྒྱག་འབྲེག་རྗེས་འདེད།"
 
 msgid "Trace matrices"
 msgstr "གྲུ་བཞི་ནར་མོ་རྗེས་འདེད།"
@@ -257,4 +259,4 @@ msgid ""
 msgstr ""
 
 msgid "debug the creation of texture slices"
-msgstr "རིས་དབྱིབས་ལེབ་གཅོད་ཚོད་སྒྲིག་གསར་བཟོ།"
+msgstr "རིས་དབྱིབས་ལེབ་དྲས་རྒྱག་ཚོད་སྒྲིག་གསར་བཟོ།"
