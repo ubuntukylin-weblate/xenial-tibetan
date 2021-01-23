@@ -1,12 +1,13 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-17 04:58+0000\n"
-"Last-Translator: rzdj <1046447973@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/biometric-authentication/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -209,10 +210,10 @@ msgid "Capture feature successful"
 msgstr "ཁྱད་རྟགས་འཛིན་བཟུང་ལེགས་འགྲུབ་བྱུང་།"
 
 msgid "Capture image failed"
-msgstr "བརྙན་རིས་འཛིན་བཟུང་ཕམ་པ།"
+msgstr "བརྙན་རིས།་འཛིན་བཟུང་ཕམ་པ།"
 
 msgid "Capture image success"
-msgstr "བརྙན་རིས་འཛིན་བཟུང་ལེགས་འགྲུབ་བྱུང་།"
+msgstr "བརྙན་རིས།་འཛིན་བཟུང་ལེགས་འགྲུབ་བྱུང་།"
 
 msgid "Capture operation timeout"
 msgstr "བཀོལ་སྤྱོད་འཛིན་བཟུང་དུས་བརྒལ་བ།"
@@ -221,10 +222,10 @@ msgid "Capture operation was interrupted by the user"
 msgstr "བཀོལ་སྤྱོད་འཛིན་བཟུང་སྤྱོད་མཁན་གྱིས་མཇུག་སྒྲིལ།"
 
 msgid "Capture real-time template failed"
-msgstr "དུས་ཐོག་མ་དཔེ་འཛིན་བཟུང་ཕམ་པ།"
+msgstr "དུས་ཐོག་མ་དཔེ།་འཛིན་བཟུང་ཕམ་པ།"
 
 msgid "Capture real-time template success"
-msgstr "དུས་ཐོག་མ་དཔེ་འཛིན་བཟུང་ལེགས་འགྲུབ་བྱུང་།"
+msgstr "དུས་ཐོག་མ་དཔེ།་འཛིན་བཟུང་ལེགས་འགྲུབ་བྱུང་།"
 
 msgid "Capturing"
 msgstr "ཁྱད་རྟགས་འཛིན་བཟུང་བྱེད་བཞིན་ཡོད།"
@@ -373,7 +374,7 @@ msgid "Device"
 msgstr "སྒྲིག་ཆས།"
 
 msgid "Device %s[%d] received interrupt request\n"
-msgstr "སྒྲིག་ཆས་ %s[%d]བར་གཅོད་རེ་ཞུ་འབྱོར།\n"
+msgstr "སྒྲིག་ཆས་ %s[%d]བར་དྲས་རྒྱག་རེ་ཞུ་འབྱོར།\n"
 
 msgid "Device BBC check error"
 msgstr "སྒྲིག་ཆས་BBCདག་བཤེར་ནོར་འཁྲུལ།"
@@ -412,13 +413,13 @@ msgid "Device is in an unknown status..."
 msgstr "སྒྲིག་ཆས་མི་ཤེས་མེད་པའི་རྣམ་པར་གནས།"
 
 msgid "Device is in process"
-msgstr "སྒྲིག་ཆས་ཐག་གཅོད་བྱེད་བཞིན་པའི་སྒང་།"
+msgstr "སྒྲིག་ཆས་ཐག་དྲས་རྒྱག་བྱེད་བཞིན་པའི་སྒང་།"
 
 msgid "Device operates abnormally, hardware version does not match"
 msgstr "སྒྲིག་ཆས་རྒྱུན་འགལ།སྲ་ཆས་པར་གཞི་མི་འཚམ།"
 
 msgid "Device returns unknown data and skips processing"
-msgstr "སྒྲིག་ཆས་ཡིས་མ་ཤེས་པའི་གཞི་གྲངས་ཕྱིར་ལོག སྒྲིག་གཅོད་མི་བྱེད།"
+msgstr "སྒྲིག་ཆས་ཡིས་མ་ཤེས་པའི་གཞི་གྲངས་ཕྱིར་ལོག སྒྲིག་དྲས་རྒྱག་མི་བྱེད།"
 
 msgid "Device started successfully! The current version is: v"
 msgstr "སྒྲིག་ཆས་འགོ་སློང་ལེགས་གྲུབ་བྱུང་།མིག་སྔའི་པར་གཞི་མི：v"
@@ -682,7 +683,7 @@ msgid "Generate fingerprint characteristics failed"
 msgstr "མཛུབ་རིས་ཁྱད་རྟགས་གྲུབ་པར་ཕམ་པ།"
 
 msgid "Generate fingerprint template failed"
-msgstr "མཛུབ་རིས་མ་དཔེ་འགྲུབ་པ་ཕམ་པ།"
+msgstr "མཛུབ་རིས་མ་དཔེ།་འགྲུབ་པ་ཕམ་པ།"
 
 msgid "Generate real-time template failed"
 msgstr "དུས་ཐོག་དཔེ་པང་འབྱུང་བར་ཕམ་པ།"
@@ -923,10 +924,10 @@ msgid "No."
 msgstr "No."
 
 msgid "No.%d processing end, ret = %d ...\n"
-msgstr "ཐེངས་ %d སྒྲིག་གཅོད་མཇུག་སྒྲིལ།ret = %d ...\n"
+msgstr "ཐེངས་ %d སྒྲིག་དྲས་རྒྱག་མཇུག་སྒྲིལ།ret = %d ...\n"
 
 msgid "No.%d processing starts ...\n"
-msgstr "ཐེངས་ %d སྒྲིག་གཅོད་འགོ་བརྩམས།\n"
+msgstr "ཐེངས་ %d སྒྲིག་དྲས་རྒྱག་འགོ་བརྩམས།\n"
 
 msgid "Not allowed to issue the interface internal command"
 msgstr "མཐུད་སྣེའི་ནང་ཁུལ་གྱི་བཀའ་བརྡ་གཤམ་ལ་བསྒྲགས་མི་ཆོག"
@@ -995,8 +996,8 @@ msgid ""
 "Please place your finger again because of poor quality of the sample or "
 "other scanning problems"
 msgstr ""
-"དཔེ་སྒྲུག་པའི་པར་རིས་ཀྱི་རྒྱུ་སྤུས་ཞན་པའམ་ཡང་ན་བཤར་འབེབས་གཞན་པའི་གནད་དོན་གྱིས"
-"་མཛུབ་རིས་དཔེ་སྒྲུག་ཕམ་པ།བསྐྱར་དུ་མཛུབ་མོ་འཇོག་རོགས།"
+"དཔེ་སྒྲུག་པའི་པར་རིས།་ཀྱི་རྒྱུ་སྤུས་ཞན་པའམ་ཡང་ན་བཤར་འབེབས་གཞན་པའི་གནད་དོན་གྱི"
+"ས་མཛུབ་རིས་དཔེ་སྒྲུག་ཕམ་པ།བསྐྱར་དུ་མཛུབ་མོ་འཇོག་རོགས།"
 
 msgid "R301 device has insufficient storage space to record the fingerprint"
 msgstr "R301སྒྲིག་ཆས་གསོག་འཇོག་བར་སྟོང་མི་འདང་བས།མཛུབ་རིས་དེ་ཕབ་འཇུག་མི་ཐུབ།"
@@ -1327,7 +1328,7 @@ msgid ""
 "framework service."
 msgstr ""
 "སྐྱེ་དངོས་ཀྱི་ཁྱད་རྟགས་ངོས་འཛིན་རྒྱབ་སྟེགས་སྒྲོམ་གཞིའི་ཞབས་ཞུ་བསྐྱར་སློང་བྱས་"
-"ནས་གནད་དོན་ཐག་གཅོད་བྱེད་ཆོག"
+"ནས་གནད་དོན་ཐག་དྲས་རྒྱག་བྱེད་ཆོག"
 
 msgid "There are %d feature samples to renaming failed, please try again\n"
 msgstr "ཁྱད་རྟགས་%d དཔེ་སྒྲུག་མིང་བསྐྱར་འདོགས་ཕམ་པ།ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་རོགས།\n"
@@ -1558,4 +1559,4 @@ msgstr ""
 "timeout = %d\n"
 
 msgid "sqlite3 prepare err: %s\n"
-msgstr "sqlite3སྔོན་གྱི་སྒྲིག་གཅོད་ནོར་འཁྲུལ།：%s\n"
+msgstr "sqlite3སྔོན་གྱི་སྒྲིག་དྲས་རྒྱག་ནོར་འཁྲུལ།：%s\n"
