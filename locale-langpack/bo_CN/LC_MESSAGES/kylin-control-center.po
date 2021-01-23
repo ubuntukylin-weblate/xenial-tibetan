@@ -1,13 +1,14 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-12 02:12+0000\n"
-"Last-Translator: rzdj <1046447973@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:59+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/kylin-control-center/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -131,8 +132,8 @@ msgid ""
 "\"To edit a shortcut key, click on the corresponding row and type a new key \"\n"
 "\"combination, or press backspace to clear.\""
 msgstr ""
-"མགྱོགས་མཐེབ་རྩོམ་སྒྲིག་བྱེད་དགོས་ན། "
-"ལྟོས་བཅོས་ཀྱི་ཕྲེང་ལ་ཆིག་རྡེབ་བྱས་ཏེ་མཐེབ་གནོན་ཚན་སྡེབ་གསར་པ་ནང་འཇུག་གམ་ཕྱིར་འཐེན་མཐེབ་མནན་ནས་གཙང་སེལ་གྱིས།"
+"མགྱོགས།མཐེབ་རྩོམ་སྒྲིག་བྱེད་དགོས་ན། ལྟོས་བཅོས་ཀྱི་ཕྲེང་ལ་ཆིག་རྡེབ་བྱས་ཏེ་མཐེབ"
+"་གནོན་ཚན་སྡེབ་གསར་པ་ནང་འཇུག་གམ་ཕྱིར་འཐེན་མཐེབ་མནན་ནས་གཙང་སེལ་གྱིས།"
 
 msgid "%d hour"
 msgid_plural "%d hours"
@@ -273,7 +274,7 @@ msgstr "<b>ལག་སྒུལ་སྡེབ་སྒྲིག་ལས་ཚ
 
 msgid "<i>( Automatic Detection Note )</i>"
 msgstr ""
-"<i>（གཟབ་རྒྱུ།：གལ་ཏེ་3Dརི་མོ་བཀོལ་ནས་མགྱོགས་སུ་གཏོང་འདོད་པ་མ་ཟད།xmanagerབཀོལ་ན"
+"<i>（གཟབ་རྒྱུ།：གལ་ཏེ་3Dརི་མོ་བཀོལ་ནས་མགྱོགས།སུ་གཏོང་འདོད་པ་མ་ཟད།xmanagerབཀོལ་ན"
 "ས་རི་མོ་སྦྲེལ་དགོས་ཚེ།དོན་ཚན་འདི་འདེམ་དགོས།）</i>"
 
 msgid "<i>( Compatible Note )</i>"
@@ -283,8 +284,8 @@ msgstr ""
 
 msgid "<i>( High Performance Note )</i>"
 msgstr ""
-"<i>（ གཟབ་རྒྱུ།：མ་དཔེ་འདིས་Windowsཐོག་ཏུ་xmanagerསོགས་ཀྱི་ཡོ་བྱད་ཀྱིས་རི་མོ་སྦ"
-"ྲེལ་མི་ཐུབ།）</i>"
+"<i>（ གཟབ་རྒྱུ།：མ་དཔེ།་འདིས་Windowsཐོག་ཏུ་xmanagerསོགས་ཀྱི་ཡོ་བྱད་ཀྱིས་རི་མོ་ས"
+"ྦྲེལ་མི་ཐུབ།）</i>"
 
 msgid ""
 "<span weight='bold' font_desc='11'>do you confirm to delete all the files of"
@@ -420,7 +421,7 @@ msgid "Boot program property details"
 msgstr "འགོ་སློང་བྱ་རིམ་གྱི་ཞིབ་ཕྲའི་གཏོགས་གཤིས།"
 
 msgid "Browse more pictures"
-msgstr "པར་རིས་དེ་བས་མང་བར་མིག་བཤར།"
+msgstr "པར་རིས།་དེ་བས་མང་བར་མིག་བཤར།"
 
 msgid "Browse more pictures..."
 msgstr "རི་མོ་དེ་བས་མང་བར་མིག་བཤར།"
@@ -551,8 +552,7 @@ msgstr ""
 
 msgid "Computer"
 msgid_plural "Computers"
-msgstr[0] "རྩིས་འཁོར།"
-msgstr[1] "རྩིས་འཁོར།"
+msgstr[0] "རྩིས་ཆས།"
 
 msgid "Computer status"
 msgstr "རྩིས་འཁོར་གྱི་རྣམ་པ་བཟོ་བཅོས་བྱེད་པ།"
@@ -709,7 +709,7 @@ msgid "Enable _window and button sounds"
 msgstr "སྒེའུ་ཁུང་དང་མཐེབ་གནོན་སྐད་སྒྲ་སྤྱོད་འགོ་རྩོམ་པ།(_W)"
 
 msgid "Enable auto energy saving use bat"
-msgstr "གློག་སྨན་སྤྱོད་སྐབས་གློག་ཁུངས་ཀྱི་མ་དཔེ་རང་འགུལ་བརྗེ་ནུས་ཁ་འབྱེད་དགོས།"
+msgstr "གློག་སྨན་སྤྱོད་སྐབས་གློག་ཁུངས་ཀྱི་མ་དཔེ།་རང་འགུལ་བརྗེ་ནུས་ཁ་འབྱེད་དགོས།"
 
 msgid "Enable h_orizontal scrolling"
 msgstr "ཆུ་སྙོམས་འདེད་འགྲིལ་སྤྱོད་འགོ་རྩོམ་པ།（O）"
@@ -746,7 +746,7 @@ msgid "Fair"
 msgstr "འགྲིག་ཙམ།"
 
 msgid "Fast"
-msgstr "མགྱོགས་པོ།"
+msgstr "མགྱོགས།པོ།"
 
 msgid "File Description:"
 msgstr "ཞིབ་བརྗོད།"
@@ -785,7 +785,7 @@ msgid "Function description"
 msgstr "བྱེད་ནུས་གསལ་བཤད།"
 
 msgid "General"
-msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
+msgstr "སྤྱི་སྤྱོད།་སྒྲིག་འགོད།"
 
 msgid "Good"
 msgstr "ཅུང་བཟང་།"
@@ -814,10 +814,10 @@ msgstr "མཐོ།"
 msgid "High Performance Brief"
 msgstr ""
 "རང་ཚུགས་འཆར་བྱང་ཡོད་པའི་འཕྲུལ་ཆས་ལ་འཚམ་པ།འཆར་བྱང་གི་ནུས་པ་འདོན་སྤེལ་བྱེད་ཐུབ་"
-"པ་དང་།3Dརིས་འབྲི་ཇེ་མགྱོགས་སུ་གཏོང་ཐུབ།"
+"པ་དང་།3Dརིས་འབྲི་ཇེ་མགྱོགས།སུ་གཏོང་ཐུབ།"
 
 msgid "Home"
-msgstr "རྩིས་འཁོར།"
+msgstr "རྩིས་ཆས།"
 
 msgid "Hotkey"
 msgstr "ཚ་མཐེབ།"
@@ -835,7 +835,7 @@ msgid "Ignored Hosts"
 msgstr "སྣང་མེད་དུ་བཞག་པའི་གཙོ་འཁོར།"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "པར་རིས།།"
 
 msgid "Important Log"
 msgstr "གལ་ཆེའི་ཉིན་ཐོ།"
@@ -1094,7 +1094,7 @@ msgid "Personalization_"
 msgstr "རང་གཤིས་ཅན།"
 
 msgid "Pictures folder"
-msgstr "པར་རིས་ཡིག་ཁུག"
+msgstr "པར་རིས།་ཡིག་ཁུག"
 
 msgid ""
 "Please add the language you will use to the list. And the first one in the list is the most\n"
@@ -1154,7 +1154,7 @@ msgid "Please select the clearest sample text"
 msgstr "ཁྱེད་རང་གིས་བལྟས་ན་གསལ་ཤོས་ཀྱི་ཡིག་ཆའི་དཔེ་མཚོན་འདེམས།"
 
 msgid "Pointer moving speed"
-msgstr "སྟོན་ཁབ་སྤོ་འགུལ་མྱུར་ཚད།"
+msgstr "སྟོན་ཁབ་སྤོ་འགུལ།མྱུར་ཚད།"
 
 msgid "Poor"
 msgstr "ཞན།"
@@ -1434,7 +1434,7 @@ msgid "Stretch"
 msgstr "རྐྱོང་བ།"
 
 msgid "Style:"
-msgstr "པར་རིས་འཇོག་སྟངས།"
+msgstr "པར་རིས།་འཇོག་སྟངས།"
 
 msgid "Sub_pixel (LCDs)"
 msgstr "བརྙན་རྒྱུ་ཕལ་བ།(_P)། (LCDs)"
@@ -1620,7 +1620,7 @@ msgid "Time_out:"
 msgstr "དུས་བརྒལ།(O):"
 
 msgid "Tip: support less than 1M pic"
-msgstr "གསལ་འདེབས།：དབུ་བརྙན་པར་རིས་1Mལས་ཆུང་དགོས།"
+msgstr "གསལ་འདེབས།：དབུ་བརྙན་པར་རིས།་1Mལས་ཆུང་དགོས།"
 
 msgid "To test the repetition rate of the input character:"
 msgstr "ཡིག་རྟགས་ནང་འཇུག་བྱས་ནས་བསྐྱར་ཟློས་འགྲོས་ཚད་ཚོད་ལྟ་བྱེད་པ།："
@@ -1821,7 +1821,7 @@ msgid "_Slight"
 msgstr "ཕྲན་སྒྲིག"
 
 msgid "_Speed:"
-msgstr "མྱུར་ཚད།（S）"
+msgstr "མགྱོགས།ཚད། (_S)："
 
 msgid "_Subwoofer(_S):"
 msgstr "སྒྲ་དམན་སྒྱོགས།(_S):"
@@ -1907,7 +1907,7 @@ msgid ""
 "documents, favorites, music, pictures and video folder will be deleted!"
 msgstr ""
 "གལ་ཏེ་སྤྱོད་མཁན་ %s བསུབ་དགོས་ན།སྤྱོད་མཁན་དེའི་ཅོག་ངོས་དང་།ཡིག་ཚགས།བསྡུ་ཉར་ཁུ"
-"ག་མ།རོལ་དབྱངས།པར་རིས།བརྙན་ལམ་ཡིག་ཁུག་བཅས་ཀྱི་ནང་དོན་ཚང་མ་བསུབ་ངེས་ཡིན།།"
+"ག་མ།རོལ་དབྱངས།།པར་རིས།།བརྙན་ལམ་ཡིག་ཁུག་བཅས་ཀྱི་ནང་དོན་ཚང་མ་བསུབ་ངེས་ཡིན།།"
 
 msgid "is the same as the old one"
 msgstr "གསང་ཨང་གསར་པ་དང་གསང་ཨང་རྙིང་པ་གཅིག་པ་རེད།"
@@ -2058,7 +2058,7 @@ msgid "scan…"
 msgstr "མིག་བཤར།…"
 
 msgid "select picture"
-msgstr "པར་རིས་འདེམ་པ།"
+msgstr "པར་རིས།་འདེམ་པ།"
 
 msgid "show icon when battery c_harge"
 msgstr "གློག་སྨན་ཁོ་ན་སྤྱོད་སྐབས་རིས་རྟགས་འཆར་བ།(H)"
