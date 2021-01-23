@@ -1,12 +1,13 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-03 13:04+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:59+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/mate-utils/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid ""
 "\n"
@@ -184,7 +185,7 @@ msgid "Another search is in progress"
 msgstr "འཚོལ་བཤེར་ཚན་པ་གཞན་ཞིག་གིས་འཚོལ་བཞིན་ཡོད།"
 
 msgid "Application does not accept documents on command line"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས་མི་ལེན།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས།་མི་ལེན།"
 
 msgid "Apply _effect:"
 msgstr "ཉེར་སྤྱོད་དམིགས་བསལ་ནུས་པ།(_E)："
@@ -251,7 +252,7 @@ msgid "Can't access source file"
 msgstr "ཁུངས་ཡིག་ཆར་ལྟ་སྤྱོད་བྱེད་ཐབས་བྲལ་བ།"
 
 msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "ཡིག་ཚགས་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
 
 msgid "Can't read from \"%s\""
 msgstr "%sནས་ཀློག་མི་ཆོག"
@@ -683,7 +684,7 @@ msgid "Find Previous"
 msgstr "གོང་མ་འཚོལ་བ།"
 
 msgid "Find a word or phrase in the document"
-msgstr "ཡིག་ཚགས་ཁྲོད་ནས་ཐ་སྙད་དང་ཚིག་དུམ་འཚོལ་བ།"
+msgstr "ཡིག་ཚགས།་སུ་ཐ་སྙད་ཡང་ན་ཚིག་དུམ་འཚོལ།"
 
 msgid "Find a word or phrase in the log"
 msgstr "ཉིན་ཐོའི་ནང་ཐ་སྙད་དང་ཚིག་དུམ་འཚོལ་བ།"
@@ -830,7 +831,8 @@ msgstr ""
 
 msgid "Locate documents and folders on this computer by name or content"
 msgstr ""
-"མིང་ངམ་ཡང་ན་ནང་དོན་ལྟར་རྩིས་འཁོར་འདིའི་ཁྲོད་ཀྱི་ཡིག་ཚགས་དང་ཡིག་སྡེར་གནས་ངེས་ཀྱིས།"
+"མིང་ངམ་ཡང་ན་ནང་དོན་ལྟར་རྩིས་འཁོར་འདིའི་ཁྲོད་ཀྱི་ཡིག་ཚགས།་དང་ཡིག་སྡེར་གནས་ངེས་"
+"ཀྱིས།"
 
 msgid "Log File Viewer"
 msgstr ""
@@ -1040,16 +1042,16 @@ msgid "Print the text of the definition"
 msgstr "གཏག་པར་མཚན་ཉིད་ཀྱི་ཡིག་ཆ།"
 
 msgid "Print this document"
-msgstr "ཡིག་ཚགས་འདི་པར་དུ་ཐོབ།"
+msgstr "ཡིག་ཚགས།་འདི་པར་འདེབས་བྱེད།"
 
 msgid "Public FTP"
 msgstr "ཡོངས་བསྒྲགས། FTP"
 
 msgid "Quick Search Excluded Paths"
-msgstr "མགྱོགས་མྱུར་འཚོལ་སེལ་གྱི་ལམ།"
+msgstr "མགྱོགས།མྱུར་འཚོལ་སེལ་གྱི་ལམ།"
 
 msgid "Quick Search Second Scan Excluded Paths"
-msgstr "མགྱོགས་མྱུར་བཤར་འབེབས་ཐེངས་གཉིས་པའི་འཚོལ་སེལ་ལམ་འཚོལ་བ།"
+msgstr "མགྱོགས།མྱུར་བཤར་འབེབས་ཐེངས་གཉིས་པའི་འཚོལ་སེལ་ལམ་འཚོལ་བ།"
 
 msgid "Quit the log viewer"
 msgstr "ཉིན་ཐོར་ལྟ་ཆས་ལས་ཕྱིར་འབུད།"
@@ -1437,13 +1439,13 @@ msgid "System Log Viewer"
 msgstr "རྒྱུད་ཁོངས་ཉིན་ཐོར་ལྟ་ཆས།"
 
 msgid "Take Screenshot"
-msgstr "པར་བཅད་ལེན་།"
+msgstr "པར་བཅད་ལེན།"
 
 msgid "Take _Screenshot"
 msgstr "བཅད་རིས། (_S)"
 
 msgid "Take a picture of the screen"
-msgstr "བརྙན་ཤེལ་གྱི་པར་རིས་ལེན་པ།"
+msgstr "བརྙན་ཤེལ་གྱི་པར་རིས།་ལེན་པ།"
 
 msgid "Take screenshot after specified delay [in seconds]"
 msgstr "དམིགས་འཛུགས་ཕྱི་འགྱངས་རྗེས་རི་མོ་བཅད་པ [ སྐར་ཆ་ཡིས་རྩིས་པ ]"
@@ -1569,7 +1571,7 @@ msgid ""
 "the quick search feature?"
 msgstr ""
 "བཤེར་འཚོལ་མཇུག་འབྲས་ནི་དུས་ལས་ཡོལ་བའམ་ཡང་ན་ནུས་པ་མེད། "
-"ཁྱེད་རང་གིས་མགྱོགས་མྱུར་འཚོལ་བཤེར་གྱི་ཁྱད་ཆོས་སྤྱོད་མི་ཆོག་པར་བཟོ་འདོད་དམ།"
+"ཁྱེད་རང་གིས་མགྱོགས།མྱུར་འཚོལ་བཤེར་གྱི་ཁྱད་ཆོས་སྤྱོད་མི་ཆོག་པར་བཟོ་འདོད་དམ།"
 
 msgid "The status code as returned by the dictionary server"
 msgstr "ཚིག་མཛོད་ཞབས་ཞུ་ཆས་ཕྱིར་ལོག་པའི་རྣམ་པའི་ཚབ་ཨང་།"
@@ -1723,7 +1725,7 @@ msgid ""
 "This key determines if the search tool disables the use of the find command "
 "after performing a quick search."
 msgstr ""
-"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆས་མགྱོགས་མྱུར་འཚོལ་བཤེར་ལག་བསྟར་བྱས་རྗེས་find "
+"མཐེབ་དེ་ཡིས་འཚོལ་བཤེར་ལག་ཆས་མགྱོགས།མྱུར་འཚོལ་བཤེར་ལག་བསྟར་བྱས་རྗེས་find "
 "བཀའ་བརྡ་སྤྱོད་པ་འགོག་མིན་ཐག་གཅོད།"
 
 msgid ""
@@ -1863,7 +1865,7 @@ msgid "Unable to set the channel as non-blocking: %s"
 msgstr "ཟློས་ལམ་སྒྲིབ་ཡོལ་མ་ཡིན་པའི་རིགས་སུ་སྒྲིག་ཐབས་བྲལ།：%s"
 
 msgid "Unable to take a screenshot of the current window"
-msgstr "མིག་སྔའི་སྒེའུ་ཁུང་ལས་པར་རིས་འཛིན་ཐབས་བྲལ་བ།"
+msgstr "མིག་སྔའི་སྒེའུ་ཁུང་ལས་པར་རིས།་འཛིན་ཐབས་བྲལ་བ།"
 
 msgid "Unknown error saving screenshot to disk"
 msgstr "པར་བཟུང་ནས་སྡུད་སྡེར་དུ་ཉར་ཚགས་བྱེད་པར་ངེས་མེད་ཀྱི་ནོར་འཁྲུལ་འབྱུང་བ།"
