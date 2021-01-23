@@ -1,12 +1,13 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/aptdaemon/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,13 +15,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "%"
 msgstr "%"
 
 msgid "%sB more disk space will be used."
-msgstr "%sB ཡི་སྡུད་སྡེར་བར་སྟོང་མང་གཅོད་བྱེད།"
+msgstr "%sB ཡི་སྡུད་སྡེར་བར་སྟོང་མང་དྲས་རྒྱག་བྱེད།"
 
 msgid "%sB of disk space will be freed."
 msgstr " %sB སྡུད་སྡེར་བར་སྟོང་ལྷོད།"
@@ -101,7 +102,7 @@ msgid "Allow packages from unauthenticated sources"
 msgstr "ཡོང་ཁུངས་དཔང་མི་ཐུབ་པའི་མཉེན་ཆས་ཐུམ་ཆོག་པ་ཡིན།"
 
 msgid "An unhandlable error occured"
-msgstr "སྒྲིག་གཅོད་བྱ་མི་ཐུབ་པའི་ནོར་འཁྲུལ་ཞིག་བྱུང་།"
+msgstr "སྒྲིག་དྲས་རྒྱག་བྱ་མི་ཐུབ་པའི་ནོར་འཁྲུལ་ཞིག་བྱུང་།"
 
 msgid "Applied changes"
 msgstr "ཉེར་སྤྱོད་ཀྱི་བཅོས་བསྒྱུར།"
@@ -459,7 +460,7 @@ msgid "Previous installation hasn't been completed"
 msgstr "ཐེངས་སྔོན་མའི་སྒྲིག་འཇུག་ལེགས་འགྲུབ་མ་འབྱུང་།"
 
 msgid "Processing %s"
-msgstr "%sཐག་གཅོད་བྱེད་པ།"
+msgstr "%sཐག་དྲས་རྒྱག་བྱེད་པ།"
 
 msgid "Purge"
 msgstr "གཙང་སེལ།"
@@ -573,7 +574,7 @@ msgid "Requires installation of untrusted packages"
 msgstr "ཡིད་རྟོན་མིན་པའི་མཉེན་ཆས་ཐུམ་སྒྲིག་འཇུག་བྱ་དགོས་སམ།"
 
 msgid "Resolving dependencies"
-msgstr "བརྟེན་འབྲེལ་ཐག་གཅོད་པ།"
+msgstr "བརྟེན་འབྲེལ་ཐག་དྲས་རྒྱག་པ།"
 
 msgid "Running post-installation trigger %s"
 msgstr "འཁོར་སྐྱོད་སྒྲིག་འཇུག་བྱས་རྗེས་ཀྱི་འཕྲད་འབྱུང་ཆས %s"
@@ -599,7 +600,7 @@ msgid ""
 msgstr "མཉེན་ཆས་ཐུམ་འདིའི་ཟུར་སྣོན་ཆ་འཕྲིན་མངོན་པ། ད་པར་ཨང་ཁོ་ན་མངོན།"
 
 msgid "Show internal processing information"
-msgstr "ནང་ཁུལ་གྱི་སྒྲིག་གཅོད་ཆ་འཕྲིན་མངོན་པ།"
+msgstr "ནང་ཁུལ་གྱི་སྒྲིག་དྲས་རྒྱག་ཆ་འཕྲིན་མངོན་པ།"
 
 msgid "Skip upgrade"
 msgstr "རིམ་སྤེལ་མཆོངས་པ།"
