@@ -905,7 +905,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Forward and rewind</source>
-        <translation>མགྱོགས་པོར་སོང་།</translation>
+        <translation>མགྱོགས།པོར་སོང་།</translation>
     </message>
     <message>
         <source>Choose a directory</source>
@@ -2055,7 +2055,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Dance</source>
-        <translation>རོལ་དབྱངས།</translation>
+        <translation>རོལ་དབྱངས།།</translation>
     </message>
     <message>
         <source>Party</source>
@@ -2099,11 +2099,11 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Reggae</source>
-        <translation>ལེ་ཀའེ་ཞབས་བྲོའི་རོལ་དབྱངས།</translation>
+        <translation>ལེ་ཀའེ་ཞབས་བྲོའི་རོལ་དབྱངས།།</translation>
     </message>
     <message>
         <source>Techno</source>
-        <translation>གློག་རྡུལ་ཞབས་བྲོའི་རོལ་དབྱངས་</translation>
+        <translation>གློག་རྡུལ་ཞབས་བྲོའི་རོལ་དབྱངས།་</translation>
     </message>
     <message>
         <source>Use the current values as default values for new videos.</source>
@@ -2285,7 +2285,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Sample Rate:</source>
-        <translation>མ་དཔེ་ལེན་ཚད།</translation>
+        <translation>མ་དཔེ།་ལེན་ཚད།</translation>
     </message>
     <message>
         <source>Resolution:</source>
@@ -2372,7 +2372,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Default subtitle encoding</source>
-        <translation>མ་དཔེའི་་ཡིག་བརྙན་ཨང་སྒྲིག</translation>
+        <translation>མ་དཔེ།འི་་ཡིག་བརྙན་ཨང་སྒྲིག</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -2380,7 +2380,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Select the encoding which will be used for subtitle files by default.</source>
-        <translation>ཡིག་བརྙན་ཡིག་ཆའི་མ་དཔེའི་ཨང་སྒྲིག་འདེམས་པ།</translation>
+        <translation>ཡིག་བརྙན་ཡིག་ཆའི་མ་དཔེ།འི་ཨང་སྒྲིག་འདེམས་པ།</translation>
     </message>
     <message>
         <source>Autoload</source>
@@ -2528,7 +2528,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>Enable/disable drawing video by 16-pixel height slices/bands. If disabled, the whole frame is drawn in a single run. May be faster or slower, depending on video card and available cache. It has effect only with libmpeg2 and libavcodec codecs.</source>
-        <translation>16-བརྙན་རྒྱུའི་མཐོ་ཚདབཀོལ་སྤྱོད་བྱེད་པའམ་ཡང་ན་བཀོལ་མི་ཆོག འདི་བཀོལ་ནས་བརྙན་རིས་འབྲི་དགོས། གལ་ཏེ་བཀོལ་མི་ཆོག་ན།ཐེངས་གཅིག་ལ་འཁོར་སྐྱོད་བྱས་ནས་ལྡེབ་ཧྲིལ་པོ་འབྲི་དགོས། ཕལ་ཆེར་མགྱོགས་པའམ་ཡང་ན་དེ་ལས་དལ་བ།དེ་ནི་བྱང་བུའི་བྱང་བུ་དང་སྤྱོད་རུང་གི་ལྷོད་གསོག་ལ་རག་ལས་ཡོད། དེ་libmpeg2དང་libavcodecཨང་སྒྲིག་ཆས་ཕན་འབྲས/འཁྱེར་ནས་བརྙན་རིས་འབྲི་དགོས། གལ་ཏེ་བཀོལ་མི་ཆོག་ན།ཐེངས་གཅིག་ལ་འཁོར་སྐྱོད་བྱས་ནས་ལྡེབ་ཧྲིལ་པོ་འབྲི་དགོས། ཕལ་ཆེར་མགྱོགས་པའམ་ཡང་ན་དེ་ལས་དལ་བ།དེ་ནི་བྱང་བུའི་བྱང་བུ་དང་སྤྱོད་རུང་གི་ལྷོད་གསོག་ལ་རག་ལས་ཡོད།</translation>
+        <translation>16-བརྙན་རྒྱུའི་མཐོ་ཚདབཀོལ་སྤྱོད་བྱེད་པའམ་ཡང་ན་བཀོལ་མི་ཆོག འདི་བཀོལ་ནས་བརྙན་རིས་འབྲི་དགོས། གལ་ཏེ་བཀོལ་མི་ཆོག་ན།ཐེངས་གཅིག་ལ་འཁོར་སྐྱོད་བྱས་ནས་ལྡེབ་ཧྲིལ་པོ་འབྲི་དགོས། ཕལ་ཆེར་མགྱོགས།པའམ་ཡང་ན་དེ་ལས་དལ་བ།དེ་ནི་བྱང་བུའི་བྱང་བུ་དང་སྤྱོད་རུང་གི་ལྷོད་གསོག་ལ་རག་ལས་ཡོད། དེ་libmpeg2དང་libavcodecཨང་སྒྲིག་ཆས་ཕན་འབྲས/འཁྱེར་ནས་བརྙན་རིས་འབྲི་དགོས། གལ་ཏེ་བཀོལ་མི་ཆོག་ན།ཐེངས་གཅིག་ལ་འཁོར་སྐྱོད་བྱས་ནས་ལྡེབ་ཧྲིལ་པོ་འབྲི་དགོས། ཕལ་ཆེར་མགྱོགས།པའམ་ཡང་ན་དེ་ལས་དལ་བ།དེ་ནི་བྱང་བུའི་བྱང་བུ་དང་སྤྱོད་རུང་གི་ལྷོད་གསོག་ལ་རག་ལས་ཡོད།</translation>
     </message>
     <message>
         <source>Video output driver</source>
@@ -2760,11 +2760,11 @@ Do you want to overwrite?</source>
     <name>PrefScreenShot</name>
     <message>
         <source>Template for screenshots</source>
-        <translation>བརྙན་ཡོལ་བཅད་རིས་མ་དཔེ།</translation>
+        <translation>བརྙན་ཡོལ་བཅད་རིས་མ་དཔེ།།</translation>
     </message>
     <message>
         <source>Template:</source>
-        <translation>མ་དཔེ།：</translation>
+        <translation>མ་དཔེ།།：</translation>
     </message>
     <message>
         <source>You can use this option to enable or disable the possibility to take screenshots.</source>
@@ -2780,7 +2780,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>This option specifies the filename template used to save screenshots.</source>
-        <translation>འདེམ་བྱང་འདིས་བརྙན་ལམ་གྱི་ངོས་གཅོད་སྐབས་བཀོལ་བའི་ཡིག་ཆའི་མིང་གི་མ་དཔེ་ཉར་ཚགས་བྱས་ཡོད།</translation>
+        <translation>འདེམ་བྱང་འདིས་བརྙན་ལམ་གྱི་ངོས་གཅོད་སྐབས་བཀོལ་བའི་ཡིག་ཆའི་མིང་གི་མ་དཔེ།་ཉར་ཚགས་བྱས་ཡོད།</translation>
     </message>
     <message>
         <source>Enable screenshots</source>
@@ -2800,7 +2800,7 @@ Do you want to overwrite?</source>
     </message>
     <message>
         <source>For a full list of the template specifiers visit this link:</source>
-        <translation>མ་དཔེ་ཆ་ཚང་གིས་གསལ་བཤད་བྱས་པ་ནི་རྟགས་ཀྱི་རེའུ་མིག་འདིར་ནང་ཞུགས་གནང་རོགས།</translation>
+        <translation>མ་དཔེ།་ཆ་ཚང་གིས་གསལ་བཤད་བྱས་པ་ནི་རྟགས་ཀྱི་རེའུ་མིག་འདིར་ནང་ཞུགས་གནང་རོགས།</translation>
     </message>
     <message>
         <source>Screenshots</source>
