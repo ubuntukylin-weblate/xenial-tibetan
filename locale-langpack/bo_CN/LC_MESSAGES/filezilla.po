@@ -1,12 +1,13 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-12 02:12+0000\n"
-"Last-Translator: rzdj <1046447973@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:59+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/filezilla/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -215,7 +216,7 @@ msgid "&Close FileZilla"
 msgstr "དུད་སྣེ FTP ཁ་རྒྱག་པ། (&C)"
 
 msgid "&Configure speed limits..."
-msgstr "མགྱོགས་ཚད་ཚོད་འཛིན་སྒྲིག་འགོད། (&C)"
+msgstr "མགྱོགས།ཚད་ཚོད་འཛིན་སྒྲིག་འགོད། (&C)"
 
 msgid "&Configure..."
 msgstr "སྡེབ་སྒྲིག (&C)"
@@ -275,13 +276,13 @@ msgid "&Discard local file then download and edit file anew"
 msgstr "རང་སའི་ཡིག་ཆ་དོར་ནས་ཡང་བསྐྱར་ཕབ་ལེན་དང་རྩོམ་སྒྲིག་བྱེད་པ། (&D)"
 
 msgid "&Disconnect"
-msgstr "འབྲེལ་མཐུད་གཅོད་པ། (&D)"
+msgstr "འབྲེལ་མཐུད་དྲས་རྒྱག་པ། (&D)"
 
 msgid "&Disconnect from server"
-msgstr "ཞབས་ཞུ་ཆས་ནས་གཅོད་པ། (&D)"
+msgstr "ཞབས་ཞུ་ཆས་ནས་དྲས་རྒྱག་པ། (&D)"
 
 msgid "&Display momentary transfer speed instead of average speed"
-msgstr "དུས་ཐོག་བརྒྱུད་གཏོང་མགྱོགས་ཚད་མངོན་པ་ལས་ཆ་སྙོམས་ཀྱི་མགྱོགས་ཚད་མིན་པ།"
+msgstr "དུས་ཐོག་བརྒྱུད་གཏོང་མགྱོགས།ཚད་མངོན་པ་ལས་ཆ་སྙོམས་ཀྱི་མགྱོགས།ཚད་མིན་པ།"
 
 msgid "&Display size in bytes"
 msgstr "ཡིག་ཚིགས་ཀྱིས་འཇལ་བྱེད་ཐོག་མངོན་པ།"
@@ -323,7 +324,7 @@ msgid "&Enable compression"
 msgstr "སྡུད་སྒྲིལ་སྤྱོད་པ། (&E)"
 
 msgid "&Enable speed limits"
-msgstr "མགྱོགས་ཚད་ཚོད་འཛིན་སྤྱོད་པ། (&E)"
+msgstr "མགྱོགས།ཚད་ཚོད་འཛིན་སྤྱོད་པ། (&E)"
 
 msgid "&Encoding:"
 msgstr "སྒྲིག་ཨང་། (&E)"
@@ -542,13 +543,13 @@ msgid "&Queue"
 msgstr "རུ་སྟར། (&Q)"
 
 msgid "&Quickconnect"
-msgstr "མགྱོགས་མྱུར་འབྲེལ་མཐུད། (&Q)"
+msgstr "མགྱོགས།མྱུར་འབྲེལ་མཐུད། (&Q)"
 
 msgid "&Quickconnect bar"
-msgstr "མགྱོགས་མྱུར་ངང་ལག་ཆའི་ཚང་ལ་འབྲེལ་བ། (&Q)"
+msgstr "མགྱོགས།མྱུར་ངང་ལག་ཆའི་ཚང་ལ་འབྲེལ་བ། (&Q)"
 
 msgid "&Quickconnect history"
-msgstr "མགྱོགས་མྱུར་ངང་ཚང་གི་ལོ་རྒྱུས་ལ་འབྲེལ་བ། (&Q)"
+msgstr "མགྱོགས།མྱུར་ངང་ཚང་གི་ལོ་རྒྱུས་ལ་འབྲེལ་བ། (&Q)"
 
 msgid "&Read"
 msgstr "ཀློག་ལེན། (&R)"
@@ -671,7 +672,7 @@ msgid "&Skip"
 msgstr "མཆོང་བ། (&S)"
 
 msgid "&Speed limits"
-msgstr "མགྱོགས་ཚད་ཚོད་འཛིན། (&S)"
+msgstr "མགྱོགས།ཚད་ཚོད་འཛིན། (&S)"
 
 msgid "&Start transfer immediately"
 msgstr "མྱུར་དུ་བརྒྱུད་གཏོང་འགོ་རྩོམ། (&S)"
@@ -720,8 +721,8 @@ msgstr "གོམ་མཉམ་མིག་བཤར་བེད་སྤྱོ
 
 msgid "&Use system's default editor for text files"
 msgstr ""
-"རྒྱུད་ཁོངས་ཀྱི་སོར་བཞག་ཡིག་རྐྱང་རྩོམ་སྒྲིག་ཆས་སྤྱད་ནས་ཡིག་རྐྱང་ཡིག་ཆ་ཐག་གཅོད་བྱས་བྱེདཔ།"
-" (&U)"
+"རྒྱུད་ཁོངས་ཀྱི་སོར་བཞག་ཡིག་རྐྱང་རྩོམ་སྒྲིག་ཆས་སྤྱད་ནས་ཡིག་རྐྱང་ཡིག་ཆ་ཐག་དྲས་ར"
+"ྒྱག་བྱས་བྱེདཔ། (&U)"
 
 msgid "&Use the following IP address:"
 msgstr "གཤམ་གྱི IP གནས་ཡུལ་སྤྱོད་པ། (&U)"
@@ -1299,7 +1300,7 @@ msgstr ""
 "འོས་འཚམ་གྱི་གྲོས་ཆིངས་གདམ་དགོས། "
 
 msgid "Cannot load Quickconnect bar from resource file"
-msgstr "ཐོན་ཁུངས་ཡིག་ཆ་ནས་མགྱོགས་མྱུར་འབྲེལ་མཐུད་ཚང་འདྲེན་འཇུག་བྱེད་ཐབས་བྲལ།"
+msgstr "ཐོན་ཁུངས་ཡིག་ཆ་ནས་མགྱོགས།མྱུར་འབྲེལ་མཐུད་ཚང་འདྲེན་འཇུག་བྱེད་ཐབས་བྲལ།"
 
 msgid "Cannot load key file"
 msgstr "གསང་ལྡེའི་ཡིག་ཆ་ཁུར་སྣོན་མི་ཐུབ།"
@@ -1496,7 +1497,7 @@ msgid "Comment"
 msgstr "དཔྱད་གཏམ།"
 
 msgid "Common name:"
-msgstr "སྤྱི་སྤྱོད་མིང་།"
+msgstr "སྤྱི་སྤྱོད།་མིང་།"
 
 msgid "Communication tainted by router or firewall"
 msgstr "འཕྲིན་གཏོང་ལ་ལམ་སྟོན་ཆས་སམ་ཡང་ན་མེ་འགོག་གྱང་གི་ཤུགས་རྐྱེན་ཐེབས་འདུག"
@@ -2119,7 +2120,7 @@ msgid "Disconnected from server: %s"
 msgstr " %s ཞབས་ཞུ་ཆས་ནས་བཅད་པ།"
 
 msgid "Disconnecting from previous server"
-msgstr "ཞབས་ཞུ་ཆས་ཤིག་ནས་འབྲེལ་མཐུད་གཅོད་བཞིན་འདུག"
+msgstr "ཞབས་ཞུ་ཆས་ཤིག་ནས་འབྲེལ་མཐུད་དྲས་རྒྱག་བཞིན་འདུག"
 
 msgid "Disconnects from the currently visible server"
 msgstr "མིག་སྔར་མཐོང་རུང་བའི་ཞབས་ཞུ་ཆས་བཅད་པ།"
@@ -2311,7 +2312,7 @@ msgid "Enter &custom command..."
 msgstr "རང་བཟོས་བཀའ་བརྡ་ནང་འཇུག་བྱེད་པ། (&C)"
 
 msgid "Enter 0 for unlimited speed."
-msgstr "0 ནང་འཇུག་བྱས་ཚེ་མགྱོགས་ཚད་ཀྱི་ཚད་བཀག་མེད་པ་མཚོན། "
+msgstr "0 ནང་འཇུག་བྱས་ཚེ་མགྱོགས།ཚད་ཀྱི་ཚད་བཀག་མེད་པ་མཚོན།"
 
 msgid "Enter command"
 msgstr "བཀའ་བརྡ་ནང་འཇུག"
@@ -2804,7 +2805,7 @@ msgid "Further documentation"
 msgstr "ཡིག་ཚགས་དེ་བས་མང་བ།"
 
 msgid "General"
-msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
+msgstr "སྤྱི་སྤྱོད།་སྒྲིག་འགོད།"
 
 msgid "General SOCKS server failure"
 msgstr "SOCKS ཞབས་ཞུ་ཆས་ཀྱི་རྒྱུན་སྲོལ་སྐྱོན།"
@@ -2946,7 +2947,7 @@ msgid ""
 "connection."
 msgstr ""
 "གལ་ཏེ་གནད་དོན་འདི་སྔར་བཞིན་གནས་ཡོད་ན། "
-"ལམ་སྟོན་ཆས་སམ་མེ་འགོག་གྱང་གིས་འབྲེལ་མཐུད་འདི་སྔར་བཞིན་བར་གཅོད་བྱེད་པ་ཡིན།"
+"ལམ་སྟོན་ཆས་སམ་མེ་འགོག་གྱང་གིས་འབྲེལ་མཐུད་འདི་སྔར་བཞིན་བར་དྲས་རྒྱག་བྱེད་པ་ཡིན།"
 
 msgid ""
 "If the size of the logfile reaches the limit, it gets renamed by adding "
@@ -3404,7 +3405,7 @@ msgid "Move &up"
 msgstr "གོང་སྣུར། (&U)"
 
 msgid "My Computer"
-msgstr "རྩིས་འཁོར།"
+msgstr "རྩིས་ཆས།"
 
 msgid "My Documents"
 msgstr "ངའི་ཡིག་ཚགས།"
@@ -3511,7 +3512,7 @@ msgid "No host given, please enter a host."
 msgstr "གཙོ་འཁོར་སྤྲད་མེད་པས་གཙོ་འཁོར་ཞིག་ནང་འཇུག་བྱེད་རོགས། "
 
 msgid "No images available"
-msgstr "སྤྱོད་རུང་བརྙན་རིས་མེད་པ།"
+msgstr "སྤྱོད་རུང་བརྙན་རིས།་མེད་པ།"
 
 msgid "No more files in the queue!"
 msgstr "རུ་སྟར་ནང་དུ་ཡིག་ཆ་མི་འདུག "
@@ -3813,7 +3814,7 @@ msgstr ""
 msgid "Please enter a download speed limit greater or equal to 0 %s/s."
 msgstr ""
 "ཆེ་ཆུང་ནི 0 %s/s "
-"ལས་ཆེ་བ་འམ་ཡང་ན་མཚུངས་པའི་ཕབ་ལེན་མགྱོགས་ཚད་ཀྱི་ཚོད་འཛིན་ནང་འཇུག་བྱེད་དགོས།"
+"ལས་ཆེ་བ་འམ་ཡང་ན་མཚུངས་པའི་ཕབ་ལེན་མགྱོགས།ཚད་ཀྱི་ཚོད་འཛིན་ནང་འཇུག་བྱེད་དགོས།"
 
 msgid "Please enter a name for the new filter."
 msgstr "ཁྱེད་ཀྱིས་འཚག་ཆས་གསར་པར་མིང་བཏགས་རོགས། "
@@ -3877,7 +3878,7 @@ msgstr "ཁྱེད་ཀྱི་ཕྱིའི་གནས་ཡུལ་ག
 msgid "Please enter an upload speed limit greater or equal to 0 %s/s."
 msgstr ""
 "ཁྱེས་ཀྱིས 0 %s/s "
-"ལས་ཆེ་བའམ་མཚུངས་པའི་ཡར་བསྐུར་མགྱོགས་ཚད་ཚོད་འཛིན་ནང་འཇུག་བྱེད་རོགས།"
+"ལས་ཆེ་བའམ་མཚུངས་པའི་ཡར་བསྐུར་མགྱོགས།ཚད་ཚོད་འཛིན་ནང་འཇུག་བྱེད་རོགས།"
 
 msgid ""
 "Please enter raw FTP command.\n"
@@ -4040,13 +4041,13 @@ msgid "Pro&xy password:"
 msgstr "ལས་ཚབ་གསང་ཨང་།"
 
 msgid "Process &Queue"
-msgstr "རུ་སྟར་ཐག་གཅོད།"
+msgstr "རུ་སྟར་ཐག་དྲས་རྒྱག།"
 
 msgid "Process file table overflow"
 msgstr "འཕེལ་རིམ་ཡིག་ཆའི་རེའུ་མིག་ལུད་པ།"
 
 msgid "Processed %s in %s."
-msgstr "ཡིག་ཆ  %s ཐག་གཅོད་ཟིན། དཀར་ཆག %s"
+msgstr "ཡིག་ཆ  %s ཐག་དྲས་རྒྱག་ཟིན། དཀར་ཆག %s"
 
 msgid "Protocol not supported"
 msgstr ""
@@ -4101,7 +4102,7 @@ msgid "Public permissions"
 msgstr "སྤྱི་པའི་དབང་ཚད།"
 
 msgid "Queue has been fully processed"
-msgstr "རུ་སྟར་ཚང་མ་ཐག་གཅོད་བྱས་ཟིན།"
+msgstr "རུ་སྟར་ཚང་མ་ཐག་དྲས་རྒྱག་བྱས་ཟིན།"
 
 msgid "Queue: %s MiB"
 msgstr "རུ་སྟར %s MiB"
@@ -4186,7 +4187,7 @@ msgid "Reboot now"
 msgstr "ལམ་སང་བསྐྱར་སློང་བྱེད་པ།"
 
 msgid "Rec&urse into subdirectories"
-msgstr "རིམ་ལོག་གིས་བུ་དཀར་ཆག་ཐག་གཅོད་བྱེད་པ། (&U)"
+msgstr "རིམ་ལོག་གིས་བུ་དཀར་ཆག་ཐག་དྲས་རྒྱག་བྱེད་པ། (&U)"
 
 msgid "Received TLS alert from the server: %s (%d)"
 msgstr "ཞབས་ཞུ་ཆས་ཀྱི %s། (%d) ཡི་ཉེན་བརྡ TLS འབྱོར་བ།"
@@ -4280,7 +4281,7 @@ msgid "Remote path could not be parsed."
 msgstr "རྒྱང་རིང་གི་བརྒྱུད་ལམ་ལ་དབྱེ་ཞིབ་བྱེད་ཐབས་མེད། "
 
 msgid "Remote path handling:"
-msgstr "རྒྱང་རིང་བརྒྱུད་ལམ་ཐག་གཅོད།"
+msgstr "རྒྱང་རིང་བརྒྱུད་ལམ་ཐག་དྲས་རྒྱག།"
 
 msgid "Remote path:"
 msgstr "རྒྱང་རིང་བརྒྱུད་ལམ།"
@@ -4803,10 +4804,10 @@ msgid "Speed limits"
 msgstr "མྱུར་ཚད་ཚོད་འཛིན།"
 
 msgid "Speed limits are disabled, click to change."
-msgstr "མགྱོགས་ཚད་ཚོད་འཛིན་སྤྱོད་འགོག་བྱས་འདུག་པས་མནན་ནས་བཟོ་བཅོས་བྱེད་དགོས། "
+msgstr "མགྱོགས།ཚད་ཚོད་འཛིན་སྤྱོད་འགོག་བྱས་འདུག་པས་མནན་ནས་བཟོ་བཅོས་བྱེད་དགོས།"
 
 msgid "Speed limits are enabled, click to change."
-msgstr "མགྱོགས་ཚད་ཚོད་འཛིན་སྤྱད་འདུག་པས་མནན་ནས་བཟོ་བཅོས་བྱེད་དགོས། "
+msgstr "མགྱོགས།ཚད་ཚོད་འཛིན་སྤྱད་འདུག་པས་མནན་ནས་བཟོ་བཅོས་བྱེད་དགོས།"
 
 msgid "Stable and beta versions"
 msgstr "བརྟན་པའི་པར་གཞི་དང་པར་གཞི Beta"
@@ -4870,7 +4871,7 @@ msgid ""
 "deleted."
 msgstr ""
 "ཡིག་ཆར་ཕྱོགས་པའི་བརྡ་རྟགས་སྦྲེལ་མཐུད་ལ་གདམ་གའི་ཤུགས་རྐྱེན་མི་ཐེབས་པ་དང་། "
-"རྟགས་ཀྱི་སྦྲེལ་མཐུད་དེ་རིགས་རྟག་པར་སུབ་པ་རེད། "
+"རྟགས་ཀྱི་སྦྲེལ་མཐུད་དེ་རིགས་རྟག་པར།སུབ་པ་རེད།"
 
 msgid "Synchronized browsing"
 msgstr "གོམ་མཉམ་མིག་བཤར།"
@@ -5064,7 +5065,7 @@ msgid "The following files are currently being edited:"
 msgstr "གཤམ་གྱི་ཡིག་ཆ་རྩོམ་སྒྲིག་བྱེད་བཞིན་ཡོད།"
 
 msgid "The free open source FTP solution"
-msgstr "རིན་མེད་དང་ཁུངས་འབྱེད་ཀྱི FTP ཐག་གཅོད་ཇུས་གཞི།"
+msgstr "རིན་མེད་དང་ཁུངས་འབྱེད་ཀྱི FTP ཐག་དྲས་རྒྱག་ཇུས་གཞི།"
 
 msgid "The global bookmarks could not be saved."
 msgstr "ཁྱོན་ཡོངས་ཀྱི་དཔེ་འཛར་འདི་ཉར་ཚགས་བྱེད་ཐབས་མེད། "
@@ -5143,7 +5144,8 @@ msgstr "ཞབས་ཞུ་ཆས་ཀྱིས་བསམ་ཡུལ་ལ
 
 msgid "The server uses following charset encoding for filenames:"
 msgstr ""
-"ཞབས་ཞུ་ཆས་ཀྱིས་གཤམ་གྱི་ཡིག་རྟགས་ཚོགས་ཀྱི་སྒྲིག་ཨང་སྤྱད་ནས་ཡིག་ཆའི་མིང་ཐག་གཅོད་བྱེད་པ།"
+"ཞབས་ཞུ་ཆས་ཀྱིས་གཤམ་གྱི་ཡིག་རྟགས་ཚོགས་ཀྱི་སྒྲིག་ཨང་སྤྱད་ནས་ཡིག་ཆའི་མིང་ཐག་དྲས་"
+"རྒྱག་བྱེད་པ།"
 
 msgid ""
 "The server's certificate is unknown. Please carefully examine the "
@@ -5542,7 +5544,7 @@ msgid "Valid from:"
 msgstr "གོ་ཆོད་པའི་དུས་ཚོད་འགོ་རྩོམ་པ།"
 
 msgid "Valid to:"
-msgstr "གོ་ཆོད་པའི་དུས་ཚོད་མཚམས་གཅོད་པ།"
+msgstr "གོ་ཆོད་པའི་དུས་ཚོད་མཚམས་དྲས་རྒྱག་པ།"
 
 msgid "Verbose log messages from wxWidgets"
 msgstr "WxWidgets ནས་ཡོང་བའི་ཞིབ་ཕྲའི་ཉིན་ཐོའི་ཆ་འཕྲིན།"
