@@ -1,11 +1,12 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/webkit2gtk-40/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid " files"
 msgstr "ཡིག་ཆ།"
@@ -31,13 +32,13 @@ msgid "An associated WebKitWebSettings instance"
 msgstr "WebKitWebSettingsའབྲེལ་ཡོད་ཀྱི་དཔེ་གཞི་ཞིག"
 
 msgid "Auto Load Images"
-msgstr "བརྙན་རིས་རང་འགེལ།"
+msgstr "བརྙན་རིས།་རང་འགེལ།"
 
 msgid "Auto Resize Window"
 msgstr "སྒེའུ་ཁུང་ཆེ་ཆུང་རང་སྒྲིག"
 
 msgid "Auto Shrink Images"
-msgstr "བརྙན་རིས་རང་འགུལ་སྐྱེད་སྐྱུང་།"
+msgstr "བརྙན་རིས།་རང་འགུལ་སྐྱེད་སྐྱུང་།"
 
 msgid "Automatically resize the toplevel window when a page requests it"
 msgstr ""
@@ -63,7 +64,7 @@ msgstr ""
 "སྦྱོར་འབྲི་ཞིབ་བཤེར་བྱེད་བྱའི་སྐད་བརྡ། ཕྱེད་ཟུར་ཚེག་འབྲིང་གིས་དབར་འབྱེད་པ།"
 
 msgid "Cop_y Image"
-msgstr "བརྙན་རིས་འདྲ་ཕབ།(_Y)"
+msgstr "བརྙན་རིས།་འདྲ་ཕབ།(_Y)"
 
 msgid "Copy Link Loc_ation"
 msgstr "སྦྲེལ་མཐུད་ཤག་གནས་འདྲ་ཕབ།(_A)"
@@ -172,7 +173,7 @@ msgid "Enable page cache"
 msgstr "དྲ་ངོས་སྐབས་གསོག་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Enable universal access from file URIs"
-msgstr "ཡིག་ཆ URI ནས་སྤྱི་སྤྱོད་ལྟ་སྤྱོད་སྤྱོད་འགོ་རྩོམ་པ།"
+msgstr "ཡིག་ཆ URI ནས་སྤྱི་སྤྱོད།་ལྟ་སྤྱོད་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Enables private browsing mode"
 msgstr "གསང་བ་མིག་བཤར་རྣམ་པ་སྤྱོད་འགོ་རྩོམ་པ།"
@@ -187,11 +188,12 @@ msgid ""
 "Enables the handling of right-clicks for the creation of the default context"
 " menu"
 msgstr ""
-"གཡས་མཐེབ་ཀྱིས་ཁོར་ཡུག་འདེམས་བྱང་གསར་འཛུགས་སྒྲིག་གཅོད་སྤྱོད་འགོ་རྩོམ་པ།"
+"གཡས་མཐེབ་ཀྱིས་ཁོར་ཡུག་འདེམས་བྱང་གསར་འཛུགས་སྒྲིག་དྲས་རྒྱག་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Enables the site-specific compatibility workarounds"
 msgstr ""
-"དམིགས་བསལ་ས་ཚིགས་ལ་དམིགས་པའི་འཆམ་མཐུན་རང་བཞིན་གྱི་གནས་སྐབས་ཐག་གཅོད་བྱ་ཐབས་སྤྱོད་འགོ་རྩོམ་པ།"
+"དམིགས་བསལ་ས་ཚིགས་ལ་དམིགས་པའི་འཆམ་མཐུན་རང་བཞིན་གྱི་གནས་སྐབས་ཐག་དྲས་རྒྱག་བྱ་ཐབས"
+"་སྤྱོད་འགོ་རྩོམ་པ།"
 
 msgid "Encoding"
 msgstr "སྒྲིག་ཨང་།"
@@ -248,7 +250,7 @@ msgid "Live Broadcast"
 msgstr "ཐད་གཏོང་།"
 
 msgid "Load images automatically."
-msgstr "རང་འགུལ་ངང་བརྙན་རིས་སུ་འགེལ་བ།"
+msgstr "རང་འགུལ་ངང་བརྙན་རིས།་སུ་འགེལ་བ།"
 
 msgid "Loading..."
 msgstr "འགེལ་བཞིན་པ།"
@@ -287,7 +289,7 @@ msgid "Open _Frame in New Window"
 msgstr "སྒེའུ་ཁུང་གསར་བའི་ནང་དུ་སྒྲོམ་གཞི་ཁ་ཕྱེ་བ།(_F)"
 
 msgid "Open _Image in New Window"
-msgstr "སྒེའུ་ཁུང་གསར་པར་པར་རིས་ཁ་ཕྱེ་བ།(_I)"
+msgstr "སྒེའུ་ཁུང་གསར་པར་པར་རིས།་ཁ་ཕྱེ་བ།(_I)"
 
 msgid "Original URI"
 msgstr "གདོད་མའི་URI"
@@ -338,13 +340,13 @@ msgid "Resizable Text Areas"
 msgstr "ཆེ་ཆུང་འགྱུར་རུང་ཡིག་དེབ་ཁོངས།"
 
 msgid "Returns the @web_view's document title"
-msgstr " @web_view ཡི་ཡིག་ཚགས་ཁ་བྱང་དུ་ཕྱིར་ལོག"
+msgstr "@web_view ཡི་ཡིག་ཚགས།་ཁ་བྱང་དུ་ཕྱིར་ལོག"
 
 msgid "Returns the current URI of the contents displayed by the @web_view"
 msgstr " མིག་སྔའི་ @web_view ཡིས་འཆར་བྱའི་ནང་དོན་ཀྱི་ URIརུ་ཕྱིར་ལོག"
 
 msgid "Sa_ve Image As"
-msgstr " བརྙན་རིས་ཉར་ཚགས།(_V)"
+msgstr "བརྙན་རིས།་ཉར་ཚགས།(_V)"
 
 msgid "Sans Serif Font Family"
 msgstr " Sans Serif ཡིག་གཟུགས།"
@@ -607,7 +609,7 @@ msgid "Zoom level"
 msgstr " སྐྱེད་སྐྱུང་རིམ་པ།"
 
 msgid "_Check Document Now"
-msgstr "འཕྲལ་མར་ཡིག་ཚགས་ཞིབ་བཤེར།(_C)"
+msgstr "འཕྲལ་མར་ཡིག་ཚགས།་ཞིབ་བཤེར།(_C)"
 
 msgid "_Clear recent searches"
 msgstr "ཉེ་ཆར་གྱི་བཤེར་འཚོལ་ཟིན་ཐོ་གཙང་སེལ།(_C)"
@@ -640,7 +642,7 @@ msgid "_Outline"
 msgstr " གནད་བསྡུས།(_O)"
 
 msgid "_Reload"
-msgstr "བསྐྱར་འགེལ།(_R)"
+msgstr "གསར་འདོན།(_R)"
 
 msgid "_Remember password"
 msgstr " གསང་ཨང་བློར་ངེས།(_R)"
