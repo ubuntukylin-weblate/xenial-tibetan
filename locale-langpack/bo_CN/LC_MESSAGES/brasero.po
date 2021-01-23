@@ -1,12 +1,13 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/brasero/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "\"%s\" GStreamer plugin could not be found"
 msgstr "“%s” Gstreamer བསྒར་ལྷུ་རྙེད་མེད།"
@@ -41,7 +42,7 @@ msgid "\"%s\" could not be found in the path"
 msgstr "“%s” ནི་འགྲོ་ལམ་དུ་རྙེད་མི་ཐུབ།"
 
 msgid "\"%s\" could not be handled by GStreamer."
-msgstr "“%s” ནི་Gstreamerཡིས་སྒྲིག་གཅོད་བྱ་མི་ཐུབ།"
+msgstr "“%s” ནི་Gstreamerཡིས་སྒྲིག་དྲས་རྒྱག་བྱ་མི་ཐུབ།"
 
 msgid "\"%s\" could not be opened (%s)"
 msgstr "“%s”(%s)ཁ་འབྱེད་མི་ཐུབ།"
@@ -684,7 +685,7 @@ msgid "Checks file integrities on a disc"
 msgstr "འོད་སྡེར་གྱི་ཡིག་ཆ་ཆ་ཚང་རང་བཞིན་ལ་ཞིབ་བཤེར་བྱེད།"
 
 msgid "Choose an image"
-msgstr "པར་རིས་ཤིག་འདེམ་པ།"
+msgstr "པར་རིས།་ཤིག་འདེམ་པ།"
 
 msgid "Choose plugins for Brasero"
 msgstr "Kylin-burnerལ་བསྒར་ལྷུ་ཞིག་འདེམས།"
@@ -1080,7 +1081,7 @@ msgid "Display the projects recently opened"
 msgstr "ཉེ་ཆར་ཁ་ཕྱེ་བའི་རྣམ་གྲངས་མངོན་པ།"
 
 msgid "Display video, audio and image preview"
-msgstr "བརྙན་ཟློས་མངོན་པ། སྒྲ་ཟློས་དང་པར་རིས་སྔོན་ལྟ།"
+msgstr "བརྙན་ཟློས་མངོན་པ། སྒྲ་ཟློས་དང་པར་རིས།་སྔོན་ལྟ།"
 
 msgid ""
 "Do you really want to add \"%s\" to the selection and use the third version "
@@ -1096,7 +1097,7 @@ msgid "Do you really want to blank the current disc?"
 msgstr "ཁྱེད་ཀྱིས་འོད་སྡེར་སྟེང་གི་གཞི་གྲངས་བསུབ་པ་གཏན་འཁེལ་ལམ།"
 
 msgid "Do you really want to carry on with automatic splitting?"
-msgstr "ཁྱེད་ཀྱིས་མུ་མཐུད་རང་གཅོད་བྱེད་པ་སེམས་སམ།"
+msgstr "ཁྱེད་ཀྱིས་མུ་མཐུད་རང་དྲས་རྒྱག་བྱེད་པ་སེམས་སམ།"
 
 msgid "Do you really want to choose this location?"
 msgstr "ཁྱེད་ཀྱིས་གནས་ས་འདི་འདེམ་པ་གཏན་འཁེལ་ལམ།"
@@ -1235,7 +1236,7 @@ msgid "End"
 msgstr ""
 
 msgid "Error parsing playlist \"%s\"."
-msgstr "གཏོང་བའི་རེའུ་མིག་“%s”སྒྲིག་གཅོད་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
+msgstr "གཏོང་བའི་རེའུ་མིག་“%s”སྒྲིག་དྲས་རྒྱག་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "Error while blanking."
 msgstr "སུབ་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
@@ -1432,10 +1433,10 @@ msgid "Image of DVD successfully created"
 msgstr "DVD ཡི་ཤེལ་བརྙན་གསར་བཟོ་ལེགས་འགྲུབ་བྱུང་།"
 
 msgid "Image path:"
-msgstr "པར་རིས་ཀྱི་འགྲོ་ལམ།："
+msgstr "པར་རིས།་ཀྱི་འགྲོ་ལམ།："
 
 msgid "Image style:"
-msgstr "པར་རིས་རིགས་གྲས།："
+msgstr "པར་རིས།་རིགས་གྲས།："
 
 msgid "Image successfully burned to CD"
 msgstr "ཤེལ་བརྙན་འོད་སྡེར་དུ་ཕབ་འཇུག་ལེགས་འགྲུབ་བྱུང་།"
@@ -1450,7 +1451,7 @@ msgid "Image type:"
 msgstr "ཤེལ་བརྙན་རིགས་གྲས།："
 
 msgid "Images"
-msgstr "བརྙན་རིས།"
+msgstr "བརྙན་རིས།།"
 
 msgid "Import %s"
 msgstr " %sནང་འདྲེན།"
@@ -1483,7 +1484,7 @@ msgid "Insert text"
 msgstr "ཡིག་རྐྱང་བར་འཇུག་"
 
 msgid "Interrupting the process may make disc unusable."
-msgstr "བར་གཅོད་བཀོལ་སྤྱོད་ཀྱིས་སྡེར་ལྷེབ་སྤྱོད་མི་ཐུབ་པ་བྱ་སྲིད།"
+msgstr "བར་དྲས་རྒྱག་བཀོལ་སྤྱོད་ཀྱིས་སྡེར་ལྷེབ་སྤྱོད་མི་ཐུབ་པ་བྱ་སྲིད།"
 
 msgid "Invalid address"
 msgstr "ནུས་མེད་གནས་ཡུལ།"
@@ -1702,7 +1703,7 @@ msgid "Not enough space available on the disc in \"%s\"."
 msgstr "“%s”ནང་གི་འོད་སྡེར་དུ་འདང་བའི་བར་སྟོང་མེད།"
 
 msgid "Number files according to a pattern"
-msgstr "མ་དཔེ་ཞིག་བརྟེན་ནས་ཡིག་ཆ་གྲངས་བགྲང་།"
+msgstr "མ་དཔེ།་ཞིག་བརྟེན་ནས་ཡིག་ཆ་གྲངས་བགྲང་།"
 
 msgid "Number of Songs"
 msgstr "གླུ་གཞས་གྲངས་ཀ"
@@ -1786,7 +1787,7 @@ msgid "PATH"
 msgstr "འགྲོ་ལམ།"
 
 msgid "PATH TO COVER"
-msgstr "མདུན་ཤོག་པར་རིས་ཀྱི་འགྲོ་ལམ།"
+msgstr "མདུན་ཤོག་པར་རིས།་ཀྱི་འགྲོ་ལམ།"
 
 msgid "PATH TO DEVICE"
 msgstr "སྒྲིག་ཆས་འགྲོ་ལམ།"
@@ -2298,28 +2299,28 @@ msgid "Split"
 msgstr "ཕྲལ་བ།"
 
 msgid "Split Track"
-msgstr "འཁོར་ལམ་ཕྲལ་གཅོད།"
+msgstr "འཁོར་ལམ་ཕྲལ་དྲས་རྒྱག།"
 
 msgid "Split the selected track"
-msgstr "བདམས་པའི་འཁོར་ལམ་ཕྲལ་གཅོད།"
+msgstr "བདམས་པའི་འཁོར་ལམ་ཕྲལ་དྲས་རྒྱག།"
 
 msgid "Split this track every"
-msgstr "འཁོར་ལམ་འདི་ཕྲལ་གཅོད། མཚམས་རེར།"
+msgstr "འཁོར་ལམ་འདི་ཕྲལ་དྲས་རྒྱག། མཚམས་རེར།"
 
 msgid "Split this track in"
-msgstr "འཁོར་ལམ་འདི་ཕྲལ་གཅོད་ནས།"
+msgstr "འཁོར་ལམ་འདི་ཕྲལ་དྲས་རྒྱག་ནས།"
 
 msgid "Split track for each silence"
-msgstr "སྒྲ་མེད་ཆ་ཤས་རེ་རེར་ལྟར་འཁོར་ལམ་ཕྲལ་གཅོད།"
+msgstr "སྒྲ་མེད་ཆ་ཤས་རེ་རེར་ལྟར་འཁོར་ལམ་ཕྲལ་དྲས་རྒྱག།"
 
 msgid "Split track in a fixed number of parts"
-msgstr "གཏན་པའི་ཕྲལ་གཅོད་དུམ་བུའི་གྲངས་ལྟར་འཁོར་ལམ་ཕྲལ་གཅོད།"
+msgstr "གཏན་པའི་ཕྲལ་དྲས་རྒྱག་དུམ་བུའི་གྲངས་ལྟར་འཁོར་ལམ་ཕྲལ་དྲས་རྒྱག།"
 
 msgid "Split track in parts with a fixed length"
-msgstr "གཏན་པའི་རིང་ཚད་ལྟར་འཁོར་ལམ་ཕྲལ་གཅོད།"
+msgstr "གཏན་པའི་རིང་ཚད་ལྟར་འཁོར་ལམ་ཕྲལ་དྲས་རྒྱག།"
 
 msgid "Split track manually"
-msgstr "ལག་པས་འཁོར་ལམ་ཕྲལ་གཅོད།"
+msgstr "ལག་པས་འཁོར་ལམ་ཕྲལ་དྲས་རྒྱག།"
 
 msgid "Start"
 msgstr "འགོ་སློང་།"
@@ -2555,7 +2556,7 @@ msgid "The track is shorter than 6 seconds"
 msgstr "འཁོར་ལམ་རིང་ཚད་སྐར་ཆ 6ལས་ཆུང་།"
 
 msgid "The track wasn't split."
-msgstr "འཁོར་ལམ་ཕྲལ་གཅོད་བྱས་མེད།"
+msgstr "འཁོར་ལམ་ཕྲལ་དྲས་རྒྱག་བྱས་མེད།"
 
 msgid "The track will be padded at its end."
 msgstr "འཁོར་ལམ་མཐའ་སྣེ་གསབ་པ་རེད།"
@@ -2662,7 +2663,7 @@ msgid "This will remove all previous results."
 msgstr "འདིས་སྔོན་གྱི་མཇུག་འབྲས་ཚང་མ་འདོར་བ་ཡིན།"
 
 msgid "Those names should be changed and truncated to 64 characters."
-msgstr "མིང་འདི་དག་ཡིག་རྟགས64ཅན་དུ་བཅོས་པ་དང་གཅོད་མི་ཐུབ།"
+msgstr "མིང་འདི་དག་ཡིག་རྟགས64ཅན་དུ་བཅོས་པ་དང་དྲས་རྒྱག་མི་ཐུབ།"
 
 msgid "Tiled"
 msgstr ""
@@ -2984,7 +2985,7 @@ msgid "_Discard Project"
 msgstr "རྣམ་གྲངས་སྐྱུར་བ།(_D)"
 
 msgid "_Don't split"
-msgstr "ཕྲལ་གཅོད་མི་བྱེད།(_D)"
+msgstr "ཕྲལ་དྲས་རྒྱག་མི་བྱེད།(_D)"
 
 msgid "_Edit"
 msgstr "རྩོམ་སྒྲིག (_E)"
@@ -2999,7 +3000,7 @@ msgid "_Empty Project"
 msgstr "རྣམ་གྲངས་གཙང་སེལ།(_E)"
 
 msgid "_Fast blanking"
-msgstr "མགྱོགས་སུབ།(_F)"
+msgstr "མགྱོགས།སུབ།(_F)"
 
 msgid "_Help"
 msgstr "རོགས་རམ།(_H)"
@@ -3014,7 +3015,7 @@ msgid "_Horizontal Layout"
 msgstr "ཆུ་ངོས་བཀོད་པ།(_H)"
 
 msgid "_Image"
-msgstr "བརྙན་རིས། (_I)"
+msgstr "བརྙན་རིས།། (_I)"
 
 msgid "_Keep"
 msgstr "རྣམ་པ་སྔོན་མ་ལྟར་འཇོག་པ།(_K)"
@@ -3104,10 +3105,10 @@ msgid "_Slice"
 msgstr "དུམ་དབྱེ།(_S)"
 
 msgid "_Split"
-msgstr "ཕྲལ་གཅོད།(_S)"
+msgstr "ཕྲལ་དྲས་རྒྱག།(_S)"
 
 msgid "_Split Track…"
-msgstr "འཁོར་ལམ་ཕྲལ་གཅོད།(_S)..."
+msgstr "འཁོར་ལམ་ཕྲལ་དྲས་རྒྱག།(_S)…"
 
 msgid "_Text Color"
 msgstr "ཡིག་རྐྱང་ཁ་དོག(_T)"
