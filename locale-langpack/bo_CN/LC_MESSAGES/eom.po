@@ -1,12 +1,13 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/eom/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid " (invalid Unicode)"
 msgstr "\"། (ཕན་མེད་གྱི་ Unicode)\""
@@ -86,7 +87,7 @@ msgid "All Files"
 msgstr "ཡིག་ཆ་ཚང་མ།"
 
 msgid "All Images"
-msgstr "བརྙན་རིས་ཚང་མ།"
+msgstr "བརྙན་རིས།་ཚང་མ།"
 
 msgid "Allow zoom greater than 100% initially"
 msgstr "ཆེར་སྐྱེད་ནས་སྔོན་གྱི་ཆེ་ཆུང་ལས་བརྒལ།"
@@ -139,7 +140,7 @@ msgid "Both"
 msgstr "ཕྱོགས་གཉིས།"
 
 msgid "Browse and rotate images"
-msgstr "པར་རིས་ལྟ་ཞིབ་དང་སྐོར་བ།"
+msgstr "པར་རིས།་ལྟ་ཞིབ་དང་སྐོར་བ།"
 
 msgid "Bytes:"
 msgstr "ཡིག་ཚིགས་གྲངས།："
@@ -191,7 +192,7 @@ msgid "Color for Transparent Areas"
 msgstr "དྭངས་གསལ་ཁུལ་གྱི་ཁ་དོག"
 
 msgid "Copy the selected image to the clipboard"
-msgstr "བདམས་པའི་པར་རིས་དྲས་གཅོད་པང་དུ་འདྲ་བཟོ།"
+msgstr "བདམས་པའི་པར་རིས།་དྲས་དྲས་རྒྱག་པང་དུ་འདྲ་བཟོ།"
 
 msgid "Copyright:"
 msgstr "པར་དབང་།:"
@@ -221,7 +222,7 @@ msgid "Date/Time:"
 msgstr "དུས་ཚེས/དུས་ཚོད།："
 
 msgid "Delay in seconds until showing the next image"
-msgstr "པར་རིས་ཕྱི་མ་མ་མངོན་གོང་ཕྱིར་འགྱངས་ཀྱི་སྐར་ཆ།"
+msgstr "པར་རིས།་ཕྱི་མ་མ་མངོན་གོང་ཕྱིར་འགྱངས་ཀྱི་སྐར་ཆ།"
 
 msgid "Description:"
 msgstr "གསལ་བཤད།:"
@@ -245,25 +246,25 @@ msgid "EXIF not supported for this file format."
 msgstr "ཡིག་ཆ་རྣམ་གཞག་རིགས་འདིས་EXIF རྒྱབ་སྐྱོར་མི་བྱེད། "
 
 msgid "E_xpand images to fit screen"
-msgstr "པར་རིས་རྒྱ་སྐྱེད་དུ་བརྙན་ཡོལ་འཚམ་པ།(_X)"
+msgstr "པར་རིས།་རྒྱ་སྐྱེད་དུ་བརྙན་ཡོལ་འཚམ་པ།(_X)"
 
 msgid "Edit Image"
-msgstr "པར་རིས་རྩོམ་སྒྲིག"
+msgstr "པར་རིས།་རྩོམ་སྒྲིག"
 
 msgid "Edit the application toolbar"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་ལག་ཆའི་སྡེ་རྩོམ་སྒྲིག"
 
 msgid "Edit the current image using %s"
-msgstr " %s སྤྱད་ནས་མིག་སྔའི་པར་རིས་རྩོམ་སྒྲིག"
+msgstr "%s སྤྱད་ནས་མིག་སྔའི་པར་རིས།་རྩོམ་སྒྲིག"
 
 msgid "Enabled"
 msgstr "སྤྱོད་འགོ་བརྩམས་ཟིན་པ།"
 
 msgid "Enlarge the image"
-msgstr "པར་རིས་ཆེར་སྐྱེད།"
+msgstr "པར་རིས།་ཆེར་སྐྱེད།"
 
 msgid "Error on deleting image %s"
-msgstr "པར་རིས %s འདོར་བ་ནོར་འཁྲུལ་བྱུང་།"
+msgstr "པར་རིས། %s འདོར་བ་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid ""
 "Error printing file:\n"
@@ -274,16 +275,16 @@ msgid "Exposure Time:"
 msgstr "འོད་འཕྲོའི་དུས་ཚོད།："
 
 msgid "External program to use for editing images"
-msgstr "པར་རིས་རྩོམ་སྒྲིག་ལ་སྤྱོད་པའི་ཕྱི་རོལ་བྱ་རིམ།"
+msgstr "པར་རིས།་རྩོམ་སྒྲིག་ལ་སྤྱོད་པའི་ཕྱི་རོལ་བྱ་རིམ།"
 
 msgid "Extrapolate Image"
-msgstr "ཕྱི་གསབ་པར་རིས།"
+msgstr "ཕྱི་གསབ་པར་རིས།།"
 
 msgid "Eye of MATE"
 msgstr "MATE ཡི་མིག"
 
 msgid "Eye of MATE Image Viewer"
-msgstr "MATEཡི་མིག་གི་བརྙན་རིས་ལྟ་ཆས།"
+msgstr "MATEཡི་མིག་གི་བརྙན་རིས།་ལྟ་ཆས།"
 
 msgid "Eye of MATE Preferences"
 msgstr "MATE ཡི་མིག་ཐོག་མའི་འདེམས་ཚན།"
@@ -311,7 +312,7 @@ msgid "Fit"
 msgstr "འཚམ་པ།"
 
 msgid "Fit the image to the window"
-msgstr "པར་རིས་སྒེའུ་ཁུང་འཚམ་པར་བྱེད།"
+msgstr "པར་རིས།་སྒེའུ་ཁུང་འཚམ་པར་བྱེད།"
 
 msgid "Flash:"
 msgstr "འཁྱུག་འོད་གློག"
@@ -329,22 +330,22 @@ msgid "Fullscreen with double-click"
 msgstr "ཉིས་རྡེབ་ཀྱིས་བརྙན་ངོས་བརྗེ་བ།"
 
 msgid "General"
-msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
+msgstr "སྤྱི་སྤྱོད།་སྒྲིག་འགོད།"
 
 msgid "Go to a random image of the collection"
-msgstr "རིས་ཚོགས་ཀྱི་པར་རིས་ངོས་རྗེས་མར་སྤོ།"
+msgstr "རིས་ཚོགས་ཀྱི་པར་རིས།་ངོས་རྗེས་མར་སྤོ།"
 
 msgid "Go to the first image of the collection"
-msgstr "རིས་ཚོགས་ཀྱི་པར་རིས་དང་བོར་སྤོ།"
+msgstr "རིས་ཚོགས་ཀྱི་པར་རིས།་དང་བོར་སྤོ།"
 
 msgid "Go to the last image of the collection"
-msgstr "རིས་ཚོགས་ཀྱི་པར་རིས་ཆེས་རྗེས་མ་བོར་སྤོ།"
+msgstr "རིས་ཚོགས་ཀྱི་པར་རིས།་ཆེས་རྗེས་མ་བོར་སྤོ།"
 
 msgid "Go to the next image of the collection"
-msgstr "རིས་ཚོགས་ཀྱི་པར་རིས་ངོས་རྗེས་མར་སྤོ།"
+msgstr "རིས་ཚོགས་ཀྱི་པར་རིས།་ངོས་རྗེས་མར་སྤོ།"
 
 msgid "Go to the previous image of the collection"
-msgstr "རིས་ཚོགས་ཀྱི་པར་རིས་སྔོན་མ་བོར་སྤོ།"
+msgstr "རིས་ཚོགས་ཀྱི་པར་རིས།་སྔོན་མ་བོར་སྤོ།"
 
 msgid "Height:"
 msgstr "མཐོ་ཚད།"
@@ -396,7 +397,7 @@ msgid ""
 "screen initially."
 msgstr ""
 "གལ་ཏེ་FALSEབཀོད་སྒྲིག་བྱས་ན། "
-"པར་རིས་ཆུང་བ་བརྙན་ཡོལ་ལ་འཚམ་པའི་ཆེ་ཆུང་དུ་ཆེར་སྐྱེད་མི་བྱེད། "
+"པར་རིས།་ཆུང་བ་བརྙན་ཡོལ་ལ་འཚམ་པའི་ཆེ་ཆུང་དུ་ཆེར་སྐྱེད་མི་བྱེད།"
 
 msgid "If you don't save, all your changes will be lost."
 msgstr "གལ་ཏེ་མ་ཉར་ན། ཁྱེད་ཀྱི་བཟོ་བཅོས་ཚང་མ་བོར་བ་ཡིན།"
@@ -405,28 +406,28 @@ msgid "If you don't save, your changes will be lost."
 msgstr "གལ་ཏེ་མ་ཉར་ན། ཁྱེད་ཀྱི་བཟོ་བཅོས་བོར་བ་ཡིན།"
 
 msgid "Image"
-msgstr "པར་རིས།"
+msgstr "པར་རིས།།"
 
 msgid "Image Data"
-msgstr "པར་རིས་གཞི་གྲངས།"
+msgstr "པར་རིས།་གཞི་གྲངས།"
 
 msgid "Image Enhancements"
-msgstr "པར་རིས་དྲག་སྒྱུར།"
+msgstr "པར་རིས།་དྲག་སྒྱུར།"
 
 msgid "Image Properties"
-msgstr "བརྙན་རིས་གཏོགས་གཤིས།"
+msgstr "བརྙན་རིས།་གཏོགས་གཤིས།"
 
 msgid "Image Settings"
-msgstr "བརྙན་རིས་སྒྲིག་འགོད།"
+msgstr "བརྙན་རིས།་སྒྲིག་འགོད།"
 
 msgid "Image Taking Conditions"
-msgstr "པར་རིས་ཐོབ་པའི་ཆ་རྐྱེན།"
+msgstr "པར་རིས།་ཐོབ་པའི་ཆ་རྐྱེན།"
 
 msgid "Image View"
-msgstr "བརྙན་རིས་ལྟ་བ།"
+msgstr "བརྙན་རིས།་ལྟ་བ།"
 
 msgid "Image Zoom"
-msgstr "པར་རིས་སྐྱེད་སྐྱུང་།"
+msgstr "པར་རིས།་སྐྱེད་སྐྱུང་།"
 
 msgid "Image collection pane position."
 msgstr "རིས་ཚོགས་ངོས་པང་གནས་ས།"
@@ -441,7 +442,7 @@ msgid "Inches"
 msgstr "དབྱིན་ཚུན།"
 
 msgid "Interpolate Image"
-msgstr "པར་རིས་བར་འཇུག"
+msgstr "པར་རིས།་བར་འཇུག"
 
 msgid "Keywords:"
 msgstr "གནད་ཚིག"
@@ -459,7 +460,7 @@ msgid "Location:"
 msgstr "གནས་ས།:"
 
 msgid "Loop through the image sequence"
-msgstr "པར་རིས་རིམ་ལྟར་རེས་འཁོར་གཏོང་བ།"
+msgstr "པར་རིས།་རིམ་ལྟར་རེས་འཁོར་གཏོང་བ།"
 
 msgid "Maker Note"
 msgstr "བཟོ་མཁན་གྱི་བརྗེད་ཐོ།"
@@ -477,13 +478,13 @@ msgid "Millimeters"
 msgstr "ཧའོ་སྨི།"
 
 msgid "Mirror the image horizontally"
-msgstr "ཆུ་ངོས་ལྟར་པར་རིས་སློག"
+msgstr "ཆུ་ངོས་ལྟར་པར་རིས།་སློག"
 
 msgid "Mirror the image vertically"
-msgstr "དྲང་འཕྱང་ལྟར་པར་རིས་སློག"
+msgstr "དྲང་འཕྱང་ལྟར་པར་རིས།་སློག"
 
 msgid "Move the selected image to the trash folder"
-msgstr "བདམས་པའི་པར་རིས་སྙིགས་སྒམ་ཡིག་ཁུག་ཏུ་སྤོ།"
+msgstr "བདམས་པའི་པར་རིས།་སྙིགས་སྒམ་ཡིག་ཁུག་ཏུ་སྤོ།"
 
 msgid "Move the selected item on the toolbar"
 msgstr "ལག་ཆ་སྡེར་བདམས་ཚན་སྤོ་བ།"
@@ -501,7 +502,7 @@ msgid "No image loaded."
 msgstr ""
 
 msgid "No images found in '%s'."
-msgstr "“%s”ནང་པར་རིས་མེད། "
+msgstr "“%s”ནང་པར་རིས།་མེད།"
 
 msgid "None"
 msgstr " མེད།"
@@ -513,7 +514,7 @@ msgid "Open Folder"
 msgstr "ཡིག་ཁུག་ཁ་ཕྱེ་བ།"
 
 msgid "Open Image"
-msgstr "པར་རིས་ཁ་འབྱེད།(_O)"
+msgstr "པར་རིས།་ཁ་འབྱེད།(_O)"
 
 msgid "Open _with"
 msgstr "ཁ་འབྱེད་སྟངས།(_W)"
@@ -528,10 +529,10 @@ msgid "Open in slideshow mode"
 msgstr "སྒྲོན་བརྙན་སྟོན་པའི་རྣམ་པར་ཁ་འབྱེད།"
 
 msgid "Open the selected image with a different application"
-msgstr "མི་འདྲ་བའི་ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་བདམས་པའི་པར་རིས་ཁ་འབྱེད།"
+msgstr "མི་འདྲ་བའི་ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་བདམས་པའི་པར་རིས།་ཁ་འབྱེད།"
 
 msgid "Opening image \"%s\""
-msgstr "པར་རིས“%s”ཁ་འབྱེད་པ།"
+msgstr "པར་རིས།“%s”ཁ་འབྱེད་པ།"
 
 msgid "Options"
 msgstr "འདེམས་ཚན།"
@@ -576,7 +577,7 @@ msgid "Previous"
 msgstr "གཞས་སྔ་མ།"
 
 msgid "Print the selected image"
-msgstr "བདམས་པའི་པར་རིས་པར་འདེབས།"
+msgstr "བདམས་པའི་པར་རིས།་པར་འདེབས།"
 
 msgid "Prope_rties"
 msgstr "གཏོགས་གཤིས།(_R)"
@@ -585,7 +586,7 @@ msgid "Question"
 msgstr "གནད་དོན།"
 
 msgid "Randomize the image sequence"
-msgstr "སྐབས་བསྟུན་པར་རིས་རིམ་པ།"
+msgstr "སྐབས་བསྟུན་པར་རིས།་རིམ་པ།"
 
 msgid "Reload Image"
 msgstr ""
@@ -609,7 +610,7 @@ msgid "Right"
 msgstr "གཡས།"
 
 msgid "Rotate Counterc_lockwise"
-msgstr "གཡོན་སྐོར།(_L)"
+msgstr "གཡོན་སྐོར།།(_L)"
 
 msgid "Rotate the image 90 degrees to the left"
 msgstr ""
@@ -626,7 +627,7 @@ msgid "Running in fullscreen mode"
 msgstr "བརྙན་ཡོངས་རྣམ་པར་འཁོར་སྐྱོད།"
 
 msgid "S_elect the images you want to save:"
-msgstr "ཁྱེད་ཀྱིས་ཉར་འདོད་པའི་པར་རིས་འདེམས།(_E)："
+msgstr "ཁྱེད་ཀྱིས་ཉར་འདོད་པའི་པར་རིས།་འདེམས།(_E)："
 
 msgid "S_lideshow"
 msgstr "སྒྲོན་བརྙན་ར་ཤེལ། (_L)"
@@ -635,31 +636,31 @@ msgid "Save As"
 msgstr "གཞན་དུ་བཅོལ་བ།"
 
 msgid "Save Image"
-msgstr " བརྙན་རིས་ཉར་ཚགས།"
+msgstr "བརྙན་རིས།་ཉར་ཚགས།"
 
 msgid "Save _As…"
 msgstr "གཞན་དུ་བཅོལ་བ།(_A)..."
 
 msgid "Save changes in currently selected images"
-msgstr "བཟོ་བཅོས་མིག་སྔའི་བདམས་པའི་པར་རིས་སུ་ཉར།"
+msgstr "བཟོ་བཅོས་མིག་སྔའི་བདམས་པའི་པར་རིས།་སུ་ཉར།"
 
 msgid "Save changes to image \"%s\" before closing?"
-msgstr "མ་རྒྱག་གོང་དུ་བཟོ་བཅོས་པར་རིས“%s” རུ་ཉར།"
+msgstr "མ་རྒྱག་གོང་དུ་བཟོ་བཅོས་པར་རིས།“%s” རུ་ཉར།"
 
 msgid "Save the selected images with a different name"
-msgstr "མིང་མི་འདྲ་བྱས་ནས་བདམས་པའི་པར་རིས་ཉར།"
+msgstr "མིང་མི་འདྲ་བྱས་ནས་བདམས་པའི་པར་རིས།་ཉར།"
 
 msgid "Saving image \"%s\" (%u/%u)"
-msgstr "པར་རིས“%s”ཉར། (ཨང་%u སྤྱིར་%u)"
+msgstr "པར་རིས།“%s”ཉར། (ཨང་%u སྤྱིར་%u)"
 
 msgid "Saving image locally…"
-msgstr "རང་སའི་པར་རིས་ཉར་བ།..."
+msgstr "རང་སའི་པར་རིས།་ཉར་བ།…"
 
 msgid "Scroll wheel zoom"
 msgstr "འགྲིལ་འཁོར་གྱིས་སྐྱེད་སྐྱུང་།"
 
 msgid "Separator"
-msgstr "མཚམས་གཅོད་རྟགས།"
+msgstr "མཚམས་དྲས་རྒྱག་རྟགས།"
 
 msgid "Sequence"
 msgstr "རིམ་པ།"
@@ -668,19 +669,19 @@ msgid "Set as _Desktop Background"
 msgstr "ཅོག་ངོས་རྒྱབ་ལྗོངས་ལ་བཀོད།(_D)"
 
 msgid "Set the selected image as the desktop background"
-msgstr "བདམས་པའི་པར་རིས་ཅོག་ངོས་རྒྱབ་ལྗོངས་ལ་བཀོད།"
+msgstr "བདམས་པའི་པར་རིས།་ཅོག་ངོས་རྒྱབ་ལྗོངས་ལ་བཀོད།"
 
 msgid "Show the application's version"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་པར་གཞི་མངོན་པ།"
 
 msgid "Show the current image in fullscreen mode"
-msgstr "བརྙན་ཡོངས་རྣམ་པར་མིག་སྔའི་པར་རིས་མངོན་པ།"
+msgstr "བརྙན་ཡོངས་རྣམ་པར་མིག་སྔའི་པར་རིས།་མངོན་པ།"
 
 msgid "Show the image at its normal size"
-msgstr "རྒྱུན་ལྡན་ཆེ་ཆུང་གིས་པར་རིས་མངོན་པ།"
+msgstr "རྒྱུན་ལྡན་ཆེ་ཆུང་གིས་པར་རིས།་མངོན་པ།"
 
 msgid "Show the properties and metadata of the selected image"
-msgstr "བདམས་པའི་པར་རིས་ཀྱི་གཏོགས་གཤིས་དང་རྒྱུའི་གཞི་གྲངས་མངོན་པ།"
+msgstr "བདམས་པའི་པར་རིས།་ཀྱི་གཏོགས་གཤིས་དང་རྒྱུའི་གཞི་གྲངས་མངོན་པ།"
 
 msgid "Show “_%s”"
 msgstr "“%s”མངོན་པ།"
@@ -701,7 +702,7 @@ msgid "Show/Hide the window toolbar."
 msgstr "སྒེའུ་ཁུང་ལག་ཆའི་སྡེ་མངོན་པ་/སྦེད་པ།"
 
 msgid "Shows the image date in the window statusbar"
-msgstr "སྒེའུ་ཁུང་རྣམ་པའི་སྡེར་པར་རིས་དུས་ཚེས་མངོན་པ།"
+msgstr "སྒེའུ་ཁུང་རྣམ་པའི་སྡེར་པར་རིས།་དུས་ཚེས་མངོན་པ།"
 
 msgid "Shrink the image"
 msgstr ""
@@ -710,7 +711,7 @@ msgid "Side _Pane"
 msgstr "ཟུར་མཐའི་སྡེ། (_P)"
 
 msgid "Simple image viewer"
-msgstr "པར་རིས་ལྟ་ཆས་སྟབས་བདེ།"
+msgstr "པར་རིས།་ལྟ་ཆས་སྟབས་བདེ།"
 
 msgid "Size"
 msgstr "ཆེ་ཆུང་།"
@@ -719,10 +720,10 @@ msgid "Slideshow"
 msgstr "སྒྲོན་བརྙན་གཏོང་བ།"
 
 msgid "Smooth images when zoomed-_in"
-msgstr "ཆུང་སྐྱུང་སྐབས་སུ་པར་རིས་སྙོམས་པ།(_I)"
+msgstr "ཆུང་སྐྱུང་སྐབས་སུ་པར་རིས།་སྙོམས་པ།(_I)"
 
 msgid "Smooth images when zoomed-_out"
-msgstr "ཆེར་སྐྱེད་སྐབས་སུ་པར་རིས་སྙོམས་པ།(_O)"
+msgstr "ཆེར་སྐྱེད་སྐབས་སུ་པར་རིས།་སྙོམས་པ།(_O)"
 
 msgid ""
 "Some of the selected images can't be moved to the trash and will be removed "
@@ -733,7 +734,7 @@ msgid "Start a new instance instead of reusing an existing one"
 msgstr "དཔེར་རིམ་གསར་པ་མགོ་སློང་པ་དང་ད་ཡོད་ཀྱི་དཔེར་རིམ་བསྐྱར་སྤྱོད་མིན།"
 
 msgid "Start a slideshow view of the images"
-msgstr "སྒྲོན་བརྙན་གྱི་བྱེད་སྟངས་ཀྱིས་པར་རིས་ལྟ་བ།"
+msgstr "སྒྲོན་བརྙན་གྱི་བྱེད་སྟངས་ཀྱིས་པར་རིས།་ལྟ་བ།"
 
 msgid "Start counter at:"
 msgstr "གྲངས་བགྲང་མགོ་རྩོམ།："
@@ -751,7 +752,7 @@ msgid "Temporary file creation failed."
 msgstr "གནས་སྐབས་ཡིག་ཆ་གསར་བཟོ་ཕམ་པ།"
 
 msgid "The MATE image viewer."
-msgstr "MATE ཡི་མིག་གི་པར་རིས་ལྟ་ཆས།"
+msgstr "MATE ཡི་མིག་གི་པར་རིས།་ལྟ་ཆས།"
 
 msgid ""
 "The color that is used to fill the area behind the image. If the use-"
@@ -766,7 +767,7 @@ msgid ""
 msgstr ""
 
 msgid "The given locations contain no images."
-msgstr "བྱིན་པའི་གནས་སར་པར་རིས་འདུས་མེད།"
+msgstr "བྱིན་པའི་གནས་སར་པར་རིས།་འདུས་མེད།"
 
 msgid ""
 "The image \"%s\" has been modified by an external application.\n"
@@ -779,10 +780,10 @@ msgid ""
 msgstr ""
 
 msgid "The image whose printing properties will be set up"
-msgstr "པར་འདེབས་གཏོགས་གཤིས་སྒྲིག་འགོད་ཀྱི་པར་རིས།"
+msgstr "པར་འདེབས་གཏོགས་གཤིས་སྒྲིག་འགོད་ཀྱི་པར་རིས།།"
 
 msgid "The information for the page where the image will be printed"
-msgstr "པར་རིས་ཀྱི་ཤོག་ངོས་ཀྱི་ཆ་འཕྲིན་པར་འདེབས་ལ་སྤྱོད་པ།"
+msgstr "པར་རིས།་ཀྱི་ཤོག་ངོས་ཀྱི་ཆ་འཕྲིན་པར་འདེབས་ལ་སྤྱོད་པ།"
 
 msgid ""
 "The multiplier to be applied when using the mouse scroll wheel for zooming. "
@@ -794,8 +795,7 @@ msgstr ""
 msgid "There is %d image with unsaved changes. Save changes before closing?"
 msgid_plural ""
 "There are %d images with unsaved changes. Save changes before closing?"
-msgstr[0] "པར་རིས་ %d ཡི་བཅོས་པ་ཉར་མེད། ཁ་མ་རྒྱག་གོང་དུ་བཅོས་པ་ཉར་དགོས་སམ།"
-msgstr[1] "པར་རིས་ %d ཡི་བཅོས་པ་ཉར་མེད། ཁ་མ་རྒྱག་གོང་དུ་བཅོས་པ་ཉར་དགོས་སམ།"
+msgstr[0] "པར་རིས།་ %d ཡི་བཅོས་པ་ཉར་མེད། ཁ་མ་རྒྱག་གོང་དུ་བཅོས་པ་ཉར་དགོས་སམ།"
 
 msgid ""
 "This program is distributed in the hope that it will be useful, but WITHOUT "
@@ -833,19 +833,19 @@ msgid "Transparent Parts"
 msgstr "དྭངས་གསལ་གྱི་ཆ་ཤས།"
 
 msgid "Trash images without asking"
-msgstr "པར་རིས་སྙིགས་སྒམ་དུ་སྤོ་ཞིང་མ་འདྲི།"
+msgstr "པར་རིས།་སྙིགས་སྒམ་དུ་སྤོ་ཞིང་མ་འདྲི།"
 
 msgid "Type:"
 msgstr "རིགས་གྲས།:"
 
 msgid "Undo the last change in the image"
-msgstr "ཐེངས་སྔོན་པར་རིས་ཀྱི་བཟོ་བཅོས་ལེན་པ།"
+msgstr "ཐེངས་སྔོན་པར་རིས།་ཀྱི་བཟོ་བཅོས་ལེན་པ།"
 
 msgid "Unknown"
 msgstr "མི་ཤེས།"
 
 msgid "Use \"%s\" to open the selected image"
-msgstr "“%s”སྤྱད་ནས་བདམས་པའི་པར་རིས་ཁ་འབྱེད།"
+msgstr "“%s”སྤྱད་ནས་བདམས་པའི་པར་རིས།་ཁ་འབྱེད།"
 
 msgid "Use a custom background color"
 msgstr "རང་གིས་གཏན་འཁེལ་གྱི་རྒྱབ་ལྗོངས་ཁ་དོག་སྤྱོད་པ།"
@@ -860,8 +860,8 @@ msgid ""
 "Whether the file chooser should show the user's pictures folder if no images"
 " are loaded."
 msgstr ""
-"གལ་ཏེ་པར་རིས་བསྣན་མེད་ན། "
-"ཡིག་ཆ་འདེམས་ཆས་ཀྱིས་སྤྱོད་མཁན་གྱི་པར་རིས་ཡིག་ཁུག་མངོན་དགོས་མིན།"
+"གལ་ཏེ་པར་རིས།་བསྣན་མེད་ན། "
+"ཡིག་ཆ་འདེམས་ཆས་ཀྱིས་སྤྱོད་མཁན་གྱི་པར་རིས།་ཡིག་ཁུག་མངོན་དགོས་མིན།"
 
 msgid "Whether the image collection pane should be resizable."
 msgstr "རིས་ཚོགས་ངོས་པང་སྐྱེད་སྐྱུང་རུང་མིན།"
@@ -870,19 +870,19 @@ msgid ""
 "Whether the image should be extrapolated on zoom-in. This leads to blurry "
 "quality and is somewhat slower than non-extrapolated images."
 msgstr ""
-"ཆེར་སྐྱེད་བྱེད་སྐབས་པར་རིས་ལ་ཕྱིའི་འཇུག་ཁ་གསབ་བྱེད་དགོས་མིན། "
-"དེས་པར་རིས་ཇེ་སྙོམས་བྱེད་ཀྱང་། ཁ་གསབ་མ་བྱས་པ་དང་བསྡུར་ན་ཅུང་དལ།"
+"ཆེར་སྐྱེད་བྱེད་སྐབས་པར་རིས།་ལ་ཕྱིའི་འཇུག་ཁ་གསབ་བྱེད་དགོས་མིན། "
+"དེས་པར་རིས།་ཇེ་སྙོམས་བྱེད་ཀྱང་། ཁ་གསབ་མ་བྱས་པ་དང་བསྡུར་ན་ཅུང་དལ།"
 
 msgid ""
 "Whether the image should be interpolated on zoom-out. This leads to better "
 "quality but is somewhat slower than non-interpolated images."
 msgstr ""
-"ཆུང་སྐྱུང་བྱེད་སྐབས་པར་རིས་ལ་ནང་འཇུག་ཁ་གསབ་བྱེད་དགོས་མིན། "
-"དེས་པར་རིས་ཀྱི་སྤུས་ཚད་མཐོ་འདེགས་ཀྱང་། ཁ་གསབ་མ་བྱས་པ་དང་བསྡུར་ན་ཅུང་དལ།"
+"ཆུང་སྐྱུང་བྱེད་སྐབས་པར་རིས།་ལ་ནང་འཇུག་ཁ་གསབ་བྱེད་དགོས་མིན། "
+"དེས་པར་རིས།་ཀྱི་སྤུས་ཚད་མཐོ་འདེགས་ཀྱང་། ཁ་གསབ་མ་བྱས་པ་དང་བསྡུར་ན་ཅུང་དལ།"
 
 msgid ""
 "Whether the image should be rotated automatically based on EXIF orientation."
-msgstr " EXIF ཡི་ཁ་ཕྱོགས་ལྟར་པར་རིས་རང་འཁོར་བྱེད་དགོས་མིན།"
+msgstr "EXIF ཡི་ཁ་ཕྱོགས་ལྟར་པར་རིས།་རང་འཁོར་བྱེད་དགོས་མིན།"
 
 msgid ""
 "Whether the metadata list in the properties dialog should have its own page."
@@ -893,10 +893,10 @@ msgid "Whether the scroll wheel should be used for zooming."
 msgstr "ཙིག་རྟགས་འགྲིལ་འཁོར་གྱིས་སྐྱེད་སྐྱུང་ཚོད་འཛིན་བྱ་དགོས་མིན།"
 
 msgid "Whether the sequence of images should be shown in an endless loop."
-msgstr "པར་རིས་ཀྱི་རིམ་པ་འཛད་མཐའ་མེད་པའི་རེས་འཁོར་གྱིས་མངོན་དགོས་མིན།"
+msgstr "པར་རིས།་ཀྱི་རིམ་པ་འཛད་མཐའ་མེད་པའི་རེས་འཁོར་གྱིས་མངོན་དགོས་མིན།"
 
 msgid "Whether the sequence of images should be shown in an random loop."
-msgstr "སྐབས་བསྟུན་རེས་འཁོར་བྱེད་སྟངས་ཀྱིས་པར་རིས་ཀྱི་རིམ་པ་མངོན་དགོས་མིན།"
+msgstr "སྐབས་བསྟུན་རེས་འཁོར་བྱེད་སྟངས་ཀྱིས་པར་རིས།་ཀྱི་རིམ་པ་མངོན་དགོས་མིན།"
 
 msgid "Width:"
 msgstr "ཞེང་ཚད།"
@@ -965,7 +965,7 @@ msgid "_Edit"
 msgstr "རྩོམ་སྒྲིག (_E)"
 
 msgid "_First Image"
-msgstr "པར་རིས་དང་པོ།(_F)"
+msgstr "པར་རིས།་དང་པོ།(_F)"
 
 msgid "_Fullscreen"
 msgstr "བརྙན་ཡོལ་ཧྲིལ་པོ།(_F)"
@@ -980,13 +980,13 @@ msgid "_Help"
 msgstr " རོགས་རམ།(_H)"
 
 msgid "_Image"
-msgstr "བརྙན་རིས། (_I)"
+msgstr "བརྙན་རིས།། (_I)"
 
 msgid "_Image Collection"
 msgstr "རིས་ཚོགས།(_I)"
 
 msgid "_Last Image"
-msgstr "པར་རིས་མཐའ་མ་བོ།(_L)"
+msgstr "པར་རིས།་མཐའ་མ་བོ།(_L)"
 
 msgid "_Left:"
 msgstr "གཡོན། (_L)："
@@ -1001,7 +1001,7 @@ msgid "_Next"
 msgstr "གཞས་ངོས་རྗེས་མ།(_N)"
 
 msgid "_Next Image"
-msgstr "པར་རིས་རྗེས་མ།(_N)"
+msgstr "པར་རིས།་རྗེས་མ།(_N)"
 
 msgid "_Normal Size"
 msgstr "རྒྱུན་ལྡན་གྱི་ཆེ་ཆུང་།(N)"
@@ -1016,19 +1016,19 @@ msgid "_Previous"
 msgstr ""
 
 msgid "_Previous Image"
-msgstr "པར་རིས་གོང་མ།(_P)"
+msgstr "པར་རིས།་གོང་མ།(_P)"
 
 msgid "_Print…"
 msgstr "པར་འདེབས།(_P)..."
 
 msgid "_Random Image"
-msgstr "སྐབས་བསྟུན་པར་རིས།(_R)"
+msgstr "སྐབས་བསྟུན་པར་རིས།།(_R)"
 
 msgid "_Random sequence"
 msgstr "སྐབས་བསྟུན་རིམ་པ།/(_R)"
 
 msgid "_Reload"
-msgstr "བསྐྱར་འགེལ།(_R)"
+msgstr "གསར་འདོན།(_R)"
 
 msgid "_Remove from Toolbar"
 msgstr "ལག་ཆ་སྡེ་ནས་འདོར་བ།(_R)"
@@ -1055,7 +1055,7 @@ msgid "_Statusbar"
 msgstr "རྣམ་སྡེ། (_S)"
 
 msgid "_Switch image after:"
-msgstr "པར་རིས་བརྗེ་བའི་དུས་ཚོད།(_S)："
+msgstr "པར་རིས།་བརྗེ་བའི་དུས་ཚོད།(_S)："
 
 msgid "_Toolbar"
 msgstr "ལག་ཆའི་སྡེ། (_T)"
