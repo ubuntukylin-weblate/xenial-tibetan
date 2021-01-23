@@ -1,12 +1,13 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/engrampa/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "%'d files remaining"
 msgstr "ཚན་ %'d ལྷག་པ།"
@@ -47,7 +48,7 @@ msgid "'%s' password is wrong, please re-enter:"
 msgstr "“%s”ཡི་གསང་ཨང་ནོར་འཁྲུལ། ཡང་བསྐྱར་ནང་འཇུག་རོགས："
 
 msgid "- Create and modify an archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ་དང་བཟོ་བཅོས་བྱས་ཟིན།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་གསར་བཟོ་དང་བཟོ་བཅོས་བྱས་ཟིན།"
 
 msgid "7-Zip (.7z)"
 msgstr "7-Zip (.7z)"
@@ -103,7 +104,7 @@ msgid ""
 msgstr ""
 
 msgid "ARCHIVE"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ།"
 
 msgid "A_vailable application:"
 msgstr "སྤྱོད་རུང་གི་ཉེར་སྤྱོད་བྱ་རིམ།(_V)："
@@ -127,21 +128,21 @@ msgid "Add a _Folder…"
 msgstr "ཡིག་ཁུག་སྣོན་པ། (_F) ..."
 
 msgid "Add a folder to the archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ལ་ཡིག་ཁུག་སྣོན་པ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ལ་ཡིག་ཁུག་སྣོན་པ།"
 
 msgid "Add files asking the name of the archive and quit the program"
 msgstr ""
-"ཡིག་ཆ་སྣོན་པ་དང་། ཡིག་ཚགས་ཡིག་ཆའི་མིང་འདྲི་རྩད་བྱས་རྗེས་ཕྱིར་འཐེན་བྱེད་དགོས།"
+"ཡིག་ཆ་སྣོན་པ་དང་། ཡིག་ཚགས།་ཡིག་ཆའི་མིང་འདྲི་རྩད་བྱས་རྗེས་ཕྱིར་འཐེན་བྱེད་དགོས།"
 
 msgid "Add files to an archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ལ་ཡིག་ཆ་སྣོན་པ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ལ་ཡིག་ཆ་སྣོན་པ།"
 
 msgid "Add files to the archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ལ་ཡིག་ཆ་སྣོན་པ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ལ་ཡིག་ཆ་སྣོན་པ།"
 
 msgid "Add files to the specified archive and quit the program"
 msgstr ""
-"ཡིག་ཆ་དེ་དམིགས་འཛུགས་བྱས་པའི་ཡིག་ཚགས་ཡིག་ཆའི་ནང་དུ་བསྣན་རྗེས། "
+"ཡིག་ཆ་དེ་དམིགས་འཛུགས་བྱས་པའི་ཡིག་ཚགས།་ཡིག་ཆའི་ནང་དུ་བསྣན་རྗེས། "
 "བྱ་རིམ་ཕྱིར་འཐེན་བྱེད་དགོས།"
 
 msgid "Add only if _newer"
@@ -160,37 +161,37 @@ msgid "All Supported Files"
 msgstr "ཀུན་པོ་རྒྱབ་སྐྱོར་གྱི་ཡིག་ཆ།"
 
 msgid "All archives"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཚང་མ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཚང་མ།"
 
 msgid "All files"
 msgstr "ཡིག་ཆ་ཚང་མ།"
 
 msgid "Allows to create and extract archives"
-msgstr "ཁྱེད་ལ་ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ་དང་བཙིར་འགྲོལ་བྱེད་ཆོག"
+msgstr "ཁྱེད་ལ་ཡིག་ཚགས།་ཡིག་ཆ་གསར་བཟོ་དང་བཙིར་འགྲོལ་བྱེད་ཆོག"
 
 msgid "An Archive Manager for the MATE desktop environment"
-msgstr "MATE ཡི་ཡིག་ཚགས་དོ་དམ་ཆས།"
+msgstr "MATE ཡི་ཡིག་ཚགས།་དོ་དམ་ཆས།"
 
 msgid "An archive manager for MATE."
-msgstr "MATE ཡི་ཡིག་ཚགས་དོ་དམ་ཆས།"
+msgstr "MATE ཡི་ཡིག་ཚགས།་དོ་དམ་ཆས།"
 
 msgid "An error occurred while adding files to the archive."
-msgstr "ཡིག་ཆ་དེ་ཡིག་ཚགས་ཡིག་ཆའི་ནང་སྣོན་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
+msgstr "ཡིག་ཆ་དེ་ཡིག་ཚགས།་ཡིག་ཆའི་ནང་སྣོན་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while deleting files from the archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆའི་ནང་ནས་ཡིག་ཆ་ཞིག་སུབ་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆའི་ནང་ནས་ཡིག་ཆ་ཞིག་སུབ་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while extracting files."
 msgstr "ཡིག་ཆ་བཙིར་གནོན་སྒྲོལ་སྐབས་ནོར་འཁྲུལ་བྱུང་།"
 
 msgid "An error occurred while loading the archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་འཇུག་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་འཇུག་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while saving the archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཉར་ཚགས་བྱེད་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཉར་ཚགས་བྱེད་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred while testing archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཚོད་ལེན་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཚོད་ལེན་སྐབས་སུ་ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
 
 msgid "An error occurred."
 msgstr "ནོར་འཁྲུལ་ཞིག་ཐོན་སོང་།"
@@ -199,28 +200,28 @@ msgid "Another file with the same name already exists in \"%s\"."
 msgstr "“%s” ནང་དུ་མིང་མཚུངས་པའི་ཡིག་ཆ་ཡོད།"
 
 msgid "Application does not accept documents on command line"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས་མི་ལེན།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས།་མི་ལེན།"
 
 msgid "Ar (.ar)"
 msgstr "Ar (.ar)"
 
 msgid "Archive Manager"
-msgstr "ཡིག་ཚགས་དོ་དམ་ཆས།"
+msgstr "ཡིག་ཚགས།་དོ་དམ་ཆས།"
 
 msgid "Archive created successfully"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ་ལེགས་འགྲུབ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་གསར་བཟོ་ལེགས་འགྲུབ།"
 
 msgid "Archive not created"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ་བྱས་མེད།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་གསར་བཟོ་བྱས་མེད།"
 
 msgid "Archive not found"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་མ་རྙེད།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་མ་རྙེད།"
 
 msgid "Archive size:"
-msgstr "ཡིག་ཚགས་ཡིག་ཆའི་ཆེ་ཆུང་།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆའི་ཆེ་ཆུང་།"
 
 msgid "Archive type not supported."
-msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ཡིག་ཚགས་ཡིག་ཆའི་རིགས།"
+msgstr "རྒྱབ་སྐྱོར་མེད་པའི་ཡིག་ཚགས།་ཡིག་ཆའི་རིགས།"
 
 msgid "Arj (.arj)"
 msgstr "Arj (.arj)"
@@ -235,10 +236,10 @@ msgid "Cabinet (.cab)"
 msgstr "Cabinet (.cab)"
 
 msgid "Can't pass documents to this desktop element"
-msgstr "ཡིག་ཚགས་ཅོག་ངོས་འདིའི་གཞི་རྒྱུ་ལ་སྐྱེལ་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཅོག་ངོས་འདིའི་གཞི་རྒྱུ་ལ་སྐྱེལ་མི་ཐུབ།"
 
 msgid "Close the current archive"
-msgstr "མིག་སྔའི་ཡིག་ཚགས་ཡིག་ཆ་ཁ་རྒྱག"
+msgstr "མིག་སྔའི་ཡིག་ཚགས།་ཡིག་ཆ་ཁ་རྒྱག"
 
 msgid "Close the folders pane"
 msgstr "ཡིག་ཁུག་ངོས་པང་ཁ་རྒྱག"
@@ -280,16 +281,16 @@ msgid "Copyright © 2001–2010 Free Software Foundation, Inc."
 msgstr "པར་དབང་ © 2001-2010 རང་དབང་མཉེན་ཆས་ཐེབས་རྩ་ལྷན་ཚོགས།"
 
 msgid "Could not add the files to the archive"
-msgstr "ཡིག་ཆ་དག་ཡིག་ཚགས་ཡིག་ཆ་ཡི་ནང་དུ་སྣོན་ཐབས་བྲལ་བ།"
+msgstr "ཡིག་ཆ་དག་ཡིག་ཚགས།་ཡིག་ཆ་ཡི་ནང་དུ་སྣོན་ཐབས་བྲལ་བ།"
 
 msgid "Could not create the archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་བཟོ་ཐབས་བྲལ་བ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་བཟོ་ཐབས་བྲལ་བ།"
 
 msgid "Could not create the destination folder: %s."
 msgstr "དམིགས་ཡུལ་ཡིག་ཁུག：%sགསར་བཟོ་མི་ཐུབ།"
 
 msgid "Could not delete the old archive."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་རྙིང་པ་སུབ་ཐབས་བྲལ་བ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་རྙིང་པ་སུབ་ཐབས་བྲལ་བ།"
 
 msgid "Could not display help"
 msgstr "རོགས་རམ་མངོན་མི་ཐུབ་པ།"
@@ -316,19 +317,19 @@ msgid "Could not rename the folder"
 msgstr "ཡིག་ཁུག་ལ་མིང་བསྐྱར་འདོགས་མི་ཐུབ་པ།"
 
 msgid "Could not save the archive \"%s\""
-msgstr "ཡིག་ཚགས་ཡིག་ཆ “%s” ཉར་ཚགས་བྱེད་ཐབས་བྲལ་བ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ “%s” ཉར་ཚགས་བྱེད་ཐབས་བྲལ་བ།"
 
 msgid "Create _Archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ། གསར་བཟོ།(_A)"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ། གསར་བཟོ།(_A)"
 
 msgid "Create _Folder"
 msgstr "ཡིག་ཁུག(_F)"
 
 msgid "Create a compressed archive with the selected objects"
-msgstr "བདམས་པའི་བྱ་ཡུལ་གྱིས་སྡུད་སྒྲིལ་ཡིག་ཚགས་ཤིག་བཟོ་བ།"
+msgstr "བདམས་པའི་བྱ་ཡུལ་གྱིས་སྡུད་སྒྲིལ་ཡིག་ཚགས།་ཤིག་བཟོ་བ།"
 
 msgid "Create a new archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་གསར་བ་གསར་བཟོ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་གསར་བ་གསར་བཟོ།"
 
 msgid "Create and modify an archive"
 msgstr ""
@@ -340,7 +341,7 @@ msgid "Creating \"%s\""
 msgstr ""
 
 msgid "Cut the selection"
-msgstr "བདམས་པའི་ནང་དོན་དྲས་གཅོད།"
+msgstr "བདམས་པའི་ནང་དོན་དྲས་དྲས་རྒྱག།"
 
 msgid "Date Modified"
 msgstr "བཟོ་བཅོས་དུས་ཚོད།"
@@ -355,13 +356,13 @@ msgid "Delete"
 msgstr "བསུབ་པ།"
 
 msgid "Delete the selection from the archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ལས་བདམས་པའི་ནང་དོན་འདོར་བ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ལས་བདམས་པའི་ནང་དོན་འདོར་བ།"
 
 msgid "Deleting files from \"%s\""
 msgstr " \\%s\" ལས་འདོར་བ།\""
 
 msgid "Deleting files from archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཡི་ནང་ནས་ཡིག་ཆ་སུབ་པ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཡི་ནང་ནས་ཡིག་ཆ་སུབ་པ།"
 
 msgid "Dese_lect All"
 msgstr "(_L) ཚང་མ་མི་འདེམས།"
@@ -412,10 +413,11 @@ msgid ""
 "Do you want to add this file to the current archive or open it as a new "
 "archive?"
 msgstr ""
-"ཁྱེད་ཀྱིས་ཡིག་ཆ་འདི་མིག་སྔའི་ཡིག་ཚགས་ཡིག་ཆ་ཡི་ནང་དུ་སྣོན་པའམ་ཡང་ན་ཡིག་ཚགས་ཡིག་ཆ་གསར་པར་ཁ་ཕྱེ་འདོད་དམ།"
+"ཁྱེད་ཀྱིས་ཡིག་ཆ་འདི་མིག་སྔའི་ཡིག་ཚགས།་ཡིག་ཆ་ཡི་ནང་དུ་སྣོན་པའམ་ཡང་ན་ཡིག་ཚགས།་ཡ"
+"ིག་ཆ་གསར་པར་ཁ་ཕྱེ་འདོད་དམ།"
 
 msgid "Do you want to create a new archive with these files?"
-msgstr "ཁྱེད་ཀྱིས་ཡིག་ཆ་དེ་དག་ཚུད་པའི་ཡིག་ཚགས་ཡིག་ཆ་གསར་པ་བཟོ་འདོད་ཡོད་དམ།"
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཆ་དེ་དག་ཚུད་པའི་ཡིག་ཚགས།་ཡིག་ཆ་གསར་པ་བཟོ་འདོད་ཡོད་དམ།"
 
 msgid "E_xclude files:"
 msgstr "ཡིག་ཆ། སེལ་བ།(_X)"
@@ -424,7 +426,7 @@ msgid "Ear (.ear)"
 msgstr ""
 
 msgid "Engrampa"
-msgstr "ཡིག་ཚགས་དོ་དམ་ཆས།"
+msgstr "ཡིག་ཚགས།་དོ་དམ་ཆས།"
 
 msgid "Engrampa Archive Manager"
 msgstr ""
@@ -444,7 +446,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the password for the archive '%s'."
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་“%s” ཡི་གསང་ཨང་ནང་འཇུག་པ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་“%s” ཡི་གསང་ཨང་ནང་འཇུག་པ།"
 
 msgid "Exclude folders that are symbolic lin_ks"
 msgstr "མཚོན་རྟགས་སྦྲེལ་མཐུད་ཀྱི་ཡིག་ཁུག་འབུད་པ།(_K)"
@@ -471,26 +473,26 @@ msgstr ""
 
 msgid "Extract archives to the specified folder and quit the program"
 msgstr ""
-"ཡིག་ཚགས་ཡིག་ཆ་བསྟན་པའི་ཡིག་ཁུག་ཏུ་བཙིར་སྒྲོལ། དེའི་འཕྲོར་བྱ་རིམ་ཕྱིར་འདོན།"
+"ཡིག་ཚགས།་ཡིག་ཆ་བསྟན་པའི་ཡིག་ཁུག་ཏུ་བཙིར་སྒྲོལ། དེའི་འཕྲོར་བྱ་རིམ་ཕྱིར་འདོན།"
 
 msgid "Extract files from the archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ལས་ཡིག་ཆ་བཙིར་སྒྲོལ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ལས་ཡིག་ཆ་བཙིར་སྒྲོལ།"
 
 msgid ""
 "Extract the contents of the archives in the archive folder and quit the "
 "program"
 msgstr ""
-"ཡིག་ཚགས་ཡིག་ཆའི་ནང་དོན་ཡིག་ཚགས་ཡིག་ཁུག་ཏུ་བཙིར་སྒྲོལ། "
+"ཡིག་ཚགས།་ཡིག་ཆའི་ནང་དོན་ཡིག་ཚགས།་ཡིག་ཁུག་ཏུ་བཙིར་སྒྲོལ། "
 "དེའི་འཕྲོར་བྱ་རིམ་ཕྱིར་འདོན།"
 
 msgid "Extract the selected archive"
-msgstr "བདམས་པའི་ཡིག་ཚགས་ཡིག་ཆ་བཙིར་སྒྲོལ།"
+msgstr "བདམས་པའི་ཡིག་ཚགས།་ཡིག་ཆ་བཙིར་སྒྲོལ།"
 
 msgid "Extract the selected archive to the current position"
-msgstr "བདམས་པའི་ཡིག་ཚགས་ཡིག་ཆ་མིག་སྔ་གནས་སར་བཙིར་སྒྲོལ།"
+msgstr "བདམས་པའི་ཡིག་ཚགས།་ཡིག་ཆ་མིག་སྔ་གནས་སར་བཙིར་སྒྲོལ།"
 
 msgid "Extracting file: "
-msgstr "ཡིག་ཚགས་ཡིག་ཆ།："
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ།： "
 
 msgid "Extracting files from \"%s\""
 msgstr "\\%s\" ལས་བཙིར་སྒྲོལ།\""
@@ -642,10 +644,10 @@ msgid "Open _Recent"
 msgstr "ཉེ་ཆར་ལྟ་སྤྱོད་པ་ལ་ཁ་འབྱེད།(_R)"
 
 msgid "Open a recently used archive"
-msgstr "ཉེ་ཆར་སྤྱོད་པའི་ཡིག་ཚགས་ཡིག་ཆ་ཁ་འབྱེད།"
+msgstr "ཉེ་ཆར་སྤྱོད་པའི་ཡིག་ཚགས།་ཡིག་ཆ་ཁ་འབྱེད།"
 
 msgid "Open archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཁ་འབྱེད།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཁ་འབྱེད།"
 
 msgid "Open selected files with an application"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་བདམས་པའི་ཡིག་ཆ་ཁ་འབྱེད།"
@@ -687,7 +689,7 @@ msgid "Rar (.rar)"
 msgstr ""
 
 msgid "Rar Archived Comic Book (.cbr)"
-msgstr "RAR བཙིར་གནོན་གྱི་ Comic Book ཡིག་ཚགས་ཡིག་ཆ།(.cbr)"
+msgstr "RAR བཙིར་གནོན་གྱི་ Comic Book ཡིག་ཚགས།་ཡིག་ཆ།(.cbr)"
 
 msgid "Re-crea_te folders"
 msgstr "ཡིག་ཁུག་བསྐྱར་བཟོ།(_T)"
@@ -696,10 +698,10 @@ msgid "Reading \"%s\""
 msgstr ""
 
 msgid "Recompressing archive"
-msgstr "ཡིག་ཚགས་བསྐྱར་དུ་འཇོག་པ།"
+msgstr "ཡིག་ཚགས།་བསྐྱར་དུ་འཇོག་པ།"
 
 msgid "Reload current archive"
-msgstr "མིག་སྔ་ཡིག་ཚགས་ཡིག་ཆ་ཡང་བསྐྱར་བར་འཇུག"
+msgstr "མིག་སྔ་ཡིག་ཚགས།་ཡིག་ཆ་ཡང་བསྐྱར་བར་འཇུག"
 
 msgid "Removing file: "
 msgstr "ཡིག་ཆ་འདོར་བ།："
@@ -732,7 +734,7 @@ msgid "Save Options"
 msgstr "ཉར་ཚགས་འདེམས་ཚན།"
 
 msgid "Save the current archive with a different name"
-msgstr "མིག་སྔའི་ཡིག་ཚགས་ཡིག་ཆ་མི་འདྲ་བའི་མིང་གིས་ཉར་བ།"
+msgstr "མིག་སྔའི་ཡིག་ཚགས།་ཡིག་ཆ་མི་འདྲ་བའི་མིང་གིས་ཉར་བ།"
 
 msgid "Saving \"%s\""
 msgstr ""
@@ -741,13 +743,13 @@ msgid "Select all files"
 msgstr "ཡིག་ཆ་ཚང་མ་འདེམ་པ།"
 
 msgid "Self-extracting zip (.exe)"
-msgstr " Zip ཡིག་ཚགས་ཡིག་ཆ་(.exe)རང་འགྲོལ།"
+msgstr "Zip ཡིག་ཚགས།་ཡིག་ཆ་(.exe)རང་འགྲོལ།"
 
 msgid "Session management options:"
 msgstr "གླེང་མོལ་དོ་དམ་འདེམ་བྱང་།"
 
 msgid "Show archive properties"
-msgstr "ཡིག་ཚགས་ཡིག་ཆའི་གཏོགས་གཤིས་མངོན་པ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆའི་གཏོགས་གཤིས་མངོན་པ།"
 
 msgid "Show session management options"
 msgstr "གླེང་མོལ་དོ་དམ་འདེམས་བྱང་འཆར་བ།"
@@ -774,7 +776,7 @@ msgid "Sort type"
 msgstr "སྟར་པའི་རིགས་གྲས།"
 
 msgid "Specify a password for this archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་འདི་ལ་གསང་ཨང་སྟོན།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་འདི་ལ་གསང་ཨང་སྟོན།"
 
 msgid "Specify file containing saved configuration"
 msgstr "ཉར་ཚགས་བྱས་ཟིན་པའི་སྡེབ་སྒྲིག་ཡིག་ཆ་འདུས་པ་དམིགས་འཛུགས།"
@@ -783,7 +785,7 @@ msgid "Specify session management ID"
 msgstr "གླེང་མོལ་དོ་དམ་IDདམིགས་འཛུགས།"
 
 msgid "Split into _volumes of"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཕྲལ་བ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཕྲལ་བ།"
 
 msgid "Starting %s"
 msgstr " %sའགོ་སློང་བཞིན་པ།"
@@ -795,49 +797,49 @@ msgid "Stop current operation"
 msgstr "མིག་སྔའི་བཀོལ་སྤྱོད་མཚམས་འཇོག"
 
 msgid "Tar compressed with 7z (.tar.7z)"
-msgstr "7z ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.7z)སྤྱོད།"
+msgstr "7z ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.7z)སྤྱོད།"
 
 msgid "Tar compressed with bzip (.tar.bz)"
-msgstr "bzip ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.bz)སྤྱོད།"
+msgstr "bzip ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.bz)སྤྱོད།"
 
 msgid "Tar compressed with bzip2 (.tar.bz2)"
-msgstr "bzip2 ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.bz2)སྤྱོད།"
+msgstr "bzip2 ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.bz2)སྤྱོད།"
 
 msgid "Tar compressed with compress (.tar.Z)"
 msgstr "compress ཡིས་བཙིར་གནོན་གྱི་། (.tar.Z)སྤྱོད།"
 
 msgid "Tar compressed with gzip (.tar.gz)"
-msgstr "gzip ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.gz)སྤྱོད།"
+msgstr "gzip ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.gz)སྤྱོད།"
 
 msgid "Tar compressed with lrzip (.tar.lrz)"
-msgstr "lrzip ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.lrz)སྤྱོད།"
+msgstr "lrzip ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.lrz)སྤྱོད།"
 
 msgid "Tar compressed with lzip (.tar.lz)"
-msgstr "lzip ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.lz)སྤྱོད།"
+msgstr "lzip ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.lz)སྤྱོད།"
 
 msgid "Tar compressed with lzma (.tar.lzma)"
-msgstr "lzma ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.lzma)སྤྱོད།"
+msgstr "lzma ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.lzma)སྤྱོད།"
 
 msgid "Tar compressed with lzop (.tar.lzo)"
-msgstr "lzop ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.lzo)སྤྱོད།"
+msgstr "lzop ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.lzo)སྤྱོད།"
 
 msgid "Tar compressed with xz (.tar.xz)"
-msgstr "xz ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས་ཡིག་ཆ་(.tar.xz)སྤྱོད།"
+msgstr "xz ཡིས་བཙིར་གནོན་གྱི་ Tar ཡིག་ཚགས།་ཡིག་ཆ་(.tar.xz)སྤྱོད།"
 
 msgid "Tar uncompressed (.tar)"
-msgstr "བཙིར་གནོན་མ་བྱེད་པའི་ Tar ཡིག་ཚགས་ཡིག་ཆ།(.tar)"
+msgstr "བཙིར་གནོན་མ་བྱེད་པའི་ Tar ཡིག་ཚགས།་ཡིག་ཆ།(.tar)"
 
 msgid "Test Result"
 msgstr "ཚོད་ལྟའི་མཇུག་འབྲས།"
 
 msgid "Test whether the archive contains errors"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ནོར་འཁྲུལ་ཡོད་མེད་ཚོད་ལེན།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ནོར་འཁྲུལ་ཡོད་མེད་ཚོད་ལེན།"
 
 msgid "Testing \"%s\""
 msgstr ""
 
 msgid "The archive is already present.  Do you want to overwrite it?"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཡོད་པ། ཁྱེད་ཀྱིས་འགེབས་འདོད་དམ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཡོད་པ། ཁྱེད་ཀྱིས་འགེབས་འདོད་དམ།"
 
 msgid "The default width of the name column in the file list."
 msgstr "ཡིག་ཆ་རེའུ་མིག་སོར་བཞག་མིང་གི་ཞེང་ཚད།"
@@ -873,7 +875,7 @@ msgstr ""
 "ཉེར་སྤྱོད་བྱ་རིམ་བཤེར་འཚོལ་ཚོད་ལྟ་བྱེད་སྐབས་ནང་ཁུལ་གྱི་ནོར་འཁྲུལ་བྱུང་།："
 
 msgid "This archive type cannot be modified"
-msgstr "ཡིག་ཚགས་ཡིག་ཆའི་རིགས་འདི་ལ་བཟོ་བཅོས་བྱེད་ཐབས་བྲལ།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆའི་རིགས་འདི་ལ་བཟོ་བཅོས་བྱེད་ཐབས་བྲལ།"
 
 msgid ""
 "Tip: If there is a file with the same name in the target folder, the file "
@@ -891,13 +893,13 @@ msgid "Unrecognized launch option: %d"
 msgstr "ངོས་འཛིན་མི་ཐུབ་པའི་མགོ་སློང་འདེམས་ཚན།：%d"
 
 msgid "Update the file \"%s\" in the archive \"%s\"?"
-msgstr "ཡིག་ཚགས་“%2$s”ནང་གི་ཡིག་ཆ་“%1$s”གསར་སྒྱུར།"
+msgstr "ཡིག་ཚགས།་“%2$s”ནང་གི་ཡིག་ཆ་“%1$s”གསར་སྒྱུར།"
 
 msgid "Update the files in the archive \"%s\"?"
-msgstr "ཡིག་ཚགས་“%s”ནང་གི་ཡིག་ཆ་གསར་སྒྱུར།"
+msgstr "ཡིག་ཚགས།་“%s”ནང་གི་ཡིག་ཆ་གསར་སྒྱུར།"
 
 msgid "Use mime icons"
-msgstr "བྱེད་ནུས་མང་པོའི་པར་རིས་སྤྱོད་པ།"
+msgstr "བྱེད་ནུས་མང་པོའི་པར་རིས།་སྤྱོད་པ།"
 
 msgid "View All _Files"
 msgstr "ཡིག་ཆ་ཚང་མར་ལྟ་བ། (_F)"
@@ -927,20 +929,20 @@ msgid "Xz (.xz)"
 msgstr "Xz། (.xz)"
 
 msgid "You can't add an archive to itself."
-msgstr "ཁྱེད་ཀྱིས་ཡིག་ཚགས་ཡིག་ཆ་རང་ཉིད་ལ་སྣོན་ཐབས་བྲལ། "
+msgstr "ཁྱེད་ཀྱིས་ཡིག་ཚགས།་ཡིག་ཆ་རང་ཉིད་ལ་སྣོན་ཐབས་བྲལ།"
 
 msgid "You don't have permission to create an archive in this folder"
-msgstr "ཁྱེད་ལ་ཡིག་ཁུག་འདིའི་ནང་ཡིག་ཚགས་ཡིག་ཆ་བཟོ་བའི་དབང་ཆ་མེད།"
+msgstr "ཁྱེད་ལ་ཡིག་ཁུག་འདིའི་ནང་ཡིག་ཚགས།་ཡིག་ཆ་བཟོ་བའི་དབང་ཆ་མེད།"
 
 msgid ""
 "You don't have the right permissions to create an archive in the destination"
 " folder."
-msgstr "ཁྱེད་ལ་དམིགས་ཚད་ཡིག་ཁུགཏུ་ཡིག་ཚགས་ཡིག་ཆ་གསར་བཟོ་བའི་དབང་ཚད་མེད།"
+msgstr "ཁྱེད་ལ་དམིགས་ཚད་ཡིག་ཁུགཏུ་ཡིག་ཚགས།་ཡིག་ཆ་གསར་བཟོ་བའི་དབང་ཚད་མེད།"
 
 msgid ""
 "You don't have the right permissions to extract archives in the folder "
 "\"%s\""
-msgstr "ཁྱེད་ལ་ཡིག་ཚགས་ཡིག་ཆ་བཙིར་གནོན་ཡིག་ཁུག“%s”རུ་འགྲོལ་བའི་དབང་ཚད་མེད།"
+msgstr "ཁྱེད་ལ་ཡིག་ཚགས།་ཡིག་ཆ་བཙིར་གནོན་ཡིག་ཁུག“%s”རུ་འགྲོལ་བའི་དབང་ཚད་མེད།"
 
 msgid "You don't have the right permissions to read files from folder \"%s\""
 msgstr "ཁྱེད་ལ་ཡིག་ཁུག “%s” ཡི་ནང་གི་ཡིག་ཆ་ཀློག་ལེན་བྱེད་པའི་དབང་ཆ་མེད།"
@@ -949,7 +951,7 @@ msgid "You don't have the right permissions."
 msgstr "ཁྱེད་ལ་ཡང་དག་པའི་དབང་ཆ་མེད། "
 
 msgid "You have to specify an archive name."
-msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་ཡིག་ཚགས་ཡིག་ཆའི་མིང་དམིགས་འཛུགས་བྱེད་དགོས། "
+msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་ཡིག་ཚགས།་ཡིག་ཆའི་མིང་དམིགས་འཛུགས་བྱེད་དགོས།"
 
 msgid ""
 "You should have received a copy of the GNU General Public License along with"
@@ -961,7 +963,7 @@ msgid "Zip (.zip)"
 msgstr ""
 
 msgid "Zip Archived Comic Book (.cbz)"
-msgstr "ZIP ཡིས་བཙིར་གནོན་གྱི་ Comic Book ཡིག་ཚགས་ཡིག་ཆ།(.cbz)"
+msgstr "ZIP ཡིས་བཙིར་གནོན་གྱི་ Comic Book ཡིག་ཚགས།་ཡིག་ཆ།(.cbz)"
 
 msgid "Zoo (.zoo)"
 msgstr ""
@@ -982,7 +984,7 @@ msgid "_Application:"
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ།(_A)："
 
 msgid "_Archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ།(_A)"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ།(_A)"
 
 msgid "_Arrange Files"
 msgstr "ཡིག་ཆ་སྟར་སྒྲིག(_A)"
@@ -1042,7 +1044,7 @@ msgid "_Open With…"
 msgstr "ཁ་འབྱེད་སྟངས། (_O) ..."
 
 msgid "_Open the Archive"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཁ་ཕྱེ་བ། (_O)"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཁ་ཕྱེ་བ། (_O)"
 
 msgid "_Options Name:"
 msgstr "འདེམས་ཚན་མིང་། (_O)："
