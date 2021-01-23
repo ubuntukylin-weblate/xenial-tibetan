@@ -1,11 +1,12 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-28 15:45+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/fcitx/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid " Ctrl+Delete To Delete"
 msgstr " Ctrl+Delete འདོར་བ།"
@@ -183,7 +184,7 @@ msgid "Adjust Order"
 msgstr "ནང་འཇུག་གོ་རིམ།"
 
 msgid "AdjustFast"
-msgstr "མགྱོགས་མྱུར།"
+msgstr "མགྱོགས།མྱུར།"
 
 msgid "AdjustFreq"
 msgstr "ཟློས་ཕྱོད་ལྟར།"
@@ -277,7 +278,7 @@ msgid "Available Value:"
 msgstr "འདེམས་རུང་ཚད།："
 
 msgid "Background Image"
-msgstr "རྒྱབ་ལྗོངས་པར་རིས།"
+msgstr "རྒྱབ་ལྗོངས་པར་རིས།།"
 
 msgid "Bash Version:"
 msgstr "Bash པར་གཞི："
@@ -714,7 +715,7 @@ msgstr "དབྱིན་ཇིའི་རྣམ་པའི་རིས་ར
 
 msgid "Enum Option is invalid, take it as string"
 msgstr ""
-"རེར་འགོད་འདེམས་ཚན་ལུགས་མི་མཐུན། རིགས་གྲས་ཡིག་རྟགས་ཕྲེང་ལྟར་སྒྲིག་གཅོད།"
+"རེར་འགོད་འདེམས་ཚན་ལུགས་མི་མཐུན། རིགས་གྲས་ཡིག་རྟགས་ཕྲེང་ལྟར་སྒྲིག་དྲས་རྒྱག།"
 
 msgid "Enum option duplicated."
 msgstr "རེར་འགོད་འདེམས་ཚན་བསྐྱར་ཟློས།"
@@ -1380,7 +1381,7 @@ msgstr ""
 "གདམ་བྱའི་ཚིག་གཅིག་མ་གཏོགས་མེད་སྐབས་སུ་བརྙན་རང་ཐོན་གྱི་ནང་འཇུག་རིང་ཚད་ཐུང་ཤོས།"
 
 msgid "Missing type, take it as string"
-msgstr "རིགས་གྲས་ཆད་པ། ཡིག་རྟགས་ཕྲེང་བྱས་ནས་སྒྲིག་གཅོད།"
+msgstr "རིགས་གྲས་ཆད་པ། ཡིག་རྟགས་ཕྲེང་བྱས་ནས་སྒྲིག་དྲས་རྒྱག།"
 
 msgid "Module"
 msgstr "དཔེ་དུམ།"
@@ -1467,16 +1468,16 @@ msgid "Output"
 msgstr "ཕྱིར་འདོན།"
 
 msgid "Overlay X offset"
-msgstr "པར་རིས་བཀབ་པའི་ X སྤོ་ཡོ།"
+msgstr "པར་རིས།་བཀབ་པའི་ X སྤོ་ཡོ།"
 
 msgid "Overlay Y offset"
-msgstr "པར་རིས་བཀབ་པའི་ Y སྤོ་ཡོ།"
+msgstr "པར་རིས།་བཀབ་པའི་ Y སྤོ་ཡོ།"
 
 msgid "Overlay dock position"
-msgstr "པར་རིས་བཀབ་པའི་སྡོད་ས།"
+msgstr "པར་རིས།་བཀབ་པའི་སྡོད་ས།"
 
 msgid "Overlay image"
-msgstr "པར་རིས་བཀབ་པ།"
+msgstr "པར་རིས།་བཀབ་པ།"
 
 msgid "Override the skin font size"
 msgstr "པགས་པ་བཀབ་པའི་ཡིག་ཨང་སྒྲིག་འགོད།"
@@ -2099,7 +2100,7 @@ msgid "UniqueName"
 msgstr "མིང་ཁོ་ན།"
 
 msgid "Unknown type, take it as string: %s"
-msgstr "མི་ཤེས་རིགས་གྲས་། ཡིག་རྟགས་ཕྲེང་།： %sལྟར་སྒྲིག་གཅོད།"
+msgstr "མི་ཤེས་རིགས་གྲས་། ཡིག་རྟགས་ཕྲེང་།： %sལྟར་སྒྲིག་དྲས་རྒྱག།"
 
 msgid "Unsupported Key"
 msgstr "རྒྱབ་སྐྱོར་མི་བྱེད་པའི་མཐེབ་གནོན།"
@@ -2200,7 +2201,7 @@ msgid "Virtual Keyboard"
 msgstr "རྟོག་བཟོས་མཐེབ་གཞོང་།"
 
 msgid "Virtual Keyboard Image"
-msgstr "རྟོག་བཟོས་མཐེབ་གཞོང་པར་རིས།"
+msgstr "རྟོག་བཟོས་མཐེབ་གཞོང་པར་རིས།།"
 
 msgid "Virtual Keyboard State"
 msgstr "རྟོག་བཟོས་མཐེབ་གཞོང་རྣམ་པ།"
