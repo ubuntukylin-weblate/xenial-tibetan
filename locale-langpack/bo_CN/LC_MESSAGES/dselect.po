@@ -1,11 +1,12 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-03 13:04+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/dselect/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid ""
 "\n"
@@ -284,7 +285,8 @@ msgstr "མཉེན་ཆས་ཐུམ་གྱི་ཕན་ཚུན་འ
 
 msgid "Introduction to conflict/dependency resolution sub-list"
 msgstr ""
-"འགལ་བ་/རྟེན་འབྲེལ་གྱི་གནད་དོན་ཐག་གཅོད་ཀྱི་བུའི་རེའུ་མིག་གི་ངོ་སྤྲོད་མདོར་བསྡུས།"
+"འགལ་བ་/རྟེན་འབྲེལ་གྱི་གནད་དོན་ཐག་དྲས་རྒྱག་ཀྱི་བུའི་རེའུ་མིག་གི་ངོ་སྤྲོད་མདོར་"
+"བསྡུས།"
 
 msgid "Introduction to method selection display"
 msgstr "སྒྲིག་འཇུག་ལག་ཐབས་ཀྱིས་འཆར་ངོས་ཀྱི་ངོ་སྤྲོད་མདོར་བསྡུས་འདེམ་པ།"
@@ -466,10 +468,10 @@ msgid "Scroll backwards through list by 1 line"
 msgstr "རེའུ་མིག་ཏུ་རྒྱབ་ལ་ཕྲེང་གཅིག་འདེད།"
 
 msgid "Scroll onwards through help/information"
-msgstr "རོགས་རམ་ཡིག་ཚགས་ཡང་ན་འབྲེལ་ཡོད་ཆ་འཕྲིན་དུ་མདུན་འདེད།"
+msgstr "རོགས་རམ་ཡིག་ཚགས།་ཡང་ན་འབྲེལ་ཡོད་ཆ་འཕྲིན་དུ་མདུན་འདེད།"
 
 msgid "Scroll onwards through help/information by 1 line"
-msgstr "རོགས་རམ་ཡིག་ཚགས་ཡང་ན་འབྲེལ་ཡོད་ཆ་འཕྲིན་དུ་མདུན་ལ་ཕྲེང་གཅིག་འདེད།"
+msgstr "རོགས་རམ་ཡིག་ཚགས།་ཡང་ན་འབྲེལ་ཡོད་ཆ་འཕྲིན་དུ་མདུན་ལ་ཕྲེང་གཅིག་འདེད།"
 
 msgid "Scroll onwards through list"
 msgstr "རེའུ་མིག་ཏུ་མདུན་འདེད།"
@@ -632,7 +634,7 @@ msgid "doupdate failed"
 msgstr "doupdate ཕམ་པ།"
 
 msgid "doupdate in SIGWINCH handler failed"
-msgstr " SIGWINCH ཡི་སྒྲིག་གཅོད་རྟེན་འབྱུང་གྲངས་སུ་doupdate ཕམ་པ།"
+msgstr "SIGWINCH ཡི་སྒྲིག་དྲས་རྒྱག་རྟེན་འབྱུང་གྲངས་སུ་doupdate ཕམ་པ།"
 
 msgid "dselect - inspection of package states"
 msgstr "dselect - མཉེན་ཆས་ཐུམ་གྱི་རྣམ་པ་ལྟ་བཤེར།"
