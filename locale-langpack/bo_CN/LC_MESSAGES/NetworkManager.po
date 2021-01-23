@@ -1,12 +1,13 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-12 02:12+0000\n"
-"Last-Translator: rzdj <1046447973@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/networkmanager/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -1084,7 +1085,7 @@ msgid "Device details"
 msgstr "སྒྲིག་ཆས་ཀྱི་གནས་ཚུལ་ཞིབ་ཕྲ།"
 
 msgid "Device disconnected by user or client"
-msgstr "\"སྒྲིག་ཆས་སྤྱོད་མཁན་དང་ཡང་ན་མཁོ་མཁན་གྱིས་འབྲེལ་མཐུད་གཅོད།"
+msgstr "\"སྒྲིག་ཆས་སྤྱོད་མཁན་དང་ཡང་ན་མཁོ་མཁན་གྱིས་འབྲེལ་མཐུད་དྲས་རྒྱག།"
 
 msgid "Device is now managed"
 msgstr "སྒྲིག་ཆས་ཚབ་གཉེར་བྱས་ཟིན་པ།"
@@ -1096,7 +1097,7 @@ msgid "Disabled"
 msgstr "འགོག་སྤྱོད།"
 
 msgid "Disconnected by D-Bus"
-msgstr "D-Bus ཡིས་གཅོད་པ།"
+msgstr "D-Bus ཡིས་དྲས་རྒྱག་པ།"
 
 msgid "Do you also want to clear '%s'? [yes]: "
 msgstr "ཁྱེད་ཀྱིས་ཀྱང་ “%s”གཙང་སེལ་བྱེད་འདོད་དམ། [ཡིན]："
@@ -1875,7 +1876,7 @@ msgid "Error: not all devices deleted."
 msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་ཚང་མ་སུབ་པ་མ་རེད།"
 
 msgid "Error: not all devices disconnected."
-msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་ཚང་མ་སྦྲེལ་མཐུད་གཅོད་པ་མ་རེད།"
+msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་ཚང་མ་སྦྲེལ་མཐུད་དྲས་རྒྱག་པ་མ་རེད།"
 
 msgid "Error: not all devices found."
 msgstr "ནོར་འཁྲུལ།： སྒྲིག་ཆས་ཚང་མ་རྙེད་མ་བྱུང་།"
@@ -2284,7 +2285,7 @@ msgid "List of plugins separated by ','"
 msgstr "བསྒར་ལྷུ་རེའུ་མིག“,”ཡིས་བགོ་བ།"
 
 msgid "Log domains separated by ',': any combination of [%s]"
-msgstr "ཉིན་ཐོ་ཁོངས་སྤྱོད་པ། མཚམས་གཅོད།：[%s] ཡི་གང་འདོད་སྡེབ་སྒྲིག"
+msgstr "ཉིན་ཐོ་ཁོངས་སྤྱོད་པ། མཚམས་དྲས་རྒྱག།：[%s] ཡི་གང་འདོད་སྡེབ་སྒྲིག"
 
 msgid "Log level: one of [%s]"
 msgstr "ཉིན་ཐོའི་རིམ་པ།：[%s] ཡ་གྱལ་གཅིག"
@@ -2993,7 +2994,7 @@ msgid "The connection was not a bridge connection."
 msgstr "འབྲེལ་མཐུད་འདི་ཟམ་མཐུད་འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
 
 msgid "The connection was not a generic connection."
-msgstr "འབྲེལ་མཐུད་འདི་སྤྱི་སྤྱོད་འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
+msgstr "འབྲེལ་མཐུད་འདི་སྤྱི་སྤྱོད།་འབྲེལ་མཐུད་འབྲེལ་མཐུད་ཅིག་མིན།"
 
 msgid "The connection was not a modem connection."
 msgstr "འབྲེལ་མཐུད་འདི་སྙོམ་སྒྲིག་ཆས་འབྲེལ་མཐུད་ཀྱི་འབྲེལ་མཐུད་ཅིག་མིན།"
@@ -3555,7 +3556,7 @@ msgid "VPN connection successfully activated (D-Bus active path: %s)\n"
 msgstr ""
 
 msgid "VPN disconnected"
-msgstr "VPN འབྲེལ་མཐུད་གཅོད་པ།"
+msgstr "VPN འབྲེལ་མཐུད་དྲས་རྒྱག་པ།"
 
 msgid "VPN type: "
 msgstr "VPN རིགས་རྣམ།："
@@ -3986,7 +3987,7 @@ msgid "default route cannot be added (NetworkManager handles it by itself)"
 msgstr "སོར་བཞག་ལམ་འཚོལ（NetworkManager ཡིས་རང་སྤྱོད།）ཁ་སྣོན་བྱེད་ཐབས་མེད།"
 
 msgid "deprecated semicolon at the end of value %s: '%s'"
-msgstr "%s གྲངས་ཐང་གི་མཇུག་ལ་གཅོད་རྟགས་སྤྱོད་རྒྱུ་རྒྱབ་སྐྱོར་མི་བྱེད།: “%s”"
+msgstr "%s གྲངས་ཐང་གི་མཇུག་ལ་དྲས་རྒྱག་རྟགས་སྤྱོད་རྒྱུ་རྒྱབ་སྐྱོར་མི་བྱེད།: “%s”"
 
 msgid ""
 "describe  :: describe property\n"
@@ -4010,7 +4011,7 @@ msgid "disconnected"
 msgstr "ཆད་ཟིན་པ།"
 
 msgid "disconnecting"
-msgstr "འབྲེལ་མཐུད་གཅོད་བཞིན་པ།"
+msgstr "འབྲེལ་མཐུད་དྲས་རྒྱག་བཞིན་པ།"
 
 msgid "don't know how to get the property value"
 msgstr "གཏོགས་གཤིས་གྲངས་ཐང་ཇི་ལྟར་ཐོབ་པ་མི་ཤེས།"
@@ -4637,7 +4638,7 @@ msgstr ""
 "'%s'(གནས་ས %td)"
 
 msgid "unhandled setting property type '%s'"
-msgstr "སྒྲིག་གཅོད་མ་བྱས་པའི་སྒྲིག་འགོདགཏོགས་གཤིས་རིགས་རྣམ '%s'"
+msgstr "སྒྲིག་དྲས་རྒྱག་མ་བྱས་པའི་སྒྲིག་འགོདགཏོགས་གཤིས་རིགས་རྣམ '%s'"
 
 msgid "unknown"
 msgstr "མི་ཤེས།"
