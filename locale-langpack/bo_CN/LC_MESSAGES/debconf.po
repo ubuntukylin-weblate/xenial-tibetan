@@ -1,11 +1,12 @@
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/debconf/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid ""
 "\n"
@@ -57,7 +58,7 @@ msgid "%s is outdated"
 msgstr "%s དུས་བརྒལ་བ།"
 
 msgid "%s is outdated; dropping whole template!"
-msgstr "%s དུས་བརྒལ། མ་དཔེ་ཧྲིལ་བོ་བསྐྱུར་བ།"
+msgstr "%s དུས་བརྒལ། མ་དཔེ།་ཧྲིལ་བོ་བསྐྱུར་བ།"
 
 msgid "%s must be run as root"
 msgstr "%s ངེས་པར་དུ་ཐོབ་ཐང་ root བྱས་ནས་ལག་བསྟར།"
@@ -66,7 +67,7 @@ msgid ""
 "(Enter zero or more items separated by a comma followed by a space (', ').)"
 msgstr ""
 "(ཀླད་ཀོར་ཡང་ན་ཚེག་རྟགས་ལ་སྟོང་ཆ་བསྣན་ནས་(“, ”) "
-"ཡིས་རྣམ་གྲངས་མང་པོའི་མཚམས་གཅོད།)"
+"ཡིས་རྣམ་གྲངས་མང་པོའི་མཚམས་དྲས་རྒྱག།)"
 
 msgid "Back"
 msgstr "ཕྱིར་འཐེན།"
@@ -117,7 +118,7 @@ msgstr ""
 "རྣམ་གྲངས་སོ་སོའི་བར་དུ་སྟོང་ཆས་བཀལ།"
 
 msgid "Extracting templates from packages: %d%%"
-msgstr "མཉེན་ཆས་ཐུམ་ལས་མ་དཔེ།：%d%%འགྲོལ།"
+msgstr "མཉེན་ཆས་ཐུམ་ལས་མ་དཔེ།།：%d%%འགྲོལ།"
 
 msgid "Help"
 msgstr " རོགས་རམ།"
@@ -165,7 +166,7 @@ msgstr ""
 "དེ་བས་གླེང་སྒྲོམ་འཆར་ངོས་སྤྱོད་མི་རུང་།"
 
 msgid "Template #%s in %s does not contain a 'Template:' line\n"
-msgstr "%2$s ནང་གི་ཨང་ %1$s ཡི་མ་དཔེ་ལ་ཕྲེང་“Template:”ཚུད་མེད།\n"
+msgstr "%2$s ནང་གི་ཨང་ %1$s ཡི་མ་དཔེ།་ལ་ཕྲེང་“Template:”ཚུད་མེད།\n"
 
 msgid ""
 "Template #%s in %s has a duplicate field \"%s\" with new value \"%s\". "
@@ -173,10 +174,10 @@ msgid ""
 msgstr ""
 
 msgid "Template database not specified in config file."
-msgstr "སྡེབ་སྒྲིག་ཡིག་ཆར་མ་དཔེ་གཞི་གྲངས་མཛོད་སྟོན་མེད།"
+msgstr "སྡེབ་སྒྲིག་ཡིག་ཆར་མ་དཔེ།་གཞི་གྲངས་མཛོད་སྟོན་མེད།"
 
 msgid "Template parse error near `%s', in stanza #%s of %s\n"
-msgstr "%3$s ནང་གི་ཨང་ %2$s ཆ་ཤས་ཀྱི་“%1$s”ཉེ་བའི་མ་དཔེ་དབྱེ་ཞིབ་ནོར་འཁྲུལ\n"
+msgstr "%3$s ནང་གི་ཨང་ %2$s ཆ་ཤས་ཀྱི་“%1$s”ཉེ་བའི་མ་དཔེ།་དབྱེ་ཞིབ་ནོར་འཁྲུལ\n"
 
 msgid "Term::ReadLine::GNU is incompatable with emacs shell buffers."
 msgstr "Term::ReadLine::GNU དང་ Emacs shell ཡི་ལྷོད་གསོག་མི་འཆམ།"
@@ -208,7 +209,7 @@ msgid "Unable to start a frontend: %s"
 msgstr "མདུན་སྣེའི་འཆར་ངོས་མགོ་སློང་མི་ཐུབ：%s"
 
 msgid "Unknown template field '%s', in stanza #%s of %s\n"
-msgstr "%3$s ནང་གི་ཨང་ %2$s ཡི་ཆ་ཤས་སུ་མི་ཤེས་པའི་མ་དཔེ་ཡིག་དུམ“%1$s”ཡོད།\n"
+msgstr "%3$s ནང་གི་ཨང་ %2$s ཡི་ཆ་ཤས་སུ་མི་ཤེས་པའི་མ་དཔེ།་ཡིག་དུམ“%1$s”ཡོད།\n"
 
 msgid "Usage: debconf [options] command [args]"
 msgstr "སྤྱོད་སྟངས།：debconf [འདེམས་ཚན་] བཀའ་བརྡ་ [ཞུགས་གྲངས་]"
@@ -218,7 +219,7 @@ msgstr "སྤྱོད་སྟངས།：debconf-communicate [འདེམས
 
 msgid "Usage: debconf-mergetemplate [options] [templates.ll ...] templates"
 msgstr ""
-"སྤྱོད་སྟངས།：debconf-mergetemplate [འདེམས་ཚན་] [templates.ll ...] མ་དཔེ།"
+"སྤྱོད་སྟངས།：debconf-mergetemplate [འདེམས་ཚན་] [templates.ll ...] མ་དཔེ།།"
 
 msgid ""
 "Usage: dpkg-reconfigure [options] packages\n"
@@ -271,7 +272,7 @@ msgid "please specify a package to reconfigure"
 msgstr "བསྐྱར་འགོད་དགོས་པའི་མཉེན་ཆས་ཐུམ་སྟོན།"
 
 msgid "template parse error: %s"
-msgstr "མ་དཔེ་ཀློག་པ་ནོར་འཁྲུལ།: %s"
+msgstr "མ་དཔེ།་ཀློག་པ་ནོར་འཁྲུལ།: %s"
 
 msgid "unable to initialize frontend: %s"
 msgstr "མདུན་སྣེའི་འཆར་ངོས།：%sཐོག་མ་ཅན་དུ་སྒྱུར་མི་ཐུབ།"
