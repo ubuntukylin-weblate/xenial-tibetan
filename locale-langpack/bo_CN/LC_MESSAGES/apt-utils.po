@@ -1,17 +1,19 @@
-#
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: ཉི་མ་བཀྲ་ཤིས་ <nmzx@utibet.edu.cn>\n"
-"Language-Team: bo_CN <contact@i18n.ubuntukylin.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
+"Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
+"xenial-tibetan/apt-utils/bo_CN/>\n"
 "Language: bo_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "  %s has no binary override entry either\n"
 msgstr "  %s ནང་དུ་གཉིས་གོང་འགྲིལ་ལུགས་ཀྱི་ཡིག་ཆའི་ཚན overrideམེད།\n"
@@ -35,10 +37,10 @@ msgid "*** Failed to link %s to %s"
 msgstr "*** %sལ་%sའབྲེལ་མི་ཐུབ།"
 
 msgid "Archive had no package field"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་རུ་ཡིག་དུམ package མེད།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་རུ་ཡིག་དུམ package མེད།"
 
 msgid "Archive has no control record"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་རུ་ཚོད་འཛིན་ཡིག་དུམ་མེད།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་རུ་ཚོད་འཛིན་ཡིག་དུམ་མེད།"
 
 msgid "Cannot get debconf version. Is debconf installed?"
 msgstr "debconfཡི་པར་གཞི་ཐོབ་མི་ཐུབ། ཁྱེད་ཀྱིས་debconfསྒྲིག་འཇུག་བྱ་བ་ཡིན་ནམ།"
@@ -66,13 +68,13 @@ msgid "E: "
 msgstr "ནོར་འཁྲུལ།："
 
 msgid "E: Errors apply to file "
-msgstr "ནོར་འཁྲུལ། ཡིག་ཆ་སྒྲིག་གཅོད་བྱེད་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་། "
+msgstr "ནོར་འཁྲུལ། ཡིག་ཆ་སྒྲིག་དྲས་རྒྱག་བྱེད་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་། "
 
 msgid "Error processing contents %s"
-msgstr "དཀར་ཆག་ %s སྒྲིག་གཅོད་སྐབས་སུ་ནོར་བྱུང་།"
+msgstr "དཀར་ཆག་ %s སྒྲིག་དྲས་རྒྱག་སྐབས་སུ་ནོར་བྱུང་།"
 
 msgid "Error processing directory %s"
-msgstr "དཀར་ཆག་ %s སྒྲིག་གཅོད་སྐབས་སུ་ནོར་བྱུང་།"
+msgstr "དཀར་ཆག་ %s སྒྲིག་དྲས་རྒྱག་སྐབས་སུ་ནོར་བྱུང་།"
 
 msgid "Error writing header to contents file"
 msgstr "མགོ་དཀར་ཆག་ཡིག་ཆ་རུ་འབྲི་དུས་ནོར་བྱུང་།"
