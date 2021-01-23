@@ -1,13 +1,14 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:58+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/atril/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -15,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "%.0f × %.0f mm"
 msgstr "ཧའོ་སྨི%.0f x %.0f "
@@ -32,7 +33,7 @@ msgstr[0] "ཤོག་ངོས་འདི་ཐེངས%d རྙེད།"
 msgstr[1] "ཤོག་ངོས་འདི་ཐེངས%d རྙེད།"
 
 msgid "%d of %d documents converted"
-msgstr "ཡིག་ཚགས་%d བསྒྱུར་ཟིན། སྤྱིར་ཡིག་ཚགས་ %d ཡོད།"
+msgstr "ཡིག་ཚགས།་%d བསྒྱུར་ཟིན། སྤྱིར་ཡིག་ཚགས།་ %d ཡོད།"
 
 msgid "%d pending job in queue"
 msgid_plural "%d pending jobs in queue"
@@ -105,7 +106,7 @@ msgid ""
 msgstr ""
 
 msgid "A Document Viewer for the MATE desktop environment"
-msgstr "ཅོག་ངོས་ཁོར་ཡུག MATEཡི་ཡིག་ཚགས་ལྟ་ཆས།"
+msgstr "ཅོག་ངོས་ཁོར་ཡུག MATEཡི་ཡིག་ཚགས།་ལྟ་ཆས།"
 
 msgid "Add"
 msgstr "ཁ་སྣོན།"
@@ -120,7 +121,7 @@ msgid "Adjust the zoom level"
 msgstr "སྐྱེད་སྐུམ་རིམ་པ་ལེགས་སྒྲིག"
 
 msgid "All Documents"
-msgstr "ཡིག་ཚགས་ཚང་མ།"
+msgstr "ཡིག་ཚགས།་ཚང་མ།"
 
 msgid "All Files"
 msgstr "ཡིག་ཆ་ཚང་མ།"
@@ -135,13 +136,13 @@ msgid "Annotations"
 msgstr " མཆན་འགྲེལ།"
 
 msgid "Application does not accept documents on command line"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས་མི་ལེན།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས།་མི་ལེན།"
 
 msgid "Atril"
 msgstr ""
 
 msgid "Atril Document Viewer"
-msgstr "Atril ཡིག་ཚགས་ལྟ་ཆས།"
+msgstr "Atril ཡིག་ཚགས།་ལྟ་ཆས།"
 
 msgid ""
 "Atril is distributed in the hope that it will be useful, but WITHOUT ANY "
@@ -190,10 +191,10 @@ msgstr "རྒྱ་སྐྱེད་མིང་ལྟར།"
 msgid ""
 "Can't find an appropriate command to decompress this type of comic book"
 msgstr ""
-"རིགས་གྲས་འདིའི་ Comic Book ཡིག་ཚགས་བཙིར་འགྲོལ་འོས་པའི་བཀའ་བརྡས་མི་རྙེད།"
+"རིགས་གྲས་འདིའི་ Comic Book ཡིག་ཚགས།་བཙིར་འགྲོལ་འོས་པའི་བཀའ་བརྡས་མི་རྙེད།"
 
 msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "ཡིག་ཚགས་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
 
 msgid "Cancel _print and Close"
 msgstr "པར་འདེབས་ལེན་ནས་ཁ་རྒྱག(_P)"
@@ -201,7 +202,7 @@ msgstr "པར་འདེབས་ལེན་ནས་ཁ་རྒྱག(_P)"
 msgid ""
 "Cannot enter presentation mode with ePub documents use fullscreen mode "
 "instead."
-msgstr "ཡིག་ཚགས་ePubསྟོན་པའི་རྣམ་པར་འཇུག་མི་ཐུང། ཆོལ་ཡོངས་རྣམ་པར་བསྒྱུར།"
+msgstr "ཡིག་ཚགས།་ePubསྟོན་པའི་རྣམ་པར་འཇུག་མི་ཐུང། ཆོལ་ཡོངས་རྣམ་པར་བསྒྱུར།"
 
 msgid "Case Sensitive"
 msgstr "ཆེ་བྲིས་ཆུང་བྲིས་ཀྱི་དབྱེ་བ།"
@@ -222,7 +223,7 @@ msgid "Color:"
 msgstr "ཁ་དོག："
 
 msgid "Comic Books"
-msgstr "Comic Book ཡིག་ཚགས།"
+msgstr "Comic Book ཡིག་ཚགས།།"
 
 msgid "Comment"
 msgstr "དཔྱད་གཏམ།"
@@ -237,10 +238,10 @@ msgid "Copy _Image"
 msgstr "པར་རིགས་འདྲ་བཟོ།(_I)"
 
 msgid "Could not set up document tree for loading, some files missing"
-msgstr "ཡིག་ཚགས་སྡོང་འགྲེམས་སྣོན་པ་ལ་བཀོད་མི་ཐུབ། ཡིག་ཆ་འགའ་མི་འདང་།"
+msgstr "ཡིག་ཚགས།་སྡོང་འགྲེམས་སྣོན་པ་ལ་བཀོད་མི་ཐུབ། ཡིག་ཆ་འགའ་མི་འདང་།"
 
 msgid "Couldn't find appropriate format to save image"
-msgstr "པར་རིས་ཉར་བའི་འོས་པའི་རྣམ་གཞག་མི་རྙེད།"
+msgstr "པར་རིས།་ཉར་བའི་འོས་པའི་རྣམ་གཞག་མི་རྙེད།"
 
 msgid "Couldn't open attachment “%s”"
 msgstr ""
@@ -261,10 +262,10 @@ msgid "Cross"
 msgstr "སྣོལ་བ།"
 
 msgid "DVI Documents"
-msgstr "DVI ཡིག་ཚགས།"
+msgstr "DVI ཡིག་ཚགས།།"
 
 msgid "DVI document has incorrect format"
-msgstr "DVI ཡིག་ཚགས་ཀྱི་རྣམ་གཞག་མི་འགྲིག"
+msgstr "DVI ཡིག་ཚགས།་ཀྱི་རྣམ་གཞག་མི་འགྲིག"
 
 msgid "Delete the temporary file"
 msgstr "གནས་སྐབས་ཡིག་ཆ་འདོར་བ།"
@@ -273,22 +274,22 @@ msgid "Disable connection to session manager"
 msgstr "གཏམ་གླེང་དོ་དམ་ཆས་ཀྱི་འབྲེལ་མཐུད་འགོག་སྤྱོད།"
 
 msgid "DjVu Documents"
-msgstr "DjVu ཡིག་ཚགས།"
+msgstr "DjVu ཡིག་ཚགས།།"
 
 msgid "DjVu document has incorrect format"
-msgstr "DjVu ཡིག་ཚགས་ཀྱི་རྣམ་གཞག་མི་འགྲིག"
+msgstr "DjVu ཡིག་ཚགས།་ཀྱི་རྣམ་གཞག་མི་འགྲིག"
 
 msgid "Document"
-msgstr " ཡིག་ཚགས།"
+msgstr "ཡིག་ཚགས།།"
 
 msgid "Document License"
-msgstr "ཡིག་ཚགས་ཆོག་མཆན་དཔང་།"
+msgstr "ཡིག་ཚགས།་ཆོག་མཆན་དཔང་།"
 
 msgid "Document View"
-msgstr "ཡིག་ཚགས་མཐོང་རིས།"
+msgstr "ཡིག་ཚགས།་མཐོང་རིས།"
 
 msgid "Document Viewer"
-msgstr "ཡིག་ཚགས་ལྟ་ཆས།"
+msgstr "ཡིག་ཚགས།་ལྟ་ཆས།"
 
 msgid ""
 "Document Viewer\n"
@@ -299,21 +300,21 @@ msgid ""
 "Document contains form fields that have been filled out. If you don't save a"
 " copy, changes will be permanently lost."
 msgstr ""
-"ཡིག་ཚགས་སུ་བྲིས་པའི་རེའུ་མིག་ཚུད་ཡོད། གལ་ཏེ་ཁྱེད་ཀྱིས་འདྲ་བཤུས་མ་ཉར་ན། "
+"ཡིག་ཚགས།་སུ་བྲིས་པའི་རེའུ་མིག་ཚུད་ཡོད། གལ་ཏེ་ཁྱེད་ཀྱིས་འདྲ་བཤུས་མ་ཉར་ན། "
 "བཟོ་བཅོས་བོར་འགྲོ་ངེས།"
 
 msgid ""
 "Document contains new or modified annotations. If you don't save a copy, "
 "changes will be permanently lost."
 msgstr ""
-"ཡིག་ཚགས་སུ་མཆན་འགྲེལ་གསར་བའམ་བཅོས་པ་ཚུད་ཡོད། "
+"ཡིག་ཚགས།་སུ་མཆན་འགྲེལ་གསར་བའམ་བཅོས་པ་ཚུད་ཡོད། "
 "གལ་ཏེ་ཁྱེད་ཀྱིས་འདྲ་བཤུས་མ་ཉར་ན། བཟོ་བཅོས་བོར་འགྲོ་ངེས།"
 
 msgid "Document contains no annotations"
-msgstr "ཡིག་ཚགས་འདིར་མཆན་འགྲེལ་གང་ཡང་ཚུད་མེད།"
+msgstr "ཡིག་ཚགས།་འདིར་མཆན་འགྲེལ་གང་ཡང་ཚུད་མེད།"
 
 msgid "Downloading document (%d%%)"
-msgstr "ཡིག་ཚགས་འབེབས་པ། (%d%%)"
+msgstr "ཡིག་ཚགས།་འབེབས་པ། (%d%%)"
 
 msgid "Embedded"
 msgstr "བཙུད་འཇུག"
@@ -325,7 +326,7 @@ msgid "End of presentation. Click to exit."
 msgstr "འགྲེམས་སྟོན་ཟིན་བྲིས་ཚར། ཆིག་རྡེབ་ཕྱིར་འདོན།"
 
 msgid "Enlarge the document"
-msgstr "ཡིག་ཚགས་ཆེ་སྐྱེད།"
+msgstr "ཡིག་ཚགས།་ཆེ་སྐྱེད།"
 
 msgid "Enter password"
 msgstr "གསང་ཨང་ནང་འཇུག"
@@ -336,7 +337,7 @@ msgstr "ནོར་འཁྲུལ་ %s"
 msgid ""
 "Error launching the command “%s” in order to decompress the comic book: %s"
 msgstr ""
-"བཀའ་བརྡ་“%s”བསྣན་ནས་ཡིག་ཚགས་Comic Bookབཙིར་འགྲོལ་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་%s"
+"བཀའ་བརྡ་“%s”བསྣན་ནས་ཡིག་ཚགས།་Comic Bookབཙིར་འགྲོལ་སྐབས་སུ་ནོར་འཁྲུལ་བྱུང་%s"
 
 msgid "Expand Window to Fit"
 msgstr "སྒེའུ་ཁུང་བསྐྱེད་ནས་ཚིམ་པ་བྱེད།"
@@ -354,22 +355,22 @@ msgid "Failed to create a temporary file: %s"
 msgstr "གནས་སྐབས་ཡིག་ཆ་ %s གསར་བཟོ་ཕམ་པ།"
 
 msgid "Failed to load document “%s”"
-msgstr "ཡིག་ཚགས“%s”ཕབ་འཇུག་ཕམ་པ།"
+msgstr "ཡིག་ཚགས།“%s”ཕབ་འཇུག་ཕམ་པ།"
 
 msgid "Failed to load remote file."
-msgstr "རྒྱང་རིང་ཡིག་ཚགས་ཕབ་འཇུག་ཕམ་པ།"
+msgstr "རྒྱང་རིང་ཡིག་ཚགས།་ཕབ་འཇུག་ཕམ་པ།"
 
 msgid "Failed to print document"
-msgstr "ཡིག་ཚགས་པར་འདེམས་ཕམ་པ།"
+msgstr "ཡིག་ཚགས།་པར་འདེམས་ཕམ་པ།"
 
 msgid "Failed to print page %d: %s"
 msgstr "ཤོག་ངོས %d པར་འདེམས་ཕམ་པ། %s"
 
 msgid "Failed to reload document."
-msgstr "ཡིག་ཚགས་ཡང་བསྐྱར་ཕབ་འཇུག་ཕམ་པ།"
+msgstr "ཡིག་ཚགས།་ཡང་བསྐྱར་ཕབ་འཇུག་ཕམ་པ།"
 
 msgid "Failed to save document “%s”"
-msgstr "ཡིག་ཚགས“%s”ཉར་བ་ཕམ་པ།"
+msgstr "ཡིག་ཚགས།“%s”ཉར་བ་ཕམ་པ།"
 
 msgid "File corrupted"
 msgstr "ཡིག་ཆ་སྐྱོན་ཤོར།"
@@ -390,7 +391,7 @@ msgid "Find Pre_vious"
 msgstr "གོང་མ་འཚོལ་ཞིབ།(_V)"
 
 msgid "Find a word or phrase in the document"
-msgstr "ཡིག་ཚགས་ཁྲོད་ནས་ཐ་སྙད་དང་ཚིག་དུམ་འཚོལ་བ།"
+msgstr "ཡིག་ཚགས།་སུ་ཐ་སྙད་ཡང་ན་ཚིག་དུམ་འཚོལ།"
 
 msgid "Find next occurrence of the search string"
 msgstr "འཚོལ་བཤེར་ཡིག་རྟགས་ཕྲེང་ཕྱིའི་ཐོན་ཐེངས་འཚོལ།"
@@ -435,7 +436,7 @@ msgid "Gathering font information… %3d%%"
 msgstr "ཡིག་གཟུགས་ཀྱི་ཆ་འཕྲིན་བསྡུ་པ... %3d%%"
 
 msgid "General"
-msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
+msgstr "སྤྱི་སྤྱོད།་སྒྲིག་འགོད།"
 
 msgid "Go to %s on file “%s”"
 msgstr "ཡིག་ཆ་“%2$s”ཡི %1$sལ་སྒྱུར།"
@@ -497,7 +498,7 @@ msgid "Insert"
 msgstr "བར་འཇུག"
 
 msgid "Invalid document"
-msgstr "ནུས་མེད་ཀྱི་ཡིག་ཚགས།"
+msgstr "ནུས་མེད་ཀྱི་ཡིག་ཚགས།།"
 
 msgid "Invalid page selection"
 msgstr "ནུས་མེད་ལྡེབ་ངོས་འདེམ་པ།"
@@ -527,7 +528,7 @@ msgid "List"
 msgstr "རེའུ་མིག"
 
 msgid "Loading document from “%s”"
-msgstr "“%s”ལས་ཡིག་ཚགས་ཕབ་འཇུག"
+msgstr "“%s”ལས་ཡིག་ཚགས།་ཕབ་འཇུག"
 
 msgid "Loading…"
 msgstr "འགེལ་བཞིན་པ།"
@@ -536,16 +537,16 @@ msgid "Location:"
 msgstr "གནས་ས།:"
 
 msgid "MATE Document Previewer"
-msgstr "MATE ཡིག་ཚགས་སྔོན་ལྟ་ཆས།"
+msgstr "MATE ཡིག་ཚགས།་སྔོན་ལྟ་ཆས།"
 
 msgid "MATE Document Viewer"
-msgstr "MATE ཡིག་ཚགས་ལྟ་ཆས།"
+msgstr "MATE ཡིག་ཚགས།་ལྟ་ཆས།"
 
 msgid "Make the current document fill the window"
-msgstr "མིག་སྔའི་ཡིག་ཚགས་སྒེའུ་ཁུང་དུ་འཚམ་དུ་འཇུག"
+msgstr "མིག་སྔའི་ཡིག་ཚགས།་སྒེའུ་ཁུང་དུ་འཚམ་དུ་འཇུག"
 
 msgid "Make the current document fill the window width"
-msgstr "མིག་སྔའི་ཡིག་ཚགས་སྒེའུ་ཁུང་ཞེད་ཚད་ལ་འཚམ་དུ་འཇུག"
+msgstr "མིག་སྔའི་ཡིག་ཚགས།་སྒེའུ་ཁུང་ཞེད་ཚད་ལ་འཚམ་དུ་འཇུག"
 
 msgid "Modified:"
 msgstr "བཟོ་བཅོས་དུས་"
@@ -572,10 +573,10 @@ msgid "No"
 msgstr "མིན།"
 
 msgid "No files in archive"
-msgstr "ཡིག་ཚགས་ནང་དུ་ཡིག་ཆ་མེད།"
+msgstr "ཡིག་ཚགས།་ནང་དུ་ཡིག་ཆ་མེད།"
 
 msgid "No images found in archive %s"
-msgstr "ཡིག་ཚགས་ %s ནང་དུ་པར་རིས་རྙེད་མེད།"
+msgstr "ཡིག་ཚགས།་ %s ནང་དུ་པར་རིས།་རྙེད་མེད།"
 
 msgid "No name"
 msgstr "མིང་མེད།"
@@ -584,13 +585,13 @@ msgid "None"
 msgstr " མེད།"
 
 msgid "Not a comic book MIME type: %s"
-msgstr "ཡིག་ཚགས་ Comic Bookཡི་MIME རིགས་གྲས་%sམིན།"
+msgstr "ཡིག་ཚགས།་ Comic Bookཡི་MIME རིགས་གྲས་%sམིན།"
 
 msgid "Not a launchable item"
 msgstr "འདོན་སྤྱོད་རུང་བའི་ཚན་པ་མ་རེད།"
 
 msgid "Not an ePub document"
-msgstr "ཡིག་ཚགས་ePubམིན།"
+msgstr "ཡིག་ཚགས།་ePubམིན།"
 
 msgid "Not embedded"
 msgstr "བཙུད་འཇུག་བྱས་མེད།"
@@ -614,16 +615,16 @@ msgid "Open"
 msgstr "ཁ་ཕྱེ་བ།"
 
 msgid "Open Document"
-msgstr "ཡིག་ཚགས་ཁ་འབྱེད།"
+msgstr "ཡིག་ཚགས།་ཁ་འབྱེད།"
 
 msgid "Open a copy of the current document in a new window"
-msgstr "སྒེའུ་ཁུང་གསར་པའི་ནང་མིག་སྔའི་ཡིག་ཚགས་ཀྱི་འདྲ་བཤུས་ཁ་འབྱེད།"
+msgstr "སྒེའུ་ཁུང་གསར་པའི་ནང་མིག་སྔའི་ཡིག་ཚགས།་ཀྱི་འདྲ་བཤུས་ཁ་འབྱེད།"
 
 msgid "Open a recently used document"
-msgstr "ཉེ་དུས་བེད་སྤྱོད་བྱས་པའི་ཡིག་ཚགས་ཁ་འབྱེད།"
+msgstr "ཉེ་དུས་བེད་སྤྱོད་བྱས་པའི་ཡིག་ཚགས།་ཁ་འབྱེད།"
 
 msgid "Open an existing document"
-msgstr "ད་ཡོད་ཡིག་ཚགས་ཁ་འབྱེད།"
+msgstr "ད་ཡོད་ཡིག་ཚགས།་ཁ་འབྱེད།"
 
 msgid "Open in New _Window"
 msgstr "སྒེའུ་ཁུང་གསར་བར་ཁ་འབྱེད།(_W)"
@@ -632,16 +633,16 @@ msgid "Optimized:"
 msgstr "ལེགས་འགྱུར།"
 
 msgid "Override document restrictions"
-msgstr "ཡིག་ཚགས་ཚད་བཀག་སྣང་མེད་གཏོང་།ཡིག་ཚགས་ཚོད་འཛིན།"
+msgstr "ཡིག་ཚགས།་ཚད་བཀག་སྣང་མེད་གཏོང་།ཡིག་ཚགས།་ཚོད་འཛིན།"
 
 msgid "Override document restrictions, like restriction to copy or to print."
-msgstr "ཡིག་ཚགས་ཚད་བཀག་སྣང་མེད་གཏོང་། དཔེར་ན་འདྲ་བཟོ་ཡང་ན་པར་འདེམས་ཀྱི་ཚད་བཀག"
+msgstr "ཡིག་ཚགས།་ཚད་བཀག་སྣང་མེད་གཏོང་། དཔེར་ན་འདྲ་བཟོ་ཡང་ན་པར་འདེམས་ཀྱི་ཚད་བཀག"
 
 msgid "PAGE"
 msgstr "ཤོག་ངོས།"
 
 msgid "PDF Documents"
-msgstr "ཡིག་ཚགས་ PDF "
+msgstr "PDFཡིག་ཚགས།།"
 
 msgid "P_roperties"
 msgstr "གཏོགས་གཤིས།(_R)"
@@ -659,7 +660,7 @@ msgid "Page %s — %s"
 msgstr ""
 
 msgid "Page Handling"
-msgstr "ཤོག་ངོས་སྒྲིག་གཅོད།"
+msgstr "ཤོག་ངོས་སྒྲིག་དྲས་རྒྱག།"
 
 msgid "Page Scaling:"
 msgstr "ཤོག་ངོས་སྐྱུང་།"
@@ -671,13 +672,13 @@ msgid "Paragraph"
 msgstr "དུམ་ཚན།"
 
 msgid "Password for document %s"
-msgstr "ཡིག་ཚགས %s ཡི་གསང་ཨང་།"
+msgstr "ཡིག་ཚགས། %s ཡི་གསང་ཨང་།"
 
 msgid "Password required"
 msgstr "གསང་ཨང་དགོས།"
 
 msgid "PostScript Documents"
-msgstr "ཡིག་ཚགས PostScript"
+msgstr "PostScript ཡིག་ཚགས།།PostScedptཡིག་ཚགས།།"
 
 msgid "Pre_sentation"
 msgstr "སྟོན་པ།(_S)"
@@ -686,10 +687,10 @@ msgid "Preparing to print…"
 msgstr "པར་འདེབས་གྲ་སྒྲིག་སྒང་..."
 
 msgid "Presentation mode is not supported for ePub documents"
-msgstr " ePub ཡིག་ཚགས་ཀྱིས་སྟོན་འགྲེམས་རྣམ་པ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+msgstr "ePub ཡིག་ཚགས།་ཀྱིས་སྟོན་འགྲེམས་རྣམ་པ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "Presentation mode is not supported for ePub documents."
-msgstr "ePub ཡིག་ཚགས་ཀྱིས་སྟོན་འགྲེམས་རྣམ་པ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
+msgstr "ePub ཡིག་ཚགས།་ཀྱིས་སྟོན་འགྲེམས་རྣམ་པ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"
 
 msgid "Previous"
 msgstr "གཞས་སྔ་མ།"
@@ -704,7 +705,7 @@ msgid "Print settings file"
 msgstr "པར་འདེབས་བཀོད་པའི་ཡིག་ཆ།"
 
 msgid "Print this document"
-msgstr "ཡིག་ཚགས་འདི་པར་དུ་ཐོབ།"
+msgstr "ཡིག་ཚགས།་འདི་པར་འདེབས་བྱེད།"
 
 msgid "Printing is not supported on this printer."
 msgstr "པར་འདེབས་འཕྲུལ་ཆས་ཀྱིས་པར་འདེབས་རྒྱབ་སྐྱོར་མི་བྱེད།"
@@ -725,10 +726,10 @@ msgid "Properties"
 msgstr "གཏོགས་གཤིས།"
 
 msgid "Reload the document"
-msgstr "ཡིག་ཚགས་ཡང་བསྐྱར་ཕབ་འཇུག་བྱེད།"
+msgstr "ཡིག་ཚགས།་ཡང་བསྐྱར་ཕབ་འཇུག་བྱེད།"
 
 msgid "Reloading document from %s"
-msgstr "%sལས་ཡིག་ཚགས་ཡང་བསྐྱར་ཕབ་འཇུག་བྱེད་པ།"
+msgstr "%sལས་ཡིག་ཚགས།་ཡང་བསྐྱར་ཕབ་འཇུག་བྱེད་པ།"
 
 msgid "Remember _forever"
 msgstr "བརྟན་ངེས།(_F)"
@@ -769,7 +770,7 @@ msgid "Run atril in presentation mode"
 msgstr "སྟོན་སྟངས་རྣམ་པས་འཁོར་སྐྱོད་བྱེད atril"
 
 msgid "Run document as a presentation"
-msgstr "ཡིག་ཚགས་འགྲེམས་སྟོན་ཟིན་བྲིས་ལྟར་སྟོན།"
+msgstr "ཡིག་ཚགས།་འགྲེམས་སྟོན་ཟིན་བྲིས་ལྟར་སྟོན།"
 
 msgid "Running in presentation mode"
 msgstr "སྟོན་སྟངས་རྣམ་པས་འཁོར་སྐྱོད་བྱེད"
@@ -784,7 +785,7 @@ msgid "Save Current Settings as _Default"
 msgstr "མིག་སྔར་བཀོད་སྒྲིག་སོར་བཞག་ཚད་ལྟར་བཀོད།(_D)"
 
 msgid "Save Image"
-msgstr " བརྙན་རིས་ཉར་ཚགས།"
+msgstr "བརྙན་རིས།་ཉར་ཚགས།"
 
 msgid "Save a Copy"
 msgstr "བུ་དཔེ་ཉར་ཚགས།"
@@ -793,19 +794,19 @@ msgid "Save a _Copy"
 msgstr "འདྲ་བཤུས་ཉར།(_C)"
 
 msgid "Save a copy of document “%s” before closing?"
-msgstr "ཁ་མ་རྒྱག་གོང་ཏུ་ཡིག་ཚགས“%s”ཡི་འདྲ་བཤུས་ཉར་དགོས་སམ།"
+msgstr "ཁ་མ་རྒྱག་གོང་ཏུ་ཡིག་ཚགས།“%s”ཡི་འདྲ་བཤུས་ཉར་དགོས་སམ།"
 
 msgid "Save a copy of the current document"
-msgstr "མིག་སྔའི་ཡིག་ཚགས་ཀྱི་འདྲ་བཤུས་ཉར་བ།"
+msgstr "མིག་སྔའི་ཡིག་ཚགས།་ཀྱི་འདྲ་བཤུས་ཉར་བ།"
 
 msgid "Saving attachment to %s"
 msgstr "ཟུར་སྣོན %sལ་ཉར།"
 
 msgid "Saving document to %s"
-msgstr "ཡིག་ཚགས %sལ་ཉར།"
+msgstr "ཡིག་ཚགས། %sལ་ཉར།"
 
 msgid "Saving image to %s"
-msgstr "པར་རིས %sལ་ཉར།"
+msgstr "པར་རིས། %sལ་ཉར།"
 
 msgid ""
 "Scale document pages to fit the selected printer page. Select from one of the following:\n"
@@ -842,10 +843,10 @@ msgid "Select _All"
 msgstr "ཚང་མ་འདེམ་པ།(_A)"
 
 msgid "Select page size using document page size"
-msgstr "ཡིག་ཚགས་ཤོག་ངོས་ཆེ་ཆུང་བཀོལ་ནས་ཤོག་ངོས་ཆེ་ཆུང་འདེམས།"
+msgstr "ཡིག་ཚགས།་ཤོག་ངོས་ཆེ་ཆུང་བཀོལ་ནས་ཤོག་ངོས་ཆེ་ཆུང་འདེམས།"
 
 msgid "Separator"
-msgstr "མཚམས་གཅོད་རྟགས།"
+msgstr "མཚམས་དྲས་རྒྱག་རྟགས།"
 
 msgid "Session management options:"
 msgstr "གླེང་མོལ་དོ་དམ་འདེམ་བྱང་།"
@@ -863,7 +864,7 @@ msgid "Show session management options"
 msgstr "གླེང་མོལ་དོ་དམ་འདེམས་བྱང་འཆར་བ།"
 
 msgid "Show the entire document"
-msgstr "ཡིག་ཚགས་ཧྲིལ་བོ་མངོན་པ།"
+msgstr "ཡིག་ཚགས།་ཧྲིལ་བོ་མངོན་པ།"
 
 msgid "Show two pages at once"
 msgstr "ཐེངས་གཅིག་ལ་ངོས་གཉིས་མངོན་པ།"
@@ -872,10 +873,10 @@ msgid "Show “_%s”"
 msgstr "“%s”མངོན་པ།"
 
 msgid "Shows details for Atril documents"
-msgstr " Atril ཡིག་ཚགས་ཀྱི་ཞིབ་གནས་མངོན་པ།"
+msgstr "Atril ཡིག་ཚགས།་ཀྱི་ཞིབ་གནས་མངོན་པ།"
 
 msgid "Shrink the document"
-msgstr "ཡིག་ཚགས་སྐྱུང་བ།"
+msgstr "ཡིག་ཚགས།་སྐྱུང་བ།"
 
 msgid "Shrink to Printable Area"
 msgstr "པར་འདེབས་རུང་བའི་ཁུལ་དུ་སྐྱུང་།"
@@ -899,7 +900,7 @@ msgid "Starting %s"
 msgstr " %sའགོ་སློང་བཞིན་པ།"
 
 msgid "Style:"
-msgstr "པར་རིས་འཇོག་སྟངས།"
+msgstr "པར་རིས།་འཇོག་སྟངས།"
 
 msgid "Subject:"
 msgstr "བརྗོད་བྱ་གཙོ་བོ།"
@@ -920,30 +921,30 @@ msgid "The command “%s” did not end normally."
 msgstr "བཀའ་བརྡ་“%s”རྒྱུན་ལྡན་གྱིས་མཇུག་སྒྲིལ་མེད།"
 
 msgid "The command “%s” failed at decompressing the comic book."
-msgstr "ཡིག་ཚགསComic Bookའདི་གནོན་འགྲོལ་བཀོལ་བའི་བཀའ་བརྡ་“%s”ཕམ་པ།"
+msgstr "ཡིག་ཚགས།Comic Bookའདི་གནོན་འགྲོལ་བཀོལ་བའི་བཀའ་བརྡ་“%s”ཕམ་པ།"
 
 msgid "The document contains no pages"
-msgstr "ཡིག་ཚགས་འདིའི་ནང་དུ་ཤོག་ངོས་གང་ཡང་འདུས་མེད།"
+msgstr "ཡིག་ཚགས།་འདིའི་ནང་དུ་ཤོག་ངོས་གང་ཡང་འདུས་མེད།"
 
 msgid "The document contains only empty pages"
-msgstr "ཡིག་ཚགས་འདིའི་ནང་དུ་དྲ་ངོས་སྟོང་བ་མ་གཏོགས་མེད།"
+msgstr "ཡིག་ཚགས།་འདིའི་ནང་དུ་དྲ་ངོས་སྟོང་བ་མ་གཏོགས་མེད།"
 
 msgid ""
 "The document is composed of several files. One or more of these files cannot"
 " be accessed."
 msgstr ""
-"ཡིག་ཚགས་འདི་ནི་ཡིག་ཆ་མང་པོས་གྲུབ་པ་དང་།ཡིག་ཆ་དེ་དག་ནང་གི་གཅིག་གམ་མང་པོ་ཞིག་ལ་ལྟ་སྤྱོད་བྱེད་མི་ཐུབ།"
-" "
+"ཡིག་ཚགས།་འདི་ནི་ཡིག་ཆ་མང་པོས་གྲུབ་པ་དང་།ཡིག་ཆ་དེ་དག་ནང་གི་གཅིག་གམ་མང་པོ་ཞིག་ལ"
+"་ལྟ་སྤྱོད་བྱེད་མི་ཐུབ།"
 
 msgid ""
 "The document “%s” is locked and requires a password before it can be opened."
-msgstr "ཡིག་ཚགས“%s”ཕབ་བཅུག་ཀྱང་། ཁ་འབྱེད་སྔོན་དུ་གསང་ཨང་དགོས།"
+msgstr "ཡིག་ཚགས།“%s”ཕབ་བཅུག་ཀྱང་། ཁ་འབྱེད་སྔོན་དུ་གསང་ཨང་དགོས།"
 
 msgid "The file could not be saved as “%s”."
 msgstr "ཡིག་ཆ་“%s”ལྟར་གཞན་ཉར་བྱེད་མི་ཐུབ།"
 
 msgid "The image could not be saved."
-msgstr "པར་རིས་ཉར་མི་ཐུབ།"
+msgstr "པར་རིས།་ཉར་མི་ཐུབ།"
 
 msgid ""
 "The metadata format used by Atril has changed, and hence it needs to be "
@@ -951,16 +952,16 @@ msgid ""
 msgstr ""
 
 msgid "The page label of the document to display."
-msgstr "མངོན་དགོས་པའི་ཡིག་ཚགས་ཀྱི་གདོང་འཛར།"
+msgstr "མངོན་དགོས་པའི་ཡིག་ཚགས།་ཀྱི་གདོང་འཛར།"
 
 msgid "The page number of the document to display."
-msgstr "མངོན་དགོས་པའི་ཡིག་ཚགས་ཀྱི་ཤོག་ཨང་།"
+msgstr "མངོན་དགོས་པའི་ཡིག་ཚགས།་ཀྱི་ཤོག་ཨང་།"
 
 msgid "The selected printer '%s' could not be found"
 msgstr "བདམས་པའི་པར་འདེབས་འཕྲུལ་ཆས“%s”རྙེད་མེད།"
 
 msgid "The word or phrase to find in the document"
-msgstr "ཡིག་ཚགས་སུ་བཙལ་དགོས་པའི་ཐ་སྙད་ཡང་ན་ཚིག་དུམ།"
+msgstr "ཡིག་ཚགས།་སུ་བཙལ་དགོས་པའི་ཐ་སྙད་ཡང་ན་ཚིག་དུམ།"
 
 msgid ""
 "There are %d print jobs active. Wait until print finishes before closing?"
@@ -977,7 +978,7 @@ msgstr "རོགས་རམ་མངོན་སྐབས་སུ་ནོར
 msgid ""
 "This document is locked and can only be read by entering the correct "
 "password."
-msgstr "ཡིག་ཚགས་སྒྲོག་ཟིན། ཡང་དག་གི་གསང་ཨང་བཅུག་རྗེས་ཀློག་ཐུབ།"
+msgstr "ཡིག་ཚགས།་སྒྲོག་ཟིན། ཡང་དག་གི་གསང་ཨང་བཅུག་རྗེས་ཀློག་ཐུབ།"
 
 msgid "This work is in the Public Domain"
 msgstr "ལས་དོན་འདི་ནི་སྤྱི་པའི་ཁྱབ་ཁོངས་སུ་ཡོད།"
@@ -1032,7 +1033,7 @@ msgid "Unable to open attachment"
 msgstr "ཟུར་སྣོན་ཁ་འབྱེད་མི་ཐུབ།"
 
 msgid "Unable to open document"
-msgstr "ཡིག་ཚགས་ཁ་འབྱེད་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཁ་འབྱེད་མི་ཐུབ།"
 
 msgid "Unable to open external link"
 msgstr "ཕྱི་རོལ་སྦྲེལ་མཐུད་ཁ་འབྱེད་མི་ཐུབ།"
@@ -1056,16 +1057,16 @@ msgid "Uploading attachment (%d%%)"
 msgstr "ཟུར་སྣོན། (%d%%)ཡར་སྐྱེལ་བ།"
 
 msgid "Uploading document (%d%%)"
-msgstr "ཡིག་ཚགས། (%d%%)ཡར་སྐྱེལ་བ།"
+msgstr "ཡིག་ཚགས།། (%d%%)ཡར་སྐྱེལ་བ།"
 
 msgid "Uploading image (%d%%)"
-msgstr "པར་རིས། (%d%%)ཡར་སྐྱེལ་བ།"
+msgstr "པར་རིས།། (%d%%)ཡར་སྐྱེལ་བ།"
 
 msgid "Usage terms"
 msgstr "དོན་ཚན་སྤྱོད་པ།"
 
 msgid "View multi-page documents"
-msgstr "ཤོག་མང་ཡིག་ཚགས་ལྟ་བ།"
+msgstr "ཤོག་མང་ཡིག་ཚགས།་ལྟ་བ།"
 
 msgid "Wait until print job “%s” finishes before closing?"
 msgstr "པར་འདེབས་ལས་འགན“%s”ལེགས་འགྲུབ་བར་དུ་སྔོན་གྱི་སྐུག་པ་ཁ་རྒྱག་གམ།"
@@ -1078,7 +1079,7 @@ msgid ""
 "document page."
 msgstr ""
 "འདི་མགོ་སློངས་ན། "
-"ངོས་རེར་ཡིག་ཚགས་ཤོག་ངོས་ཀྱི་ཆེ་ཆུང་འདྲ་བའི་ཤོག་བུར་པར་འདེམས་བྱེད།"
+"ངོས་རེར་ཡིག་ཚགས།་ཤོག་ངོས་ཀྱི་ཆེ་ཆུང་འདྲ་བའི་ཤོག་བུར་པར་འདེམས་བྱེད།"
 
 msgid "Yes"
 msgstr "ཡིན།"
@@ -1192,7 +1193,7 @@ msgid "_Print…"
 msgstr "པར་འདེབས།(_P)..."
 
 msgid "_Reload"
-msgstr "བསྐྱར་འགེལ།(_R)"
+msgstr "གསར་འདོན།(_R)"
 
 msgid "_Remove Bookmark"
 msgstr "དཔེ་བྱང་འདོར་བ། (_R)"
@@ -1207,7 +1208,7 @@ msgid "_Save Attachment As…"
 msgstr "ཟུར་སྣོན་ལྟར་གཞན་ཉར།(_S)..."
 
 msgid "_Save Image As…"
-msgstr " བརྙན་རིས་གཞན་གསོག(_S)..."
+msgstr "བརྙན་རིས།་གཞན་གསོག(_S)…"
 
 msgid "_Save a Copy…"
 msgstr "འདྲ་བཤུས་ཉར་ཚགས།(_S)..."
@@ -1216,7 +1217,7 @@ msgid "_Toolbar"
 msgstr "ལག་ཆའི་སྡེ། (_T)"
 
 msgid "_Unlock Document"
-msgstr "ཡིག་ཚགས་ཀྱི་སྒྲོག་ལེན་པ།(_U)"
+msgstr "ཡིག་ཚགས།་ཀྱི་སྒྲོག་ལེན་པ།(_U)"
 
 msgid "_View"
 msgstr "ལྟ་ཞིབ། (_V)"
@@ -1228,10 +1229,10 @@ msgid "content file is invalid"
 msgstr "ནང་དོནཡིག་ཆ་ནུས་མེད།"
 
 msgid "could not extract archive"
-msgstr "ཡིག་ཚགས་ལེན་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ལེན་མི་ཐུབ།"
 
 msgid "could not open archive"
-msgstr "ཡིག་ཚགས་ཁ་འབྱེད་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཁ་འབྱེད་མི་ཐུབ།"
 
 msgid "could not open container file"
 msgstr "སྣོད་ཆས་ཡིག་ཆ་ཁ་འབྱེད་མི་ཐུབ།"
@@ -1240,7 +1241,7 @@ msgid "could not parse content manifest"
 msgstr "ནང་དོན་གསལ་ཐོ་དབྱེ་ཞིབ་བྱེད་མི་ཐུབ།"
 
 msgid "could not retrieve container file"
-msgstr "ཡིག་ཚགས་ཡིག་ཆ་ཐོབ་ཐབས་མེད།"
+msgstr "ཡིག་ཚགས།་ཡིག་ཆ་ཐོབ་ཐབས་མེད།"
 
 msgid "could not retrieve filename"
 msgstr "ཡིག་ཆའི་མིང་ཤེས་མི་ཐུབ།"
@@ -1249,7 +1250,7 @@ msgid "default:mm"
 msgstr "སོར་བཞག ཧའོ་སྨི།"
 
 msgid "epub Documents"
-msgstr "epub ཡིག་ཚགས།epubཡིག་ཚགས།"
+msgstr "epub ཡིག་ཚགས།།epubཡིག་ཚགས།།"
 
 msgid "epub file has no manifest"
 msgstr "epubཡིག་ཆ་ལ་གསལ་ཐོ་མེད།"
