@@ -10,16 +10,18 @@ Build-Depends: debhelper (>= 9),
                python3-polib,
                gettext,
                qttools5-dev-tools,
-Standards-Version: 3.9.2
+Standards-Version: 3.9.7
 
 Package: kylin-language-pack-bo-cn-base
 Architecture: all
 Pre-Depends: dpkg (>= 1.16.1), ${misc:Pre-Depends}
 Depends: ${misc:Depends}
-Description: translation update for language English.
+Description: Translation update for language Chinese Tibetan.
+  Chinese Tibetan language pack.
 
 Package: kylin-language-pack-bo-cn-extra
 Architecture: all
 Pre-Depends: dpkg (>= 1.16.1), ${misc:Pre-Depends}
 Depends: ${misc:Depends}
-Description: translation update for language English.
+Description: Translation update for language Chinese Tibetan.
+  Chinese Tibetan language pack.

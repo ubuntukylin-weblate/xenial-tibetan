@@ -2,15 +2,26 @@
 
 QT_SELECT=5
 
+build-arch:
+
+build-indep:
+
 build:
 	make all
 
 clean:
 	make clean
+	dh_clean
+
+binary-arch:
+
+binary-indep:
 
 binary: 
-	make install DESTDIR=debian/kylin-language-pack-bo-cn-base
-	make install DESTDIR=debian/kylin-language-pack-bo-cn-extra
-	dh_makeshlibs
+	make install-mo DESTDIR=debian/kylin-language-pack-bo-cn-base PREFIX=/usr
+	make install-qm DESTDIR=debian/kylin-language-pack-bo-cn-extra PREFIX=/usr
+	dh_installchangelogs
+	dh_compress
 	dh_gencontrol
+	dh_md5sums
 	dh_builddeb
