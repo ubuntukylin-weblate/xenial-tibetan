@@ -1,11 +1,13 @@
 # Burgess Chang <register@brsvh.org>, 2020.
+# liumin <liumin@kylinos.cn>, 2021.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-16 04:06+0000\n"
-"Last-Translator: Burgess Chang <register@brsvh.org>\n"
+"PO-Revision-Date: 2021-02-20 00:37+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/devhelp/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -13,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "\"name\" and \"link\" elements are required inside '%s' on line %d, column %d"
 msgstr ""
@@ -103,7 +105,7 @@ msgid "Display the version and exit"
 msgstr "པར་གཞི་མངོན་ནས་ཕྱིར་འདོན།"
 
 msgid "Documentation Browser"
-msgstr "ཡིག་ཚགས་བཤར་ཆས།"
+msgstr "ཡིག་ཚགས།་བཤར་ཆས།"
 
 msgid "Empty Page"
 msgstr "སྟོང་ཤོག"
@@ -191,7 +193,7 @@ msgid "Page"
 msgstr "ཤོག་ངོས།"
 
 msgid "Preferences"
-msgstr "གཏོགས་གཤིས།"
+msgstr "སྔོན་འདེམས་ཚན་པ།"
 
 msgid "Quit any running Devhelp"
 msgstr "འཁོར་སྐྱོད་བྱེད་པའི་ Devhelp ཕྱིར་འདོན།"
@@ -209,7 +211,7 @@ msgid "Selected tab: \"content\" or \"search\""
 msgstr ""
 
 msgid "Show API Documentation"
-msgstr "API ཡིག་ཚགས་མངོན་པ།"
+msgstr "API ཡིག་ཚགས།་མངོན་པ།"
 
 msgid "Struct"
 msgstr "སྒྲུབ་གཞི་ཕུང་།"
@@ -290,7 +292,7 @@ msgid "Y position of main window"
 msgstr "སྒེའུ་ཁུང་གི་ Y གནས་ཚད།"
 
 msgid "_About"
-msgstr "ཐད།(_A)"
+msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "_About Devhelp"
 msgstr "Devhelpཡི་སྐོར། (_A)"
@@ -333,8 +335,8 @@ msgstr "ཞེང་འགྱུར་ཡིག་གཟུགས།(_V)： "
 
 msgid "documentation;information;manual;developer;api;"
 msgstr ""
-"documentation;information;manual;developer;api;ཡིག་ཚགས;ཆ་འཕྲིན་;གསལ་བཤད་ཡི་གེ"
-" ; གསར་སྤེལ།"
+"documentation;information;manual;developer;api;ཡིག་ཚགས།;ཆ་འཕྲིན་;གསལ་བཤད་ཡི་ག"
+"ེ ; གསར་སྤེལ།"
 
 msgid ""
 "https://wiki.gnome.org/Apps/Devhelp?action=AttachFile&#x26;do=view&#x26;target=devhelp.png"

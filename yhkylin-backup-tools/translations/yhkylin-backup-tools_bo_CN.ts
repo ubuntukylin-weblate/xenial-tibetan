@@ -400,7 +400,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="maindialog.ui" line="527"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24px;&quot;&gt;Restore System with a Key&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24px;&quot;&gt;རྡང་གཅིག་རྒྱུད་ཁོངས་་སོར་ལོག&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24px;&quot;&gt;མཐེབ་གཅིག་རྒྱུད་ཁོངས་སོར་ལོག&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="maindialog.ui" line="543"/>
@@ -463,7 +463,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="maindialog.ui" line="896"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24px;&quot;&gt;Create a Ghost Image File&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24px;&quot;&gt;Ghostཤེལ་བརྙན་ཡིག་ཆ་གསར་བཟོ།镜像文件&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24px;&quot;&gt;Ghostཤེལ་བརྙན་ཡིག་ཆ་གསར་བཟོ།像文件&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message utf8="true">
         <location filename="maindialog.ui" line="941"/>

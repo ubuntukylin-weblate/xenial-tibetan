@@ -508,7 +508,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</translation>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="200"/>
         <source>Cleanup makes computers safer.</source>
-        <translation>རྒྱུན་དུ་གཙང་སེལ་བྱས་ན། གློག་ཀླད་མགྱོགས་ལ་བདེ་འཇགས་ཡིན།.</translation>
+        <translation>རྒྱུན་དུ་གཙང་སེལ་བྱས་ན། གློག་ཀླད་མགྱོགས།ལ་བདེ་འཇགས་ཡིན།.</translation>
     </message>
     <message>
         <location filename="../../cleaner/cleanermainwidget.cpp" line="359"/>
@@ -1082,7 +1082,7 @@ tang guang &lt;tangguang@kylinos.cn&gt;</translation>
     <message>
         <location filename="../../setting/iconwidget.cpp" line="214"/>
         <source>Computer</source>
-        <translation>རྩིས་འཁོར།</translation>
+        <translation>རྩིས་ཆས།</translation>
     </message>
     <message>
         <location filename="../../setting/iconwidget.cpp" line="215"/>
@@ -1406,7 +1406,7 @@ Information</source>
     <message>
         <location filename="../mainbottomwidget.cpp" line="220"/>
         <source>Fast and practical, making the system more personalized</source>
-        <translation>སྔར་བས་མགྱོགས་ལ་བཟང་བས་མ་ལག་ལ་རང་གཤིས་ལྡན།</translation>
+        <translation>སྔར་བས་མགྱོགས།ལ་བཟང་བས་མ་ལག་ལ་རང་གཤིས་ལྡན།</translation>
     </message>
     <message>
         <location filename="../mainbottomwidget.cpp" line="239"/>

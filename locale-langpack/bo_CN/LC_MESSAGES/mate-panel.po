@@ -1,12 +1,13 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-01-23 07:59+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/mate-panel/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "    "
 msgstr "nan"
@@ -235,7 +236,7 @@ msgid "Application Launcher..."
 msgstr "ཉེར་སྤྱོད་བྱ་རིམ་སྐུལ་ཆས།"
 
 msgid "Application does not accept documents on command line"
-msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས་མི་ལེན།"
+msgstr "ཉེར་སྤྱོད་བྱ་རིམ་དེ་བཀའ་བརྡ་འཕྲེད་དུ་ཡིག་ཚགས།་མི་ལེན།"
 
 msgid "Application in Terminal"
 msgstr "མཐའ་སྣེའི་ཉེར་སྤྱོད།"
@@ -268,7 +269,7 @@ msgid "Background color opacity"
 msgstr "རྒྱབ་ལྗོངས་ཁ་དོག་ནང་གསལ་མིན་པ།"
 
 msgid "Background image"
-msgstr "རྒྱབ་ལྗོངས་བརྙན་རིས།"
+msgstr "རྒྱབ་ལྗོངས་བརྙན་རིས།།"
 
 msgid "Background type"
 msgstr "རྒྱབ་ལྗོངས་རིགས་གྲས།"
@@ -305,7 +306,7 @@ msgid "Calendar"
 msgstr "ལོ་ཐོ།"
 
 msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "ཡིག་ཚགས་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
+msgstr "ཡིག་ཚགས།་ཀྱི་URL དེ“Type=Link”ཡི་ཅོག་ངོས་ཚན་ལ་བརྒྱུད་མི་ཐུབ།"
 
 msgid "Cannot delete this panel"
 msgstr "ངོས་པང་འདི་བསུབ་ཐབས་བྲལ།"
@@ -425,7 +426,7 @@ msgid "Complete panel lockdown"
 msgstr "ངོས་པང་ཆ་ཚང་དམིགས་འཛིན།"
 
 msgid "Computer"
-msgstr "རྩིས་འཁོར།"
+msgstr "རྩིས་ཆས།"
 
 msgid "Computer Clock"
 msgstr "རྩིས་འཁོར་ཆུ་ཚོད།"
@@ -692,7 +693,7 @@ msgid "From Whence That Stupid Fish Came"
 msgstr "གླེན་སྐུག་ཉ་ཆུང་ཆུང་གི་འབྱུང་ཁུངས།"
 
 msgid "General"
-msgstr "སྤྱི་སྤྱོད་སྒྲིག་འགོད།"
+msgstr "སྤྱི་སྤྱོད།་སྒྲིག་འགོད།"
 
 msgid "Get the current time and date"
 msgstr "ཆུ་ཚོད་ལས་མིག་སྔའི་དུས་ཚོད་དང་ཚེས་གྲངས་འཆར་བ།"
@@ -963,7 +964,7 @@ msgid "Image Background Details"
 msgstr "རྒྱབ་ལྗོངས་བརྙན་རིས་ཀྱི་ཞིབ་ཆ།"
 
 msgid "Images"
-msgstr "བརྙན་རིས།"
+msgstr "བརྙན་རིས།།"
 
 msgid ""
 "In a Xinerama setup, you may have panels on each individual monitor. This "
@@ -1030,7 +1031,8 @@ msgstr "ངོས་པང་(K)ལ་དམིགས་འཛུགས།"
 
 msgid "Locate documents and folders on this computer by name or content"
 msgstr ""
-"མིང་ངམ་ཡང་ན་ནང་དོན་ལྟར་རྩིས་འཁོར་འདིའི་ཁྲོད་ཀྱི་ཡིག་ཚགས་དང་ཡིག་སྡེར་གནས་ངེས་ཀྱིས།"
+"མིང་ངམ་ཡང་ན་ནང་དོན་ལྟར་རྩིས་འཁོར་འདིའི་ཁྲོད་ཀྱི་ཡིག་ཚགས།་དང་ཡིག་སྡེར་གནས་ངེས་"
+"ཀྱིས།"
 
 msgid "Location"
 msgstr "ས་གནས།"
@@ -1224,7 +1226,7 @@ msgstr ""
 "ཁྱེད་རང་གི་རྩིས་འཁོར་ལ་དབང་ཆ་མ་སྤྲད་པའི་བེད་སྤྱོད་མི་བྱེད་པར་སྲུང་སྐྱོབ་བྱེད་པ།"
 
 msgid "Recent Documents"
-msgstr "ཉེ་ཆའི་ཡིག་ཚགས།"
+msgstr "ཉེ་ཆའི་ཡིག་ཚགས།།"
 
 msgid "Removable Media"
 msgstr "སྤོ་རུང་བར་རྫས།"
@@ -1312,7 +1314,7 @@ msgid "Select this box to run the command in a terminal window."
 msgstr "སྒྲོམ་འདི་འདེམ་ན་མཇུག་མཐའི་སྒེའུ་ཁུང་ནས་བཀའ་བརྡ་འཁོར་སྐྱོད་བྱེད་ཆོག"
 
 msgid "Separator"
-msgstr "མཚམས་གཅོད་རྟགས།"
+msgstr "མཚམས་དྲས་རྒྱག་རྟགས།"
 
 msgid "Session management options:"
 msgstr "གླེང་མོལ་དོ་དམ་འདེམ་བྱང་།"
@@ -1717,7 +1719,7 @@ msgid "The unit to use when showing temperatures."
 msgstr "དྲོད་ཚད་འཆར་བར་བེད་སྤྱོད་པའི་སྡེ་ཚན།"
 
 msgid "The unit to use when showing wind speed."
-msgstr "རླུང་གི་མགྱོགས་ཚད་འཆར་བའི་སྐབས་བེད་སྤྱོད་པའི་སྡེ་ཚན།"
+msgstr "རླུང་གི་མགྱོགས།ཚད་འཆར་བའི་སྐབས་བེད་སྤྱོད་པའི་སྡེ་ཚན།"
 
 msgid "The water needs changing"
 msgstr "ང་ལ་ཆུ་བརྗེ་དགོས།"
@@ -2097,7 +2099,7 @@ msgid "_Properties"
 msgstr "གཏོགས་གཤིས། (_P)"
 
 msgid "_Reload"
-msgstr "བསྐྱར་འགེལ།(_R)"
+msgstr "གསར་འདོན།(_R)"
 
 msgid "_Remove From Panel"
 msgstr "ལས་འགན་སྡེ་ནས་བསུབ་པ།(_R)"

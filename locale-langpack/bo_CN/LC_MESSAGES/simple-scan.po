@@ -1,12 +1,13 @@
 # Burgess Chang <register@brsvh.org>, 2020.
 # 头旦才让 <atou2008@qq.com>, 2020.
+# allen-ukui <zouchang@kylinos.cn>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-09 01:36+0000\n"
-"Last-Translator: 头旦才让 <atou2008@qq.com>\n"
+"PO-Revision-Date: 2021-02-21 05:22+0000\n"
+"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/simple-scan/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -14,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgid "%d dpi"
 msgstr ""
@@ -108,7 +109,7 @@ msgid "Discard Changes"
 msgstr "བཟོ་བཅོས་རྒྱག་རྒྱུ་འདོར་བ།"
 
 msgid "Document"
-msgstr "ཡིག་ཚགས།"
+msgstr "ཡིག་ཚགས།།"
 
 msgid "Document Scanner"
 msgstr "ཡིག་ཚགས་བཤར་འབེབས་ཆས།"
@@ -251,7 +252,7 @@ msgstr ""
 "ཁྱེད་རང་གི་བཤར་འབེབས་ཆས་འབྲེལ་མཐུད་བྱས་པ་མ་ཟད་ཁ་ཕྱེ་ཡོད་མེད་བརྟག་དཔྱད་གནང་རོགས།"
 
 msgid "Preferences"
-msgstr "མཐོ་རིམ།"
+msgstr "སྔོན་འདེམས་ཚན་པ།"
 
 msgid "Print debugging messages"
 msgstr "ཚོད་སྒྲིག་ཆ་འཕྲིན་འཆར་བ།"
@@ -299,10 +300,10 @@ msgid "Rotate _Right"
 msgstr "གཡས་སུ་འཁོར་བ།(_R)"
 
 msgid "Rotate the page to the left (counter-clockwise)"
-msgstr "གཡོན་སྐོར་ལྡེབ་ངོས།(སྟོན་ཁབ་ཕྱོགས།)"
+msgstr "གཡོན་སྐོར།་ལྡེབ་ངོས།(སྟོན་ཁབ་ཕྱོགས།)"
 
 msgid "Rotate the page to the right (clockwise)"
-msgstr "གཡས་སྐོར་ལྡེབ་ངོས།(སྟོན་ཁབ་ལྡོག་ཕྱོགས།)"
+msgstr "གཡས་སྐོར།ལྡེབ་ངོས།(སྟོན་ཁབ་ལྡོག་ཕྱོགས།)"
 
 msgid "Run '%s --help' to see a full list of available command line options."
 msgstr ""
@@ -337,10 +338,10 @@ msgid "Sc_an"
 msgstr " བཤར་འབེབས།(_A)"
 
 msgid "Scan"
-msgstr "མིག་བཤེར།"
+msgstr "བཤར་འབེབས།"
 
 msgid "Scan Documents"
-msgstr "ཡིག་ཚགས་བཤར་འབེབས།"
+msgstr "ཡིག་ཚགས།་བཤར་འབེབས།"
 
 msgid "Scan S_ource:"
 msgstr "ཡོང་ཁུངས་བཤར་འབེབས།(_O)："
@@ -403,13 +404,13 @@ msgstr ""
 "ཤོག་བུའི་མཐོ་ཚད།（0.1mmཡིས་བརྩིས།0ཡིས་རང་འགུལ་ངང་ཤོག་བུ་ཞིབ་བཤེར་བྱེད་པ་མཚོན།）"
 
 msgid "The page side to scan."
-msgstr "བཤར་འབེབས་ཀྱི་དྲ་ངོས་དགོས།"
+msgstr "བཤར་འབེབས་ཀྱི་དྲ་ངོས་དགོས།."
 
 msgid "The resolution in dots-per-inch to use when scanning photos."
-msgstr "འདྲ་པར་བཤར་འབེབས་བྱེད་དུས་བཀོལ་བའི་འབྱེད་ཕྱོད། (ཚེག་/དབྱིན་ཚུན་）"
+msgstr "འདྲ་པར་བཤར་འབེབས་བྱེད་དུས་བཀོལ་བའི་འབྱེད་ཕྱོད། (ཚེག་/དབྱིན་ཚུན་）."
 
 msgid "The resolution in dots-per-inch to use when scanning text."
-msgstr "ཐེངས་སྔོན་མར་ཡིག་ཚགས་བཤེར་འབེབས་ཀྱི་འབྱེད་ཕྱོད།（ཚེག་/དབྱིན་ཚུན་）"
+msgstr "ཐེངས་སྔོན་མར་ཡིག་ཚགས་བཤེར་འབེབས་ཀྱི་འབྱེད་ཕྱོད།（ཚེག་/དབྱིན་ཚུན་）."
 
 msgid ""
 "The width of the paper in tenths of a mm (or 0 for automatic paper "
@@ -439,8 +440,8 @@ msgid ""
 "Type of document being scanned. This setting decides on the scan resolution,"
 " colors and post-processing."
 msgstr ""
-"བཤར་འབེབས་བྱེད་བྱའི་ཡིག་ཆའི་རིགས། "
-"སྒྲིག་འགོད་འདིས་བཤར་འབེབས་ཀྱི་འབྱེད་ཕྱོད་དང་ཁ་དོག་དང་སྔོན་དཔག་ཐག་གཅོད་གཏན་འཁེལ་བྱེད།"
+"བཤར་འབེབས་བྱེད་བྱའི་ཡིག་ཆའི་རིགས། སྒྲིག་འགོད་འདིས་བཤར་འབེབས་ཀྱི་འབྱེད་ཕྱོད་དང"
+"་ཁ་དོག་དང་སྔོན་དཔག་ཐག་གཅོད་གཏན་འཁེལ་བྱེད།."
 
 msgid "Unable to connect to scanner"
 msgstr "བཤར་འབེབས་ཆས་དང་འབྲེལ་མཐུད་བྱེད་ཐབས་བྲལ་བ།"
@@ -506,7 +507,7 @@ msgid "_Document"
 msgstr "ཡིག་ཚགས།(_D)"
 
 msgid "_Email"
-msgstr ""
+msgstr "གློག་རྡུལ་ཡིག་ཟམ།"
 
 msgid "_Help"
 msgstr " རོགས་རམ།(_H)"
