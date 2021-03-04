@@ -65,6 +65,14 @@ msgstr ""
 msgid "- Edit text files"
 msgstr "  - ཡིག་རྐྱང་ཡིག་ཆ་རྩོམ་སྒྲིག"
 
+msgid "View _Fullscreen"
+msgstr "མཐོང་ཁུང་བརྙན་ཡོངས།(_F)"
+
+msgid "_View Fullscreen"
+msgstr "མཐོང་ཁུང་བརྙན་ཡོངས།(_V)"
+
+
+
 msgid "/ on %s"
 msgstr "%s སྟེང་གི་ /"
 
@@ -714,6 +722,13 @@ msgstr "མཚན་ཉིད་རང་འཇོག་རྣམ་གཞག"
 
 msgid "Cut the selection"
 msgstr "བདམས་པའི་ནང་དོན་དྲས་དྲས་རྒྱག།"
+
+msgid "Cu_t"
+msgstr "དྲས་གཏུབ།(_t)"
+
+msgid "Cut"
+msgstr "དྲས་གཏུབ།"
+
 
 msgid "Cyrillic"
 msgstr "སུ་རུ་ལའི་སྐད།"
@@ -2072,6 +2087,32 @@ msgstr "མགྱོགས།མྱུར་ངང་ཡིག་ཆ་ཁ་ཕ
 msgid "Quit the program"
 msgstr " བྱ་རིམ་ཕྱིར་འབུད།"
 
+msgid "_New"
+msgstr "གསར་འཛུགས།(_N)"
+
+msgid "_Close"
+msgstr "ཁ་རྒྱག (_C)"
+
+msgid "_Quit"
+msgstr "ཕྱིར་འབུད། (_Q)"
+
+msgid "_Undo"
+msgstr "འདོར་བ།(_U)"
+
+msgid "_Redo"
+msgstr "བསྐྱར་བཟོ།(_R)"
+
+msgid "_Copy"
+msgstr "འདྲ་པར།(_C)"
+
+msgid "_Paste"
+msgstr "སྦྱར་བ།(_P)"
+
+msgid "_Replace"
+msgstr " ཚབ་བརྗེ།(_R)"
+
+
+
 msgid "Quote"
 msgstr "འདྲེན་ཡིག"
 
@@ -2211,7 +2252,10 @@ msgid "Sample program output, scripts"
 msgstr "དཔེ་མཚོན་བྱ་རིམ་ཕྱིར་འདོན་ཏེ་འཁྲབ་གཞུང་།"
 
 msgid "Save"
-msgstr " བསྒྱུར་བཅོས་ཉར་ཚགས།"
+msgstr "ཉར་བ།"
+
+msgid "_Save"
+msgstr "ཉར་བ། (_S)"
 
 msgid "Save As…"
 msgstr "གཞན་ཉར།..."
@@ -2314,7 +2358,7 @@ msgid "Set the Language of Spell Checker"
 msgstr "སྐད་རིགས་ཀྱི་ཚེག་རྡར་ཞིབ་བཤེར་སྒྲིག་འགོད།"
 
 msgid "Set the _Language of Spell Checker"
-msgstr ""
+msgstr "སྐད་རིགས་ཀྱི་ཚེག་རྡར་ཞིབ་བཤེར་སྒྲག་འགོད།(_L)"
 
 msgid ""
 "Set the character encoding to be used to open the files listed on the "
@@ -2648,7 +2692,7 @@ msgid "Tab Stops"
 msgstr "རེའུ་མིག་བཟོ་རྟགས།"
 
 msgid "Tab Width"
-msgstr ""
+msgstr "རེའུ་མིག་བཟོ་བའི་ཞེང་ཚད་"
 
 msgid "Tab order position"
 msgstr "Tab རིམ་པའི་གནས་ས།"
@@ -3382,7 +3426,7 @@ msgid "_Replace"
 msgstr " ཚབ་བརྗེ།(_R)"
 
 msgid "_Replace..."
-msgstr ""
+msgstr "ཚབ་བརྗེ།...(_R)"
 
 msgid "_Restore Default Fonts"
 msgstr "སོར་བཞག་ཡིག་གཟུགས་ལ་སླར་གསོ།(_R)"

@@ -1320,8 +1320,8 @@ msgstr "སྤྱོད་རུང་དྲ་གནས:"
 
 msgid "BAD signature from \"%s\"\n"
 msgstr ""
-" \\%s\"ལས་ཡོང་བའི་མིང་འགོད་ཞིབ་བཤེར་ནོར་འཁྲུལ་བྱུང་།\n"
-"\""
+""
+ "ལས་ཡོང་བའི་མིང་འགོད་ཞིབ་བཤེར་ནོར་འཁྲུལ་བྱུང་།\"%s\"\n"
 
 msgid "B_rowse"
 msgstr "རགས་ལྟ།(_r)"
@@ -3720,12 +3720,12 @@ msgstr "དུས་ཐོན་ཚེས་གྲངས།"
 
 msgid "Expired key uid \"%s\"\n"
 msgstr ""
-"དུས་བརྒལ་བའི་གསང་ལྡེ་ uid \\%s\"\n"
+"དུས་བརྒལ་བའི་གསང་ལྡེ་ uid \"%s\"\n"
 "\""
 
 msgid "Expired signature from uid \"%s\" (Validity: %s)\n"
 msgstr ""
-"\\%s\"ལས་ཡོང་བའི་མིང་ཐོ་འགོད་པ་དུས་བརྒལ། (ནུས་ཡོད་དུས།： %s)\n"
+"\"%s\"ལས་ཡོང་བའི་མིང་ཐོ་འགོད་པ་དུས་བརྒལ། (ནུས་ཡོད་དུས།： %s)\n"
 "\""
 
 msgid "Expires on: "
@@ -9247,7 +9247,7 @@ msgstr ""
 
 msgid "WARNING: Signer's address \"%s\" does not match DNS entry\n"
 msgstr ""
-"ཐ་ཚིག  མིང་རྟགས་བཀོད་པའི་ཤག་གནས\\%s\"དང་DNSནང་གི་གཞི་གྲངས་མི་མཚུངས་པ།\n"
+"ཐ་ཚིག  མིང་རྟགས་བཀོད་པའི་ཤག་གནས \"%s\"དང་DNSནང་གི་གཞི་གྲངས་མི་མཚུངས་པ།\n"
 "\""
 
 msgid "W_ide message list"
@@ -9300,7 +9300,7 @@ msgid "Week number"
 msgstr "ཨང་གྲངས་ལྟར།(_n)"
 
 msgid "Welcome to Claws Mail"
-msgstr ""
+msgstr "སྦྲག་རྫས་ཀྱི་སྣེ་ཁྲིད།་"
 
 msgid ""
 "Welcome to the Claws Mail setup wizard.\n"
@@ -9641,7 +9641,7 @@ msgid "_Browse Entry"
 msgstr ""
 
 msgid "_Cancel"
-msgstr " དོར་བ།"
+msgstr " དོར་བ།(_C)"
 
 msgid "_Cancel connection"
 msgstr "འབྲེལ་མཐུད་ལེན་པ།(_C)"
@@ -9771,6 +9771,11 @@ msgstr ""
 
 msgid "_Forward"
 msgstr "མདུན་སྐྱོད།(_F)"
+
+msgid "_Back"
+msgstr "ཕྱིར་ནུར།(_B)"
+
+
 
 msgid "_Forward to next misspelled word"
 msgstr ""
@@ -9962,7 +9967,10 @@ msgid "_Revert"
 msgstr "བརྟན་དུ་མི་མངོན།"
 
 msgid "_Save"
-msgstr "ཉར་བ། (S)"
+msgstr "ཉར་བ། (_S)"
+
+msgid "_Cancel"
+msgstr " དོར་བ།(_C)"
 
 msgid "_Save as..."
 msgstr ""
@@ -10946,7 +10954,7 @@ msgstr "རིགས་གྲས་ནི།"
 
 msgid "uid \"%s\" (Validity: %s)\n"
 msgstr ""
-"\\%s\"ཡི་མིང་རྟགས་ཆ་ཚང་། (ནུས་ལྡན་དུས་ནི།： %sཡིན།)\n"
+"\"%s\"ཡི་མིང་རྟགས་ཆ་ཚང་། (ནུས་ལྡན་དུས་ནི།： %sཡིན།)\n"
 "\""
 
 msgid "undetermined"
