@@ -20,10 +20,6 @@ msgstr ""
 msgid "%'d files remaining"
 msgstr "ཚན་ %'d ལྷག་པ།"
 
-msgid "Back"
-msgstr "ཕྱིར་ནུར།"
-
-
 msgid "%d %B %Y, %H:%M"
 msgstr " %Yལོའི་ཟླ་%-m ཚེས་ %-d %H:%M"
 
@@ -47,9 +43,6 @@ msgstr[1] "བྱ་ཡུལ་ %d བདམས་པ། (%s)"
 
 msgid "%s Properties"
 msgstr "%s གཏོགས་གཤིས།"
-
-msgid " Properties"
-msgstr " གཏོགས་གཤིས།(_P)"
 
 msgid "'%s' password is wrong, please re-enter:"
 msgstr "“%s”ཡི་གསང་ཨང་ནོར་འཁྲུལ། ཡང་བསྐྱར་ནང་འཇུག་རོགས："
@@ -248,9 +241,6 @@ msgstr "ཡིག་ཚགས།་ཅོག་ངོས་འདིའི་ག
 msgid "Close the current archive"
 msgstr "མིག་སྔའི་ཡིག་ཚགས།་ཡིག་ཆ་ཁ་རྒྱག"
 
-msgid "Close"
-msgstr "ཁ་རྒྱག (_C)"
-
 msgid "Close the folders pane"
 msgstr "ཡིག་ཁུག་ངོས་པང་ཁ་རྒྱག"
 
@@ -283,27 +273,6 @@ msgstr "བདམས་ཟིན་པའི་ནང་དོན་འདྲ་
 
 msgid "Copying the extracted files to the destination"
 msgstr "བཙིར་གནོན་འགྲོལ་བའི་ཡིག་ཆ་དམིགས་ཚད་ཡིག་ཆར་འདྲ་བཟོ།"
-
-msgid "Copy"
-msgstr "འདྲ་པར།(_C)"
-
-msgid "Paste"
-msgstr "སྦྱར་བ།(_P)"
-
-msgid "Delete"
-msgstr "བསུབ་པ།(_D)"
-
-msgid "Select_all"
-msgstr "ཚང་མ་འདེམ་པ།(_A)"
-
-msgid "Stop"
-msgstr "མཚམས་འཇོག (_S)"
-
-msgid "_Refresh"
-msgstr "གསར་འདོན།(_R)"
-
-msgid "About"
-msgstr "འབྲེལ་ཡོད།(_A)"
 
 msgid "Copying the files to add to \"%s\""
 msgstr ""
@@ -370,9 +339,6 @@ msgstr "རེ་ཞུ་གཏན་འཁེལ་བྱ་བྱས་ནས
 
 msgid "Creating \"%s\""
 msgstr ""
-
-msgid "Cut"
-msgstr "དྲས་གཏུབ།(_t)"
 
 msgid "Cut the selection"
 msgstr "བདམས་པའི་ནང་དོན་དྲས་དྲས་རྒྱག།"
@@ -543,11 +509,9 @@ msgstr "ཡིག་ཆ།"
 msgid "FOLDER"
 msgstr "ཡིག་ཁུག"
 
-msgctxt "File"
 msgid "Name"
 msgstr " མིང་།"
 
-msgctxt "File"
 msgid "Name:"
 msgstr "བྱ་རིམ་གྱི་མིང་།"
 

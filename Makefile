@@ -29,7 +29,7 @@ yhkylin-backup-tools/translations/yhkylin-backup-tools_bo_CN.qm: yhkylin-backup-
 all: $(MO_FILES) $(QM_FILES)
 
 clean:
-#	rm $(MO_FILES) $(QM_FILES)
+	rm $(MO_FILES) $(QM_FILES)
 
 install-mo: $(MO_FILES)
 	install -d $(DESTDIR)$(PREFIX)/share/locale-langpack/bo_CN/LC_MESSAGES/
