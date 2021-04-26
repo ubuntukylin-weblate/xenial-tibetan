@@ -52,7 +52,7 @@ msgstr ""
 
 #: panels/appearance/appearance-desktop.c:346
 msgid "Are you sure to delete wallpaper?"
-msgstr "是否确认删除壁纸？"
+msgstr "རྩིག་ཤོག་གཏན་ཁལ་སུབ་དགོས་སམ།"
 
 #: panels/appearance/appearance-desktop.c:347
 #: panels/appearance/appearance-lockscreen.c:347
@@ -304,7 +304,6 @@ msgid "Center"
 msgstr "དཀྱིལ་སྒྲིག"
 
 #: panels/display/xrandr-capplet.c:724
-#, fuzzy, c-format
 msgid "%d Hz (Default)"
 msgstr "སོར་བཞག"
 
@@ -318,7 +317,6 @@ msgid "Mirror Screens"
 msgstr "ཤེལ་བརྙན།"
 
 #: panels/display/xrandr-capplet.c:895
-#, fuzzy, c-format
 msgid "Monitor: %s"
 msgstr "འཆར་ཆས།:"
 
@@ -2680,11 +2678,11 @@ msgstr ""
 
 #: shell/shell.ui.h:142
 msgid "Up"
-msgstr "向上"
+msgstr "གྱེན་ཕྱོགས།"
 
 #: shell/shell.ui.h:143
 msgid "Down"
-msgstr "向下"
+msgstr "ཐུར་ཕྱོགས།"
 
 #: shell/shell.ui.h:144
 msgid "_Show..."
@@ -2865,11 +2863,11 @@ msgstr "སྣང་མེད་དུ་བཞག་པའི་གཙོ་འ
 
 #: shell/shell.ui.h:188
 msgid "<b>Enable Apt Proxy</b>"
-msgstr "<b>开启Apt代理</b>"
+msgstr "<b>Aptལས་ཚབ་ཁ་ཕྱེ་བ།</b>"
 
 #: shell/shell.ui.h:189
 msgid "Proxy Host:"
-msgstr "代理主机："
+msgstr "ལས་ཚབ་གཙོ་འཁོར།："
 
 #: shell/shell.ui.h:190
 msgid "Apply"
@@ -2877,7 +2875,7 @@ msgstr "ཉེར་སྤྱོད།"
 
 #: shell/shell.ui.h:191
 msgid "Apt Proxy"
-msgstr "Apt代理"
+msgstr "Aptལས་ཚབ།"
 
 #: shell/shell.ui.h:192
 msgid "Additional startup _programs:"
@@ -3485,3 +3483,4 @@ msgstr "<b>警告：屏幕锁定对root用户无效．</b>"
 
 #~ msgid "System Configuration"
 #~ msgstr "རྒྱུད་ཁོངས་སྡེབ་སྒྲིག"
+
