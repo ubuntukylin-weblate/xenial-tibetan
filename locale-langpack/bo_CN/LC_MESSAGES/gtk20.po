@@ -1,14 +1,16 @@
-# Burgess Chang <register@brsvh.org>, 2020.
+# Burgess Chang <register@brsvh.org>, 2020, 2021.
 # 头旦才让 <atou2008@qq.com>, 2020.
 # rzdj <1046447973@qq.com>, 2020.
 # allen-ukui <zouchang@kylinos.cn>, 2021.
+# baima <2122488647@qq.com>, 2021.
+# Burgess Chang <open@brsvh.org>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ubuntu Xenial Tibetan\n"
 "Report-Msgid-Bugs-To: https://github.com/ubuntukylin-weblate/xenial-tibetan\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-20 00:37+0000\n"
-"Last-Translator: allen-ukui <zouchang@kylinos.cn>\n"
+"PO-Revision-Date: 2021-04-26 07:30+0000\n"
+"Last-Translator: Burgess Chang <register@brsvh.org>\n"
 "Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
 "xenial-tibetan/gtk20/bo_CN/>\n"
 "Language: bo_CN\n"
@@ -20,6 +22,8 @@ msgstr ""
 
 msgid "\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
 msgstr ""
+"\"%s\" སྒྱུར་མི་ཐུབ།\"%s\"རིགས་འདི་ཡི་གྲངས། གྲངས་འདི་གཏོགས་གཤིས་སུ་སྤྱད་ཆོག\""
+"%s\""
 
 msgid "\"%s\" is not a valid attribute name"
 msgstr ""
@@ -106,7 +110,7 @@ msgid "After"
 msgstr ""
 
 msgid "All sheets"
-msgstr ""
+msgstr "ཤོག་བུའི་ངོས་ཡོངས།"
 
 msgid "Amharic (EZ+)"
 msgstr ""
@@ -211,10 +215,10 @@ msgid "Bottom to top, right to left"
 msgstr ""
 
 msgid "Bourne Again Shell"
-msgstr ""
+msgstr "Bourne Again Shell"
 
 msgid "Bourne Shell"
-msgstr ""
+msgstr "Bourne Shell"
 
 msgid "Brightness of the color."
 msgstr ""
@@ -226,7 +230,7 @@ msgid "COLORS"
 msgstr "ཁ་དོག"
 
 msgid "C_ollate"
-msgstr ""
+msgstr "བསྟར་རིམ།(_O)"
 
 msgid "C_reate"
 msgstr "གསར་བཟོ། (_R)"
@@ -235,7 +239,7 @@ msgid "C_redits"
 msgstr "བཀའ་དྲིན་ཞུ་བ།（R）"
 
 msgid "C_urrent Page"
-msgstr ""
+msgstr "མིག་སྔའི་ཤོག་ངོས།(_U)"
 
 msgid "Cache file created successfully.\n"
 msgstr ""
@@ -318,7 +322,7 @@ msgid "Convert to PS level 2"
 msgstr ""
 
 msgid "Copie_s:"
-msgstr ""
+msgstr "བཤུས་ཡིག་གི་གྲངས།(_S):"
 
 msgid "Copies"
 msgstr "འདྲ་བཤུས།"
@@ -506,7 +510,7 @@ msgid "Error renaming file to \"%s\": %s"
 msgstr ""
 
 msgid "Even sheets"
-msgstr ""
+msgstr "ཆ་གྲངས་ངོས།"
 
 msgid "FLAGS"
 msgstr "མཚོན་རྟགས།"
@@ -560,7 +564,7 @@ msgid "Finishing"
 msgstr "ལེགས་གྲུབ།"
 
 msgid "Fol_ders"
-msgstr ""
+msgstr "དཀར་ཆག(_D)"
 
 msgid "Folder unreadable: %s"
 msgstr ""
@@ -593,10 +597,10 @@ msgid "GTK+ Options"
 msgstr ""
 
 msgid "GTK+ debugging flags to set"
-msgstr ""
+msgstr "བཀོད་དགོས་པའི་ GTK+ ཚོད་ལེན་འདེམས་ཚན།"
 
 msgid "GTK+ debugging flags to unset"
-msgstr ""
+msgstr "བསུབ་དགོས་པའི་ GTK+ ཚོད་ལེན་འདེམས་ཚན།"
 
 msgid "Gamma"
 msgstr "Gamma"
@@ -718,8 +722,9 @@ msgstr ""
 msgid "Location"
 msgstr "ས་གནས།"
 
+#, fuzzy
 msgid "Long Edge (Standard)"
-msgstr ""
+msgstr "མཐའ་རིང་། (ཚད་ལྡན།)"
 
 msgid "Low"
 msgstr "དམའ།"
@@ -760,7 +765,7 @@ msgid "Modified"
 msgstr "བཅོས་ཟིན།"
 
 msgid "Multipress"
-msgstr ""
+msgstr "Multipress"
 
 msgid "Muted"
 msgstr "སྒྲ་མེད།"
@@ -831,7 +836,7 @@ msgid "Not enough free memory"
 msgstr " ནང་གསོག་གིས་མི་འདང་བ།"
 
 msgid "Odd sheets"
-msgstr ""
+msgstr "ཡ་གྲངས་ངོས།"
 
 msgid "On _hold"
 msgstr ""
@@ -857,7 +862,7 @@ msgid "Opening %s"
 msgstr " %sཁ་འབྱེད།"
 
 msgid "Or_ientation:"
-msgstr ""
+msgstr "ཁ་ཕྱོགས།(I):"
 
 msgid "Other..."
 msgstr "གཞན..."
@@ -875,46 +880,46 @@ msgid "Output a C header file"
 msgstr ""
 
 msgid "Output t_ray:"
-msgstr ""
+msgstr "ཤོག་བུ་ཐོན་ཆས།(_R):"
 
 msgid "Overwrite an existing cache, even if up to date"
 msgstr ""
 
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 msgid "PDF _Pop directional formatting"
 msgstr "PDF རྩེར་གནས་ཁ་ཕྱོགས་རྣམ་གཞག(_P)"
 
 msgid "Pag_es:"
-msgstr ""
+msgstr "ཤོག་ངོས།(_E):"
 
 msgid "Page %u"
 msgstr ""
 
 msgid "Page Ordering"
-msgstr ""
+msgstr "ཤོག་ངོས་ཀྱི་རིམ་པ།"
 
 msgid "Page Setup"
 msgstr "ཤོག་ངོས་སྒྲིག་འགོད།"
 
 msgid "Page or_dering:"
-msgstr ""
+msgstr "ཤོག་ངོས་ཀྱི་རིམ་པ།(_D):"
 
 msgid "Pages"
 msgstr "ཤོག་ངོས།"
 
 msgid "Pages Per Sheet"
-msgstr ""
+msgstr "ངོས་རེའི་གྲངས།"
 
 msgid "Pages per Sheet"
-msgstr ""
+msgstr "ངོས་རེའི་གྲངས།"
 
 msgid "Pages per _sheet:"
-msgstr ""
+msgstr "ངོས་རེའི་གྲངས།(_S):"
 
 msgid "Pages per _side:"
-msgstr ""
+msgstr "ངོས་རེའི་གྲངས།(_S):"
 
 msgid "Paper"
 msgstr ""
@@ -926,16 +931,16 @@ msgid "Paper Size"
 msgstr ""
 
 msgid "Paper Source"
-msgstr ""
+msgstr "ཤོག་བུའི་ཡོང་ཁུངས།"
 
 msgid "Paper Type"
-msgstr ""
+msgstr "ཤོག་བུའི་རིགས།"
 
 msgid "Paper _source:"
-msgstr ""
+msgstr "ཤོག་བུའི་ཡོང་ཁུངས།(_S):"
 
 msgid "Paper _type:"
-msgstr ""
+msgstr "ཤོག་བུའི་རིགས།(_T):"
 
 msgid "Password:"
 msgstr "གསང་ཨང་།"
@@ -968,7 +973,7 @@ msgid "Position on the color wheel."
 msgstr ""
 
 msgid "Postscript"
-msgstr ""
+msgstr "Postscript"
 
 msgid "Preparing"
 msgstr "གྲ་སྒྲིག་བྱེད་པ།"
@@ -1112,19 +1117,19 @@ msgid "SCREEN"
 msgstr "བརྙན་ཡོལ།"
 
 msgid "SVG"
-msgstr ""
+msgstr "SVG"
 
 msgid "Same as --no-wintab"
 msgstr ""
 
 msgid "Sans 12"
-msgstr ""
+msgstr "Sans 12"
 
 msgid "Save in _folder:"
 msgstr "ཡིག་ཁུག་དུ་ཉར་ཚགས།(_F)：\""
 
 msgid "Sc_ale:"
-msgstr ""
+msgstr "སྐྱེད་སྐྱུང་།(A):"
 
 msgid "Screen"
 msgstr "བརྙན་ཡོལ།"
@@ -1184,7 +1189,7 @@ msgid "Show _Size Column"
 msgstr ""
 
 msgid "Si_ze:"
-msgstr ""
+msgstr "ཆེ་ཆུང་།(_Z):"
 
 msgid "Simple"
 msgstr "སྟབས་བདེ།"
@@ -1254,19 +1259,19 @@ msgid "Portrait"
 msgstr "གཞུང་ཕྱོགས།"
 
 msgid "Print Pre_view"
-msgstr ""
+msgstr "པར་འདེབས་སྔོན་ལྟ།(_V)"
 
 msgid "Question"
 msgstr "གནད་དོན།"
 
 msgid "Reverse landscape"
-msgstr ""
+msgstr "གཞུང་དུ་སྐོར་སློག"
 
 msgid "Reverse portrait"
-msgstr ""
+msgstr "གཞུང་དུ་སྐོར་སློག"
 
 msgid "Save _As"
-msgstr ""
+msgstr "གཞན་ཉར།(_A)"
 
 msgid "Select _All"
 msgstr "ཚང་མ་འདེམ་པ།(_A)"
@@ -1299,7 +1304,7 @@ msgid "_CD-Rom"
 msgstr ""
 
 msgid "_Cancel"
-msgstr " དོར་བ།"
+msgstr "དོར་བ།(_C)"
 
 msgid "_Center"
 msgstr "དཀྱིལ་སྒྲིག (_C)"
@@ -1308,7 +1313,7 @@ msgid "_Clear"
 msgstr "གཙང་སེལ།(_C)"
 
 msgid "_Close"
-msgstr "ཁ་རྒྱག (_C)"
+msgstr "ཁ་རྒྱག(_C)"
 
 msgid "_Color"
 msgstr "ཁ་དོག (_C)"
@@ -1341,7 +1346,7 @@ msgid "_Fill"
 msgstr ""
 
 msgid "_Find"
-msgstr ""
+msgstr "_འཚོལ་བ།(_F)"
 
 msgid "_Floppy"
 msgstr ""
@@ -1356,7 +1361,7 @@ msgid "_Harddisk"
 msgstr "སྲ་ཆས།(_H)"
 
 msgid "_Help"
-msgstr " རོགས་རམ།(_H)"
+msgstr "རོགས་རམ།(_H)"
 
 msgid "_Home"
 msgstr "ཡིག་ཁུག་གཙོ།(_H)"
@@ -1392,7 +1397,7 @@ msgid "_Normal Size"
 msgstr "རྒྱུན་ལྡན་གྱི་ཆེ་ཆུང་།(N)"
 
 msgid "_OK"
-msgstr "གཏན་འཁེལ།"
+msgstr "གཏན་ཁེལ།(_O)"
 
 msgid "_Open"
 msgstr "ཁ་འབྱེད།(O)"
@@ -1428,7 +1433,7 @@ msgid "_Right"
 msgstr "གཡས། (_R)"
 
 msgid "_Save"
-msgstr "ཉར་བ། (S)"
+msgstr "ཉར་ཚགས།(_S)"
 
 msgid "_Spell Check"
 msgstr ""
@@ -1494,7 +1499,7 @@ msgid "_Up"
 msgstr "གྱེན་དུ།(_U)"
 
 msgid "T_wo-sided:"
-msgstr ""
+msgstr "ངོས་ཟུང་།(_W):"
 
 msgid "Tag \"%s\" already defined"
 msgstr ""
@@ -1766,7 +1771,7 @@ msgid "_After:"
 msgstr ""
 
 msgid "_All Pages"
-msgstr ""
+msgstr "ཤོག་ངོས་ཚང་མ།(_A)"
 
 msgid "_Billing info:"
 msgstr ""
@@ -1838,7 +1843,7 @@ msgid "_Now"
 msgstr ""
 
 msgid "_Only print:"
-msgstr ""
+msgstr "པར་རྒྱག(_O):"
 
 msgid "_Open Link"
 msgstr " སྦྲེལ་མཐུད་ཁ་འབྱེད།(_O)"
@@ -1847,7 +1852,7 @@ msgid "_Orientation:"
 msgstr "ཁ་ཕྱོགས།(_O)："
 
 msgid "_Output format"
-msgstr ""
+msgstr "རྣམ་གཞག་ཕྱིར་འདོན།(_O)"
 
 msgid "_Palette:"
 msgstr ""
@@ -1865,7 +1870,7 @@ msgid "_Pressure:"
 msgstr ""
 
 msgid "_Preview:"
-msgstr ""
+msgstr "སྔོན་ལྟ།(_P):"
 
 msgid "_Red:"
 msgstr "དམར་པོ། (_R)："
@@ -1883,7 +1888,7 @@ msgid "_Replace"
 msgstr " ཚབ་བརྗེ།(_R)"
 
 msgid "_Reverse"
-msgstr ""
+msgstr "ལྡོག་རིམ།(_R)"
 
 msgid "_Right:"
 msgstr "གཡས། (_R)："
@@ -1895,7 +1900,7 @@ msgid "_Save color here"
 msgstr "འདིར་ཁ་དོག་ཉར་ཚགས་ཀྱིས།（_S）"
 
 msgid "_Save in folder:"
-msgstr ""
+msgstr "ཡིག་ཁུག་ཏུ་ཉར་ཚགས།(_S):"
 
 msgid "_Selection: "
 msgstr ""
