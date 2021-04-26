@@ -11,8 +11,8 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2021-04-26 07:30+0000\n"
 "Last-Translator: Burgess Chang <register@brsvh.org>\n"
-"Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/"
-"xenial-tibetan/gtk20/bo_CN/>\n"
+"Language-Team: Tibetan <https://weblate.ubuntukylin.com/projects/xenial-"
+"tibetan/gtk20/bo_CN/>\n"
 "Language: bo_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,10 +20,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.3.2\n"
 
-msgid "\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
-msgstr ""
-"\"%s\" སྒྱུར་མི་ཐུབ།\"%s\"རིགས་འདི་ཡི་གྲངས། གྲངས་འདི་གཏོགས་གཤིས་སུ་སྤྱད་ཆོག\""
-"%s\""
+msgid ""
+"\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
+msgstr "\"%s\" སྒྱུར་མི་ཐུབ།\"%s\"རིགས་འདི་ཡི་གྲངས། གྲངས་འདི་གཏོགས་གཤིས་སུ་སྤྱད་ཆོག\"%s\""
 
 msgid "\"%s\" is not a valid attribute name"
 msgstr ""
@@ -82,6 +81,7 @@ msgstr ""
 msgid "About %s"
 msgstr "%sཡི་སྐོར།"
 
+msgctxt "Accelerator"
 msgid "Invalid"
 msgstr "ནུས་མེད།"
 
@@ -278,8 +278,8 @@ msgstr ""
 "གྲང་སྦུག་གནོན་རྗེས་ཁྱེད་ཀྱི་བརྙན་ཡོལ་སྟེང་གི་གནས་ས་གང་རུང་གི་ཁ་དོག་གནོན་ན་ཁ་དོག་དེ་བདམས་པ་ཡིན།"
 
 msgid ""
-"Click this palette entry to make it the current color. To change this entry,"
-" drag a color swatch here or right-click it and select \"Save color here.\""
+"Click this palette entry to make it the current color. To change this entry, "
+"drag a color swatch here or right-click it and select \"Save color here.\""
 msgstr ""
 
 msgid "Co_nnect"
@@ -430,6 +430,7 @@ msgstr "ཡིག་ཆ་བསུབ་པ།"
 msgid "Desktop"
 msgstr "ཅོག་ངོས།"
 
+msgctxt "Accelerator"
 msgid "Disabled"
 msgstr "འགོག་སྤྱོད།"
 
@@ -516,9 +517,7 @@ msgstr ""
 
 msgid ""
 "Failed to load image '%s': reason not known, probably a corrupt image file"
-msgstr ""
-"བརྙན་རིས། “%s”\" འགེལ་བ་ཕམ་པ། རྒྱུ་རྐྱེན་མི་ཤེས་པ། "
-"ཕལ་ཆེར་བརྙན་རིས།་ཡིག་ཆ་སྐྱོན་ཤོར་བ་ཡིན།"
+msgstr "བརྙན་རིས། “%s”\" འགེལ་བ་ཕམ་པ། རྒྱུ་རྐྱེན་མི་ཤེས་པ། ཕལ་ཆེར་བརྙན་རིས།་ཡིག་ཆ་སྐྱོན་ཤོར་བ་ཡིན།"
 
 msgid "Failed to open file %s : %s\n"
 msgstr ""
@@ -718,7 +717,6 @@ msgstr ""
 msgid "Location"
 msgstr "ས་གནས།"
 
-#, fuzzy
 msgid "Long Edge (Standard)"
 msgstr "མཐའ་རིང་། (ཚད་ལྡན།)"
 
@@ -816,6 +814,7 @@ msgstr ""
 msgid "No theme index file.\n"
 msgstr ""
 
+msgctxt "input method menu"
 msgid "None"
 msgstr " མེད།"
 
@@ -980,6 +979,7 @@ msgstr ""
 msgid "Pri_ority:"
 msgstr ""
 
+msgctxt "keyboard label"
 msgid "Print"
 msgstr "པར་འདེབས།"
 
@@ -1065,7 +1065,7 @@ msgid "Really delete file \"%s\"?"
 msgstr ""
 
 msgid "Received invalid color data\n"
-msgstr "ཁྲིམས་འགལ་ཚོས་གཞིའི་གཞི་གྲངས་འབྱོར་བ།"
+msgstr "ཁྲིམས་འགལ་ཚོས་གཞིའི་གཞི་གྲངས་འབྱོར་བ།\n"
 
 msgid "Recently Used"
 msgstr "ཉེ་དུས་བེད་སྤྱད་པ།"
@@ -1221,276 +1221,363 @@ msgstr " %sའགོ་སློང་བཞིན་པ།"
 msgid "Status"
 msgstr " རྣམ་པ།"
 
+msgctxt "Stock label"
 msgid "Best _Fit"
 msgstr ""
 
+msgctxt "Stock label"
 msgid "C_onnect"
 msgstr "འབྲེལ་མཐུད(_O)"
 
+msgctxt "Stock label"
 msgid "Cu_t"
 msgstr "དྲས་གཏུབ།(_t)"
 
+msgctxt "Stock label"
 msgid "Decrease Indent"
 msgstr ""
 
 msgid "Error"
 msgstr " ནོར་འཁྲུལ།"
 
+msgctxt "Stock label"
 msgid "Find and _Replace"
-msgstr ""
+msgstr " ཚབ་བརྗེ།(_R)"
 
+msgctxt "Stock label"
 msgid "Increase Indent"
 msgstr ""
 
 msgid "Information"
 msgstr " ཆ་འཕྲིན།"
 
+msgctxt "Stock label"
 msgid "Landscape"
 msgstr "འཕྲེད་ཕྱོགས།"
 
+msgctxt "Stock label"
 msgid "Page Set_up"
 msgstr "ལྡེབ་ངོས་སྒྲིག་འགོད། (_U)"
 
+msgctxt "Stock label"
 msgid "Portrait"
 msgstr "གཞུང་ཕྱོགས།"
 
+msgctxt "Stock label"
 msgid "Print Pre_view"
 msgstr "པར་འདེབས་སྔོན་ལྟ།(_V)"
 
+msgctxt "Stock label"
 msgid "Question"
 msgstr "གནད་དོན།"
 
+msgctxt "Stock label"
 msgid "Reverse landscape"
 msgstr "གཞུང་དུ་སྐོར་སློག"
 
+msgctxt "Stock label"
 msgid "Reverse portrait"
 msgstr "གཞུང་དུ་སྐོར་སློག"
 
+msgctxt "Stock label"
 msgid "Save _As"
 msgstr "གཞན་ཉར།(_A)"
 
+msgctxt "Stock label"
 msgid "Select _All"
 msgstr "ཚང་མ་འདེམ་པ།(_A)"
 
+msgctxt "Stock label"
 msgid "Warning"
 msgstr "ཉེན་བརྡ།"
 
+msgctxt "Stock label"
 msgid "Zoom _In"
 msgstr "ཆེར་སྐྱེད།(_I)"
 
+msgctxt "Stock label"
 msgid "Zoom _Out"
 msgstr "ཆུང་བསྡུ།(_O)"
 
+msgctxt "Stock label"
 msgid "_About"
 msgstr "འབྲེལ་ཡོད།(_A)"
 
+msgctxt "Stock label"
 msgid "_Add"
 msgstr "སྣོན་པ། (A)"
 
+msgctxt "Stock label"
 msgid "_Apply"
 msgstr "ཉེར་སྤྱོད།(_A)"
 
+msgctxt "Stock label"
 msgid "_Ascending"
 msgstr "རིམ་འཕར། (_A)..."
 
+msgctxt "Stock label"
 msgid "_Bold"
-msgstr ""
+msgstr "སྦོས་གཟུགས།(_B)"
 
+msgctxt "Stock label"
 msgid "_CD-Rom"
 msgstr ""
 
+msgctxt "Stock label"
 msgid "_Cancel"
 msgstr "དོར་བ།(_C)"
 
+msgctxt "Stock label"
 msgid "_Center"
 msgstr "དཀྱིལ་སྒྲིག (_C)"
 
+msgctxt "Stock label"
 msgid "_Clear"
 msgstr "གཙང་སེལ།(_C)"
 
+msgctxt "Stock label"
 msgid "_Close"
 msgstr "ཁ་རྒྱག(_C)"
 
+msgctxt "Stock label"
 msgid "_Color"
 msgstr "ཁ་དོག (_C)"
 
+msgctxt "Stock label"
 msgid "_Convert"
 msgstr "བརྗེ་སྤོར། (_C)"
 
+msgctxt "Stock label"
 msgid "_Copy"
 msgstr "འདྲ་པར།(_C)"
 
+msgctxt "Stock label"
 msgid "_Delete"
 msgstr "སུབ་བ།"
 
+msgctxt "Stock label"
 msgid "_Descending"
 msgstr "རིམ་འབེབས། (_D)"
 
+msgctxt "Stock label"
 msgid "_Discard"
 msgstr "སྐྱུར་བ།(_D)"
 
+msgctxt "Stock label"
 msgid "_Disconnect"
 msgstr "དྲས་རྒྱག་པ།(_D)"
 
+msgctxt "Stock label"
 msgid "_Edit"
 msgstr "རྩོམ་སྒྲིག (_E)"
 
+msgctxt "Stock label"
 msgid "_Execute"
-msgstr ""
+msgstr "ལག་བསྟར།(_E)"
 
+msgctxt "Stock label"
 msgid "_Fill"
-msgstr ""
+msgstr "ཡིག་ཆ། (_F)"
 
+msgctxt "Stock label"
 msgid "_Find"
 msgstr "_འཚོལ་བ།(_F)"
 
+msgctxt "Stock label"
 msgid "_Floppy"
-msgstr ""
+msgstr "མཉེན་སྡེར།(_F)"
 
+msgctxt "Stock label"
 msgid "_Font"
 msgstr " ཡིག་གཟུགས།(_F)"
 
+msgctxt "Stock label"
 msgid "_Fullscreen"
 msgstr "བརྙན་ཡོལ་ཧྲིལ་པོ།(_F)"
 
+msgctxt "Stock label"
 msgid "_Harddisk"
 msgstr "སྲ་ཆས།(_H)"
 
+msgctxt "Stock label"
 msgid "_Help"
 msgstr "རོགས་རམ།(_H)"
 
+msgctxt "Stock label"
 msgid "_Home"
 msgstr "ཡིག་ཁུག་གཙོ།(_H)"
 
+msgctxt "Stock label"
 msgid "_Index"
-msgstr ""
+msgstr "གསལ་བྱང་།(_I)"
 
+msgctxt "Stock label"
 msgid "_Information"
 msgstr "ཆ་འཕྲིན།(_I)"
 
+msgctxt "Stock label"
 msgid "_Italic"
-msgstr ""
+msgstr "གསེག་གཟུགས།(_I)"
 
 msgid "_Jump to"
 msgstr ""
 
+msgctxt "Stock label"
 msgid "_Leave Fullscreen"
-msgstr ""
+msgstr "བརྙན་ཡོལ་ཧྲིལ་པོ།(_F)"
 
+msgctxt "Stock label"
 msgid "_Left"
 msgstr "གཡོན། (_L)"
 
+msgctxt "Stock label"
 msgid "_Network"
 msgstr "དྲ་རྒྱ།(_N)"
 
+msgctxt "Stock label"
 msgid "_New"
 msgstr "གསར་འཛུགས།(_N)"
 
+msgctxt "Stock label"
 msgid "_No"
-msgstr ""
+msgstr "མིན།(_N)"
 
+msgctxt "Stock label"
 msgid "_Normal Size"
 msgstr "རྒྱུན་ལྡན་གྱི་ཆེ་ཆུང་།(N)"
 
+msgctxt "Stock label"
 msgid "_OK"
 msgstr "གཏན་ཁེལ།(_O)"
 
+msgctxt "Stock label"
 msgid "_Open"
 msgstr "ཁ་འབྱེད།(O)"
 
+msgctxt "Stock label"
 msgid "_Paste"
 msgstr "སྦྱར་བ།(_P)"
 
+msgctxt "Stock label"
 msgid "_Preferences"
 msgstr "སྒྲིག་འགོད།(_P)"
 
+msgctxt "Stock label"
 msgid "_Print"
 msgstr "པར་འདེབས།(_P)"
 
+msgctxt "Stock label"
 msgid "_Properties"
 msgstr "གཏོགས་གཤིས། (_P)"
 
+msgctxt "Stock label"
 msgid "_Quit"
 msgstr "ཕྱིར་འབུད། (_Q)"
 
+msgctxt "Stock label"
 msgid "_Redo"
 msgstr "བསྐྱར་བཟོ།(_R)"
 
+msgctxt "Stock label"
 msgid "_Refresh"
 msgstr "གསར་འདོན།(_R)"
 
+msgctxt "Stock label"
 msgid "_Remove"
 msgstr "སྤོ་བ།（R)"
 
+msgctxt "Stock label"
 msgid "_Revert"
 msgstr "བརྟན་དུ་མི་མངོན།"
 
+msgctxt "Stock label"
 msgid "_Right"
 msgstr "གཡས། (_R)"
 
+msgctxt "Stock label"
 msgid "_Save"
 msgstr "ཉར་ཚགས།(_S)"
 
+msgctxt "Stock label"
 msgid "_Spell Check"
-msgstr ""
+msgstr "སྦྱོར་འབྲི་ཞིབ་བཤེར།(_S)"
 
+msgctxt "Stock label"
 msgid "_Strikethrough"
-msgstr ""
+msgstr "ཐིག་སུབ་པ།(_S)"
 
+msgctxt "Stock label"
 msgid "_Undelete"
-msgstr ""
+msgstr "སུབ་བ།"
 
+msgctxt "Stock label"
 msgid "_Underline"
-msgstr ""
+msgstr "འོག་ཐིག(_U)"
 
+msgctxt "Stock label"
 msgid "_Undo"
 msgstr "འདོར་བ།(_U)"
 
+msgctxt "Stock label"
 msgid "_Yes"
-msgstr ""
+msgstr "རེད།(_Y)"
 
+msgctxt "Stock label, media"
 msgid "P_ause"
-msgstr ""
+msgstr " སྐབས་འཇོག"
 
+msgctxt "Stock label, media"
 msgid "Pre_vious"
 msgstr "གཞས་སྔོན་མ།(_v)"
 
+msgctxt "Stock label, media"
 msgid "R_ewind"
-msgstr ""
+msgstr "མྱུར་འཐེན།(_E)"
 
+msgctxt "Stock label, media"
 msgid "_Next"
 msgstr "གཞས་ངོས་རྗེས་མ།(_N)"
 
+msgctxt "Stock label, media"
 msgid "_Play"
 msgstr "གཏོང་བ།(_P)"
 
 msgid "_Record"
 msgstr ""
 
+msgctxt "Stock label, media"
 msgid "_Stop"
 msgstr "མཚམས་འཇོག (_S)"
 
+msgctxt "Stock label, navigation"
 msgid "_Back"
 msgstr "ཕྱིར་ནུར།(_B)"
 
+msgctxt "Stock label, navigation"
 msgid "_Bottom"
-msgstr ""
+msgstr "འོག (_B)："
 
+msgctxt "Stock label, navigation"
 msgid "_Down"
 msgstr "ཐུར་དུ(_D)"
 
+msgctxt "Stock label, navigation"
 msgid "_First"
-msgstr ""
+msgstr "ཤོག་ངོས་དང་པོར་སྒྱུར།(_F)"
 
+msgctxt "Stock label, navigation"
 msgid "_Forward"
 msgstr "མདུན་སྐྱོད།(_F)"
 
+msgctxt "Stock label, navigation"
 msgid "_Last"
-msgstr ""
+msgstr "མཇུག་ངོས་ལ་སྒྱུར།(_L)"
 
+msgctxt "Stock label, navigation"
 msgid "_Top"
-msgstr ""
+msgstr "སྟེང་། (_T)："
 
+msgctxt "Stock label, navigation"
 msgid "_Up"
 msgstr "གྱེན་དུ།(_U)"
 
@@ -1533,13 +1620,13 @@ msgid "The door is open on printer '%s'."
 msgstr ""
 
 msgid ""
-"The file \"%s\" resides on another machine (called %s) and may not be available to this program.\n"
+"The file \"%s\" resides on another machine (called %s) and may not be "
+"available to this program.\n"
 "Are you sure that you want to select it?"
 msgstr ""
 
 msgid ""
-"The file already exists in \"%s\".  Replacing it will overwrite its "
-"contents."
+"The file already exists in \"%s\".  Replacing it will overwrite its contents."
 msgstr "“%s” ཡི་ནང་ཡིག་ཆ་འདི་ཚུད་འདུག་པས་དེ་ཡི་ནང་དོན་བཀབ་བམ།"
 
 msgid "The filename \"%s\" contains symbols that are not allowed in filenames"
@@ -1558,11 +1645,11 @@ msgstr ""
 
 msgid ""
 "The folder could not be created, as a file with the same name already "
-"exists.  Try using a different name for the folder, or rename the file "
-"first."
+"exists.  Try using a different name for the folder, or rename the file first."
 msgstr ""
 
-msgid "The folder name \"%s\" contains symbols that are not allowed in filenames"
+msgid ""
+"The folder name \"%s\" contains symbols that are not allowed in filenames"
 msgstr ""
 
 msgid "The generated cache was invalid.\n"
@@ -1571,8 +1658,7 @@ msgstr ""
 msgid "The license of the program"
 msgstr ""
 
-msgid ""
-"The most probable reason is that a temporary file could not be created."
+msgid "The most probable reason is that a temporary file could not be created."
 msgstr ""
 
 msgid ""
@@ -1928,15 +2014,18 @@ msgstr " _Y："
 msgid "abcdefghijk ABCDEFGHIJK"
 msgstr "GNOMEཡིག་གཟུགས་ཚོད་ལེན།"
 
+msgctxt "calendar year format"
 msgid "%Y"
 msgstr "%Y"
 
 msgid "calendar:MY"
 msgstr ""
 
+msgctxt "calendar:day:digits"
 msgid "%d"
 msgstr ""
 
+msgctxt "calendar:week:digits"
 msgid "calendar:week_start:0"
 msgstr "calendar:week_start:1"
 
@@ -1952,141 +2041,187 @@ msgstr ""
 msgid "inch"
 msgstr "དབྱིན་ཚུན།"
 
+msgctxt "input method menu"
 msgid "System"
 msgstr "རྒྱུད་ཁོངས།"
 
+msgctxt "input method menu"
 msgid "System (%s)"
-msgstr ""
+msgstr "རྒྱུད་ཁོངས།"
 
+msgctxt "keyboard label"
 msgid "Alt"
 msgstr "Alt"
 
+msgctxt "keyboard label"
 msgid "BackSpace"
-msgstr ""
+msgstr "བར་སྟོང་།"
 
+msgctxt "keyboard label"
 msgid "Backslash"
-msgstr ""
+msgstr "\\"
 
+msgctxt "keyboard label"
 msgid "Begin"
 msgstr "མགོ་རྩོམ།"
 
+msgctxt "keyboard label"
 msgid "Ctrl"
 msgstr "Coml"
 
+msgctxt "keyboard label"
 msgid "Delete"
 msgstr "བསུབ་པ།"
 
+msgctxt "keyboard label"
 msgid "Down"
 msgstr "ཞོལ།"
 
+msgctxt "keyboard label"
 msgid "End"
-msgstr ""
+msgstr "End"
 
+msgctxt "keyboard label"
 msgid "Escape"
 msgstr " ཕྱིར་འབུད།"
 
+msgctxt "keyboard label"
 msgid "Home"
 msgstr "རྩིས་ཆས།"
 
+msgctxt "keyboard label"
 msgid "Hyper"
 msgstr "Hyper"
 
+msgctxt "keyboard label"
 msgid "Insert"
 msgstr "བར་འཇུག"
 
+msgctxt "keyboard label"
 msgid "KP_Begin"
-msgstr ""
+msgstr "མགོ་རྩོམ།"
 
+msgctxt "keyboard label"
 msgid "KP_Delete"
-msgstr ""
+msgstr "སུབ་བ།"
 
+msgctxt "keyboard label"
 msgid "KP_Down"
-msgstr ""
+msgstr "ཐུར་དུ(_D)"
 
+msgctxt "keyboard label"
 msgid "KP_End"
-msgstr ""
+msgstr "KP_End"
 
+msgctxt "keyboard label"
 msgid "KP_Enter"
-msgstr ""
+msgstr "པར་འཁོར།"
 
+msgctxt "keyboard label"
 msgid "KP_Home"
-msgstr ""
+msgstr "ཡིག་ཁུག་གཙོ།(_H)"
 
+msgctxt "keyboard label"
 msgid "KP_Insert"
-msgstr ""
+msgstr "བར་འཇུག"
 
+msgctxt "keyboard label"
 msgid "KP_Left"
-msgstr ""
+msgstr "གཡོན། (_L)"
 
+msgctxt "keyboard label"
 msgid "KP_Next"
-msgstr ""
+msgstr "གཞས་ངོས་རྗེས་མ།(_N)"
 
+msgctxt "keyboard label"
 msgid "KP_Page_Down"
-msgstr ""
+msgstr "KP_Page_Down"
 
+msgctxt "keyboard label"
 msgid "KP_Page_Up"
-msgstr ""
+msgstr "KP_Page_Up"
 
+msgctxt "keyboard label"
 msgid "KP_Prior"
-msgstr ""
+msgstr "KP_Prior"
 
+msgctxt "keyboard label"
 msgid "KP_Right"
-msgstr ""
+msgstr "གཡས། (_R)"
 
+msgctxt "keyboard label"
 msgid "KP_Space"
-msgstr ""
+msgstr "བར་སྟོང་།"
 
+msgctxt "keyboard label"
 msgid "KP_Tab"
-msgstr ""
+msgstr "KP_Tab"
 
+msgctxt "keyboard label"
 msgid "KP_Up"
-msgstr ""
+msgstr "KP_Up"
 
+msgctxt "keyboard label"
 msgid "Left"
 msgstr "གཡོན།"
 
+msgctxt "keyboard label"
 msgid "Meta"
 msgstr "Meta"
 
+msgctxt "keyboard label"
 msgid "Multi_key"
-msgstr ""
+msgstr "Multipress"
 
+msgctxt "keyboard label"
 msgid "Num_Lock"
-msgstr ""
+msgstr "ཨང་ཀིའི་ཟྭ།"
 
+msgctxt "keyboard label"
 msgid "Page_Down"
-msgstr ""
+msgstr "ཐུར་དུ(_D)"
 
+msgctxt "keyboard label"
 msgid "Page_Up"
-msgstr ""
+msgstr "ཤོག་ངོས།"
 
+msgctxt "keyboard label"
 msgid "Pause"
 msgstr " སྐབས་འཇོག"
 
+msgctxt "keyboard label"
 msgid "Return"
 msgstr "འབེབས་པ།"
 
+msgctxt "keyboard label"
 msgid "Right"
 msgstr "གཡས།"
 
+msgctxt "keyboard label"
 msgid "Scroll_Lock"
-msgstr ""
+msgstr "འགྲིལ་འདེད་ཟྭ།"
 
+msgctxt "keyboard label"
 msgid "Shift"
 msgstr "Shift"
 
+msgctxt "keyboard label"
 msgid "Space"
 msgstr "བར་སྟོང་།"
 
+msgctxt "keyboard label"
 msgid "Super"
 msgstr "Super"
 
+msgctxt "keyboard label"
 msgid "Sys_Req"
-msgstr ""
+msgstr "མ་ལག་རེ་ཞུ།"
 
+msgctxt "keyboard label"
 msgid "Tab"
 msgstr "གདོང་འཛར་ཤོག་ངོས།"
 
+msgctxt "keyboard label"
 msgid "Up"
 msgstr "སྟེང་།"
 
@@ -2099,525 +2234,697 @@ msgstr " མེད།"
 msgid "output.%s"
 msgstr ""
 
+msgctxt "paper size"
 msgid "#10 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་10པ།"
 
+msgctxt "paper size"
 msgid "#11 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་11པ།"
 
+msgctxt "paper size"
 msgid "#12 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་12པ།"
 
+msgctxt "paper size"
 msgid "#14 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་14པ།"
 
+msgctxt "paper size"
 msgid "#9 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས།9པ།"
 
+msgctxt "paper size"
 msgid "10x11"
-msgstr ""
+msgstr "10x11"
 
+msgctxt "paper size"
 msgid "10x13"
-msgstr ""
+msgstr "10x13"
 
+msgctxt "paper size"
 msgid "10x14"
-msgstr ""
+msgstr "10x14"
 
+msgctxt "paper size"
 msgid "10x15"
-msgstr ""
+msgstr "10x15"
 
+msgctxt "paper size"
 msgid "11x12"
-msgstr ""
+msgstr "11x12"
 
+msgctxt "paper size"
 msgid "11x15"
-msgstr ""
+msgstr "11x15"
 
+msgctxt "paper size"
 msgid "12x19"
-msgstr ""
+msgstr "12x19"
 
+msgctxt "paper size"
 msgid "5x7"
 msgstr "5x7"
 
+msgctxt "paper size"
 msgid "6x9 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་6x9དབྱིང་ཚུན་ཅན།"
 
+msgctxt "paper size"
 msgid "7x9 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་7x9དབྱིན་ཚུན་ཅན།"
 
+msgctxt "paper size"
 msgid "9x11 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་9X11དབྱིང་ཚུན།"
 
+msgctxt "paper size"
 msgid "A0"
 msgstr "A0"
 
+msgctxt "paper size"
 msgid "A0x2"
-msgstr ""
+msgstr "A0x2"
 
+msgctxt "paper size"
 msgid "A0x3"
-msgstr ""
+msgstr "A0x3"
 
+msgctxt "paper size"
 msgid "A1"
 msgstr "A1"
 
+msgctxt "paper size"
 msgid "A10"
 msgstr "A10"
 
+msgctxt "paper size"
 msgid "A1x3"
-msgstr ""
+msgstr "A1x3"
 
+msgctxt "paper size"
 msgid "A1x4"
-msgstr ""
+msgstr "A1x4"
 
+msgctxt "paper size"
 msgid "A2"
 msgstr "A2"
 
+msgctxt "paper size"
 msgid "A2x3"
-msgstr ""
+msgstr "A2x3"
 
+msgctxt "paper size"
 msgid "A2x4"
-msgstr ""
+msgstr "A2x4"
 
+msgctxt "paper size"
 msgid "A2x5"
-msgstr ""
+msgstr "A2x5"
 
+msgctxt "paper size"
 msgid "A3"
 msgstr "A3"
 
+msgctxt "paper size"
 msgid "A3 Extra"
-msgstr ""
+msgstr "A3 Extra"
 
+msgctxt "paper size"
 msgid "A3x3"
-msgstr ""
+msgstr "A3x3"
 
+msgctxt "paper size"
 msgid "A3x4"
-msgstr ""
+msgstr "A3x4"
 
+msgctxt "paper size"
 msgid "A3x5"
-msgstr ""
+msgstr "A3x5"
 
+msgctxt "paper size"
 msgid "A3x6"
-msgstr ""
+msgstr "A3x6"
 
+msgctxt "paper size"
 msgid "A3x7"
-msgstr ""
+msgstr "A3x7"
 
+msgctxt "paper size"
 msgid "A4"
 msgstr "A4"
 
+msgctxt "paper size"
 msgid "A4 Extra"
-msgstr ""
+msgstr "A4 Extra"
 
+msgctxt "paper size"
 msgid "A4 Tab"
-msgstr ""
+msgstr "A4 Tab"
 
+msgctxt "paper size"
 msgid "A4x3"
-msgstr ""
+msgstr "A4x3"
 
+msgctxt "paper size"
 msgid "A4x4"
-msgstr ""
+msgstr "A4x4"
 
+msgctxt "paper size"
 msgid "A4x5"
-msgstr ""
+msgstr "A4x5"
 
+msgctxt "paper size"
 msgid "A4x6"
-msgstr ""
+msgstr "A4x6"
 
+msgctxt "paper size"
 msgid "A4x7"
-msgstr ""
+msgstr "A4x7"
 
+msgctxt "paper size"
 msgid "A4x8"
-msgstr ""
+msgstr "A4x8"
 
+msgctxt "paper size"
 msgid "A4x9"
-msgstr ""
+msgstr "A4x9"
 
+msgctxt "paper size"
 msgid "A5"
 msgstr "A5"
 
+msgctxt "paper size"
 msgid "A5 Extra"
-msgstr ""
+msgstr "A5 Extra"
 
+msgctxt "paper size"
 msgid "A6"
 msgstr "A6"
 
+msgctxt "paper size"
 msgid "A7"
 msgstr "A7"
 
+msgctxt "paper size"
 msgid "A8"
 msgstr "A8"
 
+msgctxt "paper size"
 msgid "A9"
 msgstr "A9"
 
+msgctxt "paper size"
 msgid "Arch A"
-msgstr ""
+msgstr "Arch A"
 
+msgctxt "paper size"
 msgid "Arch B"
-msgstr ""
+msgstr "Arch B"
 
+msgctxt "paper size"
 msgid "Arch C"
-msgstr ""
+msgstr "Arch C"
 
+msgctxt "paper size"
 msgid "Arch D"
-msgstr ""
+msgstr "Arch D"
 
+msgctxt "paper size"
 msgid "Arch E"
-msgstr ""
+msgstr "Arch E"
 
+msgctxt "paper size"
 msgid "B0"
-msgstr ""
+msgstr "B0"
 
+msgctxt "paper size"
 msgid "B1"
-msgstr ""
+msgstr "B1"
 
+msgctxt "paper size"
 msgid "B10"
-msgstr ""
+msgstr "A10"
 
+msgctxt "paper size"
 msgid "B2"
-msgstr ""
+msgstr "B2"
 
+msgctxt "paper size"
 msgid "B3"
-msgstr ""
+msgstr "B3"
 
+msgctxt "paper size"
 msgid "B4"
-msgstr ""
+msgstr "B4"
 
+msgctxt "paper size"
 msgid "B5"
-msgstr ""
+msgstr "B5"
 
+msgctxt "paper size"
 msgid "B5 Extra"
-msgstr ""
+msgstr "B5 Extra"
 
+msgctxt "paper size"
 msgid "B6"
-msgstr ""
+msgstr "B6"
 
+msgctxt "paper size"
 msgid "B6/C4"
-msgstr ""
+msgstr "B6/C4"
 
+msgctxt "paper size"
 msgid "B7"
-msgstr ""
+msgstr "B7"
 
+msgctxt "paper size"
 msgid "B8"
-msgstr ""
+msgstr "B8"
 
+msgctxt "paper size"
 msgid "B9"
-msgstr ""
+msgstr "B9"
 
+msgctxt "paper size"
 msgid "C0"
 msgstr "C0"
 
+msgctxt "paper size"
 msgid "C1"
 msgstr "C1"
 
+msgctxt "paper size"
 msgid "C10"
 msgstr "C10"
 
+msgctxt "paper size"
 msgid "C2"
 msgstr "C2"
 
+msgctxt "paper size"
 msgid "C3"
 msgstr "C3"
 
+msgctxt "paper size"
 msgid "C4"
 msgstr "C4"
 
+msgctxt "paper size"
 msgid "C5"
 msgstr "C5"
 
+msgctxt "paper size"
 msgid "C6"
 msgstr "C6"
 
+msgctxt "paper size"
 msgid "C6/C5"
-msgstr ""
+msgstr "C6/C5"
 
+msgctxt "paper size"
 msgid "C7"
 msgstr "C7"
 
+msgctxt "paper size"
 msgid "C7/C6"
-msgstr ""
+msgstr "C7/C6"
 
+msgctxt "paper size"
 msgid "C8"
 msgstr "C8"
 
+msgctxt "paper size"
 msgid "C9"
 msgstr "C9"
 
+msgctxt "paper size"
 msgid "Choukei 2 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་Choukei 2"
 
+msgctxt "paper size"
 msgid "Choukei 3 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་Choukei 3"
 
+msgctxt "paper size"
 msgid "Choukei 4 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་Choukei 4"
 
+msgctxt "paper size"
 msgid "DL Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་DL"
 
+msgctxt "paper size"
 msgid "Dai-pa-kai"
-msgstr ""
+msgstr "Dai-pa-kai"
 
+msgctxt "paper size"
 msgid "European edp"
-msgstr ""
+msgstr "European edp"
 
+msgctxt "paper size"
 msgid "Executive"
-msgstr ""
+msgstr "Executive"
 
+msgctxt "paper size"
 msgid "FanFold European"
-msgstr ""
+msgstr "FanFold European"
 
+msgctxt "paper size"
 msgid "FanFold German Legal"
-msgstr ""
+msgstr "FanFold German Legal"
 
+msgctxt "paper size"
 msgid "FanFold US"
-msgstr ""
+msgstr "FanFold US"
 
+msgctxt "paper size"
 msgid "Folio"
 msgstr "དེབ་ཆ་འབྱེད།"
 
+msgctxt "paper size"
 msgid "Folio sp"
-msgstr ""
+msgstr "དེབ་ཆ་འབྱེད།"
 
 msgid "Government Legal"
 msgstr ""
 
+msgctxt "paper size"
 msgid "Government Letter"
-msgstr ""
+msgstr "Government Letter"
 
+msgctxt "paper size"
 msgid "Index 3x5"
-msgstr ""
+msgstr "Index 3x5"
 
+msgctxt "paper size"
 msgid "Index 4x6 (postcard)"
-msgstr ""
+msgstr "Index 4x6 (སྐོགས་མེད་འཕྲིན་ཡིག)"
 
+msgctxt "paper size"
 msgid "Index 4x6 ext"
-msgstr ""
+msgstr "Index 4x6 ext"
 
+msgctxt "paper size"
 msgid "Index 5x8"
-msgstr ""
+msgstr "Index 5x8"
 
+msgctxt "paper size"
 msgid "Invite Envelope"
-msgstr ""
+msgstr "Invite Envelope"
 
+msgctxt "paper size"
 msgid "Invoice"
-msgstr ""
+msgstr "Invoice"
 
+msgctxt "paper size"
 msgid "Italian Envelope"
-msgstr ""
+msgstr "དབྱི་ཊ་ལི་ཡིག་སྐོགས།"
 
+msgctxt "paper size"
 msgid "JB0"
-msgstr ""
+msgstr "JB0"
 
+msgctxt "paper size"
 msgid "JB1"
-msgstr ""
+msgstr "JB1"
 
+msgctxt "paper size"
 msgid "JB10"
-msgstr ""
+msgstr "JB10"
 
+msgctxt "paper size"
 msgid "JB2"
-msgstr ""
+msgstr "JB2"
 
+msgctxt "paper size"
 msgid "JB3"
-msgstr ""
+msgstr "JB3"
 
+msgctxt "paper size"
 msgid "JB4"
-msgstr ""
+msgstr "JB4"
 
+msgctxt "paper size"
 msgid "JB5"
-msgstr ""
+msgstr "JB5"
 
+msgctxt "paper size"
 msgid "JB6"
-msgstr ""
+msgstr "JB6"
 
+msgctxt "paper size"
 msgid "JB7"
-msgstr ""
+msgstr "JB7"
 
+msgctxt "paper size"
 msgid "JB8"
-msgstr ""
+msgstr "JB8"
 
+msgctxt "paper size"
 msgid "JB9"
-msgstr ""
+msgstr "JB9"
 
+msgctxt "paper size"
 msgid "Monarch Envelope"
-msgstr ""
+msgstr "Monarch Envelope"
 
+msgctxt "paper size"
 msgid "Personal Envelope"
-msgstr ""
+msgstr "སྒེར་སྤྱོད་ཡིག་སྐོགས།"
 
+msgctxt "paper size"
 msgid "Postfix Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་Postfix "
 
+msgctxt "paper size"
 msgid "Quarto"
 msgstr "བཞི་ཕྱེ།"
 
+msgctxt "paper size"
 msgid "RA0"
-msgstr ""
+msgstr "A0"
 
+msgctxt "paper size"
 msgid "RA1"
-msgstr ""
+msgstr "A1"
 
+msgctxt "paper size"
 msgid "RA2"
-msgstr ""
+msgstr "A2"
 
+msgctxt "paper size"
 msgid "ROC 16k"
-msgstr ""
+msgstr "ROC 16k"
 
+msgctxt "paper size"
 msgid "ROC 8k"
-msgstr ""
+msgstr "ROC 8k"
 
+msgctxt "paper size"
 msgid "SRA0"
-msgstr ""
+msgstr "SRA0"
 
+msgctxt "paper size"
 msgid "SRA1"
-msgstr ""
+msgstr "SRA1"
 
+msgctxt "paper size"
 msgid "SRA2"
-msgstr ""
+msgstr "SRA2"
 
+msgctxt "paper size"
 msgid "Small Photo"
-msgstr ""
+msgstr "པར་ཆུང་།"
 
+msgctxt "paper size"
 msgid "Super A"
-msgstr ""
+msgstr "Super"
 
+msgctxt "paper size"
 msgid "Super B"
-msgstr ""
+msgstr "Super"
 
+msgctxt "paper size"
 msgid "Tabloid"
 msgstr "ཚགས་པར་ཆུང་སྤྱོད་ཤོག་བུ།"
 
+msgctxt "paper size"
 msgid "US Legal"
 msgstr "ཨ་རིའི་ཁྲིམས་བཀོད་ཤོག་བུ།"
 
+msgctxt "paper size"
 msgid "US Legal Extra"
-msgstr ""
+msgstr "ཨ་རིའི་ཁྲིམས་བཀོད་ཤོག་བུ།"
 
+msgctxt "paper size"
 msgid "US Letter"
 msgstr "ཨ་རིའི་ཡིག་ཤོག"
 
+msgctxt "paper size"
 msgid "US Letter Extra"
-msgstr ""
+msgstr "ཨ་རིའི་ཡིག་ཤོག"
 
+msgctxt "paper size"
 msgid "US Letter Plus"
-msgstr ""
+msgstr "ཨ་རིའི་ཡིག་ཤོག"
 
+msgctxt "paper size"
 msgid "Wide Format"
-msgstr ""
+msgstr "ཞེང་གི་རྣམ་གཞག"
 
+msgctxt "paper size"
 msgid "a2 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་a2"
 
+msgctxt "paper size"
 msgid "asme_f"
-msgstr ""
+msgstr "asme_f"
 
+msgctxt "paper size"
 msgid "b-plus"
-msgstr ""
+msgstr "b-plus"
 
+msgctxt "paper size"
 msgid "c"
 msgstr "c"
 
+msgctxt "paper size"
 msgid "c5 Envelope"
-msgstr ""
+msgstr "c5 Envelope"
 
+msgctxt "paper size"
 msgid "d"
-msgstr ""
+msgstr "d"
 
+msgctxt "paper size"
 msgid "e"
-msgstr ""
+msgstr "e"
 
+msgctxt "paper size"
 msgid "edp"
-msgstr ""
+msgstr "edp"
 
+msgctxt "paper size"
 msgid "f"
-msgstr ""
+msgstr "f"
 
+msgctxt "paper size"
 msgid "hagaki (postcard)"
-msgstr ""
+msgstr "hagaki(སྐོགས་མེད་འཕྲིན་ཡིག)"
 
+msgctxt "paper size"
 msgid "jis exec"
-msgstr ""
+msgstr "jis exec"
 
+msgctxt "paper size"
 msgid "juuro-ku-kai"
-msgstr ""
+msgstr "juuro-ku-kai"
 
+msgctxt "paper size"
 msgid "kahu Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་kahu"
 
+msgctxt "paper size"
 msgid "kaku2 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས་kahu2"
 
+msgctxt "paper size"
 msgid "oufuku (reply postcard)"
-msgstr ""
+msgstr "oufuku (མིང་བྱང་ལ་ལན་འདེབས།)"
 
+msgctxt "paper size"
 msgid "pa-kai"
-msgstr ""
+msgstr "pa-kai"
 
+msgctxt "paper size"
 msgid "prc 16k"
-msgstr ""
+msgstr "ཆ་ཤས་16ཅན།"
 
+msgctxt "paper size"
 msgid "prc 32k"
-msgstr ""
+msgstr "ཆ་ཤས་32ཅན།"
 
+msgctxt "paper size"
 msgid "prc1 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་དང་པོ།"
 
+msgctxt "paper size"
 msgid "prc10 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་བཅུ་པ།"
 
+msgctxt "paper size"
 msgid "prc2 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་གཉིས་པ།"
 
+msgctxt "paper size"
 msgid "prc3 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་གསུམ་པ།"
 
+msgctxt "paper size"
 msgid "prc4 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་བཞི་པ།"
 
+msgctxt "paper size"
 msgid "prc5 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་ལྔ་པ།"
 
+msgctxt "paper size"
 msgid "prc6 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་དྲུག་པ།"
 
+msgctxt "paper size"
 msgid "prc7 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་བདུན་པ།"
 
+msgctxt "paper size"
 msgid "prc8 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་བརྒྱད་པ།"
 
+msgctxt "paper size"
 msgid "prc9 Envelope"
-msgstr ""
+msgstr "ཀྲུང་གོའི་ཡིག་སྐོགས་དགུ་པ།"
 
+msgctxt "paper size"
 msgid "you4 Envelope"
-msgstr ""
+msgstr "ཡིག་སྐོགས། you4"
 
 msgid "paused"
 msgstr "སྐབས་འཇོག་བྱས་ཟིན།"
 
+msgctxt "print operation status"
 msgid "Blocking on issue"
-msgstr ""
+msgstr "ཤོག་བླུགས།"
 
+msgctxt "print operation status"
 msgid "Finished"
 msgstr "ལེགས་གྲུབ།"
 
+msgctxt "print operation status"
 msgid "Finished with error"
-msgstr ""
+msgstr "ནོར་འཁྲུལ་པར་འདེབས།"
 
+msgctxt "print operation status"
 msgid "Generating data"
-msgstr ""
+msgstr "གཞི་གྲངས་འགྲུབ་པ།"
 
+msgctxt "print operation status"
 msgid "Initial state"
-msgstr ""
+msgstr "ཐོག་མའི་རྣམ་པ།"
 
+msgctxt "print operation status"
 msgid "Preparing to print"
-msgstr ""
+msgstr "གྲ་སྒྲིག་བྱེད་པ།"
 
+msgctxt "print operation status"
 msgid "Printing"
 msgstr "པར་འདེབས།"
 
+msgctxt "print operation status"
 msgid "Sending data"
-msgstr ""
+msgstr "གཞི་གྲངས་གཏོང་བ།"
 
+msgctxt "print operation status"
 msgid "Waiting"
 msgstr "སྒུག་པ།"
 
@@ -2630,23 +2937,28 @@ msgstr ""
 msgid "ready to print"
 msgstr ""
 
-msgid "%d. %s"
-msgstr ""
+msgctxt "progress bar label"
+msgid "%d %%"
+msgstr "%d %%"
 
-msgid "_%d. %s"
+msgctxt "recent menu label"
+msgid "%d. %s"
 msgstr "\"_%d. %s\""
 
 msgid "test-output.%s"
 msgstr ""
 
+msgctxt "throbbing progress animation widget"
 msgid "Spinner"
-msgstr ""
+msgstr "འགུལ་རིས་ལྷོད་འཁོར།"
 
 msgid "unknown"
 msgstr "མི་ཤེས།"
 
+msgctxt "volume percentage"
 msgid "%d %%"
-msgstr ""
+msgstr "%d %%"
 
+msgctxt "year measurement template"
 msgid "2000"
-msgstr ""
+msgstr "2000"
