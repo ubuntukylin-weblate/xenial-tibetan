@@ -12,24 +12,24 @@ $(MO_FILES):
 	python3 bin/fmt.py locale-langpack/bo_CN/LC_MESSAGES/
 
 kylin-assistant/translations/kylin-assistant_bo_CN.qm: kylin-assistant/translations/kylin-assistant_bo_CN.ts
-	lconvert -i $< -o $@
+	/usr/lib/x86_64-linux-gnu/qt5/bin/lconvert -i $< -o $@
 
 kylin-ipmsg/translations/kylin-ipmsg_bo_CN.qm: kylin-ipmsg/translations/kylin-ipmsg_bo_CN.ts
-	lconvert -i $< -o $@
+	/usr/lib/x86_64-linux-gnu/qt5/bin/lconvert -i $< -o $@
 
 ukui-biometric-manager/translations/ukui-biometric-manager_bo_CN.qm: ukui-biometric-manager/translations/ukui-biometric-manager_bo_CN.ts
-	lconvert -i $< -o $@
+	/usr/lib/x86_64-linux-gnu/qt5/bin/lconvert -i $< -o $@
 
 kylin-video/translations/kylin-video_bo_CN.qm: kylin-video/translations/kylin-video_bo_CN.ts
-	lconvert -i $< -o $@
+	/usr/lib/x86_64-linux-gnu/qt5/bin/lconvert -i $< -o $@
 
 yhkylin-backup-tools/translations/yhkylin-backup-tools_bo_CN.qm: yhkylin-backup-tools/translations/yhkylin-backup-tools_bo_CN.ts
-	lconvert -i $< -o $@
+	/usr/lib/x86_64-linux-gnu/qt5/bin/lconvert -i $< -o $@
 
 all: $(MO_FILES) $(QM_FILES)
 
 clean:
-	rm $(MO_FILES) $(QM_FILES)
+#	rm $(MO_FILES) $(QM_FILES)
 
 install-mo: $(MO_FILES)
 	install -d $(DESTDIR)$(PREFIX)/share/locale-langpack/bo_CN/LC_MESSAGES/
