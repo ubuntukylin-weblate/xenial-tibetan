@@ -5,7 +5,7 @@
     <name>AboutPage</name>
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="44"/>
-        <source>Kylin Ipmsg</source>
+        <source>Messages</source>
         <translation>ཆི་ལིན་འཕྲིན་སྐྱེལ།</translation>
     </message>
     <message>
@@ -28,7 +28,7 @@
     <name>ChatWidget</name>
     <message>
         <location filename="chatwidget.ui" line="14"/>
-        <source>Kylin Ipmsg</source>
+        <source>Messages</source>
         <translation>ཆི་ལིན་འཕྲིན་སྐྱེལ།</translation>
     </message>
     <message>
@@ -77,88 +77,84 @@
         <translation>བཟོ་བཅོས་ངོས་ལེན།</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="167"/>
-        <location filename="chatwidget.cpp" line="289"/>
+        <location filename="chatwidget.cpp" line="183"/>
         <source>The Remote IP Addr</source>
         <oldsource>Please input the remote IP address</oldsource>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.ui" line="14"/>
-        <location filename="chatwidget.cpp" line="196"/>
-        <location filename="chatwidget.cpp" line="293"/>
-        <source>Kylin Ipmsg</source>
+        <source>Show Remote IP Addr</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="301"/>
-        <location filename="chatwidget.cpp" line="657"/>
+        <location filename="chatwidget.cpp" line="356"/>
+        <location filename="chatwidget.cpp" line="720"/>
         <source>Me</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="313"/>
+        <location filename="chatwidget.cpp" line="368"/>
         <source>file sent out</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="318"/>
+        <location filename="chatwidget.cpp" line="373"/>
         <source>dir sent out</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="360"/>
+        <location filename="chatwidget.cpp" line="417"/>
         <source>This is your Ip Addr</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="381"/>
-        <location filename="chatwidget.cpp" line="416"/>
+        <location filename="chatwidget.cpp" line="438"/>
+        <location filename="chatwidget.cpp" line="473"/>
         <source>IP already exist in buddies</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="391"/>
+        <location filename="chatwidget.cpp" line="448"/>
         <source>Illegal IP address</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="535"/>
+        <location filename="chatwidget.cpp" line="597"/>
         <source>Remoter has stoped the transfer</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="567"/>
+        <location filename="chatwidget.cpp" line="630"/>
         <source>pls choose files to send</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="593"/>
+        <location filename="chatwidget.cpp" line="656"/>
         <source>pls choose dir to send</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="609"/>
+        <location filename="chatwidget.cpp" line="672"/>
         <source>pls do not send empty dir</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="663"/>
+        <location filename="chatwidget.cpp" line="726"/>
         <source>transmission canceled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="785"/>
+        <location filename="chatwidget.cpp" line="901"/>
         <source>conn failed, try again later</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="793"/>
+        <location filename="chatwidget.cpp" line="909"/>
         <source>transmission error</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="798"/>
+        <location filename="chatwidget.cpp" line="914"/>
         <source>connecting...</source>
         <translation></translation>
     </message>
@@ -166,58 +162,78 @@
 <context>
     <name>DuktoWindow</name>
     <message>
-        <location filename="duktowindow.cpp" line="10"/>
-        <source>Kylin Ipmsg</source>
+        <location filename="duktowindow.cpp" line="28"/>
+        <source>Messages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="duktowindow.cpp" line="42"/>
+        <source>Messages has been opened by other user!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="duktowindow.cpp" line="43"/>
+        <source>Confirm</source>
         <translation></translation>
     </message>
 </context>
 <context>
     <name>GuiBehind</name>
     <message>
-        <location filename="guibehind.cpp" line="19"/>
+        <location filename="guibehind.cpp" line="54"/>
         <source> (You)</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="guibehind.cpp" line="21"/>
+        <location filename="guibehind.cpp" line="56"/>
         <source>Use IP Address</source>
         <translation></translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="243"/>
         <source>Received file</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="258"/>
         <source>files</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="248"/>
         <source>size</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="254"/>
+        <location filename="guibehind.cpp" line="268"/>
+        <location filename="guibehind.cpp" line="277"/>
         <source>Open directory</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="274"/>
         <source>Received folder</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="252"/>
         <source>Open</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="260"/>
+        <location filename="guibehind.cpp" line="274"/>
         <source>Total size</source>
         <translation type="obsolete"></translation>
     </message>
     <message>
-        <location filename="guibehind.cpp" line="21"/>
+        <location filename="guibehind.cpp" line="56"/>
         <source>Contact with parent network</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="guibehind.cpp" line="397"/>
+        <location filename="guibehind.cpp" line="537"/>
         <source>Change folder</source>
         <translation></translation>
     </message>
@@ -253,6 +269,7 @@
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="79"/>
         <source>File Receive Path</source>
+        <oldsource>File Recive Path</oldsource>
         <translation>ཡིག་ཆ་ཉར་ཚགས་དཀར་ཆག</translation>
     </message>
     <message>
