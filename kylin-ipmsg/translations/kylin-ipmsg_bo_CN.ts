@@ -1,225 +1,241 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="bo_CN">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>AboutPage</name>
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="44"/>
-        <source>Kylin Ipmsg</source>
-        <translation>ཆི་ལིན་འཕྲིན་སྐྱེལ།</translation>
+        <source>Messages</source>
+        <translation>传书</translation>
     </message>
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="66"/>
         <source>Provide text chat and file transfer function with no server. </source>
-        <translation>མཉེན་ཆས་འདིས་ཁྱབ་ཆུང་དྲ་བའི་ནང་རོལ་གྱི་ཡི་གེའི་གླེང་མོལ་དང་ཡིག་ཆ་སྐྱེལ་འདྲེན་བྱེད་པའི་ནུས་པ་འདོན་སྤྲོད་བྱས་རྐྱེན་ཞབས་ཞུ་ཆས་མི་དགོས། </translation>
+        <translation>本软件提供局域网内的文字聊天以及文件传输功能，不需要搭建服务器</translation>
     </message>
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="67"/>
         <source>Mult person concurrency. </source>
-        <translation>མི་མང་པོས་དུས་མཉམ་དུ་སྤྱད་ཆོག་པ་དང་སྐུར་ལེན་མཉམ་བགྲོད་བྱ་ཆོག </translation>
+        <translation>支持多人同时交互，收发并行</translation>
     </message>
     <message>
         <location filename="qml/dukto/AboutPage.qml" line="68"/>
         <source>The UI resources comes from Dukto</source>
-        <translation>འཆར་ངོས་རྒྱུ་ཆ་ནི་ཨང་རྗེན་མཉེན་ཆསDuktoལས་བྱུང་བ་ཡིན།</translation>
+        <translation>界面素材来自开源软件 Dukto</translation>
     </message>
 </context>
 <context>
     <name>ChatWidget</name>
     <message>
         <location filename="chatwidget.ui" line="14"/>
-        <source>Kylin Ipmsg</source>
-        <translation>ཆི་ལིན་འཕྲིན་སྐྱེལ།</translation>
+        <source>Messages</source>
+        <translation>传书</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="36"/>
         <source>Send Text (Enter)</source>
-        <translation>འཕྲིན་ཐུང་སྐུར།(Enter)</translation>
+        <translation>发消息(Enter)</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="49"/>
         <source>Send Files</source>
-        <translation>ཡིག་ཆ་སྐུར་བ།</translation>
+        <translation>传文件 (可多选)</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="62"/>
         <source>Send Dir</source>
-        <translation>ཡིག་ཁུག་སྐུར་བ།</translation>
+        <translation>传文件夹</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="80"/>
         <source>Chat Widget</source>
-        <translation>འཕྲིན་ཐུང་འཆར་ངོས།</translation>
+        <translation>消息界面</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="251"/>
         <source>Sending files...</source>
-        <translation>ཡིག་ཆ་སྐུར་བའི་སྒང་།</translation>
+        <translation>正在发送文件</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="264"/>
         <source>Cancel</source>
-        <translation>དོར་བ།</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="361"/>
         <source>Receiving files...</source>
-        <translation>ཡིག་ཆ་དང་ལེན་བྱེད་སྒང་།</translation>
+        <translation>正在接收文件</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="459"/>
         <source>Change nickname</source>
-        <translation>ཟུར་མཆན་བཟོ་བཅོས།</translation>
+        <translation>修改备注</translation>
     </message>
     <message>
         <location filename="chatwidget.ui" line="478"/>
         <source>Confirm change</source>
-        <translation>བཟོ་བཅོས་ངོས་ལེན།</translation>
+        <translation>确认修改</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="167"/>
-        <location filename="chatwidget.cpp" line="289"/>
+        <location filename="chatwidget.cpp" line="183"/>
         <source>The Remote IP Addr</source>
         <oldsource>Please input the remote IP address</oldsource>
-        <translation></translation>
+        <translation>请输入对方的 IP 地址</translation>
     </message>
     <message>
-        <location filename="chatwidget.ui" line="14"/>
-        <location filename="chatwidget.cpp" line="196"/>
-        <location filename="chatwidget.cpp" line="293"/>
-        <source>Kylin Ipmsg</source>
-        <translation></translation>
+        <source>Show Remote IP Addr</source>
+        <translation>对方的 IP 地址</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="301"/>
-        <location filename="chatwidget.cpp" line="657"/>
+        <location filename="chatwidget.cpp" line="356"/>
+        <location filename="chatwidget.cpp" line="720"/>
         <source>Me</source>
-        <translation></translation>
+        <translation>我</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="313"/>
+        <location filename="chatwidget.cpp" line="368"/>
         <source>file sent out</source>
-        <translation></translation>
+        <translation>发送了文件</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="318"/>
+        <location filename="chatwidget.cpp" line="373"/>
         <source>dir sent out</source>
-        <translation></translation>
+        <translation>发送了文件夹</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="360"/>
+        <location filename="chatwidget.cpp" line="417"/>
         <source>This is your Ip Addr</source>
-        <translation></translation>
+        <translation>这是你自己的IP地址</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="381"/>
-        <location filename="chatwidget.cpp" line="416"/>
+        <location filename="chatwidget.cpp" line="438"/>
+        <location filename="chatwidget.cpp" line="473"/>
         <source>IP already exist in buddies</source>
-        <translation></translation>
+        <translation>已有该IP好友，请点击好友打开聊天界面</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="391"/>
+        <location filename="chatwidget.cpp" line="448"/>
         <source>Illegal IP address</source>
-        <translation></translation>
+        <translation>输入的IP地址不合法</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="535"/>
+        <location filename="chatwidget.cpp" line="597"/>
         <source>Remoter has stoped the transfer</source>
-        <translation></translation>
+        <translation>对方中止了文件传输</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="567"/>
+        <location filename="chatwidget.cpp" line="630"/>
         <source>pls choose files to send</source>
-        <translation></translation>
+        <translation>请选择要发送的文件</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="593"/>
+        <location filename="chatwidget.cpp" line="656"/>
         <source>pls choose dir to send</source>
-        <translation></translation>
+        <translation>请选择要发送的文件夹</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="609"/>
+        <location filename="chatwidget.cpp" line="672"/>
         <source>pls do not send empty dir</source>
-        <translation></translation>
+        <translation>请勿发送空文件夹</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="663"/>
+        <location filename="chatwidget.cpp" line="726"/>
         <source>transmission canceled</source>
-        <translation></translation>
+        <translation>文件传输已取消</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="785"/>
+        <location filename="chatwidget.cpp" line="901"/>
         <source>conn failed, try again later</source>
-        <translation></translation>
+        <translation>连接失败，请确认好友在线，稍后再试</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="793"/>
+        <location filename="chatwidget.cpp" line="909"/>
         <source>transmission error</source>
-        <translation></translation>
+        <translation>数据传输错误</translation>
     </message>
     <message>
-        <location filename="chatwidget.cpp" line="798"/>
+        <location filename="chatwidget.cpp" line="914"/>
         <source>connecting...</source>
-        <translation></translation>
+        <translation>正在尝试连接</translation>
     </message>
 </context>
 <context>
     <name>DuktoWindow</name>
     <message>
-        <location filename="duktowindow.cpp" line="10"/>
-        <source>Kylin Ipmsg</source>
-        <translation></translation>
+        <location filename="duktowindow.cpp" line="28"/>
+        <source>Messages</source>
+        <translation>传书</translation>
+    </message>
+    <message>
+        <location filename="duktowindow.cpp" line="42"/>
+        <source>Messages has been opened by other user!</source>
+        <translation>系统中已有其他用户启动了传书!</translation>
+    </message>
+    <message>
+        <location filename="duktowindow.cpp" line="43"/>
+        <source>Confirm</source>
+        <translation>确认</translation>
     </message>
 </context>
 <context>
     <name>GuiBehind</name>
     <message>
-        <location filename="guibehind.cpp" line="19"/>
+        <location filename="guibehind.cpp" line="54"/>
         <source> (You)</source>
-        <translation></translation>
+        <translation> (本机)</translation>
     </message>
     <message>
-        <location filename="guibehind.cpp" line="21"/>
+        <location filename="guibehind.cpp" line="56"/>
         <source>Use IP Address</source>
-        <translation></translation>
+        <translation>使用 IP 地址</translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="243"/>
         <source>Received file</source>
-        <translation type="obsolete"></translation>
+        <translation>收到文件</translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="258"/>
         <source>files</source>
-        <translation type="obsolete"></translation>
+        <translation>个</translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="248"/>
         <source>size</source>
-        <translation type="obsolete"></translation>
+        <translation>大小</translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="254"/>
+        <location filename="guibehind.cpp" line="268"/>
+        <location filename="guibehind.cpp" line="277"/>
         <source>Open directory</source>
-        <translation type="obsolete"></translation>
+        <translation>打开目录</translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="274"/>
         <source>Received folder</source>
-        <translation type="obsolete"></translation>
+        <translation>收到文件夹</translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="252"/>
         <source>Open</source>
-        <translation type="obsolete"></translation>
+        <translation>打开</translation>
     </message>
     <message>
+        <location filename="guibehind.cpp" line="260"/>
+        <location filename="guibehind.cpp" line="274"/>
         <source>Total size</source>
-        <translation type="obsolete"></translation>
+        <translation>共计大小</translation>
     </message>
     <message>
-        <location filename="guibehind.cpp" line="21"/>
+        <location filename="guibehind.cpp" line="56"/>
         <source>Contact with parent network</source>
-        <translation></translation>
+        <translation>向你的上层网络发送消息</translation>
     </message>
     <message>
-        <location filename="guibehind.cpp" line="397"/>
+        <location filename="guibehind.cpp" line="537"/>
         <source>Change folder</source>
-        <translation></translation>
+        <translation>更改目录</translation>
     </message>
 </context>
 <context>
@@ -227,7 +243,7 @@
     <message>
         <location filename="qml/dukto/IpPage.qml" line="104"/>
         <source>Your IP Address</source>
-        <translation>ཁྱེད་ཀྱིIPས་གནས</translation>
+        <translation>本机 IP 地址</translation>
     </message>
 </context>
 <context>
@@ -235,12 +251,12 @@
     <message>
         <location filename="qml/dukto/RecentPage.qml" line="48"/>
         <source>Sorry, there is nothing yet...</source>
-        <translation>དགོངས་དག ཁྱེད་ལ་འཕྲིན་ཐུང་གང་ཡང་འབྱོར་མ་སོང་།</translation>
+        <translation>对不起, 您还没有收到过任何消息...</translation>
     </message>
     <message>
         <location filename="qml/dukto/RecentPage.qml" line="125"/>
         <source>Recent </source>
-        <translation>ཉེ་ལམ་གླེང་མོལ། </translation>
+        <translation>最近交谈</translation>
     </message>
 </context>
 <context>
@@ -248,32 +264,33 @@
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="67"/>
         <source>Settings</source>
-        <translation>འདེམས་བྱང་སྒྲིག་འགོད།</translation>
+        <translation>选项设置</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="79"/>
         <source>File Receive Path</source>
-        <translation>ཡིག་ཆ་ཉར་ཚགས་དཀར་ཆག</translation>
+        <oldsource>File Recive Path</oldsource>
+        <translation>文件保存目录</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="120"/>
         <source>Change Path</source>
-        <translation>དཀར་ཆག་བཅོས་སྒྱུར།</translation>
+        <translation>更改目录</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="131"/>
         <source>Theme Color</source>
-        <translation>བརྗོད་དོན་ཁ་མདོག</translation>
+        <translation>主题颜色</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="234"/>
         <source>User Guide</source>
-        <translation>བཀོལ་མཁན་ལག་དེབ།</translation>
+        <translation>用户手册</translation>
     </message>
     <message>
         <location filename="qml/dukto/SettingsPage.qml" line="245"/>
         <source>View Guide</source>
-        <translation>ལྟ་བཤེར་ལག་དེབ།</translation>
+        <translation>查看手册</translation>
     </message>
 </context>
 <context>
@@ -281,17 +298,17 @@
     <message>
         <location filename="qml/dukto/TabBar.qml" line="39"/>
         <source>Buddy</source>
-        <translation>གྲོགས་མཆེད།</translation>
+        <translation>好 友</translation>
     </message>
     <message>
         <location filename="qml/dukto/TabBar.qml" line="60"/>
         <source>Recent</source>
-        <translation>ཉེ་ཆར།</translation>
+        <translation>最 近</translation>
     </message>
     <message>
         <location filename="qml/dukto/TabBar.qml" line="82"/>
         <source>About</source>
-        <translation>འབྲེལ་ཡོད།</translation>
+        <translation>关 于</translation>
     </message>
 </context>
 <context>
@@ -299,17 +316,17 @@
     <message>
         <location filename="qml/dukto/ToolBar.qml" line="71"/>
         <source>Received Files</source>
-        <translation>ཡིག་ཆ་དང་ལེན་བྱས།</translation>
+        <translation>已接收文件</translation>
     </message>
     <message>
         <location filename="qml/dukto/ToolBar.qml" line="98"/>
         <source>My IP Addr</source>
-        <translation>ངའི་IPས་གནས།</translation>
+        <translation>本机IP地址</translation>
     </message>
     <message>
         <location filename="qml/dukto/ToolBar.qml" line="123"/>
         <source>Settings</source>
-        <translation>སྒྲིག་འགོད།</translation>
+        <translation>选项设置</translation>
     </message>
 </context>
 </TS>
